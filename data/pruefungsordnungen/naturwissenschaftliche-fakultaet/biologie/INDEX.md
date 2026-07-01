@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Biologie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:34:27+00:00
+scraped_at: 2026-07-01T08:57:45+00:00
 ---
 
 # Biologie
@@ -72,8 +72,10 @@ Bitte beachten: Für Studiengänge der Physik gilt \***nicht**\* die Allgemeine 
 | englisch | Dateigröße |
 | --- | --- |
 | [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf) | 299 KB |
+| [FPOilmmune 20180319 i.d.F. 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_idF_20240926_en.pdf) | 250 KB |
 | [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_idF_20220718_en.pdf) | 566 KB |
 | [FPOilmmune 20180319 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_en.pdf) | 723 KB |
+| [FPOiImmune 20260213 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOiImmune_20260213_en.pdf) | 416 KB |
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
@@ -120,7 +122,7 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (57)
+## Prüfungsordnungen-Dokumente (59)
 
 - [FPO BAMA Bio 20260331.pdf](fpo-bama-bio-20260331.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Biologie_und_Zell-_und_Molekularbiologie/konsolidierte_Fassungen/FPO_BAMA_Bio_20260331.pdf>
 - [FPO BAMA Bio 20191028.pdf](fpo-bama-bio-20191028.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Biologie_und_Zell-_und_Molekularbiologie/konsolidierte_Fassungen/FPO_BAMA_Bio_20191028.pdf>
@@ -157,8 +159,10 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 - [FPOilmmune 20180319 i.d.F. 20220718.pdf](fpoilmmune-20180319-idf-20220718.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20180319_idF_20220718.pdf>
 - [FPOilmmune 20180319.pdf](fpoilmmune-20180319.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/konsolidierte_Fassungen/FPOilmmune_20180319.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf>
+- [FPOilmmune 20180319 i.d.F. 20240926 en.pdf](fpoilmmune-20180319-idf-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_idF_20240926_en.pdf>
 - [FPOilmmune 20180319 i.d.F. 20220718 en.pdf](fpoilmmune-20180319-idf-20220718-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_idF_20220718_en.pdf>
 - [FPOilmmune 20180319 en.pdf](fpoilmmune-20180319-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOilmmune_20180319_en.pdf>
+- [FPOiImmune 20260213 en.pdf](fpoiimmune-20260213-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/englisch/FPOiImmune_20260213_en.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
 - [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](sammel-aesa-masterbewerbung-20230731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf>
 - [FPOilmmune 20220718 ÄS.pdf](fpoilmmune-20220718-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Integrated_Immunology/Aenderungssatzungen/FPOilmmune_20220718_AeS.pdf>

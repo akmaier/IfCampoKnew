@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Soziol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:35+00:00
-page_count_chars: 8289
+scraped_at: 2026-07-01T10:31:02+00:00
+page_count_chars: 8329
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 8289
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Soziol.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität ErlangenNürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität ErlangenNürnberg** 
 
 ## Vom 5. Oktober 2007 
 
@@ -24,11 +24,11 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 ## **§2 Umfang und Ziele des Studiums** 
 
-- (1)[1] Das Fach Soziologie kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten, studiert werden. 
+- (1)<sup>1</sup> Das Fach Soziologie kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten, studiert werden. 
 
-- (2)[1] Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+- (2)<sup>1</sup> Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-- (3)[1] Das Studium bereitet auf berufliche Tätigkeiten vor.[2] Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+- (3)<sup>1</sup> Das Studium bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 - (4) Das Studium der Soziologie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden zur Analyse der sozialen Wirklichkeit und zur Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft befähigt: 
 
@@ -88,20 +88,19 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 - (1) Im Studium der Soziologie als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
-|gen:||||
-|---|---|---|---|
-||**Modul**|**ECTS/**<br>Faktorx|**Prüfungs-**<br>**leistung**|
-|**SozE**|**Einführung**|10||
-|1. FS<br>1. FS|V:<br>V:<br>Einführung in die Soziologie<br>Sozialstrukturanalyse<br>(2 SWS)<br>(2SWS)|5<br>5|***<br>***|
-|**SozTI**|**Soziologische Theorie BA-I**|10||
-|2. FS<br>3. FS|V:<br>PS:<br>Soziologische Theorien der Gegenwart<br>Soziologische Theorie<br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
-|**SozM**|**Soziologische Methodenlehre**|5||
-|2. FS|V:<br>Einführung in die Methoden der<br>empirischen Sozialforschung<br>(2 SWS)|5|Klausur 60’|
-|**SozS**|**Statistische Analyseverfahren**|10||
-|3. FS<br>4. FS|V/Ü:<br>V/Ü:<br>Statistische Analyseverfahren I<br>Statistische Analyseverfahren II<br>(4 SWS)<br>(4 SWS)|5<br>5|Klausur 90’<br>Klausur 90’|
-|**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-I**<br>(Auswahl eines Moduls aus den Modulen Q1 bis Q4)*|10||
-|1. FS<br>2. FS|Proseminar<br>Proseminar<br> <br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
-|**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-II**<br>(Auswahl eines zweiten Moduls aus den Modulen Q1 bis Q4)*|10||
+||**Modul**||**ECTS/**<br>Faktor<sup>x</sup>|**Prüfungs-**<br>**leistung**|
+|---|---|---|---|---|
+|**SozE**|**Einführung**||10||
+|1. FS<br>1. FS|V:<br>V:<br>Einführung in die Soziologie<br>Sozialstrukturanalyse|(2 SWS)<br>(2SWS)|5<br>5|***<br>***|
+|**SozTI**|**Soziologische Theorie BA-I**||10||
+|2. FS<br>3. FS|V:<br>PS:<br>Soziologische Theorien der Gegenwart<br>Soziologische Theorie|(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
+|**SozM**|**Soziologische Methodenlehre**||5||
+|2. FS|V:<br>Einführung in die Methoden der<br>empirischen Sozialforschung|(2 SWS)|5|Klausur 60’|
+|**SozS**|**Statistische Analyseverfahren**||10||
+|3. FS<br>4. FS|V/Ü:<br>V/Ü:<br>Statistische Analyseverfahren I<br>Statistische Analyseverfahren II|(4 SWS)<br>(4 SWS)|5<br>5|Klausur 90’<br>Klausur 90’|
+|**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-I**<br>(Auswahl eines Moduls aus den Modulen Q1 bis Q4)*||10||
+|1. FS<br>2. FS|Proseminar<br>Proseminar<br>|(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
+|**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-II**<br>(Auswahl eines zweiten Moduls aus den Modulen Q1 bi|s Q4)*|10||
 
 |3. FS<br>4. FS|Proseminar<br>Proseminar<br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
 |---|---|---|---|

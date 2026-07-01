@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "3. Dezember 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1_AeSa_AllgPrO_Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:31+00:00
-page_count_chars: 2088
+scraped_at: 2026-07-01T09:28:18+00:00
+page_count_chars: 2104
 ---
 
 # 3. Dezember 2007
@@ -12,9 +12,9 @@ page_count_chars: 2088
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1_AeSa_AllgPrO_Phil.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
 
-## **Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABStPO/Phil –** 
+# **Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABStPO/Phil –** 
 
-## Vom 3. Dezember 2007 
+# Vom 3. Dezember 2007 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -30,11 +30,11 @@ b) Absatz 1 wird wie folgt geändert:
 
 aa) Nach Satz 4 wird folgender Satz 5 eingefügt: 
 
-„[5] Der Fakultätsrat bestimmt darüber hinaus für jedes Department einen Prüfungsbeauftragten oder eine Prüfungsbeauftragte sowie eine Stellvertreterin oder einen Stellvertreter; Sätze 2 und 3 gelten entsprechend.“ 
+„<sup>5</sup> Der Fakultätsrat bestimmt darüber hinaus für jedes Department einen Prüfungsbeauftragten oder eine Prüfungsbeauftragte sowie eine Stellvertreterin oder einen Stellvertreter; Sätze 2 und 3 gelten entsprechend.“ 
 
 bb) Der bisherige Satz 5 wird zu Satz 6 und erhält folgende Fassung: 
 
-„[6] Die oder der Vorsitzende des Prüfungsausschusses kann ihr oder ihm oder dem Prüfungsausschuss obliegende Aufgaben einem Mitglied des Prüfungsausschusses oder dem oder der jeweiligen Prüfungsbeauftragten zur Erledigung übertragen.“ 
+„<sup>6</sup> Die oder der Vorsitzende des Prüfungsausschusses kann ihr oder ihm oder dem Prüfungsausschuss obliegende Aufgaben einem Mitglied des Prüfungsausschusses oder dem oder der jeweiligen Prüfungsbeauftragten zur Erledigung übertragen.“ 
 
 c) In Absatz 2 Satz 3 werden nach dem Wort „Prüfungsamt“ die Worte „oder die Prüfungsbeauftragten“ eingefügt. 
 

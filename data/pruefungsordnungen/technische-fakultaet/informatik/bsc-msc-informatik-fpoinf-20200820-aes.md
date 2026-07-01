@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Informatik FPOINF 20200820 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20200820_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:17:53+00:00
-page_count_chars: 17975
+scraped_at: 2026-07-01T11:37:18+00:00
+page_count_chars: 15109
 ---
 
 # BSc-MSc Informatik FPOINF 20200820 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 17975
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20200820_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
+# **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
 
-## **Vom 20. August 2020** 
+# **Vom 20. August 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FAU – FPOINF – vom 21. September 2007, zuletzt geändert durch Satzung vom 3. Dezember 2019, wird wie folgt geändert: 
 
@@ -52,93 +52,73 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 7. In § 44 Abs. 4 wird nach dem Wort „Forschungspraktikum“ im Klammerzusatz die Zahl „3“ durch die Zahl „6“ ersetzt. 
 
-## 8. In § 47 wird nach Abs. 7 folgender neuer Abs. 8 angefügt: 
+8. In § 47 wird nach Abs. 7 folgender neuer Abs. 8 angefügt: 
 
-„(8)[1] Die dreizehnte Änderungssatzung tritt am Tag nach der Bekanntmachung in Kraft.[2] Abweichend von Satz 1 gelten die Änderungen in **Anlage 2** für alle Studierenden, die sich bezogen auf das Modul Hauptseminar noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in **Anlage 1** für alle Studierenden, die das Bachelorstudium ab dem Wintersemester 2022/2023 aufnehmen werden.[4] Prüfungen nach den bisher gültigen Fassungen der FPOINF werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2026/2027 und bezogen auf das Masterstudium letztmals im Sommersemester 2023 angeboten.[5] Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPOINF ab.“ 
+„(8)<sup>1</sup> Die dreizehnte Änderungssatzung tritt am Tag nach der Bekanntmachung in Kraft.<sup>2</sup> Abweichend von Satz 1 gelten die Änderungen in **Anlage 2** für alle Studierenden, die sich bezogen auf das Modul Hauptseminar noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in **Anlage 1** für alle Studierenden, die das Bachelorstudium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>4</sup> Prüfungen nach den bisher gültigen Fassungen der FPOINF werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2026/2027 und bezogen auf das Masterstudium letztmals im Sommersemester 2023 angeboten.<sup>5</sup> Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPOINF ab.“ 
 
 2 
 
-## 9. Die Tabelle in **Anlage 1** erhält folgende neue Fassung: 
+# 9. Die Tabelle in **Anlage 1** erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modulbezeichnung(en)**|**Lehrveranstaltung(en)**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Summe**|**Ge-**<br>**samt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Art und Umfang der**<br>**Prüfung-/**<br>**Studienleistung1)**|**Faktor**<br>**Abschluss-**<br>**note**<br>**1/180**|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Grundlagen der Programmie-<br>rung|Grundlagen der  Programmierung V|<br>2||||**SWS**<br>2|**5**|**. .**<br>5|**. .**|**. .**|**. .**|**. .**|**. .**|PL (K90)|**[]**<br>5|ja|
-||Grundlagen der  Programmierung UE||2|||2|||||||||||
-|Grundlagen der Logik in der<br>Informatik|Grundlagen der Logik in der<br>Informatik V|2||||2|**5**|5||||||PL (K90)|5|ja|
-||Grundlagen der Logik in der<br>Informatik UE||2|||2|||||||||||
-|Sichere Systeme|Sichere Systeme V|2||||2|**5**|5||||||PL (K90)|5|ja|
-||Sichere Systeme UE||2|||2|||||||||||
-|Grundlagen der Technischen<br>Informatik|Grundlagen der Technischen<br>Informatik V|4||||4|**7,5**|7,5||||||PL (K120) +<br>SL (Übungs-<br>leistung)|7,5|ja|
-||Grundlagen der Technischen<br>Informatik UE||||||||||||||||
-||||2|||2|||||||||||
-||||||||||||||||||
-|Einführung in die Algorithmik|Einführung in die Algorithmik V|4||||4|**7,5**||7,5|||||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5|ja|
-||Einführung in die Algorithmik UE||2|||2|||||||||||
-|Systemprogrammierung|Systemprogrammierung V|4||||4|**10**||5|5||||PL (K120)|10|ja|
-||Systemprogrammierung UE||2|2||4|||||||||||
-|Grundlagen der Rechner-<br>architektur und -organisation|Grundlagen der Rechnerarchitektur<br>und -organisation V|2||||2|**5**||5|||||PL (K90)|5|ja|
-||Grundlagen der Rechnerarchitektur<br>und -organisation UE||2|||2|||||||||||
-|Rechnerkommunikation|Rechnerkommunikation V|2||||2|**5**||5|||||PL (K90) +<br>SL (Übungs-<br>leistung)|5|ja|
-||Rechnerkommunikation UE||2|||2|||||||||||
-|Parallele und funktionale<br>Programmierung|Parallele und funktionale<br>ProgrammierungV|2||||2|**5**|||5||||PL (K60)|5|ja|
-||Parallele und funktionale<br>ProgrammierungUE||2||||||||||||||
-|||||||2|||||||||||
-||||||||||||||||||
-|Softwareentwicklung in<br>Großprojekten|Softwareentwicklung in Großprojekten<br>V|2||||2|**5**|||||||PL (K90)|5||
-||Softwareentwicklung in Großprojekten<br>UE||2|||2||||5|||||||
-||||||||||||||||||
-|Berechenbarkeit und<br>Formale Sprachen|Berechenbarkeit und Formale<br>Sprachen V|4||||4|**7,5**|||7,5||||PL (K90) +<br>SL(Übungs-|7,5||
+|**Modulbezeichnun(en)**|**Lehrveranstaltun(en)**||**SWS**||**Ge-**<br>**samt**|**Workl**|**oad-Verte**|**ilung pro**|**Semester i**|**n ECTS-Pu**|**nkten**|**Art und Umfang der**<br>**Prüfung-/**|**Faktor**<br>**Abschluss-**|<br>**GOP-**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**g**|**g**||||<br>|||||||<br>|**note**|**fähig**|
+|||**V**<br>**Ü**|**P**<br>**S**|**Summe**<br>**SWS**|**ECTS**<br>|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**Studienleistung**<sup>**1)**</sup>|<br>**[1/180]**||
+|Grundlagen der Programmie-|Grundlagen der  Programmierung V|2||2|**5**|5||||||PL (K90)|5|ja|
+|rung|Grundlagen der  Programmierung UE|2||2|||||||||||
+|Grundlagen der Logik in der|Grundlagen der Logik in der<br>Informatik V|2||2|**5**|5||||||PL K90|5||
+|Informatik|Grundlagen der Logik in der<br>Informatik UE|2||2||||||||()||ja|
+|Sichere Systeme|Sichere Systeme V|2||2|**5**|5||||||PL (K90)|5|ja|
+||Sichere Systeme UE|2||2|||||||||||
+|Grundlagen der Technischen|Grundlagen der Technischen<br>Informatik V|4||4|**75**|75||||||PL (K120) +<br>SL Üb|75||
+|Informatik|Grundlagen der Technischen<br>Informatik UE|2||2|**,**|,||||||(ungs-<br>leistung)|,|ja|
+|Einführun in die Alorithmik|Einführung in die Algorithmik V|4||4|**75**||75|||||PL (K90) +<br>SL (Übuns-|75|ja|
+|g   g|Einführung in die Algorithmik UE|2||2|**,**||,|||||g<br>leistung)|,||
+|Sti|Systemprogrammierung V|4||4|**10**||5|5||||PL K120|10||
+|ysemprogrammerung|Systemprogrammierung UE|2|2|4||||||||()||ja|
+|Grundlagen der Rechner-<br>architektur und -organisation|Grundlagen der Rechnerarchitektur<br>und -organisation V<br>Grundlagen der Rechnerarchitektur<br>und -organisation UE|2<br>2||2<br>2|**5**||5|||||PL (K90)|5|ja|
+|Rechnerkommunikation|Rechnerkommunikation V<br>Rechnerkommunikation UE|2<br>2||2<br>2|**5**||5|||||PL (K90) +<br>SL (Übungs-<br>leistung)|5|ja|
+|Parallele und funktionale<br>Programmierung|Parallele und funktionale<br>ProgrammierungV<br>Parallele und funktionale<br>ProgrammierungUE|2<br>2||2<br>2|**5**|||5||||PL (K60)|5|ja|
+|Softwareentwicklung in<br>Großprojekten|Softwareentwicklung in Großprojekten<br>V<br>Softwareentwicklung in Großprojekten<br>UE|2<br>2||2<br>2|**5**|||5||||PL (K90)|5||
+|Berechenbarkeit und<br>Formale Sprachen|Berechenbarkeit und Formale<br>Sprachen V|4||4|**7,5**|||7,5||||PL (K90) +<br>SL(Übungs-|7,5||
 
 3 
 
-|**Modulbezeichnung(en)**||**SWS**|**SWS**|**SWS**|**SWS**||**Ge-**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 S**<br>**2 S**<br>**3 S**<br>**4 S**<br>**S**<br>**6 S**|**Art und Umfang der**<br>**Prüfung-/**<br>**Studienleistung1)**|**Faktor**<br>**Abschluss-**<br>**note**<br>|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung(en)**|**V**<br>**Ü**<br>**P**<br>**S**||||**Summe**|**samt**<br>**ECTS**||**2 S**|**3 S**|**4 S**|**S**|||||
-||Berechenbarkeit und Formale Spra-<br>chen UE||<br>2|||**SWS**<br>2||**. em.**|**. em.**|**. em.**|**. em.**|**5. em.**|**. em.**|leistung)|**[1/180]**||
-|Theorie der Programmierung|Theorie der Programmierung V|4||||4|**7,5**||||7,5|||PL (K90)|7,5||
-||Theorie der Programmierung UE||2|||2|||||||||||
-|Algorithmik kontinuierlicher<br>Systeme|Algorithmik kontinuierlicher Systeme<br>V|4||||4|**7,5**||||7,5|||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
-||Algorithmik kontinuierlicher Systeme<br>UE||||||||||||||||
-||||2|||2|||||||||||
-||||||||||||||||||
-|Konzeptionelle Modellierung<br>und Grundlagen von Daten-<br>banken|Konzeptionelle Modellierung und<br>Grundlagen von Datenbanken V|3||||3|**7,5**||||7,5|||PL (K90)|7,5||
-||Konzeptionelle Modellierung und<br>Grundlagen von Datenbanken UE||3|||3|||||||||||
-|Hauptseminar (Schlüssel-<br>qualifikation)|Hauptseminar||||2-4|2-4|**5**|||||5||PL (Seminar-<br>leistung)|5||
-||||||||||||||||||
-|Praktikum|Praktikum|||8||8|**10**|||||10||PL (Praktikums-<br>leistung)|10||
-|Mathematik für INF 12)|Mathematik für INF 1 V|4||||4|**75**|75||||||PL (K90) +<br>SL Üb|7,5|ja|
-||Mathematik für INF 1 UE||2|||2|**,**|,||||||(ungs-<br>leistung)|||
-|Mathematik für INF 22)|Mathematik für INF 2 V|4||||4|**75**|||||||PL (K90) +<br>SL Ü|7,5|ja|
-||Mathematik für INF 2 UE||2|||2|**,**||7,5|||||(bungs-<br>leistung)|||
-|Mathematik für INF 32)|Mathematik für INF 3 V|4||||4|**75**|||75||||PL (K90) +<br>SL Üb|7,5||
-||Mathematik für INF 3 UE||2|||2|**,**|||,||||(ungs-<br>leistung)|||
-|Mathematik für INF 42)|Mathematik für INF 4 V|4||||4|**75**||||75|||PL (K90) +<br>SL Üb|7,5||
-||Mathematik für INF 4 UE||2|||2|**,**||||,|||(ungs-<br>leistung)|||
-|Wahlpflichtbereich:<br>Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen<br>gemäß§39a|3) 4)||||||||||||||15||
-||||||||**15**|||||10|5|PL (MHB)3)|||
-||||||||||||||||||
-|Nebenfach (Schlüsselqualifi-<br>kation) gemäß § 39b i. V. m.<br>Anlage 2|3)|||||||||||||3)|15||
-||||||||**15**|||||5|10|PL (MHB)|||
+|**Modulbezeichnun(en)**|**Lehrveranstaltun(en)**||**SWS**||**Ge-**<br>**samt**|**Workl**|**oad-Verte**|**ilung pro**|**Semester i**|**n ECTS-P**|**unkten**|**Art und Umfang der**<br>**Prüfung-/**|**Faktor**<br>**Abschluss-**|<br>**GOP-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**g**|**g**||||<br>|||||||<br><sup>**1**</sup>|**note**|**fähig**|
+|||**V**<br>**Ü**|**P**<br>**S**|**Summe**<br>**SWS**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**Studienleistung**<sup>**)**</sup>|**[1/180]**||
+||Berechenbarkeit und Formale Spra-<br>chen UE|2||2||||||||leistung)|||
+|Theorie der Programmierung|Theorie der Programmierung V<br>Theorie der Programmierung UE|4<br>2||4<br>2|**7,5**||||7,5|||PL (K90)|7,5||
+|Algorithmik kontinuierlicher<br>Systeme|Algorithmik kontinuierlicher Systeme<br>V<br>Algorithmik kontinuierlicher Systeme<br>UE|4<br>2||4<br>2|**7,5**||||7,5|||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
+|Konzeptionelle Modellierung<br>und Grundlagen von Daten-<br>banken|Konzeptionelle Modellierung und<br>Grundlagen von Datenbanken V<br>Konzeptionelle Modellierung und<br>Grundlagen von Datenbanken UE|3<br>3||3<br>3|**7,5**||||7,5|||PL (K90)|7,5||
+|Hauptseminar (Schlüssel-<br>qualifikation)|Hauptseminar||2-4|2-4|**5**|||||5||PL (Seminar-<br>leistung)|5||
+|Praktikum|Praktikum||8|8|**10**|||||10||PL (Praktikums-<br>leistung)|10||
+|Mathematik für INF 1<sup>2)</sup>|Mathematik für INF 1 V<br>Mathematik für INF 1 UE|4<br>2||4<br>2|**7,5**|7,5||||||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5|ja|
+|Mathematik für INF 2<sup>2)</sup>|Mathematik für INF 2 V<br>Mathematik für INF 2 UE|4<br>2||4<br>2|**7,5**||7,5|||||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5|ja|
+|Mathematik für INF 3<sup>2)</sup>|Mathematik für INF 3 V<br>Mathematik für INF 3 UE|4<br>2||4<br>2|**7,5**|||7,5||||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
+|Mathematik für INF 4<sup>2)</sup>|Mathematik für INF 4 V<br>Mathematik für INF 4 UE|4<br>2||4<br>2|**7,5**||||7,5|||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
+|Wahlpflichtbereich:<br>Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen<br>gemäß§39a|3) 4)||||**15**|||||10|5|PL (MHB)<sup>3)</sup>|15||
+|Nebenfach (Schlüsselqualifi-<br>kation) gemäß § 39b i. V. m.<br>Anlage 2|3)||||**15**|||||5|10|PL (MHB)<sup>3)</sup>|15||
 
 4 
 
-|**Modulbezeichnung(en)**||**SWS**|**SWS**|**SWS**|**SWS**||**Ge-**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Workload-Verteilung pro Semester in ECTS-Punkten**<br>**1 Sem**<br>**2 Sem**<br>**3 Sem**<br>**4 Sem**<br>**5 Sem**<br>**6 Sem**|**Art und Umfang der**<br>**Prüfung-/**<br>**Studienleistung1)**|**Faktor**<br>**Abschluss-**<br>**note**<br>**1/180**|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung(en)**|**V**<br>**Ü**<br>**P**<br>**S**||||**Summe**|**samt**<br>**ECTS**||**2 Sem**|**3 Sem**|**4 Sem**|**5 Sem**|||||
-|Bachelorarbeit|Schriftliche Bachelorarbeit|||||**SWS**|**15**|**. .**|**. .**|**. .**|**. .**|**. .**|**. .**<br>15|Schriftliche<br>Ausarbeitung<br>(80 %), ca. 30<br>Min. Referat zur<br>Bachelorarbeit<br>(20 %)|**[]**<br>15||
-|Summen SWS und ECTS-Punkte:||57|37|10|2-4|106-<br>108|180|30|30|30|30|30|30||||
+|**Modulbezeichnung(en)**|**Lehrveranstaltung(en)**|**V**<br>**Ü**|**SWS**<br>**P**<br>**S**|**Summe**<br>**SWS**|**Ge-**<br>**samt**<br>**ECTS**|**Workl**<br>**1. Sem.**|**oad-Vertei**<br>**2. Sem.**|**lung pro S**<br>**3. Sem.**|**emester i**<br>**4. Sem.**|**n ECTS-Pu**<br>**5. Sem.**|**nkten**<br>**6. Sem.**|**Art und Umfang der**<br>**Prüfung-/**<br>**Studienleistung**<sup>**1)**</sup>|**Faktor**<br>**Abschluss-**<br>**note**<br>**[1/180]**|**GOP-**<br>**fähig**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Bachelorarbeit|Schriftliche Bachelorarbeit||||**15**||||||15|Schriftliche<br>Ausarbeitung<br>(80 %), ca. 30<br>Min. Referat zur<br>Bachelorarbeit<br>(20 %)|15||
+|Summen|SWS und ECTS-Punkte:|57<br>37|10<br>2-4|106-<br>108|180|30|30|30|30|30|30||||
 
 “ 
 
-## 10. **Anlage 2** wird wie folgt geändert: 
+# 10. **Anlage 2** wird wie folgt geändert: 
 
 - a) Nach den Worten „ **Module des Masterstudiums Informatik und Semesterverteilung (Musterstudienplan):** “ wird in einer neuen Zeile folgende Überschrift eingefügt: 
 
-## „ **Anlage 2a: Masterstudium Informatik in Vollzeit“** 
+# „ **Anlage 2a: Masterstudium Informatik in Vollzeit“** 
 
-## b) **Anlage 2a** (neu) wird wie folgt geändert: 
+# b) **Anlage 2a** (neu) wird wie folgt geändert: 
 
    - aa) In Zeile 11 (Projekt gemäß § 44) Spalte 3 (SWS) werden in Unterspalte 3 (P) die Zahl „6“ eingefügt und in Unterspalte 4 (S) die Zahl „8“ durch die Zahl „2“ ersetzt. 
 
@@ -148,52 +128,26 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 5 
 
-## 11. Nach **Anlage 2a** (neu) wird folgende neue **Anlage 2b** eingefügt: 
+# 11. Nach **Anlage 2a** (neu) wird folgende neue **Anlage 2b** eingefügt: 
 
-## „ **Anlage 2b: Masterstudium Informatik in Teilzeit** 
+# <u>„</u> **Anlage 2b: Masterstudium Informatik in Teilzeit** 
 
-|Modulbezeichnung1)|Lhtlt|SWS|SWS|SWS||Gesamt-|||Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|||Art und Umfang der|Faktor<br>Abschlussnote<br>[1/120]|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||<br>in ECTS-Punkten||||||||
-||erveransaung|V|Ü|P|S|Summe SWS|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|5.<br>Sem.|6.<br>Sem.|7.<br>Sem.|8.<br>Sem.|Prüfung/Studienleistung2)||
-|Wahlpflichtmodul Informatik I3) 4)||||||4)|||||||||||10|
-||||||||10|10||||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik II3) 4)||||||4)|||||||||||10|
-||||||||10||10|||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik III3) 4)||||||4)|||||||||||10|
-||||||||10|||10||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik IV3) 4)||||||4)|||||||||||10|
-||||||||10|||||10||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik V3) 4)||||||4)|||||||||||5|
-||||||||5|5||||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik VI3) 4)||||||4)|||||||||||5|
-||||||||5||5|||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik VII3) 4)||||||4)|||||||||||5|
-||||||||5|||5||||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Wahlpflichtmodul Informatik VIII3) 4)||||||4)|||||||||||5|
-||||||||5||||5|||||4)||
-|||||||4)||||||||||||
-|||||||||||||||||||
-|Projekt gemäß § 44|Projekt|||6|2|8|10||||||10|||4)|10|
-|Nebenfach gemäß § 37 Abs. 1 i. V.<br>m. § 39b4)||||||4)|||||10|5||||4) 5)|15|
-|||||||4)|15|||||||||||
-|Hauptseminar gemäß § 43c|Hauptseminar||||2-4|2-4|5||||||5|||4)|5|
-|Masterarbeit|Schriftliche Mas-<br>terarbeit||||||30|||||||15|15|Schriftliche Ausarbeitung<br>(90 %) und ca. 30 Min.<br>Referat zur Masterarbeit<br>(10 %)|30|
-|Summen SWS und ECTS-Punkte:||||6|4-6||120|15|15|15|15|15|15|15|15|||
+|Modulbezeichnung<sup>1)</sup>|Lehrveranstaltung|SWS|Gesamt-<br>Summe SWS|||Worklo<br>|ad-Ver<br>in EC<br>|teilung p<br>TS-Pun<br>|ro Sem<br>kten<br>|ester<br>|||Art und Umfang der<br>Prüfun/Studienleistun<sup>2)</sup>|Faktor<br>Abschlussnote<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|5.<br>Sem.|<br>6.<br>Sem.|7.<br>Sem.|8.<br>Sem.|gg|[1/120]|
+|Wahlpflichtmodul Informatik I<sup>3) 4)</sup>|||4)<br>4)|10|10||||||||4)|10|
+|Wahlpflichtmodul Informatik II<sup>3) 4)</sup>|||4)<br>4)|10||10|||||||4)|10|
+|Wahlpflichtmodul Informatik III<sup>3) 4)</sup>|||4)<br>4)|10|||10||||||4)|10|
+|Wahlpflichtmodul Informatik IV<sup>3) 4)</sup>|||4)<br>4)|10|||||10||||4)|10|
+|Wahlpflichtmodul Informatik V<sup>3) 4)</sup>|||4)<br>4)|5|5||||||||4)|5|
+|Wahlpflichtmodul Informatik VI<sup>3) 4)</sup>|||4)<br>4)|5||5|||||||4)|5|
+|Wahlpflichtmodul Informatik VII<sup>3) 4)</sup>|||4)<br>4)|5|||5||||||4)|5|
+|Wahlpflichtmodul Informatik VIII<sup>3) 4)</sup>|||4)<br>4)|5||||5|||||4)|5|
+|Projekt gemäß § 44|Projekt|6<br>2|8|10||||||10|||4)|10|
+|Nebenfach gemäß § 37 Abs. 1 i. V.<br>m. § 39b<sup>4)</sup>|||4)<br>4)|15||||10|5||||4) 5)|15|
+|Hauptseminar gemäß § 43c|Hauptseminar|2-4|2-4|5||||||5|||4)|5|
+|Masterarbeit|Schriftliche Mas-<br>terarbeit|||30|||||||15|15|Schriftliche Ausarbeitung<br>(90 %) und ca. 30 Min.<br>Referat zur Masterarbeit<br>(10 %)|30|
+|Summen SWS|und ECTS-Punkte:|6<br>4-6||120|15|15|15|15|15|15|15|15|||
 
 ## **Erläuterungen:** 
 
@@ -201,7 +155,9 @@ V: Vorlesung, UE: Übung,
 
 P: Praktikum, 
 
-SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), 
+SWS: Semesterwochenstunden, 
+
+ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), 
 
 6 
 
@@ -221,7 +177,7 @@ M: mdl. Prüfung (mit ungefährer Dauer in Minuten), MHB: siehe Modulhandbuch.
 
 - 5) vgl. § 37 Abs. 1 i. V. m. § 39b. Art und Umfang der Prüfung und der Lehrveranstaltungen sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls.“ 
 
-## 12. **Anlage 4** wird wie folgt geändert: 
+# 12. **Anlage 4** wird wie folgt geändert: 
 
 - a) In Zeile 12 (Theoretische Informatik für Wirtschaftsinformatik und Lehramtsstudierende) werden in Spalte 2 (Englische Bezeichnung) die Worte „Theoretical computer science for students of IIS“ durch die Worte „Theory of informatics for business informatics and student teachers“ sowie in Spalte 4 (Prüfungsmodus) nach den Abkürzungen „PL (K, 90 Min)“ das Zeichen und die Abkürzungen „+ SL (ÜbL)“ gestrichen. 
 
@@ -229,9 +185,9 @@ M: mdl. Prüfung (mit ungefährer Dauer in Minuten), MHB: siehe Modulhandbuch.
 
 7 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach der Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in Anlage 2 für alle Studierenden, die sich bezogen auf das Modul Hauptseminar noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in Anlage 1 für alle Studierenden, die das Bachelorstudium ab dem Wintersemester 2022/2023 aufnehmen werden.[4] Prüfungen nach den bisher gültigen Fassungen der FPOINF werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2026/2027 und bezogen auf das Masterstudium letztmals im Sommersemester 2023 angeboten.[5] Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPOINF ab. 
+1Diese Änderungssatzung tritt am Tag nach der Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in Anlage 2 für alle Studierenden, die sich bezogen auf das Modul Hauptseminar noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in Anlage 1 für alle Studierenden, die das Bachelorstudium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>4</sup> Prüfungen nach den bisher gültigen Fassungen der FPOINF werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2026/2027 und bezogen auf das Masterstudium letztmals im Sommersemester 2023 angeboten.<sup>5</sup> Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPOINF ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 22. Juli 2020 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Friedrich Paulsen Friedrich Paulsen vom 20. August 2020. 
 

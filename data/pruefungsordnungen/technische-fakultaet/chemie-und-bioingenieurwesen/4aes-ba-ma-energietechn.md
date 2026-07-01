@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES BA-MA Energietechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:01:40+00:00
-page_count_chars: 6450
+scraped_at: 2026-07-01T11:23:57+00:00
+page_count_chars: 6440
 ---
 
 # 30
@@ -12,19 +12,19 @@ page_count_chars: 6450
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES BA-MA Energietechn.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc)** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc)** 
 
-## Vom 30. Juli 2012 
+# Vom 30. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc) vom 15. Dezember 2008, zuletzt geändert durch Satzung vom 5. August 2011 wird wie folgt geändert: 
 
 1. In § 49 Abs. 1 wird die Zahl „46“ durch die Zahl „45“ ersetzt. 
 
-## 2. Die Anlage 1 wird wie folgt geändert: 
+# 2. Die Anlage 1 wird wie folgt geändert: 
 
 - a) In Zeile 9 (Modul B7) Spalte 14 (Umfang und Art der Prüfungs- und Studienleistung) wird die Zahl „120“ durch die Zahl „90“ ersetzt. 
 
@@ -60,7 +60,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik
 
    - „uSL unbenotete Studienleistung bSL benotete Studienleistung Pfp Portfolioprüfung (Ausarbeitung + Vortrag)“ 
 
-3. Die Anlage 2 a) wird wie folgt geändert: 
+# 3. Die Anlage 2 a) wird wie folgt geändert: 
 
 - a) Zeile 2 (Modul M1) Spalte 6 (Umfang und Art der Prüfungs- und Studienleistung) erhält folgende Fassung: „3 schriftl. Prüfungen je 90“ 
 
@@ -74,15 +74,13 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik
 
    - **Modulgruppe C:** Module aus dem Vorlesungsverzeichnis der FAU“ 
 
-## 4. Die Anlage 2 b) wird wie folgt geändert: 
+# 4. Die Anlage 2 b) wird wie folgt geändert: 
 
 - a) Zeile 2 (Modul M1) Spalte 6 (Umfang und Art der Prüfungs- und Studienleistung) erhält folgende Fassung: „3 schriftl. Prüfungen je 90“ 
 
 - b) In Zeile 10 (Modul M9) Spalte 6 (Umfang und Art der Prüfungs- und Studienleistung) wird „30 / m“ durch „bSL, Pfp“ ersetzt. 
 
-- c) Am Ende der Tabelle werden folgende Erläuterungen angefügt: „ **Module der Studienrichtung Materialwissenschaften und Werkstofftechnik (MWT):** 
-
-   - Konstruktionswerkstoffe in der Energietechnik (MWT1) 
+- c) Am Ende der Tabelle werden folgende Erläuterungen angefügt: „ **Module der Studienrichtung Materialwissenschaften und Werkstofftechnik (MWT):** - Konstruktionswerkstoffe in der Energietechnik (MWT1) 
 
    - Funktionswerkstoffe der Energietechnik (MWT2) 
 
@@ -92,7 +90,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik
 
 **Modulgruppe C:** Module aus dem Vorlesungsverzeichnis der FAU“ 
 
-## 5. Die Anlage 2 c) wird wie folgt geändert: 
+# 5. Die Anlage 2 c) wird wie folgt geändert: 
 
 - a) Zeile 2 (Modul M1) Spalte 6 (Umfang und Art der Prüfungs- und Studienleistung) erhält folgende Fassung: „3 schriftl. Prüfungen je 90“ 
 
@@ -108,7 +106,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik
 
    - **Modulgruppe C:** Module aus dem Vorlesungsverzeichnis der FAU“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach Ihrer Bekanntmachung in Kraft und gilt ab dem Wintersemester 2012/2013 für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. November 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel_AES_2Fach-BA-MA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:38:55+00:00
-page_count_chars: 9223
+scraped_at: 2026-07-01T09:48:20+00:00
+page_count_chars: 9239
 ---
 
 # 5. November 2010
@@ -12,7 +12,7 @@ page_count_chars: 9223
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel_AES_2Fach-BA-MA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Ein–Fach- und Zwei-Fach-Bachelorstudien- und Masterstudiengängen der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Ein–Fach- und Zwei-Fach-Bachelorstudien- und Masterstudiengängen der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
 
 ## Vom 5. November 2010 
 
@@ -26,13 +26,13 @@ Die Fachstudienund Prüfungsordnungen in den Einund Zwei-FachBachelorstudiengän
 
 2. Mit Ausnahme der FPO BA Germanistik, Orientalistik und Sozialwissenschaften sowie Archäologische Wissenschaften werden in den jeweiligen § 3 Abs. 2 bzw. in der FPO Ökonomie und Sinologie in § 3 Abs. 3 und in § 4 Abs. 2 der FPO Nordische Philologie und Pädagogik der Paragraph „28 Abs. 5“ durch den Paragraphen „30 Abs. 5“ ersetzt. 
 
-3. In § 6 der FPO BA Buchwissenschaften, Kulturgeschichte des Christentums, Linguistische Informatik, Philosophie, Soziologie, Sinologie, Theater- und Medienwissenschaften, Archäologische Wissenschaften sowie Orientalistik und Sozialwissenschaften und in § 7 der FPO Frankoromanistik, Iberoromanistik, Indogermanistik, Italoromanistik, Politikwissenschaft[1] wird der Paragraph „29 Abs. 2 Satz 2“ jeweils durch den Paragraphen „31 Abs. 1 Satz 4" bzw. der Paragraph „29“ durch den Paragraphen „31“ ersetzt. 
+3. In § 6 der FPO BA Buchwissenschaften, Kulturgeschichte des Christentums, Linguistische Informatik, Philosophie, Soziologie, Sinologie, Theater- und Medienwissenschaften, Archäologische Wissenschaften sowie Orientalistik und Sozialwissenschaften und in § 7 der FPO Frankoromanistik, Iberoromanistik, Indogermanistik, Italoromanistik, Politikwissenschaft<sup>1</sup> wird der Paragraph „29 Abs. 2 Satz 2“ jeweils durch den Paragraphen „31 Abs. 1 Satz 4" bzw. der Paragraph „29“ durch den Paragraphen „31“ ersetzt. 
 
 1 § 7 der geltenden Prüfungsordnung Politikwissenschaften entspricht § 8 der vorangegangenen Version, die in gleicher Weise geändert wird. 
 
 4. In der FPO BA Frankoromanistik, Germanistik, Griechische Philologie, Iberoromanistik und Italoromanistik wird in § 6 jeweils der Paragraph „26 Abs. 1 Satz 2 Nr. 2“ jeweils durch den Paragraphen „28 Abs. 1 Satz 2 Nr. 2“ ersetzt. 
 
-5. In § 6 der FPO BA Kulturgeographie und Politikwissenschaft[2] wird der Paragraph „7“ jeweils durch den Paragraphen „8“ ersetzt. 
+5. In § 6 der FPO BA Kulturgeographie und Politikwissenschaft<sup>2</sup> wird der Paragraph „7“ jeweils durch den Paragraphen „8“ ersetzt. 
 
 6. In § 6 der FPO BA Lateinische Philologie wird der Paragraph „26 Abs. 2 Satz 4“ jeweils durch den Paragraphen „28 Abs. 2 Satz 4 Nr. 3“ ersetzt. 
 
@@ -58,11 +58,13 @@ b)In § 8 Satz 2 wird das Wort „zwei“ durch das Wort „drei“ ersetzt.
 
 ## a) In § 21 wird folgender neuer Abs. 2 eingefügt: 
 
-   - 1 
+- 1 
 
 - „(2) Prüfungen im Antwort-Wahl-Verfahren (Multiple-Choice-Prüfungen) sind wie 2 
 
-- folgt zu bewerten: Wer die für das Bestehen der Prüfung nach § 15 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
+- folgt zu bewerten: Wer die für das Bestehen der Prüfung nach § 15 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
+
+1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
 
 2 § 6 der geltenden Prüfungsordnung Politikwissenschaft entspricht § 7 der vorangegangenen Version, die in gleicher Weise geändert wird. 
 

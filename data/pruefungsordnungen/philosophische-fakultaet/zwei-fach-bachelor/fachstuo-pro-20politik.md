@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Politik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:43+00:00
-page_count_chars: 10443
+scraped_at: 2026-07-01T10:29:03+00:00
+page_count_chars: 10408
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 10443
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Politik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen- Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen- Nürnberg** 
 
 Vom 5. Oktober 2007 
 
@@ -22,11 +22,11 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 de
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 (im folgenden: ABStPO/Phil) für das Fach Politikwissenschaft. 
 
-## **§2 Umfang und Ziele des Studiums** 
+**§2 Umfang und Ziele des Studiums** 
 
-- (1)[1] Im Fach Politikwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
+- (1)<sup>1</sup> Im Fach Politikwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-- (2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+- (2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 - (3) Das Studium der Politikwissenschaft im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden zur kritischen Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft befähigt. 
 
@@ -116,10 +116,8 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Im Studium der Politikwissenschaft als erstes oder zweites Fach sind folgende Module erfolgreich abzulegen: 
 
-||de Module erfolgreich abzulegen:|||
-|---|---|---|---|
 |**Bez.**|**Modul**|**ECTS/**<br>Faktor*|**Prüfungsleistung**|
-|||||
+|---|---|---|---|
 |**Pol 1**|**Basismodul Propädeutik**|**5**||
 |1. FS|Vorlesung<br>EinführungindiePolitikwissenschaft|_2,5_|Klausur (90 Min.)|
 |1. FS|Vorlesung<br>Wissenschaftstheorie & Methodenlehre der<br>PW*|_2,5_|Klausur (90 Min.)|
@@ -129,33 +127,32 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 |2. FS|Vorlesung|_3_|Klausur (90 Min.)|
 |2. FS|Proseminar|_4_|Exzerpt, Protokoll,<br>Referat,<br>Hausar-<br>beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
 |**Pol 3**|**Basismodul Politische Systeme**|**10**||
-|1. FS|Vorlesung|_3_|Klausur (90 Min.)|
+|<br>1. FS|<br>Vorlesung|_3_|Klausur (90 Min.)|
 |2. FS|Vorlesung|_3_|Klausur (90 Min.)|
 |2. FS|Proseminar|_4_|Exzerpt, Protokoll,<br>Referat,<br>Hausar-<br>beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
 |**Pol 4**|**Basismodul Internationale Beziehungen**|**10**||
 |3. FS|Vorlesung|_3_|Klausur (90 Min.)|
 |4. FS|Vorlesung|_3_|Klausur (90 Min.)|
-|3. FS|Proseminar|_4_|Exzerpt, Protokoll,<br>Referat,<br>Hausar-<br>beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
+|<br>3. FS|<br>Proseminar|_4_|<br>Exzerpt, Protokoll,<br>Referat,<br>Hausar-<br>beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
 |**Pol 5**|**Basismodul Außereuropäische Regionen**|**10**||
 |3. FS|Vorlesung|_3_|Klausur (90 Min.)|
-|4. FS|Vorlesung|_3_|Klausur(90Min.)|
-|4. FS|Proseminar|_4_|Exzerpt, Protokoll,<br>Referat,<br>Hausar-|
+|<br>4. FS|<br>Vorlesung|_3_|<br>Klausur(90Min.)|
+|4. FS|Proseminar|_4_|Exzerpt, Protokoll,|
+||||Referat,<br>Hausar-|
 
-|||||||beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
-|---|---|---|---|---|---|---|
-||||||||
-|**Pol**<br>**6**|**Vertiefungsmodul 1**|||**15**|||
-|5.<br>FS|Hauptseminar I (aus einem der vier Teilbereiche<br>[Pol 2 bis Pol 5])|||_8_|Exzerpt, Protokoll,<br>Referat, Hausar-<br>beit, Arbeitsgrup-<br>pen und/oder<br>Klausur||
-|5.<br>FS|Mentorat (muss in demgleichen<br> Teilbereich ab-<br>solviert werden, dem auch das Hauptseminar I<br>entstammt)|||_7_|Studienbericht||
-|**Pol**<br>**7**|**Vertiefungsmodul 2**|||**10**|||
-|6.<br>FS|Hauptseminar II (muss aus einemanderen<br> Teil-<br>bereich als das Hauptseminar I stammen)|||_8_|Exzerpt, Protokoll,<br>Referat, Hausar-<br>beit, Arbeitsgrup-<br>pen und/oder<br>Klausur||
-|6.<br>FS|Kolloquium|||_2_|||
-|**1.-6.**<br>**FS**|**Summe Leistungspunkte Politische Wissen-**<br>**schaft**|||**70**|||
-|**1.-6.**<br>**FS**|**Summe Leistungspunkte 2. Fach**|||**70**|||
-|**1.-6.**<br>**FS**|**Berufsfeldorientierte Schlüsselqualifikatio-**<br>**nen**|||**30**|||
-|**6.**<br>**FS**|**Bachelorarbeit**|||**10**|||
-||||||||
-||**_Summe der Leistungspunkte BA-_**<br>**_Studiengang_**|||**_180_**|||
+||||beit,<br>Arbeitsgrup-<br>pen und/oder Klau-<br>sur|
+|---|---|---|---|
+|**Pol**<br>**6**|**Vertiefungsmodul 1**|**15**||
+|5.<br>FS|Hauptseminar I (aus einem der vier Teilbereiche<br>[Pol 2 bis Pol 5])|_8_|Exzerpt, Protokoll,<br>Referat, Hausar-<br>beit, Arbeitsgrup-<br>pen und/oder<br>Klausur|
+|5.<br>FS|Mentorat (muss in demgleichen<br> Teilbereich ab-<br>solviert werden, dem auch das Hauptseminar I<br>entstammt)|_7_|Studienbericht|
+|**Pol**<br>**7**|**Vertiefungsmodul 2**|**10**||
+|6.<br>FS|Hauptseminar II (muss aus einemanderen<br> Teil-<br>bereich als das Hauptseminar I stammen)|_8_|Exzerpt, Protokoll,<br>Referat, Hausar-<br>beit, Arbeitsgrup-<br>pen und/oder<br>Klausur|
+|6.<br>FS|Kolloquium|_2_||
+|**1.-6.**<br>**FS**|**Summe Leistungspunkte Politische Wissen-**<br>**schaft**|**70**||
+|**1.-6.**<br>**FS**|**Summe Leistungspunkte 2. Fach**|**70**||
+|**1.-6.**<br>**FS**|**Berufsfeldorientierte Schlüsselqualifikatio-**<br>**nen**|**30**||
+|**6.**<br>**FS**|**Bachelorarbeit**|**10**||
+||**_Summe der Leistungspunkte BA-_**<br>**_Studiengang_**|**_180_**||
 
 * Gewichtungsfaktor für die Berechnung der Modulnote aus mehreren Prüfungen; § 19 Abs. 3 ABStPO/Phil bleibt unberührt. 
 

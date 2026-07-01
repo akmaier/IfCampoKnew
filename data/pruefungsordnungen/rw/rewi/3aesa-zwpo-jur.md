@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "21. Dezember 2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-ZwPO-Jur.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:27+00:00
-page_count_chars: 3351
+scraped_at: 2026-07-01T10:32:56+00:00
+page_count_chars: 3404
 ---
 
 # 21. Dezember 2006
@@ -12,7 +12,7 @@ page_count_chars: 3351
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-ZwPO-Jur.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Dritte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
+# **Dritte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
 
 ## Vom 21. Dezember 2006 
 
@@ -32,9 +32,9 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 ## **Bewertung von Prüfungsleistungen** 
 
-(1)[1] Die Noten für die einzelnen Prüfungsleistungen oder Teilprüfungen werden vom jeweiligen Prüfer festgesetzt.[2] Die Bewertung richtet sich nach § 1 der Verordnung des Bundesministers der Justiz über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung vom 3. Dezember 1981 (BGBl I S. 1243) in der jeweils geltenden Fassung.[3] Bestanden ist eine Prüfung, wenn sie als mindestens „ausreichend“ im Sinn der in Satz 2 genannten Verordnung bewertet ist.[4] Eine vom Erstprüfer mit „nicht bestanden“ (0 bis 3 Punkte) bewertete Prüfungsleistung ist von einem Zweitprüfer zu bewerten. 5Bewertet der Zweitprüfer die Prüfungsleistung mit „bestanden“, ist die Prüfungsleistung einem dritten Prüfer, der in der Regel der Aufgabensteller sein soll, zum Stichentscheid vorzulegen. 
+(1)<sup>1</sup> Die Noten für die einzelnen Prüfungsleistungen oder Teilprüfungen werden vom jeweiligen Prüfer festgesetzt.<sup>2</sup> Die Bewertung richtet sich nach § 1 der Verordnung des Bundesministers der Justiz über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung vom 3. Dezember 1981 (BGBl I S. 1243) in der jeweils geltenden Fassung.<sup>3</sup> Bestanden ist eine Prüfung, wenn sie als mindestens „ausreichend“ im Sinn der in Satz 2 genannten Verordnung bewertet ist.<sup>4</sup> Eine vom Erstprüfer mit „nicht bestanden“ (0 bis 3 Punkte) bewertete Prüfungsleistung ist von einem Zweitprüfer zu bewerten. 5Bewertet der Zweitprüfer die Prüfungsleistung mit „bestanden“, ist die Prüfungsleistung einem dritten Prüfer, der in der Regel der Aufgabensteller sein soll, zum Stichentscheid vorzulegen. 
 
-(2)[1] Wird nach Durchführung des in Abs. 1 Satz 4 genannten Verfahrens die Prüfungsleistung als „nicht bestanden“ bewertet, kann der betroffene Prüfungsteilnehmer innerhalb einer Frist von zwei Wochen nach der Bekanntgabe des Ergebnisses schriftlich Einwände gegen die Bewertung beim Aufgabensteller erheben. Über diese Einwände entscheidet der Aufgabensteller unter Berücksichtigung der Stellungnahmen der Prüfer.“ 
+(2)<sup>1</sup> Wird nach Durchführung des in Abs. 1 Satz 4 genannten Verfahrens die Prüfungsleistung als „nicht bestanden“ bewertet, kann der betroffene Prüfungsteilnehmer innerhalb einer Frist von zwei Wochen nach der Bekanntgabe des Ergebnisses schriftlich Einwände gegen die Bewertung beim Aufgabensteller erheben. Über diese Einwände entscheidet der Aufgabensteller unter Berücksichtigung der Stellungnahmen der Prüfer.“ 
 
 4. In § 9 Abs. 2 Satz 1 wird folgender neue Satz 2 eingefügt: „Das Zeugnis enthält eine Gesamtnote für die Zwischenprüfung, die sich aus dem arithmetischen Mittel der Einzelnoten in den vier Teilprüfungen ergibt.“ 
 
@@ -46,7 +46,7 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 ## **Übergangsregelung** 
 
-1Die Bestimmungen über die Benotung der Zwischenprüfung und der ihr zugeordneten Prüfungsleistungen finden erstmals auf die Prüfungen des Wintersemesters 06/07 Anwendung.[2] Die Gesamtnote der Zwischenprüfung errechnet sich aus dem arithmetischen Mittel der Prüfungsleistungen, die nach dem In-Kraft-Treten dieser Änderungssatzung anfallen.“ 
+1Die Bestimmungen über die Benotung der Zwischenprüfung und der ihr zugeordneten Prüfungsleistungen finden erstmals auf die Prüfungen des Wintersemesters 06/07 Anwendung.<sup>2</sup> Die Gesamtnote der Zwischenprüfung errechnet sich aus dem arithmetischen Mittel der Prüfungsleistungen, die nach dem In-Kraft-Treten dieser Änderungssatzung anfallen.“ 
 
 ## **§ 2** 
 

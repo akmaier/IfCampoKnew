@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:49:20+00:00
+scraped_at: 2026-07-01T08:26:14+00:00
 ---
 
 # Molekulare Medizin (B.Sc.)
@@ -37,7 +37,7 @@ Die rasche Entwicklung der Molekularen Medizin hat in den letzten Jahren einen g
 
 Durch DNA-Analyse von Onkogenen können tumorgefährdete Patienten zuverlässig diagnostiziert und vorsorglich behandelt werden, während sich menschliche Neurotransmitter-Rezeptoren durch rekombinante Expression der zugehörigen Gene in Zellkulturen verpflanzen lassen und damit die Entwicklung von neuartigen, hochselektiven Pharmaka ermöglichen. Aber nicht nur die Zahl der molekulargenetisch charakterisierten Krankheiten wächst ständig. Auch das Verständnis von viralen und bakteriellen Infektionswegen oder von Medikamentenwirkungen wäre ohne die Erkenntnisse von Molekularbiologie, Biochemie und Zellphysiologie undenkbar.
 
-### Bachelor of Science Molekulare Medizin
+### Fachanteile des Studiengangs Molekulare Medizin (B.Sc.)
 
 * Medizin (42%)
 * Naturwissenschaften (32%)

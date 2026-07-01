@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. März 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-MA_Geronto.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:13:54+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:33:25+00:00
+page_count_chars: 3300
 ---
 
 # 19. März 2009
@@ -12,162 +12,51 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-MA_Geronto.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Satzung zur Anderung der Prifungsordnung fiir das Masterstudium Gerontologie an der Philosophischen Fakultat und Fachbereich Theologie an der Friedrich-Alexander-Universitat Erlangen-Niirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+vom 19. Marz 2009 
 
-### OCR Seite 1
+Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-```
-Nürnberg vom 27. September 2007 wird wie folgt geändert:
-1.8 18 wird wie folgt geändert:
-Der bisherige Absatz 6 wird zu Absatz 4 Satz 2.
-Der bisherige Absatz 4 Satz 2 wird zu Satz 3.
-2. Die Anlage 1 erhält folgende Fassung:
-„
-Leistungs | Noten-
-ECTS
-Zahlund Art | nachweis: | anteil | ECTS
-je Semester
-Nr
-Modultitel
-der LV (SWS) | Art, Zahl*
-(%)
-(PR)
-1
-2
-3
-4
-Grundlagen der Gerontologie
-1V.38
-15.0
-1
-(Basics ofgerontology)
-8
-4PL
-15.0
-|
-Aa
-Forschungsmethoden der
-Gerontologie
-38
-10.0
-A
-®
-(Research
-methods
-in
-(5)
-2PL,1SL
-(8)|
-»+2|
-*
-gerontology)
-Klinische Gerontologie
-2V.2S
-15.0
-3
-(Clinical gerontology)
-8
-3PL,1SL, |
-12.0
-12
-3,
-4
-Praxisfelder der Gerontologie
-28
-50
-4
-(Gerontological fieldwork)
-2
-2 SL
-0
-5
-Gesellschaft und Altern
-38
-10.0
-5
-(Society and aging)
-5
-3PL
-10.0
-10
-4
-Alternspsychologie
-1V.28
-12.5
-6
-(Psychologyof aging)
-6
-3 PL
-12.5
-125
-85/4
-Psychogerontologische
-Intervention
-1V.2S
-12.5
-7
-(Psychogerontological
-(6)
-3PL
-12.5
-(12.5)
-4,5
-Intervention
-8
-Gerontologisches
-Praktikum
-10.0
-(Gerontological internship)
-1S(1)
-3SsL
-(0)
-10
-Masterarbeit und mündliche
-Prüfung
-1MG
-30.0
-°
-(Master
-thesis
-and
-oral]
-1Co (2)
-PL
-50.0 | 7%
-30
-nation) |
-oo 101
-1
-Summe Studienleistungen
-55 (6)
-7SL
-[Telefon entfernt]
-Summe Prüfungsleistungen
-|>. 19 5.C0 1 zopr | 100.0 | 100.0|
-23|
-27 | 20|
-30
-Ingsam
-0
-|
-24143
-100.0 | 120.0
-30 | 30
-```
+§ 1 
 
-### OCR Seite 2
+Die Prifungsordnung fur das Masterstudium Gerontologie an der Philosophischen Fakultat und Fachbereich Theologie an der Friedrich-Alexander-Universitat ErlangenNurnberg vom 27. September 2007 wird wie folgt geandert: 
 
-```
-Erlangen, den 19. März 2009
+. 
+
+1. § 18 wird wie folgt geandert: Der bisherige Absatz 6 wird zu Absatz 4 Satz 2. Der bisherige Absatz 4 Satz 2 wird zu Satz 3. 
+
+# 2. Die Anlage 1 erhalt folgende Fassung: 
+
+|bb<br>Nr<br>|Modultitel<br>|Zahlund Art <br>derLV(SWS) <br>|Leistungs<br>| nachweis: <br>| Art, Zahi*||; Noten-<br> | anteil <br>(%)||ECTS<br>(PR)<br>|1|EC<br>jeSem<br>2|TS<br>ester<br>3|<br>4|
+|---|---|---|---|---|---|---|---|---|---|
+|1|Grundlagen derGerontologie<br>(Basicsofgerontology)<br>|1V. 38S<br>8|4PL|15.0|15.0<br>45);|tt]|4|||
+|2|Forschungsmethoden der<br>Gerontologie<br>(Research<br>methods —_ in<br>gerontology)|3S<br>(5)|2PL, 7SL||10.0<br>(3)||4<br>+2]|4|||
+|3|Klinische Gerontologie<br>(Clinicalgerontology)|2V.2S<br>8|SPL,7SL,}|12.0|15.0<br>12||3}|4||
+|4|Praxisfelder der Gerontologie<br>(Gerontological fieldwork)|28<br>2|28L||50<br>)|5||||
+|5|Gesellschaft undAltern<br>(Societyandaging)|38<br>5|3 PL|10.0|10.0<br>40|||4||
+|6|Alternspsychologie<br>(Psychologyof aging)<br>|1V.28<br>6|3PL|12.5|425<br>125||85)|4||
+|?|Psychogerontologische<br>intervention<br>(Psychogerontological<br>intervention|1V.28<br>(6)|3PL|12.5|12.5<br>(12.5)||49|||
+|8|Gerontologisches<br>Praktikum<br>(Gerontologicalinternship)|1S(1)|3SL||10.0<br>(0)|||10||
+||<br>Masterarbeitundmiindliche|||||||||
+|9<br>Exa|<br>Priifung<br>(Master<br>thesis<br>and<br>oral|<br>ination)|1.Co(2)|1MG<br>| PL|30.0 ||30.0<br> 9)||||30|
+|Su|mme Studienleistungen|5S (6)|7SL|0|20.0|7|3:|10||
+|Sum<br>|mePrifungsieistungen<br>|<br><br>|Vl. 13S.CO}<br>|sopL ||100.0 | <br>|100.0/<br>|23||27/|201<br>|30<br>|
+|[ins|gesamt<br>||S24(43||100.0_||120.0|||30 ||_30|
+
+Anm.: ECTS = European Credit Transfer System Punkte, PR = Priifungsrelevante ECTS Punkte; SWS = Semesterwochenstunde, PL = Priifung (mundl. Priifung, Klausur, Referat, Hausarbeit), SL = Studienleistung (kursiv), MG = Masterarbeit-Gutachten. 
+
+* Bei der Berechnung der Modulnote werden die Noten der Einzelpriifungen entsprechend des jeweiligen SWSAnteils der zugehdrigen Veranstaltung am Modu! gewichtet. In Modul 9 wird die Note der Masterarbeit mit vier Fiinfteln und die miindliche Priifung mit einem Fiinftel gewichtet.“ 
+
+## § 2 
+
+Diese Satzung tritt am 1. April 2009 in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat ErlangenNurnberg vom 10. Februar 2009 und der Genehmigungsfeststellung des Rektors vom 5. Marz 2009. 
+
+Erlangen, den 19. Marz 2009 
+
+. 
 [Kontaktperson entfernt]
-Die Satzung wurde am
-19. März 2009
-in der Universität Erlangen-Nürnberg
-riedergelegt; die Niederlegung wurde am 19. März 2009 durch Anschlag
-in der
-Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der
-19. März 2009.
-```
+Die Satzung wurde am 19. Marz 2009 in der Universitat Erlangen-Nirnberg niedergelegt; die Niederlegung wurde am 19. Marz 2009 durch Anschlag in der Universitat Erlangen-Niirnmberg bekannt gegeben. Tag der Bekanntmachung ist der 19. Marz 2009. 
 

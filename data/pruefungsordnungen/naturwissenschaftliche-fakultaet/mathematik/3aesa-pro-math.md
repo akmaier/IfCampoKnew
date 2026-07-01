@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. März 2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AeSa-PrO-Math.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:54:26+00:00
-page_count_chars: 656
+scraped_at: 2026-07-01T09:16:29+00:00
+page_count_chars: 655
 ---
 
 # 6. März 2000
@@ -12,7 +12,7 @@ page_count_chars: 656
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AeSa-PrO-Math.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Multiple Choices** 
+# **Multiple Choices** 
 
 The document name you requested ( `/universitaet/ organisation/recht/studiensatzungen/NAT1/ Aenderungssatzungen/3AeSa-PrO-Math.pdf` ) could not be found on this server. However, we found documents with names similar to the one you requested. 
 

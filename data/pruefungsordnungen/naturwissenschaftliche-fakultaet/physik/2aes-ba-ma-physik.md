@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AES_BA_MA_Physik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T08:00:28+00:00
-page_count_chars: 18598
+scraped_at: 2026-07-01T09:24:01+00:00
+page_count_chars: 18803
 ---
 
 # 2. Oktober 2013
@@ -12,13 +12,13 @@ page_count_chars: 18598
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AES_BA_MA_Physik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
 
-## **Zweite Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -** 
+# **Zweite Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -** 
 
-## Vom 2. Oktober 2013 
+# Vom 2. Oktober 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik - vom 7. September 2007, zuletzt geändert durch Satzung vom 29. September 2010, wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ Die Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Natu
 
    - b) In Abs. 4 wird folgender Satz 2 angefügt: 
 
-„[2] Dies gilt nicht für Wiederholungsprüfungen im Sinne des § 28 Abs. 1 Satz 5.“ 
+„<sup>2</sup> Dies gilt nicht für Wiederholungsprüfungen im Sinne des § 28 Abs. 1 Satz 5.“ 
 
 Die Satznummern werden entsprechend angepasst. 
 
@@ -64,13 +64,13 @@ Die Satznummern werden entsprechend angepasst.
 
 7. § 12 erhält folgende Fassung: 
 
-## **„§ 12 Anrechnung von Kompetenzen** 
+# **„§ 12 Anrechnung von Kompetenzen** 
 
-- (1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+- (1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-- (2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+- (2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-- (3)[1] Die Noten angerechneter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 18 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 18 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+- (3)<sup>1</sup> Die Noten angerechneter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 18 gebildet wurden.<sup>2</sup> Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 18 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
 
 x=1+3 (Nmax – Nd)/(Nmax – Nmin) mit x= gesuchte Umrechnungsnote 
 
@@ -78,11 +78,11 @@ Nmax= beste erzielbare Note Nmin= unterste Bestehensnote
 
 Nd= erzielte Note 
 
-umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss einen entsprechenden Schlüssel für die Notenberechnung fest. 
+umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.<sup>4</sup> Ist die Umrechnung nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
 2 
 
-- (4)[1] Die für die Anrechnung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Bei Vorliegen der Voraussetzungen der Absätze 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung.[3] Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der oder des vom zuständigen Fach benannten Fachvertreterin oder Fachvertreters. 4Die Anrechnung von Studienzeiten, Modulen, Studienund Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen; die Entscheidung ergeht schriftlich.“ 
+- (4)<sup>1</sup> Die für die Anrechnung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.<sup>2</sup> Bei Vorliegen der Voraussetzungen der Absätze 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung.<sup>3</sup> Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der oder des vom zuständigen Fach benannten Fachvertreterin oder Fachvertreters. 4Die Anrechnung von Studienzeiten, Modulen, Studienund Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen; die Entscheidung ergeht schriftlich.“ 
 
 Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
@@ -132,7 +132,7 @@ Das Inhaltsverzeichnis wird entsprechend angepasst.
 
    - b) In Abs. 1 werden folgende Sätze 5 und 6 angefügt: 
 
-„[5] Der Anfertigung der Masterarbeit gehen eine dreimonatige fachliche Spezialisierung und eine dreimonatige Projektplanung voraus, die thematisch auf die Masterarbeit hinführen. 6Fachliche Spezialisierung, Projektplanung, Masterarbeit und Masterkolloquium bilden zusammen die einjährige Forschungsphase.“ 
+„<sup>5</sup> Der Anfertigung der Masterarbeit gehen eine dreimonatige fachliche Spezialisierung und eine dreimonatige Projektplanung voraus, die thematisch auf die Masterarbeit hinführen. 6Fachliche Spezialisierung, Projektplanung, Masterarbeit und Masterkolloquium bilden zusammen die einjährige Forschungsphase.“ 
 
 - c) Abs. 2 wird wie folgt geändert: 
 
@@ -146,7 +146,7 @@ cc) Die Sätze 3 und 4 werden gestrichen.
 
 - e) In Abs. 4 werden folgende Sätze 1 und 2 eingefügt: 
 
-„[1] Nach erfolgreichem Absolvieren von fachlicher Spezialisierung und Projektplanung erfolgt die Themenstellung für die Masterarbeit.[2] Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und beim Prüfungsausschuss aktenkundig zu machen. 
+„<sup>1</sup> Nach erfolgreichem Absolvieren von fachlicher Spezialisierung und Projektplanung erfolgt die Themenstellung für die Masterarbeit.<sup>2</sup> Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und beim Prüfungsausschuss aktenkundig zu machen. 
 
 Die bisherigen Sätze 1 bis 3 werden zu Sätzen 3 bis 5. 
 
@@ -154,7 +154,7 @@ Die bisherigen Sätze 1 bis 3 werden zu Sätzen 3 bis 5.
 
 - g) Abs. 6 Satz 6 erhält folgende Fassung: 
 
-„[6] Je ein gebundenes Exemplar der Arbeit ist bei der Betreuerin oder dem Betreuer sowie bei der Gruppenbibliothek Physik abzuliefern; die entsprechenden Bescheinigungen müssen das Datum der Abgabe dokumentieren und sind zusammen mit einer Kopie der Titelseite dem Prüfungsamt vorzulegen.“ 
+„<sup>6</sup> Je ein gebundenes Exemplar der Arbeit ist bei der Betreuerin oder dem Betreuer sowie bei der Gruppenbibliothek Physik abzuliefern; die entsprechenden Bescheinigungen müssen das Datum der Abgabe dokumentieren und sind zusammen mit einer Kopie der Titelseite dem Prüfungsamt vorzulegen.“ 
 
 - h) Abs. 8 wird wie folgt geändert: 
 
@@ -180,7 +180,7 @@ Die Absatznummern werden entsprechend angepasst.
 
    - b) Abs. 3 Satz 1 erhält folgende Fassung: 
 
-„[1] Die Bewerbung zur Teilnahme am integrierten Studiengang kann bis zum 15. August eines Jahres für das kommende Wintersemester oder bis zum 15. Februar eines Jahres für das kommende Sommersemester erfolgen (Ausschlussfristen).“ 
+„<sup>1</sup> Die Bewerbung zur Teilnahme am integrierten Studiengang kann bis zum 15. August eines Jahres für das kommende Wintersemester oder bis zum 15. Februar eines Jahres für das kommende Sommersemester erfolgen (Ausschlussfristen).“ 
 
 18. § 37 wird wie folgt geändert: 
 
@@ -188,7 +188,7 @@ Die Absatznummern werden entsprechend angepasst.
 
    - b) Nach Satz 3 wird folgender Satz 4 eingefügt: 
 
-      - „[4] Das Bachelorkolloquium entfällt.“ 
+      - „<sup>4</sup> Das Bachelorkolloquium entfällt.“ 
 
 Die Satznummern werden entsprechend angepasst. 
 
@@ -218,7 +218,7 @@ aa) In Satz 2 Nr. 3 wird das Wort „den“ durch das Wort „der“ ersetzt.
 
 cc) Nach Satz 2 werden folgende Sätze 3 bis 7 angefügt: 
 
-„[3] Erforderlich ist in der Regel der Nachweis englischer Sprachkenntnisse (bei Bewerberinnen/ Bewerbern, deren Muttersprache nicht Englisch ist) oder deutscher Sprachkenntnisse (bei Bewerberinnen/ Bewerbern, deren Muttersprache nicht Deutsch ist).[4] Deutsche Sprachkenntnisse werden nachgewiesen durch die Prüfungen DSH-2 (schriftlich) und DSH-1 (mündlich). 5Diese Prüfungen können auch unmittelbar vor Studienbeginn absolviert werden, wenn beim Zulassungsantrag deutsche Sprachkenntnisse auf Mittelstufenniveau (ca. 600 Unterrichtsstunden) nachgewiesen werden.[6] Die Englischkenntnisse können durch eine der folgenden Möglichkeiten nachgewiesen werden: 
+„<sup>3</sup> Erforderlich ist in der Regel der Nachweis englischer Sprachkenntnisse (bei Bewerberinnen/ Bewerbern, deren Muttersprache nicht Englisch ist) oder deutscher Sprachkenntnisse (bei Bewerberinnen/ Bewerbern, deren Muttersprache nicht Deutsch ist).<sup>4</sup> Deutsche Sprachkenntnisse werden nachgewiesen durch die Prüfungen DSH-2 (schriftlich) und DSH-1 (mündlich). 5Diese Prüfungen können auch unmittelbar vor Studienbeginn absolviert werden, wenn beim Zulassungsantrag deutsche Sprachkenntnisse auf Mittelstufenniveau (ca. 600 Unterrichtsstunden) nachgewiesen werden.<sup>6</sup> Die Englischkenntnisse können durch eine der folgenden Möglichkeiten nachgewiesen werden: 
 
 - mindestens Stufe C1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen; 
 
@@ -298,9 +298,11 @@ ee) Der bisherige Satz 3 wird Satz 8.
 
 - k) Nach Zeile 26 wird folgende Zeile 27 eingefügt: 
 
-„ 
+|„|
+|---|
 
-Schlüsselqualifikationen SQ 4 2V+1Ü[(c)] S Sl 
+|Schlüsselqualifikationen SQ<br>4|2V+1Ü<sup>(c)</sup>|S<br>Sl|
+|---|---|---|
 
 „ 
 
@@ -320,9 +322,8 @@ Schlüsselqualifikationen SQ 4 2V+1Ü[(c)] S Sl
 
 - r) Nach Zeile 41 (Physikalisches Wahlfach (Master)) wird folgende Zeile eingefügt: 
 
-|„|||||||||
-|---|---|---|---|---|---|---|---|---|
-|Nichtphysikalisches<br>Wahlfach (Master)|NW||4|2V+1Ü|W|Pl|1||
+|„<br>Nichtphysikalisches<br>Wahlfach (Master)|NW|4<br>2V+1Ü|W|Pl|1|
+|---|---|---|---|---|---|
 
 „ 
 
@@ -342,11 +343,11 @@ cc)  Nach Satz 5 wird folgender Buchst. c Satz 6 eingefügt:
 
 8 
 
-„[6] Insgesamt müssen im Wahlbereich mindestens 20 ECTS-Punkte aus dem Bereich der Physik in der Medizin erworben werden.“ 
+„<sup>6</sup> Insgesamt müssen im Wahlbereich mindestens 20 ECTS-Punkte aus dem Bereich der Physik in der Medizin erworben werden.“ 
 
 dd) Der bisherige Buchst. c Satz 6 wird zu Buchst. d Satz 7. 
 
-- b) Abs. 4 erhält folgende Fassung: 
+b) Abs. 4 erhält folgende Fassung: 
 
 „Bei erfolgreichem Abschluss des Masterstudiums gemäß den Absätzen 1 bis 3 kann auf Antrag der oder des Studierenden im Masterzeugnis sowie in der Masterurkunde der Zusatz „Studienschwerpunkt Physik in der Medizin“ aufgenommen werden.“ 
 
@@ -354,7 +355,7 @@ c) Nach Abs. 4 wird folgender Abs. 5 angefügt:
 
 „(5) Für Studierende, die den Studienschwerpunkt _Physik in der Medizin_ anstreben und diese Absicht aufgeben oder den Studienschwerpunkt entsprechend Absatz 4 nicht vermerken lassen, werden alle im Studienschwerpunkt erworbenen Studien- und Prüfungsleistungen in vollem Umfang anerkannt. Insbesondere werden die Module _Physikalisches Experimentieren in der Medizin 1 und 2_ (PEM-1, PEM-2) an Stelle der Module WP-1 und WP-2 angerechnet. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BPOWISO 20230323 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Rahmenpruefungsordnung/Aenderungssatzungen/BPOWISO_20230323_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:20:08+00:00
-page_count_chars: 15655
+scraped_at: 2026-07-01T10:38:15+00:00
+page_count_chars: 15916
 ---
 
 # BPOWISO 20230323 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 15655
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Rahmenpruefungsordnung/Aenderungssatzungen/BPOWISO_20230323_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Einundzwanzigste Satzung zur Änderung der Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BPOWISO – Vom 23. März 2023** 
+# **Einundzwanzigste Satzung zur Änderung der Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BPOWISO – Vom 23. März 2023** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86 Abs.  4, Art. 88 Abs. 9 und Art. 96 Abs. 3 Satz 1 des Bayerischen Hochschulinnovationsgesetzes vom 5. August 2022 ( **BayHIG** ) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – BPOWISO – vom 1. August 2006, zuletzt geändert durch Satzung vom 2. September 2020, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirts
 
    - a) Abs. 1 erhält folgende neue Fassung: 
 
-„(1)[1] Im Bachelorstudiengang werden wissenschaftliche Grundlagen, Methodenkompetenz und berufsfeldbezogene Qualifikationen vermittelt.[2] Bis zum Ende des zweiten Semesters ist eine Grundlagen- und Orientierungsprüfung aus den Grundlagen des Bachelorstudiengangs zu absolvieren; Näheres regelt die jeweilige **Fachstudien- und Prüfungsordnung** .[3] Das weitere Studium umfasst die Prüfungen bis zum Ende der Regelstudienzeit.[4] Zum erfolgreichen Abschluss des Bachelorstudiengangs ist der Erwerb von 180 ECTSPunkten gemäß den Bestimmungen dieser Studien- und Prüfungsordnung i. V. m. der jeweiligen **Fachstudien- und Prüfungsordnung** erforderlich, worin 
+„(1)<sup>1</sup> Im Bachelorstudiengang werden wissenschaftliche Grundlagen, Methodenkompetenz und berufsfeldbezogene Qualifikationen vermittelt.<sup>2</sup> Bis zum Ende des zweiten Semesters ist eine Grundlagen- und Orientierungsprüfung aus den Grundlagen des Bachelorstudiengangs zu absolvieren; Näheres regelt die jeweilige **Fachstudien- und Prüfungsordnung** .<sup>3</sup> Das weitere Studium umfasst die Prüfungen bis zum Ende der Regelstudienzeit.<sup>4</sup> Zum erfolgreichen Abschluss des Bachelorstudiengangs ist der Erwerb von 180 ECTSPunkten gemäß den Bestimmungen dieser Studien- und Prüfungsordnung i. V. m. der jeweiligen **Fachstudien- und Prüfungsordnung** erforderlich, worin 
 
 1 
 
@@ -38,7 +38,7 @@ sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Bache
 
 - c) Abs. 3 wird wie folgt geändert: 
 
-aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „[1] “ gestrichen. 
+aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) Satz 2 wird gestrichen. 
 
@@ -54,13 +54,13 @@ bb) Satz 2 wird gestrichen.
 
 „[aufgehoben]“ 
 
-## 5. § 6 Abs. 3 wird wie folgt geändert: 
+5. § 6 Abs. 3 wird wie folgt geändert: 
 
-- a) In Satz 2 werden nach dem Wort „elektronisch“ ein Komma und die Worte „unter Nutzung elektronischer Kommunikationsmittel“ eingefügt. 
+   - a) In Satz 2 werden nach dem Wort „elektronisch“ ein Komma und die Worte „unter Nutzung elektronischer Kommunikationsmittel“ eingefügt. 
 
-- b) Nach Satz 2 wird folgender neuer Satz 3 eingefügt; die bisherigen Sätze 3 bis 5 werden zu Sätzen 4 bis 6: 
+   - b) Nach Satz 2 wird folgender neuer Satz 3 eingefügt; die bisherigen Sätze 3 bis 5 werden zu Sätzen 4 bis 6: 
 
-„[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten. 
+„<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten. 
 
 2 
 
@@ -70,21 +70,21 @@ bb) Satz 2 wird gestrichen.
 
    - a) In Abs. 3 wird nach Satz 7 folgender neuer Satz 8 angefügt: 
 
-„[8] Für den Geschäftsgang gilt § 30 der Grundordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg ( **GrO** ).“ 
+„<sup>8</sup> Für den Geschäftsgang gilt § 30 der Grundordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg ( **GrO** ).“ 
 
 b) Abs. 6 wird wie folgt geändert: 
 
-- aa) In Satz 3 wird nach den Worten „jeder bzw. jedem Einzelnen“ das Wort „oder“ gestrichen. 
+      - aa) In Satz 3 wird nach den Worten „jeder bzw. jedem Einzelnen“ das Wort „oder“ gestrichen. 
 
-- bb) In Satz 4 werden die Worte „erlässt die Präsidentin bzw. der Präsident“ durch die Worte „werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen“ ersetzt. 
+      - bb) In Satz 4 werden die Worte „erlässt die Präsidentin bzw. der Präsident“ durch die Worte „werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen“ ersetzt. 
 
-## 8. § 10 wird wie folgt geändert: 
+8. § 10 wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 2 werden die Worte „Bayerischen Hochschulgesetz, Bayerischen Hochschulpersonalgesetz“ durch die Worte „ **Bayerischen Hochschulinnovationsgesetz** “ ersetzt. 
+   - a) In Abs. 1 Satz 2 werden die Worte „Bayerischen Hochschulgesetz, Bayerischen Hochschulpersonalgesetz“ durch die Worte „ **Bayerischen Hochschulinnovationsgesetz** “ ersetzt. 
 
-- b) In Abs. 2 werden nach Satz 2 folgende neue Sätze 3 und 4 angefügt: 
+   - b) In Abs. 2 werden nach Satz 2 folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung. 4Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.“ 
+„<sup>3</sup> Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung. 4Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.“ 
 
 - c) In Abs. 4 werden die Zahlen und Worte „41 Abs. 2 BayHSchG“ durch die Zahlen und Worte „Art. 51 Abs. 2 **BayHIG** i.V.m. Art. 20, 21 **BayVwVfG** “ ersetzt. 
 
@@ -94,7 +94,7 @@ b) Abs. 6 wird wie folgt geändert:
 
 9. In § 11 Abs. 3 werden nach Satz 3 folgende neue Sätze 4 und 5 eingefügt, der bisherige Satz 4 wird zu Satz 6: 
 
-„[4] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.[5] Der Prüfungsausschuss kann in besonders begründeten Fällen auf Antrag abweichend von Satz 4 eine Teilnahme an der Prüfung genehmigen.“ 
+„<sup>4</sup> Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.<sup>5</sup> Der Prüfungsausschuss kann in besonders begründeten Fällen auf Antrag abweichend von Satz 4 eine Teilnahme an der Prüfung genehmigen.“ 
 
 10. § 12 wird wie folgt geändert: 
 
@@ -102,11 +102,11 @@ b) Abs. 6 wird wie folgt geändert:
 
 - b) Die Regelung in Abs. 1 erhält folgende neue Fassung: 
 
-   - „[1] Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.[2] Gleiches gilt für Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Frühoder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion.“ 
+   - „<sup>1</sup> Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.<sup>2</sup> Gleiches gilt für Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Frühoder Jungstudiums erbracht worden sind.<sup>3</sup> Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion.“ 
 
 - c) Die Regelung in Abs. 2 Satz 1 erhält folgende neue Fassung: 
 
-„[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.“ 
+„<sup>1</sup> Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.“ 
 
 - d) In Abs. 3 Satz 1 werden die Worte „Module, Prüfungen und Studienleistungen“ durch die Worte „Studien- und Prüfungsleistungen“ ersetzt. 
 
@@ -114,13 +114,13 @@ b) Abs. 6 wird wie folgt geändert:
 
 4 
 
-„(4)[1] Im Falle der Anerkennung bzw. Anrechnung von 25 oder mehr ECTSPunkten erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester.[2] Dabei wird pro anerkannter 25 ECTS-Punkte ein Semester hochgestuft.“ 
+„(4)<sup>1</sup> Im Falle der Anerkennung bzw. Anrechnung von 25 oder mehr ECTSPunkten erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester.<sup>2</sup> Dabei wird pro anerkannter 25 ECTS-Punkte ein Semester hochgestuft.“ 
 
 - f) Der bisherige Abs. 4 wird zu Abs. 5 und wie folgt geändert: 
 
 aa) Vor Satz 1 wird folgender neuer Satz 1 eingefügt: 
 
-„[1] Anerkennung und Anrechnung erfolgen auf Antrag.“ 
+„<sup>1</sup> Anerkennung und Anrechnung erfolgen auf Antrag.“ 
 
 bb) Die bisherigen Sätze 1 bis 5 werden zu Sätzen 2 bis 6. 
 
@@ -136,7 +136,7 @@ dd) In Satz 3 (neu) wird die Zahl „3“ durch die Zahl „4“ ersetzt.
 
 - b) Nach Satz 1 werden folgende neue Sätze 2 bis 4 angefügt: 
 
-„[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
+„<sup>2</sup> Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.<sup>3</sup> In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.<sup>4</sup> Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
 
 13. § 17 wird wie folgt geändert: 
 
@@ -146,21 +146,21 @@ dd) In Satz 3 (neu) wird die Zahl „3“ durch die Zahl „4“ ersetzt.
 
 - b) In Abs. 3 Satz 2 werden nach den Worten „der Prüfungsausschuss“ die Worte „unter Berücksichtigung des Kompetenzziels des jeweiligen Moduls“ angefügt. 
 
-## 14. § 18 wird wie folgt geändert: 
+# 14. § 18 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
    - aa) Die bisher einzige Regelung wird zu Satz 1 und in ihr wird der Klammerzusatz „(insbesondere Klausur, Haus- oder Seminararbeit)“ gestrichen. 
 
-## bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 angefügt: 
+   - bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 angefügt: 
 
-   - „[2] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als O- pen-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.[3] Bei Prüfungen i.S.d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
+      - „<sup>2</sup> Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als O- pen-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.<sup>3</sup> Bei Prüfungen i.S.d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
 
 - b) In Abs. 2 Satz 1 wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
 - c) In Abs. 4 Satz 1 werden vor dem Wort „Prüfungen“ am Satzanfang die Worte „Sofern in der jeweiligen **Fachstudien- und Prüfungsordnung** bzw. im Modulhandbuch nicht anderes bestimmt ist, gelten“ eingefügt. 
 
-## 15. § 20 wird wie folgt geändert: 
+15. § 20 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „Prüfung die Worte „in Präsenz“ angefügt. 
 
@@ -170,7 +170,7 @@ dd) In Satz 3 (neu) wird die Zahl „3“ durch die Zahl „4“ ersetzt.
 
 16. In § 20a Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## 17. § 21 wird wie folgt geändert: 
+# 17. § 21 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 6 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
@@ -186,13 +186,13 @@ c) Abs. 6 wird wie folgt geändert:
 
 19. In § 27 Abs. 1 Satz 4 Nr. 1 wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-## 20. § 28 Abs. 2 wird wie folgt geändert: 
+# 20. § 28 Abs. 2 wird wie folgt geändert: 
 
 - a) In Satz 1 wird nach dem Wort „gemäß“ das Wort „der“ eingefügt und nach den Worten „in der“ das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
 - b) Nach Satz 1 wird folgender neuer Satz 2 eingefügt; der bisherige Satz 2 wird zu Satz 3: 
 
-„[2] Im Bachelorstudiengang Wirtschaftswissenschaften umfasst die Assessmentprüfung 50 ECTS-Punkte gemäß der Festlegung in der **Fachstudien- und Prüfungsordnung** .“ 
+„<sup>2</sup> Im Bachelorstudiengang Wirtschaftswissenschaften umfasst die Assessmentprüfung 50 ECTS-Punkte gemäß der Festlegung in der **Fachstudien- und Prüfungsordnung** .“ 
 
 7 
 
@@ -204,7 +204,7 @@ c) Abs. 6 wird wie folgt geändert:
 
    - c) Der bisherige Satz 4 wird zu Satz 3. 
 
-## 22. § 30 wird wie folgt geändert: 
+# 22. § 30 wird wie folgt geändert: 
 
 - a) In Abs. 3 Satz 1 werden nach dem Wort „Die“ am Satzanfang das Wort „hauptberuflich“ gestrichen und nach den Worten „Sozialwissenschaften tätigen“ das Wort „hauptberuflichen“ eingefügt. 
 
@@ -212,9 +212,9 @@ c) Abs. 6 wird wie folgt geändert:
 
 - c) In Abs. 8 Satz 1 werden die Worte „Erstgutachterin bzw. dem Erstgutachter“ durch die Worte „Betreuerin bzw. dem Betreuer“ ersetzt. 
 
-## 23. § 31 wird wie folgt geändert: 
+# 23. § 31 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden nach den Worten „Ausnahme der“ die Worte „Module der“ eingefügt. 
 
@@ -228,21 +228,21 @@ c) Abs. 6 wird wie folgt geändert:
 
 - dd) Nach Satz 6 wird folgender neuer Satz 7 angefügt; die bisherigen Sätze 7 und 8 werden zu Sätzen 8 und 9: 
 
-„[7] Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungsamt mitzuteilen.“ 
+„<sup>7</sup> Die bzw. der Studierende ist verpflichtet, den Status der Anmeldung im Prüfungsverwaltungssystem regelmäßig zu überprüfen und etwaige Unstimmigkeiten unverzüglich dem Prüfungsamt mitzuteilen.“ 
 
 - b) In Abs. 3 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
 24. In § 33 wird nach Abs. 13 folgender neuer Abs. 14 angefügt: 
 
-„(14)[1] Die einundzwanzigste Änderungssatzung tritt am 1. April 2023 in Kraft.[2] Soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, gilt sie für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.[3] Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 und § 28 Abs. 2 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
+„(14)<sup>1</sup> Die einundzwanzigste Änderungssatzung tritt am 1. April 2023 in Kraft.<sup>2</sup> Soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, gilt sie für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 und § 28 Abs. 2 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
 
-## 25. **Anlage 5** erhält folgende neue Fassung: 
+# 25. **Anlage 5** erhält folgende neue Fassung: 
 
-## „[aufgehoben]“ 
+# „[aufgehoben]“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die einundzwanzigste Änderungssatzung tritt am 1. April 2023 in Kraft. 2Soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, gilt sie für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.[3] Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 und § 28 Abs. 2 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
+1Die einundzwanzigste Änderungssatzung tritt am 1. April 2023 in Kraft. 2Soweit sich aus den nachfolgenden Regelungen nichts anderes ergibt, gilt sie für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 und § 28 Abs. 2 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
 
 9 
 

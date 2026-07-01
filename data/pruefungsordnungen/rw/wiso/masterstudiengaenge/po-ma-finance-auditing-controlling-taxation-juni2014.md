@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.07.2009 i.d.F. 05.06.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Finance-Auditing-Controlling-Taxation-JUNI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:11+00:00
-page_count_chars: 26113
+scraped_at: 2026-07-01T11:01:39+00:00
+page_count_chars: 25934
 ---
 
 # PDF vom 20.07.2009 i.d.F. 05.06.2014
@@ -44,7 +44,7 @@ Das Studium im Masterstudiengang kann auch zum Sommersemester begonnen werden.
 
 ## **§ 3 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang.[2] Als fachver- 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang.<sup>2</sup> Als fachver- 
 
 1 
 
@@ -76,15 +76,15 @@ wandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden insbesondere a
 
 3. sonstige Fähigkeiten, Kenntnisse und Softskills, insbesondere qualifizierte fachlich einschlägige Auslandsaufenthalte, fachliche Auszeichnungen, Preise und Stipendien sowie studienbegleitendes Engagement, Tätigkeiten als studentische Hilfskraft (max. 20 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 MPOWIWI zu einem Qualifikationsfeststellungsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Das Qualifikationsfeststellungsgespräch erstreckt sich auch auf die in Abs. 3 aufgeführten Qualifikationskriterien. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 MPOWIWI zu einem Qualifikationsfeststellungsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Qualifikationsfeststellungsgespräch erstreckt sich auch auf die in Abs. 3 aufgeführten Qualifikationskriterien. 
 
 ## **§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[ 1] Im Pflichtbereich werden interdisziplinäre Grundkenntnisse vertiefend vermittelt (30 ECTS-Punkte).[2] Zudem wählen die Studierenden Module aus einem Angebot von größeren Vertiefungsmodulen (jeweils 10 ECTS-Punkte) und Ergänzungsmodulen (jeweils 5 ECTSPunkte) im Gesamtumfang von 60 ECTS-Punkten (Wahlbereich).[3] Im Modulhandbuch werden den Studierenden berufsfeldspezifische Vorschläge zur Zusammenstellung von Modulen (z. B. Steuerberater/in, Investmentbanker/in, Wirtschaftsprüfer/in) unterbreitet.[4] Im Modul Masterarbeit (30 ECTS-Punkte) ist die Masterthesis zu erstellen.[5] Art und Umfang der Prüfungen bestimmen sich nach den §§ 10 und 16 – 18a MPOWIWI. 
+(1)<sup>1</sup> Im Pflichtbereich werden interdisziplinäre Grundkenntnisse vertiefend vermittelt (30 ECTS-Punkte).<sup>2</sup> Zudem wählen die Studierenden Module aus einem Angebot von größeren Vertiefungsmodulen (jeweils 10 ECTS-Punkte) und Ergänzungsmodulen (jeweils 5 ECTSPunkte) im Gesamtumfang von 60 ECTS-Punkten (Wahlbereich).<sup>3</sup> Im Modulhandbuch werden den Studierenden berufsfeldspezifische Vorschläge zur Zusammenstellung von Modulen (z. B. Steuerberater/in, Investmentbanker/in, Wirtschaftsprüfer/in) unterbreitet.<sup>4</sup> Im Modul Masterarbeit (30 ECTS-Punkte) ist die Masterthesis zu erstellen.<sup>5</sup> Art und Umfang der Prüfungen bestimmen sich nach den §§ 10 und 16 – 18a MPOWIWI. 
 
 2 
 
-(2)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(2)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 5 Zertifikate für die Prüfungsanrechnung und Vorbereitung auf das Wirtschaftsprüferexamen** 
 
@@ -96,13 +96,13 @@ Der Erwerb eines der in den §§ 5a und 5b geregelten Zertifikate setzt das erfo
 
 3. Besteuerung von M&A-Aktivitäten. 
 
-im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus.[*) ] 
+im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus.<sup>*)</sup> 
 
 *) Studierende, die bereits vor dem Wintersemester 2012/13 in den Masterstudiengang FACT eingeschrieben waren, legen entweder das Modul „Vertiefung Tax Management“ oder die beiden Module „Rechtsform und Besteuerung“ und „Besteuerung von M&A-Aktivitäten“ ab. 
 
 ## **§ 5a Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung** 
 
-(1)[1] Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“ erwerben.[2] Mit dem „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen in Bezug auf das Fach Wirtschaftsrecht in der Wirtschaftsprüfung nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Wirtschaftsrecht in der Wirtschaftsprüfung im Sinne des § 13b der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichwertig angerechnet werden können. 
+(1)<sup>1</sup> Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“ erwerben.<sup>2</sup> Mit dem „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen in Bezug auf das Fach Wirtschaftsrecht in der Wirtschaftsprüfung nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Wirtschaftsrecht in der Wirtschaftsprüfung im Sinne des § 13b der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichwertig angerechnet werden können. 
 
 (2) Der Erwerb des Zertifikats setzt das Bestehen einer Eingangskompetenzprüfung sowie einer Zertifikatsabschlussprüfung und das erfolgreiche Abschließen der Module: 
 
@@ -116,19 +116,19 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
 im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus. 
 
-(3)[1] Die Eingangskompetenzprüfung ist vor Abschluss der in Abs. 2 genannten Module erfolgreich zu absolvieren.[2] Sie dient der Überprüfung der nach dem Referenzrahmen gemäß § 4 Wirtschaftsprüfungsexamens-Anrechnungsverordnung geforderten Eingangskompetenzausprägungen und kann sich auf alle Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung erstrecken.[3] Die Eingangskompetenzprüfung findet jeweils zu Beginn und Mitte des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.[4] Die Prüfung wird in schriftlicher Form mit einer Dauer von 120 Minuten vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen.[5] Die Bewertung lautet bestanden oder nicht bestanden.[6] Die Eingangskompetenzprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die zu Prüfenden bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 6 der Wirtschaftsprüferprüfungsverordnung ihr erworbenes Wissen anwenden und eigene Interpretationen erstellen, Einzelfälle angemessen lösen und die Ergebnisse auswerten können, bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung die wesentlichen Definitionen und die herrschende Meinung wiedergeben können sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 5 der Wirtschaftsprüferprüfungsverordnung das Wissen ordnen, es systematisch wiedergeben und Probleme erkennen können. 
+(3)<sup>1</sup> Die Eingangskompetenzprüfung ist vor Abschluss der in Abs. 2 genannten Module erfolgreich zu absolvieren.<sup>2</sup> Sie dient der Überprüfung der nach dem Referenzrahmen gemäß § 4 Wirtschaftsprüfungsexamens-Anrechnungsverordnung geforderten Eingangskompetenzausprägungen und kann sich auf alle Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung erstrecken.<sup>3</sup> Die Eingangskompetenzprüfung findet jeweils zu Beginn und Mitte des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.<sup>4</sup> Die Prüfung wird in schriftlicher Form mit einer Dauer von 120 Minuten vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen.<sup>5</sup> Die Bewertung lautet bestanden oder nicht bestanden.<sup>6</sup> Die Eingangskompetenzprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die zu Prüfenden bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 6 der Wirtschaftsprüferprüfungsverordnung ihr erworbenes Wissen anwenden und eigene Interpretationen erstellen, Einzelfälle angemessen lösen und die Ergebnisse auswerten können, bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung die wesentlichen Definitionen und die herrschende Meinung wiedergeben können sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 5 der Wirtschaftsprüferprüfungsverordnung das Wissen ordnen, es systematisch wiedergeben und Probleme erkennen können. 
 
 3 
 
-(4)[1] Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung.[2] Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.[3] Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen.[4] Die Bewertung lautet bestanden oder nicht bestanden.[5] Die Abschlussprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die Bewerberin/der Bewerber bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 5 und Nr. 6 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.[7] § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
+(4)<sup>1</sup> Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung.<sup>2</sup> Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.<sup>3</sup> Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen.<sup>4</sup> Die Bewertung lautet bestanden oder nicht bestanden.<sup>5</sup> Die Abschlussprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die Bewerberin/der Bewerber bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 5 und Nr. 6 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.<sup>7</sup> § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
 
-(5)[1] Für die Eingangskompetenz- und die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend.[2] Für die zusätzlich abgelegten Eingangskompetenz- und die Zertifikatsabschlussprüfung werden keine ECTS-Punkte vergeben. 
+(5)<sup>1</sup> Für die Eingangskompetenz- und die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend.<sup>2</sup> Für die zusätzlich abgelegten Eingangskompetenz- und die Zertifikatsabschlussprüfung werden keine ECTS-Punkte vergeben. 
 
-(6)[1] Nach Bestehen der in § 5 und in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Wirtschaftsprivatrecht das „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“.[2] Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums erbracht wurden und an welchem Datum die Eingangskompetenzprüfung und die mündliche Zertifikatsabschlussprüfung erfolgreich vor welchem Prüfenden abgelegt wurden.[3] Das Zertifikat in der Wirtschaftsprüfung ist vom Lehrstuhlinhaber des Lehrstuhls für Wirtschaftsprivatrecht zu unterzeichnen. 
+(6)<sup>1</sup> Nach Bestehen der in § 5 und in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Wirtschaftsprivatrecht das „Zertifikat Wirtschaftsrecht in der Wirtschaftsprüfung“.<sup>2</sup> Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums erbracht wurden und an welchem Datum die Eingangskompetenzprüfung und die mündliche Zertifikatsabschlussprüfung erfolgreich vor welchem Prüfenden abgelegt wurden.<sup>3</sup> Das Zertifikat in der Wirtschaftsprüfung ist vom Lehrstuhlinhaber des Lehrstuhls für Wirtschaftsprivatrecht zu unterzeichnen. 
 
 ## **§ 5b Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung** 
 
-(1)[1] Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“ erwerben.[2] Mit dem „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre im Sinne des § 13b der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichwertig angerechnet werden können. 
+(1)<sup>1</sup> Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“ erwerben.<sup>2</sup> Mit dem „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre im Sinne des § 13b der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichwertig angerechnet werden können. 
 
 (2) Der Erwerb des Zertifikats setzt das Bestehen einer Zertifikatsabschlussprüfung sowie das erfolgreiche Abschließen der Module: 
 
@@ -144,7 +144,7 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
 6. Spezialfragen der Rechnungslegung 
 
-7. Theorie und Empirie der Besteuerung II[**)] 
+7. Theorie und Empirie der Besteuerung II<sup>**)</sup> 
 
 8. International Corporate Governance 
 
@@ -154,11 +154,11 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
 4 
 
-(3)[1] Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 B Nr. 1, Nr. 2 der Wirtschaftsprüferprüfungsverordnung.[2] Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen.[3] Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen abgenommen.[4] Die Bewertung lautet bestanden oder nicht bestanden.[5] In der Abschlussprüfung soll die Bewerberin/der Bewerber nachweisen, dass sie oder er bezüglich des Prüfungsgebiets nach §4 B Nr. 1 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann sowie bezüglich des Prüfungsgebiets nach §4 B Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.[7] § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
+(3)<sup>1</sup> Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 B Nr. 1, Nr. 2 der Wirtschaftsprüferprüfungsverordnung.<sup>2</sup> Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen.<sup>3</sup> Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen abgenommen.<sup>4</sup> Die Bewertung lautet bestanden oder nicht bestanden.<sup>5</sup> In der Abschlussprüfung soll die Bewerberin/der Bewerber nachweisen, dass sie oder er bezüglich des Prüfungsgebiets nach §4 B Nr. 1 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann sowie bezüglich des Prüfungsgebiets nach §4 B Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.<sup>7</sup> § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
 
-(4)[1] Für die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend. 2Für die zusätzlich abgelegte Zertifikatsabschlussprüfung werden keine ECTS-Punkte vergeben. 
+(4)<sup>1</sup> Für die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend. 2Für die zusätzlich abgelegte Zertifikatsabschlussprüfung werden keine ECTS-Punkte vergeben. 
 
-(5)[1] Nach Bestehen der in § 5 und in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen das „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“.[2] Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums erbracht wurden und an welchem Datum die mündliche Zertifikatsabschlussprüfung erfolgreich vor welchem Prüfenden abgelegt wurde.[3] Das Zertifikat ist vom Lehrstuhlinhaber des Lehrstuhls für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen zu unterzeichnen. 
+(5)<sup>1</sup> Nach Bestehen der in § 5 und in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen das „Zertifikat Angewandte Betriebswirtschaftslehre und Volkswirtschaftslehre in der Wirtschaftsprüfung“.<sup>2</sup> Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums erbracht wurden und an welchem Datum die mündliche Zertifikatsabschlussprüfung erfolgreich vor welchem Prüfenden abgelegt wurde.<sup>3</sup> Das Zertifikat ist vom Lehrstuhlinhaber des Lehrstuhls für Betriebswirtschaftslehre, insbes. Rechnungswesen und Prüfungswesen zu unterzeichnen. 
 
 **) wurde inhaltlich gleich bis Sommersemester 2011 unter der Bezeichnung „Theorie und Politik der Besteuerung“ und im Sommersemester 2011 unter der Bezeichnung  „Theorie und Empirie der Besteuerung“ angeboten. Der Nachweis eines erfolgreichen Abschlusses dieses Moduls unter einer der genannten früheren Bezeichnung ist dem Nachweis des erfolgreichen Abschlusses des Moduls „Theorie und Empirie der Besteuerung II“ der geltenden Fassung gemäß § 5b Abs. 2 S. 1 Nr. 5 gleichwertig. 
 
@@ -176,15 +176,15 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
 2. Testverfahren 
 
-- 2.1 1Der Zugangstest wird jeweils spätestens einen Monat vor Ende der Bewerbungsfrist für den Masterstudiengang gemäß Nr. 2.2 der Anlage MPOWIWI zum Sommersemester im Dezember und zum Wintersemester im April jeweils ein Mal durchgeführt.[2] Der Termin für den Zugangstest wird auf den Internetseiten des Masterstudiengangs FACT spätestens vier Wochen vor dessen Durchführung bekannt gemacht. 
+- 2.1 1Der Zugangstest wird jeweils spätestens einen Monat vor Ende der Bewerbungsfrist für den Masterstudiengang gemäß Nr. 2.2 der Anlage MPOWIWI zum Sommersemester im Dezember und zum Wintersemester im April jeweils ein Mal durchgeführt.<sup>2</sup> Der Termin für den Zugangstest wird auf den Internetseiten des Masterstudiengangs FACT spätestens vier Wochen vor dessen Durchführung bekannt gemacht. 
 
 - 2.2 Die Anmeldung zur Teilnahme am Zugangstest erfolgt bis spätestens drei Tage vor dem Termin des Zugangstests über die Internetseite des Masterstudiengangs FACT (Ausschlussfrist). 
 
-- 2.3 1Die Teilnahme am Zugangstest kann durch einen mit mindestens 600 Punkten (Score Report) bestandenen Graduate Management Admission Test (GMAT) ersetzt werden.[2] Dies gilt nicht, sofern der Erwerb des „Zertifikats Angewandte BWL und VWL in der Wirtschaftsprüfung“ (siehe § 5b) angestrebt wird; hierfür ist zwingend der Zugangstest abzulegen. 
+- 2.3 1Die Teilnahme am Zugangstest kann durch einen mit mindestens 600 Punkten (Score Report) bestandenen Graduate Management Admission Test (GMAT) ersetzt werden.<sup>2</sup> Dies gilt nicht, sofern der Erwerb des „Zertifikats Angewandte BWL und VWL in der Wirtschaftsprüfung“ (siehe § 5b) angestrebt wird; hierfür ist zwingend der Zugangstest abzulegen. 
 
 3. Prüfer 
 
-   - 1Die Koordination, die Durchführung und Bewertung des Zugangstest obliegt der Zugangskommission gemäß § 11 MPOWIWI des Masterstudiengangs FACT.[2] Die Zugangskommission kann die Koordination und Durchführung sowie Bewertung des Zugangstests einzelnen von ihr beauftragten Mitgliedern übertragen. 
+   - 1Die Koordination, die Durchführung und Bewertung des Zugangstest obliegt der Zugangskommission gemäß § 11 MPOWIWI des Masterstudiengangs FACT.<sup>2</sup> Die Zugangskommission kann die Koordination und Durchführung sowie Bewertung des Zugangstests einzelnen von ihr beauftragten Mitgliedern übertragen. 
 
 4. Durchführung des Zugangstests und Bewertung 
 
@@ -196,7 +196,7 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
 5. Rücktritt, Versäumnis, Wiederholung 
 
-- 5.1 1Ein Rücktritt kann spätestens bis zum dritten Tag vor dem Zugangstest ohne nachteilige Folgen per E-Mail bei der Zulassungskommission erfolgen.[2] Ein Rücktritt bis vor Beginn des Zugangstests kann nur aus Gründen, die die Bewerberin/der Bewerber nicht zu vertreten (z. B. krankheitsbedingte Prüfungsunfähigkeit) hat erfolgen.[3] Die Gründe nach Satz 2 müssen der Zugangskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[4] Ein Rücktritt nach Beginn der Prüfungszeit ist ausgeschlossen. 
+- 5.1 1Ein Rücktritt kann spätestens bis zum dritten Tag vor dem Zugangstest ohne nachteilige Folgen per E-Mail bei der Zulassungskommission erfolgen.<sup>2</sup> Ein Rücktritt bis vor Beginn des Zugangstests kann nur aus Gründen, die die Bewerberin/der Bewerber nicht zu vertreten (z. B. krankheitsbedingte Prüfungsunfähigkeit) hat erfolgen.<sup>3</sup> Die Gründe nach Satz 2 müssen der Zugangskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>4</sup> Ein Rücktritt nach Beginn der Prüfungszeit ist ausgeschlossen. 
 
 - 5.2 Bei verspätetem bzw. nicht ordnungsgemäßem Rücktritt oder Versäumnis des Zugangstests gilt dieser als nicht bestanden. 
 
@@ -206,80 +206,38 @@ im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus
 
    - § 20 Abs. 1 und 3 MPOWIWI gelten entsprechend. 
 
-7. Kosten 
-
-   - Etwaige eigene Kosten für den Zugangstest bzw. den GMAT haben die Bewerberinnen/ Bewerber selbst zu tragen. 
+7. Kosten Etwaige eigene Kosten für den Zugangstest bzw. den GMAT haben die Bewerberinnen/ Bewerber selbst zu tragen. 
 
 6 
 
-## **Anlage 2: Überblickstabelle Studienverlauf Beginn Wintersemester** 
+### **Anlage 2: Überblickstabelle Studienverlauf Beginn Wintersemester** 
 
-|**Studienplan Master FACT**|**Studienplan Master FACT**|**WS**|**SS**|**WS**|**SS**||
-|---|---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**||
-||ECTS|ECTS|ECTS|ECTS|ECTS||
-|**Pflichtbereich (30 ECTS)**|||||||
-|**Modul: Grundlagen FACT 1**<br>**Modul: Grundlagen FACT 2**<br>**Modul: Grundlagen FACT 3**|**15**<br>**10**<br>**5**|15|||||
-|||5|5||||
-|||||5|||
-|**Summe**|**30**|**20**|**5**|**5**|**0**||
-||||||||
-||||||||
-|**Vertiefungs- und Ergänzungsbereich** 1 **(60 ECTS)**|||||||
-|<br>**Modul: Vertiefung Finance**<br>**Modul: Vertiefung Tax Law**<br>**Modul: Vertiefung Gesellschaftsrecht**<br>**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**<br>**Modul: Vertiefung Insurance & Risk Management**<br>**Modul: Workshop Finance**<br>**Modul: Sonderbilanzen und Sonderprüfungen**<br>**Modul: Spezialfragen der Rechnungslegung**<br>**Modul: Fallstudien Auditing**<br>**Modul: Prüfungstechnik**<br>**Modul: Cases in Business Controlling**<br>**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**<br>**Modul: Internationales Steuerrecht**<br>**Modul: Besteuerung von Personengesellschaften**<br>**Modul: Einkommensteuerrecht**<br>**Modul: Verbundene Unternehmen und Umwandlung**<br>**Modul: Theorie und Empirie der Besteuerung I**<br>**Modul: Theorie und Empirie der Besteuerung II**<br>**Modul: Industrieökonomik**<br>**Modul: Rechnungslegung von Banken und Versicherungen**<br>**Modul: Versicherungsrecht**<br>**Modul: Internationale Corporate Governance**<br>**Modul: Corporate Social Responsibility und Nachhaltigkeitsmanagement**<br>**Modul: Ökonometrie 1**<br>**Modul: Ökonometrie 4**<br>**Modul: Ökonometrie 5**<br>**Modul: Ökonometrie 6**<br>**Modul: Aktuelle Fragen aus FACT I**<br>**Modul: Aktuelle Fragen aus FACT II**<br>**Modul: Aktuelle Fragen aus FACT III**<br>**Modul: Hauptseminar Finance**<br>**Modul: Hauptseminar Auditing**<br>**Modul: Hauptseminar Controlling**<br>**Modul: Hauptseminar Tax Management**<br>**Modul: Hauptseminar Tax Law**<br>**Modul: Hauptseminar Wirtschaftsrecht**<br>**Modul: Hauptseminar Risk and Insurance**<br>**Modul: Hauptseminar Corporate Governance**<br>**Modul: Hauptseminar Corporate Ownership and Control**|**10**<br>**10**<br>**10**<br>**10**<br>**10**<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5|5||||
-|||10|||||
-|||5|5||||
-||||5|5|||
-||||10||||
-||||||||
-||||5||||
-|||5|||||
-||||5||||
-|||||5|||
-||||5||||
-||||5||||
-|||5|||||
-||||5||||
-||||5||||
-|||5|||||
-||||5||||
-||||5||||
-||||5||||
-||||5||||
-||||5||||
-|||||5|||
-||||5||||
-||||5||||
-|||5|||||
-||||5||||
-|||||5|||
-|||5|||||
-|||5|||||
-||||5||||
-||||5|5|||
-|||5|||||
-||||5||||
-|||||5|||
-||||||||
-|||||5|||
-|||||5|||
-|||||5|||
-|||||5|||
-||||5||||
-|||||5|||
-||||||||
-|||5|||||
-|||5|||||
-||||5||||
-||||||||
-|_Zwischensumme der Auswahlmöglichkeiten_<br>**davon Summe**|_235_<br>**60**|_65_|_120_|_50_|_0_||
-|||**10**|**25**|**25**|**0**||
-||||||||
-|**Masterarbeit (30 ECTS)**|||||||
-|**Modul: Masterarbeit**|**30**||||**30**||
-||||||||
-||||||||
-|**Gesamt ECTS**||**30**|**30**|**30**|**30**||
+|**Studienplan Master FACT**||**WS**<br>**1**|**SS**<br>**2**|**WS**<br>**3**|**SS**<br>**4**|
+|---|---|---|---|---|---|
+|**Pflichtbereich (30 ECTS)**|ECTS|<br> <br>ECTS|<br>ECTS|<br> <br>ECTS|<br>ECTS|
+|<br>**Modul: Grundlagen FACT 1**<br>**Modul: Grundlagen FACT 2**|**15**<br>**10**|15<br>5|5|||
+|**Modul: Grundlagen FACT 3**|**5**|||5||
+|**Summe**|**30**|**20**|**5**|**5**|**0**|
+|**Vertiefungs- und Ergänzungsbereich** <sup>1</sup> **(60 ECTS)**<br>**Modul: Vertiefung Finance**<br>**Modul: Vertiefung Tax Law**<br>**Modul: Vertiefung Gesellschaftsrecht**|**10**<br>**10**<br>**10**|5<br>10<br>5|5<br>5|||
+|<br>**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**<br>**Modul: Vertiefung Insurance & Risk Management**|<br>**10**<br>**10**||<br>5<br>10|5||
+|**Modul: Workshop Finance**<br>**Modul: Sonderbilanzen und Sonderprüfungen**<br>**Modul: Spezialfragen der Rechnungslegung**<br>**Modul: Fallstudien Auditing**<br>**Modul: Prüfungstechnik**<br>**Modul: Cases in Business Controlling**<br>**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**<br>**Modul: Internationales Steuerrecht**<br>**Modul: Besteuerung von Personengesellschaften**<br>**Modul: Einkommensteuerrecht**|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5<br>5<br>5|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5||
+|**Modul: Verbundene Unternehmen und Umwandlung**<br>**Modul: Theorie und Empirie der Besteuerung I**|5<br>5||5<br>5|||
+|**Modul: Theorie und Empirie der Besteuerung II**<br>**Modul: Industrieökonomik**|5<br>5||5|5||
+|**Modul: Rechnungslegung von Banken und Versicherungen**<br>**Modul: Versicherungsrecht**|5<br>5|5|5|||
+|**Modul: Internationale Corporate Governance**|5||5|||
+|<br>**Modul: Corporate Social Responsibility und Nachhaltigkeitsmanagement**|<br>5|||5||
+|**Modul: Ökonometrie 1**<br>|5<br>|5<br>||||
+|**Modul: Ökonometrie 4**<br>|5|5||||
+|**Modul: Ökonometrie 5**<br>**Modul: Ökonometrie 6**|5<br>5||5<br>5|5||
+|**Modul: Aktuelle Fragen aus FACT I**<br>**Modul: Aktuelle Fragen aus FACT II**<br>**Modul: Aktuelle Fragen aus FACT III**|5<br>5<br>5|5|5|5||
+|**Modul: Hauptseminar Finance**<br>**Modul: Hauptseminar Auditing**|5<br>5|||5<br>5||
+|**Modul: Hauptseminar Controlling**<br>**Modul: Hauptseminar Tax Management**<br>**Modul: Hauptseminar Tax Law**<br>**Modul: Hauptseminar Wirtschaftsrecht**|5<br>5<br>5<br>5||5|5<br>5<br>5||
+|**Modul: Hauptseminar Risk and Insurance**|5|5||||
+|**Modul: Hauptseminar Corporate Governance**<br>**Modul: Hauptseminar Corporate Ownership and Control**|5<br>5|5|5|||
+|_Zwischensumme der Auswahlmöglichkeiten_|_235_|_65_|_120_|_50_|_0_|
+|<br>**davon Summe**|**60**|**10**|**25**|**25**|**0**|
+|**Masterarbeit (30 ECTS)**<br>**Modul: Masterarbeit**|**30**||||**30**|
+|**Gesamt ECTS**||**30**|**30**|**30**|**30**|
 
 _______________________ 
 
@@ -287,73 +245,24 @@ _______________________
 
 7 
 
-## **Anlage 3: Überblickstabelle Studienverlauf Beginn Sommersemester** 
+### **Anlage 3: Überblickstabelle Studienverlauf Beginn Sommersemester** 
 
-|**Studienplan Master FACT**|**Studienplan Master FACT**|**SS**|**WS**|**SS**|**WS**|
+|**Studienplan Master FACT**||**SS**<br>**1**|**WS**<br>**2**|**SS**<br>**3**|**WS**<br>**4**|
 |---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
-||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Pflichtbereich (30 ECTS)**||||||
-|**Modul: Grundlagen FACT 1**<br>**Modul: Grundlagen FACT 2**<br>**Modul: Grundlagen FACT 3**|**15**<br>**10**<br>**5**||10||5|
-|||5|5|||
-||||5|||
-|**Summe**<br>|**30**|**5**|**20**|**0**|**5**|
-|||||||
-|**Vertiefungs- und Ergänzungsbereich**1**(60 ECTS)**||||||
-|**Modul: Vertiefung Finance**<br>**Modul: Vertiefung Tax Law**<br>**Modul: Vertiefung Gesellschaftsrecht**<br>**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**<br>**Modul: Vertiefung Insurance & Risk Management**<br>**Modul: Workshop Finance**<br>**Modul: Sonderbilanzen und Sonderprüfungen**<br>**Modul: Spezialfragen der Rechnungslegung**<br>**Modul: Fallstudien Auditing**<br>**Modul: Prüfungstechnik**<br>**Modul: Cases in Business Controlling**<br>**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**<br>**Modul: Internationales Steuerrecht**<br>**Modul: Besteuerung von Personengesellschaften**<br>**Modul: Einkommensteuerrecht**<br>**Modul: Verbundene Unternehmen und Umwandlung**<br>**Modul: Theorie und Empirie der Besteuerung I**<br>**Modul: Theorie und Empirie der Besteuerung II**<br>**Modul: Industrieökonomik**<br>**Modul: Rechnungslegung von Banken und Versicherungen**<br>**Modul: Versicherungsrecht**<br>**Modul: Internationale Corporate Governance**<br>**Modul: Corporate Social Responsibility und Nachhaltigkeitsmanagement**<br>**Modul: Ökonometrie 1**<br>**Modul: Ökonometrie 4**<br>**Modul: Ökonometrie 5**<br>**Modul: Ökonometrie 6**<br>**Modul: Aktuelle Fragen aus FACT I**<br>**Modul: Aktuelle Fragen aus FACT II**<br>**Modul: Aktuelle Fragen aus FACT III**<br>**Modul: Hauptseminar Finance**<br>**Modul: Hauptseminar Auditing**<br>**Modul: Hauptseminar Controlling**<br>**Modul: Hauptseminar Tax Management**<br>**Modul: Hauptseminar Tax Law**<br>**Modul: Hauptseminar Wirtschaftsrecht**<br>**Modul: Hauptseminar Risk and Insurance**<br>**Modul: Hauptseminar Corporate Governance**<br>**Modul: Hauptseminar Corporate Ownership and Control**|**10**<br>**10**<br>**10**<br>**10**<br>**10**<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5|5|||
-||||10|||
-|||5|5|||
-|||5|5|||
-|||10||||
-|||||||
-|||5||||
-||||5|||
-|||5||||
-||||||5|
-|||5||||
-|||5||||
-||||5|||
-|||5||||
-|||5||||
-||||5|||
-|||5||||
-|||5||||
-|||5||||
-|||5||||
-|||5||||
-||||||5|
-|||5||||
-|||5||||
-||||5|||
-|||5||||
-||||||5|
-||||5|||
-||||||5|
-|||5|||5|
-|||5|||5|
-||||||5|
-|||5||||
-||||||5|
-|||||||
-||||5|||
-||||||5|
-||||5|||
-||||||5|
-|||5||||
-||||||5|
-|||||||
-||||5|||
-||||||5|
-|||5||||
-|||||||
-|_Zwischensumme der Auswahlmöglichkeiten_<br>**davon Summe**|_235_<br>**60**|_120_|_65_|_0_|_50_|
-|||**25**|**10**|**0**|**25**|
-|||||||
-|**Masterarbeit (30 ECTS)**||||||
-|**Modul: Masterarbeit**|**30**|||**30**||
-|||||||
-|**Gesamt SWS**<br>**Gesamt ECTS**||||||
-|||**30**|**30**|**30**|**30**|
+|**Pflichtbereich (30 ECTS)**|ECTS|<br>ECTS|<br>ECTS|<br>ECTS|<br>ECTS|
+|<br>**Modul: Grundlagen FACT 1**|**15**||10||5|
+|**Modul: Grundlagen FACT 2**<br>**Modul: Grundlagen FACT 3**|**10**<br>**5**|5|5<br>5|||
+|**Summe**|**30**|**5**|**20**|**0**|**5**|
+|**Vertiefungs- und Ergänzungsbereich**<sup>1</sup>**(60 ECTS)**<br>**Modul: Vertiefung Finance**|**10**|5|5|||
+|**Modul: Vertiefung Tax Law**<br>**Modul: Vertiefung Gesellschaftsrecht**<br>**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**<br>**Modul: Vertiefung Insurance & Risk Management**|**10**<br>**10**<br>**10**<br>**10**|5<br>5<br>10|10<br>5<br>5|||
+|**Modul: Workshop Finance**<br>**Modul: Sonderbilanzen und Sonderprüfungen**<br>**Modul: Spezialfragen der Rechnungslegung**<br>**Modul: Fallstudien Auditing**<br>**Modul: Prüfungstechnik**<br>**Modul: Cases in Business Controlling**<br>**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**<br>**Modul: Internationales Steuerrecht**<br>**Modul: Besteuerung von Personengesellschaften**<br>**Modul: Einkommensteuerrecht**<br>**Modul: Verbundene Unternehmen und Umwandlung**<br>**Modul: Theorie und Empirie der Besteuerung I**<br>**Modul: Theorie und Empirie der Besteuerung II**<br>**Modul: Industrieökonomik**<br>**Modul: Rechnungslegung von Banken und Versicherungen**<br>**Modul: Versicherungsrecht**<br>**Modul: Internationale Corporate Governance**<br>**Modul: Corporate Social Responsibility und Nachhaltigkeitsmanagement**<br>**Modul: Ökonometrie 1**<br>**Modul: Ökonometrie 4**<br>**Modul: Ökonometrie 5**<br>**Modul: Ökonometrie 6**<br>**Modul: Aktuelle Fragen aus FACT I**<br>**Modul: Aktuelle Fragen aus FACT II**<br>**Modul: Aktuelle Fragen aus FACT III**|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|5<br>5<br>5<br>5<br>5||5<br>5<br>5<br>5<br>5<br>5<br>5<br>5|
+|**Modul: Hauptseminar Finance**<br>**Modul: Hauptseminar Auditing**<br>|5<br>5<br>||5<br>||5|
+|**Modul: Hauptseminar Controlling**<br>**Modul: Hauptseminar Tax Management**<br>**Modul: Hauptseminar Tax Law**<br>**Modul: Hauptseminar Wirtschaftsrecht**|5<br>5<br>5<br>5|5|5||5<br>5|
+|**Modul: Hauptseminar Risk and Insurance**<br>**Modul: Hauptseminar Corporate Governance**|5<br>5||5||5|
+|<br>**Modul: Hauptseminar Corporate Ownership and Control**|5|5||||
+|_Zwischensumme der Auswahlmöglichkeiten_<br>**davon Summe**|_235_<br>**60**|_120_<br>**25**|_65_<br>**10**|_0_<br>**0**|_50_<br>**25**|
+|**Masterarbeit (30 ECTS)**<br>**Modul: Masterarbeit**|**30**|||**30**||
+|**Gesamt SWS**<br>**Gesamt ECTS**||**30**|**30**|**30**|**30**|
 
 __________________ 
 

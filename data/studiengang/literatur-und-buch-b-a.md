@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:48:05+00:00
+scraped_at: 2026-07-01T08:24:56+00:00
 ---
 
 # Literatur und Buch (B.A.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:48:05+00:00
 
 Der Studiengang Literatur und Buch zielt auf die Verknüpfung der wissenschaftlichen Dimension der frankoromanistischen und germanistischen Literatur- und Kulturwissenschaft und der Buchwissenschaft unter besonderer Berücksichtigung der deutsch-französischen Perspektive sowie der praktischen Dimension der Vermittlung weit überdurchschnittlicher Sprachkompetenzen gerade im fachsprachlichen Bereich. Gegenstand des ersten Studienjahrs an der FAU Erlangen-Nürnberg ist der Besuch einführender Veranstaltungen in den Bereichen der frankoromanistischen bzw. germanistischen Literatur- und Kulturwissenschaft und der Buchwissenschaft sowie sprachpraktischer Lehrveranstaltungen. Das zweite Studienjahr umfasst den Aufenthalt an der Partnerhochschule, in dessen Rahmen die fachlich-methodischen und sprachpraktischen Kompetenzen weiter ausgebaut werden. Im dritten Studienjahr wird das Studium an der FAU Erlangen-Nürnberg insbesondere in den fachwissenschaftlichen Bereichen und auch unter Berücksichtigung der interdisziplinären Perspektive fortgeführt.
 
-### Bachelor of Arts (1 Fach) Literatur und Buch
+### Fachanteile des Studiengangs Literatur und Buch (B.A.)
 
 * Lehrveranstaltungen an Partneruni in Clermont-Ferrand (38%)
 * Buchwissenschaft (28%)
@@ -106,7 +106,7 @@ Organisatorisches
 Downloads
 
 * [Modulhandbuch](https://www.literatur-und-buch.phil.fau.de/studium-und-lehre/)
-* [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/bachelorstudiengaenge-an-der-philosophischen-fakultaet/#ein-fach)
+* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/)
 
 Weitere Informationen
 
@@ -136,7 +136,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.literatur-und-buch.phil.fau.de/studium-und-lehre/)
-- [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/bachelorstudiengaenge-an-der-philosophischen-fakultaet/#ein-fach)
+- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/)
 - [Webseite des Studiengangs](https://www.literatur-und-buch.phil.fau.de/)
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 - [Webseite des Departments/Instituts](https://www.romanistik.phil.fau.de/)

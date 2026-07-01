@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20IndoGerm+IndoIran.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:12+00:00
-page_count_chars: 9087
+scraped_at: 2026-07-01T10:21:04+00:00
+page_count_chars: 9100
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 9087
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20IndoGerm+IndoIran.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 5. Oktober 2007 
 
@@ -26,7 +26,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 - (1) Das Fach Indogermanistik und Indoiranistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-- (2)[1] Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.[2] Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten indogermanischer Sprachen (und im Prinzip von Sprachen überhaupt) aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten indogermanischen Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.[4] Der argumentative Umgang mit ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und zwei Kontinenten entstammen, fördert in einzigartiger Weise die Flexibilität im Sprachlichen und Kulturellen und bildet eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, z. B. in den Bereichen Verlags- und Bildungswesen. 
+- (2)<sup>1</sup> Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.<sup>2</sup> Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten indogermanischer Sprachen (und im Prinzip von Sprachen überhaupt) aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten indogermanischen Sprachen vermittelt werden.<sup>3</sup> Die Ausbildung im Rahmen der Indogermanistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.<sup>4</sup> Der argumentative Umgang mit ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und zwei Kontinenten entstammen, fördert in einzigartiger Weise die Flexibilität im Sprachlichen und Kulturellen und bildet eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, z. B. in den Bereichen Verlags- und Bildungswesen. 
 
 - (3)  Das Qualifikationsprofil des Studiengangs basiert auf der Entwicklung folgender Kompetenzen: 
 
@@ -82,35 +82,36 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
    16. Kulturgeschichte des Christentums 
 
-   17. Theater- und Medienwissenschaft 18. Kunstgeschichte 
+   17. Theater- und Medienwissenschaft 
 
-   19. Soziologie 20. Politikwissenschaft 
+   18. Kunstgeschichte 
+
+   19. Soziologie 
+
+   20. Politikwissenschaft 
 
 - (2) Auf Antrag der Studierenden kann der Prüfungsausschuss Ausnahmen von den in Absatz 1 genannten Kombinationen vorsehen; die Studierenden tragen selbst Verantwortung für die Studierbarkeit der Kombination. 
 
 2 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Im Studium Indogermanistik und Indoiranistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Im Studium Indogermanistik und Indoiranistik als erstes Fach sind folgende Mo- <u>dule erfolgreich abzulegen:</u> 
 
 |Sem.|Module|LV|SWS|ECTS|Leistungs-<br>nachweis|
 |---|---|---|---|---|---|
-|1/2|Basismodul<br>Einführung in die<br>historisch-<br>vergleichende<br>Sprachwissenschaft<br>anhand des Ger-<br>manischen und an-<br>derer Sprachen|Proseminar: Einführung<br>in die Indogermanistik|2|4|K 90’|
-|||Eigenstudiums-Element<br>zum PS|1|1|K 90’|
-|||Vorlesung: Lautlehre<br>der germanischen Spra-<br>chen|2|4|K 90’|
-|||Eigenstudiums-Element<br>zur Vorlesung|1|1||
-|||||||
-|1/2|Basismodul<br>Sanskrit|Proseminar:SanskritI|2|4|K 90’|
-|||Eigenstudiums-Element<br>zum PS I|1|1||
+|1/2|Basismodul<br>Einführung in die|Proseminar: Einführung<br>in die Indogermanistik|2|4|K 90’|
+||historisch-<br>vergleichende|Eigenstudiums-Element<br>zum PS|1|1|K 90’|
+||Sprachwissenschaft<br>anhand des Ger-<br>manischen und an-<br>|Vorlesung: Lautlehre<br>der germanischen Spra-<br>chen|2|4|K 90’|
+||derer Sprachen|Eigenstudiums-Element<br>zur Vorlesung|1|1||
+|1/2|Basismodul|Proseminar:SanskritI|2|4|K 90’|
+||Sanskrit|Eigenstudiums-Element<br>zum PS I|1|1||
 |||Proseminar: Sanskrit II|2|4|K 90’|
 |||Eigenstudiums-Element<br>zum PS II|1|1|K 90’|
-|||||||
-|3/4<br>und<br>5|Aufbaumodul<br>Indoiranische Spra-<br>chen|Übung: Sprachwissen-<br>schaftliche Vedalektüre|2|2|K 90’|
-|||Eigenstudiums-Element<br>zur Übung|1|1||
+|3/4<br>und|Aufbaumodul<br>Indoiranische Spra-|Übung: Sprachwissen-<br>schaftliche Vedalektüre|2|2|K 90’|
+|5|chen|Eigenstudiums-Element<br>zur Übung|1|1||
 |||Mittelseminar:<br>Altiranische Sprachen|2|6|HA|
 |||Eigenstudiums-Element<br>zum MS|1|1|K 90’|
-|||||||
-|3/4<br>und<br>5|Aufbaumodul<br>Weitere indoger-<br>manische Sprachen|Übung|2|2|K 90’|
-|||Eigenstudiums-Element<br>Zur Übung|1|1||
+|3/4|Aufbaumodul|Übung|2|2|K 90’|
+|und<br>5|Weitere indoger-<br>manische Sprachen|Eigenstudiums-Element<br>Zur Übung|1|1||
 |||Mittelseminar|2|6|HA|
 |||Eigenstudiums-Element<br>zum MS|1|1|K 90’|
 ||Importmodule|||30||
@@ -144,7 +145,9 @@ Zusätzlich zu den in der Tabelle aufgeführten Pflichtmodulen wählen die Studi
 
 Für die Grundlagen- und Orientierungsprüfung müssen im Fach Indogermanistik und Indoiranistik mindestens die Modulprüfungen für das Basismodul „Sanskrit“ (10 ECTS-Punkte) sowie für das Modul „Einführung in die Historisch-Vergleichende Sprachwissenschaft“ (10 ECTS-Punkte) erfolgreich abgelegt werden. 
 
-**§ 6 Besondere Bestimmungen für die Bachelorarbeit** Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinne des § 29 Abs. 2 Satz 2 der Studien- und Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom X, dass die erfolgreiche Teilnahme an allen nach § 4 dieser Prüfungsordnung erforderlichen Aufbaumodulen nachgewiesen worden ist. 
+**§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
+
+Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinne des § 29 Abs. 2 Satz 2 der Studien- und Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom X, dass die erfolgreiche Teilnahme an allen nach § 4 dieser Prüfungsordnung erforderlichen Aufbaumodulen nachgewiesen worden ist. 
 
 ## **§ 7 Schluss- und Übergangsvorschriften** Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 

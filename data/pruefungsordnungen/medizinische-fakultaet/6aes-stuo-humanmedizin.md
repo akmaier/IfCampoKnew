@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Dezember 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/6AES_StuO-Humanmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:23:36+00:00
-page_count_chars: 7063
+scraped_at: 2026-07-01T08:48:07+00:00
+page_count_chars: 7111
 ---
 
 # 22. Dezember 2015
@@ -12,13 +12,13 @@ page_count_chars: 7063
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/6AES_StuO-Humanmedizin.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Sechste Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
 
 Vom 22. Dezember 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg vom 30. September 2003, zuletzt geändert durch Satzung vom 7. Juli 2014, wird wie folgt geändert: 
 
@@ -42,23 +42,23 @@ Die Studienordnung für das Studium der Medizin an der Universität Erlangen-Nü
 
 4. In § 10 Abs. 5 Satz 3 wird das Wort „unterschritten“ durch das Wort „überschritten“ ersetzt. 
 
-## 5. § 12 wird wie folgt geändert: 
+5. § 12 wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 2 wird das Wort „oder“ nach dem Wort „die“ durch das Wort „bzw.“ ersetzt. 
+   - a) In Abs. 1 Satz 2 wird das Wort „oder“ nach dem Wort „die“ durch das Wort „bzw.“ ersetzt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 1 
 
 bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 6. § 13 wird wie folgt geändert: 
+# 6. § 13 wird wie folgt geändert: 
 
 - a) Nach Abs. 1 Satz 3 werden folgende Sätze 4 bis 7 angefügt: 
 
-   - „[4] Der von der Übungsleiterin bzw. dem Übungsleiter festzusetzende Leistungsnachweis kann auch in Form von elektronischen Prüfungen zu führen sein.[5] Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[6] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[7] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
+   - „<sup>4</sup> Der von der Übungsleiterin bzw. dem Übungsleiter festzusetzende Leistungsnachweis kann auch in Form von elektronischen Prüfungen zu führen sein.<sup>5</sup> Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.<sup>6</sup> Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>7</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
 
 - b) Abs. 2 wird wie folgt geändert: 
 
@@ -76,13 +76,13 @@ bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 - d) In Abs. 6 Satz 2 Halbsatz 1 wird das Wort „oder“ nach dem Wort „der“ durch das Wort „bzw.“ ersetzt. 
 
-## 7. § 14 wird wie folgt geändert: 
+# 7. § 14 wird wie folgt geändert: 
 
 - a) Die Überschrift wird wie folgt geändert: 
 
    - aa) Die Worte „Versäumnis und“ werden gestrichen. 
 
-   - bb) Nach dem Wort "Rücktritt" werden die Worte „und Versäumnis“ angefügt. 
+bb) Nach dem Wort "Rücktritt" werden die Worte „und Versäumnis“ angefügt. 
 
 - b) In Abs. 1 Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -132,21 +132,21 @@ aa) Satz 1 wird wie folgt geändert:
 
 9. Nach § 15 wird folgender § 15a eingefügt: 
 
-## **„§ 15a** 
+# **„§ 15a** 
 
-## **Zusatzleistungen** 
+# **Zusatzleistungen** 
 
-1Für einzelne im Rahmen des Studiums zu erbringende Leistungsnachweise können durch geeignete nicht-curriculare Zusatzleistungen (insbesondere erfolgreich absolvierte Kurse an der Virtuellen Hochschule Bayern (VHB)) Bonuspunkte gesammelt werden, durch welche die Note des betreffenden Leistungsnachweises um maximal 10 Prozent der zu erreichenden Punktzahl verbessert werden kann.[2] Die zuständige Lehrperson gibt zu Beginn der jeweiligen Lehrveranstaltung bekannt, ob 
+1Für einzelne im Rahmen des Studiums zu erbringende Leistungsnachweise können durch geeignete nicht-curriculare Zusatzleistungen (insbesondere erfolgreich absolvierte Kurse an der Virtuellen Hochschule Bayern (VHB)) Bonuspunkte gesammelt werden, durch welche die Note des betreffenden Leistungsnachweises um maximal 10 Prozent der zu erreichenden Punktzahl verbessert werden kann.<sup>2</sup> Die zuständige Lehrperson gibt zu Beginn der jeweiligen Lehrveranstaltung bekannt, ob 
 
 3 
 
-und in welcher Form die Möglichkeit der Erbringung von Zusatzleistungen im Sinne des Satzes 1 besteht.[3] Im Falle der Teilnahme an Kursen an der VHB stellt die Anmeldung zum Kurs gleichzeitig den Antrag auf Anerkennung der Zusatzleistungen dar; eine ggf. mögliche Verbesserung der Note wird von Amts wegen vorgenommen.“ 
+und in welcher Form die Möglichkeit der Erbringung von Zusatzleistungen im Sinne des Satzes 1 besteht.<sup>3</sup> Im Falle der Teilnahme an Kursen an der VHB stellt die Anmeldung zum Kurs gleichzeitig den Antrag auf Anerkennung der Zusatzleistungen dar; eine ggf. mögliche Verbesserung der Note wird von Amts wegen vorgenommen.“ 
 
 10. In § 19 Satz 1 wird das Wort „von“ nach dem Wort „bzw.“ gestrichen. 
 
 11. In der Anlage 1 wird in Zeile 19 (V-PS 17) in Spalte 5 (Art der Veranstaltung) wird der Buchstabe „U“ durch die Buchstaben „PK“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

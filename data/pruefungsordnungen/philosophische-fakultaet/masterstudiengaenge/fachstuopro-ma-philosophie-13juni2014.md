@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 13.06.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-Philosophie_13JUNI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:36:24+00:00
-page_count_chars: 7040
+scraped_at: 2026-07-01T09:46:43+00:00
+page_count_chars: 6863
 ---
 
 # PDF vom 08.06.2010 i.d.F. 13.06.2014
@@ -30,13 +30,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1) 1Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach-Bachelorstudiengang Philosophie oder in einem Zwei-Fach- oder Drei-Fach-Bachelor-studiengang, wenn die Bachelorarbeit im Fach Philosophie verfasst oder für diesen Abschluss mindestens 70 ECTS-Punkte im Fach Philosophie erworben wurden.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil können Abschlüsse in anderen Studiengängen auf Antrag anerkannt werden, soweit das Studium im wesentlichen Umfang philosophierelevante Problemstellungen zum Inhalt hat. 
+(1) 1Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach-Bachelorstudiengang Philosophie oder in einem Zwei-Fach- oder Drei-Fach-Bachelor-studiengang, wenn die Bachelorarbeit im Fach Philosophie verfasst oder für diesen Abschluss mindestens 70 ECTS-Punkte im Fach Philosophie erworben wurden.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil können Abschlüsse in anderen Studiengängen auf Antrag anerkannt werden, soweit das Studium im wesentlichen Umfang philosophierelevante Problemstellungen zum Inhalt hat. 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen bzw. fachverwandten oder gleichwertigen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMSt- 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen bzw. fachverwandten oder gleichwertigen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMSt- 
 
 1 
 
-PO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Im Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
+PO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Im Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
 
 1. Sichere Kenntnisse in den methodologischen Grundlagen des Faches (Textanalyse, Argumentationsfähigkeit, logische Grundkenntnisse, etc.) (45 %), 
 
@@ -46,7 +46,7 @@ PO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 findet ei
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Das Studium ist im Schwerpunkt „Praktische Philosophie“ oder im Schwerpunkt „Theoretische Philosophie“ möglich.[2] Die Wahl des Schwerpunkts erfolgt durch die Wahl der Masterarbeit. 
+(1)<sup>1</sup> Das Studium ist im Schwerpunkt „Praktische Philosophie“ oder im Schwerpunkt „Theoretische Philosophie“ möglich.<sup>2</sup> Die Wahl des Schwerpunkts erfolgt durch die Wahl der Masterarbeit. 
 
 (2) Umfang und Gliederung des Masterstudiums Philosophie sowie Art und Umfang der Prüfungen bestimmen sich nach der Anlage. 
 
@@ -62,42 +62,35 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage: Studienverlaufsplan Master Philosophie** 
 
-|Modulbezeichnung|Lehr-<br>veranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Modul<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-||||||||||||||
-|Es sind drei der folgenden sechs Module zu belegen.|||||||||||||
-|Praktische Philosophie I|Masterseminar||||2|10|(4)||||Hausarbeit (ca. 12 S.)|1|
-||Masterseminar||||2||(6)||||||
-|Praktische Philosophie II|Masterseminar||||2|10|||||Hausarbeit (ca. 12 S.)|1|
-||Masterseminar||||2||||||||
-|Praktische Philosophie III|Masterseminar||||2|10|||||Hausarbeit (ca. 12 S.)|1|
-||Masterseminar||||2||||||||
-|Thtih Philhi I|Masterseminar||||2|10|(4)||||Hausarbeit (ca. 12 S.)|1|
-|eoresce osope|Masterseminar||||2||(6)||||||
-|Theoretische Philosophie II|Masterseminar||||2|10||(4)|||Hausarbeit (ca. 12 S.)|1|
-||Masterseminar||||2|||(6)|||||
-||Masterseminar||||2||||||Hausarbeit (ca. 12 S.)|1|
-|Theoretische Philosophie III|Masterseminar||||2|10|||||||
-|Es sind zwei der folgenden vier Module zu belegen.|||||||||||||
-|Schwerpunktmodul Praktische Philosophie I|Masterseminar||||2|15||(4)|||Präsentation (20-25 Min.)<br>und Hausarbeit(ca. 20 S.)|1|
-||Masterseminar||||2|||(11)|||||
-|Shktdl Pktih Philhi II|Masterseminar||||2|15|||(4)||Präsentation (20-25 Min.)<br>und Hausarbeit(ca. 20 S.)|1|
-|cwerpunmou rasce osope|Masterseminar||||2||||(11)||||
-|Schwerpunktmodul Theoretische Philosophie I|Masterseminar||||2|15|||||Präsentation (20-25 Min.)<br>und Hausarbeit(ca. 20 S.)|1|
-||Masterseminar||||2||||||||
-|Shktdl Thtih Philhi II|Masterseminar||||2|15|||||Präsentation (20-25 Min.)<br>und Hausarbeit(ca. 20 S.)|1|
-|cwerpunmou eoresce osope|Masterseminar||||2||||||||
-|Es sind alle Module zu belegen.|||||||||||||
-|Freies Ergänzungsstudium I||||||10|10||||nach Maßgabe des Faches|0|
-|FreiesErgänzungsstudium II||||||10||5|5||nach Maßgabe desFaches|0|
-|FreiesErgänzungsstudium III||||||10|||10||nach Maßgabe desFaches|0|
-|Es ist eines der folgenden zwei Module zu belegen.|||||||||||||
-|MasterarbeitPraktischePhilosophie||||||30||||(30)|Masterarbeit (ca.80 S.)|2|
-|MasterarbeitTheoretischePhilosophie||||||30|||||Masterarbeit (ca.80 S.)|2|
-|Summe|||||20||30|30|30|30|||
+|Modulbezeichnung|Lehr-<br>veranstaltun||SWS<br>|Gesamt<br>ECTS|Workload-Ve<br>Semester in E|rteilung<br>CTS-Pu|pro<br>nkten<sup>1</sup>|Art und Umfang der<br>Prüfun/Studienleistun|Faktor<br>Modul<br>|
+|---|---|---|---|---|---|---|---|---|---|
+||g|V|<br>Ü<br>P|<br>S|1.<br>2.|3.|4.|gg|note|
+|Es sind drei der folgenden sechs Module zu bele|gen.|||||||||
+|Pktih Philhi I|Masterseminar|||2<br>10|(4)|||Hbit  12 S|1|
+|rasce osope|Masterseminar|||<br>2|(6)|||ausare (ca.  .)||
+|Praktische Philosophie II|Masterseminar<br>Masterseminar|||2<br>10<br>2||||Hausarbeit (ca. 12 S.)|1|
+|Praktische Philosophie III|Masterseminar<br>Masterseminar|||2<br>10<br>2||||Hausarbeit (ca. 12 S.)|1|
+|Theoretische Philosohie I|Masterseminar|||2<br>10|(4)|||Hausarbeit (ca 12 S)|1|
+|p|Masterseminar|||<br>2|(6)|||.  .||
+|Theoretische Philosophie II|Masterseminar<br>Masterseminar|||2<br>10<br>2|(4)<br>(6)|||Hausarbeit (ca. 12 S.)|1|
+|Theoretische Philosophie III|Masterseminar<br>Masterseminar|||2<br>10<br>2||||Hausarbeit (ca. 12 S.)|1|
+|Es sind zwei der folgenden vier Module zu beleg|en.|||||||||
+||Masterseminar|||2<br>|(4)|||Präsentation (20-25 Min.)||
+|Schwerpunktmodul Praktische Philosophie I|Masterseminar|||15<br>2|(11)|||<br>und Hausarbeit(ca. 20 S.)|1|
+|Shktdl Pktih Philhi II|Masterseminar|||2<br>15||(4)||Präsentation (20-25 Min.)|1|
+|cwerpunmou rasce osope|Masterseminar|||<br>2||(11)||und Hausarbeit(ca. 20 S.)||
+||Masterseminar|||2<br>||||Präsentation (20-25 Min.)||
+|Schwerpunktmodul Theoretische Philosophie I|Masterseminar|||15<br>2||||und Hausarbeit(ca. 20 S.)|1|
+|Shrnktmdl Thrtih Philhi II|Masterseminar|||2<br>15||||Präsentation (20-25 Min.)|1|
+|cwepuou eoesce osope|Masterseminar|||<br>2||||und Hausarbeit(ca. 20 S.)||
+|Es sind alle Module zu belegen.||||||||||
+|Freies Ergänzungsstudium I||||10|10|||nach Maßgabe des Faches|0|
+|FreiesErgänzungsstudium II||||10|5|5||nach Maßgabe desFaches|0|
+|FreiesErgänzungsstudium III||||10||10||nach Maßgabe desFaches|0|
+|Es ist eines der folgenden zwei Module zu beleg|en.|||||||||
+|MasterarbeitPraktischePhilosophie||||30|||(30)|Masterarbeit (ca.80 S.)|2|
+|MasterarbeitTheoretischePhilosophie||||30||||Masterarbeit (ca.80 S.)|2|
+||Summe|||20|30<br>30|30|30|||
 
 > 1  Bei der Verteilung der ECTS-Punkte auf die einzelnen Semester handelt es sich um einen möglichen Studienverlauf. 
 

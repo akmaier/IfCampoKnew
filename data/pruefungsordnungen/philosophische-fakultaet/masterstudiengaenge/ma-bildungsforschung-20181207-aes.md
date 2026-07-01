@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Bildungsforschung 20181207 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Erziehungswissenschaftlich-_Empirische_Bildungsforschung/Aenderungssatzungen/MA_Bildungsforschung_20181207_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:11+00:00
-page_count_chars: 4979
+scraped_at: 2026-07-01T09:42:04+00:00
+page_count_chars: 5051
 ---
 
 # MA Bildungsforschung 20181207 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 4979
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Erziehungswissenschaftlich-_Empirische_Bildungsforschung/Aenderungssatzungen/MA_Bildungsforschung_20181207_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEE-BF –** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEE-BF –** 
 
-## **Vom 7. Dezember 2018** 
+# **Vom 7. Dezember 2018** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPOEE-BF – vom 9. November 2012, zuletzt geändert durch Satzung vom 13. Februar 2018, wird wie folgt geändert: 
 
@@ -32,13 +32,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswisse
 
 3. In § 5 wird nach Abs. 2 ein neuer Abs. 3 angefügt: 
 
-„(3)[1] Die dritte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/ 2020 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die dritte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/ 2020 aufnehmen werden.“ 
 
-## 4. **Anlage 1** wird wie folgt geändert: 
+# 4. **Anlage 1** wird wie folgt geändert: 
 
-- a) Zeile 7 (Modul 6: Profilgrundlagen (Wahlpflicht)[2)] ) wird wie folgt geändert: 
+- a) Zeile 7 (Modul 6: Profilgrundlagen (Wahlpflicht)<sup>2)</sup> ) wird wie folgt geändert: 
 
-   - aa) In Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung) werden nach dem Wort „Vorlesung“ das Zeichen und das Wort „/Seminar[3)] “ angefügt. 
+   - aa) In Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung) werden nach dem Wort „Vorlesung“ das Zeichen und das Wort „/Seminar<sup>3)</sup> “ angefügt. 
 
 bb) Spalte 3 (SWS) wird wie folgt geändert: 
 
@@ -66,15 +66,15 @@ bb) Spalte 3 (SWS) wird wie folgt geändert:
 
    - bb) Nach Fußnote 2 wird folgende Fußnote 3 (neu) angefügt: 
 
-„[3)] Im Profil „Internationale Bildung“ wird die Lehrveranstaltung als Seminar angeboten, in den anderen Profilen als Vorlesung.“ 
+„<sup>3)</sup> Im Profil „Internationale Bildung“ wird die Lehrveranstaltung als Seminar angeboten, in den anderen Profilen als Vorlesung.“ 
 
-## 5. **Anlage 2** wird wie folgt geändert: 
+# 5. **Anlage 2** wird wie folgt geändert: 
 
-- a) Zeile 7 (Modul 6: Profilgrundlagen (Wahlpflicht)[2)] ) wird wie folgt geändert: 
+- a) Zeile 7 (Modul 6: Profilgrundlagen (Wahlpflicht)<sup>2)</sup> ) wird wie folgt geändert: 
 
-   - aa) In Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung) werden nach dem Wort „Vorlesung“ das Zeichen und das Wort „/Seminar[3)] “ angefügt. 
+   - aa) In Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung) werden nach dem Wort „Vorlesung“ das Zeichen und das Wort „/Seminar<sup>3)</sup> “ angefügt. 
 
-bb) Spalte 3 (SWS) wird wie folgt geändert: 
+   - bb) Spalte 3 (SWS) wird wie folgt geändert: 
 
       - (1) In Unterspalte 1 (V) wird die Zahl „2“ in Klammern gesetzt. 
 
@@ -100,7 +100,7 @@ bb) Spalte 3 (SWS) wird wie folgt geändert:
 
 bb) Nach Fußnote 2 wird folgende Fußnote 3 (neu) angefügt: 
 
-„[3)] Im Profil „Internationale Bildung“ wird die Lehrveranstaltung als Seminar angeboten, in den anderen Profilen als Vorlesung.“ 
+„<sup>3)</sup> Im Profil „Internationale Bildung“ wird die Lehrveranstaltung als Seminar angeboten, in den anderen Profilen als Vorlesung.“ 
 
 6. Das Inhaltsverzeichnis wird angepasst. 
 

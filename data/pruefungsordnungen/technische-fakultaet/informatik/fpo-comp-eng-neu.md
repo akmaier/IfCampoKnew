@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.04.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-Comp-Eng-Neu.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:16:12+00:00
-page_count_chars: 17272
+scraped_at: 2026-07-01T11:36:03+00:00
+page_count_chars: 17559
 ---
 
 # PDF vom 13.04.2000
@@ -40,23 +40,23 @@ Auf Grund der bestandenen Prüfungen werden je nach Abschlussart folgende akadem
 
 - (2) Die Regelstudienzeit im Bachelorstudium mit anschließendem Masterstudium beträgt einschließlich der Anfertigung der Bachelorarbeit und der Master-Thesis sowie des Ablegens der entsprechenden Prüfungen insgesamt neun Semester. 
 
-- (3)[1] Das Studium des Computational Engineering mit dem Abschluss des Bachelors setzt sich zusammen aus Lehrveranstaltungen im Höchstumfang von 110 SWS, verteilt auf sechs Semester, der in das Studium integrierten berufspraktischen Tätigkeit (Industriepraktikum) von zwölf Wochen und der Anfertigung der zwölfwöchigen 
+- (3)<sup>1</sup> Das Studium des Computational Engineering mit dem Abschluss des Bachelors setzt sich zusammen aus Lehrveranstaltungen im Höchstumfang von 110 SWS, verteilt auf sechs Semester, der in das Studium integrierten berufspraktischen Tätigkeit (Industriepraktikum) von zwölf Wochen und der Anfertigung der zwölfwöchigen 
 
 1 
 
-Bachelorarbeit.[2] Die Regelstudienzeit beträgt sechs Semester.[3] Das Bachelorstudium umfaßt ein viersemestriges Grundstudium (Grundabschnitt) und ein weiteres zweisemestriges Studium (Bachelorabschnitt). 
+Bachelorarbeit.<sup>2</sup> Die Regelstudienzeit beträgt sechs Semester.<sup>3</sup> Das Bachelorstudium umfaßt ein viersemestriges Grundstudium (Grundabschnitt) und ein weiteres zweisemestriges Studium (Bachelorabschnitt). 
 
-- (4)[1] Das Studium des Computational Engineering mit dem Abschluss des Masters setzt sich zusammen aus Lehrveranstaltungen im Höchstumfang von 38 SWS, verteilt auf zwei Semester, und sechs Monaten zur Anfertigung der Master-Thesis.[2] Die Regelstudienzeit beträgt drei Semester.[3] Hat der Kandidat die Qualifikation zum Masterstudium außerhalb der Universität Erlangen-Nürnberg erworben, so beträgt die Regelstudienzeit vier Semester. 
+- (4)<sup>1</sup> Das Studium des Computational Engineering mit dem Abschluss des Masters setzt sich zusammen aus Lehrveranstaltungen im Höchstumfang von 38 SWS, verteilt auf zwei Semester, und sechs Monaten zur Anfertigung der Master-Thesis.<sup>2</sup> Die Regelstudienzeit beträgt drei Semester.<sup>3</sup> Hat der Kandidat die Qualifikation zum Masterstudium außerhalb der Universität Erlangen-Nürnberg erworben, so beträgt die Regelstudienzeit vier Semester. 
 
 ## **§ 4 Zweisprachigkeit und internationale Orientierung** 
 
-1Das Studium des Computational Engineering ist zweisprachig. 2Im Grundabschnitt (1. bis 4. Semester) sind die Lehrveranstaltungen in der Regel deutschsprachig, im Bachelorabschnitt (5. und 6. Semester) deutsch- oder englischsprachig und im Masterabschnitt (7. und 8. Semester bei konsekutivem Studium) in der Regel englischsprachig.[3] Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder auf Deutsch durchgeführt.[4] Die Bachelorarbeit kann in englischer Sprache verfasst werden.[ 5] Die Master-Thesis wird in der Regel in englischer Sprache verfasst.[6] Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
+1Das Studium des Computational Engineering ist zweisprachig. 2Im Grundabschnitt (1. bis 4. Semester) sind die Lehrveranstaltungen in der Regel deutschsprachig, im Bachelorabschnitt (5. und 6. Semester) deutsch- oder englischsprachig und im Masterabschnitt (7. und 8. Semester bei konsekutivem Studium) in der Regel englischsprachig.<sup>3</sup> Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder auf Deutsch durchgeführt.<sup>4</sup> Die Bachelorarbeit kann in englischer Sprache verfasst werden.<sup>5</sup> Die Master-Thesis wird in der Regel in englischer Sprache verfasst.<sup>6</sup> Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
 
 ## **§ 5 Studienbegleitende Ablegung der Prüfungen** 
 
 Die Prüfungen der Bachelor- und der Masterprüfung sollen studienbegleitend abgelegt werden in dem unmittelbar auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum. 
 
-## **I. Bachelorprüfung** 
+# **I. Bachelorprüfung** 
 
 ## **§ 6 Meldung zur Bachelorprüfung** 
 
@@ -70,7 +70,7 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Bachelorprüfung mel
 
 ## **Zulassungsvoraussetzungen zur Bachelorprüfung** 
 
-- (1)[1] Aus Anlaß der Zulassung zur ersten Einzelprüfung in einem Wahlpflichtfach legt der Kandidat mit seinem Antrag ein Studienkonzept vor.[2] Zugleich erklärt er schriftlich, welche Fächer er als Technisches Anwendungsfach, Informatikvertiefungsfach und Interdisziplinäres Vertiefungsfach wählt und über welche Lehrveranstaltungen aus diesen Wahlpflichtfächern er sich prüfen lassen will.[3] Das Studienkonzept soll eine hinreichend breite Grundlagen- und Profilbildung im jeweiligen Fach sichern.[4] Das Studienkonzept und seine eventuelle Änderung bedarf der Zustimmung des Vorsitzenden des Prüfungsausschusses.[5] Der Kandidat ist an das Konzept gebunden.[6] Änderungen sind nur in begründeten Fällen möglich; der Wechsel eines Faches, in dem eine nicht ausreichende Prüfungsleistung erzielt wurde, ist ausgeschlossen. 
+- (1)<sup>1</sup> Aus Anlaß der Zulassung zur ersten Einzelprüfung in einem Wahlpflichtfach legt der Kandidat mit seinem Antrag ein Studienkonzept vor.<sup>2</sup> Zugleich erklärt er schriftlich, welche Fächer er als Technisches Anwendungsfach, Informatikvertiefungsfach und Interdisziplinäres Vertiefungsfach wählt und über welche Lehrveranstaltungen aus diesen Wahlpflichtfächern er sich prüfen lassen will.<sup>3</sup> Das Studienkonzept soll eine hinreichend breite Grundlagen- und Profilbildung im jeweiligen Fach sichern.<sup>4</sup> Das Studienkonzept und seine eventuelle Änderung bedarf der Zustimmung des Vorsitzenden des Prüfungsausschusses.<sup>5</sup> Der Kandidat ist an das Konzept gebunden.<sup>6</sup> Änderungen sind nur in begründeten Fällen möglich; der Wechsel eines Faches, in dem eine nicht ausreichende Prüfungsleistung erzielt wurde, ist ausgeschlossen. 
 
 2 
 
@@ -80,13 +80,13 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Bachelorprüfung mel
 
    2. Mathematik III und IV die erstmalige Ablegung der Einzelprüfung in Mathematik I und II. 
 
-- (3)[1] Voraussetzung für die Zulassung zur letzten Einzelprüfung des Bachelor-Abschnitts ist das Bestehen der Prüfungen im Informatik- und im Mathematik-Grundstudium.[2] Ferner sind eine berufspraktische Tätigkeit (Industriepraktikum) von mindestens zwölf Wochen gemäß den Praktikantenrichtlinien und die erfolgreiche Teilnahme an einem Seminar aus der Informatik nachzuweisen. 
+- (3)<sup>1</sup> Voraussetzung für die Zulassung zur letzten Einzelprüfung des Bachelor-Abschnitts ist das Bestehen der Prüfungen im Informatik- und im Mathematik-Grundstudium.<sup>2</sup> Ferner sind eine berufspraktische Tätigkeit (Industriepraktikum) von mindestens zwölf Wochen gemäß den Praktikantenrichtlinien und die erfolgreiche Teilnahme an einem Seminar aus der Informatik nachzuweisen. 
 
-- (4)[1] Der Nachweis der erfolgreichen Teilnahme an dem Seminar nach Absatz 3 Satz 2 wird durch einen Vortrag zu einem von einem Hochschullehrer gestellten Thema zusammen mit einer schriftlicher Ausarbeitung dieses Themas erworben.[2] Der Vortrag dauert etwa 45 Minuten.[3] Ein nicht erfolgreich absolviertes Seminar kann zweimal wiederholt werden. 
+- (4)<sup>1</sup> Der Nachweis der erfolgreichen Teilnahme an dem Seminar nach Absatz 3 Satz 2 wird durch einen Vortrag zu einem von einem Hochschullehrer gestellten Thema zusammen mit einer schriftlicher Ausarbeitung dieses Themas erworben.<sup>2</sup> Der Vortrag dauert etwa 45 Minuten.<sup>3</sup> Ein nicht erfolgreich absolviertes Seminar kann zweimal wiederholt werden. 
 
 ## **§ 8 Umfang und Durchführung der Bachelorprüfung** 
 
-- (1)[1] Die Bachelorprüfung besteht aus Einzelprüfungen in den Fächern 
+- (1)<sup>1</sup> Die Bachelorprüfung besteht aus Einzelprüfungen in den Fächern 
 
    1. Informatik-Grundstudium 
 
@@ -98,9 +98,9 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Bachelorprüfung mel
 
    5. Interdisziplinäre Vertiefung und 
 
-der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach Satz 1 Nrn. 1 und 2 werden im Grundabschnitt abgelegt; sie gelten als die Prüfungen des viersemestrigen Grundabschnitts im Sinne von § 3 Abs. 5 Satz 1 DiplPrOTF. 
+der Anfertigung der Bachelorarbeit.<sup>2</sup> Die Einzelprüfungen in den Fächern nach Satz 1 Nrn. 1 und 2 werden im Grundabschnitt abgelegt; sie gelten als die Prüfungen des viersemestrigen Grundabschnitts im Sinne von § 3 Abs. 5 Satz 1 DiplPrOTF. 
 
-- (2)[ 1] Der Kandidat wählt als Wahlpflichtfächer 
+- (2)<sup>1</sup> Der Kandidat wählt als Wahlpflichtfächer 
 
    1. das Technische Anwendungsfach, 
 
@@ -108,7 +108,7 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
    3. die Interdisziplinäre Vertiefung. 
 
-## 2Wählbar sind 
+### 2Wählbar sind 
 
 1. als Technisches Anwendungsfach jedes durch einen Lehrstuhl an der Technischen Fakultät der Universität Erlangen-Nürnberg vertretene Fachgebiet außerhalb der Informatik; 
 
@@ -116,7 +116,7 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
 3. als Interdisziplinäre Vertiefung jedes durch einen Lehrstuhl der Technischen Fakultät oder der Angewandten Mathematik vertretene Fachgebiet. 
 
-3In besonders begründeten Fällen kann der Prüfungsausschuss weitere Wahlpflichtfächer zulassen.[4] Während des Bachelorabschnitts fertigt der Kandidat die Bachelorarbeit an. 
+3In besonders begründeten Fällen kann der Prüfungsausschuss weitere Wahlpflichtfächer zulassen.<sup>4</sup> Während des Bachelorabschnitts fertigt der Kandidat die Bachelorarbeit an. 
 
 - (3) Die Prüfung im Fach Informatik-Grundstudium besteht aus je einer schriftlichen Einzelprüfung in 
 
@@ -134,7 +134,7 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
    6. Algorithmik II. 
 
-- (4)[1] Die Prüfung im Fach Mathematik-Grundstudium besteht aus je einer Einzelprüfung in 
+- (4)<sup>1</sup> Die Prüfung im Fach Mathematik-Grundstudium besteht aus je einer Einzelprüfung in 
 
    1. Mathematik I und II, 
 
@@ -144,19 +144,19 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
 2Die Prüfungen gemäß Satz 1 Nrn. 1 und 2 sind dreistündig und schriftlich; die Prüfung gemäß Satz 1 Nr. 3 ist mündlich und dauert etwa 30 Minuten. 
 
-- (5)[1] Die Prüfungen im Technischen Anwendungsfach beruhen auf Lehrveranstaltungen von 20 SWS, die Prüfungen in den beiden Vertiefungsfächern auf Lehrveranstaltung im Umfang von jeweils 12 SWS; sie werden als Einzelprüfungen abgelegt.[2] Jede Einzelprüfung bezieht sich auf Lehrveranstaltungen von zwei bis acht SWS.[3] Sie findet entweder als mündliche Prüfung oder als schriftliche Prüfung statt.[4] Näheres zur Zahl der Lehrveranstaltungsstunden, auf die sich die Einzelprüfung bezieht, und zur Prüfungsform gibt der zuständige Hochschullehrer spätestens zu Beginn der allgemeinen Vorlesungszeit ortsüblich durch Anschlag am Schwarzen Brett bekannt. 
+- (5)<sup>1</sup> Die Prüfungen im Technischen Anwendungsfach beruhen auf Lehrveranstaltungen von 20 SWS, die Prüfungen in den beiden Vertiefungsfächern auf Lehrveranstaltung im Umfang von jeweils 12 SWS; sie werden als Einzelprüfungen abgelegt.<sup>2</sup> Jede Einzelprüfung bezieht sich auf Lehrveranstaltungen von zwei bis acht SWS.<sup>3</sup> Sie findet entweder als mündliche Prüfung oder als schriftliche Prüfung statt.<sup>4</sup> Näheres zur Zahl der Lehrveranstaltungsstunden, auf die sich die Einzelprüfung bezieht, und zur Prüfungsform gibt der zuständige Hochschullehrer spätestens zu Beginn der allgemeinen Vorlesungszeit ortsüblich durch Anschlag am Schwarzen Brett bekannt. 
 
-- (6)[1] Soweit nichts anderes bestimmt ist (vgl. Absatz 4), ergibt sich der Umfang jeder Einzelprüfung aus der Zahl der ihr zu Grunde liegenden SWS.[2] Danach beträgt die Dauer der schriftlichen Einzelprüfung 15 Minuten pro SWS, mindestens jedoch 60 Minuten, die Dauer jeder mündlichen Einzelprüfung etwa 30 Minuten.[3] Je SWS wird ein Leistungspunkt bzw. bei Nichtbestehen der Wiederholungsprüfung ein Maluspunkt vergeben.[4] Der Umfang der Prüfungsleistungen in den Fächern nach Absatz 1 Satz 1 Nrn. 1 und 2, ihre Verteilung auf die Semester des Grundabschnittes sowie die Zahl der Leistungs- bzw. Maluspunkte in den Fächern nach Absatz 1 Satz 1 Nrn. 1 bis 5 ergeben sich im einzelnen aus der **Anlage** . 
+- (6)<sup>1</sup> Soweit nichts anderes bestimmt ist (vgl. Absatz 4), ergibt sich der Umfang jeder Einzelprüfung aus der Zahl der ihr zu Grunde liegenden SWS.<sup>2</sup> Danach beträgt die Dauer der schriftlichen Einzelprüfung 15 Minuten pro SWS, mindestens jedoch 60 Minuten, die Dauer jeder mündlichen Einzelprüfung etwa 30 Minuten.<sup>3</sup> Je SWS wird ein Leistungspunkt bzw. bei Nichtbestehen der Wiederholungsprüfung ein Maluspunkt vergeben.<sup>4</sup> Der Umfang der Prüfungsleistungen in den Fächern nach Absatz 1 Satz 1 Nrn. 1 und 2, ihre Verteilung auf die Semester des Grundabschnittes sowie die Zahl der Leistungs- bzw. Maluspunkte in den Fächern nach Absatz 1 Satz 1 Nrn. 1 bis 5 ergeben sich im einzelnen aus der **Anlage** . 
 
-- (7)[1] Zum Bestehen der Prüfungen in den Fächern nach Absatz 1 ist erforderlich, dass jede Einzelprüfung mit mindestens der Note "ausreichend" bestanden ist.[2] Eine zweite Wiederholung nicht bestandener Einzelprüfungen ist zulässig bis zur Schwelle von insgesamt 24 Maluspunkten. 
+- (7)<sup>1</sup> Zum Bestehen der Prüfungen in den Fächern nach Absatz 1 ist erforderlich, dass jede Einzelprüfung mit mindestens der Note "ausreichend" bestanden ist.<sup>2</sup> Eine zweite Wiederholung nicht bestandener Einzelprüfungen ist zulässig bis zur Schwelle von insgesamt 24 Maluspunkten. 
 
 ## **§ 9 Bachelorarbeit** 
 
-- (1)[ 1] Die Bachelorarbeit gibt dem Kandidaten Gelegenheit, ein wissenschaftliches Projekt aus einem der gewählten Wahlpflichtfächer in selbständiger Arbeit durchzuführen.[2] Die Bachelorarbeit ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 400 Stunden in 12 Wochen abgeschlossen werden kann.[3] Eine Verlängerung auf maximal 16 Wochen ist nur in besonderen Fällen möglich. 
+- (1)<sup>1</sup> Die Bachelorarbeit gibt dem Kandidaten Gelegenheit, ein wissenschaftliches Projekt aus einem der gewählten Wahlpflichtfächer in selbständiger Arbeit durchzuführen.<sup>2</sup> Die Bachelorarbeit ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 400 Stunden in 12 Wochen abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung auf maximal 16 Wochen ist nur in besonderen Fällen möglich. 
 
 - (2) Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermine fest. 
 
-- (3)[ 1] Eine nicht bestandene Bachelorarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.[2] Das Thema der Bachlorarbeit kann der Kandidat einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben; bei einer Wiederholung ist die Rückgabe ausgeschlossen.[3] Die Rückgabe muss von dem betreuenden Hochschullehrer dem Prüfungsamt schriftlich angezeigt werden.[4] Die Bachelorarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
+- (3)<sup>1</sup> Eine nicht bestandene Bachelorarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Das Thema der Bachlorarbeit kann der Kandidat einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben; bei einer Wiederholung ist die Rückgabe ausgeschlossen.<sup>3</sup> Die Rückgabe muss von dem betreuenden Hochschullehrer dem Prüfungsamt schriftlich angezeigt werden.<sup>4</sup> Die Bachelorarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
 
 4 
 
@@ -168,17 +168,17 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
 - (3) Das Zeugnis wird in deutscher und englischer Sprache ausgestellt. 
 
-## **II. Masterprüfung** 
+# **II. Masterprüfung** 
 
 ## **§ 11 Meldung zur Masterprüfung** 
 
-1Der Kandidat soll sich so rechtzeitig zu den mündlichen Prüfungen der Masterprüfung melden, dass er sie bei konsekutivem Studium von Bachelor und Master (§ 3 Abs. 2) bis zu Beginn des neunten Semesters, im Übrigen bis zum Beginn des dritten Semesters, im Falle des § 3 Abs. 4 Satz 3 bis zu Beginn des vierten Semesters abschließt.[2] Die Masterthesis soll im Anschluss erstellt werden. 
+1Der Kandidat soll sich so rechtzeitig zu den mündlichen Prüfungen der Masterprüfung melden, dass er sie bei konsekutivem Studium von Bachelor und Master (§ 3 Abs. 2) bis zu Beginn des neunten Semesters, im Übrigen bis zum Beginn des dritten Semesters, im Falle des § 3 Abs. 4 Satz 3 bis zu Beginn des vierten Semesters abschließt.<sup>2</sup> Die Masterthesis soll im Anschluss erstellt werden. 
 
 ## **§ 12** 
 
 ## **Zulassungsvoraussetzungen zur Masterprüfung** 
 
-- (1)[ 1] Voraussetzung für die Zulassung zur Masterprüfung ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.[2] Die Qualifikation wird nachgewiesen durch ein Zeugnis über 
+- (1)<sup>1</sup> Voraussetzung für die Zulassung zur Masterprüfung ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.<sup>2</sup> Die Qualifikation wird nachgewiesen durch ein Zeugnis über 
 
    1. die Bachelorprüfung nach dieser Prüfungsordnung, 
 
@@ -188,11 +188,11 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
    4. einen anderen vergleichbaren Hochschulabschluss. 
 
-- (2)[ 1] Dem  Antrag auf  Zulassung zur letzten Prüfung in jedem der  Wahlpflichtfächer gemäß § 13 Abs. 1 ist ein Nachweis über die erfolgreiche Teilnahme an einem zweistündigen Seminar im Wahlpflichtfach Informatikvertiefung beizufügen.[2] § 7 Abs. 1 und 4 gelten entsprechend. 
+- (2)<sup>1</sup> Dem  Antrag auf  Zulassung zur letzten Prüfung in jedem der  Wahlpflichtfächer gemäß § 13 Abs. 1 ist ein Nachweis über die erfolgreiche Teilnahme an einem zweistündigen Seminar im Wahlpflichtfach Informatikvertiefung beizufügen.<sup>2</sup> § 7 Abs. 1 und 4 gelten entsprechend. 
 
 ## **§ 13 Umfang und Durchführung der Masterprüfung** 
 
-- (1)[ 1] Die Masterprüfung besteht aus mündlichen Prüfungen in den Wahlpflichtfächern 
+- (1)<sup>1</sup> Die Masterprüfung besteht aus mündlichen Prüfungen in den Wahlpflichtfächern 
 
    1. Technisches Anwendungsfach, 
 
@@ -200,27 +200,27 @@ der Anfertigung der Bachelorarbeit.[2] Die Einzelprüfungen in den Fächern nach
 
    3. Interdisziplinäre Vertiefung und 
 
-der Anfertigung der Masterthesis.[2] § 8 Abs. 2 Sätze 2 und 3 gilt entsprechend. 
+der Anfertigung der Masterthesis.<sup>2</sup> § 8 Abs. 2 Sätze 2 und 3 gilt entsprechend. 
 
-- (2)[ 1] Die Prüfungen beruhen im Technischen Anwendungsfach und in der Interdisziplinären Vertiefung auf Lehrveranstaltungen im Umfang von jeweils 10 SWS, im Informatikvertiefungsfach auf Lehrveranstaltungen im Umfang von 16 SWS; sie werden als Einzelfachprüfungen abgelegt.[2] § 8 Abs. 5 Sätze 2 und 4 sowie Abs. 6 gelten entsprechend. 
+- (2)<sup>1</sup> Die Prüfungen beruhen im Technischen Anwendungsfach und in der Interdisziplinären Vertiefung auf Lehrveranstaltungen im Umfang von jeweils 10 SWS, im Informatikvertiefungsfach auf Lehrveranstaltungen im Umfang von 16 SWS; sie werden als Einzelfachprüfungen abgelegt.<sup>2</sup> § 8 Abs. 5 Sätze 2 und 4 sowie Abs. 6 gelten entsprechend. 
 
 5 
 
-- (3)[ 1] Zum Bestehen in den Fächern nach Absatz 1 ist erforderlich, dass jede Einzelfachprüfung mit mindestens "ausreichend" beurteilt ist.[2] Eine zweite Wiederholung nicht bestandener Einzelfachprüfungen ist zulässig bis zur Schwelle von insgesamt 12 Maluspunkten. 
+- (3)<sup>1</sup> Zum Bestehen in den Fächern nach Absatz 1 ist erforderlich, dass jede Einzelfachprüfung mit mindestens "ausreichend" beurteilt ist.<sup>2</sup> Eine zweite Wiederholung nicht bestandener Einzelfachprüfungen ist zulässig bis zur Schwelle von insgesamt 12 Maluspunkten. 
 
 ## **§ 14 Masterthesis** 
 
-- (1)[ 1] Die Masterthesis kann in jedem der vom Kandidaten gewählten Wahlpflichtfächer angefertigt werden.[2] Das Thema wird von einem im gewählten Wahlpflichtfachbereich hauptberuflich tätigen Hochschullehrer vergeben.[3] Die Vergabe des Themas ist zulässig, sobald der Kandidat die Prüfungen in den Fächern gemäß § 13 Abs. 1 abgelegt hat. 
+- (1)<sup>1</sup> Die Masterthesis kann in jedem der vom Kandidaten gewählten Wahlpflichtfächer angefertigt werden.<sup>2</sup> Das Thema wird von einem im gewählten Wahlpflichtfachbereich hauptberuflich tätigen Hochschullehrer vergeben.<sup>3</sup> Die Vergabe des Themas ist zulässig, sobald der Kandidat die Prüfungen in den Fächern gemäß § 13 Abs. 1 abgelegt hat. 
 
-- (2)[1] Die Masterthesis wird in der Regel in englischer Sprache erstellt.[2] Die Bearbeitungszeit ist auf sechs Monate begrenzt.[3] Im übrigen gilt § 17 DiplProTF entsprechend. 
+- (2)<sup>1</sup> Die Masterthesis wird in der Regel in englischer Sprache erstellt.<sup>2</sup> Die Bearbeitungszeit ist auf sechs Monate begrenzt.<sup>3</sup> Im übrigen gilt § 17 DiplProTF entsprechend. 
 
 ## **§ 15 Bewertung der Leistung der Masterprüfung** 
 
-- (1)[ 1] In das Zeugnis werden die drei Wahlpflichtfächer mit den zugehörigen Lehrveranstaltungen, deren SWS-Zahlen und den mit den SWS-Zahlen gewichteten Noten sowie das Thema der Masterthesis mit ihrer Note aufgenommen. 2Die Gesamtnote wird als gewichteter Durchschnitt der Noten der Wahlpflichtfächer und der mit 20 SWS gewichteten Masterthesis ermittelt. 
+- (1)<sup>1</sup> In das Zeugnis werden die drei Wahlpflichtfächer mit den zugehörigen Lehrveranstaltungen, deren SWS-Zahlen und den mit den SWS-Zahlen gewichteten Noten sowie das Thema der Masterthesis mit ihrer Note aufgenommen. 2Die Gesamtnote wird als gewichteter Durchschnitt der Noten der Wahlpflichtfächer und der mit 20 SWS gewichteten Masterthesis ermittelt. 
 
 - (2) § 10 Abs. 3 gilt entsprechend. 
 
-## **III. Inkrafttreten** 
+# **III. Inkrafttreten** 
 
 **§ 16 Inkrafttreten** 
 
@@ -230,9 +230,27 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage** zu § 8 Abs. 6 
 
-|Prüfungsfächer mit den<br>Einzelprüfungen|Verteilung der SWS<br>1.        2.       3.      4.|Verteilung der SWS<br>1.        2.       3.      4.|Verteilung der SWS<br>1.        2.       3.      4.|Verteilung der SWS<br>1.        2.       3.      4.|Prüfungsart<br>schriftl./mndl.|Prüfungsart<br>schriftl./mndl.|Dauer in<br>Minuten|Zahl der<br>Leistgpkt. / Maluspkt.|Zahl der<br>Leistgpkt. / Maluspkt.|
+|Prüfungsfächer mit den<br>Einzelprüfungen|Verte<br>1.|ilung d<br>2.|er SW<br>3.|S<br>4.|Prüfun<br>schriftl|gsart<br>./mndl.|Dauer in<br>Minuten|<sup>Zahl de</sup><br>Leistgpkt.|<sup>r</sup><br>/ Maluspkt.|
 |---|---|---|---|---|---|---|---|---|---|
-|**1. Informatik-Grundstudium**<br>a) Organisation und<br>Technologie von<br>Rechensystemen I<br>b) Organisation und<br>Technologie von<br>Rechensystemen IV<br>c) Systemprogrammierung I<br>d) Wissenschaftliches Rechnen<br>e) Algorithmik I<br>f) Algorithmik II<br>**2. Mathematik-Grundstudium**<br>a) Mathematik I und II<br>b) Mathematik III und IV<br>c) Numerik I und II<br>**3. Technisches**<br>**Anwendungsfach**<br>Einzelprüfungen im<br>Gesamtumfang von 20 SWS<br>**4. Informatik-Vertiefung**<br>Einzelprüfungen im<br>Gesamtumfang von 12 SWS<br>**5. Interdisziplinäre Vertiefung**<br>Einzelprüfungen im<br>Gesamtumfang von|4<br>8<br>6|2<br>8<br>6<br>vgl.|8<br>6<br>4<br>§ 8|6<br>4<br>2<br>Abs.|X<br>X<br>X<br>X<br>X<br>X<br>X<br>X<br>5|X|60<br>60<br>120<br>90<br>120<br>120<br>180<br>180<br>ca.30|4<br>2<br>8<br>6<br>8<br>8<br>12<br>10<br>6<br>20<br>12<br>12|4<br>2<br>8<br>6<br>8<br>8<br>12<br>10<br>6<br>20<br>12<br>12|
+|**1. Informatik-Grundstudium**<br>a) Organisation und<br>Technologie von|4||||X||60|4|4|
+|Rechensystemen I||||||||||
+|b) Organisation und<br>Technologie von||2|||X||60|2|2|
+|Rechensystemen IV||||||||||
+|c) Systemprogrammierung I|||8||X||120|8|8|
+|d) Wissenschaftliches Rechnen||||6|X||90|6|6|
+|e) Algorithmik I|8||||X||120|8|8|
+|f) Algorithmik II||8|||X||120|8|8|
+|**2. Mathematik-Grundstudium**||||||||||
+|a) Mathematik I und II|6|6|||X||180|12|12|
+|b) Mathematik III und IV|||6|4|X||180|10|10|
+|c) Numerik I und II|||4|2||X|ca.30|6|6|
+|**3. Technisches**<br>**Anwendungsfach**||||||||||
+|Einzelprüfungen im||||||||20|20|
+|Gesamtumfang von 20 SWS||||||||||
+|**4. Informatik-Vertiefung**||vgl.|§ 8|Abs.|5|||||
+|Einzelprüfungen im<br>Gesamtumfang von 12 SWS||||||||12|12|
+|**5. Interdisziplinäre Vertiefung**||||||||||
+|Einzelprüfungen im<br>Gesamtumfang von||||||||12|12|
 |**Summe der Punkte**||||||||108|108|
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 28. Juli 1999 und der Genehmigung des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst mit Schreiben vom 7. April 2000 Nr. X/4-10b/36 843 (99). 

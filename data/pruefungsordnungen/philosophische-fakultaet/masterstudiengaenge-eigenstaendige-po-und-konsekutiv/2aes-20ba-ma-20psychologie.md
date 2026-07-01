@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20BA-MA%20Psychologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:20:13+00:00
-page_count_chars: 1775
+scraped_at: 2026-07-01T09:36:44+00:00
+page_count_chars: 1798
 ---
 
 # 5. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 1775
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20BA-MA%20Psychologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Zweite Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL -** 
+# **Zweite Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL -** 
 
-## Vom 5. März 2010 
+# Vom 5. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMStPO/PSL - vom 28. September 2007, zuletzt geändert durch Satzung vom 15. September 2009, wird wie folgt geändert: 
 
@@ -26,9 +26,9 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
 2. In § 37 wird folgender neuer Absatz 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2009 in Kraft.[2] Sie gilt für alle Studierenden, die ab dem Wintersemester 2009/2010 das Bachelorstudium der Psychologie aufnehmen.[3] Die Änderung hinsichtlich der Art der Leistungsnachweise (Spalte 5) gilt für alle anderen Studierenden ab dem 1. April 2010; bereits abgelegte Leistungen bleiben davon unberührt.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am 1. Oktober 2009 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ab dem Wintersemester 2009/2010 das Bachelorstudium der Psychologie aufnehmen.<sup>3</sup> Die Änderung hinsichtlich der Art der Leistungsnachweise (Spalte 5) gilt für alle anderen Studierenden ab dem 1. April 2010; bereits abgelegte Leistungen bleiben davon unberührt.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

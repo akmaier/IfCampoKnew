@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES_BA-MA Mechatronik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:12:48+00:00
-page_count_chars: 7615
+scraped_at: 2026-07-01T11:33:04+00:00
+page_count_chars: 7653
 ---
 
 # 7. Oktober 2013
@@ -12,19 +12,19 @@ page_count_chars: 7615
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES_BA-MA Mechatronik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOME -** 
+# **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOME -** 
 
-## Vom 7. Oktober 2013 
+# Vom 7. Oktober 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOME - vom 25. September 2007, zuletzt geändert durch Satzung vom 31. Juli 2012, wird wie folgt geändert: 
 
-## 1. § 40 erhält folgende Fassung: 
+# 1. § 40 erhält folgende Fassung: 
 
-## " **§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** 
+# " **§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** 
 
 1Die Anfertigung der Bachelorarbeit wird im 6. Semester empfohlen. 2Für die Zulassungsvoraussetzungen gilt § 27 Abs. 3 Satz 2 ABMPO/TechFak." 
 
@@ -36,15 +36,15 @@ b) Der dritte Spiegelstrich erhält folgende Fassung:
 
 "- Beschreibung eines einschlägigen fachbezogenen Projektes, Kenntnis der einschlägigen Literatur," 
 
-## 3. § 44 wird wie folgt geändert: 
+# 3. § 44 wird wie folgt geändert: 
 
    - a) In Abs. 2 wird folgender Satz 3 angefügt: 
 
-      - "[3] Der Prüfungsausschuss kann auf Antrag weitere Vertiefungsrichtungen zulassen." 
+      - "<sup>3</sup> Der Prüfungsausschuss kann auf Antrag weitere Vertiefungsrichtungen zulassen." 
 
    - b) In Abs. 3 wird folgender Satz 2 angefügt: 
 
-      - "[2] § 38 Abs. 2 Satz 3 gilt entsprechend." 
+      - "<sup>2</sup> § 38 Abs. 2 Satz 3 gilt entsprechend." 
 
    - c) In Abs. 4 wird die Zahl "37" durch die Zahl "38" ersetzt. 
 
@@ -90,7 +90,7 @@ b) Der dritte Spiegelstrich erhält folgende Fassung:
 
    - n) In den Erläuterungen erhält Fußnote „1)“ folgenden Wortlaut: 
 
-      - „[1)] PfP: Portfolioprüfung 
+      - „<sup>1)</sup> PfP: Portfolioprüfung 
 
       - PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
@@ -128,7 +128,7 @@ b) Der dritte Spiegelstrich erhält folgende Fassung:
 
    - j) In den Erläuterungen erhält Fußnote „1)“ folgenden Wortlaut: 
 
-      - „[1)] PfP: Portfolioprüfung 
+      - „<sup>1)</sup> PfP: Portfolioprüfung 
 
       - PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
@@ -142,7 +142,7 @@ b) Der dritte Spiegelstrich erhält folgende Fassung:
 
    - c) Die Erläuterungen nach der Tabelle erhalten folgende Fassung: „Erläuterungen: 
 
-      - [1)] Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im 
+      - <sup>1)</sup> Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im 
 
       - Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
@@ -160,7 +160,7 @@ uSL: unbenotete Studienleistung".
 
    - "4. Elektronische Bauelemente, Schaltungen und Systeme". 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

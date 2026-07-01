@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Arbeitsmarkt und Personal FPOAuP 20191203 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/Aenderungssatzungen/MSc_Arbeitsmarkt_und_Personal_FPOAuP_20191203_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:34:04+00:00
-page_count_chars: 12753
+scraped_at: 2026-07-01T11:00:10+00:00
+page_count_chars: 12865
 ---
 
 # MSc Arbeitsmarkt und Personal FPOAuP 20191203 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 12753
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/Aenderungssatzungen/MSc_Arbeitsmarkt_und_Personal_FPOAuP_20191203_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAuP –** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAuP –** 
 
-## **Vom 3. Dezember 2019** 
+# **Vom 3. Dezember 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOAuP – vom 17. Juli 2009, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
@@ -26,9 +26,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 2. In § 1 werden das Wort „Fachprüfungsordnung“ durch die Worte „Fachstudien- und Prüfungsordnung“ ersetzt, die Worte „konsekutiven und nicht-konsekutiven“ gestrichen und nach den Worten „für die Masterstudiengänge“ (neu) die Worte „im Fachbereich Wirtschafts- und Sozialwissenschaften“ eingefügt sowie nach den Worten „Fakultät der FAU –“ die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
-## 3. Die Regelung in § 2 erhält folgende neue Fassung: 
+# 3. Die Regelung in § 2 erhält folgende neue Fassung: 
 
-„(1)[1] Als einschlägige Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden Bachelorabschlüsse wirtschafts- und sozialwissenschaftlicher Studiengänge anerkannt, sofern diese Grundkenntnisse in Wirtschaftswissenschaften sowie Statistik/Ökonometrie vermitteln (insbesondere Bachelorstudiengänge Wirtschaftswissenschaften sowie Sozialökonomik an der FAU bzw. vergleichbare Studiengänge anderer Hochschulen).[2] Die Grundkenntnisse in Wirtschaftswissenschaften nach Satz 1 müssen mindestens 10 ECTS-Punkte in Volkswirtschaftslehre beinhalten.[3] Grundkenntnisse in der Fachgruppe Statistik/Ökonometrie müssen im Umfang von mindestens 10 ECTS-Punkten nachgewiesen werden; dabei muss nachgewiesen werden, dass Inferenzstatistik („induktive Statistik“ / „schließende Statistik“) Bestandteil der entsprechenden absolvierten Veranstaltungen ist.[4] Bei der Ermittlung des Umfangs der Grundkenntnisse nach den Sätzen 2 und 3 werden Abschlussarbeiten nicht berücksichtigt. 
+„(1)<sup>1</sup> Als einschlägige Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden Bachelorabschlüsse wirtschafts- und sozialwissenschaftlicher Studiengänge anerkannt, sofern diese Grundkenntnisse in Wirtschaftswissenschaften sowie Statistik/Ökonometrie vermitteln (insbesondere Bachelorstudiengänge Wirtschaftswissenschaften sowie Sozialökonomik an der FAU bzw. vergleichbare Studiengänge anderer Hochschulen).<sup>2</sup> Die Grundkenntnisse in Wirtschaftswissenschaften nach Satz 1 müssen mindestens 10 ECTS-Punkte in Volkswirtschaftslehre beinhalten.<sup>3</sup> Grundkenntnisse in der Fachgruppe Statistik/Ökonometrie müssen im Umfang von mindestens 10 ECTS-Punkten nachgewiesen werden; dabei muss nachgewiesen werden, dass Inferenzstatistik („induktive Statistik“ / „schließende Statistik“) Bestandteil der entsprechenden absolvierten Veranstaltungen ist.<sup>4</sup> Bei der Ermittlung des Umfangs der Grundkenntnisse nach den Sätzen 2 und 3 werden Abschlussarbeiten nicht berücksichtigt. 
 
 (2) Folgende weitere Unterlagen im Sinne der **Anlage** , Nr. 2.3.3 **MPOWISO** sind vorzulegen: 
 
@@ -38,9 +38,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 – CEFR) Vantage oder Upper intermediate“ entsprechen, sofern der erste berufsqualifizierende Abschluss bzw. die Hochschulzugangsberechtigung nicht in englischer Sprache erworben worden ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremdsprachenerwerb über mindestens fünf Jahre bis zum Erwerb der Hochschulzugangsberechtigung, Abschlussnote oder ggf. Durchschnittsnote der letzten zwei Jahre muss mindestens der deutschen Notenstufe 4 (ausreichend) bzw. 5 Punkten entsprechen) geführt werden. 
 
-2.[1] Soweit vorhanden, Nachweis über einen qualifizierten Auslandsaufenthalt in Studium oder Beruf; der Nachweis kann insbesondere durch ein Auslandssemester, ein mindestens vierwöchiges Auslandspraktikum oder eine mindestens vierwöchige berufliche Tätigkeit im Ausland erbracht werden (nachgewiesen z. B. durch einen Arbeitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnachweis des jeweiligen Arbeitgebers).[2] Auslandsaufenthalte gelten als „qualifiziert“ i. S. d. Satz 1, wenn es sich um Aufenthalte in einem Land handelt, das nicht dem regelmäßigen Aufenthaltsland der Bewerberin bzw. des Bewerbers entspricht und die dort vollzogene Tätigkeit inhaltlichen Bezug zum Masterstudiengang Arbeitsmarkt und Personal aufweist (z. B. Auslandssemester an Hochschulen im Ausland oder Auslandspraktika in Wissenschaft, Wirtschaft oder Verwaltung, in deren Rahmen empirische Datenaufbereitungen/-analysen durchgeführt werden). 
+2.<sup>1</sup> Soweit vorhanden, Nachweis über einen qualifizierten Auslandsaufenthalt in Studium oder Beruf; der Nachweis kann insbesondere durch ein Auslandssemester, ein mindestens vierwöchiges Auslandspraktikum oder eine mindestens vierwöchige berufliche Tätigkeit im Ausland erbracht werden (nachgewiesen z. B. durch einen Arbeitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnachweis des jeweiligen Arbeitgebers).<sup>2</sup> Auslandsaufenthalte gelten als „qualifiziert“ i. S. d. Satz 1, wenn es sich um Aufenthalte in einem Land handelt, das nicht dem regelmäßigen Aufenthaltsland der Bewerberin bzw. des Bewerbers entspricht und die dort vollzogene Tätigkeit inhaltlichen Bezug zum Masterstudiengang Arbeitsmarkt und Personal aufweist (z. B. Auslandssemester an Hochschulen im Ausland oder Auslandspraktika in Wissenschaft, Wirtschaft oder Verwaltung, in deren Rahmen empirische Datenaufbereitungen/-analysen durchgeführt werden). 
 
-(3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Nr. 2.3 **Anlage MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Nr. 5.1 **Anlage MPOWISO** bewertet: 
+(3)<sup>1</sup> In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Nr. 2.3 **Anlage MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Nr. 5.1 **Anlage MPOWISO** bewertet: 
 
 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Studienleistung anhand des Notendurchschnitts; Bewertung auf Basis der Unterlagen des Erstabschlusses (insbesondere Transcript of Records) (max. 40 Punkte), 
 
@@ -54,7 +54,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 2 
 
-## 1. Punktevergabe nach Satz 1 Nr. 1: (Bisheriger) Notendurchschnitt 
+# 1. Punktevergabe nach Satz 1 Nr. 1: (Bisheriger) Notendurchschnitt 
 
 |**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
 |---|---|---|---|---|---|---|---|
@@ -87,16 +87,16 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 |20 bis unter 25|20|
 |25 und mehr|25|
 
-## 4. Punktevergabe nach Satz 1 Nr. 4: Auslandsaufenthalt 
+# 4. Punktevergabe nach Satz 1 Nr. 4: Auslandsaufenthalt 
 
 |**Dauer**|**Punkte**|
 |---|---|
 |unter 4 Wochen|0|
 |4 Wochen und mehr|10|
 
-3Die Gesamtpunktzahl der in der ersten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte.[4] Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[5] Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
+3Die Gesamtpunktzahl der in der ersten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte.<sup>4</sup> Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.<sup>5</sup> Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber nach Abs. 3 Satz 5 zu einem Zugangsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen bzw. Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen. 3Das Zugangsgespräch erstreckt sich auf folgende gleich gewichtete Kriterien: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber nach Abs. 3 Satz 5 zu einem Zugangsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen bzw. Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen. 3Das Zugangsgespräch erstreckt sich auf folgende gleich gewichtete Kriterien: 
 
 3 
 
@@ -106,31 +106,31 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 3. Fähigkeit der Bewerberin bzw. des Bewerbers, bisher erworbene Kompetenzen in den Kontext des Curriculums des Masterstudiengangs einzuordnen und entsprechende Verknüpfungen herzustellen. 
 
-4Die einzelnen Kriterien für das Zugangsgespräch nach Satz 3 werden benotet; es gelten § 19 Abs. 1 Sätze 1, 5 und 6 **MPOWISO** .[5] Sofern in jedem einzelnen Kriterium mindestens die Note 4,0 erreicht wird, wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
+4Die einzelnen Kriterien für das Zugangsgespräch nach Satz 3 werden benotet; es gelten § 19 Abs. 1 Sätze 1, 5 und 6 **MPOWISO** .<sup>5</sup> Sofern in jedem einzelnen Kriterium mindestens die Note 4,0 erreicht wird, wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
 
-## 4. § 3 wird wie folgt geändert: 
+# 4. § 3 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
-- aa) In Satz 2 Nr. 9 wird das Wort „Zeitreihenanalyse“ durch die Worte „time series analysis“ ersetzt. 
+      - aa) In Satz 2 Nr. 9 wird das Wort „Zeitreihenanalyse“ durch die Worte „time series analysis“ ersetzt. 
 
-- bb) In Satz 5 wird die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
+      - bb) In Satz 5 wird die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
-cc) In Satz 7 werden die Worte „Arbeitsmarkt und Personal“ gestrichen. 
+      - cc) In Satz 7 werden die Worte „Arbeitsmarkt und Personal“ gestrichen. 
 
    - b) In Abs. 2 wird die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
 5. § 4 wird wie folgt geändert: 
 
-a) In Abs. 1 Satz 1 wird nach den Worten „liegt darin,“ das Wort „es“ eingefügt. 
+   - a) In Abs. 1 Satz 1 wird nach den Worten „liegt darin,“ das Wort „es“ eingefügt. 
 
    - b) In Abs. 2 Satz 2 werden nach den Worten „Kombination aus diesen“ das Zeichen „;“ und die Worte „§ 6 Abs. 2 Satz 3 **MPOWISO** bleibt unberührt“ angefügt. 
 
 6. In § 5 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 2 gelten die Änderungen in den Modulen „Multivariate Zeitreihenanalyse“ (neu: „Multivariate time series analysis“) und „Panel- und Evaluationsverfahren“ (neu: „Panel and evaluation methods“) für all diejenigen Studierenden, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 2 gelten die Änderungen in den Modulen „Multivariate Zeitreihenanalyse“ (neu: „Multivariate time series analysis“) und „Panel- und Evaluationsverfahren“ (neu: „Panel and evaluation methods“) für all diejenigen Studierenden, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
-## 7. Die **Anlage** wird wie folgt geändert: 
+# 7. Die **Anlage** wird wie folgt geändert: 
 
 - a) In Zeile 7 (Modul Ökonometrie) wird in Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung Ökonometrie) das Wort „Vorlesung“ gestrichen. 
 
@@ -140,26 +140,27 @@ a) In Abs. 1 Satz 1 wird nach den Worten „liegt darin,“ das Wort „es“ ei
 
    - aa) In Spalte 1 (Modulbezeichnung) werden die Worte „Panel- und Evaluationsverfahren“ durch die Worte „Panel and evaluation methods“ ersetzt. 
 
-bb) Spalte 2 (Lehrveranstaltung) wird wie folgt geändert: 
+   - bb) Spalte 2 (Lehrveranstaltung) wird wie folgt geändert: 
 
-   - (1) In Unterzeile 1 (Vorlesung) werden die Worte „Vorlesung Panel- und Evaluationsverfahren“ durch die Worte „Panel and evaluation methods“ ersetzt. 
+      - (1) In Unterzeile 1 (Vorlesung) werden die Worte „Vorlesung Panel- und Evaluationsverfahren“ durch die Worte „Panel and evaluation methods“ ersetzt. 
 
-   - (2) In Unterzeile 2 werden die Worte „Panel- und Evaluationsverfahren“ durch die Worte „Panel and evaluation methods“ ersetzt. 
+      - (2) In Unterzeile 2 werden die Worte „Panel- und Evaluationsverfahren“ durch die Worte „Panel and evaluation methods“ ersetzt. 
 
 - c) In Zeile 13 (Modul Mikroökonometrie) wird in Spalte 2 (Lehrveranstaltung) Unterzeile 1 (Vorlesung Mikroökonometrie) das Wort „Vorlesung“ gestrichen. 
 
 - d) Zeile 16 (Modul Multivariate Zeitreihenanalyse) erhält folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-|**Multivariate time series**<br>**analysis**|Multivariate time<br>series analysis|2||||5||5|||Klausur<br>(60 Minuten)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Übung Multivariate<br>time series analysis||2||||||||||
-|“|||||||||||||
+|**Multivariate time series**|Multivariate time<br>series analysis|2|5|5|Klausur|1|
+|---|---|---|---|---|---|---|
+|**analysis**|Übung Multivariate<br>time series analysis|2|||(60 Minuten)||
 
-## **§ 2** 
+“ 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 2 gelten die Änderungen in den Modulen „Multivariate Zeitreihenanalyse“ (neu: „Multivariate time series analysis“) und „Panel- und Evaluationsverfahren“ (neu: „Panel and evaluation methods“) in der lfd. Nr. 7 für all diejenigen Studierenden, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 2 (lfd. Nr. 3) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+# **§ 2** 
+
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 2 gelten die Änderungen in den Modulen „Multivariate Zeitreihenanalyse“ (neu: „Multivariate time series analysis“) und „Panel- und Evaluationsverfahren“ (neu: „Panel and evaluation methods“) in der lfd. Nr. 7 für all diejenigen Studierenden, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 2 (lfd. Nr. 3) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. Mai 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 3. Dezember 2019. 
 

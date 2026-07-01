@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. März 1992"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Math.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:54:31+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:16:57+00:00
+page_count_chars: 26422
 ---
 
 # 27. März 1992
@@ -12,415 +12,396 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Math.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+~ 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+N 
 
-### OCR Seite 1
+# . Satzung zur Anderung der Diplompriifungsordnung fiir Studenten der Mathematik an . der Naturwissenschaftlichen Fakultat I (Mathematik und Physik) der Friedrich-AlexanderUniversitat Erlangen-Nurnberg 
 
-```
-(KMBI II S. 118) wird wie folgt geändert:
-1.
-Nach der Einleitungsformel wird vor $1 eingefügt:
-"Vorbemerkung zum Sprachgebrauch
-Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in der nachstehenden
-'
-:
-Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene
-”
-Gleichstellung von Mann und Frau zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen,
-sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere
-Kennzeichnungen für weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet,
-um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen
-sind stets beide Geschlechter gemeint.”
-j
-.
-2.
-$3 erhält folgende Fassung: „Studiendauer, Gliederung des Studiums, Meldefristen zur Prüfung
-(1)
-Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt
-150 Semesterwochenstunden, verteilt auf 8 Fachsemester. Die Regelstudienzeit einschließlich
-der Prüfungen beträgt 9 Semester. Das Studium gliedert sich in ein viersemestriges Grund-
-studium und ein anschließendes Hauptstudium.
-(2)
-Das Grundstudium wird mit der Diplomvorprüfung abgeschlossen. Die Diplomvorprüfung soll
-in der Regel vor Beginn der Vorlesungszeit des fünften Fachsemesters abgelegt worden sein.
-Der Student soll sich ordnungsgemäß und so rechtzeitig zu dieser Prüfung melden, daß er sie
-bis zu dem in Satz 2 bestimmten Termin ablegen kann.
-(3) Das Hauptstudium wird mit der Diplomprüfung abgeschlossen. Die Fachprüfungen der Diplom-
-prüfung einschließlich der Diplomarbeit sollen bis zum Ende des neunten Fachsemesters ab-
-N
-gelegt werden. Der Student soll sich ordnungsgemäß und so rechtzeitig zur Prüfung melden,
-daß er sie in beiden Teilen (Fachprüfungen und Diplomarbeit) bis zum Ende des neunten
-Fachsemesters ablegen kann.
-(4)
-Der Student kann die Prüfungen vorzeitig ablegen, wenn er die Zulassungsvoraussetzungen
-erfüllt.“
-3.
-84 erhält folgende Fassung: „Prüfungsausschuß
-(1)
-Für die Organisation und Durchführung der Prüfungen wird ein Prüfungsausschuß eingesetzt.
-Der Prüfungsausschuß besteht aus fünf Mitgliedern. Die Amtszeit der Mitglieder beträgt drei
-Jahre. Eine Wiederbestellung ist möglich.
-(2)
-Der Vorsitzende, sein Stellvertreter und dis weiteren Mitglieder des Prüfungsausschusses wer-
-den vom Fachbereichsrat der Naturwissenschaftlichen Fakultät I (Mathematik und Physik)
-gewählt. Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder
-1
-```
+Vom 27. Marz 1992 
 
-### OCR Seite 2
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlaBt die Universitat folgende Anderungssatzung: 
 
-```
-Prüfungsordnungen. Der Prüfungsausschuß legt die Notenverteilung offen.
-(5)
-Die Mitglieder des Prüfungsausschusses haben das Recht, der Abnahme von Prüfungen bei-
-zuwohnen.
-i
-(6) Der Prüfungsausschuß ist beschlußfähig, wenn sämtliche Mitglieder schriftlich unter Einhal-
-tung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahl der Mitglieder an-
-wesend und stimmberechtigt ist. Er beschließt mit der Mehrheit der abgegebenen Stimmen
-in Sitzungen. Stimmenthaltung, Geheimhaltung und Stimmrechtsübertragungen sind nicht
-zulässig. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
-(7)
-Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.
-Er ist befugt, anstelle
-des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.
-Hiervon hat er
-dem Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber hinaus kann, soweit diese
-Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuß dem Vorsitzenden die Erle-
-digung von einzelnen Aufgaben widerruflich übertragen.“
-4.
-85
-Abs.
-2 und 3 erhalten folgende Fassung:
-„(2) Zum Prüfer können alle Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS
-2210-1-1-6-WK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen be-
-fugte, weitere Personen bestellt werden.
-Zum Beisitzer darf nur bestellt werden, wer die
-entsprechende Diplomprüfung oder eine vergleichbare Prüfung erfolgreich abgelegt hat und
-\
-über eine wenigstens einjährige Lehrerfahrung verfügt.
-(3)
-Die Bestellung zu Prüfern soll in geeigneter Form bekanntgegeben werden. Ein kurzfristig, vor
-Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist
-zulässig. Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt
-dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.“
-5.
-Nach 85 wird angefügt:
-‚85a Ausschluß wegen persönlicher Beteiligung, Verschwiegenheitspflicht
-(1)
-Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie von einer
-Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG.
-(2)
-Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und
-sonstiger mit Prüfungsangelegenheiten befaßter Personen zur Verschwiegenheit bestimmt sich
-nach Art. 18 Abs.
-4 BayHSchG.“
-2
-```
+##### §1 
 
-### OCR Seite 3
+Die Diplompriifungsordnung fiir Studenten der Mathematik an der Naturwissenschaftlichen Fakultat | (Mathematik und Physik) der Friedrich-Alexander-Universitat Erlangen-Niirnberg vom 15. Februar 1985 (KMBI II S. 118) wird wie folgt geandert: 
 
-```
-b) Nach Absatz 3 wird angefügt:
-(4)
-Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muß unverzüglich
-beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden. In Fällen krank-
-heitsbedingter Prüfungsunfähigkeit kann der Vorsitzende die Vorlage eines vertrau-
-,
-ensärztlichen Attests verlangen.
-\
-(5)
-Der Kandidat kann innerhalb einer Woche verlangen, daß die Entscheidungen nach
-Absatz 2 vom Prüfungsausschuß überprüft werden.
-Belastende Entscheidungen sind
-dem Kandidaten unverzüglich mitzuteilen, zu begründen und mit einer Rechtsbehelfs-
-belehrung zu versehen.“
-8.
-$8 erhält folgende Fassung:
-„Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen
-(1)
-Studienzeiten, Studienleistungen und Diplomvorprüfungen in demselben Studiengang an an-
-deren Universitäten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschul-
-rahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt. Dies gilt auch für bestan-
-dene selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prüfung als nichtbe-
-standen gewertet wurde. Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfun-
-gen einer Diplomvorprüfung werden nicht angerechnet. Als dieselben Studiengänge gelten nur
-solche, die derselben Rahmenordnung unterliegen.
-(2)
-Studienzeiten, Studienleistungen und Diplomvorprüfungen in anderen Studiengängen wer-
-\
-den anerkannt, soweit die Gleichwertigkeit festgestellt ist.
-Dies gilt auch für bestandene
-selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prüfung als nicht bestan-
-den gewertet wurde. Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfungen
-einer Diplomvorprüfung in anderen Studiengängen können dabei in begründeten Einzelfällen
-nur angerechnet werden, wenn die Vorschriften dieser Prüfungsordnung nicht umgangen wer-
-den, insbesondere der Grundsatz der Chancengleichheit nicht verletzt ist. Die Anerkennung
-kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine
-volle Gleichwertigkeit nachgewiesen ist.
-(3)
-Anstelle der Diplomvorprüfung können in begründeten Ausnahmefällen andere Prüfungslei-
-stungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird.
-(4)
-Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistun-
-gen in Inhalt, Umfang und Anforderungen denjenigen des Studiums der Mathematik an der
-Universität Erlangen-Nürnberg im wesentlichen entsprechen.
-Für die Gleichwertigkeit von
-Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultus-
-ministerkonferenz und der Hochschulrektorenkonferenz gebilligten Aquivalenzvereinbarungen
-3
-```
+1. Nach der Einleitungsformel wird vor §1 eingefiigt: 
 
-### OCR Seite 4
+"Vorbemerkung zum Sprachgebrauch Die Bezeichnung weiblicher und mdnnlicher Personen durch die jeweils maskuline Form in der nachstehenden ; Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die fiir Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen fiir weibliche und mannliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Ubersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint.” _ ; ; 
 
-```
-merk „bestanden“ und beim Gesamturteil der Vermerk ‚‚mit Erfolg abgelegt“ aufgenommen.
-Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamt-
-notenbildung gemäß $13 Abs. 3 unterbleiben.
-In diesem Fall wird dem Zeugnis ein Auszug
-aus dieser Prüfungsordnung beigegeben.
-{
-(8) Die Entscheidungen trifft der Vorsitzende des Prüfungsausschusses, in den Fällen der Absätze
-2 bis 6 jedoch nur auf Antrag.“
-9.
-Nach $8 werden angefügt:
-‚38a Mängel im Prüfungsverfahren
-(1)
-Erweist sich, daß das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis
-beeinflußt haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, daß von
-einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wie-
-derholt werden. Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses
-oder beim Prüfer geltend gemacht werden.
-(2)
-Sechs Monate nach Abschluß der Prüfung dürfen von Amts wegen Anordnungen nach Absatz
-1 nicht mehr getroffen werden.
-$8b Sonderregelungen für Behinderte
-(1)
-Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, daß er wegen länger andauernder
-oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise
-in der vorgesehenen Form abzulegen, hat der Vorsitzende des Prüfungsausschusses dem Kan-
-didaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form
-zu erbringen.
-(2)
-Entscheidungen gemäß Absatz
-1 werden nur auf schriftlichen Antrag hin getroffen.
-Bei
-Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen.“
-10.
-89 wird wie folgt geändert:
-a) Die Überschrift erhält folgende Fassung:
-„Meldung zur Diplomvorprüfung, Art und Umfang der Prüfung“
-b) Absatz 1 erhält folgende Fassung:
-4
-```
+2. §3 erhalt folgende Fassung: ,,Studiendauer, Gliederung des Studiums, Meldefristen zur Prufung 
 
-### OCR Seite 5
+   - (1) Der Héchstumfang der fiir das planmaBige Studium erforderlichen Lehrveranstaltungen betragt 150 Semesterwochenstunden, verteilt auf 8 Fachsemester. Die Regelstudienzeit einschlieBlich der Priifungen betragt 9 Semester. Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschlieBendes Hauptstudium. 
 
-```
-„Prüfungsausschuß“ eingefügt „im Einzelfall“.
-f) Am Ende von Absatz 2 Nr. 4 wird angefügt:
-„Abweichend von der Regelung in Absatz 2 Satz 1 kann der Prüfungsausschuß im Wahl-
-fach Informatik eine schriftliche Prüfung vorschreiben.
-Die Entscheidung darüber wird
-i
-mindestens 2 Monate vor dem jeweiligen Prüfungstermin durch ortsüblichen Aushang be-
-kanntgemacht.“
-g) Am Ende von Absatz 4 wird angefügt:
-„Als generell genehmigte Ausnahme gilt das Vorziehen von einer der vier Teilprüfungen auf
-einen Termin, der vor Beginn der Vorlesungszeit des vierten Fachsemesters fallt, sofern die
-für diese Teilprüfung relevanten Zulassungsvoraussetzungen nach $10 Abs. 1 erfüllt sind.“
-11.
- $10 wird wie folgt geändert:
-a) Absätze 1 und 2 erhalten folgende Fassung:
-„(1)
-Voraussetzungen für die Zulassung zur Diplomvorprüfung sind:
-1. die allgemeine Hochschulreife oder die einschlägige fachgebundene Hochschulreife un-
-ter Berücksichtigung der Qualifikationsverordnung (BayRS 2210-1-1-3-K/WK) in der
-jeweils geltenden Fassung;
-2. ein ordnungsgemäßes Studium der Mathematik;
-:
-3. der Nachweis einer erfolgreichen Teilnahme an den Übungen und/oder Praktika zu den
-Grundvorlesungen über die unter $9 Abs. 2 Nrn. 1 bis 4 genannten Prüfungsfächer und
-einer erfolgreichen Teilnahme an einem Proseminar durch Vorlage
-a) eines Übungsscheines zu den Grundvorlesungen über Analysis,
-b) eines Übungsscheines zu den Grundvorlesungen über Lineare Algebra und Analyti-
-sche Geometrie,
-c) je eines Übungsscheines zu den beiden Grundvorlesungen über Angewandte Mathe-
-matik (siehe $9 Abs. 2 Nr. 3)
-d) eines Leistungsnachweises zu dem Wahlfach außerhalb der Mathematik und
-e) eines Proseminarscheines aus einem Gebiet innerhalb der Mathematik;
-Die Nachweise werden je nach Veranstaltung durch Erstellung von schriftlichen Ar-
-beiten (Übungen), durch Klausuren, Referate oder Kolloquien erbracht; die Leistun-
-gen müssen mit wenigstens ausreichend bzw. „mit Erfolg“ bewertet sein. Die Form
-des Nachweises wird zu Beginn der Lehrveranstaltung vom Lehrenden festgelegt.
-(2) Dem Antrag auf Zulassung sind beizufügen:
-5
-```
+   - (2) Das Grundstudium wird mit der Diplomvorpriifung abgeschlossen. Die Diplomvorprifung soll in der Regel vor Beginn der Vorlesungszeit des fiinften Fachsemesters abgelegt worden sein. Der Student soll sich ordnungsgema8 und so rechtzeitig zu dieser Prifung melden, da8 er sie bis zu dem in Satz 2 bestimmten Termin ablegen kann. 
 
-### OCR Seite 6
+   - (3) Das Hauptstudium wird mit der Diplompriifung abgeschlossen. Die Fachprifungen der Diplom' priifung einschlieBlich der Diplomarbeit sollen bis zum Ende des neunten Fachsemesters abgelegt werden. Der Student soll sich ordnungsgem48 und so rechtzeitig zur Prifung melden, da8 er sie in beiden Teilen (Fachpriifungen und Diplomarbeit) bis zum Ende des neunten Fachsemesters ablegen kann. 
 
-```
-„Die Zulassung zur Diplomvorprüfung ist zu versagen, wenn ...“
-13.
- $12 wird wie folgt geändert:
-Absatz 4 entfällt; Absatz 5 wird Absatz 4.
-14...
-Nach $ 12 wird eingefügt:
-„12a Schriftliche Prüfung
-(1)
-Soweit die Prüfung im Wahlfach Informatik schriftlich
-ist, wird sie in Form einer
-dreistündigen Klausur abgehalten.
-(2)
-Klausuren sind in der Regel von 2 Prüfern zu bewerten.
-Von der Bewertung durch
-einen Zweitprüfer kann abgesehen werden, wenn kein zweiter Prüfungsbefugter zur
-Verfügung steht oder wenn die Bestellung eines zweiten Prüfers den Ablauf der Prüfung
-in unvertretbarer Weise verzögern würde. Der Prüfungsausschuß stellt zu Beginn des
-Prüfungstermins fest, ob ein zweiter Prüfer vorhanden ist, oder ob durch die Benen-
-nung eines Zweitprüfers mit einer unzumutbaren Verzögerung des Prüfungsablaufs zu
-rechnen ist.”
-15.
- $13 wird wie folgt geändert:
-;
-a) In Absatz 1 Satz 1 wird das Wort ‚mündlichen” gestrichen.
-j
-b) Absatz 1 Satz 3 Halbsatz 2 erhält folgende Fassung:
-„die Noten 0,7, 4,3 und 5,3 sind dabei ausgeschlossen.“
-c} Absatz 1 Satz 4 erhält die folgende Fassung:
-„Bei unterschiedlicher Bewertung durch den Zweitprüfer wird die Fachnote durch Mitte-
-lung der Noten beider Prüfer errechnet; dabei wird nur die erste Stelle nach dem Komma
-berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.”
-d) Absatz 3 Satz 2 entfällt; Satz 3 wird Satz 2
-16.
-814 Absatz 1 erhält folgende Fassung:
-„(1)
-Überschreitet ein Student aus Gründen, die er zu vertreten hat, die Frist, innerhalb welcher
-gemäß $3 Abs. 2 die Meldung zur Diplomvorprüfung oder die Ablegung der Diplomvorprüfung
-erfolgen soll, um mehr als zwei Semester, so gilt die Diplomvorprüfung als abgelegt und erst-
-mals nicht bestanden.
-Nach $8 angerechnete Studienzeiten sind auf die Frist anzurechnen.
-6
-```
+   - (4) Der Student kann die Priifungen vorzeitig ablegen, wenn er die Zulassungsvoraussetzungen erfullt.“ 
 
-### OCR Seite 7
+3. §4 erhalt folgende Fassung: ,,Priifungsausschuf 
 
-```
-(3)
-Eine zweite Wiederholung der Diplomvorprüfung ist nur in einem Prüfungsfach möglich.
-Sie muß zum nächsten regulären Prüfungstermin erfolgen.“
-d) Als Absatz 4 wird angefügt:
-(4)
-Die Noten der Wiederholungsprüfungen ersetzen die Noten der vorangegangenen Prü-
-fung.“
-18.
-817 wird wie folgt geändert:
-a) Er erhält folgende Überschrift:
-„Meldung zur Diplomprüfung, Art und Umfang der Prüfung“
-b) Abatz 1 erhält folgende Fassung:
-„(1)
-Die Meldung zur Diplomprüfung ist rechtzeitig an den Vorsitzenden des Prüfungsaus-
-schusses zu richten und mit den geforderten Unterlagen schriftlich unter Benutzung der
-hierfür bestimmten Vordrucke einzureichen.“
-c} Absatz 5 erhält folgende Fassung:
-(5)
-Die drei unter Absatz 2 Nm. 1 bis 3 genannten mündlichen Prüfungen sind in einem
-Prüfungszeitraum abzulegen; in besonderen Fällen kann der Prüfungsausschuß hiervon
-Ausnahmen gestatten. Die Prüfung im Wahlfach kann vorher abgelegt werden, sofern
-die für diese Teilprüfung relevanten Zulassungsvoraussetzungen nach $18 Abs. 1 erfüllt
-sind.
-Die Prüfungen werden von verschiedenen Prüfern abgenommen; hiervon kann
-“
-der Prüfungsausschuß Ausnahmen gestatten.“
-19.
-818 wird wie folgt geändert:
-a) Absatz 1 erhält folgende Fassung:
-„(1)
-Voraussetzungen für die Zulassung zur Diplomprüfung sind:
-1.
-die allgemeine Hochschulreife oder einschlägige fachgebundene Hochschulreife unter
-Berücksichtigung der Qualifikationsverordnung - QualV - (BayRS 2210-1-1-3-K/WK)
-in der jeweils geltenden Fassung;
-2.
-die bestandene Diplomvorprüfung in Mathematik oder eine ihr gleichgewertete und
-anerkannte sonstige Prüfung:
-3.
-ein ordnungsgemäßes Studium der Mathematik;
-4.
-die Immatrikulation als Student der Mathematik wenigstens im letzten Semester vor
-der Diplomprüfung an der Universität Erlangen-Nürnberg; der Prüfungsausschuß kann
-7
-```
+   - (1) Fur die Organisation und Durchfiihrung der Priifungen wird ein Prufungsausschuf eingesetzt. Der Priifungsausschu8 besteht aus fiinf Mitgliedern. Die Amtszeit der Mitglieder betragt drei Jahre. Eine Wiederbestellung ist moglich. 
 
-### OCR Seite 8
+   - (2) Der Vorsitzende, sein Stellvertreter und diz weiteren Mitglieder des Priifungsausschusses werden vom Fachbereichsrat der Naturwissenschaftlichen Fakultat I (Mathematik und Physik) gewahlt. Zu Mitgliedern des Prifungsausschusses konnen nur priifungsberechtigte Mitglieder 
 
-```
-4. drei Exemplare der Diplomarbeit oder eine schriftliche Bestätigung des Betreuers, daß
-_
-ihm die Arbeit in drei Exemplaren fristgerecht vorgelegt worden ist;
-5. ein Prüfungsplan, in welchem der Kandidat die von ihm gewünschten Prüfungsgebiete
-und Prüfer für die vier Prüfungsfächer vorschlägt;
-6. eine Erklärung gemäß $10 Abs. 2 Nr. 5.“
-c) Der bisherige Absatz 3 entfällt, Absatz 4 wird Absatz 3
-20.
-819 Absatz 6 erhält folgende Fassung:
-‚(6)
-Die Bearbeitungszeit für die Diplomarbeit darf sechs Monate nicht überschreiten. Thema und
-Aufgabenstellung der Diplomarbeit müssen so lauten, daß die zur Bearbeitung vorgegebene
-Frist eingehalten werden kann. Auf begründeten Antrag des Kandidaten kann die Bearbei-
-tungszeit ausnahmsweise um höchstens drei Monate verlängert werden. Weist der Kandidat.
-durch ärztliches Zeugnis nach, daß er durch Krankheit an der Bearbeitung gehindert war,
-ruht die Bearbeitungsfrist.“
-21.
-820 wird wie folgt geändert:
-a) In Absatz 1 Satz 1 wird vor dem Punkt eingefügt:
-f
-„und mit einem Bewertungsvorschlag gemäß $13 Abs. 1 Satz 2 und 3 versehen.“
-b) Absatz 1 Satz 2 entfällt; die Sätze 3 und 4 werden Sätze 2 und 3. In Satz 3 (neu) wird vor
-dem Punkt eingefügt „gegebenenfalls nach Anhörung eines Drittgutachters“.
-c) In Absatz 2 entfallen die Wörter „siehe $ 19 Abs. 5."
-22.
-In $21 entfällt der bisherige Absatz 1.
-Die Absätze 2 bzw. 3 werden zu Absatz 1 bzw. 2. Der
-bisherige Absatz 4 wird durch den folgenden neuen Absatz 3 ersetzt:
-„Sind die Diplomarbeit und bis auf höchstens eine Ausnahme auch die mündlichen
-Prüfungsleistungen mit 1,0 bewertet worden und ist in keiner Teilprüfung die Note schlech-
-ter als 1,3, so erteilt der Prüfungsausschuß das Gesamturteil ‚mit Auszeichnung” .”
-23.
-823 wird wie folgt geändert:
-a) Absätze 1 und 2 erhalten folgende Fassung:
-8
-```
+1 
 
-### OCR Seite 9
+. . 
 
-```
-schlossen. Im übrigen gelten 9819, 20 entsprechend.
-(5)
-Eine zweite Wiederholung der mündlichen Prüfung ist nur in bis zu zwei Fächern
-möglich. Sie muß zum nächsten regulären Prüfungstermin erfolgen. Im übrigen gelten
-815 Abs. 2 Sätze 2 bis 4 und $15 Abs. 4 entsprechend.“
-82
-(i)
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-(2)
-Auf Antrag des Kandidaten können Vordiplomprüfungen bis zum Ende des Wintersemesters 1993/94, bei
-Wiederholungsprüfungen darüber hinaus noch nach den Bestimmungen des $ 9 Abs. 2 Nr. 3 und des 8 10 der
-Diplomprüfungsordnung in der Fassung vor Erlaß dieser Satzung abgelegt werden, sofern der Kandidat sein
-Studium vor dem Sommersemester 1992 aufgenommen hat.
-9
-```
+‘ 
 
-### OCR Seite 10
+.‘ 
 
-```
-( Prof. Dr. G. Jasper )
-|
-Rektor
-Die Satzung wurde am 27. März 1992 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 27. März 1992 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 27. März 1992.
-```
+      - der Universitat gewahlt werden. Die Professoren der Mathematik verfiigen mindestens Uber die absolute Mehrheit der Stimmen. 
+
+   - (3) Der Priifungsausschu8 achtet darauf, da8 die Bestimmungen der Priifungsordnung eingehalten werden. Mit Ausnahme der eigentlichen Priifung und deren Bewertung trifft er alle anfallenden Entscheidungen. Er erlaBt insbesondere die Priifungsbescheide, nachdem er die Bewertung der Priifungsleistungen auf ihre Rechtmafigkeit gepriift hat. Priifungsbescheide, durch die jemand in seinen Rechten beeintrachtigt werden kann, bediirfen der Schriftform; sie sind zu begriinden und mit einer Rechtsbehelfsbelehrungzu versehen. Dem Kandidaten ist vor Erla8 der ablehnenden Entscheidung Gelegenheit zur AuBerung zu geben. Widerspruchsbescheide erla8t der Rektor, in fachlich-priifungsrechtlichen Fragen im Einvernehmen mit dem Priifungsausschu8 und nach Anhorung der zustandigen Priifer. Artikel 28 Abs. 1 Satz 1 Nr. 13 BayHSchG bleibt unberihrt. 
+
+   - (4) Der Priifungsausschu8 berichtet regelmaBig dem Fachbereichsrat iber die Entwicklung der Priifungen und Studienzeiten und gibt ihm ggf. Anregungen zu Anderungen der Studien- und Priifungsordnungen. Der Priifungsausschu8 legt die Notenverteilung offen. 
+
+   - (5) Die Mitglieder des Priifungsausschusses haben das Recht, der Abnahme von Prifungen beizuwohnen. 
+
+   - (6) Der Priifungsausschu8 ist beschlu8fahig, wenn samtliche Mitglieder schriftlich unter Einhaltung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahl der Mitglieder anwesend und stimmberechtigt ist. Er beschlieBt mit der Mehrheit der abgegebenen Stimmen in Sitzungen. Stimmenthaltung, Geheimhaltung und Stimmrechtsibertragungen sind nicht zulassig. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+
+   - (7) Der Vorsitzende beruft die Sitzungen des Priifungsausschusses ein. Er ist befugt, anstelle des Priifungsausschusses unaufschiebbare Entscheidungen allein zu treffen. Hiervon hat er dem Priifungsausschu8 unverziglich Kenntnis zu geben. Dariiber hinaus kann, soweit diese Priifungsordnung nichts anderes bestimmt, der Priifungsausschu8 dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich tibertragen.“ 
+
+- 4, 85 Abs. 2 und 3 erhalten folgende Fassung: ,(2) Zum Priifer kénnen alle Hochschullehrer sowie nach der Hochschulpriiferverordnung (BayRS 2210-1-1-6-WK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprifungen befugte, weitere Personen bestellt werden. Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplompriifung oder eine vergleichbare Priifung erfolgreich abgelegt hat und iiber eine wenigstens einjahrige Lehrerfahrung verfugt. 
+
+   - (3) Die Bestellung zu Priifern soll in geeigneter Form bekanntgegeben werden. Ein kurzfristig, vor Beginn der Priifung aus zwingenden Griinden notwendig werdender Wechsel des Prifers ist zulassig. Scheidet ein priifungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Priifungsberechtigung in der Regel bis zu einem Jahr erhalten.“ 
+
+5. Nach §5 wird angefigt: 
+
+§5a Ausschlu8B wegen personlicher Beteiligung, Verschwiegenheitspflicht 
+
+- (1) Der Ausschlu8 von der Beratung und Abstimmung im Priifungsausschu8 sowie von einer Priifungstatigkeit wegen persdnlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG. 
+
+- (2) Die Pflicht der Mitglieder des Priifungsausschusses, der Priifer, der Priifungsbeisitzer und sonstiger mit Priifungsangelegenheiten befaBter Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG.“ 
+
+2 
+
+. 
+
+- 
+
+; : 
+
+C 
+
+### 6. 86 Abs. 3 erhalt folgende Fassung: 
+
+- (3) Die Termine der Priifungen in den einzelnen Fachern und die Prifer sind spatestens zwei Wochen vor. Priifungsbeginn ortstiblich bekanntzumachen. Ein kurzfristig aus zwingenden Griinden notwendiger Wechsel des Priifers ist zulassig.“ 
+
+#### 7. 87 wird wie folgt geandert: 
+
+## a) In Absatz 1 erhalten die Satze 3 und 4 folgende Fassung: . 
+
+,, Werden die Griinde anerkannt, so setzt der PriifungsausschuB einen neuen Priifungstermin fest; dies ist in der Regel der nachstmogliche Priifungstermin, sofern die anerkannten Grunde dem nicht entgegenstehen. Bei anerkanntem Riicktritt oder Versaumnis werden die bereits vorliegenden Priifungsergebnisse angerechnet.“ 
+
+### b) Nach Absatz 3 wird angefiigt: 
+
+   - (4) Eine vor oder wahrend der Priifung eingetretene Priifungsunfahigkeit mu8 unverziiglich beim Vorsitzenden des Priifungsausschusses geltend gemacht werden. In Fallen krankheitsbedingter Priifungsunfahigkeit kann der Vorsitzende die Vorlage eines vertrauensaratlichen Attests verlangen. 
+
+   - (5) Der Kandidat kann innerhalb einer Woche verlangen, da8 die Entscheidungen nach Absatz 2 vom Priifungsausschu8 iiberprift werden. Belastende Entscheidungen sind dem Kandidaten unverziiglich mitzuteilen, zu begriinden und mit einer Rechtsbehelfsbelehrung zu versehen.“ 
+
+8. §8 erhalt folgende Fassung: 
+
+»Anrechnung von Studienzeiten, Studien- und Prifungsleistungen 
+
+- (1) Studienzeiten, Studienleistungen und Diplomvorpriifungen in demselben Studiengang an anderen Universitaten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprtifung anerkannt. Dies gilt auch fur bestandene selbstandige Diplomvorpriifungsabschnitte, sofern nicht die ganze Priifung als nichtbestanden gewertet wurde. Teile eines selbstandigen Priifungsabschnitts oder Einzelfachpriifungen einer Diplomvorpriifung werden nicht angerechnet. Als dieselben Studiengange gelten nur solche, die derselben Rahmenordnung unterliegen. 
+
+- (2) Studienzeiten, Studienleistungen und Diplomvorpriifungen in anderen Studiengangen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist. Dies gilt auch fiir bestandene selbstandige Diplomvorpriifungsabschnitte, sofern nicht die ganze Priifung als nicht bestanden gewertet wurde. Teile eines selbstandigen Priifungsabschnitts oder Einzelfachprifungen einer Diplomvorpriifung in anderen Studiengangen konnen dabei in begriindeten Einzelfallen nur angerechnet werden, wenn die Vorschriften dieser Prifungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancengleichheit nicht verletat ist. Die Anerkennung kann von Bedingungen abhangig gemacht werden, wenn zu einzelnen Priifungsfachern keine volle Gleichwertigkeit nachgewiesen ist. 
+
+- (3) Anstelle der Diplomvorpriifung konnen in begriindeten Ausnahmefallen andere Prufungsleistungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird. 
+
+- (4) Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prifungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums der Mathematik an der Universitat Erlangen-Niirnberg im wesentlichen entsprechen. Fur die Gleichwertigkeit von Studienzeiten und Studienleistungen an auslandischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Aquivalenzvereinbarungen 
+
+3 
+
+. 
+
+‘ 
+
+( 
+
+sowie Absprachen im Rahmen von Hochschulpartnerschaften maBgebend. Soweit Aquivalenzvereinbarungen nicht vorliegen, entscheidet der Priifungsausschu8. Im tbrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle fiir auslandisches Bildungswesen der Standigen Konferenz der Kultusminister der Lander gehort werden. 
+
+   - (5) Studienzeiten, Studienleistungen und Priifungsleistungen in staatlich anerkannten Fernstudien werden, soweit sie gleichwertig sind, entsprechend angerechnet bzw. anerkannt. 
+
+   - (6) Studienzeiten an Fachhochschulen und dabei erbrachte Studien- und Prifungsleistungen werden angerechnet bzw. anerkannt, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
+
+   - (7) Im Zeugnis werden die Noten angerechneter Priifungen aufgefihrt und bei der Gesamtnotenbildung beriicksichtigt, wenn sie entsprechend§13 gebildet wurden. Die ibernommenen Noten werden gekennzeichnet und die Tatsache der Ubernahme im Zeugnis vermerkt. Entspricht das Notensystem der angerechneten Prifung §13 nicht, wird in das Zeugnis ein Anerkennungsvermerk ,,bestanden“ und beim Gesamturteil der Vermerk ,,mit Erfolg abgelegt“ aufgenommen. Eine Notenwiedergabe in angerechneten Fachern, eine Notenumrechnung sowie eine Gesamtnotenbildung gema8 §13 Abs. 3 unterbleiben. In diesem Fall wird dem Zeugnis ein Auszug aus dieser Priifungsordnung beigegeben. 
+
+   - (8) Die Entscheidungen trifft der Vorsitzende des Priifungsausschusses, in den Fallen der Absatze 2 bis 6 jedoch nur auf Antrag.“ 
+
+9. Nach §8 werden angefiigt: 
+
+88a Mangel im Prifungsverfahren 
+
+- (1) Erweist sich, daB das Priifungsverfahren mit Mangeln behaftet war, die das Prifungsergebnis beeinflu®t haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, da8 von einem bestimmten oder von allen Kandidaten die Priifung oder einzelne Teile derselben wiederholt werden. Die Mangel mitissen unverziiglich beim Vorsitzenden des Priifungsausschusses oder beim Priifer geltend gemacht werden. 
+
+- (2) Sechs Monate nach Abschlu8 der Priifung diirfen von Amts wegen Anordnungen nach Absatz i nicht mehr getroffen werden. 
+
+#### §8b Sonderregelungen fiir Behinderte 
+
+- (1) Macht der Kandidat durch ein arztliches Zeugnis glaubhaft, da8 er wegen langer andauernder oder standiger kérperlicher Behinderung nicht in der Lage ist, die Prifung ganz oder teilweise in der vorgesehenen Form abzulegen, hat der Vorsitzende des Priifungsausschusses dem Kandidaten zu gestatten, gleichwertige Studien- und Priifungsleistungen in einer anderen Form zu erbringen. 
+
+- (2) Entscheidungen gema&B Absatz 1 werden nur auf schriftlichen Antrag hin getroffen. Bei Prifungen ist der Antrag der Meldung zur Priifung beizufiigen.“ 
+
+10. §9 wird wie folgt geindert: 
+
+- a) Die Uberschrift erhalt folgende Fassung: 
+
+»Meldung zur Diplomvorpriifung, Art und Umfang der Prifung“ 
+
+b) Absatz 1 erhalt folgende Fassung: 
+
+4 
+
+- 
+
+i 
+
+: 
+
+- (1) Die Meldung zur Diplomvorpriifung ist rechtzeitig an den Vorsitzenden des Prufungsausschusses zu richten und schriftlich unter Benutzung der hierftir bestimmten Vordrucke bei der Geschaftsstelle des Priifungsausschusses einzureichen. Der Meldung sind der Antrag auf Zulassung und die geforderten Unterlagen beizuftigen.“ 
+
+### c) Absatz 2, Satz 1 wird ersetzt durch: 
+
+,,Die Diplom-Vorpriifung ist mtindlich; Ausnahmen davon regelt Absatz 2 Nr. 4. Sie erstreckt sich auf die folgenden Priifungsfacher:” 
+
+- d) Absatz 2 Nr. 3 erhalt folgende Fassung: 
+
+3. Angewandte Mathematik (im Umfang einer einsemestrigen Vorlesung). Dabei kann gewahlt werden zwischen einer Priifung tiber Elementare Stochastik und einer Prifung liber Numerische Mathematik.“ 
+
+- e) In Absatz 2 Nr. 4 wird nach dem Wort ,,Physik“ eingefiigt ,,Biologie“ und nach dem Wort ,,Prifungsausschu8“ eingefiigt ,,im Einzelfall“. 
+
+- f) Am Ende von Absatz 2 Nr. 4 wird angefigt: 
+
+- ,Abweichend von der Regelung in Absatz 2 Satz 1 kann der PrifungsausschuB im Wahlfach Informatik eine schriftliche Priifung vorschreiben. Die Entscheidung dariber wird mindestens 2 Monate vor dem jeweiligen Priifungstermin durch ortsiiblichen Aushang bekanntgemacht. “ 
+
+# g) Am Ende von Absatz 4 wird angefugt: 
+
+, Als generell genehmigte Ausnahme gilt das Vorziehen von einer der vier Teilprifungen auf einen Termin, der vor Beginn der Vorlesungszeit des vierten Fachsemesters fallt, sofern die fiir diese Teilpriifung relevanten Zulassungsvoraussetzungen nach §10 Abs. 1 erfullt sind.“ 
+
+11. §10 wird wie folgt geandert: 
+
+- a) Absatze 1 und 2 erhalten folgende Fassung: 
+
+- (1) Voraussetzungen fiir die Zulassung zur Diplomvorprufung sind: 
+
+   1. die allgemeine Hochschulreife oder die einschlagige fachgebundene Hochschulreife unter Beriicksichtigung der Qualifikationsverordnung (BayRS 2210-1-1-3-K/WK) in der jeweils geltenden Fassung; 
+
+   2. ein ordnungsgemaBes Studium der Mathematik; 
+
+   3. der Nachweis einer erfolgreichen Teilnahme an den Ubungen und/oder Praktika zu den Grundvorlesungen tiber die unter §9 Abs. 2 Nrn. 1 bis 4 genannten Prifungsfacher und einer erfolgreichen Teilnahme an einem Proseminar durch Vorlage 
+
+a) eines Ubungsscheines zu den Grundvorlesungen tiber Analysis, 
+
+   - b) eines Ubungsscheines zu den Grundvorlesungen tiber Lineare Algebra und Analytische Geometrie, 
+
+   - c) je eines Ubungsscheines zu den beiden Grundvorlesungen tiber Angewandte Mathematik (siehe §9 Abs. 2 Nr. 3) 
+
+   - d) eines Leistungsnachweises zu dem Wahlfach auBerhalb der Mathematik und 
+
+   - e) eines Proseminarscheines aus einem Gebiet innerhalb der Mathematik; 
+
+      - Die Nachweise werden je nach Veranstaltung durch Erstellung von schriftlichen Arbeiten (Ubungen), durch Klausuren, Referate oder Kolloquien erbracht; die Leistungen miissen mit wenigstens ausreichend bzw. ,,mit Erfolg“ bewertet sein. Die Form des Nachweises wird zu Beginn der Lehrveranstaltung vom Lehrenden festgelegt. 
+
+- (2) Dem Antrag auf Zulassung sind beizufigen: 
+
+5 
+
+. 
+
+: 
+
+/ ; 
+
+1. eine kurze Darstellung des Bildungsganges, 
+
+2. das Studienbuch, 
+
+3. die Nachweise nach Absatz 1 Nr. 3, 
+
+4. die Angabe des Wahlfaches und der gewiinschten Priifer und 5. eine Erklarung dartiber, ob der Kandidat bereits eine Diplomvorprifung oder Diplomprifung in demselben Studiengang endgiiltig nicht bestanden hat oder ob er sich in 
+
+- einem schwebenden Priifungsverfahren befindet oder ob er unter Verlust des Priifungsanspruchs exmatrikuliert worden ist.“ 
+
+### b) In Absatz 3 werden die Worte ,,Abs. 1“ abgeandert in ,,Abs. 2“. 
+
+c) Absatz 5 entfallt 
+
+12. §11 Absatz 2 Satz 1 Halbsatz 1 erhalt folgende Fassung: Die Zulassung zur Diplomvorpriifung ist zu versagen, wenn ... “ 
+
+13. §12 wird wie folgt geandert: Absatz 4 entfallt; Absatz 5 wird Absatz 4. 
+
+## 14.. Nach § 12 wird eingefiigt: 
+
+   - »§l2a Schriftliche Prifung . 
+
+   - (1) Soweit die Priifung im Wahlfach Informatik schriftlich ist, wird sie in Form einer dreistiindigen Klausur abgehalten. 
+
+   - (2) Klausuren sind in der Regel von 2 Priifern zu bewerten. Von der Bewertung durch einen Zweitpriifer kann abgesehen werden, wenn kein zweiter Priifungsbefugter zur Verfiigung steht oder wenn die Bestellung eines zweiten Priifers den Ablauf der Prifung in unvertretbarer Weise verzogern wtirde. Der Priifungsausschu8 stellt 2u Beginn des Priifungstermins fest, ob ein zweiter Priifer vorhanden ist, oder ob durch die Benennung eines Zweitprifers mit einer unzumutbaren Verzogerung des Prufungsablaufs zu rechnen ist.” 
+
+15. §13 wird wie folgt geandert: 
+
+a) In Absatz 1 Satz 1 wird das Wort ,,mtindlichen” gestrichen. 
+
+- b) Absatz 1 Satz 3 Halbsatz 2 erhalt folgende Fassung: 
+
+die Noten 0,7, 4,3 und 5,3 sind dabei ausgeschlossen.“ 
+
+- c) Absatz 1 Satz 4 erhalt die folgende Fassung: 
+
+Bei unterschiedlicher Bewertung durch den Zweitpriifer wird die Fachnote durch Mittelung der Noten beider Priifer errechnet; dabei wird nur die erste Stelle nach dem Komma beriicksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.” 
+
+d) Absatz 3 Satz 2 entfallt; Satz 3 wird Satz 2 
+
+16. §14 Absatz 1 erhalt folgende Fassung: (1) Uberschreitet ein Student aus Griinden, die er zu vertreten hat, die Frist, innerhalb welcher gema8B §3 Abs. 2 die Meldung zur Diplomvorpriifung oder die Ablegung der Diplomvorprufung erfolgen soll, um mehr als zwei Semester, so gilt die Diplomvorprifung als abgelegt und erstmals nicht bestanden. Nach §8 angerechnete Studienzeiten sind auf die Frist anzurechnen. 
+
+6 
+
+=. ~ 
+
+Uberschreitet der Student die Frist aus Griinden, die er nicht zu vertreten hat, gewahrt der Priifungsausschu8 auf Antrag eine Nachfrist; diese wird, sofern es die anerkannten Versaumnisgriinde zulassen, zum nachsten regularen Prifungstermin bestimmt.“ 
+
+17. §15 wird wie folgt geandert: 
+
+   - a) In Absatz 1 Satz 1 wird vor dem Wort ,,wiederholt“ eingefiigt ,,cinmal“. Satz 2 entfallt; Satz 3 wird Satz 2. 
+
+   - b) Absatz 2 Satz 1 erhalt folgende Fassung: 
+
+   - ,,Die Wiederholungspriifung soll im Rahmen der Priifungstermine des jeweils folgenden Semesters stattfinden; sie mu8 spatestens innerhalb eines Jahres nach Ablauf des Prifungsverfahrens abgelegt sein.“ 
+
+   - c) Absatz 3 erhalt folgende Fassung: 
+
+   - ,(3) Eine zweite Wiederholung der Diplomvorpriifung ist nur in einem Priifungsfach moglich. Sie mu8 zum n&chsten regularen Priifungstermin erfolgen.“ 
+
+. 
+
+   - d) Als Absatz 4 wird angefiigt: 
+
+   - (4) Die Noten der Wiederholungspriifungen ersetzen die Noten der vorangegangenen Prufung.“ 
+
+18. §17 wird wie folgt geandert: 
+
+   - a) Er erhalt folgende Uberschrift: 
+
+»,Meldung zur Diplompriifung, Art und Umfang der Prifung“ 
+
+- b) Abatz 1 erhalt folgende Fassung: 
+
+- (1) Die Meldung zur Diplompriifung ist rechtzeitig an den Vorsitzenden des Priifungsausschusses zu richten und mit den geforderten Unterlagen schriftlich unter Benutzung der hierfir bestimmten Vordrucke einzureichen.“ 
+
+- c) Absatz 5 erhalt folgende Fassung: 
+
+- (5) Die drei unter Absatz 2 Nrn. 1 bis 3 genannten mundlichen Prufungen sind in einen Prifungszeitraum abzulegen; in besonderen Fallen kann der Prifungsausschu8 hiervon Ausnahmen gestatten. Die Priifung im Wahlfach kann vorher abgelegt werden, sofern die fiir diese Teilpriifung relevanten Zulassungsvoraussetzungen nach §18 Abs. 1 erfullt sind. Die Priifungen werden von verschiedenen Priifern abgenommen; hiervon kann der Prifungsausschu8 Ausnahmen gestatten.“ 
+
+19. §18 wird wie folgt geandert: 
+
+a) Absatz 1 erhalt folgende Fassung: 
+
+- (1) Voraussetzungen fiir die Zulassung zur Diplomprufung sind: 
+
+1. die allgemeine Hochschulreife oder einschlagige fachgebundene Hochschulreife unter Beriicksichtigung der Qualifikationsverordnung - QualV - (BayRS 2210-1-1-3-K/WK) in der jeweils geltenden Fassung; 
+
+2. die bestandene Diplomvorpriifung in Mathematik oder eine ihr gleichgewertete und anerkannte sonstige Prifung: 
+
+3. ein ordnungsgemaBes Studium der Mathematik; 
+
+4. die Immatrikulation als Student der Mathematik wenigstens im letzten Semester vor der Diplompriifung an der Universitat Erlangen-Niirnberg; der Prifungsausschu8 kann 
+
+7 
+
+, 
+
+. 
+
+. 
+
+      - in besonders begriindeten Einzelfallen Ausnahmen gestatten, sofern die sonstigen Bestimmungen dieser Diplompriifungsordnung und das Bayerische Hochschulgesetz nicht umgangen werden; 
+
+   5. fiinf Leistungsnachweise in Form von Ubungs-, Praktikums- bzw. Hauptseminarscheinen, und zwar vier Leistungsnachweise in Mathematik aus mindestens drei der in §17 Abs. 2 Satz 1 Nrn. 1 und 2 genannten finf Priifungsgebiete, wovon zwei Hauptseminarscheine sein missen, und ein Leistungsnachweis im Wahlfach. §10 Abs. 1 Nr. 3 Satze 
+
+      - 2 und 3 und Absatz3 gelten entsprechend." 
+
+- __ b) Absatz 2 erhalt folgende Fassung: 
+
+   - (2) Dem Antrag auf Zulassung sind beizufigen: 
+
+   1. die Unterlagen zum Nachweis der Voraussetzungen nach Absatz 1, 
+
+   2. eine kurze Darstellung des Bildungsganges, 
+
+   3. das Studienbuch, 
+
+   4. drei Exemplare der Diplomarbeit oder eine schriftliche Bestatigung des Betreuers, daB ihm die Arbeit in drei Exemplaren fristgerecht vorgelegt worden ist; 
+
+; 
+
+   5. ein Prifungsplan, in welchem der Kandidat die von ihm gewiinschten Prufungsgebiete und Priifer fiir die vier Priifungsfacher vorschlagt; 
+
+   6. eine Erklarung gema8 §10 Abs. 2 Nr. 5.“ 
+
+- c) Der bisherige Absatz 3 entfallt, Absatz 4 wird Absatz 3 
+
+. 
+
+20. §19 Absatz 6 erhalt folgende Fassung: 
+
+   - (6) Die Bearbeitungszeit fiir die Diplomarbeit darf sechs Monate nicht tiberschreiten. Thema und Aufgabenstellung der Diplomarbeit miissen so lauten, da8 die zur Bearbeitung vorgegebene Frist eingehalten werden kann. Auf begriindeten Antrag des Kandidaten kann die Bearbeitungszeit. ausnahmsweise um héchstens drei Monate verlangert werden. Weist der Kandidat durch arztliches Zeugnis nach, daB er durch Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist.“ 
+
+21. §20 wird wie folgt geandert: 
+
+- a) In Absatz 1 Satz 1 wird vor dem Punkt eingefiigt: 
+
+,,und mit einem Bewertungsvorschlag gema8 §13 Abs. 1 Satz 2 und 3 versehen.“ 
+
+/ 
+
+   - b) Absatz 1 Satz 2 entfallt; die Sétze 3 und 4 werden Satze 2 und 3. In Satz 3 (neu) wird vor dem Punkt eingeftigt ,,gegebenenfalls nach Anhdrung eines Drittgutachters“. 
+
+   - c) In Absatz 2 entfallen die Worter ,,siehe § 19 Abs. 5." 
+
+22. In §21 entfallt der bisherige Absatz 1. Die Absatze 2 baw. 3 werden zu Absatz 1 bzw. 2. Der bisherige Absatz 4 wird durch den folgenden neuen Absatz 3 ersetat: 
+
+sind die Diplomarbeit und bis auf héchstens eine Ausnahme auch die miindlichen Prifungsleistungen mit 1,0 bewertet worden und ist in keiner Teilpriifung die Note schlechter als 1,3, so erteilt der Priifungsausschu8 das Gesamturteil ,,mit Auszeichnung”.” 
+
+23. §23 wird wie folgt geandert: 
+
+- a) Absatze 1 und 2 erhalten folgende Fassung: 
+
+8 
+
+: 
+
+- (1) Uberschreitet ein Kandidat aus Griinden, die er zu vertreten hat, die Frist, innerhalb welcher gema8 §3 Abs. 3 die Meldung zur Diplompriifung oder die Ablegung der Diplompriifung erfolgen soll, um mehr als vier Semester, so gilt die Diplompriifung in dem jeweils nicht rechtzeitig abgelegten oder nicht mehr rechtzeitig ablegbaren Prifungsteil (Fachprifungen oder Diplomarbeit) als abgelegt und erstmals nicht bestanden. §14 Abs. 1 Satz 3 gilt entsprechend. 
+
+- (2) Die Diplompriifung kann in den Fachern, in denen sie nicht bestanden ist oder als nicht bestanden gilt, einmal wiederholt werden. Die freiwillige Wiederholung bestandener Fachpriifungen, der Diplomarbeit oder der gesamten Diplompriifung ist nicht zulassig. §15 Abs. 2 und 4 gelten entsprechend.“ 
+
+- b) Absatze 4 und 5 erhalten folgende Fassung: 
+
+- (4) Wird die Diplomarbeit mit ,,nicht ausreichend“ bewertet, so ist auf Antrag, der spatestens vier Wochen nach der Bekanntgabe der Note fiir die Diplomarbeit zu stellen ist, eine Wiederholung mit neuem Thema mdglich. Eine zweite Wiederholung ist ausgeschlossen. Im tibrigen gelten §§19, 20 entsprechend. 
+
+- (5) Eine zweite Wiederholung der miindlichen Priifung ist nur in bis zu zwei Fachern moglich. Sie mu8 zum nachsten regularen Priifungstermin erfolgen. Im tbrigen gelten §15 Abs. 2 Saétze 2 bis 4 und §15 Abs. 4 entsprechend.“ 
+
+§2 
+
+- (1) Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+- (2) Auf Antrag des Kandidaten kénnen Vordiplompriifungen bis zum Ende des Wintersemesters 1993/94, bei Wiederholungspriifungen dariiber hinaus noch nach den Bestimmungen des § 9 Abs. 2 Nr. 3 und des 8 10 der Diplompriifungsordnung in der Fassung vor ErlaB dieser Satzung abgelegt werden, sofern der Kandidat sein Studium vor dem Sommersemester 1992 aufgenommen hat. 
+
+9 
+
+| 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitidt Erlangen-Nirnberg vom 29. Januar 1992 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 12. Marz 1992 Nr. X/4-6/20 033. 
+
+Erlangen, den 27. Marz 1992 
+
+<!-- Start of picture text -->
+}<br>( Prof. Dr. G. Jasper )<br>Rektor<br><!-- End of picture text -->
+
+Die Satzung wurde am 27. Marz 1992 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 27. Mirz 1992 durch Anschlag in der Universitat Erlangen-Nirnberg bekanntgegeben. Tag der Bekanntmachung ist der 27. Marz 1992. 
 

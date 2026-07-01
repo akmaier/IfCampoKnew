@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20191203 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialoekonomik_20191203_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:42:04+00:00
-page_count_chars: 15464
+scraped_at: 2026-07-01T11:06:27+00:00
+page_count_chars: 15645
 ---
 
 # FPOSozialökonomik 20191203 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 15464
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/Aenderungssatzungen/FPOSozialoekonomik_20191203_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik –** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik –** 
 
-## **Vom 3. Dezember 2019** 
+# **Vom 3. Dezember 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOSozialökonomik – vom 2. September 2009, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
@@ -28,11 +28,11 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik
 
 3. Die Regelung in § 2 erhält folgende neue Fassung: 
 
-„(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Bachelorabschluss in Sozialökonomik an der FAU.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden insbesondere Abschlüsse in sozialund wirtschaftswissenschaftlichen Bachelorstudiengängen anerkannt, die insbesondere Kenntnisse in den Bereichen Sozialwissenschaften (Soziologie, Kommunikationswissenschaft, Psychologie), Wirtschaftswissenschaften (Betriebswirtschaftslehre und Volkswirtschaftslehre) und empirische Sozialforschung und Statistik vermitteln. 
+„(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Bachelorabschluss in Sozialökonomik an der FAU.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden insbesondere Abschlüsse in sozialund wirtschaftswissenschaftlichen Bachelorstudiengängen anerkannt, die insbesondere Kenntnisse in den Bereichen Sozialwissenschaften (Soziologie, Kommunikationswissenschaft, Psychologie), Wirtschaftswissenschaften (Betriebswirtschaftslehre und Volkswirtschaftslehre) und empirische Sozialforschung und Statistik vermitteln. 
 
-(2)[1] Bewerberinnen und Bewerber mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Sozialökonomik gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,50 oder besser abgeschlossen haben; für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 2Abs. 3 Satz 1 bleibt unberührt. 
+(2)<sup>1</sup> Bewerberinnen und Bewerber mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Sozialökonomik gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,50 oder besser abgeschlossen haben; für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 2Abs. 3 Satz 1 bleibt unberührt. 
 
-- (3)[1] Alle Bewerberinnen und Bewerber müssen folgende weitere Unterlagen im Sinne Nr. 2.3.3 **Anlage MPOWISO** vorlegen: 
+- (3)<sup>1</sup> Alle Bewerberinnen und Bewerber müssen folgende weitere Unterlagen im Sinne Nr. 2.3.3 **Anlage MPOWISO** vorlegen: 
 
 1. Nachweis über Englischkenntnisse mindestens auf dem Niveau „English Level B2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“, sofern der erste berufsqualifizierende Abschluss bzw. die Hochschulzugangsberechtigung nicht in englischer Sprache erworben worden 
 
@@ -60,7 +60,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 
 6. eine von der Bewerberin bzw. dem Bewerber selbstständig in deutscher oder englischer Sprache verfasste Arbeitsprobe im Umfang von 10 bis 30 Seiten, die ein sozial- oder wirtschaftswissenschaftliches Thema behandelt und einen inhaltlichen Bezug zu den Inhalten des Masterstudiengangs Sozialökonomik erkennen lässt; die Arbeit kann bereits als Haus-, Seminar-, oder Bachelorarbeit eingereicht worden sein. 
 
-(4)[1] Die nach **Nr. 2.3 MPOWISO** und Abs. 3 Satz 2 einzureichenden Unterlagen von Bewerberinnen und Bewerbern, deren Abschluss- bzw. vorläufige Note des fachspezifischen ersten berufsqualifizierenden Abschlusses nach Abs. 1 zwischen 1,51 und 2,99 beträgt, werden auf der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** nach folgenden Kriterien bewertet: 
+(4)<sup>1</sup> Die nach **Nr. 2.3 MPOWISO** und Abs. 3 Satz 2 einzureichenden Unterlagen von Bewerberinnen und Bewerbern, deren Abschluss- bzw. vorläufige Note des fachspezifischen ersten berufsqualifizierenden Abschlusses nach Abs. 1 zwischen 1,51 und 2,99 beträgt, werden auf der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** nach folgenden Kriterien bewertet: 
 
 1. Qualität des bisherigen Studienabschlusses anhand des Gesamtnotendurchschnitts nach Abs. 1; Bewertung auf Basis der Unterlagen des Erstabschlusses (max. 10 Punkte), 
 
@@ -82,7 +82,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 
 2Die Punktevergabe auf die in Satz 1 genannten Kriterien erfolgt anhand der folgenden Bewertungsschemata: 
 
-1. Tabelle 1: Bewertung der Abschlussnote nach Satz 1 Nr. 1 
+1. <u>Tabelle 1: Bewertung der Abschlussnote nach Satz 1 Nr. 1</u> 
 
 |**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 |1,5|10|2,2|7|2,9 und schlechter|0|
 |1,6|9|2,3|6|||
 
-2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwissenschaften nach Satz 1 Nr. 2 
+2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich <u>Sozialwissenschaften nach Satz 1 Nr. 2</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -106,7 +106,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 |45-49|25|
 |Ab 50|30|
 
-3. Tabelle 3: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Wirtschaftswissenschaften nach Satz 1 Nr. 3 
+3. Tabelle 3: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich <u>Wirtschaftswissenschaften nach Satz 1 Nr. 3</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -116,7 +116,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 |30-39|15|
 |Ab 40|20|
 
-4. Tabelle 4: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich empirische Sozialforschung und Statistik nach Satz 1 Nr. 4 
+4. Tabelle 4: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich <u>empirische Sozialforschung und Statistik nach Satz 1 Nr. 4</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -126,7 +126,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 |35-44|15|
 |Ab 45|20|
 
-5. Tabelle 5: Fachliche Qualifikation in einem einschlägigen statistischen Analyseprogramm (z. B. STATA, SPSS oder R) nach Satz 1 Nr. 5 
+5. Tabelle 5: Fachliche Qualifikation in einem einschlägigen statistischen Analysepro- <u>gramm (z. B. STATA, SPSS oder R) nach Satz 1 Nr. 5</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -135,23 +135,23 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 
 3 
 
-6. Tabelle 6: Auslandsaufenthalt nach Satz 1 Nr. 6 a) 
+6. Tabelle <u>6: Auslandsaufenthalt nach Satz 1 Nr. 6 a)</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
 |Nicht vorhanden|0|
 |Vorhanden|3|
 
-7. Tabelle 7: Tätigkeit als studentische oder wissenschaftliche Hilfskraft nach Satz 1 Nr. 6 b) 
+7. Tabelle 7: Tätigkeit als studentische oder wissenschaftliche Hilfskraft nach Satz 1 <u>Nr. 6 b)</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
 |Nicht vorhanden|0|
 |Vorhanden|5|
 
-3Die Gesamtpunktzahl der in der zweiten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte.[4] Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[5] Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur dritten Stufe gemäß Abs. 5 eingeladen.[6] Sätze 1 bis 5 gelten entsprechend für Bewerberinnen und Bewerber, die einen fachverwandten Abschluss nach Abs. 1 Satz 2 mit einer Abschluss- bzw. vorläufigen Note zwischen 1,0 und 2,99 vorweisen können. 
+3Die Gesamtpunktzahl der in der zweiten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte.<sup>4</sup> Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.<sup>5</sup> Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur dritten Stufe gemäß Abs. 5 eingeladen.<sup>6</sup> Sätze 1 bis 5 gelten entsprechend für Bewerberinnen und Bewerber, die einen fachverwandten Abschluss nach Abs. 1 Satz 2 mit einer Abschluss- bzw. vorläufigen Note zwischen 1,0 und 2,99 vorweisen können. 
 
-(5)[1] In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Nr. 5.3 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber, die im Bereich von 6950 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.[ 2] Die in der zweiten Stufe des Qualifikationsfeststellungsverfahrens vergebenen Punkte nach den in Absatz 4 dargelegten Kriterien werden nicht in die dritte Stufe des Qualifikationsfeststellungsverfahrens übertragen; die Begutachtung der Arbeitsprobe erfolgt unabhängig von der zweiten Stufe.[3] Jedes der Mitglieder nach Satz 1 vergibt auf das Ergebnis der Begutachtung der Arbeitsprobe maximal 10 Punkte, sodass ein Gesamtergebnis von maximal 20 Punkten erreicht werden kann.[4] Die Punktzahl der in der dritten Stufe erreichten Bewertung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach den folgenden Kriterien, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden: 
+(5)<sup>1</sup> In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Nr. 5.3 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber, die im Bereich von 6950 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.<sup>2</sup> Die in der zweiten Stufe des Qualifikationsfeststellungsverfahrens vergebenen Punkte nach den in Absatz 4 dargelegten Kriterien werden nicht in die dritte Stufe des Qualifikationsfeststellungsverfahrens übertragen; die Begutachtung der Arbeitsprobe erfolgt unabhängig von der zweiten Stufe.<sup>3</sup> Jedes der Mitglieder nach Satz 1 vergibt auf das Ergebnis der Begutachtung der Arbeitsprobe maximal 10 Punkte, sodass ein Gesamtergebnis von maximal 20 Punkten erreicht werden kann.<sup>4</sup> Die Punktzahl der in der dritten Stufe erreichten Bewertung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach den folgenden Kriterien, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden: 
 
 1. Benennung und Ausführung der Fragestellung (max. 4 Punkte) 
 
@@ -161,7 +161,7 @@ ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremd
 
 4. Anwendung wissenschaftlicher Arbeitstechniken (max. 4 Punkte). 
 
-Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7: 
+<u>Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:</u> 
 
 |**Bewertungskriterium**|**Punktzahl**<br>**(gesamt / je Prüfer 1und 2)**|
 |---|---|
@@ -171,7 +171,6 @@ Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:
 |Durchschnittlich|2 Punkte (1/1)|
 |Gut|3 Punkte (1,5/1,5)|
 |Sehr gut|4 Punkte (2/2)|
-|||
 |**2. Theoretische Überlegungen und deren Ausarbeitung**||
 |Viele Mängel|0 Punkte (0/0)|
 |Einige Mängel|1 Punkt (0,5/0,5)|
@@ -182,21 +181,18 @@ Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:
 |Gut|3 Punkte (1,5/1,5)|
 |---|---|
 |Sehr gut|4 Punkte (2/2)|
-|||
 |**3. Quantitativ-empirische Analysen und Interpretation**<br>**der Ergebnisse**||
 |Viele Mängel|0 Punkte (0/0)|
 |Einige Mängel|2 Punkte (1/1)|
 |Durchschnittlich|4 Punkte (2/2)|
 |Gut|6 Punkte (3/3)|
 |Sehr gut|8 Punkte (4/4)|
-|||
 |**4. Wissenschaftliche Arbeitstechniken **||
 |Viele Mängel|0 Punkte (0/0)|
 |Einige Mängel|1 Punkt (0,5/0,5)|
 |Durchschnittlich|2 Punkte (1/1)|
 |Gut|3 Punkte (1,5/1,5)|
 |Sehr gut|4 Punkte (2/2)|
-|||
 |**MAXIMAL ERREICHBARE PUNKTZAHL**|**20 (10/10)**|
 
 5Ab einer in der dritten Stufe erreichten Punktzahl von mindestens 11 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
@@ -215,13 +211,13 @@ Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Abweichende Modulgrößen und Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
+„<sup>2</sup> Abweichende Modulgrößen und Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
 
 5 
 
 7. In § 5 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 8. Die Anlage wird wie folgt geändert: 
 
@@ -231,9 +227,9 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
 - b) In der Erläuterung 2) unterhalb der Tabelle werden nach den Worten „gewählten Moduls und“ die Worte „der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw.“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 (lfd. Nr. 4) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 (lfd. Nr. 4) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 31. Juli 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 3. Dezember 2019. 
 

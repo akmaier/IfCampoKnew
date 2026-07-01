@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 29.01.1998"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PO-IntBWL-1998.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:58+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:49:04+00:00
+page_count_chars: 46455
 ---
 
 # PDF vom 29.01.1998
@@ -12,842 +12,351 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PO-IntBWL-1998.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+' : | | 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# Diplompriifungsordnung fiir den Studiengang Internationale Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultét der Friedrich-AlexanderUniversitat Erlangen-Niirnberg 
 
-### OCR Seite 1
+### Vom 29. Januar 1998 
 
-```
-Diplomprüfungsordnung für den Studiengang Internationale Betriebswirtschaftslehre
-an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg
-|
-Vom 29. Januar 1998
-Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs.
-I des Bayerischen Hochschulgesetzes erläßt die Friedrich-Alexander-
-Universität Erlangen-Nürnberg folgende Prüfungsordnung:
-Vorbemerkung zum Sprachgebrauch:
-Die Bezeichnung weiblicher und männlicher Personen durch die Jeweils maskuline Form in der nachstehenden Satzung bringt
-“.
-Jen Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu
-verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Ver-
-wendung von Doppelformen oder andere Kennzeichnungen für weibliche und männliche Personen (z. B. Bewerberin/Bewerber)
-wird jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbe-
-zeichnungen sind stets beide Geschlechter gemeint.
-ERSTER TEIL: ALLGEMEINE VORSCHRIFTEN
-81
-Zweck der Prüfung
-(1) Die vorliegende Prüfungsordnung regelt Zweck, Inhalt und Verfahren der Prüfungen im Diplomstudiengang „Internationale
-Betriebswirtschaftslehre“ an der Friedrich-Alexander-Universität Erlangen-Nürnberg.
-(2)Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluß des Studiums der Internationalen Betriebswirtschafts-
-lehre. Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fach-
-kenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grund-
-..
-ätzen selbständig zu arbeiten.
-(3) Durch die Diplomvorprüfung soll der Kandidat nachweisen, daß er die fachlichen Voraussetzungen, insbesondere die ein-
-|
-führenden grundlegenden Kenntnisse des Faches erworben hat, um das weitere Studium mit Erfolg fortzusetzen.
-$2
-|
-Diplomgrad
-|
-Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Internationaler Diplom-Kaufmann Univ."
-|
-(abgekürzt „Dipl.-Kfm. (Int.) Univ.‘“) bzw. „Internationale Diplom-Kauffrau Univ.“ (abgekürzt „Dipl.-Kff. (Int.) Univ.“) verliehen,
-|
-an
-Absolventinnen aufAntrag in männlicher Form.
-|
-Studiendauer und Gliederung des Studiums
-|
-(1) Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und die Ablegung der Prüfungen sowie
-die
-nach $ 27 Abs. 2 Nr. 4 vorgeschriebene berufspraktische Tätigkeit von mindestens 3 Monaten beträgt neun Semester. Das
-|
-Studium gliedert sich in ein viersemestriges Grundstudium und ein fünfsemestriges Hauptstudium. Das Studium der Internationalen
-i
-Betriebswirtschaftslehre umfaßt Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach
-f
-freier Wahl der Studenten. Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und
-Pflichtwahlfachbereich beträgt 160 SWS; davon entfallen 96 SWS aufdas Grundstudium.
-(2) Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomprüfukg abgeschlossen.
-|
-```
+Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erla®t die Friedrich-AlexanderUniversitat Erlangen-Niirnberg folgende Priifungsordnung: 
 
-### OCR Seite 2
+###### Vorbemerkung zum Sprachgebrauch: 
 
-```
-2
-54
-Prüfungsfristen
-(1) Die Diplomvorprüfung soll bis zum Ende des vierten Semesters abgelegt werden. Meldet sich ein Student aus von ihm zu
-vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomvorprüfung, daß er diese bis zum Ende des sechsten Seme-
-sters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Ende des sechsten Semesters ab, gilt diese
-Prüfung als erstmals abgelegt und nicht bestanden.
-(2) Der 2. Teil der Diplomprüfung soll bis zum Ende des Neunten Fachsemesters abgelegt werden. Der Student soll sich so
-rechtzeitig ordnungsgemäß zu den beiden Teilen der Diplomprüfung melden, daß er den 2. Teil der Diplomprüfung zu dem in Satz
-1 bestimmten Termin ablegen kann.
-(3) Die Frist für die Ablegung der Diplomprüfung bzw. Meldung zum zweiten Teil der Diplomprüfung kann um bis zu vier
-Semester überschritten werden. Überschreitet der Student diese Frist aus Gründen, die er zu vertreten hat, oder legt er eine Prü-
-fung, zu der er sich gemeldet hat, nicht innerhalb dieser Frist ab, gilt diese Prüfung als erstmals abgelegt und nicht bestanden.
-(4) Überschreitet ein Student die Fristen der Absätze 1 bis 3 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungs-
-ausschuß auf Antrag eine Nachfrist.
-(5) Die Frist nach Absatz 3 Satz 1 verlängert sich um die nach dieser Prüfungsordnung für die Wiederholung der Diplomvor-
-prüfung benötigten Semester.
-(6) Die Diplomvorprüfung und die Diplomprüfung können vor Ablaufdes für die Meldung festgelegten Termins abgelegt wer-
-den, sofern die für die Zulassung zur Prüfung erforderlichen Leistungen nachgewiesen sind.
-\
-85
-Prüfungsausschuß
-(1) Dem Prüfungsausschuß obliegt die Vorbereitung und Durchführung der Vor- und Diplomprüfungen. Der Prüfungsausschuß
-achtet darauf, daß die Bestimmungen der Prüfungsordnung eingehalten werden. Er berichtet regelmäßig dem Fachbereichsrat über
-die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Anderung der Studien- und Prü-
-fungsordnungen.
-(2) Die acht Mitglieder des Prüfungsausschusses sind:
-a)
-der Vorsitzende aus dem Kreis der Professoren;
-b)
-der Dekan als stellvertretender Vorsitzender:
-c) je ein Professor der Studiengänge "Betriebswirtschaftslehre, Volkswirtschaftslehre, Wirtschaftspädagogik, Sozialwissenschaften
-und Wirtschaftsinformatik";
-d) | weiteres prüfungsberechtigtes Mitglied der Fakultät aus dem Kreis der entpflichteten Professoren und Professoren im Ruhe-
-stand.
-Professoren im Sinne der Buchstaben a und c sind die in Art. 2 Abs. INr. ] Bayer. Hochschullehrergesetz genannten Professoren.
-Der Vorsitzende wird vom Fachbereichsrat, die Mitglieder nach Buchst. c und d werden auf Vorschlag von Vertretern ihrer Grup-
-pe vom Fachbereichsrat gewählt.
-(3) Die Amtszeit der Mitglieder nach Absatz 2 Buchst. a, c und d beträgt zwei Jahre. Eine Wiederbestellung ist möglich.
-(4) Der Prüfungsausschuß ist beschlußfähig, wenn sämtliche Mitglieder mindestens drei Tage vorher geladen sind und die
-Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.
-Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. Bei Stimmengleichheit gibt die Stimme
-Jes Vorsitzenden den Ausschlag.
-(5) Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. Er ist befugt, anstelle des Prüfungsausschusses unauf-
-schiebbare Entscheidungen allein zu treffen. Hiervon hat er dem Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber hin-
-aus kann der Prüfungsausschuß dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen.
-Prüfer
-|
-(1)
-Der Prüfungsausschuß bestellt die Prüfer,
-|
-(2) Zum Prüfer können bestellt werden:
-a) Professoren im Sinne des Art. 2 Abs. 1 Nr. I Bayer. Hochschullehrergesetz
-|
-b) entpflichtete Professoren und Professoren im Ruhestand
-c) Privatdozenten und apl. Professoren.
-|
-Ausschluß wegen persönlicher Beteiligung, Verschwiegenheitspflicht
-|
-(1) Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie von einer Prüfungstätigkeit wegen persönli-
-|
-cher
-Beteiligung bestimmt sich nach Art. 50 BayHSchG.
-|
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegen-
-heiten befaßter Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG.
-|
-```
+*. Die Bezeichnung weiblicher und mannlicher Personen durch die Jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ibrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die fiir Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen fiir weibliche und mannliche Personen (z. B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Ubersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint. 
 
-### OCR Seite 3
+##### ERSTER TEIL: ALLGEMEINE VORSCHRIFTEN 
 
-```
-3
-88
-Bekanntgabe der Prüfungstermine
-(1) Die Prüfungen werden in der Regel einmal innerhalb eines jeden Semesters abgehalten.
-(2) Der Prüfungsbeginn sowie die Meldefrist für die Bewerber werden spätestens einen Monat vorher durch Aushang bekannt-
-gegeben.
-(3) Die Termine der Prüfungen in den einzelnen Fächern und die Prüfungsräume werden spätestens zwei Wochen vorher durch
-Aushang bekanntgegeben. Die zur Prüfung zugelassenen Kandidaten sind unter Hinweis auf den Aushang spätestens eine Woche
-vor dem Termin der Prüfung schriftlich zu laden.
-89
-Anrechnung von Studienzeiten und Studienleistungen
-(1) Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen,
-soweit ein ordnungsgemäßes Fachstudium nachgewiesen wird; dabei erbrachte Studienleistung werden bei Gleichwertigkeit ange-
-rechnet. Auf Antrag werden Studiensemester in verwandten Studiengängen bei inhaltlicher Gleichwertigkeit und die dabei erbrach-
-ten Studienleistungen bei Gleichwertigkeit angerechnet.
-(2) Einschlägige Studiensemester an wissenschaftlichen Hochschulen außerhalb des Geltungsbereiches des Grundgesetzes und
-die
-dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht. Für die Feststellung der
-Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz
-und der Hochschulrektorenkonferenz gebilligten Aquivalenzvereinbarungen maßgebend. Bei Zweifel an der Gleichwertigkeit kann
-die Zentralstelle für das ausländische Bildungswesen gehört werden.
-(3) In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene Leistungsnachweise werden, soweit sie
-inhaltlich gleichwertig sind, als Studienleistungen sowie auf die Studienzeit angerechnet. Art. 81 Abs. 3 Satz 5 BayHSchG ist zu
-beachten. Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschlüsse der Kultusministerkonferenz und der
-Hochschulrektorenkonferenz zu berücksichtigen.
-(4) Prüfungsleistungen, Studienleistungen und Studienzeiten aus einem Fachhochschulstudium werden auf Antrag des Studen-
-ten angerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen.
-810
-Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß
-(I) Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne
-triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.
-(2) Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschußvorsitzenden unver-
-züglich schriftlich angezeigt und glaubhaft gemacht werden. Dieser kann bei Krankheit die Vorlage eines ärztlichen Attests verlan-
-gen. Erkennt der Prüfungsausschuß die Gründe an, so ist die Prüfung unter Beachtung des Absatzes 3 nachzuholen.
-(3) Bei anerkanntem Rücktritt oder Versäumnis von schriftlichen Prüfungen eines Prüfungstermins gilt folgendes:
-Die Prüfung gilt als nicht abgelegt, wenn der Kandidat in nicht mehr als der Hälfte der Klausuren die schriftlichen Prüfungen
-des
-Prüfungstermins abgelegt hat; die Prüfung ist im nächsten regulären Prüfungstermin nachzuholen. Die Prüfung gilt als abge-
-legt, wenn der Kandidat in mehr als der Hälfte der Klausuren die schriftlichen Prüfungen des Prüfungstermins abgelegt hat; die
-?rüfung ist im nächsten regulären Prüfungstermin fortzusetzen; die Prüfungsergebnisse in den bereits abgelegten Fächern werden
-angerechnet. Bei Anerkennung der Gründe für Rücktritt oder Versäumnis der mündlichen Diplomprüfung oder Teilen hiervon
-'
-werden die Prüfungsergebnisse in den bereits abgelegten Fächern angerechnet. Die versäumten Prüfungsleistungen sind - sofern
-|
-die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluß an die regulären Prüfungen nachzuholen. Den
-|
-neuen Prüfungstermin setzt der Prüfungsausschußvorsitzende fest.
-|
-(4) Versucht der Kandidat das Ergebnis der Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel
-|
-zu
-beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. Dasselbe gilt, wenn der Kandidat
-|
-nach Ausgabe der Prüfungsarbeiten im Besitz nicht zugelassener Hilfsmittel ist und nicht nachweist, daß der Besitz weder auf
-|
-Vorsatz noch auf Fahrlässigkeit beruht. Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweili-
-|
-gen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die be-
-|
-treffende Prüfungsleistung als mit "nicht ausreichend” (5,0) bewertet.
-|
-(5) Ist die Täuschung oder die Störung des ordnungsgemäßen Ablaufs der Prüfung nach Absatz 4 so schwerwiegend, daß der
-Ausschluß von der weiteren Prüfung gerechtfertigt erscheint, so beschließt der Prüfungsausschuß den Ausschluß von der weiteren
-|
-Prüfung.
-|
-su
-|
-Mängel
-im Prüfungsverfahren
-|
-(1)
-Erweist sich, daß das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflussen konnten, ist auf
-Antrag eines Kandidaten oder von Amts wegen anzuordnen, daß von einem bestimmten oder von allen Kandidaten die Prüfung
-!
-oder einzelne Teile derselben wiederholt werden.
-f
-```
+§1 Zweck der Priifung 
 
-### OCR Seite 4
+(1) Die vorliegende Priifungsordnung regelt Zweck, Inhalt und Verfahren der Priifungen im Diplomstudiengang ,,Internationale Betriebswirtschaftslehre“ an der Friedrich-Alexander-Universitit Erlangen-Nitmberg. 
 
-```
-4
-(2) Mängel des Prüfungsverfahrens oder eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit müssen unver-
-züglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer oder beim Aufsichtsführenden geltend gemacht werden.
-(3) Sechs Monate nach Abschluß der Prüfung dürfen von Amts wegen Anordnungen nach Absatz | nicht mehr getroffen wer-
-den.
-812
-Schriftliche Prüfungen
-(1) In Klausurarbeiten soll der Kandidat nachweisen, daß er in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit
-den Methoden des Faches erkennen und Wege zur Lösung finden kann.
-(2) Die Benotung der Klausurarbeit erfolgt in der Regel durch zwei Prüfer; einer von ihnen soll der Aufgabensteller sein. Bei
-unterschiedlicher Beurteilung werden die Noten gemittelt. Von der Beurteilung durch einen Zweitprüfer kann nur abgesehen wer-
-den, wenn kein zweiter Prüfer zur Verfügung steht oder die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertret-
-barer Weise verzögern würde. Der Prüfungsausschuß stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vor-
-handen ist oder ob durch Benennung eines Zweitprüfers eine unzumutbare Verzögerung eintreten wird.
-813
-Mündliche Prüfung
-(1) Die mündliche Prüfung wird als Einzelprüfung oder in Gruppen mit höchstens vier Kandidaten durchgeführt.
-(2) Zur mündlichen Prüfung ist ein Beisitzer zuzuziehen. Der Beisitzer muß eine Diplomprüfung oder vergleichbare Prüfungen
-bestanden haben und soll hauptberuflicher wissenschaftlicher Mitarbeiter sein.
-(3) Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prü-
-fung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vor-
-kommnisse. Das Protokoll wird vom Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet. Die Wieder-
-gabe von Prüfungsfragen und Antworten ist nicht erforderlich. Das Protokoll ist zu den Prüfungsunterlagen zu nehmen.
-(4) Bei mündlichen Prüfungen werden Studenten, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen
-Möglichkeiten als Zuhörer zugelassen. AufVerlangen eines Kandidaten werden Zuhörer ausgeschlossen.
-(5) Die Beratung und die Bekanntgabe des Prüfungsergebnisses erfolgen unter Ausschluß der Öffentlichkeit.
-$14
-Bewertung
-der Prüfungsleistungen, Bildung der Fachnoten und der Prüfungsgesamtnote
-(1) Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate
-ausgedrückt:
-1,0 1,3
-= sehr gut
-= eine hervorragende Leistung;
-1,7 2,0 2,3 = gut
-= eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt;
-2,7 3,0 3,3 = befriedigend
-= eine Leistung, die durchschnittlichen Anforderungen entspricht;
-3,7 4,0
-= ausreichend
-= eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt;
-4,3 4,7 5,0 =nicht ausreichend = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt.
-(2) Besteht eine Fachprüfung aus mehreren Prüfungs- und Studienleistungen, so errechnet sich die Fachnote aus dem Durch-
-schnitt der Noten, soweit keine Gewichtung vorgeschrieben ist. Bei der Bildung der Fachnote wird die erste Dezimalstelle hinter
-dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.
-Im Zeugnis tragen die Fachnoten folgende Bezeichnungen:
-Bei einem Durchschnitt bis 1,5
-= sehr gut
-bei einem Durchschnitt von 1,6 bis 2,5
-= gut
-bei
-einem Durchschnitt von 2,6 bis 3,5
-= befriedigend
-bei einem Durchschnitt von 3,6 bis 4,0
-= ausreichend
-bei einem Durchschnitt über 4,0
-= nicht ausreichend.
-(3) Bei der bestandenen Diplomvorprüfung wird eine Prüfungsgesamtnote als Durchschnitt der nicht auf- oder abgerundeten
-|
-Fachnoten errechnet, Bei der bestandenen Diplomprüfung wird eine Prüfungsgesamtnote als Durchschnitt der nicht auf- oder abge-
-|
-rundeten Fachnoten und der doppelt gewichteten Note der Diplomarbeit errechnet.
-|
-Die Gesamtnote einer bestandenen Diplomvorprüfung oder Diplomprüfung lautet:
-|
-Bei einem Durchschnitt bis 1,5
-= sehr gut
-|
-bei einem Durchschnitt von 1,6 bis 2,5
-= sut
-|
-bei einem Durchschnitt von 2,6 bis 3,5
-= befriedigend
-bei
-einem Durchschnitt von 3,6 bis 4,0
-= ausreichend.
-|
-```
+(2)Die Diplompriifung bildet den ersten berufsqualifizierenden Abschlu8 des Studiums der Internationalen Betriebswirtschaftslehre. Durch sie soll festgestellt werden, ob der Kandidat die fiir den Ubergang in die Berufspraxis notwendigen griindlichen Fachkenntnisse erworben hat, die Zusammenhiinge seines Faches tiberblickt und die Féhigkeit besitzt, nach wissenschaftlichen Grund. atzen selbstandig zu arbeiten. (3) Durch die Diplomvorpriifung soll der Kandidat nachweisen, daf er die fachlichen Voraussetzungen, insbesondere die einflihrenden grundlegenden Kenntnisse des Faches erworben hat, um das weitere Studium mit Erfolg fortzusetzen. 
 
-### OCR Seite 5
+§2 Aufgrund Diplomgrad (abgekirzt der erfolgreich abgelegten Diplompriifung wird der Diplomgrad "Internationaler Diplom-Kaufmann Univ." an ,,Dipl.-Kfm. (Int.) Univ.‘) bzw. ,,Internationale Diplom-Kauffrau Univ.“ (abgekiirzt ,,.Dip].-Kff. (Int.) Univ.‘) verliehen, Absolventinnen auf Antrag in mannlicher Form. 
 
-```
-5
-815
-Ungültigkeit der Prüfung
-(1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt,
-so kann der Prüfungsausschuß nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für
-nicht bestanden erklären.
-(2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne daß der Kandidat hierüber täuschen
-wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen
-der Prüfungen geheilt. Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuß unter
-Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte.
-(3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben.
-(4) Das unrichtige Prüfungszeugnis wird eingezogen und gegebenenfalls ein neues erteilt. Eine Entscheidung nach Absatz 1 und
-Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen.
-(5) Die Entziehung des Diplomgrades richtet sich nach den gesetzlichen Bestimmungen.
-$16
-Einsicht in die Prüfungsakten
-(1) Nach Abschluß des Prüfungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Prüfungsarbeiten
-und die darauf bezogenen Gutachten der Prüfer gewährt.
-(2) Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschus-
-ses zu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) (Bay-RS 2010-1-I) gilt entsprechend. Der Vorsit-
-zende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme.
-817
-Bescheinigung über eine nicht bestandene Prüfung
-Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht bestanden, wird ihm auf Antrag und gegen
-Vorlage der entsprechenden Nachweise sowie der Exmatrikulationsbescheinigung eine schriftliche Bescheinigung ausgestellt, aus
-der sich das Nichtbestehen der Prüfung, die in den einzelnen Prüfungsfächern erzielten Noten und die noch fehlenden Prüfungslei-
-stungen ergeben.
-818
-Prüfungsvergünstigungen für Schwerbehinderte
-(1) Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise Rücksicht zu nehmen. Insbesondere ist
-schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlängerung der Bearbeitungszeit für schriftli-
-che Prüfungsteile um bis zu einem Viertel zu gewähren.
-(2) Prüfungsvergünstigungen gemäß Absatz I werden nur auf schriftlichen Antrag hin gewährt. Der Antrag ist der Meldung zur
-Prüfung beizufügen.
-ZWEITER TEIL: BESONDERE VORSCHRIFTEN
-Erster Abschnitt: Diplomvorprüfung
-$ 19
-|
-Zulassungsvoraussetzungen, Zulassungsverfahren
-|
-(1) Voraussetzungen für die Zulassung zur Diplomvorprüfung sind:
-I.
-Allgemeine Hochschulreife oder einschlägige fachgebundene Hochschulreife unter Berücksichtigung der Qualifikationsverord-
-|
-nung (BayRS 2210-1-1-3-K/WK) in derjeweils geltenden Fassung
-|
-2.
-Immatrikulation als Student an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg
-|
-3. Nachweis über die erfolgreiche Teilnahme an den propädeutischen Lehrveranstaltungen
-a)
-Grundzüge des betrieblichen Rechnungswesens
-|
-b)
-Mathematik für Wirtschaftswissenschaftler
-|
-c)
-Einführung in die betriebliche Informationsverarbeitung
-|
-Der
-Versuch zum Erwerb der Leistungsnachweise kann innerhalb der Fristen des $ 4 Abs. 1 zu den regulären Terminen zweimal
-|
-wiederholt werden.
-|
-|
-|
-```
+| | | | 
 
-### OCR Seite 6
+###### Studiendauer und Gliederung des Studiums 
 
-```
-6
-(2) Dem Antrag auf Zulassung sind beizufügen:
-I. Nachweis der Hochschulreife (bei der ersten Meldung zur Prüfung),
-2. Studienbuch,
-3. Nachweise nach Absatz | Satz 1 Nr. 3 bei der Meldung zum letzten Abschnitt der Diplomvorprüfung,
-4. eine Erklärung darüber, ob der Kandidat eine der in Absatz 4 Nr. 3 genannten Prüfungen nicht bestanden hat, ob er sich in einem
-schwebenden Prüfungsverfahren befindet, oder ob er unter Verlust des Prüfungsanspruches exmatrikuliert worden ist,
-5.
-die Angabe der Fächer, auf die sich die Prüfung beziehen soll,
-6. Nachweis gemäß Absatz 6 bei der Zulassung zu dem Abschnitt der Diplomvorprüfung, der das Teilfach Grundzüge der Be-
-triebswirtschaftslehre II umfaßt..
-(3) Ist ein Bewerber ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu
-erbringen, so kann der Vorsitzende des Prüfungsausschusses gestatten, die Nachweise in anderer Art zu führen.
-(4) Die Zulassung zur Diplomvorprüfung ist zu versagen, wenn
-l.
-der Bewerber die nach Absatz I vorgeschriebenen Zulassungsvoraussetzungen nicht erfüllt, oder
-2. die Unterlagen unvollständig sind, oder
-3. der Bewerber die Diplomvorprüfung im Studiengang Internationale Betriebswirtschaftslehre oder in einem verwandten im
-Grundstudium gleichen Studiengang oder die Diplomprüfung im Studiengang Betriebswirtschaftslehre oder Volkswirtschaftsleh-
-re endgültig nicht bestanden hat. Verwandte, im Grundstudium gleiche Studiengänge sind Betriebswirtschaftslehre, Volkswirt-
-schaftslehre und Wirtschaftspädagogik.
-+. Der Bewerber unter Verlust des Prüfungsanspruchs exmatrikuliert worden ist.
-(5) Über die Zulassung entscheidet der Vorsitzende des Prüfungsausschusses. Die Entscheidung ist dem Bewerber spätestens
-eine Woche vor Prüfungsbeginn schriftlich mitzuteilen. Der zur Prüfung zugelassene Kandidat kann die Anmeldung zur Prüfung
-ohne Angabe von Gründen schriftlich bis zum 21. Tag vor dem allgemeinen Beginn der Prüfung widerrufen oder bei abschnittwei-
-ser Ablegung im Rahmen der zulässigen Wahlmöglichkeiten beschränken; die Zahl der zulässigen Abschnitte darf dabei nicht
-überschritten werden; Art. 81 Abs. 4 Satz 2 BayHSchG bleibt unberührt.
-(6) Die Zulassung zur Diplomvorprüfung im Teilfach Grundzüge der Betriebswirtschaftslehre II setzt das Bestehen der Di-
-plomvorprüfung im Teilfach Grundzüge der Betriebswirtschaftslehre I voraus.
-820
-Meldung zur Diplomvorprüfung
-(1) Der Kandidat hat sich innerhalb der durch Aushang bekanntgegebenen Meldefrist (vgl. $ 8 Abs. 2) beim Prüfungsamt zur
-Prüfung zu melden.
-(2) Die Meldung zum letzten Abschnitt der Diplomvorprüfung soll im vierten Semester erfolgen.
-821
-Gliederung der Diplomvorprüfung
-(1) Die Diplomvorprüfung kann in bis zu vier Abschnitten abgelegt werden.
-(2) Die Verteilung der Prüfungsfächer aufdie Abschnitte steht dem Kandidaten im Rahmen der Studienordnung frei.
-(3) Die Prüfungen eines Abschnittes sollen innerhalb von 14 Tagen abgelegt werden.
-$22
-|
-Umfang
-der Diplomvorprüfung
-|
-(1) Die Diplomvorprüfung umfaßt folgende Fächer:
-l.Grundzüge der Betriebswirtschaftslehre mit den Teilfächern
-a) Grundzüge der Betriebswirtschaftslehre I und
-|
-b) Grundzüge der Betriebswirtschaftslehre II
-|
-2.Grundzüge der Volkswirtschaftslehre mit den Teilfächern
-|
-a) Grundzüge der Volkswirtschaftslehre I und
-|
-b) Grundzüge der Volkswirtschaftslehre II
-|
-3.Die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts
-|
-4.Grundzüge der Statistik.
-5. Wirtschaftsfremdsprachen
-|
-a) Wirtschaftsfremdsprache 1
-b) Wirtschaftsfremdsprache 2
-|
-|
-i
-```
+die (1) Die Regelstudienzeit einschlieBlich der Zeit ftir die Anfertigung der Diplomarbeit und die Ablegung der Priifungen sowie nach § 27 Abs. 2 Nr. 4 vorgeschriebene berufspraktische Tatigkeit von mindestens 3 Monaten betragt neun Semester. Das Studium gliedert sich in ein viersemestriges Grundstudium und ein fiinfsemestriges Hauptstudium. Das Studium der Internationalen Betriebswirtschaftslehre umfaBt Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lebrveranstaltungen nach freier Wahl der Studenten. Der Héchstumfang der zum planmaBigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und Pflichtwahlfachbereich betragt 160 SWS; davon entfallen 96 SWS auf das Grundstudium. 
 
-### OCR Seite 7
+(2) Das Grundstudium wird mit der Diplomvorpriifung, das Hauptstudium mit der Diplompriifu%g abgeschlossen. 
 
-```
-7
-(2) Die Vorprüfung wird schriftlich abgelegt.
-Es werden
-im Teilfach Grundzüge der Betriebswirtschaftslehre I eine einstündige Klausur,
-im Teilfach Grundzüge der Betriebswirtschaftslehre II eine dreistündigeKlausur,
-in jedem der Teilfächer Volkswirtschaftslehre I und II eine zweistündige Klausur,
-im Fach die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts eine fünfstündige Klausur,
-im Fach Grundzüge der Statistik eine vierstündige Klausur
-im Fach Wirtschaftsfremdsprachen je eine zweistündige Klausur in den beiden zu wählenden Fremdsprachen geschrieben. Die
-beiden Klausuren in den Wirtschaftsfremdsprachen werden durch eine 15minütige mündliche Prüfung zur Feststellung des Hör-
-verstehens und des mündlichen Ausdrucks ergänzt. Die Note im Fach Wirtschaftsfremdsprachen setzt sich aus den vier Teilleistun-
-gen zu gleichen Teilen zusammen.
-(3) Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Grundstudiums gemäß Studienordnung.
-(4) Die Fachnote im Fach Grundzüge der Betriebswirtschaftsiehre wird zu einem Viertel aus der Note im Teilfach Grundzüge
-der Betriebswirtschaftslehre I und zu drei Vierten aus der Note im Teilfach Grundzüge der Betriebswirtschaftslehre II errechnet.
-823
-Anerkennung von Diplomvorprüfungen
-(1) Vorprüfungen und einzelne Vorprüfungsleistungen, die der Kandidat an einer wissenschaftlichen Hochschule im Geltungs-
-bereich des Grundgesetzes in demselben oder einem verwandten, im Grundstudium gleichen Studiengang bestanden hat, werden
-bei Gleichwertigkeit angerechnet, soweit sie sich auf die Fächer nach $ 22 Abs. I beziehen. Hat der Kandidat in einem anderen
-wirtschaftswissenschaftlichen Diplomstudiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes
-die Diplomprüfung erfolgreich abgelegt, wird die Vorprüfung erlassen.
-(2) Prüfungsleistungen, die der Kandidat in anderen Studiengängen bestanden hat, können auf Antrag angerechnet werden,
-wenn sie den Bedingungen dieser Prüfungsordnung entsprechen und daher gleichwertig sind.
-(3) Prüfungsleistungen, die der Kandidat an einer ausländischen Hochschule bestanden hat, können auf Antrag angerechnet
-werden, wenn sie den Bedingungen dieser Prüfungsordnung entsprechen und daher gleichwertig sind.
-(4) Eine Anrechnung nach den Absätzen 1 bis 3 kann nur erfolgen, wenn alle Teilleistungen des anrechenbaren Prüfungsfaches
-nachgewiesen werden.
-(5) Der Kandidat hat entsprechende Nachweise an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Er-
-langen-Nürnberg beim Prüfungsamt vorzulegen. Dies soll zu Beginn seines Studiums geschehen.
-(6) Hat der Kandidat die Abschlußprüfung im Studiengang Betriebswirtschaft an einer bayerischen Fachhochschule vor in der
-Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil "sehr gut" bestanden abgelegt, so wird ihm auf Antrag die Di-
-plomvorprüfung mit Ausnahme der Prüfung im Fach Wirtschafisfremdsprachen mit der Maßgabe erlassen, daß er bis zum Zweiten
-Teil der Diplomprüfung den Nachweis über ausreichende Kenntnisse im Diplomvorprüfungsfach "Grundzüge der Volkswirt-
-schaftslehre" und in den Wirtschaftsfremdsprachen erbringt.
-(7) Die Entscheidungen nach den Absätzen 2, 3 und 6 trifft der Vorsitzende des Prüfungsausschusses.
-824
-Bestehen der Diplomvorprüfung
-(1) Die Diplomvorprüfung ist bestanden, wenn sämtliche Klausuren in den Fächern gemäß $ 22 Abs. I Nr. 1-4 mit wenigstens
-„ausreichend“ (4,0) bewertet sind und im Fach Wirtschaftsfremdsprachen die Gesamtnote wenigstens „ausreichend“ (4,0) erzielt
-|
-wurde.
-|
-(2) $4 Abs. 1 und $ 10 bleiben unberührt.
-|
-25
-|
-Wiederholung
-der Diplomvorprüfung
-|
-(1)
-Ist die Diplomvorprüfung nicht bestanden oder ist $ 10 Absatz I oder $ 4 Absatz | anzuwenden, kann sie in den Fächern
-|
-oder
-Teilfächern, die mit "nicht ausreichend" bewertet wurde, wiederholt werden.
-|
-(2) Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung ist nicht zulässig.
-(3) Die Wiederholungsprüfung muß innerhalb eines Jahres nach Mitteilung über das Nichtbestehen abgelegt werden. Diese
-|
-Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versäumnis der Frist gilt die Diplomvorprüfung als
-|
-endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuß wegen besonderer von ihm nicht zu vertretender
-|
-Gründe eine Nachfrist gewährt wird.
-|
-```
+2 §4 Priifungsfristen 
 
-### OCR Seite 8
+| | | 
 
-```
-8
-(4) Eine zweite Wiederholung der Diplomvorprüfung ist nur in einem Prüfungsfach gemäß $ 22 Abs. 1 Nrn. 3, 4 oder 5 oder in
-bis
-zu zwei Prüfungsteilfächern gemäß $ 22 Abs. 1 Nrn. I und 2 möglich. Sie muß zum nächsten regulären Prüfungstermin abge-
-legt werden. Absatz 3 Sätze 2 und 3 gelten entsprechend.
-(5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung.
-826
-Prüfungszeugnis
-Über die bestandene Vorprüfung wird ein Zeugnis ausgestellt, das die in den einzelnen Prüfungsfächern erzielten Noten und die
-Prüfungsgesamtnote enthält und vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen ist. Die Noten angerechneter Fächer
-(vgl. $ 23) werden nicht in das Zeugnis aufgenommen. In diesem Fall wird ins Zeugnis nur ein Anerkennungsvermerk auf-
-genommen.
-Zweiter Abschnitt: Diplomprüfung
-827
-Zulassungsvoraussetzungen, Zulassungsverfahren
-(1) Voraussetzungen für die Zulassung zum ersten Teil der Diplomprüfung (vgl. $ 29) sind:
-1. Hochschulreife gemäß $19 Abs. I Nr. I
-“
-2. bestandene Diplomvorprüfung
-3. Immatrikulation als Student an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg.
-(2) Voraussetzungen für die Zulassung zum zweiten Teil der Diplomprüfung (vgl. $ 29) sind zusätzlich:
-1. ein ordnungsgemäßes Studium der Internationalen Betriebswirtschaftslehre
-2. zwei Leistungsscheine von insgesamt drei aus dem Bereich der Internationalen Speziellen Betriebswirtschaftslehre, des Europa-
-und Internationalen Rechts und der Auslandswissenschaften. Der Versuch zum Erwerb der Leistungsscheine kann innerhalb der
-Fristen nach $ 4 Abs. 3 zu den regulären Terminen mehrmals wiederholt werden.
-3. der Nachweis über das erfolgreich abgeschlossene Auslandsstudium.
-Im Hauptstudium ist ein einjähriger Studienaufenthalt an einer ausländischen Universität, in aller Regel an einer Partneruniversi-
-tät, Pflicht; in dieser Zeit muß wenigstens eine Prüfung in einem Fach gem. $ 31 Abs. 1 abgelegt werden, die anerkannt werden
-kann. Bei Vorliegen vertraglicher, die Gleichwertigkeit sichernder Regelungen mit ausländischen Partneruniversitäten werden
-bis zu drei absolvierte Prüfungsfächer oder zwei Prüfungsfächer und die Diplomarbeit als Bestandteile der Diplomprüfung aner-
-kannt. Im übrigen werden bis zu zwei Prüfungsfächer anerkannt, soweit Gleichwertigkeit festgestellt ist. Über die Anerkennung
-der im Ausland erbrachten Prüfungsleistungen entscheidet der Vorsitzende des Prüfungsausschusses im Benehmen mit dem je-
-weiligen Fachvertreter. Der Antrag auf Anerkennung gem. Satz 2 oder 3 soll frühzeitig, möglichst vor Antritt des Studienaufent-
-haltes gestellt werden.
-4. mindestens die Note "ausreichend" in der Diplomarbeit
-5. eine für das Ausbildungsziel geeignete berufspraktische Tätigkeit in der Wirtschaft oder Wirtschaftsverwaltung von 3 Monaten,
-die vorzugsweise im Ausland abzuleisten
-ist.
-(3) Dem Antrag auf Zulassung zum ersten Teil der Diplomprüfung sind folgende Unterlagen beizufügen, soweit sie dem Prü-
-fungsamt nicht bereits vorliegen:
-l. Nachweis der Hochschulreife
-2. Zeugnis über die bestandene Vorprüfung
-3. Studienbuch
-4. eine Erklärung nach $ 19 Abs. 2 Nr. 4.
-(4) Dem Antrag aufZulassung zum zweiten Teil der Diplomprüfung sind zusätzlich beizufügen:
-1.
-Ein vom Kandidaten verfaßter Lebenslauf unter besonderer Berücksichtigung des Bildungsganges
-2. Leistungsnachweiseje Prüfungsfach gemäß Absatz 2 Nr. 2 und 3
-|
-3.
-die Angabe der Fächer nach $ 31 Abs. 1, aufdie sich die Prüfung beziehen soll,
-|
-4.
-gegebenenfalls die Angabe von Zusatzfächern gemäß $ 34
-|
-5. Nachweis der praktischen Tätigkeit gemäß Absatz 2 Nr. 5.
-|
-(5) Im übrigen gilt $ 19 Abs. 3.
-|
-(6) Die Zulassung zur Diplomprüfung ist zu versagen, wenn
-|
-I.
-der Bewerber die nach Absatz | und 2 vorgeschriebenen Zulassungsvoraussetzungen nicht erfüllt oder
-|
-2. die Unterlagen unvollständig sind oder
-3. der Bewerber eine der in $ 19 Abs. 4 Nr. 3 genannten Prüfungen endgültig nicht bestanden hat oder unter Verlust des Prüfungs-
-|
-anspruches exmatrikuliert worden ist.
-(7)8 19 Abs. 5 gilt entsprechend
-|
-!
-;
-```
+(1) Die Diplomvorpriifung soll bis zam Ende des vierten Semesters abgelegt werden. Meldet sich ein Student aus von ihm zu vertretenden Griinden nicht so rechtzeitig ordnungsgema8 zur Diplomvorpriifung, da8 er diese bis zum Ende des sechsten Semesters abgelegt hat, oder legt er die Priifung, zu der er sich gemeldet hat, nicht bis zum Ende des sechsten Semesters ab, gilt diese Priifung als erstmals abgelegt und nicht bestanden. (2) Der 2. Teil der Diplompriifung soll bis zum Ende des Neunten Fachsemesters abgelegt werden. Der Student soll sich so rechtzeitig ordnungsgem4f zu den beiden Teilen der Diplompriifung melden, da8 er den 2. Teil der Diplompriifung zu dem in Satz 1 bestimmten Termin ablegen kann. (3) Die Frist fiir die Ablegung der Diplompriifung bzw. Meldung zum zweiten Teil der Diplomprtifung kann um bis zu vier Semester tiberschritten werden. Uberschreitet der Student diese Frist aus Griinden, die er zu vertreten hat, oder legt er eine Pritfung, zu der er sich gemeldet hat, nicht innerhalb dieser Frist ab, gilt diese Priifung als erstmals abgelegt und nicht bestanden. ausschuB(4) Uberschreitetauf Antrag eineein StudentNachfrist. die Fristen der Absatze 1 bis 3 aus von ihm nicht zu vertretenden Griinden, gewahrt der Priifungspriifung(5) DiebendtigtenFrist nachSemester.Absatz 3 Satz | verlangert sich um die nach dieser Priifungsordnung flir die Wiederholung der Diplomvor(6) Die Diplomvorpriifung und die Diplompriifung kénnen vor Ablauf des ftir die Meldung festgelegten Termins abgelegt werden, sofern die fiir die Zulassung zur Priifung erforderlichen Leistungen nachgewiesen sind. 
 
-### OCR Seite 9
+# a 
 
-```
-9
-828
-Meldung zur Diplomprüfung
-Der Kandidat hat sich innerhalb der durch Aushang bekanntgegebenen Meldefrist (vgl. $ 8 Abs. 2) beim Prüfungsamt zur Prü-
-fung zu melden.
-829
-Gliederung der Diplomprüfung
-Die Diplomprüfung gliedert sich in folgende Teile:
-l. Teil: Diplomarbeit
-2. Teil: Klausurarbeiten und mündliche Prüfungen.
-Die Prüfungsleistungen sind in dieser Reihenfolge zu erbringen. Die Klausurarbeiten und die mündlichen Prüfungen sind in ei-
-nem Abschnitt abzulegen; sie sollen möglichst innerhalb von drei Monaten abgeschlossen sein.
-$ 30
-Diplomarbeit
-(1) In der Diplomarbeit soll der Kandidat zeigen, daß er sein Fach in angemessener Weise beherrscht und in der Lage ist, nach
-:
- wissenschaftlichen Methoden selbständig zu arbeiten.
-(2) Das Thema der Diplomarbeit ist einem der Prüfungsfächer ($ 31) zu entnehmen. Das Thema muß in sinnvollem Zusam-
-menhang mit dem Studium stehen und so beschaffen sein, daß es innerhalb der in Absatz 5 Satz 1 genannten Frist bearbeitet wer-
-den kann.
-(3) Die Vergabe des Themas erfolgt durch einen Prüfungsberechtigen, hilfsweise durch den Prüfungsausschuß, über das Prü-
-fungsamt. Der Vergabe-Tag ist aktenkundig zu machen. Der Kandidat kann Vorschläge für das Thema einreichen. Die Vergabe
-des Themas setzt die Zulassung zum ersten Teil der Diplomprüfung voraus. Der Prüfungsausschuß kann mit Zustimmung des Prü-
-fungsberechtigten, der das Thema vergeben hat, gestatten, daß die Diplomarbeit an der ausländischen Hochschule erstellt wird, an
-der der Kandidat sein Auslandsstudium absolviert.
-(4) Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung des Vorsitzenden des Prüfungsausschusses
-innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.
-(5) Die Zeit von der Themenstellung bis zur Ablieferung der Diplomarbeit darf vier Monate nicht überschreiten. Bei einer Di-
-plomarbeit, die mit einem besonders hohen Zeitaufwand verbunden ist (z. B. Arbeit mit empirischen Erhebungen oder internationa-
-len Recherchen), kann eine Bearbeitungszeit von sechs Monaten festgesetzt werden; dies ist bei der Vergabe des Themas akten-
-kundig zu machen. Auf begründeten Antrag des Kandidaten kann der Vorsitzende des Prüfungsausschusses mit Zustimmung des
-Prüfers, der die Arbeit vergeben hat, die Bearbeitungszeit ausnahmsweise um höchstens zwei Monate verlängern. Weist der Kan-
-didat durch ärztliches Zeugnis nach, daß er wegen Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist.
-(6) Die Diplomarbeit ist innerhalb der festgesetzten Zeit in zwei Exemplaren und in gebundener Form beim Prüfungsamt einzu-
-reichen. Der Abgabezeitpunkt ist aktenkundig zu machen. Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten
-Quellen und die schriftliche Versicherung beizufügen, daß er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der
-ıngegebenen Quellen angefertigt hat und daß die Arbeit in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde
-vorgelegen hat. Alle Ausführungen der Arbeit, die wörtlich oder sinngemäß übernommen wurden, sind als solche zu bezeichnen.
-(7) Die Arbeit muß von zwei Prüfern beurteilt werden, es sei denn, daß ein zweiter Prüfer nicht zur Verfügung steht oder die
-Bestellung emes zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde. Der Prüfungsausschuß stellt zu
-Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist, oder ob eine unzumutbare Verzögerung eintreten
-wird.
-Wird die Arbeit mit der Note "nicht ausreichend" bewertet, ist in jedem Fall ein zweiter Gutachter zur Beurteilung heranzuzie-
-i
-hen. Die Note der Diplomarbeit errechnet sich aus dem Durchschnitt der Beurteilungen der beiden Prüfer.
-|
-Die Note ist dem Kandidaten danach bekanntzugeben.
-|
-831
-|
-Umfang des 2. Teils der Diplomprüfung
-|
-(1) Die Diplomprüfung erstreckt sich auf folgende Fächer:
-1.
-Allgemeine Betriebswirtschaftsiehre
-|
-2.
-Internationale Spezielle Betriebswirtschaftslehre
-’
-3.
-Volkswirtschaftslehre einschließlich Wirtschaftspolitik und Finanzwissenschaft
-4.
-Europarecht und Internationales Recht
-|
-5.
-Auslandswissenschaften.
-|
-In
-den Fächern Volkswirtschaftslehre, Internationale Spezielle Betriebswirtschaftslehre, Europarecht und Internationales Recht
-|
-und Auslandswissenschaften werden jeweils Halbfächer im Umfang von 6 SWS angeboten (vgl. Anlage zu dieser Prüfungsord-
-|
-```
+§5 PritfungsausschuB (1) Dem Pritfungsausschu8 obliegt die Vorbereitung und Durchfithrung der Vor- und Diplompriifungen. Der Priifungsausschu8 achtet darauf, da die Bestimmungen der Pritfungsordnung eingehalten werden. Er berichtet regelm4Big dem Fachbereichsrat tiber die Entwicklung der Priifungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Anderung der Studien- und Prifungsordnungen. a) (2) Die acht Mitglieder des Priifungsausschusses sind: b) der Vorsitzende aus dem Kreis der Professoren; c) der Dekan als stellvertretender Vorsitzender: je ein Professor der Studiengange "Betriebswirtschaftslehre, Volkswirtschaftslehre, Wirtschaftspaidagogik, Sozialwissenschaften und Wirtschaftsinformatik"; d)stand.| weiteres prtifungsberechtigtes Mitglied der Fakultat aus dem Kreis der entpflichteten Professoren und Professoren im RuheProfessoren im Sinne der Buchstaben a und ¢ sind die in Art. 2 Abs. 1 Nr. ] Bayer. Hochschullehrergesetz genannten Professoren. peDer vomVorsitzende wirdFachbereichsrat vomgewahlt.Fachbereichsrat, die Mitglieder nach Buchst. c und d werden auf Vorschlag von Vertretern ihrer Grup- 
 
-### OCR Seite 10
+(3) Die Amtszeit der Mitglieder nach Absatz 2 Buchst. a, c und d betragt zwei Jahre. Eine Wiederbestellung ist méglich. (4) Der PritfungsausschuS ist beschluBfahig, wenn sdmtliche Mitglieder mindestens drei Tage vorher geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Er beschlie&t mit der Mehrheit der abgegebenen Stimmen in Sitzungen. Stimmenthaltung, geheime Abstimmung und Stimmrechtsiibertragung sind nicht zulassig, Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. (5) Der Vorsitzende beruft die Sitzungen des Priifungsausschusses ein. Er ist befugt, anstelle des Priifungsausschusses unaufschiebbare Entscheidungen allein zu treffen. Hiervon hat er dem PriifungsausschuB unverziiglich Kenntnis zu geben. Dariiber hinaus kann der Priifungsausschu8 dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich tbertragen. 
 
-```
-10
-nung), aus denen der Kandidat jeweils zwei Halbfächer auswählt. Eines davon wird in einer vierstündigen Klausur, das andere in
-einer ISminütigen mündlichen Prüfung abgelegt.
-(2) Der Kandidat soll von demselben Prüfer nur in einem Prüfungsfach geprüft werden. Er kann von demselben Prüfer in nicht
-mehr als zwei Prüfungsfächern geprüft werden.
-(3) In jedem der Prüfungsfächer ist eine vierstündige Klausur anzufertigen und eine etwa 15minütige mündliche Prüfung abzu-
-legen. Fürjede Klausurarbeit sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die besonderen Umstände einzelner
-Fächer etwas anderes erfordern. Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt. Die dabei
-erlaubten Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekanntgegeben.
-(4) Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums gemäß Studienordnung.
-8 32
-Nichtbestehen der Diplomprüfung
-(1) Die Diplomprüfung ist nicht bestanden, wenn
-1. die Diplomarbeit mit "nicht ausreichend" bewertet worden ist;
-2. die Klausurarbeiten in zwei oder mehr Prüfungsfächern mit der Note 5,0 bewertet worden sind;
-3. zwei oder mehr Prüfungsfächer mit der Fachnote "nicht ausreichend" bewertet worden sind;
-;
-4 die Fachnote "nicht ausreichend” in einem Prüfungsfach nicht durch die Fachnote "sehr gut" oder "gut” in einem anderen Prü-
-fungsfach ausgeglichen werden kann. Die Fachnote "nicht ausreichend" in dem Fach Allgemeine Betriebswirtschaftslehre kann
-nicht ausgeglichen werden.
-Die Fachnote "nicht ausreichend" in der Internationalen Speziellen Betriebswirtschaftslehre (Pflichtfach) kann nur durch die
-Fachnote "gut" oder "sehr gut” im Fach Allgemeine Betriebswirtschaftsiehre oder im Fach Europa- und Internationales Recht
-ausgeglichen werden.
-(2) Die Diplomprüfung gilt als nicht bestanden, wenn die Diplomarbeit nicht innerhalb der festgesetzten Bearbeitungsfrist ($
-30 Abs. 5) abgegeben worden ist oder der Kandidat bei deren Anfertigung gegen $ 30 Abs. 6 Satz 3 und 4 verstößt.
-(3) $$ 4 Abs. 3 und 10 bleiben unberührt.
-$ 33
-Wiederholung der Diplomprüfung
-(1) Ist die Diplomprüfung nicht bestanden oder gilt sie als nicht bestanden oder ist $ 4 Abs. 3 anzuwenden, ist sie insgesamt zu
-wiederholen. Die Anfertigung einer neuen Diplomarbeit entfällt, wenn die vorliegende Diplomarbeit mindestens mit der Note
-"ausreichend" bewertet worden ist.
-(2)
-825 Abs. 2 und 3 gelten entsprechend.
-(3) Eine zweite Wiederholung des zweiten Teils der Diplomprüfung ist nur möglich, wenn nicht mehr als zwei Fächer mit
-"nicht ausreichend" benotet worden sind. Sie muß zum nächsten regulären Prüfungstermin abgelegt werden. $ 25 Abs. 3 Sätze 2
-und 3 gelten entsprechend. Die zweite Wiederholung der Diplomarbeit ist ausgeschlossen.
-8 33a
-Freier Prüfungsversuch
-|
-(1) Hat ein Kandidat nach ununterbrochenem Fachstudium spätestens im Prüfungstermin des neunten Fachsemesters die Prü-
-|
-fungen des 2. Teils der Diplomprüfung erstmals vollständig abgelegt und die Prüfung gemäß $ 32 Abs. I Nrn. 2, 3 oder 4 nicht
-|
-bestanden, so gilt der 2. Teil der Diplomprüfung - außer in den Fällen des $ 10 Abs. 4 - als nicht abgelegt (freier Prüfungsversuch).
-|
-Im Rahmen des freien Prüfungsversuchs mit wenigstens „ausreichend“ bewertete Fachprüfungen werden angerechnet, wenn sich
-der Kandidat innerhalb eines Monats nach Mitteilung des Prüfungsergebnisses zur erneuten Ablegung der mit „nicht ausreichend“
-|
-bewerteten Fachprüfungen im nächsten Prüfungstermin meldet; statt einer Anrechnung der mit wenigstens „ausreichend“ bewerte-
-ten Fachprüfungen kann er die Wiederholung zur Notenverbesserung beantragen; in diesem Falle gilt Absatz 2 entsprechend.
-|
-(2) Hat ein Kandidat nach ununterbrochenem Fachstudium spätestens im Prüfungstermin des neunten Fachsemesters den 2. Teil
-|
-der Diplomprüfung bestanden, so darf er alle oder einzelne Fachprüfungen zum Zwecke der Notenverbesserung einmal im näch-
-|
-sten
-Prüfungstermin wiederholen, wenn er dies innerhalb eines Monats nach Mitteilung des Prüfungsergebnisses beantragt. Es zählt
-|
-das
-jeweils bessere Ergebnis der Fachprüfung.
-|
-(3) Anerkannte Studienzeiten werden bei Hochschul-, Studiengangs- oder Fachwechsel auf das Fachstudium angerechnet; Se-
-|
-mester, in denen der Student beurlaubt war, bleiben unberücksichtigt.
-|
-|
-```
+(1) Der Priifungsausschuf bestellt die Prtifer. Priifer 
 
-### OCR Seite 11
+(2) Zum Priifer k6nnen bestellt werden: a) Professoren im Sinne des Art. 2 Abs. 1 Nr. 1 Bayer. Hochschullehrergesetz 
 
-```
-11
-834
-Zusatzfächer
-(1) Der Kandidat kann auf Antrag im Rahmen der Diplomprüfung oder nach bestandener Diplomprüfung in zusätzlichen Fä-
-chern geprüft werden.
-(2) Als Zusatzfächer kommen alle Prüfungsfächer (8 3 I) in Betracht.
-(3) Die in den Zusatzfächern erreichten Noten werden bei der Festsetzung des Gesamtergebnisses im Rahmen der Diplomprü-
-fung nicht berücksichtigt.
-(4) Über das Ergebnis einer Zusatzprüfung wird ein besonderes Zeugnis erteilt.
-(5) Zur Ablegung von Zusatzfächern nach bestandener Diplomprüfung soll der Kandidat als Gaststudierender immatrikuliert
-sein.
-(6) Die allgemeinen Vorschriften dieser Prüfungsordnung (insbes. auch $ 10) sowie $8 27 Abs. 2 Nr. 2, 31 Abs. 3 und 33 gel-
-ten entsprechend.
-835
-Zeugnis und Diplom
-(1) Über die bestandene Diplomprüfung wird ein Zeugnis und ein Diplom ausgestellt.
-(2) Das Zeugnis enthält die Prüfungsgesamtnote, die Fachnoten, das Thema und die Note der Diplomarbeit sowie auf Antrag
-des Absolventen die Fachstudiendauer. Für die Halbfächer werden die erzielten Noten in das Diplomzeugnis eingetragen. Außer-
-dem werden die in der Diplomvorprüfung in den Fächern gemäß $ 22 Abs. 1 Nr. 3 und 4 erreichten Noten in das Zeugnis aufge-
-nommen. Sie beeinflussen die Prüfungsgesamtnote nicht. Die Aufnahme entfällt, soweit das betreffende Fach zugleich Pflichtwahl-
-fach des Kandidaten ist. Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet. Als Datum des Zeugnisses
-wird der Tag angegeben, an dem die Erfüllung aller Prüfungsleistungen durch den Prüfungsausschuß festgestellt worden ist.
-(3) Die Diplomurkunde wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel der Fakultät verse-
-hen.
-(4) Mit der Aushändigung des Diploms erhält der Kandidat die Befugnis, den akademischen Grad gemäß $ 2 zu führen."
-DRITTER TEIL: Inkrafttreten
-836
-Inkrafttreten
-Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Anlage: Zugelassene Prüfungsfächer nach $ 31 Abs. I der Diplomprüfungsordnung für Studenten der Internationalen Betriebswirt-
-schaftsiehre
-I. Allgemeine Betriebswirtschaftslehre
-|
-il. Volkswirtschaftslehre.
-Im Fach Volkswirtschaftslehre kann aus folgenden Gebieten für die schriftliche und mündliche Prüfung gewählt werden.
-|
-Schriftliche Prüfung:
-l. Reale Außenwirtschaft und monetäre Außenwirtschaft
-|
-oder
-2. Allokation und Makroökonomie
-|
-Mündliche Prüfung:
-|
-3. Öffentliche Einnahmen und Effizienz im öffentlichen Sektor
-oder
-4. Weltwirtschaftspolitik sowie Geld- und Währungspolitik
-|
-oder
-|
-5. Zwei Vorlesungen aus dem Bereich Entwicklungspolitik
-|
-|
-```
+b) entpflichtete Professoren und Professoren im Ruhestand c) Privatdozenten und ap]. Professoren. 
 
-### OCR Seite 12
+(1) Ausschlu8 wegen persénlicher Beteiligung, Verschwiegenheitspflicht cher Der Ausschlufs von der Beratung und Abstimmung im Pritfungsausschu sowie von einer Prifungstatigkeit wegen persénliBeteiligung bestimmt sich nach Art. 50 BayHSchG. (2) Die Pflicht der Mitglieder des Priifungsausschusses, der Priifer, der Priifungsbeisitzer und sonstiger mit Priifungsangelegenheiten befafiter Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG. 
 
-```
-12
-II. Internationale Spezielle Betriebswirtschaftslehre
-!. Internationales Management ist Gegenstand der schriftlichen Prüfung und wird kombiniert mit einer mündlichen Prüfung
-wahlweise in
-2. Internationale Finanzwirtschaft,
-3. Internationales Marketing oder
-4. Internationale Steuerlehre
-IV. Europarecht und Internationales Recht
-1. Europarecht ist Gegenstand der schriftlichen Prüfung und wird kombiniert mit einer mündlichen Prüfung wahlweise in
-2. Internationales und Supranationales Steuerrecht oder
-3. Europäisches Privat- und Wirtschaftsrecht
-V. Auslandswissenschaften
-Es sind zwei Halbfächer auszuwählen. Der Kandidat wählt, welches Teilgebiet schriftlich und welches mündlich geprüft wer-
-den soll.
-1. Auslandswissenschaft USA, Kanada, Großbritannien, Irland
-2. Auslandswissenschaft Frankreich und französischsprachige Welt
-3. Auslandswissenschaft Italien
-4. Auslandswissenschaft Portugal und Brasilien
-5. Auslandswissenschaft Spanien, Lateinamerka
-Anstelle eines zweiten auslandswissenschaftlichen Halbfachs kann aufAntrag ein anderes, international orientiertes und an der
-Wirtschafts- und Sozialwissenschaftlichen Fakultät, ausnahmsweise auch an anderen Fakultäten der Friedrich-Alexander-
-Universität vertretenes Halbfach gewählt werden.
-Ausgefertigt aufgrund der Beschlüsse des Senats der Universität Erlangen-Nürnberg vom 23. Juli 1997 und 28. Januar
-1998 und Genehmigung des Bayerischen Staatsministeriums für Unterricht, Kultus, Wissenschaft und Kunst mit
-Schreiben vom 8. September 1997 und 14. Januar 1998 Nr. X/4-26c/60a1-26/116 830 und Nr. X/4-5e66a(3)-6/186
-178.
-Erlangen, den 29, Januar 1998
-Prof. Dr. G. Jasper
-:
-Rektor
-Die Satzung wurde am 29. Januar 1998 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde
-|
-am 29. Januar 1998 durch Anschlag in der Universität Erlangen-Nürnberg bekanntgegeben. Tag der Bekanntmachung
-|
-ist der 29. Januar 1998.
-|
-|
-I
-|
-N
-```
+| | | : 
+
+3 Bekanntgabe der§8Priifungstermine (1) Die Priifungen werden in der Regel einmal innerhalb eines jeden Semesters abgehalten. gegeben.(2) Der Priifungsbeginn sowie die Meldefrist fiir die Bewerber werden spatestens einen Monat vorher durch Aushang bekannt(3) Die Termine der Priifungen in den einzelnen Fachern und die Priifungsraume werden spatestens zwei Wochen vorher durch Aushang bekanntgegeben. Die zur Priifung zugelassenen Kandidaten sind unter Hinweis auf den Aushang spitestens eine Woche vor dem Termin der Pritfung schriftlich zu laden. 
+
+Anrechnung §9 von Studienzeiten und Studienleistungen (1) Einschlagige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemées Fachstudium nachgewiesen wird; dabei erbrachte Studienleistung werden bei Gleichwertigkeit angerechnet. Auf Antrag werden Studiensemester in verwandten Studiengangen bei inhaltlicher Gleichwertigkeit und die dabei erbrachten Studienleistungen bei Gleichwertigkeit angerechnet. die (2) Einschlagige Studiensemester an wissenschaftlichen Hochschulen auRerhalb des Geltungsbereiches des Grundgesetzes und dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht. Fiir die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausliindischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Aquivalenzvereinbarungen maBgebend. Bei Zweifel an der Gleichwertigkeit kann die Zentralstelle fiir das auslandische Bildungswesen gehort werden, 
+
+(3) In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studienleistungen sowie auf die Studienzeit angerechnet. Art. 81 Abs. 3 Satz 5 BayHSchG ist zu beachten. Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschliisse der Kultusministerkonferenz und der Hochschulrektorenkonferenz zu beriicksichtigen. ten (4) Pritfungsleistungen, Studienleistungen und Studienzeiten aus einem Fachhochschulstudium werden auf Antrag des Studenangerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
+
+Versdumnis, Riicktritt, Tduschung,§ 10 Ordnungsverstof 
+
+(1) Eine Priifungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Priifungstermin ohne triftige Griinde nicht erscheint oder wenn er nach Beginn der Pritfung ohne triftige Griinde von der Priifung zuriicktritt. 
+
+(2) Die fiir den Ricktritt oder das Versiumnis geltend gemachten Grtinde miissen dem Priifungsausschufvorsitzenden unverziiglich schriftlich angezeigt und glaubhaft gemacht werden. Dieser kann bei Krankheit die Vorlage eines arztlichen Attests verlangen. Erkennt der Priifungsausschu8 die Griinde an, so ist die Priifung unter Beachtung des Absatzes 3 nachzuholen. 
+
+(3) Bei anerkanntem Riicktritt oder Versdéumnis von schriftlichen Priifungen eines Priifungstermins gilt folgendes: 
+
+des Die Priifung gilt als nicht abgelegt, wenn der Kandidat in nicht mehr als der Halfte der Klausuren die schriftlichen Priifungen legt,Priifungstermins abgelegt hat; die Priifung ist im nachsten regularen Priifungstermin nachzuholen. Die Priifung gilt als abgewenn der Kandidat in mehr als der Halfte der Klausuren die schriftlichen Priifungen des Priifungstermins abgelegt hat; die ?rlifung ist im nachsten regularen Priifungstermin fortzusetzen; die Priifungsergebnisse in den bereits abgelegten Fachern werden angerechnet. Bei Anerkennung der Griinde fiir Riicktritt oder Versdumnis der miindlichen Diplompriifung oder Teilen hiervon werden die Pritfungsergebnisse in den bereits abgelegten Fachern angerechnet. Die verséumten Priifungsleistungen sind - sofern die anerkannten Griinde dem nicht entgegenstehen - im unmittelbaren Anschlu® an die regularen Priifungen nachzuholen. Den neuen Priifungstermin setzt der PritfungsausschuSvorsitzende fest. zu (4) Versucht der Kandidat das Ergebnis der Priifungsleistung durch Tauschung oder Benutzung nicht zugelassener Hilfsmittel beeinflussen, gilt die betreffende Priifungsleistung als mit "nicht ausreichend" (5,0) bewertet. Dasselbe gilt, wenn der Kandidat nach Ausgabe der Priifungsarbeiten im Besitz nicht zugelassener Hilfsmittel ist und nicht nachweist, dal} der Besitz weder auf Vorsatz noch auf Fahrlassigkeit beruht. Ein Kandidat, der den ordnungsgemafen Ablauf der Priifung stért, kann von dem jeweiligen Priifer oder Aufsichtsftihrenden von der Fortsetzung der Priifungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Priifungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
+
+(5) Ist die Tauschung oder die Stérung des ordnungsgemaBen Ablaufs der Priifung nach Absatz 4 so schwerwiegend, daB der AusschluS von der weiteren Priifung gerechtfertigt erscheint, so beschlieSt der Priifungsausschu8 den Ausschlu8 von der weiteren Pritfung. 
+
+Mangel im Priifungsverfahren§ 11 (1) Erweist sich, da das Priifungsverfabren mit Mangeln behaftet war, die das Priifungsergebnis beeinflussen konnten, ist auf Antragoder einzeineeines KandidatenTeile derselbenoderwiederholtvon Amtswerden.wegen anzuordnen, daB von einem bestimmten oder von allen Kandidaten die Priifung 
+
+4 
+
+| | : 
+
+(2) Mangel des Priifungsverfahrens oder eine vor oder wahrend der Priifung eingetretene Priifungsunfahigkeit miissen unverziiglich beim Vorsitzenden des Priifungsausschusses oder beim Priifer oder beim Aufsichtsfiihrenden geltend gemacht werden. den.(3) Sechs Monate nach Abschluf der Priifung diirfen von Amts wegen Anordnungen nach Absatz 1 nicht mehr getroffen wer- 
+
+###### § 12 Schriftliche Priifungen 
+
+den(1) In Klausurarbeiten soll der Kandidat nachweisen, da8 er in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit Methoden des Faches erkennen und Wege zur Lésung finden kann. (2) Die Benotung der Klausurarbeit erfolgt in der Regel durch zwei Priifer; einer von ihnen soll der Aufgabensteller sein. Bei unterschiedlicher Beurteilung werden die Noten gemittelt. Von der Beurteilung durch einen Zweitpriifer kann nur abgesehen werden, wenn kein zweiter Priifer zur Verfiigung steht oder die Bestellung eines zweiten Priifers den Ablauf der Pritfung in unvertretbarer Weise verzégern wtirde. Der PriifungsausschnB stellt zu Beginn des Priifungstermins fest, ob ein zweiter Fachvertreter vorhanden ist oder ob durch Benennung eines Zweitpriifers eine unzumutbare Verzégerung eintreten wird. 
+
+###### § 13 Miindliche Priifung 
+
+(1) Die miindliche Prtifung wird als Einzelpriifung oder in Gruppen mit héchstens vier Kandidaten durchgefiihrt, (2) Zur miindlichen Priifung ist ein Beisitzer zuzuziehen. Der Beisitzer mu8 eine Diplompriifung oder vergleichbare Priifungen bestanden haben und soll hauptberuflicher wissenschaftlicher Mitarbeiter sein. (3) Uber die miindliche Priifung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Priifung, Gegenstande und Ergebnis der Priifung, die Namen der Priifer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse. Das Protokoll wird vom Priifer oder vom Beisitzer gefiilhrt und vom Priifer und Beisitzer unterzeichnet. Die Wiedergabe von Priifungsfragen und Antworten ist nicht erforderlich. Das Protokoll ist zu den Priifungsunterlagen zu nehmen. (4) Bei miindlichen Priifungen werden Studenten, die sich der gleichen Priifung unterziehen wollen, im Rahmen der raumlichen Méglichkeiten als Zuhdrer zugelassen. Auf Verlangen eines Kandidaten werden Zuhérer ausgeschlossen. (5) Die Beratung und die Bekanntgabe des Priifungsergebnisses erfolgen unter Ausschlu8 der Offentlichkeit. 
+
+Bewertung § 14 (1) der Priifungsleistungen, Bildung der Fachnoten und der Priifungsgesamtnote Die Urteile iber die einzelnen Priifungsleistungen werden von dem Jeweiligen Priifer durch folgende Noten und Pradikate ausgedriickt: 1,0 1,3 = sehr gut = eine hervorragende Leistung; 1,7 2,0 2,3 = gut = eine Leistung, die erheblich tiber den durchschnittlichen Anforderungen liegt; 2,7 3,0 3,3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; 3,7 4,0 = ausreichend = eine Leistung, die trotz ihrer Mangel noch den Anforderungen geniigt; 4,3 4,7 5,0 =nicht ausreichend = eine Leistung, die wegen erheblicher Mangel den Anforderungen nicht mehr geniigt. (2) Besteht eine Fachpriifung aus mehreren Priifungs- und Studienleistungen, so errechnet sich die Fachnote aus dem Durchschnitt der Noten, soweit keine Gewichtung vorgeschrieben ist. Bei der Bildung der Fachnote wird die erste Dezimalstelle hinter dem Komma beriicksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen. Bei im Zeugnis tragen die Fachnoten folgende Bezeichnungen: bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5 = gut bei einem Durchschnitt von 2,6 bis 3,5 = befriedigend bei einem Durchschnitt von 3,6 bis 4,0 = ausreichend einem Durchschnitt tiber 4,0 = nicht ausreichend. (3) Bei der bestandenen Diplomvorpriifung wird eine Priifungsgesamtnote als Durchschnitt der nicht auf- oder abgerundeten Fachnoten errechnet, Bei der bestandenen Diplompriifung wird eine Priifungsgesamtnote als Durchschnitt der nicht auf- oder abgerundeten Fachnoten und der doppelt gewichteten Note der Diplomarbeit errechnet. Bei Die Gesamtnote einer bestandenen Diplomvorpriifung oder Diplompriifung lautet: bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5 = gut bei einemeinem DurchschnittDurchschnitt vonvon 2,63,6 bisbis 4,03,5 == befriedigend ausreichend. 
+
+5 
+
+| | | 
+
+§ 15 Ungiiltigkeit der Priifung so (1) Hat der Kandidat bei einer Priifung getduscht und wird diese Tatsache erst nach der Aushandigung des Zeugnisses bekannt, nichtkannbestanden der Pritfungsausschu8erklaren. nachtraglich die betroffenen Noten entsprechend berichtigen und die Priifung ganz oder teilweise fiir 
+
+(2) Waren die Voraussetzungen fiir die Zulassung zu einer Pritfung nicht erfiillt, ohne da& der Kandidat hieriiber tauschen wollte, und wird diese Tatsache erst nach der Aushandigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Pritfingen geheilt. Hat der Kandidat die Zulassung vorsatzlich zu Unrecht erwirkt, entscheidet der Priifungsausschu8 unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsatze tiber die Riicknahme rechtswidriger Verwaltungsakte. 
+
+(3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur AuBerung zu geben. 
+
+(4) Das unrichtige Priifungszeugnis wird eingezogen und gegebenenfalls ein neues erteilt. Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fiinf Jahren ab dem Datum des Priifungszeugnisses ausgeschlossen. 
+
+(5) Die Entziehung des Diplomgrades richtet sich nach den gesetzlichen Bestimmungen. 
+
+§ 16 Einsicht in die Priifungsakten und(1) Nach Abschlu8& des Priifungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Priifungsarbeiten die darauf bezogenen Gutachten der Priifer gewahrt. 
+
+ses (2) Der Antrag ist binnen einem Monat nach Aushandigung des Priifingszeugnisses beim Vorsitzenden des Priifungsausschuszu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwV{G) (Bay-RS 2010-1-I) gilt entsprechend. Der Vorsitzende des Pritfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+
+Bescheinigung §17 iiber eine nicht bestandene Priifung Hat der Kandidat die Diplomvorpriifing oder die Diplompriifung endgiiltig nicht bestanden, wird ihm auf Antrag und gegen Vorlage der entsprechenden Nachweise sowie der Exmatrikulationsbescheinigung eine schriftliche Bescheinigung ausgestellt, aus derstungen sich ergeben.das Nichtbestehen der Prtifung, die in den einzelnen Priifungsfachern erzielten Noten und die noch fehlenden Priifungslei- 
+
+§ 18 Priifungsvergiinstigungen fiir Schwerbehinderte 
+
+(1) Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise Rucksicht zu nehmen. Insbesondere ist schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlangerung der Bearbeitungszeit ftir schrifttiche Priifungsteile um bis zu einem Viertel zu gewahren. 
+
+(2) Priifungsvergiinstigungen gemaB Absatz 1 werden nur auf schriftlichen Antrag hin gewahrt. Der Antrag ist der Meldung zur Priifung beizufiigen. 
+
+###### ZWEITER TEIL: BESONDERE VORSCHRIFTEN 
+
+###### Erster Abschnitt: Diplomvorpriifung 
+
+§ 19 (t) Zulassungsvoraussetzungen, Zulassungsverfahren I. Voraussetzungen flir die Zulassung zur Diplomvorpriifung sind: Allgemeine Hochschulreife oder einschlagige fachgebundene Hochschulreife unter Berticksichtigung der Qualifikationsverord2. nung (BayRS 2210-1-1-3-K/WK) in derjeweils geltenden Fassung 3. Immatrikulation als Student an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Universitit Erlangen-Niirnberg Nachweis tiber die erfolgreiche Teilnahme an den propddeutischen Lehrveranstaltungen a) Grundziige des betrieblichen Rechnungswesens b) Mathematik fiir Wirtschaftswissenschaftler Der c) Einfthrung in die betriebliche Informationsverarbeitung Versuch zum Erwerb der Leistungsnachweise kann innerhalb der Fristen des § 4 Abs. 1 zu den regularen Terminen zweimal wiederholt werden. 
+
+6 
+
+| | | 
+
+(2) Dem Antrag auf Zulassung sind beizufiigen: 
+
+###### I. Nachweis der Hochschulreife (bei der ersten Meldung zur Priifung), 
+
+2. Studienbuch, 3. Nachweise nach Absatz | Satz 1 Nr. 3 bei der Meldung zum letzten Abschnitt der Diplomvorpriifung, 4. eine Erklérung dartiber, ob der Kandidat eine der in Absatz 4 Nr. 3 genannten Prifungen nicht bestanden hat, ob er sich in einem 5. schwebenden Pritfungsverfahren befindet, oder ob er unter Verlust des Priifungsanspruches exmatrikuliert worden ist, 6. die Angabe der Facher, auf die sich die Priifung beziehen soll, triebswirtschaftslehreNachweis gemaB AbsatzI] umfaft..6 bei der Zulassung zu dem Abschnitt der Diplomvorpriifung, der das Teilfach Grundziige der Be(3) ist em Bewerber ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu 
+
+erbringen, so kann der Vorsitzende des Priifungsausschusses gestatten, die Nachweise in anderer Art zu fihren. 1. (4) Die Zulassung zur Diplomvorprifung ist zu versagen, wenn 2. der Bewerber die nach Absatz | vorgeschriebenen Zulassungsvoraussetzungen nicht erftllt, oder die Unterlagen unvollstandig sind, oder 
+
+3. der Bewerber die Diplomvorpritfung im Studiengang Internationale Betriebswirtschafislehre oder in einem verwandten im Grundstudium gleichen Studiengang oder die Diplomprtifung im Studiengang Betriebswirtschaftslehre oder Volkswirtschaftslehre endgitiltig nicht bestanden hat. Verwandte, im Grundstudium gleiche Studiengange sind Betriebswirtschaftslehre, Volkswirt- 
+
++. schaftslehre und Wirtschaftspadagogik. Der Bewerber unter Verlust des Priifungsanspruchs exmatrikuliert worden ist. (5) Uber die Zulassung entscheidet der Vorsitzende des Priifungsausschusses. Die Entscheidung ist dem Bewerber spitestens 
+
+eine Woche vor Priifungsbeginn schriftlich mitzuteilen, Der zur Priifung zugelassene Kandidat kann die Anmeldung zur Pritfung ohne Angabe von Grtinden schriftlich bis zum 21. Tag vor dem allgemeinen Beginn der Pritfung widerrufen oder bei abschnittweiser Ablegung im Rahmen der zuldssigen Wahlmdglichkeiten beschrénken; die Zah! der zulassigen Abschnitte darf dabei nicht uberschritten werden; Art. 81 Abs. 4 Satz 2 BayHSchG bleibt unberiihrt. (6) Die Zulassung zur Diplomvorprtifung im Teilfach Grundziige der Betriebswirtschaftslehre II setzt das Bestehen der Di- 
+
+plomvorpriifung im Teilfach Grundztige der Betriebswirtschafislehre I voraus. 
+
+§ 20 
+
+Meldung zur Diplomvorpriifung Priifung(1) Derzu melden.Kandidat hat sich innerhalb der durch Aushang bekanntgegebenen Meldefrist (vgl. § 8 Abs. 2) beim Priifungsamt zur (2) Die Meldung zum fetzten Abschnitt der Diplomvorpriifung soll im vierten Semester erfolgen. 
+
+§ 21 Gliederung der Diplomvorpriifung 
+
+(1) Die Diplomvorpriifung kann in bis zu vier Abschnitten abgelegt werden. (2) Die Verteilung der Priifungsfacher auf die Abschnitte steht dem Kandidaten im Rahmen der Studienordnung frei. (3) Die Pritfungen eines Abschnittes sollen innerhalb von 14 Tagen abgelegt werden. 
+
+## Umfang § 22 (1) Die Diplomvorpriifung umfaft folgende Facher: der Diplomvorpriifung 
+
+- ].Grundztige der Betriebswirtschaftslehre mit den Teilfichern 
+
+- a) Grundztige der Betriebswirtschaftslehre I und 
+
+- b) Grundztige der Betriebswirtschaftslehre II 
+
+- 2.Grundztige der Volkswirtschaftslehre mit den Teilfichern a) Grundztige der Volkswirtschaftslehre I und 
+
+- b) Grundztige der Volkswirtschaftslehre I] 
+
+3. Die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Offentlichen Rechts 
+
+- 4.Grundziige der Statistik. 
+
+5. Wirtschaftsfremdsprachen 
+
+- a) Wirtschaftsfremdsprache 1 
+
+- b) Wirtschaftsfremdsprache 2 
+
+| 
+
+7 
+
+| | | | | | 
+
+(2) Die Vorpriifung wird schrifilich abgelegt. 
+
+###### Es werden 
+
+im Teilfach Grundztige der Betriebswirtschaftslehre I eine einstiindige Klausur, im Teilfach Grundziige der Betriebswirtschaftslehre I] eine dreistiindigeK lausur, in jedem der Teilfécher Volkswirtschaftstehre I und Ii eine zweistiindige Klausur, 
+
+im Fach die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Offentlichen Rechts eine flinfstiindige Klausur, im Fach Grundziige der Statistik eine vierstiindige Klausur im Fach Wirtschafisfremdsprachen je eine zweistiindige Klausur in den beiden zu wahlenden Fremdsprachen geschrieben. Die beiden Klausuren in den Wirtschaftsfremdsprachen werden durch eine 15mintitige miindliche Priifung zur Feststellung des Hérverstehens und des miindlichen Ausdrucks erganzt. Die Note im Fach Wirtschaftsfremdsprachen setzt sich aus den vier Teilleistungen zu gleichen Teilen zusammen. 
+
+(3) Die Priifungsanforderungen bestimmen sich nach den Inhalten des Grundstudiums gemaB Studienordnung. der (4) Die Fachnote im Fach Grundziige der Betriebswirtschaftslehre wird zu einem Viertel aus der Note im Teilfach Grundziige Betriebswirtschaftslehre I und zu drei VierteIn aus der Note im Teilfach Grundziige der Betriebswirtschaftslehre II errechnet. 
+
+§ 23 Anerkennung von Diplomvorpriifungen (1) Vorpriifungen und einzelne Vorpriifungsleistungen, die der Kandidat an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes in demselben oder einem verwandten, im Grundstudium gleichen Studiengang bestanden hat, werden bei Gleichwertigkeit angerechnet, soweit sie sich auf die Ficher nach § 22 Abs. | beziehen. Hat der Kandidat in einem anderen wirtschaftswissenschaftlichen Diplomstudiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes die Dipiompriifung erfolgreich abgelegt, wird die Vorpriifung erlassen. 
+
+(2) Prifungsleistungen, die der Kandidat in anderen Studiengangen bestanden hat, kénnen auf Antrag angerechnet werden, wenn sie den Bedingungen dieser Priifungsordnung entsprechen und daher gleichwertig sind. (3) Priifungsleistungen, die der Kandidat an einer auslindischen Hochschule bestanden hat, kénnen auf Antrag angerechnet werden, wenn sie den Bedingungen dieser Priifungsordnung entsprechen und daher gleichwertig sind. nachgewiesen(4) Eine Anrechnungwerden. nach den Absftzen 1 bis 3 kann nur erfolgen, wenn alle Teilleistungen des anrechenbaren Priifungsfaches (5) Der Kandidat hat entsprechende Nachweise an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Universitat Erlangen-Niimnberg beim Priifungsamt vorzulegen. Dies soll zu Beginn seines Studiums geschehen. (6) Hat der Kandidat die AbschluBpriifung im Studiengang Betriebswirtschaft an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil "sehr gut” bestanden abgelegt, so wird ihm auf Antrag die Diplomvorprtifung mit Ausnahme der Priifung im Fach Wirtschafisfremdsprachen mit der Mafgabe erlassen, daB er bis zum Zweiten Teil der Diplompriifung den Nachweis tiber ausreichende Kenntnisse im Diplomvorpriifungsfach "Grundziige der Volkswirtschafislehre" und in den Wirtschaftsfremdsprachen erbringt. 
+
+(7) Die Entscheidungen nach den Absatzen 2, 3 und 6 trifft der Vorsitzende des Priifungsausschusses. 
+
+§ 24 Bestehen der Diplomvorpriifung 
+
+(1) Die Diplomvorpriifung ist bestanden, wenn samtliche Klausuren in den Fachern gemaf § 22 Abs. I Nr. 1-4 mit wenigstens ,ausreichend“ (4,0) bewertet sind und im Fach Wirtschaftsfremdsprachen die Gesamtnote wenigstens ,,ausreichend“ (4,0) erzielt wurde. (2) § 4 Abs. 1 und § 10 bleiben unberihrt, Wiederholung der§ 25 Diplomvorpriifung (1) Ist die Diplomvorpriifung nicht bestanden oder ist § 10 Absatz 1 oder § 4 Absatz | anzuwenden, kann sie in den Fachern oder Teilfachern, die mit "nicht ausreichend" bewertet wurde, wiederholt werden. (2) Die freiwillige Wiederholung einer bestandenen Diplomvorpriifung ist nicht zulassig. (3) Die Wiederholungspriifung muB innerhalb eines Jahres nach Mitteilung iiber das Nichtbestehen abgelegt werden. Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versaéumnis der Frist gilt die Diplomvorpriifung als endgliltig nicht bestanden, sofern nicht dem Studenten vom Priifungsausschu8 wegen besonderer von ihm nicht zu vertretender Griinde eine Nachfrist gewahrt wird. 
+
+| | ! | } 
+
+8 bis (4) Eine zweite Wiederholung der Diplomvorpriifung ist nur in einem Priifungsfach gemaB § 22 Abs. 1 Nrn. 3, 4 oder 5 oder in legtzuwerden.zwei PriifungsteilfichernAbsatz 3 Satze 2 und gem4B3 gelten§ 22entsprechend. Abs. 1 Nm. I und 2 méglich. Sie mu8 zum nachsten regularen Priifungstermin abge- 
+
+(5) Bei Wiederholungsprtifungen ersetzen die Noten der Wiederholungspritfung die Noten der vorangegangenen Priifung. 
+
+§ 26 Priifungszeugnis Uber die bestandene Vorpriifung wird ein Zeugnis ausgestellt, das die in den einzelnen Priifungsfachern erzielten Noten und die Priifungsgesamtnote enthdlt und vom Vorsitzenden des Prifungsausschusses zu unterzeichnen ist. Die Noten angerechneter Facher (vgl. § 23) werden nicht in das Zeugnis aufgenommen. In diesem Fall wird ins Zeugnis nur ein Anerkennungsvermerk aufgenommen. 
+
+Zweiter Abschnitt; Diplompriifung § 27 Zulassungsvoraussetzungen, Zulassungsverfahren 
+
+   1. Hochschulreife(1) Voraussetzungengem&Bflir§19 dieAbs. Zulassung1 Nr. 1 zum ersten Teil der Diplompriifung (vgl. § 29) sind: 
+
+- 2. bestandene Diplomvorpriifung 3. Immatrikulation als Student an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Universitat Erlangen-Niirnberg. I. (2) Voraussetzungen fiir die Zulassung zum zweiten Teil der Diplompriifung (vgl. § 29) sind zusatzlich: ein ordnungsgemaBes Studium der Internationalen Betriebswirtschaftslehre 
+
+   2. zwei Leistungsscheine von insgesamt drei aus dem Bereich der Internationalen Speziellen Betriebswirtschaftslehre, des Europaund Internationalen Rechts und der Auslandswissenschaften. Der Versuch zum Erwerb der Leistungsscheine kann innerhalb der Fristen nach § 4 Abs. 3 zu den regularen Terminen mehrmals wiederholt werden. 
+
+   3. der Nachweis tiber das erfolgreich abgeschlossene Auslandsstudium. {m Hauptstudium ist ein einjahriger Studienaufenthalt an einer auslandischen Universitat, in aller Regel an einer Partneruniversi- 
+
+   tat, Pflicht; in dieser Zeit muB wenigstens eine Priifung in einem Fach gem. § 31 Abs. 1 abgelegt werden, die anerkannt werden kann. Bei Vorliegen vertraglicher, die Gleichwertigkeit sichernder Regelungen mit auslandischen Partneruniversitaten werden bis zu drei absolvierte Priifungsfacher oder zwei Priifungsficher und die Diplomarbeit als Bestandteile der Diplompriifung anerkannt. Im tibrigen werden bis zu zwei Priifungsfacher anerkannt, soweit Gleichwertigkeit festgestellt ist. Uber die Anerkennung der im Ausland erbrachten Priifungsleistungen entscheidet der Vorsitzende des Priifungsausschusses im Benehmen mit dem jeweiligen Fachvertreter. Der Antrag auf Anerkennung gem. Satz 2 oder 3 soll frihzeitig, méglichst vor Antritt des Studienaufenthaltes gestellt werden. 
+
+   4. mindestens die Note "ausreichend" in der Diplomarbeit 
+
+5. eine flir das Ausbildungsziel geeignete berufspraktische Tatigkeit in der Wirtschaft oder Wirtschaftsverwaltung von 3 Monaten, die vorzugsweise im Ausland abzuleisten ist. (3) Dem Antrag auf Zulassung zum ersten Teil der Diplompriifung sind folgende Unterlagen beizufligen, soweit sie dem Priifungsamt nicht bereits vorliegen: 1. Nachweis der Hochschulreife 2. Zeugnis iiber die bestandene Vorpriifung 3. Studienbuch 4. eine Erklarung nach § 19 Abs. 2 Nr. 4. 1. (4) Dem Antrag auf Zulassung zum zweiten Teil der Diplompriifung sind zusatzlich beizufiigen: 2.3. LeistungsnachweiseEin vom Kandidatenjeverfa8ter Pritfungsfach Lebenslauf gemaB unter Absatz 2 besonderer Nr. 2 und Beriicksichtigung 3 des Bildungsganges 4. die Angabe der Facher nach § 31 Abs. 1, auf die sich die Priifung beziehen soll, 5. gegebenenfalls die Angabe von Zusatzfaichern gemaf § 34 Nachweis der praktischen Tatigkeit gema® Absatz 2 Nr. 5. 
+
+(5) Im iibrigen gilt § 19 Abs. 3. |. (6) Die Zulassung zur Diplomprtifung ist zu versagen, wenn 2. der Bewerber die nach Absatz 1 und 2 vorgeschriebenen Zulassungsvoraussetzungen nicht erftillt oder 3. die Unterlagen unvollstandig sind oder der Bewerber eine der in § 19 Abs. 4 Nr. 3 genannten Priifungen endgiiltig nicht bestanden hat oder unter Verlust des Priifungsanspruches exmatrikuliert worden ist. 
+
+(7) § 19 Abs. 5 gilt entsprechend 
+
+| | | 
+
+9 § 28 Meldung zur Diplompriifung Der Kandidat hat sich innerhalb der durch Aushang bekanntgegebenen Meldefrist (vgl. § 8 Abs. 2) beim Priifungsamt zur Prifung zu melden. § 29 Gliederung der Diplompriifung 
+
+1. Teil:Die DiplompriifungDiplomarbeit gliedert sich in folgende Teile: 2. Teil: Klausurarbeiten und miindliche Priifungen. Die Priifungsleistungen sind in dieser Reihenfolge zu erbringen. Die Klausurarbeiten und die mitndlichen Priifungen sind in einem Abschnitt abzulegen; sie sollen méglichst innerhalb von drei Monaten abgeschlossen sein. 
+
+§ 30 Diplomarbeit (1) In der Diplomarbeit soll der Kandidat zeigen, da8 er sein Fach in angemessener Weise beherrscht und in der Lage ist, nach © wissenschaftlichen Methoden selbstandig zu arbeiten. (2) Das Thema der Diplomarbeit ist einem der Priifungsficher ( § 31) zu entnehmen. Das Thema muf in sinnvollem Zusammenhang mit dem Studium stehen und so beschaffen sein, daB es innerhalb der in Absatz 5 Satz 1 genannten Frist bearbeitet werden kann. (3) Die Vergabe des Themas erfolgt durch einen Priifungsberechtigen, hilfsweise durch den PriifungsausschuB, tiber das Priifungsamt. Der Vergabe-Tag ist aktenkundig zu machen. Der Kandidat kann Vorschlage ftir das Thema einreichen. Die Vergabe des Themas setzt die Zulassung zum ersten Teil der Diplompriifung voraus. Der Pritfungsausschu8 kann mit Zustimmung des Priifungsberechtigten, der das Thema vergeben hat, gestatten, da®B die Diplomarbeit an der auslandischen Hochschule erstellt wird, an der der Kandidat sein Auslandsstudium absolviert. (4) Das Thema kann nur einmal und nur aus triftigen Griinden und mit Einwilligung des Vorsitzenden des Priifungsausschusses innerhalb der ersten zwei Monate der Bearbeitungszeit zuriickgegeben werden. (5) Die Zeit von der Themenstellung bis zur Ablieferung der Diplomarbeit darf vier Monate nicht tiberschreiten. Bei einer Diplomarbeit, die mit einem besonders hohen Zeitaufwand verbunden ist (z. B. Arbeit mit empirischen Erhebungen oder internationalen Recherchen), kann eine Bearbeitungszeit von sechs Monaten festgesetzt werden; dies ist bei der Vergabe des Themas aktenkundig zu machen. Auf begriindeten Antrag des Kandidaten kann der Vorsitzende des Priifungsausschusses mit Zustimmung des Priifers, der die Arbeit vergeben hat, die Bearbeitungszeit ausnahmsweise um héchstens zwei Monate verlangern. Weist der Kandidat durch arztliches Zeugnis nach, da er wegen Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
+
+(6) Die Diplomarbeit ist innerhalb der festgesetzten Zeit in zwei Exemplaren und in gebundener Form beim Priifungsamt einzureichen. Der Abgabezeitpunkt ist aktenkundig zu machen. Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten Quellen und die schriftliche Versicherung beizuftigen, daB er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der ingegebenen Quellen angefertigt hat und da®B die Arbeit in gleicher oder ahnlicher Form noch keiner anderen Priifungsbehérde vorgelegen hat. Alle Ausfiihrungen der Arbeit, die wortlich oder sinngema® tbernommen wurden, sind als solche zu bezeichnen. (7) Die Arbeit mu8 von zwei Priifern beurteilt werden, es sei denn, da® ein zweiter Priifer nicht zur Verfiigung steht oder die Bestellung emes zweiten Priifers den Ablauf der Priifung in unvertretbarer Weise verzégern wirde. Der Priifungsausschuf stellt zu wird,Beginn des Pritfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist, oder ob eine unzumutbare Verzégerung eintreten Wird die Arbeit mit der Note "nicht ausreichend” bewertet, ist in jedem Fall ein zweiter Gutachter zur Beurteilung heranzuziehen. Die Note der Diplomarbeit errechnet sich aus dem Durchschnitt der Beurteilungen der beiden Priifer. Die Note ist dem Kandidaten danach bekanntzugeben. 
+
+Umfang des 2. Teils§31der Dipiompriifung 
+
+I. (1) Die DiplompriifungAllgemeine Betriebswierst **r** tschaftslehreeckt sich auf folgende Facher: 2. Internationale Spezielle Betriebswirtschaftslehre 3. Volkswirtschaftslehre einschlieBlich Wirtschaftspolitik und Finanzwissenschaft 4. Europarecht und Internationales Recht 5. Auslandswissenschaften. undIn den Faéchern Volkswirtschaftslehre, Internationale Spezielle Betriebswirtschaftslehre, Europarecht und Internationales Recht Auslandswissenschaften werden jeweils Halbfticher im Umfang von 6 SWS angeboten (vgl. Anlage zu dieser Priifungsord- 
+
+10 
+
+| | | | 
+
+nung), aus denen der Kandidat jeweils zwei Halbficher auswahlt. Eines davon wird in einer vierstiindigen Klausur, das andere in einer 1 5miniitigen miindlichen Priifung abgelegt. (2) Der Kandidat soll von demselben Priifer nur in einem Priifungsfach gepriift werden. Er kann von demselben Priifer in nicht mehr als zwei Priifungsfichern gepriift werden. 
+
+(3) In jedem der Priifungsficher ist eine vierstiindige Klausur anzufertigen und eine etwa I Sminiitige miindliche Priifung abzulegen. Furjede Klausurarbeit sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die besonderen Umstande einzelner Facher etwas anderes erfordern. Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt. Die dabei erlaubten Hilfsmittel werden spatestens zwei Wochen vor Beginn der Priifung durch Aushang bekanntgegeben. 
+
+(4) Die Priifungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums gemaf Studienordnung. 
+
+###### § 32 Nichtbestehen der Diplompriifung 
+
+(1) Die Diplompriifung ist nicht bestanden, wenn |. die Diplomarbeit mit "nicht ausreichend" bewertet worden ist; 2. die Klausurarbeiten in zwei oder mehr Priifungsftichern mit der Note 5,0 bewertet worden sind; 
+
+3. zwei oder mehr Priifungsficher mit der Fachnote "nicht ausreichend" bewertet worden sind; 
+
+4. die Fachnote "nicht ausreichend” in einem Priifungsfach nicht durch die Fachnote "sehr gut" oder "gut" in einem anderen Prifungsfach ausgeglichen werden kann. Die Fachnote “nicht ausreichend" in dem Fach Allgemeine Betriebswirtschaftslehre kann nicht ausgeglichen werden. Die Fachnote "nicht ausreichend" in der Internationalen Speziellen Betriebswirtschaftslehre (Pflichtfach) kann nur durch die Fachnote "gut" oder "sehr gut” im Fach Allgemeine Betriebswirtschaftslehre oder im Fach Europa- und Internationales Recht ausgeglichen werden. 
+
+30 (2) Die Diplompriifung gilt als nicht bestanden, wenn die Diplomarbeit nicht innerhalb der festgesetzten Bearbeitungsfrist (§ Abs. 5) abgegeben worden ist oder der Kandidat bei deren Anfertigung gegen § 30 Abs. 6 Satz 3 und 4 verstiBt. 
+
+(3) §§ 4 Abs. 3 und 10 bleiben unberithrt. 
+
+§ 33 Wiederholung der Diplompriifung 
+
+(1) Ist die Diplompriifung nicht bestanden oder gilt sie als nicht bestanden oder ist § 4 Abs. 3 anzuwenden, ist sie insgesamt zu wiederholen. Die Anfertigung einer neuen Diplomarbeit entfallt, wenn die vorliegende Diplomarbeit mindestens mit der Note “ausreichend" bewertet worden ist. (2) § 25 Abs. 2 und 3 gelten entsprechend. (3) Eine zweite Wiederholung des zweiten Teils der Diplompriifung ist nur méglich, wenn nicht mehr als zwei Facher mit “nicht ausreichend" benotet worden sind. Sie mu8 zum n&chsten reguldren Priifungstermin abgelegt werden. § 25 Abs. 3 Satze 2 und 3 gelten entsprechend. Die zweite Wiederholung der Diplomarbeit ist ausgeschlossen. 
+
+§ 33a (1) Freier Priifungsversuch fungen Hat ein Kandidat nach ununterbrochenem Fachstudium spatestens im Priifungstermin des neunten Fachsemesters die Priides 2. Teils der Diplompriifung erstmals vollstandig abgelegt und die Priifung gema® § 32 Abs. 1 Nrn. 2, 3 oder 4 nicht bestanden, so gilt der 2. Teil der Diplompriifung - aufer in den Fallen des § 10 Abs. 4 - als nicht abgelegt (freier Priifungsversuch). Im Rahmen des freien Priifungsversuchs mit wenigstens ,,ausreichend“ bewertete Fachprtifungen werden angerechnet, wenn sich der Kandidat innerhalb eines Monats nach Mitteilung des Priifungsergebnisses zur erneuten Ablegung der mit ,,nicht ausreichend“ bewerteten Fachpriifungen im nachsten Priifingstermin meldet; statt einer Anrechnung der mit wenigstens ,,ausreichend“ bewerteten Fachpriifungen kann er die Wiederholung zur Notenverbesserung beantragen; in diesem Falle gilt Absatz 2 entsprechend. der (2) Hat ein Kandidat nach ununterbrochenem Fachstudium spatestens im Pritfungstermin des neunten Fachsemesters den 2. Teil sten Diplompriifung bestanden, so darf er alle oder einzelne Fachpriifungen zum Zwecke der Notenverbesserung einmal im nachdas Priifungstermin wiederholen, wenn er dies innerhalb eines Monats nach Mitteilung des Priifungsergebnisses beantragt. Es zihlt jeweils bessere Ergebnis der Fachpritfung. (3) Anerkannte Studienzeiten werden bei Hochschul-, Studiengangs- oder Fachwechsel anf das Fachstudium angerechnet; Semester, in denen der Student beurlaubt war, bleiben unberiicksichtigt. 
+
+il 
+
+| | | | | 
+
+§ 34 Zusatzfacher 
+
+(1) Der Kandidat kann auf Antrag im Rahmen der Diplompritfung oder nach bestandener Diplompritfung in zusatzlichen Fachern gepriift werden. (2) Als Zusatzficher kommen alle Priifungsficher (§ 3 1) in Betracht. fung(3)nicht Dieberiicksichtigt.in den Zusatzfichern erreichten Noten werden bei der Festsetzung des Gesamtergebnisses im Rahmen der Diplomprii- 
+
+(4) Uber das Ergebnis einer Zusatzpriifung wird ein besonderes Zeugnis erteilt. 
+
+sein._(5) Zur Ablegung von Zusatzfichern nach bestandener Diplompriifung soll der Kandidat als Gaststudierender immatrikuliert ten (6)entsprechend. Die allgemeinen Vorschriften dieser Priifungsordnung (insbes. auch § 10) sowie §§ 27 Abs. 2 Nr. 2, 31 Abs. 3 und 33 gel- 
+
+§ 35 Zeugnis und Diplom 
+
+(1) Uber die bestandene Diplompriifung wird ein Zeugnis und ein Diplom ausgestellt. 
+
+des (2) Das Zeugnis enthalt die Priifungsgesamtnote, die Fachnoten, das Thema und die Note der Diplomarbeit sowie auf Antrag demAbsolventen die Fachstudiendauer. Ftir die Halbficher werden die erzielten Noten in das Diplomzeugnis eingetragen. AuBerwerden die in der Diplomvorpritfung in den Fachern gemaB § 22 Abs. 1 Nr. 3 und 4 erreichten Noten in das Zeugnis aufgenommen. Sie beeinflussen die Priifungsgesamtnote nicht. Die Aufnahme entfallt, soweit das betreffende Fach zugleich Pflichtwahifach des Kandidaten ist. Das Zeugnis wird vom Vorsitzenden des Priifungsausschusses unterzeichnet. Als Datum des Zeugnisses wird der Tag angegeben, an dem die Erflillung aller Priifungsleistungen durch den Priifungsausschu8 festgestellt worden ist. hen.(3) Die Dipiomurkunde wird vom Vorsitzenden des Priifungsausschusses unterzeichnet und mit dem Siegel der Fakultét verse- 
+
+(4) Mit der Aushandigung des Diploms erhalt der Kandidat die Befugnis, den akademischen Grad gemaB § 2 zu fiihren," 
+
+DRITTER TEIL: Inkrafttreten § 36 Diese Inkrafttreten Pritfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+schaftstehreAnlage: Zugelassene Priifungsfticher nach § 31 Abs. I der Diplompriifungsordnung ftir Studenten der Internationalen Betriebswirt- 
+
+#### I. Allgemeine Betriebswirtschaftslehre 
+
+il. Volkswirtschaftslehre. Im Fach Volkswirtschaftslehre kann aus folgenden Gebieten fiir die schriftliche und miindliche Priifung gewahlt werden. 
+
+Schriftliche Priifung: 1. Reale AuBenwirtschaft und monetire AuSenwirtschaft oder 
+
+##### 2. Allokation und Makrodékonomie 
+
+Miindliche Priifung: 3. Offentliche Einnahmen und Effizienz im éffentlichen Sektor oder 4.oderWeltwirtschaftspolitik sowie Geld- und Wahrungspolitik 5. Zwei Vorlesungen aus dem Bereich Entwicklungspolitik 
+
+12 
+
+» 
+
+| 
+
+###### III. Internationale Spezielie Betriebswirtschaftslehre 
+
+- |. wahlweiseInternationalesin Management ist Gegenstand der schriftlichen Priifung und wird kombiniert mit einer mtindlichen Priifung 
+
+2. Internationale Finanzwirtschaft, 
+
+3. Internationales Marketing oder 
+
+4. Internationale Steuerlehre 
+
+###### IV. Europarecht und Internationales Recht 
+
+1. Europarecht ist Gegenstand der schriftlichen Priifung und wird kombiniert mit einer miindlichen Priifung wahlweise in 2. Internationales und Supranationales Steuerrecht oder 3. Europdisches Privat- und Wirtschaftsrecht 
+
+###### V. Auslandswissenschaften 
+
+- denEs sindsoll, zwei Halbfacher auszuwahlen. Der Kandidat wahlt, welches Teilgebiet schriftlich und welches miindlich gepriift wer- 
+
+- I. Auslandswissenschaft USA, Kanada, GroBbritannien, Irland 
+
+2. Auslandswissenschaft Frankreich und franzésischsprachige Welt 
+
+3. Auslandswissenschaft Italien 
+
+4. Auslandswissenschaft Portugal und Brasilien 
+
+5. Auslandswissenschaft Spanien, Lateinamerka 
+
+Anstelle eines zweiten auslandswissenschaftlichen Halbfachs kann aufAntrag ein anderes, international orientiertes und an der Wirtschafts- und Sozialwissenschaftlichen Fakultat, ausnahmsweise auch an anderen Fakultiten der Friedrich-AlexanderUniversitat vertretenes Halbfach gewahlt werden. 
+
+Ausgefertigt aufgrund der Beschliisse des Senats der Universitit Erlangen-Niirnberg vom 23. Juli 1997 und 28. Januar 1998 und Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben178. vom 8. September 1997 und 14. Januar 1998 Nr. X/4-26c/60a1-26/116 830 und Nr. X/4-5e66a(3)-6/186 
+
+Erlangen, den 29. Januar 1998 
+
+Prof. Dr. G. Jasper Rektor 
+
+Die Satzung wurde am 29. Januar 1998 in der Universitit Erlangen-Niimberg niedergelegt; die Niederlegung wurde amist 29,der Januar29. Januar19981998. durch Anschlag in der Universitit Erlangen-Niimnberg bekanntgegeben. Tag der Bekanntmachung 
+
+i 
+
+| | 
 

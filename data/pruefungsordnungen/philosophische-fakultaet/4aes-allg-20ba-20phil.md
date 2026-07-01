@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-Allg%20BA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:28+00:00
-page_count_chars: 1795
+scraped_at: 2026-07-01T09:28:15+00:00
+page_count_chars: 1793
 ---
 
 # 4. September 2009
@@ -14,7 +14,7 @@ page_count_chars: 1795
 
 **Vierte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABStPO/Phil -** 
 
-## Vom 4. September 2009 
+# Vom 4. September 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -30,7 +30,7 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge der 
 
 - c) Die bisherigen Sätze 4 bis 6 werden zu den Sätzen 3 bis 5. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag ihrer Bekanntmachung in Kraft. 
 

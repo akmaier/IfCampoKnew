@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Mittellatein und Neulatein FPOMiLatNeuLat 20191009 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Mittellatein_und_Neulatein/Aenderungssatzungen/MA_Mittellatein_und_Neulatein_FPOMiLatNeuLat_20191009_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:05+00:00
-page_count_chars: 1874
+scraped_at: 2026-07-01T09:45:17+00:00
+page_count_chars: 1878
 ---
 
 # MA Mittellatein und Neulatein FPOMiLatNeuLat 20191009 ÄS.pdf
@@ -12,21 +12,21 @@ page_count_chars: 1874
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Mittellatein_und_Neulatein/Aenderungssatzungen/MA_Mittellatein_und_Neulatein_FPOMiLatNeuLat_20191009_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Satzung zur Aufhebung des Masterstudiengangs Mittellatein und Neulatein sowie zur Aufhebung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) (FPOMiLatNeuLat) – Aufhebungssatzung FPOMiLatNeuLat –** 
+# **Satzung zur Aufhebung des Masterstudiengangs Mittellatein und Neulatein sowie zur Aufhebung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) (FPOMiLatNeuLat) – Aufhebungssatzung FPOMiLatNeuLat –** 
 
-## **Vom 9. Oktober 2019** 
+# **Vom 9. Oktober 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Satzung: 
 
-## **§ 1 Aufhebung des Studiengangs** 
+# **§ 1 Aufhebung des Studiengangs** 
 
-1Der Masterstudiengang Mittellatein und Neulatein an der FAU wird sowohl in der Vollzeitals auch der Teilzeitvariante zum Wintersemester 2019/2020 aufgehoben.[2] Spätestens mit Beginn des Wintersemesters 2019/2020 (1. Oktober 2019) werden für diese Studiengänge weder für das erste noch für höhere Fachsemester Studierende zugelassen und eingeschrieben. 
+1Der Masterstudiengang Mittellatein und Neulatein an der FAU wird sowohl in der Vollzeitals auch der Teilzeitvariante zum Wintersemester 2019/2020 aufgehoben.<sup>2</sup> Spätestens mit Beginn des Wintersemesters 2019/2020 (1. Oktober 2019) werden für diese Studiengänge weder für das erste noch für höhere Fachsemester Studierende zugelassen und eingeschrieben. 
 
-## **§ 2 Aufhebung der Satzung** 
+# **§ 2 Aufhebung der Satzung** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der FAU (FPOMiLatNeuLat) vom 8. Juni 2010, zuletzt geändert durch Satzung vom 3. August 2015, wird aufgehoben. 
 
-## **§ 3 In-Kraft-Treten** 
+# **§ 3 In-Kraft-Treten** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

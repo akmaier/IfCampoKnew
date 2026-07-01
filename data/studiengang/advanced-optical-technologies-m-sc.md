@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Elitestudiengang/-programm, Internationales Studienangebot"
-scraped_at: 2026-05-01T06:42:21+00:00
+scraped_at: 2026-07-01T08:18:29+00:00
 ---
 
 # Advanced Optical Technologies (M.Sc.)

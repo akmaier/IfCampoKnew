@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_Dipl_SIM.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:42+00:00
-page_count_chars: 2682
+scraped_at: 2026-07-01T11:33:40+00:00
+page_count_chars: 2689
 ---
 
 # 25. Juli 2008
@@ -12,9 +12,9 @@ page_count_chars: 2682
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_Dipl_SIM.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
 
-## Vom 25. Juli 2008 
+# Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -44,7 +44,7 @@ a) Das Wort „Team-orientierte“ wird gestrichen.
 
 b) Satz 2 wird wie folgt neu gefasst: 
 
-„[2] Wird die Arbeit im Team durchgeführt, bearbeiten 3 bis 5 Studenten gemeinsam und gleichzeitig einen umfassenden Themenkomplex, wobei der Einzelbeitrag im Umfang einer „Studienarbeit“ bzw. „Bachelor-Arbeit“ entspricht.“ 
+„<sup>2</sup> Wird die Arbeit im Team durchgeführt, bearbeiten 3 bis 5 Studenten gemeinsam und gleichzeitig einen umfassenden Themenkomplex, wobei der Einzelbeitrag im Umfang einer „Studienarbeit“ bzw. „Bachelor-Arbeit“ entspricht.“ 
 
 ## **§ 2** 
 

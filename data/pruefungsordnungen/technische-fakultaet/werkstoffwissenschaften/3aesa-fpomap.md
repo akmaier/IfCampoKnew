@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "13. März 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa_FPOMAP.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:31:45+00:00
-page_count_chars: 22257
+scraped_at: 2026-07-01T11:47:36+00:00
+page_count_chars: 22484
 ---
 
 # 13. März 2017
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den Masterstudiengang „Advanced Materials and Pr
 
    - b) Satz 2 wird wie folgt geändert: 
 
-      - aa) Das Wort und die Zeichen „Diplom-,“ werden gestrichen. 
+aa) Das Wort und die Zeichen „Diplom-,“ werden gestrichen. 
 
 1 
 
@@ -50,9 +50,9 @@ Die Fachprüfungsordnung für den Masterstudiengang „Advanced Materials and Pr
 
 ## „ **§ 3 Qualifikation zur Aufnahme in den Elitestudiengang** 
 
-(1)[ 1] Qualifikationsvoraussetzung zum Masterstudium „Advanced Materials and Processes“ ist ein mit überdurchschnittlichem Erfolg abgeschlossenes fachspezifisches Studium des Chemie- und Bioingenieurwesens, der Werkstoffwissenschaften oder eines fachverwandten Studienganges (insbesondere Life Science Engineering, Medizintechnik, Biotechnology) gemäß § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** sowie das Bestehen des Qualifikationsfeststellungsverfahrens nach **Anlage 3** i. V. m. **Anlage  ABMPO/TechFak** .[2] Bei Abschlüssen, die mit einem anderen Notensystem bewertet sind, gilt § 12 Abs. 3 **ABMPO/TechFak** entsprechend. 
+(1)<sup>1</sup> Qualifikationsvoraussetzung zum Masterstudium „Advanced Materials and Processes“ ist ein mit überdurchschnittlichem Erfolg abgeschlossenes fachspezifisches Studium des Chemie- und Bioingenieurwesens, der Werkstoffwissenschaften oder eines fachverwandten Studienganges (insbesondere Life Science Engineering, Medizintechnik, Biotechnology) gemäß § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** sowie das Bestehen des Qualifikationsfeststellungsverfahrens nach **Anlage 3** i. V. m. **Anlage  ABMPO/TechFak** .<sup>2</sup> Bei Abschlüssen, die mit einem anderen Notensystem bewertet sind, gilt § 12 Abs. 3 **ABMPO/TechFak** entsprechend. 
 
-(2)[1] Bewerberinnen bzw. Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,00 (Prädikat „gut“) abgeschlossen haben. 2§ 12 Abs. 3 **ABMPO/TechFak** gilt entsprechend.“ 
+(2)<sup>1</sup> Bewerberinnen bzw. Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,00 (Prädikat „gut“) abgeschlossen haben. 2§ 12 Abs. 3 **ABMPO/TechFak** gilt entsprechend.“ 
 
 ## 7. § 4 wird wie folgt geändert: 
 
@@ -60,7 +60,7 @@ Die Fachprüfungsordnung für den Masterstudiengang „Advanced Materials and Pr
 
 ## b) Abs. 1 erhält folgende neue Fassung: 
 
-„[1] Zur Entscheidung über die Aufnahme geeigneter Studierender wird eine gemeinsame Zugangskommission gebildet.[2] Dieser gehören je eine Professorin bzw. ein Professor der an der Lehre im Elitestudiengang Beteiligten aus den Bereichen Chemie- und Bioingenieurwesen sowie Werkstoffwissenschaf- 
+„<sup>1</sup> Zur Entscheidung über die Aufnahme geeigneter Studierender wird eine gemeinsame Zugangskommission gebildet.<sup>2</sup> Dieser gehören je eine Professorin bzw. ein Professor der an der Lehre im Elitestudiengang Beteiligten aus den Bereichen Chemie- und Bioingenieurwesen sowie Werkstoffwissenschaf- 
 
 2 
 
@@ -70,7 +70,7 @@ ten und je eine wissenschaftliche Mitarbeiterin bzw. ein wissenschaftlicher Mita
 
 - d) In Abs. 3 werden das Wort „Auswahlkommission“ durch das Wort „Zugangskommission“ ersetzt, nach den Worten „ihrer Mitte“ die Worte „die bzw.“ eingefügt und nach den Worten „Vorsitzenden und“ das Wort „den“ durch die Worte „deren bzw. dessen Stellvertreterin bzw.“ ersetzt. 
 
-## e) Abs. 4 wird gestrichen. 
+- e) Abs. 4 wird gestrichen. 
 
 ## 8. § 5 wird wie folgt geändert: 
 
@@ -78,19 +78,19 @@ ten und je eine wissenschaftliche Mitarbeiterin bzw. ein wissenschaftlicher Mita
 
 - b) Abs. 1 erhält folgende neue Fassung: 
 
-„(1)[1] Der Studiengang besteht aus 17 Modulen mit einem Gesamtumfang von insgesamt 120 ECTS-Punkten gemäß Anlage 1.[2] Die Gestaltung der Module 1 – 4 wird für jede Studierende bzw. jeden Studierenden in einem individuellen Studienplan festgelegt.“ 
+„(1)<sup>1</sup> Der Studiengang besteht aus 17 Modulen mit einem Gesamtumfang von insgesamt 120 ECTS-Punkten gemäß Anlage 1.<sup>2</sup> Die Gestaltung der Module 1 – 4 wird für jede Studierende bzw. jeden Studierenden in einem individuellen Studienplan festgelegt.“ 
 
 c) Abs. 2 wird wie folgt geändert: 
 
-- aa) Die Worte „Die Auswahlkommission“ werden durch die Worte „[1] Die Zugangskommission“ ersetzt. 
+- aa) Die Worte „Die Auswahlkommission“ werden durch die Worte „<sup>1</sup> Die Zugangskommission“ ersetzt. 
 
 - bb) Die Worte „Studiums für jeden Studenten“ werden durch die Worte „ersten Semesters für jede bzw. jeden Studierenden“ ersetzt. 
 
 - cc) Die Worte „in Abhängigkeit von den Vorkenntnissen“ werden durch die Worte „(M1 – M4) anhand des Modulhandbuchs“ ersetzt. 
 
-- dd) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
+dd) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Dabei ist bei der Modulwahl ein sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs „Advanced Materials and Processes“ (MAP) ergebender fachspezifischer 
+„<sup>2</sup> Dabei ist bei der Modulwahl ein sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs „Advanced Materials and Processes“ (MAP) ergebender fachspezifischer 
 
 3 
 
@@ -114,9 +114,9 @@ d) Abs. 3 wird wie folgt geändert:
 
 ## **Wahlpflichtmodule M9 – M12** 
 
-(1)[1] Das Qualifikationsziel der Wahlpflichtmodule M9 - M12 liegt darin, den Studierenden zu ermöglichen, sich in zwei Schwerpunktbereichen („Biomaterials and Bioprocessing“, „Nanomaterials and Nanotechnology“, „Computational Materials Science and Process Simulation“, „Advanced Processes“) erstens thematisch zu vertiefen.[2] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil herauszubilden. 
+(1)<sup>1</sup> Das Qualifikationsziel der Wahlpflichtmodule M9 - M12 liegt darin, den Studierenden zu ermöglichen, sich in zwei Schwerpunktbereichen („Biomaterials and Bioprocessing“, „Nanomaterials and Nanotechnology“, „Computational Materials Science and Process Simulation“, „Advanced Processes“) erstens thematisch zu vertiefen.<sup>2</sup> Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil herauszubilden. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen sind: mündliche Prüfung (45 Minuten) oder Klausur (60 Minuten).[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen sind: mündliche Prüfung (45 Minuten) oder Klausur (60 Minuten).<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (3) Die Wahlpflichtmodule setzen sich in der Regel entweder aus zwei Vorlesungen (je 2 SWS) und zwei Übungen (je 1 SWS), zwei Vorlesungen (je 2 SWS) und einer Übung (1 SWS) und einem Seminar (1 SWS) oder aus 3 Vorlesungen (je 3 SWS) und einer Übung (1 SWS) zusammen.“ 
 
@@ -128,7 +128,7 @@ d) Abs. 3 wird wie folgt geändert:
 
 ## **Prüfungen des Masterstudiums** 
 
-1Die zum erfolgreichen Abschluss eines Moduls erforderliche Kompetenz wird durch Studien- und Prüfungsleistungen nachgewiesen.[2] Art und Umfang der Prüfungs- und Studienleistungen sind der **Anlage 1** zu entnehmen.“ 
+1Die zum erfolgreichen Abschluss eines Moduls erforderliche Kompetenz wird durch Studien- und Prüfungsleistungen nachgewiesen.<sup>2</sup> Art und Umfang der Prüfungs- und Studienleistungen sind der **Anlage 1** zu entnehmen.“ 
 
 11. Die Regelung in § 7 enthält folgende neue Fassung: 
 
@@ -136,9 +136,9 @@ d) Abs. 3 wird wie folgt geändert:
 
 12. § 8 wird wie folgt geändert: 
 
-   - a) In der Überschrift wird das Wort „Masterprüfung“ durch das Wort „Masterarbeit“ ersetzt. 
+- a) In der Überschrift wird das Wort „Masterprüfung“ durch das Wort „Masterarbeit“ ersetzt. 
 
-   - b) Vor dem Wort „Dem“ werden die Worte und die hochgestellte Zahl „[1] Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Module 1 - 16 erfolgreich absolviert worden sind.[2] “ eingefügt. 
+- b) Vor dem Wort „Dem“ werden die Worte und die hochgestellte Zahl „<sup>1</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Module 1 - 16 erfolgreich absolviert worden sind.<sup>2</sup> “ eingefügt. 
 
 ## 13. § 9 erhält folgende neue Fassung: 
 
@@ -146,9 +146,9 @@ d) Abs. 3 wird wie folgt geändert:
 
 ## **Masterarbeit** 
 
-(1)[ 1] Die bzw. der Studierende meldet sich nach dem erfolgreichen Abschluss der Module 1 – 16 zur Masterarbeit an.[2] Ausnahmen sind in begründeten Fällen (z. B. Belegung der Zusatzstudien nach § 11 i. V. m. **Anlage 2** ) möglich. 
+(1)<sup>1</sup> Die bzw. der Studierende meldet sich nach dem erfolgreichen Abschluss der Module 1 – 16 zur Masterarbeit an.<sup>2</sup> Ausnahmen sind in begründeten Fällen (z. B. Belegung der Zusatzstudien nach § 11 i. V. m. **Anlage 2** ) möglich. 
 
-(2) Die Masterarbeit dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen in einem einschlägigen, aktuellen Forschungsgebiet nachzuweisen.[2] Die Masterarbeit beinhaltet einen Vortrag mit anschließender Diskussion über die Ergebnisse der Masterarbeit.[3] Der Termin des Vortrags wird von der betreuenden Lehrperson festgelegt. 
+(2) Die Masterarbeit dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen in einem einschlägigen, aktuellen Forschungsgebiet nachzuweisen.<sup>2</sup> Die Masterarbeit beinhaltet einen Vortrag mit anschließender Diskussion über die Ergebnisse der Masterarbeit.<sup>3</sup> Der Termin des Vortrags wird von der betreuenden Lehrperson festgelegt. 
 
 (3) Das Thema der Masterarbeit wird von einer Professorin bzw. einem Professor oder einer prüfungsberechtigten Wissenschaftlerin bzw. einem prüfungsberechtigten Wissenschaftler ausgegeben, die bzw. der im Elitestudiengang „Advanced 
 
@@ -176,7 +176,7 @@ d) Abs. 3 wird wie folgt geändert:
 
 bb) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Die Studien- und Prüfungsleistungen der Module M1 – M17 dürfen jeweils nur einmal wiederholt werden.“ 
+„<sup>2</sup> Die Studien- und Prüfungsleistungen der Module M1 – M17 dürfen jeweils nur einmal wiederholt werden.“ 
 
 cc) Sätze 3 bis 5 werden gestrichen. 
 
@@ -186,13 +186,13 @@ cc) Sätze 3 bis 5 werden gestrichen.
 
 ## **Zusatzstudien „Research Focus“ und „Industry Focus“** 
 
-(1)[1] Studierende, die im Masterstudiengang „Advanced Materials and Processes“ immatrikuliert sind, können parallel zum Studium die Zusatzstudien „Research Focus“ oder „Industry Focus“ absolvieren.[2] Mit erfolgreichem Abschluss der Zu- 
+(1)<sup>1</sup> Studierende, die im Masterstudiengang „Advanced Materials and Processes“ immatrikuliert sind, können parallel zum Studium die Zusatzstudien „Research Focus“ oder „Industry Focus“ absolvieren.<sup>2</sup> Mit erfolgreichem Abschluss der Zu- 
 
 6 
 
 satzstudien weisen die Studierenden weiterführende Qualifikationen in Bezug auf wissenschaftliches Arbeiten („Research Focus“) bzw. wirtschaftsbezogene Qualifikationen („Industry Focus“) nach. 
 
-(2)[1] Die Zusatzstudien „Research Focus“ umfassen folgende vier Module mit den spezifizierten ECTS Punkten: 
+(2)<sup>1</sup> Die Zusatzstudien „Research Focus“ umfassen folgende vier Module mit den spezifizierten ECTS Punkten: 
 
 - M18: Wahlmodul mit naturwissenschaftlich-technischer Orientierung (5 ECTS) 
 
@@ -212,9 +212,9 @@ satzstudien weisen die Studierenden weiterführende Qualifikationen in Bezug auf
 
 - M25: Industriepraktikum (10 ECTS). 
 
-3Näheres zur Ausgestaltung der Module sowie zu Art und Umfang der Prüfungen ist der **Anlage 2** zu entnehmen.[4] In Bezug auf die Anmeldung zu den Prüfungen, Wiederholung der Prüfungen, den Rücktritt, Täuschung und Ordnungsverstoß sowie Bewertung gelten die Regelungen dieser Prüfungsordnung entsprechend. 5Die Zulassung zu den Prüfungen in den Modulen M20 und M24 setzt den erfolgreichen Abschluss des Moduls M13 voraus. 
+3Näheres zur Ausgestaltung der Module sowie zu Art und Umfang der Prüfungen ist der **Anlage 2** zu entnehmen.<sup>4</sup> In Bezug auf die Anmeldung zu den Prüfungen, Wiederholung der Prüfungen, den Rücktritt, Täuschung und Ordnungsverstoß sowie Bewertung gelten die Regelungen dieser Prüfungsordnung entsprechend. 5Die Zulassung zu den Prüfungen in den Modulen M20 und M24 setzt den erfolgreichen Abschluss des Moduls M13 voraus. 
 
-(3)[1] Nach Bestehen der in Abs. 2 erforderlichen Modulprüfungen erhält die bzw. der Studierende ein Zertifikat „Additional Research Qualifications“ bzw. „Additional Qualifications for Business and Industry“, das die erfolgreich erbrachten Leistungen einschließlich der ECTS-Punkte und Modulnoten enthält.[2] Dieses wird in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.[3] Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung Zusatzstudien davon ausgenommen werden. 
+(3)<sup>1</sup> Nach Bestehen der in Abs. 2 erforderlichen Modulprüfungen erhält die bzw. der Studierende ein Zertifikat „Additional Research Qualifications“ bzw. „Additional Qualifications for Business and Industry“, das die erfolgreich erbrachten Leistungen einschließlich der ECTS-Punkte und Modulnoten enthält.<sup>2</sup> Dieses wird in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.<sup>3</sup> Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung Zusatzstudien davon ausgenommen werden. 
 
 **§ 12 Masterarbeit** 
 
@@ -228,30 +228,30 @@ satzstudien weisen die Studierenden weiterführende Qualifikationen in Bezug auf
 
 ## 16. Nach § 14 werden folgende neue Anlagen 1 und 2 eingefügt: 
 
-## „ **Anlage 1: Studienverlaufsplan** 
+## <u>„</u> **Anlage 1: Studienverlaufsplan** 
 
-|Nr.|**Modulgruppen**|Modul|Modul|SWS|SWS|Gesamt<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Umfang und Art der<br>Prüfungs- und Studien-<br>leistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||V+Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS||
-|M1|**Grundlagenfächer**<br>**(20 ECTS)**|Grundlagenfach I(Wahlpflicht)||2+1||5|5||||SL(K90min)|
-|M2||Grundlagenfach II(Wahlpflicht)||2+1||5|5||||SL(K90min)|
-|M3||Grundlagenfach III(Wahlpflicht)||2+1||5|5||||SL(K90min)|
-|M4||Grundlagenfach IV(Wahlpflicht)||2+1||5|5||||SL(K 90min)|
-|M5|**Allgemeine Fächer**<br>**(20 ECTS)**|AllgemeineFächer I(AdvancedProcesses)||4||5|2,5|2,5|||PL(K 120min)|
-|M6||Allgemeine Fächer II (Biomaterials and Bi-<br>oprocessing)||4||5|2,5|2,5|||PL (K 120 min)|
-|M7||Allgemeine Fächer III (Computational Mate-<br>rials Science andProcess Simulation)||4||5|2,5|2,5|||PL (K 120 min)|
-|M8||Allgemeine Fächer IV (Nanomaterials and<br>Nanotechnology)||4||5|2,5|2,5|||PL (K 120 min)|
-|M9|**Schwerpunkt A1)**<br>**(15 ECTS)**|Schwerpunkt A||4+2||7,5||7,5|||1)|
-|M10||||4+2||7,5|||7,5||1)|
-|M11|**Schwerpunkt B1)**<br>**(15 ECTS)**|Schwerpunkt B||4+2||7,5||7,5|||1)|
-|M12||||4+2||7,5|||7.5||1)|
-|M13|**Miniprojekt (10 ECTS)**||||8|10|||10||PL (PrL: schriftliche<br>Projektarbeit)|
-|M14|**Wissenschaftsskills I**<br>**(2,5 ECTS)**|Allgemeines Laborpraktikum|||2|2,5|2,5||||SL (PrL: Protokollheft)|
-|M15|**Wissenschaftsskills II**<br>**(2,5 ECTS)**|Literaturrecherche||2||2,5|||2,5||PL (SeL: schriftliche<br>Ausarbeitung)|
-|M 16|**Soft-Skills (5 ECTS)**|Schlüsselqualifikationen<br>Exkursionen||4||5||2,5|2,5||SL (Diskussionsbei-<br>trag)|
-|M17|**Masterarbeit (30 ECTS)**|Masterarbeit|Kolloquium|||30||||3|PL (Vortrag, 30min)|
-||||Masterarbeit|||||||27|PL(Masterarbeit)|
-||||Summe:|58|10|120|32,5|27,5|30|30||
+|Nr.|**Modulgruppen**|Modul|SW|S|Gesamt<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Umfang und Art der<br>Prüfungs- und Studien-<br>leistung|
+|---|---|---|---|---|---|---|---|---|---|---|
+||||V+Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS||
+|M1||Grundlagenfach I(Wahlpflicht)|2+1||5|5||||SL(K90min)|
+|M2|**Grundlagenfächer**|Grundlagenfach II(Wahlpflicht)|2+1||5|5||||SL(K90min)|
+|M3|**(20 ECTS)**|Grundlagenfach III(Wahlpflicht)|2+1||5|5||||SL(K90min)|
+|M4||Grundlagenfach IV(Wahlpflicht)|2+1||5|5||||SL(K 90min)|
+|M5||AllgemeineFächer I(AdvancedProcesses)|4||5|2,5|2,5|||PL(K 120min)|
+|M6|**Allemeine Fächer**|Allgemeine Fächer II (Biomaterials and Bi-<br>oprocessing)|4||5|2,5|2,5|||PL (K 120 min)|
+|M7|**g**<br>**(20 ECTS)**|Allgemeine Fächer III (Computational Mate-<br>rials Science andProcess Simulation)|4||5|2,5|2,5|||PL (K 120 min)|
+|M8||Allgemeine Fächer IV (Nanomaterials and<br>Nanotechnology)|4||5|2,5|2,5|||PL (K 120 min)|
+|M9|**Schwerpunkt A**<sup>**1)**</sup>|Schwernkt A|4+2||7,5||7,5|||<sup>1)</sup>|
+|M10|**(15 ECTS)**|pu|4+2||7,5|||7,5||<sup>1)</sup>|
+|M11|**Schwerpunkt B**<sup>**1)**</sup>|Shkt B|4+2||7,5||7,5|||<sup>1)</sup>|
+|M12|**(15 ECTS)**|cwerpun|4+2||7,5|||7.5||1)|
+|M13|**Miniprojekt (10 ECTS)**|||8|10|||10||PL (PrL: schriftliche<br>Projektarbeit)|
+|M14|**Wissenschaftsskills I**<br>**(2,5 ECTS)**|Allgemeines Laborpraktikum||2|2,5|2,5||||SL (PrL: Protokollheft)|
+|M15|**Wissenschaftsskills II**<br>**(2,5 ECTS)**|Literaturrecherche|2||2,5|||2,5||PL (SeL: schriftliche<br>Ausarbeitung)|
+|M 16|**Soft-Skills (5 ECTS)**|Schlüsselqualifikationen<br>Exkursionen|4||5||2,5|2,5||SL (Diskussionsbei-<br>trag)|
+|M17|**Masterarbeit (30 ECTS)**|Masterarbeit<br>Kolloquium|||30||||3|PL (Vortrag, 30min)|
+|||<br>Masterarbeit|||||||27|PL(Masterarbeit)|
+|||Summe:|58|10|120|32,5|27,5|30|30||
 
 PL = Prüfungsleistung (benotet), SL = Studienleistung, PrL = Praktikumsleistung, SeL = Seminarleistung, K xmin = Klausur x Minuten, m xmin = Mündliche Prüfung x Minuten 
 
@@ -259,21 +259,20 @@ PL = Prüfungsleistung (benotet), SL = Studienleistung, PrL = Praktikumsleistung
 
 ## **Anlage 2:  Zusatzstudien i. S. d. § 11** 
 
-|||**Zusatzstudien****_Research_**|**Zusatzstudien****_Research_**|**Zusatzstudien****_Research_**|**_Focus_**||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|**Modulgruppen**|Modul|SWS||Gesamt<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Umfang und Art der<br>Prüfungs- und Studien-<br>leistung|
-||||V+Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS||
-|M18|**Wahlmodul**<br>**(5 ECTS)**|Wahlmodul aus der Naturwissenschaftlichen<br>oderder Technischen Fakultät|2+1||5||5|||PL/SL (je nach gewähl-<br>tem Modul)|
-|M19|**Soft skills**|Wissenschaftsorientierte Softskills; zusätz-<br>lich zu Angebot aus M14|4||5||5|||SL (SeL)|
-|M20|**Miniprojekt 2**|Forschungsorientiertes Miniprojekt||8|10|||10||PL (PrL: schriftliche<br>Projektarbeit)|
-|M21|**Externes Praktikum**|Forschungspraktikum in Industrie, außeruni-<br>versitären Instituten oder Universitäten<br>(auch im Ausland)mind. 12 Wochen|||10|||10||SL (PrL)|
-|||Summe|7|8|30||10|20|||
+|||**Zusatzstudi**|**en****_Research_**<br>|**_Focus_**<br>Gesamt|||||Umfang und Art der<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|Nr.|**Modulgruppen**|Modul|SWS|ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Prüfungs- und Studien-<br>leistung|
+||||V+Ü<br>P|ECTS|ECTS|ECTS|ECTS|ECTS||
+|M18|**Wahlmodul**<br>**(5 ECTS)**|Wahlmodul aus der Naturwissenschaftlichen<br>oderder Technischen Fakultät|2+1|5||5|||PL/SL (je nach gewähl-<br>tem Modul)|
+|M19|**Soft skills**|Wissenschaftsorientierte Softskills; zusätz-<br>lich zu Angebot aus M14|4|5||5|||SL (SeL)|
+|M20|**Miniprojekt 2**|Forschungsorientiertes Miniprojekt|8|10|||10||PL (PrL: schriftliche<br>Projektarbeit)|
+|M21|**Externes Praktikum**|Forschungspraktikum in Industrie, außeruni-<br>versitären Instituten oder Universitäten<br>(auch im Ausland)mind. 12 Wochen||10|||10||SL (PrL)|
+|||Summe|7<br>8|30||10|20|||
 
 PL = Prüfungsleistung (Benotet), SL = Studienleistung, SeL = Seminarleistung, PrL= Praktikumsleistung 
 
-|||**Zusatzstudien****_Industry Focus_**|**Zusatzstudien****_Industry Focus_**|**Zusatzstudien****_Industry Focus_**|**Zusatzstudien****_Industry Focus_**||||||
+|Nr.|**Modulgruppen**|**Zusatzstu**<br>Modul|**dien****_Indu_**<br>SWS|**_stry _**<br>|**_Focus_**<br>Gesamt<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Umfang und Art der<br>Prüfungs- und Studien-<br>leistung|
 |---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|**Modulgruppen**|Modul|SWS||Gesamt<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|Umfang und Art der<br>Prüfungs- und Studien-<br>leistung|
 ||||V+Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS||
 |M22|**Wahlmodul**<br>**(5 ECTS)**|Wahlmodul aus der Technischen oder der<br>Rechts- und Wirtschaftwisenschaftlichen<br>Fakultät|2+1||5||5|||PL/SL (je nach gewähl-<br>tem Modul)|
 |M23|**Soft skills**|Arbeitsumfeldsbezogene Softskills; zusätz-<br>lich zuAngebot ausM14|4||5||5|||SL (SeL)|
@@ -303,7 +302,7 @@ PL = Prüfungsleistung (Benotet), SL = Studienleistung, SeL = Seminarleistung, P
 
 4. soweit vorhanden weitere studiengangsrelevante Qualifikationsnachweise, bspw. über bestandene Module zu wissenschafts- bzw. forschungsbezogenem Arbeiten (mind. 7,5 ECTS-Punkte), Nachweise bestandener Module mit einer ingenieurswissenschaftlichen Thematik (mind. 7,5 ECTS-Punkte), oder Nachweise beruflicher Praktika in einem naturwissenschaftlich- oder technischen Umfeld (mind. 3 Monate in Vollzeit) oder vergleichbare Nachweise. 
 
-(4)[1] Die Zugangskommission beurteilt im Rahmen des Qualifikationsfeststellungsverfahrens in einer Vorauswahl anhand der schriftlichen Unterlagen, ob eine Bewerberin bzw. ein Bewerber die grundsätzliche Eignung zum Masterstudium besitzt.[2] Bewerberinnen und Bewerber mit einem Abschluss im Sinne der § 29 **ABMPO/TechFak** i. V. m. § 3 Abs. 1 bzw. im Falle des § 29 Abs. 3 **ABMPO/TechFak** einem Durchschnitt der bisherigen Leistungen mit einer Note von 2,00 oder besser werden zu einem 20-minütigen Interview eingeladen, das auch bildtelefonisch durchgeführt werden kann.[3] Bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 12 Abs. 3 **ABMPO/TechFak** entsprechend.[4] Bewerberinnen und Bewerber mit einem Abschluss im Sinne des § 29 **ABMPO/TechFak** i. V. m. § 3 Abs. 1 Nr. 1 bzw. im Falle des § 29 Abs. 3 **ABMPO/TechFak** mit einem Durchschnitt der bisherigen Leistungen von 2,01 bis 2,20 (= gut) werden zu einem Auswahlgespräch eingeladen, wenn sie weitere für den Elitemasterstudiengang relevante Qualifikationen i. S. d. Abs. 3 Nr. 4 nachweisen können.[ 5] Die übrigen Bewerberinnen und Bewerber erhalten einen mit einer Begründung und einer Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.[6] Das Interview wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt, wobei je ein Mitglied aus dem Bereich der Werkstoffwissenschaften sowie des Chemie- und Bioingenieurwesens kommen muss.[7] Das Interview wird in englischer Sprache geführt.[8] Im Interview müssen die Bewerberinnen und Bewerber ihre vorliegende Qualifikation und ihre bisherigen Arbeiten in für den Studiengang relevanten Bereichen darstellen und auf Nachfragen vertreten sowie Fachfragen zu für den Elitestudiengang relevanten Themengebieten angemessen beantworten; die Qualifikation der Bewerberinnen bzw. Bewerber für den Elitestudiengang wird beurteilt anhand folgender gewichteter Kriterien: 
+(4)<sup>1</sup> Die Zugangskommission beurteilt im Rahmen des Qualifikationsfeststellungsverfahrens in einer Vorauswahl anhand der schriftlichen Unterlagen, ob eine Bewerberin bzw. ein Bewerber die grundsätzliche Eignung zum Masterstudium besitzt.<sup>2</sup> Bewerberinnen und Bewerber mit einem Abschluss im Sinne der § 29 **ABMPO/TechFak** i. V. m. § 3 Abs. 1 bzw. im Falle des § 29 Abs. 3 **ABMPO/TechFak** einem Durchschnitt der bisherigen Leistungen mit einer Note von 2,00 oder besser werden zu einem 20-minütigen Interview eingeladen, das auch bildtelefonisch durchgeführt werden kann.<sup>3</sup> Bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 12 Abs. 3 **ABMPO/TechFak** entsprechend.<sup>4</sup> Bewerberinnen und Bewerber mit einem Abschluss im Sinne des § 29 **ABMPO/TechFak** i. V. m. § 3 Abs. 1 Nr. 1 bzw. im Falle des § 29 Abs. 3 **ABMPO/TechFak** mit einem Durchschnitt der bisherigen Leistungen von 2,01 bis 2,20 (= gut) werden zu einem Auswahlgespräch eingeladen, wenn sie weitere für den Elitemasterstudiengang relevante Qualifikationen i. S. d. Abs. 3 Nr. 4 nachweisen können.<sup>5</sup> Die übrigen Bewerberinnen und Bewerber erhalten einen mit einer Begründung und einer Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.<sup>6</sup> Das Interview wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt, wobei je ein Mitglied aus dem Bereich der Werkstoffwissenschaften sowie des Chemie- und Bioingenieurwesens kommen muss.<sup>7</sup> Das Interview wird in englischer Sprache geführt.<sup>8</sup> Im Interview müssen die Bewerberinnen und Bewerber ihre vorliegende Qualifikation und ihre bisherigen Arbeiten in für den Studiengang relevanten Bereichen darstellen und auf Nachfragen vertreten sowie Fachfragen zu für den Elitestudiengang relevanten Themengebieten angemessen beantworten; die Qualifikation der Bewerberinnen bzw. Bewerber für den Elitestudiengang wird beurteilt anhand folgender gewichteter Kriterien: 
 
 1. Qualität der Grundkenntnisse in den Bereichen Chemie- und Bioingenieurwesen o- der Werkstoffwissenschaften (Gewichtung 40%) 
 
@@ -313,7 +312,7 @@ PL = Prüfungsleistung (Benotet), SL = Studienleistung, SeL = Seminarleistung, P
 
 3. Fähigkeiten, sich in fachübergreifende Problemstellungen in den Bereichen Chemieund Bioingenieurswesen und Werkstoffwissenschaften einzufinden und Lösungsvorschläge zu erarbeiten (Gewichtung 20%). 
 
-(5)[1] Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber durch die Zugangskommission schriftlich mitgeteilt. Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen.[2] Eine Wiederholung des Qualifikationsfeststellungsverfahrens auf Basis der bereits eingereichten Unterlagen ist nicht zulässig. 
+(5)<sup>1</sup> Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber durch die Zugangskommission schriftlich mitgeteilt. Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Eine Wiederholung des Qualifikationsfeststellungsverfahrens auf Basis der bereits eingereichten Unterlagen ist nicht zulässig. 
 
 (6) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat.“ 
 

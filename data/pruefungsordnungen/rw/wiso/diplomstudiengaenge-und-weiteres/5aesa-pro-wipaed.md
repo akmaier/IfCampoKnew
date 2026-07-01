@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. August 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-PrO-Wipaed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:53+00:00
-page_count_chars: 2402
+scraped_at: 2026-07-01T10:53:37+00:00
+page_count_chars: 2410
 ---
 
 # 17. August 2004
@@ -12,7 +12,7 @@ page_count_chars: 2402
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-PrO-Wipaed.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Fünfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 17. August 2004 
 
@@ -24,7 +24,7 @@ Die Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirts
 
 1. § 23 Abs. 1 Satz 2 erhält folgende Fassung: 
 
-"[2] Hat der Kandidat in einem anderen wirtschaftswissenschaftlichen Diplomstudiengang an einer anderen wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes die Diplomprüfung erfolgreich abgelegt, werden Prüfungsleistungen, soweit sie sich auf die Fächer nach § 22 Abs. 1 beziehen, auf die Diplomvorprüfung angerechnet es sei denn, sie sind nicht gleichwertig." 
+"<sup>2</sup> Hat der Kandidat in einem anderen wirtschaftswissenschaftlichen Diplomstudiengang an einer anderen wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes die Diplomprüfung erfolgreich abgelegt, werden Prüfungsleistungen, soweit sie sich auf die Fächer nach § 22 Abs. 1 beziehen, auf die Diplomvorprüfung angerechnet es sei denn, sie sind nicht gleichwertig." 
 
 2. In § 27 Abs. 1 Nr. 2 werden nach den Worten „bestandene Diplomvorprüfung“ folgende Halbsätze eingefügt: 
 

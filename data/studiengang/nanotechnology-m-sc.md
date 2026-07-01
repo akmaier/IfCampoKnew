@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-05-01T06:49:30+00:00
+scraped_at: 2026-07-01T08:26:24+00:00
 ---
 
 # Nanotechnology (M.Sc.)

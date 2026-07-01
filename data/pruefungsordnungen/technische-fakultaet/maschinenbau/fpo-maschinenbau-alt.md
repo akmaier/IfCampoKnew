@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.1997 i.d.F. 11.09.2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Maschinenbau_ALT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:28:17+00:00
-page_count_chars: 29560
+scraped_at: 2026-07-01T11:44:56+00:00
+page_count_chars: 29947
 ---
 
 # PDF vom 02.09.1997 i.d.F. 11.09.2001
@@ -18,9 +18,9 @@ page_count_chars: 29560
 
 Die Fachprüfungsordnung Maschinenbau (FPOMB) alt findet Anwendung auf Studenten, die vor dem Inkrafttreten der **FPOMB neu** (..\FPO_Maschinenbau_NEU.pdf) d.h. vor dem 4. März 2003 (Stichtag) das Studium des Maschinenbaus begonnen haben und zum Stichtag bereits in das Hauptstudium getreten waren und sich nicht für die Anwendung der neuen FPO auf die Diplomvorprüfung entschieden haben. 
 
-## - **FPO alt** - 
+# - **FPO alt** - 
 
-## **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg Vom 2. September 1997** (KWMBl II 1998 S. 699) 
+# **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg Vom 2. September 1997** (KWMBl II 1998 S. 699) 
 
 geändert durch Satzungen vom 
 
@@ -60,19 +60,19 @@ Aufgrund der bestandenen Diplomprüfung im wissenschaftlichen Diplomstudiengang 
 
 ## **Gliederung des Studiums und Studiendauer** 
 
-(1)[1] Das Studium gliedert sich in ein Grundstudium und ein Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein Grundstudium und ein Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
 
-(2)[1] Das Studium des Maschinenbaus setzt sich je nach Wahl der Studienrichtung und der Fächerkombination aus Lehrveranstaltungen und Studienleistungen im Umfang von 159 bis 173 SWS, verteilt auf acht Semester, sowie zwei studienbegleitend anzufertigenden Studienarbeiten mit einem Arbeitsaufwand von jeweils ca. 200 Stunden zusammen.1)[2] Hinzu kommen mindestens drei Monate für die Ableistung des Teiles der insgesamt 26 Wochen umfassenden praktischen Tätigkeit, der während des Studiums zu erbringen ist (vgl. § 12 Abs. 4 Satz 1 Nr. 5) und sechs Monate für die Durchführung der Diplomarbeit (vgl. § 14).[3] Die Regelstudienzeit beträgt 10 Semester. 
+(2)<sup>1</sup> Das Studium des Maschinenbaus setzt sich je nach Wahl der Studienrichtung und der Fächerkombination aus Lehrveranstaltungen und Studienleistungen im Umfang von 159 bis 173 SWS, verteilt auf acht Semester, sowie zwei studienbegleitend anzufertigenden Studienarbeiten mit einem Arbeitsaufwand von jeweils ca. 200 Stunden zusammen.1)<sup>2</sup> Hinzu kommen mindestens drei Monate für die Ableistung des Teiles der insgesamt 26 Wochen umfassenden praktischen Tätigkeit, der während des Studiums zu erbringen ist (vgl. § 12 Abs. 4 Satz 1 Nr. 5) und sechs Monate für die Durchführung der Diplomarbeit (vgl. § 14).<sup>3</sup> Die Regelstudienzeit beträgt 10 Semester. 
 
 ------------------- 
 
-> 1) § 3 Abs. 2 Satz 1 in der Fassung der Änderungssatzung vom 27. Oktober 1999 gilt für Studenten, die ab dem WS 1999/2000 mit dem Studium beginnen. **Alte Fassung** : (..\FPO_Maschinenbau_vor1999.pdf) Für Studenten, die vor dem WS 1999/2000 mit dem Studium begonnen haben. 
+> 1) § 3 Abs. 2 Satz 1 in der Fassung der Änderungssatzung vom 27. Oktober 1999 gilt für Studenten, die ab dem WS 1999/2000 mit dem Studium beginnen. **<u>Alte Fassung</u>** <u>: (..\FPO_Maschinenbau_vor1999.pdf) Für Studenten, die vor dem WS</u> 1999/2000 mit dem Studium begonnen haben. 
 
 ## **§ 4 Studienbegleitende Ablegung der Diplomvorprüfung und Diplomhauptprüfung, Leistungspunktsystem** 
 
 (1) Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden nach Abschluss einer Lehrveranstaltung in der Regel in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum studienbegleitend abgelegt. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktsystem erbracht.[2] Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.[3] Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den in § 8 Abs. 5 für die Diplomvorprüfung und in § 13 Abs. 3 für die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet. 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktsystem erbracht.<sup>2</sup> Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.<sup>3</sup> Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den in § 8 Abs. 5 für die Diplomvorprüfung und in § 13 Abs. 3 für die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet. 
 
 ## **I. Diplomvorprüfung** 
 
@@ -110,7 +110,7 @@ c) Betriebliches Rechnungswesen I und II;
 
 (3) Werden Prüfungen in Teilprüfungen abgelegt, so ist die erstmalige Ablegung der ersten Teilprüfung Voraussetzung für die Zulassung zur zweiten Teilprüfung. 
 
-(4)[1] Der zum Erwerb der Scheine nach Absatz 1 und 2 erforderliche Wissenstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn einer Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Ein nicht erfolgreich absolvierter Leistungsnachweis (Schein) kann zweimal wiederholt werden. 
+(4)<sup>1</sup> Der zum Erwerb der Scheine nach Absatz 1 und 2 erforderliche Wissenstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn einer Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Ein nicht erfolgreich absolvierter Leistungsnachweis (Schein) kann zweimal wiederholt werden. 
 
 ## **§ 7 Umfang und Durchführung der Diplomvorprüfung** 
 
@@ -142,9 +142,9 @@ c) Betriebliches Rechnungswesen I und II;
 
 ## **Bestehen der Diplomvorprüfung, Wiederholung** 
 
-(1)[1] Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens "ausreichend" lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.[3] Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß Anlage 1 gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
+(1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens "ausreichend" lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.<sup>3</sup> Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß Anlage 1 gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
 
-(2)[1] In das Diplomvorprüfungszeugnis werden die in § 7 Abs. 1 genannten Fächer mit den erzielten Fachnoten aufgenommen. ²Ferner wird im Diplomvorprüfungszeugnis die erfolgreiche Teilnahme der in § 6 Abs. 2 Nr. 1 genannten Lehrveranstaltungen bescheinigt. 
+(2)<sup>1</sup> In das Diplomvorprüfungszeugnis werden die in § 7 Abs. 1 genannten Fächer mit den erzielten Fachnoten aufgenommen. ²Ferner wird im Diplomvorprüfungszeugnis die erfolgreiche Teilnahme der in § 6 Abs. 2 Nr. 1 genannten Lehrveranstaltungen bescheinigt. 
 
 (3) In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein. 
 
@@ -166,9 +166,9 @@ c) Betriebliches Rechnungswesen I und II;
 
 3. die Anfertigung einer Diplomarbeit. 
 
-(2)[1] Ein Pflichtfach soll einen Stoff im Umfang von mindestens vier und höchstens sechs Semesterwochenstunden Vorlesungen beziehungsweise Vorlesungen und Übungen umfassen.[2] In der Anlage sind für jede Studienrichtung getrennt die Pflichtund Hauptfächer aufgelistet.[3] Die Pflichtfächer sind in acht Fächergruppen aufgeteilt und in der Spalte 2 der der Studienrichtung entsprechenden Anlage aufgeführt (Anlagen 1 bis 3). 
+(2)<sup>1</sup> Ein Pflichtfach soll einen Stoff im Umfang von mindestens vier und höchstens sechs Semesterwochenstunden Vorlesungen beziehungsweise Vorlesungen und Übungen umfassen.<sup>2</sup> In der Anlage sind für jede Studienrichtung getrennt die Pflichtund Hauptfächer aufgelistet.<sup>3</sup> Die Pflichtfächer sind in acht Fächergruppen aufgeteilt und in der Spalte 2 der der Studienrichtung entsprechenden Anlage aufgeführt (Anlagen 1 bis 3). 
 
-(3)[1] Ein Hauptfach kennzeichnet einen Studienschwerpunkt und setzt sich aus dem innerhalb der Fächergruppe zugeordneten Pflichtfach (Spalte 2 der entsprechenden Anlage) und dem Vertiefungsfach (Spalte 3 der entsprechenden Anlage) zusammen. 2Das Vertiefungsfach soll einen das Pflichtfach ergänzenden Stoff im Umfang von mindestens vier und höchstens sechs Semesterwochenstunden Vorlesungen beziehungsweise Vorlesungen und Übungen umfassen.[3] Die Hauptfächer sind in der Spalte 4 der der Studienrichtung entsprechenden Anlage aufgeführt. 
+(3)<sup>1</sup> Ein Hauptfach kennzeichnet einen Studienschwerpunkt und setzt sich aus dem innerhalb der Fächergruppe zugeordneten Pflichtfach (Spalte 2 der entsprechenden Anlage) und dem Vertiefungsfach (Spalte 3 der entsprechenden Anlage) zusammen. 2Das Vertiefungsfach soll einen das Pflichtfach ergänzenden Stoff im Umfang von mindestens vier und höchstens sechs Semesterwochenstunden Vorlesungen beziehungsweise Vorlesungen und Übungen umfassen.<sup>3</sup> Die Hauptfächer sind in der Spalte 4 der der Studienrichtung entsprechenden Anlage aufgeführt. 
 
 (4) Die Diplomarbeit wird erst nach dem Bestehen aller Einzelfachprüfungen nach Absatz 1 Nrn. 1 und 2 ausgegeben. 
 
@@ -182,7 +182,7 @@ c) Betriebliches Rechnungswesen I und II;
 
 ## **§ 11 Studienkonzept für die Diplomhauptprüfung** 
 
-(1)[1] Durch die Wahl der Haupt- und Pflichtfächer sowie der Wahlpflichtlehrveranstaltungen innerhalb einer Studienrichtung ist die individuelle Studienausrichtung gekennzeichnet.[2] Ein Student hat ein Studienkonzept zu erstellen, das entsprechend der individuellen Studienausrichtung folgende Angaben enthalten muss: 
+(1)<sup>1</sup> Durch die Wahl der Haupt- und Pflichtfächer sowie der Wahlpflichtlehrveranstaltungen innerhalb einer Studienrichtung ist die individuelle Studienausrichtung gekennzeichnet.<sup>2</sup> Ein Student hat ein Studienkonzept zu erstellen, das entsprechend der individuellen Studienausrichtung folgende Angaben enthalten muss: 
 
 Bezeichnung der Studienrichtung sowie die innerhalb der Studienrichtung gewählten Lehrveranstaltungen mit Stundenumfang von 
 
@@ -196,7 +196,7 @@ Bezeichnung der Studienrichtung sowie die innerhalb der Studienrichtung gewählt
 
 (2) Spätestens drei Semester nach bestandener Diplomvorprüfung ist der erste Teil dieses Studienkonzeptes mit Angabe der Fächer nach Absatz 1 Nrn. 1 und 2 und spätestens bis zur Meldung zur letzten Einzelfachprüfung der Fächer nach Absatz 1 Nrn. 1 und 2 der zweite Teil mit Angabe der Wahlpflichtlehrveranstaltungen nach Absatz 1 Nr. 3 beim Prüfungsausschuss vorzulegen. 
 
-(3)[1] Das Studienkonzept und eventuelle spätere Änderungen bedürfen der Genehmigung durch den Prüfungsausschuss.[2] Das Studienkonzept wird genehmigt, wenn die formalen Kriterien nach Absatz 1 erfüllt sind und die ergänzenden Wahlpflichtlehrveranstaltungen nach Absatz 1 Nr. 3 in einem sinnvollen Zusammenhang mit den gewählten Hauptfächern stehen.[3] Wahlpflichtlehrveranstaltungen, die in dem vom Prüfungsausschuss für den Diplomstudiengang Maschinenbau empfohlenen Wahlfächerverzeichnis aufgeführt sind, gelten generell als genehmigt.[4] Eine Änderung des Studienkonzeptes wird nicht genehmigt, wenn sie Lehrveranstaltungen nach Absatz 1 betrifft, in denen bereits erstmalig eine Einzelfachprüfung beziehungsweise ein Studienleistungsnachweis erbracht worden ist. 
+(3)<sup>1</sup> Das Studienkonzept und eventuelle spätere Änderungen bedürfen der Genehmigung durch den Prüfungsausschuss.<sup>2</sup> Das Studienkonzept wird genehmigt, wenn die formalen Kriterien nach Absatz 1 erfüllt sind und die ergänzenden Wahlpflichtlehrveranstaltungen nach Absatz 1 Nr. 3 in einem sinnvollen Zusammenhang mit den gewählten Hauptfächern stehen.<sup>3</sup> Wahlpflichtlehrveranstaltungen, die in dem vom Prüfungsausschuss für den Diplomstudiengang Maschinenbau empfohlenen Wahlfächerverzeichnis aufgeführt sind, gelten generell als genehmigt.<sup>4</sup> Eine Änderung des Studienkonzeptes wird nicht genehmigt, wenn sie Lehrveranstaltungen nach Absatz 1 betrifft, in denen bereits erstmalig eine Einzelfachprüfung beziehungsweise ein Studienleistungsnachweis erbracht worden ist. 
 
 5 
 
@@ -206,9 +206,9 @@ Bezeichnung der Studienrichtung sowie die innerhalb der Studienrichtung gewählt
 
 (1) Voraussetzung für die Zulassung zur ersten Einzelfachprüfung gemäß § 9 Abs. 1 Nrn. 1 und 2 ist, dass die Diplomvorprüfung im wissenschaftlichen Diplomstudiengang Maschinenbau bestanden ist, oder im Diplomstudiengang Elektrotechnik, sofern die Studienrichtung "Produktion in der Elektrotechnik" gewählt wird, mindestens aber alle Prüfungsleistungen der entsprechenden Diplomvorprüfung erstmals abgelegt und bis auf eine Prüfung mit wenigstens "ausreichend" bewertet sind. 
 
-(2)[1] Eine Diplomvorprüfung, die der Kandidat an wissenschaftlichen Hochschulen in demselben Studiengang außerhalb des Geltungsbereichs des Grundgesetzes oder in anderen Studiengängen bestanden hat, wird vom Prüfungsausschuss angerechnet, soweit die Gleichwertigkeit gem. § 7 Abs. 1 nachgewiesen ist.[2] Nicht nachgewiesene Prüfungsleistungen von § 7 Abs. 1 sind durch Prüfungen nachzuweisen. 
+(2)<sup>1</sup> Eine Diplomvorprüfung, die der Kandidat an wissenschaftlichen Hochschulen in demselben Studiengang außerhalb des Geltungsbereichs des Grundgesetzes oder in anderen Studiengängen bestanden hat, wird vom Prüfungsausschuss angerechnet, soweit die Gleichwertigkeit gem. § 7 Abs. 1 nachgewiesen ist.<sup>2</sup> Nicht nachgewiesene Prüfungsleistungen von § 7 Abs. 1 sind durch Prüfungen nachzuweisen. 
 
-(3)[1] Hat der Kandidat die Abschlussprüfung im Studiengang Maschinenbau beziehungsweise Elektrotechnik an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil „ sehr gut bestanden" (bis 1,5) abgelegt, so wird ihm auf Antrag die fachlich entsprechende Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern 
+(3)<sup>1</sup> Hat der Kandidat die Abschlussprüfung im Studiengang Maschinenbau beziehungsweise Elektrotechnik an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil „ sehr gut bestanden" (bis 1,5) abgelegt, so wird ihm auf Antrag die fachlich entsprechende Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern 
 
 1. „Mathematik für Ingenieure III und IV, 2. Teilprüfung" und " Technische Mechanik III und IV, 2. Teilprüfung", wenn ein Studienabschluss Maschinenbau vorliegt, beziehungsweise 
 
@@ -216,7 +216,7 @@ Bezeichnung der Studienrichtung sowie die innerhalb der Studienrichtung gewählt
 
 2Die Scheine sind spätestens bei der Meldung zum letzten Abschnitt der Diplomhauptprüfung vorzulegen. 
 
-(4)[1] Voraussetzung für die Zulassung zur Diplomarbeit ist 
+(4)<sup>1</sup> Voraussetzung für die Zulassung zur Diplomarbeit ist 
 
 1. das Bestehen aller Einzelfachprüfungen nach § 9 Absatz 1 Nrn. 1 und 2. 
 
@@ -256,7 +256,7 @@ b) „Einführung in die Produktionstechnik I und II" (1 Schein), sofern die Zul
 
 6. In besonders begründeten Fällen kann der Prüfungsausschuss eine vorgezogene Zulassung zur Diplomarbeit gewähren; die fehlenden Nachweise sind während der Bearbeitung der Diplomarbeit nachzureichen. 
 
-2Benotete Scheine als Nachweis für die erfolgreiche Teilnahme an Wahlpflichtlehrveranstaltungen in Form von Vorlesungen und Vorlesungen mit Übungen werden gemäß § 8 Abs. 2 DiplPrOTF in Verbindung mit § 14 Abs. 4 DiplPrOTF aufgrund einer schriftlichen (Klausur) oder mündlichen Prüfung ausgestellt.[3] Für eine nicht ausreichende Leistung wird kein Schein vergeben.[4] Die Scheine werden durch die Lehrperson direkt an das Prüfungsamt weitergeleitet. 
+2Benotete Scheine als Nachweis für die erfolgreiche Teilnahme an Wahlpflichtlehrveranstaltungen in Form von Vorlesungen und Vorlesungen mit Übungen werden gemäß § 8 Abs. 2 DiplPrOTF in Verbindung mit § 14 Abs. 4 DiplPrOTF aufgrund einer schriftlichen (Klausur) oder mündlichen Prüfung ausgestellt.<sup>3</sup> Für eine nicht ausreichende Leistung wird kein Schein vergeben.<sup>4</sup> Die Scheine werden durch die Lehrperson direkt an das Prüfungsamt weitergeleitet. 
 
 ## **§ 13** 
 
@@ -268,7 +268,7 @@ b) „Einführung in die Produktionstechnik I und II" (1 Schein), sofern die Zul
 
 (3) Eine zweite Wiederholung von Einzelfachprüfungen gemäß § 9 Abs. 1 Nrn. 1 und 2 ist bis zu einer Schwelle von 33 Maluspunkten zulässig. 
 
-(4)[1] Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern können schriftlich (Klausur) oder mündlich erfolgen.[2] Über die Ergebnisse der Prüfungen in Zusatzfächern wird ein gesondertes Zeugnis erstellt ( § 16 Abs. 4 DiplPrOTF). 
+(4)<sup>1</sup> Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern können schriftlich (Klausur) oder mündlich erfolgen.<sup>2</sup> Über die Ergebnisse der Prüfungen in Zusatzfächern wird ein gesondertes Zeugnis erstellt ( § 16 Abs. 4 DiplPrOTF). 
 
 **§ 14** 
 
@@ -276,7 +276,7 @@ b) „Einführung in die Produktionstechnik I und II" (1 Schein), sofern die Zul
 
 ## **Diplomarbeit** 
 
-1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der gewählten Studienrichtung behandeln und unter der wissenschaftlichen Betreuung eines an der Technischen Fakultät hauptamtlich beschäftigten Hochschullehrers durchgeführt werden, der selbst ein in der Fächergruppe 1 bis 8 der entsprechenden Anlage aufgeführtes Pflicht- beziehungsweise Vertiefungsfach vertritt.[4] Die Diplomarbeit soll ein Thema aus anderen Teilbereichen als denen der Studienarbeiten zum Gegenstand haben. 
+1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der gewählten Studienrichtung behandeln und unter der wissenschaftlichen Betreuung eines an der Technischen Fakultät hauptamtlich beschäftigten Hochschullehrers durchgeführt werden, der selbst ein in der Fächergruppe 1 bis 8 der entsprechenden Anlage aufgeführtes Pflicht- beziehungsweise Vertiefungsfach vertritt.<sup>4</sup> Die Diplomarbeit soll ein Thema aus anderen Teilbereichen als denen der Studienarbeiten zum Gegenstand haben. 
 
 ## **§ 15 Bewertung der Leistungen der Diplomhauptprüfung** 
 
@@ -298,7 +298,7 @@ b) in dem in § 12 Abs. 4 Nr. 2 Buchstabe b) genannten Pflichtseminar,
 
 c) in den in § 12 Abs. 4 Nr. 2 Buchstabe c) genannten Wahlpflichtlehrveranstaltungen. 
 
-(2)[1] Bei der Ermittlung der Gesamtnote der Diplomhauptprüfung gehen die Noten der Einzelfachprüfungen und der Diplomarbeit (Absatz 1 Nr. 1) und der benoteten Studienleistungen (Absatz 1 Nr. 2) mit dem Gewicht ihrer Leistungspunkte ein (Anlage 5).[2] Bei den Wahlpflichtlehrveranstaltungen geht die Mittelnote mit dem Gewicht ihrer Leistungspunkte ein, wobei die Mittelnote aus den mit der SWS-Zahl gewichteten Einzelprüfungsnoten ermittelt wird. 
+(2)<sup>1</sup> Bei der Ermittlung der Gesamtnote der Diplomhauptprüfung gehen die Noten der Einzelfachprüfungen und der Diplomarbeit (Absatz 1 Nr. 1) und der benoteten Studienleistungen (Absatz 1 Nr. 2) mit dem Gewicht ihrer Leistungspunkte ein (Anlage 5).<sup>2</sup> Bei den Wahlpflichtlehrveranstaltungen geht die Mittelnote mit dem Gewicht ihrer Leistungspunkte ein, wobei die Mittelnote aus den mit der SWS-Zahl gewichteten Einzelprüfungsnoten ermittelt wird. 
 
 ## **§ 16 Übergangsbestimmungen** 
 
@@ -320,20 +320,15 @@ c) in den in § 12 Abs. 4 Nr. 2 Buchstabe c) genannten Wahlpflichtlehrveranstalt
 
 *Tag des Inkrafttretens war der 3. September 1997 
 
-## **Anlage 1:** _(Zu § 7 Abs. 2)_ 
-
-|**Prüfungsfächer der Diplomprüfung**|**Prüfungsdauer**|**Zahl**|**der**|
+|**Anlage 1:**_(Zu § 7 Abs. 2)_<br>**Prüfungsfächer der Diplomprüfung**|**Prüfungsdauer**<br>**in Minuten**|**Zahl d**|**er**|
 |---|---|---|---|
-||**in Minuten**|||
 |||**Leistungspunkte**|**Maluspunkte**|
-|1. Mathematik für Ingenieure I-IV||||
-|mit den Teilprüfungen||||
-|a) Mathematik für Ingenieure I und II|180|12|12|
+|1. Mathematik für Ingenieure I-IV<br>mit den Teilprüfungen||||
+|<br>a) Mathematik für Ingenieure I und II|180|12|12|
 |b) Mathematik für Ingenieure III und IV|120|9|9|
-|2. Technische Mechanik I-IV mit den||||
-|Teilprüfungen||||
-|a) Technische Mechanik I und II|180|10|10|
-|b) Technische Mechanik III und IV|120|6|6|
+|2. Technische Mechanik I-IV mit den<br>Teilprüfungen||||
+|<br>a) Technische Mechanik I und II|180|10|10|
+|<br>b) Technische Mechanik III und IV|120|6|6|
 |3. Grundlagen der Elektrotechnik|120|6|6|
 |4. Grundlagen der Informatik|90|6|6|
 |5. Experimentalphysik|120|6|6|
@@ -349,69 +344,32 @@ c) in den in § 12 Abs. 4 Nr. 2 Buchstabe c) genannten Wahlpflichtlehrveranstalt
 
 |**Spalte 1**|**Spalte 2**|**Spalte 3**|**Spalte 4**|**Spalte 5**|
 |---|---|---|---|---|
-|**Fächer-**|**Pflichtfach**|**Vertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
-|**gruppe**|||||
-|1|Fertigungsautomatisierung|1.1 Automatisierte Produkti-|Rechnerintegrierte|Seminar Rechnerin-|
-||und Produktionssystematik|onsanlagen|Produktionssysteme|tegrierte|
-|||1.2 Handhabungs- und Mon-||Produktionssysteme|
-|||tagetechnik|||
-|2|Qualitätsmanagement|Qualitätsmanagement und|Qualitätsmanagement|Seminar Qualitätsma-|
-||und Messtechnik I|Messtechnik II|und Messtechnik|nagement|
-|||||und Messtechnik|
-|3|Fertigungsverfahren I|3.1 Fertigungsverfahren II|Fertigungstechnologie|Seminar|
-|||3.2 Fertigungseinrichtungen||Fertigungstechnologie|
-|4|Fertigungsgerechtes|Methodisches und rechner-|Konstruktionslehre|Seminar|
-||Konstruieren|gestütztes Konstruieren||Konstruktionslehre|
-|5|5.1 Höhere Festigkeitslehre|5.1 Methode der Finiten|Höhere Mechanik|Seminar|
-|||Elemente in der Mechanik I||Höhere Mechanik|
-||5.2 Maschinendynamik|und II|||
-|||5.2 Höhere Festigkeitslehre|||
-|6|Informatik für Ingenieure I|6.1 Informatik für Ingenieure|Informatik für Ingeni-|Seminar|
-|||II|eure|Informatik für|
-|||(Datensysteme)||Ingenieure|
-|||6.2 Informatik für Ingenieure|||
-|||II|||
-|||(Mustererkennung)|||
-|||6.3 Informatik für Ingenieure|||
-|||II|||
-|||(Kommunikationssysteme)|||
-|7|Kunststofftechnik I|Kunststofftechnik II|Kunststofftechnik|Seminar|
-|||||Kunststofftechnik|
+|**Fächer-**<br>**gruppe**|**Pflichtfach**|**Vertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
+|1|Fertigungsautomatisierung<br>und Produktionssystematik|1.1 Automatisierte Produkti-<br>onsanlagen<br>1.2 Handhabungs- und Mon-<br>tagetechnik|Rechnerintegrierte<br>Produktionssysteme|Seminar Rechnerin-<br>tegrierte<br>Produktionssysteme|
+|2|Qualitätsmanagement<br>und Messtechnik I|Qualitätsmanagement und<br>Messtechnik II|Qualitätsmanagement<br>und Messtechnik|Seminar Qualitätsma-<br>nagement<br>und Messtechnik|
+|3|Fertigungsverfahren I|3.1 Fertigungsverfahren II<br>3.2 Fertigungseinrichtungen|Fertigungstechnologie|Seminar<br>Fertigungstechnologie|
+|4|Fertigungsgerechtes<br>Konstruieren|Methodisches und rechner-<br>gestütztes Konstruieren|Konstruktionslehre|Seminar<br>Konstruktionslehre|
+|5|5.1 Höhere Festigkeitslehre<br>5.2 Maschinendynamik|5.1 Methode der Finiten<br>Elemente in der Mechanik I<br>und II<br>5.2 Höhere Festigkeitslehre|Höhere Mechanik|Seminar<br>Höhere Mechanik|
+|6|Informatik für Ingenieure I|6.1 Informatik für Ingenieure<br>II<br>(Datensysteme)<br>6.2 Informatik für Ingenieure<br>II<br>(Mustererkennung)<br>6.3 Informatik für Ingenieure<br>II<br>(Kommunikationssysteme)|Informatik für Ingeni-<br>eure|Seminar<br>Informatik für<br>Ingenieure|
+|7|Kunststofftechnik I|Kunststofftechnik II|Kunststofftechnik|Seminar<br>Kunststofftechnik|
 |8|Regelungstechnik||||
 
 10 
 
-|**Anlage**|**3: Studienrichtung: Produktion in der Elektrotechnik**|**3: Studienrichtung: Produktion in der Elektrotechnik**|**3: Studienrichtung: Produktion in der Elektrotechnik**||
+|**Anlage**|**3: Studienrichtu**|**ng: Produktion in de**|**r Elektrotechnik**||
 |---|---|---|---|---|
 |**Spalte**|**Spalte 2**|**S**<br>**palte 3**|**Spalte 4**|**Spalte 5**|
 |**1**|||||
-|**Fächer-**|**Pflichtfach**|**V**<br>**ertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
-|**gruppe**|||||
-|1|1.1 Elektronische|1.1a Technologie der Si-|.<br>uelemente<br>1 1a Si-HL-Ba|Seminar Si-HL-|
-||Bauelemente|te<br>HL-Bauelemen||Technologie|
-|||1.1b Bauelemente II|1.1b Elektronische Bau-||
-||||el<br>emente||
-||1.2 Passive Bauele-|1.2a Technische Elektro-|1.<br>mik<br>2a Elektrodyna|Seminar Hochfre-|
-||mente|dynamik||chnik<br>quenzte|
-|||1.2b Integr. Hochfre-|1.2 b Hochfrequenztech-||
-|||gen<br>quenzschaltun|no<br>logie||
-|2|Einführung in die|2.1 Optimierung rege-|2.1 Reg<br>echnik<br>elungst|Seminar Regelungs-|
-||Regelungstechnik|lungstech. Systeme||technik|
-|||bs-<br>2.2 Elektrische Antrie|2.2 Antriebstechnik|r Antriebstech-<br>Semina|
-|||technik||nik|
-|3|Qualitätsmanagement<br>und Messtechnik I**1)**|anagement<br>r die<br>3.1 Qualitätsm<br>und Messtechnik II<br>3.2**1)**Prüfsysteme fü|Qualitätsmanagement<br>un<br>Messtechnik<br>d<br>**1)**|ar Qualitätsma-<br>Semin<br>nagement und Mess-<br>technik**1)**|
-|||Fertigung|||
-|4|Informatik für Ingeni-|Informatik für Ingenieure|Informatik für Ingenieure|Seminar Informatik für|
-||eure I|II||Ingenieure|
-|5|F<br>gstechnologie<br>ertigun|Fertigungstechnologie II|Fe<br>gstechnologie<br>rtigun|ertigungs-<br>Seminar F|
-||I|||technologie|
-|6|Kunststofftechnik I|Kunststofftechnik II|Kunststofftechnik|stoff-<br>Seminar Kunst|
-|||||technik|
-|7|Prozesse und Ma-|Automatisierte Produkti-|Produktionssysteme in|Seminar Rechnerin-|
-||schinen der|onsanlagen|de<br>r Elektrotechnik|tegrierte|
-||duktion<br>Elektronikpro|||ktionssysteme<br>Produ|
-|8|Grundzü<br>ge der|Einführung in die Be-|Fabrikb<br>etriebslehre|Semin<br>ar Fabrikbe-|
-||Produktionssystematik|triebswirtschaftslehre||triebslehre|
+|**Fächer-**<br>**gruppe**|**Pflichtfach**|**V**<br>**ertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
+|1|1.1 Elektronische<br>Bauelemente|te<br>1.1a Technologie der Si-<br>HL-Bauelemen<br>1.1b Bauelemente II|.<br>uelemente<br>1.1b Elektronische Bau-<br>el<br>1 1a Si-HL-Ba<br>emente|Seminar Si-HL-<br>Technologie|
+||1.2 Passive Bauele-<br>mente|gen<br>1.2a Technische Elektro-<br>dynamik<br>1.2b Integr. Hochfre-<br>quenzschaltun|1.<br>mik<br>1.2 b Hochfrequenztech-<br>no<br>2a Elektrodyna<br>logie|chnik<br>Seminar Hochfre-<br>quenzte|
+|2|Einführung in die<br>Regelungstechnik|2.1 Optimierung rege-<br>bs-<br>lungstech. Systeme<br>2.2 Elektrische Antrie<br>technik|2.1 Reg<br>echnik<br>2.2 Antriebstechnik<br>elungst|Seminar Regelungs-<br>r Antriebstech-<br>technik<br>Semina<br>nik|
+|3|Qualitätsmanagement<br>und Messtechnik I<sup>**1)**</sup>|anagement<br>r die<br>3.1 Qualitätsm<br>und Messtechnik II<br>3.2<sup>**1)**</sup>Prüfsysteme fü<br>Fertigung|Qualitätsmanagement<br>un<br>Messtechnik<br>d<br>**1)**|ar Qualitätsma-<br>Semin<br>nagement und Mess-<br>technik<sup>**1)**</sup>|
+|4|Informatik für Ingeni-<br>eure I|Informatik für Ingenieure<br>II|Informatik für Ingenieure|Seminar Informatik für<br>Ingenieure|
+|5|F<br>gstechnologie<br>ertigun<br>I|Fertigungstechnologie II|Fe<br>gstechnologie<br>rtigun|ertigungs-<br>Seminar F<br>technologie|
+|6|Kunststofftechnik I|Kunststofftechnik II|Kunststofftechnik|stoff-<br>Seminar Kunst<br>technik|
+|7|Prozesse und Ma-<br>duktion<br>schinen der<br>Elektronikpro|Automatisierte Produkti-<br>onsanlagen|Produktionssysteme in<br>de<br>r Elektrotechnik|ktionssysteme<br>Seminar Rechnerin-<br>tegrierte<br>Produ|
+|8|Grundzü<br>ge der<br>Produktionssystematik|Einführung in die Be-<br>triebswirtschaftslehre|Fabrikb<br>etriebslehre|Semin<br>ar Fabrikbe-<br>triebslehre|
 
 ------------------------------- **1)** In der Fassung der Änderungssatzung vom 23. September 1998; anwendbar auf Studenten, die ihr Hauptstudium ab WS 1998/1999 begonnen oder die Prüfung nach dem geänderten Fächerkatalog beantragt haben. 
 
@@ -419,69 +377,50 @@ c) in den in § 12 Abs. 4 Nr. 2 Buchstabe c) genannten Wahlpflichtlehrveranstalt
 
 ## **Anlage 4: Studienrichtung** : **Rechnergestützte Produktentwicklung** 
 
-|**Spalte**|**Spalte 2**|**Spalte 3**|**Spalte 4**|**Spalte 5**|
+|**Spalte**<br>**1**|**Spalte 2**|**Spalte 3**|**Spalte 4**|**Spalte 5**|
 |---|---|---|---|---|
-|**1**|||||
-|**Fächer-**|**Pflichtfach**|**Vertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
-|**gruppe**|||||
-|1|Angewandte Mathematik I|Angewandte Mathematik II|Angewandte Mathematik|Seminar Angewandte Ma-|
-|||||thematik|
-|2|2.1 Strömungsmechanik I|2.1 Strömungsmechanik II|2.1 Strömungsmechanik|Seminar Strömungsmechanik|
-|||2.2 Thermodynamik II||Seminar Thermodynamik|
-||2.2 Thermodynamik I||2.2 Thermodynamik||
-|3|3.1 Maschinendynamik I|3.1a Maschinendynamik II|3.1a Maschinendynamik|Seminar Höhere Mechanik|
-|||3.1b Kontinuumsmechanik I|3.1b Höhere Mechanik||
-||3.2 Kontinuumsmechanik I|3.2a Kontinuumsmechanik|3.2a Kontinuumsmecha-||
-|||II|nik||
-|||3.2b Maschinendynamik I|3.2b Höhere Mechanik||
-|4|Grundlagen der Informatik|Grundlagen der Informatik|Grundlagen der Informa-|Seminar Informatik für Inge-|
-||für wissenschaftliches|für wissenschaftliches|tik für wissenschaftliches|nieure|
-||Rechnen I|Rechnen II|Rechnen||
-|5|Praktische Informatik I|Praktische Informatik II|Praktische Informatik|Seminar Informatik für Inge-|
-|||||nieure|
-|6|Konstruktionstechnik I|Konstruktionstechnik II|Konstruktionstechnik|Seminar Konstruktionstech-|
-|||||nik|
-|7|7.1 Einführung in die Re-|7.1 Messtechnik|7.1 Mess- und Rege-|Seminar Mess- und Rege-|
-||gelungstechnik||lungstechnik|lungstechnik|
-||7.2 Qualitätsmanagement|7.2 Qualitätsmanagement|7.2 Qualitätsmanage-|Seminar Qualitätsmanage-|
-||und Messtechnik I|und Messtechnik II|ment u. Messtechnik|ment und Messtechnik|
-||7.3 Werkstoffkunde und|7.3 Keramik und Oberflä-|7.3 Werkstofftechnik|Seminar Werkstofftechnik|
-||Techn. der Metalle|chentechnik|||
-|8|8.1 Fertigungsverfahren I|8.1a Fertigungsverfahren II|8.1 Fertigungstechnolo-|Seminar Fertigungstechnolo-|
-|||8.1b Fertigungseinrichtun-|gie|gie|
-|||gen|||
-||8.2 Fertigungsautomatisie-|8.2a Automatisierte Produk-|8.2 Rechnerintegrierte|Seminar Rechnerintegrierte|
-||rung und Produktionssys-|tionsanlagen|Produktionssysteme|Produktionssysteme|
-||tematik|8.2b Handhabungs- und|||
-|||Montagetechnik|||
+|**Fächer-**<br>**gruppe**|**Pflichtfach**|**Vertiefungsfach**|**Hauptfach**|**Pflichtseminar**|
+|1|Angewandte Mathematik I|Angewandte Mathematik II|Angewandte Mathematik|Seminar Angewandte Ma-<br>thematik|
+|2|2.1 Strömungsmechanik I<br>2.2 Thermodynamik I|2.1 Strömungsmechanik II<br>2.2 Thermodynamik II|2.1 Strömungsmechanik<br>2.2 Thermodynamik|Seminar Strömungsmechanik<br>Seminar Thermodynamik|
+|3|3.1 Maschinendynamik I<br>3.2 Kontinuumsmechanik I|3.1a Maschinendynamik II<br>3.1b Kontinuumsmechanik I<br>3.2a Kontinuumsmechanik<br>II<br>3.2b Maschinendynamik I|3.1a Maschinendynamik<br>3.1b Höhere Mechanik<br>3.2a Kontinuumsmecha-<br>nik<br>3.2b Höhere Mechanik|Seminar Höhere Mechanik|
+|4|Grundlagen der Informatik<br>für wissenschaftliches<br>Rechnen I|Grundlagen der Informatik<br>für wissenschaftliches<br>Rechnen II|Grundlagen der Informa-<br>tik für wissenschaftliches<br>Rechnen|Seminar Informatik für Inge-<br>nieure|
+|5|Praktische Informatik I|Praktische Informatik II|Praktische Informatik|Seminar Informatik für Inge-<br>nieure|
+|6|Konstruktionstechnik I|Konstruktionstechnik II|Konstruktionstechnik|Seminar Konstruktionstech-<br>nik|
+|7|7.1 Einführung in die Re-<br>gelungstechnik|7.1 Messtechnik|7.1 Mess- und Rege-<br>lungstechnik|Seminar Mess- und Rege-<br>lungstechnik|
+||7.2 Qualitätsmanagement<br>und Messtechnik I|7.2 Qualitätsmanagement<br>und Messtechnik II|7.2 Qualitätsmanage-<br>ment u. Messtechnik|Seminar Qualitätsmanage-<br>ment und Messtechnik|
+||7.3 Werkstoffkunde und<br>Techn. der Metalle|7.3 Keramik und Oberflä-<br>chentechnik|7.3 Werkstofftechnik|Seminar Werkstofftechnik|
+|8|8.1 Fertigungsverfahren I|8.1a Fertigungsverfahren II<br>8.1b Fertigungseinrichtun-<br>gen|8.1 Fertigungstechnolo-<br>gie|Seminar Fertigungstechnolo-<br>gie|
+||8.2 Fertigungsautomatisie-<br>rung und Produktionssys-<br>tematik|8.2a Automatisierte Produk-<br>tionsanlagen<br>8.2b Handhabungs- und<br>Montagetechnik|8.2 Rechnerintegrierte<br>Produktionssysteme|Seminar Rechnerintegrierte<br>Produktionssysteme|
 ||8.3 Kunststofftechnik I|8.3 Kunststofftechnik II|8.3 Kunststofftechnik|Seminar Kunststofftechnik|
-||8.4 Grundzüge der Pro-|8.4 Einführung in die Be-|8.4 Fabrikbetriebslehre|Seminar Fabrikbetriebslehre|
-||duktionssystematik|triebswirtschaftslehre|||
+||8.4 Grundzüge der Pro-<br>duktionssystematik|8.4 Einführung in die Be-<br>triebswirtschaftslehre|8.4 Fabrikbetriebslehre|Seminar Fabrikbetriebslehre|
 
 12 
 
 ## **Anlage 5:** _(Zu § 13 Abs. 2 und § 15 Abs. 2)_ 
 
-## **Prüfungs- und Prüfungsdauer Zahl der Studienleistungen in Minuten** 
-
-|||**Leistungspunkte**|**Maluspunkte**|
-|---|---|---|---|
-|1. Pflichtfach|120|6|6|
-|2. Pflichtfach|120|6|6|
-|3. Pflichtfach|120|6|6|
-|4. Pflichtfach|120|6|6|
-|5. Pflichtfach|120|6|6|
-|6. Pflichtfach|120|6|6|
-|1. Hauptfach<br>a) Pflichtfach<br>b) Vertiefungsfach|120<br>120|6<br>6|6<br>6|
-|2. Hauptfach<br>a) Pflichtfach<br>b) Vertiefungsfach|120<br>120|6<br>6|6<br>6|
-|Diplomarbeit||12|12|
-|Summe Prüfungsleistungen||**72**|**72**|
-|1. Studienarbeit||6|6|
-|2. Studienarbeit||6|6|
-|Pflichtseminar||2|2|
-|Wahlpflichtlehrveranstaltungen||10|10|
-|Summe Studienleistungen||**24**|**24**|
-|**Gesamtsumme**||**96**|**96**|
+|**Prüfungs- und**<br>**Studienleistungen**|**Prüfungsdauer**<br>**in Minuten**<br>**Zahl d**|**er**|
+|---|---|---|
+||**Leistungspunkte**|**Maluspunkte**|
+|1. Pflichtfach|120<br>6|6|
+|2. Pflichtfach|120<br>6|6|
+|3. Pflichtfach|120<br>6|6|
+|4. Pflichtfach|120<br>6|6|
+|5. Pflichtfach|120<br>6|6|
+|6. Pflichtfach|120<br>6|6|
+|1. Hauptfach<br>Pflihfh|120<br>6|6|
+|a) ctac|120<br>6|6|
+|b) Vertiefungsfach|<br>||
+|2. Hauptfach<br>|120<br>6|6|
+|a) Pflichtfach|120<br>6|6|
+|b) Vertiefungsfach|<br>||
+|Diplomarbeit|12|12|
+|Summe Prüfungsleistungen|**72**|**72**|
+|1. Studienarbeit|6|6|
+|2. Studienarbeit|6|6|
+|Pflichtseminar|2|2|
+|Wahlpflichtlehrveranstaltungen|10|10|
+|Summe Studienleistungen|**24**|**24**|
+|**Gesamtsumme**|**96**|**96**|
 
 13 
 

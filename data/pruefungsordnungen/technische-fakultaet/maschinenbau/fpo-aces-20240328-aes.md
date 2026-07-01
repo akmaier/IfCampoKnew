@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO ACES 20240328 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Elektromobilität-ACES/Aenderungssatzungen/FPO_ACES_20240328_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:24:55+00:00
-page_count_chars: 4902
+scraped_at: 2026-07-01T11:42:55+00:00
+page_count_chars: 4946
 ---
 
 # FPO ACES 20240328 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 4902
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Elektromobilität-ACES/Aenderungssatzungen/FPO_ACES_20240328_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Elektromobilität-ACES an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO ACES – Vom 28. März 2024** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Elektromobilität-ACES an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO ACES – Vom 28. März 2024** 
 
 Aufgrund von Art 9. Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) erlässt die FAU folgende Änderungssatzung: 
 
@@ -46,13 +46,13 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang E
 
 7. In § 56 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt am 1. April 2024 in Kraft.[2] Die Änderungen in § 49 Abs. 4 gelten für alle Studierenden, die das Masterstudium ab dem Wintersemester 2024/2025 aufnehmen werden. 3Im Übrigen gelten die Änderungen für alle bereits immatrikulierten Studierenden sowie diejenigen, die das Bachelor- oder Masterstudium ab dem Sommersemester 2024 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am 1. April 2024 in Kraft.<sup>2</sup> Die Änderungen in § 49 Abs. 4 gelten für alle Studierenden, die das Masterstudium ab dem Wintersemester 2024/2025 aufnehmen werden. 3Im Übrigen gelten die Änderungen für alle bereits immatrikulierten Studierenden sowie diejenigen, die das Bachelor- oder Masterstudium ab dem Sommersemester 2024 aufnehmen werden.“ 
 
 8. **Anlage 1** (Studienverlaufsplan Bachelor Elektromobilität-ACES (Studienbeginn Wintersemester) wird wie folgt geändert: 
 
    - a) In Zeile 33 der Tabelle (Modul B24) wird in Spalte 15 (Art und Umfang der Prüfung) der Klammerzusatz „(4/5 + 1/5)“ angefügt. 
 
-   - b) Die Erläuterung[5)] unterhalb der Tabelle erhält folgende neue Fassung: 
+   - b) Die Erläuterung<sup>5)</sup> unterhalb der Tabelle erhält folgende neue Fassung: 
 
 „siehe Modulhandbuch. Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TechFak** werden Fehlversuche beim Wechsel in alternativ angebotene Module nicht angerechnet, wobei ein Modulwechsel nur möglich ist, solange noch keines der gewählten Module endgültig nicht bestanden ist. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
@@ -62,9 +62,9 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang E
 
    - b) In Zeile 11 der jeweiligen Tabelle (M 8) wird in Spalte 14 (Art und Umfang der Prüfung) der Klammerzusatz „(9/10 + 1/10)“ angefügt. 
 
-   - c) In Erläuterung[2)] unterhalb der jeweiligen Tabelle werden jeweils nach den Worten "Bachelorstudium ( **Anlage 1** )" die Worte "oder vergleichbare englischsprachige Module" ergänzt. 
+   - c) In Erläuterung<sup>2)</sup> unterhalb der jeweiligen Tabelle werden jeweils nach den Worten "Bachelorstudium ( **Anlage 1** )" die Worte "oder vergleichbare englischsprachige Module" ergänzt. 
 
-   - d) Erläuterung[4)] unterhalb der jeweiligen Tabelle erhält folgende neue Fassung: 
+   - d) Erläuterung<sup>4)</sup> unterhalb der jeweiligen Tabelle erhält folgende neue Fassung: 
 
 > „siehe Modulhandbuch; abgesehen von Fußnote 2 gilt: Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TechFak** werden Fehlversuche beim Wechsel in alternativ angebotene Module nicht angerechnet, wobei ein Modulwechsel nur möglich ist, solange noch keines der gewählten Module endgültig nicht bestanden ist. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 

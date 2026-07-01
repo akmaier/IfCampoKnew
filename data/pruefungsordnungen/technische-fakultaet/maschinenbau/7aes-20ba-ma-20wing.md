@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30."
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES%20BA-MA%20WING.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:29:18+00:00
-page_count_chars: 6073
+scraped_at: 2026-07-01T11:46:03+00:00
+page_count_chars: 6147
 ---
 
 # 30.
@@ -14,11 +14,11 @@ page_count_chars: 6073
 
 **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsingenieurwesen an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOWING-** 
 
-## Vom 30. Juli 2012 
+Vom 30. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Wirtschaftsingenieurwesen an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOWING - vom 25. September 2007, zuletzt geändert durch Satzung vom 5. August 2011, wird wie folgt geändert: 
 
@@ -42,15 +42,16 @@ Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Wirtschaftsingen
 
 - a) In Zeile 17 (Modul B 10) erhalten Spalte 13 (3. Sem. ECTS) und Spalte 14 (4. Sem. ECTS) folgende Fassung: “ 
 
-5 
+<!-- Start of picture text -->
+5<br><!-- End of picture text -->
 
-- „ 
+„ 
 
-   - b) In Zeile 30 (Modul B 23) Spalte 13 (3. Sem. ECTS) wird die Zahl „5“ eingefügt sowie in Spalte 12 (4. Sem. ECTS) die Zahl „5“ gestrichen. 
+- b) In Zeile 30 (Modul B 23) Spalte 13 (3. Sem. ECTS) wird die Zahl „5“ eingefügt sowie in Spalte 12 (4. Sem. ECTS) die Zahl „5“ gestrichen. 
 
-   - c) In Zeile 39 (Summe WING-MB) Spalte 13 (3. Sem. ECTS) wird die Zahl „30“ durch die Zahl „32,5“ ersetzt sowie in Spalte 14 (4. Sem. ECTS) die Zahl „32,5“ durch die Zahl „30“ ersetzt. 
+- c) In Zeile 39 (Summe WING-MB) Spalte 13 (3. Sem. ECTS) wird die Zahl „30“ durch die Zahl „32,5“ ersetzt sowie in Spalte 14 (4. Sem. ECTS) die Zahl „32,5“ durch die Zahl „30“ ersetzt. 
 
-## 4. Die Anlage 1b wird wie folgt geändert: 
+# 4. Die Anlage 1b wird wie folgt geändert: 
 
 a) Zeile 13 (Modul B 8) wird wie folgt geändert: 
 
@@ -60,15 +61,17 @@ b) Zeile 15 (Modul B 9) wird wie folgt geändert:
 
 aa) Spalte 3 (Nr.) erhält folgende Fassung: 
 
-„ B 9a B 9b 
+|„<br>B 9a|
+|---|
+|B 9b|
 
 „ bb) Spalte 10 (ECTS gesamt) erhält folgende Fassung: 
 
-„ 5 5 „ cc) Spalten 13 (3. Sem. ECTS) und 14 (4. Sem. ECTS) erhalten folgende Fassungen: 
+„ <u>5 5</u> „ cc) Spalten 13 (3. Sem. ECTS) und 14 (4. Sem. ECTS) erhalten folgende Fassungen: 
 
 „ 
 
-5 5 
+<u>5 5</u> 
 
 „ dd) Die gestrichelte Linie zwischen den Modulen 9a und 9b wird durch eine durchgezogene Linie ersetzt. 
 
@@ -84,21 +87,20 @@ ee) In Spalte 17 (Prüfungsdauer in Minuten/schriftlich) wird die Zahl „90“ 
 
 aa) In Spalte 5 (Summe SWS) wird die Zahl „127“ durch die Zahl „129“ ersetzt. bb) In Spalte 6 (SWS/V) wird die Zahl „76“ durch die Zahl „77“ ersetzt. cc) In Spalte 7 (SWS/Ü) wird die Zahl „44“ durch die Zahl „45“ ersetzt. 
 
-## 5. Die Anlage 4a wird wie folgt geändert: 
+# 5. Die Anlage 4a wird wie folgt geändert: 
 
 a) Die Modulgruppe 2 wird wie folgt neu gefasst: 
 
 „ 
 
-|„|||||||
-|---|---|---|---|---|---|---|
-|2|2.1|LineareKontinuumsmechanik|120 s|2.1|NichtlineareKontinuumsmechanik|120 s|
-||2.2|Technische Schwingungslehre|120 s|2.2|Numerische<br>und<br>experimentelle<br>Modalanalyse|1)|
-||2.3|Mehrkörperdynamik|120 s|2.3|GeometrischeMechanikundIntegratoren|120 s|
-||2.4|Theoretische Dynamik I|120 s|2.4|Theoretische Dynamik II|120 s|
-||2.5|NumerischeMethodender Mechanik|120 s|-|-|-|
-||2.6|Methode der finiten Elemente|60 s|2.6 a|LineareKontinuumsmechanik|120 s|
-|||||2.6 b|Technische Schwingungslehre|120 s|
+|2.1|LineareKontinuumsmechanik|120 s|2.1|NichtlineareKontinuumsmechanik|120 s|
+|---|---|---|---|---|---|
+|2.2|Technische Schwingungslehre|120 s|2.2|Numerische<br>und<br>experimentelle<br>Modalanalyse|1)|
+|<br>2.3|Mehrkörperdynamik|120 s|2.3|GeometrischeMechanikundIntegratoren|120 s|
+|2<br>2.4|Theoretische Dynamik I|120 s|2.4|Theoretische Dynamik II|120 s|
+|2.5|NumerischeMethodender Mechanik|120 s|-|-|-|
+|2.6|Methode der finiten Elemente|60 s|2.6 a|LineareKontinuumsmechanik|120 s|
+||||2.6 b|Technische Schwingungslehre|120 s|
 
 „ 
 
@@ -106,7 +108,7 @@ b) In Modulgruppe 5 Spalte 7 (Prüfungsdauer in Minuten/Vertiefungsmodule) wird 
 
 c) In Zeile 12 (Modulnummer 6.1) Spalte 4 (Prüfungsdauer in Minuten/Wahlpflichtmodule) wird die Zahl „120“ durch die Zahl „60“ ersetzt. 
 
-## 6. Die Anlage 5b wird wie folgt neu gefasst: 
+# 6. Die Anlage 5b wird wie folgt neu gefasst: 
 
 „ 
 
@@ -129,12 +131,11 @@ c) In Zeile 12 (Modulnummer 6.1) Spalte 4 (Prüfungsdauer in Minuten/Wahlpflicht
 |15|Spezielle WI3: Service-, Prozess-, und Informationsmanagement|
 |16|Strategisches und Internationales Management|
 |17|Taxation|
-|18|Versicherungs- und Risikomanagement &<br>Corporate Finance|
-|||
+|18|Versicherungs- und Risikomanagement &<br>Corporate Finance<br>„|
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2012 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben.[3] Studierende, die das Modul B 10 „Nachrichtentechnische Systeme“ mit 5 ECTS-Punkten abgelegt haben, legen das Modul B 8 „Grundlagen der Informatik“ mit 7,5 ECTS-Punkten nach der bisherigen Regelung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2012 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben.<sup>3</sup> Studierende, die das Modul B 10 „Nachrichtentechnische Systeme“ mit 5 ECTS-Punkten abgelegt haben, legen das Modul B 8 „Grundlagen der Informatik“ mit 7,5 ECTS-Punkten nach der bisherigen Regelung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 20. Juli 2012 und der Genehmigungsfeststellung des Präsidenten vom 30. Juli 2012. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Januar 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-EnglischAmerican.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:56:40+00:00
-page_count_chars: 4383
+scraped_at: 2026-07-01T10:18:08+00:00
+page_count_chars: 4398
 ---
 
 # 18. Januar 2010
@@ -18,17 +18,17 @@ Vom 18. Januar 2010
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach English and American Studies im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 3. September 2009, wird wie folgt geändert: 
 
-## § 4 Abs. 2 wird wie folgt geändert: 
+# § 4 Abs. 2 wird wie folgt geändert: 
 
 1. In Satz 2 werden das Komma und die Worte „in den anderen Studienrichtungen frühestens mit der Anmeldung zum thematischen Kombinationsmodul ab dem vierten Semester“ gestrichen. 
 
 2. Es werden folgende neue Sätze 3 und 4 eingefügt: 
 
-„[3] In den anderen Studienrichtungen erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module.[4] Die endgültige Entscheidung für eine Studienrichtung gemäß Satz 3 wird abschließend durch eine entsprechende Angabe in der Bachelorarbeit festgelegt.“ 
+„<sup>3</sup> In den anderen Studienrichtungen erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module.<sup>4</sup> Die endgültige Entscheidung für eine Studienrichtung gemäß Satz 3 wird abschließend durch eine entsprechende Angabe in der Bachelorarbeit festgelegt.“ 
 
 3. Der bisherige Satz 3 wird zu Satz 5. 
 
@@ -62,7 +62,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach English and American Studies
 
 - g) In der Tabelle „Studienrichtung British Studies“ werden in Zeile 4 Spalte 5 die untere Zahl „2“ durch die Zahl „1“ und in Spalte 6 die Zahlen „6“ und „4“ durch die Zahlen „7“ und „3“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Satzung tritt am 1. Oktober 2009 in Kraft. 2Sie gilt für alle Studierenden, die ab dem Wintersemester 2009/2010 das Studium des Fachs English and American Studies aufnehmen. 3Die Änderungen bezüglich des Hauptmoduls A in der jeweiligen Studienrichtung gelten für alle Studierenden ab In-Kraft-Treten dieser Änderungssatzung. 
 

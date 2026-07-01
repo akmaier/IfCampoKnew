@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.03.1977"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_griechischeSprache.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:12+00:00
-page_count_chars: 9774
+scraped_at: 2026-07-01T11:14:12+00:00
+page_count_chars: 9753
 ---
 
 # PDF vom 17.03.1977
@@ -14,7 +14,7 @@ page_count_chars: 9774
 
 **Der Text dieser Ordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Bekanntmachung der Neufassung der Ordnung für die griechische Sprachprüfung** 
+# **Bekanntmachung der Neufassung der Ordnung für die griechische Sprachprüfung** 
 
 Nachstehend wird der Wortlaut der Ordnung für die griechische Sprachprüfung des Fachbereichs Theologie bekannt gemacht. Die Neufassung ergibt sich aus den Änderungen der 1. Satzung zur Änderung der Ordnung der Theologischen Fakultät der Universität Erlangen-Nürnberg für die griechische Sprachprüfung (Graecum) vom 17. März 1977. Die alte Ordnung wurde am 27.Oktober 1972 von der Theologischen Fakultät beschlossen und mit Schreiben des Bayerischen Staatsministeriums für Unterricht und Kultus vom 11. Dezember 1972 Nr. I/15-6/183 716 genehmigt. Die 1. Satzung zur Änderung der Ordnung für die griechische Sprachprüfung wurde vom Senat der Universität Erlangen-Nürnberg am 16. März 1977 beschlossen und trat am 17. März 1977 in Kraft. 
 
@@ -82,7 +82,7 @@ In Zweifelsfällen ist die Entscheidung der Prüfungskommission herbeizuführen.
 
 ## **§ 5 Prüfung** 
 
-(1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. 
+- (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. 
 
 2 
 
@@ -124,15 +124,7 @@ In Zweifelsfällen ist die Entscheidung der Prüfungskommission herbeizuführen.
 
 (1) Das Prüfungsergebnis wird auf Grund der schriftlichen und der mündlichen Prüfung bestimmt. Bei der Errechnung der Gesamtnote werden die schriftliche und die mündliche Prüfung im Verhältnis 2:1 gewertet. Für die Bewertung der Leistungen sind folgende Noten zu verwenden: 
 
-- 1 "sehr gut" 
-
-- 2 "gut" 
-
-   - = eine besonders anzuerkennende Leistung, 
-
-   - = eine den Durchschnitt überragende Leistung 
-
-- 3 "befriedigend" = eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen entspricht, 
+- 1 "sehr gut" = eine besonders anzuerkennende Leistung, 2 "gut" = eine den Durchschnitt überragende Leistung 3 "befriedigend" = eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen entspricht, 
 
 - 4 "ausreichend" = eine Leistung, die abgesehen von einzelnen Mängeln, durchschnittlichen Anforderungen entspricht, 
 

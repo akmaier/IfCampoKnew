@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Werkstoffwissenschaften"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:37:34+00:00
+scraped_at: 2026-07-01T11:53:10+00:00
 ---
 
 # Werkstoffwissenschaften

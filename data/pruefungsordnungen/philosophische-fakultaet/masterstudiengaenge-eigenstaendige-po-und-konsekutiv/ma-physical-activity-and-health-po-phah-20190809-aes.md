@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Physical Activity and Health PO PhAH 20190809 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Physical_Acitvity_and_Health/Aenderungssatzungen/MA_Physical_Activity_and_Health_PO_PhAH_20190809_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:16:16+00:00
-page_count_chars: 15781
+scraped_at: 2026-07-01T09:34:41+00:00
+page_count_chars: 15869
 ---
 
 # MA Physical Activity and Health PO PhAH 20190809 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 15781
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Physical_Acitvity_and_Health/Aenderungssatzungen/MA_Physical_Activity_and_Health_PO_PhAH_20190809_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO PhAH –** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO PhAH –** 
 
-## **Vom 9. August 2019** 
+# **Vom 9. August 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO PhAH – vom 27. September 2007, zuletzt geändert durch Satzung vom 30. März 2017, wird wie folgt geändert: 
 
@@ -52,9 +52,9 @@ Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activit
 
       - bb) Satz 4 erhält folgende neue Fassung: 
 
-         - „[4] Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
+         - „<sup>4</sup> Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
 
-      - cc) In Satz 5 wird nach den Worten „[5] Er berichtet regelmäßig dem“ am Satzanfang das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
+      - cc) In Satz 5 wird nach den Worten „<sup>5</sup> Er berichtet regelmäßig dem“ am Satzanfang das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
 
    - c) In Abs. 5 Satz 4 werden nach den Worten „die Erledigung einzelner Aufgaben“ die Worte „im Einzelfall“ eingefügt. 
 
@@ -78,7 +78,7 @@ Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activit
 
 2 
 
-10. In § 12 Abs. 1 Satz 4 werden nach den Worten „[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit“ am Satzanfang die Worte „ist ein Attest vorzulegen; es“ eingefügt. 
+10. In § 12 Abs. 1 Satz 4 werden nach den Worten „<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit“ am Satzanfang die Worte „ist ein Attest vorzulegen; es“ eingefügt. 
 
 11. § 15 wird wie folgt geändert: 
 
@@ -90,15 +90,15 @@ Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activit
 
 12. In § 16 Abs. 2 entfällt die Satzstruktur und der bisherige Satz 2 wird gestrichen. 
 
-## 13. Nach § 16a wird folgender neuer § 16b eingefügt: 
+# 13. Nach § 16a wird folgender neuer § 16b eingefügt: 
 
-## „ **§16b Vorträge/Referate** 
+# „ **§16b Vorträge/Referate** 
 
-(1)[1] In Vorträgen und Referaten innerhalb von Lehrveranstaltungen sollen die Studierenden nachweisen, dass sie in der Lage sind, ein wissenschaftliches Thema selbstständig zu erarbeiten, es für einen Zuhörerkreis klar darzustellen sowie sich der fachlichen Diskussion zu stellen.[2] In die Bewertung von Vorträgen und Referaten gehen Inhalt, sprachliche Darstellung und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvorbereitung ein.[3] Die Betreuerin bzw. der Betreuer des Vortrags bzw. des Referats soll in der Regel zu der bzw. dem Prüfenden bestellt werden.[4] Sind bei einem Vortrag bzw. Referat mehrere nach § 9 Abs. 1 Satz 2 grundsätzlich Prüfungsberechtigte anwesend, entfällt die Notwendigkeit der Hinzuziehung einer Beisitzerin bzw. eines Beisitzers. 
+(1)<sup>1</sup> In Vorträgen und Referaten innerhalb von Lehrveranstaltungen sollen die Studierenden nachweisen, dass sie in der Lage sind, ein wissenschaftliches Thema selbstständig zu erarbeiten, es für einen Zuhörerkreis klar darzustellen sowie sich der fachlichen Diskussion zu stellen.<sup>2</sup> In die Bewertung von Vorträgen und Referaten gehen Inhalt, sprachliche Darstellung und Verhalten in der Diskussion sowie ggf. die Leistung während der Vortragsvorbereitung ein.<sup>3</sup> Die Betreuerin bzw. der Betreuer des Vortrags bzw. des Referats soll in der Regel zu der bzw. dem Prüfenden bestellt werden.<sup>4</sup> Sind bei einem Vortrag bzw. Referat mehrere nach § 9 Abs. 1 Satz 2 grundsätzlich Prüfungsberechtigte anwesend, entfällt die Notwendigkeit der Hinzuziehung einer Beisitzerin bzw. eines Beisitzers. 
 
 (2) § 16 Abs. 2 und 3 gelten entsprechend.“ 
 
-## 14. § 17 wird wie folgt geändert: 
+# 14. § 17 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach den Worten „wenn sie mindestens mit“ die Worte „der Note“ durch die Worte „dem Prädikat“ ersetzt. 
 
@@ -116,7 +116,7 @@ bb) Der bisherige Satz 2 wird gestrichen.
 
 16. In § 19 Abs. 1 wird nach den Worten „auf Antrag Einsicht in ihre“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
-## 17. § 20 Abs. 2 wird wie folgt geändert: 
+# 17. § 20 Abs. 2 wird wie folgt geändert: 
 
 - a) In Satz 2 wird nach den Worten „Auf Antrag der Absolventin“ am Satzanfang das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
@@ -124,13 +124,13 @@ bb) Der bisherige Satz 2 wird gestrichen.
 
 - c) Der bisherige Satz 6 wird zu Satz 5 und es wird nach den Worten „können sie in den Dokumenten nach“ das Wort „Absatz“ durch die Abkürzung „Abs.“ ersetzt. 
 
-## 18. § 22 wird wie folgt geändert: 
+# 18. § 22 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach den Worten „wegen länger andauernder oder ständiger“ das Wort „körperlicher“ gestrichen sowie nach dem darauffolgenden Wort „Behinderung“ ein Komma und die Worte „die nicht das abgeprüfte Leistungsbild betrifft,“ eingefügt. 
 
 - b) In Abs. 3 Satz 3 wird nach den Worten „möglichst vier Wochen vor der Prüfung“ das Wort „schriftlich“ eingefügt. 
 
-## 19. § 23 wird wie folgt geändert: 
+# 19. § 23 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -142,7 +142,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 - c) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: 
 
-„(3)[1] Zusatzmodule sind Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.[2] Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.[3] Zusatzmodule nach Satz 1 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.[4] Auf Antrag der bzw. des Studierenden bei der das Zeugnis ausstellenden Stelle (i. d. R. das Prüfungsamt) können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden.“ 
+„(3)<sup>1</sup> Zusatzmodule sind Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.<sup>2</sup> Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.<sup>3</sup> Zusatzmodule nach Satz 1 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.<sup>4</sup> Auf Antrag der bzw. des Studierenden bei der das Zeugnis ausstellenden Stelle (i. d. R. das Prüfungsamt) können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden.“ 
 
 4 
 
@@ -150,7 +150,7 @@ d) Der bisherige Abs. 3 wird zu Abs. 4.
 
 20. In § 24 Abs. 2 Halbsatz 2 werden nach den Worten „ein abweichendes Notensystem aufweisen,“ das Wort „gilt“ durch das Wort „gelten“ ersetzt sowie nach dem darauffolgenden Verweis „§ 11 Abs. 3“ die Worte und Ziffern „Sätze 1 bis 3“ eingefügt. 
 
-## 21. § 25 Abs. 1 Satz 3 wird wie folgt geändert: 
+# 21. § 25 Abs. 1 Satz 3 wird wie folgt geändert: 
 
    - a) In Nr. 1 wird nach den Worten „oder nicht fristgemäß erfüllt werden,“ das Wort „oder“ angefügt. 
 
@@ -160,43 +160,43 @@ d) Der bisherige Abs. 3 wird zu Abs. 4.
 
 22. In § 26 werden in der Überschrift nach dem Wort „ **Masterprüfung** “ ein Komma und die Worte „ **fachspezifischer Kompetenzgewinn** “ angefügt. 
 
-23. § 27 wird wie folgt geändert: 
+# 23. § 27 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 3 wird nach den Worten „in wesentlichen Teilen übereinstimmen“ der Klammerzusatz „(Plagiatsschutz)“ angefügt. 
+- a) In Abs. 1 Satz 3 wird nach den Worten „in wesentlichen Teilen übereinstimmen“ der Klammerzusatz „(Plagiatsschutz)“ angefügt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 2 werden nach den Worten „Tag der Ausgabe sind von der Betreuerin“ das Wort „oder“ durch die Abkürzung „bzw.“ und nach den darauffolgenden Worten „vom Betreuer zu bestätigen und“ das Wort „beim“ durch das Wort „dem“ ersetzt. 
+   - aa) In Satz 2 werden nach den Worten „Tag der Ausgabe sind von der Betreuerin“ das Wort „oder“ durch die Abkürzung „bzw.“ und nach den darauffolgenden Worten „vom Betreuer zu bestätigen und“ das Wort „beim“ durch das Wort „dem“ ersetzt. 
 
-      - bb) In Satz 3 wird nach den Worten „im Einvernehmen mit einer Fachvertreterin“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
+   - bb) In Satz 3 wird nach den Worten „im Einvernehmen mit einer Fachvertreterin“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
-   - c) In Abs. 7 Satz 1 wird nach den Worten „wird in der Regel von der Betreuerin“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
+- c) In Abs. 7 Satz 1 wird nach den Worten „wird in der Regel von der Betreuerin“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
-   - d) Abs. 9 wird wie folgt geändert: 
+- d) Abs. 9 wird wie folgt geändert: 
 
-      - aa) In Satz 2 werden nach den Worten „Studierende sorgt dafür, dass sie“ das Wort „oder“ durch die Abkürzung „bzw.“ und nach den darauffolgenden Worten „er innerhalb“ die Worte „des nach der Bekanntgabe der Ablehnung folgenden Semesters“ durch die Worte „von zwei Monaten nach der Bekanntgabe der Ablehnung“ ersetzt. 
+   - aa) In Satz 2 werden nach den Worten „Studierende sorgt dafür, dass sie“ das Wort „oder“ durch die Abkürzung „bzw.“ und nach den darauffolgenden Worten „er innerhalb“ die Worte „des nach der Bekanntgabe der Ablehnung folgenden Semesters“ durch die Worte „von zwei Monaten nach der Bekanntgabe der Ablehnung“ ersetzt. 
 
-      - bb) In Satz 3 werden nach den Worten „Für die Wiederholung der Masterarbeit gelten“ am Satzanfang die Worte „die Absätze 1“ durch die Abkürzungen, Worte und Ziffern „Abs. 1, Abs. 2 Satz 2, Abs. 3, Abs. 4 und die Abs. 6“ ersetzt. 
+   - bb) In Satz 3 werden nach den Worten „Für die Wiederholung der Masterarbeit gelten“ am Satzanfang die Worte „die Absätze 1“ durch die Abkürzungen, Worte und Ziffern „Abs. 1, Abs. 2 Satz 2, Abs. 3, Abs. 4 und die Abs. 6“ ersetzt. 
 
-      - cc) In Satz 4 werden nach den Worten „eine überarbeitete Fassung der Masterarbeit innerhalb von“ das Wort „sechs“ durch das Wort „vier“ ersetzt sowie 
+   - cc) In Satz 4 werden nach den Worten „eine überarbeitete Fassung der Masterarbeit innerhalb von“ das Wort „sechs“ durch das Wort „vier“ ersetzt sowie 
 
 5 
 
-nach den Worten „Bekanntgabe der Ablehnung vorzulegen; im Falle der“ die Worte „Ablehnung wegen Plagiats ist eine Umarbeitung ausgeschlossen.[5] Im Falle der“ angefügt. 
+nach den Worten „Bekanntgabe der Ablehnung vorzulegen; im Falle der“ die Worte „Ablehnung wegen Plagiats ist eine Umarbeitung ausgeschlossen.<sup>5</sup> Im Falle der“ angefügt. 
 
 - dd) In Satz 5 (neu) werden nach den Worten und der Ziffer „gelten die Abs. 1“ das Wort und die Ziffer „bis 3“ durch die Worte, Ziffern und Abkürzungen „Sätze 1, 2 und 4, Abs. 2 Satz 2, Abs. 4 Sätze 2 und 3 sowie Abs. 6 bis 8“ ersetzt. 
 
-## 24. § 28 wird wie folgt geändert: 
+# 24. § 28 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die dritte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die dritte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
-## 25. Die Überschrift „ **Anlagen** “ vor den Anlagen wird gestrichen. 
+# 25. Die Überschrift „ **Anlagen** “ vor den Anlagen wird gestrichen. 
 
-## 26. **Anlage 1** wird wie folgt geändert: 
+# 26. **Anlage 1** wird wie folgt geändert: 
 
 - a) In Ziffer 2.3.2 wird nach den Worten „ein aktuelles Transcript of Records im Falle des §“ die Zahl „27“ durch die Zahl „24“ ersetzt. 
 
@@ -222,39 +222,39 @@ nach den Worten „Bekanntgabe der Ablehnung vorzulegen; im Falle der“ die Wor
 
    - c) In Zeile 8 (Rehabilitation Science) Spalte 2 (Lehrveranstaltung) erhalten die Unterzeilen 1 bis 4 folgende neue Fassung: 
 
-„ Introduction to Rehabilitation Science Medical Rehabilitation Interdisciplinary aspects and HEE in Rehabilitation Current international research in PA and Health Promotion “ 
+„ <mark>Introduction to Rehabilitation Science Medical Rehabilitation Interdisciplinary aspects and HEE in Rehabilitation</mark> Current international research in PA and Health Promotion “ 
 
 - d) In Zeile 12 (Conceptualization, Implementation, Evaluation I) Spalte 7 (Faktor Abschlussnote) wird die Ziffer „0“ durch die Ziffer „1“ ersetzt. 
 
 - e) In den Zeilen 13 (Conceptualization, Implementation, Evaluation II) und 14 (Conceptualization, Implementation, Evaluation III) erhält jeweils die Spalte 6 (Art und Umfang der Prüfung/Studienleistung) folgende neue Fassung: 
 
-„ 2-3 mündliche Projektberichte (je ca. 5-10 Min., 50 %) und Projektportfolio (ca. 10-15 Seiten, 50 %)[5] “ 
+„ 2-3 mündliche Projektberichte (je ca. 5-10 Min., 50 %) und Projektportfolio (ca. 10-15 Seiten, 50 %)<sup>5</sup> “ 
 
 - f) Zeile 19 am Ende der Tabelle erhält folgende neue Fassung: 
 
    - „ 
 
-|Summe SWS:|10|1||47||30|30|30|30|||
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|Gesamtsumme SWS und ECTS-Punkte:|58|||||120||||||
+|Summe SWS:<br>10<br>1|47|30<br>30<br>30<br>30|
+|---|---|---|
+|Gesamtsumme SWS und ECTS-Punkte:<br>58||120|
 
 “ 
 
 - g) Die Fußnoten unterhalb der Tabelle werden wie folgt geändert: 
 
-## aa) Fußnote 1 erhält folgende neue Fassung: 
+# aa) Fußnote 1 erhält folgende neue Fassung: 
 
-> „[1 ] Die konkrete Prüfungsform ist abhängig vom konkreten didaktischen Charakter der im jeweiligen Semester abgehaltenen Lehrveranstaltungen und wird semesteraktuell im Modulhandbuch bekannt gegeben.“ 
+   - „<sup>1</sup> Die konkrete Prüfungsform ist abhängig vom konkreten didaktischen Charakter der im jeweiligen Semester abgehaltenen Lehrveranstaltungen und wird semesteraktuell im Modulhandbuch bekannt gegeben.“ 
 
 - bb) Nach Fußnote 4 wird folgende neue Fußnote 5 angefügt: 
 
-> „[5] Das Projektportfolio besteht aus einem in einer Projektgruppe gemeinsam erstellten Projektplan und Assessmentreport (0 %) sowie einer schriftlichen Reflexion über diese beiden Dokumente und die eigene Rolle im Projekt (100 %)“ 
+> „<sup>5</sup> Das Projektportfolio besteht aus einem in einer Projektgruppe gemeinsam erstellten Projektplan und Assessmentreport (0 %) sowie einer schriftlichen Reflexion über diese beiden Dokumente und die eigene Rolle im Projekt (100 %)“ 
 
 7 
 
-## 28. Das Inhaltsverzeichnis wird aktualisiert. 
+# 28. Das Inhaltsverzeichnis wird aktualisiert. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden 
 

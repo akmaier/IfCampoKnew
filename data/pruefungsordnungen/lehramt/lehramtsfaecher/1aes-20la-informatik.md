@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:10:58+00:00
-page_count_chars: 1929
+scraped_at: 2026-07-01T08:39:57+00:00
+page_count_chars: 1926
 ---
 
 # 31. März 2010
@@ -14,11 +14,11 @@ page_count_chars: 1929
 
 **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 31. März 2010 
+# Vom 31. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. März 2009, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudie
 
 3. In § 7 Abs.1 wird in der Tabelle in Zeile 11 Spalte 1 das Wort „Chemiker“ durch das Wort „Naturwissenschaftler ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

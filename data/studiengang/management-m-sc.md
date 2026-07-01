@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:48:13+00:00
+scraped_at: 2026-07-01T08:25:07+00:00
 ---
 
 # Management (M.Sc.)
@@ -70,7 +70,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Sprachzertifikat der deutschen oder englischen Sprache: Nachweis des Abiturs oder des Bachelorabschlusses in deutscher oder englischer Sprache; Alternativ: Nachweis ausreichender Deutschkenntnisse (DSH-2-Prüfung oder gleichwertiges Zertifikat) oder englischer Sprachkenntnisse.
   DSH 2 oder Englisch C1
-* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmten Voraussetzungen erforderlich
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmter Schwerpunktsetzung
 
 ### Voraussetzungen für Master
 

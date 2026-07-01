@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa%20BA-MA%20CBI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:45+00:00
-page_count_chars: 9698
+scraped_at: 2026-07-01T11:21:54+00:00
+page_count_chars: 9512
 ---
 
 # 2. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 9698
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa%20BA-MA%20CBI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
 
-## Vom 2. Dezember 2009 
+# Vom 2. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg vom 5. Dezember 2008 wird wie folgt geändert: 
 
@@ -34,15 +34,23 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bi
 
 4. § 38 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Nr. 2 a) wird der Buchstabe und die Zahl „D III“ durch die Worte „für Ingenieurberufe D3“ ersetzt. 
+   - a) In Abs. 1 Nr. 2 a) wird der Buchstabe und die Zahl „D III“ durch die Worte „für 
 
-   - b) In Abs. 1 Nr. 2 b) wird der Buchstabe und Zahl „D IV“ durch die Worte „für Ingenieurberufe D4“ ersetzt. 
+      - Ingenieurberufe D3“ ersetzt. 
+
+   - b) In Abs. 1 Nr. 2 b) wird der Buchstabe und Zahl „D IV“ durch die Worte „für 
+
+      - Ingenieurberufe D4“ ersetzt. 
 
    - c) In Abs. 1 werden die  Ziffer „3.“ und die Worte „je einer Prüfung in acht Kernfächern der Module B21 bis B28“ gestrichen. 
 
-   - d) In Abs. 1 bisherige Nr. 3 werden die Buchstaben a) bis h) zu den neuen Buchstaben p) bis w) der Nummer 1). 
+   - d) In Abs. 1 bisherige Nr. 3 werden die Buchstaben a) bis h) zu den neuen 
 
-   - e) In Abs. 1 bisherige Nr. 3 wird der Buchstabe i) zur neuen Nr. 3 und der Buchstabe j) zur neuen Nr. 4. 
+      - Buchstaben p) bis w) der Nummer 1). 
+
+   - e) In Abs. 1 bisherige Nr. 3 wird der Buchstabe i) zur neuen Nr. 3 und der Buchstabe 
+
+      - j) zur neuen Nr. 4. 
 
    - f) In Abs. 2 werden die Worte „bzw. **Anlage 2** “ gestrichen. 
 
@@ -64,9 +72,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bi
 
       3. den Prüfungen in vier Ergänzungsmodulen entsprechend **Anlage 3** (Punkt 3.2)“ 
 
-   - b) In Abs. 2 werden im ersten Klammerzusatz das Komma durch das Wort „bis“, nach dem Wort „Anlage“ die Zahl „4“ durch die Zahl „3“ und im zweiten Klammerzusatz die Zahl „4.1“ durch die Zahl „3.1“ ersetzt. Der Satz erhält die Nummerierung „[1“] . Es werden folgende neue Sätze 2 und 3 angefügt: 
+   - b) In Abs. 2 werden im ersten Klammerzusatz das Komma durch das Wort „bis“, nach dem Wort „Anlage“ die Zahl „4“ durch die Zahl „3“ und im zweiten Klammerzusatz die Zahl „4.1“ durch die Zahl „3.1“ ersetzt. Der Satz erhält die Nummerierung „<sup>1“</sup> . Es werden folgende neue Sätze 2 und 3 angefügt: 
 
-      - „[2] Werden mehrere Vertiefungsmodule zu einem Modul im Bachelorstudiengang angeboten, kann alternativ eine der angebotenen Möglichkeiten gewählt werden. 3Es kann nicht mehr als eine Vertiefung zu einem Modul des Bachelorstudiengangs in die Masterprüfung eingebracht werden.“ 
+      - „<sup>2</sup> Werden mehrere Vertiefungsmodule zu einem Modul im Bachelorstudiengang angeboten, kann alternativ eine der angebotenen Möglichkeiten gewählt werden. 3Es kann nicht mehr als eine Vertiefung zu einem Modul des Bachelorstudiengangs in die Masterprüfung eingebracht werden.“ 
 
 8. In Abs. 3 Satz 2 werden das Wort „Wahlpflichtfächer“ durch das Wort „Wahlpflichtmodul“ und das Wort „Vertiefungsfächer“ durch das Wort „Vertiefungsmodul“ ersetzt. In Abs. 3 Satz 3 wird das Wort „Wahlpflichtfächer“ durch das Wort „Wahlpflichtmodul“ ersetzt. 
 
@@ -112,58 +120,58 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bi
 
 17. Die Anlagen 2 bis 4 werden durch folgende neue Anlagen 2 und 3 ersetzt: 
 
-## „ **Anlage 2:** Module des Masterstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
+# „ **Anlage 2:** Module des Masterstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
 
-|**Anlage**|**2:**Module des Maste|rstudiums mit Angabe d|rstudiums mit Angabe d|rstudiums mit Angabe d|er Leistungs|punkte,|der Verteilung a|der Verteilung a|uf die S|emester sowie des Prüf|emester sowie des Prüf|
+|Spalte<br>1|Spalte 2||Spalte 3||Spalte 4||Sp|alte 5||Spa|lte 6|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Spalte<br>1|Spalte 2|Spalte 3|||Spalte 4||Spalte 5|||Spalte 6||
-|Nr.|Modul|SWS|||ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|Prüfungsdauer in min.||
-|||V|Ü|P||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|M1|1. Vertiefungsmodul|3|1||7,5|5|||||30|
-||Praktikum|||3||2,5|||||*)|
-|M2|2. Vertiefungsmodul|3|1||7,5|5|||||30|
-||Praktikum|||3||2,5|||||*)|
-|M3|3. Vertiefungsmodul|3|1||||5||||30|
-||Praktikum|||3|7,5||2,5||||*)|
-|M4|4. Vertiefungsmodul|3|1||7,5||5||||30|
-||Praktikum|||3|||2,5||||*)|
+|||||||1.<br>|2.<br>|3.<br>|4.<br>|||
+||Modul||SWS|||Sem.|Sem.|Sem.|Sem.|Prüfungsd|auer in min.|
+|Nr.||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|M1|1. Vertiefungsmodul|3|1||75|5|||||30|
+||Praktikum|||3|,|2,5|||||*)|
+|M2|2. Vertiefungsmodul|3|1||75|5|||||30|
+||Praktikum|||3|,|2,5|||||*)|
+|M3|3. Vertiefungsmodul|3|1||75||5||||30|
+||Praktikum|||3|,||2,5||||*)|
+|M4|4. Vertiefungsmodul|3|1||75||5||||30|
+||Praktikum|||3|,||2,5||||*)|
 |M5|1. Wahlpflichtmodul|2|1||5|5|||||30|
 |M6|2. Wahlpflichtmodul|2|1||5|5|||||30|
 |M7|3. Wahlpflichtmodul|2|1||5||5||||30|
-|M8|4. Wahlpflichtmodul|2|1||7,5|||5|||30|
-||Praktikum|||3||||2,5|||*)|
-|M9|5. Wahlpflichtmodul|2|1|||||5|||30|
-||Praktikum|||3|7,5|||2,5|||*)|
+|M8|4. Wahlpflichtmodul|2|1||75|||5|||30|
+||Praktikum|||3|,|||2,5|||*)|
+|M9|5. Wahlpflichtmodul|2|1||75|||5|||30|
+||Praktikum|||3|,|||2,5|||*)|
 |M10|1. Ergänzungsmodul|2|1||5|5||||*)||
 |M11|2. Ergänzungsmodul|2|1||5||5|||*)||
 |M12|3. Ergänzungsmodul|2|1||5|||5||*)||
 |M13|4. Ergänzungsmodul|2|1||5|||5||*)||
-|M14|Projektierungskurs|Umfangca. 150h|||5||5|||*)||
-|M15|Industriepraktikum|7 Wochen|||5|||5||||
-|M16|Masterarbeit|Umfangca. 900h|||30||||30|||
+|M14|Projektierungskurs|Umf|angca. 1|50h|5||5|||*)||
+|M15|Industriepraktikum||7 Wochen||5|||5||||
+|M16|Masterarbeit|Umf|angca. 9|00h|30||||30|||
 ||Summen SWS|30|13|18||||||||
 ||Summen ECTS||||120|30|30|30|30|||
 
-*): unbenoteter Schein 
+<mark>*): unbenoteter Schein</mark> 
 
-## **Anlage 3:** Vertiefungs- und Ergänzungsmodule des Masterstudiengangs 
+# **Anlage 3:** Vertiefungs- und Ergänzungsmodule des Masterstudiengangs 
 
-## 3.1 Vertiefungsmodule 
+# 3.1 Vertiefungsmodule 
 
-## a) Umfang der zu wählenden Vertiefungsmodule 
+# a) Umfang der zu wählenden Vertiefungsmodule 
 
 |1|Vertiefung eines der Module B21 bis B28 des Bachelorstudiengangs|
 |---|---|
-|2|<br>Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
-|3|<br>Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
-|4|<br>Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
+|2|Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
+|3|Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
+|4|Vertiefung eines weiteren der Module B21 bis B28 des Bachelorstudiengangs|
 
-## b) Katalog der zu wählenden Vertiefungsmodule 
+# b) Katalog der zu wählenden Vertiefungsmodule 
 
 |Modul im Bachelorstudiengang|Vertiefung im Masterstudiengang|
 |---|---|
-|Bioprozess- und<br>Bioreaktionstechnik|Zellkulturtechnik|
-||Pflanzenbiotechnologie|
+|Bioprozess- und|Zellkulturtechnik<br>|
+|<br>Bioreaktionstechnik|Pflanzenbiotechnologie|
 ||Mikrobielle Verfahrenstechnik|
 |Medizinische Biotechnologie|Medizinische Biotechnologie (Vertiefung)|
 |Mechanische Verfahrenstechnik|Mechanische Verfahrenstechnik (Vertiefung)|
@@ -173,17 +181,16 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bi
 |Technische Thermodynamik|Technische Thermodynamik  (Vertiefung)|
 |Thermische Verfahrenstechnik|Thermische Verfahrenstechnik  (Vertiefung)|
 
-## 3.2 Ergänzungsmodule 
+# 3.2 Ergänzungsmodule 
 
-|3.2 Ergänzungsmodule||
-|---|---|
-|Umweltverfahrenstechnik|“|
-|Konstruktionslehre für die Prozesstechnik||
-|Computeranwendung und technische Kybernetik||
-|<br>Anlagenprojektierung||
-|Fabrikationsverfahren||
-|Numerische Methoden (Lösung von Differentialgleichungen)||
-|<br>Elektrotechnische Komponenten||
+|Umweltverfahrenstechnik|
+|---|
+|Konstruktionslehre für die Prozesstechnik|
+|Computeranwendung und technische Kybernetik|
+|Anlagenprojektierung|
+|Fabrikationsverfahren|
+|Numerische Methoden (Lösung von Differentialgleichungen)|
+|Elektrotechnische Komponenten<br>“|
 
 Die Änderungssatzung tritt am 1.Oktober 2009 in Kraft. 
 

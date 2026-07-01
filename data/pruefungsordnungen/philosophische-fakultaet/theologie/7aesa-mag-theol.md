@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. März 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AeSa-Mag-Theol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:41:35+00:00
-page_count_chars: 1624
+scraped_at: 2026-07-01T09:51:33+00:00
+page_count_chars: 1640
 ---
 
 # 18. März 2004
@@ -12,9 +12,9 @@ page_count_chars: 1624
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AeSa-Mag-Theol.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/>
 
-## **Siebte Satzung zur Änderung der Ordnung für den Grad eines Magisters der Theologie (Mag. theol.) der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Siebte Satzung zur Änderung der Ordnung für den Grad eines Magisters der Theologie (Mag. theol.) der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-Vom 18. März 2004 
+## Vom 18. März 2004 
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
@@ -24,7 +24,7 @@ Die Ordnung für den Grad eines Magisters der Theologie (Mag. theol.) der Friedr
 
 1. § 15 Abs. 3 Satz 3 erhält folgende Fassung: 
 
-"[3] Die zulässigen Hilfsmittel werden rechtzeitig durch Aushang bekannt gegeben." 
+   - "<sup>3</sup> Die zulässigen Hilfsmittel werden rechtzeitig durch Aushang bekannt gegeben." 
 
 2. Der Anhang wird ersatzlos gestrichen. 
 

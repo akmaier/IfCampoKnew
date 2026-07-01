@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Autonomy Technologies FPO AT 20240430 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Autonomy_Technologies/Aenderungssatzungen/BSc-MSc_Autonomy_Technologies_FPO_AT_20240430_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:05:23+00:00
-page_count_chars: 19178
+scraped_at: 2026-07-01T11:26:50+00:00
+page_count_chars: 19374
 ---
 
 # BSc-MSc Autonomy Technologies FPO AT 20240430 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 19178
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Autonomy_Technologies/Aenderungssatzungen/BSc-MSc_Autonomy_Technologies_FPO_AT_20240430_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und den Masterstudiengang Autonomy Technologies an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAT – Vom 30. April 2024** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und den Masterstudiengang Autonomy Technologies an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAT – Vom 30. April 2024** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 des Bayerischen Hochschulinnovationsgesetzes vom 5. August 2022 ( **BayHIG** ) erlässt die FAU folgende Änderungssatzung: 
 
@@ -38,9 +38,9 @@ Die Fachprüfungsordnung für den Bachelor- und den Masterstudiengang Autonomy T
 
 1 
 
-- d) In Abs. 4 (neu) werden die Zahl „24“ durch die Zahl „28“ und nach den Worten „in Bezug auf inhaltlich“ das Wort „verwandte“ durch die Worte „im Wesentlichen gleiche“ ersetzt. 
+   - d) In Abs. 4 (neu) werden die Zahl „24“ durch die Zahl „28“ und nach den Worten „in Bezug auf inhaltlich“ das Wort „verwandte“ durch die Worte „im Wesentlichen gleiche“ ersetzt. 
 
-## 5. § 41 (neu) wird wie folgt geändert: 
+5. § 41 (neu) wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach den Worten „Autonomy Technologies nach dieser“ die Worte „Fachstudien- und“ eingefügt. 
 
@@ -52,13 +52,13 @@ Die Fachprüfungsordnung für den Bachelor- und den Masterstudiengang Autonomy T
 
    - b) In Abs. 9 werden nach dem Wort „zulassen“ das Zeichen „;“ und die Worte „es gilt Abs. 7.“ eingefügt. 
 
-## 7. § 43 (neu) wird wie folgt geändert: 
+7. § 43 (neu) wird wie folgt geändert: 
 
-- a) In Abs. 2 werden der Buchstabe und die Zahl „B24“ durch den Buchstaben und die Zahl „B25“ ersetzt. 
+   - a) In Abs. 2 werden der Buchstabe und die Zahl „B24“ durch den Buchstaben und die Zahl „B25“ ersetzt. 
 
-## b) Abs. 3 erhält folgende neue Fassung: 
+   - b) Abs. 3 erhält folgende neue Fassung: 
 
-„[1] Die Grundlagen- und Orientierungsprüfung umfasst Module im Umfang von 30 ECTS-Punkten.[2] Sie ist bestanden, wenn das Modul Mathematics I und weitere 22,5 ECTS-Punkte aus den in **Anlage 1** mit „GOP“ gekennzeichneten Modulen nachgewiesen sind.“ 
+„<sup>1</sup> Die Grundlagen- und Orientierungsprüfung umfasst Module im Umfang von 30 ECTS-Punkten.<sup>2</sup> Sie ist bestanden, wenn das Modul Mathematics I und weitere 22,5 ECTS-Punkte aus den in **Anlage 1** mit „GOP“ gekennzeichneten Modulen nachgewiesen sind.“ 
 
 - c) In Abs. 4 Satz 1 werden jeweils in den Klammerzusätzen der Buchstabe und die Zahl „B25“ durch den Buchstaben und die Zahl „B26“, der Buchstabe und die Zahl „B26“ durch den Buchstaben und die Zahl „B27“ sowie der Buchstabe und die Zahl „B27“ durch den Buchstaben und die Zahl „B28“ ersetzt. 
 
@@ -76,13 +76,13 @@ Hochschule Bayern mit der Studienfachberaterin bzw. dem Studienfachberater vorab
 
 - f) Abs. 7 erhält folgende neue Fassung: 
 
-„[1] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche in den Modulen B29 bis B32 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.[2] Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>1</sup> Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche in den Modulen B29 bis B32 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.<sup>2</sup> Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 8. § 44 (neu) wird wie folgt geändert: 
 
    - a) In Abs. 1 Satz 1 werden im Klammerzusatz der Buchstabe und die Zahl „B25“ durch den Buchstaben und die Zahl „B26“ sowie der Buchstabe und die Zahl „B26“ durch den Buchstaben und die Zahl „B27“ ersetzt. 
 
-   - b) Abs. 4 wird gestrichen. 
+b) Abs. 4 wird gestrichen. 
 
 9. § 45 (neu) wird wie folgt geändert: 
 
@@ -98,7 +98,7 @@ Hochschule Bayern mit der Studienfachberaterin bzw. dem Studienfachberater vorab
 
 ## 11. § 48 (neu) wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 3 
 
@@ -130,7 +130,7 @@ bb) Satz 2 wird wie folgt geändert:
 
 - a) Abs. 2 wird wie folgt geändert: 
 
-aa) Vor dem Wort „Das“ wird die hochgestellte Zahl „[1] “ gestrichen. 
+aa) Vor dem Wort „Das“ wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) In Ziffer 2 wird die Zahl „46“ durch die Zahl „50“ ersetzt. 
 
@@ -146,23 +146,23 @@ ff) In Ziffer 6 wird die Zahl „50“ durch die Zahl „54“ ersetzt.
 
 - b) Abs. 5 erhält folgende neue Fassung: 
 
-„(5)[1] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.[2] Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„(5)<sup>1</sup> Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.<sup>2</sup> Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 ## 13. § 50 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 wird nach den Worten „ihrer Studienrichtungen gemäß §“ die Zahl „38“ durch die Zahl „42“ ersetzt. 
 
-b) Abs. 4 wird gestrichen. 
+- b) Abs. 4 wird gestrichen. 
 
-## 14. In § 54 Abs. 4 wird die Zahl „32“ durch die Zahl „36“ ersetzt. 
+14. In § 54 Abs. 4 wird die Zahl „32“ durch die Zahl „36“ ersetzt. 
 
-## 15. § 56 wird wie folgt geändert: 
+15. § 56 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt mit Wirkung zum 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studieren.[3] Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass es hinsichtlich der Änderungen in § 43 Abs. 3 betreffend die Grundlagen- und Orientierungsprüfung bei den bisherigen Regelungen in § 39 Abs. 3 der FPOAT vom 26. April 2023 verbleibt und die Änderungen im Modul B19 (Algorithms, Programming, and Data Representation) nur für diejenigen Studierenden gelten, die sich bezogen auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt mit Wirkung zum 1. Oktober 2024 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studieren.<sup>3</sup> Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass es hinsichtlich der Änderungen in § 43 Abs. 3 betreffend die Grundlagen- und Orientierungsprüfung bei den bisherigen Regelungen in § 39 Abs. 3 der FPOAT vom 26. April 2023 verbleibt und die Änderungen im Modul B19 (Algorithms, Programming, and Data Representation) nur für diejenigen Studierenden gelten, die sich bezogen auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
 
 5 
 
@@ -170,9 +170,8 @@ b) Abs. 4 wird gestrichen.
 
 - a) Zeile 12 (Modul B9) erhält folgende neue Fassung: 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B 9|Electrical EngineeringLaboratory|||2||2,5||2,5|||SL(PrL)||
+|„<br>B 9|Electrical EngineeringLaboratory|2|2,5|2,5|SL(PrL)|
+|---|---|---|---|---|---|
 
 - „ 
 
@@ -184,9 +183,10 @@ b) Abs. 4 wird gestrichen.
 
 - e) Nach Zeile 27 (Modul B24) wird folgende neue Zeile eingefügt: 
 
-## „ 
+## <u>„</u> 
 
-B 25 Automation Laboratory 2 2,5 2,5 SL (PrL) 
+|B 25 Automation Laboratory|2<br>2,5|2,5<br>SL(PrL)|
+|---|---|---|
 
 „ 
 
@@ -196,32 +196,33 @@ B 25 Automation Laboratory 2 2,5 2,5 SL (PrL)
 
 - h) In Zeile 33 (neu) (Modul B27) wird in Spalte 1 (Modulbezeichnung) die Zahl „27“ durch die Zahl „28“ ersetzt. 
 
-- i) In Zeile 35 (neu) (Modul B28) werden in Spalte 1 (Nr.) die Zahl „28“ durch die Zahl „29“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „[2)] “ die hochgestellte Zahl „[3)] “ angefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
+- i) In Zeile 35 (neu) (Modul B28) werden in Spalte 1 (Nr.) die Zahl „28“ durch die Zahl „29“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „<sup>2)</sup> “ die hochgestellte Zahl „<sup>3)</sup> “ angefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
 
 6 
 
-- j) In Zeile 36 (neu) (Modul B29) werden in Spalte 1 (Nr.) die Zahl „29“ durch die Zahl „30“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „[2)] “ die hochgestellte Zahl „[3)] “ angefügt, in Spalte 11 (3. WS) die Zahl „2,5“ gestrichen, in Spalte 12 (4. SS) die Zahl „2,5“ eingefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
+- j) In Zeile 36 (neu) (Modul B29) werden in Spalte 1 (Nr.) die Zahl „29“ durch die Zahl „30“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „<sup>2)</sup> “ die hochgestellte Zahl „<sup>3)</sup> “ angefügt, in Spalte 11 (3. WS) die Zahl „2,5“ gestrichen, in Spalte 12 (4. SS) die Zahl „2,5“ eingefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
 
-- k) In Zeile 37 (neu) (Modul B30) werden in Spalte 1 (Nr.) die Zahl „30“ durch die Zahl „31“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „[2)] “ die hochgestellte Zahl „[3)] “ angefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
+- k) In Zeile 37 (neu) (Modul B30) werden in Spalte 1 (Nr.) die Zahl „30“ durch die Zahl „31“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „<sup>2)</sup> “ die hochgestellte Zahl „<sup>3)</sup> “ angefügt und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
 
-- l) In Zeile 38 (neu) (Modul B31) werden in Spalte 1 (Nr.) die Zahl „31“ durch die Zahl „32“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „[2)] “ die hochgestellte Zahl „[3)] “ angefügt, und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
+- l) In Zeile 38 (neu) (Modul B31) werden in Spalte 1 (Nr.) die Zahl „31“ durch die Zahl „32“ ersetzt, in Spalte 2 (Modulbezeichnung) nach der hochgestellten Zahl „<sup>2)</sup> “ die hochgestellte Zahl „<sup>3)</sup> “ angefügt, und in Spalte 15 (Art und Umfang der Prüfung) die Zahl „39“ durch die Zahl „43“ ersetzt. 
 
 - m) In Zeile 39 (neu) (Modul B32) werden in Spalte 1 (Nr.) die Zahl „32“ durch die Zahl „33“ ersetzt und in Spalte 15 (Art und Umfang der Prüfung) nach dem Wort „Bachelorarbeit“ das Zeichen „)“ sowie nach dem darauffolgenden Wort „und“ die Buchstaben und das Zeichen „PL (“ gestrichen. 
 
 - n) In Zeile 41 (Summen) erhält folgende neue Fassung: 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Summe SWS und ECTS-Punkte**|**72**|**46**|**14**|**8**|**180**|**30**|**30-32,5**|**27,5-30**|**27,5-30**|**30**|**32,5**||
-||**140**||||||||||||
+|„|
+|---|
+
+|**Summe SWS und ECTS-Punkte**|**72**<br>**46**<br>**14**<br>**8**<br>**180**<br>**30**<br>**30-32,5**<br>**140**|**27,5-30**<br>**27,5-30**|**30**<br>**32,5**|
+|---|---|---|---|
 
 „ 
 
-- o) In Erläuterung[2)] unterhalb der Tabelle wird die Zahl „39“ durch die Zahl „43“ ersetzt. 
+- o) In Erläuterung<sup>2)</sup> unterhalb der Tabelle wird die Zahl „39“ durch die Zahl „43“ ersetzt. 
 
-- p) Erläuterung[3)] unterhalb der Tabelle erhält folgende neue Fassung: 
+- p) Erläuterung<sup>3)</sup> unterhalb der Tabelle erhält folgende neue Fassung: 
 
-„[1] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche in den Modulen B29 bis B32 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.[2] Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>1</sup> Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche in den Modulen B29 bis B32 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich.<sup>2</sup> Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 - q) Die Abkürzungen unterhalb der Tabelle erhalten folgende neue Fassung: 
 
@@ -243,7 +244,7 @@ m: mündliche PrüfungPrL: Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 und 6 **A
 
 - a) In Zeilen 3 bis 6 (Module M1 bis M4) wird in Spalte 13 (Art und Umfang der Prüfung) jeweils die Zahl „46“ durch die Zahl „50“ ersetzt. 
 
-- b) In Zeile 7 (Modul M5) werden in Spalte 2 (Modulbezeichnung) nach dem Wort „subjects“ die hochgestellte Zahl „[1)] “ angefügt und in Spalte 13 (Art und Umfang der Prüfung) die Zahl „47“ durch die Zahl „51“ ersetzt. 
+- b) In Zeile 7 (Modul M5) werden in Spalte 2 (Modulbezeichnung) nach dem Wort „subjects“ die hochgestellte Zahl „<sup>1)</sup> “ angefügt und in Spalte 13 (Art und Umfang der Prüfung) die Zahl „47“ durch die Zahl „51“ ersetzt. 
 
 - c) In Zeile 9 (Modul M7) wird in Spalte 13 (Art und Umfang der Prüfung) die Zahl „49“ durch die Zahl „53“ ersetzt. 
 
@@ -251,7 +252,7 @@ m: mündliche PrüfungPrL: Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 und 6 **A
 
 - e) Unterhalb der Tabelle wird folgende neue Erläuterung 1) angefügt: 
 
-„[1) ] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>1)</sup> Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 - f) Die Abkürzungen unterhalb der Tabelle erhalten folgende neue Fassung: 
 
@@ -267,11 +268,9 @@ m: mündliche Prüfung PrL: Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 u. 6 **A
 
 ## a) Zeile 1 erhält folgende neue Fassung: 
 
-## „ 
+## <u>„</u> 
 
-S1 
-
-S2 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14 S15 S16 S17 
+<mark>S1 S2 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14 S15 S16 S17</mark> 
 
 „ 
 
@@ -287,15 +286,13 @@ S2 S4 S5 S6 S7 S8 S9 S10 S11 S12 S13 S14 S15 S16 S17
 
 - f) Unterhalb der Tabelle wird folgende neue Erläuterung 1) angefügt: 
 
-„[1)] Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>1)</sup> Abweichend von § 32 Abs. 2 Satz 3 **ABMPO/TF** werden Fehlversuche im Modul M5 beim Wechsel in alternativ angebotene Module nicht angerechnet und ein Modulwechsel ist auch nach dreimaligem Nichtbestehen des zuvor absolvierten Moduls weiterhin möglich. Darüber hinaus besteht gemäß § 32 Abs. 1 Satz 6 **ABMPO/TF** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 ## g) Die Abkürzungen unterhalb der Tabelle erhalten folgende neue Fassung: 
 
 „ **Abkürzungen:** 
 
-GOP: Grundlagen- und Orientierungsprüfung 
-
-PL: Prüfungsleistung, benotet, vgl. § 7 Abs. 2 Satz 10 **ABMPO/TF** 
+GOP: Grundlagen- und Orientierungsprüfung PL: Prüfungsleistung, benotet, vgl. § 7 Abs. 2 Satz 10 **ABMPO/TF** 
 
 SL: Studienleistung, unbenotet, vgl. § 7 Abs. 2 Satz 11 **ABMPO/TF** 
 
@@ -321,7 +318,7 @@ m: mündliche Prüfung PrL: Praktikumsleistung, vgl. § 7 Abs. 3 Satz 4 u. 6 **A
 
 ## **§ 2** 
 
-1Diese Änderungssatzung tritt mit Wirkung zum 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studieren.[3] Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass es hinsichtlich der Änderungen in § 43 Abs. 3 betreffend die Grundlagen- und Orientierungsprüfung bei den bisherigen Regelungen in § 39 Abs. 3 der FPOAT vom 26. April 2023 verbleibt und die Änderungen im Modul B19 (Algorithms, Programming, and Data Representation) nur für diejenigen Studierenden gelten, die sich bezogen auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
+1Diese Änderungssatzung tritt mit Wirkung zum 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Masterstudierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studieren.<sup>3</sup> Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass es hinsichtlich der Änderungen in § 43 Abs. 3 betreffend die Grundlagen- und Orientierungsprüfung bei den bisherigen Regelungen in § 39 Abs. 3 der FPOAT vom 26. April 2023 verbleibt und die Änderungen im Modul B19 (Algorithms, Programming, and Data Representation) nur für diejenigen Studierenden gelten, die sich bezogen auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
 
 11 
 

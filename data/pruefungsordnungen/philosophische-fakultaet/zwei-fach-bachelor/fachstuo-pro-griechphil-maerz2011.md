@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 08.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_GriechPhil.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:52+00:00
-page_count_chars: 9164
+scraped_at: 2026-07-01T10:20:08+00:00
+page_count_chars: 9320
 ---
 
 # PDF vom 05.10.2007 i.d.F. 08.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 9164
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -40,13 +40,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Griechische Philologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Bachelorstudiengang Griechische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Griechischen Philologie sowie in den Neben- und Nachbardisziplinen.[2] Außerdem soll der Grund gelegt werden zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbständigen Bearbeiten komplexer Probleme überhaupt.[3] Diese Kompetenzen stellen eine Grundlage dar für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten. 
+(2)<sup>1</sup> Im Bachelorstudiengang Griechische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Griechischen Philologie sowie in den Neben- und Nachbardisziplinen.<sup>2</sup> Außerdem soll der Grund gelegt werden zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbständigen Bearbeiten komplexer Probleme überhaupt.<sup>3</sup> Diese Kompetenzen stellen eine Grundlage dar für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten. 
 
-(3)[1] Im Bachelorstudiengang Griechische Philologie wird eine fundierte fachwissenschaftliche Grundausbildung gewährleistet.[2] Der Absolvent erwirbt überdies die Kompetenz zum Umgang mit sprachlichen Phänomen und Texten überhaupt, zudem Fertigkeiten in der Gewinnung großer Mengen von Informationen sowie eine hohe 
+(3)<sup>1</sup> Im Bachelorstudiengang Griechische Philologie wird eine fundierte fachwissenschaftliche Grundausbildung gewährleistet.<sup>2</sup> Der Absolvent erwirbt überdies die Kompetenz zum Umgang mit sprachlichen Phänomen und Texten überhaupt, zudem Fertigkeiten in der Gewinnung großer Mengen von Informationen sowie eine hohe 
 
 1 
 
-generelle analytische Befähigung.[3] Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
+generelle analytische Befähigung.<sup>3</sup> Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
 1. Sprachbeherrschung und Sprachreflexion 
 
@@ -64,7 +64,7 @@ generelle analytische Befähigung.[3] Zur Erreichung dieses Qualifikationsprofil
 
 ## **§ 3 Fächerkombinationen** 
 
-(1)[1] Mit dem Fach Griechische Philologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.[2] Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
+(1)<sup>1</sup> Mit dem Fach Griechische Philologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.<sup>2</sup> Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
 
 (2) Im Übrigen gilt § 30 Abs. 5 der ABMStPO/Phil. 
 
@@ -72,21 +72,17 @@ generelle analytische Befähigung.[3] Zur Erreichung dieses Qualifikationsprofil
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium Griechische Philologie als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
-|reich|abzulegen:||||||
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Modul-**<br>**notenfaktor**|
 |---|---|---|---|---|---|---|
-|**Sem.1**|||||**Leistungs-**<br>**nachweis**|**Modul-**<br>**notenfaktor**|
-||**Module**|**LV**|**SWS**|**ECTS**|||
-||||||||
 |1|**Graecum I**|Graecumskurs I|**6**<br>6|**10**<br>10|K 120’<br>(unbenotet)|-|
 |2|**Graecum II**|Graecumskurs II|**6**<br>6|**10**<br>10|K 120’<br>(unbenotet)|-|
 |1 / 2|**Ersatzmodul I**<br>(wenn Grae-<br>cum bereits<br>vorhanden)|PS Griechisch<br>V Griechisch<br>V Klassische Archäologie oder Alte Geschichte<br>oder Antike Philosophie oder Neues Testament|**6**<br>2<br>2<br>2|**10**<br>5<br>2<br>3|MP 20’<br>MP 15’<br>n. Maßgabe d.<br>Fächer|-<br>-<br>-|
-|1 / 2|**Ersatzmodul II**<br>(wenn Grae-<br>cum bereits<br>vorhanden)|Ü Sprache Einführung a<br>Ü Sprache Einführung b|**6**<br>4<br>2|**10**<br>6<br>4|nach Durchlau-<br>fen beider Ver-<br>anstaltungen des<br>Moduls<br>2 K je 120’<br>Modulprüfung<br>durch Studienle-<br>istung (unbe-<br>notet)|-|
-||||||||
+|1 / 2|**Ersatzmodul II**<br>(wenn Grae-<br>cum bereits<br>vorhanden)|<br>Ü Sprache Einführung a<br>Ü Sprache Einführung b|**6**<br>4<br>2|**10**<br>6<br>4|nach Durchlau-<br>fen beider Ver-<br>anstaltungen des<br>Moduls<br>2 K je 120’<br>Modulprüfung<br>durch Studienle-<br>istung (unbe-<br>notet)|-|
 |3/4|**Modul**<br>**Einführung**|V Latein oder Ü Indogermanistik<br>PS Einführung in die Griechische Philologie<br>Ü Einführung in die Nebendisziplinen|**6**<br>2<br>2<br>2|**10**<br>2<br>4<br>4|n. Maßgabe d.<br>Fächer<br>R u. K 120’<br>MP 20’|0,1<br>0,5<br>0,4|
-|3 / 4|**Modul**<br>**Sprache I**|Ü Sprache I a<br>Ü Sprache I b|**6**<br>4<br>2|**10**<br>6<br>4|2 K je 120’|je 0,5|
-|3 / 4|**Modul**<br>**Literatur I**|V Poesie<br>PS Prosa<br>Ü Lektüre|**6**<br>2<br>2<br>2|**10**<br>2<br>6<br>2|MP 15’<br>entweder K 120’<br>oder (wenn Mo-<br>dul Literatur II<br>nicht belegt wird)<br>HA<br>K’120|0,2<br>0,5<br>0,3|
+|3 / 4|**Modul**<br>**Sprache I**|Ü Sprache I a<br>Ü Sprache I b|**6**<br>4<br>2|**10**<br>6<br>4|2 K je 120’|je 05|
+|3 / 4|**Modul**<br>**Literatur I**|V Poesie<br>PS Prosa|**6**<br>2<br>2|**10**<br>2<br>6|<br>MP 15’<br>entweder K 120’<br>oder (wenn Mo-<br>dul Literatur II<br>nicht belegt wird)<br>HA|,<br>0,2<br>0,5|
+|||Ü Lektüre|2<br>|2<br>|K’120|0,3|
 |3/4|**Modul**<br>**Literatur II**|V Prosa<br>PS Poesie<br>Ü Lektüre|**6**<br>2<br>2<br>2|**10**<br>2<br>6<br>2|MP 15’<br>HA<br>K 120’|0,2<br>0,5<br>0,3|
-||||||||
 |5 / 6|**Modul**<br>**Sprache II**|Ü Sprache II a<br>Ü Sprache II b|**6**<br>4<br>2|**10**<br>6<br>4|2 K je 120|je 0,5|
 |5 / 6|**Modul**<br>**Literatur III**|HS Prosa od. Poesie<br>Ü Lektüre Griechisch<br>Ü Lektüre NT|**6**<br>2<br>2<br>2|**10**<br>6<br>2<br>2|HA<br>K 120’<br>K 120’|0,7<br>0,15<br>0,15|
 |5 / 6|**Bachelorarbeit**|||**10**|BA|1|
@@ -99,24 +95,23 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; R = Referat; SL = Studie
 
 ## (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
-|wendung:||||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
+|---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
 |**Graecum I**|||**10**|||||||
-|GraecumskursI|GOP1)|6|10|||||||
+|GraecumskursI|GOP<sup>1)</sup>|6|10|||||||
 |**Graecum II**|||**10**|||||||
-|Graecumskurs II|GOP1)|6|10|||||||
+|Graecumskurs II|GOP<sup>1)</sup>|6|10|||||||
 |**Ersatzmodul I**|||**10**|||||||
-|Proseminar Griechisch|GOP1)|2|5|||||||
-|Vorlesung Griechisch|GOP1)|2|2|||||||
-|VorlesungKlassischeArchäologie, oder|GOP1)|2|3|||||||
-|VorlesungAlte Geschichte, oder|GOP1)|2|3|||||||
-|VorlesungAntikePhilosophie, oder|GOP1)|2|3|||||||
-|VorlesungNeuesTestament|GOP1)|2|3|||||||
+|Proseminar Griechisch|GOP<sup>1)</sup>|2|5|||||||
+|Vorlesung Griechisch|GOP<sup>1)</sup>|2|2|||||||
+|VorlesungKlassischeArchäologie, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungAlte Geschichte, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungAntikePhilosophie, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungNeuesTestament|GOP<sup>1)</sup>|2|3|||||||
 |**Ersatzmodul II**|||**10**|||||||
-|SpracheEinführung a|GOP1)|4|6|||||||
-|SpracheEinführung b|GOP1)|2|4|||||||
+|SpracheEinführung a|GOP<sup>1)</sup><br>|4|6|||||||
+|SpracheEinführung b|GOP<sup>1)</sup>|2|4|||||||
 |**Modul Einführung**|||**10**|||||||
 |VorlesungLatein, oder||2|2|||||||
 |ÜbungIndogermanistik||2|2|||||||
@@ -147,7 +142,7 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; R = Referat; SL = Studie
 
 (3) Im Studiengang Griechische Philologie als zweites Fach sind die Module nach Abs. 1 und 2 mit Ausnahme der Module „Literatur II“ und „Bachelorarbeit“ erfolgreich abzulegen. 
 
-(4)[1] Falls Griechische Philologie als Erstfach studiert wird, müssen im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Es werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Italienisch oder Französisch empfohlen. 
+(4)<sup>1</sup> Falls Griechische Philologie als Erstfach studiert wird, müssen im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.<sup>2</sup> Es werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Italienisch oder Französisch empfohlen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -155,7 +150,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Griechische Philo
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis altgriechischer Sprachkenntnisse auf dem Niveau des Graecums erbringen; Studierende ohne Graecum erbringen den Nachweis durch den erfolgreichen Abschluss der Module Graecum I und Graecum II im Umfang von insgesamt 20 ECTS-Punkten.[2] Darüber hinaus müssen Kenntnisse in einer lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
+1Die Studierenden müssen den Nachweis altgriechischer Sprachkenntnisse auf dem Niveau des Graecums erbringen; Studierende ohne Graecum erbringen den Nachweis durch den erfolgreichen Abschluss der Module Graecum I und Graecum II im Umfang von insgesamt 20 ECTS-Punkten.<sup>2</sup> Darüber hinaus müssen Kenntnisse in einer lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
 
 ## **§ 7 Schluss- und Übergangsvorschriften** 
 

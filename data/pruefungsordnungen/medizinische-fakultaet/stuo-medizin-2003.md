@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 30.09.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Urschriften/StuO-Medizin-2003.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:24:22+00:00
-page_count_chars: 16111
+scraped_at: 2026-07-01T08:48:32+00:00
+page_count_chars: 16472
 ---
 
 # PDF vom 30.09.2003
@@ -12,7 +12,7 @@ page_count_chars: 16111
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Urschriften/StuO-Medizin-2003.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
+# **Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
 
 Vom 30. September 2003 
 
@@ -40,23 +40,23 @@ Das Studium kann im Winter- und im Sommersemester aufgenommen werden.
 
 ## **Ausbildung in erster Hilfe, Krankenpflegedienst, Famulatur** 
 
-(1)[ 1] Es empfiehlt sich, die in den §§ 5 und 6 ÄAppO vorgeschriebene Ausbildung in Erster Hilfe und den Krankenpflegedienst vor Beginn des Studiums abzuleisten.[2] Die Nachweise darüber sind bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung vorzulegen. 
+(1)<sup>1</sup> Es empfiehlt sich, die in den §§ 5 und 6 ÄAppO vorgeschriebene Ausbildung in Erster Hilfe und den Krankenpflegedienst vor Beginn des Studiums abzuleisten.<sup>2</sup> Die Nachweise darüber sind bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung vorzulegen. 
 
-(2)[1] Es empfiehlt sich, die Famulatur nach § 7 ÄAppO unmittelbar nach dem bestandenen Ersten Abschnitt der Ärztlichen Prüfung abzuleisten.[2] Der Nachweis über die spätestens bis zum Beginn der Praktischen Jahres abzuleistende Famulatur ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung vorzulegen. 
+(2)<sup>1</sup> Es empfiehlt sich, die Famulatur nach § 7 ÄAppO unmittelbar nach dem bestandenen Ersten Abschnitt der Ärztlichen Prüfung abzuleisten.<sup>2</sup> Der Nachweis über die spätestens bis zum Beginn der Praktischen Jahres abzuleistende Famulatur ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung vorzulegen. 
 
 ## **§ 5 Ziele des Studiengangs** 
 
-(1)[1] Die Ausbildung zum Arzt wird auf wissenschaftlicher Grundlage praxis- und patientenbezogen gemäß § 1 Abs. 1 ÄAppO durchgeführt.[2] Das Studium der Medizin ermöglicht im Rahmen des Lehrangebots fachbezogene Schwerpunktbildungen nach eigener Wahl der Studierenden.[3] Dazu trägt insbesondere das Wahlfach gemäß § 2 Abs. 8 Satz 1 ÄAppO bei. 
+(1)<sup>1</sup> Die Ausbildung zum Arzt wird auf wissenschaftlicher Grundlage praxis- und patientenbezogen gemäß § 1 Abs. 1 ÄAppO durchgeführt.<sup>2</sup> Das Studium der Medizin ermöglicht im Rahmen des Lehrangebots fachbezogene Schwerpunktbildungen nach eigener Wahl der Studierenden.<sup>3</sup> Dazu trägt insbesondere das Wahlfach gemäß § 2 Abs. 8 Satz 1 ÄAppO bei. 
 
 (2) Im Verlauf des Studiums werden die der späteren ärztlichen Tätigkeit entsprechenden Einsichten, Fähigkeiten, Fertigkeiten und Kenntnisse vermittelt. 
 
 ## **§ 6 Studieninhalte** 
 
-1Der Inhalt des Studiums richtet sich nach den Bestimmungen der §§ 1 bis 3 ÄAppO. 2Der Unterricht im Studium soll fächerübergreifendes Denken fördern und soweit zweckmäßig problemorientiert am Lehrgegenstand ausgerichtet sein.[3] Die Vermittlung der naturwissenschaftlichen und theoretischen Grundlagen ist auf die medizinisch relevanten Ausbildungsinhalte zu konzentrieren.[4] Die Vermittlung des theoretischen und klinischen Wissens soll während des gesamten Studiums so weitgehend wie möglich miteinander verknüpft werden. 
+1Der Inhalt des Studiums richtet sich nach den Bestimmungen der §§ 1 bis 3 ÄAppO. 2Der Unterricht im Studium soll fächerübergreifendes Denken fördern und soweit zweckmäßig problemorientiert am Lehrgegenstand ausgerichtet sein.<sup>3</sup> Die Vermittlung der naturwissenschaftlichen und theoretischen Grundlagen ist auf die medizinisch relevanten Ausbildungsinhalte zu konzentrieren.<sup>4</sup> Die Vermittlung des theoretischen und klinischen Wissens soll während des gesamten Studiums so weitgehend wie möglich miteinander verknüpft werden. 
 
 ## **§ 7 Studienabschnitte** 
 
-1Das Studium gliedert sich in einen zweijährigen ersten, und einen vierjährigen zweiten Studienabschnitt, wobei das letzte Jahr des Studiums als Praktisches Jahr abgeleistet wird.[2] Voraussetzung für die Teilnahme am zweiten Studienabschnitt ist das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung.[3] Die Verteilung der Studieninhalte auf die Studienabschnitte wird von der ÄAppO geregelt. 
+1Das Studium gliedert sich in einen zweijährigen ersten, und einen vierjährigen zweiten Studienabschnitt, wobei das letzte Jahr des Studiums als Praktisches Jahr abgeleistet wird.<sup>2</sup> Voraussetzung für die Teilnahme am zweiten Studienabschnitt ist das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung.<sup>3</sup> Die Verteilung der Studieninhalte auf die Studienabschnitte wird von der ÄAppO geregelt. 
 
 ## **ERSTER STUDIENABSCHNITT** 
 
@@ -70,31 +70,29 @@ Das Studium kann im Winter- und im Sommersemester aufgenommen werden.
 
 3. Fachbezogene Unterrichtsveranstaltungen, die den Studierenden die Bildung von Schwerpunkten ermöglichen, insbesondere Seminarveranstaltungen, die als Wahlfach gewählt werden können. 
 
-2Studierende haben im ersten Studienabschnitt eine Wahlfachveranstaltung im Umfang von drei Semesterwochenstunden zu absolvieren.[3] Die Liste der von der Fakultät angebotenen Wahlfächer wird auf Vorschlag der Fakultätskommission für Lehre und Studierende vom Fachbereichsrat beschlossen, und ist im Studiendekanat und im Internet einzusehen.[4] Die Zahl der Studierenden, die ein Wahlfach wählen, kann begrenzt werden.[5] Näheres regelt eine Satzung nach Art. 75 BayHSchG.[6] Die Leistung im Wahlfach wird benotet. 
+2Studierende haben im ersten Studienabschnitt eine Wahlfachveranstaltung im Umfang von drei Semesterwochenstunden zu absolvieren.<sup>3</sup> Die Liste der von der Fakultät angebotenen Wahlfächer wird auf Vorschlag der Fakultätskommission für Lehre und Studierende vom Fachbereichsrat beschlossen, und ist im Studiendekanat und im Internet einzusehen.<sup>4</sup> Die Zahl der Studierenden, die ein Wahlfach wählen, kann begrenzt werden.<sup>5</sup> Näheres regelt eine Satzung nach Art. 75 BayHSchG.<sup>6</sup> Die Leistung im Wahlfach wird benotet. 
 
-(2)[1] Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im ersten Studienabschnitt 1381 Stunden.[2] Darin enthalten sind die in der ÄAppO vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und Seminare im Ersten Studienabschnitt mit mindestens 630 Stunden (45 SWS) und  zusätzlich (§ 2 Abs. 2 Satz 5 ÄAppO) 154 Stunden (11 SWS) Seminare mit klinischem Bezug. 3Dabei sollen die Mindestwerte für die scheinpflichtigen 4 Lehrveranstaltungen um nicht mehr als 15% überschritten werden. Die Gesamtstundenzahl, beziehungsweise die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen nach Maßgabe der **Anlage 1 und 2** . 5Eine Semesterwochenstunde ist mit 14 Veranstaltungsstunden veranschlagt. 
+(2)<sup>1</sup> Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im ersten Studienabschnitt 1381 Stunden.<sup>2</sup> Darin enthalten sind die in der ÄAppO vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und Seminare im Ersten Studienabschnitt mit mindestens 630 Stunden (45 SWS) und  zusätzlich (§ 2 Abs. 2 Satz 5 ÄAppO) 154 Stunden (11 SWS) Seminare mit klinischem Bezug. 3Dabei sollen die Mindestwerte für die scheinpflichtigen 4 Lehrveranstaltungen um nicht mehr als 15% überschritten werden. Die Gesamtstundenzahl, beziehungsweise die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen nach Maßgabe der **Anlage 1 und 2** . 5Eine Semesterwochenstunde ist mit 14 Veranstaltungsstunden veranschlagt. 
 
-(3)[1] Soweit diese Studienordnung Voraussetzungen für die Teilnahme an einzelnen praktischen Übungen vorsieht, insbesondere die Teilnahme vom Nachweis ausreichender Kenntnisse abhängig macht, ist dies in der **Anlage 1** festgelegt. 
+(3)<sup>1</sup> Soweit diese Studienordnung Voraussetzungen für die Teilnahme an einzelnen praktischen Übungen vorsieht, insbesondere die Teilnahme vom Nachweis ausreichender Kenntnisse abhängig macht, ist dies in der **Anlage 1** festgelegt. 
 
 ## **§ 9 Praktische Übungen und Seminare** 
 
-(1)[1] Die praktischen Übungen (Ü) und Seminare (S) im Sinne von § 2 Abs. 3 und 4 ÄAppO sind in **Anlage 1** , die vorbereitenden und begleitenden systematischen Vorlesungen (V*) im Sinne von § 2 Abs. 6 ÄAppO sind in **Anlage 2** zu dieser Studienordnung aufgelistet.[2] Die erfolgreiche Teilnahme an einer praktischen Übung und an einem Seminar (vgl. § 2 Abs. 7 ÄAppO) darf nur bescheinigt werden, wenn der Studierende die für die Ausbildung zum Arzt beziehungsweise die Tätigkeit als Arzt erforderlichen praktischen und theoretischen Kenntnisse über den der praktischen Übung (Ü) oder dem Seminar zugehörigen Wissensstoff in Form einer Leistungskontrolle nachgewiesen hat; die Leistungskontrolle findet  kontinuierlich im Verlauf der Lehrveranstaltung, in einer Prüfung gegen Ende der praktischen Übung, spätestens aber in der letzten Woche der vorlesungsfreien Zeit vor dem folgenden Semester statt. 
+(1)<sup>1</sup> Die praktischen Übungen (Ü) und Seminare (S) im Sinne von § 2 Abs. 3 und 4 ÄAppO sind in **Anlage 1** , die vorbereitenden und begleitenden systematischen Vorlesungen (V*) im Sinne von § 2 Abs. 6 ÄAppO sind in **Anlage 2** zu dieser Studienordnung aufgelistet.<sup>2</sup> Die erfolgreiche Teilnahme an einer praktischen Übung und an einem Seminar (vgl. § 2 Abs. 7 ÄAppO) darf nur bescheinigt werden, wenn der Studierende die für die Ausbildung zum Arzt beziehungsweise die Tätigkeit als Arzt erforderlichen praktischen und theoretischen Kenntnisse über den der praktischen Übung (Ü) oder dem Seminar zugehörigen Wissensstoff in Form einer Leistungskontrolle nachgewiesen hat; die Leistungskontrolle findet  kontinuierlich im Verlauf der Lehrveranstaltung, in einer Prüfung gegen Ende der praktischen Übung, spätestens aber in der letzten Woche der vorlesungsfreien Zeit vor dem folgenden Semester statt. 
 
-(2)[1] Der Übungsleiter bestimmt zu Beginn der Unterrichtsveranstaltung, in welcher Form der Leistungsnachweis zu führen ist und ob bei Nichtbestehen von einzelnen Teilprüfungen Nachprüfungen im gleichen Semester, spätestens aber in der letzten Woche der vorlesungsfreien Zeit vor dem folgenden Semester, angeboten werden. 2Diese zählen nicht als Wiederholungsprüfungen im Sinne des Abs. 5. 3Bei Seminaren kann die erfolgreiche Teilnahme aufgrund eines Referates oder einer Seminararbeit festgestellt werden. 
+(2)<sup>1</sup> Der Übungsleiter bestimmt zu Beginn der Unterrichtsveranstaltung, in welcher Form der Leistungsnachweis zu führen ist und ob bei Nichtbestehen von einzelnen Teilprüfungen Nachprüfungen im gleichen Semester, spätestens aber in der letzten Woche der vorlesungsfreien Zeit vor dem folgenden Semester, angeboten werden. 2Diese zählen nicht als Wiederholungsprüfungen im Sinne des Abs. 5. 3Bei Seminaren kann die erfolgreiche Teilnahme aufgrund eines Referates oder einer Seminararbeit festgestellt werden. 
 
-(3)[1] Die Leistungen in den scheinpflichtigen Veranstaltungen werden benotet.[2] Die Notenskala richtet sich nach § 13 Abs. 2 ÄAppO.[3] Die Leistungskontrolle ist bestanden, wenn mindestens die Note 4 (ausreichend) erreicht wurde.[4] Nimmt der Studierende aus von ihm zu vertretenden Gründen an einer Leistungskontrolle nicht teil, so gilt sie als mit "nicht ausreichend (5)" bewertet. 
+(3)<sup>1</sup> Die Leistungen in den scheinpflichtigen Veranstaltungen werden benotet.<sup>2</sup> Die Notenskala richtet sich nach § 13 Abs. 2 ÄAppO.<sup>3</sup> Die Leistungskontrolle ist bestanden, wenn mindestens die Note 4 (ausreichend) erreicht wurde.<sup>4</sup> Nimmt der Studierende aus von ihm zu vertretenden Gründen an einer Leistungskontrolle nicht teil, so gilt sie als mit "nicht ausreichend (5)" bewertet. 
 
-(4)[1] Der Studierende hat die Pflicht, an den praktischen Übungen und Seminaren regelmäßig teilzunehmen. 2Die Teilnahme ist nur dann regelmäßig, wenn der Studierende an höchstens 10 % der Übungs- beziehungsweise Seminarstunden nicht teilgenommen hat.[3] Wird eine Veranstaltung nicht regelmäßig besucht, so gilt sie vorbehaltlich des § 10 als mit "nicht ausreichend (5)" bewertet. 
-
-(5)[1] Leistungsnachweise, die nicht bestanden (Abs. 3) und Lehrveranstaltungen, die nicht regelmäßig besucht wurden (Abs. 4), können zweimal wiederholt werden.[2] Die erste Wiederholung hat im darauf folgenden Semester  zu erfolgen.[3] Unterbleibt sie aus von dem Studierenden zu vertretenden Gründen, so gilt die Leistungskontrolle als erneut mit "nicht ausreichend (5)" bewertet.[4] Die Sätze 2 und 3 gelten für die zweite Wiederholung entsprechend. 
+(4)<sup>1</sup> Der Studierende hat die Pflicht, an den praktischen Übungen und Seminaren regelmäßig teilzunehmen. 2Die Teilnahme ist nur dann regelmäßig, wenn der Studierende an höchstens 10 % der Übungs- beziehungsweise Seminarstunden nicht teilgenommen hat.<sup>3</sup> Wird eine Veranstaltung nicht regelmäßig besucht, so gilt sie vorbehaltlich des § 10 als mit "nicht ausreichend (5)" bewertet. (5)<sup>1</sup> Leistungsnachweise, die nicht bestanden (Abs. 3) und Lehrveranstaltungen, die nicht regelmäßig besucht wurden (Abs. 4), können zweimal wiederholt werden.<sup>2</sup> Die erste Wiederholung hat im darauf folgenden Semester  zu erfolgen.<sup>3</sup> Unterbleibt sie aus von dem Studierenden zu vertretenden Gründen, so gilt die Leistungskontrolle als erneut mit "nicht ausreichend (5)" bewertet.<sup>4</sup> Die Sätze 2 und 3 gelten für die zweite Wiederholung entsprechend. 
 
 ## **§ 10 Versäumnis und Rücktritt** 
 
-(1) 1Kann ein Studierender aus zwingenden Gründen seinen Platz in einer scheinpflichtigen Lehrveranstaltung, zu der er zugelassen ist, nicht in Anspruch nehmen, oder ist er nach Beginn der Lehrveranstaltung aus zwingenden Gründen an der weiteren Teilnahme über das in § 9 Abs. 4 genannte Maß gehindert, so hat er dies beim Veranstaltungsleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen. 2Der Veranstaltungsleiter entscheidet über die Anerkennung sowie gegebenenfalls bei Versäumnis über den Umfang der nachzuholenden Stunden und Leistungen.[3] Bei Anerkennung der Gründe wird der Student im nächstmöglichen Semester nach erneuter Anmeldung eingeteilt, soweit eine Nachholung im laufenden Kurs nicht möglich ist.[4] Bei Nichtanerkennung beziehungsweise unentschuldigtem Fernbleiben gilt die Leistungskontrolle als mit "nicht ausreichend (5)" bewertet. 
+(1) 1Kann ein Studierender aus zwingenden Gründen seinen Platz in einer scheinpflichtigen Lehrveranstaltung, zu der er zugelassen ist, nicht in Anspruch nehmen, oder ist er nach Beginn der Lehrveranstaltung aus zwingenden Gründen an der weiteren Teilnahme über das in § 9 Abs. 4 genannte Maß gehindert, so hat er dies beim Veranstaltungsleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen. 2Der Veranstaltungsleiter entscheidet über die Anerkennung sowie gegebenenfalls bei Versäumnis über den Umfang der nachzuholenden Stunden und Leistungen.<sup>3</sup> Bei Anerkennung der Gründe wird der Student im nächstmöglichen Semester nach erneuter Anmeldung eingeteilt, soweit eine Nachholung im laufenden Kurs nicht möglich ist.<sup>4</sup> Bei Nichtanerkennung beziehungsweise unentschuldigtem Fernbleiben gilt die Leistungskontrolle als mit "nicht ausreichend (5)" bewertet. 
 
-(2)[1] Nimmt ein Studierender ohne rechtzeitige begründete Entschuldigung nicht an der ersten Unterrichtseinheit der Lehrveranstaltung teil, so verliert er den Anspruch auf den zugeteilten Platz.[2] Abs. 1 Sätze 1 und 2 gelten entsprechend. 
+(2)<sup>1</sup> Nimmt ein Studierender ohne rechtzeitige begründete Entschuldigung nicht an der ersten Unterrichtseinheit der Lehrveranstaltung teil, so verliert er den Anspruch auf den zugeteilten Platz.<sup>2</sup> Abs. 1 Sätze 1 und 2 gelten entsprechend. 
 
-(3)[1] Legt der Studierende zum Nachweis der zwingenden Gründe für sein Fernbleiben (Abs. 1 Satz 1) ein ärztliches Attest vor, kann der Studiendekan der Medizinischen Fakultät in begründeten Fällen die Vorlage eines amtsärztlichen Attests verlangen. 2Begründete Fälle im Sinne des Satzes 1 liegen insbesondere vor, wenn einem vorgelegten Attest nicht zu entnehmen ist, ob die Krankheit einen zwingenden Grund für das Fernbleiben darstellt, oder wenn der Studierende mehr als einmal zwingende Gründe für sein Fernbleiben geltend macht. 
+(3)<sup>1</sup> Legt der Studierende zum Nachweis der zwingenden Gründe für sein Fernbleiben (Abs. 1 Satz 1) ein ärztliches Attest vor, kann der Studiendekan der Medizinischen Fakultät in begründeten Fällen die Vorlage eines amtsärztlichen Attests verlangen. 2Begründete Fälle im Sinne des Satzes 1 liegen insbesondere vor, wenn einem vorgelegten Attest nicht zu entnehmen ist, ob die Krankheit einen zwingenden Grund für das Fernbleiben darstellt, oder wenn der Studierende mehr als einmal zwingende Gründe für sein Fernbleiben geltend macht. 
 
 ## **ZWEITER STUDIENABSCHNITT** 
 
@@ -120,13 +118,13 @@ Für die Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen
 
 ## **§ 16 Studienfachberatung** 
 
-1Die Studienfachberatung wird vom Studiendekan, dem Studienberater für den ersten Studienabschnitt, der Referentin des Studiendekans und von den Professoren durchgeführt.[2] Für Studienanfänger werden Einführungsveranstaltungen abgehalten. 3Nach nicht bestandener Prüfung, im Fall eines Hochschulwechsels und vor der Wahl von Ausbildungsschwerpunkten, wird dem Studierenden eine Studienfachberatung besonders empfohlen. 
+1Die Studienfachberatung wird vom Studiendekan, dem Studienberater für den ersten Studienabschnitt, der Referentin des Studiendekans und von den Professoren durchgeführt.<sup>2</sup> Für Studienanfänger werden Einführungsveranstaltungen abgehalten. 3Nach nicht bestandener Prüfung, im Fall eines Hochschulwechsels und vor der Wahl von Ausbildungsschwerpunkten, wird dem Studierenden eine Studienfachberatung besonders empfohlen. 
 
 ## **ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN, INKRAFTTRETEN** 
 
 ## **§ 17 Übergangs- und Schlussbestimmungen** 
 
-1Für Studierende, die gemäß §§ 42, 43 ÄAppO auf der Grundlage der Approbationsordnung für Ärzte vom 27. Juni 2002 (BGBl I S. 2405) studieren, gilt diese Studienordnung.[2] Für Studierende, die gemäß §§ 42, 43 ÄAppO auf der Grundlage der Approbationsordnung für Ärzte in der Fassung vom 14. Juli 1987 (BGBl I S. 1593), zuletzt geändert durch Art. 8 des Gesetzes vom 27. April 2002 (BGBl I S. 1467) studieren, gilt die Studienordnung für den Studiengang Medizin der Universität ErlangenNürnberg vom 23. März 1993 (KWMBl II S. 382), zuletzt geändert durch Satzung vom 10. Februar 2000 (KWMBl II S. 769). 
+1Für Studierende, die gemäß §§ 42, 43 ÄAppO auf der Grundlage der Approbationsordnung für Ärzte vom 27. Juni 2002 (BGBl I S. 2405) studieren, gilt diese Studienordnung.<sup>2</sup> Für Studierende, die gemäß §§ 42, 43 ÄAppO auf der Grundlage der Approbationsordnung für Ärzte in der Fassung vom 14. Juli 1987 (BGBl I S. 1593), zuletzt geändert durch Art. 8 des Gesetzes vom 27. April 2002 (BGBl I S. 1467) studieren, gilt die Studienordnung für den Studiengang Medizin der Universität ErlangenNürnberg vom 23. März 1993 (KWMBl II S. 382), zuletzt geändert durch Satzung vom 10. Februar 2000 (KWMBl II S. 769). 
 
 **§ 18 Inkrafttreten** 
 
@@ -147,7 +145,7 @@ Praktika und Seminare, die im ersten Studienabschnitt regelmässig und mit Erfol
 |3|Praktikum, Biologie für Mediziner|2|
 |4|Praktikum der Physiologie|7|
 |5|Begleitseminar, Vorlesung & Praktikum Physiologie|4|
-|6|Praktikum Biochemie/Molekularbiologie+|8|
+|6|Praktikum Biochemie/Molekularbiologie<sup>+</sup>|8|
 |7|* Begleitseminar Praktikum Biochemie|2|
 |8|Seminar zur Biochemischen Propädeutik|1|
 |9|Kursus der makroskopischen Anatomie|8|
@@ -156,7 +154,7 @@ Praktika und Seminare, die im ersten Studienabschnitt regelmässig und mit Erfol
 |12|Kursus der mikroskopischen Anatomie|3|
 |13|Kurs Medizinische Psychologie/Soziologie|1|
 |14|Praktikum Einführung in die klinische Medizin|2|
-|15|Praktikum Berufsfelderkundung++|1|
+|15|Praktikum Berufsfelderkundung<sup>++</sup>|1|
 |16|Praktikum der medizinischen Terminologie|2|
 |17|* Seminar Physiologie/klinische Bezüge|2|
 |18|* Seminar Biochemie/klinische Bezüge|2|
@@ -172,7 +170,7 @@ Praktika und Seminare, die im ersten Studienabschnitt regelmässig und mit Erfol
 
 ++ Anstelle dieses Praktikums kann ein zweitägiges Praktikum in einer medizinischen Institution oder Praxis abgeleistet werden. 
 
-**Anlage 2** 
+## **Anlage 2** 
 
 Vorlesungen im ersten Studienabschnitt (V*), die der Begleitung oder Einführung in Praktika und Seminare (vgl. Anlage 1) dienen 
 
@@ -188,10 +186,8 @@ Vorlesungen im ersten Studienabschnitt (V*), die der Begleitung oder Einführung
 |7|Histologie|4|
 |8|Med. Psychologie/Soziologie|2|
 |9|Allgemeine Physiologie|2|
-|10|Physiologie I: Vegetative|4|
-||Physiologie||
-|11|Neurophysiologie und|4|
-||Neuroanatomie||
+|10|Physiologie I: Vegetative<br>Physiologie|4|
+|11|Neurophysiologie und<br>Neuroanatomie|4|
 ||Summe|42|
 
 ## **Erläuterungen:** 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.09.1983"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StO_Psychologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:19+00:00
-page_count_chars: 29476
+scraped_at: 2026-07-01T10:12:34+00:00
+page_count_chars: 29449
 ---
 
 # PDF vom 27.09.1983
@@ -14,7 +14,7 @@ page_count_chars: 29476
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text** 
 
-## **Studienordnung für den Diplom-Studiengang Psychologie der Universität Erlangen-Nürnberg (DStO-Psychologie) Vom 27. September 1983** 
+# **Studienordnung für den Diplom-Studiengang Psychologie der Universität Erlangen-Nürnberg (DStO-Psychologie) Vom 27. September 1983** 
 
 in der Fassung der Vierten Änderungssatzung vom 30. März 1998 
 
@@ -64,7 +64,7 @@ Die akademische Ausbildung soll den Diplompsychologen befähigen, auch nach Absc
 
 ## **§ 6 Studieninhalte** 
 
-## _**(1) Grundstudium**_ 
+## **_(1) Grundstudium_** 
 
 ## **Fächer des Grundstudiums der Psychologie** 
 
@@ -90,7 +90,9 @@ Gegenstand der Psychologischen Methodenlehre sind die Prinzipien und Verfahren w
 
 - Formalwissenschaftliche Techniken der Beschreibung und Hypothesenprüfung: deskriptive Statistik und Inferenzstatistik / Skalierung / Testtheorie / multivariate Verfahren. 
 
-- Erfahrungswissenschaftliche Forschungstechniken: Methoden der Datengewinnung (Beobachtung, Experiment, Feldstudien) / Versuchsplanung. (Spezielle therapeutische Methoden sind dem Hauptstudium vorbehalten). 
+- Erfahrungswissenschaftliche Forschungstechniken: Methoden der Datengewinnung (Beobachtung, Experiment, Feldstudien) / Versuchsplanung. 
+
+(Spezielle therapeutische Methoden sind dem Hauptstudium vorbehalten). 
 
 ## **Entwicklungspsychologie** 
 
@@ -130,7 +132,7 @@ Dazu sollen u.a. zählen:
 
 Anatomie und Physiologie des Zentralnervensystems und der Sinnesorgane / Erlebens- und Verhaltenswirkungen endokriner Vorgänge / Elektrophysiologie und Biochemie der Informationsverarbeitung / einschlägige Grundlagen der Genetik / Physiologische Korrelate motivationaler und emotionaler Prozesse / Forschungsmethoden der Neurophysiologie. 
 
-## _**(2) Hauptstudium**_ 
+## **_(2) Hauptstudium_** 
 
 ## **Fächer des Hauptstudiums der Psychologie** 
 
@@ -270,9 +272,8 @@ Die Studieninhalte und Semesterwochenstunden verteilen sich wie folgt auf das Gr
 
 a) Grundstudium 
 
-|a) Grundstudium|||||
-|---|---|---|---|---|
 ||V*|S/Ü*|UK*|Summe|
+|---|---|---|---|---|
 |Allgemeine Psychologie I|4|4||8|
 |Allgemeine Psychologie II|4|4||8|
 |Psychologische Methodenlehre|10|12|8|30|
@@ -281,8 +282,7 @@ a) Grundstudium
 |Sozialpsychologie|4|4||8|
 |Physiologische Psychologie|4|4||8|
 |Summe|34|36|8|78|
-|b) Hauptstudium|||||
-||V*|S/Ü*|UK*|Summe|
+|b) Hauptstudium|V*|S/Ü*|UK*|Summe|
 |**Methodenfach**|||||
 |Diagnostik und Evaluation|4|6|2|12|
 |**Anwendungsfächer**|||||
@@ -294,8 +294,7 @@ a) Grundstudium
 |Psychopathologie|4|||4|
 |Einführung in die Anwendungsgebiete der Psychologie<br>(Berufskunde und Ethik)|2|||2|
 |Wahllehrveranstaltungen|2|||2|
-|Summe|30|32|10|72-76|
-||(32)|(34)|||
+|Summe|30<br>(32)|32<br>(34)|10|72-76|
 
 * Redaktionelle Anmerkung: V = Vorlesung; S/U = Seminar/Übung; UK = Unterricht am Krankenbett 
 

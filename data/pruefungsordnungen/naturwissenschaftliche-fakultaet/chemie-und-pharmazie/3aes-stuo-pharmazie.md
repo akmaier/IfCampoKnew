@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. August 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_StuO_Pharmazie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-05-01T07:38:24+00:00
-page_count_chars: 1616
+scraped_at: 2026-07-01T09:02:29+00:00
+page_count_chars: 1612
 ---
 
 # 23. August 2013
@@ -12,19 +12,19 @@ page_count_chars: 1616
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_StuO_Pharmazie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/>
 
-## **Dritte Satzung zur Änderung der Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg** 
 
-## Vom 23. August 2013 
+# Vom 23. August 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg vom 31. Juli 2002 (KWMBl II 2003 S. 1035), zuletzt geändert durch Satzung vom 1. Februar 2010, wird wie folgt geändert: 
 
 In der Anlage Abschnitt „Grundstudium“ Praktikum „Pharmazeutische Biologie II“ Spalte „Voraussetzung“ werden die Worte „Arzneipflanzenexkursionen, Bestimmungs-übungen“ durch die Worte „Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen und Grundlagen der Anatomie und Physiologie inklusive Grundlagen der Ernährungslehre“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

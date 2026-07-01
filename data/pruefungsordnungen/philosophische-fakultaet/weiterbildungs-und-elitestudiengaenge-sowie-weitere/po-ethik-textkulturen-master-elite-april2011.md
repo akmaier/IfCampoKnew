@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.06.2006 i.d.F. 27.04.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Ethik-Textkulturen-Master-Elite.APRIL2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:49:31+00:00
-page_count_chars: 15688
+scraped_at: 2026-07-01T10:00:00+00:00
+page_count_chars: 16090
 ---
 
 # PDF vom 27.06.2006 i.d.F. 27.04.2011
@@ -14,7 +14,7 @@ page_count_chars: 15688
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Prüfungsordnung für das Master- bzw. Magisterstudium Ethik der Textkulturen im Elitenetzwerk Bayern an der Universität Erlangen-Nürnberg Vom 27. Juni 2006** 
+# **Prüfungsordnung für das Master- bzw. Magisterstudium Ethik der Textkulturen im Elitenetzwerk Bayern an der Universität Erlangen-Nürnberg Vom 27. Juni 2006** 
 
 geändert durch Satzungen vom 3. Mai 2007 27. April 2011 
 
@@ -32,17 +32,17 @@ Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Universität ErlangenNürnb
 
 ## **Geltungsbereich** 
 
-1Diese Prüfungsordnung regelt den Zugang zum Elitestudiengang Ethik der Textkulturen und die Prüfungen an der Universität Erlangen-Nürnberg mit den Abschlusszielen des Master of Arts beziehungsweise des Magister Artium.[2] Soweit diese Prüfungsordnung keine abweichenden Regelungen trifft, gilt ergänzend die Magisterprüfungsordnung vom 30. September 1982 (KMBl II S. 803) - MagPO - in der jeweils geltenden Fassung. 
+1Diese Prüfungsordnung regelt den Zugang zum Elitestudiengang Ethik der Textkulturen und die Prüfungen an der Universität Erlangen-Nürnberg mit den Abschlusszielen des Master of Arts beziehungsweise des Magister Artium.<sup>2</sup> Soweit diese Prüfungsordnung keine abweichenden Regelungen trifft, gilt ergänzend die Magisterprüfungsordnung vom 30. September 1982 (KMBl II S. 803) - MagPO - in der jeweils geltenden Fassung. 
 
 ## **§ 2** 
 
 ## **Abschlussgrade** 
 
-(1)[1] Aufgrund der im Elitestudiengang bestandenen Prüfungen werden je nach Abschlussziel die akademischen Grade Master of Arts beziehungsweise Magister Arti- 
+(1)<sup>1</sup> Aufgrund der im Elitestudiengang bestandenen Prüfungen werden je nach Abschlussziel die akademischen Grade Master of Arts beziehungsweise Magister Arti- 
 
 1 
 
-um (beide Male M. A.) verliehen.[2] Auf Antrag kann auch der Grad einer Magistra Artium (abgek.: „M. A.“) verliehen werden. 
+um (beide Male M. A.) verliehen.<sup>2</sup> Auf Antrag kann auch der Grad einer Magistra Artium (abgek.: „M. A.“) verliehen werden. 
 
 (2) Die akademischen Grade können auch mit dem Zusatz (FAU Erlangen-Nürnberg) geführt werden. 
 
@@ -50,7 +50,7 @@ um (beide Male M. A.) verliehen.[2] Auf Antrag kann auch der Grad einer Magistra
 
 ## **Aufnahme in den Elitestudiengang** 
 
-(1)[ 1] Zum Masterstudium wird auf Antrag zugelassen, wer 
+(1)<sup>1</sup> Zum Masterstudium wird auf Antrag zugelassen, wer 
 
 1. ein einschlägiges Bachelorstudium mit überdurchschnittlichem Erfolg abgeschlossen und 
 
@@ -64,9 +64,9 @@ um (beide Male M. A.) verliehen.[2] Auf Antrag kann auch der Grad einer Magistra
 
 3. einen anderen vergleichbaren Hochschulabschluss. 
 
-3Bewerber müssen zu den zehn von Hundert Besten ihres Jahrgangs zählen oder den Abschluss mit einer Gesamtnote nicht schlechter als 1,5 bestanden haben. 4Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen entsprechend umrechenbar sein.[5] Einschlägig im Sinne von Satz 1 Nr. 1 ist in der Regel ein Studium einer Philologie, in Evangelischer oder Katholischer Theologie, Europäischer Kulturgeschichte oder in Philosophie. 
+3Bewerber müssen zu den zehn von Hundert Besten ihres Jahrgangs zählen oder den Abschluss mit einer Gesamtnote nicht schlechter als 1,5 bestanden haben. 4Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen entsprechend umrechenbar sein.<sup>5</sup> Einschlägig im Sinne von Satz 1 Nr. 1 ist in der Regel ein Studium einer Philologie, in Evangelischer oder Katholischer Theologie, Europäischer Kulturgeschichte oder in Philosophie. 
 
-(2)[1] In das Magisterstudium wird auf Antrag aufgenommen, wer 
+(2)<sup>1</sup> In das Magisterstudium wird auf Antrag aufgenommen, wer 
 
 1. eine Zwischenprüfung in zwei Fächern oder eine der Zwischenprüfung an dieser Universität gleichwertige Prüfung bestanden hat, 
 
@@ -74,7 +74,7 @@ um (beide Male M. A.) verliehen.[2] Auf Antrag kann auch der Grad einer Magistra
 
 3. die Eignungsprüfung nach der **Anlage 1** bestanden hat. 
 
-2Die Zwischenprüfung muss in einem Fach mit wenigstens 1,5 bestanden, das Hauptseminar muss mit wenigstens 1,3 absolviert sein.[3] Unter den Fächern der Zwischenprüfung nach Satz 1 Nr. 1 müssen in der Regel die Fächer Deutsch oder eine andere Philologie und Philosophie, Evangelische oder Katholische Theologie oder Religionslehre oder Europäische Kulturgeschichte sein.[4] Der Hauptseminarschein muss in einem der Fächer nach Satz 3 erworben sein. 
+2Die Zwischenprüfung muss in einem Fach mit wenigstens 1,5 bestanden, das Hauptseminar muss mit wenigstens 1,3 absolviert sein.<sup>3</sup> Unter den Fächern der Zwischenprüfung nach Satz 1 Nr. 1 müssen in der Regel die Fächer Deutsch oder eine andere Philologie und Philosophie, Evangelische oder Katholische Theologie oder Religionslehre oder Europäische Kulturgeschichte sein.<sup>4</sup> Der Hauptseminarschein muss in einem der Fächer nach Satz 3 erworben sein. 
 
 ## **§ 4** 
 
@@ -86,11 +86,11 @@ um (beide Male M. A.) verliehen.[2] Auf Antrag kann auch der Grad einer Magistra
 
 2. zwei Vertreter der Universität Erlangen-Nürnberg. 
 
-(2)[1] Die Mitglieder nach Abs. 1 Nr. 2 werden vom Rektor auf zwei Jahre bestellt; eine Wiederbestellung ist zulässig.[2] Die Mitglieder nach Abs. 1 Nr. 1 werden von der Universität Augsburg bestellt. 
+(2)<sup>1</sup> Die Mitglieder nach Abs. 1 Nr. 2 werden vom Rektor auf zwei Jahre bestellt; eine Wiederbestellung ist zulässig.<sup>2</sup> Die Mitglieder nach Abs. 1 Nr. 1 werden von der Universität Augsburg bestellt. 
 
 (3) Die Mitglieder der gemeinsamen Auswahlkommission wählen aus ihrer Mitte den Vorsitzenden und den Stellvertreter. 
 
-(4)[1] Die gemeinsame Auswahlkommission entscheidet über die Aufnahme der Bewerber des Elitestudiums.[2] Sie bestellt für jeden Aufgenommenen ein Doppelmentorat, bestehend aus zwei Hochschullehrern unterschiedlicher Fächer.[3] Das Doppel- 
+(4)<sup>1</sup> Die gemeinsame Auswahlkommission entscheidet über die Aufnahme der Bewerber des Elitestudiums.<sup>2</sup> Sie bestellt für jeden Aufgenommenen ein Doppelmentorat, bestehend aus zwei Hochschullehrern unterschiedlicher Fächer.<sup>3</sup> Das Doppel- 
 
 2 
 
@@ -104,13 +104,13 @@ mentorat begleitet die Studierenden, berät sie in Fragen der Studienplanung und
 
 ## **§ 6 Modularisierung/studienbegleitende Prüfungen** 
 
-(1)[1] Der Elitestudiengang besteht aus Modulen, die mit Leistungspunkten nach dem European Credit Transfer and Accumulation System (ECTS-Punkten) bewertet sind. 2Im Laufe des viersemestrigen Studiums sind Studien- und Prüfungsleistungen im Umfang von insgesamt 120 ECTS-Punkten zu erbringen.[ 3] Studium und Prüfungen im Master- und Magisterstudium sind inhaltlich gleich.[4] Die Studien- und Prüfungsleistungen im Elitestudiengang werden studienbegleitend in den Modulen abgelegt. 
+(1)<sup>1</sup> Der Elitestudiengang besteht aus Modulen, die mit Leistungspunkten nach dem European Credit Transfer and Accumulation System (ECTS-Punkten) bewertet sind. 2Im Laufe des viersemestrigen Studiums sind Studien- und Prüfungsleistungen im Umfang von insgesamt 120 ECTS-Punkten zu erbringen.<sup>3</sup> Studium und Prüfungen im Master- und Magisterstudium sind inhaltlich gleich.<sup>4</sup> Die Studien- und Prüfungsleistungen im Elitestudiengang werden studienbegleitend in den Modulen abgelegt. 
 
-(2)[1] Ein Modul ist eine zeitlich abgerundete und in sich geschlossene abprüfbare Lehr- und Lerneinheit.[2] In der Regel erstreckt sich das Modul über zwei Semester. 3Die Module schließen mit einer studienbegleitenden Modulprüfung ab. 4Dieser Leistungsnachweis kann in einer Prüfungsleistung, in einer aus mehreren Teilprüfungen zusammengesetzten Prüfungsleistung, in einer Studienleistung oder in mehreren Studienleistungen bestehen.[5] Es kann auch eine Kombination aus Prüfungs- und Studienleistungen vorgesehen werden.[6] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.[7] Studienbegleitende Modulprüfungen sind solche, die während der Vorlesungszeit oder zeitnah nach dem Ende der letzten Lehrveranstaltung eines Moduls durchgeführt werden. 
+(2)<sup>1</sup> Ein Modul ist eine zeitlich abgerundete und in sich geschlossene abprüfbare Lehr- und Lerneinheit.<sup>2</sup> In der Regel erstreckt sich das Modul über zwei Semester. 3Die Module schließen mit einer studienbegleitenden Modulprüfung ab. 4Dieser Leistungsnachweis kann in einer Prüfungsleistung, in einer aus mehreren Teilprüfungen zusammengesetzten Prüfungsleistung, in einer Studienleistung oder in mehreren Studienleistungen bestehen.<sup>5</sup> Es kann auch eine Kombination aus Prüfungs- und Studienleistungen vorgesehen werden.<sup>6</sup> ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.<sup>7</sup> Studienbegleitende Modulprüfungen sind solche, die während der Vorlesungszeit oder zeitnah nach dem Ende der letzten Lehrveranstaltung eines Moduls durchgeführt werden. 
 
-(3)[1] Prüfungsleistungen und Studienleistungen messen den Erfolg der Studierenden. 2Sie können schriftlich in Form von Klausuren und schriftlichen Ausarbeitungen (z.B. Pojektarbeit, Hausarbeiten), mündlich als mündliche Prüfungen, Seminarvorträge, sonstige Referate oder in anderer Form, zum Beispiel als bewertete Präsentation, erfolgen.[3] Prüfungsleistungen und Teilprüfungen werden benotet.[4] Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder NichtBestehens beschränken. 
+(3)<sup>1</sup> Prüfungsleistungen und Studienleistungen messen den Erfolg der Studierenden. 2Sie können schriftlich in Form von Klausuren und schriftlichen Ausarbeitungen (z.B. Pojektarbeit, Hausarbeiten), mündlich als mündliche Prüfungen, Seminarvorträge, sonstige Referate oder in anderer Form, zum Beispiel als bewertete Präsentation, erfolgen.<sup>3</sup> Prüfungsleistungen und Teilprüfungen werden benotet.<sup>4</sup> Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder NichtBestehens beschränken. 
 
-(4)[1] Die Module sind interdisziplinär konzipiert und beziehen sich auf folgende systematische Themenbereiche: 
+(4)<sup>1</sup> Die Module sind interdisziplinär konzipiert und beziehen sich auf folgende systematische Themenbereiche: 
 
 - M 1 Geschichte und Theorie der Ethik 
 
@@ -128,13 +128,13 @@ mentorat begleitet die Studierenden, berät sie in Fragen der Studienplanung und
 
 3 
 
-2Ein Modul besteht aus maximal drei Leistungsnachweisen nach Abs. 2 Satz 4 und Abs. 3 Satz 2.[3] Besteht der Leistungsnachweis in einer mündlichen Prüfung, beträgt die Prüfungszeit in der Regel bis zu 20 Minuten.[4] Schließt das Modul mit schriftlichen Prüfungen ab, beträgt die Prüfungszeit aller schriftlichen Teilprüfungen insgesamt bis zu vier Stunden. 
+2Ein Modul besteht aus maximal drei Leistungsnachweisen nach Abs. 2 Satz 4 und Abs. 3 Satz 2.<sup>3</sup> Besteht der Leistungsnachweis in einer mündlichen Prüfung, beträgt die Prüfungszeit in der Regel bis zu 20 Minuten.<sup>4</sup> Schließt das Modul mit schriftlichen Prüfungen ab, beträgt die Prüfungszeit aller schriftlichen Teilprüfungen insgesamt bis zu vier Stunden. 
 
 ## **§ 7** 
 
 ## **Meldung zur Abschlussprüfung (Master- beziehungsweise Magisterprüfung)** 
 
-1Der Kandidat muss sich so rechtzeitig zu den Prüfungen melden, dass er sie bis zum Ende des vierten Semesters abschließen kann.[2] Hat der Kandidat nicht bis zum Ende des fünften Semesters die zum jeweiligen Abschluss erforderliche Anzahl von ECTS-Punkten erreicht, gilt die Abschlussprüfung als abgelegt und endgültig nicht bestanden, soweit der Prüfungsausschuss nicht eine Studienzeitverlängerung wegen vom Kandidaten nicht zu vertretender Gründe gewährt. 
+1Der Kandidat muss sich so rechtzeitig zu den Prüfungen melden, dass er sie bis zum Ende des vierten Semesters abschließen kann.<sup>2</sup> Hat der Kandidat nicht bis zum Ende des fünften Semesters die zum jeweiligen Abschluss erforderliche Anzahl von ECTS-Punkten erreicht, gilt die Abschlussprüfung als abgelegt und endgültig nicht bestanden, soweit der Prüfungsausschuss nicht eine Studienzeitverlängerung wegen vom Kandidaten nicht zu vertretender Gründe gewährt. 
 
 ## **§ 8** 
 
@@ -194,13 +194,13 @@ Im Zeugnis und in der Urkunde wird vermerkt, dass der Abschluss des Elitestudien
 
 ## **§ 14 Zusatzprüfung** 
 
-(1)[1] Wer die wissenschaftliche Abschlussarbeit mit wenigstens ausreichendem Ergebnis erbracht hat, kann sich einer Zusatzprüfung in einem Fach des Fächerkatalogs nach § 18 Abs. 1 Satz 2 MagPO als Haupt- oder erstem Nebenfach unterziehen, dessen Wahl die gemeinsame Auswahlkommission als sinnvolle Ergänzung des Elitestudienganges zugelassen hat.[2] Die Zusatzprüfung muss vor Abschluss des Elitestudienganges begonnen werden. 
+(1)<sup>1</sup> Wer die wissenschaftliche Abschlussarbeit mit wenigstens ausreichendem Ergebnis erbracht hat, kann sich einer Zusatzprüfung in einem Fach des Fächerkatalogs nach § 18 Abs. 1 Satz 2 MagPO als Haupt- oder erstem Nebenfach unterziehen, dessen Wahl die gemeinsame Auswahlkommission als sinnvolle Ergänzung des Elitestudienganges zugelassen hat.<sup>2</sup> Die Zusatzprüfung muss vor Abschluss des Elitestudienganges begonnen werden. 
 
-(2)[1] Für die Zulassung zur Zusatzprüfung gelten § 19 Abs. 1 Nrn. 4 und 7, Abs. 2 und 3 MagPO, für die Zusatzprüfung § 2 Abs. 1 Satz 1 Nrn. 2 und 3 sowie Satz 2 MagPO entsprechend.[2] Die mündliche Prüfung findet abweichend von § 24 Abs. 1 MagPO vor einem Prüfer im Beisein einer prüfungsberechtigten Lehrperson statt. 
+(2)<sup>1</sup> Für die Zulassung zur Zusatzprüfung gelten § 19 Abs. 1 Nrn. 4 und 7, Abs. 2 und 3 MagPO, für die Zusatzprüfung § 2 Abs. 1 Satz 1 Nrn. 2 und 3 sowie Satz 2 MagPO entsprechend.<sup>2</sup> Die mündliche Prüfung findet abweichend von § 24 Abs. 1 MagPO vor einem Prüfer im Beisein einer prüfungsberechtigten Lehrperson statt. 
 
-(3)[1] Die Zusatzprüfung ist bestanden, wenn die Klausur und die mündliche Prüfung jeweils wenigstens „ausreichend“ bewertet sind.[2] Ist die Zusatzprüfung nicht bestanden, kann sie einmal wiederholt werden; § 26 Abs. 2 MagPO gilt entsprechend; eine zweite Wiederholung ist ausgeschlossen. 
+(3)<sup>1</sup> Die Zusatzprüfung ist bestanden, wenn die Klausur und die mündliche Prüfung jeweils wenigstens „ausreichend“ bewertet sind.<sup>2</sup> Ist die Zusatzprüfung nicht bestanden, kann sie einmal wiederholt werden; § 26 Abs. 2 MagPO gilt entsprechend; eine zweite Wiederholung ist ausgeschlossen. 
 
-(4)[1] § 27 Abs. 1 MagPO gilt entsprechend.[2] Über die bestandene Zusatzprüfung wird ein Zeugnis ausgestellt; § 27 Abs. 2 MagPO gilt entsprechend. 
+(4)<sup>1</sup> § 27 Abs. 1 MagPO gilt entsprechend.<sup>2</sup> Über die bestandene Zusatzprüfung wird ein Zeugnis ausgestellt; § 27 Abs. 2 MagPO gilt entsprechend. 
 
 ## **§ 15 In-Kraft-Treten** 
 
@@ -214,7 +214,7 @@ Eignungsfeststellungsverfahren
 
 (1) Die Eignung eines Bewerbers für das Elitestudium wird von der gemeinsamen Auswahlkommission festgestellt. 
 
-(2)[1] Anträge auf Zulassung zum Eignungsfeststellungsverfahren sind jeweils für das Sommersemester bis 15. Januar und für das Wintersemester bis spätestens 15. Juli eines Jahres an den Vorsitzenden der gemeinsamen Auswahlkommission zu stellen.[2] Bis zu diesem Datum nicht vorliegende Nachweise können innerhalb einer Frist, die von der gemeinsamen Auswahlkommission gesetzt wird, nachgereicht werden. 
+(2)<sup>1</sup> Anträge auf Zulassung zum Eignungsfeststellungsverfahren sind jeweils für das Sommersemester bis 15. Januar und für das Wintersemester bis spätestens 15. Juli eines Jahres an den Vorsitzenden der gemeinsamen Auswahlkommission zu stellen.<sup>2</sup> Bis zu diesem Datum nicht vorliegende Nachweise können innerhalb einer Frist, die von der gemeinsamen Auswahlkommission gesetzt wird, nachgereicht werden. 
 
 (3) Dem Antrag sind beizufügen: 
 
@@ -224,9 +224,9 @@ Eignungsfeststellungsverfahren
 
 3. eine selbst formulierte Zielvorstellung mit ausführlicher Begründung (maximal vier Seiten). 
 
-(4)[1] Wer aufgrund der eingereichten Unterlagen von der Auswahlkommission als grundsätzlich geeignet eingestuft wird, erhält eine Einladung zu einem persönlichen Vorstellungsgespräch.[2] Die Teilnahme an diesem Gespräch, das von zwei Hochschullehrern aus dem Elitestudiengang durchgeführt wird, ist obligatorisch.[3] Die Hochschullehrer werden jeweils von der gemeinsamen Auswahlkommission bestimmt.[4] Das Gespräch umfasst eine Dauer von etwa 20 Minuten.[5] Es kann mit bis zu drei Kandidaten gleichzeitig geführt werden. 
+(4)<sup>1</sup> Wer aufgrund der eingereichten Unterlagen von der Auswahlkommission als grundsätzlich geeignet eingestuft wird, erhält eine Einladung zu einem persönlichen Vorstellungsgespräch.<sup>2</sup> Die Teilnahme an diesem Gespräch, das von zwei Hochschullehrern aus dem Elitestudiengang durchgeführt wird, ist obligatorisch.<sup>3</sup> Die Hochschullehrer werden jeweils von der gemeinsamen Auswahlkommission bestimmt.<sup>4</sup> Das Gespräch umfasst eine Dauer von etwa 20 Minuten.<sup>5</sup> Es kann mit bis zu drei Kandidaten gleichzeitig geführt werden. 
 
-(5)[1] Das Vorstellungsgespräch soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.[2] Es erstreckt sich in der Regel auf die für den Studiengang erforderlichen Fachkenntnisse in einem der am Studiengang beteiligten Fächer sowie der englischen Sprache. 
+(5)<sup>1</sup> Das Vorstellungsgespräch soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.<sup>2</sup> Es erstreckt sich in der Regel auf die für den Studiengang erforderlichen Fachkenntnisse in einem der am Studiengang beteiligten Fächer sowie der englischen Sprache. 
 
 (6) Die Eignung ist festgestellt, wenn beide Hochschullehrer einvernehmlich zu dem Urteil „bestanden“ gelangen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES BA-MA Medizintechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:21:51+00:00
-page_count_chars: 12226
+scraped_at: 2026-07-01T11:41:05+00:00
+page_count_chars: 12040
 ---
 
 # 18. Februar 2013
@@ -12,13 +12,13 @@ page_count_chars: 12226
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES BA-MA Medizintechnik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Universität Erlangen-Nürnberg - FPOMT -** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Universität Erlangen-Nürnberg - FPOMT -** 
 
-## Vom 18. Februar 2013 
+# Vom 18. Februar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Universität Erlangen-Nürnberg - FPOMT - vom 15. September 2009, zuletzt geändert durch Satzung vom 24. Februar 2012, wird wie folgt geändert: 
 
@@ -32,9 +32,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik
 
    - d) Folgender neuer Abs. 5 wird angefügt: 
 
-„(5)[1] Die Unterrichtssprache im Bachelorstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht. 2Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache. 3Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden.“ 
+„(5)<sup>1</sup> Die Unterrichtssprache im Bachelorstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht. 2Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache. 3Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden.“ 
 
-## 2. § 37 wird wie folgt geändert: 
+2. § 37 wird wie folgt geändert: 
 
 - a) In der Überschrift wird nach dem Wort „Studienbeginn“ ein Komma und das Wort „Sprache“ angefügt. 
 
@@ -44,13 +44,13 @@ aa) In Satz 1 werden die Modulnamen „M6“, „M7“, „M9“, „M10“ und 
 
 bb) Satz 2 erhält folgende Fassung: 
 
-“[2] M6 beinhaltet ein Labor- und ein Forschungspraktikum, das während des Studiums entsprechend der Masterpraktikumsrichtlinien zu erbringen ist.“ cc) In Satz 3 werden die Worte „einen Studienschwerpunkt“ durch die Worte „eine Studienrichtung“ und der Modulname „M8“ durch den Modulnamen „M5“ ersetzt. 
+“<sup>2</sup> M6 beinhaltet ein Labor- und ein Forschungspraktikum, das während des Studiums entsprechend der Masterpraktikumsrichtlinien zu erbringen ist.“ cc) In Satz 3 werden die Worte „einen Studienschwerpunkt“ durch die Worte „eine Studienrichtung“ und der Modulname „M8“ durch den Modulnamen „M5“ ersetzt. 
 
 1 
 
 - c) Folgender neuer Abs. 4 wird angefügt: 
 
-(4)[1] Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.[2] Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[3] Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden.“ 
+(4)<sup>1</sup> Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.<sup>2</sup> Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>3</sup> Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden.“ 
 
 3. § 43 wird wie folgt geändert: 
 
@@ -62,7 +62,7 @@ bb) Satz 2 erhält folgende Fassung:
 
    - d) Abs. 5 erhält folgende Fassung: 
 
-„(5) 1Im Rahmen des Masterstudiums ist darüber hinaus in M 6 ein Forschungspraktikum an einem Lehrstuhl der Technischen Fakultät im Umfang von 5 ECTS-Punkten zu erbringen.[2] Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTSPunkten zugelassen werden.“ 
+„(5) 1Im Rahmen des Masterstudiums ist darüber hinaus in M 6 ein Forschungspraktikum an einem Lehrstuhl der Technischen Fakultät im Umfang von 5 ECTS-Punkten zu erbringen.<sup>2</sup> Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTSPunkten zugelassen werden.“ 
 
 4. In § 44 Abs. 2 werden die Worte und Zahlen „Anlagen 3 bis 5“ durch das Wort und die Zahl „Anlage 2“ ersetzt. 
 
@@ -72,65 +72,65 @@ bb) Satz 2 erhält folgende Fassung:
 
 2 
 
-## „ **Anlage 1** 
+„ **Anlage 1** Studienverlaufsplan und Prüfungen für das Bachelorstudium der Medizintechnik 
 
-Studienverlaufsplan und Prüfungen für das Bachelorstudium der Medizintechnik 
-
-|_Spalte 1_|_Spalte 1_|_Spalte 2_|_Spalte 4_<br> <br> <br> <br> <br> <br> <br>|_Spalte 4_<br> <br> <br> <br> <br> <br> <br>|_Spalte 5_|
-|---|---|---|---|---|---|
-|<br>**Modul-**<br>**gruppe**|<br>**Modul**<br>**Nr.**|<br>**Module**|**Gesamt**<br>|<br>**1. Sem**<br>**2. Sem**<br>**3. Sem**<br>**4. Sem**<br>**5. Sem**<br>**6. Sem**|<br>**Studien- und**<br>**Prüfungsleistungen**|
-|||**Modulbezeichnung**<br>GOP|ECTS|ECTS<br>ECTS<br>ECTS<br>ECTS<br>ECTS<br>ECTS|Dauer<br>Prüfung<br>in min<br>Prüfungsart|
-|||||||
-|**B 1**|**Medizinische Grundlagen**||**10**|**0**<br>**2,5**<br>**2,5**<br>**0**<br>**2,5**<br>**2,5**||
-||B 1.1<br>Anatomie und Physio-<br>logie für Nicht-Mediziner||5|0<br>2,5<br>2,5<br>0<br>0<br>0|90<br>s<br>**PL**: Klausur|
-||<br>B 1.2<br>Biomedizin und Technik<br>(Grundlagen Biochemie||5|0<br>0<br>0<br>0<br>2,5<br>0|45<br>s<br>**PfP**:<br>PL: Klausur +|
-||u. Mol. Medizin, Seminar<br>Krankheitsmechanismen,||||uSL: Ausarbeitung<br>ca. 2-4 S.+|
-||Seminar Medizintechnik)|||0<br>0<br>0<br>0<br>0<br>2,5|Vortrag ca. 20min)|
-|||||||
-|**B 2**|**Medizintechnik**||**10**|**5**<br>**5**<br>**0**<br>**0**<br>**0**||
-||B 2.1<br>Medizintechnik I<br>GOP||5|5<br>0<br>0<br>0<br>0<br>0|**PfP**:<br>PL: Ausarbeitung<br>ca. 5 Seiten +|
-||Übung||||uSL: Papier- und<br>Rechnerübungen|
-||B 2.2<br>Medizintechnik II||5|0<br>5<br>0<br>0<br>0<br>0|90<br>s<br>**PL**: Klausur|
-|||||||
-|**B 3**|**Mathematik und Algorithmik**||**45**|**17,5**<br>**10**<br>**5**<br>**12,5**<br>**0**<br>**0**||
-||B 3.1<br>Mathematik 1 für MT1)<br>GOP||7,5|7,5<br>0<br>0<br>0<br>0<br>0|90<br>s<br>**PfP**:<br>PL: Klausur +|
-||Übung<br>||||uSL: Papier- und<br>Rechnerübungen|
-||B 3.2<br>Mathematik 2 für MT1)<br>GOP||10|0<br>10<br>0<br>0<br>0<br>0|<br>120<br>s<br>**PfP**:<br>PL: Klausur +|
-||Übung<br>||||uSL: Papier- und<br>Rechnerübungen|
-||B 3.3<br>Mathematik 3 für MT1)||5|0<br>0<br>5<br>0<br>0<br>0|<br>60<br>s<br>**PfP**:<br>PL: Klausur +|
-||Übung<br>||||uSL: Papier- und<br>Rechnerübungen|
-||B 3.4<br>Mathematik 4 für MT1)||5|0<br>0<br>0<br>5<br>0<br>0|<br>60<br>s<br>**PfP**:<br>PL: Klausur +<br>uSL: Papier- und<br>Rechnerübungen|
-||B 3.5<br>Algorithmen und<br>Datenstrukturen MT||10|10<br>0<br>0<br>0<br>0<br>0|<br>120<br>s<br> **PfP**:<br>PL: Klausur +<br>uSL: Papier- und|
-||Übung||||Rechnerübungen|
-||<br>B 3.6<br>Algorithmen<br>kontinuierlicher Systeme||7,5|0<br>0<br>0<br>7,5<br>0<br>0|<br>90<br>s<br>**PfP**:<br>PL: Klausur +<br>uSL: Papier- und|
-||Übung||||<br>Rechnerübungen|
+|_Spal_|_te 1_|_Spalte 2_||**t**||_S_<br>|_palte_<br>|_4_<br>||||_Spalte 5_|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**Module**||**sam**|**Sem**|**Sem**|**Sem**|**Sem**|**Sem**|**Sem**|**St**<br>**Prüfu**|**udien- und**<br>**nsleistunen**|
+|**Modul-**|**Modul**|||**Ge**<br>|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||**gg**|
+|**gruppe**|**Nr.**|||S|S|S|S|S|S|S|Dauer||
+|||**Modulbezeichnung**|GOP|CT|CT|CT|CT|CT|CT|CT|Prüfung|Prüfungsart|
+|||||E|E|E|E|E|E|E|in min||
+|**B 1**|**Medizi**|**nische Grundlagen**||**10**|**0**|**2,5**|**2,5**|**0**|**2,5**|**2,5**|||
+||B 1.1|Anatomie und Physio-||5|0|2,5|2,5|0|0|0|90<br>s|**PL**: Klausur|
+||B 1.2|logie für Nicht-Mediziner<br>Biomedizin und Technik||5||||||0||**PfP**:|
+|||(Grundlagen Biochemie<br>u. Mol. Medizin, Seminar<br>|||0|0|0|0|2,5||45<br>s|PL: Klausur +<br>uSL: Ausarbeitung<br>|
+|||Krankheitsmechanismen,||||||||||ca. 2-4 S.+|
+|||<br>Seminar Medizintechnik)|||0|0|0|0|0|2,5||Vortrag ca. 20min)|
+|**B 2**|**Medizi**|**ntechnik**||**10**|**5**|**5**|**0**|**0**|**0**||||
+||B 2.1|Medizintechnik I|GOP|5|5|0|0|0|0|0||**PfP**:|
+|||||||||||||PL: Ausarbeitung<br>ca. 5 Seiten +|
+|||Übung||||||||||uSL: Papier- und|
+|||||||||||||Rechnerübungen|
+||B 2.2|Medizintechnik II||5|0|5|0|0|0|0|90<br>s|**PL**: Klausur|
+|**B 3**|**Mathe**|**matik und Algorithmik**||**45**|**17,5**|**10**|**5**|**12,5**|**0**|**0**|||
+||B 3.1|Mathematik 1 für MT<sup>1)</sup>|GOP|7,5|7,5|0|0|0|0|0|90<br>s|**PfP**:|
+|||||||||||||PL: Klausur +|
+|||Übung||||||||||uSL: Papier- und|
+|||||||||||||Rechnerübungen|
+||B 3.2|Mathematik 2 für MT<sup>1)</sup>|GOP|10|0|10|0|0|0|0|120<br>s|<br>**PfP**:<br>PL: Klausur +|
+|||Übung||||||||||uSL: Papier- und|
+||B 3.3|Mathematik 3 für MT<sup>1)</sup>||5|0|0|5|0|0|0|60<br>s|Rechnerübungen<br>**PfP**:<br>PL: Klausur +|
+|||Übung||||||||||uSL: Papier- und|
+||B 3.4|Mathematik 4 für MT<sup>1)</sup>||5|0|0|0|5|0|0|60<br>s|Rechnerübungen<br>**PfP**:<br>PL: Klausur +<br>uSL: Papier- und<br>|
+|||||||||||||Rechnerübungen|
+||B 3.5|Algorithmen und<br>Datenstrukturen MT||10|10|0|0|0|0|0|120<br>s|<br> **PfP**:<br>PL: Klausur +|
+||B 3.6|Übung<br>Algorithmen||75|0|0|0|75|0|0|90<br>s|uSL: Papier- und<br>Rechnerübungen<br>**PfP**:|
+|||<br>kontinuierlicher Systeme<br>Übung||,||||,|||<br>|<br>PL: Klausur +<br>uSL: Papier- und<br>Rechnerübungen|
 
 3 
 
-|**B 4**|**Physikalische u. Technische**<br>**Grundlagen**|**30**|**7,5**<br>**12,5**<br>**5**<br>**5**<br>**0**<br>**0**||
-|---|---|---|---|---|
-||B 4.1<br>Grundlagen der<br>Elektrotechnik I<br>GOP|7,5|7,5<br>0<br>0<br>0<br>0<br>0|120<br>s<br>**PL**: Klausur|
-||B 4.2<br>Grundlagen der<br>Elektrotechnik II|5|0<br>5<br>0<br>0<br>0<br>0|90<br>s<br>**PL**: Klausur|
-||B 4.3<br>Experimentalphysik I|5|0<br>0<br>5<br>0<br>0<br>0|90<br>s<br>**PL**: Klausur|
-||B 4.4<br>Experimentalphysik II|5|0<br>0<br>0<br>5<br>0<br>0|90<br>s<br>**PL**: Klausur|
-||<br>B 4.5<br>Statik und<br>Festigkeitslehre|7,5|0<br>7,5<br>0<br>0<br>0<br>0|90<br>s<br>**PL**: Klausur|
-||||||
-|**B 5**|**Kompetenzfeld Bildgeb. Verfahren**<br>**(ET/INF)**<br>gemäß Studienrichtungskatalog 2)|**40**|**0**<br>**0**<br>**15**<br>**12,5**<br>**12,5**<br>**0**||
-|**oder**|||||
-|**B 6**|**Kompetenzfeld Gerätetechnik**<br>**(MB/WW/CBI)**<br>gemäß Studienrichtungskatalog2)|**40**|**0**<br>**0**<br>**15**<br>**12,5**<br>**12,5**<br>**0**||
-||||||
-|**B 7**|**Schlüsselqualifikation**|**15**|**0**<br>**0**<br>**2,5**<br>**0**<br>**0**<br>**12,5**||
-||B 7.1<br>Hochschulpraktikum|2,5|0<br>0<br>2,5<br>0<br>0<br>0|**uSL**|
-||B 7.2<br>Freie Wahl Uni /<br>Softskills|2,5|0<br>0<br>0<br>0<br>0<br>2,5|**bSL**|
-||B 7.3<br>Industriepraktikum|10|0<br>0<br>0<br>0<br>0<br>10|**uSL**|
-||||||
-|**B 8**|**Vertiefungsmodule Kompetenzfeld**|**20**|**0**<br>**0**<br>**0**<br>**0**<br>**15**<br>**5**||
-||B 8.1<br>Wahl-Vertiefungsmodule|15|0<br>0<br>0<br>0<br>15<br>0|**PL**|
-||B8.2<br>Wahl-Vertiefungsmodule|5|0<br>0<br>0<br>0<br>0<br>5|**PL**|
-||||||
-|**B 9**|**Bachelorarbeit**|**10**|**0**<br>**0**<br>**0**<br>**0**<br>**0**<br>**10**|**PL**|
-||||||
-|**S**|**Summe ECTS (ca. 150**<br>**Semesterwochenstunden)**|**180**|**0**<br>**0**<br>**0**<br>**0**<br>**0**<br>**10**||
+|**B 4**|**Physik**|**alische u. Technische**|**30**|**7,5**|**12,5**|**5**|**5**|**0**|**0**|||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||<br>**Grundl**|<br>**agen**||||||||||
+||B 4.1|Grundlagen der<br>Elektrotechnik I<br>GOP|7,5|7,5|0|0|0|0|0|120<br>s|**PL**: Klausur|
+||B 4.2|Grundlagen der<br>Elektrotechnik II|5|0|5|0|0|0|0|90<br>s|**PL**: Klausur|
+||B 4.3<br>B 4.4|Experimentalphysik I<br>Experimentalphysik II|5<br>5|0<br>0|0<br>0|5<br>0|0<br>5|0<br>0|0<br>0|90<br>s<br>90<br>s|**PL**: Klausur<br>**PL**: Klausur|
+||B 4.5|<br>Statik und|7,5|0|7,5|0|0|0|0|90<br>s|**PL**: Klausur|
+|||Festigkeitslehre||||||||||
+|**B 5**|**Kompe**<br>**(ET/INF**<br>gemäß|**tenzfeld Bildgeb. Verfahren**<br>**)**<br> Studienrichtungskatalog <sup>2)</sup>|**40**|**0**|**0**|**15**|**12,5**|**12,5**|**0**|||
+|**oder**||||||||||||
+|**B 6**|**Kompe**<br>**(MB/W**<br>gemäß|**tenzfeld Gerätetechnik**<br>**W/CBI)**<br>Studienrichtungskatalog<sup>2)</sup>|**40**|**0**|**0**|**15**|**12,5**|**12,5**|**0**|||
+|**B 7**|**Schlüs**|**selqualifikation**|**15**|**0**|**0**|**2,5**|**0**|**0**|**12,5**|||
+||B 7.1|Hochschulpraktikum|2,5|0|0|2,5|0|0|0||**uSL**|
+||B 7.2|Freie Wahl Uni /<br>Softskills|2,5|0|0|0|0|0|2,5||**bSL**|
+||B 7.3|Industriepraktikum|10|0|0|0|0|0|10||**uSL**|
+|**B 8**|**Vertief**|**ungsmodule Kompetenzfeld**|**20**|**0**|**0**|**0**|**0**|**15**|**5**|||
+||B 8.1|Wahl-Vertiefungsmodule|15|0|0|0|0|15|0||**PL**|
+||B8.2|<br>Wahl-Vertiefungsmodule|5|0|0|0|0|0|5||**PL**|
+|**B 9**|**Bachel**|**orarbeit**|**10**|**0**|**0**|**0**|**0**|**0**|**10**||**PL**|
+|**S**|**Summ**|**e ECTS (ca. 150**|**180**|**0**|**0**|**0**|**0**|**0**|**10**|||
+||**Semes**|**terwochenstunden)**||||||||||
 
 **PfP** Portfolioprüfung **PL** Prüfungsleistung **bSL** benotete Studienleistung **uSL** unbenotete Studienleistung 
 
@@ -144,20 +144,21 @@ Studienverlaufsplan und Prüfungen für das Bachelorstudium der Medizintechnik
 
 4 
 
-## **Anlage 2: Muster-Studienverlaufsplan „Master Medizintechnik“** 
+# **Anlage 2: Muster-Studienverlaufsplan „Master Medizintechnik“** 
 
-|Nr.|Modulgruppen|ECT<br>S|empfohlene<br>Semester-<br>Aufteilung7)|empfohlene<br>Semester-<br>Aufteilung7)|empfohlene<br>Semester-<br>Aufteilung7)|empfohlene<br>Semester-<br>Aufteilung7)|Art- und Umfang der<br>Studien-<br>und Prüfungsleistung3)|
+|Nr.|Modulgruppen|ECT<br>S|e<br>S<br>|mpfo<br>em<br>|hle<br>este<br>|ne<br>r-<br>|Art- und Umfang der<br>Studien-<br>|
 |---|---|---|---|---|---|---|---|
+||||A|uftei|lung|<sup>7)</sup>|und Prüfungsleistung<sup>3)</sup>|
 ||||1.|2.|3.|4.||
-|**M 1**|**Medizinische Vertiefungsmodule**<br>gemäß Studienrichtungskatalog1) 2)|**10**|5|5|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
-|**M 2**|**Ingenieurwissenschaftliche**<br>**Kernmodule**gemäß<br>Studienrichtungskatalog1) 2)|**20**|1<br>0|1<br>0|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
-|**M 3**|**Kernmodule der Medizintechnik**<br>gemäß Studienrichtungskatalog2) 4)|**20**|1<br>0|1<br>0|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
-|**M 4**|**Kernkompetenz Medizintechnik**<br>gemäß Studienrichtungskatalog2)|**10**|5||5||**Pfp**(Ausarbeitungen +<br>Vorträge gemäß Vorgaben<br>des Lehrstuhls)|
-|**M 5**|**Vertiefungsmodule der**<br>**Medizintechnik**gemäß<br>Studienrichtungskatalog2) 5)|**10**||5|5||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
-|**M 6**|**Vertiefungskompetenzen der**<br>**Medizintechnik**gemäß<br>Studienrichtungskatalog2)|**10**|||1<br>0||**uSL**(Ausarbeitungen<br>gemäß<br>Vorgaben des Lehrstuhls)|
-|**M 7**|**Flexibles Budget**6)|**10**|||1<br>0||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
+|**M 1**|**Medizinische Vertiefungsmodule**<br>gemäß Studienrichtungskatalog<sup>1) 2)</sup>|**10**|5|5|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
+|**M 2**|**Ingenieurwissenschaftliche**<br>**Kernmodule**gemäß<br>Studienrichtungskatalog<sup>1) 2)</sup>|**20**|1<br>0|1<br>0|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
+|**M 3**|**Kernmodule der Medizintechnik**<br>gemäß Studienrichtungskatalog<sup>2) 4)</sup>|**20**|1<br>0|1<br>0|||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
+|**M 4**|<sup>**Kernkompetenz Medizintechnik**</sup><br>gemäß Studienrichtungskatalog<sup>2)</sup>|**10**|5||5||**Pfp**(Ausarbeitungen +<br>Vorträge gemäß Vorgaben<br>des Lehrstuhls)|
+|**M 5**|**Vertiefungsmodule der**<br>**Medizintechnik**gemäß<br>Studienrichtungskatalog<sup>2) 5)</sup>|**10**||5|5||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
+|**M 6**|**Vertiefungskompetenzen der**<br>**Medizintechnik**gemäß<br>Studienrichtungskatalog<sup>2)</sup>|**10**|||1<br>0||**uSL**(Ausarbeitungen<br>gemäß<br>Vorgaben des Lehrstuhls)|
+|**M 7**|**Flexibles Budget**<sup>6)</sup>|**10**|||1<br>0||**PL**: Klausur 60/90 min<br>/ mündl. Prüfung 30 min|
 |**M 8**|**Masterarbeit**|**30**||||3<br>0|**Pfp**(Ausarbeitung +<br>Vortrag)|
-||Summe ECTS8)|120|3<br>0|3<br>0|3<br>0|3<br>0||
+||Summe ECTS<sup>8)</sup>|120|3<br>0|3<br>0|3<br>0|3<br>0||
 
 **PfP** Portfolioprüfung **PL** Prüfungsleistung **bSL** benotete Studienleistung **uSL** unbenotete Studienleistung 
 
@@ -183,9 +184,9 @@ Studienverlaufsplan und Prüfungen für das Bachelorstudium der Medizintechnik
 
 5 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierende, die ihr Studium ab dem Sommersemester 2013 aufnehmen. 3Abweichend hiervon finden die Änderungen der Ziffer 1 a, c und d auf alle Studierenden Anwendung.[4] Studierende, die ihr Masterstudium der Medizintechnik vor dem In-KraftTreten dieser Änderungssatzung aufgenommen haben, können ihr Masterstudium auf Antrag nach dieser Änderungssatzung fortsetzen.[4] Der Antrag ist vor Antritt der geänderten Prüfung beim Prüfungsamt zu stellen. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierende, die ihr Studium ab dem Sommersemester 2013 aufnehmen. 3Abweichend hiervon finden die Änderungen der Ziffer 1 a, c und d auf alle Studierenden Anwendung.<sup>4</sup> Studierende, die ihr Masterstudium der Medizintechnik vor dem In-KraftTreten dieser Änderungssatzung aufgenommen haben, können ihr Masterstudium auf Antrag nach dieser Änderungssatzung fortsetzen.<sup>4</sup> Der Antrag ist vor Antritt der geänderten Prüfung beim Prüfungsamt zu stellen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 8. Februar 2013 und der Genehmigungsfeststellung des Präsidenten vom 18. Februar 2013. 
 

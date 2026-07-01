@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
-scraped_at: 2026-05-01T06:48:55+00:00
+scraped_at: 2026-07-01T08:25:45+00:00
 ---
 
 # Medizin Erlangen/Bayreuth (Staatsexamen)

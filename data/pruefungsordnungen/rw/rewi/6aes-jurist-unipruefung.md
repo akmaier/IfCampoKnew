@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. April 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES_Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:10+00:00
-page_count_chars: 4901
+scraped_at: 2026-07-01T10:34:38+00:00
+page_count_chars: 4934
 ---
 
 # 10. April 2014
@@ -12,13 +12,13 @@ page_count_chars: 4901
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES_Jurist-UniPruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Sechste Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
+# **Sechste Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
 
 Vom 10. April 2014 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 38 Satz 2 der Ausbildungs- und Prüfungsordnung für Juristen (JAPO) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung vom 14. Oktober 2004 (KWMBl II S. 2933), zuletzt geändert durch Satzung vom 23. August 2013, wird wie folgt geändert: 
 
@@ -50,17 +50,17 @@ Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Un
 
 1 
 
-## 7. § 13 wird wie folgt geändert: 
+7. § 13 wird wie folgt geändert: 
 
-- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+   - a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Dies gilt nicht, wenn der Kandidat zwischenzeitlich die Erste Juristische Staatsprüfung endgültig nicht bestanden hat.“ 
+„<sup>2</sup> Dies gilt nicht, wenn der Kandidat zwischenzeitlich die Erste Juristische Staatsprüfung endgültig nicht bestanden hat.“ 
 
 b) Der bisherige Satz 2 wird zu Satz 3. 
 
 - c) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Die Wiederholungsprüfung ist spätestens im vierten Termin nach dem Termin abzulegen, in dem die Prüfung erstmals nicht bestanden wurde.[2] Wer die Frist nach Satz 1 überschreitet, dessen Prüfung gilt vorbehaltlich § 10 JAPO als wiederholt abgelegt und endgültig nicht bestanden, es sei denn die Fristüberschreitung beruht auf von ihm nicht zu vertretenden Gründen. 3Gründe nach Satz 2 sind beim Prüfungsausschuss unverzüglich geltend zu machen und nachzuweisen; im Fall einer Krankheit ist der Nachweis auf Verlangen des Prüfungsausschusses durch ein Zeugnis eines Arztes des Universitätsklinikums oder eines Gesundheitsamtes zu erbringen.“ 
+„(2)<sup>1</sup> Die Wiederholungsprüfung ist spätestens im vierten Termin nach dem Termin abzulegen, in dem die Prüfung erstmals nicht bestanden wurde.<sup>2</sup> Wer die Frist nach Satz 1 überschreitet, dessen Prüfung gilt vorbehaltlich § 10 JAPO als wiederholt abgelegt und endgültig nicht bestanden, es sei denn die Fristüberschreitung beruht auf von ihm nicht zu vertretenden Gründen. 3Gründe nach Satz 2 sind beim Prüfungsausschuss unverzüglich geltend zu machen und nachzuweisen; im Fall einer Krankheit ist der Nachweis auf Verlangen des Prüfungsausschusses durch ein Zeugnis eines Arztes des Universitätsklinikums oder eines Gesundheitsamtes zu erbringen.“ 
 
 d) Der bisherige Abs. 2 wird zu Abs. 3. 
 
@@ -70,7 +70,7 @@ d) Der bisherige Abs. 2 wird zu Abs. 3.
 
    - b) Abs. 2 Satz 3 erhält folgende neue Fassung: 
 
-„[3] § 13 Abs. 2 dieser Satzung und § 26 Abs. 2 Satz 2 JAPO gelten entsprechend.“ 
+„<sup>3</sup> § 13 Abs. 2 dieser Satzung und § 26 Abs. 2 Satz 2 JAPO gelten entsprechend.“ 
 
 9. Die Anlage zu § 1 Abs. 3 wird wie folgt geändert: 
 
@@ -90,7 +90,7 @@ d) Der bisherige Abs. 2 wird zu Abs. 3.
 
 - cc) Nach dem Spiegelstrich „Allgemeine Staatslehre/Verfassungsvergleichung“ wird das Wort „Verfassungsvergleichung“ als neuer Spiegelstrich angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

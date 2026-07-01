@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "3. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa%20BA-MA%20CompEng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:16:00+00:00
-page_count_chars: 4974
+scraped_at: 2026-07-01T11:35:33+00:00
+page_count_chars: 4983
 ---
 
 # 3. Dezember 2009
@@ -62,9 +62,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
    - b) In Abs. 2 werden nach dem Wort „Module“ die Worte „Computational Engineering 1“ und ein Komma eingefügt. 
 
-   - c) In Abs. 3 werden vor dem Wort „Die“ die hochgestellte Zahl „[1] “ und nach dem Wort „Anwendungsfach“ ein Komma und die Worte „ausgenommen des Moduls Computational Engineering 2“ eingefügt sowie folgender neuer Satz 2 angefügt: 
+   - c) In Abs. 3 werden vor dem Wort „Die“ die hochgestellte Zahl „<sup>1</sup> “ und nach dem Wort „Anwendungsfach“ ein Komma und die Worte „ausgenommen des Moduls Computational Engineering 2“ eingefügt sowie folgender neuer Satz 2 angefügt: 
 
-      - „[2] Zum Bestehen des Moduls Computational Engineering 2 sind folgende Nachweise zu erbringen: 
+      - „<sup>2</sup> Zum Bestehen des Moduls Computational Engineering 2 sind folgende Nachweise zu erbringen: 
 
          - a) erfolgreiche Teilnahme an den Übungen 
 
@@ -76,12 +76,12 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 „ 
 
-## Bachelor Studiengang Computational Engineering Anlage 1 zur Fachprüfungsordnung 
+# Bachelor Studiengang Computational Engineering Anlage 1 zur Fachprüfungsordnung 
 
-|Bachelor|6. Sem||Simulation und<br>wissenschaftliches<br>Rechnen 2<br>(7.5 ECTS)|Module abhängig<br>vom gewählten<br>TAF<br>Festlegung der<br>Module im<br>Studienkonzept|Festlegung der<br>Module im<br>Studienkonzept|Festlegung der<br>Module im<br>Studienkonzept|Bachelorarbeit<br>und Referat<br>(15 ECTS)|
+|Bachelor|6. Sem||Simulation und<br>wissenschaftliches<br>Rechnen 2<br>(7.5 ECTS)||||Bachelorarbeit<br>und Referat<br>(15 ECTS)|
 |---|---|---|---|---|---|---|---|
-||5. Sem||Simulation und<br>wissenschaftliches<br>Rechnen 1<br>(7.5 ECTS)<br>Simulation and<br>Modeling 1<br>(5ECTS)||||Seminar im<br>Bachelorstudium<br>( 2.5 ECTS )|
-||4. Sem|Mathematik A4<br>(5 ECTS)<br>Numerik 2<br>(mind. 2.5ECTS)||||||
+||5. Sem||Simulation und<br>wissenschaftliches<br>Rechnen 1<br>(7.5 ECTS)<br>Simulation and<br>Modeling 1<br>(5ECTS)|Module abhängig<br>vom gewählten<br>TAF<br>Festlegung der|Festlegung der|Festlegung der|Seminar im<br>Bachelorstudium<br>|
+||4. Sem|Mathematik A4<br>(5 ECTS)<br>Numerik 2<br>(mind. 2.5ECTS)||<br>Module im<br>Studienkonzept|Module im<br>Studienkonzept|Module im<br>Studienkonzept|( 2.5 ECTS )|
 ||3.Sem|Mathematik A3<br>(5 ECTS)<br>Numerik 1<br>(mind.5ECTS)|Sytemprogram-<br>mierung<br>(10 ECTS)|||||
 ||2. Sem|Mathematik A2<br>(10 ECTS)||Experimental-<br>physik f. NatWi 2<br>(7.5 ECTS)<br>Computational<br>Engineering 2<br>(5 ECTS)||||
 ||1. Sem|Mathematik A1<br>(7.5 ECTS)|Algorithmen u.<br>Datenstrukturen<br>(10 ECTS)<br>Computational<br>Engineering 1<br>(7.5ECTS)|Experimental-<br>physik f. NatWi 1<br>(7.5 ECTS)||||

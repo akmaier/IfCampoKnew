@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-Paedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:36:08+00:00
-page_count_chars: 5463
+scraped_at: 2026-07-01T09:46:32+00:00
+page_count_chars: 5510
 ---
 
 # PDF vom 08.06.2010 i.d.F. 05.11.2010
@@ -14,7 +14,7 @@ page_count_chars: 5463
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPäd - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPäd - Vom 8. Juni 2010** 
 
 geändert durch Satzung vom 5. November 2010 
 
@@ -28,9 +28,9 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach- oder ZweiFach-Bachelorstudiengang der Pädagogik oder der Abschluss in einem Drei-FachBachelorstudiengang mit Pädagogik als Hauptfach.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Abschlüsse in anderen Fächern anerkannt, soweit sie einen wesentlichen Umfang pädagogikrelevanter Problemstellungen zum Inhalt haben. 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach- oder ZweiFach-Bachelorstudiengang der Pädagogik oder der Abschluss in einem Drei-FachBachelorstudiengang mit Pädagogik als Hauptfach.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Abschlüsse in anderen Fächern anerkannt, soweit sie einen wesentlichen Umfang pädagogikrelevanter Problemstellungen zum Inhalt haben. 
 
-(2)[1] Für Bewerberinnen und Bewerbern mit einer Gesamtnote eines fachverwandten oder gleichwertigen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen bis 2,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] In dem Auswahlgespräch als geeignet eingestuft ist, wer sichere Kenntnisse in den fachspezifischen Grundlagen aufweist. 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerbern mit einer Gesamtnote eines fachverwandten oder gleichwertigen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen bis 2,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> In dem Auswahlgespräch als geeignet eingestuft ist, wer sichere Kenntnisse in den fachspezifischen Grundlagen aufweist. 
 
 1 
 
@@ -44,28 +44,31 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage: Studienplan Masterstudiengang Pädagogik** 
 
-||**Zahl und Bezeichnung der Module und**|**Zahl und Bezeichnung der Module und**|**Studienverlauf**|**Studienverlauf**||
+||**Zahl und Bezeichnung der M**|**odule und**|**Studien**|**verlauf**<br>**Art und Umfan der**||
 |---|---|---|---|---|---|
-|**FS**|**Module**|**SWS**|**ECTS**|**Art und Umfang der**<br>**Prüfungsleistung**|**Faktor**|
-|1|I: Allgemeine Pädagogik I|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
-||II: Profilspezifische Theorie I|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
+|**FS**|**Module**|**SWS**|**ECTS**|**g**<br>**Prüfungsleistung**|**Faktor**|
+||I: Allgemeine Pädagogik I|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
+|1|II: Profilspezifische Theorie I|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
 ||III: Freie Ergänzungsstudien|4|10|N.N.|100 %|
-|**Zwischensumme 1. Fachsemester**||**12**|**30**|||
-|2|IV: Allgemeine Pädagogik II|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
-||V: Profilspezifische Theorie II|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
-||VI: Felderkundung|2<br>+<br>150 Std.<br>Praktikum|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|50 %|
-|||||Praktikumsbericht (ca. 15 Seiten|50 %|
-|**Zwischensumme 2. Fachsemester**||**10**<br>+<br>150 Std.<br>Praktikum|**30**|||
-|3|VII: Allgemeine Pädagogik III|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
-||VIII: Profilspezifische Theorie III|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
-||IX: Feldforschung|2<br>+<br>150 Std.<br>Forschung|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|50 %|
-|||||Praktikumsbericht (ca. 15 Seiten)|50 %|
-|**Zwischensumme 3. Fachsemester**||**10**<br>+<br>150 Std.<br>Forschung|**30**|||
-|4|X: Master-Modul|||||
+|**Zwische**|**nsumme 1. Fachsemester**|**12**|**30**|||
+||IV: Allgemeine Pädagogik II|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
+|2|V: Profilspezifische Theorie II|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten)|100 %|
+||VI: Felderkundung|2<br>+<br>|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|50 %|
+|||150 Std.<br>||Praktikumsbericht (ca 15 Seiten|50 %|
+|||Praktikum||.||
+|**Zwische**|**nsumme 2. Fachsemester**|**10**<br>+<br>150 Std.<br>Praktikum|**30**|||
+||VII: Allgemeine Pädagogik III|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
+|3|VIII: Profilspezifische Theorie III|4|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|100 %|
+||IX: Feldforschung|2<br>+<br>|10|Klausur (90 Min.) oder wiss. Haus-<br>arbeit bzw. Essay (jew. ca. 15 Seiten|50 %|
+|||150 Std.<br>Fh||Praktikumsbericht (ca. 15 Seiten)|50 %|
+|||orscung||||
+|**Zwische**|**nsumme 3. Fachsemester**|**10**<br>+<br>150 Std.|**30**|||
+|||<br>Forschung||||
+||X: Master-Modul<br>|||||
 ||Anfertigung der schriftlichen<br>Master-Arbeit||22,5|Umfang ca. 80 Seiten|75 %|
-||Master Prüfung||5|Mündliche Prüfung (30 Min.) über 2<br>frei zu wählende Themen aus den<br>Inhalten des Master-Studiums Päda-<br>gogik|25 %|
+|4|Master Prüfung||5|Mündliche Prüfung (30 Min.) über 2<br>frei zu wählende Themen aus den<br>Inhalten des Master-Studiums Päda-<br>gogik|25 %|
 ||Master-Seminar|1|2,5|unbenotete Studienleistung [Schriftli-<br>che (5 Seiten) oder mündliche (15<br>Min.) Kurzdarstellung von Thesen für<br>die mündliche Master-Prüfung]|-|
-|**Zwischensumme 4. Fachsemester**||**1**|**30**|||
+|**Zwische**|**nsumme 4. Fachsemester**|**1**|**30**|||
 
 3 
 

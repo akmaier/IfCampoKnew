@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA-Management.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:40:19+00:00
-page_count_chars: 5091
+scraped_at: 2026-07-01T11:05:05+00:00
+page_count_chars: 4987
 ---
 
 # 25. Juli 2014
@@ -12,13 +12,13 @@ page_count_chars: 5091
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA-Management.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOManagement -** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOManagement -** 
 
 Vom 25. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) in Verbindung mit § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOManagement - vom 24. Juli 2009, zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -64,50 +64,46 @@ aa) In Nr. 2.1 werden die Worte „ein Mal“ durch das Wort „einmal“ ersetz
 
 aa) In Satz 1 wird das Wort „Tag“ durch das Wort „Werktag“ ersetzt. bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt. 
 
-- „[2] Als Werktage gelten dabei die Tage von Montag bis einschließlich Freitag.“ 
-
-- cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
-
-dd) In Satz 3 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
+„<sup>2</sup> Als Werktage gelten dabei die Tage von Montag bis einschließlich Freitag.“ cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. dd) In Satz 3 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
 - f)   In Nr. 7 werden nach dem Wort „etwaige“ das Wort „eigene“ eingefügt sowie nach dem Wort „Bewerberinnen“ das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
 2 
 
-## 6. Die Tabelle in Anlage 2 erhält folgende neue Fassung: 
+# 6. Die Tabelle in Anlage 2 erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Studienplan Master in Management (MiM)**|**Studienplan Master in Management (MiM)**|**Studienplan Master in Management (MiM)**|**WS**|**SS**|**WS**|**SS**|
-|---|---|---|---|---|---|---|
-||||1|2|3|4|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Pflichtbereich(Pb) I und II**||**45**|25|10|10|0|
-|**Pb I**||**25**|20|5|0|0|
-|Business Strategy||5|5||||
-|Prozess- und Wertschöpfungsmanagement||5|5||||
-|Personalmanagement||5|5||||
-|Finanzielle GrundlagendesManagements||5|5||||
-|Technologyand Innovation Management||5||5|||
-|**Pb II(jeweils Wahlaus mehreren Angeboten)**||**20**|5|5|10|0|
-|AngewandteManagementmethoden||5|5||||
-|Fallstudien und Projekte im Management||5||5|||
-|Teamfähigkeit,Präsentations-undVerhandlungstechniken||5|||5||
-|FortgeschritteneMethodender Managementforschung||5|||5||
-|**Vertiefungsbereich(freie Wahl von neun Modulen)* **||**45**|5|20|20|0|
-|ModulgruppeManagement globalerUnternehmen||0-45|0-5|0-20|0-20||
-|ModulgruppeManagementindustriellerUnternehmen||0-45|0-5|0-20|0-20||
-|Modulgruppe Management im Gesundheitssektor||0-45|0-5|0-20|0-20||
-|ModulgruppeDienstleistungsmanagement||0-45|0-5|0-20|0-20||
-|ModulgruppeManagementvon Logistikunternehmen||0-30|0-5|0-20|0-20||
-|Modulgruppe Sonstiges||0-45|0-5|0-20|0-20||
-|*Einzelmodule der Modulgruppen sind im Modulhandbuch des Studiengangs aufgeführt und können sich semesterweise<br>ändern. Die Module können aus mehreren Modulgruppen beliebig kombiniert werden.|||||||
-|**Masterarbeit**||**30**||||30|
-|ECTS||**120**|**30**|**30**|**30**|**30**|
+|**Studienplan Master in Management (MiM)**||**WS**|**SS**|**WS**|**SS**|
+|---|---|---|---|---|---|
+|||1|2|3|4|
+||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Pflichtbereich(Pb) I und II**|**45**|25|10|10|0|
+|**Pb I**|**25**|20|5|0|0|
+|Business Strategy|5|5||||
+|Prozess- und Wertschöpfungsmanagement|5|5||||
+|Personalmanagement|5|5||||
+|Finanzielle GrundlagendesManagements|5|5||||
+|Technologyand Innovation Management|5||5|||
+|**Pb II(jeweils Wahlaus mehreren Angeboten)**|**20**|5|5|10|0|
+|AngewandteManagementmethoden|5|5||||
+|Fallstudien und Projekte im Management|5||5|||
+|Teamfähigkeit,Präsentations-undVerhandlungstechniken|5|||5||
+|FortgeschritteneMethodender Managementforschung|5|||5||
+|**Vertiefungsbereich(freie Wahl von neun Modulen)* **|**45**|5|20|20|0|
+|ModulgruppeManagement globalerUnternehmen|0-45|0-5|0-20|0-20||
+|ModulgruppeManagementindustriellerUnternehmen|0-45|0-5|0-20|0-20||
+|Modulgruppe Management im Gesundheitssektor|0-45|0-5|0-20|0-20||
+|ModulgruppeDienstleistungsmanagement|0-45|0-5|0-20|0-20||
+|ModulgruppeManagementvon Logistikunternehmen|0-30|0-5|0-20|0-20||
+|Modulgruppe Sonstiges|0-45|0-5|0-20|0-20||
+|*Einzelmodule der Modulgruppen sind im Modulhandbuch des Stu<br>ändern. Die Module können aus mehreren Modulgruppen beliebig|diengangs aufg<br>kombiniert werd|eführt und<br>en.|können sic|h semest|erweise|
+|**Masterarbeit**|**30**||||30|
+|ECTS|**120**|**30**|**30**|**30**|**30**|
 
 „ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. Oktober 2014 in Kraft. 
 

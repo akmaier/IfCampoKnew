@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AeSa-PrO-WirtMath.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:55:04+00:00
-page_count_chars: 2164
+scraped_at: 2026-07-01T09:19:38+00:00
+page_count_chars: 2161
 ---
 
 # 7. Juli 2005
@@ -14,11 +14,11 @@ page_count_chars: 2164
 
 **Dritte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät I (Mathematik und Physik) und der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 7. Juli 2005 
+# Vom 7. Juli 2005 
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetztes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Diplomstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät I (Mathematik und Physik) und der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom 22. Oktober 2002 (KWMBl II 2003 S. 1500), zuletzt geändert durch Satzung vom 3. Februar 2005, wird wie folgt geändert: 
 
@@ -40,7 +40,7 @@ Die Prüfungsordnung für den Diplomstudiengang Wirtschaftsmathematik an der Nat
 
 - b) In Nr. 6 a wird die Ziffer "II" durch folgenden Wortlaut ersetzt: "wahlweise II oder III". 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

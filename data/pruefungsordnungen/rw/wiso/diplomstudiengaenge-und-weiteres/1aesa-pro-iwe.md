@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Mai 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-IWE.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:33:17+00:00
-page_count_chars: 15252
+scraped_at: 2026-07-01T10:58:57+00:00
+page_count_chars: 15463
 ---
 
 # 15. Mai 2002
@@ -17,8 +17,6 @@ page_count_chars: 15252
 ## Vom 15. Mai 2002 
 
 Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetztes (BayHSchG) und § 51 der Qualifikationsverordnung (BayRS 22.10-1-1-3-UK/WFK) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [19 x 11] intentionally omitted <==**
 
 Die Prüfungsordnung für die Abschlussprüfung im Aufbaustudiengang Internationale Wirtschaftsund Entwicklungspolitik an der Universität Erlangen-Nürnberg (Postgraduiertenstudiengang) vom 28. Mai 1998 (KWMBl II S. 957) wird wie folgt geändert: 
 
@@ -38,7 +36,7 @@ a) In Absatz 1 wird die Zahl „78“ durch die Zahl „72“ ersetzt.
 
 b) Absatz 3 erhält folgende Fassung: 
 
-„(3) ¹Die Abschlussprüfung soll im vierten Fachsemester abgelegt und spätestens innerhalb der ersten beiden Monate des folgenden Semesters beendet werden. ²Der Student soll sich so rechtzeitig ordnungsgemäß zur Abschlussprüfung melden, dass er sie mit allen Teilprüfungen und der Abschlussarbeit bis zu dem in Satz 1 bestimmten Termin ablegen kann. ³Die Frist für die Ablegung der Abschlussprüfung kann um ein Semester überschritten werden.[4] Überschreitet der Student diese Frist aus Gründen, die er zu vertreten hat, gelten die noch nicht absolvierten Teilprüfungen und, sofern die Abschlussarbeit nicht eingereicht ist, auch diese als erstmalig nicht bestanden. 5Überschreitet der Kandidat die Frist nach den Sätzen 2 und 3 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.“ 
+„(3) ¹Die Abschlussprüfung soll im vierten Fachsemester abgelegt und spätestens innerhalb der ersten beiden Monate des folgenden Semesters beendet werden. ²Der Student soll sich so rechtzeitig ordnungsgemäß zur Abschlussprüfung melden, dass er sie mit allen Teilprüfungen und der Abschlussarbeit bis zu dem in Satz 1 bestimmten Termin ablegen kann. ³Die Frist für die Ablegung der Abschlussprüfung kann um ein Semester überschritten werden.<sup>4</sup> Überschreitet der Student diese Frist aus Gründen, die er zu vertreten hat, gelten die noch nicht absolvierten Teilprüfungen und, sofern die Abschlussarbeit nicht eingereicht ist, auch diese als erstmalig nicht bestanden. 5Überschreitet der Kandidat die Frist nach den Sätzen 2 und 3 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.“ 
 
 1 
 
@@ -50,7 +48,7 @@ b) Absatz 3 erhält folgende Fassung:
 
 a) Absatz 2 Satz 4 erhält folgende Fassung: 
 
-„[4] Erkennt der Prüfungsausschuss die Gründe an, so gilt die Prüfung als nicht abgelegt.“ 
+„<sup>4</sup> Erkennt der Prüfungsausschuss die Gründe an, so gilt die Prüfung als nicht abgelegt.“ 
 
 b) Absatz 3 wird gestrichen 
 
@@ -68,13 +66,13 @@ a) In Absatz 1 werden nach dem Wort „Klausurarbeiten“ die Worte „und Semin
 
 b) Absatz 2 Satz 1 erhält folgende Fassung: 
 
-„[1] Die Benotung der Klausur- und Seminararbeiten erfolgt in der Regel durch zwei Prüfer; einer von ihnen soll der Aufgabensteller sein.“ 
+„<sup>1</sup> Die Benotung der Klausur- und Seminararbeiten erfolgt in der Regel durch zwei Prüfer; einer von ihnen soll der Aufgabensteller sein.“ 
 
 7. 
 
 - § 13 wird wie folgt geändert: 
 
-a) Nach Absatz 2 wird folgender neuer Absatz 3 eingefügt: „(3) ¹Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse. ²Das Protokoll wird vom Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet. ³Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist zu den Prüfungsunterlagen zu nehmen.“ 
+a) Nach Absatz 2 wird folgender neuer Absatz 3 eingefügt: „(3) ¹Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse. ²Das Protokoll wird vom Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet. ³Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist zu den Prüfungsunterlagen zu nehmen.“ 
 
 b) Die Absätze 3 und 4 werden Absätze 4 und 5. 
 
@@ -82,7 +80,7 @@ b) Die Absätze 3 und 4 werden Absätze 4 und 5.
 
 - § 14 wird wie folgt geändert: 
 
-a) In Absatz 1 wird vor dem bisherigen Satz folgender Satz eingefügt: „[1] Die Fachnote in einem Prüfungsfach ist das auf eine Dezimalstelle abgeschnittene, mit Kreditpunkten gewichtete arithmetische Mittel der Teilprüfungen.“ 
+a) In Absatz 1 wird vor dem bisherigen Satz folgender Satz eingefügt: „<sup>1</sup> Die Fachnote in einem Prüfungsfach ist das auf eine Dezimalstelle abgeschnittene, mit Kreditpunkten gewichtete arithmetische Mittel der Teilprüfungen.“ 
 
 b) Die Absätze 2 und 3 erhalten folgende Fassung: 
 
@@ -96,33 +94,35 @@ Bei einem Durchschnitt bis 1,5 = sehr gut, bei einem Durchschnitt von 1,6 bis 2,
 
 Bei einem Durchschnitt bis 1,5 = sehr gut, bei einem Durchschnitt von 1,6 bis 2,5 = gut, bei einem Durchschnitt von 2,6 bis 3,5 = befriedigend, bei einem Durchschnitt von 3,6 bis 4,0 = ausreichend.“ 
 
-9. § 19 Abs. 1 und 2 erhalten folgende Fassung: 
+9. 
 
-   - „(1) Voraussetzungen für die Zulassung zur Abschlussprüfung sind: 
+- § 19 Abs. 1 und 2 erhalten folgende Fassung: 
 
-      1. der Nachweis der Qualifikation für das Aufbaustudium gemäß § 3; 
+„(1) Voraussetzungen für die Zulassung zur Abschlussprüfung sind: 
 
-      2. die Immatrikulation an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg im Aufbaustudiengang Internationale Wirtschafts- und Entwicklungspolitik; 
+   1. der Nachweis der Qualifikation für das Aufbaustudium gemäß § 3; 
 
-      3. eine Erklärung, dass der Kandidat noch keine Prüfung in diesem oder in einem vergleichbaren Aufbaustudiengang endgültig nicht bestanden hat und dass für die Meldung zur Prüfung seine Rechte aus der Immatrikulation nicht erloschen sind; 
+   2. die Immatrikulation an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg im Aufbaustudiengang Internationale Wirtschafts- und Entwicklungspolitik; 
 
-      4. der Nachweis über eine von einem Hochschullehrer betreute praktische Tätigkeit von mindestens 16 Wochen Dauer, der spätestens vor Ablegung der letzten Teilprüfung erbracht sein muss. 
+   3. eine Erklärung, dass der Kandidat noch keine Prüfung in diesem oder in einem vergleichbaren Aufbaustudiengang endgültig nicht bestanden hat und dass für die Meldung zur Prüfung seine Rechte aus der Immatrikulation nicht erloschen sind; 
 
-   - (2)[1] Dem an den Vorsitzenden des Prüfungsausschusses gerichteten Antrag auf Zulassung zur Abschlussprüfung sind folgende Unterlagen beizufügen: 
+   4. der Nachweis über eine von einem Hochschullehrer betreute praktische Tätigkeit von mindestens 16 Wochen Dauer, der spätestens vor Ablegung der letzten Teilprüfung erbracht sein muss. 
 
-      1. die Nachweise nach Absatz 1 Nrn. 1, 2 und 4 sowie die Erklärung nach Absatz 1 Nr. 3; 
+- (2)<sup>1</sup> Dem an den Vorsitzenden des Prüfungsausschusses gerichteten Antrag auf Zulassung zur Abschlussprüfung sind folgende Unterlagen beizufügen: 
 
-      2. der Nachweis über eine von einem Hochschullehrer betreute praktische Tätigkeit von mindestens 16 Wochen Dauer; 
+   1. die Nachweise nach Absatz 1 Nrn. 1, 2 und 4 sowie die Erklärung nach Absatz 1 Nr. 3; 
 
-      3. ein vom Kandidaten verfasster Lebenslauf mit besonderer Berücksichtigung des Bildungsganges. 
+   2. der Nachweis über eine von einem Hochschullehrer betreute praktische Tätigkeit von mindestens 16 Wochen Dauer; 
 
-²Der Nachweis nach Satz 1 Nr. 2 ist spätestens bei der Meldung zur letzten Teilprüfung vorzulegen.[3] Die Zulassung zur Abschlussprüfung schließt die Zulassung zur Abschlussarbeit ein.“ 
+   3. ein vom Kandidaten verfasster Lebenslauf mit besonderer Berücksichtigung des Bildungsganges. 
+
+²Der Nachweis nach Satz 1 Nr. 2 ist spätestens bei der Meldung zur letzten Teilprüfung vorzulegen.<sup>3</sup> Die Zulassung zur Abschlussprüfung schließt die Zulassung zur Abschlussarbeit ein.“ 
 
 10. Die §§ 20 und 21 erhalten folgende Fassung: 
 
 ## **„§ 20 Meldung zur Abschlussprüfung** 
 
-¹Die Zulassung zur Abschlußprüfung erfolgt vor der Meldung zur ersten Teilprüfung. ²Sie ist an das Prüfungsamt zu richten. ³Das Prüfungsamt entscheidet über das Vorliegen der Voraussetzungen gemäß § 19.[4] Aufgrund der Zulassung zur Abschlußprüfung meldet sich der Kandidat zu den einzelnen Teilprüfungen bei dem jeweiligen Fachprüfer innerhalb der von ihm durch Aushang am Schwarzen Brett des Prüfungsamtes bekannt gegebenen Meldefrist. 
+¹Die Zulassung zur Abschlußprüfung erfolgt vor der Meldung zur ersten Teilprüfung. ²Sie ist an das Prüfungsamt zu richten. ³Das Prüfungsamt entscheidet über das Vorliegen der Voraussetzungen gemäß § 19.<sup>4</sup> Aufgrund der Zulassung zur Abschlußprüfung meldet sich der Kandidat zu den einzelnen Teilprüfungen bei dem jeweiligen Fachprüfer innerhalb der von ihm durch Aushang am Schwarzen Brett des Prüfungsamtes bekannt gegebenen Meldefrist. 
 
 3 
 
@@ -138,7 +138,7 @@ a) Satz 2 Halbsatz 2 erhält folgende Fassung:
 
 b) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Wird die Arbeit mit der Note „ausreichend“ oder besser bewertet, so werden dafür 20 Kreditpunkte vergeben.“ 
+„<sup>3</sup> Wird die Arbeit mit der Note „ausreichend“ oder besser bewertet, so werden dafür 20 Kreditpunkte vergeben.“ 
 
 c) Der bisherige Satz 3 wird Satz 4. 
 
@@ -146,15 +146,15 @@ c) Der bisherige Satz 3 wird Satz 4.
 
 ## **„§ 23 Umfang der studienbegleitenden Teilprüfungen** 
 
-(1) ¹Die Abschlussprüfung erstreckt sich auf zwei von drei Kernfächern und zwei Wahlfächer. ²Welche Fächer als Kernfach und als Wahlfach wählbar sind, ist der **Anlage I** zur Prüfungsordnung zu entnehmen. ³Die Prüfungen in den Fächern der Abschlußprüfung werden studienbegleitend in Teilprüfungen abgelegt.[4] Jedes Prüfungsfach umfasst wenigstens zwei Teilprüfungen.[5] Eine Teilprüfung beruht in ihrer kleinsten Prüfungseinheit auf einem Studienmodul von zwei SWS.[6] Mehrere Prüfungseinheiten können zu einer Teilprüfung verbunden werden.[7] In der Regel wird für eine SWS ein Kreditpunkt berechnet.[8] Jede Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.[9] Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.[10] Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 22 Punkten bleibt. 
+(1) ¹Die Abschlussprüfung erstreckt sich auf zwei von drei Kernfächern und zwei Wahlfächer. ²Welche Fächer als Kernfach und als Wahlfach wählbar sind, ist der **Anlage I** zur Prüfungsordnung zu entnehmen. ³Die Prüfungen in den Fächern der Abschlußprüfung werden studienbegleitend in Teilprüfungen abgelegt.<sup>4</sup> Jedes Prüfungsfach umfasst wenigstens zwei Teilprüfungen.<sup>5</sup> Eine Teilprüfung beruht in ihrer kleinsten Prüfungseinheit auf einem Studienmodul von zwei SWS.<sup>6</sup> Mehrere Prüfungseinheiten können zu einer Teilprüfung verbunden werden.<sup>7</sup> In der Regel wird für eine SWS ein Kreditpunkt berechnet.<sup>8</sup> Jede Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.<sup>9</sup> Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.<sup>10</sup> Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 22 Punkten bleibt. 
 
 (2) Der Kandidat kann von demselben Prüfer in nicht mehr als zwei Prüfungsfächern geprüft werden. 
 
-(3) ¹Die Fachvertreter entscheiden innerhalb des Rahmens nach der **Anlage II** über Zahl, Umfang und Form der Teilprüfungen.[2] Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. ³Pro Prüfungseinheit gemäß Absatz 1 Satz 5 werden veranschlagt für eine Klausur 60 Minuten, eine mündliche Prüfung etwa 15 Minuten und eine Seminararbeit eine Vorbereitungszeit von nicht mehr als vier Wochen.[4] Umfang und Form der Teilprüfungen werden von dem zuständigen Fachvertreter spätestens zum Ende der allgemeinen Vorlesungszeit eines Semesters mit Geltung für das im Folgesemester beginnende Studium durch Aushang am Schwarzen Brett bekannt gegeben.[5] Die Dauer einer Klausur soll 60 Minuten nicht unterschreiten.[6] Die Fachvertreter sollen darauf achten, dass die Teilprüfungen möglichst auch integrative Gesamtbetrachtungen innerhalb des Faches einbeziehen.[7] Dies muss mindestens bei einer Teilprüfung pro Fach der Fall sein.[8] Die Teilprüfungen für ein Studienmodul sollen mindestens einmal innerhalb von sechs Monaten angeboten werden, auch wenn keine diesbezügliche Lehrveranstaltung durchgeführt wird. 9Für jede Klausur sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die 
+(3) ¹Die Fachvertreter entscheiden innerhalb des Rahmens nach der **Anlage II** über Zahl, Umfang und Form der Teilprüfungen.<sup>2</sup> Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. ³Pro Prüfungseinheit gemäß Absatz 1 Satz 5 werden veranschlagt für eine Klausur 60 Minuten, eine mündliche Prüfung etwa 15 Minuten und eine Seminararbeit eine Vorbereitungszeit von nicht mehr als vier Wochen.<sup>4</sup> Umfang und Form der Teilprüfungen werden von dem zuständigen Fachvertreter spätestens zum Ende der allgemeinen Vorlesungszeit eines Semesters mit Geltung für das im Folgesemester beginnende Studium durch Aushang am Schwarzen Brett bekannt gegeben.<sup>5</sup> Die Dauer einer Klausur soll 60 Minuten nicht unterschreiten.<sup>6</sup> Die Fachvertreter sollen darauf achten, dass die Teilprüfungen möglichst auch integrative Gesamtbetrachtungen innerhalb des Faches einbeziehen.<sup>7</sup> Dies muss mindestens bei einer Teilprüfung pro Fach der Fall sein.<sup>8</sup> Die Teilprüfungen für ein Studienmodul sollen mindestens einmal innerhalb von sechs Monaten angeboten werden, auch wenn keine diesbezügliche Lehrveranstaltung durchgeführt wird. 9Für jede Klausur sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die 
 
 4 
 
-besonderen Umstände einzelner Fächer etwas anderes erfordern.[10] Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt.[11] Die dabei erlaubten Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekannt gegeben. 
+besonderen Umstände einzelner Fächer etwas anderes erfordern.<sup>10</sup> Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt.<sup>11</sup> Die dabei erlaubten Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekannt gegeben. 
 
 (4) Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Aufbaustudiengangs. 
 
@@ -164,17 +164,17 @@ besonderen Umstände einzelner Fächer etwas anderes erfordern.[10] Die Aufgaben
 
 (2) § 4 Abs. 3 und § 10 bleiben unberührt. 
 
-(3)[1] Ist ein Teil der Abschlussprüfung nach Ausschöpfung der Wiederholungsmöglichkeiten endgültig nicht bestanden oder gilt er als endgültig nicht bestanden, so ist das Prüfungsverfahren beendet.[2] Noch ausstehende Teilprüfungen oder eine in Bearbeitung befindliche Abschlussarbeit können nicht mehr als Prüfungsleistung im Sinne dieser Prüfungsordnung erbracht werden. 
+(3)<sup>1</sup> Ist ein Teil der Abschlussprüfung nach Ausschöpfung der Wiederholungsmöglichkeiten endgültig nicht bestanden oder gilt er als endgültig nicht bestanden, so ist das Prüfungsverfahren beendet.<sup>2</sup> Noch ausstehende Teilprüfungen oder eine in Bearbeitung befindliche Abschlussarbeit können nicht mehr als Prüfungsleistung im Sinne dieser Prüfungsordnung erbracht werden. 
 
 ## **§ 25 Wiederholung der Abschlussprüfung** 
 
-(1) ¹Jede erstmals nicht bestandene Teilprüfung kann einmal (ohne Berechnung von Maluspunkten) wiederholt werden. ²Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet. ³Absatz 2 bleibt unberührt.[4] Eine zweite Wiederholung ist zulässig, solange die Summe der Maluspunkte unterhalb der Schwelle von 22 Punkten bleibt.[5] Die freiwillige Wiederholung einer bestandenen Abschlussprüfung oder einer bestandenen Teilprüfung ist nicht zulässig. (2) ¹Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Mitteilung über das Nichtbestehen abgelegt werden; dies gilt auch für die zweite Wiederholung.[2] Die Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. ³Bei Versäumnis der Frist gilt die Abschlussprüfung endgültig als nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird.“ 
+(1) ¹Jede erstmals nicht bestandene Teilprüfung kann einmal (ohne Berechnung von Maluspunkten) wiederholt werden. ²Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet. ³Absatz 2 bleibt unberührt.<sup>4</sup> Eine zweite Wiederholung ist zulässig, solange die Summe der Maluspunkte unterhalb der Schwelle von 22 Punkten bleibt.<sup>5</sup> Die freiwillige Wiederholung einer bestandenen Abschlussprüfung oder einer bestandenen Teilprüfung ist nicht zulässig. (2) ¹Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Mitteilung über das Nichtbestehen abgelegt werden; dies gilt auch für die zweite Wiederholung.<sup>2</sup> Die Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. ³Bei Versäumnis der Frist gilt die Abschlussprüfung endgültig als nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird.“ 
 
 13. § 26 Abs. 2 wird wie folgt geändert: 
 
 a) Satz 1 wird durch folgende Sätze 1 und 2 ersetzt: 
 
-„[1] Das Zeugnis enthält die Prüfungsgesamtnote nach § 14 Abs. 3 (Gesamtnote), die Fachnoten sowie Thema und Note der Abschlussarbeit; die Teilleistungen sollen möglichst differenziert ausgewiesen werden.[2] Die Namen der Prüfer sind im Zeugnis auszudrucken.“ 
+„<sup>1</sup> Das Zeugnis enthält die Prüfungsgesamtnote nach § 14 Abs. 3 (Gesamtnote), die Fachnoten sowie Thema und Note der Abschlussarbeit; die Teilleistungen sollen möglichst differenziert ausgewiesen werden.<sup>2</sup> Die Namen der Prüfer sind im Zeugnis auszudrucken.“ 
 
 b) Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4. 
 
@@ -202,7 +202,7 @@ b) Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4.
 
 3.) Auslandswissenschaft: Romanischsprachige Kulturen (Spanien/Lateinamerika) 
 
-- 4.) Entwicklungssoziologie[1)] 
+- 4.) Entwicklungssoziologie<sup>1)</sup> 
 
 - 5.) Finanzwissenschaft 
 
@@ -232,7 +232,7 @@ Der Prüfungsausschuss kann weitere Fächer als Wahlfächer zulassen. Fächer, d
 
 1)Das Fach Entwicklungsoziologie kann nur als Wahlfach gewählt werden, soweit es nicht bereits als Kernfach gewählt wurde. 
 
-## **Anlage II** 
+# **Anlage II** 
 
 ## **Struktur der Abschlussprüfung** 
 

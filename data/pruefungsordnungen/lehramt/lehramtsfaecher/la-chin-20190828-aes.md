@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Chin 20190828 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Chinesisch/Aenderungssatzungen/LA_Chin_20190828_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:02:10+00:00
-page_count_chars: 7374
+scraped_at: 2026-07-01T08:35:28+00:00
+page_count_chars: 6803
 ---
 
 # LA Chin 20190828 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 7374
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Chinesisch/Aenderungssatzungen/LA_Chin_20190828_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehramtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA Chin. –** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehramtsstudiengang an Gymnasien an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA Chin. –** 
 
-## **Vom 28. August 2019** 
+# **Vom 28. August 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Lehramtsstudiengang an Gymnasien an der FAU – FPO LA Chin. – vom 11. November 2016, zuletzt geändert durch Satzung vom 12. Juni 2017, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Fachstudien- und Prüfungsordnung für das Erweiterungsfach Chinesisch im Le
 
    - b) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Ergänzend wird darauf hingewiesen, dass in einzelnen Lehrveranstaltungen und Prüfungen chinesische Texte bearbeitet werden und Gegenstand von Übersetzungsleistungen sind.“ 
+„<sup>3</sup> Ergänzend wird darauf hingewiesen, dass in einzelnen Lehrveranstaltungen und Prüfungen chinesische Texte bearbeitet werden und Gegenstand von Übersetzungsleistungen sind.“ 
 
 c) Der bisherige Satz 3 wird zu Satz 4. 
 
@@ -38,11 +38,8 @@ c) Der bisherige Satz 3 wird zu Satz 4.
 
 4. Die Tabelle in § 4 Satz 1 erhält folgende neue Fassung: 
 
-## „ 
-
-|„|||||
+|„<br>**Semester**|**Modulname**||**Workload**||
 |---|---|---|---|---|
-|**Semester**|**Modulname**||**Workload**||
 |1. Semester|Modernes Chinesisch 1|8 SWS|10 ECTS-Punkte|300 Stunden|
 |2.Semester|Modernes Chinesisch 2|8 SWS|10ECTS-Punkte|300 Stunden|
 |3. Semester|Modernes Chinesisch 3|6 SWS|10 ECTS-Punkte|300 Stunden|
@@ -64,57 +61,46 @@ c) Der bisherige Satz 3 wird zu Satz 4.
 
 “ 
 
-## 5. § 5 wird wie folgt geändert: 
+# 5. § 5 wird wie folgt geändert: 
 
 a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die zweite Änderungssatzung tritt am 1. Oktober 2019 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die zweite Änderungssatzung tritt am 1. Oktober 2019 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 2 
 
-## 6. Die erste Tabelle in der Anlage erhält folgende neue Fassung: 
+# 6. Die erste Tabelle in der Anlage erhält folgende neue Fassung: 
 
-„ Fachwissenschaft Chinesisch 
+# „ <u>Fachwissenschaft Chinesisch</u> 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Ge-<br>samt||Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester||Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||in ECTS-Punkten||||||Prüfung/Studien-||
-|||||||||||||||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|<br>leistung||
-|Modernes Chinesisch 1|Konversationsübung:<br>Grundkurs Chinesisch Ia||6|||10|10|||||||||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (10 Min.)|1|
-||Übung:Grundkurs Chinesisch Ib||2|||||||||||||||
-|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1||||2|5|2,5|||||||||Klausur (90 Min.)|1|
-||Seminar: Einführung in die<br>chinesische Kulturgeschichte 2||||2||2,5|||||||||||
-|Modernes Chinesisch 2|Konversationsübung:<br>Grundkurs Chinesisch IIa||6|||10||10||||||||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (10 Min.)|1|
-||Übung: Grundkurs Chinesisch<br>IIb|||||||||||||||||
-||||2|||||||||||||||
-|||||||||||||||||||
-|Staat und Gesellschaft<br>Chinas|Seminar||||2|5||5||||||||Hausarbeit (8-12 Seiten<br>= ca. 3.400-5.200<br>Worte) mit Referat<br>(10-15 Min.)|1|
-|Modernes Chinesisch 3|Konversationsübung:<br>Aufbaukurs Chinesisch IIIa||4|||10|||10|||||||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (15 Min.)|1|
-||Übung:<br>Aufbaukurs Chinesisch IIIb||2|||||||||||||||
-|Modernes Chinesisch:<br>Kommunikative Kompetenz|Konversationsübung:<br>Komponente »Kommunikative<br>Kompetenz« des Chinese<br>Language Proficiency Test HSK||3<br>+<br>3|||10|||5|5||||||Klausur (90 Min.)|0|
-|Klassisches Chinesisch im<br>Lehramt|Übung: Klassisches Chinesisch||4|||5|||||5|||||Klausur (90 Min.)|1|
-|Modernes Chinesisch:<br>Grammatische Strukturen|Übung:<br>Komponente »Grammatische<br>Grundlegung« des Chinese<br>Language Proficiency Test HSK||2<br>+<br>2|||5|||||2,5|2,5||||Klausur (90 Min.)|0|
-|Modernes Chinesisch 4|Konversationsübung<br>Vertiefungskurs Chinesisch||3|||5||||||5||||Klausur (120 Min.)|1|
-|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs Chinesisch||4|||5|||||||5|||Klausur (120 Min.)|1|
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br> <br> <br>|Ge-<br>samt<br>|<br> <br>|Workloa<br>|d-Verteilung<br>in ECTS-Pu<br> <br>|pro Semester<br>nkten<br>Art und Umfang der<br>Prüfung/Studien-<br><br> <br> <br> <br>|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S|ECTS|1.<br>2.|3.|4.<br>5.|leistung<br>6.<br>7.<br>8.<br>9.|note|
+|Modernes Chinesisch 1|Konversationsübung:<br>Grundkurs Chinesisch Ia<br>Übung:Grundkurs Chinesisch Ib|6<br>2|10|10|||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (10 Min.)|1|
+|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1<br>Seminar: Einführung in die<br>chinesische Kulturgeschichte 2|2<br>2|5|2,5<br>2,5|||Klausur (90 Min.)|1|
+|Modernes Chinesisch 2|Konversationsübung:<br>Grundkurs Chinesisch IIa<br>Übung: Grundkurs Chinesisch<br>IIb|6<br>2|10|10|||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (10 Min.)|1|
+|Staat und Gesellschaft<br>Chinas|Seminar|2|5|5|||Hausarbeit (8-12 Seiten<br>= ca. 3.400-5.200<br>Worte) mit Referat<br>(10-15 Min.)|1|
+|Modernes Chinesisch 3|Konversationsübung:<br>Aufbaukurs Chinesisch IIIa<br>Übung:<br>Aufbaukurs Chinesisch IIIb<br>Kiüb|4<br>2|10||10||70% Klausur (120 Min.)<br>30% mündliche<br>Prüfung (15 Min.)|1|
+|Modernes Chinesisch:<br>Kommunikative Kompetenz|onversatonsung:<br>Komponente »Kommunikative<br>Kompetenz« des Chinese<br>Language Proficiency Test HSK|3<br>+<br>3|10||5|5|Klausur (90 Min.)|0|
+|Klassisches Chinesisch im<br>Lehramt|Übung: Klassisches Chinesisch|4|5|||5|Klausur (90 Min.)|1|
+|Modernes Chinesisch:<br>Grammatische Strukturen|Übung:<br>Komponente »Grammatische<br>Grundlegung« des Chinese<br>Language Proficiency Test HSK|2<br>+<br>2|5|||2,5|2,5<br>Klausur (90 Min.)|0|
+|Modernes Chinesisch 4|Konversationsübung<br>Vertiefungskurs Chinesisch|3|5||||5<br>Klausur (120 Min.)|1|
+|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs Chinesisch|4|5||||5<br>Klausur (120 Min.)|1|
 
 3 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Ge-<br>samt||Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester||Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||in ECTS-Punkten||||||Prüfung/Studien-||
-|||||||||||||||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|<br>leistung||
-|Konfuzianische Traditionen<br>im Wandel|Hauptseminar||||2|5|||||2,5|||||50 % Rezension<br>(10 Seiten) und<br>50 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)|1|
-||Hauptseminar||||2|||||||2,5||||||
-|Sprachpraxis|Übung||2|||10|||||||2|||60% Klausur (45 Min.)<br>40% mündliche<br>Prüfung (15 Min.)|1|
-||Übung||2|||||||||||8||||
-|Staat und Gesellschaft im<br>konfuzianischen Denken|Hauptseminar||||2|5||||||||5||Hausarbeit<br>(12-16 Seiten = ca.<br>5.100-6.900 Worte) mit<br>Referat (20-30 Min.)|1|
-|Sprache und Literatur|Seminar||||2||||||||||3|||
-|Chinas|Übung||2|||5|||||||||2|Essay (5-8 Seiten)|1|
-||Summe:||49||14|95|15|15|15|5|10|10|7|13|5|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Ge-<br>samt<br>||Workloa|d-Ver<br>in EC|teilung<br>TS-Pu|pro Se<br>nkten|mester|Art und Umfang der<br>Prüfung/Studien-|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S|ECTS|1.<br>2.|3.|4.|5.|6.|7.<br>8.<br>9.|leistung|note|
+|Konfuzianische Traditionen|Hauptseminar|2|||||2,5|||50 % Rezension<br>(10 Seiten) und<br>||
+|<br>im Wandel|Hauptseminar|2|5|||||2,5||50 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)|1|
+|Sprachpraxis|Übung<br>Übung|2<br>2|10||||||2<br>8|60% Klausur (45 Min.)<br>40% mündliche<br>Prüfung (15 Min.)|1|
+|Staat und Gesellschaft im<br>konfuzianischen Denken|Hauptseminar|2|5||||||5|Hausarbeit<br>(12-16 Seiten = ca.<br>5.100-6.900 Worte) mit<br>Referat (20-30 Min.)|1|
+|Sprache und Literatur|Seminar|2|5||||||3|E 58 Sit|1|
+|Chinas|Übung|2|||||||2|ssay (- een)||
+||Summe:|49<br>14|95|15<br>15|15|5|10|10|7<br>13<br>5|||
 
 “ 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AES-FPO%20MA-SIM.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:33+00:00
-page_count_chars: 2595
+scraped_at: 2026-07-01T11:33:32+00:00
+page_count_chars: 2611
 ---
 
 # 4. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 2595
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AES-FPO%20MA-SIM.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
 
 Vom 4. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Masterstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg vom 28. November 2006, geändert durch Satzung vom 25. Juli 2008, wird wie folgt geändert: 
 
@@ -30,13 +30,13 @@ Die Fachprüfungsordnung für den Masterstudiengang Systeme der Informations- un
 
 4. § 9 wird wie folgt geändert: 
 
-   - a) Vor dem Wort „In“ wir die hochgestellte Zahl „[1] “ als Satznummerierung angefügt. 
+   - a) Vor dem Wort „In“ wir die hochgestellte Zahl „<sup>1</sup> “ als Satznummerierung angefügt. 
 
    - b) In Satz 1 wird das Wort „Leistungspunkte“ durch das Wort „ECTS-Punkte“ ersetzt. 
 
    - c) Es wird folgender neuer Satz 2 angefügt: 
 
-      - „[2] Für Lehrveranstaltungen, für die zum Zeitpunkt der Teilnahme noch keine Zuweisung von ECTS-Punkten durch eine Studienkommission erfolgt ist, wird dabei für Vorlesungen, Übungen und Seminare der Wert 1,25* Semesterwochenstundenzahl verwendet.“. 
+      - „<sup>2</sup> Für Lehrveranstaltungen, für die zum Zeitpunkt der Teilnahme noch keine Zuweisung von ECTS-Punkten durch eine Studienkommission erfolgt ist, wird dabei für Vorlesungen, Übungen und Seminare der Wert 1,25* Semesterwochenstundenzahl verwendet.“. 
 
 5. In Anlage 2 – Studien- und Prüfungsleistungen gemäß § 5 werden in dem Text über der Tabelle in der Klammer, die Wörter „LP = Leistungspunkte, 1 LP“ durch die Wörter „ECTS- Punkte = European Credit Transfer System-Punkte, 1 ECTS“ ersetzt. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO%20BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:04+00:00
-page_count_chars: 1971
+scraped_at: 2026-07-01T11:29:42+00:00
+page_count_chars: 1973
 ---
 
 # 10. Juli 2008
@@ -12,9 +12,9 @@ page_count_chars: 1971
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO%20BA%20MA-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
 
-Vom 10. Juli 2008 
+## Vom 10. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 

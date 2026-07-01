@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Arbeitsmarkt und Personal FPOAuP 20210726 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/Aenderungssatzungen/MSc_Arbeitsmarkt_und_Personal_FPOAuP_20210726_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:33:59+00:00
-page_count_chars: 3522
+scraped_at: 2026-07-01T11:00:06+00:00
+page_count_chars: 3548
 ---
 
 # MSc Arbeitsmarkt und Personal FPOAuP 20210726 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 3522
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/Aenderungssatzungen/MSc_Arbeitsmarkt_und_Personal_FPOAuP_20210726_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAuP –** 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAuP –** 
 
-## **Vom 26. Juli 2021** 
+# **Vom 26. Juli 2021** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -26,18 +26,17 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 2. In § 5 wird nach Abs. 5 folgender neuer Abs. 6 angefügt: 
 
-„(6)[1] Die zehnte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Personalmanagement“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen im Modul „Personalmanagement“ in der Fassung der neunten Änderungssatzung vom 31. Juli 2020 werden letztmals im Sommersemester 2022 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die Studierenden, die das Modul „Personalmanagement“ noch nicht abgeschlossen haben, in der dann gültigen Fassung dieser Studien- und Prüfungsordnung ab.“ 
+„(6)<sup>1</sup> Die zehnte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Personalmanagement“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen im Modul „Personalmanagement“ in der Fassung der neunten Änderungssatzung vom 31. Juli 2020 werden letztmals im Sommersemester 2022 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die Studierenden, die das Modul „Personalmanagement“ noch nicht abgeschlossen haben, in der dann gültigen Fassung dieser Studien- und Prüfungsordnung ab.“ 
 
 1 
 
-## 3. Die **Anlage** wird wie folgt geändert: 
+# 3. Die **Anlage** wird wie folgt geändert: 
 
-## a) Zeilen 5 und 6 (Module Personalpsychologie und Personalmanagement) erhalten folgende neue Fassung: 
+# a) Zeilen 5 und 6 (Module Personalpsychologie und Personalmanagement) erhalten folgende neue Fassung: 
 
-|„|||||||||
-|---|---|---|---|---|---|---|---|---|
-|**Personalpsychologie**|vgl. FPO MSc Sozialökonomik|5|5||||vgl. FPO MSc Sozialökonomik|1|
-|**Personalmanagement**|vgl. FPO MSc Management|5|5||||vgl. FPO MSc Management|1|
+|„<br>**Personalpsychologie**|vgl. FPO MSc Sozialökonomik|5|5|vgl. FPO MSc Sozialökonomik<br>1|
+|---|---|---|---|---|
+|**Personalmanagement**|vgl. FPO MSc Management|5|5|vgl. FPO MSc Management<br>1|
 
 “ 
 
@@ -47,9 +46,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
 2 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Personalmanagement“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen im Modul „Personalmanagement“ in der Fassung der neunten Änderungssatzung vom 31. Juli 2020 werden letztmals im Sommersemester 2022 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die Studierenden, die das Modul „Personalmanagement“ noch nicht abgeschlossen haben, in der dann gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Personalmanagement“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen im Modul „Personalmanagement“ in der Fassung der neunten Änderungssatzung vom 31. Juli 2020 werden letztmals im Sommersemester 2022 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die Studierenden, die das Modul „Personalmanagement“ noch nicht abgeschlossen haben, in der dann gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 14. Juli 2021 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 26. Juli 2021. 
 

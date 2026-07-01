@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Januar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_IIS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:04+00:00
-page_count_chars: 8706
+scraped_at: 2026-07-01T11:04:06+00:00
+page_count_chars: 8760
 ---
 
 # 18. Januar 2016
@@ -14,15 +14,15 @@ page_count_chars: 8706
 
 **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
 
-## Vom 18. Januar 2016 
+# Vom 18. Januar 2016 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2 und 3 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) und § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS - vom 8. Juli 2010, zuletzt geändert durch Satzung vom 5. Juni 2014, wird wie folgt geändert: 
 
-## 1. § 1 wird wie folgt geändert: 
+# 1. § 1 wird wie folgt geändert: 
 
    - a) Die Worte „Allgemeine Prüfungsordnung“ werden durch das Wort „Rahmenprüfungsordnung“ ersetzt. 
 
@@ -46,15 +46,15 @@ aa) Der bisherige Wortlaut wird Satz 1 und wie folgt geändert:
 
    - (3) In der Nr. 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - (4) In der Nr. 2 werden die Zahl „85“ durch die Zahl „95“ sowie die Worte „B2[+] “ durch die Worte „C1“ ersetzt. 
+   - (4) In der Nr. 2 werden die Zahl „85“ durch die Zahl „95“ sowie die Worte „B2<sup>+</sup> “ durch die Worte „C1“ ersetzt. 
 
 - bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 angefügt: 
 
-   - „[2] Abweichend von Satz 1 Nr. 2 und Nr. 3 können Bewerberinnen bzw. Bewerber auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie einen Nachweis über englische 
+   - „<sup>2</sup> Abweichend von Satz 1 Nr. 2 und Nr. 3 können Bewerberinnen bzw. Bewerber auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie einen Nachweis über englische 
 
 1 
 
-Sprachkenntnisse mit mindestens dem Niveau TOEFL iBT 80 (entspricht Niveau B2, GER) oder vergleichbare Nachweise sowie einen Nachweis über deutsche Sprachkenntnisse mit mindestens dem Niveau A1 nach dem „Common European Framework of the European Council“ oder vergleichbare Nachweise vorweisen können; der Nachweis über die nach Satz 1 Nr. 2 und 3 erforderlichen Sprachkenntnisse ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen.[3] Die Zulassung zum Masterstudium erfolgt unter Vorbehalt.“ 
+Sprachkenntnisse mit mindestens dem Niveau TOEFL iBT 80 (entspricht Niveau B2, GER) oder vergleichbare Nachweise sowie einen Nachweis über deutsche Sprachkenntnisse mit mindestens dem Niveau A1 nach dem „Common European Framework of the European Council“ oder vergleichbare Nachweise vorweisen können; der Nachweis über die nach Satz 1 Nr. 2 und 3 erforderlichen Sprachkenntnisse ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen.<sup>3</sup> Die Zulassung zum Masterstudium erfolgt unter Vorbehalt.“ 
 
 - b) Abs. 3 wird wie folgt geändert: 
 
@@ -80,35 +80,35 @@ bb) In Satz 2 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt
 
    - a) Satz 1 Nr. 1 erhält folgende Fassung: 
 
-## „1. Bereich **Customized Introduction to International Information Systems** : 
+# „1. Bereich **Customized Introduction to International Information Systems** : 
 
-## **(Management I und II oder Informatics I und II)** 
+# **(Management I und II oder Informatics I und II)** 
 
-- a) Management I 
+   - a) Management I 
 
-   - i) Foundations of International Management I (5 ECTS-Punkte) 
+      - i) Foundations of International Management I (5 ECTS-Punkte) 
 
-   - ii) Foundations of International Management II (5 ECTS-Punkte) 
+      - ii) Foundations of International Management II (5 ECTS-Punkte) 
 
-- b) Management II (choose 2 out of 3) 
+   - b) Management II (choose 2 out of 3) 
 
-   - i) E-Business Strategy and Networking (5 ECTS-Punkte) 
+      - i) E-Business Strategy and Networking (5 ECTS-Punkte) 
 
-   - ii) Case Solving Seminar (5 ECTS-Punkte) 
+      - ii) Case Solving Seminar (5 ECTS-Punkte) 
 
-   - iii) Case Writing Seminar (5 ECTS-Punkte) 
+      - iii) Case Writing Seminar (5 ECTS-Punkte) 
 
-- c) Informatics I 
+   - c) Informatics I 
 
-   - Algorithmen und Datenstrukturen (10 ECTS-Punkte) 
+      - Algorithmen und Datenstrukturen (10 ECTS-Punkte) 
 
-- d) Informatics II (choose either ii or iii) 
+   - d) Informatics II (choose either ii or iii) 
 
-   - i) Konzeptionelle Modellierung (5 ECTS-Punkte) 
+      - i) Konzeptionelle Modellierung (5 ECTS-Punkte) 
 
-   - ii) Praktische Softwaretechnik (5 ECTS-Punkte) **oder** 
+      - ii) Praktische Softwaretechnik (5 ECTS-Punkte) **oder** 
 
-iii) Software Development in Large Projects (5 ECTS-Punkte)” 
+      - iii) Software Development in Large Projects (5 ECTS-Punkte)” 
 
 - b) Satz 2 wird wie folgt geändert: 
 
@@ -122,52 +122,51 @@ cc)  Die Übersichtstabelle Studienverlauf in der Anlage erhält folgende Fassun
 
 „ 
 
-|||||Sem. 1|Sem. 2|<br>Sem. 3|<br>Sem. 4|<br>|
-|---|---|---|---|---|---|---|---|---|
-|**Modules**|||ECTS|<br>ECTS|ECTS|ECTS|ECTS||
-|**Customized Introduction to International Information Systems**<br>**(Management I and II orInformatics I and II)**|||||||||
-||||||||||
-|**Management I**|||||||||
-|Foundations of International Management I||BWL|5|5|||||
-|Foundations of International Management II||BWL|5|5|||||
-|**Management II(choose 2 out of 3)**|||||||||
-|E-Business Strategyand Networking||WI|5|5|||||
-|Case SolvingSeminar||WI|5|5|||||
-|Case WritingSeminar||WI|5|5|||||
-|**Informatics I**|||||||||
-|Algorithmen und Datenstrukturen||INF|10|10|||||
-|**Informatics II**|||||||||
-|Konzeptionelle Modellierung||INF|5|5|||||
-|Praktische Softwaretechnik||INF|5|5|||||
-|Software Development in Large Projects|**or**|INF|5|5|||||
-|**Foreign Language Skills**|||||||||
-|Foreign Language Skills||NN|5|5|||||
-|**International Information Systems Management(IISM)**|||||||||
-|**Core  Courses(Kernbereich)1)**||**WI**|**15**||||||
-|Modulbereich: Innovation and Value Creation I||WI|5|5|||||
-|Modulbereich: Services,Processes and Intelligence I||WI|5||5||||
-|Modulbereich: IT Management I||WI|5||5||||
-|**Electives(Wahlpflichtbereich)2)**||**WI**|**15**||||||
-|Modulbereich: Innovation  and Value Creation II||WI|0-15||0-15|0-15|||
-|Modulbereich: Services,Processes and Intelligence II||WI|0-15||0-15|0-15|||
-|Modulbereich: IT Management II||WI|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**||WI|0-15|||0-15|||
-|**Informatics**|||||||||
-|**Core Courses(Kernbereich)1)**||**INF**|**15**||||||
-|Modulbereich: Data Management I||INF|5||5||||
-|Modulbereich: Software EngineeringI||INF|5||5||||
-|Modulbereich: Applied Software EngineeringI||INF|5||5||||
-|**Electives(Wahlpflichtbereich)2)**||**INF**|**15**||||||
-|Modulbereich: Data Management II||INF|0-15||0-15|0-15|||
-|Modulbereich: Software EngineeringII||INF|0-15||0-15|0-15|||
-|Modulbereich: Applied Software EngineeringII||INF|0-15||0-15|0-15|||
-|Modulbereich: Extension Courses||INF|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**||INF|0-15|||0-15|||
-|**Seminar**|||||||||
-|Seminar||WI+INF|5|||5|||
-|**Masterarbeit**|||||||||
-|Master Thesis||WI+INF|30||||30||
-|||||30|30|30|30||
+||||Sem. 1|<br>Sem. 2|Sem. 3|<br>Sem. 4|
+|---|---|---|---|---|---|---|
+|**Modules**||ECTS|<br>ECTS|ECTS|ECTS|ECTS|
+|**Customized Introduction to International Information Sy**<br>**(Management I and II orInformatics I and II)**|**stems**||||||
+|**Management I**|||||||
+|Foundations of International Management I|BWL|5|5||||
+|Foundations of International Management II|BWL|5|5||||
+|**Management II(choose 2 out of 3)**|||||||
+|E-Business Strategyand Networking|WI|5|5||||
+|Case SolvingSeminar|WI|5|5||||
+|Case WritingSeminar|WI|5|5||||
+|**Informatics I**|||||||
+|Algorithmen und Datenstrukturen|INF|10|10||||
+|**Informatics II**|||||||
+|Konzeptionelle Modellierung|INF|5|5||||
+|Praktische Softwaretechnik<br>|INF|5|5||||
+|**or**<br>Software Development in Large Projects|INF|5|5||||
+|**Foreign Language Skills**|||||||
+|Foreign Language Skills|NN|5|5||||
+|**International Information Systems Management(IISM)**|||||||
+|**Core  Courses(Kernbereich)**<sup>**1)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation and Value Creation I|WI|5|5||||
+|Modulbereich: Services,Processes and Intelligence I|WI|5||5|||
+|Modulbereich: IT Management I|WI|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation  and Value Creation II|WI|0-15||0-15|0-15||
+|Modulbereich: Services,Processes and Intelligence II|WI|0-15||0-15|0-15||
+|Modulbereich: IT Management II<br>|WI|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|WI|0-15|||0-15||
+|**Informatics**|||||||
+|**Core Courses(Kernbereich)**<sup>**1)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management I|INF|5||5|||
+|Modulbereich: Software EngineeringI|INF|5||5|||
+|Modulbereich: Applied Software EngineeringI|INF|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management II|INF|0-15||0-15|0-15||
+|Modulbereich: Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Applied Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Extension Courses|INF|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|INF|0-15|||0-15||
+|**Seminar**|||||||
+|Seminar|WI+IN|F 5|||5||
+|**Masterarbeit**|||||||
+|Master Thesis|WI+IN|F 30||||30|
+||||30|30|30|30|
 
 1) Innerhalb des Kernbereichs müssen pro Modulbereich verpflichtend Module im Umfang von 5 ECTS-Punkten absolviert werden. (Ggf.) Auswahl von Modulen im Umfang von 5 ECTS-Punkten gemäß Modulhandbuch. Modu- 
 
@@ -179,7 +178,7 @@ le, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Cu
 
 3) In Absprache mit der Studiengangskoordinatorin bzw. dem Studiengangskoordinator (Learning Agreement) können inhaltlich zum Wahlpflichtbereich passende Veranstaltungen auf Master-Niveau im Umfang von bis zu max. 15 ECTS-Punkte an einer ausländischen Universität erworben werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2016/2017 aufnehmen werden. 
 

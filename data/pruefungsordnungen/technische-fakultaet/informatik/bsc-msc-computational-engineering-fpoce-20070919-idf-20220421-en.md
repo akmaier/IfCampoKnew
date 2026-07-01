@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/englisch/BSc-MSc_Computational_Engineering_FPOCE_20070919_idF_20220421_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:09+00:00
-page_count_chars: 52568
+scraped_at: 2026-07-01T11:34:58+00:00
+page_count_chars: 50577
 ---
 
 # BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf
@@ -18,11 +18,11 @@ page_count_chars: 52568
 
 These degree program and examination regulations apply to students who start a Bachelor’s or Master’s degree program in Computational Engineering **from** the winter semester 2007/08. 
 
-Students who started a Master’s degree program **before that** or who are starting in the winter semester 2007/08 may choose to be examined either according to these degree program and examination regulations or according to the **previous version of the degree program and examination regulations** - - ( http://www.uni erlangen.de/universitaet/organisation/recht/studiensatzungen/TECH FAK/FPO_CompEngineering_ALT.pdf ). 
+Students who started a Master’s degree program **before that** or who are starting in the winter semester 2007/08 may choose to be examined either according to these degree program and examination regulations or according to the **previous version of the degree program and examination regulations** - - <u>( http://www.uni erlangen.de/universitaet/organisation/recht/studiensatzungen/TECH FAK/FPO_CompEngineering_ALT.pdf</u> ). 
 
 Students who started their studies before the latest amendment came into effect are requested to also comply with previous amendments and the respective transitory provisions. 
 
-## **Degree Program and Examination Regulations for the Bachelor’s and Master’s degree programs in Computational Engineering at the Faculty of Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCE –** 
+# **Degree Program and Examination Regulations for the Bachelor’s and Master’s degree programs in Computational Engineering at the Faculty of Engineering, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCE –** 
 
 ## **dated September 19, 2007** 
 
@@ -32,7 +32,43 @@ Based on Section 13 (1)(2), Section 43 (4) and (5), Section 58 (1) and Section 6
 
 1 
 
-**Contents: Part I: General Provisions** ................................................................................................... 2 Section 35 Scope .................................................................................................................. 2 Section 36 Bachelor’s Degree Program, Standard Duration of Studies, ................................ 3 Related Degree Programs ..................................................................................................... 3 Section 37 Master’s Degree Program, Standard Duration of Studies, Start of Degree Program, .................................................................................................................... 3 Related Degree Programs ..................................................................................................... 3 Section 38 Teaching Languages and International Orientation .............................................. 3 Section 39 Technical Application Fields ................................................................................ 3 Section 40 ............................................................................................................................. 4 [revoked] ............................................................................................................................... 4 Section 40a Catalogs of Elective Modules ............................................................................. 4 **Part II: Special Provisions for the Bachelor’s Degree Program** ....................................... 5 Section 41 Choice of Technical Application Field, Elective Engineering Modules and Key Qualifications ............................................................................................................. 5 Section 41a Technical Application Fields in the Bachelor’s Degree Program ........................ 5 Section 41b Elective Engineering Modules ............................................................................ 6 Section 42 Scope of the Grundlagen- und Orientierungsprüfung ........................................... 6 Section 43 Scope of the Bachelor’s Degree Program ............................................................ 6 Section 44 Bachelor’s Degree Examinations ......................................................................... 7 Section 45 Bachelor’s Thesis ................................................................................................ 7 Section 46 Evaluation of Achievements for the Bachelor’s Degree Program ......................... 8 **Part III: Special Provisions for the Master’s Degree Program** .......................................... 8 Section 47 Choice of Technical Application Field .................................................................. 8 Section 47a Technical Application Fields in the Master’s Degree Program ............................ 8 Section 48 Qualification for a Master’s Degree, Certificates and ........................................... 9 Admission Requirements ....................................................................................................... 9 Section 49 Scope of the Master’s Degree Program ..............................................................10 Section 50 Master’s Degree Examinations ...........................................................................11 Section 51 Requirements for Admission to Master’s Thesis .................................................11 Section 52 Master’s Thesis...................................................................................................11 Section 53 Evaluation of Achievements for the Master’s Degree Program ...........................11 **Part IV: Concluding Provisions** .........................................................................................12 Section 54 Legal Validity and Transitory Provisions .............................................................12 Appendix 1: Structure of the Bachelor’s Degree Program .....................................................13 Appendix 2: Compulsory Modules for Technical Application Fields ......................................15 Appendix 3: Structure of the Master’s Degree Program ........................................................18 
+|**Contents:**|
+|---|
+|**Part I: General Provisions**................................................................................................... 2|
+|Section 35 Scope .................................................................................................................. 2|
+|Section 36 Bachelor’s Degree Program, Standard Duration of Studies, ................................ 3|
+|Related Degree Programs ..................................................................................................... 3|
+|Section 37 Master’s Degree Program, Standard Duration of Studies, Start of Degree<br>Program, .................................................................................................................... 3|
+|Related Degree Programs ..................................................................................................... 3|
+|Section 38 Teaching Languages and International Orientation .............................................. 3<br>|
+|Section 39 Technical Application Fields ................................................................................ 3|
+|Section 40 ............................................................................................................................. 4|
+|[revoked] ............................................................................................................................... 4|
+|Section 40a Catalogs of Elective Modules ............................................................................. 4|
+|**Part II: Special Provisions for the Bachelor’s Degree Program**....................................... 5<br>|
+|Section 41 Choice of Technical Application Field, Elective Engineering Modules and Key<br>Qualifications ............................................................................................................. 5|
+|Section 41a Technical Application Fields in the Bachelor’s Degree Program ........................ 5|
+|Section 41b Elective Engineering Modules ............................................................................ 6|
+|Section 42 Scope of the Grundlagen- und Orientierungsprüfung ........................................... 6|
+|Section 43 Scope of the Bachelor’s Degree Program ............................................................ 6|
+|Section 44 Bachelor’s Degree Examinations ......................................................................... 7|
+|Section 45 Bachelor’s Thesis ................................................................................................ 7|
+|Section 46 Evaluation of Achievements for the Bachelor’s Degree Program ......................... 8|
+|**Part III: Special Provisions for the Master’s Degree Program**.......................................... 8|
+|Section 47 Choice of Technical Application Field .................................................................. 8|
+|Section 47a Technical Application Fields in the Master’s Degree Program ............................ 8|
+|Section 48 Qualification for a Master’s Degree, Certificates and ........................................... 9|
+|Admission Requirements ....................................................................................................... 9|
+|Section 49 Scope of the Master’s Degree Program ..............................................................10|
+|Section 50 Master’s Degree Examinations ...........................................................................11|
+|Section 51 Requirements for Admission to Master’s Thesis .................................................11|
+|Section 52 Master’s Thesis...................................................................................................11|
+|Section 53 Evaluation of Achievements for the Master’s Degree Program ...........................11|
+|**Part IV: Concluding Provisions**.........................................................................................12|
+|<br>Section 54 Legal Validity and Transitory Provisions .............................................................12|
+|Appendix 1: Structure of the Bachelor’s Degree Program .....................................................13|
+|Appendix 2: Compulsory Modules for Technical Application Fields ......................................15|
+|Appendix 3: Structure of the Master’s Degree Program ........................................................18|
 
 ## **Part I: General Provisions** 
 
@@ -44,17 +80,15 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 ## **Section 36 Bachelor’s Degree Program, Standard Duration of Studies, Related Degree Programs** 
 
-(1)[1] The degree program consists of the orientation phase (Grundlagen- und Orientierungsphase), which consists of the modules of the first two semesters, and the Bachelor’s phase, which consists of the remaining modules until the end of the standard duration of studies.[2] The modules and program structure can be found in **Appendix 1** . 
+(1)<sup>1</sup> The degree program consists of the orientation phase (Grundlagen- und Orientierungsphase), which consists of the modules of the first two semesters, and the Bachelor’s phase, which consists of the remaining modules until the end of the standard duration of studies.<sup>2</sup> The modules and program structure can be found in **Appendix 1** . 
 
 (2) The standard duration of the Bachelor’s degree program is six semesters. 
 
 (3) The provisions in Section 24 (1)(2)(2) **ABMPO/TechFak** do not apply to related degree programs. 
 
-## **Section 37 Master’s Degree Program, Standard Duration of Studies, Start of Degree Program,** 
+## **Section 37 Master’s Degree Program, Standard Duration of Studies, Start of Degree Program, Related Degree Programs** 
 
-## **Related Degree Programs** 
-
-(1)[1] The standard duration of the Master’s degree program is four semesters.[2] The modules and program structure can be found in **Appendix 3** . 
+(1)<sup>1</sup> The standard duration of the Master’s degree program is four semesters.<sup>2</sup> The modules and program structure can be found in **Appendix 3** . 
 
 (2) The Master’s degree program may be started in the winter semester or in the summer semester. 
 
@@ -62,13 +96,13 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 ## **Section 38 Teaching Languages and International Orientation** 
 
-1The degree program in Computational Engineering is bilingual. 2The teaching units are usually held in German in the first four semesters of the Bachelor’s degree program, in German or in English in the fifth and sixth semesters (depending on the modules chosen), and usually in English in the Master’s degree program (first to fourth semesters).[3] Further details are stipulated in the module handbook.[4] The language of oral and written examinations shall correspond to the teaching language.[5] The Bachelor’s thesis may be written in English.[6] The Master’s thesis shall usually be written in English.[7] The degree certificate and final academic record shall be issued in German and English. 
+1The degree program in Computational Engineering is bilingual. 2The teaching units are usually held in German in the first four semesters of the Bachelor’s degree program, in German or in English in the fifth and sixth semesters (depending on the modules chosen), and usually in English in the Master’s degree program (first to fourth semesters).<sup>3</sup> Further details are stipulated in the module handbook.<sup>4</sup> The language of oral and written examinations shall correspond to the teaching language.<sup>5</sup> The Bachelor’s thesis may be written in English.<sup>6</sup> The Master’s thesis shall usually be written in English.<sup>7</sup> The degree certificate and final academic record shall be issued in German and English. 
 
 ## **Section 39 Technical Application Fields** 
 
-(1)[1] Several technical application fields are offered as part of the Bachelor’s and Master’s degree programs in Computational Engineering.[2] There is a representative for every technical application field.[3] The Degree Program Committee for CE shall appoint the representatives for the technical application fields. 
+(1)<sup>1</sup> Several technical application fields are offered as part of the Bachelor’s and Master’s degree programs in Computational Engineering.<sup>2</sup> There is a representative for every technical application field.<sup>3</sup> The Degree Program Committee for CE shall appoint the representatives for the technical application fields. 
 
-(2)[1] The first learning outcome of the technical application field is to allow students to specialize in a focus area pursuant to Section 41a or, respectively, Section 47a.[2] The second learning outcome has a research focus, with students learning subject-related methods of research and exploring their subject in more depth.[3] Thirdly, the element of choice allows students to tailor their profile in view of their career plans.[4] During the Bachelor’s degree program, basic skills and knowledge are acquired in the respective technical application field, whilst more specialized skills with a stronger focus on research are acquired during the Master’s degree program. 
+(2)<sup>1</sup> The first learning outcome of the technical application field is to allow students to specialize in a focus area pursuant to Section 41a or, respectively, Section 47a.<sup>2</sup> The second learning outcome has a research focus, with students learning subject-related methods of research and exploring their subject in more depth.<sup>3</sup> Thirdly, the element of choice allows students to tailor their profile in view of their career plans.<sup>4</sup> During the Bachelor’s degree program, basic skills and knowledge are acquired in the respective technical application field, whilst more specialized skills with a stronger focus on research are acquired during the Master’s degree program. 
 
 3 
 
@@ -78,7 +112,7 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 ## **Section 40a Catalogs of Elective Modules** 
 
-(1)[1] The catalogs of elective modules for the Bachelor’s and Master’s degree programs in Computational Engineering are determined by the CE Degree Program Committee on the basis of the learning outcomes of the respective compulsory elective subject areas.[2] The catalog of elective modules shall be announced in accordance with local practice at least one week before the semester begins.[3] Changes can be made by the Degree Program Committee, to take effect from the following semester. 
+(1)<sup>1</sup> The catalogs of elective modules for the Bachelor’s and Master’s degree programs in Computational Engineering are determined by the CE Degree Program Committee on the basis of the learning outcomes of the respective compulsory elective subject areas.<sup>2</sup> The catalog of elective modules shall be announced in accordance with local practice at least one week before the semester begins.<sup>3</sup> Changes can be made by the Degree Program Committee, to take effect from the following semester. 
 
 (2) The CE Degree Program Committee can choose from the following modules to draw up the catalog of elective modules for the elective engineering modules in the Bachelor’s degree program: 
 
@@ -102,7 +136,7 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 ## **Section 41 Choice of Technical Application Field, Elective Engineering Modules and Key Qualifications** 
 
-(1)[1] Students choose a technical application field by registering for the first examination in a module from the group of compulsory modules in the chosen technical application field.[2] The compulsory modules for the technical application field are stipulated in **Appendix 2** .[3] The module catalog of the elective modules in the technical application field to be chosen pursuant to Section 43 (1)(4) can be amended by the CE Degree Program Committee with effect from the next semester. The module catalog shall be announced in accordance with local practice at the latest one week before the semester begins. 
+(1)<sup>1</sup> Students choose a technical application field by registering for the first examination in a module from the group of compulsory modules in the chosen technical application field.<sup>2</sup> The compulsory modules for the technical application field are stipulated in **Appendix 2** .<sup>3</sup> The module catalog of the elective modules in the technical application field to be chosen pursuant to Section 43 (1)(4) can be amended by the CE Degree Program Committee with effect from the next semester. The module catalog shall be announced in accordance with local practice at the latest one week before the semester begins. 
 
 (2) The choice of the technical application field determines all compulsory modules to be taken in computer science, mathematics and the technical application field. 
 
@@ -124,11 +158,9 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 6. Computational optics 
 
-- (2) The individual technical application fields have the following learning outcomes: 
+- (2) The individual technical application fields have the following learning outcomes: 1. In the technical application field in Automatic control, students acquire skills in the foundations of automatic control for analyzing and regulating dynamic systems. 
 
-1. In the technical application field in Automatic control, students acquire skills in the foundations of automatic control for analyzing and regulating dynamic systems. 
-
-2. In the technical application field in Mechatronics, students acquire skills in the areas of system integration and simulation, actuators and sensors and autonomous systems/robotics. 
+- 2. In the technical application field in Mechatronics, students acquire skills in the areas of system integration and simulation, actuators and sensors and autonomous systems/robotics. 
 
 3. In the technical application field Information technology, students acquire basic skills relating to signal and systems theory and stochastic processes and how they can be applied in digital signal processing and messaging systems. 
 
@@ -138,27 +170,27 @@ The degree program and examination regulations for the Bachelor’s and consecut
 
 6. In the technical application field Computational optics, students acquire skills in the areas of application of modern optics, photonics and quantum phenomena. 
 
-(3)[1] Teaching units in the various technical application fields may take the form of lectures, tutorials, practical modules or an internship.[2] Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and 
+(3)<sup>1</sup> Teaching units in the various technical application fields may take the form of lectures, tutorials, practical modules or an internship.<sup>2</sup> Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and 
 
 5 
 
-practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .[3] Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
+practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .<sup>3</sup> Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
 
 ## **Section 41b Elective Engineering Modules** 
 
-(1)[1] As part of the elective engineering modules, students choose modules from the catalog of elective modules in computer science (Section 40a (2)(1)) and the technical application field chosen pursuant to Section 41 (Section 40a (2)(2)).[2] At least one module must be chosen from each of the two catalogs of elective modules. 
+(1)<sup>1</sup> As part of the elective engineering modules, students choose modules from the catalog of elective modules in computer science (Section 40a (2)(1)) and the technical application field chosen pursuant to Section 41 (Section 40a (2)(2)).<sup>2</sup> At least one module must be chosen from each of the two catalogs of elective modules. 
 
-(2)[1] The first learning outcome of the engineering electives is to allow students to specialize further in the focus area chosen within the context of the technical application field.[2] The second learning outcome has a research focus, with students learning subject-related methods of research and exploring their subject in more depth.[3] Thirdly, the element of choice allows students to tailor their profile in view of their career plans. 
+(2)<sup>1</sup> The first learning outcome of the engineering electives is to allow students to specialize further in the focus area chosen within the context of the technical application field.<sup>2</sup> The second learning outcome has a research focus, with students learning subject-related methods of research and exploring their subject in more depth.<sup>3</sup> Thirdly, the element of choice allows students to tailor their profile in view of their career plans. 
 
-(3)[1] Teaching units in the various elective engineering modules may take the form of lectures, tutorials, practical modules or an internship.[2] Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .[3] Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
+(3)<sup>1</sup> Teaching units in the various elective engineering modules may take the form of lectures, tutorials, practical modules or an internship.<sup>2</sup> Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .<sup>3</sup> Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
 
 ## **Section 42 Scope of the Grundlagen- und Orientierungsprüfung** 
 
-1The preliminary examination (Grundlagen- und Orientierungsprüfung, GOP) according to Section 3 (1)(1) **ABMPO/TechFak** shall have been passed when modules from the first year of studies (first and second semester) worth 30 ECTS credits have been passed.[2] Modules which can be chosen are modules marked “GOP” in **Appendix 1** . 
+1The preliminary examination (Grundlagen- und Orientierungsprüfung, GOP) according to Section 3 (1)(1) **ABMPO/TechFak** shall have been passed when modules from the first year of studies (first and second semester) worth 30 ECTS credits have been passed.<sup>2</sup> Modules which can be chosen are modules marked “GOP” in **Appendix 1** . 
 
 ## **Section 43 Scope of the Bachelor’s Degree Program** 
 
-- (1)[1] The Bachelor’s degree program consists of: 
+- (1)<sup>1</sup> The Bachelor’s degree program consists of: 
 
 1. Compulsory modules in computer science 
 
@@ -174,19 +206,19 @@ practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .[3] Section 6
 
 7. Bachelor’s thesis module (15 ECTS credits) 
 
-according to **Appendix 1** .[2] Differences in the ECTS credits allocated to technical application fields according to (1)(3) caused by the varying scope of the compulsory modules in the respective technical application fields according to **Appendix 2** can be compensated for by taking additional or fewer engineering elective modules as defined in (1)(4). 
+according to **Appendix 1** .<sup>2</sup> Differences in the ECTS credits allocated to technical application fields according to (1)(3) caused by the varying scope of the compulsory modules in the respective technical application fields according to **Appendix 2** can be compensated for by taking additional or fewer engineering elective modules as defined in (1)(4). 
 
-(2)[1] The internship or practical module is worth 10 ECTS credits. The internship shall take the form of eight weeks of vocational practice (industrial internship) completed 
+(2)<sup>1</sup> The internship or practical module is worth 10 ECTS credits. The internship shall take the form of eight weeks of vocational practice (industrial internship) completed 
 
 6 
 
-according to the internship guidelines for the degree program in Computational Engineering before or during the degree program. Alternatively, students may choose a practical module from a catalog of eligible modules from other Bachelor’s degree programs at the Faculty of Engineering.[2] The list of eligible practical modules shall be announced according to local practice one week before the beginning of the lecture period at the latest. 
+according to the internship guidelines for the degree program in Computational Engineering before or during the degree program. Alternatively, students may choose a practical module from a catalog of eligible modules from other Bachelor’s degree programs at the Faculty of Engineering.<sup>2</sup> The list of eligible practical modules shall be announced according to local practice one week before the beginning of the lecture period at the latest. 
 
 ## **Section 44 Bachelor’s Degree Examinations** 
 
 (1) The type and scope of the examinations in the Bachelor’s degree program shall be governed by **Appendix 1** , unless otherwise specified in the following paragraphs. 
 
-(2)[1] The type and scope of the examinations in the compulsory modules in the technical application field are stipulated in **Appendix 2** .[2] The type and scope of the examinations in the elective modules in the technical application field are stipulated in Section 41a (3)(2).[3] The type and scope of the examinations in the engineering elective modules are stipulated in Section 41b (3)(2). 
+(2)<sup>1</sup> The type and scope of the examinations in the compulsory modules in the technical application field are stipulated in **Appendix 2** .<sup>2</sup> The type and scope of the examinations in the elective modules in the technical application field are stipulated in Section 41a (3)(2).<sup>3</sup> The type and scope of the examinations in the engineering elective modules are stipulated in Section 41b (3)(2). 
 
 - (3) The “advanced seminar in the Bachelor’s program” shall be graded and examined as follows: 
 
@@ -196,23 +228,25 @@ according to the internship guidelines for the degree program in Computational E
 
 ## **Section 45 Bachelor’s Thesis** 
 
-(1)[1] The Bachelor’s thesis is intended to enable students to learn to solve computational engineering problems independently.[2] Students are awarded 12 ECTS credits for their Bachelor’s thesis; requirements for the thesis shall be such that it can be completed within five months and with a workload of approximately 360 hours.[3] The results of the Bachelor’s thesis shall be introduced in a presentation lasting approximately 30 minutes (graded, 3 ECTS credits) followed by a discussion.[4] The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Bachelor’s thesis or during the final stage of thesis work.[5] The date shall usually be within four weeks of the date on which the thesis was submitted; students shall be notified of the date at least two weeks in advance.[6] The Bachelor’s thesis shall be graded as set forth in **Appendix 1** . 
+(1)<sup>1</sup> The Bachelor’s thesis is intended to enable students to learn to solve computational engineering problems independently.<sup>2</sup> Students are awarded 12 ECTS credits for their Bachelor’s thesis; requirements for the thesis shall be such that it can be completed within five months and with a workload of approximately 360 hours.<sup>3</sup> The results of the Bachelor’s thesis shall be introduced in a presentation lasting approximately 30 minutes (graded, 3 ECTS credits) followed by a discussion.<sup>4</sup> The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Bachelor’s thesis or during the final stage of thesis work.<sup>5</sup> The date shall usually be within four weeks of the date on which the thesis was submitted; students shall be notified of the date at least two weeks in advance.<sup>6</sup> The Bachelor’s thesis shall be graded as set forth in **Appendix 1** . 
 
-(2)[1] The Bachelor’s thesis shall deal with a scientific subject from the field of computational engineering and shall be written under the supervision of a full-time lecturer from the Faculty of Engineering or the Faculty of Sciences involved in teaching the degree program.[2] Exceptions to the topic and permission to allow full-time lecturers from other faculties to supervise the Bachelor's thesis may be granted by the chair of the Degree Program Committee upon prior written request. 
+(2)<sup>1</sup> The Bachelor’s thesis shall deal with a scientific subject from the field of computational engineering and shall be written under the supervision of a full-time lecturer from the Faculty of Engineering or the Faculty of Sciences involved in teaching the degree program.<sup>2</sup> Exceptions to the topic and permission to allow full-time lecturers from other faculties to supervise the Bachelor's thesis may be granted by the chair of the Degree Program Committee upon prior written request. 
 
-(3)[1] It is recommended that students begin work on the Bachelor’s thesis no earlier than at the beginning of the fifth semester.[2] Admission to the Bachelor’s thesis shall be governed by Section 27 (3)(2) **ABMPO/TechFak** . 
+(3)<sup>1</sup> It is recommended that students begin work on the Bachelor’s thesis no earlier than at the beginning of the fifth semester.<sup>2</sup> Admission to the Bachelor’s thesis shall be governed by Section 27 (3)(2) **ABMPO/TechFak** . 
 
 7 
 
-**Section 46 Evaluation of Achievements for the Bachelor’s Degree Program** (1)[1] The Bachelor’s degree program shall have been passed if all modules stipulated in **Appendix 1** worth 180 ECTS credits have been passed.[2] If an internship is chosen as part of the elective key qualifications, proof must be provided of an eight-week industrial internship recognized by the Internship Office (Praktikumsamt) according to the internship guidelines for the degree program in Computational Engineering. 
+## **Section 46 Evaluation of Achievements for the Bachelor’s Degree Program** 
 
-(2)[1] The overall grade of the Bachelor’s degree shall be calculated from the module grades, not including the elective key qualifications (free choice and internship/practical module).[2] The modules from the orientation phase (semesters 1 and 2) shall be weighted with a value of 0.75 and the modules from the Bachelor’s phase (semesters 3 to 6) shall be weighted with a value of 1.0. 
+(1)<sup>1</sup> The Bachelor’s degree program shall have been passed if all modules stipulated in **Appendix 1** worth 180 ECTS credits have been passed.<sup>2</sup> If an internship is chosen as part of the elective key qualifications, proof must be provided of an eight-week industrial internship recognized by the Internship Office (Praktikumsamt) according to the internship guidelines for the degree program in Computational Engineering. 
+
+(2)<sup>1</sup> The overall grade of the Bachelor’s degree shall be calculated from the module grades, not including the elective key qualifications (free choice and internship/practical module).<sup>2</sup> The modules from the orientation phase (semesters 1 and 2) shall be weighted with a value of 0.75 and the modules from the Bachelor’s phase (semesters 3 to 6) shall be weighted with a value of 1.0. 
 
 ## **Part III: Special Provisions for the Master’s Degree Program** 
 
 ## **Section 47 Choice of Technical Application Field** 
 
-1Students shall declare their choice of technical application field to the Examinations Office in writing before registering for the first examination.[2] Students shall choose modules from the module catalog for their chosen technical application field as stipulated in **Appendix 3** .[3] Section 41 (3) shall apply accordingly. 
+1Students shall declare their choice of technical application field to the Examinations Office in writing before registering for the first examination.<sup>2</sup> Students shall choose modules from the module catalog for their chosen technical application field as stipulated in **Appendix 3** .<sup>3</sup> Section 41 (3) shall apply accordingly. 
 
 ## **Section 47a Technical Application Fields in the Master’s Degree Program** 
 
@@ -236,9 +270,7 @@ according to the internship guidelines for the degree program in Computational E
 
 9. Computational material science 
 
-- (2) The individual technical application fields have the following learning outcomes: 
-
-1. In the technical application field in Automatic control, students acquire skills in the application areas of analysis and control of nonlinear systems, optimal or modelpredictive control and machine learning processes, in particular with reference to mechatronics and robotics. 
+- (2) The individual technical application fields have the following learning outcomes: 1. In the technical application field in Automatic control, students acquire skills in the application areas of analysis and control of nonlinear systems, optimal or modelpredictive control and machine learning processes, in particular with reference to mechatronics and robotics. 
 
 2. In the technical application field in Mechatronics, students acquire skills in the areas of system integration and simulation, actuators and sensors and autonomous systems/robotics. 
 
@@ -258,13 +290,13 @@ according to the internship guidelines for the degree program in Computational E
 
 9. In the technical application field Computational materials science, students acquire skills in simulating mechanical properties – including atomistic methods, continuum theories and FEM techniques. 
 
-(3)[1] Teaching units in the various technical application fields may take the form of lectures, tutorials, practical modules or an internship.[2] Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .[3] Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
+(3)<sup>1</sup> Teaching units in the various technical application fields may take the form of lectures, tutorials, practical modules or an internship.<sup>2</sup> Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (20 to 30 minutes), seminar achievement, tutorial achievement and practical achievement pursuant to Section 6 (3) **ABMPO/TechFak** .<sup>3</sup> Section 6 (2)(3) **ABMPO/TechFak** stipulates that in justified exceptional circumstances, combinations of the individual achievements stated in sentence 2 may also be possible. 
 
 ## **Section 48 Qualification for a Master’s Degree, Certificates and Admission Requirements** 
 
-(1)[1] A subject-specific degree within the meaning of Section 29(1)(1) **ABMPO/TechFak** is a Bachelor’s degree in Computational Engineering.[2] According to paragraph (5)(4) **Appendix 1 ABMPO/TechFak** , applicants with a different degree to that specified in sentence 1 but in a related subject (degrees in applied mathematics, physics, computer science or engineering) may only be admitted to the Master’s degree program by passing the admission examination according to (4). 
+(1)<sup>1</sup> A subject-specific degree within the meaning of Section 29(1)(1) **ABMPO/TechFak** is a Bachelor’s degree in Computational Engineering.<sup>2</sup> According to paragraph (5)(4) **Appendix 1 ABMPO/TechFak** , applicants with a different degree to that specified in sentence 1 but in a related subject (degrees in applied mathematics, physics, computer science or engineering) may only be admitted to the Master’s degree program by passing the admission examination according to (4). 
 
-- (2)[1] The following additional documents as defined in paragraph (2)(4) of **Appendix 1 ABMPO/TechFak** shall be required: 
+- (2)<sup>1</sup> The following additional documents as defined in paragraph (2)(4) of **Appendix 1 ABMPO/TechFak** shall be required: 
 
 1. proof of English language proficiency according to sentence 2 
 
@@ -304,9 +336,9 @@ whereby at least 20 ECTS credits must be acquired for each group of compulsory e
 
 3. the Master’s thesis module (30 ECTS credits) according to **Appendix 3** . 
 
-(2)[1] During the compulsory elective modules in computer science, students acquire skills in pattern recognition, visual computing, system simulation, high-performance computing and computer architecture.[2] Students shall select modules from the module catalog pursuant to Section 40a (3) as stipulated in (1) and **Appendix 3** .[3] Teaching units may take the form of lectures, tutorials, practical modules or an internship.[4] Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (30 minutes), practical achievement or course achievement (ungraded) or a combination of the above in cases covered by Section 6 (2)(3) **ABMPO/TechFak** . 
+(2)<sup>1</sup> During the compulsory elective modules in computer science, students acquire skills in pattern recognition, visual computing, system simulation, high-performance computing and computer architecture.<sup>2</sup> Students shall select modules from the module catalog pursuant to Section 40a (3) as stipulated in (1) and **Appendix 3** .<sup>3</sup> Teaching units may take the form of lectures, tutorials, practical modules or an internship.<sup>4</sup> Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (30 minutes), practical achievement or course achievement (ungraded) or a combination of the above in cases covered by Section 6 (2)(3) **ABMPO/TechFak** . 
 
-(3)[1] In the compulsory elective modules for mathematics, students acquire in particular skills in the areas of mathematical modeling, methods for solving partial differential equations and nonlinear optimization.[2] Students shall select modules from the module catalog pursuant to Section 40a (4) as stipulated in (1) and **Appendix 3** .[3] Teaching units may take the form of lectures, tutorials, practical modules or an internship.[4] Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (30 minutes), practical achievement or course achievement (ungraded) or a combination of the above in cases covered by Section 6 (2)(3) **ABMPO/TechFak** . 
+(3)<sup>1</sup> In the compulsory elective modules for mathematics, students acquire in particular skills in the areas of mathematical modeling, methods for solving partial differential equations and nonlinear optimization.<sup>2</sup> Students shall select modules from the module catalog pursuant to Section 40a (4) as stipulated in (1) and **Appendix 3** .<sup>3</sup> Teaching units may take the form of lectures, tutorials, practical modules or an internship.<sup>4</sup> Examinations can take the form of a written examination (60 to 180 minutes), electronic examination (60 to 180 minutes), oral examination (30 minutes), practical achievement or course achievement (ungraded) or a combination of the above in cases covered by Section 6 (2)(3) **ABMPO/TechFak** . 
 
 (4) Due to the specific subject competencies that must be acquired as part of the learning outcome of the Master’s degree program, students are expected to prove that they will acquire additional skills in the Master’s degree program in Computational Engineering compared to the skills acquired in their previous Bachelor’s degree program when choosing modules for the technical application field. 
 
@@ -330,9 +362,9 @@ Students shall pass modules worth a minimum of 70 ECTS credits to qualify for ad
 
 ## **Section 52 Master’s Thesis** 
 
-(1)[1] The Master’s thesis demonstrates students’ ability to solve computational engineering problems independently.[2] The thesis shall have a workload of approximately 810 hours to be completed within six months.[3] An extension of two months shall only be permitted in exceptional cases.[4] The results of the Master’s thesis shall be introduced in a presentation of approximately 30 minutes followed by a discussion. A grade shall be given for the presentation.[5] The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Master’s thesis or during the final stage of thesis work.[6] The date shall usually be within four weeks of the date on which the thesis was submitted; students shall be notified of the date at least two weeks in advance. 
+(1)<sup>1</sup> The Master’s thesis demonstrates students’ ability to solve computational engineering problems independently.<sup>2</sup> The thesis shall have a workload of approximately 810 hours to be completed within six months.<sup>3</sup> An extension of two months shall only be permitted in exceptional cases.<sup>4</sup> The results of the Master’s thesis shall be introduced in a presentation of approximately 30 minutes followed by a discussion. A grade shall be given for the presentation.<sup>5</sup> The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Master’s thesis or during the final stage of thesis work.<sup>6</sup> The date shall usually be within four weeks of the date on which the thesis was submitted; students shall be notified of the date at least two weeks in advance. 
 
-(2)[1] The Master’s thesis shall deal with a scientific subject from the field of computational engineering and shall be written under the supervision of a full-time lecturer from the Faculty of Engineering or the Faculty of Sciences involved in teaching the degree program.[2] Exceptions to the topic and permission to allow full-time lecturers from other faculties to supervise the Bachelor's thesis may be granted by the chair of the Degree Program Committee upon prior written request. 
+(2)<sup>1</sup> The Master’s thesis shall deal with a scientific subject from the field of computational engineering and shall be written under the supervision of a full-time lecturer from the Faculty of Engineering or the Faculty of Sciences involved in teaching the degree program.<sup>2</sup> Exceptions to the topic and permission to allow full-time lecturers from other faculties to supervise the Bachelor's thesis may be granted by the chair of the Degree Program Committee upon prior written request. 
 
 (3) 30 ECTS credits shall be awarded for the Master’s thesis. 
 
@@ -346,9 +378,9 @@ Students shall pass modules worth a minimum of 70 ECTS credits to qualify for ad
 
 ## **Section 54 Legal Validity and Transitory Provisions** 
 
-(1)[1] These degree program and examination regulations shall come into effect on October 1, 2007.[2] They shall apply to all students who start the Bachelor’s or Master’s degree program in Computational Engineering in winter semester 2007/2008 or later. 
+(1)<sup>1</sup> These degree program and examination regulations shall come into effect on October 1, 2007.<sup>2</sup> They shall apply to all students who start the Bachelor’s or Master’s degree program in Computational Engineering in winter semester 2007/2008 or later. 
 
-(2)[1] All students already studying a Master’s degree program in Computational Engineering at FAU in winter semester 2007/2008 or starting the Master’s degree program in Computational Engineering at FAU in winter semester 2007/08 shall have the choice between continuing their studies under these degree program and examination regulations or completing their studies under the degree program and examination regulations for the Bachelor’s and Master’s degree program in Computational Engineering at FAU dated April 13, 2000 (KWMBl II, p. 940), last amended by statute from February 19, 2004.[2] Students shall apply in writing to the Examinations Office to change examination regulations by the end of winter semester 2007/08 at the latest.[3] The examinations of the Bachelor’s examination and the Master’s examination according to sentence 1 shall be conducted for the last time in the following examination periods: 
+(2)<sup>1</sup> All students already studying a Master’s degree program in Computational Engineering at FAU in winter semester 2007/2008 or starting the Master’s degree program in Computational Engineering at FAU in winter semester 2007/08 shall have the choice between continuing their studies under these degree program and examination regulations or completing their studies under the degree program and examination regulations for the Bachelor’s and Master’s degree program in Computational Engineering at FAU dated April 13, 2000 (KWMBl II, p. 940), last amended by statute from February 19, 2004.<sup>2</sup> Students shall apply in writing to the Examinations Office to change examination regulations by the end of winter semester 2007/08 at the latest.<sup>3</sup> The examinations of the Bachelor’s examination and the Master’s examination according to sentence 1 shall be conducted for the last time in the following examination periods: 
 
 1. Bachelor’s examination: after winter semester 2010/2011 
 
@@ -358,57 +390,57 @@ Students shall pass modules worth a minimum of 70 ECTS credits to qualify for ad
 
 (3) At the same time as these degree program and examination regulations come into effect, the Degree Program and Examination Regulations for the Bachelor’s and Master’s Degree Program in Computational Engineering at FAU from April 13, 2000 (KWMBl II, p. 940), last amended by statute from February 19, 2004, shall cease to be in force, subject to the provisions in (2). 
 
-(4)[1] The eighth amendment statute shall come into effect on the day after its publication.[2] It shall apply to all students starting a degree program from summer semester 2018 onwards. 
+(4)<sup>1</sup> The eighth amendment statute shall come into effect on the day after its publication.<sup>2</sup> It shall apply to all students starting a degree program from summer semester 2018 onwards. 
 
-(5)[1] The ninth amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting a degree program from winter semester 2018/2019 onward. 
+(5)<sup>1</sup> The ninth amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting a degree program from winter semester 2018/2019 onward. 
 
-(6)[1] The tenth amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting a degree program from winter semester 2022/2023 onward.[3] Examinations in accordance with previous versions of these degree program and examination regulations will be offered for the last time in summer semester 2027 for the Bachelor's degree program and in winter semester 2025/2026 for the Master's degree program.[4] From the date stated in sentence 3, those students who are affected by the respective version of the examination regulations becoming invalid shall take their remaining examinations in accordance with the version of the degree program and examination regulations valid from this date on. 
+(6)<sup>1</sup> The tenth amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting a degree program from winter semester 2022/2023 onward.<sup>3</sup> Examinations in accordance with previous versions of these degree program and examination regulations will be offered for the last time in summer semester 2027 for the Bachelor's degree program and in winter semester 2025/2026 for the Master's degree program.<sup>4</sup> From the date stated in sentence 3, those students who are affected by the respective version of the examination regulations becoming invalid shall take their remaining examinations in accordance with the version of the degree program and examination regulations valid from this date on. 
 
 12 
 
 ## **Appendix 1: Structure of the Bachelor’s Degree Program** 
 
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**||**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Type and scope of the examina-**<br>**tion**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**hours)**|||||<br>**semester in**||<br>**ECTS**||||
-||**L**|**T**|**P**|**S**||**1st**|**2nd**|**3rd**|**4th**|**5th**|**6th**||
-|**Computer Science**|||||||||||||
-|Foundations ofprogramming (GOP)||see**FPOINF**|||**5**|5||||||see**FPOINF**|
-|Foundations of logic in computer science||see**FPOINF**|||**5**|5||||||see**FPOINF**|
-|Introduction to algorithms(GOP)||see**FPOINF**|||**7.5**||7.5|||||see**FPOINF**|
-|Computational engineering1(GOP)|4|2|||**7.5**|7.5||||||EA(WE90)+ CA(TA)|
-|systemprogramming|2|2|2||**10**||5|5||||see**FPOINF**|
-|Simulation and modeling1|2|2|||**5**|||||5||see**FPOINF**|
-|Simulation and scientific computing1|2|2|2||**7.5**|||||7.5||EA(WE90)+ CA(TA)|
-|Simulation and scientific computing2|2|2|2||**7.5**||||||7.5|EA(WE90)+ CA(TA)|
-|**Mathematics**|||||||||||||
-|Mathematics for CE 11**)** (GOP)|4|2|||**7.5**|7.5||||||EA(WE90)+ CA(TA)|
-|Mathematics for CE 11**)** (GOP)|6|2|||**10**||10|||||EA(WE120)+ CA(TA)|
-|Mathematics for CE 31**)**|2|2|||**5**|||5||||EA(WE60)+ CA(TA)|
-|Mathematics for CE 41**)**|2|2|||**5**||||5|||EA(WE60)+ CA(TA)|
-|Numerics for engineers I|2|2|||**5**|||5||||EA(WE60)|
-|Numerics for engineers II|2|2|||**5**||||5|||EA(WE60)|
-|**Technical application field (TAF)**<br>**min 35 ECTS credits2)**|||||||||||||
-|Experimentalphysics for natural scientists I(GOP)|4|1|||**5**|5||||||EA(WE 90)|
-|Experimentalphysics for natural scientists II(GOP)|4|2|||**5**||5|||||EA(WE 90)|
-|Computational engineering2(GOP)|2|2|||**5**||5|||||EA(WE90)+ CA(TA)|
-|TAF – Modules3)|8|8|||**20**||||20|||see Section 41a(3)|
-|**Elective engineering modules, max 17.5 ECTS**<br>**credits4)**|10|10|||**17.5**|||||||see Section 41b (3)|
-||||||||||17.5||||
-||||||||||||||
-|**Elective key qualifications5)**|||||||||||||
-|Free electives|4||||**5**||||5|||CA|
-|Practical/internship|||8||**10**||||10|||CA: PA|
-|**Advanced seminar: Bachelor’sprogram**||||2|**5**||||5|||see Section 44(3)|
+||**SWS (se**|**mester**|**Total**||**Worklo**|**ad per**|**Te and scoe of the examina-**|
+|---|---|---|---|---|---|---|---|
+|**Module name**|**hou**|**rs)**|**ECTS**<br>|**semes**|**ter in**|**ECTS credits**|**yp  p**<br>**tion**|
+||**L**<br>**T**|**P**<br>**S**|**credits**|**1st**<br>**2nd**|**3rd**|**4th**<br>**5th**<br>**6th**||
+|**Computer Science**||||||||
+|Foundations ofprogramming (GOP)|see**FP**|**OINF**|**5**|5|||see**FPOINF**|
+|Foundations of logic in computer science|see**FP**|**OINF**|**5**|5|||see**FPOINF**|
+|Introduction to algorithms(GOP)|see**FP**|**OINF**|**7.5**|7.5|||see**FPOINF**|
+|Computational engineering1(GOP)|4<br>2||**7.5**|7.5|||EA(WE90)+ CA(TA)|
+|systemprogramming|2<br>2|2|**10**|5|5||see**FPOINF**|
+|Simulation and modeling1|2<br>2||**5**|||5|see**FPOINF**|
+|Simulation and scientific computing1|2<br>2|2|**7.5**|||7.5|EA(WE90)+ CA(TA)|
+|Simulation and scientific computing2|2<br>2|2|**7.5**|||7.5|EA(WE90)+ CA(TA)|
+|**Mathematics**||||||||
+|Mathematics for CE 1<sup>1</sup><sup>**)**</sup> (GOP)|4<br>2||**7.5**|7.5|||EA(WE90)+ CA(TA)|
+|Mathematics for CE 1<sup>1</sup><sup>**)**</sup> (GOP)|6<br>2||**10**|10|||EA(WE120)+ CA(TA)|
+|Mathematics for CE 3<sup>1</sup><sup>**)**</sup>|2<br>2||**5**||5||EA(WE60)+ CA(TA)|
+|Mathematics for CE 4<sup>1</sup><sup>**)**</sup>|2<br>2||**5**|||5|EA(WE60)+ CA(TA)|
+|Numerics for engineers I|2<br>2||**5**||5||EA(WE60)|
+|Numerics for engineers II|2<br>2||**5**|||5|EA(WE60)|
+|**Technical application field (TAF)**<br>**min 35 ECTS credits**<sup>**2**</sup>**)**||||||||
+|Experimentalphysics for natural scientists I(GOP)|4<br>1||**5**|5|||EA(WE 90)|
+|Experimentalphysics for natural scientists II(GOP)|4<br>2||**5**|5|||EA(WE 90)|
+|Computational engineering2(GOP)|2<br>2||**5**|5|||EA(WE90)+ CA(TA)|
+|TAF – Modules<sup>3)</sup>|8<br>8||**20**|||20|see Section 41a(3)|
+|**Elective engineering modules, max 17.5 ECTS**<br>**credits**<sup>**4)**</sup>|10<br>10||**17.5**|||17.5|see Section 41b (3)|
+|**Elective key qualifications**<sup>**5)**</sup>||||||||
+|Free electives|4||**5**|||5|CA|
+|Practical/internship||8|**10**|||10|CA: PA|
+|**Advanced seminar: Bachelor’sprogram**||2|**5**|||5|see Section 44(3)|
 
 13 
 
-**==> picture [760 x 122] intentionally omitted <==**
+|**Module name**|**SWS (se**<br>**hou**|**mester**<br>**rs)**|**Total**<br>**ECTS**|<br>**semes**|**Workl**<br>**ter in**|**oad per**<br>**ECTS credits**|**Type and scope of the examina-**<br>**tion**|
+|---|---|---|---|---|---|---|---|
+||**L**<br>**T**|**P**<br>**S**|**credits**|**1st**<br>**2nd**|**3rd**|**4th**<br>**5th**<br>**6th**||
+|**Bachelor’s thesis**|||**15**|||15|EA: written assignment<br>(80 %) and<br>presentation with discussion<br>(approx. 30+15 mins; 20 %)|
+|**Total SWS (semester hours)**|**66**<br>**47**|**16**<br>**2**||||||
+|**Total ECTS**|||**180**|**30**<br>**32.5**|**27.5**|**30**<br>**30**<br>**30**||
 
-**----- Start of picture text -----**<br>
-SWS (semester  Total  Workload per<br>Type and scope of the examina-<br>Module name  hours)  ECTS  semester in ECTS credits<br>tion<br>L  T  P  S  credits 1st  2nd  3rd  4th  5th  6th<br>EA: written assignment<br>(80 %) and<br>Bachelor’s thesis  15  15<br>presentation with discussion<br>(approx. 30+15 mins; 20 %)<br>Total SWS (semester hours)  66  47  16  2<br>Total ECTS  180  30  32.5  27.5  30  30  30<br>**----- End of picture text -----**<br>
-
-## **Key:** 
+### **Key:** 
 
 GOP: preliminary examination (Grundlagen- und Orientierungsprüfung). 
 
@@ -434,104 +466,78 @@ TA = tutorial achievement pursuant to Section 6 (5) **ABMPO/TechFak** LA = labor
 
 ## **Appendix 2: Compulsory Modules for Technical Application Fields** 
 
-## **– TAF Regelungstechnik / Automatic control compulsory modules** 
+## **–** **<u>TAF Regelungstechnik / Automatic control compulsory modules</u>** 
 
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Type and scope of the examina-**<br>**tion**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||<br>**ECTS **||||
-||**L**|||||**1st**|**2n**<br>**d**|**3d**|**4th**|**5th**|**6th**||
-|||**T**|**P**|**S**|||||||||
-|||||||||**r**|||||
-||||||||||||||
-|**Technical application field**|||||||||||||
-|Introduction to control engineering1|see**FPOET**||||**5**|||5||||see**FPOET**|
-|Control engineering practical for CE|||3||**5**||||5|||LA Laboratoryachievement|
-|Control engineeringB(State-space methods)|see**FPOEEI**||||**5**|||||5||see**FPOEEI**|
-|Digital control|2|2|||**5**||||||5|EA(WE 90)|
-|**Total SWS (semester hours)**|**7**|**5**|**3**||||||||||
-|**Total ECTS**|||||**20**|||**5**|**5**|**5**|**5**||
-
-## **TAF Mechatronik / Mechatronics – compulsory modules** 
-
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Distribution of workload per se-**<br>**mester in ECTS credits**|**Type and scope of the examina-**<br>**tion**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||<br>**mester in ECTS credits**||||||
-||**L**|||||**1st**|**2n**<br>**d**|**3d**|**4th**|**5th**|**6th**||
-|||**T**|**P**|**S**|||||||||
-|||||||||**r**|||||
-||||||||||||||
-|**Technical application field**|||||||||||||
-|Foundations of electrical engineeringI|see**FPOEEI**||||**7.5**|||7.5||||see**FPOEEI**|
-|Foundations of electrical engineeringIII|see**FPOEEI**||||**5**|||||5||see**FPOEEI**|
-|Introduction to control engineering1|see**FPOET**||||**5**|||5||||see**FPOET**|
-|Sensors|see**FPOEEI**||||**5**|||||5||see**FPOEEI**|
-|**Total SWS (semester hours)**|**11**|**7**|||||||||||
-|**Total ECTS**|||||**22.5**|||**12.5**||**10**|||
+|<br>**Module name**|<br>**SWS (semester**<br>**hours)**|<br>**Total**<br>**ECTS**|<br> <br>**semes**<br>|**Worklo**<br>**ter in E**|**ad per**<br> **CTS credits**|**Type and scope of the examina-**<br>|
+|---|---|---|---|---|---|---|
+||**L**<br>**T**<br>**P**<br>**S**|**credits**|**1st**<br>**2n**<br>**d**|**3rd**|**4th**<br>**5th**<br>**6th**|**tion**|
+|**Technical application field**|||||||
+|Introduction to control engineering<sup>1</sup>|see**FPOET**|**5**||5||see**FPOET**|
+|Control engineering practical for CE|3|**5**|||5|LA Laboratoryachievement|
+|Control engineeringB(State-space methods)|see**FPOEEI**|**5**|||5|see**FPOEEI**|
+|Digital control|2<br>2|**5**|||5|EA(WE 90)|
+|**Total SWS (semester hours)**|**7**<br>**5**<br>**3**||||||
+|**Total ECTS**||**20**||**5**|**5**<br>**5**<br>**5**||
+|**TAF Mechatronik/ Mechatronics –com**<br>**Module name**|**pulsory modules**<br>**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**|**Distribu**<br>**mes**<br>**2**|**tion of**<br>**ter in**|**workload per se-**<br>**ECTS credits**|**Type and scope of the examina-**<br>**ti**|
+||**L**<br>**T**<br>**P**<br>**S**|**credits**|**1st**<br>**n**<br>**d**|**3rd**|**4th**<br>**5th**<br>**6th**|**on**|
+|**Technical application field**|||||||
+|Foundations of electrical engineeringI|see**FPOEEI**|**7.5**||7.5||see**FPOEEI**|
+|Foundations of electrical engineeringIII|see**FPOEEI**|**5**|||5|see**FPOEEI**|
+|Introduction to control engineering<sup>1</sup>|see**FPOET**|**5**||5||see**FPOET**|
+|Sensors|see**FPOEEI**|**5**|||5|see**FPOEEI**|
+|**Total SWS (semester hours)**|**11**<br>**7**||||||
+|**Total ECTS**||**22.5**||**12.5**|<br>**10**||
 
 15 
 
-## **– TAF Information technology compulsory modules** 
+## **–** **<u>TAF Information technology compulsory modules</u>** 
 
-|**Module name**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**SWS (semester hours)**|**Total**<br>**ECTS**<br>**credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Type and scope of**<br>**examination**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
-||**L**|||||**1st**|**2n**<br>**d**|**3d**|**4th**|**5th**|**6th**||
-|||**T**|**P**|**S**|||||||||
-|||||||||**r**|||||
-||||||||||||||
-|**Technical application field**|||||||||||||
-|Introduction to the foundations of electrical engi-<br>neeringfor CE students|2||||**2.5**|||2.5||||CA, ungraded|
-|Signals and systemsI|2.5|1.5|1||**5**|||5||||EA(see **FPOEEI**)|
-|Signals and systemsII|2.5|1.5|1||**5**||||5|||EA(see **FPOEEI**)|
-|Information theory and coding|3|1|||**5**|||||5||EA (see**FPOEEI**)|
-|Digital signal processing|3|1|1||**5**|||||5||EA (see**FPOEEI**)|
-|**Total SWS**|**13**|**5**|**3**||||||||||
-|**Total ECTS**|||||**22.5**|||**7.5**|**5**|**10**|||
-
-## **TAF Thermo and fluid dynamics – compulsory modules** 
-
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Type and scope of the exami-**<br>**nation**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**semester in**|||**ECTS **||||
-||**L**|**T**|**P**|**S**||**1st**|**2nd**|**3rd**|**4th **|**5th **|**6th **||
-|**Technical application field**|||||||||||||
-|Technical thermodynamics I|3|2|||**7.5**|||7.5||||EA(see FPOET)|
-|Technical thermodynamics II|3|1|||**5**||||5|||EA(see FPOET)|
-|Fluid mechanics I|2|2|||**5**||||5|||EA(see FPOCBI)|
-|Heat and mass transfer|3|1|||**5**||||||5|EA(see FPOET)|
-|**Total SWS (semester hours)**|**11**|**6**|||||||||||
-|**Total ECTS**|||||**22.5**|||**7.5**|**10**||**5**||
+|<br>**Module name**|<br>**SWS**|<br>**(sem**|<br>**ester hours)**<br>**Total**<br>**ECTS**|<br> <br>**Workl**<br>**semester in**<br>**2n**|**oad per**<br>**ECTS credits**|**Type and scope of**<br>**examination**|
+|---|---|---|---|---|---|---|
+||**L**|**T**|**credit**<br>**P**<br>**S**|**s**<br>**1st**<br><br>**d**<br>**3rd**|**4th**<br>**5th**<br>**6th**|<br>|
+|**Technical application field**|||||||
+|Introduction to the foundations of electrical engi-<br>neeringfor CE students|2||**2.5**|2.5||CA, ungraded|
+|Signals and systemsI|2.5|1.5|1<br>**5**|5||EA(see **FPOEEI**)|
+|Signals and systemsII|2.5|1.5|1<br>**5**||5|EA(see **FPOEEI**)|
+|Information theory and coding|3|1|**5**||5|EA (see**FPOEEI**)|
+|Digital signal processing|3|1|1<br>**5**||5|EA (see**FPOEEI**)|
+|**Total SWS**|**13**|**5**|**3**||||
+|**Total ECTS**|||**22.5**|**7.5**|**5**<br>**10**||
+|**TAF Thermo and fluid dynamics –comp**<br>**Module name**|**ulsor**<br>**SW**<br>**L**|**y mo**<br>**S (se**<br>**hou**<br>**T**|**dules**<br>**mester**<br>**rs)**<br>**Total**<br>**ECTS**<br>**credits**<br>**P**<br>**S**|**Workloa**<br>**semester in EC**<br>**1st**<br>**2nd**<br>**3rd**<br>**4**|**d per**<br>**TS credits**<br>**th **<br>**5th **<br>**6th **|**Type and scope of the exami-**<br>**nation**|
+|**Technical application field**|||||||
+|Technical thermodynamics I|3|2|**7.5**|7.5||EA(see FPOET)|
+|Technical thermodynamics II|3|1|**5**||5|EA(see FPOET)|
+|Fluid mechanics I|2|2|**5**||5|EA(see FPOCBI)|
+|Heat and mass transfer|3|1|**5**||5|EA(see FPOET)|
+|**Total SWS (semester hours)**|**11**|**6**|||||
+|**Total ECTS**|||**22.5**|**7.5**<br>|**10**<br>**5**||
 
 16 
 
-## **– TAF Solid mechanics and dynamics Compulsory modules** 
+## **–** **<u>TAF Solid mechanics and dynamics Compulsory modules</u>** 
 
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Workload per**<br>**semester in ECTS credits**|**Type and scope of**<br>**examination**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**semester in**|||**ECTS **||||
-||**L**|**T**|**P**|**S**||**1st**|**2nd**|**3rd**|**4th **|**5th **|**6th **||
-|**Technical application field**|||||||||||||
-|Statics,elastostatics,and mechanics of materials|5|4|4||**12.5**|||5|7.5|||WE(see FPOMB)|
-|Dynamics of rigid bodies|3|2|2||**7.5**|||||7.5||WE(see FPOMB)|
-|**Total SWS (semester hours)**|**8**|**6**|**6**||||||||||
-|**Total ECTS**|||||**20**|||**5**|**7.5**|**7.5**|||
+|<br>**Module name**|<br>**SWS (s**<br>**ho**<br>**L**<br>**T**|<br>**emeste**<br>**urs)**<br>**P**|<br>**r**<br>**Total**<br>**ECTS**<br>**credits**<br>**S**|<br>**semes**<br>**1st**<br>**2nd**|**Workload pe**<br>**ter in ECTS **<br>**3rd**<br>**4th **|**r**<br> **credits**<br>**Type and scope of**<br>**examination**<br>**5th **<br>**6th **|
+|---|---|---|---|---|---|---|
+|**Technical application field**|||||||
+|Statics,elastostatics,and mechanics of materials|5<br>4|4|**12.5**||5<br>7.5|WE(see FPOMB)|
+|Dynamics of rigid bodies|3<br>2|2|**7.5**|||7.5<br>WE(see FPOMB)|
+|**Total SWS (semester hours)**|**8**<br>**6**|**6**|||||
+|**Total ECTS**|||**20**||**5**<br>**7.5**|**7.5**|
 
-## **– TAF Computational optics compulsory modules** 
+## **–** **<u>TAF Computational optics compulsory modules</u>** 
 
-|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Distribution of workload per se-**<br>**mester**<br>**in ECTS credits**|**Type and scope of the exami-**<br>**nation**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||<br>**mester**||||||
-||||||||**in ECTS **||**credits**||||
-||**L**|**T**|**P**|**S**||**1st**|**2nd**|**3rd**|**4th **|**5th **|**6th **||
-|**Technical application field**|||||||||||||
-|Experimental physics 3: Optics and quantum phe-<br>nomena|4|2|||**7.5**|||7.5||||EA (see BMPO/Physik)|
-|Modern optics I: Advanced optics|2|2|||**5**|||||5||EA(WE120)|
-|Photonics 1|2|2|||**5**|||5||||EA(see**FPOEEI**)|
-|Photonics 2|2|2|||**5**||||5|||EA (O30)|
-|**Total SWS (semester hours)**|**10**|**8**|||||||||||
-|**Total ECTS**|||||**22.5**|||**12.5**|**5**|**5**|||
+|<br>**Module name**|<br>**SW**<br>|<br>**S (semester**<br>**hours)**<br> <br> <br>|**Total**<br>**ECTS**<br>**credits**<br> <br>|**Distributi**<br>**in**<br><br>|**on of w**<br>**mes**<br>**ECTS **<br>|**orkload per**<br>**ter**<br> **credits**<br> <br>|**se-**<br>**Type and scope of the exami-**<br>**nation**<br>|
+|---|---|---|---|---|---|---|---|
+||**L**|**T**<br>**P**<br>**S**|**1s**|**t**<br>**2nd**|**3rd**|**4th **<br>**5th **|**6th **|
+|**Technical application field**||||||||
+|Experimental physics 3: Optics and quantum phe-<br>nomena|4|2|**7.5**||7.5||EA (see BMPO/Physik)|
+|Modern optics I: Advanced optics|2|2|**5**|||5|EA(WE120)|
+|Photonics 1|2|2|**5**||5||EA(see**FPOEEI**)|
+|Photonics 2|2|2|**5**|||5|EA (O30)|
+|**Total SWS (semester hours)**|**10**|**8**||||||
+|**Total ECTS**|||**22.5**||**12.5**|**5**<br>**5**||
 
-## **Key:** 
+### **Key:** 
 
 EA: examination achievement (graded). CA: course achievement (ungraded). O30 min = 30-minute oral examination. WE60/WE90/WE120/WE180: written examination lasting 60, 90 120 or 180 min. 
 
@@ -541,31 +547,29 @@ EA: examination achievement (graded). CA: course achievement (ungraded). O30 min
 
 ## **Appendix 3: Structure of the Master’s Degree Program** 
 
-|**Module name**|**Module name**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**Total**<br>**ECTS**<br>**credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Distribution of workload per**<br>**semester in ECTS credits**|**Type and scope of the examination**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||<br>**semester in**|||||
-|||**L**|**T**|**P**|**S**||**1st**|**2nd**|**3rd**|**4th**||
-|**Computer Science**||||||||||||
-|Compulsory elective modules in computer science:<br>Modules from the module catalog pursuant to<br>Section 40a (3)<br>(min. 20 ECTS)1)||12|8|4||**≥20**|||||see Section 49 (2)|
-|**Mathematics**||||||||||||
-|Functional analysis for engineers||2|2|||**5**|5||||EA (WE60) + CA (TA)|
-|Optimization for engineers||3|2|||**7.5**||7.5|||EA(WE60)+ CA(TA)|
-|Compulsory elective modules in mathematics:<br>Modules from the module catalog pursuant to<br>Section 40a (4)<br>(min. 7.5 ECTS)1)||6|3|||**≥7.5**|||||see Section 49 (3)|
-|**Technical application fields(TAF)**||||||||||||
-|Compulsory elective modules in technical<br>application field:<br>Modules from the module catalog for the chosen<br>TAF<br>pursuant to Section 40a (5) (min. 20 ECTS)1)||12|8|4||**≥20**|||||see Section 40a (5)|
-|||||||||||||
-|Advanced seminar|||||2|**5**|||||see Section 50(3)|
-|Master’s thesis||||||**30**||||30|EA: written assignment and<br>Presentation with discussion (approx. 30<br>+ 15 min)<br>(90% + 10%)|
-||**Total SWS (semester hours)**|**35**|**23**|**8**|**2**|||||||
-||**Total ECTS**|||||**120**|**30**|**30**|**30**|**30**||
+||**S**|**WS (se**|**mester**|**Total**|**Distri**|**bution o**|**f workloa**|**d per**||
+|---|---|---|---|---|---|---|---|---|---|
+|**Module name**||<br>**hour**|<br>**s)**|**ECTS**|<br>**sem**|<br>**ester in**|<br>**ECTS cre**|<br>**dits**|**Type and scope of the examination**|
+||**L**|**T**|**P**<br>**S**|**credits**|**1st**|**2nd**|**3rd**|**4th**||
+|**Computer Science**||||||||||
+|Compulsory elective modules in computer science:<br>Modules from the module catalog pursuant to<br>Section 40a (3)<br>(min. 20 ECTS)<sup>1)</sup>|12|8|4|**≥20**|||||see Section 49 (2)|
+|**Mathematics**||||||||||
+|Functional analysis for engineers|2|2||**5**|5||||EA (WE60) + CA (TA)|
+|Optimization for engineers|3|2||**7.5**||7.5|||EA(WE60)+ CA(TA)|
+|Compulsory elective modules in mathematics:<br>Modules from the module catalog pursuant to<br>Section 40a (4)<br>(min. 7.5 ECTS)<sup>1)</sup>|6|3||**≥7.5**|||||see Section 49 (3)|
+|**Technical application fields(TAF)**||||||||||
+|Compulsory elective modules in technical<br>application field:<br>Modules from the module catalog for the chosen<br>TAF<br>pursuant to Section 40a (5) (min. 20 ECTS)<sup>1)</sup>|12|8|4|**≥20**|||||see Section 40a (5)|
+|Advanced seminar|||2|**5**|||||see Section 50(3)|
+|Master’s thesis||||**30**||||30|EA: written assignment and<br>Presentation with discussion (approx. 30<br>+ 15 min)<br>(90% + 10%)|
+|**Total SWS (semester hours)**<br>**Total ECTS**|**35**|**23**|**8**<br>**2**|**120**|**30**|**30**|**30**|**30**||
 
-## **Key:** 
+### **Key:** 
 
 GOP: preliminary examination (Grundlagen- und Orientierungsprüfung). EA: examination achievement (graded). CA: course achievement (ungraded). WE 60: written examination lasting 60 mins. TA = tutorial achievement pursuant to Section 6 (5) **ABMPO/TechFak** 
 
 18 
 
-## LA = laboratory achievement pursuant to Section 6 (3) **AMBPO/TechFak** 
+### LA = laboratory achievement pursuant to Section 6 (3) **AMBPO/TechFak** 
 
 SA = seminar achievement pursuant to Section 6 (3) **ABMPO/TechFak** 
 

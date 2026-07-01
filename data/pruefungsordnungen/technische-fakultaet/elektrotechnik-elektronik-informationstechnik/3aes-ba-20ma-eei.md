@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:02+00:00
-page_count_chars: 6705
+scraped_at: 2026-07-01T11:29:40+00:00
+page_count_chars: 6657
 ---
 
 # 6. Mai 2010
@@ -14,25 +14,25 @@ page_count_chars: 6705
 
 # **Dritte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
 
-## Vom 6. Mai 2010 
+# Vom 6. Mai 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, zuletzt geändert durch Satzung vom 2. Dezember 2009, wird wie folgt geändert: 
 
 1. § 38 Abs. 4 erhält folgende neue Fassung: 
 
-- „(4)[1] Es sind mindestens 5 ECTS-Punkte durch technische Wahlmodule aus dem Angebot der Technischen Fakultät zu erwerben.[2] Aus dem Angebot der gesamten Universität sind nichttechnische Wahlmodule von 5 ECTS-Punkten zu erbringen, dabei sind nichttechnische Module der Technischen Fakultät und alle Module der virtuelle Hochschule Bayern mit dem Studienfachberater abzustimmen.“ 
+- „(4)<sup>1</sup> Es sind mindestens 5 ECTS-Punkte durch technische Wahlmodule aus dem Angebot der Technischen Fakultät zu erwerben.<sup>2</sup> Aus dem Angebot der gesamten Universität sind nichttechnische Wahlmodule von 5 ECTS-Punkten zu erbringen, dabei sind nichttechnische Module der Technischen Fakultät und alle Module der virtuelle Hochschule Bayern mit dem Studienfachberater abzustimmen.“ 
 
 2. In § 39 wird die Zahl „9“ durch die Zahl „4“ ersetzt. 
 
 3. § 43 wird wie folgt ersetzt: 
 
-## „ **§ 43 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
+# „ **§ 43 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Elektrotechnik, Elektronik und Informationstechnik.[2] Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Elektrotechnik, Elektronik und Informationstechnik.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak werden insbesondere anerkannt: 
 
 1. ein Bachelorabschluss oder ein Abschluss im Diplomstudiengang Mechatronik, 
 
@@ -74,13 +74,12 @@ Bachelorstudienganges Elektrotechnik, Elektronik und Informationstechnik Module 
 
 4. Die Anlage 1 erhält folgende neue Fassung: 
 
-## **„Anlage 1** 
+# **„Anlage 1** 
 
-|**Modul**|||||**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**schriftl. Prüfung**<br>**Dauer in**<br>**Minuten bzw.**<br>**Studienleist.**|
+|**Modul**||**Umfa**|**ng**<br>||**Ve**<br>|**rteilun**<br>**üb**<br>|**g der L**<br>**er die**<br>|**eistun**<br>**Semes**<br>|**gspun**<br>**ter**<br>|**kte**<br>|**. Prüfung**<br>**uer in**<br>**en bzw.**<br>**enleist.**|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|||**Umfang**|||**über die Semester**|||||||
-|||**SWS**|||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|Nr.|Bezeichnung|V|Ü|P||||||||
+||||**SWS**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**riftl**<br>**Da**<br>**nut**<br>**udi**|
+|Nr.|Bezeichnung|V|Ü|P|||||||**sch**<br>**Mi**<br>**St**|
 |1|Mathematik A 1<br>(GOP)|4|2|0|7,5||||||uSL+90|
 |2|Mathematik A 2<br>(GOP)|6|2|0||10|||||uSL+120|
 |3|Grundlagen der Elektrotechnik I<br>(GOP)|4|2|0|7,5||||||120|
@@ -91,35 +90,35 @@ Bachelorstudienganges Elektrotechnik, Elektronik und Informationstechnik Module 
 |8|Grundlagen der systemnahen Programmierung in<br>C|1|1|0||2,5|||||60|
 |9|Werkstoffkunde|2|0|0|2,5||||||60|
 |10|Nichttechnische Wahlfächer|2|2|0||5|||||bSL|
-|11|Praktikum Grundlagen der Elektrotechnik|0|0|3||2,5|||||uSL|
+|11|Praktikum Grundlagen der Elektrotechnik|0|0|3|||2,5||||uSL|
 |12|Praktikum Schaltungstechnik|0|0|3||||2,5|||uSL|
 |13|Arbeits- und Präsentationstechnik,<br>Simulationstools|1|0|1|2,5||||||uSL|
 |14|Mathematik A 3|2|2|0|||5||||uSL+60|
 |15|Mathematik A 4|2|2|0||||5|||uSL+60|
 |16|Grundlagen der Elektrotechnik III|2|2|0|||5||||90|
-|17|Grundlagen der Elektrischen Antriebstechnik<br>|2|1|0|||||||90|
-||Grundlagen der Elektrischen Energieversorgung|2|2|0|||||||90|
+||Grundlagen der Elektrischen Antriebstechnik<br>|2|1|0|||||||90|
+|17|Grundlagen der Elektrischen Energieversorgung|2|2|0|||7|,5|||90|
 |18|Regelungstechnik A (Grundlagen)<br>(FSP)|2|2|0|||||5||90|
 |19|Halbleiterbauelemente|2|2|0|||5||||90|
 |20|Digitaltechnik|2|2|0|||5||||90|
 
-|21|Schaltungstechnik<br>(FSP)|2|2|0||||5|||90|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|22|Signale und Systeme I<br>|2|1|0|||5<br>5||||90|
-||Signale und Systeme II<br>(FSP)|3|2|0|||||||90|
-|23|Nachrichtentechnische Systeme<br>(FSP)|3|1|0|||||5||90|
-|24|Elektromagnetische Felder I<br>(FSP)|1|1|0||||2,5|||90|
-|25|Elektromagnetische Felder II<br>(FSP)|2|2|0|||||5||90|
-|26|Passive Bauelemente und deren HF-Verhalten<br>(FSP)|2|2|0||||5|||90|
-|27|Technische Wahlfächer|2|2|0|||||5||bSL|
-|28|_Studienrichtung:_Kernmodule<br> Vertiefungsmodul<br>Laborpraktikum<br>Hauptseminar|4|4||||||10||siehe<br>Katalog|
-|||2|2|||||||5||
-|||0|0|3||||||2,5|uSL|
-|||0|2|0||||||2,5|bSL|
-||Industriepraktikum|0|0|0||||||10|uSL|
-||_Bachelorarbeit incl. Vortrag_|0|0|0||||||10||
-||Summe|70|52|10|32,5|28,5|28,5|30,5|30|30||
-||Summe V+Ü+P|132|||Summe der Leistungspunkte<br>**180**|||||||
+|21|Schaltungstechnik|(FSP)|2|2|0||||5|||90|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||Signale und Systeme I<br>||2|1|0|||5||||90|
+|22|Signale und Systeme II|(FSP)|3|2|0||||5|||90|
+|23|Nachrichtentechnische Systeme|(FSP)|3|1|0|||||5||90|
+|24|Elektromagnetische Felder I|(FSP)|1|1|0||||2,5|||90|
+|25|Elektromagnetische Felder II|(FSP)|2|2|0|||||5||90|
+|26|Passive Bauelemente und deren HF-Verhalten|(FSP)|2|2|0||||5|||90|
+|27|Technische Wahlfächer||2|2|0|||||5||bSL|
+|28|_Studienrichtung:_Kernmodule||4|4||||||10||siehe<br>Katalog|
+||Vertiefungsmodul||2|2|||||||5||
+||Laborpraktikum||0|0|3||||||2,5|uSL|
+||Hauptseminar||0|2|0||||||2,5|bSL|
+||Industriepraktikum||0|0|0||||||10|uSL|
+||_Bachelorarbeit incl. Vortrag_||0|0|0||||||10||
+||Summe||70|52|10|32,5|28,5|28,5|30,5|30|30||
+||Summe V+Ü+P||||132|Summ|e der L|eistung|spunkte||**180**||
 
 (GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung 
 
@@ -131,7 +130,7 @@ bSL   benoteten Studien-/Prüfungsleistung
 
 „ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. Die Regelungen zur Grundlagen- und Orientierungsprüfung gilt für alle Studierenden, die ihr Bachelorstudium ab dem Wintersemester 2009/2010 aufgenommen haben und die Grundlagen- und Orientierungsprüfung noch nicht endgültig nicht bestanden haben. 
 

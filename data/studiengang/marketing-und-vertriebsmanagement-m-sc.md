@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "<25"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-05-01T06:48:19+00:00
+scraped_at: 2026-07-01T08:25:11+00:00
 ---
 
 # Marketing- und Vertriebsmanagement (M.Sc.)

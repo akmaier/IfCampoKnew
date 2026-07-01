@@ -6,10 +6,10 @@ zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "vollständig auf Englisch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
-studienbeginn: "Wintersemester"
+studienbeginn: "Einschreibung zum WiSe 26/27 ausgesetzt"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-05-01T06:44:11+00:00
+scraped_at: 2026-07-01T08:20:39+00:00
 ---
 
 # Development Economics and International Studies (M.A.)
@@ -25,7 +25,7 @@ scraped_at: 2026-05-01T06:44:11+00:00
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Englisch |
 | Fakultät | Philosophische Fakultät und Fachbereich Theologie |
-| Studienbeginn | Wintersemester |
+| Studienbeginn | Einschreibung zum WiSe 26/27 ausgesetzt |
 | Größe | 1-50 |
 | Besondere Studienformen | Internationales Studienangebot |
 
@@ -74,11 +74,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Zugang
 
 * Master: Qualifikationsfeststellungsverfahren
-
-### Bewerbungsfrist
-
-* Wintersemester: 31.05.
-* Sommersemester: nicht möglich
 
 ### Sprachkenntnisse
 

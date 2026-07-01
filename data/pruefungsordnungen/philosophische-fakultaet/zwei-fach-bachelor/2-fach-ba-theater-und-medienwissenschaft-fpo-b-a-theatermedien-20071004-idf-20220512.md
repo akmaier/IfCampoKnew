@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20071004 i.d.F. 20220512.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Theater-_und_Medienwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Theater-_und_Medienwissenschaft_FPO_B.A._Theatermedien_20071004_idF_20220512.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:40+00:00
-page_count_chars: 17880
+scraped_at: 2026-07-01T10:31:05+00:00
+page_count_chars: 16727
 ---
 
 # 2-Fach-BA Theater- und Medienwissenschaft FPO B.A. Theatermedien 20071004 i.d.F. 20220512.pdf
@@ -16,7 +16,7 @@ page_count_chars: 17880
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Theater- und Medienwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO B.A. Theatermedien – Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Theater- und Medienwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO B.A. Theatermedien – Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 1. September 2009 
 
@@ -28,9 +28,19 @@ geändert durch Satzungen vom 1. September 2009
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes ( **BayHSchG** ) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3 § 7 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlagen: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft ........................... 4 Anlage 1: Theater- und Medienwissenschaft als Erstfach ...................................................... 4 Anlage 2: Theater- und Medienwissenschaft als Zweitfach ................................................... 6 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3<br>|
+|§ 7 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlagen: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft ........................... 4|
+|Anlage 1: Theater- und Medienwissenschaft als Erstfach ...................................................... 4|
+|Anlage 2: Theater- und Medienwissenschaft als Zweitfach ................................................... 6|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -42,7 +52,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Theater- und Medienwissenschaft kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 70 ECTS-Punkten zuzüglich des Moduls Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Zwei-Fach-Bachelorstudiengang der Theater- und Medienwissenschaft wird eine fundierte fachwissenschaftliche Ausbildung gewährleistet und insbesondere analytische, theoretische und geschichtliche Qualifikation zur Bearbeitung und Lösung theater- und medienwissenschaftlicher Probleme sowie die Möglichkeiten zur Umsetzung historisch-theoretischer Kenntnisse in die medienpraktischen Tätigkeitsfelder vermittelt. 
 
@@ -60,7 +70,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -80,9 +90,9 @@ Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinn
 
 ## **§ 7 Schluss- und Übergangsvorschriften** 
 
-(1)[ 1] Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.[2] Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden. 
+(1)<sup>1</sup> Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.<sup>2</sup> Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden. 
 
-(2)[1] Die achte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
+(2)<sup>1</sup> Die achte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
 
 (3) Die neunte Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 
 
@@ -90,56 +100,57 @@ Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinn
 
 ## **Anlagen: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft** 
 
-## **Anlage 1: Theater- und Medienwissenschaft als Erstfach** 
+## **<u>Anlage 1: Theater- und Medienwissenschaft als Erstfach</u>** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**||||||||||||
-||||||||||||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|||
-|**Erstfach: Theater- und Medienwissenschaft**|||||||||||||||
-|**Grundlagenmodule**|||||||||||||||
-|Einführung|Einführung in die Theater-<br>undMedienwissenschaft|2||||**5**|3||||||Klausur (60 Min.)|0,5|
-||Einführung in das wissen-<br>schaftlicheArbeiten||2||||2||||||||
-|Basismodul<br>Medienwissenschaft|Basisseminar Theo/Histo||||2|**5**|2,5||||||Klausur (90 Min.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Basismodul<br>Theaterwissenschaft|Basisseminar Theo/Histo||||2|**5**|2,5||||||Hausarbeit (10-12 S.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Thematisches Modul<br>Medienwissenschaft|Proseminar||||2|**5**||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)2|0,5|
-|Thematisches Modul<br>Theaterwissenschaft|Proseminar||||2|**5**||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)2|0,5|
-|Praxis|Theorien der Praxis||||2|**5**||3|||||schriftliche Projektskizze (3-5 S.)|0|
-||Technik||2|||||2|||||||
-|**Aufbaumodule**|||||||||||||||
-|Theatergeschichte|Theatergeschichte|2||||**5**|||5||||Klausur (60 Min.)|0,5|
-|Mediengeschichte|Mediengeschichte|2||||**5**|||5||||Klausur (60 Min.)|0,5|
-|Theater- und<br>Mediengeschichte|Proseminar||||2|**5**||||5|||Referat (30-45 Min.) und<br>Hausarbeit (12-15 S.)2|0,5|
-|Praxis|Projektseminar||||2|**5**|||2,5||||2 Präsentationen in unterschiedlichen Formen<br>(z. B. Filmsequenz (ca. 10-15 Min.) oder<br>Vortrag (15-20 Min.))|0|
-||Projektseminar||||2|||||2,5|||||
-|**Vertiefungsmodule**|||||||||||||||
-|Forschungsperspektiven|Forschungsperspektiven|2||||**5**||||5|||Klausur (60 Min.)|1|
-|Forschung|Hauptseminar||||2|**7,5**|||||7,5||Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)2|1|
-|Praxis|Projektseminar||||2|**7,5**|||||2,5||Präsentation (10-20 Min., 0 %) und<br>Dokumentation (15-20 S., 100 %)|1|
-||Praxisreflexion||||2|||||||5|||
-||**Summe:**|**8**|**4**||**26**|**70**|**15**|**15**|**12,5 **|**12,5 **|**10**|**5**|||
+|||**SWS**|**Ge-**|**Wor**|**kload-**|**Verteilu**|**ng**||**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**||**samt**|**pro Seme**|**ster in**|**ECTS-**|**Punkten**<sup>**1**</sup>|**Art und Umfang der Prüfung**|**Modul-**|
+|||**V**<br>**Ü**<br>**P**<br>**S**|**ECTS**|**1.**<br>**2.**|**3. **|**4.**|**5. **<br>**6. **||**note**|
+|**Erstfach: Theater- und M**<br>|**edienwissenschaft**|||||||||
+|**Grundlagenmodule**<br>|Einführung in die Theater-<br>undMedienwissenschaft|2||3||||||
+|Einführung|<br>Einführung in das wissen-<br>schaftlicheArbeiten|2|**5**|2||||Klausur (60 Min.)|0,5|
+|Basismodul|Basisseminar Theo/Histo|2|**5**|2,5||||Kl 90 Mi|05|
+|Medienwissenschaft|Basisseminar Analyse|2||2,5||||ausur ( n.)|,|
+|Basismodul|Basisseminar Theo/Histo|2|**5**|2,5||||Hbit 1012 S|05|
+|Theaterwissenschaft|Basisseminar Analyse|2||2,5||||ausare (- .)|,|
+|Thematisches Modul<br>Medienwissenschaft|Proseminar|2|**5**|5||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)<sup>2</sup>|0,5|
+|Thematisches Modul<br>Theaterwissenschaft|Proseminar|2|**5**|5||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)<sup>2</sup>|0,5|
+|Praxis|Theorien der Praxis|2|**5**|3||||schriftliche Projektskizze (3-5 S)|0|
+||Technik|2||2||||.||
+|**Aufbaumodule**||||||||||
+|Theatergeschichte|Theatergeschichte|2|**5**||5|||Klausur (60 Min.)|0,5|
+|Mediengeschichte|Mediengeschichte|2|**5**||5|||Klausur (60 Min.)|0,5|
+|Theater- und<br>Mediengeschichte|Proseminar|2|**5**|||5||Referat (30-45 Min.) und<br>Hausarbeit (12-15 S.)<sup>2</sup>|0,5|
+|Pri|Projektseminar|2|**5**||2,5|||2 Präsentationen in unterschiedlichen Formen<br>B Filmn  10-15 Min dr|0|
+|axs|Pkti|2||||25||(z. . sequez (ca.  .) oe<br>||
+||rojesemnar|||||,||Vortrag(15-20 Min.))||
+|**Vertiefungsmodule**||||||||||
+|Forschungsperspektiven|Forschungsperspektiven|2|**5**|||5||Klausur (60 Min.)|1|
+|Forschung|Hauptseminar|2|**7,5**||||7,5|Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)<sup>2</sup>|1|
+|Praxis|Projektseminar|2|**75**||||2,5|Präsentation (10-20 Min., 0 %) und|1|
+||Praxisreflexion|2|**,**||||5|Dokumentation (15-20 S., 100 %)||
+||**Summe:**|**8**<br>**4**<br>**26**|**70**|**15**<br>**15**|**12,5 **|**12,5 **|**10**<br>**5**|||
 
 4 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|||
-|**Zweitfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module des Zweitfachs3|vgl. FPO des Zweitfachs|||||**70**|0-15|0-15|0-<br>17,5|0-<br>17,5|0-20|0-15|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikations-<br>module|4|||||**30**|0-15|0-15|0-<br>17,5|0-<br>17,5|0-20|0-15|4|0|
-|**Bachelorarbeit im Erstfach (Theater- und Medienwissenschaft)**|||||||||||||||
-|Bachelorarbeit|Bachelorarbeit|||||**10**||||||8|Bachelorarbeit (30-40 S.)|2|
-||Forschungsfragen||||2|||||||2|||
-||**Summe:**||||**2**|**10**||||||**10**|||
-|**Summe ECTS-Punkte im Zwei-Fach-Bachelorstu-**<br>**dium:**||||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>|**Ge-**<br>**samt**|**Wor**<br>**pro Seme**|**kload-**<br>**ster in**|**Verteilung**<br>**ECTS-Punkten**<sup>**1**</sup>|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|
+||**V**<br>**Ü**<br>**P**<br>**S**|**ECTS**|**1.**<br>**2.**|**3. **|**4.**<br>**5. **<br>**6. **||**note**|
+|**Zweitfach gemäß Kombin**<br>|**ationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**<br>||<br>|0-|0-<br> <br>|||
+|Module des Zweitfachs<sup>3</sup>|vgl. FPO des Zweitfachs|**70**|0-15<br>0-15|175|175<br>0-20<br>0-15|vgl. FPO des Zweitfachs||
+|**Schlüsselqualifikationen**<br>||||,<br>|,<br>|||
+|Schlüsselqualifikations-<br>module|4|**30**|0-15<br>0-15|0-<br>175|0-<br>175<br>0-20<br>0-15|4|0|
+|**Bachelorarbeit im Erstfac**|**h (Theater- und Medienwissenschaft)**|||,|,|||
+|Bachelorarbeit|Bachelorarbeit|**10**|||8|Bachelorarbeit (30-40 S)|2|
+||Forschungsfragen<br>2||||2|.||
+||**Summe:**<br>**2**|**10**|||**10**|||
+|**Summe ECTS-Punkte im**<br>**dium:**|**Zwei-Fach-Bachelorstu-**|**180**|**30**<br>**30**|**30**|**30**<br>**30**<br>**30**|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 
-- 2 Sofern nicht anders angegeben, gehen das Referat und die Hausarbeit zu je 50 % in die Gesamtnote des Moduls ein. Abweichende Gewichtungen (z. B. 0 + 100 % oder 30 + 70 % oder 40 + 60 %) werden über das Modulhandbuch bekanntgegeben. 
+- 2 
+
+- Sofern nicht anders angegeben, gehen das Referat und die Hausarbeit zu je 50 % in die Gesamtnote des Moduls ein. Abweichende Gewichtungen (z. B. 0 + 100 % oder 30 + 70 % oder 40 + 60 %) werden über das Modulhandbuch bekanntgegeben. 
 
 - 3 Da es sich bei der hier angegebenen Verteilung der ECTS-Punkte pro Semester um eine Empfehlung handelt, kann das Erstfach auch mit Zweitfächern kombiniert werden, die eine andere Verteilung der ECTS-Punkte auf die Fachsemester vorsehen. Es wird empfohlen, in diesem Fall eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen. 
 
@@ -147,53 +158,54 @@ Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinn
 
 5 
 
-**Anlage 2: Theater- und Medienwissenschaft als Zweitfach** 
+**<u>Anlage 2: Theater- und Medienwissenschaft als Zweitfach</u>** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|||
-|**Erstfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module des Erstfachs2|vgl. FPO des|Erstfachs||||**70-90**|0-15|0-15|0-<br>17,5|0-<br>17,5|0-20|0-15|vgl. FPO des Erstfachs||
-|**Zweitfach: Theater- und Medienwissenschaft**|||||||||||||||
-|**Grundlagenmodule**|||||||||||||||
-|Einführung|Einführung in die Theater-<br>undMedienwissenschaft|2||||**5**|3||||||Klausur (60 Min.)|0,5|
-||Einführung in das wissen-<br>schaftlicheArbeiten||2||||2||||||||
-|Basismodul<br>Medienwissenschaft|Basisseminar Theo/Histo||||2|**5**|2,5||||||Klausur (90 Min.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Basismodul<br>Theaterwissenschaft|Basisseminar Theo/Histo||||2|**5**|2,5||||||Hausarbeit (10-12 S.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Thematisches Modul<br>Medienwissenschaft|Proseminar||||2|**5**||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)3|0,5|
-|Thematisches Modul<br>Theaterwissenschaft|Proseminar||||2|**5**||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)3|0,5|
-|Praxis|Theorien der Praxis||||2|**5**||3|||||schriftliche Projektskizze (3-5 S.)|0|
-||Technik||2|||||2|||||||
-|**Aufbaumodule**|||||||||||||||
-|Theatergeschichte|Theatergeschichte|2||||**5**|||5||||Klausur (60 Min.)|0,5|
-|Mediengeschichte|Mediengeschichte|2||||**5**|||5||||Klausur (60 Min.)|0,5|
-|Theater- und<br>Mediengeschichte|Proseminar||||2|**5**||||5|||Referat (30-45 Min.) und<br>Hausarbeit (12-15 S.)2|0,5|
-|Praxis|Projektseminar||||2|**5**|||2,5||||2 Präsentationen in unterschiedlichen Formen<br>(z. B. Filmsequenz (ca. 10-15 Min.) oder<br>Vortrag (15-20 Min.))|0|
-||Projektseminar||||2|||||2,5|||||
-|**Vertiefungsmodule**|||||||||||||||
-|Forschungsperspektiven|Forschungsperspektiven|2||||**5**||||5|||Klausur (60 Min.)|1|
-|Forschung|Hauptseminar||||2|**7,5**|||||7,5||Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)3|1|
-|Praxis|Projektseminar||||2|**7,5**|||||2,5||Präsentation (10-20 Min., 0 %) und<br>Dokumentation (15-20 S., 100 %)|1|
-||Praxisreflexion||||2|||||||5|||
-||**Summe:**|**8**|**4**||**26**|**70**|**15**|**15**|**12,5**|**12,5**|**10**|**5**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>|**Gesamt**<br>**ECTS**|**pr**|**Wor**<br>**o Seme**|**kload-**<br>**ster in**|**Verteilung**<br>**ECTS-Punkte**|**n**<sup>**1**</sup><br>**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|---|---|
+|||**V**<br>**Ü**<br>**P**<br>**S**||**1.**|**2.**|**3. **|**4.**<br>**5. **|**6. **|**note**|
+|**Erstfach gemäß Kombina**|**tionsmöglichkeiten nach An**|**lage 3 ABMStPO/Phil**||||0|0|||
+|Module des Erstfachs<sup>2</sup>|vgl. FPO des|Erstfachs|**70-90**|0-15|0-15|-<br>175|-<br>175<br>0-20|0-15<br>vgl. FPO des Erstfachs||
+|**Zweitfach: Theater- und**<br>**Grundlagenmodule**|**Medienwissenschaft**|||||,|,|||
+|Einführung|Einführung in die Theater-<br>undMedienwissenschaft|2|**5**|3||||Klausur (60 Min)|05|
+||Einführung in das wissen-<br>schaftlicheArbeiten|2||2||||.|,|
+|Basismodul|Basisseminar Theo/Histo|2|**5**|2,5||||Kl 90 Mi|05|
+|Medienwissenschaft|Basisseminar Analyse|2||2,5||||ausur ( n.)|,|
+|Basismodul|Basisseminar Theo/Histo|2|**5**|2,5||||Hbit 1012 S|05|
+|Theaterwissenschaft|Basisseminar Analyse|2||2,5||||ausare (- .)|,|
+|Thematisches Modul<br>Medienwissenschaft|Proseminar|2|**5**||5|||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)<sup>3</sup>|0,5|
+|Thematisches Modul<br>Theaterwissenschaft|Proseminar|2|**5**||5|||Referat (30-45 Min.) und<br>Hausarbeit (10-12S.)<sup>3</sup>|0,5|
+|Praxis|Theorien der Praxis|2|**5**||3|||schriftliche Projektskizze (3-5 S)|0|
+||Technik|2|||2|||.||
+|**Aufbaumodule**||||||||||
+|Theatergeschichte|Theatergeschichte|2|**5**|||5||Klausur (60 Min.)|0,5|
+|Mediengeschichte|Mediengeschichte|2|**5**|||5||Klausur (60 Min.)|0,5|
+|Theater- und<br>Mediengeschichte|Proseminar|2|**5**||||5|Referat (30-45 Min.) und<br>Hausarbeit (12-15 S.)<sup>2</sup>|0,5|
+||Projektseminar|2||||2,5||2 Präsentationen in unterschiedlichen Formen<br>||
+|Praxis|||**5**|||||(z. B. Filmsequenz (ca. 10-15 Min.) oder<br>|0|
+||Projektseminar|2|||||2,5|Vortrag(15-20 Min))||
+|**Vertiefungsmodule**||||||||.||
+|Forschungsperspektiven|Forschungsperspektiven|2|**5**||||5|Klausur (60 Min.)|1|
+|Forschung|Hauptseminar|2|**7,5**||||7,5|Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)<sup>3</sup>|1|
+|Praxis|Projektseminar|2|**75**||||2,5|Präsentation (10-20 Min., 0 %) und|1|
+||Praxisreflexion|2|**,**|||||Dokumentation (15-20 S., 100 %)<br>5||
+||**Summe:**|**8**<br>**4**<br>**26**|**70**|**15**|**15**|**12,5**|**12,5**<br>**10**|**5**||
 
 6 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Workload-Verteilung**<br>**pro Semester in ECTS-Punkten1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikations-<br>module|4bzw. Regelungen der|FPO des Erstfachs||||**10-30**|0-15|0-15|0-<br>17,5|0-<br>17,5|0-20|0-15|4|0|
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl. FPO des|Erstfachs||||**10**||||||10|vgl. FPO des Erstfachs||
-|||**Summe:**||||**10**||||||**10**|||
-|**Summe ECTS-Punkte im Zwei-Fach-Bachelorstu-**<br>**dium:**||||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**Wor**<br>**pro Seme**<br>**1.**<br>**2.**|**kload-**<br>**ster in**<br>**3. **|**Verteilung**<br>**ECTS-Punkt**<br>**4.**<br>**5. **|**en**<sup>**1**</sup><br>**6. **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|
+|**Schlüsselqualifikationen**|||||||||
+|Schlüsselqualifikations-<br>module|4bzw. Regelungen der FPO des Erstfachs|**10-30**|0-15<br>0-15|0-<br>17,5|0-<br>17,5<br>0-20|0-15|4|0|
+|**Bachelorarbeit im Erstfa**|**ch**||||||||
+|Bachelorarbeit|vgl. FPO des Erstfachs|**10**||||10|vgl. FPO des Erstfachs||
+||**Summe:**|**10**||||**10**|||
+|**Summe ECTS-Punkte im**<br>**dium:**|**Zwei-Fach-Bachelorstu-**|**180**|**30**<br>**30**|**30**|**30**<br>**30**|**30**|||
 
-- 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
+1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 
-- 2 Die angegebene Workload-Verteilung für die Module des Erstfachs pro Semester spiegelt die mögliche Bandbreite des Umfangs der zu belegenden Module wieder. Sollte die empfohlene Verteilung der ECTS-Punkte auf die Fachsemester im gewählten Erstfach von diesen Bandbreiten abweichen, wird empfohlen eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen. Es ist zu beachten, dass für das erfolgreiche Bestehen der Grundlagen- und Orientierungsprüfung gemäß § 30 Abs. 3 **ABMStPO/Phil** bis zum Ende des zweiten Semesters in jedem der gewählten Fächer Module im Umfang von 20 ECTS-Punkten erfolgreich abzulegen sind. 
+- 2 
+
+- Die angegebene Workload-Verteilung für die Module des Erstfachs pro Semester spiegelt die mögliche Bandbreite des Umfangs der zu belegenden Module wieder. Sollte die empfohlene Verteilung der ECTS-Punkte auf die Fachsemester im gewählten Erstfach von diesen Bandbreiten abweichen, wird empfohlen eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen. Es ist zu beachten, dass für das erfolgreiche Bestehen der Grundlagen- und Orientierungsprüfung gemäß § 30 Abs. 3 **ABMStPO/Phil** bis zum Ende des zweiten Semesters in jedem der gewählten Fächer Module im Umfang von 20 ECTS-Punkten erfolgreich abzulegen sind. 
 
 - 3 Sofern nicht anders angegeben, gehen das Referat und die Hausarbeit zu je 50 % in die Gesamtnote des Moduls ein. Abweichende Gewichtungen (z. B. 0 + 100 % oder 30 + 70 % oder 40 + 60 %) werden über das Modulhandbuch bekanntgegeben. 
 

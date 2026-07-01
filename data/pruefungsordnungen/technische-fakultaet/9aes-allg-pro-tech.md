@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Dezember 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES-Allg-PrO-Tech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:28+00:00
-page_count_chars: 21705
+scraped_at: 2026-07-01T11:16:57+00:00
+page_count_chars: 21931
 ---
 
 # 15. Dezember 1999
@@ -18,8 +18,6 @@ page_count_chars: 21705
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erläßt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**==> picture [20 x 12] intentionally omitted <==**
-
 Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Universität Erlangen-Nürnberg vom 17. Oktober 1972 (KMBl 1973 S. 91), zuletzt geändert durch Satzung vom 15. Juli 1997 (KWMBl II S. 967), wird wie folgt geändert: 
 
 1. Die Überschrift erhält folgende Fassung: „ **Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF)** “. 
@@ -28,7 +26,7 @@ Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Unive
 
 ## **„§ 1 Anwendungsbereich, Ziel der Prüfungen** 
 
-- (1)[1] Diese Prüfungsordnung regelt die Prüfungen mit den Abschlusszielen Diplom, Bachelor und Master in den wissenschaftlichen Studiengängen 
+- (1)<sup>1</sup> Diese Prüfungsordnung regelt die Prüfungen mit den Abschlusszielen Diplom, Bachelor und Master in den wissenschaftlichen Studiengängen 
 
    1. Chemieingenieurwesen 
 
@@ -42,9 +40,9 @@ Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Unive
 
    6. Werkstoffwissenschaften. 
 
-2Sie wird ergänzt durch die für diese Studiengänge erlassenen Fachprüfungsordnungen.[3] Die Fachprüfungsordnungen regeln, in welchen der in Satz 1 genannten Studiengänge Diplom-, Bachelor- und Masterprüfungen angeboten werden. 
+2Sie wird ergänzt durch die für diese Studiengänge erlassenen Fachprüfungsordnungen.<sup>3</sup> Die Fachprüfungsordnungen regeln, in welchen der in Satz 1 genannten Studiengänge Diplom-, Bachelor- und Masterprüfungen angeboten werden. 
 
-(2)[1] Die Diplomprüfung ist ein berufs- und forschungsqualifizierender Abschluss des Studiums.[2] Durch sie soll festgestellt werden, ob der Kandidat 
+(2)<sup>1</sup> Die Diplomprüfung ist ein berufs- und forschungsqualifizierender Abschluss des Studiums.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat 
 
 - gründliche Fachkenntnisse in den Prüfungsgebieten erworben hat, 
 
@@ -54,7 +52,7 @@ Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Unive
 
 - auf den Übergang in die Berufspraxis vorbereitet ist. 
 
-(3)[1] Die Bachelorprüfung bildet einen zu einem frühen Zeitpunkt berufsqualifizierenden ersten Abschluss des Studiums.[2] Durch sie soll festgestellt werden, ob der Kandidat 
+(3)<sup>1</sup> Die Bachelorprüfung bildet einen zu einem frühen Zeitpunkt berufsqualifizierenden ersten Abschluss des Studiums.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat 
 
 - hinreichende Fachkenntnisse in den Prüfungsgebieten erworben hat, 
 
@@ -62,7 +60,7 @@ Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Unive
 
 - auf einen frühen Übergang in die Berufspraxis vorbereitet ist. 
 
-- (4)[1] Die Masterprüfung stellt einen weiteren berufs- und forschungsqualifizierenden Abschluss des Studiums dar.[2] Absatz 2 Satz 2 gilt entsprechend. 
+(4)<sup>1</sup> Die Masterprüfung stellt einen weiteren berufs- und forschungsqualifizierenden Abschluss des Studiums dar.<sup>2</sup> Absatz 2 Satz 2 gilt entsprechend. 
 
 **§ 2 Akademische Grade** 
 
@@ -78,25 +76,27 @@ Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Unive
 
 (2) Das Studium mit dem Abschlussziel Bachelor umfaßt einen viersemestrigen Grundabschnitt sowie zwei weitere Semester, in denen über den Grundabschnitt hinausgehende Kenntnisse für einen frühen Berufseinstieg vermittelt werden. 
 
-(3)[1] Diplom- und Bachelorstudium sind bis zum Ende des sechsten Semesters durchlässig.[2] Das Masterstudium entspricht inhaltlich dem Lehrplan des siebenten und achten Semesters des Diplomstudiums, soweit in den Fachprüfungsordnungen nichts anderes festgelegt ist. 
+(3)<sup>1</sup> Diplom- und Bachelorstudium sind bis zum Ende des sechsten Semesters durchlässig.<sup>2</sup> Das Masterstudium entspricht inhaltlich dem Lehrplan des siebenten und achten Semesters des Diplomstudiums, soweit in den Fachprüfungsordnungen nichts anderes festgelegt ist. 
 
-(4)[1] Die Diplomvorprüfung bzw. die Prüfungen des viersemestrigen Grundabschnitts der Bachelorprüfung sollen bis zum Ende des vierten Semesters, die Bachelorprüfung nach dem sechsten Semester, die Diplomhauptprüfung bis zum Ende des neunten Semesters und die Masterprüfung bis zum Ende des dritten Semesters abgelegt werden.[2] Sofern die für die Zulassung zur Prüfung erforderlichen Leistungen nachgewiesen sind, können die Prüfungen vorher abgelegt werden. 
+(4)<sup>1</sup> Die Diplomvorprüfung bzw. die Prüfungen des viersemestrigen Grundabschnitts der Bachelorprüfung sollen bis zum Ende des vierten Semesters, die Bachelorprüfung nach dem sechsten Semester, die Diplomhauptprüfung bis zum Ende des neunten Semesters und die Masterprüfung bis zum Ende des dritten Semesters abgelegt werden.<sup>2</sup> Sofern die für die Zulassung zur Prüfung erforderlichen Leistungen nachgewiesen sind, können die Prüfungen vorher abgelegt werden. 
 
 (5) Die Fachprüfungsordnungen können eine Teilung der Prüfungen in Prüfungsabschnitte vorsehen. 
 
 (6) Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen, die Regelstudienzeiten einschließlich einer etwaigen berufspraktischen Tätigkeit und der Prüfungen sowie die Melde- und Prüfungsfristen werden von den Fachprüfungsordnungen geregelt. 
 
-(7)[1] Die Fachprüfungsordnungen können ein studienbegleitendes Prüfungsverfahren mit Leistungspunktsystem vorsehen.[2] In diesem Fall wird der Umfang einer Fachprüfung bzw. einer Teilprüfung mit Hilfe von Leistungspunkten bestimmt.[3] Die Ergebnisse bestandener Fachprüfungen oder Teilprüfungen werden mit Leistungspunkten, die Ergebnisse nicht bestandener Wiederholungen mit Maluspunkten berechnet; die Zahl der möglichen Leistungspunkte und der zulässigen Maluspunkte legt die Fachprüfungsordnung getrennt für Diplomvorprüfung und Diplomhauptprüfung sowie Bachelor- und Masterprüfung fest.[4] Die Prüfung in einem Prüfungsfach ist bestanden, wenn in den Teilprüfungen des Prüfungsfaches mindestens ausreichende Leistungen vorliegen, soweit nicht die Fachprüfungsordnung von der Ausgleichsmöglichkeit nach § 9 
+(7)<sup>1</sup> Die Fachprüfungsordnungen können ein studienbegleitendes Prüfungsverfahren mit Leistungspunktsystem vorsehen.<sup>2</sup> In diesem Fall wird der Umfang einer Fachprüfung bzw. einer Teilprüfung mit Hilfe von Leistungspunkten bestimmt.<sup>3</sup> Die Ergebnisse bestandener Fachprüfungen oder Teilprüfungen werden mit Leistungspunkten, die Ergebnisse nicht bestandener Wiederholungen mit Maluspunkten berechnet; die Zahl der möglichen Leistungspunkte und der zulässigen Maluspunkte legt die Fachprüfungsordnung getrennt für Diplomvorprüfung und Diplomhauptprüfung sowie Bachelor- und Masterprüfung fest.<sup>4</sup> Die Prüfung in einem Prüfungsfach ist bestanden, wenn in den Teilprüfungen des Prüfungsfaches mindestens ausreichende Leistungen vorliegen, soweit nicht die Fachprüfungsordnung von der Ausgleichsmöglichkeit nach § 9 
 
-Abs. 4 Satz 2 Gebrauch macht.[5] Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer einer Prüfung gemäß den Absätzen 1 bis 3 unterhalb der von der Fachprüfungsordnung vorgesehenen Schwelle bleibt.“ 
+Abs. 4 Satz 2 Gebrauch macht.<sup>5</sup> Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer einer Prüfung gemäß den Absätzen 1 bis 3 unterhalb der von der Fachprüfungsordnung vorgesehenen Schwelle bleibt.“ 
 
-3. § 6 Abs. 2 wird wie folgt geändert: 
+   - § 6 Abs. 2 wird wie folgt geändert: 
 
-   - a) In Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefügt: 
+3. § 6 Abs. 2 wird wie folgt geändert: a) In Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefügt: 
 
       - "entsprechendes gilt für die Bachelorprüfung." 
 
-   - b) Nach Satz 1 wird folgender Satz eingefügt: „[2] Eine an der Universität Erlangen-Nürnberg nach einer Fachprüfungsordnung der Technischen Fakultät abgelegte Bachelorprüfung wird auf die Diplomprüfung angerechnet.“ Die bisherigen Sätze 2 bis 8 werden Sätze 3 bis 9. 
+   - b) Nach Satz 1 wird folgender Satz eingefügt: 
+
+      - „<sup>2</sup> Eine an der Universität Erlangen-Nürnberg nach einer Fachprüfungsordnung der Technischen Fakultät abgelegte Bachelorprüfung wird auf die Diplomprüfung angerechnet.“ Die bisherigen Sätze 2 bis 8 werden Sätze 3 bis 9. 
 
    - c) In Satz 3 (neu) werden die Worte „sowohl für das Grundstudium wie für das Hauptstudium“ gestrichen. 
 
@@ -114,25 +114,23 @@ Abs. 4 Satz 2 Gebrauch macht.[5] Eine zweite Wiederholung ist zulässig, wenn di
 
 5. In § 8 wird nach Absatz 8 folgender Absatz angefügt: „(9) Die Vorschriften der Absätze 1 bis 8 gelten sinngemäß für den viersemestrigen Grundabschnitt der Bachelorprüfung.“ 
 
-6. 
-
-   - § 9 wird wie folgt geändert: 
+6. § 9 wird wie folgt geändert: 
 
    - a) In Absatz 2 wird folgender Satz angefügt: 
 
-      - „[2] Soweit eine Fachprüfungsordnung das Leistungspunktsystem vorsieht, ist die Vergabe der Notenstufe 4,3 (nicht ausreichend) zulässig.“ 
+         - „<sup>2</sup> Soweit eine Fachprüfungsordnung das Leistungspunktsystem vorsieht, ist die Vergabe der Notenstufe 4,3 (nicht ausreichend) zulässig.“ 
 
-   - b) In Absatz 3 wird folgender Satz angefügt: „[5] Die Fachprüfungsordnung kann vorsehen, daß die Fachnote „nicht ausreichend“ lautet, wenn einzelne Prüfungsleistungen schlechter als 4,3 bewertet sind.“ 
+   - b) In Absatz 3 wird folgender Satz angefügt: „<sup>5</sup> Die Fachprüfungsordnung kann vorsehen, daß die Fachnote „nicht ausreichend“ lautet, wenn einzelne Prüfungsleistungen schlechter als 4,3 bewertet sind.“ 
 
-   - c) In Absatz 4 wird folgender Satz angefügt: „[2] Die Fachprüfungsordnung kann Ausgleichsmöglichkeiten vorsehen; die auszugleichende Fachnote darf nicht schlechter als 4,3 („nicht ausreichend“) lauten.“ 
+   - c) In Absatz 4 wird folgender Satz angefügt: „<sup>2</sup> Die Fachprüfungsordnung kann Ausgleichsmöglichkeiten vorsehen; die auszugleichende Fachnote darf nicht schlechter als 4,3 („nicht ausreichend“) lauten.“ 
 
 7. § 11 wird wie folgt geändert: 
 
-   - a) Absatz 1 Satz 3 erhält folgende Fassung: „[3] Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Mitteilung des Prüfungsergebnisses abgelegt sein, soweit die Fachprüfungsordnung keinen früheren Zeitpunkt vorsieht; der Kandidat gilt zur Wiederholungsprüfung im nächsten Prüfungstermin als angemeldet.“ 
+   - a) Absatz 1 Satz 3 erhält folgende Fassung: „<sup>3</sup> Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Mitteilung des Prüfungsergebnisses abgelegt sein, soweit die Fachprüfungsordnung keinen früheren Zeitpunkt vorsieht; der Kandidat gilt zur Wiederholungsprüfung im nächsten Prüfungstermin als angemeldet.“ 
 
-   - b) Absatz 2 Satz 2 erhält folgende Fassung: „[2] Wird ein Fach in zwei Teilen der Vorprüfung geprüft, so muss die erste Teilprüfung vor der zweiten Teilprüfung abgelegt worden sein; dies gilt nicht bei Anwendung des Leistungspunktsystems.“ 
+   - b) Absatz 2 Satz 2 erhält folgende Fassung: „<sup>2</sup> Wird ein Fach in zwei Teilen der Vorprüfung geprüft, so muss die erste Teilprüfung vor der zweiten Teilprüfung abgelegt worden sein; dies gilt nicht bei Anwendung des Leistungspunktsystems.“ 
 
-   - c) In Absatz 3 wird folgender Satz angefügt: „[3] Sieht die Fachprüfungsordnung das Leistungspunktsystem vor, so gilt für die zweite Wiederholung § 3 Abs. 7 Satz 5.“ 
+   - c) In Absatz 3 wird folgender Satz angefügt: „<sup>3</sup> Sieht die Fachprüfungsordnung das Leistungspunktsystem vor, so gilt für die zweite Wiederholung § 3 Abs. 7 Satz 5.“ 
 
 8. § 14 wird wie folgt geändert: 
 
@@ -142,15 +140,15 @@ Abs. 4 Satz 2 Gebrauch macht.[5] Eine zweite Wiederholung ist zulässig, wenn di
 
 9. § 17 Abs. 6 wird wie folgt geändert: 
 
-   - a) Satz 1 erhält folgende Fassung: „[1] Die Diplomarbeit wird in deutscher Sprache oder mit Zustimmung des betreuenden Hochschullehrers in englischer Sprache abgefaßt; sie ist in Maschinenschrift beim Vorsitzenden des Prüfungsausschusses einzureichen.“ 
+   - a) Satz 1 erhält folgende Fassung: „<sup>1</sup> Die Diplomarbeit wird in deutscher Sprache oder mit Zustimmung des betreuenden Hochschullehrers in englischer Sprache abgefaßt; sie ist in Maschinenschrift beim Vorsitzenden des Prüfungsausschusses einzureichen.“ 
 
-   - b) Satz 4 erhält folgende Fassung: „[4] Es ist eine Kurzfassung in deutscher und englischer Sprache (jeweils max. 2 Seiten) beizufügen.“ 
+   - b) Satz 4 erhält folgende Fassung: „<sup>4</sup> Es ist eine Kurzfassung in deutscher und englischer Sprache (jeweils max. 2 Seiten) beizufügen.“ 
 
-10. In § 19 Abs. 3 erhält Satz 2 folgende Fassung: „[2] § 11 Abs. 3 Sätze 2 und 3 gelten entsprechend.“ 
+10. In § 19 Abs. 3 erhält Satz 2 folgende Fassung: „<sup>2</sup> § 11 Abs. 3 Sätze 2 und 3 gelten entsprechend.“ 
 
 11. Nach § 23 wird eingefügt: 
 
-## " **III. Bachelorprüfung** 
+# " **III. Bachelorprüfung** 
 
 ## **§ 24 Besonderheiten der Bachelorprüfung** 
 
@@ -162,11 +160,13 @@ Abs. 4 Satz 2 Gebrauch macht.[5] Eine zweite Wiederholung ist zulässig, wenn di
 
    - a) Einzelprüfungen und 
 
-   - b) der Bachelorarbeit. Die Fachprüfungsordnungen können vorsehen, dass die Bachelorarbeit in englischer Sprache abgefaßt wird. 
+   - b) der Bachelorarbeit. 
+
+Die Fachprüfungsordnungen können vorsehen, dass die Bachelorarbeit in englischer Sprache abgefaßt wird. 
 
 - (4) Mit dem Zeugnis erhält der Absolvent des Bachelorstudiums eine Urkunde über die Verleihung des akademischen Grades „Bachelor of Science“. § 21 Abs. 1 Sätze 3 und 4 sowie Abs. 2 gilt entsprechend. 
 
-## **IV. Masterprüfung** 
+# **IV. Masterprüfung** 
 
 ## **§ 25 Besonderheiten der Masterprüfung** 
 
@@ -208,13 +208,13 @@ Prof. Dr. G. Jasper Rektor
 
 Die Satzung wurde am 15. Dezember 1999 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 15. Dezember 1999 durch Anschlag in der Universität Erlangen-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 15. Dezember 1999. 
 
-## **Begründung:** 
+**Begründung:** 
 
 ## **I. Allgemeines** 
 
 Die Änderung der Prüfungsordnung für die Diplomprüfung der Technischen Fakultät (DiplPrOTF) ist aus folgenden Gründen geboten: 
 
-## 1.  Neue Studiengänge 
+1.  Neue Studiengänge 
 
 Zum WS 1998/99 wurden im Studium des Chemieingenieurwesens Bachelor- und Masterabschlüsse eingeführt. Die dem angepasste Fachprüfungsordnung liegt zur rechtsaufsichtlichen Genehmigung im Ministerium. 
 

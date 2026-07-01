@@ -1,18 +1,18 @@
 ---
 kind: "fau-pruefungsordnung-document"
-title: "BSc MSc Psychologie BMStPO PSL 20241219 ÄS.pdf"
-pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO_PSL_20241219_AeS.pdf
+title: "BSc MSc Psychologie BMStPO-PSL 20241219 ÄS.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20241219_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:18:49+00:00
-page_count_chars: 20617
+scraped_at: 2026-07-01T09:37:53+00:00
+page_count_chars: 19559
 ---
 
-# BSc MSc Psychologie BMStPO PSL 20241219 ÄS.pdf
+# BSc MSc Psychologie BMStPO-PSL 20241219 ÄS.pdf
 
-**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO_PSL_20241219_AeS.pdf>
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20241219_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und die Masterstudiengänge Psychologie sowie Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - BMStPO/PSL - Vom 19. Dezember 2024** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und die Masterstudiengänge Psychologie sowie Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - BMStPO/PSL - Vom 19. Dezember 2024** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, 84 Abs. 2 Satz 1, 86 Abs. 3 Satz 4, 88 Abs. 9, 90 Abs. 1 Satz 2 und 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
@@ -36,7 +36,7 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und d
 
 ## 4. § 33 wird wie folgt geändert: 
 
-- a) In der Überschrift wird das Wort „ **Masterstudium** “ durch die Worte „ **Masterstudiengang Psychologie** “ ersetzt. 
+## a) In der Überschrift wird das Wort „ **Masterstudium** “ durch die Worte „ **Masterstudiengang Psychologie** “ ersetzt. 
 
 b) Abs. 1 wird wie folgt neu gefasst: 
 
@@ -44,7 +44,7 @@ b) Abs. 1 wird wie folgt neu gefasst:
 
 - c) Abs. 2 Satz 2 wird wie folgt neu gefasst: 
 
-„[2] Bachelorabschlüsse gelten als nicht wesentlich unterschiedlich im Vergleich zu der fachspezifischen Bachelorprüfung nach dieser Studien- und Prüfungsordnung, wenn sie 
+„<sup>2</sup> Bachelorabschlüsse gelten als nicht wesentlich unterschiedlich im Vergleich zu der fachspezifischen Bachelorprüfung nach dieser Studien- und Prüfungsordnung, wenn sie 
 
 1. entweder das Qualitätssiegel der Deutschen Gesellschaft für Bachelorstudien-gänge in Psychologie (Qualitätssiegel B.Sc. Psychologie DGPs; DGPs-Siegel) tragen oder 
 
@@ -66,7 +66,7 @@ Die Qualifikation zum Masterstudiengang Psychologie mit Schwerpunkt Klinische Ps
 
 ## 6. In § 38 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die dritte Änderungssatzung tritt zum 1. Januar 2025 in Kraft.[2] Sie gilt hinsichtlich der Änderungen in §§ 33, 33a erstmalig für die Bewerbung zu den Masterstudiengängen zum Wintersemester 2025/2026.[3] Sie gilt ferner bezogen auf die Änderungen in den Modulprüfungen im Modul B13 im Bachelorstudiengang und in den Modulen M6, M8, M9, M11, M12 und M13 im Klinischen Masterstudiengang sowie im Modul „Einführung in die Psychologie (Nebenfach)“ für alle Prüfungen ab dem Sommersemester 2025 und nur für diejenigen Studierenden, die sich in den betreffenden Modulprüfungen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
+„(5)<sup>1</sup> Die dritte Änderungssatzung tritt zum 1. Januar 2025 in Kraft.<sup>2</sup> Sie gilt hinsichtlich der Änderungen in §§ 33, 33a erstmalig für die Bewerbung zu den Masterstudiengängen zum Wintersemester 2025/2026.<sup>3</sup> Sie gilt ferner bezogen auf die Änderungen in den Modulprüfungen im Modul B13 im Bachelorstudiengang und in den Modulen M6, M8, M9, M11, M12 und M13 im Klinischen Masterstudiengang sowie im Modul „Einführung in die Psychologie (Nebenfach)“ für alle Prüfungen ab dem Sommersemester 2025 und nur für diejenigen Studierenden, die sich in den betreffenden Modulprüfungen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
 
 ## 7. **Anlage 1** wird wie folgt geändert: 
 
@@ -152,13 +152,13 @@ bb) In Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort „Klausur“ u
 
 - o) Zeile 15 (Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit) wird wie folgt geändert: 
 
-   - aa) In Spalte 1 (Modulbezeichnung) werden die Worte „(Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit)“ durch die Worte „Berufsqualifizierende Tätigkeit III: ambulantes Praktikum[4] “ ersetzt. 
+   - aa) In Spalte 1 (Modulbezeichnung) werden die Worte „(Berufsqualifizierende Tätigkeit [III]: Praktikum ambulant 150 Stunden Präsenzzeit)“ durch die Worte „Berufsqualifizierende Tätigkeit III: ambulantes Praktikum<sup>4</sup> “ ersetzt. 
 
    - bb) In Spalte 6 (Art und Umfang der Prüfung) werden die Worte „Bericht (ca. 20 Seiten)“ durch die Worte „PsychologischPsychotherapeutisches Gutachten (ca.10 Seiten)“ ersetzt. 
 
-- p) Zeile 16 (Berufsqualifizierende Tätigkeit [III]: Praktikum stationär 450 Stunden Präsenzzeit[4] ) wird wie folgt geändert: 
+- p) Zeile 16 (Berufsqualifizierende Tätigkeit [III]: Praktikum stationär 450 Stunden Präsenzzeit<sup>4</sup> ) wird wie folgt geändert: 
 
-   - aa) In Spalte 1 (Modulbezeichnung) werden die Worte „Berufsqualifizierende Tätigkeit [III]: Praktikum stationär 450 Stunden Präsenzzeit[4] “ durch die Worte „Berufsqualifizierende Tätigkeit III: stationäres Praktikum[4] “ ersetzt. 
+   - aa) In Spalte 1 (Modulbezeichnung) werden die Worte „Berufsqualifizierende Tätigkeit [III]: Praktikum stationär 450 Stunden Präsenzzeit<sup>4</sup> “ durch die Worte „Berufsqualifizierende Tätigkeit III: stationäres Praktikum<sup>4</sup> “ ersetzt. 
 
    - bb) In Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort „ca.“ die Zahl „20“ durch die Zahl „10“ ersetzt. 
 
@@ -166,85 +166,44 @@ bb) In Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort „Klausur“ u
 
 ## „ **Anlage 6: Studienverlaufsplan M.Sc. Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie mit Start im Sommersemester** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**||**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**|||||||||**Art und Umfang der**||
-||||||||||**1.**<br>**Sem.**|<br>**2.**<br>**Sem**|**.**<br>**3.**<br>**Sem.**|<br>**4.**<br>**Sem.**|<br>**Prüfung**||
-||||||||||||||||
-|||**V**|**PS**|**Ü**|**P**|**S**|**HS**||||||||
-|**M1a Wissenschaftliche**<br>**Vertiefung a1 **|Proseminar Grundlagenvertie-<br>fung Kognitions-, Motivations-,<br>und Sozialpsychologie||2|||||**10**||5|||Klausur (60 Minuten)|0.5|
-|**M1b Wissenschaftliche**<br>**Vertiefung b1**|Proseminar Entwicklungspsycho-<br>pathologie||2|||||||5|||Mündliche Prüfung<br>(20 Minuten)|0.5|
-|**M1c Wissenschaftliche**<br>**Vertiefung c1**|Proseminar Wissenschaftliche<br>Grundlagen der Rechtspsycholo-<br>gie||2|||||||5|||Klausur (60 Minuten)|0.5|
-|**M2 Vertiefung von**<br>**Forschungsmethoden I**|Vorlesung Multivariate Verfahren<br>inkl. Messtheorie|2||||||||4|||Klausur (90 Minuten)|0.5|
-||Seminar Multivariate Verfahren|||||1||**5**||1|||||
-||mit computergestützter Daten-<br>auswertung||||||||||||||
-|**M3 Vertiefung von**<br>**Forschungsmethoden II**|Vorlesung Evaluationsforschung<br>[inkl. Stand der Evaluation ver-<br>fügbarer Therapieverfahren]|2||||||**5**|5|||||0.5|
-||||||||||||||Klausur (60 Minuten)||
-||||||||||||||||
-|**M4 Psychologische Diag-**<br>**nostik und Begutachtung**|Hauptseminar Gutachtenerstel-<br>lung2||||||2|**5**|5|||||0|
-||||||||||||||Hausarbeit (ca. 30 Seiten)||
-||||||||||||||||
-|**M5 Psychotherapeutische**<br>**Diagnostik und Begutach-**<br>**tung**|<br>Hauptseminar Psychotherapeuti-<br>sche Diagnostik, Begutachtung<br>und VersorgungA2||||||2|**5**|2|||||1|
-||||||||||||||Klausur (60 Minuten)||
-||Hauptseminar Psychotherapeuti-<br>sche Diagnostik, Begutachtung<br>und VersorgungB2||||||2|||3|||||
-||||||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**V**<br>**PS**|**SWS**<br>**Ü**<br>**P**|**S**<br>**HS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|
+|**M1a Wissenschaftliche**<br>**Vertiefung a**<sup>**1**</sup>|Proseminar Grundlagenvertie-<br>fung Kognitions-, Motivations-,<br>und Sozialpsychologie|2||||5|Klausur (60 Minuten)|0.5|
+|**M1b Wissenschaftliche**<br>**Vertiefung b**<sup>**1**</sup>|Proseminar Entwicklungspsycho-<br>pathologie|2|||**10**|5|Mündliche Prüfung<br>(20 Minuten)|0.5|
+|**M1c Wissenschaftliche**<br>**Vertiefung c**<sup>**1**</sup>|Proseminar Wissenschaftliche<br>Grundlagen der Rechtspsycholo-<br>gie|2||||5|Klausur (60 Minuten)|0.5|
+|**M2 Vertiefung von**|Vorlesung Multivariate Verfahren<br>inkl. Messtheorie|2||||4|||
+|<br>**Forschungsmethoden I**|Seminar Multivariate Verfahren<br>mit computergestützter Daten-<br>auswertung|||1|**5**|1|Klausur (90 Minuten)|0.5|
+|**M3 Vertiefung von**<br>**Forschungsmethoden II**|Vorlesung Evaluationsforschung<br>[inkl. Stand der Evaluation ver-<br>fügbarer Therapieverfahren]|2|||**5**|5|Klausur (60 Minuten)|0.5|
+|**M4 Psychologische Diag-**<br>**nostik und Begutachtung**|Hauptseminar Gutachtenerstel-<br>lung<sup>2</sup>|||2|**5**|5|Hausarbeit (ca. 30 Seiten)|0|
+|**M5 Psychotherapeutische**<br>|<br>Hauptseminar Psychotherapeuti-<br>sche Diagnostik, Begutachtung<br>und VersorgungA<sup>2</sup>|||2||2|||
+|**Diagnostik und Begutach-**<br>**tung**|Hauptseminar Psychotherapeuti-<br>sche Diagnostik, Begutachtung<br>und VersorgungB<sup>2</sup>|||2|**5**|3|Klausur (60 Minuten)|1|
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||**Faktor**|
-|||||**SWS**|||||||||**Art und Umfang der**|**Ab-**|
-||||||||||**1.**<br>**Sem.**|<br>**2.**<br>**Sem**|**.**<br>**3.**<br>**Sem.**|<br>**4.**<br>**Sem.**|<br>**Prüfung**|**schluss-**|
-|||||||||||||||**note**|
-|||**V**|**PS**|**Ü**|**P**|**S**|**HS**||||||||
-|**M6 Spezielle Krankheits-**<br>**und Verfahrenslehre der**<br>**Psychotherapie**|Seminar Psychische Störungen<br>und ihre<br>Behandlung bei Erwachsenen<br>und<br>älteren Personen|||||2||**10**|3||||||
-||Seminar Psychische Störungen<br>und ihre Behandlung bei Kindern<br>und Jugendlichen|||||2|||3||||||
-||||||||||||||Klausur (90 Minuten)|1|
-||||||||||||||||
-||Seminar Evidenzbasierte psy-<br>chotherapeutische Verfahren bei<br>Erwachsenen und älteren Perso-<br>nen|||||2|||4||||||
-|**M7 Angewandte Psycho-**<br>**therapie3**|Vorlesung Angewandte<br>Psychotherapie A|2||||||**5**||3|||||
-||Vorlesung Angewandte<br>Psychotherapie B|1|||||||(2)||||||
-||Seminar Kriminalpsychologie|||||2|||(2)||||||
-||||||||||||||Klausur (60 Minuten)|1|
-||||||||||||||||
-||Seminar Arbeit, Gesundheit,<br>Prävention und Rehabilitation|||||2||||(2)|||||
-|**M8 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**<br>**xis der Psychotherapie 1**|Hauptseminar Vertiefte Praxis<br>der<br>Psychotherapie 12||||||4|**5**|5||||||
-||||||||||||||Reflexionsbericht (ca. 20 Seiten)|<br>1|
-||||||||||||||||
-|**M9 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**<br>**xis der Psychotherapie 2**|Hauptseminar Vertiefte Praxis<br>der Psychotherapie 22||||||2|||3|||50 % Videodemonstration<br>einer Interventionstechnik||
-||<br>Hauptseminar Selbstreflexion2||||||2|**5**||2|||<br>(ca. 30 Minuten) und|1|
-||||||||||||||<br>50 % Hausarbeit (ca. 15 Seiten)||
-||||||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**V**<br>**PS**|**SWS**<br>**Ü**<br>**P**|**S**|**HS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|<br>**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+||Seminar Psychische Störungen<br>und ihre<br>Behandlung bei Erwachsenen<br>und<br>älteren Personen|||2|||3|||
+|**M6 Spezielle Krankheits-**<br>**und Verfahrenslehre der**<br>**Psychotherapie**|Seminar Psychische Störungen<br>und ihre Behandlung bei Kindern<br>und Jugendlichen|||2||**10**|3|Klausur (90 Minuten)|1|
+||Seminar Evidenzbasierte psy-<br>chotherapeutische Verfahren bei<br>Erwachsenen und älteren Perso-<br>nen|||2|||4|||
+||Vorlesung Angewandte<br>Psychotherapie A|2|||||3|||
+||Vorlesung Angewandte<br>Psychotherapie B|1|||||(2)|||
+|**M7 Angewandte Psycho-**<br>**therapie**<sup>**3**</sup>|Seminar Kriminalpsychologie|||2||**5**|(2)|Klausur (60 Minuten)|1|
+||Seminar Arbeit, Gesundheit,<br>Prävention und Rehabilitation|||2|||(2)|||
+|**M8 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**<br>**xis der Psychotherapie 1**|Hauptseminar Vertiefte Praxis<br>der<br>Psychotherapie 1<sup>2</sup>||||4|**5**|5|Reflexionsbericht (ca. 20 Seiten)|<br>1|
+|**M9 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**|Hauptseminar Vertiefte Praxis<br>der Psychotherapie 2<sup>2</sup>||||2|**5**|3|50 % Videodemonstration<br>einer Interventionstechnik<br>|1|
+|<br>**xis der Psychotherapie 2**|Hauptseminar Selbstreflexion<sup>2</sup>||||2||2|(ca. 30 Minuten) und<br>50 % Hausarbeit (ca. 15 Seiten)||
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in**<br>**ECTS-Punkten**|||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||**Faktor**|
-|||||**SWS**|||||||||**Art und Umfang der**|**Ab-**|
-||||||||||**1.**<br>**Sem.**|<br>**2.**<br>**Sem**|**.**<br>**3.**<br>**Sem.**|<br>**4.**<br>**Sem.**|<br>**Prüfung**|**schluss-**|
-|||||||||||||||**note**|
-|||**V**|**PS**|**Ü**|**P**|**S**|**HS**||||||||
-|**M10 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**<br>**xis der Psychotherapie 3**|Hauptseminar Fallarbeit A: Er-<br>wachsene / Ältere 12||||||2|||4|||||
-||Hauptseminar Fallarbeit B: Er-<br>wachsene / Ältere 22||||||||||||||
-||||||||2|**10**|||3||Klausur (90 Minuten)|1|
-||||||||||||||||
-||Hauptseminar Fallarbeit C: Kin-<br>der und Jugendliche2||||||2||||3||||
-|**M11 Forschungsorientier-**<br>**tes Praktikum II**|<br>Praktikum Psychotherapiefor-<br>schung2||||6|||**5**|||5||||
-||||||||||||||Projektarbeit|0|
-||||||||||||||||
-|**M12 Berufsqualifizierende**<br>**Tätigkeit III: ambulantes**<br>**Praktikum4 **|<br>ambulantes Praktikum2<br>Psychotherapeutisches Klein-||||7<br>||||||5||Psychologisch-Psychotherapeu-||
-||<br>gruppenpraktikum2<br>psychotherapeutisches Einzelge-<br>spräch2||||1,5<br>2,5|||**5**|||||tisches Gutachten (ca.10 Seiten)|<br>1|
-||||||||||||||||
-||||||||||||||||
-|**M13 Berufsqualifizierende**<br>**Tätigkeit III: stationäres**<br>**Praktikum4 **|<br>Praktikum stationäre Psychothe-<br>rapie (extern)2||||33|||**15**|||15||||
-||||||||||||||Bericht (ca. 10 Seiten)|0|
-||||||||||||||||
-|**M14 Wissenschaftliche**<br>**Praxis**|Kolloquium zur Masterarbeit||2|||||**30**||||2|Masterarbeit (40-90 Seiten) und||
-||||||||||||||<br>Vorstellung der Masterarbeit||
-|||||||||||||||1|
-||Masterarbeit|||||||||||28|(10-20 Minuten)||
-||||||||||||||||
-||||||||||||||(100 % + 0 %)||
-|**Summen SWS und ECTS-Punkte**||**5-7**|**6**|**0**|**50**|**7-9**|**20**|**120**|**27-**<br>**295**|**30-**<br>**325 **|**31**|**30**|||
-|||||**90**|||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**V**<br>**PS**|**SWS**<br>**Ü**<br>**P**|**S**<br>**HS**|**Gesamt**<br>**ECTS**|**Workload-Verteilun**<br>**Semester in**<br>**ECTS-Punkte**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**<br>**3.**<br>**Sem.**|**g pro**<br> <br>**n**<br>**4.**<br>**Sem.**|<br>**Art und Umfang der**<br>**Prüfung**<br>|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+||Hauptseminar Fallarbeit A: Er-<br>wachsene / Ältere 1<sup>2</sup>|||2||4||||
+|**M10 Berufsqualifizierende**<br>**Tätigkeit II: Vertiefte Pra-**<br>**xis der Psychotherapie 3**|Hauptseminar Fallarbeit B: Er-<br>wachsene / Ältere 2<sup>2</sup>|||2|**10**|3||Klausur (90 Minuten)|1|
+||Hauptseminar Fallarbeit C: Kin-<br>der und Jugendliche<sup>2</sup>|||2||3||||
+|**M11 Forschungsorientier-**<br>**tes Praktikum II**|<br>Praktikum Psychotherapiefor-<br>schung<sup>2</sup>||6||**5**|5||Projektarbeit|0|
+||ambulantes Praktikum<sup>2</sup>||7|||||||
+|**M12** **Berufsqualifizierende**<br>**Tätigkeit III: ambulantes**<br>**Pktik**<sup>**4**</sup>|Psychotherapeutisches Klein-<br>gruppenpraktikum<sup>2</sup>||1,5||**5**|5||Psychologisch-Psychotherapeu-<br>tisches Gutachten (ca.10 Seiten)|<br>1|
+|**raum**|psychotherapeutisches Einzelge-<br>spräch<sup>2</sup>||2,5|||||||
+|**M13 Berufsqualifizierende**<br>**Tätigkeit III: stationäres**<br>**Praktikum**<sup>**4**</sup>|<br>Praktikum stationäre Psychothe-<br>rapie (extern)<sup>2</sup>||33||**15**|15||Bericht (ca. 10 Seiten)|0|
+|**M14 Wissenschaftliche**|Kolloquium zur Masterarbeit|2|||**30**||2|Masterarbeit (40-90 Seiten) und<br>Vorstellung der Masterarbeit|<br>1|
+|**Praxis**|Masterarbeit||||||28|(10-20 Minuten)<br>(100 % + 0 %)||
+|**Summen SWS und ECTS-P**|**unkte**|**5-7**<br>**6**|**0**<br>**50**<br>**90**|**7-9**<br>**20**|**120**|**27-**<br>**29**<sup>**5**</sup><br>**30-**<br>**32**<sup>**5**</sup><br>**31**|**30**|||
 
 - 1       Es sind zwei der Module 1a, 1b oder 1c zu wählen. 
 
@@ -264,5 +223,5 @@ bb) In Spalte 6 (Art und Umfang der Prüfung) wird nach dem Wort „Klausur“ u
 
 **§ 2** 
 
-1Die dritte Änderungssatzung tritt zum 1. Januar 2025 in Kraft. 2Sie gilt hinsichtlich der Änderungen in §§ 33, 33a erstmalig für die Bewerbung zu den Masterstudiengängen zum Wintersemester 2025/2026.[3] Sie gilt ferner bezogen auf die Änderungen in den Modulprüfungen im Modul B13 im Bachelorstudiengang und in den Modulen M6, M8, M9, M11, M12 und M13 im Klinischen Masterstudiengang sowie im Modul „Einführung in die Psychologie (Nebenfach)“ für alle Prüfungen ab dem Sommersemester 2025 und nur für diejenigen Studierenden, die sich in den betreffenden Modulprüfungen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
+1Die dritte Änderungssatzung tritt zum 1. Januar 2025 in Kraft. 2Sie gilt hinsichtlich der Änderungen in §§ 33, 33a erstmalig für die Bewerbung zu den Masterstudiengängen zum Wintersemester 2025/2026.<sup>3</sup> Sie gilt ferner bezogen auf die Änderungen in den Modulprüfungen im Modul B13 im Bachelorstudiengang und in den Modulen M6, M8, M9, M11, M12 und M13 im Klinischen Masterstudiengang sowie im Modul „Einführung in die Psychologie (Nebenfach)“ für alle Prüfungen ab dem Sommersemester 2025 und nur für diejenigen Studierenden, die sich in den betreffenden Modulprüfungen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Februar 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AeSa-PrO-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:15+00:00
-page_count_chars: 5494
+scraped_at: 2026-07-01T10:45:50+00:00
+page_count_chars: 5445
 ---
 
 # 1. Februar 1999
@@ -12,13 +12,11 @@ page_count_chars: 5494
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AeSa-PrO-BWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Siebente Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Siebente Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Februar 1999 
+# Vom 1. Februar 1999 
 
 Auf Grund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [20 x 12] intentionally omitted <==**
 
 Die Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschaftsund Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom 25. November 1988 (KWMBl II 1989 S. 30), zuletzt geändert durch Satzung vom 20. September 1995 (KWMBl II 1996 S. 54), wird wie folgt geändert: 
 
@@ -58,7 +56,9 @@ im Teilfach Grundzüge der Betriebswirtschaftslehre I eine einstündige Klausur,
 
 - b)  In Absatz 3 Satz 1 werden die Worte „eines Jahres“ durch die Worte „von sechs Monaten“ ersetzt. 
 
-- c)  Absatz 4 Satz 1 erhält folgende Fassung: „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
+- c)  Absatz 4 Satz 1 erhält folgende Fassung: 
+
+   - „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
 
 § 2 
 
@@ -76,9 +76,9 @@ Die Satzung wurde am 1. Februar 1999 in der Universität Erlangen-Nürnberg nied
 
 2 
 
-## **Begründung:** 
+# **Begründung:** 
 
-## **Zu § 1** 
+# **Zu § 1** 
 
 Die Wirtschafts- und Sozialwissenschaftliche Fakultät strebt eine Teilung der in der geltenden Diplomprüfungsordnung nicht geteilten Diplomvorprüfungsfächer Recht und Statistik an. 1995 sollte die Vorprüfung in acht Teilfächer gegliedert werden. Aus übergeordneten Gründen war das Ministerium damals nur bereit, sechs Prüfungsfächer zu akzeptieren. Um die Teilung der Prüfungsfächer Grundzüge der Betriebswirtschaftslehre und Grundzüge der Volkswirtschaftslehre zu erreichen, kam es zu einem Kompromiss. Das Fach Statistik blieb ungeteilt, die bis dahin eigenständigen Fächer „Die wirtschaftlich wesentlichen Teile des Privaten Rechts“ und „Die wirtschaftlich wesentlichen Teile des Öffentlichen Rechts“ wurden zusammengefasst. 
 
@@ -88,7 +88,7 @@ Nach Art. 128a Abs. 3 BayHSchG sind die Hochschulen verpflichtet, ihre Prüfungs
 
 Der Bayerische Landtag hat die Universitäten aufgefordert, die Anpassung möglichst vor dem Endtermin vorzunehmen. Dies ist bei Beachtung gewisser Übergangsfristen (vgl. § 2) erreichbar. 
 
-## **Zu § 2** 
+# **Zu § 2** 
 
 Die Übergangsvorschrift erlaubt es den Studenten, sich bis zum SS 1999 auf die verkürzte Überschreitungsfrist einzustellen. 
 

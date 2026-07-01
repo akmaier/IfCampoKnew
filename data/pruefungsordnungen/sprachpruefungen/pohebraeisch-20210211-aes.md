@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "POHebräisch 20210211 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Hebraeisch/Aenderungssatzungen/POHebraeisch_20210211_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:17+00:00
-page_count_chars: 1566
+scraped_at: 2026-07-01T11:14:15+00:00
+page_count_chars: 1571
 ---
 
 # POHebräisch 20210211 ÄS.pdf
@@ -12,25 +12,25 @@ page_count_chars: 1566
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Hebraeisch/Aenderungssatzungen/POHebraeisch_20210211_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
 
-## **Erste Satzung zur Änderung der Prüfungsordnung für den Nachweis von Kenntnissen der hebräischen Sprache (Hebraicum) des Fachbereichs Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POHebräisch –** 
+# **Erste Satzung zur Änderung der Prüfungsordnung für den Nachweis von Kenntnissen der hebräischen Sprache (Hebraicum) des Fachbereichs Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POHebräisch –** 
 
-## **Vom 11. Februar 2021** 
+# **Vom 11. Februar 2021** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Nachweis von Kenntnissen der hebräischen Sprache (Hebraicum) des Fachbereichs Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POHebräisch – vom 13. März 2020 wird wie folgt geändert: 
 
 1. In § 14 Abs. 1 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-   - „[3] Die in diesem Text vorkommenden Verbformen sind grammatisch zu erklären.“ 
+   - „<sup>3</sup> Die in diesem Text vorkommenden Verbformen sind grammatisch zu erklären.“ 
 
 2.  In § 17 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
    - „(3) Die erste Änderungssatzung tritt mit Wirkung zum 12. Februar 2021 in Kraft.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die erste Änderungssatzung tritt mit Wirkung zum 12. Februar 2021 in Kraft. 
 

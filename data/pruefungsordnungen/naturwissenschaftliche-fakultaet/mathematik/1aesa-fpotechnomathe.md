@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. Februar 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_FPOTechnoMathe.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:51:27+00:00
-page_count_chars: 20456
+scraped_at: 2026-07-01T09:13:56+00:00
+page_count_chars: 19310
 ---
 
 # 27. Februar 2017
@@ -12,7 +12,7 @@ page_count_chars: 20456
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_FPOTechnoMathe.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Technomathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOTechnoMathe – Vom 27. Februar 2017** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Technomathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOTechnoMathe – Vom 27. Februar 2017** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Technomathemat
 
    - b) Abs. 1 Satz 1 erhält folgende neue Fassung: 
 
-      - „[1] Das Masterstudium Computational and Applied Mathematics baut auf Bachelorstudiengängen der Mathematik auf.“ 
+      - „<sup>1</sup> Das Masterstudium Computational and Applied Mathematics baut auf Bachelorstudiengängen der Mathematik auf.“ 
 
 c) Abs. 2 wird wie folgt geändert: 
 
@@ -42,9 +42,9 @@ c) Abs. 2 wird wie folgt geändert:
 
 bb) In Satz 2 wird das Wort „englischer“ durch das Wort „deutscher“ ersetzt. 
 
-   - cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
+cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-      - „[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+   - „<sup>4</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 4. § 41 erhält folgende neue Fassung: 
 
@@ -52,7 +52,7 @@ bb) In Satz 2 wird das Wort „englischer“ durch das Wort „deutscher“ erse
 
 ## **Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Nr. 1 **ABMPOMathe/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathematik, Technomathematik oder Wirtschaftsmathematik.[2] Als fachverwandter Abschluss im Sinne des § 31 Abs. 1 Nr.1 **ABMPOMathe/NatFak** wird insbesondere ein Bachelorabschluss in Physik, Ingenieurwissenschaften oder Informatik mit mathematiknahen Inhalten im Umfang von mindestens 45 ECTS-Punkten anerkannt. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können gemäß Abs. 5 Satz 4 Anlage **ABMPOMathe/NatFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Nr. 1 **ABMPOMathe/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathematik, Technomathematik oder Wirtschaftsmathematik.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 31 Abs. 1 Nr.1 **ABMPOMathe/NatFak** wird insbesondere ein Bachelorabschluss in Physik, Ingenieurwissenschaften oder Informatik mit mathematiknahen Inhalten im Umfang von mindestens 45 ECTS-Punkten anerkannt. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können gemäß Abs. 5 Satz 4 Anlage **ABMPOMathe/NatFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in das Masterstudium aufgenommen werden. 
 
 (2) 1Als weiterer Nachweis im Sinne des Abs. 2 Satz 2 Nr. 3 **Anlage ABMPOMathe/NatFak** ist ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von „Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“ vorzulegen; dieser Nachweis kann insbesondere auch durch sechs Jahre Englischunterricht eines deutschen Gymnasiums erbracht werden. 2Für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich. 
 
@@ -68,7 +68,7 @@ bb) In Satz 2 wird das Wort „englischer“ durch das Wort „deutscher“ erse
 
 ## a) Abs. 1 erhält folgende neue Fassung: 
 
-„[1] Der Masterstudiengang Computational and Applied Mathematics umfasst Module aus den Spezialisierungsgebieten 
+„<sup>1</sup> Der Masterstudiengang Computational and Applied Mathematics umfasst Module aus den Spezialisierungsgebieten 
 
 - Modeling and Applied Analysis (MApA), 
 
@@ -78,7 +78,7 @@ bb) In Satz 2 wird das Wort „englischer“ durch das Wort „deutscher“ erse
 
 - High Performance Computing (HPC) 
 
-im Umfang von mindestens 105 ECTS Punkten sowie Module aus dem Lehrangebot der FAU auf Masterniveau im Umfang von maximal 15 ECTS Punkten.[2] Er wird in einer der drei Studienrichtungen 
+im Umfang von mindestens 105 ECTS Punkten sowie Module aus dem Lehrangebot der FAU auf Masterniveau im Umfang von maximal 15 ECTS Punkten.<sup>2</sup> Er wird in einer der drei Studienrichtungen 
 
 - MApA und NASi, 
 
@@ -86,7 +86,7 @@ im Umfang von mindestens 105 ECTS Punkten sowie Module aus dem Lehrangebot der F
 
 - NASi und Opti 
 
-durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen, kann jedoch im Laufe des Studiums gewechselt werden.“ 
+durchgeführt.<sup>3</sup> Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen, kann jedoch im Laufe des Studiums gewechselt werden.“ 
 
 ## b) Abs. 2 wird wie folgt geändert: 
 
@@ -94,7 +94,7 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 bb) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Bedingungen erworben werden: 
+„<sup>2</sup> Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Bedingungen erworben werden: 
 
    - mindestens 65 ECTS-Punkte aus dem Lehrangebot des Department Mathematik in der gewählten Studienrichtung, dies inkludiert 30 ECTSPunkte für Masterarbeit und Masterseminar, 
 
@@ -106,7 +106,7 @@ bb) Satz 2 erhält folgende neue Fassung:
 
 - cc) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-   - „[3] Art und Umfang der Modulprüfungen sind der **Anlage 2** zu entnehmen.“ 
+   - „<sup>3</sup> Art und Umfang der Modulprüfungen sind der **Anlage 2** zu entnehmen.“ 
 
 ## 6. § 43 wird wie folgt geändert: 
 
@@ -126,7 +126,7 @@ bb) Satz 2 erhält folgende neue Fassung:
 
 7. Die Regelung in § 44 erhält folgende neue Fassung: 
 
-## „[aufgehoben]“ 
+„[aufgehoben]“ 
 
 8. § 45 erhält folgende neue Fassung: 
 
@@ -136,13 +136,13 @@ Mit der Masterthesis kann begonnen werden, wenn mindestens alle Pflichtmodule im
 
 9. § 46 wird wie folgt geändert: 
 
-## a) Die Überschrift erhält folgende neue Fassung: 
+   - a) Die Überschrift erhält folgende neue Fassung: 
 
 ## **„§ 46 Modul Masterthesis“** 
 
 - b) Nach der Überschrift wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Das Modul Masterthesis wird mit 25 ECTS-Punkten bewertet.[2] Es setzt sich zusammen aus der Masterthesis (22,5 ECTS-Punkte) und einem Kolloquium (2,5 ECTS-Punkte).“ 
+„(1)<sup>1</sup> Das Modul Masterthesis wird mit 25 ECTS-Punkten bewertet.<sup>2</sup> Es setzt sich zusammen aus der Masterthesis (22,5 ECTS-Punkte) und einem Kolloquium (2,5 ECTS-Punkte).“ 
 
 - c) Der bisherige Abs. 1 wird zu Abs. 2 und wie folgt geändert: 
 
@@ -158,10 +158,8 @@ bb) In Satz 2 wird das Wort „stellen“ durch das Wort „gestalten“ ersetzt
 
 ## **„Curricular Overview** 
 
-**==> picture [280 x 136] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Master phase<br>(MP)<br>mandator<br>elective  30 ECTS<br>y elective<br>modules<br>modules<br>(EM)<br>Mandatory Modules   (MEM)<br>15 ECTS<br>(MM)  40 ECTS<br>35 ECTS<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Master phase<br>(MP)<br>mandator<br>elective  30 ECTS<br>y elective<br>modules<br>modules<br>(EM)<br>Mandatory Modules   (MEM)<br>15 ECTS<br>(MM)  40 ECTS<br>35 ECTS<br><!-- End of picture text -->
 
 Not all listed mandatory elective modules below will be offered in each semester. 
 
@@ -169,156 +167,105 @@ The minimum number of ECTS-Points is 120.
 
 ## **Study plan** 
 
-|**Code**|**Title**|**Course**|||||**total**<br>**ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**||||||||||
-|||||||||||||||
-||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
-|**Mandatory Modules**||||||||||||||
-|**MApA**|**Module 1:**<br>**Modeling and Analysis in**<br>**Continuum Mechanics I**|dli d li i||||||||||oral exam 20 min. 100%|1|
-|||Moeng an Anayss n<br>Continuum Mechanics I|4|||||8||||||
-||||||||**10**|||||||
-|||Tutorials to Part I||1||||2||||||
-||**Module 2:**<br>**Modeling and Analysis in**<br>**Continuum Mechanics II**|Mdli d Ali i||||||||||oral exam 20 min. 100%|1|
-|||oeng an nayss n<br>Continuum Mechanics II|2||||||4|||||
-||||||||**5**|||||||
-|||Tutorials to Part II||1/2|||||1|||||
-|**MApA/**<br>**NASi/**<br>**Opti**|**Module 3:**<br>**Modeling, Simulation and Optimization**|Practical Course:  Modeling,<br>Simulation and Optimization||||3|**5**||5|||talk/presentation 45 min. (50%),<br>and final report 10 – 15 pages<br>(50%)|1|
-|**HPC**|**Module 4:**<br>**Programming Techniques for**<br>**Supercomputers in CAM**|i hi f||||||||||oral exam 30 min. 100%|1|
-|||Programmng Tecnques or<br>Suercomuters|4||||||5|||||
-|||pp|||||**10**|||||||
-|||Tutorials to Programming<br>Techniques for Supercomputers||2|||||5|||||
-||**Module 5:**<br>**Architectures of Supercomputers**|Architectures of Supercomputers|2||||**5**|||2,5||oral exam 30 min. 100%|1|
-|||Tutorials to Architectures of<br>Supercomputers||2||||||2,5||||
-||||**12**|**5,5**|**0**|**3**|**35**|**10**|**20**|**5**|**0**|||
+|**Code**|**Title**|**Course**||**SW**|**S**|**total**<br>**ECTS**|**Wo**|**rkload-ave**|**raged in E**|**CTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**V**|**Ü**|**P**<br>**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
+|**Mand**|**atory Modules**||||||||||||
+||**Module 1:**<br>**Modeling and Analysis in**|Modeling and Analysis in<br>Continuum Mechanics I|4|||**10**|8||||oral exam 20 min. 100%|1|
+||<br>**Continuum Mechanics I**|Tutorials to Part I||1|||2||||||
+|**MApA**|**Module 2:**<br>**Modeling and Analysis in**|Modeling and Analysis in<br>Continuum Mechanics II|2|||**5**||4|||oral exam 20 min. 100%|1|
+||<br>**Continuum Mechanics II**|Tutorials to Part II||1/2||||1|||||
+|**MApA/**<br>**NASi/**<br>**Opti**|**Module 3:**<br>**Modeling, Simulation and Optimization**|Practical Course:  Modeling,<br>Simulation and Optimization|||3|**5**||5|||talk/presentation 45 min. (50%),<br>and final report 10 – 15 pages<br>(50%)|1|
+||**Module 4:**<br>**Prorammin Techniues for**|Programming Techniques for<br>Supercomputers|4|||**10**||5|||oral exam 30 min 100%|1|
+|**HPC**|**gg q**<br>**Supercomputers in CAM**|Tutorials to Programming<br>Techniques for Supercomputers||2||||5|||.||
+||**Module 5:**|Architectures of Supercomputers|2|||**5**|||2,5||l  30 i 100%|1|
+||**Architectures of Supercomputers**|Tutorials to Architectures of<br>Supercomputers||2|||||2,5||ora exam  mn.||
+||||**12**|**5,5**|**0**<br>**3**|**35**|**10**|**20**|**5**|**0**|||
 
-|**Cd**|**Titl**|**C**||**SWS**|**SWS**||**total**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**spezification**|**Factor**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**oe**|**e**|**ourse**|**V**|**Ü**|**P**|**S**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**exam /ungraded task**|**Grade**|
-|**Master phase**||||||||||||||
-|**MP**|**Module 6a:**<br>Master seminar MApA|Master seminar MApA*||||2|**5**|||5||90 min. talk/presentation: 75%;<br>5 – 10 pages handout (25%)|1|
-||**Module 6b:**<br>Master seminar NASi|Master seminar NASi*||||2|**5**|||5||90 min. talk/presentation: 75%;<br>5 – 10 pages handout (25%)|1|
-||**Module 6c:**<br>Master seminar Opti|Master seminar Opti*||||2|**5**|||5||90 min. talk/presentation:<br>5 – 10 pages handout (25%)|1|
-||**Module 7:**<br>**Masterthesis**|Master colloquium|||||**25**||||2,5|oral exam 15 min. 10%<br>Thesis 90%|1|
-|||Master thesis|||||||||22,5|||
-||||**0**|**0**|**0**|**2**|**30**|**0**|**0**|**5**|**25**|||
-|**mandatory elective modules**||||||||||||||
-|**NASi**|**Module 8:**<br>**Advanced Discretization Techniques**|Advanced Discretization- Techniques|4||||**10**|8||||oral exam 20 min. 100%|1|
-|||Tutorials to Advanced Discretization-<br>Techniques||1||||2||||||
-|**NASi**|**Module 9:**<br>**Advanced Solution Techniques**|Advanced Solution Techniques|2||||**5**||4|||oral exam 20 min. 100%|1|
-|||Tutorials to Advanced Solution<br>Techniques||1/2|||||1|||||
-|**MApA**|**Module 10:**<br>**Transport and Reaction in Porous Media:**<br>**Modelling**|T d Ri i P||||||||||oral exam 20 min. 100%|1|
-|||ransport an eacton n orous<br>Media: Modellin|2||||||4|||||
-|||g|||||**5**|||||||
-|||Tutorials to Transport and Reaction in<br>Porous Media: Modelling||1/2|||||1|||||
-|**NASi**|**Module 11:**<br>**Transport and Reaction in Porous Media:**<br>**Simulation**|T d Ri i P||||||||||oral exam 20 min. 100%|1|
-|||ransport an eacton n orous<br>Media: Simulation|2|||||||4||||
-||||||||**5**|||||||
-|||Tutorials to Transport and Reaction in<br>Porous Media: Simulation||1/2||||||1||||
-|**NASi**|**Module 12:**<br>**Numerics of Incompressible Flows I**|Numerics of Incompressible Flows Part I|2||||**5**||4|||oral exam 20 min. 100%|1|
-|||Tutorials to Numerics of Incompressible<br>Flows Part I||1/2|||||1|||||
-|**NASi**|**Module 13:**<br>**Numerics of Incompressible Flows II**|Numerics of Incompressible Flows Part II|2||||**5**|||4||oral exam 20 min. 100%|1|
-|||Tutorials to Numerics of Incompressible<br>Flows Part II||1/2||||||1||||
-|**MApA**|**Module 14:**<br>**Mathematics of Multiscale Models**|Mathematics of Multiscale Models|2||||**5**|||4||oral exam 20 min. 100%|1|
-|||Tutorials to Mathematics of Multiscale<br>Models||1/2||||||1||||
+|**Code**|**Title**|**Course**|**SWS**<br> <br> <br>||**total**<br>|**W**<br>|**orkload-av**<br>|**eraged in E**<br>|**CTS**<br>|**spezification**<br>|**Factor**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**V**<br>**Ü**<br>**P**|**S**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**exam /ungraded task**|**Grade**|
+|**Maste**|**r phase**<br>|||||||||<br>||
+||**Module 6a:**<br>Master seminar MApA|Master seminar MApA*||2|**5**|||5||90 min. talk/presentation: 75%;<br>5 – 10 pages handout (25%)|1|
+||**Module 6b:**<br>Master seminar NASi|Master seminar NASi*||2|**5**|||5||90 min. talk/presentation: 75%;<br>5 – 10 pages handout (25%)|1|
+|**MP**|**Module 6c:**<br>Master seminar Opti|Master seminar Opti*||2|**5**|||5||90 min. talk/presentation:<br>5 – 10 pages handout (25%)|1|
+||**Module 7:**|Master colloquium|||**25**||||2,5|oral exam 15 min. 10%|1|
+||**Masterthesis**|Master thesis|||||||22,5|Thesis 90%||
+||||**0**<br>**0**<br>**0**|**2**|**30**|**0**|**0**|**5**|**25**|||
+|**manda**<br>**NASi**|**tory elective modules**<br>**Module 8:**|Advanced Discretization- Techniques|4||**10**|8||||l  20 i 100%|1|
+||**Advanced Discretization Techniques**|Tutorials to Advanced Discretization-<br>Techniques|1|||2||||ora exam  mn.||
+||**Module 9:**|Advanced Solution Techniques|2||||4|||||
+|**NASi**|**Advanced Solution Techniques**|Tutorials to Advanced Solution<br>Techniques|1/2||**5**||1|||oral exam 20 min. 100%|1|
+|**MAA**|**Module 10:**<br>**Transort and Reaction in Porous Media:**|Transport and Reaction in Porous<br>Media: Modelling|2||**5**||4|||oral exam 20 min 100%|1|
+|**p**|**p**<br>**Modelling**|Tutorials to Transport and Reaction in<br>Porous Media: Modelling|1/2||||1|||.||
+|**NASi**|**Module 11:**<br>**Transport and Reaction in Porous Media:**|Transport and Reaction in Porous<br>Media: Simulation|2||**5**|||4||oral exam 20 min 100%|1|
+||<br>**Simulation**|Tutorials to Transport and Reaction in<br>Porous Media: Simulation|1/2|||||1||.||
+||**Module 12:**|Numerics of Incompressible Flows Part I|2||||4|||||
+|**NASi**|**Numerics of Incompressible Flows I**|Tutorials to Numerics of Incompressible<br>Flows Part I|1/2||**5**||1|||oral exam 20 min. 100%|1|
+||**Module 13:**|Numerics of Incompressible Flows Part II|2|||||4||||
+|**NASi**|**Numerics of Incompressible Flows II**|Tutorials to Numerics of Incompressible<br>Flows Part II|1/2||**5**|||1||oral exam 20 min. 100%|1|
+||**Module 14:**|Mathematics of Multiscale Models|2|||||4||||
+|**MApA**|**Mathematics of Multiscale Models**|Tutorials to Mathematics of Multiscale<br>Models|1/2||**5**|||1||oral exam 20 min. 100%|1|
 
-|**Code**|**Title**|**Course**|||||**total**<br>**ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**||||||||||
-|||||||||||||||
-||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
-|**mandatory elective modules**||||||||||||||
-|**MApA**|**Module 15:**<br>**Theory of Stochastic Evolution Equations**|Theory of Stochastic Evolution<br>Equations|2||||**5**||4|||oral exam 20 min. 100%|1|
-|||Tutorials to Theory  of Stochastic<br>Evolution Equations||1/2|||||1|||||
-|**NASi**|**Module 16:**<br>**Numerics of Stochastic Evolution**<br>**Equations**|Ni f Shi Eli||||||||||oral exam 20 min. 100%|1|
-|||umercs o tocastc vouton<br>Euations|2|||||||4||||
-|||q|||||**5**|||||||
-|||Tutorials to Numerics of<br>Stochastic Evolution Equations||1/2||||||1||||
-|**MApA**|**Module 17:**<br>**Asymptotic analysis and modeling**|Asymptotic analysis and modeling|2||||**5**|||4||oral exam 20 min. 100%|1|
-|||Tutorials to Asymptotic analysis<br>and modeling||1/2||||||1||||
-|**NASi**|**Module 18:**<br>**Numerics for multi-physics problems**<br>**(partial differential algebraic equations)**|Numerics for multi-physics<br>problems (Numerics for partial<br>differential algebraic equations)|2|||||||4|||1|
-|||Tutorials to Numerics for multi-<br>physics problems (Numerics for<br>partial differential algebraic<br>equations)|||||**5**|||||oral exam 20 min. 100%||
-|||||1/2||||||1||||
-|**MApA**|**Module 19:**<br>**Mathematical Modeling in the Life**<br>**Sciences1**|Mhil Mdlli i h||||||||||oral exam 20 min. 100%|1|
-|||atematca oeng n te<br>Life Sciences|2|||||||4||||
-||||||||**5**|||||||
-|||Tutorials to Mathematical<br>Modelling in the Life Sciences||1/2||||||1||||
-|**MApA/**<br>**NASi**|**Module 20:**<br>**l ffl**|||||||||||oral exam 20 min. 100%|1|
-|||PDE based image processing|2||||||4|||||
-||||||||**5**|||||||
-||**Partia Dierentia Equations based image**<br>**i**|Tutorials to PDE based imae||||||||||||
-|||g<br>rocessin||1/2|||||1|||||
-||**processng**|||||||||||||
-|||pg||||||||||||
-|**MApA**|**Module 21:**<br>**Mathematics of wetting phenomena**|Mathematics of wetting<br>phenomena|2||||**5**|||4||oral exam 20 min. 100%|1|
-|||Tutorials to Mathematics of<br>wetting phenomena||1/2||||||1||||
-|**MApA/**<br>**NASi**|**Module 22:**<br>**Partial Differential Equations  in Finance**|PDEs in Finance|2||||**5**|||4||oral exam 20 min. 100%|1|
-|||Tutorials to PDEs in Finance||1/2||||||1||||
+|**Code**|**Title**|**Course**|**SWS**<br>**total**<br>**ECTS**|**Workload-av**|**eraged in E**|**CTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
+|---|---|---|---|---|---|---|---|---|
+|**mand**|**atory elective modules**||<br>**V**<br>**Ü**<br>**P**<br>**S**|**1. Sem.**<br>**2. Sem.**|**3. Sem.**|**4. Sem.**|||
+|**MAA**|**Module 15:**|Theory of Stochastic Evolution<br>Equations|2<br>**5**|4|||l  20 i 100%|1|
+|**p**|**Theory of Stochastic Evolution Equations**|Tutorials to Theory  of Stochastic<br>Evolution Equations|<br>1/2|1|||ora exam  mn.||
+|**NASi**|**Module 16:**<br>**Numerics of Stochastic Evolution**|Numerics of Stochastic Evolution<br>Equations|2<br>**5**||4||oral exam 20 min 100%|1|
+||<br>**Equations**|Tutorials to Numerics of<br>Stochastic Evolution Equations|<br>1/2||1||.||
+|**MAA**|**Module 17:**|Asymptotic analysis and modeling|2<br>**5**||4||l  20 i 100%|1|
+|**p**|**Asymptotic analysis and modeling**|Tutorials to Asymptotic analysis<br>and modeling|<br>1/2||1||ora exam  mn.||
+||**Module 18:**|Numerics for multi-physics<br>problems (Numerics for partial<br>differential algebraic equations)|2||4||||
+|**NASi**|**Numerics for multi-physics problems**<br>**(partial differential algebraic equations)**|Tutorials to Numerics for multi-<br>physics problems (Numerics for<br>partial differential algebraic<br>equations)|**5**<br>1/2||1||oral exam 20 min. 100%|1|
+||**Module 19:**<br>|Mathematical Modelling in the<br>Life Sciences|2<br>||4||||
+|**MApA**|**Mathematical Modeling in the Life**<br>**Sciences**<sup>**1**</sup>|Tutorials to Mathematical<br>Modelling in the Life Sciences|**5**<br>1/2||1||oral exam 20 min. 100%|1|
+|**MApA/**|<br>**Module 20:**<br>|PDE based image processing|2<br>|4|||||
+|**NASi**|**Partial Differential Equations based image**<br>**processing**|Tutorials to PDE based image<br>processing|**5**<br>1/2|1|||oral exam 20 min. 100%|1|
+|**MAA**|**Module 21:**|Mathematics of wetting<br>phenomena|2<br>**5**||4||l  20 i 100%|1|
+|**p**|**Mathematics of wetting phenomena**|Tutorials to Mathematics of<br>wetting phenomena|<br>1/2||1||ora exam  mn.||
+|**MApA/**|<br>**Module 22:**|PDEs in Finance|2<br>**5**||4||oral exam 20 min 100%|1|
+|**NASi**|**Partial Differential Equations  in Finance**|Tutorials to PDEs in Finance|<br>1/2||1||.||
 
-|**Code**|**Title**|**Course**|||||**total**<br>**ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**||||||||||
-|||||||||||||||
-||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
-|**mandatory elective modules**||||||||||||||
-|**Opti**|**Module 24:**<br>**Introduction to Material- and Shape**<br>**Optimization**|Idi  Mil d||||||||||oral exam 20 min. 100%|1|
-|||ntroucton to atera- an<br>Shae Otimization|4||||||8|||||
-|||p p|||||**10**|||||||
-|||Tutorials to Introduction to<br>Material- and Shape Optimization||1||||||||||
-||||||||||2|||||
-|||||||||||||||
-|**Opti**|**Module 25:**<br>**Advanced Algorithms for Nonlinear**<br>**Optimization**|Add Alih f||||||||||oral exam 20 min. 100%|1|
-|||vance gortms or<br>Nonlinear Otimization|2|||||4||||||
-|||p|||||**5**|||||||
-|||Tutorials to Advanced Algorithms<br>for Nonlinear Optimization||0,5||||1||||||
-|||||||||||||||
-|||||||||||||||
-|**Opti**|**Module 26:**<br>**Discrete Optimization I**|Discrete Optimization I|2||||**5**|(4)||(4)||oral exam 15 min. 100%|1|
-|||Tutorials to<br>Discrete Optimization I||1||||(1)||(1)||||
-|**Opti**|**Module 27:**<br>**Robust Optimization II**|Robust Optimization II|2||||**5**||4|||oral exam 15 min. 100%|1|
-|||Tutorials to Robust Optimization II||1|||||1|||||
-|**Opti**|**Module 28:**<br>**Numerical Aspects of Linear and Integer**<br>**Programming**|Nil A f Li d||||||||||oral exam 15 min. 100%|1|
-|||umerca spects o near an<br>Inteer Prorammin|2||||||4|||||
-|||g gg|||||**5**|||||||
-|||Tutorials to Numerical Aspects of<br>Linear and Integer Programming||0,5|||||1|||||
-|**Opti**|**Module 29:**<br>**Advanced Nonlinear Optimization **|Advanced Nonlinear Optimization|4||||**10**|(8)||(8)||oral exam 20 min. 100%|1|
-|||Tutorials to Advanced Nonlinear<br>Optimization||1||||(2)||(2)||||
-|**Opti**|**Module 30:**<br>**Optimization with partial differential**<br>**equations**|Oiii ih il||||||||||oral exam 20 min. 100%|1|
-|||ptmzaton wt parta<br>differential euations|2|||||(4)||(4)||||
-|||q|||||**5**|||||||
-|||Tutorials to Optimization with<br>partial differential equations||0,5||||(1)||||||
-|||||||||||(1)||||
-|||||||||||||||
-|**Opti**|**Module 31:**<br>**Discrete Optimization II**||4||||**10**||(8)|||oral exam 20 min. 100%|1|
-|||Discrete Optimization II||||||||||||
-|||||||||||||||
-|||Tutorials to||2|||||(2)|||||
-|||Discrete Optimization II||||||||||||
-|**Opti**|**Module 32:**<br>**Optimization in Industry and Economy**|Oiii i Id d||||||||||oral exam 15 min. 100%,|1|
-|||ptmzaton n nustry an<br>Econom|2|||||(4)||(4)||||
-|||y|||||**5**|||||||
-|||Tutorials to Optimization in<br>Industry and Economy||1||||(1)||(1)||||
-|**Opti**|**Module 33:**<br>**Project Seminar Optimization**|Practical Course: Optimization||||**2**|**5**||**(5)**|**(5)**||talk/presentation 45 min. (50%),<br>final report 10 – 15 pages (50%)|**1**|
-||||**16**|**4**|**0**|**0**|**40**|**10**|**10**|**20**|**0**|||
+|**Code**|**Title**|**Course**|**SWS**<br>**total**<br>**ECTS**|**Workload-av**|**eraged in ECTS**|**spezification**<br>|**Factor**<br>|
+|---|---|---|---|---|---|---|---|
+|||**V**|**Ü**<br>**P**<br>**S**|**1 Sem**<br>**2 Sem**|**3 Sem**<br>**4 Sem**|**exam /ungraded task**|**Grade**|
+|**manda**|**tory elective modules**||<br> <br>|**. .**<br>**. .**|**. .**<br>**. .**|||
+|**Opti**|**Module 24:**<br>**Introduction to Material- and Shape**|Introduction to Material- and<br>Shape Optimization<br>4|**10**|8||oral exam 20 min. 100%|1|
+||<br>**Optimization**|Tutorials to Introduction to<br>Material- and Shape Optimization|<br>1|2||||
+|**Opti**|**Module 25:**<br>**Advanced Algorithms for Nonlinear**|Advanced Algorithms for<br>Nonlinear Optimization<br>2|**5**|4||oral exam 20 min 100%|1|
+||<br>**Optimization**|Tutorials to Advanced Algorithms<br>for Nonlinear Optimization|<br>0,5|1||.||
+||**Module 26:**|Discrete Optimization I<br>2||(4)|(4)|||
+|**Opti**|**Discrete Optimization I**|Tutorials to<br>Discrete Optimization I|**5**<br>1|(1)|(1)|oral exam 15 min. 100%|1|
+|**Oti**|**Module 27:**|Robust Optimization II<br>2|**5**|4||oral exam 15 min 100%|1|
+|**p**|**Robust Optimization II**|Tutorials to Robust Optimization II|<br>1|1||.||
+|**Opti**|**Module 28:**<br>**Numerical Aspects of Linear and Integer**|Numerical Aspects of Linear and<br>Integer Programming<br>2|**5**|4||oral exam 15 min 100%|1|
+||<br>**Programming**|Tutorials to Numerical Aspects of<br>Linear and Integer Programming|<br>0,5|1||.||
+|**Oti**|**Module 29:**|Advanced Nonlinear Optimization<br>4|**10**|(8)|(8)|oral exam 20 min 100%|1|
+|**p**|**Advanced Nonlinear Optimization**|Tutorials to Advanced Nonlinear<br>Optimization|<br>1|(2)|(2)|.||
+|**Opti**|**Module 30:**<br>**Optimization with partial differential**|Optimization with partial<br>differential equations<br>2|**5**|(4)|(4)|oral exam 20 min. 100%|1|
+||<br>**equations**|Tutorials to Optimization with<br>partial differential equations|<br>0,5|(1)|(1)|||
+||**Module 31:**|Discrete Optimization II<br>4||(8)||||
+|**Opti**|**Discrete Optimization II**|Tutorials to<br>Discrete Optimization II|**10**<br>2|(2)||oral exam 20 min. 100%|1|
+|**Oi**|**Module 32:**<br>**Oiii i Id d E**|Optimization in Industry and<br>Economy<br>2||(4)|(4)|l  1 i 100%|1|
+|**pt**|**ptmzaton n nustry an conomy**|Tutorials to Optimization in<br>Industry and Economy|**5**<br>1|(1)|(1)|ora exam 5 mn. ,||
+|**Opti**|**Module 33:**<br>**Project Seminar Optimization**|Practical Course: Optimization<br>**16**|**2**<br>**5**<br>**4**<br>**0**<br>**0**<br>**40**|**(5)**<br>**10**<br>**10**|**(5)**<br>**20**<br>**0**|talk/presentation 45 min. (50%),<br>final report 10 – 15 pages (50%)|**1**|
 
-|**Code**|**Title**|**Course**|**SWS**|**SWS**|**SWS**|**SWS**|**total**<br>**ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**Workload-averaged in ECTS**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|||
-|**elective modules****||||||||||||||
-|**EM**|**elective modules**||0-2|0-2|0-2|0-2|**5**|5||||according to the choice|1|
-|**EM**|**elective modules**||0-2|0-2|0-2|0-2|**5**|5||||according to the choice|1|
-|**EM**|**elective modules**||0-2|0-2|0-2|0-2|**5**||||5|according to the choice|1|
-||||**0-6**|**0-6**|**0-6**|**0-6**|**15**|**10**|**0**|**0**|**5**|||
-|||||||||**30**|**30**|**30**|**30**|||
-||||**Total SWS: 42-48***||||**120**|**Total ECTS: 120**||||||
+|**Code**|**Title**|**Course**|**V**|**S**<br>**Ü**|**WS**<br>**total**<br>**ECTS**<br>**P**<br>**S**|**W**<br>**1. Sem.**|**orkload-av**<br>**2. Sem.**|**eraged in**<br>**3. Sem.**|**ECTS**<br>**4. Sem.**|**spezification**<br>**exam /ungraded task**|**Factor**<br>**Grade**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**electiv**|**e modules****|||||||||||
+|**EM**|**elective modules**||0-2|0-2|0-2<br>0-2<br>**5**|5||||according to the choice|1|
+|**EM**|**elective modules**||0-2|0-2|0-2<br>0-2<br>**5**|5||||according to the choice|1|
+|**EM**|**elective modules**||0-2|0-2|0-2<br>0-2<br>**5**||||5|according to the choice|1|
+||||**0-6**|**0-6**|**0-6**<br>**0-6**<br>**15**|**10**|**0**|**0**|**5**|||
+|||||||**30**|**30**|**30**|**30**|||
+||||**To**|**tal SW**|**S: 42-48***<br>**120**||**Total E**|**CTS: 120**||||
 
-HPC High Performance Computing 
-
-MApA Modeling and Applied Analysis NASi Numerical Analysis and Simulation Opti Optimization 
+HPC High Performance Computing MApA Modeling and Applied Analysis NASi Numerical Analysis and Simulation Opti Optimization 
 
 * Master seminar MApA, Master seminar NASi or Master seminar Opti has to be chosen 
 
-** as selected from FAU-modules 
+- ** as selected from FAU-modules 
 
 „ 
 

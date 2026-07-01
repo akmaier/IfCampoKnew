@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. August 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/8AES_BA-MA Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:11+00:00
-page_count_chars: 13811
+scraped_at: 2026-07-01T11:37:30+00:00
+page_count_chars: 13294
 ---
 
 # 4. August 2014
@@ -12,13 +12,13 @@ page_count_chars: 13811
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/8AES_BA-MA Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Achte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOINF -** 
+# **Achte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOINF -** 
 
-## Vom 4. August 2014 
+# Vom 4. August 2014 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Universität Erlangen-Nürnberg - FPOINF - vom 21. September 2007, zuletzt geändert durch Satzung vom 7. Oktober 2013, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
    - b) Abs. 4 erhält folgende Fassung: 
 
-„(4)[1] Es kann einer der Studienschwerpunkte gemäß **Anlage 5** gewählt werden. 2Kennzeichnend für einen Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 5** enthält zu jedem der wählbaren Studienschwerpunkte die wählbaren Vertiefungsrichtungen, Wahlpflichtmodule, Projekte und Nebenfächer.[3] Die Liste wählbarer Module und Projekte für die Studienschwerpunkte wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.[4] Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der oder des Studierenden im Transcript of Records vermerkt.[5] Sind die Voraussetzungen für mehr als einen Studienschwerpunkt erfüllt, so muss sich die oder der Studierende spätestens eine Woche nach Bestehen der letzten Prüfung verbindlich für einen Studienschwerpunkt entscheiden.“ 
+„(4)<sup>1</sup> Es kann einer der Studienschwerpunkte gemäß **Anlage 5** gewählt werden. 2Kennzeichnend für einen Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 5** enthält zu jedem der wählbaren Studienschwerpunkte die wählbaren Vertiefungsrichtungen, Wahlpflichtmodule, Projekte und Nebenfächer.<sup>3</sup> Die Liste wählbarer Module und Projekte für die Studienschwerpunkte wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.<sup>4</sup> Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der oder des Studierenden im Transcript of Records vermerkt.<sup>5</sup> Sind die Voraussetzungen für mehr als einen Studienschwerpunkt erfüllt, so muss sich die oder der Studierende spätestens eine Woche nach Bestehen der letzten Prüfung verbindlich für einen Studienschwerpunkt entscheiden.“ 
 
 2. In § 39 wird nach Abs. 2 folgender Abs. 3 angefügt: 
 
@@ -86,45 +86,38 @@ Die Absatznummerierung wird entsprechend angepasst.
 
 2 
 
-|**Module**|**Module**|**Umfang**<br>**SWS**|**Umfang**<br>**SWS**|**Umfang**<br>**SWS**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Prüfungs- und Studienleistung**|**GOP**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4.Sem.**||**5. Sem.**||**6. Sem.**||<br>||
-||||||SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|<br>ECTS|SWS|ECTS|||
-|Algorithmen und Datenstrukturen||4|2|2|8|10|||||||||||PfP: PL(K120) + SL(Übungsleistung)|ja|
-|Konzeptionelle Modellierung||2|2||4|5|||||||||||PL(K90)|ja|
-|Grundlagen der Technischen Informatik||4|2||6|7,5|||||||||||PfP: PL(K120) + SL(Übungsleistung)|ja|
-|Parallele und funktionale Programmierung||2|2||||4|5|||||||||PL(K60)|ja|
-|||<br>2|2||||4|5|||||||||PL(K90)||
-|Grundlagen der Rechnerarchitektur und -organisation||||||||||||||||||ja|
-||||||||||||||||||||
-|Grundlagen der Schaltungstechnik||2|2||||4|5|||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Systemprogrammierung||4|2|2|||4|5|4|5|||||||PL(K120)|ja|
-|Grundlagen der Logik in der Informatik||2|2||||||4|5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Softwareentwicklungin Großprojekten||2|2||||||4|5|||||||PL(K90)||
-|Berechenbarkeit und Formale Sprachen||4|2||||||6|7,5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Theorie der Programmierung||4|2||||||||6|7,5|||||PL(K90)||
-|Rechnerkommunikation||2|2||||||||4|5|||||PfP: PL(K90) + SL(Übungsleistung)<br>||
-|Algorithmik kontinuierlicher Systeme||4|2||||||||6|7,5|||||PfP: PL(K90) + SL(Übungsleistung)||
-|Implementierungvon Datenbanksystemen||2|2||||||||||4|5|||PL(K90)||
-|Seminar(Schlüsselqualifikation)|||||||||||2|5|||||PL(Seminarleistung)||
-|Praktikum||||||||||||||10|||PL(Praktikumsleistung)||
-|Mathematik für INF 11)||4|2||6|7,5|||||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Mathematik für INF 21)||4|2||||6|7,5|||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Mathematik für INF 31)||4|2||||||6|7,5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Mathematik für INF 41)||4|2||||||||6|7,5|||||PfP: PL(K90) + SL(Übungsleistung)||
-|Wahlpflichtbereich: Wahlpflichtmodule|||||||||||||||||||
-|||||||||||||||10||5|PL(MHB)||
-|aus mind. 2 Vertiefungsrichtungen|||||||||||||||||||
-||||||||||||||||||||
-|Nebenfach(Schlüsselqualifikation)||||||||||||||5||10|PL(MHB)||
-||Schriftliche Bachelorarbeit|||||||||||||||12|||
-||||||||||||||||||Schriftliche Ausarbeitung (80%) und Vortrag (ca 45||
-|Bachelorarbeit|Begleitseminar mit Referat zur Ba-|||||||||||||||3|.<br>Min.; 20%)||
-||chelorarbeit||||||||||||||||||
-|||Summen SWS|||24||22||24||24||4||||||
-|||Summen ECTS||||30||27,5||30||32,5||30||30|||
+|**Module**|**Umfang**<br>**SWS**|**Semesteraufteilung**||**Prüfungs- und Studienleistung**|**GOP**<br>**fähi**|
+|---|---|---|---|---|---|
+||||||**g**|
+||**V**<br>**Ü**<br>**P**<br>**1. Sem. 2. S**<br>SWS<br>ECTS<br>SWS<br> <br> <br> <br>|**em. 3. Sem. 4.Sem.**<br>**5. Sem. 6**<br><br>ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS<br>S|**. Sem.**<br>WS<br>ECTS|||
+|Algorithmen und Datenstrukturen|4<br>2<br>2<br>8<br>10|||PfP: PL(K120) + SL(Übungsleistung)|ja|
+|Konzeptionelle Modellierung|2<br>2<br>4<br>5|||PL(K90)|ja|
+|Grundlagen der Technischen Informatik|4<br>2<br>6<br>7,5|||PfP: PL(K120) + SL(Übungsleistung)|ja|
+|Parallele und funktionale Programmierung|2<br>2<br>4|5||PL(K60)|ja|
+|Grundlagen der Rechnerarchitektur und -organisation|<br>2<br>2<br>4|5||PL(K90)|ja|
+|Grundlagen der Schaltungstechnik|2<br>2<br>4|5||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Systemprogrammierung|4<br>2<br>2<br>4|5<br>4<br>5||PL(K120)|ja|
+|Grundlagen der Logik in der Informatik|2<br>2|4<br>5||PfP: PL(K90) + SL(Übungsleistung)||
+|Softwareentwicklungin Großprojekten|2<br>2|4<br>5||PL(K90)<br>||
+|Berechenbarkeit und Formale Sprachen|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Theorie der Programmierung|4<br>2|6<br>7,5||PL(K90)||
+|Rechnerkommunikation|2<br>2|4<br>5||PfP: PL(K90) + SL(Übungsleistung)<br>||
+|Algorithmik kontinuierlicher Systeme|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Implementierungvon Datenbanksystemen|2<br>2|4<br>5||PL(K90)||
+|Seminar(Schlüsselqualifikation)||2<br>5||PL(Seminarleistung)||
+|Praktikum||10||PL(Praktikumsleistung)||
+|Mathematik für INF 1<sup>1)</sup>|4<br>2<br>6<br>7,5|||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Mathematik für INF 2<sup>1)</sup>|4<br>2<br>6|7,5||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Mathematik für INF 3<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Mathematik für INF 4<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Wahlpflichtbereich: Wahlpflichtmodule<br>aus mind. 2 Vertiefungsrichtungen||10|5|PL(MHB)||
+|Nebenfach(Schlüsselqualifikation)||5|10|PL(MHB)||
+|Schriftliche Bachelorarbeit|||12|Schriftliche Ausarbeitun (80%) und Vortra (ca 45||
+|Bachelorarbeit<br>Begleitseminar mit Referat zur Ba-<br>chelorarbeit|||3|g   g .<br>Min.; 20%)||
+||Summen SWS<br>24<br>22|24<br>24<br>4||||
+||Summen ECTS<br>30|27,5<br>30<br>32,5<br>30|30|||
 
-Erläuterungen: V: Vorlesung, U: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet), K: Klausur (mit Dauer in Minuten), MHB: siehe Modulhandbuch, PfP: Portfolioprüfung, GOP: Grundlagen- und Orientierungsprüfung – 30 ECTS aus den mit „ja“ gekennzeichneten Modulen.[1) ] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht“ 
+Erläuterungen: V: Vorlesung, U: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet), K: Klausur (mit Dauer in Minuten), MHB: siehe Modulhandbuch, PfP: Portfolioprüfung, GOP: Grundlagen- und Orientierungsprüfung – 30 ECTS aus den mit „ja“ gekennzeichneten Modulen.<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht“ 
 
 3 
 
@@ -146,14 +139,12 @@ schriftl. Ausarbeitung (90%) und Vortrag (ca. 45 Min.; 10%) „
 
 4 
 
-## **„Anlage 4:** 
+# **„Anlage 4:** 
 
 ## **Module die neben den Pflichtmodulen des Studiengangs Informatik in Prüfungsordnungen anderer Studiengänge referenziert werden („Export-Module“)** 
 
-|**Name des Moduls**||**ECTS**|**Prüfungsmodus**|
+|**Name des Moduls**|**Englische Bezeichnung**|**ECTS**|**Prüfungsmodus**|
 |---|---|---|---|
-||**Englische Bezeichnung**|||
-|||||
 |Grundlagen der Informatik ohne Schriftl.<br>Prüfung|Fundamentals in Computer Science<br>without Exam|5|SL|
 |Grundlagen der Informatik|Fundamentals in Computer Science|7,5|PfP: PL (K, 90 min.) und SL|
 |Informatik für Ingenieure|Computer Science for Engineers|5|K, 90 min.|
@@ -183,10 +174,8 @@ schriftl. Ausarbeitung (90%) und Vortrag (ca. 45 Min.; 10%) „
 
 5 
 
-|**Name des Moduls**||**ECTS**|**Prüfungsmodus**|
+|**Name des Moduls**|**Englische Bezeichnung**|**ECTS**|**Prüfungsmodus**|
 |---|---|---|---|
-||**Englische Bezeichnung**|||
-|||||
 |Grundlagen des Software Engineering|Software Engineering Foundations|7,5|K, 90 min.|
 |Hardware-Software-Co-Design|Hardware-Software-Co-Design|5|K, 90 min.|
 |Testen von Softwaresystemen|Testing of Software Systems|5|m|
@@ -198,21 +187,17 @@ PfP=Portfolioprüfung; K=Klausur; m=mündliche Prüfung, ca. 30 min.
 
 „ 
 
-## 14. Nach Anlage 4 wird folgende Anlage 5 angefügt: 
+# 14. Nach Anlage 4 wird folgende Anlage 5 angefügt: 
 
 6 
 
-## „Anlage 5 
+# „Anlage 5 
 
-||||
-|---|---|---|
 ||**Fahrzeugtechnik**|**Heterogene Bildsysteme**|
+|---|---|---|
 |Vertiefungsrichtungen|Vertiefungsrichtung Programmiersysteme<br>sowie zusätzlich zwei Vertiefungsrichtun-<br>gen der systemorientierten Säule|keine Einschränkung|
-||||
 |Wahlpflichtbereich|Auswahl aus der ortsüblich bekanntge-<br>machten Liste der für diesen Studien-<br>schwerpunkt geeigneten Wahlpflichtmodu-<br>le des Wahlpflichtbereichs  im Umfang von<br>15 ECTS|Auswahl aus der ortsüblich bekanntgemachten<br>Liste der für diesen Studienschwerpunkt geeig-<br>neten Wahlpflichtmodule des Wahlpflichtbe-<br>reichs im Umfang von 30 ECTS|
-||||
 |Projekt|Auswahl aus der ortsüblich bekanntge-<br>machten Liste der für diesen Studien-<br>schwerpunkt geeigneten Projekte|Auswahl aus der ortsüblich bekanntgemachten<br>Liste der für diesen Studienschwerpunkt geeig-<br>neten Projekte|
-||||
 |Nebenfach|„Elektrotechnik,<br>Elektronik und Informationstechnik“ oder<br>„Maschinenbau“|„Elektrotechnik, Elektronik und Informations-<br>technik“|
 
 **„** 

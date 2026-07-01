@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_Informatik_BAMA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:57+00:00
-page_count_chars: 8082
+scraped_at: 2026-07-01T11:37:57+00:00
+page_count_chars: 7493
 ---
 
 # 25. Juli 2008
@@ -12,9 +12,9 @@ page_count_chars: 8082
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_Informatik_BAMA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg – FPOI –** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg – FPOI –** 
 
-## Vom 25. Juli 2008 
+# Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -30,99 +30,103 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 3. § 37 Abs. 1 wird wie folgt geändert: 
 
-   - a. Die Worte „Grundlagen der Algorithmik“ werden durch die Worte „Algorithmen und Datenstrukturen“ ersetzt. 
+      - a. Die Worte „Grundlagen der Algorithmik“ werden durch die Worte „Algorithmen und Datenstrukturen“ ersetzt. 
 
-   - b. Die Worte „Funktionale und Parallele Programmierung“ werden durch die Worte „Parallele und Funktionale Programmierung“ ersetzt. 
+      - b. Die Worte „Funktionale und Parallele Programmierung“ werden durch die Worte „Parallele und Funktionale Programmierung“ ersetzt. 
 
 4. § 41 Abs. 2 wird wie folgt geändert: 
 
-   - a. Satz 3 erhält folgende Fassung: 
+      - a. Satz 3 erhält folgende Fassung: 
 
-      - „[3] Die Bachelor-Arbeit wird von einer Hochschullehrerin oder einem Hochschullehrer der Informatik ausgegeben.“ 
+         - „<sup>3</sup> Die Bachelor-Arbeit wird von einer Hochschullehrerin oder einem Hochschullehrer der Informatik ausgegeben.“ 
 
-   - b. Folgender Satz 4 wird angefügt: „[4] Ausnahmen hiervon kann der Prüfungsausschuss in begründeten Fällen genehmigen.“ 
+      - b. Folgender Satz 4 wird angefügt: 
+
+         - „<sup>4</sup> Ausnahmen hiervon kann der Prüfungsausschuss in begründeten Fällen genehmigen.“ 
 
 5. In § 46 Abs. 2 wird folgender Satz 3 angefügt: 
 
-„[3] § 41 Abs. 2 Sätze 3 und 4 gelten entsprechend“ 
+   - „<sup>3</sup> § 41 Abs. 2 Sätze 3 und 4 gelten entsprechend“ 
 
 6. Anlage 1 wird die folgt gefasst: 
 
 „Anlage 1a: Module des Bachelorstudiums Informatik bei Beginn im Wintersemester mit Angabe der ECTS-Punkte, der Verteilung auf die Semester und des Prüfungsmodus 
 
-||**Module**|**Umfang SWS**|**Umfang SWS**|**Umfang SWS**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Prüfung**|**Prüfung**|**Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|<br>Name (Modul bzw. Teilmodul)|V|Ü|P|1. Sem.<br>WS<br>SWS<br>ECTS||2. Sem.<br>SS<br>SWS<br>ECTS||3. Sem.<br>WS<br>SWS<br>ECTS||4. Sem.<br>SS<br>SWS<br>ECTS||5. Sem.<br>WS<br>SWS<br>ECTS||6. Sem.<br>SS<br>SWS<br>ECTS||Schein*|Prüfungsart<br>und -dauer<br>in Minuten|GOP|
-|||||||ECTS||ECTS||ECTS||ECTS||ECTS||ECTS||||
-|1|Algorithmen und Datenstrukturen|4|2|2|8|10|||||||||||u|Klausur 120|●|
-|2|Grundlagen der Logik und Logikprogrammierung|2|2||4|5|||||||||||u|Klausur 90|●|
-|3|Parallele und funktionale Programmierung|2|2||||4|5||||||||||Klausur 60|●|
-|4|Algorithmik kontinuierlicher Systeme|4|2||||||||6|7,5|||||u|Klausur 90||
-|5|Grundlagen der Technischen Informatik|4|2||6|7,5|||||||||||u|Klausur 120|●|
-|6|Grundlagen der Rechnerarchitektur und<br>-organisation|2|2||||4|5||||||||||Klausur 90||
-|7|Grundlagen der Schaltungstechnik|2|2||||4|5|||||||||u|Klausur 90||
-|8|Rechnerkommunikation|2|2||||||||4|5|||||u|Klausur 90||
-|9|Konzeptionelle Modellierung|2|2||||4|5||||||||||Klausur 90|●|
-|10|Softwareentwicklungin Großprojekten|2|2||||||4|5||||||||Klausur 90||
-|11|Systemprogrammierung|4|2|2|||||8|10|||||||u|Klausur 120||
-|12|Datenbanksysteme|2|2||||||||||4|5||||Klausur 90||
-|13|Berechenbarkeit und Formale Sprachen|4|2||||||6|7,5|||||||u|Klausur 90||
-|14|Komplexität von Algorithmen|4|2||||||||6|7,5|||||u|Klausur 90||
-|15|Präsentationstechnik|2|||||2|2,5|||||||||b|||
-|16|Seminar||||||||||2|2,5|||||b|||
-|17|Praktikum|||||||||||||10|||b|||
-|18|Mathematik C 1|4|2||6|7,5|||||||||||u|Klausur 90|●|
-|19|Mathematik C 2|4|2||||6|7,5|||||||||u|Klausur 90|●|
-|20|Mathematik C 3|4|2||||||6|7,5|||||||u|Klausur 90||
-|21|Mathematik C 4|4|2||||||||6|7,5|||||u|Klausur 90||
-|22|Wahlpflichtbereich: Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen|||||||||||||10||5|b|||
-|23|Nebenfach|||||||||||||5||10|b1|||
-|24|Schriftliche Bachelorarbeit|||||||||||||||12|b|||
-||Begleitseminar mit Referat zur Bachelorarbeit|||||||||||||||3|b|||
-|||Summen  SWS|||24||24||24||24||4|||||||
-|||Summen ECTS||||30||30||30||30||30||30||||
+||**Module**|**Umf**|**ang SWS**|||**Semestera**|**ufte**|**ilung**||||**Prüfung**||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||1 Sem<br>2|Sem|3 Sem|4|Sem|5 Sem|6 Sem||||
+|||||. .<br>|. .|. .|.|.|. .|. .||Prüfungsart||
+|Nr|.<br>Name (Modul bzw. Teilmodul)|V|Ü<br>P|WS<br>SWS<br>ECTS<br>SW|SS<br>S<br>ECTS|WS<br>SWS<br>ECTS|SWS|SS<br> <br>ECTS|WS<br>SWS<br>ECTS<br>S|SS<br>WS<br>ECTS|Schein*|<br>und -dauer<br>in Minuten|GOP|
+|1|Algorithmen und Datenstrukturen|4|2<br>2|8<br>10|||||||u|Klausur 120|●|
+|2|Grundlagen der Logik und Logikprogrammierung|2|2|4<br>5|||||||u|Klausur 90|●|
+|3|Parallele und funktionale Programmierung|2|2|4|<br>5|||||||Klausur 60|●|
+|4|Algorithmik kontinuierlicher Systeme|4|2||||6|7,5|||u|Klausur 90||
+|5|Grundlagen der Technischen Informatik|4|2|6<br>7,5|||||||u|Klausur 120|●|
+|6|Grundlagen der Rechnerarchitektur und<br>-organisation|2|2|4|<br>5|||||||Klausur 90||
+|7|Grundlagen der Schaltungstechnik|2|2|4|<br>5||||||u|Klausur 90||
+|8|Rechnerkommunikation|2|2||||4|5|||u|Klausur 90||
+|9|Konzeptionelle Modellierung|2|2|4|<br>5|||||||Klausur 90|●|
+|10|<br>Softwareentwicklungin Großprojekten|2|2|||4<br>5||||||Klausur 90||
+|11|<br>Systemprogrammierung|4|2<br>2|||8<br>10|||||u|Klausur 120||
+|12|<br>Datenbanksysteme|2|2||||||4<br>5|||Klausur 90||
+|13|<br>Berechenbarkeit und Formale Sprachen|4|2|||6<br>7,5|||||u|Klausur 90||
+|14|<br>Komplexität von Algorithmen|4|2||||6|7,5|||u|Klausur 90||
+|15|<br>Präsentationstechnik|2||2|<br>2,5||||||b|||
+|16|<br>Seminar||||||2|2,5|||b|||
+|17|<br>Praktikum||||||||10||b|||
+|18|<br>Mathematik C 1|4|2|6<br>7,5|||||||u|Klausur 90|●|
+|19|<br>Mathematik C 2|4|2|6|<br>7,5||||||u|Klausur 90|●|
+|20|<br>Mathematik C 3|4|2|||6<br>7,5|||||u|Klausur 90||
+|21|<br>Mathematik C 4|4|2||||6|7,5|||u|Klausur 90||
+|22|<br>Wahlpflichtbereich: Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen||||||||10|5|b|||
+|23|<br>Nebenfach||||||||5|10|b<sup>1</sup>|||
+|24|<br>Schriftliche Bachelorarbeit|||||||||12|b|||
+||<br>Begleitseminar mit Referat zur Bachelorarbeit|||||||||3|b|||
+|||Sum|men  SWS|24<br>2|4|24|24||4|||||
+|||Sum|men ECTS|30|30|30||30|30|30||||
 
 **Erläuterungen:** 
 
-V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems * u: unbenoteter Schein für die Übungen, b: benoteter Schein, b[1: ] benotete Scheine, sofern die FPO des beteiligten Nebenfachs keine andere Regelung vorsieht. 
+V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems * u: unbenoteter Schein für die Übungen, b: benoteter Schein, b<sup>1:</sup> benotete Scheine, sofern die FPO des beteiligten Nebenfachs keine andere Regelung vorsieht. 
 
 Anlage 1b: Module des Bachelorstudiums Informatik bei Beginn im Sommersemester mit Angabe der ECTS-Punkte, der Verteilung auf die Semester und des Prüfungsmodus 
 
-||**Module**|**Umfang SWS**|**Umfang SWS**|**Umfang SWS**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Prüfung**|**Prüfung**|**Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|<br>Name (Modul bzw. Teilmodul)|V|Ü|P|1. Sem.<br>SS<br>SWS<br>ECTS||2. Sem.<br>WS<br>SWS<br>ECTS||3. Sem.<br>SS<br>SWS<br>ECTS||4. Sem.<br>WS<br>SWS<br>ECTS||5. Sem.<br>SS<br>SWS<br>ECTS||6. Sem.<br>WS<br>SWS<br>ECTS||Schein*|Prüfungsart<br>und -dauer<br>in Minuten|GOP|
-|||||||ECTS||ECTS||ECTS||ECTS||ECTS||ECTS||||
-|1|Algorithmen und Datenstrukturen|4|2|2|8|10|||||||||||u|Klausur 120|●|
-|2|Grundlagen der Logik und Logikprogrammierung|2|2||4|5|||||||||||u|Klausur 90|●|
-|3|Parallele und funktionale Programmierung|2|2||||4|5||||||||||Klausur 60|●|
-|4|Algorithmik kontinuierlicher Systeme|4|2||||||6|7,5|||||||u|Klausur 90||
-|5|Grundlagen der Technischen Informatik|4|2||||6|7,5|||||||||u|Klausur 120|●|
-|6|Grundlagen der Rechnerarchitektur und<br>-organisation|2|2||||||4|5||||||||Klausur 90||
-|7|Grundlagen der Schaltungstechnik|2|2||4|5|||||||||||u|Klausur 90||
-|8|Rechnerkommunikation|2|2||||4|5|||||||||u|Klausur 90||
-|9|Konzeptionelle Modellierung|2|2||||4|5||||||||||Klausur 90|●|
-|10|Softwareentwicklungin Großprojekten|2|2||||||||4|5||||||Klausur 90||
-|11|Systemprogrammierung|4|2|2|||||8|10|||||||u|Klausur 120||
-|12|Datenbanksysteme|2|2||||||||4|5||||||Klausur 90||
-|13|Berechenbarkeit und Formale Sprachen|4|2||||||||6|7,5|||||u|Klausur 90||
-|14|Komplexität von Algorithmen|4|2||||||||||6|7,5|||u|Klausur 90||
-|15|Präsentationstechnik|2|||2|2,5|||||||||||b|||
-|16|Seminar||||||||2|2,5|||||||b|||
-|17|Praktikum|||||||||||||10|||b|||
-|18|Mathematik C 1|4|2||||6|7,5|||||||||u|Klausur 90|●|
-|19|Mathematik C 2|4|2||6|7,5|||||||||||u|Klausur 90|●|
-|20|Mathematik C 3|4|2||||||||6|7,5|||||u|Klausur 90||
-|21|Mathematik C 4|4|2||||||||||6|7,5|||u|Klausur 90||
-|22|Wahlpflichtbereich: Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen|||||||||||||5||10|b|||
-|23|Nebenfach|||||||||5||5||5|||b1|||
-|24|Schriftliche Bachelorarbeit|||||||||||||||12|b|||
-||Begleitseminar mit Referat zur Bachelorarbeit|||||||||||||||3|b|||
-|||Summen  SWS|||24||24||20||20||12|||||||
-|||Summen ECTS||||30||30||30||30||30||30||||
+||**Module**|**Umf**|**ang SWS**||||**Semestera**|**ufteilung**|||||**Prüfung**||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||1 Sem|2|Sem|3 Sem|4 Sem|5|Sem|6 Sem||||
+|||||. .|.|.|. .|. .|.|.|. .||Prüfungsart||
+|Nr|.<br>Name (Modul bzw. Teilmodul)|V|Ü<br>P|SS<br>SWS<br>ECTS<br>S|<br>WS|WS<br> <br>ECTS|SS<br>SWS<br>ECTS|WS<br>SWS<br>ECTS<br>|<br>SWS|SS<br> <br>ECTS<br>S|WS<br>WS<br>ECTS|Schein*|<br>und -dauer<br>in Minuten|GOP|
+|1|Algorithmen und Datenstrukturen|4|2<br>2|8<br>10||||||||u|Klausur 120|●|
+|2|Grundlagen der Logik und Logikprogrammierung|2|2|4<br>5||||||||u|Klausur 90|●|
+|3|Parallele und funktionale Programmierung|2|2||4|5|||||||Klausur 60|●|
+|4|Algorithmik kontinuierlicher Systeme|4|2||||6<br>7,5|||||u|Klausur 90||
+|5|Grundlagen der Technischen Informatik|4|2||6|7,5||||||u|Klausur 120|●|
+|6|Grundlagen der Rechnerarchitektur und<br>-organisation|2|2||||4<br>5||||||Klausur 90||
+|7|Grundlagen der Schaltungstechnik|2|2|4<br>5||||||||u|Klausur 90||
+|8|Rechnerkommunikation|2|2||4|5||||||u|Klausur 90||
+|9|Konzeptionelle Modellierung|2|2||4|5|||||||Klausur 90|●|
+|10|<br>Softwareentwicklungin Großprojekten|2|2|||||4<br>5|||||Klausur 90||
+|11|<br>Systemprogrammierung|4|2<br>2||||8<br>10|||||u|Klausur 120||
+|12|<br>Datenbanksysteme|2|2|||||4<br>5|||||Klausur 90||
+|13|<br>Berechenbarkeit und Formale Sprachen|4|2|||||6<br>7,5||||u|Klausur 90||
+|14|<br>Komplexität von Algorithmen|4|2||||||6|7,5||u|Klausur 90||
+|15|<br>Präsentationstechnik|2||2<br>2,5||||||||b|||
+|16|<br>Seminar||||||2<br>2,5|||||b|||
+|17|<br>Praktikum|||||||||10||b|||
+|18|<br>Mathematik C 1|4|2||6|7,5||||||u|Klausur 90|●|
+|19|<br>Mathematik C 2|4|2|6<br>7,5||||||||u|Klausur 90|●|
+|20|<br>Mathematik C 3|4|2|||||6<br>7,5||||u|Klausur 90||
+|21|<br>Mathematik C 4|4|2||||||6|7,5||u|Klausur 90||
+|22|<br>Wahlpflichtbereich: Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen|||||||||5|10|b|||
+|23|<br>Nebenfach||||||5|5||5||b<sup>1</sup>|||
+|24|<br>Schriftliche Bachelorarbeit||||||||||12|b|||
+||<br>Begleitseminar mit Referat zur Bachelorarbeit||||||||||3|b|||
+|||Sum|men  SWS|24<br>|24||20|20|12||||||
+|||Sum|men ECTS|30||30|30|30||30|30||||
 
 **Erläuterungen:** V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems 
 
-* u: unbenoteter Schein für die Übungen, b: benoteter Schein, b[1: ] benotete Scheine, sofern die FPO des beteiligten Nebenfachs keine andere Regelung vorsieht. **„** 
+* u: unbenoteter Schein für die Übungen, b: benoteter Schein, b<sup>1:</sup> benotete Scheine, sofern die FPO des beteiligten Nebenfachs keine andere Regelung vorsieht. **„** 
 
 **§ 2** 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 28.06.2013 i.d.F. 30.10.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Sprachpruefung_UNIcert_Neu_OKT2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:32+00:00
-page_count_chars: 16105
+scraped_at: 2026-07-01T11:12:47+00:00
+page_count_chars: 16207
 ---
 
 # PDF vom 28.06.2013 i.d.F. 30.10.2015
@@ -14,7 +14,7 @@ page_count_chars: 16105
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I-III) Vom 28. Juni 2013** 
+# **Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I-III) Vom 28. Juni 2013** 
 
 Geändert durch Satzung vom 30. Oktober 2015 
 
@@ -80,7 +80,9 @@ Aufgrund von Art. 13 und Art. 61 des Bayerischen Hochschulgesetzes (BayHSchG) er
 
 ## **§ 6** 
 
-**Anrechnung von extern erbrachten Leistungen** Abweichend von § 5 Abs. 1 Nr. 2 kann zu den Fremdsprachenprüfungen UNIcert® Basis, UNIcert® I, UNIcert® II und UNIcert® III zugelassen werden, wer entsprechende 
+## **Anrechnung von extern erbrachten Leistungen** 
+
+Abweichend von § 5 Abs. 1 Nr. 2 kann zu den Fremdsprachenprüfungen UNIcert® Basis, UNIcert® I, UNIcert® II und UNIcert® III zugelassen werden, wer entsprechende 
 
 2 
 
@@ -104,9 +106,9 @@ Sprachkenntnisse aufgrund der Teilnahme an einem Einstufungstest sowie Teilnahme
 
 (2) Unbeschadet der Fristen gemäß § 7 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von gemäß § 7 angemeldeten schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag. 
 
-(3)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ bewertet, wenn die Studierende oder der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt. 4In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 
+(3)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ bewertet, wenn die Studierende oder der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt. 4In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 
 
-(4) ¹Wenn sich eine Bewerberin bzw. ein Bewerber unerlaubter Hilfe bedient oder eine Täuschung unternommen hat, so ist eine Prüfungsleistung mit "nicht ausreichend" zu bewerten. ²Wer der den ordnungsgemäßen Ablauf der Prüfung stört, kann von der jeweiligen Prüferin bzw. dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden. ³Die betreffende Prüfungsleistung wird mit "nicht ausreichend" bewertet.[4] In diesen Fällen entscheidet der Prüfungsausschuss. 
+(4) ¹Wenn sich eine Bewerberin bzw. ein Bewerber unerlaubter Hilfe bedient oder eine Täuschung unternommen hat, so ist eine Prüfungsleistung mit "nicht ausreichend" zu bewerten. ²Wer der den ordnungsgemäßen Ablauf der Prüfung stört, kann von der jeweiligen Prüferin bzw. dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden. ³Die betreffende Prüfungsleistung wird mit "nicht ausreichend" bewertet.<sup>4</sup> In diesen Fällen entscheidet der Prüfungsausschuss. 
 
 ## **§ 9** 
 
@@ -120,7 +122,7 @@ Sprachkenntnisse aufgrund der Teilnahme an einem Einstufungstest sowie Teilnahme
 
 (1) ¹Die Fremdsprachenprüfungen aller Stufen bestehen jeweils aus einem schriftlichen und einem mündlichen Prüfungsteil. ²Die schriftlichen Prüfungen sind jeweils vor den mündlichen Prüfungen abzulegen. 
 
-(2) ¹Auf den UNIcert®-Stufen Basis, UNIcert® I und UNIcert® II entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis der/s letzten für diese Ausbildungsstufe notwendigen Kurse/s. ²Die mündliche Prüfung besteht aus einem 10minütigen (UNIcert® Basis, UNIcert® I) bzw. einem 15-minütigen (UNIcert® II) Gespräch. ³Auf der UNIcert®-Stufe II in Englisch entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des zur Zulassung notwendigen Level 2 Kurses mit schriftlicher Komponente.[4] Die mündliche Prüfungsleistung entspricht dem Leistungsnachweis des zur Zulassung obligatorischen Level 2 Kurses mit Hörverstehen und mündlicher Prüfung. 
+(2) ¹Auf den UNIcert®-Stufen Basis, UNIcert® I und UNIcert® II entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis der/s letzten für diese Ausbildungsstufe notwendigen Kurse/s. ²Die mündliche Prüfung besteht aus einem 10minütigen (UNIcert® Basis, UNIcert® I) bzw. einem 15-minütigen (UNIcert® II) Gespräch. ³Auf der UNIcert®-Stufe II in Englisch entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des zur Zulassung notwendigen Level 2 Kurses mit schriftlicher Komponente.<sup>4</sup> Die mündliche Prüfungsleistung entspricht dem Leistungsnachweis des zur Zulassung obligatorischen Level 2 Kurses mit Hörverstehen und mündlicher Prüfung. 
 
 (3) Für die Fremdsprachenprüfung UNIcert® III sind folgende Prüfungsleistungen zu erbringen: 
 
@@ -146,12 +148,9 @@ a) einem 30 minütigen Hörverstehen
 
 4 
 
-## **§ 12 Prüfungsergebnisse und Zeugnisse** 
-
-(1) Für die Bewertung der Prüfungsleistungen sind folgende Noten zu verwenden: 
-
-|1,00;1,30|=|"sehrgut“|=|einehervorragendeLeistung|
+|(1)FürdieBew|ertu|**Prüfungs**<br>ng der Prüfung|**erg**<br>sleis|**§ 12**<br>**ebnisse und Zeugnisse**<br>tungensindfolgendeNoten zuverwenden:|
 |---|---|---|---|---|
+|1,00;1,30|=|"sehrgut“|=|einehervorragendeLeistung|
 |1,70; 2,00; 2,30|=|"gut"|=|eine Leistung, die erheblich über den durchschnittlichen<br>Anforderungen liegt|
 |2,70; 3,00; 3,30|=|"befriedigend"|=|eine Leistung, die den durchschnittlichen Anforderungen<br>entspricht|
 |3,70; 4,00|=|"ausreichend"|=|eine Leistung, die trotz ihrer Mangel noch den<br>Anforderungengenügt|
@@ -159,7 +158,7 @@ a) einem 30 minütigen Hörverstehen
 
 (2) Bei verschiedener Bewertung einer Prüfungsleistung durch zwei verschiedene Prüferinnen bzw. Prüfer wird die Note gemittelt. 
 
-(3) ¹Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet. ²Die Gesamtnote der Prüfungen UNIcert Basis, UNIcert I und UNIcert II errechnet sich aus dem Durchschnitt der dreifach gewichteten Prüfungsleistung nach § 10 Abs. 2 S. 1.und der einfach gewichteten Prüfungsleistung nach §10 Abs. 2 S. 2. 3Abweichend von Satz 2 errechnet sich die Gesamtnote UNIcert® II Englisch aus dem Durchschnitt aus mündlichem und schriftlichem Prüfungsteil.[4] Die Gesamtnote der Prüfungen UNIcert III gemäß § 10 Abs. 3 errechnet sich aus dem Durchschnitt des schriftlichen und des mündlichen Prüfungsteils.[5] Die Gesamtnote lautet: 
+(3) ¹Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet. ²Die Gesamtnote der Prüfungen UNIcert Basis, UNIcert I und UNIcert II errechnet sich aus dem Durchschnitt der dreifach gewichteten Prüfungsleistung nach § 10 Abs. 2 S. 1.und der einfach gewichteten Prüfungsleistung nach §10 Abs. 2 S. 2. 3Abweichend von Satz 2 errechnet sich die Gesamtnote UNIcert® II Englisch aus dem Durchschnitt aus mündlichem und schriftlichem Prüfungsteil.<sup>4</sup> Die Gesamtnote der Prüfungen UNIcert III gemäß § 10 Abs. 3 errechnet sich aus dem Durchschnitt des schriftlichen und des mündlichen Prüfungsteils.<sup>5</sup> Die Gesamtnote lautet: 
 
 bei einem Durchschnitt bis 1,50 = "sehr gut" bei einem Durchschnitt über 1,50 bis 2,50 = "gut" bei einem Durchschnitt über 2,50 bis 3,50 = "befriedigend" bei einem Durchschnitt über 3,50 bis 4,00 = "ausreichend" bei einem Durchschnitt über 4,00 = "nicht ausreichend". 
 
@@ -195,27 +194,26 @@ bei einem Durchschnitt bis 1,50 = "sehr gut" bei einem Durchschnitt über 1,50 b
 
    - 2Ein allgemeines Kursangebot von Anfängerkursen ab initio bis zum Abschluss der UNIcert® Stufe III besteht wie folgt: 
 
-||**UNIcert®**<br>**BASIS**|**UNIcert® I**|**UNIcert® II**||**UNIcert® III**|||
-|---|---|---|---|---|---|---|---|
-||||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**||**Fachbezogene**<br>**Ausrichtung**|
-|Arabisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Chinesisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Englisch|kein Angebot|kein Angebot|8 SWS<br>(2 Module<br>à 4 SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung Technik,<br>Naturwiss.|8 SWS||8  SWS<br>Fachrichtungen:<br>Wirtschaft, Recht, IWR,<br>Medizin, Technik, Kultur u.<br>Geisteswiss.,<br>Naturwissenschaft|
-|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS||8  SWS<br>Fachrichtungen:<br>Wirtschaft, Recht,<br>Medizin, Kultur u.<br>Geisteswiss.|
-|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8  SWS<br>Fachrichtungen:<br>Recht,<br>Kultur<br>u.<br>Geisteswiss.,<br>Wirtschaft|
-|Neugriechisch|8 SWS|8 SWS|10 SWS|kein Angebot|kein Angebot||kein Angebot|
-|Niederländisch|Kein Angebot|8 SWS|6  SWS|kein Angebot|kein Angebot||kein Angebot|
-|Polnisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Portugiesisch|8 SWS|4 SWS|8 SWS|8 SWS|kein Angebot||8  SWS<br>Fachrichtung:Wirtschaft|
-|Russisch|8 SWS|8 SWS|10 SWS|10 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtung:Wirtschaft|
-|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot||kein Angebot|
-|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss,<br>Medizin, Wirtschaft|
-|Tschechisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Türkisch|12 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+||**UNIcert®**<br>|**UNIcert® I**|**UNIcert® II**||**UNIcert® III**||
+|---|---|---|---|---|---|---|
+||**BASIS**||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|
+|Arabisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Chinesisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Englisch|kein Angebot|kein Angebot|8 SWS<br>(2 Module<br>à 4 SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung Technik,<br>Naturwiss.|8 SWS|8  SWS<br>Fachrichtungen:<br>Wirtschaft, Recht, IWR,<br>Medizin, Technik, Kultur u.<br>Geisteswiss.,<br>Naturwissenschaft|
+|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS|8  SWS<br>Fachrichtungen:<br>Wirtschaft, Recht,<br>Medizin, Kultur u.<br>Geisteswiss.|
+|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8  SWS<br>Fachrichtungen:<br>Recht,<br>Kultur<br>u.<br>Geisteswiss.,<br>Wirtschaft|
+|Neugriechisch|8 SWS|8 SWS|10 SWS|kein Angebot|kein Angebot|kein Angebot|
+|Niederländisch|Kein Angebot|8 SWS|6  SWS|kein Angebot|kein Angebot|kein Angebot|
+|Polnisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Portugiesisch|8 SWS|4 SWS|8 SWS|8 SWS|kein Angebot|8  SWS<br>Fachrichtung:Wirtschaft|
+|Russisch|8 SWS|8 SWS|10 SWS|10 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtung:Wirtschaft|
+|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|
+|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss,<br>Medizin, Wirtschaft|
+|Tschechisch<br>Türkisch|8 SWS<br>12 SWS|6 SWS<br>kein Angebot|kein Angebot<br>kein Angebot|kein Angebot<br>kein Angebot|kein Angebot<br>kein Angebot|kein Angebot<br>kein Angebot|
 
 6 
 
-1In den folgenden Sprachen kann die Elementare Fremdsprachenprüfung abgelegt werden.[2] Sie sind jedoch nicht UNIcert®-akkreditiert. 
+1In den folgenden Sprachen kann die Elementare Fremdsprachenprüfung abgelegt werden.<sup>2</sup> Sie sind jedoch nicht UNIcert®-akkreditiert. 
 
 |**Sprache**|**Elementare Fremdsprachenausbildung**|
 |---|---|

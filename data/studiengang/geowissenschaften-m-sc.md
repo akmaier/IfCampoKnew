@@ -8,7 +8,7 @@ unterrichtssprache: "Deutsch oder Englisch möglich"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:45:35+00:00
+scraped_at: 2026-07-01T08:22:14+00:00
 ---
 
 # Geowissenschaften (M.Sc.)
@@ -142,7 +142,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Sprachkenntnisse
 
 * Englisch B2 ( und DSH, je nach Studienrichtung)
-* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmten Voraussetzungen erforderlich
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmter Schwerpunktsetzung
 
 ### Voraussetzungen für Master
 

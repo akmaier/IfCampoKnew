@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:45:13+00:00
+scraped_at: 2026-07-01T08:21:56+00:00
 ---
 
 # Geographie: Kulturgeographie (B.A.)
@@ -37,7 +37,7 @@ Im Studium setzen Sie sich mit den Ursachen und Auswirkungen auf globaler und lo
 
 Kulturgeographie befasst sich außerdem mit Gesellschaften und der Raumbezogenheit des menschlichen Handelns.
 
-### Bachelor of Arts (1 Fach) Kulturgeographie (1 Fach)
+### Fachanteile des Studiengangs Geographie: Kulturgeographie (B.A.)
 
 * Gesellschaft-/Umwelt (15%)
 * Globale Ungleichheit (15%)

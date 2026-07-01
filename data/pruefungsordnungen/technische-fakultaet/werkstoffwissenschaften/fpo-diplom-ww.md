@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.12.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-Diplom-WW.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:35:18+00:00
-page_count_chars: 18292
+scraped_at: 2026-07-01T11:50:45+00:00
+page_count_chars: 18649
 ---
 
 # PDF vom 13.12.2000
@@ -24,7 +24,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **§ 1 Geltungsbereich** 
 
-1Diese Fachprüfungsordnung regelt die Prüfungen im Diplomstudiengang Werkstoffwissenschaften.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
+1Diese Fachprüfungsordnung regelt die Prüfungen im Diplomstudiengang Werkstoffwissenschaften.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
 
 ## **§ 2 Diplomgrad** 
 
@@ -32,9 +32,9 @@ Aufgrund der bestandenen Diplomprüfung im Diplomstudiengang Werkstoffwissenscha
 
 ## **§ 3 Umfang und Gliederung des Studiums, Regelstudienzeit** 
 
-(1)[1] Das Studium der Werkstoffwissenschaften mit dem Abschlussziel Diplom setzt sich aus Lehrveranstaltungen im Umfang von 179 SWS, verteilt auf acht Semester, und der Anfertigung einer sechswöchigen Studienarbeit zusammen.[2] Hinzu kommen 12 Wochen für die Ableistung der in das Studium integrierten berufspraktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.[3] Die Regelstudienzeit beträgt neun Semester. 
+(1)<sup>1</sup> Das Studium der Werkstoffwissenschaften mit dem Abschlussziel Diplom setzt sich aus Lehrveranstaltungen im Umfang von 179 SWS, verteilt auf acht Semester, und der Anfertigung einer sechswöchigen Studienarbeit zusammen.<sup>2</sup> Hinzu kommen 12 Wochen für die Ableistung der in das Studium integrierten berufspraktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit beträgt neun Semester. 
 
-(2)[1] Das Diplomstudium gliedert sich in ein Grundstudium und ein Hauptstudium.[2] Das viersemestrige Grundstudium umfasst die naturwissenschaftlichen, ingenieurwissenschaftlichen und werkstoffwissenschaftlichen Grundlagen; es wird mit der Diplomvorprüfung abgeschlossen.[3] Das Hauptstudium ist in zwei zweisemestrige Studienabschnitte gegliedert, die mit Teil I und Teil II der Diplomhauptprüfung abgeschlossen werden.[4] Der erste Studienabschnitt und der ihn abschließende Teil I der Diplomhauptprüfung umfasst die werkstoffwissenschaftliche Vertiefung, ein technisches Schwerpunktfach und die Produktions- und Betriebswirtschaftslehre, der zweite Studienabschnitt und der ihn abschließende Teil II der Diplomhauptprüfung ein werkstoffwissenschaftliches Kernfach und ein Wahlfach.[5] Das Diplomstudium wird mit der Diplomarbeit abgeschlossen. 
+(2)<sup>1</sup> Das Diplomstudium gliedert sich in ein Grundstudium und ein Hauptstudium.<sup>2</sup> Das viersemestrige Grundstudium umfasst die naturwissenschaftlichen, ingenieurwissenschaftlichen und werkstoffwissenschaftlichen Grundlagen; es wird mit der Diplomvorprüfung abgeschlossen.<sup>3</sup> Das Hauptstudium ist in zwei zweisemestrige Studienabschnitte gegliedert, die mit Teil I und Teil II der Diplomhauptprüfung abgeschlossen werden.<sup>4</sup> Der erste Studienabschnitt und der ihn abschließende Teil I der Diplomhauptprüfung umfasst die werkstoffwissenschaftliche Vertiefung, ein technisches Schwerpunktfach und die Produktions- und Betriebswirtschaftslehre, der zweite Studienabschnitt und der ihn abschließende Teil II der Diplomhauptprüfung ein werkstoffwissenschaftliches Kernfach und ein Wahlfach.<sup>5</sup> Das Diplomstudium wird mit der Diplomarbeit abgeschlossen. 
 
 1 
 
@@ -42,9 +42,9 @@ Aufgrund der bestandenen Diplomprüfung im Diplomstudiengang Werkstoffwissenscha
 
 (1) Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung sollen studienbegleitend abgelegt werden in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktsystem erbracht.[2] Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.[3] Eine zweite Wiederholung einer Prüfung ist zulässig bis zur Schwelle der Maluspunkte gemäß § 7 Abs. 4 und § 12 Abs. 6. 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktsystem erbracht.<sup>2</sup> Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.<sup>3</sup> Eine zweite Wiederholung einer Prüfung ist zulässig bis zur Schwelle der Maluspunkte gemäß § 7 Abs. 4 und § 12 Abs. 6. 
 
-## **I. Diplomvorprüfung** 
+# **I. Diplomvorprüfung** 
 
 ## **§ 5 Meldung zur Diplomvorprüfung** 
 
@@ -52,7 +52,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomvorprüfung anmelden, dass er di
 
 ## **§ 6 Zulassungsvoraussetzungen zur Diplomvorprüfung** 
 
-(1) Voraussetzung für die Zulassung zu der 
+- (1) Voraussetzung für die Zulassung zu der 
 
 1. Prüfung in Mathematik I und II: 
 
@@ -104,7 +104,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomvorprüfung anmelden, dass er di
 
 7.  Übungen Einführung in die Konstruktionslehre 
 
-(3)[1] Der zum Erwerb eines Leistungsnachweises nach den Absätzen 1 und 2 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden. 
+(3)<sup>1</sup> Der zum Erwerb eines Leistungsnachweises nach den Absätzen 1 und 2 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden. 
 
 ## **§ 7 Umfang und Durchführung der Diplomvorprüfung** 
 
@@ -146,7 +146,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomvorprüfung anmelden, dass er di
 
 (5) In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht der Leistungspunkte ein. 
 
-## **II. Diplomhauptprüfung** 
+# **II. Diplomhauptprüfung** 
 
 ## **§ 8 Meldung zur Diplomhauptprüfung** 
 
@@ -156,13 +156,13 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 9 Anerkennung von Diplomvorprüfungen** 
 
-(1)[1] Eine Diplomvorprüfung in verwandten Studienfächern wird gemäß § 6 Abs. 1 DiplPrOTF angerechnet.[2] Von den in §7 Abs. 1 Nrn. 11 bis 14 aufgeführten Prüfungsleistungen sind mindestens zwei nachzuweisen oder spätestens bis zur Meldung zum Teil II der Diplomhauptprüfung zu erbringen. 
+(1)<sup>1</sup> Eine Diplomvorprüfung in verwandten Studienfächern wird gemäß § 6 Abs. 1 DiplPrOTF angerechnet.<sup>2</sup> Von den in §7 Abs. 1 Nrn. 11 bis 14 aufgeführten Prüfungsleistungen sind mindestens zwei nachzuweisen oder spätestens bis zur Meldung zum Teil II der Diplomhauptprüfung zu erbringen. 
 
 (2) Hat der Kandidat im Studiengang Werkstofftechnik die Abschlussprüfung an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil „sehr gut bestanden“ abgelegt, so wird ihm auf Antrag die Diplomvorprüfung erlassen; für Absolventen außerbayerischer Fachhochschulen gilt § 6 Abs. 6 Satz 1 DiplPrOTF. 
 
 ## **§ 10 Zulassung zur Diplomhauptprüfung** 
 
-(1)[1] Voraussetzung für die Zulassung zur ersten Fachprüfung von Teil I der Diplomhauptprüfung ist, dass die Diplomvorprüfung bestanden ist, mindestens aber alle Prüfungsleistungen der Diplomvorprüfung erstmals abgelegt und bis auf zwei Prüfungen mit wenigstens „ausreichend“ bewertet sind. 
+(1)<sup>1</sup> Voraussetzung für die Zulassung zur ersten Fachprüfung von Teil I der Diplomhauptprüfung ist, dass die Diplomvorprüfung bestanden ist, mindestens aber alle Prüfungsleistungen der Diplomvorprüfung erstmals abgelegt und bis auf zwei Prüfungen mit wenigstens „ausreichend“ bewertet sind. 
 
 (2) Voraussetzung für die Zulassung zu  den werkstoffwissenschaftlichen Prüfungen des Teil I der Diplomhauptprüfung ist der Nachweis über die erfolgreiche Teilnahme (Schein) an den fachspezifischen Lehrveranstaltungen der zu prüfenden Fächer wie folgt: 
 
@@ -190,19 +190,21 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 11 Studienarbeit** 
 
-(1)[1] Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrers der Werkstoffwissenschaften.[2] Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf einem ingenieurwissenschaftlichen Gebiet der Werkstoffwissenschaften zu erlernen.[3] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 200 Stunden in sechs Wochen abgeschlossen werden kann.[4] Eine Verlängerung auf maximal 10 Wochen ist nur in besonderen Fällen möglich. 
+(1)<sup>1</sup> Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrers der Werkstoffwissenschaften.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf einem ingenieurwissenschaftlichen Gebiet der Werkstoffwissenschaften zu erlernen.<sup>3</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 200 Stunden in sechs Wochen abgeschlossen werden kann.<sup>4</sup> Eine Verlängerung auf maximal 10 Wochen ist nur in besonderen Fällen möglich. 
 
 4 
 
-(2)[1] Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; er bewertet die Studienarbeit nach der Notenskala des § 9 Abs. 1 und 2 DiplPrOTF.[2] Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden. 
+(2)<sup>1</sup> Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; er bewertet die Studienarbeit nach der Notenskala des § 9 Abs. 1 und 2 DiplPrOTF.<sup>2</sup> Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden. 
 
-(3)[1] Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.[3] Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
+(3)<sup>1</sup> Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.<sup>3</sup> Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
 
 (4) Die Studienarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
 
 (5) Die Studienarbeit wird mit 7,5 Leistungspunkten veranschlagt. 
 
-## **§ 12 Umfang und Durchführung der Diplomhauptprüfung** 
+## **§ 12** 
+
+## **Umfang und Durchführung der Diplomhauptprüfung** 
 
 (1) Die Diplomhauptprüfung umfasst die Teile I und II. 
 
@@ -238,9 +240,9 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 13 Diplomarbeit** 
 
-(1)[1] Die Regelbearbeitungszeit für die Diplomarbeit beträgt sechs Monate.[2] Bei Arbeiten, die einen besonderen experimentellen Aufwand erfordern, kann auf Antrag des Betreuers schon bei der Ausgabe des Themas die Bearbeitungsfrist um bis zu drei Monate verlängert werden. 3Eine weitere Verlängerung um bis zu drei Monate kann im Einzelfall aufgrund besonderer vom Studenten nicht zu vertretender Umstände gewährt werden. 
+(1)<sup>1</sup> Die Regelbearbeitungszeit für die Diplomarbeit beträgt sechs Monate.<sup>2</sup> Bei Arbeiten, die einen besonderen experimentellen Aufwand erfordern, kann auf Antrag des Betreuers schon bei der Ausgabe des Themas die Bearbeitungsfrist um bis zu drei Monate verlängert werden. 3Eine weitere Verlängerung um bis zu drei Monate kann im Einzelfall aufgrund besonderer vom Studenten nicht zu vertretender Umstände gewährt werden. 
 
-(2)[1] Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Werkstoffwissenschaften behandeln.[2] Sie wird von einem hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrer der Werkstoffwissenschaften betreut.[3] Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
+(2)<sup>1</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Werkstoffwissenschaften behandeln.<sup>2</sup> Sie wird von einem hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrer der Werkstoffwissenschaften betreut.<sup>3</sup> Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
 
 5 
 
@@ -256,13 +258,13 @@ In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht i
 
 3. der Diplomarbeit. 
 
-## **III. Schlussbestimmungen** 
+# **III. Schlussbestimmungen** 
 
 ## **§ 15 In-Kraft-Treten, Übergangsbestimmungen** 
 
-(1)[ 1] Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studenten, die ab dem Wintersemester 2000/2001 mit dem Studium der Werkstoffwissenschaften beginnen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studenten, die ab dem Wintersemester 2000/2001 mit dem Studium der Werkstoffwissenschaften beginnen. 
 
-(2)[1] Soweit die in Absatz 1 genannte Satzung nicht gilt, findet die Fachprüfungsordnung für den Studiengang Werkstoffwissenschaften (Studienrichtungen Allgemeine Werkstoffeigenschaften, Werkstoffkunde und Technologie der Metalle, Glas und Keramik, Korrosion und Oberflächentechnik, Polymerkwerkstoffe, Werkstoffe der Elektrotechnik, Mikrocharakterisierung und Werkstoffverhalten) vom 29. September 1977 (KMBl II 1978 S. 1), zuletzt geändert durch Satzung vom 9. Oktober 1996 (KWMBl II S. 1285), Anwendung; im Übrigen tritt diese außer Kraft. 
+(2)<sup>1</sup> Soweit die in Absatz 1 genannte Satzung nicht gilt, findet die Fachprüfungsordnung für den Studiengang Werkstoffwissenschaften (Studienrichtungen Allgemeine Werkstoffeigenschaften, Werkstoffkunde und Technologie der Metalle, Glas und Keramik, Korrosion und Oberflächentechnik, Polymerkwerkstoffe, Werkstoffe der Elektrotechnik, Mikrocharakterisierung und Werkstoffverhalten) vom 29. September 1977 (KMBl II 1978 S. 1), zuletzt geändert durch Satzung vom 9. Oktober 1996 (KWMBl II S. 1285), Anwendung; im Übrigen tritt diese außer Kraft. 
 
 6 
 
@@ -300,11 +302,11 @@ Allgemeine Werkstoffeigenschaften Werkstoffkunde und Technologie der Metalle Gla
 
 ## **2. Technische Schwerpunktfächer:** 
 
-1Als Technisches Schwerpunktfach ist ein durch einen Lehrstuhl an der Technischen Fakultät der Universität Erlangen-Nürnberg vertretenes Fach zu wählen.[2] Nicht wählbar sind Fächer der Werkstoffwissenschaften. 
+1Als Technisches Schwerpunktfach ist ein durch einen Lehrstuhl an der Technischen Fakultät der Universität Erlangen-Nürnberg vertretenes Fach zu wählen.<sup>2</sup> Nicht wählbar sind Fächer der Werkstoffwissenschaften. 
 
 ## **3. Wahlfächer:** 
 
-1Als Wahlfach ist ein in einem sinnvollen Zusammenhang mit dem Ziel des Studiums stehendes, an der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertretenes Fach zu wählen.[2] Ein derartiges Fach bedarf der Zustimmung des Prüfungsausschusses.[3] Nicht wählbar sind Fächer der Werkstoffwissenschaften sowie das Technische Schwerpunktfach. 
+1Als Wahlfach ist ein in einem sinnvollen Zusammenhang mit dem Ziel des Studiums stehendes, an der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertretenes Fach zu wählen.<sup>2</sup> Ein derartiges Fach bedarf der Zustimmung des Prüfungsausschusses.<sup>3</sup> Nicht wählbar sind Fächer der Werkstoffwissenschaften sowie das Technische Schwerpunktfach. 
 
 8 
 
@@ -312,8 +314,9 @@ Allgemeine Werkstoffeigenschaften Werkstoffkunde und Technologie der Metalle Gla
 
 ## **Prüfungsdauer, Prüfungsart, Verteilung auf die Semester, Zahl der Leistungs- und Maluspunkte für die Prüfungen der Diplomhauptprüfung** 
 
-|Prüfungsfach|Prüfungs-<br>dauer in<br>Minuten|Prüfungs-<br>art|Semester|Lei-<br>stungs-<br>punkte|Malus-<br>punkte|
+|Prüfungsfach|Prüfungs-<br>dauer in<br>|Prüfungs-<br>art|Semester|Lei-<br>stungs-<br>|Malus-<br>punkte|
 |---|---|---|---|---|---|
+||Minuten|||punkte||
 |**Teil I**||||||
 |Werkstoffwissenschaftliche Prü-<br>fung 5:<br>Allgemeine Werkstoffeigen-<br>schaften, Werkstoffkunde und<br>Technologie der Metalle, Glas<br>und Keramik, Korrosion und<br>Oberflächentechnik|180|Schriftlich|6|11|11|
 |Werkstoffwissenschaftliche Prü-<br>fung 6:<br>Polymerwerkstoffe, Werkstoffe<br>der Elektrotechnik, Mikro-<br>charakterisierung und Werk-<br>stoffverhalten|180|Schriftlich|6|9|9|

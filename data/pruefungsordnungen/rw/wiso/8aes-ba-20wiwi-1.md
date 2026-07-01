@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Februar 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AeS-BA%20WiWi_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:22:50+00:00
-page_count_chars: 14271
+scraped_at: 2026-07-01T10:39:45+00:00
+page_count_chars: 12930
 ---
 
 # 24. Februar 2011
@@ -48,101 +48,101 @@ b) In Abs. 5 werden die Sätze 1 und 2 ersatzlos gestrichen. Die Satznummerierun
 
 cc) In Zeile 32 (Studienbereich Wipäd: 4 Module á 5 ECTS) Spalte 6 (3. Semester) wird die Zahl „5“ eingefügt und in Spalte 7 (4. Semester) die Zahl „15“ durch die Zahl „10“ ersetzt. 
 
-## 4. Es wird folgende neue Anlage 5 angefügt: 
+# 4. Es wird folgende neue Anlage 5 angefügt: 
 
-## „ **Anlage 5** 
+# „ **Anlage 5** 
 
-## **Studienverlaufspläne für einen Studienbeginn zum Sommersemester 2011:** 
+# **Studienverlaufspläne für einen Studienbeginn zum Sommersemester 2011:** 
 
 ## **Bachelor in Wirtschaftswissenschaften** 
 
-|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**||**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|
-|---|---|---|---|---|---|---|---|---|
-|**mit Schwerpunkt Betriebswirtschaftslehre (BWL)**|||||||||
-||||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
-|ECTS|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Übersicht / Welt des Unternehmens**||**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||5<br>5<br>5|5*||||||
-|||||5|||||
-||||5*||||||
-|**Methodische Grundlagen der WiWi**||**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||5<br>5<br>10<br>10||5|||||
-|||||5|||||
-||||10*||||||
-||||10*||||||
-|**BWL / Unternehmen und ihr Geschäft**||**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion, Logistik, Beschaffung||5<br>5<br>5|||5||||
-||||||5||||
-|||||5|||||
-|**VWL / Unternehmen und ihr Umfeld**||**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||5<br>5<br>5|||5||||
-||||||5||||
-|||||||5|||
-|**Recht**||**10**|||||||
-|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>Wirtschaftsprivatrecht||5<br>5||5|||||
-||||||5||||
-|**Schlüsselqualifikationen**||**15**|||||||
-|Sprachen<br>Praxis der emp. Wirtschaftsforschung<br> Schlüsselqualifikationsmodul||5<br>5<br>5||5*|||||
-||||||||5||
-||||||5||||
-|**Kernbereich des Schwerpunkts BWL**||**20**|||||||
-|Kostenrechnung und Controlling<br>Internationale Unternehmensführung<br>Investition und Finanzierung<br>BusinessPlanSeminar/Planspiel/Fallstudienseminar(alternativ)||5<br>5<br>5<br>5||||5|||
-||||||||5||
-||||||||5||
-|||||||||5*|
-|**Vertiefungsbereich des Schwerpunkts BWL**||**60**|||||||
-|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS** <br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS** <br>freies Vertiefungsmodul*<br>Modul Bachelorarbeit (inkl.Seminar)|<br>|20<br>20<br>5<br>15||||10|5|5|
-|||||||10|10||
-|||||||||5|
-|||||||||15|
-||ECTS|180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**||||||||
+|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Betriebswirtschaftslehre (BWL)**||||**Sem**|**ester**|||
+|||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Übersicht / Welt des Unternehmens**|**15**|||||||
+|Unternehmensplanspiel|5|5*||||||
+|Unternehmen, Märkte, Volkswirtschaften|5||5|||||
+|Unternehmer und Unternehmen|5|5*||||||
+|**Methodische Grundlagen der WiWi**|**30**|||||||
+|Buchführung|5||5|||||
+|IT und E-Business|5||5|||||
+|Mathematik|10|10*||||||
+|Statistik|10|10*||||||
+|**BWL / Unternehmen und ihr Geschäft**|**15**|||||||
+|Absatz|5|||5||||
+|Jahresabschluss|5|||5||||
+|Produktion, Logistik, Beschaffung|5||5|||||
+|**VWL / Unternehmen und ihr Umfeld**|**15**|||||||
+|Makroökonomie|5|||5||||
+|Mikroökonomie|5|||5||||
+|Wirtschaft und Staat|5||||5|||
+|**Recht**|**10**|||||||
+|Grundlagen des öffentlichen Rechts und des Zivilrechts|5||5|||||
+|<br>Wirtschaftsprivatrecht|5|||5||||
+|**Schlüsselqualifikationen**|**15**|||||||
+|Sprachen|5||5*|||||
+|Praxis der emp. Wirtschaftsforschung|5|||||5||
+|Schlüsselqualifikationsmodul|5|||5||||
+|**Kernbereich des Schwerpunkts BWL**|**20**|||||||
+|Kostenrechnung und Controlling|5||||5|||
+|Internationale Unternehmensführung|5|||||5||
+|<br>Investition und Finanzierung|5|||||5||
+|<br>BusinessPlanSeminar/Planspiel/Fallstudienseminar(alternativ)|5||||||5*|
+|**Vertiefungsbereich des Schwerpunkts BWL**|**60**|||||||
+|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**|20||||10|5|5|
+|<br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**|20||||10|10||
+|<br>freies Vertiefungsmodul*|5||||||5|
+|<br>Modul Bachelorarbeit (inkl.Seminar)|15||||||15|
+|ECTS|180|30|30|30|30|30|30|
 
 - Veranstaltung findet außerplanmäßig in diesem Semester statt. 
 
 - ** 25 der 45 ECTS müssen aus Vertiefungsmodulen im Bereich BWL belegt werden. 
 
-## **Bachelor in Wirtschaftswissenschaften** 
+**Bachelor in Wirtschaftswissenschaften** 
 
-|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|
-|---|---|---|---|---|---|---|---|---|
-|**mit Schwerpunkt Volkswirtschaftslehre (VWL)**|||||||||
-||||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Übersicht / Welt des Unternehmens**||**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br> Unternehmerund Unternehmen||5<br>5<br>5|5*||||||
-|||||5|||||
-||||5*||||||
-|**Methodische Grundlagen der WiWi**||**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br> Statistik||5<br>5<br>10<br>10||5|||||
-|||||5|||||
-||||10*||||||
-||||10*||||||
-|**BWL / Unternehmen und ihr Geschäft**||**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||5<br>5<br>5|||5||||
-||||||5||||
-|||||5|||||
-|**VWL / Unternehmen und ihr Umfeld**||**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||5<br>5<br>5|||5||||
-||||||5||||
-|||||||5|||
-|**Recht**||**10**|||||||
-|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>Wirtschaftsprivatrecht||5<br>5||5|||||
-||||||5||||
-|**Schlüsselqualifikationen**||**15**|||||||
-|Sprachen<br>Praxis der emp. Wirtschaftsforschung<br>Schlüsselqualifikationsmodul||5<br>5<br>5||5*|||||
-||||||||5||
-||||||5||||
-|**Kernbereich des Schwerpunkts VWL**||**20**|||||||
-|Außenwirtschaft<br>Ökonomie des öffentlichen Sektors<br>Arbeitsmarktpolitik<br>Wettbewerbstheorie und–politik||5<br>5<br>5<br>5||||5|||
-||||||||5||
-|||||||5|||
-||||||||5||
-|**Vertiefungsbereich des Schwerpunkts VWL**||**60**|||||||
-|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS** <br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS** <br>freies Vertiefungsmodul*<br>Modul Bachelorarbeit (inkl. Seminar)|<br>|20<br>20<br>5<br>15||||5|5|10|
-|||||||10|10||
-|||||||||5|
-|||||||||15|
-||ECTS|180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**|||||||
+|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Volkswirtschaftslehre (VWL)**|||**Sem**|**ester**|||
+||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
+|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Übersicht / Welt des Unternehmens**<br>**15**|||||||
+|Unternehmensplanspiel<br>5|5*||||||
+|Unternehmen, Märkte, Volkswirtschaften<br>5||5|||||
+|Unternehmerund Unternehmen<br>5|5*||||||
+|**Methodische Grundlagen der WiWi**<br>**30**|||||||
+|Buchführung<br>5||5|||||
+|IT und E-Business<br>5||5|||||
+|Mathematik<br>10|10*||||||
+|Statistik<br>10|10*||||||
+|**BWL / Unternehmen und ihr Geschäft**<br>**15**|||||||
+|Absatz<br>5|||5||||
+|Jahresabschluss<br>5|||5||||
+|Produktion,Logistik,Beschaffung<br>5||5|||||
+|**VWL / Unternehmen und ihr Umfeld**<br>**15**|||||||
+|Makroökonomie<br>5|||5||||
+|Mikroökonomie<br>5|||5||||
+|Wirtschaft und Staat<br>5||||5|||
+|**Recht**<br>**10**|||||||
+|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>5||5|||||
+|Wirtschaftsprivatrecht<br>5|||5||||
+|**Schlüsselqualifikationen**<br>**15**|||||||
+|Sprachen<br>5||5*|||||
+|Praxis der emp. Wirtschaftsforschung<br>5|||||5||
+|Schlüsselqualifikationsmodul<br>5|||5||||
+|**Kernbereich des Schwerpunkts VWL**<br>**20**|||||||
+|Außenwirtschaft<br>5||||5|||
+|Ökonomie des öffentlichen Sektors<br>5|||||5||
+|Arbeitsmarktpolitik<br>5||||5|||
+|<br>Wettbewerbstheorie und–politik<br>5|||||5||
+|<br>**Vertiefungsbereich des Schwerpunkts VWL**<br>**60**|||||||
+|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**<br>20||||5|5|10|
+|<br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**<br>20||||10|10||
+|<br>freies Vertiefungsmodul*<br>5||||||5|
+|Modul Bachelorarbeit (inkl. Seminar)<br>15||||||15|
+|ECTS<br>180|30|30|30|30|30|30|
 
 - Veranstaltung findet außerplanmäßig in diesem Semester statt. 
 
@@ -150,46 +150,43 @@ cc) In Zeile 32 (Studienbereich Wipäd: 4 Module á 5 ECTS) Spalte 6 (3. Semeste
 
 **Bachelor in Wirtschaftswissenschaften** 
 
-|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**||**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|
-|---|---|---|---|---|---|---|---|---|
-|**mit Schwerpunkt Wirtschaftsinformatik(WI)**|||||||||
-||||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Übersicht / Welt des Unternehmens**||**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||5<br>5<br>5|5*||||||
-|||||5|||||
-||||5*||||||
-|**Methodische Grundlagen der WiWi**||**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||5<br>5<br>10<br>10||5|||||
-|||||5|||||
-||||10*||||||
-||||10*||||||
-|**BWL / Unternehmen und ihr Geschäft**||**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||5<br>5<br>5|||5||||
-||||||5||||
-|||||5|||||
-|**VWL / Unternehmen und ihr Umfeld**||**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||5<br>5<br>5|||5||||
-||||||5||||
-|||||||5|||
-|**Recht**||**10**|||||||
-|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>Wirtschaftsprivatrecht||5<br>5||5|||||
-||||||5||||
-|**Schlüsselqualifikationen**||**15**|||||||
-|Sprachen<br>Praxis der emp. Wirtschaftsforschung<br>Schlüsselqualifikationsmodul||5<br>5<br>5||5*|||||
-||||||||5||
-||||||5||||
-|**Kernbereich des Schwerpunkts WI**||**20**|||||||
-|Allgemeine WI I: IT-gestützte Unternehmensführung<br>Allgemeine WI II: E-Business Management<br>Allgemeine WI III: IT-Management<br>BusinessPlanSeminar/Planspiel/Fallstudienseminar(alternativ)||5<br>5<br>5<br>5||||5|||
-||||||||5||
-|||||||5|||
-||||||||5||
-|**Vertiefungsbereich des Schwerpunkts WI**||**60**|||||||
-|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**<br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**<br>freies Vertiefungsmodul*<br>Modul Bachelorarbeit (inkl.Seminar)|<br>|20<br>20<br>5<br>15||||15||5|
-||||||||10|10|
-||||||||5||
-|||||||||15|
-||ECTS|180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschaftsinformatik(WI)**||||**Sem**|**ester**|||
+|---|---|---|---|---|---|---|---|
+|||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Übersicht / Welt des Unternehmens**|**15**|||||||
+|Unternehmensplanspiel|5|5*||||||
+|Unternehmen, Märkte, Volkswirtschaften|5||5|||||
+|Unternehmer und Unternehmen|5|5*||||||
+|**Methodische Grundlagen der WiWi**|**30**|||||||
+|Buchführung<br>IT und E-Business|5<br>5||5<br>5|||||
+|Mathematik|10|10*||||||
+|Statistik|10|10*||||||
+|**BWL / Unternehmen und ihr Geschäft**|**15**|||||||
+|Absatz|5|||5||||
+|Jahresabschluss|5|||5||||
+|Produktion,Logistik,Beschaffung|5||5|||||
+|**VWL / Unternehmen und ihr Umfeld**|**15**|||||||
+|Makroökonomie|5|||5||||
+|Mikroökonomie|5|||5||||
+|Wirtschaft und Staat|5||||5|||
+|**Recht**|**10**|||||||
+|Grundlagen des öffentlichen Rechts und des Zivilrechts|5||5|||||
+|<br>Wirtschaftsprivatrecht|5|||5||||
+|**Schlüsselqualifikationen**|**15**|||||||
+|Sprachen|5||5*|||||
+|Praxis der emp. Wirtschaftsforschung|5|||||5||
+|<br>Schlüsselqualifikationsmodul|5|||5||||
+|**Kernbereich des Schwerpunkts WI**|**20**|||||||
+|Allgemeine WI I: IT-gestützte Unternehmensführung<br>Allgemeine WI II: E-Business Management|5<br>5||||5|5||
+|Allgemeine WI III: IT-Management|5||||5|||
+|<br>BusinessPlanSeminar/Planspiel/Fallstudienseminar(alternativ)|5|||||5||
+|**Vertiefungsbereich des Schwerpunkts WI**|**60**|||||||
+|Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**|20||||15||5|
+|<br>Studienbereich oder 4 Vertiefungsmodule á 5 ECTS**|20|||||10|10|
+|<br>freies Vertiefungsmodul*|5|||||5||
+|Modul Bachelorarbeit (inkl.Seminar)|15||||||15|
+|ECTS|180|30|30|30|30|30|30|
 
 * Veranstaltung findet außerplanmäßig in diesem Semester statt. 
 
@@ -197,100 +194,94 @@ cc) In Zeile 32 (Studienbereich Wipäd: 4 Module á 5 ECTS) Spalte 6 (3. Semeste
 
 ## **Bachelor in Wirtschaftswissenschaften** 
 
-|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|
-|---|---|---|---|---|---|---|---|---|
-|**mit Schwerpunkt Wirtschafts- und**|||||||||
-|**Betriebspädagogik / Studienrichtung I(Wipäd I)**|||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Übersicht / Welt des Unternehmens**||**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||5<br>5<br>5|5*||||||
-|||||5|||||
-||||5*||||||
-|**Methodische Grundlagen der WiWi**||**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||5<br>5<br>10<br>10||5|||||
-|||||5|||||
-||||10*||||||
-||||10*||||||
-|**BWL / Unternehmen und ihr Geschäft**||**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||5<br>5<br>5|||5||||
-||||||5||||
-|||||5|||||
-|**VWL / Unternehmen und ihr Umfeld**||**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||5<br>5<br>5|||5||||
-||||||5||||
-|||||||5|||
-|**Recht**||**10**|||||||
-|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>Wirtschaftsprivatrecht||5<br>5||5|||||
-||||||5||||
-|**Schlüsselqualifikationen**||**15**|||||||
-|Sprachen<br>Praxis der emp. Wirtschaftsforschung<br>Schlüsselqualifikationsmodul||5<br>5<br>5||5|||||
-||||||||5||
-||||||||5||
-|**Kernbereich des Schwerpunkts Wipäd I**||**25**|||||||
-|Grundlagen der Wirtschafts- und Betriebspädagogik <br>Berufliche Weiterbildung<br>Präsentations- und Moderationstechniken<br>Betriebspädagogisches Seminar<br>Erkundungsprojekt oder<br>Schulpraktische Studien(SPS)||5<br>5<br>5<br>5<br>5|||5||||
-||||||||5||
-|||||||5|||
-||||||||5||
-|||||||5|||
-|**Vertiefungsbereich des Schwerpunkts Wipäd I**||**55**|||||||
-|Studienbereich Wipäd: 4 Vertiefungsmodule á 5 ECTS<br>zwei freie Vertiefungsmodule á 5 ECTS<br>Vertiefungsmodul Kostenrechnung und Controlling<br>Vertiefungsmodul Investition und Finanzierung<br>Modul Bachelorarbeit (inkl.Seminar)||20<br>10<br>5<br>5<br>15||||10|5|5|
-|||||||5||5|
-|||||||||5|
-||||||||5||
-|||||||||15|
-||ECTS|180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschafts- und**|||**Seme**|**ster**|||
+|---|---|---|---|---|---|---|
+|**Betriebspädagogik / Studienrichtung I(Wipäd I)**|**1 (SS)**|**2 (WS)**|<br>**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
+|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Übersicht / Welt des Unternehmens**<br>**15**|||||||
+|Unternehmensplanspiel<br>5|5*||||||
+|Unternehmen, Märkte, Volkswirtschaften<br>5||5|||||
+|Unternehmer und Unternehmen<br>5|5*||||||
+|**Methodische Grundlagen der WiWi**<br>**30**|||||||
+|Buchführung<br>5||5|||||
+|IT und E-Business<br>5||5|||||
+|Mathematik<br>10|10*||||||
+|Statistik<br>10|10*||||||
+|**BWL / Unternehmen und ihr Geschäft**<br>**15**|||||||
+|Absatz<br>5|||5||||
+|Jahresabschluss<br>5|||5||||
+|Produktion,Logistik,Beschaffung<br>5||5|||||
+|**VWL / Unternehmen und ihr Umfeld**<br>**15**|||||||
+|Makroökonomie<br>5|||5||||
+|Mikroökonomie<br>5|||5||||
+|Wirtschaft und Staat<br>5||||5|||
+|**Recht**<br>**10**|||||||
+|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>5<br>Wirtschaftsprivatrecht<br>5||5|5||||
+|**Schlüsselqualifikationen**<br>**15**|||||||
+|Sprachen<br>5||5|||||
+|Praxis der emp. Wirtschaftsforschung<br>5|||||5||
+|Schlüsselqualifikationsmodul<br>5|||||5||
+|**Kernbereich des Schwerpunkts Wipäd I**<br>**25**|||||||
+|Grundlagen der Wirtschafts- und Betriebspädagogik<br>5|||5||||
+|Berufliche Weiterbildung<br>5|||||5||
+|Präsentations- und Moderationstechniken<br>5||||5|||
+|Betriebspädagogisches Seminar<br>5|||||5||
+|Erkundungsprojekt oder<br>Schulpraktische Studien(SPS)<br>5||||5|||
+|**Vertiefungsbereich des Schwerpunkts Wipäd I**<br>**55**|||||||
+|<br>Studienbereich Wipäd: 4 Vertiefungsmodule á 5 ECTS<br>20||||10|5|5|
+|zwei freie Vertiefungsmodule á 5 ECTS<br>10||||5||5|
+|Vertiefungsmodul Kostenrechnung und Controlling<br>5<br>Vertiefungsmodul Investition und Finanzierung<br>5|||||5|5|
+|Modul Bachelorarbeit (inkl.Seminar)<br>15||||||15|
+|ECTS<br>180|30|30|30|30|30|30|
 
 * Veranstaltung findet außerplanmäßig in diesem Semester statt. 
 
 ## **Bachelor in Wirtschaftswissenschaften** 
 
-|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Bachelor in Wirtschaftswissenschaften**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|**Semester**|
-|---|---|---|---|---|---|---|---|---|
-|**mit Schwerpunkt Wirtschafts- und**|||||||||
-|**Betriebspädagogik / Studienrichtung II(Wipäd II)**|||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Übersicht / Welt des Unternehmens**||**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||5<br>5<br>5|5*||||||
-|||||5|||||
-||||5*||||||
-|**Methodische Grundlagen der WiWi**||**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||5<br>5<br>10<br>10||5|||||
-|||||5|||||
-||||10*||||||
-||||10*||||||
-|**BWL / Unternehmen und ihr Geschäft**||**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||5<br>5<br>5|||||5||
-||||||5||||
-|||||5|||||
-|**VWL / Unternehmen und ihr Umfeld**||**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||5<br>5<br>5|||5||||
-||||||5||||
-|||||||5|||
-|**Zweitfach**||**15**|||||||
-|Je nach Zweitfach unterschiedlich. Die Festlegung<br> der Module erfolgt durchdie beteiligten Fächer.||15||||10|5||
-||||||||||
-|**Rechtlicher Rahmen**||**10**|||||||
-|Grundlagen des öffentlichen Rechts und des Zivilrechts<br>Wirtschaftsprivatrecht||5<br>5||5|||||
-||||||5||||
-|**Kernbereich des Schwerpunkts Wipäd II**||**25**|||||||
-|Präsentations- und Moderationstechniken<br>Grundlagen der Wirtschafts- und Betriebspädagogik <br>Betriebspädagogisches Seminar<br>Berufliche Weiterbildung<br>Erkundungsprojekt oder<br>Schulpraktische Studien(SPS)||5<br>5<br>5<br>5<br>5||5|||||
-||||||5||||
-||||||||5||
-||||||5||||
-|||||||5|||
-|**Vertiefungsbereich des Schwerpunkts Wipäd II**||**55**|||||||
-|Studienbereich Wipäd: 4 Vertiefungsmodule á 5 ECTS<br>Zweitfachvertiefung<br>Vertiefungsmodul Kostenrechnung und Controlling<br>Vertiefungsmodul Investition und Finanzierung<br>Modul Bachelorarbeit (inkl. Seminar)||20<br>10<br>5<br>5<br>15||||10|5|5|
-||||||||5|5|
-|||||||||5|
-||||||||5||
-|||||||||15|
-||ECTS|180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**||||||||
+|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Wirtschafts- und**||||**Sem**|**ester**|||
+|**Betriebspädagogik / Studienrichtung II(Wipäd II)**||**1 (SS)**|**2 (WS)**|**3 (SS)**|**4 (WS)**|**5 (SS)**|**6 (WS)**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Übersicht / Welt des Unternehmens**|**15**|||||||
+|Unternehmensplanspiel|5|5*||||||
+|Unternehmen, Märkte, Volkswirtschaften|5||5|||||
+|Unternehmer und Unternehmen|5|5*||||||
+|**Methodische Grundlagen der WiWi**|**30**|||||||
+|Buchführung|5||5|||||
+|IT und E-Business|5||5|||||
+|Mathematik|10|10*||||||
+|Statistik|10|10*||||||
+|**BWL / Unternehmen und ihr Geschäft**|**15**|||||||
+|Absatz|5|||||5||
+|Jahresabschluss|5|||5||||
+|Produktion,Logistik,Beschaffung|5||5|||||
+|**VWL / Unternehmen und ihr Umfeld**|**15**|||||||
+|Makroökonomie|5|||5||||
+|Mikroökonomie|5|||5||||
+|Wirtschaft und Staat|5||||5|||
+|**Zweitfach**|**15**|||||||
+|Je nach Zweitfach unterschiedlich. Die Festlegung<br> der Module erfolgt durchdie beteiligten Fächer.|15||||10|5||
+|**Rechtlicher Rahmen**|**10**|||||||
+|Grundlagen des öffentlichen Rechts und des Zivilrechts|5||5|||||
+|Wirtschaftsprivatrecht|5|||5||||
+|**Kernbereich des Schwerpunkts Wipäd II**|**25**|||||||
+|Präsentations- und Moderationstechniken|5||5|||||
+|Grundlagen der Wirtschafts- und Betriebspädagogik|5|||5||||
+|Betriebspädagogisches Seminar|5|||||5||
+|Berufliche Weiterbildung|5|||5||||
+|<br>Erkundungsprojekt oder<br>Schulpraktische Studien(SPS)|5||||5|||
+|**Vertiefungsbereich des Schwerpunkts Wipäd II**|**55**|||||||
+|Studienbereich Wipäd: 4 Vertiefungsmodule á 5 ECTS|20||||10|5|5|
+|<br>Zweitfachvertiefung|10|||||5|5|
+|<br>Vertiefungsmodul Kostenrechnung und Controlling|5||||||5|
+|<br>Vertiefungsmodul Investition und Finanzierung|5|||||5||
+|Modul Bachelorarbeit (inkl. Seminar)|15||||||15|
+|ECTS|180|30|30|30|30|30|30|
 
 * Veranstaltung findet außerplanmäßig in diesem Semester statt. 
 
-„ 
-
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2010/11 aufgenommen haben 
 

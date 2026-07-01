@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-05-01T06:51:00+00:00
+scraped_at: 2026-07-01T08:28:09+00:00
 ---
 
 # Sport (Lehramt)
@@ -49,7 +49,7 @@ Alle relevanten Informationen finden Sie auf unserer Homepage: <https://www.spor
 
 **Nebenfach (Didaktikfach)**
 
-Im Didaktikfach Sport erwerben die Studierenden grundlegende Kenntnisse, Fertigkeiten und Fähigkeiten in den klassischen Bewegungsfeldern (z.B. in Sportarten) sowie in der Sportpädagogik/-didaktik. Insgesamt werden während des Studiums für Mittelschulen 20 ECTS (von 210 ECTS) und für Grundschulen 11 ECTS (von 210 ECTS) erworben. Das Studium findet sowohl am Department für Sportwissenschaft und Sport in Erlangen (Gebbertstr. 123b) als auch in Nürnberg (Regensburger Str. 160) statt.
+Im Didaktikfach Sport erwerben die Studierenden grundlegende Kenntnisse, Fertigkeiten und Fähigkeiten in den klassischen Bewegungsfeldern (z.B. in Sportarten) sowie in der Sportpädagogik/-didaktik. Insgesamt werden während des Studiums für Mittelschulen 20 ECTS (von 210 ECTS) und für Grundschulen 11 ECTS (von 210 ECTS) erworben. Das Studium findet am Department für Sportwissenschaft und Sport in Erlangen (Gebbertstr. 123b) statt.
 
 Für die Zulassung zum Staatsexamen benötigen Sie zusätzlich einen Rettungsschwimmschein in Bronze, einen Erste Hilfe Schein, eine Sommer- oder Wintersportwoche und das Sportabzeichen.
 

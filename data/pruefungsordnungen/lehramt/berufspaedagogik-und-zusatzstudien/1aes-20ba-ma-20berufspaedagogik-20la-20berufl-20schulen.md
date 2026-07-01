@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. September 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:58:28+00:00
-page_count_chars: 14319
+scraped_at: 2026-07-01T08:33:09+00:00
+page_count_chars: 13884
 ---
 
 # 9. September 2010
@@ -12,7 +12,7 @@ page_count_chars: 14319
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/>
 
-## **Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Elektrotechnik und Informationstechnik für das Lehramt an beruflichen Schulen der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMPO/EEI-B -** 
+# **Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Elektrotechnik und Informationstechnik für das Lehramt an beruflichen Schulen der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMPO/EEI-B -** 
 
 Vom 9. September 2010 
 
@@ -36,13 +36,13 @@ b) In Abs. 2 wird das Wort „Education“ durch das Wort „Science“ ersetzt.
 
    - a) Es wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Das Bachelorstudium Berufspädagogik Technik kann in einer der folgenden Studienrichtungen 
+„(1)<sup>1</sup> Das Bachelorstudium Berufspädagogik Technik kann in einer der folgenden Studienrichtungen 
 
 a) Elektrotechnik und Informationstechnik 
 
 b) Metalltechnik 
 
-durchgeführt werden.[2] Zu Beginn des Studiums ist die Studienrichtung anzugeben.[3] Der Prüfungsausschuss kann einen Wechsel der Studienrichtung auf Antrag in begründeten Fällen genehmigen.“ 
+durchgeführt werden.<sup>2</sup> Zu Beginn des Studiums ist die Studienrichtung anzugeben.<sup>3</sup> Der Prüfungsausschuss kann einen Wechsel der Studienrichtung auf Antrag in begründeten Fällen genehmigen.“ 
 
 - b) Die bisherigen Abs. 1 und 2 werden zu den neuen Abs. 2 und 3. 
 
@@ -52,7 +52,7 @@ durchgeführt werden.[2] Zu Beginn des Studiums ist die Studienrichtung anzugebe
 
 a) Es wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Das Masterstudium Berufspädagogik Technik kann in einer der folgenden Studienrichtungen 
+„(1)<sup>1</sup> Das Masterstudium Berufspädagogik Technik kann in einer der folgenden Studienrichtungen 
 
 a) Elektrotechnik und Informationstechnik 
 
@@ -74,7 +74,7 @@ b) In Abs. 2 Satz 5 wird das Wort „sonstiger“ durch das Wort „sonstige“ 
 
 a) Satz 1 wird wie folgt ersetzt: 
 
-„[1] Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn alle in der Anlage 2a bzw. 2b mit „GOP“ gekennzeichneten Module bestanden sind.“ 
+„<sup>1</sup> Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn alle in der Anlage 2a bzw. 2b mit „GOP“ gekennzeichneten Module bestanden sind.“ 
 
 b) In Satz 2 wird die Zahl „2“ durch die Zahlen und Buchstaben „2a bzw. 2b“ ersetzt. 
 
@@ -102,17 +102,17 @@ a)Abs. 1 wird wie folgt geändert:
 
 aa)Es werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Fachspezifischer Abschluss ist der Bachelorabschluss Berufspädagogik Technik bzw. Berufspädagogik Elektro- und Informationstechnik.[3] Als fachverwandte oder gleichwertige Abschlüsse werden Bachelor- oder Diplomabschlüsse der Studiengänge Elektrotechnik, Elektronik und Informationstechnik, sowie Bachelor- und Diplomabschlüsse des Studienganges Maschinenbau anerkannt.“ 
+„<sup>2</sup> Fachspezifischer Abschluss ist der Bachelorabschluss Berufspädagogik Technik bzw. Berufspädagogik Elektro- und Informationstechnik.<sup>3</sup> Als fachverwandte oder gleichwertige Abschlüsse werden Bachelor- oder Diplomabschlüsse der Studiengänge Elektrotechnik, Elektronik und Informationstechnik, sowie Bachelor- und Diplomabschlüsse des Studienganges Maschinenbau anerkannt.“ 
 
 bb)Der bisherige Satz 2 wird zu dem neuen Satz 4. 
 
 b)Abs. 3 wird wie folgt geändert: 
 
-aa)Satz 2 erhält folgende neue Fassung: „[2] Ist die Gleichwertigkeit nicht voll gegeben, kann die Zugangskommission den Zugang unter Auflagen bis zu 50 ECTS-Punkten aussprechen die spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.“ 
+aa)Satz 2 erhält folgende neue Fassung: „<sup>2</sup> Ist die Gleichwertigkeit nicht voll gegeben, kann die Zugangskommission den Zugang unter Auflagen bis zu 50 ECTS-Punkten aussprechen die spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.“ 
 
-bb)Es wird folgender neuer Satz 3 angefügt: „[3] Im Falle von Satz 2 kann der Prüfungsausschuss individuell eine Fristverlängerung von bis zu einem Jahr gemäß §7 Abs. 1 Satz 4, 2. HS gewähren.“ 
+bb)Es wird folgender neuer Satz 3 angefügt: „<sup>3</sup> Im Falle von Satz 2 kann der Prüfungsausschuss individuell eine Fristverlängerung von bis zu einem Jahr gemäß §7 Abs. 1 Satz 4, 2. HS gewähren.“ 
 
-c)Es wird folgender neuer Abs. 4 eingefügt: „(4)[1] Abweichend von Abs. 1 Satz 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben und das Qualifikationsfeststellungsverfahren erfolgreich absolviert haben. 2Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[3] Der Zugang zum Masterstudium erfolgt unter Vorbehalt.“ 
+c)Es wird folgender neuer Abs. 4 eingefügt: „(4)<sup>1</sup> Abweichend von Abs. 1 Satz 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben und das Qualifikationsfeststellungsverfahren erfolgreich absolviert haben. 2Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>3</sup> Der Zugang zum Masterstudium erfolgt unter Vorbehalt.“ 
 
 3 
 
@@ -126,7 +126,7 @@ a) Abs. 1 wird wie folgt ersetzt:
 
 b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Als Wahlpflichtmodule können in der Studienrichtung Elektrotechnik und Informationstechnik die Module gewählt werden, die das Department Elektrotechnik, Elektronik und Informationstechnik anbietet, in der Studienrichtung Metalltechnik sind Module des Departments Maschinenbau wählbar, der Prüfungsausschuss kann die wählbaren Module in einem Wahlmodulkatalog eingrenzen.[4] Prüfungsart und –Umfang richten sich nach der jeweiligen Fachprüfungsordnung; im Studiengang Berufspädagogik Technik wird nach Bestehen ein benoteter Leistungsnachweis verbucht.“ 
+„<sup>3</sup> Als Wahlpflichtmodule können in der Studienrichtung Elektrotechnik und Informationstechnik die Module gewählt werden, die das Department Elektrotechnik, Elektronik und Informationstechnik anbietet, in der Studienrichtung Metalltechnik sind Module des Departments Maschinenbau wählbar, der Prüfungsausschuss kann die wählbaren Module in einem Wahlmodulkatalog eingrenzen.<sup>4</sup> Prüfungsart und –Umfang richten sich nach der jeweiligen Fachprüfungsordnung; im Studiengang Berufspädagogik Technik wird nach Bestehen ein benoteter Leistungsnachweis verbucht.“ 
 
 14. In § 29 Abs. 3 werden die Worte „Elektrotechnik und Informationstechnik“ durch das Wort „Technik“ ersetzt. 
 
@@ -134,7 +134,7 @@ b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt:
 
 - 16 Anlage 1 Abs. 6 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Die mündliche Prüfung von ca. 20 Minuten Dauer erstreckt sich insbesondere auf sichere Kenntnisse in den fachspezifischen Grundlagen, gute Kenntnisse im Bereich einer fachlichen Spezialisierung einer wählbaren Studienrichtung des Masterstudienganges, eine positive Prognose aufgrund der gezeigten Leistungen im bisherigen Studienverlauf und auf die Motivation der Bewerberin oder des Bewerbers.“ 
+„<sup>2</sup> Die mündliche Prüfung von ca. 20 Minuten Dauer erstreckt sich insbesondere auf sichere Kenntnisse in den fachspezifischen Grundlagen, gute Kenntnisse im Bereich einer fachlichen Spezialisierung einer wählbaren Studienrichtung des Masterstudienganges, eine positive Prognose aufgrund der gezeigten Leistungen im bisherigen Studienverlauf und auf die Motivation der Bewerberin oder des Bewerbers.“ 
 
 17. Die Anlagen 2 und 3 werden durch folgende neue Anlagen 2a, 2b und 3 ersetzt: 
 
@@ -142,18 +142,18 @@ b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt:
 
 **Anlage 2a: Module des Bachelorstudiums - Studienrichtung Elektrotechnik und Informationstechnik** 
 
-|**Modul**|**Modul**|**Modul**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|**Verteilung der ECTS-Punkte über die Semester**|
+|**Modul**|||**Verteil**|**ung d**|**er ECT**|**S-Punk**|**te übe**|**r die S**|**emester**|
 |---|---|---|---|---|---|---|---|---|---|
 ||||||||||**schriftl. Prüfung**|
 ||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**in Min. bzw.**|
 |**Nr.**|**Bezeichnung**|**GOP**|||||||**Studienleistung**|
-||Grundlagen der Elektrotechnik, Energie und Antriebstechnik|||||||||
+||Grundlagen der Elektrotechnik, Energie und Antriebste|chnik||||||||
 |B 1|Grundlagen der Elektrotechnik I|(GOP)|7,5||||||120|
 |B 2|Grundlagen der Elektrotechnik II|||5,0|||||90|
 |B 3|Grundlagen der Elektrotechnik III||||5,0||||90|
 |B 4|Praktikum Grundlagen der Elektrotechnik|||||2,5|||uSL|
-|B 5|Grundlagen der Elektrischen Antriebstechnik||||7,5||||90|
-||Grundlagen der Elektrischen Energieversorgung||||||||90|
+|B 5|Grundlagen der Elektrischen Antriebstechnik|||||75|||90|
+||Grundlagen der Elektrischen Energieversorgung|||||,|||90|
 ||Informatik und Mathematik|||||||||
 |B 6|Mathematik 1|(GOP)|7,5||||||uSL+90|
 |B 7|Mathematik 2|(GOP)||10|||||uSL+120|
@@ -171,7 +171,7 @@ b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt:
 ||Systeme und Regelungen|||||||||
 |B 17|Regelungstechnik A (Grundlagen)||||||5,0||90|
 |B 18|Einführung in die Systemtheorie|||||5,0|||90|
-||Seminar und Laborpraktikum aus der Elektro- und Informationstechnik|||||||||
+||Seminar und Laborpraktikum aus der Elektro- und Info|rmationst|echnik|||||||
 |B 19|Wahlpflichtseminar|||||||2,5|bSL|
 |B 20|Hochschulpraktikum|||||||2,5|uSL|
 ||Berufspädagogik|||||||||
@@ -181,78 +181,77 @@ b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt:
 |B 24|Berufliche Weiterbildung|||5,0|||||90|
 |B 25|Betriebspädagogisches Seminar|||2,5|||||bSL|
 |B 26|Schulpraktische Studien||||||5,0||uSL|
-|B 27|Berufspädagogische Vertiefung||||||5,0|5,0|bSL|
-||Zweitfach|||||||||
+|B 27|Berufspädagogische Vertiefung<br>Zweitfach||||||5,0|5,0|bSL|
 |B 28|Unterrichtsfach (Zweitfach) inkl. Fachdidaktik|||2,5|10,0|2,5|5,0|5,0|*)|
 ||Abschlussarbeit|||||||||
 |B 29|Bachelorarbeit incl. Vortrag|||||||10,0||
 ||||30,0|30,0|30,0|30,0|30,0|30,0||
-||||||Summe der||ECTS-Punkte||180,0|
-||(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung||||||Summe GOP||32,5|
-||uSL     unbenotete Studienleistung<br>bSL     benotete Studienleistung|||||||||
+||||||Summ|e der|ECTS-|Punkte|180,0|
+||(GOP)  Bestandteil der Grundlagen- und Orientierungs|prüfung|||||Summ|e GOP|32,5|
+||uSL     unbenotete Studienleistung|||||||||
+||bSL     benotete Studienleistung|||||||||
 
 *)        gemäß den Vorgaben des Zweitfaches 
 
 5 
 
-## **Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik** 
+### **Anlage 2b: Module des Bachelorstudiums - Studienrichtung Metalltechnik** 
 
-|**Modul**|**Modul**|**Modul**|**Verteilung der ECTS-Punkte**|**Verteilung der ECTS-Punkte**|**Verteilung der ECTS-Punkte**|**Verteilung der ECTS-Punkte**|**Verteilung der ECTS-Punkte**|**Verteilung der ECTS-Punkte**||
-|---|---|---|---|---|---|---|---|---|---|
-||||**über die Sem.**||||||**schriftl. Prüfung**|
-||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**in Min. bzw.**|
-|**Nr.**|**Bezeichnung**|**GOP**|||||||**Studienleistung**|
-||Mechanik und Konstruktion|||||||||
-|B 1|Statik und Festigkeitslehre|(GOP)||7,5|||||90|
-|B 2|Dynamik starrer Körper||||7,5||||90|
-|B 3|Methode der Finiten Elemente|||||5,0|||60|
-|B 4|Technische Darstellungslehre I||2,5||||||uSL|
-||Technische Darstellungslehre II|||2,5|||||uSL|
-|B 5|Grundlagen der Produktentwicklung||||7,5||||120|
-||Konstruktionsübung||||2,5||||uSL|
-|B 6|Konstruktive Projektarbeit(Teamwork,Präsentationstechnik)||||||5,0||uSL|
-||Informatik und Mathematik|||||||||
-|B 7|Mathematik B 1|(GOP)|7,5||||||uSL+90|
-|B 8|Mathematik B 2|(GOP)||7,5|||||uSL+90|
-|B 9|Mathematik B 3||||7,5||||90|
-|B 10|Grundlagen der Informatik|||||7,5|||uSL+90|
-||Produktion,Optik und Messtechnik|||||||||
-|B 11|Produktionstechnik I und II|||||5,0|||120|
-|B 12|Optik und optische Technologien||||||2,5||60|
-|B 13|Grundlagen der Messtechnik||||||5,0||60|
-|B 14|Hochschulpraktikum||||||2,5||uSL|
-||Elektrotechnik,Thermodynamik und Werkstoffkunde|||||||||
-|B 15|Grundlagen der Elektrotechnik|(GOP)||5,0|||||60|
-|B 16|Technische Thermodynamik|||||7,5|||120|
-|B 17|Werkstoffkunde|(GOP)|5,0||||||120|
-||Werkstoffprüfung|||2,5|||||uSL|
-||Berufspädagogik|||||||||
-|B 18|Fachdidaktik Metalltechnik I|||||||5,0|90|
-|B 19|Grundlagen der Berufspädagogik||5,0||||||90|
-|B 20|Präsentations- und Moderationstechnik||7,5||||||90|
-|B 21|Berufliche Weiterbildung|||||||5,0|90|
-|B 22|Betriebspädagogisches Seminar|||2,5|||||bSL|
-|B 23|Schulpraktische Studien||||||5,0||uSL|
-|B 24|Berufspädagogische Vertiefung||||||5,0|5,0|bSL|
-||Zweitfach|||||||||
-|B 25|Unterrichtsfach(Zweitfach)inkl. Fachdidaktik||2,5|2,5|5,0|5,0|5,0|5,0|*)|
-||A<br>bschlussarbeit|||||||||
-|B 26|Bachelorarbeit incl. Vortrag|||||||10,0||
-||||30,0|30,0|30,0|30,0|30,0|30,0||
-|||||Summe der ECTS-Punkte|||||180,0|
-||(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung|||||Summe GOP|||32,5|
-
-(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung uSL     unbenotete Studienleistung bSL     benotete Studienleistung 
-
-*)        gemäß den Vorgaben des Zweitfaches 
+|**Modul**||**Verte**|**ilung**|**der E**|**CTS-Punkt**|**e**||
+|---|---|---|---|---|---|---|---|
+|||**über**|**die S**|**em.**|||**schriftl. Prüfung**|
+|||**1.**|**2.**|**3.**|**4.**<br>**5.**|**6.**|**in Min. bzw.**|
+|**Nr.**<br>**Bezeichnung**|**GOP**||||||**Studienleistung**|
+|Mechanik und Konstruktion||||||||
+|B 1 Statik und Festigkeitslehre|(GOP)||7,5||||90|
+|B 2 Dynamik starrer Körper||||7,5|||90|
+|B 3 Methode der Finiten Elemente|||||5,0||60|
+|Technische Darstellungslehre I<br>B 4||2,5|||||uSL|
+|Technische Darstellungslehre II<br>|||2,5||||uSL|
+|Grundlagen der Produktentwicklung<br>B 5||||7,5|||120|
+|Konstruktionsübung<br>||||2,5|||uSL|
+|B 6 Konstruktive Projektarbeit(Teamwork,Präsentationstechnik)|||||5,0||uSL|
+|Informatik und Mathematik||||||||
+|B 7 Mathematik B 1|(GOP)|7,5|||||uSL+90|
+|B 8 Mathematik B 2|(GOP)||7,5||||uSL+90|
+|B 9 Mathematik B 3||||7,5|||90|
+|B 10 Grundlagen der Informatik|||||7,5||uSL+90|
+|Produktion,Optik und Messtechnik||||||||
+|B 11 Produktionstechnik I und II|||||5,0||120|
+|B 12 Optik und optische Technologien|||||2,5||60|
+|B 13 Grundlagen der Messtechnik|||||5,0||60|
+|B 14 Hochschulpraktikum|||||2,5||uSL|
+|Elektrotechnik,Thermodynamik und Werkstoffkunde||||||||
+|B 15 Grundlagen der Elektrotechnik|(GOP)||5,0||||60|
+|B 16 Technische Thermodynamik|||||7,5||120|
+|Werkstoffkunde<br>|(GOP)|5,0|||||120|
+|Werkstoffprüfung<br>B 17|||2,5||||uSL|
+|Berufspädagogik||||||||
+|B 18 Fachdidaktik Metalltechnik I||||||5,0|90|
+|B 19 Grundlagen der Berufspädagogik||5,0|||||90|
+|B 20 Präsentations- und Moderationstechnik||7,5|||||90|
+|B 21 Berufliche Weiterbildung||||||5,0|90|
+|B 22 Betriebspädagogisches Seminar|||2,5||||bSL|
+|B 23 Schulpraktische Studien|||||5,0||uSL|
+|B 24 Berufspädagogische Vertiefung|||||5,0|5,0|bSL|
+|Zweitfach||||||||
+|B 25 Unterrichtsfach(Zweitfach)inkl. Fachdidaktik||2,5|2,5|5,0|5,0 5,0|5,0|*)|
+|A<br>bschlussarbeit||||||||
+|B 26 Bachelorarbeit incl. Vortrag||||||10,0||
+|||30,0|30,0|30,0|30,0 30,0|30,0||
+||||Su|mme d|er ECTS-Pu|nkte|180,0|
+|(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung|||||Summe|GOP|32,5|
+|uSL     unbenotete Studienleistung||||||||
+|bSL     benotete Studienleistung||||||||
+|*)        gemäß den Vorgaben des Zweitfaches||||||||
 
 6 
 
 **Anlage 3: Module des Masterstudiums** 
 
-|**Modul**|**Modul**|**Verteilung der ECTS-**|**Verteilung der ECTS-**|**Verteilung der ECTS-**|**Verteilung der ECTS-**||
+|**Modu**|**l**|**Verteilu**|**ng der**|**ECTS-**|||
 |---|---|---|---|---|---|---|
-|||**Punkte über die Sem.**||||**schriftl. Prüfung**|
+|||**Punkte**|**über di**|**e Sem.**||**schriftl. Prüfung**|
 |||**1.**|**2.**|**3.**|**4.**|**in Min. bzw.**|
 |**Nr.**|**Bezeichnung**|||||**Studienleistung**|
 |M 1|Wahlpflichtmodule|||5,0|10,0|bSL*)|
@@ -264,8 +263,9 @@ b) In Abs.2 werden folgende neue Sätze 3 und 4 angefügt:
 |M 7|Unterrichtsfach(Zweitfach)inkl. Fachdidaktik|20,0|15,0|10,0||*)|
 |M 8|Masterarbeit||||20,0||
 |||30,0|30,0|30,0|30,0||
-|||Summe der ECTS-Punkte||||120,0|
-|uSL     unbenotete Studienleistung<br>bSL     benotete Studienleistung|||||||
+|||Summ|e der E|CTS-P|unkte|120,0|
+||uSL     unbenotete Studienleistung||||||
+||bSL     benotete Studienleistung||||||
 
 - *)        gemäß der Prüfungsordnung des Zweitfaches 
 

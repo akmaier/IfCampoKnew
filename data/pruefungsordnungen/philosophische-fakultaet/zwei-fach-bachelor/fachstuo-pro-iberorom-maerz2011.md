@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_IberoRom.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:33+00:00
-page_count_chars: 11949
+scraped_at: 2026-07-01T10:20:37+00:00
+page_count_chars: 12123
 ---
 
 # PDF vom 04.10.2007 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 11949
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -38,9 +38,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Das Fach Iberoromanistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden.[ 2] Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
+(1)<sup>1</sup> Das Fach Iberoromanistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden.<sup>2</sup> Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
 
-(2)[1] Im Fach Iberoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im spanischsprachigen Kulturraum vermittelt.[2] In der wissenschaftlichen Auseinandersetzung mit der spanischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit spanischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der spanischsprachigen Kultur.[4] Vor dem Hintergrund der Tatsache, dass sich typi- 
+(2)<sup>1</sup> Im Fach Iberoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im spanischsprachigen Kulturraum vermittelt.<sup>2</sup> In der wissenschaftlichen Auseinandersetzung mit der spanischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit spanischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der spanischsprachigen Kultur.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typi- 
 
 1 
 
@@ -90,15 +90,15 @@ sche Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengän
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert: 
+(1)<sup>1</sup> Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Er ist in drei Phasen gegliedert: 
 
 3In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Sprach-, Literatur- und Kulturwissenschaft und vertiefen ihre sprachpraktischen Kenntnisse, indem sie einführende Veranstaltungen besuchen (Basismodule). 
 
 4In der zweiten Studienphase werden die fachlichen und methodischen Kompetenzen erweitert, spezialisiert und kontextualisiert (Aufbaumodule). 
 
-5In der dritten Studienphase erfolgt die weiterführende Spezialisierung in einem ausgewählten wissenschaftlichen Bereich.[6] Die Studierenden werden zu selbständigem wissenschaftlichem Arbeiten befähigt (Vertiefungsmodule). 
+5In der dritten Studienphase erfolgt die weiterführende Spezialisierung in einem ausgewählten wissenschaftlichen Bereich.<sup>6</sup> Die Studierenden werden zu selbständigem wissenschaftlichem Arbeiten befähigt (Vertiefungsmodule). 
 
-(2)[1] Im Studium Iberoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+(2)<sup>1</sup> Im Studium Iberoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
 Pflichtmodule: Spanische Sprachpraxis 1-4; Einführung in die Iberoromanistik; Spanische Sprachwissenschaft 1; Spanische und/oder lateinamerikanische Literatur- und Kulturwissenschaft 1; Bachelorarbeit 
 
@@ -108,42 +108,37 @@ Wahlpflichtmodule: Spanische Sprachwissenschaft 2 oder Spanische und/oder latein
 
 2Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
 
-|**Sem.1  **|**Module**|**LV**|**SWS**|**ECTS-**<br>**Punkte**|**Leistungs-**<br>**nachweis**|**Faktor für**<br>**die Modul-**<br>**note**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS-**<br>**Punkte**|<br>**Leistungs-**<br>**nachweis**|**Faktor für**<br>**die Modul-**<br>**note**|
 |---|---|---|---|---|---|---|
-|1|**Basismodul Spanische**<br>**Sprachpraxis 1**|Español intermedio I|6|8|K 90’|1,0|
-|||Comprensión y comunica-<br>ciónoral I|2|2|SL||
+||**Basismodul Spanische**|Español intermedio I|6|8|K 90’|1,0|
+|1|<br>**Sprachpraxis 1**|Comprensión y comunica-<br>ciónoral I|2|2<br>**10**|SL||
+|||Español intermedio II|6|8|K 90’|1,0|
+|2|**Basismodul Spanische**<br>**Sprachpraxis 2**|Fonética descriptiva|1|1|SL||
+|||Fonética práctica|1|1<br>|SL||
+|1 / 2|**Basismodul**<br>**Eifüh i di Ib**|Einführung in die spanische<br>Sprachwissenschaft|<br>2|**10**<br>4|K 90’|0,5|
+||**nrung n e eroro-**<br>**manistik**|Einführung in die spanische<br>Literaturwissenschaft|3|6|K 90’|0,5|
 |||||**10**|||
-|2|**Basismodul Spanische**<br>**Sprachpraxis 2**|Español intermedio II|6|8|K 90’|1,0|
-|||Fonética descriptiva|1|1|SL||
-|||Fonética práctica|1|1|SL||
+||**Aufbaumodul**|Proseminar|2|4|HA|0,6|
+|3 / 4|<br>**Spanische Sprachwissen-**|Vorlesung|2|2|SL||
+||**schaft 1**|Übung|2|4|K 90’ /<br>MP 15’|0.4|
 |||||**10**|||
-|1 / 2|**Basismodul**<br>**Einführung in die Iberoro-**<br>**manistik**|Einführung in die spanische<br>Sprachwissenschaft|2|4|K 90’|0,5|
-|||Einführung in die spanische<br>Literaturwissenschaft|3|6|K 90’|0,5|
+||**Aufbaumodul Spanische**|Proseminar|2|4|HA|0,6|
+|3 / 4|**und/oder lateinamerikani-**<br>**sche Literatur- und Kultur-**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
+||**wissenschaft 1**|Übung|2|2|SL||
 |||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Spanische Sprachwissen-**<br>**schaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|2|SL||
-|||Übung|2|4|K 90’ /<br>MP 15’|0.4|
+|||Comprensión y comuni-<br>cación oral II|2|2|SL||
+|3 / 4|**Aufbaumodul Spanische**|Gramática y estilística I|2|2|SL||
+||**Sprachpraxis 3**|Español avanzado|2|3|K 90’|1,0|
+|||Introducción a la cultura<br>española|2|3<br>|SL||
+||**Vertiefungsmodul Spanische**|<br>Mittelseminar|2|**10**<br>6|HA|0,6|
+|5 / 6|<br>**Sprachwissenschaft 2**|<br>Vorlesung|2|4<br>|K 90’ /<br>MP 15’|0,4|
 |||||**10**|||
-|3 / 4|**Aufbaumodul Spanische**<br>**und/oder lateinamerikani-**<br>**sche Literatur- und Kultur-**<br>**wissenschaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||Übung|2|2|SL||
-|||||**10**|||
-|3 / 4|**Aufbaumodul Spanische**<br>**Sprachpraxis 3**|Comprensión y comuni-<br>cación oral II|2|2|SL||
-|||Gramática y estilística I|2|2|SL||
-|||Español avanzado|2|3|K 90’|1,0|
-|||Introducción a la cultura<br>española|2|3|SL||
-|||||**10**|||
-|5 / 6|**Vertiefungsmodul Spanische**<br>**Sprachwissenschaft 2**|Mittelseminar|2|6|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||||**10**|||
-|5 / 6|**Vertiefungsmodul Spanische**<br>**und/oder lateinamerikani-**<br>**sche Literatur- u. Kulturwis-**<br>**senschaft 2**|Mittelseminar|2|6|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||||**10**|||
-|5 / 6|**Vertiefungsmodul Spanische**<br>**Sprachpraxis 4**|Introducción a la cultura<br>latinoamericana|2|5|K 90’/<br>MP 15’|1,0|
-|||Traducción alemán-español|2|3|SL||
-|||Comprensión y comunica-<br>ciónescrita|2|2|SL||
-|||||**10**|||
-||**Bachelorarbeit**|||**10**|BA||
+||**Vertiefungsmodul Spanische**<br>**und/oder lateinamerikani-**|<br>Mittelseminar|2|6|HA|0,6|
+|5 / 6|<br>**sche Literatur- u. Kulturwis-**<br>**senschaft 2**|Vorlesung|2|4<br>**10**|K 90’ /<br>MP 15’|0,4|
+|||Introducción a la cultura<br>latinoamericana|2|<br>5|K 90’/<br>MP 15’|1,0|
+|5 / 6|**Vertiefungsmodul Spanische**<br>**Sprachpraxis 4**|<br>Traducción alemán-español|2|3|SL||
+|||Comprensión y comunica-<br>ciónescrita|2|2<br>|SL||
+||**Bachelorarbeit**|||**10**<br>**10**|BA||
 
 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
@@ -196,7 +191,7 @@ Für die GOP müssen das Basismodul Einführung in die Iberoromanistik und das B
 
 4 
 
-(3)[1] Im Studiengang Iberoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
+(3)<sup>1</sup> Im Studiengang Iberoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Spanische Sprachpraxis 1-2; Einführung in die Iberoromanistik 
 
@@ -204,9 +199,9 @@ Für die GOP müssen das Basismodul Einführung in die Iberoromanistik und das B
 
 2Absatz 2 Sätze 2 und 3 gilt entsprechend. 
 
-(4)[1] Bei Vorkenntnissen der spanischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.[2] Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
+(4)<sup>1</sup> Bei Vorkenntnissen der spanischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.<sup>2</sup> Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
 
-(5)[1] Wird Spanisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Dabei soll ein Modul mit der Ableistung eines Praktikums im spanischsprachigen Ausland oder aber in einem auf Spanien oder Lateinamerika bezogenen Bereich absolviert werden. 
+(5)<sup>1</sup> Wird Spanisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei soll ein Modul mit der Ableistung eines Praktikums im spanischsprachigen Ausland oder aber in einem auf Spanien oder Lateinamerika bezogenen Bereich absolviert werden. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -214,7 +209,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Iberoromanistik d
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.[3] Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 2 der ABMStPO/Phil nachgewiesen werden. 
+1Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.<sup>3</sup> Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 2 der ABMStPO/Phil nachgewiesen werden. 
 
 ## **§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-Dipl-SIM.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:39+00:00
-page_count_chars: 2834
+scraped_at: 2026-07-01T11:33:38+00:00
+page_count_chars: 2838
 ---
 
 # 17. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 2834
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-Dipl-SIM.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 17. Dezember 2009 
+# Vom 17. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg vom 28. November 2006, zuletzt geändert durch Satzung vom 25. Juli 2008, wird wie folgt geändert: 
 
@@ -38,9 +38,9 @@ Die Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme
 
    - c) Es wird folgender neuer Satz 3 angefügt: 
 
-      - „[3] Für Lehrveranstaltungen, für die zum Zeitpunkt der Teilnahme noch keine Zuweisung von ECTS-Punkten durch eine Studienkommission erfolgt ist, wird dabei für Vorlesungen, Übungen und Seminare der Wert 1,25 *Semesterwochenstundenzahl verwendet.“ 
+      - „<sup>3</sup> Für Lehrveranstaltungen, für die zum Zeitpunkt der Teilnahme noch keine Zuweisung von ECTS-Punkten durch eine Studienkommission erfolgt ist, wird dabei für Vorlesungen, Übungen und Seminare der Wert 1,25 *Semesterwochenstundenzahl verwendet.“ 
 
-## 6. Die Anlage 2 wird wie folgt geändert: 
+# 6. Die Anlage 2 wird wie folgt geändert: 
 
 - a) Im Text über der Tabelle werden die Worte „LP = Leistungspunkte, 1 LP“ durch die Worte ECTS = European Credit Transfer System, 1 ECTS-Punkt“ ersetzt. 
 
@@ -48,7 +48,7 @@ Die Fachprüfungsordnung für die Diplomhauptprüfung im Teilstudiengang Systeme
 
 - c) Im Text unter der Tabelle wird nach dem Wort „Diplomzeugnis“ das Wort „berücksichtigt“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. Oktober 2009 in Kraft. 
 

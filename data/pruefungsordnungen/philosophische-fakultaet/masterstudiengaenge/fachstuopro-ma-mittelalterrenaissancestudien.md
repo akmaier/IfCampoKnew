@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-MittelalterRenaissancestudien.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:02+00:00
-page_count_chars: 12139
+scraped_at: 2026-07-01T09:45:15+00:00
+page_count_chars: 12244
 ---
 
 # PDF vom 08.06.2010 i.d.F. 05.11.2010
@@ -14,7 +14,7 @@ page_count_chars: 12139
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittelalter- und Renaissancestudien an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOMiRe - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittelalter- und Renaissancestudien an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOMiRe - Vom 8. Juni 2010** 
 
 geändert durch Satzung vom 5. November 2010 
 
@@ -28,15 +28,15 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist der Abschluss in mindestens einem der am Studiengang beteiligten Fächer Germanistische Mediävistik, Mittellateinische Philologie, Nordische Philologie, Christliche Archäologie, Kunstgeschichte, Mittelalterliche Geschichte, Bayerische und Fränkische Landesgeschichte sowie Geschichte.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Abschlüsse mit mindestens 35 ECTS Punkten in Lehrveranstaltungen mit Mittelalter- oder Renaissancebezug anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist der Abschluss in mindestens einem der am Studiengang beteiligten Fächer Germanistische Mediävistik, Mittellateinische Philologie, Nordische Philologie, Christliche Archäologie, Kunstgeschichte, Mittelalterliche Geschichte, Bayerische und Fränkische Landesgeschichte sowie Geschichte.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Abschlüsse mit mindestens 35 ECTS Punkten in Lehrveranstaltungen mit Mittelalter- oder Renaissancebezug anerkannt. 
 
-(2)[ 1] Mit den Bewerbungsunterlagen sind Nachweise über gesicherte Lateinkenntnisse und Kenntnisse in zwei modernen Fremdsprachen mit mindestens dem Niveau A2 nach dem gemeinsamen europäischen Referenzrahmen für Sprachen nachzuweisen; sofern das Fach Nordistik als Master- oder Profilfach gewählt wird, soll eine der 
+(2)<sup>1</sup> Mit den Bewerbungsunterlagen sind Nachweise über gesicherte Lateinkenntnisse und Kenntnisse in zwei modernen Fremdsprachen mit mindestens dem Niveau A2 nach dem gemeinsamen europäischen Referenzrahmen für Sprachen nachzuweisen; sofern das Fach Nordistik als Master- oder Profilfach gewählt wird, soll eine der 
 
 1 
 
-beiden modernen Fremdsprachen eine moderne nordgermanische Sprache sein und zusätzlich Kenntnisse in der altwestnordischen Sprache nachgewiesen werden; sofern das Fach Germanistische Mediävistik als Master- oder Profilfach gewählt wird, ist zusätzlich die Kenntnis des Mittelhochdeutschen (Übersetzungsfähigkeit) nachzuweisen.[2] Der Nachweis über die Latein- und Fremdsprachenkenntnisse erfolgt durch das Abiturzeugnis oder vergleichbare Nachweise.[ 3] Studierende, die diesen Nachweis vor Aufnahme des Studiums nicht erbringen, können unter der auflösenden Bedingung zugelassen werden, dass der Nachweis über die Sprachkenntnisse auf dem Niveau A2 bis zu Beginn des dritten Fachsemesters erbracht wird. 
+beiden modernen Fremdsprachen eine moderne nordgermanische Sprache sein und zusätzlich Kenntnisse in der altwestnordischen Sprache nachgewiesen werden; sofern das Fach Germanistische Mediävistik als Master- oder Profilfach gewählt wird, ist zusätzlich die Kenntnis des Mittelhochdeutschen (Übersetzungsfähigkeit) nachzuweisen.<sup>2</sup> Der Nachweis über die Latein- und Fremdsprachenkenntnisse erfolgt durch das Abiturzeugnis oder vergleichbare Nachweise.<sup>3</sup> Studierende, die diesen Nachweis vor Aufnahme des Studiums nicht erbringen, können unter der auflösenden Bedingung zugelassen werden, dass der Nachweis über die Sprachkenntnisse auf dem Niveau A2 bis zu Beginn des dritten Fachsemesters erbracht wird. 
 
-(3)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Im Auswahlgespräch wird unter anderem geprüft, ob die Bewerberin und der Bewerber über sichere Kenntnisse in den fachspezifischen Grundlagen verfügt und ob eine positive Studienprognose aufgrund steigender Leistungen im bisherigen Studienverlauf möglich ist.[4] Das Auswahlgespräch erstreckt sich auch auf die Motivation der Bewerberin und des Bewerbers. 
+(3)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Im Auswahlgespräch wird unter anderem geprüft, ob die Bewerberin und der Bewerber über sichere Kenntnisse in den fachspezifischen Grundlagen verfügt und ob eine positive Studienprognose aufgrund steigender Leistungen im bisherigen Studienverlauf möglich ist.<sup>4</sup> Das Auswahlgespräch erstreckt sich auch auf die Motivation der Bewerberin und des Bewerbers. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
@@ -48,83 +48,83 @@ Umfang und Gliederung des Masterstudiengangs Mittelalter- und Renaissancestudien
 
 ## **Anlage: Studienplan Masterstudiengang Mittelalter- und Renaissancestudien** 
 
-## **1. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination:** 
+### **1. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination:** 
 
-## **Masterfach Christliche Archäologie, Profilfach Bayerische Landesgeschichte** 
+### **Masterfach Christliche Archäologie, Profilfach Bayerische Landesgeschichte** 
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Art- und Umfang der Prü-**<br>**fungsleistung**|**Gesamt-**<br>**summe**<br>**ECTS**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-|1|**Fachmodul**<br>**Christliche**<br>**Archäologie**|VL|2|3|Klausur|10|2|
-|||HS|2|7|Referat und Hausarbeit|||
+||**Fachmodul**<br>**Christliche**|VL|2|3|Klausur|10|2|
+||**Archäologie**|HS|2|7|Referat und Hausarbeit|||
 ||**Fachmodul**<br>**Bayerische Lan-**<br>**desgeschichte**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung (unbenotete Stu-<br>dienleistung)|10|2|
-|||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
+|1|<br>|HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
 ||**Pflichtmodul:**<br>**Einführung ins**<br>**Mittellatein**|ÜB|2|5|Klausur (90 Min.)|5|0,5|
 ||**Pflichtmodul:**<br>**Einführung in**<br>**die Historischen**<br>**Hilfswissen-**<br>**schaften**|ÜB|2|5|mündl. Prüfung (20 Min.)<br>oder Klausur (60 Min.)|5|0,5|
-|2|**Fachmodul**<br>**Christliche**<br>**Archäologie**|VL|2|3|Klausur|10|2|
-|||HS|2|7|Referat und Hausarbeit|||
-||**Fachmodul**<br>**Christliche**<br>**Archäologie**|VL|2|3|Klausur|10|2|
-|||HS|2|7|Referat und Hausarbeit|||
+||**Fachmodul**<br>**Christliche**|VL|2|3|Klausur|10|2|
+||**Archäologie**|HS|2|7|Referat und Hausarbeit|||
+||**Fachmodul**<br>**Christliche**|VL|2|3|Klausur|10|2|
+|2|**Archäologie**|HS|2|7|Referat und Hausarbeit|||
 ||**Fachmodul**<br>**Bayerische Lan-**<br>**desgeschichte**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung(unbenotete Stu-<br>dienleistung)|10|2|
 |||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
 |3|**Betreutes**<br>**Eigenstudium**<br>**Christliche**<br>**Archäologie**|||10|Mündl. Prüfung (30-45<br>Min.) oder Klausur (60-90<br>Min.) (unbenotete Studien-<br>leistung)|10|0|
-||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|1||||15|0,5|
+||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|<br>1||||15|0,5|
 |4|**Forschungs-**<br>**kolloquium**|Kolloquium|2|5|Referat (unbenotete Stu-<br>dienleistung)|5|0|
-|4|**Masterarbeit**|Masterarbeit||25|Hausarbeit|30|2|
-|||Mündl. Prüfung||5|mündl. Prüfung (60 Min.)|||
+|||Masterarbeit||25|Hausarbeit|||
+|4|**Masterarbeit**|Mündl. Prüfung||5|mündl. Prüfung (60 Min.)|30|2|
 
 3 
 
-## **2. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination: Masterfach Kunstgeschichte, Profilfach Nordische Philologie** 
+### **2. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination: Masterfach Kunstgeschichte, Profilfach Nordische Philologie** 
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Art- und Umfang der Prü-**<br>**fungsleistung**|**Gesamt-**<br>**summe**<br>**ECTS**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-|1|**Fachmodul I**<br>**Kunst-**<br>**geschichte**|VL|2|4|Referat und Hausarbeit<br>(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Referat und Hausarbeit|||
+||**Fachmodul I**<br>**Kunst-**<br>**hiht**|VL|2|4|Referat und Hausarbeit<br>(unbenotete Studienleis-<br>tung)|10|2|
+||**gescce**|HS|2|6|Referat und Hausarbeit|||
 ||**Fachmodul**<br>**Nordistik I**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung (unbenotete Stu-<br>dienleistung)|10|2|
-|||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
+|1||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
 ||**Pflichtmodul:**<br>**Einführung ins**<br>**Mittellatein**|ÜB|2|5|Klausur (90 Min.)|5|0,5|
 ||**Pflichtmodul:**<br>**Einführung in**<br>**die Historischen**<br>**Hilfswissen-**<br>**schaften**|ÜB|2|5|mündl. Prüfung (20 Min.)<br>oder Klausur (60 Min.)|5|0,5|
-|2|**Fachmodul II**<br>**Kunstge-**<br>**schichte**|VL|2|4|Referat und Hausarbeit<br>(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Referat und Hausarbeit|||
-||**Fachmodul**<br>**Nordistik II**|VL oder ÜB|2|4|(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Referat und Hausarbeit (12<br>Seiten)|||
+||**Fachmodul II**<br>**Kunstge-**<br>|VL|2|4|Referat und Hausarbeit<br>(unbenotete Studienleis-<br>tung)|10|2|
+||**schichte**|HS|2|6|Referat und Hausarbeit|||
+|2|**Fachmodul**|VL oder ÜB|2|4|(unbenotete Studienleis-<br>tung)|||
+||**Nordistik II**|HS|2|6|Referat und Hausarbeit (12<br>Seiten)|10|2|
 ||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|1||||10|0,5|
-|3|**Angeleitetes**<br>**Eigenstudium**<br>**Kunstge-**<br>**schichte**|Lektüre||10|mündl. Prüfung (30-45<br>Min.) oder Klausur (60-90<br>Min.) (unbenotete Studien-<br>leistung)|10|0|
-||**Fachmodul III**<br>**Kunstge-**<br>**schichte**|einwöchige<br>Ex-<br>kursion<br>oder<br>alternativ 5 Ta-<br>gesexkursionen.|³|10|Referat (unbenotete Stu-<br>dienleistung)|10|2|
+||**Angeleitetes**<br>**Eigenstudium**<br>**Kunstge-**<br>**schichte**|Lektüre||10|mündl. Prüfung (30-45<br>Min.) oder Klausur (60-90<br>Min.) (unbenotete Studien-<br>leistung)|10|0|
+|3|**Fachmodul III**<br>**Kunstge-**<br>**schichte**|einwöchige<br>Ex-<br>kursion<br>oder<br>alternativ 5 Ta-<br>gesexkursionen.|³|10|Referat (unbenotete Stu-<br>dienleistung)|10|2|
 ||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|1||||5|0,5|
 |4|**Forschungs-**<br>**kolloquium**|Kolloquium|2|5|Referat  (unbenotete Stu-<br>dienleistung)|5|0|
-|4|**Masterarbeit**|Masterarbeit||25|Hausarbeit|30|2|
-|||Mündl. Prüfung||5|mündl. Prüfung (60 Min.)|||
+|||Masterarbeit||25|Hausarbeit|||
+|4|**Masterarbeit**|Mündl. Prüfung||5|mündl. Prüfung (60 Min.)|30|2|
 
 4 
 
-## **3. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination: Masterfach Mittellateinische Philologie, Profilfach Mittelalterliche Geschichte** 
+### **3. Exemplarischer Studienplan mit Prüfungsverteilung für die Fächerkombination:** **<u>Masterfach Mittellateinische Philologie, Profilfach Mittelalterliche Geschichte</u>** 
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Art- und Umfang der Prü-**<br>**fungsleistung**|**Gesamt-**<br>**summe**<br>**ECTS**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-|1|**Lateinische Lite-**<br>**ratur und Sprache**<br>**bis zum Hochmit-**<br>**telalter**|ÜB|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Hausarbeit (12 Seiten) und<br>Referat|||
+||**Lateinische Lite-**<br>**ratur und Sprache**<br>**bis zum Hochmit-**|ÜB|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
+||**telalter**|HS|2|6|Hausarbeit (12 Seiten) und<br>Referat|||
 ||**Fachmodul Mittel-**<br>**alterliche Ge-**<br>**schichte**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung (unbenotete Stu-<br>dienleistung)|10|2|
-|||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
+|1||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
 ||**Pflichtmodul: Ein-**<br>**führung ins Mittel-**<br>**latein**|ÜB|2|5|Klausur (90 Min.)|5|0,5|
 ||**Pflichtmodul: Ein-**<br>**führung in die**<br>**Historischen**<br>**Hilfswissen-**<br>**schaften**|ÜB|2|5|mündl. Prüfung (20 Min.)<br>oder Klausur (60 Min.)|5|0,5|
-|2|**Lateinische Lite-**<br>**ratur und Sprache**<br>**in Mittelalter und**<br>**Früher Neuzeit**|VL oder ÜB|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Hausarbeit (12 Seiten) und<br>Referat|||
-||**Fachmodul**<br>**Mittelalterliche**<br>**Geschichte**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung (unbenotete Stu-<br>dienleistung)|10|2|
+||**Lateinische Lite-**<br>**ratur und Sprache**<br>**in Mittelalter und**|VL oder ÜB|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
+||**Früher Neuzeit**|HS|2|6|Hausarbeit (12 Seiten) und<br>Referat|||
+|2|**Fachmodul**<br>**Mittelalterliche**<br>**Geschichte**|VL oder ÜB|2|4|mündl. Prüfung und/oder<br>Klausur bzw. eine Referats-<br>leistung (unbenotete Stu-<br>dienleistung)|10|2|
 |||HS|2|6|Hausarbeit (15 Seiten)<br>und/oder Klausur(60 Min.)|||
 ||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|1||||10|0,5|
-|3|**Mediale Aspekte**<br>**der Vormoderne I**|Seminar|2|6|Klausur (90 Min.)|10|2|
-|||Betreuter Kurs<br>Paläographie<br>online|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|||
-||**Mittelalterliche**<br>**Textualität**|VL|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
-|||HS|2|6|Hausarbeit (12 Seiten) und<br>Referat|||
+||**Mediale Aspekte**|Seminar|2|6|Klausur (90 Min.)|||
+||<br>**der Vormoderne I**|Betreuter Kurs<br>Paläographie<br>online|2|4|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)|10|2|
+|3|**Mittelalterliche**<br>**Textualität**|VL<br>HS|2<br>2|4<br>6|mündl. Prüfung (30 Min.)<br>(unbenotete Studienleis-<br>tung)<br>Hausarbeit (12 Seiten) und<br>Referat|10|2|
 ||**Freie Belegung**<br>**Wahlpflicht-**<br>**module**|1||||5|0,5|
 |4|**Forschungs-**<br>**kolloquium**|Kolloquium|2|5|Referat (unbenotete Stu-<br>dienleistung)|5|0|
-|4|**Masterarbeit**|Masterarbeit||25|Hausarbeit|30|2|
-|||Mündl. Prüfung||5|mündl. Prüfung (60 Min.)|||
+|||Masterarbeit||25|Hausarbeit|||
+|4|**Masterarbeit**|Müdl Püf||||30|2|
+|||n. rung||5|mündl. Prüfung (60 Min.)|||
 
 5 
 
-1 
+<u>1</u> 
 
 ~~D~~ er Wahlpflicht- und Pflichtbereich wird getragen von den Fächern Kunstgeschichte, Christliche Archäologie, Germanistische Mediävistik, Germanistische Sprachwissenschaft, Mittelalterliche Geschichte, Geschichte der Medizin, Ältere und Neuere Kirchengeschichte, Mittellateinische Philologie, Anglistik, Romanistik, Philosophie, Rechtsgeschichte, Bayerische und Fränkische Landesgeschichte, Nordistik, Islamwissenschaften und Arabistik, Sinologie und Informatik. Es besteht Wahlmöglichkeit aus dem jeweils vorhandenen Angebot eines Semesters. Wahlpflichtmodule umfassen in der Regel 5 ECTS-Punkte. 
 

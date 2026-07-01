@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.09.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StuOPrO%20MA-Lexicography.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:14:55+00:00
-page_count_chars: 57680
+scraped_at: 2026-07-01T09:34:01+00:00
+page_count_chars: 59328
 ---
 
 # PDF vom 04.09.2009
@@ -14,45 +14,43 @@ page_count_chars: 57680
 
 **Der Text dieser Studien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Alexander-Universität Erlangen-Nürnberg - MPOEMLex Vom 4. September 2009** 
+# **Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Alexander-Universität Erlangen-Nürnberg - MPOEMLex Vom 4. September 2009** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 1, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FriedrichAlexander-Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
-|**§**|**1**|**Geltungsbereich, Zweck der Masterprüfung**............................................... 2|
-|---|---|---|
-|**§**|**2**|**Akademischer Grad**....................................................................................... 2|
-|**§**|**3**|**Studienbeginn**................................................................................................ 2|
-|**§**|**4**|**Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit**....... 2|
-|**§**|**5**|**ECTS-Punkte**.................................................................................................. 2|
-|**§**|**6**|**Modularisierung**............................................................................................. 2|
-|**§**|**7**|**Lehr- und Lernformen**................................................................................... 3|
-|**§**|**8**|**Prüfungsformen**............................................................................................. 4|
-|**§**|**9**|**Prüfungsfristen, Folgen der Fristversäumnis**............................................. 4|
-|**§**|**10**|**Prüfungsausschuss**....................................................................................... 4|
-|**§**|**11**|**Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden,**|
-|||**Anmeldung, Rücktritt**..................................................................................... 5|
-|**§**|**12**|**Prüfende, Ausschluss wegen persönlicher Beteiligung,**|
-|||**Verschwiegenheitspflicht**.............................................................................. 6|
-|**§**|**13**|**Zulassungskommission**................................................................................ 6|
-|**§**|**14**|**Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen**.......... 6|
-|**§**|**15**|**Täuschung, Ordnungsverstoß**...................................................................... 7|
-|**§**|**16**|**Entzug akademischer Grade**......................................................................... 8|
-|**§**|**17**|**Mängel im Prüfverfahren**............................................................................... 8|
-|**§**|**18**|**Schriftliche Prüfung**....................................................................................... 8|
-|**§**|**19**|**Mündliche Prüfung**........................................................................................ 8|
-|**§**|**20**|**Bewertung der Prüfungen, Notenstufen, Gesamtnote**............................... 9|
-|**§**|**21**|**Ungültigkeit der Prüfung**............................................................................... 9|
-|**§**|**22**|**Einsicht in die Prüfungsakte**........................................................................10|
-|**§**|**23**|**Zeugnis, Diploma Supplement, Transcript of Records, Urkunde**.............10|
-|**§**|**24**|**Bescheinigung über endgültig nicht bestandene Prüfung**.......................10|
-|**§**|**25**|**Nachteilsausgleich**.......................................................................................10|
-|**§**|**26**|**Studienberatung**...........................................................................................11|
-|**§**|**27**|**Qualifikation zum Masterstudium**................................................................11|
-|**§**|**28**|**Zulassung zur Masterprüfung**.....................................................................12|
-|**§**|**29**|**Masterprüfung**...............................................................................................12|
-|**§**|**30**|**Masterarbeit**..................................................................................................12|
-|**§**|**31**|**Wiederholung von Prüfungen**......................................................................14|
-|**§**|**32**|**Inkrafttreten**...................................................................................................14|
+|**§ 1**|**Geltungsbereich, Zweck der Masterprüfung**............................................... 2|
+|---|---|
+|**§ 2**|**Akademischer Grad**....................................................................................... 2|
+|**§ 3**<br>|**Studienbeginn**................................................................................................ 2<br>|
+|**§ 4**<br>|**Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit**....... 2<br>|
+|**§ 5**|**ECTS-Punkte**.................................................................................................. 2|
+|**§ 6**|**Modularisierung**............................................................................................. 2|
+|**§ 7**|**Lehr- und Lernformen**................................................................................... 3|
+|**§ 8**<br>|**Prüfungsformen**............................................................................................. 4<br>|
+|**§ 9**|**Prüfungsfristen, Folgen der Fristversäumnis**............................................. 4|
+|**§ 10** <br>|**Prüfungsausschuss**....................................................................................... 4<br>|
+|**§ 11**|**Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden,**<br>**Anmeldung, Rücktritt**..................................................................................... 5|
+|**§ 12**|**Prüfende, Ausschluss wegen persönlicher Beteiligung,**<br>**Verschwiegenheitspflicht**.............................................................................. 6|
+|**§ 13**|**Zulassungskommission**................................................................................ 6|
+|**§ 14**|**Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen**.......... 6|
+|**§ 15**|**Täuschung, Ordnungsverstoß**...................................................................... 7|
+|**§ 16**|**Entzug akademischer Grade**......................................................................... 8|
+|**§ 17**|**Mängel im Prüfverfahren**............................................................................... 8|
+|**§ 18**|**Schriftliche Prüfung**....................................................................................... 8|
+|**§ 19**|**Mündliche Prüfung**........................................................................................ 8|
+|**§ 20**|**Bewertung der Prüfungen, Notenstufen, Gesamtnote**............................... 9|
+|**§ 21**|**Ungültigkeit der Prüfung**............................................................................... 9|
+|**§ 22**|**Einsicht in die Prüfungsakte**........................................................................10|
+|**§ 23** <br>|**Zeugnis, Diploma Supplement, Transcript of Records, Urkunde**.............10<br>|
+|**§ 24**|**Bescheinigung über endgültig nicht bestandene Prüfung**.......................10|
+|**§ 25**|**Nachteilsausgleich**.......................................................................................10|
+|**§ 26**|**Studienberatung**...........................................................................................11|
+|**§ 27**|**Qualifikation zum Masterstudium**................................................................11|
+|**§ 28**|**Zulassung zur Masterprüfung**.....................................................................12|
+|**§ 29**|**Masterprüfung**...............................................................................................12|
+|**§ 30**|**Masterarbeit**..................................................................................................12|
+|**§ 31**|**Wiederholung von Prüfungen**......................................................................14|
+|**§ 32**|**Inkrafttreten**...................................................................................................14|
 
 1 
 
@@ -60,7 +58,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 1, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 A
 
 (1) Diese Prüfungsordnung regelt Zugang und Prüfungen im nicht-konsekutiven Masterstudiengang European Master in Lexicography / Europäischer Master für Lexikographie mit dem Abschlussziel Master of Arts. 
 
-(2)[1] Der Master of Arts ist ein weiterer berufs- und forschungsqualifizierender Abschluss des Studiums.[2] Durch die Masterprüfung wird festgestellt, ob die Studierenden 
+(2)<sup>1</sup> Der Master of Arts ist ein weiterer berufs- und forschungsqualifizierender Abschluss des Studiums.<sup>2</sup> Durch die Masterprüfung wird festgestellt, ob die Studierenden 
 
 - vertiefte Kenntnisse der Grundlagen und wesentlicher Forschungsergebnisse in den Fächern ihres Masterstudiums erworben haben, 
 
@@ -78,45 +76,45 @@ Das Masterstudium kann nur im Wintersemester begonnen werden.
 
 ## **§ 4 Struktur des Masterstudiengangs, Prüfungen und Regelstudienzeit** 
 
-(1) Der internationale Masterstudiengang European Master in Lexicography / Europäischer Master für Lexikographie umfasst eine Studienzeit von vier Semestern einschließlich der Erstellung einer Masterarbeit.[2] Das zweite Semester verbringen die Studierenden eines Studienjahres an einer der teilnehmenden Partneruniversitäten (Blockseminarsemester).[3] Findet das Blockseminarsemester des internationalen Masterstudiengangs an der Universität Erlangen-Nürnberg statt, verbringen deren Studierende entweder das erste oder dritte Semester im Ausland. 4Die Unterrichtssprachen in den Lehrveranstaltungen sind Deutsch und Englisch. 
+(1) Der internationale Masterstudiengang European Master in Lexicography / Europäischer Master für Lexikographie umfasst eine Studienzeit von vier Semestern einschließlich der Erstellung einer Masterarbeit.<sup>2</sup> Das zweite Semester verbringen die Studierenden eines Studienjahres an einer der teilnehmenden Partneruniversitäten (Blockseminarsemester).<sup>3</sup> Findet das Blockseminarsemester des internationalen Masterstudiengangs an der Universität Erlangen-Nürnberg statt, verbringen deren Studierende entweder das erste oder dritte Semester im Ausland. 4Die Unterrichtssprachen in den Lehrveranstaltungen sind Deutsch und Englisch. 
 
-(2)[1] Das Masterstudium wird mit der Masterprüfung abgeschlossen.[2] Sie besteht aus sämtlichen, dem Masterstudium zugeordneten Fachmodulen, wie sie in **Anlage II** beschrieben sind. 
+(2)<sup>1</sup> Das Masterstudium wird mit der Masterprüfung abgeschlossen.<sup>2</sup> Sie besteht aus sämtlichen, dem Masterstudium zugeordneten Fachmodulen, wie sie in **Anlage II** beschrieben sind. 
 
-(3)[1] Die Regelstudienzeit des Masterstudiums einschließlich der Prüfungen beträgt vier Semester.[2] Zum erfolgreichen Abschluss ist der Erwerb von 120 ECTS-Punkten erforderlich. 
+(3)<sup>1</sup> Die Regelstudienzeit des Masterstudiums einschließlich der Prüfungen beträgt vier Semester.<sup>2</sup> Zum erfolgreichen Abschluss ist der Erwerb von 120 ECTS-Punkten erforderlich. 
 
 ## **§ 5 ECTS-Punkte** 
 
-(1)[1] Die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer and Accumulation System (ECTS).[2] Das Studiensemester ist mit ca. 30 ECTS-Punkten veranschlagt.[ 3] Ein ECTS-Punkt entspricht einer Arbeitslast von 30 Stunden. 
+(1)<sup>1</sup> Die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer and Accumulation System (ECTS).<sup>2</sup> Das Studiensemester ist mit ca. 30 ECTS-Punkten veranschlagt.<sup>3</sup> Ein ECTS-Punkt entspricht einer Arbeitslast von 30 Stunden. 
 
-(2)[1] ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.[2] Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
+(2)<sup>1</sup> ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.<sup>2</sup> Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
 
 ## **§ 6 Modularisierung** 
 
-(1)[1] Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind.[2] Ein Modul ist eine zeitlich abgerundete und in sich geschlossene abprüfbare Lehr- und Lerneinheit. 
+(1)<sup>1</sup> Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind.<sup>2</sup> Ein Modul ist eine zeitlich abgerundete und in sich geschlossene abprüfbare Lehr- und Lerneinheit. 
 
 2 
 
-(2)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung kann in einer Prüfungsleistung, in einer aus mehreren Teilprüfungen zusammengesetzten Prüfungsleistung, in einer Studienleistung oder in mehreren Studienleistungen oder in einer Kombination aus Prüfungs- und Studienleistungen bestehen.[3] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Prüfung festgestellt wird.[4] Studienbegleitende Prüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls vor Beginn der Vorlesungszeit des folgenden Semesters angeboten werden. 
+(2)<sup>1</sup> Die Module schließen mit einer studienbegleitenden Modulprüfung ab.<sup>2</sup> Diese Prüfung kann in einer Prüfungsleistung, in einer aus mehreren Teilprüfungen zusammengesetzten Prüfungsleistung, in einer Studienleistung oder in mehreren Studienleistungen oder in einer Kombination aus Prüfungs- und Studienleistungen bestehen.<sup>3</sup> ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Prüfung festgestellt wird.<sup>4</sup> Studienbegleitende Prüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls vor Beginn der Vorlesungszeit des folgenden Semesters angeboten werden. 
 
-(3)[1] **Prüfungsleistungen** und **Studienleistungen** messen den Erfolg der Studierenden. 2Sie können schriftlich, mündlich oder in anderer Form erfolgen. 3Prüfungsleistungen und Teilprüfungen werden benotet. 4Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken. 
+(3)<sup>1</sup> **Prüfungsleistungen** und **Studienleistungen** messen den Erfolg der Studierenden. 2Sie können schriftlich, mündlich oder in anderer Form erfolgen. 3Prüfungsleistungen und Teilprüfungen werden benotet. 4Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken. 
 
 (4) Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt die Immatrikulation im einschlägigen Studiengang an der Universität Erlangen-Nürnberg voraus. 
 
 ## **§ 7 Lehr- und Lernformen** 
 
-(1)[1] Ein Proseminar und vergleichbare Übungen dienen der Einführung der Studierenden in die Inhalte und Methoden.[2] Anhand ausgewählter Literatur werden Zugänge zu bestimmten Themen und Themengebieten des Faches erschlossen.[3] Es wird geübt, vorgegebene, begrenzte Themen in einer vorgegebenen Zeit und unter Verwendung relevanter Quellen zu untersuchen und sie in geeigneter Form zu präsentieren. 
+(1)<sup>1</sup> Ein Proseminar und vergleichbare Übungen dienen der Einführung der Studierenden in die Inhalte und Methoden.<sup>2</sup> Anhand ausgewählter Literatur werden Zugänge zu bestimmten Themen und Themengebieten des Faches erschlossen.<sup>3</sup> Es wird geübt, vorgegebene, begrenzte Themen in einer vorgegebenen Zeit und unter Verwendung relevanter Quellen zu untersuchen und sie in geeigneter Form zu präsentieren. 
 
 (2) In einer Vorlesung steht die Präsentation des jeweiligen Stoffs durch die Dozentin/den Dozenten im Mittelpunkt. 
 
-(3)[1] Hauptseminare dienen der vertieften Vorstellung und Diskussion zentraler Themen und Problemstellungen in systematischer wie historischer Hinsicht.[2] Diese werden von den Studierenden durch Anwendung erworbener Sach- und Methodenkenntnisse sowie Arbeitstechniken in selbstständiger wissenschaftlicher Arbeit anhand ausgewählter, eigenständig bearbeiteter Literatur erschlossen. 
+(3)<sup>1</sup> Hauptseminare dienen der vertieften Vorstellung und Diskussion zentraler Themen und Problemstellungen in systematischer wie historischer Hinsicht.<sup>2</sup> Diese werden von den Studierenden durch Anwendung erworbener Sach- und Methodenkenntnisse sowie Arbeitstechniken in selbstständiger wissenschaftlicher Arbeit anhand ausgewählter, eigenständig bearbeiteter Literatur erschlossen. 
 
 (4) Blockseminare finden im Gegensatz zu einem Seminar, das sich über die Vorlesungszeit im wöchentlichen Rhythmus erstreckt, auf mehrere Termine gebündelt statt. 
 
 (5) In Kolloquien wird den Studierenden die Möglichkeit geboten, Konzepte für eigenständige wissenschaftliche Arbeiten zu präsentieren und zu diskutieren. 
 
-(6)[1] Eine Übung (Tutorium) zu einem Seminar oder einer Vorlesung unter Leitung eines fortgeschrittenen Studenten/einer fortgeschrittenen Studentin wiederholt und vertieft den behandelten Stoff und unterstützt die Studierenden hinsichtlich der Aneignung neuer Fertigkeiten.[2] Vom Leiter der Lehrveranstaltung kann festgelegt werden, ob das Bestehen von Prüfungen (Kurzessays, Klausuren oder sonstige Übungsaufgaben) in der Übung eine (in der Regel in der Notengebung unberücksichtigt bleibende) Teilleistung der Prüfung in der Hauptveranstaltung darstellt. 
+(6)<sup>1</sup> Eine Übung (Tutorium) zu einem Seminar oder einer Vorlesung unter Leitung eines fortgeschrittenen Studenten/einer fortgeschrittenen Studentin wiederholt und vertieft den behandelten Stoff und unterstützt die Studierenden hinsichtlich der Aneignung neuer Fertigkeiten.<sup>2</sup> Vom Leiter der Lehrveranstaltung kann festgelegt werden, ob das Bestehen von Prüfungen (Kurzessays, Klausuren oder sonstige Übungsaufgaben) in der Übung eine (in der Regel in der Notengebung unberücksichtigt bleibende) Teilleistung der Prüfung in der Hauptveranstaltung darstellt. 
 
-(7)[1] Teleteaching ist die Live-Übertragung von Lehrveranstaltungen insbesondere von Vorlesungen, Vorträgen, Seminaren über Videokonferenz -Systeme.[2] Eine Er- 
+(7)<sup>1</sup> Teleteaching ist die Live-Übertragung von Lehrveranstaltungen insbesondere von Vorlesungen, Vorträgen, Seminaren über Videokonferenz -Systeme.<sup>2</sup> Eine Er- 
 
 3 
 
@@ -150,85 +148,85 @@ weiterung des Teleteachings kann über die Aufzeichnung der Live-Übertragungen 
 
 ## **§ 9 Prüfungsfristen, Folgen der Fristversäumnis** 
 
-(1)[1] Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass in der Masterprüfung 120 ECTS-Punkte bis zum Ende des Regeltermins erworben sind. 2Regeltermin ist das vierte Fachsemester. 3Der Regeltermin nach Satz 2 darf in der Masterprüfung um ein Semester überschritten werden (Überschreitungsfrist). 4Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn die festgelegte Zahl von ECTS-Punkten nicht innerhalb der Überschreitungsfrist nach Satz 3 erworben wurde, es sei denn, die Studierende oder der Studierende hat die Gründe hierfür nicht zu vertreten. 
+(1)<sup>1</sup> Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass in der Masterprüfung 120 ECTS-Punkte bis zum Ende des Regeltermins erworben sind. 2Regeltermin ist das vierte Fachsemester. 3Der Regeltermin nach Satz 2 darf in der Masterprüfung um ein Semester überschritten werden (Überschreitungsfrist). 4Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn die festgelegte Zahl von ECTS-Punkten nicht innerhalb der Überschreitungsfrist nach Satz 3 erworben wurde, es sei denn, die Studierende oder der Studierende hat die Gründe hierfür nicht zu vertreten. 
 
-(2)[1] Die Frist nach Absatz 1 verlängert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz, §§ 12 bis 15 Urlaubsverordnung. 
+(2)<sup>1</sup> Die Frist nach Absatz 1 verlängert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz, §§ 12 bis 15 Urlaubsverordnung. 
 
-(3)[1] Die Gründe nach den Absätzen 1 und 2 müssen dem Prüfungsamt unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden angerechnet.[3] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der Prüferin oder dem Prüfer geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
+(3)<sup>1</sup> Die Gründe nach den Absätzen 1 und 2 müssen dem Prüfungsamt unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden angerechnet.<sup>3</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der Prüferin oder dem Prüfer geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
 
 ## **§ 10 Prüfungsausschuss** 
 
-1Für die Organisation und Durchführung der Prüfungen wird ein Prüfungsausschuss eingesetzt.[2] Dem Prüfungsausschuss gehören drei Mitglieder an.[2] Die Mitglieder werden vom Fakultätsrat für eine Amtszeit von drei Jahren gewählt.[3] Wählbar sind alle der Fakultät hauptberuflich angehörenden Hochschullehrerinnen und Hochschullehrer.[4] Der Prüfungsausschuss bestimmt ein Mitglied für drei Jahre zu der oder dem Vorsitzenden und regelt die Vertretung.[5] Die oder der Vorsitzende des Prüfungsausschusses kann ihr oder ihm bzw. dem Prüfungsausschuss obliegende Aufgaben ei- 
+1Für die Organisation und Durchführung der Prüfungen wird ein Prüfungsausschuss eingesetzt.<sup>2</sup> Dem Prüfungsausschuss gehören drei Mitglieder an.<sup>2</sup> Die Mitglieder werden vom Fakultätsrat für eine Amtszeit von drei Jahren gewählt.<sup>3</sup> Wählbar sind alle der Fakultät hauptberuflich angehörenden Hochschullehrerinnen und Hochschullehrer.<sup>4</sup> Der Prüfungsausschuss bestimmt ein Mitglied für drei Jahre zu der oder dem Vorsitzenden und regelt die Vertretung.<sup>5</sup> Die oder der Vorsitzende des Prüfungsausschusses kann ihr oder ihm bzw. dem Prüfungsausschuss obliegende Aufgaben ei- 
 
 4 
 
 nem Mitglied des Prüfungsausschusses oder dem oder der jeweiligen Prüfungsbeauftragten zur Erledigung übertragen. 
 
-(2)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren im Benehmen mit dem Prüfungsamt, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[3] Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt oder die Prüfungsbeauftragten delegiert sind.[4] Der Prüfungsausschuss überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[5] Er berichtet regelmäßig dem Fakultätsrat über die Entwicklung der Prüfungen und Studienzeiten, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung; vor einer Änderung ist er zu hören.[6] Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
+(2)<sup>1</sup> Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren im Benehmen mit dem Prüfungsamt, insbesondere die Planung und Organisation der Prüfungen.<sup>2</sup> Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.<sup>3</sup> Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt oder die Prüfungsbeauftragten delegiert sind.<sup>4</sup> Der Prüfungsausschuss überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.<sup>5</sup> Er berichtet regelmäßig dem Fakultätsrat über die Entwicklung der Prüfungen und Studienzeiten, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung; vor einer Änderung ist er zu hören.<sup>6</sup> Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
 
-(3)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. 
+(3)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. 
 
-(4)[1] Die oder der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. 2Sie oder er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der oder dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(4)<sup>1</sup> Die oder der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. 2Sie oder er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.<sup>4</sup> Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der oder dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
-(5)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der Studierenden oder dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 3Aufgrund Beschlusses des Prüfungsausschusses können Notenbescheide öffentlich durch Aushang oder in elektronischer Form bekannt gegeben werden. 4Widerspruchsbescheide erlässt die Rektorin oder der Rektor, in fachlichprüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
+(5)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Der Studierenden oder dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 3Aufgrund Beschlusses des Prüfungsausschusses können Notenbescheide öffentlich durch Aushang oder in elektronischer Form bekannt gegeben werden. 4Widerspruchsbescheide erlässt die Rektorin oder der Rektor, in fachlichprüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
 
 ## **§ 11 Bekanntgabe der Prüfungsart, Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** 
 
-(1)[1] Spätestens eine Woche vor Vorlesungsbeginn jedes Semesters werden Art und Umfang der Prüfungen sowie die Anmeldetermine und Anmeldeformalitäten ortsüblich bekannt gemacht.[2] Die Termine der Prüfungen und die Prüfenden werden rechtzeitig ortsüblich bekannt gegeben. 
+(1)<sup>1</sup> Spätestens eine Woche vor Vorlesungsbeginn jedes Semesters werden Art und Umfang der Prüfungen sowie die Anmeldetermine und Anmeldeformalitäten ortsüblich bekannt gemacht.<sup>2</sup> Die Termine der Prüfungen und die Prüfenden werden rechtzeitig ortsüblich bekannt gegeben. 
 
-(2)[1] Die Studierenden melden sich zu den einzelnen Modulprüfungen nach Beginn der Vorlesungszeit an.[2] Die Teilnahme an der Prüfung kann von der regelmäßigen Teilnahme an der Lehrveranstaltung abhängig gemacht werden. 
+(2)<sup>1</sup> Die Studierenden melden sich zu den einzelnen Modulprüfungen nach Beginn der Vorlesungszeit an.<sup>2</sup> Die Teilnahme an der Prüfung kann von der regelmäßigen Teilnahme an der Lehrveranstaltung abhängig gemacht werden. 
 
-(3)[1] Unbeschadet der Fristen nach §§ 9, 31 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig; als 
+(3)<sup>1</sup> Unbeschadet der Fristen nach §§ 9, 31 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig; als 
 
 5 
 
-Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] Die Prüfenden können davon abweichend auch kürzere Rücktrittsfristen festlegen.[ 3] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 15 Abs. 1.[4] Der Rücktritt von einer Wiederholungsprüfung ist unzulässig. 
+Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> Die Prüfenden können davon abweichend auch kürzere Rücktrittsfristen festlegen.<sup>3</sup> Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 15 Abs. 1.<sup>4</sup> Der Rücktritt von einer Wiederholungsprüfung ist unzulässig. 
 
 ## **§ 12 Prüfende, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.[2] Zu Prüfenden, Gutachterinnen und Gutachter können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[4] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen oder Gutachter.<sup>2</sup> Zu Prüfenden, Gutachterinnen und Gutachter können alle nach BayHSchG, BayHSchPG und der BayHSchPrüferV in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.<sup>3</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.<sup>4</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt ihre oder seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
-(2)[1] Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[2] Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
+(2)<sup>1</sup> Zur Beisitzerin oder zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.<sup>2</sup> Die Beisitzerin oder der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
-(3)[1] Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
+(3)<sup>1</sup> Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
 
-(4)[1] Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG. 
+(4)<sup>1</sup> Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG. 
 
 ## **§ 13 Zulassungskommission** 
 
 (1) Die Prüfung der Qualifikations- und Zulassungsvoraussetzungen zum Masterstudium obliegt der Zulassungskommission, die für den internationalen Masterstudiengang European Master in Lexicography / Europäischer Master für Lexikographie bestellt wird. 
 
-(2)[1] Die Zulassungskommission besteht mindestens aus einer Professorin oder einem Professor als der Vorsitzenden oder dem Vorsitzenden, einer weiteren Hochschullehrerin oder einem weiteren Hochschullehrer und einer oder einem hauptberuflich im Dienst der Universität stehenden wissenschaftlichen Mitarbeiterin oder Mitarbeiter.[2] Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt die Mitglieder für eine Amtszeit von drei Jahren und regelt die Vertretung; Wiederbestellung ist möglich.[3] § 10 Abs. 4 und Abs. 5 Satz 1 gelten entsprechend. 
+(2)<sup>1</sup> Die Zulassungskommission besteht mindestens aus einer Professorin oder einem Professor als der Vorsitzenden oder dem Vorsitzenden, einer weiteren Hochschullehrerin oder einem weiteren Hochschullehrer und einer oder einem hauptberuflich im Dienst der Universität stehenden wissenschaftlichen Mitarbeiterin oder Mitarbeiter.<sup>2</sup> Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt die Mitglieder für eine Amtszeit von drei Jahren und regelt die Vertretung; Wiederbestellung ist möglich.<sup>3</sup> § 10 Abs. 4 und Abs. 5 Satz 1 gelten entsprechend. 
 
 ## **§ 14 Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen** 
 
 (1) Studienzeiten, Module, Studienleistungen und Prüfungsleistungen in denselben Fächern eines Masterstudiengangs an einer Universität oder gleichgestellten Hochschule in Deutschland werden ohne Gleichwertigkeitsprüfung angerechnet. 
 
-(2)[1] Studienzeiten, Module, Studienleistungen, Zwischen- und Diplomvorprüfungen und andere Prüfungsleistungen in anderen Studiengängen an dieser oder einer anderen in- oder ausländischen Universität oder gleichgestellten Hochschule werden angerechnet bzw. anerkannt, außer wenn sie nicht gleichwertig sind.[2] In begründeten Ausnahmefällen können andere Leistungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird.[3] Gleichwertigkeit ist festzustellen, wenn Studienzeit, Module, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforde- 
+(2)<sup>1</sup> Studienzeiten, Module, Studienleistungen, Zwischen- und Diplomvorprüfungen und andere Prüfungsleistungen in anderen Studiengängen an dieser oder einer anderen in- oder ausländischen Universität oder gleichgestellten Hochschule werden angerechnet bzw. anerkannt, außer wenn sie nicht gleichwertig sind.<sup>2</sup> In begründeten Ausnahmefällen können andere Leistungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird.<sup>3</sup> Gleichwertigkeit ist festzustellen, wenn Studienzeit, Module, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforde- 
 
 6 
 
-rungen denjenigen des Studiums nach dieser Prüfungsordnung im Wesentlichen entsprechen.[4] Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.[5] Für die Gleichwertigkeit von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.[6] Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.[7] Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
+rungen denjenigen des Studiums nach dieser Prüfungsordnung im Wesentlichen entsprechen.<sup>4</sup> Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.<sup>5</sup> Für die Gleichwertigkeit von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.<sup>6</sup> Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.<sup>7</sup> Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
 
-(3)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien werden entsprechend angerechnet beziehungsweise anerkannt, es sei denn, sie sind nicht gleichwertig; entsprechendes gilt für die erfolgreiche Teilnahme an Lehrangeboten der Virtuellen Hochschule Bayern. 
+(3)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien werden entsprechend angerechnet beziehungsweise anerkannt, es sei denn, sie sind nicht gleichwertig; entsprechendes gilt für die erfolgreiche Teilnahme an Lehrangeboten der Virtuellen Hochschule Bayern. 
 
-(4)[1] Studienzeiten an Fachhochschulen und dabei erbrachte Module, Studien- und Prüfungsleistungen werden angerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
+(4)<sup>1</sup> Studienzeiten an Fachhochschulen und dabei erbrachte Module, Studien- und Prüfungsleistungen werden angerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
 
-(5)[1] Auf Leistungsnachweise propädeutischer Lehrveranstaltungen und berufspraktischer Tätigkeiten werden einschlägige Berufs- oder Schulausbildungen angerechnet, soweit sie gleichwertig sind.[2] Studien- und Prüfungsleistungen einer mit Erfolg abgeschlossenen Ausbildung an Fachschulen und Fachakademien werden angerechnet, soweit sie von Inhalt und Niveau den Studien- und Prüfungsleistungen nach dieser Prüfungsordnung gleichwertig sind.[3] Der Anteil der anrechenbaren Kenntnisse und Fähigkeiten, die außerhalb des Hochschulbereichs erworben worden sind, darf maximal 50 v. H. des vorgeschriebenen Hochschulstudiums betragen. 
+(5)<sup>1</sup> Auf Leistungsnachweise propädeutischer Lehrveranstaltungen und berufspraktischer Tätigkeiten werden einschlägige Berufs- oder Schulausbildungen angerechnet, soweit sie gleichwertig sind.<sup>2</sup> Studien- und Prüfungsleistungen einer mit Erfolg abgeschlossenen Ausbildung an Fachschulen und Fachakademien werden angerechnet, soweit sie von Inhalt und Niveau den Studien- und Prüfungsleistungen nach dieser Prüfungsordnung gleichwertig sind.<sup>3</sup> Der Anteil der anrechenbaren Kenntnisse und Fähigkeiten, die außerhalb des Hochschulbereichs erworben worden sind, darf maximal 50 v. H. des vorgeschriebenen Hochschulstudiums betragen. 
 
-(6)[1] Module, Studien- und Prüfungsleistungen, die für einen anderen bereits bestandenen Studienabschluss als Leistungsnachweise vorgelegt worden sind, können für einen Studiengang nach dieser Prüfungsordnung nicht mehr angerechnet werden. 2Der Prüfungsausschuss kann hiervon Ausnahmen zulassen, insbesondere wenn es sich um propädeutische Veranstaltungen handelt oder wenn es sich um mit einem Lehramtsstudium artgleiche Prüfungsleistungen handelt. 
+(6)<sup>1</sup> Module, Studien- und Prüfungsleistungen, die für einen anderen bereits bestandenen Studienabschluss als Leistungsnachweise vorgelegt worden sind, können für einen Studiengang nach dieser Prüfungsordnung nicht mehr angerechnet werden. 2Der Prüfungsausschuss kann hiervon Ausnahmen zulassen, insbesondere wenn es sich um propädeutische Veranstaltungen handelt oder wenn es sich um mit einem Lehramtsstudium artgleiche Prüfungsleistungen handelt. 
 
-(7)[1] Die für die Anrechnung erforderlichen Unterlagen sind der oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Bei Vorliegen der Voraussetzungen der Absätze 1 bis 6 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.[3] Die Entscheidung trifft die oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich.[ 4] Die Anrechnung von Studienzeiten, Modulen, Studien- und Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen.[ 5] Werden Studien- und Prüfungsleistungen angerechnet, sind die Bewertungen - soweit die Notensysteme vergleichbar sind - zu übernehmen und ggf. in die Berechnung der Gesamtnote einzubeziehen. 
+(7)<sup>1</sup> Die für die Anrechnung erforderlichen Unterlagen sind der oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.<sup>2</sup> Bei Vorliegen der Voraussetzungen der Absätze 1 bis 6 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.<sup>3</sup> Die Entscheidung trifft die oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich.<sup>4</sup> Die Anrechnung von Studienzeiten, Modulen, Studien- und Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen.<sup>5</sup> Werden Studien- und Prüfungsleistungen angerechnet, sind die Bewertungen - soweit die Notensysteme vergleichbar sind - zu übernehmen und ggf. in die Berechnung der Gesamtnote einzubeziehen. 
 
 ## **§ 15 Täuschung, Ordnungsverstoß** 
 
-(1)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die Studierende oder der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (vgl. § 11 Abs. 3) ohne triftige Gründe zurücktritt; § 9 Abs. 3 bleibt unberührt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird 
+(1)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die Studierende oder der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (vgl. § 11 Abs. 3) ohne triftige Gründe zurücktritt; § 9 Abs. 3 bleibt unberührt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird 
 
 7 
 
-ein neuer Termin anberaumt.[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
+ein neuer Termin anberaumt.<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
 
-(2)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.[2] Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder dem oder der Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.[3] Die Sätze 1 und 2 gelten für Studienleistungen entsprechend. 
+(2)<sup>1</sup> Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder dem oder der Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.<sup>3</sup> Die Sätze 1 und 2 gelten für Studienleistungen entsprechend. 
 
 (3) Die Entscheidung über den Ausschluss von der weiteren Teilnahme an der Prüfung trifft der Prüfungsausschuss. 
 
@@ -248,21 +246,21 @@ Der Entzug des Mastergrades richtet sich nach Art. 69 BayHSchG.
 
 (1) In der schriftlichen Prüfung (Klausur, Haus- oder Seminararbeit) sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung finden können. 
 
-(2)[1] Schriftliche Prüfungen werden grundsätzlich von einer Prüfenden oder einem Prüfenden bewertet.[2] Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie von einer zweiten Prüfenden oder einem zweiten Prüfenden zu bewerten. 3Die Arbeit ist in der Regel innerhalb von sechs Wochen zu bewerten. 4Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 20 gilt entsprechend. 
+(2)<sup>1</sup> Schriftliche Prüfungen werden grundsätzlich von einer Prüfenden oder einem Prüfenden bewertet.<sup>2</sup> Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie von einer zweiten Prüfenden oder einem zweiten Prüfenden zu bewerten. 3Die Arbeit ist in der Regel innerhalb von sechs Wochen zu bewerten. 4Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 20 gilt entsprechend. 
 
 ## **§ 19 Mündliche Prüfung** 
 
-(1)[1] In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.[2] Mündliche Prüfungen finden, soweit nichts anderes vorgeschrieben ist, in Anwesenheit einer Beisitzerin oder eines Beisitzers statt, die oder der von der Prüfenden oder dem Prüfenden bestellt wird. 
+(1)<sup>1</sup> In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.<sup>2</sup> Mündliche Prüfungen finden, soweit nichts anderes vorgeschrieben ist, in Anwesenheit einer Beisitzerin oder eines Beisitzers statt, die oder der von der Prüfenden oder dem Prüfenden bestellt wird. 
 
-(2)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden 
+(2)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen ist: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin oder des Beisitzers und der Studierenden 
 
 8 
 
-oder des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet. 3Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. 4Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
+oder des Studierenden sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin oder dem Beisitzer unterzeichnet. 3Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. 4Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
 
 ## **§ 20 Bewertung der Prüfungen, Notenstufen, Gesamtnote** 
 
-(1)[1] Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
+(1)<sup>1</sup> Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt: 
 
 |**sehr gut**|= (1,0 oder 1,3)|eine hervorragende Leistung;|
 |---|---|---|
@@ -271,13 +269,13 @@ oder des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von de
 |**ausreichend**|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den<br>Anforderungen entspricht;|
 |**nicht ausreichend**<br>|= (4,7 oder 5,0)<br>|eine Leistung, die wegen erheblicher Mängel den<br>Anforderungen nicht mehr genügt.<br>|
 
-> 2Eine benotete Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.[4] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 6 Abs. 2 Satz 2) bestanden sind. 
+> 2Eine benotete Prüfung (§ 6 Abs. 2) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.<sup>3</sup> Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.<sup>4</sup> Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 6 Abs. 2 Satz 2) bestanden sind. 
 
 (2) Die Gesamtnote der Masterprüfung und der Module lautet: bei einem Durchschnitt bis 1,50 = sehr gut bei einem Durchschnitt über 1,50 bis 2,50 = gut bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend über 4,0 = nicht ausreichend 
 
-(3)[1] Die Modulnoten werden aus dem Durchschnitt der einzelnen Teilprüfungsnoten errechnet.[2] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[3] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.[4] Bei nicht benoteten Studienleistungen beschränkt sich die Bewertung des Moduls auf „bestanden“ oder „nicht bestanden“. 
+(3)<sup>1</sup> Die Modulnoten werden aus dem Durchschnitt der einzelnen Teilprüfungsnoten errechnet.<sup>2</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.<sup>3</sup> Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.<sup>4</sup> Bei nicht benoteten Studienleistungen beschränkt sich die Bewertung des Moduls auf „bestanden“ oder „nicht bestanden“. 
 
-(4)[1] In die Gesamtnote der Masterprüfung gehen die Modulnoten mit dem Gewicht der ECTS-Punkte ihres Moduls und die Note der Masterarbeit ein.[3] Absatz 3 Satz 2 gilt entsprechend. 
+(4)<sup>1</sup> In die Gesamtnote der Masterprüfung gehen die Modulnoten mit dem Gewicht der ECTS-Punkte ihres Moduls und die Note der Masterarbeit ein.<sup>3</sup> Absatz 3 Satz 2 gilt entsprechend. 
 
 (5) **Anlage II** kann vorsehen, dass einzelne Modulprüfungen oder Modulteilprüfungen mit unterschiedlichem Gewicht in die Notenberechnung für die Gesamtnote eingehen. 
 
@@ -291,19 +289,19 @@ oder des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von de
 
 (3) Vor einer Entscheidung ist der Studierenden oder dem Studierenden Gelegenheit zur Stellungnahme zu geben. 
 
-(4)[1] Die unrichtige Urkunde wird eingezogen; es wird gegebenenfalls eine neue Urkunde ausgestellt.[2] Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunde ausgeschlossen. 
+(4)<sup>1</sup> Die unrichtige Urkunde wird eingezogen; es wird gegebenenfalls eine neue Urkunde ausgestellt.<sup>2</sup> Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunde ausgeschlossen. 
 
 ## **§ 22 Einsicht in die Prüfungsakte** 
 
 (1) Nach Abschluss des einzelnen Prüfungsverfahrens erhält die Studierende oder der Studierende auf Antrag Einsicht in ihre oder seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
 
-(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem zuständigen Prüfungsamt zu stellen.[2] Wer ohne eigenes Verschulden verhindert war, diese Frist einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 Bayerisches Verwaltungsverfahrensgesetz in der jeweils geltenden Fassung entsprechend beantragen.[3] Das Prüfungsamt bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem zuständigen Prüfungsamt zu stellen.<sup>2</sup> Wer ohne eigenes Verschulden verhindert war, diese Frist einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 Bayerisches Verwaltungsverfahrensgesetz in der jeweils geltenden Fassung entsprechend beantragen.<sup>3</sup> Das Prüfungsamt bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 23 Zeugnis, Diploma Supplement, Transcript of Records, Urkunde** 
 
-(1)[1] Wer einen Studiengang erfolgreich abgeschlossen hat, erhält möglichst innerhalb von vier Wochen ein Zeugnis, ein Diploma Supplement, ein Transcript of Records und eine Urkunde über die Verleihung des akademischen Grades.[2] Darüber hinaus erhalten die Studierenden vom Prüfungsausschuss ein zusätzliches Dokument, das die beteiligten Partneruniversitäten ausweist. 
+(1)<sup>1</sup> Wer einen Studiengang erfolgreich abgeschlossen hat, erhält möglichst innerhalb von vier Wochen ein Zeugnis, ein Diploma Supplement, ein Transcript of Records und eine Urkunde über die Verleihung des akademischen Grades.<sup>2</sup> Darüber hinaus erhalten die Studierenden vom Prüfungsausschuss ein zusätzliches Dokument, das die beteiligten Partneruniversitäten ausweist. 
 
-(2)[1] Das Zeugnis enthält die Module, Modul- und Fachnoten, Titel und Note der Abschlussarbeit, sofern vorgesehen die Note der abschließenden mündlichen Prüfung und die Gesamtnote der Bachelor- oder Masterprüfung.[2] Das Transcript of Records führt alle besuchten Module auf; das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden.[3] Das Diploma Supplement enthält weitere Angaben zur Qualifikation der Absolventin oder des Absolventen.[4] Das Transcript of Records und das Diploma Supplement werden in englischer und deutscher Sprache ausgestellt.[5] Der Prüfungsausschuss legt die Gestaltung des Diploma Supplements fest.[6] Informationen, die dem Prüfungsamt noch nicht vorliegen, müssen dort spätestens bis zum Zeitpunkt des Abschlusses des Studiengangs einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie nicht mehr berücksichtigt werden. 
+(2)<sup>1</sup> Das Zeugnis enthält die Module, Modul- und Fachnoten, Titel und Note der Abschlussarbeit, sofern vorgesehen die Note der abschließenden mündlichen Prüfung und die Gesamtnote der Bachelor- oder Masterprüfung.<sup>2</sup> Das Transcript of Records führt alle besuchten Module auf; das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden.<sup>3</sup> Das Diploma Supplement enthält weitere Angaben zur Qualifikation der Absolventin oder des Absolventen.<sup>4</sup> Das Transcript of Records und das Diploma Supplement werden in englischer und deutscher Sprache ausgestellt.<sup>5</sup> Der Prüfungsausschuss legt die Gestaltung des Diploma Supplements fest.<sup>6</sup> Informationen, die dem Prüfungsamt noch nicht vorliegen, müssen dort spätestens bis zum Zeitpunkt des Abschlusses des Studiengangs einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie nicht mehr berücksichtigt werden. 
 
 ## **§ 24 Bescheinigung über endgültig nicht bestandene Prüfung** 
 
@@ -311,13 +309,13 @@ Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält au
 
 ## **§ 25 Nachteilsausgleich** 
 
-(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die oder der Vorsitzende des Prüfungsausschusses gestattet, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen. 
+(1)<sup>1</sup> Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die oder der Vorsitzende des Prüfungsausschusses gestattet, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen. 
 
 10 
 
 (2) Entsprechende, ihrer Situation angemessene Maßnahmen sind hinsichtlich Schwangerer zu treffen, wenn die betroffenen Studentinnen bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
-(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der oder dem Vorsitzenden des Prüfungsausschusses getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
+(3)<sup>1</sup> Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der oder dem Vorsitzenden des Prüfungsausschusses getroffen.<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
 
 ## **§ 26 Studienberatung** 
 
@@ -329,7 +327,7 @@ Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält au
 
 - im Falle der beabsichtigten Aufgabe des Studiums. 
 
-(2)[1] Die Studienfachberatung wird in der Verantwortung der Institute der am Studium beteiligten Fakultäten durchgeführt.[2] Die Studienfachberatung soll insbesondere in folgenden Fällen in Anspruch genommen werden: 
+(2)<sup>1</sup> Die Studienfachberatung wird in der Verantwortung der Institute der am Studium beteiligten Fakultäten durchgeführt.<sup>2</sup> Die Studienfachberatung soll insbesondere in folgenden Fällen in Anspruch genommen werden: 
 
 - bei Aufnahme des Studiums, 
 
@@ -345,7 +343,7 @@ Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält au
 
 ## **§ 27 Qualifikation zum Masterstudium** 
 
-(1)[1] Die Qualifikation zum Masterstudium wird nachgewiesen durch: 
+(1)<sup>1</sup> Die Qualifikation zum Masterstudium wird nachgewiesen durch: 
 
 1. einen ersten berufsqualifizierenden Abschluss einer Hochschule (Staatsexamen, Diplom, Magister bzw. Bachelor) bzw. einen sonstigen gleichwertigen Abschluss in folgenden Fächern: 
 
@@ -377,19 +375,19 @@ Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält au
 
    - n) Deutsch als Fremdsprache. 
 
-2. das Bestehen des Qualifikationsfeststellungsverfahrens gemäß der **Anlage I** . 2Die Zulassungskommission kann in begründeten Ausnahmenfällen auch Bewerberinnen und Bewerber mit Abschlüssen anderer als der in Nr. 1 a) – n) genannten Fächer zulassen.[3] Ist die Gleichwertigkeit eines nach Nr. 1 sonstigen 
+2. das Bestehen des Qualifikationsfeststellungsverfahrens gemäß der **Anlage I** . 2Die Zulassungskommission kann in begründeten Ausnahmenfällen auch Bewerberinnen und Bewerber mit Abschlüssen anderer als der in Nr. 1 a) – n) genannten Fächer zulassen.<sup>3</sup> Ist die Gleichwertigkeit eines nach Nr. 1 sonstigen 
 
 11 
 
 Abschlusses nicht voll gegeben, kann die Zulassungskommission die Zulassung unter Auflagen im Umfang von bis zu maximal 20 ECTS-Punkte aussprechen, die spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. Für die Feststellung der Gleichwertigkeit von in- und ausländischen Abschlüssen gelten die Art. 61 Abs. 4 Satz 2 und Art. 63 BayHSchG. 
 
-(2)[1] Bewerberinnen oder Bewerber nach Abs. 1 sollen zu den 50 v. H. Besten ihres Jahrganges zählen oder den entsprechenden Studiengang mit der Gesamtnote wenigstens 2,50 (= gut) abgeschlossen haben. 
+(2)<sup>1</sup> Bewerberinnen oder Bewerber nach Abs. 1 sollen zu den 50 v. H. Besten ihres Jahrganges zählen oder den entsprechenden Studiengang mit der Gesamtnote wenigstens 2,50 (= gut) abgeschlossen haben. 
 
-(3) 1Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 135 ECTS-Punkte erreicht haben.[2] Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zulassungskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen. 2Die Zulassung zum Masterstudium erfolgt unter Vorbehalt. 
+(3) 1Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 135 ECTS-Punkte erreicht haben.<sup>2</sup> Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zulassungskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen. 2Die Zulassung zum Masterstudium erfolgt unter Vorbehalt. 
 
 ## **§ 28 Zulassung zur Masterprüfung** 
 
-(1)[1] Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Prüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.[2] Zu versagen ist die Zulassung, wenn 
+(1)<sup>1</sup> Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Prüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.<sup>2</sup> Zu versagen ist die Zulassung, wenn 
 
 1. die in **Anlage II** vorgeschriebenen Nachweise nicht vorliegen 
 
@@ -399,45 +397,45 @@ Abschlusses nicht voll gegeben, kann die Zulassungskommission die Zulassung unte
 
 ## **§ 29 Masterprüfung** 
 
-(1)[1] Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen einschließlich des Moduls Masterarbeit.[2] Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Masterarbeit bestanden sind. 
+(1)<sup>1</sup> Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen einschließlich des Moduls Masterarbeit.<sup>2</sup> Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Masterarbeit bestanden sind. 
 
-(2)[1] Die Masterprüfung umfasst die Modulprüfungen, die in **Anlage II** näher beschrieben sind.[2] Module, die bereits Gegenstand einer Bachelorprüfung waren, können in der Regel nicht mehr in die Masterprüfung eingebracht werden; der Prüfungsausschuss kann Ausnahmen zulassen. 
+(2)<sup>1</sup> Die Masterprüfung umfasst die Modulprüfungen, die in **Anlage II** näher beschrieben sind.<sup>2</sup> Module, die bereits Gegenstand einer Bachelorprüfung waren, können in der Regel nicht mehr in die Masterprüfung eingebracht werden; der Prüfungsausschuss kann Ausnahmen zulassen. 
 
 ## **§ 30 Masterarbeit** 
 
-(1)[1] Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.[2] Sie soll zeigen, dass die Studierende oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und nach wissenschaftlichen Methoden zu bearbeiten.[3] Die Masterarbeit darf nicht mit einer früher vorgelegten Magister-, Diplom-, Zulassungsarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen. 4Sie soll ca. 60 Seiten nicht überschreiten und ist mit 30 ECTS-Punkten bewertet. 
+(1)<sup>1</sup> Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.<sup>2</sup> Sie soll zeigen, dass die Studierende oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und nach wissenschaftlichen Methoden zu bearbeiten.<sup>3</sup> Die Masterarbeit darf nicht mit einer früher vorgelegten Magister-, Diplom-, Zulassungsarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen. 4Sie soll ca. 60 Seiten nicht überschreiten und ist mit 30 ECTS-Punkten bewertet. 
 
-(2)[1] Die Studierenden schlagen eigenständig spätestens am Semesteranfang des letzten Semesters der Regelstudienzeit ein Thema für die Masterarbeit vor und stimmen dieses mit dem Betreuer der Masterarbeit ab.[2] Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und dem Prüfungsamt mit- 
+(2)<sup>1</sup> Die Studierenden schlagen eigenständig spätestens am Semesteranfang des letzten Semesters der Regelstudienzeit ein Thema für die Masterarbeit vor und stimmen dieses mit dem Betreuer der Masterarbeit ab.<sup>2</sup> Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und dem Prüfungsamt mit- 
 
 12 
 
-zuteilen.[ 3] Gelingt es der Studierenden oder dem Studierenden trotz ernsthafter Bemühungen nicht, ein Thema vorzuschlagen, weist die Vorsitzende oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit einer Fachvertreterin oder einem Fachvertreter der Studierenden oder dem Studierenden auf Antrag ein Thema und eine Betreuerin oder einen Betreuer zu. 
+zuteilen.<sup>3</sup> Gelingt es der Studierenden oder dem Studierenden trotz ernsthafter Bemühungen nicht, ein Thema vorzuschlagen, weist die Vorsitzende oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit einer Fachvertreterin oder einem Fachvertreter der Studierenden oder dem Studierenden auf Antrag ein Thema und eine Betreuerin oder einen Betreuer zu. 
 
-(3)[1] Die an der Philosophischen Fakultät und Fachbereich Theologie hauptberuflich im Masterstudiengang Lexikographie tätigen Hochschullehrerinnen oder Hochschullehrer sind zur Vergabe einer Masterarbeit berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln.[3] Der Prüfungsausschuss kann auch die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität gestatten, wenn dort die Betreuung gesichert ist. 
+(3)<sup>1</sup> Die an der Philosophischen Fakultät und Fachbereich Theologie hauptberuflich im Masterstudiengang Lexikographie tätigen Hochschullehrerinnen oder Hochschullehrer sind zur Vergabe einer Masterarbeit berechtigt.<sup>2</sup> Der Prüfungsausschuss kann Ausnahmen gestatten und regeln.<sup>3</sup> Der Prüfungsausschuss kann auch die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität gestatten, wenn dort die Betreuung gesichert ist. 
 
-(4)[1] Die Zeit von der Themenstellung bis zur Ablieferung der Masterarbeit darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass es innerhalb dieser Frist bearbeitet werden kann.[2] Auf begründeten Antrag kann der Prüfungsausschuss die Bearbeitungsfrist ausnahmsweise um höchstens drei Monate verlängern. 3Weist die Studierende oder der Studierende durch ärztliches Zeugnis nach, dass sie oder er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
+(4)<sup>1</sup> Die Zeit von der Themenstellung bis zur Ablieferung der Masterarbeit darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass es innerhalb dieser Frist bearbeitet werden kann.<sup>2</sup> Auf begründeten Antrag kann der Prüfungsausschuss die Bearbeitungsfrist ausnahmsweise um höchstens drei Monate verlängern. 3Weist die Studierende oder der Studierende durch ärztliches Zeugnis nach, dass sie oder er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
 
-(5)[1] Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der Vorsitzenden oder des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden.[2] Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+(5)<sup>1</sup> Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der Vorsitzenden oder des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden.<sup>2</sup> Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
-(6)[1] Die Masterarbeit ist in der Sprache der Heimatuniversität, in deutscher Sprache oder in englischer Sprache abzufassen.[2] Die Masterarbeit enthält am Ende eine 2 – 4-seitige Zusammenfassung der Ergebnisse in der Landessprache der Universität bzw. in deutscher oder englischer Sprache sowie einen kurz gefassten Lebenslauf der Verfasserin oder des Verfassers.[3] Die Titelseite ist nach dem vom Prüfungsausschuss beschlossenen Muster zu gestalten.[4] Die Masterarbeit muss mit einer Erklärung der Studierenden oder des Studierenden versehen sein, dass die Arbeit selbst verfasst und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.[5] Die Masterarbeit ist in drei Exemplaren bei der Betreuerin oder dem Betreuer abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.[6] Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+(6)<sup>1</sup> Die Masterarbeit ist in der Sprache der Heimatuniversität, in deutscher Sprache oder in englischer Sprache abzufassen.<sup>2</sup> Die Masterarbeit enthält am Ende eine 2 – 4-seitige Zusammenfassung der Ergebnisse in der Landessprache der Universität bzw. in deutscher oder englischer Sprache sowie einen kurz gefassten Lebenslauf der Verfasserin oder des Verfassers.<sup>3</sup> Die Titelseite ist nach dem vom Prüfungsausschuss beschlossenen Muster zu gestalten.<sup>4</sup> Die Masterarbeit muss mit einer Erklärung der Studierenden oder des Studierenden versehen sein, dass die Arbeit selbst verfasst und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.<sup>5</sup> Die Masterarbeit ist in drei Exemplaren bei der Betreuerin oder dem Betreuer abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.<sup>6</sup> Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
-(7)[1] Die Masterarbeit wird in der Regel von der Betreuerin oder dem Betreuer und von einer Gutachterin / einem Gutachter einer Partneruniversität, der vom Prüfungsausschuss nach dieser Prüfungsordnung zur bzw. zum Prüfenden bestellt worden ist, beurteilt.[2] Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 18 gilt entsprechend.[3] Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Masterarbeit innerhalb eines Monats begutachtet ist. 
+(7)<sup>1</sup> Die Masterarbeit wird in der Regel von der Betreuerin oder dem Betreuer und von einer Gutachterin / einem Gutachter einer Partneruniversität, der vom Prüfungsausschuss nach dieser Prüfungsordnung zur bzw. zum Prüfenden bestellt worden ist, beurteilt.<sup>2</sup> Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 18 gilt entsprechend.<sup>3</sup> Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Masterarbeit innerhalb eines Monats begutachtet ist. 
 
-(8)[1] Die Masterarbeit ist angenommen, wenn sie mit wenigstens „ausreichend“ beurteilt ist.[2] Sie ist abgelehnt, wenn sie mit „nicht ausreichend“ bewertet ist. 
+(8)<sup>1</sup> Die Masterarbeit ist angenommen, wenn sie mit wenigstens „ausreichend“ beurteilt ist.<sup>2</sup> Sie ist abgelehnt, wenn sie mit „nicht ausreichend“ bewertet ist. 
 
-(9)[1] Ist die Masterarbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Die Studierende oder der Studierende sorgt dafür, dass sie oder er innerhalb des nach der Bekanntgabe der Ablehnung folgenden Semesters ein neues Thema für die Wiederholung der Masterarbeit erhält; andernfalls gilt die Masterarbeit als endgültig nicht bestan- 
+(9)<sup>1</sup> Ist die Masterarbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Die Studierende oder der Studierende sorgt dafür, dass sie oder er innerhalb des nach der Bekanntgabe der Ablehnung folgenden Semesters ein neues Thema für die Wiederholung der Masterarbeit erhält; andernfalls gilt die Masterarbeit als endgültig nicht bestan- 
 
 13 
 
-den; Abs. 2 Satz 3 gilt entsprechend.[3] Für die Wiederholung der Masterarbeit gelten die Abs. 1 bis 8 entsprechend; eine Rückgabe des Themas ist ausgeschlossen.[4] Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses kann, sofern dies nach der Bewertung der Arbeit nicht ausgeschlossen ist, mit dem Einverständnis der Studierenden oder des Studierenden gestatten, eine überarbeitete Fassung der Masterarbeit innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung vorzulegen; im Falle der Umarbeitung gelten die Abs. 1 bis 8 entsprechend. 
+den; Abs. 2 Satz 3 gilt entsprechend.<sup>3</sup> Für die Wiederholung der Masterarbeit gelten die Abs. 1 bis 8 entsprechend; eine Rückgabe des Themas ist ausgeschlossen.<sup>4</sup> Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses kann, sofern dies nach der Bewertung der Arbeit nicht ausgeschlossen ist, mit dem Einverständnis der Studierenden oder des Studierenden gestatten, eine überarbeitete Fassung der Masterarbeit innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung vorzulegen; im Falle der Umarbeitung gelten die Abs. 1 bis 8 entsprechend. 
 
 ## **§ 31 Wiederholung von Prüfungen** 
 
-(1)[1] Nicht bestandene Modulprüfungen, mit Ausnahme der Masterarbeit, können bis zu zwei Mal wiederholt werden; die Wiederholung ist auf die nicht bestandenen Prüfungen beschränkt.[2] Die Wiederholung bestandener Prüfungen ist ausgeschlossen. 3Die Wiederholungsprüfungen müssen zum nächstmöglichen Termin, spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses, abgelegt werden.[4] Sie sind so durchzuführen, dass bei erfolgreicher Teilnahme das fortlaufende Studium gewährleistet ist.[5] Soweit eine Wiederholung in der Frist des Satz 3 nicht angeboten wird, wird ein anderes Modul angegeben, in dem die Wiederholung ersatzweise stattfindet. 
+(1)<sup>1</sup> Nicht bestandene Modulprüfungen, mit Ausnahme der Masterarbeit, können bis zu zwei Mal wiederholt werden; die Wiederholung ist auf die nicht bestandenen Prüfungen beschränkt.<sup>2</sup> Die Wiederholung bestandener Prüfungen ist ausgeschlossen. 3Die Wiederholungsprüfungen müssen zum nächstmöglichen Termin, spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses, abgelegt werden.<sup>4</sup> Sie sind so durchzuführen, dass bei erfolgreicher Teilnahme das fortlaufende Studium gewährleistet ist.<sup>5</sup> Soweit eine Wiederholung in der Frist des Satz 3 nicht angeboten wird, wird ein anderes Modul angegeben, in dem die Wiederholung ersatzweise stattfindet. 
 
-(2)[1] Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann der Prüfungsausschuss im Einverständnis mit der Prüferin oder dem Prüfer eine Ausnahme vorsehen.[2] Die Studierenden gelten bei Nichtbestehen einer Prüfung zum nächsten Wiederholungsversuch als angemeldet.[3] Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als endgültig nicht bestanden, sofern der Prüfungsausschuss der Studierenden oder dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt; ein Rücktritt nach §11 Abs. 3 ist nicht zulässig.[4] Die Regeln über Mutterschutz und Erziehungsurlaub (§ 9 Abs. 2) finden entsprechende Anwendung. 
+(2)<sup>1</sup> Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann der Prüfungsausschuss im Einverständnis mit der Prüferin oder dem Prüfer eine Ausnahme vorsehen.<sup>2</sup> Die Studierenden gelten bei Nichtbestehen einer Prüfung zum nächsten Wiederholungsversuch als angemeldet.<sup>3</sup> Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als endgültig nicht bestanden, sofern der Prüfungsausschuss der Studierenden oder dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt; ein Rücktritt nach §11 Abs. 3 ist nicht zulässig.<sup>4</sup> Die Regeln über Mutterschutz und Erziehungsurlaub (§ 9 Abs. 2) finden entsprechende Anwendung. 
 
-(3)[1] Die freiwillige Wiederholung eines bestandenen Leistungsnachweises desselben Moduls ist nicht zulässig.[2] Im Rahmen der Prüfungsfristen nach § 9 können jedoch zusätzlich zu erfolgreich absolvierten Modulen oder statt nicht bestandener Module andere, alternativ angebotene Module besucht und abgeschlossen werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden angerechnet. 3Besteht die Studierende oder der Studierende zusätzliche Module, legt sie oder er selbst fest, welche der Leistungen in die Notenberechnung eingebracht werden soll. 4Die getroffene Wahl ist dem Prüfungsamt bis spätestens vier Wochen vor Erteilung des Abschlusszeugnisses zu erklären.[5] Die Auswahl wird damit bindend.[6] Wird keine Wahl getroffen, rechnet das Prüfungsamt von den einem Semester zugeordneten erbrachten Leistungen die bessere an.[7] Die nicht berücksichtigten Leistungen gehen nicht in die Note ein; sie werden aber im Transcript of Records ausgewiesen. 
+(3)<sup>1</sup> Die freiwillige Wiederholung eines bestandenen Leistungsnachweises desselben Moduls ist nicht zulässig.<sup>2</sup> Im Rahmen der Prüfungsfristen nach § 9 können jedoch zusätzlich zu erfolgreich absolvierten Modulen oder statt nicht bestandener Module andere, alternativ angebotene Module besucht und abgeschlossen werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden angerechnet. 3Besteht die Studierende oder der Studierende zusätzliche Module, legt sie oder er selbst fest, welche der Leistungen in die Notenberechnung eingebracht werden soll. 4Die getroffene Wahl ist dem Prüfungsamt bis spätestens vier Wochen vor Erteilung des Abschlusszeugnisses zu erklären.<sup>5</sup> Die Auswahl wird damit bindend.<sup>6</sup> Wird keine Wahl getroffen, rechnet das Prüfungsamt von den einem Semester zugeordneten erbrachten Leistungen die bessere an.<sup>7</sup> Die nicht berücksichtigten Leistungen gehen nicht in die Note ein; sie werden aber im Transcript of Records ausgewiesen. 
 
 ## **§ 32 Inkrafttreten** 
 
@@ -457,9 +455,7 @@ Qualifikationsfeststellung für den internationalen Masterstudiengang European M
 
 - 1.2 ihrer Motivation zum Masterstudium und 
 
-- 1.3 soweit geboten, ihrer fachlichen und methodischen Kenntnisse 
-
-   - zu beurteilen.[2] Ziel ist dabei festzustellen, ob die Bewerber den erhöhten Anforderungen des stärker forschungsorientierten Masterstudiums genügen und in der Lage sein werden, selbständig wissenschaftlich zu arbeiten. 
+- 1.3 soweit geboten, ihrer fachlichen und methodischen Kenntnisse zu beurteilen.<sup>2</sup> Ziel ist dabei festzustellen, ob die Bewerber den erhöhten Anforderungen des stärker forschungsorientierten Masterstudiums genügen und in der Lage sein werden, selbständig wissenschaftlich zu arbeiten. 
 
 **2. Verfahren zur Feststellung der Qualifikation** 
 
@@ -483,7 +479,7 @@ Qualifikationsfeststellung für den internationalen Masterstudiengang European M
 
 - 3.2 Die Zulassungskommission kann die Koordination und Durchführung des Verfahrens einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist. 
 
-## **4. Zulassung zum Feststellungsverfahren** 
+**4. Zulassung zum Feststellungsverfahren** 
 
 - 4.1 Die Zulassung zum Feststellungsverfahren setzt voraus, dass die in Nr. 2.3 genannten Unterlagen fristgerecht und vollständig vorliegen. 
 
@@ -497,27 +493,27 @@ Qualifikationsfeststellung für den internationalen Masterstudiengang European M
 
 15 
 
-   - 5.1.1 1Die Zulassungskommission beurteilt anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin/ein Bewerber die Eignung zum Masterstudium gemäß Nr. 1 besitzt.[2] Dazu werden die schriftlichen Unterlagen zunächst von der Zulassungskommission gesichtet und in ihrer Gesamtheit selbständig nach folgenden Kriterien und mit nachstehenden maximal zu vergebenden Punkten bewertet: 
+   - 5.1.1 1Die Zulassungskommission beurteilt anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin/ein Bewerber die Eignung zum Masterstudium gemäß Nr. 1 besitzt.<sup>2</sup> Dazu werden die schriftlichen Unterlagen zunächst von der Zulassungskommission gesichtet und in ihrer Gesamtheit selbständig nach folgenden Kriterien und mit nachstehenden maximal zu vergebenden Punkten bewertet: 
 
       - 5.1.1.1 fachliche Qualifikation, Qualität und Zielgerichtetheit im bisherigen Werdegang (max. 50 Punkte) 
 
       - 5.1.1.2 Besondere Motivation zum Studium (max. 50 Punkte). 
 
-   - 5.1.2[1] Die Zulassungskommission kann insgesamt 100 Punkte vergeben. 2Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
+   - 5.1.2<sup>1</sup> Die Zulassungskommission kann insgesamt 100 Punkte vergeben. 2Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
 
-   - 5.1.3[1] Bewerberinnen/Bewerber, die 80 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen/Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
+   - 5.1.3<sup>1</sup> Bewerberinnen/Bewerber, die 80 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen/Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
 - 5.2 Zweite Stufe der Durchführung des Qualifikationsfeststellungsverfahrens 
 
-   - 5.2.1[1] Die übrigen Bewerberinnen/Bewerber, die im Bereich von 79 – 50 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).[2] Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.[3] Der festgesetzte Termin des Gesprächs ist von der Bewerberin/dem Bewerber einzuhalten.[4] Ist die Bewerberin/der Bewerber aus von ihr/ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag in Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 
+   - 5.2.1<sup>1</sup> Die übrigen Bewerberinnen/Bewerber, die im Bereich von 79 – 50 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).<sup>2</sup> Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.<sup>3</sup> Der festgesetzte Termin des Gesprächs ist von der Bewerberin/dem Bewerber einzuhalten.<sup>4</sup> Ist die Bewerberin/der Bewerber aus von ihr/ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag in Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 
 
-   - 5.2.2[1] Das Qualifikationsfeststellungsgespräch ist für jede(n) Bewerberin/Bewerber einzeln durchzuführen.[2] Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 30 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Die Qualifikationsfeststellungsprüfung erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers für den jeweiligen Masterstudiengang und die in Nr. 5.1.1 aufgeführten Qualifikationskriterien. 
+   - 5.2.2<sup>1</sup> Das Qualifikationsfeststellungsgespräch ist für jede(n) Bewerberin/Bewerber einzeln durchzuführen.<sup>2</sup> Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 30 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Die Qualifikationsfeststellungsprüfung erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers für den jeweiligen Masterstudiengang und die in Nr. 5.1.1 aufgeführten Qualifikationskriterien. 
 
-   - 5.2.3[1] Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zulassungskommission durchgeführt.[2] Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 30 Punkte.[3] Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 2, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+   - 5.2.3<sup>1</sup> Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zulassungskommission durchgeführt.<sup>2</sup> Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 30 Punkte.<sup>3</sup> Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 2, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
-   - 5.2.4[1] Die Gesamtpunktezahl der Bewerberin/des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffer 5.1.2 und 5.2.1. 2Bewerberinnen/Bewerber, die 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft.[4] Die Zulassung kann mit Auflagen verbunden werden. 
+   - 5.2.4<sup>1</sup> Die Gesamtpunktezahl der Bewerberin/des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffer 5.1.2 und 5.2.1. 2Bewerberinnen/Bewerber, die 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft.<sup>4</sup> Die Zulassung kann mit Auflagen verbunden werden. 
 
-   - 5.2.5[1] Das Ergebnis des Feststellungsverfahrens wird der Bewerberin/dem Bewerber schriftlich mitgeteilt.[2] Ein Ablehnungsbescheid ist mit Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+   - 5.2.5<sup>1</sup> Das Ergebnis des Feststellungsverfahrens wird der Bewerberin/dem Bewerber schriftlich mitgeteilt.<sup>2</sup> Ein Ablehnungsbescheid ist mit Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
 
 16 
 
@@ -527,7 +523,7 @@ Qualifikationsfeststellung für den internationalen Masterstudiengang European M
 
 ## **6. Niederschrift** 
 
-1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zulassungskommissionsmitglieder, die Namen der Bewerberinnen/Bewerber und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Niederschrift müssen die Themen des Gesprächs mit den Bewerberinnen/Bewerbern und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
+1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zulassungskommissionsmitglieder, die Namen der Bewerberinnen/Bewerber und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.<sup>2</sup> Aus der Niederschrift müssen die Themen des Gesprächs mit den Bewerberinnen/Bewerbern und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
 
 ## **7. Wiederholung** 
 
@@ -535,31 +531,29 @@ Bewerberinnen/Bewerber, die den Nachweis der Eignung für das Masterstudium nich
 
 17 
 
-|**Anlage II**|||**Studienplan**|**Studienplan**|**Studienplan**|**Studienplan**||
-|---|---|---|---|---|---|---|---|
-|Spalte 1|Spalte 2|Spalte 3|Spalte 4||||Spalte 5|
-|Modulbezeichnung|Bezeichnung u. Art. der Lehrveranstaltung|ECTS|1.Sem|2.Sem|3.Sem|4.Sem|Art und Umfang der Prüfung/Zulassungs-voraussetzung|
-||||ECTS|ECTS|ECTS|ECTS||
-|**Basismodul B1**|Kurs: Lexikographische Grundlagen|**10**|10||||Studienleistung|
-|**Basismodul B2**<br>**(Heimmodul)**|Seminar und/oder Kurs (4 SWS) zur<br>Lexikographie (Anglistik oder Germanistik)|**10**|10||||Klausur (60-90 Min.) oder Referat und/oder Hausarbeit|
-|**Basismodul B3**<br>**(Softskill, Import aus**<br>**dem Sprachenzentrum**<br>**oder der Informatik)**|B3a: Sprachkurs Englisch||||||nach den Anforderungen in den angebotenen Kursen|
-||B3b: Sprachkurs Deutsch|**5-10**|5–10|||||
-||B3c: Informatik für Nebenfach|||||||
-|**Aufbaumodul A1**|Hauptseminar: Metalexikographie|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A2**|Hauptseminar: Geschichte der Lexikographie|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A3**|Hauptseminar: Lernerlexikographie|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A4**|Hauptseminar: Das Wörterbuch und seine<br>Benutzung|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A5**|Hauptseminar: Fachwörterbücher, Lexika und<br>Enzyklopädien|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A6**|Hauptseminar: Computergrundlagen für die<br>Lexikographie|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A7**|Hauptseminar: Wörterbücher bei der<br>Übersetzung|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A8**|Hauptseminar: Lexikographie und Lexikologie|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Aufbaumodul A9**|Hauptseminar: Wörterbuchplanung und<br>Wörterbucherstellung|**5**||5|||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
-|**Praxismodul P1**|Praktikum|**10**|||10||unbenotete Studienleistung: Praktikumsbescheinigung und ausführlicher<br>Praktikumsbericht|
-|**Vertiefungsmodul V1**|Kolloquium mit Vorträgen: Ausgewählte<br>Probleme des Wörterbuchs, der Lexikographie<br>und der Wörterbuchforschung|**10**|||10||Verfassen einer Rezension (1/3) plus 30-min. mdl. Prüfung (2/3) zu den<br>Vortragsinhalten|
-|**Vertiefungsmodul V2**<br>**(Heimmodul)**|Hauptseminare (4 SWS) zur Lexikographie<br>(AnglistikoderGermanistik)|**10**|||10||Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längereHausarbeit|
-|**Masterarbeit**||**30**||||30||
-||||25-|-35|30|30||
-||||Summe ECTS:||||120|
+|**Anlage II**|||**Studienplan**||
+|---|---|---|---|---|
+|Spalte 1|Spalte 2|Spalte 3|Spalte 4<br> <br> <br> <br>|Spalte 5|
+|Modulbezeichnung|Bezeichnung u. Art. der Lehrveranstaltung|ECTS|1.Sem<br>2.Sem<br>3.Sem<br>4.Sem<br>ECTS<br>ECTS<br>ECTS<br>ECTS|Art und Umfang der Prüfung/Zulassungs-voraussetzung|
+|**Basismodul B1**|Kurs: Lexikographische Grundlagen|**10**|10|Studienleistung|
+|**Basismodul B2**<br>**(Heimmodul)**|Seminar und/oder Kurs (4 SWS) zur<br>Lexikographie (Anglistik oder Germanistik)|**10**|10|Klausur (60-90 Min.) oder Referat und/oder Hausarbeit|
+|**Basismodul B3**<br>|B3a: Sprachkurs Englisch||||
+|**(Softskill, Import aus**<br>**dem Sprachenzentrum**<br>**oder der Informatik)**|B3b: Sprachkurs Deutsch<br>B3c: Informatik für Nebenfach|**5-10**|5–10|nach den Anforderungen in den angebotenen Kursen|
+|**Aufbaumodul A1**|Hauptseminar: Metalexikographie|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A2**|Hauptseminar: Geschichte der Lexikographie|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A3**|Hauptseminar: Lernerlexikographie|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A4**|Hauptseminar: Das Wörterbuch und seine<br>Benutzung|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A5**|Hauptseminar: Fachwörterbücher, Lexika und<br>Enzyklopädien|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A6**|Hauptseminar: Computergrundlagen für die<br>Lexikographie|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A7**|Hauptseminar: Wörterbücher bei der<br>Übersetzung|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A8**|Hauptseminar: Lexikographie und Lexikologie|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Aufbaumodul A9**|Hauptseminar: Wörterbuchplanung und<br>Wörterbucherstellung|**5**|5|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längere Hausarbeit|
+|**Praxismodul P1**|Praktikum|**10**|10|unbenotete Studienleistung: Praktikumsbescheinigung und ausführlicher<br>Praktikumsbericht|
+|**Vertiefungsmodul V1**|Kolloquium mit Vorträgen: Ausgewählte<br>Probleme des Wörterbuchs, der Lexikographie<br>und der Wörterbuchforschung|**10**|10|Verfassen einer Rezension (1/3) plus 30-min. mdl. Prüfung (2/3) zu den<br>Vortragsinhalten|
+|**Vertiefungsmodul V2**<br>**(Heimmodul)**|<br>Hauptseminare (4 SWS) zur Lexikographie<br>(AnglistikoderGermanistik)|**10**|10|Klausur (60-90 Min.) oder Präsentation (Referat) plus kurze Hausarbeit<br>oder längereHausarbeit|
+|**Masterarbeit**||**30**|30||
+||||25-<br>-35<br>30<br>30||
+||||<br> <br> <br>Summe ECTS:|120|
 
 18 
 

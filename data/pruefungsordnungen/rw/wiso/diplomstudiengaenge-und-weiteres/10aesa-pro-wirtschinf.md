@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-PrO-Wirtschinf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:34+00:00
-page_count_chars: 10970
+scraped_at: 2026-07-01T10:51:59+00:00
+page_count_chars: 10952
 ---
 
 # 24. Oktober 2002
@@ -12,13 +12,13 @@ page_count_chars: 10970
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-PrO-Wirtschinf.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Zehnte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zehnte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 24. Oktober 2002 
+# Vom 24. Oktober 2002 
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§1** 
+# **§1** 
 
 Die Diplomprüfungsordnung für Studenten der Wirtschaftsinformatik an der Wirtschaftsund Sozialwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg vom 5. September 1991 (KWMBl II S. 814), zuletzt geändert durch Satzung vom 12. April 2002 (KWMBl II S. ..........), wird wie folgt geändert: 
 
@@ -28,9 +28,9 @@ a) Absatz 1 wird wie folgt geändert:
 
 aa) In Nr. 1 werden die Worte "Grundzüge des betrieblichen Rechnungswesens" durch die Worte "Betriebswirtschaftslehre - Rechnungswesen" ersetzt. bb) Nach Nr. 2 wird eingefügt: "3. Finanzmathematik" cc) Die bisherigen Nrn. 3 bis 7 werden Nrn. 4 bis 8. 
 
-## b) Absatz 2 Satz 2 erhält folgende Fassung: 
+# b) Absatz 2 Satz 2 erhält folgende Fassung: 
 
-"[2] Es werden 
+"<sup>2</sup> Es werden 
 
 in jeder Teilprüfung der Betriebswirtschaftslehre - Rechnungswesen eine Klausur von 90 Minuten, 
 
@@ -56,15 +56,11 @@ in jeder Teilprüfung der Statistik sowie des Privatrechts beziehungsweise des �
 
 2. § 31 wird wie folgt geändert: 
 
-- a) In Absatz 1 Satz 1 erhalten die Nrn. 2 und 3 folgende Fassung: 
-
-   - "2. Allgemeine Wirtschaftsinformatik 
+- a) In Absatz 1 Satz 1 erhalten die Nrn. 2 und 3 folgende Fassung: "2. Allgemeine Wirtschaftsinformatik 
 
    3. Spezielle Wirtschaftsinformatik" 
 
-- b) Absatz 2 erhält folgende Fassung: 
-
-   - "(2) Dieselben Prüfungsleistungen (erworbene Kreditpunkte) können nur einmal angerechnet werden." 
+- b) Absatz 2 erhält folgende Fassung: "(2) Dieselben Prüfungsleistungen (erworbene Kreditpunkte) können nur einmal angerechnet werden." 
 
 - c) In Absatz 3 Satz 1 wird " **Anlage III** " durch " **Anlagen III - V** " ersetzt. 
 
@@ -72,7 +68,7 @@ in jeder Teilprüfung der Statistik sowie des Privatrechts beziehungsweise des �
 
 3. Die Anlagen I bis III erhalten folgende Fassung: 
 
-## " **Anlage I Zugelassene Pflichtwahlfächer nach § 31 Abs. 1 Nr. 5** 
+# " **Anlage I Zugelassene Pflichtwahlfächer nach § 31 Abs. 1 Nr. 5** 
 
 1. Bank- und Börsenwesen 
 
@@ -182,13 +178,12 @@ Wenn ein mit *) gekennzeichnetes Fach als Prüfungsfach der Informatik nach § 3
 
 Der Prüfungsausschuss kann auf Antrag weitere Fächer, die in einem sinnvollen Zusammenhang mit dem Studium der Wirtschaftsinformatik stehen, und durch einen Professor der Universität vertreten werden, als Prüfungsfächer zulassen. 
 
-|**Anlage II:**|||
-|---|---|---|
-|**Struktur der Diplomvorprüfung**|||
-|**Fächer der**<br>**Diplomvorprüfung**|**Klausur-**<br>**Prüfungsdauer**<br>**(in Minuten)**|**Kreditpunkte**|
-|1. Betriebswirtschaftslehre -<br>Rechnungswesen||**8**|
-|a) Kostenrechnung|90|4|
-|b) Buchführung|90|4|
+|**Anlage II:**<br>**Struktur der Diplomvorprüfung**||
+|---|---|
+|**Fächer der**<br>**Diplomvorprüfung**<br>**Klausur-**<br>**Prüfungsdauer**<br>**(in Minuten)**|**Kreditpunkte**|
+|1. Betriebswirtschaftslehre -<br>Rechnungswesen|**8**|
+|a) Kostenrechnung<br>90|4|
+|b) Buchführung<br>90|4|
 
 3 
 
@@ -207,8 +202,8 @@ Der Prüfungsausschuss kann auf Antrag weitere Fächer, die in einem sinnvollen 
 |a) Grundzüge der<br>Volkswirtschaftslehre I|120|7,5||
 |b) Grundzüge der<br>Volkswirtschaftslehre II|120|7,5||
 |6. Die wirtschaftlich||||
-|wesentlichen Teile des<br>Privaten Rechts und des|||**9**|
-|Öffentlichen Rechts||||
+|wesentlichen Teile des|||**9**|
+|Privaten Rechts und des<br>Öffentlichen Rechts||||
 |a) Privates Recht|120|9||
 |b) Öffentliches Recht|120|9||
 |7. Grundzüge der Statistik|||**12**|
@@ -222,27 +217,24 @@ Der Prüfungsausschuss kann auf Antrag weitere Fächer, die in einem sinnvollen 
 
 4 
 
-|**Fächer der**<br>**Diplomprüfung**|**SWS**|**Kredit-**<br>**punkte**|**Maxim.**<br>**Zahl der**<br>**Teilprü-**|**Prüfungs**<br>**budget**|
+|**Fächer der**<br>**Diplomprüfung**|**SWS**|**Kredit-**<br>**punkte**|**Maxim.**<br>**Zahl der**<br>**Teilprü-**<br>**fungen**|**Prüfungs**<br>**budget**|
 |---|---|---|---|---|
-||||**fungen**||
 |1. Allgemeine<br>Betriebswirtschaftslehre|12|12|6|6|
-|2. Allgemeine|||||
-|Wirtschaftsinformatik|18|18|9|9|
-|3. Spezielle|||||
-|Wirtschaftsinformatik|12|12|6|6|
+|2. Allgemeine<br>Wirtschaftsinformatik|18|18|9|9|
+|3. Spezielle<br>Wirtschaftsinformatik|12|12|6|6|
 |4. Informatik|23|23|11|11|
 |5. Pflichtwahlfach|12|12|6|6|
 |Studienarbeit|14|14|||
 |Summe|91|91|38|38|
 |Diplomarbeit||28|||
 
-## **Erläuterungen:** 
+# **Erläuterungen:** 
 
 1. Die **maximale** Zahl der Teilprüfungen entspricht der Hälfte der in dem Fach zu erwerbenden Kreditpunkte. Unter der Maßgabe von § 31 Abs. 4, nach der die Fachvertreter darauf achten sollen, dass die Teilprüfungen auch integrative Gesamtbetrachtungen des Faches einbeziehen, darf die Obergrenze auf keinen Fall überschritten werden. 
 
 2. Der Umfang der Teilprüfungen muss im Rahmen der Obergrenzen eines Prüfungsbudgets bleiben. Das Gesamtbudget für ein Fach wird bestimmt durch eine Zahl an Einheiten, die der Hälfte der in dem Fach zu erwerbenden Kreditpunkte entspricht. Für die einzelnen Prüfungsformen werden dabei die folgenden Äquivalente angesetzt: 
 
-Klausur: 1 Einheit = 1 Stunde Mündliche 1 Einheit = 15 Minuten Prüfung: Seminararbeit:[1 Einheit = Vorbereitungszeit von ] max. vier Wochen 
+Klausur: 1 Einheit = 1 Stunde Mündliche 1 Einheit = 15 Minuten Prüfung: Seminararbeit:<sup>1 Einheit = Vorbereitungszeit von</sup> max. vier Wochen 
 
 Sofern der zuständige Fachvertreter der Auffassung ist, dass er die Anforderungen seines Faches in angemessener Weise durch ein System von Teilprüfungen abdecken kann, dessen Umrechnung in Einheiten unterhalb des Prüfungsbudgets bleibt, so darf die Höchstgrenze des Prüfungsbudgets unterschritten werden. 
 
@@ -252,9 +244,9 @@ Sofern der zuständige Fachvertreter der Auffassung ist, dass er die Anforderung
 
 Studienmodul zugeordneten Kreditpunkte von der Zahl der dem Modul entsprechenden SWS abweichen. So könnten beispielsweise Studienmodule im Umfang von jeweils vier SWS durch je eine zweistündige Klausur (= 2 Einheiten) abgeprüft werden. Aufgrund des unterschiedlichen Anforderungsniveaus könnte der Fachvertreter jedoch beispielsweise entscheiden, dass einer der beiden Klausuren drei Kreditpunkte zugeordnet werden, der anderen hingegen fünf Kreditpunkte. Insgesamt müssen im Hinblick auf ein Fach die vorgesehenen Kreditpunkte vollständig auf die Teilprüfungen verteilt werden." 
 
-## 4. Nach Anlage III wird angefügt: 
+# 4. Nach Anlage III wird angefügt: 
 
-## " **Anlage IV:** 
+# " **Anlage IV:** 
 
 **Struktur der Allgemeinen Wirtschaftsinformatik nach § 31 Abs. 1 Nr. 2** 
 
@@ -263,17 +255,16 @@ Studienmodul zugeordneten Kreditpunkte von der Zahl der dem Modul entsprechenden
 |1. Allgemeine Wirtschaftsinformatik|||
 |(Schwerpunkt Industrie- und Logistikbetriebe)|6|6|
 |2. Allgemeine Wirtschaftsinformatik|||
-|(Schwerpunkt Dienstleistungswirtschaft|||
-|und Digitale Medien)|6|6|
+|(Schwerpunkt Dienstleistungswirtschaft<br>und Digitale Medien)|6|6|
 |3. Allgemeine Wirtschaftsinformatik|||
 |(Schwerpunkt Systementwicklung und|||
 |IT-Management)|6|6|
 
-## **Erläuterungen:** 
+# **Erläuterungen:** 
 
 Die angegebenen drei Halbfächer bilden zusammen das Diplomprüfungsfach Allgemeine Wirtschaftsinformatik im Gesamtumfang von 18 SWS (18 Kreditpunkten). 
 
-## **Anlage V: Struktur der Speziellen Wirtschaftsinformatik nach § 31 Abs. 1 Nr.3** 
+# **Anlage V: Struktur der Speziellen Wirtschaftsinformatik nach § 31 Abs. 1 Nr.3** 
 
 6 
 
@@ -282,17 +273,16 @@ Die angegebenen drei Halbfächer bilden zusammen das Diplomprüfungsfach Allgeme
 |1. Spezielle Wirtschaftsinformatik|||
 |(Schwerpunkt Industrie- und Logistikbetriebe)|6|6|
 |2. Spezielle Wirtschaftsinformatik|||
-|(Schwerpunkt Dienstleistungswirtschaft|||
-|und Digitale Medien)|6|6|
+|(Schwerpunkt Dienstleistungswirtschaft<br>und Digitale Medien)|6|6|
 |3. Spezielle Wirtschaftsinformatik|||
 |(Schwerpunkt Systementwicklung und|||
 |IT-Management)|6|6|
 
-## **Erläuterungen:** 
+# **Erläuterungen:** 
 
 Der Kandidat wählt zwei der drei angegebenen Halbfächer aus. Diese bilden gemeinsam das Diplomprüfungsfach Spezielle Wirtschaftsinformatik im Gesamtumfang von 12 SWS (12 Kreditpunkten)." 
 
-## **§ 2** 
+# **§ 2** 
 
 (1) Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

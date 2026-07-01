@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:58:11+00:00
-page_count_chars: 4116
+scraped_at: 2026-07-01T08:33:00+00:00
+page_count_chars: 4090
 ---
 
 # 19. Januar 2012
@@ -18,7 +18,7 @@ Vom 19. Januar 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der FriedrichAlexander-Universität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, geändert durch Satzung vom 1. März 2011, wird wie folgt geändert: 
 
@@ -42,19 +42,15 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Beruf
 
    - d) Im Modul B 26 Spalte 4 (ECTS 1. Sem.) wird die Zahl „5,0“ gestrichen und in Spalte 6 (ECTS 3. Sem.) wird die Zahl „5,0“ eingefügt. 
 
-   - e) Das Modul B 28 wird wie folgt geändert: 
-
-      - aa) In Spalte 4 (ECTS 1. Sem.) wird die Zahl „2,5“ eingefügt. 
-
-      - bb) In Spalte 5 (ECTS 2. Sem.) wird die Zahl „2,5“ durch die Zahl „5,0“ ersetzt. cc) In Spalte 6 (ECTS 3. Sem.) wird die Zahl „10“ durch die Zahl „5,0“ ersetzt. dd) In Spalte 8 (ECTS 5. Sem.) wird die Zahl „5,0“ durch die Zahl „10“ ersetzt. ee) In Spalte 9 (ECTS 6. Sem.) wird die Zahl „5,0“ gestrichen. 
+   - e) Das Modul B 28 wird wie folgt geändert: aa) In Spalte 4 (ECTS 1. Sem.) wird die Zahl „2,5“ eingefügt. bb) In Spalte 5 (ECTS 2. Sem.) wird die Zahl „2,5“ durch die Zahl „5,0“ ersetzt. cc) In Spalte 6 (ECTS 3. Sem.) wird die Zahl „10“ durch die Zahl „5,0“ ersetzt. dd) In Spalte 8 (ECTS 5. Sem.) wird die Zahl „5,0“ durch die Zahl „10“ ersetzt. ee) In Spalte 9 (ECTS 6. Sem.) wird die Zahl „5,0“ gestrichen. 
 
    - f) In der Zeile 43 (ECTS-Gesamtpunkte) Spalte 4 (1. Sem.) wird die Zahl „32,5“ und in Spalte 5 (2. Sem.) die Zahl „27,5“ jeweils durch die Zahl „30“ ersetzt. 
 
-5. Die Anlage 2b wird wie folgt geändert: 
+# 5. Die Anlage 2b wird wie folgt geändert: 
 
-   - a) Im Modul B 19 Spalte 4 (ECTS 1. Sem.) wird die Zahl „5,0“ gestrichen und in Spalte 5 (ECTS 2. Sem.) wird die Zahl „5,0“ eingefügt. 
+- a) Im Modul B 19 Spalte 4 (ECTS 1. Sem.) wird die Zahl „5,0“ gestrichen und in Spalte 5 (ECTS 2. Sem.) wird die Zahl „5,0“ eingefügt. 
 
-   - b) Im Modul B 20 Spalte 4 (ECTS 1. Sem.) wird die Zahl „5,0“ eingefügt und in Spalte 8 (ECTS 5. Sem.) wird die Zahl „5,0“ gestrichen. 
+- b) Im Modul B 20 Spalte 4 (ECTS 1. Sem.) wird die Zahl „5,0“ eingefügt und in Spalte 8 (ECTS 5. Sem.) wird die Zahl „5,0“ gestrichen. 
 
 - c) Im Modul B 22 Spalte 5 (ECTS 2. Sem.) wird die Zahl „5,0“ gestrichen und in Spalte 9 (ECTS 6. Sem.) wird die Zahl „5,0“ eingefügt. 
 
@@ -64,7 +60,7 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Beruf
 
 - f) In Zeile 39 (ECTS-Gesamtpunkte) Spalte 4 (1. Sem.) wird die Zahl „32,5“ und in Spalte 5 (2. Sem.) die Zahl „27,5“ jeweils durch die Zahl „30“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die Ihr Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:46:34+00:00
+scraped_at: 2026-07-01T08:23:19+00:00
 ---
 
 # Informations- und Kommunikationstechnik (B.Sc.)
@@ -37,7 +37,7 @@ In diesem Studiengang lernen die Studierenden eine Reihe von ingenieurwissenscha
 
 Am Ende des Studiums sind die Absolventen in der Lage, beispielsweise Multimedia-Systeme, intelligente Stromnetze oder schnellere Übertragungstechnik zu entwickeln.
 
-### Bachelor of Science Informations- und Kommunikationstechnik
+### Fachanteile des Studiengangs Informations- und Kommunikationstechnik (B.Sc.)
 
 * Elektrotechnik, Elektronik, Informationstechnik (46%)
 * Informatik (37%)

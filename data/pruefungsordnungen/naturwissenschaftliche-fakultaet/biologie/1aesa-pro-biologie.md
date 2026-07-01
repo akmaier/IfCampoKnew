@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. März 1995"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Biologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:31:43+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T08:55:49+00:00
+page_count_chars: 2903
 ---
 
 # 30. März 1995
@@ -12,118 +12,35 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Biologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+pos 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# Satzung zur Anderung der Diplompriifungsordnung fiir Studenten der Biologie an der Friedrich-Alexander-Universitat Erlangen-Niirnberg 
 
-### OCR Seite 1
+## Vom 30. Marz 1995 
 
-```
-si
-Die Diplomprüfungsordnung
-für Studenten
-der Biologie an der Friedrich-Alexander-
-Universität Erlangen-Nürnberg
-vom 16. Januar 1991 (KWMBl II S. 186) wird wie folgt
-zn
-geändert:
-1.
-$5 Abs. 1 erhält folgende Fassung:
-"Der Prüfungsausschuß
-bestellt die Prüfer und gibt deren Namen bekannt. Zum
-Prüfer können alle Hochschullehrer
-sowie nach der Hochschulprüferverordnung
-(BayRS
-2210-1-1-6-WK) in der jeweils geltenden
-Fassung zur Abnahme
-von
-Hochschulprüfungen
-befugte Lehrpersonen
-der Universität Erlangen-Nürnberg
-bestellt
-werden. Die Bestellung
-auswärtiger
-Prüfer, die Hochschullehrer
-oder
-nach der Hochschulprüferverordnung
-zur Abnahme von Prüfungen befugt sind,
-ist möglich, wenn es von der Sache her begründet
-ist; zumindest ein Prüfer muß
-jedoch ein hauptberuflich
-in der Naturwissenschaftlichen
-Fakultät
-II (Biologie,
-Chemie und Pharmazie)
-der Universität Erlangen-Nürnberg
-tätiger Hochschul-
-lehrer
-sein. Die Bestellung
-der Zweitprüfer
-gemäß
-$ 25 Abs.
-1 obliegt dem
-Vorsitzenden
-des Prüfungsausschusses."
-2.
-$ 24 Abs. 2 erhält folgende Fassung:
-"Die Diplomarbeit
-kann von jedem Hochschullehrer
-in der Naturwissenschaftli-
-chen Fakultät
-II (Biologie, Chemie und Pharmazie)
-ausgegeben
-und betreut
-werden. Die Diplomarbeit
-soll möglichst in dem als Hauptfach
-(vgl. $ 22 Abs. 2
-und Anlage 2) gewählten Fach durchgeführt
-werden. Sie darf mit Zustimmung
-des Prüfungsausschusses
-in Ausnahmefällen
-außerhalb
-der Fakultät ausgeführt
-werden,
-sofern ein hauptberuflich
-in der Naturwissenschaftlichen
-Fakultät
-II
-(Biologie,
-Chemie und Pharmazie)
-tätiger
-Hochschullehrer
-der betreffenden
-Fachrichtung vor der Vergabe der Arbeit schriftlich sein Einverständnis
-erklärt,
-die Betreuung zu übernehmen."
-3.
-In Anlage 2 zu $3 Abs. 2 und $ 22 Abs. 2 erhält Abschnitt B1 "Mikrobiologie"
-folgende Fassung:
-"NF:
-1.
-Mikrobiologische Übungen
-HF:
-2.
-Mikrobiologische Übungen für Fortgeschrittene
-I
-3.
-Mikrobiologische Übungen für Fortgeschrittene
-II"
-$2
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung
-in Kraft.
-```
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erliBt die Universitit Erlangen-Niirnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+Die Diplompriifungsordnung fiir Studenten der Biologie an der Friedrich-AlexanderUniversitat Erlangen-Nirnberg vom 16. Januar 1991 (KWMBI II S. 186) wird wie folgt geandert: 
 
-```
-Rektor
-Die Satzung wurde am 30. März 1995 in der Universität Erlangen-Nürnberg
-nieder-
-gelegt; die Niederlegung wurde am 30. März 1995 durch Anschlag in der Universität
-Erlangen-Nürnberg
-bekanntgegeben.
-Tag der Bekanntmachung
-ist der 30. März 1995.
-2
-```
+1. § 5 Abs. 1 erhalt folgende Fassung: "Der Priifungsausschu8 bestellt die Priifer und gibt deren Namen bekannt. Zum Priifer k6nnen alle Hochschullehrer sowie nach der Hochschulpriiferverordnung (BayRS 2210-1-1-6-WK) in der jeweils geltenden Fassung zur Abnahme von Hochschulpriifungen befugte Lehrpersonen der Universitat Erlangen-Niirnberg bestellt werden. Die Bestellung auswartiger Priifer, die Hochschullehrer oder nach der Hochschulprtiferverordnung zur Abnahme von Priifungen befugt sind, ist mOglich, wenn es von der Sache her begriindet ist; zumindest ein Priifer muf jedoch ein hauptberuflich in der Naturwissenschaftlichen Fakultét II (Biologie, Chemie und Pharmazie) der Universitat Erlangen-Niirnberg tatiger Hochschullehrer sein. Die Bestellung der Zweitprifer gemé8 § 25 Abs. 1 obliegt dem Vorsitzenden des Priifungsausschusses." 
+
+. 
+
+2. § 24 Abs. 2 erhalt folgende Fassung: "Die Diplomarbeit kann von jedem Hochschullehrer in der Naturwissenschaftlichen Fakultét II (Biologie, Chemie und Pharmazie) ausgegeben und betreut werden. Die Diplomarbeit soll méglichst in dem als Hauptfach (vgl. § 22 Abs. 2 und Anlage 2) gewahlten Fach durchgefiihrt werden. Sie darf mit Zustimmung des Prifungsausschusses in Ausnahmefallen auferhalb der Fakultét ausgefiihrt werden, sofern ein hauptberuflich in der Naturwissenschaftlichen Fakultét II (Biologie, Chemie und Pharmazie) tatiger Hochschullehrer der betreffenden Fachrichtung vor der Vergabe der Arbeit schriftlich sein Einversténdnis erklart, die Betreuung zu tibernehmen." 
+
+3. In Anlage 2 zu § 3 Abs. 2 und § 22 Abs. 2 erhalt Abschnitt Bl "Mikrobiologie" folgende Fassung: "NF: 1. Mikrobiologische Ubungen HF: 2. Mikrobiologische Ubungen fiir Fortgeschrittene I 3. Mikrobiologische Ubungen fiir Fortgeschrittene II" 
+
+§ 2 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitit Erlangen-Niirnberg vom 22. Februar 1995 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 09.03.1995Nr. X/4-6/36 270. 
+
+Erlangen, den 30. Marz 1995 
+
+Prof./Dr. G. Jasper Rektor 
+
+Die Satzung wurde am 30. Marz 1995 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 30. Marz 1995 durch Anschlag in der Universitat Erlangen-Niirnberg bekanntgegeben. Tag der Bekanntmachung ist der 30. Marz 1995. 
+
+2 
 

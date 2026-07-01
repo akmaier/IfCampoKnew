@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 10.03.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Geographie-NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:09:28+00:00
-page_count_chars: 28763
+scraped_at: 2026-07-01T08:39:03+00:00
+page_count_chars: 28896
 ---
 
 # pdf vom 10.03.2009
@@ -18,21 +18,8 @@ page_count_chars: 28763
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
-|**1.**|**Allgemeines**....................................................................................................... 1|
-|---|---|
-||**§ 1**<br>**Geltungsbereich**......................................................................................... 1|
-||**§ 2**<br>**Grundlagen- und Orientierungsprüfung**.................................................. 1|
-||**§ 3**<br>**Zulassungsvoraussetzungen; Fremdsprachenkenntnisse**.................... 1|
-||**§ 4**<br>**Besondere Bestimmungen für die Bachelorarbeit/Schriftliche**|
-||**Hausarbeit**............................................................................................................. 2|
-|**2.**|**Lehramt an Gymnasien**..................................................................................... 2|
-||**§ 5**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 2|
-|**3.**|**Lehramt an Realschulen**................................................................................... 4|
-||**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 4|
-|**4.**|**Lehramt an Grund- und Hauptschulen**............................................................ 6|
-||**§ 7**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 6|
-|**5.**|**Schluss- und Übergangsvorschriften**............................................................ 12|
-||**§ 8 In-Kraft-Treten**............................................................................................. 12|
+<!-- Start of picture text -->
+1. Allgemeines  ....................................................................................................... 1<br>§ 1 Geltungsbereich ......................................................................................... 1<br>§ 2 Grundlagen- und Orientierungsprüfung  .................................................. 1<br>§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse  .................... 1<br>§ 4 Besondere Bestimmungen für die Bachelorarbeit/Schriftliche<br>Hausarbeit  ............................................................................................................. 2<br>2. Lehramt an Gymnasien ..................................................................................... 2<br>§ 5 Inhalt, Aufbau und Gliederung des Studiums .......................................... 2<br>3. Lehramt an Realschulen ................................................................................... 4<br>§ 6 Inhalt, Aufbau und Gliederung des Studiums .......................................... 4<br>4. Lehramt an Grund- und Hauptschulen ............................................................ 6<br>§ 7 Inhalt, Aufbau und Gliederung des Studiums .......................................... 6<br>5. Schluss- und Übergangsvorschriften ............................................................ 12<br>§ 8 In-Kraft-Treten  ............................................................................................. 12<br><!-- End of picture text -->
 
 ## **1. Allgemeines** 
 
@@ -42,9 +29,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 **§ 2 Grundlagen- und Orientierungsprüfung** 
 
-1Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Geographie im Bereich der Fachwissenschaft im Studium des Lehramts an Gymnasien das Modul GLG 1 und 10 ECTS-Punkte aus den Modulen GLG 2 oder GLG 3 (zusammen 20 ECTS) erfolgreich abgelegt werden.[2] Für das Lehramt an Realschulen ist im Bereich der Fachwissenschaft mindestens das Modul GLR 1 (10 ECTS) erfolgreich abzulegen.[3] Für das Lehramt an Grund- und Hauptschulen ist im Bereich der Fachwissenschaft mindestens das Modul GGH 1 (10 ECTS) erfolgreich abzulegen. 
+1Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Geographie im Bereich der Fachwissenschaft im Studium des Lehramts an Gymnasien das Modul GLG 1 und 10 ECTS-Punkte aus den Modulen GLG 2 oder GLG 3 (zusammen 20 ECTS) erfolgreich abgelegt werden.<sup>2</sup> Für das Lehramt an Realschulen ist im Bereich der Fachwissenschaft mindestens das Modul GLR 1 (10 ECTS) erfolgreich abzulegen.<sup>3</sup> Für das Lehramt an Grund- und Hauptschulen ist im Bereich der Fachwissenschaft mindestens das Modul GGH 1 (10 ECTS) erfolgreich abzulegen. 
 
-**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 1Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.[2] Zudem ist der problemlose Umgang mit fremdsprachigen, insbesondere englischen Fachtexten eine Voraussetzung für ein erfolgreiches Studium. 
+**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 1Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.<sup>2</sup> Zudem ist der problemlose Umgang mit fremdsprachigen, insbesondere englischen Fachtexten eine Voraussetzung für ein erfolgreiches Studium. 
 
 1 
 
@@ -56,7 +43,8 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) In der Fachwissenschaft sind folgende Module abzulegen: 
+|(1) In der Fachwissenschaft sind folgende Module abzulegen:|
+|---|
 
 |**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
@@ -66,7 +54,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |1. FS|Vorlesung: EinführungindieKartographie|1,5|Hausaufgaben|
 |2. FS|Geländepraktikum|4|Hausaufgaben|
 |**GLG 2**|**Grundlagen der KG I**|**10**||
-|1. FS|GrundvorlesungKG|5|Klausur(45Min.)|
+|1. FS|<br>GrundvorlesungKG|5|Klausur(45Min.)|
 |2. FS|GrundvorlesungKG|5|Klausur(45Min.)|
 |**GLG 3**|**Grundlagen der PG I**|**10**||
 |1. FS|GrundvorlesungPG|5|Klausur(45Min.)|
@@ -79,16 +67,16 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |4. FS|Seminar KG|4|Referat + weitere Prüfungs-<br>leistung|
 |4. FS|Seminar PG|4|Referat + weitere Prüfungs-<br>leistung|
 |4. FS|Kleines Geländeseminar(3Tage)|2|Vor-oder Nacharbeit|
-|**GLG 6**|**Lehramt Methoden**|**10**||
+|**GLG 6**|**Lehramt Methoden**<br>|**10**||
 |5. FS|Übung: Karteninterpretation|4|Hausarbeit|
 |6. FS|Übung:Statistik I|2|Klausur(90Min.)|
 |6. FS|Kleines Geländeseminar für Fortgeschrittene<br>(3Tage)|4|Vor- und Nacharbeit|
 |**GLG 7**|**Spezielle Themenfelder der KG und der re-**<br>**gionalen Geographie**|**10**|**Nur Studienleistungen**|
-|5. FS|VorlesungEntwicklungsforschung|4|RegelmäßigeTeilnahme|
+|5. FS|<br>VorlesungEntwicklungsforschung|4|RegelmäßigeTeilnahme|
 |6. FS|Regionalvorlesung|4|RegelmäßigeTeilnahme|
 |6. FS|Kolloquium Kulturgeographie|2|RegelmäßigeTeilnahme|
 |**GLG 8**|**Spezielle Themenfelder der PG und der re-**<br>**gionalen Geographie**|**10**|**Nur Studienleistungen**|
-|7. FS|Vorlesung Ökozonender Erde|4|RegelmäßigeTeilnahme|
+|7. FS|<br>Vorlesung Ökozonender Erde|4|RegelmäßigeTeilnahme|
 |7. FS|Regionalvorlesung|4|RegelmäßigeTeilnahme|
 |6. FS|Kolloquium Physische Geographie|2|RegelmäßigeTeilnahme|
 |**GLG 9**|**Regionale Geographie**|**15**||
@@ -97,16 +85,16 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 2 
 
-(2) In der Fachdidaktik sind folgende Module abzulegen: 
+<u>(2) In der Fachdidaktik sind folgende Module abzulegen:</u> 
 
 |**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
-|Modul 1a (DID-<br>GEO)<br>Grundlagen der<br>Geographiedi-<br>daktik / Planung<br>und Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Ein-<br>führung in die<br>Geographiedidak-<br>tik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des<br>Seminars sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1a.2). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>-Vorlesung: regelmä-<br>ßige Teilnahme,<br>kleinere vor- oder<br>nachbereitende Ar-<br>beiten<br>-Seminar: regelmäßi-<br>ge, aktive Teilnah-<br>me, Referat, schrift-<br>liche Ausarbeitung<br>(10 Seiten)|
-||S|DIDGEO1a.2 Pla-<br>nung  und Analy-<br>se des Geogra-<br>phieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
-|Modul 1b (DID-<br>GEO)<br>Methoden und<br>Medien des<br>Geographieun-<br>terrichts|S|DIDGEO1b.1 Me-<br>thoden und Me-<br>dien im Geogra-<br>phieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhalten<br>der beiden Veranstal-<br>tungen sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO 1b.1). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>-Seminar DIDGEO<br>1b.1: regelmäßige, ak-<br>tive Teilnahme, Refe-<br>rat, schriftliche Ausar-<br>beitung (10 Seiten)<br>-Seminar DIDGEO<br>1b.2: regelmäßige, ak-<br>tive Teilnahme, 2 Ex-<br>kursionstage,Referat|
-||S/E|DIDGEO1b.2 Ex-<br>kursionsdidaktik<br>mit fachdidakti-<br>schen Exkursionen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|Modul 1a (DID-<br>GEO)<br>Grundlagen der<br>Geographiedi-<br>daktik / Planung<br>und Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Ein-<br>führung in die<br>Geographiedidak-<br>tik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des<br>Seminars sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1a.2). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-|
+||S|DIDGEO1a.2 Pla-<br>nung  und Analy-<br>se des Geogra-<br>phieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|tungen:<br>-Vorlesung: regelmä-<br>ßige Teilnahme,<br>kleinere vor- oder<br>nachbereitende Ar-<br>beiten<br>-Seminar: regelmäßi-<br>ge, aktive Teilnah-<br>me, Referat, schrift-<br>liche Ausarbeitung<br>(10 Seiten)|
+|Modul 1b (DID-<br>GEO)<br>Methoden und<br>Medien des<br>Geographieun-<br>terrichts|S|DIDGEO1b.1 Me-<br>thoden und Me-<br>dien im Geogra-<br>phieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhalten<br>der beiden Veranstal-<br>tungen sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO 1b.1). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>|
+||S/E|DIDGEO1b.2 Ex-<br>kursionsdidaktik<br>mit fachdidakti-<br>schen Exkursionen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|an den Einzelveranstal-<br>tungen:<br>-Seminar DIDGEO<br>1b.1: regelmäßige, ak-<br>tive Teilnahme, Refe-<br>rat, schriftliche Ausar-<br>beitung (10 Seiten)<br>-Seminar DIDGEO<br>1b.2: regelmäßige, ak-<br>tive Teilnahme, 2 Ex-<br>kursionstage,Referat|
 
-## (3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+(3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie be- <u>legt wird, ist folgendes Modul erfolgreich abzulegen:</u> 
 
 |**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
@@ -119,7 +107,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) In der Fachwissenschaft sind folgende Module abzulegen: 
+## <u>(1) In der Fachwissenschaft sind folgende Module abzulegen:</u> 
 
 |**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
@@ -146,30 +134,31 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |5. FS|Seminar zum großen Geländeseminar|3|Referat + weitere Prü-<br>fungsleistung|
 |6. FS|Großes Geländeseminar(mindestens 8Tage)|7|Vor-undNacharbeit|
 
-## (2) In der Fachdidaktik sind folgende Module abzulegen: 
+## <u>(2) In der Fachdidaktik sind folgende Module abzulegen:</u> 
 
 |**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des<br>Seminars sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1a.2). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>-Vorlesung: regelmä-<br>ßige Teilnahme,<br>kleinere vor- oder<br>nachbereitende Ar-<br>beiten<br>-Seminar: regelmäßi-<br>ge, aktive Teilnah-<br>me, Referat, schrift-<br>liche Ausarbeitung<br>(10 Seiten)|
-||S|DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des<br>Seminars sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1a.2). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:|
+||S|DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|<br>-Vorlesung: regelmä-<br>ßige Teilnahme,<br>kleinere vor- oder<br>nachbereitende Ar-<br>beiten<br>-Seminar: regelmäßi-<br>ge, aktive Teilnah-<br>me, Referat, schrift-<br>liche Ausarbeitung<br>(10 Seiten)|
 
 4 
 
-|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhalten<br>der beiden Veranstal-<br>tungen sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1b.1). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftliche<br>Ausarbeitung (10<br>Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme, 2<br>Ex kursionstage, Re-<br>ferat oder Protokoll|
+|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhalten<br>der beiden Veranstal-<br>tungen sowie zur<br>Pflichtlektüre; Dauer:<br>90 Minuten (im Rah-<br>men des Seminars<br>DIDGEO1b.1). Zulas-<br>sung zur Klausur nach<br>erfolgreicher Teilnahme<br>d Eill|
 |---|---|---|---|---|---|---|
-||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|an en nzeveransta-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftliche<br>Ausarbeitung (10<br>Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme, 2<br>Ex kursionstage, Re-<br>ferat oder Protokoll|
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a _gewählt_ werden können (Wahlpflicht). 
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a _gewählt_ werden können <u>(Wahlpflicht).</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungsvor-**<br>**aussetzungen**|**Prüfungsleistungen**|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungsvor-**<br>**aussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S<br>DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 / 1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1A|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10 Sei-<br>ten; 1 ECTS: Präsenta-<br>tion indigitaler Form)|
+||S<br>DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1A|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
+
+(3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie be- <u>legt wird, ist folgendes Modul erfolgreich abzulegen:</u> 
+
+|**Name des**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S|DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 / 1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1A|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10 Sei-<br>ten; 1 ECTS: Präsenta-<br>tion indigitaler Form)|
-||S|DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1A|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
-
-(3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie belegt wird, ist folgendes Modul erfolgreich abzulegen: 
-
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
+|**Moduls**|||||**voraussetzungen**||
 |Modul 3<br>(DIDGEO)<br>Praktikum|S|DIDGEO3.1 Theorie-<br>Praxis-Seminar|2|2||regelmäßige Teilnah-<br>me, kleinere vor- oder<br>nachbereitende Arbei-<br>ten|
 ||P|DIDGEO3.2 Fachdi-<br>daktisch betreutes<br>Praktikum|3|4||wöchentlich 4 Stunden<br>Hospitation an Prakti-<br>kumsschulen, vor- oder<br>nachbereitende Arbei-<br>ten, Unterrichtsversu-<br>che,Praktikumsbericht|
 
@@ -179,12 +168,12 @@ Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 
 
 ## **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) In der Fachwissenschaft sind folgende Module abzulegen: 
+## <u>(1) In der Fachwissenschaft sind folgende Module abzulegen:</u> 
 
 |**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |**GGH 1**|**Einführung in die Geographie**|**10**||
-|1. FS|Vorlesung: Einführung in die Teilbereiche der<br>Geographie|3|Klausur (90 Min.)|
+|1. FS|Vorlesung: Einführung in die Teilbereiche der<br>Geographie<br>|3|Klausur (90 Min.)|
 |1. FS|Übungzur Vorlesung|1,5|Hausaufgaben|
 |1. FS|Vorlesung: EinführungindieKartographie|1,5|Hausaufgaben|
 |2. FS|Geländepraktikum|4|Hausaufgaben|
@@ -204,96 +193,103 @@ Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 
 |5. FS|Seminar zum großen Geländeseminar|3|Referat + weitere Prü-<br>fungsleistung|
 |6. FS|Großes Geländeseminar(mindestens 8Tage)|7|Vor-undNacharbeit|
 
-## (2) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Grundschulen folgende Module abzulegen: 
+## (2) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Grund- <u>schulen folgende Module abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V<br>S|DIDGEO1a.1 Ein-<br>führung in die Geo-<br>graphiedidaktik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des Semi-<br>nars sowie zur Pflichtlek-<br>türe; Dauer: 90 Minuten<br>(im Rahmen des Semi-<br>nars DIDGEO 1a.2). Zu-<br>lassung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>- Vorlesung: regelmäßi-<br>ge Teilnahme, kleinere<br>vor oder nachberei-<br>tende Arbeiten<br>- Seminar: regelmäßige,<br>aktive Teilnahme, Re-<br>ferat, schriftliche Aus-<br>arbeitung (10 Seiten)|
-|||DIDGEO1a.2 Pla-<br>nung und Analyse<br>des Geographieun-<br>terrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-|V<br>DIDGEO1a.1 Ein-<br>führung in die Geo-<br>graphiedidaktik|2|2|keine|Klausur zu den Inhalten<br>der Vorlesung, des Semi-<br>nars sowie zur Pflichtlek-<br>türe; Dauer: 90 Minuten<br>(im Rahmen des Semi-<br>nars DIDGEO 1a.2). Zu-<br>lassung zur Klausur nach<br>erfolgreicher Teilnahme|
+|unterrichts|S<br>DIDGEO1a.2 Pla-<br>nung und Analyse<br>des Geographieun-<br>terrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|an den Einzelveranstal-<br>tungen:<br>- Vorlesung: regelmäßi-<br>ge Teilnahme, kleinere<br>vor oder nachberei-<br>tende Arbeiten<br>- Seminar: regelmäßige,<br>aktive Teilnahme, Re-<br>ferat, schriftliche Aus-<br>arbeitung (10 Seiten)|
 
 6 
 
-|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO 1B.1 ME-<br>THODEN UNDMEDIEN<br>IMGEOGRAPHIEUN-<br>TERRICHT|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|Klausur zu den Inhalten<br>der beiden Veranstaltun-<br>gen sowie zur Pflichtlek-<br>türe; Dauer: 90 Minuten<br>(im Rahmen des Semi-<br>nars DIDGEO 1b.1). Zu-<br>lassung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige, ak-<br>tive Teilnahme, Refe-<br>rat, schriftliche Ausar-<br>beitung (10 Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige, ak-<br>tive Teilnahme, 2 Ex-<br>kursionstage, Referat<br>oder Protokoll|
+|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>|S|DIDGEO 1B.1 ME-<br>THODEN UNDMEDIEN<br>IMGEOGRAPHIEUN-<br>TERRICHT|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|Klausur zu den Inhalten<br>der beiden Veranstaltun-<br>gen sowie zur Pflichtlek-<br>türe; Dauer: 90 Minuten<br>(im Rahmen des Semi-<br>nars DIDGEO 1b.1). Zu-<br>|
 |---|---|---|---|---|---|---|
-||S/E|DIDGEO 1B.2 EX-<br>KURSIONSDIDAKTIK<br>MIT FACHDIDAKTI-<br>SCHENEXKURSIONEN|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1||
+|richts|S/E|DIDGEO 1B.2 EX-<br>KURSIONSDIDAKTIK<br>MIT FACHDIDAKTI-<br>SCHENEXKURSIONEN|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|lassung zur Klausur nach<br>erfolgreicher Teilnahme<br>an den Einzelveranstal-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige, ak-<br>tive Teilnahme, Refe-<br>rat, schriftliche Ausar-<br>beitung (10 Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige, ak-<br>tive Teilnahme, 2 Ex-<br>kursionstage, Referat<br>oder Protokoll|
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a gewählt werden können (Wahlpflicht). 
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a gewählt werden können <u>(Wahlpflicht).</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S|DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
-||S|DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S<br>DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
+||S<br>DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
 
-## (3) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Grundschulen folgende Module abzulegen: 
+(3) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Grundschulen <u>folgende Module abzulegen:</u> 
 
-|<br>**Name des**<br>**Moduls**||<br>**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tendeArbeiten|
-||S|DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V<br>DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>|
+||S<br>DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Einzelveranstaltun-<br>gen:<br>-Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tendeArbeiten|
 
 7 
 
 |||||||-Seminar: regel-<br>mäßige, aktive<br>Teilnahme, Refe-<br>rat, schriftliche<br>Ausarbeitung (10<br>Seiten)|
 |---|---|---|---|---|---|---|
-|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1b.1).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftli-<br>che Ausarbeitung<br>(10 Seiten)<br>-Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme,<br>2 Exkursionstage,<br>Referat oder Pro-<br>tokoll<br>Referat oder Pro-<br>tokoll|
-||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1b.1).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Seminar DIDGEO<br>|
+||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftli-<br>che Ausarbeitung<br>(10 Seiten)<br>-Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme,<br>2 Exkursionstage,<br>Referat oder Pro-<br>tokoll<br>Referat oder Pro-<br>tokoll|
 
-Zusätzlich kommt zu den in den Modulen 1a und 1b festgelegten 10 ECTS 1 weiterer ECTS hinzu, der aus den Veranstaltungen von Modul 2a gewählt werden kann (Wahlpflicht). 
+Zusätzlich kommt zu den in den Modulen 1a und 1b festgelegten 10 ECTS 1 weiterer ECTS hinzu, der aus den Veranstaltungen von Modul 2a gewählt werden kann <u>(Wahlpflicht).</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S|DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
-||S|DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
+|**Name des**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|**Moduls**||||**voraussetzungen**||
+|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S<br>DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
+||S<br>DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
 
 8 
 
-(4) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Hauptschulen folgende Module abzulegen: 
+(4) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Hauptschu- <u>len folgende Module abzulegen:</u> 
 
 |**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO 1A.1 EIN-<br>FÜHRUNG IN DIEGEO-<br>GRAPHIEDIDAKTIK|2|2|keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tende Arbeiten<br>Seminar: regelmäßi-<br>ge, aktive Teilnahme,<br>Referat, schriftliche<br>Ausarbeitung (10 Sei-<br>ten)|
-||S|DIDGEO 1A.2 PLA-<br>NUNG  UNDANALYSE<br>DESGEOGRAPHIEUN-<br>TERRICHTS|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1||
-|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO 1B.1 ME-<br>THODEN UNDMEDIEN<br>IMGEOGRAPHIEUN-<br>TERRICHT|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO<br>1b.1). Zulassung zur<br>Klausur nach erfolg-<br>reicher Teilnahme an<br>den Einzelveranstal-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftli-<br>che Ausarbeitung<br>(10 Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme,<br>2 Exkursionstage,<br>Referat oder Pro-<br>tokoll|
-||S/E|DIDGEO 1B.2 EXKUR-<br>SIONSDIDAKTIK MIT<br>FACHDIDAKTISCHENEX-<br>KURSIONEN|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1||
+|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-|V|DIDGEO 1A.1 EIN-<br>FÜHRUNG IN DIEGEO-<br>GRAPHIEDIDAKTIK|2|2|<br>keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;|
+|<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|S|DIDGEO 1A.2 PLA-<br>NUNG  UNDANALYSE<br>DESGEOGRAPHIEUN-<br>TERRICHTS|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tende Arbeiten<br>Seminar: regelmäßi-<br>ge, aktive Teilnahme,<br>Referat, schriftliche<br>Ausarbeitung (10 Sei-<br>ten)|
+|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO 1B.1 ME-<br>THODEN UNDMEDIEN<br>IMGEOGRAPHIEUN-<br>TERRICHT|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO<br>1b.1). Zulassung zur<br>Klausur nach erfolg-<br>reicher Teilnahme an<br>|
+||S/E|DIDGEO 1B.2 EXKUR-<br>SIONSDIDAKTIK MIT<br>FACHDIDAKTISCHENEX-<br>KURSIONEN|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|den Einzelveranstal-<br>tungen:<br>- Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat, schriftli-<br>che Ausarbeitung<br>(10 Seiten)<br>- Seminar DIDGEO<br>1b.2: regelmäßige,<br>aktive Teilnahme,<br>2 Exkursionstage,<br>Referat oder Pro-<br>tokoll|
 
 9 
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a gewählt werden können (Wahlpflicht). 
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 2 ECTS hinzu, die aus den Veranstaltungen von Modul 2a gewählt werden können <u>(Wahlpflicht).</u> 
+
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S<br>DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
+||S<br>DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO1a.1|regelmäßige, aktive<br>Teilnahme, Kurzrefe-<br>rat mit Thesenpapier|
+
+## (5) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Hauptschulen <u>folgende Module abzulegen:</u> 
 
 |**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S|DIDGEO2a.1 Digitale<br>Medien im Geogra-<br>phieunterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO 1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
-||S|DIDGEO2a.2 Ge-<br>schichte, Sozialkunde<br>und Erdkunde in inte-<br>grativerSicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung<br>DIDGEO1a.1|regelmäßige, aktive<br>Teilnahme, Kurzrefe-<br>rat mit Thesenpapier|
-
-## (5) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Hauptschulen folgende Module abzulegen: 
-
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>- Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tende Arbeiten<br>- Seminar: regel-<br>mäßige, aktive<br>Teilnahme, Refe-<br>rat, schriftliche<br>Ausarbeitung<br>(10 Seiten)|
-||S|DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
-|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1b.1).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:<br>-Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat,schriftli-|
-||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1||
+|Modul 1a<br>(DIDGEO)<br>Grundlagen<br>der Geogra-<br>phiedidaktik /<br>Planung und<br>Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1 Einfüh-<br>rung in die Geogra-<br>phiedidaktik|2|2|<br>keine|Klausur zu den Inhal-<br>ten der Vorlesung,<br>des Seminars sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1a.2).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-|
+||S|DIDGEO1a.2 Planung<br>und Analyse des<br>Geographieunterrichts|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|gen:<br>- Vorlesung: regel-<br>mäßige Teilnah-<br>me, kleinere vor-<br>oder nachberei-<br>tende Arbeiten<br>- Seminar: regel-<br>mäßige, aktive<br>Teilnahme, Refe-<br>rat, schriftliche<br>Ausarbeitung<br>(10 Seiten)|
+|Modul 1b<br>(DIDGEO)<br>Methoden<br>und Medien<br>des Geogra-<br>phieunter-<br>richts|S|DIDGEO1b.1 Metho-<br>den und Medien im<br>Geographieunterricht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|<br>Klausur zu den Inhal-<br>ten der beiden Ver-<br>anstaltungen sowie<br>zur Pflichtlektüre;<br>Dauer: 90 Minuten<br>(im Rahmen des Se-<br>minars DIDGEO1b.1).<br>Zulassung zur Klau-<br>sur nach erfolgreicher<br>Teilnahme an den<br>Einzelveranstaltun-<br>gen:|
+||S/E|DIDGEO1b.2 Exkursi-<br>onsdidaktik mit fachdi-<br>daktischen Exkursio-<br>nen|2|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|<br>-Seminar DIDGEO<br>1b.1: regelmäßige,<br>aktive Teilnahme,<br>Referat,schriftli-|
 
 10 
 
-che Ausarbeitung (10 Seiten) Seminar DIDGEO 1b.2: regelmäßige, aktive Teilnahme, 2 Exkursionstage, Referat oder Protokoll 
+|che Ausarbeitung<br>(10 Seiten)|
+|---|
+|Seminar DIDGEO|
+|1b.2: regelmäßige,|
+|aktive Teilnahme, 2|
+|Exkursionstage, Re-|
+|ferat oder Protokoll|
 
 Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS weitere 10 ECTS hinzu, die aus den Veranstaltungen von Modul 2a und/oder 2b gewählt werden können (Wahlpflicht). 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECT**<br>**S**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S|DIDGEO2a.1 Digitale<br>Medien im Geographie-<br>unterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
-||S|DIDGEO2a.2 Geschich-<br>te, Sozialkunde und<br>Erdkunde in integrativer<br>Sicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
-|Modul 2b<br>(GEO)<br>Fachwissen-<br>schaft für Di-<br>daktiken ei-<br>ner Fächer-<br>gruppe (An-<br>gebot des<br>Instituts für<br>Geographie)|V|GEOKG1/PG1 Einfüh-<br>rungsvorlesung Kultur-<br>geo. + Phys. Geo.|3|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
-||V|GEOKG2<br>Grundvorlesung<br>Kulturgeographie|5|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
-||V|GEOPG3<br>Grundvorlesung<br>Physische Geographie|5|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECT**<br>**S**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitäts-<br>spezifische<br>Ausrichtung|S<br>DIDGEO2a.1 Digitale<br>Medien im Geographie-<br>unterricht|2 /1|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat,<br>schriftliche Ausarbei-<br>tung (2 ECTS: 10<br>Seiten; 1 ECTS: Prä-<br>sentation in digitaler<br>Form)|
+||S<br>DIDGEO2a.2 Geschich-<br>te, Sozialkunde und<br>Erdkunde in integrativer<br>Sicht|3|2|vorherige regelmä-<br>ßige Teilnahme an<br>der Vorlesung DID-<br>GEO1a.1|regelmäßige, aktive<br>Teilnahme, Referat &<br>Thesenpapier|
+|Modul 2b<br>(GEO)<br>Fachwissen-<br>schaft für Di-<br>daktiken ei-|V<br>GEOKG1/PG1 Einfüh-<br>rungsvorlesung Kultur-<br>geo. + Phys. Geo.|3|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
+|ner Fächer-<br>gruppe (An-<br>gebot des<br>Instituts für<br>Geographie)|V<br>GEOKG2<br>Grundvorlesung<br>Kulturgeographie|5|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
+||V<br>GEOPG3<br>Grundvorlesung<br>Physische Geographie|5|2|(vgl. Modulbe-<br>schreibung des<br>Instituts für Geo-<br>graphie, Erlangen)|(vgl. Modulbeschrei-<br>bung des Instituts für<br>Geographie, Erlan-<br>gen)|
 
-## (6) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+## (6) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie be- <u>legt wird, ist folgendes Modul erfolgreich abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 3<br>(DIDGEO)<br>Praktikum|S|DIDGEO3.1 Theorie-<br>Praxis-Seminar|2|2||regelmäßige Teil-<br>nahme, kleinere vor-<br>oder nachbereitende<br>Arbeiten|
-||P|DIDGEO3.2 Fachdi-<br>daktisch betreutes<br>Praktikum|3|4||wöchentlich 4 Stun-<br>den Hospitation an<br>Praktikumsschulen,<br>vor- oder nachberei-<br>tende Arbeiten, Un-<br>terrichtsversuche,<br>Praktikumsbericht|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 3<br>(DIDGEO)<br>Praktikum|S<br>DIDGEO3.1 Theorie-<br>Praxis-Seminar|2|2||regelmäßige Teil-<br>nahme, kleinere vor-<br>oder nachbereitende<br>Arbeiten|
+||P<br>DIDGEO3.2 Fachdi-<br>daktisch betreutes<br>Praktikum|3|4||wöchentlich 4 Stun-<br>den Hospitation an<br>Praktikumsschulen,<br>vor- oder nachberei-<br>tende Arbeiten, Un-<br>terrichtsversuche,<br>Praktikumsbericht|
 
 11 
 

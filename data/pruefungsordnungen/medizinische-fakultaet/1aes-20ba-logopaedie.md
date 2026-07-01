@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. Mai 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/1AES%20BA-Logopaedie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:21:40+00:00
-page_count_chars: 4151
+scraped_at: 2026-07-01T08:46:37+00:00
+page_count_chars: 4143
 ---
 
 # 4. Mai 2012
@@ -12,23 +12,25 @@ page_count_chars: 4151
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/1AES%20BA-Logopaedie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo)** 
+# **Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo)** 
 
-## Vom 4. Mai 2012 
+# Vom 4. Mai 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 4 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
-
 Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg vom 5. Oktober 2011, wird wie folgt geändert: 
 
-## 1. § 18 Satz 2 wird wie folgt geändert: 
+1. § 18 Satz 2 wird wie folgt geändert: 
 
-- a) Buchst. B) erhält folgende Fassung: „B) Schriftliche Planung einer Therapieeinheit“ 
+   - a) Buchst. B) erhält folgende Fassung: 
 
-- b) Nach Buchst. E) wird folgender neuer Buchstabe F) eingefügt: „F) Schriftliche Planung eines Therapieprozesses“ 
+      - „B) Schriftliche Planung einer Therapieeinheit“ 
 
-## 2. Die Anlage wird wie folgt geändert: 
+   - b) Nach Buchst. E) wird folgender neuer Buchstabe F) eingefügt: 
+
+      - „F) Schriftliche Planung eines Therapieprozesses“ 
+
+# 2. Die Anlage wird wie folgt geändert: 
 
 - a) In Modul Nr. 1 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(90 min.)“ 
 
@@ -54,9 +56,7 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Me
 
 - k) In Modul Nr. 17 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(30 min.)“ 
 
-- l) In Modul Nr. 18 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: 
-
-   - „(20 min., ca. 10 Seiten)“ 
+- l) In Modul Nr. 18 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(20 min., ca. 10 Seiten)“ 
 
 - m) In Modul Nr. 19 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(90 min.)“ 
 
@@ -64,19 +64,15 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Me
 
 - o) In Modul Nr. 21 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(20 min.)“ 
 
-- p) In Modul Nr. 22 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: 
+- p) In Modul Nr. 22 Spalte 16 (Art und Umfang der Prüfung/Studienleistung) wird folgender Klammerzusatz angefügt: „(ca. 10 Seiten)“ 
 
-   - „(ca. 10 Seiten)“ 
-
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 25. April 2012 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Korbmacher vom 4. Mai 2012. 
 
-Erlangen, den 4. Mai 2012 
-
-In Vertretung 
+Erlangen, den 4. Mai 2012 In Vertretung 
 [Kontaktperson entfernt]
 Die Satzung wurde am 4. Mai 2012 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 4. Mai 2012 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 4. Mai 2012. 
 

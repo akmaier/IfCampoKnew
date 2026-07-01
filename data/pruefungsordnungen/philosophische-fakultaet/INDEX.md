@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Philosophische Fakultät und Fachbereich Theologie"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:35+00:00
+scraped_at: 2026-07-01T09:28:21+00:00
 ---
 
 # Philosophische Fakultät und Fachbereich Theologie
@@ -172,7 +172,7 @@ Die folgenden Webseiten der Prüfungsordnungen haben sehr lange Ladezeiten!
 
 ### Masterstudiengänge mit eigenständiger Prüfungsordnung
 
-* [Human rights](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#human-rights)
+* [Human Rights](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#human-rights)
 * [Gerontologie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#gerontologie)
 * [Lexicography](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#lexicography)
 * [Physical Activity and Health](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/#physical-activity)

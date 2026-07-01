@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 19.06.1990 i.d.F. 27.03.1992"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/StO_Elektrotechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:10+00:00
-page_count_chars: 18054
+scraped_at: 2026-07-01T11:28:12+00:00
+page_count_chars: 18047
 ---
 
 # PDF vom 19.06.1990 i.d.F. 27.03.1992
@@ -14,7 +14,7 @@ page_count_chars: 18054
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universität Erlangen - Nürnberg** 
+# **Studienordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universität Erlangen - Nürnberg** 
 
 in der Fassung der Bekanntmachung vom 19. Juni 1990 (KWMBl II S. 302) 
 
@@ -154,13 +154,9 @@ Vertiefungsgrundfächer _Technologie der Silicium-Halbleiterbauelemente (5V, 2ü
 
 Bei den Studienrichtungen II bis V müssen mindestens zwei Vertiefungsgrundfächer und das Vertiefungsspezialfach der gewählten Studienrichtung angehören. Die Prüfungen in den genannten Kern- und Vertiefungsgrundfächern erfolgen schriftlich. Die Prüfung im Vertiefungsspezialfach erfolgt mündlich. Die Dauer der schriftlichen Prüfungen beträgt 3 Stunden, lediglich für das Kernfach Bauelemente der E- lektrotechnik I, II und III beträgt die Prüfungszeit 4 Stunden. 
 
-Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern erfolgen mündlich. 3 oder 4 **Wahllehrveranstaltungen** (ab 5. Semester) mit einem Gesamtvolumen von mindestens 10 Semesterwochenstunden. Die Wahllehrveranstaltungen können sein: Vorlesungen, Übungen und Seminare, davon jedoch höchstens 2 Seminare. 
+Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern erfolgen mündlich. 3 oder 4 **Wahllehrveranstaltungen** (ab 5. Semester) mit einem Gesamtvolumen von mindestens 10 Semesterwochenstunden. Die Wahllehrveranstaltungen können sein: Vorlesungen, Übungen und Seminare, davon jedoch höchstens 2 Seminare. 3 **Praktika** an Lehrstühlen der Elektrotechnik (ab 5. Semester) von je mindestens 4 Semesterwochenstunden 
 
-3 **Praktika** an Lehrstühlen der Elektrotechnik (ab 5. Semester) von je mindestens 4 Semesterwochenstunden 
-
-1 **Pflichtseminar** an einem Lehrstuhl der Elektrotechnik (ab 6. Semester) (mindes- 
-
-tens 2 Semesterwochenstunden) 
+1 **Pflichtseminar** an einem Lehrstuhl der Elektrotechnik (ab 6. Semester) (mindestens 2 Semesterwochenstunden) 
 
 1 **Studienarbeit** aus einem Gebiet der Elektrotechnik 
 

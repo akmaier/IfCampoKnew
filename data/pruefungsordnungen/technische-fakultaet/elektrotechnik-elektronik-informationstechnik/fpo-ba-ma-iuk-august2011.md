@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 21.09.2007 i.d.F. 15.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_IuK-AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:11:13+00:00
-page_count_chars: 21017
+scraped_at: 2026-07-01T11:31:37+00:00
+page_count_chars: 20806
 ---
 
 # PDF vom 21.09.2007 i.d.F. 15.08.2011
@@ -40,9 +40,9 @@ Die Fachprüfungsordnung für den konsekutiven Bachelor- und Masterstudiengang I
 
 (2) Die Regelstudienzeit beträgt sechs Semester. 
 
-(3)[1] Das Bachelorstudium Informations- und Kommunikationstechnik beginnt jeweils zum Wintersemester.[2] Abweichend von Satz 1 kann das Bachelorstudium Informations- und Kommunikationstechnik auch zum Sommersemester 2011 begonnen werden. 
+(3)<sup>1</sup> Das Bachelorstudium Informations- und Kommunikationstechnik beginnt jeweils zum Wintersemester.<sup>2</sup> Abweichend von Satz 1 kann das Bachelorstudium Informations- und Kommunikationstechnik auch zum Sommersemester 2011 begonnen werden. 
 
-(4)[1] Die Verteilung der Module auf die Regelstudienzeit ist der **Anlage 1** zu entnehmen.[2] Für das Sommersemesterangebot 2011 findet **Anlage 3** Anwendung. 
+(4)<sup>1</sup> Die Verteilung der Module auf die Regelstudienzeit ist der **Anlage 1** zu entnehmen.<sup>2</sup> Für das Sommersemesterangebot 2011 findet **Anlage 3** Anwendung. 
 
 (5) Im Ausland erbrachte gleichwertige Leistungsnachweise können auf Antrag im Umfang von bis zu 90 ECTS-Punkten anerkannt werden. 
 
@@ -50,7 +50,7 @@ Die Fachprüfungsordnung für den konsekutiven Bachelor- und Masterstudiengang I
 
 ## **§ 36 Masterstudiengang, Regelstudienzeit** 
 
-(1)[1] Das Masterstudium Informations- und Kommunikationstechnik baut konsekutiv auf dem Bachelorstudiengang Informations- und Kommunikationstechnik auf.[2] Es setzt sich aus Modulen im Gesamtumfang von 120 ECTS-Punkten zusammen und beinhaltet eine Masterarbeit mit einer Bearbeitungszeit von 6 Monaten. 
+(1)<sup>1</sup> Das Masterstudium Informations- und Kommunikationstechnik baut konsekutiv auf dem Bachelorstudiengang Informations- und Kommunikationstechnik auf.<sup>2</sup> Es setzt sich aus Modulen im Gesamtumfang von 120 ECTS-Punkten zusammen und beinhaltet eine Masterarbeit mit einer Bearbeitungszeit von 6 Monaten. 
 
 (2) Die Regelstudienzeit beträgt vier Semester. 
 
@@ -64,7 +64,7 @@ Die Fachprüfungsordnung für den konsekutiven Bachelor- und Masterstudiengang I
 
 ## **§ 37 Gliederung des Bachelorstudiums** 
 
-(1)[1] Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen zusammen.[2] **Anlage 1** gibt für alle Module das Semester und den Umfang von Vorlesungen, Übungen und Praktika in ECTS-Punkten sowie in Semesterwochenstunden an. 
+(1)<sup>1</sup> Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen zusammen.<sup>2</sup> **Anlage 1** gibt für alle Module das Semester und den Umfang von Vorlesungen, Übungen und Praktika in ECTS-Punkten sowie in Semesterwochenstunden an. 
 
 (2) Pflichtmodule sind die Module Nr. 1 bis 20 der **Anlage 1** . 
 
@@ -82,7 +82,7 @@ Die Fachprüfungsordnung für den konsekutiven Bachelor- und Masterstudiengang I
 
 ## **§ 38 Leistungsnachweise des Bachelorstudiums** 
 
-> 1Für die Module Nr. 1 bis 8, 10 bis 13, 15 und 17 bis 20 in **Anlage 1** werden schriftliche Prüfungen in der in **Anlage 1** angegebenen Dauer durchgeführt.[2] **Anlage 1** enthält für diese und alle übrigen Module die Angabe, ob Studien- oder Prüfungsleistungen als Leistungsnachweis benötigt werden. 
+> 1Für die Module Nr. 1 bis 8, 10 bis 13, 15 und 17 bis 20 in **Anlage 1** werden schriftliche Prüfungen in der in **Anlage 1** angegebenen Dauer durchgeführt.<sup>2</sup> **Anlage 1** enthält für diese und alle übrigen Module die Angabe, ob Studien- oder Prüfungsleistungen als Leistungsnachweis benötigt werden. 
 
 ## **§ 39 Grundlagen- und Orientierungsprüfung** 
 
@@ -90,15 +90,17 @@ Die Fachprüfungsordnung für den konsekutiven Bachelor- und Masterstudiengang I
 
 2 
 
-(2)[1] Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die Prüfungen der Module Nr. 1 und 2 gemäß **Anlage 1** bestanden sind und zusätzlich aus den Modulen Nr. 5, 6, 7, 13 und 15 gemäß der **Anlage 1** zusammen mindestens 12,5 ECTS- Punkte erreicht wurden.[2] Ein Modul nach Satz 1 gilt spätestens bei der erfolgreichen Erstwiederholung als für die Grundlagen- und Orientierungsprüfung gewählt. 3Die Grundlagen- und Orientierungsprüfung gilt vorbehaltlich § 7 Abs. 1 Satz 4, 2. Variante ABMPO/Tech als endgültig nicht bestanden, wenn sie nicht mehr im ersten Versuch der Module nach Satz 1 bestanden werden kann. 
+(2)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn die Prüfungen der Module Nr. 1 und 2 gemäß **Anlage 1** bestanden sind und zusätzlich aus den Modulen Nr. 5, 6, 7, 13 und 15 gemäß der **Anlage 1** zusammen mindestens 12,5 ECTS- Punkte erreicht wurden.<sup>2</sup> Ein Modul nach Satz 1 gilt spätestens bei der erfolgreichen Erstwiederholung als für die Grundlagen- und Orientierungsprüfung gewählt. 3Die Grundlagen- und Orientierungsprüfung gilt vorbehaltlich § 7 Abs. 1 Satz 4, 2. Variante ABMPO/Tech als endgültig nicht bestanden, wenn sie nicht mehr im ersten Versuch der Module nach Satz 1 bestanden werden kann. 
 
-**§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** (1) Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 120 ECTS-Punkte nachgewiesen werden. 
+## **§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** 
+
+(1) Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 120 ECTS-Punkte nachgewiesen werden. 
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 1 eine vorgezogene Zulassung zur Bachelorarbeit gewähren. 
 
 ## **§ 41 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Informations- und Kommunikationstechnik zu erlernen.[ 2] Zur Vergabe der Bachelorarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik sowie am Department Informatik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.[3] Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Informations- und Kommunikationstechnik zu erlernen.<sup>2</sup> Zur Vergabe der Bachelorarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik sowie am Department Informatik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.<sup>3</sup> Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
 
 (2) Die Bachelorarbeit besitzt einen Umfang von 10 ECTS-Punkten und wird ergänzt um ein Referat im Umfang von 2,5 ECTS-Punkten. 
 
@@ -110,7 +112,7 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 ## **§ 43 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informations- und Kommunikationstechnik.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informations- und Kommunikationstechnik.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak werden insbesondere anerkannt: 
 
 1. ein Bachelorabschluss in Elektrotechnik, Elektronik und Informationstechnik o- der einen Abschluss im Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik, 
 
@@ -136,7 +138,7 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 - Modul “Nachrichtentechnische Systeme” 
 
-(3)[1] In der mündlichen Prüfung gemäß Anlage Abs. 5 Satz 3 ff. ABMPO/TechFak werden die Bewerberinnen/Bewerber auf Basis folgender Kriterien beurteilt: 
+(3)<sup>1</sup> In der mündlichen Prüfung gemäß Anlage Abs. 5 Satz 3 ff. ABMPO/TechFak werden die Bewerberinnen/Bewerber auf Basis folgender Kriterien beurteilt: 
 
 - sichere Kenntnisse in den fachspezifischen Grundlagen, 
 
@@ -148,9 +150,9 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 ## **§ 44 Umfang und Gliederung des Masterstudiums** 
 
-(1)[1] Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen zusammen.[2] **Anlage 2** gibt für alle Module das Semester und den Umfang von Vorlesungen, Übungen und Praktika in Semesterwochenstunden und den Gesamtumfang in ECTS-Punkten an. 
+(1)<sup>1</sup> Das Studium setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und Wahlmodulen zusammen.<sup>2</sup> **Anlage 2** gibt für alle Module das Semester und den Umfang von Vorlesungen, Übungen und Praktika in Semesterwochenstunden und den Gesamtumfang in ECTS-Punkten an. 
 
-(2)[1] Zur fachspezifischen Profilbildung ist ein Schwerpunkt zu bilden.[2] Die Schwerpunkte sind 
+(2)<sup>1</sup> Zur fachspezifischen Profilbildung ist ein Schwerpunkt zu bilden.<sup>2</sup> Die Schwerpunkte sind 
 
 - Eingebettete Systeme, 
 
@@ -162,11 +164,11 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 - Übertragungstechnik und Mobilkommunikation. 
 
-3Für jeden Schwerpunkt gibt es einen Katalog von Pflichtmodulen und Wahlpflichtmodulen, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird.[4] Die Wahl eines Schwerpunkts erfolgt zum Zeitpunkt der Anmeldung zur ersten Prüfung nach der Zulassung zum Masterstudium. 
+3Für jeden Schwerpunkt gibt es einen Katalog von Pflichtmodulen und Wahlpflichtmodulen, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird.<sup>4</sup> Die Wahl eines Schwerpunkts erfolgt zum Zeitpunkt der Anmeldung zur ersten Prüfung nach der Zulassung zum Masterstudium. 
 
-(3)[1] Die Module Nr. 1 der **Anlage 2** sind Pflichtmodule, die im Schwerpunktkatalog beschrieben werden.[2] Für den Fall, dass bereits ein Modul aus dem Katalog der Pflichtmodule in den Bachelorstudiengang vorgezogen und dort erfolgreich absolviert wurde, ist ersatzweise eine Veranstaltung aus dem Katalog der Wahlpflichtmodule zu wählen. 
+(3)<sup>1</sup> Die Module Nr. 1 der **Anlage 2** sind Pflichtmodule, die im Schwerpunktkatalog beschrieben werden.<sup>2</sup> Für den Fall, dass bereits ein Modul aus dem Katalog der Pflichtmodule in den Bachelorstudiengang vorgezogen und dort erfolgreich absolviert wurde, ist ersatzweise eine Veranstaltung aus dem Katalog der Wahlpflichtmodule zu wählen. 
 
-(4)[1] Die Module Nr. 2 der **Anlage 2** sind Wahlpflichtmodule, die im Schwerpunktkatalog beschrieben werden.[2] Dabei sind jeweils Module im Umfang von mindestens 10 ECTS-Punkten aus dem Angebot des Departments Elektrotechnik-ElektronikInformationstechnik und dem Angebot des Departments Informatik zu wählen. 
+(4)<sup>1</sup> Die Module Nr. 2 der **Anlage 2** sind Wahlpflichtmodule, die im Schwerpunktkatalog beschrieben werden.<sup>2</sup> Dabei sind jeweils Module im Umfang von mindestens 10 ECTS-Punkten aus dem Angebot des Departments Elektrotechnik-ElektronikInformationstechnik und dem Angebot des Departments Informatik zu wählen. 
 
 (5) Die Module Nr. 3 der **Anlage 2** sind Wahlmodule, die aus dem Angebot des Departments Elektrotechnik-Elektronik-Informationstechnik und des Departments Informatik gewählt werden müssen. 
 
@@ -180,19 +182,19 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 (1) Spätestens bei der Zulassung zur ersten Prüfung der Masterprüfung muss die Wahl des Schwerpunktes nach § 44 Abs. 2 feststehen. 
 
-(2)[1] Die Art und Dauer der Prüfungen für die Pflichtmodule des Schwerpunktes sind dem Schwerpunktkatalog zu entnehmen.[2] Die Wahlpflichtmodule des Schwerpunkts sind durch Prüfungsleistungen nachzuweisen. 
+(2)<sup>1</sup> Die Art und Dauer der Prüfungen für die Pflichtmodule des Schwerpunktes sind dem Schwerpunktkatalog zu entnehmen.<sup>2</sup> Die Wahlpflichtmodule des Schwerpunkts sind durch Prüfungsleistungen nachzuweisen. 
 
-(3)[1] Die Wahlmodule und das Seminar werden durch Prüfungsleistungen nachgewiesen.[2] Das Praktikum oder die Projektarbeit werden durch Studienleistungen nachgewiesen. 
+(3)<sup>1</sup> Die Wahlmodule und das Seminar werden durch Prüfungsleistungen nachgewiesen.<sup>2</sup> Das Praktikum oder die Projektarbeit werden durch Studienleistungen nachgewiesen. 
 
 ## **§ 46 Voraussetzung für die Ausgabe der Masterarbeit** 
 
-(1)[1] Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, dass Leistungsnachweise gemäß § 44 im Umfang von mindestens 80 ECTS-Punkten nachgewiesen werden. 
+(1)<sup>1</sup> Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass Leistungsnachweise gemäß § 44 im Umfang von mindestens 80 ECTS-Punkten nachgewiesen werden. 
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 1 eine vorgezogene Zulassung zur Masterarbeit gewähren. 
 
 ## **§ 47 Masterarbeit** 
 
-(1)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Informations- und Kommunikationstechnik nachzuweisen.[2] Zur Vergabe der Masterarbeit sind alle am Department ElektrotechnikElektronik-Informationstechnik sowie am Department Informatik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.[3] Die Masterarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in der Regelbearbeitungszeit von sechs Monaten abgeschlossen werden kann.[4] Eine Verlängerung der Bearbeitungszeit um zwei Monate ist in begründeten Ausnahmefällen mit Zustimmung des Betreuers bzw. der Betreuerin zulässig. 
+(1)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Informations- und Kommunikationstechnik nachzuweisen.<sup>2</sup> Zur Vergabe der Masterarbeit sind alle am Department ElektrotechnikElektronik-Informationstechnik sowie am Department Informatik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.<sup>3</sup> Die Masterarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in der Regelbearbeitungszeit von sechs Monaten abgeschlossen werden kann.<sup>4</sup> Eine Verlängerung der Bearbeitungszeit um zwei Monate ist in begründeten Ausnahmefällen mit Zustimmung des Betreuers bzw. der Betreuerin zulässig. 
 
 (2) Die Masterarbeit einschließlich Referat besitzt einen Umfang von 30 ECTSPunkten. 
 
@@ -202,7 +204,7 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 (1) Das Masterstudium ist bestanden, wenn alle Module gemäß **Anlage 2** nachgewiesen sind. 
 
-(2)[1] Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 2** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTS-Punkte ein.[2] Für den Fall, dass die Summe der gemäß Nr. 4 in **Anlage 2** angerechneten Wahlmodule 15 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTSGewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 15 ECTSPunkten auf die Gesamtnote angerechnet. 
+(2)<sup>1</sup> Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 2** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTS-Punkte ein.<sup>2</sup> Für den Fall, dass die Summe der gemäß Nr. 4 in **Anlage 2** angerechneten Wahlmodule 15 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTSGewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 15 ECTSPunkten auf die Gesamtnote angerechnet. 
 
 ## **III. Teil: Schlussbestimmungen** 
 
@@ -214,120 +216,119 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 
 ## **Anlage 1** 
 
-||**Module**|**Umfang SWS**|**Umfang SWS**|**Umfang SWS**|||**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Art und Umfang der Prüfungs-**<br>**und Studienleistungen**|**GOP**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name (Modul bzw. Teilmodul)**|**V**|**Ü**|**P**|**1. Sem.**<br>**SWS**<br>**ECTS**||**2. Sem.**<br>**SWS**<br>**ECTS**||**3. Sem.**<br>**SWS**<br>**ECTS**||**4. Sem.**<br>**SWS**<br>**ECTS**||**5. Sem.**<br>**SWS**<br>**ECTS**||**6. Sem.**<br>**SWS**<br>**ECTS**||||
-|||||||**ECTS**||**ECTS**||**ECTS**||**ECTS**||**ECTS**||**ECTS**|||
-|1|Mathematik A 1|4|2||6|7,5|||||||||||SL: Lösen von Aufgaben<br>PL: 90 Min.(schriftl.)|●|
-|2|Mathematik A 2|5|3||||8|10|||||||||SL: Lösen von Aufgaben<br>PL: 120 Min.(schriftl.)|●|
-|3|Mathematik A 3|2|2||||||4|5|||||||SL: Lösen von Aufgaben<br>PL: 60 Min.(schriftl.)||
-|4|Stochastische Prozesse|2|2||||||||4|5|||||PL: 90 Min.(schriftl.)||
-|5|Einführungin die IuK-Technik|4|2||6|7,5|||||||||||PL: 120 Min.(schriftl.)|●|
-|6|Algorithmen und Datenstrukturen|4|2|2|8|10|||||||||||SL: Lösen von Aufgaben<br>PL: 120 Min.(schriftl.)|●|
-|7|Grundlagen der Rechnerarchitektur und -organisation|2|2||||4|5|||||||||PL: 90 Min. (schriftl.)|●|
-|8|Systemprogrammierung|4|2|2|||4|5|4|5|||||||PL: 120 Min.(schriftl.)||
-|9|Ereignisgesteuerte Systeme|2|2||||||4|5|||||||PL: 90 Min.(schriftl.)||
-|10|Algorithmik kontinuierlicher Systeme|4|2||||||||6|7,5|||||SL: Lösen von Aufgaben<br>PL: 90 Min.(schriftl.)||
-|11|Rechnerkommunikation|2|2||||||||4|5|||||SL: Lösen von Aufgaben<br>PL:90Min.(schriftl.)||
-|12|Grundlagen des Software Engineering|4|2||||||||6|7,5|||||PL: 90 Min.(schriftl.)||
-|13|Digitaltechnik|2|2||4|5|||||||||||PL: 90 Min.(schriftl.)|●|
-|14|Praktikum Software für die Mathematik|||2|||2|2,5|||||||||SL: Lösen von Aufgaben||
-|15|Elektronik und Schaltungstechnik|4|2||||6|7,5|||||||||PL: 120 Min.(schriftl.)|●|
-|16|Praktikum Elektronik und Schaltungstechnik|||3|||||3|2,5|||||||SL: Lösen von Aufgaben||
-|17|Signale und Systeme I|2|2||||||4|5|||||||PL: 90 Min. (schriftl.)<br>PL: 90 Min. (schriftl.)||
-||Signale und Systeme II|2|2||||||||4|5|||||||
-|18|Digitale Signalverarbeitung|2|2||||||||||4|5|||PL: 90 Min.(schriftl.)||
-|19|Nachrichtentechnische Systeme|3|1||||||||||4|5|||PL: 90 Min.(schriftl.)||
-|20|Digitale Übertragung|3|1||||||||||||4|5|PL: 90 Min.(schriftl.)||
-|21|Wahlpflichtmodule aus Katalogfür IuK|||||||||||||10|||PL||
-|22|Wahlmodule aus EEI und INF|||||||||||||||5|PL||
-|23|Wahlmodule außerhalb der TechFak|||||||||7,5||||5|||PL||
-|24|Seminar||||||||||||2|2,5|||PL||
-|25|Praktikum oder Projektarbeit|||||||||||||2,5|||SL||
-|26|Bachelorarbeit|||||||||||||||10|PL||
-|27|Referat zur Bachelorarbeit|||||||||||||||2,5|PL||
-|28|berufspraktische Tätigkeit(6 Wochen)|||||||||||||||7,5|SL||
-|||Summen SWS|||24||24||19||24||10||4||||
-|||Summen ECTS||||30||30||30||30||30||30|||
+||**Module**|**Um**|**fang SWS**|||**Semesterauftei**|**lung**|||
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Name (Modul bzw. Teilmodul)**|**V**|**Ü**<br>**P**|**1. Sem.**<br>**SWS**<br>**ECTS**|**2. Sem.**<br>**SWS**<br>**ECTS**|**3. Sem.**<br>**4. S**<br>**SWS**<br>**ECTS**<br>**SWS**|**em.**<br>**5. Sem.**<br>**6. Sem.**<br>**ECTS**<br>**SWS**<br>**ECTS**<br>**SWS**<br>**ECTS**|**Art und Umfang der Prüfungs-**<br>**und Studienleistungen**|**GOP**|
+|1|Mathematik A 1|4|2|6<br>7,5||||SL: Lösen von Aufgaben<br>PL: 90 Min.(schriftl.)|●|
+|2|Mathematik A 2|5|3||8<br>10|||SL: Lösen von Aufgaben<br>PL: 120 Min.(schriftl.)|●|
+|3|Mathematik A 3|2|2|||4<br>5||SL: Lösen von Aufgaben<br>PL: 60 Min.(schriftl.)||
+|4|Stochastische Prozesse|2|2|||4|5|PL: 90 Min.(schriftl.)||
+|5|Einführungin die IuK-Technik|4|2|6<br>7,5||||PL: 120 Min.(schriftl.)|●|
+|6|Algorithmen und Datenstrukturen|4|2<br>2|8<br>10||||SL: Lösen von Aufgaben<br>PL: 120 Min.(schriftl.)|●|
+|7|Grundlagen der Rechnerarchitektur und -organisation|2|2||4<br>5|||PL: 90 Min. (schriftl.)|●|
+|8|Systemprogrammierung|4|2<br>2||4<br>5|4<br>5||PL: 120 Min.(schriftl.)||
+|9|Ereignisgesteuerte Systeme|2|2|||4<br>5||PL: 90 Min.(schriftl.)||
+|10|Algorithmik kontinuierlicher Systeme|4|2|||6|7,5|SL: Lösen von Aufgaben<br>PL: 90 Min.(schriftl.)||
+|11|Rechnerkommunikation|2|2|||4|5|SL: Lösen von Aufgaben<br>PL:90Min.(schriftl.)||
+|12|Grundlagen des Software Engineering|4|2|||6|7,5|PL: 90 Min.(schriftl.)||
+|13|Digitaltechnik|2|2|4<br>5||||PL: 90 Min.(schriftl.)|●|
+|14|Praktikum Software für die Mathematik||2||2<br>2,5|||SL: Lösen von Aufgaben||
+|15|Elektronik und Schaltungstechnik|4|2||6<br>7,5|||PL: 120 Min.(schriftl.)|●|
+|16|Praktikum Elektronik und Schaltungstechnik||3|||3<br>2,5||SL: Lösen von Aufgaben||
+|17|Signale und Systeme I|2|2|||4<br>5||PL: 90 Min. (schriftl.)||
+||Signale und Systeme II|2|2|||4|5|PL: 90 Min. (schriftl.)||
+|18|Digitale Signalverarbeitung|2|2||||4<br>5|PL: 90 Min.(schriftl.)||
+|19|Nachrichtentechnische Systeme|3|1||||4<br>5|PL: 90 Min.(schriftl.)||
+|20|Digitale Übertragung|3|1||||4<br>5|PL: 90 Min.(schriftl.)||
+|21|Wahlpflichtmodule aus Katalogfür IuK||||||10|PL||
+|22|Wahlmodule aus EEI und INF||||||5|PL||
+|23|Wahlmodule außerhalb der TechFak|||||7,5|5|PL||
+|24|Seminar||||||2<br>2,5|PL||
+|25|Praktikum oder Projektarbeit||||||2,5|SL||
+|26|Bachelorarbeit||||||10|PL||
+|27|Referat zur Bachelorarbeit||||||2,5|PL||
+|28|berufspraktische Tätigkeit(6 Wochen)||||||7,5|SL||
+|||Sum|men SWS|24|24|19<br>24|10<br>4|||
+|||Sum|men ECTS|30|30|30|30<br>30<br>30|||
 
-**Erläuterungen:** V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems SL = Studienleistung; PL = Prüfungsleistung 
+- **Erläuterungen:** V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems SL = Studienleistung; PL = Prüfungsleistung 
 
 7 
 
 ## **Anlage 2** 
 
-|**Anlage 2**|**Anlage 2**||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Module**||**Semesteraufteilung**||||||||**Leistungsnachweis**|
-|**Nr**<br>**.**|**Name**|**1. Sem.**<br>**SWS**<br>**ECTS**||**2. Sem.**<br>**SWS**<br>**ECTS**||**3. Sem.**<br>**SWS**<br>**ECTS**||**4. Sem.**<br>**SWS**<br>**ECTS**|||
-||||**ECTS**||**ECTS**||**ECTS**||**ECTS**||
-|1|Pflichtmodulegemäß Schwerpunkt aus Katalog|8|10|4|5|||||Prüfungen|
-|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog|4|5|8|10|8|10|||PL|
-|3|Wahlmodule aus dem Angebot von EEI und Informatik|4|5|8|10|8|10|||PL|
-|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät|4|5|4|5|4|5|||PL|
-|5|Praktikum oder Projektarbeit|||||3|2,5|||SL|
-|6|Seminar|||||2|2,5|||PL|
-|7|Masterarbeit mit Referat||||||||30|PL|
-|8|berufspraktische Tätigkeit(4 Wochen)||5|||||||SL|
-|Summen SWS||20||24||25|||||
-|Summen ECTS|||30||30||30||30||
+||**Module**|||**Se**|**mester**|**aufte**|**ilung**||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr**<br>**.**|**Name**|**1. S**<br>**SWS**|**em.**<br>**ECTS**|**2. S**<br>**SWS**|**em.**<br>**ECTS**|**3. S**<br>**SWS**|**em.**<br>**ECTS**|**4. Sem.**<br>**SWS**<br>**ECTS**||
+|1|Pflichtmodulegemäß Schwerpunkt aus Katalog|8|10|4|5||||Prüfungen|
+|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog|4|5|8|10|8|10||PL|
+|3|Wahlmodule aus dem Angebot von EEI und Informatik|4|5|8|10|8|10||PL|
+|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät|4|5|4|5|4|5||PL|
+|5|Praktikum oder Projektarbeit|||||3|2,5||SL|
+|6|Seminar|||||2|2,5||PL|
+|7|Masterarbeit mit Referat|||||||30|PL|
+|8|berufspraktische Tätigkeit(4 Wochen)||5||||||SL|
+||Summen SWS|20||24||25||||
+||Summen ECTS||30||30||30|30||
 
 **Erläuterungen** : SL = Studienleistung; PL = Prüfungsleistung 
 
 8 
 
-## **Anlage 3:** Studienbeginn Sommersemester 2011 
+### **Anlage** **<u>3:</u>** <u>Studienbeginn Sommersemester 20</u> 
 
-|**Anlage 3:** StudienbeginnSommersemest|er 2011|||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
-|**Modul**|**GOP**|**ECTS**|**SWS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Modul**|**GOP**|**ECTS**|<br>**SWS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
 |**Mathematik A 1**||||||||||
-|Mathematik A 1|GOP|75|4|||||||
-|Mathematik A 1|GOP|,|2|||||||
+|Mathematik A 1<br>|GOP<br>|7,5|4<br>|||||||
+|Mathematik A 1<br>|GOP||2|||||||
 |**Mathematik A 2**||||||||||
-|Mathematik A 2|GOP|10|5|||||||
+|Mathematik A 2<br>|GOP<br>|10|5<br>|||||||
 |Mathematik A 2|GOP||3|||||||
-|**Mathematik A 3**||||||||||
-|Mathematik A 3|||2|||||||
+|**Mathematik A 3**<br>||||||||||
 |Mathematik A 3||5|2|||||||
+|Mathematik A 3|||2|||||||
 |**Stochastische Prozesse**||||||||||
 |Stochastische Prozesse|||2|||||||
 |Stochastische Prozesse||5|2|||||||
 |**Einführung in die IuK-Technik**||||||||||
-|Einführungin die IuK-Technik|GOP||4|||||||
-|Einführungin die IuK-Technik|GOP|7,5|2|||||||
+|Einführungin die IuK-Technik|GOP|75|4|||||||
+|Einführungin die IuK-Technik|GOP|,|2|||||||
 |**Algorithmen und Datenstrukturen**||||||||||
 |Algorithmen und Datenstrukturen|GOP||4|||||||
 |Algorithmen und Datenstrukturen|GOP|10|2|||||||
 |Algorithmen und Datenstrukturen|GOP||2|||||||
-|**Grundlagen der Rechnerarchitektur und**<br>**-organisation**||||||||||
+|**Grundlagen der Rechnerarchitektur und**<br>||||||||||
+|**-organisation**||||||||||
 |Grundlagen der Rechnerarchitektur und<br>-organisation|GOP|5|2|||||||
-|Grundlagen der Rechnerarchitektur und<br>-organisation|GOP||2|||||||
+|Grundlagen der Rechnerarchitektur und|GOP||2|||||||
+|-organisation||||||||||
 |**Systemprogrammierung**||||||||||
 |Systemprogrammierung|||4|||||||
 |Systemprogrammierung||10|2|||||||
 |Systemprogrammierung|||2|||||||
 |**Ereignisgesteuerte Systeme**||||||||||
-|Ereignisgesteuerte Systeme|||2|||||||
 |Ereignisgesteuerte Systeme||5|2|||||||
+|Ereignisgesteuerte Systeme|||2|||||||
 |**Algorithmik kontinuierlicher Systeme**||||||||||
-|Algorithmik kontinuierlicher Systeme||7|4|||||||
-|Algorithmik kontinuierlicher Systeme||,5|2|||||||
+|Algorithmik kontinuierlicher Systeme||75|4|||||||
+|Algorithmik kontinuierlicher Systeme||,|2|||||||
 |**Rechnerkommunikation**||||||||||
-|Rechnerkommunikation|||2|||||||
 |Rechnerkommunikation||5|2|||||||
+|Rechnerkommunikation|||2|||||||
 |**Grundlagen des Software Engineering**||||||||||
-|Grundlagen des Software Engineering||7|4|||||||
-|Grundlagen des Software Engineering||,5|2|||||||
+|Grundlagen des Software Engineering||75|4|||||||
+|Grundlagen des Software Engineering||,|2|||||||
 |**Digitaltechnik**||||||||||
 |Digitaltechnik|GOP||2|||||||
 |Digitaltechnik|GOP|5|2|||||||
 |**Praktikum Software für die Mathematik**||2,5|2|||||||
 |**Elektronik und Schaltungstechnik**||||||||||
-|Elektronik und Schaltungstechnik|GOP|7|4|||||||
-|Elektronik und Schaltungstechnik|GOP|,5|2|||||||
-|**Praktikum Elektronik und Schaltungs-**<br>**technik**||2,5|3|||||||
+|Elektronik und Schaltungstechnik|GOP||4|||||||
+|Elektronik und Schaltungstechnik|GOP|7,5|2|||||||
+|**Praktikum Elektronik und Schaltungs-**||25|3|||||||
+|**technik**||,||||||||
 |**Signale und Systeme I**||||||||||
 |**Signale und Systeme II**||||||||||
 |Signale und Systeme I|||2|||||||
@@ -338,17 +339,17 @@ Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** nachgew
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**ECTS**|**SWS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
-|Signale und Systeme II|||2|||||||
 |Signale und Systeme II||5|2|||||||
+|Signale und Systeme II|||2|||||||
 |**Digitale Signalverarbeitung**||||||||||
-|Digitale Signalverarbeitung|||2|||||||
 |Digitale Signalverarbeitung||5|2|||||||
+|Digitale Signalverarbeitung|||2|||||||
 |**Nachrichtentechnische Systeme**||||||||||
-|Nachrichtentechnische Systeme|||3|||||||
-|Nachrichtentechnische Systeme||5|1|||||||
+|Nachrichtentechnische Systeme||5|3|||||||
+|Nachrichtentechnische Systeme|||1|||||||
 |**Digitale Übertragung**||||||||||
-|Digitale Übertragung|||3|||||||
-|Digitale Übertragung||5|1|||||||
+|Digitale Übertragung||5|3|||||||
+|Digitale Übertragung|||1|||||||
 |**Wahlpflichtmodule aus Katalog für IuK**||10||||||||
 |**Wahlmodule aus EEI und INF**||5||||||||
 |**Wahlmodule außerhalb der TechFak**||||||||||

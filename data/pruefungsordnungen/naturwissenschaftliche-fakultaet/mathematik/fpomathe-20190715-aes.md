@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOMathe 20190715 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Mathematik/Aenderungssatzungen/FPOMathe_20190715_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:49:35+00:00
-page_count_chars: 27733
+scraped_at: 2026-07-01T09:12:53+00:00
+page_count_chars: 25691
 ---
 
 # FPOMathe 20190715 ÄS.pdf
@@ -66,7 +66,7 @@ d) Querschnittsmodul und Seminar (Nrn. 8 und 9 sowie § 44) und
 
 e) Schlüsselqualifikationen (§ 45) 
 
-zusammen.[2] Näheres ist den nachfolgenden Regelungen und der **Anlage 1** zu entnehmen.“ 
+zusammen.<sup>2</sup> Näheres ist den nachfolgenden Regelungen und der **Anlage 1** zu entnehmen.“ 
 
 7. § 39 wird zu § 41. 
 
@@ -74,15 +74,15 @@ zusammen.[2] Näheres ist den nachfolgenden Regelungen und der **Anlage 1** zu e
 
 ## „ **§ 42 Mathematische Wahlpflichtmodule** 
 
-(1)[1] Der Bereich der mathematischen Wahlpflichtmodule (Nrn. 6 und 7 der **Anlage 1b** ) umfasst 60 ECTS-Punkte.[2] Er gliedert sich in den Bereich der Theoretischen Mathematik und in den Bereich der Angewandten Mathematik.[3] Es sind mindestens 20 ECTS-Punkte aus jeweils einem der mathematischen Wahlpflichtbereiche zu wählen. 4Das Qualifikationsziel der mathematischen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten Kompetenzen zu vertiefen. 5Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[6] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Der Bereich der mathematischen Wahlpflichtmodule (Nrn. 6 und 7 der **Anlage 1b** ) umfasst 60 ECTS-Punkte.<sup>2</sup> Er gliedert sich in den Bereich der Theoretischen Mathematik und in den Bereich der Angewandten Mathematik.<sup>3</sup> Es sind mindestens 20 ECTS-Punkte aus jeweils einem der mathematischen Wahlpflichtbereiche zu wählen. 4Das Qualifikationsziel der mathematischen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten Kompetenzen zu vertiefen. 5Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>6</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Die Wahl der mathematischen Wahlpflichtmodule erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Wahlpflichtmodule aus dem zu wählenden mathematischen Wahlpflichtbereich.[2] Die mathematischen Wahlpflichtmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Die Wahl der mathematischen Wahlpflichtmodule erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Wahlpflichtmodule aus dem zu wählenden mathematischen Wahlpflichtbereich.<sup>2</sup> Die mathematischen Wahlpflichtmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.<sup>3</sup> Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der mathematischen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter 
+(3)<sup>1</sup> Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der mathematischen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter 
 
 2 
 
-des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungen in den mathematischen Wahlpflichtmodulen sind: 
+des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungen in den mathematischen Wahlpflichtmodulen sind: 
 
 1. schriftliche Prüfung (Klausur 60-120 Min.), 
 
@@ -104,13 +104,13 @@ des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.[2] Mögliche P
 
 10. Protokollheft ca. 30-45 Seiten) 
 
-sowie Kombinationen derselben.[3] Insbesondere ist in Fällen des § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** die Kombination einer schriftlichen oder mündlichen Prüfung mit Leistungen i. S. d. § 6 Abs. 4 **ABMPO/Mathe/NatFak** möglich.[4] Näheres regelt das Modulhandbuch. 
+sowie Kombinationen derselben.<sup>3</sup> Insbesondere ist in Fällen des § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** die Kombination einer schriftlichen oder mündlichen Prüfung mit Leistungen i. S. d. § 6 Abs. 4 **ABMPO/Mathe/NatFak** möglich.<sup>4</sup> Näheres regelt das Modulhandbuch. 
 
-(4)[1] Die Module im Umfang von 5 ECTS Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen.[2] Die Module im Umfang von 10 ECTS Punkten setzen sich in der Regel aus Vorlesungen (4 SWS) und Übungen (bis 3 SWS) zusammen.[3] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(4)<sup>1</sup> Die Module im Umfang von 5 ECTS Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen.<sup>2</sup> Die Module im Umfang von 10 ECTS Punkten setzen sich in der Regel aus Vorlesungen (4 SWS) und Übungen (bis 3 SWS) zusammen.<sup>3</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 ## **§ 43 Nebenfachwahlpflichtmodule** 
 
-- (1)[1] Nebenfachwahlpflichtmodule sind Modulpakete im Umfang von insgesamt 30 ECTS-Punkten.[2] Modulpakete können für folgende Nebenfächer gewählt werden: 
+- (1)<sup>1</sup> Nebenfachwahlpflichtmodule sind Modulpakete im Umfang von insgesamt 30 ECTS-Punkten.<sup>2</sup> Modulpakete können für folgende Nebenfächer gewählt werden: 
 
 1. Anorganische Chemie 
 
@@ -140,39 +140,39 @@ sowie Kombinationen derselben.[3] Insbesondere ist in Fällen des § 6 Abs. 2 Sa
 
 (2) § 42 Abs. 2 Sätze 1 und 2 gelten entsprechend. 
 
-(3)[1] Art und Umfang der Lehrveranstaltungen und der Prüfung in den Nebenfachwahlpflichtmodulen sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Modulpakets und der jeweils einschlägigen **Prüfungs-** bzw. **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch und der entsprechenden Auflistung nach Abs. 1 Sätze 2 und 3 zu entnehmen. 
+(3)<sup>1</sup> Art und Umfang der Lehrveranstaltungen und der Prüfung in den Nebenfachwahlpflichtmodulen sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Modulpakets und der jeweils einschlägigen **Prüfungs-** bzw. **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch und der entsprechenden Auflistung nach Abs. 1 Sätze 2 und 3 zu entnehmen. 
 
 ## **§ 44 Querschnittsmodul und Seminar** 
 
-(1)[1] Das Qualifikationsziel des Querschnittsmoduls und des Moduls Seminar (Nrn. 8 und 9 der **Anlage 1b** ) liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren.[2] Zweitens 
+(1)<sup>1</sup> Das Qualifikationsziel des Querschnittsmoduls und des Moduls Seminar (Nrn. 8 und 9 der **Anlage 1b** ) liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren.<sup>2</sup> Zweitens 
 
 3 
 
-wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen, sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen, sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
 (2) § 42 Abs. 2 bis 4 gelten entsprechend. 
 
 ## **§ 45 Schlüsselqualifikationen** 
 
-(1)[1] Die Schlüsselqualifikationen umfassen das Modul Nr. 11 der **Anlage 1b** .[2] Schlüsselqualifikationen können bzw. müssen aus den folgenden Modulangeboten gewählt werden: 
+(1)<sup>1</sup> Die Schlüsselqualifikationen umfassen das Modul Nr. 11 der **Anlage 1b** .<sup>2</sup> Schlüsselqualifikationen können bzw. müssen aus den folgenden Modulangeboten gewählt werden: 
 
-1.[1] Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend das Modul Programmierung wählen.[2] Für Studierende, die das Nebenfach Informatik gewählt haben, gilt § 33 Abs. 1 Satz 4 **ABMPOMathe/NatFak** entsprechend. 
+1.<sup>1</sup> Alle Studierenden, die nicht das Nebenfach Informatik gewählt haben, müssen verpflichtend das Modul Programmierung wählen.<sup>2</sup> Für Studierende, die das Nebenfach Informatik gewählt haben, gilt § 33 Abs. 1 Satz 4 **ABMPOMathe/NatFak** entsprechend. 
 
 2. Aus dem Angebot „Schlüsselqualifikationen“ der FAU. 
 
-3.[1] Englischsprachiges Modul „Introduction to Statistics and Statistical Programming“ gemäß **FPOWiMathe** .[2] Nr. 1 Satz 2 gilt entsprechend. 
+3.<sup>1</sup> Englischsprachiges Modul „Introduction to Statistics and Statistical Programming“ gemäß **FPOWiMathe** .<sup>2</sup> Nr. 1 Satz 2 gilt entsprechend. 
 
 3Die Teilnahme an einer Tutorenschulung mit einer zweisemestrigen Tutorentätigkeit am Department Mathematik sowie die Teilnahme an einem vom Prüfungsausschuss genehmigten Betriebspraktikum von (mindestens) vier Wochen Dauer können ebenfalls als Schlüsselqualifikation im Umfang von jeweils 5 ECTS-Punkten eingebracht werden. 
 
 (2) Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur (ersten) Prüfung im jeweiligen Modul bzw. durch Anmeldung zur Schulung bzw. zum Praktikum. 
 
-(3)[1] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik gelten § 42 Abs. 3 und 4 entsprechend.[2] Art und Umfang der Lehrveranstaltungen und der Prüfungen in Modulen anderer Departments und Fakultäten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **Prüfungs-** bzw. **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.“ 
+(3)<sup>1</sup> Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik gelten § 42 Abs. 3 und 4 entsprechend.<sup>2</sup> Art und Umfang der Lehrveranstaltungen und der Prüfungen in Modulen anderer Departments und Fakultäten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **Prüfungs-** bzw. **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.“ 
 
 9. Der bisherige § 40 wird zu § 46 und wie folgt geändert: 
 
    - a) Der bisherige Abs. 1 wird zur einzigen Regelung und Satz 3 der Vorschrift erhält folgende neue Fassung: 
 
-„[3] Voraussetzung für die Teilnahme an einem Bachelorseminar ist, dass das Querschnittsmodul (Nr. 8 gemäß **Anlage 1b** ) erfolgreich abgeschlossen wurde.“ 
+„<sup>3</sup> Voraussetzung für die Teilnahme an einem Bachelorseminar ist, dass das Querschnittsmodul (Nr. 8 gemäß **Anlage 1b** ) erfolgreich abgeschlossen wurde.“ 
 
 b) Abs. 2 wird gestrichen. 
 
@@ -190,7 +190,7 @@ b) Abs. 2 wird gestrichen.
 
 - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) Nach dem Wort „gemäß“ werden das Wort und die Zahl „ **Anlage 1** “ gestrichen. 
+aa) Nach dem Wort „gemäß“ werden das Wort und die Zahl „ **Anlage 1** “ gestrichen. 
 
 bb) Nach der Zahl und den Buchstaben „3 ff.“ wird das Wort „ **Anlage** “ eingefügt. 
 
@@ -200,13 +200,13 @@ bb) Nach der Zahl und den Buchstaben „3 ff.“ wird das Wort „ **Anlage** �
 
    - a) Vor Abs. 1 wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Das Masterstudium setzt sich aus Wahlpflichtmodulen der Studienrichtungen nach Abs. 2, Nebenfachwahlpflichtmodulen, dem freien Wahlmodul, dem Masterseminar und der Masterarbeit zusammen.[2] Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen.“ 
+„(1)<sup>1</sup> Das Masterstudium setzt sich aus Wahlpflichtmodulen der Studienrichtungen nach Abs. 2, Nebenfachwahlpflichtmodulen, dem freien Wahlmodul, dem Masterseminar und der Masterarbeit zusammen.<sup>2</sup> Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen.“ 
 
 - b) Der bisherige Abs. 1 wird zu Abs. 2 und in dessen Satz 2 werden nach dem Wort „vorschlagen“ ein Komma und die Worte „kann jedoch im Laufe des Studiums gewechselt werden“ angefügt. 
 
 - c) Der bisherige Abs. 2 wird zu Abs. 3 und erhält folgende neue Fassung: 
 
-„(3)[1] Das Masterstudium besteht aus den in **Anlage 2** genannten Modulen.[2] Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Aufteilung erworben werden: 
+„(3)<sup>1</sup> Das Masterstudium besteht aus den in **Anlage 2** genannten Modulen.<sup>2</sup> Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Aufteilung erworben werden: 
 
 1. mindestens 35 ECTS-Punkte aus den Modulen der gewählten Studienrichtung (siehe § 49), 
 
@@ -226,7 +226,7 @@ bb) Nach der Zahl und den Buchstaben „3 ff.“ wird das Wort „ **Anlage** �
 
 ## „ **§ 49 Wahlpflichtmodule der Studienrichtungen** 
 
-(1)[1] In den Wahlpflichtmodulen der Studienrichtungen werden wissenschaftliche Methodenkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[2] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[3] Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> In den Wahlpflichtmodulen der Studienrichtungen werden wissenschaftliche Methodenkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.<sup>2</sup> Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
 (2) Die einzelnen Studienrichtungen haben die folgenden fachspezifischen Qualifikationsziele: 
 
@@ -240,19 +240,19 @@ bb) Nach der Zahl und den Buchstaben „3 ff.“ wird das Wort „ **Anlage** �
 
 ## **§ 50 Nebenfachwahlpflichtmodule** 
 
-1Nebenfachwahlpflichtmodule können im Umfang von insgesamt 20 ECTS-Punkten aus aufeinander bezogenen Wahlmodulen aus dem gesamten Angebot der Masterstudiengänge der Universität mit Ausnahme der Angebote des Departments Mathematik gewählt werden.[2] § 43 Abs. 3 gilt entsprechend. 
+1Nebenfachwahlpflichtmodule können im Umfang von insgesamt 20 ECTS-Punkten aus aufeinander bezogenen Wahlmodulen aus dem gesamten Angebot der Masterstudiengänge der Universität mit Ausnahme der Angebote des Departments Mathematik gewählt werden.<sup>2</sup> § 43 Abs. 3 gilt entsprechend. 
 
 ## **§ 51 Freies Wahlmodul** 
 
-1Freie Wahlmodule können im Umfang von insgesamt 5 ECTS-Punkten aus dem gesamten Angebot der Universität gewählt werden.[2] § 45 Abs. 3 gilt entsprechend.“ 
+1Freie Wahlmodule können im Umfang von insgesamt 5 ECTS-Punkten aus dem gesamten Angebot der Universität gewählt werden.<sup>2</sup> § 45 Abs. 3 gilt entsprechend.“ 
 
 13. Der bisherige § 43 wird zu § 52 und wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „Jedem bzw. jeder“ durch die Worte „Jeder bzw. jedem“ und die Worte „Masterstudiengangs ein Mentor bzw.“ durch das Wort „Masterstudiums“ ersetzt und nach den Worten „eine Mentorin“ die Worte „bzw. ein Mentor“ eingefügt. 
+- aa) In Satz 1 werden die Worte „Jedem bzw. jeder“ durch die Worte „Jeder bzw. jedem“ und die Worte „Masterstudiengangs ein Mentor bzw.“ durch das Wort „Masterstudiums“ ersetzt und nach den Worten „eine Mentorin“ die Worte „bzw. ein Mentor“ eingefügt. 
 
-   - bb) In Satz 3 werden die Worte „wird ein Mentor bzw. eine Mentorin vorgeschlagen“ durch die Worte „kann die Bewerberin bzw. der Bewerber eine Mentorin bzw. einen Mentor vorschlagen“ ersetzt. 
+- bb) In Satz 3 werden die Worte „wird ein Mentor bzw. eine Mentorin vorgeschlagen“ durch die Worte „kann die Bewerberin bzw. der Bewerber eine Mentorin bzw. einen Mentor vorschlagen“ ersetzt. 
 
 6 
 
@@ -272,89 +272,70 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 auch für all diejenigen Studierenden, die bereits nach der FPOMathe in der Fassung vom 11. März 2015 studieren.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 auch für all diejenigen Studierenden, die bereits nach der FPOMathe in der Fassung vom 11. März 2015 studieren.“ 
 
 7 
 
-## 17. Die Anlagen erhalten folgende neue Fassung: 
-
-„ 
-
-## **Anlage 1: Bachelorstudiengang Mathematik** 
-
-## **1a: Curricular-Übersicht** 
-
-**==> picture [324 x 218] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Bachelorseminar und Bachelorarbeit<br>15 ECTS<br>Querschnittsmodul und Seminar<br>15 ECTS<br>Mathematische<br>Wahlpflichtmodule<br>Theoretische  Angewandte<br>Mathematik  Mathematik<br>20-40 ECTS  20-40 ECTS<br>Grundlagen<br>50 ECTS<br>10 ECTS  30 ECTS<br>Nebenfach<br>Schlüsselqualifikationen<br>**----- End of picture text -----**<br>
-
-1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 1b** ).[2] Zum Bestehen der GOP müssen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“ erworben werden (§ 41).[3] Im mathematischen Wahlpflichtbereich können Module der Theoretischen Mathematik und der Angewandten Mathematik aus dem entsprechenden Modulkatalog (vgl. § 42 Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke mindestens 20 ECTS-Punkte und aus beiden Blöcken zusammen in der Summe 60 ECTSPunkte erworben werden müssen.[4] Im Nebenfach (vgl. § 43) sollen Module im Gesamtumfang von 30 ECTS-Punkten belegt werden.[5] Für Art und Umfang der Lehrveranstaltungen und der Prüfungen im Wahlpflichtbereich und im Nebenfach gelten § 42 Abs. 3 bzw. § 43 Abs. 3. 
-
-8 
+# ~~3~~ 
 
 ## **Anlage 1b: Studienverlaufsplan Bachelorstudiengang Mathematik** 
 
-||Nr.|Modulbezeichnung|Lehrveranstaltung||||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||SWS||||||in ECTS-Punkten||||||
-|||||||||||1.|2.|3.|4.|5.|6.|Studienleistung|Modul-<br>|
-|||||V|Ü|P|S|T||Sem.|Sem.|Sem|Sem|Sem|Sem||note|
-|**Grundlagen**|**1**|Analysis I|Vorlesung Analysis I|4|||||10|6||||||Klausur 120 Min.<br>und Übungsleistung<br>(unbenotet)|0|
-||||Übung Analysis I||2|||||2||||||||
-||||Tafelübung Analysis I||2|||||2||||||||
-||**2**|Analysis II|Vorlesung Analysis II|4|||||10||6|||||Klausur 120 Min.<br>und Übungsleistung<br>(unbenotet)|0,5|
-||||Übung Analysis II||2||||||2|||||||
-||||Tafelübung Analysis II||2||||||2|||||||
-||**3**|Analysis III|Vorlesung Analysis III|4|||||10|||7||||Klausur 120 Min.<br>und Übungsleistung<br>(unbenotet)|1|
-||||Übung Analysis III||2|||||||2||||||
-||||Tafelübung Analysis III||1|||||||1||||||
-||**4**|Lineare Algebra I|Vorlesung Lineare Algebra I|4|||||10|6||||||Klausur 120 Min.<br>und Übungsleistung<br>(unbenotet)|0|
-||||Übung Lineare Algebra I||2|||||2||||||||
-||||Tafelübung Lineare Algebra I||2|||||2||||||||
-||**5**|Lineare Algebra II|Vorlesung Lineare Algebra II|4|||||10||6|||||Klausur 120 Min.<br>und Übungsleistung<br>(unbenotet)|0,5|
-||||Übung Lineare Algebra II||2||||||2|||||||
-||||Tafelübung Lineare Algebra II||2||||||2|||||||
-|||**Summe Grundlagen**||**20**|**19**|**0**|**0**|**0**|**50**|**20**|**20**|**10**|**0**|**0**|**0**|||
+||||||||Worklo|ad-Verteilu<br>|ng pro<br>|Semester<br>||Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||SWS|Gesamt|||in ECTS-|unkten||Art und Umfan der Prüfun/||
+|N<br>Mdlbih|Lhtlt||||||||||g  g|Mdl|
+|r.<br>ouezecnung|erveransaung|V|Ü|P<br>S|ECTS<br>T|1.<br>Sem.|<br>2.<br>Sem.|3.<br>Sem|4.<br>Sem|5.<br>Sem<br>6.<br>Sem|Studienleistung|ou-<br>note|
+||Vorlesung Analysis I|4||||6|||||Klausur 120 Min||
+|**1**<br>Analysis I|Übung Analysis I||2||10|2|||||.<br>und Übungsleistung<br>|0|
+||||||||||||(unbenotet)||
+||Tafelübung Analysis I||2|||2|||||||
+||Vorlesung Analysis II|4|||||6||||Klr 120 Min||
+|**2**<br>Analysis II|Übung Analysis II||2||10||2||||ausu  .<br>und Übungsleistung<br>|0,5|
+||Tafelübung Analysis II||2||||2||||(unbenotet)||
+||Vorlesung Analysis III|4||||||7|||Klausur 120 Min||
+|**agen**<br>**3**<br>Analysis III|Übung Analysis III||2||10|||2|||.<br>und Übungsleistung<br>|1|
+|**dl**|||||||||||(unbenotet)||
+|**run**|Tafelübung Analysis III||1|||||1|||||
+|**G**|Vorlesung Lineare Algebra I|4||||6|||||Klausur 120 Min||
+|**4**<br>Lineare Algebra I|Übung Lineare Algebra I||2||10|2|||||.<br>und Übungsleistung<br>|0|
+||||||||||||(unbenotet)||
+||Tafelübung Lineare Algebra I||2|||2|||||||
+||Vorlesung Lineare Algebra II|4|||||6||||l 2 i||
+|**5**<br>Lineare Algebra II|Übung Lineare Algebra II||2||10||2||||Kausur 10 Mn.<br>und Übungsleistung<br>|0,5|
+||Tafelübung Lineare Algebra II||2||||2||||(unbenotet)||
+|**Summe Grundlagen**||**20**|**19**|<br>**0**<br>**0**|**0**<br>**50**|**20**|**20**|**10**|**0**|**0**<br>**0**|||
 
 9 
 
-||Nr.|Modulbezeichnung|Lehrveranstaltung||||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||SWS||||||in ECTS-Punkten||||||
-|||||||||||1.|2.|3.|4.|5.|6.|Studienleistung|Modul-<br>|
-|||||V|Ü|P|S|T||Sem.|Sem.|Sem|Sem|Sem|Sem||note|
-|**Mathematische**<br>**Wahlpflichtmodule**|**6**|Wahlpflichtmodule aus dem<br>Katalog für Theoretische<br>Mathematik<br>gemäß § 42|vgl. § 42 Abs. 4||||||20-40|||||||vgl. § 42 Abs. 3|1|
-||**7**|Wahlpflichtmodule aus dem<br>Katalog für Angewandte<br>Mathematik<br>gemäß § 42|vgl. § 42 Abs. 4||||||20-40|||||||vgl. § 42 Abs. 3|1|
-|||**Summe Mathematischer Wahlpflichtbereich**|||||||**60**|**0**|**0**|**15**|**10**|**20**|**15**|||
-|**Nebenfach**|**10**|Nebenfach gemäß § 43|vgl. § 43 Abs. 3|||||||||||||vgl. § 43 Abs. 3|1|
-|||**Summe Nebenfach**|||||||**30**|**10**|**10**|**5**|**5**|**0**|**0**|||
-|**erschnittsmodul und**<br>**Seminar**|**8**|Querschnittsmodul<br>gemäß § 44|Vorlesung zum Querschnittsmodul|4|||||10||||7|||Mündliche Prüfung<br>(20 Min.) und Übungs-<br>leistung<br>(unbenotet)|1|
-||||Übung zum Querschnittsmodul||2||||||||2|||||
-||||Tafelübung zum Querschnitts-<br>modul||1||||||||1|||||
-||**9**|Seminar gemäß § 441|Aufbauseminar||||2||5|||||5||Seminarleistung gemäß<br>§ 44 i. V. m. § 42 Abs. 3|1|
-|**Qu**||**Summe Querschnittsmodul und Seminar**||**4**|**3**|**0**|**2**|**0**|**15**|**0**|**0**|**0**|**10**|**5**|**0**|||
+|Nr.|Modulbezeichnung|Lehrveranstaltung|V|Ü|SWS<br>P<br>S<br>T|Gesamt<br>ECTS|1.<br>Sem.|Workloa<br> <br>2.<br>Sem.|d-Verteilu<br>in ECTS-P<br>3.<br>Sem|ng pro<br>unkten<br>4.<br>Sem|Semester<br> <br>5.<br>Sem|<br>6.<br>Sem|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**ische**<br>**odule**<br>**6**|Wahlpflichtmodule aus dem<br>Katalog für Theoretische<br>Mathematik<br>gemäß § 42|vgl. § 42 Abs. 4||||20-40|||||||vgl. § 42 Abs. 3|1|
+|**Mathemat**<br>**Wahlpflichtm**<br>**7**|Wahlpflichtmodule aus dem<br>Katalog für Angewandte<br>Mathematik<br>gemäß § 42|vgl. § 42 Abs. 4||||20-40|||||||vgl. § 42 Abs. 3|1|
+||**Summe Mathematischer Wa**|**hlpflichtbereich**||||**60**|**0**|**0**|**15**|**10**|**20**|**15**|||
+|**Nebenfach**<br>**10**|Nebenfach gemäß § 43|vgl. § 43 Abs. 3|||||||||||vgl. § 43 Abs. 3|1|
+||**Summe Nebenfach**|||||**30**|**10**|**10**|**5**|**5**|**0**|**0**|||
+|**nd**||Vorlesung zum Querschnittsmodul|4|||||||7|||Mündliche Prüfung||
+|**odul u**<br>**r**<br>**8**|Querschnittsmodul<br>gemäß § 44|Übung zum Querschnittsmodul||2||10||||2|||(20 Min.) und Übungs-<br>leistung|1|
+|**ittsm**<br>**emina**||Tafelübung zum Querschnitts-<br>modul||1||||||1|||(unbenotet)||
+|**uerschn**<br>**S**<br>**9**|Seminar gemäß § 44<sup>1</sup>|Aufbauseminar|||2|5|||||5||Seminarleistung gemäß<br>§ 44 i. V. m. § 42 Abs. 3|1|
+|**Q**|**Summe Querschnittsmodul u**|**nd Seminar**|**4**|**3**|**0**<br>**2**<br>**0**|**15**|**0**|**0**|**0**|**10**|**5**|**0**|||
 
 10 
 
-||Nr.|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||in ECTS-Punkten||||||
-|||||||||||1.|2.|3.|4.|5.|6.|Studienleistung|Modul-<br>|
-|||||V|Ü|P|S|T||Sem.|Sem.|Sem|Sem|Sem|Sem||note|
-|**Schlüssel-**<br>**qualifikationen**||Schlüsselqualifikationen<br>gemäß § 45|vgl. § 45|Abs. 3|||||10|||||||vgl. § 45 Abs. 3|0|
-|||**Summe Schlüsselqualifikationen**|||||||**10**|**0**|**0**|**0**|**5**|**5**|**0**|||
-|**Bachelorseminar und**<br>**Bachelorarbeit**|**12**|Bachelorseminar|Bachelorseminar||||2||5||||||5|Seminarleistung gemäß<br>§ 6 Abs. 4 und 5<br>**ABMPOMathe/NatFak**|0|
-||**13**|Bachelorarbeit|||||||10||||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1,5|
-|||**Summe Bachelorarbeit**||**0**|**0**|**0**|**2**|**0**|**15**||||||**15**|||
-|||Summe SWS (mind.)2und ECTS-Punkte||24|22|0|4|0|180|30|30|30|30|30|30|||
-|||||502||||||||||||||
+|Nr.<br>Modulbezeichnung<br>Lehrveranstaltung|V<br>Ü|SWS<br>P<br>S<br>T|Gesamt<br>ECTS|Workloa<br>1.<br>Sem.<br>2.<br>Sem.|d-Verteilu<br>in ECTS-P<br>3.<br>Sem|ng pro<br>unkten<br>4.<br>Sem|Semester<br> <br>5.<br>Sem|<br>6.<br>Sem|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Schlüssel-**<br>**qualifikationen**<br>Schlüsselqualifikationen<br>gemäß § 45|vgl. § 45 Abs. 3||10||||||vgl. § 45 Abs. 3|0|
+|**Summe Schlüsselqualifikationen**|||**10**|**0**<br>**0**|**0**|**5**|**5**|**0**|||
+|**nar und**<br>**beit**<br>**12**<br>Bachelorseminar<br>Bachelorseminar||2|5|||||5|Seminarleistung gemäß<br>§ 6 Abs. 4 und 5<br>**ABMPOMathe/NatFak**|0|
+|**lorsemi**<br>**chelorar**<br>**13**<br>Bachelorarbeit|||10|||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1,5|
+|**Bache**<br>**Ba**<br>**Summe Bachelorarbeit**|**0**<br>**0**|**0**<br>**2**<br>**0**|**15**|||||**15**|||
+|Summe SWS (mind.)<sup>2</sup>und ECTS-Punkte|24<br>22|0<br>4<br>0<br>50<sup>2</sup>|180|30<br>30|30|30|30|30|||
 
 - 1 Das Modul kann wahlweise im 4. oder 5. Semester belegt werden. 
 
 - 2 Die Zahl erhöht sich um die Veranstaltungen der Mathematischen Wahlpflichtmodule, des Nebenfachs und der Schlüsselqualifikation. 
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
 Übungsleistung: vgl. § 6 Abs. 4 **ABMPOMathe/NatFak** . 
 
@@ -364,12 +345,10 @@ Bachelorseminar und Bachelorarbeit<br>15 ECTS<br>Querschnittsmodul und Seminar<b
 
 **Anlage 2a** Curricular-Übersicht 
 
-**==> picture [313 x 211] intentionally omitted <==**
+<!-- Start of picture text -->
+Masterarbeit<br>30 ECTS-Punkte<br>Masterseminar<br>5 ECTS-Punkte<br>Freies Wahlmodul<br>5 ECTS-Punkte<br>Hauptstudienrichtung<br>35 ECTS-Punkte<br>Nebenfach<br>25 ECTS-Punkte  20 ECTS-Punkte<br>Nebenstudienrichtung<br><!-- End of picture text -->
 
-**----- Start of picture text -----**<br>
-Masterarbeit<br>30 ECTS-Punkte<br>Masterseminar<br>5 ECTS-Punkte<br>Freies Wahlmodul<br>5 ECTS-Punkte<br>Hauptstudienrichtung<br>35 ECTS-Punkte<br>Nebenfach<br>25 ECTS-Punkte  20 ECTS-Punkte<br>Nebenstudienrichtung<br>**----- End of picture text -----**<br>
-
-1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 2b** ).[2] Zu Beginn des Masterstudiums wird im Rahmen einer individuellen Studienvereinbarung eine Hauptstudienrichtung aus den folgenden Studienrichtungen gewählt: 
+1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 2b** ).<sup>2</sup> Zu Beginn des Masterstudiums wird im Rahmen einer individuellen Studienvereinbarung eine Hauptstudienrichtung aus den folgenden Studienrichtungen gewählt: 
 
 1. Algebra und Geometrie (AG) 
 
@@ -377,51 +356,35 @@ Masterarbeit<br>30 ECTS-Punkte<br>Masterseminar<br>5 ECTS-Punkte<br>Freies Wahlm
 
 3. Modellierung, Simulation und Optimierung (MSO); 
 
-Näheres regelt § 49.[3] Der genaue Studienverlaufsplan zur Haupt- und Nebenstudienrichtung sowie zum Nebenfach wird mit der Mentorin bzw. dem Mentor zu Beginn des Masterstudiums besprochen und in einer individuellen Studienvereinbarung fixiert (vgl. § 52). 
+Näheres regelt § 49.<sup>3</sup> Der genaue Studienverlaufsplan zur Haupt- und Nebenstudienrichtung sowie zum Nebenfach wird mit der Mentorin bzw. dem Mentor zu Beginn des Masterstudiums besprochen und in einer individuellen Studienvereinbarung fixiert (vgl. § 52). 
 
 12 
 
 ## **Anlage 2b: Studienverlaufsplan Masterstudiengang Mathematik** 
 
-||||||||Gt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|At d Uf d Püf/|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||SWS||||||||||
-||Modulbezeichnung|Lehrveranstaltung|||||esam<br>|em|eser n|-u|en|r un mang er rung<br>||
-|||||||||||||||
-||||V|Ü|P|S|ECTS|1.<br>Sem.|2.|3.|4.|Studienleistung||
-||||||||||Sem.|Sem.|Sem.|||
-|**Studien-**<br>**richtung**|Wahlpflichtmodule aus Katalog für<br>Hauptstudienrichtung gemäß § 48<br>Abs. 3 Nr. 1 i. V. m. § 49|vgl. § 49 Abs.||||||15|10|10||vgl. § 49 Abs. 3|1|
-||||4|||||||||||
-|||||||||||||||
-||**Summe Wahlpflichtbereich Studienrichtung**||||||**35**|**15**|**10**|**10**|**0**|||
-|**Nebenstu-**<br>**dienrich-**<br>**tung**|Wahlpflichtmodule aus Katalog für<br>Nebenstudienrichtung gemäß § 48<br>Abs.3Nr. 2 i. V. m.§49|vgl. § 49 Abs.|4|||||10|10|5||vgl. § 49 Abs. 3|1|
-||**Summe Wahlpflichtbereich Nebenstudienrichtung**||||||**25**|**10**|**10**|**5**|**0**|||
-|**Nebenfach**|Nebenfachmodule gemäß § 48<br>Abs. 3 Satz 2 Nr. 3 i. V. m. § 50|vgl. § 50||||||||||vgl. § 50|1|
-|||||||||||||||
-|||||||||||||||
-||**Summe Nebenfach (W-NF) gemäß §**<br>**§ 50**|**48 Abs. 3 Satz 2 Nr. 3 i. V. m.**|||||**20**|**5**|**10**|**5**|**0**|||
-|**Freies**<br>**Wahlmodul**|Freies Wahlmodul gemäß § 48<br>Abs. 3 Satz 2 Nr. 4 i. V. m. § 51|vgl. § 51 Abs.||||||||5||vgl. § 51 Abs. 2|1|
-||||2|||||||||||
-|||||||||||||||
-||**Summe Freies Wahlmodul gemäß §**|**48 Abs. 3 Satz 2 Nr. 4**|||||**5**|**0**|**0**|**5**|**0**|||
-|**Master-**<br>**seminar**|Masterseminar gemäß § 48 Abs. 3<br>Satz 2 Nr. 5|Masterseminar||||2||||5||Seminarleistung|1|
-||**Summe Masterseminar gemäß § 48**|**Abs. 3 Satz 2 Nr. 5**|**0**|**0**|**0**|**5**|**5**|**0**|**0**|**5**|**0**|||
-|**Master-**<br>**arbeit**|Masterarbeit gemäß § 48 Abs. 3<br>Satz 2 Nr. 6 i. V. m. § 55|Masterarbeit|||||30||||25|Masterarbeit<br>(ca. 60 Seiten; 85 %) und<br>Vortrag mit mündlicher Prü-<br>fung (ca. 60 + 15 Min.; 15 %)|1|
-|||Masterkolloquium||||||||||||
-||||||||||||5|||
-|||||||||||||||
+|||SWS|Gesamt|W<br>Se|orkload-<br>ester in|Verteilung<br>ECTS-Pu|pro<br>nkten|Art und Umfan der Prüfun/|Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+||Modulbezeichnung<br>Lehrveranstaltung||<br>|<br>|<br>|<br>|<br>|g  g<br>|Modul-|
+||<br>|V<br>Ü<br>P<br>S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|Studienleistung|note|
+|**dien-**<br>**tung**|Wahlpflichtmodule aus Katalog für<br>Hauptstudienrichtung gemäß § 48<br>Abs. 3 Nr. 1 i. V. m. § 49<br>vgl. § 49 Abs.|4||15|10|10||vgl. § 49 Abs. 3|1|
+|**Stu**<br>**rich**|**Summe Wahlpflichtbereich Studienrichtung**||**35**|**15**|**10**|**10**|**0**|||
+|**nstu-**<br>**rich-**<br>**ng**|Wahlpflichtmodule aus Katalog für<br>Nebenstudienrichtung gemäß § 48<br>Abs.3Nr. 2 i. V. m.§49<br>vgl. § 49 Abs.|4||10|10|5||vgl. § 49 Abs. 3|1|
+|**Nebe**<br>**dien**<br>**tu**|**Summe Wahlpflichtbereich Nebenstudienrichtung**||**25**|**10**|**10**|**5**|**0**|||
+|**nfach**|Nebenfachmodule gemäß § 48<br>Abs. 3 Satz 2 Nr. 3 i. V. m. § 50<br>vgl. § 50|||||||vgl. § 50|1|
+|**Nebe**|**Summe Nebenfach (W-NF) gemäß § 48 Abs. 3 Satz 2 Nr. 3 i. V. m.**<br>**§ 50**||**20**|**5**|**10**|**5**|**0**|||
+|**eies**<br>**modul**|Freies Wahlmodul gemäß § 48<br>Abs. 3 Satz 2 Nr. 4 i. V. m. § 51<br>vgl. § 51 Abs.|2||||5||vgl. § 51 Abs. 2|1|
+|**Fr**<br>**Wahl**|**Summe Freies Wahlmodul gemäß § 48 Abs. 3 Satz 2 Nr. 4**||**5**|**0**|**0**|**5**|**0**|||
+|**ster-**<br>**inar**|Masterseminar gemäß § 48 Abs. 3<br>Satz 2 Nr. 5<br>Masterseminar|2||||5||Seminarleistung|1|
+|**Ma**<br>**sem**|**Summe Masterseminar gemäß § 48 Abs. 3 Satz 2 Nr. 5**|**0**<br>**0**<br>**0**<br>**5**|**5**|**0**|**0**|**5**|**0**|||
+|**ter-**<br>**eit**|Masterarbeit gemäß § 48 Abs. 3<br>Masterarbeit||30||||25|Masterarbeit<br>(ca. 60 Seiten; 85 %) und|1|
+|**Mas**<br>**arb**|Satz 2 Nr. 6 i. V. m. § 55<br>Masterkolloquium||||||5|Vortrag mit mündlicher Prü-<br>fung (ca. 60 + 15 Min.; 15 %)||
 
 13 
 
-||||SWS|SWS|SWS|SWS|Gt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|Workload-Verteilung pro<br>St i ECTSPkt|At d Uf d Püf/|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Modulbezeichnung|Lehrveranstaltung|||||esam<br>|emeser n-unen||||r un mang er rung<br>||
-|||||||||||||||
-||||V|Ü|P|S|ECTS|1.<br>Sem.|2.|3.|4.|Studienleistung||
-||||||||||Sem.|Sem.|Sem.|||
-||**Summe Masterarbeit gemäß § 48 Abs. 3 Satz 2  6 i. V. m. § 55**||||||**30**|**0**|**0**|**0**|**30**|||
-||**Summen SWS (mind.)1 und ECTS-Punkte**||0|0|0|2|**120**|**30**|**30**|**30**|**30**|||
-||||21|||||||||||
+|Modulbezeichnung<br>Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-<br>Semester in<br>1.<br>Sem.<br>2.<br>Sem.|Verteilung<br>ECTS-Pu<br>3.<br>Sem.|pro<br>nkten<br>4.<br>Sem.|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Summe Masterarbeit gemäß § 48 Abs. 3 Satz 2  6 i. V. m. § 55**||**30**|**0**<br>**0**|**0**|**30**|||
+|**Summen SWS (mind.)**<sup>**1**</sup>**und ECTS-Punkte**|0<br>0<br>0<br>2<br>2<sup>1</sup>|**120**|**30**<br>**30**|**30**|**30**|||
 
 1 Die Zahl erhöht sich um die Veranstaltungen der Studienrichtung, der Nebenstudienrichtung, des Nebenfachs und des freien Wahlmoduls.“ 
 
@@ -431,7 +394,7 @@ Näheres regelt § 49.[3] Der genaue Studienverlaufsplan zur Haupt- und Nebenstu
 
 ## **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 (lfd. Nrn. 3 bis 5) auch für all diejenigen Studierenden, die bereits nach der **FPOMathe** in der Fassung vom 11. März 2015 studieren. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 (lfd. Nrn. 3 bis 5) auch für all diejenigen Studierenden, die bereits nach der **FPOMathe** in der Fassung vom 11. März 2015 studieren. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 26. Juni 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 15. Juli 2019. 
 
@@ -439,49 +402,5 @@ Erlangen, den 15. Juli 2019
 [Kontaktperson entfernt]
 Die Satzung wurde am 15. Juli 2019 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 15. Juli 2019 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 15. Juli 2019. 
 
-15
-
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-### OCR Seite 8
-
-```
-17. Die Anlagen erhalten folgende neue Fassung:
-Anlage 1: Bachelorstudiengang Mathematik
-1a: Curricular-Übersicht
-e
-Querschnittsmodul und Seminar
-e
-15 ECTS
-2
-& 7)
-Mathematische
-SQ
-Wahlpflichtmodule
-3 =
-Theoretische
-Angewandte
-:5
-Mathematik
-Mathematik
-5
-20-40 ECTS
-20-40 ECTS
-!Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der
-folgenden Darstellung des (Muster-)Studienverlaufs (vgl. Anlage 1b). ?Zum Bestehen der
-GOP müssen mindestens 30 ECTS-Punkte aus den Modulen des Blocks „Grundlagen“
-erworben werden (8 41). ?im mathematischen Wahlpflichtbereich können Module der The-
-oretischen Mathematik und der Angewandten Mathematik aus dem entsprechenden Mo-
-dulkatalog (vgl.
-8 42 Abs. 2) frei gewählt werden wobei aus jedem dieser beiden Blöcke
-mindestens 20 ECTS-Punkte und aus beiden Blöcken zusammen in der Summe 60 ECTS-
-Punkte erworben werden müssen. *im Nebenfach (vgl.
-8 43) sollen Module im Gesamt-
-umfang von 30 ECTS-Punkten belegt werden. ®Für Art und Umfang der Lehrveranstaltun-
-gen und der Prüfungen im Wahlpflichtbereich und im Nebenfach gelten 8 42 Abs. 3 bzw.
-8 43 Abs. 3.
-8
-```
+15 
 

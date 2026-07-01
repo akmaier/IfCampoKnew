@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES_EliteMA_AdvancOpticTechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:57:16+00:00
-page_count_chars: 6289
+scraped_at: 2026-07-01T11:20:25+00:00
+page_count_chars: 6337
 ---
 
 # 26. Juli 2013
@@ -12,7 +12,7 @@ page_count_chars: 6289
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES_EliteMA_AdvancOpticTechn.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 26. Juli 2013 
 
@@ -30,7 +30,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
    - b) Nach Satz 3 wird folgender Satz 4 angefügt: 
 
-      - „[4] Ausnahmen hiervon bedürfen der Zustimmung des Prüfungsausschusses.“ 
+      - „<sup>4</sup> Ausnahmen hiervon bedürfen der Zustimmung des Prüfungsausschusses.“ 
 
 3. In § 38 wird jeweils das Wort „Zulassungskommission“ durch das Wort „Zugangskommission“ ersetzt. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
@@ -56,21 +56,19 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 1 
 
-„(1)[1] Es ist eine Projektarbeit der Modulgruppen M 15 durchzuführen.[2] Diese dient dazu, die selbständige Bearbeitung von Aufgabenstellungen zu erlernen.[3] Sie muss mit Nennung des Abgabetermins bei der MAOT-Geschäftsstelle angemeldet werden und die schriftliche Ausarbeitung ist zum Abgabetermin bei der Geschäftsstelle abzugeben.[5] Die Projektarbeit ist in ihren Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden abgeschlossen werden kann.[6] Der Bearbeitungszeitraum darf in der Regel sechs Monate nicht überschreiten.“ 
+„(1)<sup>1</sup> Es ist eine Projektarbeit der Modulgruppen M 15 durchzuführen.<sup>2</sup> Diese dient dazu, die selbständige Bearbeitung von Aufgabenstellungen zu erlernen.<sup>3</sup> Sie muss mit Nennung des Abgabetermins bei der MAOT-Geschäftsstelle angemeldet werden und die schriftliche Ausarbeitung ist zum Abgabetermin bei der Geschäftsstelle abzugeben.<sup>5</sup> Die Projektarbeit ist in ihren Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden abgeschlossen werden kann.<sup>6</sup> Der Bearbeitungszeitraum darf in der Regel sechs Monate nicht überschreiten.“ 
 
    - b)  In Abs. 2 werden die Worte „Projektarbeit ist“ durch die Worte „Projektarbeit ist vorzugsweise“ ersetzt. 
 
 9. § 44 erhält folgende neue Fassung: 
 
-## „ **§ 44 Forschungspraktikum** 
+# „ **§ 44 Forschungspraktikum** 
 
-1Das mindestens fünfwöchige Forschungspraktikum wird vorzugsweise in einem für den Studiengang relevanten Arbeitsgebiet an der Technischen, Naturwissenschaftlichen oder Medizinischen Fakultät der Universität Erlangen-Nürnberg abgeleistet.[2] Wird das Forschungspraktikum außerhalb der Universität Erlangen-Nürnberg abgeleistet, so gelten die Praktikumsrichtlinien von MAOT.“ 
+1Das mindestens fünfwöchige Forschungspraktikum wird vorzugsweise in einem für den Studiengang relevanten Arbeitsgebiet an der Technischen, Naturwissenschaftlichen oder Medizinischen Fakultät der Universität Erlangen-Nürnberg abgeleistet.<sup>2</sup> Wird das Forschungspraktikum außerhalb der Universität Erlangen-Nürnberg abgeleistet, so gelten die Praktikumsrichtlinien von MAOT.“ 
 
 10. In § 45 Abs. 2 Satz 1 wird das Wort „Zulassungskommission“ durch das Wort „Zugangskommission“ ersetzt. 
 
-11. 
-
-- § 47 wird wie folgt geändert: 
+11. § 47 wird wie folgt geändert: 
 
 a) In Abs. 2 wird die Zahl „15“ durch die Zahl „17“ ersetzt. 
 
@@ -84,15 +82,14 @@ a) In Abs. 2 wird die Zahl „15“ durch die Zahl „17“ ersetzt.
 
       - „ � Physics of Light“ 
 
-## b) Die Zeilen 6 bis 8 (Modul M 2) erhalten folgende Fassung: 
+# b) Die Zeilen 6 bis 8 (Modul M 2) erhalten folgende Fassung: 
 
 „ 
 
-|M 2|Grundlagenfach 4|3|2|1||P|**5**|
-|---|---|---|---|---|---|---|---|
-|M 3|Grundlagenfach 5|2|2|1||P|**5**|
-|M 4|Grundlagenfach 6|2|2|1||P|**5**|
-|||||||||
+|M 2|Grundlagenfach 4|3|2|1|P<br>**5**|
+|---|---|---|---|---|---|
+|M 3|Grundlagenfach 5|2|2|1|P<br>**5**|
+|M 4|Grundlagenfach 6|2|2|1|P<br>**5**<br>„|
 
 - c) Die bisherigen Module M 3 bis M 15 (Spalte 1) werden zu Modulen M 5 bis M 17. 
 
@@ -116,7 +113,7 @@ a) In Abs. 2 wird die Zahl „15“ durch die Zahl „17“ ersetzt.
 
    - d) In Abs. 6 Satz 3 wird das Wort „Eignungsfeststellungsverfahren“ durch das Wort „Qualifikationsfeststellungsverfahren“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Sie gilt für alle Studierenden, die das Masterstudium ab dem Wintersemester 2013/14 aufnehmen. 
 

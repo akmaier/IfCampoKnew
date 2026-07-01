@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. September 2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-Maschinenbau.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:28:14+00:00
-page_count_chars: 13851
+scraped_at: 2026-07-01T11:44:54+00:00
+page_count_chars: 13794
 ---
 
 # 11. September 2001
@@ -12,7 +12,7 @@ page_count_chars: 13851
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-Maschinenbau.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg** 
 
 ## Vom 11. September 2001 
 
@@ -36,15 +36,17 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinen
 
 4. § 4 erhält folgende Fassung: 
 
-## **„§ 4 Studienbegleitende Ablegung der Diplomvorprüfung und Diplomhauptprüfung, Leistungspunktsystem** 
+## **„§ 4 Leistungspunktsystem** 
+
+## **Studienbegleitende Ablegung der Diplomvorprüfung und Diplomhauptprüfung,** 
 
    - (1)  Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden nach Abschluss einer Lehrveranstaltung in der Regel in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum studienbegleitend abgelegt. 
 
-   - (2) 1Die Prüfungen werden nach dem Leistungspunktsystem erbracht. 2Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.[3] Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den in § 8 Abs. 5 für die Diplomvorprüfung und in § 13 Abs. 3 für die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet.“ 
+   - (2) 1Die Prüfungen werden nach dem Leistungspunktsystem erbracht. 2Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.<sup>3</sup> Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den in § 8 Abs. 5 für die Diplomvorprüfung und in § 13 Abs. 3 für die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet.“ 
 
 5. Vor § 5 wird folgende Überschrift eingefügt: 
 
-## **„I. Diplomvorprüfung“** 
+# **„I. Diplomvorprüfung“** 
 
 6.  §§ 6 bis 8 erhalten folgende Fassung: 
 
@@ -76,7 +78,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinen
 
 - (3) Werden Prüfungen in Teilprüfungen abgelegt, so ist die erstmalige Ablegung der ersten Teilprüfung Voraussetzung für die Zulassung zur zweiten Teilprüfung. 
 
-- (4) 1Der zum Erwerb der Scheine nach Absatz 1 und 2 erforderliche Wissenstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn einer Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Ein nicht erfolgreich absolvierter Leistungsnachweis (Schein) kann zweimal wiederholt werden. 
+- (4) 1Der zum Erwerb der Scheine nach Absatz 1 und 2 erforderliche Wissenstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn einer Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Ein nicht erfolgreich absolvierter Leistungsnachweis (Schein) kann zweimal wiederholt werden. 
 
 ## **§ 7** 
 
@@ -108,9 +110,9 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinen
 
 ## **Bestehen der Diplomvorprüfung, Wiederholung** 
 
-- (1)[1] Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend“ lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.[3] Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß **Anlage 1** gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
+- (1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend“ lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.<sup>3</sup> Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß **Anlage 1** gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
 
-- (2)[1] In das Diplomvorprüfungszeugnis werden die in § 7 Abs. 1 genannten Fächer mit den erzielten Fachnoten aufgenommen. ²Ferner wird im Diplomvorprüfungszeugnis die erfolgreiche Teilnahme der in § 6 Abs. 2 Nr. 1 genannten Lehrveranstaltungen bescheinigt. 
+- (2)<sup>1</sup> In das Diplomvorprüfungszeugnis werden die in § 7 Abs. 1 genannten Fächer mit den erzielten Fachnoten aufgenommen. ²Ferner wird im Diplomvorprüfungszeugnis die erfolgreiche Teilnahme der in § 6 Abs. 2 Nr. 1 genannten Lehrveranstaltungen bescheinigt. 
 
 - (3) In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein. 
 
@@ -148,7 +150,7 @@ c) In Absatz 4 Satz 2 wird der Passus „§ 7 Abs. 2“ durch den Passus  „§ 
 
    - b) In Absatz 1 erhält Satz 2 folgende Fassung: 
 
-      - „[2] Die Dauer der schriftlichen Prüfungen sowie die Zahl der Leistungs- und Maluspunkte ergeben sich aus der **Anlage 5** .“ 
+      - „<sup>2</sup> Die Dauer der schriftlichen Prüfungen sowie die Zahl der Leistungs- und Maluspunkte ergeben sich aus der **Anlage 5** .“ 
 
    - c) Es werden folgende Absätze 2 und 3 eingefügt: 
 
@@ -160,7 +162,7 @@ d) Der bisherige Absatz 2 wird neuer Absatz 4.
 
 12. In § 15 wird Absatz 2 wie folgt neu gefasst: 
 
-   - „(2) 1Bei der Ermittlung der Gesamtnote der Diplomhauptprüfung gehen die Noten der Einzelfachprüfungen und der Diplomarbeit (Absatz 1 Nr. 1) und der benoteten Studienleistungen (Absatz 1 Nr. 2) mit dem Gewicht ihrer Leistungspunkte ein ( **Anlage 5** ).[2] Bei den Wahlpflichtlehrveranstaltungen geht die Mittelnote mit dem Gewicht ihrer Leistungspunkte ein, wobei die Mittelnote aus den mit der SWS-Zahl gewichteten Einzelprüfungsnoten ermittelt wird.“ 
+   - „(2) 1Bei der Ermittlung der Gesamtnote der Diplomhauptprüfung gehen die Noten der Einzelfachprüfungen und der Diplomarbeit (Absatz 1 Nr. 1) und der benoteten Studienleistungen (Absatz 1 Nr. 2) mit dem Gewicht ihrer Leistungspunkte ein ( **Anlage 5** ).<sup>2</sup> Bei den Wahlpflichtlehrveranstaltungen geht die Mittelnote mit dem Gewicht ihrer Leistungspunkte ein, wobei die Mittelnote aus den mit der SWS-Zahl gewichteten Einzelprüfungsnoten ermittelt wird.“ 
 
 13. § 16 Abs. 2 Satz 2 wird aufgehoben. 
 
@@ -172,11 +174,15 @@ d) Der bisherige Absatz 2 wird neuer Absatz 4.
 
 3 
 
-|Prüfungsfächer der Diplomvorprüfung|Prüfungsdauer in<br>Minuten|Zahl der|Zahl der|
+|Prüfungsfächer der Diplomvorprüfung|Prüfungsdauer in<br>Minuten|Zahl<br>|der<br>|
 |---|---|---|---|
 |||Leistungs-<br>punkte|Malus-<br>punkte|
-|1.  Mathematik für Ingenieure I-IV<br>mit den Teilprüfungen<br>a) Mathematik für Ingenieure I und II<br>b) Mathematik für Ingenieure III und IV|180<br>120|12<br>9|12<br>9|
-|2.  Technische Mechanik I-IV mit  den<br>Teilprüfungen<br>a) Technische Mechanik I und II<br>b) Technische Mechanik III und IV|180<br>120|10<br>6|10<br>6|
+|1.  Mathematik für Ingenieure I-IV<br>it d Tilüf||||
+|m en eprungen<br>a) Mathematik für Ingenieure I und II|180|12|12|
+|b) Mathematik für Ingenieure III und IV|120|9|9|
+|2.  Technische Mechanik I-IV mit  den<br>Teilprüfungen||||
+|a) Technische Mechanik I und II|180|10|10|
+|b) Technische Mechanik III und IV|120|6|6|
 |3.   Grundlagen der Elektrotechnik|120|6|6|
 |4.   Grundlagen der Informatik|90|6|6|
 |5.   Experimentalphysik|120|6|6|
@@ -184,8 +190,7 @@ d) Der bisherige Absatz 2 wird neuer Absatz 4.
 |7.   Werkstoffkunde I-III|180|7|7|
 |8.   Produktionstechnik I u. II|120|6|6|
 |9.   Maschinenelemente I und II|180|14|14|
-|**Summe**||**88**|**88**|
-|||||
+|**Summe**||**88**|**88**<br>“|
 
 - b) Die Anlagen 1 bis 3 (alt) werden zu Anlagen 2 bis 4 (neu). 
 
@@ -211,18 +216,29 @@ umsmechanik“ durch die Hauptfächer „3.2a Kontinuumsmechanik“ und „3.2b 
 
 **Anlage 5:** _(Zu § 13 Abs. 2 und § 15 Abs. 2)_ 
 
-||**Anlage 5:** _(Zu § 13 Abs. 2 und § 15 Abs. 2)_||||
-|---|---|---|---|---|
-||Prüfungs- und Studienleistungen|Prüfungsdauer in<br>Minuten|Zahl der||
-||||Leistungs-<br>punkte|Malus-<br>punkte|
-||1. Pflichtfach<br>2. Pflichtfach<br>3. Pflichtfach<br>4. Pflichtfach<br>5. Pflichtfach<br>6. Pflichtfach|120<br>120<br>120<br>120<br>120<br>120|6<br>6<br>6<br>6<br>6<br>6|6<br>6<br>6<br>6<br>6<br>6|
-||1.  Hauptfach<br>a) Pflichtfach<br>b) Vertiefungsfach|120<br>120|6<br>6|6<br>6|
-||2. Hauptfach<br>a) Pflichtfach<br>b) Vertiefungsfach|120<br>120|6<br>6|6<br>6|
-||Diplomarbeit||12|12|
-||Summe Prüfungsleistungen||**72**|**72**|
-|<br> <br> <br>|1.  Studienarbeit<br>2.  Studienarbeit<br>Pflichtseminar<br>Wahlpflichtlehrveranstaltungen||6<br>6<br>2<br>10|6<br>6<br>2<br>10|
-||Summe Studienleistungen||**24**|**24**|
-||**Gesamtsumme**||**96**|**96**|
+|Prüfungs- und Studienleistungen|Prüfungsdauer in<br>Minuten|Zahl<br>|der<br>|
+|---|---|---|---|
+|||Leistungs-<br>punkte|Malus-<br>punkte|
+|1. Pflichtfach<br>|120<br>|6<br>|6<br>|
+|2. Pflichtfach|120|6|6|
+|3. Pflichtfach|120|6|6|
+|4. Pflichtfach<br>|120<br>|6<br>|6<br>|
+|5. Pflichtfach|120|6|6|
+|6. Pflichtfach|120|6|6|
+|1.  Hauptfach||||
+|a) Pflichtfach<br>|120|6|6|
+|b) Vertiefungsfach|120|6|6|
+|2. Hauptfach||||
+|a) Pflichtfach|120|6|6|
+|b) Vertiefungsfach|120|6|6|
+|Diplomarbeit||12|12|
+|Summe Prüfungsleistungen||**72**|**72**|
+|1.  Studienarbeit||6|6|
+|2.  Studienarbeit||6|6|
+|Pflichtseminar||2|2|
+|Wahlpflichtlehrveranstaltungen||10|10|
+|Summe Studienleistungen||**24**|**24**|
+|**Gesamtsumme**||**96**|**96**|
 
 § 2 
 

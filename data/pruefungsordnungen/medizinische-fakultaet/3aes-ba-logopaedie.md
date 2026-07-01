@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Mai 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_BA_Logopaedie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:21:17+00:00
-page_count_chars: 32843
+scraped_at: 2026-07-01T08:46:23+00:00
+page_count_chars: 31823
 ---
 
 # 9. Mai 2016
@@ -12,21 +12,21 @@ page_count_chars: 32843
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_BA_Logopaedie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo)** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo)** 
 
-## **Vom 9. Mai 2016** 
+# **Vom 9. Mai 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 4 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Universität Erlangen-Nürnberg (StPO/Logo) vom 5. Oktober 2011, geändert durch Satzung vom 9. Mai 2014, wird wie folgt geändert: 
 
-1. § 1 wird wie folgt geändert: 
+# 1. § 1 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach dem Wort „Prüfungen“ die Worte „mit dem Abschlussziel des Bachelor of Science“ gestrichen und nach dem Wort „Logopädie“ die Worte „mit dem Abschlussziel des Bachelor of Science“ sowie nach dem Wort „Fakultät“ die Worte „der Universität Erlangen-Nürnberg“ eingefügt. 
 
-   - b) In Abs. 3 Satz 1 wird nach dem Wort „[1] Die“ das Wort „bestandene“ eingefügt. 
+   - b) In Abs. 3 Satz 1 wird nach dem Wort „<sup>1</sup> Die“ das Wort „bestandene“ eingefügt. 
 
 2. § 3 wird wie folgt geändert: 
 
@@ -40,7 +40,7 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Me
 
          - (1) Halbsatz 1 erhält folgende neue Fassung: 
 
-„[6] Am Ende des 6. Semesters werden  im Modul 21 (Professioneller Umgang mit klinisch-logopädischen Problemstellungen) die erworbenen Kompetenzen übergreifend und im Zusammenhang abgeprüft; diese Prüfung entspricht der staatlichen Prüfung gemäß des Gesetzes über den Beruf des Logopäden (LogG) und der Ausbildungs- und Prüfungsverordnung für Logopäden (LogAPrO) in der jeweils geltenden Fassung“ 
+„<sup>6</sup> Am Ende des 6. Semesters werden  im Modul 21 (Professioneller Umgang mit klinisch-logopädischen Problemstellungen) die erworbenen Kompetenzen übergreifend und im Zusammenhang abgeprüft; diese Prüfung entspricht der staatlichen Prüfung gemäß des Gesetzes über den Beruf des Logopäden (LogG) und der Ausbildungs- und Prüfungsverordnung für Logopäden (LogAPrO) in der jeweils geltenden Fassung“ 
 
 - (2) Das Komma wird durch einen Punkt ersetzt und der bisherige Halbsatz 2 wird zu Satz 7. 
 
@@ -58,15 +58,15 @@ a) Abs. 2 wird wie folgt geändert:
 
 - aa) In Satz 2 werden die Worte „kann in einer Prüfungsleistung, in einer aus mehreren Teilprüfungen zusammengesetzten Prüfungsleistung, in einer Studienleistung oder in mehreren Studienleistungen oder einer Kombination aus Prüfungs- und Studienleistungen“ durch die Worte „soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen“ ersetzt. 
 
-- bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
+bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen oder Teilprüfungen bestehen.“ 
+„<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen oder Teilprüfungen bestehen.“ 
 
 cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
-- b) Abs. 3 wird wie folgt geändert: 
+b) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden die Worte „Prüfungsleistungen und Studienleistungen“ durch die Worte „Prüfungen (Prüfungs- und Studienleistungen)“ ersetzt und nach dem Wort „mündlich“ ein Komma und das Wort „elektronisch“ eingefügt. 
+- aa) In Satz 2 werden die Worte „Prüfungsleistungen und Studienleistungen“ durch die Worte „Prüfungen (Prüfungs- und Studienleistungen)“ ersetzt und nach dem Wort „mündlich“ ein Komma und das Wort „elektronisch“ eingefügt. 
 
 bb) In Satz 4 werden die Worte „die erfolgreiche Teilnahme oder“ gestrichen. 
 
@@ -76,7 +76,7 @@ c) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt:
 
 4. In § 6 Abs. 3 Satz 3 wird nach den Worten „unverzüglich bei der“ das Wort „Prüfenden“ gestrichen. 
 
-## 5. § 7 wird wie folgt geändert: 
+# 5. § 7 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -104,13 +104,13 @@ a) Abs. 1 wird wie folgt geändert:
 
 - f) In Abs. 6 Satz 2 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 6. § 8 Abs. 2 wird wie folgt geändert: 
+# 6. § 8 Abs. 2 wird wie folgt geändert: 
 
 - a) In Satz 1 wird der Klammerzusatz „(BayRS 2210-1-1-6 WK)“ gestrichen und nach den Worten „in ihrer“ das Wort „jeweiligen“ durch das Wort „jeweils geltenden“ ersetzt. 
 
 - b) In Satz 2 werden nach den Worten „werdender Wechsel“ die Worte „in der Person“ eingefügt und nach den Worten „Person der“ (neu) die Worte „Prüfenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 7. § 10 wird wie folgt geändert: 
+# 7. § 10 wird wie folgt geändert: 
 
 - a) In Abs. 2 werden nach dem Wort „Pflichtmodule“ das Komma durch das Wort „und“ ersetzt und nach dem Wort „Wahlpflichtmodule“ die Worte „und der Wahlmodule“ gestrichen. 
 
@@ -120,7 +120,7 @@ a) Abs. 1 wird wie folgt geändert:
 
    - bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-      - „[2] § 6 Abs. 3 Satz 3 gilt entsprechend.[3] Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
+      - „<sup>2</sup> § 6 Abs. 3 Satz 3 gilt entsprechend.<sup>3</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
 
    - cc) Der bisherige Satz 2 wird zu Satz 4 und in ihm werden nach der Zahl „12“ das Wort und die Zahl „Abs. 1“ angefügt. 
 
@@ -132,43 +132,43 @@ dd) Der bisherige Satz 3 wird gestrichen.
 
    - a) Die Überschrift erhält folgende neue Fassung: 
 
-## „ **§ 11 Anerkennung von Kompetenzen** 
+# „ **§ 11 Anerkennung von Kompetenzen** “ 
 
-   - b) Abs. 1 wird wie folgt geändert: 
+- b) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird nach den Worten „nach dieser Prüfungsordnung“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
+   - aa) In Satz 1 wird nach den Worten „nach dieser Prüfungsordnung“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
 
-      - bb) Die Sätze 3 bis 6 werden gestrichen. 
+   - bb) Die Sätze 3 bis 6 werden gestrichen. 
 
-   - c) In Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen und die Worte „einer berufspraktischen Tätigkeit“ durch die Worte „außerhalb des Hochschulbereichs“ sowie die Worte „können angerechnet werden“ durch die Worte „werden anerkannt“ ersetzt. 
+- c) In Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen und die Worte „einer berufspraktischen Tätigkeit“ durch die Worte „außerhalb des Hochschulbereichs“ sowie die Worte „können angerechnet werden“ durch die Worte „werden anerkannt“ ersetzt. 
 
-   - d) Abs. 3 wird wie folgt geändert: 
+- d) Abs. 3 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden das Wort „Anrechnung“ durch das Wort „Anerkennung“ und die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+   - aa) In Satz 1 werden das Wort „Anrechnung“ durch das Wort „Anerkennung“ und die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 2 wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
+   - bb) In Satz 2 wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
 
-      - cc) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+   - cc) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - dd) Satz 4 wird gestrichen. 
+   - dd) Satz 4 wird gestrichen. 
 
-   - e) Abs. 4 wird wie folgt geändert: 
+- e) Abs. 4 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird die Zahl „19“ durch die Zahl „20“ ersetzt. 
+   - aa) In Satz 1 wird die Zahl „19“ durch die Zahl „20“ ersetzt. 
 
-      - bb) In Satz 2 werden die Zahl „19“ durch die Zahl „20“ ersetzt und nach den Worten „anderen Hochschulen“ die Worte „in der Regel“ eingefügt. 
+   - bb) In Satz 2 werden die Zahl „19“ durch die Zahl „20“ ersetzt und nach den Worten „anderen Hochschulen“ die Worte „in der Regel“ eingefügt. 
 
-9. § 12 wird wie folgt geändert: 
+# 9. § 12 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden vor dem Wort „ **Täuschung** “ die Worte „ **Folgen eines verspäteten Rücktritts,** “ eingefügt und nach dem Wort „ **Ordnungsverstoß** “ ein Komma und die Worte „ **Ausschluss von der weiteren Teilnahme** “ angefügt. 
+- a) In der Überschrift werden vor dem Wort „ **Täuschung** “ die Worte „ **Folgen eines verspäteten Rücktritts,** “ eingefügt und nach dem Wort „ **Ordnungsverstoß** “ ein Komma und die Worte „ **Ausschluss von der weiteren Teilnahme** “ angefügt. 
 
-   - b) Nach der Überschrift wird folgender neuer Abs. 1 eingefügt: 
+- b) Nach der Überschrift wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist (§ 10 Abs. 3) ohne triftige Gründe zurücktritt; § 6 Abs. 3 bleibt unberührt.[2] Die für den Rücktritt oder das 
+„(1)<sup>1</sup> Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist (§ 10 Abs. 3) ohne triftige Gründe zurücktritt; § 6 Abs. 3 bleibt unberührt.<sup>2</sup> Die für den Rücktritt oder das 
 
 4 
 
-Versäumnis geltend gemachten Gründe nach Abs. 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[4] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist der bzw. dem Vorsitzenden des Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 5Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest.“ 
+Versäumnis geltend gemachten Gründe nach Abs. 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>4</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist der bzw. dem Vorsitzenden des Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 5Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest.“ 
 
 - c) Der bisherige Abs. 1 wird zu Abs. 2. 
 
@@ -180,13 +180,13 @@ Versäumnis geltend gemachten Gründe nach Abs. 1 müssen der bzw. dem Vorsitzen
 
 10. In § 14 Abs. 4 werden nach den Worten „oder der Studierende“ die Worte „ihren oder“ eingefügt und nach den Worten „ihren oder seinen“ (neu) die Worte „oder ihren“ gestrichen. 
 
-## 11. § 15 wird wie folgt geändert: 
+# 11. § 15 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach den Worten „Teile derselben wiederholt“ die Worte „wird bzw.“ eingefügt. 
 
 - b) In Abs. 2 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 12. § 16 Satz 2 erhält folgende neue Fassung: 
+# 12. § 16 Satz 2 erhält folgende neue Fassung: 
 
 „Vorbehaltlich abweichender bzw. ergänzender Bestimmungen in der **Anlage** haben die einzelnen Prüfungen folgenden Umfang: 
 
@@ -220,7 +220,7 @@ Versäumnis geltend gemachten Gründe nach Abs. 1 müssen der bzw. dem Vorsitzen
 
    - aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>2</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 bb) Der bisherigen Sätze 2 und 3 wird zu Sätzen 3 und 4. 
 
@@ -230,13 +230,13 @@ bb) Der bisherigen Sätze 2 und 3 wird zu Sätzen 3 und 4.
 
    - bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.“ 
 
 - cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
 - dd) Nach Satz 5 (neu) wird folgender neuer Satz 6 eingefügt: 
 
-   - „[6] Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig.“ 
+   - „<sup>6</sup> Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig.“ 
 
 ee) Die bisherigen Sätze 5 bis 7 werden zu Sätzen 7 bis 9. 
 
@@ -250,13 +250,13 @@ ff) In Satz 7 (neu) wird die Zahl „3“ durch die Zahl „4“ ersetzt.
 
    - bb) In Ziffer 1 werden die Worte „der Prüfling“ durch die Worte „die bzw. der zu Prüfende“ und die Worte „(Summe der erreichten Rohpunkte) der erzielbaren Höchstleistung gemäß Abs. 4 Satz 8“ durch die Worte „der gestellten Prüfungsfragen zutreffend beantwortet hat bzw. 60 Prozent der zu erzielenden Punkte“ ersetzt. 
 
-cc) Ziffer 2 wird wie folgt geändert: 
+   - cc) Ziffer 2 wird wie folgt geändert: 
 
-- (1) Die Worte „der Prüfling“ werden durch die Worte „die bzw. der zu Prüfende“ ersetzt. 
+      - (1) Die Worte „der Prüfling“ werden durch die Worte „die bzw. der zu Prüfende“ ersetzt. 
 
-- (2) Die Worte „(Summe der erreichten Rohpunkte) der erzielbaren Höchstleistung gemäß Abs. 4 Satz 8 erreicht hat“ werden durch die Worte „der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat“ ersetzt. 
+      - (2) Die Worte „(Summe der erreichten Rohpunkte) der erzielbaren Höchstleistung gemäß Abs. 4 Satz 8 erreicht hat“ werden durch die Worte „der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat“ ersetzt. 
 
-- (3) Die Worte „vom Prüfling erreichten Rohpunkte“ werden durch die Worte „von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. erzielten Punkte“ ersetzt. 
+      - (3) Die Worte „vom Prüfling erreichten Rohpunkte“ werden durch die Worte „von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. erzielten Punkte“ ersetzt. 
 
 6 
 
@@ -276,23 +276,23 @@ cc) Ziffer 2 wird wie folgt geändert:
 
       - bb) In Satz 2 werden nach den Worten „wird von“ die Worte „der bzw. dem bzw.“ eingefügt und nach dem Wort „Prüfenden“ die Worte „oder der Prüferin oder dem Prüfer“ gestrichen. 
 
-## 15. § 19 wird wie folgt geändert: 
+# 15. § 19 wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach dem Wort „Betreuung“ die Worte „einer Patientin bzw.“ eingefügt. 
 
 - b) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Art und Umfang der praktischen Prüfung richten sich nach § 16 Satz 2 Buchst. h) bzw. nach der **Anlage** .“ 
+„<sup>2</sup> Art und Umfang der praktischen Prüfung richten sich nach § 16 Satz 2 Buchst. h) bzw. nach der **Anlage** .“ 
 
-## 16. Nach § 19 wird folgender neuer § 19a eingefügt: 
+# 16. Nach § 19 wird folgender neuer § 19a eingefügt: 
 
-## „ **§ 19a Elektronische Prüfung** 
+# „ **§ 19a Elektronische Prüfung** 
 
-1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch. 3Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen. 4Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[5] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
+1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch. 3Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen. 4Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>5</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
 
-## 17. § 20 wird wie folgt geändert: 
+# 17. § 20 wird wie folgt geändert: 
 
-a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) Satz 1 wird wie folgt geändert: 
 
@@ -300,47 +300,49 @@ aa) Satz 1 wird wie folgt geändert:
 
 7 
 
-- (2) Nach den Worten „werden von der“ die Worte „bzw. dem“ eingefügt. 
+   - (2) Nach den Worten „werden von der“ die Worte „bzw. dem“ eingefügt. 
 
-- (3) Die Worte „Prüferin oder dem jeweiligen Prüfer“ werden durch das Wort „Prüfenden“ ersetzt. 
+   - (3) Die Worte „Prüferin oder dem jeweiligen Prüfer“ werden durch das Wort „Prüfenden“ ersetzt. 
 
-- (4) Bei der Notenstufe „nicht ausreichend“ werden im Klammerzusatz vor der Zahl „4,7“ die Zahl und das Wort „4,3 oder“ eingefügt. 
+   - (4) Bei der Notenstufe „nicht ausreichend“ werden im Klammerzusatz vor der Zahl „4,7“ die Zahl und das Wort „4,3 oder“ eingefügt. 
 
-bb) Sätze 2 und 3 werden gestrichen. 
+- bb) Sätze 2 und 3 werden gestrichen. 
 
 - cc) Der bisherige Satz 4 wird zu Satz 2 und das Wort „Prüfungsleistung“ wird durch das Wort und den Klammerzusatz „Prüfung (§ 5 Abs. 3)“ ersetzt. 
 
-dd) Nach Satz 2 (neu) wird folgender neuer Satz 3 eingefügt: 
+- dd) Nach Satz 2 (neu) wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Bei unbenoteten Prüfungen lautet die Bewertung „bestanden“ oder „nicht bestanden“. 
+„<sup>3</sup> Bei unbenoteten Prüfungen lautet die Bewertung „bestanden“ oder „nicht bestanden“. 
 
 ee) Der bisherige Satz 5 wird zu Satz 4. 
 
 - ff) Nach Satz 4 werden folgende neue Sätze 5 bis 7 angefügt: 
 
-„[5] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen oder Teilprüfungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[7] Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.“ 
+„<sup>5</sup> Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen oder Teilprüfungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten.<sup>6</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.<sup>7</sup> Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.“ 
 
-- b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single- und/oder“ eingefügt. 
+- aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single- und/oder“ eingefügt. 
 
-bb) Satz 2 wird wie folgt geändert: 
+- bb) Satz 2 wird wie folgt geändert: 
 
-- (1) Die Zahl „5“ wird durch die Zahl „4“ ersetzt. 
+   - (1) Die Zahl „5“ wird durch die Zahl „4“ ersetzt. 
 
-- (2) Nach den Worten „zutreffend beantworteter Prüfungsfragen“ werden die Worte „bzw. die Mindestzahl der zu erzielenden Punkte“ eingefügt. 
+   - (2) Nach den Worten „zutreffend beantworteter Prüfungsfragen“ werden die Worte „bzw. die Mindestzahl der zu erzielenden Punkte“ eingefügt. 
 
-- (3) Nach den Worten „darüber hinaus gestellten Prüfungsfragen“ werden die Worte „bzw. zu erzielenden Punkte“ eingefügt. 
+   - (3) Nach den Worten „darüber hinaus gestellten Prüfungsfragen“ werden die Worte „bzw. zu erzielenden Punkte“ eingefügt. 
 
-- (4) Nach den Worten „zutreffend beantwortet“ werden die Worte „bzw. erreicht“ eingefügt. 
+   - (4) Nach den Worten „zutreffend beantwortet“ werden die Worte „bzw. erreicht“ eingefügt. 
 
 cc) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-„[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ c) In Abs. 3 werden nach dem Wort „Prüfungsleistungen“ die Worte „bzw. Teilprüfungen“ eingefügt. 
+„<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
+
+- c) In Abs. 3 werden nach dem Wort „Prüfungsleistungen“ die Worte „bzw. Teilprüfungen“ eingefügt. 
 
 8 
 
-## 18. § 21 wird wie folgt geändert: 
+# 18. § 21 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -354,19 +356,19 @@ cc) Nach Satz 4 wird folgender neuer Satz 5 angefügt:
 
    - aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Statt nicht bestandener Module können andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet.“ 
+„<sup>2</sup> Statt nicht bestandener Module können andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet.“ 
 
 bb) Der bisherige Satz 2 wird zu Satz 3. 
 
 - cc) In Satz 3 (neu) werden das Wort „Im“ durch die Worte „Entsprechendes gilt für Module, die im“ und die Worte „können jedoch statt nicht bestandener Module andere, alternativ angebotene Module“ durch die Worte „zusätzlich zu erfolgreich absolvierten Modulen des Studiengangs“ ersetzt. 
 
-- dd) Nach Satz 3 (neu) werden folgende neue Sätze 4 bis 8 angefügt: 
+dd) Nach Satz 3 (neu) werden folgende neue Sätze 4 bis 8 angefügt: 
 
-„[4] Besteht die bzw. der Studierende zusätzliche Module, legt sie bzw. er selbst fest, welche der Leistungen in die Notenberechnung eingebracht werden soll.[5] Die getroffene Wahl ist dem Prüfungsamt bis spätestens zum Abschluss des Studiengangs mitzuteilen.[6] Die Wahl wird damit bindend. 7Wird keine Wahl getroffen, rechnet das Prüfungsamt von den einem Semester zugeordneten erbrachten Leistungen die bessere an.[8] Die nicht berücksichtigten Leistungen gehen nicht in die Note ein, sie werden im Transcript of Records ausgewiesen.“ 
+„<sup>4</sup> Besteht die bzw. der Studierende zusätzliche Module, legt sie bzw. er selbst fest, welche der Leistungen in die Notenberechnung eingebracht werden soll.<sup>5</sup> Die getroffene Wahl ist dem Prüfungsamt bis spätestens zum Abschluss des Studiengangs mitzuteilen.<sup>6</sup> Die Wahl wird damit bindend. 7Wird keine Wahl getroffen, rechnet das Prüfungsamt von den einem Semester zugeordneten erbrachten Leistungen die bessere an.<sup>8</sup> Die nicht berücksichtigten Leistungen gehen nicht in die Note ein, sie werden im Transcript of Records ausgewiesen.“ 
 
 19. In der Überschrift des § 22 werden die Worte „und Urkunde“ durch ein Komma und die Worte „Transcript of Records“ ersetzt und nach dem Wort „Supplement“ ein Komma und das Wort „Urkunde“ angefügt. 
 
-## 20. § 24 wird wie folgt geändert: 
+# 20. § 24 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ und die Worte „gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen“ ersetzt. 
 
@@ -374,31 +376,31 @@ bb) Der bisherige Satz 2 wird zu Satz 3.
 
 9 
 
-- aa) Es werden vor dem Wort „Entscheidungen“ die hochgestellte Zahl „[1] “ und nach den Worten „schriftlichen Antrag hin“ die Worte „von der bzw. dem Vorsitzenden des Prüfungsausschusses“ eingefügt. 
+- aa) Es werden vor dem Wort „Entscheidungen“ die hochgestellte Zahl „<sup>1</sup> “ und nach den Worten „schriftlichen Antrag hin“ die Worte „von der bzw. dem Vorsitzenden des Prüfungsausschusses“ eingefügt. 
 
 - bb) Nach Satz 1 (neu) wird folgender neue Sätze 2 und 3 angefügt: 
 
-„[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+„<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
-## 21. § 25 wird wie folgt geändert: 
+# 21. § 25 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden die Worte „des Prüfungsverfahrens“ durch die Worte „der einzelnen Prüfungsverfahren“, die Worte „Studierende oder“ durch das Wort „bzw.“ und nach den Worten „Antrag Einsicht in“ das Wort „die“ durch die Worte „ihre bzw. seine“ ersetzt. 
 
-## b) Abs. 2 wird wie folgt geändert: 
+# b) Abs. 2 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden die Worte „Aushändigung des Prüfungszeugnisses“ durch das Wort „Notenbekanntgabe“ und die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
 - bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
+„<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
 
 cc) Der bisherige Satz 2 wird zu Satz 3, der bisherige Satz 3 wird gestrichen. 
 
-## 22. § 26 wird wie folgt geändert: 
+# 22. § 26 wird wie folgt geändert: 
 
-   - a) Abs. 2 wird wie folgt geändert: 
+a) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird vor dem Wort „Waren“ die hochgestellte Zahl „[1] “ gestrichen. 
+      - aa) In Satz 1 wird vor dem Wort „Waren“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
       - bb) Satz 2 wird gestrichen. 
 
@@ -406,15 +408,15 @@ cc) Der bisherige Satz 2 wird zu Satz 3, der bisherige Satz 3 wird gestrichen.
 
 23. In § 27 Abs. 2 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt und nach den Worten „dem Studierenden“ die Worte „unter Angabe einer Begründung und einer Rechtsbehelfsbelehrung“ eingefügt. 
 
-24. § 28 Abs. 1 wird wie folgt geändert: 
+# 24. § 28 Abs. 1 wird wie folgt geändert: 
 
-   - a) Im Klammerzusatz nach dem Wort und der Zahl „Modul 1“ wird das Wort „Medizinische“ durch das Wort „Medizinisch-logopädische“ ersetzt. 
+- a) Im Klammerzusatz nach dem Wort und der Zahl „Modul 1“ wird das Wort „Medizinische“ durch das Wort „Medizinisch-logopädische“ ersetzt. 
 
 10 
 
 - b) Im Klammerzusatz nach dem Wort und der Zahl „Modul 3“ werden die Worte „Logopädie-Pädiatrie“ durch die Worte „Logopädie, Schwerpunkt Pädiatrie“ ersetzt. 
 
-## 25. § 30 wird wie folgt geändert: 
+# 25. § 30 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -426,7 +428,7 @@ cc) Der bisherige Satz 2 wird zu Satz 3, der bisherige Satz 3 wird gestrichen.
 
 - c) In Abs. 3 Satz 2 werden die Worte „nach Abs. 2 Satz 2“ durch die Worte „sind abhängig vom jeweils gewählten Modul und“ ersetzt und nach den Worten „werden im“ das Wort „einschlägigen“ eingefügt. 
 
-## 26. § 31 wird wie folgt geändert: 
+# 26. § 31 wird wie folgt geändert: 
 
 - a) In Abs. 3 Satz 1 werden nach dem Wort „Bachelorarbeit“ der Klammerzusatz „(Betreuer)“ eingefügt und nach der Zahl „8“ der Klammerzusatz „(Betreuer)“ sowie nach dem Wort „Bachelorstudiengang“ das Wort „als“ gestrichen. 
 
@@ -470,35 +472,36 @@ cc) Der bisherige Satz 2 wird zu Satz 3, der bisherige Satz 3 wird gestrichen.
 
    - d) In Zeile 5 (Modul-Nr. 4) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 5 (Anamnese, Diagnostik, Intervention im Bereich Neurologie) die Worte „im Bereich Neurologie“ gestrichen und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt und der Klammerzusatz „(20 Min.)“ gestrichen. 
 
-   - e) In Zeile 6 (Modul-Nr. 5) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird nach dem Klammerzusatz die hochgestellte Zahl „ **[1]** “ angefügt. 
+   - e) In Zeile 6 (Modul-Nr. 5) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird nach dem Klammerzusatz die hochgestellte Zahl „<sup>**1**</sup> “ angefügt. 
 
-   - f) In Zeile 8 (Modul-Nr. 7) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird der Klammerzusatz durch die hochgestellte Zahl „ **[2]** “ ersetzt. 
+   - f) In Zeile 8 (Modul-Nr. 7) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird der Klammerzusatz durch die hochgestellte Zahl „<sup>**2**</sup> “ ersetzt. 
 
-   - g) In Zeile 9 (Modul-Nr. 8) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) werden die Buchstaben „SL“ durch die Buchstaben „PL“ und der Klammerzusatz durch die hochgestellte Zahl „ **[2]** “ ersetzt. 
+   - g) In Zeile 9 (Modul-Nr. 8) Spalte 13 (Art und Umfang der Prüfung/Studienleistung) werden die Buchstaben „SL“ durch die Buchstaben „PL“ und der Klammerzusatz durch die hochgestellte Zahl „<sup>**2**</sup> “ ersetzt. 
 
    - h) In Zeile 10 (Modul-Nr. 9) wird in Spalte 4 (SWS) Unterspalte 3 (P) Unterzeile 1 der Haken durch die Zahl „4“ ersetzt. 
 
-   - i) In Zeile 11 (Modul-Nr. 10) werden in Spalte 4 (SWS) Unterspalte 3 (P) Unterzeile 1 der Haken durch die Zahl „8“ und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt sowie nach dem Wort „Prüfung“ die hochgestellte Zahl „ **[3]** “ angefügt. 
+   - i) In Zeile 11 (Modul-Nr. 10) werden in Spalte 4 (SWS) Unterspalte 3 (P) Unterzeile 1 der Haken durch die Zahl „8“ und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt sowie nach dem Wort „Prüfung“ die hochgestellte Zahl „<sup>**3**</sup> “ angefügt. 
 
-   - j) In Zeile 12 (Modul-Nr. 11) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 2 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) nach dem Wort „Prüfung“ die hochgestellte Zahl „ **[4]** “ angefügt. 
+   - j) In Zeile 12 (Modul-Nr. 11) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 2 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) nach dem Wort „Prüfung“ die hochgestellte Zahl „<sup>**4**</sup> “ angefügt. 
 
 12 
 
-- k) In Zeile 13 (Modul-Nr. 12) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 1 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) nach dem Wort „Prüfung“ die hochgestellte Zahl „ **[5]** “ angefügt. 
+- k) In Zeile 13 (Modul-Nr. 12) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 1 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) nach dem Wort „Prüfung“ die hochgestellte Zahl „<sup>**5**</sup> “ angefügt. 
 
-- l) In Zeile 14 (Modul-Nr. 13) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 1 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“, in Spalte 4 (SWS) Unterspalte 4 (S) der Haken durch die Zahl „16“ und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt sowie nach dem Wort „Prüfung“ die hochgestellte Zahl „ **[6]** “ angefügt. 
+- l) In Zeile 14 (Modul-Nr. 13) werden in Spalte 3 (Lehrveranstaltung) Unterzeile 1 (Hospitation) das Wort „Hospitation“ durch das Wort „Hospitationen“, in Spalte 4 (SWS) Unterspalte 4 (S) der Haken durch die Zahl „16“ und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt sowie nach dem Wort „Prüfung“ die hochgestellte Zahl „<sup>**6**</sup> “ angefügt. 
 
 - m)  Zeile 15 (Modul-Nr. 14) wird wie folgt geändert: 
 
-   - aa) In den Spalten 3 (Lehrveranstaltung) bis 12 (7. Sem.) wird die Unterzeile 6 („ 
+aa) In den Spalten 3 (Lehrveranstaltung) bis 12 (7. Sem.) wird die Unterzeile 6 <u>(„</u> <mark>Projekt (Staatsexamen)</mark> 4 <mark>5</mark> 
 
-Projekt (Staatsexamen) 4 5 „) gestrichen. 
+|„) gestrichen.|
+|---|
 
 - bb) In der Spalte 4 (SWS) Unterspalte 4 (S) wird der Haken durch die Zahl „2“ ersetzt. 
 
 cc) In Spalte 5 (ECTS) wird die Zahl „15“ durch die Zahl „10“ ersetzt. 
 
-   - dd) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) werden das Wort „Portfolio“ gestrichen sowie die Worte „SL: Examen“ durch die hochgestellte Zahl „ **[7]** “ ersetzt. 
+   - dd) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) werden das Wort „Portfolio“ gestrichen sowie die Worte „SL: Examen“ durch die hochgestellte Zahl „<sup>**7**</sup> “ ersetzt. 
 
 - n) Zeile 16 (Modul-Nr. 15) wird wie folgt geändert: 
 
@@ -514,47 +517,11 @@ cc) In Spalte 5 (ECTS) wird die Zahl „15“ durch die Zahl „10“ ersetzt.
 
       - (5) In Unterzeile 8 (Psychologie II) werden das Wort und die römische Zahl „Psychologie II“ durch die Worte „Klinische Psychologie/Neuropsychologie“ ersetzt. 
 
-bb) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird das Wort „Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt. 
+   - bb) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird das Wort <u>„Portfolio:“ durch das Wort „Portfolioprüfung:“ ersetzt.</u> 
 
 - o) In Zeile 18 (Modul-Nr. 17) wird in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) der Klammerzusatz „(20 Min.)“ gestrichen. 
 
 13 
-
-## p) Zeile 20 (Modul-Nr. 19) wird wie folgt geändert: 
-
-   - aa) In Spalte 4 (SWS) Unterspalte 2 (Ü) wird der Haken durch die Zahl „2“ ersetzt. 
-
-   - bb) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird nach dem Klammerzusatz „(60 Min.)“ die hochgestellte Zahl „ **[8]** “ angefügt. 
-
-- q) Zeile 21 (Modul-Nr. 20) wird wie folgt geändert: 
-
-   - aa) In den Spalten 3 (Lehrveranstaltung) und 4 (SWS) wird die Unterzeile 2 
-
-(„ “) gestrichen. 
-
-   - bb) In den Spalten 6 (1. Sem) bis 10 (5. Sem) wird jeweils die Unterzeile 2 
-
-      - („ “) gestrichen. 
-
-   - cc) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird der Klammerzusatz „(20 Min.)“ gestrichen. 
-
-- r) Nach Zeile 21 (Modul-Nr. 20) wird folgende neue Zeile 22 eingefügt: 
-
-„ 
-
-|**21**|**Professioneller Umgang**<br>**mit klinisch-**<br>**logopädischen**<br>**Problemstellungen**|Repetitorien||||2|||||||||PL:Examen||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Staatsexamen||||2|5||||||5||<br>gemäß § 2 ff.<br>LogAPrO**9**|doppelt|
-
-„ 
-
-- s) Zeile 23 (neu) (Modul-Nr. 21) (alt) werden in Spalte 1 (Modul-Nr.) die Zahl „ **21** “ durch die Zahl „ **22** “ ersetzt und in Spalte 14 (Gewichtung) das Wort „einfach“ eingefügt. 
-
-- t) Zeile 24 (neu) (Modul-Nr. 22) (alt) wird wie folgt geändert: 
-
-   - aa) In Spalte 1 (Modul-Nr.) wird die Zahl „ **22** “ durch die Zahl „ **23** “ ersetzt. 
-
-14 
 
 - bb) In Spalte 2 (Modulbezeichnung) wird nach dem Wort „ **Schlüsselqualifikation** “ die hochgestellte Zahl „ **10** “ angefügt. 
 
@@ -562,19 +529,21 @@ bb) In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird das Wort „
 
 dd) In Spalte 14 (Gewichtung) wird das Wort „einfach“ eingefügt. 
 
-- u) In Zeile 25 (neu) (Modul-Nr. 23) (alt) werden in Spalte 1 (Modul-Nr.) die Zahl „ **23** “ durch die Zahl „ **24** “ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) die Worte „Bachelorarbeit und Präsentation inkl. Diskussion **[11]** “ eingefügt. 
+- u) In Zeile 25 (neu) (Modul-Nr. 23) (alt) werden in Spalte 1 (Modul-Nr.) die Zahl „ **23** “ durch die Zahl „ **24** “ ersetzt und in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) die Worte „Bachelorarbeit und Präsentation inkl. Diskussion<sup>**11**</sup> “ eingefügt. 
 
 - v) In Zeile 26 (Gesamt) wird Spalte 4 (SWS) wie folgt geändert: 
 
    - aa) In Unterspalte 1 (V) wird die Zahl „ **36** “ eingefügt. 
 
-   - bb) In Unterspalte 2 (Ü) wird die Zahl „ **18** “ eingefügt. cc) In Unterspalte 3 (P) wird die Zahl „ **101** “ eingefügt. 
+   - bb) In Unterspalte 2 (Ü) wird die Zahl „ **18** “ eingefügt. 
 
-## dd) In Unterspalte 4 (S) wird die Zahl „ **102** “ eingefügt. 
+   - cc) In Unterspalte 3 (P) wird die Zahl „ **101** “ eingefügt. 
+
+dd) In Unterspalte 4 (S) wird die Zahl „ **102** “ eingefügt. 
 
 - w) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung: 
 
-> „[1] Voraussetzung für die Teilnahme an der Prüfung dieses Moduls ist der erfolgreiche Abschluss des Moduls 1. 
+> „<sup>1</sup> Voraussetzung für die Teilnahme an der Prüfung dieses Moduls ist der erfolgreiche Abschluss des Moduls 1. 
 
 > 2 Voraussetzung für die Teilnahme an der Prüfung dieses Moduls ist der erfolgreiche Abschluss der Module 1 bis 3. 
 
@@ -596,13 +565,13 @@ dd) In Spalte 14 (Gewichtung) wird das Wort „einfach“ eingefügt.
 
 - 11 Voraussetzung für die Zulassung zur Bachelorarbeit ist der Erwerb von mindestens 150 ECTSPunkten.“ 
 
-## 28. Das Inhaltsverzeichnis wird angepasst. 
+# 28. Das Inhaltsverzeichnis wird angepasst. 
 
 15 
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die die das Studium ab dem Wintersemester 2016/2017 aufnehmen werden.[3] Den Studierenden, die bereits nach der bisher gültigen Prüfungsordnung für den Bachelorstudiengang Logopädie vom 7. Oktober 2011 in der Fassung vom 4. Mai 2014 studieren wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 30. Juni 2016 dieser Prüfungsordnung insgesamt beizutreten. 
+1Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die die das Studium ab dem Wintersemester 2016/2017 aufnehmen werden.<sup>3</sup> Den Studierenden, die bereits nach der bisher gültigen Prüfungsordnung für den Bachelorstudiengang Logopädie vom 7. Oktober 2011 in der Fassung vom 4. Mai 2014 studieren wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 30. Juni 2016 dieser Prüfungsordnung insgesamt beizutreten. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 27. April 2016 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 9. Mai 2016. 
 
@@ -610,43 +579,5 @@ Erlangen, den 9. Mai 2016
 [Kontaktperson entfernt]
 Die Satzung wurde am 9. Mai 2016 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 9. Mai 2016 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 9. Mai 2016. 
 
-16
-
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-### OCR Seite 14
-
-```
-p)
-Zeile 20 (Modul-Nr. 19) wird wie folgt geändert:
-aa)
-In Spalte 4 (SWS) Unterspalte 2 (U) wird der Haken durch die Zahl „2“ ersetzt.
-bb)
-In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird nach dem Klammerzusatz „(60 Min.)“ die hochgestellte Zahl „®“
-angefügt.
-q)
-Zeile 21 (Modul-Nr. 20) wird wie folgt geändert:
-aa)
-In den Spalten 3 (Lehrveranstaltung) und 4 (SWS) wird die Unterzeile 2
-((sammen
-li
-peniLesen
-El) gestrichen.
-bb)
-In den Spalten 6 (1. Sem) bis 10 (5. Sem) wird jeweils die Unterzeile 2
-cc)
-In Spalte 13 (Art und Umfang der Prüfung/Studienleistung) wird der Klammerzusatz „(20 Min.)“ gestrichen.
-r)
-Nach Zeile 21 (Modul-Nr. 20) wird folgende neue Zeile 22 eingefügt:
-s)
-Zeile 23 (neu) (Modul-Nr. 21) (alt) werden in Spalte 1 (Modul-Nr.) die Zahl „21“ durch die Zahl „22“ ersetzt und in Spalte 14 (Gewichtung)
-das Wort „einfach“ eingefügt.
-t)
-Zeile 24 (neu) (Modul-Nr. 22) (alt) wird wie folgt geändert:
-aa)
-In Spalte 1 (Modul-Nr.) wird die Zahl „22“ durch die Zahl „23“ ersetzt.
-14
-```
+16 
 

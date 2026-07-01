@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:48:40+00:00
+scraped_at: 2026-07-01T08:25:34+00:00
 ---
 
 # Mechatronik (B.Sc.)
@@ -39,7 +39,7 @@ Der Bachelor-Studiengang Mechatronik an der FAU vermittelt ein umfassendes Grund
 
 Die Regelstudienzeit beträgt sechs Semester. Die Zahl der zum erfolgreichen Abschluss erforderlichen Punkte — die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer and Accumulation System — beträgt im Bachelorstudiengang 180 ECTS-Punkte.
 
-### Bachelor of Science Mechatronik
+### Fachanteile des Studiengangs Mechatronik (B.Sc.)
 
 * Elektrotechnik, Elektronik, Informationstechnik (40%)
 * Maschinenbau (38%)

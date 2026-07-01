@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/18AeSa_BPOWiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:20:14+00:00
-page_count_chars: 24726
+scraped_at: 2026-07-01T10:38:20+00:00
+page_count_chars: 25016
 ---
 
 # 10. August 2017
@@ -12,7 +12,7 @@ page_count_chars: 24726
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/18AeSa_BPOWiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Achtzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – BPOWiWi – Vom 10. August 2017** 
+# **Achtzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – BPOWiWi – Vom 10. August 2017** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -24,11 +24,11 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 2. § 1 Abs. 1 wird wie folgt geändert: 
 
-   - a) Vor dem Wort „Diese“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+   - a) Vor dem Wort „Diese“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
    - b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-      - „[2] Sie wird ergänzt durch die jeweiligen **Fachprüfungsordnungen** 
+      - „<sup>2</sup> Sie wird ergänzt durch die jeweiligen **Fachprüfungsordnungen** .“ 
 
 3. In der Überschrift von § 2 werden die Worte „ **Akademischer Grad** “ durch die Worte „ **Akademische Grade** “ ersetzt. 
 
@@ -54,9 +54,9 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 - e) Nach Abs. 2 (neu) werden folgende neue Abs. 3 und 4 eingefügt: 
 
-„(3)[1] Die Regelstudienzeit beträgt im Bachelorstudium einschließlich der Prüfungen und der Zeit zur Anfertigung der Bachelorarbeit sechs Semester.[2] Das Bachelorstudium wird mit dem Erwerb von insgesamt 180 ECTS-Punkten abgeschlossen, die sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Bachelorarbeit enthalten.[3] Näheres regeln die **Fachprüfungsordnungen** . 
+„(3)<sup>1</sup> Die Regelstudienzeit beträgt im Bachelorstudium einschließlich der Prüfungen und der Zeit zur Anfertigung der Bachelorarbeit sechs Semester.<sup>2</sup> Das Bachelorstudium wird mit dem Erwerb von insgesamt 180 ECTS-Punkten abgeschlossen, die sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Bachelorarbeit enthalten.<sup>3</sup> Näheres regeln die **Fachprüfungsordnungen** . 
 
-(4)[1] Das Bachelorstudium kann in der Regel nur zum Wintersemester begonnen werden.[2] Die **Fachprüfungsordnungen** können hiervon abweichend einen Studienbeginn auch zum Sommersemester vorsehen.“ 
+(4)<sup>1</sup> Das Bachelorstudium kann in der Regel nur zum Wintersemester begonnen werden.<sup>2</sup> Die **Fachprüfungsordnungen** können hiervon abweichend einen Studienbeginn auch zum Sommersemester vorsehen.“ 
 
 - f) Der bisherige Abs. 4 wird zu Abs. 5 und wie folgt geändert: 
 
@@ -64,11 +64,11 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Im Zweifelsfall folgt die Prüfungssprache der Unterrichtssprache.“ 
+„<sup>3</sup> Im Zweifelsfall folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 5. In § 4 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-   - „[3] Näheres regeln die **Fachprüfungsordnungen** .“ 
+   - „<sup>3</sup> Näheres regeln die **Fachprüfungsordnungen** .“ 
 
 6. § 6 wird wie folgt geändert: 
 
@@ -82,7 +82,7 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Sie können schriftlich, mündlich, elektronisch oder in anderer Form abgehalten werden.“ 
+„<sup>2</sup> Sie können schriftlich, mündlich, elektronisch oder in anderer Form abgehalten werden.“ 
 
 - bb) Der bisherige Satz 2 wird zu Satz 3 und es werden nach dem Wort „Prüfungsleistungen“ die Worte „und Teilprüfungen“ eingefügt. 
 
@@ -90,7 +90,7 @@ cc) Der bisherige Satz 3 wird zu Satz 4.
 
 d) Nach Abs. 3 werden folgende neue Abs. 4 und 5 angefügt: 
 
-„(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Projektberichte oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen.[4] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen. 
+„(4)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Projektberichte oder Kurztests) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen.<sup>4</sup> Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen. 
 
 (5) Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt mit Ausnahme der Teilnahme an Wiederholungsprüfungen die Immatrikulation im einschlägigen Studiengang an der FAU voraus.“ 
 
@@ -104,13 +104,13 @@ a) Abs. 2 erhält folgende neue Fassung:
 
 der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
 
-- b) In Abs. 3 Satz 3 werden nach den Worten „krankheitsbedingter Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen.[4] Der Prüfungsausschuss“ eingefügt. 
+- b) In Abs. 3 Satz 3 werden nach den Worten „krankheitsbedingter Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen.<sup>4</sup> Der Prüfungsausschuss“ eingefügt. 
 
 - c) In Satz 4 (neu) werden die Worte „verlangt werden“ durch das Wort „verlangen“ ersetzt. 
 
 ## 8. Die Regelung in § 8 erhält folgende neue Fassung: 
 
-„[1] Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule, Schlüsselqualifikationen), die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.[2] Besteht die bzw. der Studierende an der FAU Erlangen-Nürnberg zusätzliche Module des Studiengangs, legt sie bzw. er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.[3] Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.[4] Die Wahl wird damit bindend.[5] Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an.“ 
+„<sup>1</sup> Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule, Schlüsselqualifikationen), die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.<sup>2</sup> Besteht die bzw. der Studierende an der FAU Erlangen-Nürnberg zusätzliche Module des Studiengangs, legt sie bzw. er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.<sup>3</sup> Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.<sup>4</sup> Die Wahl wird damit bindend.<sup>5</sup> Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an.“ 
 
 ## 9. § 9 wird wie folgt geändert: 
 
@@ -120,11 +120,11 @@ der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch
 
 - c) In Abs. 5 Satz 2 wird nach dem Wort „Sie“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## d) Abs. 6 wird wie folgt geändert: 
+- d) Abs. 6 wird wie folgt geändert: 
 
 aa) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Aufgrund eines Beschlusses des Prüfungsausschusses können Notenbescheide jeder bzw. jedem Einzelnen oder in elektronischer Form bekannt gegeben werden.“ 
+„<sup>3</sup> Aufgrund eines Beschlusses des Prüfungsausschusses können Notenbescheide jeder bzw. jedem Einzelnen oder in elektronischer Form bekannt gegeben werden.“ 
 
 bb) Der bisherige Satz 3 wird zu Satz 4. 
 
@@ -152,23 +152,23 @@ bb) Der bisherige Satz 3 wird zu Satz 4.
 
       - bb) In Satz 2 wird das Wort „Mit“ durch die Worte „Die Erklärung des Rücktritts ist unwiderruflich; mit“ ersetzt. 
 
-12. § 12 wird wie folgt geändert: 
+## 12. § 12 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden die Worte „ **Studienzeiten, Modulen, Studien- und Prüfungsleistungen** “ durch das Wort „ **Kompetenzen** “ ersetzt. 
+- a) In der Überschrift werden die Worte „ **Studienzeiten, Modulen, Studien- und Prüfungsleistungen** “ durch das Wort „ **Kompetenzen** “ ersetzt. 
 
-   - b) In Abs. 1 Satz 1 werden nach den Worten „Prüfungsleistungen, die in Studiengängen“ die Worte „an der FAU oder“ eingefügt. 
+- b) In Abs. 1 Satz 1 werden nach den Worten „Prüfungsleistungen, die in Studiengängen“ die Worte „an der FAU oder“ eingefügt. 
 
-   - c) In Abs. 3 wird in Sätzen 1 und 2 jeweils die Zahl „19“ durch die Zahl „21“ ersetzt. 
+- c) In Abs. 3 wird in Sätzen 1 und 2 jeweils die Zahl „19“ durch die Zahl „21“ ersetzt. 
 
-   - d) Abs. 4 wird wie folgt geändert: 
+- d) Abs. 4 wird wie folgt geändert: 
 
-      - aa) In Satz 2 werden das Wort „Bei“ durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ ersetzt und nach den Worten „Abs. 1 und 2“ das Wort „besteht“ gestrichen. 
+   - aa) In Satz 2 werden das Wort „Bei“ durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ ersetzt und nach den Worten „Abs. 1 und 2“ das Wort „besteht“ gestrichen. 
 
-      - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
+   - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
 5 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+„<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
@@ -198,27 +198,27 @@ bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2.
 
 dd) Nach Satz 2 (neu) werden folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Die in Satz 1 genannten Prüfungsarten können auch als Gruppenarbeit abgehalten werden.[4] Eine entsprechende Angabe erfolgt im Modulhandbuch.“ 
+„<sup>3</sup> Die in Satz 1 genannten Prüfungsarten können auch als Gruppenarbeit abgehalten werden.<sup>4</sup> Eine entsprechende Angabe erfolgt im Modulhandbuch.“ 
 
 - b) In Abs. 2 werden nach den Worten „importierte Module werden“ das Wort „die“ gestrichen, nach den Worten „Prüfungsart und“ die Worte „die Anzahl der Teilleistungen“ durch das Wort „-umfang“ und nach den Worten „der exportierenden Fakultät bzw.“ das Wort „Fachbereich“ durch die Worte „des exportierenden Fachbereichs“ ersetzt. 
 
 6 
 
-   - c) In Abs. 3 Satz 3 wird nach den Worten „sind Nachweise“ das Wort „für“ durch das Wort „über“ ersetzt. 
+- c) In Abs. 3 Satz 3 wird nach den Worten „sind Nachweise“ das Wort „für“ durch das Wort „über“ ersetzt. 
 
-15. § 18 wird wie folgt geändert: 
+## 15. § 18 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „ **Prüfung** “ ein Komma und die Worte „ **Antwort-Wahl-Verfahren** “ angefügt. 
+- a) In der Überschrift werden nach dem Wort „ **Prüfung** “ ein Komma und die Worte „ **Antwort-Wahl-Verfahren** “ angefügt. 
 
-   - b) In Abs. 1 wird im Klammerzusatz vor dem Wort „Klausur“ das Wort „insbesondere“ eingefügt. 
+- b) In Abs. 1 wird im Klammerzusatz vor dem Wort „Klausur“ das Wort „insbesondere“ eingefügt. 
 
-   - c) Abs. 2 wird wie folgt geändert: 
+- c) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „Minuten“ das Zeichen „;“ und die Worte „Näheres regeln die **Fachprüfungsordnungen** bzw. das Modulhandbuch“ angefügt. 
+   - aa) In Satz 1 werden nach dem Wort „Minuten“ das Zeichen „;“ und die Worte „Näheres regeln die **Fachprüfungsordnungen** bzw. das Modulhandbuch“ angefügt. 
 
-      - bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
+   - bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Der Umfang einer benoteten Hausarbeit bzw. Seminararbeit ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.[3] In der Regel beträgt der Umfang jeweils ca. 15 Seiten.“ 
+„<sup>2</sup> Der Umfang einer benoteten Hausarbeit bzw. Seminararbeit ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.<sup>3</sup> In der Regel beträgt der Umfang jeweils ca. 15 Seiten.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 4 und 5. 
 
@@ -232,13 +232,11 @@ cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 4 und 5.
 
 - a) In Abs. 1 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Die Dauer der mündlichen Prüfung beträgt ca. 20 Minuten.“ 
+„<sup>3</sup> Die Dauer der mündlichen Prüfung beträgt ca. 20 Minuten.“ 
 
 - b) Abs. 2 wird wie folgt geändert: 
 
-aa) In Satz 1 wird vor dem Wort „In“ die hochgestellte Zahl „[1] “ gestrichen. 
-
-bb) Satz 2 wird gestrichen. 
+aa) In Satz 1 wird vor dem Wort „In“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. bb) Satz 2 wird gestrichen. 
 
 - c) Abs. 3 wird geändert: 
 
@@ -254,7 +252,7 @@ bb) Satz 3 wird gestrichen; der bisherige Satz 4 wird zu Satz 3.
 
 ## „ **§ 20 a Umfang der Sonderformen von Prüfungsarten** 
 
-1Der Umfang der Sonderformen von Prüfungsarten nach § 16 Abs. 1 Satz 1 Nr. 3 ist abhängig vom konkret vergebenen Thema bzw. dem konkreten didaktischen Charakter des jeweiligen Moduls und mit der bzw. dem Modulverantwortlichen abzustimmen bzw. dem Modulhandbuch zu entnehmen.[2] In der Regel beträgt der Umfang 
+1Der Umfang der Sonderformen von Prüfungsarten nach § 16 Abs. 1 Satz 1 Nr. 3 ist abhängig vom konkret vergebenen Thema bzw. dem konkreten didaktischen Charakter des jeweiligen Moduls und mit der bzw. dem Modulverantwortlichen abzustimmen bzw. dem Modulhandbuch zu entnehmen.<sup>2</sup> In der Regel beträgt der Umfang 
 
 - a) einer Projektarbeit / eines Projektberichts ca. 20 Seiten, 
 
@@ -322,7 +320,7 @@ bb) Satz 3 wird gestrichen; der bisherige Satz 4 wird zu Satz 3.
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.“ 
+„<sup>2</sup> Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote.“ 
 
 cc) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -330,7 +328,7 @@ cc) Der bisherige Satz 2 wird zu Satz 3.
 
 ee) Nach Satz 3 (neu) wird folgender neuer Satz 4 angefügt: 
 
-„[4] Wird keine benotete Prüfung abgehalten, lautet die Bewertung des Moduls „bestanden“ oder „nicht bestanden“.“ 
+„<sup>4</sup> Wird keine benotete Prüfung abgehalten, lautet die Bewertung des Moduls „bestanden“ oder „nicht bestanden“.“ 
 
 ## e) Abs. 5 wird wie folgt geändert: 
 
@@ -354,11 +352,11 @@ ee) Nach Satz 3 (neu) wird folgender neuer Satz 4 angefügt:
 
 20. In § 23 Abs. 2 Satz 1 werden nach den Worten „Notenbekanntgabe bei“ die Worte „der bzw.“ gestrichen und nach den Worten „Notenbekanntgabe bei dem“ (neu) die Worte „Vorsitzenden des Prüfungsausschusses“ durch die Worte „für die Einsicht zuständigen Prüfungsorgan“ ersetzt. 
 
-## 21. § 24 Abs. 2 wird wie folgt geändert: 
+21. § 24 Abs. 2 wird wie folgt geändert: 
 
-- a) In Satz 2 werden nach den Worten „und Teilnoten auf“ das Zeichen „;“ und die Worte „das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden“ gestrichen. 
+   - a) In Satz 2 werden nach den Worten „und Teilnoten auf“ das Zeichen „;“ und die Worte „das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden“ gestrichen. 
 
-- b) Satz 4 wird gestrichen; der bisherige Satz 5 wird zu Satz 4. 
+   - b) Satz 4 wird gestrichen; der bisherige Satz 5 wird zu Satz 4. 
 
 ## 22. § 26 wird wie folgt geändert: 
 
@@ -398,7 +396,7 @@ ee) Nach Satz 3 (neu) wird folgender neuer Satz 4 angefügt:
 
 - c) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: 
 
-   - „(3)[1] Die hauptberuflich im jeweiligen Studiengang des Fachbereichs Wirtschaftswissenschaften tätigen Hochschullehrerinnen bzw. Hochschullehrer sind zur Vergabe und Betreuung einer Bachelorarbeit berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln.“ 
+   - „(3)<sup>1</sup> Die hauptberuflich im jeweiligen Studiengang des Fachbereichs Wirtschaftswissenschaften tätigen Hochschullehrerinnen bzw. Hochschullehrer sind zur Vergabe und Betreuung einer Bachelorarbeit berechtigt.<sup>2</sup> Der Prüfungsausschuss kann Ausnahmen gestatten und regeln.“ 
 
 - d) Die bisherigen Abs. 3 bis 8 werden zu Abs. 4 bis 9. 
 
@@ -416,11 +414,11 @@ ee) Nach Satz 3 (neu) wird folgender neuer Satz 4 angefügt:
 
 bb) Nach Satz 2 werden folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Der Umfang der Bachelorarbeit ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen.[4] In der Regel beträgt der Umfang ca. 30 Seiten.“ 
+„<sup>3</sup> Der Umfang der Bachelorarbeit ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen.<sup>4</sup> In der Regel beträgt der Umfang ca. 30 Seiten.“ 
 
 ## g) Abs. 7 (neu) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Die Arbeit muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst wurde, keine anderen als die angegebenen Quellen und Hilfsmittel verwendet wurden und dass die Arbeit in gleicher oder ähnlicher Form von keiner anderen Prüfungsbehörde als „nicht ausreichend“ abgelehnt wurde; § 12 bleibt unberührt.“ 
+„<sup>3</sup> Die Arbeit muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst wurde, keine anderen als die angegebenen Quellen und Hilfsmittel verwendet wurden und dass die Arbeit in gleicher oder ähnlicher Form von keiner anderen Prüfungsbehörde als „nicht ausreichend“ abgelehnt wurde; § 12 bleibt unberührt.“ 
 
 h) Abs. 8 (neu) wird wie folgt geändert: 
 
@@ -440,15 +438,15 @@ aa) In Satz 1 wird die Zahl „5“ durch die Zahl „4“ ersetzt.
 
 12 
 
-      - cc) In Satz 3 werden nach der Zahl „1“ die Worte „und 2 Sätze 2 bis 4 sowie Abs. 3“ eingefügt. 
+- cc) In Satz 3 werden nach der Zahl „1“ die Worte „und 2 Sätze 2 bis 4 sowie Abs. 3“ eingefügt. 
 
 27. § 31 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „ **Prüfungen** “ ein Komma und die Worte „ **Modulwechsel** “ angefügt. 
+- a) In der Überschrift werden nach dem Wort „ **Prüfungen** “ ein Komma und die Worte „ **Modulwechsel** “ angefügt. 
 
-   - b) In Abs. 1 Satz 8 werden die Worte „und Elternzeit“ durch ein Komma und die Worte „Eltern- und Pflegezeit“ ersetzt. 
+- b) In Abs. 1 Satz 8 werden die Worte „und Elternzeit“ durch ein Komma und die Worte „Eltern- und Pflegezeit“ ersetzt. 
 
-   - c) In Abs. 3 werden die Worte „bzw. dem Modulhandbuch“ gestrichen. 
+- c) In Abs. 3 werden die Worte „bzw. dem Modulhandbuch“ gestrichen. 
 
 28. Die Regelung in § 32 erhält folgende neue Fassung: 
 
@@ -456,7 +454,7 @@ aa) In Satz 1 wird die Zahl „5“ durch die Zahl „4“ ersetzt.
 
 29. In § 33 wird nach Abs. 10 folgender neuer Abs. 11 angefügt: 
 
-„(11)[1] Die siebzehnte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.“ 
+„(11)<sup>1</sup> Die siebzehnte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.“ 
 
 30. Die Anlagen werden wie folgt geändert: 
 

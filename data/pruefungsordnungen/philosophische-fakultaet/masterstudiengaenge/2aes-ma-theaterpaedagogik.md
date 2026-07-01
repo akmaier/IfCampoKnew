@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Theaterpaedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:38:52+00:00
+scraped_at: 2026-07-01T09:48:18+00:00
 page_count_chars: 1709
 ---
 
@@ -12,26 +12,25 @@ page_count_chars: 1709
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Theaterpaedagogik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Theaterpädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOTheaterPäd -** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Theaterpädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOTheaterPäd -** 
 
 Vom 30. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5, Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Theaterpädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität ErlangenNürnberg - FPOTheaterPäd - vom 8. Juni 2010, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
 1. In der Tabelle der Anlage erhalten die Zeilen 11 (Modul VIIa) und 12 (Modul VIIb) folgende Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|3|VIIa: Theaterpädagogische Praxisreflexion|2|15|Wiss. Hausarbeit (ca. 15 Seiten)|100%|
+||VIIa: Theaterpädagogische Praxisreflexion|2|15|Wiss. Hausarbeit (ca. 15 Seiten)|100%|
 |---|---|---|---|---|---|
-||VIIb: Theaterpädagogische Forschungspraxis|2|15|Wiss. Hausarbeit (ca. 15 Seiten)|100%|
-|||||||
+|3|VIIb: Theaterpädagogische Forschungspraxis|2|15|Wiss. Hausarbeit (ca. 15 Seiten)|100%<br>„|
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

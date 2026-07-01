@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. April 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES-Mag-PO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:50:28+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:01:16+00:00
+page_count_chars: 16256
 ---
 
 # 14. April 2003
@@ -12,340 +12,272 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES-Mag-PO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+’ 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Fiinfzehnte Satzung zur Anderung der Priifungsordnung der Universitat ErlangenNurnberg fur den Grad eines Magister Artium (Magisterprifungsordnung - MagPO) 
 
-### OCR Seite 1
+### Vom 14. April 2003 
 
-```
-Die Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium
-(Magisterprüfungsordnung - MagPO) vom 23. September 1982 (KMBl || S. 803), zuletzt ge-
-ändert durch Satzung der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Anpassung
-der Prüfungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG)
-\
-vom 12. April 2002 (KWMBI II S. ......), wird wie folgt geändert:
-1.
-8 1 Abs. 1 wird wie folgt geändert:
-a)
-In Satz 1 werden nach den Worten "Philosophischen Fakultäten" die Worte "und der
-Erziehungswissenschaftlichen Fakultät" eingefügt.
-b)
-In Satz 2 werden die Worte „im Hauptfach und in zwei Nebenfächern“ durch die Wor-
-te „in zwei Hauptfächern (Zweifächermagister) oder in einem Hauptfach und in zwei
-Nebenfächern (Dreifächermagister)* ersetzt.
-2.
-&2 Abs. 1 Satz 1 Nrn. 2 und 3 erhalten folgende Fassung:
-„2. Einer Klausur in jedem Hauptfach beziehungsweise im Hauptfach und im ersten
-Nebenfach,
-3. Einer mündlichen Prüfung in allen Fächern.“
-2. In$4 Abs. 1 Satz 2 wird das Wort „Das“ durch das Wort „Jedes“ ersetzt.
-4. 8 6 wird wie folgt geändert:
-a)
-In Absatz 4 Satz 3 werden die Worte „das Hauptfach“ durch die Worte „ein Hauptfach“
-und das Wort "beratend" durch das Wort "stimmberechtigt" ersetzt.
-b)
-In Absatz 5 Satz 6 werden die Worte „beiden Fachbereichsräte“ durch die Worte „die
-Fachbereichsräte der Philosophischen Fakultäten und der Erziehungswissenschaftli-
-chen Fakultät“ ersetzt.
-5. In& 7 Abs. 4 werden nach dem Wort "Fakultäten" die Worte "oder der Erziehungswissen-
-schaftlichen Fakultät" eingefügt.
-6.
-$9 Abs. 1 Satz 1 erhält folgende Fassung:
-„Das Thema für die Magisterarbeit soll frühestens im siebten Semester des Hauptfaches,
-in dem die Magisterarbeit angefertigt wird, ausgegeben werden‘.
-7. 8 13 wird wie folgt geändert:
-1
-```
+Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+### §1 
 
-```
-a)
-Die Absätze 1 bis 3 erhalten folgende Fassung:
-„(1) "Die Magisterprüfung wird entweder in zwei Haupffächern oder in einem Haupt-
-fach und zwei Nebenfächern abgelegt. ?Als Haupt- und Nebenfach ist jedes Fach oder
-{
-Prüfungsteilfach aus dem folgenden Fächerkatalog wählbar, soweit nichts anderes
-bestimmt ist:
-1.
-Angewandte Sprachwissenschaft
-2.
-Anglistik / Amerikanistik mit den Prüfungsteilfächern
-a)
-Anglistik: Linguistik
-b)
-Anglistik: Literaturwissenschaft
-c)
-Amerikanistik: Literaturwissenschaft
-d)
-Anglistik / Amerikanistik: Kulturwissenschaft (mit kulturraumspezifischem Schwer-
-punkt)
-e)
-Didaktik der englischen Sprache und Literatur
-3.
-Buchwissenschaft
-4.
-Christliche Archäologie
-5.
-Didaktik der Arbeitsiehre (nur als Nebenfach wählbar)
-6.
-Geographie mit den Prüfungsteilfächern
-a)
-Geographie
-b)
-Didaktik der Geographie
-7.
-Germanistik mit den Prüfungsteilfächern
-a)
-Germanische und deutsche Philologie
-|
-b)
-Neuere deutsche Literaturgeschichte
-c)
-Germanistische Linguistik
-d)
-Didaktik der Deutschen Sprache und Literatur
-8.
-Geschichte mit den Prüfungsteilfächern
-a)
-Alte Geschichte
-b)
-Mittlere Geschichte
-c)
-Bayerische und Fränkische Landesgeschichte
-d)
-Neuere und Neueste Geschichte
-e)
-Osteuropäische Geschichte
-f}
-Didaktik der Geschichte
-g)
-Landes- und Volkskunde
-9.
-Grundschulpädagogik
-10. Indoiranische Philologie
-11. Japanologie
-12. Klassische Archäologie
-13. Klassische Philologie: Griechische Philologie
-14. Klassische Philologie: Lateinische Philologie
-15. Kunstgeschichte
-16. Lateinische Philologie des Mittelalters und der Neuzeit
-17. Linguistische Informatik
-2
-```
+Die Prifungsordnung der Universitat Erlangen-Nirnberg fiir den Grad eines Magister Artium (Magisterprifungsordnung - MagPO) vom 23. September 1982 (KMBI II S. 803), zuletzt geandert durch Satzung der Friedrich-Alexander-Universitat Erlangen-Nurnberg zur Anpassung der Prufungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG) vom 12. April 2002 (KWMBI II S. ......), wird wie folgt geandert: 
 
-### OCR Seite 3
+1. § 1 Abs. 1 wird wie folgt geandert: 
 
-```
-29.
-Slavistik
-30. Soziologie mit den Prüfungsteilfächern
-a)
-Soziologie
-b)
-Didaktik der Sozialkunde
-\
-31. Theater- und Medienwissenschaft
-32. Ur- und Frühgeschichte
-33. Vergleichende Indogermanische Sprachwissenschaft
-34. Wirtschaftswissenschaften
-(2) "Im Dreifächermagister sind aus jedem Fach gemäß Absatz 1 Satz 2 bis zu zwei Prü-
-fungsteilfächer als Haupt- oder Nebenfächer wählbar. ”Im Zweifächermagister muss das
-zweite Hauptfach aus einem anderen Fach
-als dem des ersten Haupffaches
-sein.
-°Didaktik der Arbeitsiehre und Psychologie sind nur als Nebenfach wählbar. *Sinologie als
-Nebenfach
-ist nur in den Varianten „Neuzeitliches China“ oder „Traditionelles China“
-wählbar. °Slavistik ist gleichzeitig als Hauptfach und als erstes Nebenfach (Doppelfach)
-wählbar. °Von den romanistischen Fächern dürfen nicht mehr als zwei Fächer kombiniert
-werden. ’Geschichte ist im Zweifächermagister nur als Gesamtfach wählbar; näheres da-
-zu regeln die Besonderen Bestimmungen. °Didaktik der Sozialkunde ist erst dann wähl-
-bar, wenn es an der Universität Erlangen-Nürnberg durch einen Professor vertreten ist.
-(3) "Eine Fachdidaktik kann nur im Dreifächermagister studiert werden; sie muss mit Aus-
-nahme des Faches Didaktik der Arbeitslehre mit der zugehörigen Fachwissenschaft als
-Hauptfach oder erstem Nebenfach kombiniert werden. *Linguistische Informatik muss als
-Haupt- oder Nebenfach mit einem sprachwissenschaftlichen Fach (Indogermanistik, Indo-
-iranistik, Angewandte Sprachwissenschaft, Griechische Philologie, Lateinische Philologie,
-Lateinische Philologie des Mittelalters und der Neuzeit, Semitische Philologie, Assyriolo-
-gie, Sinologie, Japanologie, Galloromanische Philologie, Italoromanische Philologie, Ibe-
-roromanische Philologie, Anglistik: Linguistik, Slavistik, Germanische und deutsche Philo-
-logie, Nordische Philologie, Germanistische Linguistik) als weiterem Haupt- oder Neben-
-fach kombiniert werden.“
-b)
-Die Absätze 3a und 3b entfallen.
-10.8 19 wird wie folgt geändert:
-a) Absatz 1 wird wie folgt geändert:
-aa)
-InNr. 2 erhält der 1. Halbsatz bis zum Semikolon folgende Fassung:
-„die Zwischenprüfung nach der Zwischenprüfungsordnung vom 25. September
-1980 in der jeweils geltenden Fassung oder eine ihr gemäß $ 10 gleichgewer-
-tete und anerkannte sonstige Prüfung in beiden Hauptfächern oder im Haupt-
-fach und in einem Nebenfach bestanden hat;“
-3
-```
+   - a) In Satz 1 werden nach den Worten "Philosophischen Fakultaten” die Worte “und der Erziehungswissenschaftlichen Fakultat" eingefigt. 
 
-### OCR Seite 4
+   - b) In Satz 2 werden die Worte ,,im Hauptfach und in zwei Nebenfachern“ durch die Worte ,in zwei Hauptfachern (Zweifachermagister) oder in einem Hauptfach und in zwei Nebenfachern (Dreifachermagister)* ersetzt. 
 
-```
-wählt wird: Alte Geschichte, Mittlere Geschichte,
-Bayerische und Fränkische Lan-
-"N
-desgeschichte, Neuere und Neueste Geschichte, Landes- und Volkskunde, Buchwis-
-Hecud.+
-senschaft, Ur- und Frühgeschichte, Klassische Archäologie, Christliche Archäologie,
-„..
-»..:
-Kunstgeschichte, Musikwissenschaft, Indogermanistik, Indoiranistik, Griechische Phi-
-„of...£
-lologie, Lateinische Philologie, Lateinische Philologie des Mittelalters und der Neuzeit,
-2
-Galloromanische Philologie, Italoromanische Philologie, Iberoromanische Philologie,
-ae
-Slavistik, Germanische und deutsche Philologie, Nordische Philologie, Neuere deut-
-sche Literaturgeschichte, Germanistische Linguistik. *Bei Ur- und Frühgeschichte wird
-nur dann auf die Lateinkenntnisse verzichtet, wenn das erste Nebenfach aus dem Be-
-reich der Naturwissenschaftlichen Fakultäten gewählt wird. ”In besonderen Härtefäl-
-len kann der Nachweis von Lateinkenntnissen im Einvernehmen
-mit dem
-in den
-betreffenden Fächern jeweils zuständigen Fachvertreter vom Prüfungsausschuss er-
-lassen werden. °Eine Fremdsprache muss Englisch sein, wenn Linguistische Informa-
-tik als Haupt- oder Nebenfach gewählt wird. ”Im Fach Slavistik kann der Nachweis
-von Kenntnissen im Altgriechischen an die Stelle des Nachweises von Lateinkennt-
-nissen treten.“
-c) Der bisherige Absatz 2 wird Absatz 3.
-11.1n 8 20 Abs. 1 Satz 2 Nr. 3 werden nach dem Wort „Angabe“ die Worte „der Hauptfächer
-beziehungsweise“ eingefügt.
-12. In
-$ 22 Abs. 1 Satz 1 werden die Worte „des Hauptfaches“ durch die Worte „des gewähl-
-ten Hauptfaches“ ersetzt.
-13.8 23.Abs. 2 Satz 1 erhält folgende Fassung:
-„Mit den Klausuren gemäß $ 9 Abs. 2 soll der Bewerber grundlegende Kenntnisse und
-Fertigkeiten in den Fächern dartun, die Gegenstand seiner schriftlichen Prüfung sind.“
-14.8 24 Abs. 1 wird wie folgt geändert:
-a)
-In Satz 1 werden nach dem Wort „Prüfung“
-die Worte
-„in den beiden Hauptfächern
-beziehungsweise“ eingefügt.
-b)
-Satz 2 erhält folgende Fassung:
-„Vorsitzender in der Kollegialprüfung ist der Dekan der Fakultät, aus der das Fach
-stammt, in dem die Magisterarbeit angefertigt wurde, oder ein vom Vorsitzenden des
-Prüfungsausschusses dazu bestimmter Prüfer.“
-c)
-In Satz 3 werden die Worte „im Hauptfach“ durch die Worte „in jedem Hauptfach und“
-ersetzt.
-4
-```
+2. § 2 Abs. 1 Satz 1 Nrn. 2 und 3 erhalten folgende Fassung: »2. Einer Klausur in jedem Hauptfach beziehungsweise im Hauptfach und im ersten Nebenfach, 
 
-### OCR Seite 5
+   3. Einer mindlichen Prifung in allen Fachern.“ 
 
-```
-in der Fünfzehnten Satzung zur Änderung der Prüfungsordnung der Universität
-Erlangen-Nürnberg für den Grad eines Magister Artium (Magisterprüfungsordnung -
-MagPO) vom 14. April 2003
-ist uns ein Schreibfehler unterlaufen. Unter
-8 1Nr. 10 b (betrifft den $ 19 Abs. 2)
-muss der Satz 2 wie folgt lauten:
-"2Höchstens eine der nachzuweisenden Fremdsprachen darf Gegenstand des
-Hauptfachstudiums sein."
-Ich bitte Sie diesen Fehler in der Veröffentlichung im Amtsblatt Teil IT zu
-berichtigen.
-Mit herzlichem Dank und Grüßen aus Erlangen
-Martina Männlein
-Universität Erlangen-Nürnberg
-Referat 1/1
-Schloßplatz 4
-91054 Erlangen
-Tel. [Telefon entfernt].02.2004
-|
-```
+2. In§ 4 Abs. 1 Satz 2 wird das Wort ,Das“ durch das Wort ,Jedes“ ersetzt. 
 
-### OCR Seite 6
+#### 4. § 6 wird wie foigt geandert: 
 
-```
-17. Nach 8 27 wird eingefügt:
-„Zweiter Teil - Besondere Bestimmungen
-8 28
-Besondere Bestimmungen für das Gesamtfach Geschichte
-(1) "Im Zweifächermagister ist Geschichte nur als Gesamtfach wählbar. *Dazu gelten die
-Besonderheiten der Absätze 2 bis 4.
-(2) "Abweichend von $ 19 Abs. 1 Nr. 4 sind nachzuweisen
-1.
-ein Hauptseminar aus der Alten Geschichte oder der Mittleren Geschichte,
-2.
-ein Hauptseminar aus der Neueren oder der Neuesten Geschichte sowie
-3.
-ein weiteres Hauptseminar aus der Geschichte nach Wahl des Kandidaten.
-?Hauptseminare in der Bayerischen und Fränkischen Landesgeschichte, der Osteuropäi-
-schen Geschichte und der Landes- und Volkskunde zählen je nach Thema als Hauptse-
-minar des Mittelalters, der Neueren Geschichte oder der Neuesten Geschichte.
-(3) 'Die Klausur ist entweder im Bereich der Alten Geschichte oder der Mittleren Geschichte
-oder im Bereich der Neueren oder Neuesten Geschichte zu schreiben. ”Die mündliche Prü-
-fung findet in dem Bereich statt, der nicht Gegenstand der Klausur war.
-(4) Die Prüfungen nach Absatz 3 finden auf den Gebieten statt, die nicht Gegenstand der
-Hauptseminare nach Absatz 2 Nrn. 1 und 2 waren."
-18.8 28 wird 8 29.
-19. Die Anlage zu 8 18 Abs. 5 wird wie folgt geändert:
-a)
-In Ziffer
-I. Nr.
-1 werden die Worte "Wirtschaftliche Staatswissenschaften" durch das
-Wort "Wirtschaftswissenschaften" ersetzt.
-b)
-In Ziffer V. erhält Nr. 9 folgende Fassung:
-"Galloromanische Philologie, Iberoromanische Philologie oder Italoromanische Philo-
-logie"
-c)
-Nach Ziffer V. wird angefügt:
-"Yl. Studienschwerpunkt Osteuropa
-Der Studienschwerpunkt Osteuropa hat folgende Voraussetzungen:
-1.
-Die Fächerkombination der Magisterprüfung muss drei der folgenden Prü-
-fungsfächer beziehungsweise Prüfungsteilfächer enthalten:
-5
-```
+   - a) In Absatz 4 Satz 3 werden die Worte ,das Hauptfach“ durch die Worte ,ein Hauptfach* und das Wort "beratend” durch das Wort "stimmberechtigt" ersetzt. 
 
-### OCR Seite 7
+   - b) In Absatz 5 Satz 6 werden die Worte ,beiden Fachbereichsrate" durch die Worte ,die Fachbereichsrate der Philosophischen Fakultaten und der Erziehungswissenschaftlichen Fakultat“ ersetzt. 
 
-```
-schuss weitere Prüfungsfächer beziehungsweise Prüfungsteilfächer als Nebenfä-
-cher zulassen.
-2.
-Sonstige Voraussetzungen
-\
-a)
-In jedem der gewählten Prüfungsfächer beziehungsweise Prüfungsteilfächer
-ist ein Leistungsnachweis in einem Hauptseminar aus dem Bereich Osteuropa
-nachzuweisen.
-b)
-Die Magisterarbeit muss in einem der unter 1. genannten als Hauptfach wähl-
-baren Prüfungsfächer beziehungsweise Prüfungsteilfächer geschrieben wor-
-den sein und ein Thema aus dem Bereich Osteuropa zum Gegenstand haben.
-c)
-Es sind fundierte Kenntnisse in einer slavischen Sprache nachzuweisen, die
-den Anforderungen des sprachpraktischen Teils der Zwischenprüfung in Sla-
-vistik entsprechen.
-d)
-Ein einsemestriges Auslandsstudium in einem Land Osteuropas wird dringend
-empfohlen.
-e)
-Es sind Latein- oder Griechischkenntnisse entsprechend 8 19 Abs. 2 nachzu-
-weisen. "
-82
-Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom
-11. Februar 2003 und der Genehmigung des Bayerischen Staatsministeriums für Wissen-
-schaft, Forschung und Kunst mit Schreiben vom 7. April 2003 Nr. X/4-5e66M(9)-10b/53
-010/02.
-Erlangen, den 14. April 2003
+5. In § 7 Abs. 4 werden nach dem Wort "Fakultaten” die Worte "oder der Erziehungswissenschaftlichen Fakultat" eingefigt. 
+
+6. § 9 Abs. 1 Satz 1 erhalt folgende Fassung: »Das Thema flr die Magisterarbeit soll fruhestens im siebten Semester des Hauptfaches, in dem die Magisterarbeit angefertigt wird, ausgegeben werden”. 
+
+7. § 13 wird wie folgt geandert: 
+
+1 
+
+( 
+
+- a) In Absatz 2 Satz 1 werden die Worte ,im Hauptfach" durch die Worte “in einem Hauptfach* ersetzt. 
+
+- b) Absatz 4 Satz 1 erhalt folgende Fassung: 
+
+   - »Die Gesamtnote errechnet sich im Zweifachermagister zu je einem Drittel aus der Note fur die Magisterarbeit und den beiden Fachnoten ftir die Hauptfacher, im Dreifachermagister als Mittel aus der doppelt gewichteten Note flr die Magisterarbeit, den doppelt gewichteten Fachnoten des Hauptfaches und des ersten Nebenfaches sowie der einfach gewichteten Fachnote des zweiten Nebenfaches, dabei sind zwei Stellen nach dem Komma zu beriicksichtigen.“ 
+
+### 8. Die Uberschrift vor§ 18 wird gestrichen. 
+
+#### 9. § 18 wird wie folgt geandert: 
+
+- a) Die Absatze 1 bis 3 erhalten folgende Fassung: »(1) ‘Die Magisterpriifung wird entweder in zwei Hauptfachern oder in einem Haupt- 
+
+- fach und zwei Nebenfachern abgelegt. “Als Haupt- und Nebenfach ist jedes Fach oder Prifungsteilfach aus dem folgenden Facherkatalog wahlbar, soweit nichts anderes bestimmt ist: 
+
+1. Angewandte Sprachwissenschaft 2. Anglistik / Amerikanistik mit den Prifungsteilfachern a) Anglistik: Linguistik b) Anglistik: Literaturwissenschaft 
+
+   - c) Amerikanistik: Literaturwissenschaft d) Anglistik / Amerikanistik: Kulturwissenschaft (mit kulturraumspezifischem Schwerpunkt) 
+
+   - e) Didaktik der englischen Sprache und Literatur 
+
+3. Buchwissenschaft 4. Christliche Archaologie 
+
+5. Didaktik der Arbeitslehre (nur als Nebenfach wahlbar) 
+
+6. Geographie mit den Priifungsteilfachern 
+
+   - a) Geographie 
+
+   - b) Didaktik der Geographie 
+
+7. Germanistik mit den Prifungsteilfachern 
+
+   - a) Germanische und deutsche Philologie b) Neuere deutsche Literaturgeschichte 
+
+   - c) Germanistische Linguistik d) Didaktik der Deutschen Sprache und Literatur 
+
+8. Geschichte mit den Priifungsteilfachern a) Alte Geschichte 
+
+   - b) Mittlere Geschichte c) Bayerische und Frankische Landesgeschichte 
+
+   - d) Neuere und Neueste Geschichte e) Osteuropaische Geschichte f) Didaktik der Geschichte g) Landes- und Volkskunde 
+
+9. Grundschulpadagogik 10. Indoiranische Philologie 
+
+11. Japanologie 
+
+12. Klassische Archaologie 
+
+13. Klassische Philologie: Griechische Philologie 
+
+14. Klassische Philologie: Lateinische Philologie 
+
+15. Kunstgeschichte 
+
+16. Lateinische Philologie des Mittelalters und der Neuzeit 
+
+17. Linguistische Informatik 
+
+2 
+
+‘ 
+
+18. Musikwissenschaft 19. Nordische Philologie 
+
+20. Orientalistik mit den Priifungsteilfachern a) Semitische Philologie b) Islamwissenschaften c) Assyriologie 21. Padagogik 22. Philosophie 23. Politische Wissenschaft 24. Psychologie (nur als Nebenfach wahibar) 
+
+25. Romanistik: Galloromanische Philologie 
+
+26. Romanistik: Iberoromanische Philologie 
+
+27. Romanistik: Italoromanische Philologie 
+
+28. Sinologie 29. Slavistik 30. Soziologie mit den Prifungsteilfachern a) Soziologie b) Didaktik der Sozialkunde 31. Theater- und Medienwissenschaft 
+
+32. Ur- und Friihgeschichte 33. Vergleichende Indogermanische Sprachwissenschaft 34. Wirtschaftswissenschaften 
+
+(2) ‘lm Dreifachermagister sind aus jedem Fach gema® Absatz 1 Satz 2 bis zu zwei Prifungsteilfacher als Haupt- oder Nebenfacher wahibar. *Im Zweifachermagister muss das zweite Hauptfach aus einem anderen Fach als dem des ersten Hauptfaches sein. *Didaktik der Arbeitslehre und Psychologie sind nur als Nebenfach wahlbar. “Sinologie als Nebenfach ist nur in den Varianten ,Neuzeitliches China“ oder ,,Traditionelles China‘ wahlbar. °Slavistik ist gleichzeitig als Hauptfach und als erstes Nebenfach (Doppelfach) wahibar. “Von den romanistischen Fachern durfen nicht mehr als zwei Facher kombiniert werden. ’Geschichte ist im Zweifachermagister nur als Gesamtfach wahlbar; naheres dazu regein die Besonderen Bestimmungen. *Didaktik der Sozialkunde ist erst dann wahlbar, wenn es an der Universitat Erlangen-Nirnberg durch einen Professor vertreten ist. 
+
+(3) 'Eine Fachdidaktik kann nur im Dreifachermagister studiert werden; sie muss mit Ausnahme des Faches Didaktik der Arbeitslehre mit der zugehdrigen Fachwissenschaft als Hauptfach oder erstem Nebenfach kombiniert werden. *Linguistische Informatik muss als Haupt- oder Nebenfach mit einem sprachwissenschaftlichen Fach (Indogermanistik, Indoiranistik, Angewandte Sprachwissenschaft, Griechische Philologie, Lateinische Philologie, Lateinische Philologie des Mittelalters und der Neuzeit, Semitische Philologie, Assyriologie, Sinologie, Japanologie, Galloromanische Philologie, Italoromanische Philologie, Iberoromanische Philologie, Anglistik: Linguistik, Slavistik, Germanische und deutsche Philologie, Nordische Philologie, Germanistische Linguistik) als weiterem Haupt- oder Nebenfach kombiniert werden." 
+
+b) Die Absatze 3a und 3b enifallen. 
+
+10. § 19 wird wie folgt geandert: 
+
+a) Absatz 1 wird wie folgt geandert: 
+
+- aa) In Nr. 2 erhalt der 1. Halbsatz bis zum Semikolon folgende Fassung: »die Zwischenpriifung nach der Zwischenpriifungsordnung vom 25. September 1980 in der jeweils geltenden Fassung oder eine ihr gema® § 10 gleichgewertete und anerkannte sonstige Priifung in beiden Hauptfachern oder im Hauptfach und in einem Nebenfach bestanden hat;“ 
+
+3 
+
+a 
+
+   - bb) Nr. 4 erhalt folgende Fassung: ,»Belege Uber die erfolgreiche Teilnahme an zwei Hauptseminaren in jedem der beiden Hauptfacher beziehungsweise an zwei Hauptseminaren im Hauptfach und je einem Hauptseminar in den beiden Nebenfachern vorlegt, soweit die Besonderen Bestimmungen nichts anderes vorsehen;* 
+
+   - Cc) Nr. 7 erhalt folgende Fassung: »Kenntnisse in zwei Fremdsprachen nachweist;“ 
+
+- b) Es wird folgender neuer Absatz 2 eingefigt: ,(2) ‘Als Fremdsprache im Sinne von Absatz 1 Nr. 7 gilt eine andere Sprache als die Muttersprache des Kandidaten. *Héchstens eine der nachzuweisenden Fremdspra- Ue ok — chen darf Gegenstand des Hauptstudiums sein. “Eine dieser Fremdsprachen muss | = i : Latein sein, falls eines der folgenden Facher als Haupt- oder erstes Nebenfach ge||). wahlt wird: Alte Geschichte, Mittlere Geschichte, Bayerische und Frankische Lan~~~" * desgeschichte, Neuere und Neueste Geschichte, Landes- und Volkskunde, BuchwisGand .+ senschaft, Ur- und Fruhgeschichte, Klassische Archaologie, Christliche Archadologie, +. ».:4 Kunstgeschichte, Musikwissenschaft, Indogermanistik, Indoiranistik, Griechische Phio,24ec7¢ lologie, Lateinische Philologie, Lateinische Philologie des Mittelalters und der Neuzeit, iyZ Galloromanische Philologie, Italoromanische Philologie, Iberoromanische Philologie, 2 at ne Slavistik, Germanische und deutsche Philologie, Nordische Philologie, Neuere deuta. sche Literaturgeschichte, Germanistische Linguistik. “Bei Ur- und Fruhgeschichte wird nur dann auf die Lateinkenntnisse verzichtet, wenn das erste Nebenfach aus dem Bereich der Naturwissenschaftlichen Fakultaten gewahlt wird. °In besonderen Hartefallen kann der Nachweis von Lateinkenntnissen im Einvernehmen mit dem in den betreffenden Fachern jeweils zustandigen Fachvertreter vom Priifungsausschuss erlassen werden. °Eine Fremdsprache muss Englisch sein, wenn Linguistische Informatik als Haupt- oder Nebenfach gewahlt wird. ’Im Fach Slavistik kann der Nachweis von Kenntnissen im Altgriechischen an die Stelle des Nachweises von Lateinkenntnissen treten.“ 
+
+#### c) Der bisherige Absatz 2 wird Absatz 3. 
+
+11. In § 20 Abs. 1 Satz 2 Nr. 3 werden nach dem Wort ,Angabe* die Worte ,der Hauptfacher beziehungsweise“ eingefigt. 
+
+12. In § 22 Abs. 1 Satz 1 werden die Worte ,des Hauptfaches* durch die Worte ,,des gewahlten Hauptfaches* ersetzt. 
+
+#### 13. § 23-Abs. 2 Satz 1 erhalt folgende Fassung: 
+
+»Mit den Klausuren gema& § 9 Abs. 2 soll der Bewerber grundlegende Kenntnisse und Fertigkeiten in den Fachern dartun, die Gegenstand seiner schriftlichen Priifung sind.“ 
+
+14. § 24 Abs. 1 wird wie folgt geandert: 
+
+- a) In Satz 1 werden nach dem Wort ,Priifung* die Worte ,in den beiden Hauptfachern beziehungsweise“ eingefigt. 
+
+- b) Satz 2 erhalt folgende Fassung: »Vorsitzender in der Kollegialprufung ist der Dekan der Fakultat, aus der das Fach stammt, in dem die Magisterarbeit angefertigt wurde, oder ein vom Vorsitzenden des Prufungsausschusses dazu bestimmter Prufer.“ 
+
+- c) In Satz 3 werden die Worte ,im Hauptfach* durch die Worte ,in jedem Hauptfach und“ ersetzt. 
+
+4 
+
+#### Martina Mannlein 
+
+Von: Martina Manniein [[E-Mail entfernt]] Gesendet: Dienstag, 3. Februar 2004 16:07 An: Kromer-Ramml Ce: [E-Mail entfernt]; [E-Mail entfernt]; [E-Mail entfernt]; michael. [E-Mail entfernt]; [E-Mail entfernt]; Wirth 
+
+Betreff: | Fehler in der 15. AS der MagPO 
+
+## Sehr geehrte Frau Kromer-Ramml, 
+
+; 
+
+# in der Funfzehnten Satzung zur Anderung der Priifungsordnung der Universitat Erlangen-Niirnberg fiir den Grad eines Magister Artium (Magisterpriifungsordnung - MagPO) vom 14. April 2003 
+
+ist uns ein Schreibfehler unterlaufen. Unter § 1 Nr. 10 b (betrifft den § 19 Abs. 2) muss der Satz 2 wie folgt lauten: 
+
+"2Hochstens eine der nachzuweisenden Fremdsprachen darf Gegenstand des Hauptfachstudiums sein." 
+
+Ich bitte Sie diesen Fehler in der Veréffentlichung im Amtsblatt Teil IT zu berichtigen. 
+
+Mit herzlichem Dank und GriiBen aus Erlangen 
+
+Martina Mannlein 
+
+Universitat Erlangen-Nurnberg Referat I/1 SchloBplatz 4 91054 Erlangen Tel. [Telefon entfernt] 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+03.02.2004 
+
+- 15.In § 25 Abs. 1 werden nach dem Wort ,Fachnoten“ die Worte ,in jedem der beiden Hauptfacher beziehungsweise" eingefigt. 
+
+16. § 27 Abs. 2 wird wie folgt geandert: 
+
+- a) Satz 2 erhalt folgende Fassung: »Die Urkunde weist die beiden Hauptfacher beziehungsweise das Hauptfach und die beiden Nebenfacher, den Titel und die Note der Magisterarbeit sowie die Gesamtnote aus.“ 
+
+- b) in Satz 3 erhalt Buchstabe b folgende Fassung: ,0) die in der schriftlichen und miindlichen Prifung erzielten Noten sowie die Fachnoten und“ 
+
+17. Nach § 27 wird eingefiigt: 
+
+,2weiter Teil - Besondere Bestimmungen 
+
+§ 28 Besondere Bestimmungen fiir das Gesamtfach Geschichte 
+
+(1) ‘Im Zweifachermagister ist Geschichte nur als Gesamtfach wahibar. *Dazu gelten die Besonderheiten der Absatze 2 bis 4. 
+
+### (2) ‘Abweichend von § 19 Abs. 1 Nr. 4 sind nachzuweisen 
+
+- {. ein Hauptseminar aus der Alten Geschichte oder der Mittleren Geschichte, 2. ein Hauptseminar aus der Neueren oder der Neuesten Geschichte sowie 3. ein weiteres Hauptseminar aus der Geschichte nach Wahl des Kandidaten. 
+
+- ?Hauptseminare in der Bayerischen und Frankischen Landesgeschichte, der Osteuropaischen Geschichte und der Landes- und Volkskunde zahlen je nach Thema als Hauptseminar des Mittelalters, der Neueren Geschichte oder der Neuesten Geschichte. 
+
+(3) 'Die Klausur ist entweder im Bereich der Alten Geschichte oder der Mittleren Geschichte oder im Bereich der Neueren oder Neuesten Geschichte zu schreiben. “Die mundliche Priifung findet in dem Bereich statt, der nicht Gegenstand der Klausur war. 
+
+(4) Die Priifungen nach Absatz 3 finden auf den Gebieten statt, die nicht Gegenstand der Hauptseminare nach Absaiz 2 Nrn. 1 und 2 waren." 
+
+18. § 28 wird § 29. 
+
+19. Die Anlage zu § 18 Abs. 5 wird wie folgt geandert: 
+
+- a) In Ziffer |. Nr. 1 werden die Worte "Wirtschaftliche Staatswissenschaften" durch das Wort "Wirtschaftswissenschaften" ersetzt. 
+
+- b) In Ziffer V. erhalt Nr. 9 folgende Fassung: "Galloromanische Philologie, Ilberoromanische Philologie oder Italoromanische Philologie" 
+
+- c) Nach Ziffer V. wird angefigt: "Vi. Studienschwerpunkt Osteuropa 
+
+Der Studienschwerpunkt Osteuropa hat folgende Voraussetzungen: 
+
+1. Die Facherkombination der Magisterprifung muss drei der folgenden Prifungsfacher beziehungsweise Prifungsteilfacher enthalten: 
+
+5 
+
+‘ 
+
+- a) Slavistik 
+
+- b) Osteuropaische Geschichte 
+
+- c) Geschichte und Theologie des Christlichen Ostens 
+
+- d) Soziologie 
+
+- e) Neuere deutsche Literaturgeschichte 
+
+- f) Vergleichende Indogermanische Sprachwissenschaft g) Wirtschaftswissenschaften 
+
+Osteuropaische Geschichte oder Slavistik mUssen in jedem Fall Gegenstand der Magisterprifung sein. Slavistik kann im Studienschwerpunkt Osteuropa nicht als Doppelfach gewahit werden. Vergleichende Indogermanische Sprachwissenschaft erfordert im Studienschwerpunkt Osteuropa die Spezialisierung in der Baltistik. Geschichte und Theologie des Christlichen Ostens kann nur als Nebenfach gemak § 18 Abs. 4 gewahit werden. In Ausnahmefallen kann der Priifungsausschuss weitere Priifungsfacher beziehungsweise Prifungsteilfacher als Nebenfacher zulassen. 
+
+2. Sonstige Voraussetzungen 
+
+- a) In jedem der gewahiten Prifungsfacher beziehungsweise Prifungsteilfacher ist ein Leistungsnachweis in einem Hauptseminar aus dem Bereich Osteuropa nachzuweisen. 
+
+- b) Die Magisterarbeit muss in einem der unter 1. genannten als Hauptfach wahlbaren Priifungsfacher beziehungsweise Prifungsteilfacher geschrieben worden sein und ein Thema aus dem Bereich Osteuropa zum Gegenstand haben. 
+
+- c) Es sind fundierte Kenntnisse in einer slavischen Sprache nachzuweisen, die den Anforderungen des sprachpraktischen Teils der Zwischenprifung in Slavistik entsprechen. 
+
+- d) Ein einsemestriges Auslandsstudium in einem Land Osteuropas wird dringend empfohien. 
+
+- e) Es sind Latein- oder Griechischkenntnisse entsprechend § 19 Abs. 2 nachzuweisen. " 
+
+### §2 
+
+### Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nurnberg vom 11. Februar 2003 und der Genehmigung des Bayerischen Staatsministeriums fiir Wissenschaft, Forschung und Kunst mit Schreiben vom 7. April 2003 Nr. X/4-5e66M(9)-10b/53 010/02. 
+
+Erlangen, den 14. April 2003 
 [Kontaktperson entfernt]
-Die Satzung wurde am 14. April 2003 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 14. April 2003 durch Anschlag in der Universität Erlangen-Nürnberg
-bekannt gegeben. Tag der Bekanntmachung ist der 14. April 2003.
-6
-```
+Die Satzung wurde am 14. April 2003 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 14. April 2003 durch Anschlag in der Universitat Erlangen-Niirnberg bekannt gegeben. Tag der Bekanntmachung ist der 14. April 2003. 
+
+6 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Mai 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_2Fach-BA_OeffentlichesRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:08:34+00:00
-page_count_chars: 4480
+scraped_at: 2026-07-01T10:26:25+00:00
+page_count_chars: 4340
 ---
 
 # 6. Mai 2013
@@ -14,11 +14,11 @@ page_count_chars: 4480
 
 **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zweitfach im Zwei-Fach-Bachelorstudiengang mit Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 6. Mai 2013 
+# Vom 6. Mai 2013 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zweitfach im Zwei-Fach-Bachelorstudiengang mit Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg vom 7. November 2008 wird wie folgt geändert: 
 
@@ -28,31 +28,28 @@ Die Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zwei
 
 „ 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|<br>**1.**<br>**Sem**|**2.**<br>**Sem**|**3.**<br>**Sem**|**4.**<br>**Sem**|**5.**<br>**Sem**|**6.**<br>**Sem**|**Art und Umfang**<br>**der Prüfung**<br>**/Studienleistung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**P**|**S**|**PÜ**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||
-|**Einführungsmodul**|Einführung in die<br>Rechtswissenschaft für<br>Nebenfachstudierende|2||||5|5||||||Klausur (120<br>Minuten)|
-|**Grundlagenmodul**|Grundlagenfach nach<br>Wahl (insbesondere<br>Allgemeine Staatslehre;<br>Verfassungsgeschichte;<br>Rechtsphilosophie;<br>Rechtstheorie; Deutsche<br>bzw. Römische<br>Rechtsgeschichte)|2||||5|(5)|(5)|||||Klausur (120<br>Minuten)|
-|**Staatsorganisationsrecht**|Staatsorganisationsrecht|4||||10|7,5||||||Klausur (120|
-||Staatsorganisationsrecht||||2||2,5||||||Minuten)|
-|||||||||||||||
-|**Grundrechte**|Grundrechte|4||||10||7,5|||||Klausur (120<br>Minuten)|
-||Grundrechte||||2|||2,5||||||
-|||||||||||||||
-|**Allgemeine Grundlagen**<br>**des Verwaltungsrechts**|Allgemeines<br>Verwaltungsrecht|4||||10|||7,5||||Klausur (120<br>Minuten)|
-||Allgemeines<br>Verwaltungsrecht||||2||||2|||||
-||||||||||,5|||||
-|||||||||||||||
-|**Europa- und Völkerrecht**<br>**I**|EuroparechtI|||||10||||5|||Klausur (120<br>Minuten)|
-||VölkerrechtI|||||||||5||||
-|**Vlh I**|Polizeirecht|||||10||||5|||Klausur (120|
-|**erwatungsrect**|Verwaltungsprozessrecht|||||||||5|||Minuten)|
-|||||||||||||||
-|**Europa- und Völkerrecht**<br>**II**|Europarecht II|||||10|||||5||Klausur (120<br>Minuten)|
-||Völkerrecht II||||||||||5|||
-||Kommunalrecht||||||||||5||Klausur (120|
-|**Verwaltungsrecht II**|Umweltrecht I|||||10|||||5||Minuten)|
-||**Summe:**|||||**70**|**15**|**15**|**10**|**20**|**10**|||
+||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**Art und Umfang**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**||**Gesamt**<br>**ECTS**|**Sem**|**Sem**|**Sem**|**Sem**|**Sem**|**Sem**|<br>**der Prüfung**|
+|||**V**<br>**P**<br>**S**|**PÜ**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**/Studienleistung**|
+|**Einführungsmodul**|Einführung in die<br>Rechtswissenschaft für<br>Nebenfachstudierende|2||5|5||||||Klausur (120<br>Minuten)|
+|**Grundlagenmodul**|Grundlagenfach nach<br>Wahl (insbesondere<br>Allgemeine Staatslehre;<br>Verfassungsgeschichte;<br>Rechtsphilosophie;<br>Rechtstheorie; Deutsche<br>bzw. Römische<br>Rechtsgeschichte)|2||5|(5)|(5)|||||Klausur (120<br>Minuten)|
+|**Staatsorganisationsrecht**|Staatsorganisationsrecht|4||1|7,5||||||Klausur (120|
+||Staatsorganisationsrecht||2|0|2,5||||||Minuten)|
+|**Grundrechte**|Grundrechte|4||10||7,5|||||Klausur (120|
+||Grundrechte||2|||2,5|||||Minuten)|
+|**Allgemeine Grundlagen**<br>**des Verwaltungsrechts**|Allgemeines<br>Verwaltungsrecht|4||10|||7,5||||Klausur (120|
+||Allgemeines||2||||25||||Minuten)|
+||Verwaltungsrecht||||||,|||||
+|**Europa- und Völkerrecht**|EuroparechtI|||||||5|||Klausur (120|
+|<br>**I**|VölkerrechtI|||10||||5|||<br>Minuten)|
+|**Vltht I**|Polizeirecht|||10||||5|||Klausur (120|
+|**erwaungsrec**|Verwaltungsprozessrecht|||||||5|||Minuten)|
+|**Europa- und Völkerrecht**|Europarecht II||||||||5||Klausur (120|
+|<br>**II**|Völkerrecht II|||10|||||5||<br>Minuten)|
+||Kommunalrecht|||10|||||5||Klausur (120|
+|**Verwaltungsrecht II**|Umweltrecht I||||||||5||Minuten)|
+||**Summe:**|||**70**|**15**|**15**|**10**|**20**|**10**|||
 
 “ 
 
@@ -74,9 +71,9 @@ In Satz 1 werden nach dem Wort „genannten“ die Worte „Teilprüfungen sowie
 
 4. In § 6 Nr. 1 werden die Worte „Modul Grundlagen“ durch die Worte „Einführungsund Grundlagenmodul“ ersetzt sowie die Zahl „10“ durch das Wort und die Zahl „je 5“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2013/2014 aufnehmen.[3] Studierende, die ihr Bachelorstudium vor dem In-Kraft-Treten dieser Änderungssatzung aufgenommen haben, können ihr Bachelorstudium auf Antrag nach dieser Änderungssatzung fortsetzen.[4] Der Antrag ist vor Antritt der geänderten Prüfung beim Prüfungsamt zu stellen. 
+1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2013/2014 aufnehmen.<sup>3</sup> Studierende, die ihr Bachelorstudium vor dem In-Kraft-Treten dieser Änderungssatzung aufgenommen haben, können ihr Bachelorstudium auf Antrag nach dieser Änderungssatzung fortsetzen.<sup>4</sup> Der Antrag ist vor Antritt der geänderten Prüfung beim Prüfungsamt zu stellen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 24. April 2013 und der Genehmigungsfeststellung des Präsidenten vom 6. Mai 2013. 
 

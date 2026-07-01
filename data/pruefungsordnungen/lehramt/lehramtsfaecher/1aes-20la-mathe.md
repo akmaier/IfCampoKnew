@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Mathe.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:14:38+00:00
-page_count_chars: 3062
+scraped_at: 2026-07-01T08:42:17+00:00
+page_count_chars: 3057
 ---
 
 # 7. Mai 2010
@@ -12,17 +12,17 @@ page_count_chars: 3062
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Mathe.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 7. Mai 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009 wird wie folgt geändert: 
 
-## § 6 wird wie folgt geändert: 
+# § 6 wird wie folgt geändert: 
 
 a) In Abs. 4 erhält die Tabelle folgende Fassung: 
 
@@ -39,7 +39,7 @@ a) In Abs. 4 erhält die Tabelle folgende Fassung:
 
 - ** Wird das Modul 1b gewählt, sind die Module 2b und 3 abzulegen. 
 
-## b) In Abs. 6 erhält die Tabelle folgende Fassung 
+# b) In Abs. 6 erhält die Tabelle folgende Fassung 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ a) In Abs. 4 erhält die Tabelle folgende Fassung:
 
 - **Wird das Modul 1b gewählt, ist das Modul 2b abzulegen 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am 1. Oktober 2009 in Kraft. Sie gilt für die Studierenden, die ab dem Wintersemester 2009/2010 das Lehramtsstudium der Mathematik aufnehmen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES-2FachBA LateinPhilologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:57+00:00
-page_count_chars: 5802
+scraped_at: 2026-07-01T10:24:37+00:00
+page_count_chars: 5297
 ---
 
 # 7. Juli 2014
@@ -12,17 +12,17 @@ page_count_chars: 5802
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES-2FachBA LateinPhilologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 7. Juli 2014 
+# Vom 7. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
-## 1. § 4 wird wie folgt geändert: 
+# 1. § 4 wird wie folgt geändert: 
 
 a) Abs. 1 erhält folgende Fassung: 
 
@@ -40,47 +40,44 @@ bb) Satz 2 wird gestrichen. Die Satznummerierung wird angepasst.
 
 3. Nach § 8 wird folgende Anlage angefügt: 
 
-## „ **Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie** 
+# <u>„</u> **<u>Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|<br>Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Art und Umfang der<br>Prüfung /Studienleistung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||Punkten1||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|||
-|Lateinische<br>Literaturwissenschaft I|UE: Einführung in die<br>Lateinische Philologie|||2||10|2||||||Portfolioprüfung:<br>Klausur (45 Min, 50%) und<br>Referat und Hausarbeit  (45<br>Min, 10-12 S., 50%)|0|
-||VL: Lateinische Literatur<br>(Prosa)|2||||||2|||||||
-||PS: Lateinische Literatur<br>(Prosa)||||||||||||||
-||||2|||||6|||||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis I|UE: dt.-lat. Übersetzung<br>(Grundlagen 1)|||2||10|2||||||Portfolioprüfung:<br>Klausur in dt.-lat.<br>Übersetzung (90 Min.)<br>Klausur in lat.-dt.<br>Übersetzung (90 Min.)<br>Die Modulnote ist die Note<br>der besseren Klausur.|0|
-||UE: dt.-lat. Übersetzung<br>(Grundlagen 2)|||2||||4|||||||
-||UE: lat.-dt. Übersetzung<br>(Grundlagen)|||2||||4|||||||
-|Altertumswissenschaft<br>für Latinisten|VL / UE: Alte Geschichte|(2)||(2)||10|||3||||Referat zur Exkursion (45<br>Min., 100%)|1|
-||VL / UE: Klassische<br>Archäologie|(2)||(2)|||||3||||||
-||Exkursion mit<br>Vorbereitungskurs||||2|||||4|||||
-|Lateinische<br>Literaturwissenschaft II|VL: Lateinische Literatur<br>(Poesie)|2||||10|||(2)|(2)|||Portfolioprüfung:<br>Klausur (45 Min, 20%) und<br>Referat oder Thesenpapier (45<br>Min. oder 5 S., 40%) und<br>Hausarbeit (10-12 S., 40%)|1|
-||PS: Lateinische Literatur<br>(Poesie)||2||||||(4)|(4)|||||
-||PS: Epochen der<br>lateinischen Literatur2||2||||||(4)|(4)|||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis II|UE: Kursorische Lektüre|||2||||||2|||Portfolioprüfung:<br>Klausur in dt.-lat.<br>Übersetzung (90 Min.)<br>Klausur in lat.-dt.<br>Übersetzung (90 Min.)<br>Die Modulnote ist die Note<br>der besseren Klausur.|1|
-||UE: dt.-lat- Übersetzung<br>(Aufbau)||||||||||||||
-|||||2||10||||4|||||
-||UE: lat.-dt. Übersetzung<br>(Aufbau)||||||||||||||
-||||||||||||||||
-|||||2||||||4|||||
-||||||||||||||||
-|Wahlpflichtmodul||||||10|10||||||nach Maßgabe des Faches|0|
+|Modulbezeichnung|Lehrveranstaltung|SW|S|Gesamt|Workload-V|erteilung<br>Punk|pro Semester in ECTS-<br>ten<sup>1</sup>|Art und Umfang der|Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>S|Ü<br>P|ECTS|1.<br>2.|3.|4.<br>5.<br>6.|Prüfung /Studienleistung|Modulnote|
+||UE: Einführung in die<br>Lateinische Philologie||2||2|||Portfolioprüfung:||
+|Lateinische<br>Literaturwissenschaft I|VL: Lateinische Literatur<br>(Prosa)|2||10|2|||Klausur (45 Min, 50%) und<br>Referat und Hausarbeit  (45|0|
+||PS: Lateinische Literatur<br>(Prosa)|2|||6|||Min, 10-12 S., 50%)||
+||UE: dt.-lat. Übersetzung<br>(Grundlagen 1)||2||2|||Portfolioprüfung:<br>Klausur in dt.-lat.<br>||
+|Lateinische<br>Sprachwissenschaft und|UE: dt.-lat. Übersetzung<br>(Grundlagen 2)||2|10|4|||Übersetzung (90 Min.)<br>Klausur in lat.-dt.<br>|0|
+|Sprachpraxis I|UE: lat.-dt. Übersetzung<br>(Grundlagen)||2||4|||Übersetzung (90 Min.)<br>Die Modulnote ist die Note<br>der besseren Klausur.||
+||VL / UE: Alte Geschichte|(2)|(2)|||3||||
+|Altertumswissenschaft<br>für Latinisten|VL / UE: Klassische<br>Archäologie|(2)|(2)|10||3||Referat zur Exkursion (45<br>Min., 100%)|1|
+||Exkursion mit<br>Vorbereitungskurs||2||||4|||
+||VL: Lateinische Literatur<br>(Poesie)|2||||(2)|(2)|Portfolioprüfung:<br>Kl 45 Mi 20% d||
+|Lateinische<br>Literaturwissenschaft II|PS: Lateinische Literatur<br>(Poesie)|2||10||(4)|(4)|ausur ( n, ) un<br>Referat oder Thesenpapier (45<br>Min oder 5 S 40%) und|1|
+||PS: Epochen der<br>lateinischen Literatur<sup>2</sup>|2||||(4)|(4)|.   .,<br>Hausarbeit (10-12 S., 40%)||
+||UE: Kursorische Lektüre||2||||2|Portfolioprüfung:||
+|Lateinische|UE: dt.-lat- Übersetzung<br>(Aufbau)||2||||4|Klausur in dt.-lat.<br>Übersetzung (90 Min.)||
+|Sprachwissenschaft und||||10||||Klausur in lat.-dt.|1|
+|Sprachpraxis II|UE: lat.-dt. Übersetzung<br>(Aufbau)||2||||4|Übersetzung (90 Min.)<br>Die Modulnote ist die Note<br>der besseren Klausur.||
+|Wahlpflichtmodul||||10|10|||nach Maßgabe des Faches|0|
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 
 2 Das Proseminar kann auch aus dem Angebot des B.A. Mittellatein und Neulatein gewählt werden. 
 
-|Lateinische<br>Literaturwissenschaft III|UE: Praxis und<br>Methodik der<br>lateinischen<br>Interpretation|||2||10|||||2||Referat (45 Min., 100%) oder<br>Thesenpapier (5 S., 100%)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||S: Lateinische Literatur<br>und Sprache||2||||||||6||||
-||VL/UE Gräzistik|(2)||(2)|||||||2||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis III|UE:<br>Sprachwissenschaftliche<br>Theorie (Prosodie und<br>Metrik)|||2||10||||||2|Portfolioprüfung:<br>Klausur in dt.-lat.<br>Übersetzung (90 Min.)<br>Klausur in lat.-dt.<br>Übersetzung (90 Min.)<br>Die Modulnote ist die Note<br>der besseren Klausur.|1|
-||UE: dt.-lat. Übersetzung<br>(Vertiefung)|||2||||||||4|||
-||UE: lat.-dt. Übersetzung<br>(Vertiefung)|||2||||||||4|||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (40 S., 50%)<br>und mündliche Prüfung (30<br>Min.,50%)|1|
-||Summe:||||||14|16|16|14|10|20|||
+|Lateinische<br>Literaturwissenschaft III|UE: Praxis und<br>Methodik der<br>lateinischen<br>Interpretation<br>||2|10|||2||Referat (45 Min., 100%) oder<br>Thesenpapier (5 S 100%)|1|
+|---|---|---|---|---|---|---|---|---|---|---|
+||S: Lateinische Literatur<br>und Sprache|2|||||6||.,||
+||VL/UE Gräzistik|(2)|(2)||||2||||
+|Lateinische<br>|UE:<br>Sprachwissenschaftliche<br>Theorie (Prosodie und<br>Metrik)||2|||||2|Portfolioprüfung:<br>Klausur in dt.-lat.<br>Übersetzung (90 Min.)<br>||
+|Srachwissenschaft und||||10|||||Klausur in lat-dt|1|
+|p|UE dtlt Übt||||||||..||
+|Sprachpraxis III|: .-a. ersezung<br>(Vertiefung)||2|||||4|Übersetzung (90 Min.)<br>Die Modulnote ist die Note||
+||UE: lat.-dt. Übersetzung<br>(Vertiefung)||2|||||4|<br>der besseren Klausur.||
+|Bachelorarbeit||||10||||10|Bachelorarbeit (40 S., 50%)<br>und mündliche Prüfung (30<br>Min.,50%)|1|
+||Summe:||||14<br>16|16|14<br>10|20|||
 
 “ 
 

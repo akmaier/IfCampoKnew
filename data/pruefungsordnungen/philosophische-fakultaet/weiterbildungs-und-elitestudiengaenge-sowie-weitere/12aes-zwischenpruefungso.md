@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Januar 1992"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/12AES_ZwischenpruefungsO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:51:29+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:06:59+00:00
+page_count_chars: 2308
 ---
 
 # 14. Januar 1992
@@ -12,52 +12,48 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/12AES_ZwischenpruefungsO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+& 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Zwolfte Satzung zur Anderung der Zwischenpriifungsordnung der Universitat ErlangenNurnberg 
 
-### OCR Seite 1
+# Vom 14. Januar 1992 
 
-```
-$1
-Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg vom 25. September 1980
-(KMBl II S. 269), zuletzt geändert durch Satzung vom 16. Oktober 1991 (KWMBI ITS.
-),
-wird wie folgt geändert:
-1.
-834 Abs. 3 erhält folgende Fassung:
-"(3) Prüfungsteile
-Die Zwischenprüfung besteht aus
-1. Einer schriftlichen Prüfung von drei Stunden Dauer über einen in Absatz 2 genannten
-Teilbereich, die sich inhaltlich auf die Grundlagenvorlesung über den gewählten Teilbe-
-reich bezieht. Zugrundegelegt werden die Inhalte der Vorlesungen des Prüfungs- und
-des vorangegangenen Semesters.
-2. Einer mündlichen Prüfung von etwa 20 Minuten Dauer vor einem Prüfer über ein
-Schwerpunktthema aus einem in Absatz 2 genannten Teilbereich, der nicht für die
-schriftliche Prüfung gewählt wurde.
-Die Fachnote
-lautet "nicht ausreichend",
-wenn die schriftliche Prüfung mit "nicht aus-
-reichend" (über 4,0) bewertet ist."
-\
-2.
-In$ 36 wird nach Absatz 3 folgender Absatz angefügt:
-"(4) Die Fachnote lautet "nicht ausreichend", wenn die Prüfungsleistung in allgemeiner
-Volkswirtschaftslehre oder allgemeiner Betriebswirtschaftslehre mit "nicht ausreichend"
-(über 4,0) bewertet wurde."
-```
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erla8t die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+# §1 
 
-```
-Dezember 1991 und der Genehmigung des Bayerischen Staatsministeriums für Unterricht,
-Kultus, Wissenschaft und Kunst mit Schreiben vom 30. Dezember 1991 Nr. X/4-6/187 628.
-Erlangen, den 14. Januar 1992
-(„e G. Jasper )
-Rektor
-Die Satzung wurde am 14. Januar 1992 in der Universität Erlangen-Nürnberg niedergelegt; die
-|
-Niederlegung wurde am 14. Januar 1992 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 14. Januar 1992.
-```
+Die Zwischenpriifungsordnung der Universitat Erlangen-Ntrnberg vom 25. September 1980 (KMBI II S. 269), zuletzt gedndert durch Satzung vom 16. Oktober 1991 (KWMBL IIS. ), wird wie folgt geandert: 
+
+1. § 34 Abs. 3 erhalt folgende Fassung: "(3) Priifungsteile 
+
+   - Die Zwischenpriifung besteht aus 
+
+   1. Einer schriftlichen Priifung von drei Stunden Dauer tiber einen in Absatz 2 genannten Teilbereich, die sich inhaltlich auf die Grundlagenvorlesung tiber den gewahlten Teilbereich bezieht. Zugrundegelegt werden die Inhalte der Vorlesungen des Priifungs- und des vorangegangenen Semesters. 
+
+   2. Einer miindlichen Priifung von etwa 20 Minuten Dauer vor einem Priifer tiber ein Schwerpunktthema aus einem in Absatz 2 genannten Teilbereich, der nicht fiir die schriftliche Priifung gewahlt wurde. 
+
+Die Fachnote jautet "nicht ausreichend",-wenn die schriftliche Priffung mit “nicht ausreichend" (iiber 4,0) bewertet ist." . 
+
+2. In § 36 wird nach Absatz 3 folgender Absatz angefiigt: "(4) Die Fachnote lautet "nicht ausreichend", wenn die Priifungsleistung in allgemeiner Volkswirtschaftslehre oder allgemeiner Betriebswirtschaftslehre mit "nicht ausreichend" (liber 4,0) bewertet wurde." 
+
+f 
+
+§2 
+
+, 
+
+(1) Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+(2) § 1 Nr. 1 ist auf Studenten anzuwenden, die sich erstmals zum Sommersemester 1993 zur Zwischenpriifung melden. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Niirnberg vom 18. Dezember 1991 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 30. Dezember 1991 Nr. X/4-6/187 628. 
+
+Erlangen, den 14. Januar 1992 
+
+<!-- Start of picture text -->
+(al G. Jasper )<br>Rektor<br><!-- End of picture text -->
+
+| 
+
+Die Satzung wurde am 14. Januar 1992 in der Universitat Erlangen-Nirnberg niedergelegt; die Niederlegung wurde am 14. Januar 1992 durch Anschlag in der Universitat Erlangen-Nirnberg bekanntgegeben. Tag der Bekanntmachung ist der 14. Januar 1992. 
 

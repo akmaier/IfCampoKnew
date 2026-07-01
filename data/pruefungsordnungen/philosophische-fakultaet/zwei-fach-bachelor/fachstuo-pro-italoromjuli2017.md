@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 28.07.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_ItaloRomJULI2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:02:23+00:00
-page_count_chars: 12531
+scraped_at: 2026-07-01T10:22:05+00:00
+page_count_chars: 11983
 ---
 
 # PDF vom 04.10.2007 i.d.F. 28.07.2017
@@ -38,9 +38,18 @@ geändert durch Satzungen vom 11. Juli 2008
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Zulassungsvoraussetzungen ........................................................................................... 3 § 7 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3 § 8 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlage 1 ................................................................................................................................ 4 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Zulassungsvoraussetzungen ........................................................................................... 3|
+|§ 7 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3<br>|
+|§ 8 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlage 1 ................................................................................................................................ 4|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -52,15 +61,15 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Italoromanistik kann im Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Italoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im italienischsprachigen Kulturraum vermittelt.[2] In der Auseinandersetzung mit der italienischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit italienischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der italienischen Kultur.[4] Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
+(2)<sup>1</sup> Im Fach Italoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im italienischsprachigen Kulturraum vermittelt.<sup>2</sup> In der Auseinandersetzung mit der italienischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit italienischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der italienischen Kultur.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
 
-- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
+- (1)<sup>1</sup> Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
 
 1. In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Sprach- und Literaturwissenschaft und vertiefen ihre sprachpraktischen Kenntnisse (Basismodule). 
 
@@ -86,9 +95,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (4) Zum Studienverlauf und den Prüfungen siehe **Anlage 1** . 
 
-(5)[1] Bei Vorkenntnissen der italienischen Sprache, die über die Zulassungsanforderung gehen, kann eine Einstufung in das entsprechende Modul erfolgen.[2 ] Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
+(5)<sup>1</sup> Bei Vorkenntnissen der italienischen Sprache, die über die Zulassungsanforderung gehen, kann eine Einstufung in das entsprechende Modul erfolgen.<sup>2</sup> Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
 
-(6)[1] Wird das Fach Italienisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Dabei soll ein Modul mit der Ableistung eines Praktikums im italienischsprachigen Ausland oder aber in einem auf Italien bezogenen Bereich absolviert werden. 
+(6)<sup>1</sup> Wird das Fach Italienisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei soll ein Modul mit der Ableistung eines Praktikums im italienischsprachigen Ausland oder aber in einem auf Italien bezogenen Bereich absolviert werden. 
 
 (7) Abweichend von § 3 Abs. 4 **ABMStPO/Phil** werden im Fach Italoromanistik einzelne Lehrveranstaltungen und Prüfungen auch in Italienisch abgehalten; Näheres regelt das Modulhandbuch. 
 
@@ -98,7 +107,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Italoromanistik m
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.[3] Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 3 der **ABMStPO/Phil** nachgewiesen werden _._ 
+1Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.<sup>3</sup> Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 3 der **ABMStPO/Phil** nachgewiesen werden _._ 
 
 ## **§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
 
@@ -110,56 +119,48 @@ Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 3 
 
-**Anlage 1:** 
+**<u>Anlage 1:</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Art und Umfang<br>d f|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-|||||||||in ECTS-Punkten*|||||||
-||||||||||||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5|6.|er Prüung||
-|**Basismodul Italienische Sprachpraxis 1**|Corso di italiano intermedio I||6|||10|8||||||Klausur 120‘|1|
-||Comprensione e produzione orale I||2||||2||||||||
-|**Basismodul Italienische Sprachpraxis 2**|Corso di italiano intermedio II||6|||10||8|||||Klausur 120‘|1|
-||Fonetica pratica||1|||||1|||||||
-||Tecniche di lettura||1|||||1|||||||
-|**Basismodul Italienische Sprachwissenschaft**|Basisseminar Italienische<br>Sprachwissenschaft||||2|5|5||||||Klausur 90‘|1|
-|**Basismodul Italienische Literaturwissenschaft**|Basisseminar Italienische<br>Literaturwissenschaft||||2|5||5|||||Klausur 90‘|1|
-|**Aufbaumodul Italienische Sprachwissenschaft 1**|Phonetik und Phonologie des<br>Italienischen||1|||5||2|||||Klausur 45‘ (30 %) und Referat ca. 20‘ und<br>Hausarbeit 10 S. (70 %)|1|
-||Proseminar||||2||||3||||||
-|**Aufbaumodul Italienische Sprachwissenschaft 2**|Vorlesung|2||||5|||2||||Klausur 90‘ (40 %) und 1-2 Hausaufgaben,<br>insgesamt ca. 5 S. (60 %)|1|
-||Aufbauseminar||||2|||||3|||||
-|**Aufbaumodul Italienische Literatur- und**<br>**Kulturwissenschaft**|Proseminar||||2|10||||4|||Hausarbeit 10 S. (50 %) und Klausur 90‘ oder<br>mündl. Prüfung ca. 15‘ (30 %)2)und Referat,<br>ca. 20‘ oder Protokoll, ca. 2 S. (20 %)2)|1|
-||Vorlesung|2|||||||4||||||
-||Aufbauseminar||||2||||2||||||
-|**Aufbaumodul Italienische Sprachpraxis 3**|Grammatica e stilistica||2|||10|||2||||Schriftliche Produktion 90‘ (30 %) und<br>Referat 15‘ (30 %) und<br>Grammatiktest 60‘ (20 %) und<br>mündl. Prüfung 20‘ (20 %)|1|
-||Comprensione e produzione orale II||2||||||2||||||
-||Comprensione e produzione scritta||2|||||||3|||||
-||Corso introduttivo di cultura e civiltà I||2|||||||3|||||
-|**Vertiefungsmodul Italienische**<br>**Sprachwissenschaft1)**|Mittelseminar||||2|10|||||6||Referat, ca. 20‘ und Hausarbeit 15 S. (50 %)<br>und Klausur 60-90‘ oder<br>mündl. Prüfung15-20´(50 %)2)|1|
-||Vorlesung oder Seminar|2||||||||||4|||
-|**Vertiefungsmodul Italienische Literatur- und**<br>**Kulturwissenschaft1)**|Mittelseminar||||2|10|||||6||Referat, ca. 20‘ und Hausarbeit 15 S. (60 %)<br>und Klausur 90‘ oder<br>mündl. Prüfung15‘-20‘(40 %)2)|1|
-||Vorlesung oder Seminar|2||||||||||4|||
-|**Vertiefungsmodul Italienische Sprachpraxis 4**|Cultura e civiltà II||2|||5|||||3||Klausur 90‘ (60 %) und Übersetzung 90‘(40 %)|1|
-||Traduzione tedesco-italiano||2||||||||2||||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|<br>Workloa<br> <br>1.<br>2.|d-Verteilung pro Semester<br>in ECTS-Punkten*<br> <br>3.<br>4.<br>5<br>6.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+||Corso di italiano intermedio I||6||8||||
+|**Basismodul Italienische Sprachpraxis 1**||||10|||Klausur 120‘|1|
+||Comprensione e produzione orale I||2||2||||
+||Corso di italiano intermedio II||6||8||||
+|**Basismodul Italienische Sprachpraxis 2**|Fonetica pratica||1|10|1||Klausur 120‘|1|
+||Tecniche di lettura||1||1||||
+|**Basismodul Italienische Sprachwissenschaft**|Basisseminar Italienische<br>Sprachwissenschaft||2|5|5||Klausur 90‘|1|
+|**Basismodul Italienische Literaturwissenschaft**|Basisseminar Italienische<br>Literaturwissenschaft||2|5|5||Klausur 90‘|1|
+|**Aufbaumodul Italienische Sprachwissenschaft 1**|Phonetik und Phonologie des<br>Italienischen||1|5|2||Klausur 45‘ (30 %) und Referat ca. 20‘ und|1|
+||Proseminar||2|||3|Hausarbeit 10 S. (70 %)||
+|**Aufbaumodul Italienische Sprachwissenschaft 2**|Vorlesung|2||5||2|Klausur 90‘ (40 %) und 1-2 Hausaufgaben,|1|
+||Aufbauseminar||2|||3|insgesamt ca. 5 S. (60 %)||
+||Proseminar||2|||4|Hausarbeit 10 S. (50 %) und Klausur 90‘ oder<br>||
+|**Aufbaumodul Italienische Literatur- und**<br>**Kulturwissenschaft**|Vorlesung|2||10||4|mündl. Prüfung ca. 15‘ (30 %)<sup>2)</sup>und Referat,<br> <sup>2)</sup>|1|
+||Aufbauseminar||2|||2|ca. 20‘ oder Protokoll, ca. 2 S. (20 %)||
+||Grammatica e stilistica||2|||2|Schriftliche Produktion 90‘ (30 %) und||
+|**Aufbaumodul Italienische Srachraxis 3**|Comprensione e produzione orale II||2|10||2|<br>Referat 15‘ (30 %) und|1|
+|**pp**|Comprensione e produzione scritta||2|||3|Grammatiktest 60‘ (20 %) und<br>üdl Püf 20‘ 20 %||
+||Corso introduttivo di cultura e civiltà I||2|||3|mn. rung  ( )||
+|**Vertiefungsmodul Italienische**<br><sup>**1**</sup>|Mittelseminar||2|10||6|Referat, ca. 20‘ und Hausarbeit 15 S. (50 %)<br>und Klausur 60-90‘ oder|1|
+|**Sprachwissenschaft**<sup>**)**</sup>|Vorlesung oder Seminar|2||||4|<br>mündl. Prüfung15-20´(50 %)<sup>2)</sup>||
+|**Vertiefungsmodul Italienische Literatur- und**<br>|Mittelseminar||2|10||6|Referat, ca. 20‘ und Hausarbeit 15 S. (60 %)<br>und Klausur 90‘ oder|1|
+|**Kulturwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar|2||||4|<br>mündl. Prüfung15‘-20‘(40 %)<sup>2)</sup>||
+||Cultura e civiltà II||2|||3|‘     ‘||
+|**Vertiefungsmodul Italienische Sprachpraxis 4**||||5|||Klausur 90 (60 %) und Übersetzung 90(40 %)|1|
+||Traduzione tedesco-italiano||2|||2|||
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Workload-Verteilung pro Semester<br>in ECTS-Punkten*|Art und Umfang<br>d f|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-|||||||||in ECTS-Punkten*|||||||
-||||||||||||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5|6.|er Prüung||
-|**Vertiefungsmodul Italienische Sprachpraxis 5**|L’italiano per il lavoro:<br>tipologie testuali per il settore umanisti-<br>co-pedagogico oder<br>tipologie testuali per il settore socio-<br>economico||2|||5||||||3|Klausur 90’ (60%) und Grammatiktest 90’<br>(40%)|1|
-||Grammatica e stilistica – corso superiore<br>di perfezionamento e approfondimento||2|||||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit|||||10||||||10|Bachelorarbeit|2|
-||Summe SWS:|6|33||14||||||||||
-||Summe ECTS:|||||90|15|17|15|13|11|19|||
+|Modulbezeichnung|Lehrveranstaltung<br>|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-Verteilung pro Sem<br>in ECTS-Punkten*<br>1.<br>2.<br>3.<br>4.<br>5|ester<br>6.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Vertiefungsmodul Italienische Sprachpraxis 5**|L’italiano per il lavoro:<br>tipologie testuali per il settore umanisti-<br>co-pedagogico oder<br>tipologie testuali per il settore socio-<br>economico|2|5||3|Klausur 90’ (60%) und Grammatiktest 90’<br>(40%)|1|
+||Grammatica e stilistica – corso superiore<br>di perfezionamento e approfondimento|2|||2|||
+|**Bachelorarbeit**|Bachelorarbeit||10||10|Bachelorarbeit|2|
+||Summe SWS:<br>|6<br>33<br>14||||||
+||Summe ECTS:||90|15<br>17<br>15<br>13<br>11|19|||
 
-1) Es ist eines der beiden Module zu wählen. 
-
-2) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
+1) Es ist eines der beiden Module zu wählen. 2) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
 
 5 
 

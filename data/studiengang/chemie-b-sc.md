@@ -8,8 +8,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
-besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:43:16+00:00
+besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich"
+scraped_at: 2026-07-01T08:19:26+00:00
 ---
 
 # Chemie (B.Sc.)
@@ -27,13 +27,13 @@ scraped_at: 2026-05-01T06:43:16+00:00
 | Fakultät | Naturwissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 150-250 |
-| Besondere Studienformen | 1-Fach-Bachelor |
+| Besondere Studienformen | 1-Fach-Bachelor, Teilzeitstudium möglich |
 
 ## Worum geht es im Studiengang?
 
 Das Chemie-Studium besticht insbesondere durch den abwechslungsreichen Mix aus Vorlesungen und praktischen Arbeiten im Labor. Hier beschäftigen Sie sich mit den klassischen Disziplinen Anorganische Chemie, Organische Chemie, Physikalische Chemie sowie der Theoretischen Chemie und der Computerchemie. Auf diese Weise bekommen Sie einen guten Überblick über die Zusammenhänge in der Chemie und ihren benachbarten Disziplinen. Die Theorie, die Sie in Vorlesungen und Seminaren lernen, werden durch umfassende praktische Arbeiten in Forschungslaboratorien ergänzt und vertieft. Das ermöglicht Ihnen schon frühzeitig den Einblick in die grundlagen- und anwendungsorientierte chemische Forschung. Sie lernen, wissenschaftliche Fragestellungen zu formulieren und selbständig wissenschaftlich zu arbeiten. Das Chemie-Studium bietet mehr als die reine fachliche Kenntnis über Stoffeigenschaften und -umwandlungen. In einer ganzen Reihe von Schlüsselqualifikationen erwerben Sie auch die Fähigkeit, Fachinhalte zu kommunizieren und interdisziplinäre Problemlösungsstrategien in Forscherteams mit zu entwickeln.
 
-### Bachelor of Science Chemie
+### Fachanteile des Studiengangs Chemie (B.Sc.)
 
 * Anorganische Chemie (25%)
 * Organische Chemie (20%)

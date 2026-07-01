@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Linguistische Informatik FPO LingInf 20220411 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Computerlinguistik/Aenderungssatzungen/2-Fach-BA_Linguistische_Informatik_FPO_LingInf_20220411_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:06:29+00:00
-page_count_chars: 19198
+scraped_at: 2026-07-01T10:24:58+00:00
+page_count_chars: 18496
 ---
 
 # 2-Fach-BA Linguistische Informatik FPO LingInf 20220411 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 19198
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Computerlinguistik/Aenderungssatzungen/2-Fach-BA_Linguistische_Informatik_FPO_LingInf_20220411_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LingInf –** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LingInf –** 
 
-## **Vom 11. April 2022** 
+# **Vom 11. April 2022** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LingInf – vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 11. August 2015, wird wie folgt geändert: 
 
@@ -28,23 +28,23 @@ Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im 
 
    - b) Die Abkürzung in Klammern erhält folgende neue Fassung: „ **(FPO CompLing)** “. 
 
-## 2. § 1 wird wie folgt geändert: 
+# 2. § 1 wird wie folgt geändert: 
 
-   - a) Nach den Worten und Zeichen „(im Folgenden: **ABMStPO/Phil** )“ werden die Worte „in der jeweils geltenden Fassung“ eingefügt. 
+- a) Nach den Worten und Zeichen „(im Folgenden: **ABMStPO/Phil** )“ werden die Worte „in der jeweils geltenden Fassung“ eingefügt. 
 
-   - b) Nach den Worten „für das Fach“ werden die Worte „Linguistische Informatik“ durch das Wort „Computerlinguistik“ ersetzt. 
+- b) Nach den Worten „für das Fach“ werden die Worte „Linguistische Informatik“ durch das Wort „Computerlinguistik“ ersetzt. 
 
-3. § 2 wird wie folgt geändert: 
+# 3. § 2 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Das Fach Computerlinguistik kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 90 ECTS-Punkten, zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten, oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden.“ 
+„<sup>1</sup> Das Fach Computerlinguistik kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 90 ECTS-Punkten, zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten, oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden.“ 
 
 bb) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Im Studium der Computerlinguistik als Erstfach müssen Schlüsselqualifikationen im Umfang von 10 ECTS-Punkten nachgewiesen werden.“ 
+„<sup>2</sup> Im Studium der Computerlinguistik als Erstfach müssen Schlüsselqualifikationen im Umfang von 10 ECTS-Punkten nachgewiesen werden.“ 
 
 1 
 
@@ -74,7 +74,7 @@ aa) Satz 1 wird wie folgt geändert:
 
 5. § 4 erhält folgende neue Fassung: 
 
-## „ **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+# „ **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
 Aufbau und Gliederung des Studiums sowie Art und Umfang der Prüfungen regeln die **Anlagen 1** und **2** .“ 
 
@@ -90,11 +90,11 @@ Zeichen und römischen Ziffern „zwei der Module „Vertiefungsmodul Computerli
 
 8. Nach § 6 wird folgender § 7 neu eingefügt: 
 
-## **„§ 7 Wahlpflichtbereich Informatik (nur Erstfach)** 
+# **„§ 7 Wahlpflichtbereich Informatik (nur Erstfach)** 
 
-(1)[ 1] Im Wahlpflichtbereich Informatik im Rahmen des Studiums als Erstfach sind Module im Umfang von insgesamt 12,5 ECTS-Punkten aus dem Bereich der Informatik nachzuweisen.[2] Das Qualifikationsziel des Wahlpflichtbereichs liegt darin, in einem von den Studierenden selbst gewählten Bereich der Informatik grundlegende Kompetenzen zu erwerben, die über die anwendungsorientierte Perspektive der Computerlinguistik hinausgehen. 
+(1)<sup>1</sup> Im Wahlpflichtbereich Informatik im Rahmen des Studiums als Erstfach sind Module im Umfang von insgesamt 12,5 ECTS-Punkten aus dem Bereich der Informatik nachzuweisen.<sup>2</sup> Das Qualifikationsziel des Wahlpflichtbereichs liegt darin, in einem von den Studierenden selbst gewählten Bereich der Informatik grundlegende Kompetenzen zu erwerben, die über die anwendungsorientierte Perspektive der Computerlinguistik hinausgehen. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulkatalog des Faches, aus dem das Modul gewählt werden kann, zu entnehmen.[2] Der jeweils maßgebliche Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulkatalog des Faches, aus dem das Modul gewählt werden kann, zu entnehmen.<sup>2</sup> Der jeweils maßgebliche Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (3) Die Zusammensetzung der Module ist der jeweiligen Modulbeschreibung zu entnehmen.“ 
 
@@ -104,54 +104,62 @@ Zeichen und römischen Ziffern „zwei der Module „Vertiefungsmodul Computerli
 
    - b) Es wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die achte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.[5] Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang vom 5. Oktober 2007 in der Fassung vom 11. August 2015 studieren, wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 31. Oktober 2022 dieser Prüfungsordnung insgesamt beizutreten.“ 
+„(2)<sup>1</sup> Die achte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.<sup>5</sup> Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang vom 5. Oktober 2007 in der Fassung vom 11. August 2015 studieren, wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 31. Oktober 2022 dieser Prüfungsordnung insgesamt beizutreten.“ 
 
 3 
 
-## 10. Die bisherige **Anlage** wird durch folgende neue **Anlagen 1** und **2** ersetzt: 
+# 10. Die bisherige **Anlage** wird durch folgende neue **Anlagen 1** und **2** ersetzt: 
 
-## **„Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor Computerlinguistik als Erstfach** 
+# **„Anlage 1: Studienverlaufsplan Zwei-Fach-Bachelor Computerlinguistik als Erstfach** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**ECTS-Punkten**<br>**1**<br>**2**<br>**3**<br>**4**<br>**5**<br>**6**|**Art und Umfang der Prüfung**|**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Erstfach: Computerlinguistik**|||||||||||||||
-|Grundlagen der Computerlinguistik I<br>(traditionelle Verfahren)|Vorlesung CL 1|2||||**5**|2||||||Klausur (90 min)|1|
-||Übung CL 1||2||||3||||||||
-|Programmierung und Infrastrukturen I|Grundkurs<br>Programmierung||||2|**5**|5||||||Klausur (90 min)|1|
-|Grundlagen der Computerlinguistik II<br>(statistische Verfahren)|VorlesungCL 2|2||||**5**||2|||||Klausur (90 min)|1|
-||ÜbungCL 2||2|||||3|||||||
-|Programmierung und Infrastrukturen II|Aufbaukurs<br>Programmierung||||2|**5**||5|||||Programmierprojekt (ca. 30 Stunden)<br>mit erläuternder<br>Softwaredokumentation|1|
-|Grundlagen der Informatik<br>(GdI)|vgl. FPO INF|||||**7,5**|(7,5)|(7,5)|||||vgl. FPO INF|1|
-|Grundlagen der Computerlinguistik III<br>(Deep Learning)|Vorlesung CL 3|2||||**10**|||3||||Mündliche Prüfung (30 min, 30 %) und<br>Programmierprojekt<br>(ca. 80 Stunden, 70 %)|1|
-||Übung CL 3||2||||||7||||||
-|Proseminar Computerlinguistik|Proseminar||||2|**5**|||5||||Referat (15 min) und<br>Hausarbeit (10 Seiten) (30 % +70 %)|1|
-|Vertiefungsmodul Computerlinguistik I|Hauptseminar||||2|**5**||||5|||Hausarbeit (15 Seiten)|1|
-|Vertiefungsmodul Computerlinguistik II|Hauptseminar||||2|**5**||||5|||Mündliche Prüfung (30 min)|1|
-|Vertiefungsmodul Computerlinguistik III|Hauptseminar||||2|**5**|||||5||Projekt (ca. 80 Stunden) und<br>Projektbericht (8 Seiten) (0 % +100 %)|1|
-|Vertiefungsmodul Computerlinguistik<br>praktisch|Projektseminar||||2|**5**|||||5||Gruppenprojekt (ca. 80 Stunden<br>Eigenleistung) (50 %) und<br>gemeinsamer Projektbericht<br>(8 Seiten) (50 %)|1|
-|Praktikum|Praktikum|||10**1**||**5**|||||(5)|(5)|Abschlusspräsentation(30min)|0|
-|Obi Cliiik|Oberseminar I||||1|**5**||||(2,5)|(2,5)|(2,5)|Essay (2 Seiten)|0|
-|ersemnar omputerngust|Oberseminar II||||1|||||(2,5)|(2,5)|(2,5)|||
-|Linguistische Grundkompetenzen: Es ist – abhängig vom Zweitfach – eines der drei Module im Umfang von insgesamt 5 ECTS-Punkten zu wählen**2**.|||||||||||||||
-|DH-Modul 1: Schwerpunkt Sprache und Text|vgl. FPO Digitale Geistes- und<br>Sozialwissenschaften|||||**(5)**||(5)||(5)|||vgl. FPO Digitale Geistes- und<br>Sozialwissenschaften|1|
-|Basismodul II: Linguistics (A)|vgl. FPO BA EngAmS Zwei-Fach|||||**(5)**|(5)||(5)||||vgl. FPO BA EngAmS Zwei-Fach|1|
-|Grundlagen der Germanistischen Linguistik 1<br>(LingBM 1)|vgl. FPO Germanistik Zwei-Fach|||||**(5)**|(5)||(5)||||vgl. FPO Germanistik Zwei-Fach|1|
-|Wahlpflichtbereich Informatik: Es sind zwei Module im Umfang von insgesamt 12,5 ECTS-Punkten zu belegen, vgl. § 7|||||||||||||||
+|||**SWS**|**G**|**Wo**|**rkload-**|**Verteilung pro**<br>|**Semeste**<br>|**r in**|**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Mdlbih**|**Lhtlt**||**esamt**|||**ECTS-Punkten**||**At d Uf d Püf**|**Mdl**|
+|**ouezecnung**|**erveransaung**|<br> <br> <br>|**ECTS**|||<br> <br>|<br>|**r un mang er rung**<br>|**ou-**<br>|
+|||**V**<br>**Ü**<br>**P**<br>**S**||**1**|**2**|**3**<br>**4**|**5**|**6**|**note**|
+|**Erstfach: Computerlinguistik**||||||||||
+|Grundlagen der Computerlinguistik I|Vorlesung CL 1|2|**5**|2||||Klausur (90 min)|1|
+|(traditionelle Verfahren)|Übung CL 1|2||3||||||
+|Programmierung und Infrastrukturen I|Grundkurs<br>Programmierung|2|**5**|5||||Klausur (90 min)|1|
+|Grundlagen der Computerlinguistik II<br>(statistische Verfahren)|VorlesungCL 2<br>ÜbungCL 2|2<br>2|**5**||2<br>3|||Klausur (90 min)|1|
+|Programmierung und Infrastrukturen II|Aufbaukurs<br>Programmierung|2|**5**||5|||Programmierprojekt (ca. 30 Stunden)<br>mit erläuternder<br>Softwaredokumentation|1|
+|Grundlagen der Informatik<br>(GdI)|vgl. F|PO INF|**7,5**|(7,5)|(7,5)|||vgl. FPO INF|1|
+|Grundlagen der Computerlinguistik III|Vorlesung CL 3|2|**10**|||3||Mündliche Prüfung (30 min, 30 %) und<br>Prorammierrojekt|1|
+|(Deep Learning)|Übung CL 3|2||||7||gp<br>(ca. 80 Stunden, 70 %)||
+|Proseminar Computerlinguistik|Proseminar|2|**5**|||5||Referat (15 min) und<br>Hausarbeit (10 Seiten) (30 % +70 %)|1|
+|Vertiefungsmodul Computerlinguistik I|Hauptseminar|2|**5**|||5||Hausarbeit (15 Seiten)|1|
+|Vertiefungsmodul Computerlinguistik II|Hauptseminar|2|**5**|||5||Mündliche Prüfung (30 min)|1|
+|Vertiefungsmodul Computerlinguistik III|Hauptseminar|2|**5**||||5|Projekt (ca. 80 Stunden) und<br>Projektbericht (8 Seiten) (0 % +100 %)|1|
+|Vertiefungsmodul Computerlinguistik<br>praktisch|Projektseminar|2|**5**||||5|Gruppenprojekt (ca. 80 Stunden<br>Eigenleistung) (50 %) und<br>gemeinsamer Projektbericht<br>(8 Seiten) (50 %)|1|
+|Praktikum|Praktikum|10<sup>**1**</sup>|**5**||||(5)|(5)<br>Abschlusspräsentation(30min)|0|
+|Oberseminar Computerlinguistik|Oberseminar I<br>|1<br>|**5**|||(2,5)<br>25|(2,5)<br>25|(2,5)<br>Essay (2 Seiten)<br>25|0|
+|Linguistische Grundkompetenzen: Es ist – abhä|Oberseminar II<br>ngig vom Zweitfach – ei<br>|1<br>nes der drei Module im Um<br>|fang von in|sgesam|t 5 ECT|(,)<br>S-Punkten zu w|(,)<br>ählen<sup>**2**</sup>.|(,)<br>||
+|DH-Modul 1: Schwerpunkt Sprache und Text|vgl. FPO Digit<br>Sozialwis|ale Geistes- und<br>senschaften|**(5)**||(5)|(5)||vgl. FPO Digitale Geistes- und<br>Sozialwissenschaften|1|
+|Basismodul II: Linguistics (A)|vgl. FPO BA E|ngAmS Zwei-Fach|**(5)**|(5)||(5)||vgl. FPO BA EngAmS Zwei-Fach|1|
+|Grundlagen der Germanistischen Linguistik 1<br>|vgl. FPO Germ|anistik Zwei-Fach|**(5)**|(5)||(5)||vgl. FPO Germanistik Zwei-Fach|1|
+|(LingBM 1)||||||||||
+|Wahlpflichtbereich Informatik: Es sind zwei Mod|ule im Umfang von insg|esamt 12,5 ECTS-Punkten|zu belegen|, vgl. §|7|||||
 
 4 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**1**|**2**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**6**|**Art und Umfang der Prüfung**|**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Wahlpflichtmodul Informatik 1|vgl. § 7 Abs. 3|||||||**7,5**|||(7,5)||(7,5)||vgl. § 7 Abs. 2|1|
-|Wahlpflichtmodul Informatik 2|vgl. § 7 Abs. 3|||||||**5**||||5|||vgl. § 7 Abs. 2|1|
-|**Summe SWS (Mindestumfang) und ECTS-Punkte im Erstfach:**||**6**|**6**||||**16**|**90**|**15-**<br>**17,5**|**15-**<br>**17,5**|**15**|**15**|**17,5**|**10**|||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||||
-|Module des Zweitfachs**3**|vgl. FPO des Zweitfachs|||||||**70**|0-15|0-15|0-15|15|0-<br>12,5|0-10|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||||
-|Schlüsselqualifikationsmodule|**4**|||||||**10**|0-15|0-15|0-15|15|0-<br>12,5|0-10|**4**||
-|**Bachelorarbeit im Erstfach (Computerlinguistik)**|||||||||||||||||
-|Bachelorarbeit|Bachelorarbeit|||||||**10**||||||10|Bachelorarbeit (25-40 Seiten)|1|
-|**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:**||||||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+|**Modulbezeichnung**<br>**Lehrveranstaltung**|**SWS**<br> <br> <br> <br>|**Gesamt**<br>**ECTS**|**Wo**|**rkload-Verteilun**<br>**ECTS-P**<br> <br>|**g pro**<br>**unkten**|**Semeste**<br>|**r in**<br>|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|---|
+||**V**<br>**Ü**<br>**P**<br>**S**||**1**|**2**<br>**3**|**4**|**5**|**6**||**note**|
+|Wahlpflichtmodul Informatik 1<br>vgl. §|7 Abs. 3|**7,5**||(7,5)||(7,5)||vgl. § 7 Abs. 2|1|
+|Wahlpflichtmodul Informatik 2<br>vgl. §|7 Abs. 3|**5**|||5|||vgl. § 7 Abs. 2|1|
+||||**15**|**15**||||||
+|**Summe SWS (Mindestumfang) und ECTS-Punkte im Erstfach:**|**6**<br>**6**<br>**16**|**90**|**-**<br>|**-**<br><br>**15**|**15**|**17,5**|**10**|||
+|<br>**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/**|**Phil)**||**17,5**|**17,5**||||||
+|<br>||||<br>||0-||||
+|Module des Zweitfachs<sup>**3**</sup><br>vgl. FPO d|es Zweitfachs|**70**|0-15|0-15<br>0-15|15|125|0-10|vgl. FPO des Zweitfachs||
+|||||||,||||
+|**Schlüsselqualifikationen**||||||||||
+|||||<br>||0-||||
+|Schlüsselqualifikationsmodule|**4**|**10**|0-15|0-15<br>0-15|15||0-10|**4**||
+|||||||12,5||||
+|**Bachelorarbeit im Erstfach (Computerlinguistik)**||||||||||
+|Bachelorarbeit<br>Bachelorarbeit||**10**|||||10|Bachelorarbeit (25-40 Seiten)|1|
+|**Summe ECTS-Punkte im Zwei-**|**Fach-Bachelorstudium:**|**180**|**30**|**30**<br>**30**|**30**|**30**|**30**|||
 
 - 1 Dieses Praktikum ist zwingend abzuleisten und es ist ein Nachweis darüber beim Sekretariat des Lehrstuhls für Korpus- und Computerlinguistik abzugeben. Nähere Informationen zum Praktikum sind im Modulhandbuch geregelt. 
 
@@ -163,46 +171,48 @@ Zeichen und römischen Ziffern „zwei der Module „Vertiefungsmodul Computerli
 
 5 
 
-## **Anlage 2: Studienverlaufsplan Zwei-Fach-Bachelor Computerlinguistik als Zweitfach** 
+# **Anlage 2: Studienverlaufsplan Zwei-Fach-Bachelor Computerlinguistik als Zweitfach** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**1**|**ECTS-Punkten**<br>**2**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**2**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**2**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**2**<br>**3**<br>**4**<br>**5**|**6**|**Art und Umfang der Prüfung**|**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||
-|Module des Erstfachs**1**|vgl. FPO des Erstfachs|||||**70-90**|0-20|0-20|0-15|0-20|0-20|0-10|vgl. FPO des Erstfachs||
-|**Zweitfach: Computerlinguistik**|||||||||||||||
-|Grundlagen der<br>Computerlinguistik I<br>(traditionelle Verfahren)|Vorlesung CL 1|2||||**5**|2||||||Klausur (90 min)|1|
-||Übung CL 1||2||||3||||||||
-|Programmierung und<br>Infrastrukturen I|Grundkurs Programmierung||||2|**5**|5||||||Klausur (90 min)|1|
-|Grundlagen der<br>Computerlinguistik II<br>(statistischeVerfahren)|VorlesungCL 2|2||||**5**||2|||||Klausur (90 min)|1|
-||Übung CL 2||2|||||3|||||||
-|Programmierung und<br>Infrastrukturen II|Aufbaukurs Programmierung||||2|**5**||5|||||Programmierprojekt (ca. 30 Stunden)<br>mit erläuternder<br>Softwaredokumentation|1|
-|Grundlagen der<br>Computerlinguistik III<br>(Deep Learning)|Vorlesung CL 3|2||||**10**|||3||||Mündliche Prüfung (30 min, 30 %)<br>und<br>Programmierprojekt<br>(ca.80 Stunden,70 %)|1|
-||Übung CL 3||2||||||7||||||
-|Proseminar Computerlinguistik|Proseminar||||2|**5**|||5||||Referat (15 min) und<br>Hausarbeit (10 Seiten) (30 % +70 %)|1|
-|Vertiefungsmodul<br>Computerlinguistik I|Hauptseminar||||2|**5**||||5|||Hausarbeit (15 Seiten)|1|
-|Vertiefungsmodul<br>Computerlinguistik II|Hauptseminar||||2|**5**||||5|||Mündliche Prüfung (30 min)|1|
-|Vertiefungsmodul<br>Computerlinguistik III|Hauptseminar||||2|**5**|||||5||Projekt (ca. 80 Stunden) und<br>Projektbericht (8 Seiten) (0 % +100 %)|1|
-|Vertiefungsmodul<br>Computerlinguistik<br>praktisch|Projektseminar||||2|**5**|||||5||Gruppenprojekt (ca. 80 Stunden<br>Eigenleistung) (50 %) und<br>gemeinsamer Projektbericht<br>(8 Seiten) (50 %)|1|
-|Praktikum|Praktikum|||10**2**||**5**|||||(5)|(5)|Abschlusspräsentation(30 min)|0|
-|i liiik|Oberseminar I||||1|||||(2,5)|(2,5)|(2,5)|Essay (2 Seiten)|0|
-|Obersemnar Computerngust|Oberseminar II||||1|**5**||||(2,5)|(2,5)|(2,5)|||
-|Linguistische Grundkompetenzen: Es ist – abhängig vom Erstfach – eines der drei Module im Umfang von insgesamt|||||||||||||||
-|||||||||5 ECTS-Punkten zu wählen**3**.|||||||
-||||||||||||||||
-|DH-Modul 1: Schwerpunkt<br>Sprache und Text|vgl. FPO Digitale Geistes- und Sozialwissenschaften|||||**(5)**||(5)||(5)|||vgl. FPO Digitale Geistes- und<br>Sozialwissenschaften|1|
+||||**SWS**|**Gt**|**Wor**|**kload-**|**Verteilu**<br>|**ng pro Semester in**<br>||**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnun**|**Lehrveranstaltun**|||**esam**|||**ECTS-**|**Punkten**|**Art und Umfan der Prüfun**|**Modul-**|
+|**g**|**g**||<br> <br>|**ECTS**||||<br> <br>|**g  g**|<br>|
+|||**V**|**Ü**<br>**P**<br>**S**||**1**|**2**|**3**|**4**<br>**5**<br>**6**||**note**|
+|**Erstfach (Kombinationsmöglich**|**keiten gemäß Anlage 3 ABMStPO**|**/Phil)**|||||||||
+|Module des Erstfachs<sup>**1**</sup>|vgl. FPO des E|rstfachs||**70-90**|0-20|0-20|0-15|0-20<br>0-20<br>0-10|vgl. FPO des Erstfachs||
+|**Zweitfach: Computerlinguistik**|||||||||||
+|Grundlagen der<br>Cliiik I|Vorlesung CL 1|2||**5**|2||||Kl 90 i|1|
+|omputerngust<br>(traditionelle Verfahren)|Übung CL 1||2||3||||ausur ( mn)||
+|Programmierung und<br>Infrastrukturen I|Grundkurs Programmierung||2|**5**|5||||Klausur (90 min)|1|
+|Grundlagen der|VorlesungCL 2|2||||2|||||
+|Computerlinguistik II<br>(statistischeVerfahren)|Übung CL 2||2|**5**||3|||Klausur (90 min)|1|
+|Programmierung und<br>Infrastrukturen II|Aufbaukurs Programmierung||2|**5**||5|||Programmierprojekt (ca. 30 Stunden)<br>mit erläuternder<br>Softwaredokumentation|1|
+|Grundlagen der<br>|Vorlesung CL 3|2|||||3||Mündliche Prüfung (30 min, 30 %)<br>und||
+|Computerlinguistik III<br>(Deep Learning)|Übung CL 3||2|**10**|||7||<br>Programmierprojekt<br>(ca.80 Stunden,70 %)|1|
+|Proseminar Computerlinguistik|Proseminar||2|**5**|||5||Referat (15 min) und<br>Hausarbeit (10 Seiten) (30 % +70 %)|1|
+|Vertiefungsmodul<br>Computerlinguistik I|Hauptseminar||2|**5**||||5|Hausarbeit (15 Seiten)|1|
+|Vertiefungsmodul<br>Computerlinguistik II|Hauptseminar||2|**5**||||5|Mündliche Prüfung (30 min)|1|
+|Vertiefungsmodul<br>Computerlinguistik III|Hauptseminar||2|**5**||||5|Projekt (ca. 80 Stunden) und<br>Projektbericht (8 Seiten) (0 % +100 %)|1|
+|Vertiefungsmodul<br>Computerlinguistik<br>praktisch|Projektseminar||2|**5**||||5|Gruppenprojekt (ca. 80 Stunden<br>Eigenleistung) (50 %) und<br>gemeinsamer Projektbericht<br>(8 Seiten) (50 %)|1|
+|Praktikum|Praktikum||10<sup>**2**</sup>|**5**||||(5)<br>(5)|Abschlusspräsentation(30 min)|0|
+||Oberseminar I||1|||||(2,5)<br>(2,5)<br>(2,5)|||
+|Oberseminar Computerlinguistik|<br>Obi II||1|**5**||||(25)<br>(25)<br>(25)|Essay (2 Seiten)|0|
+|Linguistische Grundkompetenzen:<br>|ersemnar<br>Es ist – abhängig vom Erstfach – e|ines der d|<br>rei Module im Um|fang von insg|esamt 5|ECTS|-Punkte|,<br>,<br>,<br>n zu wählen<sup>**3**</sup>.|||
+|DH-Modul 1: Schwerpunkt<br>Sprache und Text|vgl. FPO Digitale Geistes- un|d Sozialwis|senschaften|**(5)**||(5)||(5)|vgl. FPO Digitale Geistes- und<br>Sozialwissenschaften|1|
 
 6 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**1**|**2**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**ECTS-Punkten**<br>**3**<br>**4**<br>**5**|**6**|**Art und Umfang der Prüfung**|**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Basismodul II: Linguistics (A)|vgl. FPO BA EngAmS|Zwei-Fach||||**(5)**|(5)||(5)||||vgl. FPO BA EngAmS Zwei-Fach|1|
-|Grundlagen der<br>Germanistischen Linguistik 1<br>(LingBM 1)|vgl. FPO Germanistik|Zwei-Fach||||**(5)**|(5)||(5)||||vgl. FPO Germanistik Zwei-Fach|1|
-|**Summe SWS (Mindestumfang) und ECTS-Punkte im Zweitfach:**||**6**|**6**||**16**|**70**|**10-**<br>**15**|**10-**<br>**15**|**15**|**10**|**10**|**10**|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|**4**|||||**10-30**|0-20|0-20|0-15|0-20|0-20|0-10|**4**|0|
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl. FPO des Erstfachs|||||**10**||||||10|vgl. FPO des Erstfachs|1|
-|**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:**||||||**180**|**30**|**30**|**30**|**30**|**30**|**30**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>|**Gesamt**<br>**ECTS**|**Wor**|**kload-**|**Verteilu**<br>**ECTS-P**|**ng pro Semester in**<br>**unkten**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|---|
+||**V**<br>**Ü**<br>**P**<br>**S**||**1**|**2**|**3**|**4**<br>**5**<br>**6**||**note**|
+|Basismodul II: Linguistics (A)|vgl. FPO BA EngAmS Zwei-Fach|**(5)**|(5)||(5)||vgl. FPO BA EngAmS Zwei-Fach|1|
+|Grundlagen der<br>Germanistischen Linguistik 1<br>(LingBM 1)|vgl. FPO Germanistik Zwei-Fach|**(5)**|(5)||(5)||vgl. FPO Germanistik Zwei-Fach|1|
+|**Summe SWS (Mindestumfang)**|**und ECTS-Punkte im Zweitfach:**<br>**6**<br>**6**<br>**16**|**70**|**10-**<br>**15**|**10-**<br>**15**|**15**|**10**<br>**10**<br>**10**|||
+|**Schlüsselqualifikationen**|||||||||
+|Schlüsselqualifikationsmodule|**4**|**10-30**|0-20|0-20|0-15|0-20<br>0-20<br>0-10|**4**|0|
+|**Bachelorarbeit im Erstfach**|||||||||
+|Bachelorarbeit|vgl. FPO des Erstfachs|**10**||||10|vgl. FPO des Erstfachs|1|
+||**Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:**|**180**|**30**|**30**|**30**|**30**<br>**30**<br>**30**|||
 
 - 1 Für das Erstfach sind die Regelung der **(Fach-)Prüfungsordnung** des Erstfachs zu berücksichtigen. Bei der hier angegebenen ECTS-Punkte-Verteilung handelt es sich um Bandbreiten, innerhalb derer das Zweitfach spezifischere Regelungen vorsehen kann. 
 
@@ -214,9 +224,9 @@ Zeichen und römischen Ziffern „zwei der Module „Vertiefungsmodul Computerli
 
 7 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.[5] Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang vom 05. Oktober 2007 in der Fassung vom 11. August 2015 studieren, wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 31. Oktober 2022 dieser Prüfungsordnung insgesamt beizutreten. 
+1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.<sup>5</sup> Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang vom 05. Oktober 2007 in der Fassung vom 11. August 2015 studieren, wird darüber hinaus die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 31. Oktober 2022 dieser Prüfungsordnung insgesamt beizutreten. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 26. Januar 2022 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 11. April 2022. 
 

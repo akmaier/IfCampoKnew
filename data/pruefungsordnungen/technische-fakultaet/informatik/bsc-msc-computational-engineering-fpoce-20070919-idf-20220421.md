@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/konsolidierte_Fassungen/BSc-MSc_Computational_Engineering_FPOCE_20070919_idF_20220421.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:14:49+00:00
-page_count_chars: 49732
+scraped_at: 2026-07-01T11:34:47+00:00
+page_count_chars: 47858
 ---
 
 # BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421.pdf
@@ -16,35 +16,33 @@ page_count_chars: 49732
 
 ## **Hinweis:** 
 
-Diese Fachprüfungsordnung (FPO) gilt für Studierende, die **ab** dem WS 2007/08 das Bachelor- oder Masterstudium Computational Engineering aufnehmen. Studierende, die bereits **vorher** das Masterstudium aufgenommen haben oder zum WS 2007/08 das Masterstudium aufnehmen, können sich entweder für diese FPO ent- scheiden oder nach der **FPO alt** (https://zuv.fau.de/universitaet/organisation/recht/stu diensatzungen/TECHFAK/FPO_CompEngineering_ALT.pdf ) geprüft werden. 
+Diese Fachprüfungsordnung (FPO) gilt für Studierende, die **ab** dem WS 2007/08 das Bachelor- oder Masterstudium Computational Engineering aufnehmen. Studierende, die bereits **vorher** das Masterstudium aufgenommen haben oder zum WS 2007/08 das Masterstudium aufnehmen, können sich entweder für diese FPO ent- scheiden oder nach der **FPO alt** <u>(https://zuv.fau.de/universitaet/organisation/recht/stu diensatzungen/TECHFAK/FPO_CompEngineering_ALT.pdf</u> ) geprüft werden. 
 
 Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCE – Vom 19. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOCE – Vom 19. September 2007** 
 
 geändert durch Satzungen vom 25. Juli 2008 3. Dezember 2009 30. Juli 2010 31. Juli 2012 (Sammeländerungssatzung) 29. Juli 2013 24. Juli 2014 18. Januar 2016 16. Januar 2018 30. Juli 2018 21. April 2022 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 **BayHSchG** erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-|**I.**|**Teil:**|**Allgemeine Bestimmungen ..................................................................................... 2**|
-|---|---|---|
-|§|35|Geltungsbereich ......................................................................................................... 2|
-|§|36|Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge .............. 2|
-|§|37|Masterstudiengang, Regelstudienzeit, Studienbeginn, inhaltlich verwandte|
-|||Studiengänge ............................................................................................................. 2|
-|§|38|Zweisprachigkeit und internationale Orientierung ....................................................... 3|
-|§|39|Technisches Anwendungsfach ................................................................................... 3|
-|§|40|[aufgehoben] .............................................................................................................. 3|
-|§|40a|Wahlmodulkataloge.................................................................................................... 3|
+|**I. Teil:**|**Allgemeine Bestimmungen ..................................................................................... 2**|
+|---|---|
+|§ 35|Geltungsbereich ......................................................................................................... 2|
+|§ 36|Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge .............. 2|
+|§ 37|Masterstudiengang, Regelstudienzeit, Studienbeginn, inhaltlich verwandte<br>Studiengänge ............................................................................................................. 2|
+|§ 38|Zweisprachigkeit und internationale Orientierung ....................................................... 3|
+|§ 39|Technisches Anwendungsfach ................................................................................... 3|
+|§ 40|[aufgehoben] .............................................................................................................. 3|
+|§ 40a|Wahlmodulkataloge.................................................................................................... 3|
 
 1 
 
 |**II. Teil**|**Besondere Bestimmungen für das Bachelorstudium ............................................ 4**|
 |---|---|
-|§ 41|Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der|
-||Schlüsselqualifikationen ............................................................................................. 4|
+|§ 41|Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der<br>Schlüsselqualifikationen ............................................................................................. 4|
 |§ 41a|Technische Anwendungsfächer im Bachelorstudium ................................................. 5|
 |§ 41b|Technische Wahlmodule ............................................................................................ 5|
 |§ 42|Umfang der Grundlagen- und Orientierungsprüfung................................................... 6|
@@ -52,7 +50,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 58 Abs. 1 und Art
 |§ 44|Prüfungen des Bachelorstudiums............................................................................... 6|
 |§ 45|Bachelorarbeit ............................................................................................................ 7|
 |§ 46|Bewertung der Leistungen des Bachelorstudiums ...................................................... 7|
-|**III. Teil: Besondere Bestimmungen für das Masterstudium ............................................. 8**||
+|**III. Tei**|**l: Besondere Bestimmungen für das Masterstudium ............................................. 8**|
 |§ 47|Wahl des Technischen Anwendungsfaches ............................................................... 8|
 |§ 47a|Technische Anwendungsfächer im Masterstudium .................................................... 8|
 |§ 48|Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ............ 9|
@@ -61,11 +59,11 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 58 Abs. 1 und Art
 |§ 51|Voraussetzung für die Zulassung zur Masterarbeit ...................................................11|
 |§ 52|Masterarbeit ..............................................................................................................11|
 |§ 53|Bewertung der Leistungen des Masterstudiums ........................................................11|
-|**IV. Teil: Schlussbestimmungen .........................................................................................12**||
+|**IV. Tei**|**l: Schlussbestimmungen .........................................................................................12**<br>|
 |§ 54|Inkrafttreten und Übergangsvorschriften ...................................................................12|
-|Anlage 1: Studienverlaufsplan Bachelor ...............................................................................13||
-|Anlage 2: Pflichtmodule der Technischen Anwendungsfächer..............................................15||
-|Anlage 3: Studienverlaufsplan Master ..................................................................................18||
+|Anlage|1: Studienverlaufsplan Bachelor ...............................................................................13|
+|Anlage|2: Pflichtmodule der Technischen Anwendungsfächer..............................................15|
+|Anlage|3: Studienverlaufsplan Master ..................................................................................18|
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -75,15 +73,15 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 36 Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge** 
 
-(1)[1] Das Studium setzt sich zusammen aus der Grundlagen- und Orientierungsphase, die aus den Modulen der ersten beiden Semester besteht, und der Bachelorphase, die aus den weiteren Modulen bis zum Ende der Regelstudienzeit gebildet wird.[2] Die Module und ihre Einordnung ergeben sich aus **Anlage 1** . 
+(1)<sup>1</sup> Das Studium setzt sich zusammen aus der Grundlagen- und Orientierungsphase, die aus den Modulen der ersten beiden Semester besteht, und der Bachelorphase, die aus den weiteren Modulen bis zum Ende der Regelstudienzeit gebildet wird.<sup>2</sup> Die Module und ihre Einordnung ergeben sich aus **Anlage 1** . 
 
-- (2) Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester. 
+(2) Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester. 
 
 (3) Die Regelung in § 24 Abs. 1 Satz 2 Nr. 2 **ABMPO/TechFak** findet in Bezug auf inhaltlich verwandte Studiengänge keine Anwendung. 
 
 ## **§ 37 Masterstudiengang, Regelstudienzeit, Studienbeginn, inhaltlich verwandte Studiengänge** 
 
-(1)[1] Die Regelstudienzeit des Masterstudienganges beträgt vier Semester.[2] Die Module und ihre Einordnung ergeben sich aus **Anlage 3** . 
+(1)<sup>1</sup> Die Regelstudienzeit des Masterstudienganges beträgt vier Semester.<sup>2</sup> Die Module und ihre Einordnung ergeben sich aus **Anlage 3** . 
 
 (2) Das Masterstudium kann zum Wintersemester oder zum Sommersemester begonnen werden. 
 
@@ -93,13 +91,13 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 38 Zweisprachigkeit und internationale Orientierung** 
 
-1Das Studium des Computational Engineering ist zweisprachig. 2Im Bachelorstudium sind die Lehrveranstaltungen der ersten vier Semester in der Regel deutschsprachig, im fünften und sechsten Semester deutsch- oder englischsprachig (abhängig vom jeweils gewählten Modul), im Masterstudium (erstes bis viertes Semester) in der Regel englischsprachig.[3] Näheres regelt das Modulhandbuch.[4] Bei mündlichen und schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[5] Die Bachelorarbeit kann in englischer Sprache verfasst werden.[6] Die Masterarbeit wird in der Regel in englischer Sprache verfasst.[7] Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
+1Das Studium des Computational Engineering ist zweisprachig. 2Im Bachelorstudium sind die Lehrveranstaltungen der ersten vier Semester in der Regel deutschsprachig, im fünften und sechsten Semester deutsch- oder englischsprachig (abhängig vom jeweils gewählten Modul), im Masterstudium (erstes bis viertes Semester) in der Regel englischsprachig.<sup>3</sup> Näheres regelt das Modulhandbuch.<sup>4</sup> Bei mündlichen und schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>5</sup> Die Bachelorarbeit kann in englischer Sprache verfasst werden.<sup>6</sup> Die Masterarbeit wird in der Regel in englischer Sprache verfasst.<sup>7</sup> Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
 
 ## **§ 39 Technisches Anwendungsfach** 
 
-(1)[1] Im Bachelor- und Masterstudiengang Computational Engineering werden jeweils mehrere Technische Anwendungsfächer angeboten.[2] Für jedes Technische Anwendungsfach gibt es eine Vertreterin bzw. einen Vertreter.[3] Die Studienkommission CE ernennt die Vertreterinnen bzw. Vertreter der Technischen Anwendungsfächer. 
+(1)<sup>1</sup> Im Bachelor- und Masterstudiengang Computational Engineering werden jeweils mehrere Technische Anwendungsfächer angeboten.<sup>2</sup> Für jedes Technische Anwendungsfach gibt es eine Vertreterin bzw. einen Vertreter.<sup>3</sup> Die Studienkommission CE ernennt die Vertreterinnen bzw. Vertreter der Technischen Anwendungsfächer. 
 
-(2)[1] Das Qualifikationsziel des Technischen Anwendungsfachs liegt darin, es den Studierenden zu ermöglichen, sich in einem Schwerpunkt gemäß § 41a bzw. § 47a erstens zu vertiefen.[2] Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.[4] Dabei werden im Bachelorstudium grundlegende Kompetenzen in dem jeweiligen Technischen Anwendungsfach erworben, während im Masterstudium vertiefte und stärker forschungsorientierte Kompetenzen erworben werden. 
+(2)<sup>1</sup> Das Qualifikationsziel des Technischen Anwendungsfachs liegt darin, es den Studierenden zu ermöglichen, sich in einem Schwerpunkt gemäß § 41a bzw. § 47a erstens zu vertiefen.<sup>2</sup> Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen.<sup>4</sup> Dabei werden im Bachelorstudium grundlegende Kompetenzen in dem jeweiligen Technischen Anwendungsfach erworben, während im Masterstudium vertiefte und stärker forschungsorientierte Kompetenzen erworben werden. 
 
 (3) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des jeweiligen Studiengangs ergibt, können Module weder innerhalb des Bachelor- bzw. Masterstudiums, noch im konsekutiven Bachelor- und Masterstudium mehrfach belegt werden. 
 
@@ -107,7 +105,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 40a Wahlmodulkataloge** 
 
-(1)[1] Die Wahlmodulkataloge für den Bachelor- und den Masterstudiengang Computational Engineering werden von der Studienkommission CE anhand der Qualifikationsziele der jeweiligen Wahlpflichtbereiche festgelegt.[2] Die Wahlmodulkataloge werden spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.[3] Eine Anpassung kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission vorgenommen werden. 
+(1)<sup>1</sup> Die Wahlmodulkataloge für den Bachelor- und den Masterstudiengang Computational Engineering werden von der Studienkommission CE anhand der Qualifikationsziele der jeweiligen Wahlpflichtbereiche festgelegt.<sup>2</sup> Die Wahlmodulkataloge werden spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht.<sup>3</sup> Eine Anpassung kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission vorgenommen werden. 
 
 (2) Die Studienkommission CE kann für die Wahlmodulkataloge der Technischen Wahlmodule im Bachelorstudium auf folgende Module zurückgreifen: 
 
@@ -131,7 +129,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** 
 
-(1)[1] Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches.[2] Die Pflichtmodule des Technischen Anwendungsfaches ergeben sich aus **Anlage 2** .[3] Der Modulkatalog der gemäß § 43 Abs. 1 Nr. 4 zu wählenden Wahlmodule des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission CE angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
+(1)<sup>1</sup> Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches.<sup>2</sup> Die Pflichtmodule des Technischen Anwendungsfaches ergeben sich aus **Anlage 2** .<sup>3</sup> Der Modulkatalog der gemäß § 43 Abs. 1 Nr. 4 zu wählenden Wahlmodule des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission CE angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
 
 (2) Durch Wahl des Technischen Anwendungsfaches sind alle Pflichtmodule in den Bereichen Informatik, Mathematik und dem Technischen Anwendungsfach festgelegt. 
 
@@ -169,19 +167,19 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 6. Im Technischen Anwendungsfach Optik werden Kompetenzen in den Anwendungsbereichen moderner Optik, Photonik und Quantenphänomene erworben. 
 
-(3)[1] Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .[3] In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .<sup>3</sup> In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
 
 ## **§ 41b Technische Wahlmodule** 
 
-(1)[1] Im Rahmen der Technischen Wahlmodule wählen die Studierenden Module aus den Wahlmodulkatalogen der Informatik (§ 40a Abs. 2 Nr. 1) und des nach § 41 gewählten Technischen Anwendungsfachs (§ 40a Abs. 2 Nr. 2).[2] Dabei ist aus jedem der beiden Wahlmodulkataloge mindestens ein Modul zu wählen. 
+(1)<sup>1</sup> Im Rahmen der Technischen Wahlmodule wählen die Studierenden Module aus den Wahlmodulkatalogen der Informatik (§ 40a Abs. 2 Nr. 1) und des nach § 41 gewählten Technischen Anwendungsfachs (§ 40a Abs. 2 Nr. 2).<sup>2</sup> Dabei ist aus jedem der beiden Wahlmodulkataloge mindestens ein Modul zu wählen. 
 
-(2)[1] Qualifikationsziel der Technischen Wahlmodule ist erstens den im Rahmen des Technischen Anwendungsfachs gewählten Schwerpunkt weiter zu vertiefen.[2] Zwei- 
+(2)<sup>1</sup> Qualifikationsziel der Technischen Wahlmodule ist erstens den im Rahmen des Technischen Anwendungsfachs gewählten Schwerpunkt weiter zu vertiefen.<sup>2</sup> Zwei- 
 
 5 
 
 tens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden. 3Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(3)[1] Mögliche Veranstaltungsformen der einzelnen Technischen Wahlmodule sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .[3] In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen der einzelnen Technischen Wahlmodule sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .<sup>3</sup> In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
 
 ## **§ 42 Umfang der Grundlagen- und Orientierungsprüfung** 
 
@@ -189,7 +187,7 @@ tens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fa
 
 ## **§ 43 Umfang des Bachelorstudiums** 
 
-- (1)[1] Das Bachelorstudium besteht aus: 
+- (1)<sup>1</sup> Das Bachelorstudium besteht aus: 
 
 1. den Pflichtmodulen der Informatik, 
 
@@ -205,9 +203,9 @@ tens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fa
 
 7. dem Modul Bachelorarbeit im Umfang von 15 ECTS-Punkten 
 
-gemäß **Anlage 1** .[2] Differenzen in den ECTS-Punkte-Umfängen des Technischen Anwendungsfachs nach Abs. 1 Nr. 3, welche sich durch den unterschiedlich großen Umfang der Pflichtmodule des jeweiligen Technischen Anwendungsfachs nach **Anlage 2** ergeben, sind durch eine größere bzw. geringe Wahl an Technischen Wahlmodulen i. S. d. Abs. 1 Nr. 4 auszugleichen. 
+gemäß **Anlage 1** .<sup>2</sup> Differenzen in den ECTS-Punkte-Umfängen des Technischen Anwendungsfachs nach Abs. 1 Nr. 3, welche sich durch den unterschiedlich großen Umfang der Pflichtmodule des jeweiligen Technischen Anwendungsfachs nach **Anlage 2** ergeben, sind durch eine größere bzw. geringe Wahl an Technischen Wahlmodulen i. S. d. Abs. 1 Nr. 4 auszugleichen. 
 
-(2)[1] Das Praktikum im Umfang von 10 ECTS-Punkten besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus anderen Bachelorstudiengängen der Technischen Fakultät.[2] Die Liste der wählbaren Praktikumsmodule wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Das Praktikum im Umfang von 10 ECTS-Punkten besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus anderen Bachelorstudiengängen der Technischen Fakultät.<sup>2</sup> Die Liste der wählbaren Praktikumsmodule wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
 
 ## **§ 44 Prüfungen des Bachelorstudiums** 
 
@@ -215,7 +213,7 @@ gemäß **Anlage 1** .[2] Differenzen in den ECTS-Punkte-Umfängen des Technisch
 
 6 
 
-(2)[1] Art und Dauer der Prüfungen der Pflichtmodule im Technischen Anwendungsfach ergeben sich aus der **Anlage 2** .[2] Art und Dauer der Prüfungen der Wahlmodule im Technischen Anwendungsfach ergeben sich aus § 41a Abs. 3 Satz 2.[3] Art und Dauer der Prüfungen der Technischen Wahlmodule ergeben sich aus § 41b Abs. 3 Satz 2. 
+(2)<sup>1</sup> Art und Dauer der Prüfungen der Pflichtmodule im Technischen Anwendungsfach ergeben sich aus der **Anlage 2** .<sup>2</sup> Art und Dauer der Prüfungen der Wahlmodule im Technischen Anwendungsfach ergeben sich aus § 41a Abs. 3 Satz 2.<sup>3</sup> Art und Dauer der Prüfungen der Technischen Wahlmodule ergeben sich aus § 41b Abs. 3 Satz 2. 
 
 - (3) Das „Hauptseminar im Bachelorstudium“ wird benotet und wie folgt geprüft: 
 
@@ -225,17 +223,17 @@ gemäß **Anlage 1** .[2] Differenzen in den ECTS-Punkte-Umfängen des Technisch
 
 ## **§ 45 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbstständige Bearbeitung von Aufgabenstellungen des Computational Engineerings zu erlernen.[2] Sie wird mit zwölf ECTS-Punkten bewertet und ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden innerhalb von fünf Monaten abgeschlossen werden kann. 3Die Ergebnisse der Bachelorarbeit sind in einem benoteten Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.[5] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.[6] Die Zusammensetzung der Note der Bachelorarbeit ergibt sich aus **Anlage 1** . 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbstständige Bearbeitung von Aufgabenstellungen des Computational Engineerings zu erlernen.<sup>2</sup> Sie wird mit zwölf ECTS-Punkten bewertet und ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden innerhalb von fünf Monaten abgeschlossen werden kann. 3Die Ergebnisse der Bachelorarbeit sind in einem benoteten Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.<sup>6</sup> Die Zusammensetzung der Note der Bachelorarbeit ergibt sich aus **Anlage 1** . 
 
-(2)[1] Die Bachelorarbeit soll ein wissenschaftliches Thema aus dem Bereich des Computational Engineering behandeln und muss unter der Betreuung einer an der Technischen Fakultät oder Naturwissenschaftlichen Fakultät hauptamtlich beschäftigten und in der Lehre des Studiengangs beteiligten Lehrperson angefertigt werden.[2] Ausnahmen hinsichtlich des Themenbereiches und der Betreuung der Bachelorarbeit durch hauptamtlich beschäftigte Lehrpersonen anderer Fakultäten sind jeweils auf vorherigen schriftlichen Antrag bei der bzw. dem Studienkommissionsvorsitzenden möglich. 
+(2)<sup>1</sup> Die Bachelorarbeit soll ein wissenschaftliches Thema aus dem Bereich des Computational Engineering behandeln und muss unter der Betreuung einer an der Technischen Fakultät oder Naturwissenschaftlichen Fakultät hauptamtlich beschäftigten und in der Lehre des Studiengangs beteiligten Lehrperson angefertigt werden.<sup>2</sup> Ausnahmen hinsichtlich des Themenbereiches und der Betreuung der Bachelorarbeit durch hauptamtlich beschäftigte Lehrpersonen anderer Fakultäten sind jeweils auf vorherigen schriftlichen Antrag bei der bzw. dem Studienkommissionsvorsitzenden möglich. 
 
-(3)[1] Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.[2] Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
+(3)<sup>1</sup> Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.<sup>2</sup> Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
 
 ## **§ 46 Bewertung der Leistungen des Bachelorstudiums** 
 
-(1)[1] Das Bachelorstudium ist bestanden, wenn alle in **Anlage 1** vorgesehenen Module im Umfang von 180 ECTS-Punkten bestanden sind.[2] Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden. 
+(1)<sup>1</sup> Das Bachelorstudium ist bestanden, wenn alle in **Anlage 1** vorgesehenen Module im Umfang von 180 ECTS-Punkten bestanden sind.<sup>2</sup> Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden. 
 
-(2)[1] Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Freie Wahl und Praktikum).[2] Die Module der Grundlagen- und Orientierungsphase (Semester 1 bis 2) werden mit 0,75 und die Module der Bachelorphase (Semester 3 bis 6) mit 1,0 gewichtet. 
+(2)<sup>1</sup> Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Freie Wahl und Praktikum).<sup>2</sup> Die Module der Grundlagen- und Orientierungsphase (Semester 1 bis 2) werden mit 0,75 und die Module der Bachelorphase (Semester 3 bis 6) mit 1,0 gewichtet. 
 
 7 
 
@@ -243,29 +241,15 @@ gemäß **Anlage 1** .[2] Differenzen in den ECTS-Punkte-Umfängen des Technisch
 
 ## **§ 47 Wahl des Technischen Anwendungsfaches** 
 
-1Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs.[2] Die Studierenden wählen aus dem Modulkatalog des gewählten Technischen Anwendungsfachs Module in dem in **Anlage 3** angegebenen Umfang aus.[3] § 41 Abs. 3 gilt entsprechend. 
+1Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs.<sup>2</sup> Die Studierenden wählen aus dem Modulkatalog des gewählten Technischen Anwendungsfachs Module in dem in **Anlage 3** angegebenen Umfang aus.<sup>3</sup> § 41 Abs. 3 gilt entsprechend. 
 
 ## **§ 47a Technische Anwendungsfächer im Masterstudium** 
 
-- (1) Wählbare Technische Anwendungsfächer im Masterstudium sind: 
-
-1. Regelungstechnik (Automatic Control) 
-
-2. Mechatronik (Mechatronics) 
-
-3. Informationstechnologie – Digitale Übertragung (Information Technology – Digital Transmission) 
+- (1) Wählbare Technische Anwendungsfächer im Masterstudium sind: 1. Regelungstechnik (Automatic Control) 2. Mechatronik (Mechatronics) 3. Informationstechnologie – Digitale Übertragung (Information Technology – Digital Transmission) 
 
 4. Informationstechnologie – Digitale Signalverarbeitung (Information Technology – Digital Signal Processing) 
 
-5. Thermo- und Fluiddynamik (Thermo and Fluid Dynamics) 
-
-6. Festkörpermechanik und Dynamik (Mechanics and Dynamics) 
-
-7. Optik (Computational Optics) 
-
-8. Medizintechnik (Medical Engineering) 
-
-9. Computational Material Science. 
+5. Thermo- und Fluiddynamik (Thermo and Fluid Dynamics) 6. Festkörpermechanik und Dynamik (Mechanics and Dynamics) 7. Optik (Computational Optics) 8. Medizintechnik (Medical Engineering) 9. Computational Material Science. 
 
 (2) Die einzelnen Technischen Anwendungsfächer haben die folgenden Qualifikationsziele: 
 
@@ -289,13 +273,13 @@ gemäß **Anlage 1** .[2] Differenzen in den ECTS-Punkte-Umfängen des Technisch
 
 9. Im Technischen Anwendungsfach Computational Materials Science werden Kompetenzen für das Simulieren von mechanischen Eigenschaften – einschließlich atomistischer Methoden, Kontinuumstheorien und FEM-Techniken – erworben. 
 
-(3)[1] Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .[3] In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (20 bis 30 Minuten), Seminarleistung, Übungsleistung und Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** .<sup>3</sup> In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 2 möglich. 
 
 ## **§ 48 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelorstudiengangs im Fach Computational Engineering.[2] Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelorstudiengangs im Fach Computational Engineering.<sup>2</sup> Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden. 
 
-- (2)[1] Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
+- (2)<sup>1</sup> Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
 
 1. der Nachweis über englische Sprachkenntnisse gemäß Satz 2 sowie 
 
@@ -327,7 +311,7 @@ vorzulegen.
 
       - Funktionsanalysis für Ingenieure (5 ECTS-Punkte) 
 
-      - Optimierung für Ingenieure (7,5 ECTS-Punkte) 
+   - Optimierung für Ingenieure (7,5 ECTS-Punkte) 
 
    - c) Technisches Anwendungsfach, 
 
@@ -335,11 +319,13 @@ wobei pro Wahlpflichtbereich mindestens 20 ECTS-Punkte nachzuweisen sind,
 
 2. der erfolgreichen Teilnahme am Seminar Masterstudium (5 ECTS-Punkte), sowie 
 
-3. dem Modul Masterarbeit (30 ECTS-Punkte) gemäß **Anlage 3** . 
+3. dem Modul Masterarbeit (30 ECTS-Punkte) 
 
-(2)[1] In dem Wahlpflichtbereich Informatik erwerben die Studierenden Kompetenzen in den Disziplinen Mustererkennung, Visual-Computing, Systemsimulation, Hochleistungsrechnen und Rechnerarchitektur.[2] Aus dem Modulkatalog nach § 40a Abs. 3 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.[3] Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.[4] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung oder Studienleistung (unbenotet) bzw. in Fällen des § 6 Abs. 2 Satz 3 **ABMPO/TechFak** Kombinationen derselben. 
+gemäß **Anlage 3** . 
 
-(3)[1] In dem Wahlpflichtbereich Mathematik werden insbesondere Kompetenzen in den Gebieten der Mathematischen Modellierung, Lösungsmethoden für Partielle Differentialgleichungen und Nichtlineare Optimierung vermittelt.[2] Aus dem Modulkatalog nach § 40a Abs. 4 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.[3] Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.[4] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung oder Studienleistung (unbenotet) bzw. in Fällen des § 6 Abs. 2 Satz 3 **ABMPO/TechFak** Kombinationen derselben. 
+(2)<sup>1</sup> In dem Wahlpflichtbereich Informatik erwerben die Studierenden Kompetenzen in den Disziplinen Mustererkennung, Visual-Computing, Systemsimulation, Hochleistungsrechnen und Rechnerarchitektur.<sup>2</sup> Aus dem Modulkatalog nach § 40a Abs. 3 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.<sup>3</sup> Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.<sup>4</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung oder Studienleistung (unbenotet) bzw. in Fällen des § 6 Abs. 2 Satz 3 **ABMPO/TechFak** Kombinationen derselben. 
+
+(3)<sup>1</sup> In dem Wahlpflichtbereich Mathematik werden insbesondere Kompetenzen in den Gebieten der Mathematischen Modellierung, Lösungsmethoden für Partielle Differentialgleichungen und Nichtlineare Optimierung vermittelt.<sup>2</sup> Aus dem Modulkatalog nach § 40a Abs. 4 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.<sup>3</sup> Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.<sup>4</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung oder Studienleistung (unbenotet) bzw. in Fällen des § 6 Abs. 2 Satz 3 **ABMPO/TechFak** Kombinationen derselben. 
 
 (4) Bei der Wahl der Module innerhalb des Technischen Anwendungsfachs ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Computational Engineering gegenüber dem vorangegangenen Bachelorstudium nachzuweisen, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt. 
 
@@ -363,9 +349,9 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 
 ## **§ 52 Masterarbeit** 
 
-(1)[1] Die Masterarbeit dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Computational Engineerings nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.[3] Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich.[4] Die Ergebnisse der Masterarbeit sind in einem benoteten Referat von ca. 30 Minuten mit anschließender Diskussion vorzustellen.[5] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.[6] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
+(1)<sup>1</sup> Die Masterarbeit dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Computational Engineerings nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich.<sup>4</sup> Die Ergebnisse der Masterarbeit sind in einem benoteten Referat von ca. 30 Minuten mit anschließender Diskussion vorzustellen.<sup>5</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.<sup>6</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
 
-(2)[1] Die Masterarbeit soll ein wissenschaftliches Thema aus dem Bereich des Computational Engineering behandeln und muss unter der Betreuung einer an der Technischen Fakultät oder Naturwissenschaftlichen Fakultät hauptamtlich beschäftigten und in der Lehre des Studiengangs beteiligten Lehrperson durchgeführt werden.[2] Ausnahmen hinsichtlich des Themenbereiches und der Betreuung der Masterarbeit durch hauptamtlich beschäftigte Lehrpersonen anderer Fakultäten sind jeweils auf vorherigen schriftlichen Antrag bei der bzw. dem Studienkommissionsvorsitzenden möglich. 
+(2)<sup>1</sup> Die Masterarbeit soll ein wissenschaftliches Thema aus dem Bereich des Computational Engineering behandeln und muss unter der Betreuung einer an der Technischen Fakultät oder Naturwissenschaftlichen Fakultät hauptamtlich beschäftigten und in der Lehre des Studiengangs beteiligten Lehrperson durchgeführt werden.<sup>2</sup> Ausnahmen hinsichtlich des Themenbereiches und der Betreuung der Masterarbeit durch hauptamtlich beschäftigte Lehrpersonen anderer Fakultäten sind jeweils auf vorherigen schriftlichen Antrag bei der bzw. dem Studienkommissionsvorsitzenden möglich. 
 
 (3) Das Modul Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
@@ -379,9 +365,9 @@ Das Masterstudium ist bestanden, wenn alle in **Anlage 3** vorgesehenen Module i
 
 ## **§ 54 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bacheloroder Masterstudium Computational Engineering aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bacheloroder Masterstudium Computational Engineering aufnehmen. 
 
-(2)[1] Alle Studierenden, die sich zum Wintersemester 2007/2008 bereits im Masterstudium des Computational Engineerings an der FAU befinden oder im Wintersemester 2007/2008 das Masterstudium des Computational Engineerings an der FAU aufnehmen, haben die Wahl, ihr Studium nach dieser Fachprüfungsordnung weiterzuführen oder ihr Studium nach der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering an der FAU vom 13. April 2000 (KWMBl II S. 940), zuletzt geändert durch Satzung vom 19. Februar 2004 abzulegen.[2] Die Wahl bzw. der Wechsel der Prüfungsordnung ist spätestens zum Ende des Wintersemesters 2007/08 schriftlich im Prüfungsamt zu beantragen.[3] Die Prüfungen der Bachelorprüfung und der Masterprüfung nach Satz 1 werden in folgenden Prüfungszeiträumen letztmals angeboten: 
+(2)<sup>1</sup> Alle Studierenden, die sich zum Wintersemester 2007/2008 bereits im Masterstudium des Computational Engineerings an der FAU befinden oder im Wintersemester 2007/2008 das Masterstudium des Computational Engineerings an der FAU aufnehmen, haben die Wahl, ihr Studium nach dieser Fachprüfungsordnung weiterzuführen oder ihr Studium nach der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering an der FAU vom 13. April 2000 (KWMBl II S. 940), zuletzt geändert durch Satzung vom 19. Februar 2004 abzulegen.<sup>2</sup> Die Wahl bzw. der Wechsel der Prüfungsordnung ist spätestens zum Ende des Wintersemesters 2007/08 schriftlich im Prüfungsamt zu beantragen.<sup>3</sup> Die Prüfungen der Bachelorprüfung und der Masterprüfung nach Satz 1 werden in folgenden Prüfungszeiträumen letztmals angeboten: 
 
 1. Bachelorprüfung, nach dem Wintersemester 2010/2011, 
 
@@ -391,60 +377,55 @@ Das Masterstudium ist bestanden, wenn alle in **Anlage 3** vorgesehenen Module i
 
 (3) Mit dem Inkrafttreten der Fachprüfungsordnung tritt zugleich die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering an der FAU vom 13. April 2000 (KWMBl II S. 940), zuletzt geändert durch Satzung vom 19. Februar 2004, vorbehaltlich der Regelung in Abs. 2, außer Kraft. 
 
-(4)[1] Die achte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden. 
+(4)<sup>1</sup> Die achte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden. 
 
-(5)[1] Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
+(5)<sup>1</sup> Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
-(6)[1] Die zehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden im Bachelorstudium letztmals im Sommersemester 2027 und im Masterstudium letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
+(6)<sup>1</sup> Die zehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden im Bachelorstudium letztmals im Sommersemester 2027 und im Masterstudium letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
 
 12 
 
 ## **Anlage 1: Studienverlaufsplan Bachelor** 
 
-|**Modulbezeichnung**|||||**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|<br>**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**SWS**|||||||||||
-||||||||||||||
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **||
-|**Informatik**|||||||||||||
-|Grundlagen der Programmierung (GOP)||vgl.**FPOINF**|||**5**|5||||||vgl.**FPOINF**|
-|Grundlagen der Logik in der Informatik||vgl.**FPOINF**|||**5**|5||||||vgl.**FPOINF**|
-|Einführungin die Algorithmik(GOP)||vgl.**FPOINF**|||**7,5 **||7,5|||||vgl.**FPOINF**|
-|Computational Engineering1(GOP)|4|2|||**7,5 **|7,5||||||PL(K90)+ SL(ÜbL)|
-|Systemprogrammierung|2|2|2||**10**||5|5||||vgl.**FPOINF**|
-|Simulation und Modellierung1|2|2|||**5**|||||5||vgl.**FPOINF**|
-|Simulation und wissenschaftliches Rechnen 1|2|2|2||**7,5 **|||||7,5||PL(K90)+ SL(ÜbL)|
-|Simulation und wissenschaftliches Rechnen 2|2|2|2||**7,5 **||||||7,5|PL(K90)+ SL(ÜbL)|
-|**Mathematik**|||||||||||||
-|Mathematik für CE 11**)** (GOP)|4|2|||**7,5 **|7,5||||||PL(K90)+ SL(ÜbL)|
-|Mathematik für CE 21**)** (GOP)|6|2|||**10**||10|||||PL(K120)+ SL(ÜbL)|
-|Mathematik für CE 31**)**|2|2|||**5**|||5||||PL(K60)+ SL(ÜbL)|
-|Mathematik für CE 41**)**|2|2|||**5**||||5|||PL(K60)+ SL(ÜbL)|
-|Numerik I für Ingenieure|2|2|||**5**|||5||||PL(K60)|
-|Numerik II für Ingenieure|2|2|||**5**||||5|||PL(K60)|
-|**Technisches Anwendungsfach (TAF),**<br>**mind. 35 ECTS-Punkte2)**|||||||||||||
-|Experimentalphysik für Naturwissenschaftler I(GOP)|4|1|||**5**|5||||||PL(K90)|
-|Experimentalphysik für Naturwissenschaftler II(GOP)|4|2|||**5**||5|||||PL(K90)|
-|Computational Engineering2(GOP)|2|2|||**5**||5|||||PL(K90)+ SL(ÜbL)|
-|TAF – Module3)|8|8|||**20**||||20|||vgl.§41a Abs. 3|
-|**Technische Wahlmodule, max. 17,5 ECTS-**<br>**Punkte4)**|10|10|||**17,5**|||||||vgl. § 41b Abs. 3|
-||||||||||17,5||||
-||||||||||||||
-|**Wahlfach Schlüsselqualifikationen5)**|||||||||||||
-|Freier Wahlbereich|4||||**5**||||5|||SL|
-|Praktikum|||8||**10**||||10|||SL: PrL|
-|**Hauptseminar Bachelor**||||2|**5**||||5|||vgl.§44 Abs. 3|
+|**Modulbezeichnung**|**SW**<br> <br>|**S**<br> <br>|**Gesamt**<br>**ECTS**|**Workl**<br>**Semest**<br> <br>|**oad-V**<br>**er in**<br>|**erteilung pro**<br>**ECTS-Punkten **<br> <br><br>|**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|---|---|
+||**V**<br>**Ü**|**P**<br>**S**||**1.**<br>**2.**|**3. **|**4.**<br>**5. **<br>**6. **||
+|**Informatik**||||||||
+|Grundlagen der Programmierung (GOP)|vgl.**FP**|**OINF**|**5**|5|||vgl.**FPOINF**|
+|Grundlagen der Logik in der Informatik|vgl.**FP**|**OINF**|**5**|5|||vgl.**FPOINF**|
+|Einführungin die Algorithmik(GOP)|vgl.**FP**|**OINF**|**7,5 **|7,5|||vgl.**FPOINF**|
+|Computational Engineering1(GOP)|4<br>2||**7,5 **|7,5|||PL(K90)+ SL(ÜbL)|
+|Systemprogrammierung|2<br>2|2|**10**|5|5||vgl.**FPOINF**|
+|Simulation und Modellierung1|2<br>2||**5**|||5|vgl.**FPOINF**|
+|Simulation und wissenschaftliches Rechnen 1|2<br>2|2|**7,5 **|||7,5|PL(K90)+ SL(ÜbL)|
+|Simulation und wissenschaftliches Rechnen 2|2<br>2|2|**7,5 **|||7,5|PL(K90)+ SL(ÜbL)|
+|**Mathematik**||||||||
+|Mathematik für CE 1<sup>1</sup><sup>**)**</sup> (GOP)|4<br>2||**7,5 **|7,5|||PL(K90)+ SL(ÜbL)|
+|Mathematik für CE 2<sup>1</sup><sup>**)**</sup> (GOP)|6<br>2||**10**|10|||PL(K120)+ SL(ÜbL)|
+|Mathematik für CE 3<sup>1</sup><sup>**)**</sup>|2<br>2||**5**||5||PL(K60)+ SL(ÜbL)|
+|Mathematik für CE 4<sup>1</sup><sup>**)**</sup>|2<br>2||**5**|||5|PL(K60)+ SL(ÜbL)|
+|Numerik I für Ingenieure|2<br>2||**5**||5||PL(K60)|
+|Numerik II für Ingenieure|2<br>2||**5**|||5|PL(K60)|
+|**Technisches Anwendungsfach (TAF),**<br>**mind. 35 ECTS-Punkte**<sup>**2**</sup>**)**||||||||
+|Experimentalphysik für Naturwissenschaftler I(GOP)|4<br>1||**5**|5|||PL(K90)|
+|Experimentalphysik für Naturwissenschaftler II(GOP)|4<br>2||**5**|5|||PL(K90)|
+|Computational Engineering2(GOP)|2<br>2||**5**|5|||PL(K90)+ SL(ÜbL)|
+|TAF – Module<sup>3)</sup>|8<br>8||**20**|||20|vgl.§41a Abs. 3|
+|**Technische Wahlmodule, max. 17,5 ECTS-**<br>**Punkte**<sup>**4)**</sup>|10<br>10||**17,5**|||17,5|vgl. § 41b Abs. 3|
+|**Wahlfach Schlüsselqualifikationen**<sup>**5)**</sup>||||||||
+|Freier Wahlbereich|4||**5**|||5|SL|
+|Praktikum||8|**10**|||10|SL: PrL|
+|**Hauptseminar Bachelor**||2|**5**|||5|vgl.§44 Abs. 3|
 
 13 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **||
-|**Bachelorarbeit**|||||**15**|||||15||PL: Schriftliche Ausarbeitung<br>(80 %) und<br>Vortrag mit Diskussion<br>(ca 30 + 15 Min.; 20 %)|
-|**Summe SWS**|**66**|**47**|**16**|**2**|||||||||
-|**Summe ECTS**|||||**180**|**30**|**32,5**|**27,5**|**30**|**30**|**30**||
+|**Modulbezeichnung**||**SW**<br>**V**<br>**Ü**|**S**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**Workl**<br>**Semest**<br>**1.**<br>**2.**|**oad-Verteilung pro**<br>**er in ECTS-Punkten **<br>**3. **<br>**4.**<br>**5. **<br>**6. **|**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|---|---|
+|**Bachelorarbeit**||||**15**||15|PL: Schriftliche Ausarbeitung<br>(80 %) und<br>Vortrag mit Diskussion<br>(ca 30 + 15 Min.; 20 %)|
+||**Summe SWS**|**66**<br>**47**|**16**<br>**2**|||||
+||**Summe ECTS**|||**180**|**30**<br>**32,5**|**27,5**<br>**30**<br>**30**<br>**30**||
 
-## **Erläuterungen:** 
+#### **Erläuterungen:** 
 
 GOP: Grundlagen- und Orientierungsprüfung. PL: Prüfungsleistung (benotet). 
 
@@ -472,92 +453,85 @@ SeL: Seminarleistung gemäß § 6 Abs 3 **ABMPO/TechFak** .
 
 ## **Anlage 2: Pflichtmodule der Technischen Anwendungsfächer** 
 
-## **TAF Regelungstechnik/Automatic Control – Pflichtmodule** 
+## **TAF Regelungstechnik/Automatic** **<u>Control – Pflichtmodule</u>** 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Einführungin die Regelungstechnik1|vgl.**FPOET**||||**5**|||5||||vgl.**FPOET**|
-|Regelungstechnisches Praktikum für CE|||3||**5**||||5|||PL(Praktikumsleistung)|
-|Regelungstechnik B(Zustandsraummethoden)|vgl.**FPOEEI**||||**5**|||||5||vgl.**FPOEEI**|
-|Digitale Regelung|2|2|||**5**||||||5|PL(K90)|
-|**Summe SWS**|**7**|**5**|**3**||||||||||
-|**Summe ECTS**|||||**20**|||**5**|**5**|**5**|**5**||
+|**Modulbezeichnung**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**<br>**1**|**Workload-V**<br>**Semester in**<br>**.**<br>**2.**<br>**3.**|**erteilung pro**<br>**ECTS-Punkten**<br>**4.**<br>**5.**<br>**6.**|**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|
+|**Technisches Anwendungsfach**||||||
+|Einführungin die Regelungstechnik<sup>1</sup>|vgl.**FPOET**|**5**|5||vgl.**FPOET**|
+|Regelungstechnisches Praktikum für CE|3|**5**||5|PL(Praktikumsleistung)|
+|Regelungstechnik B(Zustandsraummethoden)|vgl.**FPOEEI**|**5**||5|vgl.**FPOEEI**|
+|Digitale Regelung|2<br>2|**5**||5|PL(K90)|
+|**Summe SWS**|**7**<br>**5**<br>**3**|||||
+|**Summe ECTS**||**20**|**5**|**5**<br>**5**<br>**5**||
 
 ## **TAF Mechatronik/Mechatronics – Pflichtmodule** 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|<br>**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**in ECTS-Punkten**||||||
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Grundlagen der Elektrotechnik I|vgl.**FPOEEI**||||**7,5 **|||7,5||||vgl.**FPOEEI**|
-|Grundlagen der Elektrotechnik III|vgl.**FPOEEI**||||**5**|||||5||vgl.**FPOEEI**|
-|Einführungin die Regelungstechnik1|vgl.**FPOET**||||**5**|||5||||vgl.**FPOET**|
-|Sensorik|vgl.**FPOEEI**||||**5**|||||5||vgl.**FPOEEI**|
-|**Summe SWS**|**11**|**7**|||||||||||
-|**Summe ECTS**|||||**22,5 **|||**12,5 **||**10**|||
+|**Modulbezeichnung**|**SWS**<br>|**Gesamt**<br>**ECTS**<br>**W**|**orkload-Verteil**<br>**in ECTS-**|**ung pro Sem**<br>**Punkten**|**ester**<br>**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|
+||**V**<br>**Ü**<br>**P**<br>**S**|<br> <br>**1.**|<br>**2.**<br>**3.**|**4.**<br>**5.**|**6.**|
+|**Technisches Anwendungsfach**||||||
+|Grundlagen der Elektrotechnik I|vgl.**FPOEEI**|**7,5 **|7,5||vgl.**FPOEEI**|
+|Grundlagen der Elektrotechnik III|vgl.**FPOEEI**|**5**||5|vgl.**FPOEEI**|
+|Einführungin die Regelungstechnik<sup>1</sup>|vgl.**FPOET**|**5**|5||vgl.**FPOET**|
+|Sensorik|vgl.**FPOEEI**|**5**||5|vgl.**FPOEEI**|
+|**Summe SWS**|**11**<br>**7**|||||
+|**Summe ECTS**||**22,5 **|**12,5 **|**10**||
 
 15 
 
-## **TAF Informationstechnologie / Information Technology – Pflichtmodule** 
+## **TAF Informationstechnologie** **<u>/ Information Technology – Pflichtmodule</u>** 
 
-|**Modulbezeichnung**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**SWS**|||||||||||
-||||||||||||||
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Einführung in die Grundlagen der Elektrotechnik<br>für CE-Studierende|2||||**2,5**|||2,5||||SL, unbenotet|
-|Signale und SystemeI|2,5|1,5|1||**5**|||5||||PL(vgl.**FPOEEI**)|
-|Signale und SystemeII|2,5|1,5|1||**5**||||5|||PL(vgl.**FPOEEI**)|
-|Information Theory and Coding/Informations-the-<br>orie und Codierung|3|1|||**5**|||||5||PL (vgl.**FPOEEI**)|
-|Digitale Signalverarbeitung|3|1|1||**5**|||||5||PL (vgl.**FPOEEI**)|
-|**Summe SWS**|**13**|**5**|**3**||||||||||
-|**Summe ECTS**|||||**22,5 **|||**7,5 **|**5**|**10**|||
+|**Modulbezeichnung**||**SW**<br>|**S**<br>|**Gesamt**<br>**ECTS**<br>|**Workload-Ve**<br>**Semester in E**<br> <br> <br>|**rteilung pro**<br>**CTS-Punkten**<br> <br> <br>|**Art und Umfang der**<br>**Prüfung**|
+|---|---|---|---|---|---|---|---|
+||**V**|**Ü**|**P**|**S**|**1.**<br>**2.**<br>**3.**|**4.**<br>**5.**<br>**6.**||
+|**Technisches Anwendungsfach**||||||||
+|Einführung in die Grundlagen der Elektrotechnik<br>für CE-Studierende|2|||**2,5**|2,5||SL, unbenotet|
+|Signale und SystemeI|2,5|1,5|1|**5**|5||PL(vgl.**FPOEEI**)|
+|Signale und SystemeII|2,5|1,5|1|**5**||5|PL(vgl.**FPOEEI**)|
+|Information Theory and Coding/Informations-the-<br>orie und Codierung|3|1||**5**||5|PL (vgl.**FPOEEI**)|
+|Digitale Signalverarbeitung|3|1|1|**5**||5|PL (vgl.**FPOEEI**)|
+|**Summe SWS**|**13**|**5**|**3**|||||
+|**Summe ECTS**||||**22,5 **|**7,5 **|**5**<br>**10**||
 
-## **TAF Thermo- und Fluiddynamik / Thermo and Fluid Dynamics – Pflichtmodule** 
+## **TAF Thermo- und Fluiddynamik / Thermo** **<u>and Fluid Dynamics – Pflichtmodule</u>** 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Technische Thermodynamik I|3|2|||**7,5 **|||7,5||||PL(vgl.**FPOET**)|
-|Technische Thermodynamik II|3|1|||**5**||||5|||PL(vgl.**FPOET**)|
-|Strömungsmechanik I|2|2|||**5**||||5|||PL(vgl.**FPOCBI**)|
-|Wärme- und Stoffübertragung|3|1|||**5**||||||5|PL(vgl.**FPOET**)|
-|**Summe SWS**|**11**|**6**|||||||||||
-|**Summe ECTS**|||||**22,5 **|||**7,5 **|**10**||**5**||
+|**Modulbezeichnung**|**V**|**SWS**<br>**Ü**<br>**P**|**Gesamt**<br>**ECTS**<br>**S**|**Workload-Ve**<br>**Semester in E**<br>**1.**<br>**2.**<br>**3.**|**rteilu**<br>**CTS-**<br>**4.**|**ng pro**<br>**Punkten**<br>**5.**<br>**6.**|**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|---|---|
+|**Technisches Anwendungsfach**||||||||
+|Technische Thermodynamik I|3|2|**7,5 **|7,5|||PL(vgl.**FPOET**)|
+|Technische Thermodynamik II|3|1|**5**||5||PL(vgl.**FPOET**)|
+|Strömungsmechanik I|2|2|**5**||5||PL(vgl.**FPOCBI**)|
+|Wärme- und Stoffübertragung|3|1|**5**|||5|PL(vgl.**FPOET**)|
+|**Summe SWS**|**11**|**6**||||||
+|**Summe ECTS**|||**22,5 **|**7,5 **|**10**|**5**||
 
 16 
 
-## **TAF Festkörpermechanik und Dynamik/Solid Mechanics and Dynamics – Pflichtmodule** 
+## **TAF Festkörpermechanik und Dynamik/Solid Mechanics** **<u>and Dynamics – Pflichtmodule</u>** 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der**<br>**Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Statik,Elastostatik und Festigkeitslehre|5|4|4||**12,5 **|||5|7,5|||PL(vgl.**FPOMB**)|
-|Dynamik starrer Körper|3|2|2||**7,5 **|||||7,5||PL(vgl.**FPOMB**)|
-|**Summe SWS**|**8**|**6**|**6**||||||||||
-|**Summe ECTS**|||||**20**|||**5**|**7,5 **|**7,5 **|||
+|**Modulbezeichnung**|**S**<br>**V**<br>**Ü**|**WS**<br>**P**<br>|**Gesamt**<br>**ECTS**<br>**S**<br>**1**|**Workload-Verteilu**<br>**Semester in ECTS-**<br>**.**<br>**2.**<br>**3.**<br>**4.**|**ng pro**<br>**Punkten**<br>**Art und Umfang der**<br>**Prüfung**<br>**5.**<br>**6.**|
+|---|---|---|---|---|---|
+|**Technisches Anwendungsfach**||||||
+|Statik,Elastostatik und Festigkeitslehre|5<br>4|4|**12,5 **|5<br>7,5|PL(vgl.**FPOMB**)|
+|Dynamik starrer Körper|3<br>2|2|**7,5 **||7,5<br>PL(vgl.**FPOMB**)|
+|**Summe SWS**|**8**<br>**6**|**6**||||
+|**Summe ECTS**|||**20**|**5**<br>**7,5 **|**7,5 **|
 
 ## **TAF Optik/Computational Optics – Pflichtmodule** 
 
-|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**in ECTS-Punkten**||||||
-||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|**Technisches Anwendungsfach**|||||||||||||
-|Experimentalphysik 3: Optik und Quanteneffekte|4|2|||**7,5 **|||7,5||||PL(vgl.**BMPO/Physik**)|
-|Moderne Optik I: Fortgeschrittene Optik|2|2|||**5**|||||5||PL(K120)|
-|Photonik 1|2|2|||**5**|||5||||PL(vgl.**FPOEEI**)|
-|Photonik 2|2|2|||**5**||||5|||PL (M30)|
-|**Summe SWS**|**10**|**8**|||||||||||
-|**Summe ECTS**|||||**22,5 **|||**12,5 **|**5**|**5**|||
+|**Modulbezeichnung**||**SWS**<br> <br>||**Gesamt**<br>**ECTS**<br>**W**<br>|**orkload-**<br>**in**<br> <br>|**Verteilu**<br>**ECTS-P**<br>|**ng pro Sem**<br>**unkten**<br> <br>|**ester**<br>**Art und Umfang der Prüfung**<br>|
+|---|---|---|---|---|---|---|---|---|
+||**V**|**Ü**<br>**P**|**S**|<br>**1.**|<br>**2.**|**3.**|**4.**<br>**5.**|**6.**|
+|**Technisches Anwendungsfach**|||||||||
+|Experimentalphysik 3: Optik und Quanteneffekte|4|2||**7,5 **||7,5||PL(vgl.**BMPO/Physik**)|
+|Moderne Optik I: Fortgeschrittene Optik|2|2||**5**|||5|PL(K120)|
+|Photonik 1|2|2||**5**||5||PL(vgl.**FPOEEI**)|
+|Photonik 2|2|2||**5**|||5|PL (M30)|
+|**Summe SWS**|**10**|**8**|||||||
+|**Summe ECTS**||||**22,5 **||**12,5 **|**5**<br>**5**||
 
-## **Erläuterungen:** 
+#### **Erläuterungen:** 
 
 PL: Prüfungsleistung (benotet). SL: Studienleistung (unbenotet). M30: Mündliche Prüfung mit 30 Min. Dauer. 
 
@@ -569,36 +543,32 @@ K60/K90/K120/K180: Klausur mit 60, 90, 120 bzw. 180 Min. Dauer.
 
 ## **Anlage 3: Studienverlaufsplan Master** 
 
-|**Modulbezeichnung**|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten **|**Art und Umfang der Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**||
-|**Informatik**||||||||||||
-|Wahlpflichtbereich Informatik:<br>Module aus dem Modulkatalog nach § 40a Abs. 3<br>(Umfang mind. 20 ECTS)1)||12|8|4||**≥20**|||||vgl. § 49 Abs. 2|
-|**Mathematik**||||||||||||
-|Funktionalanalysis für Ingenieure||2|2|||**5**|5||||PL(K60)+ SL(ÜbL)|
-|Optimierungfür Ingenieure||3|2|||**7,5 **||7,5|||PL(K60)+ SL(ÜbL)|
-|Wahlpflichtbereich Mathematik:<br>Module aus dem Modulkatalog nach § 40a Abs. 4<br>(Umfang mind. 7,5 ECTS)1)||6|3|||**≥7,5**|||||vgl. 49 Abs. 3|
-|**Technisches Anwendungsfach(TAF)**||||||||||||
-|Wahlpflichtbereich Technisches Anwendungsfach:<br>Module aus dem Modulkatalog des gewählten TAF<br>nach § 40a Abs. 5 (Umfang mind. 20 ECTS)1)||12|8|4||**≥20**|||||vgl. § 40a Abs. 5|
-|||||||||||||
-|Hauptseminar|||||2|**5**|||||vgl.§50 Abs. 3|
-|Masterarbeit||||||**30**||||30|PL: Schriftliche Ausarbeitung und<br>Vortrag mit Diskussion (ca. 30 + 15 Min.)<br>(90 % + 10 %)|
-||**Summe SWS**|**35**|**23**|**8**|**2**|||||||
-||**Summe ECTS**|||||**120**|**30**|**30**|**30**|**30**||
+|**Modulbezeichnung**||**SW**<br>|**S**|**Gesamt**<br>**ECTS**|**Wo**<br>**Sem**|**rkload-V**<br>**ester in**|**erteilung**<br>**ECTS-Pu**|**pro**<br>**nkten **|**Art und Umfang der Prüfung**|
+|---|---|---|---|---|---|---|---|---|---|
+||**V**|**Ü**|**P**<br>**S**||**1.**|**2.**|**3. **|**4.**||
+|**Informatik**||||||||||
+|Wahlpflichtbereich Informatik:<br>Module aus dem Modulkatalog nach § 40a Abs. 3<br>(Umfang mind. 20 ECTS)<sup>1)</sup>|12|8|4|**≥20**|||||vgl. § 49 Abs. 2|
+|**Mathematik**||||||||||
+|Funktionalanalysis für Ingenieure|2|2||**5**|5||||PL(K60)+ SL(ÜbL)|
+|Optimierungfür Ingenieure|3|2||**7,5 **||7,5|||PL(K60)+ SL(ÜbL)|
+|Wahlpflichtbereich Mathematik:<br>Module aus dem Modulkatalog nach § 40a Abs. 4<br>(Umfang mind. 7,5 ECTS)<sup>1)</sup>|6|3||**≥7,5**|||||vgl. 49 Abs. 3|
+|**Technisches Anwendungsfach(TAF)**||||||||||
+|Wahlpflichtbereich Technisches Anwendungsfach:<br>Module aus dem Modulkatalog des gewählten TAF<br>nach § 40a Abs. 5 (Umfang mind. 20 ECTS)<sup>1)</sup>|12|8|4|**≥20**|||||vgl. § 40a Abs. 5|
+|Hauptseminar|||2|**5**|||||vgl.§50 Abs. 3|
+|Masterarbeit||||**30**||||30|PL: Schriftliche Ausarbeitung und<br>Vortrag mit Diskussion (ca. 30 + 15 Min.)<br>(90 % + 10 %)|
+|**Summe SWS**<br>**Summe ECTS**|**35**|**23**|**8**<br>**2**|**120**|**30**|**30**|**30**|**30**||
 
-## **Erläuterungen:** 
+#### **Erläuterungen:** 
 
-GOP: Grundlagen- und Orientierungsprüfung. PL: Prüfungsleistung (benotet). 
+- GOP: Grundlagen- und Orientierungsprüfung. PL: Prüfungsleistung (benotet). 
 
 SL: Studienleistung (unbenotet). 
 
-K 60: Klausur mit 60 Min. Dauer. 
+- K 60: Klausur mit 60 Min. Dauer. 
 
 ÜbL: Übungsleistung gemäß § 6 Abs. 5 **ABMPO/TechFak** . 
 
-PrL: Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
-
-SeL: Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
+PrL: Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . SeL: Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
 
 - 1) Soweit sich durch das Belegen der Module dieses Wahlpflichtbereichs im mindestens erforderlichen Umfang eine Differenz zu den in den Wahlpflichtbereichen insgesamt nachzuweisenden Kompetenzen (85 ECTS-Punkte) ergibt, muss diese Differenz durch eine das Mindestmaß überschreitende Belegung von Modulen in den übrigen Wahlpflichtbereichen ausgeglichen werden. 
 

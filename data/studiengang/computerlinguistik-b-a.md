@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-04-25T14:09:53+00:00
+scraped_at: 2026-07-01T08:20:08+00:00
 ---
 
 # Computerlinguistik (B.A.)
@@ -31,11 +31,21 @@ scraped_at: 2026-04-25T14:09:53+00:00
 
 ## Worum geht es im Studiengang?
 
-Are you interested in how search engines find the relevant websites for your query and make suggestions for corrections or additions? How voice control works on modern smartphones? How computers can automatically pull facts and opinions from digital texts (such as Wikipedia, online news feeds and social media)? And are you also curious about what the term “digital humanities” actually means? Then studying computer linguistics may be just the thing for you.  
+Interessiert es Dich, wie Suchmaschinen die passenden Webseiten für deine Suchanfrage finden und Vorschläge für Korrekturen oder Ergänzungen machen? Wie die Sprachsteuerung bei modernen Smartphones funktioniert? Wie Computer automatisch Fakten und Meinungen aus digitalen Texten (wie Wikipedia, Online-Nachrichtenfeeds und den Sozialen Medien) extrahieren können? Und bist du auch neugierig, was der Begriff „Digital Humanities“ eigentlich bedeutet? Dann könnte das Studium der Computerlinguistik genau das Richtige für Dich sein.
 
-Computer linguistics researches the processing of human language and develops computer models for understanding, producing and learning language. The program covers theories and methods from computer science, linguistics and cognition science and applies fundamentals from mathematics such as formal logic or statistics. Computer linguistics at FAU focuses on the technical and practical aspects of machine language processing. In addition, students select a linguistics subject to acquire the necessary basic knowledge of theoretical and empirical linguistics.  
+Die Computerlinguistik erforscht die Verarbeitung menschlicher Sprache und entwickelt Computermodelle zum Verstehen, Produzieren und Erlernen von Sprache. Das Studium umfasst Theorien und Methoden aus der Informatik, Linguistik und Kognitionswissenschaft und wendet Grundlagen der Mathematik wie formale Logik oder Statistik an. Die Computerlinguistik an der FAU konzentriert sich auf die technischen und praktischen Aspekte der maschinellen Sprachverarbeitung. Darüber hinaus wählen die Studierenden ein linguistisches Fach, um sich die notwendigen Grundkenntnisse der theoretischen und empirischen Linguistik anzueignen.  
 
-Studying computer linguistics qualifies you to become involved in developing new products. As computer-aided information retrieval will continue to be significant in future and processing language data will continue to play a key role, you can be sure that computer linguistics graduates will be much sought after, both now and in the future.
+Ein Studium der Computerlinguistik qualifiziert Dich für die Mitwirkung an der Entwicklung neuer Produkte. Da die computergestützte Informationsgewinnung auch in Zukunft von großer Bedeutung sein wird und die Verarbeitung von Sprachdaten weiterhin eine Schlüsselrolle spielen wird, kannst Du dir sicher sein, dass Absolventen der Computerlinguistik sowohl heute als auch in Zukunft sehr gefragt sein werden.
+
+### Fachanteile des Studiengangs Computerlinguistik (B.A.)
+
+* Seminare (28%)
+* Informatik (22%)
+* Programmierung (17%)
+* Deep Learning (11%)
+* Klassische Verfahren (11%)
+* Praktikum (6%)
+* Linguistik (6%)
 
 ### Aufbau und Struktur
 
@@ -109,7 +119,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 * [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -203,6 +213,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

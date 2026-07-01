@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. September 2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO-Comp-Eng_5Sept2001.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:16:10+00:00
-page_count_chars: 2734
+scraped_at: 2026-07-01T11:36:01+00:00
+page_count_chars: 2751
 ---
 
 # 5. September 2001
@@ -14,7 +14,7 @@ page_count_chars: 2734
 
 **Satzung zur Änderung der Fachprüfungsordnung für die wissenschaftlichen zweisprachigen Bachelor- und Masterstudiengänge im Studium des Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Universität Erlangen-Nürnberg** 
 
-## Vom 05. September 2001 
+# Vom 05. September 2001 
 
 Auf Grund von Art. 6 in Verbindung mit Art. 81 Abs. 1 Satz 1 und Art. 86a des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 51 der Qualifikationsverordnung erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -30,7 +30,7 @@ Die Fachprüfungsordnung für die wissenschaftlichen zweisprachigen Bachelor- un
 
    - a) Nach Satz 3 werden folgende Sätze eingefügt: 
 
-      - „[4] Bei bis zu drei Lehrveranstaltungen kann die Prüfung durch den Nachweis der erfolgreichen Teilnahme („Schein“) ersetzt werden.[5] Welche Lehrveranstaltungen hierzu in Frage kommen, legt der Prüfungsausschuss fest. 
+      - „<sup>4</sup> Bei bis zu drei Lehrveranstaltungen kann die Prüfung durch den Nachweis der erfolgreichen Teilnahme („Schein“) ersetzt werden.<sup>5</sup> Welche Lehrveranstaltungen hierzu in Frage kommen, legt der Prüfungsausschuss fest. 
 
    - b) Der bisherige Satz 4 wird Satz 6. 
 

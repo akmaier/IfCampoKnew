@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "12. Juni 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_WTB-Organisations-Personalentw.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:08+00:00
-page_count_chars: 6673
+scraped_at: 2026-07-01T09:58:43+00:00
+page_count_chars: 6491
 ---
 
 # 12. Juni 2017
@@ -12,7 +12,7 @@ page_count_chars: 6673
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_WTB-Organisations-Personalentw.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE – Vom 12. Juni 2017** 
+# **Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE – Vom 12. Juni 2017** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -44,11 +44,11 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
 9. § 31 wird wie folgt geändert: 
 
-   - a) Die bisher einzige Regelung wird zu Abs. 1. 
+a) Die bisher einzige Regelung wird zu Abs. 1. 
 
-   - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
+- b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.[2] Abs. 1 Sätze 3 und 4 gelten entsprechend.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.<sup>2</sup> Abs. 1 Sätze 3 und 4 gelten entsprechend.“ 
 
 2 
 
@@ -56,59 +56,56 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
 ## „ 
 
-|Modulbezeichnung|||Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|ECTS||in ECTS-Punkten1|||Art und Umfang der Prüfung||
-||||1.|2.|3.|4.|||
-|Integration von Organisation und Person(al)|||||||||
-|Grundlagen der Organisations- und<br>Personalentwicklung|Integration von Organisation und Person(al)|5|1,5||||Klausur (60-120 Min.)|1|
-||Strategie und Verantwortung||1,5||||||
-||Organisationsforschung||1,5||||||
-||Teambuilding||0,5||||||
-|Grundlagen Organisation|||||||||
-|Konzepte der<br>Organisationsentwicklung|Einführung in die Konzepte der<br>Organisationsentwicklung|5|2,5||||Hausarbeit (10-15 S.)|1|
-||Konzepte der Organisationsentwicklung in der<br>Praxis|||1,25|||||
-||Unternehmenskultur und Lernkultur|||1,25|||||
-|Umsetzung von<br>Organisationsentwicklungsprozessen|Change Management|5||2,5|||Präsentation (30-45 Min.)|1|
-||Vielfalt managen (e-learning)|||1,5|||||
-||Projektmanagement|||0,5|||||
-||Moderation und Präsentation|||0,5|||||
-|Grundlagen Personal|||||||||
-|Konzepte der Personalentwicklung|Konzepte der Personalentwicklung|5|1,5||||Klausur (60-120 Min.)|1|
-||Innovative Arbeitsorganisation||1,5||||||
-||Betriebliches Bildungsmanagement||2||||||
-|Umsetzung von Personalentwicklung|Instrumente der Personalentwicklung|5||1,5|||Klausur (60-120 Min.)|1|
-||Kompetenzmessung|||2|||||
-||Neue Lernformen im Betrieb|||1,5|||||
-|Management und Führung|||||||||
-|Instrumente der Mitarbeiterführung|Instrumente der Mitarbeiterführung|2,5||2|||Hausarbeit (10-15 S.) oder<br>Präsentation (30-45 Min.)2|1|
-||Kommunikation und Gesprächsführung|||0,5|||||
-|Personalmanagement|Personalmanagement|5|||1,5||Klausur (60-120 Min.)|1|
+||||Workload-Verteilu<br>|ng pro Semester<br>||Faktor|
+|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|ECTS|in ECTS-|Punkten<sup>1</sup>|Art und Umfang der Prüfung|Modul-|
+|Integration von Organisation und Perso|n(al)<br>||1.<br>2.<br>|3.<br>4.||note|
+||Integration von Organisation und Person(al)||1,5||||
+|Grundlagen der Organisations- und|Strategie und Verantwortung|5|1,5||Klausur (60-120 Min)|1|
+|Personalentwicklung|Organisationsforschung||1,5||.||
+||Teambuilding||0,5||||
+|Grundlagen Organisation|||||||
+|K|Einführung in die Konzepte der<br>Organisationsentwicklung||2,5||||
+|onzepte der<br>Organisationsentwicklung|Konzepte der Organisationsentwicklung in der<br>Praxis|5|1,25||Hausarbeit (10-15 S.)|1|
+||Unternehmenskultur und Lernkultur||1,25||||
+||Change Management||2,5||||
+|Umsetzung von|Vielfalt managen (e-learning)|5|1,5||Präsentation (30-45 Min)|1|
+|Organisationsentwicklungsprozessen|Projektmanagement||0,5||.||
+||Moderation und Präsentation||0,5||||
+|Grundlagen Personal|||||||
+||Konzepte der Personalentwicklung||1,5||||
+|Konzepte der Personalentwicklung|Innovative Arbeitsorganisation|5|1,5||Klausur (60-120 Min.)|1|
+||Betriebliches Bildungsmanagement||2||||
+||Instrumente der Personalentwicklung||1,5||||
+|Umsetzung von Personalentwicklung|Kompetenzmessung|5|2||Klausur (60-120 Min.)|1|
+||Neue Lernformen im Betrieb||1,5||||
+|Management und Führung|||||||
+|Itt d Mitbitfüh|Instrumente der Mitarbeiterführung|25|2||Hausarbeit (10-15 S.) oder<br>|1|
+|nsrumene er areerrung|Kommunikation und Gesprächsführung|,|0,5||Präsentation (30-45 Min.)<sup>2</sup>||
+|Personalmanagement|Personalmanagement|5||1,5|Klausur (60-120 Min.)|1|
 
 3 
 
-|Modulbezeichnung|||Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|ECTS|in ECTS-Punkten1||||Art und Umfang der Prüfung||
-||||1.|2.|3.|4.|||
-||Personalmarketing||||1,5||||
-||Arbeitsrecht||||2||||
-|Vertiefung Organisation- und Personalentwicklung|||||||||
-|Praktische Vertiefung|Praktische Vertiefung|10|5|||5|Präsentation (10-15 Min.)|1|
-|Wahlpflichtmodule (Es sind zwei der vier Module zu belegen.)|||||||||
-|Beratung|Beratung|(2,5)||2,5|||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)2|1|
-|Management von Organisationen|Management von Organisationen|(2,5)|2,5||||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)2|1|
-|Weiterbildungsmanagement|Weiterbildungsmanagement|(2,5)|||2,5||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)2|1|
-|Ausbildungsmanagement|Ausbildungsmanagement|(2,5)||||2,5|Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)2|1|
-|Projektarbeit und Masterthesis|||||||||
-|Projektarbeit|Konzept und Methoden|15||2,5|2,5||Präsentation (30-45 Min.)|1|
-||Projekt||||10||||
-|Masterthesis|Thesismanagement|17,5|||2,5||Masterarbeit (ca. 60 S.)|1|
-||Masterthesis|||||15|||
-||Summe|80|17,5-<br>20|17,5-<br>20|20-<br>22,5|20-<br>22,5|||
-||||80||||||
-|Berufspraxis||40|||||gemäß Anerkennungsverfahren|0|
-||Gesamtsummer|120|||||||
+|||||Workl|oad-Verteilu|ng pro S|emester||Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||ECTS|1.|in ECTS-<br>2.|Punkten<sup>1</sup><br>3.|4.|Art und Umfang der Prüfung|Modul-<br>note|
+||Personalmarketing|||||1,5||||
+||Arbeitsrecht|||||2||||
+|Vertiefung Organisation- und Persona|lentwicklung|||||||||
+|Praktische Vertiefung|Praktische Vertiefung||10|5|||5|Präsentation (10-15 Min.)|1|
+|Wahlpflichtmodule (Es sind zwei der v|ier Module zu belegen.)|||||||||
+|Beratung|Beratung||(2,5)||2,5|||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)<sup>2</sup>|1|
+|Management von Organisationen|Management von Organisationen||(2,5)|2,5||||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)<sup>2</sup>|1|
+|Weiterbildungsmanagement|Weiterbildungsmanagement||(2,5)|||2,5||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)<sup>2</sup>|1|
+|Ausbildungsmanagement|Ausbildungsmanagement||(2,5)||||2,5|Hausarbeit (10-15 S.) oder<br>Präsentation(10-20 Min.)<sup>2</sup>|1|
+|Projektarbeit und Masterthesis||||||||||
+|Pktbit|Konzept und Methoden||15||2,5|2,5||Pätti 3045 Mi|1|
+|rojeare|Projekt|||||10||rsenaon (- n.)||
+|Masterthesis|Thesismanagement||175|||2,5||Masterarbeit (ca 60 S)|1|
+||Masterthesis||,||||15|.  .||
+|||Summe|80|17,5-<br>20|17,5-<br>20<br>8|20-<br>22,5<br>0|20-<br>22,5|||
+|Berufspraxis|||40|||||gemäß Anerkennungsverfahren|0|
+||Ge|samtsummer|120|||||||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

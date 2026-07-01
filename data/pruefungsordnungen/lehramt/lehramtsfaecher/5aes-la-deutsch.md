@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Mai 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES LA-Deutsch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:04:19+00:00
-page_count_chars: 1906
+scraped_at: 2026-07-01T08:36:30+00:00
+page_count_chars: 1929
 ---
 
 # 25. Mai 2012
@@ -12,27 +12,27 @@ page_count_chars: 1906
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES LA-Deutsch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-**Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-Vom 25. Mai 2012 
+# Vom 25. Mai 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzungen vom 29. November 2011, wird wie folgt geändert: 
 
 § 5 Abs. 1 Nr. 1 Buchst. b) wird wie folgt geändert: 
 
-- a) In den Zeilen 10 (Modul LitS) und 14 (Modul LitG 1) Spalte 1 wird die Fußnote „[*)] “ angefügt. 
+- a) In den Zeilen 10 (Modul LitS) und 14 (Modul LitG 1) Spalte 1 wird die Fußnote „<sup>*)</sup> “ angefügt. 
 
 - b) In Zeile 11 (Modul LitS, 2. FS) Spalte 2 werden nach dem Wort „Medientheorie“ die Worte „mit einem Schwerpunkt in der älteren oder in der neueren Literatur“ angefügt. 
 
 - c) Am Ende der Tabelle wird folgende Fußnotenerklärung angefügt: 
 
-   - „[*)] Innerhalb eines der Module „LitS“ oder „LitG1“ muss ein mediävistisches Proseminar gewählt werden.“ 
+   - „<sup>*)</sup> Innerhalb eines der Module „LitS“ oder „LitG1“ muss ein mediävistisches Proseminar gewählt werden.“ 
 
-**§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

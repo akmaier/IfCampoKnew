@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOSozialökonomik 20090902 i.d.F. 20191203.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialoekonomik_20090902_idF_20191203.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:55+00:00
-page_count_chars: 21960
+scraped_at: 2026-07-01T11:06:20+00:00
+page_count_chars: 21536
 ---
 
 # FPOSozialökonomik 20090902 i.d.F. 20191203.pdf
@@ -22,7 +22,7 @@ geändert durch Satzungen vom 23. Februar 2010 8. März 2011 19. Januar 2012 28.
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
 § 1 Geltungsbereich .............................................................................................................. 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen ............. 1 § 3 Umfang und Gliederung des Masterstudiums, Prüfungen ................................................ 5 § 4 Wahlpflichtmodule ........................................................................................................... 6 § 5 Inkrafttreten und Übergangsvorschriften .......................................................................... 6 Anlage: Überblickstabelle Studienverlauf............................................................................... 8 
 
@@ -32,15 +32,15 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Bachelorabschluss in Sozialökonomik an der FAU.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden insbesondere Abschlüsse in sozial- und wirtschaftswissenschaftlichen Bachelorstudiengängen anerkannt, die insbesondere Kenntnisse in den Bereichen Sozialwissenschaften (Soziologie, Kommuni- 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Bachelorabschluss in Sozialökonomik an der FAU.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden insbesondere Abschlüsse in sozial- und wirtschaftswissenschaftlichen Bachelorstudiengängen anerkannt, die insbesondere Kenntnisse in den Bereichen Sozialwissenschaften (Soziologie, Kommuni- 
 
 1 
 
 kationswissenschaft, Psychologie), Wirtschaftswissenschaften (Betriebswirtschaftslehre und Volkswirtschaftslehre) und empirische Sozialforschung und Statistik vermitteln. 
 
-(2)[1] Bewerberinnen und Bewerber mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Sozialökonomik gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,50 oder besser abgeschlossen haben; für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 2Abs. 3 Satz 1 bleibt unberührt. 
+(2)<sup>1</sup> Bewerberinnen und Bewerber mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Sozialökonomik gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,50 oder besser abgeschlossen haben; für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 2Abs. 3 Satz 1 bleibt unberührt. 
 
-- (3)[1] Alle Bewerberinnen und Bewerber müssen folgende weitere Unterlagen im Sinne Nr. 2.3.3 **Anlage MPOWISO** vorlegen: 
+(3)<sup>1</sup> Alle Bewerberinnen und Bewerber müssen folgende weitere Unterlagen im Sinne Nr. 2.3.3 **Anlage MPOWISO** vorlegen: 
 
 1. Nachweis über Englischkenntnisse mindestens auf dem Niveau „English Level B2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“, sofern der erste berufsqualifizierende Abschluss bzw. die Hochschulzugangsberechtigung nicht in englischer Sprache erworben worden ist; der Nachweis kann insbesondere durch die Vorlage von Schulzeugnissen (Fremdsprachenerwerb über mindestens 5 Jahre bis zum Erwerb der Hochschulzugangsberechtigung, Abschlussnote oder ggf. Durchschnittsnote der letzten zwei Jahre muss mindestens der deutschen Notenstufe 4 (ausreichend) bzw. 5 Punkten entsprechen) geführt werden, und 
 
@@ -68,7 +68,7 @@ beitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnach
 
 6. eine von der Bewerberin bzw. dem Bewerber selbstständig in deutscher oder englischer Sprache verfasste Arbeitsprobe im Umfang von 10 bis 30 Seiten, die ein sozial- oder wirtschaftswissenschaftliches Thema behandelt und einen inhaltlichen Bezug zu den Inhalten des Masterstudiengangs Sozialökonomik erkennen lässt; die Arbeit kann bereits als Haus-, Seminar-, oder Bachelorarbeit eingereicht worden sein. 
 
-(4)[1] Die nach **Nr. 2.3 MPOWISO** und Abs. 3 Satz 2 einzureichenden Unterlagen von Bewerberinnen und Bewerbern, deren Abschluss- bzw. vorläufige Note des fachspezifischen ersten berufsqualifizierenden Abschlusses nach Abs. 1 zwischen 1,51 und 2,99 beträgt, werden auf der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** nach folgenden Kriterien bewertet: 
+(4)<sup>1</sup> Die nach **Nr. 2.3 MPOWISO** und Abs. 3 Satz 2 einzureichenden Unterlagen von Bewerberinnen und Bewerbern, deren Abschluss- bzw. vorläufige Note des fachspezifischen ersten berufsqualifizierenden Abschlusses nach Abs. 1 zwischen 1,51 und 2,99 beträgt, werden auf der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** nach folgenden Kriterien bewertet: 
 
 1. Qualität des bisherigen Studienabschlusses anhand des Gesamtnotendurchschnitts nach Abs. 1; Bewertung auf Basis der Unterlagen des Erstabschlusses (max. 10 Punkte), 
 
@@ -88,18 +88,18 @@ beitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnach
 
 - 2Die Punktevergabe auf die in Satz 1 genannten Kriterien erfolgt anhand der folgenden Bewertungsschemata: 
 
-|1. Tabelle<br>**Note**<br>1,0<br>1,1<br>1,2<br>1,3<br>1,4<br>1,5<br>1,6|1. Tabelle<br>**Note**<br>1,0<br>1,1<br>1,2<br>1,3<br>1,4<br>1,5<br>1,6|1: Bewertung der Abschlussnote nach Satz 1 Nr. 1|1: Bewertung der Abschlussnote nach Satz 1 Nr. 1|1: Bewertung der Abschlussnote nach Satz 1 Nr. 1|1: Bewertung der Abschlussnote nach Satz 1 Nr. 1||
-|---|---|---|---|---|---|---|
-||**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
-||1,0|10|1,7|9|2,4|5|
-||1,1|10|1,8|9|2,5|4|
-||1,2|10|1,9|9|2,6|3|
-||1,3|10|2,0|9|2,7|2|
-||1,4|10|2,1|8|2,8|1|
-||1,5|10|2,2|7|2,9 und schlechter|0|
-||1,6|9|2,3|6|||
+|1. Tabelle<br>|1: Bewertu<br>|ng der A<br>|bschlussnot<br>|e nach Satz 1 Nr. 1<br>||
+|---|---|---|---|---|---|
+|**Note**|**Punkte**|**Note**|**Punkte**|**Note**|**Punkte**|
+|1,0|10|1,7|9|2,4|5|
+|1,1|10|1,8|9|2,5|4|
+|1,2|10|1,9|9|2,6|3|
+|1,3|10|2,0|9|2,7|2|
+|1,4|10|2,1|8|2,8|1|
+|1,5|10|2,2|7|2,9 und schlechter|0|
+|1,6|9|2,3|6|||
 
-2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwissenschaften nach Satz 1 Nr. 2 
+2. Tabelle 2: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Sozialwis- <u>senschaften nach Satz 1 Nr. 2</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -113,7 +113,7 @@ beitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnach
 
 3 
 
-3. Tabelle 3: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Wirtschaftswissenschaften nach Satz 1 Nr. 3 
+3. Tabelle 3: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich Wirtschafts- <u>wissenschaften nach Satz 1 Nr. 3</u> 
 
 |**ECTS-Punkte**|**Punkte**|
 |---|---|
@@ -123,9 +123,9 @@ beitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnach
 |30-39|15|
 |Ab40|20|
 
-4. Tabelle 4: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich empirische Sozialforschung und Statistik nach Satz 1 Nr. 4 
+4. Tabelle 4: Bewertung von studiengangsrelevanten Kenntnissen aus dem Bereich empirische <u>Sozialforschung und Statistik nach Satz 1 Nr. 4</u> 
 
-|**ECTS-Punkte**|**Punkte**|
+|<br>**ECTS-Punkte**|<br>**Punkte**|
 |---|---|
 |Bis 14|0|
 |15-24|5|
@@ -133,24 +133,23 @@ beitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnach
 |35-44|15|
 |Ab 45|20|
 
-5. Tabelle 5: Fachliche Qualifikation in einem einschlägigen statistischen Analyseprogramm (z. B. STATA, SPSS oder R) nach Satz 1 Nr. 5 
+5. Tabelle 5: Fachliche Qualifikation in einem einschlägigen statistischen Analyseprogramm (z. <u>B. STATA, SPSS oder R) nach Satz 1 Nr. 5</u> 
 
-|||**ECTS-Punkte**|**Punkte**||
-|---|---|---|---|---|
-|||Nicht vorhanden|0||
-|||Vorhanden|12||
-|6.||Tabelle 6: Auslandsaufenthalt nach||Satz 1 Nr. 6 a)|
-|||**ECTS-Punkte**|**Punkte**||
-|||Nicht vorhanden|0||
-|||Vorhanden|3||
-|7.||Tabelle 7: Tätigkeit|als studentischeoder wissenschaftliche Hilfskraft nach Satz 1 Nr. 6 b)||
-|||**ECTS-Punkte**|**Punkte**||
-|||Nichtvorhanden|0||
-|||Vorhanden|5||
+|**ECTS-Punkte**|**Punkte**|
+|---|---|
+|Nicht vorhanden|0|
+|Vorhanden|12|
+|6. Tabelle 6: Ausland<br>**ECTS-Punkte**|saufenthalt nachSatz 1 Nr. 6 a)<br>**Punkte**|
+|Nicht vorhanden|0|
+|Vorhanden|3|
+|7. Tabelle 7: Tätigkei|t als studentischeoder wissenschaftliche Hilfskraft nach Satz 1 Nr. 6 b)|
+|**ECTS-Punkte**|**Punkte**|
+|Nichtvorhanden|0|
+|Vorhanden|5|
 
-3Die Gesamtpunktzahl der in der zweiten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte. 4Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 5Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur dritten Stufe gemäß Abs. 5 eingeladen.[6] Sätze 1 bis 5 gelten entsprechend für Bewerberinnen und Bewerber, die einen fachverwandten Abschluss nach Abs. 1 Satz 2 mit einer Abschluss- bzw. vorläufigen Note zwischen 1,0 und 2,99 vorweisen können. 
+3Die Gesamtpunktzahl der in der zweiten Stufe des Qualifikationsfeststellungsverfahrens erreichten Punkte ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 1 vergebenen Punkte und beträgt maximal 100 Punkte. 4Bewerberinnen bzw. Bewerber, die mindestens 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 5Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur dritten Stufe gemäß Abs. 5 eingeladen.<sup>6</sup> Sätze 1 bis 5 gelten entsprechend für Bewerberinnen und Bewerber, die einen fachverwandten Abschluss nach Abs. 1 Satz 2 mit einer Abschluss- bzw. vorläufigen Note zwischen 1,0 und 2,99 vorweisen können. 
 
-(5)[1] In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Nr. 5.3 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.[ 2] Die in der zweiten Stufe des Qualifikationsfeststellungsverfahrens vergebenen Punkte nach den in Absatz 4 dargelegten Kriterien werden nicht in die dritte Stufe des Qualifikationsfeststellungsverfahrens übertragen; die Begutachtung der Arbeitsprobe erfolgt unabhängig von der zweiten Stufe.[3] Jedes der Mitglieder nach Satz 1 vergibt auf das Ergebnis der Begutachtung der Arbeitsprobe maximal 10 Punkte, sodass ein Gesamtergebnis von maximal 20 Punkten erreicht werden kann.[4] Die Punktzahl der in der dritten Stufe erreichten Bewertung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach den folgenden 
+(5)<sup>1</sup> In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Nr. 5.3 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.<sup>2</sup> Die in der zweiten Stufe des Qualifikationsfeststellungsverfahrens vergebenen Punkte nach den in Absatz 4 dargelegten Kriterien werden nicht in die dritte Stufe des Qualifikationsfeststellungsverfahrens übertragen; die Begutachtung der Arbeitsprobe erfolgt unabhängig von der zweiten Stufe.<sup>3</sup> Jedes der Mitglieder nach Satz 1 vergibt auf das Ergebnis der Begutachtung der Arbeitsprobe maximal 10 Punkte, sodass ein Gesamtergebnis von maximal 20 Punkten erreicht werden kann.<sup>4</sup> Die Punktzahl der in der dritten Stufe erreichten Bewertung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach den folgenden 
 
 4 
 
@@ -166,22 +165,20 @@ Kriterien, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet 
 
 4. Anwendung wissenschaftlicher Arbeitstechniken (max. 4 Punkte). 
 
-**==> picture [434 x 394] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:<br>Bewertungskriterium  Punktzahl<br>(gesamt / je Prüfer 1 und 2)<br>1. Benennung und Ausführung der Fragestellung<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>2. Theoretische Überlegungen und deren Ausarbeitung<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>3. Quantitativ-empirische Analysen und Interpretation<br>der Ergebnisse<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  2 Punkte (1/1)<br>Durchschnittlich  4 Punkte (2/2)<br>Gut  6 Punkte (3/3)<br>Sehr gut  8 Punkte (4/4)<br>4. Wissenschaftliche Arbeitstechniken<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>MAXIMAL ERREICHBARE PUNKTZAHL  20 (10/10)<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Tabelle 8: Bewertung der Arbeitsprobe nach Abs. 3 Nr. 7:<br>Bewertungskriterium  Punktzahl<br>(gesamt / je Prüfer 1 und 2)<br>1. Benennung und Ausführung der Fragestellung<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>2. Theoretische Überlegungen und deren Ausarbeitung<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>3. Quantitativ-empirische Analysen und Interpretation<br>der Ergebnisse<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  2 Punkte (1/1)<br>Durchschnittlich  4 Punkte (2/2)<br>Gut  6 Punkte (3/3)<br>Sehr gut  8 Punkte (4/4)<br>4. Wissenschaftliche Arbeitstechniken<br>Viele Mängel  0 Punkte (0/0)<br>Einige Mängel  1 Punkt (0,5/0,5)<br>Durchschnittlich  2 Punkte (1/1)<br>Gut  3 Punkte (1,5/1,5)<br>Sehr gut  4 Punkte (2/2)<br>MAXIMAL ERREICHBARE PUNKTZAHL  20 (10/10)<br><!-- End of picture text -->
 
 5Ab einer in der dritten Stufe erreichten Punktzahl von mindestens 11 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[ 1] Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS-Punkte) vermittelt.[2] Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Gesamtumfang von 20 ECTS-Punkten.[3] Im zweiten und dritten Semester wählen die Studierenden zwei Module aus den Angeboten des Fachbereichs im Gesamtumfang von 10 ECTS-Punkten.[4] Das Modul Masterarbeit setzt sich aus den beiden Prüfungsleistungen Masterarbeit und einer Präsentation derselben (insgesamt 30 ECTS- 
+(1)<sup>1</sup> Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS-Punkte) vermittelt.<sup>2</sup> Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Gesamtumfang von 20 ECTS-Punkten.<sup>3</sup> Im zweiten und dritten Semester wählen die Studierenden zwei Module aus den Angeboten des Fachbereichs im Gesamtumfang von 10 ECTS-Punkten.<sup>4</sup> Das Modul Masterarbeit setzt sich aus den beiden Prüfungsleistungen Masterarbeit und einer Präsentation derselben (insgesamt 30 ECTS- 
 
 5 
 
-Punkte) zusammen.[5] Art und Umfang der Prüfungen bestimmen sich nach der **Anlage** und §§ 16 – 18b **MPOWISO** . 
+Punkte) zusammen.<sup>5</sup> Art und Umfang der Prüfungen bestimmen sich nach der **Anlage** und §§ 16 – 18b **MPOWISO** . 
 
-(2)[1] Studierenden kann in den Abschlussdokumenten das Studium eines Studienbereichs bescheinigt werden, wenn sie mindestens 25 ECTS-Punkte aus Modulen im sozialökonomischen Vertiefungsbereich sowie im freien Vertiefungsbereich in einem der folgenden Studienbereichen erworben haben: 
+(2)<sup>1</sup> Studierenden kann in den Abschlussdokumenten das Studium eines Studienbereichs bescheinigt werden, wenn sie mindestens 25 ECTS-Punkte aus Modulen im sozialökonomischen Vertiefungsbereich sowie im freien Vertiefungsbereich in einem der folgenden Studienbereichen erworben haben: 
 
 a) Bildung, Beruf und Personal oder 
 
@@ -191,71 +188,70 @@ b) Medien-, Markt- und Sozialforschung
 
 ## **§ 4 Wahlpflichtmodule** 
 
-(1)[1] Das Qualifikationsziel der Wahlpflichtmodule „Vertiefung Methoden“ und „Angewandte Methoden“ im Bereich „Methodische Grundlagen“ liegt darin, es den Studierenden zu ermöglichen, sich in einem oder mehreren empirischen Methoden thematisch zu vertiefen.[2] Dadurch werden methodische und statistische Kenntnisse vermittelt, die für die Beantwortung gesellschaftlich relevanter Fragen aus sozialwissenschaftlicher und ökonomischer Perspektive notwendig sind.[3] Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld methodische Kenntnisse verschiedener Disziplinen, die auf gehobene Tätigkeiten in Wirtschaft und Gesellschaft vorbereiten, anzueignen. 
+(1)<sup>1</sup> Das Qualifikationsziel der Wahlpflichtmodule „Vertiefung Methoden“ und „Angewandte Methoden“ im Bereich „Methodische Grundlagen“ liegt darin, es den Studierenden zu ermöglichen, sich in einem oder mehreren empirischen Methoden thematisch zu vertiefen.<sup>2</sup> Dadurch werden methodische und statistische Kenntnisse vermittelt, die für die Beantwortung gesellschaftlich relevanter Fragen aus sozialwissenschaftlicher und ökonomischer Perspektive notwendig sind.<sup>3</sup> Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld methodische Kenntnisse verschiedener Disziplinen, die auf gehobene Tätigkeiten in Wirtschaft und Gesellschaft vorbereiten, anzueignen. 
 
-(2)[1] Das Qualifikationsziel der Wahlpflichtmodule „Spezielle BWL“ und „Spezielle VWL“ im Bereich „Wirtschaftswissenschaftliche Grundlagen“ liegt darin, es den Studierenden zu ermöglichen, sich in einem oder mehreren wirtschaftswissenschaftlichen Themengebieten thematisch zu vertiefen.[2] Hierbei werden Wechselwirkungen zwischen Wirtschaft und Gesellschaft aus ökonomischer Perspektive beschrieben und erklärt.[3] Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein individuell zugeschnittenes Profil an der Schnittstelle von Wirtschafts- und Sozialwissenschaften zu bilden. 
+(2)<sup>1</sup> Das Qualifikationsziel der Wahlpflichtmodule „Spezielle BWL“ und „Spezielle VWL“ im Bereich „Wirtschaftswissenschaftliche Grundlagen“ liegt darin, es den Studierenden zu ermöglichen, sich in einem oder mehreren wirtschaftswissenschaftlichen Themengebieten thematisch zu vertiefen.<sup>2</sup> Hierbei werden Wechselwirkungen zwischen Wirtschaft und Gesellschaft aus ökonomischer Perspektive beschrieben und erklärt.<sup>3</sup> Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein individuell zugeschnittenes Profil an der Schnittstelle von Wirtschafts- und Sozialwissenschaften zu bilden. 
 
-(3)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 bzw. 2 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen sind: Klausur (60 oder 90 Min.), Hausarbeit, Projektarbeit/-bericht, mündliche Prüfung, Referat, Thesenpapier, Diskussionsbeitrag, Portfolio (in der Regel unbenotete Hausaufgaben im Umfang von je 1-3 Seiten) oder eine Kombination aus diesen; § 6 Abs. 2 Satz 3 **MPOWISO** bleibt unberührt.[3] Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(3)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 bzw. 2 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen sind: Klausur (60 oder 90 Min.), Hausarbeit, Projektarbeit/-bericht, mündliche Prüfung, Referat, Thesenpapier, Diskussionsbeitrag, Portfolio (in der Regel unbenotete Hausaufgaben im Umfang von je 1-3 Seiten) oder eine Kombination aus diesen; § 6 Abs. 2 Satz 3 **MPOWISO** bleibt unberührt.<sup>3</sup> Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(4)[1] Die Wahlpflichtmodule haben einen Umfang von 5 ECTS-Punkten und setzen sich in der Regel entweder aus einer Vorlesung (2 SWS) oder einem Seminar (2 SWS) zusammen.[2] Abweichende Modulgrößen und Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(4)<sup>1</sup> Die Wahlpflichtmodule haben einen Umfang von 5 ECTS-Punkten und setzen sich in der Regel entweder aus einer Vorlesung (2 SWS) oder einem Seminar (2 SWS) zusammen.<sup>2</sup> Abweichende Modulgrößen und Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 ## **§ 5 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Sozialökonomik“ aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Sozialökonomik“ aufnehmen. 
 
 6 
 
-(2)[1] Die sechste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden. 
+(2)<sup>1</sup> Die sechste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden. 
 
-(3)[1] Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die sich bezogen auf das Modul „Soziologische Forschungsprobleme und Forschungsdesigns“ noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 7 
 
 ## **Anlage: Überblickstabelle Studienverlauf** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Ab-<br>schluss-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem.|4. Sem.|||
-|**Sozialökonomischer Pflichtbereich**||**60**|||||||||||
-|**Sozialwissenschaftliche Grundlagen**||15|||||||||||
-|Allgemeine Kommunikationswissenschaft|Allgemeine Kommunikationswissenschaft||||2|5|5||||Klausur(60 Min.)|1|
-|Personalpsychologie|Personalpsychologie|2||||5|5||||Klausur (90 Min., 100 %) und<br>Versuchspersonenstunde (0 %)|1|
-||Übung zur Personalpsychologie||1||||||||||
-|Soziologische Forschungsprobleme und<br>Forschungsdesigns|Soziologie – Forschungsprobleme und<br>Forschungsdesigns||||3|5|5||||Klausur (60 Min., 100 %) und Portfolio i. S. d.<br>§ 4 Abs. 3 Satz 2(0 %)|1|
-|**Methodische Grundlagen**||15|||||||||||
-|Ö|Ökonometrie|2||||5|5||||Klausur (90 Min.)|1|
-|konometrie|Ökonometrie||2||||||||||
-|VertiefungMethoden,vgl. § 4 Abs. 1|vgl. § 4 Abs. 4|||||5|||5||vgl. § 4 Abs. 3|1|
-|Angewandte Methoden,vgl. § 4 Abs. 1|vgl. § 4 Abs. 4|||||5||5|||vgl. § 4 Abs. 3|1|
-|**Wirtschaftswissenschaftliche Grundlagen**||15|||||||||||
-||Mikroökonomie und Spieltheorie|2||||5|5||||Klausur (60 Min., 80 %) und Präsentation (20 %)|1|
-|Mikroökonomie und Spieltheorie|Mikroökonomie und Spieltheorie||2||||||||||
-|Spezielle VWL, vgl. § 4 Abs. 2|vgl. § 4 Abs. 4|||||5|5||||vgl. § 4 Abs. 3|1|
-|Spezielle BWL, vgl. § 4 Abs. 2|vgl. § 4 Abs. 4|||||5||5|||vgl. § 4 Abs. 3|1|
-|**Sozialökonomisches Projektseminar**||15|||||||||||
-||Projektseminar I||||3||||||Projektarbeit/-bericht (75 %) und||
-|Projektseminar|Projektseminar II||||4|15||5|10||Präsentation(25 %)|1|
-|**Sozialökonomischer Vertiefungsbereich**<br>**(4 Module sind zu wählen)1**||**20**|||||||||||
-|Ungleichheit in modernen Gesellschaften|Ungleichheit in modernen Gesellschaften||||2|5||5|||Klausur(60 Min.)|1|
-|Seminar zur Organisationspsychologie|Seminar zur Organisationspsychologie||||2|5|||5||Hausarbeit(100 %)und Präsentation(0 %)|1|
-|Spezielle Kommunikationswissenschaft I|Seminar zur speziellen Kommunikations-<br>wissenschaft I||||2|5||5|||Hausarbeit (50 %) und Präsentation (50 %)|1|
-|Ökonomie der Sozialpolitik|Ökonomie der Sozialpolitik||||3|5|||5||Hausarbeit (60 %) und Präsentation (20 %) und<br>Diskussionsbeitrag (20 %)|1|
-|**Freier Vertiefungsbereich**<br>**(2 Module sind zu wählen)2**||**10**|||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS||Gesamt<br>|Work|load-Verteilung pro Sem<br>in ECTS-Punkten|ester|Art und Umfang der<br>|Faktor<br>Ab-<br>hl|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|S|ECTS|1. Sem.|2. Sem.<br>3. Sem.|4. Sem.|Prüfung/Studienleistung|scuss-<br>note|
+|**Sozialökonomischer Pflichtbereich**||||**60**||||||
+|**Sozialwissenschaftliche Grundlagen**||||15||||||
+|Allgemeine Kommunikationswissenschaft|Allgemeine Kommunikationswissenschaft||2|5|5|||Klausur(60 Min.)|1|
+|Plhli|Personalpsychologie|2||5|5|||Klausur (90 Min., 100 %) und|1|
+|ersonapsycooge|Übung zur Personalpsychologie|1||||||Versuchspersonenstunde (0 %)||
+|Soziologische Forschungsprobleme und|Soziologie – Forschungsprobleme und|||||||Klausur (60 Min., 100 %) und Portfolio i. S. d.||
+|Forschungsdesigns|Forschungsdesigns||3|5|5|||§ 4 Abs. 3 Satz 2(0 %)|1|
+|**Methodische Grundlagen**||||15||||||
+||Ökonometrie|2||||||||
+|Ökonometrie|<br>Ökonometrie|<br>2||5|5|||Klausur (90 Min.)|1|
+|VertiefungMethoden,vgl. § 4 Abs. 1|vgl. § 4 Abs. 4|||5||5||vgl. § 4 Abs. 3|1|
+|Angewandte Methoden,vgl. § 4 Abs. 1|vgl. § 4 Abs. 4|||5||5||vgl. § 4 Abs. 3|1|
+|**Wirtschaftswissenschaftliche Grundlagen**||||15||||||
+||Mikroökonomie und Spieltheorie|2||||||||
+|Mikroökonomie und Spieltheorie|<br>Mikroökonomie und Spieltheorie|<br>2||5|5|||Klausur (60 Min., 80 %) und Präsentation (20 %)|1|
+|Spezielle VWL, vgl. § 4 Abs. 2|vgl. § 4 Abs. 4|||5|5|||vgl. § 4 Abs. 3|1|
+|Spezielle BWL, vgl. § 4 Abs. 2|vgl. § 4 Abs. 4|||5||5||vgl. § 4 Abs. 3|1|
+|**Sozialökonomisches Projektseminar**||||15||||||
+|Projektseminar|Projektseminar I<br>Projektseminar II||3<br>4|15||5<br>10||Projektarbeit/-bericht (75 %) und<br>Präsentation(25 %)|1|
+|**Sozialökonomischer Vertiefungsbereich**<br>**(4 Module sind zu wählen)**<sup>**1**</sup>||||**20**||||||
+|Ungleichheit in modernen Gesellschaften|Ungleichheit in modernen Gesellschaften||2|5||5||Klausur(60 Min.)|1|
+|Seminar zur Organisationspsychologie|Seminar zur Organisationspsychologie||2|5||5||Hausarbeit(100 %)und Präsentation(0 %)|1|
+|Spezielle Kommunikationswissenschaft I|Seminar zur speziellen Kommunikations-<br>wissenschaft I||2|5||5||Hausarbeit (50 %) und Präsentation (50 %)|1|
+|Ökonomie der Sozialpolitik|Ökonomie der Sozialpolitik||3|5||5||Hausarbeit (60 %) und Präsentation (20 %) und<br>Diskussionsbeitrag (20 %)|1|
+|**Freier Vertiefungsbereich**<br>**(2 Module sind zu wählen)**<sup>**2**</sup>||||**10**||||||
 
 8 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Ab-<br>schluss-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem.|4. Sem.|||
-|Modul I|2|||||5||5|||2|1|
-|Modul II|2|||||5|||5||2|1|
-|**Masterarbeit**||||||**30**|||||||
-|b|Seminar zur Masterarbeit||||2|30||||30|Masterarbeit (100 %) und Präsentation (0 %)|1|
-|Masterareit|Masterarbeit||||0||||||||
-|||6|5|0|22||30|30|30|30|||
-||Summe SWS und ECTS|33||||120|||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Wo|rkload-Verte<br>in ECTS|ilung pro Se<br>-Punkten|mester|Art und Umfang der<br>Prüfun/Studienleistun|Faktor<br>Ab-<br>schluss-|
+|---|---|---|---|---|---|---|---|---|---|
+||V|<br>Ü<br>P|<br>S|1. Sem.|<br>2. Sem.|3. Sem.|4. Sem.|gg|<br>note|
+|Modul I|2||5||5|||2|1|
+|Modul II|2||5|||5||2|1|
+|**Masterarbeit**|||**30**|||||||
+|Masterarbeit|Seminar zur Masterarbeit||2<br>30||||30|Masterarbeit (100 %) und Präsentation (0 %)|1|
+||Masterarbeit||<br>0|||||||
+||Summe SWS und ECTS<br>6|5<br>0<br>33|22<br>120|30|30|30|30|||
 
-- 1 Der Katalog kann erweitert werden; Näheres regelt das Modulhandbuch. 
+> 1 Der Katalog kann erweitert werden; Näheres regelt das Modulhandbuch. 
 
 > 2 Wählbar sind alle von den jeweiligen Modulverantwortlichen des Fachbereichs für diesen Studiengang freigegebenen Modulen. Art und Umfang der Lehrveranstaltungen sowie der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. 
 

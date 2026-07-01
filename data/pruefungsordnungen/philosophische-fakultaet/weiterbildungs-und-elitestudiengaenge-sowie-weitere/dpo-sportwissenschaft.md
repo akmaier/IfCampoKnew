@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.02.1994 i.d.F. 12.04.2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/DPO_Sportwissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:43+00:00
-page_count_chars: 69524
+scraped_at: 2026-07-01T10:14:21+00:00
+page_count_chars: 71278
 ---
 
 # PDF vom 08.02.1994 i.d.F. 12.04.2002
@@ -20,23 +20,23 @@ geändert durch Satzungen vom 26. August 1999 (KWMBl II S. 981) 3. Januar 2000 (
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
-## **Vorbemerkung zum Sprachgebrauch:** 
+### **Vorbemerkung zum Sprachgebrauch:** 
 
 Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen für weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint. 
 
-## **Erster Teil: Allgemeine Vorschriften** 
+### **Erster Teil: Allgemeine Vorschriften** 
 
-## **§ 1** 
+### **§ 1** 
 
-## **Diplomgrad** 
+### **Diplomgrad** 
 
-(1)[1] Aufgrund der bestandenen Diplomprüfung verleiht die Universität den akademischen Grad eines "Diplom-Sportwissenschaftlers Univ.".[2] Auf Antrag einer Absolventin wird der Diplomgrad in weiblicher Form als "DiplomSportwissenschaftlerin Univ." verliehen. 
+(1)<sup>1</sup> Aufgrund der bestandenen Diplomprüfung verleiht die Universität den akademischen Grad eines "Diplom-Sportwissenschaftlers Univ.".<sup>2</sup> Auf Antrag einer Absolventin wird der Diplomgrad in weiblicher Form als "DiplomSportwissenschaftlerin Univ." verliehen. 
 
-(2)[1] Auf Antrag kann die Bezeichnung des vom Kandidaten im Hauptstudium studierten Studienschwerpunktes "Sport im Erwachsenen- und Seniorenalter" als Zusatz dem Diplomgrad angefügt werden.[2] Der Zusatz ist nicht Bestandteil des Diplomgrades. 
+(2)<sup>1</sup> Auf Antrag kann die Bezeichnung des vom Kandidaten im Hauptstudium studierten Studienschwerpunktes "Sport im Erwachsenen- und Seniorenalter" als Zusatz dem Diplomgrad angefügt werden.<sup>2</sup> Der Zusatz ist nicht Bestandteil des Diplomgrades. 
 
-**§ 2** 
+### **§ 2** 
 
-## **Regelstudienzeit, Gliederung des Studiums** 
+### **Regelstudienzeit, Gliederung des Studiums** 
 
 (1) Die Regelstudienzeit beträgt einschließlich der Zeit für die Abschlussprüfung und die Anfertigung der Diplomarbeit acht Semester. 
 
@@ -58,67 +58,67 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 4. ein wissenschaftliches Praktikum (Projekt) im Hauptstudium 
 
-## **§ 3** 
+### **§ 3** 
 
-## **Aufbau der Prüfungen, Prüfungsfristen** 
+### **Aufbau der Prüfungen, Prüfungsfristen** 
 
-(1)[1] Die Diplomprüfung (siehe §§ 19 ff) besteht aus sechs Fachprüfungen.[2] Die Fachprüfungen setzen sich aus den Prüfungsteilen entsprechend § 21 Abs. 1 zusammen. 
+(1)<sup>1</sup> Die Diplomprüfung (siehe §§ 19 ff) besteht aus sechs Fachprüfungen.<sup>2</sup> Die Fachprüfungen setzen sich aus den Prüfungsteilen entsprechend § 21 Abs. 1 zusammen. 
 
 (2) Die Diplomvorprüfung ist so durchzuführen, dass sie bis spätestens zu Beginn des fünften Fachsemesters abgeschlossen werden kann. 
 
-(3)[1] Die Diplomprüfung (siehe §§ 23 ff) besteht aus sechs Fachprüfungen und der Diplomarbeit.[2] Die Fachprüfungen setzen sich aus den Prüfungsteilen entsprechend § 25 Abs. 2 zusammen. 
+(3)<sup>1</sup> Die Diplomprüfung (siehe §§ 23 ff) besteht aus sechs Fachprüfungen und der Diplomarbeit.<sup>2</sup> Die Fachprüfungen setzen sich aus den Prüfungsteilen entsprechend § 25 Abs. 2 zusammen. 
 
-(4)[1] Die Diplomprüfung beginnt in der Vorlesungszeit zu Beginn des vierten Fachsemesters des Hauptstudiums in der Regel mit der Ablegung der Fachprüfungen.[2] Die Fachprüfungen - soweit sie nicht vorgezogen abgenommen wurden (vgl. Absatz 5) - erstrecken sich über einen Zeitraum von ca. vier Wochen. 3Daran anschließend wird das Thema der Diplomarbeit ausgegeben, so dass dessen Bearbeitung innerhalb der Regelstudienzeit abgeschlossen wird. 
+(4)<sup>1</sup> Die Diplomprüfung beginnt in der Vorlesungszeit zu Beginn des vierten Fachsemesters des Hauptstudiums in der Regel mit der Ablegung der Fachprüfungen.<sup>2</sup> Die Fachprüfungen - soweit sie nicht vorgezogen abgenommen wurden (vgl. Absatz 5) - erstrecken sich über einen Zeitraum von ca. vier Wochen. 3Daran anschließend wird das Thema der Diplomarbeit ausgegeben, so dass dessen Bearbeitung innerhalb der Regelstudienzeit abgeschlossen wird. 
 
 (5) Die Fachprüfungen beziehungsweise Teile daraus gemäß §§ 21 und 25 können vor dem jeweiligen in Absatz 2 beziehungsweise Absatz 4 festgesetzten Prüfungszeitraum abgelegt werden, wenn die Zulassungsvoraussetzungen gemäß § 6 Abs. 1 Nrn. 1 bis 3 beziehungsweise § 6 Abs. 2 Nrn. 1 bis 4 erfüllt sind. 
 
-(6)[1] Der Prüfungsausschuss hat sicherzustellen, dass die Fachprüfungen im Zeitraum gemäß Absatz 2 und 4 abgelegt werden können.[2] Der Prüfungsbeginn wird vom Vorsitzenden des Prüfungsausschusses (mit Angabe der Meldefrist für die Bewerber) spätestens zwei Monate vorher durch ortsüblichen Aushang bekannt gegeben.[3] Daneben kann der Prüfungsausschuss gesonderte Termine zur Durchführung von Wiederholungsprüfungen anberaumen. 
+(6)<sup>1</sup> Der Prüfungsausschuss hat sicherzustellen, dass die Fachprüfungen im Zeitraum gemäß Absatz 2 und 4 abgelegt werden können.<sup>2</sup> Der Prüfungsbeginn wird vom Vorsitzenden des Prüfungsausschusses (mit Angabe der Meldefrist für die Bewerber) spätestens zwei Monate vorher durch ortsüblichen Aushang bekannt gegeben.<sup>3</sup> Daneben kann der Prüfungsausschuss gesonderte Termine zur Durchführung von Wiederholungsprüfungen anberaumen. 
 
 2 
 
-(7)[1] Die Termine der Prüfungen in den einzelnen Fächern sind spätestens zwei Wochen vorher durch ortsüblichen Aushang bekannt zu geben.[2] Die zur Prüfung zugelassenen Kandidaten sind unter Hinweis auf den Aushang spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden. 
+(7)<sup>1</sup> Die Termine der Prüfungen in den einzelnen Fächern sind spätestens zwei Wochen vorher durch ortsüblichen Aushang bekannt zu geben.<sup>2</sup> Die zur Prüfung zugelassenen Kandidaten sind unter Hinweis auf den Aushang spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden. 
 
-(8)[1] Überschreitet ein Student die Frist, innerhalb der er gemäß Absatz 2 die Prüfung ablegen soll, um mehr als ein Semester und die Frist gemäß Absatz 4 um mehr als vier Semester, so gilt die Prüfung als abgelegt und erstmals nicht bestanden.[2] Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil als abgelegt und erstmals nicht bestanden.[3] Die Überschreitungsfrist der Diplomprüfung verlängert sich um die für die Wiederholung der Diplomvorprüfung benötigten Semester.[4] Nach § 7 angerechnete Studienzeiten sind auf diese Frist anzurechnen.[ 5] Die Fristen nach 
+(8)<sup>1</sup> Überschreitet ein Student die Frist, innerhalb der er gemäß Absatz 2 die Prüfung ablegen soll, um mehr als ein Semester und die Frist gemäß Absatz 4 um mehr als vier Semester, so gilt die Prüfung als abgelegt und erstmals nicht bestanden.<sup>2</sup> Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil als abgelegt und erstmals nicht bestanden.<sup>3</sup> Die Überschreitungsfrist der Diplomprüfung verlängert sich um die für die Wiederholung der Diplomvorprüfung benötigten Semester.<sup>4</sup> Nach § 7 angerechnete Studienzeiten sind auf diese Frist anzurechnen.<sup>5</sup> Die Fristen nach 
 
 Satz 1 verlängern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung. 
 
 (9) Überschreitet der Student die Frist nach Absatz 2 beziehungsweise Absatz 4 aus Gründen, die er nicht zu vertreten hat, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist; diese wird, sofern es die anerkannten Versäumnisgründe zulassen, zum nächsten regulären Prüfungstermin bestimmt. 
 
-## **§ 4 Prüfungsausschuss** 
+### **§ 4 Prüfungsausschuss** 
 
-(1)[1] Für die Organisation und die Durchführung der Prüfungen wird ein Prüfungsausschuss gebildet.[2] Der Prüfungsausschuss besteht aus fünf Mitgliedern, deren Amtszeit zwei Jahre beträgt.[3] Eine Wiederbestellung ist möglich. 
+(1)<sup>1</sup> Für die Organisation und die Durchführung der Prüfungen wird ein Prüfungsausschuss gebildet.<sup>2</sup> Der Prüfungsausschuss besteht aus fünf Mitgliedern, deren Amtszeit zwei Jahre beträgt.<sup>3</sup> Eine Wiederbestellung ist möglich. 
 
-(2)[1] Der Vorsitzende, sein Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses werden vom Fachbereichsrat der Erziehungswissenschaftlichen Fakultät bestellt.[2] Die Professoren verfügen mindestens über die absolute Mehrheit der Stimmen.[3] Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität gewählt werden (§ 5 Abs.1). 
+(2)<sup>1</sup> Der Vorsitzende, sein Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses werden vom Fachbereichsrat der Erziehungswissenschaftlichen Fakultät bestellt.<sup>2</sup> Die Professoren verfügen mindestens über die absolute Mehrheit der Stimmen.<sup>3</sup> Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität gewählt werden (§ 5 Abs.1). 
 
-(3)[1] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[2] Mit Ausnahme der eigentlichen Prüfung und deren Bewertung trifft er alle anfallenden Entscheidungen.[3] Er erlässt insbesondere die Prüfungsbescheide, nachdem er die Bewertung der Prüfungsleistungen auf ihre Rechtmäßigkeit überprüft hat.[4] Prüfungsbescheide, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[5] Dem Kandidaten ist vor Erlass der ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.[6] Widerspruchsbescheide erlässt der Rektor, in fachlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfer.[7] _(gegenstandslos)_ . 
+(3)<sup>1</sup> Der Prüfungsausschuss achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.<sup>2</sup> Mit Ausnahme der eigentlichen Prüfung und deren Bewertung trifft er alle anfallenden Entscheidungen.<sup>3</sup> Er erlässt insbesondere die Prüfungsbescheide, nachdem er die Bewertung der Prüfungsleistungen auf ihre Rechtmäßigkeit überprüft hat.<sup>4</sup> Prüfungsbescheide, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>5</sup> Dem Kandidaten ist vor Erlass der ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.<sup>6</sup> Widerspruchsbescheide erlässt der Rektor, in fachlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfer.<sup>7</sup> _(gegenstandslos)_ . 
 
-(4)[1] Der Prüfungsausschuss berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten einschließlich der tatsächlichen Bearbeitungszeiten für die Diplomarbeit.[2] Er gibt ihm gegebenenfalls An- 
+(4)<sup>1</sup> Der Prüfungsausschuss berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten einschließlich der tatsächlichen Bearbeitungszeiten für die Diplomarbeit.<sup>2</sup> Er gibt ihm gegebenenfalls An- 
 
 3 
 
-regungen zur Änderung der Studien- und Prüfungsordnung.[3] Der Prüfungsausschuss legt die Verteilung der Fachnoten und der Gesamtnoten offen. 
+regungen zur Änderung der Studien- und Prüfungsordnung.<sup>3</sup> Der Prüfungsausschuss legt die Verteilung der Fachnoten und der Gesamtnoten offen. 
 
 (5) Die Mitglieder des Prüfungsausschusses haben das Recht, der Abnahme der Prüfungen beizuwohnen. 
 
-(6)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahl der Mitglieder anwesend ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+(6)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahl der Mitglieder anwesend ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
 
-(7)[1] Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
+(7)<sup>1</sup> Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.<sup>4</sup> Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
 
-(8)[1] Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG.[2] Die Pflicht der Mitglieder des Prüfungsausschusses zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG. 
+(8)<sup>1</sup> Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG.<sup>2</sup> Die Pflicht der Mitglieder des Prüfungsausschusses zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG. 
 
-## **§ 5 Prüfer und Beisitzer** 
+### **§ 5 Prüfer und Beisitzer** 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfer und Beisitzer.[2] Er kann die Bestellung dem Vorsitzenden übertragen.[3] Zu Prüfern dürfen nur Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS 2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte weitere Personen bestellt werden.[4] Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung abgelegt hat. 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer und Beisitzer.<sup>2</sup> Er kann die Bestellung dem Vorsitzenden übertragen.<sup>3</sup> Zu Prüfern dürfen nur Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS 2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte weitere Personen bestellt werden.<sup>4</sup> Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung abgelegt hat. 
 
-(2)[1] Der Kandidat kann für die Diplomarbeit und die mündlichen Prüfungen den Prüfer oder eine Gruppe von Prüfern vorschlagen.[2] Der Vorschlag begründet keinen Anspruch auf Bestellung. 
+(2)<sup>1</sup> Der Kandidat kann für die Diplomarbeit und die mündlichen Prüfungen den Prüfer oder eine Gruppe von Prüfern vorschlagen.<sup>2</sup> Der Vorschlag begründet keinen Anspruch auf Bestellung. 
 
-(3)[1] Die Bestellung zu Prüfern wird durch Aushang im Institut für Sportwissenschaft/Sportzentrum bekannt gegeben.[2] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Universität Erlangen-Nürnberg aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+(3)<sup>1</sup> Die Bestellung zu Prüfern wird durch Aushang im Institut für Sportwissenschaft/Sportzentrum bekannt gegeben.<sup>2</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.<sup>3</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Universität Erlangen-Nürnberg aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
 (4) Für Prüfer, Beisitzer und sonstige mit Prüfungsangelegenheiten befasste Personen gilt § 4 Abs. 8 entsprechend. 
 
 4 
 
-## **§ 6 Allgemeine Zulassungsvoraussetzungen und Zulassungsverfahren** 
+### **§ 6 Allgemeine Zulassungsvoraussetzungen und Zulassungsverfahren** 
 
 (1) Zur Diplomvorprüfung an der Universität Erlangen-Nürnberg kann nur zugelassen werden, wer 
 
@@ -154,7 +154,7 @@ regungen zur Änderung der Studien- und Prüfungsordnung.[3] Der Prüfungsaussch
 
 5. unter Berücksichtigung der gesetzlichen Überschreitungsfristen nach Art. 81 Abs. 4 Satz 3 BayHSchG noch nicht unter die Rechtsfolge des erstmaligen Nichtbestehens der Diplomprüfung beziehungsweise von Teilen derselben fällt. 
 
-(3)[1] Der Antrag auf Zulassung zur Diplomvorprüfung beziehungsweise Diplomprüfung ist spätestens sechs Wochen vor Beginn der Prüfung schriftlich - unter Benutzung der hierfür bestimmten Vordrucke - beim Prüfungsamt einzureichen. 2Dem Antrag sind beizufügen: 
+(3)<sup>1</sup> Der Antrag auf Zulassung zur Diplomvorprüfung beziehungsweise Diplomprüfung ist spätestens sechs Wochen vor Beginn der Prüfung schriftlich - unter Benutzung der hierfür bestimmten Vordrucke - beim Prüfungsamt einzureichen. 2Dem Antrag sind beizufügen: 
 
 1. die Unterlagen nach Absatz 1 beziehungsweise Absatz 2 
 
@@ -166,7 +166,7 @@ regungen zur Änderung der Studien- und Prüfungsordnung.[3] Der Prüfungsaussch
 
 4. gegebenenfalls ein Antrag, dass die mündliche Prüfung unter Ausschluss der Öffentlichkeit stattfinden soll. 
 
-(4)[1] Der Prüfungsausschuss kann die Nachreichung von Unterlagen - insbesondere zu den fachlichen Zulassungsvoraussetzungen - gestatten, wenn ihre Vorlage in der zu setzenden Frist nicht möglich ist und dies hinreichend glaubhaft gemacht wird.[2] Ist ein Kandidat ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu erbringen, so kann der Prüfungsausschuss gestatten, die Nachweise auf andere Art zu führen. 
+(4)<sup>1</sup> Der Prüfungsausschuss kann die Nachreichung von Unterlagen - insbesondere zu den fachlichen Zulassungsvoraussetzungen - gestatten, wenn ihre Vorlage in der zu setzenden Frist nicht möglich ist und dies hinreichend glaubhaft gemacht wird.<sup>2</sup> Ist ein Kandidat ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu erbringen, so kann der Prüfungsausschuss gestatten, die Nachweise auf andere Art zu führen. 
 
 (5) Soweit der Kandidat die Fachprüfungen beziehungsweise Teile daraus nach §§ 21 und 25 vorzieht, braucht er bei der Meldung nur die Nachweise gemäß Absatz 1 Nrn. 1 bis 3 beziehungsweise Absatz 2 Nrn. 1 bis 3 vorzulegen. 
 
@@ -178,33 +178,33 @@ regungen zur Änderung der Studien- und Prüfungsordnung.[3] Der Prüfungsaussch
 
 3. der Bewerber unter Verlust des Prüfungsanspruchs exmatrikuliert worden ist; 4. der Bewerber die Diplomvorprüfung beziehungsweise Diplomprüfung in demselben Studiengang endgültig nicht bestanden hat. 
 
-(7)[1] Über die Zulassung entscheidet der Prüfungsausschuss.[2] Die Entscheidung über die Zulassung ist dem Bewerber spätestens vier Wochen vor Prüfungsbeginn schriftlich mitzuteilen. 
+(7)<sup>1</sup> Über die Zulassung entscheidet der Prüfungsausschuss.<sup>2</sup> Die Entscheidung über die Zulassung ist dem Bewerber spätestens vier Wochen vor Prüfungsbeginn schriftlich mitzuteilen. 
 
 (8) Der zur Prüfung zugelassene Kandidat kann die Anmeldung ohne Angabe von Gründen schriftlich bis zum 14. Tag vor dem allgemeinen Beginn der Prüfungen widerrufen; § 3 Abs. 9 bleibt unberührt. 
 
-## **§ 7** 
+### **§ 7** 
 
-## **Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen** 
+### **Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen** 
 
-(1) Studienzeiten, Studienleistungen und Prüfungsleistungen im Diplomstudiengang Sportwissenschaft[1)] an anderen Universitäten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt. 
+(1) Studienzeiten, Studienleistungen und Prüfungsleistungen im Diplomstudiengang Sportwissenschaft<sup>1)</sup> an anderen Universitäten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt. 
 
 1) Als Diplomstudiengang Sportwissenschaft gilt nur derjenige, der der "Rahmenordnung für die Diplomprüfung im Studiengang Sportwissenschaft - an die Universitäten und gleichgestellten Hochschulen -" (beschlossen von der Kultusminister- und Hochschulrektorenkonferenz im Jahr 1992) unterliegt. 
 
-(2)[1] Studienzeiten, Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.[2] Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 3Gleichwertigkeit wird festgestellt, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums im Diplomstudiengang Sportwissenschaft der Universität ErlangenNürnberg entsprechen.[4] Dabei wird kein schematischer Vergleich, sondern eine 
+(2)<sup>1</sup> Studienzeiten, Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.<sup>2</sup> Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 3Gleichwertigkeit wird festgestellt, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums im Diplomstudiengang Sportwissenschaft der Universität ErlangenNürnberg entsprechen.<sup>4</sup> Dabei wird kein schematischer Vergleich, sondern eine 
 
 6 
 
-Gesamtbetrachtung und Gesamtbewertung vorgenommen.[5] Für die Gleichwertigkeit von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereichs des Hochschulrahmengesetzes erbracht wurden, sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.[6] Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.[7] Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
+Gesamtbetrachtung und Gesamtbewertung vorgenommen.<sup>5</sup> Für die Gleichwertigkeit von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereichs des Hochschulrahmengesetzes erbracht wurden, sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.<sup>6</sup> Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.<sup>7</sup> Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
 
 (3) Eine Anerkennung von Teilen der Diplomprüfung beziehungsweise die Anrechnung von Prüfungsleistungen auf die Diplomprüfung ist zulässig, wenn die Vorschriften dieser Prüfungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancengleichheit nicht verletzt wird. 
 
-(4)[1] Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 14 gebildet wurden.[2] Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.[3] Entspricht das Notensystem der angerechneten Prüfung § 14 nicht, wird in dem Zeugnis nur ein Anerkennungsvermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.[4] Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung (§ 7) beigegeben. 
+(4)<sup>1</sup> Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 14 gebildet wurden.<sup>2</sup> Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.<sup>3</sup> Entspricht das Notensystem der angerechneten Prüfung § 14 nicht, wird in dem Zeugnis nur ein Anerkennungsvermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.<sup>4</sup> Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung erfolgen nicht.<sup>5</sup> In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung (§ 7) beigegeben. 
 
-(5)[1] Bei Vorliegen der Voraussetzungen der Absätze 1 bis 4 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.[2] Der Student hat die für die Anerkennung beziehungsweise Anrechnung erforderlichen Unterlagen vorzulegen.[3] Die Entscheidung über die Anerkennung trifft der Vorsitzende des Prüfungsausschusses in den Fällen gemäß der Absätze 2 bis 4 auf Antrag; die Entscheidung ergeht schriftlich. 
+(5)<sup>1</sup> Bei Vorliegen der Voraussetzungen der Absätze 1 bis 4 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.<sup>2</sup> Der Student hat die für die Anerkennung beziehungsweise Anrechnung erforderlichen Unterlagen vorzulegen.<sup>3</sup> Die Entscheidung über die Anerkennung trifft der Vorsitzende des Prüfungsausschusses in den Fällen gemäß der Absätze 2 bis 4 auf Antrag; die Entscheidung ergeht schriftlich. 
 
 (6) Einschlägige berufspraktische Tätigkeiten werden anerkannt. 
 
-## **§ 8 Arten der Prüfungsleistungen** 
+### **§ 8 Arten der Prüfungsleistungen** 
 
 (1) Prüfungsleistungen in der Diplomvorprüfung sind: 
 
@@ -226,9 +226,9 @@ Gesamtbetrachtung und Gesamtbewertung vorgenommen.[5] Für die Gleichwertigkeit 
 
 5. die Diplomarbeit (§ 13). 
 
-## **§ 9** 
+### **§ 9** 
 
-## **Prüfungen in den Sportarten/Sportaktivitäten** 
+### **Prüfungen in den Sportarten/Sportaktivitäten** 
 
 (1) Die Prüfungen in den Sportarten/Sportdisziplinen bestehen aus zwei Prüfungsteilen: 
 
@@ -252,119 +252,117 @@ Gesamtbetrachtung und Gesamtbewertung vorgenommen.[5] Für die Gleichwertigkeit 
 
 (5) Die Gewichtung der Noten der Prüfungen in den Sportarten/Sportdisziplinen ist in § 14 Abs. 3 festgelegt. 
 
-## **§ 10 Prüfung im lehrpraktischen Handeln** 
+### **§ 10 Prüfung im lehrpraktischen Handeln** 
 
-(1)[1] In der Prüfung im lehrpraktischen Handeln soll der Kandidat nachweisen, dass er spezielle Unterrichtsthemen in den Bereichen Bewegung, Spiel und Sport für Erwachsene und Senioren eigenständig konzipieren und durchführen kann.[2] Die Prüfung im lehrpraktischen Handeln besteht aus zwei Lehrproben von je 45 Minuten Dauer gemäß § 25 Abs. 3 Nr. 3 Buchst. b.[3] Sie wird durch zwei Prüfer abgenommen. 
+(1)<sup>1</sup> In der Prüfung im lehrpraktischen Handeln soll der Kandidat nachweisen, dass er spezielle Unterrichtsthemen in den Bereichen Bewegung, Spiel und Sport für Erwachsene und Senioren eigenständig konzipieren und durchführen kann.<sup>2</sup> Die Prüfung im lehrpraktischen Handeln besteht aus zwei Lehrproben von je 45 Minuten Dauer gemäß § 25 Abs. 3 Nr. 3 Buchst. b.<sup>3</sup> Sie wird durch zwei Prüfer abgenommen. 
 
-(2)[1] Die Aufgabe der Lehrprobe stellen die Prüfer gemeinsam, indem sie dem Kandidaten das Thema, zu dem er die Lehrprobe erbringen soll, spätestens acht Tage vor der Prüfung mitteilen.[2] Der geplante Ablauf der Lehrprobe wird vom Kandidaten schriftlich ausgearbeitet und mindestens einen Tag vor deren Beginn an die Prüfer ausgehändigt. 
+(2)<sup>1</sup> Die Aufgabe der Lehrprobe stellen die Prüfer gemeinsam, indem sie dem Kandidaten das Thema, zu dem er die Lehrprobe erbringen soll, spätestens acht Tage vor der Prüfung mitteilen.<sup>2</sup> Der geplante Ablauf der Lehrprobe wird vom Kandidaten schriftlich ausgearbeitet und mindestens einen Tag vor deren Beginn an die Prüfer ausgehändigt. 
 
 (3) Die Gewichtung der Noten der Prüfungen der Lehreignung ist in § 14 Abs. 3 festgelegt. 
 
 8 
 
-## **§ 11 Mündliche Prüfungen** 
+### **§ 11 Mündliche Prüfungen** 
 
-(1)[1] In den mündlichen Prüfungen soll der Kandidat nachweisen, dass er die Zusammenhänge des Prüfungsgebietes erkennt und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermag.[2] Durch die mündlichen Prüfungen soll ferner festgestellt werden, ob der Kandidat über ein breites Grundlagenwissen verfügt.[3] Die Kandidaten können darüber hinaus in von ihnen benannten eingegrenzten Themen (Vertiefungsgebieten) geprüft werden. 
+(1)<sup>1</sup> In den mündlichen Prüfungen soll der Kandidat nachweisen, dass er die Zusammenhänge des Prüfungsgebietes erkennt und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermag.<sup>2</sup> Durch die mündlichen Prüfungen soll ferner festgestellt werden, ob der Kandidat über ein breites Grundlagenwissen verfügt.<sup>3</sup> Die Kandidaten können darüber hinaus in von ihnen benannten eingegrenzten Themen (Vertiefungsgebieten) geprüft werden. 
 
-(2)[1] Mündliche Prüfungen werden in der Regel vor mindestens zwei Prüfern (Kollegialprüfung) oder vor einem Prüfer in Anwesenheit eines sachkundigen Beisitzers abgelegt.[2] Hierbei wird jeder Kandidat in einem Prüfungsfach grundsätzlich nur von einem Prüfer geprüft. 
+(2)<sup>1</sup> Mündliche Prüfungen werden in der Regel vor mindestens zwei Prüfern (Kollegialprüfung) oder vor einem Prüfer in Anwesenheit eines sachkundigen Beisitzers abgelegt.<sup>2</sup> Hierbei wird jeder Kandidat in einem Prüfungsfach grundsätzlich nur von einem Prüfer geprüft. 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Dauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.[2] Das Protokoll wird von einem Prüfer oder vom Beisitzer geführt und von den Prüfern beziehungsweise vom Prüfer und von dem Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Dauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird von einem Prüfer oder vom Beisitzer geführt und von den Prüfern beziehungsweise vom Prüfer und von dem Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
-(4)[1] Studenten, die sich in einem späteren Termin der gleichen Prüfung unterziehen wollen, können nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen werden, es sei denn, der Kandidat widerspricht.[2] Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses. 
+(4)<sup>1</sup> Studenten, die sich in einem späteren Termin der gleichen Prüfung unterziehen wollen, können nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen werden, es sei denn, der Kandidat widerspricht.<sup>2</sup> Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses. 
 
-## **§ 12 Klausuren** 
+### **§ 12 Klausuren** 
 
 (1) In den Klausuren soll der Kandidat nachweisen, dass er in begrenzter Zeit und mit begrenzten Hilfsmitteln mit den gängigen Methoden seines Faches ein Problem erkennen und Wege zu einer Lösung finden und angemessen sprachlich darstellen kann. 
 
-(2)[1] Klausuren sind in der Regel von zwei Prüfern zu bewerten.[2] Von der Bewertung durch einen Zweitprüfer kann abgesehen werden, wenn kein zweiter Prüfungsbefugter zur Verfügung steht oder wenn die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise vorzögern würde.[3] Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, muss ein zweiter Prüfer bestellt werden.[4] Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Prüfer vorhanden ist, oder ob durch Benennung eines Zweitprüfers mit einer unzumutbaren Verzögerung des Prüfungsablaufs zu rechnen ist. 
+(2)<sup>1</sup> Klausuren sind in der Regel von zwei Prüfern zu bewerten.<sup>2</sup> Von der Bewertung durch einen Zweitprüfer kann abgesehen werden, wenn kein zweiter Prüfungsbefugter zur Verfügung steht oder wenn die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise vorzögern würde.<sup>3</sup> Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, muss ein zweiter Prüfer bestellt werden.<sup>4</sup> Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Prüfer vorhanden ist, oder ob durch Benennung eines Zweitprüfers mit einer unzumutbaren Verzögerung des Prüfungsablaufs zu rechnen ist. 
 
-## **§ 13 Diplomarbeit** 
+### **§ 13 Diplomarbeit** 
 
-(1)[1] Die Diplomarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.[2] Sie soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Bereich der Sportwissenschaft selbständig mit wissenschaftlichen Methoden zu bearbeiten. 
+(1)<sup>1</sup> Die Diplomarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.<sup>2</sup> Sie soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Bereich der Sportwissenschaft selbständig mit wissenschaftlichen Methoden zu bearbeiten. 
 
 9 
 
-(2)[1] Die Diplomarbeit kann von jedem Hochschullehrer, der ein sportwissenschaftliches Fach an der Universität Erlangen-Nürnberg vertritt, ausgegeben und betreut werden.[2] Die Vergabe der Diplomarbeit durch einen anderen Hochschullehrer beziehungsweise durch eine andere prüfungsberechtigte Person (siehe § 5 Abs. 1) bedarf der Zustimmung des Prüfungsausschusses.[3] Soll die Diplomarbeit in einer Einrichtung außerhalb der Universität Erlangen-Nürnberg durchgeführt werden, ist die Zustimmung des Vorsitzenden des Prüfungsausschusses nötig.[4] Dieser hat das Einverständnis des Betreuers und eine Erklärung darüber einzuholen, dass eine ordnungsgemäße Betreuung der Arbeit möglich ist.[5] Dem Kandidaten ist Gelegenheit zu geben, für das Thema der Diplomarbeit Vorschläge zu machen. 
+(2)<sup>1</sup> Die Diplomarbeit kann von jedem Hochschullehrer, der ein sportwissenschaftliches Fach an der Universität Erlangen-Nürnberg vertritt, ausgegeben und betreut werden.<sup>2</sup> Die Vergabe der Diplomarbeit durch einen anderen Hochschullehrer beziehungsweise durch eine andere prüfungsberechtigte Person (siehe § 5 Abs. 1) bedarf der Zustimmung des Prüfungsausschusses.<sup>3</sup> Soll die Diplomarbeit in einer Einrichtung außerhalb der Universität Erlangen-Nürnberg durchgeführt werden, ist die Zustimmung des Vorsitzenden des Prüfungsausschusses nötig.<sup>4</sup> Dieser hat das Einverständnis des Betreuers und eine Erklärung darüber einzuholen, dass eine ordnungsgemäße Betreuung der Arbeit möglich ist.<sup>5</sup> Dem Kandidaten ist Gelegenheit zu geben, für das Thema der Diplomarbeit Vorschläge zu machen. 
 
-(3)[1] Der Kandidat hat dafür zu sorgen, dass er am Ende des dritten Semesters des Hauptstudiums ein Thema für die Diplomarbeit erhält.[2] Gelingt ihm dies nicht, hat er beim Vorsitzenden des Prüfungsausschusses zu beantragen, dass er unverzüglich ein Thema für die Diplomarbeit erhält.[3] Die Ausgabe des Themas erfolgt über den Vorsitzenden des Prüfungsausschusses.[4] Der Zeitpunkt der Ausgabe ist aktenkundig zu machen.[5] Das Thema der Diplomarbeit soll aus einem Bereich des Studienschwerpunktes entnommen werden. 
+(3)<sup>1</sup> Der Kandidat hat dafür zu sorgen, dass er am Ende des dritten Semesters des Hauptstudiums ein Thema für die Diplomarbeit erhält.<sup>2</sup> Gelingt ihm dies nicht, hat er beim Vorsitzenden des Prüfungsausschusses zu beantragen, dass er unverzüglich ein Thema für die Diplomarbeit erhält.<sup>3</sup> Die Ausgabe des Themas erfolgt über den Vorsitzenden des Prüfungsausschusses.<sup>4</sup> Der Zeitpunkt der Ausgabe ist aktenkundig zu machen.<sup>5</sup> Das Thema der Diplomarbeit soll aus einem Bereich des Studienschwerpunktes entnommen werden. 
 
 (4) Die Diplomarbeit kann auch in Form einer Gruppenarbeit zugelassen werden, wenn der als Prüfungsleistung zu bewertende Beitrag des einzelnen Kandidaten auf Grund der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. 
 
-(5)[1] Die Bearbeitungszeit für die Diplomarbeit darf vier Monate nicht überschreiten.[2] Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.[3] Das Thema der Diplomarbeit kann nur einmal und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.[4] Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit durch den Prüfungsausschuss ausnahmsweise um höchstens drei Monate verlängert werden.[5] Weist der Kandidat durch ärztliches Zeugnis nach, dass er durch Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist. 
+(5)<sup>1</sup> Die Bearbeitungszeit für die Diplomarbeit darf vier Monate nicht überschreiten.<sup>2</sup> Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.<sup>3</sup> Das Thema der Diplomarbeit kann nur einmal und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.<sup>4</sup> Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit durch den Prüfungsausschuss ausnahmsweise um höchstens drei Monate verlängert werden.<sup>5</sup> Weist der Kandidat durch ärztliches Zeugnis nach, dass er durch Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist. 
 
-(6)[1] Die Diplomarbeit ist in drei Exemplaren fristgemäß beim Prüfungsamt abzuliefern.[2] Der Abgabezeitpunkt ist aktenkundig zu machen.[3] Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten.[4] Bei der Abgabe der Diplomarbeit hat der Kandidat schriftlich zu versichern, dass er seine Arbeit - bei einer Gruppenarbeit seinen entsprechend gekennzeichneten Anteil der Arbeit - selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.[5] Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" (5,0) bewertet. 
+(6)<sup>1</sup> Die Diplomarbeit ist in drei Exemplaren fristgemäß beim Prüfungsamt abzuliefern.<sup>2</sup> Der Abgabezeitpunkt ist aktenkundig zu machen.<sup>3</sup> Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten.<sup>4</sup> Bei der Abgabe der Diplomarbeit hat der Kandidat schriftlich zu versichern, dass er seine Arbeit - bei einer Gruppenarbeit seinen entsprechend gekennzeichneten Anteil der Arbeit - selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.<sup>5</sup> Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" (5,0) bewertet. 
 
-(7)[1] Die Diplomarbeit ist von zwei Prüfern zu bewerten.[2] Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat.[3] Bei unterschiedlicher Beurteilung gilt als die Note der Diplomarbeit der Durchschnitt der Noten beider Prüfer.[4] Hat nur ein Prüfer die Diplomarbeit mit "nicht ausreichend" bewertet oder weichen die Noten um zwei oder mehr Notenstufen voneinander ab, setzt der Prüfungsausschuss die Note nach Anhörung eines dritten Prüfers fest. 
+(7)<sup>1</sup> Die Diplomarbeit ist von zwei Prüfern zu bewerten.<sup>2</sup> Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat.<sup>3</sup> Bei unterschiedlicher Beurteilung gilt als die Note der Diplomarbeit der Durchschnitt der Noten beider Prüfer.<sup>4</sup> Hat nur ein Prüfer die Diplomarbeit mit "nicht ausreichend" bewertet oder weichen die Noten um zwei oder mehr Notenstufen voneinander ab, setzt der Prüfungsausschuss die Note nach Anhörung eines dritten Prüfers fest. 
 
 10 
 
-## **§ 14 Bewertung der Prüfungsleistungen und Bildung der Fachnoten** 
+### **§ 14 Bewertung der Prüfungsleistungen und Bildung der Fachnoten** 
 
-(1)[1] Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern festgesetzt.[2] Für die Bewertung der Prüfungsleistungen werden folgende Noten und Prädikate verwendet: 
+(1)<sup>1</sup> Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern festgesetzt.<sup>2</sup> Für die Bewertung der Prüfungsleistungen werden folgende Noten und Prädikate verwendet: 
 
-1,0; 1,3 = sehr gut = eine hervorragende Leistung; 
+1,0; 1,3 = sehr gut = eine hervorragende Leistung; = eine Leistung, die erheblich über den durchschnittlichen Anforde1,7; 2,0; 2,3 = gut rungen liegt; 2,7; 3,0; 3,3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; = eine Leistung, die trotz ihrer Mängel noch den Anforderungen ge3,7; 4,0 = ausreichend nügt; = eine Leistung, die wegen erheblicher Mängel den Anforderungen 5,0 = nicht ausreichend nicht mehr genügt. 
 
-= eine Leistung, die erheblich über den durchschnittlichen Anforde1,7; 2,0; 2,3 = gut rungen liegt; 2,7; 3,0; 3,3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; = eine Leistung, die trotz ihrer Mängel noch den Anforderungen ge3,7; 4,0 = ausreichend nügt; = eine Leistung, die wegen erheblicher Mängel den Anforderungen 5,0 = nicht ausreichend nicht mehr genügt. 
+3Wird eine Prüfungsleistung von zwei Prüfern bewertet, werden die Noten gemittelt; dabei wird nur die erste Stelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.<sup>4</sup> Für die Bewertung der Prüfungsteile der Prüfungen in den Sportarten/Sportaktivitäten gelten in Abweichung von Satz 2 die in **Anlage 2** und **Anlage 3** dieser Ordnung niedergelegten Wertungstabellen und Wertungskriterien für messbare und nicht messbare Leistungen. 
 
-3Wird eine Prüfungsleistung von zwei Prüfern bewertet, werden die Noten gemittelt; dabei wird nur die erste Stelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.[4] Für die Bewertung der Prüfungsteile der Prüfungen in den Sportarten/Sportaktivitäten gelten in Abweichung von Satz 2 die in **Anlage 2** und **Anlage 3** dieser Ordnung niedergelegten Wertungstabellen und Wertungskriterien für messbare und nicht messbare Leistungen. 
-
-(2)[1] Besteht eine Fachprüfung aus mehreren Leistungen, errechnet sich die Fachnote aus dem Durchschnitt der Noten der einzelnen Prüfungsleistungen. 2Die Fachnote lautet 
+(2)<sup>1</sup> Besteht eine Fachprüfung aus mehreren Leistungen, errechnet sich die Fachnote aus dem Durchschnitt der Noten der einzelnen Prüfungsleistungen. 2Die Fachnote lautet 
 
 bei einem Durchschnitt bis 1,5 = sehr gut; bei einem Durchschnitt über 1,5 bis 2,5 = gut; bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend; bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend; bei einem Durchschnitt über 4,0 = nicht ausreichend. 
 
-(3)[1] Eine Fachprüfung ist bestanden, wenn die Fachnote mindestens "ausreichend" (4,0) ist.[2] Die Note der Fachprüfung in den Sportarten/Sportaktivitäten und im lehrpraktischen Handeln nach § 25 Abs. 2 Nr. 6 errechnet sich aus dem Durchschnitt der Noten der Prüfungen in den Sportarten/Sportaktivitäten (§ 25 Abs. 3 Nr. 3 Buchst. a) und der Lehreignung (§ 25 Abs. 3 Nr. 3 Buchst. b). 
+(3)<sup>1</sup> Eine Fachprüfung ist bestanden, wenn die Fachnote mindestens "ausreichend" (4,0) ist.<sup>2</sup> Die Note der Fachprüfung in den Sportarten/Sportaktivitäten und im lehrpraktischen Handeln nach § 25 Abs. 2 Nr. 6 errechnet sich aus dem Durchschnitt der Noten der Prüfungen in den Sportarten/Sportaktivitäten (§ 25 Abs. 3 Nr. 3 Buchst. a) und der Lehreignung (§ 25 Abs. 3 Nr. 3 Buchst. b). 
 
-(4)[1] Für die Bildung der Gesamtnote der Diplomvorprüfung gilt § 22, für die der Diplomprüfung gilt § 26.[2] Die Gesamtnoten lauten entsprechend Absatz 2 Satz 2. 
+(4)<sup>1</sup> Für die Bildung der Gesamtnote der Diplomvorprüfung gilt § 22, für die der Diplomprüfung gilt § 26.<sup>2</sup> Die Gesamtnoten lauten entsprechend Absatz 2 Satz 2. 
 
 (5) Bei der Bildung der Fachnoten und der Gesamtnote wird nur die erste Dezimalstelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen. 
 
-## **§ 15 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß, Prüfungsunfähigkeit** 
+### **§ 15 Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß, Prüfungsunfähigkeit** 
 
-(1)[1] Eine Prüfungsleistung gilt mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat, nachdem er zur Prüfung zugelassen wurde, zu einem Prüfungstermin 
+(1)<sup>1</sup> Eine Prüfungsleistung gilt mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat, nachdem er zur Prüfung zugelassen wurde, zu einem Prüfungstermin 
 
 11 
 
-ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.[2] Dasselbe gilt, wenn eine schriftliche Prüfungsleistung nicht innerhalb der vorgegebenen Bearbeitungszeit erbracht wird. 
+ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.<sup>2</sup> Dasselbe gilt, wenn eine schriftliche Prüfungsleistung nicht innerhalb der vorgegebenen Bearbeitungszeit erbracht wird. 
 
-(2)[1] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so setzt der Prüfungsausschuss einen neuen Prüfungstermin fest; dies ist in der Regel der nächstmögliche Prüfungstermin, sofern die anerkannten Gründe dem nicht entgegenstehen.[3] Bei anerkanntem Rücktritt oder Versäumnis werden die bereits vorliegenden Prüfungsergebnisse angerechnet. 
+(2)<sup>1</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Werden die Gründe anerkannt, so setzt der Prüfungsausschuss einen neuen Prüfungstermin fest; dies ist in der Regel der nächstmögliche Prüfungstermin, sofern die anerkannten Gründe dem nicht entgegenstehen.<sup>3</sup> Bei anerkanntem Rücktritt oder Versäumnis werden die bereits vorliegenden Prüfungsergebnisse angerechnet. 
 
-(3)[1] Versucht der Kandidat, das Ergebnis seiner Prüfungsleistungen durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als "nicht ausreichend" (5,0) bewertet.[2] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet.[3] In schwerwiegenden Fällen kann der Prüfungsausschuss den Kandidaten von der Erbringung weiterer Prüfungsleistungen ausschließen. 
+(3)<sup>1</sup> Versucht der Kandidat, das Ergebnis seiner Prüfungsleistungen durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als "nicht ausreichend" (5,0) bewertet.<sup>2</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet.<sup>3</sup> In schwerwiegenden Fällen kann der Prüfungsausschuss den Kandidaten von der Erbringung weiterer Prüfungsleistungen ausschließen. 
 
-(4)[1] Eine vor und während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden.[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
+(4)<sup>1</sup> Eine vor und während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden.<sup>2</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
 
-(5)[1] Der Kandidat kann innerhalb von einer Woche verlangen, dass die Entscheidungen nach Absatz 3 Sätze 1 und 2 vom Prüfungsausschuss überprüft werden.[2] Belastende Entscheidungen sind dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. 
+(5)<sup>1</sup> Der Kandidat kann innerhalb von einer Woche verlangen, dass die Entscheidungen nach Absatz 3 Sätze 1 und 2 vom Prüfungsausschuss überprüft werden.<sup>2</sup> Belastende Entscheidungen sind dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. 
 
-## **§ 16** 
+### **§ 16** 
 
-## **Mängel im Prüfungsverfahren** 
+### **Mängel im Prüfungsverfahren** 
 
-(1)[1] Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.[2] Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend gemacht werden. 
+(1)<sup>1</sup> Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.<sup>2</sup> Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend gemacht werden. 
 
 (2) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Absatz 1 nicht mehr getroffen werden. 
 
 12 
 
-## **§ 17** 
+### **§ 17** 
 
-## **Bestehen, Nichtbestehen und Bescheinigung von Prüfungsleistungen** 
+### **Bestehen, Nichtbestehen und Bescheinigung von Prüfungsleistungen** 
 
-(1)[1] Die Diplomvorprüfung ist bestanden, wenn ihre Fachprüfungen bestanden sind.[2] Die Diplomprüfung ist bestanden, wenn ihre Fachprüfungen bestanden sind und die Diplomarbeit mindestens mit "ausreichend" (bis 4,0) bewertet wurde. 
+(1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn ihre Fachprüfungen bestanden sind.<sup>2</sup> Die Diplomprüfung ist bestanden, wenn ihre Fachprüfungen bestanden sind und die Diplomarbeit mindestens mit "ausreichend" (bis 4,0) bewertet wurde. 
 
-(2)[1] Die Fachprüfung gemäß § 25 Abs. 2 Nr. 6 ist bestanden, wenn die einzelnen Prüfungsleistungen gemäß § 25 Abs. 3 Nr. 3 mit wenigstens "ausreichend" bewertet sind.[2] Mit wenigstens "ausreichend" bewertete Prüfungsleistungen werden auf die Wiederholung der Fachprüfung angerechnet. 
+(2)<sup>1</sup> Die Fachprüfung gemäß § 25 Abs. 2 Nr. 6 ist bestanden, wenn die einzelnen Prüfungsleistungen gemäß § 25 Abs. 3 Nr. 3 mit wenigstens "ausreichend" bewertet sind.<sup>2</sup> Mit wenigstens "ausreichend" bewertete Prüfungsleistungen werden auf die Wiederholung der Fachprüfung angerechnet. 
 
 (3) Hat der Kandidat eine Fachprüfung nicht bestanden oder wurde die Diplomarbeit mit "nicht ausreichend" (5,0) bewertet, so erteilt der Vorsitzende des Prüfungsausschusses dem Kandidaten hierüber einen schriftlichen Bescheid mit einer Rechtsbehelfsbelehrung, der auch darüber Auskunft gibt, ob und gegebenenfalls in welchem Umfang und in welcher Frist die Fachprüfung wiederholt werden kann. 
 
 (4) Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht bestanden, wird ihm auf Antrag eine schriftliche Bescheinigung ausgestellt, aus der sich das Nichtbestehen der Prüfung, die in den schriftlichen Prüfungsfächern erzielten Noten und die noch fehlenden Prüfungsleistungen ergeben. 
 
-## **§ 18** 
+### **§ 18** 
 
-## **Wiederholung von Fachprüfungen und der Diplomarbeit** 
+### **Wiederholung von Fachprüfungen und der Diplomarbeit** 
 
-(1)[1] Fachprüfungen oder Teile von Fachprüfungen gemäß § 21 und § 25 Abs. 2, die nicht bestanden sind oder als nicht bestanden gelten, können einmal wiederholt werden.[2] Fehlversuche an anderen Universitäten und gleichgestellten Hochschulen sind anzurechnen.[3] Die freiwillige Wiederholung bestandener Fachprüfungen, der Diplomarbeit oder der gesamten Diplomprüfung ist nicht zulässig. 
+(1)<sup>1</sup> Fachprüfungen oder Teile von Fachprüfungen gemäß § 21 und § 25 Abs. 2, die nicht bestanden sind oder als nicht bestanden gelten, können einmal wiederholt werden.<sup>2</sup> Fehlversuche an anderen Universitäten und gleichgestellten Hochschulen sind anzurechnen.<sup>3</sup> Die freiwillige Wiederholung bestandener Fachprüfungen, der Diplomarbeit oder der gesamten Diplomprüfung ist nicht zulässig. 
 
-(2)[1] Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt sein.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[3] § 3 Abs. 8 Satz 5 gilt entsprechend.[4] Bei Versäumnis der Frist gilt die Diplomprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer, von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
+(2)<sup>1</sup> Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt sein.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>3</sup> § 3 Abs. 8 Satz 5 gilt entsprechend.<sup>4</sup> Bei Versäumnis der Frist gilt die Diplomprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer, von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
 
-(3)[1] Ist die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestens vier Wochen nach der Bekanntgabe der Note der Diplomarbeit zu stellen ist, eine einmalige Wiederholung mit neuem Thema möglich.[2] Bei Versäumnis der Frist gilt die Diplomprüfung als endgültig nicht bestanden.[3] Im Übrigen gilt § 13 entsprechend. 
+(3)<sup>1</sup> Ist die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestens vier Wochen nach der Bekanntgabe der Note der Diplomarbeit zu stellen ist, eine einmalige Wiederholung mit neuem Thema möglich.<sup>2</sup> Bei Versäumnis der Frist gilt die Diplomprüfung als endgültig nicht bestanden.<sup>3</sup> Im Übrigen gilt § 13 entsprechend. 
 
 (4) Die Noten der Wiederholungsprüfung ersetzen die Noten der vorangegangenen Prüfung. 
 
@@ -372,15 +370,15 @@ ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne
 
 ## **Zweiter Teil: Diplomvorprüfung** 
 
-## **§ 19 Zweck der Diplomvorprüfung** 
+### **§ 19 Zweck der Diplomvorprüfung** 
 
-(1)[1] In der Diplomvorprüfung sollen grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in Theorie und Praxis des Studienganges Sportwissenschaft nachgewiesen werden.[2] Sie sind die Voraussetzungen dafür, das Studium mit Erfolg fortzusetzen. 
+(1)<sup>1</sup> In der Diplomvorprüfung sollen grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in Theorie und Praxis des Studienganges Sportwissenschaft nachgewiesen werden.<sup>2</sup> Sie sind die Voraussetzungen dafür, das Studium mit Erfolg fortzusetzen. 
 
 (2) Die Diplomvorprüfung ist so durchzuführen, dass sie bis spätestens zu Beginn des fünften Fachsemesters abgeschlossen werden kann. 
 
 (3) Der Kandidat gibt im Antrag auf Zulassung zur Diplomvorprüfung die Fächer an, in denen er - soweit Wahlmöglichkeiten bestehen - geprüft werden möchte. 
 
-## **§ 20 Fachliche Zulassungsvoraussetzungen für die Diplomvorprüfung** 
+### **§ 20 Fachliche Zulassungsvoraussetzungen für die Diplomvorprüfung** 
 
 (1) Zur Diplomvorprüfung kann nur zugelassen werden, wer 
 
@@ -432,7 +430,7 @@ h) Trainingslehre
 
 7. regelmäßig und erfolgreich teilgenommen hat an einer Exkursion von maximal sieben Tagen. 
 
-(2)[1] Die unter Absatz 1 Nrn. 4 und 5 genannten Nachweise werden in der Regel durch Zwischen- und Endnachweise belegt.[2] Der Zwischennachweis bescheinigt, dass an einer bestimmten Lehrveranstaltung regelmäßig teilgenommen wurde und dass der Student für den Besuch der aufbauenden Veranstaltung geeignet ist.[3] Der Endnachweis bescheinigt, dass an einer bestimmten Sportart/Sportaktivität regelmäßig und erfolgreich teilgenommen wurde, d.h. dass alle erforderlichen Zwischennachweise vorgelegen haben, und dass qualifizierte Mindestleistungen in Praxis als auch in Theorie erbracht worden sind. 4Qualifizierte Mindestleistungen in einer Sportart/Sportaktivität sind erbracht, wenn das arithmetische Mittel der Noten für die zu erbringenden Leistungen mindestens die Bewertung "ausreichend" ergibt. 
+(2)<sup>1</sup> Die unter Absatz 1 Nrn. 4 und 5 genannten Nachweise werden in der Regel durch Zwischen- und Endnachweise belegt.<sup>2</sup> Der Zwischennachweis bescheinigt, dass an einer bestimmten Lehrveranstaltung regelmäßig teilgenommen wurde und dass der Student für den Besuch der aufbauenden Veranstaltung geeignet ist.<sup>3</sup> Der Endnachweis bescheinigt, dass an einer bestimmten Sportart/Sportaktivität regelmäßig und erfolgreich teilgenommen wurde, d.h. dass alle erforderlichen Zwischennachweise vorgelegen haben, und dass qualifizierte Mindestleistungen in Praxis als auch in Theorie erbracht worden sind. 4Qualifizierte Mindestleistungen in einer Sportart/Sportaktivität sind erbracht, wenn das arithmetische Mittel der Noten für die zu erbringenden Leistungen mindestens die Bewertung "ausreichend" ergibt. 
 
 (3) Den Nachweis der regelmäßigen Teilnahme sowie nähere Einzelheiten regelt die Studienordnung. 
 
@@ -440,7 +438,7 @@ h) Trainingslehre
 
 (5) Die Wiederholungsmöglichkeiten sind im Rahmen der Meldefrist für die Diplomvorprüfung nicht begrenzt. 
 
-## **§ 21 Umfang und Art der Diplomvorprüfung** 
+### **§ 21 Umfang und Art der Diplomvorprüfung** 
 
 (1) Die Diplomvorprüfung besteht aus sechs Fachprüfungen, und zwar aus einer Fachprüfung in 
 
@@ -474,15 +472,15 @@ h) Trainingslehre
 
 (3) Die Prüfungsleistungen in den Fächern der Sportwissenschaft gemäß Absatz 1 Nrn. 4 bis 6 bestehen jeweils aus einer Klausur mit einer Dauer von zwei Stunden. 
 
-(4)[1] Die Prüfungsanforderungen bestimmen sich an den Inhalten des Grundstudiums im jeweiligen Fach.[2] Die Anforderungen der Prüfungen in den Sportarten/Sportaktivitäten sind in **Anlage 2** enthalten. 
+(4)<sup>1</sup> Die Prüfungsanforderungen bestimmen sich an den Inhalten des Grundstudiums im jeweiligen Fach.<sup>2</sup> Die Anforderungen der Prüfungen in den Sportarten/Sportaktivitäten sind in **Anlage 2** enthalten. 
 
-## **§ 22** 
+### **§ 22** 
 
-## **Bildung der Gesamtnote und Diplomvorprüfungszeugnis** 
+### **Bildung der Gesamtnote und Diplomvorprüfungszeugnis** 
 
 (1) Die Prüfungsgesamtnote der Diplomvorprüfung errechnet sich aus dem Durchschnitt der gleichgewichteten Noten der Fachprüfungen gemäß § 21 Abs. 1 Nrn. 1 bis 6. 
 
-(2)[1] Über die bestandene Diplomvorprüfung wird ein Zeugnis erstellt.[2] Hierbei soll eine Frist von vier Wochen ab dem Bestehen sämtlicher Prüfungsleistungen eingehalten werden. 
+(2)<sup>1</sup> Über die bestandene Diplomvorprüfung wird ein Zeugnis erstellt.<sup>2</sup> Hierbei soll eine Frist von vier Wochen ab dem Bestehen sämtlicher Prüfungsleistungen eingehalten werden. 
 
 (3) Das Zeugnis enthält 
 
@@ -490,15 +488,15 @@ h) Trainingslehre
 
 2. die Gesamtnote. 
 
-(4)[1] Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen.[2] Es trägt das Datum des Tages, an dem die letzte Prüfungsleistung erbracht worden ist. 
+(4)<sup>1</sup> Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen.<sup>2</sup> Es trägt das Datum des Tages, an dem die letzte Prüfungsleistung erbracht worden ist. 
 
 ## **Dritter Teil: Diplomprüfung** 
 
-## **§ 23** 
+### **§ 23** 
 
 **Zweck und Durchführung der Diplomprüfung** 
 
-(1)[1] Die Diplomprüfung bildet den berufsqualifizierenden Abschluss des Studiums im Diplomstudiengang Sportwissenschaft mit dem Studienschwerpunkt "Sport im Erwachsenen- und Seniorenalter".[2] Durch die Diplomprüfung soll festgestellt werden, ob der Kandidat die Zusammenhänge des Faches überblickt und die Fähigkeit besitzt, wissenschaftliche Methoden und Kenntnisse anzuwenden, und das für den Übergang in die Berufspraxis notwendige gründliche Fachkönnen und Fachwissen im präventiven und rehabilitativen sowie im leistungssportlich orientierten Bereich erworben hat. 
+(1)<sup>1</sup> Die Diplomprüfung bildet den berufsqualifizierenden Abschluss des Studiums im Diplomstudiengang Sportwissenschaft mit dem Studienschwerpunkt "Sport im Erwachsenen- und Seniorenalter".<sup>2</sup> Durch die Diplomprüfung soll festgestellt werden, ob der Kandidat die Zusammenhänge des Faches überblickt und die Fähigkeit besitzt, wissenschaftliche Methoden und Kenntnisse anzuwenden, und das für den Übergang in die Berufspraxis notwendige gründliche Fachkönnen und Fachwissen im präventiven und rehabilitativen sowie im leistungssportlich orientierten Bereich erworben hat. 
 
 (2) Die Diplomprüfung beginnt in der Vorlesungszeit zu Beginn des vierten Fachsemesters des Hauptstudiums. 
 
@@ -506,7 +504,7 @@ h) Trainingslehre
 
 16 
 
-## **§ 24 Fachliche Zulassungsvoraussetzungen für die Diplomprüfung** 
+### **§ 24 Fachliche Zulassungsvoraussetzungen für die Diplomprüfung** 
 
 (1) Zur Diplomprüfung im Fach Sportwissenschaft kann nur zugelassen werden, wer im Hauptstudium 
 
@@ -590,7 +588,7 @@ b) an einem achtwöchigen Fachpraktikum im Berufsfeld des Studienschwerpunkts
 
 - (4) Den Nachweis der regelmäßigen Teilnahme regelt die Studienordnung. 
 
-## **§ 25 Umfang und Art der Diplomprüfung** 
+### **§ 25 Umfang und Art der Diplomprüfung** 
 
 - (1) Die Diplomprüfung besteht aus 
 
@@ -642,15 +640,15 @@ a) drei Prüfungen in den Sportarten/Sportaktivitäten nach § 9, davon eine im 
 
 b) zwei Prüfungen im lehrpraktischen Handeln gemäß § 10, davon eine aus dem Bereich Rehabilitative Interventionsmaßnahmen und eine wahlweise aus den Bereichen Freizeitsport, Leistungssport oder Präventive Interventionsmaßnahmen. 
 
-(4)[1] Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums im jeweiligen Fach.[2] Die Anforderungen der Prüfungen in den stu- 
+(4)<sup>1</sup> Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums im jeweiligen Fach.<sup>2</sup> Die Anforderungen der Prüfungen in den stu- 
 
 18 
 
 dienschwerpunktbezogenen Sportarten/Sportdisziplinen sind in **Anlage 3** enthalten. 
 
-## **§ 26** 
+### **§ 26** 
 
-## **Bildung der Gesamtnote und Zeugnis** 
+### **Bildung der Gesamtnote und Zeugnis** 
 
 (1) Die Prüfungsgesamtnote der Diplomprüfung errechnet sich aus dem Durchschnitt der gewichteten Fachnoten und der gewichteten Note der Diplomarbeit 1. zu 25 % aus der Note der Diplomarbeit 
 
@@ -658,7 +656,7 @@ dienschwerpunktbezogenen Sportarten/Sportdisziplinen sind in **Anlage 3** enthal
 
 3. zu 25 % aus der Note der schwerpunktbezogenen Fachprüfung gemäß § 25 Abs. 2 Nr. 6. 
 
-(2)[1] Über die bestandene Diplomprüfung wird ein Zeugnis ausgestellt.[2] Hierbei soll eine Frist von vier Wochen ab dem Bestehen sämtlicher Prüfungsleistungen eingehalten werden.[3] Das Zeugnis enthält 
+(2)<sup>1</sup> Über die bestandene Diplomprüfung wird ein Zeugnis ausgestellt.<sup>2</sup> Hierbei soll eine Frist von vier Wochen ab dem Bestehen sämtlicher Prüfungsleistungen eingehalten werden.<sup>3</sup> Das Zeugnis enthält 
 
 1. die Noten der Fachprüfungen 
 
@@ -672,39 +670,39 @@ dienschwerpunktbezogenen Sportarten/Sportdisziplinen sind in **Anlage 3** enthal
 
 (4) Das Zeugnis trägt das Datum des Tages, an dem die letzte Prüfungsleistung erbracht worden ist. 
 
-## **§ 27** 
+### **§ 27** 
 
-## **Diplomurkunde** 
+### **Diplomurkunde** 
 
-(1)[1] Gleichzeitig mit dem Zeugnis wird dem Kandidaten die Diplomurkunde mit dem Datum des Zeugnisses ausgehändigt.[2] Darin wird die Verleihung des Diplomgrades beurkundet.[3] Auf Antrag kann auf der Diplomurkunde der Zusatz gemäß § 1 Abs. 2 ausgewiesen werden. 
+(1)<sup>1</sup> Gleichzeitig mit dem Zeugnis wird dem Kandidaten die Diplomurkunde mit dem Datum des Zeugnisses ausgehändigt.<sup>2</sup> Darin wird die Verleihung des Diplomgrades beurkundet.<sup>3</sup> Auf Antrag kann auf der Diplomurkunde der Zusatz gemäß § 1 Abs. 2 ausgewiesen werden. 
 
 (2) Die Diplomurkunde wird vom Dekan der Erziehungswissenschaftlichen Fakultät und vom Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel der Fakultät versehen. 
 
-## **Vierter Teil: Schlussbestimmungen** 
+### **Vierter Teil: Schlussbestimmungen** 
 
-## **§ 28** 
+### **§ 28** 
 
-## **Ungültigkeit der Diplomprüfung** 
+### **Ungültigkeit der Diplomprüfung** 
 
 (1) Hat der Kandidat bei der Prüfung getäuscht und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die Noten für diejenigen Prüfungsleistungen, bei deren Erbringung der Kandidat getäuscht hat, entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache 
+(2)<sup>1</sup> Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache 
 
 19 
 
-erst nach Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, so entscheidet der Prüfungsausschuss. 
+erst nach Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, so entscheidet der Prüfungsausschuss. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.[2] Mit dem unrichtigen Prüfungszeugnis ist auch die Diplomurkunde einzuziehen, wenn die Prüfung aufgrund einer Täuschung für "nicht bestanden" erklärt wurde.[3] Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.<sup>2</sup> Mit dem unrichtigen Prüfungszeugnis ist auch die Diplomurkunde einzuziehen, wenn die Prüfung aufgrund einer Täuschung für "nicht bestanden" erklärt wurde.<sup>3</sup> Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
-## **§ 29** 
+### **§ 29** 
 
-## **Einsicht in die Prüfungsakten** 
+### **Einsicht in die Prüfungsakten** 
 
-1Innerhalb eines Jahres nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag in angemessener Frist Einsicht in seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfer und in die Prüfungsprotokolle gewährt.[2] Der Antrag ist beim Vorsitzenden des Prüfungsausschusses zu stellen.[3] War der Kandidat ohne eigenes Verschulden verhindert, die Frist einzuhalten, gilt Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayRS 2010-1-I) entsprechend.[4] Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+1Innerhalb eines Jahres nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag in angemessener Frist Einsicht in seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfer und in die Prüfungsprotokolle gewährt.<sup>2</sup> Der Antrag ist beim Vorsitzenden des Prüfungsausschusses zu stellen.<sup>3</sup> War der Kandidat ohne eigenes Verschulden verhindert, die Frist einzuhalten, gilt Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayRS 2010-1-I) entsprechend.<sup>4</sup> Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
 
-## **§ 30 Inkrafttreten** 
+### **§ 30 Inkrafttreten** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. * 
 
@@ -712,13 +710,13 @@ Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. *
 
 20 
 
-## **Anlage 1** 
+### **Anlage 1** 
 
 zur Prüfungsordnung der Universität Erlangen-Nürnberg für die Diplomprüfung im Studiengang Sportwissenschaft 
 
-## **Kataloge der Sportarten/Sportaktivitäten gemäß § 21 Abs. 1 Nr. 3 und § 25** 
+### **Kataloge der Sportarten/Sportaktivitäten gemäß § 21 Abs. 1 Nr. 3 und § 25** 
 
-## **Abs. 3 Nr. 3 Buchst. A** 
+### **Abs. 3 Nr. 3 Buchst. A** 
 
 - (1) Katalog A: Allgemeine Sportarten/Sportaktivitäten 
 
@@ -772,43 +770,27 @@ zur Prüfungsordnung der Universität Erlangen-Nürnberg für die Diplomprüfung
 
 21 
 
-## **Anlage 2** 
+### **Anlage 2** 
 
 zur Prüfungsordnung der Universität Erlangen-Nürnberg für die Diplomprüfung im Studiengang Sportwissenschaft 
 
-## **Prüfungsanforderungen der Diplomvorprüfung in den praktischen Prüfungen aus den Sportarten/ Sportaktivitäten gemäß § 21 Abs. 1 Nrn. 1 bis 3**[1) ] 
+### **Prüfungsanforderungen der Diplomvorprüfung in den praktischen Prüfungen aus den Sportarten/ Sportaktivitäten gemäß § 21 Abs. 1 Nrn. 1 bis 3**<sup>1)</sup> 
 
-1) _in Anlehnung an die Anlage A ("Prüfungsteile in den Sportpraktischen Prüfungen") und Anlage B ("Wertungstabellen für die sportpraktischen Prüfungen der Diplom-Vorprüfung im Studiengang Sportwissenschaft") der "Rahmenordnung für die Diplomprüfung im Studiengang Sportwissenschaft - an Universitäten und gleichgestellten Hochschulen -" beschlossen von der Konferenz der Rektoren und Präsidenten der Hochschulen am 18.02.1992 und der Ständigen Konferenz der Kultusminister der Länder in der BRD am 12. Juni 1992_ 
+1) _in Anlehnung an die Anlage A ("Prüfungsteile in den Sportpraktischen Prüfungen") und Anlage B ("Wertungstabellen für die sportpraktischen Prüfungen der Diplom-Vorprüfung im Studiengang Sportwissenschaft") der "Rahmenordnung für die Diplomprüfung im Studiengang Sportwissenschaft - an Universitäten und gleichgestellten Hochschulen -" beschlossen von der Konferenz der Rektoren und Präsidenten der Hochschulen am 18.02.1992 und der Ständigen Konferenz der Kultusminister der Länder in der BRD am 12. Juni 1992_ **_In den Sportarten/Sportaktivitäten, in der er geprüft wird, muss der Kandidat keinen Endnachweis erbringen_** 
 
-_**In den Sportarten/Sportaktivitäten, in der er geprüft wird, muss der Kandidat keinen Endnachweis erbringen**_ 
+### (1) **Individualsportarten** (gemäß § 21 Abs. 1 Nr. 1) 
 
-## (1) **Individualsportarten** (gemäß § 21 Abs. 1 Nr. 1) 
+Eine Fachprüfung in einer der folgenden vier Individualsportarten 1. Gerätturnen Vier Prüfungsteile; je ein Prüfungsteil an folgenden Geräten: a) Studenten: - Barren Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 
 
-Eine Fachprüfung in einer der folgenden vier Individualsportarten 1. Gerätturnen Vier Prüfungsteile; je ein Prüfungsteil an folgenden Geräten: a) Studenten: 
-
-- Barren Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 
-
-1 Schwebekippe 
-
-2 Schwungstemme vorwärts 
+1 Schwebekippe 2 Schwungstemme vorwärts 
 
 3 Rolle vorwärts oder rückwärts - Boden Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 
 
-- 1 Handstützüberschlag vorwärts oder rückwärts 
+1 Handstützüberschlag vorwärts oder rückwärts 
 
-2 Salto vorwärts oder rückwärts 
+2 Salto vorwärts oder rückwärts 3 Rolle rückwärts durch den flüchtigen Handstand oder Aufschwung zum Handstand mit halber Drehung - Reck (sprunghoch) Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 1 Kippe 2 Felgumschwung vorlings oder Riesenfelgaufschwung 
 
-3 Rolle rückwärts durch den flüchtigen Handstand oder Aufschwung zum Handstand mit halber Drehung - Reck (sprunghoch) Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 
-
-1 Kippe 
-
-2 Felgumschwung vorlings oder Riesenfelgaufschwung 
-
-3 Hocke, Grätsche oder Abgang mit höherer Schwierigkeit 
-
-(z.B. Salto) - Pferd längs gestellt (1,35) Zwei verschiedene Sprünge, davon einer aus der Gruppe der Stützsprünge (Doppelbrett zugelassen) b) Studentinnen: - Boden Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 
-
-1 Rondat (Radwende) 
+3 Hocke, Grätsche oder Abgang mit höherer Schwierigkeit (z.B. Salto) - Pferd längs gestellt (1,35) Zwei verschiedene Sprünge, davon einer aus der Gruppe der Stützsprünge (Doppelbrett zugelassen) b) Studentinnen: - Boden Je eine mindestens fünfteilige Kürübung mit drei Pflichtelementen: Pflichtelemente: 1 Rondat (Radwende) 
 
 2 Handstützüberschlag vorwärts oder rückwärts 
 
@@ -854,7 +836,7 @@ Gefordert wird das Überlaufen von 6 Hürden mit
 |Hürdenabstand mindes-<br>tens|8,60 m|7,50 m|
 |Hürdenhöhe|0,91 m|0,76 m|
 
-## - Sprung 
+### - Sprung 
 
 Eine der nachfolgenden, nicht in der Leistungsprüfung gewählten Sprungdisziplinen: 
 
@@ -872,9 +854,9 @@ Gefordert wird eine Sprungtechnik (Lauf-, Hang- oder Schrittsprung) nach Wahl de
 
 Eine der nachfolgenden, nicht in der Leistung gewählten Wurf- oder Stoßdisziplinen: 
 
-o Diskuswurf (Studenten 2 kg, Studentinnen 1 kg) mit mindestens 1[1] /2 Drehungen 
+o Diskuswurf (Studenten 2 kg, Studentinnen 1 kg) mit mindestens 1<sup>1</sup> /2 Drehungen 
 
-o Kugelstoß (Studenten 7[1] /4 kg, Studentinnen 4 kg); Rückenstoß oder Drehtechnik 
+o Kugelstoß (Studenten 7<sup>1</sup> /4 kg, Studentinnen 4 kg); Rückenstoß oder Drehtechnik 
 
 o Speerwurf (Studenten 800 g, Studentinnen 600 g) nach mindestens fünf Anlaufschritten, Speerrücknahme, Impulsschritt 
 
@@ -905,7 +887,7 @@ Je eine Leistung aus den Bereichen:
 ||4|26,0 - 27,1 (sek)|4|29,9 - 31,5 (sek)|
 ||5|ab 27,2 (sek)|5|ab 31,6 (sek)|
 |400-m-Lauf (s)|1|bis 54,0 (sek)|1|bis 62,0 (sek)|
-||2|54,1 - 55,8 (sek)|2|62,1 - 64,5 (sek)|
+||2<br>|54,1 - 55,8 (sek)<br>|2<br>|62,1 - 64,5 (sek)<br>|
 ||3|55,9 - 58,0 (sek)|3|64,6 - 68,1 (sek)|
 ||4|58,1 - 61,0 (sek)|4|68,2 - 73,0 (sek)|
 ||5|ab 61,1 (sek)|5|ab 73,1 (sek)|
@@ -917,14 +899,14 @@ Je eine Leistung aus den Bereichen:
 |5000-m-Lauf|1|bis 17:30,0 (min)|1|bis 20:00,0 (min)|
 ||2|17:30,1 - 19:10,0 (min)|2|20:00,1 - 21:50,0 (min)|
 ||3|19:10,1 - 21:00,0 (min)|3|21:50,1 - 23:50,0 (min)|
-||4|21:00,1 - 23:00,0 (min)|4|23:50,1 - 26:00,0 (min)|
+||4|<br>21:00,1 - 23:00,0 (min)|4|<br>23:50,1 - 26:00,0 (min)|
 ||5|ab 23:00,1 (min)|5|ab 26:00,1 (min)|
 
 24 
 
 |Weitsprung|1|ab 6,30 (m)|1|ab 5,00 (m)|
 |---|---|---|---|---|
-||2|6,29 - 5,95 (m)|2|4,99 - 4,75 (m)|
+||2|<br>6,29 - 5,95 (m)|2|<br>4,99 - 4,75 (m)|
 ||3|5,94 - 5,55 (m)|3|4,74 - 4,40 (m)|
 ||4|5,54 - 5,10 (m)|4|4,39 - 4,00 (m)|
 ||5|unter 5,10 (m)|5|unter 4,00 (m)|
@@ -935,7 +917,7 @@ Je eine Leistung aus den Bereichen:
 ||5|unter 1,48 (m)|5|unter 1,23 (m)|
 |Kugelstoß|1|ab 11,10 (m)|1|ab 10,00 (m)|
 |M = 7,25 kg|2|11,09 - 10,40 (m)|2|9,99 - 9,25 (m)|
-|F = 4,00 kg|3|10,39 - 9,60 (m)|3|9,24 - 8,40 (m)|
+|<br>F = 4,00 kg|3|10,39 - 9,60 (m)|3|9,24 - 8,40 (m)|
 ||4|9,59 - 8,60 (m)|4|8,39 - 7,45 (m)|
 ||5|unter 8,60 (m)|5|unter 7,45 (m)|
 |Speerwurf|1|ab 48,00 (m)|1|ab 33,00 (m)|
@@ -944,9 +926,9 @@ Je eine Leistung aus den Bereichen:
 ||4|34,49 - 27,00 (m)|4|25,99 - 21,00 (m)|
 ||5|unter 27,00 (m)|5|unter 21,00 (m)|
 |Diskuswurf|1|ab 34,00 (m)|1|ab 31,00 (m)|
-|M = 2 kg|2|33,99 - 30,50 (m)|2|30,99 - 28,00 (m)|
+|M = 2 kg|2|<br>33,99 - 30,50 (m)|2|<br>30,99 - 28,00 (m)|
 |F = 1 kg|3|30,49 - 26,50 (m)|3|27,99 - 24,50 (m)|
-||4|26,49 - 22,00 (m)|4|24,49 - 20,50 (m)|
+||4|<br>26,49 - 22,00 (m)|4|<br>24,49 - 20,50 (m)|
 ||5|unter 22,00 (m)|5|unter 20,50 (m)|
 
 4. Schwimmen Vier Prüfungsteile 
@@ -965,7 +947,7 @@ Die unter Buchst. a gewählte Schwimmart darf unter Buchst. b nicht erneut heran
 
 25 
 
-## Wertungstabellen: 
+### Wertungstabellen: 
 
 |Sportart|Note|Leistung Studenten|Note|Leistung Studentinnen|
 |---|---|---|---|---|
@@ -990,7 +972,7 @@ Die unter Buchst. a gewählte Schwimmart darf unter Buchst. b nicht erneut heran
 ||4|1:33,1 - 1:41,0 (min)|4|1:43,1 - 1:51,0 (min)|
 ||5|ab 1:41,1 (min)|5|ab 1:51,1 (min)|
 
-## (2) **Mannschaftssportarten** (gemäß § 21 Abs. 1 Nr. 2) 
+### (2) **Mannschaftssportarten** (gemäß § 21 Abs. 1 Nr. 2) 
 
 Eine Fachprüfung, bestehend aus einer Technik- und einer Leistungsprüfung, in einer der nachfolgenden vier Mannschaftssportarten: 
 
@@ -998,7 +980,7 @@ Eine Fachprüfung, bestehend aus einer Technik- und einer Leistungsprüfung, in 
 
 a) Technikprüfung: Demonstration von zwei spielspezifischen Komplexübungen b) Leistungsprüfung: Spiel von mindestens 2 x 30 Minuten Zur Auswahl der Komplexübungen siehe Absatz 5 der **Anlage 2.** 
 
-## (3) **Sportarten/Sportaktivitäten** (gemäß § 21 Abs. 1 Nr. 3) 
+### (3) **Sportarten/Sportaktivitäten** (gemäß § 21 Abs. 1 Nr. 3) 
 
 Eine Fachprüfung, bestehend aus einer Technik- und einer Leistungsprüfung, in einer der allgemeinen oder spielorientierten Sportarten/Sportaktivitäten aus den Katalogen A und B der **Anlage 1** 
 
@@ -1042,15 +1024,15 @@ Die Dauer der Einzelleistung beträgt 1 bis 1 ½ Minuten, die Dauer der Gruppeng
 
 Prüfungsanforderungen der Diplomprüfung in den praktischen Prüfungen aus den Sportarten/Sportdisziplinen gemäß § 25 Abs. 3 Nr. 3 Buchst. a 
 
-## (1) **Musisch-tänzerische Bewegungsformen** 
+### (1) **Musisch-tänzerische Bewegungsformen** 
 
 Demonstration: Eine Einzel- oder Gruppengestaltung nach selbstgewählter Musik (Dauer der Einzelgestaltung: 60 bis 90 Sekunden; Dauer der Gruppengestaltung: zwei bis drei Minuten). Wird eine Gruppengestaltung gewählt, so hat der zu prüfende Kandidat diese zu konzipieren und in ihr mitzuwirken. 
 
 Leistung: Ein Pflichttanz mit mindestens zwei Grundelementen (Gehen, Laufen, Hüpfen oder Springen und deren Variationen) 
 
-## (2) **Ausdauerorientierte Sportaktivitäten/Sportarten** 
+### (2) **Ausdauerorientierte Sportaktivitäten/Sportarten** 
 
-## 1. Eisschnelllauf 
+### 1. Eisschnelllauf 
 
 Demonstration: Start- und Lauftechnik 
 
@@ -1058,7 +1040,7 @@ Lauf nach Zeit über eine der folgenden Strecken nach Wahl des PrüLeistung: fun
 
 Studenten: 500 m, 1.000 m, 1.500 m, 3.000 m Studentinnen: 500 m, 1.000 m, 1.500 m 
 
-## Wertungstabelle Eisschnelllauf Studenten 
+### Wertungstabelle Eisschnelllauf Studenten 
 
 |Note|500 m|1.000 m|1.500 m|3.000 m|
 |---|---|---|---|---|
@@ -1074,7 +1056,7 @@ Studenten: 500 m, 1.000 m, 1.500 m, 3.000 m Studentinnen: 500 m, 1.000 m, 1.500 
 |4,0|56,41-57,00|1:55,81-1:57,00|2:57,21-2:59,00|6:13,61-6:18,00|
 |5,0|ab 57,01|ab 1:57,01|ab 2:59,01|ab 6:18,01|
 
-## Wertungstabelle Eisschnelllauf Studentinnen 
+### Wertungstabelle Eisschnelllauf Studentinnen 
 
 |Note|500 m|1.000 m|1.500 m|
 |---|---|---|---|
@@ -1092,19 +1074,19 @@ Studenten: 500 m, 1.000 m, 1.500 m, 3.000 m Studentinnen: 500 m, 1.000 m, 1.500 
 
 29 
 
-## 2. Kanu/Kajak 
+### 2. Kanu/Kajak 
 
 Demonstration: Paddel- und Steuertechnik im Kajak-Einer einschließlich Ab- und Anlegen über ca. 300 m Leistung: Ausführung von Bootsmanövern im Kajak-Einer auf einer Flussstrecke von ca. 300 m (Schwierigkeitsgrad bis WW III). Zur Auswahl der Flussstrecke und der Manöver siehe Absatz 4 der **Anlage 3** 
 
-## 3. Radsport 
+### 3. Radsport 
 
 Demonstration: Befahren eines Kriteriums mit dem Rennrad und eines Geschicklichkeitsparcours mit dem Mountainbike Leistung: Zeitfahren über 4.000 m Zur Auswahl der Fahrstrecke und Festlegung der Wertungstabelle siehe Absatz 4 der **Anlage 3** 
 
-## 4. Rudern 
+### 4. Rudern 
 
 Demonstration: Ruder- und Steuertechnik im Einer einschließlich Ab- und Anlegen Leistung: Zeitfahren im Renn-Einer über eine Strecke von 1.000 m 
 
-|**Wertungstabelle Rudern Studenten**|**Wertungstabelle Rudern Studenten**|**Wertungstabelle Rudern Studentinnen**|**Wertungstabelle Rudern Studentinnen**|
+|**Wertun**|**gstabelle Rudern Studenten**|**Wertung**|**stabelle Rudern Studentinnen**|
 |---|---|---|---|
 |Note|1.000 m|Note|1.000 m|
 |1,0|bis 4:20,00|1,0|bis 5:00,00|
@@ -1119,37 +1101,43 @@ Demonstration: Ruder- und Steuertechnik im Einer einschließlich Ab- und Anlegen
 |4,0|4:47,01 - 4:50,00|4,0|5:27,01 - 5:30,00|
 |5,0|ab 4:50,01|5,0|ab 5:30,01|
 
-## 5. Skilanglauf 
+### 5. Skilanglauf 
 
-Demonstration: Zwei komplexe Lauftechniken im Gelände 
-
-5.000 m nach Zeit Leistung: Zur Auswahl der Laufstrecke und Festlegung der Wertungstabelle siehe Absatz 4 der **Anlage 3** 
+Demonstration: Zwei komplexe Lauftechniken im Gelände 5.000 m nach Zeit Leistung: Zur Auswahl der Laufstrecke und Festlegung der Wertungstabelle siehe Absatz 4 der **Anlage 3** 
 
 30 
 
-## (3) **Erlebnisorientierte Sportaktivitäten/Sportarten** 
+### (3) **Erlebnisorientierte Sportaktivitäten/Sportarten** 
 
-## 1. Golf 
+### 1. Golf 
 
 Demonstration: Zwei komplexe Schlagtechniken 
 
 1 Durchgang auf einer 9-Loch-Platzanlage Leistung: mit folgenden Schlägen: 1,0 45 Schläge und weniger 1,3 46 Schläge 1,7 47 Schläge 2,0 48 Schläge 2,3 49 Schläge 2,7 50 Schläge 3,0 51 Schläge 3,3 52 Schläge 3,7 53 Schläge 4,0 54 Schläge 5,0 55 Schläge und mehr 
 
-## 2. Klettern 
+### 2. Klettern 
 
-Demonstration: Zwei Technikformen. Demonstriert werden je eine Aufgabe aus dem Bereich Sicherungstechnik und dem Bereich Klettertechnik Leistung: Sturzfreies Durchsteigen einer Kletterroute. Der bewältigte Schwierigkeitsgrad definiert die Note. Der Prüfling wählt seine Kletterroute (Schwierigkeitsgrad) aus. 
+- Demonstration: Zwei Technikformen. Demonstriert werden je eine Aufgabe aus dem Bereich Sicherungstechnik und dem Bereich Klettertechnik 
 
-## 3. Segeln 
+- Leistung: Sturzfreies Durchsteigen einer Kletterroute. Der bewältigte Schwierigkeitsgrad definiert die Note. Der Prüfling wählt seine Kletterroute (Schwierigkeitsgrad) aus. 
 
-Demonstration: Zwei komplexe Bootsmanöver Leistung: Zielorientiertes Befahren eines olympischen Dreieckskurses oder vollständiges Absegeln eines ausgedehnten Kreises bei mindestens zwei Bft Wind. Die Leistung in der Rolle des Vorschoters und das verkehrsgerechte Verhalten fließen in die Bewertung ein. 
+### 3. Segeln 
 
-## 4. Snowboard 
+Demonstration: Zwei komplexe Bootsmanöver 
 
-Demonstration: Zwei selbstgewählte Aufgabenstellungen aus drei vorgegebenen Techniken Leistung: Freies geländeangepasstes Fahren auf mehreren Teilstrecken. Zur Auswahl der Fahrstrecke siehe Absatz 4 der **Anlage 3** 
+- Leistung: Zielorientiertes Befahren eines olympischen Dreieckskurses oder vollständiges Absegeln eines ausgedehnten Kreises bei mindestens zwei Bft Wind. Die Leistung in der Rolle des Vorschoters und das verkehrsgerechte Verhalten fließen in die Bewertung ein. 
 
-## 5. Surfen 
+### 4. Snowboard 
 
-Demonstration: Zwei komplexe Techniken Leistung: Freies Fahren auf verschiedenen Kursen Zur Auswahl der Fahrstrecke siehe Absatz 4 der **Anlage 3** 
+- Demonstration: Zwei selbstgewählte Aufgabenstellungen aus drei vorgegebenen Techniken 
+
+- Leistung: Freies geländeangepasstes Fahren auf mehreren Teilstrecken. Zur Auswahl der Fahrstrecke siehe Absatz 4 der **Anlage 3** 
+
+### 5. Surfen 
+
+Demonstration: Zwei komplexe Techniken 
+
+Leistung: Freies Fahren auf verschiedenen Kursen Zur Auswahl der Fahrstrecke siehe Absatz 4 der **Anlage 3** 
 
 (4) Die Prüfungsaufgaben werden von der für die Durchführung des Diplomstudiengangs Sportwissenschaft zuständigen Einrichtung der Universität festgelegt. 
 

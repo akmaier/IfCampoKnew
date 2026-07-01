@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:45:27+00:00
+scraped_at: 2026-07-01T08:22:09+00:00
 ---
 
 # GeoNachhaltigkeit (B.Sc.)
@@ -151,7 +151,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.gzn.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Geonachhaltigkeit_BScAdobeStock_1514520723-1.jpg)
+- [gabby261 - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/06/Geonachhaltigkeit-MSc-AdobeStock_897485105-bearb3-1920x540-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

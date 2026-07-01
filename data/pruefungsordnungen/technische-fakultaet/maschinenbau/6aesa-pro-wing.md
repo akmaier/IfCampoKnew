@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. August 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AeSa-PrO-Wing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:16+00:00
-page_count_chars: 2754
+scraped_at: 2026-07-01T11:46:27+00:00
+page_count_chars: 2750
 ---
 
 # 4. August 2005
@@ -12,13 +12,13 @@ page_count_chars: 2754
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AeSa-PrO-Wing.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
-## Vom  4. August 2005 
+# Vom  4. August 2005 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## § 1 
+# § 1 
 
 Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg vom 2. Januar 2001 (KWMBl II 2002 S. 2), zuletzt geändert durch Satzung vom 11. August 2004, wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaf
 
 - b) In Abs. 4 wird nach Nr. 4 angefügt: „5. Unternehmensführung“. 
 
-## § 2 
+# § 2 
 
 - (1) Diese Satzung tritt am Tage nach ihrer Bekanntgabe in Kraft. 
 

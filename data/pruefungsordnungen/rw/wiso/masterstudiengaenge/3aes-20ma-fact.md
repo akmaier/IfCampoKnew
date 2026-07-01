@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-FACT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:26+00:00
-page_count_chars: 12178
+scraped_at: 2026-07-01T11:01:50+00:00
+page_count_chars: 12374
 ---
 
 # 8. März 2011
@@ -14,7 +14,7 @@ page_count_chars: 12178
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. März 2011 
+# Vom 8. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -22,7 +22,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 20. Juli 2009, zuletzt geändert durch Satzung vom 23. Februar 2010, wird wie folgt geändert: 
 
-1. § 3 wird wie folgt geändert: 
+# 1. § 3 wird wie folgt geändert: 
 
    - a) In Abs. 2 erhalten die Nrn. 1 bis 5 folgende neue Fassung: 
 
@@ -44,9 +44,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
 2. Es wird folgender neuer § 5 eingefügt: 
 
-## „ **§ 5 Zertifikat Wirtschaftrecht** 
+# „ **§ 5 Zertifikat Wirtschaftrecht** 
 
-(1)[1] Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Wirtschaftsrecht“ erwerben. 2Mit dem „Zertifikat Wirtschaftsrecht“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen in Bezug auf das Fach Wirtschaftsrecht nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Wirtschaftsrecht im Sinne des § 13b 
+(1)<sup>1</sup> Studierende, die im Masterstudiengang FACT immatrikuliert sind, können parallel zum Studium das „Zertifikat Wirtschaftsrecht“ erwerben. 2Mit dem „Zertifikat Wirtschaftsrecht“ weisen die Inhaberinnen und Inhaber Prüfungsleistungen in Bezug auf das Fach Wirtschaftsrecht nach, die den in § 4 der Wirtschaftsprüferprüfungsverordnung in der jeweils geltenden Fassung (WiPrPrüfV) aufgeführten Anforderung des Prüfungsgebiets Wirtschaftsrecht im Sinne des § 13b 
 
 der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichwertig angerechnet werden können. 
 
@@ -62,11 +62,11 @@ der Wirtschaftsprüferordnung in der jeweils geltenden Fassung (WPO) als gleichw
 
 im Rahmen des Masterstudiengangs Finance, Auditing, Controlling, Taxation voraus. 
 
-(3)[1] Die Eingangskompetenzprüfung ist vor Ablegung der in Abs. 2 genannten Module erfolgreich zu absolvieren.[2] Sie dient der Überprüfung der nach dem Referenzrahmen gemäß § 4 Wirtschaftsprüferexamens-Anrechnungsverordnung geforderten Eingangskompetenzausprägungen und kann sich auf alle Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung erstrecken.[3] Die Eingangskompetenzprüfung findet jeweils zu Beginn und Mitte des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.[4] Die Prüfung wird in schriftlicher Form mit einer Dauer von 120 Minuten vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen. 5Die Bewertung lautet bestanden oder nicht bestanden. 6Die Eingangskompetenzprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die zu Prüfenden bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 6 der Wirtschaftsprüferprüfungsverordnung ihr erworbenes Wissen anwenden und eigene Interpretationen erstellen, Einzelfälle angemessen lösen und die Ergebnisse auswerten können, bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung die wesentlichen Definitionen und die herrschende Meinung wiedergeben können, sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 5 der Wirtschaftsprüferprüfungsverordnung das Wissen ordnen, es systematisch wiedergeben und Probleme erkennen können. (4)[1] Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung. 2Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.[3] Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen. 4Die Bewertung lautet bestanden oder nicht bestanden.[5] Die Abschlussprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die Bewerberin/ der Bewerber bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 5 und Nr. 6 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann, sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.[7] § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
+(3)<sup>1</sup> Die Eingangskompetenzprüfung ist vor Ablegung der in Abs. 2 genannten Module erfolgreich zu absolvieren.<sup>2</sup> Sie dient der Überprüfung der nach dem Referenzrahmen gemäß § 4 Wirtschaftsprüferexamens-Anrechnungsverordnung geforderten Eingangskompetenzausprägungen und kann sich auf alle Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung erstrecken.<sup>3</sup> Die Eingangskompetenzprüfung findet jeweils zu Beginn und Mitte des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.<sup>4</sup> Die Prüfung wird in schriftlicher Form mit einer Dauer von 120 Minuten vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen. 5Die Bewertung lautet bestanden oder nicht bestanden. 6Die Eingangskompetenzprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die zu Prüfenden bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 6 der Wirtschaftsprüferprüfungsverordnung ihr erworbenes Wissen anwenden und eigene Interpretationen erstellen, Einzelfälle angemessen lösen und die Ergebnisse auswerten können, bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung die wesentlichen Definitionen und die herrschende Meinung wiedergeben können, sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 5 der Wirtschaftsprüferprüfungsverordnung das Wissen ordnen, es systematisch wiedergeben und Probleme erkennen können. (4)<sup>1</sup> Die Zertifikatsabschlussprüfung erstreckt sich auf sämtliche Prüfungsgebiete nach § 4 C Nr. 1 bis Nr. 6 der Wirtschaftsprüferprüfungsverordnung. 2Die Zertifikatsabschlussprüfung findet jeweils am Ende des Semesters zu einem ortsüblich bekannt gemachten Termin statt; die Anmeldung erfolgt beim Lehrstuhl für Wirtschaftsprivatrecht.<sup>3</sup> Die Zertifikatsabschlussprüfung wird in mündlicher Form mit einer Dauer von 30 Minuten als Einzel- oder Gruppenprüfung von max. vier Personen vom Lehrstuhl für Wirtschaftsprivatrecht abgenommen. 4Die Bewertung lautet bestanden oder nicht bestanden.<sup>5</sup> Die Abschlussprüfung ist als bestanden zu bewerten, sofern die Prüfungsleistung erkennen lässt, dass die Bewerberin/ der Bewerber bezüglich der Prüfungsgebiete nach § 4 C Nr. 1, Nr. 3, Nr. 4, Nr. 5 und Nr. 6 der Wirtschaftsprüferprüfungsverordnung Werturteile abgeben, Vergleiche heranziehen und richtige Schlussfolgerungen ziehen, Prognosen erstellen und die eigenen Aussagen rechtfertigen kann, sowie bezüglich des Prüfungsgebiets nach § 4 C Nr. 2 der Wirtschaftsprüferprüfungsverordnung komplexe Problemstellungen erkennen und auf Basis der erworbenen Erfahrung analysieren kann.<sup>7</sup> § 18 Abs. 1 S. 2 und Abs. 3 MPOWIWI gelten entsprechend. 
 
-(5)[1] Für die Eingangskompetenz- und die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend. 2Für die zusätzlich abgelegten Eingangskompetenz- und die Zertifikatsabschlussprüfung werden keine ECTSPunkte vergeben. 
+(5)<sup>1</sup> Für die Eingangskompetenz- und die Zertifikatsabschlussprüfung gelten in Bezug auf die Wiederholung, den Rücktritt, Täuschung/Ordnungsverstoß und Bewertung die Regelungen der MPOWIWI entsprechend. 2Für die zusätzlich abgelegten Eingangskompetenz- und die Zertifikatsabschlussprüfung werden keine ECTSPunkte vergeben. 
 
-(6)[1] Nach Bestehen der in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Wirtschaftsprivatrecht das „Zertifikat Wirtschaftsrecht“.[2] Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums 
+(6)<sup>1</sup> Nach Bestehen der in Abs. 2 erforderlichen Leistungen erteilt der Lehrstuhl für Wirtschaftsprivatrecht das „Zertifikat Wirtschaftsrecht“.<sup>2</sup> Auf dem Zertifikat wird vermerkt, welche Leistungsnachweise erfolgreich innerhalb welches Zeitraums 
 
 erbracht wurden und an welchem Datum die Eingangskompetenzprüfung und die mündliche Zertifikatsabschlussprüfung erfolgreich vor welchem Prüfenden abgelegt wurden. 3Das Zertifikat ist vom Lehrstuhlinhaber des Lehrstuhls für Wirtschaftsprivatrecht zu unterzeichnen.“ 
 
@@ -74,13 +74,13 @@ erbracht wurden und an welchem Datum die Eingangskompetenzprüfung und die münd
 
 4. Es wird folgende neue Anlage 1 eingefügt: 
 
-## „ **Anlage 1: Zugangstest** 
+# „ **Anlage 1: Zugangstest** 
 
 1. Zweck des Zugangstests 1Der Zugangstests soll zeigen, ob die Bewerberin/der Bewerber die für den Masterstudiengang Finance Auditing Controlling Taxation die erforderlichen Vorkenntnisse aus den masterspezifischen Fachgebieten besitzen. 
 
 2. Testverfahren 
 
-- 2.1 1Der Zugangstest wird jeweils spätestens einen Monat vor Ende der Bewerbungsfrist für den Masterstudiengang gemäß Nr. 2.2 der Anlage MPOWIWI zum Sommersemester im Dezember und zum Wintersemester im April jeweils ein Mal durchgeführt.[2] Der Termin für den Zugangstest wird auf den Internetseiten des Masterstudiengangs FACT spätesten vier Wochen vor dessen Durchführung bekannt gemacht. 
+- 2.1 1Der Zugangstest wird jeweils spätestens einen Monat vor Ende der Bewerbungsfrist für den Masterstudiengang gemäß Nr. 2.2 der Anlage MPOWIWI zum Sommersemester im Dezember und zum Wintersemester im April jeweils ein Mal durchgeführt.<sup>2</sup> Der Termin für den Zugangstest wird auf den Internetseiten des Masterstudiengangs FACT spätesten vier Wochen vor dessen Durchführung bekannt gemacht. 
 
 - 2.2 1Die Anmeldung zur Teilnahme am Zugangstest erfolgt bis spätestens drei Tage vor dem Termin des Zugangstests über die Internetseite des Masterstudiengangs FACT (Ausschlussfrist). 
 
@@ -88,21 +88,21 @@ erbracht wurden und an welchem Datum die Eingangskompetenzprüfung und die münd
 
 3. Prüfer 
 
-   - 1Die Koordination, die Durchführung und Bewertung des Zugangstest obliegt der Zulassungskommission gemäß § 11 MPOWIWI des Masterstudiengangs FACT.[2] Die Zulassungskommission kann die Koordination und Durchführung sowie Bewertung des Zugangstests einzelnen von ihr beauftragten Mitgliedern übertragen. 
+   - 1Die Koordination, die Durchführung und Bewertung des Zugangstest obliegt der Zulassungskommission gemäß § 11 MPOWIWI des Masterstudiengangs FACT.<sup>2</sup> Die Zulassungskommission kann die Koordination und Durchführung sowie Bewertung des Zugangstests einzelnen von ihr beauftragten Mitgliedern übertragen. 
 
 4. Durchführung des Zugangstests und Bewertung 
 
-- 4.1 1Der Zugangstest wird in schriftlicher Form mit einer Dauer von 120 Minuten durchgeführt.[2] Er umfasst Aufgabenstellungen aus den Bereichen externe Rechnungslegung, Kostenrechnung, Controlling, Investition, Finanzierung und Steuer/Finanzwissenschaft. 
+- 4.1 1Der Zugangstest wird in schriftlicher Form mit einer Dauer von 120 Minuten durchgeführt.<sup>2</sup> Er umfasst Aufgabenstellungen aus den Bereichen externe Rechnungslegung, Kostenrechnung, Controlling, Investition, Finanzierung und Steuer/Finanzwissenschaft. 
 
-- 4.2 1Für die Bewertung und Notenstufen im Zugangstest gilt § 19 Abs. 1 Satz 1 MPOWIWI entsprechend.[2] Der Zugangstest ist bestanden, wenn er mindestens mit der Note „gut“ bewertet ist. 
+- 4.2 1Für die Bewertung und Notenstufen im Zugangstest gilt § 19 Abs. 1 Satz 1 MPOWIWI entsprechend.<sup>2</sup> Der Zugangstest ist bestanden, wenn er mindestens mit der Note „gut“ bewertet ist. 
 
 - 4.3 Das Ergebnis des Zugangstests wird der Bewerberin / dem Bewerber spätestens eine Woche vor Ende der Bewerbungsfrist per E-Mail mitgeteilt. 
 
 5. Rücktritt, Versäumnis, Wiederholung 
 
-- 5.1 1Ein Rücktritt kann spätestens bis zum dritten Tag vor dem Zugangstest ohne nachteilige Folgen per E-Mail bei der Zulassungskommission erfolgen.[2] Ein Rücktritt bis vor Beginn des Zugangstest kann nur aus Gründen, die die Bewerberin / der Bewerber nicht zu vertreten (z. B. krankheitsbedingte 
+- 5.1 1Ein Rücktritt kann spätestens bis zum dritten Tag vor dem Zugangstest ohne nachteilige Folgen per E-Mail bei der Zulassungskommission erfolgen.<sup>2</sup> Ein Rücktritt bis vor Beginn des Zugangstest kann nur aus Gründen, die die Bewerberin / der Bewerber nicht zu vertreten (z. B. krankheitsbedingte 
 
-Prüfungsunfähigkeit) hat erfolgen.[3] Die Gründe nach Satz 2 müssen der Zulassungskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[4] Ein Rücktritt nach Beginn der Prüfungszeit ist ausgeschlossen. 
+Prüfungsunfähigkeit) hat erfolgen.<sup>3</sup> Die Gründe nach Satz 2 müssen der Zulassungskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>4</sup> Ein Rücktritt nach Beginn der Prüfungszeit ist ausgeschlossen. 
 
    - 5.2 Bei verspätetem bzw. nicht ordnungsgemäßem Rücktritt oder Versäumnis des Zugangstests gilt dieser als nicht bestanden. 
 
@@ -122,9 +122,9 @@ Prüfungsunfähigkeit) hat erfolgen.[3] Die Gründe nach Satz 2 müssen der Zula
 
 7. In Anlage 3 (neu) wird in der Tabelle Zeile 27 Spalte 1 (Modul: Theorie und Politik der Besteuerung) das Wort „Politik“ durch das Wort „Empirie“ ersetzt, in Spalte 3 (SS 2) die Zahl „5“ gestrichen und in Spalte 4 (WS 3) die Zahl „5“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
-(1)[1] Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle, die ab dem Wintersemester 2011/2012 das Studium im Masterstudiengang aufnehmen. (2)[1] Abweichend von Abs. 1 S. 2 gilt Nr. 2 (neuer § 5) auch für bereits eingeschriebene Studierende, mit der Maßgabe, dass auf die Eingangskompetenz- prüfung verzichtet werden kann, soweit bereits Module gemäß § 5 Abs. 2 Nrn. 1 bis 4 abgelegt wurden. 2Die Entscheidung trifft der Lehrstuhl für Wirtschaftsprivatrecht. 
+(1)<sup>1</sup> Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle, die ab dem Wintersemester 2011/2012 das Studium im Masterstudiengang aufnehmen. (2)<sup>1</sup> Abweichend von Abs. 1 S. 2 gilt Nr. 2 (neuer § 5) auch für bereits eingeschriebene Studierende, mit der Maßgabe, dass auf die Eingangskompetenz- prüfung verzichtet werden kann, soweit bereits Module gemäß § 5 Abs. 2 Nrn. 1 bis 4 abgelegt wurden. 2Die Entscheidung trifft der Lehrstuhl für Wirtschaftsprivatrecht. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 21. Februar 2011 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Steinrück vom 2. März 2011. 
 

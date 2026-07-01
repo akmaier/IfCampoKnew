@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. März 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/7AeSa-PrO-Biol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:31:23+00:00
-page_count_chars: 1943
+scraped_at: 2026-07-01T08:54:51+00:00
+page_count_chars: 1959
 ---
 
 # 5. März 2004
@@ -18,7 +18,7 @@ Vom 5. März 2004
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Diplomprüfungsordnung für Studenten der Biologie an der Friedrich-AlexanderUniversität Erlangen-Nürnberg vom 16. Januar 1991 (KWMBl II S. 186), zuletzt geändert durch Satzung vom 31. Oktober 2003 (KWMBl II 2004 S. .........), wird wie folgt geändert: 
 
@@ -28,11 +28,11 @@ Die Diplomprüfungsordnung für Studenten der Biologie an der Friedrich-Alexande
 
 a) Sätze 1 und 2 erhalten folgende Fassung: 
 
-"[1] Die Diplomarbeit kann von jedem hauptamtlich in der Naturwissenschaftlichen Fakultät II (Biologie, Chemie und Pharmazie) beschäftigten Hochschullehrer ausgegeben und betreut werden.[2] Im Einvernehmen mit der Diplomprüfungskommission kann im Einzelfall auch anderen Hochschullehrern die Ausgabe und Betreuung einer Diplomarbeit genehmigt werden." 
+"<sup>1</sup> Die Diplomarbeit kann von jedem hauptamtlich in der Naturwissenschaftlichen Fakultät II (Biologie, Chemie und Pharmazie) beschäftigten Hochschullehrer ausgegeben und betreut werden.<sup>2</sup> Im Einvernehmen mit der Diplomprüfungskommission kann im Einzelfall auch anderen Hochschullehrern die Ausgabe und Betreuung einer Diplomarbeit genehmigt werden." 
 
 b) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

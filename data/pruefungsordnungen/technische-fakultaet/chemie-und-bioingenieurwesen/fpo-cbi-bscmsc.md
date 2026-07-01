@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.12.2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO_CBI_BScMSc.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:49+00:00
-page_count_chars: 16502
+scraped_at: 2026-07-01T11:21:57+00:00
+page_count_chars: 16632
 ---
 
 # PDF vom 05.12.2008
@@ -22,7 +22,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 34 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Chemie- und Bioingenieurswesen mit den Abschlusszielen Bachelor und Master.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Chemie- und Bioingenieurswesen mit den Abschlusszielen Bachelor und Master.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
 
 ## **§ 35 Bachelorstudiengang, Regelstudienzeit** 
 
@@ -40,7 +40,7 @@ Die Regelstudienzeit im Bachelorstudiengang Chemie- und Bioingenieurwesen beträ
 
 ## **§ 37 Umfang der Grundlagen- und Orientierungsprüfung** 
 
-- (1)[1] Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
+- (1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
 
 1 
 
@@ -124,7 +124,7 @@ Die Regelstudienzeit im Bachelorstudiengang Chemie- und Bioingenieurwesen beträ
 
 ## **§ 39 Bachelorarbeit** 
 
-- (1) 1Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Chemie- und Bioingenieurwesen zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.[5] Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
+- (1) 1Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Chemie- und Bioingenieurwesen zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
 
 - (2) Das Thema der Bachelorarbeit wird von einer oder einem in der Technischen Fakultät hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer des Chemie- und Bioingenieurwesens ausgegeben. 
 
@@ -154,7 +154,7 @@ Das Zeugnis nennt neben den in § 21 Abs. 2 Satz 1 ABMPO/TechFak bestimmten Inha
 
 - (2) Vertiefungsmodule (Module **M1** , **M4** ) sind entsprechend dem Katalog in **Anlage 4** (Punkt 4.1) zu wählen. 
 
-- (3) 1Der Wahlpflichtfachkatalog wird zu Beginn eines jeden Semesters vom Prüfungsausschuss in aktualisierter Form ortsüblich bekannt gegeben.[2] Weitere Wahlpflichtfächer können die verbleibenden Vertiefungsfächer sein.[ 3] Andere in einem sinnvollen Zusammenhang mit dem Studium stehende Wahlpflichtfächer können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden. 
+- (3) 1Der Wahlpflichtfachkatalog wird zu Beginn eines jeden Semesters vom Prüfungsausschuss in aktualisierter Form ortsüblich bekannt gegeben.<sup>2</sup> Weitere Wahlpflichtfächer können die verbleibenden Vertiefungsfächer sein.<sup>3</sup> Andere in einem sinnvollen Zusammenhang mit dem Studium stehende Wahlpflichtfächer können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden. 
 
 3 
 
@@ -198,7 +198,7 @@ Dem Antrag auf Zulassung zur Prüfung in den Vertiefungs- und Wahlpflichtmodulen
 
    4. das Thema der Masterarbeit 
 
-und den zugehörigen Noten. 
+   - und den zugehörigen Noten. 
 
 4 
 
@@ -210,7 +210,7 @@ und den zugehörigen Noten.
 
 - (2) 1Alle Studierenden, die sich zum WS 2008/2009 im Diplom-, Bachelor- oder Masterstudiengang Chemie- und Bioingenieurwesen an der Universität Erlangen-Nürnberg befinden, beenden ihr Studium nach der Fachprüfungsordnung für den Diplomstudiengang Chemie- und Bioingenieurwesen (FPOCBI-Diplom) vom 17. November 2004 bzw. nach der Fachprüfungsordnung für das Bachelorund Masterstudium Chemie- und Bioingenieurwesen (FPOCBI-BscMsc) vom 1. Februar 2005. 
 
-- (3) 1Studierende, die zum WS 2008/2009 im Diplom- und Bachelorstudiengang Chemie und Bioingenieurwesen an der Universität Erlangen-Nürnberg mit dem dritten Studiensemester beginnen, können innerhalb eines Jahres auf Antrag in den Bachelorstudiengang nach dieser Fachprüfungsordnung wechseln, soweit sie bereits 60 ECTS Punkte erworben haben. Die Frist nach Satz 1 endet mit Ablauf des Sommersemesters 2009.[3] Die Anrechnung von Studienzeiten und bereits erbrachten Studien- und Prüfungsleistungen bestimmt sich nach § 12 ABMPO/TechFak in der jeweils geltenden Fassung. 
+- (3) 1Studierende, die zum WS 2008/2009 im Diplom- und Bachelorstudiengang Chemie und Bioingenieurwesen an der Universität Erlangen-Nürnberg mit dem dritten Studiensemester beginnen, können innerhalb eines Jahres auf Antrag in den Bachelorstudiengang nach dieser Fachprüfungsordnung wechseln, soweit sie bereits 60 ECTS Punkte erworben haben. Die Frist nach Satz 1 endet mit Ablauf des Sommersemesters 2009.<sup>3</sup> Die Anrechnung von Studienzeiten und bereits erbrachten Studien- und Prüfungsleistungen bestimmt sich nach § 12 ABMPO/TechFak in der jeweils geltenden Fassung. 
 
 - (4) 1Die Prüfungen der Diplomvor- und Diplomhauptprüfung für Studierende des Diplomstudiengangs werden in folgenden Prüfungszeiträumen letztmalig angeboten: 
 
@@ -218,7 +218,7 @@ und den zugehörigen Noten.
 
    2. Diplomhauptprüfung nach dem Sommersemester 2014. 
 
-   - 3Die Bachelorprüfung für die Studierenden nach FPOCBI-BscMsc vom 1. Februar 2005 wird bis zu Beginn der Lehrveranstaltungen des Sommersemesters 2013 letztmalig angeboten.[4] Die letzte Masterprüfung für die Studentinnen und Studenten nach Satz 1 wird bis zu Beginn der Lehrveranstaltungen des Sommersemesters 2011 letztmalig angeboten.[5] Prüfungen nach diesen Prüfungsterminen müssen nach dieser Fachprüfungsordnung abgelegt werden. 
+   - 3Die Bachelorprüfung für die Studierenden nach FPOCBI-BscMsc vom 1. Februar 2005 wird bis zu Beginn der Lehrveranstaltungen des Sommersemesters 2013 letztmalig angeboten.<sup>4</sup> Die letzte Masterprüfung für die Studentinnen und Studenten nach Satz 1 wird bis zu Beginn der Lehrveranstaltungen des Sommersemesters 2011 letztmalig angeboten.<sup>5</sup> Prüfungen nach diesen Prüfungsterminen müssen nach dieser Fachprüfungsordnung abgelegt werden. 
 
 - (5) Mit dem Inkrafttreten der Fachprüfungsordnung treten zugleich, vorbehaltlich Absatz 2, die Fachprüfungsordnung für den Diplom-, Bachelor- und Masterstudiengang Chemieingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCIW) vom 1. Dezember 1998 (KWMBl 1999 II, S. 190), geändert durch Satzung vom 13. Juli 1999 (KWMBl II, S. 882) und die Fachprüfungsordnung für das Bachelor- und Maserstudium Chemie- und Bioingenieurwesen (FPOCBI-BscMsc) vom 1. Februar 2005 außer Kraft. 
 
@@ -232,62 +232,62 @@ Die Satzung wurde am 5. Dezember 2008  in der Universität Erlangen-Nürnberg ni
 
 6 
 
-Anlage 1:Module des Bachelorstudiums mit Angabe der ECTS-Punkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
+<u>Anlage 1:Module des Bachelorstudiums mit Angabe der ECTS-Punkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der</u> Prüfungsdauer 
 
-|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5||||||Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS|||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdauer<br>in Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|B1|Mathematik D I|GOP|4|||7,5|7,5||||||90||
-||Übung|||2|||||||||unbenoteter|Schein|
-|B2|Mathematik D II|GOP|4|||7,5||7.5|||||90||
-||Übung|||2|||||||||unbenoteter|Schein|
-|B3|Mathematik D III||4|2||7,5|||7,5||||90||
-|B4|Mathematik D IV||2|1||2,5||||2,5|||90||
-|B5|Informatik für Ingenieurberufe||2||2|5|5||||||90||
-||Allgemeine und Anorganische<br>Chemie|GOP|4|||7,5|7,5||||||180||
-|B6|Anorganisch-chemisches<br>Praktikum||||2||||||||unbenoteter|Schein|
-||Vorlesungzum Praktikum||1||||||||||||
-|B7|Organische Chemie||4|1||7,5|||7,5||||180||
-||Organisch - chemisches<br>Praktikum i||||3||||||||unbenoteter<br>(ZV)|Schein|
-|B8|Physikalische Chemie||2|1||15||5|||||180||
-||Chemische Thermodynamik||2|1||||||5|||||
-||Physikalisch - chemisches<br>Praktikum||||6||||2,5|2,5|||unbenoteter<br>(ZV)|Schein|
-|B9|Biochemie I||2|||5|||2,5||||60||
-||Biochemie II||2|||||||2,5|||60||
-|B10|Mikrobiologie||3|||2,5|||2,5||||90||
-|B11|Prozessautomatisierung||2|1||2,5|||||2,5||*)||
-|B12|Werkstoffwissenschaften||2|||2,5||2,5|||||*)||
-|B13|Biochemisches Praktikum<br>oder Mikrobiologisches Prak-<br>tikum||||3|2,5||||2,5|||*)||
-|B14|Experimentalphysik|GOP|4|1||7,5|7,5||||||120||
+|Spalte1<br>Spalte 2||Spalte 3||Spalte 4|Spalte 5||||||Spalte 6||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nr.<br>Modul||SWS||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdau<br>in Minuten|er|
+|||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|Mathematik D I<br>B1|GOP|4||75|75||||||90||
+|<br>Übung|||2|,|,||||||unbenoteter|Schein|
+|Mathematik D II<br>B2|GOP|4||75||75|||||90||
+|<br>Übung|||2|,||.|||||unbenoteter|Schein|
+|B3<br>Mathematik D III||4|2|7,5|||7,5||||90||
+|B4<br>Mathematik D IV||2|1|2,5||||2,5|||90||
+|B5<br>Informatik für Ingenieurberufe||2||2<br>5|5||||||90||
+|Allgemeine und Anorganische<br>Chemie|GOP|4|||||||||180||
+|Anorganisch-chemisches<br>Praktikum<br>B6||||2<br>7,5|7,5||||||unbenoteter|Schein|
+|Vorlesungzum Praktikum||1|||||||||||
+|Organische Chemie||4|1||||||||180||
+|B7<br>Organisch - chemisches<br>Praktikum i||||3<br>7,5|||7,5||||unbenoteter<br>(ZV)|Schein|
+|Physikalische Chemie||2|1|||5|||||180||
+|Chemische Thermodynamik<br>B8||2|1|15||||5|||||
+|Physikalisch - chemisches<br>Praktikum||||6|||2,5|2,5|||unbenoteter<br>(ZV)|Schein|
+|Biochemie I<br>B9||2||5|||2,5||||60||
+|<br>Biochemie II||2||||||2,5|||60||
+|B10<br>Mikrobiologie||3||2,5|||2,5||||90||
+|B11<br>Prozessautomatisierung||2|1|2,5|||||2,5||*)||
+|B12<br>Werkstoffwissenschaften||2||2,5||2,5|||||*)||
+|B13<br>Biochemisches Praktikum<br>oder Mikrobiologisches Prak-<br>tikum||||3<br>2,5||||2,5|||*)||
+|B14<br>Experimentalphysik|GOP|4|1|7,5|7,5||||||120||
 
 7 
 
-|Spal-<br>te1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS|||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdauer in<br>Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-||Messtechnik und<br>Instrumentelle Analytik|GOP|2|1|2|||5|||||*)||
-|B15|Chemische und biolo-<br>gische Prozesstechnik<br>mitEinführungsprojekt||2||3|15||5|||||*)||
-||Einführung in die<br>Thermofluiddynamik||3|2|||2,5|2,5|||||||
-|B16|Wärme- und Stoffüber-<br>tragung||2|1||2,5||||2,5|||*)||
-|B17|Technische Mechanik||3|2||7,5|||7,5||||90||
-|B18|Konstruktionslehre||2|1||5||||5|||180||
-|B19|Kurs Technisches<br>Zeichnen|||3||2,5||2,5|||||*)||
-|B20|Grenzflächen in der<br>Verfahrenstechnik||2|1||2,5||||2,5|||*)||
-|B21|Bioprozess- und Biore-<br>aktionstechnik||2|1|1|5|||||5|||30|
-|B22|Medizinische Biotech-<br>nologie||2|1|1|5||||||5|120||
-|B23|Mechanische Verfah-<br>renstechnik||2|1|1|5|||||5||120||
-|B24|Prozessmaschinen und<br>Apparatetechnik||2|1|1|5||||||5|120||
-|B25|Reaktionstechnik||2|1|1|5||||||5|120||
-|B26|Strömungsmechanik||2|1|1|5||||5|||120||
-|B27|Technische Thermody-<br>namik||2|1|1|5|||||5||120||
-|B28|Thermische Verfah-<br>renstechnik||2|1|1|5|||||5||120||
-|B29|Industriepraktikum (6<br>Wochen)|||||7,5|||||7,5||||
-|B30|Bachelorarbeit||9 Wochen|||12||||||12|||
-||Referat|||||3||||||3||180|
-||Summe SWSS||76|31|29||30|30|30|30|30|30|Summe<br>ECTS||
-||||138||||Umfang der Grundlagen und Orientierungsprüfung||||||Summe<br>ECTS|45|
+|Spal-<br>te1<br>Spalte 2|Spalte 3||Spalte 4|Spalte 5||||||Spalte 6||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nr.<br>Modul|SWS||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdaue<br>Minuten|r in|
+||V|Ü<br>P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|Messtechnik und<br>Instrumentelle Analytik<br>GOP|2|1<br>2|||5|||||*)||
+|Chemische und biolo-<br>gische Prozesstechnik<br>mitEinführungsprojekt<br>B15|2|3|15||5|||||*)||
+|Einführung in die<br>Thermofluiddynamik|3|2||2,5|2,5|||||||
+|B16<br>Wärme- und Stoffüber-<br>tragung|2|1|2,5||||2,5|||*)||
+|B17<br>Technische Mechanik|3|2|7,5|||7,5||||90||
+|B18<br>Konstruktionslehre|2|1|5||||5|||180||
+|B19<br>Kurs Technisches<br>Zeichnen||3|2,5||2,5|||||*)||
+|B20<br>Grenzflächen in der<br>Verfahrenstechnik|2|1|2,5||||2,5|||*)||
+|B21<br>Bioprozess- und Biore-<br>aktionstechnik|2|1<br>1|5|||||5|||30|
+|B22<br>Medizinische Biotech-<br>nologie|2|1<br>1|5||||||5|120||
+|B23<br>Mechanische Verfah-<br>renstechnik|2|1<br>1|5|||||5||120||
+|B24<br>Prozessmaschinen und<br>Apparatetechnik|2|1<br>1|5||||||5|120||
+|B25<br>Reaktionstechnik|2|1<br>1|5||||||5|120||
+|B26<br>Strömungsmechanik|2|1<br>1|5||||5|||120||
+|B27<br>Technische Thermody-<br>namik|2|1<br>1|5|||||5||120||
+|B28<br>Thermische Verfah-<br>renstechnik|2|1<br>1|5|||||5||120||
+|B29<br>Industriepraktikum (6<br>Wochen)|||7,5|||||7,5||||
+|Bachelorarbeit<br>|9 Wochen||12||||||12|||
+|B30<br>Referat|||3||||||3|||
+|Summe SWSS|76|31<br>29||30|30|30|30|30|30|Summe<br>ECTS|180|
+||138|||Umfang d|er Grundl|agen und Or|ientierungs|prüfung||Summe<br>ECTS|45|
 
 *) Unbenoteter Leistungsnachweis 
 
@@ -308,46 +308,45 @@ Anlage 1:Module des Bachelorstudiums mit Angabe der ECTS-Punkte, der Verteilung 
 
 9 
 
-Anlage 3 Module des Masterstudiums mit Angabe der ECTS-Punkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
+<u>Anlage 3</u> Module des Masterstudiums mit Angabe der ECTS-Punkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
 
-|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS|||ECTS|7. Sem|8. Sem|9. Sem|10. Sem|Prüfungsdauer in Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|M1|1. Vertiefungsmodul||3|1|3|7.5|7.5|||||30|
-|M2|2. Vertiefungsmodul||3|1|3|7.5|7.5|||||30|
-|M3|3. Vertiefungsmodul||3|1|3|7.5||7.5||||30|
-|M4|4. Vertiefungsmodul||3|1|3|7.5||7.5||||30|
-|M5|1. Wahlpflichtmodul||2|1||5|5|||||30|
-|M6|2. Wahlpflichtmodul||2|1||5|5|||||30|
-|M7|3. Wahlpflichtmodul||2|1||5||5||||30|
-|M8|4. Wahlpflichtmodul||2|1|3|5|||7,5|||30|
-|M9|5. Wahlpflichtmodul||2|1|3|5|||7,5|||30|
-|M10|1. Ergänzungsmodul||2|1||5|5||||*)||
-|M11|2. Ergänzungsmodul||2|1||5||5|||*)||
-|M12|3. Ergänzungsmodul||2|1||5|||5||*)||
-|M13|4. Ergänzungsmodul||2|1||5|||5||*)||
-|M14|Projektierungskurs||Umfang ca. 150 Stunden|||5||5|||*)||
-|M15|Industriepraktikum||7  Wochen|||5|||5||||
-|M16|Masterarbeit||Umfang ca. 900 Stunden<br>innerhalb von 6 Monaten<br>Bearbeitung|||30||||30|||
-|**Summe SWS**|||**26**|**22**|**12**||**30**|**30**|**30**|**30**|**Summe ECTS**|**120**|
-||||**60**||||||||||
+|<br>Spalte1|<br> <br>Spalte 2|<br>Spalte 3|<br>Spalte 4<br>Spalte 5||||<br>Spalte 6||
+|---|---|---|---|---|---|---|---|---|
+|Nr.|Modul|SWS<br>|7. Sem<br>ECTS<br>|8. Sem<br>|9. Sem<br>|10. Sem<br>|Prüfungsdauer in M<br>|inuten<br>|
+|||V<br>Ü<br>P|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|M1|1. Vertiefungsmodul|3<br>1<br>3|7.5<br>7.5|||||30|
+|M2|2. Vertiefungsmodul|3<br>1<br>3|7.5<br>7.5|||||30|
+|M3|3. Vertiefungsmodul|3<br>1<br>3|7.5|7.5||||30|
+|M4|4. Vertiefungsmodul|3<br>1<br>3|7.5|7.5||||30|
+|M5|1. Wahlpflichtmodul|2<br>1|5<br>5|||||30|
+|M6|2. Wahlpflichtmodul|2<br>1|5<br>5|||||30|
+|M7|3. Wahlpflichtmodul|2<br>1|5|5||||30|
+|M8|4. Wahlpflichtmodul|2<br>1<br>3|5||7,5|||30|
+|M9|5. Wahlpflichtmodul|2<br>1<br>3|5||7,5|||30|
+|M10|1. Ergänzungsmodul|2<br>1|5<br>5||||*)||
+|M11|2. Ergänzungsmodul|2<br>1|5|5|||*)||
+|M12|3. Ergänzungsmodul|2<br>1|5||5||*)||
+|M13|4. Ergänzungsmodul|2<br>1|5||5||*)||
+|M14|Projektierungskurs|Umfang ca. 150 Stunden|5|5|||*)||
+|M15|Industriepraktikum|7  Wochen|5||5||||
+|M16|Masterarbeit|Umfang ca. 900 Stunden<br>innerhalb von 6 Monaten|30|||30|||
+|||Bearbeitung|||||||
+|||**26**<br>**22**<br>**12**|**30**|**30**|**30**|**30**|**Summe ECTS**|**120**|
+|**Summe**|**SWS**|**60**|||||||
 
 *) Unbenoteter Leistungsnachweis 
 
 10 
 
-## Anlage 4: Vertiefungs- , Ergänzungs-, und Wahlpflichtmodule des Masterstudiengangs 
+### <u>Anlage 4: Vertiefungs- , Ergänzungs-, und Wahlpflichtmodule des Masterstudiengangs</u> 
 
 ## 4.1 Vertiefungsmodule bezogen auf die Kernfächermodule des Bachelorstudiengangs 
 
-1. Vertiefung durch frei wählbares Fach aus Anlage 2 
-
-2. Vertiefung durch frei wählbares Fach aus Anlage 2 
-
-3. Vertiefung durch frei wählbares Fach aus Anlage 2 
-
-4. Vertiefung durch frei wählbares Fach aus Anlage 2 
+|1. Vertiefung durch frei wählbares Fach aus Anlage 2|
+|---|
+|2. Vertiefung durch frei wählbares Fach aus Anlage 2|
+|3. Vertiefung durch frei wählbares Fach aus Anlage 2|
+|4. Vertiefungdurch frei wählbares Fach aus Anlage 2|
 
 ## 4.2 Ergänzungsfächer 
 

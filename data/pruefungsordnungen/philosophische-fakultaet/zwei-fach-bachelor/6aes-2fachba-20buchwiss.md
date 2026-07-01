@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Juli 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Buchwiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:54:15+00:00
-page_count_chars: 2150
+scraped_at: 2026-07-01T10:16:19+00:00
+page_count_chars: 2137
 ---
 
 # 8. Juli 2011
@@ -12,19 +12,19 @@ page_count_chars: 2150
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Buchwiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. Juli 2011 
+# Vom 8. Juli 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
-## § 4 wird wie folgt geändert: 
+§ 4 wird wie folgt geändert: 
 
-## 1. Abs. 2 wird wie folgt geändert: 
+1. Abs. 2 wird wie folgt geändert: 
 
 - a) In den Nrn. 3a.1 und 3b.1 Spalte 9 (ECTS) wird jeweils die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
@@ -36,11 +36,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fac
 
 - e) Nr. 4.3 wird gestrichen. 
 
-## 2. In Abs. 3 wird Nr. 4.3.3 gestrichen. 
+2. In Abs. 3 wird Nr. 4.3.3 gestrichen. 
 
 3. In Abs. 6 Satz 2 werden die Worte „der Vortragsreihe“ durch die Worte „für das Referat“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 2Sie gilt für alle Studierende, die Ihr Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

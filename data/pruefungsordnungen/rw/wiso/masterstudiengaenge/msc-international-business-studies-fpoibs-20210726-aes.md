@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc International Business Studies FPOIBS 20210726 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20210726_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:37:36+00:00
-page_count_chars: 4799
+scraped_at: 2026-07-01T11:02:51+00:00
+page_count_chars: 4850
 ---
 
 # MSc International Business Studies FPOIBS 20210726 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 4799
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20210726_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zwölfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIBS –** 
+# **Zwölfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIBS –** 
 
-## **Vom 26. Juli 2021** 
+# **Vom 26. Juli 2021** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -32,7 +32,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International B
 
 5. In § 5 wird nach Abs. 4 folgender Abs. 5 angefügt: 
 
-„(5)[1] Die zwölfte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die sich in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(5)<sup>1</sup> Die zwölfte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die sich in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 6. Die Tabelle in der **Anlage** wird wie folgt geändert: 
 
@@ -48,9 +48,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International B
 
 - e) In Zeile 19 (Modul Managing intercultural relations) werden in Spalte 6 (Art und Umfang der Prüfung) (neu) die Worte, Zeichen und Zahlen „Written examination (60 minutes, 80 %)“ durch die Worte, Zeichen und Zahl „Discussion paper (80 %)“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die sich in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die sich in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden in den Modulen „Foundations of international management I“, „Foundations of international management II“, „International marketing“ und „Managing intercultural relations“ letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 14. Juli 2021 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 26. Juli 2021. 
 

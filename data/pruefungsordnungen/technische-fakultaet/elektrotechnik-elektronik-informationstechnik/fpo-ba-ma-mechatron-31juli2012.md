@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.09.2007 i.d.F. 31.07.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_Mechatron-31JULI2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:02+00:00
-page_count_chars: 18428
+scraped_at: 2026-07-01T11:33:12+00:00
+page_count_chars: 18329
 ---
 
 # PDF vom 25.09.2007 i.d.F. 31.07.2012
@@ -20,7 +20,7 @@ Diese Prüfungsordnung gilt für Studierende, die vom WS 2007/08 ab das Studium 
 
 Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOME - Vom 25. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOME - Vom 25. September 2007** 
 
 geändert durch Satzungen vom 25. Juli 2008 2. Dezember 2009 
 
@@ -42,17 +42,17 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 36 Bachelorstudiengang, Regelstudienzeit, Studienbeginn, Sprache** 
 
-(1)[1] Der Bachelorstudiengang Mechatronik umfasst die in **Anlage 1a** aufgeführten Module einschließlich einer berufspraktischen Tätigkeit, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung einer Bachelorarbeit.[2] Für das Sommersemesterangebot 2011 findet abweichend **Anlage 1b** Anwendung. 
+(1)<sup>1</sup> Der Bachelorstudiengang Mechatronik umfasst die in **Anlage 1a** aufgeführten Module einschließlich einer berufspraktischen Tätigkeit, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung einer Bachelorarbeit.<sup>2</sup> Für das Sommersemesterangebot 2011 findet abweichend **Anlage 1b** Anwendung. 
 
 (2) Die Regelstudienzeit beträgt sechs Semester. 
 
-(3)[1] Das Bachelorstudium Mechatronik beginnt jeweils zum Wintersemester.[2] Abweichend von Satz 1 kann das Bachelorstudium Mechatronik auch zum Sommersemester 2011 begonnen werden. 
+(3)<sup>1</sup> Das Bachelorstudium Mechatronik beginnt jeweils zum Wintersemester.<sup>2</sup> Abweichend von Satz 1 kann das Bachelorstudium Mechatronik auch zum Sommersemester 2011 begonnen werden. 
 
 (4) Module und Prüfungen können in englischer Sprache stattfinden; näheres regelt das Modulhandbuch. 
 
 ## **§ 37 Masterstudiengang, Regelstudienzeit, Sprache** 
 
-(1)[1] Das Masterstudium Mechatronik baut konsekutiv auf den Bachelorstudiengang Mechatronik auf.[2] Es setzt sich aus den Modulen der Anlage 2 verteilt auf vier Semester einschließlich einer berufspraktischen Tätigkeit von acht Wochen und sechs Monaten für die Anfertigung der Masterarbeit zusammen. 
+(1)<sup>1</sup> Das Masterstudium Mechatronik baut konsekutiv auf den Bachelorstudiengang Mechatronik auf.<sup>2</sup> Es setzt sich aus den Modulen der Anlage 2 verteilt auf vier Semester einschließlich einer berufspraktischen Tätigkeit von acht Wochen und sechs Monaten für die Anfertigung der Masterarbeit zusammen. 
 
 (2) Die Regelstudienzeit beträgt vier Semester. 
 
@@ -64,9 +64,9 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 38 Gliederung des Bachelorstudiums** 
 
-(1)[1] Das Bachelorstudium Mechatronik umfasst Pflicht-, Wahlpflicht- und Wahlmodule, sowie eine berufspraktische Tätigkeit und die Bachelorarbeit.[2] Die Verteilung der Module über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen. 
+(1)<sup>1</sup> Das Bachelorstudium Mechatronik umfasst Pflicht-, Wahlpflicht- und Wahlmodule, sowie eine berufspraktische Tätigkeit und die Bachelorarbeit.<sup>2</sup> Die Verteilung der Module über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen. 
 
-(2)[1] Aus dem Wahlpflichtmodulkatalog der Mechatronik, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird, sind zwei Module im Umfang von je 5 ECTS-Punkten zu belegen.[2] Weitere 5 ECTS-Punkte sind durch Wahlmodule aus dem Angebot der gesamten Universität zu erwerben.[3] Die Wahlmodule sind dem vom Prüfungsausschuss empfohlenen Verzeichnis zu entnehmen.[4] Art und Dauer der Prüfungen in den Wahlpflicht- und Wahlmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte in Wahlmodulen werden von der Prüferin oder dem Prüfer vor Beginn der Veranstaltung bekannt gegeben. 
+(2)<sup>1</sup> Aus dem Wahlpflichtmodulkatalog der Mechatronik, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird, sind zwei Module im Umfang von je 5 ECTS-Punkten zu belegen.<sup>2</sup> Weitere 5 ECTS-Punkte sind durch Wahlmodule aus dem Angebot der gesamten Universität zu erwerben.<sup>3</sup> Die Wahlmodule sind dem vom Prüfungsausschuss empfohlenen Verzeichnis zu entnehmen.<sup>4</sup> Art und Dauer der Prüfungen in den Wahlpflicht- und Wahlmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte in Wahlmodulen werden von der Prüferin oder dem Prüfer vor Beginn der Veranstaltung bekannt gegeben. 
 
 ## **§ 39 Grundlagen- und Orientierungsprüfung** 
 
@@ -74,13 +74,13 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 ## **§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** 
 
-(1)[1] Mit der Bachelorarbeit kann frühestens zu Beginn des sechsten Semesters begonnen werden. 2Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 130 ECTS-Punkte nachgewiesen werden. 
+(1)<sup>1</sup> Mit der Bachelorarbeit kann frühestens zu Beginn des sechsten Semesters begonnen werden. 2Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 130 ECTS-Punkte nachgewiesen werden. 
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Absatz 1 eine vorgezogene Zulassung zur Bachelorarbeit gewähren. 
 
 ## **§ 41 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Mechatronik zu erlernen.[ 2] Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau und Informatik berechtigt. 3 Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Mechatronik zu erlernen.<sup>2</sup> Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau und Informatik berechtigt. 3 Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
 
 (2) Die Bachelorarbeit wird mit 10 ECTS-Punkten bewertet. 
 
@@ -92,13 +92,13 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 (1) Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** bestanden und mindestens 180 ECTS-Punkte erworben worden sind. 
 
-(2)[1] Die Gesamtnote des Bachelorstudiums wird nach § 18 Abs. 6 ABMPO/TechFak ermittelt.[2] Für die Wahlmodule wird eine Zwischennote gebildet, in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen.[3] Die Zwischennote der Wahlmodule geht gewichtet mit 5 ECTS-Punkten in die Gesamtnote ein.[4] Bei der Bildung der Modulnote des Moduls B 30 (Bachelorarbeit) gehen die Bewertungen der Bachelorarbeit und des Hauptseminars jeweils mit dem Gewicht ihrer ECTS-Punkte gemäß Anlage 1 ein. 
+(2)<sup>1</sup> Die Gesamtnote des Bachelorstudiums wird nach § 18 Abs. 6 ABMPO/TechFak ermittelt.<sup>2</sup> Für die Wahlmodule wird eine Zwischennote gebildet, in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen.<sup>3</sup> Die Zwischennote der Wahlmodule geht gewichtet mit 5 ECTS-Punkten in die Gesamtnote ein.<sup>4</sup> Bei der Bildung der Modulnote des Moduls B 30 (Bachelorarbeit) gehen die Bewertungen der Bachelorarbeit und des Hauptseminars jeweils mit dem Gewicht ihrer ECTS-Punkte gemäß Anlage 1 ein. 
 
 ## **2. Masterprüfung** 
 
 ## **§ 43 Qualifikation zum Masterstudium, Nachweise, Zugangsvoraussetzungen, Zugang mit Auflagen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines dieser Prüfungsordnung gleichwertigen Bachelor- oder Diplomstudiengangs im Fach Mechatronik. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines dieser Prüfungsordnung gleichwertigen Bachelor- oder Diplomstudiengangs im Fach Mechatronik. 
 
 (2) Die Qualifikation zum Masterstudium Mechatronik wird i. S. d. Anlage 1 Abs. 5 Satz 2 Nr. 2 ABMPO/TechFak festgestellt, wenn in einer Auswahl des Katalogs von Modulen dieses Bachelorstudiengangs, die in Anlage 1 dieser Fachprüfungsordnung mit „K“ gekennzeichnet sind, oder vergleichbare Module eines anderen Studiengangs im Umfang von mind. 20 ECTS der Mittelwert der Modulnoten 3,0 oder besser beträgt. 
 
@@ -116,7 +116,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 (1) Das Masterstudium beinhaltet die Module der Anlage 2. 
 
-(2)[1] Zur fachspezifischen Profilbildung sind im Masterstudium zwei Vertiefungsrichtungen im Umfang von je mindestens 20 ECTS-Punkten zu belegen.[2] Die wählbaren Vertiefungsrichtungen sind in **Anlage 3** aufgeführt. 
+(2)<sup>1</sup> Zur fachspezifischen Profilbildung sind im Masterstudium zwei Vertiefungsrichtungen im Umfang von je mindestens 20 ECTS-Punkten zu belegen.<sup>2</sup> Die wählbaren Vertiefungsrichtungen sind in **Anlage 3** aufgeführt. 
 
 (3) Zwei Hochschulpraktika sowie ein Hauptseminar sind aus den Angeboten folgender Departments zu wählen: Maschinenbau, Elektrotechnik-Elektronik-Informationstechnik, Informatik. 
 
@@ -136,7 +136,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 ## **§ 46 Voraussetzung für die Ausgabe der Masterarbeit** 
 
-(1)[1] Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Module M 1 bis M 7 bestanden sind. 
+(1)<sup>1</sup> Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Module M 1 bis M 7 bestanden sind. 
 
 (2) Abweichend von Absatz 1 Nr. 1 ist eine vorzeitige Zulassung möglich, wenn erfolgreich abgelegte Module und erbrachte Studienleistungen im Umfang von mindestens 80 ECTS-Punkten aus dem Masterstudium nachgewiesen werden. 
 
@@ -146,7 +146,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 (1) Die Masterarbeit dient dazu, die selbständige Bearbeitung wissenschaftlicher Aufgabenstellungen der Mechatronik nachzuweisen. 
 
-(2)[1] Die Masterarbeit soll ein wissenschaftliches Thema aus einer der oder beiden Vertiefungsrichtungen behandeln.[2] Zur Vergabe und Betreuung der Masterarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau und Informatik berechtigt. 
+(2)<sup>1</sup> Die Masterarbeit soll ein wissenschaftliches Thema aus einer der oder beiden Vertiefungsrichtungen behandeln.<sup>2</sup> Zur Vergabe und Betreuung der Masterarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau und Informatik berechtigt. 
 
 (3) Die Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
@@ -154,7 +154,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 (1) Das Masterstudium ist bestanden, wenn alle Module der Anlage 2 bestanden und damit mindestens 120 ECTS-Punkte erworben worden sind. 
 
-(2)[1] Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 2** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTS-Punkte ein.[2] Für den Fall, dass die Summe der einer Vertiefungsrichtung zugeordneten Module 20 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTS-Gewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 20 ECTS-Punkten auf die Gesamtnote angerechnet.[3] Gleiches gilt für den Bereich der technischen und nichttechnischen Wahlmodule. 
+(2)<sup>1</sup> Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 2** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTS-Punkte ein.<sup>2</sup> Für den Fall, dass die Summe der einer Vertiefungsrichtung zugeordneten Module 20 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTS-Gewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 20 ECTS-Punkten auf die Gesamtnote angerechnet.<sup>3</sup> Gleiches gilt für den Bereich der technischen und nichttechnischen Wahlmodule. 
 
 ## **III. Teil: Schlussbestimmungen** 
 
@@ -166,49 +166,50 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in **Anlage 1** mit GOP ge
 
 ## **Anlage 1a:** 
 
-Studienplan des Bachelorstudiums Mechatronik an der Friedrich-Alexander-Universität Erlangen-Nürnberg – Studienbeginn Wintersemester 
+Studienplan des Bachelorstudiums Mechatronik an der Friedrich-Alexander-Universität Erlangen-Nürnberg – Studien- <u>beginn Wintersemester</u> 
 
-|Modul-<br>Nr.|Modulbezeichnung|GOP/<br>K|Umfang|Umfang||Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Prüfung1)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||in SWS||||||||||
-||||V|Ü|P|1.|2.|3.|4.|5.|6.||
-|B 1|Mathematik für ME 12)|GOP|4|2||7,5||||||90 + uSL|
-|B 2|Mathematik für ME 22)|GOP|5|3|||10|||||120+ uSL|
-|B 3|Mathematik für ME 32)||2|2||||5||||60|
-|B 4|Grundlagen der Elektrotechnik I|GOP|4|2||7,5||||||120|
-|B5|Grundlagender Elektrotechnik II|*|2|2|||5|||||90|
-|B 6|Grundlagen der Elektrotechnik III||2|2||||5||||90|
-|B 7|Praktikum Grundlagen der Elektrotechnik||||3||2,5|||||uSL|
-|B 8|Statik und Festigkeitslehre|GOP|3|2|1||7,5|||||90|
-|B9|Dynamikstarrer Körper||3|2|1|||7,5||||90|
-|B 10|Grundlagen der Informatik|*|3|3||7,5||||||90 +uSL|
-|B 11|Systemnahe Programmierung in C|*|2|2|||5|||||90|
-|B 12|Eingebettete Systeme|K|2|2||||||5||90|
-|B 13|Digitaltechnik|*|2|2||5,0||||||90|
-|B 14|Werkstoffkunde||4|||||5||||120|
-|B 15|Praktikum Mechatronische Systeme||||6||||5|||uSL|
-|B 16|Grundlagender Messtechnik|K|2|2||||||5||60|
-|B 17|Produktionstechnik I und II3)|K|4|||||2,5|2,5|||120|
-|B 18|Halbleiterbauelemente|K|2|2|||||5|||90|
-|B 19|Schaltungstechnik|K|2|2|||||5|||90|
-|B 20|TechnischeDarstellungslehre1||||2|2,5||||||uSL|
-||Technische Darstellungslehre 2||||2||2,5|||||uSL|
-|B 21|Grundlagen der Produktentwicklung|K|4|2||||||7,5||120|
-|B 22|Grundlagen der Elektrischen Antriebstechnik||2|1|||||5|||90|
-||Praktikum Grundlagen der<br>Elektrischen Antriebstechnik||||2|||||||uSL|
-|B 23|Einführung in die Systemtheorie|K|2|2|||||5|||90|
-|B 24|Regelungstechnik A (Grundlagen)|K|2|2||||||5||90|
-|B 25|Sensorik|K|2|2||||||5||90|
-|B 26|1. Wahlpflichtmodul(ausKatalog)||2|2||||||2,5|2,5|4)|
-|B 27|2. Wahlpflichtmodul (aus Katalog)||2|2|||||||5|4)|
-|B 28|Wahlmodule||4|||||2,5|2,5|||bSL|
-|B 29|Berufspraktische Tätigkeit (Praktikum)||10 Wochen||||||||10|uSL|
-|B 30|Bachelorarbeit||||||||||10||
-||Hauptseminar||||||||||2,5||
-||Summen|||||30,0|30,0|30,0|30,0|30,0|30,0||
-|GOP=Grundlagen- und Orientierungsprüfung:||32,5|||||||||||
-|K=Katalog von Modulen zur Zulassung für das<br>Masterstudium||47,5|||||||||||
-|**Erläuterungen**:|||||||||||||
+|Modul-<br>Nr.|<br>Modulbezeichnung|GOP/<br>K|Um|fang|Ve|rteilu<br>au|ng der<br>f die S|ECT<br>emes|S-Pun<br>ter|kte|Prüfung<sup>1)</sup>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||in S|WS||||||||
+||||V|Ü<br>P|1.|2.|3.|4.|5.|6.||
+|B 1|Mathematik für ME 1<sup>2)</sup>|GOP|4|2|7,5||||||90 + uSL|
+|B 2|Mathematik für ME 2<sup>2)</sup>|GOP|5|3||10|||||120+ uSL|
+|B 3|Mathematik für ME 3<sup>2)</sup>||2|2|||5||||60|
+|B 4|Grundlagen der Elektrotechnik I|GOP|4|2|7,5||||||120|
+|B5|Grundlagender Elektrotechnik II|*|2|2||5|||||90|
+|B 6|Grundlagen der Elektrotechnik III||2|2|||5||||90|
+|B 7|Praktikum Grundlagen der Elektrotechnik|||3|||2,5||||uSL|
+|B 8|Statik und Festigkeitslehre|GOP|3|2<br>1||7,5|||||90|
+|B9|Dynamikstarrer Körper||3|2<br>1|||7,5||||90|
+|B 10|Grundlagen der Informatik|*|3|3|7,5||||||90 +uSL|
+|B 11|Systemnahe Programmierung in C|*|2|2||5|||||90|
+|B 12|Eingebettete Systeme|K|2|2|||||5||90|
+|B 13|Digitaltechnik|*|2|2|5,0||||||90|
+|B 14|Werkstoffkunde||4||||5||||120|
+|B 15|Praktikum Mechatronische Systeme|||6||||5|||uSL|
+|B 16|Grundlagender Messtechnik|K|2|2|||||5||60|
+|B 17|Produktionstechnik I und II<sup>3)</sup>|K|4||||2,5|2,5|||120|
+|B 18|Halbleiterbauelemente|K|2|2||||5|||90|
+|B 19|Schaltungstechnik|K|2|2||||5|||90|
+|B 20|TechnischeDarstellungslehre1|||2|2,5||||||uSL|
+||Technische Darstellungslehre 2|||2||2,5|||||uSL|
+|B 21|Grundlagen der Produktentwicklung|K|4|2|||||7,5||120|
+||Grundlagen der Elektrischen Antriebstechnik||2|1|||||||90|
+|B 22|Praktikum Grundlagen der<br>Elektrischen Antriebstechnik|||2||||5|||uSL|
+|B 23|Einführung in die Systemtheorie|K|2|2||||5|||90|
+|B 24|Regelungstechnik A (Grundlagen)|K|2|2|||||5||90|
+|B 25|Sensorik|K|2|2|||||5||90|
+|B 26|1. Wahlpflichtmodul(ausKatalog)||2|2|||||2,5|2,5|4)|
+|B 27|2. Wahlpflichtmodul (aus Katalog)||2|2||||||5|4)|
+|B 28|Wahlmodule||4||||2,5|2,5|||bSL|
+|B 29|Berufspraktische Tätigkeit (Praktikum)||10|Wochen||||||10|uSL|
+|B 30|Bachelorarbeit|||||||||10||
+||Hauptseminar|||||||||2,5||
+|||||Summen|30,0|30,0|30,0|30,0|30,0|<br>30,0||
+|GOP=G|rundlagen- und Orientierungsprüfung:|32,5||||||||||
+|K=Kata|log von Modulen zur Zulassung für das|||||||||||
+|Mas|terstudium|47,5||||||||||
+|**Erläute**|**rungen**:|||||||||||
 
 1) P: Prüfungsleistung; 
 
@@ -230,49 +231,52 @@ uSL: unbenotete Studienleistung
 
 ## **Anlage 1b:** 
 
-Studienplan des Bachelorstudiums Mechatronik an der Friedrich-Alexander-Universität Erlangen-Nürnberg – Studienbeginn Sommersemester 2011 
+Studienplan des Bachelorstudiums Mechatronik an der Friedrich-Alexander-Universität Erlangen-Nürnberg – Studien- <u>beginn Sommersemester 2011</u> 
 
-|Modul-<br>Nr.|Modulbezeichnung|GOP/<br>K|Umfang|Umfang||Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Prüfung1)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||in SWS||||||||||
-||||V|Ü|P|1.|2.|3.|4.|5.|6.||
-|B 1|Mathematik für ME 12)|GOP|4|2||7,5||||||90 + uSL|
-|B 2|Mathematik für ME 22)|GOP|5|3|||10|||||120+ uSL|
-|B 3|Mathematik für ME 32)||2|2||||5||||60|
-|B 4|Grundlagen der Elektrotechnik I|GOP|4|2||7,5||||||120|
-|B 5|Grundlagen der Elektrotechnik II|*|2|2|||5|||||90|
-|B 6|Grundlagen der Elektrotechnik III||2|2||||5||||90|
-|B 7|Praktikum Grundlagen der Elektrotechnik||||3||2,5|||||uSL|
-|B8|StatikundFestigkeitslehre|GOP|3|2|1||7,5|||||90|
-|B 9|Dynamik starrer Körper||3|2|1|||7,5||||90|
-|B 10|Grundlagen der Informatik|*|3|3||7,5||||||90 +uSL|
-|B 11|Systemnahe Programmierung in C|*|2|2|||5|||||90|
-|B 12|Eingebettete Systeme|K|2|2||||||5||90|
-|B 13|Digitaltechnik|*|2|2||5,0||||||90|
-|B 14|Werkstoffkunde||4|||||5||||120|
-|B 15|Praktikum Mechatronische Systeme||||6||||5|||uSL|
-|B 16|Grundlagen der Messtechnik|K|2|2||||||5||60|
-|B 17|Produktionstechnik I und II3)|K|4|||||2,5|2,5|||120|
-|B 18|Halbleiterbauelemente|K|2|2|||||5|||90|
-|B 19|Schaltungstechnik|K|2|2|||||5|||90|
-|B 20|TechnischeDarstellungslehre1||||2|2,5||||||uSL|
-||Technische Darstellungslehre 2||||2||2,5|||||uSL|
-|B 21|Grundlagen der Produktentwicklung|K|4|2||||||7,5||120|
-|B 22|Grundlagender Elektrischen Antriebstechnik||2|1|||||5|||90|
-||Praktikum Grundlagen der<br>Elektrischen Antriebstechnik||||2|||||||uSL|
-|B 23|Einführung in die Systemtheorie|K|2|2|||||5|||90|
-|B 24|Regelungstechnik A (Grundlagen)|K|2|2||||||5||90|
-|B 25|Sensorik|K|2|2||||||5||90|
-|B 26|1. Wahlpflichtmodul (aus Katalog)||2|2||||||2,5|2,5|4)|
-|B 27|2. Wahlpflichtmodul(ausKatalog)||2|2|||||||5|4)|
-|B 28|Wahlmodule||4|||||2,5|2,5|||bSL|
-|B 29|Berufspraktische Tätigkeit (Praktikum)||10 Wochen||||||||10|uSL|
-|B 30|Bachelorarbeit||||||||||10||
-||Hauptseminar||||||||||2,5||
-||Summen|||||30,0|30,0|30,0|30,0|30,0|30,0||
-|GOP=Grundlagen- und Orientierungsprüfung:||32,5|||||||||||
-|K=Katalog von Modulen zur Zulassung für das<br>Masterstudium||47,5|||||||||||
-|**Erläuterungen**:<br>1) P: Prüfungsleistung;|||||||||||||
+|Modul-<br>Nr.|<br>Modulbezeichnung|GOP/<br>K|Um|fang|Ve|rteilu<br>au|ng der<br>f die S|ECT<br>emes|S-Pun<br>ter|kte|Prüfung<sup>1)</sup>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||in S|WS||||||||
+||||V|Ü<br>P|1.|2.|3.|4.|5.|6.||
+|B 1|Mathematik für ME 1<sup>2)</sup>|GOP|4|2|7,5||||||90 + uSL|
+|B 2|Mathematik für ME 2<sup>2)</sup>|GOP|5|3||10|||||120+ uSL|
+|B 3|Mathematik für ME 3<sup>2)</sup>||2|2|||5||||60|
+|B 4|Grundlagen der Elektrotechnik I|GOP|4|2|7,5||||||120|
+|B 5|Grundlagen der Elektrotechnik II|*|2|2||5|||||90|
+|B 6|Grundlagen der Elektrotechnik III||2|2|||5||||90|
+|B 7|Praktikum Grundlagen der Elektrotechnik|||3|||2,5||||uSL|
+|B8|StatikundFestigkeitslehre|GOP|3|2<br>1||7,5|||||90|
+|B 9|Dynamik starrer Körper||3|2<br>1|||7,5||||90|
+|B 10|Grundlagen der Informatik|*|3|3|7,5||||||90 +uSL|
+|B 11|Systemnahe Programmierung in C|*|2|2||5|||||90|
+|B 12|Eingebettete Systeme|K|2|2|||||5||90|
+|B 13|Digitaltechnik|*|2|2|5,0||||||90|
+|B 14|Werkstoffkunde||4||||5||||120|
+|B 15|Praktikum Mechatronische Systeme|||6||||5|||uSL|
+|B 16|Grundlagen der Messtechnik|K|2|2|||||5||60|
+|B 17|Produktionstechnik I und II<sup>3)</sup>|K|4||||2,5|2,5|||120|
+|B 18|Halbleiterbauelemente|K|2|2||||5|||90|
+|B 19|Schaltungstechnik|K|2|2||||5|||90|
+|B 20|TechnischeDarstellungslehre1|||2|2,5||||||uSL|
+||Technische Darstellungslehre 2|||2||2,5|||||uSL|
+|B 21|Grundlagen der Produktentwicklung|K|4|2|||||7,5||120|
+||Grundlagender Elektrischen Antriebstechnik||2|1|||||||90|
+|B 22|Praktikum Grundlagen der<br>Elektrischen Antriebstechnik|||2||||5|||uSL|
+|B 23|Einführung in die Systemtheorie|K|2|2||||5|||90|
+|B 24|Regelungstechnik A (Grundlagen)|K|2|2|||||5||90|
+|B 25|Sensorik|K|2|2|||||5||90|
+|B 26|1. Wahlpflichtmodul (aus Katalog)||2|2|||||2,5|2,5|4)|
+|B 27|2. Wahlpflichtmodul(ausKatalog)||2|2||||||5|4)|
+|B 28|Wahlmodule||4||||2,5|2,5|||bSL|
+|B 29|Berufspraktische Tätigkeit (Praktikum)||10|Wochen||||||10|uSL|
+|B 30|Bachelorarbeit|||||||||10||
+||Hauptseminar|||||||||2,5||
+|||||Summen|30,0|30,0|30,0|30,0|30,0|30,0||
+|GOP=G|rundlagen- und Orientierungsprüfung:|32,5||||||||||
+|K=Kata|log von Modulen zur Zulassung für das|||||||||||
+|Mas|terstudium|47,5||||||||||
+|**Erläute**|**rungen**:|||||||||||
+
+1) P: Prüfungsleistung; 
 
 Zahl: Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten; bSL: benotete Studienleistung; 
 
@@ -290,9 +294,8 @@ uSL: unbenotete Studienleistung
 
 Studienplan des Masterstudiums Mechatronik an der Friedrich-Alexander-Universität ErlangenNürnberg 
 
-|<br>Nürnberg|<br>Nürnberg|||||||
+|**Modu**|**ldaten**|**ETCS**|**Ver**|**teilung der**<br>**auf die S**|**ECTS-Pun**<br>**emester **|**kte**|**Prüfung**<sup>**1)**</sup>|
 |---|---|---|---|---|---|---|---|
-|**Moduldaten**||**ETCS**|**Verteilung der ECTS-Punkte**<br>**auf die Semester **||||**Prüfung1)**|
 |**Nr.**|**Modulbezeichnung**||**1.**|**2.**|**3.**|**4.**||
 |M 1|Vertiefungsrichtung1|20|10|5|5||2)|
 |M 2|Vertiefungsrichtung2|20|5|10|5||2)|
@@ -302,9 +305,9 @@ Studienplan des Masterstudiums Mechatronik an der Friedrich-Alexander-Universit�
 |M 6|1 Hauptseminar|2,5|||2,5||bSL|
 |M 7|Berufspraktische Tätigkeit|10|||10||uSL|
 |M 8|Masterarbeit mit Vortrag|30||||30||
-|Summen              120,0|||30,0|30,0|30,0|30,0||
+||Summen|120,0|30,0|30,0|30,0|30,0||
 
-## **Erläuterung:** 
+### **Erläuterung:** 
 
 - 1) P: Prüfungsleistung; bSL: benotete Studienleistung; 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AES-Allg%20BA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:07+00:00
-page_count_chars: 8235
+scraped_at: 2026-07-01T09:28:01+00:00
+page_count_chars: 8344
 ---
 
 # 5. August 2011
@@ -18,33 +18,31 @@ Vom 5. August 2011
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - vom 27. September 2007, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
-1. In § 3 Abs. 2 wird folgender neuer Satz 2 angefügt: 
-
-   - „[2] Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang zwölf Semester.“ 
+1. In § 3 Abs. 2 wird folgender neuer Satz 2 angefügt: „<sup>2</sup> Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang zwölf Semester.“ 
 
 Die Satznummerierung wird angepasst. 
 
 2. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a** 
+# „ **§ 3a** 
 
-## **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
+# **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
 
-(1)[1] Das Bachelorstudium kann in der Form des hälftigen Teilzeitstudiums absolviert werden.[2] Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
+(1)<sup>1</sup> Das Bachelorstudium kann in der Form des hälftigen Teilzeitstudiums absolviert werden.<sup>2</sup> Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
 
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Zwei-FachBachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.[2] Abweichend von Satz 1 ist ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang in den Ein-FachBachelorstudiengängen zu jedem Semester zulässig.[3] Ein Wechsel ab dem 5. Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
+(2)<sup>1</sup> Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Zwei-FachBachelorstudiengängen während des Studiums auf schriftlichen Antrag jeweils zum Wintersemester zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.<sup>2</sup> Abweichend von Satz 1 ist ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang in den Ein-FachBachelorstudiengängen zu jedem Semester zulässig.<sup>3</sup> Ein Wechsel ab dem 5. Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
 
-(3)[1] Im Teilzeitstudium der Zwei-Fach-Bachelorstudiengänge können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.[2] Eine Überschreitung dieser ECTSPunktezahl um 5 ECTS-Punkte ist einmalig zulässig.[3] Im Teilzeitstudium der Ein-FachBachelorstudiengänge können pro Semester maximal 17 ECTS-Punkte erworben werden.[4] Eine Überschreitung dieser ECTS-Punktezahl um 3 ECTS-Punkte ist einmalig zulässig.[5] Das Semester, in dem die Bachelorarbeit abgegeben wird, ist von der Regelung der Sätze 2 und 4 ausgenommen.[6] Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von den Sätzen 2 und 3 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
+(3)<sup>1</sup> Im Teilzeitstudium der Zwei-Fach-Bachelorstudiengänge können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.<sup>2</sup> Eine Überschreitung dieser ECTSPunktezahl um 5 ECTS-Punkte ist einmalig zulässig.<sup>3</sup> Im Teilzeitstudium der Ein-FachBachelorstudiengänge können pro Semester maximal 17 ECTS-Punkte erworben werden.<sup>4</sup> Eine Überschreitung dieser ECTS-Punktezahl um 3 ECTS-Punkte ist einmalig zulässig.<sup>5</sup> Das Semester, in dem die Bachelorarbeit abgegeben wird, ist von der Regelung der Sätze 2 und 4 ausgenommen.<sup>6</sup> Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von den Sätzen 2 und 3 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
 
 3. § 10 Abs. 1 wird wie folgt geändert: 
 
 a) Folgender neuer Satz 2 wird eingefügt: 
 
-„[2] Abweichend von Satz 1 sind im Teilzeitstudium für die Grundlagen- und Orientierungsprüfung 20 ECTS-Punkte abzulegen.“ 
+      - „<sup>2</sup> Abweichend von Satz 1 sind im Teilzeitstudium für die Grundlagen- und Orientierungsprüfung 20 ECTS-Punkte abzulegen.“ 
 
    - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
@@ -54,35 +52,25 @@ a) Folgender neuer Satz 2 wird eingefügt:
 
 4. In § 11 Abs. 5 Satz 4 wird das Wort „Rektorin“ durch das Wort „Präsidentin“ und das Wort „Rektor“ durch das Wort „Präsident“ ersetzt. 
 
-## 5. § 15 wird wie folgt geändert: 
+# 5. § 15 wird wie folgt geändert: 
 
-- a) Abs. 2 erhält folgende neue Fassung: 
+- a) Abs. 2 erhält folgende neue Fassung: „(2)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen. 2Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind.<sup>3</sup> Bei der Anrechnung ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.<sup>4</sup> Für die Bewertung von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.<sup>5</sup> Soweit Äquivalenzvereinbarungen in Bezug auf ausländische Leistungsnachweise nicht vorliegen, entscheidet der Prüfungsausschuss.<sup>6</sup> Im Übrigen kann bei Zweifeln die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden.“ 
 
-   - „(2)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen. 2Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind.[3] Bei der Anrechnung ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und 
-
-   - Gesamtbewertung vorzunehmen.[4] Für die Bewertung von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.[5] Soweit Äquivalenzvereinbarungen in Bezug auf ausländische Leistungsnachweise nicht vorliegen, entscheidet der Prüfungsausschuss.[6] Im Übrigen kann bei Zweifeln die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden.“ 
-
-- b) Die Abs. 3 und 4 werden ersatzlos gestrichen. Die Abs. werden angepasst. 
-
-- c) Abs. 3 (neu) wird wie folgt geändert: 
-
-   - aa) In Satz 1 wird das Wort „sie“ durch die Worte „die festgestellten Kompetenzen“ ersetzt. 
+- b) Die Abs. 3 und 4 werden ersatzlos gestrichen. Die Abs. werden angepasst. c) Abs. 3 (neu) wird wie folgt geändert: aa) In Satz 1 wird das Wort „sie“ durch die Worte „die festgestellten Kompetenzen“ ersetzt. 
 
    - bb) Die Sätze 2 und 3 werden wie folgt ersetzt: 
 
-   - „[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.[3] Abs. 4 (neu) wird ersatzlos gestrichen.“ Die Absätze werden angepasst. 
+   - „<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.<sup>3</sup> Abs. 4 (neu) wird ersatzlos gestrichen.“ Die Absätze werden angepasst. 
 
 - d) In Abs. 4 (neu) Satz 2 werden die Ziffer „6“ durch die Ziffer „3“ ersetzt und die Worte „Anerkennung beziehungsweise“ ersatzlos gestrichen. 
 
-## 6. § 29 wird wie folgt geändert: 
+# 6. § 29 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden nach dem Wort „Grundlagen- und Orientierungsprüfung“ die Worte „im Vollzeitstudium“ eingefügt. 
 
-- b)  Es wird folgender neue Abs. 3 angefügt: 
+- b)  Es wird folgender neue Abs. 3 angefügt: „(3)<sup>1</sup> Zum Bestehen der Grundlagen- und Orientierungsprüfung im Teilzeitstudium sind bis zum Ende des zweiten Semesters Prüfungen des gewählten ersten Faches im Umfang von 20 ECTS-Punkten erfolgreich abzulegen.<sup>2</sup> Näheres regeln die Fachprüfungsordnungen, insbesondere können sie konkrete Module im Umfang von bis zu 20 ECTS-Punkten festlegen, die zum Bestehen der 
 
-   - „(3)[1] Zum Bestehen der Grundlagen- und Orientierungsprüfung im Teilzeitstudium sind bis zum Ende des zweiten Semesters Prüfungen des gewählten ersten Faches im Umfang von 20 ECTS-Punkten erfolgreich abzulegen.[2] Näheres regeln die Fachprüfungsordnungen, insbesondere können sie konkrete Module im Umfang von bis zu 20 ECTS-Punkten festlegen, die zum Bestehen der 
-
-Grundlagen- und Orientierungsprüfung erfolgreich abgelegt sein müssen. Schlüsselqualifikationen können maximal im Umfang von 10 ECTS-Punkten zum Erreichen der erforderlichen Punktzahl berücksichtigt werden.[3] Werden in der Grundlagen- und Orientierungsprüfung 20 ECTS-Punkte nicht erreicht oder die gemäß Fachprüfungsordnung erforderlichen Module nicht abgelegt, so gilt die Grundlagen- und Orientierungsprüfung im jeweiligen Fach als nicht bestanden.“ 
+Grundlagen- und Orientierungsprüfung erfolgreich abgelegt sein müssen. Schlüsselqualifikationen können maximal im Umfang von 10 ECTS-Punkten zum Erreichen der erforderlichen Punktzahl berücksichtigt werden.<sup>3</sup> Werden in der Grundlagen- und Orientierungsprüfung 20 ECTS-Punkte nicht erreicht oder die gemäß Fachprüfungsordnung erforderlichen Module nicht abgelegt, so gilt die Grundlagen- und Orientierungsprüfung im jeweiligen Fach als nicht bestanden.“ 
 
 7. In § 31 Abs. 7 Satz 1 werden nach dem Wort „Exemplaren“ die Worte „sowie in maschinenlesbarer, elektronischer Fassung“ eingefügt. 
 
@@ -94,25 +82,25 @@ Grundlagen- und Orientierungsprüfung erfolgreich abgelegt sein müssen. Schlüs
 
 11. Folgende Anlage 2 wird angefügt: 
 
-## „ **Anlage 2: Ablaufschema des Teilzeitstudienganges** 
+# „ **Anlage 2: Ablaufschema des Teilzeitstudienganges** 
 
-|**_Studiensemester_**|**_Fach 1_**|**_Fach 1_**|**_Fach 2_**|**_Fach 2_**|
-|---|---|---|---|---|
-|**1.**|Vollzeitstudium||||
-|**2.**|Vollzeitstudium: GOP||||
-|**3.**|Vollzeitstudium||||
-|**4.**|Vollzeitstudium||||
-|**5.**|||Vollzeitstudium||
-|**6.**|||Vollzeitstudium||
-|**7.**|||Vollzeitstudium||
-|**8.**|||Vollzeitstudium||
-|**9.**||Teilzeitstudium|Teilzeitstudium||
-|**10.**||Teilzeitstudium|Teilzeitstudium||
-|**11.**||Teilzeitstudium|||
-|**12.**||Teilzeitstudium; Bachelorarbeit|||
-||||||
+|**_Studiensemester_**|**_Fach 1_**|**_Fach 2_**|
+|---|---|---|
+|**1.**|Vollzeitstudium||
+|**2.**|Vollzeitstudium: GOP||
+|**3.**|Vollzeitstudium||
+|**4.**|Vollzeitstudium||
+|**5.**||Vollzeitstudium|
+|**6.**||Vollzeitstudium|
+|**7.**||Vollzeitstudium|
+|**8.**||Vollzeitstudium|
+|**9.**|Teilzeitstudium|Teilzeitstudium|
+|**10.**|Teilzeitstudium|Teilzeitstudium|
+|**11.**|Teilzeit|studium|
+|**12.**|Teilzeitstudium;|Bachelorarbeit|
+|||„|
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft und findet auf das Studium ab dem Wintersemester 2011/2012 Anwendung. 
 

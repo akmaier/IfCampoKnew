@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Fachbereich Rechtswissenschaft"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:19:36+00:00
+scraped_at: 2026-07-01T10:37:52+00:00
 ---
 
 # Fachbereich Rechtswissenschaft
@@ -28,6 +28,7 @@ scraped_at: 2026-05-01T09:19:36+00:00
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260610.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260610.pdf) | 370 KB |
 | [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf) | 371 KB |
 | [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20240926.pdf) | 305 KB |
 | [StuPO Rechtswissenschaft StuPO Jura 20240617.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617.pdf) | 324 KB |
@@ -35,6 +36,7 @@ scraped_at: 2026-05-01T09:19:36+00:00
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
+| [StuPO Jura 20260610 ÄSa.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260610_AeSa.pdf) | 126 KB |
 | [StuPO Jura 20260305 ÄSa.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260305_AeSa.pdf) | 193 KB |
 | [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf) | 311 KB |
 
@@ -131,8 +133,8 @@ scraped_at: 2026-05-01T09:19:36+00:00
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [PO Master Deutsch-Französisches-Recht 20230731.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20230731.pdf) | 304 KB |
 | [PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811_idF_20240926.pdf) | 313 KB |
+| [PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20230731.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811_i.d.F. 20230731.pdf) | 304 KB |
 | [PO Master Deutsch-Französisches-Recht 20220811.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811.pdf) | 570 KB |
 
 | Änderungssatzungen | Dateigröße |
@@ -184,7 +186,7 @@ scraped_at: 2026-05-01T09:19:36+00:00
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (97)
+## Prüfungsordnungen-Dokumente (99)
 
 - [5. August 2011](3aes-20mago-rechtswiss.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MagO-Rechtswiss.pdf>
 - [PDF vom 14.08.1992 i.d.F. 05.08.2011](magister-juristen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Magister_Juristen.pdf>
@@ -192,10 +194,12 @@ scraped_at: 2026-05-01T09:19:36+00:00
 - [PDF vom 14.08.1992 i.d.F. 25.01.2008](magister-juristen.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Magister_Juristen.pdf>
 - [26. August 1999](1aes-mag-jur.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES-MAG-Jur.pdf>
 - [PDF vom 14.08.1992](magister-jur-1992.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20Recht/Magister-Jur-1992.pdf>
+- [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260610.pdf](stupo-rechtswissenschaft-stupo-jura-20240617-idf-20260610.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260610.pdf>
 - [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf](stupo-rechtswissenschaft-stupo-jura-20240617-idf-20260305.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf>
 - [StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20240926.pdf](stupo-rechtswissenschaft-stupo-jura-20240617-idf-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20240926.pdf>
 - [StuPO Rechtswissenschaft StuPO Jura 20240617.pdf](stupo-rechtswissenschaft-stupo-jura-20240617.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617.pdf>
 - [StuPO Rechtswissenschaft StuPO Jura 20220301.pdf](stupo-rechtswissenschaft-stupo-jura-20220301.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20220301.pdf>
+- [StuPO Jura 20260610 ÄSa.pdf](stupo-jura-20260610-aesa.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260610_AeSa.pdf>
 - [StuPO Jura 20260305 ÄSa.pdf](stupo-jura-20260305-aesa.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/StuPO_Jura_20260305_AeSa.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
 - [21. Februar 2014](7aes-zwpo-rechtswissenschaft.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_ZwPO_Rechtswissenschaft.pdf>
@@ -264,8 +268,8 @@ scraped_at: 2026-05-01T09:19:36+00:00
 - [18. Februar 2013](1aes-ba-wirtschrecht.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES BA-WirtschRecht.pdf>
 - [PDF vom 29.09.2010 i.d.F. 18.02.2013](sto-po-wirtschaftsrecht-ba-feb2013.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/StO-PO-Wirtschaftsrecht-BA-FEB2013.pdf>
 - [PDF vom 29.09.2010](sto-po-wirtschaftsrecht-ba.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/StO-PO-Wirtschaftsrecht-BA.pdf>
-- [PO Master Deutsch-Französisches-Recht 20230731.pdf](po-master-deutsch-franzoesisches-recht-20230731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20230731.pdf>
 - [PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20240926.pdf](po-master-deutsch-franzoesisches-recht-20220811-idf-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811_idF_20240926.pdf>
+- [PO Master Deutsch-Französisches-Recht 20220811 i.d.F. 20230731.pdf](po-master-deutsch-franzoesisches-recht-20220811-i-d-f-20230731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811_i.d.F. 20230731.pdf>
 - [PO Master Deutsch-Französisches-Recht 20220811.pdf](po-master-deutsch-franzoesisches-recht-20220811.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/konsolidierte_Fassungen/PO_Master_Deutsch-Französisches-Recht_20220811.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
 - [Sammel-ÄSa Masterbewerbung 20230731 ÄS.pdf](sammel-aesa-masterbewerbung-20230731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Deutsch_Franzoesisches_Recht/Aenderungssatzungen/Sammel-AeSa_Masterbewerbung_20230731_AeS.pdf>

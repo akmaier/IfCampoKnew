@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 17.02.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_KultGeo.FEBRUAR2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:03:59+00:00
-page_count_chars: 7181
+scraped_at: 2026-07-01T10:23:06+00:00
+page_count_chars: 7247
 ---
 
 # PDF vom 05.10.2007 i.d.F. 17.02.2014
@@ -16,7 +16,7 @@ page_count_chars: 7181
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -40,9 +40,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Das Fach kann nur als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
+(1)<sup>1</sup> Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Das Fach kann nur als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (3) Das Studium der Kulturgeographie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden dazu befähigt, sich an der Identifizierung, Analyse, Diskussion und Lösung raumbezogener gesellschaftlicher Fragestellungen aktiv und kompetent beteiligen zu können. 
 
@@ -60,9 +60,7 @@ Grundlegende Kenntnisse von Kulturgeographie und Physischer Geographie sowie ihr
 
 - Diskurse über Kulturen und Kulturraumkonstrukte, 
 
-- 
-
-   - Theorien räumlicher Systeme, 
+- Theorien räumlicher Systeme, 
 
 - Dynamik der räumlichen Organisation von Gesellschaften und Institutionen, 
 
@@ -104,7 +102,7 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -112,7 +110,7 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 
 2 
 
-|**Bez.1**|**Modul**|**ECTS**|**Prüfungsleistung**|
+|**Bez.**<sup>**1**</sup>|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |**GZB 1**|**Grundlagen der KG I**|**5**||
 |1. FS|Grundvorlesung KG I|5|Klausur (45 Min.)|
@@ -133,22 +131,24 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 |**GZB 9**|**Geländepraktikum**|**5**||
 |4. FS|Geländepraktikum|5|SL: Hausaufgaben|
 |**GZB 10**|**Methoden der Geographie**|**10**||
-|4. FS|Vorlesung: GIS und Fernerkundung|3|Portfolioprüfung: Klausur 45<br>Min. (Vorlesung) und Haus-<br>aufgaben (Seminare)|
-|5. FS|Seminar: Empirische Sozialforschung|4||
-|5. FS|Seminar: GIS und Fernerkundung|3||
+|4. FS|Vorlesung: GIS und Fernerkundung|3|Portfolioprüfung: Klausur 45|
+|5. FS|Seminar: Empirische Sozialforschung|4|<br>Min. (Vorlesung) und Haus-<br>|
+|5. FS|Seminar: GIS und Fernerkundung|3|aufgaben (Seminare)|
 |**GZB 11**|**KG vertieft**|**5**||
 |3. FS|Hauptseminar KG|3|Regelmäßige Teilnahme|
 |4. FS|Kleines Geländeseminar (3 Tage)|2|SL: Vor- oder Nacharbeit|
 |**GZB 12**|**Spezielle Themenfelder der KG und der Regiona-**<br>**len Geographie**|**10**||
-|5. FS|Vorlesung: KG Vertieft oder Regionale Geographie|4|SL: Portfolioprüfung:<br>Hausaufgaben<br>Hausaufgaben<br>Diskussion 30 Min.|
-|6. FS|Vorlesung: KG Vertieft oder Regionale Geographie|4||
-|6. FS|Kolloquium KG|2||
+|5. FS|Vorlesung: KG Vertieft oder Regionale Geographie|4|SL: Portfolioprüfung:<br>|
+|6. FS|Vorlesung: KG Vertieft oder Regionale Geographie|4|Hausaufgaben<br>Hausaufgaben|
+|6. FS|Kolloquium KG|2|<br>Diskussion 30 Min.|
 
 > 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 3 
 
-**§ 5 Grundlagen- und Orientierungsprüfung** Die Grundlagen- und Orientierungsprüfung im Fach Kulturgeographie umfasst die Modulprüfung in den Modulen GZB 1, GZB 2,GZB 4 und GZB 5. 
+## **§ 5 Grundlagen- und Orientierungsprüfung** 
+
+Die Grundlagen- und Orientierungsprüfung im Fach Kulturgeographie umfasst die Modulprüfung in den Modulen GZB 1, GZB 2,GZB 4 und GZB 5. 
 
 ## **§ 6 Lehr- und Lernformen** 
 

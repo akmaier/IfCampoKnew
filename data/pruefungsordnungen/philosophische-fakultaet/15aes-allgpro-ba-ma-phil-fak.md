@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES_AllgPrO BA-MA Phil Fak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:04:13+00:00
-page_count_chars: 16468
+scraped_at: 2026-07-01T09:27:30+00:00
+page_count_chars: 16119
 ---
 
 # 6. August 2015
@@ -12,7 +12,7 @@ page_count_chars: 16468
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES_AllgPrO BA-MA Phil Fak.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
 
-## **Fünfzehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 6. August 2015** 
+# **Fünfzehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - Vom 6. August 2015** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -42,15 +42,15 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudie
 
       - aa)  In Satz 1 werden die Worte „Ein-Fach-Studiengängen“ durch die Worte „EinFach-Bachelorstudiengängen“ ersetzt. 
 
-bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
+      - bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Die **Fachprüfungsordnung Literatur und Buch** kann von den Sätzen 1 und 2 abweichende Regelungen vorsehen.“ 
+„<sup>3</sup> Die **Fachprüfungsordnung Literatur und Buch** kann von den Sätzen 1 und 2 abweichende Regelungen vorsehen.“ 
 
 - b) Abs. 3 wird wie folgt geändert: 
 
    - aa)  In Satz 1 werden die Worte „Zwei-Fach-Studiengängen“ durch die Worte „Zwei-Fach-Bachelorstudiengängen“, die Worte „ersten Fach“ durch das Wort „Erstfach“ sowie die Worte „zweiten Fach“ durch das Wort „Zweitfach“ ersetzt. 
 
-   - bb) In Satz 2 werden die Worte „ersten Fach“ durch das Wort „Erstfach“ ersetzt. 
+bb) In Satz 2 werden die Worte „ersten Fach“ durch das Wort „Erstfach“ ersetzt. 
 
 cc) In Satz 3 wird nach der Zahl „20“ das Wort „bzw.“ eingefügt. 
 
@@ -106,7 +106,7 @@ kann auch in der Form des hälftigen Teilzeitstudiums absolviert werden.“
 
    - b) In Abs. 3 Satz 1 werden die Worte „Prüfungsleistungen und Studienleistungen“ durch die Worte „Prüfungen (Prüfungs- und Studienleistungen)“ ersetzt. 
 
-7. In § 8 Abs. 5 werden die hochgestellte Zahl „[1] “ und der Satz 2 gestrichen. 
+7. In § 8 Abs. 5 werden die hochgestellte Zahl „<sup>1</sup> “ und der Satz 2 gestrichen. 
 
 8. § 9 wird wie folgt geändert: 
 
@@ -116,11 +116,11 @@ a) Abs. 1 wird wie folgt geändert:
 
 bb) Nach Satz 1 wird folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Schriftliche Prüfungen können in der Form des Antwort-Wahl-Verfahrens abgenommen werden; Näheres regelt § 20. 3Prüfungen können in elektronischer Form abgenommen werden.“ 
+„<sup>2</sup> Schriftliche Prüfungen können in der Form des Antwort-Wahl-Verfahrens abgenommen werden; Näheres regelt § 20. 3Prüfungen können in elektronischer Form abgenommen werden.“ 
 
 cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 4 bis 6. 
 
-- b) Abs. 2 wird gestrichen; der bisherige Abs. 3 wird zu Abs. 2 
+b) Abs. 2 wird gestrichen; der bisherige Abs. 3 wird zu Abs. 2 
 
 - c) In Abs. 2 (neu) werden nach dem Wort „Prüfungen“ die Worte „sowie dazu, in welchen Modulen Prüfungen in elektronischer Form abgehalten werden,“ eingefügt. 
 
@@ -128,7 +128,7 @@ cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 4 bis 6.
 
 - a) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] § 10 Abs. 3 Satz 3 gilt entsprechend.[3] Mit dem wirksamen Rücktritt erlischt die Anmeldung.“ 
+„<sup>2</sup> § 10 Abs. 3 Satz 3 gilt entsprechend.<sup>3</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung.“ 
 
 3 
 
@@ -136,51 +136,51 @@ cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 4 bis 6.
 
 ## 10. § 15 wird wie folgt geändert: 
 
-   - a) Abs. 3 wird gestrichen; die bisherigen Abs. 4 bis 6 werden zu Abs. 3 bis 5. 
+- a) Abs. 3 wird gestrichen; die bisherigen Abs. 4 bis 6 werden zu Abs. 3 bis 5. 
 
-   - b) In Abs. 3 Satz 1 (neu) werden die Worte „einer berufspraktischen Tätigkeit“ durch die Worte „außerhalb des Hochschulbereichs (bspw. berufspraktische Tätigkeiten)“ und das Wort „können“ durch das Wort „werden“ ersetzt sowie nach dem Wort „anerkannt“ das Wort „werden“ gestrichen. 
+- b) In Abs. 3 Satz 1 (neu) werden die Worte „einer berufspraktischen Tätigkeit“ durch die Worte „außerhalb des Hochschulbereichs (bspw. berufspraktische Tätigkeiten)“ und das Wort „können“ durch das Wort „werden“ ersetzt sowie nach dem Wort „anerkannt“ das Wort „werden“ gestrichen. 
 
-   - c) In Abs. 4 Satz 4 (neu) werden die Worte „die Prüfungskommission“ durch die Worte „der Prüfungsausschuss“ ersetzt. 
+- c) In Abs. 4 Satz 4 (neu) werden die Worte „die Prüfungskommission“ durch die Worte „der Prüfungsausschuss“ ersetzt. 
 
-11. § 16 wird wie folgt geändert: 
+## 11. § 16 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden vor dem Wort „Ordnungsverstoß“ die Worte „Folgen eines verspäteten Rücktritts, Täuschung,“ eingefügt und nach dem Wort „Ordnungsverstoß“ das Komma und das Wort „Täuschung“ gestrichen. 
+- a) In der Überschrift werden vor dem Wort „Ordnungsverstoß“ die Worte „Folgen eines verspäteten Rücktritts, Täuschung,“ eingefügt und nach dem Wort „Ordnungsverstoß“ das Komma und das Wort „Täuschung“ gestrichen. 
 
-   - b) In Abs. 1 Satz 1 wird das Wort „Prüfungsleistung“ durch das Wort „Prüfung“ ersetzt. 
+- b) In Abs. 1 Satz 1 wird das Wort „Prüfungsleistung“ durch das Wort „Prüfung“ ersetzt. 
 
-   - c) Der bisherige Abs. 2 Satz 4 wird zu Abs. 3, der bisherige (Abs. 2) Satz 5 wird gestrichen. 
+- c) Der bisherige Abs. 2 Satz 4 wird zu Abs. 3, der bisherige (Abs. 2) Satz 5 wird gestrichen. 
 
-   - d) Der bisherige Abs. 3 wird zu Abs. 4 und erhält folgende neue Fassung: 
+- d) Der bisherige Abs. 3 wird zu Abs. 4 und erhält folgende neue Fassung: 
 
 „(4) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann der Prüfungsausschuss die bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
 ## 12. § 20 wird wie folgt geändert: 
 
-## a) Abs. 2 wird wie folgt geändert: 
+- a) Abs. 2 wird wie folgt geändert: 
 
 aa) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 bb)   Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
 4 
 
-b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
-- aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single und / oder“ eingefügt. 
+   - aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single und / oder“ eingefügt. 
 
-bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+   - bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Prüfungen im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.“ 
 
-- cc) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 3 bis 8. 
+   - cc) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 3 bis 8. 
 
-dd) In Satz 6 wird die Zahl „3“ durch die Zahl „4“ ersetzt. 
+   - dd) In Satz 6 wird die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
 - c) Abs. 4 wird gestrichen; die bisherigen Abs. 5 und 6 werden zu Abs. 4 und 5. 
 
-d) Abs. 4 Satz 1 (neu) wird wie folgt geändert: 
+- d) Abs. 4 Satz 1 (neu) wird wie folgt geändert: 
 
 aa) Die Zahl „4“ wird durch die Worte „Abs. 3 Satz 1“ ersetzt. 
 
@@ -224,33 +224,33 @@ cc) In Satz 5 wird die Zahl „5“ durch die Zahl „6“ ersetzt.
 
 „(3) Die **Fachprüfungsordnung Literatur und Buch** kann von den Abs. 1 und 2 abweichende Regelungen vorsehen.“ 
 
-## 16. § 28 wird wie folgt geändert: 
+16. § 28 wird wie folgt geändert: 
 
-- a) In Abs. 1 werden das Zeichen „;“ und die Worte „sie sollte insbesondere in Anspruch genommen werden: 
+   - a) In Abs. 1 werden das Zeichen „;“ und die Worte „sie sollte insbesondere in Anspruch genommen werden: 
 
-   - vor Studienbeginn, 
+      - vor Studienbeginn, 
 
-   - bei geplantem Wechsel des Studiengangs/Studienfachs und 
+      - bei geplantem Wechsel des Studiengangs/Studienfachs und 
 
-   - im Falle der beabsichtigten Aufgabe des Studiums“ 
+      - im Falle der beabsichtigten Aufgabe des Studiums“ 
 
-   - gestrichen. 
+      - gestrichen. 
 
-- b) In Abs. 2 werden das Zeichen „;“ und die Worte vor allem zu fächerübergreifenden Fragen 
+   - b) In Abs. 2 werden das Zeichen „;“ und die Worte vor allem zu fächerübergreifenden Fragen 
 
-   - zur Grundlagen- und Orientierungsprüfung, 
+      - zur Grundlagen- und Orientierungsprüfung, 
 
-   - zu Fächerkombinationen und Fächerwahl, 
+      - zu Fächerkombinationen und Fächerwahl, 
 
-   - zur Stundenplanerstellung, 
+      - zur Stundenplanerstellung, 
 
-   - zu Schlüsselqualifikationen, 
+      - zu Schlüsselqualifikationen, 
 
-   - zum Übergang vom Bachelor- zum Masterstudium, 
+      - zum Übergang vom Bachelor- zum Masterstudium, 
 
-   - zum Studienfach-, Studiengang- oder Hochschulwechsel“ 
+      - zum Studienfach-, Studiengang- oder Hochschulwechsel“ 
 
-   - gestrichen. 
+      - gestrichen. 
 
 6 
 
@@ -286,7 +286,7 @@ aa) Satz 1 wird gestrichen.
 
 bb) Satz 2 (alt) wird wie folgt geändert: 
 
-- (1) Die Worte „[1] Folgende Fächer“ werden durch die Worte „Im Ein-FachBachelorstudiengang“ ersetzt. 
+- (1) Die Worte „<sup>1</sup> Folgende Fächer“ werden durch die Worte „Im Ein-FachBachelorstudiengang“ ersetzt. 
 
 7 
 
@@ -296,23 +296,23 @@ bb) Satz 2 (alt) wird wie folgt geändert:
 
 „3. Literatur und Buch“ 
 
-   - (4) Die bisherige Ziffer 3 wird zu Ziffer 4. 
+(4) Die bisherige Ziffer 3 wird zu Ziffer 4. 
 
-- b) In Abs. 4 Satz 1 werden die Worte „zweiten Fach“ durch das Wort „Zweitfach“ ersetzt. 
+   - b) In Abs. 4 Satz 1 werden die Worte „zweiten Fach“ durch das Wort „Zweitfach“ ersetzt. 
 
-## 20. § 32 Abs. 7 wird wie folgt geändert: 
+20. § 32 Abs. 7 wird wie folgt geändert: 
 
-- a) In Satz 1 werden die Worte „bei der Betreuerin bzw. dem Betreuer“ durch die Worte „beim Prüfungsamt während der Öffnungszeiten“ ersetzt. 
+   - a) In Satz 1 werden die Worte „bei der Betreuerin bzw. dem Betreuer“ durch die Worte „beim Prüfungsamt während der Öffnungszeiten“ ersetzt. 
 
-- b) Satz 2 erhält folgende neue Fassung: 
+   - b) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Das Prüfungsamt teilt der Betreuerin bzw. dem Betreuer unverzüglich das Datum der Abgabe mit und leitet dieser bzw. diesem die Arbeit zu.“ 
+„<sup>2</sup> Das Prüfungsamt teilt der Betreuerin bzw. dem Betreuer unverzüglich das Datum der Abgabe mit und leitet dieser bzw. diesem die Arbeit zu.“ 
 
 21. § 33 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden vor dem Wort „Im“ die hochgestellte Zahl „[1] “ gestrichen und nach den Worten „Schlüsselqualifikationen sind“ die Worte „in den Bachelorstudiengängen“ eingefügt. 
+   - aa) In Satz 1 werden vor dem Wort „Im“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen und nach den Worten „Schlüsselqualifikationen sind“ die Worte „in den Bachelorstudiengängen“ eingefügt. 
 
 bb) Satz 2 wird gestrichen. 
 
@@ -320,19 +320,19 @@ bb) Satz 2 wird gestrichen.
 
 c) In Abs. 3 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Abweichend von Satz 1 können im Fach Literatur und Buch wegen des in diesem Studiengang verpflichtend vorgesehenen Auslandsaufenthalts nicht pauschal 5 ECTS-Punkte für den Erwerb von Studienleistungen aus dem Ausland anerkannt werden.“ 
+„<sup>3</sup> Abweichend von Satz 1 können im Fach Literatur und Buch wegen des in diesem Studiengang verpflichtend vorgesehenen Auslandsaufenthalts nicht pauschal 5 ECTS-Punkte für den Erwerb von Studienleistungen aus dem Ausland anerkannt werden.“ 
 
 8 
 
 22. In § 34 Abs. 1 Satz 1 werden die Worte „ein Mal“ durch das Wort „einmal“ und die Worte „zwei Mal“ durch das Wort „zweimal“ ersetzt. 
 
-## 23. § 35 Abs. 3 wird wie folgt geändert: 
+23. § 35 Abs. 3 wird wie folgt geändert: 
 
-- a) Vor dem Wort „Bewerberinnen“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+   - a) Vor dem Wort „Bewerberinnen“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
-- b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
+   - b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 15 Abs. 4 entsprechend.“ 
+„<sup>2</sup> Bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 15 Abs. 4 entsprechend.“ 
 
 24. In § 39 Satz 1 werden die Worte „zwei Mal“ durch das Wort „zweimal“ und die Worte „ein Mal“ durch das Wort „einmal“ ersetzt. 
 
@@ -350,37 +350,35 @@ c) In Abs. 3 wird nach Satz 2 folgender neuer Satz 3 angefügt:
 
 „ 
 
-|**Anlage 3:**|**Anlage 3:**|||||||||||||**Erstfach**<br>|**Erstfach**<br>|**Erstfach**<br>|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Archäologische<br>Wissenschaften|Buchwissenschaft|English and<br>American Studies|Frankoromanistik|Germanistik|Geschichte|Griechische<br>Philologie|Iberoromanistik|Indogermanistik und<br>Indoiranistik|Informatik|Italoromanistik|Japanologie|Kulturgeographie|Kulturgeschichte des<br>Christentums|Kunstgeschichte|Lateinische<br>Philologie|Linguistische<br>Informatik|Mittellatein und<br>Neulatein|Nordische<br>Philologie|Ökonomie|Orientalistik|Pädagogik|Philosophie|Politikwissenschaft|Sinologie|Soziologie|Theater- und<br>Medienwissenschaft|
-||Archäologische Wissenschaften||||||||||||||||||||||||||||
-|**Zweitfach**|Buchwissenschaft||||||||||||||||||||||||||||
-||English and American Studies||||||||||||||||||||||||||||
-||Frankoromanistik||||||||||||||||||||||||||||
-||Germanistik||||||||||||||||||||||||||||
-||Geschichte||||||||||||||||||||||||||||
-||Griechische Philologie||||||||||||||||||||||||||||
-||Iberoromanistik||||||||||||||||||||||||||||
-||Indogermanistik und Indoiranistik||||||||||||||||||||||||||||
-||Islamisch-Religiöse Studien||||||||||||||||||||||||||||
-||Italoromanistik||||||||||||||||||||||||||||
-||Japanologie||||||||||||||||||||||||||||
-||Kulturgeographie||||||||||||||||||||||||||||
-||Kulturgeschichte des Christentums||||||||||||||||||||||||||||
-||Kunstgeschichte||||||||||||||||||||||||||||
-||Lateinische Philologie||||||||||||||||||||||||||||
-||Linguistische Informatik||||||||||||||||||||||||||||
-||Mittellatein und Neulatein||||||||||||||||||||||||||||
-||Nordische Philologie||||||||||||||||||||||||||||
-||Öffentliches Recht||||||||||||||||||||||||||||
-||Ökonomie||||||||||||||||||||||||||||
-||Orientalistik||||||||||||||||||||||||||||
-||Pädagogik||||||||||||||||||||||||||||
-||Philosophie||||||||||||||||||||||||||||
-||Politikwissenschaft||||||||||||||||||||||||||||
-||Sinologie||||||||||||||||||||||||||||
-||Soziologie||||||||||||||||||||||||||||
-||Theater- und Medienwissenschaft||||||||||||||||||||||||||||
+|**Anlage 3:**<br>Archäologische Wissenschaften|Archäologische<br>Wissenschaften<br>Buchwissenschaft|English and<br>American Studies|Frankoromanistik|Germanistik|Geschichte<br>Griechische<br>Philologie|Iberoromanistik<br>Indogermanistik und<br>Indoiranistik|Informatik<br>Italoromanistik<br>Japanologie|**Erstfac**<br>Kulturgeographie<br>Kulturgeschichte des<br>Christentums|**h**<br>Kunstgeschichte<br>Lateinische<br>Philologie|Linguistische<br>Informatik<br>Mittellatein und<br>Neulatein|Nordische<br>Philologie<br>Ökonomie|Orientalistik<br>Pädagogik<br>Philosophie<br>Politikwissenschaft<br>Sinologie<br>Soziologie<br>Theater- und<br>Medienwissenschaft|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Buchwissenschaft|||||||||||||
+|English and American Studies|||||||||||||
+|Frankoromanistik|||||||||||||
+|Germanistik|||||||||||||
+|Geschichte|||||||||||||
+|Griechische Philologie|||||||||||||
+|Iberoromanistik|||||||||||||
+|Indogermanistik und Indoiranistik|||||||||||||
+|Islamisch-Religiöse Studien|||||||||||||
+|Italoromanistik|||||||||||||
+|<br>Japanologie|||||||||||||
+|**ch**<br>Kulturgeographie|||||||||||||
+|**fa**<br>Kulturgeschichte des Christentums|||||||||||||
+|**it**<br>Kunstgeschichte|||||||||||||
+|**we**<br>Lateinische Philologie|||||||||||||
+|**Z**<br>Linguistische Informatik|||||||||||||
+|Mittellatein und Neulatein|||||||||||||
+|Nordische Philologie|||||||||||||
+|Öffentliches Recht|||||||||||||
+|Ökonomie|||||||||||||
+|Orientalistik|||||||||||||
+|Pädagogik|||||||||||||
+|Philosophie|||||||||||||
+|Politikwissenschaft|||||||||||||
+|Sinologie|||||||||||||
+|Soziologie|||||||||||||
+|Theater- und Medienwissenschaft|||||||||||||
 
 „ 
 

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Maschinenbau"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:27+00:00
+scraped_at: 2026-07-01T11:46:48+00:00
 ---
 
 # Maschinenbau

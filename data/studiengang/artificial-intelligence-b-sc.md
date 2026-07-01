@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:42:36+00:00
+scraped_at: 2026-07-01T08:18:45+00:00
 ---
 
 # Artificial Intelligence (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:42:36+00:00
 
 In diesem interdisziplinären englischsprachigen Studiengang erwerben die Studierenden grundlegende Kenntnisse in den Bereichen Informatik, Mathematik und ethisch-philosophische Kontextualisierung der KI. Diese Grundlagen werden ergänzt durch verschiedene forschungs- und anwendungsorientierte Wahlpflichtbereiche.
 
-### Bachelor of Science Artificial Intelligence
+### Fachanteile des Studiengangs Artificial Intelligence (B.Sc.)
 
 * Elective Modules (Application Domain Fundamentals, AI Electives, AI Seminar, AI Project, Free Choice) (45%)
 * Computer Science (20%)

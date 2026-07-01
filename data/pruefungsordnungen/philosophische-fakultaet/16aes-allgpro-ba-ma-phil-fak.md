@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. August 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/16AES_AllgPrO BA-MA Phil Fak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:04:00+00:00
-page_count_chars: 25965
+scraped_at: 2026-07-01T09:27:23+00:00
+page_count_chars: 25353
 ---
 
 # 2. August 2016
@@ -12,17 +12,17 @@ page_count_chars: 25965
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/16AES_AllgPrO BA-MA Phil Fak.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
 
-## **Sechzehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil -** 
+# **Sechzehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil -** 
 
-## **Vom 2. August 2016** 
+# **Vom 2. August 2016** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - vom 27. September 2007, zuletzt geändert durch Satzung vom 6. August 2015, wird wie folgt geändert: 
 
-## 1. § 1 wird wie folgt geändert: 
+# 1. § 1 wird wie folgt geändert: 
 
    - a) In Satz 1 werden die Worte „Organisations- und Personalentwicklung sowie Multimedia-Didaktik“ durch die Worte „Multimedia-Didaktik sowie Organisationsund Personalentwicklung“ ersetzt. 
 
@@ -34,7 +34,7 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudie
 
    - b) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-„(4) 1Soweit die **Fachstudien- und Prüfungsordnungen** nichts anderes vorsehen, ist die Unterrichtsund Prüfungssprache in den Bachelorstudiengängen Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+„(4) 1Soweit die **Fachstudien- und Prüfungsordnungen** nichts anderes vorsehen, ist die Unterrichtsund Prüfungssprache in den Bachelorstudiengängen Deutsch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.<sup>3</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 3. § 3a wird wie folgt geändert: 
 
@@ -46,13 +46,13 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudie
 
 - c) In Abs. 3 werden nach Satz 3 folgende neue Sätze 4 bis 6 angefügt: 
 
-„[4] Die bisherigen im Teil- bzw. Vollzeitstudium studierten Semester werden entsprechend angerechnet. 5Im Teilbzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[6] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht, die Grundlagen- und Orientierungsprüfung bis zum Ende des dritten Fachsemesters abzuschließen.“ 
+„<sup>4</sup> Die bisherigen im Teil- bzw. Vollzeitstudium studierten Semester werden entsprechend angerechnet. 5Im Teilbzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.<sup>6</sup> Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht, die Grundlagen- und Orientierungsprüfung bis zum Ende des dritten Fachsemesters abzuschließen.“ 
 
 - d) Abs. 4 wird wie folgt geändert: 
 
 aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Abweichend von Satz 1 können im Studienjahr in dem die Bachelorarbeit abgegeben wird Prüfungen im Umfang von maximal 45 ECTS-Punkten abgelegt werden.“ 
+„<sup>2</sup> Abweichend von Satz 1 können im Studienjahr in dem die Bachelorarbeit abgegeben wird Prüfungen im Umfang von maximal 45 ECTS-Punkten abgelegt werden.“ 
 
 bb) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -80,19 +80,19 @@ ee) In Satz 4 wird die Zahl „2“ durch die Zahl „3“ ersetzt.
 
 - bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Der Prüfungsausschuss kann auf Antrag die Absolvierung des Moduls Bachelorarbeit im Zweitfach genehmigen.“ 
+„<sup>3</sup> Der Prüfungsausschuss kann auf Antrag die Absolvierung des Moduls Bachelorarbeit im Zweitfach genehmigen.“ 
 
 - cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
 - dd) In Satz 5 (neu) werden die Worte „ **Fachprüfungsordnungen Informatik und** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “, nach dem Wort „ **Kulturgeographie** “ das Wort „können“ durch das Wort „kann“ und nach der Zahl und dem Wort „2 und“ die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
-## 5. § 5 wird wie folgt geändert: 
+# 5. § 5 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „Regelstudienzeiten“ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache** “ angefügt. 
 
 - b) Abs. 1 Satz 3 erhält folgende neue Fassung: 
 
-„[3] Abweichend von Satz 2 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
+„<sup>3</sup> Abweichend von Satz 2 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
 
 - c) In Abs. 3 Satz 3 werden nach den Worten „können wegen des“ die Worte „sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifizierungsziels des Masterstudiengangs ergebenden“ eingefügt. 
 
@@ -102,31 +102,31 @@ ee) In Satz 4 wird die Zahl „2“ durch die Zahl „3“ ersetzt.
 
 - e) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5) 1Soweit die **Fachstudien- und Prüfungsordnungen** nichts anderes vorsehen, ist die Unterrichts- und Prüfungssprache in den Masterstudiengängen Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+„(5) 1Soweit die **Fachstudien- und Prüfungsordnungen** nichts anderes vorsehen, ist die Unterrichts- und Prüfungssprache in den Masterstudiengängen Deutsch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.<sup>3</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 3 
 
 6. In § 5a Abs. 2 wird nach Satz 3 folgender neuer Satz 4 angefügt: 
 
-„[4] Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.“ 
+„<sup>4</sup> Im Teil- bzw. Vollzeitstudium begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.“ 
 
 7. In § 7 Abs. 2 Satz 3 wird der Klammerzusatz „(Portfolioprüfung)“ durch die Worte „bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen“ ersetzt. 
 
 8. In § 8 Abs. 6 wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-9. § 10 wird wie folgt geändert: 
+# 9. § 10 wird wie folgt geändert: 
 
-   - a) Abs. 1 Satz 3 wird wie folgt geändert: 
+- a) Abs. 1 Satz 3 wird wie folgt geändert: 
 
-      - aa) Nach dem Wort „Bachelorprüfung“ werden die Worte „in Vollzeit“ eingefügt. 
+   - aa) Nach dem Wort „Bachelorprüfung“ werden die Worte „in Vollzeit“ eingefügt. 
 
-      - bb) Nach den Worten „das sechste“ werden ein Komma und die Worte „in der Bachelorprüfung in Teilzeit das zwölfte, in der Masterprüfung in Vollzeit das vierte“ eingefügt. 
+   - bb) Nach den Worten „das sechste“ werden ein Komma und die Worte „in der Bachelorprüfung in Teilzeit das zwölfte, in der Masterprüfung in Vollzeit das vierte“ eingefügt. 
 
-      - cc) Nach den Worten „und in der Masterprüfung“ werden die Worte „in Teilzeit“ eingefügt. 
+   - cc) Nach den Worten „und in der Masterprüfung“ werden die Worte „in Teilzeit“ eingefügt. 
 
 dd) Das Wort „vierte“ wird durch das Wort „achte“ ersetzt. 
 
-## b) Abs. 2 erhält folgende neue Fassung: 
+# b) Abs. 2 erhält folgende neue Fassung: 
 
 „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
 
@@ -134,7 +134,7 @@ dd) Das Wort „vierte“ wird durch das Wort „achte“ ersetzt.
 
 10. In § 12 Abs. 3 Satz 3 wird das Wort „Mit“ durch die Worte „Die Erklärung des Rücktritts ist unwiderruflich; mit“ ersetzt. 
 
-## 11. § 15 wird wie folgt geändert: 
+# 11. § 15 wird wie folgt geändert: 
 
 - a) In der Überschrift werden die Worte „Studienzeiten, Studienund Prüfungsleistungen“ durch das Wort „Kompetenzen“ ersetzt. 
 
@@ -150,11 +150,11 @@ dd) Das Wort „vierte“ wird durch das Wort „achte“ ersetzt.
 
    - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der Universität Erlangen-Nürnberg noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+„<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der Universität Erlangen-Nürnberg noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 cc) Der bisherige Satz 3 wird zu Satz 4. 
 
-12. § 16 wird wie folgt geändert: 
+# 12. § 16 wird wie folgt geändert: 
 
    - a) In der Überschrift werden nach dem Wort „Ordnungsverstoß“ ein Komma und die Worte „Ausschluss von der weiteren Teilnahme“ angefügt. 
 
@@ -170,29 +170,29 @@ cc) Der bisherige Satz 3 wird zu Satz 4.
 
 - c) Abs. 3 wird wie folgt geändert: 
 
-   - aa) Nach Satz 5 wird folgender neuer Satz 6 eingefügt: 
+aa) Nach Satz 5 wird folgender neuer Satz 6 eingefügt: 
 
-„[6] Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.“ 
+„<sup>6</sup> Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.“ 
 
-- bb) Die bisherigen Sätze 6 bis 8 werden zu Sätzen 7 bis 9. 
+bb) Die bisherigen Sätze 6 bis 8 werden zu Sätzen 7 bis 9. 
 
-- cc) Nach Satz 9 wird folgender neuer Satz 10 angefügt: 
+cc) Nach Satz 9 wird folgender neuer Satz 10 angefügt: 
 
-„[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
+„<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
 
-   - d) In Abs. 4 Satz 1 Ziffern 1 und 2 wird jeweils die Zahl „4“ durch die Zahl „3“ ersetzt. 
+- d) In Abs. 4 Satz 1 Ziffern 1 und 2 wird jeweils die Zahl „4“ durch die Zahl „3“ ersetzt. 
 
-   - e) In Abs. 5 werden das Wort und die Zahl „bis 5“ durch das Wort und die Zahl „und 4“ ersetzt. 
+- e) In Abs. 5 werden das Wort und die Zahl „bis 5“ durch das Wort und die Zahl „und 4“ ersetzt. 
 
-14. § 22 wird wie folgt geändert: 
+# 14. § 22 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 4 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
+- a) In Abs. 1 Satz 4 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-   - b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
+- b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.[2] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.[3] Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote. 4Bei nicht benoteten Studienleistungen beschränkt sich die Bewertung des Moduls auf „bestanden“ oder „nicht bestanden“.“ 
+„(2)<sup>1</sup> Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.<sup>2</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung.<sup>3</sup> Wird in einem Modul nur eine benotete Prüfung abgehalten, bildet sie die Modulnote. 4Bei nicht benoteten Studienleistungen beschränkt sich die Bewertung des Moduls auf „bestanden“ oder „nicht bestanden“.“ 
 
-- c) Die bisherigen Abs. 2 und 3 werden zu Abs. 3 und 4. 
+c) Die bisherigen Abs. 2 und 3 werden zu Abs. 3 und 4. 
 
 - d) In Abs. 4 (neu) werden die Worte und das Komma „der Grundlagen- und Orientierungsprüfung,“ gestrichen. 
 
@@ -216,7 +216,7 @@ cc) Der bisherige Satz 3 wird zu Satz 4.
 
 15. In § 25 Abs. 3 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## 16. § 29 wird wie folgt geändert: 
+# 16. § 29 wird wie folgt geändert: 
 
 - a) Abs. 1 Satz 2 wird wie folgt geändert: 
 
@@ -254,9 +254,9 @@ dd) Die bisherigen Ziffern 3 bis 6 werden zu Ziffern 4 bis 7.
 
 c) Der bisherige Abs. 2 wird zu Abs. 3. 
 
-## d) Abs. 3 (neu) erhält folgende neue Fassung: 
+# d) Abs. 3 (neu) erhält folgende neue Fassung: 
 
-„(3)[1] Als Fremdsprache im Sinne von Abs. 1 Satz 2 Nr. 3 gilt eine andere Sprache als die Muttersprache der Studierenden. 2Die **Fachstudienund Prüfungsordnung** kann festlegen, welche weiteren Fremdsprachenkenntnisse außer Englisch nachgewiesen werden müssen und für den Nachweis ein früheres als das in Abs. 1 Nr. 3 genannte Semester festlegen.[3] Fremdsprachenkenntnisse werden insbesondere nachgewiesen durch: 
+„(3)<sup>1</sup> Als Fremdsprache im Sinne von Abs. 1 Satz 2 Nr. 3 gilt eine andere Sprache als die Muttersprache der Studierenden. 2Die **Fachstudienund Prüfungsordnung** kann festlegen, welche weiteren Fremdsprachenkenntnisse außer Englisch nachgewiesen werden müssen und für den Nachweis ein früheres als das in Abs. 1 Nr. 3 genannte Semester festlegen.<sup>3</sup> Fremdsprachenkenntnisse werden insbesondere nachgewiesen durch: 
 
 1. den Nachweis nach Abs. 2 Nrn. 1 und 2, 
 
@@ -270,31 +270,31 @@ fachlich zuständigen Hochschullehrerin bzw. eines fachlich zuständigen Hochsch
 
 - e) Nach Abs. 3 (neu) wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Höchstens eine der nach Abs. 1 Satz 2 Nrn. 2 und 3 i. V. m. Abs. 2 und 3 nachzuweisenden Fremdsprachen darf Gegenstand des Fachstudiums sein. 2Der Nachweis der Fremdsprachenkenntnisse ist im Prüfungsamt vorzulegen.“ 
+„(4)<sup>1</sup> Höchstens eine der nach Abs. 1 Satz 2 Nrn. 2 und 3 i. V. m. Abs. 2 und 3 nachzuweisenden Fremdsprachen darf Gegenstand des Fachstudiums sein. 2Der Nachweis der Fremdsprachenkenntnisse ist im Prüfungsamt vorzulegen.“ 
 
-## 17. § 30 wird wie folgt geändert: 
+17. § 30 wird wie folgt geändert: 
 
-- a) Abs. 2 wird wie folgt geändert: 
+   - a) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird nach den Worten „des zweiten Semesters“ das Wort „Prüfungen“ durch das Wort „Module“ ersetzt. 
+      - aa) In Satz 1 wird nach den Worten „des zweiten Semesters“ das Wort „Prüfungen“ durch das Wort „Module“ ersetzt. 
 
-   - bb) In Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
+      - bb) In Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-   - cc) Satz 3 wird gestrichen; der bisherige Satz 4 wird zu Satz 3. 
+      - cc) Satz 3 wird gestrichen; der bisherige Satz 4 wird zu Satz 3. 
 
-- b) Abs. 3 wird wie folgt geändert: 
+   - b) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach den Worten „des zweiten Semesters“ das Wort „Prüfungen“ durch die Worte „in jedem“ ersetzt, nach den Worten „gewählten Fächern“ das Wort „Module“ eingefügt und nach den Worten „im Umfang von“ die Zahl „40“ durch die Zahl „20“ ersetzt. 
+      - aa) In Satz 1 werden nach den Worten „des zweiten Semesters“ das Wort „Prüfungen“ durch die Worte „in jedem“ ersetzt, nach den Worten „gewählten Fächern“ das Wort „Module“ eingefügt und nach den Worten „im Umfang von“ die Zahl „40“ durch die Zahl „20“ ersetzt. 
 
-   - bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2. 
+      - bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2. 
 
-   - cc) In Satz 2 (neu) wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
+      - cc) In Satz 2 (neu) wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-   - dd) Satz 4 wird gestrichen; der bisherige Satz 5 wird zu Satz 3. 
+      - dd) Satz 4 wird gestrichen; der bisherige Satz 5 wird zu Satz 3. 
 
-   - ee) In Satz 3 (neu) wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
+      - ee) In Satz 3 (neu) wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## c) Abs. 4 wird wie folgt geändert: 
+# c) Abs. 4 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden nach den Worten „des zweiten Semesters“ das Wort „Prüfungen“ durch das Wort „Module“, nach dem Wort und der Zahl „Abs. 2“ die Worte und Zahlen „Sätze 3 und 4“ durch das Wort und die Zahl „Satz 2“ und nach dem Wort und der Zahl „Abs. 3“ die Worte und Zahlen „Sätze 3 und 4“ durch das Wort und die Zahl „Satz 2“ ersetzt. 
 
@@ -302,7 +302,7 @@ fachlich zuständigen Hochschullehrerin bzw. eines fachlich zuständigen Hochsch
 
 - bb) In Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## 18. § 31 wird wie folgt geändert: 
+# 18. § 31 wird wie folgt geändert: 
 
 - a) In Abs. 1 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
@@ -312,7 +312,7 @@ fachlich zuständigen Hochschullehrerin bzw. eines fachlich zuständigen Hochsch
 
    - bb) In Satz 4 werden die Worte „Antrag einschließlich des Nachweises“ durch das Wort „Nachweis“ ersetzt. 
 
-## 19. § 32 wird wie folgt geändert: 
+# 19. § 32 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -338,23 +338,23 @@ fachlich zuständigen Hochschullehrerin bzw. eines fachlich zuständigen Hochsch
 
 20. In § 33 Abs. 4 wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-21. § 34 wird wie folgt geändert: 
+# 21. § 34 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „Prüfungen“ ein Komma und das Wort „ **Zusatzmodule** “ angefügt. 
+- a) In der Überschrift werden nach dem Wort „Prüfungen“ ein Komma und das Wort „ **Zusatzmodule** “ angefügt. 
 
-   - b) In Abs. 1 Satz 1 wird der Klammerzusatz „(Portfolioprüfung)“ gestrichen. 
+- b) In Abs. 1 Satz 1 wird der Klammerzusatz „(Portfolioprüfung)“ gestrichen. 
 
-   - c) Abs. 2 wird wie folgt geändert: 
+- c) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „Exmatrikulation“ das Komma und die Worte „durch Wechsel aus einem oder in einen Teilstudiengang“ gestrichen. 
+   - aa) In Satz 1 werden nach dem Wort „Exmatrikulation“ das Komma und die Worte „durch Wechsel aus einem oder in einen Teilstudiengang“ gestrichen. 
 
-      - bb) In Satz 4 werden die Worte „und Elternzeit“ durch ein Komma und die Worte „Eltern- und Pflegezeit“ ersetzt. 
+   - bb) In Satz 4 werden die Worte „und Elternzeit“ durch ein Komma und die Worte „Eltern- und Pflegezeit“ ersetzt. 
 
-## 22. § 35 wird wie folgt geändert: 
+# 22. § 35 wird wie folgt geändert: 
 
 - a) In Abs. 1 Nr. 1 werden nach den Worten „bzw. einen sonstigen“ das Wort „gleichwertigen“ eingefügt und nach den Worten „Hochschule; die jeweiligen“ das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-## b) Abs. 2 wird wie folgt geändert: 
+# b) Abs. 2 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden nach den Worten „nach dieser“ die Worte „Studien- und“ eingefügt und nach den Worten „einschließlich der jeweiligen“ das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudienund Prüfungsordnung** “ ersetzt. 
 
@@ -366,17 +366,17 @@ bb) In Satz 3 wird das Wort „wesentliche“ gestrichen.
 
 23. In § 36 Abs. 1 Satz 3 Ziffern 1 und 2 wird jeweils das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudienund Prüfungsordnungen** “ ersetzt. 
 
-24. § 37 wird  wie folgt geändert: 
+# 24. § 37 wird  wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
+- a) In Abs. 1 Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden vor dem Wort „Gegenstände“ die hochgestellte Zahl „[1] “ gestrichen und nach den Worten „werden in der“ das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudienund Prüfungsordnung** “ ersetzt. 
+   - aa) In Satz 1 werden vor dem Wort „Gegenstände“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen und nach den Worten „werden in der“ das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudienund Prüfungsordnung** “ ersetzt. 
 
-      - bb) Satz 2 wird gestrichen. Die Satznummerierung wird angepasst. 
+   - bb) Satz 2 wird gestrichen. Die Satznummerierung wird angepasst. 
 
-## 25. § 38 wird wie folgt geändert: 
+# 25. § 38 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -386,11 +386,11 @@ bb) In Satz 3 wird das Wort „wesentliche“ gestrichen.
 
    - cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-      - „[4] Näheres zum Umfang der Masterarbeit regeln die **Fachstudien- und Prüfungsordnungen** .“ 
+      - „<sup>4</sup> Näheres zum Umfang der Masterarbeit regeln die **Fachstudien- und Prüfungsordnungen** .“ 
 
 - b) In Abs. 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## 26. § 39 wird wie folgt geändert: 
+# 26. § 39 wird wie folgt geändert: 
 
 - a) In Satz 1 wird nach den Worten „Prüfungsteile“ der Klammerzusatz „(Portfolioprüfung)“ gestrichen. 
 
@@ -416,45 +416,42 @@ bb) In Satz 3 wird das Wort „wesentliche“ gestrichen.
 
 13 
 
-## 29. Anlage 3 erhält folgende neue Fassung: 
+# 29. Anlage 3 erhält folgende neue Fassung: 
 
 „ 
 
-|**Anlage 3:**|**Anlage 3:**|||||||||||||**Erstfach**<br>|**Erstfach**<br>|**Erstfach**<br>||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Archäologische<br>Wissenschaften|Buchwissenschaft|English<br>and<br>American Studies|Frankoromanistik|Germanistik|Geschichte|Griechische<br>Philologie|Iberoromanistik|Indogermanistik und<br>Indoiranistik|Italoromanistik|Japanologie|Kulturgeographie|Kulturgeschichte des<br>Christentums|Kunstgeschichte|Lateinische<br>Philologie|Linguistische<br>Informatik|Mittellatein<br>und<br>Neulatein|Nordische<br>Philologie|Ökonomie|Orientalistik|Pädagogik|Philosophie|Politikwissenschaft|Sinologie|Soziologie|Theater-<br>und<br>Medienwissenschaft|
-||Archäologische Wissenschaften|||||||||||||||||||||||||||
-|**Zweitfach**|Buchwissenschaft|||||||||||||||||||||||||||
-||Digitale Geistes- und Sozialwissenschaften|||||||||||||||||||||||||||
-||English and American Studies|||||||||||||||||||||||||||
-||Frankoromanistik|||||||||||||||||||||||||||
-||Germanistik|||||||||||||||||||||||||||
-||Geschichte|||||||||||||||||||||||||||
-||Griechische Philologie|||||||||||||||||||||||||||
-||Iberoromanistik|||||||||||||||||||||||||||
-||Indogermanistik und Indoiranistik|||||||||||||||||||||||||||
-||Islamisch-Religiöse Studien|||||||||||||||||||||||||||
-||Italoromanistik|||||||||||||||||||||||||||
-||Japanologie|||||||||||||||||||||||||||
-||Kulturgeographie|||||||||||||||||||||||||||
-||Kulturgeschichte des Christentums|||||||||||||||||||||||||||
-||Kunstgeschichte|||||||||||||||||||||||||||
-||Lateinische Philologie|||||||||||||||||||||||||||
-||Linguistische Informatik|||||||||||||||||||||||||||
-||Mittellatein und Neulatein|||||||||||||||||||||||||||
-||Nordische Philologie|||||||||||||||||||||||||||
-||Öffentliches Recht|||||||||||||||||||||||||||
-||Ökonomie|||||||||||||||||||||||||||
-||Orientalistik|||||||||||||||||||||||||||
-||Pädagogik|||||||||||||||||||||||||||
-||Philosophie|||||||||||||||||||||||||||
-||Politikwissenschaft|||||||||||||||||||||||||||
-||Sinologie|||||||||||||||||||||||||||
-||Soziologie|||||||||||||||||||||||||||
-||Theater- und Medienwissenschaft|||||||||||||||||||||||||||
-||Das Lehrangebot dieser Kombination ist so aufeinander abgestimmt, dass d<br>Diese Kombination kann nur nach einer diesbezüglichen Studienberatung s<br>die Studierbarkeit der Kombination und die Einhaltung der Fristen des §10.<br>Diese Kombination ist ausgeschlossen.|||||ie Fäche<br>tudiert<br>Der Nac|r in der<br>werden.<br>hweis ein|Regel überschneidungsfrei mitein<br>Die Überschneidungsfreiheit kan<br>er Studienberatung ist bei der Im||||ander kombiniert werden können.<br>n jedoch nicht garantiert werden.<br>matrikulation vorzulegen.||||<br>Die Stud|ierende|n tragen selbst di||e Verantwortung für||||||||
-|||||||||||||||||||||||||||||
-|||||||||||||||||||||||||||||
+|**Anlage 3:**<br>Archäologische Wissenschaften|Archäologische<br>Wissenschaften<br>Buchwissenschaft<br>English<br>and<br>American Studies<br>Frankoromanistik<br>Germanistik|Geschichte<br>Griechische<br>Philologie|Iberoromanistik<br>Indogermanistik und<br>Indoiranistik|**Erstfac**<br>Italoromanistik<br>Japanologie<br>Kulturgeographie<br>Kulturgeschichte des<br>Christentums<br>Kunstgeschichte|**h**<br>Lateinische<br>Philologie<br>Linguistische<br>Informatik<br>Mittellatein<br>und<br>Neulatein<br>Nordische<br>Philologie<br>Ökonomie|Orientalistik<br>Pädagogik<br>Philosophie<br>Politikwissenschaft<br>Sinologie<br>Soziologie<br>Theater-<br>und<br>Medienwissenschaft|
+|---|---|---|---|---|---|---|
+|Buchwissenschaft|||||||
+|Digitale Geistes- und Sozialwissenschaften|||||||
+|English and American Studies|||||||
+|Frankoromanistik|||||||
+|Germanistik|||||||
+|Geschichte|||||||
+|Griechische Philologie|||||||
+|Iberoromanistik|||||||
+|Indogermanistik und Indoiranistik|||||||
+|<br>Islamisch-Religiöse Studien|||||||
+|Italoromanistik|||||||
+|<br>Japanologie|||||||
+|**ch**<br>Kulturgeographie|||||||
+|**tfa**<br>Kulturgeschichte des Christentums|||||||
+|**ei**<br>Kunstgeschichte|||||||
+|**Zw**<br>Lateinische Philologie|||||||
+|<br>Linguistische Informatik|||||||
+|Mittellatein und Neulatein|||||||
+|Nordische Philologie|||||||
+|Öffentliches Recht|||||||
+|Ökonomie|||||||
+|Orientalistik|||||||
+|Pädagogik|||||||
+|Philosophie|||||||
+|Politikwissenschaft|||||||
+|Sinologie|||||||
+|Soziologie|||||||
+|Theater- und Medienwissenschaft|||||||
+|Das Lehrangebot dieser Kombination ist s|o aufeinander abgestimmt, dass die Fäch|er in der Regel ü|berschneidungsf|rei miteinander kombiniert werden können|.||
+|Diese Kombination kann nur nach einer d<br>die Studierbarkeit der Kombination und die<br>Diese Kombination ist ausgeschlossen.|iesbezüglichen Studienberatung studiert<br>Einhaltung der Fristen des §10. Der Nac|werden. Die Übe<br>hweis einer Studi|rschneidungsfre<br>enberatung ist b|iheit kann jedoch nicht garantiert werden<br>ei der Immatrikulation vorzulegen.|. Die Studierenden tragen selbst die Ver|antwortung für|
 
 „ 
 

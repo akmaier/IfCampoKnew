@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:44:54+00:00
+scraped_at: 2026-07-01T08:21:40+00:00
 ---
 
 # Europäischer Master für Lexikographie (M.A.)

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-05-01T06:46:24+00:00
+scraped_at: 2026-07-01T08:23:09+00:00
 ---
 
 # Informatik/IT-Sicherheit (B.Sc.)
@@ -35,7 +35,7 @@ In Deutschland herrscht ein enormer Mangel an akademisch geschulten IT-Sicherhei
 
 Hier sind Sie als Experte für IT-Sicherheit gefragt! Das berufsbegleitende Fernstudium vermittelt fundierte Kenntnisse im Bereich der IT-Sicherheit auf höchstem Niveau und versetzt Sie in die Lage, die vielfältigen Sicherheitsbedrohungen abzuwehren, denen IT-Systeme ausgesetzt sein können. Mit dem berufsbegleitenden Bachelorstudiengang Informatik/IT-Sicherheit werden Sie für Ihre individuelle Karriere in der IT-Sicherheit erstklassig forschungsorientiert weiterqualifiziert – und das ganz flexibel per Fernstudium neben Ihrem Beruf.
 
-### Bachelor of Science Informatik/IT-Sicherheit
+### Fachanteile des Studiengangs Informatik/IT-Sicherheit (B.Sc.)
 
 * IT-Sicherheit (42%)
 * Informatik (30%)

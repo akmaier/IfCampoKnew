@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Februar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES%20WTB-MA%20OrgPersEntwick.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:23+00:00
-page_count_chars: 5339
+scraped_at: 2026-07-01T09:58:53+00:00
+page_count_chars: 5380
 ---
 
 # 24. Februar 2012
@@ -12,13 +12,13 @@ page_count_chars: 5339
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES%20WTB-MA%20OrgPersEntwick.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Dritte Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengang Organisations- und Personalentwicklung an der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengang Organisations- und Personalentwicklung an der Universität Erlangen-Nürnberg** 
 
 Vom 24. Februar 2012 
 
 Aufgrund von Art. 13 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 32 der Qualifikationsverordnung (QualV) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengang Organisations- und Personalentwicklung an der Universität Erlangen-Nürnberg vom 27. Juli 2006, zuletzt geändert durch Satzung vom 11. August 2010, wird wie folgt geändert: 
 
@@ -46,17 +46,17 @@ bb) In Satz 2 wird die Zahl „2,51“ durch die Zahl „2,01“ ersetzt.
 
 **§ 13 a Anrechnung von Studienzeiten, Prüfungs- und Studienleistungen** 
 
-(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in einem Studiengang an dieser oder einer anderen Universität oder gleichgestellten Hochschule der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in einem Studiengang an dieser oder einer anderen Universität oder gleichgestellten Hochschule der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder 
 
-staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, sind anlässlich der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums anzurechnen, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studienund Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, sind anlässlich der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums anzurechnen, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studienund Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. (3) 1Die für die Anrechnung erforderlichen Unterlagen sind der oder dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Absätze 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung. 3Die Entscheidung trifft die oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich. 4Die Anrechnung von Studienzeiten, Modulen, Studien- und Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen.[5] Werden Studien- und Prüfungsleistungen angerechnet, sind die Bewertungen - soweit die Notensysteme vergleichbar sind - zu übernehmen und ggf. in die Berechnung der Gesamtnote einzubeziehen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. (3) 1Die für die Anrechnung erforderlichen Unterlagen sind der oder dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Absätze 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung. 3Die Entscheidung trifft die oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich. 4Die Anrechnung von Studienzeiten, Modulen, Studien- und Prüfungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt von Amts wegen.<sup>5</sup> Werden Studien- und Prüfungsleistungen angerechnet, sind die Bewertungen - soweit die Notensysteme vergleichbar sind - zu übernehmen und ggf. in die Berechnung der Gesamtnote einzubeziehen. 
 
-## 5. In § 18 Abs. 5 wird folgender Satz angefügt: 
+# 5. In § 18 Abs. 5 wird folgender Satz angefügt: 
 
 3Die Masterthesis ist sowohl in schriftlicher Form als auch in maschinenlesbarer, elektronischer Fassung einzureichen. 
 
-## 6. Anlage 1 wird wie folgt geändert: 
+# 6. Anlage 1 wird wie folgt geändert: 
 
 - a) Nr. 4 wird wie folgt geändert: 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.10.2007 i.d.F. 21.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO_ArchaeolWiss.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:06:23+00:00
-page_count_chars: 17858
+scraped_at: 2026-07-01T09:28:51+00:00
+page_count_chars: 17750
 ---
 
 # PDF vom 09.10.2007 i.d.F. 21.07.2014
@@ -36,7 +36,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Archäologische Wissenschaften wird im Ein-Fach-Bachelorstudiengang mit einem Umfang von 150 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten studiert; hinzu kommen 20 ECTS-Punkte für Module, die zusätzliche berufsfeldorientierte Schlüsselqualifikationen vermitteln. 
 
-(2)[1] Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der Ur- und frühgeschichtlichen, Klassischen und Christlichen Archäologie zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Werden das Basis- und die Aufbaumodule sowie die Bachelorarbeit in jeweils nur einer der beteiligten Disziplinen „Ur- und Frühgeschichte“, „Klassische Archäologie“ oder „Christliche Archäologie“ absolviert, so wird auf der Bachelorurkunde der Zusatz „mit Schwerpunkt in“ unter Nennung der jeweiligen Disziplin aufgeführt. 
+(2)<sup>1</sup> Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der Ur- und frühgeschichtlichen, Klassischen und Christlichen Archäologie zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Werden das Basis- und die Aufbaumodule sowie die Bachelorarbeit in jeweils nur einer der beteiligten Disziplinen „Ur- und Frühgeschichte“, „Klassische Archäologie“ oder „Christliche Archäologie“ absolviert, so wird auf der Bachelorurkunde der Zusatz „mit Schwerpunkt in“ unter Nennung der jeweiligen Disziplin aufgeführt. 
 
 1 
 
@@ -112,116 +112,90 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 ## **Anlage: Studienverlaufsplan Ein-Fach-Bachelor Archäologische Wissenschaften** 
 
-|Modulbezeichnung|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang<br>d Püf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||SWS|||||||||||
-|||||||||||ECTS-Punkten||||||
-|||||||||||||||||
-||||V|Ü|P|S||1.|2.|3.|4.|5.|6.|er rung||
-|**Orientierungsmodule: Arbeitsweisen und chronologischer Überblick**~~**2)**~~||||||||||||||||
-|**Einführung in das wissen-**<br>**schaftliche Arbeiten und die**<br>**Methoden der Archäologie2) **|Proseminar: Einführung in das wis-<br>senschaftliche Arbeiten der Archäolo-<br>gie|||||2|10|5||||||Portfolio:<br>Klausur (90 Minuten, 100 %) und<br>Hausaufgaben (3-5 Einzelaufgaben von jeweils 1<br>Seite, 0 %)|1|
-||Proseminar: Einführung in die Metho-<br>dender Archäologie|||||2|||5|||||||
-|**Einführung in die**<br>**Ältere Urgeschichte2)**|Proseminar: Überblick über die Kultu-<br>ren prähistorischer Jäger und Samm-<br>ler|||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die**<br>**Jüngere Urgeschichte2)**|Proseminar: Überblick über die Kultu-<br>ren sesshaft lebender prähistorischer<br>Kulturen Europas|||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Einführung in die Vorgriechi-**<br>**sche und griechische Archäo-**<br>**logie2)**|Proseminar: Einführung in die vor-<br>griechische und griechische Archäo-<br>logie|||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die Italisch-**<br>**römische Archäologie2)**|Proseminar: Einführung in die italisch-<br>römischeArchäologie|||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Einführung in die Christliche**<br>**Archäologie2)  **|Proseminar: Einführung in die Christ-<br>liche Archäologie|||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die Christliche**<br>**Ikonographie2)**|Proseminar: Einführung in die Christ-<br>licheIkonographie|||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Basismodule: Kulturentwicklung  **|**und Kulturgeschichte**|||||||||||||||
-|**Prähistorische Archäologie**||||||||||||||||
-|**Prähistorische Archäologie**:<br>**Ältere Urgeschichte I**||Vorlesung zur prähistorischen<br>KulturentwicklungEuropas|2|||||||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
-|||||||||||||||||
-|||Proseminar zur prähistorischen<br>Klttikl E||||2|10|||5||||||
-|||uurenwcung uropas||||||||||||||
-|||Übung zur prähistorischen Kul-<br>turentwicklung Europas||1||||||2||||||
-|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte I**||Vorlesung zur prähistorischen<br>KulturentwicklungEuropas<br>Proseminar zur prähistorischen|2|||2|||||3<br>5|||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
-|||KulturentwicklungEuropas<br>Übung zur prähistorischen Kul-<br>turentwicklung Europas||1|||10||||<br>2|||||
-|||||||||||||||||
-|**Klassische Archäologie**||||||||||||||||
-|**Klassische Archäologie:**<br>**Vorgriechische und griechische**<br>**Archäologie I**||Vorlesung zur antiken Kulturge-<br>schichte|2|||||||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher||
-|||Proseminar zur antiken Kulturge-<br>schichte||||2|10|||||||<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
-||||||||||||5|||||
+|Modulbezeichnung|Lehrveranstaltung<br>|SWS<br> <br>||Gesamt<br>ECTS|<br>Workload-<br> <br>|Verteil<br>ECTS<br>|ung pro Seme<br>-Punkten<br> <br>|ster in<br>Art und Umfang<br>der Prüfung<br>|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|
+||V|Ü<br>P|S||1.<br>2.|3.|4.<br>5.|<br>6.|note|
+|**Orientierungsmodule: Arbeitswei**|**sen und chronologischer Überblick**<sup>**~~2)~~**</sup>|||||||||
+|**Einführung in das wissen-**<br>**schaftliche Arbeiten und die**<br>|Proseminar: Einführung in das wis-<br>senschaftliche Arbeiten der Archäolo-<br>gie||2|10|5|||Portfolio:<br>Klausur (90 Minuten, 100 %) und<br>|1|
+|**Methoden der Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die Metho-<br>dender Archäologie||2||5|||Hausaufgaben (3-5 Einzelaufgaben von jeweils 1<br>Seite, 0 %)||
+|**Einführung in die**<br>**Ältere Urgeschichte**<sup>**2)**</sup>|Proseminar: Überblick über die Kultu-<br>ren prähistorischer Jäger und Samm-<br>ler||2|5|5<sup>1)</sup>|5<sup>1)</sup>||Klausur (90 Minuten)|1|
+|**Einführung in die**<br>**Jüngere Urgeschichte**<sup>**2)**</sup>|Proseminar: Überblick über die Kultu-<br>ren sesshaft lebender prähistorischer<br>Kulturen Europas||2|5|5<sup>1)</sup>||5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**Einführung in die Vorgriechi-**<br>**sche und griechische Archäo-**<br>**logie**<sup>**2)**</sup>|Proseminar: Einführung in die vor-<br>griechische und griechische Archäo-<br>logie||2|5|5<sup>1)</sup>|5<sup>1)</sup>||Klausur (90 Minuten)|1|
+|**Einführung in die Italisch-**<br>**römische Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die italisch-<br>römischeArchäologie||2|5|5<sup>1)</sup>||5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**Einführung in die Christliche**<br>**Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die Christ-<br>liche Archäologie||2|5|5<sup>1)</sup>|5<sup>1)</sup>||Klausur (90 Minuten)|1|
+|**Einführung in die Christliche**<br>**Ikonorahie**<sup>**2)**</sup>|Proseminar: Einführung in die Christ-<br>lihIkhi||2|5|5<sup>1)</sup>||5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**gp**<br>**Basismodule: Kulturentwicklung  **<br>**Prähistorische Archäologie**|ce onogrape<br>**und Kulturgeschichte**|||||||||
+||Vorlesung zur prähistorischen<br>KulturentwicklungEuropas<br>2|||||3||||
+|**Prähistorische Archäologie**:<br>**Ältere Urgeschichte I**|Proseminar zur prähistorischen<br>Kulturentwicklung Europas||2|10||5||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und|1|
+||Übung zur prähistorischen Kul-<br>turentwicklung Europas|1||||2||<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)||
+||Vorlesung zur prähistorischen<br>KulturentwicklungEuropas<br>2||||||3|Portfolio:||
+|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte I**|Proseminar zur prähistorischen<br>KulturentwicklungEuropas||2|10|||5|<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten 50 %) und|1|
+||Übung zur prähistorischen Kul-<br>|1|||||2|,<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)||
+||turentwicklung Europas|||||||||
+|**Klassische Archäologie**||||||||||
+|**Klassische Archäologie:**<br>|Vorlesung zur antiken Kulturge-<br>schichte<br>2|||||3||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher||
+|**Vorgriechische und griechische**<br>**Archäologie I**|Proseminar zur antiken Kulturge-<br>schichte||2|10|||5|<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
 
 4 
 
-||Übung zur antiken Kulturgeschichte||1|||||||2|||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Klassische Archäologie:**<br>**Italisch-römische Archäologie I**|Vorlesung zur antiken Kulturge-<br>schichte|2||||10|||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur antiken Kulturge-<br>schichte||||2|||||5|||||
-||Übung zur antiken Kulturgeschichte||1|||||||2|||||
-|**Christliche Archäologie**|||||||||||||||
-|**Christliche Archäologie:**<br>**Kulturgeschichte I**|Vorlesung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jhd.|2||||||||3|||Portfolio:<br>Pätti  30 Mi 50 % it hiftlih|1|
-||Proseminar zur Kulturgeschichte<br>des Christentums vom 4. bis ins 8.<br>Jhd.||||||||||||||
-||||||2|10|||5||||rsenaon (ca.  n.,  ) m scrcer<br>Abit  10 Ttit 50 % d H||
-||||||||||||||usareung (ca.  exseen,  ) un aus-<br>aufgaben (im Umfang von ca. 3 Seiten, 0 %)||
-||Übung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jhd.||1||||||2||||||
-|**Christliche Archäologie:**<br>**Ikonographie I**<br>|Vorlesung zur bildenden Kunst der<br>Spätantike und des frühen Chris-<br>tentums|2||||10||||3|||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und Haus-<br>aufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur bildenden Kunst<br>der Spätantike und des frühen<br>Christentums||||2||||5||||||
-||Übung zur bildenden Kunst der<br>Spätantike und des frühen Chris-<br>tentums<br>||1||||||2||||||
-|**Aufbaumodule I: Relevante Themen und Denkmäler**~~**3)**~~|||||||||||||||
-|**Prähistorische Archäologie**|||||||||||||||
-|**Prähistorische Archäologie:**<br>**Ältere Urgeschichte II3)**|Vorlesung über eine thematische<br>Grundfrage prähistorischer Kul-<br>turentwicklung|2||||10|||||3||Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar über eine themati-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung||||2||||||7||||
-|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte II3)**|Vorlesung über eine thematische<br>Grundfrage prähistorischer Kul-<br>turentwicklung|2||||10||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar über eine themati-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung||||2|||||||7|||
+||Übung zur antiken Kulturgeschichte<br>1|||2|||
+|---|---|---|---|---|---|---|
+|**Klassische Archäologie:**<br>**Italisch-römische Archäologie I**|Vorlesung zur antiken Kulturge-<br>schichte<br>2<br>Proseminar zur antiken Kulturge-<br>schichte<br>2|10|3|5|Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und<br>|1|
+|**Christliche Archäologie**|Übung zur antiken Kulturgeschichte<br>1|||2|Hausaufgaben (im Umfang von ca. 3 Seiten, 0 %)||
+||Vorlesung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jhd.<br>2|||3|||
+|**Christliche Archäologie:**<br>**Kulturgeschichte I**|Proseminar zur Kulturgeschichte<br>des Christentums vom 4. bis ins 8.<br>Jhd.<br>2|10|5||Portfolio:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und Haus-<br>aufgaben (im Umfang von ca. 3 Seiten, 0 %)|1|
+||Übung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jhd.<br>1||2||||
+||Vorlesung zur bildenden Kunst der<br>Spätantike und des frühen Chris-<br>tentums<br>2|||3|Ptfli||
+|**Christliche Archäologie:**<br>**Ikonographie I**|Proseminar zur bildenden Kunst<br>der Spätantike und des frühen<br>Christentums<br>2<br>|10|5||oroo:<br>Präsentation (ca. 30 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 10 Textseiten, 50 %) und Haus-<br>aufaben (im Umfan von ca 3 Seiten 0 %)|1|
+||Übung zur bildenden Kunst der<br>Spätantike und des frühen Chris-<br> <br>1||2||g  g  .  ,||
+|**Aufbaumodule I: Relevante Theme**<br>**Prähistorische Archäologie**<br>**Prähistorische Archäologie:**<br>**Ält Uhiht II**<sup>**3)**</sup>|tentums<br>**n und Denkmäler**<sup>**~~3)~~**</sup><br>Vorlesung über eine thematische<br>Grundfrage prähistorischer Kul-<br>turentwicklung<br>2|10|||3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Abit  20 Ttit 50 %|1|
+|**ere rgescce**|Hauptseminar über eine themati-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung<br>2||||usareung (ca.  exseen,  )<br>7||
+|**Prähistorische Archäoloie:**|Vorlesung über eine thematische<br>Grundfrage prähistorischer Kul-<br>turentwicklung<br>2||||3<br>Präsentation (ca 60 Min 50 %) mit schriftlicher||
+|**g**<br>**Jüngere Urgeschichte II**<sup>**3)**</sup>|Hauptseminar über eine themati-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung<br>2|10|||.  .,<br>Ausarbeitung (ca. 20 Textseiten, 50 %)<br>7|1|
 
 5 
 
-|**Klassische Archäologie**|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Klassische Archäologie:**<br>**Vorgriechische und**<br>**griechische Archäologie II3)**|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte|2||||10||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte||||2||||||7||||
-|**Klassische Archäologie:**<br>**Italisch-römische Archäologie II3)**|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte|2||||10||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte||||2||||||7||||
-|**Christliche Archäologie**|||||||||||||||
-|**Christliche Archäologie II3)**<br>|Vorlesung zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie|2||||10|||||3||Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie<br>||||2|||||||7|||
-|**Aufbaumodule II: Relevante Phänomene der Kulturgeschichte**~~**3)**~~|||||||||||||||
-|**Prähistorische Archäologie**|||||||||||||||
-|**Prähistorische Archäologie:**<br>**Ältere Urgeschichte III3)**|Vorlesung über eine chronologi-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung|2||||10||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar über eine chronolo-<br>gische Grundfrage prähistorischer<br>Kulturentwicklung||||2|||||||7|||
-|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte III3)**|Vorlesung über eine chronologi-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung|2||||10|||||3||Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
+|**Klassische Archäologie**<br>**Klassische Archäologie:**<br>**Vorgriechische und**<br>**griechische Archäologie II**<sup>**3)**</sup>|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte<br>2<br>Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte|10<br>3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)<br>2<br>7|1|
+|---|---|---|---|
+|**Klassische Archäologie:**<br> <sup>**3**</sup>|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte<br>2|10<br>3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>|1|
+|**Italisch-römische Archäologie II**<sup>**)**</sup>||<br>Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Christliche Archäologie**<br>**Chitlih Ahäli II**<sup>**3)**</sup>|Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte<br>Vorlesung zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie<br>2|2<br>7<br>1<br>3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher|1|
+|**rsce rcooge**<br>**Aufbaumodule II: Relevante Phänom**<br>**Prähistorische Archäologie**<br>**Prähistorische Archäologie:**<br>**Ältere Ureschichte III**<sup>**3)**</sup>|Hauptseminar zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie<br>**ene der Kulturgeschichte**<sup>**~~3)~~**</sup><br>Vorlesung über eine chronologi-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung<br>2|0<br>Ausarbeitung (ca. 20 Textseiten, 50 %)<br>2<br>7<br>10<br>3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Arbitn  20 Ttitn 50 %|<br>1|
+|**g**|Hauptseminar über eine chronolo-<br>gische Grundfrage prähistorischer<br>Kulturentwicklung|usaeug (ca.  exsee,  )<br>2<br>7||
+|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte III**<sup>**3)**</sup>|Vorlesung über eine chronologi-<br>sche Grundfrage prähistorischer<br>Kulturentwicklung<br>2|10<br>3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
 
 6 
 
-||Hauptseminar über eine chronolo-<br>gische Grundfrage prähistorischer<br>Kulturentwicklung||||2||||||7||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Prähistorische Archäologie: Geo-**<br>**archäologie3)**|Vorlesung zur Geoarchäologie|2||||10|||||3||Ausgearbeitetes Arbeits- und Ergebnisprotokoll<br>des Praktikums (5-10 Seiten)|1|
-||Kombiniertes Labor- und Gelände-<br>praktikum|||2|||||||7||||
-|**Klassische Archäologie**|||||||||||||||
-|**Klassische Archäologie: Vorgrie-**<br>**chische und griechische Archäo-**<br>**logie III3)**||||||||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Vorlesung zu einem relevanten<br>Th tik Klthiht|2|||||||||||||
-||ema aner uurgescce|||||10|||||||||
-||Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte||||2||||||7||||
-||||||||||||||||
-|**Klassische Archäologie: Italisch-**<br>**römische Archäologie III3)**|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte|2||||10||||||3|Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte||||2||||||7||||
-||||||||||||||||
-|**Christliche Archäologie**|||||||||||||||
-|**Christliche Archäologie III3)**|Vorlesung zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie|2||||10|||||3||Präsentation (ca. 60 Min., 50 %) mit schriftlicher<br>Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie||||2|||||||7|||
-|**Exkursion**|||||||||||||||
-|**Archäologische**<br>**Exkursion A4)**|Übung||2|||10|||21)|21)|21)|21)|Portfolio:<br>Teilnahme an mind. 8 zusammenhängenden<br>Exkursionstagen,<br>Kurzreferat (ca. 30 Min., 0 %), Beitrag zum Ex-<br>kursionsführer (5 Seiten + Abbildungen, 0 %)<br>und<br>Führungvor Ort(30 Min.,0%)|1|
-||Exkursion||||||||81)|81)|81)|81)|||
-|**Archäologische**<br>**Exkursion B4)**|Exkursion|||||10|||101)|101)|101)|101)|Portfolio:<br>Teilnahme an mind. 8 zusammenhängenden<br>Exkursionstagen, Teilnahme an 4 weiteren Ex-<br>kursionstagen,<br>Beitrag zum Exkursionsführer (5 Seiten + Abbil-<br>dungen, 0 %) und<br>Führungvor Ort(60 Min.,0%)|1|
-|**Praktika**|||||||||||||||
-|**Museumspraktikum**|Praktikum|||||10|||10~~1)~~|10~~1)~~|10~~1)~~|10~~1)~~|Praktikum(300 h)|0|
+||Hauptseminar über eine chronolo-<br>gische Grundfrage prähistorischer<br>Kulturentwicklung|2|||7|||
+|---|---|---|---|---|---|---|---|
+|**Prähistorische Archäologie: Geo-**<br>|Vorlesung zur Geoarchäologie<br>2|10|||3|Ausgearbeitetes Arbeits- und Ergebnisprotokoll|1|
+|**archäologie**<sup>**3)**</sup>|Kombiniertes Labor- und Gelände-<br>praktikum|<br>2|||7|des Praktikums (5-10 Seiten)||
+|**Klassische Archäologie**||||||||
+|<br>|Vorlesung zu einem relevanten<br>|||||||
+|**Klassische Archäologie: Vorgrie-**<br>**chische und riechische Archäo-**|<br>Thema antiker Kulturgeschichte<br>2|10||||3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher|1|
+|**g**<br>**logie III**<sup>**3)**</sup>|Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte|<br>2|||7|Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Klassische Archäologie: Italisch-**<br>|Vorlesung zu einem relevanten<br>Thema antiker Kulturgeschichte<br>2|10||||3<br>Präsentation (ca. 60 Min., 50 %) mit schriftlicher|1|
+|**römische Archäologie III**<sup>**3)**</sup><br>|Hauptseminar zu einem relevanten<br>Thema antiker Kulturgeschichte|<br>2|||7|Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Christliche Archäologie**<br> <sup>**3**</sup>|Vorlesung zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie<br>2||||3|Präsentation (ca 60 Min 50 %) mit schriftlicher||
+|**Christliche Archäologie III**<sup>**)**</sup>|Hauptseminar zu einer relevanten<br>Denkmälergattung der Christlichen<br>Archäologie|10<br>2||||.  .,<br>Ausarbeitung (ca. 20 Textseiten, 50 %)<br>7|1|
+|**Exkursion**||||||||
+|**Archäologische**<br>**Exkursion A**<sup>**4)**</sup>|Übung|2<br>10|2<sup>1)</sup>|2<sup>1)</sup>|2<sup>1)</sup>|2<sup>1)</sup><br>Portfolio:<br>Teilnahme an mind. 8 zusammenhängenden<br>Exkursionstagen,<br>Kurzreferat (ca. 30 Min., 0 %), Beitrag zum Ex-<br>kursionsführer (5 Seiten + Abbildungen, 0 %)|1|
+||Exkursion||8<sup>1)</sup>|8<sup>1)</sup>|8<sup>1)</sup>|und<br>Führungvor Ort(30 Min.,0%)<br>8<sup>1)</sup>||
+|**Archäologische**<br>**Exkursion B**<sup>**4)**</sup><br>|Exkursion|10|10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup><br>Portfolio:<br>Teilnahme an mind. 8 zusammenhängenden<br>Exkursionstagen, Teilnahme an 4 weiteren Ex-<br>kursionstagen,<br>Beitrag zum Exkursionsführer (5 Seiten + Abbil-<br>dungen, 0 %) und<br>Führungvor Ort(60 Min.,0%)|1|
+|**Praktika**||||||||
+|**Museumspraktikum**|Praktikum|10|10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup><br>Praktikum(300 h)|0|
 
 7 
 
-|**Gelände- und Grabungspraktikum**|Praktikum|||||10|||101)|101)|101)|101)|Praktikum (300h)||0|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Bachelorarbeit und -prüfung**||||||||||||||||
-|**Bachelorarbeit**|Bachelorarbeit|||||10||||||10|Bachelorarbeit (40 Seiten, 80%) und<br>Bachelor-Kolloquium (mündl. Prüfung,<br>mind. 30 Min.,20%)|2||
-|Summe||16|6-8|0-2|30-32|160|20|20|30|30|30|30||||
+|**Gelände- und Grabungspraktikum**|Praktikum<br>10|10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup><br>Praktikum (300h)|0|
+|---|---|---|---|---|---|---|
+|**Bachelorarbeit und -prüfung**|||||Bachelorarbeit (40 Seiten, 80%) und||
+|**Bachelorarbeit**|Bachelorarbeit<br>10||||10<br> <br>Bachelor-Kolloquium (mündl. Prüfung,<br>mind. 30 Min.,20%)|2|
+||Summe<br>16<br>6-8<br>0-2<br>30-32<br>160|20<br>20<br>30|30|30|30||
 
 - 1) Die Studierenden können selbst wählen, zu welchem Zeitpunkt das Modul belegt wird. 
 
 - 2) In diesen Modulen kann die GOP absolviert werden. 
 
-- 3) Es muss jeweils eines der Aufbaumodule I und eines der Aufbaumodule II gewählt werden. 
-
-- 4) Es muss eine der beiden Exkursionen besucht werden. 
-
-8 
+- 3) Es muss jeweils eines der Aufbaumodule I und eines der Aufbaumodule II gewählt werden. 4) Es muss eine der beiden Exkursionen besucht werden. 
 

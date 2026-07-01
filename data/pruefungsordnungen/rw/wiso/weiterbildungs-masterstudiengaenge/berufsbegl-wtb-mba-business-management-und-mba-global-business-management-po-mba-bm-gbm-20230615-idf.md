@@ -1,621 +1,629 @@
 ---
 kind: "fau-pruefungsordnung-document"
-title: "berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615 i.d.F. 20240926.pdf"
-pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/konsolidierte_Fassungen/berufsbegl_WTB_MBA_Business_Management_und_MBA_Global_Business_Management_PO_MBA_BM-GBM_20230615_idF_20240926.pdf
+title: "berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615 i.d.F. 20240926 en.pdf"
+pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/englisch/berufsbegl_WTB_MBA_Business_Management_und_MBA_Global_Business_Management_PO_MBA_BM-GBM_20230615_idF_20240926_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:46:50+00:00
-page_count_chars: 76269
+scraped_at: 2026-07-01T11:10:05+00:00
+page_count_chars: 78042
 ---
 
-# berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615 i.d.F. 20240926.pdf
+# berufsbegl WTB MBA Business Management und MBA Global Business Management PO MBA BM-GBM 20230615 i.d.F. 20240926 en.pdf
 
-**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/konsolidierte_Fassungen/berufsbegl_WTB_MBA_Business_Management_und_MBA_Global_Business_Management_PO_MBA_BM-GBM_20230615_idF_20240926.pdf>
+**PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/englisch/berufsbegl_WTB_MBA_Business_Management_und_MBA_Global_Business_Management_PO_MBA_BM-GBM_20230615_idF_20240926_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
 
-## **Studien- und Prüfungsordnung für die berufsbegleitenden Weiterbildungsstudiengänge Business Management und Global Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM 2023 –** 
+# **Degree program and examination regulations for the degree programs for professional development in Business Management and Global Business Management at the School of Business, Economics and Society of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM 2023 – dated June 15, 2023** 
 
-## **Vom 15. Juni 2023** 
+last amended by the statutes of September 26, 2024 
 
-geändert durch Satzungen vom 26. September 2024 
+Based on Section 9 (1) in conjunction with the currently valid versions of Section 80 (1)(1), section 84 (2)(1), Section 86 (3)(4), Section 88 (9), Section 90 (1)(2) and Section 96 (3)(1) Bavarian Higher Education Innovation Act dated August 5, 2022 (BayHIG), Friedrich-Alexander-Universität Erlangen-Nürnberg enacts the following degree program and examination regulations: 
 
-Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86 Abs. 3 Satz 4, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 (BayHIG) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
+### **Contents:** 
 
-## **Inhaltsverzeichnis:** 
-
-§ 1 Geltungsbereich, Zweck der Masterprüfung ............................................................................ 2 § 2 Akademische Grade ............................................................................................................... 2 § 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Gliederung des Studiengangs ............................................................................................................................... 2 § 4 ECTS-Punkte ......................................................................................................................... 2 § 5 Modularisierung, Studienbegleitende Leistungsnachweise, .................................................... 3 Freiwillige Zwischenprüfungen ..................................................................................................... 3 § 6 Qualifikationsvoraussetzungen ............................................................................................... 3 § 7 Prüfungsfristen, Fristversäumnis ............................................................................................ 4 § 8 Prüfungsausschuss ................................................................................................................ 4 § 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht .............................................................................................................. 5 § 10 Anwesenheitspflicht, Präsenzphasen ................................................................................... 6 § 11 Anerkennung und Anrechnung von Kompetenzen ................................................................ 6 § 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, .............................. 7 Anmeldung, Rücktritt, Folgen eines verspäteten Rücktritts ........................................................... 7 § 13 Ordnungsverstoß, Täuschung, Ausschluss von der weiteren Teilnahme .............................. 8 § 14 Entzug akademischer Grade ................................................................................................ 9 § 15 Mängel im Prüfungsverfahren ............................................................................................... 9 § 16 Zulassungsvoraussetzung zu den Prüfungen ....................................................................... 9 § 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren ....................................................................... 9 § 18 Mündliche Prüfung .............................................................................................................. 10 § 19 Elektronische Prüfung in Präsenz ....................................................................................... 11 § 20 Bewertung der Prüfungen, Notenstufen, Gesamtnote ......................................................... 11 § 21 Ungültigkeit der Prüfung ..................................................................................................... 13 § 22 Einsicht in die Prüfungsakten ............................................................................................. 13 § 23 Zeugnis, Transcript of Records, Diploma Supplement, ....................................................... 13 Grade distribution table und Urkunde ......................................................................................... 13 § 24 Bescheinigung über endgültig nicht bestandene Prüfung ................................................... 14 § 25 Nachteilsausgleich .............................................................................................................. 14 § 26 Masterarbeit ....................................................................................................................... 14 § 27 Wiederholung der Prüfungen .............................................................................................. 16 § 28 Begleitprogramm, Zusatzmodule ........................................................................................ 16 § 29 Inkrafttreten, Übergangsvorschriften ................................................................................... 17 **Anlage 1: Qualifikationsfeststellungsverfahren ..................................................................... 17 Anlage 2: Sondereignungsfeststellungsprüfung ................................................................... 20 Anlage 3: Studienverlaufsplan MBA Business Management ................................................ 22 Anlage 4: Studienverlaufsplan MBA Global Business Management .................................... 23** 
+|Section 1 Scope, Purpose of the Master’s Examination................................................................ 2|
+|---|
+|Section 2 Degrees ........................................................................................................................ 2|
+|Section 3 Standard Duration of Study, Starting Date, Teaching and Examination Language,<br>|
+|Structure of Degree Program........................................................................................................ 2|
+|Section 4 ECTS Credits ................................................................................................................ 2<br>|
+|Section 5 Modules and Credits, .................................................................................................... 3|
+|Voluntary Intermediate Examinations ........................................................................................... 3|
+|Section 6 Required Qualifications ................................................................................................. 3|
+|Section 7 Examination Deadlines, Failure to Observe Deadlines ................................................. 4|
+|Section 8 Examinations Committee .............................................................................................. 4|
+|Section 9 Examiners, Observers, Exclusion Due to Personal Involvement, Obligation to|
+|Confidentiality ............................................................................................................................... 5|
+|Section 10 Compulsory Attendance, Attendance Phases ............................................................. 6|
+|Section 11 Recognition and Accreditation of Skills ....................................................................... 6|
+|Section 12 Announcement of Examination Type, Examination Dates and Examiners, ................. 7|
+|Registration, Withdrawal, Consequences of Delayed Withdrawal ................................................. 7|
+|Section 13 Breach of Regulations, Fraud, Exclusion from Further Participation ........................... 8|
+|Section 14 Revocation of Degrees ............................................................................................... 8|
+|Section 15 Faults in the Examination Process .............................................................................. 8|
+|Section 16 Admission to Examinations ......................................................................................... 9|
+|Section 17 Written Examination, Multiple Choice Examinations ................................................... 9|
+|Section 18 Oral Examination ...................................................................................................... 10|
+|Section 19 On-Campus Electronic Examinations ........................................................................ 11|
+|Section 20 Evaluation of Examinations, Grades, Final Grade ..................................................... 11|
+|Section 21 Invalidity of Examinations ......................................................................................... 12|
+|Section 22 Inspection of Examination Records ........................................................................... 12|
+|Section 23 Final Academic Record, Transcript of Records, Diploma Supplement, ..................... 12|
+|Grade Distribution Table and Degree Certificate ........................................................................ 12|
+|Section 24 Notification of Failed Examinations ........................................................................... 13|
+|Section 25 Adjustments to Examination Arrangements .............................................................. 13|
+|Section 26 Master’s Thesis ........................................................................................................ 13|
+|Section 27 Resit Examinations ................................................................................................... 15|
+|Section 28 Accompanying Program, Additional Modules ............................................................ 15|
+|Section 29 Legal Validity, Transitory Provisions ......................................................................... 16|
+|Appendix 1: Qualification assessment process ........................................................................... 17|
+|Appendix 2: Suitability assessment examination ........................................................................ 21|
+|Appendix 3: Degree program structure MBA Business Management ......................................... 22|
 
 1 
 
-## **§ 1 Geltungsbereich, Zweck der Masterprüfung** 
+Appendix 4: Degree program structure MBA Global Business Management .............................. 23 
 
-(1) Diese Studien- und Prüfungsordnung regelt die studienbegleitenden und abschließenden Prüfungen der berufsbegleitenden Weiterbildungsstudiengänge Business Management und Global Business Management mit dem Abschlussziel Master of Business Administration. 
+## **Section 1 Scope, Purpose of the Master’s Examination** 
 
-(2)[1] Der Master of Business Administration ist ein weiterer berufs- und forschungsqualifizierender Abschluss des Studiums.[2] Durch die Masterprüfung wird festgestellt, ob die Studierenden 
+(1) These degree program and examination regulations govern the examinations for the degree programs for professional development in Business Management and Global Management resulting in the degree Master of Business Administration. 
 
-- in den Prüfungsfächern relevante Problemstellungen der Wirtschaftspraxis im angemessenen Rahmen auch mit wissenschaftlichem Instrumentarium bearbeiten können, 
+(2)<sup>1</sup> The Master of Business Administration is a degree that qualifies students for further research as well as professional work.<sup>2</sup> The Master’s examination serves to determine whether students 
 
-- die Urteilsfähigkeit und Kompetenz zur kritischen Reflexion von Wissenschaft und beruflicher Praxis besitzen und 
+- are able to process relevant issues related to business practice in the subjects examined to a reasonable extent, also using academic methods 
 
-- eine Einordnung der Fragestellungen in übergreifende Zusammenhänge vornehmen können. 
+- possess decision making skills and the ability to critically examine academic topics and professional practice 
 
-## **§ 2 Akademische Grade** 
+- can place issues within a broader context. 
 
-1Aufgrund der bestandenen Masterprüfung wird der akademische Grad „Master of Business Administration“, abgekürzt „MBA“, verliehen.[2] Der akademische Grad kann mit dem Zusatz (FAU Erlangen-Nürnberg) geführt werden 
+## **Section 2 Degrees** 
 
-## **§ 3 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache, Gliederung des Studiengangs** 
+1Students are conferred the degree Master of Business Administration (abbreviated MBA) after passing the Master’s examination.<sup>2</sup> The degree may be used with the addition “(FAU Erlangen-Nürnberg)”. 
 
-(1) Die Regelstudienzeit beträgt drei Semester. 
+## **Section 3 Standard Duration of Study, Starting Date, Teaching and Examination Language, Structure of Degree Program** 
 
-(2) Das Studium kann nur zum Wintersemester begonnen werden. 
+(1) The standard duration of studies is three semesters. 
 
-(3)[1] Die Unterrichts- und Prüfungssprache im Masterstudiengang Business Management ist Deutsch.[2] Einzelne Module können auch in englischer Sprache abgehalten und abgeprüft werden.[3] Näheres regeln **Anlage 3** bzw. das Modulhandbuch.[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.[5] Die Unterrichts- und Prüfungssprache für den Masterstudiengang Global Business Management ist durchgehend Englisch. 
+(2) The degree program may only be started in the winter semester. 
 
-(4)[1] Das Masterstudium wird mit der Masterprüfung abgeschlossen.[2] Sie besteht aus den studienbegleitend abzulegenden Prüfungen in sämtlichen aus **Anlage 3** (Business Management) bzw. **Anlage 4** (Global Business Management) ersichtlichen Modulen einschließlich des Moduls Masterarbeit.[3] Insgesamt sind jeweils 60 ECTS-Punkte zu erwerben, von denen 45 ECTS-Punkte auf die studienbegleitenden Prüfungen und 15 ECTS-Punkte auf die Masterarbeit entfallen. 
+(3)<sup>1</sup> The teaching and examination language of the Master’s degree program in Business Management is German.<sup>2</sup> Individual modules may be taught and assessed in English.<sup>3</sup> Further details are stipulated in **Appendix 3** and/or the module handbook. 4In any case of uncertainty, the examination language shall be the same as the teaching language.<sup>5</sup> The teaching and examination language of the Master’s degree program in Global Business Management is English. 
 
-## **§ 4 ECTS-Punkte** 
+(4)<sup>1</sup> The Master’s degree program is concluded with the Master’s examination.<sup>2</sup> It consists of all examinations taken over the course of the degree program in all modules stated in **Appendix 3** (Business Management) or **Appendix 4** (Global Business Management), including the Master’s thesis module.<sup>3</sup> A total of 60 ECTS credits must be obtained, consisting of 45 ECTS credits for examination achievements completed during the program and 15 ECTS credits for the Master’s thesis. 
 
-(1)[1] Studium und Prüfungen beruhen auf dem European Credit Transfer and Accumulation System (ECTS).[2] Das Studiensemester ist mit 20 ECTS-Punkten veranschlagt. 3Ein ECTS-Punkt entspricht einer Arbeitszeit von 30 Stunden. 
+## **Section 4 ECTS Credits** 
 
-(2)[1] ECTS-Punkte dienen als System zur Gliederung, Berechnung und Bescheinigung des Studienaufwandes.[2] Sie sind ein quantitatives Maß für die Arbeitsbelastung der Studierenden. 
+(1)<sup>1</sup> The degree program and examinations are based on the European Credit Transfer and Accumulation System (ECTS).<sup>2</sup> Students must study 20 ECTS credits in each semester.<sup>3</sup> A single ECTS credit corresponds to a workload of 30 hours. 
+
+(2)<sup>1</sup> ECTS credits serve as a system to categorize, calculate and confirm the amount of work a student has invested.<sup>2</sup> They are a quantitative indicator of a student’s workload. 
 
 2 
 
-## **§ 5 Modularisierung, Studienbegleitende Leistungsnachweise, Freiwillige Zwischenprüfungen** 
+## **Section 5 Modules and Credits, Voluntary Intermediate Examinations** 
 
-(1)[1] Das Studium besteht aus Modulen, die mit ECTS-Punkten bewertet sind.[2] Ein Modul ist eine zeitlich zusammenhängende und in sich geschlossene abprüfbare Lehrund Lerneinheit. 
+(1)<sup>1</sup> The degree program consists of modules for which students are awarded ECTS credits.<sup>2</sup> A module is a chronologically connected and self-contained teaching and learning unit, the content of which can be tested in an examination. 
 
-(2)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder in einer Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen oder Teilprüfungen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen.[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.[5] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Modulprüfung festgestellt wird.[6] Studienbegleitende Modulprüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls durchgeführt werden. 
+(2)<sup>1</sup> The modules shall be completed with a module examination.<sup>2</sup> This examination shall as a rule consist of one examination achievement or one course achievement.<sup>3</sup> In exceptional cases, this examination can also consist of several partial examinations or parts of examinations or a combination of examination and/or course achievements if the subject warrants it.<sup>4</sup> Ungraded course achievements consisting of several parts and/or course achievements which can be repeated an unlimited number of times shall not count as examinations consisting of several parts as defined in sentence 3.<sup>5</sup> ECTS credits are only awarded for the successful completion of modules determined on the basis of a module examination testing the student’s own achievements.<sup>6</sup> Module examinations are examinations that are held during the lecture period or after the last lectures and seminars of a module have been held. 
 
-(3)[1] Prüfungen (Prüfungs- und Studienleistungen) messen den Erfolg der Studierenden.[2] Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikationsmittel oder in anderer Form erfolgen.[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.[4] Prüfungsleistungen werden benotet.[5] Bei Studienleistungen kann sich die Feststellung auf das Bestehen oder Nicht-Bestehen beschränken. 
+(3)<sup>1</sup> Examinations (examination achievements and course achievements) measure the students’ performance.<sup>2</sup> They may be written, oral, electronic, use electronic communication devices or be in a different form.<sup>3</sup> In the event of invigilated remote electronic examinations, the Bavarian regulation for testing remote examinations ( **BayFEV** ) and the FAU regulations on remote examinations on the basis of the Bavarian regulations for testing remote examinations (BayFEV) – **EFernPO** – shall be complied with.<sup>4</sup> Examination achievements are graded.<sup>5</sup> Course achievements may be graded pass or fail. 
 
-(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch.[3] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.[4] Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
+(4)<sup>1</sup> In addition to the module examinations, voluntary intermediate examinations (e.g. tutorial achievements or short tests) may be offered during courses as a way of measuring the standard of performance.<sup>2</sup> More detailed information, including the number, type and scope of these examinations, is given in the module handbook.<sup>3</sup> If a student chooses to use the option detailed in sentence 1, these results shall be taken into account when determining the grade for the module.<sup>4</sup> Intermediate examination achievements may improve the grade for a module examination or partial examination by a maximum of 0.7; a grade may not be made worse. 
 
-(5) Die Teilnahme an Modulprüfungen (Abs. 2 Satz 1) setzt die Immatrikulation im berufsbegleitenden Weiterbildungsstudiengang Business Management bzw. Global Business Management an der FAU voraus. 
+(5) Enrollment in the Master’s degree program for professional development in Business Management or Global Business Management at FAU is a requirement for participation in module examinations according to (2)(1). 
 
-## **§ 6 Qualifikationsvoraussetzungen** 
+## **Section 6 Required Qualifications** 
 
-Die Qualifikation zum Masterstudiengang Business Management sowie zum Masterstudiengang Global Business Management wird jeweils nachgewiesen durch: 
+Qualification for the Master’s degree program in Business Management and the Master’s degree program in Global Business Management shall be proven through: 
 
-1. einen ersten berufsqualifizierenden Abschluss eines Studiums einer Hochschule bzw. einen sonstigen gleichwertigen in- oder ausländischen Abschluss, bei dem hinsichtlich der Qualifikation keine wesentlichen Unterschiede bestehen, in der Regel aus dem Fachgebiet der Wirtschafts- und Sozialwissenschaften oder Technik mit wirtschaftswissenschaftlichen Anteil mit in der Regel acht Semestern Regelstudienzeit und 240 ECTS-Punkten oder ausnahmsweise mindestens sechs Semestern Regelstudienzeit und mindestens 180 ECTS-Punkten zuzüglich des Bestehens einer Sondereignungsfeststellungsprüfung zur Erreichung des Eingangsniveaus von 240 ECTS-Punkten gemäß **Anlage 2** , 
+1. A Bachelor’s degree or equivalent (undergraduate degree) from a university in Germany or another country, with no major differences in terms of qualification. In general, this degree should be in business, economics and social sciences or engineering with a business studies component, have a standard duration of studies of eight semesters and consist of 240 ECTS credits or, in exceptional cases, a standard duration of studies of at least six semesters and 180 ECTS credits plus a pass in the suitability assessment examination described in **Appendix 2** in order to demonstrate that the applicant has reached a level equivalent to the 240 ECTS credits required for admission. 
 
 3 
 
-2. eine mindestens einjährige qualifizierte Berufstätigkeit in verantwortlicher Position, insbesondere mit Aufgaben der Führung, Planung oder Kontrolle nach Abschluss des Hochschulstudiums in privaten oder öffentlichen Unternehmen, Verbänden oder Verwaltungen, 
+2. At least one year of relevant work experience in a position of responsibility, in particular with responsibilities in management, planning or controlling, at a private or public company, association or administrative body after having completed the undergraduate degree 
 
-3. das Bestehen der Qualifikationsfeststellung gemäß der **Anlage 1** sowie 
+3. Passing the qualification assessment process according to **Appendix 1** 
 
-4. im Falle des Abs. 1 Alt. 2 das Bestehen der Sondereignungsfeststellungsprüfung gemäß **Anlage 2** . 
+4. In the case of (1) alt. 2, passing the suitability assessment examination pursuant to **Appendix 2** . 
 
-## **§ 7 Prüfungsfristen, Fristversäumnis** 
+## **Section 7 Examination Deadlines, Failure to Observe Deadlines** 
 
-(1)[1] Die Prüfungen sind ordnungsgemäß so rechtzeitig abzulegen, dass in der Masterprüfung bis zum Ende des Regeltermins 60 ECTS-Punkte erworben werden.[2] Regeltermin ist das letzte Semester der Regelstudienzeit.[3] Der Regeltermin nach Satz 2 darf in der Masterprüfung um ein Semester überschritten werden (Überschreitungsfrist). 4Die jeweilige Prüfung gilt als abgelegt und endgültig nicht bestanden, wenn nicht innerhalb der Überschreitungsfrist 60 ECTS-Punkte aus den Modulen des Masterstudiums erworben wurden, es sei denn, die bzw. der Studierende hat die Gründe hierfür nicht zu vertreten. 
+(1)<sup>1</sup> Examinations shall be sat in such a timely manner as to allow the student to obtain 60 ECTS credits by the scheduled deadline.<sup>2</sup> The standard deadline shall be the last semester of the standard duration of study.<sup>3</sup> The deadline according to sentence 2 may be exceeded by one semester for the Master’s examination (extended deadline).<sup>4</sup> An examination shall be considered to have been sat and failed at the final attempt if 60 ECTS credits were not obtained from the modules of the Master’s degree program within the extended deadline, unless the reasons for this are beyond the student’s control. 
 
-(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den Regelungen des Gesetzes zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium (Mutterschutzgesetz – **MuSchG** ) in der Fassung der Bekanntmachung vom 23. Mai 2017 (BGBl. I S. 1228) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeldund Elternzeitgesetz – **BEEG** ) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – **PflegeZG** ) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch ( **SGB XI** ) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
+(2) The deadline set forth in (1) shall be extended by claiming the periods of protection according to the current version of the law protecting mothers at work, in education and whilst studying (Maternity Protection Act, Mutterschutzgesetz – **MuSchG** ) in the version published on May 23, 2017 (BGBI I S. 1288 [German Federal Law Gazette I p. 1228]), according to the periods set forth in the current version of the Parental Allowance and Parental Leave Act (Bundeselterngeld- und Elternzeitgesetz – **BEEG** ) of December 5, 2006 (BGBl I S. 2748 [German Federal Law Gazette I p. 2748]), and according to periods of time spent providing care in the sense of Section 7 (3) of the current version of the Caregiver Leave Act (Pflegezeitgesetz – **PflegeZG** ) of May 28, 2008 (BGBI I S. 874, 896 [German Federal Law Gazette I p. 874, 896]) for a close family member who requires care in the sense of the current version of SGB XI ( **German Social Security Code XI** ) of May 26, 1994 (BGBI I S. 1014, 1015 [German Federal Law Gazette I p. 1014, 1015]). 
 
-(3)[1] Die Gründe nach den Abs. 1 und 2 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden angerechnet.[3] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden.[4] Bei Krankheit der bzw. des Studierenden ist ein ärztliches Attest vorzulegen; der Prüfungsausschuss kann die Vorlage einer bzw. eines von der FAU benannten Ärztin bzw. Arztes verlangen.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein Attest einer bzw. eines von der FAU benannten Ärztin bzw. Arztes vorzulegen. 
+(3)<sup>1</sup> The reasons according to (1) and (2) shall be explained in writing and shown credibly to the Examinations Committee without delay.<sup>2</sup> If the reasons are acknowledged, the examination shall be sat at the soonest possible time; previous examination and course achievements shall be accredited.<sup>3</sup> The examiner must be notified immediately in the event of an inability to sit the examination occurring before or during the examination.<sup>4</sup> A doctor’s certificate is required if the student is ill; the Examinations Committee may request that a certificate is submitted from a doctor named by FAU.<sup>5</sup> In case of withdrawal from an examination due to illness after the examination has started, the student must submit a certificate from a doctor named by FAU to the Examinations Committee without delay. 
 
-## **§ 8 Prüfungsausschuss** 
+## **Section 8 Examinations Committee** 
 
-(1)[1] Für die Organisation und Durchführung der Prüfungen der beiden Masterstudiengänge wird ein gemeinsamer Prüfungsausschuss eingesetzt.[2] Der Prüfungsausschuss hat drei Mitglieder aus dem Kreis der Professorinnen und Professoren des Fachbereichs Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU; sie werden vom Fachbereichsrat des Fachbereichs Wirtschafts- und Sozialwissenschaften gewählt.[3] Der Prüfungsausschuss wählt aus seiner Mitte ein Mitglied zu der bzw. dem Vorsitzenden und regelt die Vertretung.[4] Die Amtszeit der Mitglieder beträgt drei Jahre.[5] Wiederwahl ist zulässig. 
+(1)<sup>1</sup> A joint Examinations Committee shall organize and carry out the examinations for both Master’s degree programs.<sup>2</sup> The Examinations Committee shall have three members that are professors at the School of Business, Economics and Society at the Faculty of Business, Economics, and Law at FAU; they shall be elected by the School Council of the School of Business, Economics and Society.<sup>3</sup> The Examinations Committee shall elect one of the members as the chairperson and shall appoint a deputy to act in the chairperson’s absence.<sup>4</sup> The term of office of the members shall be three years.<sup>5</sup> Re-election shall be permitted. 
 
-(2) Die bzw. der Vorsitzende kann ihr bzw. ihm obliegende Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen. 
+(2) The chairperson may transfer tasks within their responsibility to a member of the 
 
 4 
 
-(3)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[3] Mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft er alle anfallenden Entscheidungen.[4] Er erlässt insbesondere die Prüfungsbescheide, nachdem er die Bewertung der Prüfungsleistungen und ihre Rechtmäßigkeit geprüft hat.[5] Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung. 6Die Mitglieder des Prüfungsausschusses haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
+## Examinations Committee. 
 
-(4) Dem Prüfungsausschuss obliegt darüber hinaus die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium gemäß § 6 i. V. m. den **Anlagen 1** und **2** . 
+(3)<sup>1</sup> The Examinations Committee shall be tasked with carrying out the examination procedures, especially the planning and organization of the examinations.<sup>2</sup> Its duties include ensuring that the provisions of these examination regulations are observed. 3With the exception of the examinations themselves and their assessment, which the examiners are responsible for, all decisions shall be taken by the Examinations Committee.<sup>4</sup> In particular, the Examinations Committee is responsible for issuing notifications of examination results after checking the assessment of examination achievements and their legitimacy.<sup>5</sup> It shall regularly report to the School Council on the development of the examinations and the study periods and shall, where applicable, provide input on amendments to the examination regulations.<sup>6</sup> The members of the Examinations Committee shall have the right to be present during examinations. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder ordnungsgemäß unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
+(4) In addition, the Examinations Committee is responsible for verifying compliance with the qualifications and admission requirements for the Master’s degree program as set out in Section 6 in conjunction with **Appendices 1** and **2** . 
 
-(6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(5)<sup>1</sup> The Examinations Committee shall have a quorum when all members are duly summoned observing a notice period of at least one week and the majority of members are present and eligible to vote.<sup>2</sup> It shall pass resolutions in meetings by a majority of the votes cast.<sup>3</sup> Abstention, secret ballots and delegation of votes shall not be permitted.<sup>4</sup> In the event of a tie, the chairperson shall have the deciding vote. 
 
-(7)[1] Über jede Sitzung ist eine Niederschrift anzufertigen.[2] Diese muss Tag und Ort der Sitzung, die Namen der Anwesenden, die behandelten Gegenstände sowie Anträge, Beschlüsse und das jeweilige Abstimmungsergebnis enthalten. 
+(6)<sup>1</sup> The chairperson shall call the meetings of the Examinations Committee.<sup>2</sup> The chairperson shall be entitled to take decisions that cannot be delayed on behalf of the Examinations Committee.<sup>3</sup> The Examination Committee shall be informed of such cases without delay.<sup>4</sup> Furthermore, unless these examination regulations state otherwise, the Examinations Committee shall have the right to transfer individual tasks to the chairperson as well as revoke these responsibilities. 
 
-(8)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Aufgrund eines Beschlusses des Prüfungsausschusses können Bescheide in Prüfungsangelegenheiten jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[4] Widerspruchsbescheide werden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
+(7)<sup>1</sup> Records shall be kept of every meeting.<sup>2</sup> These records shall state the date and place of the meeting, the names of those present, the subjects dealt with and all proposals, resolutions and outcomes of votes held. 
 
-## **§ 9 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
+(8)<sup>1</sup> Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.<sup>2</sup> Students shall be given the opportunity to make a statement before negative decisions are finalized.<sup>3</sup> The Examinations Committee shall have the right to rule that official notifications in legal matters pertaining to examinations may be sent out in electronic form to the individual students.<sup>4</sup> Any notification of objection in questions of examination legislation shall be issued on behalf of the President following consultation with the Examinations Committee and after hearing the examiners. 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfenden und Gutachterinnen und Gutachter sowie die Beisitzerinnen und Beisitzer, welche in der Regel die Dozentinnen bzw. Dozenten der jeweiligen Fächer sind.[2] Zu Prüfenden dürfen nur Professorinnen und Professoren und andere nach Art. 85 **BayHIG** in Verbindung mit der **Hochschulprüferverordnung** in der jeweils geltenden Fassung prüfungsberechtigte Personen bestellt werden.[3] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.[4] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin oder hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
+## **Section 9 Examiners, Observers, Exclusion Due to Personal Involvement, Obligation to Confidentiality** 
+
+(1)<sup>1</sup> The Examinations Committee shall appoint the examiners, reviewers and observers who shall usually be the lecturers of the appropriate subjects.<sup>2</sup> Only professors and other persons fitting the description in Section 85 of the Bavarian Higher Education Innovation Act ( **BayHIG** ) in conjunction with the current version of the Bavarian Higher Education Examiners Act ( **BayHSchPrüferV** ) shall be eligible for appointment as examiners.<sup>3</sup> Persons who have completed the degree program in question or an equivalent degree program shall be eligible for appointment as observers.<sup>4</sup> Observers shall be research associates in principal employment at the University. 
 
 5 
 
-(2)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel in der Person der bzw. des Prüfenden ist zulässig.[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, so bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+(2)<sup>1</sup> A change of examiners shortly before the start of an examination shall be permissible on urgent grounds.<sup>2</sup> If an eligible examiner leaves the University, they shall usually remain eligible to act as an examiner for up to one year. 
 
-(3) Der Ausschluss von der Beratung und Abstimmung im Prüfungsausschuss sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51 Abs. 2 **BayHIG** bzw. Art. 20, 21 **BayVwVfG** . 
+(3) Exclusion from the deliberation and voting process of the Examinations Committee as well as from the positions of examiner and observer due to personal involvement shall be governed by Section 51 (2) **BayHIG.** in conjunction with Sections 20 and 21 **BayVwVfG** . 
 
-(4)[1] Die Sitzungen des Prüfungsausschusses sind nicht öffentlich.[2] Die Mitglieder des Prüfungsausschusses unterliegen der Amtsverschwiegenheit (Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG** ). 
+(4)<sup>1</sup> The Examinations Committee’s meetings shall not be public.<sup>2</sup> Members of the Examinations Committee shall be obliged to maintain confidentiality (Section 26 (2) sentences 2 and 3 **BayHIG** ). 
 
-## **§ 10 Anwesenheitspflicht, Präsenzphasen** 
+## **Section 10 Compulsory Attendance, Attendance Phases** 
 
-1Die bzw. der Studierende ist verpflichtet, in den ersten drei Semestern jeweils an einer Klausur teilzunehmen, welche während einer Präsenzveranstaltung gegen Ende des jeweiligen Semesters angeboten wird.[2] Im Übrigen bestehen während des Studiums keinerlei Anwesenheitspflichten.[3] Jedoch wird den Studierenden dringend empfohlen, auch an den übrigen Veranstaltungen der Präsenzphasen der ersten drei Semester teilzunehmen. 
+1Students are required to take one written examination in each of the first three semesters, held during a classroom-based session at the end of each semester.<sup>2</sup> There are no other compulsory periods of attendance during the degree program.<sup>3</sup> However, students are urgently advised to attend the other classroom-based sessions in the attendance phase offered during the first three semesters. 
 
-## **§ 11 Anerkennung und Anrechnung von Kompetenzen** 
+## **Section 11 Recognition and Accreditation of Skills** 
 
-(1)[ 1] Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.[2] Gleiches gilt für Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
+(1)<sup>1</sup> Study periods, and course and examination achievements achieved in degree programs or by successfully taking part in a distance learning unit as part of a degree program at FAU or at other public or state-approved universities in the Federal Republic of Germany, or in degree programs at public or state approved universities in countries other than Germany shall be recognized according to these examination regulations unless there are significant differences in the skills acquired and required.<sup>2</sup> The same shall apply to course and examination achievements obtained at a public or state-approved university in Bavaria within the context of a module program or additional studies, at the Virtual University of Bavaria (vhb), or within the context of an early entrance program or university studies started while still at school.<sup>3</sup> Recognition enables students to continue their studies, to take examinations, to start a further degree program or to be admitted to a doctoral degree. 
 
-(2)[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Skills acquired outside the university sector or within the context of degree programs for professional development or for acquiring further qualifications may be accredited if they are equivalent.<sup>2</sup> Skills acquired outside the university sector may replace a maximum of half of the skills required. 
 
-(3)[1] Die Noten angerechneter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 20 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter bzw. angerechneter Prüfungen mit dem Notensystem des § 20 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+(3)<sup>1</sup> The grades achieved in approved or accredited modules, examinations and coursework shall be transferred if they were awarded according to Section 20.<sup>2</sup> If the grading system applied in the examinations sat at the university or equivalent institution of higher education and accredited or recognized by FAU is not identical to the grading system set forth in Section 20, the grades achieved at other universities shall usually be converted according to the following formula: 
 
-x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
+x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) 
 
-x = gesuchte Umrechnungsnote 
+with x = converted grade Nmax = best grade attainable Nmin = lowest grade for passing 
 
-Nmax = beste erzielbare Note 
-
-Nmin = unterste Bestehensnote 
-
-> Nd = erzielte Note umgerechnet. 
+Nd = grade attained . 
 
 6 
 
-3Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 4Ist die Umrechnung nicht möglich oder nachweislich nicht sinnvoll, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+3One decimal place shall count towards the module grade for grades thus calculated. 4If conversion is not possible or can be proven to serve no purpose, the Examinations Committee shall usually determine a system by which to calculate the grades. 
 
-(4) 1Im Falle der Anerkennung bzw. Anrechnung von 20 oder mehr ECTS-Punkten im Vollzeitstudium erfolgt eine Hochstufung der bzw. des Studierenden in höhere Fachsemester.[2] Dabei wird pro anerkannter 20 ECTS-Punkte ein Semester hochgestuft. 
+(4) 1If 20 or more ECTS credits are recognized or accredited, the student shall be permitted to enter at a higher semester.<sup>2</sup> Students shall move up one semester for every 20 ECTS credits that are accredited. 
 
-(5)[1] Anerkennung und Anrechnung erfolgen auf Antrag.[2] Die für die Anerkennung bzw. Anrechnung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[3] Vorbehaltlich der Regelung in Satz 4 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung.[4] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[5] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[6] Die Entscheidung ergeht schriftlich. 
+(5)<sup>1</sup> Students must file an application for recognition and accreditation.<sup>2</sup> The documents needed for this accreditation shall be submitted to the chairperson of the Examinations Committee.<sup>3</sup> Subject to the provisions in sentence 4, the student shall have a legal claim to accreditation if the conditions stipulated in (1) and (2) are met.<sup>4</sup> Accreditation is only possible if the student has not already lost the right to be examined in that subject at FAU by passing or failing to pass the relevant examination at the final attempt.<sup>5</sup> The decision shall rest with the chairperson of the Examinations Committee after consultation with the department representative appointed by the department in question.<sup>6</sup> The decision shall be issued in writing. 
 
-## **§ 12 Bekanntgabe der Prüfungsart, der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt, Folgen eines verspäteten Rücktritts** 
+## **Section 12 Announcement of Examination Type, Examination Dates and Examiners, Registration, Withdrawal, Consequences of Delayed Withdrawal** 
 
-(1)[1] Spätestens zwei Wochen vor Beginn eines jeden Moduls erhalten die Studierenden die entsprechenden Lehrveranstaltungsunterlagen.[2] In dem Unterlagenpaket sind auch die jeweiligen Prüfungstermine definiert.[3] Die Prüfenden werden rechtzeitig über ortsübliche elektronische Mittel bekannt gemacht. 
+(1)<sup>1</sup> Students shall receive the required course materials no later than two weeks before each module commences.<sup>2</sup> The examination dates shall be included in the bundle of information students receive.<sup>3</sup> The names of the examiners shall be announced electronically in good time according to local practice. 
 
-## (2) De Studierenden gelten zu sämtlichen Prüfungen als angemeldet. 
+(2) Students shall be considered registered for all examinations. 
 
-(3)[1] Unbeschadet der Fristen gemäß § 7 ist ein Rücktritt von einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen durch Nichterscheinen zulässig.[2] In anderen als in den in Satz 1 genannten Fällen sind für einen Rücktritt oder das Versäumnis von der bzw. dem Studierenden nicht zu vertretende Gründe anzugeben, die dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden müssen.[3] Bei Krankheit der bzw. des Studierenden ist ein ärztliches Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines Attestes einer bzw. eines von der FAU benannten Ärztin bzw. Arztes verlangen.[4] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[6] Die Erklärung des Rücktritts ist unwiderruflich.[7] Mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[8] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.[9] Werden die Gründe anerkannt, so wird ein neuer Termin anberaumt.[10] Bereits vorliegende Prüfungsergebnisse werden angerechnet; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[11] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 4. 
+(3)<sup>1</sup> Notwithstanding the deadlines pursuant to Section 7, a student may withdraw without stating reasons from an examination for which they have registered pursuant to (2) by failing to attend.<sup>2</sup> In cases other than those stated in sentence 1, students must notify the Examinations Committee without delay in writing and provide credible evidence of reasons beyond their control for withdrawing from or failing to attend the examination.<sup>3</sup> A doctor’s certificate is required if the student is ill; the Examinations Committee may request that a certificate is submitted from a doctor named by FAU.<sup>4</sup> The doctor’s certificate or certificate from an official medical examiner must include a description of the student’s ailment and state how this affects the student’s ability to perform to their full potential during the examination, especially due to a reduction in their physical or mental capacity.<sup>5</sup> In case of withdrawal from an examination due to illness after the examination has started (termination of an examination), the student must submit a certificate from an official medical examiner to the Examinations Office without delay.<sup>6</sup> A declaration of withdrawal is binding.<sup>7</sup> Registration to the examination on this date shall be canceled once the declaration is submitted and the student shall no longer be entitled to take the examination.<sup>8</sup> Students shall only be able to register for and sit the examination in a later semester.<sup>9</sup> If the reasons are accepted, a new date shall be set.<sup>10</sup> Examination results which have already been obtained are accredited; in the case of modules with compulsory attendance, students shall only be obliged to attend the teaching unit again if the manner in which the unit is taught or the nature of the examination is such that the student must attend again in order to acquire the required skills.<sup>11</sup> The consequences of a delayed or invalid withdrawal shall be governed by (4). 
+
+(4)<sup>1</sup> An examination shall be graded as “nicht ausreichend” (unsatisfactory) if the student fails to attend an examination on the examination date without good reasons or if the student withdraws from the examination after the withdrawal deadline (see (3)) without good reasons; Section 3 shall remain unaffected.<sup>2</sup> Paragraph 3 sentences 2 
 
 7 
 
-(4)[1] Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist (Abs. 3) ohne triftige Gründe zurücktritt; § Abs. 3 bleibt unberührt.[2] Abs. 3 Sätze 2 bis 11 gelten entsprechend. 
+and 11 shall apply accordingly. 
 
-## **§ 13 Ordnungsverstoß, Täuschung, Ausschluss von der weiteren Teilnahme** 
+**Section 13 Breach of Regulations, Fraud, Exclusion from Further Participation** (1)<sup>1</sup> In case of plagiarism or an attempt to commit fraud or to influence the result of an examination through the use of unauthorized aids, the examination in question shall be graded “nicht ausreichend” (unsatisfactory, 5.0).<sup>2</sup> Unauthorized aids for completing examination or course achievements pursuant to sentence 1 include in particular the use of chatbots or other artificial intelligence that is capable of replacing the student’s own performance, unless this is expressly permitted by the examiner. 
 
-(1)[1] Im Falle des Plagiats sowie bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.[2] Zu den nicht zugelassenen Hilfsmitteln in Satz 1 bei der Anfertigung von Prüfungs- bzw. Studienleistungen zählt insbesondere die Nutzung von Chatbots oder anderweitiger Künstlicher Intelligenz, die die eigenständige Leistung der bzw. des Studierenden ersetzen kann, sofern diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wurden. 
+(2)<sup>1</sup> If there are justified grounds for suspecting plagiarism or other means of fraud, particularly through the use of artificial intelligence systems as per paragraph 1 sentence 2, the examiners responsible are entitled, within the scope of fact-finding according to Section 26 **BayVwVfG** , to conduct an interview using questions on the original examination subject to verify whether the student has mastered the examination material.<sup>2</sup> Sufficient grounds as per sentence 1 exist if, according to the examiner’s experience, a typical situation for the presence of plagiarism or fraud is given, which, based on general experience, justifies the conclusion that plagiarism or fraud is present.<sup>3</sup> The interview is conducted by the examiners responsible for the original examination; if only one examiner was assigned for the original examination, the interview takes place in the presence of an observer appointed by the examiner.<sup>4</sup> When assessing the interview, the time interval between the original examination and the control interview must be taken into account.<sup>5</sup> If the student masters the examination material to an extent that would have sufficed to pass the original examination, the grounds for suspecting plagiarism or other means of fraud are considered rejected, and the original examination will be evaluated in accordance with standard procedure.<sup>6</sup> If the student cannot demonstrate the examined competencies to a sufficient extent as per sentence 2 during the interview according to sentence 1, and there are no actual circumstances that would make an atypical occurrence appear seriously possible in the individual case, the deception is considered proven; paragraph 1 sentence 1 shall apply.<sup>7</sup> If the student refuses to participate in the interview, this constitutes a violation of their obligations to cooperate in the examination procedure as per Section 26 (2)(1) **BayVwVfG** .<sup>8</sup> If the student simultaneously does not credibly demonstrate actual circumstances that make an atypical occurrence appear seriously possible in the individual case, sufficient grounds for plagiarism or other deception are considered proven. 
 
-(2)[1] Besteht der begründete Verdacht für das Vorliegen eines Plagiats bzw. einer anderweitigen Täuschung, insbesondere durch den Einsatz von Systemen künstlicher Intelligenz im Sinne des Abs. 1 Satz 2, so sind die zuständigen Prüfenden im Rahmen der Sachverhaltsermittlung nach Art. 26 **BayVwVfG** insbesondere auch dazu berechtigt, im Rahmen eines Kontrollgesprächs mithilfe von Fragen zum ursprünglichen Prüfungsgegenstand abzuprüfen, ob die bzw. der betreffende Studierende den Prüfungsstoff beherrscht.[2] Ein begründeter Verdacht im Sinne des Satzes 1 ist gegeben, wenn nach dem Erfahrungswissen der bzw. des Prüfenden ein für das Vorliegen eines Plagiats bzw. einer Täuschung typischer Sachverhalt gegeben ist, der aufgrund des allgemeinen Erfahrungswissens zu dem Schluss berechtigt, dass ein Plagiat bzw. eine Täuschung vorliegt.[3] Das Kontrollgespräch wird von den für die ursprüngliche Prüfung zuständigen Prüfenden durchgeführt; war für die ursprüngliche Prüfung nur eine Prüfende bzw. ein Prüfender eingesetzt, findet das Kontrollgespräch in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestimmt wird.[4] Bei der Bewertung des Kontrollgesprächs ist der zeitliche Abstand zwischen der ursprünglichen Prüfung und dem Kontrollgespräch zu berücksichtigen.[5] Beherrscht die bzw. der Studierende den Prüfungsstoff in einem Umfang, der für das Bestehen der ursprünglichen Prüfung ausgereicht hätte, so gilt der begründete Verdacht für das Vorliegen des Plagiats bzw. der anderweitigen Täuschung als ausgeräumt und die ursprüngliche Prüfung wird regulär inhaltlich bewertet.[6] Kann die bzw. der Studierende im Rahmen des Kontrollgesprächs nach Satz 1 die abgeprüften Kompetenzen nicht in einem im Sinne des Satz 2 ausreichenden Umfang nachweisen und sind gleichzeitig keine tatsächlichen Umstände gegeben, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, gilt die Täuschung als bewiesen; es gilt Abs. 1 Satz 1.[7] Verweigert die bzw. der Studierende die Teilnahme an dem Kontrollgespräch, so stellt dies eine Verletzung ihrer bzw. seiner Obliegenheit zur Mitwirkung im Prüfungsverfahren im Sinne des Art. 26 Abs. 2 Satz 1 **BayVwVfG** dar. 8Macht die bzw. der Studierende gleichzeitig keine tatsächlichen Umstände glaubhaft, die ein atypisches Geschehen im Einzelfall ernsthaft möglich erscheinen lassen, so gilt der begründete Verdacht des Vorliegens eines Plagiats bzw. einer anderweitigen Täuschung als durch den Beweis des ersten Anscheins bewiesen.“ 
+(3) Persons who disturb the orderly examination process may be excluded from continuing the examination by the authorized examiner or the supervising person; in this case the examination achievement in question shall be considered to be “unsatisfactory” (5.0). 
 
-(3) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet. 
+(4) In the case of repeated or severe breaches as stipulated in (1) or (3), the Examinations Committee may exclude students from participating in the examination, resulting in the student losing the right of examination in the relevant module (failed at the final attempt). 
 
-(4) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder 3 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren 
+## **Section 14 Revocation of Degrees** 
+
+The revocation of degrees shall be governed by Section 101 **BayHIG** . 
+
+## **Section 15 Faults in the Examination Process** 
+
+(1) Should it turn out that the examination process was faulty in a manner that influenced the result of the examination, it shall be ordered upon a student’s request that a certain student or all students shall resit the examination or parts of the same. 
 
 8 
 
-Teilnahme an der Prüfung ausschließen mit der Folge, dass die bzw. der Studierende den Prüfungsanspruch im entsprechenden Modul verliert (endgültiges Nichtbestehen). 
+(2) Faults in the examination process shall be reported to the chairperson of the Examinations Committee or the examiner without delay. 
 
-## **§ 14 Entzug akademischer Grade** 
+(3) Six months after completion of the examination, resit examinations may no longer be ordered as stipulated in (1). 
 
-Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG** . 
+## **Section 16 Admission to Examinations** 
 
-## **§ 15 Mängel im Prüfungsverfahren** 
+(1)<sup>1</sup> Anyone who has signed a contract with FAU on participating in the degree program for professional development in Business Management or Global Business Management and is registered as a student shall be considered eligible to sit the examinations included in this degree program unless there are reasons to refuse admission.<sup>2</sup> Admission shall be refused if: 
 
-(1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, kann auf Antrag einer bzw. eines Studierenden angeordnet werden, dass von einer bzw. einem bestimmten oder von allen Studierenden die Prüfung oder einzelne Teile derselben wiederholt wird bzw. werden. 
+1. Proof of qualifications stipulated in these examination regulations including **Appendix 3** or **Appendix 4** is not submitted at all or not in due time. 
 
-(2) Mängel des Prüfungsverfahrens müssen unverzüglich bei der bzw. dem Vorsitzenden des Prüfungsausschusses oder bei der bzw. dem Prüfenden geltend gemacht werden. 
+2. The Diplom or Master’s examination in a comparable degree program (in particular the other Master’s degree program governed by these degree program and examination regulations or Diplom or Master’s degree programs in business studies e.g. a Master's degree in Management/ Business Administration/ Diplom-Kaufmann) has been failed at the final attempt. 
 
-(3) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr getroffen werden. 
+3. It has been ordered that the student is to be de-registered, resulting in the revocation of the student’s right to sit the examination. 
 
-## **§ 16 Zulassungsvoraussetzung zu den Prüfungen** 
+(2) If admission is to be refused, the student shall be informed without delay and informed as to the reasons for the decision and information on the legal remedies available. 
 
-(1)[1] Wer mit der FAU einen Vertrag über die Teilnahme am berufsbegleitenden Weiterbildungsstudiengang Business Management bzw. Global Business Management geschlossen hat und als Studierende bzw. Studierender entsprechend immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, es sei denn, die Zulassung ist zu versagen.[2] Die Zulassung ist zu versagen, wenn 
+## **Section 17 Written Examination, Multiple Choice Examinations** 
 
-1. nach dieser Prüfungsordnung inkl. der **Anlage 3** bzw. **Anlage 4** vorgeschriebene Nachweise endgültig nicht oder nicht fristgemäß erbracht sind, 
+(1)<sup>1</sup> In written examinations students are required to prove that they are capable of presenting issues from their field and identifying problems within a limited period and with limited materials, and using the conventional methods employed in their field to find solutions to these problems.<sup>2</sup> This applies in particular to invigilated written examinations.<sup>3</sup> Written examinations may also consist of drawing up a business plan, case study work, drawing up strategic concepts or concept papers or completing another form of written work (such as a written assignment, project report, or Master’s thesis). 4With the exception of a traditional written examination ( _Klausur_ ), written examinations may also be held as open book examinations during which students have to complete one or several tasks in a certain time without supervision using either a wide range of aids or whichever aids they like, but without the assistance of third parties; further details are stipulated in the module description.<sup>5</sup> In the case of examinations as defined in sentence 3, tasks shall as far as possible be tailored to test higher-level skills such as understanding, analysis, transfer and application. 
 
-2. die Diplom- oder Masterprüfung im inhaltlich vergleichbaren Studiengang (insbesondere der jeweils andere Masterstudiengang nach dieser Studien- und Prüfungsordnung sowie Diplom- oder Masterstudiengänge der Wirtschaftswissenschaften, z.B. Master in Management, Betriebswirtschaft/Diplom-Kaufmann) endgültig nicht bestanden ist oder 
+(2)<sup>1</sup> Written examinations shall generally be graded by the author of the examination questions.<sup>2</sup> If a written examination is graded as “nicht ausreichend” (unsatisfactory; 5.0), it shall be presented to a second examiner for evaluation.<sup>3</sup> The examiner’s evaluation must be documented in writing and reasons for the final grade must be made clear. 
 
-3. die Exmatrikulation unter Verlust des Prüfungsanspruches verfügt wurde. 
-
-(2) Ist die Zulassung zu versagen, so ist die Entscheidung der bzw. dem Studierenden unverzüglich bekanntzugeben und mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
-
-## **§ 17 Schriftliche Prüfung, Antwort-Wahl-Verfahren** 
-
-(1)[1] In der schriftlichen Prüfung sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln Zusammenhänge des Faches darstellen und Probleme mit den geläufigen Methoden des Faches erkennen sowie Wege zur Lösung finden können.[2] Dies gilt insbesondere für Klausuren, die unter Aufsicht angefertigt werden.[3] Die schriftliche Prüfung kann zudem aus einer Businessplanerstellung, Fallstudienbearbeitung, der Erstellung von Strategiekonzepten oder Konzeptpapieren sowie der Anfertigung einer sonstigen schriftlichen Arbeit (z. B. Haus-, Projekt-, Masterarbeit) bestehen.[4] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung. 5Bei Prüfungen i. S. d. Satz 3 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
+(3)<sup>1</sup> Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.<sup>2</sup> Detailed information on the modules with multiple choice examinations is given in the module handbook.<sup>3</sup> The examination candidate must indicate which of the answers to the questions they consider to be correct.<sup>4</sup> Examination questions must allow for reliable examination results. 
 
 9 
 
-(2)[1] Schriftliche Prüfungen werden in der Regel durch die Erstellerin bzw. den Ersteller der Aufgabe bewertet.[2] Eine mit „nicht ausreichend“ bewertete schriftliche Prüfung ist von einer bzw. einem zweiten Prüfenden zu bewerten.[3] Die Bewertung der bzw. des Prüfenden muss jeweils schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
+5When setting the examination questions, the answers that shall be recognized as applicable must be defined.<sup>6</sup> Multiple answers shall not be permitted and shall not be evaluated in cases where questions do not allow multiple answers.<sup>7</sup> Before the evaluation of the examination results, at least two of the authors of the examination shall assess whether the examination questions meet the requirement set out in sentence 4 and allow for reliable examination results.<sup>8</sup> If the results of this assessment show that individual examination questions contain errors, these questions must not be considered when determining the examination result; a reduced number of examination questions must be assumed.<sup>9</sup> A reduction in the number of examination questions must not have any negative consequences for examination candidates.<sup>10</sup> No minus points may be awarded beyond the respective question. 
 
-(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden. 6Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von einer verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+(4) The authors of the examination pursuant to (3)(7) shall determine when the examinations have been passed pursuant to (5)(1) and shall set a relative pass limit (sentence 2 (2)).<sup>2</sup> Unless stipulated otherwise in the relevant degree program and examination regulations, examinations pursuant to (3)(1) shall be deemed to have been passed if 
 
-(4) 1Die Aufgabenstellerinnen bzw. Aufgabensteller nach Abs. 3 Satz 7 legen fest, wann die Prüfungen nach Abs. 5 Satz 1 als bestanden gelten und legen auch eine relative Bestehensgrenze (Satz 2 Nr. 2) fest.[2] Sofern die Aufgabenstellerinnen bzw. Aufgabensteller keine Festlegung getroffen haben, gelten Prüfungen nach Abs. 3 Satz 1 als bestanden, wenn 
+1. the examinee answered at least 50 percent of the examination questions correctly/achieved at least 50 percent of the attainable points, or 
 
-1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat oder 
+2. The examinee answered at least 40 percent of the examination questions correctly/achieved at least 40 percent of the attainable points and the number of correct answers/points obtained is no more than 17 percent below the average number of correct answers/points obtained by all examinees sitting the examination for the first time. 
 
-2. die bzw. der zu Prüfende insgesamt mindestens 40 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat und die Zahl der von der bzw. dem zu Prüfenden zutreffend beantworteten Fragen bzw. erzielten Punkte um nicht mehr als 17 Prozent die durchschnittlichen Prüfungsleistungen der insgesamt zu Prüfenden unterschreitet, die erstmals an der entsprechenden Prüfung teilgenommen haben. 
+3The reference group of examinees sitting the examination for the first time pursuant to sentence 2 (2) must consist of at least 50 people, otherwise the relative pass limit shall not be applicable. 
 
-3Die Referenzgruppe der Erstteilnehmenden nach Satz 2 Nr. 2 muss aus mindestens 50 Personen bestehen; anderenfalls ist die relative Bestehensgrenze nicht anwendbar. 
+4If sentence 1 (2) is applied, the Dean of Studies shall be notified. 
 
-4Wird Satz 1 Nr. 2 angewendet, ist der Studiendekan bzw. die Studiendekanin zu unterrichten. 
+(5) In case of written examinations that are not entirely composed of multiple choice questions, (3) and (4) shall only apply to the respective part. 
 
-(5) Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil. 
+## **Section 18 Oral Examination** 
 
-## **§ 18 Mündliche Prüfung** 
+(1)<sup>1</sup> In oral examinations students must demonstrate both general and specific knowledge of the subject being tested.<sup>2</sup> Oral examinations are generally held as individual examinations conducted by one examiner in the presence of one observer with knowledge of the subject; the Examinations Committee can approve exceptions and allow group examinations (for a maximum of six examinees). 
 
-(1)[1] In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.[2] Mündliche Prüfungen werden in der Regel von einer bzw. einem Prüfenden in Gegenwart einer sachkundigen Beisitzerin bzw. eines sachkundigen Beisitzers als Einzelprüfung durchgeführt; der Prüfungsaus- 
+(2)<sup>1</sup> In oral examinations in the presence of several authorized examiners, each examiner shall determine the grade according to Section 20 immediately after the oral examination has been completed.<sup>2</sup> In case of differing evaluations, the mean of the grades shall be calculated according to Section 20 (1)(8).<sup>3</sup> The student shall be informed of the result of the oral examination directly after the oral examination. 
+
+(3)<sup>1</sup> A record shall be kept of the oral examination; this shall include the following: time, date and duration of the examination; subject and result of the examination; the names of the examiners, the observer and the student; and any special occurrences.<sup>2</sup> The record shall be signed by the authorized examiners and the observer.<sup>3</sup> The record shall be stored for at least two years. 
+
+(4)<sup>1</sup> Students planning to undergo the same examination during a subsequent examination period shall be permitted to be present as listeners during oral examinations within the bounds of feasibility with regard to the examination’s location; listeners shall be excluded at the examinee’s request.<sup>2</sup> Students granted permission to attend the 
 
 10 
 
-schuss kann Ausnahmen regeln und Gruppenprüfungen (maximal sechs Prüflinge) zulassen. 
+oral examination shall not be permitted to be present during the deliberation process and the announcement of the examination result. 
 
-(2)[1] In der mündlichen Prüfung vor mehreren prüfungsberechtigten Personen setzt jede bzw. jeder Prüfende die Note unmittelbar nach Abschluss der mündlichen Prüfung nach § 20 fest.[2] Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 20 Abs. 1 Satz 8 gilt entsprechend.[3] Das Ergebnis der mündlichen Prüfung ist der bzw. dem Studierenden jeweils im Anschluss an die mündliche Prüfung bekannt zu geben. 
+## **Section 19 On-Campus Electronic Examinations** 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der bzw. des Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet. 3Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+1Examinations may be administered in electronic form on campus. 2Detailed information on the modules in which examinations are held in electronic form on campus is given in the module handbook.<sup>3</sup> Electronic examinations (e-examinations) on campus are examinations which are administered and evaluated via computer or using digital technology.<sup>4</sup> The authenticity and integrity of the examination results must be ensured. 5Automatically calculated evaluations of examination achievements shall be verified by one examiner at the request of the examinee or two examiners in case of a failed examination. 
 
-(4)[1] Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der bzw. des zu Prüfenden werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
+## **Section 20 Evaluation of Examinations, Grades, Final Grade** 
 
-## **§ 19 Elektronische Prüfung in Präsenz** 
+(1)<sup>1</sup> The evaluation of individual examinations shall be expressed by the examiners with the following grades: 
 
-1Prüfungen können in elektronischer Form in Präsenz abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form in Präsenz abgenommen werden, regelt das Modulhandbuch.[3] Elektronische Prüfungen in Präsenz (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[4] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[5] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden. 
+|**Grade (in words)**|**Grade**|**Key**|
+|---|---|---|
+|sehr gut (very<br>good)|=<br>1.0 or 1.3|=<br>an outstanding achievement;|
+|gut (good)|=<br>1.7 or 2.0 or 2.3|=<br>an achievement that exceeds the require-<br>ments considerably|
+|befriedigend (satis-|=<br>2.7 or 3.0 or 3.3|=<br>an achievement that fulfils average require-|
+|factory)||ments;|
+|ausreichend (suffi-|=<br>3.7 or 4.0|=<br>an achievement that fulfills the requirements|
+|cient)||despite flaws;|
+|nicht ausreichend|=<br>4.3 or 4.7 or 5.0|=<br>an achievement that no longer fulfills require-|
+|(unsatisfactory)||ments due to considerable flaws|
 
-## **§ 20 Bewertung der Prüfungen, Notenstufen, Gesamtnote** 
+2Other grades are not permitted. 3An examination (Section 5 (3)) has been passed if it has received at least the grade “ausreichend” (sufficient).<sup>4</sup> For ungraded examinations the result shall be either “bestanden” (pass) or “nicht bestanden” (fail).<sup>5</sup> A module examination is passed when all partial achievements (Section 5 (2)(3)) have been passed.<sup>6</sup> If an examination is to be assessed by several examiners or if it consists of several partial achievements within the meaning of Section 5 (2)(3), the total grade is calculated from the average of the individual grades, weighted accordingly if applicable.<sup>7</sup> If the grade for a module consists of several partial achievements it shall be calculated from the weighted average of the grades achieved in the partial examinations based on ECTS credits.<sup>8</sup> The grading system described in sentence 1 shall not be used for cases covered by sentences 5 and 6, sentence 2 shall not apply.<sup>9</sup> Only one decimal place shall count towards the module grade; further decimal places shall be omitted without being rounded. 
 
-(1)[1] Die Urteile über die einzelnen Prüfungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Prädikate und Noten ausgedrückt: 
+(2)<sup>1</sup> The authors of the examination shall set the assessment criteria for multiple choice examination achievements pursuant to Section 17 (5)(7).<sup>2</sup> If no assessment criteria are set, the examinations shall be graded as follows: 
 
-|**Prädikat**||**Note**||**Erläuterung**|
-|---|---|---|---|---|
-|sehr gut|=|1,0 oder 1,3|=|eine hervorragende Leistung;|
-|gut|=|1,7 oder 2,0 oder 2,3|=|eine Leistung, die erheblich über den Anfor-|
-|||||derungen liegt;|
-|befriedigend|=|2,7 oder 3,0 oder 3,3|=|eine Leistung, die durchschnittlichen Anforde-|
-|||||rungen entspricht;|
-|ausreichend|=|3,7 oder 4,0|=|eine Leistung, die trotz ihrer Mängel noch den|
-|||||Anforderungen entspricht;|
-|nicht ausreichend|=|4,3 oder 4,7 oder 5,0|=|eine Leistung, die wegen erheblicher Mängel|
-|||||den Anforderungen nicht mehr genügt.|
+3Students who answer the required minimum of examination questions according to Section 17 (4)(1) correctly or achieve the required minimum number of points shall receive the grade 
 
-2Weitere Noten sind nicht zulässig. 3Eine Prüfung (§ 5 Abs. 3) ist bestanden, wenn sie mindestens mit dem Prädikat „ausreichend“ bewertet ist.[4] Bei unbenoteten Prüfungen lautet die Bewertung „bestanden“ oder „nicht bestanden“.[5] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 5 Abs. 2 Satz 3) bestanden sind.[6] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Teilleistungen i. S. d. § 5 Abs. 2 Satz 3, so ergibt sich die Note aus dem ggf. gewichteten Mittel der Einzelnoten.[6] Die Modulnote errechnet sich, soweit sie auf Teilleistungen 
+1.0 (sehr gut/very good) if at least 85 percent of the remaining questions were answered correctly or remaining points were achieved, 
+
+2.0 (gut/good) if at least 70 percent but less than 85 percent of the remaining questions were answered correctly or remaining points were achieved, 
+
+3.0 (befriedigend/satisfactory) if at least 50 percent but less than 70 percent of the remaining questions were answered correctly or remaining points were achieved, 
+
+4.0 (ausreichend/sufficient) if none or less than 50 percent of the remaining questions were answered correctly or remaining points were achieved. 3Grades can be increased 
 
 11 
 
-beruht, aus dem mit ECTS-Punkten gewichteten Durchschnitt der Noten aus den Teilleistungen.[7] In den Fällen der Sätze 5 und 6 findet das Notenschema des Satz 1 keine Anwendung, Satz 2 gilt nicht.[8] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+or decreased by 0.3 according to the percentage; the grades 0.7, 4.3 and 4.7 are excluded.<sup>4</sup> Students who do not achieve the required minimum number of points shall receive the grade 5.0.<sup>5</sup> Sentence 3 notwithstanding, the grades 4.3 and 4.7 may be awarded in cases in which examinations according to Section 17 (5) partly take the form of a multiple choice examination. 
 
-(2)[1] Der Bewertungsmaßstab von im Antwort-Wahl-Verfahren zu erbringenden Prüfungsleistungen ist von den Aufgabenstellerinnen bzw. Aufgabenstellern nach § 17 Abs. 5 Satz 7 festzulegen.[2] Erfolgt keine Festlegung, sind die erbrachten Prüfungen wie folgt zu bewerten: 
+(3)<sup>1</sup> The final grade of the Master’s examination is: at an average of up to 1.5 = sehr gut (very good); at an average of 1.6 up to and including 2.5 = gut (good); at an average of 2.6 up to and including 3.5 = befriedigend (satisfactory); at an average of 3.6 up to and including 4.0 = ‘ausreichend’ (sufficient); at an average of over 4.0 = nicht ausreichend (unsatisfactory) 
 
-3Wer die für das Bestehen der Prüfung nach § 17 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw. die Mindestanzahl der zu erzielenden Punkte erreicht, erhält die Note 
+2The overall grade in the Master’s examination shall be calculated as the arithmetic average of the grades for the modules and the Master’s thesis weighted according to the number of ECTS credits for the modules pursuant to **Appendix 3** or **Appendix 4** . 3 Section 1 (7) and (8) shall apply accordingly. 
 
-1,0 („sehr gut"), wenn mindestens 85 Prozent, 
+## **Section 21 Invalidity of Examinations** 
 
-2,0 („gut"), wenn mindestens 70, aber weniger als 85 Prozent, 3,0 („befriedigend"), wenn mindestens 50, aber weniger als 70 Prozent, 4,0 („ausreichend"), wenn keine oder weniger als 50 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet bzw. zu erzielenden Punkte erreicht wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im AntwortWahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden. 
+(1) If fraudulent methods were used during the examination and if this only becomes known after the certificate has been awarded, the Examinations Committee may correct the grade retrospectively and declare the examination as having been failed in part or in full. 
 
-(3)[1] Die Gesamtnote der Masterprüfung lautet: bei einem Durchschnitt bis einschließlich 1,5 = sehr gut; bei einem Durchschnitt von 1,6 bis einschließlich 2,5 = gut; bei einem Durchschnitt von 2,6 bis einschließlich 3,5 = befriedigend; bei einem Durchschnitt von 3,6 bis einschließlich 4,0 = ausreichend bei einem Durchschnitt von mehr als 4,0 = nicht ausreichend. 2Die Gesamtnote der Masterprüfung errechnet sich als nach den Leistungspunkten gewichtetes arithmetisches Mittel der Modulnoten und der Masterarbeit gemäß **Anlage 3** bzw. **Anlage 4** .[3] Abs. 1 Sätze 7 und 8 gelten entsprechend. 
+(2) If the requirements for admission to the examination were not fulfilled while no fraudulent acts were committed willfully and if this fact only becomes known after the certificate has been awarded, these circumstances shall be considered remedied by the passing of the examination. 
+
+(3) Students shall be given the opportunity to make a statement before a decision is taken. 
+
+(4)<sup>1</sup> The incorrect certificates shall be withdrawn; new certificates shall be issued if applicable.<sup>2</sup> A decision according to (1) shall be excluded after a period of five years starting with the certificates’ date of issue. 
+
+## **Section 22 Inspection of Examination Records** 
+
+(1) After the completion of the individual examination procedures, students shall on request be entitled to inspect their written examination papers, the corresponding reviews by the examiners, and the examination records. 
+
+(2)<sup>1</sup> The request shall be submitted to the chairperson of the Examinations Committee within one month of the notification of grades.<sup>2</sup> Students prevented from observing this deadline through no fault of their own can apply for full restitution according to Section 32 of the Bavarian Administrative Procedures Act ( **BayVwVfG** ).<sup>3</sup> The chairperson of the Examinations Committee shall determine the time and date of the inspection. 
+
+## **Section 23 Final Academic Record, Transcript of Records, Diploma Supplement, Grade Distribution Table and Degree Certificate** 
+
+(1) Students who have successfully completed the Master’s examination shall generally receive a final academic record, a transcript of records, a diploma supplement, a grade distribution table and a degree certificate within eight weeks. 
+
+(2)<sup>1</sup> The final academic record shall be signed by the chairperson of the Examinations Committee and includes the modules, module grades, title and grade of the Master’s 
 
 12 
 
-## **§ 21 Ungültigkeit der Prüfung** 
+thesis and the overall grade of the Master’s examination.<sup>2</sup> The required number of semesters of study may be entered in the final academic records upon the graduate’s request.<sup>3</sup> Examination achievements completed at a partner university shall be indicated as such.<sup>4</sup> The transcript of records lists all modules attended; the final academic record and the transcript of records may be combined into one document.<sup>5</sup> The diploma supplement contains further information on the graduate’s qualifications and states that the degree program is a professional development program for working professionals. 6The transcript of records and the diploma supplement shall be issued in both German and English.<sup>7</sup> Information not yet available to the Examinations Office must be submitted together with the required proof by the time of completing the degree program at the latest; otherwise this information may no longer be taken into consideration. 
 
-(1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung der Urkunden bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
+## **Section 24 Notification of Failed Examinations** 
 
-(2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, und wird diese Tatsache erst nach der Aushändigung der Urkunden bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt. 
+1Students who fail the Bachelor’s or Master’s examination at the final attempt shall receive notification that the examination has been failed at the final attempt, including information on legal remedies available.<sup>2</sup> Students can also print off an overview of their grades achieved in the individual modules in the examination administration system. 
 
-(3) Vor einer Entscheidung ist der bzw. dem Studierenden Gelegenheit zur Stellungnahme zu geben. 
+## **Section 25 Adjustments to Examination Arrangements** 
 
-(4)[1] Die unrichtigen Urkunden werden eingezogen; es werden gegebenenfalls neue Urkunden ausgestellt.[2] Eine Entscheidung nach Abs. 1 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunden ausgeschlossen. 
+(1)<sup>1</sup> The examination procedure shall be adjusted to take into account the nature and extent of a student’s disability.<sup>2</sup> Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination.<sup>3</sup> Sentences 1 and 2 shall apply accordingly to students in special circumstances, the effects of which on the student’s ability to sit the examination are similar to a longer illness or disability as stated above in sentence 
 
-## **§ 22 Einsicht in die Prüfungsakten** 
+(2) Adjustments to examination arrangements may be made for pregnant students if the student submits a medical certificate confirming that she will be at least 30 weeks pregnant by the examination date to the Examinations Committee responsible at least four weeks before the examination date. 
 
-(1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
+(3)<sup>1</sup> Decisions pursuant to (1) and (2) shall only be taken by the chairperson of the Examinations Committee upon written request and after consulting with the Disability Liaison Officer.<sup>2</sup> The student may be required to submit an official certificate from a medical examiner (vertrauensärztliches Attest) proving the fulfillment of the conditions in (1) or other proof confirming the student’s special circumstances.<sup>3</sup> Applications for adjustments to examination arrangements shall be made in writing to the Examinations Committee at the latest four weeks before registration for the examination. 
 
-(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei der bzw. dem Vorsitzenden des Prüfungsausschusses zu stellen.[2] Wer ohne eigenes Verschulden verhindert war, diese Frist einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 **BayVwVfG** in der jeweils geltenden Fassung beantragen.[3] Die Vorsitzende bzw. der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+## **Section 26 Master’s Thesis** 
 
-## **§ 23 Zeugnis, Transcript of Records, Diploma Supplement, Grade distribution table und Urkunde** 
+(1)<sup>1</sup> The Master’s thesis is intended to show that the student is capable of dealing with a problem from their field independently and with scientific methods within a set period. 2The Master’s thesis may not to any significant degree be identical to a Diplom, Bachelor’s, Master’s or doctoral thesis previously submitted by the student (prevention of plagiarism).<sup>3</sup> 15 ECTS credits shall be awarded for the Master’s thesis. 
 
-(1) Über die bestandene Masterprüfung werden in der Regel innerhalb von acht Wochen ein Zeugnis, ein Transcript of Records, ein Diploma Supplement, ein Grade distribution table und eine Urkunde über die Verleihung des akademischen Grades ausgestellt. 
-
-(2)[1] Das Zeugnis wird von der bzw. dem Vorsitzenden des Prüfungsausschusses unterzeichnet und enthält die Module, Modulnoten, Titel und Note der Masterarbeit und die Gesamtnote der Masterprüfung.[2] Auf Antrag der Absolventin bzw. des Absolventen wird die benötigte Fachstudiendauer in das Zeugnis aufgenommen.[3] An einer Partneruniversität erbrachte Prüfungen werden besonders gekennzeichnet.[4] Das Transcript of Records führt alle besuchten Module auf; das Zeugnis und das Transcript of Records können in einer Urkunde zusammengefasst werden.[5] Das Diploma Supplement enthält weitere Angaben zur Qualifikation der Absolventin bzw. des Absolventen und weist auf den berufsbegleitenden weiterbildenden Charakter des Studiengangs hin.[6] Das Transcript of Records und das Diploma Supplement werden in englischer und deutscher Sprache ausgestellt.[7] Informationen, die dem Prüfungsamt noch nicht vorliegen, müssen dort spätestens bis zum Zeitpunkt des Abschlusses des Studiengangs einschließlich entsprechender Nachweise vorgelegt werden; andernfalls können sie nicht mehr berücksichtigt werden. 
+(2)<sup>1</sup> Students are required to have achieved at least 25 ECTS credits in order to qualify 
 
 13 
 
-## **§ 24 Bescheinigung über endgültig nicht bestandene Prüfung** 
+for admission to the Master’s thesis.<sup>2</sup> Students shall ensure that they are allocated a subject for their Master’s thesis in time to observe the deadlines set forth in Section 7, usually at the latest by the start of the last semester in the regular duration of studies. 
 
-1Wer die Bachelor- bzw. Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken. 
+(3)<sup>1</sup> The subject and the date of its allocation shall be confirmed by the supervisor and presented to the Examinations Committee.<sup>2</sup> Should a student, despite a genuine effort to that end, not be allocated a subject, the chairperson of the Examinations Committee shall, in consultation with a representative of the student’s department, allocate a subject and a supervisor to the student. 
 
-## **§ 25 Nachteilsausgleich** 
+(4)<sup>1</sup> It is also permissible to allocate the Master’s thesis as a group project.<sup>2</sup> In such cases it must be possible to evaluate the individual contributions of each student. 
 
-(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
+(5)<sup>1</sup> Lecturers teaching the Business Management or Global Business Management degree programs as their main occupation pursuant to section 53 (4) **BayHIG** and staff on teaching assignments in the degree programs who are authorized to act as examiners shall be entitled to allocate subjects for and supervise Master’s theses.<sup>2</sup> The Examinations Committee shall have the right to grant exceptions. 
 
-(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
+(6)<sup>1</sup> The time between the selection of a subject and the submission of the Master’s thesis shall be four months; the scope of the subject must be such that it can be dealt with within this period.<sup>2</sup> The chairperson of the Examinations Committee shall have the right to extend the period for the Master’s thesis by way of exception by a maximum of four weeks upon receiving a justified request.<sup>3</sup> If a student submits a doctor’s certificate proving that they are incapable of working on the Master’s thesis, the period for thesis work shall be suspended temporarily.<sup>4</sup> If the period for working on the thesis is suspended for a considerable period of time as defined in sentence 4 (12 months minimum), the Examinations Committee shall check whether the period for working on the thesis ought to be terminated due to ill health, in which case the Master’s thesis shall be registered with a new topic once the student is well again.<sup>5</sup> Sentences 3 and 4 shall apply accordingly in cases in which the student is prevented from working on the Master’s thesis due to serious reasons beyond their control and outside their sphere of risk. 
 
-(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes bzw. eines der jeweiligen besonderen Lebenslage entsprechenden anderen Nachweises verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen. 
+(7)<sup>1</sup> The subject may only be returned once with good reason and with the approval of the chairperson of the Examinations Committee within the first third of the period for thesis work.<sup>2</sup> Otherwise the Master’s thesis shall be graded "nicht ausreichend" (unsatisfactory; 5.0) if the subject is returned; it shall be regarded as rejected. 
 
-## **§ 26 Masterarbeit** 
+(8) 1The Master’s thesis in the Master’s degree program in Business Management shall be written in German; the Master’s thesis in the Master’s degree program in Global Business Management shall be written in English.<sup>2</sup> The Examinations Committee shall decide on any exceptions at the student’s request and in consultation with the supervisor.<sup>3</sup> The Master’s thesis shall include a declaration by the student confirming that the thesis is an original work, that no sources or materials other than the ones listed were used and that the Master’s thesis has not been submitted to a different examination authority before.<sup>4</sup> A list of resources used shall be included in the Master’s thesis; direct and indirect citations taken from publications or other sources must be indicated as such.<sup>5</sup> If it is discovered that the declaration is false, the thesis shall receive the grade “nicht ausreichend” (unsatisfactory; 5.0). 6The student must be enrolled at FAU during the period of thesis work. 7The Master’s thesis shall be submitted in two copies as well as in machine-readable, electronic form to the Examinations Office; the time of submission shall be recorded in writing.<sup>8</sup> If the Master’s thesis is not submitted in time, it shall be graded “nicht ausreichend” (unsatisfactory; 5.0); it shall be regarded as rejected. 
 
-(1)[1] Die Masterarbeit soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem bzw. seinem Fach selbstständig und mit wissenschaftlichen Methoden zu bearbeiten.[2] Die Masterarbeit darf nicht mit einer früher vorgelegten eigenen Diplomarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen (Plagiatsschutz).[3] Das Modul Masterarbeit wird mit 15 ECTS-Punkten bewertet. 
-
-(2)[1] Zulassungsvoraussetzung für die Masterarbeit ist der Nachweis von mindestens 25 ECTS-Punkten.[2] Die Studierenden sorgen rechtzeitig zur Wahrung der Fristen nach § 7, in der Regel spätestens am Semesteranfang des letzten Semesters der Regelstudienzeit dafür, dass sie ein Thema für die Masterarbeit erhalten. 
-
-(3)[1] Thema und Tag der Ausgabe sind von der Betreuerin bzw. vom Betreuer zu bestätigen und dem Prüfungsausschuss mitzuteilen.[2] Gelingt es der bzw. dem Studierenden trotz ernsthafter Bemühungen nicht, ein Thema zu erhalten, weist die Vorsitzende bzw. der Vorsitzende des Prüfungsausschusses im Einvernehmen mit einer Fachvertreterin bzw. einem Fachvertreter der bzw. dem Studierenden auf Antrag ein Thema und eine Betreuerin oder einen Betreuer zu. 
+(9)<sup>1</sup> The Master’s thesis is usually graded by the supervisor; Section 18 (2) shall apply 
 
 14 
 
-(4)[1] Die Masterarbeit kann auch als Gruppenleistung vergeben werden.[2] In diesem Fall müssen individuell abgrenzbare Teilleistungen bewertbar sein. 
+accordingly.<sup>2</sup> The chairperson of the Examinations Committee shall arrange for the thesis to be graded at the latest within two months. 
 
-(5)[1] Die im Studiengang Business Management bzw. Global Business Management hauptberuflich im Sinne des Art. 53 Abs. 4 **BayHIG** tätigen hauptberuflichen Hochschullehrerinnen bzw. Hochschullehrer und Lehrbeauftragte mit entsprechender Prüfungsberechtigung sind zur Vergabe und Betreuung einer Masterarbeit berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
+(10)<sup>1</sup> The Master’s thesis shall be accepted if it receives at least the grade ‘ausreichend’ (sufficient).<sup>2</sup> It shall be rejected if it receives the grade “nicht ausreichend” (unsatisfactory). 
 
-(6)[1] Die Zeit von der Themenstellung bis zur Abgabe der Masterarbeit beträgt vier Monate (Regelbearbeitungszeit); das Thema muss so begrenzt sein, dass es innerhalb dieser Frist bearbeitet werden kann.[2] Auf begründeten Antrag kann die bzw. der Prüfungsausschussvorsitzende die Bearbeitungsfrist ausnahmsweise um bis zu vier Wochen verlängern.[3] Weist die bzw. der Studierende durch ärztliches Zeugnis nach, dass sie oder er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 4Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. 12 Monate) i.S.d. Satz 4, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.[5] Sätze 3 und 4 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist. 
+(11)<sup>1</sup> If the Master’s thesis is rejected or if it is regarded as rejected, it may be repeated once; a second repetition shall not be permitted.<sup>2</sup> The student shall ensure that they receive a new subject for the repetition of the Master’s thesis within the year following the announcement of the rejection; otherwise the Master’s thesis shall be regarded as having been failed at the final attempt; (3) sentence 2 shall apply accordingly.<sup>3</sup> Paragraphs 1, paragraphs 3 to 6 and paragraphs 8 to 10 shall apply accordingly to the repetition of the Master’s thesis; returning the subject shall not be permitted.<sup>4</sup> The chairperson of the Examinations Committee may permit the student to submit a revised version of the Master’s thesis within two months of the announcement of its rejection if this has not been ruled out by the examiner’s review. If the Master’s thesis was rejected on the basis of fraud or plagiarism, it may not be revised.<sup>5</sup> If revision of the thesis is permitted, paragraph 1, paragraphs 3 to 6 and paragraphs 8 to 10 shall apply accordingly. 
 
-(7)[1] Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der bzw. des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden.[2] Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+## **Section 27 Resit Examinations** 
 
-(8) 1Die Masterarbeit im Masterstudiengang Business Management ist grundsätzlich in deutscher Sprache abzufassen; die Masterarbeit im Masterstudiengang Global Business Management ist in englischer Sprache abzufassen.[2] Über Ausnahmen entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden und in Abstimmung mit der Betreuerin bzw. dem Betreuer.[3] Die Masterarbeit muss mit einer Erklärung der bzw. des Studierenden versehen sein, dass die Arbeit selbst verfasst wurde, keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden und dass die Masterarbeit noch nicht einer anderen Prüfungsbehörde vorgelegt wurde (Plagiatsschutz).[4] Der Masterarbeit ist ein Verzeichnis der benutzten Hilfsmittel beizufügen; Ausführungen, die wörtlich oder sinngemäß Veröffentlichungen oder anderen Quellen entnommen wurden, sind als solche kenntlich zu machen.[5] Bei Abgabe einer unwahren Versicherung wird die Arbeit mit der Note „nicht ausreichend“ (5,0) bewertet.[6] Während der Bearbeitung der Masterarbeit muss der bzw. die Studierende an der FAU immatrikuliert sein.[7] Die Masterarbeit ist in zwei Exemplaren sowie in maschinenlesbarer, elektronischer Fassung beim Prüfungsausschuss abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.[8] Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+(1)<sup>1</sup> With the exception of the Master’s thesis, all module examinations can be repeated three times.<sup>2</sup> The resit examination shall be limited to the examination or course achievement graded as “nicht ausreichend” (unsatisfactory); in the case of modules with compulsory attendance, students shall only be obliged to attend the teaching unit again if the manner in which the unit is taught or the nature of the examination is such that the student must attend again in order to acquire the required skills.<sup>3</sup> As a rule, resit examinations must be offered within six months of the original examination.<sup>4</sup> Students shall register independently for the resit examination; Section 12 (3) shall apply. 5The obligation to resit an examination remains even in the case of de-registration and leave of absence.<sup>6</sup> If a student misses the resit examination, the examination shall be deemed to have been failed unless the Examinations Committee grants the student a respite due to special reasons beyond the student’s control; Section 7 (3) shall apply accordingly.<sup>7</sup> The provisions regarding maternity leave, parental leave and caregiver leave (Section 7 (2)) shall apply. 
 
-(9)[1] Die Masterarbeit wird in der Regel von der Betreuerin bzw. dem Betreuer beurteilt; § 18 Abs. 2 gilt entsprechend. 2Die bzw. der Vorsitzende des Prüfungsausschusses wirkt darauf hin, dass die Masterarbeit innerhalb von zwei Monaten bewertet ist. 
+(2) Voluntarily resitting a passed examination of the same module shall not be permitted. 
 
-(10)[1] Die Masterarbeit ist angenommen, wenn sie mit wenigstens „ausreichend“ beurteilt ist.[2] Sie ist abgelehnt, wenn sie mit „nicht ausreichend“ bewertet ist. 
+## **Section 28 Accompanying Program, Additional Modules** 
+
+(1) In addition to the compulsory curriculum pursuant to **Appendix 3** or **Appendix 4** , students can also attend optional seminars and excursions pursuant to the following provisions. 
+
+(2)<sup>1</sup> In the first semester, students ought to participate in a 3-day excursion to one of FAU’s partner universities, for example the Sorbonne (Paris) or Charles University (Prague).<sup>2</sup> The fees for this excursion are already covered by the tuition fees for the degree program.<sup>3</sup> Other global business field trips, for example to China or India, can be arranged at an extra charge if enough students are interested. 
+
+(3)<sup>1</sup> As well as the compulsory curriculum pursuant to **Appendix 3** or **Appendix 4** , students can attend management skills training and complete additional modules within the examination deadlines set forth in Section 7.<sup>2</sup> Additional modules pursuant 
 
 15 
 
-(11)[1] Ist die Masterarbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Die bzw. der Studierende sorgt dafür, dass sie bzw. er innerhalb des nach der Bekanntgabe der Ablehnung folgenden Jahres ein neues Thema für die Wiederholung der Masterarbeit erhält; andernfalls gilt die Masterarbeit als endgültig nicht bestanden; Abs. 3 Satz 2 gilt entsprechend.[3] Für die Wiederholung der Masterarbeit gelten die Abs. 1 und 3 bis 6 und 8 bis 10 entsprechend; eine Rückgabe des Themas ist ausgeschlossen.[4] Die bzw. der Vorsitzende des Prüfungsausschusses kann, sofern dies nach Lage der Gutachten nicht ausgeschlossen ist, mit dem Einverständnis der Studierenden bzw. des Studierenden gestatten, eine überarbeitete Fassung der Masterarbeit innerhalb von zwei Monaten nach Bekanntgabe der Ablehnung vorzulegen; im Falle der Ablehnung der Masterarbeit wegen Täuschung oder Plagiats ist eine Umarbeitung ausgeschlossen.[5] Im Falle der Umarbeitung gelten die Abs. 1 und 3 bis 6 sowie 8 bis 10 entsprechend. 
+to sentence 1 are not included in the final grade, but are shown in a separate section of the transcript of records.<sup>3</sup> If the student files a request with the Examinations Committee at the latest eight weeks before certificates are issued, individual additional modules may be omitted from the final certificate.<sup>4</sup> Additional modules as defined by sentences 1 to 3 are offered in selected topics, in particular in communications, presentation skills, negotiating, problem-solving, decision-making, self-coaching and stress management.<sup>5</sup> Further information on modules available and examinations shall be announced according to local practice. 
 
-## **§ 27 Wiederholung der Prüfungen** 
+## **Section 29 Legal Validity, Transitory Provisions** 
 
-(1)[1] Mit Ausnahme der Mastarbeit können sämtliche Modulprüfungen dreimal wiederholt werden.[2] Die Wiederholung ist beschränkt auf die mit „nicht ausreichend" bewertete Prüfungs- oder Studienleistung; bei anwesenheitspflichtigen Modulen besteht eine Pflicht zum erneuten Besuch der Lehrveranstaltung nur dann, wenn die erneute Anwesenheit der bzw. des Studierenden aufgrund des didaktischen Charakters der Lehrveranstaltung bzw. der Prüfung für den Kompetenzerwerb der Studierenden erforderlich ist.[3] Die Wiederholungsprüfung muss in der Regel innerhalb von sechs Monaten angeboten werden.[4] Die bzw. der Studierende meldet sich zur Wiederholungsprüfung eigenständig an; es gilt § 12 Abs. 3.[5] Die Pflicht zur Wiederholung bleibt auch im Falle von Exmatrikulation und Beurlaubung bestehen.[6] Bei Versäumnis der Wiederholung gilt die Prüfung als nicht bestanden, sofern nicht der bzw. dem Studierenden vom Prüfungsausschuss wegen besonderer, von ihr bzw. ihm nicht zu vertretender Gründe eine Ausnahme gewährt wird; § 7 Abs. 3 gilt entsprechend.[7] Die Regeln über Mutterschutz, Eltern- und Pflegezeit (§ 7 Abs. 2) finden entsprechende Anwendung. 
+- (1)<sup>1</sup> These regulations shall come into effect on October 1, 2023.<sup>2</sup> They shall apply to all students studying in accordance with the degree program and examination regulations for the degree programs for professional development in Business Management and Global Business Management at the School of Business, Economics and Society of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM – dated September 2, 2020, last amended by statute of March 11, 2021, at the time the regulations come into effect and those students who start to study as of winter semester 2023/2024.<sup>3</sup> Notwithstanding sentence 2, the amendments in Appendix 4 concerning the modules Accounting & Taxation and Digital Transformation & Data Analytics shall only apply to students starting the degree program for professional development in Global Business Management as of winter semester 2023/2024.<sup>4</sup> Examinations in the previously valid version of these modules shall be offered for the last time in summer semester 2025.<sup>5</sup> From this date onwards, those students who are affected by these modules no longer being offered in the current form shall take their examinations in accordance with the version of the degree program and examination regulations that is valid at that time. 
 
-(2) Die freiwillige Wiederholung eines bestandenen Leistungsnachweises desselben Moduls ist nicht zulässig. 
+(2) At the same time, the degree program and examination regulations for the degree programs for professional development in Business Management and Global Business Management at the School of Business, Economics and Society of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM – dated September 2, 2020, last amended by statute of March 11, 2021, shall become invalid. 
 
-## **§ 28 Begleitprogramm, Zusatzmodule** 
-
-(1) Neben dem obligatorischen Curriculum nach **Anlage 3** bzw. **Anlage 4** besteht die Möglichkeit der Teilnahme an fakultativen Seminaren und Exkursionen gemäß den folgenden Absätzen. 
-
-(2)[1] Im ersten Semester ist eine 3-tägige Exkursion an eine Partneruniversität der FAU vorgesehen, z. B. an die Sorbonne (Paris) oder die Karls-Universität (Prag).[2] Die Kosten dieser Exkursion sind mit der Entrichtung der Teilnahmegebühren für den Studiengang bereits entrichtet.[3] Zusätzliche weltweite Business Field Trips, z. B. nach China oder Indien sind bei ausreichender Nachfrage gegen Aufpreis möglich. 
-
-(3)[1] Neben dem obligatorischen Curriculum nach **Anlage 3** bzw. **Anlage 4** besteht im Rahmen eines Management Skills-Trainings die Möglichkeit der Absolvierung von Zusatzmodulen im Rahmen der Prüfungsfristen nach § 7.[2] Zusatzmodule nach Satz 1 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.[3] Auf Antrag der bzw. des Studierenden beim Prüfungsausschuss können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden.[4] Zusatzmodule im Sinne der Sätze 1 bis 3 werden zu ausgewählten Themen angeboten, insbesondere im Bereich der Kommunikation, Präsentation, Verhandlungsführung, Problemlösung, Decision-Making, 
+(3)<sup>1</sup> The first amendment statute shall come into effect on October 1, 2024.<sup>2</sup> It shall apply to all examinations (first, second, or third attempt) in the examination period winter semester 2024/2025 and later.<sup>3</sup> For examinations from previous examination periods, the regulations in the version dated June 15, 2023, shall apply. 
 
 16 
 
-Selbstcoaching und Stressmanagement.[5] Näheres zum Angebot und zu den Prüfungen dieser Module wird ortsüblich bekannt gemacht. 
+## **Appendix 1: Qualification assessment process** 
 
-## **§ 29 Inkrafttreten, Übergangsvorschriften** 
+(1) The qualification assessment process shall be carried out as necessary, but at least once per year before the beginning of the winter semester. 
 
-- (1)[1] Diese Satzung tritt am 1. Oktober 2023 in Kraft.[2] Sie gilt für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen Studien- und Prüfungsordnung für die berufsbegleitenden Weiterbildungsstudiengänge Business Management und Global Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM – vom 2. September 2020, zuletzt geändert durch Satzung vom 11. März 2021, studieren sowie diejenigen, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in Anlage 4 bezogen auf die Module Accounting & Taxation sowie Digital Transformation & Data Analytics nur für diejenigen Studierenden, die das Studium im Weiterbildungsstudiengang Global Business Management ab dem Wintersemester 2023/2024 aufnehmen werden.[4] Prüfungen in diesen Modulen in der bisher gültigen Fassung werden letztmals im Sommersemester 2025 angeboten.[5] Ab diesem Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre jeweilige Prüfung nach der zu diesem Zeitpunkt gültigen Fassung der Studien- und Prüfungsordnung ab. 
+(2) 1Applications for admission to the qualification assessment process must generally be submitted in writing to the chairperson of the Examinations Committee by July 15 each year; late submissions shall be considered for the year group starting in the winter semester of the following year.<sup>2</sup> The following documents must be submitted with the application: 
 
-(2) Gleichzeitig tritt die Studien- und Prüfungsordnung für die berufsbegleitenden Weiterbildungsstudiengänge Business Management und Global Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – PO MBA BM / GBM vom 2. September 2020, zuletzt geändert durch Satzung vom 11. März 2021, außer Kraft. 
+1. Cover letter and CV 
 
-(3)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.[2] Sie findet Anwendung auf alle Prüfungen (Erst-, Zweit- bzw. Drittversuch), die dem Prüfungszeitraum Wintersemester 2024/2025 und später zugeordnet sind.[3] Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der Fassung vom 15. Juni 2023 Anwendung. 
+2. Proof of having completed an undergraduate degree pursuant to Section 6 (1), including transcript of records and diploma supplement 
 
-## **Anlage 1: Qualifikationsfeststellungsverfahren** 
+3. Proof of proficiency in English equivalent to at least level B2 + of the Common European Framework of Reference for Languages (CEFR) 
 
-(1) Das Verfahren zur Feststellung der Qualifikation wird bei Bedarf, mindestens jedoch einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt. 
+4. In the case of an application for the Master's degree program in Business Management: Proof of proficiency in German equivalent to level B2 CEFR, in particular proof of passing level 2 of the deutsche Sprachprüfung für den Hochschulzugang (DSH) or equivalent if the applicant has not completed their undergraduate degree or university entrance qualification in German 
 
-(2)[1] Die Anträge zum Zugang zum Qualifikationsfeststellungsverfahren sind in der Regel schriftlich spätestens bis zum 15. Juli eines jeden Jahres bei der bzw. dem Vorsitzenden des Prüfungsausschusses einzureichen; verspätet gestellte Anträge werden für den Studienbeginn im nächsten Wintersemester berücksichtigt.[2] Dem Antrag sind beizufügen: 
+5. Proof of previous work experience pursuant to Section 6 (2) (at least one year of relevant work experience is required, plus any additional practical experience) including any work references. 
 
-1. Anschreiben und Lebenslauf, 
+(3)<sup>1</sup> In accordance with Section 10, qualification assessment shall be the responsibility of the Examinations Committee of the Master’s degree program in Business Management or Global Business Management.<sup>2</sup> The Examinations Committee may transfer the task of coordinating and carrying out the process to individual members unless otherwise specified. 
 
-2. Nachweis eines ersten berufsqualifizierenden Abschlusses nach § 6 Nr. 1 einschließlich Transcript of Records und Diploma Supplement, 
+(4) 1Admission to the qualification assessment process shall be subject to the timely and complete submission of the documents listed in (2).<sup>2</sup> The qualification assessment process shall be carried out with those applicants who fulfill the requirements according to the provisions in (5) et. seq.<sup>3</sup> Applicants who are not admitted to the program shall receive a rejection notification including reasons and information on legal remedies available. 
 
-3. Englischkenntnisse mindestens der Niveaustufe B2 + des Gemeinsamen Europäischen Referenzrahmens (GER), 
+(5) 1All applicants admitted to the qualification assessment process pursuant to (4) shall be invited to a qualification assessment interview and the written documents they submit will be evaluated to determine whether they qualify for admission to the program.<sup>2</sup> The admission committee can allocate a total of 100 points according to the following criteria and scales: 
 
-4. Im Falle der Bewerbung für den Masterstudiengang Business Management: Nachweis deutscher Sprachkenntnisse auf dem Niveau B2 des GER, insbesondere Nachweis der deutschen Sprachprüfung für den Hochschulzugang (DSH) der Niveaustufe 2 oder entsprechende Nachweise, sofern der erste berufsqualifizierende Abschluss bzw. die Hochschulzugangsberechtigung nicht in deutscher Sprache erworben worden ist, 
+1. Grade achieved in undergraduate degree (max. 50 points) 
 
-5. Nachweis über die bisherige Berufserfahrung nach § 6 Nr. 2 (erforderlich ist mind. eine qualifizierte berufspraktische Erfahrung von nicht unter einem Jahr zzgl. ggf. weitere Praxiserfahrung) einschließlich ggf. Arbeitszeugnisse und Referenzschreiben. 
+2. Level of subject-specific English language skills (max. 10 points) 
+
+3. Qualification assessment interview pursuant to (7) (max. 40 points): 
+
+   - a) Subject knowledge of management, in particular of planning, organization, leadership, controlling (max. 15 points) 
+
+   - b) Methodological skills regarding management, in particular planning, organization, controlling (max. 15 points) 
+
+   - c) Positive prognosis for successfully completing the Master's degree program based on the consistently high level of the applicant’s achievements or evidence that the applicant’s performance has clearly improved over their course of studies so far; discussion of results of applicant’s undergraduate degree (based in particular on the transcript of records) (max. 10 points). 
+
+3The overall score is reached by adding the points scored for the individual criteria pursuant to sentence 2 in conjunction with (6) and (7)<sup>4</sup> Applicants who achieve at least 70 points are classified as qualified and are admitted to the Master's degree program.<sup>5</sup> All remaining applicants will receive a notification of rejection; this will specify the reasons for rejection and provide information on available legal remedies. 
 
 17 
 
-(3)[1] Die Feststellung der Qualifikation obliegt gemäß § 10 dem Prüfungsausschuss für den Masterstudiengang „Business Management“ bzw. „Global Business Management“.[2] Der Prüfungsausschuss kann die Koordination und Durchführung des Verfahrens einzelnen von ihm beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist. 
+(6)<sup>1</sup> The assessment pursuant to (5)(2) nos. 1 and 2a is conducted according to the following criteria: 
 
-(4)[1] Die Zulassung zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Abs. 2 genannten Unterlagen fristgerecht und vollständig vorliegen.[2] Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 ff. durchgeführt.[3] Bewerberinnen bzw. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+1. <u>Grade of Bachelor’s degree pursuant to (5) sentence 2 no. 1 (max. 50 points):</u> 
 
-(5)[1] Die Qualifikation der Bewerberinnen und Bewerber, denen nach Abs. 4 Zugang zum Qualifikationsfeststellungsverfahren gewährt werden konnte, wird anhand der Bewertung ihrer schriftlichen Unterlagen sowie eines Qualifikationsfeststellungsgesprächs ermittelt. 2Die Zugangskommission kann insgesamt 100 Punkte gemäß den nachfolgenden Kriterien und Bewertungsskalen vergeben: 
-
-1. Qualität der Note des Erstabschlusses (max. 50 Punkte), 
-
-2. Niveau der fachbezogenen Englischkenntnisse (max. 10 Punkte), 
-
-3. Qualifikationsfeststellungsgespräch gemäß Abs. 7 (max. 40 Punkte): 
-
-   - a) fachwissenschaftliche Grundkenntnisse im Bereich Management, insbesondere Planung, Organisation, Führung, Kontrolle (max. 15 Punkte) 
-
-   - b) Methodenkompetenz im Bereich Management, insbesondere Planung, Organisation, Führung, Kontrolle (max. 15 Punkte) 
-
-   - c) positive Prognose eines erfolgreichen Studienabschlusses des Masterstudiengangs aufgrund steigender bzw. durchweg guter bzw. hervorragender Leistungen im bisherigen Studienverlauf; Besprechung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (max. 10 Punkte). 
-
-3Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien nach Satz 2 i. V. m. Abs. 6 und 7 vergebenen Punkte.[4] Bewerberinnen und Bewerber, die mindestens 70 Punkte erreicht haben, werden als qualifiziert eingestuft und erhalten Zugang zum Masterstudiengang.[5] Alle übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
-
-- (6)[1] Die Bewertung nach Abs. 5 Satz 2 Nrn. 1 und 2 a) erfolgt anhand folgender Maßstäbe: 1. Note Bachelorabschluss gemäß Abs. 5 Satz 2 Nr. 1 (max. 50 Punkte): 
-
-|**Note des Abschlusses**<br>**nach Abs. 2Satz 2 Nr. 2**|**Punkte**|
+|**Grade of degree according**<br>**to(2)(2)(2)**|**Points**|
 |---|---|
-|1,0|50|
-|1,1|49|
-|1,2|48|
-|1,3|47|
-|1,4|46|
-|1,5|45|
-|1,6|44|
-|1,7|43|
-|1,8|42|
-|1,9|41|
-|2,0|40|
-|2,1|39|
-|2,2|38|
-|2,3|37|
-|2,4|36|
-|2,5|35|
-|2,6|34|
-|2,7|33|
-|2,8|32|
-|2,9|31|
-|3,0|30|
-|3,1|29|
-|3,2|28|
+|1.0|50|
+|1.1|49|
+|1.2|48|
+|1.3|47|
+|1.4|46|
+|1.5|45|
+|1.6|44|
+|1.7|43|
+|1.8|42|
+|1.9|41|
+|2.0|40|
+|2.1|39|
+|2.2|38|
+|2.3|37|
+|2.4|36|
+|2.5|35|
+|2.6|34|
+|2.7|33|
+|2.8|32|
+|2.9|31|
+|3.0|30|
+|3.1|29|
+|3.2|28|
+
+2. Level of proficiency in English pursuant to (5) sentence 2 no. 2 (max. 10 points): 
+
+- a) Applicants with language skills equivalent to level B2 (independent user) receive 2 points. 
+
+- b) Applicants with language skills equivalent to level C1 (proficient user) receive 6 points. 
+
+- c) Applicants who can demonstrate even greater proficiency in English obtained, for example, through stays abroad or from working in a multi-lingual company, or applicants who have a certificate for obtaining level C2 of the CEFR receive 10 points. 
+
+(7)<sup>1</sup> The qualification assessment interview pursuant to (5) sentence 2 no. 3 lasts approximately 30 minutes per applicant.<sup>2</sup> As a rule, the date shall be announced at least one week in advance.<sup>3</sup> The applicant must attend the interview on the appointed date.<sup>4</sup> If an applicant should be unable to attend the qualification assessment interview due to reasons beyond their control, a second date may be set upon justified request up until two weeks before the start of the lecture period.<sup>5</sup> The qualification assessment interview shall be held individually for each applicant.<sup>6</sup> In justified exceptional circumstances and with the applicant’s consent, it may also be held as a video call.<sup>7</sup> The qualification assessment interview shall be conducted by at least one member of the Examinations Committee in the presence of an observer.<sup>8</sup> The final point score of the qualification assessment interview is the arithmetic average of the individual ratings according to sentence 10 in conjunction with sentence 12; any positions after the decimal point resulting from the calculation are rounded up.<sup>9</sup> The applicants’ performance in the individual parts of the qualification assessment interview is assessed as follows: 
+
+1. Subject knowledge of management, in particular of planning, organization, leadership, controlling (max. 15 points) 
+
+|<br>**Skills level**|**Points**|
+|---|---|
+|**No basic subject knowledge**<br>(No knowledge of subject content relating to management, in particular planning, organization, leader-<br>ship,controlling)|0|
+|**Basic subject knowledge**<br>(Taxonomy levels knowledge and understanding; applicants can describe and explain subject matter<br>relatingto management,inparticularplanning,organization,leadershipand controlling).|1–5|
 
 18 
 
-2. Niveau der Englischkenntnisse nach Abs. 5 Satz 2 Nr. 2 (max. 10 Punkte): 
+#### **Advanced subject knowledge** 
 
-- a) Bewerberinnen und Bewerber, die Kenntnisse auf dem Niveau B2 (selbstständige Sprachverwendung) nachweisen können, erhalten 2 Punkte. 
+(Taxonomy levels knowledge, understanding, application and analysis; applicants can describe, 6–10 explain, transfer and discuss subject matter relating to management, in particular planning, or- <u>ganization, leadership and controlling).</u> **Specialist subject knowledge** (Taxonomy levels knowledge, understanding, application, analysis, evaluation and creation; applicants 11–15 can describe, explain, transfer, discuss, analyze and create subject matter relating to management, in <u>particular planning, organization, leadership and controlling).</u> 
 
-- b) Bewerberinnen und Bewerber, die Kenntnisse auf dem Niveau C1 (fachkundige Sprachkenntnisse) nachweisen können, erhalten 6 Punkte. 
+2. Methodological skills regarding management, in particular planning, organization, controlling (max. 15 points): 
 
-- c) Bewerberinnen bzw. Bewerber, die darüber hinaus vertiefte Englischkenntnisse durch Auslandsaufenthalte, eine Tätigkeit in einem mehrsprachigen Unternehmen, o. Ä. oder das Niveau C2 des GER nachweisen können, erhalten 10 Punkte. 
-
-(7)[1] Das Qualifikationsfeststellungsgespräch nach Abs. 5 Satz 2 Nr. 3 dauert ca. 30 Minuten pro Bewerberin bzw. Bewerber.[2] Der Termin wird in der Regel mindestens eine Woche vorher bekannt gegeben.[3] Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.[4] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[5] Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen.[6] Es kann in begründeten Ausnahmefällen und mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch geführt werden.[7] Das Qualifikationsfeststellungsgespräch wird von einem Mitglied des Prüfungsausschusses in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt.[8] Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich ggf. aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 10 i. V. m. Satz 12, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden.[9] Die Leistungen der Bewerberinnen und Bewerber in den einzelnen Teilen des Qualifikationsfeststellungsgesprächs werden wie folgt bewertet: 
-
-1. Fachwissenschaftliche Grundkenntnisse im Bereich Management, insbesondere Planung, Organisation, Führung, Kontrolle (max. 15 Punkte): 
-
-|Planung, Organisation, Führung, Kontrolle (max. 15 Punkte):||
+|**Skills level**|**Points**|
 |---|---|
-|**Kompetenz-Niveau**|**Punkte**|
-|**Keine fachlichen Grundkenntnisse**<br>(Keine Kenntnisse über fachliche Inhalte aus dem Bereich Management, insbesondere Planung, Or-<br>ganisation,Führung,Kontrolle)|0|
-|**Grundlegende Fachkenntnisse**<br>(Taxonomie-Stufen Wissen und Verstehen; fachliche Inhalte aus dem Bereich Management, insbe-<br>sondere Planung,Organisation,Führung,Kontrolle können beschrieben und erläutert werden)|1-5|
-|**Fortgeschrittene Fachkenntnisse**<br>(Taxonomie-Stufen Wissen, Verstehen, Anwenden und Analysieren; fachliche Inhalte aus dem<br>Bereich Management, insbesondere Planung, Organisation, Führung und Kontrolle können be-<br>schrieben,erläutert,übertragen und diskutiert werden)|6-10|
-|**Spezialisierte Fachkenntnisse**<br>(Taxonomie-Stufen Wissen, Verstehen, Anwenden, Analysieren, Evaluieren und Erschaffen; fach- li-<br>che Inhalte aus dem Bereich Management, insbesondere Planung, Organisation, Führung und Kon-<br>trolle können beschrieben,erläutert,übertragen,diskutiert,bewertet undgestaltet werden)|11-15|
+|**No methodological skills**<br>(No knowledge of management methods)|0|
+|**Basic methodological skills**||
+|(Taxonomy levels knowledge and understanding; management methods can be described and ex-<br>plained)|1–5|
+|**Advanced methodological skills**||
+|(Taxonomy levels knowledge, understanding, application and analysis; management methods can be<br>described, explained, transferred and discussed)|6–10|
+|**Specialist methodological skills**||
+|(Taxonomy levels knowledge, understanding, application, analysis, evaluation and creation; manage-<br>ment methods can be described, explained, transferred, discussed, assessed and<br>created)|11–15|
 
-2. Methodenkompetenz im Bereich Management, insbesondere Planung, Organisation, Führung, Kontrolle (max. 15 Punkte): 
+3. A positive prognosis based on improving progress during student’s previous course of studies (max 10 points). 
 
-|Führung, Kontrolle (max. 15 Punkte):||
-|---|---|
-|**Kompetenz-Niveau**|**Punkte**|
-|**Keine Methodenkompetenz**<br>(Keine Kenntnisse über Managementmethoden)|0|
-|**Grundlegende Methodenkompetenz**<br>(Taxonomie-Stufen Wissen und Verstehen; Managementmethoden können beschrieben und er- läu-<br>tert werden)|1-5|
-|**Fortgeschrittene Methodenkompetenz**<br>(Taxonomie-Stufen Wissen, Verstehen, Anwenden und Analysieren; Managementmethoden können<br>beschrieben, erläutert, übertragen und diskutiert werden)|6-10|
-|**Spezialisierte Methodenkompetenz**<br>(Taxonomie-Stufen Wissen, Verstehen, Anwenden, Analysieren, Evaluieren und Erschaffen; Manage-<br>mentmethoden können beschrieben, erläutert, übertragen, diskutiert, bewertet und<br>gestaltet werden)|11-15|
+|<br>**Prognosis**|**Points**||
+|---|---|---|
+|**No positive prognosis**<br>(No indication thatperformance has improved)||0|
+|**Slightly positive prognosis**|||
+|(Indication that performance has improved slightly, or perfor-<br>mance which has been average or sufficient from the outset)|2–4||
+|**Fairly positive prognosis**|||
+|(Indication that performance has improved to a fairly good ex-<br>tent,orperformance which has beengood from the outset)|6–8||
+|**Strongly positive prognosis**|||
+|(Indication that performance has improved considerably, or<br>performance which has been outstandingfrom the outset)|9–10||
 
-3. Positive Prognose aufgrund steigender Leistungen im bisherigen Studium (max. 10 Punkte) 
+(8) 1Documentation shall be produced on the type and schedule of the qualification assessment process, showing the date, duration and place of the assessment, the names of the Examinations Committee members, the names of the applicants, the decision of the Examinations Committee members and the overall score.<sup>2</sup> The documentation shall clearly indicate the essential reasons for the decision. 
+
+(9) 1The qualification assessment process shall be adjusted to take into account the nature and extent of a student’s disability.<sup>2</sup> Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination.<sup>3</sup> Sentences 1 and 2 shall apply accordingly to students in special circumstances, the effects of which on the student’s ability to sit the examination are similar to a longer illness or disability as stated above in sentence 2. 
+
+(10)<sup>1</sup> Confirmation of passing the qualification assessment process for the Master’s degree program for professional development in Business Management or Global Business Management shall remain valid indefinitely, provided this program has not been changed significantly.<sup>2</sup> Applicants who did not qualify for admission to the Master’s degree program may 
 
 19 
 
-|**Prognose**|**Punkte**|
-|---|---|
-|**Keine positive Prognose**<br>(Keine Hinweise auf steigende Leistungen)|0|
-|**Leichte positive Prognose**<br>(Hinweise auf leicht steigende Leistungen bzw. von Beginn<br>an durchschnittliche bzw. ausreichende Leistungen)|2-4|
-|**Mittelstarke positive Prognose**<br>(Hinweise auf mittelstark steigende Leistungen bzw. von Be-<br>ginn angute Leistungen)|6-8|
-|**Starke positive Prognose**<br>(Hinweise auf stark steigende Leistungen bzw. von Beginn<br>an hervorragende Leistungen)|9-10|
+apply to repeat the qualification assessment process on the basis of the documents submitted for the first application one more time. 
 
-(8)[1] Über die Art und den Ablauf des Qualifikationsfeststellungsverfahrens ist eine Dokumentation anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Prüfungsausschussmitglieder, die Namen der Bewerberinnen bzw. Bewerber und die Beurteilung der Prüfungsausschussmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Dokumentation müssen die wesentlichen Gründe für die Entscheidung ersichtlich sein. 
-
-(9)[1] Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
-
-(10) 1Die Bestätigung über die bestandene Qualifikation im berufsbegleitenden Weiterbildungsstudiengang Business Management bzw. Global Business Management hat unbeschränkte Gültigkeit, sofern sich der jeweilige Masterstudiengang nicht wesentlich geändert hat.[2] Bewerberinnen und Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Qualifikationsfeststellungsverfahren beantragen. 
-
-(11) Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
-
-## **Anlage 2: Sondereignungsfeststellungsprüfung** 
-
-(1)[1] Die Sondereignungsfeststellungsprüfung (SEFP) soll zeigen, ob die Bewerberinnen bzw. die Bewerber das zusätzlich zum ersten Hochschulabschluss (Basisniveau 180 ECTS-Punkte) erforderliche Eingangs- bzw. Qualifikationsniveau für den Masterstudiengang „Business Management“ bzw. „Global Business Management“ von insgesamt 240 ECTS-Punkten erreicht haben.[2] In der Regel wird die Sondereignungsfeststellungsprüfung gleichzeitig mit dem Qualifikationsfeststellungsverfahren gemäß der **Anlage 1** durchgeführt; die Abs. 1, 3, 5 Sätze 3 bis 7, 6 bis 9 der **Anlage 1** gelten entsprechend. 
-
-(2)[1] Im Rahmen der SEFP findet eine Feststellung der außerhochschulisch erworbenen, masterstudiengangspezifischen Kompetenzen im Umfang von 60 ECTS-Punkten anhand einer mündlichen Prüfung im Umfang von ca. 40 Minuten statt.[2] Sie erstreckt sich mit folgender Gewichtung im Rahmen der Bewertung auf die Bereiche Fachkompetenz (1/3), Methodenkompetenz (1/3), Selbstkompetenz (1/6) und soziale Kompetenz (1/6).[3] Die Be- 
+(11) Applicants shall bear their own costs incurred as a result of taking part in the qualification assessment process. 
 
 20 
 
-werberin bzw. der Bewerber bereitet die mündliche Prüfung anhand eines vom Studiengang zur Verfügung gestellten Templates in Bezug auf die Kompetenzbereiche vor und fügt entsprechende Nachweise bei.[4] Der Grad der Kompetenzerfüllung kann nachgewiesen werden durch: 
+## **Appendix 2: Suitability assessment examination** 
 
-- a) bisherige Berufserfahrung, insbesondere der Wahrnehmung von Führungsaufgaben, 
+(1) 1The suitability assessment examination shall demonstrate whether applicants’ qualifications required in addition to their undergraduate degree (basic level: 180 ECTS credits) mean that they have reached a level equivalent to the 240 ECTS credits required for admission to the Master’s degree program in Business Management or Global Business Management.<sup>2</sup> The suitability assessment examination shall generally be carried out at the same time as the qualification assessment process according to **Appendix 1** ; paragraphs (1), (3), (5) sentences 3 to 7, and (6) to (9) of **Appendix 1** shall apply accordingly. 
 
-- b) Vorliegen internationaler berufspraktischer Erfahrung, 
+(2) 1During the suitability assessment examination, which takes the form of an oral examination lasting approximately 40 minutes, it shall be determined whether the applicant has acquired skills relevant to the Master’s degree program outside of higher education that are equivalent to 60 ECTS credits.<sup>2</sup> It involves the following areas and weightings: Subjectspecific skills (1/3), methodological skills (1/3), personal skills (1/6) and social skills (1/6). 3Applicants shall prepare for the oral examination using the template provided by the degree program relating to the skill areas and attach suitable proof.<sup>4</sup> The extent to which skills are fulfilled can be demonstrated by means of the following: 
 
-- c) bisheriger Weiterbildungsaktivitäten, Zusatzprüfungen, 
+- a) previous work experience, in particular management duties 
 
-- d) Beurteilungen im Beruf, Empfehlungsschreiben, Evaluationsbögen durch den Arbeitgeber, 
+- b) international work experience 
 
-- e) Zeugnisse, Zertifikate, 
+- c) previous professional development activities, additional examinations 
 
-f) sonstige Nachweise. 
+- d) evaluations received at work, letters of recommendation, employer evaluations 
 
-> 5Die Dokumente sind mit der Bewerbung zum Studiengang entsprechend **Anlage 1** Abs. 2 einzureichen. 
+- e) certificates 
 
-(3)[1] In der mündlichen Prüfung werden zur Vorqualifikation korrespondierende Fragen zu den von der Bewerberin bzw. dem Bewerber zum Kompetenzerwerb vorgelegten Nachweisen in den in Satz 2 genannten Kompetenzbereichen gestellt.[2] In den einzelnen Kompetenzbereichen werden insbesondere folgende Fähigkeiten überprüft: 
+- f) other forms of proof. 
 
-1. Fachkompetenz: Delegationsfähigkeit, Zeitmanagement, Netzwerkfähigkeit, Präsentationsfähigkeit in Bezug auf das funktionale Management 
+- 5Documents are to be submitted with the application for the degree program according to **Appendix 1** (2). 
 
-2. Methodenkompetenz: Analyse- und Problemlösungsfähigkeit, Auffassungsfähigkeit/ -gabe, Entscheidungsfähigkeit, Ganzheitliches Denken, Organisationsfähigkeit in Bezug auf betriebliche Sachverhalte 
+(3)<sup>1</sup> In the oral examination the applicant shall be asked questions relevant to their previous qualification and on the proof presented as evidence of the skills listed in sentence 2. 
 
-3. Selbstkompetenz: Kritikfähigkeit, Selbstständigkeit, Zielstrebigkeit/ Ergebnisorientiertheit im unternehmerischen Kontext 
+2The assessment shall focus on the following abilities within the individual areas: 
 
-4. Sozialkompetenz: Führungsfähigkeit, Kommunikationsfähigkeit, Konfliktlösungskompetenz, Teamfähigkeit. 
+1. Subject-specific skills: Delegation skills, time management, networking skills, presentation skills with regard to functional management 
 
-(4)[1] Der Prüfungsausschuss bewertet jede Fähigkeit in einer fünfstufigen Skalierung in Abhängigkeit der erreichten Niveaustufe dargestellt durch Prozentpunkte.[2] Die Einstufung erfolgt in: 
+2. Methodological skills: Analytical and problem solving ability, ability to grasp new information, decision making skills, analytical skills, organizational skills with regard to business issues 
 
-1. Einsteiger = 0 % 
+3. Personal skills: Ability to deal with criticism, independence, ambition/goal orientation in a business context 
 
-2. Kenner = bis einschließlich 25 % 
+4. Social skills: Leadership skills, communication skills, ability to resolve conflict, ability to work in a team. 
 
-3. Routinier = bis einschließlich 50 % 
+(4) 1The Examinations Committee shall evaluate each ability on a five-point scale based on the level reached and expressed as a percentage.<sup>2</sup> The evaluation is carried out as follows: 
 
-4. Könner = bis einschließlich 75 % 
+1. Beginner = 0% 
 
-5. Experte = bis einschließlich 100 %. 3Ergibt der Durchschnitt aller bewerteten Fähigkeiten in den einzelnen Kompetenzbereichen mindestens 60 %, ist die SEFP bestanden.[4] **Anlage 1** Abs. 5 S. 8 bis 10 und 14 gelten entsprechend. 
+2. Somewhat experienced = up to and including 25% 
+
+3. Experienced = up to and including 50% 
+
+4. Very experienced = up to and including 75 % 
+
+5. Expert = up to and including 100% 
+
+3The suitability assessment examination shall be evaluated as passed if the average of all assessed skills in the individual areas is at least 60%. 4 **Appendix 1** (5)(8) to (5)(10) and (5)(14) shall apply accordingly. 
 
 21 
 
-## **Anlage 3: Studienverlaufsplan MBA Business Management** 
+## **Appendix 3: Degree program structure MBA Business Management** 
 
-|||**SWS**|**SWS**|**SWS**|**SWS**|**ECTS**|**1. Sem**|**2. Sem**|**3. Sem**|**Art und Umfang der Prüfung/ Stu-**|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Modulbezeichnung**|**Lehrveranstaltung**|**V**|**Ü**|**P**|**S**|**-**|**ECTS-**|**ECTS-**|**ECTS-**||
-|||||||**Punkte**||||<br>**dienleistung**|
-||||||||**Punkte**|**Punkte**|**Punkte**||
-||||||||||||
-|**Strategy**|Strategy||||x|5|5|||Präsentation 60 Minuten|
-||||||||||||
-|**Leadership**|Leadership||||x|5|5|||Strategiekonzept (6-10 Seiten) und Prä-|
-|||||||||||<br>sentation 20 Minuten|
-||||||||||||
-||||||||||||
-|**Accounting**|Accounting||||x|5|5|||Klausur 90 Minuten|
-|||||||||||Hausarbeit (10-15 Seiten) und Prä-|
-|**Controlling**|Controlling||||x|5|5||||
-|||||||||||sentation (20 Minuten)|
-||||||||||||
-||||||||||||
-|**Finance**|Finance||||x|5||5||Klausur 90 Minuten|
-|||||||||||Fallstudie:|
-|**Marketing**|Marketing||||x|5||5|||
-|||||||||||Präsentation 60 Minuten und 25 Seiten|
-||||||||||||
-||||||||||||
-|**Operations**|Operations||||x|5||5||Klausur 90 Minuten|
-|||||||||||Fallstudie:|
-|**Innovation**|Innovation||||x|5||5|||
-|||||||||||Präsentation 60 Minuten und 25 Seiten|
-||||||||||||
-||||||||||||
-|**Data and Process Analytics**|Data and Process Analytics||||x|5|||5|Konzeptpapier (6-10 Seiten) und Prä-<br>sentation 20 Minuten|
-|**Masterarbeit**||||||15|||15|Schriftliche Ausarbeitung im Umfang von|
-|||||||||||<br>ca. 50-80 Seiten|
-||||||||||||
-||||||||||||
-||||||||20|20|20||
-|Summe SWS: 31,5||Summe ECTS-Punkte: 60|||||||||
-||||||||||||
+|**Module name**|**Teaching unit**|**SWS**<br>**(semester hours)**<br>**L**<br>**T**<br>**P**<br>**S**|**ECTS**<br>**Points**|**1. sem.**<br>**ECTS**<br>**credits**|**2. sem.**<br>**ECTS**<br>**credits**|**3. sem.**<br>**ECTS**<br>**credits**|**Type and scope of the examina-**<br>**tion/course achievement**|
+|---|---|---|---|---|---|---|---|
+|**Strategy**|Strategy|x|5|5|||Presentation 60 minutes|
+|**Leadership**|Leadership|x|5|5|||Strategy concept (6-10 pages) and<br>presentation 20 minutes|
+|**Accounting**|Accounting|x|5|5|||Written examination 90 minutes|
+|**Controlling**|Controlling|x|5|5|||Written assignment (10-15 pages)<br>and presentation (20 minutes)|
+|**Finance**|Finance|x|5||5||Written examination 90 minutes|
+|**Marketing**|Marketing|x|5||5||Case study:<br>Presentation 60 minutes and 25 pages|
+|**Operations**|Operations|x|5||5||Written examination 90 minutes|
+|**Innovation**|Innovation|x|5||5||Case study:<br>Presentation 60 minutes and 25 pages|
+|**Data and Process Analytics**|Data and Process Analytics|x|5|||5|Concept paper (6-10 pages) and<br>presentation 20 minutes|
+|**Master’s thesis**|||15|||15|Written assignment of approx. 50–80<br>pages|
+||Total SWS: 31.5|Total ECTS cre|dits: 60|20|20|20||
 
 22 
 
-## **Anlage 4: Studienverlaufsplan MBA Global Business Management** 
+## **Appendix 4: Degree program structure MBA Global Business Management** 
 
-|||**SWS**|**SWS**|**SWS**|**SWS**|**ECTS**|**1. Sem**|**2. Sem**|**3. Sem**||
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Modul name**|**Lecture**|**V**|**Ü**|**P**|**S**||**ECTS**|**ECTS**|**ECTS**|**Method of examination**|
-|||||||**credits**|||||
-||||||||**credits**|**credits**|**credits**||
-||||||||||||
-|**Strategy**|Strategy||||x|5|5|||Presentation (60 minutes)|
-|||||||||||Strategy con-|
-||||||||||||
-|**Leadership**|Leadership||||x|5|5|||cept (6-10|
-|||||||||||pages) and|
-|||||||||||<br>presentation 20minutes|
-|**Accounting & Taxation**|Accounting & Taxation||||x|5|5|||Written exam (90 minutes)|
-|||||||||||Term paper (10-15 pages) and|
-|**Controlling**|Controlling||||x|5|5||||
-|||||||||||<br>presentation (20 minutes)|
-||||||||||||
-||||||||||||
-|**Finance**|Finance||||x|5||5||Written exam (90 minutes)|
-|||||||||||Case study:|
-|**Marketing**|Marketing||||x|5||5|||
-|||||||||||presentation 60 minutes and 25 pages|
-||||||||||||
-||||||||||||
-|**Operations**|Operations||||x|5||5||Written exam (90 minutes)|
-|||||||||||Case study:|
-|**Innovation**|Innovation||||x|5||5|||
-|||||||||||presentation 60 minutes and 25 pages|
-||||||||||||
-||||||||||||
-|**Digital Transformation &**<br>**Data Analytics**|Digital Transformation &<br>DataAnalytics||||x|5|||5|Concept paper (6-10 pages) and<br>presentation (20 minutes)|
-||||||||||||
-|**Master´s thesis**||||||15|||15|Written work of 50-80 pages|
-||||||||||||
-||||||||20|20|20||
-|Total SWS: 31,5||Total ECTS credits:|||||||||
-|||60|||||||||
-||||||||||||
+|**Module name**|**Lecture**<br>**(**<br>**L**|**SWS**<br>**semester hours)**<br>**T**<br>**P**<br>**S**|**ECTS**<br>**credits**|**1. sem.**<br>**2**<br>**ECTS**<br>**credits**|**. sem.**<br> <br>**ECTS**<br>**credits**|**3. sem.**<br>**ECTS**<br>**credits**|**Method of examination**|
+|---|---|---|---|---|---|---|---|
+|**Strategy**|Strategy|x|5|5|||Presentation (60 minutes)|
+|**Leadership**|Leadership|x|5|5|||Strategy con-<br>cept (6-10<br>pages) and<br>presentation 20 minutes|
+|**Accounting & taxation**|Accounting & taxation|x|5|5|||Written examination (90 minutes)|
+|**Controlling**|Controlling|x|5|5|||Term paper (10-15 pages) and<br>presentation(20 minutes)|
+|**Finance**|Finance|x|5||5||Written examination (90 minutes)|
+|**Marketing**|Marketing|x|5||5||Case study:<br>presentation 60 minutes and 25pages|
+|**Operations**|Operations|x|5||5||Written examination (90 minutes)|
+|**Innovation**|Innovation|x|5||5||Case study:<br>presentation 60 minutes and 25pages|
+|**Digital transformation &**<br>**data analytics**|Digital transformation &<br>data analytics|x|5|||5|Concept paper (6-10 pages) and<br>presentation (20 minutes)|
+|**Master’s thesis**|||15|||15|Written assignment of 50-80 pages|
+||Total SWS: 31.5|Total EC<br>60|TS credits:|20|20|20||
 

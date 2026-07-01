@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES BA_Bio+MA_ZellMolekBio.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:30:26+00:00
-page_count_chars: 12060
+scraped_at: 2026-07-01T08:54:21+00:00
+page_count_chars: 12071
 ---
 
 # 5. August 2016
@@ -12,9 +12,9 @@ page_count_chars: 12060
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES BA_Bio+MA_ZellMolekBio.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
-## **Erste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOBio -** 
+# **Erste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOBio -** 
 
-## **Vom 5. August 2016** 
+# **Vom 5. August 2016** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) 
 
       - cc) Es wird folgender neuer Satz 3 eingefügt: 
 
-         - "[3] In den Fachmodulen C und D ist jeweils nur Teil 2 zu belegen." 
+         - "<sup>3</sup> In den Fachmodulen C und D ist jeweils nur Teil 2 zu belegen." 
 
       - dd) Die bisherigen Sätze 3 und 4 werden zu den Sätzen 4 und 5. 
 
@@ -72,15 +72,15 @@ Die Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) 
 
 - b) Anlage 1b (Modulliste) wird wie folgt geändert: 
 
-   - aa) Die Zeilen 3 und 4 (Modul Biologie I) werden wie folgt geändert: 
+aa) Die Zeilen 3 und 4 (Modul Biologie I) werden wie folgt geändert: 
 
-      - (1) In Spalte 14 (Art und Umfang der Prüfung/Studienleistung) werden die Worte "Portfolioprüfung: PL" durch das Wort "SL" ersetzt, nach dem Wort "Min." der Klammerzusatz "(unbenotet)" eingefügt und die Worte "Protokolle von 12 Kurstagen" durch die Worte "Protokollheft ca. 50 Seiten" ersetzt. 
+   - (1) In Spalte 14 (Art und Umfang der Prüfung/Studienleistung) werden die Worte "Portfolioprüfung: PL" durch das Wort "SL" ersetzt, nach dem Wort "Min." der Klammerzusatz "(unbenotet)" eingefügt und die Worte "Protokolle von 12 Kurstagen" durch die Worte "Protokollheft ca. 50 Seiten" ersetzt. 
 
-      - (2) In Spalte 15 (Faktor Modulnote) wird die Zahl "1" durch die Zahl "0" ersetzt. 
+   - (2) In Spalte 15 (Faktor Modulnote) wird die Zahl "1" durch die Zahl "0" ersetzt. 
 
-   - bb) In den Zeilen 5 und 6 (Modul Biologie II) werden in Spalte 14 (Art und Umfang der Prüfung/Studienleistung) das Wort und das Zeichen "Portfolioprüfung:" gestrichen und die Worte "Protokolle von 12 Kurstagen" durch die Worte "Protokollheft ca. 50 Seiten" ersetzt. 
+- bb) In den Zeilen 5 und 6 (Modul Biologie II) werden in Spalte 14 (Art und Umfang der Prüfung/Studienleistung) das Wort und das Zeichen "Portfolioprüfung:" gestrichen und die Worte "Protokolle von 12 Kurstagen" durch die Worte "Protokollheft ca. 50 Seiten" ersetzt. 
 
-   - cc) In den Zeilen 7 und 8 (Modul Biologie III) werden in Spalte 14 (Art und Umfang der Prüfung/Studienleistung) das Wort und das Zeichen 
+- cc) In den Zeilen 7 und 8 (Modul Biologie III) werden in Spalte 14 (Art und Umfang der Prüfung/Studienleistung) das Wort und das Zeichen 
 
 2 
 
@@ -132,10 +132,10 @@ mm) Die neue Zeile 33 (Modul Fachmodul C Teil 2) wird wie folgt geändert:
 
 nn) Es werden folgende neue Zeilen 34 und 35 eingefügt: 
 
-|**Fachmodul**<br>**D**<br>**(nur Teil 2)**|Vorlesung mit<br>Seminar|1|||2|5|||||5|PL: Klausur 45 Min.|2|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Digitale**<br>**Werkzeuge**<br>**für**<br>**Biologen**|Übung||5|||5|||||5|SL: Absolvieren eines<br>Lernprogramms (unbenotet)|0|
-|„||||||||||||"||
+|**Fachmodul**<br>**D**<br>**(nur Teil 2)**|Vorlesung mit<br>Seminar<br>1|2|5|5|PL: Klausur 45 Min.|2|
+|---|---|---|---|---|---|---|
+|**Digitale**<br>**Werkzeuge**<br>**für**<br>**Biologen**|Übung<br>5||5|5|SL: Absolvieren eines<br>Lernprogramms (unbenotet)|0|
+|„|||||"||
 
 oo) Die bisherigen Zeilen 34 bis 48 werden zu den Zeilen 36 bis 50. 
 
@@ -149,7 +149,7 @@ oo) Die bisherigen Zeilen 34 bis 48 werden zu den Zeilen 36 bis 50.
 
    - " 
 
-45-49 62 20-22 18 
+<mark>45-49 62 20-22 18</mark> 
 
 " 
 
@@ -169,11 +169,11 @@ tt) Die Fußnote 1) wird wie folgt geändert:
 
    - b) Zeile 10 (Modul Wahlmodul Externes Praktikum) wird wie folgt geändert: 
 
-      - aa) In Spalte 1 (Modulbezeichnung) wird nach dem Wort "Praktikum" die hochgestellte Zahl "[5)] " eingefügt. 
+      - aa) In Spalte 1 (Modulbezeichnung) wird nach dem Wort "Praktikum" die hochgestellte Zahl "<sup>5)</sup> " eingefügt. 
 
       - bb) In Spalte 12 (Art und Umfang der Prüfung/Studienleistung) werden nach dem Wort "Praktikumsprotokoll" die Worte "ca. 10 Seiten" und nach dem Wort "Seminarvortrag" die Worte "ca. 20 Min.)" eingefügt. 
 
-   - c) In Zeile 11 (Modul Englisch UNIcert ® III) wird in Spalte 1 (Modulbezeichnung) nach der Zahl "III" die hochgestellte Zahl "[5)] " eingefügt. 
+   - c) In Zeile 11 (Modul Englisch UNIcert ® III) wird in Spalte 1 (Modulbezeichnung) nach der Zahl "III" die hochgestellte Zahl "<sup>5)</sup> " eingefügt. 
 
    - c) In Zeile 13 (Modul Wissenschaftliche Schlüsselqualifikationen) werden in Spalte 12 (Art und Umfang der Prüfung/Studienleistung) das Wort und der Klammerzusatz "Portfolioprüfung (2 SL)" durch das Wort "SL" ersetzt und nach dem Wort "Seiten" der Klammerzusatz sowie das Wort "(unbenotet) SL:" und nach dem Wort "Min." der Klammerzusatz "(unbenotet)" eingefügt. 
 
@@ -181,17 +181,17 @@ tt) Die Fußnote 1) wird wie folgt geändert:
 
    - e) Zeile 16 (Summe SWS) wird wie folgt geändert: 
 
-aa) In Spalte 4 (SWS - Ü) wird die Zahl "62" durch die Zahlen "52-54" ersetzt. 
+      - aa) In Spalte 4 (SWS - Ü) wird die Zahl "62" durch die Zahlen "52-54" ersetzt. 
 
-   - bb) In Spalte 5 (SWS – P) wird die Zahl „30“ durch die Zahl „0“ ersetzt. 
+      - bb) In Spalte 5 (SWS – P) wird die Zahl „30“ durch die Zahl „0“ ersetzt. 
 
-- f) Fußnote 1) wird wie folgt geändert: 
+   - f) Fußnote 1) wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird das Wort "Prüfung" durch das Wort "Fachmodulprüfung" ersetzt. 
+      - aa) In Satz 1 wird das Wort "Prüfung" durch das Wort "Fachmodulprüfung" ersetzt. 
 
-   - bb) In Satz 2 werden das Wort "besteht" durch die Worte "setzt sich" ersetzt, die Worte "aus einer Portfolioprüfung, welche sich" gestrichen, nach dem Wort "Protokoll" die Worte "von ca. 30 Seiten" eingefügt und das Wort "zusammensetzt" durch das Wort "zusammen" ersetzt. 
+      - bb) In Satz 2 werden das Wort "besteht" durch die Worte "setzt sich" ersetzt, die Worte "aus einer Portfolioprüfung, welche sich" gestrichen, nach dem Wort "Protokoll" die Worte "von ca. 30 Seiten" eingefügt und das Wort "zusammensetzt" durch das Wort "zusammen" ersetzt. 
 
-- g) In Fußnote 2) wird das Worten "betreuende" durch die Worte " Studierende im Einvernehmen mit der bzw. dem betreuenden" ersetzt. 
+   - g) In Fußnote 2) wird das Worten "betreuende" durch die Worte " Studierende im Einvernehmen mit der bzw. dem betreuenden" ersetzt. 
 
 5 
 
@@ -201,9 +201,9 @@ aa) In Spalte 4 (SWS - Ü) wird die Zahl "62" durch die Zahlen "52-54" ersetzt.
 
 - i) Es wird folgende neue Fußnote 5) angefügt: 
 
-"[5)] Es ist wahlweise entweder das Modul "Wahlmodul Externes Praktikum" oder das Modul " Englisch UNIcert ® III" zu belegen." 
+"<sup>5)</sup> Es ist wahlweise entweder das Modul "Wahlmodul Externes Praktikum" oder das Modul " Englisch UNIcert ® III" zu belegen." 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2016/2017 aufnehmen. 3Abweichend von Satz 2 gilt die Änderung in Nr. 4 h) auch für Studierende, die ihr Studium bereits vor dem Wintersemester 2016/2017 aufgenommen haben. 
 

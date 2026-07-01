@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Februar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/4AES_StuO_Humanmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:23:52+00:00
-page_count_chars: 15733
+scraped_at: 2026-07-01T08:48:15+00:00
+page_count_chars: 16037
 ---
 
 # 5. Februar 2014
@@ -12,13 +12,13 @@ page_count_chars: 15733
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/4AES_StuO_Humanmedizin.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Vierte Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
 
-## Vom 5. Februar 2014 
+# Vom 5. Februar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg vom 30. September 2003, zuletzt geändert durch Satzung vom 24. Mai 2013, wird wie folgt geändert: 
 
@@ -44,7 +44,7 @@ Die Studienordnung für das Studium der Medizin an der Universität Erlangen-Nü
 
    - b) In Abs. 4 Satz 4 Halbsatz 2 wird die Zahl „75“ durch die Zahl „59“ ersetzt. 
 
-## 4. § 11 wird wie folgt geändert: 
+# 4. § 11 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach dem Wort „wenn“ die Worte „die oder“, nach dem Wort „Ausbildung“ die Worte „zur Ärztin bzw.“ und nach den Worten „die Tätigkeit als“ die Worte „Ärztin bzw.“ eingefügt. 
 
@@ -60,7 +60,7 @@ bb) In Satz 2 werden nach dem Wort „wenn“ die Worte „die oder“ eingefüg
 
 - a) In Abs. 1 Satz 1 werden vor dem Wort „Der“ die Worte „Die Übungsleiterin bzw.“ eingefügt. 
 
-b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
    - aa) In Satz 3 wird nach dem Wort „eines“ das Wort „vom“ durch die Worte „von der oder dem“ ersetzt. 
 
@@ -76,31 +76,31 @@ b) Abs. 2 wird wie folgt geändert:
 
 - g) Es wird folgender neuer Abs. 5 eingefügt: 
 
-„(5)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die Vorsitzende oder der Vorsitzende des Prüfungsausschusses gestattet, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen.[3] Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden.[4] Entscheidungen nach den Sätzen 1 bis 3 werden nur auf schriftlichen Antrag hin von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses getroffen.[5] Anträge auf Nachteilsausgleich sind spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen.“ 
+„(5)<sup>1</sup> Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die Vorsitzende oder der Vorsitzende des Prüfungsausschusses gestattet, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen.<sup>3</sup> Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin einen entsprechenden Antrag stellen und eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden.<sup>4</sup> Entscheidungen nach den Sätzen 1 bis 3 werden nur auf schriftlichen Antrag hin von der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses getroffen.<sup>5</sup> Anträge auf Nachteilsausgleich sind spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen.“ 
 
 h) Die bisherigen Abs. 7 und 8 werden zu Abs. 6 und 7. 
 
 6. § 13 erhält folgende Fassung: 
 
-**„§ 13** 
+# **„§ 13** 
 
-## **Anmeldung zu Prüfungen; Versäumnis und Rücktritt** 
+# **Anmeldung zu Prüfungen; Versäumnis und Rücktritt** 
 
-(1)[1] Mit der Anmeldung zu Seminaren (S), Praktika (PK) und Übungen (Ü) ist die oder der Studierende automatisch zur zugehörigen Prüfung angemeldet.[2] Für Prüfungen, die einer Vorlesung (VL) zugeordnet sind, müssen sich die Studierenden anmelden; der Anmeldezeitraum wird jeweils rechtzeitig ortsüblich bekannt gemacht. 
+(1)<sup>1</sup> Mit der Anmeldung zu Seminaren (S), Praktika (PK) und Übungen (Ü) ist die oder der Studierende automatisch zur zugehörigen Prüfung angemeldet.<sup>2</sup> Für Prüfungen, die einer Vorlesung (VL) zugeordnet sind, müssen sich die Studierenden anmelden; der Anmeldezeitraum wird jeweils rechtzeitig ortsüblich bekannt gemacht. 
 
 2 
 
 (2) Ein Rücktritt von gemäß Abs. 1 Satz 2 angemeldeten schriftlichen und mündlichen Prüfungen ist bis zum Ende des dritten Werktages vor dem Prüfungstag ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag. 
 
-(3)[1] Kann eine Studierende oder ein Studierender aus nicht zu vertretenden Gründen ihren oder seinen Platz in einer Lehrveranstaltung gemäß Abs. 1 Satz 1, zu der sie oder er zugelassen ist, nicht in Anspruch nehmen, oder ist sie oder er nach Beginn der Lehrveranstaltung aus nicht zu vertretenden Gründen an der weiteren Teilnahme über das in § 9 Abs. 4 genannte Maß gehindert, so hat sie oder er dies bei der Veranstaltungsleiterin bzw. beim Veranstaltungsleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen.[2] Die Veranstaltungsleiterin bzw. der Veranstaltungsleiter entscheidet über die Anerkennung sowie gegebenenfalls bei Versäumnis über den Umfang der nachzuholenden Stunden und Leistungen.[3] Bei Anerkennung der Gründe wird die oder der Studierende im nächstmöglichen Semester nach erneuter Anmeldung eingeteilt, soweit eine Nachholung im laufenden Kurs nicht möglich ist.[4] Bei Nichtanerkennung beziehungsweise unentschuldigtem Fernbleiben gilt die Leistungskontrolle als mit "nicht ausreichend (5)" bewertet. 5Nimmt eine Studierende oder ein Studierender ohne rechtzeitige begründete Entschuldigung nicht an der ersten Unterrichtseinheit einer Lehrveranstaltung teil, so verliert sie oder er den Anspruch auf den zugeteilten Platz; Sätze 1 und 2 gelten entsprechend.[ 6] Von Prüfungen im Sinne des Abs. 1 Satz 1 ist ein Rücktritt nur dann möglich, wenn die oder der Studierende die Gründe für den Rücktritt nicht zu vertreten hat; Sätze 1 bis 4 gelten entsprechend. 
+(3)<sup>1</sup> Kann eine Studierende oder ein Studierender aus nicht zu vertretenden Gründen ihren oder seinen Platz in einer Lehrveranstaltung gemäß Abs. 1 Satz 1, zu der sie oder er zugelassen ist, nicht in Anspruch nehmen, oder ist sie oder er nach Beginn der Lehrveranstaltung aus nicht zu vertretenden Gründen an der weiteren Teilnahme über das in § 9 Abs. 4 genannte Maß gehindert, so hat sie oder er dies bei der Veranstaltungsleiterin bzw. beim Veranstaltungsleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen.<sup>2</sup> Die Veranstaltungsleiterin bzw. der Veranstaltungsleiter entscheidet über die Anerkennung sowie gegebenenfalls bei Versäumnis über den Umfang der nachzuholenden Stunden und Leistungen.<sup>3</sup> Bei Anerkennung der Gründe wird die oder der Studierende im nächstmöglichen Semester nach erneuter Anmeldung eingeteilt, soweit eine Nachholung im laufenden Kurs nicht möglich ist.<sup>4</sup> Bei Nichtanerkennung beziehungsweise unentschuldigtem Fernbleiben gilt die Leistungskontrolle als mit "nicht ausreichend (5)" bewertet. 5Nimmt eine Studierende oder ein Studierender ohne rechtzeitige begründete Entschuldigung nicht an der ersten Unterrichtseinheit einer Lehrveranstaltung teil, so verliert sie oder er den Anspruch auf den zugeteilten Platz; Sätze 1 und 2 gelten entsprechend.<sup>6</sup> Von Prüfungen im Sinne des Abs. 1 Satz 1 ist ein Rücktritt nur dann möglich, wenn die oder der Studierende die Gründe für den Rücktritt nicht zu vertreten hat; Sätze 1 bis 4 gelten entsprechend. 
 
-(4)[1] Legt die oder der Studierende zum Nachweis dafür, dass sie oder er die Gründe für ihr oder sein Fernbleiben (Abs. 3) nicht zu vertreten hat, ein ärztliches Attest vor, kann der Prüfungsausschuss der Medizinischen Fakultät in begründeten Fällen die Vorlage eines amtsärztlichen Attests verlangen. 2Begründete Fälle im Sinne des Satzes 1 liegen insbesondere vor, wenn einem vorgelegten Attest nicht zu entnehmen ist, ob die Krankheit einen zwingenden Grund für das Fernbleiben darstellt, oder wenn die oder der Studierende mehr als einmal nicht zu vertretende Gründe für ihr oder sein Fernbleiben geltend macht. 
+(4)<sup>1</sup> Legt die oder der Studierende zum Nachweis dafür, dass sie oder er die Gründe für ihr oder sein Fernbleiben (Abs. 3) nicht zu vertreten hat, ein ärztliches Attest vor, kann der Prüfungsausschuss der Medizinischen Fakultät in begründeten Fällen die Vorlage eines amtsärztlichen Attests verlangen. 2Begründete Fälle im Sinne des Satzes 1 liegen insbesondere vor, wenn einem vorgelegten Attest nicht zu entnehmen ist, ob die Krankheit einen zwingenden Grund für das Fernbleiben darstellt, oder wenn die oder der Studierende mehr als einmal nicht zu vertretende Gründe für ihr oder sein Fernbleiben geltend macht. 
 
 (5) Die Schutzfristen der §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie die Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung gelten entsprechend.“ 
 
 7. Nach § 13 wird folgender neuer § 14 eingefügt: 
 
-## „ **§ 14 Bewertung von Prüfungsleistungen; Wiederholung** 
+# „ **§ 14 Bewertung von Prüfungsleistungen; Wiederholung** 
 
 (1) Die Beurteilungen zu den einzelnen Prüfungsleistungen werden durch folgende Noten und Prädikate ausgedrückt: 
 
@@ -116,27 +116,27 @@ h) Die bisherigen Abs. 7 und 8 werden zu Abs. 6 und 7.
 
 5 = nicht ausreichend = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt 
 
-(2)[1] Zur differenzierten Bewertung können Zwischenwerte durch Erhöhen oder Erniedrigen der Noten um 0,3 gebildet werden.[2] Die Notenwerte 0,7, 4,3 und 5,3 sind ausgeschlossen.[3] Eine Prüfung ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[4] Bei unbenoteten Prüfungen lautet die Bewertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“.[5] Ist eine Prüfung von mehreren Prüfenden zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+(2)<sup>1</sup> Zur differenzierten Bewertung können Zwischenwerte durch Erhöhen oder Erniedrigen der Noten um 0,3 gebildet werden.<sup>2</sup> Die Notenwerte 0,7, 4,3 und 5,3 sind ausgeschlossen.<sup>3</sup> Eine Prüfung ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.<sup>4</sup> Bei unbenoteten Prüfungen lautet die Bewertung „mit Erfolg teilgenommen“ oder „nicht mit Erfolg teilgenommen“.<sup>5</sup> Ist eine Prüfung von mehreren Prüfenden zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten.<sup>6</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
-(3)[1] Die Gesamtnote lautet: 
+(3)<sup>1</sup> Die Gesamtnote lautet: 
 
 bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2,5 = gut bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend. 
 
-(4)[1] Die Leistungen in den scheinpflichtigen Veranstaltungen werden im klinischen Abschnitt benotet.[2] Die Notenskala und die Bestimmung der Note bei schriftlichen Prüfungen nach dem Antwort-Wahl-Verfahren (multiple choice oder single choice – Verfahren) richtet sich nach § 14 Abs. 7 ÄAppO.[3] Folgende Gleitklausel- und Ankerregelung kann nach vorheriger Ankündigung im vorklinischen und klinischen Abschnitt angewandt werden: Die oder der Studierende hat auch dann bestanden, wenn ihr oder sein Ergebnis nicht mehr als 22 % unter dem Mittelwert aller Prüflinge des Prüfungsdurchgangs liegt und mindestens 40 % der Fragen richtig beantwortet sind.[4] Die Leistungskontrolle ist bestanden, wenn mindestens die Note 4 (ausreichend) erreicht wurde. 
+(4)<sup>1</sup> Die Leistungen in den scheinpflichtigen Veranstaltungen werden im klinischen Abschnitt benotet.<sup>2</sup> Die Notenskala und die Bestimmung der Note bei schriftlichen Prüfungen nach dem Antwort-Wahl-Verfahren (multiple choice oder single choice – Verfahren) richtet sich nach § 14 Abs. 7 ÄAppO.<sup>3</sup> Folgende Gleitklausel- und Ankerregelung kann nach vorheriger Ankündigung im vorklinischen und klinischen Abschnitt angewandt werden: Die oder der Studierende hat auch dann bestanden, wenn ihr oder sein Ergebnis nicht mehr als 22 % unter dem Mittelwert aller Prüflinge des Prüfungsdurchgangs liegt und mindestens 40 % der Fragen richtig beantwortet sind.<sup>4</sup> Die Leistungskontrolle ist bestanden, wenn mindestens die Note 4 (ausreichend) erreicht wurde. 
 
-(5)[1] Leistungsnachweise, die nicht bestanden und Lehrveranstaltungen, die nicht regelmäßig besucht wurden, können zweimal wiederholt werden.[2] Die erste Wiederholung hat im folgenden Semester zu erfolgen.[3] Unterbleibt sie aus von der oder dem Studierenden zu vertretenden Gründen, so gilt die Leistungskontrolle als erneut mit "nicht ausreichend (5)" bewertet.[4] Die Sätze 2 und 3 gelten für die zweite Wiederholung entsprechend.“ 
+(5)<sup>1</sup> Leistungsnachweise, die nicht bestanden und Lehrveranstaltungen, die nicht regelmäßig besucht wurden, können zweimal wiederholt werden.<sup>2</sup> Die erste Wiederholung hat im folgenden Semester zu erfolgen.<sup>3</sup> Unterbleibt sie aus von der oder dem Studierenden zu vertretenden Gründen, so gilt die Leistungskontrolle als erneut mit "nicht ausreichend (5)" bewertet.<sup>4</sup> Die Sätze 2 und 3 gelten für die zweite Wiederholung entsprechend.“ 
 
-## 8. Die bisherigen §§ 14 bis 19 werden zu §§ 15 bis 20. 
+# 8. Die bisherigen §§ 14 bis 19 werden zu §§ 15 bis 20. 
 
 9. In Anlage 1 wird in der Tabelle in Spalte 3 Zeile 1 das Wort „Fachsemester“ durch die Worte „Vorklinisches Semester“ ersetzt. 
 
 10. In Anlage 2 wird in der Tabelle in Spalte 3 Zeile 1 das Wort „Fachsemester“ durch die Worte „Vorklinisches Semester“ ersetzt. 
 
-## 11. In Anlage 3 wird die Tabelle wie folgt geändert: 
+11. In Anlage 3 wird die Tabelle wie folgt geändert: 
 
-- a) In Spalte 3 Zeile 1 wird das Wort „Fachsemester“ durch die Worte „Klinisches Semester“ ersetzt sowie nach dem Wort „ist“ die Fußnote „[6] “ angefügt. 
+   - a) In Spalte 3 Zeile 1 wird das Wort „Fachsemester“ durch die Worte „Klinisches Semester“ ersetzt sowie nach dem Wort „ist“ die Fußnote „<sup>6</sup> “ angefügt. 
 
-- b) In Spalte 3 Zeile 2 werden die Zahlen „5 bis 9“ durch die Zahlen „1 bis 5“ ersetzt. 
+   - b) In Spalte 3 Zeile 2 werden die Zahlen „5 bis 9“ durch die Zahlen „1 bis 5“ ersetzt. 
 
 4 
 
@@ -158,13 +158,13 @@ bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
 - k) In Spalte 3 Zeilen 15 bis 17 werden die Zahlen „9 bis 10“ jeweils durch die Zahlen „5 bis 6“ ersetzt. 
 
-- l) Am Ende der Tabelle wird folgende Fußnote[6] angefügt: 
+- l) Am Ende der Tabelle wird folgende Fußnote<sup>6</sup> angefügt: 
 
-„[6] Angegeben ist jeweils das Klinische Semester, in dem die Veranstaltung sowie die dazugehörige Prüfung frühestens besucht werden kann“ 
+„<sup>6</sup> Angegeben ist jeweils das Klinische Semester, in dem die Veranstaltung sowie die dazugehörige Prüfung frühestens besucht werden kann“ 
 
 12. In Anlage 4 wird die Tabelle wie folgt geändert: 
 
-   - a) In Spalte 3 Zeile 1 wird das Wort „Fachsemester“ durch die Worte „Klinisches Semester“ ersetzt sowie nach dem Wort „ist“ die Fußnote „[1] “ angefügt. 
+   - a) In Spalte 3 Zeile 1 wird das Wort „Fachsemester“ durch die Worte „Klinisches Semester“ ersetzt sowie nach dem Wort „ist“ die Fußnote „<sup>1</sup> “ angefügt. 
 
    - b) In Spalte 3 Zeile 2 wird die Zahl „10“ durch die Zahl „6“ ersetzt. 
 
@@ -196,9 +196,9 @@ bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
    - o) In Spalte 3 Zeile 21 werden die Zahlen „5 bis 10“ jeweils durch die Zahlen „1 bis 6“ ersetzt. 
 
-   - p) Am Ende der Tabelle wird das Wort „ **Fußnote:** “ und folgende Fußnote[1] angefügt: 
+   - p) Am Ende der Tabelle wird das Wort „ **Fußnote:** “ und folgende Fußnote<sup>1</sup> angefügt: 
 
-      - „[1] Angegeben ist jeweils das Klinische Semester, in dem die Veranstaltung sowie die dazugehörige Prüfung frühestens besucht werden kann“ 
+      - „<sup>1</sup> Angegeben ist jeweils das Klinische Semester, in dem die Veranstaltung sowie die dazugehörige Prüfung frühestens besucht werden kann“ 
 
 13. In Anlage 5 wird die Tabelle wie folgt geändert: 
 
@@ -236,7 +236,7 @@ bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
 - p) In Spalte 3 Zeile 18 (Fortsetzung der Tabelle) wird die Zahl „9“ durch die Zahl „5“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt zum 1. April 2014 in Kraft. 
 

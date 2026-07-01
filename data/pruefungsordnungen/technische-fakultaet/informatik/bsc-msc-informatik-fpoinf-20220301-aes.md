@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Informatik FPOINF 20220301 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20220301_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:17:48+00:00
-page_count_chars: 7608
+scraped_at: 2026-07-01T11:37:15+00:00
+page_count_chars: 7683
 ---
 
 # BSc-MSc Informatik FPOINF 20220301 ÄS.pdf
@@ -14,7 +14,7 @@ page_count_chars: 7608
 
 Fünfzehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) - FPOINF - 
 
-## Vom 1. März 2022 
+# Vom 1. März 2022 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -26,17 +26,17 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 2. § 47 wird wie folgt geändert: 
 
-   - a) Abs. 8 wird wie folgt geändert: 
+a) Abs. 8 wird wie folgt geändert: 
 
 aa) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
-„[5] Abweichend von Satz 4 werden für das Modul Grundlagen der Schaltungstechnik letztmalig im Sommersemester 2024 Prüfungen angeboten.“ 
+„<sup>5</sup> Abweichend von Satz 4 werden für das Modul Grundlagen der Schaltungstechnik letztmalig im Sommersemester 2024 Prüfungen angeboten.“ 
 
 - bb) Der bisherige Satz 5 wird zu Satz 6 und in ihm werden die Worte „dem in Satz 4“ durch die Worte „den in Sätzen 4 und 5“ sowie nach den Worten „jeweils genannten“ das Wort „Zeitpunkt“ durch das Wort „Zeitpunkten“ ersetzt. 
 
 cc) Nach Satz 6 (neu) werden folgende neue Sätze 7 bis 12 angefügt: 
 
-„[7] Die zu den auslaufenden Modulen gehörigen Lehrveranstaltungen werden wie folgt garantiert angeboten: Algorithmen und Datenstrukturen im Wintersemester 2021/22, Grundlagen der Schaltungstechnik im Sommersemester 2022 und Implementierung von Datenbanksystemen im Wintersemester 2023/24.[8] Danach kann ein Angebot dieser Lehrveranstaltungen nicht mehr garantiert werden.[9] Die Lehrveranstaltungen zum Modul Parallele und funktionale Programmierung werden letztmalig im Sommersemester 2022 gemäß Anlage 1 der FPOINF i.d.F. der 12. Änderungssatzung vom 3. Dezember 2019 und dann wieder ab dem Wintersemester 2023/24 gemäß Anlage 1 der FPOINF i.d.F. der 13. Änderungssatzung vom 20. August 2020 angeboten.[10] Das Modul Konzeptionelle Modellierung und Grundlagen von Datenbanken (mit 7,5 ECTS-Punkten) aus Anlage 1 der FPOINF i.d.F. der 13. Änderungssatzung vom 20. August 2020 wird ab dem Sommersemester 2024 jährlich angeboten.[11] Das bisherige Modul Konzeptionelle Modellierung (mit 5 ECTS-Punkten) aus Anlage 1 der FPOINF i.d.F. der 
+„<sup>7</sup> Die zu den auslaufenden Modulen gehörigen Lehrveranstaltungen werden wie folgt garantiert angeboten: Algorithmen und Datenstrukturen im Wintersemester 2021/22, Grundlagen der Schaltungstechnik im Sommersemester 2022 und Implementierung von Datenbanksystemen im Wintersemester 2023/24.<sup>8</sup> Danach kann ein Angebot dieser Lehrveranstaltungen nicht mehr garantiert werden.<sup>9</sup> Die Lehrveranstaltungen zum Modul Parallele und funktionale Programmierung werden letztmalig im Sommersemester 2022 gemäß Anlage 1 der FPOINF i.d.F. der 12. Änderungssatzung vom 3. Dezember 2019 und dann wieder ab dem Wintersemester 2023/24 gemäß Anlage 1 der FPOINF i.d.F. der 13. Änderungssatzung vom 20. August 2020 angeboten.<sup>10</sup> Das Modul Konzeptionelle Modellierung und Grundlagen von Datenbanken (mit 7,5 ECTS-Punkten) aus Anlage 1 der FPOINF i.d.F. der 13. Änderungssatzung vom 20. August 2020 wird ab dem Sommersemester 2024 jährlich angeboten.<sup>11</sup> Das bisherige Modul Konzeptionelle Modellierung (mit 5 ECTS-Punkten) aus Anlage 1 der FPOINF i.d.F. der 
 
 1 
 
@@ -44,17 +44,15 @@ cc) Nach Satz 6 (neu) werden folgende neue Sätze 7 bis 12 angefügt:
 
 b) Nach Abs. 9 wird folgender neuer Abs. 10 angefügt: 
 
-„(10)[1] Die fünfzehnte Änderungssatzung tritt am 1. April 2022 in Kraft.[2] Abweichend von Satz 1 treten die Änderungen in Abs. 8 am Tag nach der Bekanntmachung mit Wirkung zum 20. August 2020 in Kraft.“ 
+„(10)<sup>1</sup> Die fünfzehnte Änderungssatzung tritt am 1. April 2022 in Kraft.<sup>2</sup> Abweichend von Satz 1 treten die Änderungen in Abs. 8 am Tag nach der Bekanntmachung mit Wirkung zum 20. August 2020 in Kraft.“ 
 
 3. Anlage 4 erhält folgende neue Fassung: 
 
 „ 
 
-|Name des Moduls||ECTS|Prüfungsmodus1)|
+|Name des Moduls|Englische Bezeichnung|ECTS|Prüfungsmodus<sup>1)</sup>|
 |---|---|---|---|
-||Englische Bezeichnung|||
-|||||
-|Grundlagen der Informatik ohne schriftl.<br>Prüfung 2) 3)|Introduction to Computer Science|5|SL (ÜbL)|
+|Grundlagen der Informatik ohne schriftl.<br>Prüfung <sup>2) 3)</sup>|Introduction to Computer Science|5|SL (ÜbL)|
 |Grundlagen der Informatik (GdI-Kompakt)|Introduction to Computer Science|5|PL (K, 60 Min.)|
 |Grundlagen der Informatik (GdI)|Introduction to Computer Science|7,5|PL (K, 90 Min.) und<br>SL(ÜbL)|
 |Informatik der EEI|Computer Science for EEI|7,5|PL (K, 90 Min.)|
@@ -76,10 +74,8 @@ b) Nach Abs. 9 wird folgender neuer Abs. 10 angefügt:
 
 2 
 
-|Name des Moduls||ECTS|Prüfungsmodus1)|
+|Name des Moduls|Englische Bezeichnung|ECTS|Prüfungsmodus<sup>1)</sup>|
 |---|---|---|---|
-||Englische Bezeichnung|||
-|||||
 |Computergraphik|Computer Graphics|5|PL (K, 60 Min.) und<br>SL(ÜbL)|
 |Informationsvisualisierung|Information Visualization|5|PL (K, 90 Min.)|
 |eBusiness technologies und evolutionäre<br>Informationssysteme|eBusiness technologies and evolutionary<br>information systems|5|PL (m, 30 Min.)|

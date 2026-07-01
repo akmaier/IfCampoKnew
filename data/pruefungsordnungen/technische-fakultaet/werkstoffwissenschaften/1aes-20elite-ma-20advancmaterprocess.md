@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AES%20Elite-MA%20AdvancMaterProcess.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:31:59+00:00
-page_count_chars: 3595
+scraped_at: 2026-07-01T11:47:46+00:00
+page_count_chars: 3592
 ---
 
 # 9. März 2011
@@ -14,11 +14,11 @@ page_count_chars: 3595
 
 **Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang „Advanced Materials and Processes“ des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPO MAP-M)** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Masterstudiengang „Advanced Materials and Processes“ des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPO MAP-M) vom 15. Mai 2006 wird wie folgt geändert: 
 
@@ -56,7 +56,7 @@ a)  In Zeile 4 (Modul M1) wird in Spalte 6 die Ziffer „1“ ersatzlos gestrich
 
 - i) In Zeile 9 werden in Spalte 3 die Worte und Zeichen „ca. 30 (m)“ durch die Worte und Zeichen „ca. 30 Minuten mündlich“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. April 2011 in Kraft. 
 

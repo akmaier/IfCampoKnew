@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Politik.AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:27+00:00
-page_count_chars: 11778
+scraped_at: 2026-07-01T10:28:43+00:00
+page_count_chars: 11881
 ---
 
 # PDF vom 05.10.2007 i.d.F. 05.08.2011
@@ -16,7 +16,7 @@ page_count_chars: 11778
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 22. Juli 2008 
 
@@ -44,9 +44,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Im Fach Politikwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
+(1)<sup>1</sup> Im Fach Politikwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (3) Das Studium der Politikwissenschaft im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden zur kritischen 
 
@@ -60,7 +60,7 @@ Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Mögl
 
    - der theoretischen Probleme und Grundfragen der Politik, der Geschichte der Politikwissenschaft und der ideengeschichtlichen Grundlagen des Fachs, 
 
-   - - der deutschen Politik einschließlich des Entscheidens auf einzelnen Politikfeldern, 
+   - der deutschen Politik einschließlich des Entscheidens auf einzelnen Politikfeldern, 
 
    - der Grundmuster der Regierungssysteme der OECD-Länder, 
 
@@ -68,7 +68,7 @@ Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Mögl
 
    - der Grundfragen und Probleme der internationalen Beziehungen einschließlich der wichtigsten nationalen, inter- und supranationalen Akteure 
 
-   - - von Politik und Gesellschaft in ausgewählten außereuropäischen Weltregionen. 
+   - von Politik und Gesellschaft in ausgewählten außereuropäischen Weltregionen. 
 
 2. Methodenkompetenz: Kenntnis und Fähigkeit zur Anwendung der wichtigsten politikwissenschaftlichen Methoden, insbesondere 
 
@@ -134,43 +134,43 @@ Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Mögl
 
 21. Theater- und Medienwissenschaft 
 
-- (2) Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
+## (2) Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1) Im Studium der Politikwissenschaft als erstes oder zweites Fach sind folgende Module erfolgreich abzulegen: 
+## (1) Im Studium der Politikwissenschaft als erstes oder zweites Fach sind folgende <u>Module erfolgreich abzulegen:</u> 
 
-|**Bez.**<br>**1**|**Modul**|**Modul**|**ECTS/**<br>Faktor*|**Prüfung**|
-|---|---|---|---|---|
-|**Pol 1**|**Basismodul Propädeutik**||**10**||
-|1. FS|Vorlesung<br>Einführung in die Politikwissenschaft||_5_|unbenotet Klausur (90 Min.) **|
-|1. FS|Vorlesung<br>Wissenschaftstheorie & Methodenlehre der PW<br>[anstelle der „Wissenschaftstheorie und Methodenlehre der Politischen Wis-<br>senschaft“ kann die Veranstaltung aus dem Modul Soz M (Soziologische<br>Methodenlehre) belegt werden (gilt nicht, wenn das Fach Politikwissenschaft<br>mit dem Fach Soziologie kombiniert wird).]||_5_|unbenotet Klausur (90 Min.) **|
-|**Pol 2**|**Basismodul Politische Theorie & Ideengeschichte**||**10**||
-|3. FS|Vorlesung||_3_|Klausur (90 Min.)***|
-|4. FS|Vorlesung||_3_|Klausur (90 Min.)***|
-|4. FS|Proseminar||_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|**Pol 3**|**Basismodul Politische Systeme**||**10**||
-|1. FS|Vorlesung I||_3_|Klausur (90 Min.)***|
-|2. FS|Vorlesung II||_3_|Klausur (90 Min.)***|
-|2. FS|Proseminar||_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|**Pol 4**|**Basismodul Internationale Beziehungen**||**10**||
-|3. FS|Vorlesung I||_3_|Klausur (90 Min.)***|
-|4. FS|Vorlesung II||_3_|Klausur (90 Min.)***|
-|3. FS|Proseminar||_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|**Pol 5**|**Basismodul Außereuropäische Regionen**||**10**||
-|1. FS|Vorlesung I||_3_|Klausur (90 Min.)***|
-|2. FS|Vorlesung II||_3_|Klausur (90 Min.)***|
-|2. FS|Proseminar||_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|**Pol 6**|**Vertiefungsmodul**||**20**||
-|5. FS|Hauptseminar I (aus einem der vier Teilbereiche<br>[Pol 2 bis Pol 5])||_8_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|5. FS|Mentorat (muss in demgleichenTeilbereich absolviert werden, dem auch das<br>Hauptseminar I entstammt)||_4_|Studienbericht|
-|6. FS|Hauptseminar II (muss aus einem<br>stammen)|anderenTeilbereich als das Hauptseminar I|_8_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
-|**1.-6. FS**|**Summe Leistungspunkte Politische Wissenschaft**||**70**||
-|**1.-6. FS**|**Summe Leistungspunkte 2. Fach**||**70**||
-|**1.-6. FS**|**Berufsfeldorientierte Schlüsselqualifikationen**||**30**||
-|**6. FS**|**Bachelorarbeit**||**10**||
-||||||
-||**_Summe der Leistungspunkte BA-Studiengang_**||**_180_**||
+|**Bez.**<br>**1**|**Modul**|**ECTS/**<br>Faktor*|**Prüfung**|
+|---|---|---|---|
+|**Pol 1**|**Basismodul Propädeutik**|**10**||
+|1. FS|Vorlesung<br>Einführung in die Politikwissenschaft|_5_|unbenotet Klausur (90 Min.) **|
+|1. FS|Vorlesung<br>Wissenschaftstheorie & Methodenlehre der PW<br>[anstelle der „Wissenschaftstheorie und Methodenlehre der Politischen Wis-<br>senschaft“ kann die Veranstaltung aus dem Modul Soz M (Soziologische<br>Methodenlehre) belegt werden (gilt nicht, wenn das Fach Politikwissenschaft<br>mit dem Fach Soziologie kombiniert wird).]|_5_|unbenotet Klausur (90 Min.) **|
+|**Pol 2**|**Basismodul Politische Theorie & Ideengeschichte**|**10**||
+|3. FS|Vorlesung|_3_|Klausur (90 Min.)***|
+|4. FS|Vorlesung|_3_|Klausur (90 Min.)***|
+|4. FS|Proseminar|_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|**Pol 3**|**Basismodul Politische Systeme**|**10**||
+|1. FS|Vorlesung I|_3_|Klausur (90 Min.)***|
+|2. FS|<br>Vorlesung II|_3_|<br>Klausur (90 Min.)***|
+|2. FS|Proseminar|_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|**Pol 4**|**Basismodul Internationale Beziehungen**|**10**||
+|3. FS|<br>Vorlesung I|_3_|Klausur (90 Min.)***|
+|4. FS|Vorlesung II|_3_|Klausur (90 Min.)***|
+||||Exzerpt Protokoll Referat Haus-|
+|3. FS|Proseminar|_4_|, , ,<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|**Pol 5**|**Basismodul Außereuropäische Regionen**|**10**||
+|1. FS|<br>Vorlesung I|_3_|Klausur (90 Min.)***|
+|2. FS|<br>Vorlesung II|_3_|<br>Klausur (90 Min.)***|
+|2. FS|Proseminar|_4_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|**Pol 6**|**Vertiefungsmodul**|**20**||
+|5. FS|Hauptseminar I (aus einem der vier Teilbereiche<br>[Pol 2 bis Pol 5])|_8_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|5. FS|Mentorat (muss in demgleichenTeilbereich absolviert werden, dem auch das<br>Hauptseminar I entstammt)|_4_|Studienbericht|
+|6. FS|<br>Hauptseminar II (muss aus einemanderenTeilbereich als das Hauptseminar I<br>stammen)|_8_|Exzerpt, Protokoll, Referat, Haus-<br>arbeit, Arbeitsgruppen und/oder<br>Klausur|
+|**1.-6. FS**|**Summe Leistungspunkte Politische Wissenschaft**|**70**||
+|<br>**1.-6. FS**|<br>**Summe Leistungspunkte 2. Fach**|<br>**70**||
+|**1.-6. FS**|<br>**Berufsfeldorientierte Schlüsselqualifikationen**|**30**||
+|**6. FS**|<br>**Bachelorarbeit**|**10**||
+||**_Summe der Leistungspunkte BA-Studiengang_**|**_180_**||
 
 - Gewichtungsfaktor für die Berechnung der Modulnote aus mehreren Prüfungen; § 19 Abs. 3 ABMStPO/Phil bleibt unberührt. 
 
@@ -180,7 +180,7 @@ Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Mögl
 
 3 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwen- <u>dung:</u> 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -213,7 +213,7 @@ Analyse der politischen Wirklichkeit und zur Reflexion auf Bedingungen und Mögl
 
 Die GOP umfasst die Modulprüfung im Basismodul Pol 1 und einem weiteren Basismodul. 
 
-(3)[1] Wird Politikwissenschaft als erstes Fach studiert, müssen im Bereich Schlüsselqualifikationen Leistungen von 30 ECTS-Punkten erbracht werden.[2] Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen. 3Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für Hörer aller Fakultäten) erbracht werden.[4] Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg mindestens „Englisch Level 3“ erreicht, muss 10 ECTS-Punkte im Bereich der berufsfeldorientierten Schlüsselqualifikationen auch über ein Praktikum von acht Wochen Dauer erwerben.[5] Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg „Englisch Level 2“ erreicht, erwirbt dort 5 ECTSPunkte, wodurch die Dauer des zu absolvierenden Praktikums auf 4 Wochen (5 ECTS-Punkte) reduziert. 
+(3)<sup>1</sup> Wird Politikwissenschaft als erstes Fach studiert, müssen im Bereich Schlüsselqualifikationen Leistungen von 30 ECTS-Punkten erbracht werden.<sup>2</sup> Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen. 3Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für Hörer aller Fakultäten) erbracht werden.<sup>4</sup> Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg mindestens „Englisch Level 3“ erreicht, muss 10 ECTS-Punkte im Bereich der berufsfeldorientierten Schlüsselqualifikationen auch über ein Praktikum von acht Wochen Dauer erwerben.<sup>5</sup> Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg „Englisch Level 2“ erreicht, erwirbt dort 5 ECTSPunkte, wodurch die Dauer des zu absolvierenden Praktikums auf 4 Wochen (5 ECTS-Punkte) reduziert. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 

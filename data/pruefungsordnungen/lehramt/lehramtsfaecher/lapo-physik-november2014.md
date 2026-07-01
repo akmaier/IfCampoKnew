@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 30.03.2009 i.d.F. 13.11.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Physik-NOVEMBER2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:15:40+00:00
-page_count_chars: 16120
+scraped_at: 2026-07-01T08:42:50+00:00
+page_count_chars: 16349
 ---
 
 # pdf vom 30.03.2009 i.d.F. 13.11.2014
@@ -14,7 +14,7 @@ page_count_chars: 16120
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Physik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 30. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Physik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 30. März 2009** 
 
 geändert durch Satzungen vom 15. März 2011 
 
@@ -22,22 +22,22 @@ geändert durch Satzungen vom 15. März 2011
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
-|**1.**|<br>**Allgemeines ................................................................................................... 1**|
-|---|---|
-||**§ 1 Geltungsbereich ............................................................................................ 1**|
-||**§ 2 Fächerkombination ....................................................................................... 1**|
-||**§ 3 Grundlagen- und Orientierungsprüfung ..................................................... 1**|
-||**§ 4 Schriftliche Prüfung ...................................................................................... 2**|
-||**§ 5 Mündliche Prüfung, Seminarvorträge ......................................................... 2**|
-|**2.**|<br>**Lehramt an Gymnasien ................................................................................ 2**|
-||**§ 6 Inhalt, Aufbau und Gliederung des Studiums ............................................ 2**|
-||**§ 7 Bachelorabschluss ....................................................................................... 4**|
-|**3.**|<br>**Lehramt an Realschulen .............................................................................. 4**|
-||**§ 8 Inhalt, Aufbau und Gliederung des Studiums ............................................ 4**|
-|**4.**|<br>**Lehramt an Grund- und Mittelschulen ........................................................ 5**|
-||**§ 9 Inhalt, Aufbau und Gliederung des Studiums ............................................ 5**|
-|**5.**|**Schluss- und Übergangsvorschriften ................................................................. 6**|
-||**§ 10 In-Kraft-Treten, Übergangsbestimmungen ................................................. 6**|
+|**1.**<br>**Allgemeines ................................................................................................... 1**|
+|---|
+|**§ 1 Geltungsbereich ............................................................................................ 1**<br>|
+|**§ 2 Fächerkombination ....................................................................................... 1**<br>|
+|**§ 3 Grundlagen- und Orientierungsprüfung ..................................................... 1**|
+|**§ 4 Schriftliche Prüfung ...................................................................................... 2**|
+|**§ 5 Mündliche Prüfung, Seminarvorträge ......................................................... 2**|
+|**2.**<br>**Lehramt an Gymnasien ................................................................................ 2**|
+|**§ 6 Inhalt, Aufbau und Gliederung des Studiums ............................................ 2**|
+|**§ 7 Bachelorabschluss ....................................................................................... 4**<br> <br>|
+|**3.**<br>**Lehramt an Realschulen .............................................................................. 4**|
+|**§ 8 Inhalt, Aufbau und Gliederung des Studiums ............................................ 4**|
+|**4.**<br>**Lehramt an Grund- und Mittelschulen ........................................................ 5**|
+|**§ 9 Inhalt, Aufbau und Gliederung des Studiums ............................................ 5**<br>|
+|**5. Schluss- und Übergangsvorschriften ................................................................. 6**<br>|
+|**§ 10 In-Kraft-Treten, Übergangsbestimmungen ................................................. 6**|
 
 ## **1. Allgemeines** 
 
@@ -55,51 +55,48 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 
 (2) Zum Bestehen der Grundlagen- und Orientierungsprüfung sind im Fach Physik für das Lehramt an Realschulen (Unterrichtsfach) und an Grund- bzw. Mittelschulen (Unterrichtsfach) bis zum Ende des zweiten Semesters mindestens 7,5 ECTSPunkte aus einem der Module _Experimentalphysik 1 LANV (EPNV-1)_ und _Experimentalphysik 2 LANV (EPNV-2)_ zu erwerben. 
 
-**§ 4 Schriftliche Prüfung** (1)[1] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.[2] Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
+**§ 4 Schriftliche Prüfung** (1)<sup>1</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.<sup>2</sup> Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
 
-(2)[1] Schriftliche Prüfungen dauern mindestens 60 und höchstens 180 Minuten.[2] Art und Umfang der Prüfungen im Einzelnen ergeben sich aus den Modultabellen. 
+(2)<sup>1</sup> Schriftliche Prüfungen dauern mindestens 60 und höchstens 180 Minuten.<sup>2</sup> Art und Umfang der Prüfungen im Einzelnen ergeben sich aus den Modultabellen. 
 
-(3)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern. 
+(3)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern. 
 
 **§ 5 Mündliche Prüfung, Seminarvorträge** (1) Mündliche Prüfungen sind Einzelprüfungen und dauern mindestens 15 und höchstens 45 Minuten. 
 
-(2)[1] Seminarvorträge im Bereich Didaktik dauern 30 bis 45 Minuten.[2] An Stelle von Seminarvorträgen sind andere Präsentationsformen wie Workshops, Ausstellungen oder Betreuung von Schülergruppen möglich.[3] Für Seminarvorträge im Wahlbereich Physik gelten die Bestimmungen der Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -. 
+(2)<sup>1</sup> Seminarvorträge im Bereich Didaktik dauern 30 bis 45 Minuten.<sup>2</sup> An Stelle von Seminarvorträgen sind andere Präsentationsformen wie Workshops, Ausstellungen oder Betreuung von Schülergruppen möglich.<sup>3</sup> Für Seminarvorträge im Wahlbereich Physik gelten die Bestimmungen der Prüfungsordnung für den Bachelor- und Masterstudiengang Physik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -. 
 
 (3) § 4 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend. 
 
 ## **2. Lehramt an Gymnasien** 
 
-**§ 6 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Das Studium im Fach Physik ist in einen Pflichtbereich und einen Wahlpflichtbereich aufgeteilt.[2] Im Wahlpflichtbereich erwerben die Studierenden Kenntnisse in einem physikalischen Themenkreis ihrer Wahl.[3] Wird Physik nicht in Kombination mit Mathematik studiert, können im Wahlpflichtbereich auch mathematische Grundkenntnisse erworben werden.[4] In diesem Fall können geeignete Mathematik-Module im Umfang von maximal 10 ECTS-Punkten eingebracht werden.[5] Im Bereich der Fachwissenschaft sind 95 ECTS-Punkte gemäß Abs. 2 zu erwerben. 
+**§ 6 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Das Studium im Fach Physik ist in einen Pflichtbereich und einen Wahlpflichtbereich aufgeteilt.<sup>2</sup> Im Wahlpflichtbereich erwerben die Studierenden Kenntnisse in einem physikalischen Themenkreis ihrer Wahl.<sup>3</sup> Wird Physik nicht in Kombination mit Mathematik studiert, können im Wahlpflichtbereich auch mathematische Grundkenntnisse erworben werden.<sup>4</sup> In diesem Fall können geeignete Mathematik-Module im Umfang von maximal 10 ECTS-Punkten eingebracht werden.<sup>5</sup> Im Bereich der Fachwissenschaft sind 95 ECTS-Punkte gemäß Abs. 2 zu erwerben. 
 
 2 
 
-(2)[1] Für das Lehramt an Gymnasien werden folgende Module im Bereich Fachwissenschaft angeboten: 
+(2)<sup>1</sup> Für das Lehramt an Gymnasien werden folgende Module im Bereich Fachwissenschaft angeboten: 
 
-|**Fachse-**<br>**mester**|**Modul**||**SWS**|**ECTS**|**Prüfungs- und**<br>**Studienleistung**|
-|---|---|---|---|---|---|
-|1 / 2|Experimentalphysik 1+2<br>LA (EPL-12)|Teil 1: Mechanik|4V+2Ü|15|Klausur, 120 Min.|
-|||Teil 2: Wärmelehre und<br>Elektrodynamik|4V+2Ü|||
-|1 / 2|Rechenmethoden der<br>Physik LA(RMPL)|Teil 1|1V+1Ü|5|Unbenotete<br>Studienleistung|
-|||Teil 2|1V+1Ü|||
-|1 / 2|Grundpraktikum 1 LA<br>(GPL-1)|Teil 1|2P+1Ü|5|Praktikums-<br>bescheinigung|
-|||Teil 2|2P+1V|||
-|3 / 4|Experimentalphysik 3+4<br>LA (EPL-34)|Teil 1: Optik und Quan-<br>teneffekte|4V+2Ü|15|Mündlich, 30 Min.|
-|||Teil 2: Atom- und Mole-<br>külphysik|3V+2Ü|||
-|3|Grundpraktikum 2 LA (GPL-2)||6P|5|Praktikums-<br>bescheinigung|
-|4|Theoretische Physik 1 LA (TPL-1):<br>Mechanik||4V+2Ü|10|Klausur, 120 Min.|
-|5|Theoretische Physik 2 LA(TPL-2): Quantentheorie||3V+2Ü|7,5|Klausur,120 Min.|
-|6|Theoretische Physik 3 LA (TPL-3): Statistische Physik<br>und Thermodynamik||3V+2Ü|7,5|Klausur, 120 Min.|
-|7|Theoretische Physik 4 LA (TPL-4):<br>Elektrodynamik||2V+2Ü|5|Klausur, 90 Min.|
-|7|Experimentalphysik 5 LA (EPL-5):<br>Kern- und Teilchenphysik<br>_oder_<br>Experimentalphysik 6 LA (EPL-6):<br>Festkörperphysik||3V+2Ü|7,5|Klausur, 90 Min.|
-|7|Physikalisches Experimentieren 1 LA (PEL-1)||1V+5P|7,5|Portfolioprüfung:<br>Durchführung von 7 Ver-<br>suchen. Bewertet werden<br>Vorbereitung/Durch-<br>führung und Auswer-<br>tung/Report. Die Gesamt-<br>note ergibt sich aus dem<br>arithmetischen Mittel der<br>14 Einzelnoten.|
-|9|Wahlpflicht LA (WPL), z.B. Aktuelle Rechenaufgaben<br>aus der Struktur der Materie (EPSLA)||2V+1Ü<br>o. 2S|5|nach Maßgabe des<br>Faches<br>(geht aus dem Vorle-<br>sungs- bzw. Modulver-<br>zeichnis hervor), z. B.<br>Klausur, 60 Min. oder<br>Mündlich,30 Min.|
-||**Summe Fachwissenschaft:**|||**95**||
+|**Fachse-**<br>**mester**|**Modul**|**SWS**|**ECTS**|**Prüfungs- und**<br>**Studienleistung**|
+|---|---|---|---|---|
+||<br>Teil 1: Mechanik|4V+2Ü|||
+|1 / 2|Experimentalphysik 1+2<br>LA (EPL-12)<br>Teil 2: Wärmelehre und<br>Elektrodynamik|4V+2Ü|15|Klausur, 120 Min.|
+|1 / 2|Rechenmethoden der<br>Physik LA(RMPL)<br>Teil 1<br>Teil 2|1V+1Ü<br>1V+1Ü|5|Unbenotete<br>Studienleistung|
+|1 / 2|Grundpraktikum 1 LA<br>(GPL-1)<br>Teil 1<br>Teil 2|2P+1Ü<br>2P+1V|5|Praktikums-<br>bescheinigung|
+||Experimentalphysik 3+4<br>Teil 1: Optik und Quan-<br>teneffekte|4V+2Ü|||
+|3 / 4|<br>LA (EPL-34)<br>Teil 2: Atom- und Mole-<br>külphysik|3V+2Ü|15|Mündlich, 30 Min.|
+|3|Grundpraktikum 2 LA (GPL-2)|6P|5|Praktikums-<br>bescheinigung|
+|4|Theoretische Physik 1 LA (TPL-1):<br>Mechanik|4V+2Ü|10|Klausur, 120 Min.|
+|5|Theoretische Physik 2 LA(TPL-2): Quantentheorie|3V+2Ü|7,5|Klausur,120 Min.|
+|6|Theoretische Physik 3 LA (TPL-3): Statistische Physik<br>und Thermodynamik|3V+2Ü|7,5|Klausur, 120 Min.|
+|7|Theoretische Physik 4 LA (TPL-4):<br>Elektrodynamik|2V+2Ü|5|Klausur, 90 Min.|
+|7|Experimentalphysik 5 LA (EPL-5):<br>Kern- und Teilchenphysik<br>_oder_<br>Experimentalphysik 6 LA (EPL-6):<br>Festkörperphysik|3V+2Ü|7,5|Klausur, 90 Min.|
+|7|Physikalisches Experimentieren 1 LA (PEL-1)|1V+5P|7,5|Portfolioprüfung:<br>Durchführung von 7 Ver-<br>suchen. Bewertet werden<br>Vorbereitung/Durch-<br>führung und Auswer-<br>tung/Report. Die Gesamt-<br>note ergibt sich aus dem<br>arithmetischen Mittel der<br>14 Einzelnoten.|
+|9|Wahlpflicht LA (WPL), z.B. Aktuelle Rechenaufgaben<br>aus der Struktur der Materie (EPSLA)<br>**Summe Fachwissenschaft:**|2V+1Ü<br>o. 2S|5<br>**95**|nach Maßgabe des<br>Faches<br>(geht aus dem Vorle-<br>sungs- bzw. Modulver-<br>zeichnis hervor), z. B.<br>Klausur, 60 Min. oder<br>Mündlich,30 Min.|
 
 > 2Aus den Modulen _Theoretische Physik 1-4 LA_ sind nach Wahl der Studierenden mindestens 15 ECTS-Punkte einzubringen; alternativ können auch Theorie-Module aus dem Bachelor-Zyklus (TP-1 bis TP-4) gewählt werden. 
 
 3 
 
-(3) In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen: 
+(3) In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzule- <u>gen:</u> 
 
 |**Fach-**<br>**semester**|**Modul**|**SWS**|**ECTS**|**Prüfungs-**<br>**und Studienleistung**|
 |---|---|---|---|---|
@@ -146,17 +143,17 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 |4|Grundpraktikum 2 LANV(GPNV-2)|5P|7,5|Praktikumsbescheinigung|
 |---|---|---|---|---|
 |5|Struktur der Materie 2 LANV(SMNV-2)|3V+2Ü|7,5|Klausur,90 Min.|
-|5|Wahlfach 1, z.B. Geschichte der Physik LANV|2S+1Ü oder 2S<br>oder Exkursion|5|Nach Maßgabe des<br>Wahlfaches; Einzelheiten<br>sind in der jeweiligen PO<br>bzw. im Modulhandbuch<br>geregelt|
+|5|Wahlfach 1, z.B. Geschichte der Physik LANV|<sup>2S+1Ü oder 2S</sup><br>oder Exkursion|5|Nach Maßgabe des<br>Wahlfaches; Einzelheiten<br>sind in der jeweiligen PO<br>bzw. im Modulhandbuch<br>geregelt|
 |6|Wahlfach 2 (WPNV)<br>(z.B. Energietechnik)|2V+1Ü|5|Klausur, 60 Min.|
 ||**Summe Fachwissenschaft:**||**60**||
 
-## (3) Im Bereich Fachdidaktik sind folgende Module abzulegen: 
+## <u>(3) Im Bereich Fachdidaktik sind folgende Module abzulegen:</u> 
 
 |**Fach-**<br>**semester**|**Modul**|**SWS**|**ECTS**|**Prüfungs- und Studien-**<br>**leistung**|
 |---|---|---|---|---|
 |4|Einführung Fachdidaktik Physik (DDPNV-1)<br>alternativ ist DDP-1 mit 5 ECTS-Punkten möglich|2V|3|Mündlich, 30 Min.|
 |5|Hauptseminar LANV (DDP-2):<br>Experimente im Physikunterricht|2S+2Ü|5|Portfolioprüfung:<br>2 Seminarvorträge<br>(40 Min.) mit<br>Ausarbeitung<br>(ca.8 bis12S.)|
-|6|Vertiefungsmodul (DDPNV-3n) zur Physikdidaktik<br>alternativ ist DDP-3n mit 5 ECTS-Punkten möglich|2S+2Ü|4|Nach Maßgabe des<br>Faches(geht aus dem<br>Vorlesungsverzeichnis<br>hervor)|
+|6|Vertiefungsmodul (DDPNV-3n) zur Physikdidaktik<br>alternativ ist DDP-3n mit 5 ECTS-Punkten möglich|<sup>2S+2Ü</sup>|4|Nach Maßgabe des<br>Faches(geht aus dem<br>Vorlesungsverzeichnis<br>hervor)|
 ||**Summe Fachdidaktik:**||**12**||
 
 (4) Im Rahmen der Vorgaben der LPO I § 22 Abs. 2 Nr. 2f (freier Bereich) können weitere fachwissenschaftliche und fachdidaktische Module aus dem gesamten Lehrangebot des Departments für Physik eingebracht werden. 
@@ -165,7 +162,7 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 
 **§ 9 Inhalt, Aufbau und Gliederung des Studiums** (1) Wird Physik als Unterrichtsfach für das Lehramt an Grund- bzw. Mittelschulen studiert, umfasst das Studium des Faches mindestens 55 ECTS-Punkte, die auf Module des Faches Physik entfallen. 
 
-## (2) Im Lehramt an Grund- und Mittelschulen werden in Physik als Unterrichtsfach folgende Module angeboten: 
+(2) Im Lehramt an Grund- und Mittelschulen werden in Physik als Unterrichtsfach fol- <u>gende Module angeboten:</u> 
 
 |**Fach-**<br>**semester**|**Modul**|**SWS**|**ECTS**|**Prüfungs- und**<br>**Studienleistung**|
 |---|---|---|---|---|
@@ -176,7 +173,7 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 |4|Struktur der Materie 1 LANV(SMNV-1):|3V+2Ü|7,5|Klausur,90 Min.|
 |4|Grundpraktikum 2 LANV(GPNV-2)|5P|7,5|Praktikumsbescheinigung|
 |5|Struktur der Materie 2 LANV(SMNV-2)|3V+2Ü|7,5|Klausur,90 Min.|
-|5|Wahlfach 1, z.B. Geschichte der Physik|2S + 1Ü oder 2S<br>oder Exkursion|5|Nach Maßgabe des Wahlfa-<br>ches; Einzelheiten sind in<br>der jeweiligen PO bzw. im<br>Modulhandbuchgeregelt|
+|5|Wahlfach 1, z.B. Geschichte der Physik|<sup>2S + 1Ü oder 2S</sup><br>oder Exkursion|5|Nach Maßgabe des Wahlfa-<br>ches; Einzelheiten sind in<br>der jeweiligen PO bzw. im<br>Modulhandbuchgeregelt|
 ||**Summe Fachwissenschaft:**||**55**||
 
 5 
@@ -190,12 +187,12 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 |6|Vertiefungsmodul (DDPNV-3n) zur<br>Physikdidaktik,<br>alternativ ist Vertiefungsmodul DDP-3n<br>mit 5 ECTS-Punkten möglich|2S+2Ü|4|Nach Maßgabe des Fa-<br>ches; Einzelheiten sind in<br>der jeweiligen PO bzw. im<br>Modulhandbuchgeregelt|
 ||**Summe Fachdidaktik:**||**12**||
 
-- (4) Im Bereich Fachdidaktik der Fächergruppe im Lehramt an Grundschulen sind folgende Module abzulegen: 
+- (4) Im Bereich Fachdidaktik der Fächergruppe im Lehramt an Grundschulen sind fol- <u>gende Module abzulegen:</u> 
 
 |**Fach-**<br>**semester**|**Modul**|**SWS**|**ECTS**|**Prüfungs- und**<br>**Studienleistung**|
 |---|---|---|---|---|
 |3|Experimentalphysik 1 LANVDG (EPNV-1):<br>Mechanik und Wärme|4V+2Ü|7,5|Klausur, 90 Min.|
-|4|Einführung Fachdidaktik Physik (DDPNVG-1),<br>alternativ ist DDP-1 mit 5 ECTS-Punkten möglich|<br>2V|3,5|Mündlich, 30 Min.|
+|4|Einführung Fachdidaktik Physik (DDPNVG-1),<br>alternativ ist DDP-1 mit 5 ECTS-Punkten möglich|2V|3,5|Mündlich, 30 Min.|
 ||**Summe Fachdidaktik der Fächergruppe:**||**11**||
 
 (5) Im Rahmen der Vorgaben des LPO I § 22 Abs. 2 Nr. 1h (freier Bereich) können weitere fachwissenschaftliche und fachdidaktische Module aus dem gesamten Lehrangebot des Departments für Physik eingebracht werden. 
@@ -218,7 +215,7 @@ Die Kombination mit dem Fach Mathematik wird in allen Lehramtsstudiengängen emp
 
 ## (1) Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Diese Satzung tritt am 1. Oktober 2010 in Kraft.[2] Sie gilt für die Studierenden, die ab dem Wintersemester 2010/2011 das Lehramtsstudium der Physik aufnehmen.[3] Für alle Studierende, die Ihr Studium zum Wintersemester 2009/2010 aufgenommen haben, findet ab ihrem dritten Fachsemester der Modulplan dieser Änderungssatzung Anwendung. 
+(2)<sup>1</sup> Diese Satzung tritt am 1. Oktober 2010 in Kraft.<sup>2</sup> Sie gilt für die Studierenden, die ab dem Wintersemester 2010/2011 das Lehramtsstudium der Physik aufnehmen.<sup>3</sup> Für alle Studierende, die Ihr Studium zum Wintersemester 2009/2010 aufgenommen haben, findet ab ihrem dritten Fachsemester der Modulplan dieser Änderungssatzung Anwendung. 
 
 6 
 

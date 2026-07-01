@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Informatik FPOINF 20190306 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20190306_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:00+00:00
-page_count_chars: 32864
+scraped_at: 2026-07-01T11:37:22+00:00
+page_count_chars: 32079
 ---
 
 # BSc-MSc Informatik FPOINF 20190306 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 32864
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20190306_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Elfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
+# **Elfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
 
-## **Vom 6. März 2019** 
+# **Vom 6. März 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FAU – FPOINF – vom 21. September 2007, zuletzt geändert durch Satzung vom 1. August 2018, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Art und Umfang der Prüfungen sowie die Verteilung der Module über die Regelstudienzeit sind **Anlage 1** zu entnehmen.“ 
+„<sup>2</sup> Art und Umfang der Prüfungen sowie die Verteilung der Module über die Regelstudienzeit sind **Anlage 1** zu entnehmen.“ 
 
 c) Abs. 2 bis 6 werden gestrichen; der bisherige Abs. 7 wird zu Abs. 2. 
 
@@ -48,13 +48,13 @@ c) Abs. 2 bis 6 werden gestrichen; der bisherige Abs. 7 wird zu Abs. 2.
 
    - a) In der Überschrift werden nach dem Wort „ **Masterstudiengang** “ das Komma und das Wort „ **Regelstudienzeit** “ und nach dem Wort „Studienbeginn“ das Komma und die Worte „ **Sprache, Studienschwerpunkt** “ gestrichen. 
 
-## b) Abs. 1 wird wie folgt geändert: 
+# b) Abs. 1 wird wie folgt geändert: 
 
 - aa) Die bisher einzige Regelung wird zu Abs. 1 Satz 1 und in ihr werden nach den Worten „insgesamt 60 ECTS-Punkten“ die Worte und die Zahl „gemäß § 43a“ eingefügt sowie nach den Worten „sowie die Module“ das Wort „Seminar“ durch das Wort „Hauptseminar“ ersetzt. 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Art und Umfang der Prüfungen sowie die Verteilung der Module über die Regelstudienzeit sind den nachfolgenden Regelungen sowie **Anlage 2** zu entnehmen.“ 
+„<sup>2</sup> Art und Umfang der Prüfungen sowie die Verteilung der Module über die Regelstudienzeit sind den nachfolgenden Regelungen sowie **Anlage 2** zu entnehmen.“ 
 
    - c) Abs. 2 bis 5 werden gestrichen; der bisherige Abs. 6 wird zu Abs. 2. 
 
@@ -68,9 +68,9 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
 6. Nach § 39 werden folgende neue §§ 39a und 39b eingefügt: 
 
-## „ **§ 39a Wahlpflichtmodule in Vertiefungsrichtungen** 
+# „ **§ 39a Wahlpflichtmodule in Vertiefungsrichtungen** 
 
-(1)[1] Die Studierenden wählen Wahlpflichtmodule aus mindestens zwei Vertiefungsrichtungen gemäß Satz 2 im Umfang von insgesamt 15 ECTS-Punkten.[2] Wahlpflichtmodule können aus den folgenden Vertiefungsrichtungen gewählt werden: 
+(1)<sup>1</sup> Die Studierenden wählen Wahlpflichtmodule aus mindestens zwei Vertiefungsrichtungen gemäß Satz 2 im Umfang von insgesamt 15 ECTS-Punkten.<sup>2</sup> Wahlpflichtmodule können aus den folgenden Vertiefungsrichtungen gewählt werden: 
 
 1. Datenbanksysteme 
 
@@ -110,17 +110,17 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
 18. Verteilte Systeme und Betriebssysteme. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5, 7,5, 10 und 15 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen pro Modul sind: Klausur (60 Min., 90 Min. oder 120 Min.) oder mündliche Prüfung (30 Min.).[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5, 7,5, 10 und 15 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen pro Modul sind: Klausur (60 Min., 90 Min. oder 120 Min.) oder mündliche Prüfung (30 Min.).<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Die Vertiefungsmodule im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.[2] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(3)<sup>1</sup> Die Vertiefungsmodule im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.<sup>2</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
-## **§ 39b Nebenfach** 
+# **§ 39b Nebenfach** 
 
-(1)[1] Das Qualifikationsziel des Nebenfachs liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen aus einem Anwendungsbereich der Informatik, der in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht, zu sammeln, zu bewerten und zu interpretieren.[2] Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem eine breite, fachrichtungsübergreifende Qualifizierung im Anwendungsbereich, und andererseits unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Das Qualifikationsziel des Nebenfachs liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen aus einem Anwendungsbereich der Informatik, der in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht, zu sammeln, zu bewerten und zu interpretieren.<sup>2</sup> Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem eine breite, fachrichtungsübergreifende Qualifizierung im Anwendungsbereich, und andererseits unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Es sind mindestens 15 ECTS-Punkte aus inhaltlich zusammenhängenden Modulen, die von Prüfungsberechtigten der FAU angeboten werden und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik stehen, zu erwerben.[2] Die Modulkombination muss als Nebenfach von der Studienkommission Informatik gemäß § 8a Satz 4 **ABMPO/TechFak** genehmigt werden.[3] Die wählbaren Nebenfach-Kombinationen sind dem entsprechenden Katalog zu entnehmen, der ortsüblich bekannt gemacht wird.[4] Ausnahmen können auf begründeten Antrag hin von der Studienkommission Informatik genehmigt werden.[5] Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Bachelorstudiengangs ergibt, können im Rahmen des Nebenfachs nur Module eingebracht werden, die nicht bereits im Rahmen der Vertiefungsrichtungen belegt worden sind. 
+(2)<sup>1</sup> Es sind mindestens 15 ECTS-Punkte aus inhaltlich zusammenhängenden Modulen, die von Prüfungsberechtigten der FAU angeboten werden und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik stehen, zu erwerben.<sup>2</sup> Die Modulkombination muss als Nebenfach von der Studienkommission Informatik gemäß § 8a Satz 4 **ABMPO/TechFak** genehmigt werden.<sup>3</sup> Die wählbaren Nebenfach-Kombinationen sind dem entsprechenden Katalog zu entnehmen, der ortsüblich bekannt gemacht wird.<sup>4</sup> Ausnahmen können auf begründeten Antrag hin von der Studienkommission Informatik genehmigt werden.<sup>5</sup> Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Bachelorstudiengangs ergibt, können im Rahmen des Nebenfachs nur Module eingebracht werden, die nicht bereits im Rahmen der Vertiefungsrichtungen belegt worden sind. 
 
-(3)[1] Art und Umfang der Lehrveranstaltungen und der Prüfung in den Modulen im Umfang von 2,5, 5, 7,5, 10 oder 15 ECTS-Punkten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem entsprechenden Modulhandbuch zu entnehmen.[2] Zulässige Prüfungsleistungen in den Nebenfächern sind: Klausur (60, 90 oder 120 Min.), mündliche Prüfung (zwischen 10 und 45 Min.) sowie Studien- und Prüfungsleistungen nach § 6 Abs. 3 **ABMPO/TechFak** .[3] In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 3 möglich.“ 
+(3)<sup>1</sup> Art und Umfang der Lehrveranstaltungen und der Prüfung in den Modulen im Umfang von 2,5, 5, 7,5, 10 oder 15 ECTS-Punkten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem entsprechenden Modulhandbuch zu entnehmen.<sup>2</sup> Zulässige Prüfungsleistungen in den Nebenfächern sind: Klausur (60, 90 oder 120 Min.), mündliche Prüfung (zwischen 10 und 45 Min.) sowie Studien- und Prüfungsleistungen nach § 6 Abs. 3 **ABMPO/TechFak** .<sup>3</sup> In begründeten Ausnahmefällen sind gemäß § 6 Abs. 2 Satz 3 **ABMPO/TechFak** auch Kombinationen der einzelnen Leistungen nach Satz 3 möglich.“ 
 
 3 
 
@@ -128,39 +128,39 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
    - a) Die Überschrift erhält folgende neue Fassung: 
 
-## „ **§ 40 Bildung von Zwischennoten“** 
+# „ **§ 40 Bildung von Zwischennoten“** 
 
 - b) In Satz 1 werden das Wort „Gesamtnote“ durch das Wort „Zwischennote“ ersetzt und nach den Worten „ausgewiesen, die“ das Wort „jeweils“ eingefügt. 
 
 - c) In Satz 2 wird das Wort „Gesamtnote“ durch die Worte „jeweilige Zwischennote“ ersetzt. 
 
-## 8. § 41 wird wie folgt geändert: 
+# 8. § 41 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „ **Bachelorarbeit** “ das Komma und die Worte „ **mündliche Bachelorprüfung** “ gestrichen. 
 
 - b) Abs. 1 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Es besteht aus der schriftlichen Bachelorarbeit und einem Referat über die Bachelorarbeit.“ 
+„<sup>2</sup> Es besteht aus der schriftlichen Bachelorarbeit und einem Referat über die Bachelorarbeit.“ 
 
 - c) In Abs. 2 Satz 2 werden die Worte „ihrer Anforderung“ durch die Worte „den Anforderungen“ und nach den Worten „zu stellen, dass“ das Wort „sie“ durch die Worte „die Bachelorarbeit“ ersetzt. 
 
-- d) Abs. 3 wird wie folgt geändert: 
+# d) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „„Begleitseminar mit Referat“ umfasst ein“ gestrichen, nach den Worten „30 Minuten“ das Wort „über“ durch das Wort „behandelt“ ersetzt und nach den Worten „schriftlichen Bachelorarbeit“ die Worte „und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar“ gestrichen. 
+- aa) In Satz 1 werden die Worte „„Begleitseminar mit Referat“ umfasst ein“ gestrichen, nach den Worten „30 Minuten“ das Wort „über“ durch das Wort „behandelt“ ersetzt und nach den Worten „schriftlichen Bachelorarbeit“ die Worte „und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar“ gestrichen. 
 
-   - bb) In Satz 2 werden nach dem Wort „festgelegt“ die Worte „und mindestens eine Woche vorher bekannt gegeben“ angefügt. 
+- bb) In Satz 2 werden nach dem Wort „festgelegt“ die Worte „und mindestens eine Woche vorher bekannt gegeben“ angefügt. 
 
-- e) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
+e) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
 „(4) Die Modulnote setzt sich im Verhältnis 12:3 aus den Noten für die schriftliche Arbeit und das Referat zusammen.“ 
 
-## 9. § 43 wird wie folgt geändert: 
+# 9. § 43 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) Satz 1 wird wie folgt geändert: 
+aa) Satz 1 wird wie folgt geändert: 
 
-      - (1) Nach den Worten „Masterstudium umfasst“ werden die Worte „folgende Module gemäß **Anlage 2** :“ eingefügt. 
+- (1) Nach den Worten „Masterstudium umfasst“ werden die Worte „folgende Module gemäß **Anlage 2** :“ eingefügt. 
 
 4 
 
@@ -178,11 +178,11 @@ cc) Sätze 3 bis 5 werden gestrichen, der bisherige Satz 6 wird zu Satz 3.
 
 dd) Satz 3 (neu) erhält folgende neue Fassung: 
 
-„[3] § 39b Abs. 2 Satz 5 gilt sowohl für die Wahl der Vertiefungs- als auch der Nebenfachmodule mit der Maßgabe entsprechend, dass sich der Kompetenzgewinn auf das konsekutive Bachelor- und Masterstudium bezieht.“ 
+„<sup>3</sup> § 39b Abs. 2 Satz 5 gilt sowohl für die Wahl der Vertiefungs- als auch der Nebenfachmodule mit der Maßgabe entsprechend, dass sich der Kompetenzgewinn auf das konsekutive Bachelor- und Masterstudium bezieht.“ 
 
 - b) Abs. 2 erhält folgende neue Fassung: 
 
-## „(2) Für die Bildung von Zwischennoten gilt § 40 entsprechend.“ 
+„(2) Für die Bildung von Zwischennoten gilt § 40 entsprechend.“ 
 
 - c) In Abs. 3 wird das Wort „Absatz“ durch das Wort „Abs.“ ersetzt. 
 
@@ -190,7 +190,7 @@ dd) Satz 3 (neu) erhält folgende neue Fassung:
 
 10. Nach § 43 werden folgende neue §§ 43a, 43b und 43c eingefügt: 
 
-## „ **§ 43a Wahlpflichtmodule der Vertiefungsrichtungen** 
+# „ **§ 43a Wahlpflichtmodule der Vertiefungsrichtungen** 
 
 (1) Wahlpflichtmodule werden in folgenden vier Säulen mit folgenden Vertiefungsrichtungen angeboten: 
 
@@ -242,164 +242,128 @@ dd) Satz 3 (neu) erhält folgende neue Fassung:
 
 - (2) § 39a Abs. 2 und 3 gelten entsprechend. 
 
-## **§ 43b Studienschwerpunkt Fahrzeugtechnik** 
+# **§ 43b Studienschwerpunkt Fahrzeugtechnik** 
 
-> 1Es kann der Studienschwerpunkt Fahrzeugtechnik gemäß **Anlage 3** gewählt werden. 2Kennzeichnend für den Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 3** enthält Vorgaben bzgl. der Modulwahl in den Vertiefungsrichtungen, Wahlpflichtmodule nach § 43a, dem Nebenfach und dem Projekt, die erfüllt sein müssen, damit der Studienschwerpunkt ausgewiesen werden kann.[3] Die Liste wählbarer Module und Projekte für den Studienschwerpunkt wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.[4] Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der bzw. des Studierenden im Transcript of Records vermerkt. 
+> 1Es kann der Studienschwerpunkt Fahrzeugtechnik gemäß **Anlage 3** gewählt werden. 2Kennzeichnend für den Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 3** enthält Vorgaben bzgl. der Modulwahl in den Vertiefungsrichtungen, Wahlpflichtmodule nach § 43a, dem Nebenfach und dem Projekt, die erfüllt sein müssen, damit der Studienschwerpunkt ausgewiesen werden kann.<sup>3</sup> Die Liste wählbarer Module und Projekte für den Studienschwerpunkt wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.<sup>4</sup> Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der bzw. des Studierenden im Transcript of Records vermerkt. 
 
-## **§ 43c Hauptseminar** 
+# **§ 43c Hauptseminar** 
 
-(1)[1] Das Qualifikationsziel des Moduls Hauptseminar liegt darin, es den Studierenden zu ermöglichen, sich in einem nach individueller Interessenlage gewählten Themenbereich des Studiengangs Informatik erstens thematisch zu orientieren und fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren.[2] Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Masterniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits, indem im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Das Qualifikationsziel des Moduls Hauptseminar liegt darin, es den Studierenden zu ermöglichen, sich in einem nach individueller Interessenlage gewählten Themenbereich des Studiengangs Informatik erstens thematisch zu orientieren und fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren.<sup>2</sup> Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Masterniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits, indem im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen.[2] Prüfungen pro Modul sind ein benoteter Seminarvortrag und eine benotete schriftliche Ausarbeitung gemäß § 6 Abs. 3 **ABMPO/TechFak** .[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht.“ 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen.<sup>2</sup> Prüfungen pro Modul sind ein benoteter Seminarvortrag und eine benotete schriftliche Ausarbeitung gemäß § 6 Abs. 3 **ABMPO/TechFak** .<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht.“ 
 
-## 11. § 44 erhält folgende neue Fassung: 
+# 11. § 44 erhält folgende neue Fassung: 
 
-## „ **§ 44 Projekt** 
+# „ **§ 44 Projekt** 
 
-(1)[1] Das Qualifikationsziel des Moduls „Projekt“ liegt darin, es den Studierenden zu ermöglichen, die in einem nach individueller Interessenlage gewählten Themenbereich des Studiengangs Informatik bereits erworbenen Kenntnisse und Kompetenzen erstens thematisch zu vertiefen, insbesondere durch die Bearbeitung von komplexen Fragestellungen im Rahmen forschungsorientierter Projekte.[2] Zweitens wird damit ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem selbstständig ein Fachthema aktueller Forschung wissenschaftlich aufbereitet, dargestellt, präsentiert und in der Diskussion fachkompetent (Masterniveau) argumentativ vertreten wird, und indem im Rahmen von Gruppenarbeiten Problemstellungen fachver- 
+(1)<sup>1</sup> Das Qualifikationsziel des Moduls „Projekt“ liegt darin, es den Studierenden zu ermöglichen, die in einem nach individueller Interessenlage gewählten Themenbereich des Studiengangs Informatik bereits erworbenen Kenntnisse und Kompetenzen erstens thematisch zu vertiefen, insbesondere durch die Bearbeitung von komplexen Fragestellungen im Rahmen forschungsorientierter Projekte.<sup>2</sup> Zweitens wird damit ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem selbstständig ein Fachthema aktueller Forschung wissenschaftlich aufbereitet, dargestellt, präsentiert und in der Diskussion fachkompetent (Masterniveau) argumentativ vertreten wird, und indem im Rahmen von Gruppenarbeiten Problemstellungen fachver- 
 
 6 
 
-wandter Anwendungen gelöst sowie Realisierungsmöglichkeiten fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+wandter Anwendungen gelöst sowie Realisierungsmöglichkeiten fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Die Aufgabenstellung des Projekts ist in ihren Anforderungen für jede Studierende bzw. jeden Studierenden so zu stellen, dass sie jeweils in einer Bearbeitungszeit von ca. 300 Stunden (10 ECTS-Punkte) innerhalb von sechs Monaten abgeschlossen werden kann. 
+(2)<sup>1</sup> Die Aufgabenstellung des Projekts ist in ihren Anforderungen für jede Studierende bzw. jeden Studierenden so zu stellen, dass sie jeweils in einer Bearbeitungszeit von ca. 300 Stunden (10 ECTS-Punkte) innerhalb von sechs Monaten abgeschlossen werden kann. 
 
-(3)[1] Art und Umfang der Prüfung sind abhängig vom jeweiligen konkreten Projekt und dem Modulhandbuch zu entnehmen.[2] Pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung zu erbringen. 
+(3)<sup>1</sup> Art und Umfang der Prüfung sind abhängig vom jeweiligen konkreten Projekt und dem Modulhandbuch zu entnehmen.<sup>2</sup> Pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung zu erbringen. 
 
-(4)[1] Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Forschungspraktikum (3 SWS) zusammen.[2] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
+(4)<sup>1</sup> Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Forschungspraktikum (3 SWS) zusammen.<sup>2</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
 
 12. In § 45 Abs. 1 Nr. wird das Zeichen „;“ durch das Wort „und“ ersetzt. 
 
 13. § 46 erhält folgende neue Fassung: 
 
-## „ **§ 46 Masterarbeit** 
+# „ **§ 46 Masterarbeit** 
 
-(1)[1] Das Modul Masterarbeit umfasst 30 ECTS-Punkte.[2] Es besteht aus der schriftlichen Masterarbeit und einem Referat über die Masterarbeit. 
+(1)<sup>1</sup> Das Modul Masterarbeit umfasst 30 ECTS-Punkte.<sup>2</sup> Es besteht aus der schriftlichen Masterarbeit und einem Referat über die Masterarbeit. 
 
-(2)[1] Die schriftliche Masterarbeit soll ein wissenschaftliches Thema aus dem Bereich der Informatik behandeln.[2] Das Thema für die schriftliche Masterarbeit ist in den Anforderungen so zu stellen, dass die Masterarbeit bei einer Bearbeitungszeit von ca. 900 Stunden innerhalb von 6 Monaten abgeschlossen werden kann.[3] Die Masterarbeit wird von einer Hochschullehrerin bzw. einem Hochschullehrer der Informatik ausgegeben. 
+(2)<sup>1</sup> Die schriftliche Masterarbeit soll ein wissenschaftliches Thema aus dem Bereich der Informatik behandeln.<sup>2</sup> Das Thema für die schriftliche Masterarbeit ist in den Anforderungen so zu stellen, dass die Masterarbeit bei einer Bearbeitungszeit von ca. 900 Stunden innerhalb von 6 Monaten abgeschlossen werden kann.<sup>3</sup> Die Masterarbeit wird von einer Hochschullehrerin bzw. einem Hochschullehrer der Informatik ausgegeben. 
 
-(3)[1] Das Referat im Umfang von ca. 30 Minuten behandelt das Thema der schriftlichen Masterarbeit.[2] Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Masterarbeit entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt und mindestens eine Woche vorher bekannt gegeben.[3] Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
+(3)<sup>1</sup> Das Referat im Umfang von ca. 30 Minuten behandelt das Thema der schriftlichen Masterarbeit.<sup>2</sup> Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Masterarbeit entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt und mindestens eine Woche vorher bekannt gegeben.<sup>3</sup> Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
 
 (4) Die Modulnote setzt sich im Verhältnis 27:3 aus den Noten für die schriftliche Arbeit und das Referat zusammen.“ 
 
 14. In § 47 wird nach Abs. 5 folgender neuer Abs. 6 angefügt: 
 
-„(6)[1] Die elfte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in Bezug auf die Neuregelung der Wahlpflichtmodule/Vertiefungsfächer und des Nebenfachs sowie des Schwerpunktfachs Fahrzeugtechnik zusätzlich für alle Studierenden, die bereits nach der FPOINF in einer der derzeit gültigen Fassungen studieren.“ 
+„(6)<sup>1</sup> Die elfte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in Bezug auf die Neuregelung der Wahlpflichtmodule/Vertiefungsfächer und des Nebenfachs sowie des Schwerpunktfachs Fahrzeugtechnik zusätzlich für alle Studierenden, die bereits nach der FPOINF in einer der derzeit gültigen Fassungen studieren.“ 
 
 7 
 
-## 15. Die **Anlagen** erhalten folgende neue Fassungen: 
+# 15. Die **Anlagen** erhalten folgende neue Fassungen: 
 
-## „ 
+# „ 
 
 **Anlage 1:** Module des Bachelorstudiums Informatik bei Beginn im Wintersemester mit Angabe der ECTS-Punkte, die Verteilung auf die Semester und des Prüfungsmodus 
 
-|**Modulbezeichnung(en)**|**Lh**|**SWS**|**SWS**|**SWS**|**SWS**|||||||||**Art und Umfang**<br>**dr Prüfn-/**|**Faktor**<br>**Abhl**|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Ge-**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||||||||
-||**erveran-**<br>**l**||||||||||||||||
-||||||||**samt**|||||||**e ug**|**scuss-**<br>**nt 1/180**||
-||**statung(en)**|**V**|**Ü**|**P**|**S**|**Summe**<br>**SWS**|**ECTS**|**1 S**|**2 S**|**3 S**|**4 S**|**5 S**|**6 S**|**Stdilit1)**|||
-|||||||||**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**uenesung**|**oe []**||
-||||||||||||||||||
-|Algorithmen und Daten-<br>strukturen|Algorithmen und<br>Datenstrukturen V|4||||4|**10**|10||||||PL (K120) +<br>SL (Übungs-<br>leistung)|10|ja|
-||Algorithmen und<br>Datenstrukturen UE||||||||||||||||
-||||2|2||4|||||||||||
-||||||||||||||||||
-|Konzeptionelle Modellierung|Konzeptionelle<br>ModellierungV|2||||2|**5**|5||||||PL (K90)|5|ja|
-||Konzeptionelle<br>ModellierungUE||2|||2|||||||||||
-|Grundlagen der Technischen<br>Informatik|Grundlagen der<br>Technischen<br>Informatik V|4||||4|**7,5**|7,5||||||PL (K120) +<br>SL (Übungs-<br>leistung)|7,5|ja|
-||Grundlagen der<br>Technischen<br>Informatik UE||2|||2|||||||||||
-|Parallele und funktionale<br>Programmierung|Parallele und<br>funktionale<br>ProgrammierungV|2||||2|**5**||5|||||PL (K60)|5|ja|
-||Parallele und<br>funktionale<br>ProgrammierungUE||2|||2|||||||||||
-|Grundlagen der Rechner-<br>architektur und -organisation|Grundlagen der<br>Rechnerarchitektur<br>und -organisation V|2||||2|**5**||5|||||PL (K90)|5|ja|
-||Grundlagen der<br>Rechnerarchitektur<br>und -organisation UE||2|||2|||||||||||
-|Grundlagen der Schaltungs-<br>technik|Grundlagen der<br>Schaltungstechnik V|2||||2|**5**||5|||||PL (K90)|5|ja|
-||Grundlagen der<br>Schaltungstechnik UE||2|||2|||||||||||
-|Systemprogrammierung|Systemprogrammie-<br>rungV|4||||4|**10**||5|5||||PL (K120)|10|ja|
-||Systemprogrammie-<br>rungUE||2|2||4|||||||||||
+|**Mdlbih**|**Lehrveran-**|||**SWS**||**Ge-**<br>**t**|**Work**|**load-Verte**|**ilung pro**|**Semester in**|**ECTS-Punkten**|**Art und Umfang**<br>**der Prüfun-/**|**Faktor**<br>**Abhl**|**GOP-**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**ouezecnung(en)**||||||**sam**||||||**g**|**scuss-**||
+||**staltung(en)**|**V**<br>|**Ü**|**P**<br>**S**|<br>**Summe**<br>**SWS**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**<br>**6. Sem.**|**Studienleistung**<sup>**1)**</sup>|**note [1/180]**|**fähig**|
+||Algorithmen und||||||||||||||
+|Algorithmen und Daten-|<br>Datenstrukturen V|4|||4|**10**|10|||||PL (K120) +<br>SL (Übuns-|10|ja|
+|strukturen|Algorithmen und<br>Datenstrukturen UE||2|2|4|||||||g<br>leistung)|||
+|Kntinll Mdllirn|Konzeptionelle<br>ModellierungV|2|||2|**5**|5|||||PL K90|5||
+|ozepoee oeeug||||||||||||()||ja|
+||Konzeptionelle<br>ModellierungUE||2||2||||||||||
+|Grundlagen der Technischen|Grundlagen der<br>Technischen<br>Informatik V|4|||4|**75**|7,5|||||PL (K120) +<br>SL Üb|75||
+|Informatik|Grundlagen der<br>Technischen<br>Informatik UE||2||2|**,**||||||(ungs-<br>leistung)|,|ja|
+|Parallele und funktionale|Parallele und<br>funktionale<br>ProgrammierungV|2|||2|**5**||5||||PL (K60)|5|ja|
+|Programmierung|Parallele und<br>funktionale<br>ProgrammierungUE||2||2||||||||||
+|Grundlagen der Rechner-|Grundlagen der<br>Rechnerarchitektur<br>und -organisation V|2|||2|**5**||5||||PL K90|5||
+|architektur und -organisation|Grundlagen der<br>Rechnerarchitektur<br>und -organisation UE||2||2|||||||()||ja|
+|Grundlagen der Schaltungs-|Grundlagen der<br>Schaltungstechnik V|2|||2|||5|||||||
+|<br>technik|Grundlagen der<br>Schaltungstechnik UE||2||2|**5**||||||PL (K90)|5|ja|
+||Systemprogrammie-<br>rungV|4|||4|||5|5||||||
+|Systemprogrammierung|Systemprogrammie-<br>rungUE||2|2|4|**10**||||||PL (K120)|10|ja|
 
 8 
 
-|**Modulbezeichnung(en)**|**Lh**|**SWS**|**SWS**|**SWS**|**SWS**|||||||||**Art und Umfang**<br>**dr Prüfn-/**|**Faktor**<br>**Abhl**|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Ge-**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||||||||
-||**erveran-**<br>**l**||||||||||||||||
-||||||||**samt**|||||||**e ug**|**scuss-**<br>**nt 1/180**||
-||**statung(en)**|**V**|**Ü**|**P**|**S**|**Summe**<br>**SWS**|**ECTS**|**1 S**|**2 S**|**3 S**|**4 S**|**5 S**|**6 S**|**Stdilit1)**|||
-|||||||||**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**uenesung**|**oe []**||
-||||||||||||||||||
-|Grundlagen der Logik in der<br>Informatik|Grundlagen der Logik<br>in der Informatik V|2||||2|**5**|||5||||PL (K90)|5||
-||Grundlagen der Logik<br>in der Informatik UE||2|||2|||||||||||
-|Softwareentwicklung in<br>Großprojekten|Softwareentwicklung<br>in Großprojekten V|2||||2|**5**|||5||||PL (K90)|5||
-||Softwareentwicklung<br>in Großprojekten UE||2|||2|||||||||||
-|Berechenbarkeit und<br>Formale Sprachen|Berechenbarkeit und<br>Formale Sprachen V|4||||4|**7,5**|||7,5||||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
-||Berechenbarkeit und<br>Formale Sprachen UE||||||||||||||||
-||||2|||2|||||||||||
-||||||||||||||||||
-|Theorie der Programmierung|Theorie der Program-<br>mierungV|4||||4|**7,5**||||7,5|||PL (K90)|7,5||
-||Theorie der Program-<br>mierungUE||2|||2|||||||||||
-|Rechnerkommunikation|Rechnerkommunika-<br>tion V|2||||2|**5**||||5|||PL (K90) +<br>SL (Übungs-<br>leistung)|5||
-||Rechnerkommunika-<br>tion UE||||||||||||||||
-||||2|||2|||||||||||
-||||||||||||||||||
-|Algorithmik kontinuierlicher<br>Systeme|Algorithmik kontinuier-<br>licher Systeme V|4||||4|**7,5**||||7,5|||PL (K90) +<br>SL (Übungs-<br>leistung)|7,5||
-||Algorithmik kontinuier-<br>licher Systeme UE||||||||||||||||
-||||2|||2|||||||||||
-||||||||||||||||||
-|Implementierung von Daten-<br>banksystemen|Implementierung von<br>Datenbanksystemen<br>V|2||||2|**5**|||||5||PL (K90)|5||
-||Implementierung von<br>Datenbanksystemen<br>UE||2|||2|||||||||||
-|Hauptseminar (Schlüssel-<br>qualifikation)|Hauptseminar||||8|8|**5**||||5|||PL (Seminar-<br>leistung)|5||
-||||||||||||||||||
-|Praktikum|Praktikum|||8||8|**10**|||||10||PL (Praktikums-<br>leistung)|10||
-||||||||||||||||||
-|Mathematik für INF 12)|Mathematik für INF 1<br>V|4|2|||6||7,5||||||PL (K90) +|7,5|ja|
-||||||||**7,5**|||||||<br>SL (Übungs-|||
-||Mhik f INF 1||||||||||||||||
-||atemat ür<br>UE|||||||||||||leistung)|||
-||||||||||||||||||
-|Mathematik für INF 22)|||||||||||||||7,5|ja|
-||Mathematik für INF 2<br>V|4|2|||6|**7,5**||7,5|||||PL (K90) +<br>SLÜb|||
-|||||||||||||||(ungs-|||
+||**Lehrveran-**||**SWS**||**Ge-**<br>|**Wor**|**kload-Verte**|**ilung pro**|**Semester in**|**ECTS-Punkten**|**Art und Umfang**<br>|**Faktor**<br>|**GOP-**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung(en)**|**staltung(en)**|<br>|<br>|**Summe**|**samt**<br>|||||<br>|**der Prüfung-/**<br>|**Abschluss-**<br>|<br>**fähig**|
+|||**V**<br>**Ü**|**P**<br>**S**|<br>**SWS**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**<br>**6. Sem.**|**Studienleistung**<sup>**1)**</sup>|**note [1/180]**|<br>|
+|Grundlagen der Logik in der|Grundlagen der Logik<br>in der Informatik V|2||2|**5**|||5|||PL (K90)|5||
+|Informatik|Grundlagen der Logik<br>in der Informatik UE|2||2||||||||||
+|Softwareentwicklung in|Softwareentwicklung<br>in Großprojekten V|2||2|**5**|||5|||PL (K90)|5||
+|Großprojekten|Softwareentwicklung<br>in Großprojekten UE|2||2||||||||||
+|Berechenbarkeit und|Berechenbarkeit und<br>Formale Sprachen V|4||4|**75**|||7,5|||PL (K90) +<br>SL Üb|75||
+|Formale Sprachen|Berechenbarkeit und<br>Formale Sprachen UE|2||2|**,**||||||(ungs-<br>leistung)|,||
+||Theorie der Program-<br>mierungV|4||4|||||7,5|||||
+|Theorie der Programmierung|Theorie der Program-<br>mierungUE|2||2|**7,5**||||||PL (K90)|7,5||
+|Rechnerkommunikation|Rechnerkommunika-<br>tion V|2||2|**5**||||5||PL (K90) +<br>SL (Übuns-|5||
+||Rechnerkommunika-<br>tion UE|2||2|||||||g<br>leistung)|||
+|Algorithmik kontinuierlicher|Algorithmik kontinuier-<br>licher Systeme V|4||4|**75**||||7,5||PL (K90) +<br>SL Übn-|75||
+|Systeme|Algorithmik kontinuier-<br>licher Systeme UE|2||2|**,**||||||(ugs<br>leistung)|,||
+|Implementierung von Daten-|Implementierung von<br>Datenbanksystemen<br>V|2||2|**5**|||||5|PL K90|5||
+|banksystemen|Implementierung von<br>Datenbanksystemen<br>UE|2||2|||||||()|||
+|Hauptseminar (Schlüssel-|||8|8|||||5||PL (Seminar-|||
+|<br>qualifikation)|Hauptseminar||||**5**||||||<br>leistung)|5||
+|Praktikum|Praktikum||8|8|**10**|||||10|PL (Praktikums-<br>leistung)|10||
+|<sup>2)</sup>|Mathematik für INF 1<br>V|4<br>2||6||7,5|||||PL (K90) +<br>|||
+|Mathematik für INF 1|Mathematik für INF 1<br>UE||||**7,5**||||||SL (Übungs-<br>leistung)|7,5|ja|
+|Mathematik für INF 2<sup>2)</sup>|Mathematik für INF 2<br>V|4<br>2||6|**7,5**||7,5||||PL (K90) +<br>SL(Übungs-|7,5|ja|
 
 9 
 
-|**Modulbezeichnung(en)**|**Lh**|**SWS**|**SWS**|**SWS**|**SWS**|||||||||**Art und Umfang**<br>**dr Prüfn-/**|**Faktor**<br>**Abhl**|**GOP-**<br>**fähig**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Ge-**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||||||||
-||**erveran-**<br>**l**||||||||||||||||
-||||||||**samt**|||||||**e ug**|**scuss-**<br>**nt 1/180**||
-||**statung(en)**|**V**|**Ü**|**P**|**S**|**Summe**<br>**SWS**|**ECTS**|**1 S**|**2 S**|**3 S**|**4 S**|**5 S**|**6 S**|**Stdilit1)**|||
-|||||||||**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**. em.**|**uenesung**|**oe []**||
-||||||||||||||||||
-||Mathematik für INF 2<br>UE|||||||||||||leistung)|||
-|Mathematik für INF 32)|Mathematik für INF 3<br>V|4|2|||6||||7,5||||PL (K90) +|7,5||
-||||||||**7,5**|||||||<br>SL (Übungs-|||
-||Mhik f INF||||||||||||||||
-||atemat ür  3<br>UE|||||||||||||leistung)|||
-||||||||||||||||||
-|Mathematik für INF 42)|Mathematik für INF 4<br>V|4|2|||6|||||7,5|||PL (K90) +|7,5||
-||||||||**7,5**|||||||<br>SL (Übungs-|||
-||Mhik f INF 4||||||||||||||||
-||atemat ür<br>UE|||||||||||||leistung)|||
-||||||||||||||||||
-|Wahlpflichtbereich:<br>Wahlpflichtmodule aus mind.<br>2 Vertiefungsrichtungen<br>gemäß§39a|3) 4)||||||||||||5|PL (MHB)3)|15||
-||||||||**15**|||||10|||||
-||||||||||||||||||
-|Nebenfach (Schlüsselqualifi-<br>kation) gemäß § 39b i. V. m.<br>Anlage 2|3)|||||||||||5|10|PL (MHB)3)|15||
-||||||||**15**||||||||||
-|Bachelorarbeit|Schriftliche Bachelor-<br>arbeit||||||**15**||||||15|Schriftliche Aus-<br>arbeitung (80 %),<br>ca. 30 Min. Referat<br>zur Bachelorarbeit<br>(20 %)|15||
-|Summen SWS und|ECTS-Punkte:|54|36|12|8|110|180|30|27,5|30|32,5|30|30||||
+|**Modulbezeichnung(en)**|**Lehrveran-**<br>**staltung(en)**|<br>|**SWS**<br> <br>|**Summe**|**Ge-**<br>**samt**<br>|**Work**<br>|**load-Verte**<br>|**ilung pro S**<br>|**emester in**<br>|**ECTS-Pun**<br>|**kten**<br>|**Art und Umfang**<br>**der Prüfung-/**<br> <sup>**1**</sup>|**Faktor**<br>**Abschluss-**<br>|**GOP-**<br>**fähig**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**<br>**Ü**|**P**<br>**S**|<br>**SWS**|**ECTS**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**Studienleistung**<sup>**)**</sup>|**note [1/180]**||
+||Mathematik für INF 2<br>UE|||||||||||leistung)|||
+|Mthtik fü INF 3<sup>2)</sup>|Mathematik für INF 3<br>V|4<br>2||6|**75**|||7,5||||PL (K90) +<br>SL (Übns-|75||
+|aema r|Mathematik für INF 3<br>UE||||**,**|||||||ug<br>leistung)|,||
+|Mhik fü INF 4<sup>2)</sup>|Mathematik für INF 4<br>V|4<br>2||6|**75**||||7,5|||PL (K90) +<br>SL Üb|75||
+|atemat r|Mathematik für INF 4<br>UE||||**,**|||||||(ungs-<br>leistung)|,||
+|Wahlpflichtbereich:<br>Wahlpflichtmodule aus mind.<br>|3) 4)||||**15**|||||10|5|PL (MHB)<sup>3)</sup>|15||
+|2 Vertiefungsrichtungen<br>gemäß§39a|||||||||||||||
+|Nebenfach (Schlüsselqualifi-<br>kti äß  39b i V|3)||||**15**|||||5|10|PL MHB<sup>3)</sup>|15||
+|aon) gem §  . . m.<br>Anlage 2||||||||||||()|||
+|Bachelorarbeit|Schriftliche Bachelor-<br>arbeit||||**15**||||||15|Schriftliche Aus-<br>arbeitung (80 %),<br>ca. 30 Min. Referat<br>zur Bachelorarbeit<br>(20 %)|<br>15||
+|Summen SWS und|ECTS-Punkte:|54<br>36|12<br>8|110|180|30|27,5|30|32,5|30|30||||
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
 V: Vorlesung, UE: Übung, 
 
-P: Praktikum, 
-
-SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, 
-
-PL: Prüfungsleistung (benotet), 
+P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), 
 
 SL: Studienleistung (unbenotet), 
 
@@ -421,52 +385,27 @@ GOP: Grundlagen- und Orientierungsprüfung – 30 ECTS aus den mit „ja“ geke
 
 ## **Anlage 2:** Module des Masterstudiums Informatik und Semesterverteilung (Musterstudienplan): 
 
-|Modulbezeichnung1)|Lhl|SWS|SWS|SWS||Gesamt-<br>S|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der|Faktor<br>Abschlussnote<br>[1/120]|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||<br>in ECTS-Punkten||||||
-||erveranstatung|V|Ü|P|S|umme<br>SWS|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|Prüfung/Studienleistung2)||
-|Wahlpflichtmodul Informatik I3) 4)||||||4)||10|||||10|
-||||||||10|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik II3) 4)||||||4)|||10||||10|
-||||||||10|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik III3) 4)||||||4)|||10||||10|
-||||||||10|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik IV3) 4)||||||4)||||10|||10|
-||||||||10|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik V3) 4)||||||4)||5|||||5|
-||||||||5|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik VI3) 4)||||||4)||5|||||5|
-||||||||5|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik VII3) 4)||||||4)|||5||||5|
-||||||||5|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Wahlpflichtmodul Informatik VIII3) 4)||||||4)||||5|||5|
-||||||||5|||||4)||
-|||||||4)||||||||
-|||||||||||||||
-|Projekt gemäß § 44|Projekt||||8|8|10|||10||4)|10|
-|||||||||||||||
-|Nebenfach gemäß § 37 Abs. 1 i. V. m.<br>§ 39b4)||||||4)|15|10|5|||4) 5)|15|
-|||||||4)||||||||
-|Hauptseminar gemäß § 43c|Hauptseminar||||8|8|5|||5||4)|5|
-|||||||||||||||
-|Masterarbeit|Schriftliche Masterarbeit||||||30||||30|Schriftliche Ausarbeitung (90 %) und<br>ca. 30 Min. Referat zur Masterarbeit(10 %)|30|
-|Summen SWS und ECTS-Punkte:|||||16||120|30|30|30|30|||
+|Modulbezeichnung<sup>1)</sup>|Lehrveranstaltung|SWS<br> <br> <br>|<br> <br>|Gesamt-<br>Summe<br>SWS|Workl<br>|oad-Verteilung<br>in ECTS-Pu<br>1<br>2|pro Sem<br>nkten<br>3|ester<br>4|Art und Umfang der<br>Prüfung/Studienleistung<sup>2)</sup>|Faktor<br>Abschlussnote<br>1/12|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>|<br>S||ECTS|.<br>Sem.<br>.<br>Sem.|.<br>Sem.|.<br>Sem.||[0]|
+|Wahlpflichtmodul Informatik I<sup>3) 4)</sup>||||4)<br>4)|10|10|||4)|10|
+|Wahlpflichtmodul Informatik II<sup>3) 4)</sup>||||4)<br>4)|10|10|||4)|10|
+|Wahlpflichtmodul Informatik III<sup>3) 4)</sup>||||4)<br>4)|10|10|||4)|10|
+|Wahlpflichtmodul Informatik IV<sup>3) 4)</sup>||||4)<br>4)|10||10||4)|10|
+|Wahlpflichtmodul Informatik V<sup>3) 4)</sup>||||4)<br>4)|5|5|||4)|5|
+|Wahlpflichtmodul Informatik VI<sup>3) 4)</sup>||||4)<br>4)|5|5|||4)|5|
+|<sup>3) 4)</sup>||||4)||5|||4)||
+|Wahlpflichtmodul Informatik VII||||4)|5|||||5|
+|Wahlpflichtmodul Informatik VIII<sup>3) 4)</sup>||||4)<br>|5||5||4)|5|
+|||||4)|||||||
+|Projekt gemäß § 44|Projekt||8|8|10||10||4)|10|
+|Nebenfach gemäß § 37 Abs. 1 i. V. m.||||4)||10<br>5|||4) 5)||
+|§ 39b<sup>4)</sup>||||4)|15|||||15|
+|Hauptseminar gemäß § 43c|Hauptseminar||8|8|5||5||4)|5|
+|Masterarbeit|Schriftliche Masterarbeit||||30|||30|Schriftliche Ausarbeitung (90 %) und<br>ca. 30 Min. Referat zur Masterarbeit(10 %)|30|
+|Summe|n SWS und ECTS-Punkte:||16||120|30<br>30|30|30|||
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
 V: Vorlesung, UE: Übung, 
 
@@ -476,7 +415,7 @@ SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, P
 
 11 
 
-## K: Klausur (mit Dauer in Minuten), 
+### K: Klausur (mit Dauer in Minuten), 
 
 M: mdl. Prüfung (mit ungefährer Dauer in Minuten), 
 
@@ -494,26 +433,20 @@ MHB: siehe Modulhandbuch.
 
 ## **Anlage 3: Studienschwerpunkt Fahrzeugtechnik im Masterstudiengang** 
 
-|||
-|---|---|
 ||**Fahrzeugtechnik**|
+|---|---|
 |Vertiefungsrichtung|Drei Vertiefungsrichtungen, wobei es sich um Vertiefungsrichtungen aus der systemorientierten<br>Säule oder die Vertiefungsrichtung Programmiersysteme handeln muss.|
-|||
 |Wahlpflichtbereich|Auswahl aus der ortsüblich bekanntgemachten Liste der für diesen Studienschwerpunkt geeigneten<br>Wahlpflichtmodule des Wahlpflichtbereichs  im Umfang von 15 ECTS, im Übrigen frei wählbar|
-|||
 |Projekt|Auswahl aus der ortsüblich bekanntgemachten Liste der für diesen Studienschwerpunkt geeigneten<br>Projekte|
-|||
 |Nebenfach|„Elektrotechnik, Elektronik und Informationstechnik“ oder „Maschinenbau“|
 
 12 
 
 ## **Anlage 4: Module, die neben den Pflichtmodulen des Studiengangs Informatik in Prüfungsordnungen anderer Studiengänge referenziert werden („Export-Module“)** 
 
-|**Name des Moduls**||**ECTS**|**Prüfungsmodus**|
+|**Name des Moduls**|**Englische Bezeichnung**|**ECTS**|**Prüfungsmodus**|
 |---|---|---|---|
-||**Englische Bezeichnung**|||
-|||||
-|Grundlagen der Informatik ohne schriftl.<br>Prüfung 1) 2)|Introduction to Computer Science|5|SL|
+|Grundlagen der Informatik ohne schriftl.<br>Prüfung <sup>1) 2)</sup>|Introduction to Computer Science|5|SL|
 |Grundlagen der Informatik (GdI-Kompakt)|Introduction to Computer Science|5|K60 Min.|
 |Grundlagen der Informatik (GdI)|Introduction to Computer Science|7,5|PL (K, 90 Min.) und SL|
 |Informatik der EEI|Computer Science for EEI|7,5|PL (K, 90 Min.)|

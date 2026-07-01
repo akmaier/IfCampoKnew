@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AESDSH-PrO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:47+00:00
-page_count_chars: 11234
+scraped_at: 2026-07-01T11:12:58+00:00
+page_count_chars: 11291
 ---
 
 # 5. August 2015
@@ -12,7 +12,7 @@ page_count_chars: 11234
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AESDSH-PrO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
 
-## **Siebte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg über die Deutsche Sprachprüfung für den Hochschulzugang (DSH) Vom 5. August 2015** 
+# **Siebte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg über die Deutsche Sprachprüfung für den Hochschulzugang (DSH) Vom 5. August 2015** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -90,17 +90,17 @@ Die Prüfungsordnung der Universität Erlangen-Nürnberg über die Deutsche Spra
 
 ## **Nachteilsausgleich** 
 
-(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Prüfungsvorsitzende gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen. 
+(1)<sup>1</sup> Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Prüfungsvorsitzende gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen. 
 
 2 
 
 (2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
-(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Prüfungsvorsitzenden getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[ 3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+(3)<sup>1</sup> Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Prüfungsvorsitzenden getroffen.<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
 6. § 6 wird wie folgt geändert: 
 
-- a) In Abs. 1 wird folgender Satz 3 angefügt: „[3] Beide Prüfungsteile sind am gleichen Standort sowie innerhalb eines einzigen Prüfungszeitraums abzulegen.“ 
+- a) In Abs. 1 wird folgender Satz 3 angefügt: „<sup>3</sup> Beide Prüfungsteile sind am gleichen Standort sowie innerhalb eines einzigen Prüfungszeitraums abzulegen.“ 
 
 - b) Abs. 3 wird wie folgt geändert: 
 
@@ -208,7 +208,7 @@ bb) Nr. 2 c) Satz 2 wird wie folgt geändert:
 
 - b) Satz 4 wird wie folgt geändert: 
 
-aa) Nach dem Wort „soll“ werden die Worte „der bzw.“ eingefügt. 
+   - aa) Nach dem Wort „soll“ werden die Worte „der bzw.“ eingefügt. 
 
 bb) Das Wort „Kandidaten“ wird durch die Worte „zu Prüfenden“ ersetzt. 
 

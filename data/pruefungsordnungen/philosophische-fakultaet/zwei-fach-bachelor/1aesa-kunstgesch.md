@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Februar 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-Kunstgesch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:39+00:00
-page_count_chars: 2062
+scraped_at: 2026-07-01T10:24:21+00:00
+page_count_chars: 2059
 ---
 
 # 28. Februar 2008
@@ -12,7 +12,7 @@ page_count_chars: 2062
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-Kunstgesch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 28. Februar 2008 
 
@@ -24,15 +24,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach
 
 1. In § 4 Abs. 1 wird die Tabelle unter dem Punkt „Kg 2 Basismodul II: Propädeutika“ wie folgt gefasst: 
 
-„ 
-
-|**Kg 2**|**Basismodul II: Propä-**<br>**deutika**|**10**|
+|„<br>**Kg 2**|**Basismodul II: Propä-**<br>**deutika**|**10**|
 |---|---|---|
 |2 (SS)|Proseminar Einführung in<br>die Quellenkunde und die<br>Kunsttheorie (4 ECTS)|Protokoll oder mündlicher<br>Vortrag und Hausarbeit|
 |1 (WS)|Proseminar Einführung in<br>die Ikonographie (4 ECTS)||
-|1 (WS) od. 2 (SS)|Übung Beschreibung und<br>vergleichendes Sehen (2<br>ECTS)||
-
-„ 
+|1 (WS) od. 2 (SS)|Übung Beschreibung und<br>vergleichendes Sehen (2<br>ECTS)|„|
 
 2. § 5 Grundlagen- und Orientierungsprüfung wird wie folgt gefasst: „In der Grundlagen- und Orientierungsprüfung sind im Fach Kunstgeschichte mindestens das Basismodul I sowie wahlweise das Basismodul II, III, IV oder V im Umfang von 15 ECTS-Punkten nachzuweisen.“ 
 

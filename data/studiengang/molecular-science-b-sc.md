@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:49:15+00:00
+scraped_at: 2026-07-01T08:26:08+00:00
 ---
 
 # Molecular Science (B.Sc.)
@@ -37,7 +37,7 @@ Bei **Molecular Nano Science** beschäftigen Sie sich mit der Entwicklung neuer,
 
 Bei **Molecular Life Science** ist der thematische Schwerpunkt in Richtung Pharmazie und molekulare Biologie ausgerichtet und soll Ihnen u.a. auch einen Quereinstieg in den Bereich Wirkmechanismen und Wirkstoffdesign von Arzneistoffen ermöglichen. Hierfür lernen Sie Grundlagen aus den Bereichen Biochemie, Mikrobiologie, Medizinische Chemie, Lebensmittelchemie und Pflanzenphysiologie. Ein wichtiger Aspekt ist hierbei auch die Einbindung moderner, computergestützter Struktursuche- und Strukturoptimierungsverfahren.
 
-### Bachelor of Science Molecular Science
+### Fachanteile des Studiengangs Molecular Science (B.Sc.)
 
 * Anorganische Chemie (25%)
 * Organische Chemie (21%)
@@ -169,7 +169,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/FAU_NATFAK_2025_FATHER-SUN_1047-scaled-1.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/07/FAU_NATFAK_2025_FATHER-SUN_1047-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

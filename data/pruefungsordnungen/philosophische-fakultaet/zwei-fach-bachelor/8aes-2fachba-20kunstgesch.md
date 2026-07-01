@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. Mai 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES-2FachBA%20Kunstgesch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:18+00:00
-page_count_chars: 3577
+scraped_at: 2026-07-01T10:24:02+00:00
+page_count_chars: 3534
 ---
 
 # 4. Mai 2012
@@ -14,19 +14,19 @@ page_count_chars: 3577
 
 **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 4. Mai 2012 
+# Vom 4. Mai 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
-## 1. § 4 wird wie folgt geändert: 
+# 1. § 4 wird wie folgt geändert: 
 
 a) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: 
 
-(2) Für das Sommersemesterangebot 2012 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2012 findet folgender Studienverlaufsplan <u>Anwendung:</u> 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -60,17 +60,17 @@ a) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt:
 |Vertiefungen im Bereich der bildenden Kunst und der<br>Architektur||2|2||||||2|
 |Vertiefungen im Bereich der bildenden Kunst und der<br>Architektur||2|5||||||5|
 
-|**Aufbaumodul II**||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Praxisbezogenes Studium vor Originalen|||**7,5 **||||7,5|||
-|**Aufbaumodul III**||||||||||
-|Praktikum||2|**7,5 **|||||7,5||
-|**Bachelorarbeit**||||||||||
-|Bachelorarbeit GW|||10||||||10|
+|**Aufbaumodul II**|||||
+|---|---|---|---|---|
+|Praxisbezogenes Studium vor Originalen|**7,5 **|7,5|||
+|**Aufbaumodul III**|||||
+|Praktikum|2<br>**7,5 **||7,5||
+|**Bachelorarbeit**|||||
+|Bachelorarbeit GW|10|||10|
 
 b) Die bisherigen Abs. 3 bis 5 werden zu Abs. 4 bis 6. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

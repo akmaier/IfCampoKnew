@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "21. Mai 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-2FachBA-Oekonomie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:08:52+00:00
-page_count_chars: 2497
+scraped_at: 2026-07-01T10:26:38+00:00
+page_count_chars: 2495
 ---
 
 # 21. Mai 2015
@@ -12,13 +12,13 @@ page_count_chars: 2497
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-2FachBA-Oekonomie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 21. Mai 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 22. Juli 2014, wird wie folgt geändert: 
 

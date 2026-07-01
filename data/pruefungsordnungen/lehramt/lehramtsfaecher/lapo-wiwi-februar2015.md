@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 01.04.2009 i.d.F. 27.02.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-WiWi-FEBRUAR2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:46+00:00
-page_count_chars: 14318
+scraped_at: 2026-07-01T08:44:39+00:00
+page_count_chars: 12004
 ---
 
 # pdf vom 01.04.2009 i.d.F. 27.02.2015
@@ -16,7 +16,7 @@ page_count_chars: 14318
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 1. April 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 1. April 2009** 
 
 geändert durch Satzungen vom 31. März 2010 27. Februar 2015 
 
@@ -40,37 +40,28 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Für das Studium der Wirtschaftswissenschaften im Lehramt an Gymnasien sind im Bereich Fachwissenschaft folgende Module abzulegen: 
 
-## (1) Für das Studium der Wirtschaftswissenschaften im Lehramt an Gymnasien sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+## <u>Fachwissenschaft 1.-6. Semester</u> 
 
-## Fachwissenschaft 1.-6. Semester 
-
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester||Art und Umfang der<br>|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||<br>in ECTS-Punkten1|||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|Prüfung||
-|Betriebswirtschaftslehre I|Betriebswirtschaftslehre I|4||||5|5|||||||||Klausur(90 Min.)|1|
-|Betriebswirtschaftslehre II|Betriebswirtschaftslehre II|4||||5||5||||||||Klausur(90 Min.)|1|
-|Betriebswirtschaftslehre III<br>(Bilanzierung)|Betriebswirtschaftslehre III|2||||5|||||5|||||Klausur (60 Min.)|1|
-||Betriebswirtschaftslehre III||1|||||||||||||||
-|Einführung in die<br>Volkswirtschaftslehre|Einführungin die Volkswirtschaftslehre|2||||5|5|||||||||Klausur (90 Min.)|1|
-||Einführungin die Volkswirtschaftslehre||1|||||||||||||||
-|Mikroökonomie|Mikroökonomie|2||||5||5||||||||computerbasierte<br>Tests (4-5 Einheiten<br>á 10 Fragen, 0%)2<br>und Klausur (90<br>Min., 100%)|1|
-||Mikroökonomie||1|||||||||||||||
-|Makroökonomie|Makroökonomie|2||||5|||5|||||||computerbasierte<br>Tests (4-5 Einheiten<br>á 10 Fragen, 0%)2<br>und Klausur (90<br>Min.,100%)|1|
-||Makroökonomie||1|||||||||||||||
-|Betriebliches<br>Rechnungswesen I|Betriebliches Rechnungswesen I|2||||5|||5|||||||Klausur (60 Min.)|1|
-||Betriebliches Rechnungswesen I||1|||||||||||||||
-|Betriebliches<br>Rechnungswesen II|Betriebliches Rechnungswesen II|2||||5||||5||||||Klausur (60 Min.)|1|
-||Betriebliches Rechnungswesen II||1|||||||||||||||
-|Statistik|Statistik|2||||5||||5||||||Klausur (90 Min.)|1|
-||Statistik||2|||||||||||||||
-|Volkswirtschaftliches<br>Proseminar|Volkswirtschaftliches Proseminar|||||||||||||||Vortrag (45-60 Min.)|1|
-||||||2|5|||||5|||||<br>und Hausarbeit (15||
-|||||||||||||||||S.)||
-|Recht für<br>Wirtschaftswissenschaftler I|Recht für Wirtschaftswissenschaftler I|2||||5|||||5|||||Klausur (90 Min.)|1|
-||Recht für Wirtschaftswissenschaftler I||1|||||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SW<br>|S|Gesamt<br>ECTS||Wor|kloa<br>i|d-Verteilung pro Semester<br>n ECTS-Punkten<sup>1</sup>|Art und Umfang der<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+||<br>V|<br>Ü<br>|P<br>S||1.|2.|3.|4.<br>5.<br>6.<br>7.<br>8.<br>9.|Prüfung<br>|<br>note|
+|Betriebswirtschaftslehre I|Betriebswirtschaftslehre I<br>4|||5|5||||Klausur(90 Min.)|1|
+|Betriebswirtschaftslehre II|Betriebswirtschaftslehre II<br>4|||5||5|||Klausur(90 Min.)|1|
+|Betriebswirtschaftslehre III|Betriebswirtschaftslehre III<br>2|||5||||5|Klausur (60 Min)|1|
+|(Bilanzierung)|Betriebswirtschaftslehre III|1|||||||.||
+|Einführung in die<br>Volkswirtschaftslehre|Einführungin die Volkswirtschaftslehre<br>2<br>Einführungin die Volkswirtschaftslehre|<br>1||5|5||||Klausur (90 Min.)|1|
+||Mikroökonomie<br>2||||||||computerbasierte<br>||
+|Mikroökonomie|Mikroökonomie|1||5||5|||Tests (4-5 Einheiten<br>á 10 Fragen, 0%)<sup>2</sup><br>und Klausur (90<br>Min., 100%)|1|
+|Makroökonomie|Makroökonomie<br>2<br>Makroökonomie|<br>1||5|||5||computerbasierte<br>Tests (4-5 Einheiten<br>á 10 Fragen, 0%)<sup>2</sup><br>und Klausur (90<br>Min.,100%)|1|
+|Betriebliches|Betriebliches Rechnungswesen I<br>2|||5|||5||Kl 60 Mi|1|
+|Rechnungswesen I|Betriebliches Rechnungswesen I|1|||||||ausur ( n.)||
+|Betriebliches<br>Rechnungswesen II|Betriebliches Rechnungswesen II<br>2<br>Betriebliches Rechnungswesen II|<br>1||5||||5|Klausur (60 Min.)|1|
+|Statistik|Statistik<br>2|||5||||5|Klausur (90 Min)|1|
+||Statistik|2|||||||.||
+|Volkswirtschaftliches<br>Proseminar|Volkswirtschaftliches Proseminar||2|5||||5|Vortrag (45-60 Min.)<br>und Hausarbeit (15<br>S.)|1|
+|Recht für<br>Wirtschaftswissenschaftler I|Recht für Wirtschaftswissenschaftler I<br>2<br>Recht für Wirtschaftswissenschaftler I|<br>1||5||||5|<br>Klausur (90 Min.)|1|
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -78,34 +69,25 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 2 
 
-|Recht für Wirtschaftswissen-<br>schaftler II|Recht für Wirtschaftswissenschaftler II||2||||5||||||||5|||||1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||||||Klausur (90 Min.)||
-||Recht für Wirtschaftswissenschaftler II|||1|||||||||||||||||
-||||||||||||||||||||||
-|Vertiefungsbereich|||||||||||||||||||||
-|Vertiefungsmodul<br>Volkswirtschaftslehre I|||||||5|||||5|||||||nach Maßgabe des<br>Faches3|1|
-|Vertiefungsmodul<br>Volkswirtschaftslehre II||||||||||||||||||||1|
-||||||||5||||||||5||||nach Maßgabe des<br>Fh3||
-||||||||||||||||||||aces||
-||Summe:|28||8|0|2|70|10|10|10||15||15|10||||||
+|Recht für Wirtschaftswissen-<br>schaftler II<br>Vertiefungsbereich|Recht für Wirtschaftswissenschaftler II<br>Recht für Wirtschaftswissenschaftler II|2<br>1|5||5|Klausur (90 Min.)|1|
+|---|---|---|---|---|---|---|---|
+|Vertiefungsmodul<br>Volkswirtschaftslehre I|||5|5||nach Maßgabe des<br>Faches<sup>3</sup>|1|
+|Vertiefungsmodul<br>Volkswirtschaftslehre II|||5||5|nach Maßgabe des<br>Faches<sup>3</sup>|1|
+||Summe:|28<br>8<br>0<br>2|70<br>10<br>10<br>10|<br>15<br>15|<br>10|||
 
-## Fachwissenschaft 7.-9. Semester 
+## <u>Fachwissenschaft 7.-9. Semester</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|<br>Workload-Verteilung pro Semester in<br>ECTS-Punkten4|Art und Umfang<br>d Püf|Faktor<br>Modulnot<br>e|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||||
-||||||||||ECTS-Punkten4|||||||||
-|||||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|er rung||
-|Hauptseminar<br>Volkswirtschaftslehre|Hauptseminar<br>Volkswirtschaftslehre||||2|5|||||||5|||Vortrag (45-60<br>Min.) und<br>Hausarbeit (15<br>S.)|1|
-|Hauptseminar<br>Betriebswirtschaftslehre|Hauptseminar<br>Betriebswirtschaftslehre||||2|5|||||||5|||Vortrag (45-60<br>Min.) und<br>Hausarbeit (15<br>S.)|1|
-|Wirtschaftsinformatik|nach Maßgabe des Faches|||||5||||||||5||nach Maßgabe<br>des Faches3|1|
-|Recht für<br>Wirtschaftswissen-<br>schaftler III<br>Recht für<br>Wirtschaftswissen-<br>schaftler IV|Recht für<br>Wirtschaftswissenschaftler III|2||||10||||||||5||Klausur (60 Min.)|1|
-||Recht für<br>Wirtschaftswissenschaftler III||1|||||||||||||||
-||Recht für<br>Wirtschaftswissenschaftler IV|2|||||||||||||5|||
-||Recht für<br>Wirtschaftswissenschaftler IV||1|||||||||||||||
-||Summe:|8|2|0|4|25|||||||10|10|5|||
+|Modulbezeichnung|Lehrveranstaltung||SWS<br><br>|Gesamt<br>ECTS<br>|Workload-<br> <br> <br>|Verteil<br>ECTS-<br><br>|ung pro Semester i<br>Punkten<sup>4</sup><br><br><br> <br>|n<br>Art und Umfang<br>der Prüfung<br>|Faktor<br>Modulnot|
+|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P|<br>S|1.<br>2.<br>3.|<br>4.|5.<br>6.<br>7.<br>8.|<br>9.|e|
+|Hauptseminar<br>Volkswirtschaftslehre|Hauptseminar<br>Volkswirtschaftslehre|||2<br>5|||5|Vortrag (45-60<br>Min.) und<br>Hausarbeit (15<br>S.)|1|
+|Hauptseminar<br>Betriebswirtschaftslehre|Hauptseminar<br>Betriebswirtschaftslehre|||2<br>5|||5|Vortrag (45-60<br>Min.) und<br>Hausarbeit (15<br>S.)|1|
+|Wirtschaftsinformatik|nach Maßgabe des Faches|||5|||5|nach Maßgabe<br>des Faches<sup>3</sup>|1|
+|Recht für|Recht für<br>Wirtschaftswissenschaftler III|2|||||5|||
+|Wirtschaftswissen-<br>schaftler III|Recht für<br>Wirtschaftswissenschaftler III||1|10||||Kl 60 Mi|1|
+|Recht für<br>Wirtschaftswissen-|Recht für<br>Wirtschaftswissenschaftler IV|2||||||ausur ( n.)<br>||
+|schaftler IV|Recht für<br>Wirtschaftswissenschaftler IV||1|||||5||
+||Summe:|8|2<br>0|4<br>25|||10<br>10|5||
 
 3 Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils gültigen FPO bzw. im Modulhandbuch geregelt. 
 
@@ -113,19 +95,14 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 3 
 
-## (2) In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen: 
+## <u>(2) In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen:</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|Workload-Verteilung pro Semester<br>Punkten5|in ECTS-|in ECTS-|Art und Umfang<br>der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||||
-|||||||||||<br>Punkten5||||||||
-|||||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|Grundlagen der<br>Fachdidaktik<br>Wirtschaftswissenschaft<br>en(Gymnasium)|Grundlagen der Fachdidaktik<br>Wirtschaftswissenschaften|4||||5|||5|||||||Klausur (90 Min.)|1|
-|Praxisfelder der<br>Fachdidaktik|Seminar Medien im<br>Wirtschaftsunterricht||||2|||||2,<br>5|||||||1|
-||Seminar Planung,<br>Durchführung und Reflexion im<br>ökonomischen Fachunterricht|||||5|||||2|||||Klausur (90 Min.)||
-||||||2||||||,<br>5|||||||
-||Summe:|4|0|0|4|10|0|0|5|2,5|2,5|2,5|2,5|0|0|||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P|Gesamt<br>ECTS<br>S|Workload-<br>1.<br>2.<br>|Ver<br>3.|teilun<br>P<br>4.|g pro<br>unkt<br>5.|Seme<br>en<sup>5</sup><br>6.|ster in ECTS-<br>7.<br>8.<br>9.|Art und Umfang<br>der Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Grundlagen der<br>Fachdidaktik<br>Wirtschaftswissenschaft<br>en(Gymnasium)|Grundlagen der Fachdidaktik<br>Wirtschaftswissenschaften|4||5||5|||||Klausur (90 Min.)|1|
+|Prifldr dr|Seminar Medien im<br>Wirtschaftsunterricht|||2|||2,<br>5||||||
+|axsee e<br>Fachdidaktik|Seminar Planung,<br>Durchführung und Reflexion im<br>ökonomischen Fachunterricht|||5<br>2||||2,<br>5|||Klausur (90 Min.)|1|
+||Summe:|4|0<br>0|4<br>10|0<br>0|5|2,5|2,5|2,5|2,5<br>0<br>0|||
 
 ## (3) Für einzelne Module gelten die nachfolgenden Voraussetzungen für die Zulassung zur Prüfung: 
 
@@ -139,41 +116,27 @@ Die Zulassung zum Modul „Volkswirtschaftliches Proseminar“ setzt die bestand
 
 ## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+<u>(1) Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft folgende Module abzulegen:</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Workload-Verteilung pro Semester<br>in ECTS-Punkten6|Art und Umfang<br>der Prüfung|||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||Faktor|
-|||||||||||||||||Modul-|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||note|
-|Betriebswirtschaftslehre I|Betriebswirtschaftslehre I|4||||5|5|||||||Klausur(90 Min.)||1|
-|Betriebswirtschaftslehre II|Betriebswirtschaftslehre II|4||||5||5||||||Klausur(90 Min.)||1|
-|Betriebswirtschaftslehre III<br>(Bilanzierung)|Betriebswirtschaftslehre III|2||||5|||||5|||Klausur (60 Min.)|||
-|||||||||||||||||1|
-||Betriebswirtschaftslehre III||1||||||||||||||
-||||||||||||||||||
-|Einführung in die<br>Volkswirtschaftslehre|Einführungin die Volkswirtschaftslehre|2||||5|5|||||||Klausur (90 Min.)||1|
-||Einführungin die Volkswirtschaftslehre||1||||||||||||||
-|Makroökonomie|Makroökonomie|2||||5|||5|||||computerbasierte Tests<br>(4-5 Einheiten á 10<br>Fragen, 0%)7und Klausur<br>(90 Min., 100%)|||
-||Makroökonomie||1|||||||||||||1|
-||||||||||||||||||
-|Betriebliches<br>Rechnungswesen I|Betriebliches Rechnungswesen I|2||||5|||5|||||Klausur (60 Min.)||1|
-||Betriebliches Rechnungswesen I||1||||||||||||||
-|Betriebliches<br>Rechnungswesen II|Betriebliches Rechnungswesen II|2||||5||||5||||Klausur (60 Min.)|||
-|||||||||||||||||1|
-||Betriebliches Rechnungswesen II||1||||||||||||||
-||||||||||||||||||
-|Volkswirtschaftliches<br>Proseminar|Volkswirtschaftliches Proseminar||||2|5|||||5|||Vortrag (45-60 Min.) und<br>Hausarbeit (15 S.)||1|
-|Recht für<br>Wirtschaftswissenschaftler I|Recht für Wirtschaftswissenschaftler I|2||||5|||||5|||Klausur (90 Min.)|||
-|||||||||||||||||1|
-||Recht für Wirtschaftswissenschaftler I||1||||||||||||||
-||||||||||||||||||
-|Recht für<br>Wirtschaftswissenschaftler II|Recht für Wirtschaftswissenschaftler II|2||||5||||||5||Klausur (90 Min.)||1|
-||Recht für Wirtschaftswissenschaftler II||1||||||||||||||
-|Vertiefungsbereich|||||||||||||||||
-|Vertiefungsmodul<br>Volkswirtschaftslehre I||||||5||||5||||nach Maßgabe des Faches8||1|
-|Vertiefungsmodul<br>Volkswirtschaftslehre II||||||5||||||5||nach Maßgabe des Faches8||1|
-||Summe:|32|10|0|2|70|10|5|10|10|15|10|||||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P|Gesamt<br>ECTS<br>S|Workload<br>i<br>1.<br>2.|-Verteilung pro Semester<br>n ECTS-Punkten<sup>6</sup><br>3.<br>4.<br>5.<br>6.<br>7.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|Betriebswirtschaftslehre I|Betriebswirtschaftslehre I|4||5|5||Klausur(90 Min.)|1|
+|Betriebswirtschaftslehre II|Betriebswirtschaftslehre II|4||5|5||Klausur(90 Min.)|1|
+|Betriebswirtschaftslehre III<br>(Bilanzierung)|Betriebswirtschaftslehre III<br>Betriebswirtschaftslehre III|2|1|5||5|Klausur (60 Min.)|1|
+|Einführung in die|Einführungin die Volkswirtschaftslehre|2||5|5||Kl 90 Mi|1|
+|Volkswirtschaftslehre|Einführungin die Volkswirtschaftslehre||1||||ausur ( n.)||
+|Makroökonomie|Makroökonomie<br>Makroökonomie|2|1|5||5|computerbasierte Tests<br>(4-5 Einheiten á 10<br>Fragen, 0%)<sup>7</sup>und Klausur<br>(90 Min., 100%)|1|
+|Betriebliches|Betriebliches Rechnungswesen I|2||5||5|Kl 60 Mi|1|
+|Rechnungswesen I|Betriebliches Rechnungswesen I||1||||ausur ( n.)||
+|Betriebliches<br>Rechnungswesen II|Betriebliches Rechnungswesen II<br>Betriebliches Rechnungswesen II|2|1|5||5|Klausur (60 Min.)|1|
+|Volkswirtschaftliches<br>Proseminar|Volkswirtschaftliches Proseminar|||2<br>5||5|Vortrag (45-60 Min.) und<br>Hausarbeit (15 S.)|1|
+|Recht für<br>Wirtschaftswissenschaftler I|Recht für Wirtschaftswissenschaftler I<br>Recht für Wirtschaftswissenschaftler I|2|1|5||5|Klausur (90 Min.)|1|
+|Recht für|Recht für Wirtschaftswissenschaftler II|2|||||||
+|Wirtschaftswissenschaftler II|Recht für Wirtschaftswissenschaftler II||1|5||5|Klausur (90 Min.)|1|
+|Vertiefunsbereich|||||||||
+|g <br>Vertiefungsmodul<br>Volkswirtschaftslehre I||||5||5|nach Maßgabe des Faches<sup>8</sup>|1|
+|Vertiefungsmodul<br>Volkswirtschaftslehre II||||5||5|nach Maßgabe des Faches<sup>8</sup>|1|
+||Summe:|32|10<br>0|2<br>70|10<br>5|10<br>10<br>15<br>10|||
 
 > 6 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 
@@ -183,27 +146,21 @@ Die Zulassung zum Modul „Volkswirtschaftliches Proseminar“ setzt die bestand
 
 5 
 
-## (2) In der Fachdidaktik für das Lehramt an Realschulen werden folgende Module angeboten: 
+## <u>(2) In der Fachdidaktik für das Lehramt an Realschulen werden folgende Module angeboten:</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Workload-Verteilung pro Semester<br>in ECTS-Punkten9|Art und Umfang<br>d Püf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-|||||||||in ECTS-Punkten9||||||||
-|||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|er rung||
-|Grundlagen der<br>Fachdidaktik<br>Wirtschaftswissenschaft<br>en(Realschule)|Grundlagen der Fachdidaktik<br>Wirtschaftswissenschaften|4||||7|||5|||||Klausur (90 Min)|1|
-||Berufsfeldorientierung||1||||||2|||||||
-|Praxisfelder der<br>Fachdidaktik<br>Wirtschaftswissenschaft<br>en|Medien im Wirtschaftsunterricht||||2|||||2,5||||Klausur (90 Min.)|1|
-||Planung, Durchführung und<br>Reflexion im Ökonomischen<br>Fachunterricht||||2|5||||2,5||||||
-||Summe:|4|1|0|4|12|0|0|7|5|0|0|0|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>W<br>1|orkload-Verteilung<br>in ECTS-Pun<br>.<br>2.<br>3.<br>4.|pro Semester<br>kten<sup>9</sup><br>5.<br>6.<br>7.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|Grundlagen der<br>Fachdidaktik|Grundlagen der Fachdidaktik<br>Wirtschaftswissenschaften|4|7|5||Kl 90 Mi|1|
+|Wirtschaftswissenschaft<br>en(Realschule)|Berufsfeldorientierung|1||2||ausur ( n)||
+|Praxisfelder der|Medien im Wirtschaftsunterricht|2||2,5||||
+|Fachdidaktik<br>Wirtschaftswissenschaft<br>en|Planung, Durchführung und<br>Reflexion im Ökonomischen<br>Fachunterricht|2|5|2,5||Klausur (90 Min.)|1|
+||Summe:|4<br>1<br>0<br>4|12<br>0|<br>0<br>7<br>5|0<br>0<br>0|||
 
 ## (3) Die Zulassung zum Modul „Volkswirtschaftliches Proseminar“ setzt das bestandene Modul „Makroökonomie“ voraus 
 
 ## **4. Schluss- und Übergangsvorschriften** 
 
-## **§ 6 In-Kraft-Treten** 
-
-Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+## **§ 6 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 > 9 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 

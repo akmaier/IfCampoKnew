@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Dezember 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-LSE.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:43+00:00
-page_count_chars: 2680
+scraped_at: 2026-07-01T11:25:32+00:00
+page_count_chars: 2682
 ---
 
 # 10. Dezember 2008
@@ -12,7 +12,7 @@ page_count_chars: 2680
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-LSE.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOLSE-BScMc)** 
+# **Dritte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOLSE-BScMc)** 
 
 ## Vom 10. Dezember 2008 
 
@@ -30,7 +30,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science E
 
    - c) In Nr. 7 werden vor die Worte „Instrumentelle Analytik“ die Worte „Messtechnik und„ eingefügt. 
 
-2. § 38 Abs. 1 wird wie folgt geändert: 
+## 2. § 38 Abs. 1 wird wie folgt geändert: 
 
    - a) In Nr. 2. a) wird nach dem Wort „Mathematik“ der Buchstabe „ D “ eingefügt. 
 

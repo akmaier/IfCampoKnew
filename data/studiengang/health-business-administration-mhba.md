@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Rechts- und Wirtschaftswissenschaftliche Fak
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-05-01T06:46:07+00:00
+scraped_at: 2026-07-01T08:22:49+00:00
 ---
 
 # Health Business Administration (MHBA)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:46:07+00:00
 
 Das deutsche Gesundheitswesen wird verstärkt als Wachstumsbranche erkannt. Viele der Akteure in dieser Branche haben sehr spezialisiertes Fachwissen. Aufgrund der notwendigen Ökonomisierung auch im Gesundheitswesen wird es allerdings zunehmend wichtig, sich interdisziplinär auszubilden und insbesondere mit wirtschaftswissenschaftlichem Fachwissen bzw. Sichtweisen vertraut zu sein.
 
-Der Studiengang wendet sich insbesondere an im Gesundheitswesen Beschäftigte mit einer nicht-ökonomischen Vorbildung (z. B. Ärzte, Pharmazeuten, Pflegewissenschaftler, Medizintechniker). Durch das berufsbegleitende Fernstudium **„Master of Health Business Administration“** sollen die Kompetenzen aller möglichen Fach- und Führungskräfte im Gesundheitswesen speziell im Bereich der Betriebswirtschaftslehre auf universitärem Niveau aufgebaut und verstärkt werden. Dies geschieht durch eine stringente Vermittlung relevanter betriebswirtschaftlicher Elemente im Gesundheitswesen.
+Der Studiengang wendet sich insbesondere an im Gesundheitswesen Beschäftigte mit einer nicht-ökonomischen Vorbildung (z. B. Ärzte, Pharmazeuten, Pflegewissenschaftler, Medizintechniker). Durch das berufsbegleitende Fernstudium **„Master of Health Business Administration“** **(MHBA)** sollen die Kompetenzen aller möglichen Fach- und Führungskräfte im Gesundheitswesen speziell im Bereich der Betriebswirtschaftslehre auf universitärem Niveau aufgebaut und verstärkt werden. Dies geschieht durch eine stringente Vermittlung relevanter betriebswirtschaftlicher Elemente im Gesundheitswesen.
 
 [Weiterführende Informationen erhalten Sie auch auf der Website des Studiengangs.](https://www.mhba.de/home/)
 
@@ -112,7 +112,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.mhba.de/fileadmin/mhba_material/formulare/MHB_MHBA_1920.pdf)
+* [Modulhandbuch](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2025/MHBA_Modulhandbuch_WiSe2526.pdf)
 * [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/#health-business-administration-mhba)
 
 Weitere Informationen
@@ -145,7 +145,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.mhba.de/fileadmin/mhba_material/formulare/MHB_MHBA_1920.pdf)
+- [Modulhandbuch](https://www.mhba.de/fileadmin/mhba_material/formulare/Zulassung_Version_2025/MHBA_Modulhandbuch_WiSe2526.pdf)
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/#health-business-administration-mhba)
 - [Prüfungsamt Fachbereich Wirtschafts- und Sozialwissenschaften](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-rw/wirtschafts-und-sozialwissenschaften/)
 - [Webseite des Departments/Instituts](https://www.wiso.rw.fau.de/)

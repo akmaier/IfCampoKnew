@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Musik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:15:09+00:00
-page_count_chars: 4042
+scraped_at: 2026-07-01T08:42:33+00:00
+page_count_chars: 4021
 ---
 
 # 31. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 4042
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Musik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Musik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Musik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 31. März 2010 
+# Vom 31. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Musik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009 wird wie folgt geändert: 
 
@@ -28,22 +28,20 @@ Die Fachstudien- und Prüfungsordnung für das Fach Musik im Lehramtsstudiengang
 
 - „ 
 
-|„|||||
-|---|---|---|---|---|
 |Praxisbezogene Musiktheorie 2|4|6|Eignungsprüfung|Schriftliche Klausur 3h|
+|---|---|---|---|---|
 |Musikwissenschaft 1|4|4|Eignungsprüfung|Präsentation|
 |Musikwissenschaft 2|6|7|Eignungsprüfung|Mündliche Prüfung|
 |Analyse|4|5|Musikwissenschaft 2|Erfolgreiche Teilnahme|
 
 „ 
 
-## 3. In § 3 (neu) Abs. 1 erhalten die Zeilen 9 bis 12 der Tabelle folgende Fassung: 
+# 3. In § 3 (neu) Abs. 1 erhalten die Zeilen 9 bis 12 der Tabelle folgende Fassung: 
 
 „ 
 
-|„|||||
-|---|---|---|---|---|
 |Praxisbezogene Musiktheorie 2|4|6|Eignungsprüfung|Schriftliche Klausur 3h|
+|---|---|---|---|---|
 |Musikwissenschaft 1|4|4|Eignungsprüfung|Präsentation|
 |Musikwissenschaft 2|6|7|Eignungsprüfung|Mündliche Prüfung|
 |Analyse|4|5|Musikwissenschaft 2|Erfolgreiche Teilnahme|
@@ -70,7 +68,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Musik im Lehramtsstudiengang
 
 6. In der Tabelle zum Angebot des Lehramts an Grundschulen im Freien Bereich werden in der Zeile 5 Spalte 2 die Zahl „3“ durch die Zahl „4“ und in der Spalte 3 die Zahl „4“ durch die Zahl „3“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am 1. Oktober 2009 in Kraft. Die Änderungen in den Modulen „Modelle musikalischer Praxis“ und „Fachbezogenes Lehren und Lernen“ (Ziffer 5 c und d) finden auf alle Studierenden Anwendung, die diese Module noch nicht abgelegt haben. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Januar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES LA-Geographie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:09:15+00:00
-page_count_chars: 18323
+scraped_at: 2026-07-01T08:38:57+00:00
+page_count_chars: 18297
 ---
 
 # 14. Januar 2013
@@ -12,29 +12,27 @@ page_count_chars: 18323
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES LA-Geographie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 14. Januar 2013 
+# Vom 14. Januar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**==> picture [20 x 12] intentionally omitted <==**
-
 Die Fachstudienund Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 10. März 2009 wird wie folgt geändert: 
 
-## 1. § 2 wird wie folgt geändert: 
+# 1. § 2 wird wie folgt geändert: 
 
-   - a) In Satz 1 werden nach den Worten „Lehramts an Gymnasien“ die Worte „das Modul GLG 1 und 10 ECTS-Punkte aus den Modulen GLG 2 oder GLG 3 (zusammen 20 ECTS)“ durch die Worte „die Module GLG 1, GLG 2, GLG 4 und GLG 5 (zusammen 20 ECTS-Punkte)“ ersetzt. 
+- a) In Satz 1 werden nach den Worten „Lehramts an Gymnasien“ die Worte „das Modul GLG 1 und 10 ECTS-Punkte aus den Modulen GLG 2 oder GLG 3 (zusammen 20 ECTS)“ durch die Worte „die Module GLG 1, GLG 2, GLG 4 und GLG 5 (zusammen 20 ECTS-Punkte)“ ersetzt. 
 
-   - b) In Satz 2 werden nach den Worten „Modul GLR 1“ die Worte „und das Modul GLR 4 eingefügt. 
+- b) In Satz 2 werden nach den Worten „Modul GLR 1“ die Worte „und das Modul GLR 4 eingefügt. 
 
-   - c) In Satz 3 werden nach den Worten „das Modul GGH 1“ die Worte „und GGH 3“ eingefügt. 
+- c) In Satz 3 werden nach den Worten „das Modul GGH 1“ die Worte „und GGH 3“ eingefügt. 
 
-2. § 5 wird wie folgt geändert: 
+# 2. § 5 wird wie folgt geändert: 
 
-   - a) Abs. 1 und 2 erhalten folgende neue Fassung: 
+- a) Abs. 1 und 2 erhalten folgende neue Fassung: 
 
-## „(1) In der Fachwissenschaft sind folgende Module abzulegen: 
+# „(1) In der Fachwissenschaft sind folgende Module abzulegen: 
 
 |**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
@@ -57,14 +55,14 @@ Die Fachstudienund Prüfungsordnung für das Fach Geographie im Lehramtsstudieng
 
 1 
 
-|4. FS|Hauptseminar KG|4|Portfolioprüfung: Hausarbeit<br>(10-30 Seiten) + Referat<br>(Hauptseminar), SL Vor- oder<br>Nacharbeit (Kl.<br>Geländeseminar)|
+|4. FS|Hauptseminar KG|4|Portfolioprüfung: Hausarbeit|
 |---|---|---|---|
-|5. FS|Hauptseminar PG|4||
-|4. FS|Kleines Geländeseminar (3 Tage)|2||
+|5. FS|Hauptseminar PG|4|(10-30 Seiten) + Referat<br>|
+|4. FS|Kleines Geländeseminar (3 Tage)|2|(Hauptseminar), SL Vor- oder<br>Nacharbeit (Kl.<br>Geländeseminar)|
 |**GLG 9**|**Lehramt Methoden II**|**10**||
-|4. FS|Geländepraktikum|5|Portfolioprüfung: SL<br>Hausaufgaben<br>(Geländepraktikum),<br>SL Vor- oder Nacharbeit (Kl.<br>Geländeseminar),<br>Hausarbeit (10-20 Seiten,<br>Karteninterpretation)|
-|4. FS|Kleines Geländeseminar|2||
-|5. FS|Übung: Karteninterpretation|3||
+|4. FS|Geländepraktikum|5|Portfolioprüfung: SL|
+|4. FS|Kleines Geländeseminar<br>|2|Hausaufgaben<br>|
+|5. FS|Übung: Karteninterpretation|3|(Geländepraktikum),<br>SL Vor- oder Nacharbeit (Kl.<br>Geländeseminar),<br>Hausarbeit (10-20 Seiten,<br>Karteninterpretation)|
 |**GLG 10**|**Spezielle Themenfelder der KG und der**<br>**Regionalen Geographie**|**10**||
 |5. FS|Vorlesung: KG Vertieft oder Regionale<br>Geographie|4|SL: Hausaufgaben|
 |6. FS|Vorlesung: KG Vertieft oder Regionale<br>Geographie|4|SL: Hausaufgaben|
@@ -74,23 +72,23 @@ Die Fachstudienund Prüfungsordnung für das Fach Geographie im Lehramtsstudieng
 |7. FS|Vorlesung: PG Vertieft oder Regionale<br>Geographie|4|SL: Hausaufgaben|
 |6. FS|Kolloquium Physische Geographie|2|SL: Diskussion 30 Min.|
 |**GLG 12**|**Regionale Geographie**|**15**||
-|7. FS|Hauptseminar zum Großen Geländeseminar|5|Portfolioprüfung:<br>Hausarbeit (10-30 Seiten) +<br>Referat (Hauptseminar)<br>Vor- und Nacharbeit (Großes<br>Geländeseminar)|
-|8. FS|Großes Geländeseminar (mindestens 8 Tage)|10||
+|7. FS|Hauptseminar zum Großen Geländeseminar|5|Portfolioprüfung:|
+|8. FS|Großes Geländeseminar (mindestens 8 Tage)|10|Hausarbeit (10-30 Seiten) +<br>Referat (Hauptseminar)<br>Vor- und Nacharbeit (Großes<br>Geländeseminar)|
 
-## (2) In der Fachdidaktik sind folgende Module abzulegen: 
+<u>(2) In der Fachdidaktik sind folgende Module abzulegen:</u> 
 
-|<br>**Name des**<br>**Moduls**||<br>**Veranstaltungen**|<br>**ECTS**|<br>**SWS**|<br>**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse des<br>Geographie-<br>unterrichts|V|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen<br>der Geographie-<br>didaktik“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterri<br>chts“|3|2|keine||
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien -<br>Überblick“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1b.2<br>Seminar<br>„Methoden und<br>Medien –<br>VertiefungI“|3|2|keine||
+|<br>**Name des**<br>**Moduls**|<br>**Veranstaltungen**|<br>**ECTS**|<br>**SWS**|<br>**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse des|V<br>DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen<br>der Geographie-<br>didaktik“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
+|Geographie-<br>unterrichts|S<br>DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterri<br>chts“|3|2|keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
+|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte|S<br>DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien -<br>Überblick“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
+|rrichts|S<br>DIDGEO1b.2<br>Seminar<br>„Methoden und<br>Medien –<br>VertiefungI“|3|2|keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
 
 „ 
 
 2 
 
-## b) Abs. 3 wird wie folgt geändert: 
+# b) Abs. 3 wird wie folgt geändert: 
 
       - aa) In Zeile 1 Spalte 7 wird das Wort „Prüfungsleistungen“ durch das Wort „Studienleistungen“ ersetzt. 
 
@@ -100,7 +98,7 @@ Die Fachstudienund Prüfungsordnung für das Fach Geographie im Lehramtsstudieng
 
    - a) Abs. 1 und 2 erhalten folgende Fassung: 
 
-- „(1) In der Fachwissenschaft sind folgende Module abzulegen: 
+# „(1) In der Fachwissenschaft sind folgende Module abzulegen: 
 
 |**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
@@ -117,49 +115,51 @@ Die Fachstudienund Prüfungsordnung für das Fach Geographie im Lehramtsstudieng
 |**GLR 6**|**Seminar PG mit Geländetag**|**5**||
 |1. oder 2. FS|Seminar PG + Geländetag|5|Hausaufgaben|
 |**GLR 7**|**Methoden Lehramt**|**10**||
-|3. FS|Vorlesung: Kartographie und Geoinformation|5|SL: Hausaufgaben|
-|4. FS|Geländepraktikum|5||
+|3. FS|Vorlesung: Kartographie und Geoinformation|5|SL Hfb|
+|4. FS|Geländepraktikum|5|: ausaugaen|
 |**GLR 8**|**Regionale Geographie**|**5**||
 |5. FS|Regionalvorlesung|3|SL: Hausaufgaben|
 |4. FS|Kleines Geländeseminar (3 Tage)|2|SL: Vor-oder Nacharbeit|
 |**GLR 9**|**Regionale Geographie vertieft**|**15**||
-|5. FS|Hauptseminar zum großen Geländeseminar|5|Portfolioprüfung:<br>Hausarbeit (10-30 Seiten) <br>+ Referat (Hauptseminar)<br>Vor- und Nacharbeit<br>(Großes Geländeseminar)|
-|6. FS|Großes Geländeseminar (mindestens 8 Tage)|10||
+|5. FS|Hauptseminar zum großen Geländeseminar|5|Portfolioprüfung:|
+|6. FS|Großes Geländeseminar (mindestens 8 Tage)|10|Hausarbeit (10-30 Seiten) <br>+ Referat (Hauptseminar)<br>Vor- und Nacharbeit<br>(Großes Geländeseminar)|
 
-## (2) In der Fachdidaktik sind folgende Module abzulegen: 
+# <u>(2) In der Fachdidaktik sind folgende Module abzulegen:</u> 
 
-|<br>**Name des**<br>**Moduls**||<br>**Veranstaltungen**|<br>**ECTS**|<br>**SWS**|<br>**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>des<br>Geographieunte<br>rrichts|V<br>S|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-|||DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|keine||
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
+|<br>**Name des**<br>**Moduls**|<br>**Veranstaltungen**|<br>**ECTS**|<br>**SWS**|<br>**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse|V DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
+|<br>des<br>Geographieunte<br>rrichts|S DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
+|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|<br>S DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
 
 3 
 
-S DIDGEO 1b.2 3 2 keine + Unterrichtsentwurf Seminar (15 Seiten, 50%) „Methoden und Medien – Vertiefung I“ 
++ Unterrichtsentwurf (15 Seiten, 50%) 
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden können (Wahlpflicht). 
+S DIDGEO 1b.2 3 2 keine Seminar „Methoden und Medien – Vertiefung I“ 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungsvorau**<br>**ssetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S<br>S|DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|2/3|2|keine|- Schriftliche Hausarbeit<br>(10 bzw. 15 Seiten,<br>100%)|
-|||DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|keine|- Schriftliche Hausarbeit<br>(10 bzw. 15 Seiten,<br>100%)|
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden <u>können (Wahlpflicht).</u> 
+
+|<br>**Name des**<br>**Moduls**|<br>**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungsvorau**<br>**ssetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S<br>DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|2/3|2|keine|- Schriftliche Hausarbeit<br>(10 bzw. 15 Seiten,<br>100%)|
+||S<br>DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|keine|- Schriftliche Hausarbeit<br>(10 bzw. 15 Seiten,<br>100%)|
 
 „ 
 
-## b) Abs. 3 wird wie folgt geändert: 
+# b) Abs. 3 wird wie folgt geändert: 
 
 - aa) In Zeile 1 Spalte 7 wird das Wort „Prüfungsleistungen“ durch das Wort „Studienleistungen“ ersetzt. 
 
 bb) In Zeile 3 (Modul 3 / P) Spalte 4 (ECTS) werden in Spalte 7 (Studienleistungen) die Worte „vor- oder nachbereitende Arbeiten“ ersatzlos gestrichen. 
 
-## 4. § 7 erhält folgende neue Fassung: 
+# 4. § 7 erhält folgende neue Fassung: 
 
-## „ **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
+# „ **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) In der Fachwissenschaft sind folgende Module abzulegen: 
+# <u>(1) In der Fachwissenschaft sind folgende Module abzulegen:</u> 
 
-|**Semester**|**Modul**|**ECTS**|**Prüfungsleistung**|
+|<br>**Semester**|<br>**Modul**|<br>**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |**GGH 1**|**Einführung in die PG**|**5**||
 |1. FS|Vorlesung: EinführungindiePG|5|Klausur(45Min.)|
@@ -177,99 +177,96 @@ bb) In Zeile 3 (Modul 3 / P) Spalte 4 (ECTS) werden in Spalte 7 (Studienleistung
 |4. FS|Regionalvorlesung|4|SL: Hausaufgaben|
 |4. FS|Kleines Geländeseminar (3 Tage)|2|SL: Vor-oder Nacharbeit|
 |**GGH 7**|**Regionale Geographie vertieft**|**15**||
-|5. FS|Hauptseminar zum großen Geländeseminar|5|Portfolioprüfung:<br>Hausarbeit (10-30 Seiten)<br>+ Referat (Hauptseminar)<br>Vor- und Nacharbeit<br>(Großes Geländeseminar)|
-|6. FS|Großes Geländeseminar (mindestens 8 Tage)|10||
+|5. FS|Hauptseminar zum großen Geländeseminar|5|Portfolioprüfung:|
+|6. FS|Großes Geländeseminar (mindestens 8 Tage)|10|Hausarbeit (10-30 Seiten)<br>+ Referat (Hauptseminar)<br>Vor- und Nacharbeit<br>(Großes Geländeseminar)|
 
 4 
 
-(2) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Grundschulen folgende Module abzulegen: 
+(2) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Grundschulen <u>folgende Module abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>des<br>Geographieunte<br>rrichts|V|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-<br>didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf (15<br>Seiten, 50%)|
-||S|DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterric<br>hts“|3|2|Keine||
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf (15<br>Seiten, 50%)|
-||S|DIDGEO1b.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>I“|3|2|Keine||
+|<br>**Name des**<br>**Moduls**|<br>**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>|V DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-<br>didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>|
+|des<br>Geographieunte<br>rrichts|S DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterric<br>hts“|3|2|Keine|+ Unterrichtsentwurf (15<br>Seiten, 50%)|
+|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>|S DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)|
+|Geographieunte<br>rrichts|S DIDGEO1b.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>I“|3|2|Keine|+ Unterrichtsentwurf (15<br>Seiten, 50%)|
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden können (Wahlpflicht). 
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden <u>können (Wahlpflicht).</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S|DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
-||S|DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S<br>DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
+||S<br>DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
 
-(3) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Grundschulen folgende Module abzulegen: 
+(3) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Grundschulen <u>folgende Module abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzunge**<br>**n**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>des<br>Geographieunte<br>rrichts|V|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts|3|2|Keine||
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzunge**<br>**n**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>|V DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>|
+|und Analyse<br>des<br>Geographieunte<br>rrichts|S DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
 
 5 
 
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min., 50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-|---|---|---|---|---|---|---|
-||S|DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungI“|<br>3|2|Keine||
+|Modul 1b<br>(DIDGEO)<br>Methoden und|S DIDGEO1b.1<br>Seminar<br>„Methoden und<br>|2|2|Keine|Portfolioprüfung:|
+|---|---|---|---|---|---|
+|Medien des<br>Geographieunte|Medien - Überblick“<br>||||Klausur (45 Min., 50%)|
+|rrichts|S DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungI“|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
 
-Zusätzlich kommt zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten 1 weiterer ECTS-Punkt hinzu, der aus den Veranstaltungen von Modul 2 gewählt werden kann (Wahlpflicht). 
+Zusätzlich kommt zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten 1 weiterer ECTS-Punkt hinzu, der aus den Veranstaltungen von Modul 2 gewählt werden <u>kann (Wahlpflicht).</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S|DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|1/2|2|Keine|- Schriftliche<br>Hausarbeit (5 bzw.<br>10 Seiten, 100%)|
-||S|DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S<br>DIDGEO2.1<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>II“|1/2|2|Keine|- Schriftliche<br>Hausarbeit (5 bzw.<br>10 Seiten, 100%)|
+||S<br>DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
 
-(4) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Hauptschulen folgende Module abzulegen: 
+(4) Im Bereich Fachdidaktik des Unterrichtsfachs sind für das Lehramt an Hauptschulen <u>folgende Module abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>des<br>Geographieunte<br>rrichts|V|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|Keine||
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– Vertiefung I“|<br>3|2|Keine||
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung|V DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)|
+|und Analyse<br>des<br>Geographieunte<br>rrichts|S DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
+|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des|<br>S DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)|
+|Geographieunte<br>rrichts|S DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– Vertiefung I“|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
 
-Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden können (Wahlpflicht). 
+Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 2 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2 gewählt werden <u>können (Wahlpflicht).</u> 
 
-|<br>**Name des**<br>**Moduls**||<br>**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2<br>(DIDGEO)<br>Universitätss|S|DIDGEO2.1<br>Seminar<br>„Methodenund|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten,100%)|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2<br>(DIDGEO)<br>Universitätss|S<br>DIDGEO2.1<br>Seminar<br>„Methodenund|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten,100%)|
 
 6 
 
-|pezifische<br>Ausrichtung||Medien –Vertiefung II“|||||
-|---|---|---|---|---|---|---|
-||S|DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“|2/3|2|Keine|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)|
-
-## (5) Im Bereich Fachdidaktik der Fächergruppe sind für das Lehramt an Hauptschulen folgende Module abzulegen: 
-
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br>und Analyse<br>des<br>Geographieunte<br>rrichts|V|DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|Keine||
-|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br>Geographieunte<br>rrichts|S|DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)<br>+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
-||S|DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungI“|<br>3|2|Keine||
+|pezifische<br>Ausrichtung<br>Medien –Vertiefung II“<br>|||||
+|---|---|---|---|---|
+|<br>S<br>DIDGEO2.2<br>Seminar<br>„Methoden und<br>Medien – Vertiefung<br>III“<br>(5) Im Bereich Fachdidaktik der Fäche<br>folgende Module abzulegen:<br> <br>|2/3<br>rgruppe<br>|2<br>sind f<br>|Keine<br>ür das Lehramt an<br>|- Schriftliche<br>Hausarbeit (10 bzw.<br>15 Seiten, 100%)<br>Hauptschulen<br>|
+|**Name des**<br>**Moduls**<br>**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|Modul 1a<br>(DIDGEO)<br>Grundlagen der<br>Geographiedida<br>ktik / Planung<br> <br>V DIDGEO1a.1<br>Vorlesung<br>„Grundlagen und<br>aktuelle Fragen der<br>Geographie-didaktik“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)|
+|und Analyse<br>des<br>Geographieunte<br>rrichts<br>S DIDGEO1a.2<br>Seminar:<br>„Planung  und<br>Analyse des<br>Geographieunterrichts<br>“|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
+|Modul 1b<br>(DIDGEO)<br>Methoden und<br>Medien des<br><br>S DIDGEO1b.1<br>Seminar<br>„Methoden und<br>Medien - Überblick“|2|2|Keine|Portfolioprüfung:<br>Klausur (45 Min.,<br>50%)|
+|Geographieunte<br>rrichts<br>S DIDGEO1b.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungI“|3|2|Keine|+ Unterrichtsentwurf<br>(15 Seiten, 50%)|
 
 Zusätzlich kommen zu den in den Modulen 1a und 1b festgelegten 10 ECTS-Punkten weitere 10 ECTS-Punkte hinzu, die aus den Veranstaltungen von Modul 2a und/oder 2b gewählt werden können (Wahlpflicht). 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECT**<br>**S**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 2a<br>(DIDGEO)<br>Universitätss<br>pezifische<br>Ausrichtung|S|DIDGEO2.1<br>Seminar<br>„Methoden und Medien<br>– VertiefungII“|2|2|Keine|- Schriftliche<br>Hausarbeit (10<br>Seiten, 100%)|
-||S|DIDGEO2.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungIII“|3|2|Keine|- Schriftliche<br>Hausarbeit (15<br>Seiten, 100%)|
-|Modul 2b<br>(GEO)<br>Fachwissens<br>chaft für<br>Didaktiken<br>einer<br>Fächergrupp<br>e (Angebot<br>des Instituts<br>für<br>Geographie)|V|GEOKG1/PG1<br>Einführungsvorlesung<br>Kulturgeo. + Phys. Geo.|3|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
-||V|GEOKG2<br>Grundvorlesung<br>Kulturgeographie|5|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
-||V|GEOPG3<br>Grundvorlesung<br>Physische Geographie|5|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
+|**Name des**<br>**Moduls**|**Veranstaltungen**|**ECT**<br>**S**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|---|---|---|---|---|---|
+|Modul 2a<br>(DIDGEO)<br>Universitätss<br>pezifische|S<br>DIDGEO2.1<br>Seminar<br>„Methoden und Medien<br>– VertiefungII“|2|2|Keine|- Schriftliche<br>Hausarbeit (10<br>Seiten, 100%)|
+|Ausrichtung|S<br>DIDGEO2.2<br>Seminar<br>„Methoden und Medien<br>– VertiefungIII“|3|2|Keine|- Schriftliche<br>Hausarbeit (15<br>Seiten, 100%)|
+|Modul 2b<br>(GEO)<br>Fachwissens<br>|V<br>GEOKG1/PG1<br>Einführungsvorlesung<br>Kulturgeo. + Phys. Geo.|3|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
+|chaft für<br>Didaktiken<br>einer<br>Fächergrupp|V<br>GEOKG2<br>Grundvorlesung<br>Kulturgeographie|5|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
+|e (Angebot<br>des Instituts<br>für<br>Geographie)|V<br>GEOPG3<br>Grundvorlesung<br>Physische Geographie|5|2|nach Maßgabe des<br>Faches|nach Maßgabe des<br>Faches|
 
 7 
 
-(6) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+(6) Falls das studienbegleitende fachdidaktische Praktikum im Fach Geographie belegt <u>wird, ist folgendes Modul erfolgreich abzulegen:</u> 
 
-|**Name des**<br>**Moduls**||**Veranstaltungen**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Studienleistungen**|
-|---|---|---|---|---|---|---|
-|Modul 3<br>(DIDGEO)<br>Praktikum|S|DIDGEO3.1<br>Theorie-Praxis-<br>Seminar|2|2||kleinere vor- oder<br>nachbereitende<br>Arbeiten|
-||P|DIDGEO3.2<br>Fachdidaktisch<br>betreutes Praktikum|3|4||wöchentlich 4<br>Stunden Hospitation<br>an<br>Praktikumsschulen,<br>Unterrichtsversuche,<br>Praktikumsbericht|
+|<br>**Name des**<br>**Moduls**|<br>**Veranstaltungen**|<br>**ECTS**|<br>**SWS**|**Zulassungs-**<br>**voraussetzungen**|**Studienleistungen**|
+|---|---|---|---|---|---|
+|Modul 3<br>(DIDGEO)<br>Praktikum|S<br>DIDGEO3.1<br>Theorie-Praxis-<br>Seminar|2|2||kleinere vor- oder<br>nachbereitende<br>Arbeiten|
+||P<br>DIDGEO3.2<br>Fachdidaktisch<br>betreutes Praktikum|3|4||wöchentlich 4<br>Stunden Hospitation<br>an<br>Praktikumsschulen,<br>Unterrichtsversuche,<br>Praktikumsbericht|
 
 „ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2012/2013 aufnehmen. 
 

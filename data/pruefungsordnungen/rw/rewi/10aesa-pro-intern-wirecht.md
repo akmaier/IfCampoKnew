@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Januar 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:37+00:00
-page_count_chars: 2474
+scraped_at: 2026-07-01T10:35:16+00:00
+page_count_chars: 2473
 ---
 
 # 24. Januar 2008
@@ -12,7 +12,7 @@ page_count_chars: 2474
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-PrO-Intern-WiRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Zehnte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
+# **Zehnte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
 
 Vom 24. Januar 2008 
 

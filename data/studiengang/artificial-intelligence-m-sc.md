@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:42:39+00:00
+scraped_at: 2026-07-01T08:18:48+00:00
 ---
 
 # Artificial Intelligence (M.Sc.)
@@ -84,6 +84,7 @@ Abschluss eines exzellenten Bachelor-Abschlusses oder einer entsprechenden Quali
 
 * Solide Englischkenntnisse – TOEFL-Ergebnis von mindestens 560 oder gleichwertige Qualifikation, z. Bestätigung der Hochschule, dass das Bachelorstudium in englischer Sprache abgehalten wurde.
 * Studierende sollten Interesse an einem Aufenthalt in Deutschland von mindestens zwei Jahren haben.
+* Nachweis über Fachkenntnisse in Form eines „Graduate Record Examination (GRE)“ mit der FAU als „designated recipient“, oder vergleichbarer standardisierter Testverfahren
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 

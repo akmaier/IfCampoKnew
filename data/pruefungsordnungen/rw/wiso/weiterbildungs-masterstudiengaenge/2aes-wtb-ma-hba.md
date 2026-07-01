@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES WTB-MA HBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:48:25+00:00
-page_count_chars: 1756
+scraped_at: 2026-07-01T11:10:52+00:00
+page_count_chars: 1754
 ---
 
 # 5. August 2011
@@ -14,7 +14,7 @@ page_count_chars: 1756
 
 # **Zweite Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Master of Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 5. August 2011 
+# Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -24,7 +24,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Maste
 
 In § 4 Satz 1 Nr. 1 werden nach dem Wort „ECTS-Punkten“ die Worte „oder einen Abschluss eines einschlägigen Fachhochschul- und Universitätsstudiums mit mindestens sechs Semestern Regelstudienzeit bzw. 180 ECTS-Punkten zusätzlich zu einer einschlägigen Weiterbildung. Diese Qualifikation soll einem Bachelorabschluss mit 240 ECTS-Punkten gleichwertig sein." angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. 
 

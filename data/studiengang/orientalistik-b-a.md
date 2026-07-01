@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:49:44+00:00
+scraped_at: 2026-07-01T08:26:41+00:00
 ---
 
 # Orientalistik (B.A.)
@@ -34,6 +34,15 @@ scraped_at: 2026-05-01T06:49:44+00:00
 Jenseits von Stereotypen will das Studienfach der Orientalistik den Dingen auf den Grund gehen: Die Beschäftigung mit der Geschichte der islamischen Welt, den Religionen des Orients, den orientalischen Sprachen und den reichen Literaturen dieser Region soll ein fundiertes Hintergrundwissen für die Betrachtung und das Verständnis historischer und aktueller Themen mit Bezug zum Orient schaffen.
 
 Vieles kann dabei entdeckt werden: Dass etwa die deutsche Sprache so manche arabische Lehnwörter enthält, dass der Koran sich auf biblische Geschichten bezieht, dass zahlreiche Erfindungen ihren Ursprung im Orient haben, dass der Orient der Welt das Wissen um die Anfänge der Philosophie bewahrt hat usw. Grundlage für die Erforschung des Orients in der Orientalistik in Erlangen ist ein intensives Studium der arabischen Sprache, deren Kenntnis vielfältige Perspektiven auf diesen Kulturraum eröffnet.
+
+### Fachanteile des Studiengangs Orientalistik (B.A.)
+
+* Arabisch (36%)
+* Arabische Literatur (18%)
+* Arabische Sprachwissenschaft und Dialektologie (18%)
+* Geschichte der islamischen Welt (9%)
+* Sprachen, Kulturen und Religionen des Orients (9%)
+* Zweite orientalische Sprache (9%)
 
 ### Aufbau und Struktur
 
@@ -98,7 +107,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 #### Mögliche Überschneidungen im Stundenplan
 
 * [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
@@ -106,7 +115,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 * [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -198,13 +207,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 - [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
 - [Kulturgeschichte des Christentums](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/kulturgeschichte-des-christentums-ba/)
 - [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 - [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

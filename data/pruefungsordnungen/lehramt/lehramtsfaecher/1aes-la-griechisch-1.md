@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Oktober 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES LA-Griechisch_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:10:26+00:00
-page_count_chars: 1692
+scraped_at: 2026-07-01T08:39:36+00:00
+page_count_chars: 1702
 ---
 
 # 26. Oktober 2012
@@ -12,25 +12,25 @@ page_count_chars: 1692
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES LA-Griechisch_1.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Griechisch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Griechisch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 26. Oktober 2012 
+# Vom 26. Oktober 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Griechisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 10. März 2009 wird wie folgt geändert: 
 
 In der Tabelle von § 4 Abs. 1 erhält das „Modul Altertumswissenschaft LA“ folgende Fassung: 
 
-|7/8|**Modul Altertumswissenschaft LA**|**6**|**10**|||
-|---|---|---|---|---|---|
-||Griechische Archäologie|2 V|3||0|
-||Griechische Papyrologie od. Griechische<br>Epigraphik|2<br>SEM|5|R 30-60´od. HA ca.<br>15 Seiten|1|
-||Exkursion||2|SL Ref. 15´|0|
+|„<br>**Modul Altertumswissenschaft LA**|**6**|**10**|||
+|---|---|---|---|---|
+|Griechische Archäologie<br>|2 V|3||0|
+|Griechische Papyrologie od. Griechische<br>Epigraphik<br>7/8|2<br>SEM|5|R 30-60´od. HA ca.<br>15 Seiten|1|
+|Exkursion||2|SL Ref. 15´|0<br> „|
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das geänderte Modul noch nicht angefangen haben. 
 

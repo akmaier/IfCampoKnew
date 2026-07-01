@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2F-BA%20Politik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:36+00:00
-page_count_chars: 2942
+scraped_at: 2026-07-01T10:28:49+00:00
+page_count_chars: 2935
 ---
 
 # 6. Juli 2010
@@ -12,17 +12,17 @@ page_count_chars: 2942
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2F-BA%20Politik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 6. Juli 2010 
+# Vom 6. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im ZweiFach-Bachelorstudiengang der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 3. März 2010, wird wie folgt geändert: 
 
-## 1. § 4 wird wie folgt geändert: 
+# 1. § 4 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -48,15 +48,15 @@ ii) Die neue Zeile 25 wird ersatzlos gestrichen
 
 ii) Die neue Zeile 27 wird ersatzlos gestrichen. 
 
-## 2. § 5 erhält folgende Fassung: 
+# 2. § 5 erhält folgende Fassung: 
 
-## „ **§ 5 Grundlagen- und Orientierungsprüfung** 
+# „ **§ 5 Grundlagen- und Orientierungsprüfung** 
 
 Die Grundlagen- und Orientierungsprüfung im Fach Politikwissenschaft umfasst die Modulprüfung im Basismodul Pol 1 und einem weiteren Basismodul.“ 
 
 3. § 6 wird ersatzlos gestrichen. Die bisherigen §§ 7 bis 9 werden zu §§ 6 bis 8. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2010/11 aufgenommen haben. 
 

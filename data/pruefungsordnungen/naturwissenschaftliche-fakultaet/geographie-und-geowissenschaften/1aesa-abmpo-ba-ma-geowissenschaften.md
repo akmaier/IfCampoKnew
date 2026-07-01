@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "20. Juni 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/1AeSa_ABMPO_BA-MA-Geowissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:40:31+00:00
-page_count_chars: 14677
+scraped_at: 2026-07-01T09:06:16+00:00
+page_count_chars: 14863
 ---
 
 # 20. Juni 2017
@@ -12,7 +12,7 @@ page_count_chars: 14677
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/1AeSa_ABMPO_BA-MA-Geowissenschaften.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Erste Satzung zur Änderung der Allgemeine Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) - ABMPOGeo/NatFak - Vom 20. Juni 2017** 
+# **Erste Satzung zur Änderung der Allgemeine Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) - ABMPOGeo/NatFak - Vom 20. Juni 2017** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -30,11 +30,11 @@ Abs. 1 Satz 1 werden nach den Worten „Geowissenschaften (B.Sc.)“ ein Komma e
 
 Abs. 1 wird wie folgt geändert: 
 
-- a) Der bisherige Wortlaut wird Satz 1. 
+a) Der bisherige Wortlaut wird Satz 1. 
 
 - b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Der akademische Grad zum Abschluss des Masterstudiengangs GeoThermie/GeoEnergie wird in Form eines Joint Degree der FAU und der TUM vergeben.“ 
+„<sup>2</sup> Der akademische Grad zum Abschluss des Masterstudiengangs GeoThermie/GeoEnergie wird in Form eines Joint Degree der FAU und der TUM vergeben.“ 
 
 4. § 3 wird wie folgt geändert: 
 
@@ -46,7 +46,7 @@ Abs. 1 wird wie folgt geändert:
 
    - c) Nach Abs. 3 wird folgender neuer Satz 4 angefügt: 
 
-      - „[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+      - „<sup>4</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 5. In § 4 wird 
 
@@ -68,7 +68,7 @@ aa) In Satz 1 wird das Wort „verlangt“ durch das Wort „angeboten“ ersetz
 
 - bb) Nach Satz 3 werden folgende Sätze 4 bis 6 angefügt: 
 
-„[4] Macht die bzw. der Studierende von dem Angebot nach Satz 1 Gebrauch, wird die Mid-Term-Prüfung zwingend bei der Ermittlung der Modulnote berücksichtigt.[5] Die Mid-Term-Prüfungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.[6] Eine Verschlechterung ist nicht möglich.“ 
+„<sup>4</sup> Macht die bzw. der Studierende von dem Angebot nach Satz 1 Gebrauch, wird die Mid-Term-Prüfung zwingend bei der Ermittlung der Modulnote berücksichtigt.<sup>5</sup> Die Mid-Term-Prüfungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.<sup>6</sup> Eine Verschlechterung ist nicht möglich.“ 
 
 7. § 9 wird wie folgt geändert: 
 
@@ -76,7 +76,7 @@ aa) In Satz 1 wird das Wort „verlangt“ durch das Wort „angeboten“ ersetz
 
 aa) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
+„<sup>4</sup> Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
 
 bb) In Satz 7 wird das Wort „seiner“ durch das Wort „ihrer“ ersetzt. 
 
@@ -108,7 +108,7 @@ die Worte „zum Masterstudiengang Geowissenschaften (M.Sc.)“ durch die Worte 
 
 - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+„<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
@@ -116,7 +116,7 @@ cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5.
 
 nach Satz 4 folgender neuer Satz 5 angefügt: 
 
-„[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+„<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
 12. § 17 wird wie folgt geändert: 
 
@@ -124,43 +124,43 @@ nach Satz 4 folgender neuer Satz 5 angefügt:
 
 3 
 
-- b) In Abs. 1 werden die Sätze 3 und 4 gestrichen. 
+   - b) In Abs. 1 werden die Sätze 3 und 4 gestrichen. 
 
-- c) Abs. 5 Satz 1 wird wie folgt geändert: 
+   - c) Abs. 5 Satz 1 wird wie folgt geändert: 
 
-   - aa) In Nr. 1 werden nach dem Wort „Prüfungsfragen“ die Worte „bzw. der zu erzielenden Punkte“ gestrichen und nach dem Wort „beantwortet“ werden die Worte „bzw. der zu erzielenden Punkte erreicht“ eingefügt. 
+      - aa) In Nr. 1 werden nach dem Wort „Prüfungsfragen“ die Worte „bzw. der zu erzielenden Punkte“ gestrichen und nach dem Wort „beantwortet“ werden die Worte „bzw. der zu erzielenden Punkte erreicht“ eingefügt. 
 
-   - bb) In Nr. 2 werden nach dem Wort „Prüfungsfragen“ die Worte „bzw. der zu erzielenden Punkte“ gestrichen und nach dem Wort „beantwortet“ die Worte „bzw. der zu erzielenden Punkte erreicht“ eingefügt. 
+      - bb) In Nr. 2 werden nach dem Wort „Prüfungsfragen“ die Worte „bzw. der zu erzielenden Punkte“ gestrichen und nach dem Wort „beantwortet“ die Worte „bzw. der zu erzielenden Punkte erreicht“ eingefügt. 
 
-d) Abs. 7 wird gestrichen. 
+   - d) Abs. 7 wird gestrichen. 
 
 13. § 18 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+   - a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden nach den Worten „bestellt wird“ das Zeichen „;“ und die Worte „besteht ein Modul aus mehreren Lehrveranstaltungen kann der Prüfungsausschuss die übrigen Lehrpersonen des Moduls als weitere Prüfende bestellen“ angefügt. 
+      - aa) In Satz 2 werden nach den Worten „bestellt wird“ das Zeichen „;“ und die Worte „besteht ein Modul aus mehreren Lehrveranstaltungen kann der Prüfungsausschuss die übrigen Lehrpersonen des Moduls als weitere Prüfende bestellen“ angefügt. 
 
-   - bb) In Satz 3 werden nach dem Wort „Verteidigung“ die Worte „der Bachelorbzw. Masterarbeit“ eingefügt. 
+      - bb) In Satz 3 werden nach dem Wort „Verteidigung“ die Worte „der Bachelorbzw. Masterarbeit“ eingefügt. 
 
-- b) Abs. 4 wird wie folgt geändert: 
+   - b) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird das Wort „ist“ durch das Wort „sind“ ersetzt. 
+      - aa) In Satz 1 wird das Wort „ist“ durch das Wort „sind“ ersetzt. 
 
-   - bb) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
+      - bb) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-„[4] Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren.“ 
+„<sup>4</sup> Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren.“ 
 
 14. § 20 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 5 werden nach dem Wort „Einzelnoten“ das Zeichen „;“ und die Worte „das Notenschema des Satz 1 findet keine Anwendung.“ eingefügt. 
+- a) In Abs. 1 Satz 5 werden nach dem Wort „Einzelnoten“ das Zeichen „;“ und die Worte „das Notenschema des Satz 1 findet keine Anwendung.“ eingefügt. 
 
-   - b) In Abs. 2 Satz 3 werden nach der Zahl „0,7“ das Wort „und“ durch ein Komma ersetzt und nach der Zahl „4,3“ werden das Wort „und“ und die Zahl „4,7“ eingefügt. 
+- b) In Abs. 2 Satz 3 werden nach der Zahl „0,7“ das Wort „und“ durch ein Komma ersetzt und nach der Zahl „4,3“ werden das Wort „und“ und die Zahl „4,7“ eingefügt. 
 
-   - c) In Abs. 4 Satz 1 werden nach dem Wort „ausreichend“ in einer neuen Zeile die Worte, die Zahl und das Zeichen „bei einem Durchschnitt über 4,0 = nicht ausreichend“ in einem neuen Unterabsatz angefügt. 
+- c) In Abs. 4 Satz 1 werden nach dem Wort „ausreichend“ in einer neuen Zeile die Worte, die Zahl und das Zeichen „bei einem Durchschnitt über 4,0 = nicht ausreichend“ in einem neuen Unterabsatz angefügt. 
 
-   - d) Abs. 5 wird wie folgt geändert: 
+- d) Abs. 5 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden die Worte „Die bzw. der Modulverantwortliche gibt mit Zustimmung des Prüfungsausschusses im Modulhandbuch schriftlich 
+   - aa) In Satz 1 werden die Worte „Die bzw. der Modulverantwortliche gibt mit Zustimmung des Prüfungsausschusses im Modulhandbuch schriftlich 
 
 4 
 
@@ -168,7 +168,7 @@ bekannt“ durch die Worte „Die jeweilige Fachprüfungsordnung regelt“ erset
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Soweit die jeweilige Fachprüfungsordnung nichts Abweichendes regelt, gehen alle Teilleistungen vorbehaltlich der Regelung in Satz 3 mit gleichem Gewicht in die Modulnote ein.“ 
+„<sup>2</sup> Soweit die jeweilige Fachprüfungsordnung nichts Abweichendes regelt, gehen alle Teilleistungen vorbehaltlich der Regelung in Satz 3 mit gleichem Gewicht in die Modulnote ein.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -178,7 +178,7 @@ cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4.
 
    - bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Abs. 1 Satz 5 Halbsatz 2 und Satz 6 gelten entsprechend.“ 
+„<sup>2</sup> Abs. 1 Satz 5 Halbsatz 2 und Satz 6 gelten entsprechend.“ 
 
 - f) Abs. 7 wird wie folgt geändert: 
 
@@ -186,7 +186,7 @@ cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4.
 
    - bb) In Satz 2 werden nach dem Wort „Satz“ die Zahlen und Worte „5 Halbsatz 2 und Satz“ eingefügt und das Wort „gilt“ wird durch das Wort „gelten“ ersetzt. 
 
-- g) Abs. 8 wird gestrichen. 
+g) Abs. 8 wird gestrichen. 
 
 - h) Der bisherige Abs. 9 wird Abs. 8 und es wird 
 
@@ -258,9 +258,9 @@ nach den Worten und Zeichen „(Betreuerinnen bzw. Betreuer)“ die Worte und Ze
 
 ## „ **§ 30a Zusatzmodule** 
 
-(1)[1] Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule, Schlüsselqualifikationen), die im Rahmen der Prüfungsfristen nach § 8 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.[2] Besteht die bzw. der Studierende an der FAU zusätzliche Module des Studiengangs, legt sie oder er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.[3] Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.[4] Die Wahl wird damit bindend.[5] Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an. 
+(1)<sup>1</sup> Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule, Schlüsselqualifikationen), die im Rahmen der Prüfungsfristen nach § 8 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.<sup>2</sup> Besteht die bzw. der Studierende an der FAU zusätzliche Module des Studiengangs, legt sie oder er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.<sup>3</sup> Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.<sup>4</sup> Die Wahl wird damit bindend.<sup>5</sup> Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an. 
 
-(2) 1Zusatzmodule sind ebenfalls Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.[2] Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.[3] Zusatzmodule nach Abs. 2 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.[4] Auf Antrag der bzw. des Studierenden bei der das Zeugnis ausstellenden Stelle (i. d. R. das Prüfungsamt) können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden.“ 
+(2) 1Zusatzmodule sind ebenfalls Module anderer Studiengänge, die als Teilqualifikationen für diesen Studiengang angeboten werden.<sup>2</sup> Hinsichtlich der Prüfungsmodalitäten gelten die Regelungen der Prüfungsordnung des Studiengangs, aus dem das Zusatzmodul stammt.<sup>3</sup> Zusatzmodule nach Abs. 2 gehen nicht in die Abschlussnote ein; sie werden in einem gesonderten Abschnitt im Transcript of Records ausgewiesen.<sup>4</sup> Auf Antrag der bzw. des Studierenden bei der das Zeugnis ausstellenden Stelle (i. d. R. das Prüfungsamt) können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden.“ 
 
 ## 24. § 32 wird wie folgt geändert: 
 
@@ -268,21 +268,21 @@ nach den Worten und Zeichen „(Betreuerinnen bzw. Betreuer)“ die Worte und Ze
 
 - b) Nach Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Ist die Zulassung zu den Prüfungen des Studiengangs zu versagen, so ist unverzüglich die Entscheidung zu treffen, schriftlich mit Gründen und Rechtsbehelfsbelehrung zu versehen und der bzw. dem Studierenden bekannt zu geben.“ 
+„<sup>2</sup> Ist die Zulassung zu den Prüfungen des Studiengangs zu versagen, so ist unverzüglich die Entscheidung zu treffen, schriftlich mit Gründen und Rechtsbehelfsbelehrung zu versehen und der bzw. dem Studierenden bekannt zu geben.“ 
 
 ## 25. In § 33 
 
 Abs. 1 Satz 2 wird das Wort „näheres“ durch das Wort „Näheres“ ersetzt. 
 
-26. § 34 wird wie folgt geändert: 
+## 26. § 34 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 3 wird nach dem Wort „übereinstimmen“ das Wort und die Zeichen „(Plagiatsschutz)“ angefügt. 
+- a) In Abs. 1 Satz 3 wird nach dem Wort „übereinstimmen“ das Wort und die Zeichen „(Plagiatsschutz)“ angefügt. 
 
-   - b) Abs. 9 wird wie folgt geändert: 
+- b) Abs. 9 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „dabei“ die Worte „findet das Notenschema des § 20 Abs. 1 Satz 1 keine Anwendung und es“ eingefügt. 
+   - aa) In Satz 1 werden nach dem Wort „dabei“ die Worte „findet das Notenschema des § 20 Abs. 1 Satz 1 keine Anwendung und es“ eingefügt. 
 
-      - bb) In Satz 2 wird nach den Worten „beider Prüfenden“ das Wort „um“ eingefügt. 
+   - bb) In Satz 2 wird nach den Worten „beider Prüfenden“ das Wort „um“ eingefügt. 
 
 7 
 

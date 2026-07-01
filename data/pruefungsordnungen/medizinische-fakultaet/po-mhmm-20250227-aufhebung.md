@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MHMM 20250227 Aufhebung.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Health_and_Medical_Management/konsolidierte_Fassungen/PO_MHMM_20250227_Aufhebung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:19:20+00:00
-page_count_chars: 3103
+scraped_at: 2026-07-01T08:45:12+00:00
+page_count_chars: 3139
 ---
 
 # PO MHMM 20250227 Aufhebung.pdf
@@ -18,11 +18,11 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 78 Abs. 1 Satz 2 Nr. 1, Art. 80 Abs. 1,
 
 ## **§ 1 Aufhebung des Studiengangs** 
 
-1Der berufsbegleitende Weiterbildungsstudiengang Master in Health and Medical Management (MHMM) an der Medizinischen Fakultät in Kooperation mit der Rechtsund Wirtschaftswissenschaftlichen Fakultät der FAU wird mit Wirkung zum Wintersemester 2025/2026 aufgehoben.[2] Spätestens mit Beginn des Wintersemesters 2025/2026 (1. Oktober 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
+1Der berufsbegleitende Weiterbildungsstudiengang Master in Health and Medical Management (MHMM) an der Medizinischen Fakultät in Kooperation mit der Rechtsund Wirtschaftswissenschaftlichen Fakultät der FAU wird mit Wirkung zum Wintersemester 2025/2026 aufgehoben.<sup>2</sup> Spätestens mit Beginn des Wintersemesters 2025/2026 (1. Oktober 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
 
 ## **§ 2 Übergangsregelung** 
 
-1Studierenden, die im Wintersemester 2024/2025 bereits im berufsbegleitenden Weiterbildungsstudiengang Master in Health and Medical Management (MHMM) an der Medizinischen Fakultät der FAU immatrikuliert sind, wird die Möglichkeit gegeben, ihr Studium regulär zu beenden.[2] Prüfungen in dem in Satz 1 genannten Studiengang werden spätestens im Wintersemester 2028/2029 letztmals angeboten. 
+1Studierenden, die im Wintersemester 2024/2025 bereits im berufsbegleitenden Weiterbildungsstudiengang Master in Health and Medical Management (MHMM) an der Medizinischen Fakultät der FAU immatrikuliert sind, wird die Möglichkeit gegeben, ihr Studium regulär zu beenden.<sup>2</sup> Prüfungen in dem in Satz 1 genannten Studiengang werden spätestens im Wintersemester 2028/2029 letztmals angeboten. 
 
 ## **§ 3 Außerkrafttreten der Studien- und Prüfungsordnung** 
 
@@ -30,7 +30,7 @@ Die Studienund Prüfungsordnung für den Berufsbegleitenden Weiterbildungsstudie
 
 In § 31 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Diese Studien- und Prüfungsordnung tritt mit Wirkung zum 31. März 2029 außer Kraft.[2] Prüfungen nach dieser Studien- und Prüfungsordnung werden spätestens im Wintersemester 2028/2029 letztmals angeboten.“ 
+„(4)<sup>1</sup> Diese Studien- und Prüfungsordnung tritt mit Wirkung zum 31. März 2029 außer Kraft.<sup>2</sup> Prüfungen nach dieser Studien- und Prüfungsordnung werden spätestens im Wintersemester 2028/2029 letztmals angeboten.“ 
 
 1 
 

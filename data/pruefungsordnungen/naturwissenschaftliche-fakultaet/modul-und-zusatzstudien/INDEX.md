@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Modul- und Zusatzstudien"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-05-01T07:56:05+00:00
+scraped_at: 2026-07-01T09:21:35+00:00
 ---
 
 # Modul- und Zusatzstudien

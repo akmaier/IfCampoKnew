@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. Januar 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-Int-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:56+00:00
-page_count_chars: 3366
+scraped_at: 2026-07-01T10:48:25+00:00
+page_count_chars: 3362
 ---
 
 # 27. Januar 1999
@@ -12,7 +12,7 @@ page_count_chars: 3366
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-Int-BWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 27. Januar 1999 
 
@@ -62,7 +62,7 @@ im Teilfach Grundzüge der Betriebswirtschaftslehre I eine einstündige Klausur,
 
       - „Eine zweite Wiederholung der Diplomvorprüfung ist nur im Fach Wirtschaftsfremdsprachen oder in bis zu zwei Teilfächern gemäß § 22 Abs. 1 Nrn. 1 bis 4 möglich.“ 
 
-## § 2 
+§ 2 
 
 - (1) Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

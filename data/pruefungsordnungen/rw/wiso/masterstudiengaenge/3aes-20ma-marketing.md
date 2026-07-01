@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:13+00:00
-page_count_chars: 4738
+scraped_at: 2026-07-01T11:05:43+00:00
+page_count_chars: 4758
 ---
 
 # 1. September 2011
@@ -18,11 +18,11 @@ Vom 1. September 2011
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - vom 2. September 2009, zuletzt geändert durch Satzung vom 17. Januar 2011, wird wie folgt geändert: 
 
-## 1. § 3 Abs. 1 wird wie folgt geändert: 
+# 1. § 3 Abs. 1 wird wie folgt geändert: 
 
 - a) In Satz 1 wird die Zahl „40“ durch die Zahl „35“ ersetzt. 
 
@@ -30,7 +30,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 - c) In Satz 3 wird die Zahl „20“ durch die Zahl „25“ ersetzt. 
 
-## 2. Die Anlage wird wie folgt geändert: 
+# 2. Die Anlage wird wie folgt geändert: 
 
    - a) In Zeile 3 (A. Pflichtbereich) wird jeweils die Zahl „40“ durch die Zahl „35“ ersetzt. 
 
@@ -48,31 +48,32 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 - „ 
 
-**Konsumentenverhalten III 5 5** 
+|**Konsumentenverhalten III**<br>**5**<br>**5**|
+|---|
 
-„ 
+|„|
+|---|
 
 h) NachZeile 52 (neu) (Modul Advanced Marketing VI: Markenmanagement) werden folgende neue Module eingefügt: 
 
 „ 
 
-|folgende neue Module eingefügt:<br>„||||||
-|---|---|---|---|---|---|
-|**Praxisseminar **|**5**|**5**||||
-|**Fremdsprachenmodul **|**5**|**2,5**|**2,5 **|||
-|**Empirische Wirtschaftssoziologie**|**10**||**5**|**5**||
-|_Wahl von maximal 2 Modulen aus den folgenden Modulen_||||||
-|**Entrepreneurship Research **|**5**||**5**|||
-|**Business Plan Seminar **|**5**|||**5**||
-|**Industrielles Management**|**5**||**5**|||
-|**Beschaffungsmanagement**|**5**|||**5**||
-|**Global Operations Strategy**|**5**||**5**|||
+|**Praxisseminar **|**5**|**5**|||
+|---|---|---|---|---|
+|**Fremdsprachenmodul **|**5**|**2,5**|**2,5 **||
+|**Empirische Wirtschaftssoziologie**|**10**||**5**|**5**|
+|_Wahl von maximal 2 Modulen aus den folgenden Modulen_||||<br>|
+|**Entrepreneurship Research **|**5**||**5**|<br>|
+|**Business Plan Seminar **|**5**|||**5**<br>|
+|**Industrielles Management**|**5**||**5**||
+|**Beschaffungsmanagement**|**5**|||**5**<br>|
+|**Global Operations Strategy**|**5**||**5**|<br>|
 
-|**Corporate Governance**|**5**||**5**|||
-|---|---|---|---|---|---|
-|**Foundations of International Management I**|**5**|||**5**||
-|**Foundations of International Management II**|**5**|||**5**||
-|**Corporate Strategy**|**5**|||**5**||
+|**Corporate Governance**|**5**<br> <br>**5**<br>|
+|---|---|
+|**Foundations of International Management I**|**5**<br> <br> <br>**5**<br>|
+|**Foundations of International Management II**|**5**<br> <br> <br>**5**<br>|
+|**Corporate Strategy**|**5**<br> <br> <br>**5**<br>|
 
 „ 
 
@@ -88,16 +89,16 @@ i) In Zeile 67 (neu) (Modul B2 Vertiefungsbereich Marketing Management) wird jew
 
 „ 
 
-|**Praxisseminar**|**5**|**5**||||
-|---|---|---|---|---|---|
-|**Fremdsprachenmodul**|**5**|**2,5**|**2,5 **|||
-|**Empirische Wirtschaftssoziologie**|**10**||**5**|**5**||
+|**Praxisseminar**|**5**<br>**5**|||
+|---|---|---|---|
+|**Fremdsprachenmodul**|**5**<br>**2,5**|**2,5 **||
+|**Empirische Wirtschaftssoziologie**|**10**|**5**|**5**|
 
 „ 
 
 - n) In Zeile 97 (neu) (Wahl von Modulen) wird die Zahl „2“ durch die Zahl „3“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 2Abweichend hiervon finden die Änderungen im Pflicht- und Vertiefungsbereich (Nr. 1 und Nr. 2 a, b, c, d, i, j) nur für alle Studierenden Anwendung, die das Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

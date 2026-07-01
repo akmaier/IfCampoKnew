@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-DSH.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:57+00:00
-page_count_chars: 1462
+scraped_at: 2026-07-01T11:13:06+00:00
+page_count_chars: 1460
 ---
 
 # 5. März 2010
@@ -18,7 +18,7 @@ Vom 5. März 2010
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Universität Erlangen-Nürnberg über die Deutsche Sprachprüfung für den Hochschulzugang (DSH) vom 23. September 1997 (KWMBl II 1998 S. 163), zuletzt geändert durch Satzung vom 5. Juli 2006, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Prüfungsordnung der Universität Erlangen-Nürnberg über die Deutsche Spra
 
 „Eine an der Universität Erlangen-Nürnberg nicht bestandene oder als nicht bestanden geltende Deutsche Sprachprüfung kann wiederholt werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

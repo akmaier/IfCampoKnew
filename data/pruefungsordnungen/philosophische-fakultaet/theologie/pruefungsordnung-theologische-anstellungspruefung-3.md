@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Pruefungsordnung_Theologische_Anstellungspruefung(3).pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:44:19+00:00
-page_count_chars: 41642
+scraped_at: 2026-07-01T09:54:54+00:00
+page_count_chars: 42280
 ---
 
 # PDF
@@ -12,9 +12,9 @@ page_count_chars: 41642
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Pruefungsordnung_Theologische_Anstellungspruefung(3).pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/>
 
-## Prüfungsordnung 
+# Prüfungsordnung 
 
-## für die Theologische Anstellungsprüfung 
+# für die Theologische Anstellungsprüfung 
 
 (Anstellungsprüfungsordnung - TheolAnstPO) Vom 29. 5. 1992 
 
@@ -26,10 +26,9 @@ Der Landeskirchenrat erlässt aufgrund des § 14 Abs. 3 des Kirchengesetzes übe
 
 ## **I. Abschnitt. Allgemeine Bestimmungen** 
 
-|**I. Abschnitt. Allgemeine Bestimmungen**||
-|---|---|
 |Grundbestimmung|§ 1|
-|Prüfungskommission|§ 2|
+|---|---|
+|<br>Prüfungskommission|§ 2|
 |Theologisches Prüfungsamt|§ 3|
 |Prüfungstermine|§ 4|
 |Zulassungsvoraussetzungen|§ 5|
@@ -46,15 +45,13 @@ Der Landeskirchenrat erlässt aufgrund des § 14 Abs. 3 des Kirchengesetzes übe
 |Festsetzung des Prüfungsergebnisses|§ 15|
 |Unterschleif|§ 16|
 |Wiederholung der Prüfung|§ 17|
-|**III. Abschnitt. Rechtsbehelfe**||
-|Einspruch gegen Mängel im Prüfungsverfahren|§ 18|
+|**III. Abschnitt. Rechtsbehelfe**<br>Einspruch gegen Mängel im Prüfungsverfahren|§ 18|
 |Nachträglich festgestellte Mängel des Prüfungsverfahrens|§ 19|
 |Beschwerde|§ 20|
 |Anrufung des Verwaltungsgerichts|§ 21|
 |Vorprüfung|§ 22|
 |Entscheidung des Verwaltungsgerichts|§ 23|
-|**IV. Abschnitt. Schlussbestimmungen**||
-|Inkrafttreten|§ 24|
+|**IV. Abschnitt. Schlussbestimmungen**<br>Inkrafttreten|§ 24|
 
 ## **Anhang** 
 
@@ -88,13 +85,13 @@ Der Landeskirchenrat erlässt aufgrund des § 14 Abs. 3 des Kirchengesetzes übe
 
 - (4) Für den Prüfungsvollzug in den Praxisprojekten nach § 8 Abs. 2 Buchst. a und b (Gottesdienst und Lehrprobe) werden regionale Prüfungsfachkommissionen, für den Prüfungsvollzug in dem Praxisprojekt nach § 8 Abs. 2 Buchst. c (Seelsorgeprojekt) Prüfungsfachkommissionen gebildet. 
 
-- (5) 1Die regionalen Prüfungsfachkommissionen für das Praxisprojekt Gottesdienst bestehen jeweils aus einem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.[2] Vorsitzendes Mitglied ist der/die zuständige Oberkirchenrat/Oberkirchenrätin im Kirchenkreis.[3] Von ihm/ihr kann im Vertretungsfall ein Ersatzmitglied, in der Regel ein/eine Dekan/in, benannt werden. 4Ein beisitzendes Mitglied wird als Fachprüfer/in für die Prüfung im Fach Gottesdienst bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.[5] Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
+- (5) 1Die regionalen Prüfungsfachkommissionen für das Praxisprojekt Gottesdienst bestehen jeweils aus einem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.<sup>2</sup> Vorsitzendes Mitglied ist der/die zuständige Oberkirchenrat/Oberkirchenrätin im Kirchenkreis.<sup>3</sup> Von ihm/ihr kann im Vertretungsfall ein Ersatzmitglied, in der Regel ein/eine Dekan/in, benannt werden. 4Ein beisitzendes Mitglied wird als Fachprüfer/in für die Prüfung im Fach Gottesdienst bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.<sup>5</sup> Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
 
-- (6) 1Die regionale Prüfungsfachkommission für das Praxisprojekt Religionspädagogik besteht aus dem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.[2] Vorsitzendes Mitglied ist ein/e von dem/der zuständigen Oberkirchenrat/Oberkirchenrätin im Kirchenkreis benannte/r Dekan/in oder Schulbeauftragte/r.[3] Ein beisitzendes Mitglied wird als Fachprüfer für die Prüfung im Fach Religionspädagogik bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.[4] Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
+- (6) 1Die regionale Prüfungsfachkommission für das Praxisprojekt Religionspädagogik besteht aus dem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.<sup>2</sup> Vorsitzendes Mitglied ist ein/e von dem/der zuständigen Oberkirchenrat/Oberkirchenrätin im Kirchenkreis benannte/r Dekan/in oder Schulbeauftragte/r.<sup>3</sup> Ein beisitzendes Mitglied wird als Fachprüfer für die Prüfung im Fach Religionspädagogik bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.<sup>4</sup> Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
 
-- (7) 1Die Prüfungsfachkommission für das Seelsorgeprojekt besteht aus dem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.[2] Vorsitzendes Mitglied ist ein/e vom Landeskirchenrat zu benennende/r Oberkirchenrat/Oberkirchenrätin, Dekan/in oder Leiter/in einer kirchlichen Einrichtung, vertretungsweise der/die Prüfungsvorsitzende oder der Leiter/in des Theologischen Prüfungsamts.[3] Ein beisitzendes Mitglied wird als Fachprüfer/in für die Prüfung im Fach Seelsorge bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.[4] Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
+- (7) 1Die Prüfungsfachkommission für das Seelsorgeprojekt besteht aus dem vorsitzenden Mitglied und zwei beisitzenden Mitgliedern.<sup>2</sup> Vorsitzendes Mitglied ist ein/e vom Landeskirchenrat zu benennende/r Oberkirchenrat/Oberkirchenrätin, Dekan/in oder Leiter/in einer kirchlichen Einrichtung, vertretungsweise der/die Prüfungsvorsitzende oder der Leiter/in des Theologischen Prüfungsamts.<sup>3</sup> Ein beisitzendes Mitglied wird als Fachprüfer/in für die Prüfung im Fach Seelsorge bestellt, ein weiteres aus dem Kreis der an der Theologenausbildung beteiligten Angehörigen der Pfarrerschaft.<sup>4</sup> Es darf an der Ausbildung der zu prüfenden Person nicht beteiligt sein. 
 
-- (8) 1Die für die Fachprüfung zuständigen Mitglieder (Fachprüfer) nach den Absätzen 5 und 6 werden von dem/der jeweils zuständigen Oberkirchenrat/Oberkirchenrätin im Kirchenkreis benannt.[2] Die Benennung des für die Fachprüfung zuständigen Mitgliedes (Fachprüfer/in) nach Absatz 7 und der weiteren beisitzenden Mitglieder nach den Absätzen 5, 6 und 7 erfolgt durch den/die Leiter/in des Prüfungsamtes im Einvernehmen mit dem/der Prüfungsvorsitzenden. 
+- (8) 1Die für die Fachprüfung zuständigen Mitglieder (Fachprüfer) nach den Absätzen 5 und 6 werden von dem/der jeweils zuständigen Oberkirchenrat/Oberkirchenrätin im Kirchenkreis benannt.<sup>2</sup> Die Benennung des für die Fachprüfung zuständigen Mitgliedes (Fachprüfer/in) nach Absatz 7 und der weiteren beisitzenden Mitglieder nach den Absätzen 5, 6 und 7 erfolgt durch den/die Leiter/in des Prüfungsamtes im Einvernehmen mit dem/der Prüfungsvorsitzenden. 
 
 - (9) Die Korrektoren/Korrektorinnen für die Klausuren sowie die Prüfer/innen und Beisitzer/innen in der mündlichen Prüfung werden von dem/der Leiter/in des Prüfungsamtes bestimmt. 
 
@@ -104,7 +101,7 @@ Der Landeskirchenrat erlässt aufgrund des § 14 Abs. 3 des Kirchengesetzes übe
 
 - (1) Die Vorbereitung und Organisation der Prüfung ist Aufgabe des Theologischen Prüfungsamtes im Landeskirchenamt (Prüfungsamt). 
 
-- (2) 1Das Prüfungsamt wählt die Themen für die Klausuren aus den Vorschlägen der Prüfungskommission aus.[2] An der Entscheidung muss ein Mitglied des Landeskirchenrates beteiligt sein, in der Regel der/die Prüfungsvorsitzende. 
+- (2) 1Das Prüfungsamt wählt die Themen für die Klausuren aus den Vorschlägen der Prüfungskommission aus.<sup>2</sup> An der Entscheidung muss ein Mitglied des Landeskirchenrates beteiligt sein, in der Regel der/die Prüfungsvorsitzende. 
 
 ## **§ 4 Prüfungstermine.** 
 
@@ -112,9 +109,9 @@ Der Landeskirchenrat erlässt aufgrund des § 14 Abs. 3 des Kirchengesetzes übe
 
 - (2) Der jeweilige Prüfungstermin wird im Amtsblatt für die Evangelisch-Lutherische Kirche in Bayern bekannt gegeben. 
 
-- **§ 5 Zulassungsvoraussetzungen.** 
+## **§ 5 Zulassungsvoraussetzungen.** 
 
-- (1) 1Zur Theologischen Anstellungsprüfung müssen sich die Vikare und Vikarinnen im Vorbereitungsdienst der Evangelisch-Lutherischen Kirche in Bayern bis zu einem vom Prüfungsamt festgesetzten Termin auf dem Dienstweg melden.[2] Das Prüfungsamt bestimmt für jeden Prüfungstermin eine Meldefrist und einen Meldeschluss, die spätestens sechs Monate vor Beginn der Meldefrist im Amtsblatt für die Evangelisch-Lutherische Kirche in Bayern bekannt gegeben werden. 
+- (1) 1Zur Theologischen Anstellungsprüfung müssen sich die Vikare und Vikarinnen im Vorbereitungsdienst der Evangelisch-Lutherischen Kirche in Bayern bis zu einem vom Prüfungsamt festgesetzten Termin auf dem Dienstweg melden.<sup>2</sup> Das Prüfungsamt bestimmt für jeden Prüfungstermin eine Meldefrist und einen Meldeschluss, die spätestens sechs Monate vor Beginn der Meldefrist im Amtsblatt für die Evangelisch-Lutherische Kirche in Bayern bekannt gegeben werden. 
 
 - (2) Die in Absatz 1 Genannten haben, soweit entsprechende Unterlagen noch nicht in den Akten des Landeskirchenamtes vorhanden sind, für die Zulassung zur Theologischen Anstellungsprüfung bei der Meldung vorzulegen: 
 
@@ -174,13 +171,11 @@ Die staatliche Regelung über Prüfungsvergünstigungen für Schwerbehinderte (�
 
    - c) Gottesdienst und Verkündigung, 
 
-   - d) Pädagogik in Schule und Gemeinde, 
-
-   - e) Kirche als Institution und ihr Recht. 
+   - d) Pädagogik in Schule und Gemeinde, e) Kirche als Institution und ihr Recht. 
 
 - (5) Die Prüfungen sind mit Ausnahme des Gottesdienstes nicht öffentlich. Bei den Praxisprojekten und bei den mündlichen Prüfungen können zukünftige Prüfer oder Prüferinnen des jeweiligen Faches als Zuhörer bzw. Zuhörerinnen teilnehmen. Die Ausbilder oder Ausbilderinnen in den Predigerseminaren können beim Praxisprojekt Seelsorge und bei den mündlichen Prüfungen als Zuhörer oder Zuhörerinnen teilnehmen. Die Sätze 2 und 3 gelten nicht, wenn die dort genannten Personen mit der Ausbildung eines Prüflings selber betraut sind. 
 
-## **§ 9 Praxisprojekte.** 
+- **§ 9 Praxisprojekte.** 
 
 - (1) Für das Praxisprojekt Gottesdienst gelten die folgenden Bestimmungen: 
 
@@ -248,25 +243,25 @@ mit. Findet die Prüfung in zeitlichem Zusammenhang mit den mündlichen Prüfung
 
 ## **§ 10 Klausuren.** 
 
-- (1)[1] In der Klausur aus der Biblischen Theologie ist wahlweise eine alt- oder neutestamentliche Perikope, die in der Regel der Ordnung der Predigttexte während des Lehrvikariats oder der Psalmenreihe entnommen ist, anhand des Urtextes selbständig zu erklären und in den Zusammenhang des biblischen Zeugnisses zu stellen.[2] Der Neutestamentliche Text muss vorher übersetzt werden.[3] Je zwei Aufgaben stehen zur Auswahl.[4] Die Bearbeitungszeit für diese Klausur beträgt vier Stunden. 
+- (1)<sup>1</sup> In der Klausur aus der Biblischen Theologie ist wahlweise eine alt- oder neutestamentliche Perikope, die in der Regel der Ordnung der Predigttexte während des Lehrvikariats oder der Psalmenreihe entnommen ist, anhand des Urtextes selbständig zu erklären und in den Zusammenhang des biblischen Zeugnisses zu stellen.<sup>2</sup> Der Neutestamentliche Text muss vorher übersetzt werden.<sup>3</sup> Je zwei Aufgaben stehen zur Auswahl.<sup>4</sup> Die Bearbeitungszeit für diese Klausur beträgt vier Stunden. 
 
-- (2)[1] In der Klausur aus der Systematischen Theologie sind dogmatische oder ethische Aussagen nach Schrift und Bekenntnis geschichts- und gegenwartsbezogen zu vertreten und zu begründen.[2] Je zwei dogmatische und ethische Themen stehen zur Auswahl.[3] Die Bearbeitungszeit für diese Klausur beträgt vier Stunden. 
+- (2)<sup>1</sup> In der Klausur aus der Systematischen Theologie sind dogmatische oder ethische Aussagen nach Schrift und Bekenntnis geschichts- und gegenwartsbezogen zu vertreten und zu begründen.<sup>2</sup> Je zwei dogmatische und ethische Themen stehen zur Auswahl.<sup>3</sup> Die Bearbeitungszeit für diese Klausur beträgt vier Stunden. 
 
-- (3)[1] In der Klausur (Übung) im Fach Kirchliche Publizistik ist eine an der gemeindlichen Praxis orientierte publizistische Aufgabenstellung (z. B. Gemeindebriefartikel, Besinnung oder Kommentar zu einem aktuellen Thema für eine Regionalzeitung) zu bearbeiten.[2] Die zu prüfende Person soll dabei zeigen, dass sie christliche Verkündigung und Tradition mit aktuellen Fragestellungen sachgemäß und medienspezifisch zu verbinden versteht.[3] Zwei Aufgabenstellungen stehen zur Wahl.[4] Die Bearbeitungszeit beträgt zwei Stunden. 
+- (3)<sup>1</sup> In der Klausur (Übung) im Fach Kirchliche Publizistik ist eine an der gemeindlichen Praxis orientierte publizistische Aufgabenstellung (z. B. Gemeindebriefartikel, Besinnung oder Kommentar zu einem aktuellen Thema für eine Regionalzeitung) zu bearbeiten.<sup>2</sup> Die zu prüfende Person soll dabei zeigen, dass sie christliche Verkündigung und Tradition mit aktuellen Fragestellungen sachgemäß und medienspezifisch zu verbinden versteht.<sup>3</sup> Zwei Aufgabenstellungen stehen zur Wahl.<sup>4</sup> Die Bearbeitungszeit beträgt zwei Stunden. 
 
-- (4)[1] In der Klausur im Fach Kirchenrecht sind Sachverhalte der kirchlichen Praxis auf ihre rechtliche Relevanz hin zu untersuchen.[2] Es wird eine Aufgabe gestellt.[3] Die Bearbeitungszeit für diese Klausur beträgt drei Stunden. 
+- (4)<sup>1</sup> In der Klausur im Fach Kirchenrecht sind Sachverhalte der kirchlichen Praxis auf ihre rechtliche Relevanz hin zu untersuchen.<sup>2</sup> Es wird eine Aufgabe gestellt.<sup>3</sup> Die Bearbeitungszeit für diese Klausur beträgt drei Stunden. 
 
-- (5)[1] Im Anhang zu dieser Prüfungsordnung werden die zulässigen Hilfsmittel abschließend genannt.[2] Die Prüfungsteilnehmer und Prüfungsteilnehmerinnen sollen auf § 16 Abs. 1 hingewiesen werden. 
+- (5)<sup>1</sup> Im Anhang zu dieser Prüfungsordnung werden die zulässigen Hilfsmittel abschließend genannt.<sup>2</sup> Die Prüfungsteilnehmer und Prüfungsteilnehmerinnen sollen auf § 16 Abs. 1 hingewiesen werden. 
 
-- (6)[1] Die Klausuren werden vor der mündlichen Prüfung geschrieben.[2] An einem Tag wird nur eine Klausur geschrieben. 
+- (6)<sup>1</sup> Die Klausuren werden vor der mündlichen Prüfung geschrieben.<sup>2</sup> An einem Tag wird nur eine Klausur geschrieben. 
 
-- (7)[1] Die Klausuren werden mit einem Kennwort und mit einer Kennziffer, die vom Prüfungsamt zugeteilt werden, ohne Namensnennung abgegeben.[2] Die Korrektoren/Korrektorinnen dürfen die Aufsicht bei der Anfertigung von Klausuren nicht wahrnehmen. 
+- (7)<sup>1</sup> Die Klausuren werden mit einem Kennwort und mit einer Kennziffer, die vom Prüfungsamt zugeteilt werden, ohne Namensnennung abgegeben.<sup>2</sup> Die Korrektoren/Korrektorinnen dürfen die Aufsicht bei der Anfertigung von Klausuren nicht wahrnehmen. 
 
 ## **§ 11 Mündliche Prüfung.** 
 
 - (1) In der mündlichen Prüfung hat die zu prüfende Person den Nachweis zu erbringen, dass sie ihre Kenntnisse und Fähigkeiten einsetzen kann, um kirchliches Handeln theologisch und situationsgemäß zu verantworten. 
 
-- (2)[1] Für die mündliche Prüfung werden für jedes Prüfungsfach Fachkommissionen gebildet.[2] Sie bestehen aus einem Mitglied für die Fachprüfung (Fachprüfer/in) und mindestens zwei beisitzenden Mitgliedern. 
+- (2)<sup>1</sup> Für die mündliche Prüfung werden für jedes Prüfungsfach Fachkommissionen gebildet.<sup>2</sup> Sie bestehen aus einem Mitglied für die Fachprüfung (Fachprüfer/in) und mindestens zwei beisitzenden Mitgliedern. 
 
 - (3) In den einzelnen Prüfungsfächern werden vor allem die folgenden Bereiche berücksichtigt. 
 
@@ -294,13 +289,13 @@ Bis zu einem vom Prüfungsamt festzulegenden Zeitpunkt haben die zu prüfenden P
 
 - (1) Nach Abgabe der Anmeldung zur Prüfung ist ein Rücktritt nur wegen einer Erkrankung oder anderen schwerwiegenden Gründen möglich. Wird der Rücktritt nach den Klausuren oder während der mündlichen Prüfung erklärt, so gilt die Prüfung als nicht bestanden. Der Rücktritt ist schriftlich unter Angabe der Gründe zu erklären. Bei Krankheit ist dem Prüfungsamt unverzüglich ein ärztliches Zeugnis vorzulegen. Das Vorliegen schwerwiegender Gründe stellt der/die Leiter/in des Prüfungsamtes fest. 
 
-- (2)[1] Der Rücktritt von der Prüfung muss schriftlich und mit der Angabe des Grundes erklärt werden.[2] Ein Rücktritt im Sinne des Absatzes 1 Satz 1 ist einmal zulässig.[3] Nach dem zweiten Rücktritt gilt die Prüfung als einmal nicht bestanden.[4] In diesem Falle ist bei einer Wiederholung der Prüfung (§ 17) ein weiterer Rücktritt nicht zulässig. 
+- (2)<sup>1</sup> Der Rücktritt von der Prüfung muss schriftlich und mit der Angabe des Grundes erklärt werden.<sup>2</sup> Ein Rücktritt im Sinne des Absatzes 1 Satz 1 ist einmal zulässig.<sup>3</sup> Nach dem zweiten Rücktritt gilt die Prüfung als einmal nicht bestanden.<sup>4</sup> In diesem Falle ist bei einer Wiederholung der Prüfung (§ 17) ein weiterer Rücktritt nicht zulässig. 
 
-- (3)[1] Bei Erkrankung während der schriftlichen Ausarbeitung oder während der Durchführung der Praxisprojekte kann bei unverzüglicher Vorlage eines ärztlichen oder vertrauensärztlichen Zeugnisses vom Prüfungsamt Fristverlängerung eingeräumt werden.[2] Das gleiche gilt, wenn aus anderen schwerwiegenden Gründen, die von der zu prüfenden Person nicht zu vertreten sind, die schriftliche Ausarbeitung nicht termingemäß eingereicht werden kann. 
+- (3)<sup>1</sup> Bei Erkrankung während der schriftlichen Ausarbeitung oder während der Durchführung der Praxisprojekte kann bei unverzüglicher Vorlage eines ärztlichen oder vertrauensärztlichen Zeugnisses vom Prüfungsamt Fristverlängerung eingeräumt werden.<sup>2</sup> Das gleiche gilt, wenn aus anderen schwerwiegenden Gründen, die von der zu prüfenden Person nicht zu vertreten sind, die schriftliche Ausarbeitung nicht termingemäß eingereicht werden kann. 
 
-- (4)[1] Kann die zu prüfende Person wegen Krankheit oder anderer schwerwiegender Gründe, die sie nicht zu vertreten hat, an allen oder einzelnen Klausuren nicht teilnehmen, kann sie sich aber der mündlichen Prüfung unterziehen, so kann ihr Gelegenheit zur Nachholung der Klausuren gegeben werden.[2] Die Nachholung und Korrektur der Klausuren muss vor der Abschlusskonferenz (§15 Abs. 1) der Prüfungskommission erfolgt sein; ist dies nicht möglich, gilt die Prüfung als nicht abgelegt.[3] Bei Erkrankung vor oder während der mündlichen Prüfung kann die 
+- (4)<sup>1</sup> Kann die zu prüfende Person wegen Krankheit oder anderer schwerwiegender Gründe, die sie nicht zu vertreten hat, an allen oder einzelnen Klausuren nicht teilnehmen, kann sie sich aber der mündlichen Prüfung unterziehen, so kann ihr Gelegenheit zur Nachholung der Klausuren gegeben werden.<sup>2</sup> Die Nachholung und Korrektur der Klausuren muss vor der Abschlusskonferenz (§15 Abs. 1) der Prüfungskommission erfolgt sein; ist dies nicht möglich, gilt die Prüfung als nicht abgelegt.<sup>3</sup> Bei Erkrankung vor oder während der mündlichen Prüfung kann die 
 
-Möglichkeit zur Nachholung geben werden.[4] Ist die Nachholung in diesem Fall nicht vor der letzten Schlusskonferenz der Fachkommissionen der mündlichen Prüfung (§ 13 Abs. 7) möglich, so muss sie im darauffolgenden Prüfungstermin erfolgen.[5] Andernfalls gilt die Prüfung als nicht abgelegt. 
+Möglichkeit zur Nachholung geben werden.<sup>4</sup> Ist die Nachholung in diesem Fall nicht vor der letzten Schlusskonferenz der Fachkommissionen der mündlichen Prüfung (§ 13 Abs. 7) möglich, so muss sie im darauffolgenden Prüfungstermin erfolgen.<sup>5</sup> Andernfalls gilt die Prüfung als nicht abgelegt. 
 
 - (5) Kann die zu prüfende Person, die zumindest eines der Praxisprojekte abgeschlossen hat, wegen Krankheit oder anderer schwerwiegender Gründe, die sie nicht zu vertreten hat, an den Klausuren und der mündlichen Prüfung nicht teilnehmen, so werden die bereits abgelegten Prüfungsteile für die nächste Theologische Anstellungsprüfung angerechnet. 
 
@@ -348,15 +343,15 @@ Möglichkeit zur Nachholung geben werden.[4] Ist die Nachholung in diesem Fall n
 
    - der mündlichen Prüfung in den Fächern Gottesdienst und Verkündigung, Pädagogik in Schule und Gemeinde und Kirche als Institution und ihr Recht je einfach. 
 
-- (3)[1] Aus der Summe aller Einzelnoten ergibt sich unter Anwendung des Berechnungsschlüssels nach Absatz 2 die Gesamtprüfungsnote: 
+- (3)<sup>1</sup> Aus der Summe aller Einzelnoten ergibt sich unter Anwendung des Berechnungsschlüssels nach Absatz 2 die Gesamtprüfungsnote: 
 
 Summe aller Einzelnoten bis 1,25 = sehr gut (1) Summe aller Einzelnoten von 1,26 bis 1,75 = fast sehr gut (1,5) Summe aller Einzelnoten von 1,76 bis 2,25 = gut (2) Summe aller Einzelnoten von 2,26 bis 2,75 = fast gut (2,5) Summe aller Einzelnoten von 2,76 bis 3,25 = befriedigend (3) Summe aller Einzelnoten von 3,26 bis 3,75 = noch befriedigend (3,5) Summe aller Einzelnoten von 3,76 bis 4,25 = ausreichend (4) Summe aller Einzelnoten von 4,26 bis 4,75 = fast mangelhaft (4,5) Summe aller Einzelnoten von 4,76 bis 5;25 = mangelhaft (5) Summe aller Einzelnoten von 5,26 bis 5,75 = fast ungenügend (5,5) Summe aller Einzelnoten über 5,75 = ungenügend (6). 
 
 2Die Gesamtprüfungsnote wird in arabischen Ziffern bis auf zwei Dezimalstellen angegeben. 3Bei der Errechnung der Gesamtprüfungsnote wird die zweite Dezimalstelle nicht auf- oder abgerundet. 
 
-- (4)[1] Die Noten für die Praxisprojekte Gottesdienst und Religionspädagogik setzen die jeweiligen regionalen Prüfungsfachkommissionen fest.[2] Die Note für das Praxisprojekt Seelsorge setzt die jeweilige Prüfungsfachkommission fest. 
+- (4)<sup>1</sup> Die Noten für die Praxisprojekte Gottesdienst und Religionspädagogik setzen die jeweiligen regionalen Prüfungsfachkommissionen fest.<sup>2</sup> Die Note für das Praxisprojekt Seelsorge setzt die jeweilige Prüfungsfachkommission fest. 
 
-- (5)[l] Die Klausuren werden von zwei Korrektoren/Korrektorinnen beurteilt.[2] Dem/der zweiten Korrektor/in wird die Beurteilung, die auch eine zusammenfassende Bewertung enthalten kann, nicht jedoch die genaue ziffernmäßige Festlegung der Note des/der ersten Korrektors/Korrektorin mitgeteilt. 3Bei abweichender Benotung durch die beiden Korrektoren/Korrektorinnen sollen diese eine Einigung über die Note herbeiführen.[4] Kommt eine Einigung nicht zustande, entscheidet der/die Prüfungsvorsitzende im Rahmen der von den Korrektoren/Korrektorinnen gegebenen Noten. 
+- (5)<sup>l</sup> Die Klausuren werden von zwei Korrektoren/Korrektorinnen beurteilt.<sup>2</sup> Dem/der zweiten Korrektor/in wird die Beurteilung, die auch eine zusammenfassende Bewertung enthalten kann, nicht jedoch die genaue ziffernmäßige Festlegung der Note des/der ersten Korrektors/Korrektorin mitgeteilt. 3Bei abweichender Benotung durch die beiden Korrektoren/Korrektorinnen sollen diese eine Einigung über die Note herbeiführen.<sup>4</sup> Kommt eine Einigung nicht zustande, entscheidet der/die Prüfungsvorsitzende im Rahmen der von den Korrektoren/Korrektorinnen gegebenen Noten. 
 
 - (6) Bei der mündlichen Prüfung stellt die jeweilige Fachkommission die Note fest. 
 
@@ -376,7 +371,7 @@ Die Prüfung ist nicht bestanden, wenn
 
 - bb) zweimal die Note 5 oder schlechtere Noten oder 
 
-cc) die Durchschnittsnote aus allen Einzelnoten von 4,26 oder schlechter 
+- cc) die Durchschnittsnote aus allen Einzelnoten von 4,26 oder schlechter 
 
 ergeben oder 
 
@@ -390,13 +385,13 @@ ergeben oder
 
 - (3) Das Abschlusszeugnis enthält die Gesamtprüfungsnote, eine Aufstellung aller Einzelnoten und den Vermerk über das Bestehen oder Nichtbestehen der Prüfung. 
 
-- (4)[1] Jede geprüfte Person kann innerhalb eines Monats nach der Zustellung des Abschlusszeugnisses einen Antrag auf Einsichtnahme in den sie betreffenden Teil der Prüfungsakten stellen. 2Der/die Leiter/in des Prüfungsamtes setzt unverzüglich einen möglichst nahen Termin für die Einsichtnahme fest. 
+- (4)<sup>1</sup> Jede geprüfte Person kann innerhalb eines Monats nach der Zustellung des Abschlusszeugnisses einen Antrag auf Einsichtnahme in den sie betreffenden Teil der Prüfungsakten stellen. 2Der/die Leiter/in des Prüfungsamtes setzt unverzüglich einen möglichst nahen Termin für die Einsichtnahme fest. 
 
 ## **§ 16 Unterschleif.** 
 
-- (1)[1] Alle Prüfungsarbeiten sind eigenständig und ohne inhaltliche Hilfe Dritter anzufertigen.[2] Wird versucht, das Ergebnis der Prüfung durch Unterschleif, Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vorteil zu beeinflussen, so ist die betreffende Prüfungsleistung mit der Note „ungenügend" zu bewerten.[3] In schweren Fällen kann der Ausschluss von der Prüfung ausgesprochen werden; die Prüfung gilt dann als nicht bestanden. 4Unterschleif liegt auch vor, wenn die zu prüfende Person ein nicht zugelassenes Hilfsmittel bei sich führt, nachdem die Prüfungsaufgabe ausgegeben worden ist, es sei denn, die zu prüfende Person weist nach, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht. 
+- (1)<sup>1</sup> Alle Prüfungsarbeiten sind eigenständig und ohne inhaltliche Hilfe Dritter anzufertigen.<sup>2</sup> Wird versucht, das Ergebnis der Prüfung durch Unterschleif, Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vorteil zu beeinflussen, so ist die betreffende Prüfungsleistung mit der Note „ungenügend" zu bewerten.<sup>3</sup> In schweren Fällen kann der Ausschluss von der Prüfung ausgesprochen werden; die Prüfung gilt dann als nicht bestanden. 4Unterschleif liegt auch vor, wenn die zu prüfende Person ein nicht zugelassenes Hilfsmittel bei sich führt, nachdem die Prüfungsaufgabe ausgegeben worden ist, es sei denn, die zu prüfende Person weist nach, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht. 
 
-- (2)[1] Wird ein Tatbestand nach Absatz 1 Satz 1 erst nach Abschluss der Prüfung (§ 15 Abs. 1 und 2) bekannt, so ist die betreffende Prüfungsleistung nachträglich mit „ungenügend" zu bewerten und die Gesamtprüfungsnote zu berichtigen.[2] In schweren Fällen ist die Prüfung als nicht bestanden zu erklären.[3] Ein unrichtiges Prüfungszeugnis ist einzuziehen. 
+- (2)<sup>1</sup> Wird ein Tatbestand nach Absatz 1 Satz 1 erst nach Abschluss der Prüfung (§ 15 Abs. 1 und 2) bekannt, so ist die betreffende Prüfungsleistung nachträglich mit „ungenügend" zu bewerten und die Gesamtprüfungsnote zu berichtigen.<sup>2</sup> In schweren Fällen ist die Prüfung als nicht bestanden zu erklären.<sup>3</sup> Ein unrichtiges Prüfungszeugnis ist einzuziehen. 
 
 - (3) Die Maßnahmen nach Absatz 1 und Absatz 2 Sätze 1 und 2 trifft der/die Prüfungsvorsitzende. 
 
@@ -404,9 +399,9 @@ ergeben oder
 
 - (1) Wer die Prüfung nach § 14 nicht bestanden hat oder wessen Prüfung als nicht bestanden gilt, kann auf Antrag die gesamte Prüfung einmal wiederholen, in der Regel innerhalb eines Jahres. 
 
-- (2)[1] Wer die Prüfung nach § 14 Buchst. a nicht bestanden hat, kann die Praxisprojekte (§ 9) auf Antrag einmal wiederholen, in der Regel innerhalb eines Jahres.[2] In diesem Fall gelten die Noten der Klausuren und der mündlichen Prüfung für die Wiederholungsprüfung. 
+- (2)<sup>1</sup> Wer die Prüfung nach § 14 Buchst. a nicht bestanden hat, kann die Praxisprojekte (§ 9) auf Antrag einmal wiederholen, in der Regel innerhalb eines Jahres.<sup>2</sup> In diesem Fall gelten die Noten der Klausuren und der mündlichen Prüfung für die Wiederholungsprüfung. 
 
-- (3)[1] Wer die Prüfung nach § 14 Buchst. b nicht bestanden hat, kann die Klausuren (§ 10) und die mündliche Prüfung (§ 11) auf Antrag einmal wiederholen, in der Regel innerhalb eines Jahres. 2In diesem Fall gelten die Noten der Praxisprojekte für die Wiederholungsprüfung. 
+- (3)<sup>1</sup> Wer die Prüfung nach § 14 Buchst. b nicht bestanden hat, kann die Klausuren (§ 10) und die mündliche Prüfung (§ 11) auf Antrag einmal wiederholen, in der Regel innerhalb eines Jahres. 2In diesem Fall gelten die Noten der Praxisprojekte für die Wiederholungsprüfung. 
 
 - (4) Wer die Prüfung nicht bestanden hat, kann von den Wiederholungsmöglichkeiten der Absätze 1 bis 3 nur ein einziges Mal Gebrauch machen. 
 
@@ -424,43 +419,39 @@ ergeben oder
 
 geltend gemacht werden. 
 
-- (2)[1] Wird der Mangel nicht behoben, kann innerhalb von 24 Stunden 
+- (2)<sup>1</sup> Wird der Mangel nicht behoben, kann innerhalb von 24 Stunden 
 
    - a) im Falle des Absatz 1 Buchst. a und b bei dem/der Prüfungsvorsitzenden (§ 2 Abs. 1 Satz 3), 
 
    - b) im Falle des Absatz 1 Buchst. c bei der Gesamtheit der Mitglieder der Fachkommissionen der mündlichen Prüfung (§ 13 Abs. 7) 
 
-schriftlich Einspruch erhoben werden.[2] Die Entscheidung über den Einspruch erfolgt innerhalb von weiteren 48 Stunden. 
+schriftlich Einspruch erhoben werden.<sup>2</sup> Die Entscheidung über den Einspruch erfolgt innerhalb von weiteren 48 Stunden. 
 
 ## **§ 19 Nachträglich festgestellte Mängel des Prüfungsverfahrens.** 
 
 - (1) Erweist sich nachträglich, dass das Prüfungsverfahren mit Mängeln behaftet war, die die Chancengleichheit erheblich verletzt haben, so kann der Landeskirchenrat auf Antrag einer geprüften Person oder von Amts wegen festlegen, von wem die Prüfung oder einzelne Teile derselben zu wiederholen sind. 
 
-- (2)[1] Ein Antrag nach Absatz 1 ist unverzüglich nach Kenntnis des Verfahrensmangels zu stellen. 2Der Antrag ist ausgeschlossen, wenn seit dem Abschluss des Teils des Prüfungsverfahrens, der mit Mängeln behaftet war, ein Monat verstrichen ist. 
+- (2)<sup>1</sup> Ein Antrag nach Absatz 1 ist unverzüglich nach Kenntnis des Verfahrensmangels zu stellen. 2Der Antrag ist ausgeschlossen, wenn seit dem Abschluss des Teils des Prüfungsverfahrens, der mit Mängeln behaftet war, ein Monat verstrichen ist. 
 
 - (3) Sechs Monate nach Abschluss der Prüfung (§ 15 Abs. 1 und 2) darf der Landeskirchenrat von Amts wegen Anordnungen nach Absatz 1 nicht mehr treffen. 
 
 ## **§ 20 Beschwerde.** 
 
-- (1)[1] In den folgenden Fällen ist die Einlegung einer Beschwerde zulässig: 
+- (1)<sup>1</sup> In den folgenden Fällen ist die Einlegung einer Beschwerde zulässig: 
 
-   - a) Nichtzulassung zur Prüfung (§ 6), 
-
-   - b) Zurückweisung des Einspruchs gemäß § 18, 
-
-   - c) Maßnahmen bei Unterschleif (§ 16), 
+   - a) Nichtzulassung zur Prüfung (§ 6), b) Zurückweisung des Einspruchs gemäß § 18, c) Maßnahmen bei Unterschleif (§ 16), 
 
    - d) Festsetzung der Gesamtprüfungsnote (§ 15 Abs. 1). 
 
-2Die Beschwerde ist in den Fällen der Buchstaben a bis c innerhalb eines Monats nach Mitteilung, im Fall des Buchstaben d innerhalb eines Monats nach Zustellung des Abschlusszeugnisses (§ 15 Abs. 3) jeweils schriftlich beim Prüfungsamt einzulegen.[3] Bei Einsichtnahme in die Prüfungsakten nach § 15 Abs. 4 beginnt die Monatsfrist mit dem von dem/der Leiter/in des Prüfungsamtes festgesetzten Termin für die Einsichtnahme. 
+2Die Beschwerde ist in den Fällen der Buchstaben a bis c innerhalb eines Monats nach Mitteilung, im Fall des Buchstaben d innerhalb eines Monats nach Zustellung des Abschlusszeugnisses (§ 15 Abs. 3) jeweils schriftlich beim Prüfungsamt einzulegen.<sup>3</sup> Bei Einsichtnahme in die Prüfungsakten nach § 15 Abs. 4 beginnt die Monatsfrist mit dem von dem/der Leiter/in des Prüfungsamtes festgesetzten Termin für die Einsichtnahme. 
 
-- (2)[1] In der Beschwerde sind die Tatsachen anzugeben und die Rechtsgründe zu nennen, auf die die Beschwerde gestützt wird.[2] Die Beschwerde kann nur damit begründet werden, dass eine Ver- 
+- (2)<sup>1</sup> In der Beschwerde sind die Tatsachen anzugeben und die Rechtsgründe zu nennen, auf die die Beschwerde gestützt wird.<sup>2</sup> Die Beschwerde kann nur damit begründet werden, dass eine Ver- 
 
-letzung in eigenen Rechten vorliegt.[3] Dazu zählen insbesondere Verstöße gegen die Chancengleichheit, anerkannte Bewertungsgrundsätze und gegen Verfahrensbestimmungen. 
+letzung in eigenen Rechten vorliegt.<sup>3</sup> Dazu zählen insbesondere Verstöße gegen die Chancengleichheit, anerkannte Bewertungsgrundsätze und gegen Verfahrensbestimmungen. 
 
 - (3) Über die Zulässigkeit und Begründetheit der Beschwerde entscheidet der Landeskirchenrat. 
 
-- (4)[1] Hält der Landeskirchenrat die Beschwerde für zulässig und begründet, so hebt er die getroffene Entscheidung bzw. das Ergebnis der Prüfung ganz oder teilweise auf.[2] Er kann anordnen, dass die Prüfung von der beschwerdeführenden Person ganz oder teilweise zu wiederholen ist und dass die Wiederholung vor einer anderen Prüfungskommission stattzufinden hat. 
+- (4)<sup>1</sup> Hält der Landeskirchenrat die Beschwerde für zulässig und begründet, so hebt er die getroffene Entscheidung bzw. das Ergebnis der Prüfung ganz oder teilweise auf.<sup>2</sup> Er kann anordnen, dass die Prüfung von der beschwerdeführenden Person ganz oder teilweise zu wiederholen ist und dass die Wiederholung vor einer anderen Prüfungskommission stattzufinden hat. 
 
 ## **§ 21 Anrufung des Verwaltungsgerichts.** 
 
@@ -470,17 +461,17 @@ letzung in eigenen Rechten vorliegt.[3] Dazu zählen insbesondere Verstöße geg
 
 ## **§ 22 Vorprüfung.** 
 
-1Der/die Vorsitzende des Verwaltungsgerichts prüft zunächst, ob die Anfechtung zulässig und nach dem Vortrag begründet erscheint.[2] Er/sie weist die Anfechtung als offensichtlich unbegründet zurück, wenn nach dem Vortrag keine Anhaltspunkte dafür gegeben sind, dass die Anfechtung begründet ist. 
+1Der/die Vorsitzende des Verwaltungsgerichts prüft zunächst, ob die Anfechtung zulässig und nach dem Vortrag begründet erscheint.<sup>2</sup> Er/sie weist die Anfechtung als offensichtlich unbegründet zurück, wenn nach dem Vortrag keine Anhaltspunkte dafür gegeben sind, dass die Anfechtung begründet ist. 
 
 ## **§ 23 Entscheidung des Verwaltungsgerichts.** 
 
-- (1)[1] Hält das Verwaltungsgericht die Anfechtung für zulässig und begründet, so hebt es die Entscheidung des Landeskirchenrates auf.[2] Der Landeskirchenrat entscheidet, welche der in § 20 Abs. 4 Satz 2 vorgesehenen Anordnungen er treffen will. 
+- (1)<sup>1</sup> Hält das Verwaltungsgericht die Anfechtung für zulässig und begründet, so hebt es die Entscheidung des Landeskirchenrates auf.<sup>2</sup> Der Landeskirchenrat entscheidet, welche der in § 20 Abs. 4 Satz 2 vorgesehenen Anordnungen er treffen will. 
 
 - (2) Solange über eine Beschwerde nicht abschließend entschieden und eine angeordnete Wiederholung der Prüfung nicht beendet ist, gilt die Prüfung als nicht abgeschlossen. 
 
-- (3)[1] Eine Zulassung zur Wiederholung der Prüfung ist unter dem Vorbehalt möglich, dass die Beschwerde Erfolg hat.[2] In diesem Fall gilt ausschließlich das Ergebnis der Wiederholungsprüfung. 
+- (3)<sup>1</sup> Eine Zulassung zur Wiederholung der Prüfung ist unter dem Vorbehalt möglich, dass die Beschwerde Erfolg hat.<sup>2</sup> In diesem Fall gilt ausschließlich das Ergebnis der Wiederholungsprüfung. 
 
-- (4)[1] Der Landeskirchenrat wird vor dem Verwaltungsgericht durch den/die Leiter/in des Prüfungsamtes vertreten.[2] Der Landeskirchenrat kann die Vertretung abweichend regeln. 
+- (4)<sup>1</sup> Der Landeskirchenrat wird vor dem Verwaltungsgericht durch den/die Leiter/in des Prüfungsamtes vertreten.<sup>2</sup> Der Landeskirchenrat kann die Vertretung abweichend regeln. 
 
 ## **IV. Abschnitt. Schlussbestimmungen** 
 
@@ -516,9 +507,7 @@ Wird in der Klausur aus der biblischen Theologie ein neutestamentlicher Text gew
 
 Rechtssammlung der Evangelisch-Lutherischen Kirche in Bayern. 
 
-Das Hilfsmittel darf keine Bemerkungen oder Beilagen enthalten. Ausgenommen sind gelegentliche Unterstreichungen, soweit sie nicht der Umgehung des Kommentierverbotes dienen oder systematisch aufgebaut sind. Unter das Verbot von Bemerkungen fallen nicht nur jegliche Wortanmerkungen, sondern auch Abkürzungen, Symbole und andere Kennzeichen, die diese ersetzen sollen. Unterstreichungen sind dann systematisch aufgebaut oder dienen der Umgehung des Kommentierverbotes, wenn ihnen eine über die Hervorhebung hinausgehende Bedeutung zukommt. 
-
-Zu den zugelassenen Unterstreichungen gehören auch ein- oder mehrfarbige Markierungen mit Textmarkern bzw. Leuchtstiften. Das Anbringen von Seitenmarkierungen ist gestattet. 
+Das Hilfsmittel darf keine Bemerkungen oder Beilagen enthalten. Ausgenommen sind gelegentliche Unterstreichungen, soweit sie nicht der Umgehung des Kommentierverbotes dienen oder systematisch aufgebaut sind. Unter das Verbot von Bemerkungen fallen nicht nur jegliche Wortanmerkungen, sondern auch Abkürzungen, Symbole und andere Kennzeichen, die diese ersetzen sollen. Unterstreichungen sind dann systematisch aufgebaut oder dienen der Umgehung des Kommentierverbotes, wenn ihnen eine über die Hervorhebung hinausgehende Bedeutung zukommt. Zu den zugelassenen Unterstreichungen gehören auch ein- oder mehrfarbige Markierungen mit Textmarkern bzw. Leuchtstiften. Das Anbringen von Seitenmarkierungen ist gestattet. 
 
 Darüber hinaus sind einzelne handschriftliche Verweisungen auf Rechtsvorschriften sowie die zur Konkretisierung der jeweiligen Vorschriften erforderlichen Angaben (Beispiel: „§“, „Art.“, „Abs.“, „S.“, „1. HS“, „Nr.“, „Buchst.“, „1. Alt.“, „Pfarrergesetz“, „PfG“, „PfG [RS 500]“, „f.“, „ff.“) zulässig. Diese Verweisungen können nicht nur am Rand der Vorschriften, sondern auch zwischen den Zeilen direkt an einem Wort einer Vorschrift, auf das sie sich beziehen, angebracht werden. Eine systematische Hervorhebung der Verweisungen oder Vorschriftenketten (Beispiel: „§§ 23 Abs. 2 Nr. 2; 37 PfG“) sind allerdings unzulässig. Hinsichtlich der Frage, inwieweit es sich bei den Verweisungen noch um einzelne Verweisungen handelt, ist der Gesamteindruck des kommentierten Gesetzestextes, einschließlich der dort vorgenommenen Unterstreichungen, erheblich. 
 

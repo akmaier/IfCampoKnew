@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES MA-IIS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:13+00:00
-page_count_chars: 2405
+scraped_at: 2026-07-01T11:04:13+00:00
+page_count_chars: 2402
 ---
 
 # 15. Februar 2013
@@ -12,19 +12,19 @@ page_count_chars: 2405
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES MA-IIS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
 
 Vom 15. Februar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS - vom 8. Juli 2010, zuletzt geändert durch Satzung vom 17. Januar 2011, wird wie folgt geändert: 
 
 § 2 wird wie folgt geändert: 
 
-1. In Abs. 2 Nr. 2 werden nach der Zahl „85“ die Worte „(entspricht Niveau B2[+] , GER)“ eingefügt. 
+1. In Abs. 2 Nr. 2 werden nach der Zahl „85“ die Worte „(entspricht Niveau B2<sup>+</sup> , GER)“ eingefügt. 
 
 2. Abs. 3 wird wie folgt geändert: 
 
@@ -40,9 +40,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
    - b) In Nr. 2 wird nach dem Wort „Studienverlauf“ der Klammerzusatz mit den Worten „(max. 5 Punkte)“ eingefügt. 
 
-   - c) Nr. 3 erhält folgende neue Fassung: 
-
-      - „3. Fähigkeit die fachspezifischen Grundlagen interdisziplinär zu verknüpfen (max. 5 Punkte).“ 
+   - c) Nr. 3 erhält folgende neue Fassung: „3. Fähigkeit die fachspezifischen Grundlagen interdisziplinär zu verknüpfen (max. 5 Punkte).“ 
 
    - d) Nr. 4 wird ersatzlos gestrichen. 
 

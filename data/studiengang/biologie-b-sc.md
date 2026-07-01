@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:42:55+00:00
+scraped_at: 2026-07-01T08:19:07+00:00
 ---
 
 # Biologie (B.Sc.)
@@ -35,7 +35,7 @@ Die Biologie ist die Naturwissenschaft, die alle Gesetzmäßigkeiten des Lebens 
 
 Wenn Sie von Fragestellungen der modernen Biologie fasziniert sind, sich in der Nebenfachausbildung auch für Chemie, Physik und Mathematik interessieren und die Fähigkeit zum selbständigen Arbeiten mitbringen, dann ist das Biologie‐Studium an der FAU genau das richtige für Sie.
 
-### Fachanteile des Studiengangs Biologie B.Sc.
+### Fachanteile des Studiengangs Biologie (B.Sc.)
 
 * Biologie (Grundlagen) (42%)
 * Biologie (Vertiefung/Spezialisierung) (27%)

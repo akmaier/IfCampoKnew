@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Informatik FPOINF 20230426 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20230426_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:17:46+00:00
-page_count_chars: 6120
+scraped_at: 2026-07-01T11:37:13+00:00
+page_count_chars: 6048
 ---
 
 # BSc-MSc Informatik FPOINF 20230426 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 6120
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20230426_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Siebzehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) - FPOINF –** 
+# **Siebzehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) - FPOINF –** 
 
-## **Vom 26. April 2023** 
+# **Vom 26. April 2023** 
 
 Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 des Bayerischen Hochschulinnovationsgesetzes vom 5. August 2022 ( **BayHIG** ) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Universität Erlangen-Nürnberg - FPOINF - vom 21. September 2007, zuletzt geändert durch Satzung vom 26. Juli 2022, wird wie folgt geändert: 
 
@@ -38,15 +38,15 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 b) Nach Satz 2 werden folgende neue Sätze 3 bis 5 angefügt: 
 
-„[3] Abweichend von Satz 2 können Bewerberinnen und Bewerber mit einem Bachelorabschluss in Mathematik auch ohne Nebenfach Informatik in das Qualifikationsfeststellungsverfahren einbezogen werden, wenn sie die Kompetenzen der Module des Nebenfachs Informatik gemäß Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Mathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOMathe** – bzw. zu diesen nicht wesentlich unterschiedliche Module anderer Hochschulen anderweitig nachweisen können; die entsprechenden Nachweise sind der Bewerbung in geeigneter Form (bspw. Transcript of Records, Zertifikate, o.Ä.) beizufügen.[4] Ebenfalls abweichend von Sätzen 1 und 2 kann die Zugangskommission Bewerberinnen und Bewerber, die über einen im Sinne des Satz 2 wesentlich unterschiedlichen Abschluss bzw. einen sonstigen dem Bachelorabschluss gleichwertigen Abschluss verfügen, in das Qualifikationsfeststellungsverfahren einbeziehen, wenn diese Bewerberinnen bzw. Bewerber die Kompetenzen der Pflichtmodule der ersten vier Semester des Bachelorstudiengangs Informatik an der FAU (vgl. **Anlage 1** ) zwar außerhalb des ersten berufsqualifizierenden Abschlusses, aber gleichwohl an einer Hochschule erworben haben; Satz 3 Halbsatz 2 gilt entsprechend.[5] Fehlende Kompetenzen aus den in Satz 4 genannten Modulen können über Auflagen nach § 29 Abs. 2 Satz 2 **ABMPO/TechFak** ausgeglichen werden; sind darüberhinausgehende Unterschiede in den jeweiligen Kompetenzbereichen vorhanden, gelten diese als wesentlich und die Bewerberin bzw. der Bewerber ist abzulehnen.“ 
+„<sup>3</sup> Abweichend von Satz 2 können Bewerberinnen und Bewerber mit einem Bachelorabschluss in Mathematik auch ohne Nebenfach Informatik in das Qualifikationsfeststellungsverfahren einbezogen werden, wenn sie die Kompetenzen der Module des Nebenfachs Informatik gemäß Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Mathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOMathe** – bzw. zu diesen nicht wesentlich unterschiedliche Module anderer Hochschulen anderweitig nachweisen können; die entsprechenden Nachweise sind der Bewerbung in geeigneter Form (bspw. Transcript of Records, Zertifikate, o.Ä.) beizufügen.<sup>4</sup> Ebenfalls abweichend von Sätzen 1 und 2 kann die Zugangskommission Bewerberinnen und Bewerber, die über einen im Sinne des Satz 2 wesentlich unterschiedlichen Abschluss bzw. einen sonstigen dem Bachelorabschluss gleichwertigen Abschluss verfügen, in das Qualifikationsfeststellungsverfahren einbeziehen, wenn diese Bewerberinnen bzw. Bewerber die Kompetenzen der Pflichtmodule der ersten vier Semester des Bachelorstudiengangs Informatik an der FAU (vgl. **Anlage 1** ) zwar außerhalb des ersten berufsqualifizierenden Abschlusses, aber gleichwohl an einer Hochschule erworben haben; Satz 3 Halbsatz 2 gilt entsprechend.<sup>5</sup> Fehlende Kompetenzen aus den in Satz 4 genannten Modulen können über Auflagen nach § 29 Abs. 2 Satz 2 **ABMPO/TechFak** ausgeglichen werden; sind darüberhinausgehende Unterschiede in den jeweiligen Kompetenzbereichen vorhanden, gelten diese als wesentlich und die Bewerberin bzw. der Bewerber ist abzulehnen.“ 
 
 4. In § 46 Abs. 2 wird nach Satz 3 folgender neuer Satz 4 angefügt: 
 
-„[4] Ausnahmen hiervon kann die Studienkommission in begründeten Fällen genehmigen.“ 
+„<sup>4</sup> Ausnahmen hiervon kann die Studienkommission in begründeten Fällen genehmigen.“ 
 
 5. In § 47 wird nach Abs. 11 folgender neuer Abs. 12 angefügt: 
 
-„(12)[1] Die siebzehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Soweit nachfolgend nicht anders geregelt, gelten die Änderungen für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen der FPOINF studieren sowie solche, die das Studium künftig aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
+„(12)<sup>1</sup> Die siebzehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Soweit nachfolgend nicht anders geregelt, gelten die Änderungen für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen der FPOINF studieren sowie solche, die das Studium künftig aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
 
 2 
 
@@ -66,12 +66,7 @@ b) Nach Satz 2 werden folgende neue Sätze 3 bis 5 angefügt:
 
 „ 
 
-**Wahlpflichtmodule und Nebenfach** 
-
-**==> picture [265 x 30] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-30<br>**----- End of picture text -----**<br>
+**Wahlpflichtmodule und Neben30 fach** 
 
 „ 
 
@@ -93,7 +88,7 @@ b) Nach Satz 2 werden folgende neue Sätze 3 bis 5 angefügt:
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Soweit nachfolgend nicht anders geregelt, gelten die Änderungen für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen der FPOINF studieren sowie solche, die das Studium künftig aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Soweit nachfolgend nicht anders geregelt, gelten die Änderungen für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach einer der bisher gültigen Fassungen der FPOINF studieren sowie solche, die das Studium künftig aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 25. Januar 2023 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 26. April 2023. 
 

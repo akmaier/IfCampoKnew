@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Mai 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA IndoGermIndoIran.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:54+00:00
-page_count_chars: 7330
+scraped_at: 2026-07-01T10:20:51+00:00
+page_count_chars: 7084
 ---
 
 # 9. Mai 2016
@@ -14,11 +14,11 @@ page_count_chars: 7330
 
 **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## **Vom 9. Mai 2016** 
+# **Vom 9. Mai 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -44,7 +44,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiran
 
    - d) Abs. 4 wird gestrichen. 
 
-## 4. § 4 wird wie folgt geändert: 
+# 4. § 4 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „Studiums“ ein Komma und die Worte „Unterrichts- und Prüfungssprache“ angefügt. 
 
@@ -72,11 +72,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiran
 
 9. „Italoromanistik“ 
 
-im Umfang von insgesamt 20 ECTS-Punkten wählbar.[2] Art und Umfang der Studien- und Prüfungsleistung in den Importmodulen sind abhängig vom jeweils gewählten Modul und der einschlägigen (Fach-)Prüfungsordnung bzw. dem Modulhandbuch zu entnehmen. 3Es sind ausschließlich Module mit sprachwissenschaftlichem Inhalt wählbar.“ 
+im Umfang von insgesamt 20 ECTS-Punkten wählbar.<sup>2</sup> Art und Umfang der Studien- und Prüfungsleistung in den Importmodulen sind abhängig vom jeweils gewählten Modul und der einschlägigen (Fach-)Prüfungsordnung bzw. dem Modulhandbuch zu entnehmen. 3Es sind ausschließlich Module mit sprachwissenschaftlichem Inhalt wählbar.“ 
 
    - c) Abs. 3 wird wie folgt geändert: 
 
-      - aa) Vor dem Wort „Falls“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+      - aa) Vor dem Wort „Falls“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
       - bb) In Satz 1 (neu) werden nach dem Wort „Indogermanistik“ die Worte „und Indoiranistik“ und nach den Worten „im Umfang von“ das Wort „insgesamt“ eingefügt. 
 
@@ -84,38 +84,38 @@ im Umfang von insgesamt 20 ECTS-Punkten wählbar.[2] Art und Umfang der Studien-
 
    - d) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-- „(4) 1Die Unterrichts- und Prüfungssprache im Fach Indogermanistik und Indoiranistik ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.“ 
+- „(4) 1Die Unterrichts- und Prüfungssprache im Fach Indogermanistik und Indoiranistik ist Deutsch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch.“ 
 
 - 5. In § 5 werden die Worte „für das Basismodul „Sanskrit“ (10 ECTS-Punkte) sowie für das Modul „Einführung in die Historisch Vergleichende Sprachwissenschaft“ (10 ECTS-Punkte)“ durch die Worte „der Basismodule „Einführung in die Indogermanistik“, „Einführung in das Germanische“, „Sanskrit I“ und „Sanskrit II““ ersetzt. 
 
 6. In § 6 werden die Worte „erfolgreiche Teilnahme an allen“ durch das Wort „Aufbaumodule“, das Zeichen und die Zahl „§ 4“ durch das Wort und die Zahl „ **Anlage** “, die Worte „erforderlichen Aufbaumodulen nachgewiesen“ durch die Worte „erfolgreich abgeschlossen“ und nach den Worten „abgeschlossen worden“ (neu) das Wort „ist“ durch das Wort „sind“ ersetzt. 
 
-## 7. Nach § 7 wird folgende neue Anlage angefügt: 
+# 7. Nach § 7 wird folgende neue Anlage angefügt: 
 
-## „ **Anlage: Studienverlaufsplan Bachelor Indogermanistik und Indoiranistik** 
+# <u>„</u> **Anlage: Studienverlaufsplan Bachelor Indogermanistik und Indoiranistik** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang<br>d Püf|Faktor<br>Modulno<br>te|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|er rung||
-|Basismodule|||||||||||||||
-|EinführungindieIndogermanistik|Proseminar||||2|5|5||||||Klausur(90Min.)|1|
-|Einführungindas Germanische|Vorlesung|2||||5||5|||||Klausur(90Min.)|1|
-|SanskritI|Proseminar||||2|5|5||||||Klausur(90Min.)|1|
-|SanskritII|Proseminar||||2|5||5|||||Klausur(90Min.)|1|
-|Aufbaumodule|||||||||||||||
-|Indoiranische Sprachen I|Mittelseminar||||2|5|||5||||Klausur(90Min.)|1|
-|Indoiranische Sprachen II|Mittelseminar||||2|5||||5|||Hausarbeit<br>(ca. 20 S.)|1|
-|Weitere indogermanische<br>Sprachen I|Mittelseminar||||2|5|||5||||Klausur (90 Min.)|1|
-|Weitere indogermanische<br>Sprachen II|Mittelseminar||||2|5||||5|||Hausarbeit<br>(ca. 20 S.)|1|
-|Rekonstruktion der<br>indogermanischen Grundsprache<br>I|Mittelseminar||||2|5|||||5||Klausur (90 Min.)|1|
-|Rekonstruktion der<br>indogermanischen Grundsprache<br>II|Mittelseminar||||2|5|||||5||Hausarbeit<br>(ca. 20 S.)|1|
-|Importmodule|||||||||||||||
-|Importmodule2||||||20|||5|5|5|5|Nach Maßgabe des<br>Faches3|1|
-|Bachelorarbeit|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit<br>(ca. 40 S.)|1|
-|Summe:<br>||2|||18|90|10|10|15|15|15|15|||
-|||20<br>|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung||SWS<br>||Gesamt<br>ECTS|Workload-<br>|Verteilun<br>ECTS-P|g pro S<br>unkten|emester in<br><sup>1</sup>|Art und Umfang<br>der Prüfun|Faktor<br>Modulno|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P|S||1.<br>2.|3.|4.|5.<br>6.|g|te|
+|Basismodule||||||||||||
+|EinführungindieIndogermanistik|Proseminar|||2|5|5||||Klausur(90Min.)|1|
+|Einführungindas Germanische|Vorlesung|2|||5|5||||Klausur(90Min.)|1|
+|SanskritI|Proseminar|||2|5|5||||Klausur(90Min.)|1|
+|SanskritII|Proseminar|||2|5|5||||Klausur(90Min.)|1|
+|Aufbaumodule||||||||||||
+|Indoiranische Sprachen I|Mittelseminar|||2|5||5|||Klausur(90Min.)|1|
+|Indoiranische Sprachen II|Mittelseminar|||2|5|||5||Hausarbeit<br>(ca. 20 S.)|1|
+|Weitere indogermanische<br>Sprachen I|Mittelseminar|||2|5||5|||Klausur (90 Min.)|1|
+|Weitere indogermanische<br>Sprachen II|Mittelseminar|||2|5|||5||Hausarbeit<br>(ca. 20 S.)|1|
+|Rekonstruktion der<br>indogermanischen Grundsprache<br>I|Mittelseminar|||2|5||||5|Klausur (90 Min.)|1|
+|<br>Rekonstruktion der<br>indogermanischen Grundsprache<br>|Mittelseminar|||2|5||||5|Hausarbeit<br>(ca 20 S)|1|
+|II||||||||||.  .||
+|Importmodule||||||||||||
+|Importmodule<sup>2</sup>|||||20||5|5|5<br>5|Nach Maßgabe des<br><sup>3</sup>|1|
+||||||||||<br>|Faches||
+|Bachelorarbeit||||||||||||
+|Bachelorarbeit|||||10||||10|Bachelorarbeit<br>(ca. 40 S.)|1|
+||Summe:<br>|2<br>|20<br>|18|90|10<br>10|15|15|15<br>15|||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

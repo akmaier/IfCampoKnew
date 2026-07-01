@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:47:11+00:00
+scraped_at: 2026-07-01T08:23:59+00:00
 ---
 
 # Japanologie (B.A.)
@@ -39,7 +39,7 @@ Das Ziel dieses Studiengangs ist es, dass Studierende originäre Forschung betre
 
 Die sozialwissenschaftliche Japanforschung hat in den letzten Jahren im deutschsprachigen Raum zunehmend an Bedeutung gewonnen. Vor diesem Hintergrund wurde dieser Studiengang gegründet, mit der Erwartung, dass die Studierenden eine sichere Japanischkompetenz erwerben und ihr Verständnis der japanischen Kultur und Gesellschaft mit Bezugnahme auf die bisherige Forschung vertiefen. Es geht dabei darum, nicht nur mit der deutsch- und englischsprachigen Fachliteratur umgehen zu lernen, sondern auch aktuelle japanische Fachliteratur und japanische Primärquellen wie Zeitungsartikel und Social-Media-Posts zu analysieren.
 
-### Bachelor of Arts (2 Fächer) Japanologie
+### Fachanteile des Studiengangs Japanologie (B.A.)
 
 * Sprachkurs (50%)
 * Aktuelle Japanforschung & Fachliteratur (17%)
@@ -105,7 +105,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Geschichte](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geschichte-ba/)
@@ -113,7 +113,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Philosophie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/philosophie-ba/)
 * [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -204,13 +204,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Skandinavistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/skandinavistik-ba/)
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Geschichte](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geschichte-ba/)
 - [Indogermanistik und Indoiranistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/indogermanistik-und-indoiranistik-ba/)
 - [Philosophie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/philosophie-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

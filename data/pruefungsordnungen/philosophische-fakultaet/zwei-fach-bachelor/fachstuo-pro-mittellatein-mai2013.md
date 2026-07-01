@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 28.05.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Mittellatein.MAI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:07:20+00:00
-page_count_chars: 9230
+scraped_at: 2026-07-01T10:25:33+00:00
+page_count_chars: 9143
 ---
 
 # PDF vom 05.10.2007 i.d.F. 28.05.2013
@@ -16,7 +16,7 @@ page_count_chars: 9230
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Mittelund Neulatein im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Mittelund Neulatein im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 - geändert durch Satzungen vom 22. Juli 2008 
 
@@ -40,13 +40,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Mittellatein kann im Bachelorstudiengang als erstes Fach im Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTSPunkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Bachelorstudium Mittellatein erwerben die Studierenden grundlegende Fachkenntnisse der lateinischen Sprache und Literatur im Mittelalter und in der Frühen Neuzeit sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Der Studiengang besitzt einen ausgeprägt interdisziplinären Charakter, wodurch der zentralen Rolle, die dem Lateinischen als dem einzigen übernationalen Kommunikationsmittel in Europa bis ca. 1600 zukam, Rechnung getragen wird.[ 3] Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
+(2)<sup>1</sup> Im Bachelorstudium Mittellatein erwerben die Studierenden grundlegende Fachkenntnisse der lateinischen Sprache und Literatur im Mittelalter und in der Frühen Neuzeit sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Der Studiengang besitzt einen ausgeprägt interdisziplinären Charakter, wodurch der zentralen Rolle, die dem Lateinischen als dem einzigen übernationalen Kommunikationsmittel in Europa bis ca. 1600 zukam, Rechnung getragen wird.<sup>3</sup> Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
 
 (3) 1Im Studium wird eine fachwissenschaftliche Ausbildung gewährleistet. 2Schwerpunkt ist einerseits die methodisch fundierte und vielfältig einsetzbare Kom- 
 
 1 
 
-petenz zur Textanalyse, andererseits die kritisch-historische Reflexion über mediale Aspekte von gesellschaftlicher Relevanz.[3] Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
+petenz zur Textanalyse, andererseits die kritisch-historische Reflexion über mediale Aspekte von gesellschaftlicher Relevanz.<sup>3</sup> Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
 1. Sachkompetenz: Es werden die Hauptzüge der Entwicklung des lateinischen Schrifttums der nachklassischen Epoche (ab 500 nach Chr.) in seiner ganzen Bandbreite gezeichnet. Dafür werden sowohl das klassische Erbe als auch das zeitgenössische historische, kulturgeschichtliche und literarische Umfeld einbezogen; 
 
@@ -56,7 +56,7 @@ petenz zur Textanalyse, andererseits die kritisch-historische Reflexion über me
 
 ## **§ 3 Fächerkombinationen** 
 
-(1)[1] Mit dem Fach Mittel- und Neulatein können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.[2] Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
+(1)<sup>1</sup> Mit dem Fach Mittel- und Neulatein können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.<sup>2</sup> Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
 
 (2) Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
 
@@ -66,41 +66,39 @@ petenz zur Textanalyse, andererseits die kritisch-historische Reflexion über me
 
 2 
 
-|||SWS|SWS|SWS|SWS|Gesamt|ECTS-Punkte|ECTS-Punkte|ECTS-Punkte|pro Semester*|pro Semester*|pro Semester*|Art und Umfang der Prüfung/|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V|S|Ü|P|ECTS|1.|2.|3.|4.|5.|6.|Studienleistung|
-|**Basismodul 1: Einführung in**<br>**die Sprache und Literatur des**<br>**lateinischen Europas**|Proseminar: Einführung in das<br>lateinischeEuropa||2|||10|6||||||Portfolioprüfung:<br>PL: mündliche Prüfung (15 Min, 50<br>%) und Referat (15-30 Min, 50 %)<br>und SL: Klausur (90 Min)|
-||Übersetzungausgewählter Texte|||2||||2||||||
-||Tutorium|||2||||2||||||
-|**Bidl 2 Eifüh i**|Proseminar:Schrift undKultur||2||||6||||||Portfolioprüfung:<br>PL: Klausur (90 Min, 50 %) und<br>mündliche Prüfung (15 Min, 50%)<br>und SL: Referat (15-30 Min)|
-|**assmou : nrung n**<br>**di ltiih Shift**|Übung|||2||10||2||||||
-|**e aensce cr**<br>**(Paläographie)**|Exkursion|||||||2||||||
-|**Basismodul 3A: Das**<br>**Klassische Erbe A**|Wahlpflichtmodul Klassisches Latein|||||10|||10||||nach Maßgabe des Faches|
-|_Oder_||||||||||||||
-|**Basismodul 3B: Das**<br>**Klassische Erbe B**|Proseminar: Das Klassische Erbe||2|||10|||6||||Portfolioprüfung:<br>PL: Referat (15-30 Min, 50 %) und<br>Klausur(90 Min,50 %)|
-||Vorlesung_oder_Übung: Das Klassische<br>Erbe|(2)||(2)|||||4|||||
-|**Basismodul 4: Europäische**<br>**Mediävistik I**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer: Anglistik,<br>Germanistik, Nordistik, Romanistik|||||10||||10|||nach Maßgabe des Faches|
-|**Basismodul 5: Europäische**<br>**Mediävistik II**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer:<br>Buchwissenschaft, Geschichte,<br>Kunstgeschichte,Philosophie|||||10|||||10||nach Maßgabe des Faches|
-|**Vertiefungsmodul 1:**<br>**Mittellateinische Philologie**|Hauptseminar: Mittellateinische<br>Philologie||2|||10||||8|||Portfolioprüfung:<br>PL: Hausarbeit (mind. 12 S, 100 %)<br>und SL: schriftlicher Kurzbericht<br>(mind. 5 Seiten)|
-||Praktikum in einem mediävistischen<br>oder frühneuzeitlichen<br>Forschungsprojekt|||||||||2||||
-||||||2|||||||||
-|**Vertiefungsmodul 2:**<br>**Lateinische Sprache und**<br>**Literatur in Mittelalter und**<br>**Früher Neuzeit**|Hauptseminar: Lateinische Literatur in<br>Mittelalter und Früher Neuzeit||2|||10|||||8||Portfolioprüfung:<br>PL: Hausarbeit (mind. 12 S, 100 %)<br>und SL: Klausur (90 Min)|
-||Übersetzungs- und Kommentarübung im<br>Eigenstudium, dazu eine Lektüreübung|||2|||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit|||||10|12|8|10|20|20|10|Bachelorarbeit (30-40 Seiten)|
-||Summe:|||||||||||||
+|Mdlbih|Lhtlt|SWS|Gesamt|<br>ECTS-P|unkte|pro Se|mester*|Art und Umfang der Prüfung/|
+|---|---|---|---|---|---|---|---|---|
+|ouezecnung|erveransaung|V<br>S<br>Ü<br>P|ECTS|1.<br>2.|3.|4.|5.<br>6.|Studienleistung|
+||Proseminar: Einführung in das||||||||
+|**Basismodul 1: Einführung in**<br>|<br>lateinischeEuropa|2||6||||Portfolioprüfung:<br>PL: mündliche Prüfung (15 Min 50|
+|**die Sprache und Literatur des**<br>**lateinischen Europas**|Übersetzungausgewählter Texte|2|10|2||||,<br>%) und Referat (15-30 Min, 50 %)<br>|
+||Tutorium|2||2||||und SL: Klausur (90 Min)|
+|**Basismodul 2: Einführung in**|Proseminar:Schrift undKultur<br>|2||6||||Portfolioprüfung:<br>|
+|<br>**die lateinische Schrift**|Übung|2|10|2||||PL: Klausur (90 Min, 50 %) und<br>|
+|**(Paläographie)**|Exkursion|||2||||mündliche Prüfung (15 Min, 50%)<br>und SL: Referat (15-30 Min)|
+|**Basismodul 3A: Das**<br>**Klih Eb A**|Wahlpflichtmodul Klassisches Latein||10||10|||nach Maßgabe des Faches|
+|**asssce re  **<br>_Oder_|||||||||
+|**Basismodul 3B: Das**|Proseminar: Das Klassische Erbe<br>|2|||6|||Portfolioprüfung:|
+|<br>**Klassische Erbe B**|Vorlesung_oder_Übung: Das Klassische<br>Erbe|(2)<br>(2)|10||4|||PL: Referat (15-30 Min, 50 %) und<br>Klausur(90 Min,50 %)|
+|**Basismodul 4: Europäische**<br>**Mediävistik I**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer: Anglistik,<br>Germanistik, Nordistik, Romanistik||10|||10||nach Maßgabe des Faches|
+|**Basismodul 5: Europäische**<br>**Mediävistik II**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer:<br>Buchwissenschaft, Geschichte,<br>Kunstgeschichte,Philosophie||10||||10|nach Maßgabe des Faches|
+||Hauptseminar: Mittellateinische<br>Philologie|2||||8||Portfolioprüfung:|
+|**Vertiefungsmodul 1:**<br>**Mittellateinische Philologie**|<br>Praktikum in einem mediävistischen<br>oder frühneuzeitlichen<br>Forschungsprojekt|2|10|||2||PL: Hausarbeit (mind. 12 S, 100 %)<br>und SL: schriftlicher Kurzbericht<br>(mind. 5 Seiten)|
+|**Vertiefungsmodul 2:**<br>**Lateinische Sprache und**|Hauptseminar: Lateinische Literatur in<br>Mittelalter und Früher Neuzeit|2|1||||8|Portfolioprüfung:<br>PL Hi i 12 S 1|
+|**Literatur in Mittelalter und**<br>**Früher Neuzeit**|Übersetzungs- und Kommentarübung im<br>Eigenstudium, dazu eine Lektüreübung|2|0||||2|: ausarbet (mnd.  , 00 %)<br>und SL: Klausur (90 Min)|
+|**Bachelorarbeit**|Bachelorarbeit<br>Summe:||10|12<br>8|10|20|20<br>10|<br>Bachelorarbeit (30-40 Seiten)|
 
 * Die Angaben zur Verteilung der einzelnen Module auf die Semester stellt nur eine **Empfehlung** dar. 
 
 3 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan An- <u>wendung:</u> 
 
-|wendung:||||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
+|---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Basismodul 1: Einführung in die Sprache und**<br>**Literatur des lateinischen Europas**|||**10**|||||||
-|Proseminar Einführungin das lateinische Europa|GOP|2|6|||||||
+|Proseminar Einführungin das lateinische Europa<br>|GOP|2|6|||||||
 |Übersetzungausgewählter Texte|GOP|2|2|||||||
 |Tutorium|GOP|2|2|||||||
 |**Basismodul 2: Einführung in die lateinische**<br>**Schrift**|||**10**|||||||
@@ -125,7 +123,7 @@ petenz zur Textanalyse, andererseits die kritisch-historische Reflexion über me
 
 Für die GOP müssen mindestens die Modulprüfungen MLat 1 und MLat 2 bis zum Ende des 2. Semesters erfolgreich abgelegt werden. 
 
-(3)[1] Im Studium Mittellatein als zweites Fach sind die Basis- und Vertiefungsmodule erfolgreich abzulegen.[2] Absatz 1 Satz 2 und Abs. 2 gelten entsprechend. 
+(3)<sup>1</sup> Im Studium Mittellatein als zweites Fach sind die Basis- und Vertiefungsmodule erfolgreich abzulegen.<sup>2</sup> Absatz 1 Satz 2 und Abs. 2 gelten entsprechend. 
 
 (4) Wird Mittellatein als Erstfach studiert, müssen aus dem Bereich der Schlüsselqualifikationen Leistungen im Umfang von 30 ECTS-Punkten erworben werden. 
 

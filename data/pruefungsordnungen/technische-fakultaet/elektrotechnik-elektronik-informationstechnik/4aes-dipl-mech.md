@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES_Dipl_Mech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:21+00:00
-page_count_chars: 2413
+scraped_at: 2026-07-01T11:33:24+00:00
+page_count_chars: 2430
 ---
 
 # 5. August 2008
@@ -12,7 +12,7 @@ page_count_chars: 2413
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES_Dipl_Mech.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg** 
 
 ## Vom 5. August 2008 
 
@@ -42,11 +42,11 @@ c. Abs. 2 Nr. 3b wird wie folgt gefasst:
 
 3. § 11 Abs. 1Satz 1 wird wie folgt gefasst: 
 
-„(1)[1] Die Projektarbeit ist eine Arbeit unter der gemeinsamen wissenschaftlichen Betreuung von zwei Hochschullehrern aus zwei der folgenden Departments: Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau, Informatik." 
+„(1)<sup>1</sup> Die Projektarbeit ist eine Arbeit unter der gemeinsamen wissenschaftlichen Betreuung von zwei Hochschullehrern aus zwei der folgenden Departments: Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau, Informatik." 
 
 4. § 13 Satz 4 wird wie folgt gefasst: 
 
-„[4] Sie wird von einem hauptberuflich im Dienst der Universität stehenden Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau oder Informatik betreut." 
+„<sup>4</sup> Sie wird von einem hauptberuflich im Dienst der Universität stehenden Hochschullehrer der Departments Elektrotechnik-Elektronik-Informationstechnik, Maschinenbau oder Informatik betreut." 
 
 **§ 2** 
 

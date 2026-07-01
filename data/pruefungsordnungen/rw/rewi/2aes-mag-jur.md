@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Januar 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES-MAG-Jur.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:15:37+00:00
-page_count_chars: 2074
+scraped_at: 2026-07-01T10:31:56+00:00
+page_count_chars: 2091
 ---
 
 # 25. Januar 2008
@@ -12,7 +12,7 @@ page_count_chars: 2074
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES-MAG-Jur.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Zweite Satzung zur Änderung der Magisterordnung der Juristischen Fakultät der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Magisterordnung der Juristischen Fakultät der Universität Erlangen-Nürnberg** 
 
 Vom 25. Januar 2008 
 
@@ -30,7 +30,7 @@ Die Magisterordnung der Juristischen Fakultät der Universität Erlangen-Nürnbe
 
    - a) In Satz 1 werden die Worte „im Rahmen einer Übung nach seiner Wahl im Bürgerlichen Recht oder im Strafrecht oder im Öffentlichen Recht“ gestrichen. 
 
-   - b) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: „[2] Die Klausuren können im Rahmen einer Übung oder als Abschlussklausur nach § 8 Abs. 2 der Studienordnung des Studiengangs Rechtswissenschaft geschrieben werden.[3] Der Student kann an den Seminaren und Klausuren nach seiner Wahl im Bürgerlichen Recht, im Strafrecht oder im Öffentlichen Recht teilnehmen.“ 
+   - b) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: „<sup>2</sup> Die Klausuren können im Rahmen einer Übung oder als Abschlussklausur nach § 8 Abs. 2 der Studienordnung des Studiengangs Rechtswissenschaft geschrieben werden.<sup>3</sup> Der Student kann an den Seminaren und Klausuren nach seiner Wahl im Bürgerlichen Recht, im Strafrecht oder im Öffentlichen Recht teilnehmen.“ 
 
    - c) Die bisherigen Sätze 2 und 3 werden zu den Sätzen 4 und 5. 
 

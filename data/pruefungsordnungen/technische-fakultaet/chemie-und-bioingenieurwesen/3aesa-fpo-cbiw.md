@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "16. September 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-CBIW.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:59+00:00
-page_count_chars: 2066
+scraped_at: 2026-07-01T11:22:02+00:00
+page_count_chars: 2064
 ---
 
 # 16. September 2003
@@ -18,7 +18,7 @@ Vom 16. September 2003
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 und Art. 86a des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Diplom-, Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBIW) vom 1. Dezember 1998 (KWMBl II 1999 S. 190), zuletzt geändert durch Satzung vom 24. Juli 2001 (KWMBl II 2002 S. 775), wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den Diplom-, Bachelor- und Masterstudiengang Chemi
 
    - b) In Nr. 4 (neu) werden der Punkt durch ein Komma ersetzt und folgende Worte angefügt: „und über den erfolgreichen Abschluss des Projektierungskurses.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

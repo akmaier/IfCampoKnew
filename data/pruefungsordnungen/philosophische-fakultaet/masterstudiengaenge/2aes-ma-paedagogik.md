@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Paedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:36:04+00:00
-page_count_chars: 3322
+scraped_at: 2026-07-01T09:46:29+00:00
+page_count_chars: 3327
 ---
 
 # 30. Juli 2012
@@ -12,13 +12,13 @@ page_count_chars: 3322
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Paedagogik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPäd -** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPäd -** 
 
 Vom 30. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPäd - vom 8. Juni 2010, geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ a) In Abs. 1 Satz 2 wird die Zahl „35“ durch die Zahl „34“ ersetzt.
 
 b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2) 1Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für Bewerberinnen und Bewerber fachverwandter Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00 findet ein Auswahlgespräch statt.[2] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid. 3Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen der Pädagogik besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen. 4In der mündlichen Zugangsprüfung wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand 
+„(2) 1Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für Bewerberinnen und Bewerber fachverwandter Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00 findet ein Auswahlgespräch statt.<sup>2</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid. 3Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen der Pädagogik besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen. 4In der mündlichen Zugangsprüfung wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand 
 
 1. ihrer fachlichen Kenntnisse in der Pädagogik (Gewichtung 50%) und 
 
@@ -44,11 +44,10 @@ c) In Zeile 9 (Modul Felderkundung) und 13 (Modul Feldforschung) erhalten die Sp
 
 „ 
 
-|2|10|Wiss. Hausarbeit (ca. 15 Seiten)|100 %|
+|2|10|Wiss. Hausarbeit (ca. 15 Seiten)|100 %<br>„|
 |---|---|---|---|
-|||||
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach Ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

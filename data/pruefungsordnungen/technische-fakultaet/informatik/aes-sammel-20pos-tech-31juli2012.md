@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/AES-Sammel%20POs-Tech-31JULI2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:21:57+00:00
-page_count_chars: 22759
+scraped_at: 2026-07-01T11:41:09+00:00
+page_count_chars: 23365
 ---
 
 # 31. Juli 2012
@@ -12,13 +12,13 @@ page_count_chars: 22759
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/AES-Sammel%20POs-Tech-31JULI2012.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Satzung zur Änderung von Fachprüfungsordnungen in Bachelor- und Masterstudiengängen an der Technischen Fakultät der Friedrich-Alexander Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung von Fachprüfungsordnungen in Bachelor- und Masterstudiengängen an der Technischen Fakultät der Friedrich-Alexander Universität Erlangen-Nürnberg** 
 
 Vom 31. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die nachfolgend aufgeführten Fachprüfungsordnungen werden wie folgt geändert: 
 
@@ -46,13 +46,13 @@ aa) In Abs. 2 Satz 3 wird die Zahl „41“ durch die Zahl „42“ ersetzt. bb)
 
 - i) Die Anlagen 1a und 1b werden wie folgt geändert: 
 
-   - aa) In den Zeilen 20 bis 23 (Mathematik) Spalte 1 wird jeweils der Buchstabe „C“ durch die Worte „für INF“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „[1)] “ angefügt. 
+   - aa) In den Zeilen 20 bis 23 (Mathematik) Spalte 1 wird jeweils der Buchstabe „C“ durch die Worte „für INF“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-   - bb) Am Ende der Anlagen 1a und 1b wird jeweils folgende Fußnote angefügt: „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+   - bb) Am Ende der Anlagen 1a und 1b wird jeweils folgende Fußnote angefügt: „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 1 
 
-   - j) In den Erläuterungen zu Anlage 2a Fußnote „[2] “ wird die Zahl „36“ durch die Zahl „37“ ersetzt. 
+   - j) In den Erläuterungen zu Anlage 2a Fußnote „<sup>2</sup> “ wird die Zahl „36“ durch die Zahl „37“ ersetzt. 
 
 2. Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOCE - vom 19. September 2007, zuletzt geändert durch Satzung vom 30. Juli 2010, wird wie folgt geändert: 
 
@@ -68,9 +68,11 @@ aa) In Abs. 2 Satz 3 wird die Zahl „41“ durch die Zahl „42“ ersetzt. bb)
 
    - d) In § 48 (neu) Satz 4 wird die Zahl „40“ durch die Zahl „41“ ersetzt. 
 
-   - e) In der Anlage 1 Zeilen 3 bis 6 (Mathematik) Spalte 3 wird jeweils der Buchstabe „A“ durch die Worte „für CE“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „[1)] “ angefügt. 
+   - e) In der Anlage 1 Zeilen 3 bis 6 (Mathematik) Spalte 3 wird jeweils der Buchstabe „A“ durch die Worte „für CE“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-   - f) Am Ende der Anlage 1 wird folgende Fußnote angefügt: „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+   - f) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
+
+      - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
    - g) In der Anlage 2 werden in Nrn. 1 und 5 jeweils die Zahl „39“ durch die Zahl „29“ ersetzt. 
 
@@ -84,15 +86,15 @@ a) Die §§ 34 bis 45 werden zu §§ 35 bis 46.
 
 - d) Die Anlagen 1 und 2 werden wie folgt geändert: 
 
-   - aa) In der Zeile 15 (Mathematik) Spalte 2 wird der Buchstabe „A“ durch die Worte „für MT “ ersetzt sowie nach der Zahl „1“ die Fußnote „[1)] “ angefügt. 
+   - aa) In der Zeile 15 (Mathematik) Spalte 2 wird der Buchstabe „A“ durch die Worte „für MT “ ersetzt sowie nach der Zahl „1“ die Fußnote „<sup>1)</sup> “ angefügt. 
 
-   - bb) In Zeilen 17, 19 und 22 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für MT “ ersetzt sowie jeweils nach den Zahlen „2“, „3“ und „4“ eine Fußnote „[1)] “ angefügt. 
+   - bb) In Zeilen 17, 19 und 22 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für MT “ ersetzt sowie jeweils nach den Zahlen „2“, „3“ und „4“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
    - cc) Am Ende der Anlagen 1 und 2 wird jeweils folgende Fußnote angefügt: 
 
-„[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+      - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
-dd) Die Fußnote „[1] “ in Anlage 2 wird zu neuer Fußnote „[2)] “ 
+dd) Die Fußnote „<sup>1</sup> “ in Anlage 2 wird zu neuer Fußnote „<sup>2)</sup> “ 
 
 2 
 
@@ -110,11 +112,11 @@ aa) In Nr. 1 wird die Zahl „45“ durch die Zahl „46“ ersetzt. bb) In Nr. 
 
    - e) Die Anlagen 1 bis 3 werden wie folgt geändert: 
 
-      - aa) In den Zeilen 3, 4, 16 und 17 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für EEI“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3, 4, 16 und 17 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für EEI“ ersetzt sowie jeweils nach den Zahlen „1“ bis „4“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlagen 1 bis 3 wird jeweils folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
       - cc) In den Erläuterungen zur Tabelle wird jeweils die Zahl „43“ durch die Zahl „44“ ersetzt. 
 
@@ -130,21 +132,21 @@ aa) In Nr. 1 wird die Zahl „45“ durch die Zahl „46“ ersetzt. bb) In Nr. 
 
    - e) Die Anlage 1 wird wie folgt geändert: 
 
-      - aa) In den Zeilen 3 bis 5 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für IuK“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3 bis 5 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für IuK“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
    - f) Die Anlage 3 wird wie folgt geändert: 
 
 3 
 
-      - aa) In den Zeilen 3 bis 11 (Mathematik) Spalte 1 wird jeweils der Buchstabe „A“ durch die Worte „für IuK“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3 bis 11 (Mathematik) Spalte 1 wird jeweils der Buchstabe „A“ durch die Worte „für IuK“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlagen 3 wird folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 6. Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOMECH - vom 25. September 2007, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -158,11 +160,11 @@ aa) In Nr. 1 wird die Zahl „45“ durch die Zahl „46“ ersetzt. bb) In Nr. 
 
    - e) Die Anlagen 1a und 1b werden wie folgt geändert: 
 
-      - aa) In den Zeilen 4 bis 6 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für ME“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine neue Fußnote „[2)] “ angefügt. 
+      - aa) In den Zeilen 4 bis 6 (Mathematik) Spalte 2 wird jeweils der Buchstabe „A“ durch die Worte „für ME“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine neue Fußnote „<sup>2)</sup> “ angefügt. 
 
-      - bb) Die bisherigen Fußnoten „[2)] “ und „[3)] “ werden zu neuen Fußnoten „[3)] “ und „[4)] “. cc) Am Ende der Anlagen 1a und 1b wird jeweils die neue Fußnote „[2)] “ angefügt: 
+      - bb) Die bisherigen Fußnoten „<sup>2)</sup> “ und „<sup>3)</sup> “ werden zu neuen Fußnoten „<sup>3)</sup> “ und „<sup>4)</sup> “. cc) Am Ende der Anlagen 1a und 1b wird jeweils die neue Fußnote „<sup>2)</sup> “ angefügt: 
 
-         - „[2)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>2)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 7. Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg einschließlich Campus Busan (FPOCBI-BScMSc) vom 5. Dezember 2008, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -182,19 +184,17 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
 4 
 
-      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „D“ durch die Worte „für CBI “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „D“ durch die Worte „für CBI “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 8. Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemical Engineering - Nachhaltige Chemische Technologien der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE-NCT-BScMSc) vom 7. Juni 2011 wird wie folgt geändert: 
 
    - a) In der Überschrift wird die Abkürzung „FPOCE-NCT-BScMSc“ durch die Abkürzung „FPOCEN“ ersetzt. 
 
-   - b) Die §§ 34 bis 44 werden zu §§ 35 bis 45. 
-
-   - c) In § 38 (neu) Abs. 1 Satz 1 Nrn. 1 und 2 wird jeweils der Buchstabe „D“ durch die Worte „für CEN “ ersetzt. 
+   - b) Die §§ 34 bis 44 werden zu §§ 35 bis 45. c) In § 38 (neu) Abs. 1 Satz 1 Nrn. 1 und 2 wird jeweils der Buchstabe „D“ durch die Worte „für CEN “ ersetzt. 
 
    - d) § 39 (neu) Abs. 1 wird wie folgt geändert: 
 
@@ -202,11 +202,11 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
    - e) Die Anlagen 1a und 1b werden wie folgt geändert: 
 
-      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „D“ durch die Worte „für CEN “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „D“ durch die Worte „für CEN “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlagen 1a und 1b wird jeweils folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 9. Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE - vom 24. September 2007, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -216,7 +216,9 @@ a) Die §§ 34 bis 44 werden zu §§ 35 bis 45.
 
 - c) § 39 (neu) Abs. 1 wird wie folgt geändert: 
 
-aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 2 a) wird der Buchstabe „D“ durch die Worte „für LSE“ ersetzt. 
+aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. 
+
+bb) In Nr. 2 a) wird der Buchstabe „D“ durch die Worte „für LSE“ ersetzt. 
 
 - d) In § 44 (neu) Nrn. 1 und 2 wird jeweils die Zahl „41“ durch die Zahl „42“ ersetzt. 
 
@@ -224,11 +226,11 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
 5 
 
-   - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils das Wort und der Buchstabe „Ingenieurberufe D“ durch die Abkürzung „LSE “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+   - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils das Wort und der Buchstabe „Ingenieurberufe D“ durch die Abkürzung „LSE “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
    - bb) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
 
-      - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+      - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 10. Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc) vom 15. Dezember 2008, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -238,21 +240,23 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
    - c) In § 41 (neu) Abs. 1 wird die Zahl „39“ durch die Zahl „40“ ersetzt. 
 
-d) In § 48 (neu) Satz 2 wird die Zahl „46“ durch die Zahl „47“ ersetzt. 
+   - d) In § 48 (neu) Satz 2 wird die Zahl „46“ durch die Zahl „47“ ersetzt. 
 
-- e) In § 50 (neu) Abs. 1 wird wie folgt gefasst: “Das Masterstudium ist bestanden, wenn alle Module gemäß der Anlage 2 bestanden und damit 120 ECTS-Punkte erworben sind.“ 
+   - e) In § 50 (neu) Abs. 1 wird wie folgt gefasst: 
 
-## f) Die Anlage 1 wird wie folgt geändert: 
+   - “Das Masterstudium ist bestanden, wenn alle Module gemäß der Anlage 2 bestanden und damit 120 ECTS-Punkte erworben sind.“ 
 
-aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „Ingenieure A I“ durch die Abkürzung „ET 1“ ersetzt sowie die Fußnote „[1)] “ angefügt. 
+   - f) Die Anlage 1 wird wie folgt geändert: 
 
-      - bb) In der Zeile 8 (Mathematik) Spalte 2 werden die Worte „Ingenieure A II“ durch die Abkürzung „ET 2“ ersetzt sowie die Fußnote „[1)] “ angefügt. 
+   - aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „Ingenieure A I“ durch die Abkürzung „ET 1“ ersetzt sowie die Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - cc) In der Zeile 16 (Mathematik) Spalte 2 werden die Worte „Ingenieure A III“ durch die Abkürzung „ET 3“ ersetzt sowie die Fußnote „[1)] “ angefügt. 
+   - bb) In der Zeile 8 (Mathematik) Spalte 2 werden die Worte „Ingenieure A II“ durch die Abkürzung „ET 2“ ersetzt sowie die Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - dd) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
+   - cc) In der Zeile 16 (Mathematik) Spalte 2 werden die Worte „Ingenieure A III“ durch die Abkürzung „ET 3“ ersetzt sowie die Fußnote „<sup>1)</sup> “ angefügt. 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+   - dd) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
+
+      - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 11. Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Materialwissenschaft und Werkstofftechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMuW - vom 25. September 2007, zuletzt geändert durch Satzung vom 30. Juli 2012 wird wie folgt geändert: 
 
@@ -270,9 +274,9 @@ aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „Ingenieure A I“ d
 
    - f) Die Anlagen 1 und 4 werden wie folgt geändert: 
 
-      - aa) In den Zeilen 4 bis 6 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für MWT “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 4 bis 6 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für MWT “ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - bb) Am Ende der Anlagen 1 und 4 wird jeweils folgende Fußnote angefügt: „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+      - bb) Am Ende der Anlagen 1 und 4 wird jeweils folgende Fußnote angefügt: „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 12. Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT-BScMSc) vom 15. Dezember 2008, zuletzt geändert durch Satzung vom 5. August 2011, wird wie folgt geändert: 
 
@@ -284,7 +288,9 @@ aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „Ingenieure A I“ d
 
    - d) § 39 (neu) Abs. 1 wird wie folgt geändert: 
 
-aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 2 a) wird die Abkürzung „B III“ durch die Worte „für NT 3“ ersetzt. 
+aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. 
+
+bb) In Nr. 2 a) wird die Abkürzung „B III“ durch die Worte „für NT 3“ ersetzt. 
 
    - e) In § 41 (neu) wird vor dem Wort „bestimmten“ die Abkürzung „ABMPO/TechFak“ eingefügt. 
 
@@ -292,11 +298,11 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
    - g) Die Anlagen 1 und 2 werden wie folgt geändert: 
 
-      - aa) In den Zeilen 3 bis 5 (Mathematik) Spalte 2 werden jeweils die Abkürzungen „B I“, „BII“ und „BIII“ durch die Worte „für NT 1“, „für NT 2“ und „für NT 3“ ersetzt sowie nach den Zahlen „1“ bis „3“ jeweils eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3 bis 5 (Mathematik) Spalte 2 werden jeweils die Abkürzungen „B I“, „BII“ und „BIII“ durch die Worte „für NT 1“, „für NT 2“ und „für NT 3“ ersetzt sowie nach den Zahlen „1“ bis „3“ jeweils eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - bb) Am Ende der Anlage 1 wird folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 13. Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB - vom 24. September 2007, zuletzt geändert durch Satzung vom 30 Juli 2012, wird wie folgt geändert: 
 
@@ -304,21 +310,21 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
 7 
 
-      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils die Abkürzung „B 1“, „B 2“ und „B 3“ durch die Worte „für MB 1“, „für MB 2“ und „für MB 3“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 3, 5 und 7 (Mathematik) Spalte 2 wird jeweils die Abkürzung „B 1“, „B 2“ und „B 3“ durch die Worte „für MB 1“, „für MB 2“ und „für MB 3“ ersetzt sowie jeweils nach den Zahlen „1“ bis „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - bb) Am Ende der Anlage 1a wird folgende Fußnote angefügt: „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+      - bb) Am Ende der Anlage 1a wird folgende Fußnote angefügt: „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
    - b) Die Anlage 1b wird wie folgt geändert: 
 
-      - aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „B 1 bzw. B 2“ durch die Worte „für MB 1 bzw. MB 2“ ersetzt und nach dem Sternchen „*“ eine Fußnote „[1)] “ angefügt. 
+      - aa) In der Zeile 3 (Mathematik) Spalte 2 werden die Worte „B 1 bzw. B 2“ durch die Worte „für MB 1 bzw. MB 2“ ersetzt und nach dem Sternchen „*“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - bb) In der Zeile 5 (Mathematik) Spalte 2 werden die Worte „B 2 bzw. B 1“ durch die Worte „für MB 2 bzw. MB 1“ ersetzt und nach dem Sternchen „*“ eine Fußnote „[1)] “ angefügt. 
+      - bb) In der Zeile 5 (Mathematik) Spalte 2 werden die Worte „B 2 bzw. B 1“ durch die Worte „für MB 2 bzw. MB 1“ ersetzt und nach dem Sternchen „*“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - cc) In der Zeile 7 (Mathematik) Spalte 2 wird der Buchstabe „B“ durch die Worte „für MB “ ersetzt und nach der Zahl „3“ eine Fußnote „[1)] “ angefügt. 
+      - cc) In der Zeile 7 (Mathematik) Spalte 2 wird der Buchstabe „B“ durch die Worte „für MB “ ersetzt und nach der Zahl „3“ eine Fußnote „<sup>1)</sup> “ angefügt. 
 
       - dd) Am Ende der Anlage 1b wird folgende Fußnote angefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 14. Die Fachprüfungsordnung für den Bachelorstudiengang International Production Engineering and Management an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOIP - vom 14. Juli 2010, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -328,23 +334,23 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
    - c) Die Anlage 1a wird wie folgt geändert: 
 
-      - aa) In den Zeilen 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für IP“ ersetzt sowie jeweils nach den Zahlen „1“ und „2“ eine neue Fußnote „[1)] “ angefügt. 
+      - aa) In den Zeilen 5 und 7 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für IP“ ersetzt sowie jeweils nach den Zahlen „1“ und „2“ eine neue Fußnote „<sup>1)</sup> “ angefügt. 
 
-      - bb) Die bisherige Fußnote „[1)] “ wird zur neuen Fußnote „[2)] “. 
+      - bb) Die bisherige Fußnote „<sup>1)</sup> “ wird zur neuen Fußnote „<sup>2)</sup> “. 
 
-      - cc) Am Ende der Anlage 1a wird folgende neue Fußnote „[1)] “ eingefügt: 
+      - cc) Am Ende der Anlage 1a wird folgende neue Fußnote „<sup>1)</sup> “ eingefügt: 
 
-         - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
    - d) Die Anlage 1b wird wie folgt geändert: 
 
-      - aa) In der Zeile 5 (Mathematik) Spalte 2 werden die Worte „B 1 bzw. B 2“ durch die Worte „für IP 1 bzw. IP 2“ ersetzt und nach der Fußnote „[1)] “ die Fußnote „[2)] “ angefügt. 
+      - aa) In der Zeile 5 (Mathematik) Spalte 2 werden die Worte „B 1 bzw. B 2“ durch die Worte „für IP 1 bzw. IP 2“ ersetzt und nach der Fußnote „<sup>1)</sup> “ die Fußnote „<sup>2)</sup> “ angefügt. 
 
-      - bb) In der Zeile 7 (Mathematik) Spalte 2 werden die Worte „B 2 bzw. B 1“ durch die Worte „für IP 2 bzw. IP 1“ ersetzt und nach der Fußnote „[1)] “ die Fußnote „[2)] “ angefügt. 
+      - bb) In der Zeile 7 (Mathematik) Spalte 2 werden die Worte „B 2 bzw. B 1“ durch die Worte „für IP 2 bzw. IP 1“ ersetzt und nach der Fußnote „<sup>1)</sup> “ die Fußnote „<sup>2)</sup> “ angefügt. 
 
-      - cc) Am Ende der Anlage 1b wird folgende Fußnote „[2)] “ angefügt: 
+      - cc) Am Ende der Anlage 1b wird folgende Fußnote „<sup>2)</sup> “ angefügt: 
 
-         - „[2)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>2)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 8 
 
@@ -352,13 +358,13 @@ aa) In Nr. 1 wird die Zahl „37“ durch die Zahl „38“ ersetzt. bb) In Nr. 
 
 Die Anlagen 1a und 1b werden wie folgt geändert: 
 
-   - a) In den Zeilen 3 und 5 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für WING“ ersetzt sowie jeweils nach den Zahlen „1“ und „2“ eine neue Fußnote „[1)] “ angefügt. 
+   - a) In den Zeilen 3 und 5 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für WING“ ersetzt sowie jeweils nach den Zahlen „1“ und „2“ eine neue Fußnote „<sup>1)</sup> “ angefügt. 
 
-   - b) Die bisherigen Fußnoten „[1)] “ und „[2)] “ werden zu neuen Fußnoten „[2)] “ und „[3)] “. 
+   - b) Die bisherigen Fußnoten „<sup>1)</sup> “ und „<sup>2)</sup> “ werden zu neuen Fußnoten „<sup>2)</sup> “ und „<sup>3)</sup> “. 
 
-   - c) Am Ende der Anlagen 1a und 1b wird jeweils folgende neue Fußnote „[1)] “ eingefügt: 
+   - c) Am Ende der Anlagen 1a und 1b wird jeweils folgende neue Fußnote „<sup>1)</sup> “ eingefügt: 
 
-      - „[1)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+      - „<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
 16. Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der FriedrichAlexander-Universität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -370,19 +376,19 @@ Die Anlagen 1a und 1b werden wie folgt geändert:
 
       - aa) In den Zeilen 12 bis 14 (Mathematik) Spalte 2 werden jeweils nach dem Wort „Mathematik“ die Worte „für BPT-E“ eingefügt sowie jeweils nach den Zahlen „1“, „2“ und „3“ zwei Sternchen „**“ angefügt. 
 
-      - bb) Am Ende der Anlage 2a wird folgende Fußnote „[**)] “ angefügt: 
+      - bb) Am Ende der Anlage 2a wird folgende Fußnote „<sup>**)</sup> “ angefügt: 
 
-         - „[**)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+         - „<sup>**)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
-## d) Die Anlage 2b wird wie folgt geändert: 
+# d) Die Anlage 2b wird wie folgt geändert: 
 
 - aa) In den Zeilen 13 bis 15 (Mathematik) Spalte 2 wird jeweils der Buchstabe „B“ durch die Worte „für BPT-M“ ersetzt sowie jeweils nach den Zahlen „1“, „2“ und „3“ zwei Sternchen „**“ angefügt. 
 
-- bb) Am Ende der Anlage 2b wird folgende Fußnote „[**)] “ angefügt: 
+- bb) Am Ende der Anlage 2b wird folgende Fußnote „<sup>**)</sup> “ angefügt: 
 
-   - „[**)] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
+   - „<sup>**)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

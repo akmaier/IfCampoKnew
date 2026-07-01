@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20LingInform.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:06:55+00:00
-page_count_chars: 6788
+scraped_at: 2026-07-01T10:25:18+00:00
+page_count_chars: 6862
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 6788
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20LingInform.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 5. Oktober 2007 
 
@@ -26,25 +26,25 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 - (1) Das Fach Linguistische Informatik kann im Bachelorstudiengang als Erst- oder Zweitfach mit einem Umfang von je 70 ECTS-Punkten, zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten bei Belegung als Erstfach, studiert werden. Bei Belegung als Erstfach kommen außerdem noch 30 ECTS-Punkte aus dem Bereich der Schlüsselqualifikationen hinzu. 
 
-- (2)[1] Im Bachelorstudiengang Linguistische Informatik erwerben die Studierenden Fachkenntnisse der Linguistischen Informatik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+- (2)<sup>1</sup> Im Bachelorstudiengang Linguistische Informatik erwerben die Studierenden Fachkenntnisse der Linguistischen Informatik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-- (3)[1] Der Studiengang vermittelt solide sprachwissenschaftliche Kenntnisse und Fähigkeiten in der Programmierung, die die Grundlage der Entwicklung neuer Anwendungen und Methoden der automatischen Sprachverarbeitung bilden.[2] Durch die Auseinandersetzung mit verschiedenen Grammatiktheorien und ihrer praktischen Anwendung auf natürliche und formale Sprachen erhalten die Studierenden einen Überblick über den Stand von Theorie und Technik dieses Fachgebiets, der sie zu einem kritischen Umgang damit befähigt. 
+- (3)<sup>1</sup> Der Studiengang vermittelt solide sprachwissenschaftliche Kenntnisse und Fähigkeiten in der Programmierung, die die Grundlage der Entwicklung neuer Anwendungen und Methoden der automatischen Sprachverarbeitung bilden.<sup>2</sup> Durch die Auseinandersetzung mit verschiedenen Grammatiktheorien und ihrer praktischen Anwendung auf natürliche und formale Sprachen erhalten die Studierenden einen Überblick über den Stand von Theorie und Technik dieses Fachgebiets, der sie zu einem kritischen Umgang damit befähigt. 
 
 ## **§ 3 Fächerkombinationen** 
 
-- (1)[1] Mit dem Fach Linguistische Informatik muss ein sprachwissenschaftliches Fach kombiniert werden. 2Derzeit kommt dafür eines der folgenden in Frage: Indogermanistik und Indoiranistik, Griechische Philologie, Lateinische Philologie, Mittellatein und Neulatein, Sinologie, Japanologie, Frankoromanistik, Iberoromanistik, English and American Studies, Nordische Philologie, Germanistik, Orientalistik. 
+- (1)<sup>1</sup> Mit dem Fach Linguistische Informatik muss ein sprachwissenschaftliches Fach kombiniert werden. 2Derzeit kommt dafür eines der folgenden in Frage: Indogermanistik und Indoiranistik, Griechische Philologie, Lateinische Philologie, Mittellatein und Neulatein, Sinologie, Japanologie, Frankoromanistik, Iberoromanistik, English and American Studies, Nordische Philologie, Germanistik, Orientalistik. 
 
-- (2)[1] Auf Antrag der Studierenden kann der Prüfungsausschuss Ausnahmen von den in Absatz 1 genannten Kombinationen vorsehen.[2] Die Studierenden tragen selbst Verantwortung für die Studierbarkeit der Kombination. 
+- (2)<sup>1</sup> Auf Antrag der Studierenden kann der Prüfungsausschuss Ausnahmen von den in Absatz 1 genannten Kombinationen vorsehen.<sup>2</sup> Die Studierenden tragen selbst Verantwortung für die Studierbarkeit der Kombination. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Der Studiengang ist in zwei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
+- (1)<sup>1</sup> Der Studiengang ist in zwei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
 
    1. In der Grundlagenphase: Grundlagen der Computerlinguistik (Module „Grundlagen der Computerlinguistik I“, „Grundlagen der Computerlinguistik II“ und „Werkzeuge und Arbeitstechniken“), Informatikgrundlagen (Module „Grundlagen der Informatik“, „Konzeptionelle Modellierung“, „Datenbanksysteme“ und „Multimedia-Technik“). 
 
    2. In der Aufbauphase: Module „Maschinelle Sprachverarbeitung“, „Vertiefungsmodul Computerlinguistik“ und „Praktikum“. 
 
-- (2)[1] Die erfolgreich abzulegenden Module unterscheiden sich nicht nach der Belegung als Erst- oder Zweitfach.[2] In jedem Fall sind die in Tabelle 1 aufgeführten Module vollständig erfolgreich abzulegen. 
+- (2)<sup>1</sup> Die erfolgreich abzulegenden Module unterscheiden sich nicht nach der Belegung als Erst- oder Zweitfach.<sup>2</sup> In jedem Fall sind die in Tabelle 1 aufgeführten Module vollständig erfolgreich abzulegen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -60,9 +60,8 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 **Tabelle 1: Module.** 
 
-|||**Tabelle 1: Module.**||||
+|**Sem.**|<br>**Modul**|**LV**|**SWS **|**ECTS**|<br>**LN**|
 |---|---|---|---|---|---|
-|**Sem.**|**Modul**|**LV**|**SWS **|**ECTS**|<br>**LN**|
 |1-2<br>bzw.<br>3-4|**Grundlagen der**<br>**Computerlinguistik**<br>**I**|Vorlesung Computerlinguistik<br>1: Sprachtheorie|2|2|SL|
 |||Übung zu Computerlinguistik 1|2|3|K90’|
 |||Vorlesung Computerlinguistik<br>2: Formale Sprachen|2|2|SL|
@@ -73,14 +72,14 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 |||Übungzu Computerlinguistik 3|2|3|K90'|
 |||Vorlesung Computerlinguistik<br>4: Semantik|2|2|SL|
 |||Übungzu Computerlinguistik 4|2|3|K90’|
-|1-2|**Grundlagen der**<br>**Informatik**|Vorlesung Grundlagen der<br>Informatik|3|7,5|K90’ +<br>Unb.<br>Schein|
-|||Rechnerübung zu Grundlagen<br>der Informatik|1|||
+|1-2|**Grundlagen der**<br>**Informatik**|Vorlesung Grundlagen der<br>Informatik|3|7,5|K90’ +<br>Unb.<br>|
+|||Rechnerübung zu Grundlagen<br>der Informatik|1||Schein|
 |||Tafelübung zu  Grundlagen der<br>Informatik|<br>2|||
 |2 oder<br>4|**Konzeptionelle**<br>**Modellierung**|Vorlesung Konzeptionelle<br>Modellierung|2|2,5|K90'|
 |||Übung zu Konzeptionelle<br>Modellierung|2|2,5||
 |3 o. 5|**Datenbanksysteme**|VorlesungDatenbanksysteme|2|2,5|K90'|
 |||Übungzu Datenbanksysteme|2|2,5||
-|2 oder<br>4|**Multimedia-Technik**|Multimedia-Technik|2|2,5|MP30’|
+|2 oder<br>4|**Multimedia-Technik**|<sup>Multimedia-Technik</sup>|2|2,5|MP30’|
 |4-5|**Maschinelle**<br>**Sprachverarbeitung**|PS Maschinelle<br>Sprachverarbeitung|2|6|R+HA+K90'|
 |||PS Programmierung|2|4|K90'|
 |5-6|**Vertiefungsmodul**<br>**Computerlinguistik**|<br>Praktisches HS|2|5|R + HA|

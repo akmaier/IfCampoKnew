@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:50:11+00:00
+scraped_at: 2026-07-01T08:27:08+00:00
 ---
 
 # Physik (B.Sc.)
@@ -35,7 +35,7 @@ Die Physik ist eine der grundlegenden Naturwissenschaften, deren Erkenntnisse de
 
 Physikerinnen und Physiker beschäftigen sich auch mit fundamentalen Fragen zu Raum, Zeit und Materie, und sie erforschen den Ursprung des Universums. Was ist “Dunkle Materie”, was ist “Dunkle Energie”? Die Forscher nähern sich den Antworten auf diese Fragen durch Beobachtungen des Weltraums, komplexe Experimente und durch die Entwicklung theoretischer Modelle.
 
-### Bachelor of Science Physik
+### Fachanteile des Studiengangs Physik (B.Sc.)
 
 * Theoretische Physik (25%)
 * Experimentalphysik (21%)

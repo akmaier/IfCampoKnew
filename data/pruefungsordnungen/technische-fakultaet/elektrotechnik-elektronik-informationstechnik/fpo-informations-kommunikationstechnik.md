@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 03.02.2004 i.d.F. 04.07.2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Informations-Kommunikationstechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:11:45+00:00
-page_count_chars: 18283
+scraped_at: 2026-07-01T11:31:56+00:00
+page_count_chars: 18853
 ---
 
 # PDF vom 03.02.2004 i.d.F. 04.07.2006
@@ -14,7 +14,7 @@ page_count_chars: 18283
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Informations- und Kommunikationstechnik an der Universität Erlangen-Nürnberg** 
+# **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Informations- und Kommunikationstechnik an der Universität Erlangen-Nürnberg** 
 
 ## **Vom 3. Februar 2004** (KWMBl II S. 1057) 
 
@@ -30,7 +30,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Geltungsbereich** 
 
-1Diese Fachprüfungsordnung regelt die Diplomprüfung im wissenschaftlichen Diplomstudiengang Informations- und Kommunikationstechnik (IuK-Technik).[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
+1Diese Fachprüfungsordnung regelt die Diplomprüfung im wissenschaftlichen Diplomstudiengang Informations- und Kommunikationstechnik (IuK-Technik).<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
 
 ## **§ 2** 
 
@@ -40,11 +40,11 @@ Aufgrund der bestandenen Diplomprüfung im wissenschaftlichen Diplomstudiengang 
 
 ## **§ 3 Umfang und Gliederung des Studiums** 
 
-(1)[ 1] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das 
+(1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das 
 
 1 
 
-Hauptstudium mit der Diplomhauptprüfung abgeschlossen.[3] Das Hauptstudium wird in einer der folgenden Studienrichtungen durchgeführt: 
+Hauptstudium mit der Diplomhauptprüfung abgeschlossen.<sup>3</sup> Das Hauptstudium wird in einer der folgenden Studienrichtungen durchgeführt: 
 
 1. Eingebettete Systeme 
 
@@ -58,13 +58,13 @@ Hauptstudium mit der Diplomhauptprüfung abgeschlossen.[3] Das Hauptstudium wird
 
 6. Verkehrstelematik 
 
-(2)[1] Das Studium setzt sich aus Lehrveranstaltungen im Umfang von 181 SWS, verteilt auf acht Semester zusammen.[2] Hinzu kommen 14 Wochen für die Ableistung der berufspraktischen Tätigkeit, etwa 400 Stunden Bearbeitungszeit für die Durchführung der Studienarbeit und sechs Monate zur Durchführung der Diplomarbeit.[3] Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt zehn Semester. 
+(2)<sup>1</sup> Das Studium setzt sich aus Lehrveranstaltungen im Umfang von 181 SWS, verteilt auf acht Semester zusammen.<sup>2</sup> Hinzu kommen 14 Wochen für die Ableistung der berufspraktischen Tätigkeit, etwa 400 Stunden Bearbeitungszeit für die Durchführung der Studienarbeit und sechs Monate zur Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt zehn Semester. 
 
 ## **§ 4 Studienbegleitende Ablegung der Prüfungen, Leistungspunktsystem** 
 
-(1)[1] Die Prüfungen der Diplomvorprüfung werden studienbegleitend abgelegt, d. h. in der Regel nach Abschluss einer Lehrveranstaltung in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum.[2] Prüfungen von Lehrveranstaltungen, die auch für den Studiengang Elektrotechnik, Elektronik und Informationstechnik als Pflicht- oder Wahlpflichtfächer angeboten werden, werden im unmittelbaren Anschluss an die Vorlesungszeit, alle anderen Prüfungen im regulären Prüfungszeitraum abgelegt. 
+(1)<sup>1</sup> Die Prüfungen der Diplomvorprüfung werden studienbegleitend abgelegt, d. h. in der Regel nach Abschluss einer Lehrveranstaltung in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum.<sup>2</sup> Prüfungen von Lehrveranstaltungen, die auch für den Studiengang Elektrotechnik, Elektronik und Informationstechnik als Pflicht- oder Wahlpflichtfächer angeboten werden, werden im unmittelbaren Anschluss an die Vorlesungszeit, alle anderen Prüfungen im regulären Prüfungszeitraum abgelegt. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktsystem erbracht.[2] Die Leistungspunkte, mit deren Hilfe der Umfang einer Prüfungs- oder einer Studienleistung bestimmt wird, beruhen auf dem European Credit Transfer System (ECTS).[3] Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen Maluspunkte vergeben.[4] Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung festgelegten Schwellenwert nicht überschreitet. 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktsystem erbracht.<sup>2</sup> Die Leistungspunkte, mit deren Hilfe der Umfang einer Prüfungs- oder einer Studienleistung bestimmt wird, beruhen auf dem European Credit Transfer System (ECTS).<sup>3</sup> Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen Maluspunkte vergeben.<sup>4</sup> Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung festgelegten Schwellenwert nicht überschreitet. 
 
 ## **I. Diplomvorprüfung** 
 
@@ -140,19 +140,19 @@ Der Student soll sich so rechtzeitig zur Diplomvorprüfung melden, dass er diese
 
 ## **Bestehen der Diplomvorprüfung, Wiederholung von Prüfungsleistungen** 
 
-(1)[1] Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer wenigstens „ausreichend“ lauten und Nachweise über die erfolgreiche Teilnahme an folgenden Praktika vorliegen: 
+(1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer wenigstens „ausreichend“ lauten und Nachweise über die erfolgreiche Teilnahme an folgenden Praktika vorliegen: 
 
 1. Software für die Mathematik 
 
 2. Elektronik und Schaltungstechnik. 
 
-(2)[1] In das Diplomvorprüfungszeugnis werden die in § 7 genannten Fächer mit den erzielten Noten aufgenommen.[2] Ferner wird die erfolgreiche Teilnahme an den im Abs. 1 Nrn. 1 und 2 genannten Praktika bescheinigt. 
+(2)<sup>1</sup> In das Diplomvorprüfungszeugnis werden die in § 7 genannten Fächer mit den erzielten Noten aufgenommen.<sup>2</sup> Ferner wird die erfolgreiche Teilnahme an den im Abs. 1 Nrn. 1 und 2 genannten Praktika bescheinigt. 
 
 3 
 
 (3) In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein. 
 
-(4)[1] Die erste Wiederholung einer mit „nicht ausreichend“ bewerteten Prüfung findet für Lehrveranstaltungen, die auch für den Studiengang Elektrotechnik, Elektronik und Informationstechnik als Pflicht- oder Wahlpflichtfächer angeboten werden, in einem gesonderten Wiederholungstermin unmittelbar vor Beginn der Vorlesungszeit des folgenden Semesters statt.[2] Zu diesem Termin gilt der Kandidat automatisch als angemeldet.[3] Für Wiederholungsprüfungen aller anderen Lehrveranstaltungen gilt § 11 der Allgemeinen Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät vom 17. Oktober 1972 (KMBl 1973 S. 91) in der jeweils geltenden Fassung. 
+(4)<sup>1</sup> Die erste Wiederholung einer mit „nicht ausreichend“ bewerteten Prüfung findet für Lehrveranstaltungen, die auch für den Studiengang Elektrotechnik, Elektronik und Informationstechnik als Pflicht- oder Wahlpflichtfächer angeboten werden, in einem gesonderten Wiederholungstermin unmittelbar vor Beginn der Vorlesungszeit des folgenden Semesters statt.<sup>2</sup> Zu diesem Termin gilt der Kandidat automatisch als angemeldet.<sup>3</sup> Für Wiederholungsprüfungen aller anderen Lehrveranstaltungen gilt § 11 der Allgemeinen Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät vom 17. Oktober 1972 (KMBl 1973 S. 91) in der jeweils geltenden Fassung. 
 
 (5) Die Wiederholung ist beschränkt auf die mit „nicht ausreichend“ bewerteten Prüfungen. 
 
@@ -168,7 +168,7 @@ Der Student soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung m
 
 ## **§ 10 Zulassungsvoraussetzungen zur Diplomhauptprüfung** 
 
-(1)[1] Voraussetzung für die Zulassung zur ersten Prüfung der Diplomhauptprüfung ist, dass 
+(1)<sup>1</sup> Voraussetzung für die Zulassung zur ersten Prüfung der Diplomhauptprüfung ist, dass 
 
 1. die Diplomvorprüfung bestanden ist, mindestens aber bei der Zulassung zu den Prüfungen, die nach **Anlage 2** im fünften Fachsemester vorgesehen sind, alle bis auf maximal zwei Prüfungen der Diplomvorprüfung mit wenigstens „ausreichend“ bewertet sind und 
 
@@ -196,19 +196,19 @@ Der Student soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung m
 
 7. In besonders begründeten Fällen kann der Prüfungsausschuss auf schriftlichen Antrag abweichend von Abs. 3 Nrn. 1 bis 6 eine vorzeitige Zulassung zur Diplomarbeit gewähren; fehlende Nachweise sind während der Bearbeitung der Diplomarbeit zu erbringen. 
 
-(4)[1] Als Wahlfächer sind Lehrveranstaltungen im Gesamtumfang von 16 SWS wählbar, die sonst nicht Gegenstand der Diplomhauptprüfung sind und in denen benotete Leistungsnachweise erworben werden können; davon müssen wenigstens 6 SWS aus dem Lehrangebot der Technischen Fakultät oder aus den beiden Naturwissenschaftlichen Fakultäten I und II der Universität Erlangen-Nürnberg stammen.[2] Jeder Leistungsnachweis in einem Wahlfach bezieht sich auf eine Lehrveranstaltung von jeweils wenigstens zwei SWS.[3] Je SWS werden 1,5 Leistungspunkte veranschlagt. 
+(4)<sup>1</sup> Als Wahlfächer sind Lehrveranstaltungen im Gesamtumfang von 16 SWS wählbar, die sonst nicht Gegenstand der Diplomhauptprüfung sind und in denen benotete Leistungsnachweise erworben werden können; davon müssen wenigstens 6 SWS aus dem Lehrangebot der Technischen Fakultät oder aus den beiden Naturwissenschaftlichen Fakultäten I und II der Universität Erlangen-Nürnberg stammen.<sup>2</sup> Jeder Leistungsnachweis in einem Wahlfach bezieht sich auf eine Lehrveranstaltung von jeweils wenigstens zwei SWS.<sup>3</sup> Je SWS werden 1,5 Leistungspunkte veranschlagt. 
 
 ## **§ 11 Studienarbeit** 
 
-(1)[1] Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines Hochschullehrers des Instituts für Elektrotechnik, Elektronik und Informationstechnik oder des Instituts für Informatik.[2] Sie dient dazu, die selbständige Bearbeitung von AufgabensteIlungen auf einem ingenieurwissenschaftlichen Gebiet der Informationsund Kommunikationstechnik zu erlernen.[3] Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 400 Stunden innerhalb von drei Monaten abgeschlossen werden kann.[4] Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
+(1)<sup>1</sup> Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines Hochschullehrers des Instituts für Elektrotechnik, Elektronik und Informationstechnik oder des Instituts für Informatik.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von AufgabensteIlungen auf einem ingenieurwissenschaftlichen Gebiet der Informationsund Kommunikationstechnik zu erlernen.<sup>3</sup> Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 400 Stunden innerhalb von drei Monaten abgeschlossen werden kann.<sup>4</sup> Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
 
-(2)[1] Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest.[2] Er bewertet die Studienarbeit nach der Notenskala von § 9 Abs. 1 bis 3 DipIPrOTF.[3] Die Bewertung soll innerhalb eines Monats nach Abgabe der Studienarbeit dem Prüfungsamt und dem Studenten mitgeteilt werden.[4] Das Thema der Studienarbeit kann der Student einmal innerhalb von drei Wochen nach dessen Ausgabe zurückgeben. 
+(2)<sup>1</sup> Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest.<sup>2</sup> Er bewertet die Studienarbeit nach der Notenskala von § 9 Abs. 1 bis 3 DipIPrOTF.<sup>3</sup> Die Bewertung soll innerhalb eines Monats nach Abgabe der Studienarbeit dem Prüfungsamt und dem Studenten mitgeteilt werden.<sup>4</sup> Das Thema der Studienarbeit kann der Student einmal innerhalb von drei Wochen nach dessen Ausgabe zurückgeben. 
 
 (3) Die Studienarbeit ist nicht bestanden, wenn sie mit einer Note schlechter als 4,0 bewertet ist oder wenn sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit „nicht ausreichend“ bewertet gilt oder wenn das Thema der Arbeit verspätet beziehungsweise unzulässigerweise zurückgegeben wurde. 
 
 5 
 
-(4)[1] Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Bei einer Wiederholung der Studienarbeit ist die Rückgabe des Themas ausgeschlossen. 
+(4)<sup>1</sup> Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Bei einer Wiederholung der Studienarbeit ist die Rückgabe des Themas ausgeschlossen. 
 
 ## **§ 12 Umfang und Durchführung der Diplomhauptprüfung** 
 
@@ -220,7 +220,7 @@ Der Student soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung m
 
 3. die Anfertigung einer Diplomarbeit. 
 
-(2)[1] Pflichtfächer sind 
+(2)<sup>1</sup> Pflichtfächer sind 
 
 1. Informationstheorie, 
 
@@ -232,13 +232,13 @@ Der Student soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung m
 
 2Der Umfang der Pflichtfächer, ihre Verteilung auf die Semester des Hauptstudiums, Art und Dauer der Prüfungen sowie die Zahl der Leistungs- und Maluspunkte ergeben sich aus der **Anlage 2** . 
 
-(3)[1] Als Wahlpflichtfächer sind Lehrveranstaltungen im Gesamtumfang von mindestens 38 SWS aus vorgegebenen Wahlpflichtkatalogen wählbar.[2] Für jede Studienrichtung gemäß § 3 werden vier Wahlpflichtkataloge angeboten.[3] Aus jedem dieser Wahlpflichtkataloge muss der Student Lehrveranstaltungen im Umfang von sechs bis zwölf SWS wählen.[4] Art und Dauer der Prüfungen sowie die Zahl der Leistungs- und Maluspunkte für die Wahlpflichtfächer sind in den Katalogen angegeben.[5] Die Kataloge werden vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben. 
+(3)<sup>1</sup> Als Wahlpflichtfächer sind Lehrveranstaltungen im Gesamtumfang von mindestens 38 SWS aus vorgegebenen Wahlpflichtkatalogen wählbar.<sup>2</sup> Für jede Studienrichtung gemäß § 3 werden vier Wahlpflichtkataloge angeboten.<sup>3</sup> Aus jedem dieser Wahlpflichtkataloge muss der Student Lehrveranstaltungen im Umfang von sechs bis zwölf SWS wählen.<sup>4</sup> Art und Dauer der Prüfungen sowie die Zahl der Leistungs- und Maluspunkte für die Wahlpflichtfächer sind in den Katalogen angegeben.<sup>5</sup> Die Kataloge werden vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben. 
 
 (4) In Pflicht- und Wahlpflichtfächern ist eine zweite Wiederholung nicht ausreichend bewerteter Prüfungsleistungen zulässig bis zur Schwelle von 28 Maluspunkten. 
 
 ## **§ 13 Diplomarbeit** 
 
-1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise auf begründeten Antrag des Studenten eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus der Informations- und Kommunikationstechnik behandeln.[4] Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer aus dem Institut für Elektrotechnik, Elektronik und Informationstechnik oder dem Institut für Informatik ausgegeben und betreut. 
+1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise auf begründeten Antrag des Studenten eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus der Informations- und Kommunikationstechnik behandeln.<sup>4</sup> Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer aus dem Institut für Elektrotechnik, Elektronik und Informationstechnik oder dem Institut für Informatik ausgegeben und betreut. 
 
 ## **§ 14** 
 
@@ -272,29 +272,28 @@ Diese Satzung tritt am Tage nach ihrer Bekanntgabe in Kraft.*)
 
 7 
 
-## **Anlage 1** (zu § 7) 
+## **<u>Anlage 1</u>** <u>(zu § 7)</u> 
 
-|**Anlage 1**(zu § 7)|||||||||
+|**_Prüfungs- und Studienleistungen_**<br>**_der Diplomvorprüfung_**|**_Verteilu_**<br>**_Semest_**|**_ng der_**<br>**_er des Gr_**|**_SWS üb_**<br>**_undstud_**|**_er die_**<br>**_iums_**|**_Prüfu_**<br>**_dauer_**|**_ngs-_**<br>**_art_**|**_Zahl_**|**_der_**|
 |---|---|---|---|---|---|---|---|---|
-|<br>**_Prüfungs- und Studienleistungen_**<br>**_der Diplomvorprüfung_**|**_Verteilung der SWS über die_**<br>**_Semester des Grundstudiums_**||||**_Prüfungs-_**<br>**_dauer    art_**||**_Zahl der_**||
-||**_1._**|**_2._**|**_3._**|**_4._**|**_Min._**|�**_---------------- schriftlich ---------------------_**�|**_Leis-_**<br>**_tungs-_**<br>**_punkte_**|**_Ma-_**<br>**_luspu_**<br>**_nkte_**|
-|1.  Mathematik I|4+2||||90||7,5|7,5|
-|2.  Mathematik II||4+2|||90||7,5|7,5|
-|3.  Mathematik III|||4+2||90||7,5|7,5|
-|4.  Einführungin die IuK-Technik|4+2||||120||7,5|7,5|
-|5.  Digitaltechnik *)|2+2||||90||5|5|
-|6.  Algorithmik I|4+2||||120||7,5|7,5|
-|7.  Algorithmik III||||4+2|120||7,5|7,5|
-|8.  Softwaresysteme I||4+2|||120||7,5|7,5|
-|9.  Signale und Systeme I||2+2|||90||5|5|
-|10. Signale und Systeme II|||2+2||90||5|5|
-|11. Elektronik und Schaltungstechnik||4+2|||120||7,5|7,5|
-|12. Technische Informatik II||2+2|||90||5|5|
-|13. Technische Informatik IV||||2+2|90||5|5|
-|14. Ereignisgesteuerte Systeme|||2+2||90||5|5|
-|15. Algebra|||2||60||2,5|2,5|
-|16. Stochastische Prozesse||||3+2|120||6,5|6,5|
-|17. Digitale Signalverarbeitung*)||||4+2|120||7,5|7,5|
+||**_1._**|**_2._**|**_3._**|**_4._**|**_Min._**|�|**_Leis-_**<br>**_tungs-_**<br>**_punkte_**|**_Ma-_**<br>**_luspu_**<br>**_nkte_**|
+|1.  Mathematik I|4+2||||90|**_---_**|7,5|7,5|
+|2.  Mathematik II||4+2|||90|**_---_**|7,5|7,5|
+|3.  Mathematik III|||4+2||90|**_----_**|7,5|7,5|
+|4.  Einführungin die IuK-Technik|4+2||||120|**_---_**|7,5|7,5|
+|5.  Digitaltechnik *)|2+2||||90|**_---_**|5|5|
+|6.  Algorithmik I|4+2||||120|**_----_**|7,5|7,5|
+|7.  Algorithmik III||||4+2|120|**_h -_**|7,5|7,5|
+|8.  Softwaresysteme I||4+2|||120|**_ic_**|7,5|7,5|
+|9.  Signale und Systeme I||2+2|||90|**_iftl_**|5|5|
+|10. Signale und Systeme II|||2+2||90|**_hr_**|5|5|
+|11. Elektronik und Schaltungstechnik||4+2|||120|**_sc_**|7,5|7,5|
+|12. Technische Informatik II||2+2|||90|**_---_**|5|5|
+|13. Technische Informatik IV||||2+2|90|**_---_**|5|5|
+|14. Ereignisgesteuerte Systeme|||2+2||90|**_----_**|5|5|
+|15. Algebra|||2||60|**_---_**|2,5|2,5|
+|16. Stochastische Prozesse||||3+2|120|**_---_**|6,5|6,5|
+|17. Digitale Signalverarbeitung*)||||4+2|120|�|7,5|7,5|
 |18. Multimediakommunikation I *)||||2+1|90||4|4|
 |Praktikum Software für die Mathematik|3P||||-||3|-|
 |Praktikum Elektronik und Schaltungs-<br>technik|||3P||-||3|-|
@@ -302,21 +301,20 @@ Diese Satzung tritt am Tage nach ihrer Bekanntgabe in Kraft.*)
 
 Für die mit *) gekennzeichneten Lehrveranstaltungen gilt die Regelung bzgl. des Prüfungszeitpunktes gemäß § 4 Abs. 1 Satz 2 sowie bzgl. des ersten Wiederholungstermins gemäß § 8 Abs. 4. 
 
-**Anlage 2** (zu § 12) 
+### **<u>Anlage 2</u>** <u>(zu § 12)</u> 
 
-|**Anlage 2**(zu § 12)||||||||
+|**_Prüfungs- und Studienleistungen_**<br>**_der Diplomhauptprüfung_**|**_Verteilu_**<br>**_über di_**<br>**_des Ha_**|**_ng_**<br>**_der_**<br>**_e Semest_**<br>**_uptstudiu_**|<br>**_SWS_**<br>**_er_**<br>**_ms_**|**_Prüfung_**<br>**_dauer_**|**_s-_**<br>**_art_**|**_Zahl_**|**_der_**|
 |---|---|---|---|---|---|---|---|
-|**_Prüfungs- und Studienleistungen_**<br>**_der Diplomhauptprüfung_**|**_Verteilung_**<br>**_der_**<br>**_SWS_**<br>**_über die Semester_**<br>**_des Hauptstudiums_**|||**_Prüfungs-_**<br>**_dauer       art_**||**_Zahl der_**||
-||**_5._**|**_6._**|**_7.-10._**|**_Min._**|**_schriftlich_**|**_Leistungs-_**<br>**_punkte_**|**_Malus-_**<br>**_punkte_**|
-|I.   Pflichtfächer||||||||
-|1. Informationstheorie *)|2+1|||90||4,5|4,5|
-|2. Nachrichtenübertragung*)|4+2||4+2|120||9|9|
-|3. Verteilte Systeme||2+2||90||6|6|
-|4. Software Engineering||4||90||6|6|
-|II.   Wahlpflichtfächer *)|38|||||57|57|
-|III.  Wahlfächer|16|||||24|-|
-|IV.  Zwei Hauptseminare|4|||||6|-|
-|V.   Praktika/Projekte|12|||||12|-|
+||**_5._**|**_6._**|**_7.-10._**|**_Min._**||**_Leistungs-_**<br>**_punkte_**|**_Malus-_**<br>**_punkte_**|
+|I.   Pflichtfächer|||||**_h_**|||
+|1. Informationstheorie *)|2+1|||90|**_tlic_**|4,5|4,5|
+|2. Nachrichtenübertragung*)|4+2||4+2|120|**_rif_**|9|9|
+|3. Verteilte Systeme||2+2||90|**_ch_**|6|6|
+|4. Software Engineering||4||90|**_s_**|6|6|
+|II.   Wahlpflichtfächer *)||38||||57|57|
+|III.  Wahlfächer||16||||24|-|
+|IV.  Zwei Hauptseminare||4||||6|-|
+|V.   Praktika/Projekte||12||||12|-|
 |VI.  Studienarbeit||||||15|-|
 |VII. Diplomarbeit||||||30|-|
 |**_Summe_**||||||169,5||

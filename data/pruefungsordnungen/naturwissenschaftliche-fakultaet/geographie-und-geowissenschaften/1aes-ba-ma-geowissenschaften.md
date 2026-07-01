@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. September 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/1AES_BA-MA_Geowissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:41:24+00:00
-page_count_chars: 20440
+scraped_at: 2026-07-01T09:06:44+00:00
+page_count_chars: 19782
 ---
 
 # 30. September 2016
@@ -12,9 +12,9 @@ page_count_chars: 20440
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/Änderungssatzungen/1AES_BA-MA_Geowissenschaften.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOGeo -** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOGeo -** 
 
-## Vom 30. September 2016 
+# Vom 30. September 2016 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -26,67 +26,55 @@ Die Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) 
 
 2. Nach § 43 wird folgender neuer § 43a eingefügt: 
 
-## „ **§ 43a Wahlmodule** 
+# „ **§ 43a Wahlmodule** 
 
-(1)[1] Das Qualifikationsziel des Wahlmoduls liegt darin, den Studierenden zu ermöglichen, sich in mindestens einem Schwerpunktbereich („Material- und Werkstoffwissenschaften, Chemie, Astronomie, Informatik, Computer in den Geowissenschaften, Archäometrie, Geographie und Biologie“) erstens thematisch zu ergänzen.[2] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
+(1)<sup>1</sup> Das Qualifikationsziel des Wahlmoduls liegt darin, den Studierenden zu ermöglichen, sich in mindestens einem Schwerpunktbereich („Material- und Werkstoffwissenschaften, Chemie, Astronomie, Informatik, Computer in den Geowissenschaften, Archäometrie, Geographie und Biologie“) erstens thematisch zu ergänzen.<sup>2</sup> Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (45, 60 oder 90 Min.), schriftliche Hausarbeit (10-20 S.), Referat (ca. 15, ca. 30 oder ca. 45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (45, 60 oder 90 Min.), schriftliche Hausarbeit (10-20 S.), Referat (ca. 15, ca. 30 oder ca. 45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (3) Die Wahlmodule setzen sich in der Regel entweder aus einer Vorlesung (2 SWS), Vorlesung mit Übung (4 SWS), Praktikum (2 bis 4 SWS), einem Seminar (2 bis 4 SWS) oder zwei Seminaren (je 2 SWS) zusammen.“ 
 
 3. In § 48 Abs. 1 Satz 2 Nr. 3 wird das Wort "Wahlmodul" durch das Wort "Wahlnebenfachmodul" ersetzt. 
 
-## 4. Nach § 48 wird folgender neuer § 48a eingefügt: 
+4. Nach § 48 wird folgender neuer § 48a eingefügt: 
 
-## „ **§ 48a Wahlnebenfachmodul** 
+# „ **§ 48a Wahlnebenfachmodul** 
 
-(1)[1] Das Qualifikationsziel des Wahlnebenfachmoduls liegt darin, den Studierenden zu ermöglichen, sich in mindestens einem Schwerpunktbereich („Material- und Werkstoffwissenschaften, Informatik, Geographie und Biologie“) erstens thematisch zu ergänzen.[2] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
+(1)<sup>1</sup> Das Qualifikationsziel des Wahlnebenfachmoduls liegt darin, den Studierenden zu ermöglichen, sich in mindestens einem Schwerpunktbereich („Material- und Werkstoffwissenschaften, Informatik, Geographie und Biologie“) erstens thematisch zu ergänzen.<sup>2</sup> Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (45, 60 oder 90 Min.), schriftliche Hausarbeit (10-20 S.), Referat (ca. 15, ca. 30 oder ca. 45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (45, 60 oder 90 Min.), schriftliche Hausarbeit (10-20 S.), Referat (ca. 15, ca. 30 oder ca. 45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (3) Die Wahlnebenfachmodule setzen sich in der Regel entweder aus einer Vorlesung (2 SWS), Vorlesung mit Übung (4 SWS), Praktikum (2 bis 4 SWS), einem Seminar (2 bis 4 SWS) oder zwei Seminaren (je 2 SWS) zusammen." 
 
-## 5. Anlage 2 wird wie folgt geändert: 
+5. Anlage 2 wird wie folgt geändert: 
 
-- a) Die Tabelle „Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.)“ wird wie folgt geändert: 
+   - a) Die Tabelle „Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.)“ wird wie folgt geändert: 
 
-   - aa) In den Zeilen 9 und 10 (Modul Chemie) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
+      - aa) In den Zeilen 9 und 10 (Modul Chemie) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
 
-   - bb) In den Zeilen 11 und 12 (Modul Geowissenschaftliche Arbeitsmethoden I) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
+      - bb) In den Zeilen 11 und 12 (Modul Geowissenschaftliche Arbeitsmethoden I) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
 
-   - cc) In den Zeilen 29 und 30 (Modul Geowissenschaftliche Arbeitsmethoden II) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
+      - cc) In den Zeilen 29 und 30 (Modul Geowissenschaftliche Arbeitsmethoden II) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
 
-   - dd) In den Zeilen 33 und 34 (Modul Regionale Geologie) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
+      - dd) In den Zeilen 33 und 34 (Modul Regionale Geologie) werden in Spalte 15 (Art und Umfang der Prüfung/Studienleistung) das Wort und Zeichen „Portfolioprüfung:“ gestrichen. 
 
-   - ee) In der Fußnote 3 werden nach der hochgestellten Zahl „[3] “ die Worte „Vgl. § 43a;“ eingefügt. 
+      - ee) In der Fußnote 3 werden nach der hochgestellten Zahl „<sup>3</sup> “ die Worte „Vgl. § 43a;“ eingefügt. 
 
-- b) Die Tabelle „Wahlpflichtvertiefungsmodule I und II“ wird wie folgt geändert: 
+   - b) Die Tabelle „Wahlpflichtvertiefungsmodule I und II“ wird wie folgt geändert: 
 
 aa) Die bisherige Zeile 9 (Modul AS I) wird zu den neuen Zeilen 9 und 10 und erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|„||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**AS-I**|**Sediment-**<br>**und Gefü-**<br>**geanalyse**|||||||||||||PL: Bericht (max. 10 Seiten)|1|
-|||Mikroskopie von<br>d||2||||||||3||||
-|||Seimentgesteinen|||||5|||||||||
-|||Methoden der Gefü-<br>geanalyse||2||||||||2||||
-
-“ 
+|**AS-I**|**Sediment-**<br>**und Gefü-**<br>**geanalyse**|Mikroskopie von<br>Sedimentgesteinen<br>Methoden der Gefü-<br>geanalyse|2<br>2|5|3<br>2|PL: Bericht (max. 10 Seiten)<br>“|1<br>|
+|---|---|---|---|---|---|---|---|
 
 - bb) Die bisherige Zeile 10 (Modul AS II) wird zu den neuen Zeilen 11 und 12 und erhält folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-|„||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**AS-II**|**Methoden**<br>**der Sedimen-**<br>**tologie**||||||||||||2|PL: Klausur 60 Min. und Bericht<br>(max. 10 Seiten)|1|
-|||Methoden der<br>dili|1|1||||||||||||
-|||Sementooge||||||||||||||
-|||Sedimentäre<br>Faziesräume|||||5|||||||||
-|||||||3|||||||3|||
-|||||||||||||||“||
+|**AS-II**|**Methoden**<br>**der Sedimen-**<br>**tologie**|Methoden der<br>Sedimentologie<br>Sedimentäre<br>Faziesräume|1<br>1|3|5|2<br>3|PL: Klausur 60 Min. und Bericht<br>(max. 10 Seiten)<br>1<br>“|
+|---|---|---|---|---|---|---|---|
 
       - cc) Die bisherigen Zeilen 11 bis 16 werden zu den neuen Zeilen 13 bis 18. 
 
@@ -132,10 +120,8 @@ aa) Die bisherige Zeile 9 (Modul AS I) wird zu den neuen Zeilen 9 und 10 und erh
 
 - „ 
 
-**==> picture [128 x 47] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-18-<br>10-16  0  2-8<br>21<br>Summe SWS: 32-43<br>”<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+18-<br>10-16  0  2-8<br>21<br>Summe SWS: 32-43<br>”<br><!-- End of picture text -->
 
 - b) Die Tabelle „Angewandte Geologie (AG) als zweite Vertiefungsrichtung“ wird wie folgt geändert: 
 
@@ -149,33 +135,29 @@ aa) Die bisherige Zeile 9 (Modul AS I) wird zu den neuen Zeilen 9 und 10 und erh
 
 - cc) Die Zeilen 11 und 12 (Module AG-V4a, AG-V4b) erhalten folgende neue Fassung: 
 
-## „ 
+<u>„</u> 
 
-|<br>„|<br>sung:||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**AG-V4a: Karst-**<br>**hydrogeolo-**<br>**gie***|Karst und Hydrogeologie|2|2|||||5|||PL: Bericht (10-15<br>Seiten)|1|
-|**AG-V4b: Ver-**<br>**messungstech-**<br>**nik***|Hydrogeologische Gelän-<br>deaufnahme,<br>Vermessung& Auswertung||4|||5||5|||PL: Bericht (10-15<br>Seiten)|1|
-|||||||||||||“|
+|**AG-V4a: Karst-**<br>**hydrogeolo-**<br>**gie***|Karst und Hydrogeologie|2<br>2|5|5|PL: Bericht (10-15<br>Seiten)|1|
+|---|---|---|---|---|---|---|
+|**AG-V4b: Ver-**<br>**messungstech-**<br>**nik***|Hydrogeologische Gelän-<br>deaufnahme,<br>Vermessung& Auswertung|4||5|PL: Bericht (10-15<br>Seiten)|1|
+|||||||“|
 
 dd) Die Zeilen 14 bis 17 (Module AG-F2a, AG-F2b) werden zu den neuen Zeilen 14 bis 16 und erhalten folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**AG-F2a: AS-F3**<br>**Energier-**<br>**essourcen****|Geo-Energieressourcen|1|1||||||2,5||PL: Klausur 90 Min.|1|
-||Geothermie/Erschließung und<br>Nutzung|1|1|||5|||2,5||||
-|**AG-F2b: PG-F3**<br>**Methoden der**<br>**Petrologie****|Analytische Methoden der<br>Petrologie||||4||||5||PL: Bericht (max. 10<br>Seiten)|1|
-||||||||||||“||
+|**AG-F2a: AS-F3**|Geo-Energieressourcen|1|1||2,5|||
+|---|---|---|---|---|---|---|---|
+|**Energier-**<br>**essourcen****|Geothermie/Erschließung und<br>Nutzung|1|1||5<br>2,5|PL: Klausur 90 Min.|1|
+|**AG-F2b: PG-F3**<br>**Methoden der**<br>**Petrologie****|Analytische Methoden der<br>Petrologie|||4|5|PL: Bericht (max. 10<br>Seiten)|1|
+|||||||“||
 
 - ee) Die bisherigen Zeilen 18 und 19 werden zu den neuen Zeilen 17 und 18. 
 
 ff) Die Spalten 3 bis 6 der neuen Zeilen 17 und 18 (Summen SWS) erhalten folgende neue Fassung: 
 
-**==> picture [102 x 50] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-„<br>14-<br>6-9  0  0-4<br>17<br>Summe SWS: 21-29<br>“<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+„<br>14-<br>6-9  0  0-4<br>17<br>Summe SWS: 21-29<br>“<br><!-- End of picture text -->
 
 gg) Es wird folgende Fußnote angefügt: 
 
@@ -215,55 +197,48 @@ bb) In Spalte 4 (SWS - Ü) wird die Zahl „12“ durch die Zahl „16“ ersetz
 
 „ 
 
-|<br>„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**AS-F1: Seismi-**<br>**sche Reser-**<br>**voirinterpreta-**<br>**tion**|Seismische Interpretation II (3D)|1|1|||5|||2,5||PL: Klausur 60<br>Min.|1|
-||Seismo- und Sequenzstratigra-<br>phie|1|1||||||2,5||||
-|||||||||||||“|
+|**AS-F1: Seismi-**<br>**sche Reser-**|Seismische Interpretation II (3D)|1<br>1|5|2,5|PL: Klausur 60|1|
+|---|---|---|---|---|---|---|
+|**voirinterpreta-**<br>**tion**|Seismo- und Sequenzstratigra-<br>phie|1<br>1||2,5|Min.|“<br>|
 
 - hh) In den Zeilen 25 und 26 (Modul AS-F3) wird in Spalte 12 (Art und Umfang der Prüfung/Studienleistung) die Zahl „60“ durch die Zahl „90“ ersetzt. 
 
 - ii) Die Spalten 3 bis 6 der Zeilen 27 und 28 (Summen SWS) erhalten folgende neue Fassung: 
 
-**==> picture [102 x 50] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-„<br>14- 19-<br>0  0<br>18  24<br>Summe SWS: 37-38<br>“<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+„<br>14- 19-<br>0  0<br>18  24<br>Summe SWS: 37-38<br>“<br><!-- End of picture text -->
 
 - f) Die Tabelle „Angewandte Sedimentologie (AS) als zweite Vertiefungsrichtung“ wird wie folgt geändert: 
 
 aa) Die Zeilen 8 bis 10 (Modul AS-V3) werden wie folgt geändert: 
 
-   - (1) In Zeile 9 wird in Spalte 3 (SWS - V) die Zahl „0,5“ durch die Zahl „1“ ersetzt und in Spalte 4 (SWS - Ü) die Zahl „0,5“ gestrichen. 
+      - (1) In Zeile 9 wird in Spalte 3 (SWS - V) die Zahl „0,5“ durch die Zahl „1“ ersetzt und in Spalte 4 (SWS - Ü) die Zahl „0,5“ gestrichen. 
 
-   - (2) In Zeile 10 werden in Spalte 2 (Lehrveranstaltung) die Worte „Labormethoden in der Sedimentologie“ durch die Worte „Analytische Methoden“ ersetzt, in Spalte 3 (SWS - V) die Zahl „0,5“ gestrichen und in Spalte 4 (SWS - Ü) die Zahl „0,5“ durch die Zahl „1“ ersetzt. 
+      - (2) In Zeile 10 werden in Spalte 2 (Lehrveranstaltung) die Worte „Labormethoden in der Sedimentologie“ durch die Worte „Analytische Methoden“ ersetzt, in Spalte 3 (SWS - V) die Zahl „0,5“ gestrichen und in Spalte 4 (SWS - Ü) die Zahl „0,5“ durch die Zahl „1“ ersetzt. 
 
-   - (3) In Spalte 12 (Art und Umfang der Prüfung/Studienleistung) wird die Zahl „60“ durch die Zahl „90“ ersetzt. 
+      - (3) In Spalte 12 (Art und Umfang der Prüfung/Studienleistung) wird die Zahl „60“ durch die Zahl „90“ ersetzt. 
 
-- bb) Die Zeilen 11 und 12 (Modul AS-V4) werden wie folgt geändert: 
+   - bb) Die Zeilen 11 und 12 (Modul AS-V4) werden wie folgt geändert: 
 
-   - (1) In Zeile 12 werden in Spalte 2 (Lehrveranstaltung) die Worte „Geophysikalische Datenanalyse“ durch die Worte „Seismische Interpretation I (2D)“ ersetzt. 
+      - (1) In Zeile 12 werden in Spalte 2 (Lehrveranstaltung) die Worte „Geophysikalische Datenanalyse“ durch die Worte „Seismische Interpretation I (2D)“ ersetzt. 
 
-   - (2) In Spalte 12 (Art und Umfang der Prüfung/Studienleistung) wird die Zahl „10“ durch die Zahl „20“ ersetzt. 
+      - (2) In Spalte 12 (Art und Umfang der Prüfung/Studienleistung) wird die Zahl „10“ durch die Zahl „20“ ersetzt. 
 
-cc) Die Zeilen 13 und 14 (Modul AS-F1) erhalten folgende neue Fassung: 
+   - cc) Die Zeilen 13 und 14 (Modul AS-F1) erhalten folgende neue Fassung: 
 
-„ 
+- <u>„</u> 
 
-|**AS-F1: Seis-**<br>**mische Re-**<br>**servoirinter-**<br>**pretation**|Seismische Interpretation II<br>(3D)|1|1||||||2,5||PL: Klausur 60<br>Min.|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Seismo- und Sequenzstrati-<br>graphie|||||5|||||||
-|||1|1||||||2,5||||
-|||||||||||||“|
+|**AS-F1: Seis-**<br>**mische Re-**|Seismische Interpretation II<br>(3D)|1<br>1|5|2,5|PL: Klausur 60|1|
+|---|---|---|---|---|---|---|
+|**servoirinter-**<br>**pretation**|Seismo- und Sequenzstrati-<br>graphie|1<br>1||2,5|Min.||
+|||||||“|
 
 - dd) Die Spalten 3 bis 6 der Zeilen 17 und 18 (Summen SWS) erhalten folgende neue Fassung: 
 
-„ 
+   - „ 
 
-**==> picture [90 x 31] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-11  13  0  0<br>Summe SWS: 24<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+11  13  0  0<br>Summe SWS: 24<br><!-- End of picture text -->
 
 “ 
 
@@ -297,10 +272,8 @@ cc) Die Zeilen 13 und 14 (Modul AS-F1) erhalten folgende neue Fassung:
 
 - ii) Die Spalten 3 bis 6 der Zeilen 28 und 29 (Summen SWS) erhalten folgende neue Fassung: 
 
-**==> picture [114 x 50] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-„<br>19- 10- 2-<br>0<br>26  18  4<br>Summe SWS: 38-39<br>“<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+„<br>19- 10- 2-<br>0<br>26  18  4<br>Summe SWS: 38-39<br>“<br><!-- End of picture text -->
 
    - jj) Es wird folgende neue Fußnote angefügt: 
 
@@ -316,17 +289,17 @@ cc) Die Zeilen 13 und 14 (Modul AS-F1) erhalten folgende neue Fassung:
 
    - j) Die Tabelle "Wahlnebenfachmodul" wird wie folgt geändert: 
 
-      - aa) In Zeile 4 wird in Spalte 1 (Modulbezeichnung) nach dem Wort "einsehbar" die hochgestellte Zahl "[1] " eingefügt. 
+      - aa) In Zeile 4 wird in Spalte 1 (Modulbezeichnung) nach dem Wort "einsehbar" die hochgestellte Zahl "<sup>1</sup> " eingefügt. 
 
       - bb) In Zeile 6 wird in Spalte 3 bis 6 (Summe SWS) die Zahl "5" gestrichen. 
 
       - cc) Es wird folgende Fußnote angefügt: 
 
-         - "[1] Vgl. § 48a." 
+         - "<sup>1</sup> Vgl. § 48a." 
 
 7. Die Überschriften und Seitenzahlen des Inhaltsverzeichnisses werden angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2016/2017 aufnehmen. 
 

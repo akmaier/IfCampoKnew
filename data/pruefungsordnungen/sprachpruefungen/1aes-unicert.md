@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Oktober 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-UNIcert.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:30+00:00
-page_count_chars: 1561
+scraped_at: 2026-07-01T11:12:45+00:00
+page_count_chars: 1547
 ---
 
 # 30. Oktober 2015
@@ -12,13 +12,13 @@ page_count_chars: 1561
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES-UNIcert.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
 
-## **Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I-III)** 
+# **Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I-III)** 
 
-## Vom 30. Oktober 2015 
+# Vom 30. Oktober 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I-III) vom 28. Juni 2013 wird wie folgt geändert: 
 
@@ -30,12 +30,11 @@ Die Anlage zu § 1 Abs. 1 und 2 wird wie folgt geändert:
 
 „ 
 
-|„|||||||
-|---|---|---|---|---|---|---|
 |Türkisch|12 SWS|kein Ange-<br>bot|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
-|„|||||||
+|---|---|---|---|---|---|---|
+||„||||||
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2015 in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juni 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA_NordPhilologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:13:14+00:00
-page_count_chars: 7218
+scraped_at: 2026-07-01T10:30:10+00:00
+page_count_chars: 6900
 ---
 
 # 25. Juni 2015
@@ -12,7 +12,7 @@ page_count_chars: 7218
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA_NordPhilologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Nordische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 25. Juni 2015** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Nordische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 25. Juni 2015** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -36,7 +36,7 @@ a) Abs. 2 und 3 erhalten folgende Fassung:
 
 b) Nach Abs. 3 wird folgender Abs. 4 eingefügt: 
 
-„(4)[1] Als Zulassungsvoraussetzung für die Aufbaumodule ist der erfolgreiche Abschluss der entsprechenden Basismodule notwendig. 2Als 
+„(4)<sup>1</sup> Als Zulassungsvoraussetzung für die Aufbaumodule ist der erfolgreiche Abschluss der entsprechenden Basismodule notwendig. 2Als 
 
 1 
 
@@ -50,7 +50,7 @@ d) Abs. 5 (neu) wird wie folgt geändert:
 
 bb)  Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-„[4] Es wäre wünschenswert, dabei mindestens Grundkenntnisse in einer inselskandinavischen Sprache (Isländisch bzw. Färöisch) zu erwerben, soweit das Angebot des Sprachenzentrums der FAU dies ermöglicht.“ 
+„<sup>4</sup> Es wäre wünschenswert, dabei mindestens Grundkenntnisse in einer inselskandinavischen Sprache (Isländisch bzw. Färöisch) zu erwerben, soweit das Angebot des Sprachenzentrums der FAU dies ermöglicht.“ 
 
 e) Abs. 6 (neu) erhält folgende Fassung: 
 
@@ -66,57 +66,49 @@ f) Abs. 7 (neu) wird gestrichen.
 
 ## **„Anlage: Studienverlaufsplan B.A. Nordische Philologie** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung<br>/Studienleistung|Faktor<br>Mo-<br>dulno-<br>te|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|||||1.|2.|3.|4.|5.|6.|||
-||||Ü|P|S||||||||||
-||||||||||||||||
-|**Basismodule:**|||||||||||||||
-|Nordistische Linguistik 12|Einführungsseminar 1||||2|5|5||||||Klausur (90 Min.)|1|
-|Nordistische Linguistik 22||||||||||||||1|
-||Einführungsseminar 2||||2|5||5|||||Klausur (90 Min.)||
-||||||||||||||||
-|Nordistische Literatur- und<br>Kulturwissenschaft 12|Einführungsseminar 1||||2|5|5||||||Portfolioprüfung:<br>Referat (15-20 Minuten) und<br>Klausur(90 Min.)|1|
-|Nordistische Literatur- und<br>Kulturwissenschaft22|Einführungsseminar 2||||2|5||5|||||Hausarbeit (ca. 5-10 Seiten)|1|
-|Altnordisch 12|Einführungsseminar 1||||2|5|5||||||Klausur (90 Min.)|1|
-|Altnordisch 22||||||||||||||1|
-||Einführungsseminar 2||||2|5||5|||||Klausur (90 Min.)||
-||||||||||||||||
-|Nordische Erstsprache 12|Sprachkurs||4|||5|5||||||Klausur (90 Min.)|1|
-|Nordische Erstsprache 22|Sprachkurs||4|||5||5|||||Klausur (90 Min.)|1|
-|**Aufbaumodule:**|||||||||||||||
-|Nordistische Linguistik 3|Seminar||||2|5|||5||||Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
-|Nordistische Linguistik 4|Seminar/Kolleg||||2|5||||5|||Mündliche Prüfung<br>(ca. 15 Minuten)|1|
-|Nordistische Literatur- und<br>Kulturwissenschaft 3|Seminar||||2|5|||5||||Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
-|Nordistische Literatur- und<br>Kulturwissenschaft 4|Seminar/Kolleg||||2|5||||5|||Mündliche Prüfung<br>(ca. 15 Minuten)|1|
-|Altnordisch 3|Seminar||||2|5|||5||||Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
-|Altnordisch 4|Seminar/Kolleg||||2|5||||5|||Mündliche Prüfung<br>(ca. 15 Minuten)|1|
-|Nordische Erstsprache 32|Sprachkurs||4|||5|||5||||Klausur (90 Min.)|1|
-|Nordische Erstsprache 42|Sprachkurs||4|||5||||5|||Klausur (90 Min.)|1|
-|**Vertiefungsmodule:**|||||||||||||||
+|||SWS||Ge-|Wo|rkload-Verteil<br>ECTS|ung pro Semester in<br>-Punkten<sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Mo-|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||samt||||<br>/Stdilit|dl|
+|||V<br>Ü<br>|P<br>S|ECTS|1.|2.<br>3.|4.<br>5.<br>6.|uenesung|uno-<br>|
+|**Basismodule:**<br>|||||||<br>||te|
+|Nordistische Linguistik 1<sup>2</sup>|Einführungsseminar 1||2|5|5|||Klausur (90 Min.)|1|
+|Nordistische Linguistik 2<sup>2</sup>|Einführungsseminar 2||2|5||5||Klausur (90 Min.)|1|
+|Nordistische Literatur- und<br>Kulturwissenschaft 1<sup>2</sup>|Einführungsseminar 1||2|5|5|||Portfolioprüfung:<br>Referat (15-20 Minuten) und<br>Klausur(90 Min.)|1|
+|Nordistische Literatur- und<br>Kulturwissenschaft2<sup>2</sup>|Einführungsseminar 2||2|5||5||Hausarbeit (ca. 5-10 Seiten)|1|
+|Altnordisch 1<sup>2</sup>|Einführungsseminar 1||2|5|5|||Klausur (90 Min.)|1|
+|Altnordisch 2<sup>2</sup>|Einführungsseminar 2||2|5||5||Klausur (90 Min.)|1|
+|Nordische Erstsprache 1<sup>2</sup>|Sprachkurs|4||5|5|||Klausur (90 Min.)|1|
+|Nordische Erstsprache 2<sup>2</sup>|Sprachkurs|4||5||5||Klausur (90 Min.)|1|
+|<br>**Aufbaumodule:**||||||||Rft d Hbit||
+|Nordistische Linguistik 3|Seminar||2|5||5||eera un ausare<br>(ca. 10-15 Seiten)|1|
+|Nordistische Linguistik 4|Seminar/Kolleg||2|5|||5|Mündliche Prüfung<br>(ca. 15 Minuten)|1|
+|Nordistische Literatur- und<br>Kulturwissenschaft 3|Seminar||2|5||5||Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
+|Nordistische Literatur- und<br>Kulturwissenschaft 4|Seminar/Kolleg||2|5|||5|Mündliche Prüfung<br>(ca. 15 Minuten)|1|
+|Altnordisch 3|Seminar||2|5||5||Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
+|Altnordisch 4|Seminar/Kolleg||2|5|||5|Mündliche Prüfung<br>(ca. 15 Minuten)|1|
+|Nordische Erstsprache 3<sup>2</sup>|Sprachkurs|4||5||5||Klausur (90 Min.)|1|
+|Nordische Erstsprache 4<sup>2</sup>|Sprachkurs|4||5|||5|Klausur (90 Min.)|1|
+|**Vertiefungsmodule:**||||||||||
 
 3 
 
-|Nordistische Linguistik 53|Hauptseminar||||2|10|||||7||Referat und Hausarbeit<br>(ca. 15-20 Seiten)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Kolleg/Übung||1-2||1-2||||||3||||
-|Nordistische Literatur- und<br>Kulturwissenschaft 53|Hauptseminar||||2|10|||||7||Referat und Hausarbeit<br>(ca. 15-20 Seiten)|1|
-||Kolleg/Übung||1-2||1-2||||||3||||
-|Altnordisch 53|Hauptseminar||||2|10|||||7||Referat und Hausarbeit<br>(ca. 15-20 Seiten)|1|
-||Kolleg/Übung||1-2||1-2||||||3||||
-|Nordische Erstsprache 5:<br>Rezeptiver Spracherwerb 1|Seminar||||2|5|||||5||Klausur (90 Min.)|1|
-|Nordische Erstsprache 6:<br>Rezeptiver Spracherwerb 2|Seminar||||2|5||||||5|Referat und Hausarbeit<br>(ca. 10-15 Seiten)|1|
-|**Bachelorarbeit (nur im Erstfach)**|||||||||||||||
-|Bachelorarbeit|Bachelorarbeit|||||10||||||10|Bachelorarbeit|1|
-|Summe:||0|16-<br>18|0|19-<br>22|70/90|20|20|10/<br>15|10/<br>15|10|0/10|||
+|Nordistische Linuistik 5<sup>3</sup>|Hauptseminar|||2|10|7||Referat und Hausarbeit|1|
+|---|---|---|---|---|---|---|---|---|---|
+|g||||||||(ca 15-20 Seiten)||
+||Kolleg/Übung||1-2|1-2||3||.||
+|Nordistische Literatur- und<br>|Hauptseminar|||2|10|7||Referat und Hausarbeit|1|
+|Kulturwissenschaft 5<sup>3</sup>|Kolleg/Übung||1-2|1-2||3||(ca. 15-20 Seiten)||
+|Altnordisch 5<sup>3</sup>|Hauptseminar|||2|10|7||Referat und Hausarbeit|1|
+||Kolleg/Übung||1-2|1-2||3||(ca. 15-20 Seiten)||
+|Nordische Erstsprache 5:<br>Rezeptiver Spracherwerb 1|Seminar|||2|5|5||Klausur (90 Min.)|1|
+|Nordische Erstsprache 6:<br>Rezeptiver Spracherwerb 2|Seminar|||2|5||5|Referat und Hausarbeit<br>(ca 10-15 Seiten)|1|
+|<br>**Bachelorarbeit (nur im Erstfa**<br>|**ch)**<br>|||||||.<br>||
+|Bachelorarbeit|Bachelorarbeit||||10||10|Bachelorarbeit|1|
+|||Summe:|0<br>16-<br>18<br>0|<br>19-<br>22|70/90<br>20<br>20<br>10/<br>15|10/<br>15<br>10|0/10|||
 
 - 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. 
 
-- 2 Diese Module müssen belegt werden. 
-
-- 3 Bei der Wahl von „Nordischer Philologie“ als Erstfach muss eines dieser drei Module belegt werden. 
-
-“ 
+2 Diese Module müssen belegt werden. 3 Bei der Wahl von „Nordischer Philologie“ als Erstfach muss eines dieser drei Module belegt werden. “ 
 
 4 
 

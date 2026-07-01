@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AeSa-PrO-Int-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:36+00:00
-page_count_chars: 7389
+scraped_at: 2026-07-01T10:47:27+00:00
+page_count_chars: 7445
 ---
 
 # 1. Dezember 2005
@@ -14,11 +14,11 @@ page_count_chars: 7389
 
 **Siebte Satzung zur Änderung der Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betriebswirtschaftslehre (International Business) der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Dezember 2005 
+# Vom 1. Dezember 2005 
 
 Auf Grund von Art. 6 Abs. 1, Art. 81 Abs. 1 und Art. 86 a des Bayerischen Hochschulgesetzes und auf Grund des § 57 Abs. 1 der Qualifikationsverordnung (BayRS 2210-1-1-3-UK/WFK) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betriebswirtschaftslehre (International Business) der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 29. Januar 1998 (KWMBl II S. 583), zuletzt geändert durch Satzung vom 29. August 2005, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betri
 
 2. § 14 Abs. 3 Satz 3 erhält folgende Fassung: 
 
-"[3] Satz 2 gilt für die Masterprüfung entsprechend mit der Maßgabe, dass die Note des Praktikumsberichts mit sechs Kreditpunkten in den gewichteten Durchschnitt einbezogen wird." 
+"<sup>3</sup> Satz 2 gilt für die Masterprüfung entsprechend mit der Maßgabe, dass die Note des Praktikumsberichts mit sechs Kreditpunkten in den gewichteten Durchschnitt einbezogen wird." 
 
 3. In § 31 Abs. 1 Satz 7 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefügt: 
 
@@ -50,15 +50,13 @@ Die Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betri
 
    - c) Es wird folgender Satz 2 angefügt: 
 
-      - "[2] Der Praktikumsbericht ist von einem Lehrstuhl der Fakultät zu betreuen und zu bewerten." 
+      - "<sup>2</sup> Der Praktikumsbericht ist von einem Lehrstuhl der Fakultät zu betreuen und zu bewerten." 
 
 6. § 39 wird wie folgt geändert: 
 
-## a) Die Überschrift erhält folgende Fassung: 
+# a) Die Überschrift erhält folgende Fassung: 
 
-## " **§ 39** 
-
-## **Umfang der studienbegleitenden Teilprüfungen, Ergebnis der Masterprüfung, Wiederholung** " 
+# " **§ 39 Umfang der studienbegleitenden Teilprüfungen, Ergebnis der Masterprüfung, Wiederholung** " 
 
    - b) In Abs. 1 Satz 1 erhalten die Nrn. 2 und 4 folgende Fassung: 
 
@@ -74,29 +72,35 @@ Die Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betri
 
 7. § 40 wird wie folgt geändert: 
 
-## a) Die Überschrift erhält folgende Fassung: 
+# a) Die Überschrift erhält folgende Fassung: 
 
-## " **§ 40** 
+# " **§ 40** 
 
-## **Zeugnis und Masterurkunde sowie Diploma Supplement** " 
+# **Zeugnis und Masterurkunde sowie Diploma Supplement** " 
 
 - b) Abs. 2 erhält folgende Fassung: 
 
-   - "(2)[1] Das Zeugnis enthält die Prüfungsgesamtnote gemäß § 14 Abs. 3, die Fachnoten, die Note des Praktikumsberichts, das Thema und die Note der Masterarbeit sowie auf Antrag des Absolventen die Fachstudiendauer.[2] Die Teilleistungen sollen möglichst differenziert ausgewiesen werden.[3] Die Namen der Prüfer sind im Zeugnis auszudrucken.[4] Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet.[5] Als Datum des Zeugnisses wird der Tag angegeben, an dem die Erfüllung aller Prüfungsleistungen durch den Prüfungsausschuss festgestellt worden ist." 
+   - "(2)<sup>1</sup> Das Zeugnis enthält die Prüfungsgesamtnote gemäß § 14 Abs. 3, die Fachnoten, die Note des Praktikumsberichts, das Thema und die Note der Masterarbeit sowie auf Antrag des Absolventen die Fachstudiendauer.<sup>2</sup> Die Teilleistungen sollen möglichst differenziert ausgewiesen werden.<sup>3</sup> Die Namen der Prüfer sind im Zeugnis auszudrucken.<sup>4</sup> Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet.<sup>5</sup> Als Datum des Zeugnisses wird der Tag angegeben, an dem die Erfüllung aller Prüfungsleistungen durch den Prüfungsausschuss festgestellt worden ist." 
 
 - c) Nach Abs. 4 wird folgender Abs. angefügt: 
 
-   - "(5)[1] Der Absolvent erhält ein den europäischen Konventionen entsprechendes Diploma Supplement, dessen Gestaltung der Prüfungsausschuss festlegt.[2] Im Diploma Supplement wird eine relative Note (ECTS-Note) entsprechend der ECTS-Bewertungsskala ausgewiesen: 
+   - "(5)<sup>1</sup> Der Absolvent erhält ein den europäischen Konventionen entsprechendes Diploma Supplement, dessen Gestaltung der Prüfungsausschuss festlegt.<sup>2</sup> Im Diploma Supplement wird eine relative Note (ECTS-Note) entsprechend der ECTS-Bewertungsskala ausgewiesen: 
 
 A für die besten 10 %, B für die nächsten 25 %, C für die nächsten 30 %, D für die nächsten 25 % und E für die nächsten 10 %. " 
 
-## 8. Anlage I Buchst. B erhält folgende Fassung: 
+# 8. Anlage I Buchst. B erhält folgende Fassung: 
 
 "B) Zur **Masterprüfung** zugelassene Prüfungsfächer (§ 39 Abs.1) 
 
-## **1. Allgemeine Betriebswirtschaftslehre** 
+# **1. Allgemeine Betriebswirtschaftslehre** 
 
-- 1.1 Unternehmensplanspiel oder Fallstudienseminar sowie zwei weitere Drittelfächer aus 1.2 Absatz 1.3 Finanzwirtschaft 1.4 Unternehmensführung 1.5 Informationswirtschaft 
+1.1 Unternehmensplanspiel oder Fallstudienseminar sowie zwei weitere Drittelfächer aus 
+
+1.2 Absatz 
+
+- 1.3 Finanzwirtschaft 1.4 Unternehmensführung 
+
+- 1.5 Informationswirtschaft 
 
 1.6 Kommunikationswirtschaft 
 
@@ -114,7 +118,7 @@ A für die besten 10 %, B für die nächsten 25 %, C für die nächsten 30 %, D 
 
 1.13 Logistik 
 
-## **2. Volkswirtschaftslehre** 
+# **2. Volkswirtschaftslehre** 
 
 Halbfach Volkswirtschaftslehre 1: 
 
@@ -128,7 +132,7 @@ Halbfach Volkswirtschaftslehre 2: 2.3 Finanzwissenschaft oder
 
 2.5 Entwicklungspolitik oder 2.6 Arbeitsmarkt- und Regionalpolitik 
 
-## **3. Internationale Spezielle Betriebswirtschaftslehre** 
+# **3. Internationale Spezielle Betriebswirtschaftslehre** 
 
 Halbfach Internationale Spezielle Betriebswirtschaftslehre 1: 3.1 Internationales Management 
 
@@ -148,7 +152,7 @@ Halbfach Internationale Spezielle Betriebswirtschaftslehre 2:
 
 3.8 Internationales Management (Vertiefung) 
 
-## **4. Internationales Recht** 
+# **4. Internationales Recht** 
 
 Es ist ein Halbfach aus folgenden Alternativen zu wählen: 4.1 Europarecht oder 
 
@@ -156,7 +160,7 @@ Es ist ein Halbfach aus folgenden Alternativen zu wählen: 4.1 Europarecht oder
 
 4.3 Internationales Steuerrecht 
 
-## **5. Pflichtwahlfachbereich** 
+# **5. Pflichtwahlfachbereich** 
 
 Es sind zwei Halbfächer aus folgenden Alternativen zu wählen: 5.1 Auslandswissenschaften (Englischsprachige Kulturen) oder 
 
@@ -164,25 +168,18 @@ Es sind zwei Halbfächer aus folgenden Alternativen zu wählen: 5.1 Auslandswiss
 
 Anstelle der Halbfächer aus den beschriebenen Bereichen kann der Prüfungsausschuss weitere Prüfungshalbfächer zulassen, wenn sie in sinnvollem Zusammenhang mit dem Masterstudium stehen." 
 
-## 9. Die Anlage III wird wie folgt geändert: 
+# 9. Die Anlage III wird wie folgt geändert: 
 
 a) Buchst. B erhält bis zu den Erläuterungen folgende Fassung: 
 
-## " **B) Struktur der Masterprüfung** 
+# " **B) Struktur der Masterprüfung** 
 
-|Fächer der Masterprüfung|SWS|Kreditpunkte|Maximale Zahl|Prüfungsbudget|
+|Fächer der Masterprüfung|SWS|Kreditpunkte<br>(KP)|Maximale Zahl<br>der Teilprüfungen|Prüfungsbudget<br> <br>in Einheiten|
 |---|---|---|---|---|
-|||(KP)|der Teilprüfungen|in Einheiten|
-|1. Allgemeine|12|12|6|6|
-|Betriebswirtschaftslehre|||||
-|3 Teilfächer à 4 SWS|||||
-|2. Volkswirtschaftslehre|12|12|6|6|
-|2 Teilfächer à 6 SWS|||||
-|3. Internationale Spezielle|12|12|6|6|
-|Betriebswirtschaftslehre|||||
-|2 Teilfächer à 6 SWS|||||
-|4. Internationales Recht|||||
-|1 Teilfach à 6 SWS|6|6|3|3|
+|1. Allgemeine<br>Betriebswirtschaftslehre<br>3 Teilfächer à 4 SWS|12|12|6|6|
+|2. Volkswirtschaftslehre<br>2 Teilfächer à 6 SWS|12|12|6|6|
+|3. Internationale Spezielle<br>Betriebswirtschaftslehre<br>2 Teilfächer à 6 SWS|12|12|6|6|
+|4. Internationales Recht<br>1 Teilfach à 6 SWS|6|6|3|3|
 |5. Pflichtwahlfachbereich|||||
 |2 Teilfächer à 6 SWS|12|12|6|6|
 |Summe|54|54|27|27|
@@ -191,7 +188,7 @@ a) Buchst. B erhält bis zu den Erläuterungen folgende Fassung:
 
 - b) In Nr. 1 der Erläuterungen wird die Zahl "60" durch die Passage "mit Teilprüfungen 54" ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 - (1) Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

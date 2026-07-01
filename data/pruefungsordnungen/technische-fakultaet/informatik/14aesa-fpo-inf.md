@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. März 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/14AeSa-FPO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:12+00:00
-page_count_chars: 10510
+scraped_at: 2026-07-01T11:38:17+00:00
+page_count_chars: 10333
 ---
 
 # 15. März 2002
@@ -14,45 +14,45 @@ page_count_chars: 10510
 
 **Vierzehnte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
 
-## Vom 15. März 2002 
+# Vom 15. März 2002 
 
 Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg vom 16. September 1977 (KMBl II S. 245), zuletzt geändert durch Satzung vom 24. September 2001 (KWMBl II .........), wird wie folgt geändert: 
 
-## 1. § 1a wird wie folgt geändert: 
+# 1. § 1a wird wie folgt geändert: 
 
-   - a) Die Überschrift erhält folgende Fassung: 
+- a) Die Überschrift erhält folgende Fassung: 
 
-      - „Gliederung des Studiums, Studiendauer, Leistungspunktsystem“ 
+   - „Gliederung des Studiums, Studiendauer, Leistungspunktsystem“ 
 
-   - b) Die Sätze 1 bis 5 werden Absatz 1. 
+- b) Die Sätze 1 bis 5 werden Absatz 1. 
 
-   - c) Nach Absatz 1 (neu) wird folgender Absatz angefügt: „(2)[1] Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden studienbegleitend im Leistungspunktsystem erbracht.[2] Dabei werden für bestandene Prüfungen bzw. Teilprüfungen Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen entsprechend viele Maluspunkte vergeben.[3] Eine zweite Wiederholung ist zulässig, solange die Schwelle der Maluspunkte gemäß § 7 Abs. 2 bzw. § 12 Abs. 2 Satz 3 nicht überschritten ist.“ 
+- c) Nach Absatz 1 (neu) wird folgender Absatz angefügt: „(2)<sup>1</sup> Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden studienbegleitend im Leistungspunktsystem erbracht.<sup>2</sup> Dabei werden für bestandene Prüfungen bzw. Teilprüfungen Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen entsprechend viele Maluspunkte vergeben.<sup>3</sup> Eine zweite Wiederholung ist zulässig, solange die Schwelle der Maluspunkte gemäß § 7 Abs. 2 bzw. § 12 Abs. 2 Satz 3 nicht überschritten ist.“ 
 
-2. § 1c wird wie folgt geändert: 
+# 2. § 1c wird wie folgt geändert: 
 
-   - a) In Absatz 3 Satz 1 wird vor dem Wort „Linguistik“ das Wort „Germanistische“ eingefügt. 
+- a) In Absatz 3 Satz 1 wird vor dem Wort „Linguistik“ das Wort „Germanistische“ eingefügt. 
 
-   - b) In Absatz 4 Sätze 1 und 3 wird „Nr. 5“ durch „Nr. 12“ ersetzt. 
+- b) In Absatz 4 Sätze 1 und 3 wird „Nr. 5“ durch „Nr. 12“ ersetzt. 
 
-   - c) Absatz 5 Satz 2 erhält folgende Fassung: 
+- c) Absatz 5 Satz 2 erhält folgende Fassung: 
 
 „Hiervon ausgenommen sind die in § 6 Abs. 1 Satz 1 genannten Nachweise über die erfolgreiche Teilnahme und die Prüfungen gemäß § 7 Abs. 1 Satz 1 Nrn. 7 bis 10.“ 
 
-## 3. § 3 wird aufgehoben. 
+# 3. § 3 wird aufgehoben. 
 
 4. § 6 wird wie folgt geändert: 
 
-a) Die Absätze 1 und 2 erhalten folgende Fassung: 
+   - a) Die Absätze 1 und 2 erhalten folgende Fassung: 
 
-- „(1)[1] Voraussetzung für die Zulassung zur Prüfung ist in 
+   - „(1)<sup>1</sup> Voraussetzung für die Zulassung zur Prüfung ist in 
 
-   1. Mathematik, 1. Teilprüfung: der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Mathematik I oder Mathematik II, 
+      1. Mathematik, 1. Teilprüfung: der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Mathematik I oder Mathematik II, 
 
-   2. Mathematik, 2. Teilprüfung: 
+      2. Mathematik, 2. Teilprüfung: 
 
 1 
 
@@ -64,7 +64,7 @@ der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Mathematik III
 
 4. Systemprogrammierung II: 
 
-   - der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Systemprogrammierung II. 
+der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Systemprogrammierung II. 
 
 2Im Übrigen sind spätestens bei der Zulassung zur letzten Prüfung der Diplomvorprüfung Nachweise über die erfolgreiche Teilnahme an folgenden Lehrveranstaltungen vorzulegen: 
 
@@ -74,39 +74,41 @@ der Nachweis der erfolgreichen Teilnahme an der Lehrveranstaltung Mathematik III
 
 3. Lehrveranstaltungen aus dem Wahlpflichtfach gemäß § 1c Abs. 4 im Umfang von mindestens drei SWS. 
 
-(2)[1] Der zum Erwerb eines Leistungsnachweises nach Absatz 1 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden.“ 
+(2)<sup>1</sup> Der zum Erwerb eines Leistungsnachweises nach Absatz 1 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden.“ 
 
 b) In Absatz 3 wird „Absatz 1 Nr. 10“ durch „Absatz 1 Satz 2 Nr. 3“ ersetzt. 
 
 5. § 7 wird wie folgt geändert: 
 
-   - a) An die Stelle der Absätze 1 bis 3 treten folgende Absätze: „(1)[1] Die Diplomvorprüfung besteht aus Prüfungen in 
+- a) An die Stelle der Absätze 1 bis 3 treten folgende Absätze: 
 
-      1. Algorithmik I, 
+   - „(1)<sup>1</sup> Die Diplomvorprüfung besteht aus Prüfungen in 
 
-      2. Algorithmik II, 
+   1. Algorithmik I, 
 
-      3. Organisation und Technologie von Rechensystemen I, 
+   2. Algorithmik II, 
 
-      4. Organisation und Technologie von Rechensystemen II, 
+   3. Organisation und Technologie von Rechensystemen I, 
 
-      5. Organisation und Technologie von Rechensystemen III, 
+   4. Organisation und Technologie von Rechensystemen II, 
 
-      6. Organisation und Technologie von Rechensystemen IV, 
+   5. Organisation und Technologie von Rechensystemen III, 
 
-      7. Systemprogrammierung I, 
+   6. Organisation und Technologie von Rechensystemen IV, 
 
-      8. Systemprogrammierung II, 
+   7. Systemprogrammierung I, 
 
-      9. Mathematik, 1. Teilprüfung, 
+   8. Systemprogrammierung II, 
 
-      10. Mathematik, 2. Teilprüfung, 
+   9. Mathematik, 1. Teilprüfung, 
 
-      11. Einführung in die Theoretische Informatik, 
+   10. Mathematik, 2. Teilprüfung, 
 
-      12. einem Wahlpflichtfach gemäß § 1c Abs. 4. 
+   11. Einführung in die Theoretische Informatik, 
 
-2Umfang und Art der Prüfungen sowie die Zahl der Leistungs- bzw. Maluspunkte ergeben sich aus der **Anlage I** .[3] Die Vergabe der Note 4,3 ist ausgeschlossen.[4] Die Fachprüfung Mathematik ist nur bestanden, wenn beide Teilprüfungen mit mindestens „ausreichend“ (4,0) bewertet wurden; die Fachnote wird dann durch Mittelung der Noten beider Teilprüfungen gemäß § 9 DiplPrOTF errechnet. 
+   12. einem Wahlpflichtfach gemäß § 1c Abs. 4. 
+
+2Umfang und Art der Prüfungen sowie die Zahl der Leistungs- bzw. Maluspunkte ergeben sich aus der **Anlage I** .<sup>3</sup> Die Vergabe der Note 4,3 ist ausgeschlossen.<sup>4</sup> Die Fachprüfung Mathematik ist nur bestanden, wenn beide Teilprüfungen mit mindestens „ausreichend“ (4,0) bewertet wurden; die Fachnote wird dann durch Mittelung der Noten beider Teilprüfungen gemäß § 9 DiplPrOTF errechnet. 
 
 (2) Eine zweite Wiederholung einer Prüfung nach Absatz 1 Satz 1 ist zulässig bis zur Schwelle von 30 Punkten.“ 
 
@@ -118,11 +120,11 @@ b) Absatz 4 wird Absatz 3 (neu).
 
 6. § 7a erhält folgende Fassung: 
 
-## **„§ 7a Zeugnis über die Diplomvorprüfung** 
+# **„§ 7a Zeugnis über die Diplomvorprüfung** 
 
-1Das Zeugnis enthält die Noten der Prüfungen nach § 7 Abs. 1, die Fachnote des Faches Mathematik und die Gesamtnote.[2] In die Ermittlung der Gesamtnote gehen die Fachnoten mit dem Gewicht der Leistungspunkte nach der **Anlage I** ein.“ 
+1Das Zeugnis enthält die Noten der Prüfungen nach § 7 Abs. 1, die Fachnote des Faches Mathematik und die Gesamtnote.<sup>2</sup> In die Ermittlung der Gesamtnote gehen die Fachnoten mit dem Gewicht der Leistungspunkte nach der **Anlage I** ein.“ 
 
-## 7. § 8 wird aufgehoben. 
+# 7. § 8 wird aufgehoben. 
 
 8. § 9 erhält folgende Fassung: 
 
@@ -136,27 +138,29 @@ b) Absatz 4 wird Absatz 3 (neu).
 
       - aa) In Nr. 1 Buchst. a werden die Worte „und gegebenenfalls ihre Aufteilung auf die beiden Prüfungsabschnitte“ gestrichen. 
 
-      - bb) In Nr. 4 wird nach dem Wort „Schwerpunktfach“ ein Semikolon und folgender Halbsatz eingefügt: “der Nachweis wird mit vier Leistungspunkten veranschlagt“ 
+      - bb) In Nr. 4 wird nach dem Wort „Schwerpunktfach“ ein Semikolon und folgender Halbsatz eingefügt: 
+
+         - “der Nachweis wird mit vier Leistungspunkten veranschlagt“ 
 
    - c) Absatz 3 erhält folgende Fassung: 
 
-„[1] Der Prüfungsplan nach Absatz 1 Nr. 1 ist bei der Meldung zur ersten Einzelprüfung vorzulegen; er soll die Angaben nach Absatz 1 Nr. 1 Buchst. a enthalten; er ist bei der Meldung zu jeder weiteren Einzelprüfung um die dafür nach Absatz 1 Nr. 1 Buchst. b erforderlichen Angaben zu ergänzen.[2] Die Nachweise nach Absatz 1 Nr. 6 sind bei der Meldung zur Einzelprüfung im Nebenfach vorzulegen, die Nachweise nach Absatz 1 Nrn. 2 bis 5 spätestens bei der Meldung zur letzten Einzelprüfung.[3] § 6 Abs. 2 gilt entsprechend.“ 
+„<sup>1</sup> Der Prüfungsplan nach Absatz 1 Nr. 1 ist bei der Meldung zur ersten Einzelprüfung vorzulegen; er soll die Angaben nach Absatz 1 Nr. 1 Buchst. a enthalten; er ist bei der Meldung zu jeder weiteren Einzelprüfung um die dafür nach Absatz 1 Nr. 1 Buchst. b erforderlichen Angaben zu ergänzen.<sup>2</sup> Die Nachweise nach Absatz 1 Nr. 6 sind bei der Meldung zur Einzelprüfung im Nebenfach vorzulegen, die Nachweise nach Absatz 1 Nrn. 2 bis 5 spätestens bei der Meldung zur letzten Einzelprüfung.<sup>3</sup> § 6 Abs. 2 gilt entsprechend.“ 
 
-   - d) In Absatz 5 Satz 3 werden vor dem Punkt die Worte „und mit acht Leistungspunkten zu veranschlagen“ eingefügt. 
+- d) In Absatz 5 Satz 3 werden vor dem Punkt die Worte „und mit acht Leistungspunkten zu veranschlagen“ eingefügt. 
 
 10. § 12 wird wie folgt geändert: 
 
-   - a) Absatz 1 Nr. 1 wird wie folgt geändert: 
+- a) Absatz 1 Nr. 1 wird wie folgt geändert: 
 
 aa) In Buchstabe b werden die Worte „Algorithmische Sprachen“ durch „Programmiersprachen und Programmiermethodik“ ersetzt und nach den Worten „Künstliche Intelligenz“ ein Komma sowie die Worte „Software-Engineering“ eingefügt. 
 
 bb) In Buchstabe c wird das Wort „Betriebssysteme“ durch die Worte „Verteilte Systeme und Betriebssysteme“ ersetzt. 
 
-- b) Nach Absatz 1 wird folgender Absatz eingefügt: 
+b) Nach Absatz 1 wird folgender Absatz eingefügt: 
 
 3 
 
-„(2)[1] Die Zahl der Leistungs- beziehungsweise Maluspunkte beträgt in jedem der Fächer nach Absatz 1 Nr. 1 acht Punkte, im Nebenfach 10 Punkte. (vgl. **Anlage II** )[2] § 7 Abs. 1 Satz 3 gilt entsprechend.[3] Eine zweite Wiederholung einer Prüfung nach Absatz 1 ist zulässig bis zur Schwelle von 20 Maluspunkten.“ 
+„(2)<sup>1</sup> Die Zahl der Leistungs- beziehungsweise Maluspunkte beträgt in jedem der Fächer nach Absatz 1 Nr. 1 acht Punkte, im Nebenfach 10 Punkte. (vgl. **Anlage II** )<sup>2</sup> § 7 Abs. 1 Satz 3 gilt entsprechend.<sup>3</sup> Eine zweite Wiederholung einer Prüfung nach Absatz 1 ist zulässig bis zur Schwelle von 20 Maluspunkten.“ 
 
    - c) Die bisherigen Absätze 2 und 3 werden Absätze 3 und 4. 
 
@@ -166,7 +170,7 @@ bb) In Buchstabe c wird das Wort „Betriebssysteme“ durch die Worte „Vertei
 
 12. § 14 erhält folgende Fassung: 
 
-## **„§ 14 Bewertung der Leistungen, Zeugnis** 
+# **„§ 14 Bewertung der Leistungen, Zeugnis** 
 
 (1) Die Fachnote des Schwerpunktfaches setzt sich zu zwei Dritteln aus der Note der Prüfung nach § 12 Abs. 1 und zu einem Drittel aus dem Notendurchschnitt der benoteten Nachweise nach § 11 Abs. 1 Nr. 4 zusammen; sie wird mit 12 Leistungspunkten veranschlagt. 
 
@@ -182,28 +186,43 @@ bb) In Buchstabe c wird das Wort „Betriebssysteme“ durch die Worte „Vertei
 
 **„Anlage I** (zu § 7 Abs. 1) 
 
-## **Umfang und Art der Prüfungen sowie Zahl der Leistungs- und Maluspunkte in der Diplomvorprüfung** 
+# **Umfang und Art der Prüfungen sowie Zahl der Leistungs- und Maluspunkte in der Diplomvorprüfung** 
 
-|<br>**lomvorprüfung**|||||
+|Prüfung in|Prüfungsart|Dauer in<br>Minuten|Zahl d<br>Leistungspunkte|er<br>Maluspunkte|
 |---|---|---|---|---|
-|Prüfung in|Prüfungsart|Dauer in<br>Minuten|Zahl<br>Leistungspunkte|der<br>Maluspunkte|
-|1.   Algorithmik I<br>2.   Algorithmik II<br>3.   Organisation und Technologie<br>von Rechensystemen (OTRS) I<br>4.   OTRS II<br>5.  OTRS III<br>6.  OTRS IV<br>7.  Systemprogrammierung I<br>8.   Systemprogrammierung II<br>9.   Mathematik, 1. Teilprüfung<br>10.  Mathematik, 2. Teilprüfung<br>11. Einführung in die Theoretische<br>Informatik<br>12. Wahlpflichtfach<br>Ausnahme: Betriebswirtschafts-<br>lehre undMaschinenbau|schriftlich<br>„<br>„<br>„<br>„<br>„<br>„<br>„<br>„<br>„<br>„<br>mündlich<br>schriftlich|120<br>120<br>60<br>90<br>60<br>60<br>120<br>90<br>120<br>120<br>180<br>ca. 30<br>120|8<br>8<br>4<br>6<br>2<br>2<br>8<br>5<br>12<br>12<br>15<br>6|8<br>8<br>4<br>6<br>2<br>2<br>8<br>5<br>12<br>12<br>15<br>6|
+|1.   Algorithmik I|schriftlich|120|8|8|
+|2.   Algorithmik II|„|120|8|8|
+|3.   Organisation und Technologie<br>von Rechensystemen (OTRS) I|„|60|4|4|
+|4.   OTRS II|„|90|6|6|
+|5.  OTRS III|„|60|2|2|
+|6.  OTRS IV|„|60|2|2|
+|7.  Systemprogrammierung I|„|120|8|8|
+|8.   Systemprogrammierung II|„|90|5|5|
+|9.   Mathematik, 1. Teilprüfung|„|120|12|12|
+|10.  Mathematik, 2. Teilprüfung|„|120|12|12|
+|11. Einführung in die Theoretische<br>Informatik|„|180|15|15|
+|12. Wahlpflichtfach|mündlich|ca. 30|6|6|
+|Ausnahme: Betriebswirtschafts-<br>lehre undMaschinenbau|schriftlich|120|||
 |Summe der Punkte|||88|88|
 
 4 
 
-## **Anlage II** 
+# **Anlage II** 
 
-## **Umfang und Art der Prüfungen sowie Zahl der Leistungs- und Maluspunkte in der Diplomhauptprüfung** 
+# **Umfang und Art der Prüfungen sowie Zahl der Leistungs- und Maluspunkte in der Diplomhauptprüfung** 
 
-|<br>**lomhauptprüfung**|||||
+|Prüfung|Prü-<br>fungsart|Dauer in<br>Minuten|Zahl<br>Leistungspunkte|der<br>Maluspunkte|
 |---|---|---|---|---|
-|Prüfung|Prü-<br>fungsart|Dauer in<br>Minuten|Zahl der<br>LeistungspunkteMaluspunkte||
-|1. Schwerpunktfach<br>a) Benoteter Leistungsnachweis gemäß<br>§11 Abs. 1 Nr. 4<br>b) Prüfung gemäß §12 Abs. 1 Nr. 1<br>2. Prüfung gemäß §12 Abs. 1 Nr. 1<br>3. Prüfung gemäß §12 Abs. 1 Nr. 1<br>4. Nebenfachprüfung gemäß §12 Abs. 1 Nr.2<br>5. Studienarbeit<br>6. Diplomarbeit|-<br>mündl.<br>mündl.<br>mündl.<br>mündl.<br>-<br>-|-<br>ca. 30<br>ca. 30<br>ca. 30<br>ca. 30<br>-<br>-|4<br>8<br>8<br>8<br>10<br>8<br>16|-<br>-<br>8<br>8<br>8<br>10<br>-<br>-|
-|Summe der Punkte|||62|34|
-||||||
+|1. Schwerpunktfach<br>a) Benoteter Leistungsnachweis gemäß<br>§11 Abs. 1 Nr. 4|-|-|4|-<br>-|
+|b) Prüfung gemäß §12 Abs. 1 Nr. 1|mündl.|ca. 30|8|8|
+|2. Prüfung gemäß §12 Abs. 1 Nr. 1|mündl.|ca. 30|8|8|
+|3. Prüfung gemäß §12 Abs. 1 Nr. 1|mündl.|ca. 30|8|8|
+|4. Nebenfachprüfung gemäß §12 Abs. 1 Nr.2|mündl.|ca. 30|10|10|
+|5. Studienarbeit|-|-|8|-|
+|6. Diplomarbeit|-|-|16|-|
+|Summe der Punkte|||62|34<br>„|
 
-## **§ 2** 
+# **§ 2** 
 
 (1) Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

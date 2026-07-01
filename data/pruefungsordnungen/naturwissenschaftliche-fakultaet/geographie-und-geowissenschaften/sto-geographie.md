@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 21.08.1990"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/StO_Geographie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:46:45+00:00
-page_count_chars: 22044
+scraped_at: 2026-07-01T09:10:55+00:00
+page_count_chars: 22045
 ---
 
 # PDF vom 21.08.1990
@@ -14,7 +14,7 @@ page_count_chars: 22044
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den Diplomstudiengang Geographie mit Schwerpunkt Physische Geographie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 21. August 1990** 
+# **Studienordnung für den Diplomstudiengang Geographie mit Schwerpunkt Physische Geographie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 21. August 1990** 
 
 Aufgrund von Art. 6 und Art. 72 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Studienordnung: 
 
@@ -336,7 +336,9 @@ Für die Zulassung zur Diplom-Hauptprüfung ist ein Praktikumsschein erforderlic
 
 ## 6. Chemie 
 
-a) Vorlesung: Organische Chemie (3 SWS) b) Vorlesung: Polymere Substanzen (3 SWS) c) Praktikum: 14-tägiges Praktikum mit 2-SWS-Seminar 
+a) Vorlesung: Organische Chemie (3 SWS) b) Vorlesung: Polymere Substanzen (3 SWS) 
+
+c) Praktikum: 14-tägiges Praktikum mit 2-SWS-Seminar 
 
 Für die Zulassung zur Diplom-Hauptprüfung ist der Schein für das Praktikum erforderlich (§ 26 Abs. 1 Nr. 4g Diplomprüfungsordnung). 
 

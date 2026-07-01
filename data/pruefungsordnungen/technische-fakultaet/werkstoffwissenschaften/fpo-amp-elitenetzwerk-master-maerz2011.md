@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.05.2006 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_AMP-Elitenetzwerk_Master.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:32:01+00:00
-page_count_chars: 15955
+scraped_at: 2026-07-01T11:47:47+00:00
+page_count_chars: 15952
 ---
 
 # PDF vom 15.05.2006 i.d.F. 09.03.2011
@@ -26,21 +26,21 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Präambel** 
 
-1Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Universität ErlangenNürnberg, die Universität Bayreuth und die Universität Würzburg gemeinsam ein Eliteprogramm in englischer Sprache auf dem Gebiet „Advanced Materials and Processes“ an.[2] Mit diesem Programm kann ein besonderer Masterabschluss „Master of Science with Honours“ erworben werden kann.[3] Der Abschluss „Master of Science with Honours“ soll über die übliche Masterqualifikation hinaus die hervorragenden Leistungen der Absolventen dokumentieren. 
+1Im Rahmen des Elitenetzwerks Bayern (ENB) bieten die Universität ErlangenNürnberg, die Universität Bayreuth und die Universität Würzburg gemeinsam ein Eliteprogramm in englischer Sprache auf dem Gebiet „Advanced Materials and Processes“ an.<sup>2</sup> Mit diesem Programm kann ein besonderer Masterabschluss „Master of Science with Honours“ erworben werden kann.<sup>3</sup> Der Abschluss „Master of Science with Honours“ soll über die übliche Masterqualifikation hinaus die hervorragenden Leistungen der Absolventen dokumentieren. 
 
 ## **§ 1** 
 
 ## **Geltungsbereich** 
 
-(1)[1] Die Fachprüfungsordnung regelt den Zugang zum Masterstudium „Advanced Materials and Processes“ des Elitenetzwerkes Bayern sowie die Durchführung der Masterprüfung.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplProTF) in der jeweils geltenden Fassung. 
+(1)<sup>1</sup> Die Fachprüfungsordnung regelt den Zugang zum Masterstudium „Advanced Materials and Processes“ des Elitenetzwerkes Bayern sowie die Durchführung der Masterprüfung.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplProTF) in der jeweils geltenden Fassung. 
 
 ## **§ 2 Akademischer Grad** 
 
-1Auf Grund der bestandenen Masterprüfung wird der akademische Grad „Master of Science with honours“ (abgekürzt „M. Sc. (hons.)) verliehen.[2] Der akademische Grad kann auch mit dem Zusatz (FAU Erlangen-Nürnberg) geführt werden. 
+1Auf Grund der bestandenen Masterprüfung wird der akademische Grad „Master of Science with honours“ (abgekürzt „M. Sc. (hons.)) verliehen.<sup>2</sup> Der akademische Grad kann auch mit dem Zusatz (FAU Erlangen-Nürnberg) geführt werden. 
 
 ## **§ 3 Qualifikation zur Aufnahme in den Elitestudiengang** 
 
-1Qualifikationsvoraussetzung zum Masterstudium „Advanced Materials and Processes“ ist ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium des Chemie- und Bioingenieurwesens, der Werkstoffwissenschaften oder eines vergleichbaren Studienganges sowie eine Zulassung durch die Auswahlkommission des Studienganges entsprechend dem Eignungsfeststellungsverfahren nach **Anlage 1** .[2] Die Qualifikation wird nachgewiesen durch ein Zeugnis über 
+1Qualifikationsvoraussetzung zum Masterstudium „Advanced Materials and Processes“ ist ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium des Chemie- und Bioingenieurwesens, der Werkstoffwissenschaften oder eines vergleichbaren Studienganges sowie eine Zulassung durch die Auswahlkommission des Studienganges entsprechend dem Eignungsfeststellungsverfahren nach **Anlage 1** .<sup>2</sup> Die Qualifikation wird nachgewiesen durch ein Zeugnis über 
 
 1. die Bachelorprüfung einer deutschen oder ausländischen Universität, 
 
@@ -48,7 +48,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 3. einen anderen vergleichbaren Hochschulabschluss. 
 
-3Bewerber müssen zu den zehn v. H. Besten ihres Jahrgangs zählen oder den Abschluss mit einer Gesamtnote nicht schlechter als 1,9 bestanden haben.[4] Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen entsprechend umrechenbar sein. 
+3Bewerber müssen zu den zehn v. H. Besten ihres Jahrgangs zählen oder den Abschluss mit einer Gesamtnote nicht schlechter als 1,9 bestanden haben.<sup>4</sup> Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen entsprechend umrechenbar sein. 
 
 ## **§ 4** 
 
@@ -72,11 +72,11 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Umfang und Gliederung des Studiums** 
 
-(1)[1] Im Elitestudiengang „Advanced Materials and Processes“ sind in sieben Modulen Prüfungen, Studienleistungen und eine Masterarbeit im Gesamtumfang von insgesamt 120 ECTS-Punkten zu erbringen.[2] Hinzu kommen zwölf Wochen Industriepraktikum, worauf industriepraktische Tätigkeiten angerechnet werden, die vor Eintritt in den Teilstudiengang geleistet wurden.[ 3] Näheres regelt **Anlage 2** . 
+(1)<sup>1</sup> Im Elitestudiengang „Advanced Materials and Processes“ sind in sieben Modulen Prüfungen, Studienleistungen und eine Masterarbeit im Gesamtumfang von insgesamt 120 ECTS-Punkten zu erbringen.<sup>2</sup> Hinzu kommen zwölf Wochen Industriepraktikum, worauf industriepraktische Tätigkeiten angerechnet werden, die vor Eintritt in den Teilstudiengang geleistet wurden.<sup>3</sup> Näheres regelt **Anlage 2** . 
 
 (2) Die Auswahlkommission legt zu Beginn des Studiums für jeden Studenten individuell die abzulegenden Grundlagenfächer in Abhängigkeit von den Vorkenntnissen fest. 
 
-(3)[1] Im Studium des Elitestudiengangs „Advanced Materials and Processes“ muss der Student zwei Studienschwerpunkte aus folgenden vier Studienschwerpunkten wählen: 
+(3)<sup>1</sup> Im Studium des Elitestudiengangs „Advanced Materials and Processes“ muss der Student zwei Studienschwerpunkte aus folgenden vier Studienschwerpunkten wählen: 
 
 - Biomaterials and Bioprocessing 
 
@@ -88,19 +88,19 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 2 
 
-2Die Wahl der Studienschwerpunkte ist spätestens bis zum Ende des ersten Semesters nach Maßgabe der Anzahl der freien Studienplätze und einem Votum der Auswahlkommission zu treffen.[3] Die schriftliche Bestätigung der Auswahlkommission ist bei Prüfungsanmeldung dem Prüfungsamt vorzulegen. 
+2Die Wahl der Studienschwerpunkte ist spätestens bis zum Ende des ersten Semesters nach Maßgabe der Anzahl der freien Studienplätze und einem Votum der Auswahlkommission zu treffen.<sup>3</sup> Die schriftliche Bestätigung der Auswahlkommission ist bei Prüfungsanmeldung dem Prüfungsamt vorzulegen. 
 
 ## **§ 6** 
 
 ## **Leistungsnachweise** 
 
-(1)[1] Leistungsnachweise werden durch die regelmäßige Teilnahme oder soweit vorgeschrieben über benotete Studienleistungen erbracht.[2] Der zum Erwerb eines Leistungsnachweises erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird insbesondere durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[3] Zu Beginn der Lehrveranstaltung gibt der dafür verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind. 
+(1)<sup>1</sup> Leistungsnachweise werden durch die regelmäßige Teilnahme oder soweit vorgeschrieben über benotete Studienleistungen erbracht.<sup>2</sup> Der zum Erwerb eines Leistungsnachweises erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird insbesondere durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>3</sup> Zu Beginn der Lehrveranstaltung gibt der dafür verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind. 
 
-(2)[1] Die Lehrveranstaltungen im Rahmen der Soft Skills werden jedes Semester individuell mit internen und externen Referenten gestaltet.[2] Der Umfang entspricht **Anlage 2** . 3Je nach behandeltem Thema kann die Lehrveranstaltung den Charakter einer Vorlesung, eines Seminars, einer Übung oder eines Projektes haben. 
+(2)<sup>1</sup> Die Lehrveranstaltungen im Rahmen der Soft Skills werden jedes Semester individuell mit internen und externen Referenten gestaltet.<sup>2</sup> Der Umfang entspricht **Anlage 2** . 3Je nach behandeltem Thema kann die Lehrveranstaltung den Charakter einer Vorlesung, eines Seminars, einer Übung oder eines Projektes haben. 
 
 ## **§ 7 Meldung zur Masterprüfung** 
 
-1Der Kandidat muss sich so rechtzeitig zur Masterprüfung anmelden, dass er die letzte Einzelfachprüfung in dem dem dritten Fachsemester folgenden Prüfungszeitraum abschließen kann.[2] Ausnahmen sind in begründeten Fällen durch den Prüfungsausschuss möglich. 
+1Der Kandidat muss sich so rechtzeitig zur Masterprüfung anmelden, dass er die letzte Einzelfachprüfung in dem dem dritten Fachsemester folgenden Prüfungszeitraum abschließen kann.<sup>2</sup> Ausnahmen sind in begründeten Fällen durch den Prüfungsausschuss möglich. 
 
 ## **§ 8** 
 
@@ -122,7 +122,7 @@ Dem Antrag auf Zulassung zur Masterprüfung sind die Nachweise der genehmigten S
 
 (3) Schwerpunktfächer sind die in **Anlage 3** Nr. 2 angegebenen Fächer der zwei gewählten Studienschwerpunkte. 
 
-(4)[1] Der Kandidat kann sich in weiteren als den vorgeschriebenen Fächern einer Prüfung unterziehen (Zusatzfächer).[2] Die Aufnahme der Noten dieser Prüfungen in das Zeugnis ist in der DiplPrOTF geregelt. 
+(4)<sup>1</sup> Der Kandidat kann sich in weiteren als den vorgeschriebenen Fächern einer Prüfung unterziehen (Zusatzfächer).<sup>2</sup> Die Aufnahme der Noten dieser Prüfungen in das Zeugnis ist in der DiplPrOTF geregelt. 
 
 ## **§ 10** 
 
@@ -134,7 +134,7 @@ Dem Antrag auf Zulassung zur Masterprüfung sind die Nachweise der genehmigten S
 
 (2) Ein aus mehreren Leistungen zusammengesetztes Modul (Module 1 bis 6) ist bestanden, wenn alle Studien- und Prüfungsleistungen wenigstens ausreichend benotet sind beziehungsweise die erfolgreiche Teilnahme nachgewiesen ist. 
 
-(3)[1] Eine Wiederholung nicht ausreichend benoteter Studien- und Prüfungsleistungen ist im Elitestudiengang „Advanced Materials and Processes“ eingeschränkt.[2] Nur in jeweils einem Fach aus den drei Bereichen Grundlagenfächer, Kernfächer und Schwerpunktfächer (vgl. Anlage 2 und 3) ist eine einmalige Wiederholung der Studien- beziehungsweise Prüfungsleistung möglich.[3] Nicht erfolgreich erbrachte Studien- beziehungsweise Prüfungsleistungen in jeweils mehr als einem Fach führen zum Ausscheiden aus dem ENB-Programm.[4] In diesem Falle werden im Elitestudiengang „Advanced Materials and Processes“ erbrachte Studien- und Prüfungsleistungen auf das Studium des Masterstudienganges Chemie- und Bioingenieurwesen beziehungsweise Werkstoffwissenschaften angerechnet, soweit dies nach der einschlägigen Fachprüfungsordnung zu vertreten ist.[5] Beim Ausscheiden ist der Student von einem Mitglied der Auswahlkommission über den weiteren Studienverlauf zu beraten. 
+(3)<sup>1</sup> Eine Wiederholung nicht ausreichend benoteter Studien- und Prüfungsleistungen ist im Elitestudiengang „Advanced Materials and Processes“ eingeschränkt.<sup>2</sup> Nur in jeweils einem Fach aus den drei Bereichen Grundlagenfächer, Kernfächer und Schwerpunktfächer (vgl. Anlage 2 und 3) ist eine einmalige Wiederholung der Studien- beziehungsweise Prüfungsleistung möglich.<sup>3</sup> Nicht erfolgreich erbrachte Studien- beziehungsweise Prüfungsleistungen in jeweils mehr als einem Fach führen zum Ausscheiden aus dem ENB-Programm.<sup>4</sup> In diesem Falle werden im Elitestudiengang „Advanced Materials and Processes“ erbrachte Studien- und Prüfungsleistungen auf das Studium des Masterstudienganges Chemie- und Bioingenieurwesen beziehungsweise Werkstoffwissenschaften angerechnet, soweit dies nach der einschlägigen Fachprüfungsordnung zu vertreten ist.<sup>5</sup> Beim Ausscheiden ist der Student von einem Mitglied der Auswahlkommission über den weiteren Studienverlauf zu beraten. 
 
 ## **§ 11 Zulassungsvoraussetzungen für die Masterarbeit** 
 
@@ -180,9 +180,9 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 (1) Die Eignung eines Bewerbers für das Elitestudium wird von der gemeinsamen Auswahlkommission festgestellt. 
 
-(2)[1] Anträge auf Zulassung zum Eignungsfeststellungsverfahren sind jeweils für das kommende Wintersemester bis spätestens zum 15. Juli eines Jahres an den Vorsitzenden der Auswahlkommission zu stellen.[2] Bis zu diesem Datum nicht vorliegende Nachweise können innerhalb einer Frist, die von der Auswahlkommission gesetzt wird, nachgereicht werden. 
+(2)<sup>1</sup> Anträge auf Zulassung zum Eignungsfeststellungsverfahren sind jeweils für das kommende Wintersemester bis spätestens zum 15. Juli eines Jahres an den Vorsitzenden der Auswahlkommission zu stellen.<sup>2</sup> Bis zu diesem Datum nicht vorliegende Nachweise können innerhalb einer Frist, die von der Auswahlkommission gesetzt wird, nachgereicht werden. 
 
-- (3) Dem Antrag ist beizufügen: 
+(3) Dem Antrag ist beizufügen: 
 
 - Tabellarischer Lebenslauf, 
 
@@ -192,7 +192,7 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 - Empfehlungsschreiben von zwei Hochschullehrern aus dem bisherigen Studium. 
 
-(4)[1] Der Bewerber muss an einem Gespräch mit zwei Hochschullehrern aus dem Elitestudiengang „Advanced Materials and Processes“ teilnehmen.[2] Die Hochschullehrer werden jeweils von der Auswahlkommission bestimmt.[3] Das Gespräch soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.[4] Es erstreckt sich auf die Grundkenntnisse des Fachgebiets Chemie- und Bioingenieurwesen beziehungsweise Werkstoffwissenschaften. 
+(4)<sup>1</sup> Der Bewerber muss an einem Gespräch mit zwei Hochschullehrern aus dem Elitestudiengang „Advanced Materials and Processes“ teilnehmen.<sup>2</sup> Die Hochschullehrer werden jeweils von der Auswahlkommission bestimmt.<sup>3</sup> Das Gespräch soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.<sup>4</sup> Es erstreckt sich auf die Grundkenntnisse des Fachgebiets Chemie- und Bioingenieurwesen beziehungsweise Werkstoffwissenschaften. 
 
 (5) Die Eignung ist festgestellt, wenn die Mehrheit der Mitglieder der Auswahlkommission und die beiden Hochschullehrer, die das Bewerbungsgespräch geführt haben, der Zulassung zustimmen. 
 
@@ -202,40 +202,41 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage 2: Prüfungs- und Studienleistungen und Leistungspunkte** 
 
-|**Module**|**Module**|**Module**|**Prüfungsleistungen**|**Studienleistungen**|**Studienleistungen**|**Umfang in SWS**|**Umfang in SWS**|**ECTS-Punkte**|
+||**Module**||**Püflit**|**St**|**udienleistungen**|**Umfang i**|**n SWS**|**ECTS-Punkte**|
 |---|---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|ECTS||benotet|durch erfolgreiche Teilnahme nach-<br>gewiesen|V+Ü|P|Leistungspunkte|
-|M1|Grundlagen|19,0|||Grundlagenfächer|10||15,0|
-||||||Praktikum||4|4,0|
-|M2|Allgemeine<br>Fächer A|10,0||Kernfach 1||1||1,5|
-|||||Kernfach 2||1||1,5|
-|||||Kernfach 3||1||1,5|
+||||**rungsesungen**||dh flih Tilh h||||
+|Nr.|Bezeichnung|ECTS||benotet|urc erogrece ename nac-<br>gewiesen|V+Ü|P|Leistungspunkte|
+|M1|Grundlagen|190|||Grundlagenfächer|10||15,0|
+|||,|||Praktikum||4|4,0|
+|||||Kernfach 1||1||1,5|
+||Alli|||Kernfach 2||1||1,5|
+|M2|gemene<br>Fächer A|10,0||Kernfach 3||1||1,5|
 |||||Kernfach 4||1||1,5|
 ||||||Soft Skills 1|4||4,0|
-|M3|Allgemeine<br>Fächer B|11,0||Kernfach 5||1||1,5|
+|||||Kernfach 5||1||1,5|
 |||||Kernfach 6||1||1,5|
-|||||Kernfach 7||1||1,5|
+|M3|Allgemeine<br>Fächer B|11,0||Kernfach 7||1||1,5|
 |||||Kernfach 8||1||1,5|
 ||||||Soft Skills 2|5||5,0|
-|M4|Schwerpunkt A|20,0|Schwerpunktfach 1|||4||6,0|
-||||Schwerpunktfach 2|||4||6,0|
-||||||Projektarbeit 1|4||4,0|
+||||Schwerpunktfach 1|||4||6,0|
+|M4|Schwerpunkt A|200|Schwerpunktfach 2|||4||6,0|
+|||,|||Projektarbeit 1|4||4,0|
 ||||||Projektarbeit 2|4||4,0|
-|M5|Schwerpunkt B|12,5|Schwerpunktfach 3|||5||7,5|
-||||||Soft Skills 3|5||5,0|
-|M6|Schwerpunkt C|17,5|Schwerpunktfach 4|||5||7,5|
-||||||Projektarbeit 3|5||5,0|
+|M5|Schwerpunkt B|125|Schwerpunktfach 3|||5||7,5|
+|||,|||Soft Skills 3|5||5,0|
+||||Schwerpunktfach 4|||5||7,5|
+|M6|Schwerpunkt C|17,5|||Projektarbeit 3|5||5,0|
 ||||||Projektarbeit 4|5||5,0|
 |M7|Masterarbeit|30,0|Masterarbeit|||||30,0|
-||||**Summe Prüfungsleistungen:**|||18||**57,0 **|
-||||**Summe der benoteten Studienleistungen:**|||8||**12,0**|
-||||**Summe der unbenoteten Studienleistungen:**|||42|4|**51,0**|
+||||**Summe Prüfungsleistun**|**gen:**||18||**57,0 **|
+||||**Summe der benoteten S**|**tudienleistungen:**||8||**12,0**|
+||||**Summe der unbenoteten**|**Studienleistungen:**||42|4|**51,0**|
 ||||**Gesamtsumme:**|||**68**|**4**|**120,0**|
-|||||||72 SWS||ECTS-Punkte|
+|||||||72 S|WS|ECTS-Punkte|
 
 ## **Anlage 3: Kern- und Schwerpunktfächer** 
 
-## 3.1 Kernfächer 
+## <u>3.1 Kernfächer</u> 
 
 |Nr.|Bezeichnung|
 |---|---|
@@ -248,23 +249,22 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 |7|BasicsinComputational Materials Science andProcess Simulation 2|
 |8|Basicsin AdvancedProcesses2|
 
-## 3.2 Schwerpunktfächer 
+## <u>3.2 Schwerpunktfächer</u> 
 
-|||Studienschwerpunkte|Studienschwerpunkte|Studienschwerpunkte|Studienschwerpunkte|Studienschwerpunkte|
-|---|---|---|---|---|---|---|
-|||Biomaterials and<br>Bioprocessing|Nanomaterials and<br>Nanotechnology|Computational Mate-<br>rials Science and<br>Process Simulation||Advanced<br>Processes|
-|Schwerpunktfach 1<br>und<br>Schwerpunktfach 2||Biomaterials and<br>Bioprocessing 1|Nanomaterials and<br>Nanotechnology 1|Computational Mate-<br>rials Science and<br>Process Simulation 1||Advanced<br>Processes 1|
-|Schwerpunktfach 3<br>und<br>Schwerpunktfach 4||Biomaterials and<br>Bioprocessing 2|Nanomaterials and<br>Nanotechnology 2|Computational Mate-<br>rials Science and<br>Process Simulation 2||Advanced<br>Processes 2|
-||||||Art und Umfang<br>der Prüfung<br>Hausarbeit<br>ca. 30 Min. mündlich<br>Hausarbeit<br>ca.30Min. mündlich<br>Hausarbeit<br>ca.30Min. mündlich<br>Hausarbeit<br>ca.30Min. mündlich||
-|Nr.|Bezeichnung||||Art und Umfang<br>der Prüfung||
-||Biomaterials andBioprocessing1||||Hausarbeit||
-||Biomaterials and Bioprocessing2||||ca. 30 Min. mündlich||
-||Nanomaterials andNanotechnology1||||Hausarbeit||
-||Nanomaterials andNanotechnology2||||ca.30Min. mündlich||
-||Computational Materials Science andProcess Simulation 1||||Hausarbeit||
-||Computational Materials Science andProcess Simulation 2||||ca.30Min. mündlich||
-||AdvancedProcesses1||||Hausarbeit||
-||AdvancedProcesses2||||ca.30Min. mündlich||
+|||Studienschwer<br>|punkte<br>||
+|---|---|---|---|---|
+||Biomaterials and<br>Bioprocessing|Nanomaterials and<br>Nanotechnology|Computational Mate-<br>rials Science and<br>Process Simulation|Advanced<br>Processes|
+|Schwerpunktfach 1<br>und<br>Schwerpunktfach 2|Biomaterials and<br>Bioprocessing 1|Nanomaterials and<br>Nanotechnology 1|Computational Mate-<br>rials Science and<br>Process Simulation 1|Advanced<br>Processes 1|
+|Schwerpunktfach 3<br>und<br>Schwerpunktfach 4|Biomaterials and<br>Bioprocessing 2|Nanomaterials and<br>Nanotechnology 2|Computational Mate-<br>rials Science and<br>Process Simulation 2|Advanced<br>Processes 2|
+|Nr.<br>Bezeichnung|||Art und Umfa<br>der Prüfun|ng<br>g|
+|Biomaterials an|dBioprocessing1||Hausarbei|t|
+|Biomaterials an|d Bioprocessing2||ca. 30 Min. mü|ndlich|
+|Nanomaterials a|ndNanotechnology|1|Hausarbei|t|
+|Nanomaterials a|ndNanotechnology|2|ca.30Min. mü|ndlich|
+|Computational|Materials Science and|Process Simulation 1|<br>Hausarbei|t|
+|Computational|Materials Science and|Process Simulation 2|<br>ca.30Min. mü|ndlich|
+|AdvancedProc|esses1||Hausarbei|t|
+|AdvancedProc|esses2||ca.30Min. mü|ndlich|
 
 7 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Januar 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO%20BA-MA%20LSE.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:48+00:00
-page_count_chars: 1905
+scraped_at: 2026-07-01T11:25:35+00:00
+page_count_chars: 1883
 ---
 
 # 17. Januar 2008
@@ -14,11 +14,11 @@ page_count_chars: 1905
 
 **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOLSE-BScMSc)** 
 
-## Vom 17. Januar 2008 
+# Vom 17. Januar 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOLSEBScMSc) vom 24. September 2007 wird wie folgt geändert: 
 
@@ -30,15 +30,13 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science E
 
 2. In der Anlage 4 erhält die Tabelle unter Punkt „4.2 Ergänzungsmodule“ folgende Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|<br>Fassung:<br>„||||
-|---|---|---|---|
 |Managementpraxis|Produkte<br>biotechnologischer<br>Herkunft|Bioinformatik|Nichtinvasive Diagnostik|
-|Biopharmazie und<br>Pharmakakinetik|Biotechnik|Epidemiologie|Biokompatible Werkstoffe|
-||||„|
+|---|---|---|---|
+|Biopharmazie und<br>Pharmakakinetik|Biotechnik|Epidemiologie|Biokompatible Werkstoffe<br>„|
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

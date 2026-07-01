@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "20. September 1995"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:17+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:46:05+00:00
+page_count_chars: 14346
 ---
 
 # 20. September 1995
@@ -12,357 +12,307 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-BWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+- 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+( 
 
-### OCR Seite 1
+; 
 
-```
-Die Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und
-Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
-25. November 1988 (KWMBlI II 1989 S. 30), zuletzt geändert durch Satzung vom 21. Juli 1994
-(KWMBI II S. 685), wird wie folgt geändert:
-1.
-$ 2 erhält folgende Fassung:
-"Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Diplom-
-Kaufmann Univ." (abgekürzt "Dipl.-Kfm. Univ.") bzw. "Diplom-Kauffrau Univ." (abge-
-kürzt "Dipl.-Kff. Univ.") verliehen, an Absolventinnen auf Antrag in männlicher Form."
-2.
-$ 3 Abs. 1 erhält folgende Fassung:
-"Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und
-die Ablegung der Prüfungen sowie die nach $ 27 Abs. 2 Nr. 4 vorgeschriebene berufs-
-praktische Tätigkeit von 12 Wochen beträgt acht Semester. Das Studium gliedert sich
-in ein viersemestriges Grundstudium und ein viersemestriges Hauptstudium. Das
-Studium der Betriebswirtschaftslehre umfaßt Lehrveranstaltungen des Pflicht- und
-Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach freier Wahl der Studenten. Der
-Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen im
-Pflicht- und Pflichtwahlfachbereich beträgt 146 SWS; davon entfallen 80 SWS auf das
-Grundstudium. Hinzu kommen bis zu 14 SWS im Pflicht- und Pflichtwahlfachbereich für
-Lehrveranstaltungen nach freier Wahl des Studenten."
-j
-3.
-$ 4 Abs. 2 Satz 1 erhält folgende Fassung:
-"Der 2. Teil der Diplomprüfung soll im Prüfungstermin des achten Semesters abgelegt
-und spätestens innerhalb der ersten beiden Monate des folgenden Semesters beendet
-werden."
-4.
-$ 10 Abs. 3 wird wie folgt geändert:
-a)
-In Satz 1 erhält der Satzteil nach dem Doppelpunkt folgende Fassung:
-"Die Prüfung gilt als nicht abgelegt, wenn der Kandidat in nicht mehr als der
-Hälfte der Klausuren die schriftlichen Prüfungen des Prüfungstermins abgelegt
-hat; die Prüfung ist im nächsten regulären Prüfungstermin nachzuholen."
-b)
-In Satz 2 wird das Wort "Fächer" durch das Wort "Klausuren" ersetzt.
-e)
-Satz 3 wird aufgehoben; die Sätze 4 bis 6 werden Sätze 3 bis 5.
-```
+## Sechste Satzung zur Anderung der Diplompriifungsordnung fiir Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitaét Erlangen-Niirnberg 
 
-### OCR Seite 2
+# Vom 20. September 1995 
 
-```
-b)
-Absatz 2 wird wie folgt geändert:
-aa)
-Nr. 3 erhält folgende Fassung:
-{
-"3.Nachweise nach Absatz 1 Satz 1 Nr. 3 bei der Meldung zum letzten
-Abschnitt der Diplomvorprüfung,"
-bb)
-Nach Nr. 5 wird angefügt:
-"6.
-Nachweis gemäß Absatz 6 bei der Zulassung zu dem Abschnitt der
-Diplomvorprüfung, der das Teilfach Grundzüge der Betriebswirt-
-schaftslehre
-U umfaßt."
-ce)
-Absatz 6 erhält folgende Fassung:
-"Die Zulassung zur Diplomvorprüfung im Teilfach Grundzüge der Betriebswirt-
-schaftslehre II setzt das Bestehen der Diplomvorprüfung im Teilfach Grundzüge
-der Betriebswirtschaftslehre I voraus."
-7.
-$ 20 Abs. 2 erhält folgende Fassung:
-"Die Meldung zum letzten Abschnitt der Diplomvorprüfung soll im vierten Semester
-\\
-erfolgen."
-8.
-$ 21 Abs. 1 erhält folgende Fassung:
-"Die Diplomvorprüfung kann in bis zu vier Abschnitten abgelegt werden."
-9.
-$ 22 wird wie folgt geändert:
-a)
-Absatz 1 erhält folgende Fassung:
-"Die Diplomvorprüfung umfaßt folgende Fächer:
-1.
-Grundzüge der Betriebswirtschaftslehre mit den Teilfächern
-a)
-Grundzüge der Betriebswirtschaftslehre I und
-b)
-Grundzüge der Betriebswirtschaftslehre I
-2.
-Grundzüge der Volkswirtschaftslehre mit den Teilfächern
-a)
-Grundzüge der Volkswirtschaftslehre I und
-b)
-Grundzüge der Volkswirtschaftslehre II
-2
-```
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erla&t die Universitat Erlangen-Niirnberg folgende Anderungssatzung: 
 
-### OCR Seite 3
+### §i 
 
-```
--
-im Fach die wirtschaftlich wesentlichen Teile des Privaten und des
-Öffentlichen Rechts eine fünfstündige Klausur und
--
-im Fach Grundzüge der Statistik eine vierstündige Klausur
-geschrieben."
-ce)
-Absatz 4 erhält folgende Fassung:
-"Die Fachnote im Fach Grundzüge der Betriebswirtschaftslehre wird zu einem
-Viertel aus der Note im Teilfach Grundzüge der Betriebswirtschaftslehre I und
-zu drei Vierteln aus der Note im Teilfach Grundzüge der Betriebswirtschafts-
-lehre II errechnet."
-10.
-$ 24 erhält folgende Fassung:
-Bestehen der Diplomvorprüfung
-(
-Die Diplomvorprüfung ist bestanden, wenn sämtliche Klausuren gemäß $ 22
-Abs. 2 Satz 2 mit wenigstens "ausreichend" (4,0) bewertet sind.
-(2)
-$ 4 Abs. 1 und $ 10 bleiben unberührt."
-\
-11.
-$ 25 wird wie folgt geändert:
-a)
-In Absatz 1 werden nach dem Wort "Fächern" die Worte "oder Teilfächern"
-eingefügt.
-b)
-Absatz 4 Satz 1 erhält folgende Fassung:
-"Eine zweite Wiederholung der Diplomvorprüfung ist nur in einem Prüfungsfach
-gemäß $ 22 Abs. 1 Nrn. 3 oder 4 oder in bis zu zwei Prüfungsteilfächern gemäß
-$ 22 Abs. 1 Nrn. 1 und 2 möglich.
-c)
-Absatz 4 Satz 4 wird aufgehoben.
-12.
-$ 27 Abs. 2 wird wie folgt geändert:
-a)
-Nr. 2 erhält folgende Fassung:
-3
-```
+Die Diplompriifungsordnung fiir Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultét der Friedrich-Alexander-Universitaét Erlangen-Nuirnberg vom 25. November 1988 (KWMBI II 1989 S. 30), zuletzt geaindert durch Satzung vom 21. Juli 1994 (KWMBLII S. 685), wird wie folgt gedndert: 
 
-### OCR Seite 4
+1. § 2 erhalt folgende Fassung: 
 
-```
-schließlich Wirtschaftspolitik und Finanzwissenschaft".
-b)
-Absatz 6 wird wie folgt geändert:
-aa)
-Satz 1 erhält folgende Fassung:
-|
-"Auf Antrag erkennt der Prüfungsausschuß bis zu zwei Prüfungsfächer
-an, die der Kandidat im Rahmen einer Hochschulpartnerschaft an einer
-ausländischen wissenschaftlichen Hochschule abgelegt hat, soweit die
-Gleichwertigkeit festgestellt ist."
-bb)
-Eswird folgender Satz 3 angefügt:
-" Auf Antrag erkennt der Prüfungsausschuß eine Diplomarbeit an, die
-im Rahmen einer Hochschulpartnerschaft, welche eine Doppeldiplomie-
-rung einschließt, an einer ausländischen wissenschaftlichen Hochschule
-angefertigt worden ist, soweit die Gleichwertigkeit festgestellt ist."
-14.
-Nach $ 33 wird eingefügt:
-"8 33a
-u
-Freier Prüfungsversuch
-(1)
-Hat ein Kandidat nach ununterbrochenem Fachstudium spätestens im Prüfungstermin
-des achten Fachsemesters die Prüfungen des 2. Teils der Diplomprüfung erstmals
-vollständig abgelegt und die Prüfung gemäß $ 32 Abs. 1 Nrn. 2, 3 oder 4 nicht bestan-
-den, so gilt der 2. Teil der Diplomprüfung - außer in den Fällen des $ 10 Abs. 4 - als
-nicht abgelegt (freier Prüfungsversuch). In Rahmen des freien Prüfungsversuchs mit
-wenigstens "ausreichend" bewertete Fachprüfungen werden angerechnet, wenn sich der
-Kandidat innerhalb eines Monats nach Mitteilung des Prüfungsergebnisses zur erneuten
-Ablegung der mit "nicht ausreichend" bewerteten Fachprüfungen im nächsten Prüfungs-
-termin meldet; statt einer Anrechnung der mit wenigstens "ausreichend" bewerteten
-Fachprüfungen kann er die Wiederholung zur Notenverbesserung beantragen; in diesem
-Falle gilt Absatz 2 entsprechend.
-(2)
-Hat ein Kandidat nach ununterbrochenem Fachstudium spätestens im Prüfungstermin
-des achten Fachsemesters den 2. Teil der Diplomprüfung bestanden, so darf er alle oder
-einzelne Fachprüfungen zum Zwecke der Notenverbesserung einmal im nächsten
-4
-```
+“Aufgrund der erfolgreich abgelegten Diplompriifung wird der Diplomgrad “DiplomKaufmann Univ." (abgekiirzt "Dipl.-Kfm. Univ.") bzw. "Diplom-Kauffrau Univ." (abgekiirzt "Dipl.-Kff. Univ.") verlichen, an Absolventinnen auf Antrag in mannlicher Form." 
 
-### OCR Seite 5
+2. § 3 Abs. 1 erhalt folgende Fassung: 
 
-```
-"a)
-Allgemeine Betriebswirtschaftslehre
-b)
-Volkswirtschaftslehre einschließlich Wirtschaftspolitik und Finanzwissen-
-schaft
-e
-c)
-Eine Spezielle Betriebswirtschaftslehre
-Hierfür sind zugelassen:
-1.
-Bank- und Börsenwesen
-2.
-Betriebswirtschaftslehre der Banken
-3.
-Betriebswirtschaftslehre der Industrie
-4.
-Betriebswirtschaftslehre des Prüfungswesens
-5.
-Betriebswirtschaftliche Steuerlehre
-6.
-Internationales Management
-7.
-Logistik
-8.
-Marketing
-9.
-Operations Research
-10.
-Rechnungswesen
-11.
-Unternehmensführung
-12.
-Wirtschaftsinformatik (Schwerpunkt Industrie- und Logistikbetriebe)
-13.
-Wirtschaftsinformatik (Schwerpunkt Büro- und Dienstleistungsbe-
-reich)"
-\
-b)
-Der Katalog der zugelassenen Pflichtwahlfächer erhält folgende Fassung:
-"1.
-Bank- und Börsenwesen
-2.
-Betriebswirtschaftslehre der Banken
-3.
-Betriebswirtschaftslehre der Industrie
-4.
-Betriebswirtschaftslehre des Prüfungswesens
-5.
-Betriebswirtschaftliche Steuerlehre
-6.
-Internationales Management
-7.
-Logistik
-8.
-Marketing
-9.
-Operations Research
-10.
-Rechnungswesen
-11.
-Unternehmensführung
-12.
-Wirtschaftsinformatik (Schwerpunkt Industrie- und Logistikbetriebe)
-13.
-Wirtschaftsinformatik
-(Schwerpunkt Büro- und Dienstleistungs-
-bereich)
-14.
-Wirtschafts- und Betriebspädagogik
-5
-```
+"Die Regelstudienzeit einschlieBlich der Zeit fiir die Anfertigung der Diplomarbeit und die Ablegung der Priifungen sowie die nach § 27 Abs. 2 Nr. 4 vorgeschriebene berufspraktische Tatigkeit von 12 Wochen betragt acht Semester. Das Studium gliedert sich in ein viersemestriges Grundstudium und ein viersemestriges Hauptstudium. Das Studium der Betriebswirtschaftslehre umfa8t Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach freier Wahl der Studenten. Der Hoéchstumfang der zum planmaRigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und Pflichtwahlfachbereich betragt 146 SWS; davon entfallen 80 SWS auf das Grundstudium. Hinzu kommen bis zu 14 SWS im Pflicht- und Pflichtwahlfachbereich fiir Lehrveranstaltungen nach freier Wahl des Studenten." 
 
-### OCR Seite 6
+3. § 4 Abs. 2 Satz 1 erhalt folgende Fassung: 
 
-```
-28.
-Familien- und Jugendsoziologie
-29.
-Medizinsoziologie
-30.
-Wirtschafts- und Organisationssoziologie/Betriebssoziologie
-31.
-Wirtschafts- und Betriebspsychologie
-32.
-Kommunikationswissenschaft
-(
-33.
-Politikwissenschaft
-34.
-Sozialpolitik
-35.
-Sozialwissenschaftliche Grundlagen des Personalwesens "”
-36.
-Wirtschaftsgeographie
-37.
-Wirtschaftsgeschichte
-38.
-Auslandswissenschaft: Englischsprachige Kulturen
-39.
-Auslandswissenschaft: Romanischsprachige Kulturen (Frankreich)
-40.
-Auslandswissenschaft: Romanischsprachige Kulturen (Italien)
-41.
-Auslandswissenschaft:
-Romanischsprachige
-Kulturen
-(Portugal/
-Brasilien)
-42.
-Auslandswissenschaft:
-Romanischsprachige
-Kulturen
-(Spanien/
-Lateinamerika)
-*)
-Eine Kombination dieser Fächer ist nicht möglich
-**)
-Nur kombinierbar mit
-% Sozialpolitik
-% Soziologie
-% Wirtschafts- und Betriebspsychologie."
-52
-(1)
-Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-(2)
-Für Studenten, die eine nach den bisherigen Vorschriften vorgeschriebene berufsprakti-
-sche Tätigkeit von wenigstens drei Monaten während des Studiums bis zum allgemeinen
-Vorlesungsbeginn des Wintersemesters 1995/96 abgeleistet haben, gilt folgendes:
-1.
-Die Regelstudienzeit beträgt neun Semester.
-2.
-Die Meldefrist zum 2. Teil der Diplomprüfung bemißt sich nach $ 4 Abs. 2 Satz
-1 der Diplomprüfungsordnung in der bisherigen Fassung.
-3.
-Spätester Prüfungstermin i. S. des $ 33a ist das neunte Fachsemester.
-6
-```
+"Der 2. Teil der Diplompriifung soll im Priifungstermin des achten Semesters abgelegt und spatestens innerhalb der ersten beiden Monate des folgenden Semesters beendet werden." 
 
-### OCR Seite 7
+- 4, § 10 Abs. 3 wird wie folgt gedndert: 
 
-```
-sich abweichend von Nr. 2 mit der Anmeldung zur Diplomvorprüfung am Ende
-des Wintersemesters 1995/96 zur Ablegung der Diplomvorprüfung nach den
-bisherigen Vorschriften entscheiden.
-(4)
-Bezüglich der Wahl der Prüfungsfächer in der Diplomprüfung gilt:
-Wer das Studium der Fächer Wirtschaftsinformatik 1 und Wirtschaftsinformatik 2 bis
-zum Sommersemester 1995 begonnen hat, darf diese Fächer nach den bisherigen
-Bestimmungen abschließen.
-Ausgefertigt auf Grund der Beschlüsse des Senats der Universität Erlangen-Nürnberg vom
-1. März und 1. August 1995 und der Genehmigung des Bayerischen Staatsministeriums für
-Unterricht,
-Kultus,
-Wissenschaft und Kunst
-mit Schreiben vom
-24. August
-1995 Nr.
-xX/4 - 6/129 544.
-Erlangen, den 20. September 1995
-Prof.
-Dr. G. Jasper
-Rektor
-Die Satzung wurde am 20. September 1995 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 20. September 1995 durch Anschlag in der Universität Erlangen-
-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 20. September 1995.
-7
-```
+   - a) In Satz 1 erhalt der Satzteil nach dem Doppelpunkt folgende Fassung: 
+
+"Die Pritfung gilt als nicht abgelegt, wenn der Kandidat in nicht mehr als der Halfte der Klausuren die schriftlichen Priifungen des Priifungstermins abgelegt hat; die Priifung ist im nachsten reguléren Priifungstermin nachzuholen." 
+
+- b) In Satz 2 wird das Wort "Facher" durch das Wort "Klausuren" ersetzt. 
+
+- c) Satz 3 wird aufgehoben; die Satze 4 bis 6 werden Satze 3 bis 5. 
+
+( 
+
+\ 
+
+5. In § 14 Abs. 3 Satz 1 entfallt der Halbsatz nach dem Komma, das Komma wird durch einen Punkt ersetzt. 
+
+6. § 19 wird wie folgt geandert: 
+
+   - a) Absatz 1 Nr. 3 Satz 1 erhdlt folgende Fassung: 
+
+      - "3. Nachweis iiber die erfolgreiche Teilnahme an den propddeutischen Lehrveranstaltungen a) Grundziige des betrieblichen Rechnungswesens b) Mathematik fiir Wirtschaftswissenschaftler c) Einfthrung in die betriebliche Informationsverarbeitung" 
+
+   - b) Absatz 2 wird wie folgt geandert: 
+
+      - aa) Nr. 3 erhalt folgende Fassung: 
+
+         - "3.Nachweise nach Absatz 1 Satz 1 Nr. 3 bei der Meldung zum letzten Abschnitt der Diplomvorpriifung," 
+
+      - bb) ~=Nach Nr. 5 wird angefiigt: 
+
+         - "6. Nachweis gema8 Absatz 6 bei der Zulassung zu dem Abschnitt der Diplomvorpriifung, der das Teilfach Grundziige der Betriebswirtschaftslehre I umfaBt." 
+
+   - c) Absatz 6 erhalt folgende Fassung: 
+
+"Die Zulassung zur Diplomvorpriifung im Teilfach Grundziige der Betriebswirtschaftslehre II setzt das Bestehen der Diplomvorpriifung im Teilfach Grundziige der Betriebswirtschaftslehre I voraus." 
+
+7. § 20 Abs. 2 erhalt folgende Fassung: 
+
+"Die Meldung zum letzten Abschnitt der Diplomvorpriifung soll im vierten Semester erfolgen." 
+
+8. § 21 Abs. 1 erhalt folgende Fassung: 
+
+"Die Diplomvorpriifung kann in bis zu vier Abschnitten abgelegt werden." 
+
+9. § 22 wird wie folgt geandert: 
+
+   - a) Absatz 1 erhalt folgende Fassung: 
+
+"Die Diplomvorpriifung umfa&t folgende Facher: 
+
+1. Grundziige der Betriebswirtschaftslehre mit den Teilfachern a) Grundziige der Betriebswirtschaftslehre I und b) Grundziige der Betriebswirtschaftslehre II 
+
+2. Grundziige der Volkswirtschaftslehre mit den Teilfachern a) Grundziige der Volkswirtschaftslehre I und b) Grundziige der Volkswirtschaftslehre II 
+
+2 
+
+( 
+
+( 
+
+3. Die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Offentlichen Rechts 
+
+- 4, Grundziige der Statistik." 
+
+### b) Absatz 2 Satz 2 erhalt folgende Fassung: 
+
+#### "Es werden 
+
+   - im Teilfach Grundziige der Betriebswirtschaftslehre I eine einstiindige Klausur, 
+
+   - im Teilfach Grundziige der Betriebswirtschaftslehre II eine dreistiindige Klausur, 
+
+   - in jedem der Teilfacher Volkswirtschaftslehre I und II eine zweistiindige Klausur, 
+
+   - im Fach die wirtschaftlich wesentlichen Teile des Privaten und des Offentlichen Rechts eine fiinfstiindige Klausur und 
+
+   - - im Fach Grundziige der Statistik eine vierstiindige Klausur geschrieben." 
+
+- c) Absatz 4 erhalt folgende Fassung: 
+
+"Die Fachnote im Fach Grundziige der Betriebswirtschaftslehre wird zu einem Viertel aus der Note im Teilfach Grundziige der Betriebswirtschaftslehre I und zu drei Vierteln aus der Note im Teilfach Grundziige der Betriebswirtschaftslehre IT errechnet." 
+
+10. § 24 erhalt folgende Fassung: 
+
+### Bestehen der Diplomvorpriifung 
+
+   - (1) Die Diplomvorpriifung ist bestanden, wenn sdmtliche Klausuren gemaB § 22 Abs. 2 Satz 2 mit wenigstens "ausreichend" (4,0) bewertet sind. 
+
+   - (2) § 4 Abs. 1 und § 10 bleiben unbertihrt." 
+
+11. § 25 wird wie folgt geandert: 
+
+   - a) In Absatz 1 werden nach dem Wort "Fachern" die Worte "oder Teilfachern" eingefiigt. 
+
+   - b) Absatz 4 Satz 1 erhalt folgende Fassung: 
+
+"Eine zweite Wiederholung der Diplomvorpriifung ist nur in einem Prifungsfach gemaB § 22 Abs. 1 Nrn. 3 oder 4 oder in bis zu zwei Priifungsteilfachern gemaB § 22 Abs. 1 Nrn. 1 und 2 méglich. 
+
+   - c) Absatz 4 Satz 4 wird aufgehoben. 
+
+12. § 27 Abs. 2 wird wie folgt geandert: 
+
+   - a) Nr. 2 erhalt folgende Fassung: 
+
+3 
+
+_ 
+
+| 
+
+2 
+
+      - "2. je ein Leistungsschein in der speziellen Betriebswirtschaftslehre und in den Pflichtwahlfachern. Der Versuch zum Erwerb der Leistungsscheine kann innerhalb der Fristen nach § 4 Abs. 3 zu den regularen Terminen mehrmals wiederholt werden." 
+
+   - b) Nr. 4 erhalt folgende Fassung: 
+
+      - "4, eine fiir das Ausbildungsziel geeignete berufspraktische Tatigkeit in der Wirtschaft oder Wirtschaftsverwaltung von 12 Wochen." 
+
+13. § 31 wird wie folgt geandert: 
+
+   - a) In Absatz 1 Satz 1 erhalt Nr. 3 folgende Fassung: “Volkswirtschaftslehre einschlieBlich Wirtschaftspolitik und Finanzwissenschaft". 
+
+   - b) Absatz 6 wird wie folgt geandert: 
+
+      - aa) Satz 1 erhalt folgende Fassung: 
+
+"Auf Antrag erkennt der Priifungsausschu8 bis zu zwei Priifungsfacher an, die der Kandidat im Rahmen einer Hochschulpartnerschaft an einer auslandischen wissenschaftlichen Hochschule abgelegt hat, soweit die Gleichwertigkeit festgestellt ist." 
+
+- bb) Es wird folgender Satz 3 angefiigt: 
+
+“ Auf Antrag erkennt der Prifungsausschu8 eine Diplomarbeit an, die im Rahmen einer Hochschulpartnerschaft, welche eine Doppeldiplomierung einschlieBt, an einer auslandischen wissenschaftlichen Hochschule angefertigt worden ist, soweit die Gleichwertigkeit festgestellt ist." 
+
+14. Nach § 33 wird eingefiigt: 
+
+"§ 33a 
+
+#### Freier Priifungsversuch 
+
+- (1) Hat ein Kandidat nach ununterbrochenem Fachstudium spatestens im Priifungstermin des achten Fachsemesters die Priifungen des 2. Teils der Diplompriifung erstmals vollstandig abgelegt und die Priifung gema8 § 32 Abs. 1 Nrn. 2, 3 oder 4 nicht bestanden, so gilt der 2. Teil der Diplompriifung - auSer in den Fallen des § 10 Abs. 4 - als nicht abgelegt (freier Priifungsversuch). Im Rahmen des freien Priifungsversuchs mit wenigstens "ausreichend" bewertete Fachpriifungen werden angerechnet, wenn sich der Kandidat innerhalb eines Monats nach Mitteilung des Priifungsergebnisses zur erneuten Ablegung der mit "nicht ausreichend" bewerteten Fachpriifungen im nachsten Priifungstermin meldet; statt einer Anrechnung der mit wenigstens "ausreichend" bewerteten Fachpriifungen kann er die Wiederholung zur Notenverbesserung beantragen; in diesem Falle gilt Absatz 2 entsprechend. 
+
+- (2) Hat ein Kandidat nach ununterbrochenem Fachstudium spatestens im Priifungstermin des achten Fachsemesters den 2. Teil der Diplompriifung bestanden, so darf er alle oder einzelne Fachprifungen zum Zwecke der Notenverbesserung einmal im ndchsten 
+
+4 
+
+c 
+
+Priifungstermin wiederholen, wenn er dies innerhalb eines Monats nach Mitteilung des Priifungsergebnisses beantragt. Es zahlt das jeweils bessere Ergebnis der Fachpriifung. 
+
+- (3) Anerkannte Studienzeiten werden bei Hochschul-, Studiengangs- oder Fachwechsel auf das Fachstudium angerechnet; Semester, in denen der Student beurlaubt war, bleiben unberiicksichtigt." 
+
+15. In § 35 Abs. 3 werden die Worte "und von allen Priifern" gestrichen. 
+
+16. Die Anlage wird wie folgt gedindert: 
+
+   - a) Der Katalog der zugelassenen Pflichtfacher erhalt folgende Fassung: 
+
+      - "a) Allgemeine Betriebswirtschaftslehre 
+
+      - b) Volkswirtschaftslehre einschlieBlich Wirtschaftspolitik und Finanzwissenschaft 
+
+      - c) Eine Spezielle Betriebswirtschaftslehre Hierftir sind zugelassen: 
+
+         1. Bank- und Bérsenwesen 
+
+         2. Betriebswirtschaftslehre der Banken 
+
+         3. Betriebswirtschaftslehre der Industrie 
+
+         4. Betriebswirtschaftslehre des Priifungswesens 
+
+         5. Betriebswirtschaftliche Steuerlehre 
+
+         6. Internationales Management 
+
+         7. Logistik 8. Marketing 
+
+         9. Operations Research 
+
+         10. Rechnungswesen 
+
+         11. Unternehmensfihrung 
+
+         12. Wirtschaftsinformatik (Schwerpunkt Industrie- und Logistikbetriebe) 13. Wirtschaftsinformatik (Schwerpunkt Biiro- und Dienstleistungsbereich)" 
+
+( 
+
+### b) 
+
+Der Katalog der zugelassenen Pflichtwahlfacher erhalt folgende Fassung: 
+
+- "1. Bank- und Bérsenwesen 
+
+2. Betriebswirtschaftslehre der Banken 
+
+3. Betriebswirtschaftslehre der Industrie 
+
+4. Betriebswirtschaftslehre des Priifungswesens 
+
+5. Betriebswirtschaftliche Steuerlehre 
+
+6. Internationales Management 
+
+7. Logistik 
+
+8. Marketing 
+
+9. Operations Research 
+
+10. Rechnungswesen 
+
+11. Unternehmensfiihrung 
+
+12. Wirtschaftsinformatik (Schwerpunkt Industrie- und Logistikbetriebe) 13. Wirtschaftsinformatik (Schwerpunkt Biro- und Dienstleistungsbereich) 
+
+14. Wirtschafts- und Betriebspadagogik 
+
+5 
+
+( 
+
+      15. Internationale Wirtschaft 16. Entwicklungspolitik 17. Finanzwissenschaft 18. Statistik 19. Quantitative Wirtschaftsforschung 20. Genossenschaftswesen 21. Arbeitsrecht °) 
+
+      22. Offentliches Recht 23. Steuerrecht 24. Unternehmens- und Gesellschaftsrecht ” 25. Soziologie 26. Bildungs- und Wissenssoziologie 27. Entwicklungssoziologie 
+
+      28. Familien- und Jugendsoziologie 29. Medizinsoziologie 30. Wirtschafts- und Organisationssoziologie/Betriebssoziologie 
+
+      31. Wirtschafts- und Betriebspsychologie 32. Kommunikationswissenschaft 33. Politikwissenschaft 
+
+      34. Sozialpolitik 35. Sozialwissenschaftliche Grundlagen des Personalwesens ™ 36. Wirtschaftsgeographie 37. Wirtschaftsgeschichte 38. Auslandswissenschaft: Englischsprachige Kulturen 
+
+      39. Auslandswissenschaft: Romanischsprachige Kulturen (Frankreich) 40. Auslandswissenschaft: Romanischsprachige Kulturen (Italien) 41. Auslandswissenschaft: Romanischsprachige Kulturen (Portugal/ Brasilien) 
+
+      42. Auslandswissenschaft: Romanischsprachige Kulturen (Spanien/ Lateinamerika) 
+
+- *) Eine Kombination dieser Facher ist nicht méglich **') Nur kombinierbar mit ¢ Sozialpolitik 
+
+   - ¢ Soziologie 
+
+   - ¢ Wirtschafts- und Betriebspsychologie." 
+
+§ 2 
+
+- (1) Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+- (2) Fir Studenten, die eine nach den bisherigen Vorschriften vorgeschriebene berufspraktische Tatigkeit von wenigstens drei Monaten wahrend des Studiums bis zum allgemeinen Vorlesungsbeginn des Wintersemesters 1995/96 abgeleistet haben, gilt folgendes: 
+
+   1. Die Regelstudienzeit betragt neun Semester. 
+
+   2. Die Meldefrist zum 2. Teil der Diplompriifung bemift sich nach § 4 Abs. 2 Satz 1 der Diplompriifungsordnung in der bisherigen Fassung. 
+
+   3. Spatester Priifungstermin i. S. des § 33a ist das neunte Fachsemester. 
+
+6 
+
+- 
+
+- (3) Beziiglich der Diplomvorpriifung gilt: 1. Wer zur Diplomvorpriifung nach den bisher geltenden Bestimmungen zugelassen ist, legt sie nach diesen Bestimmungen ab. 
+
+   2. Wer bei Inkrafttreten dieser Anderungssatzung noch nicht zur Diplomvorprifung zugelassen ist, legt sie vorbehaltlich der Regelung in Nr. 3 nach den Bestimmungen dieser Anderungssatzung ab. Der vor Inkrafttreten dieser Anderungssatzung erworbene Leistungsschein tiber die erfolgreiche Teilnahme an der Lehrveranstaltung Einfiihrung in die Betriebswirtschaftslehre wird als Prifung im Fach Grundziige der Betriebswirtschaftslehre I behandelt. 
+
+   3. Wer imSommersemester 1995 sein Studium begonnen hat und bei Inkrafttreten dieser Anderungssatzung noch nicht zur Diplomvorpriifung zugelassen ist, darf sich abweichend von Nr. 2 mit der Anmeldung zur Diplomvorpriifung am Ende des Wintersemesters 1995/96 zur Ablegung der Diplomvorpriifung nach den bisherigen Vorschriften entscheiden. 
+
+- (4) Beziiglich der Wahl der Priifungsfacher in der Diplompriifung gilt: 
+
+Wer das Studium der Facher Wirtschaftsinformatik 1 und Wirtschaftsinformatik 2 bis zum Sommersemester 1995 begonnen hat, darf diese Facher nach den bisherigen Bestimmungen abschlieBen. 
+
+Ausgefertigt auf Grund der Beschliisse des Senats der Universitat Erlangen-Niirnberg vom 1. Marz und 1. August 1995 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 24. August 1995 Nr. X/4 - 6/129 544. 
+
+Erlangen, den 20. September 1995 
+
+Prof. Dr. G. Jasper Rektor 
+
+Die Satzung wurde am 20. September 1995 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 20. September 1995 durch Anschlag in der Universitat ErlangenNiirnberg bekanntgegeben. Tag der Bekanntmachung ist der 20. September 1995. 
+
+7 
 

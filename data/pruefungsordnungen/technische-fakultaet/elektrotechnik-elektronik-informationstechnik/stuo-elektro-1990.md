@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 19.06.1990"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/StuO-Elektro-1990.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:12+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T11:28:33+00:00
+page_count_chars: 18303
 ---
 
 # PDF vom 19.06.1990
@@ -12,596 +12,318 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/StuO-Elektro-1990.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Studienordnung fiir den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universitat Erlangen-Nirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+a 
 
-### OCR Seite 1
+### Vom 19. Juni 1990 
 
-```
-Studienordnung
-für
-den
-wissenschaftlichen
-Diplomstudiengang
-der
-Fachrichtung
-ı
-Elektrotechnik an der Universität Erlangen-Nürnberg
-Vom
-19.
-Juni
-1990
-Aufgrund des Art. 6 in Verbindung mit Art. 72 Abs. 1 des Bayerischen Hochschulgesetzes
-(BayHSchG) in der Fassung der Bekanntmachung vom 8. Dezember 1988 (GVBl $S. 399) erläßt
-die Universität Erlangen-Nürnberg die folgende Studienordnung:
-s1
-Geltungsbereich
-Diese Studienordnung beschreibt auf der Grundlage der Prüfungsordnung für die Diplomprüfung
-der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) und der Fachprüfungs-
-ordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik (FPrOET)
-in der jeweils gültigen Fassung Ziel, Inhalt und Aufbau des Studiums für den wissenschaftlichen
-Studiengang der Fachrichtung Elektrotechnik an der Universität Erlangen-Nürnberg.
-$2
-Regelstudienzeit
-_
-Die Regelstudienzeit beträgt 10 Semester, wenn die Studentin/ der Student wenigstens 3 Monate
-der praktischen Ausbildung von insgesamt 26 Wochen während des Studiums ableistet, im übrigen
-9 Semester.
-83
-|
-N
-Studienbeginn
-Das Studium kann nur zum Wintersemester aufgenommen werden.
-$4
-Studienvoraussetzungen
-(1)
-Über die allgemeine Studierfähigkeit
-hinaus bestehen keine weiteren
-gesetzlichen
-Voraussetzungen für das Studium der Elektrotechnik. Ein erfolgreiches Studium der
-Elektrotechnik setzt die Fähigkeit sowohl zu einer theoretischen wie auch zu einer
-anwendungsbezogenen praktischen Arbeitsweise voraus. Gute Kenntnisse der englischen
-Sprache erweisen sich im Laufe des Studiums der Elektrotechnik
-als notwendig.
-```
+Aufgrund des Art. 6 in Verbindung mit Art. 72 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) in der Fassung der Bekanntmachung vom 8. Dezember 1988 (GVBI S. 399) erla8t die Universitat Erlangen-Nirnberg die folgende Studienordnung: 
 
-### OCR Seite 2
+; 
 
-```
--2-
-(2)
-Die Prüfungsordnung verlangt eine praktische Ausbildung von insgesamt mindestens 26
-Wochen Dauer. Davon entfallen auf die Grundpraxis 8 bis 13 Wochen, der Rest auf die
-Fachpraxis. Im Rahmen der Grundpraxis soll die Praktikantin/der Praktikant die Grund-
-lagen der industriellen Fertigung kennenlernen und ihre Schwierigkeiten in eigener
-Mitarbeit erproben.
-In der Fachpraxis
-soll die Studentin/der Student die speziellen
-Verfahren und Einrichtungen der elektrotechnischen Betriebe kennenlernen. Außerdem
-soll sie/er erfahren, wie das an der Hochschule vermittelte Wissen in der Praxis ange-
-wendet wird und wie das spätere Berufsfeld als Diplomingenieur aussehen wird.
-Es wird dringend empfohlen, einen Teil der praktischen Ausbildung vor Beginn des
-Studiums abzuleisten. Inhalt und Anforderungen an die praktische Ausbildung richten
-sich
-nach den
-Richtlinien
-für
-die
-praktische
-Ausbildung
-von
-Studierenden
-der
-|
-Elektrotechnik der Universität Erlangen-Nürnberg (Praktikantenrichtlinien) in der jeweils
-gültigen Fassung.
--
-$5
-u
-Ziele des Studiengangs
-E
-(i)
-Das Studium bereitet auf die Tätigkeit des Diplomingenieurs in anwendungs-, herstel-
-lungs-, forschungs- und lehrbezogenen Tätigkeitsfeldern vor.
-(2)
-Das beim Studium der Elektrotechnik an der Technischen Fakultät der Universität
-Erlangen-Nürnberg
-angestrebte Ausbildungsziel ist ein grundlagenorientierter Diplom-
-:
-ingenieur der Elektrotechnik. Er soll mit den durch die Ausbildung erworbenen Fähig-
-keiten und Sachkenntnissen imstande sein, die in seinen Tätigkeitsbereichen auftretenden
-ingenieurwissenschaftlichen Aufgaben selbständig und verantwortlich zu lösen sowie
-neue Erkenntnisse seines Fachgebiets zu erarbeiten und kritisch zu beurteilen. Durch
-Schulung des Abstraktionsvermögens und des analytischen Denkens soll er die Fähigkeit
-erwerben, sich später in vielfältige Aufgabengebiete selbständig einzuarbeiten und die in
-der
-Berufspraxis
-ständig
-wechselnden
-Problemstellungen
-auch
-außerhalb
-der
-Elektrotechnik zu bewältigen.
-(3)
-Aufgaben der Elektrotechnik treten außer in den klassischen Anwendungsgebieten
-zunehmend auch in anderen Bereichen, wie z. B. Biologie, Medizin und Umweltschutz
-auf. Die Ausbildung zum Diplomingenieur der Elektrotechnik ist deshalb breit angelegt
-und vermeidet eine frühzeitige Spezialisierung.
-(4)
-Aufgrund
-der
-bestandenen
-Diplomprüfung
-wird
-der
-akademische
-Grad
-eines
-"Diplomingenieurs Univ." (abgekürzt "Dipl.-Ing. Univ.") verliehen.
-```
+$1 
 
-### OCR Seite 3
+#### Geltungsbereich 
 
-```
--3-
-86
-Gliederung des Studiums
-(1)
-Das Studium gliedert sich in ein viersemestriges Grundstudium und ein ebenfalls
-viersemestriges Hauptstudium in einem Gesamtumfang von etwa 190 Semesterwochen-
-stunden. Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der
-Diplomhauptprüfung
-abgeschlossen.
-Beide
-Prüfungen
-werden
-in
-Teilabschnitten
-abgelegt. Die zusätzlich anzufertigende Diplomarbeit mit einer Dauer von 6 Monaten ist
-Bestandteil der Diplomhauptprüfung.
-(2)
-Das Hauptstudium muß in einer der folgenden fünf Studienrichtungen durchgeführt
-werden:
-I
-Freies Fachstudium Elektrotechnik
-H
-Kommunikationselektrotechnik
-u
-Leistungselektrotechnik
-IV
- Signalverarbeitung und Datentechnik
-vV
-Mikroelektronik
-(3)
-Außerdem ist eine praktische Ausbildung außerhalb der Hochschule von insgesamt
-mindestens 26 Wochen Dauer abzuleisten. Ein Teil von mindestens 8 Wochen (Grund-
-praxis) ist Voraussetzung für die Zulassung zum letzten Abschnitt der Diplomvorprüfung.
-Die Ableistung des gesamten Praktikums ist Voraussetzung für die Zulassung zur
-Diplomarbeit.
-(4)
-Zu jeder Lehrveranstaltung gibt es eine Form des Nachweises der erfolgreichen
-Teilnahme.
-Diese
-wird
-zu
-Beginn der
-Veranstaltung durch
-die
-verantwortliche
-Lehrperson bekanntgegeben.
-$7
-Grundstudium
-(1)
-Das viersemestrige Grundstudium dient dem Erwerb des mathematischen, naturwissen-
-schaftlichen und technischen Grundlagenwissens, auf dem das gesamte weitere Studium
-H
-aufbaut. Es umfaßt die folgenden Lehrveranstaltungen mit insgesamt 95 Semester-
-wochenstunden (Vorlesung V, Übung Ü):
-```
+Diese Studienordnung beschreibt auf der Grundlage der Priifungsordnung fiir die Diplompriifung der Technischen Fakultit der Universitit Erlangen-Niirnberg (DiplPrOTF) und der Fachpriifungsordnung fiir den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik (FPrOET) in der jeweils giiltigen Fassung Ziel, Inhalt und Aufbau des Studiums fiir den wissenschaftlichen Studiengang der Fachrichtung Elektrotechnik an der Universitat Erlangen-Niirnberg. 
 
-### OCR Seite 4
+§2 
 
-```
--4-
-1. Fachsemester:
-Grundlagen der Elektrotechnik I
-(3V, 20)
-Mathematik für Ingenieure I
-(4V, 20)
-Experimentalphysik für Ingenieure I
-(4V, 2Ü)
-Chemie für Elektroingenieure
-Q2V
-)
-Werkstoffkunde für Elektroingenieure I
-02V
-)
-Technisches Zeichnen
-(
-30)
-2. Fachsemester:
-Grundlagen der Elektrotechnik H
-(2V, 2Ü)
-Mathematik für Ingenieure I
-(4V, 20)
-Experimentalphysik für Ingenieure I
-(4V, 20)
-Physikalisches Praktikum
-(
-50)
-Werkstoffkunde für Elektroingenieure H
-QV
-)
-3. Fachsemester:
-Grundlagen der Elektrotechnik III
-(2V, 20)
-{
-Mathematik für Ingenieure IH
-(4V, 20)
-Informatik für Elektroingenieure
-(3V, 20)
-Programmierkurs
-(
-4)
-Technische Mechanik (Dynamik)
-(3V, 2Ü)
-4. Fachsemester:
-Grundlagen der Elektrotechnik IV
-(2V, 2Ü)
-Grundlagenpraktikum Elektro- und Meßtechnik
-(
-40)
-Mathematik für Ingenieure IV
-(6V, 3Ü)
-Konstruktionslehre
-(2V, 10)
-Bauelemente der ElektrotechnikI
-(2V,2Ü0)
-*)
-(2)
-Die Diplomvorprüfung muß in mindestens zwei und kann in höchstens drei Abschnitten
-abgelegt werden. Der erste Abschnitt soll nach dem 2. Semester, d.h. in dem unmittelbar
-auf die Vorlesungszeit des 2. Fachsemesters folgenden Prüfungstermin liegen. Der letzte
-Abschnitt soll nach dem 4. Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des
-|
-4. Fachsemesters folgenden Prüfungstermin liegen. Der Kandidat soll sich so rechtzeitig
-zur Diplomvorprüfung melden, daß er sie bis zum Beginn der Lehrveranstaltungen des
-fünften Semesters abschließt.
-Voraussetzung für die Zulassung zur Diplomvorprüfung ist die Vorlage von Scheinen
-über die erfolgreiche Teilnahme an Lehrveranstaltungen, die in $ 5 der Fachprüfungs-
-ordnung FPrOET festgelegt sind.
-*) Prüfung erfolgt während des Hauptstudiums
-```
+#### Regelstudienzeit 
 
-### OCR Seite 5
+_ 
 
-```
-:
--5-
-88
-Hauptstudium
-(1)
-Das Hauptstudium (ab 5. Semester) dient dazu, einerseits die fachgebietsübergreifenden
-Kernbereiche der Elektrotechnik wie Elektromagnetische Felder, Systemtheoretische
-Grundlagen, Energietechnische Grundlagen und die Zusammenhänge zwischen Stoff,
-Struktur und Bauelement als Basiswissen zu vermitteln, andererseits in einem vom
-Studenten selbst gewählten Vertiefungsbereich diese Kenntnisse zu vertiefen und an eine
-selbständige wissenschaftliche Tätigkeit heranzuführen. Sein Inhalt umfaßt die folgenden
-Lehrveranstaltungen;
-der Mindestumfang der Lehrveranstaltungen liegt je nach
-Studiengang zwischen 77 bis 84 Semesterwochenstunden};- hinzu kommt die Be-
-arbeitungszeit der Studienarbeit:
-4 Kernfächer
-(obligatorisch, Gesamtvolumen 28 Semesterwochenstunden
-ab 5. Semester)
-4. Fachsemester:
-Bauelemente der Elektrotechnik I
-(2V,2Ü)
-5. Fachsemester:
-Bauelemente der Elektrotechnik II
-(2V,20)
-Bauelemente der Elektrotechnik IH
-(2V,2Ü)
-Systemtheorie
-(4V,2Ü)
-‚
-Technische Elektrodynamik I
-(2V,20)
-Grundlagen der Energietechnik
-(4V,1Ü)
-6. Fachsemester:
-Technische Elektrodynamik I
-(3V 20)
-4 Vertiefungsfächer
-(ab 5. Semester)
-diese sind entsprechend der gewählten Studienrichtung und dem individuellen Studien-
-konzept mit einem Gesamtvolumen von mindestens 25 Semesterwochenstunden auszu-
-wählen und als Einzelfächprüfungen abzulegen.
-Die vier Vertiefungsfächer unterteilen sich in drei Vertiefungsgrundfächer mit jeweils
-mindestens sechs Semesterwochenstunden und ein Vertiefungsspezialfach mit mindestens
-vier Semesterwochenstunden.
-Für die 5 möglichen Studienrichtungen gilt nach $ 2a Abs. 1 in Verbindung mit $ 12
-Abs. 2 der Fachprüfungsordnung Elektrotechnik (FPrOET):
-I
-Freies Fachstudium Elektrotechnik
-Es können alle Vertiefungsgrundfächer bzw. Vertiefungsspezialfächer der
-Studienrichtungen U bis V gewählt werden. Außerdem kann als Vertiefungs-
-\
-spezialfach auch ein Vertiefungsgrundfach gewählt werden.
-```
+Die Regelstudienzeit betrigt 10 Semester, wenn die Studentin/ der Student wenigstens 3 Monate der praktischen Ausbildung von insgesamt 26 Wochen wihrend des Studiums ableistet, im tibrigen 9 Semester. 
 
-### OCR Seite 6
+§3 
 
-```
-.
--6-
-II
- Kommunikationselektrotechnik
-Vertiefungsgrundfächer
-Grundlagen der Hochfrequenztechnik
-(SV,4Ü)
-Nachrichtenübertragung
-65V,3U)
-Grundlagen der Netzwerksynthese
-(4V 2U)
-Vertiefungsspezialfächer
-Informationstheorie
-(4V,2Ü)
-Quantenelektronik
-(4V,4U)
-Regelungsverfahren der Nachrichtentechnik
-(AV
-)
-Synthese aktiver Netzwerke
-(3V,1Ü)
-HI
-Leistungselektrotechnik
-Vertiefungsgrundfächer
-Anlagen und Netze
-(5V,30)
-Elektrische Antriebstechnik
-(6V,3Ü)
-“
-Grundlagen der Regelungstechnik
-(SV,4U)
-Vertiefungsspezialfächer
-Stromrichtergespeiste Drehstromantriebe
-(3V,1Ü)
-Kraftwerke
-(4V
-)
-Netzstörungen und Netzschutz
-(4V
-)
-Simulation dynamischer Systeme
-(4V
-)
-IV
-Signalverarbeitung und Datentechnik
-Vertiefungsgrundfächer
-.
-Grundlagen der digitalen Signalverarbeitung
-(5V,3U)
-Technische Elektronik
-(5V,2Ü)
-Statistische Verfahren der Regelungs- und Nachrichtentechnik
-(5V,2U)
-Vertiefungsspezialfächer
-Betriebssysteme und Verkehrsmodelle
-SV )
-Praxis der digitalen Signalverarbeitung
-(3V,10)
-Speichertechnologie
-(3V,10)
-```
+## Studienbeginn 
 
-### OCR Seite 7
+Das Studium kann nur zum Wintersemester aufgenommen werden. 
 
-```
--7-
-V
-Mikroelektronik
-Vertiefungsgrundfächer
-B
-Technologie der Silicium-Halbleiterbauelemente
-(65V,2U)
-Entwurf integrierter Schaltungen
-(6V,2U)
-Technische Elektronik
-(5V,2U)
-Vertiefungsspezialfächer
-Werkstoffe und Technologie der Verbindungshalbleiter
-44V )
-Integrierte Mikrowellenschaltungen
-(3,30)
-Simulation und Test integrierter Schaltungen
-(2V,20U)
-Halbleiter- und Bauelemente-Meßtechnik
-(3V,1U)
-Bei den Studienrichtungen II bis V müssen mindestens zwei Vertiefungsgrundfächer und
-das Vertiefungsspezialfach der gewählten Studienrichtung angehören.
-Die Prüfungen in den genannten Kern- und Vertiefungsgrundfächern erfolgen schriftlich.
-Die Prüfung im Vertiefungsspezialfach erfolgt mündlich. Die Dauer der schriftlichen
-Prüfungen beträgt 3 Stunden, lediglich für das Kernfach Bauelemente der Elektrotechnik
-LU und II beträgt die Prüfungszeit 4 Stunden.
-Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern erfolgen mündlich.
-3oder4 Wahllehrveranstaltungen
-(ab 5. Semester)
-mit einem Gesamtvolumen von mindestens 10Semesterwochenstunden. Die Wahllehr-
-veranstaltungen können
-sein: Vorlesungen, Übungen und Seminare, davon jedoch
-höchstens 2 Seminare.
-3 Praktika
-an Lehrstühlen der Elektrotechnik
-(ab 5. Semester)
-von je mindestens 4 Semesterwochenstunden
-1 Pflichtseminar aneinem Lehrstuhl der Elektrotechnik
-(mindestens 2 Semesterwochenstunden)
-(ab 6. Semester)
-```
+§4 
 
-### OCR Seite 8
+#### Studienvoraussetzungen 
 
-```
--8-
-1 Studienarbeitauseinem Gebiet der Elektrotechnik
-Die Studienarbeit stellt eine Studienleistung dar, die in den Anforderungen so gestaltet ist,
-daß sie eine reine Bearbeitungszeit von 3 Monaten erfordert (entspricht 20 Semester-
-wochenstunden).
-Da
-die
-Studienarbeit
-parallel
-zu
-anderen
-Lehrveranstaltungen
-durchgeführt werden kann, sind Anfangs- und Abgabetermin jeweils vom betreuenden
-Hochschullehrer im Einvernehmen mit dem Bearbeiter schriftlich festzulegen. Die so
-festgesetzte Bearbeitungsdauer soll 6 Monate nicht überschreiten. Gibt der Bearbeiter die
-Studienarbeit aus von ihm zu vertretenden Gründen nicht innerhalb der vereinbarten Frist
-ab, so wird die Arbeit mit "nicht ausreichend" bewertet.
-Die Studienarbeit
-ist von dem Hochschullehrer, der die Arbeit ausgegeben hat,
-spätestens innerhalb von 3 Monaten nach der Abgabe zu bewerten.
-f
-(2)
-“
-Spätestens drei Semester nach bestandener Diplomvorprüfung ist ein Studienkonzept
-beim Prüfungsausschuß vorzulegen. Das Studienkonzept muß neben der gewählten
-Studienrichtung folgende Angaben enthalten:
-Bezeichnung der Lehrveranstaltungen mit Stundenumfang und Namen der betreffenden
-Dozenten von 4 Kernfächern, 4 Vertiefungsfächern und 3, höchstens 4 Wahlpflichtlehr-
-veranstaltungen.
-Die Wahlpflichtlehrveranstaltungen müssen in einem sinnvollen Zusammenhang mit dem
-Studium
-der
-Fachrichtung
-Elektrotechnik
-stehen,
-mindestens
-zwei
-Wahlpflicht-
-lehrveranstaltungen sind aus dem Angebot der Fachrichtung Elektrotechnik zu wählen.
-Das Studienkonzept und eventuelle spätere Änderungen bedürfen der Genehmigung
-durch den Prüfungsausschuß.
-```
+- (1) Uber die allgemeine Studierfihigkeit hinaus bestehen keine weiteren gesetzlichen Voraussetzungen fiir das Studium der Elektrotechnik. Ein erfolgreiches Studium der Elektrotechnik setzt die Fihigkeit sowohl zu einer theoretischen wie auch zu einer anwendungsbezogenen praktischen Arbeitsweise voraus. Gute Kenntnisse der englischen Sprache erweisen sich im Laufe des Studiums der Elektrotechnik als notwendig. 
 
-### OCR Seite 9
+Ziele des Studiengangs . 
 
-```
--9-
-$9
-Prüfungen
-(i)
-Die Durchführung
-der Diplomvorprüfung und der Diplomhauptprüfung regeln
-die
-Diplomprüfungsordnung DiplPrOTF sowie die Fachprüfungsordnung FPrOET in ihrer
-jeweils gültigen Fassung.
-(2)
-Die Meldung zur Diplomvorprüfung hat so rechtzeitig zu erfolgen, daß sie bis zum
-Beginn der Lehrveranstaltungen des fünften Semesters abgeschlossen ist. Bezüglich einer
-Überschreitung dieser Frist wird auf $ 6 Abs.2 der Diplomprüfungsordnung DiplPrOTF
-verwiesen.
-(3)
-Die Diplomhauptprüfung umfaßt
-a)
-acht Einzelfachprüfungen in vier Kernfächern und in vier Vertiefungsfächern
-entsprechend der gewählten Studienrichtung, die in höchstens drei
-Prüfungsabschnitten abgelegt werden können, sowie
-b)
-die Anfertigung einer Diplomarbeit, die erst nach erstmaligem Ablegen aller
-Einzelfachprüfungen ausgegeben wird.
-Die weiteren Zulassungsvoraussetzungen zur Diplomhauptprüfung sind in $ 11
-der
-Fachprüfungsordnung FP:OET im einzelnen geregelt.
-(4)
-Die Meldung zur Diplomkauptprüfung hat so rechtzeitig zu erfolgen, daß der letzte
-Prüfungsabschnitt im Prüfurgstermin am Ende des neunten Fachsemesters abgelegt und
-im unmittelbaren Anschluß daran die Diplomarbeit durchgeführt werden kann. Bezüglich
-einer Überschreitung dieser Frist wird auf $ 14 Abs.3 der Diplomprüfungsordnung
-DiplPrOTF verwiesen.
-(5)
-Sind die Voraussetzungen zur Zulassung gegeben, erfolgt die Qualifikation
-zu wissenschaftlicher Tätigkeit im Rahmen der Diplomarbeit. Die Diplomar-
-beit ist zugleich Bestandteil der Diplom-Hauptprüfung und in 6 Monaten an-
-zufertigen.
-Die Durchführung der Diplomarbeit wird in 8 17 der Diplomprüfungsordnung
-DiplPrOTF sowie in $ 13 der Fachprüfungsordnung FPrOET geregelt.
-```
+-2- 
 
-### OCR Seite 10
+- (2) Die Priifungsordnung verlangt eine praktische Ausbildung von insgesamt mindestens 26 Wochen Dauer. Davon entfallen auf die Grundpraxis 8 bis 13 Wochen, der Rest auf die Fachpraxis. Im Rahmen der Grundpraxis soll die Praktikantin/der Praktikant die Grundlagen der industriellen Fertigung kennenlernen und ihre Schwierigkeiten in eigener Mitarbeit erproben. In der Fachpraxis soll die Studentin/der Student die speziellen Verfahren und Einrichtungen der elektrotechnischen Betriebe kennenlernen. AuBerdem soll sie/er erfahren, wie das an der Hochschule vermittelte Wissen in der Praxis angewendet wird und wie das spatere Berufsfeld als Diplomingenieur aussehen wird. 
 
-```
--10-
-8 10
-Anrechenbarkeit von Studienleistungen
-(i)
-Die Anrechnung von Studienleistungen, Studienzeiten und Prüfungsleistungen richtet
-sich nach $$ 6a, 13 DiplPrOTF und $8 5 Abs.5, 11 Abs.3 FPrOET.
-(2)
-Studienleistungen, die an anderen Hochschulen im In- oder Ausland erbracht wurden,
-können auf Antrag vom Prüfungsausschuß und nach Feststellung der Gleichwertigkeit der
-Leistungen durch den fachlich zuständigen Hochschullehrer anerkannt werden.
-/
-s11
-|
-.
-Studienführer
-Die Lehrstühle der Elektrotechnik geben einen Studienführer heraus, der unter anderem Angaben
-macht zu:
--
-Ablauf und Organisation des Grund- und Hauptstudiums
--
-Liste der Lehrveranstaltungen und Zahl der Semesterwochenstunden für das Grundstudium
-sowie für das Hauptstudium, gegliedert nach Kernfächern, Vertiefungsfächern, Wahlvor-
-.
-lesungen, Praktika und Seminaren.
-```
+Es wird dringend empfohlen, einen Teil der praktischen Ausbildung vor Beginn des Studiums abzuleisten. Inhalt und Anforderungen an die praktische Ausbildung richten sich nach den Richtlinien fiir die praktische Ausbildung von Studierenden der | Elektrotechnik der Universitat Erlangen-Niimberg (Praktikantenrichtlinien) in der jeweils giiltigen Fassung. 
 
-### OCR Seite 11
+- §5 
 
-```
--11-
-$12
-Studienfachberatung
-(1)
-Die Studienfachberatung
-wird durch den Studienfachberater und durch die Hoch-
-schullehrer des wissenschaftlichen Diplomstudienganges Elektrotechnik durchgeführt.
-Für Studienanfänger findet eine Einführungsveranstaltung statt. Es wird empfohlen, eine
-Studienfachberatung insbesondere in den folgenden Fällen in Anspruch zu nehmen:
-- vor der Wahl der Studienrichtung und der Aufstellung des Studienkonzeptes
-- im Fall eines Studienfach- oder Hochschulwechsels
-- im Fall eines geplanten Studiums im Ausland
-- nach nicht bestandenen Prüfungen
-(2)
-Zu allen Fragen, die die praktische Ausbildung außerhalb der Hochschule, das sogenannte
-Industriepraktikum, betreffen, gibt das Praktikantenamt Auskunft.
-Insbesondere sollten Fragen zur Durchführung des Praktikums vor dessen Beginn geklärt werden.
-813
-Schlußbestimmung
-Diese Studienordnung tritt am Tage ihrer Bekanntmachung in Kraft. Sie gilt für Studentinnen und
-Studenten, auf die die Fachprüfungsordnung FPrOET in der Fassung der Bekanntmachung vom
-23. März 1987 in Verbindung mit der ersten Änderungssatzung vom 27. April 1989 anzuwenden
-ist.
-```
+7 
 
-### OCR Seite 12
+   - (1) Das Studium bereitet auf die Tatigkeit des Diplomingenieurs in anwendungs-, herstellungs-, forschungs- und lehrbezogenen Titigkeitsfeldern vor. 
 
-```
--12-
-|
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 28.
-Februar 1990 und nach Durchführung des in Art. 72 Abs. 3 BayHSchG vorgesehenen
-Anzeigeverfahrens.
-Erlangen, den 19. Juni 1990
-(N0 G. Jasper )
-Rektor
-Die Satzung wurde am 19. Juni 1990 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 19. Juni 1990 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 19. Juni 1990.
-```
+- . (2) Erlangen-NiirnbergDas beim Studium angestrebteder ElektrotechnikAusbildungszielan der Technischenist ein grundlagenorientierterFakultét der UniversititDiplom. ingenieur der Elektrotechnik. Er soll mit den durch die Ausbildung erworbenen Fihigkeiten und Sachkenntnissen imstande sein, die in seinen Tatigkeitsbereichen auftretenden ingenieurwissenschaftlichen Aufgaben selbstindig und verantwortlich zu lésen sowie neue Erkenntnisse seines Fachgebiets zu erarbeiten und kritisch zu beurteilen. Durch Schulung des Abstraktionsvermdégens und des analytischen Denkens soll er die Fahigkeit erwerben, sich spater in vielfaltige Aufgabengebiete selbstindig einzuarbeiten und die in der Berufspraxis stindig wechselnden Problemstellungen auch auBerhalb der Elektrotechnik zu bewiiltigen. 
+
+- (3) Aufgaben der Elektrotechnik treten auBer in den klassischen Anwendungsgebieten zunehmend auch in anderen Bereichen, wie z. B. Biologie, Medizin und Umweltschutz auf.und vermeidetDie Ausbildungeine friihzeitigezum DiplomingenieurSpezialisierung.der Elektrotechnik ist deshalb breit angelegt. 
+
+   - (4) Aufgrund der bestandenen Diplompriifung wird der akademische Grad _ eines "Diplomingenieurs Univ.” (abgekiirzt "Dipl.-Ing. Univ.”) verliehen. 
+
+-3- 
+
+### §6 
+
+### Gliederung des Studiums 
+
+- (1) Das Studium gliedert sich in ein viersemestriges Grundstudium und ein ebenfalls viersemestriges Hauptstudium in einem Gesamtumfang von etwa 190 Semesterwochenstunden. Das Grundstudium wird mit der Diplomvorpriifung, das Hauptstudium mit der Diplomhauptpriifung abgeschlossen. Beide Priifungen werden in Teilabschnitten abgelegt. Die zusitzlich anzufertigende Diplomarbeit mit einer Dauer von 6 Monaten ist Bestandteil der Diplomhauptpriifung. 
+
+- (2) Das Hauptstudium muB in einer der folgenden fiinf Studienrichtungen durchgefiihrt werden: 
+
+   - I Freies Fachstudium Elektrotechnik ssf Kommunikationselektrotechnik il Leistungselektrotechnik IV _ Signalverarbeitung und Datentechnik Vv Mikroelektronik 
+
+- (3) AuBerdem ist eine praktische Ausbildung auBerhalb der Hochschule von insgesamt mindestens 26 Wochen Dauer abzuleisten. Ein Teil von mindestens 8 Wochen (Grundpraxis) ist Voraussetzung fiir die Zulassung zum letzten Abschnitt der Diplomvorpriifung. Die Ableistung des gesamten Praktikums ist Voraussetzung fiir die Zulassung zur Diplomarbeit. 
+
+- (4) Zu jeder Lehrveranstaltung gibt es eine Form des Nachweises der erfolgreichen Teilnahme. Diese wird zu Beginn der Veranstaltung durch die verantwortliche Lehrperson bekanntgegeben. 
+
+§7 
+
+#### Grundstudium 
+
+- (1) Das viersemestrige Grundstudium dient dem Erwerb des mathematischen, naturwissenschaftlichen und technischen Grundlagenwissens, auf dem das gesamte weitere Studium 
+
+- 2 aufbaut. Es umfa8t die folgenden Lehrveranstaltungen mit insgesamt 95 Semesterwochenstunden (Vorlesung V, Ubung U): 
+
+-4- 
+
+|1.Fachsemester:<br>||GrundlagenderElektrotechnikI<br>|(3V,2U)<br>|
+|---|---|---|
+|<br>|<br>Mathematik fiirIngenieure I<br>|<br>(4V,2U)<br>|
+||Experimentalphysik fiirIngenieure I|(4V,20)|
+||Chemie fiirElektroingenieure|(2V)|
+||Werkstoffkunde fiirElektroingenieure I<br>|QV)<br><br>|
+||TechnischesZeichnen|(<br>30)|
+|2. Fachsemester:|GrundlagenderElektrotechnik Hf<br>|QV,2U)<br>|
+||Mathematik fiirIngenieureII<br>|(4V,20)<br>|
+||Experimentalphysik fiirIngenieure II<br>Physikalisches Praktikum|(4V,20)<br>(<br>50)|
+||Werkstoffkunde fiirElektroingenieure IT|QV)|
+|3.Fachsemester:<br>||GrundlagenderElektrotechnik II<br>|(2V,20)<br>(<br>|
+||Mathematik fiir _IngenieureHl<br>|(4V,20)<br>|
+||Informatik fiirElektroingenieure<br>|(3V, 20)<br><br>|
+||Programmierkurs<br>|(<br>40)<br>|
+||TechnischeMechanik (Dynamik)|(3V,2U)|
+|4. Fachsemester:|GrundlagenderElektrotechnikIV<br>|(2V,2U)<br><br>|
+||GrundlagenpraktikumElektro- undMeBtechnik<br>|(<br>40)<br>|
+||Mathematik fiirIngenieureIV<br>|(6V,3U)<br>|
+||Konstruktionslehre<br>|(2V, 10)<br><br>|
+||Bauelemente derElektrotechnikI|(2V,2U)<br>*)|
+
+(2) Die Diplomvorpriifung mu8 in mindestens zwei und kann in héchstens drei Abschnitten abgelegt werden. Der erste Abschnitt soll nach dem 2. Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des 2. Fachsemesters folgenden Priifungstermin liegen. Der letzte Abschnitt soll nach dem 4. Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des | 4, Fachsemesters folgenden Priifungstermin liegen. Der Kandidat soll sich so rechtzeitig zur Diplomvorpriifung melden, daB er sie bis zum Beginn der Lehrveranstaltungen des fiinften Semesters abschlieBt. 
+
+Voraussetzung fiir die Zulassung zur Diplomvorpriifung ist die Vorlage von Scheinen iiber die erfolgreiche Teilnahme an Lehrveranstaltungen, die in § 5 der Fachpriifungsordnung FPrOET festgelegt sind. 
+
+*) Priifung erfolgt .wahrend des Hauptstudiums 
+
+: 
+
+§8 
+
+-5- 
+
+### Hauptstudium 
+
+(1) Das Hauptstudium (ab 5. Semester) dient dazu, einerseits die fachgebietsiibergreifenden Kernbereiche der Elektrotechnik wie Elektromagnetische Felder, Systemtheoretische Grundlagen, Energietechnische Grundlagen und die Zusammenhdnge zwischen Stoff, Struktur und Bauelement als Basiswissen zu vermitteln, andererseits in einem vom Studenten selbst gewdhiten Vertiefungsbereich diese Kenntnisse zu vertiefen und an eine selbstindige wissenschaftliche Tatigkeit heranzufiihren. Sein Inhalt umfaBt die folgenden Lehrveranstaltungen; der Mindestumfang der Lehrveranstaltungen liegt je nach Studienqang zwischen 77 bis 84 Semesterwochenstunden;..hinzu kommt die Bearbeitungszeit der Studienarbeit: 
+
+4 Kernfiacher (obligatorisch, Gesamtvolumen 28 Semesterwochenstunden ab 5. Semester) 
+
+|4.Fachsemester:||BauelementederElektrotechnikI|QV,2U)|
+|---|---|---|
+|5. Fachsemester:|BauelementederElektrotechnikI<br>|(2V,20)<br>|
+||Bauelemente derElektrotechnikII<br>|(2V,2U)<br>|
+||Systemtheorie<br>|(4V,2U)<br>|
+|.|Technische Elektrodynamik I<br>|(2V,2U)<br>|
+||Grundlagen derEnergietechnik|(4V,1U)|
+|6.Fachsemester:|TechnischeElektrodynamikII|(3V,2U)|
+
+## 4 Vertiefungsficher 
+
+(ab 5. Semester) 
+
+diese sind entsprechend der gewdhlten Studienrichtung und dem individuellen Studienkonzept mit einem Gesamtvolumen von mindestens 25 Semesterwochenstunden auszuwihlen und als Einzelfachpriifungen abzulegen. 
+
+Die vier Vertiefungsfaicher unterteilen sich in drei Vertiefungsgrundfacher mit jeweils mindestens sechs Semesterwochenstunden und ein Vertiefungsspezialfach mit mindestens vier Semesterwochenstunden. 
+
+Fiir die 5 mdglichen Studienrichtungen gilt nach § 2a Abs. 1 in Verbindung mit § 12 Abs. 2 der Fachpriifungsordnung Elektrotechnik (FPrOET): 
+
+##### I Freies Fachstudium Elektrotechnik 
+
+\ 
+
+Es k6nnen alle Vertiefungsgrundfaicher bzw. Vertiefungsspezialfacher der Studienrichtungen I bis V gewahlit werden. AuBerdem kann als Vertiefungsspezialfach auch ein Vertiefungsgrundfach gewahlt werden. 
+
+-6- 
+
+, 
+
+. 
+
+##### II Kommunikationselektrotechnik 
+
+Vertiefungsgrundfacher Grundlagen der Hochfrequenztechnik (5V,40) Nachrichteniibertragung (SV,3U) Grundlagen der Netzwerksynthese (4V,2U) Vertiefungsspezialficher Informationstheorie (4V,2U) Quantenelektronik (4V,4U) Regelungsverfahren der Nachrichtentechnik (4V ) Synthese aktiver Netzwerke (3V,1U) 
+
+#### iI Leistungselektrotechnik 
+
+|Vertiefungsgrundfacher<br>AnlagenundNetze<br>ElektrischeAntriebstechnik<br>:<br>GrundlagenderRegelungstechnik|(5V,3U)<br>(6V,3U)<br>(5V,4U)|
+|---|---|
+|Vertiefungsspezialfacher<br>Stromrichtergespeiste Drehstromantriebe<br>|(3V,1U)<br><br>|
+|Kraftwerke|(4V<br>)|
+|Netzstérungen undNetzschutz|(4V<br>)|
+|SimulationdynamischerSysteme|(4V<br>)|
+
+### IV_ Signalverarbeitung und Datentechnik 
+
+Vertiefungsgrundfacher . Grundlagen der digitalen Signalverarbeitung (SV,3U) Technische Elektronik (SV,2U) Statistische Verfahren der Regelungs- und Nachrichtentechnik (SV,2U) Vertiefungsspezialfacher Betriebssysteme und Verkehrsmodelle GV ) Praxis der digitalen Signalverarbeitung (3V,1U) Speichertechnologie (3V,1U) 
+
+-7- 
+
+##### V_ Mikroelektronik 
+
+|Vertiefungsgrundficher||
+|---|---|
+|Technologieder Silicium-Halbleiterbauelemente<br>Entwurf|.<br>(SV,2U)|
+|<br>integrierterSchaltungen<br>Technische Elektronik|(6V,2U)<br>(5V,2U)|
+|Vertiefungsspezialfacher||
+|WerkstoffeundTechnologieder Verbindungshalbleiter|(4V<br>»)|
+|<br>IntegrierteMikrowellenschaltungen|(3V,3U)|
+|<br>SimulationundTestintegrierterSchaltungen|(2V,2U)|
+|<br>Halbleiter-undBauelemente-MeBtechnik|@GV,1U)|
+
+Bei den Studienrichtungen II bis V miissen mindestens zwei Vertiefungsgrundfacher und das Vertiefungsspezialfach der gewahlten Studienrichtung angehGren. 
+
+Die Priifungen in den genannten Kern- und Vertiefungsgrundfachern erfolgen schriftlich. Die Priifung im Vertiefungsspezialfach erfolgt miindlich. Die Dauer der schriftlichen Priifungen betrigt 3 Stunden, lediglich fiir das Kernfach Bauelemente der Elektrotechnik LII und Hl betrigt die Priifungszeit 4 Stunden. 
+
+Priifungen in weiteren, nicht vorgeschriebenen Zusatzfichern erfolgen miindlich. 
+
+# 3 oder4 Wahlliehrveranstaltungen 
+
+(ab 5. Semester) 
+
+mit einem Gesamtvolumen von mindestens 10 Semesterwochenstunden. Die Wahllehrveranstaltungen kénnen sein: Vorlesungen, Ubungen und Seminare, davon jedoch héchstens 2 Seminare. 
+
+3 Praktika an Lehrstihlen der Elektrotechnik 
+
+(ab 5. Semester) 
+
+#### von je mindestens 4 Semesterwochenstunden 
+
+1 Pflichtseminar aneinem Lehrstuhl der Elektrotechnik (mindestens 2 Semesterwochenstunden) 
+
+(ab 6. Semester) 
+
+-8- 
+
+#### 1 Studienarbeitaus einem Gebiet der Elektrotechnik 
+
+Die Studienarbeit stellt eine Studienleistung dar, die in den Anforderungen so gestaltet ist, daB sie eine reine Bearbeitungszeit von 3 Monaten erfordert (entspricht 20 Semesterwochenstunden). Da die Studienarbeit parallel zu anderen Lehrveranstaltungen durchgefiihrt werden kann, sind Anfangs- und Abgabetermin jeweils vom betreuenden Hochschullehrer im Einvernehmen mit dem Bearbeiter schriftlich festzulegen. Die so festgesetzte Bearbeitungsdauer soll 6 Monate nicht tiberschreiten. Gibt der Bearbeiter die Studienarbeit aus von ihm zu vertretenden Griinden nicht innerhalb der vereinbarten Frist ab, so wird die Arbeit mit "nicht ausreichend" bewertet. 
+
+Die Studienarbeit ist von dem Hochschullehrer, der die Arbeit ausgegeben hat, spatestens innerhalb von 3 Monaten nach der Abgabe zu bewerten. 
+
+f 
+
+- ' 
+
+- (2) Spatestens drei Semester nach bestandener Diplomvorpriifung ist ein Studienkonzept beim Priifungsausschu8 vorzulegen. Das Studienkonzept muB neben der gewihlten Studienrichtung folgende Angaben enthalten: 
+
+Bezeichnung der Lehrveranstaltungen mit Stundenumfang und Namen der betreffenden Dozenten von 4 Kernfachern, 4 Vertiefungsfichern und 3, héchstens 4 Wahlpflichtlehrveranstaltungen. 
+
+Die Wahlipflichtlehrveranstaltungen miissen in einem sinnvollen Zusammenhang mit dem Studium der Fachrichtung Elektrotechnik stehen, mindestens zwei Wahlpflichtlehrveranstaltungen sind aus dem Angebot der Fachrichtung Elektrotechnik zu wahlen. 
+
+Das Studienkonzept und eventuelle spatere Anderungen bediirfen der Genehmigung durch den PriifungsausschuB. 
+
+i 
+
+-9- 
+
+<!-- Start of picture text -->
+§9<br><!-- End of picture text -->
+
+#### Priifungen 
+
+- (1) Die Durchfiihrung der Diplomvorpriifung und der Diplomhauptpriifung regein die Diplompriifungsordnung DiplPrOTF sowie die Fachpriifungsordnung FPrOET in ihrer jeweils giiltigen Fassung. 
+
+- (2) Die Meldung zur Diplomvorpriifung hat so rechtzeitig zu erfolgen, daB sie bis zum Beginn der Lehrveranstaltungen des fiinften Semesters abgeschlossen ist. Beziiglich einer Uberschreitung dieser Frist wird auf § 6 Abs.2 der Diplompriifungsordnung DiplPrOTF verwiesen. ; 
+
+- (3) Die Diplomhauptpriifung umfaBt 
+
+   - a) acht Einzelfachpriifungen in vier Kernfachern und in vier Vertiefungsfachern entsprechend der gewahiten Studienrichtung, die in héchstens drei Priifungsabschnitten abgelegt werden kénnen, sowie 
+
+   - b) die Anfertigung einer Diplomarbeit, die erst nach erstmaligem Ablegen aller Einzelfachpriifungen ausgegeben wird. 
+
+Die weiteren Zulassungsvozaussetzungen zur Diplomhauptpriifung sind in § 11 der Fachpriifungsordnung FPrOET im einzeinen geregelt. 
+
+- (4) Die Meldung zur Diplomhauptpriifung hat so rechtzeitig zu erfolgen, daB der letzte Priifungsabschnitt im Priifungstermin am Ende des neunten Fachsemesters abgelegt und im unmittelbaren Anschlu8 daran die Diplomarbeit durchgefiihrt werden kann. Beziiglich einer Uberschreitung dieser Frist wird auf § 14 Abs.3 der Diplompriifungsordnung DiplPrOTF verwiesen. , 
+
+- (5) Sind die Voraussetzungen zur Zulassung gegeben, erfolgt die Qualifikation zu wissenschaftlicher Tatigkeit im Rahmen der Diplomarbeit. Die Diplomarbeit ist zugleich Bestandteil der Diplom-Hauptprifung und in 6 Monaten anzufertigen. 
+
+   - Die Durchfihrung der Diplomarbeit wird in § 17 der Diplomprifungsordnung DiplPrOTF sowie in § 13 der Fachprifungsordnung FPrOET geregelt. 
+
+-10- 
+
+#### § 10 
+
+### Anrechenbarkeit von Studienleistungen 
+
+- (1) Die Anrechnung von Studienleistungen, Studienzeiten und Priifungsleistungen richtet sich nach §§ 6a, 13 DiplPrOTF und §§ 5 Abs.5, 11 Abs.3 FPrOET. 
+
+- (2) Studienleistungen, die an anderen Hochschulen im In- oder Ausland erbracht wurden, kénnen auf Antrag vom PriifungsausschuB8 und nach Feststellung der Gleichwertigkeit der Leistungen durch den fachlich zustindigen Hochschullehrer anerkannt werden. 
+
+i 
+
+§ il 
+
+| 
+
+. Studienfithrer 
+
+Die Lehrstiihle der Elektrotechnik geben einen Studienfiihrer heraus, der unter anderem Angaben macht zu: 
+
+- Ablauf und Organisation des Grund- und Hauptstudiums 
+
+- Liste der Lehrveranstaltungen und Zahl der Semesterwochenstunden fiir das Grundstudium sowie fiir das Hauptstudium, gegliedert nach Kernfachern, Vertiefungsfichern, Wahlvor. lesungen, Praktika und Seminaren. 
+
+-11- 
+
+#### § 12 
+
+#### Studienfachberatung 
+
+- (1) Die Studienfachberatung wird durch den Studienfachberater und durch die Hochschullehrer des wissenschaftlichen Diplomstudienganges Elektrotechnik durchgefiihrt. Fiir Studienanfuinger findet cine Einfiihrungsveranstaltung statt. Es wird empfohlen, cine Studienfachberatung insbesondere in den folgenden Fallen in Anspruch zu nehmen: 
+
+   - vor der Wahl der Studienrichtung und der Aufstellung des Studienkonzeptes 
+
+   - im Fall eines Studienfach- oder Hochschulwechsels 
+
+   - im Fall eines geplanten Studiums im Ausland 
+
+   - nach nicht bestandenen Priifungen 
+
+- (2) Zu allen Fragen, die die praktische Ausbildung auBerhalb der Hochschule, das sogenannte Industriepraktikum, betreffen, gibt das Praktikantenamt Auskunft. 
+
+Insbesondere sollten Fragen zur Durchfiihrung des Praktikums vor dessen Beginn geklart werden. 
+
+§ 13 
+
+### SchluBbestimmung 
+
+Diese Studienordnung tritt am Tage ihrer Bekanntmachung in Kraft. Sie gilt fiir Studentinnen und Studenten, auf die die Fachpriifungsordnung FPrOET in der Fassung der Bekanntmachung vom 23. Marz 1987 in Verbindung mit der ersten Anderungssatzung vom 27. April 1989 anzuwenden ist. 
+
+| 
+
+-12- 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Niirnberg vom 28. Februar 1990 und nach Durchfiihrung des in Art. 72 Abs. 3 BayHSchG vorgesehenen Anzeigeverfahrens. 
+
+Erlangen, den 19. Juni 1990 
+
+( al: G. Jasper ) Rektor 
+
+Die Satzung wurde am 19. Juni 1990 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 19. Juni 1990 durch Anschlag in der Universitat Erlangen-Nirnberg bekanntgegeben. Tag der Bekanntmachung ist der 19. Juni 1990. 
 

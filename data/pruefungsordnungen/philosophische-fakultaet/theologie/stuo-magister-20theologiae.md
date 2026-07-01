@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/StuO-Magister%20Theologiae.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:41:53+00:00
-page_count_chars: 21029
+scraped_at: 2026-07-01T09:53:23+00:00
+page_count_chars: 21402
 ---
 
 # PDF vom 27. Juli 2012
@@ -14,11 +14,23 @@ page_count_chars: 21029
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text** 
 
-## **Studienordnung für den Studiengang mit Abschluss Magister Theologiae / Erstes kirchliches Examen am Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 27. Juli 2012** 
+# **Studienordnung für den Studiengang mit Abschluss Magister Theologiae / Erstes kirchliches Examen am Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 27. Juli 2012** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studienordnung: 
 
-§ 1 Geltungsbereich ............................................................................................................................. 1 § 2 Studienvoraussetzungen .............................................................................................................. 1 § 3 Studienbeginn ................................................................................................................................. 1 § 4 Studiendauer und Studienumfang ............................................................................................... 2 § 5 Ziel des Studiums .......................................................................................................................... 2 § 6 Aufbau des Studiums .................................................................................................................... 2 § 7 Grundstudium ................................................................................................................................. 2 § 8 Hauptstudium .................................................................................................................................. 6 § 9 Integrations- und Examensphase ................................................................................................ 8 § 10 Studienberatung ........................................................................................................................... 8 § 11 Ausgleich von Leistungspunkten und Modulen ....................................................................... 9 § 12 Inkrafttreten ................................................................................................................................... 9 
+|§ 1 Geltungsbereich............................................................................................................................. 1|
+|---|
+|§ 2 Studienvoraussetzungen.............................................................................................................. 1|
+|§ 3 Studienbeginn................................................................................................................................. 1|
+|§ 4 Studiendauer und Studienumfang............................................................................................... 2|
+|§ 5 Ziel des Studiums.......................................................................................................................... 2|
+|§ 6 Aufbau des Studiums.................................................................................................................... 2|
+|§ 7 Grundstudium................................................................................................................................. 2|
+|§ 8 Hauptstudium.................................................................................................................................. 6|
+|§ 9 Integrations- und Examensphase................................................................................................ 8|
+|§ 10 Studienberatung........................................................................................................................... 8|
+|§ 11 Ausgleich von Leistungspunkten und Modulen....................................................................... 9|
+|§ 12 Inkrafttreten................................................................................................................................... 9|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -42,7 +54,7 @@ Das Studium kann sowohl im Winter- als auch im Sommersemester aufgenommen werden
 
 ## **§ 4 Studiendauer und Studienumfang** 
 
-(1)[1] Von den 300 im Studiengang zu erwerbenden ECTS-Punkten sind im Grundstudium Lehrveranstaltungen im Umfang von 25 ECTS-Punkten, im Hauptstudium von 50 ECTS-Punkten und in der Integrations- und Examensphase von 11 ECTSPunkten durch die Studierenden frei zu wählen.[2] Diese Lehrveranstaltungen dienen der Vertiefung der in den Modulen angeeigneten Kompetenzen. 
+(1)<sup>1</sup> Von den 300 im Studiengang zu erwerbenden ECTS-Punkten sind im Grundstudium Lehrveranstaltungen im Umfang von 25 ECTS-Punkten, im Hauptstudium von 50 ECTS-Punkten und in der Integrations- und Examensphase von 11 ECTSPunkten durch die Studierenden frei zu wählen.<sup>2</sup> Diese Lehrveranstaltungen dienen der Vertiefung der in den Modulen angeeigneten Kompetenzen. 
 
 (2) Soweit die in § 2 Abs. 2 genannten Kenntnisse bei Beginn des Studiums noch nicht nachgewiesen sind, verlängert sich die Regelstudienzeit um jeweils ein Semester pro zu erlernende Sprache, höchstens jedoch um zwei Semester. 
 
@@ -54,42 +66,41 @@ Das Studium kann sowohl im Winter- als auch im Sommersemester aufgenommen werden
 
 ## **§ 6 Aufbau des Studiums** 
 
-(1)[1] Der Studiengang ist durch Module strukturiert und umfasst Pflicht- und Wahlmodule.[2] Dabei ist bei den Pflichtveranstaltungen deren Zuordnung zu einem Modul zu beachten.[3] In Zweifelsfällen entscheiden jeweils die von der Kollegialen Leitung des Fachbereichs eingesetzten zuständigen Modulbeauftragten. 
+(1)<sup>1</sup> Der Studiengang ist durch Module strukturiert und umfasst Pflicht- und Wahlmodule.<sup>2</sup> Dabei ist bei den Pflichtveranstaltungen deren Zuordnung zu einem Modul zu beachten.<sup>3</sup> In Zweifelsfällen entscheiden jeweils die von der Kollegialen Leitung des Fachbereichs eingesetzten zuständigen Modulbeauftragten. 
 
-(2)[1] Entsprechend den Rahmenvorgaben für die Einführung von ECTS-Punkten und die Modularisierung von Studiengängen gilt ein während oder am Ende des Moduls erbrachter Leistungsnachweis als Modulabschlussprüfung.[2] Der Leistungsnachweis ist für jedes Modul nach Art und Umfang zu beschreiben; er kann aus mehreren Teilen bestehen. 
+(2)<sup>1</sup> Entsprechend den Rahmenvorgaben für die Einführung von ECTS-Punkten und die Modularisierung von Studiengängen gilt ein während oder am Ende des Moduls erbrachter Leistungsnachweis als Modulabschlussprüfung.<sup>2</sup> Der Leistungsnachweis ist für jedes Modul nach Art und Umfang zu beschreiben; er kann aus mehreren Teilen bestehen. 
 
-(3)[1] Die Voraussetzungen für den Eintritt in die Module sind dem Modulhandbuch zu entnehmen.[2] In der Regel setzt der Besuch eines Aufbaumoduls den erfolgreichen Abschluss des entsprechenden Basismoduls voraus.[3] Über Ausnahmen entscheidet der/die Modulbeauftragte des Moduls, in das ein Studierender eintreten will. 
+(3)<sup>1</sup> Die Voraussetzungen für den Eintritt in die Module sind dem Modulhandbuch zu entnehmen.<sup>2</sup> In der Regel setzt der Besuch eines Aufbaumoduls den erfolgreichen Abschluss des entsprechenden Basismoduls voraus.<sup>3</sup> Über Ausnahmen entscheidet der/die Modulbeauftragte des Moduls, in das ein Studierender eintreten will. 
 
 ## **§ 7 Grundstudium** 
 
-(1)[1] Der Mindeststudienumfang beträgt im Grundstudium 120 ECTS-Punkte (und zusätzlich bei Bedarf 2 Sem. Sprachen).[2] Folgende Module sind pflichtmäßig zu absolvieren: 
+(1)<sup>1</sup> Der Mindeststudienumfang beträgt im Grundstudium 120 ECTS-Punkte (und zusätzlich bei Bedarf 2 Sem. Sprachen).<sup>2</sup> Folgende Module sind pflichtmäßig zu absolvieren: 
 
 2 
 
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
 |---|---|---|---|---|
-|Grundlagen des<br>Theologie-<br>studiums/<br>Propädeuticum|GK Einführung in das Studium der<br>Evangelischen Theologie(2 SWS)|2||10|
-||Ü Biblicum AT (2 SWS)|4|Klausur 90 min. o. mündl.<br>Prüfung 20 min.||
+|Grundlagen des<br>Theologie-|GK Einführung in das Studium der<br>Evangelischen Theologie(2 SWS)<br>|2||10|
+|studiums/<br>Propädeuticum|Ü Biblicum AT (2 SWS)|4|Klausur 90 min. o. mündl.<br>Prüfung 20 min.||
 ||Ü Biblicum NT (2 SWS)|4|Klausur 90 min. o. mündl.<br>Prüfung20min.||
-
-Das Biblicum ist in der „Ordnung für die Prüfung in Bibelkunde“ vom 12.10.2000 geregelt. Das Modul ist nur dann erfolgreich absolviert, wenn beide Bibelkundeprüfungen bestanden sind. 
+|Das Biblicum ist i<br>Das Modul ist nur|n der „Ordnung für die Prüfung in Bib<br>dann erfolgreich absolviert, wenn be|elkunde“<br>ide Bibelk|vom 12.10.2000 geregelt.<br>undeprüfungen bestanden sind|.|
 
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
 |---|---|---|---|---|
-|Basismodul<br>Altes Testa-<br>ment|V AT im Überblick (2 SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.|10|
-||PS Einführung in die exegetischen<br>Methoden AT (2 SWS)|3|||
+|Basismodul<br>|V AT im Überblick (2 SWS)|2|Proseminararbeit 20-25 Sei-<br>|10|
+|Altes Testa-<br>ment|PS Einführung in die exegetischen<br>Methoden AT (2 SWS)|3|ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.||
 ||V/Ü weitere Lehrveranstaltung (2<br>SWS)|2|||
-||Proseminararbeit oder Modulprü-<br>fung|3|||
-||||||
+||Proseminararbeit oder Modulprü-|3|||
+||fung||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
-|Basismodul<br>Neues Testa-<br>ment|V NT im Überblick (2 SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.|10|
-||PS Einführung in die exegetischen<br>Methoden NT (2 SWS)|3|||
+|Basismodul<br>|V NT im Überblick (2 SWS)|2|Proseminararbeit 20-25 Sei-|10|
+|Neues Testa-<br>ment|PS Einführung in die exegetischen<br>Methoden NT (2 SWS)|3|ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.||
 ||V/Ü weitere Lehrveranstaltung (2<br>SWS)|2|||
-||Proseminararbeit oder Modulprü-<br>fung|3|||
-||||||
+||Proseminararbeit oder Modulprü-|3|||
+||fung||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
-|Kirchen-<br>geschichte|V KG im Überblick 1 o. 2 o. 3 o. 4<br>(2SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.|10|
-||PS Einführung in die Methoden<br>der KG (2 SWS)|3|||
+|Kirchen-<br>geschichte|V KG im Überblick 1 o. 2 o. 3 o. 4<br>(2SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.|10|
+||PS Einführung in die Methoden<br>der KG (2 SWS)|3|mündl. Prüfung 20 min.||
 ||V KG im Überblick 1 o. 2 o. 3 o. 4<br>(2 SWS)|2|||
 ||Proseminararbeit oder Modulprü-<br>fung|3|||
 
@@ -97,30 +108,24 @@ Das Biblicum ist in der „Ordnung für die Prüfung in Bibelkunde“ vom 12.10.
 
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
 |---|---|---|---|---|
-|Basismodul<br>Systematische<br>Theologie|V Grundzüge der Dogmatik (2<br>SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.|10|
-||PS Einführung in die Methoden<br>der Systematischen Theologie (2<br>SWS)|3|||
+|Basismodul<br>Systematische<br>Theologie|V Grundzüge der Dogmatik (2<br>SWS)<br>PS Einführung in die Methoden<br>der Systematischen Theologie (2<br>SWS)|2<br>3|Proseminararbeit 20-25 Sei-<br>ten o. Klausur 90 min. o.<br>mündl. Prüfung 20 min.|10|
 ||Ü Übung zur Vorlesung „Grund-<br>züge der Dogmatik“(2SWS)|2|||
 ||Proseminararbeit oder Modulprü-<br>fung|3|||
-||||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
-|Basismodul<br>Praktische<br>Theologie|V Praktische Theologie (2 SWS)|2|Portfolio mit Teilaufgaben<br>max.20 Seiten|10|
-||PS Homiletik/Liturgik/Poimenik/<br>Publizistik(2SWS)|3|||
+|Basismodul<br>Praktische|V Praktische Theologie (2 SWS)|2|Portfolio mit Teilaufgaben<br>max.20 Seiten|10|
+|Theologie|PS Homiletik/Liturgik/Poimenik/<br>Publizistik(2SWS)|3|||
 ||PS Religions- u Gemeindepäda-<br>gogik/Diakonik/<br>Gemeindeaufbau/Pastoral-<br>theologie (2SWS)|3|||
-||schriftliche Ausarbeitung zu einem<br>der Proseminare|2|||
-||||||
+||schriftliche Ausarbeitung zu einem<br>|2|||
+||der Proseminare||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
 |Basismodul<br>Gemeinde-<br>praktikum|Ü Praktikum mit Übung (2 SWS)|2|SL|5|
-||||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
-|Inter-<br>disziplinäres<br>Basismodul|S Interdisziplinäres Seminar (2<br>SWS)|3|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||Seminararbeit oder Prüfung zum<br>interdisziplinären<br>Seminar|4|||
+|Inter-<br>disziplinäres<br>|S Interdisziplinäres Seminar (2<br>SWS)|3|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.|10|
+|Basismodul|Seminararbeit oder Prüfung zum<br>interdisziplinären<br>Seminar|4|Prüfung 20 min.||
 ||V/S/Ü Weitere interdisziplinäre<br>Lehrveranstaltung (2 SWS)|2|Klausur 90 min. o. mündl.<br>Prüfung 20 min.||
 ||Prüfung zur Lehrveranstaltung|1|||
-||||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleis-**<br>**tung**|**ECTS-**<br>**gesamt**|
-|Basismodul<br>Religions-<br>wissenschaft|V Religionswissenschaft im Über-<br>blick (2 SWS)|2|Proseminararbeit 20-25 Sei-<br>ten o. mündl. Prüfung 20 min.|10|
-||PS Einführung in die Methoden der<br>Religionswissenschaft (2 SWS)|3|||
-||V/Ü weitere LV (2 SWS)|2|||
+|Basismodul<br>Religions-<br>wissenschaft|V Religionswissenschaft im Über-<br>blick (2 SWS)<br>PS Einführung in die Methoden der<br>Religionswissenschaft (2 SWS)<br>V/Ü weitere LV (2 SWS)|2<br>3<br>2|Proseminararbeit 20-25 Sei-<br>ten o. mündl. Prüfung 20 min.|<br>10|
 ||Proseminararbeit oder mündliche<br>Modulprüfung|3|||
 
 4 
@@ -131,11 +136,11 @@ Das Biblicum ist in der „Ordnung für die Prüfung in Bibelkunde“ vom 12.10.
 ||mündliche Prüfung|3|mündl. Prüfung 20-30 min.||
 ||mündlicher Prüfung<br>_oder:_<br>weitere Proseminararbeit zu ei-<br>nem Basismodul|3|mündl.Prüfung 20-30 min.<br>o. Proseminararbeit||
 
-(2)[1] Mindestens eine der Lehrveranstaltungen aus dem Interdisziplinären Basismodul soll von zwei Dozentinnen bzw. Dozenten geleitet werden.[2] Von diesen muss mindestens einer bzw. eine dem Fachbereich Theologie angehören.[3] Die andere interdisziplinäre Lehrveranstaltung ist aus Lehrveranstaltungen auszuwählen, deren Thema interdisziplinär ausgerichtet ist und die im Vorlesungsverzeichnis als „interdisziplinäre Lehrveranstaltung“ ausgewiesen sind.[4] Wird im interdisziplinären Basismodul keine Seminararbeit verfasst, ist im interdisziplinären Aufbaumodul die Seminararbeit verpflichtend. 
+(2)<sup>1</sup> Mindestens eine der Lehrveranstaltungen aus dem Interdisziplinären Basismodul soll von zwei Dozentinnen bzw. Dozenten geleitet werden.<sup>2</sup> Von diesen muss mindestens einer bzw. eine dem Fachbereich Theologie angehören.<sup>3</sup> Die andere interdisziplinäre Lehrveranstaltung ist aus Lehrveranstaltungen auszuwählen, deren Thema interdisziplinär ausgerichtet ist und die im Vorlesungsverzeichnis als „interdisziplinäre Lehrveranstaltung“ ausgewiesen sind.<sup>4</sup> Wird im interdisziplinären Basismodul keine Seminararbeit verfasst, ist im interdisziplinären Aufbaumodul die Seminararbeit verpflichtend. 
 
-(3)[1] Zu den Pflichtmodulen und dem Wahlpflichtmodul Zwischenprüfung tritt ein 25 ECTS-Punkte umfassender Wahlbereich: 
+(3)<sup>1</sup> Zu den Pflichtmodulen und dem Wahlpflichtmodul Zwischenprüfung tritt ein 25 ECTS-Punkte umfassender Wahlbereich: 
 
-Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erworbenen Kompetenzen.[2] Es kann dabei eine (Pro-)Seminararbeit im Umfang von 5 ECTS-Punkten geschrieben werden.[3] Als Wahlmodule werden aus einem „freien Bereich“ insbesondere folgende Module anerkannt: 
+Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erworbenen Kompetenzen.<sup>2</sup> Es kann dabei eine (Pro-)Seminararbeit im Umfang von 5 ECTS-Punkten geschrieben werden.<sup>3</sup> Als Wahlmodule werden aus einem „freien Bereich“ insbesondere folgende Module anerkannt: 
 
 - Module mit Schwerpunktsetzung in einer oder mehreren der theologischen Hauptdisziplinen 
 
@@ -143,7 +148,7 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 - ein theoriebegleitetes Praktikum im Umfang von 5 ECTS-Punkten. 
 
-(4)[1] Die Studierenden haben im Wahlbereich die Möglichkeit, bis zu 10 ECTS-Punkte auch durch die Teilnahme an Modulen an der FAU außerhalb des Fachbereichs Theologie zu erwerben.[2] Als Wahlmodule können aus einem „freien Bereich“ außerhalb des Fachbereichs Theologie insbesondere die Module: 
+(4)<sup>1</sup> Die Studierenden haben im Wahlbereich die Möglichkeit, bis zu 10 ECTS-Punkte auch durch die Teilnahme an Modulen an der FAU außerhalb des Fachbereichs Theologie zu erwerben.<sup>2</sup> Als Wahlmodule können aus einem „freien Bereich“ außerhalb des Fachbereichs Theologie insbesondere die Module: 
 
 - Human- und Gesellschaftswissenschaften (z.B. Soziologie, Psychologie usw.) 
 
@@ -161,30 +166,30 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 5 
 
-**§ 8 Hauptstudium** (1) 1Der Mindeststudienumfang im Hauptstudium beträgt 120 ECTS-Punkte. 2Folgende Module sind pflichtmäßig zu absolvieren: 
+## **§ 8 Hauptstudium** (1) 1Der Mindeststudienumfang im Hauptstudium beträgt 120 ECTS-Punkte. 2Folgende Module sind pflichtmäßig zu absolvieren: 
 
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
 |---|---|---|---|---|
-|Aufbaumodul<br>Altes Testa-<br>ment|V Theologie des AT (2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||HS AT Hauptseminar (2 SWS)|3|||
+|Aufbaumodul<br>Altes Testa-|V Theologie des AT (2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.|10|
+|ment|HS AT Hauptseminar (2 SWS)<br>|3|<br>Prüfung 20 min.||
 ||V/Ü weitere Lehrveranstaltung<br>(2SWS)|2|||
-||Hauptseminararbeit oder Mo-<br>dulprüfung|3|||
-||||||
+||Hauptseminararbeit oder Mo-<br>|3|||
+||dulprüfung||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
-|Aufbaumodul<br>Neues Testa-<br>ment|V Themen der neutestamentlichen<br>Theologie (2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||HS NT Hauptseminar (2 SWS)|3|||
+|Aufbaumodul<br>Neues Testa-<br>|V Themen der neutestamentlichen<br>Theologie (2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.|10|
+|ment|HS NT Hauptseminar (2 SWS)|3|Prüfung 20 min.||
 ||V/Ü weitere Lehrveranstaltung<br>(2SWS)|2|||
-||Hauptseminararbeit oder Mo-<br>dulprüfung|3|||
-||||||
+||Hauptseminararbeit oder Mo-|3|||
+||dulprüfung||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
-|Aufbaumodul<br>Kirchen-<br>geschichte|V KG im Überblick 1 o. 2 o. 3 o. 4<br>(2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||HS KG Hauptseminar (2 SWS)|3|||
+|Aufbaumodul<br>Kirchen-<br>|V KG im Überblick 1 o. 2 o. 3 o. 4<br>(2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.|10|
+|geschichte|HS KG Hauptseminar (2 SWS)|3|Prüfung 20 min.||
 ||V/Ü weitere Lehrveranstaltung<br>(2SWS)|2|||
-||Hauptseminararbeit oder Mo-<br>dulprüfung|3|||
-||||||
+||Hauptseminararbeit oder Mo-|3|||
+||dulprüfung||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
-|Aufbaumodul<br>Systematische<br>Theologie|V Ethik im Überblick (2 SWS)|2|Seminararbeit 30 Seiten o.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||HS Hauptseminar Ethik (2 SWS)|3|||
+|Aufbaumodul<br>Sstematische|V Ethik im Überblick (2 SWS)|2|Seminararbeit 30 Seiten o.<br>|10|
+|y<br>Theologie|HS Hauptseminar Ethik (2 SWS)|3|Klausur 90 min. o. mündl.<br>Prüfung 20 min.||
 ||HS Hauptseminar Dogmatik<br>(2SWS)|3|||
 ||Hauptseminararbeit oder Mo-<br>dulprüfung|2|||
 
@@ -192,28 +197,28 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
 |---|---|---|---|---|
-|Aufbaumodul<br>Praktische<br>Theologie|HS Homiletik/Liturgik (4 SWS)|4|Seminararbeit max. 30 Seiten|10|
-||HS Religions- und Gemeindepä-<br>dagogik(4 SWS)|4|Seminararbeit max. 30 Seiten||
+|Aufbaumodul<br>Praktische|HS Homiletik/Liturgik (4 SWS)|4|Seminararbeit max. 30 Seiten|<br>10|
+|Theologie|HS Religions- und Gemeindepä-<br>dagogik(4 SWS)<br>|4|Seminararbeit max. 30 Seiten||
 ||V/Ü LV aus einer weiteren prak-<br>tisch-theologischen<br>Teildisziplin(2 SWS)|2|SL||
-||||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
-|Interdisziplinä-<br>res Aufbaumo-<br>dul|S Interdisziplinäres Seminar<br>(2SWS)|3|Seminararbeit 30 Seiten od.<br>Klausur 90 min. o. mündl.<br>Prüfung 20 min.|10|
-||Seminararbeit oder Prüfung zum<br>interdisziplinären<br>Seminar|4|||
+|Interdisziplinä-<br>res Aufbaumo-|S Interdisziplinäres Seminar<br>(2SWS)|3|Seminararbeit 30 Seiten od.<br>Klausur 90 min. o. mündl.|10|
+|dul|Seminararbeit oder Prüfung zum<br>interdisziplinären<br>Seminar|4|Prüfung 20 min.||
 ||V/S/Ü Weitere interdisziplinäre<br>Lehrveranstaltung<br>(2 SWS)|2|Klausur 90 min. o mündl.<br>Prüfung 20 min.||
 ||Prüfungzur Lehrveranstaltung|1|||
-||||||
 |**Modul**|**Veranstaltung**|**ECTS-**<br>**Punkte**|**Prüfungs- und**<br>**Studienleistung**|**ECTS-**<br>**gesamt**|
-|Modul Philoso-<br>phie|V Vorlesung Philosophie (2 SWS)|3|Mündl. Prüfung 20 min.|10|
-||S/Ü Seminar oder Übung Philoso-<br>phie (2SWS)|3|||
+|Modul Philoso-<br>|V Vorlesung Philosophie (2 SWS)|3|Mündl. Prüfung 20 min.|10|
+|phie|S/Ü Seminar oder Übung Philoso-<br>phie (2SWS)|3|||
 ||Philosophicum|4|||
 
-(2)[1] Mindestens eine der Lehrveranstaltungen aus dem Interdisziplinären Aufbaumodul soll von zwei Dozentinnen bzw. Dozenten geleitet werden.[2] Von diesen muss mindestens einer bzw. eine dem Fachbereich Theologie angehören.[3] Die andere interdisziplinäre Lehrveranstaltung ist aus Lehrveranstaltungen auszuwählen, deren Thema interdisziplinär ausgerichtet ist und die im Vorlesungsverzeichnis als „interdisziplinäre Lehrveranstaltung“ ausgewiesen sind.[4] Wurde im Rahmen des Interdisziplinären Basismoduls keine Seminararbeit verfasst, so ist im Interdisziplinären Aufbaumodul die Seminararbeit verpflichtend. 
+(2)<sup>1</sup> Mindestens eine der Lehrveranstaltungen aus dem Interdisziplinären Aufbaumodul soll von zwei Dozentinnen bzw. Dozenten geleitet werden.<sup>2</sup> Von diesen muss mindestens einer bzw. eine dem Fachbereich Theologie angehören.<sup>3</sup> Die andere interdisziplinäre Lehrveranstaltung ist aus Lehrveranstaltungen auszuwählen, deren Thema interdisziplinär ausgerichtet ist und die im Vorlesungsverzeichnis als „interdisziplinäre Lehrveranstaltung“ ausgewiesen sind.<sup>4</sup> Wurde im Rahmen des Interdisziplinären Basismoduls keine Seminararbeit verfasst, so ist im Interdisziplinären Aufbaumodul die Seminararbeit verpflichtend. 
 
-(3)[1] In den Fächern AT oder NT ist eine schriftliche Hausarbeit anzufertigen.[2] Falls in einem der beiden Fächer keine schriftliche Proseminararbeit geschrieben wurde, muss im Aufbaumodul dieses Faches eine Hausarbeit angefertigt werden.[3] Dieselbe Regelung gilt für die Fächer KG und ST.[4] Schließlich ist eine weitere der beiden Modulabschlussprüfungen der vier genannten Disziplinen als schriftliche Hausarbeit abzufassen. 
+(3)<sup>1</sup> In den Fächern AT oder NT ist eine schriftliche Hausarbeit anzufertigen.<sup>2</sup> Falls in einem der beiden Fächer keine schriftliche Proseminararbeit geschrieben wurde, muss im Aufbaumodul dieses Faches eine Hausarbeit angefertigt werden.<sup>3</sup> Dieselbe Regelung gilt für die Fächer KG und ST.<sup>4</sup> Schließlich ist eine weitere der beiden Modulabschlussprüfungen der vier genannten Disziplinen als schriftliche Hausarbeit abzufassen. 
 
 7 
 
-(4)[1] Hinzu tritt ein 50 ECTS-Punkte umfassender Wahlbereich: Die Module des Wahlbereichs dienen der Festigung der in den Pflicht- bzw. Wahlpflichtmodulen erworbenen Kompetenzen.[2] Als Wahlmodule werden insbesondere folgende Module anerkannt: 
+(4)<sup>1</sup> Hinzu tritt ein 50 ECTS-Punkte umfassender Wahlbereich: 
+
+Die Module des Wahlbereichs dienen der Festigung der in den Pflicht- bzw. Wahlpflichtmodulen erworbenen Kompetenzen.<sup>2</sup> Als Wahlmodule werden insbesondere folgende Module anerkannt: 
 
 - Module mit Schwerpunktsetzung in einer oder mehreren der theologischen Hauptdisziplinen 
 
@@ -223,7 +228,7 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 - ein theoriebegleitetes Praktikum im Umfang von 5 ECTS-Punkten. 
 
-(5)[1] Die Studierenden haben die Möglichkeit, bis zu 20 ECTS-Punkte durch die Teilnahme an Modulen in anderen Fakultäten/Fachbereichen der FAU zu erwerben.[2] Als Wahlmodule können insbesondere Module aus folgenden Bereichen außerhalb des Fachbereichs Theologie gewählt werden: 
+(5)<sup>1</sup> Die Studierenden haben die Möglichkeit, bis zu 20 ECTS-Punkte durch die Teilnahme an Modulen in anderen Fakultäten/Fachbereichen der FAU zu erwerben.<sup>2</sup> Als Wahlmodule können insbesondere Module aus folgenden Bereichen außerhalb des Fachbereichs Theologie gewählt werden: 
 
 - Human- und Gesellschaftswissenschaften (z.B. Soziologie, Psychologie usw.) 
 
@@ -237,7 +242,7 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 ## **§ 9 Integrations- und Examensphase** 
 
-(1)[1] Der Mindeststudienumfang der Integrations- und Examensphase beträgt 60 ECTS-Punkte; davon sind 20 ECTS-Punkte für die Magisterarbeit vorgesehen. 2Folgende Module sind pflichtmäßig zu absolvieren: 
+(1)<sup>1</sup> Der Mindeststudienumfang der Integrations- und Examensphase beträgt 60 ECTS-Punkte; davon sind 20 ECTS-Punkte für die Magisterarbeit vorgesehen. 2Folgende Module sind pflichtmäßig zu absolvieren: 
 
 - Integrationsmodul Altes Testament 5 ECTS-Punkte 
 
@@ -249,13 +254,13 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 - Integrationsmodul Praktische Theologie 5 ECTS-Punkte. 
 
-(2)[1] Es werden in den Integrationsmodulen jeweils Lehrveranstaltungen angeboten, in denen die Disziplinen hinsichtlich des Grundwissens und der Bildung von Schwerpunkten unter Anleitung erarbeitet werden.[2] Sie dienen zugleich der Vorbereitung auf die Klausurarbeiten und die mündlichen Prüfungen. 
+(2)<sup>1</sup> Es werden in den Integrationsmodulen jeweils Lehrveranstaltungen angeboten, in denen die Disziplinen hinsichtlich des Grundwissens und der Bildung von Schwerpunkten unter Anleitung erarbeitet werden.<sup>2</sup> Sie dienen zugleich der Vorbereitung auf die Klausurarbeiten und die mündlichen Prüfungen. 
 
 (3) Dazu treten im Wahlbereich zur Schwerpunktbildung Module im Umfang von mindestens 15 ECTS-Punkten. 
 
 (4) Die im Rahmen einer Blockprüfung stattfindenden Klausurarbeiten und mündlichen Prüfungen gelten als Modulabschlussprüfungen der Integrationsmodule. 
 
-(5)[1] Die Magisterarbeit kann in jedem der fünf Hauptfächer geschrieben werden.[2] In ihr wird eine theologische Fragestellung selbstständig nach wissenschaftlichen Methoden bearbeitet.[3] Dafür stehen 12 Wochen zur Verfügung.[4] Die Magisterarbeit soll 60 Seiten (144.000 Zeichen) nicht übersteigen.[5] Dem können noch Materialien hinzugefügt werden. 
+(5)<sup>1</sup> Die Magisterarbeit kann in jedem der fünf Hauptfächer geschrieben werden.<sup>2</sup> In ihr wird eine theologische Fragestellung selbstständig nach wissenschaftlichen Methoden bearbeitet.<sup>3</sup> Dafür stehen 12 Wochen zur Verfügung.<sup>4</sup> Die Magisterarbeit soll 60 Seiten (144.000 Zeichen) nicht übersteigen.<sup>5</sup> Dem können noch Materialien hinzugefügt werden. 
 
 ## **§ 10 Studienberatung** 
 
@@ -263,13 +268,13 @@ Die Module des Wahlbereichs dienen der Festigung der in den Pflichtmodulen erwor
 
 8 
 
-(2)[1] Die studienbegleitende Fachberatung im Studiengang ist Aufgabe des Fachbereichs Theologie.[2] Es wird empfohlen, zwei Studienberatungen am Anfang und Ende des 1. Fachsemesters durch beauftragte Lehrende des Fachbereichs wahrzunehmen.[3] Dazu können weitere Beratungen durch die Lehrenden und ggf. die Studienfachberaterin / den Studienfachberater des Fachbereichs Theologie in Anspruch genommen werden. 
+(2)<sup>1</sup> Die studienbegleitende Fachberatung im Studiengang ist Aufgabe des Fachbereichs Theologie.<sup>2</sup> Es wird empfohlen, zwei Studienberatungen am Anfang und Ende des 1. Fachsemesters durch beauftragte Lehrende des Fachbereichs wahrzunehmen.<sup>3</sup> Dazu können weitere Beratungen durch die Lehrenden und ggf. die Studienfachberaterin / den Studienfachberater des Fachbereichs Theologie in Anspruch genommen werden. 
 
 (3) Die studienbegleitende Fachberatung erstreckt sich auf Fragen der Studieneignung sowie insbesondere auf die Information über Studienmöglichkeiten, Studieninhalte, Studienaufbau und Studienanforderungen. 
 
 ## **§ 11 Ausgleich von Leistungspunkten und Modulen** 
 
-1Sehen Bestimmungen in den jeweiligen landeskirchlichen Prüfungsordnungen für die Ableistung von Modulen oder Teilmodulen (etwa bei den Modulen Gemeindepraktikum und Philosophicum) eine andere Zuordnung zu Grund und Hauptstudium vor als in der vorliegenden Studienordnung vorgesehen, kann die Differenz an Leistungspunkten über den Wahlbereich ausgeglichen werden.[2] Das selbe gilt auch dann, wenn die andere Zuordnung zu Grund- und Hauptstudium durch einen Studienortwechsel bedingt ist. 
+1Sehen Bestimmungen in den jeweiligen landeskirchlichen Prüfungsordnungen für die Ableistung von Modulen oder Teilmodulen (etwa bei den Modulen Gemeindepraktikum und Philosophicum) eine andere Zuordnung zu Grund und Hauptstudium vor als in der vorliegenden Studienordnung vorgesehen, kann die Differenz an Leistungspunkten über den Wahlbereich ausgeglichen werden.<sup>2</sup> Das selbe gilt auch dann, wenn die andere Zuordnung zu Grund- und Hauptstudium durch einen Studienortwechsel bedingt ist. 
 
 ## **§ 12 Inkrafttreten** 
 

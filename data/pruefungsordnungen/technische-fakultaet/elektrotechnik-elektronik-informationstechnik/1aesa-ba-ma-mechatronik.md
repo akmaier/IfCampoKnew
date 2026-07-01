@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_BA-MA_Mechatronik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:17+00:00
-page_count_chars: 7843
+scraped_at: 2026-07-01T11:33:22+00:00
+page_count_chars: 7528
 ---
 
 # 25. Juli 2008
@@ -12,7 +12,7 @@ page_count_chars: 7843
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_BA-MA_Mechatronik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOMECH–** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOMECH–** 
 
 Vom 25. Juli 2008 
 
@@ -24,37 +24,39 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an
 
 1. § 35 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden das Wort „Praktikantenamt“ durch das Wort 
+      - a) In Abs. 1 werden das Wort „Praktikantenamt“ durch das Wort 
 
-      - „Praktikumsamt“ und das Wort „Praktikantenrichtlinien“ durch das Wort „Praktikumsrichtlinien“ ersetzt. 
+         - „Praktikumsamt“ und das Wort „Praktikantenrichtlinien“ durch das Wort „Praktikumsrichtlinien“ ersetzt. 
 
-   - b) In Abs. 2 wird die Zahl 31 durch die Zahl 30 ersetzt. 
+      - b) In Abs. 2 wird die Zahl 31 durch die Zahl 30 ersetzt. 
 
 2. In § 36 Abs. 1 wird das Wort „drei“ durch das Wort „vier“ ersetzt, nach dem Wort „Semester,“ wird das Wort „einschließlich“ eingefügt. 
 
-## 3. § 37 wird wie folgt geändert: 
+3. § 37 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden die Worte „nach § 35 Abs. 1“ gestrichen. 
+      - a) In Abs. 1 werden die Worte „nach § 35 Abs. 1“ gestrichen. 
 
-   - b) In Abs. 2 Satz 1 wird das Wort „Pflichtmodule“ durch das Wort „Module“ ersetzt; Satz 2 wird gestrichen. Der bisherige Abs. 2 Satz 1 wird zu Abs. 1 Satz 2. 
+      - b) In Abs. 2 Satz 1 wird das Wort „Pflichtmodule“ durch das Wort „Module“ ersetzt; Satz 2 wird gestrichen. Der bisherige Abs. 2 Satz 1 wird zu Abs. 1 Satz 2. 
 
 4. § 39 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird gestrichen; die Absätze 2 und 3 werden zu Absätzen 1 und 2. 
+      - a) Abs. 1 wird gestrichen; die Absätze 2 und 3 werden zu Absätzen 1 und 2. 
 
-   - b) In Abs. 1 werden die Worte „abweichend von Abs. 1“ gestrichen. 
+      - b) In Abs. 1 werden die Worte „abweichend von Abs. 1“ gestrichen. 
 
 5. § 41 wird wie folgt geändert: 
 
-   - a) Die Worte „Institute für Elektrotechnik, Elektronik und Informationstechnik“ werden durch die Worte „Departments für Elektrotechnik - Elektronik – Informationstechnik“ ersetzt. 
+      - a) Die Worte „Institute für Elektrotechnik, Elektronik und Informationstechnik“ werden durch die Worte „Departments für Elektrotechnik - Elektronik – Informationstechnik“ ersetzt. 
 
-   - b) Abs. 3 Satz 2 wird gestrichen. 
+      - b) Abs. 3 Satz 2 wird gestrichen. 
 
-6. In § 42 Abs. 2 wird folgender Satz 4 angefügt: „4Bei der Bildung der Modulnote des Moduls B 30 (Bachelorarbeit) gehen die Bewertungen der Bachelorarbeit und des Hauptseminars jeweils mit dem Gewicht ihrer ECTS-Punkte gemäß Anlage 1 ein.“ 
+6. In § 42 Abs. 2 wird folgender Satz 4 angefügt: 
+
+   - „4Bei der Bildung der Modulnote des Moduls B 30 (Bachelorarbeit) gehen die Bewertungen der Bachelorarbeit und des Hauptseminars jeweils mit dem Gewicht ihrer ECTS-Punkte gemäß Anlage 1 ein.“ 
 
 7. § 44 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt gefasst: „Das Masterstudium beinhaltet die Module der Anlage 2.“ 
+      - a) Abs. 1 wird wie folgt gefasst: „Das Masterstudium beinhaltet die Module der Anlage 2.“ 
 
    - b) Abs. 3 wird wie folgt gefasst: „Zwei Hochschulpraktika sowie zwei Hauptseminare sind aus den Angeboten folgender Departments zu wählen: Maschinenbau, Elektrotechnik-Elektronik-Informationstechnik, Informatik.“ 
 
@@ -70,46 +72,46 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an
 
 11. Die Anlagen 1 und 2 werden wie folgt gefasst: 
 
-## **Anlage 1** 
+### **Anlage 1** 
 
-|Modul<br>daten|||Umfang|Umfang||Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Prü-<br>fung1)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||in SWS||||||||||
-|Nr.|Modulbezeichnung||V|Ü|P|1.|2.|3.|4.|5.|6.||
-|B 1|Mathematik A 1|GOP|4|2||7,5||||||90 + uSL|
-|B 2|Mathematik A 2|GOP|5|3|||10|||||120+ uSL|
-|B 3|Mathematik A 3||2|2||||5||||60|
-|B 4|Grundlagen der Elektrotechnik I|GOP|4|2||7,5||||||120|
-|B 5|Grundlagen der Elektrotechnik II|GOP|2|2|||5|||||90|
-|B 6|Grundlagen der Elektrotechnik III||2|2||||5||||90|
-|B 7|Praktikum Grundlagen der Elektrotechnik||||2|||2,5||||uSL|
-|B 8|Statik und Festigkeitslehre|GOP|3|2|1||7,5|||||90|
-|B 9|Dynamik starrer Körper||3|2|1|||7,5||||90|
-|B 10|Grundlagen der Informatik|GOP|3|3||7,5||||||90 +uSL|
-|B 11|Systemnahe Programmierungin C|GOP|2|2|||5|||||90|
-|B 12|Eingebettete Systeme||2|2||||||5||90|
-|B 13|Digitaltechnik|GOP|2|2||5,0||||||90|
-|B 14|Werkstoffkunde||4|||||5||||120|
-|B 15|Praktikum Mechatronische Systeme||||4||||5|||uSL|
-|B 16|Grundlagen der Messtechnik||2|2||||||5||60|
-|B 17|Produktionstechnik I und II2)||4|||||2,5|2,5|||120|
-|B 18|Halbleiterbauelemente||2|2|||||5|||90|
-|B 19|Schaltungstechnik||2|2|||||5|||90|
-|B 20|Technische Darstellungslehre 1||||2|2,5||||||uSL|
-||Technische Darstellungslehre 2||||2||2,5|||||uSL|
-|B 21|Grundlagen der Produktentwicklung||4|2||||||7,5||120|
-|B 22|Grundlagen der Elektrischen Antriebstechnik||2|1|||||5|||90|
-||Praktikum Grundlagen der<br>Elektrischen Antriebstechnik||||2|||||||uSL|
-|B 23|Einführungin die Systemtheorie||2|2|||||5|||90|
-|B 24|Regelungstechnik A(Grundlagen)||2|2||||||5||90|
-|B 25|Sensorik||2|2||||||5||90|
-|B 26|1. Wahlpflichtmodul(aus Katalog)||2|2||||||2,5|2,5|3)|
-|B 27|2. Wahlpflichtmodul(aus Katalog)||2|2|||||||5|3)|
-|B 28|nichttechnische Wahlmodule||6|||||2,5|2,5||2,5|bSL|
-|B 29|Berufspraktische Tätigkeit (Praktikum)||12 Wochen inkl. 6<br>Wochen<br>Vorpraktikum||||||||7,5|uSL|
-|B 30|Bachelorarbeit||||||||||10|bSL|
-||Hauptseminar||||||||||2,5||
-||Summen|||||30,0 <br>|30,0|30,0|30,0|30,0|30,0||
+|Modul<br>daten|||Umf|ang|Verte<br>auf d|ilun<br>ie S|g der<br>emes|ECT<br>ter|S-Pu|nkte|Prü-<br>fung1)|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||in S|WS||||||||
+|Nr.|Modulbezeichnung||V|Ü<br>P|1.|2.|3.|4.|5.|6.||
+|B 1|Mathematik A 1|GOP|4|2|7,5||||||90 + uSL|
+|B 2|Mathematik A 2|GOP|5|3||10|||||120+ uSL|
+|B 3|Mathematik A 3||2|2|||5||||60|
+|B 4|Grundlagen der Elektrotechnik I|GOP|4|2|7,5||||||120|
+|B 5|Grundlagen der Elektrotechnik II|GOP|2|2||5|||||90|
+|B 6|Grundlagen der Elektrotechnik III||2|2|||5||||90|
+|B 7|Praktikum Grundlagen der Elektrotechnik|||2|||2,5||||uSL|
+|B 8|Statik und Festigkeitslehre|GOP|3|2<br>1||7,5|||||90|
+|B 9|Dynamik starrer Körper||3|2<br>1|||7,5||||90|
+|B 10|Grundlagen der Informatik|GOP|3|3|7,5||||||90 +uSL|
+|B 11|Systemnahe Programmierungin C|GOP|2|2||5|||||90|
+|B 12|Eingebettete Systeme||2|2|||||5||90|
+|B 13|Digitaltechnik|GOP|2|2|5,0||||||90|
+|B 14|Werkstoffkunde||4||||5||||120|
+|B 15|Praktikum Mechatronische Systeme|||4||||5|||uSL|
+|B 16|Grundlagen der Messtechnik||2|2|||||5||60|
+|B 17|Produktionstechnik I und II<sup>2)</sup>||4||||2,5|2,5|||120|
+|B 18|Halbleiterbauelemente||2|2||||5|||90|
+|B 19|Schaltungstechnik||2|2||||5|||90|
+|B 20|Technische Darstellungslehre 1|||2|2,5||||||uSL|
+||Technische Darstellungslehre 2|||2||2,5|||||uSL|
+|B 21|Grundlagen der Produktentwicklung||4|2|||||7,5||120|
+||Grundlagen der Elektrischen Antriebstechnik||2|1|||||||90|
+|B 22|Praktikum Grundlagen der<br>Elektrischen Antriebstechnik|||2||||5|||uSL|
+|B 23|Einführungin die Systemtheorie||2|2||||5|||90|
+|B 24|Regelungstechnik A(Grundlagen)||2|2|||||5||90|
+|B 25|Sensorik||2|2|||||5||90|
+|B 26|1. Wahlpflichtmodul(aus Katalog)||2|2|||||2,5|2,5|3)|
+|B 27|2. Wahlpflichtmodul(aus Katalog)||2|2||||||5|3)|
+|B 28|nichttechnische Wahlmodule||6||||2,5|2,5||2,5|bSL|
+|B 29|Berufspraktische Tätigkeit (Praktikum)||12 W<br> <br>Vor|ochen inkl. 6<br>Wochen<br>praktikum||||||7,5|uSL|
+|B 30|Bachelorarbeit|||||||||10|bSL|
+||Hauptseminar|||||||||2,5||
+||||S|ummen|30,0 <br>|30,0|30,0|30,0|30,0|30,0||
 
 Erläuterungen: 
 
@@ -121,21 +123,21 @@ Erläuterungen:
 
 Anlage 2: 
 
-|Moduldaten|Moduldaten|SWS|SWS|SWS|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Verteilung der ECTS-Punkte<br>auf die Semester|Prü-<br>fung1)|
-|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modulbezeichnung|V|Ü|P|1.|2.|3.|4.||
-|M 1|Vertiefungsrichtung1|12|||5|5|5||2)|
-|M 2|Vertiefungsrichtung2|12|||5|5|5||2)|
-|M 3|1. Wahlpflichtmodul(aus Katalog)|4|||5||||2)<br>|
-|M 4|2. Wahlpflichtmodul(aus Katalog)|4|||2,5|2,5|||~~2)~~|
-|M 5|3. Wahlpflichtmodul(aus Katalog)|4||||5|||2)|
-|M 6|Technische Wahlmodule|10|||5|5|2,5||bSL|
-|M 7|Nichttechnische Wahlmodule|10|||7,5|5|||bSL|
-|M 8|2 Hochschulpraktika|||4||2,5|2,5||uSL|
-|M 9|2 Hauptseminare|||4|||5||bSL|
-|M 10|Berufspraktische Tätigkeit|8 Wochen gemäß<br>Praktikumsrichtlinie|||||10||uSL|
-|M 11|Masterarbeit|Umfang ca. 900 Stunden<br>innerhalb von 6 Monaten<br>Bearbeitungszeit||||||30|bSL|
-|Summen|||||30,0|30,0|30,0|30,0||
+||Moduldaten|SWS||Verteil<br>a|ung der<br>uf die S|ECTS-P<br>emeste|unkte<br>r|Prü-<br><sup>1</sup>|
+|---|---|---|---|---|---|---|---|---|
+|Nr.|Modulbezeichnung|V<br>Ü|P|1.|2.|3.|4.|fung<sup>)</sup>|
+|M 1|Vertiefungsrichtung1|12||5|5|5||2)<br>|
+|M 2|Vertiefungsrichtung2|12||5|5|5||2)|
+|M 3|1. Wahlpflichtmodul(aus Katalog)|4||5||||2)<br>|
+|M 4|2. Wahlpflichtmodul(aus Katalog)|4||2,5|2,5|||~~2)~~<br>|
+|M 5|3. Wahlpflichtmodul(aus Katalog)|4|||5|||2)|
+|M 6|Technische Wahlmodule|10||5|5|2,5||bSL|
+|M 7|Nichttechnische Wahlmodule|10||7,5|5|||bSL|
+|M 8|2 Hochschulpraktika||4||2,5|2,5||uSL|
+|M 9|2 Hauptseminare||4|||5||bSL|
+|M 10|Berufspraktische Tätigkeit|8 Wochen gem<br>Praktikumsricht|äß<br>linie|||10||uSL|
+|M 11|Masterarbeit|Umfang ca. 900 S<br>innerhalb von 6 M<br>Bearbeitungsz|tunden<br>onaten<br>eit||||30|bSL|
+|||S|ummen|30,0|30,0|30,0|30,0||
 
 Erläuterungen: 
 

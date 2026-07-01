@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/FachStuO+PrO%20MA%20LiteratStudien.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:33:09+00:00
-page_count_chars: 6970
+scraped_at: 2026-07-01T09:44:47+00:00
+page_count_chars: 6886
 ---
 
 # PDF vom 08.06.2010
@@ -12,7 +12,7 @@ page_count_chars: 6970
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/FachStuO+PrO%20MA%20LiteratStudien.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang „Literaturstudien - intermedial und interkulturell“ an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - MFPOLitStud -** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang „Literaturstudien - intermedial und interkulturell“ an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - MFPOLitStud -** 
 
 Vom 8. Juni 2010 
 
@@ -28,13 +28,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **gen** 
 
-(1)[1] Als fachspezifischer Abschluss im Sinne des § 35 Abs. 1 Nr. 1 ABMStPO/Phil gilt ein Bachelorabschluss im gewählten Kernfach (Amerikanistik / Anglistik / Germanistik / Nordistik / Komparatistik / Romanistik bzw. Französisch, Spanisch oder Italienisch). 2Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Bachelorabschlüsse in anderen Fachrichtungen wie insbesondere Buchwissenschaft, Kunstgeschichte, Mittellatein, Religionswissenschaft, christliche Publizistik, Soziologie oder Theater- und Medienwissenschaften anerkannt. 
+(1)<sup>1</sup> Als fachspezifischer Abschluss im Sinne des § 35 Abs. 1 Nr. 1 ABMStPO/Phil gilt ein Bachelorabschluss im gewählten Kernfach (Amerikanistik / Anglistik / Germanistik / Nordistik / Komparatistik / Romanistik bzw. Französisch, Spanisch oder Italienisch). 2Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Bachelorabschlüsse in anderen Fachrichtungen wie insbesondere Buchwissenschaft, Kunstgeschichte, Mittellatein, Religionswissenschaft, christliche Publizistik, Soziologie oder Theater- und Medienwissenschaften anerkannt. 
 
 (2) Mit den Bewerbungsunterlagen sind Nachweise über Sprachkenntnissen im jeweiligen Kernfach Niveau C1 (GER); bei Kernfach Germanistik eine moderne Fremdsprache Niveau B2 (GER) einzureichen. 
 
-(3)[1] Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 und Bewerberinnen und Bewerber fachverwandter oder gleichwertiger Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00 müssen ein Motivationsschreiben (ca. 2 Seiten) einreichen. Darüber hinaus findet ein Auswahlgespräch statt.[2] Das Motivationsschreiben und das Auswahlgespräch sollen zeigen, ob die Bewerberin und 
+(3)<sup>1</sup> Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 und Bewerberinnen und Bewerber fachverwandter oder gleichwertiger Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00 müssen ein Motivationsschreiben (ca. 2 Seiten) einreichen. Darüber hinaus findet ein Auswahlgespräch statt.<sup>2</sup> Das Motivationsschreiben und das Auswahlgespräch sollen zeigen, ob die Bewerberin und 
 
-der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
+der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
 
 1. Sichere Kenntnisse in den fachspezifischen Grundlagen. 
 
@@ -54,20 +54,20 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Um-**<br>**fang der Prü-**<br>**fung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-|1|**Modul 1**<br>**Interdisziplinäres Basismodul zur**<br>**Einführung in den Theoriekomplex**<br>**Literatur/Kultur/Medien**|V|2|5|10|Vorlesungsmit-<br>schrift|SL|
-|||Ü|2|5||Referat mit<br>Thesenpapier|100%|
-||**Modul 2**<br>**Basismodul Aktuelle Inter-**<br>**kulturalitäts- und Intermedialitäts-**<br>**theorien**|Ü|2|5|10|Referat mit<br>Thesenpapier/<br>Essay (ca. 10<br>Seiten)|50%|
-|||Ü|2|5||Referat mit<br>Thesenpapier/<br>Essay (ca. 10<br>Seiten)|50%|
+||**Modul 1**<br>**Interdisziplinäres Basismodul zur**<br>**Einführun in den Theoriekomlex**|V|2|5|10|Vorlesungsmit-<br>schrift|SL|
+||**g   p**<br>**Literatur/Kultur/Medien**|Ü|2|5||Referat mit<br>Thesenpapier|100%|
+||**Modul 2**<br>**Basismodul Aktuelle Inter-**<br>**kulturalitäts- und Intermedialitäts-**|Ü|2|5|10|Referat mit<br>Thesenpapier/<br>Essay (ca. 10<br>Seiten)|50%|
+|1|<br>**theorien**|Ü|2|5||Referat mit<br>Thesenpapier/<br>Essay (ca. 10<br>Seiten)|50%|
 ||**Modul 3**<br>**Interdisziplinäres Basismodul zur**<br>**konkreten Analyse von Medialität**<br>**und Kulturalität**|HS|3|10|10|Referat mit<br>Thesenpapier<br>und schriftliche<br>Hausarbeit (ca.<br>20 Seiten)|100%|
-|2|**Modul 4**<br>**Aufbaumodul (Kernfach)**<br>**Intermediale/interkulturelle Literatur-**<br>**analyse**|2 LV, in der Regel insge-<br>samt 4 SWS|||10|Je nach Festlegungen<br>im jeweiligen Kernfach||
-||**Modul 5**<br>**Aufbaumodul**<br>**Kultur-/Medien-Analyse (Fächerpool)**|Importmodule, in der Re-<br>gel 2 LV mit insgesamt 4<br>SWS|||10|Je nach Festlegungen<br>im Importfach||
+|2|**Modul 4**<br>**Aufbaumodul (Kernfach)**<br>**Intermediale/interkulturelle Literatur-**<br>**analyse**|2 LV, in<br>samt 4|der Rege<br>SWS|l insge-|10|Je nach Festleg<br>im jeweiligen Ke|ungen<br>rnfach|
+||**Modul 5**<br>**Aufbaumodul**<br>**Kultur-/Medien-Analyse (Fächerpool)**|Importm<br>gel 2 LV<br>SWS|odule, in<br>mit insg|der Re-<br>esamt 4|10|Je nach Festleg<br>im Importfach|ungen|
 
-||**Modul 6**<br>**Sprachpraxis**<br>**(je nach Kernfach und vorhandener**<br>**Fremdsprachenkompetenz)**[auch auf<br>mehrere Semester verteilbar]|Importmodule, in der Re-<br>gel 2 LV mit insgesamt 4<br>SWS|Importmodule, in der Re-<br>gel 2 LV mit insgesamt 4<br>SWS|Importmodule, in der Re-<br>gel 2 LV mit insgesamt 4<br>SWS|10|Je nach Festlegungen<br>für die Sprachkurse|Je nach Festlegungen<br>für die Sprachkurse|
+||**Modul 6**<br>**Sprachpraxis**<br>**(je nach Kernfach und vorhandener**<br>**Fremdsprachenkompetenz)**[auch auf<br>mehrere Semester verteilbar]|Importm<br>gel 2 LV<br>SWS|odule, i<br>mit ins|n der Re-<br>gesamt 4|10|Je nach Festleg<br>für die Sprachku|ungen<br>rse|
 |---|---|---|---|---|---|---|---|
-|3|**Modul 7**<br>**Vertiefungsmodul**<br>**Kultur-/Medien-Analyse (Fächerpool)**|Importmodule, in der Re-<br>gel 2 LV mit insgesamt 4<br>SWS|||10|Je nach Festlegungen<br>im Importfach||
-||**Modul 8**<br>**Ergänzungsstudien**<br>**Intermediale/interkulturelle Literatur-**<br>**analyse**|Module, in der Regel 2 LV<br>mit insgesamt 4 SWS|||10|Je nach Festlegungen<br>im jeweiligen Fach||
-||**Modul 9**<br>**Vertiefungsmodul**<br>**Intermediale/interkulturelle Literatur-**<br>**analyse**|HS|2|8|10|Referat mit<br>Thesenpapier<br>und schriftliche<br>Hausarbeit (ca.<br>20 Seiten)|100 %|
-|||Study<br>Group|2|2||Präsentation<br>des MA-Pro-<br>jekts|SL|
+||**Modul 7**<br>**Vertiefungsmodul**<br>**Kultur-/Medien-Analyse (Fächerpool)**|Importm<br>gel 2 LV<br>SWS|odule, i<br>mit ins|n der Re-<br>gesamt 4|10|Je nach Festleg<br>im Importfach|ungen|
+|3|**Modul 8**<br>**Ergänzungsstudien**<br>**Intermediale/interkulturelle Literatur-**<br>**analyse**|Module,<br>mit insge|in der<br>samt 4|Regel 2 LV<br>SWS|10|Je nach Festleg<br>im jeweiligen Fa|ungen<br>ch|
+||**Modul 9**<br>**Vertiefungsmodul**<br>**Intermediale/interkulturelle Literatur-**|HS|2|8|10|Referat mit<br>Thesenpapier<br>und schriftliche<br>Hausarbeit (ca.<br>20 Seiten)|100 %|
+||**analyse**|Study<br>Group|2|2||Präsentation<br>des MA-Pro-<br>jekts|SL|
 |4|**Masterarbeit**|Study<br>Group|2|2|30|Präsentation<br>des MA-Pro-<br>jekts|SL|
 |||Master-<br>arbeit||28||Masterarbeit<br>(70-90 Seiten)|100 %|
 

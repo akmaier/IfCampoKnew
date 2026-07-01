@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:07:43+00:00
-page_count_chars: 1633
+scraped_at: 2026-07-01T11:29:27+00:00
+page_count_chars: 1629
 ---
 
 # 5. August 2011
@@ -12,13 +12,13 @@ page_count_chars: 1633
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES-BA%20MA-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik  an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOEEI -** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik  an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOEEI -** 
 
-## Vom 5. August 2011 
+# Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, zuletzt geändert durch Satzung vom 17. Januar 2011, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
 3. In den Anlagen 1 und 2 werden jeweils die Spalten „Umfang SWS (V, Ü, P)“ gestrichen sowie die jeweiligen Buchstaben „Summe V+Ü-P“ durch das Wort „Gesamtsumme SWS“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 
 

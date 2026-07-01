@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO Deutsche Sprachprüfung für Hochschulzugang DSH 20220512 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/DSH/Aenderungssatzungen/PO_Deutsche_Sprachpruefung_fuer_Hochschulzugang_DSH_20220512_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:42+00:00
-page_count_chars: 6438
+scraped_at: 2026-07-01T11:12:54+00:00
+page_count_chars: 6499
 ---
 
 # PO Deutsche Sprachprüfung für Hochschulzugang DSH 20220512 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 6438
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/DSH/Aenderungssatzungen/PO_Deutsche_Sprachpruefung_fuer_Hochschulzugang_DSH_20220512_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
 
-## **Neunte Satzung zur Änderung der Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) über die Deutsche Sprachprüfung für den Hochschulzugang – DSH –** 
+# **Neunte Satzung zur Änderung der Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) über die Deutsche Sprachprüfung für den Hochschulzugang – DSH –** 
 
-## **Vom 12. Mai 2022** 
+# **Vom 12. Mai 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 Satz 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) über die Deutsche Sprachprüfung für den Hochschulzugang – DSH – vom 23. September 1997 (KWMBl II 1998 S. 163), zuletzt geändert durch Satzung vom 29. April 2021, wird wie folgt geändert: 
 
@@ -28,23 +28,23 @@ Die Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FA
 
 3. § 3 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach den Worten „als Prüfungsvorsitzende bzw. als Prüfungsvorsitzender verantwortlich“ das Komma und die Worte „die bzw. der zusammen mit einer Stellvertreterin bzw. einem Stellvertreter aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen bzw. Hochschullehrer, die im Bereich Deutsch als Fremdsprache hauptamtlich tätig sind, vom Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt wird“ gestrichen. 
+- aa) In Satz 1 werden nach den Worten „als Prüfungsvorsitzende bzw. als Prüfungsvorsitzender verantwortlich“ das Komma und die Worte „die bzw. der zusammen mit einer Stellvertreterin bzw. einem Stellvertreter aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen bzw. Hochschullehrer, die im Bereich Deutsch als Fremdsprache hauptamtlich tätig sind, vom Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt wird“ gestrichen. 
 
 bb) Nach Satz 1 werden folgende neuen Sätze 2 bis 4 eingefügt: 
 
-„[2] Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt eine Prüfungsvorsitzende bzw. einen Prüfungsvorsitzenden aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen und Hochschullehrer, die bzw. der im Bereich Deutsch als Fremdsprache hauptamtlich tätig ist.[3] Ebenso bestellt der in Satz 2 genannte Fakultätsrat eine Stellvertreterin bzw. einen Stellvertreter für die Prüfungsvorsitzende bzw. den Prüfungsvorsitzenden.[4] Diese Stellvertreterin bzw. dieser Stellvertreter kann sowohl aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen und Hochschullehrer als auch aus dem Kreis der angestellten oder verbeamteten Mitarbeitenden der FAU bestellt werden.“ 
+„<sup>2</sup> Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt eine Prüfungsvorsitzende bzw. einen Prüfungsvorsitzenden aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen und Hochschullehrer, die bzw. der im Bereich Deutsch als Fremdsprache hauptamtlich tätig ist.<sup>3</sup> Ebenso bestellt der in Satz 2 genannte Fakultätsrat eine Stellvertreterin bzw. einen Stellvertreter für die Prüfungsvorsitzende bzw. den Prüfungsvorsitzenden.<sup>4</sup> Diese Stellvertreterin bzw. dieser Stellvertreter kann sowohl aus dem Kreis der Professorinnen und Professoren und sonstigen Hochschullehrerinnen und Hochschullehrer als auch aus dem Kreis der angestellten oder verbeamteten Mitarbeitenden der FAU bestellt werden.“ 
 
 1 
 
 cc) Der ursprüngliche Satz 2 wird zum neuen Satz 5. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
 aa) Nach Satz 1 werden folgende Sätze 2 bis 4 neu eingefügt: 
 
-„[2] Die bzw. der Prüfungsvorsitzende bestellt eine Prüfungskommission.[3] Die Prüfungskommission bestellt die Prüfenden und ist in Zweifelsfällen formeller Art zuständig.[4] Der Prüfungskommission gehören zwei Mitglieder an, die für den Bereich Deutsch als Fremdsprache qualifiziert sind und sie setzt sich zur Hälfte aus angestellten oder verbeamteten Mitarbeitenden der FAU zusammen.“ 
+„<sup>2</sup> Die bzw. der Prüfungsvorsitzende bestellt eine Prüfungskommission.<sup>3</sup> Die Prüfungskommission bestellt die Prüfenden und ist in Zweifelsfällen formeller Art zuständig.<sup>4</sup> Der Prüfungskommission gehören zwei Mitglieder an, die für den Bereich Deutsch als Fremdsprache qualifiziert sind und sie setzt sich zur Hälfte aus angestellten oder verbeamteten Mitarbeitenden der FAU zusammen.“ 
 
 - bb) Der ursprüngliche Satz 2 wird zum neuen Satz 5 und der ursprüngliche Satz 3 wird zum neuen Satz 6. 
 
@@ -52,13 +52,13 @@ cc) Die ursprünglichen Sätze 4 und 5 werden gestrichen.
 
 dd) Nach Satz 6 (neu) werden folgende neuen Sätze 7 und 8 angefügt: 
 
-„[7] Scheidet ein prüfungsbefugtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr nach dem Ausscheiden erhalten.[8] Bei befristet beschäftigten Prüfungsbefugten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.“ 
+„<sup>7</sup> Scheidet ein prüfungsbefugtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr nach dem Ausscheiden erhalten.<sup>8</sup> Bei befristet beschäftigten Prüfungsbefugten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.“ 
 
-## 4. § 4 wird wie folgt geändert: 
+# 4. § 4 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden nach den Worten „in der Regel zwei“ die Worte „bis vier“ eingefügt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
    - aa) Nach den Worten „im Benehmen mit dem“ werden die Worte „Referat S-INTERNATIONAL – Internationale“ durch die Worte „für internationale“ ersetzt. 
 
@@ -92,9 +92,9 @@ aa) Satz 1 wird wie folgt geändert:
 
 „(3) Die achte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 
-(4)[1] Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle ab dem Sommersemester 2022 durchgeführten bzw. durchzuführenden DSH.“ 
+(4)<sup>1</sup> Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle ab dem Sommersemester 2022 durchgeführten bzw. durchzuführenden DSH.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle ab dem Sommersemester 2022 durchgeführten bzw. durchzuführenden DSH. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Januar 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa_MA_TheaterMedienwiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:38:28+00:00
-page_count_chars: 2784
+scraped_at: 2026-07-01T09:48:02+00:00
+page_count_chars: 2775
 ---
 
 # 17. Januar 2017
@@ -12,7 +12,7 @@ page_count_chars: 2784
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa_MA_TheaterMedienwiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Theater- und Medienwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** Vom 17. Januar 2017 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Theater- und Medienwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** Vom 17. Januar 2017 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -30,17 +30,17 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Theater- und Me
 
       - bb) In Satz 2 wird nach dem Wort „fachverwandte“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach den Worten „mit entsprechender Begründung“ die Worte „und einer Rechtsbehelfsbelehrung“ eingefügt. 
+- aa) In Satz 1 werden nach den Worten „mit entsprechender Begründung“ die Worte „und einer Rechtsbehelfsbelehrung“ eingefügt. 
 
-      - bb) In Satz 2 werden die Worte „Bewerberin und der“ durch die Worte „Bewerberinnen und Bewerber“ sowie die Worte „Kenntnisse auf dem Gebiet der Theorie, Analyse und Historiografie von Theater und/oder Medien“ durch das Wort „Kompetenzen“ ersetzt. 
+- bb) In Satz 2 werden die Worte „Bewerberin und der“ durch die Worte „Bewerberinnen und Bewerber“ sowie die Worte „Kenntnisse auf dem Gebiet der Theorie, Analyse und Historiografie von Theater und/oder Medien“ durch das Wort „Kompetenzen“ ersetzt. 
 
 1 
 
 cc) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Im Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender gleichgewichteter Kriterien beurteilt: 
+„<sup>3</sup> Im Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender gleichgewichteter Kriterien beurteilt: 
 
 1. Kenntnisse in theaterwissenschaftlicher Theorie, Analyse und Historiographie 
 

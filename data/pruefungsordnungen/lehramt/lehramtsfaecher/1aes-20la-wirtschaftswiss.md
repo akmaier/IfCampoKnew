@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Wirtschaftswiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:46+00:00
-page_count_chars: 1770
+scraped_at: 2026-07-01T08:44:40+00:00
+page_count_chars: 1766
 ---
 
 # 31. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 1770
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Wirtschaftswiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
-## Vom 31. März 2010 
+# Vom 31. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 1. April 2009 wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im
 
 „Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fachwissenschaft im Fach Wirtschaftswissenschaften für das Lehramt an Gymnasien Module im Umfang von 20 ECTS-Punkten und im Lehramt an Realschulen Module im Umfang von 15 ECTS-Punkten erfolgreich erbracht werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. Sie gilt für alle Studierenden, die beim InKraft-Treten der Änderungssatzung die Grundlagen- und Orientierungsprüfung noch nicht endgültig nicht bestanden haben. 
 

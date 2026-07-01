@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:49:02+00:00
+scraped_at: 2026-07-01T08:25:53+00:00
 ---
 
 # Medizintechnik (M.Sc.)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_KultGeo.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:04:05+00:00
-page_count_chars: 7031
+scraped_at: 2026-07-01T10:23:10+00:00
+page_count_chars: 7103
 ---
 
 # PDF vom 05.10.2007 i.d.F. 05.11.2010
@@ -16,7 +16,7 @@ page_count_chars: 7031
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -36,9 +36,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Das Fach kann nur als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
+(1)<sup>1</sup> Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Das Fach kann nur als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (3) Das Studium der Kulturgeographie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden dazu befähigt, sich an der Identifizierung, Analyse, Diskussion und Lösung raumbezogener gesellschaftlicher Fragestellungen aktiv und kompetent beteiligen zu können. 
 
@@ -116,9 +116,9 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium der Kulturgeographie als zweites Fach sind folgende Module erfolgreich abzulegen: 
+## (1) Im Studium der Kulturgeographie als zweites Fach sind folgende Module erfolg- <u>reich abzulegen:</u> 
 
-|**Bez.**~~**1**~~|**Modul**|**ECTS**|**Prüfungsleistung**|
+|**Bez.**<sup>**~~1~~**</sup>|**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |**GZB 1**|**Einführung in die Geographie**|**10**||
 |1. FS|Vorlesung: Einführung in die Geographie als Wissen-<br>schaft|1,5|Regelmäßige Teilnahme|
@@ -135,8 +135,8 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 |3. FS|GrundvorlesungKG|5|Klausur(45Min.)|
 |4. FS|GrundvorlesungKG|5|Klausur(45Min.)|
 |**GZB 5**|**Einführung in die Methoden der KG**|**10**||
-|2. FS|Übung:Statistik I|2|Klausur(90Min.)|
-|3. FS|Seminar: Empirische Sozialforschung|3|Übungsaufgaben|
+|2. FS|Übung:Statistik I|2|Klausur(90Min.)<br>|
+|3. FS|Seminar: Empirische Sozialforschung|3|Übungsaufgaben<br>|
 |3. FS|Seminar:GIS undFernerkundung|5|Übungsaufgaben|
 |**GZB 6**|**KG vertieft**|**10**||
 |3. FS|Seminar KG|4|Referat + weitere Prü-<br>fungsleistung|

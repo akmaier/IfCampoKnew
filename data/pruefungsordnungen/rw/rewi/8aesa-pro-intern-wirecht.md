@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. November 2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:39+00:00
-page_count_chars: 3788
+scraped_at: 2026-07-01T10:35:18+00:00
+page_count_chars: 3770
 ---
 
 # 28. November 2006
@@ -12,7 +12,7 @@ page_count_chars: 3788
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AeSa-PrO-Intern-WiRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Achte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
+# **Achte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
 
 Vom 28. November 2006 
 
@@ -58,13 +58,13 @@ i) Wettbewerbstheorie und -politik.“
 
 b) In Nr. 3 wird folgender Satz angefügt: 
 
-„[5] Aufgrund der Umstellung der Studiengänge an der Wirtschafts- und Sozialwissenschaftlichen Fakultät auf Bachelor/Master kann sich die Zusammensetzung der Wahlfachgruppen geringfügig ändern.“ 
+„<sup>5</sup> Aufgrund der Umstellung der Studiengänge an der Wirtschafts- und Sozialwissenschaftlichen Fakultät auf Bachelor/Master kann sich die Zusammensetzung der Wahlfachgruppen geringfügig ändern.“ 
 
 4. In § 28 wird wie folgt geändert: 
 
    - a) In Abs. 6 wird nach Satz 1 folgender Satz eingefügt: 
 
-„[2] Die Diplomarbeit ist in deutscher Sprache oder mit Zustimmung des Prüfungsberechtigten, der das Thema vergeben hat, auch in englischer Sprache abzufassen.“ 
+„<sup>2</sup> Die Diplomarbeit ist in deutscher Sprache oder mit Zustimmung des Prüfungsberechtigten, der das Thema vergeben hat, auch in englischer Sprache abzufassen.“ 
 
 Die bisherigen Sätze 2 bis 5 werden zu Sätzen 3 bis 6. 
 
@@ -72,7 +72,7 @@ Die bisherigen Sätze 2 bis 5 werden zu Sätzen 3 bis 6.
 
 5. In § 31 Abs. 2 wird nach Satz 1 folgender Satz eingefügt: 
 
-„[2] Ergibt sich nach § 14 Abs. 3 eine Durchschnittsnote von 1,0 bis 1,29, wird ein Abschlusszeugnis mit Auszeichnung verliehen.“ Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
+„<sup>2</sup> Ergibt sich nach § 14 Abs. 3 eine Durchschnittsnote von 1,0 bis 1,29, wird ein Abschlusszeugnis mit Auszeichnung verliehen.“ Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
 6. Die Anlage I wird wie folgt geändert: 
 
@@ -82,9 +82,8 @@ Die bisherigen Sätze 2 bis 5 werden zu Sätzen 3 bis 6.
 
 c) In Buchst. B erhält Nr. 1 folgende Fassung: 
 
-|In Buchst. B erhält Nr. 1 folgende Fassung:||
-|---|---|
 |„1. Pflichtfächer in den Wirtschaftswissenschaften (32 SWS)||
+|---|---|
 |a) Präsentations- und Moderationstechniken|2|
 |b) Absatz|4|
 |c) Jahresabschluss|4|
@@ -104,6 +103,8 @@ Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 22. November 2006 und der Genehmigungsfeststellung des Rektors vom 23. November 2006. 
 
 Erlangen, den 28. November 2006 
-[Kontaktperson entfernt]
+
+## Prof. Dr. Karl-Dieter Grüske Rektor 
+
 Die Satzung wurde am 28. November 2006 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 28. November 2006 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 28. November 2006. 
 

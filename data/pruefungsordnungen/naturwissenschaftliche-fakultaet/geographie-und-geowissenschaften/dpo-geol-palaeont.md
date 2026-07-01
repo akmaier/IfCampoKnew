@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.08.1982 i.d.F. 16.09.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/DPO_Geol-Palaeont.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:38:52+00:00
-page_count_chars: 44337
+scraped_at: 2026-07-01T09:03:04+00:00
+page_count_chars: 45610
 ---
 
 # PDF vom 13.08.1982 i.d.F. 16.09.2003
@@ -18,9 +18,9 @@ page_count_chars: 44337
 
 Diese Prüfungsordnung gilt weiterhin für Studierende, die vor dem WS 2007/08 das Studium aufgenommen haben. 
 
-Für Studierende, die ab WS 2007/08 das Studium aufnehmen, gilt die Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie (http://www.uni erlangen.de/universitaet/organisation/recht/studiensatzungen/ NAT3/PO-BA-MA_Geographie.pdf). 
+Für Studierende, die ab WS 2007/08 das Studium aufnehmen, gilt die Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie (http://www.uni <u>erlangen.de/universitaet/organisation/recht/studiensatzungen/ NAT3/PO-BA-MA_Geographie.pdf).</u> 
 
-## **Diplomprüfungsordnung für Studenten der GeologiePaläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 13. August 1982** (KMBl II S. 741) 
+# **Diplomprüfungsordnung für Studenten der GeologiePaläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 13. August 1982** (KMBl II S. 741) 
 
 geändert durch Satzungen vom 5. Februar 1992 (KWMBl II S. 189) 
 
@@ -42,7 +42,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Zweck der Prüfung** 
 
-(1)[1] Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Geologie-Paläontologie.[2] Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
+(1)<sup>1</sup> Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Geologie-Paläontologie.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
 
 1 
 
@@ -52,23 +52,23 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Diplomgrad** 
 
-1Nach bestandener Diplomprüfung wird der Grad eines Diplom-Geologen Univ. verliehen (Dipl.-Geol. Univ.).[2] Auf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als "Diplom-Geologin Univ." (abgekürzt: Dipl.-Geol. Univ.) verliehen. 
+1Nach bestandener Diplomprüfung wird der Grad eines Diplom-Geologen Univ. verliehen (Dipl.-Geol. Univ.).<sup>2</sup> Auf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als "Diplom-Geologin Univ." (abgekürzt: Dipl.-Geol. Univ.) verliehen. 
 
 ## **§ 3 Gliederung des Studiums, Gliederung der Prüfungen, Studiendauer, Prüfungsfristen** 
 
 (1) Das Grundstudium wird mit einer mündlichen Diplomvorprüfung, das Hauptstudium mit der Diplomprüfung abgeschlossen. 
 
-(2)[1] Die Diplomprüfung besteht aus der Diplomarbeit, einer selbständigen geologischen Kartierung und der mündlichen Diplomprüfung.[2] Die Diplomarbeit und die Kartierung können vor oder nach der mündlichen Diplomprüfung eingereicht werden. 
+(2)<sup>1</sup> Die Diplomprüfung besteht aus der Diplomarbeit, einer selbständigen geologischen Kartierung und der mündlichen Diplomprüfung.<sup>2</sup> Die Diplomarbeit und die Kartierung können vor oder nach der mündlichen Diplomprüfung eingereicht werden. 
 
-(3)[1] Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 160 Semesterwochenstunden, verteilt auf acht Fachsemester.[2] Die Regelstudienzeit beträgt, einschließlich der Zeit für die mündliche Diplomprüfung und der Anfertigung von Diplomarbeit und Kartierung, neun Semester. 
+(3)<sup>1</sup> Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 160 Semesterwochenstunden, verteilt auf acht Fachsemester.<sup>2</sup> Die Regelstudienzeit beträgt, einschließlich der Zeit für die mündliche Diplomprüfung und der Anfertigung von Diplomarbeit und Kartierung, neun Semester. 
 
 (4) Die Diplomvorprüfung soll vor dem Beginn der Lehrveranstaltungen des fünften Semesters, die Diplomprüfung bis zum Ende des neunten Semesters abgelegt werden. 
 
 (5) Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomvorprüfung, dass er diese bis zum Beginn der Lehrveranstaltungen des sechsten Semesters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Beginn der Lehrveranstaltungen des sechsten Semesters ab, gilt diese Prüfung als erstmals abgelegt und nicht bestanden. 
 
-(6)[1] Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomprüfung, dass er diese bis zum Ende des 13. Semesters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Ende des 13. Semesters ab, gilt diese Prüfung als erstmals abgelegt und nicht bestanden.[2] Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil als abgelegt und erstmals nicht bestanden. 
+(6)<sup>1</sup> Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomprüfung, dass er diese bis zum Ende des 13. Semesters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Ende des 13. Semesters ab, gilt diese Prüfung als erstmals abgelegt und nicht bestanden.<sup>2</sup> Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil als abgelegt und erstmals nicht bestanden. 
 
-(7)[1] Überschreitet ein Student die Fristen des Absatz 5 beziehungsweise 6 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.[2] Die Fristen verlängern sich um 
+(7)<sup>1</sup> Überschreitet ein Student die Fristen des Absatz 5 beziehungsweise 6 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.<sup>2</sup> Die Fristen verlängern sich um 
 
 1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und 
 
@@ -76,41 +76,41 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 2 
 
-Urlaubsverordnung.[3] Nach § 8 angerechnete Studienzeiten sind auf diese Fristen anzurechnen. 
+Urlaubsverordnung.<sup>3</sup> Nach § 8 angerechnete Studienzeiten sind auf diese Fristen anzurechnen. 
 
 ## **§ 4** 
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Organisation und Durchführung der Prüfungen im Diplomstudiengang Geologie-Paläontologie wird ein Prüfungsausschuss eingesetzt.[2] Der Prüfungsausschuss besteht aus fünf Mitgliedern. 
+(1)<sup>1</sup> Für die Organisation und Durchführung der Prüfungen im Diplomstudiengang Geologie-Paläontologie wird ein Prüfungsausschuss eingesetzt.<sup>2</sup> Der Prüfungsausschuss besteht aus fünf Mitgliedern. 
 
-(2)[1] Der Vorsitzende, sein Stellvertreter, die weiteren Mitglieder des Prüfungsausschusses sowie deren Stellvertreter werden vom Fachbereichsrat gewählt.[2] Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität Erlangen-Nürnberg gewählt werden. 
+(2)<sup>1</sup> Der Vorsitzende, sein Stellvertreter, die weiteren Mitglieder des Prüfungsausschusses sowie deren Stellvertreter werden vom Fachbereichsrat gewählt.<sup>2</sup> Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität Erlangen-Nürnberg gewählt werden. 
 
-(3)[1] Die Amtszeit der Mitglieder beträgt drei Jahre.[2] Eine Wiederbestellung ist möglich. 
+(3)<sup>1</sup> Die Amtszeit der Mitglieder beträgt drei Jahre.<sup>2</sup> Eine Wiederbestellung ist möglich. 
 
-(4)[1] Dem Prüfungsausschuss obliegt die Durchführung des Prüfungsverfahrens, insbesondere die Planung, Organisation und Dokumentierung der Prüfungen.[2] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.[3] Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studien- und Prüfungsordnung. 
+(4)<sup>1</sup> Dem Prüfungsausschuss obliegt die Durchführung des Prüfungsverfahrens, insbesondere die Planung, Organisation und Dokumentierung der Prüfungen.<sup>2</sup> Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.<sup>3</sup> Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studien- und Prüfungsordnung. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens dreitägigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+(5)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens dreitägigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
 
-(6)[1] Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
+(6)<sup>1</sup> Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
 
-(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.[2] Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 
+(7)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 
 
-3Widerspruchsbescheide erlässt der Rektor, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfer.[4] _gegenstandslos_ . 
+3Widerspruchsbescheide erlässt der Rektor, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfer.<sup>4</sup> _gegenstandslos_ . 
 
 ## **§ 5** 
 
 ## **Prüfer und Beisitzer** 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.[2] Er kann die Bestellung dem Vorsitzenden übertragen.[3] Für die Bestellung der Prüfer hat der Kandidat 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.<sup>2</sup> Er kann die Bestellung dem Vorsitzenden übertragen.<sup>3</sup> Für die Bestellung der Prüfer hat der Kandidat 
 
 3 
 
 ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüfer besteht nicht. 
 
-(2)[1] Zum Prüfer können alle Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS 2210-1-1-6 WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte, weitere Personen bestellt werden.[2] Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung bestanden hat. 
+(2)<sup>1</sup> Zum Prüfer können alle Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS 2210-1-1-6 WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte, weitere Personen bestellt werden.<sup>2</sup> Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung bestanden hat. 
 
-(3)[1] Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.[2] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+(3)<sup>1</sup> Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.<sup>2</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.<sup>3</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
 ## **§ 6** 
 
@@ -128,23 +128,23 @@ ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen P
 
 (2) Diese Termine sind vom Vorsitzenden des Prüfungsausschusses mit Angabe der Meldefrist für die Bewerber spätestens zwei Monate vorher, jedenfalls noch während der Vorlesungszeit, durch Aushang bekannt zu geben. 
 
-(3)[1] Die Termine der Prüfungen in den einzelnen Fächern sind spätestens eine Woche vorher bekannt zu geben.[2] Die zur Prüfung zugelassenen Kandidaten sind unter Angabe der einzelnen Prüfer und der Prüfungsräume spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden. 
+(3)<sup>1</sup> Die Termine der Prüfungen in den einzelnen Fächern sind spätestens eine Woche vorher bekannt zu geben.<sup>2</sup> Die zur Prüfung zugelassenen Kandidaten sind unter Angabe der einzelnen Prüfer und der Prüfungsräume spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden. 
 
 ## **§ 8** 
 
 ## **Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen** 
 
-(1)[1] Studienzeiten, Studienleistungen und Diplomvorprüfungen in demselben oder in einem verwandten, im Grundstudium gleichen Studiengang an anderen Universitäten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt.[2] Bestandene, nichtbestandene oder nachzuholende Einzelfachprüfungen der Diplomvorprüfung werden anerkannt beziehungsweise übernommen.[3] Soweit die Diplomvorprüfung Fächer nicht enthält, die an der Universität Erlangen-Nürnberg Gegenstand der Diplomvorprüfung, nicht aber der Diplomprüfung sind, ist eine Anerkennung unter Bedingungen 
+(1)<sup>1</sup> Studienzeiten, Studienleistungen und Diplomvorprüfungen in demselben oder in einem verwandten, im Grundstudium gleichen Studiengang an anderen Universitäten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt.<sup>2</sup> Bestandene, nichtbestandene oder nachzuholende Einzelfachprüfungen der Diplomvorprüfung werden anerkannt beziehungsweise übernommen.<sup>3</sup> Soweit die Diplomvorprüfung Fächer nicht enthält, die an der Universität Erlangen-Nürnberg Gegenstand der Diplomvorprüfung, nicht aber der Diplomprüfung sind, ist eine Anerkennung unter Bedingungen 
 
 4 
 
-möglich.[4] Als dieselben Studiengänge gelten nur solche, die derselben Rahmenordnung unterliegen. 
+möglich.<sup>4</sup> Als dieselben Studiengänge gelten nur solche, die derselben Rahmenordnung unterliegen. 
 
-(2)[1] Studienzeiten, Studienleistungen und Diplomvorprüfungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.[2] Dies gilt auch für bestandene Einzelfachprüfungen, sofern nicht die ganze Prüfung als nicht bestanden gewertet wurde.[3] Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 
+(2)<sup>1</sup> Studienzeiten, Studienleistungen und Diplomvorprüfungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.<sup>2</sup> Dies gilt auch für bestandene Einzelfachprüfungen, sofern nicht die ganze Prüfung als nicht bestanden gewertet wurde.<sup>3</sup> Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 
 
 (3) Anstelle der Diplomvorprüfung können in begründeten Ausnahmefällen andere Prüfungsleistungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird. 
 
-(4)[1] Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums im Diplomstudiengang Geologie-Paläontologie an der Universität Erlangen-Nürnberg im Wesentlichen entsprechen.[2] Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.[3] Für die Gleichwertigkeit von Studienzeiten, Studienleistungen und Prüfungsleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.[4] Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.[5] Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
+(4)<sup>1</sup> Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums im Diplomstudiengang Geologie-Paläontologie an der Universität Erlangen-Nürnberg im Wesentlichen entsprechen.<sup>2</sup> Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.<sup>3</sup> Für die Gleichwertigkeit von Studienzeiten, Studienleistungen und Prüfungsleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.<sup>4</sup> Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.<sup>5</sup> Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
 
 (5) Studienzeiten, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien werden, soweit sie gleichwertig sind, entsprechend angerechnet beziehungsweise anerkannt. 
 
@@ -152,11 +152,11 @@ möglich.[4] Als dieselben Studiengänge gelten nur solche, die derselben Rahmen
 
 (7) Der Prüfungsausschuss kann auf Antrag ein Prüfungsfach der Diplomprüfung, das der Kandidat im Rahmen eines europäischen Austauschprogramms oder einer Hochschulpartnerschaft an einer ausländischen wissenschaftlichen Hochschule abgelegt hat, anerkennen, soweit die Gleichwertigkeit festgestellt ist. 
 
-(8)[1] Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 12 gebildet wurden. 2Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.[3] Entspricht das Notensystem der angerechneten Prüfung § 12 nicht, wird in das Zeugnis unter Angabe der Hochschule nur ein Anerkennungsvermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.[4] Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung gemäß § 12 Abs. 3 erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung beigegeben. 
+(8)<sup>1</sup> Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 12 gebildet wurden. 2Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.<sup>3</sup> Entspricht das Notensystem der angerechneten Prüfung § 12 nicht, wird in das Zeugnis unter Angabe der Hochschule nur ein Anerkennungsvermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.<sup>4</sup> Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung gemäß § 12 Abs. 3 erfolgen nicht.<sup>5</sup> In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung beigegeben. 
 
 5 
 
-(9)[1] Bei Vorliegen der Voraussetzung der Absätze 1 bis 7 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.[2] Der Bewerber hat die für die Anerkennung beziehungsweise Anrechnung erforderlichen Unterlagen möglichst frühzeitig vorzulegen.[3] Die Entscheidungen trifft der Vorsitzende des Prüfungsausschusses, in den Fällen gemäß den Absätzen 2 bis 7 jedoch nur auf Antrag; die Entscheidung ergeht schriftlich. 
+(9)<sup>1</sup> Bei Vorliegen der Voraussetzung der Absätze 1 bis 7 besteht ein Rechtsanspruch auf Anerkennung beziehungsweise Anrechnung.<sup>2</sup> Der Bewerber hat die für die Anerkennung beziehungsweise Anrechnung erforderlichen Unterlagen möglichst frühzeitig vorzulegen.<sup>3</sup> Die Entscheidungen trifft der Vorsitzende des Prüfungsausschusses, in den Fällen gemäß den Absätzen 2 bis 7 jedoch nur auf Antrag; die Entscheidung ergeht schriftlich. 
 
 ## **§ 9** 
 
@@ -164,15 +164,15 @@ möglich.[4] Als dieselben Studiengänge gelten nur solche, die derselben Rahmen
 
 (1) Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt. 
 
-(2)[1] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Nach Anerkennung der Gründe setzt der Prüfungsausschuss einen neuen Prüfungstermin fest. 
+(2)<sup>1</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Nach Anerkennung der Gründe setzt der Prüfungsausschuss einen neuen Prüfungstermin fest. 
 
-(3)[1] Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits geprüften Fächern angerechnet.[2] Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
+(3)<sup>1</sup> Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits geprüften Fächern angerechnet.<sup>2</sup> Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
 
-(4)[1] Versucht der Kandidat seine Prüfungsleistungen durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet.[2] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistungen ausgeschlossen werden, in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
+(4)<sup>1</sup> Versucht der Kandidat seine Prüfungsleistungen durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet.<sup>2</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistungen ausgeschlossen werden, in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
 
 (5) Der Prüfungsausschuss trifft die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Prüfung ausgeschlossen wird. 
 
-(6)[1] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Prüfungsausschussvorsitzenden geltend gemacht werden.[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
+(6)<sup>1</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Prüfungsausschussvorsitzenden geltend gemacht werden.<sup>2</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
 
 (7) Der Kandidat kann innerhalb von drei Tagen verlangen, dass die Entscheidung nach Absatz 4 Satz 1 vom Prüfungsausschuss überprüft wird. 
 
@@ -180,11 +180,11 @@ möglich.[4] Als dieselben Studiengänge gelten nur solche, die derselben Rahmen
 
 ## **§ 10 Mängel im Prüfungsverfahren** 
 
-(1)[1] Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts we- 
+(1)<sup>1</sup> Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts we- 
 
 6 
 
-gen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.[2] Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden. 
+gen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.<sup>2</sup> Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden. 
 
 (2) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Absatz 1 nicht mehr getroffen werden. 
 
@@ -194,23 +194,21 @@ gen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung
 
 (2) Zur mündlichen Prüfung ist ein Beisitzer zuzuziehen. 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.[2] Das Protokoll wird entweder von einem Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen ist nicht erforderlich.[4] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird entweder von einem Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen ist nicht erforderlich.<sup>4</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
 (4) Die Mitglieder des Prüfungsausschusses haben das Recht, der Prüfung beizuwohnen. 
 
-(5)[1] Solange keine eigene geologische Staatsprüfung besteht, hat das Bayerische Geologische Landesamt das Recht, einen Vertreter zu benennen, der den Prüfungen beiwohnen kann.[2] Das Landesamt ist spätestens zwei Wochen vor Beginn einer Diplomprüfung vom Vorsitzenden des Prüfungsausschusses über den Termin der Prüfung in Kenntnis zu setzen. 
+(5)<sup>1</sup> Solange keine eigene geologische Staatsprüfung besteht, hat das Bayerische Geologische Landesamt das Recht, einen Vertreter zu benennen, der den Prüfungen beiwohnen kann.<sup>2</sup> Das Landesamt ist spätestens zwei Wochen vor Beginn einer Diplomprüfung vom Vorsitzenden des Prüfungsausschusses über den Termin der Prüfung in Kenntnis zu setzen. 
 
-(6)[1] Bei mündlichen Prüfungen werden Studenten, die sich in absehbarer Zeit der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen.[2] Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
+(6)<sup>1</sup> Bei mündlichen Prüfungen werden Studenten, die sich in absehbarer Zeit der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen.<sup>2</sup> Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
 
 (7) Die Beratung und Bekanntgabe des Prüfungsergebnisses erfolgen unter Ausschluss der Öffentlichkeit. 
 
 ## **§ 12 Bewertung der Prüfungsleistungen, Bildung der Fachnote und der Prüfungsgesamtnote** 
 
-(1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch die folgenden Noten und Prädikate ausgedrückt: 
+(1)<sup>1</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch die folgenden Noten und Prädikate ausgedrückt: 
 
-1,0; 1,3=sehr gut = eine hervorragende Leistung; = eine Leistung, die erheblich über den durchschnittlichen Anforde1,7; 2,0; 2,3= gut rungen liegt; 
-
-2,7; 3,0; 3,3= befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; = eine Leistung, die trotz ihrer Mängel noch den Anforderungen ge3,7; 4,0= ausreichend nügt; 
+1,0; 1,3=sehr gut = eine hervorragende Leistung; = eine Leistung, die erheblich über den durchschnittlichen Anforde1,7; 2,0; 2,3= gut rungen liegt; 2,7; 3,0; 3,3= befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; = eine Leistung, die trotz ihrer Mängel noch den Anforderungen ge3,7; 4,0= ausreichend nügt; 
 
 = eine Leistung, die wegen erheblicher Mängel den Anforderungen 4,7; 5,0= nicht ausreichend nicht mehr genügt. 
 
@@ -218,11 +216,11 @@ gen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung
 
 2Die Noten 0,7, 4,3 und 5,3 sind ausgeschlossen. 
 
-(2)[1] Wird in einem Fach nur eine Prüfungsleistung erbracht, so ist die Fachnote die gemäß Absatz 1 erteilte Beurteilung.[2] Werden in einem Fach mehrere Prüfungsleistungen erbracht, so wird die Fachnote als Durchschnitt der einzelnen Prüfungsleistungen errechnet.[3] Bei der Mitteilung wird auf eine Stelle nach dem Komma gerundet.[4] Die Fachnote lautet: 
+(2)<sup>1</sup> Wird in einem Fach nur eine Prüfungsleistung erbracht, so ist die Fachnote die gemäß Absatz 1 erteilte Beurteilung.<sup>2</sup> Werden in einem Fach mehrere Prüfungsleistungen erbracht, so wird die Fachnote als Durchschnitt der einzelnen Prüfungsleistungen errechnet.<sup>3</sup> Bei der Mitteilung wird auf eine Stelle nach dem Komma gerundet.<sup>4</sup> Die Fachnote lautet: 
 
 Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2,5 = gut bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend bei einem Durchschnitt über 4,0 = nicht ausreichend. 
 
-(3)[1] Die Prüfungsnote wird aus dem Mittel der nicht auf- oder abgerundeten Fachnoten errechnet, sowie bei der Diplomprüfung aus der doppelt gewerteten Note der Diplomarbeit, sofern sie mit der geologischen Kartierung kombiniert ist.[2] Anderenfalls werden Diplomarbeit und geologische Kartierung jeweils einfach gewertet.[3] Der Prüfungsbewertung dürfen nur individuelle Leistungen des Kandidaten zugrunde gelegt werden.[4] Die Gesamtnote einer bestandenen Prüfung lautet: 
+(3)<sup>1</sup> Die Prüfungsnote wird aus dem Mittel der nicht auf- oder abgerundeten Fachnoten errechnet, sowie bei der Diplomprüfung aus der doppelt gewerteten Note der Diplomarbeit, sofern sie mit der geologischen Kartierung kombiniert ist.<sup>2</sup> Anderenfalls werden Diplomarbeit und geologische Kartierung jeweils einfach gewertet.<sup>3</sup> Der Prüfungsbewertung dürfen nur individuelle Leistungen des Kandidaten zugrunde gelegt werden.<sup>4</sup> Die Gesamtnote einer bestandenen Prüfung lautet: 
 
 Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2,5 = gut bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend. 
 
@@ -234,19 +232,21 @@ Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
 (1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+(2)<sup>1</sup> Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.[2] Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.<sup>2</sup> Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
 8 
 
-## **§ 14 Einsicht in die Prüfungsakten** 
+## **§ 14** 
+
+## **Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfung und in die Prüfungsprotokolle gewährt. 
 
-(2)[1] Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen.[2] Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.[3] Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen.<sup>2</sup> Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.<sup>3</sup> Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 15** 
 
@@ -260,7 +260,7 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht 
 
 (1) Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, dass er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgeschriebenen Form abzulegen, hat der Vorsitzende des Prüfungsausschusses dem Kandidaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen. 
 
-(2)[1] Entscheidungen nach Absatz 1 werden nur auf schriftlichen Antrag hin getroffen. 2Bei Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen. 
+(2)<sup>1</sup> Entscheidungen nach Absatz 1 werden nur auf schriftlichen Antrag hin getroffen. 2Bei Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen. 
 
 ## **Zweiter Teil: Besondere Vorschriften Erster Abschnitt: Diplomvorprüfung** 
 
@@ -322,7 +322,7 @@ ee) für das Wahlprüfungsfach "Grundzüge der Physischen Geographie"
 
 (3) Ist ein Bewerber ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu erbringen, so kann der Prüfungsausschuss gestatten, die Nachweise in anderer Art zu führen. 
 
-(4)[1] Die Zulassung zur Diplomvorprüfung ist zu versagen, wenn 
+(4)<sup>1</sup> Die Zulassung zur Diplomvorprüfung ist zu versagen, wenn 
 
 1. der Bewerber, die nach Absatz 1 vorgeschriebenen Zulassungsvoraussetzungen nicht erfüllt, oder 
 
@@ -330,7 +330,7 @@ ee) für das Wahlprüfungsfach "Grundzüge der Physischen Geographie"
 
 3. der Bewerber unter Verlust des Prüfungsanspruches exmatrikuliert worden ist, oder 
 
-4. der Bewerber die Diplomvorprüfung oder Diplomprüfung in demselben Studiengang endgültig nicht bestanden hat.[2] Verwandte, im Grundstudium gleiche Studiengänge bestehen nicht.[3] In Zweifelsfällen entscheidet der Prüfungsausschuss. 
+4. der Bewerber die Diplomvorprüfung oder Diplomprüfung in demselben Studiengang endgültig nicht bestanden hat.<sup>2</sup> Verwandte, im Grundstudium gleiche Studiengänge bestehen nicht.<sup>3</sup> In Zweifelsfällen entscheidet der Prüfungsausschuss. 
 
 (5) Die Entscheidung über die Zulassung ist dem Bewerber spätestens eine Woche vor Prüfungsbeginn schriftlich mitzuteilen. 
 
@@ -348,7 +348,7 @@ ee) für das Wahlprüfungsfach "Grundzüge der Physischen Geographie"
 
 (1) Die Diplomvorprüfung kann in einem oder in zwei Abschnitten (Teilprüfungen) abgelegt werden. 
 
-(2)[1] Bei einer Teilung der Diplomvorprüfung umfasst der erste Abschnitt die Prüfung in den beiden Wahlpflichtfächern.[2] Sie kann nach Erwerb der in § 17 Abs. 1 Nr. 3 Buchst. e geforderten Scheine, vorbehaltlich der sonstigen Zulassungsvoraussetzungen, abgelegt werden. 
+(2)<sup>1</sup> Bei einer Teilung der Diplomvorprüfung umfasst der erste Abschnitt die Prüfung in den beiden Wahlpflichtfächern.<sup>2</sup> Sie kann nach Erwerb der in § 17 Abs. 1 Nr. 3 Buchst. e geforderten Scheine, vorbehaltlich der sonstigen Zulassungsvoraussetzungen, abgelegt werden. 
 
 (3) Die Prüfungsleistungen eines Prüfungsabschnittes sollen innerhalb von zwei Wochen abgelegt werden. 
 
@@ -356,7 +356,7 @@ ee) für das Wahlprüfungsfach "Grundzüge der Physischen Geographie"
 
 ## **Umfang der Diplomvorprüfung** 
 
-- (1)[1] Die Diplomvorprüfung besteht aus vier mündlichen Prüfungsfächern.[2] Die Prüfungsfächer sind: 
+- (1)<sup>1</sup> Die Diplomvorprüfung besteht aus vier mündlichen Prüfungsfächern.<sup>2</sup> Die Prüfungsfächer sind: 
 
 1. Pflichtfächer: 
 
@@ -378,7 +378,7 @@ b) Grundzüge der Biologie oder der Physischen Geographie.
 
 (4) Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Grundstudiums gemäß Studienordnung. 
 
-## **§ 21** _**(aufgehoben)**_ 
+## **§ 21** **_(aufgehoben)_** 
 
 ## **§ 22 Nichtbestehen der Diplomvorprüfung** 
 
@@ -392,15 +392,15 @@ b) Grundzüge der Biologie oder der Physischen Geographie.
 
 ## **§ 23 Wiederholung der Diplomvorprüfung** 
 
-(1)[1] Ist die Diplomvorprüfung nicht bestanden oder ist § 9 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet wurden, einmal wiederholt werden.[2] Gilt die Diplomvorprüfung gemäß § 3 Abs. 5 als nicht bestanden, ist sie insgesamt zu wiederholen. 
+(1)<sup>1</sup> Ist die Diplomvorprüfung nicht bestanden oder ist § 9 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet wurden, einmal wiederholt werden.<sup>2</sup> Gilt die Diplomvorprüfung gemäß § 3 Abs. 5 als nicht bestanden, ist sie insgesamt zu wiederholen. 
 
 (2) Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung ist nicht zulässig. 
 
-(3)[1] Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten stattfinden.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. 3§ 3 Abs. 7 Satz 2 Nr. 2 gilt entsprechend. 4Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
+(3)<sup>1</sup> Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten stattfinden.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. 3§ 3 Abs. 7 Satz 2 Nr. 2 gilt entsprechend. 4Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
 
 12 
 
-(4)[1] Eine zweite Wiederholung ist nur möglich, wenn nicht mehr als ein Fach der Diplomvorprüfung mit "nicht ausreichend" bewertet wurde.[2] Absatz 3 gilt entsprechend. 
+(4)<sup>1</sup> Eine zweite Wiederholung ist nur möglich, wenn nicht mehr als ein Fach der Diplomvorprüfung mit "nicht ausreichend" bewertet wurde.<sup>2</sup> Absatz 3 gilt entsprechend. 
 
 (5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung. 
 
@@ -408,11 +408,11 @@ b) Grundzüge der Biologie oder der Physischen Geographie.
 
 ## **Prüfungszeugnis** 
 
-(1)[1] Über die bestandene Diplomvorprüfung ist ein Zeugnis auszustellen.[2] Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+(1)<sup>1</sup> Über die bestandene Diplomvorprüfung ist ein Zeugnis auszustellen.<sup>2</sup> Hierbei soll eine Frist von vier Wochen eingehalten werden. 
 
 (2) Das Zeugnis enthält die Noten der einzelnen Prüfungsfächer, die Namen der Prüfer und die Prüfungsgesamtnote. 
 
-(3)[1] Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
+(3)<sup>1</sup> Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
 
 ## **Zweiter Abschnitt: Diplomprüfung** 
 
@@ -542,7 +542,7 @@ Der Student hat sich innerhalb von fünf Wochen nach der Bekanntgabe des Termins
 
 Die Kartierung kann mit der Diplomarbeit kombiniert werden. Ist sie nicht Inhalt der Diplomarbeit, so ist ihr eine kurzgefasste Erläuterung beizufügen. 3. Der mündlichen Diplomprüfung 
 
-- (2)[1] Die Prüfungsfächer der mündlichen Diplomprüfung sind: 
+- (2)<sup>1</sup> Die Prüfungsfächer der mündlichen Diplomprüfung sind: 
 
 a) Allgemeine Geologie und 
 
@@ -558,7 +558,7 @@ Paläontologie,
 
 Mineralogie (Petrologie), Geophysik, Bodenkunde. 
 
-2Auf Antrag des Kandidaten kann der Prüfungsausschuss auch ein anderes Fach genehmigen, wenn dieses in einem sinnvollen Zusammenhang mit dem Studium steht, eine prüfungsberechtigte Lehrperson vorhanden ist und eine ordnungsgemäße Ausbildung entsprechend dem § 25 Abs. 1 Buchst. B gewährleistet ist.[3] Wird Angewandte Geologie nicht unter Buchst. c gewählt, so werden Grundzüge der Angewandten Geologie unter Buchst. a mitgeprüft.[4] Wird Paläontologie nicht unter Buchst. c) gewählt, so werden Grundzüge der Paläontologie unter Buchst. b mitgeprüft. 
+2Auf Antrag des Kandidaten kann der Prüfungsausschuss auch ein anderes Fach genehmigen, wenn dieses in einem sinnvollen Zusammenhang mit dem Studium steht, eine prüfungsberechtigte Lehrperson vorhanden ist und eine ordnungsgemäße Ausbildung entsprechend dem § 25 Abs. 1 Buchst. B gewährleistet ist.<sup>3</sup> Wird Angewandte Geologie nicht unter Buchst. c gewählt, so werden Grundzüge der Angewandten Geologie unter Buchst. a mitgeprüft.<sup>4</sup> Wird Paläontologie nicht unter Buchst. c) gewählt, so werden Grundzüge der Paläontologie unter Buchst. b mitgeprüft. 
 
 (3) In der mündlichen Diplomprüfung sind in den Pflichtfächern und den Wahlpflichtfächern jeweils ca. 30minütige mündliche Prüfungen zu erbringen. 
 
@@ -570,25 +570,25 @@ Mineralogie (Petrologie), Geophysik, Bodenkunde.
 
 (1) In der Diplomarbeit soll der Kandidat zeigen, dass er sein Fach in angemessener Weise beherrscht und in der Lage ist, nach wissenschaftlichen Grundsätzen zu arbeiten. 
 
-(2)[1] Die Anfertigung der Diplomarbeit ist zugleich Bestandteil der wissenschaftlichen Ausbildung.[2] Das Thema kann nach bestandener Diplomvorprüfung und vor oder nach der mündlichen Diplomprüfung ausgegeben werden. 
+(2)<sup>1</sup> Die Anfertigung der Diplomarbeit ist zugleich Bestandteil der wissenschaftlichen Ausbildung.<sup>2</sup> Das Thema kann nach bestandener Diplomvorprüfung und vor oder nach der mündlichen Diplomprüfung ausgegeben werden. 
 
 (3) Eine Ausgabe des Themas der Diplomarbeit vor Zulassung des Kandidaten zur Diplomprüfung bedeutet keine Entscheidung über die Prüfungszulassung. 
 
-(4)[1] Die Ausgabe des Themas der Diplomarbeit erfolgt durch einen Prüfungsberechtigten der betreffenden Fachrichtung.[2] Dem Kandidaten ist Gelegenheit zu geben, für das Thema Vorschläge zu machen.[3] Der Zeitpunkt der Themenstellung zur Diplomarbeit ist dem Vorsitzenden des Prüfungsausschusses durch den Aufgabensteller anzuzeigen.[4] Der Ausgabe-Tag ist aktenkundig zu machen.[5] Auf Antrag des Kandidaten sorgt der Vorsitzende des Prüfungsausschusses dafür, dass er im Rahmen der vorhandenen Arbeitsplätze in angemessener Zeit das Thema für eine Diplomarbeit erhält. 
+(4)<sup>1</sup> Die Ausgabe des Themas der Diplomarbeit erfolgt durch einen Prüfungsberechtigten der betreffenden Fachrichtung.<sup>2</sup> Dem Kandidaten ist Gelegenheit zu geben, für das Thema Vorschläge zu machen.<sup>3</sup> Der Zeitpunkt der Themenstellung zur Diplomarbeit ist dem Vorsitzenden des Prüfungsausschusses durch den Aufgabensteller anzuzeigen.<sup>4</sup> Der Ausgabe-Tag ist aktenkundig zu machen.<sup>5</sup> Auf Antrag des Kandidaten sorgt der Vorsitzende des Prüfungsausschusses dafür, dass er im Rahmen der vorhandenen Arbeitsplätze in angemessener Zeit das Thema für eine Diplomarbeit erhält. 
 
 (5) Die Diplomarbeit darf in Ausnahmefällen mit Zustimmung des Prüfungsausschusses außerhalb der Fakultät ausgeführt werden, sofern eine prüfungsberechtigte Person bei Vergabe der Arbeit schriftlich ihr Einverständnis erklärt, das Erstgutachten gemäß Absatz 9 zu übernehmen. 
 
 (6) Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden. 
 
-(7)[1] Die Bearbeitungszeit für Diplomarbeit und Kartierung darf sechs Monate nicht überschreiten.[2] Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, 
+(7)<sup>1</sup> Die Bearbeitungszeit für Diplomarbeit und Kartierung darf sechs Monate nicht überschreiten.<sup>2</sup> Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, 
 
 16 
 
-dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.[3] Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit ausnahmsweise um höchstens drei Monate verlängert werden.[4] Weist der Kandidat durch ärztliches Zeugnis nach, dass er infolge einer Erkrankung an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist. 
+dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.<sup>3</sup> Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit ausnahmsweise um höchstens drei Monate verlängert werden.<sup>4</sup> Weist der Kandidat durch ärztliches Zeugnis nach, dass er infolge einer Erkrankung an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist. 
 
-(8)[1] Die Diplomarbeit ist in zwei Exemplaren fristgemäß an den Vorsitzenden des Prüfungsausschusses zu liefern; der Abgabezeitpunkt ist aktenkundig zu machen. 2Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten. 3Sie muss mit einer Erklärung des Kandidaten versehen sein, dass er die Arbeit selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. 4Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" (5,0) bewertet. 
+(8)<sup>1</sup> Die Diplomarbeit ist in zwei Exemplaren fristgemäß an den Vorsitzenden des Prüfungsausschusses zu liefern; der Abgabezeitpunkt ist aktenkundig zu machen. 2Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten. 3Sie muss mit einer Erklärung des Kandidaten versehen sein, dass er die Arbeit selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. 4Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" (5,0) bewertet. 
 
-(9)[1] Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder der Prüfungsablauf durch die Bestellung eines zweiten Prüfers unangemessen verzögert werden würde.[2] Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, ist in jedem Fall ein zweiter Prüfer zu bestellen.[3] Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat. 4Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine Note einigen; gelingt dies nicht, entscheidet der Prüfungsausschuss; er kann einen weiteren Gutachter hinzuziehen.[5] Bei der Notenbildung wird nur eine Stelle hinter dem Komma berücksichtigt. 
+(9)<sup>1</sup> Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder der Prüfungsablauf durch die Bestellung eines zweiten Prüfers unangemessen verzögert werden würde.<sup>2</sup> Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, ist in jedem Fall ein zweiter Prüfer zu bestellen.<sup>3</sup> Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat. 4Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine Note einigen; gelingt dies nicht, entscheidet der Prüfungsausschuss; er kann einen weiteren Gutachter hinzuziehen.<sup>5</sup> Bei der Notenbildung wird nur eine Stelle hinter dem Komma berücksichtigt. 
 
 (10) Wird die geologische Kartierung nicht mit der Diplomarbeit kombiniert, so gelten die Bestimmungen der Absätze 1 bis 9 entsprechend; die Bearbeitungszeit für Diplomarbeit und Kartierung insgesamt beträgt grundsätzlich sechs Monate. 
 
@@ -610,13 +610,13 @@ Die Diplomprüfung ist nicht bestanden, wenn die Bewertung der Diplomarbeit oder
 
 ## **§ 31 Wiederholung der Diplomprüfung** 
 
-(1)[1] Ist die Diplomprüfung nicht bestanden oder ist § 9 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet worden sind, einmal wiederholt 
+(1)<sup>1</sup> Ist die Diplomprüfung nicht bestanden oder ist § 9 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet worden sind, einmal wiederholt 
 
 17 
 
-werden.[2] Gilt die Diplomprüfung gemäß § 3 Abs. 6 als nicht bestanden, ist sie insgesamt zu wiederholen. 
+werden.<sup>2</sup> Gilt die Diplomprüfung gemäß § 3 Abs. 6 als nicht bestanden, ist sie insgesamt zu wiederholen. 
 
-(2)[1] Wird die Diplomarbeit oder geologische Kartierung mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestens vier Wochen nach der Bekanntgabe der Noten zu stellen ist, eine Wiederholung mit neuem Thema möglich.[2] Die Wiederholung muss spätestens innerhalb der nächsten zwölf Monate erfolgen.[3] Eine zweite Wiederholung ist ausgeschlossen.[4] Im Übrigen gilt § 28 entsprechend. 
+(2)<sup>1</sup> Wird die Diplomarbeit oder geologische Kartierung mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestens vier Wochen nach der Bekanntgabe der Noten zu stellen ist, eine Wiederholung mit neuem Thema möglich.<sup>2</sup> Die Wiederholung muss spätestens innerhalb der nächsten zwölf Monate erfolgen.<sup>3</sup> Eine zweite Wiederholung ist ausgeschlossen.<sup>4</sup> Im Übrigen gilt § 28 entsprechend. 
 
 (3) § 23 Abs. 2 bis 5 gilt entsprechend. 
 
@@ -626,11 +626,11 @@ werden.[2] Gilt die Diplomprüfung gemäß § 3 Abs. 6 als nicht bestanden, ist 
 
 ## **Zeugnis und Diplom** 
 
-(1)[1] Über die bestandene Diplomprüfung sind ein Zeugnis und ein Diplom auszustellen.[2] Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+(1)<sup>1</sup> Über die bestandene Diplomprüfung sind ein Zeugnis und ein Diplom auszustellen.<sup>2</sup> Hierbei soll eine Frist von vier Wochen eingehalten werden. 
 
 (2) Das Zeugnis enthält die Noten der einzelnen Prüfungsfächer, die Namen der Prüfer, das Thema und die Note der Diplomarbeit und der geologischen Kartierung mit Angabe des Aufgabenstellers und die Prüfungsgesamtnote. 
 
-(3)[1] Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind.[3] Die Diplomurkunde wird vom Vorsitzenden des Prüfungsausschusses und vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen. 
+(3)<sup>1</sup> Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind.<sup>3</sup> Die Diplomurkunde wird vom Vorsitzenden des Prüfungsausschusses und vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen. 
 
 ## **§ 33 Inkrafttreten** 
 

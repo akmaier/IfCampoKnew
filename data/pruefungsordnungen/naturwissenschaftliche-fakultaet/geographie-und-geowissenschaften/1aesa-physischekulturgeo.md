@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_PhysischeKulturGeo.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:46:19+00:00
-page_count_chars: 6874
+scraped_at: 2026-07-01T09:09:29+00:00
+page_count_chars: 6920
 ---
 
 # 5. August 2008
@@ -12,7 +12,7 @@ page_count_chars: 6874
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_PhysischeKulturGeo.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 5. August 2008 
 
@@ -52,29 +52,28 @@ Im Studiengang Physische Geographie gehen die Module PG9 und PPrakt nicht in die
 
 |2. FS|Kleines Geländeseminar(3Tage)|2|Vor-oder Nacharbeit|
 |---|---|---|---|
-|**PG 6**|**Einführung indie Methoden der PG**|**10**||
+|**PG 6**|**Einführung indie Methoden der PG**<br>|**10**||
 |2. FS|Übung: Statistik I|2|Klausur (90 Min.)|
-|3. FS|Seminar:Statistik II|3|Klausur(90Min.)|
-|3. FS|Seminar:GIS undFernerkundung|5|Übungsaufgaben|
+|3. FS|Seminar:Statistik II|3|Klausur(90Min.)<br>|
+|3. FS<br>|Seminar:GIS undFernerkundung<br>|5<br>|Übungsaufgaben|
 |**PG 7**|**PG vertieft**|**10**||
 |3. FS|Seminar PG|4|Referat + weitere<br>Prüfungsleistung|
 |3. FS|Seminar PG|4|Referat + weitere<br>Prüfungsleistung|
 |4. FS|Kleines Geländeseminar (3 Tage)|2|Vor-oder Nacharbeit|
 |**PG 8**|**Spezielle Methoden der PG**|**10**||
-|4. FS|Projektseminar PG|7|Ausarbeitung und<br>Präsentation|
+|4. FS|Projektseminar PG<br>|7|Ausarbeitung und<br>Präsentation|
 |5 FS|Übung: Spezielle Methoden der PG oder<br>Luftbildinterpretation|3|Hausaufgaben|
-|**PG 9**|**Spezielle Themenfelder der PG und der**<br>**regionalen Geographie**|**10**|**Nur**<br>**Studienleistungen **|
+|**PG 9**|**Spezielle Themenfelder der PG und der**<br>**regionalen Geographie**<br>|**10**|**Nur**<br>**Studienleistungen **|
 |5. FS|Vorlesung Ökozonen|4|Regelmäßige<br>Teilnahme|
 |5. FS|Vorlesung zu Region oder Spezialthema PG|4|Regelmäßige<br>Teilnahme|
 |6. FS|Kolloquium PG|2|Regelmäßige<br>Teilnahme|
 |**PG 10**|**Regionale Geographie**|**10**||
-|3. FS|Seminar zum großen Geländeseminar|3|Hausarbeit+Referat|
+|3. FS<br>|Seminar zum großen Geländeseminar<br>|3|Hausarbeit+Referat<br>|
 |4. FS|Großes Geländeseminar (mindestens 8<br>Tage)|7|Vor- und/oder<br>Nacharbeit|
 |**PPrakt**|**Außeruniversitäres Praktikum**|**10**|**Nur**<br>**Studienleistungen:**<br>Bescheinigung +<br>Praktikumsbericht|
 |**PBA**|**Bachelorarbeit PG**|**15**||
 |6. FS|BachelorarbeitPG|12|Monographie|
-|6. FS|Verteidigung|3|Mündliche Prüfung|
-||||“|
+|6. FS|Verteidigung|3|Mündliche Prüfung<br>“|
 
 ## 2. Anlage 3 wird wie folgt geändert: 
 
@@ -105,13 +104,13 @@ Im Studiengang Kulturgeographie gehen die Module KG9 und KPrakt nicht in die Ber
 |2. FS|Seminar PG|4|Referat + weitere<br>Prüfungsleistung|
 |2. FS|Kleines Geländeseminar(3Tage)|2|Vor-oder Nacharbeit|
 |**KG 6**|**Einführung in die Methoden der KG**|**10**||
-|2. FS|Übung: Statistik I|2|Klausur (90 Min.)|
+|2. FS|Übung: Statistik I|2|Klausur (90 Min.)<br>|
 |3. FS|Seminar: Empirische Sozialforschung|3|Übungsaufgaben|
 |3. FS|Seminar: GIS und Fernerkundung|5|Übungsaufgaben|
 |**KG 7**|**KG vertieft**|**10**||
 |3. FS|Seminar KG|4|Referat + weitere<br>Prüfungsleistung|
 |3. FS|Seminar KG|4|Referat + weitere<br>Prüfungsleistung|
-|4. FS|Kleines Geländeseminar (3 Tage)|2|Vor-oder Nacharbeit|
+|4. FS|Kleines Geländeseminar (3 Tage)|2|<br>Vor-oder Nacharbeit|
 |**KG 8**|**Spezielle Methoden der KG**|**10**||
 |4. FS|Projektseminar KG|7|Ausarbeitung und<br>Präsentation|
 |5. FS|Übung:SpezielleMethodender KG|3|Hausaufgaben|
@@ -128,9 +127,7 @@ Im Studiengang Kulturgeographie gehen die Module KG9 und KPrakt nicht in die Ber
 |**KPrakt**|**Außeruniversitäres Praktikum**|**10**|**Nur**<br>**Studienleistungen:**<br>Bescheinigung +<br>Praktikumsbericht|
 |**KBA**|**Bachelorarbeit KG**|**15**||
 |6. FS|BachelorarbeitKG|12|Monographie|
-|6. FS|Verteidigung|3|Mündliche Prüfung|
-
-„ 
+|6. FS|Verteidigung|3|Mündliche Prüfung<br>„|
 
 ## **§2** 
 

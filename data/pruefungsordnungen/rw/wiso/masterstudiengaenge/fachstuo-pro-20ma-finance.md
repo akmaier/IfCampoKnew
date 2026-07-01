@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.07.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/FachStuO+PrO%20MA-Finance...pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:39+00:00
-page_count_chars: 10228
+scraped_at: 2026-07-01T11:01:58+00:00
+page_count_chars: 10016
 ---
 
 # PDF vom 20.07.2009
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden insbesondere anerkannt: 
 
 - 1..  Bachelorabschluss in einem wirtschaftsrechtlichen Studiengang, 
 
@@ -66,97 +66,88 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3. Motivation zum Masterstudium, bisheriger Werdegang und sonstige Fähigkeiten, Kenntnisse und Softskills (max. 20 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des Lösungskonzept bzw. der Arbeitsprobe durch die Zulassungskommission hinsichtlich ihrer besonderen fachlichen Kompetenzen in wissenschaftlichen Arbeitsmethoden in Bezug auf die Qualifikation zum Masterstudium Finance, Auditing, Controlling, Taxation beurteilt.[ 2] Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte. 3Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des Lösungskonzept bzw. der Arbeitsprobe durch die Zulassungskommission hinsichtlich ihrer besonderen fachlichen Kompetenzen in wissenschaftlichen Arbeitsmethoden in Bezug auf die Qualifikation zum Masterstudium Finance, Auditing, Controlling, Taxation beurteilt.<sup>2</sup> Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte. 3Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten Semester werden interdisziplinäre Grundkenntnisse vertiefend vermittelt (Pflichtbereich = 30 ECTS-Punkte).[2] Im zweiten und dritten Semester wählen die Studierenden Module aus einem Angebot von größeren Vertiefungsmodulen (jeweils 10 ECTSPunkte) und Ergänzungsmodulen (jeweils 5 ECTS-Punkte) im Gesamtumfang von 60 ECTS-Punkten (Wahlbereich).[3] Im Modulhandbuch werden den Studierenden berufsfeldspezifische Vorschläge zur Zusammenstellung von Modulen (z. B. Steuerberater/in, Investmenbanker/in, Leiter/in Finanz- und Rechnungswesen) unterbreitet.[4] Im vierten Se- 
+(1)<sup>1</sup> Im ersten Semester werden interdisziplinäre Grundkenntnisse vertiefend vermittelt (Pflichtbereich = 30 ECTS-Punkte).<sup>2</sup> Im zweiten und dritten Semester wählen die Studierenden Module aus einem Angebot von größeren Vertiefungsmodulen (jeweils 10 ECTSPunkte) und Ergänzungsmodulen (jeweils 5 ECTS-Punkte) im Gesamtumfang von 60 ECTS-Punkten (Wahlbereich).<sup>3</sup> Im Modulhandbuch werden den Studierenden berufsfeldspezifische Vorschläge zur Zusammenstellung von Modulen (z. B. Steuerberater/in, Investmenbanker/in, Leiter/in Finanz- und Rechnungswesen) unterbreitet.<sup>4</sup> Im vierten Se- 
 
 2 
 
-mester ist im Modul Masterarbeit (30 ECTS-Punkte) die Masterthesis zu erstellen.[5] Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
+mester ist im Modul Masterarbeit (30 ECTS-Punkte) die Masterthesis zu erstellen.<sup>5</sup> Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
-(2)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(2)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium **„** Finance, Auditing, Controlling, Taxation“ aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium **„** Finance, Auditing, Controlling, Taxation“ aufnehmen. 
 
 3 
 
 ## **Anlage** 
 
-## Anlage : Überblickstabelle Studienverlauf 
+### Anlage : Überblickstabelle Studienverlauf 
 
-|**Studienplan Master FACT**|**Studienplan Master FACT**|**Studienplan Master FACT**|**Studienplan Master FACT**|**WS**|**SS**|**WS**|**SS**|
+|**Studienplan Master FACT**||||**W**|**S**|**S**|**S**<br>**WS**<br>**SS**|
 |---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|
-||**SQ**|SWS|ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|
+|||||**1**||**2**|**3**<br>**4**|
+||**SQ**|SWS|ECTS|SWS|ECTS|SWS|ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS|
 |**Pflichtbereich (30 ECTS)**||||||||
 |**Modul: Grundlagen FACT 1**||**9**|**15**|||||
-|Advanced Corporate Finance||||3<br>5||||
-|Controllingof Business Systems||||3<br>5||||
-|Konzernrechnungslegung||||3<br>5||||
+|Advanced Corporate Finance||||3|5|||
+|Controllingof Business Systems||||3|5|||
+|Konzernrechnungslegung||||3|5|||
 |**Modul: Grundlagen FACT 2**||**7**|**10**|||||
-|Steuerliche Gew innermittlung||||4<br>5||||
-|Unternehmenssteuerrecht|||||3<br>5|||
-|**Modul: Grundlagen FACT 3**||**2**|**5**|||2<br>5||
-|Hauptseminar|**+**|||||||
-|**Summe**||**18**|**30**|**20**|**5**|**5**||
-|||||||||
-|||||||||
+|Steuerliche Gew innermittlung||||4|5|||
+|Unternehmenssteuerrecht||||||3|5|
+|**Modul: Grundlagen FACT 3**||**2**|**5**|||||
+|Hauptseminar|**+**||||||2<br>5|
+|**Summe**||**18**|**30**||**20**||**5**<br>**5**|
 |**Vertiefungs- und Ergänzungsbereich (60 ECTS)**||||||||
 |**Modul: Vertiefung Finance**||**6**|**10**|||||
-|Finanz- und Bankmanagement||||3<br>5||||
-|Derivate und Strukturierte Finanzierungen|||||3<br>5|||
+|Finanz- und Bankmanagement||||3|5|||
+|Derivate und Strukturierte Finanzierungen||||||3|5|
 |**Modul: Vertiefung Auditing**||**6**|**10**|||||
-|Sonderbilanzen und Sonderprüfungen||||3<br>5||||
-|Spezialfragen der Rechnungslegung|||||3<br>5|||
+|Sonderbilanzen und Sonderprüfungen||||3|5|||
+|Spezialfragen der Rechnungslegung||||||3|5|
 |**Modul: Vertiefung Controlling**||**6**|**10**|||||
-|Controllingand Reporting||||4<br>3<br>5<br>3<br>5|3<br>5<br>4<br>5<br>3<br>5<br>3<br>5|||
-|Controllingof Corporate Investments||||||||
+|Controllingand Reporting||||3|5|||
+|Controllingof Corporate Investments||||||3|5|
 |**Modul: Vertiefung Tax Management**||**7**|**10**|||||
-|Rechtsformen und Besteuerung||||||||
-|Aperiodische Besteuerungsvorgänge||||||||
+|Rechtsformen und Besteuerung||||||4|5|
+|Aperiodische Besteuerungsvorgänge||||||3|5|
 |**Modul: Vertiefung Tax Law**||**6**|**10**|||||
-|Besteuerungsverfahren und Rechtsschutz||||||||
-|Umsatzsteuerrecht||||||||
+|Besteuerungsverfahren und Rechtsschutz||||3|<br>5|||
+|Umsatzsteuerrecht|||||4|3|5|
 
-|**Modul: Vertiefung Gesellschaftsrecht**||**6**|**10**|3<br>5|3<br>5<br>3<br>5<br>3<br>5<br>3<br>5<br>3<br>5<br>2<br>5<br>2<br>5<br>2<br>5|3<br>5<br>3<br>5<br>2<br>5<br>3<br>5<br>3<br>5<br>3<br>5<br>3<br>5<br>2<br>5<br>2<br>5<br>2<br>5<br>2<br>5||
-|---|---|---|---|---|---|---|---|
-|Personenunternehmen und GmbH||||||||
-|Aktiengesellschaften und Kapitalmarktrecht||||||||
-|**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**||**6**|**10**|||||
-|Bürgerliches,Handels- und Insolvenzrecht I||||||||
-|Bürgerliches,Handels- und Insolvenzrecht II||||||||
-|||||||||
-|**Modul: Fallstudien Finance**|**+**|3|5|||||
-|**Modul: Fallstudien Auditing**|**+**|2|5|||||
-|**Modul: Prüfungstechnik**||3|5|||||
-|**Modul: Cases in Business Controlling**|**+**|3|5|||||
-|**Modul: Unternehmensbesteuerung und EU**||3|5|||||
-|**Modul: Internationales Steuerrecht**||3|5|||||
-|**Modul: Verbundene Unternehmen und Umwandlung**||3|5|||||
-|**Modul: Theorie und Politik der Besteuerung**||3|5|||||
-|**Modul: Industrieökonomik**||3|5|||||
-|||||||||
-|**Modul: Hauptseminar Finance**|**+**|2|5|||||
-|**Modul: Hauptseminar Auditing**|**+**|2|5|||||
-|**Modul: Hauptseminar Controlling**|**+**|2|5|||||
-|**Modul: Hauptseminar Tax Management**|**+**|2|5|||||
-|**Modul: Hauptseminar Tax Law**|**+**|2|5|||||
-|**Modul: Hauptseminar Wirtschaftsrecht**|**+**|2|5|||||
-|**Modul: Hauptseminar Finanzwissenschaft**|**+**|2|5|||||
-|||||||||
-|_Zwischensumme der Auswahlmöglichkeiten_|||_150_|_25_<br>**10**|_70_<br>**25**|_55_<br>**25**||
-|**davon Summe**|||**60**|||||
-|||||||||
-|||||||||
-|**Masterarbeit (30 ECTS)**||||||||
-|**Modul: Masterarbeit**|||**30**||||**30**|
-|||||||||
-|||||||||
-|**Gesamt SWS**<br>**Gesamt ECTS**||||**ca. 18**<br>**30**|**ca. 18**<br>**30**|**ca. 18**<br>**30**|**30**|
+|**Modul: Vertiefung Gesellschaftsrecht**||**6**|**10**|||||||
+|---|---|---|---|---|---|---|---|---|---|
+|Personenunternehmen und GmbH||||3|5|||||
+|Aktiengesellschaften und Kapitalmarktrecht||||||3|5|||
+|**Modul: Vertiefung wirtschaftsrelevantes Zivilrecht**||**6**|**10**|||||||
+|Bürgerliches,Handels- und Insolvenzrecht I||||||3|5|||
+|Bürgerliches,Handels- und Insolvenzrecht II||||||||3|5|
+|**Modul: Fallstudien Finance**|**+**|3|5|||||3|5|
+|**Modul: Fallstudien Auditing**|**+**|2|5|||||2|5|
+|**Modul: Prüfungstechnik**||3|5|||3|5|||
+|**Modul: Cases in Business Controlling**|**+**|3|5|||3|5|||
+|**Modul: Unternehmensbesteuerung und EU**||3|5|||||3|5|
+|**Modul: Internationales Steuerrecht**||3|5|||||3|5|
+|**Modul: Verbundene Unternehmen und Umwandlung**||3|5|||3|5|||
+|**Modul: Theorie und Politik der Besteuerung**||3|5|||||3|5|
+|**Modul: Industrieökonomik**||3|5|||||3|5|
+|**Modul: Hauptseminar Finance**|**+**|2|5|||2|5|||
+|**Modul: Hauptseminar Auditing**|**+**|2|5|||||2|5|
+|**Modul: Hauptseminar Controlling**|**+**|2|5|||||2|5|
+|**Modul: Hauptseminar Tax Management**|**+**|2|5|||||2|5|
+|**Modul: Hauptseminar Tax Law**|**+**|2|5|||2|5|||
+|**Modul: Hauptseminar Wirtschaftsrecht**|**+**|2|5|||||2|5|
+|**Modul: Hauptseminar Finanzwissenschaft**|**+**|2|5|||2|5|||
+|_Zwischensumme der Auswahlmöglichkeiten_|||_150_||_25_||_70_||_55_|
+|**davon Summe**|||**60**||**10**||**25**||**25**|
+|**Masterarbeit (30 ECTS)**||||||||||
+|**Modul: Masterarbeit**|||**30**||||||**30**|
+|**Gesamt SWS**<br>**Gesamt ECTS**||||**ca. 18**|**30**|**ca. 18**|**30**|**ca. 18**|**30**<br>**30**|
 
 5 
 

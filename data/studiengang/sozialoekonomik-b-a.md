@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:50:47+00:00
+scraped_at: 2026-07-01T08:27:54+00:00
 ---
 
 # Sozialökonomik (B.A.)
@@ -46,7 +46,7 @@ Typische Fragen, die im Bachelor Sozialökonomik interdisziplinär behandelt wer
 
 Diese und andere Fragen rund um das Zusammenspiel zwischen Wirtschaft und Gesellschaft müssen in einem ersten Schritt theoretisch erklärt werden. Um die Richtigkeit dieser Erklärungen zu überprüfen benötigen wir in einem zweiten Schritt Daten. Die Fähigkeit, diese Daten zu erheben, auszuwerten und zu interpretieren („Data Science“), sind zentrale Kompetenzen, die im Bachelorstudiengang Sozialökonomik vermittelt werden. Die vielfältigen Möglichkeiten für **Auslandsaufenthalte und -praktika** bereiten in Kombination mit einem **großen Wahlangebot an Sprachen** auf die **internationalisierte Arbeitswelt** vor.
 
-### Bachelor of Arts (1 Fach) Sozialökonomik
+### Fachanteile des Studiengangs Sozialökonomik (B.A.)
 
 * Sozialökonomische Grundlagen (30%)
 * Methodische Grundlagen (24%)

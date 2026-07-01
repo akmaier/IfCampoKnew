@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Studiengang wurde aufgehoben, Einschreibung ist nicht mehr möglich"
 größe: "1-50"
 besondere_studienformen: "Weiterbildungs-/berufsbegleitender Studiengang"
-scraped_at: 2026-05-01T06:49:41+00:00
+scraped_at: 2026-07-01T08:26:38+00:00
 ---
 
 # Organisations- und Personalentwicklung (M.A.)

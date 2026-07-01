@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Februar 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES-BA%20WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:23:23+00:00
-page_count_chars: 11359
+scraped_at: 2026-07-01T10:40:00+00:00
+page_count_chars: 10947
 ---
 
 # 24. Februar 2010
@@ -12,13 +12,13 @@ page_count_chars: 11359
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES-BA%20WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Sechste Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
 
-## Vom 24. Februar 2010 
+Vom 24. Februar 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 28. August 2009, wird wie folgt geändert: 
 
@@ -72,7 +72,7 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 9. In § 24 werden nach der Ziffer „31“ die Worte und Ziffern „oder 33 oder 35“ eingefügt. 
 
-## 10. § 28 wird wie folgt geändert: 
+# 10. § 28 wird wie folgt geändert: 
 
 - a) In der Überschrift werden die Wörter „und International Business Studies“ gestrichen. 
 
@@ -82,19 +82,19 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 12. Es werden folgende neue §§ 30 und 31 eingefügt: 
 
-## „ **§ 30** 
+# „ **§ 30** 
 
-## **Pflichtbereich im Studium International Business Studies** 
+# **Pflichtbereich im Studium International Business Studies** 
 
 (1) Zum Bestehen der Bachelorprüfung müssen im **Pflichtbereich** des Bachelorstudiengangs International Business Studies einführende Module/Assessmentphase, grundlegende betriebswirtschaftliche Module, grundlegende volkswirtschaftliche Module, Module aus dem internationalen Bereich Politik, Wirtschaft, Gesellschaft und Management und das Modul aus dem Bereich Recht im Umfang von 85 ECTSPunkten erfolgreich abgeschlossen sein. 
 
-(2) Einführende Module/Assessmentphase sind: 
+- (2) Einführende Module/Assessmentphase sind: 
 
 1. Unternehmensplanspiel 
 
 2. Unternehmer und Unternehmen 
 
-(5    ECTS-Punkte) (5    ECTS-Punkte) 
+   - (5    ECTS-Punkte) (5    ECTS-Punkte) 
 
 - (3) Methodische Grundlagen sind: 
 
@@ -138,7 +138,7 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 (7,5 ECTS-Punkte) (7,5 ECTS-Punkte) (5    ECTS-Punkte) (5    ECTS-Punkte) 
 
-## **§ 31 Assessmentprüfung im Studium International Business Studies; Studienverlauf** 
+# **§ 31 Assessmentprüfung im Studium International Business Studies; Studienverlauf** 
 
 Zum Bestehen der Assessmentprüfung im Studium International Business Studies sind bis zum Ende des zweiten Semesters folgende Module erfolgreich abzulegen: 
 
@@ -166,7 +166,7 @@ Zum Bestehen der Assessmentprüfung im Studium International Business Studies si
 
 (5    ECTS-Punkte) (5    ECTS-Punkte) (5    ECTS-Punkte) (7,5 ECTS-Punkte) (5    ECTS-Punkte) (5    ECTS-Punkte) (5    ECTS-Punkte) (7,5 ECTS-Punkte) (7,5 ECTS-Punkte) (2,5 ECTS-Punkte) (5    ECTS-Punkte)“ 
 
-## 13. Die bisherigen §§ 30 bis 43 werden zu den neuen §§ 32 bis 45. 
+# 13. Die bisherigen §§ 30 bis 43 werden zu den neuen §§ 32 bis 45. 
 
 14. Im neuen § 40 Abs. 2 Nr. 2 werden die Worte „Vertiefungsblöcke Auslandsblock“ durch das Wort „Auslandsblöcke“ ersetzt. 
 
@@ -176,7 +176,7 @@ Zum Bestehen der Assessmentprüfung im Studium International Business Studies si
 
    - b) Es wird folgender neuer Abs. 3 eingefügt: 
 
-„(3)[1] Im Studium International Business Studies sind Module aus dem Bereich Schlüsselqualifikationen im Umfang von 20 ECTS-Punkten nachzuweisen. 2Diese entfallen auf 
+„(3)<sup>1</sup> Im Studium International Business Studies sind Module aus dem Bereich Schlüsselqualifikationen im Umfang von 20 ECTS-Punkten nachzuweisen. 2Diese entfallen auf 
 
       1. Sprachen: 
 
@@ -188,50 +188,53 @@ Zum Bestehen der Assessmentprüfung im Studium International Business Studies si
 
 16. Die Tabelle in Anlage 2 (Bachelor in International Business Studies) erhält folgende neue Fassung: 
 
-|**Bachelor in International Business Studies**<br>**(IBS)**||||**Assessmentphase**|**Assessmentphase**|||**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**<br>**3**<br>**4**<br>**5**||||||**6**||
-|||SWS|ECTS|SWS<br>ECTS<br>SWS<br>ECTS|||SWS<br>ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS||||SWS<br>ECTS||
-|**Übersicht / Welt des Unternehmens**||**8**|**10**||||||||||
-|Unternehmensplanspiel<br> Unternehmerund Unternehmen||4<br>4|5<br>5|4<br>5|||||||||
-|||||4<br>5|||||||||
-|**Methodische Grundlagen **||**20**|**25**||||||||||
-|Buchführung<br>IT und E-Business<br>Management internationaler Projekte<br> Statistik||4<br>6<br>4<br>6|5<br>7,5<br>5<br>7,5|4<br>5|||||||||
-||||||||4<br>5<br>2<br>2,5||||||
-||||||||4<br>5||||||
-|||||6<br>7,5|||||||||
-|**Internationale Unternehmen und ihrGeschäft**||**12**|**15**||||||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||||||||4<br>5||
-|||||4<br>5|||||||||
-||||||||4<br>5||||||
-|**Internationale Unternehmen und ihre Umwelt**||**8**|**10**||||||||||
-|Mikroökonomie<br>Makroökonomie||4<br>4|5<br>5|4<br>5|||||||||
-|||||4<br>5|||||||||
-|**Internationale Politik, Wirtschaft und Gesellschaft**||**8**|**15**||||||||||
-|Internationale und transnationale Beziehungen<br>Regionen im internationalen System||4<br>4|7,5<br>7,5|4<br>7,5|||||||||
-|||||4<br>7,5|||||||||
-|**Strategisches und internationales Management**||**8**|**10**||||||||||
-|Strategisches und internationales Management I<br> Strategisches undinternationalesManagementII||4<br>4|5<br>5||||4<br>5||||||
-|||||2<br>2,5<br>2<br>2,5|||||||||
-|**Schlüsselqualifikationen**||**16**|**20**||||||||||
-|Sprachen<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Fallstudien zum internationalen Management||8<br>2<br>2<br>4|10<br>2,5<br>2,5<br>5||||2<br>2,5<br>2<br>2,5|||4<br>5|||
-||||||||||2<br>2,5||||
-||||||||2<br>2,5||||||
-||||||||4<br>5||||||
-|**Kernbereich des Schwerpunkts IBS**||**16**|**20**||||||||||
-|Außenwirtschaft<br>Europäisches und internationales Recht<br>Sprachen II für International Business Studies<br>Internationale Unternehmensführung||4<br>4<br>4<br>4|5<br>5<br>5<br>5|||||||4<br>5|||
-||||||||||4<br>5||||
-|||||4<br>5|||||||||
-|||||4<br>5|||||||||
-|**Vertiefungsbereich des Schwerpunkts IBS**||**34 **|**55**||||||||||
-|Block 1: frei wählbar aus internationalen Vertiefungen<br>Block 2: frei wählbar aus internationalen Vertiefungen<br>Block 3: Auslandsblock**<br>Block 4: Auslandsblock**<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||||4<br>5||4<br>5||
-||||||||||4<br>5||4<br>5||
-||||||||||8<br>10||||
-||||||||||8<br>10||||
-||||||||||||2<br>3||
-||||||||||||12||
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu<br>18 Wochen möglich<br>**im Ausland abzulegende Module gemäß learning<br>agreement|SWS|130||22|22||24||24|24|14||
-||ECTS||180|30|30||30||30|30|30||
+|**Bachelor in International Business Studies**|||||||
+|---|---|---|---|---|---|---|
+|**(IBS)**||**Assessment**|**phase**|**Bachel**|**orphase**||
+|||**1**|**2**|**3**|**4**|**5**<br>**6**|
+|SWS<br>|ECTS<br>|<br>SWS<br>ECTS|<br>SWS<br>ECTS|SWS<br>ECTS|<br>SWS<br>ECTS|SWS<br>ECTS<br>SWS<br>ECTS|
+|**Übersicht / Welt des Unternehmens**<br>**8**|**10**||||||
+|Unternehmensplanspiel<br>4|5|4<br>5|||||
+|Unternehmerund Unternehmen<br>4|5|4<br>5|||||
+|**Methodische Grundlagen **<br>**20**|**25**||||||
+|Buchführung<br>4|5|4<br>5|||||
+|IT und E-Business<br>6|7,5|||4<br>5|2<br>2,5||
+|Management internationaler Projekte<br>4|5|||4<br>5|||
+|Statistik<br>6|7,5|6<br>7,5|||||
+|**Internationale Unternehmen und ihrGeschäft**<br>**12**|**15**||||||
+|Absatz<br>4|5|||||4<br>5|
+|Jahresabschluss<br>4|5||4<br>5||||
+|Produktion,Logistik,Beschaffung<br>4|5|||4<br>5|||
+|**Internationale Unternehmen und ihre Umwelt**<br>**8**|**10**||||||
+|Mikroökonomie<br>4|5||4<br>5||||
+|Makroökonomie<br>4|5||4<br>5||||
+|**Internationale Politik, Wirtschaft und Gesellschaft**<br>**8**|**15**||||||
+|Internationale und transnationale Beziehungen<br>4|7,5|4<br>7,5|||||
+|Regionen im internationalen System<br>4|7,5||4<br>7,5||||
+|**Strategisches und internationales Management**<br>**8**|**10**||||||
+|Strategisches und internationales Management I<br>4|5||||4<br>5||
+|Strategisches undinternationalesManagementII<br>4|5||2<br>2,5|2<br>2,5|||
+|**Schlüsselqualifikationen**<br>**16**|**20**||||||
+|Sprachen<br>8|10|||2<br>2,5|2<br>2,5|4<br>5|
+|Präsentationsfähigkeiten<br>2|2,5||||2<br>2,5||
+|Einführung in das wissenschaftliche Arbeiten<br>2|2,5||||2<br>2,5||
+|Fallstudien zum internationalen Management<br>4|5|||4<br>5|||
+|**Kernbereich des Schwerpunkts IBS**<br>**16**|**20**||||||
+|Außenwirtschaft<br>4|5|||||4<br>5|
+|Europäisches und internationales Recht<br>4|5||||4<br>5||
+|Sprachen II für International Business Studies<br>4|5|||4<br>5|||
+|Internationale Unternehmensführung<br>4|5||4<br>5||||
+|**Vertiefungsbereich des Schwerpunkts IBS**<br>**34 **|**55**||||||
+|Block 1: frei wählbar aus internationalen Vertiefungen<br>8|10||||4<br>5|4<br>5|
+|Block 2: frei wählbar aus internationalen Vertiefungen<br>8|10||||4<br>5|4<br>5|
+|<br>Block 3: Auslandsblock**<br>8|10|||||8<br>10|
+|Block 4: Auslandsblock**<br>8|10|||||8<br>10|
+|Seminar zur Bachelorarbeit<br>2|3|||||2<br>3|
+|Bachelorarbeit(9 Wochen*)|12|||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu|||||||
+|<br>18 Wochen möglich<br>SWS<br>130||22|22|24|24|24<br>14|
+|**im Ausland abzulegende Module gemäß learning|||||||
+|<br>agreement<br>ECTS|180|30|30|30|30|30<br>30|
 
 17.  Anlage 3.1 und 3.2 werden in der Fußnote mit den Zeichen „**“ jeweils nach den Worten „alle VWL-Module“ ein Strichpunkt und die Worte „ggf. kann das Angebot nach Maßgabe der jeweils aktuellen Modulbeschreibungen von den hier angegebenen Semestern abweichen“ angefügt. 
 
@@ -251,7 +254,7 @@ Zum Bestehen der Assessmentprüfung im Studium International Business Studies si
 
 20. Das Inhaltsverzeichnis wird an die neue Paragraphenfolge angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

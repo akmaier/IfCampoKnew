@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:50:21+00:00
+scraped_at: 2026-07-01T08:27:21+00:00
 ---
 
 # Politikwissenschaft (M.A.)

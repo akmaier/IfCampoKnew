@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:43:19+00:00
+scraped_at: 2026-07-01T08:19:30+00:00
 ---
 
 # Chemie (Lehramt)
@@ -45,7 +45,7 @@ Bei der Wahl des Lehramtsstudiums in Chemie haben Sie die Möglichkeit sich für
 
 Beim vertieften **Lehramtsstudium Chemie an Gymnasien** müssen Sie sich auf zwei (vorgegebene) Fachwissenschaften festlegen, die den Hauptanteil Ihrer Studieninhalte ausmachen – an der FAU gibt es die Auswahl zwischen **Chemie und Biologie**, **Chemie und Geographie**, **Chemie und Informatik** und **Chemie und Englisch**. Das Lehramtsstudium an Gymnasien findet fast ausschließlich in Erlangen statt. Neben der Theorie in Chemie und Chemie-Didaktik haben Sie auch die Möglichkeit, sich im Labor auszuprobieren. Ein Drittel des Studiums beinhaltet Laborpraktika in anorganischer, organischer und physikalischer Chemie, die Ihnen neben der Vermittlung der Labortechniken und Fachkenntnisse auch Einblicke in die moderne Forschung erlauben.
 
-Beim nicht vertieften **Lehramtsstudium Chemie an Realschulen** wählen Sie ebenfalls zwei Hauptfächer – hier haben Sie an der FAU die Auswahl zwischen **Chemie und Biologie**, **Chemie und Englisch**, **Chemie und Mathematik** und **Chemie und Physik**. Der Umfang der theoretischen Inhalte ist hier aber geringer als beim Lehramt für Gymnasium. Natürlich werden auch hier die benötigten theoretischen und praktischen Kenntnisse in anorganischer, organischer und physikalischer Chemie mit der jeweiligen Didaktik und den Erziehungswissenschaften vermittelt, aber hier spielen die Erziehungswissenschaften, der freie Bereich und die verpflichtenden Schulpraktika eine größere Rolle. Und bitte beachten Sie, dass das Studium zum großen Teil in Nürnberg stattfindet.
+Beim nicht vertieften **Lehramtsstudium Chemie an Realschulen** wählen Sie ebenfalls zwei Hauptfächer – hier haben Sie an der FAU die Auswahl zwischen **Chemie und Biologie**, **Chemie und Englisch**, **Chemie und Mathematik** und **Chemie und Physik**. Der Umfang der theoretischen Inhalte ist hier aber geringer als beim Lehramt für Gymnasium. Natürlich werden auch hier die benötigten theoretischen und praktischen Kenntnisse in anorganischer, organischer und physikalischer Chemie mit der jeweiligen Didaktik und den Erziehungswissenschaften vermittelt, aber hier spielen die Erziehungswissenschaften, der freie Bereich und die verpflichtenden Schulpraktika eine größere Rolle. Und bitte beachten Sie, dass das Studium zum großen Teil auch in Nürnberg stattfindet.
 
 Beim nicht vertieften **Lehramtsstudium Chemie an Grund- und Mittelschulen** wählen Sie neben dem **Hauptfach Chemie** drei weitere Didaktikfächer aus (je nach der Schulart) vorgegebenen Fächergruppen aus, um möglichst breit aufgestellt zu sein. Neben den Vorlesungen und Laborpraktika in der Fachwissenschaft liegt hier ein weiterer Schwerpunkt auf allgemeiner Didaktik und verpflichtenden Schulpraktika. Auch hier findet ein großer Teil des Studiums in Nürnberg statt.
 
@@ -87,9 +87,9 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Details und Anmerkungen
 
-Die Bewerbungsfrist für das Wintersemester für internationale Bewerberinnen und Bewerber ist der 15. Juli. Aber bitte beachten Sie: Das gesamte Lehramtsstudium ist auf Deutsch.
+Die Bewerbungsfrist für das Wintersemester für internationale Bewerberinnen und Bewerber ist der 15. Juli. Aber bitte beachten Sie: Das gesamte Lehramtsstudium ist auf **Deutsch**.
 
-Das Lehramtsstudium Chemie ist grundsätzlich zulassungsfrei. Aber bitte beachten Sie, dass bei der Wahl bestimmter Kombinations-Fächer eventuell Zugangsbeschränkungen berücksichtigt werden müssen. Einige Fächer fordern ein Eignungsfeststellungsverfahren, ein Voranmeldeverfahren oder eine Eignungsprüfung. Diese Vorgaben können sich auch jederzeit ändern. Genauere Informationen zu entsprechenden Fächern und wie Sie deren Zugangsbedingungen erfüllen, finden Sie zusammen mit den Fristen auf den [FAU-Seiten](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/). Bitte informieren Sie sich rechtzeitig!
+Das Lehramtsstudium Chemie ist grundsätzlich zulassungsfrei. Aber bitte beachten Sie, dass bei der Wahl bestimmter Kombinations-Fächer eventuell Zugangsbeschränkungen berücksichtigt werden müssen. Einige Fächer fordern ein Eignungsfeststellungsverfahren, ein Voranmeldeverfahren oder eine Eignungsprüfung. Diese Vorgaben können sich auch jederzeit ändern. Genauere Informationen zu entsprechenden Fächern und wie Sie deren Zugangsbedingungen erfüllen, finden Sie zusammen mit den Fristen auf den [FAU-Seiten](https://www.fau.de/studium/bewerbung-und-zulassung/bewerbung-bachelor-lehramt-staatsexamen/). Bitte informieren Sie sich rechtzeitig!
 
 Neben der Allgemeinen Hochschulreife (Abitur) existieren noch [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/) zum Studium an der FAU.
 
@@ -147,7 +147,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [zfl.fau.de/informationen-fuer-interessierte](https://www.zfl.fau.de/informationen-fuer-interessierte/)
 - [Brückenkurs Chemie](https://www.nat.fau.de/studium/studienstart/vorkurse/#chemie-lebensmittelchemie-molecular-science-pharmazie-und-nebenfach-chemie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
-- [FAU-Seiten](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/)
+- [FAU-Seiten](https://www.fau.de/studium/bewerbung-und-zulassung/bewerbung-bachelor-lehramt-staatsexamen/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)

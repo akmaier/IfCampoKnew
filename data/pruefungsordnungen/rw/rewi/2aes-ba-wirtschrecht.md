@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES_BA-WirtschRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:18:03+00:00
-page_count_chars: 16940
+scraped_at: 2026-07-01T10:36:53+00:00
+page_count_chars: 17161
 ---
 
 # 23. Juli 2014
@@ -12,27 +12,27 @@ page_count_chars: 16940
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES_BA-WirtschRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR)** 
+# **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR)** 
 
 Vom 23. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität ErlangenNürnberg (StPO/WR) vom 29. September 2010, zuletzt geändert durch Satzung vom 18. Februar 2013, wird wie folgt geändert: 
 
 1. § 3 Abs. 4 Satz 3 erhält folgende Fassung: 
 
-„[3] Der Vertiefungsbereich (insgesamt 35 ECTS-Punkte) setzt sich aus einem Modul Wirtschaftswissenschaften und einer Vertiefung Recht (jeweils 5 ECTS-Punkte), zwei frei wählbaren Modulen aus dem Bereich Wirtschaftswissenschaften oder Recht (insgesamt 10 ECTS-Punkte) sowie der Bachelorarbeit zuzüglich eines Seminars (insgesamt 15 ECTS Punkte) zusammen.“ 
+„<sup>3</sup> Der Vertiefungsbereich (insgesamt 35 ECTS-Punkte) setzt sich aus einem Modul Wirtschaftswissenschaften und einer Vertiefung Recht (jeweils 5 ECTS-Punkte), zwei frei wählbaren Modulen aus dem Bereich Wirtschaftswissenschaften oder Recht (insgesamt 10 ECTS-Punkte) sowie der Bachelorarbeit zuzüglich eines Seminars (insgesamt 15 ECTS Punkte) zusammen.“ 
 
-## 2. § 5 wird wie folgt geändert: 
+# 2. § 5 wird wie folgt geändert: 
 
 a) Abs. 2 wird wie folgt geändert: 
 
 aa) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Diese Prüfung soll in der Regel aus einer Prüfungs- oder Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen (Portfolioprüfung) bestehen.“ bb) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
+„<sup>2</sup> Diese Prüfung soll in der Regel aus einer Prüfungs- oder Studienleistung bestehen.<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen (Portfolioprüfung) bestehen.“ bb) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
 b) Abs. 3 wird wie folgt geändert: 
 
@@ -44,31 +44,31 @@ bb) In Satz 4 werden die Worte „die erfolgreiche Teilnahme oder“ gestrichen.
 
 3. Nach § 5 wird folgender neuer § 6 eingefügt: 
 
-## „ **§ 6 Anwesenheitspflicht** 
+# „ **§ 6 Anwesenheitspflicht** 
 
-(1)[ 1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen 
 
 1 
 
 Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[ 1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig. 3Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig. 3Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[ 1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.<sup>3</sup> Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die oder der Studierende ihren oder seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.“ 
 
 Die bisherigen §§ 6 bis 32 werden zu §§ 7 bis 34. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
-## 4. § 7 (neu) Abs. 2 erhält folgende Fassung: 
+# 4. § 7 (neu) Abs. 2 erhält folgende Fassung: 
 
 „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung.“ 
 
 5. In § 9 (neu) Abs. 6 Satz 3 werden nach dem Wort „werden“ die Worte „von der Präsidentin bzw. dem“ eingefügt. 
 
-6. § 12 (neu) wird wie folgt geändert: 
+# 6. § 12 (neu) wird wie folgt geändert: 
 
-   - a) In Abs. 1 wird Satz 1 gestrichen. Die Satznummern werden entsprechend angepasst. 
+- a) In Abs. 1 wird Satz 1 gestrichen. Die Satznummern werden entsprechend angepasst. 
 
 2 
 
@@ -76,13 +76,13 @@ Die bisherigen §§ 6 bis 32 werden zu §§ 7 bis 34. Das Inhaltsverzeichnis wir
 
 7. § 13 (neu) erhält folgende neue Fassung: 
 
-## „ **§ 13 Anerkennung von Studienzeiten, Studien- und Prüfungsleistungen** 
+# „ **§ 13 Anerkennung von Studienzeiten, Studien- und Prüfungsleistungen** 
 
-(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können anerkannt werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können anerkannt werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend den Empfehlungen der in der Datenbank anabin (Informationsportal zur Anerkennung ausländischer Bildungsabschlüsse der KMK) hinterlegten Daten als gleichwertig anerkannt und gemäß § 20 gebildet wurden.[2] Stimmt das gem. Satz 1 als gleichwertig anerkannte Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 20 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
+(3)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend den Empfehlungen der in der Datenbank anabin (Informationsportal zur Anerkennung ausländischer Bildungsabschlüsse der KMK) hinterlegten Daten als gleichwertig anerkannt und gemäß § 20 gebildet wurden.<sup>2</sup> Stimmt das gem. Satz 1 als gleichwertig anerkannte Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 20 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
 
 x = gesuchte Umrechnungsnote 
 
@@ -90,9 +90,9 @@ Nmax = beste erzielbare Note
 
 Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet. 
 
-3Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+3Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.<sup>4</sup> Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
-(4)[1] Die für die Anerkennung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 bis 6 besteht ein Rechtsanspruch auf Anerkennung. 3Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich.“ 
+(4)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 bis 6 besteht ein Rechtsanspruch auf Anerkennung. 3Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters; die Entscheidung ergeht schriftlich.“ 
 
 8. § 16 (neu) wird wie folgt geändert: 
 
@@ -108,11 +108,11 @@ Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet.
 
    - b) In Satz 3 wird das Wort „regeln“ durch das Wort „ergeben“, das Wort „nach“ durch das Wort „aus“ und das Wort „das“ durch das Wort „dem“ ersetzt. 
 
-## 10. § 18 (neu) wird wie folgt geändert: 
+10. § 18 (neu) wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: aa) In Satz 1 wird nach dem Wort „Prüfung“ der Klammerzusatz „(Ausprägungen siehe Anlage)“ eingefügt. bb) Nach Satz 1 werden folgende Sätze 2 und 3 angefügt: 
+   - a) Abs. 1 wird wie folgt geändert: aa) In Satz 1 wird nach dem Wort „Prüfung“ der Klammerzusatz „(Ausprägungen siehe Anlage)“ eingefügt. bb) Nach Satz 1 werden folgende Sätze 2 und 3 angefügt: 
 
-   - „[2] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen. 3Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden.“ 
+      - „<sup>2</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen. 3Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden.“ 
 
 Eine Satznummerierung wird eingefügt. 
 
@@ -122,9 +122,9 @@ Eine Satznummerierung wird eingefügt.
 
 11. Nach § 18 (neu) wird folgender neuer § 19 eingefügt: 
 
-## „ **§ 19 Elektronische Prüfung** 
+# „ **§ 19 Elektronische Prüfung** 
 
-1Prüfungen können in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[3] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[4] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der/des betroffenen Studierenden von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
+1Prüfungen können in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.<sup>3</sup> Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>4</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der/des betroffenen Studierenden von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
 
 Die bisherigen §§ 19 bis 34 werden zu §§ 20 bis 35. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
@@ -138,15 +138,15 @@ Die bisherigen §§ 19 bis 34 werden zu §§ 20 bis 35. Das Inhaltsverzeichnis w
 
 c) In Abs. 3 Satz 2 werden die Worte „den Prüfenden oder“ gestrichen. 
 
-## 13. § 22 (neu) wird wie folgt geändert: 
+# 13. § 22 (neu) wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden die Worte „unbeschadet der Regelung in Abs. 3“ gestrichen. 
+- aa) In Satz 2 werden die Worte „unbeschadet der Regelung in Abs. 3“ gestrichen. 
 
-   - bb) In Satz 6 wird die Zahl „10“ durch die Zahl „12“ ersetzt. 
+bb) In Satz 6 wird die Zahl „10“ durch die Zahl „12“ ersetzt. 
 
-   - cc) In Satz 8 wird das Wort „Erziehungsurlaub“ durch das Wort „Elternzeit“ und die Zahl „6“ durch die Zahl „7“ ersetzt. 
+cc) In Satz 8 wird das Wort „Erziehungsurlaub“ durch das Wort „Elternzeit“ und die Zahl „6“ durch die Zahl „7“ ersetzt. 
 
 b) In Abs. 2 Satz 2 wird die Zahl „6“ durch die Zahl „7“ ersetzt. 
 
@@ -158,7 +158,7 @@ b) In Abs. 2 Satz 2 wird die Zahl „6“ durch die Zahl „7“ ersetzt.
 
 17. In § 29 (neu) wird jeweils nach dem Wort „Anlage“ die Zahl „1“ gestrichen und in Abs. 2 nach dem Wort „aus“ das Wort „der“ eingefügt. 
 
-## 18. § 30 (neu) wird wie folgt geändert: 
+# 18. § 30 (neu) wird wie folgt geändert: 
 
 a) In Abs. 1 wird die Zahl „6“ durch die Zahl „7“ ersetzt. 
 
@@ -166,11 +166,11 @@ a) In Abs. 1 wird die Zahl „6“ durch die Zahl „7“ ersetzt.
 
 19. In § 31 (neu) wird die Zahl „25“ durch die Zahl „28“ ersetzt. 
 
-20. § 32 (neu) wird wie folgt geändert: 
+# 20. § 32 (neu) wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 wird nach dem Wort „gemäß“ das Wort „der“ eingefügt und die Zahl „1“ gestrichen. 
+- a) In Abs. 1 Satz 1 wird nach dem Wort „gemäß“ das Wort „der“ eingefügt und die Zahl „1“ gestrichen. 
 
-   - b) Abs. 2 erhält folgende neue Fassung: 
+- b) Abs. 2 erhält folgende neue Fassung: 
 
 „(2) Im Vertiefungsbereich sind Vertiefungen aus dem Bereich Recht und Wirtschaftswissenschaften wählbar.“ 
 
@@ -198,51 +198,51 @@ a) In Abs. 1 wird die Zahl „6“ durch die Zahl „7“ ersetzt.
 
 **Noten in Mathematik, Statistik, Buchführung, Jahresabschluss werden mit Faktor 0,5 gewichtet; Rest mit Faktor 1** 
 
-|**Bachelor in Wirtschaftsrecht**|||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Semesterzahl**~~**1**~~**------>**|||**1**|**2**|**3**|**4**|**5**|**6**|Prüfung||
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
-|**Grundlagen**||**30**|||||||||
-|Mathematik||10|5|5|||||Gem. PO BA Wirt.wiss||
-|Statistik||10|||10||||Gem. PO BA Wirt.wiss||
-|Sprachen Stufe C1;mind. 2 x Fachsprache||10|10||||||Portfolioprüfung:jeweils Klausur 60 Minuten und Präsentation||
-|**BWL**||**25**|||||||||
-|Buchführung||5|5||||||Gem. PO BA Wirt.wiss||
-|Jahresabschluss||5||5|||||Gem. PO BA Wirt.wiss||
-|Kostenrechnungund Controlling||5|||5||||Gem. PO BA Wirt.wiss||
-|Unternehmensbesteuerung||5||||5|||Gem. PO BA Wirt.wiss||
-|Investition und Finanzierung||5||||5|||Gem. PO BA Wirt.wiss||
-|**VWL**||**15**|||||||||
-|Makroökonomie||5||5|||||Gem. PO BA Wirt.wiss||
-|Mikroökonomie||5||5|||||Gem. PO BA Wirt.wiss||
-|Wirtschaft und Staat||5|||5||||Gem. PO BA Wirt.wiss||
-|**Öffentliches Recht**||**5**|||||||||
-|Einführungin das öffentliche Recht und das Europarecht||5|5||||||Klausur 90-120 Minuten||
-|**Zivilrecht**||**35**|||||||||
-|Einführungin das bürgerliche Recht/BGB Allgemeiner Teil||5|5||||||Klausur 90-120 Minuten||
-|BGB Schuldrecht I inkl. Hausarbeit||10||10|||||Portfolioprüfung: Klausur 90-120 Minuten,Hausarbeit||
-|BGB Schuldrecht II||5|||5||||Klausur 90-120 Minuten||
-|Sachenrecht||5|||5||||Klausur 90-120 Minuten||
-|VertiefungZivilrecht 1: IPR||5|||||5||Klausur 90-120 Minuten||
-|VertiefungZivilrecht 2: Arbeitsrecht||5|||||5||Klausur 90-120 Minuten||
-|**Wirtschaftsrecht**||**35**|||||||||
-|Grundlagen des Steuerrechts||5|||||5||Gem. PO BA Wirt.wiss||
-|Handelsrecht||5||||5|||Klausur 90-120 Minuten||
-|Personengesellschaftsrecht||5||||5|||Klausur 90-120 Minuten||
-|Kartellrecht||5||||5|||Klausur 90-120 Minuten||
-|Kapitalgesellschaftsrecht||5|||||5||Klausur 90-120 Minuten||
-|VertiefungWirtschaftsrecht(InsolvenzR,Konzern- u. UmwR,KapMR)||5||||||5|Klausur 90-120 Min||
-|Wirtschaftsrecht in der Beratungspraxis||5||||||5|Mündliche Prüfung (Gruppenprüfung;30 Minutenje Teilnehmer)||
-|**Vertiefungsbereich**||**35**|||||||||
-|Modul Wirt.wiss2||5||||5|||Gem. PO BA Wirt.wiss||
-|VertiefungRecht3||5|||||5||Klausur 90-120 Min||
-|VertiefungRecht3o. Modul Wirt.wiss2||5|||||5||||
-|VertiefungRecht3o. Modul Wirt.wiss2||5||||||5|||
-|Bachelorarbeit und Seminar zur BA-Arbeit||15||||||15|Portfolioprüfung:||
+|**Bachelor in Wirtschaftsrecht**||||||
+|---|---|---|---|---|---|
+|**Semesterzahl**<sup>**~~1~~**</sup>**------>**|**1**|**2**|**3**<br>**4**<br>**5**|**6**|Prüfung|
+|ECTS|<br>ECTS|<br>ECTS|ECTS<br>ECTS<br>ECTS|<br>ECTS||
+|**Grundlagen**<br>**30**||||||
+|Mathematik<br>10|5|5|||Gem. PO BA Wirt.wiss|
+|Statistik<br>10|||10||Gem. PO BA Wirt.wiss|
+|Sprachen Stufe C1;mind. 2 x Fachsprache<br>10|10||||Portfolioprüfung:jeweils Klausur 60 Minuten und Präsentation|
+|**BWL**<br>**25**||||||
+|Buchführung<br>5|5||||Gem. PO BA Wirt.wiss|
+|Jahresabschluss<br>5||5|||Gem. PO BA Wirt.wiss|
+|Kostenrechnungund Controlling<br>5|||5||Gem. PO BA Wirt.wiss|
+|Unternehmensbesteuerung<br>5|||5||Gem. PO BA Wirt.wiss|
+|Investition und Finanzierung<br>5|||5||Gem. PO BA Wirt.wiss|
+|**VWL**<br>**15**||||||
+|Makroökonomie<br>5||5|||Gem. PO BA Wirt.wiss|
+|Mikroökonomie<br>5||5|||Gem. PO BA Wirt.wiss|
+|Wirtschaft und Staat<br>5|||5||Gem. PO BA Wirt.wiss|
+|**Öffentliches Recht**<br>**5**||||||
+|Einführungin das öffentliche Recht und das Europarecht<br>5|5||||Klausur 90-120 Minuten|
+|**Zivilrecht**<br>**35**||||||
+|Einführungin das bürgerliche Recht/BGB Allgemeiner Teil<br>5|5||||Klausur 90-120 Minuten|
+|BGB Schuldrecht I inkl. Hausarbeit<br>10||10|||Portfolioprüfung: Klausur 90-120 Minuten,Hausarbeit|
+|BGB Schuldrecht II<br>5|||5||Klausur 90-120 Minuten|
+|Sachenrecht<br>5|||5||Klausur 90-120 Minuten|
+|VertiefungZivilrecht 1: IPR<br>5|||5||Klausur 90-120 Minuten|
+|VertiefungZivilrecht 2: Arbeitsrecht<br>5|||5||Klausur 90-120 Minuten|
+|**Wirtschaftsrecht**<br>**35**||||||
+|Grundlagen des Steuerrechts<br>5|||5||Gem. PO BA Wirt.wiss|
+|Handelsrecht<br>5|||5||Klausur 90-120 Minuten|
+|Personengesellschaftsrecht<br>5|||5||Klausur 90-120 Minuten|
+|Kartellrecht<br>5|||5||Klausur 90-120 Minuten|
+|Kapitalgesellschaftsrecht<br>5|||5||Klausur 90-120 Minuten|
+|VertiefungWirtschaftsrecht(InsolvenzR,Konzern- u. UmwR,KapMR)<br>5||||5|Klausur 90-120 Min|
+|Wirtschaftsrecht in der Beratungspraxis<br>5||||5|Mündliche Prüfung (Gruppenprüfung;30 Minutenje Teilnehmer)|
+|**Vertiefungsbereich**<br>**35**||||||
+|Modul Wirt.wiss<sup>2</sup><br>5|||5||Gem. PO BA Wirt.wiss|
+|VertiefungRecht<sup>3</sup><br>5|||5||Klausur 90-120 Min|
+|VertiefungRecht<sup>3</sup>o. Modul Wirt.wiss<sup>2</sup><br>5<br>|||5|||
+|VertiefungRecht<sup>3</sup>o. Modul Wirt.wiss<sup>2</sup><br>5||||5||
+|Bachelorarbeit und Seminar zur BA-Arbeit<br>15||||15|Portfolioprüfung:|
 
 7 
 
-Bachelorarbeit (80 %) und schriftliche Kurzhausarbeit mit Präsentation (20 %) SWS                  133 180 30 30 30 30 30 30 1Bei der angegebenen Semesterzahl handelt es sich lediglich um eine Empfehlung. 2Wählbar aus Vertiefungsbereich Wirtschaftswissenschaften gem. PO BA Wirt.wiss. 
+Bachelorarbeit (80 %) und schriftliche Kurzhausarbeit mit Präsentation (20 %) SWS                  133 180 <mark>30 30 30 30 30 30</mark> 1Bei der angegebenen Semesterzahl handelt es sich lediglich um eine Empfehlung. 2Wählbar aus Vertiefungsbereich Wirtschaftswissenschaften gem. PO BA Wirt.wiss. 
 
 3Wählbar aus Vertiefungsbereich Recht lt. Modulhandbuch 
 

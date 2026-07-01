@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MA OEPE 20220629 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20220629_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:04+00:00
-page_count_chars: 17440
+scraped_at: 2026-07-01T09:58:40+00:00
+page_count_chars: 17382
 ---
 
 # PO MA OEPE 20220629 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 17440
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20220629_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE –** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE –** 
 
-## **Vom 29. Juni 2022** 
+# **Vom 29. Juni 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -50,7 +50,7 @@ Die Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstud
 
    - a) Abs. 2 Satz 4 erhält folgende neue Fassung; der bisherige Satz 4 wird zu Satz 5 und der bisherige Satz 5 wird zu Satz 6: 
 
-„[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
 
 b) Abs. 3 wird wie folgt geändert: 
 
@@ -58,7 +58,7 @@ b) Abs. 3 wird wie folgt geändert:
 
 - bb) Satz 3 erhält folgende neue Fassung; der bisherige Satz 3 wird zu Satz 4; der bisherige Satz 4 wird zu Satz 5: 
 
-„[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
+„<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
 
 7. § 6 wird wie folgt geändert: 
 
@@ -68,29 +68,29 @@ b) Abs. 3 wird wie folgt geändert:
 
 8. In § 7 Abs. 2 werden nach Satz 3 folgende neue Sätze 4 bis 5 angefügt: 
 
-„[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der Prüfungsausschuss im Einvernehmen mit der jeweiligen Beschäftigungsstelle die Prüfungsberechtigung darüber hinaus verlängern.“ 
+„<sup>4</sup> Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.<sup>5</sup> Auf Antrag kann der Prüfungsausschuss im Einvernehmen mit der jeweiligen Beschäftigungsstelle die Prüfungsberechtigung darüber hinaus verlängern.“ 
 
 9. In § 8 Abs. 2 werden nach den Worten „nach Art. 18 Abs. 2 Satz 2 und 3 **BayHSchG** die Worte „i. V. m. Art. 20, 21 **BayVwVfG** “ angefügt. 
 
 2 
 
-## 10. § 9 Abs. 3 wird wie folgt geändert: 
+10. § 9 Abs. 3 wird wie folgt geändert: 
 
-- a) Satz 4 wird wie folgt geändert: 
+   - a) Satz 4 wird wie folgt geändert: 
 
-   - aa) Nach den Worten „erlischt die Anmeldung zur Prüfung“ werden die Worte „für diesen Prüfungstermin“ eingefügt. 
+      - aa) Nach den Worten „erlischt die Anmeldung zur Prüfung“ werden die Worte „für diesen Prüfungstermin“ eingefügt. 
 
-   - bb) Nach den Worten „die bzw. der Studierende ist“ werden die Worte „von der“ durch das Wort „zur“ ersetzt. 
+      - bb) Nach den Worten „die bzw. der Studierende ist“ werden die Worte „von der“ durch das Wort „zur“ ersetzt. 
 
-   - cc) Nach den Worten „zur Teilnahme an derselben“ (neu) wird das Wort „ausgeschlossen“ durch die Worte „nicht mehr berechtigt“ ersetzt. 
+      - cc) Nach den Worten „zur Teilnahme an derselben“ (neu) wird das Wort „ausgeschlossen“ durch die Worte „nicht mehr berechtigt“ ersetzt. 
 
-- b) Satz 5 erhält folgende neue Fassung; der bisherige Satz 5 wird zu Satz 6 und der bisherige Satz 6 wird zu Satz 7: 
+   - b) Satz 5 erhält folgende neue Fassung; der bisherige Satz 5 wird zu Satz 6 und der bisherige Satz 6 wird zu Satz 7: 
 
-„[5] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.“ 
+„<sup>5</sup> Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich.“ 
 
 11. In § 10 Abs. 2 werden die Worte „§§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318)“ durch die Worte „Regelungen des Gesetzes zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium (Mutterschutzgesetz – **MuSchG** ) in der Fassung der Bekanntmachung vom 23. Mai 2017 (BGBl. I S. 1228)“ ersetzt. 
 
-## 12. § 11 Abs. 4 wird wie folgt geändert: 
+# 12. § 11 Abs. 4 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Satz 1. 
 
@@ -98,11 +98,11 @@ b) Abs. 3 wird wie folgt geändert:
 
 - c) Nach Satz 1 (neu) werden folgende neue Sätze 2 bis 4 angefügt: 
 
-„[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs. 3In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
+„<sup>2</sup> Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs. 3In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.<sup>4</sup> Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
 
-## 13. § 16 wird wie folgt geändert: 
+13. § 16 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+   - a) Abs. 1 wird wie folgt geändert: 
 
 aa) Die bisher einzige Regelung wird zu Satz 1. 
 
@@ -112,19 +112,18 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 - cc) Nach Satz 1 (neu) werden folgende neue Sätze 2 bis 3 angefügt: 
 
-„[2] Schriftliche Prüfungen können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung. 3Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
+„<sup>2</sup> Schriftliche Prüfungen können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung. 3Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
 
-- b) In Abs. 2 Satz 1 wird nach den Worten „Schriftliche Prüfungen werden“ die Worte „in der Regel“ gestrichen. 
+   - b) In Abs. 2 Satz 1 wird nach den Worten „Schriftliche Prüfungen werden“ die Worte „in der Regel“ gestrichen. 
 
 14. § 19 Abs. 1 wird wie folgt geändert: 
 
    - a) Die Tabelle in Satz 1 erhält folgende neue Fassung: 
 
-- „ 
+<u>„</u> 
 
-|„|||
-|---|---|---|
 |**Prädikat**|**Note**|**Erläuterung**|
+|---|---|---|
 |sehr gut|=(1,0 oder 1,3)|eine hervorragende Leistung;|
 |gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den<br>durchschnittlichen Anforderungen liegt;|
 |befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen<br>Anforderungen entspricht;|
@@ -143,7 +142,7 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 15. Die Regelung in § 22 erhält folgende neue Fassung: 
 
-„[1] Wer die Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann darüber hinaus bei 
+„<sup>1</sup> Wer die Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.<sup>2</sup> Die bzw. der Studierende kann darüber hinaus bei 
 
 4 
 
@@ -155,19 +154,19 @@ der Studiengangskoordination eine Übersicht der in den einzelnen Modulen erziel
 
    - b) Die bisherige Ziffer 3 wird zu Ziffer 2. 
 
-17. § 27 wird wie folgt geändert: 
+# 17. § 27 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden die Worte „Das Modul“ durch das Wort „Die“ ersetzt. 
+- a) In Abs. 1 Satz 2 werden die Worte „Das Modul“ durch das Wort „Die“ ersetzt. 
 
-   - b) In Abs. 2 Satz 5 werden nach den Worten „Die Betreuerin bzw. der Betreuer muss“ die Worte „in der Regel“ gestrichen. 
+- b) In Abs. 2 Satz 5 werden nach den Worten „Die Betreuerin bzw. der Betreuer muss“ die Worte „in der Regel“ gestrichen. 
 
-   - c) Abs. 5 wird wie folgt geändert: 
+- c) Abs. 5 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird nach den Worten „soll vier Monate nicht überschreiten“ der Klammerzusatz „(Regelbearbeitungszeit)“ eingefügt. 
+   - aa) In Satz 1 wird nach den Worten „soll vier Monate nicht überschreiten“ der Klammerzusatz „(Regelbearbeitungszeit)“ eingefügt. 
 
-      - bb) Nach Satz 3 werden folgende neue Sätze 4 und 5 eingefügt; der bisherige Satz 4 wird zu Satz 6: 
+   - bb) Nach Satz 3 werden folgende neue Sätze 4 und 5 eingefügt; der bisherige Satz 4 wird zu Satz 6: 
 
-„[4] Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. drei Monate) i. S. d. Satz 3, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.[5] Sätze 3 und 4 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist.“ 
+„<sup>4</sup> Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. drei Monate) i. S. d. Satz 3, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.<sup>5</sup> Sätze 3 und 4 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist.“ 
 
       - cc) In Satz 6 (neu) wird nach den Worten „die Masterthesis nicht fristgerecht“ das Wort „abgeliefert“ durch das Wort „abgegeben“ ersetzt. 
 
@@ -183,17 +182,17 @@ der Studiengangskoordination eine Übersicht der in den einzelnen Modulen erziel
 
 - b) In Abs. 1 Satz 1 werden nach den Worten „ein Diploma Supplement“ ein Komma und die Worte „ein Grade distribution table“ eingefügt. 
 
-## 20. In § 31 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
+# 20. In § 31 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die dritte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.[2] Mit Ausnahme der Änderungen in §§ 19 und 27 gelten die Änderungen für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.[3] Die Änderungen in § 19 gelten für alle Studierenden, die das Studium ab dem Wintersemester 2022/23 aufnehmen werden.[4] Die Änderungen in § 27 gelten für alle Studierenden, die sich im Modul Masterthesis noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
+„(4)<sup>1</sup> Die dritte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.<sup>2</sup> Mit Ausnahme der Änderungen in §§ 19 und 27 gelten die Änderungen für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.<sup>3</sup> Die Änderungen in § 19 gelten für alle Studierenden, die das Studium ab dem Wintersemester 2022/23 aufnehmen werden.<sup>4</sup> Die Änderungen in § 27 gelten für alle Studierenden, die sich im Modul Masterthesis noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
 
-## 21. Die **Anlage 1** wird wie folgt geändert: 
+# 21. Die **Anlage 1** wird wie folgt geändert: 
 
 - a) In Nr. 3 lit. c) werden nach den Worten „zu Maßnahmen beruflicher Weiterbildung“ die Worte „soweit jeweils vorhanden“ eingefügt. 
 
 - b) In Nr. 5 werden nach Satz 4 folgende neue Sätze 5 bis 6 angefügt: 
 
-„[5] Näheres regeln Nrn. 6 ff.[6] Die übrigen Bewerberinnen und Bewerber, die nicht zum Auswahlgespräch eingeladen werden, gelten als ungeeignet und erhalten einen mit einer Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
+„<sup>5</sup> Näheres regeln Nrn. 6 ff.<sup>6</sup> Die übrigen Bewerberinnen und Bewerber, die nicht zum Auswahlgespräch eingeladen werden, gelten als ungeeignet und erhalten einen mit einer Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
 
 - c) Nr. 8 Satz 1 wird wie folgt geändert: 
 
@@ -203,64 +202,61 @@ der Studiengangskoordination eine Übersicht der in den einzelnen Modulen erziel
 
 6 
 
-## 22. Die Tabelle in **Anlage 2** erhält folgende neue Fassung: 
+# 22. Die Tabelle in **Anlage 2** erhält folgende neue Fassung: 
 
-## „ 
-
-|**Modulbezeichnung**|**Lehrveranstaltung**|**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|
-|||||**in ECTS-Punkten1 **|||||
-||||**1.**|**2.**|**3.**|**4.**|**Prüfung**||
-|Integration von Organisation und Person(al)|||||||||
-|Grundlagen der Organisations- und<br>Personalentwicklung|Integration von Organisation und<br>Person(al)|**5**|1,5||||Klausur (60-120 Min.)|1|
-||Strategie und Verantwortung||1,5||||||
-||Organisationsforschung||1,5||||||
-||Teambuilding||0,5||||||
-|Grundlagen Organisation|||||||||
-|Konzepte der Organisations-<br>entwicklung|Einführung in die Konzepte der<br>Organisationsentwicklung|**5**|2,5||||Klausur (60-120 Min.) oder<br>Hausarbeit (10-15 S.)2|1|
-||Konzepte der Organisationsentwicklung in<br>der Praxis|||1,25|||||
-||Unternehmenskultur und Lernkultur|||1,25|||||
-|Umsetzung von Organisations-<br>entwicklungsprozessen|Change Management|**5**||2,5|||Präsentation (30-45 Min.)|1|
-||Vielfalt managen|||1,5|||||
-||Projektmanagement|||0,5|||||
-||Moderation und Präsentation|||0,5|||||
-|Grundlagen Personal|||||||||
-|Konzepte der Personalentwicklung|Konzepte der Personalentwicklung|**5**|1,5||||Klausur (60-120 Min.) oder<br>Hausarbeit (ca. 15 S.)2|1|
-||Innovative Arbeitsorganisation||1,5||||||
-||Betriebliches Bildungsmanagement||2||||||
-|Umsetzung von Personalentwicklung|Instrumente der Personalentwicklung|**5**||1,5|||Klausur (60-120 Min.) oder<br>Hausarbeit (ca. 15 S.)2|1|
-||Kompetenzmessung|||2|||||
-||Neue Lernformen im Betrieb|||1,5|||||
-|Management und Führung|||||||||
-|Instrumente der Mitarbeiterführung|Instrumente der Mitarbeiterführung|**2,5**||2|||Hausarbeit (10-15 S.) oder<br>Präsentation (30-45 Min.)2|1|
-||Kommunikation und Gesprächsführung|||0,5|||||
-|Personalmanagement|Personalmanagement|**5**|||1,5||Klausur (60-120 Min.)|1|
-||Personalmarketing||||1,5||||
+|„|||**Workl**|**oad-Verteilu**<br>|**ng pro Semester**<br>|**A d Uf d**|**Faktor**|
+|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**ECTS**||**in ECTS-**|**Punkten**<sup>**1**</sup>|**rt un mang er**<br>**Prüfung**|**Modul-**|
+||||**1.**|**2.**|**3.**<br>**4.**||**note**|
+|Integration von Organisation und Perso|n(al)<br>|||||||
+||Integration von Organisation und<br>Person(al)||1,5|||||
+|Grundlagen der Organisations- und<br>Plikl|Strategie und Verantwortung|**5**|1,5|||Klausur (60-120 Min.)|1|
+|ersonaentwcung|Organisationsforschung||1,5|||||
+||Teambuilding||05|||||
+|Grundlagen Organisation|||,|||||
+||Einführung in die Konzepte der<br>Oititikl||2,5|||||
+||rgansaonsenwcung|||||||
+|Konzepte der Organisations-<br>entwicklung|Konzepte der Organisationsentwicklung in<br>der Praxis|**5**||1,25||Klausur (60-120 Min.) oder<br>Hausarbeit (10-15 S.)<sup>2</sup>|1|
+||Unternehmenskultur und Lernkultur|||1,25||||
+||Change Management|||2,5||||
+|Umsetzung von Organisations-|Vielfalt managen|**5**||1,5||Präsentation (30-45 Min)|1|
+|entwicklungsprozessen|Projektmanagement|||0,5||.||
+||Moderation und Präsentation|||0,5||||
+|Grundlagen Personal||||||||
+||Konzepte der Personalentwicklung||1,5|||||
+|Konzepte der Personalentwicklung|Innovative Arbeitsorganisation|**5**|1,5|||Klausur (60-120 Min.) oder<br>Hausarbeit (ca. 15 S.)<sup>2</sup>|1|
+||Betriebliches Bildungsmanagement||2|||||
+||Instrumente der Personalentwicklung|||1,5||||
+|Umsetzung von Personalentwicklung|Kompetenzmessung|**5**||2||Klausur (60-120 Min.) oder<br>Hausarbeit (ca. 15 S.)<sup>2</sup>|1|
+||Neue Lernformen im Betrieb|||15||||
+|Management und Führung||||,||||
+|I d Mibifüh|Instrumente der Mitarbeiterführung|**25**||2||Hausarbeit (10-15 S.) oder|1|
+|nstrumente er tareterrung|Kommunikation und Gesprächsführung|**,**||0,5||Präsentation (30-45 Min.)<sup>2</sup>||
+|Personalmanaement|Personalmanagement|**5**|||1,5|Klausur (60-120 Min)|1|
+|g|Personalmarketing||||1,5|.||
 
 7 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten1 **|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**ECTS**|**Worklo**|**ad-Verteil**<br>**in ECTS-**|**ung pro Se**<br>**Punkten**<sup>**1**</sup>|**mester**|**Art und Umfang der**<br>**Püf**|**Faktor**<br>**Modul-**|
 |---|---|---|---|---|---|---|---|---|
-||||**1.**|**2.**|**3.**|**4.**|**Prüfung**||
-||Arbeitsrecht||||2||||
-|VertiefungOrganisations- und Personalentwicklung|||||||||
+||||**1.**|**2.**|**3.**|**4.**|**rung**|**note**|
+|VertiefungOrganisations- und Person|Arbeitsrecht<br>alentwicklung||||2||||
 |Praktische Vertiefung|Praktische Vertiefung|**10**|5|||5|Hausarbeit(ca. 15 S.)|0|
-|Wahlpflichtmodule(Es sind zwei der vier Module zu belegen.)|||||||||
-|Beratung|Beratung|**(2,5)**||2,5|||Hausarbeit (10-15 S.) oder<br>Präsentation(10-20Min.)2|1|
-|Management von Organisationen|Management von Organisationen|**(2,5)**|2,5||||Hausarbeit (10-15 S.) oder<br>Präsentation (10-20 Min.)2|1|
-|Weiterbildungsmanagement|Weiterbildungsmanagement|**(2,5)**|||2,5||Hausarbeit (10-15 S.) oder<br>Präsentation (10-20 Min.)2|1|
-|Ausbildungsmanagement|Ausbildungsmanagement|**(2,5)**||||2,5|Hausarbeit (10-15 S.) oder<br>Präsentation(10-20Min.)2|1|
+|Wahlpflichtmodule(Es sind zwei der|vier Module zu belegen.)||||||Hausarbeit (10-15 S) oder||
+|Beratung|Beratung|**(2,5)**||2,5|||.<br>Präsentation(10-20Min.)<sup>2</sup>|1|
+|Management von Organisationen|Management von Organisationen|**(2,5)**|2,5||||Hausarbeit (10-15 S.) oder<br>Präsentation (10-20 Min.)<sup>2</sup>|1|
+|Weiterbildungsmanagement|Weiterbildungsmanagement|**(2,5)**|||2,5||Hausarbeit (10-15 S.) oder<br>Präsentation (10-20 Min.)<sup>2</sup>|1|
+|Ausbildungsmanagement|Ausbildungsmanagement|**(2,5)**||||2,5|Hausarbeit (10-15 S.) oder<br>  <sup>2</sup>|1|
+||||||||Präsentation(10-20Min.)||
 |**Projektarbeit und Masterthesis**|||||||||
-|Projektarbeit|Konzept und Methoden|**15**||2,5|2,5||Präsentation (30-45 Min.)|1|
-||Projekt||||10||||
-|Masterthesis|Thesismanagement|**17,5**|||2,5||Masterarbeit (ca. 60 S.)|1|
+|Projektarbeit|Konzept und Methoden|**15**||2,5|2,5||Präsentation (30-45 Min)|1|
+||Projekt||||10||.||
+|Mtthi|Thesismanagement|**175**|||2,5||Mtbit  60 S|1|
+|aseress||**,**|||||aserare (ca.  .)||
 ||Masterthesis|||||15|||
-||**Summe**|**80**|**17,5-20**|**17,5-20**|**20-22,5**|**20-22,5**|||
-||||**80**||||||
-|Berufspraxis||**40**|||||gemäß<br>Anerkennungsverfahren|0|
-||**Gesamtsumme**|**120**|||||||
-
-“ 
+||**Summe**|**80**|**17,5-20**|**17,5-20**<br>**8**|**20-22,5**<br>**0**|**20-22,5**|||
+|Berufspraxis||**40**|||||gemäß<br>|0|
+|<br>“|**Gesamtsumme**|**120**|||||Anerkennungsverfahren||
 
 23. Das Inhaltsverzeichnis wird aktualisiert. 
 
@@ -268,7 +264,7 @@ der Studiengangskoordination eine Übersicht der in den einzelnen Modulen erziel
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Mit Ausnahme der Änderungen in §§ 19 und 27 gelten die Änderungen für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.[3] Die Änderungen in § 19 gelten für alle Studierenden, die das Studium ab dem Wintersemester 2022/23 aufnehmen werden.[4] Die Änderungen in § 27 gelten für alle Studierenden, die sich im Modul Masterthesis noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
+1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Mit Ausnahme der Änderungen in §§ 19 und 27 gelten die Änderungen für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen dieser Studien- und Prüfungsordnung studieren.<sup>3</sup> Die Änderungen in § 19 gelten für alle Studierenden, die das Studium ab dem Wintersemester 2022/23 aufnehmen werden.<sup>4</sup> Die Änderungen in § 27 gelten für alle Studierenden, die sich im Modul Masterthesis noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 22. Juni 2022 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 29. Juni 2022. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa-DPO-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:06+00:00
-page_count_chars: 1550
+scraped_at: 2026-07-01T10:49:27+00:00
+page_count_chars: 1548
 ---
 
 # 28. Oktober 2002
@@ -14,11 +14,11 @@ page_count_chars: 1550
 
 **Zehnte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander Universität Erlangen-Nürnberg** 
 
-## Vom 28. Oktober 2002 
+# Vom 28. Oktober 2002 
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Diplomprüfungsordnung für Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander Universität Erlangen-Nürnberg vom 25. November 1988 (KWMBl II 1989 S. 37), zuletzt geändert durch Satzung vom 12. April 2002 (KWMBl II S..........), wird wie folgt geändert: 
 

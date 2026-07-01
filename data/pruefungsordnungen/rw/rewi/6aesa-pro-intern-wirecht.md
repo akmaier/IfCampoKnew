@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. März 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:41+00:00
-page_count_chars: 1596
+scraped_at: 2026-07-01T10:35:20+00:00
+page_count_chars: 1594
 ---
 
 # 2. März 2004
@@ -18,7 +18,7 @@ Vom 2. März 2004
 
 Auf  Grund von Art. 6 Abs. 1 Satz 2 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg vom 13. Februar 2001 (KWMBl II 2002 S. 80), zuletzt geändert durch Satzung vom 7. Juli 2003 (KWMBl II S. …..), wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ In Anlage II erhält die Nr. 2 folgende Fassung:
 
 "2. Internationale Wirtschaft: Monetäre Außenwirtschaftstheorie (2 SWS); Internationales Management (2 SWS); Weltwirtschaftspolitik (2 SWS); Völker- und Weltrecht (2 SWS); Recht des unlauteren Wettbewerbs und Kartellrecht (4 SWS); Schiedsgerichtsbarkeit oder Handelsrecht (2 SWS)." 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

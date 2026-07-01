@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO Management 20240229 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Management/englisch/FPO_Management_20240229_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:40:00+00:00
-page_count_chars: 40659
+scraped_at: 2026-07-01T11:04:47+00:00
+page_count_chars: 40790
 ---
 
 # FPO Management 20240229 en.pdf
@@ -14,7 +14,7 @@ page_count_chars: 40659
 
 # **Degree Program and Examination Regulations for the Master’s degree program in Management at the Faculty of Business, Economics, and Law at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **– FPOManagement – dated February 29, 2024** 
+# **– FPOManagement – dated February 29, 2024** 
 
 Based on Section 9 (1) in conjunction with the currently valid versions of Section 80 (1)(1), section 84 (2)(1), Section 88 (9)(1), Section 90 (1)(2) and Section 96 (3)(1) Bavarian Higher Education Innovation Act dated August 5, 2022 ( **BayHIG** ), Friedrich-Alexander-Universität Erlangen-Nürnberg enacts the following degree program and examination regulations: 
 
@@ -54,13 +54,13 @@ Proof of proficiency is not required if the applicant completed their first degr
 
 2 Stays abroad shall be deemed “qualified” within the meaning of sentence 1 (3) if they are related to business administration and require language skills in a language other than the language spoken in the country the applicant usually resides in (for example semester abroad at universities abroad with courses completed in subjects related to business administration or internships abroad during which the applicant took on business administration tasks). 
 
-(3)[1] In the first stage of the qualification assessment process pursuant to 5.1 of the **Appendix to MPOWISO** , the documents to be submitted pursuant to 2.3 of the **Appendix to MPOWISO** and paragraph (2) above are assessed based on the following criteria and the maximum number of points that may be awarded. 
+(3)<sup>1</sup> In the first stage of the qualification assessment process pursuant to 5.1 of the **Appendix to MPOWISO** , the documents to be submitted pursuant to 2.3 of the **Appendix to MPOWISO** and paragraph (2) above are assessed based on the following criteria and the maximum number of points that may be awarded. 
 
-1. 1Quality of the previous degree or previous course achievements based on average grade (maximum of 50 points).[2] Points are awarded based on the following evaluation criteria: 
+1. 1Quality of the previous degree or previous course achievements based on average grade (maximum of 50 points).<sup>2</sup> Points are awarded based on the following evaluation criteria: 
 
 2 
 
-**Table1** : **Points allocated pursuant to Section 3 (3)(1)(1)** 
+**Table1** <u>:</u> **<u>Points allocated pursuant to Section 3 (3)(1)(1)</u>** 
 
 |**Grade**|**Points**|**Grade**|**Points**|**Grade**|**Points**|**Grade**|**Points**|
 |---|---|---|---|---|---|---|---|
@@ -73,13 +73,12 @@ Proof of proficiency is not required if the applicant completed their first degr
 |1.6|46.0|2.4|36.0|3.2|20.5|4.0|0.0|
 |1.7|45.0|2.5|34.5|3.3|18.5|||
 
-2. 1Result of the admissions examination; assessment based on the grade achieved during the admissions examination (max. 30 points).[2] Points are awarded based on the following evaluation criteria: 
+2. 1Result of the admissions examination; assessment based on the grade achieved during the admissions examination (max. 30 points).<sup>2</sup> Points are awarded based on the following evaluation criteria: 
 
-> **Table2** : Points allocated pursuant to Section 3 (3)(1)(2) Alt. **1** 
+> **Table2** <u>: Points allocated pursuant to Section 3 (3)(1)(2) Alt.</u> **1** 
 
-|**Table2**: Poi|nts allocate|d pursuant|to Section|3 (3)(1)(2)|Alt.**1**|||
-|---|---|---|---|---|---|---|---|
 |**Grade**|**Points**|**Grade**|**Points**|**Grade**|**Points**|**Grade**|**Points**|
+|---|---|---|---|---|---|---|---|
 |1.0|30.0|1.8|24.0|2.6|18.0|3.4|8.0|
 |1.1|30.0|1.9|24.0|2.7|14.0|3.5|8.0|
 |1.2|30.0|2.0|21.0|2.8|14.0|3.6|8.0|
@@ -89,9 +88,9 @@ Proof of proficiency is not required if the applicant completed their first degr
 |1.6|28.0|2.4|18.0|3.2|11.0|4.0|1.0|
 |1.7|24.0|2.5|18.0|3.3|8.0|||
 
-3Alternatively, the assessment is carried out using the number of points attained in the Graduate Management Admission Test® (GMAT) (max. 30 points).[4] Points are awarded based on the following evaluation criteria: 
+3Alternatively, the assessment is carried out using the number of points attained in the Graduate Management Admission Test® (GMAT) (max. 30 points).<sup>4</sup> Points are awarded based on the following evaluation criteria: 
 
-**Table 3: Points allocated pursuant to Section 3 (3)(1)(2) Alt. 2** 
+**<u>Table 3: Points allocated pursuant to Section 3 (3)(1)(2) Alt. 2</u>** 
 
 |**GMAT**<br>**Score**|**Points**|**GMAT**<br>**Score**|**Points**|**GMAT**<br>**Score**|**Points**|
 |---|---|---|---|---|---|
@@ -103,29 +102,29 @@ Proof of proficiency is not required if the applicant completed their first degr
 |750|26.0|680|19.0|610|12.0|
 |740|25.0|670|18.0|600|11.0|
 
-5Alternatively, the assessment is carried out using the number of points attained in the Graduate Management Admission Test Focus Edition® (GMAT Focus Edition) (max. 30 points).[6] Points are awarded based on the following evaluation criteria: 
+5Alternatively, the assessment is carried out using the number of points attained in the Graduate Management Admission Test Focus Edition® (GMAT Focus Edition) (max. 30 points).<sup>6</sup> Points are awarded based on the following evaluation criteria: 
 
 3 
 
-**Table 4: Points allocated pursuant to Section 3 (3)(1)(2) Alt. 3** 
+**Table 4: Points** **<u>allocated pursuant to Section 3 (3)(1)(2) Alt. 3</u>** 
 
-|**Points**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Points**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Points**|
-|---|---|---|---|---|
-|30.0|685|24.0|605|17.0|
-|29.5|675|23.0|595|16.0|
-|29.0|655|22.0|585|15.0|
-|28.0|645|21.0|580|14.0|
-|27.0|635|20.0|575|13.0|
-|26.0|615|19.0|570|12.0|
-|25.0|610|18.0|565|11.0|
+|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Points**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Points**|**GMAT**<br>**Focus**<br>**Edition**<br>**Score**|**Points**|
+|---|---|---|---|---|---|
+|Ab 795|30.0|685|24.0|605|17.0|
+|785|29.5|675|23.0|595|16.0|
+|775|29.0|655|22.0|585|15.0|
+|755|28.0|645|21.0|580|14.0|
+|735|27.0|635|20.0|575|13.0|
+|715|26.0|615|19.0|570|12.0|
+|695|25.0|610|18.0|565|11.0|
 
-2Applicants who attain at least 65 points in the evaluation of the two criteria pursuant to sentence 1 receive confirmation that they have successfully passed the qualification assessment process.[3] Applicants who obtain a total of between 64 and 45 points in the first stage are invited to attend the second stage pursuant to paragraph 4.[4] Applicants who obtain fewer than 45 points in the first stage are considered not suitable and receive a rejection notification including reasons and information on legal remedies available. 
+2Applicants who attain at least 65 points in the evaluation of the two criteria pursuant to sentence 1 receive confirmation that they have successfully passed the qualification assessment process.<sup>3</sup> Applicants who obtain a total of between 64 and 45 points in the first stage are invited to attend the second stage pursuant to paragraph 4.<sup>4</sup> Applicants who obtain fewer than 45 points in the first stage are considered not suitable and receive a rejection notification including reasons and information on legal remedies available. 
 
-(4)[1] In the second stage of the qualification assessment process pursuant to 5.2.1 of the **Appendix to MPOWISO,** documents submitted by applicants who have achieved between 64 and 45 points shall be evaluated on the basis of the following criteria and the maximum number of points that may be awarded. 
+(4)<sup>1</sup> In the second stage of the qualification assessment process pursuant to 5.2.1 of the **Appendix to MPOWISO,** documents submitted by applicants who have achieved between 64 and 45 points shall be evaluated on the basis of the following criteria and the maximum number of points that may be awarded. 
 
-1. 1Scope and duration of qualified stays abroad; assessment on the basis of the documents submitted according to paragraph 2 (2) (max. 10 points).[2] Points are awarded based on the following evaluation criteria: 
+1. 1Scope and duration of qualified stays abroad; assessment on the basis of the documents submitted according to paragraph 2 (2) (max. 10 points).<sup>2</sup> Points are awarded based on the following evaluation criteria: 
 
-## **Table 5: Points allocated pursuant to Section 3 (4)(1)(1)** 
+**Table** **<u>5: Points allocated pursuant to Section 3 (4)(1)(1)</u>** 
 
 |**Qualified stay abroad**<br>**(in months)**|**Points**|**Qualified stay abroad**<br>**(in months)**|**Points**|
 |---|---|---|---|
@@ -134,9 +133,9 @@ Proof of proficiency is not required if the applicant completed their first degr
 |4|6|0|0|
 |3|4|||
 
-2. 1Scope and duration of relevant periods of work experience in areas related to business administration or comparable equivalent fields, in particular internships, vocational training or working as a student trainee; assessment on the basis of the evidence submitted pursuant to paragraph 2 (3) (max 10 points).[2] Points are awarded based on the following evaluation criteria: 
+2. 1Scope and duration of relevant periods of work experience in areas related to business administration or comparable equivalent fields, in particular internships, vocational training or working as a student trainee; assessment on the basis of the evidence submitted pursuant to paragraph 2 (3) (max 10 points).<sup>2</sup> Points are awarded based on the following evaluation criteria: 
 
-**Table 6: Points allocated pursuant to Section 3 (4)(1)(2)** 
+**<u>Table 6: Points allocated pursuant to Section 3 (4)(1)(2)</u>** 
 
 |**Professional experience**<br>**(in weeks)**|**Points**|**Professional experience**<br>**(in weeks)**|**Points**|
 |---|---|---|---|
@@ -170,13 +169,13 @@ Proof of proficiency is not required if the applicant completed their first degr
 |24|5|0|0|
 |23|5|||
 
-2Applicants who attain at least 65 points in the evaluation of the first and second stage shall receive confirmation that they have successfully passed the qualification assessment process.[3] All other applicants shall be considered unsuitable and shall receive a rejection notification including reasons and information on legal remedies available. 
+2Applicants who attain at least 65 points in the evaluation of the first and second stage shall receive confirmation that they have successfully passed the qualification assessment process.<sup>3</sup> All other applicants shall be considered unsuitable and shall receive a rejection notification including reasons and information on legal remedies available. 
 
 ## **Section 4 Scope and Structure of the Master’s Degree Program, Examinations, Teaching and Examination Language, Part-Time Degree Program** 
 
-(1)[1] During the first and second semester, students are taught comprehensive perspectives in management in the three compulsory electives “Management foundations” (20 ECTS credits), “Finance & Controlling” (5 ECTS credits) and “Project, presentation, and team skills” (10 ECTS credits).[2] The compulsory elective “Management foundations” comprises courses from the disciplines of strategic management, human resources, logistics, industrial management and innovation and sustainability management and delivers all relevant fundamental knowledge in the area of management. 3The compulsory elective “Finance & Controlling” comprises courses in which students learn the foundations of finance required for positions in management.[4] The compulsory elective “Project, presentation, and team skills” complements the basic courses with seminars that teach soft skills in the areas of presentation and teamwork and ensure that the knowledge acquired is applied in practice through practical seminars and case studies.[5] In addition, students take specialization modules worth 55 ECTS credits from the first to the third semester.[6] Students can choose any combination from the individual specialization modules according to Section 4.[7] The type and scope of the examinations are governed by **Appendix 2** and Sections 16 – 18b **MPOWISO** .[8] The Master’s thesis (30 ECTS credits) must be completed in the Master’s thesis module. 9Students who wish to complete their Master's thesis at a Chair of the School that does not belong to the Institute of Management must first submit an application for approval to the degree program coordinator.[10] The application must demonstrate the management relevance of the planned Master's thesis. 
+(1)<sup>1</sup> During the first and second semester, students are taught comprehensive perspectives in management in the three compulsory electives “Management foundations” (20 ECTS credits), “Finance & Controlling” (5 ECTS credits) and “Project, presentation, and team skills” (10 ECTS credits).<sup>2</sup> The compulsory elective “Management foundations” comprises courses from the disciplines of strategic management, human resources, logistics, industrial management and innovation and sustainability management and delivers all relevant fundamental knowledge in the area of management. 3The compulsory elective “Finance & Controlling” comprises courses in which students learn the foundations of finance required for positions in management.<sup>4</sup> The compulsory elective “Project, presentation, and team skills” complements the basic courses with seminars that teach soft skills in the areas of presentation and teamwork and ensure that the knowledge acquired is applied in practice through practical seminars and case studies.<sup>5</sup> In addition, students take specialization modules worth 55 ECTS credits from the first to the third semester.<sup>6</sup> Students can choose any combination from the individual specialization modules according to Section 4.<sup>7</sup> The type and scope of the examinations are governed by **Appendix 2** and Sections 16 – 18b **MPOWISO** .<sup>8</sup> The Master’s thesis (30 ECTS credits) must be completed in the Master’s thesis module. 9Students who wish to complete their Master's thesis at a Chair of the School that does not belong to the Institute of Management must first submit an application for approval to the degree program coordinator.<sup>10</sup> The application must demonstrate the management relevance of the planned Master's thesis. 
 
-(2)[1] In deviation from Section 4 (5) **MPOWISO** , the teaching and examination language in the Master’s degree program is German or English.[2] The degree program can be studied in German only, in English only or in a mixture of both languages.[3] It is strongly recommended that only those students who provide evidence of English language proficiency in their application for admission to the degree program in accordance with Section 2 take modules in English; the same shall apply accordingly to modules in German. 
+(2)<sup>1</sup> In deviation from Section 4 (5) **MPOWISO** , the teaching and examination language in the Master’s degree program is German or English.<sup>2</sup> The degree program can be studied in German only, in English only or in a mixture of both languages.<sup>3</sup> It is strongly recommended that only those students who provide evidence of English language proficiency in their application for admission to the degree program in accordance with Section 2 take modules in English; the same shall apply accordingly to modules in German. 
 
 (3) The Master's degree program can be studied full-time ( **Appendix 1** ) or part-time ( **Appendix 2** ); Section 3 **MPOWISO** shall apply for part-time study. 
 
@@ -184,37 +183,37 @@ Proof of proficiency is not required if the applicant completed their first degr
 
 ## **Section 5 Specialization Modules** 
 
-(1)[1] The learning outcome of the individual module groups “Strategic Management & International Business”, “Value Creation & Digital Transformation”, “Entrepreneurship & Innovation”, “Financial Management”, “Health Care Management”, “Marketing Management”, “Supply Chain Management”, “Sustainable & Responsible Management” and “Management Research” of the specialization modules lies in enabling students to specialize in one or several areas of management.[2] Students prepare themselves for taking on various management tasks in companies by choosing the respective module group.[3] This specialization allows students to develop a skills profile that is suitable for their future profession. 
+(1)<sup>1</sup> The learning outcome of the individual module groups “Strategic Management & International Business”, “Value Creation & Digital Transformation”, “Entrepreneurship & Innovation”, “Financial Management”, “Health Care Management”, “Marketing Management”, “Supply Chain Management”, “Sustainable & Responsible Management” and “Management Research” of the specialization modules lies in enabling students to specialize in one or several areas of management.<sup>2</sup> Students prepare themselves for taking on various management tasks in companies by choosing the respective module group.<sup>3</sup> This specialization allows students to develop a skills profile that is suitable for their future profession. 
 
-(2)[1] The learning outcome of the module group “Strategic Management & International Business” is to provide students with the skills they need to identify strategic problems in a corporate context and derive suitable measures to deal with them.[2] Students also receive training in intercultural skills allowing them to work in global corporations and to plan and evaluate steps towards internationalization.[3] The specialization comprises modules in German and English.[4] The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.[5] The type and scope of the examinations are stated in the module handbook and depend on the skills taught and the type of course.[6] The examination for the skills taught in lectures combined with a seminar is a presentation and a handout.[ 7] The examination for the skills taught in lectures combined with a tutorial is a written examination (60 or 90 minutes).[8] In justified cases, the examination for the skills taught in lectures is a combination of a written examination (60 or 90 minutes) and a project report in accordance with Section 6 (2)(3) **MPOWISO** .[9] Possible examinations for the skills taught in seminars are written assignment or seminar paper, presentation and project report, presentation and written assignment or seminar paper or presentation and case study. 
+(2)<sup>1</sup> The learning outcome of the module group “Strategic Management & International Business” is to provide students with the skills they need to identify strategic problems in a corporate context and derive suitable measures to deal with them.<sup>2</sup> Students also receive training in intercultural skills allowing them to work in global corporations and to plan and evaluate steps towards internationalization.<sup>3</sup> The specialization comprises modules in German and English.<sup>4</sup> The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.<sup>5</sup> The type and scope of the examinations are stated in the module handbook and depend on the skills taught and the type of course.<sup>6</sup> The examination for the skills taught in lectures combined with a seminar is a presentation and a handout.<sup>7</sup> The examination for the skills taught in lectures combined with a tutorial is a written examination (60 or 90 minutes).<sup>8</sup> In justified cases, the examination for the skills taught in lectures is a combination of a written examination (60 or 90 minutes) and a project report in accordance with Section 6 (2)(3) **MPOWISO** .<sup>9</sup> Possible examinations for the skills taught in seminars are written assignment or seminar paper, presentation and project report, presentation and written assignment or seminar paper or presentation and case study. 
 
-(3)[1] The learning outcome of the module group “Value Creation & Digital Transformation” is to enable students to identify value creation potential in an economic context and to develop digital concepts for solving business challenges.[ 2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in English only or in a mixture of both languages.[4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Possible examinations are written examination (60 or 90 minutes), written assignment or seminar paper and presentation or project report and presentation and, in justified cases pursuant to Section 6 (2)(3) **MPOWISO** , a combination of case study and written examination (60 or 90 minutes). 
+(3)<sup>1</sup> The learning outcome of the module group “Value Creation & Digital Transformation” is to enable students to identify value creation potential in an economic context and to develop digital concepts for solving business challenges.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in English only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Possible examinations are written examination (60 or 90 minutes), written assignment or seminar paper and presentation or project report and presentation and, in justified cases pursuant to Section 6 (2)(3) **MPOWISO** , a combination of case study and written examination (60 or 90 minutes). 
 
 6 
 
-(4)[1] The learning outcome of the module group “Entrepreneurship & Innovation” is to enable students to identify and solve problems and tasks related to start-ups.[2] Students also learn how to support, introduce and apply innovations in companies.[ 3] The specialization comprises modules in German and English.[4] The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages. 5The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 6] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
+(4)<sup>1</sup> The learning outcome of the module group “Entrepreneurship & Innovation” is to enable students to identify and solve problems and tasks related to start-ups.<sup>2</sup> Students also learn how to support, introduce and apply innovations in companies.<sup>3</sup> The specialization comprises modules in German and English.<sup>4</sup> The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages. 5The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>6</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
 
-(5)[1] The learning outcome of the module group “Financial Management” is to teach students the skills they need to apply suitable financial models and instruments of corporate accounting and use them for making strategic decisions.[2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.[4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation or handout and presentation and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , a combination of presentation and written examination (60 or 90 minutes). 
+(5)<sup>1</sup> The learning outcome of the module group “Financial Management” is to teach students the skills they need to apply suitable financial models and instruments of corporate accounting and use them for making strategic decisions.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation or handout and presentation and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , a combination of presentation and written examination (60 or 90 minutes). 
 
-(6)[1] The learning outcome of the module group “Health Care Management” is to teach students the skills they need to identify the various framework conditions and interests in health care and the processes of medical service provision and implement them in a targeted manner for projects in health care management.[ 2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.[ 4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation. 
+(6)<sup>1</sup> The learning outcome of the module group “Health Care Management” is to teach students the skills they need to identify the various framework conditions and interests in health care and the processes of medical service provision and implement them in a targeted manner for projects in health care management.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation. 
 
-(7)[1] The learning outcome of the module group “Marketing Management” is to teach students the skills they need to analyze marketing and sales-related issues in an overall business context and to implement their findings in strategic decisions following corporate strategy.[2] The specialization comprises modules in German and English. 3The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.[ 4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
+(7)<sup>1</sup> The learning outcome of the module group “Marketing Management” is to teach students the skills they need to analyze marketing and sales-related issues in an overall business context and to implement their findings in strategic decisions following corporate strategy.<sup>2</sup> The specialization comprises modules in German and English. 3The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
 
-(8)[1] The learning outcome of the module group “Supply Chain Management” is to teach students the skills they need to define structures and processes in logistics and to develop functional strategies for optimizing and implementing logistic systems and processes.[2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.[4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , a combination of case study and written examination (60 or 90 minutes). 
+(8)<sup>1</sup> The learning outcome of the module group “Supply Chain Management” is to teach students the skills they need to define structures and processes in logistics and to develop functional strategies for optimizing and implementing logistic systems and processes.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in German only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper and presentation and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , a combination of case study and written examination (60 or 90 minutes). 
 
 7 
 
-(9)[1] The learning outcome of the module group “Sustainable & Responsible Management” is to teach students the skills they need to integrate topics related to sustainability and social responsibility in strategic issues in a corporate context and to communicate them to the various stakeholders involved.[2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.[4] The type and scope of the examinations are stated in the module handbook and depend on the skills taught and the type of course.[ 5] Examinations for the skills taught in lectures may include a presentation and written assignment or seminar paper and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , written examination (60 or 90 minutes) and presentation.[6] Examinations for the skills taught in lectures combined with tutorials may include a written examination (60 or 90 minutes) or in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , written examination (60 or 90 minutes) and project report.[7] Examinations for the skills taught in seminars may include a written assignment or seminar paper or case study; Section 6 (2)(3) **MPOWISO** shall remain unaffected. 
+(9)<sup>1</sup> The learning outcome of the module group “Sustainable & Responsible Management” is to teach students the skills they need to integrate topics related to sustainability and social responsibility in strategic issues in a corporate context and to communicate them to the various stakeholders involved.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are stated in the module handbook and depend on the skills taught and the type of course.<sup>5</sup> Examinations for the skills taught in lectures may include a presentation and written assignment or seminar paper and, in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , written examination (60 or 90 minutes) and presentation.<sup>6</sup> Examinations for the skills taught in lectures combined with tutorials may include a written examination (60 or 90 minutes) or in justified cases in accordance with Section 6 (2)(3) **MPOWISO** , written examination (60 or 90 minutes) and project report.<sup>7</sup> Examinations for the skills taught in seminars may include a written assignment or seminar paper or case study; Section 6 (2)(3) **MPOWISO** shall remain unaffected. 
 
-(10)[1] The learning outcome of the module group “Management Research” is to teach students the skills they need to apply scientific methods in a context-sensitive manner and conduct research in economics.[2] The specialization comprises modules in German and English.[3] The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.[4] The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.[ 5] Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
+(10)<sup>1</sup> The learning outcome of the module group “Management Research” is to teach students the skills they need to apply scientific methods in a context-sensitive manner and conduct research in economics.<sup>2</sup> The specialization comprises modules in German and English.<sup>3</sup> The specialization (20 ECTS credits) can be taken in German only, in English only or in a mixture of both languages.<sup>4</sup> The type and scope of the examinations are dependent on the skills taught and are stated in the module handbook.<sup>5</sup> Examinations may include a written examination (60 or 90 minutes), written assignment or seminar paper, presentation or written assignment or seminar paper and presentation. 
 
-(11)[1] Specialization modules usually consist of a lecture (2 SWS), a lecture and a seminar (3 SWS), a lecture and a tutorial (each 3-4 SWS) or a seminar (2-3 SWS).[2] Further details are stipulated in the module handbook. 
+(11)<sup>1</sup> Specialization modules usually consist of a lecture (2 SWS), a lecture and a seminar (3 SWS), a lecture and a tutorial (each 3-4 SWS) or a seminar (2-3 SWS).<sup>2</sup> Further details are stipulated in the module handbook. 
 
 ## **Section 6 Legal Validity and Transitory Provisions** 
 
-(1)[1] These degree program and examination regulations shall come into effect on April 1, 2024.[2] They shall apply to all students starting their degree program as of winter semester 2024/2025 and those students who at the time these regulations come into effect are already studying in accordance with the previously valid version of the degree program and examination regulations for the Master's degree program in Management at the Faculty of Business, Economics, and Law at Friedrich Alexander Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – dated July 24, 2009, last amended on March 23, 2023.[3] Students who, at the time these regulations come into effect, are studying in accordance with FPOManagement in a version valid before March 23, 2023, shall complete their studies in accordance with the version of FPOManagement that previously applied to them. 
+(1)<sup>1</sup> These degree program and examination regulations shall come into effect on April 1, 2024.<sup>2</sup> They shall apply to all students starting their degree program as of winter semester 2024/2025 and those students who at the time these regulations come into effect are already studying in accordance with the previously valid version of the degree program and examination regulations for the Master's degree program in Management at the Faculty of Business, Economics, and Law at Friedrich Alexander Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – dated July 24, 2009, last amended on March 23, 2023.<sup>3</sup> Students who, at the time these regulations come into effect, are studying in accordance with FPOManagement in a version valid before March 23, 2023, shall complete their studies in accordance with the version of FPOManagement that previously applied to them. 
 
-(2)[1] The degree program and examination regulations for the Master’s degree program in Management at the Faculty of Business, Economics, and Law at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – dated July 24, 2009, last amended by the statute dated March 23, 2023, shall become invalid as of March 31, 2027.[2] Examinations which the version of **FPOManagement** stated in sentence 1 above applies to shall be offered for the last time in winter semester 2026/2027.[3] From the date stated in sentence 2, those students who are affected by the examination 
+(2)<sup>1</sup> The degree program and examination regulations for the Master’s degree program in Management at the Faculty of Business, Economics, and Law at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPOManagement** – dated July 24, 2009, last amended by the statute dated March 23, 2023, shall become invalid as of March 31, 2027.<sup>2</sup> Examinations which the version of **FPOManagement** stated in sentence 1 above applies to shall be offered for the last time in winter semester 2026/2027.<sup>3</sup> From the date stated in sentence 2, those students who are affected by the examination 
 
 8 
 
@@ -236,29 +235,31 @@ regulations becoming invalid shall take their examinations in accordance with th
 
 - 2.3 The admissions examination can be replaced if students provide proof of passing a Graduate Management Admission Test® (GMAT) with at least 600 points (score report) or by proof of passing a Graduate Management Admission Tests Focus Edition® (GMAT Focus Edition) with at least 565 points (score report). 
 
-3. Examiners 1The Admissions Committee is responsible for coordinating, conducting and evaluating the admissions examination pursuant to Section 2 and 11 **MPOWISO** .[2] The Admissions Committee may transfer the tasks of coordinating, conducting and evaluating the admissions examination to individual members. 
+3. Examiners 1The Admissions Committee is responsible for coordinating, conducting and evaluating the admissions examination pursuant to Section 2 and 11 **MPOWISO** .<sup>2</sup> The Admissions Committee may transfer the tasks of coordinating, conducting and evaluating the admissions examination to individual members. 
 
 4. Conducting and evaluating the admissions examination 
 
-- 4.1 1The admissions examination is held as an open book examination via a secure examination platform in German or English and lasts 60 minutes.[2] The examination comprises topics related to business administration and management as well as research methods (in particular methods of empirical economic research), which are defined in more detail on the website of the Master's degree program in Management. 
+- 4.1 1The admissions examination is held as an open book examination via a secure examination platform in German or English and lasts 60 minutes.<sup>2</sup> The examination comprises topics related to business administration and management as well as research methods (in particular methods of empirical economic research), which are defined in more detail on the website of the Master's degree program in Management. 
 
-- 4.2 1Section 22 (1)(1) **MPOWISO** applies accordingly for the assessment and grades of the admissions examination.[2] The admissions examination has been passed if it has received at least the grade “ausreichend” (sufficient). 
+- 4.2 1Section 22 (1)(1) **MPOWISO** applies accordingly for the assessment and grades of the admissions examination.<sup>2</sup> The admissions examination has been passed if it has received at least the grade “ausreichend” (sufficient). 
 
 - 4.3 The result of the admissions examination is sent to applicants via email at the latest one week before the end of the deadline for applications. 
 
 5. Withdrawal, Absence, Resits 
 
-- 5.1 1Applicants may withdraw from the admissions examination without any negative consequences by sending an email to the Admissions Committee at least three working days before the admissions examination.[2] The days between and including Monday and Friday shall be considered working days.[3] Applicants may only withdraw from the admissions examination up until the time it is due to start for reasons beyond their control (e.g. an inability to sit the examination due to illness). 4The reasons according to sentence 2 shall be explained in writing and shown credibly to the Admissions Committee without delay.[5] In cases where the student is unable to sit the examination due to illness, a certificate from an official medical 
+- 5.1 1Applicants may withdraw from the admissions examination without any negative consequences by sending an email to the Admissions Committee at least three working days before the admissions examination.<sup>2</sup> The days between and including Monday and Friday shall be considered working days.<sup>3</sup> Applicants may only withdraw from the admissions examination up until the time it is due to start for reasons beyond their control (e.g. an inability to sit the examination due to illness). 4The reasons according to sentence 2 shall be explained in writing and shown credibly to the Admissions Committee without delay.<sup>5</sup> In cases where the student is unable to sit the examination due to illness, a certificate from an official medical 
 
 10 
 
-examiner (vertrauensärztliches Attest) may be required by the Admissions Committee.[6] Applicants may not withdraw from the examination once the examination has started.[7] A declaration of withdrawal is binding; the registration for the examination then ceases to apply. 
+examiner (vertrauensärztliches Attest) may be required by the Admissions Committee.<sup>6</sup> Applicants may not withdraw from the examination once the examination has started.<sup>7</sup> A declaration of withdrawal is binding; the registration for the examination then ceases to apply. 
 
 - 5.2 In the event of a late or incorrect withdrawal or failure to attend the admissions examination, the applicant shall be considered to have failed. 
 
-- 5.3 1The admissions examination can be taken on both dates offered for the same application period; the better result counts.[2] Furthermore, the admissions examination can be taken again on both dates when applying to study during the next application period if the applicant’s qualifications remain the same. 
+- 5.3 1The admissions examination can be taken on both dates offered for the same application period; the better result counts.<sup>2</sup> Furthermore, the admissions examination can be taken again on both dates when applying to study during the next application period if the applicant’s qualifications remain the same. 
 
-6. Invalidity of the admissions examination Sections 13 and 23 (1) and (3) **MPOWISO** shall apply accordingly. 
+6. Invalidity of the admissions examination 
+
+   - Sections 13 and 23 (1) and (3) **MPOWISO** shall apply accordingly. 
 
 7. Costs 
 
@@ -268,47 +269,44 @@ examiner (vertrauensärztliches Attest) may be required by the Admissions Commit
 
 ## **Appendix 2: Structure of the Master's program in Management: Full time** 
 
-|**Module name**||**SWS (semes-**|**SWS (semes-**|**SWS (semes-**|**SWS (semes-**|**Total**<br>**ECTS**|**Distribution of workload in ECTS**<br>**credits**|**Distribution of workload in ECTS**<br>**credits**|**Distribution of workload in ECTS**<br>**credits**|**Distribution of workload in ECTS**<br>**credits**|**Type and scope of the examina-**<br>**tion**|**Factor**<br>**Final**<br>**grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Teaching unit**|**ter hours)**||||<br>**dit**||**credits**|||||
-|||||||**cres**|||||||
-|||**L**|**T**|**P**|**S**||**1.sem.**|**2.sem.**|**3. sem.**|**4.sem.**|||
-|**Compulsory electives:**<br>**Management foundations**||||||**20**|**10**|**10**|||||
-|**Business ethics and corporate**<br>**social responsibility**|Business ethics and corporate<br>social responsibility|2||||5||(5)|||Written examination (60 minutes)|1|
-|**Business strategy**|Business strategy|2|1|||5|(5)||||Written examination (60 minutes)|1|
-|**Corporate strategy**|Corporate strategy||||3|5||(5)|||Presentation and written assignment<br>(50% + 50%)|1|
-|**Global operations strategy**|Global operations strategy|2|||1|5|(5)||||presentation (100%)|1|
-|**Industrial management**|Industrial management|2|1|||5||(5)|||Written examination (60 minutes)|1|
-|**Production and supply chain**<br>**management**|Production and supply chain<br>management|2|1|||5|(5)||||Written examination (90 minutes)|1|
-|**Human resource management**|Human resource management|2|1|||5|(5)||||Handout and<br>presentation(80% + 20%)|1|
-|**Technology and innovation**<br>**management**|Technology and innovation<br>management|2|1|||5||(5)|||Written examination (90 minutes)|1|
-|**Compulsory electives:**<br>**Finance & Controlling**||||||**5**|**5**||||||
-|**Managerial Finance**|Managerial Finance|2|1|||5|(5)||||Written examination (60 minutes)|1|
-|**Corporate management and**<br>**capital markets(“KUST”)**|Corporate management<br>and capital markets(“KUST”)|2|1|||5|(5)||||Written examination (60 minutes)|1|
-|**Controlling and reporting**<br>**(CAR)**|Controlling and reporting (CAR)|1|1|||5|(5)||||Written examination (60 minutes)|1|
-|**Controlling of business sys-**<br>**tems(CBS)**|Controlling of business systems<br>(CBS)|2|1|||5|(5)||||Written examination (60 minutes)|1|
-|**Compulsory electives:**<br>**Project, presentation & team**<br>**skills**||||||**10**|**5**|**5**||||See foot-<br>note no. 2|
+|||**SWS (semes-**|**Total**<br>**ECTS**|**Distrib**|**ution of workload in ECTS**|**Te and scoe of the examina-**|**Factor**|
+|---|---|---|---|---|---|---|---|
+|**Module name**|**Teaching unit**|**ter hours)**|<br>**credits**||**credits**|**yp  p**<br>**tion**|**Final**<br>|
+|||**L**<br>**T**<br>**P**<br>**S**||**1.sem.**|**2.sem.**<br>**3. sem.**<br>**4.sem.**||**grade**|
+|**Compulsory electives:**<br>**Management foundations**|||**20**|**10**|**10**|||
+|**Business ethics and corporate**<br>**social responsibility**|Business ethics and corporate<br>social responsibility|2|5||(5)|Written examination (60 minutes)|1|
+|**Business strategy**|Business strategy|2<br>1|5|(5)||Written examination (60 minutes)|1|
+|**Corporate strategy**|Corporate strategy|3|5||(5)|Presentation and written assignment<br>(50% + 50%)|<br>1|
+|**Global operations strategy**|Global operations strategy|2<br>1|5|(5)||presentation (100%)|1|
+|**Industrial management**|Industrial management|2<br>1|5||(5)|Written examination (60 minutes)|1|
+|**Production and supply chain**<br>**management**|Production and supply chain<br>management|2<br>1|5|(5)||Written examination (90 minutes)|1|
+|**Human resource management**|Human resource management|2<br>1|5|(5)||Handout and<br>presentation(80% + 20%)|1|
+|**Technology and innovation**<br>**management**|Technology and innovation<br>management|2<br>1|5||(5)|Written examination (90 minutes)|1|
+|**Compulsory electives:**<br>**Finance & Controlling**|||**5**|**5**||||
+|**Managerial Finance**|Managerial Finance|2<br>1|5|(5)||Written examination (60 minutes)|1|
+|**Corporate management and**<br>**capital markets(“KUST”)**|Corporate management<br>and capital markets(“KUST”)|2<br>1|5|(5)||Written examination (60 minutes)|1|
+|**Controlling and reporting**<br>**(CAR)**|Controlling and reporting (CAR)|1<br>1|5|(5)||Written examination (60 minutes)|1|
+|**Controlling of business sys-**<br>**tems(CBS)**|Controlling of business systems<br>(CBS)|2<br>1|5|(5)||Written examination (60 minutes)|1|
+|**Compulsory electives:**<br>**Project, presentation & team**<br>**skills**|||**10**|**5**|**5**||See foot-<br>note no. 2|
 
 12 
 
-|**Case studies and projects in**<br>**management**|||0<br>–<br>2|0<br>–<br>2|0<br>–<br>2|0<br>–<br>2|||2<br>–<br>6|10|(5)|(5)|||Presentation or<br>Seminar paper and presentation, or<br>Written examination, presentation<br>and handout or<br>Presentation and handout1||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Teamworking skills, presenta-**<br>**tion and**<br>**negotiation skills**|||0<br>–<br>2||0<br>–<br>2||||2<br>–<br>5|10|(5)|(5)|||Presentation or<br>seminar paper or<br>Presentation and handout<br>or<br>Project report1||
-|**Specialization module**<br>**(free choice from eleven mod-**<br>**ules)**||||||||||**55**|**10**|**15**|**30**|||See foot-<br>note no. 3|
-|**Module group Strategic**<br>**management & International**<br>**business**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (2)||
-|**Module group Value creation &**<br>**digital transformation**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (3)||
-|**Module group**<br>**Entrepreneurship &**<br>**innovation**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (4)||
-|**Module group Financial**<br>**management**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (5)||
-|**Module group Health care**<br>**management**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (6)||
-|**Module group Marketing**<br>**management**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (7)||
-|**Module group Supply chain**<br>**management**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (8)||
-|**Module group Sustainable &**<br>**responsible management**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (9)||
-|**Module group Management**<br>**research**|pursuant to Section 5 (11)|||||||||0–55|0–10|0–15|0–30||pursuant to Section 5 (10)||
-|**Master’s thesis**||||||||||**30**||||30|||
-|**Master’s thesis**||||||||||**30**||||30|Master’s thesis|1|
-|**Total SWS and ECTS credits:**|||||||||||**30**|**30**|**30**|**30**|||
-|||**At least 40**<br>**SWS4**||||||||**120**|||||||
-||||||||||||||||||
+|**Case studies and projects in**<br>**management**|0<br>–<br>2|0<br>–<br>2<br>2<br>–<br>6|10|(5)|(5)||Presentation or<br>Seminar paper and presentation, or<br>Written examination, presentation<br>and handout or<br>Presentation and handout<sup>1</sup>||
+|---|---|---|---|---|---|---|---|---|
+|**Teamworking skills, presenta-**<br>**tion and**<br>**negotiation skills**|0<br>–<br>2|0<br>–<br>2<br>2<br>–<br>5|10|(5)|(5)||Presentation or<br>seminar paper or<br>Presentation and handout<br>or<br>Project report<sup>1</sup>||
+|**Specialization module**<br>**(free choice from eleven mod-**<br>**ules)**|||**55**|**10**|**15**|**30**||See foot-<br>note no. 3|
+|**Module group Strategic**<br>**management & International**<br>**business**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (2)||
+|**Module group Value creation &**<br>**digital transformation**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (3)||
+|**Module group**<br>**Entrepreneurship &**<br>**innovation**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (4)||
+|**Module group Financial**<br>**management**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (5)||
+|**Module group Health care**<br>**management**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (6)||
+|**Module group Marketing**<br>**management**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (7)||
+|**Module group Supply chain**<br>**management**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (8)||
+|**Module group Sustainable &**<br>**responsible management**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (9)||
+|**Module group Management**<br>**research**|pursuant to Section 5 (11)||0–55|0–10|0–15|0–30|pursuant to Section 5 (10)||
+|**Master’s thesis**|||**30**||||30||
+|**Master’s thesis**|||**30**||||30<br>Master’s thesis|1|
+||**Total SWS and ECTS credits:**<br>**A**<br>**S**|**t least 40**<br>**WS**<sup>**4**</sup>|**120**|**30**|**30**|**30**|**30**||
 
 13 
 
@@ -324,52 +322,48 @@ examiner (vertrauensärztliches Attest) may be required by the Admissions Commit
 
 ## **Structure of the Master's program in Management: Part time** 
 
-|**Module name**|**Teaching unit**|**SWS (se-**<br>**mester**<br>**hours)**|**SWS (se-**<br>**mester**<br>**hours)**|**SWS (se-**<br>**mester**<br>**hours)**|**SWS (se-**<br>**mester**<br>**hours)**|**Total ECTS**<br>**credits**||||||||||**Factor**<br>**Final**<br>**grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**Distribution of workload per semester**|||||||**Type and scope**||
-||||||||||<br>**in ECTS credits**||||||<br>**of the examina-**||
-||||||||||||||||**tion**||
-|||**L**|**T**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**8.**|||
-|**Compulsory elective**<br>**modules:**<br>**Management founda-**<br>**tions**||||||**20**|**5**|**5**|**5**|**5**|||||||
-|Business ethics and cor-<br>porate social responsibility|Business ethics and corpo-<br>rate social responsibility|2||||5||(5)|||||||Written examina-<br>tion<br>(60 minutes)|1|
-|Business strategy|Business strategy|2|1|||5|(5)||||||||Written examina-<br>tion<br>(60 minutes)|1|
-|Corporate strategy|Corporate strategy||||3|5||(5)|||||||Presentation and<br>written assignment<br>(50%+50%)|1|
-|Global operations strategy|Global operations strategy|2|||1|5|||(5)||||||Presentation<br>(100%)|1|
-|Industrial management|Industrial management|2|1|||5||||(5)|||||Written examina-<br>tion<br>(60 minutes)|1|
-|Production and supply<br>chain management|Production and supply<br>chain management|2|1|||5|(5)||||||||Written examina-<br>tion<br>(90 minutes)|1|
-|Human resource manage-<br>ment|Human resource manage-<br>ment|2|1|||5|||(5)||||||Handout and<br>Presentation<br>(80 %+20 %)|1|
-|Technology and innova-<br>tion management|Technology and innovation<br>management|2|1|||5||||(5)|||||Written examina-<br>tion<br>(90 minutes)|1|
-|**Compulsory elective**<br>**modules:**<br>**Compulsory electives:**<br>**Finance & controlling**||||||**5**|**5**||||||||||
-|Managerial finance|Managerial finance|2|1|||5|(5)||||||||Written examina-<br>tion<br>(60 minutes)|1|
-|Corporate management<br>and capital markets<br>(“KUST”)|Corporate management<br>and capital markets|2|1|||5|(5)||||||||written examination<br>(60 minutes)|1|
+|||**SWS (se-**<br>**mester**|**Total ECTS**|**Distrib**|**ution**|**of workload per semester**|**Type and scope**<br>|**Factor**<br>|
+|---|---|---|---|---|---|---|---|---|
+|**Module name**|**Teaching unit**|<br>**hours)**|<br>**credits**||**i**|**n ECTS credits**|**of the examina-**<br>|**Final**<br>|
+|||<br>**L**<br>**T**<br>**P**<br>**S**||**1.**<br>**2.**|**3.**|**4.**<br>**5.**<br>**6.**<br>**7.**<br>**8.**|**tion**|**grade**|
+|**Compulsory elective**<br>**modules:**<br>**Management founda-**<br>**tions**|||**20**|**5**<br>**5**|**5**|**5**|||
+|Business ethics and cor-<br>porate social responsibility|Business ethics and corpo-<br>rate social responsibility|2|5|(5)|||Written examina-<br>tion<br>(60 minutes)|1|
+|Business strategy|Business strategy|2<br>1|5|(5)|||Written examina-<br>tion<br>(60 minutes)|1|
+|Corporate strategy|Corporate strategy|3|5|(5)|||Presentation and<br>written assignment<br>(50%+50%)|1|
+|Global operations strategy|Global operations strategy|2<br>1|5||(5)||Presentation<br>(100%)|1|
+|Industrial management|Industrial management|2<br>1|5|||(5)|Written examina-<br>tion<br>(60 minutes)|1|
+|Production and supply<br>chain management|Production and supply<br>chain management|2<br>1|5|(5)|||Written examina-<br>tion<br>(90 minutes)|1|
+|Human resource manage-<br>ment|Human resource manage-<br>ment|2<br>1|5||(5)||Handout and<br>Presentation<br>(80 %+20 %)|1|
+|Technology and innova-<br>tion management|Technology and innovation<br>management|2<br>1|5|||(5)|Written examina-<br>tion<br>(90 minutes)|1|
+|**Compulsory elective**<br>**modules:**<br>**Compulsory electives:**<br>**Finance & controlling**|||**5**|**5**|||||
+|<br>Managerial finance|Managerial finance|2<br>1|5|(5)|||Written examina-<br>tion<br>(60 minutes)|1|
+|Corporate management<br>and capital markets<br>(“KUST”)|Corporate management<br>and capital markets|2<br>1|5|(5)|||written examination<br>(60 minutes)|1|
 
 15 
 
-|Controlling and Reporting<br>(CAR)|Controlling and Reporting<br>(CAR)|1|1|||5|(5)||||||||written examination<br>(60 minutes)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Controlling of business<br>systems (CBS)|Controlling of business sys-<br>tems (CBS)|2|1|||5|(5)||||||||written examination<br>(60minutes)|1|
-|**Compulsory electives:**<br>**Project, presentation &**<br>**team skills**||||||**10**|**5**|**5**||||||||**See foot-**<br>**note 2**|
-|Case studies and projects<br>in management||0<br>–<br>2|0<br>–<br>2||2<br>–<br>6|10|(5)|(5)|||||||Presentation<br>or<br>Seminar paper and<br>presentation<br>or<br>Written examina-<br>tion, presentation<br>and handout<br>or<br>Presentation and<br>handout1||
-|Teamworking skills,<br>presentation and negotia-<br>tion skills||0<br>–<br>2|0<br>–<br>2||2<br>–<br>5|10|(5)|(5)|||||||Presentation or<br>seminar paper or<br>presentation and<br>handout or<br>Project report1||
-|**Elective modules**<br>**(free choice from eleven**<br>**modules)**||||||**55**||**5**|**10**|**10**|**15**|**15**||||**See foot-**<br>**note 3**|
-|Module group Strategic<br>management & Interna-<br>tionalbusiness|see Section 5 (11)|||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (2)||
-|Module group Value crea-<br>tion & Digital transfor-<br>mation||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (3)||
-|Module group Entrepre-<br>neurship & Innovation||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (4)||
-|Module group Financial<br>management||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (5)||
-|Module group Health care<br>management||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (6)||
-|Module group Marketing<br>management||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (7)||
-|Module group Supply<br>chain management||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (8)||
+|Controlling and Reporting<br>(CAR)|Controlling and Reporting<br>(CAR)<br>1|1|5|(5)|||||written examination<br>(60 minutes)|<br>1|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Controlling of business<br>systems (CBS)|Controlling of business sys-<br>tems (CBS)<br>2|1|5|(5)|||||written examination<br>(60minutes)|<br>1|
+|**Compulsory electives:**<br>**Project, presentation &**<br>**team skills**|||**10**|**5**<br>**5**||||||**See foot-**<br>**note 2**|
+|Case studies and projects<br>in management|0<br>–<br>2|0<br>–<br>2<br>2<br>–<br>6|10|(5)<br>(5)|||||Presentation<br>or<br>Seminar paper and<br>presentation<br>or<br>Written examina-<br>tion, presentation<br>and handout<br>or<br>Presentation and<br>handout<sup>1</sup>||
+|Teamworking skills,<br>presentation and negotia-<br>tion skills|0<br>–<br>2|0<br>–<br>2<br>2<br>–<br>5|10|(5)<br>(5)|||||Presentation or<br>seminar paper or<br>presentation and<br>handout or<br>Project report<sup>1</sup>||
+|**Elective modules**<br>**(free choice from eleven**<br>**modules)**|||**55**|**5**|**10**|**10**|**15**|**15**||**See foot-**<br>**note 3**|
+|Module group Strategic<br>management & Interna-<br>tionalbusiness|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (2)||
+|Module group Value crea-<br>tion & Digital transfor-<br>mation|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (3)||
+|Module group Entrepre-<br>neurship & Innovation|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (4)||
+|Module group Financial<br>management|see Section 5 (11)||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (5)||
+|Module group Health care<br>management|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (6)||
+|Module group Marketing<br>management|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (7)||
+|Module group Supply<br>chain management|||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|see Section 5 (8)||
 
 16 
 
-|Module group Sustainable<br>& responsible manage-<br>ment||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (9)||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Module group Manage-<br>ment research||||||0–55||0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (10)||
-|**Master’s thesis**||||||**30**|||||||**15**|**15**|||
-|Master’s thesis||||||30|||||||15|15|Master’s thesis|1|
-|**Total SWS and ECTS credits**|||||||||||||||||
-|||**At least 20**<br>**SWS4 **||||**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
-||||||||||||||||||
+|Module group Sustainable<br>& responsible manage-<br>ment||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (9)||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Module group Manage-<br>ment research||0–55|0–5|0–<br>10|0–<br>10|0–<br>15|0–<br>15|||see Section 5 (10)||
+|**Master’s thesis**||**30**||||||**15**|**15**|||
+|Master’s thesis||30||||||15|15|Master’s thesis|1|
+|**Total SWS and ECTS credits**|**At least 20**<br>**SWS**<sup>**4**</sup>|**120**|**15**<br>**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
 
 - 1) The type and scope of teaching unit(s) and examination depend on the specific manner in which the respective module is taught and set out in the module handbook. 
 

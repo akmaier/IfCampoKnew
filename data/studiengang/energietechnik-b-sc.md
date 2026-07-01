@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:44:37+00:00
+scraped_at: 2026-07-01T08:21:16+00:00
 ---
 
 # Energietechnik (B.Sc.)
@@ -35,7 +35,7 @@ Die Frage nach einer umweltverträglichen und bezahlbaren Energieversorgung ist 
 
 Am Ende des Studiums haben die Studierenden ein fundiertes Wissen über alle Vorgänge von der Umwandlung von Energie aus möglichst nachhaltigen Quellen bis zum Verbrauch – das Studium der Energietechnik ist ein sehr vielseitiges ingenieurwissenschaftliches Studium.
 
-### Bachelor of Science Energietechnik
+### Fachanteile des Studiengangs Energietechnik (B.Sc.)
 
 * Chemie und Bioingenieurwesen (27%)
 * Elektrotechnik (24%)

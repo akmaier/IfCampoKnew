@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/11AeSa-DPO-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:07+00:00
-page_count_chars: 1559
+scraped_at: 2026-07-01T10:45:12+00:00
+page_count_chars: 1555
 ---
 
 # 28. Oktober 2002
@@ -12,19 +12,19 @@ page_count_chars: 1559
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/11AeSa-DPO-BWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Elfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Elfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 28. Oktober 2002 
+# Vom 28. Oktober 2002 
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Diplomprüfungsordnung für Studenten der Betriebswirtschaftslehre an der Wirtschaftsund Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom 25. November 1988 (KWMBl II 1989 S. 30), zuletzt geändert durch Satzung vom 12. April 2002 (KWMBl II S. ........), wird wie folgt geändert: 
 
 In der **Anlage 1** wird in Ziffer II Satz 3 Nr. 35 die Fußnote **) einschließlich des Textes der Fußnote gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

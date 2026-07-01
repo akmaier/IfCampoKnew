@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Naturale POM-SN 20180730 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/Aenderungssatzungen/Modulstudien_Naturale_POM-SN_20180730_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-05-01T07:55:38+00:00
-page_count_chars: 6603
+scraped_at: 2026-07-01T09:20:05+00:00
+page_count_chars: 6529
 ---
 
 # Modulstudien Naturale POM-SN 20180730 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 6603
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/Aenderungssatzungen/Modulstudien_Naturale_POM-SN_20180730_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/>
 
-## **Erste Satzung zur Änderung der Prüfungsordnung für die „Modulstudien Naturale“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/SN –** 
+# **Erste Satzung zur Änderung der Prüfungsordnung für die „Modulstudien Naturale“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/SN –** 
 
-## **Vom 30. Juli 2018** 
+# **Vom 30. Juli 2018** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 Satz 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die „Modulstudien Naturale“ an der Naturwissenschaftlichen Fakultät der FAU – POM/SN – vom 26. Juni 2017 wird wie folgt geändert: 
 
@@ -58,60 +58,56 @@ Die Prüfungsordnung für die „Modulstudien Naturale“ an der Naturwissenscha
 
 7. In § 5 Satz 1 werden nach den Worten „die Modulstudien“ das Wort „Naturale“ und nach den Worten „der Modulstudien“ das Wort „Naturale“ eingefügt. 
 
-## 8. § 7 wird wie folgt geändert: 
+# 8. § 7 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 wird nach den Worten „der Modulstudien“ das Wort „Naturale“ eingefügt. 
 
 - b) In Abs. 2 wird nach den Worten „der Modulstudien“ das Wort „Naturale“ eingefügt. 
 
-## 9. § 8 wird wie folgt geändert: 
+# 9. § 8 wird wie folgt geändert: 
 
 - a) In Satz 1 wird nach den Worten „der Modulstudien“ das Wort „Naturale“ eingefügt. 
 
 - b) In Satz 2 wird nach den Worten „der Modulstudien“ das Wort „Naturale“ eingefügt und nach den Worten „ausgestellt ,das“ das Wort „vom“ durch die Worte „von der bzw. dem“ ersetzt. 
 
-## 10. § 9 wird wie folgt geändert: 
+# 10. § 9 wird wie folgt geändert: 
 
 - a) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die Modulstudien Naturale ab dem Wintersemester 2018/2019 aufnehmen werden. 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die Modulstudien Naturale ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
 b) Der bisherige Abs. 2 wird zu Abs. 3. 
 
 2 
 
-## 11. Die **Anlage** erhält folgende neue Fassung: 
+# 11. Die **Anlage** erhält folgende neue Fassung: 
 
-## **Anlage Modulangebot „Modulstudien Naturale“:** 
+# **Anlage Modulangebot „Modulstudien Naturale“:** 
 
-||**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**ECTS-**<br>**Punkte**|**Art und Umfang der Prüfung/**<br>**Studienleistung**|
-|---|---|---|---|---|---|---|---|---|---|
-||||V|Ü|P|S|T|||
-|**Wahlpflichtbereich für Zertifikatserwerb**|Grundlagen der Zellbiologie und Genetik|gem. FPOILS||||||**7,5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
-||Molekularbiologie|gem. FPOILS||||||**7,5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
-||Einführung in die Chemie|||||||**5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
-|||gem. FPOILS||||||||
-|||||||||||
-||Experimentalphysik|gem. FPOCBI||||||**7,5**|gem. FPO Chemie- und<br>Bioingenieurwesen (FPOCBI)|
-||Physik 1|gem. FPOChem||||||**5**|gem. FPO Chemie (FPOChem)|
-||Experimentalphysik I|gem. FPONT||||||**5**|gem. FPO Nanotechnologie<br>(FPONT)|
-||Experimentalphysik I|gem. FPOEEI||||||**5**|gem. FPO Elektrotechnik,<br>Elektronik und Informationstechnik<br>(FPOEEI)|
-||Physik|gem. FPOGeo||||||**5**|gem. FPO Geowissenschaften<br>(FPOGeo)|
+||**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>V<br>Ü<br>P|S<br>T|**ECTS-**<br>**Punkte**|**Art und Umfang der Prüfung/**<br>**Studienleistung**|
+|---|---|---|---|---|---|
+||Grundlagen der Zellbiologie und Genetik|gem. FPOILS||**7,5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
+||Molekularbiologie|gem. FPOILS||**7,5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
+|**erwerb**|Einführung in die Chemie|gem. FPOILS||**5**|gem. FPO Integrated Life Sciences<br>(FPOILS)|
+|**Zertifikats**|Experimentalphysik|gem. FPOCBI||**7,5**|gem. FPO Chemie- und<br>Bioingenieurwesen (FPOCBI)|
+|**ereich für**|Physik 1|gem. FPOChem||**5**|gem. FPO Chemie (FPOChem)|
+|**ahlpflichtb**|Experimentalphysik I|gem. FPONT||**5**|gem. FPO Nanotechnologie<br>(FPONT)|
+|**W**|Experimentalphysik I|gem. FPOEEI||**5**|gem. FPO Elektrotechnik,<br>Elektronik und Informationstechnik<br>(FPOEEI)|
+||Physik|gem. FPOGeo||**5**|gem. FPO Geowissenschaften<br>(FPOGeo)|
 
 3 
 
-|**Wahlpflichtbereich für**<br>**Zertifikatserwerb**|Mathematik|gem. FPOGeo|gem. FPOGeo|gem. FPOGeo|gem. FPOGeo|gem. FPOGeo|gem. FPOGeo|**5**|gem. FPO Geowissenschaften<br>(FPOGeo)|
-|---|---|---|---|---|---|---|---|---|---|
-||Übungsprogramm Mathematik<br>für Naturwissenschaftler|Übungen zum Modul:<br>Mathematik für Naturwissenschaftler||4||||**5**|Wöchentliche Übungsblätter<br>(unbenotet)|
-||Das System Erde für<br>Naturwissenschaftler|Gem. PO ZS Geo LA||||||**5**|gem. PO Zusatzstudien<br>„Geowissenschaften im<br>Lehramt“<br>ZS Geo LA|
-||Minerale und Gesteine für<br>Geographen|Minerale und Gesteine (für Studierende<br>Geographie)|1|2||||**5**|Klausur (90 Minuten)|
-|||Geländeübung I und II zur LV Minerale u.<br>Gesteine(für Studierende Geographie)||1||||||
-|**Wahlbereich**|Wahlmodul 11|Je nach Modul||||||**10**|Je nach Modul4|
-||Wahlmodul 21|Je nach Modul|||||||Je nach Modul4|
-||Schlüsselqualifikationsmodul 12; 3|Je nach Modul||||||**10**|Je nach Modul4|
-||Schlüsselqualifikationsmodul 22; 3|Je nach Modul|||||||Je nach Modul4|
-||Sprachkurse aus dem Angebot der<br>vhb bzw. des Sprachenzentrums|Je nach Modul||||||**10**|Je nach Modul4|
-|||**Summe der zu erwerbenden ECTS-Punkte:**||||||30||
+|**r**|Mathematik|gem. FPOGeo|**5**|gem. FPO Geowissenschaften<br>(FPOGeo)|
+|---|---|---|---|---|
+|**bereich fü**<br>**serwerb**|Übungsprogramm Mathematik<br>für Naturwissenschaftler|Übungen zum Modul:<br>Mathematik für Naturwissenschaftler<br>4|**5**|Wöchentliche Übungsblätter<br>(unbenotet)|
+|**Wahlpflicht**<br>**Zertifikat**|Das System Erde für<br>Naturwissenschaftler|Gem. PO ZS Geo LA|**5**|gem. PO Zusatzstudien<br>„Geowissenschaften im<br>Lehramt“<br>ZS Geo LA|
+||Minerale und Gesteine für|Minerale und Gesteine (für Studierende<br>Geographie)<br>1<br>2|**5**|Klausur (90 Minuten)|
+||Geographen|Geländeübung I und II zur LV Minerale u.<br>Gesteine(für Studierende Geographie)<br>1|||
+||Wahlmodul 1<sup>1</sup>|Je nach Modul|**10**|Je nach Modul<sup>4</sup>|
+|**eich**|Wahlmodul 2<sup>1</sup>|Je nach Modul||Je nach Modul<sup>4</sup>|
+|**hlber**|Schlüsselqualifikationsmodul 1<sup>2; 3</sup>|Je nach Modul|**10**|Je nach Modul<sup>4</sup>|
+|**Wa**|Schlüsselqualifikationsmodul 2<sup>2; 3</sup>|Je nach Modul||Je nach Modul<sup>4</sup>|
+||Sprachkurse aus dem Angebot der<br>vhb bzw. des Sprachenzentrums|Je nach Modul<br>**Summe der zu erwerbenden ECTS-Punkte:**|**10**<br>30|Je nach Modul<sup>4</sup>|
 
 1 Die Auswahlmöglichkeiten werden auf der Homepage der „Modulstudien Naturale“ rechtzeitig ortsüblich bekannt gegeben. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Ergänzende Modulstudien Physik SPOM-PHY 20220811.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/Modulstudien_Physik/Ergänzende_Modulstudien_Physik_SPOM-PHY_20220811.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/
-scraped_at: 2026-05-01T07:55:25+00:00
-page_count_chars: 8233
+scraped_at: 2026-07-01T09:19:55+00:00
+page_count_chars: 8340
 ---
 
 # Ergänzende Modulstudien Physik SPOM-PHY 20220811.pdf
@@ -12,7 +12,7 @@ page_count_chars: 8233
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Modulstudien/Modulstudien_Physik/Ergänzende_Modulstudien_Physik_SPOM-PHY_20220811.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/>
 
-## **Studien- und Prüfungsordnung für die „Ergänzenden Modulstudien Physik“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – SPOM/PHY – Vom 11. August 2022** 
+# **Studien- und Prüfungsordnung für die „Ergänzenden Modulstudien Physik“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – SPOM/PHY – Vom 11. August 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 57 Abs. 1 Satz 1, Art. 61 Abs. 2 Satz 1 Bayerisches Hochschulgesetz ( **BayHSchG** ) erlässt die FAU folgende Prüfungsordnung: 
 
@@ -28,15 +28,15 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 57 Abs. 1 Satz 1, Art.
 
 ## **§ 2 Studienbeginn; Regelstudienzeit, Umfang** 
 
-(1)[1] Die Aufnahme der Modulstudien ist zum Winter- und Sommersemester zulässig. 2Nach einmal erfolgter Immatrikulation ist eine erneute Immatrikulation in die Modulstudien nach dieser Prüfungsordnung ausgeschlossen. 
+(1)<sup>1</sup> Die Aufnahme der Modulstudien ist zum Winter- und Sommersemester zulässig. 2Nach einmal erfolgter Immatrikulation ist eine erneute Immatrikulation in die Modulstudien nach dieser Prüfungsordnung ausgeschlossen. 
 
-(2)[1] Die Regelstudienzeit beträgt ein Semester; eine einmalige Rückmeldung ist möglich.[2] Der Umfang der im Rahmen der Modulstudien angebotenen Module richtet sich nach der **Anlage** .[3] Weitere Module können durch den für die Modulstudien zuständigen Prüfungsausschuss zugelassen werden.[4] Die von den Studierenden jeweils zu absolvierenden Module im Umfang von maximal 30 ECTS-Punkten richten sich nach einer mit der bzw. dem Modulstudienverantwortlichen individuell abzuschließenden Vereinbarung (Modulstudienvereinbarung). 
+(2)<sup>1</sup> Die Regelstudienzeit beträgt ein Semester; eine einmalige Rückmeldung ist möglich.<sup>2</sup> Der Umfang der im Rahmen der Modulstudien angebotenen Module richtet sich nach der **Anlage** .<sup>3</sup> Weitere Module können durch den für die Modulstudien zuständigen Prüfungsausschuss zugelassen werden.<sup>4</sup> Die von den Studierenden jeweils zu absolvierenden Module im Umfang von maximal 30 ECTS-Punkten richten sich nach einer mit der bzw. dem Modulstudienverantwortlichen individuell abzuschließenden Vereinbarung (Modulstudienvereinbarung). 
 
 1 
 
 ## **§ 3 Qualifikationsvoraussetzungen** 
 
-1Der Zugang zu den Modulstudien setzt einen Hochschulabschluss oder einen gleichwertigen Abschluss voraus (Art. 43 Abs. 6 Satz 1 **BayHSchG** ).[2] Darüber hinaus bestehende Qualifikationsvoraussetzungen bleiben unberührt.[3] Weitere Voraussetzung für die Aufnahme in die Modulstudien ist in der Regel eine Auflage der Zugangskommission des Masterstudiengangs Physics zum Ausgleich fehlender Kompetenzen im Rahmen des Masterzugangs bzw. eine im Ablehnungsbescheid ausgesprochene Empfehlung zum Erwerb fehlender Kompetenzen im Rahmen dieser Modulstudien. 
+1Der Zugang zu den Modulstudien setzt einen Hochschulabschluss oder einen gleichwertigen Abschluss voraus (Art. 43 Abs. 6 Satz 1 **BayHSchG** ).<sup>2</sup> Darüber hinaus bestehende Qualifikationsvoraussetzungen bleiben unberührt.<sup>3</sup> Weitere Voraussetzung für die Aufnahme in die Modulstudien ist in der Regel eine Auflage der Zugangskommission des Masterstudiengangs Physics zum Ausgleich fehlender Kompetenzen im Rahmen des Masterzugangs bzw. eine im Ablehnungsbescheid ausgesprochene Empfehlung zum Erwerb fehlender Kompetenzen im Rahmen dieser Modulstudien. 
 
 ## **§ 4 Prüfungsausschüsse; Verfahrensrecht** 
 
@@ -46,13 +46,15 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 57 Abs. 1 Satz 1, Art.
 
 ## **§ 5 Zulassung zu den Prüfungen** 
 
-1Mit der Immatrikulation in die Modulstudien gelten Studierende zu den Modulprüfungen der Modulstudien als zugelassen, die in der Modulstudienvereinbarung nach § 2 Abs. 2 Satz 3 festgelegt sind.[2] Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits in einem Studiengang oder im Rahmen sonstiger Studien erfolgt ist. 
+1Mit der Immatrikulation in die Modulstudien gelten Studierende zu den Modulprüfungen der Modulstudien als zugelassen, die in der Modulstudienvereinbarung nach § 2 Abs. 2 Satz 3 festgelegt sind.<sup>2</sup> Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits in einem Studiengang oder im Rahmen sonstiger Studien erfolgt ist. 
 
-**§ 6 Prüfungen** Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** 
+## **§ 6 Prüfungen** 
+
+Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** . 
 
 ## **§ 7 Wiederholung von Prüfungen** 
 
-(1)[1] Eine im Rahmen der Modulstudien nicht bestandene Modulprüfung kann einmal wiederholt werden (Art. 61 Abs. 3 Satz 2 Nr. 11 **BayHSchG** ).[2] Eine zweite Wiederholung ist ausgeschlossen. 
+(1)<sup>1</sup> Eine im Rahmen der Modulstudien nicht bestandene Modulprüfung kann einmal wiederholt werden (Art. 61 Abs. 3 Satz 2 Nr. 11 **BayHSchG** ).<sup>2</sup> Eine zweite Wiederholung ist ausgeschlossen. 
 
 (2) Die Wiederholung einer im Rahmen der Modulstudien bestandenen Modulprüfung ist ausgeschlossen. 
 
@@ -64,30 +66,30 @@ Der Nachweis über die im Rahmen der Modulstudien erfolgreich abgelegten Modulpr
 
 ## **§ 9 Inkrafttreten** 
 
-1Diese Studien- und Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Modulstudierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden. 
+1Diese Studien- und Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Modulstudierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden. 
 
 2 
 
 ## **Anlage** Modulangebot „Ergänzende Modulstudien Physik“ 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**ECTS-**<br>**Punkte**|**Art und Umfang der**<br>**Prüfung**|
-|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**T**|||
-|Experimentalphysik 3 (EP-3)|Experimentalphysik 3:<br>Optik und Quanteneffekte|4|2||||**7,5**|Vgl. BMPO/Physik|
-|Experimentalphysik 4 (EP-4)|Experimentalphysik 4: Atom- und Molekülphysik|3|2||||**7,5**|Mündliche Prüfung (30 Min)|
-|Experimentalphysik 5 (EP-5)|Experimentalphysik 5: Kern- und Teilchenphysik|3|2||||**7,5**|Vgl. BMPO/Physik|
-|Experimentalphysik 6 (EP-6)|Experimentalphysik 6: Festkörperphysik|3|2||||**7,5**||
-|Physikalisches Experimentieren C|Fortgeschrittenenpraktikum|1||5|||**7,5**||
-|Theoretische Physik 1 (TP-1)|Theoretische Physik 1: Mechanik|4|3||||**10**||
-|Theoretische Physik 2 (TP-2)|Theoretische Physik 2: Elektrodynamik|4|3||||**10**||
-|Theoretische Physik 3 (TP-3)|Theoretische Physik 3: Quantenmechanik|4|3||||**10**||
-|Theoretische Physik 4 (TP-4)|Theoretische Physik 4: Statistische Physik|4|3||||**10**||
-|Theoretische Physik 1 LA (TPL-1)|Theoretische Physik 1 LA: Theoretische Mechanik<br>(TPL-1)|2|2||||**5**|Vgl. FPO LA Physik|
-|Theoretische Physik 2 LA (TPL-2)|Integrierter Kurs: Quantenmechanik und Atomphy-<br>sik(Teil Quantenmechanik)|3|2||||**5**|Mündliche Prüfung (30 Min)|
-|Theoretische Physik 3 LA (TPL-3)|Theoretische Physik 3 LA: Theoretische Thermody-<br>namik(TPL-3)|2|2||||**5**|Vgl. FPO LA Physik|
-|Theoretische Physik 4 LA (TPL-4)|Theoretische Physik 4 LA: Elektrodynamik (TPL-4)|2|2||||**5**||
-|Sprachkurse aus dem Angebot der<br>vhb bzw. des Sprachenzentrums|Je nach Modul1)||||||**5**|Je nach Modul1)|
-|**Summe der zu erwerbenden ECTS-Punkte:**|||||||**max. 30**||
+|**Modulbezeichnung**|**Lehrveranstaltung**|||**SWS**<br>|<br>|**ECTS-**<br>**Punkte**|**Art und Umfang der**<br>**Prüfung**|
+|---|---|---|---|---|---|---|---|
+|||**V**|**Ü**|**P**|**S**<br>**T**|||
+|Experimentalphysik 3 (EP-3)|Experimentalphysik 3:<br>Optik und Quanteneffekte|4|2|||**7,5**|Vgl. BMPO/Physik|
+|Experimentalphysik 4 (EP-4)|Experimentalphysik 4: Atom- und Molekülphysik|3|2|||**7,5**|Mündliche Prüfung (30 Min)|
+|Experimentalphysik 5 (EP-5)|Experimentalphysik 5: Kern- und Teilchenphysik|3|2|||**7,5**||
+|Experimentalphysik 6 (EP-6)|Experimentalphysik 6: Festkörperphysik|3|2|||**7,5**||
+|Physikalisches Experimentieren C|Fortgeschrittenenpraktikum|1||5||**7,5**||
+|Theoretische Physik 1 (TP-1)|Theoretische Physik 1: Mechanik|4|3|||**10**|Vgl. BMPO/Physik|
+|Theoretische Physik 2 (TP-2)|Theoretische Physik 2: Elektrodynamik|4|3|||**10**||
+|Theoretische Physik 3 (TP-3)|Theoretische Physik 3: Quantenmechanik|4|3|||**10**||
+|Theoretische Physik 4 (TP-4)|Theoretische Physik 4: Statistische Physik|4|3|||**10**||
+|Theoretische Physik 1 LA (TPL-1)|Theoretische Physik 1 LA: Theoretische Mechanik<br>(TPL-1)|2|2|||**5**|Vgl. FPO LA Physik|
+|Theoretische Physik 2 LA (TPL-2)|Integrierter Kurs: Quantenmechanik und Atomphy-<br>sik(Teil Quantenmechanik)|3|2|||**5**|Mündliche Prüfung (30 Min)|
+|Theoretische Physik 3 LA (TPL-3)|Theoretische Physik 3 LA: Theoretische Thermody-<br>namik(TPL-3)|2|2|||**5**|Vl FPO LA Phsik|
+|Theoretische Physik 4 LA (TPL-4)|Theoretische Physik 4 LA: Elektrodynamik (TPL-4)|2|2|||**5**|g.   y|
+|Sprachkurse aus dem Angebot der<br>vhb bzw. des Sprachenzentrums|Je nach Modul<sup>1)</sup>|||||**5**|Je nach Modul<sup>1)</sup>|
+||**Sum**|**me der**|**zu erwe**|**rbenden**|**ECTS-Punkte:**|**max. 30**||
 
 > 1)  Art und Umfang der Lehrveranstaltungen und der Prüfung sind abhängig vom jeweils gewählten Modul und sind der Allgemeinen Studien- und Prüfungsordnung für das Sprachenzentrum der FAU – **APO/SprZ** – in der jeweils geltenden Fassung bzw. der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. der Modulbeschreibung zu entnehmen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES_2FachBA Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:30+00:00
-page_count_chars: 2521
+scraped_at: 2026-07-01T10:21:21+00:00
+page_count_chars: 2533
 ---
 
 # 22. Juli 2014
@@ -12,13 +12,13 @@ page_count_chars: 2521
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES_2FachBA Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 22. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg vom 22. Juli 2008, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -38,7 +38,7 @@ PL: 90 Minuten Klausur
 
 SL: Hausaufgaben“ 
 
-b) Abs. 2 wird gestrichen. Der bisherige Abs. 3 wird zu Abs. 2. 
+   - b) Abs. 2 wird gestrichen. Der bisherige Abs. 3 wird zu Abs. 2. 
 
 3. § 5 wird wie folgt geändert: 
 
@@ -52,7 +52,7 @@ b) Abs. 2 wird gestrichen. Der bisherige Abs. 3 wird zu Abs. 2.
 
    - b) Nach Satz 3 wird folgender Satz 4 angefügt: 
 
-      - „[4] Der Umfang der Ausarbeitung der Bachelorarbeit ist nicht beschränkt.“ 
+      - „<sup>4</sup> Der Umfang der Ausarbeitung der Bachelorarbeit ist nicht beschränkt.“ 
 
 **§ 2** 
 

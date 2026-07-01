@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20240807 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/ASC/Aenderungssatzungen/Elite-MA_Advanced_Signal_Processing_Communications_Engineering_FPOASC_20240807_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:04:33+00:00
-page_count_chars: 8395
+scraped_at: 2026-07-01T11:26:19+00:00
+page_count_chars: 8446
 ---
 
 # Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20240807 ÄS.pdf
@@ -46,11 +46,11 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Pro
 
 ## 7. § 47 erhält folgende neue Fassung: 
 
-(1)[1] Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium im Wintersemester 2024/2025 aufnehmen werden. 
+(1)<sup>1</sup> Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium im Wintersemester 2024/2025 aufnehmen werden. 
 
-(2)[1] Der Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering“ (ASC) an der FAU wird zum Wintersemester 2026/2027 aufgehoben. 2Spätestens mit Beginn des Sommersemesters 2025 (1. April 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
+(2)<sup>1</sup> Der Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering“ (ASC) an der FAU wird zum Wintersemester 2026/2027 aufgehoben. 2Spätestens mit Beginn des Sommersemesters 2025 (1. April 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
 
-(3)[1] Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 29. Februar 2016, zuletzt geändert durch Satzung vom 1. Juli 2021 tritt mit Wirkung zum 31. März 2027 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten. 
+(3)<sup>1</sup> Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 29. Februar 2016, zuletzt geändert durch Satzung vom 1. Juli 2021 tritt mit Wirkung zum 31. März 2027 außer Kraft.<sup>2</sup> Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten. 
 
 (4) Für diese Fachstudien- und Prüfungsordnung gilt Abs. 3 entsprechend. 
 
@@ -90,11 +90,11 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Pro
 
 - p) In Fußnote 3 werden die Buchstaben und Zeichen „ **ABMPO/TechFak** “ durch die Buchstaben und Zeichen „ **ABMPO/TF** “ ersetzt. 
 
-9. Die **Anlage 1b** wird wie folgt geändert: 
+## 9. Die **Anlage 1b** wird wie folgt geändert: 
 
-   - a) In Fußnote 2 werden die Buchstaben und Zeichen „ **ABMPO/TechFak** “ durch die Buchstaben und Zeichen „ **ABMPO/TF** “ ersetzt. 
+- a) In Fußnote 2 werden die Buchstaben und Zeichen „ **ABMPO/TechFak** “ durch die Buchstaben und Zeichen „ **ABMPO/TF** “ ersetzt. 
 
-   - b) In Fußnote 3 werden die Buchstaben und Zeichen „ **ABMPO/TechFak** “ durch die Buchstaben und Zeichen „ **ABMPO/TF** “ ersetzt. 
+- b) In Fußnote 3 werden die Buchstaben und Zeichen „ **ABMPO/TechFak** “ durch die Buchstaben und Zeichen „ **ABMPO/TF** “ ersetzt. 
 
 ## 10. Die **Anlage 2** wird wie folgt geändert: 
 
@@ -106,5 +106,5 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Pro
 
 ## **§ 2** 
 
-1Die vierte Änderungssatzung tritt am 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 29. Februar 2016 in der Fassung vom 1. Juli 2021 studieren.[3] Studierende, die zum Zeitpunkt des Inkrafttretens bereits nach der in Satz 2 genannten Fachprüfungsordnung in einer vor dem 1. Juli 2021 gültigen Fassung studieren, beenden ihr Studium nach der bisher für sie gültigen Fassung. 4Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten. 
+1Die vierte Änderungssatzung tritt am 1. Oktober 2024 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen, die zum Zeitpunkt des Inkrafttretens bereits nach der bisher gültigen Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 29. Februar 2016 in der Fassung vom 1. Juli 2021 studieren.<sup>3</sup> Studierende, die zum Zeitpunkt des Inkrafttretens bereits nach der in Satz 2 genannten Fachprüfungsordnung in einer vor dem 1. Juli 2021 gültigen Fassung studieren, beenden ihr Studium nach der bisher für sie gültigen Fassung. 4Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten. 
 

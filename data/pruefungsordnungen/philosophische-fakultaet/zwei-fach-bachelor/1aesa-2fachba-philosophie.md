@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-2FachBA Philosophie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:59+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:28:22+00:00
+page_count_chars: 1442
 ---
 
 # 11. Juli 2008
@@ -12,56 +12,27 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-2FachBA Philosophie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+: 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# Satzung zur Anderung der Fachstudien- und Priifungsordnung fiir das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultat und Fachbereich Theologie der FriedrichAlexander-Universitat Erlangen-Nurnberg Vom 11. Juli 2008 
 
-### OCR Seite 1
+Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-```
-81
-Die Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-
-\
-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich
-Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober
-2007 wird wie folgt geändert:
-In 8 5 wird zwischen die Worte „IA, III A" anstelle des Kommas das Wort
-„oder“ eingefügt; die Worte „oder IV A" werden gestrichen.
-82
-!Diese Satzung tritt am 1. Oktober 2008 in Kraft. °Sie gilt für alle Studierenden, die
-ab dem Wintersemester 2008/09 das Studium aufnehmen.
-Ausgefertigt
-aufgrund
-des
-Beschlusses
-des
-Senats
-der
-Universität
-Erlangen-
-|
-Nürnberg vom 25. Juni 2008 und der Genehmigungsfeststellung des Rektors vom 4.
-Juli 2008.
-Erlangen, den 11. Juli 2008
-es, Grüske
-Rektor
-Die
-Satzung
-wurde
-am
-11.
-Juli
-2008
-in
-der
-Universität
-Erlangen-Nürnberg
-niedergelegt;
-die Niederlegung wurde am
-11.
-Juli 2008 durch Anschlag
-in der
-Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der
-11. Juli 2008.
-```
+## §1 
+
+Die Fachstudien- und Priifungsordnung fur das Fach Philosophie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultat und Fachbereich Theologie der Friedrich-Alexander-Universitat Erlangen-NUrnberg vom 5. Oktober 2007 wird wie folgt geandert: 
+
+In § 5 wird zwischen die Worte ,|| A, lll A“ anstelle des Kommas das Wort ,oder" eingefligt; die Worte ,, oder IV A“ werden gestrichen. 
+
+### §2 
+
+‘Diese Satzung tritt am 1. Oktober 2008 in Kraft. *Sie gilt fur alle Studierenden, die ab dem Wintersemester 2008/09 das Studium aufnehmen. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat ErlangenNurnberg vom 25. Juni 2008 und der Genehmigungsfeststellung des Rektors vom 4. Juli 2008. 
+
+Erlangen, den 11. Juli 2008 
+
+Yes, Griske Rektor 
+
+Die Satzung wurde am 11. Juli 2008 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 11. Juli 2008 durch Anschlag in der Universitat Erlangen-NUrnberg bekannt gegeben. Tag der Bekanntmachung ist der 11. Juli 2008. 
 

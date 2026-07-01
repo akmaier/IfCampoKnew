@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.07.2010 i.d.F. 05.06.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuOPrO MA-InternationaleWirtschaftsinformatik-IIS-JUNI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:10+00:00
-page_count_chars: 11148
+scraped_at: 2026-07-01T11:04:10+00:00
+page_count_chars: 11281
 ---
 
 # PDF vom 08.07.2010 i.d.F. 05.06.2014
@@ -38,7 +38,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten nichtkonse
 
 1. Eine von der Bewerberin oder dem Bewerber selbstständig in englischer Sprache verfasste Arbeitsprobe im Umfang von 2 Seiten (max. 1.000 Wörter) zu einem von der Zugangskommission vorgegebenen Thema mit Bezug zu den Inhalten des Masterstudiengangs International Information Systems (das Thema wird auf den Internetseiten des Masterstudiengangs IIS jeweils mit Beginn der Bewerbungsfrist bekanntgegeben), 
 
-2. Nachweis über englische Sprachkenntnisse mit mindestens dem Niveau TOEFL iBT 85 (entspricht Niveau B2[+] , GER) oder vergleichbare Nachweise, 
+2. Nachweis über englische Sprachkenntnisse mit mindestens dem Niveau TOEFL iBT 85 (entspricht Niveau B2<sup>+</sup> , GER) oder vergleichbare Nachweise, 
 
 3. Nachweis über deutsche Sprachkenntnisse mit mindestens dem Niveau A2 nach "Common European Framework of the European Council" oder vergleichbare Nachweise, 
 
@@ -46,19 +46,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten nichtkonse
 
 5. Nachweis über weitere Sprachkenntnisse, soweit vorhanden. 
 
-(3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage Nr. 5.1 MPOWIWI bewertet: 
+(3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage Nr. 5.1 MPOWIWI bewertet: 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 50 Punkte), 
 
-1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 50 Punkte), 
+2. besondere fachliche Qualifikationen, Kenntnisse, Fähigkeiten, Sprachkenntnisse (max. 30 Punkte), 
 
-2. besondere fachliche Qualifikationen, Kenntnisse, Fähigkeiten, Sprachkenntnisse 
+3. Qualität der Arbeitsprobe (max. 10 Punkte), 4. einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung, qualifizierte Auslandsaufenthalte (max. 10 Punkte). 
 
-   - (max. 30 Punkte), 
-
-3. Qualität der Arbeitsprobe (max. 10 Punkte), 
-
-4. einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung, qualifizierte Auslandsaufenthalte (max. 10 Punkte). 
-
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage Nr. 5.2.1 MPOWIWI werden die Bewerberinnen und Bewerber zu einem Qualifikationsfeststellungsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin oder der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie oder er in einem stärker forschungsorientiertem Studium selbstständig wissenschaftlich zu arbeiten versteht.[3] In dem Qualifikationsfeststellungsgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage Nr. 5.2.1 MPOWIWI werden die Bewerberinnen und Bewerber zu einem Qualifikationsfeststellungsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin oder der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie oder er in einem stärker forschungsorientiertem Studium selbstständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> In dem Qualifikationsfeststellungsgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Qualität der fachspezifischen Grundkenntnisse in den Bereichen Wirtschaftswissenschaften und Informatik (jeweils 50 Prozent, max. 10 Punkte), 
 
@@ -70,25 +64,25 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten nichtkonse
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten Semester werden interdisziplinäre Kenntnisse und Grundlagenwissen vermittelt.[2] Vorhandenes Vorwissen aus Management und Informatik wird jeweils komplementär durch Veranstaltungen des jeweils anderen Bereichs ergänzt. 3Studierende mit einem Abschluss in Wirtschaftswissenschaften erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Informatik aus dem Bereich Customized Introduction to International Information Systems.[4] Studierende mit 
+(1)<sup>1</sup> Im ersten Semester werden interdisziplinäre Kenntnisse und Grundlagenwissen vermittelt.<sup>2</sup> Vorhandenes Vorwissen aus Management und Informatik wird jeweils komplementär durch Veranstaltungen des jeweils anderen Bereichs ergänzt. 3Studierende mit einem Abschluss in Wirtschaftswissenschaften erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Informatik aus dem Bereich Customized Introduction to International Information Systems.<sup>4</sup> Studierende mit 
 
 2 
 
 einem technischen oder informatikbezogenen Abschluss erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Betriebswirtschaft aus dem Bereich Customized Introduction to International Information Systems. 
 
-- (2)[1] Das Masterstudium International Information Systems ist in folgende Bereiche gegliedert: 
+- (2)<sup>1</sup> Das Masterstudium International Information Systems ist in folgende Bereiche gegliedert: 
 
 1. Bereich **Customized Introduction to International Information Systems** : 
 
    - a) Management I (10 ECTS-Punkte) und II (10 ECTS-Punkte) oder 
 
-   - b) Informatics I (10 ECTS-Punkte) und II (10 ECTS-Punkte) 
+- b) Informatics I (10 ECTS-Punkte) und II (10 ECTS-Punkte) 
 
-2. Bereich **Foreign Language Skills** 
+- 2. Bereich **Foreign Language Skills** 
 
-   - Foreign Language Skills (5 ECTS-Punkte) 
+- Foreign Language Skills (5 ECTS-Punkte) 
 
-3. Bereich **International Information Systems Management** (IISM) 
+- 3. Bereich **International Information Systems Management** (IISM) 
 
    - a) Core Courses (Kernbereich) (15 ECTS-Punkte) 
 
@@ -102,9 +96,9 @@ einem technischen oder informatikbezogenen Abschluss erhalten im ersten Semester
 
       - Modulbereich: Services, Processes and Intelligence II (0-15 ECTS-Punkte) Modulbereich: IT Management II (0-15 ECTS-Punkte) 
 
-      - Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte) 
+- Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte) 
 
-4. Bereich **Informatics** 
+- 4. Bereich **Informatics** 
 
    - a) Core Courses (Kernbereich) (15 ECTS-Punkte) 
 
@@ -122,19 +116,19 @@ einem technischen oder informatikbezogenen Abschluss erhalten im ersten Semester
 
       - Modulbereich: Applied Software Engineering II (0-15 ECTS-Punkte) Modulbereich: Extension Courses (0-15 ECTS-Punkte) 
 
-      - Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte) 
+- Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte) 
 
-5. Bereich **Seminar** Seminars (5 ECTS-Punkte) 
+- 5. Bereich **Seminar** Seminars (5 ECTS-Punkte) 
 
-6. **Masterarbeit** 
+- 6. **Masterarbeit** 
 
-Master Thesis (30 ECTS-Punkte ). 
+   - Master Thesis (30 ECTS-Punkte ). 
 
 2Wegen des erforderlichen Kompetenzgewinns können Module bzw. Modulteile im Bereich Informatics, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums belegt wurden, im Masterstudium nicht mehr gewählt werden. 
 
 (3) Die Lehrveranstaltungen finden in englischer und deutscher Sprache statt. 
 
-(4)[1] Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im Ausland verbringen.[2] Hierfür kommen ein Studiensemester an einer ausländischen Hochschule sowie die Ausarbeitung der Masterarbeit an einer ausländischen Hochschule oder bei einem Unternehmen im Ausland in Betracht. 
+(4)<sup>1</sup> Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im Ausland verbringen.<sup>2</sup> Hierfür kommen ein Studiensemester an einer ausländischen Hochschule sowie die Ausarbeitung der Masterarbeit an einer ausländischen Hochschule oder bei einem Unternehmen im Ausland in Betracht. 
 
 3 
 
@@ -146,42 +140,40 @@ Master Thesis (30 ECTS-Punkte ).
 
 ## **Anlage: Übersichtstabelle Studienverlauf** 
 
-||||Sem. 1|Sem. 2|Sem. 3|Sem. 4||
-|---|---|---|---|---|---|---|---|
-|**Modules**||ECTS|ECTS|ECTS|ECTS|ECTS||
-|**Customized Introduction to International Information Systems**||||||||
-|Management I und Management IIoder|BWL + WI|20||||||
-||||20|||||
-|Informatics I und Informatics II|INF|20||||||
-|||||||||
-|**Foreign Language Skills**||||||||
-|Foreign Language Skills|NN|5|5|||||
-|**International Information Systems Management(IISM)**||||||||
-|**Core  Courses(Kernbereich)1)**|**WI**|**15**||||||
-|Modulbereich: Innovation and Value Creation I|WI|5|5|||||
-|Modulbereich: Services,Processes and Intelligence I|WI|5||5||||
-|Modulbereich: IT Management I|WI|5||5||||
-|**Electives(Wahlpflichtbereich)2)**|**WI**|**15**||||||
-|Modulbereich: Innovation  and Value Creation II|WI|0-15||0-15|0-15|||
-|Modulbereich: Services,Processes and Intelligence II|WI|0-15||0-15|0-15|||
-|Modulbereich: IT Management II|WI|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**|WI|0-15|||0-15|||
-|**Informatics**||||||||
-|**Core Courses(Kernbereich)1)**|**INF**|**15**||||||
-|Modulbereich: Data Management I|INF|5||5||||
-|Modulbereich: Software EngineeringI|INF|5||5||||
-|Modulbereich: Applied Software EngineeringI|INF|5||5||||
-|**Electives(Wahlpflichtbereich)2)**|**INF**|**15**||||||
-|Modulbereich: Data Management II|INF|0-15||0-15|0-15|||
-|Modulbereich: Software EngineeringII|INF|0-15||0-15|0-15|||
-|Modulbereich: Applied Software EngineeringII|INF|0-15||0-15|0-15|||
-|Modulbereich: Extension Courses|INF|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**|INF|0-15|||0-15|||
-|**Seminar**||||||||
-|Seminar|WI+INF|5|||5|||
-|**Masterarbeit**||||||||
-|Master Thesis|WI+INF|30||||30||
-||||30|30|30|30||
+||||Sem. 1|Sem. 2|Sem. 3|<br>Sem. 4|
+|---|---|---|---|---|---|---|
+|**Modules**||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Customized Introduction to International Informatio**<br>|**n Systems**<br>||||||
+|Management I und Management IIoder|BWL + WI|20|20||||
+|Informatics I und Informatics II|INF|20|||||
+|**Foreign Language Skills**|||||||
+|Foreign Language Skills|NN|5|5||||
+|**International Information Systems Management(IIS**<br>|**M)**||||||
+|**Core  Courses(Kernbereich)**<sup>**1)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation and Value Creation I|WI|5|5||||
+|Modulbereich: Services,Processes and Intelligence I|WI|5||5|||
+|Modulbereich: IT Management I<br>|WI|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation  and Value Creation II|WI|0-15||0-15|0-15||
+|Modulbereich: Services,Processes and Intelligence II|WI|0-15||0-15|0-15||
+|Modulbereich: IT Management II|WI|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|WI|0-15|||0-15||
+|**Informatics**<br>|||||||
+|**Core Courses(Kernbereich)**<sup>**1)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management I|INF|5||5|||
+|Modulbereich: Software EngineeringI|INF|5||5|||
+|Modulbereich: Applied Software EngineeringI|INF|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management II|INF|0-15||0-15|0-15||
+|Modulbereich: Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Applied Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Extension Courses|INF|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|INF|0-15|||0-15||
+|**Seminar**|||||||
+|Seminar|WI+INF|5|||5||
+|**Masterarbeit**|||||||
+|Master Thesis|WI+INF|30||||30|
+||||30|30|30|30|
 
 1) Innerhalb des Kernbereichs müssen pro Modulbereich verpflichtend Module im Umfang von 5 ECTS-Punkten absolviert werden. (Ggf.) Auswahl von Modulen im Wert von 5 ECTS-Punkten gemäß Modulhandbuch. Module, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums absolviert wurden, können wegen des erforderlichen Kompetenzgewinns nicht noch einmal gewählt werden. 
 

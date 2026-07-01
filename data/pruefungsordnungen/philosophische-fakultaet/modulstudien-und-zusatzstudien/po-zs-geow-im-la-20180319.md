@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO ZS Geow im LA 20180319.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20180319.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-05-01T08:39:43+00:00
-page_count_chars: 8469
+scraped_at: 2026-07-01T09:49:04+00:00
+page_count_chars: 8625
 ---
 
 # PO ZS Geow im LA 20180319.pdf
@@ -20,7 +20,18 @@ Auf Grund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 56 Abs. 6 Nr. 2, Art.
 
 ## **Inhalt** 
 
-Inhalt ........................................................................................................................... 1 § 1 Geltungsbereich ................................................................................................... 1 § 2 Ziele; Regelstudienzeit; Umfang ........................................................................... 2 § 3 Studienbeginn; Regelstudienzeit, Umfang ............................................................ 2 § 4 Qualifikationsvoraussetzungen ............................................................................. 2 § 5 Prüfungsausschuss; Verfahrensrecht ................................................................... 2 § 6 Zulassung zu den Prüfungen ................................................................................ 2 § 7 Prüfungen ............................................................................................................. 2 § 8 Transcript of Records; Zertifikat ............................................................................ 3 § 9 Inkrafttreten; Experimentierklausel ....................................................................... 3 Anlage Studienverlaufsplan „Zusatzstudien Geowissenschaften im Lehramt“ ........... 4 
+|Inhalt ........................................................................................................................... 1|
+|---|
+|§ 1 Geltungsbereich ................................................................................................... 1|
+|§ 2 Ziele; Regelstudienzeit; Umfang ........................................................................... 2|
+|§ 3 Studienbeginn; Regelstudienzeit, Umfang ............................................................ 2|
+|§ 4 Qualifikationsvoraussetzungen ............................................................................. 2|
+|§ 5 Prüfungsausschuss; Verfahrensrecht ................................................................... 2|
+|§ 6 Zulassung zu den Prüfungen ................................................................................ 2|
+|§ 7 Prüfungen ............................................................................................................. 2|
+|§ 8 Transcript of Records; Zertifikat ............................................................................ 3|
+|§ 9 Inkrafttreten; Experimentierklausel ....................................................................... 3|
+|Anlage Studienverlaufsplan „Zusatzstudien Geowissenschaften im Lehramt“ ........... 4|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -28,21 +39,21 @@ Inhalt .........................................................................
 
 ## **§ 2 Ziele; Inhalt; Struktur** 
 
-(1)[1] Die Zusatzstudien Geowissenschaften im Lehramt richten sich an Studierende des Lehramts an Gymnasien oder Realschulen mit den Fächern Geographie, Chemie, Mathematik, Biologie oder Physik sowie des Lehramts an Mittelschulen oder Grundschulen.[2] Sie sollen in diesem Rahmen dem Erwerb zusätzlicher Qualifikationen dienen.[3] Zusätzlich qualifizieren die Zusatzstudien für geowissenschaftliche Tätigkeiten auch außerhalb des Lehramtsbereichs. 
+(1)<sup>1</sup> Die Zusatzstudien Geowissenschaften im Lehramt richten sich an Studierende des Lehramts an Gymnasien oder Realschulen mit den Fächern Geographie, Chemie, Mathematik, Biologie oder Physik sowie des Lehramts an Mittelschulen oder Grundschulen.<sup>2</sup> Sie sollen in diesem Rahmen dem Erwerb zusätzlicher Qualifikationen dienen.<sup>3</sup> Zusätzlich qualifizieren die Zusatzstudien für geowissenschaftliche Tätigkeiten auch außerhalb des Lehramtsbereichs. 
 
-(2)[1] Inhalt der Zusatzstudien Geowissenschaften im Lehramt sind die geowissenschaftlichen Lehrplaninhalte der Gymnasien und Realschulen mit Schwerpunkt auf der Lehrplanalternative Geologie unter Berücksichtigung der aktuellen geowissenschaftlichen Herausforderungen, z. B. Ressourcen, Klimawandel, Naturkatastrophen, Grundwasser, Energie.[2] Mit diesem Studienangebot werden die zukünftigen Lehre- 
+(2)<sup>1</sup> Inhalt der Zusatzstudien Geowissenschaften im Lehramt sind die geowissenschaftlichen Lehrplaninhalte der Gymnasien und Realschulen mit Schwerpunkt auf der Lehrplanalternative Geologie unter Berücksichtigung der aktuellen geowissenschaftlichen Herausforderungen, z. B. Ressourcen, Klimawandel, Naturkatastrophen, Grundwasser, Energie.<sup>2</sup> Mit diesem Studienangebot werden die zukünftigen Lehre- 
 
 1 
 
-rinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissenschaftlichen Inhalte der bundesweiten Lehrpläne sowie die Lehrplanalternative Geologie der bayerischen Gymnasien vorbereitet.[3] Dabei liegt der Fokus auf der Verknüpfung von Theorie und Praxis für den Schulalltag. 
+rinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissenschaftlichen Inhalte der bundesweiten Lehrpläne sowie die Lehrplanalternative Geologie der bayerischen Gymnasien vorbereitet.<sup>3</sup> Dabei liegt der Fokus auf der Verknüpfung von Theorie und Praxis für den Schulalltag. 
 
-(3)[1] Die Zusatzstudien sind so strukturiert, dass die Studierenden im ersten Semester grundlegende fachwissenschaftliche Kompetenzen in den Modulen „Das System Erde“ und „Der Mensch im geowissenschaftlichen Umfeld“ erwerben.[2] Im zweiten Semester erwerben sie methodische und fachdidaktische Kompetenzgrundlagen in den Modulen „Exkursion - Aus der Praxis in die Praxis“ und „Geologisch-didaktisches Seminar“. 
+(3)<sup>1</sup> Die Zusatzstudien sind so strukturiert, dass die Studierenden im ersten Semester grundlegende fachwissenschaftliche Kompetenzen in den Modulen „Das System Erde“ und „Der Mensch im geowissenschaftlichen Umfeld“ erwerben.<sup>2</sup> Im zweiten Semester erwerben sie methodische und fachdidaktische Kompetenzgrundlagen in den Modulen „Exkursion - Aus der Praxis in die Praxis“ und „Geologisch-didaktisches Seminar“. 
 
 ## **§ 3 Studienbeginn; Regelstudienzeit, Umfang** 
 
 (1) Die Aufnahme der Zusatzstudien ist nur zum Wintersemester zulässig. 
 
-(2)[1] Die Regelstudienzeit beträgt zwei Semester.[2] Der Umfang der im Rahmen der Zusatzstudien angebotenen Module richtet sich nach der **Anlage** . 
+(2)<sup>1</sup> Die Regelstudienzeit beträgt zwei Semester.<sup>2</sup> Der Umfang der im Rahmen der Zusatzstudien angebotenen Module richtet sich nach der **Anlage** . 
 
 ## **§ 4 Qualifikationsvoraussetzungen** 
 
@@ -56,15 +67,17 @@ rinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissen
 
 ## **§ 6 Zulassung zu den Prüfungen** 
 
-1Mit der Immatrikulation in die in § 4 genannten Studiengänge gelten Studierende zu den Modulprüfungen der Zusatzstudien als zugelassen.[2] Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits anderweitig erfolgt ist. 
+1Mit der Immatrikulation in die in § 4 genannten Studiengänge gelten Studierende zu den Modulprüfungen der Zusatzstudien als zugelassen.<sup>2</sup> Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits anderweitig erfolgt ist. 
 
-**§ 7 Prüfungen** Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** 
+## **§ 7 Prüfungen** 
+
+Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** . 
 
 2 
 
 ## **§ 8 Transcript of Records; Zertifikat** 
 
-(1)[1] Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten Modulprüfungen erfolgt über das Transcript of Records nach § 20 Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU - **LAPO** - und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/ Fachrichtung Sozialpädagogik - Vocational Education/ Social Pedagogy and Social Services“ in der jeweils geltenden Fassung.[2] Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
+(1)<sup>1</sup> Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten Modulprüfungen erfolgt über das Transcript of Records nach § 20 Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU - **LAPO** - und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/ Fachrichtung Sozialpädagogik - Vocational Education/ Social Pedagogy and Social Services“ in der jeweils geltenden Fassung.<sup>2</sup> Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
 
 (2) Werden alle Module der **Anlage** im Umfang von 20 ECTS-Punkten erfolgreich abgeschlossen, wird zusätzlich ein „Zertifikat Zusatzstudien Geowissenschaften im Lehramt“ ausgestellt, das von der bzw. dem Verantwortlichen für die Zusatzstudien zu unterzeichnen ist. 
 
@@ -72,23 +85,22 @@ rinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissen
 
 (1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2018 in Kraft. 
 
-(2)[1] Diese Studien- und Prüfungsordnung tritt mit Ablauf des Wintersemesters 2021/2022 außer Kraft.[2] Diese Zusatzstudien sind rechtzeitig vor Außerkrafttreten dieser Prüfungsordnung im Hinblick auf deren Fortführung durch die Naturwissenschaftliche Fakultät zu evaluieren. 
+(2)<sup>1</sup> Diese Studien- und Prüfungsordnung tritt mit Ablauf des Wintersemesters 2021/2022 außer Kraft.<sup>2</sup> Diese Zusatzstudien sind rechtzeitig vor Außerkrafttreten dieser Prüfungsordnung im Hinblick auf deren Fortführung durch die Naturwissenschaftliche Fakultät zu evaluieren. 
 
 3 
 
 ## **Anlage** Studienverlaufsplan „Zusatzstudien Geowissenschaften im Lehramt“ 
 
-|||SWS|SWS|SWS|SWS|**Gesamt**|1. Sem|<br>2. Sem|Art und Umfang der||
-|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V|Ü|P|S|**ECTS**|ECTS|ECTS|<br>Prüfung/Studienleistung|Faktor - Note|
-|**Z-Edu-Geo 1**|Das System Erde||2||2|**5**|5||Gruppenpräsentation<br>(insgesamt 60 Minuten)|1|
-|**Z-Edu-Geo 2**|Der Mensch im geowissenschaftlichen Umfeld||1||2|**5**|5||Mündliche Prüfung (30 Minuten)|1|
-||Archäometrie||2||||||||
-|**Z-Edu-Geo 3**|Exkursion||||3|**5**||5|PL: Präsentation im Gelände (15 Minuten)<br>und<br>SL: Bericht max. 10 Seiten (unbenotet)|1|
-||Aus der Praxis in die Praxis||||2||||||
-|**Z-Edu-Geo 4**|Geologisch-didaktisches Seminar||||5|**5**||5|Projektpräsentation (25 Minuten)<br>und<br>Diskussionspapier (10 Seiten)|1|
-|**S SWS d ECTSPkt**||**0**|**5**|**0**|**14**||**10**|**10**|||
-|**umme  un -une**||**19**||||**20**|||||
+|Modulbezeichnun|Lehrveranstaltun|S<br>|WS||**Gesamt**<br>|1. Sem|2. Sem|Art und Umfang der|Faktor - Note|
+|---|---|---|---|---|---|---|---|---|---|
+|g|g|V<br>Ü|P|S|**ECTS**|ECTS|ECTS|Prüfung/Studienleistung||
+|**Z-Edu-Geo 1**|Das System Erde|2||2|**5**|5||Gruppenpräsentation<br>(insgesamt 60 Minuten)|1|
+|**Z-Edu-Geo 2**|Der Mensch im geowissenschaftlichen Umfeld|1||2|**5**|5||Mündliche Prüfung (30 Minuten)|1|
+||Archäometrie|2||||||||
+|**ZEdG 3**|Exkursion|||3|**5**||5|PL: Präsentation im Gelände (15 Minuten)<br>d|1|
+|**-u-eo**|Aus der Praxis in die Praxis|||2||||un<br>SL: Bericht max. 10 Seiten (unbenotet)||
+|**Z-Edu-Geo 4**|Geologisch-didaktisches Seminar|||5|**5**||5|Projektpräsentation (25 Minuten)<br>und<br>Diskussionspapier (10 Seiten)|1|
+|**Summe SWS und**|**ECTS-Punkte**|**0**<br>**5**<br>**1**|**0**<br>**9**|**14**|**20**|**10**|**10**|||
 
 4 
 

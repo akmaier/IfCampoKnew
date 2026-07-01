@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:47:36+00:00
+scraped_at: 2026-07-01T08:24:27+00:00
 ---
 
 # Latein (Lehramt)
@@ -27,7 +27,7 @@ scraped_at: 2026-05-01T06:47:36+00:00
 
 ## Worum geht es im Studiengang?
 
-Keine Frage: Unser kulturelles Erbe ist eng mit der lateinischen Sprache verbunden – der Weltsprache zur Zeit der römischen Antike, die bis heute in vielen Bereichen, nicht zuletzt in der Medizin, der Biologie, der Jurisprudenz und der Theologie eine wichtige Rolle spielt.
+Unser kulturelles Erbe ist eng mit der lateinischen Sprache verbunden – der Weltsprache zur Zeit der römischen Antike, die bis heute in vielen Bereichen, nicht zuletzt in der Medizin, der Biologie, der Jurisprudenz und der Theologie eine wichtige Rolle spielt.
 
 Wenn Sie sich intensiv mit dem lateinischsprachigen antiken Kulturraum beschäftigen möchten und in der Lage sein wollen, diese Epoche wissenschaftlich aufzuarbeiten, dann ist das Studium der Lateinischen Philologie an der FAU genau das Richtige für Sie. Im Lehramtsstudiengang für Gymnasien lernen Sie zudem, wie Sie Lateinkenntnisse im Schulunterricht vermitteln können.
 

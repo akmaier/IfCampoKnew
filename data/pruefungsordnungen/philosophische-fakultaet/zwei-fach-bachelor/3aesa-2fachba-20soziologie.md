@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA%20Soziologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:28+00:00
-page_count_chars: 2786
+scraped_at: 2026-07-01T10:30:57+00:00
+page_count_chars: 2775
 ---
 
 # 11. August 2010
@@ -12,7 +12,7 @@ page_count_chars: 2786
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA%20Soziologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 11. August 2010 
 
@@ -28,18 +28,17 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 
 
    - b) In Zeile 9 Spalte 4 (Modul Statistische Analyseverfahren) werden die beiden Zahlen „90“ jeweils durch die Zahlen „60“ ersetzt. 
 
-   - c) In Zeile 11 Spalte 3 (Modul Soziologisches Qualifikationsprofil BA-I) werden die beiden Zahlen „5“ durch die Zahl „10“ sowie der Fußnote „[xx] “ ersetzt. 
+   - c) In Zeile 11 Spalte 3 (Modul Soziologisches Qualifikationsprofil BA-I) werden die beiden Zahlen „5“ durch die Zahl „10“ sowie der Fußnote „<sup>xx</sup> “ ersetzt. 
 
    - d) Zeile 16 (Modul Vertiefung Qualifikationsprofil BA-V-II) erhält folgende Fassung: 
 
 - „ 
 
-|**SozMII**<br>**oder**<br>**SozV1**<br>**-**<br>**SozV4**|**Soziologische Methodenlehre BA-II**<br>oder<br>**Vertiefung Qualifikationsprofil BA-V-II**<br>(Auswahl eines zweiten Moduls aus den Modulen V1<br>bisV4)**|12,5||
-|---|---|---|---|
+**<mark>SozMII Soziologische Methodenlehre BA-II</mark> oder** oder **SozV1 Vertiefung Qualifikationsprofil BA-V-II** 12,5 **-** (Auswahl eines zweiten Moduls aus den Modulen V1 **SozV4** <u>bis V4)**</u> 
 
 „ 
 
-   - e) Die neue Fußnote „[xx] “ wird nach der Fußnote „[x] “ eingefügt und erhält folgende Fassung: 
+   - e) Die neue Fußnote „<sup>xx</sup> “ wird nach der Fußnote „<sup>x</sup> “ eingefügt und erhält folgende Fassung: 
 
       - „xx  Als Modulnote wird die bessere der beiden Noten der Teilprüfungen angerechnet.“ 
 

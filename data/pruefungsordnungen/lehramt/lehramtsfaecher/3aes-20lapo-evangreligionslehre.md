@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LAPO-EvangReligionslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:48+00:00
-page_count_chars: 1785
+scraped_at: 2026-07-01T08:37:47+00:00
+page_count_chars: 1802
 ---
 
 # 15. September 2011
@@ -14,11 +14,11 @@ page_count_chars: 1785
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 15. September 2011 
+# Vom 15. September 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzung vom 9. Juni 2011, wird wie folgt geändert: 
 
@@ -28,17 +28,15 @@ In § 7 Abs. 1 wird die Tabelle wie folgt geändert:
 
 „ 
 
-|„||||
+|Einführung in den Umgang mit dem AT<br>AT-Überblicksvorlesung<sup>7</sup>|2PS<br>2V/Ü|2<br>2|Semesterbegleitende<br>Leistungen in Form<br>eines Portfolios<br>Teilnahme|
 |---|---|---|---|
-|Einführung in den Umgang mit dem AT|2PS|2|Semesterbegleitende<br>Leistungen in Form<br>eines Portfolios<br>Teilnahme|
-|AT-Überblicksvorlesung7|2V/Ü|2||
-|||||
+||||„|
 
 2. Folgende neue Fußnote 7 wird angefügt: 
 
-- „[7] z. B. Geschichte Israels, Pentateuch“ 
+- „<sup>7</sup> z. B. Geschichte Israels, Pentateuch“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung. 
 

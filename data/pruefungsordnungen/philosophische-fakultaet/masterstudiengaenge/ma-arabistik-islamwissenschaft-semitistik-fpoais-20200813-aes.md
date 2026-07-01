@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Arabistik Islamwissenschaft Semitistik FPOAIS 20200813 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Arabistik,_Islamwissenschaft,_Semitistik/Aenderungssatzungen/MA_Arabistik_Islamwissenschaft_Semitistik_FPOAIS_20200813_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:24:15+00:00
-page_count_chars: 13148
+scraped_at: 2026-07-01T09:38:58+00:00
+page_count_chars: 12666
 ---
 
 # MA Arabistik Islamwissenschaft Semitistik FPOAIS 20200813 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 13148
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Arabistik,_Islamwissenschaft,_Semitistik/Aenderungssatzungen/MA_Arabistik_Islamwissenschaft_Semitistik_FPOAIS_20200813_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arabistik, Islamwissenschaft, Semitistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAIS –** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arabistik, Islamwissenschaft, Semitistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOAIS –** 
 
-## **Vom 13. August 2020** 
+# **Vom 13. August 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arabistik, Islamwissenschaft, Semitistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg (FAU) – FPOAIS – vom 15. Mai 2015 wird wie folgt geändert: 
 
@@ -38,7 +38,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 bb) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Bei Wahl des Schwerpunkts „Arabistik/Semitistik“ sind im Schwerpunktbereich mindestens folgende Module zu belegen: „Arabische Sprachwissenschaft“, „Jüdisch-Arabisch“ und „Semitische Sprachwissenschaft“.[3] Bei Wahl des Schwerpunkts „Islamwissenschaft“ sind im Schwerpunktbereich mindestens folgende Module zu belegen: „Koran und Kontext“, „Sozial- und Kulturgeschichte“ und „Koran und Moderne“.“ 
+„<sup>2</sup> Bei Wahl des Schwerpunkts „Arabistik/Semitistik“ sind im Schwerpunktbereich mindestens folgende Module zu belegen: „Arabische Sprachwissenschaft“, „Jüdisch-Arabisch“ und „Semitische Sprachwissenschaft“.<sup>3</sup> Bei Wahl des Schwerpunkts „Islamwissenschaft“ sind im Schwerpunktbereich mindestens folgende Module zu belegen: „Koran und Kontext“, „Sozial- und Kulturgeschichte“ und „Koran und Moderne“.“ 
 
 cc) Der bisherige Satz 2 wird zu Satz 4 und wie folgt geändert: 
 
@@ -66,9 +66,9 @@ dd) Der bisherige Satz 3 wir zu Satz 5.
 
 4. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a Kontextualisierungsmodule** 
+# „ **§ 3a Kontextualisierungsmodule** 
 
-(1)[1] Das Qualifikationsziel der Kontextualisierungsmodule liegt darin, es den Studierenden zu ermöglichen, thematische und methodische Erweiterungen durch den Import von Modulen anderer Studiengänge der FAU zu wählen, um im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[2] Darüber hinaus wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, die Perspektive auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interkulturellen Beobachtungshorizonten gesammelt werden. 
+(1)<sup>1</sup> Das Qualifikationsziel der Kontextualisierungsmodule liegt darin, es den Studierenden zu ermöglichen, thematische und methodische Erweiterungen durch den Import von Modulen anderer Studiengänge der FAU zu wählen, um im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>2</sup> Darüber hinaus wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, die Perspektive auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interkulturellen Beobachtungshorizonten gesammelt werden. 
 
 (2) Art und Umfang der Lehrveranstaltungen und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **Prüfungs-** bzw. **(Fach-)Prüfungsordnung** bzw. dem entsprechenden Modulhandbuch zu entnehmen.“ 
 
@@ -78,55 +78,53 @@ dd) Der bisherige Satz 3 wir zu Satz 5.
 
    - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2023/2024 ange- 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2023/2024 ange- 
 
 2 
 
-boten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.“ 
+boten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.“ 
 
 3 
 
-## 6. **Anlage 1** erhält folgende neue Fassung: 
+# 6. **Anlage 1** erhält folgende neue Fassung: 
 
-## „ **Anlage 1: Studienverlaufsplan M.A. Arabistik, Islamwissenschaft, Semitistik – Vollzeit** 
+# <u>„</u> **Anlage 1: Studienverlaufsplan M.A. Arabistik, Islamwissenschaft,** **<u>Semitistik – Vollzeit</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|Pflichtcurriculum|||||||||||||
-|**Forschungsmethoden**<br>**und Quellenanalyse**|Masterseminar||||2|10|5||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2||||5||||||
-|**Klassische Arabische**<br>**Literatur**|Vorlesung|2||||10||5|||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2|||||5|||||
-|**Moderne Arabische**<br>**Literatur**|Vorlesung|2||||10|||5||<br>Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2||||||5||||
-|**Projektmodul**||||4||10|||10||Projektbericht bzw. Exposé für die<br>Masterarbeit (ca. 15 S.)|1|
-|Schwerpunktbereich2 (Es sind Module im Umfang||von 50 ECTS-Punkten zu belegen.)|||||||||||
-|**Arabische**<br>**Sprachwissenschaft**|Masterseminar||||2|(10)|5||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Vorlesung oder<br>Übung|(2)|(2)||||5||||||
-|**Jüdisch-Arabisch**|Masterseminar||||2|(10)|5||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2||||5||||||
-|**Semitische**<br>**Sprachwissenschaft**|Vorlesung|2||||(10)||4|||<br>Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel)oder Klausur(90 Min.)3|1|
-||Lektürekurs||1|||||2|||||
-||Masterseminar||||2|||4|||||
-|**Koran und Kontext**|Vorlesung|2||||(10)|4||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel)oder Klausur(90 Min.)3|1|
-||Lektürekurs||1||||2||||||
-||Masterseminar||||2||4||||||
-|**Sozial- und**<br>**Kulturgeschichte**|Masterseminar||||2|(10)|5||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Vorlesung|2|||||5||||||
-|**Koran und Moderne**|Vorlesung|2||||(10)||5|||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Masterseminar||2|||||5|||||
-|**Kontextualisierung I**|vgl.§ 3aAbs. 2|||||(10)||10|||<br>vgl.§ 3aAbs. 2|1|
-|**Kontextualisierung II**|vgl. § 3a Abs. 2|||||(10)|||10||vgl. § 3a Abs. 2|1|
+|||S|S|Gt|Workload-V|erteilung pro||Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|<br>|<br>|esam<br>ECTS|Semester in E<br> <br>|CTS-Punkten<sup>1</sup><br>|Art und Umfang der Prüfung|Modul-<br>|
+|||V<br>Ü|P<br>S||1.<br>2.|3.<br>4.||note|
+|Pflichtcurriculum|||||||||
+|**Forschungsmethoden**<br>|Masterseminar||2|10|5||Referat (20 Min.) und<br>Hausarbeit (ca 20 S) (ein Drittel +|1|
+|**und Quellenanalyse**|Übung|2|||5||.  .<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Klassische Arabische**|Vorlesung|2|||5||Referat (20 Min.) und<br>||
+|**Literatur**|Übung|2||10|5||Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+|**Moderne Arabische**|Vorlesung|2||||5|Referat (20 Min.) und<br>||
+|**Literatur**|Übung|2||10||5|Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+|**Projektmodul**|||4|10||10|Projektbericht bzw. Exposé für die<br>Mtbit15S|1|
+|Schwerpunktbereich<sup>2</sup> (Es s|ind Module im Umfangv|on 50 ECTS-Pun|kten zu belegen.)||||aserare (ca. .)||
+|**Arabische**|Masterseminar||2||5||Referat (20 Min.) und<br>||
+|**Sprachwissenschaft**|Vorlesung oder<br>Übung|(2)<br>(2)||(10)|5||Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+||Masterseminar||2||5||Referat (20 Min.) und<br>||
+|**Jüdisch-Arabisch**|Übung|2||(10)|5||Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+|**Sitih**|Vorlesung|2|||4||Referat (20 Min.) und||
+|**emsce**<br>**Shihft**|Lektürekurs|1||(10)|2||Hausarbeit (ca. 20 S.) (ein Drittel +|1|
+|**pracwssensca**|Masterseminar||2||4||zwei Drittel)oder Klausur(90 Min.)<sup>3</sup>||
+||Vorlesung|2|||4||Referat (20 Min.) und||
+|**Koran und Kontext**|Lektürekurs|1||(10)|2||<br>Hausarbeit (ca. 20 S.) (ein Drittel +|1|
+||Masterseminar||2||4||zwei Drittel)oder Klausur(90 Min.)<sup>3</sup>||
+|**Sozial- und**|Masterseminar||2||5||Referat (20 Min.) und<br>||
+|**Kulturgeschichte**|Vorlesung|2||(10)|5||Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+|**Koran und Moderne**|Vorlesung|2||(10)|5||<br>Referat (20 Min.) und<br>Hausarbeit (ca 20 S) (ein Drittel +|1|
+||Masterseminar|2|||5||.  .<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Kontextualisierung I**|vg|l.§ 3aAbs. 2||(10)|10||<br>vgl.§ 3aAbs. 2|1|
+|**Kontextualisierung II**|vg|l. § 3a Abs. 2||(10)||10|vgl. § 3a Abs. 2|1|
 
 4 
 
-|Masterarbeit|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Masterarbeit**|Forschungs-<br>kolloquium||||2|30||||5|Masterarbeit (ca. 80 S.) und<br>Vorstellung der Masterarbeit<br>(ca. 15 Min.) (90 % + 10 %)|1|
-||Masterarbeit|||||||||25|||
-||Summe|6-144|9-144|4|8-144|12|30|30|30|30|||
-|||27-464||||0|||||||
+|Masterarbeit<br>**Masterarbeit**|Forschungs-<br>kolloquium<br>Masterarbeit||2|30|||5<br>25|Masterarbeit (ca. 80 S.) und<br>Vorstellung der Masterarbeit<br>(ca. 15 Min.) (90 % + 10 %)|1|
+|---|---|---|---|---|---|---|---|---|---|
+||Summe|6-14<sup>4</sup><br>9-14<sup>4</sup><br>4<br>27-46<sup>4</sup>|8-14<sup>4</sup>|120<br>30|30|30|30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -134,65 +132,63 @@ boten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Fachs
 
 - 3 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 4 Abhängig von der Wahl der konkreten Module im Schwerpunktbereich.“ 
 
-## 7. **Anlage 2** erhält folgende neue Fassung: 
+# 7. **Anlage 2** erhält folgende neue Fassung: 
 
-„ **Anlage 2: Studienverlaufsplan M.A. Arabistik, Islamwissenschaft, Semitistik – Teilzeit** 
+<u>„</u> **<u>Anlage 2: Studienverlaufsplan M.A. Arabistik, Islamwissenschaft, Semitistik – Teilzeit</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||<br>in ECTS-Punkten1||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|||
-|Pflichtcurriculum|||||||||||||||||
-||||||||||||||||||
-|**Forschungsmethoden**<br>**und Quellenanalyse**|Masterseminar||||2|10|5||||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2||||5||||||||||
-|**Klassische Arabische**<br>**Literatur**|Vorlesung|2||||10||5|||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2|||||5|||||||||
-|**Moderne Arabische**<br>**Literatur**|Vorlesung|2||||10|||||5||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Übung||2||||||||5||||||
-|**Projektmodul**||||4||10|||||10||||Projektbericht bzw. Exposé für die<br>Masterarbeit (ca. 15 S.)|1|
-|Schwerpunktbereich2(Es sind Module im Umfang||von 50 ECTS-Punkten zu||||belegen.)|||||||||||
-||||||||||||||||||
-|**Arabische**<br>**Sprachwissenschaft**|Masterseminar||||2|(10)|5||||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Vorlesung oder<br>Übung|(2)|(2)||||5||||||||||
-|**Jüdisch-Arabisch**|Masterseminar||||2|(10)|||5||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur(90Min.)3|1|
-||Übung||2||||||5||||||||
+|Modulbezeichnung|Lehrveranstaltung||S<br>|WS||Gesamt<br>ECTS|Worklo|ad-Verteil<br>in ECTS|ung pro Semester<br>-Punkten<sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Pflichtcurriculum||V|Ü|P|S||1.<br>2.|3.<br>4.|5.<br>6.<br>7.<br>8.||note|
+|**Forschungsmethoden**|Masterseminar||||2|10|5|||Referat (20 Min.) und<br>Hbit  20 S i Dittl +|1|
+|**und Quellenanalyse**|Übung||2||||5|||ausare (ca.  .) (en re<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Klassische Arabische**|Vorlesung|2||||10|5|||Referat (20 Min.) und<br>Hbit  20 S i Dittl +|1|
+|**Literatur**|Übung||2||||5|||ausare (ca.  .) (en re<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Moderne Arabische**|Vorlesung|2||||10|||5|Referat (20 Min.) und<br>Hbit  20 S i Dittl +|1|
+|**Literatur**|Übung||2||||||5|ausare (ca.  .) (en re<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Projektmodul**||||4||10|||10|Projektbericht bzw. Exposé für die<br>|1|
+|||||||||||Masterarbeit(ca15S)||
+|Schwerpunktbereich<sup>2</sup>(Es s|ind Module im Umfang<br>|von 50|ECTS|-Punkt|en zu<br>|belegen.)||||. .<br>||
+|**Arabische**|Masterseminar||||2||5|||Referat (20 Min.) und<br>||
+|**Sprachwissenschaft**|Vorlesung oder<br>Übung|(2)|(2)|||(10)|5|||Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>|1|
+|**JüdihAbih**|Masterseminar||||2|10||5||Referat (20 Min.) und<br>Hbit  20 S i Dittl +|1|
+|**sc-rasc**|Übung||2|||()||5||ausare (ca.  .) (en re<br>zwei Drittel) oder Klausur(90Min.)<sup>3</sup>||
 
 5 
 
-|**Semitische**<br>**Sprachwissenschaft**|Vorlesung|2||||(10)||||4|||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel)oder Klausur(90 Min.)3|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lektürekurs||1|||||||2|||||||
-||Masterseminar||||2|||||4|||||||
-||Vorlesung|2|||||4||||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel)oder Klausur(90 Min.)3|1|
-|**Koran und Kontext**|Lektürekurs||1|||(10)|2||||||||||
-||Masterseminar||||2||4||||||||||
-|**Sozial- und**<br>**Kulturgeschichte**|Masterseminar||||2|(10)|||5||||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Vorlesung|2|||||||5||||||||
-|**Koran und Moderne**|Vorlesung|2||||(10)||||5|||||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) (ein Drittel +<br>zwei Drittel) oder Klausur (90 Min.)3|1|
-||Masterseminar||2|||||||5|||||||
-|**Kontextualisierung I**|vgl.§|3aAbs. 2||||(10)|||10||||||vgl.§ 3aAbs. 2|1|
-|**Kontextualisierung II**|vgl. §|3a Abs. 2||||(10)||||||10|||vgl. § 3a Abs. 2|1|
-|Masterarbeit|||||||||||||||||
-||||||||||||||||||
-|**Masterarbeit**|Forschungs-<br>kolloquium||||2|30||||||||5|Masterarbeit (ca. 80 S.) und<br>Vorstellung der Masterarbeit<br>(ca. 15 Min.) (90 % + 10 %)|1|
-||Masterarbeit||||||||||||15|10|||
-||Summe|6-<br>144|9-<br>144|4|8-<br>144|120|20|10|20|10|20|10|15|15|||
-|||27-464|||||||||||||||
+|**Semitische**|Vorlesung<br>2||||4|||Referat (20 Min.) und||
+|---|---|---|---|---|---|---|---|---|---|
+|<br>**Sprachwissenschaft**|Lektürekurs|1||(10)|2|||Hausarbeit (ca. 20 S.) (ein Drittel +<br>|1|
+||Masterseminar||2||4|||zwei Drittel)oder Klausur(90 Min.)<sup>3</sup>||
+||Vorlesung<br>2||||4|||Referat (20 Min.) und||
+|**Koran und Kontext**|Lektürekurs|1||(10)|2|||Hausarbeit (ca. 20 S.) (ein Drittel +<br>|1|
+||Masterseminar||2||4|||zwei Drittel)oder Klausur(90 Min.)<sup>3</sup>||
+|**Sozial- und**|Masterseminar||2|(10)|5|||Referat (20 Min.) und<br>Hausarbeit (ca 20 S) (ein Drittel +|1|
+|**Kultureschichte**|<br>|||||||.  .||
+|**g**|Vorlesung<br>2||||5|||zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Koran und Moderne**|Vorlesung<br>2|||(10)|5|||Referat (20 Min.) und<br>Hausarbeit (ca 20 S) (ein Drittel +|1|
+||Masterseminar|2|||5|||.  .<br>zwei Drittel) oder Klausur (90 Min.)<sup>3</sup>||
+|**Kontextualisierung I**|vgl.§ 3aAbs.|2||(10)|10|||vgl.§ 3aAbs. 2|1|
+|**Kontextualisierung II**|vgl. § 3a Abs.|2||(10)||10||vgl. § 3a Abs. 2|1|
+|Masterarbeit||||||||||
+|**Masterarbeit**|Forschungs-<br>kolloquium||2|30|||5|Masterarbeit (ca. 80 S.) und<br>Vorstellun der Masterarbeit|1|
+||Masterarbeit||||||15<br>10|g<br>(ca. 15 Min.) (90 % + 10 %)||
+||Summe<br>6-<br>14<sup>4</sup>|9-<br>14<sup>4</sup><br>4<br>27-46<sup>4</sup>|8-<br>14<sup>4</sup>|120|20<br>10<br>20<br>10|<br>20<br>10|15<br>15|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - 2 Bei der Wahl des Schwerpunkts ist § 3 Abs. 1 zu beachten. 
 
-- 3 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 4 Abhängig von der Wahl der konkreten Module im Schwerpunktbereich.“ 
+- 3 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
+
+- 4 Abhängig von der Wahl der konkreten Module im Schwerpunktbereich.“ 
 
 6 
 
-## 8. Das Inhaltsverzeichnis wird angepasst. 
+# 8. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2023/2024 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab. 
+1Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2023/2024 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 22. Juli 2020 und der Genehmigungsfeststellung der Vizepräsidentin Prof. Dr. Bärbel Kopp vom 13. August 2020. 
 

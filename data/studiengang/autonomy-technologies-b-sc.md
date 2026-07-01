@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
-scraped_at: 2026-05-01T06:42:42+00:00
+scraped_at: 2026-07-01T08:18:51+00:00
 ---
 
 # Autonomy Technologies (B.Sc.)
@@ -35,7 +35,7 @@ Autonomy Technologies bietet eine einzigartige Kombination aus Ingenieurwesen, I
 
 Der Bachelorstudiengang vermittelt die Grundlagen, um autonome Technologien zu durchdringen und autonome Systeme zu entwickeln.
 
-### Bachelor of Science Autonomy Technologies
+### Fachanteile des Studiengangs Autonomy Technologies (B.Sc.)
 
 * Elektrotechnik, Elektronik, Informationstechnik (56%)
 * Mathematik (18%)

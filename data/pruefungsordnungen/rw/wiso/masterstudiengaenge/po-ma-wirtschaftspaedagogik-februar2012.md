@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 01.12.2009 i.d.F. 24.02.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Wirtschaftspaedagogik.FEBRUAR2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:43:45+00:00
-page_count_chars: 18399
+scraped_at: 2026-07-01T11:07:37+00:00
+page_count_chars: 17150
 ---
 
 # PDF vom 01.12.2009 i.d.F. 24.02.2012
@@ -16,19 +16,15 @@ page_count_chars: 18399
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOWiPäd - Vom 1. Dezember 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOWiPäd - Vom 1. Dezember 2009** 
 
-geändert durch Satzungen vom 24. Februar 2010 5. August 2011 
-
-24. Februar 2012 
+geändert durch Satzungen vom 24. Februar 2010 5. August 2011 24. Februar 2012 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
 § 1 Geltungsbereich ........................................................................................................... 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen ......... 1 
 
-§ 3 Teilzeitstudium, Regelstudienzeit ................................................................................. 2 
-
-- § 4 Umfang und Gliederung des Masterstudiums, Prüfungen ............................................ 2 § 5 Wechsel der Studienrichtung ........................................................................................ 3 § 6 In-Kraft Treten, Übergangsvorschriften ........................................................................ 3 
+§ 3 Teilzeitstudium, Regelstudienzeit ................................................................................. 2 § 4 Umfang und Gliederung des Masterstudiums, Prüfungen ............................................ 2 § 5 Wechsel der Studienrichtung ........................................................................................ 3 § 6 In-Kraft Treten, Übergangsvorschriften ........................................................................ 3 
 
 ## **§ 1 Geltungsbereich** 
 
@@ -36,7 +32,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Die Zulassung zum Masterstudiengang der Wirtschaftspädagogik erfolgt wahlweise zur Studienrichtung I oder zur Studienrichtung II.[2] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI für Studienrichtung I ist insbesondere der Bachelorabschluss in Wirtschaftswissenschaften mit dem Schwerpunkt Wirtschafts- und Betriebspädagogik und dem Modul „Schulpraktische Studien“ und für Studienrichtung II insbesondere der Bachelorabschluss in Wirtschaftswissenschaften mit dem Schwerpunkt Wirtschafts- und Betriebspädagogik Studienrichtung II mit entsprechendem Zweitfach und dem Modul „Schulpraktische Studien“.[3] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
+(1)<sup>1</sup> Die Zulassung zum Masterstudiengang der Wirtschaftspädagogik erfolgt wahlweise zur Studienrichtung I oder zur Studienrichtung II.<sup>2</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI für Studienrichtung I ist insbesondere der Bachelorabschluss in Wirtschaftswissenschaften mit dem Schwerpunkt Wirtschafts- und Betriebspädagogik und dem Modul „Schulpraktische Studien“ und für Studienrichtung II insbesondere der Bachelorabschluss in Wirtschaftswissenschaften mit dem Schwerpunkt Wirtschafts- und Betriebspädagogik Studienrichtung II mit entsprechendem Zweitfach und dem Modul „Schulpraktische Studien“.<sup>3</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
 
 1. insbesondere ein Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang mit einem sonstigen Schwerpunkt, 
 
@@ -72,11 +68,11 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 2. Besondere fachliche Qualifikationen, Kenntnisse, Fähigkeiten und Motivation sowie einschlägige Berufserfahrung (max. 45 Punkte) 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber zu einem Qualifikationsfeststellungsgespräch mit integrierter Kurzpräsentation eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Das Qualifikationsfeststellungsgespräch erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers und die in Abs. 3 aufgeführten Qualifikationskriterien. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber zu einem Qualifikationsfeststellungsgespräch mit integrierter Kurzpräsentation eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Qualifikationsfeststellungsgespräch erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers und die in Abs. 3 aufgeführten Qualifikationskriterien. 
 
 ## **§ 3 Teilzeitstudium; Regelstudienzeit** 
 
-(1)[1] Das Masterstudium kann in der Form des Teilzeitstudiums absolviert werden.[2] Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären.[3] Im Teilzeitstudium können pro Semester maximal 15 ECTSPunkte erworben werden.[4] Eine Überschreitung dieser ECTS-Punktezahl um 5 ECTSPunkte pro Semester und insgesamt 20 ECTS-Punkte während des gesamten Studiums ist zulässig.[5] Das Semester, in dem die Masterarbeit abgegeben wird, ist von der Regelung des Satzes 4 ausgenommen.[6] Die Fristen des § 29 Abs. 4 Satz 1 und 2 MPOWIWI können um das Zweifache verlängert werden. 
+(1)<sup>1</sup> Das Masterstudium kann in der Form des Teilzeitstudiums absolviert werden.<sup>2</sup> Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären.<sup>3</sup> Im Teilzeitstudium können pro Semester maximal 15 ECTSPunkte erworben werden.<sup>4</sup> Eine Überschreitung dieser ECTS-Punktezahl um 5 ECTSPunkte pro Semester und insgesamt 20 ECTS-Punkte während des gesamten Studiums ist zulässig.<sup>5</sup> Das Semester, in dem die Masterarbeit abgegeben wird, ist von der Regelung des Satzes 4 ausgenommen.<sup>6</sup> Die Fristen des § 29 Abs. 4 Satz 1 und 2 MPOWIWI können um das Zweifache verlängert werden. 
 
 2 
 
@@ -86,17 +82,17 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 4 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[ 1] Im Masterstudium Wirtschaftspädagogik können die Studierenden aus zwei Studienrichtungen wählen.[2] Im ersten bis dritten Semester des Masterstudiengangs werden theoretische und methodische Kenntnisse (Berufs- und wirtschaftspädagogischer Pflichtbereich = 40 ECTS-Punkte) vertiefend vermittelt.[ 3] Im vierten Semester ist im Modul Masterarbeit (20 ECTS-Punkte) die Masterthesis zu erstellen. 
+(1)<sup>1</sup> Im Masterstudium Wirtschaftspädagogik können die Studierenden aus zwei Studienrichtungen wählen.<sup>2</sup> Im ersten bis dritten Semester des Masterstudiengangs werden theoretische und methodische Kenntnisse (Berufs- und wirtschaftspädagogischer Pflichtbereich = 40 ECTS-Punkte) vertiefend vermittelt.<sup>3</sup> Im vierten Semester ist im Modul Masterarbeit (20 ECTS-Punkte) die Masterthesis zu erstellen. 
 
-(2)[1] Das Studium in der Studienrichtung I des Masterstudiengangs Wirtschaftspädagogik fokussiert auf wirtschaftspädagogische und wirtschaftswissenschaftliche Inhalte und beinhaltet ein Studium vor allem im Bereich Wirtschaftswissenschaften.[2] Es sind zusätzlich zu den in Abs. 1 genannten Modulen Module im Umfang von 30 ECTS-Punkten aus dem fachwissenschaftlichen Pflichtbereich und aus dem fachwissenschaftlichen Wahlbereich (Anlage 2) ein Modulblock im Umfang von 30 ECTS-Punkten zu absolvieren. 
+(2)<sup>1</sup> Das Studium in der Studienrichtung I des Masterstudiengangs Wirtschaftspädagogik fokussiert auf wirtschaftspädagogische und wirtschaftswissenschaftliche Inhalte und beinhaltet ein Studium vor allem im Bereich Wirtschaftswissenschaften.<sup>2</sup> Es sind zusätzlich zu den in Abs. 1 genannten Modulen Module im Umfang von 30 ECTS-Punkten aus dem fachwissenschaftlichen Pflichtbereich und aus dem fachwissenschaftlichen Wahlbereich (Anlage 2) ein Modulblock im Umfang von 30 ECTS-Punkten zu absolvieren. 
 
-(3)[1] Im Studium der Studienrichtung II des Masterstudiengangs Wirtschaftspädagogik wählen die Studierenden zusätzlich zu den in Abs. 1 genannten Modulen ein Zweitfach nach Anlage 3 im Umfang von 45 ECTS-Punkten, dessen Studium im Rahmen des Bachelor- und Masterstudiums im Umfang von 70 ECTS-Punkten zu einer Lehrbefähigung in einem zweiten Unterrichtsfach neben dem Fach Wirtschaftswissenschaften führt. 2Darüber hinaus wählen die Studierenden im fachwissenschaftlichen Wahlbereich (Anlage 2) drei Module aus dem fachwissenschaftlichen Pflichtbereich der Studienrichtung I im Umfang von 15 ECTS-Punkten. 
+(3)<sup>1</sup> Im Studium der Studienrichtung II des Masterstudiengangs Wirtschaftspädagogik wählen die Studierenden zusätzlich zu den in Abs. 1 genannten Modulen ein Zweitfach nach Anlage 3 im Umfang von 45 ECTS-Punkten, dessen Studium im Rahmen des Bachelor- und Masterstudiums im Umfang von 70 ECTS-Punkten zu einer Lehrbefähigung in einem zweiten Unterrichtsfach neben dem Fach Wirtschaftswissenschaften führt. 2Darüber hinaus wählen die Studierenden im fachwissenschaftlichen Wahlbereich (Anlage 2) drei Module aus dem fachwissenschaftlichen Pflichtbereich der Studienrichtung I im Umfang von 15 ECTS-Punkten. 
 
-(4)[1] Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI** .[ 2] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[3] Näheres wird im Modulhandbuch geregelt. 
+(4)<sup>1</sup> Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI** .<sup>2</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>3</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 5 Wechsel der Studienrichtung** 
 
-1Der Wechsel von Studienrichtung I in die Studienrichtung II ist jederzeit auf schriftlichen Antrag beim Prüfungsamt möglich, soweit die erforderlichen Module für das Zweitfach aus dem Bachelorstudiengang oder dem Zertifikatsprogramm im Umfang von 25 ECTSPunkten nachgewiesen werden.[2] Der Wechsel von Studienrichtung II in Studienrichtung I ist auf Antrag beim Prüfungsamt ohne Einschränkung möglich.[3] Im Übrigen gilt § 12 MPOWIWI. 
+1Der Wechsel von Studienrichtung I in die Studienrichtung II ist jederzeit auf schriftlichen Antrag beim Prüfungsamt möglich, soweit die erforderlichen Module für das Zweitfach aus dem Bachelorstudiengang oder dem Zertifikatsprogramm im Umfang von 25 ECTSPunkten nachgewiesen werden.<sup>2</sup> Der Wechsel von Studienrichtung II in Studienrichtung I ist auf Antrag beim Prüfungsamt ohne Einschränkung möglich.<sup>3</sup> Im Übrigen gilt § 12 MPOWIWI. 
 
 ## **§ 6 Inkrafttreten und Übergangsvorschriften** 
 
@@ -104,175 +100,158 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3 
 
-## **Anlage 1: Überblickstabelle Studienverlauf Vollzeit** 
+### **Anlage 1: Überblickstabelle Studienverlauf Vollzeit** 
 
-## Überblickstabelle Studienverlauf Vollzeit 
+|Überblickstabelle Studienverlauf Vollzeit||||||
+|---|---|---|---|---|---|
+|**Studienplan Master Wirtschaftspädagogik**<br>||||||
+|**Studienrichtung I**||**1**|**2**|**3**|**4**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Berufs- und wirtschaftspädagogischer Pflichtbereich**|**40**|||||
+|Modul Berufs-und wirtschaftspädagogische Didaktik|10|5|5|||
+|Modul Grund-und Erstausbildung|5|5||||
+|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik|10||10|||
+|Modul Berufs-und wirtschaftspädagogischer Wahlbereich|5|||5||
+|Modul Schulpraktische Studien II|10|||2,5|7,5|
+|**Fachwissenschaftlicher Pflichtbereich, es sind 6 Module zu wählen***|**30**|||||
+|Prozess-und Wertschöpfungsmanagement|5|5||||
+|Business Strategy|5|5||||
+|Konzernrechnungslegung|5|5||||
+|Controlling of Business Systems|5|5||||
+|Change Management|5||5|||
+|Arbeitsmarktökonomie|5|5||||
+|Organisationspsychologie|5|||5||
+|Technology and Innovation Management|5||5|||
+|**Fachwissenschaftlicher Wahlbereich: Vertiefung aus 6 Wahlbereichen**|**30**||10|20||
+|1 Block wählbar aus den fachwissenschaftlichen Blöcken der Wirtschaftspädagogik||||||
+|Block 1: Management im Gesundheitssektor||||||
+|Block 2: Management industrieller Unternehmen||||||
+|Block 3: Dienstleistungsmanagement||||||
+|Block 4: Marketingmanagement||||||
+|Block 5: Finance, Auditing, Controlling, Taxation||||||
+|Block 6: Arbeitsmarkt und Personal||||||
+|**Masterarbeit**|**20**|||||
+|Masterarbeit|20||||20|
+|ECTS|120|30|30|32,5|27,5|
 
-|**Studienplan Master Wirtschaftspädagogik**|**Studienplan Master Wirtschaftspädagogik**||||||
-|---|---|---|---|---|---|---|
-|**Studienrichtung I**|||**1**|**2**|**3**|**4**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Berufs- und wirtschaftspädagogischer Pflichtbereich**||**40**|||||
-|Modul Berufs-und wirtschaftspädagogische Didaktik||10|5|5|||
-|Modul Grund-und Erstausbildung||5|5||||
-|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik||10||10|||
-|Modul Berufs-und wirtschaftspädagogischer Wahlbereich||5|||5||
-|Modul Schulpraktische Studien II||10|||2,5|7,5|
-|**Fachwissenschaftlicher Pflichtbereich, es sind 6 Module zu wählen***||**30**|||||
-|Prozess-und Wertschöpfungsmanagement||5|5||||
-|Business Strategy||5|5||||
-|Konzernrechnungslegung||5|5||||
-|Controlling of Business Systems||5|5||||
-|Change Management||5||5|||
-|Arbeitsmarktökonomie||5|5||||
-|Organisationspsychologie||5|||5||
-|Technology and Innovation Management||5||5|||
-|**Fachwissenschaftlicher Wahlbereich: Vertiefung aus 6 Wahlbereichen**||**30**||10|20||
-|1 Block wählbar aus den fachwissenschaftlichen Blöcken der Wirtschaftspädagogik|||||||
-|Block 1: Management im Gesundheitssektor|||||||
-|Block 2: Management industrieller Unternehmen|||||||
-|Block 3: Dienstleistungsmanagement|||||||
-|Block 4: Marketingmanagement|||||||
-|Block 5: Finance, Auditing, Controlling, Taxation|||||||
-|Block 6: Arbeitsmarkt und Personal|||||||
-|**Masterarbeit**||**20**|||||
-|Masterarbeit||20||||20|
-||ECTS|120|30|30|32,5|27,5|
-
-* der Prüfungsausschuss kann weitere Pflichtwahlmodule genehmigen, die im Modulhandbuch veröffentlicht werden 
+- der Prüfungsausschuss kann weitere Pflichtwahlmodule genehmigen, die im Modulhandbuch veröffentlicht werden 
 
 4 
 
-|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|Überblickstabelle Studienverlauf Vollzeit|
-|---|---|---|---|---|---|---|
-|**Studienplan Master Wirtschaftspädagogik**|||||||
-|**Studienrichtung II**|||**1**|**2**|**3**|**4**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Berufs- und wirtschaftspädagogischer Pflichtbereich**||**40**|||||
-|Modul Berufs-und wirtschaftspädagogische Didaktik||10|5|5|||
-|Modul Grund-und Erstausbildung||5|5||||
-|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik||10||10|||
-|Modul Berufs-und wirtschaftspädagogischer Wahlbereich||5|||5||
-|Modul Schulpraktische Studien II||10|||2,5|7,5|
-|**Fachwissenschaftlicher Wahlbereich***||**15**|||||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5|5||||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5||5|||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5|||5||
-|**Zweitfach***||**45**|||||
-|Wird vom jeweiligen Fachvertreter festgelegt ggf. Zulassungsvoraussetzungen siehe Anlage 3||45|15|10|20||
-|**Masterarbeit**||**20**|||||
-|Masterarbeit||20||||20|
-||ECTS|120|30|30|32,5|27,5|
+|Überblickstabelle Studienverlauf Vollzeit||||||
+|---|---|---|---|---|---|
+|**Studienplan Master Wirtschaftspädagogik**||||||
+|**Studienrichtung II**||**1**|**2**|**3**|**4**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Berufs- und wirtschaftspädagogischer Pflichtbereich**|**40**|||||
+|Modul Berufs-und wirtschaftspädagogische Didaktik|10|5|5|||
+|Modul Grund-und Erstausbildung|5|5||||
+|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik|10||10|||
+|Modul Berufs-und wirtschaftspädagogischer Wahlbereich|5|||5||
+|Modul Schulpraktische Studien II|10|||2,5|7,5|
+|**Fachwissenschaftlicher Wahlbereich***|**15**|||||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5|5||||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5||5|||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5|||5||
+|**Zweitfach***|**45**|||||
+|Wird vom jeweiligen Fachvertreter festgelegt ggf. Zulassungsvoraussetzungen siehe Anlage 3|45|15|10|20||
+|**Masterarbeit**|**20**|||||
+|Masterarbeit|20||||20|
+|ECTS|120|30|30|32,5|27,5|
 
-- Je nach dem individuellen Profil des Studiums kann die ECTS-Kombination variiert werden. 
+* Je nach dem individuellen Profil des Studiums kann die ECTS-Kombination variiert werden. 
 
 5 
 
-|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Studienplan Master Wirtschaftspädagogik**|||||||||||
-|**Studienrichtung I**|||**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Berufs- und wirtschaftspädagogischer Pflichtbereich**||**40**|||||||||
-|Modul Berufs-und wirtschaftspädagogische Didaktik||10|5|5|||||||
-|Modul Grund-und Erstausbildung||5|||5||||||
-|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik||10||||||10|||
-|Modul Berufs-und wirtschaftspädagogischer Wahlbereich||5|||||||5||
-|Modul Schulpraktische Studien II||10|||||5|5|||
-|**Fachwissenschaftlicher Pflichtbereich, es sind 6 Module zu wählen***||**30**|||||||||
-|Prozess-und Wertschöpfungsmanagement||5|5||||||||
-|Business Strategy||5|||5||||||
-|Konzernrechnungslegung||5|5||||||||
-|Controlling of Business Systems||5|||||5||||
-|Change Management||5||5|||||||
-|Arbeitsmarktökonomie||5|||5||||||
-|Organisationspsychologie||5|||||5||||
-|Technology and Innovation Management||5||5|||||||
-|**Fachwissenschaftlicher Wahlbereich: Vertiefung aus 6 Wahlbereichen**||**30**||5||15|5||5||
-|1 Block wählbar aus den fachwissenschaftlichen Blöcken der Wirtschaftspädagogik|||||||||||
-|Block 1: Management im Gesundheitssektor|||||||||||
-|Block 2: Management industrieller Unternehmen|||||||||||
-|Block 3: Dienstleistungsmanagement|||||||||||
-|Block 4: Marketingmanagement|||||||||||
-|Block 5: Finance, Auditing, Controlling, Taxation|||||||||||
-|Block 6: Arbeitsmarkt und Personal|||||||||||
-|**Masterarbeit**||**20**|||||||||
-|Masterarbeit||20|||||||5|15|
-||ECTS|120|15|15|15|15|15|15|15|15|
+|Überblickstabelle Studienverlauf Teilzeit||||||||
+|---|---|---|---|---|---|---|---|
+|**Studienplan Master Wirtschaftspädagogik**||||||||
+|**Studienrichtung I**||**1**|**2**|**3**|**4**<br>**1**|**2**<br>**3**|**4**|
+||ECTS|ECTS|ECTS|ECTS|ECTS<br>ECTS|ECTS<br>ECTS|ECTS|
+|**Berufs- und wirtschaftspädagogischer Pflichtbereich**|**40**|||||||
+|Modul Berufs-und wirtschaftspädagogische Didaktik|10|5|5|||||
+|Modul Grund-und Erstausbildung|5|||5||||
+|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik|10|||||10||
+|Modul Berufs-und wirtschaftspädagogischer Wahlbereich|5|||||5||
+|Modul Schulpraktische Studien II|10||||5|5||
+|**Fachwissenschaftlicher Pflichtbereich, es sind 6 Module zu wählen***|**30**|||||||
+|Prozess-und Wertschöpfungsmanagement|5|5||||||
+|Business Strategy|5|||5||||
+|Konzernrechnungslegung|5|5||||||
+|Controlling of Business Systems|5||||5|||
+|Change Management|5||5|||||
+|Arbeitsmarktökonomie|5|||5||||
+|Organisationspsychologie|5||||5|||
+|Technology and Innovation Management|5||5|||||
+|**Fachwissenschaftlicher Wahlbereich: Vertiefung aus 6 Wahlbereichen**|**30**||5||15<br>5|5||
+|1 Block wählbar aus den fachwissenschaftlichen Blöcken der Wirtschaftspädagogik||||||||
+|Block 1: Management im Gesundheitssektor||||||||
+|Block 2: Management industrieller Unternehmen||||||||
+|Block 3: Dienstleistungsmanagement||||||||
+|Block 4: Marketingmanagement||||||||
+|Block 5: Finance, Auditing, Controlling, Taxation||||||||
+|Block 6: Arbeitsmarkt und Personal||||||||
+|**Masterarbeit**|**20**|||||||
+|Masterarbeit|20|||||5|15|
+|ECTS|120|15|15|15|15<br>15|15<br>15|15|
 
 * der Prüfungsausschuss kann weitere Pflichtwahlmodule genehmigen, die im Modulhandbuch veröffentlicht werden 
 
 6 
 
-|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|Überblickstabelle Studienverlauf Teilzeit|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Studienplan Master Wirtschaftspädagogik**|||||||||||
-|**Studienrichtung II**|||**1**|**2**|**3**|**4**|**1**|**2**|**3**|**4**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Berufs- und wirtschaftspädagogischer Pflichtbereich**||**40**|||||||||
-|Modul Berufs-und wirtschaftspädagogische Didaktik||10|5|5|||||||
-|Modul Grund-und Erstausbildung||5|||5||||||
-|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik||10||||||10|||
-|Modul Berufs-und wirtschaftspädagogischer Wahlbereich||5|||||||5||
-|Modul Schulpraktische Studien II||10|||||5|5|||
-|**Fachwissenschaftlicher Wahlbereich***||**15**|||||||||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5|5||||||||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5||5|||||||
-|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I||5|||5||||||
-|**Zweitfach***||**45**|||||||||
-|Wird vom jeweiligen Fachvertreter festgelegt ggf. Zulassungsvoraussetzungen<br>siehe Anlage 3||45|5|5|5|15|10||5||
-|**Masterarbeit**||**20**|||||||||
-|Masterarbeit||20|||||||5|15|
-||ECTS|120|15|15|15|15|15|15|15|15|
+|Überblickstabelle Studienverlauf Teilzeit|||||||||
+|---|---|---|---|---|---|---|---|---|
+|**Studienplan Master Wirtschaftspädagogik**|||||||||
+|**Studienrichtung II**||**1**|**2**|**3**<br>**4**|**1**|**2**|**3**|**4**|
+||ECTS|ECTS|ECTS|ECTS<br>ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Berufs- und wirtschaftspädagogischer Pflichtbereich**|**40**||||||||
+|Modul Berufs-und wirtschaftspädagogische Didaktik|10|5|5||||||
+|Modul Grund-und Erstausbildung|5|||5|||||
+|Modul Empirische Forschung in der Berufs-und Wirtschaftspädagogik|10|||||10|||
+|Modul Berufs-und wirtschaftspädagogischer Wahlbereich|5||||||5||
+|Modul Schulpraktische Studien II|10||||5|5|||
+|**Fachwissenschaftlicher Wahlbereich***|**15**||||||||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5|5|||||||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5||5||||||
+|wählbar aus fachwissenschaftlichem Pflichtbereich der Studienrichtung I|5|||5|||||
+|**Zweitfach***|**45**||||||||
+|Wird vom jeweiligen Fachvertreter festgelegt ggf. Zulassungsvoraussetzungen<br>siehe Anlage 3|45|5|5|5<br>15|10||5||
+|**Masterarbeit**|**20**||||||||
+|Masterarbeit|20||||||5|15|
+|ECTS|120|15|15|15<br>15|15|15|15|15|
 
 - Je nach dem individuellen Profil des Studiums kann die ECTS-Kombination variiert werden. 
 
 7 
 
-## **Anlage 2: Übersicht Fachwissenschaftlicher Wahlbereich** 
+### **Anlage 2: Übersicht Fachwissenschaftlicher Wahlbereich** 
 
-|**Anlage 2: Übersicht Fachwissenschaftlicher Wahlbereich**|**Anlage 2: Übersicht Fachwissenschaftlicher Wahlbereich**||
+|1 Blo|ck wählbar||
 |---|---|---|
-|1 Block wählbar|||
 |1|**Block 1: Management im Gesundheitssektor***|**30 ECTS**|
-||||
 |1|**Block 2: Management industrieller Unternehmen***|**30 ECTS**|
-||||
 |1|**Block 3: Dienstleistungsmanagement***|**30 ECTS**|
-||||
 |1|**Block 4: Marketingmanagement***|**30 ECTS**|
-||||
 |1|**Block 5: Finance, Auditing, Controlling, Taxation***|**30 ECTS**|
-||||
 |1|**Block 6: Arbeitsmarkt und Personal***|**30 ECTS**|
 
 *je 6 Module mit 5 ECTS-Punkten, die dem Modulhandbuch zu entnehmen sind. 
 
 8 
 
-**Anlage 3: Übersicht Zweitfächer** 
+**<u>Anlage 3: Übersicht Zweitfächer</u>** 
 
 |1|**Zweitfach Deutsch**|**45 ECTS**|
 |---|---|---|
-||||
 |1|**Zweitfach Englisch und Auslandswissenschaft**|**45 ECTS**|
-||||
 |1|**Zweitfach Französisch und Auslandswissenschaft**|**45 ECTS**|
-||||
 |1|**Zweitfach Evangelische Religionslehre**|**45 ECTS**|
-||||
 |1|**Zweitfach Katholische Religionslehre**|**45 ECTS**|
-||||
 |1|**Zweitfach Mathematik**|**45 ECTS**|
-||||
-|1|**Zweitfach Sozialkunde**|**45 ECTS**|
-||||
+|1<br>|**Zweitfach Sozialkunde**|**45 ECTS**|
 |1|**Zweitfach Spanisch und Auslandswissenschaft**|**45 ECTS**|
-||||
 |1|**Zweitfach Sport**<br>**Zulassungsvoraussetzung (wird geprüft durch das Institut für Sportwissenschaft und Sport):**<br>**1. Bestehen einer Eignungsprüfung gemäß der Qualifikationsverordnung in der jeweils gel-**<br>**tenden Fassung,**<br>**2. Nachweis des Deutschen Rettungsschwimmabzeichens in Silber der Deutschen Lebensret-**<br>**tungs-Gesellschaft oder der Wasserwacht; nicht älter als drei Jahre,**<br>**3. Nachweis der erfolgreichen Teilnahme an einer Ausbildung in Erster Hilfe; nicht älter als**<br>**drei Jahre, mind. 16 Ausbildungsstunden,**<br>**4. Nachweis eines Praktikums von 50 Übungsstunden in einem Sportverein; der Nachweis**<br>**kann durch eine Übungsleiterlizenz ersetzt werden; näheres regelt die Bekanntmachung des**<br>**Bayerischen Staatsministeriums für Unterricht und Kultus.**|**45 ECTS**|
-||||
 |1|**Zweitfach Wirtschaftsinformatik**|**45 ECTS**|
-||||
 |1|**Zweitfach Wirtschafts- und Sozialgeschichte und Grundzüge der allgemeinen Geschichte**|**45 ECTS**|
 
 9 

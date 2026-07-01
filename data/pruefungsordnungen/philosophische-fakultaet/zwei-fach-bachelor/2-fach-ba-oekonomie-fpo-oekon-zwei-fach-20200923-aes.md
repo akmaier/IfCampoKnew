@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Ökonomie FPO Ökon Zwei-Fach 20200923 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Oekonomie/Aenderungssatzungen/2-Fach-BA_Oekonomie_FPO_Oekon_Zwei-Fach_20200923_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:08:47+00:00
-page_count_chars: 4299
+scraped_at: 2026-07-01T10:26:34+00:00
+page_count_chars: 4325
 ---
 
 # 2-Fach-BA Ökonomie FPO Ökon Zwei-Fach 20200923 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 4299
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Oekonomie/Aenderungssatzungen/2-Fach-BA_Oekonomie_FPO_Oekon_Zwei-Fach_20200923_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO Ökon Zwei-Fach –** 
+# **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO Ökon Zwei-Fach –** 
 
-## **Vom 23. September 2020** 
+# **Vom 23. September 2020** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 5. Oktober 2007 – FPO Ökon Zwei-Fach –, zuletzt geändert durch Satzung vom 16. September 2019, wird wie folgt geändert: 
 
@@ -36,21 +36,22 @@ aa) In Satz 1 wird das Wort „Fach“ durch das Wort „Teilstudiengang“ erse
 
 3. In § 3 Satz 2 wird die Zahl „5“ durch die Zahl „4“ ersetzt. 
 
-## 4. Nach § 7 Abs. 2 wird folgender neuer Abs. 3 angefügt: 
+# 4. Nach § 7 Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(3)<sup>1</sup> Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 1 
 
-## 5. **Anlage 1** wird wie folgt geändert: 
+# 5. **Anlage 1** wird wie folgt geändert: 
 
-- a) Nach Zeile 5 (Betriebswirtschaftslehre II) wird folgende neue Zeile 6 eingefügt: 
+a) Nach Zeile 5 (Betriebswirtschaftslehre II) wird folgende neue Zeile 6 eingefügt: 
 
 „ 
 
-**Makroökonomie** vgl. **FPO BA WiWi** 5 5 nach **FPO BA WiWi** 1 “ 
+|“<br>**Makroökonomie**|vgl.**FPO BA WiWi**|5<br>5<br>nach**FPO BA WiWi**<br>1|
+|---|---|---|
 
-- b) Die neue Zeile 7 (Mikroökonomie) wird wie folgt geändert: 
+b) Die neue Zeile 7 (Mikroökonomie) wird wie folgt geändert: 
 
 aa) In Spalte 9 (2.) wird die Zahl „5“ gestrichen. 
 
@@ -64,19 +65,18 @@ aa) In Spalte 2 wird die Zahl „24“ durch die Zahl „22“ ersetzt.
 
 bb) In Spalte 3 wird die Zahl „8“ durch die Zahl „7“ ersetzt. 
 
-## 6. **Anlage 2** wird wie folgt geändert: 
+# 6. **Anlage 2** wird wie folgt geändert: 
 
-   - a) Nach Zeile 7 (Betriebswirtschaftslehre II) wird folgende neue Zeile 8 eingefügt: 
+a) Nach Zeile 7 (Betriebswirtschaftslehre II) wird folgende neue Zeile 8 eingefügt: 
 
-- „ 
+„ 
 
-|**Makroökonomie**|vgl.**FPO BA WiWi**|5||5|||||nach**FPO BA WiWi**|1|
-|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||
+|“<br>**Makroökonomie**|vgl.**FPO BA WiWi**<br>5<br>5<br>nach**FPO BA WiWi**<br>1|
+|---|---|
 
 2 
 
-## b) Die neue Zeile 9 (Mikroökonomie) wird wie folgt geändert: 
+- b) Die neue Zeile 9 (Mikroökonomie) wird wie folgt geändert: 
 
    - aa) In Spalte 9 (2.) wird die Zahl „5“ gestrichen. 
 
@@ -94,7 +94,7 @@ bb) In Spalte 3 wird die Zahl „8“ durch die Zahl „7“ ersetzt.
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 27. Mai 2020 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 23. September 2020. 
 

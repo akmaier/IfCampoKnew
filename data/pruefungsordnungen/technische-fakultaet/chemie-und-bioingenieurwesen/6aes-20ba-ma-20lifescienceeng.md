@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES%20BA-MA%20LifeScienceEng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:26+00:00
-page_count_chars: 3486
+scraped_at: 2026-07-01T11:25:01+00:00
+page_count_chars: 3430
 ---
 
 # 7. Juli 2010
@@ -12,13 +12,13 @@ page_count_chars: 3486
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES%20BA-MA%20LifeScienceEng.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
 
-## Vom 7. Juli 2010 
+# Vom 7. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOLSE - vom 24. September 2007, zuletzt geändert durch Satzung vom 7. Mai 2010, wird wie folgt geändert: 
 
@@ -84,12 +84,11 @@ b) In Abs. 3 wird die Zahl „32“ durch die Zahl „31“ ersetzt.
 
    - a) Die Zeilen 8 und 9 („B4 Mathematik für Ingenieurberufe D4“, „B5 Mathematik für Ingenieurberufe“) erhalten folgende Fassung: 
 
-„ 
+<u>„</u> 
 
-||„|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Computeranwendungen<br>in der VT1||1|1|1|75||||2,5|||90||
-||B4|Computeranwendungen<br>in der VT2||2|1|1|,|||||5||||
+||Computeranwendungen<br>in der VT1|1|1<br>1|75|2,5||90|
+|---|---|---|---|---|---|---|---|
+|B4|Computeranwendungen<br>in der VT2|2|1<br>1|,||5||
 
 „ 
 
@@ -99,7 +98,7 @@ b) In Abs. 3 wird die Zahl „32“ durch die Zahl „31“ ersetzt.
 
 2. In der Fußnote der Anlage 3 wird das Wort „Schein“ durch das Wort „Studienleistung“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. Sie gilt für alle Studierenden, die zum Wintersemester 2010/11 das Studium aufnehmen. 
 

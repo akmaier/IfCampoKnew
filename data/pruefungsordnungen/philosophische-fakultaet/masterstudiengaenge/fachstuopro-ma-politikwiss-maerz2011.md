@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-Politikwiss.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:37:15+00:00
-page_count_chars: 11997
+scraped_at: 2026-07-01T09:47:17+00:00
+page_count_chars: 12216
 ---
 
 # PDF vom 08.06.2010 i.d.F. 09.03.2011
@@ -14,7 +14,7 @@ page_count_chars: 11997
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPolitik - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPolitik - Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 5. November 2010 
 
@@ -30,27 +30,27 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach-, Zwei-Fach- oder Drei-Fach-Bachelorstudiengang der Politikwissenschaft, soweit der Anteil an Politikwissenschaft nicht weniger als 70 ECTS-Punkte beträgt.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Abschlüsse in anderen Studiengängen anerkannt, soweit das Studium im wesentlichen Umfang politikwissenschaftlich relevante Problemstellungen zum Inhalt hat. 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach-, Zwei-Fach- oder Drei-Fach-Bachelorstudiengang der Politikwissenschaft, soweit der Anteil an Politikwissenschaft nicht weniger als 70 ECTS-Punkte beträgt.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Abschlüsse in anderen Studiengängen anerkannt, soweit das Studium im wesentlichen Umfang politikwissenschaftlich relevante Problemstellungen zum Inhalt hat. 
 
-(2)[1] Mit den Bewerbungsunterlagen sind Nachweise über Englischkenntnisse auf dem Niveau von „der Stufe C 1 des europäischen Referenzrahmens“ nachzuweisen.[2] Auf begründeten Antrag kann Englisch durch den Nachweis von gleichwertigen Kenntnissen in einer anderen wissenschaftsrelevanten Sprache ersetzt werden.[3] Studierende, die diesen Nachweis vor Aufnahme des Studiums nicht erbracht haben, können unter der auflösenden Bedingung zugelassen werden, dass der Nachweis bis zu Beginn des dritten Fachsemesters erbracht wird. 
+(2)<sup>1</sup> Mit den Bewerbungsunterlagen sind Nachweise über Englischkenntnisse auf dem Niveau von „der Stufe C 1 des europäischen Referenzrahmens“ nachzuweisen.<sup>2</sup> Auf begründeten Antrag kann Englisch durch den Nachweis von gleichwertigen Kenntnissen in einer anderen wissenschaftsrelevanten Sprache ersetzt werden.<sup>3</sup> Studierende, die diesen Nachweis vor Aufnahme des Studiums nicht erbracht haben, können unter der auflösenden Bedingung zugelassen werden, dass der Nachweis bis zu Beginn des dritten Fachsemesters erbracht wird. 
 
-(3)[1] Bewerberinnen und Bewerber eines fachverwandten oder gleichwertigen Abschlusses müssen zusätzlich die Studienperspektive darlegen, welche sie mit dem Masterstudiengang Politikwissenschaft verbinden.[2] In Zweifelsfällen soll die Zulassungsentscheidung auf der Grundlage eines Auswahlgespräches gefällt werden. 
+(3)<sup>1</sup> Bewerberinnen und Bewerber eines fachverwandten oder gleichwertigen Abschlusses müssen zusätzlich die Studienperspektive darlegen, welche sie mit dem Masterstudiengang Politikwissenschaft verbinden.<sup>2</sup> In Zweifelsfällen soll die Zulassungsentscheidung auf der Grundlage eines Auswahlgespräches gefällt werden. 
 
-(4)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Im Auswahlgespräch wird unter anderem geprüft, ob die Bewerberin/der Bewerber über sichere Kenntnisse in den fachspezifischen Grundlagen verfügt und ob eine positive Studienprognose aufgrund steigender Leistungen im bisherigen Studienverlauf möglich ist.[4] Das Auswahlgespräch erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers. 
+(4)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Im Auswahlgespräch wird unter anderem geprüft, ob die Bewerberin/der Bewerber über sichere Kenntnisse in den fachspezifischen Grundlagen verfügt und ob eine positive Studienprognose aufgrund steigender Leistungen im bisherigen Studienverlauf möglich ist.<sup>4</sup> Das Auswahlgespräch erstreckt sich auch auf die Motivation der Bewerberin/des Bewerbers. 
 
-(5)[1] Im Rahmen des Masterstudiengangs kann ein Studienschwerpunkt „Öffentliches Recht“ gewählt werden.[2] Zugangsvoraussetzung zum Studienschwerpunkt nach Satz 1 ist zusätzlich zu den in Abs. 1 genannten Anforderungen der Abschluss in einem Bachelorstudiengang mit dem Fach Öffentliches Recht, im Umfang von mindestens 70 ECTS-Punkten. 
+(5)<sup>1</sup> Im Rahmen des Masterstudiengangs kann ein Studienschwerpunkt „Öffentliches Recht“ gewählt werden.<sup>2</sup> Zugangsvoraussetzung zum Studienschwerpunkt nach Satz 1 ist zusätzlich zu den in Abs. 1 genannten Anforderungen der Abschluss in einem Bachelorstudiengang mit dem Fach Öffentliches Recht, im Umfang von mindestens 70 ECTS-Punkten. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
 (1) Im Studium der Politikwissenschaft sind sieben politikwissenschaftliche Module (insges. 70 ECTS-Punkte), Module des Ergänzungsstudiums (insges. 20 ECTS-Punkte) und das Modul Masterarbeit (30 ECTS-Punkte) abzulegen. 
 
-(2)[1] Im ersten Fachsemester werden fünf politikwissenschaftliche Module (Modulgruppe (A)) angeboten.[2] Im zweiten Fachsemester werden zwei politikwissenschaftliche Module („Pol MES“ und „Pol PMW“) sowie zwei Module des Ergänzungsstudiums angeboten. 3Unter den politikwissenschaftlichen Modulen nach Satz 2 besteht die Wahlmöglichkeit zwischen den Modulen „Pol MES“ und „Pol PMW“, von denen nur ein Modul abzulegen ist.[4] Wird auch im zweiten Semester (dem Sommersemester) ein politikwissenschaftliches Modul (Modulgruppe (A) oder (B)) angeboten und gewählt, verschiebt sich der Besuch eines Moduls „Freie Ergänzungsstudien“ in das dritte Fachsemester.[5] Im dritten Fachsemester werden weitere fünf politikwissenschaftliche Module (Modulgruppe (B)) angeboten.[6] Insgesamt sind sechs politikwissenschaftliche Module aus den Modulgruppen (A) und (B) auszuwählen.[7] Im vierten Fachsemester ist eine Masterarbeit mit einem Umfang von ca. 100 Seiten vorgesehen. 
+(2)<sup>1</sup> Im ersten Fachsemester werden fünf politikwissenschaftliche Module (Modulgruppe (A)) angeboten.<sup>2</sup> Im zweiten Fachsemester werden zwei politikwissenschaftliche Module („Pol MES“ und „Pol PMW“) sowie zwei Module des Ergänzungsstudiums angeboten. 3Unter den politikwissenschaftlichen Modulen nach Satz 2 besteht die Wahlmöglichkeit zwischen den Modulen „Pol MES“ und „Pol PMW“, von denen nur ein Modul abzulegen ist.<sup>4</sup> Wird auch im zweiten Semester (dem Sommersemester) ein politikwissenschaftliches Modul (Modulgruppe (A) oder (B)) angeboten und gewählt, verschiebt sich der Besuch eines Moduls „Freie Ergänzungsstudien“ in das dritte Fachsemester.<sup>5</sup> Im dritten Fachsemester werden weitere fünf politikwissenschaftliche Module (Modulgruppe (B)) angeboten.<sup>6</sup> Insgesamt sind sechs politikwissenschaftliche Module aus den Modulgruppen (A) und (B) auszuwählen.<sup>7</sup> Im vierten Fachsemester ist eine Masterarbeit mit einem Umfang von ca. 100 Seiten vorgesehen. 
 
 (3) Im Studienschwerpunkt Öffentliches Recht ist abweichend von Abs. 1 und 2 im zweiten Fachsemester das Modul „ÖR I: Verwaltungsrecht“ statt einem der Module „Freies Ergänzungsstudium“ und im dritten Fachsemester das Modul „ÖR II: Staats- und Völkerrecht“ statt einem der Module der Modulgruppe (B) abzulegen. 
 
 (4) Umfang und Gliederung des Masterstudiengangs Politikwissenschaft sowie Art und Umfang der Prüfungen bestimmen sich nach der **Anlage** . 
 
-(5)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(5)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -58,29 +58,30 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage: Studienplan Masterstudiengang Politikwissenschaft:** 
 
-|**Sem.**|**Modul **|**Lehrveranstaltungen**|**SWS**|**ECTS **|**Prüfungsleistung**|
+|**Sem.**|**Modul **|**Lehrveranstaltungen**<br>Zi Mti|**SWS**|**ECTS **|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-|1. oder<br>FS|<br>Pol SYS (A)*: Analyse und<br>Vergleich politischer Systeme|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
+|1. oder<br>FS|<br>Pol SYS (A)*: Analyse und<br>Vergleich politischer Systeme|we asersemnare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 |1. oder<br>FS|<br>Pol IB (A)*: Internationale<br>Beziehungen|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 |1. oder<br>FS|<br>Pol PPT (A)*: Politische<br>Philosophie, Theorie und<br>Ideengeschichte|Oberseminar<br>o_der_<br>Variable Leistung<br>(Vorlesung, Hauptseminar)<br>_und_<br>Mentorat|2<br>2|10|Schriftliche Hausarbeit (ca. 20 Seiten) und<br>Referat_oder_<br>Klausur (90 Minuten). Zusätzlich mündliche<br>Prüfung (15 Minuten) über den Stoff des Moduls<br>(Lehrveranstaltung und Mentorat).<br>Bekanntgabe der Prüfungsform<br>Jeweilsvor Beginndes Semesters.|
 |1. oder<br>FS|<br>Pol AER (A)*: Politik in<br>außereuropäischen<br>Regionen|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
-|1. oder<br>FS|<br>Pol MR (A)*: Menschenrechte/<br>Menschenrechtspolitik|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
-|**Summe 1. FS**||||**30**||
+|1. oder<br>FS|<br>Pol MR (A)*: Menschenrechte/<br>Menschenrechtspolitik|<br>Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
+|**Summe**|**1. FS**|||**30**||
 |2. FS|Pol MES: Methoden<br>empirischer Sozialforschung|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung||10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 ||_Alternativ_: Pol PMW:<br>Politische Methodenlehre<br>und Wissenschaftstheorie|Oberseminar<br>o_der_<br>Variable Leistung<br>(Vorlesung, Hauptseminar)<br>_und_<br>Methodenspezifische<br>Übung _oder _Mentorat|2<br>2|10|Schriftliche Hausarbeit (ca. 20 Seiten) und<br>Referat_oder_<br>Klausur (90 Minuten). Zusätzlich mündliche<br>Prüfung (15 Minuten) über den Stoff des Moduls<br>(Lehrveranstaltung und methodenspezifische<br>Übung/Mentorat). Bekanntgabe der Prüfungsfor<br>jeweilsvor Beginndes Semesters.|
 |2. FS|Freies Ergänzungsstudium|Nach Maßgabe des ge-<br>wählten Fachs||10|Nach Maßgabe des gewählten Fachs|
 |2. FS|Freies Ergänzungsstudium|Nach Maßgabe des ge-<br>wählten Fachs||10|Nach Maßgabe des gewählten Fachs|
-|2. FS|_Abweichend von einem Modul_<br>_„Freies Ergänzungsstudium“_<br>_ist im Studienschwerpunkt_<br>_Öffentliches Recht zu wählen:_<br>ÖR I: Verwaltungsrecht|Zwei aus vier<br>Lehrveranstaltungen<br>Verwaltungsprozessrecht<br>_oder_<br>Management von Ver-<br>waltungen<br>(Verwaltungslehre)<br>_oder_<br>Verwaltungsgeschichte<br>_oder_<br>Umweltrecht I|2+2|10<br>(je 5)|Abschlussklausur (120 Minuten) über den Stoff<br>beider Veranstaltungen|
-|**Summe 2. FS**||||**30**||
+|2. FS|_Abweichend von einem Modul_<br>_„Freies Ergänzungsstudium“_<br>_ist im Studienschwerpunkt_<br>_Öffentliches Recht zu wählen:_<br>ÖR I: Verwaltungsrecht|Zwei aus vier<br>Lehrveranstaltungen<br>Verwaltungsprozessrecht<br>_oder_<br>Management von Ver-<br>waltungen<br>(Verwaltungslehre)<br>_oder_<br>Verwaltungsgeschichte<br>_oder_|2+2|10<br>(je 5)|Abschlussklausur (120 Minuten) über den Stoff<br>beider Veranstaltungen|
+|||<br>Umweltrecht I||||
+|**Summe**|**2. FS**|||**30**||
 |3. FS|Pol SYS (B)*: Analyse und<br>Vergleich politischer Systeme|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 |3. FS|Pol IB (B)*: Internationale<br>Beziehungen|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eineVorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 |3. FS|Pol PPT (B)*: Politische<br>Philosophie, Theorie und<br>Ideengeschichte|Oberseminar<br>o_der_<br>Variable Leistung (Vor-<br>lesung, Hauptseminar)<br>_und_<br>Mentorat|2<br>2|10|Schriftliche Hausarbeit (ca. 20 Seiten) und<br>Referat_oder_<br>Klausur (90 Minuten). Zusätzlich mündliche<br>Prüfung (15 Minuten) über den Stoff des Moduls<br>(Lehrveranstaltung und Mentorat).<br>Bekanntgabe der Prüfungsform<br>jeweils vor Beginn des Semesters.|
 |3.FS|Pol AER (B)*: Politik in<br>außereuropäischen<br>Regionen|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eine Vorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
-|3. FS|Pol MR (B)*: Menschenrechte/<br>Menschenrechtspolitik|Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eineVorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
+|3. FS|Pol MR (B)*: Menschenrechte/<br>Menschenrechtspolitik|<br>Zwei Masterseminare<br>_oder_<br>Ein Masterseminar und<br>eineVorlesung|4|10|Referat und Hausarbeit (ca. 20 Seiten)_oder_<br>Abschlussklausur (90 Minuten) über den Stoff<br>beider Veranstaltungen|
 
 |3. FS|Abweichend von den Modulen<br>der Modulgruppe B sind im<br>Studienschwerpunkt<br>Öffentliches Recht zu wählen:<br>ÖR II: Staats- und Völkerrecht|Zwei aus vier Lehrveran-<br>staltungen<br>Ein weiteres Grundlagen-<br>fach<br>aus:<br>Verfassungsgeschichte,<br>Rechtsphilosophie,<br>Allgemeine Staatslehre,<br>Rechtsgeschichte<br>(Kein Fach, das bereits im<br>BA-Studium belegt worden<br>ist.)<br>_oder_<br>Völkerrecht II<br>_oder_<br>Staatskirchenrecht<br>_oder_<br>Seminar im Öffentlichen<br>Recht|2+2|10<br>(je 5)|Abschlussklausur (120 Minuten) über den Stoff<br>beider Veranstaltungen<br>_oder (bei Wahl des Seminars)_<br>Schriftliche Seminararbeit<br>(ca. 20 Seiten) und Referat|
 |---|---|---|---|---|---|
-|**Summe 3. FS**||||**30**||
+|**Summ**|**e 3. FS**|||**30**||
 |4. FS||Masterarbeit||30|Umfangetwa 100 Seiten|
-|* Wahlmöglichkeiten vgl. § 3 Abs. 2||||||
+|* Wahl|möglichkeiten vgl. § 3 Abs. 2|||||
 

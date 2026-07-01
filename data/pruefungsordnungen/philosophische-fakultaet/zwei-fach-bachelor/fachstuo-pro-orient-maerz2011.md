@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Orient.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:09:41+00:00
-page_count_chars: 11139
+scraped_at: 2026-07-01T10:27:18+00:00
+page_count_chars: 11229
 ---
 
 # PDF vom 05.10.2007 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 11139
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -36,7 +36,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Orientalistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Studium der Orientalistik wird im Bachelorstudiengang eine fundierte fachwissenschaftliche Ausbildung gewährleistet, wobei insbesondere die sprachliche und argumentative Kompetenz zur Darstellung und Lösung kulturwissenschaftlicher Fragen in Bezug auf den Nahen Osten gefördert wird. 
 
@@ -116,7 +116,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Studium besteht aus Pflicht- und Wahlpflichtmodulen. 
 
-(2)[1] Im Studium Orientalistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+(2)<sup>1</sup> Im Studium Orientalistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Arabisch 1-4; Einführung in die Orientalistik; Grundlagen der islamischen Kultur; Zweite Orientalische Sprache. 
 
@@ -124,7 +124,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 2Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
 
-|**Semester1**|**Module**||**Lehrveranstaltung**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**ECTS**<br>**insges. **|
+|**Semester**<sup>**1**</sup>|**Module**||**Lehrveranstaltung**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**ECTS**<br>**insges. **|
 |---|---|---|---|---|---|---|---|
 |1.|OR I|**Arabisch I**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
 |2.|OR II|**Arabisch II**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
@@ -136,7 +136,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 3 
 
-|**Semester1**|**Module**||**Lehrveranstaltung**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**ECTS**<br>**insges. **|
+|**Semester**<sup>**1**</sup>|**Module**||**Lehrveranstaltung**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**ECTS**<br>**insges. **|
 |---|---|---|---|---|---|---|---|
 |3./4.|OR VI|**Grundlagen der islami-**<br>**schen Kultur**|Historisches<br>Seminar<br>Religionswissen-<br>schaftliches<br>Seminar|2<br>2|5<br>5|jeweils<br>Referat/<br>Hausarbeit|10|
 |3./4.|OR VII|**Zweite orientalische**<br>**Sprache (Türk., Pers.**<br>**Hebr. Aram. o.a.)**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
@@ -148,11 +148,12 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 Wpm = Wahlpflichtmodul 
 
-## (3) Für Studienanfänger im Sommersemester 2011 findet folgender Studienverlaufsplan Anwendung: 
+## (3) Für Studienanfänger im Sommersemester 2011 findet folgender Studienverlaufs- <u>plan Anwendung:</u> 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|**SS**|**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br>**13**|<br>**13**|
 |**OR I: Arabisch I**||||||||||
 |Arabisch I|GOP|4|6|||||||
 |Arabisch I, Grammatik|GOP|2|4|||||||
@@ -172,7 +173,7 @@ Wpm = Wahlpflichtmodul
 |**OR VI:Grundlagen der islamischen Kultur**||||||||||
 |Historisches Seminar||2|5|||||||
 |Religionswissenschaftliches Seminar||2|5|||||||
-|**OR VII: Zweite orientalische Sprache**||||||||||
+|**OR VII: Zweite orientalische Sprache**<br>||||||||||
 |Zweite orientalische Sprache Übung||4|6|||||||
 |Zweite orientalische Sprache, Grammatik||2|4|||||||
 |**OR VIII:Grundlagen der arabischen Literatur**||||||||||
@@ -188,7 +189,7 @@ Wpm = Wahlpflichtmodul
 
 Für die Grundlagen- und Orientierungsprüfung müssen im Fach Orientalistik die Modulprüfungen für die Module OR I (Arabisch I 10 ECTS-Punkte) und OR II (Arabisch II 10 ECTS-Punkte) erfolgreich abgelegt werden. 
 
-- (3)[1] Im Studium der Orientalistik als zweitem Fach sind folgende Module erfolgreich abzulegen: 
+- (3)<sup>1</sup> Im Studium der Orientalistik als zweitem Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Module I-IV (Arabisch): 40 ECTS-Punkte. 
 

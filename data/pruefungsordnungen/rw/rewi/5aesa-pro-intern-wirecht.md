@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:42+00:00
-page_count_chars: 2173
+scraped_at: 2026-07-01T10:35:21+00:00
+page_count_chars: 2168
 ---
 
 # 7. Juli 2003
@@ -14,11 +14,11 @@ page_count_chars: 2173
 
 **Fünfte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
 
-## Vom 7. Juli 2003 
+# Vom 7. Juli 2003 
 
 Auf  Grund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg vom 13. Februar 2001 (KWMBl II 2002 S. 80), zuletzt geändert durch Satzung vom 6. März 2003 (KWMBl II S. …..), wird wie folgt geändert: 
 
@@ -46,7 +46,7 @@ b) In Satz 3 wird die Zahl "37" durch die Zahl "33" ersetzt.
 
       - "Die unter a), b), c), e) und f) genannten Fächer sind nicht abwählbar." 
 
-## **§ 2** 
+**§ 2** 
 
 Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

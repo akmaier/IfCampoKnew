@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. März 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/12AeSa-FPO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:14+00:00
-page_count_chars: 1366
+scraped_at: 2026-07-01T11:38:19+00:00
+page_count_chars: 1314
 ---
 
 # 10. März 1999
@@ -12,13 +12,11 @@ page_count_chars: 1366
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/12AeSa-FPO-Inf.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
+# **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
 
 Vom 10. März 1999 
 
 Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erläßt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [19 x 11] intentionally omitted <==**
 
 Die Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg vom 16. September 1977 (KMBl II S. 245), zuletzt geändert durch Satzung vom 28. September 1995 (KWMBl II 1996 S. 79), wird wie folgt geändert: 
 

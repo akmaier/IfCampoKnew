@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Informatik"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:23:53+00:00
+scraped_at: 2026-07-01T11:42:19+00:00
 ---
 
 # Informatik
@@ -80,7 +80,8 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
-| [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_FPOCE_20220421_AeS.pdf) | 499 KB |
+| [BSc-MSc Computational Engineering 20260630 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20260630_AeS.pdf) | 275 KB |
+| [BSc-MSc Computational Engineering 20220421 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20220421_AeS.pdf) | 499 KB |
 | [BSc-MSc Computational Engineering 20180730 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20180730_AeS.pdf) | 330 KB |
 | [BSc-MSc Computational Engineering 20180116 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20180116_AeS.pdf) | 322 KB |
 
@@ -106,7 +107,7 @@ Bitte beachten Sie, dass die **Anlage 1 der konsolidierten Fassung vom 20. Augus
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/konsolidierte_Fassungen/BSc-MSc_Informatik_FPOINF_20240328_iF_20260115.pdf) | 545 KB |
+| [BSc-MSc Informatik FPOINF 20240328 iF 20260115.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/konsolidierte_Fassungen/BSc-MSc_Informatik_FPOINF_20240328_iF_20260115.pdf) | 579 KB |
 | [BSc-MSc Informatik FPOINF 20240328 iF 20250604.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/konsolidierte_Fassungen/BSc-MSc_Informatik_FPOINF_20240328_iF_20250604.pdf) | 449 KB |
 | [BSc-MSc Informatik FPOINF 20240328.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/konsolidierte_Fassungen/BSc-MSc_Informatik_FPOINF_20240328.pdf) | 538 KB |
 | [BSc-MSc Informatik FPOINF 20070921 i.d.F. 20230426.pdf](https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/konsolidierte_Fassungen/BSc-MSc_Informatik_FPOINF_20070921_idF_20230426.pdf) | 422 KB |
@@ -231,7 +232,7 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/rechtsgrundlagen
 | [30. Oktober 2009](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AES_BAMA_FPOMT.pdf) |  |  |
 |  | ([PDF vom 15.09.2009](https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Medizintechnik.pdf)) |  |
 
-## Prüfungsordnungen-Dokumente (148)
+## Prüfungsordnungen-Dokumente (149)
 
 - [FPOMScAI 20240328 i.d.F. 20260213.pdf](fpomscai-20240328-idf-20260213.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Artificial_Intelligence_Master/konsolidierte_Fassungen/FPOMScAI_20240328_idF_20260213.pdf>
 - [FPOMScAI 20240328.pdf](fpomscai-20240328.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Artificial_Intelligence_Master/konsolidierte_Fassungen/FPOMScAI_20240328.pdf>
@@ -260,7 +261,8 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/rechtsgrundlagen
 - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20220421 en.pdf](bsc-msc-computational-engineering-fpoce-20070919-idf-20220421-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/englisch/BSc-MSc_Computational_Engineering_FPOCE_20070919_idF_20220421_en.pdf>
 - [BSc-MSc Computational Engineering FPOCE 20070919 i.d.F. 20180730 en.pdf](bsc-msc-computational-engineering-fpoce-20070919-idf-20180730-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/englisch/BSc-MSc_Computational_Engineering_FPOCE_20070919_idF_20180730_en.pdf>
 - [BSc-MSc Computational Engineering 20070919 i.d.F. 20180116 en.pdf](bsc-msc-computational-engineering-20070919-idf-20180116-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/englisch/BSc-MSc_Computational_Engineering_20070919_idF_20180116_en.pdf>
-- [BSc-MSc Computational Engineering FPOCE 20220421 ÄS.pdf](bsc-msc-computational-engineering-fpoce-20220421-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_FPOCE_20220421_AeS.pdf>
+- [BSc-MSc Computational Engineering 20260630 ÄS.pdf](bsc-msc-computational-engineering-20260630-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20260630_AeS.pdf>
+- [BSc-MSc Computational Engineering 20220421 ÄS.pdf](bsc-msc-computational-engineering-20220421-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20220421_AeS.pdf>
 - [BSc-MSc Computational Engineering 20180730 ÄS.pdf](bsc-msc-computational-engineering-20180730-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20180730_AeS.pdf>
 - [BSc-MSc Computational Engineering 20180116 ÄS.pdf](bsc-msc-computational-engineering-20180116-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20180116_AeS.pdf>
 - [18. Januar 2016](7aes-ba-ma-computengineering.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES BA-MA ComputEngineering.pdf>

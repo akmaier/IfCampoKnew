@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Italienisch FPO LA Italienisch 20090325 i.d.F. 20210624.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Italienisch/konsolidierte_Fassungen/LA_Italienisch_FPO_LA_Italienisch_20090325_idF_20210624.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:11+00:00
-page_count_chars: 15726
+scraped_at: 2026-07-01T08:40:09+00:00
+page_count_chars: 14616
 ---
 
 # LA Italienisch FPO LA Italienisch 20090325 i.d.F. 20210624.pdf
@@ -16,15 +16,25 @@ page_count_chars: 15726
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA Italienisch – Vom 25. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA Italienisch – Vom 25. März 2009** 
 
 geändert durch Satzungen vom 24. September 2010 29. September 2014 8. August 2017 24. Juni 2021 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes ( **BayHSchG** ) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-**1. Allgemeines ..................................................................................................................... 1** § 1 Geltungsbereich .............................................................................................................. 1 § 2 Grundlagen- und Orientierungsprüfung ........................................................................... 2 § 3 Empfohlene Sprachkenntnisse; Unterrichts- und Prüfungssprache ................................. 2 § 4 Besondere Bestimmungen für die Schriftliche Hausarbeit ............................................... 2 § 5 Freier Bereich .................................................................................................................. 2 **2. Lehramt an Gymnasien ................................................................................................... 3** § 6 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 3 **3. Schluss- und Übergangsvorschriften ............................................................................ 6** § 7 Inkrafttreten ..................................................................................................................... 6 
+|**1. Allgemeines ..................................................................................................................... 1**|
+|---|
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|§ 2 Grundlagen- und Orientierungsprüfung ........................................................................... 2|
+|§ 3 Empfohlene Sprachkenntnisse; Unterrichts- und Prüfungssprache ................................. 2|
+|§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit ............................................... 2|
+|§ 5 Freier Bereich .................................................................................................................. 2|
+|**2. Lehramt an Gymnasien ................................................................................................... 3**|
+|§ 6 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 3<br>|
+|**3. Schluss- und Übergangsvorschriften ............................................................................ 6**|
+|§ 7 Inkrafttreten ..................................................................................................................... 6|
 
 ## **1. Allgemeines** 
 
@@ -42,9 +52,9 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Italienis
 
 (1) Empfohlen werden zu Studienbeginn Kenntnisse der italienischen Sprache auf dem Niveau A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER), die über einen Einstufungstest vor Beginn der Vorlesungszeit des ersten Fachsemesters nachgewiesen werden können. 
 
-(2)[1] Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift empfohlen.[2] Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
+(2)<sup>1</sup> Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift empfohlen.<sup>2</sup> Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
 
-(3)[1] Die Unterrichts- und Prüfungssprache im Fach Italienisch im Lehramtsstudiengang ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in italienischer Sprache abgehalten werden; Näheres ist den Studienverlaufsplänen und dem Modulhandbuch zu entnehmen.[3] Ergänzend wird darauf hingewiesen, dass auch in weiteren Lehrveranstaltungen und Prüfungen des Studienfachs italienische Texte bearbeitet werden.[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
+(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache im Fach Italienisch im Lehramtsstudiengang ist Deutsch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in italienischer Sprache abgehalten werden; Näheres ist den Studienverlaufsplänen und dem Modulhandbuch zu entnehmen.<sup>3</sup> Ergänzend wird darauf hingewiesen, dass auch in weiteren Lehrveranstaltungen und Prüfungen des Studienfachs italienische Texte bearbeitet werden.<sup>4</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
 
 ## **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** 
 
@@ -52,7 +62,7 @@ Das Thema für die Schriftliche Hausarbeit kann frühestens vergeben werden, wen
 
 ## **§ 5 Freier Bereich** 
 
-1Im Lehramtsstudium sind im Freien Bereich gemäß §§ 30 Abs. 1 Satz 2, 26a Abs. 2 Satz 1 **LAPO** Module im Umfang von insgesamt 5 ECTS-Punkten zu belegen.[2] Ergänzend zu § 26a **LAPO** sind auch Module wählbar, in denen sprachpraktische Inhalte und Kompetenzen erweitert und vertieft werden. 
+1Im Lehramtsstudium sind im Freien Bereich gemäß §§ 30 Abs. 1 Satz 2, 26a Abs. 2 Satz 1 **LAPO** Module im Umfang von insgesamt 5 ECTS-Punkten zu belegen.<sup>2</sup> Ergänzend zu § 26a **LAPO** sind auch Module wählbar, in denen sprachpraktische Inhalte und Kompetenzen erweitert und vertieft werden. 
 
 2 
 
@@ -64,42 +74,37 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 ## 1. Im Bereich Fachwissenschaft 1. bis 6. Semester: 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester i|Workload-Verteilung pro Semester i|Workload-Verteilung pro Semester i|Workload-Verteilung pro Semester i|Workload-Verteilung pro Semester i|Workload-Verteilung pro Semester i|n ECTS-Punkten|n ECTS-Punkten|n ECTS-Punkten|Art und Umfang der<br>Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V||||||||||||||||
-||||Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|||||||||||||||||||
-|**Basismodul**<br>**Italienische Sprachpraxis 11**|Sprachkurs Italienisch<br>Mittelstufe I<br>(Corso di italianointermedioI)||6|||10|8|||||||||Klausur (120’)|1|
-||Mündliche Sprachkompetenz I<br>(Comprensione e produzione oraleI)||2||||2|||||||||||
-|**Basismodul**<br>**Italienische Sprachpraxis 21, 2**|Corso di italiano intermedio II||6|||10||8||||||||Klausur (120’)**3**|1|
-||Fonetica pratica||1|||||1||||||||||
-||Tecniche di lettura||1|||||1||||||||||
-|**Basismodul**<br>**Italienische Sprachwissenschaft4**|Basisseminar Italienische<br>Sprachwissenschaft||||2|5|5|||||||||Klausur (90’)|1|
-|**Basismodul**<br>**Italienische Literaturwissenschaft5**|Basisseminar Italienische<br>Literaturwissenschaft||||2|5||5||||||||Klausur (90’)|1|
-|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 14**|Phonetik und Phonologie des<br>Italienischen||1|||5||2||||||||Klausur (45’) (30 %) und<br>Hausarbeit (10 S.)<br>(70 %)**6**|1|
-||Proseminar||||2||||3|||||||||
-|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 24**|Vorlesung|2||||5|||2|||||||Klausur (90’)|1|
-||Aufbauseminar||||2|||||3||||||||
-|**Aufbaumodul Italienische Literatur-**<br>**und Kulturwissenschaft 15**|Proseminar||||2|5|||2|||||||Referat (ca. 20’)_oder_<br>Protokoll (ca. 2 S.)**7**|1|
-||Aufbauseminar||||2||||3|||||||||
-|**Aufbaumodul Italienische Literatur-**<br>**und Kulturwissenschaft 25**|Proseminar||||2|5||||5||||||Hausarbeit (10 S.)|1|
-|**Aufbaumodul**<br>**Italienische Sprachpraxis 11, 2**|Grammatica e stilistica I||2|||5|||2|||||||Klausur (150’)**8**|1|
-||Comprensione e produzione scritta||2||||||3|||||||||
-|**Aufbaumodul**<br>**Italienische Sprachpraxis 22**|Comprensione e produzione orale II**1**||2|||||||2||||||Referat (15’) (40 %) und<br>mündl. Prüfung (20’)<br>(60 %)**8**|1|
-||Cultura e civiltà I**9**||2|||5||||3||||||||
-|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 12**|Cultura e civiltà II**9**||2|||5|||||3|||||Schriftliche Prüfung<br>(180’)**10**|1|
-||Traduzione tedesco-italiano**1**||2||||||||2|||||||
+|||SWS||Gesamt|Workload-V|ertei|lung pro Semester in ECTS-Punkten<br>Art und Umfang der|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|V<br>Ü<br>|P<br>S|<br>ECTS|1.<br>2.|3.|<br>Prüfung<br>4.<br>5.<br>6.<br>7.<br>8.<br>9.|Modul-<br>note|
+|**Basismodul**<br>**Italienische Sprachpraxis 1**<sup>**1**</sup>|Sprachkurs Italienisch<br>Mittelstufe I<br>(Corso di italianointermedioI)<br>|6||10|8||Klausur (120’)|1|
+||Mündliche Sprachkompetenz I<br>(Comprensione e produzione oraleI)|2|||2||||
+||Corso di italiano intermedio II|6|||8||||
+|**Basismodul**<br>**Italienische Sprachpraxis 2**<sup>**1, 2**</sup>|Fonetica pratica|1||10|1||Klausur (120’)<sup>**3**</sup>|1|
+||Tecniche di lettura|1|||1||||
+|**Basismodul**<br>**Italienische Sprachwissenschaft**<sup>**4**</sup>|Basisseminar Italienische<br>Sprachwissenschaft||2|5|5||Klausur (90’)|1|
+|**Basismodul**<br>**Italienische Literaturwissenschaft**<sup>**5**</sup>|Basisseminar Italienische<br>Literaturwissenschaft||2|5|5||Klausur (90’)|1|
+|**Aufbaumodul**<br>|Phonetik und Phonologie des<br>Italienischen|1||5|2||Klausur (45’) (30 %) und<br>Hausarbeit (10 S.)|1|
+|**Italienische Sprachwissenschaft 1**<sup>**4**</sup>|Proseminar||2|||3|<br>(70 %)<sup>**6**</sup>||
+|**Aufbaumodul**<br>|Vorlesung|2||5||2|Kl 90’|1|
+|**Italienische Sprachwissenschaft 2**<sup>**4**</sup>|Aufbauseminar||2||||ausur ()<br>3||
+|**Aufbaumodul Italienische Literatur-**<br>|Proseminar||2|5||2|Referat (ca. 20’)_oder_<br>|1|
+|**und Kulturwissenschaft 1**<sup>**5**</sup>|Aufbauseminar||2|||3|Protokoll (ca. 2 S.)<sup>**7**</sup>||
+|**Aufbaumodul Italienische Literatur-**<br>**und Kulturwissenschaft 2**<sup>**5**</sup>|Proseminar||2|5|||5<br>Hausarbeit (10 S.)|1|
+|**Aufbaumodul**<br>|Grammatica e stilistica I|2||5||2|Kl 150’<sup>**8**</sup>|1|
+|**Italienische Sprachpraxis 1**<sup>**1, 2**</sup>|Comprensione e produzione scritta|2||||3|ausur ()||
+|**Aufbaumodul**<br>|Comprensione e produzione orale II<sup>**1**</sup>|2||5|||2<br>Referat (15’) (40 %) und<br>mündl Prüfun (20’)|1|
+|**Italienische Sprachpraxis 2**<sup>**2**</sup>|Cultura e civiltà I<sup>**9**</sup>|2|||||. g<br>(60 %)<sup>**8**</sup><br>3||
+|**Vertiefungsmodul**<br>|Cultura e civiltà II<sup>**9**</sup>|2||5|||3<br>Schriftliche Prüfung<br>|1|
+|**Italienische Sprachpraxis 1**<sup>**2**</sup>|Traduzione tedesco-italiano<sup>**1**</sup>|2|||||(180’)<sup>**10**</sup> <br>2||
 
 3 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|in ECTS-Punkten|in ECTS-Punkten|in ECTS-Punkten|Art und Umfang der<br>Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V||||||||||||||||
-||||Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|||||||||||||||||||
-|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 21, 2**|L’italiano per il lavoro:<br>tipologie testuali per il settore umani-<br>stico-pedagogico<br>oder<br>L’italiano per il lavoro: tipologie testuali<br>per ilsettore socio-economico||2|||5||||||3||||Schriftliche Prüfung<br>(180’)**10**|1|
-||Grammatica e stilistica II||2|||||||||2||||||
-||Summe SWS und ECTS-Punkte:|2|33||14|70|15|17|15|13|5|5||||||
+|Modulbezeichnung|Lehrveranstaltung|SW<br>V<br>Ü|S<br>P<br>S|Gesamt<br>ECTS|Workload-Verteilu<br>1.<br>2.<br>3.|ng pro Sem<br>4.<br>5.|ester in ECTS-Punkten<br>Art und Umfang der<br>Prüfung<br>6.<br>7.<br>8.<br>9.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 2**<sup>**1, 2**</sup>|L’italiano per il lavoro:<br>tipologie testuali per il settore umani-<br>stico-pedagogico<br>oder<br>L’italiano per il lavoro: tipologie testuali<br>per ilsettore socio-economico|2||5|||3<br>Schriftliche Prüfung<br>(180’)<sup>**10**</sup>|1|
+||Grammatica e stilistica II|2|||||2||
+||Summe SWS und ECTS-Punkte:|2<br>33|14|70|15<br>17<br>15|13<br>5|5||
 
 - **1** Teilgebiet Sprachpraxis gemäß § 70 Abs. 1 Nr. 3 c) **LPO I** . 
 
@@ -113,7 +118,9 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 - **4** Teilgebiet Sprachwissenschaft gemäß § 70 Abs. 1 Nr. 3 b) **LPO I** . 
 
-- **5** Teilgebiet Literaturwissenschaft gemäß § 70 Abs. 1 Nr. 3 a) **LPO I** . 
+- **5** 
+
+   - Teilgebiet Literaturwissenschaft gemäß § 70 Abs. 1 Nr. 3 a) **LPO I** . 
 
 - **6** Die Klausur fällt ins 2. Fachsemester, die Hausarbeit ins 3. Fachsemester. 
 
@@ -129,20 +136,18 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 ## 2. Im Bereich Fachwissenschaft 7. bis 9. Semester: 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in||Art und Umfang der<br>Püf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||ECTS-Punkten||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|rung||
-|**Abschlussmodul Italienische**<br>**Sprachpraxis1, 2**|Traduzione Italiano-Tedesco||2|||5|||||||(2)|(2)|(2)|Übersetzung (90’)<br>(40 %) und<br>Klausur (90’) (60 %)|1|
-||Produzione testuale per la preparazione all’esame di<br>stato||2||||||||||(3)|(3)|(3)|||
-|**Italienische Kulturwissenschaft3**|VL Einführung in die romanische Kulturwissenschaft /|2|||||||||||2||2||1|
-||Seminar Kulturwissenschaft|||||5|||||||()||()|Mündliche Prüfung<br>||
-||Italienische Kulturwissenschaft und Landeskunde||2||||||||||(3)|(3)|(3)|(30’)||
-|**Italienische Sprach-, Literatur-**<br>**und Kulturwissenschaft für das**<br>**Lehramt an Gymnasien 1**|Hauptseminar Italienische Literatur- oder Sprachwissen-<br>schaft**4 oder 5, 6**||||2|10|||||||(8)|(8)||Hausarbeit (20 S.)|1|
-||Vertiefungsseminar Italienische Sprachwissenschaft**4**||||2|||||||||(2)|(2)|||
-|**Italienische Sprach-, Literatur-**<br>**und Kulturwissenschaft für das**<br>**Lehramt an Gymnasien 2**|Hauptseminar Italienische Literatur- oder Sprachwissen-<br>schaft**4 oder 5, 6**||||2|5|||||||(3)|(3)|(3)|Referat (ca. 20’)|1|
-||Vertiefungsseminar Italienische Literaturwissenschaft**5**||||2|||||||||(2)|(2)|||
-||Summe SWS und ECTS-Punkte:|2|6||8|25|||||||10|10|5|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br><br>|<br>Gesamt<br>ECTS<br> <br><br>|Workload-Verteilung pr<br>ECTS-Punk<br> <br> <br><br> <br>|o Semes<br>ten<br><br>|ter in<br> <br>|Art und Umfang der<br>Prüfung<br>|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|<br> <br>S<br>1.|<br>2.<br>3.<br>4.<br>5.|6.<br>7.|<br>8.|<br>9.|note|
+|**Abschlussmodul Italienische**|Traduzione Italiano-Tedesco|2|||(2)|<br>(2)|<br>(2)<br>Übersetzung (90’)<br>||
+|**Sprachpraxis**<sup>**1, 2**</sup>|Produzione testuale per la preparazione all’esame di<br>stato|2|5||(3)|<br>(3)|(40 %) und<br>Klausur (90’) (60 %)<br> <br>(3)|1|
+|**Italienische Kulturwissenschaft**<sup>**3**</sup>|VL Einführung in die romanische Kulturwissenschaft /<br>Seminar Kulturwissenschaft|2|5||(2)||(2)<br>Mündliche Prüfung<br>’|1|
+||Italienische Kulturwissenschaft und Landeskunde|2|||(3)|<br>(3)|(30)<br> <br>(3)||
+|**Italienische Sprach-, Literatur-**<br>**und Kulturwissenschaft für das**|Hauptseminar Italienische Literatur- oder Sprachwissen-<br>schaft<sup>**4 oder 5, 6**</sup>||2<br>10||(8)|<br>(8)|<br>Hausarbeit (20 S.)|1|
+|**Lehramt an Gymnasien 1**|Vertiefungsseminar Italienische Sprachwissenschaft<sup>**4**</sup>||2|||(2)|<br> <br>(2)||
+|**Italienische Sprach-, Literatur-**<br>**und Kulturwissenschaft für das**|Hauptseminar Italienische Literatur- oder Sprachwissen-<br>schaft<sup>**4 oder 5, 6**</sup>||2<br>5||(3)|<br>(3)|<br>(3)<br>Referat (ca. 20’)|1|
+|**Lehramt an Gymnasien 2**|Vertiefungsseminar Italienische Literaturwissenschaft<sup>**5**</sup>||2|||(2)|<br> <br>(2)||
+||Summe SWS und ECTS-Punkte:|2<br>6|8<br>25||10|<br>10|<br>5||
 
 - **1** Teilgebiet Sprachpraxis gemäß § 70 Abs. 1 Nr. 3 c) **LPO I** . 
 
@@ -162,21 +167,13 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 ## 3. Im Bereich Fachdidaktik: 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in|Workload-Verteilung pro Semester in||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||ECTS-Punkten||||||||
-|||V|Ü|P||S|||1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|**Basismodul Didaktik**<br>**der romanischen**<br>**Sprachen**|Einführungsseminar in die Didaktik|||||||||||||||||Klausur (90’)_oder_<br>mündl. Präsentation (ca. 20’) mit schriftl.<br>Dokumentation (3-5 S.)_oder_<br>Hausarbeit (ca. 10 S.)_oder_<br>5 Reflexionspapiere(à 1-2 S.) **2**|1|
-||der romanischen Sprachen**1**|||||2|||(3)|(3)|(3)|||||||||
-|||||||||5||||||||||||
-||Proseminar Fachdidaktik Italienisch|||||2||||(2)|(2)|(2)||||||||
-|||||||||||||||||||||
-|**Aufbaumodul Didaktik**<br>**der romanischen**<br>**Sprachen3**|Mittelseminar Fachdidaktik<br>Italienisch|||||2||||||(4)|(4)|(4)|(4)|||Klausur 90’_oder_<br>mündl. Präsentation (ca. 20’)<br>(mit schriftl. Dokumentation (3-5 S.)_oder_<br>Hausarbeit(ca. 15 S.) **2, 3**|1|
-|||||||||5||||||||||||
-||Examensseminar Fachdidaktik der<br>romanischen Srachen|||||||||||||||||||
-|||||||1||||||||(1)|(1)|(1)||||
-||p|||||||||||||||||||
-||Summe SWS undECTS-Punkte:||||||7|10|||5|||5||||||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Worklo<br>1.<br>2.<br>3.|ad-Verte<br>ECT<br> <br>4.|ilung pro Sem<br>S-Punkten<br>5.<br>6.|ester in<br>7.<br>8.<br>9.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|**Basismodul Didaktik**|Einführungsseminar in die Didaktik<br>der romanischen Sprachen<sup>**1**</sup><br>2||(3)<br>(3)<br>(3|)|||Klausur (90’)_oder_<br>mündl. Präsentation (ca. 20’) mit schriftl.||
+|**der romanischen**<br>**Sprachen**|Proseminar Fachdidaktik Italienisch<br>2|5|(2)<br>(2|)<br>(2)|||Dokumentation (3-5 S.)_oder_<br>Hausarbeit (ca. 10 S.)_oder_<br>5 Reflexionspapiere(à 1-2 S.) <sup>**2**</sup>|1|
+|**Aufbaumodul Didaktik**<br>**d ih**|Mittelseminar Fachdidaktik<br>Italienisch<br>2|||(4)|(4)<br>(4)|(4)|Klausur 90’_oder_<br>mündl. Präsentation (ca. 20’)|1|
+|**er romanscen**<br>**Sprachen**<sup>**3**</sup>|Examensseminar Fachdidaktik der<br>romanischen Sprachen<br>1|5|||(1)|(1)<br>(1)|(mit schriftl. Dokumentation (3-5 S.)_oder_<br>Hausarbeit(ca. 15 S.) <sup>**2, 3**</sup>||
+||Summe SWS undECTS-Punkte:<br>7|10|5||5||||
 
 - **1** Werden zwei romanische Sprachen studiert, wird das Einführungsseminar nur in einer Sprache absolviert. In der zweiten Sprache werden stattdessen ein Proseminar (2 ECTS) belegt und eine Angeleitete Lektüre (1 ECTS) abgeleistet. 
 
@@ -188,12 +185,10 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 ## 4. Im Freien Bereich: 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|**Optionsmodul Freier Bereich**<br>**gemäß§ 5**|vgl. § 26a Abs. 3<br>Satz 2**LAPO**|mind. 4 SWS||||5|||||||||5|vgl. § 26a Abs. 3 Satz 2**LAPO**|0|
-|Summe SWS und ECTS-Punkte:||mind. 4 SWS||||5|||||||||5|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS<br>1.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.|-Punkten<br>8.<br>9.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Optionsmodul Freier Bereich**<br>**gemäß§ 5**|vgl. § 26a Abs. 3<br>Satz 2**LAPO**|mind. 4 SWS|5||5|vgl. § 26a Abs. 3 Satz 2**LAPO**|0|
+|Summ|e SWS und ECTS-Punkte:|mind. 4 SWS|5||5|||
 
 5 
 
@@ -203,7 +198,7 @@ Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind folgende Mo
 
 (1) Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die vierte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+(2)<sup>1</sup> Die vierte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 6 
 

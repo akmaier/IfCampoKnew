@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-05-01T06:47:16+00:00
+scraped_at: 2026-07-01T08:24:04+00:00
 ---
 
 # KI - Materialtechnologie (B.Sc.)
@@ -34,6 +34,15 @@ Interessieren Sie sich dafür, wie die Werkstoffe der Zukunft unsere Welt nachha
 Die Bandbreite der Anwendungsmöglichkeiten in der KI-Materialtechnologie erstreckt sich über nahezu alle produzierenden Industriezweige. Deshalb suchen immer mehr Branchen nach Profis auf dem Gebiet der angewandten KI.
 
 Werkstoffe sind allgegenwärtig und halten die Welt am Laufen. Diese Werkstoffe ständig weiterzuentwickeln und zu verbessern ist zwingend erforderlich, um die wichtige Kombination aus Innovation und Nachhaltigkeit zu ermöglichen. KI-Materialtechnologie setzt darauf, die Erkenntnisse aus der Materialwissenschaft auf neuartige Weise anzuwenden, um Technologie und Forschung effizienter und wirtschaftlicher zu gestalten.
+
+### Fachanteile des Studiengangs KI – Materialtechnologie (B.Sc.)
+
+* Werkstoffwissenschaften (41%)
+* Informatik (20%)
+* Mathematik (18%)
+* Wahlfach (12%)
+* Physik (8%)
+* Chemie (2%)
 
 ### Aufbau und Struktur
 
@@ -108,7 +117,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.mat.studium.fau.de/neu-ki-materialtechnologie/)
+* [Modulhandbuch](https://www.mat.studium.fau.de/vor_dem_studium/studiengaenge/ki-materialtechnologie/informationen-zum-studium/)
 * [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/tech/werkstoffwissenschaften/)
 
 Weitere Informationen
@@ -136,8 +145,9 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.mat.studium.fau.de/neu-ki-materialtechnologie/)
+- [Modulhandbuch](https://www.mat.studium.fau.de/vor_dem_studium/studiengaenge/ki-materialtechnologie/informationen-zum-studium/)
 - [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/tech/werkstoffwissenschaften/)
+- [Webseite des Studiengangs](https://www.mat.studium.fau.de/neu-ki-materialtechnologie/)
 - [Prüfungsamt Technische Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-tech/)
 - [Webseite des Departments/Instituts](https://www.mat.studium.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)

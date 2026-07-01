@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/6AES%20LA-Englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:05:58+00:00
-page_count_chars: 5632
+scraped_at: 2026-07-01T08:37:21+00:00
+page_count_chars: 5662
 ---
 
 # 26. März 2012
@@ -12,13 +12,13 @@ page_count_chars: 5632
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/6AES%20LA-Englisch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 26. März 2012 
+# Vom 26. März 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzung vom 28. März 2011, wird wie folgt geändert: 
 
@@ -28,34 +28,36 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 
    - b) Abs. 2 und 3 erhalten folgende Fassung: 
 
-## „(2) Im Bereich der Fachdidaktik werden folgende Module angeboten: 
+# <u>„(2) Im Bereich der Fachdidaktik werden folgende Module angeboten:</u> 
 
 |**FS**|**Modul**|**Veranstaltungen**<br>**/ Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
 |1.-4.|Basismodul<br>Englischdidaktik|Einführung TEFL<br>Proseminar|2<br>2|5|PL TEFL: K (90 Min.)<br>SL PS: mdl. Präsentation oder HA oder<br>regelmäßige schriftliche<br>Reflexionspapiere|
 |empf.<br>ab<br>dem 7.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation oder<br>HA<br>SL EK: mdl. Präsentation oder<br>schriftliche Dokumentation|
 
-## Im Freien Bereich wird folgendes Modul angeboten: 
+# <u>Im Freien Bereich wird folgendes Modul angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen**<br>**/ Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**|
 |---|---|---|---|---|---|
+|||**/ Art**|||**Zulassungsvoraussetzungen**|
 |empf.<br>ab<br>dem<br>7.|Optionsmodul<br>L-GYM<br>Englischdidaktik|Hauptseminar|2|5|ZulVSS: Basismodul<br>PL HS: K oder mdl. Präsentation oder<br>HA|
 
-## (3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
+# (3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum <u>angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstal-**<br>**tungen / Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstal-**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**|
 |---|---|---|---|---|---|
+|||**tungen / Art**|||**Zulassungsvoraussetzungen**|
 |7.-9.|Praxismodul<br>Englischdidaktik|Begleitseminar<br>(unbenotet)|2 (+ 4<br>an der<br>Schule)|5|ZulVSS: Basismodul<br>SL: Regelmäßige Teilnahme und<br>Erarbeitung eines Stundenentwurfs|
 
 „ 
 
-## 2. § 4 wird wie folgt geändert: 
+# 2. § 4 wird wie folgt geändert: 
 
 - a) In allen Tabellen wird in der Überschrift zu Spalte 6 das Wort „Prüfung“ durch die Worte “Prüfungs- und Studienleistungen“ ersetzt. 
 
-## b) Abs. 2 bis 4 erhalten folgende Fassung: 
+# b) Abs. 2 bis 4 erhalten folgende Fassung: 
 
-„(2) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts an Realschulen folgende Module angeboten: 
+„(2) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts <u>an Realschulen folgende Module angeboten:</u> 
 
 |**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
@@ -63,7 +65,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 |empf.<br>ab<br>dem<br>5.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation oder<br>HA<br>SL EK: mdl. Präsentation oder<br>schriftliche Dokumentation|
 |empf.<br>ab<br>dem<br>6.|Vertiefungsmodul<br>Englischdidaktik|Übung Fachdidaktik<br>(z. B. Classroom<br>Language,<br>Classroom<br>Research etc.)|2|2|ZulVSS: Basismodul<br>PL: K oder mdl. Präsentation oder HA|
 
-(3) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts an Grund- und Hauptschulen folgende Module angeboten: 
+(3) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts <u>an Grund- und Hauptschulen folgende Module angeboten:</u> 
 
 |**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
@@ -71,14 +73,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 |empf.<br>ab<br>dem<br>5.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation oder<br>HA<br>SL EK: mdl. Präsentation oder<br>schriftliche Dokumentation|
 |empf.<br>ab<br>dem<br>6.|Vertiefungsmodul<br>Englischdidaktik|Übung Fachdidaktik<br>(z. B. Classroom<br>Language,<br>Classroom Research<br>etc.)|2|2|ZulVSS: Basismodul<br>PL: K oder mdl. Präsentation oder HA|
 
-- (4) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
+- (4) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum <u>angeboten:</u> 
 
 |FS|**Modul**|**Veranstaltungen / Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
-|3.-5.|Praxismodul<br>Englischdidak-<br>tik|Begleitseminar<br>(unbenotet)|2 (+ 4<br>an der<br>Schule)|5|ZulVSS: Basismodul<br>SL: Regelmäßige Teilnahme und<br>Erarbeitung eines Stundenentwurfs|
-|||||||
+|3.-5.|Praxismodul<br>Englischdidak-<br>tik|Begleitseminar<br>(unbenotet)|2 (+ 4<br>an der<br>Schule)|5|ZulVSS: Basismodul<br>SL: Regelmäßige Teilnahme und<br>Erarbeitung eines Stundenentwurfs<br>„|
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2012 in Kraft. 2Sie gilt für alle Studierenden, die Ihr Studium ab dem Sommersemester 2012 aufnehmen. 
 

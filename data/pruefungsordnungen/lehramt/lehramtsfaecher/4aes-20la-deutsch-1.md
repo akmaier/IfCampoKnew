@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. November 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20LA-Deutsch_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:04:30+00:00
-page_count_chars: 7061
+scraped_at: 2026-07-01T08:36:35+00:00
+page_count_chars: 7101
 ---
 
 # 29. November 2011
@@ -14,11 +14,11 @@ page_count_chars: 7061
 
 **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 29. November 2011 
+# Vom 29. November 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzungen vom 28. März 2011, wird wie folgt geändert: 
 
@@ -36,13 +36,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudienga
 
 4. In § 4 wird folgender Abs. 3 angefügt: 
 
-„(3)[1] Das Studium der Didaktik des Deutschen als Zweitsprache kann im Bereich Fachdidaktik der Fächergruppe im Studium des Lehramts an Grund- und Hauptschulen gewählt werden.[2] Es gliedert sich in ein Basis- und ein Aufbaumodul.[3] Darüber hinaus kann das zusätzliche studienbegleitende fachdidaktische Praktikum im Lehramtsstudium für Hauptschule sowie das fachdidaktische Blockpraktikum im Lehramtsstudium für Grundschule und Hauptschule im Fach Didaktik des Deutschen als Zweitsprache abgelegt werden.[4] Das zusätzliche studienbegleitende Praktikum wird in einer Schule im Inland absolviert, das fachdidaktische Blockpraktikum kann entweder im Inland oder im Ausland absolviert werden.[5] Schließlich können von Studierenden des Lehramts Grundschule Veranstaltungen im Rahmen des freien Bereichs gewählt werden. „ 
+„(3)<sup>1</sup> Das Studium der Didaktik des Deutschen als Zweitsprache kann im Bereich Fachdidaktik der Fächergruppe im Studium des Lehramts an Grund- und Hauptschulen gewählt werden.<sup>2</sup> Es gliedert sich in ein Basis- und ein Aufbaumodul.<sup>3</sup> Darüber hinaus kann das zusätzliche studienbegleitende fachdidaktische Praktikum im Lehramtsstudium für Hauptschule sowie das fachdidaktische Blockpraktikum im Lehramtsstudium für Grundschule und Hauptschule im Fach Didaktik des Deutschen als Zweitsprache abgelegt werden.<sup>4</sup> Das zusätzliche studienbegleitende Praktikum wird in einer Schule im Inland absolviert, das fachdidaktische Blockpraktikum kann entweder im Inland oder im Ausland absolviert werden.<sup>5</sup> Schließlich können von Studierenden des Lehramts Grundschule Veranstaltungen im Rahmen des freien Bereichs gewählt werden. „ 
 
 5. In der Überschrift von §§ 5, 6 und 7 werden jeweils die Worte „für das Fach Deutsch“ angefügt. 
 
 6. Nach § 7 wird folgender neuer § 8 eingefügt: 
 
-## „ **§ 8 Inhalt, Aufbau und Gliederung des Studiums für das Fach Didaktik des Deutschen als Zweitsprache** 
+# „ **§ 8 Inhalt, Aufbau und Gliederung des Studiums für das Fach Didaktik des Deutschen als Zweitsprache** 
 
 1 
 
@@ -88,14 +88,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudienga
 
 |**Sem.**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|
-|3 oder 4||3|Praktikumsnachweis|
-|||||
+|3 oder 4||3|Praktikumsnachweis<br>“|
 
 7. Der bisherige § 8 wird zu § 9. 
 
 8. Das Inhaltsverzeichnis ist entsprechend anzupassen. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

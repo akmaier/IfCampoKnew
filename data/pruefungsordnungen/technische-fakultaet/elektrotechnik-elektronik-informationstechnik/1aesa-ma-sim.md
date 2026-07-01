@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-MA-SIM.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:36+00:00
-page_count_chars: 2303
+scraped_at: 2026-07-01T11:33:35+00:00
+page_count_chars: 2311
 ---
 
 # 25. Juli 2008
@@ -14,7 +14,7 @@ page_count_chars: 2303
 
 # **Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang Systeme der Informations- und Multimediatechnik (SIM) des Elitenetzwerks Bayern der Technischen Fakultät an der Universität Erlangen-Nürnberg** 
 
-## Vom 25. Juli 2008 
+# Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -38,7 +38,7 @@ Die Fachprüfungsordnung für den Masterstudiengang Systeme der Informationsund 
 
    - b) Satz 2 wird wie folgt neu gefasst: 
 
-„[2] Wird die Arbeit im Team durchgeführt, bearbeiten 3 bis 5 Studenten gemeinsam und gleichzeitig einen umfassenden Themenkomplex, wobei der Einzelbeitrag im Umfang einer „Studienarbeit“ bzw. „Bachelor-Arbeit“ entspricht.“ 
+„<sup>2</sup> Wird die Arbeit im Team durchgeführt, bearbeiten 3 bis 5 Studenten gemeinsam und gleichzeitig einen umfassenden Themenkomplex, wobei der Einzelbeitrag im Umfang einer „Studienarbeit“ bzw. „Bachelor-Arbeit“ entspricht.“ 
 
 Diese Satzung tritt am 1. Oktober 2008 in Kraft. 
 

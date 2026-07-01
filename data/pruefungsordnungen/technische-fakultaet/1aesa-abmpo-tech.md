@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_ABMPO_Tech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:13+00:00
-page_count_chars: 2394
+scraped_at: 2026-07-01T11:16:18+00:00
+page_count_chars: 2417
 ---
 
 # 25. Juli 2008
@@ -12,13 +12,13 @@ page_count_chars: 2394
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_ABMPO_Tech.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## **Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak –** 
+# **Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak –** 
 
 Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+**§ 1** 
 
 Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak – vom 18. September 2007 wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an de
 
    - a) Es wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Zu den Prüfungen der Grundlagen- und Orientierungsprüfungen gelten die Studierenden abweichend von Satz 1 als in dem Semester angemeldet, zu dem das Lehrangebot gemäß der jeweils anzuwendenden Fachprüfungsordnung gehört.“ 
+„<sup>2</sup> Zu den Prüfungen der Grundlagen- und Orientierungsprüfungen gelten die Studierenden abweichend von Satz 1 als in dem Semester angemeldet, zu dem das Lehrangebot gemäß der jeweils anzuwendenden Fachprüfungsordnung gehört.“ 
 
    - b) Der bisherige Satz 2 wird Satz 3. 
 
@@ -38,13 +38,13 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an de
 
 3.  § 28 Abs. 1 Satz 1 wird wie folgt gefasst: 
 
-„[1] Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder 
+„<sup>1</sup> Mit Ausnahme der Grundlagen- und Orientierungsprüfung sowie der Bachelorarbeit kann jede nicht bestandene Modulprüfung oder 
 
 Modulteilprüfung zweimal wiederholt werden; Studienleistungen können beliebig oft wiederholt werden. 
 
 4. § 29 Abs. 2 Satz 2 erhält folgende Fassung: 
 
-„[2] Sie müssen das Qualifikationsfeststellungsverfahren erfolgreich durchlaufen haben (Anlage 1).“ 
+„<sup>2</sup> Sie müssen das Qualifikationsfeststellungsverfahren erfolgreich durchlaufen haben (Anlage 1).“ 
 
 **§ 2** 
 

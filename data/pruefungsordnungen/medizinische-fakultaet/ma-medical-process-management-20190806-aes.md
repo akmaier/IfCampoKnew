@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Medical Process Management 20190806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Medical_Process_Management/Aenderungssatzungen/MA_Medical_Process_Management_20190806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:22:28+00:00
-page_count_chars: 7845
+scraped_at: 2026-07-01T08:47:03+00:00
+page_count_chars: 7837
 ---
 
 # MA Medical Process Management 20190806 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 7845
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Medical_Process_Management/Aenderungssatzungen/MA_Medical_Process_Management_20190806_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Fünfte Satzung zur Änderung der Prüfungsordnung für den Masterstudiengang Medical Process Management der Medizinischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPM –** 
+# **Fünfte Satzung zur Änderung der Prüfungsordnung für den Masterstudiengang Medical Process Management der Medizinischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPM –** 
 
-## **Vom 6. August 2019** 
+# **Vom 6. August 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Masterstudiengang Medical Process Management der Medizinischen Fakultät der FAU – MPM – vom 7. November 2008, zuletzt geändert durch Satzung vom 13. März 2018, wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ Die Prüfungsordnung für den Masterstudiengang Medical Process Management der M
 
       - bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-         - „[5] Der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.“ 
+         - „<sup>5</sup> Der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.“ 
 
 1 
 
@@ -60,23 +60,23 @@ Die Prüfungsordnung für den Masterstudiengang Medical Process Management der M
 
    - b) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-      - „[3] § 8 Abs. 4 und 5 gelten entsprechend.“ 
+      - „<sup>3</sup> § 8 Abs. 4 und 5 gelten entsprechend.“ 
 
 8.  In § 12 Abs. 1 Satz 1 wird nach den Worten „Prüfungsleistungen, die in“ das Wort „anderen“ eingefügt. 
 
-## 9. § 17 wird wie folgt geändert: 
+9. § 17 wird wie folgt geändert: 
 
-- a) In Abs. 2 werden nach den Worten „prüfungsberechtigten Personen setzt“ die Worte „jede bzw.“ eingefügt. 
+   - a) In Abs. 2 werden nach den Worten „prüfungsberechtigten Personen setzt“ die Worte „jede bzw.“ eingefügt. 
 
-- b) In Abs. 4 Satz 1 Halbsatz 2 werden nach den Worten „auf Verlangen der“ die Worte „Prüfungskandidatinnen bzw.“ eingefügt. 
+   - b) In Abs. 4 Satz 1 Halbsatz 2 werden nach den Worten „auf Verlangen der“ die Worte „Prüfungskandidatinnen bzw.“ eingefügt. 
 
-## 10. § 18 wird wie folgt geändert: 
+# 10. § 18 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
 aa)   In Satz 1 wird in der Tabelle folgende neue erste Zeile eingefügt: 
 
-## „ 
+# <u>„</u> 
 
 **Prädikat Notenstufe Erläuterung** 
 
@@ -92,11 +92,11 @@ aa)   In Satz 1 wird in der Tabelle folgende neue erste Zeile eingefügt:
 
 12. In § 25 Abs. 3 Satz 3 werden nach dem Wort „gewährt“ das Zeichen „;“ und die Worte „im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatrikulation“ eingefügt. 
 
-## 13. § 28 wird wie folgt geändert: 
+# 13. § 28 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach Satz 3 folgende neue Sätze 4 und 5 angefügt: 
 
-„[4] Der Gesamtumfang der Masterarbeit darf 50.000 Wörter nicht überschreiten. 5Nähere Informationen sind dem Modulhandbuch zu entnehmen.“ 
+„<sup>4</sup> Der Gesamtumfang der Masterarbeit darf 50.000 Wörter nicht überschreiten. 5Nähere Informationen sind dem Modulhandbuch zu entnehmen.“ 
 
 - b) Abs. 3 wird wie folgt geändert: 
 
@@ -104,13 +104,13 @@ aa)   In Satz 1 wird in der Tabelle folgende neue erste Zeile eingefügt:
 
 bb)  Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität ist grundsätzlich gestattet, wenn sich eine Betreuerin bzw. ein Betreuer i. S. d. Satz 1 bereit erklärt, die Betreuung von Seiten der FAU zu übernehmen.“ 
+„<sup>3</sup> Die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität ist grundsätzlich gestattet, wenn sich eine Betreuerin bzw. ein Betreuer i. S. d. Satz 1 bereit erklärt, die Betreuung von Seiten der FAU zu übernehmen.“ 
 
 14.  Nach § 31 Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-   - „(4) Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.“ 
+- „(4) Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.“ 
 
-## 15. **Anlage 1** wird wie folgt geändert: 
+# 15. **Anlage 1** wird wie folgt geändert: 
 
 - a) In Zeile 3 (1.2 Medizinmanagement I) werden in Spalte 2 (Lehrveranstaltung) Unterzeile 2 (Qualitätsmanagement – Managementwissen) die Worte „Qualitätsmanagement – Managementwissen“ durch die Worte „Strategisches Qualitätsmanagement“ ersetzt. 
 
@@ -130,11 +130,11 @@ bb)  Nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 - e) Zeile 22 (Summe und ECTS) erhält folgende neue Fassung: 
 
-|„||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||54|0|15|5||30|30|30|30|||
-|Summe SWS und ECTS|74||||120|||||||
-|“||||||||||||
+<u>„</u> Summe SWS und ECTS “ 
+
+|54<br>0<br>15<br>5|30<br>30|30|30|
+|---|---|---|---|
+|74<br>120||||
 
 16. In **Anlage 2** wird in Abs. 2 Satz 2 Nr. 1 nach dem Verweis auf „§ 25 Abs.“ die Zahl „4“ durch die Zahl „3“ ersetzt. 
 

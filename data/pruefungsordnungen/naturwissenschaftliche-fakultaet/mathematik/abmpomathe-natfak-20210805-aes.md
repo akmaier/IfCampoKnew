@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "ABMPOMathe-NatFak 20210805 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210805_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:47:38+00:00
-page_count_chars: 5921
+scraped_at: 2026-07-01T09:11:38+00:00
+page_count_chars: 5963
 ---
 
 # ABMPOMathe-NatFak 20210805 ÄS.pdf
@@ -12,19 +12,19 @@ page_count_chars: 5921
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/ABMPO_Mathe_NatFak/Aenderungssatzungen/ABMPOMathe-NatFak_20210805_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Fünfte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge Data Science, Mathematik, Technomathematik und Wirtschaftsmathematik sowie die Masterstudiengänge Data Science, Mathematik, Computational and Applied Mathematics und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak –** 
+**Fünfte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge Data Science, Mathematik, Technomathematik und Wirtschaftsmathematik sowie die Masterstudiengänge Data Science, Mathematik, Computational and Applied Mathematics und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak –** 
 
-## **Vom 5. August 2021** 
+# **Vom 5. August 2021** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge Data Science, Mathematik, Technomathematik und Wirtschaftsmathematik sowie die Masterstudiengänge Data Science, Mathematik, Computational and Applied Mathematics und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak – vom 11. März 2015, zuletzt geändert durch Satzung vom 11. März 2021, wird wie folgt geändert: 
 
 1. In § 6 Abs. 3 wird nach Satz 2 folgender neuer Satz 3 eingefügt, die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5: 
 
-„[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
+„<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
 
 2. § 9 wird wie folgt geändert: 
 
@@ -44,7 +44,7 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge Data
 
 3. In § 10 Abs. 1 wird nach Satz 3 folgender neuer Satz 4 eingefügt, der bisherige Satz 4 wird zu Satz 5: 
 
-„[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.“ 
+„<sup>4</sup> Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.“ 
 
 4. § 12 wird wie folgt geändert: 
 
@@ -64,7 +64,7 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge Data
 
 5. In § 17 Abs. 1 werden nach Satz 2 folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Schriftliche Prüfungen können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.[4] Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
+„<sup>3</sup> Schriftliche Prüfungen können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.<sup>4</sup> Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
 
 6. In § 20 Abs. 5 Satz 1 werden nach den Worten „Modulnoten aus dem“ die Worte „nach ECTS-Punkten gewichteten Durchschnitt“ durch die Worte „arithmetischen Mittel“ ersetzt. 
 
@@ -76,11 +76,11 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge Data
 
 9. In § 36 wird nach Abs. 5 folgender neuer Abs. 6 angefügt: 
 
-„(6)[1] Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 treten die Änderungen in § 20 Abs. 5 Satz 1 am 1. Oktober 2023 in Kraft und gelten für alle Studierenden, die zu diesem Zeitpunkt die betroffenen Module noch nicht vollständig abgeschlossen haben (Modulnotenfestsetzung noch nicht erfolgt).“ 
+„(6)<sup>1</sup> Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 treten die Änderungen in § 20 Abs. 5 Satz 1 am 1. Oktober 2023 in Kraft und gelten für alle Studierenden, die zu diesem Zeitpunkt die betroffenen Module noch nicht vollständig abgeschlossen haben (Modulnotenfestsetzung noch nicht erfolgt).“ 
 
 10. In der **Anlage** werden in Abs. 5 Satz 10 nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 treten die Änderungen in der lfd. Nr. 6 (§ 20 Abs. 5 Satz 1) am 1. Oktober 2023 in Kraft und gelten für alle Studierenden, die zu diesem Zeitpunkt die betroffenen Module noch nicht vollständig abgeschlossen haben (Modulnotenfestsetzung noch nicht erfolgt). 
 

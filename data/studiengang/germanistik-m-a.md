@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:45:43+00:00
+scraped_at: 2026-07-01T08:22:21+00:00
 ---
 
 # Germanistik (M.A.)
@@ -80,7 +80,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Sprachkenntnisse
 
-* Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen bereits zum Zeitpunkt der Bewerbung zusätzlich den Nachweis deutscher Sprachkenntnisse auf dem Niveau C 2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen (insbesondere Goethe-Zertifikat C2:GDS oder telc Deutsch C 2) oder einen vergleichbaren Nachweis (DSH-3 oder TestDaF 5).
+* Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen bereits zum Zeitpunkt der Bewerbung zusätzlich den Nachweis deutscher Sprachkenntnisse auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen (insbesondere Goethe-Zertifikat C2:GDS oder telc Deutsch C2) oder einen vergleichbaren Nachweis (DSH-3 oder TestDaF 5).
 * Deutschkenntnisse für internationale Studierende: [DSH 3](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 
 ### Voraussetzungen für Master
@@ -88,7 +88,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * Als Gesamtnote des vorgängigen Hochschulabschlusses genügt ein mindestens „gut“ (2,5); bei einer Gesamtnote von 2,51 bis 3,00 absolvieren die Bewerber\*innen ein individuelles Aufnahmegespräch.
 * Für eine Bewerbung im laufenden Abschlusssemester des B.A.-Studiums reicht der Nachweis von 140 ECTS-Punkten aus.
 
-Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen **bereits zum Zeitpunkt der Bewerbung** zusätzlich den Nachweis deutscher Sprachkenntnisse auf dem Niveau **C 2** des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen (insbesondere Goethe-Zertifikat C2:GDS oder telc Deutsch C 2) oder einen vergleichbaren Nachweis (**DSH-3** oder **TestDaF 5**).
+Bewerberinnen und Bewerber, die keinen deutschen Studienabschluss oder die deutsche Hochschulreife vorlegen können, benötigen **bereits zum Zeitpunkt der Bewerbung** zusätzlich den Nachweis deutscher Sprachkenntnisse auf dem Niveau **C2** des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen (insbesondere Goethe-Zertifikat C2:GDS oder telc Deutsch C2) oder einen vergleichbaren Nachweis (**DSH-3** oder **TestDaF 5**).
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -153,7 +153,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.germanistik.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU](https://www.fau.de/wp-content/uploads/sites/4/2026/04/germanistik_grass_poetikkolleg_2204_1240-1.jpg)
+- [FAU](https://www.fau.de/wp-content/uploads/sites/4/2026/05/germanistik_grass_poetikkolleg_2204_1240-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

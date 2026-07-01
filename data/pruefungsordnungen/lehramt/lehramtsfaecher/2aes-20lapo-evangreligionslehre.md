@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Juni 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LAPO-EvangReligionslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:55+00:00
-page_count_chars: 7194
+scraped_at: 2026-07-01T08:37:51+00:00
+page_count_chars: 7180
 ---
 
 # 9. Juni 2011
@@ -14,11 +14,11 @@ page_count_chars: 7194
 
 **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. Juni 2011 
+# Vom 9. Juni 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, geändert durch Satzung vom 1. Dezember 2009, wird wie folgt geändert: 
 
@@ -26,23 +26,22 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre 
 
 2. § 5 wird wie folgt geändert: 
 
-## a) Absatz 1 wird wie folgt geändert: 
+# a) Absatz 1 wird wie folgt geändert: 
 
 aa) In Tabelle 1 erhalten Zeilen 2 (Modul Grundkurs: Einführung in die Theologie) bis 10 (Modul Altes Testament 1) folgende Fassung: 
 
 „ 
 
-|„||||
-|---|---|---|---|
 |**Einführung in die Theologie**<br>**(Beginn nur im WS):**||10||
+|---|---|---|---|
 |Grundkurs: Einführung in die Theologie (mit<br>einem Einführungswochenende)|2V/Ü|2|Studienleistung|
 |Übung: Einführung in die Religionspädagogik|2 Ü|2|Studienleistung|
 |Bibelkunde NT|2 Ü|2|Studienleistung|
 |Bibelkunde AT|2 Ü|2|Studienleistung|
 |Prüfung Bibelkunde||2|Klausur oder mdl.<br>Prüfung|
 |Altes Testament 1|4|5||
-|Einführung in die exegetischen Methoden|2PS|2/3**|Klausur o./u.<br>mündliche Prüfung<br>o./u. HA|
-|Geschichte Israels/Religionsgeschichte Israels|2V|2/3**||
+|Einführung in die exegetischen Methoden|2PS|2/3**|Klausur o./u.<br>mündliche Prüfung|
+|Geschichte Israels/Religionsgeschichte Israels|2V|2/3**|o./u. HA|
 
 „ 
 
@@ -70,58 +69,54 @@ aa) In Tabelle 1 erhalten Zeilen 2 (Modul Grundkurs: Einführung in die Theologi
 
 „ 
 
-|„||||
-|---|---|---|---|
-|Kirchengeschichte im Überblick 1 o. 2 o. 3 o. 4<br>**_oder_**<br>Spezialproblem/-thema der Kirchengeschichte|2V<br>**_oder_**<br>2V/Ü/HS|2/3**|Klausur o./u.<br>mündliche Prüfung<br>o./u. HA|
-|Spezialproblem/-thema der Kirchengeschichte|2V/Ü/HS|2/3**||
-|||||
+Kirchengeschichte im Überblick 1 o. 2 o. 3 o. 4 2V 2/3** Klausur o./u. **_oder oder_** mündliche Prüfung Spezialproblem/-thema der Kirchengeschichte 2V/Ü/HS o./u. HA Spezialproblem/-thema der Kirchengeschichte 2V/Ü/HS 2/3** „ 
 
 ii) Nach der Tabelle 1 werden folgende Erläuterungen angefügt: 
 
-- „PS = Proseminar, MS = Mittelseminar, HS = Hauptseminar“ 
+„PS = Proseminar, MS = Mittelseminar, HS = Hauptseminar“ 
 
 - jj) In Tabelle 3 Zeile 24 Spalte 4 (Wahlmodul Spracherwerb) wird das Wort 
 
-   - „Klausur“ eingefügt. 
+„Klausur“ eingefügt. 
 
-- kk) In Fußnote 1 (neu) erhält Satz 1 folgende Fassung: 
+kk) In Fußnote 1 (neu) erhält Satz 1 folgende Fassung: 
 
-- „[1] Von den folgenden Wahlmodulen sind mindestens vier zu belegen, davon sollte eines im Bachelorbereich und drei im Masterbereich liegen.“ 
+„<sup>1</sup> Von den folgenden Wahlmodulen sind mindestens vier zu belegen, davon sollte eines im Bachelorbereich und drei im Masterbereich liegen.“ 
 
-## b) Absatz 2 wird wie folgt geändert: 
+# b) Absatz 2 wird wie folgt geändert: 
 
 - aa)  In Zeile 4 Spalte 1 (Modul Fachdidaktik 1) werden die Worte „zum Seminar“ gestrichen. 
 
 - bb)  In Zeilen 3 und 4 Spalte 4 (Modul Fachdidaktik 1) werden die Worte „mit Praxisreflektion“ gestrichen. 
 
-- cc)  In Zeile 5 Spalte 1 (Modul Fachdidaktik 2) wird die hochgestellte „[3] “ gestrichen. 
+- cc)  In Zeile 5 Spalte 1 (Modul Fachdidaktik 2) wird die hochgestellte „<sup>3</sup> “ gestrichen. 
 
 - dd)  In Zeile 7 Spalte 1 (Modul Fachdidaktik 2) wird der Klammerzusatz „(Wahlbereich)“ gestrichen. 
 
-## c) Absatz 3 erhält folgende Fassung: 
+# c) Absatz 3 erhält folgende Fassung: 
 
-- „(3) Im Freien Bereich kann ein Modul entweder aus den Modulen des Schwerpunktwahlbereichs oder aus folgenden Modulen gewählt werden: 
+„(3) Im Freien Bereich kann ein Modul entweder aus den Modulen des <u>Schwerpunktwahlbereichs oder aus folgenden Modulen gewählt werden:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen***|
 |---|---|---|---|
 |**Wahlmodul Fachdidaktik**|**3- 4**|**5**||
-|TheorienundThemender Religionsdidaktik|2V/S|2/3**|Eine Klausur o./u.<br>mündliche Prüfung o./u.<br>HA|
-|Übung/Seminar zur Religionsdidaktik|1 - 2 S/Ü|2/3**||
-|**Wahlmodul Theologie und Geschichte des christl. Ostens**|**4**|**5**||
-|Thema aus der Theologie und Geschichte des christl.Ostens|2V/S/Ü|2/3**|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Thema aus der Theologie und Geschichte des christl.Ostens|2V/S/Ü|2/3**||
+|TheorienundThemender Religionsdidaktik|2V/S|2/3**|Eine Klausur o./u.|
+|Übung/Seminar zur Religionsdidaktik|1 - 2 S/Ü|2/3**|mündliche Prüfung o./u.<br>HA|
+|**Wahlmodul Theologie und Geschichte des christl. Ostens**|**4**<br>|**5**||
+|Thema aus der Theologie und Geschichte des christl.Ostens|2V/S/Ü<br>|2/3**|Klausur o./u. mündliche|
+|Thema aus der Theologie und Geschichte des christl.Ostens|2V/S/Ü|2/3**|Prüfungo./u. HA|
 |**Wahlmodul Christliche Archäologie**|**4**|**5**||
-|Thema aus derChristlichen Archäologie|2V/S/Ü|2/3**|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Thema aus derChristlichen Archäologie|2V/S/Ü|2/3**||
+|Thema aus derChristlichen Archäologie|2V/S/Ü|2/3**|Klausur o./u. mündliche|
+|Thema aus derChristlichen Archäologie|2V/S/Ü|2/3**|Prüfungo./u. HA|
 |**Wahlmodul Christliche Publizistik**|**4**|**5**||
-|Thema aus derChristlichen Publizistik|2V/S/Ü|2/3**|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Thema aus derChristlichen Publizistik|2V/S/Ü|2/3**||
+|Thema aus derChristlichen Publizistik|2V/S/Ü<br>|2/3**|Klausur o./u. mündliche|
+|Thema aus derChristlichen Publizistik|2V/S/Ü|2/3**|Prüfungo./u. HA|
 
 „ 
 
-## d) In Abs. 4 Zeile 3 Spalte 4 wird „+ Praktikumsbericht“ gestrichen. 
+# d) In Abs. 4 Zeile 3 Spalte 4 wird „+ Praktikumsbericht“ gestrichen. 
 
-## e) Folgender Abs. 5 wird angefügt: 
+# e) Folgender Abs. 5 wird angefügt: 
 
 - „(5) Falls die schriftliche Hausarbeit im Fach Evangelische Religion angefertigt wird, ist folgendes Modul erfolgreich abzulegen: 
 
@@ -129,38 +124,36 @@ ii) Nach der Tabelle 1 werden folgende Erläuterungen angefügt:
 |---|---|---|---|
 |**Modul Schriftliche Hausarbeit**||**10**||
 |SchriftlicheHausarbeit||9|Schriftliche Hausarbeit|
-|Kolloquium zur Besprechung derSchriftlichen Hausarbeit|1KO|1||
-||||„|
+|Kolloquium zur Besprechung derSchriftlichen Hausarbeit|1KO|1|<br>„|
 
-## f) Die Fußnote 2 (neu) wird gestrichen. 
+# f) Die Fußnote 2 (neu) wird gestrichen. 
 
 3. In § 6 Abs. 1 wird wie folgt geändert: 
 
-   - a) In Zeile 2 Spalte 3 (Modul Einführung in Theologie und Religionspädagogik) wird die Fußnote „[4] “ durch die Fußnote „[2] “ ersetzt. 
+   - a) In Zeile 2 Spalte 3 (Modul Einführung in Theologie und Religionspädagogik) wird die Fußnote „<sup>4</sup> “ durch die Fußnote „<sup>2</sup> “ ersetzt. 
 
    - b) Die Zeilen 7 und 8 (Modul Biblische Theologie 1) erhalten folgende Fassung. 
 
 „ 
 
-|„||||
-|---|---|---|---|
 |Einführung in den Umgang mit dem AT|2PS|2|Semesterbegleitende<br>Leistungen in Form<br>eines Portfolios|
-|AT-Überblicksvorlesung4|2V|2|Teilnahme|
-|||||
+|---|---|---|---|
+|AT-Überblicksvorlesung<sup>4</sup>|2V|2|Teilnahme|
+||||“|
 
    - c) In Zeile 20 Spalte 2 (Modul Biblische Theologie 2) werden die Buchstaben „MS“ durch „V/Ü“ ersetzt. 
 
    - d) Nach der Tabelle werden folgende Erläuterungen angefügt: „PS = Proseminar, MS = Mittelseminar“ 
 
-   - e) Die Fußnote „[3] “ wird zu Fußnote „[2] “. Folgende neue Fußnote wird eingefügt: „[3] z. B. Geschichte Israels, Einführung in das Alte Testament“ 
+   - e) Die Fußnote „<sup>3</sup> “ wird zu Fußnote „<sup>2</sup> “. Folgende neue Fußnote wird eingefügt: „<sup>3</sup> z. B. Geschichte Israels, Einführung in das Alte Testament“ 
 
 4. In § 7 werden nach der Tabelle folgende Erläuterungen angefügt: 
 
    - „PS = Proseminar, MS = Mittelseminar“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. April 2011 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Sommersemester 2011 aufnehmen.[3] Abweichend von Satz 1 finden die Änderungen für das Modul „Altes Testament 1“ für alle Studierenden  ab dem Wintersemester 2010/2011 Anwendung. 
+1Diese Änderungssatzung tritt am 1. April 2011 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Sommersemester 2011 aufnehmen.<sup>3</sup> Abweichend von Satz 1 finden die Änderungen für das Modul „Altes Testament 1“ für alle Studierenden  ab dem Wintersemester 2010/2011 Anwendung. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 24. November 2010 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 3. Juni 2011 Nr. III.1-5 S 4067- RA.005818. 
 

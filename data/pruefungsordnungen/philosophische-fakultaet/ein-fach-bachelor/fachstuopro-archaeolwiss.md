@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO_ArchaeolWiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:06:32+00:00
-page_count_chars: 12438
+scraped_at: 2026-07-01T09:28:58+00:00
+page_count_chars: 12615
 ---
 
 # PDF vom 09.10.2007 i.d.F. 05.11.2010
@@ -28,7 +28,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Archäologische Wissenschaften wird im Ein-Fach-Bachelorstudiengang mit einem Umfang von 150 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten studiert; hinzu kommen 20 ECTS-Punkte für Module, die zusätzliche berufsfeldorientierte Schlüsselqualifikationen vermitteln. 
 
-(2)[1] Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der Ur- und frühgeschichtlichen, Klassischen und Christlichen Archäologie zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der Ur- und frühgeschichtlichen, Klassischen und Christlichen Archäologie zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Das Studium der Archäologischen Wissenschaften im Bachelorstudiengang gewährleistet eine fundierte fachwissenschaftliche wie praxisbezogene Ausbildung, die die Studierenden zu einem Überblick über die kulturelle Entwicklung der Alten Welt, zu kritisch methodischer Analyse von Funden und Befunden und zu kulturgeschichtlicher Interpretation befähigt. 
 
@@ -80,15 +80,15 @@ Als dritte Fremdsprache im Sinne des § 28 Abs. 2 Satz 3 ABMStPO/Phil müssen im
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1) Im Studium der Archäologischen Wissenschaften sind folgende Module erfolgreich abzulegen: 
+(1) Im Studium der Archäologischen Wissenschaften sind folgende Module erfolg- <u>reich abzulegen:</u> 
 
 ||**Modul**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |AR 01|Orientierungsmodul I|10||
 |1. FS|Einführung in das wissenschaftliche Arbeiten der Archäologie<br>(2 SWS)|5|Klausur (benotet),<br>45 Minuten|
 |2. FS|Einführung in die Methoden der Archäologie (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
-|AR 02|Orientierungsmodul II|10||
-|1. FS|Einführung in die Prähistorische Archäologie: Überblick über<br>die steinzeitlichen Kulturen (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
+|AR 02|Orientierungsmodul II<br>|10||
+|1. FS|Einführung in die Prähistorische Archäologie: Überblick über<br>die steinzeitlichen Kulturen (2 SWS)<br>|5|Klausur (benotet),<br>45 Minuten|
 |2. FS|Einführung in die Prähistorische Archäologie: Überblick über<br>die vorrömischen Metallzeiten Europas (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
 
 2 
@@ -96,47 +96,46 @@ Als dritte Fremdsprache im Sinne des § 28 Abs. 2 Satz 3 ABMStPO/Phil müssen im
 |AR 03|Orientierungsmodul III|10||
 |---|---|---|---|
 |1. FS|Einführung in die Klassische Archäologie: vorgriechische und<br>griechische Archäologie (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
-|2. FS|Einführung in die Klassische Archäologie: italisch-römische<br>Archäologie (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
-|AR 04|Orientierungsmodul IV|10||
+|2. FS|<br>Einführung in die Klassische Archäologie: italisch-römische<br>Archäologie (2 SWS)|5|Klausur (benotet),<br>45 Minuten|
+|AR 04|<br>Orientierungsmodul IV|10||
 |1. FS|Einführung in die Christliche Archäologie (2 SWS)|5|Klausur (benotet),<br>90 Minuten|
 |2. FS|Einführung in die Christliche Ikonographie (2SWS)|5|Klausur (benotet),<br>90 Minuten|
 |AR 05|Basismodul I A: Prähistorische Archäologie 1|10||
 |1.- 3. FS|Vorlesung zur Kulturentwicklung Alteuropas (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|1.-3. FS|Proseminar zur Kulturentwicklung Europas (2 SWS)|5|Referat mit Hausarbeit|
+|1.-3. FS|Proseminar zur Kulturentwicklung Europas (2 SWS)|5|<br>Referat mit Hausarbeit|
 |1. - 3. FS|Übung zur Kulturentwicklung Alteuropas (1 SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 06|Basismodul I B: Klassische Archäologie 1|10||
-|1.- 3. FS|Vorlesung zur antiken Kulturgeschichte (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|1.-3. FS|Proseminar zur antiken Kulturgeschichte (2 SWS)|5|Referat mit Hausarbeit|
+|<br>1.- 3. FS|<br>Vorlesung zur antiken Kulturgeschichte (2 SWS)|<br>3|Studienleistung (Regel-<br>mäßige Teilnahme)|
+|1.-3. FS<br>|Proseminar zur antiken Kulturgeschichte (2 SWS)<br>|5|<br>Referat mit Hausarbeit<br>|
 |1.- 3. FS|Übung zur antiken Kulturgeschichte (1 SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 07|Basismodul I C: Christliche Archäologie 1|10||
-|1. - 3. FS|Vorlesung zur Kulturgeschichte des Christentums vom 4. bis<br>ins 8. Jh. (2 SWS)|3|Studienleistung (Klausur)|
-|1. - 3. FS|Proseminar zur Kulturgeschichte des Christentums vom 4. bis<br>ins 8. Jh. (2 SWS)|5|Referat mit Hausarbeit|
-|1. - 3. FS|Übung zur Kulturgeschichte des Christentums vom 4. bis ins<br>8. Jh. (1 SWS)|2|Studienleistung (Kurzrefe-<br>rate, kleine Hausarbeiten)|
+|1. - 3. FS|<br>Vorlesung zur Kulturgeschichte des Christentums vom 4. bis<br>ins 8. Jh. (2 SWS)|3|Studienleistung (Klausur)|
+|1. - 3. FS|<br>Proseminar zur Kulturgeschichte des Christentums vom 4. bis<br>ins 8. Jh. (2 SWS)|5|Referat mit Hausarbeit|
+|1. - 3. FS<br>|<br>Übung zur Kulturgeschichte des Christentums vom 4. bis ins<br>8. Jh. (1 SWS)<br>|2<br>|Studienleistung (Kurzrefe-<br>rate, kleine Hausarbeiten)|
 |AR 08|Basismodul II A: Prähistorische Archäologie 2|10||
-|2. - 4. FS|Vorlesung zu thematischen Grundfragen der prähistorischen<br>Archäologie Alteuropas (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|2. - 4.-<br>FS|Proseminar zu thematischen Grundfragen der prähistorischen<br>Archäologie Alteuropas (2 SWS)|5|Referat mit Hausarbeit|
+|2. - 4. FS|<br>Vorlesung zu thematischen Grundfragen der prähistorischen<br>Archäologie Alteuropas (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
+|2. - 4.-<br>FS|Proseminar zu thematischen Grundfragen der prähistorischen<br>Archäologie Alteuropas (2 SWS)<br>|5|Referat mit Hausarbeit|
 |2. - 4. FS|Übung zu thematischen Grundfragen der prähistorischen Ar-<br>chäologie Alteuropas (1 SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 09|Basismodul II B: Klassische Archäologie 2|10||
 |2. - 4. FS|Vorlesung zu einer Denkmälergattung der Klassischen Ar-<br>chäologie (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|2. - 4. FS|Proseminar zu einer Denkmälergattung der Klassischen Ar-<br>chäologie (2 SWS)|5|Referat mit Hausarbeit|
-||Übung zu einer Denkmälergattung der Klassischen Archäolo-<br>gie (1 SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
+|2. - 4. FS|<br>Proseminar zu einer Denkmälergattung der Klassischen Ar-<br>chäologie (2 SWS)|5|<br>Referat mit Hausarbeit|
+||<br>Übung zu einer Denkmälergattung der Klassischen Archäolo-<br>gie (1 SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 10|Basismodul II C: Christliche Archäologie 2|10||
-|2. - 4. FS|Vorlesung zur bildenden Kunst der Spätantike und des frühen<br>Christentums (2 SWS)|3|Studienleistung (Klausur)|
-|2. - 4. FS|Proseminar zur bildenden Kunst der Spätantike und des frü-<br>hen Christentums (2 SWS)|5|Referat mit Hausarbeit|
-|2. - 4. FS|Übung zur bildenden Kunst der Spätantike und des frühen<br>Christentums (1 SWS)|2|Studienleistungen (Kurz-<br>referate, kleine Hausar-<br>beiten)|
-|AR 11|Aufbaumodul I: Die Studierenden können eines der drei Modu-<br>le 11A, 11 B, 11 C wählen|10||
-|AR 11A|Aufbaumodul I A: Prähistorische Archäologie 3|10||
-|4. - 6. FS|Vorlesung über eine relevante Epoche prähistorischer Kultur-<br>entwicklung (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|4. - 6. FS|Hauptseminar über eine relevante Epoche prähistorischer<br>Kulturentwicklung (2 SWS)|7|Referat mit Hausarbeit|
-|AR 11B|Aufbaumodul I B: Klassische Archäologie 3|10||
+|2. - 4. FS|<br>Vorlesung zur bildenden Kunst der Spätantike und des frühen<br>Christentums (2 SWS)|3|Studienleistung (Klausur)|
+|2. - 4. FS|<br>Proseminar zur bildenden Kunst der Spätantike und des frü-<br>hen Christentums (2 SWS)|5|Referat mit Hausarbeit|
+|2. - 4. FS|<br>Übung zur bildenden Kunst der Spätantike und des frühen<br>Christentums (1 SWS)|2|Studienleistungen (Kurz-<br>referate, kleine Hausar-<br>beiten)|
+|AR 11|Aufbaumodul I: Die Studierenden können eines der drei Modu-<br>le 11A 11 B 11 C wählen|10||
+|AR 11A|,  ,<br>Aufbaumodul I A: Prähistorische Archäologie 3|10||
+|4. - 6. FS|<br>Vorlesung über eine relevante Epoche prähistorischer Kultur-<br>entwicklung (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
+|4. - 6. FS<br>AR 11B|<br>Hauptseminar über eine relevante Epoche prähistorischer<br>Kulturentwicklung (2 SWS)<br>Aufbaumodul I B: Klassische Archäologie 3|7<br>10|<br>Referat mit Hausarbeit|
 
 3 
 
 |4. - 6. FS|Vorlesung zur antiken Kulturgeschichte (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
 |---|---|---|---|
-|4. - 6. FS|Hauptseminar über einen relevanten Themenbereich antiker<br>Kulturgeschichte (2 SWS)|7|Referat mit Hausarbeit|
+|4. - 6. FS|Hauptseminar über einen relevanten Themenbereich antiker<br>Kulturgeschichte (2 SWS)|7|<br>Referat mit Hausarbeit|
 |AR 11C|Aufbaumodul I C: Christliche Archäologie 3|10||
-|4.-6. FS|Vorlesung zur christlichen Kulturgeschichte (2 SWS)|3|Studienleistung (Klausur)|
+|4.-6. FS<br>|Vorlesung zur christlichen Kulturgeschichte (2 SWS)<br>|3|Studienleistung (Klausur)<br>|
 |4. - 6. FS|Hauptseminar über ein relevantes Gebiet spätantik-<br>frühchristlicher Kulturgeschichte (2 SWS)|7|Referat mit Hausarbeit|
 |AR 12|Aufbaumodul II: Die Studierenden können eines der vier Mo-<br>dule 12A, 12 B, 12 C, 12 D wählen|10||
 |AR 12A|Aufbaumodul II A: Prähistorische Archäologie 4|10||
@@ -144,19 +143,18 @@ Als dritte Fremdsprache im Sinne des § 28 Abs. 2 Satz 3 ABMStPO/Phil müssen im
 |4. - 6. FS|Hauptseminar zu thematischen Grundfragen der prähistori-<br>schen Archäologie Alteuropas (2 SWS)|7|Referat mit Hausarbeit|
 |AR 12 B|Aufbaumodul II B: Klassische Archäologie 4|10||
 |4. - 6. FS|Vorlesung zu einer repräsentativen Denkmälergattung antiker<br>Kunst (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|4. - 6. FS|Hauptseminar zu einer repräsentativen Denkmälergattung<br>antiker Kunst (2 SWS)|7|Referat mit Hausarbeit|
+|4. - 6. FS|<br>Hauptseminar zu einer repräsentativen Denkmälergattung<br>antiker Kunst (2 SWS)|7|<br>Referat mit Hausarbeit|
 |AR 12C|Aufbaumodul II C: Christliche Archäologie 4|10||
 |4. - 6. FS|Vorlesung zu einer repräsentativen Denkmälergattung der<br>christlichen Archäologie (2 SWS)|3|Studienleistung (Klausur)|
 |4. - 6. FS|Hauptseminar zu einer repräsentativen Denkmälergattung der<br>christlichen Archäologie (2 SWS)|7|Referat mit Hausarbeit|
 |AR 12 D|Aufbaumodul II D: Prähistorische Archäologie 5: Geoarchäo-<br>logie|10||
 |4. - 6. FS|Vorlesung zur Geoarchäologie (2 SWS)|3|Studienleistung (Regel-<br>mäßige Teilnahme)|
-|4. - 6. FS|Kombiniertes Labor- und Geländepraktikum (2 SWS)|7|Arbeits- und Ergebnispro-<br>tokoll|
+|4. - 6. FS|Kombiniertes Labor- und Geländepraktikum (2 SWS)|7|<br>Arbeits- und Ergebnispro-<br>tokoll|
 |AR 13<br>3.-6. FS|Museumspraktikum und Dokumentation|10|Referat mit Hausarbeit|
 |AR 14<br>3.-6. FS|Gelände- und Grabungspraktikum|10|Referat mit Hausarbeit|
 |AR 15<br>3.-6. FS|Exkursion mit vorbereitender Übung (2 SWS)|10|Referat mit Hausarbeit|
-|AR 16 -<br>17<br>FS frei<br>wählbar|Module für zusätzliche berufsfeldorientierte Schlüsselqualifika-|20|Anforderungen der jewei-<br>ligen Fächer|
-||tionen|||
-|||||
+|AR 16 -||||
+|17<br>FS frei<br>wählbar|Module für zusätzliche berufsfeldorientierte Schlüsselqualifika-<br>tionen|20|Anforderungen der jewei-<br>ligen Fächer|
 |AR 18<br>6. FS|Bachelorarbeit|10|Schriftliche Abschlussar-<br>beit|
 
 (2) Für den Bereich der zusätzlichen berufsfeldorientierten Schlüsselqualifikationen (20 ECTS-Punkte) werden Module zum Erwerb oder zur Vertiefung von Latein- und Griechisch-Kenntnissen empfohlen oder Module, die von folgenden Fächern angeboten werden: Geologie, Geschichte, Indogermanistik, Klassische Philologie, Kunstgeschichte, Mineralogie. 

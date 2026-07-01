@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Medizinische Fakultät"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:28:48+00:00
+scraped_at: 2026-07-01T08:53:10+00:00
 ---
 
 # Medizinische Fakultät
@@ -155,7 +155,7 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711.pdf) | 560 KB |
+| [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711.pdf) | 569 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20240926.pdf) | 492 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822.pdf) | 486 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210429.pdf) | 768 KB |
@@ -164,7 +164,8 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 | englisch | Dateigröße |
 | --- | --- |
 | [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf) | 299 KB |
-| [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711_en.pdf) | 544 KB |
+| [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711_en.pdf) | 543 KB |
+| [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20240926_en.pdf) | 428 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_en.pdf) | 465 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210429_en.pdf) | 453 KB |
 | [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210113_en.pdf) | 466 KB |
@@ -217,7 +218,7 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (107)
+## Prüfungsordnungen-Dokumente (108)
 
 - [MSc berufsbegl. Advanced Healthcare StuPO AdvHealth 20241021.pdf](msc-berufsbegl-advanced-healthcare-stupo-advhealth-20241021.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Advanced_Healthcare/konsolidierte_Fassungen/MSc_berufsbegl._Advanced_Healthcare_StuPO_AdvHealth_20241021.pdf>
 - [PO MHMM 20250227 Aufhebung.pdf](po-mhmm-20250227-aufhebung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Health_and_Medical_Management/konsolidierte_Fassungen/PO_MHMM_20250227_Aufhebung.pdf>
@@ -294,6 +295,7 @@ Satzung zum [Eignungsfeststellungsverfahren](https://www.fau.de/universitaet/uni
 - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/konsolidierte_Fassungen/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210113.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926 en.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926_en.pdf>
 - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20250711 en.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20250711-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20250711_en.pdf>
+- [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 i.d.F. 20240926 en.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-idf-20240926-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_idF_20240926_en.pdf>
 - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20230822 en.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20230822-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20230822_en.pdf>
 - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210429 en.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210429-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210429_en.pdf>
 - [BSc Molekulare Medizin-MSc Molecular Medicine PO MolMed 20070928 i.d.F. 20210113 en.pdf](bsc-molekulare-medizin-msc-molecular-medicine-po-molmed-20070928-idf-20210113-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Med/Molekulare_Medizin/englisch/BSc_Molekulare_Medizin-MSc_Molecular_Medicine_PO_MolMed_20070928_idF_20210113_en.pdf>

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Geschichte.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:21+00:00
-page_count_chars: 9735
+scraped_at: 2026-07-01T10:19:49+00:00
+page_count_chars: 9360
 ---
 
 # PDF vom 04.10.2007
@@ -12,9 +12,9 @@ page_count_chars: 9735
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Geschichte.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-Vom 4. Oktober 2007 
+## Vom 4. Oktober 2007 
 
 Auf Grund von Art. Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Prüfungsordnung: 
 
@@ -26,9 +26,9 @@ Diese Fachprüfungs- und Studienordnung ergänzt die Allgemeine Studien- und Pr�
 
 - (1) Das Fach Geschichte kann im Rahmen eines Zwei-Fach-Bachelorstudiengangs als erstes Fach im Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach im Umfang von 70 ECTS-Punkten studiert werden. 
 
-- (2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.[3] Im Fach Geschichte erwerben die Studierenden grundlegende Fachkenntnisse der Geschichtswissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methodenkompetenz.[4] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+- (2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.<sup>3</sup> Im Fach Geschichte erwerben die Studierenden grundlegende Fachkenntnisse der Geschichtswissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methodenkompetenz.<sup>4</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-- (3)[1] Das Studium der Geschichte im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten.[2] In methodisch abgesicherter Auseinandersetzung mit historisch relevanten Quellen und mit moderner Sekundärliteratur sollen die Studenten lernen, historische Prozesse, deren Grundlagen wie auch deren Verarbeitung zu analysieren und nachzuvollziehen, und so befähigt werden, Bedingungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständig zu erkennen und zu berücksichtigen. 
+- (3)<sup>1</sup> Das Studium der Geschichte im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten.<sup>2</sup> In methodisch abgesicherter Auseinandersetzung mit historisch relevanten Quellen und mit moderner Sekundärliteratur sollen die Studenten lernen, historische Prozesse, deren Grundlagen wie auch deren Verarbeitung zu analysieren und nachzuvollziehen, und so befähigt werden, Bedingungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständig zu erkennen und zu berücksichtigen. 
 
 - (4) Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang im Fach Geschichte auf die Entwicklung folgender Kompetenzen: 
 
@@ -48,66 +48,38 @@ Mit dem Fach Geschichte können alle Fächer der _Philosophischen Fakultät und 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1) Zum Ablaufplan für ein Bachelorstudium Geschichte (Zwei-Fach-Modell) sind im ersten Fach folgende Module erfolgreich abzulegen: 
+(1) Zum Ablaufplan für ein Bachelorstudium Geschichte (Zwei-Fach-Modell) sind im <u>ersten Fach folgende Module erfolgreich abzulegen:</u> 
 
-||||||||
-|---|---|---|---|---|---|---|
-||**Module**|**ECTS/**<br>**Faktor***|**Sem.**|**SWS**|**Anteil**<br>**in %**|<br>**Leistungen**|
-|<br> <br> <br> <br> <br>|Modul I) Grundlagen-und Orien-<br>tierungsmodul<br>a) Einführungsübung Propä-<br>deutik und Hilfswissenschaften<br>b) Einführungsvorlesung Alte<br>Geschichte<br>c) Einführungsvorlesung Mit-<br>telalterliche Geschichte<br>d) Einführungsübung Theorie<br>und Methodik<br>e) Einführungsvorlesung Neue-<br>re und Neueste Geschichte|4<br>4<br>4<br>4<br>4|1<br>1<br>1<br>2<br>2|2<br>2<br>2<br>2<br>2|20%<br>20%<br>20%<br>20%<br>20%|Klausur 60’-90’<br>Klausur 60’-90’<br>Klausur 60’-90’<br>Klausur 60’-90’<br>Klausur 60’-90’|
-||||||||
-||Grundlagen- und Orientierungs-<br>prüfung|||||Die Note für die<br>Grundlagen- und<br>Orientierungsprü-<br>fung wird studien-<br>begleitend aus dem<br>Querschnitt der<br>Leistungen zum<br>Modul I gebildet|
-|||Mind.|||||
-|||20||mind.|||
-|||ECTS-|1-2|10<br>|||
-|||Punkte||SWS|||
-||||||||
-|Modul II) Vertiefungsmodul Alte<br>und Mittelalterliche Geschichte:<br>a)<br>Vorlesung Alte oder Mittelal-<br>terliche Geschichte<br>b)<br>Proseminar Alte Geschichte||3<br>3,5<br>3,5|2-4<br>2-4<br>2-4|2<br>2<br>2|50%<br>50%|Mündliche Prüfung<br>oder Klausur 60’-90’<br>Referat<br>Referat|
+|**Module**|**ECTS/**<br>**Faktor***|**Sem.**|**SWS**|**Anteil**<br>**in %**|**Leistungen**|
+|---|---|---|---|---|---|
+|Modul I) Grundlagen-und Orien-<br>tierungsmodul<br>|4|1|2|20%|Klausur 60’-90’|
+|a) Einführungsübung Propä-<br>deutik und Hilfswissenschaften<br>b) Einführungsvorlesung Alte<br>Geschichte|4<br>4<br>4|1<br>1<br>2|2<br>2<br>2|20%<br>20%<br>20%|Klausur 60’-90’<br>Klausur 60’-90’<br>Klausur 60’-90’|
+|c) Einführungsvorlesung Mit-<br>telalterliche Geschichte<br>d) Einführungsübung Theorie<br>und Methodik<br>e) Einführungsvorlesung Neue-<br>re und Neueste Geschichte|4|2|2|20%|Klausur 60’-90’|
+|Grundlagen- und Orientierungs-<br>prüfung|Mind.<br>20<br>ECTS-<br>Punkte|1-2|mind.<br>10<br>SWS||Die Note für die<br>Grundlagen- und<br>Orientierungsprü-<br>fung wird studien-<br>begleitend aus dem<br>Querschnitt der<br>Leistungen zum<br>Modul I gebildet|
+|Modul II) Vertiefungsmodul Alte<br>und Mittelalterliche Geschichte:<br>a)<br>Vorlesung Alte oder Mittelal-<br>terliche Geschichte<br>b)<br>Proseminar Alte Geschichte|3<br>3,5<br>3,5|2-4<br>2-4<br>2-4|2<br>2<br>2|50%<br>50%|Mündliche Prüfung<br>oder Klausur 60’-90’<br>Referat<br>Referat|
 
 2 
 
-||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|c)||Proseminar Mittelalterliche<br>Geschichte|||||||||
-|<br> <br>|Modul III) Vertiefungsmodul<br>Neuere und Neueste Geschich-<br>te:<br>a)Vorlesung Neuere oder<br>Neueste Geschichte<br>b)Proseminar Neuere Ge-<br>schichte<br>c)Proseminar Neueste Ge-<br>schichte|||||3<br>3,5<br>3,5|3-4<br>3-4<br>3-4|2<br>2<br>2|50%<br>50%|Mündliche Prüfung<br>oder Klausur 60’-90’<br>Referat<br>Referat|
-||a)<br>b)<br>c)||||||||||
-||||||||||||
-||Vertiefungsmodule=Modul II<br>und III|||||20||12|||
-||||||||||||
-||||||||||||
-||Mindestgesamtleistung nach 4<br>Semester|||||Mind.<br>40<br>ECTS-<br>Punkte||mind.<br>22<br>SWS|||
-||||||||||||
-||||||||||||
-|<br> <br>|Modul IV) Aufbaumodul Alte und<br>Mittelalterliche Geschichte: a<br>a)Vorlesung Alte oder Mittelal-<br>terliche Geschichte<br>b)Hauptseminar Alte oder Mit-<br>telalterliche Geschich-<br>te|||||4<br>6|5-6<br>5-6|2<br>2|40%<br>60%|Mündliche Prüfung<br>oder Klausur (60’-<br>90’) mit<br>benotetem Leis-<br>tungsnachweis<br>Hausarbeit|
-|<br>|Modul V) Aufbaumodul Neuere<br>und Neueste Geschichte: b<br>a)Vorlesung Neuere oder<br>Neueste Geschichte<br>b)Hauptseminar Neuere oder<br>Neueste Geschichte|||||4<br>6|5-6<br>5-6|2<br>2|40%<br>60%|Mündliche Prüfung<br>oder Klausur (60’-<br>90’) mit<br>benotetem Leis-<br>tungsnachweis<br>Hausarbeit|
-||<br>a)<br>b)||||||||||
-|||<br>|||||||||
-||||||||||||
-||||||||||||
-||Aufbaumodule=Modul IV und V|||||20<br>ECTS-<br>Punkte||8<br>SWS|||
-||||||||||||
-||||||||||||
-||a)|Modul VI) Wahlpflichtmodul<br> Übung aus dem Angebot<br>des Instituts für Geschichte||||3|3-6|2|30%|Leistungsnachweis<br>(benoteter Schein)|
-|||<br>|||||||||
+|c)<br>Proseminar Mittelalterliche<br>Geschichte||||||
+|---|---|---|---|---|---|
+|Modul III) Vertiefungsmodul<br>Neuere und Neueste Geschich-<br>te:<br> Vl N d|3<br>3,5|3-4<br>3-4|2<br>2|50%|Mündliche Prüfung<br>oder Klausur 60’-90’|
+|a)oresung euere oer<br>Neueste Geschichte<br>b)Proseminar Neuere Ge-<br>schichte|3,5|3-4|2|50%|Referat<br>Referat|
+|c)Proseminar Neueste Ge-<br>schichte||||||
+|Vertiefungsmodule=Modul II<br>und III|20||12|||
+|Mindestgesamtleistung nach 4<br>Semester|Mind.<br>40<br>ECTS-<br>Punkte||mind.<br>22<br>SWS|||
+|Modul IV) Aufbaumodul Alte und<br>Mittelalterliche Geschichte: a<br>a)Vorlesung Alte oder Mittelal-<br>terliche Geschichte<br>b)Hauptseminar Alte oder Mit-<br>telalterliche Geschich-<br>te|4<br>6|5-6<br>5-6|2<br>2|40%<br>60%|Mündliche Prüfung<br>oder Klausur (60’-<br>90’) mit<br>benotetem Leis-<br>tungsnachweis<br>Hausarbeit|
+|Modul V) Aufbaumodul Neuere<br>und Neueste Geschichte: b<br>a)Vorlesung Neuere oder<br>Neueste Geschichte<br>b)Hauptseminar Neuere oder<br>Neueste Geschichte|4<br>6|5-6<br>5-6|2<br>2|40%<br>60%|Mündliche Prüfung<br>oder Klausur (60’-<br>90’) mit<br>benotetem Leis-<br>tungsnachweis<br>Hausarbeit|
+|Aufbaumodule=Modul IV und V|20<br>ECTS-<br>Punkte||8<br>SWS|||
+|Modul VI) Wahlpflichtmodul<br>a)Übung aus dem Angebot<br>des Instituts für Geschichte|3|3-6|2|30%|Leistungsnachweis<br>(benoteter Schein)|
 
 3 
 
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-|<br>|b)<br>c)|oder der Didaktik der Ge-<br>schichte<br>Vorlesung /Exkursion aus<br>dem Angebot des Instituts<br>für Geschichte oder der Di-<br>daktik der Geschichte<br>Übung aus dem Angebot<br>des Instituts für Geschichte||4<br>3|3-6<br>3-6|2<br>2|40%<br>30%|Nachweis der er-<br>folgreichen Teil-<br>nahme bzw. Leis-<br>tungsnachweis<br>Erfolgreiche Teil-<br>nahme|
-||||||||||
-|||||70||34|||
-||||||||||
-||||||||||
-||Modul VII) Berufsfeldbezogene<br>Schlüsselqualifikationen<br>(Praktika, Präsentationen, Spra-<br>chen, EDV, Geschichtskultur,<br>Nachbarwissenschaften usw.)|||15|1-6|mind.<br>6<br>SWS||Leistungsnachweise<br>(Umfang mind. 6<br>SWS bzw. Ar-<br>beitsaufwand nach<br>ECTS)|
-||||||||||
-||Gesamtleistung im BA Geschich-<br>te+„Berufsfeldbezogene<br>Schlüsselqualifikationen“ohne<br>BA-Arbeit|||85||40|||
-||||||||||
-||||||||||
-||||||||||
-||Modul VIII) BA-Arbeit<br>(Erweiterte Hausarbeit aus dem<br>Bereich IVb oder Vb)|||10|6||100%|BA-Prüfung gemäß<br>den Regelungen<br>der Prüfungsord-<br>nung|
-||||||||||
+<!-- Start of picture text -->
+oder der Didaktik der Ge- 4  3-6  2  40%  Nachweis der er-<br>schichte folgreichen Teil-<br>3  3-6  2  30%<br>nahme bzw. Leis-<br>b)  Vorlesung /Exkursion aus  tungsnachweis<br>dem Angebot des Instituts<br>für Geschichte oder der Di- Erfolgreiche Teil-<br>nahme<br>daktik der Geschichte<br>c)  Übung aus dem Angebot<br>des Instituts für Geschichte<br>Gesamtleistung im BA- 70  34<br>Teilbereich Geschichte<br>1-6 Semester ohne BA-Arbeit<br>Modul VII) Berufsfeldbezogene  15  1-6 mind. Leistungsnachweise<br>Schlüsselqualifikationen 6<br>(Umfang mind. 6<br>SWS<br>(Praktika, Präsentationen, Spra- SWS bzw. Ar-<br>chen, EDV, Geschichtskultur, beitsaufwand nach<br>Nachbarwissenschaften usw.) ECTS)<br>Gesamtleistung im BA Geschich- 85  40<br>te + „Berufsfeldbezogene<br>Schlüsselqualifikationen“ ohne<br>BA-Arbeit<br>Modul VIII) BA-Arbeit 10  6  100% BA-Prüfung gemäß<br>den Regelungen<br>(Erweiterte Hausarbeit aus dem<br>der Prüfungsord-<br>Bereich IVb oder Vb)<br>nung<br><!-- End of picture text -->
 
-- *= Gewichtungsfaktor für die Berechnung der Modulnote aus mehreren Prüfungen; § 19 Abs. 3 ABStPO/Phil bleibt unberührt. 
+- *= Gewichtungsfaktor für die Berechnung der Modulnote aus mehreren Prüfungen; 
+
+   - § 19 Abs. 3 ABStPO/Phil bleibt unberührt. 
 
 - (2) Wird Geschichte als zweites Fach gewählt, gilt Absatz 1 entsprechend mit der Maßgabe, dass das Modul „Bachelorarbeit” entfällt. 
 

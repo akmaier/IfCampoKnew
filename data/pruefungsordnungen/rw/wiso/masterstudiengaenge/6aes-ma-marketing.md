@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Januar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:00+00:00
-page_count_chars: 4851
+scraped_at: 2026-07-01T11:05:34+00:00
+page_count_chars: 4845
 ---
 
 # 9. Januar 2013
@@ -12,13 +12,13 @@ page_count_chars: 4851
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES MA-Marketing.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing-** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing-** 
 
 Vom 9. Januar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - vom 2. September 2009, zuletzt geändert durch Satzung vom 28. Juni 2012, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
       - bb) Satz 2 erhält folgende Fassung: 
 
-         - „[2] Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt.“ 
+         - „<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt.“ 
 
    - b) Abs. 2 wird wie folgt geändert: 
 
@@ -54,9 +54,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 - c) Nach Zeile 29 wird folgende neue Zeile eingefügt: 
 
-|„||||||
-|---|---|---|---|---|---|
-|International Management of IS|5|||5||
+|„|||
+|---|---|---|
+|International Management of IS|5|5|
 
 „ 
 
@@ -64,12 +64,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 - e) Nach Zeile 59 (neu) (B1/Advanced Marketing VI: Markenmanagement) wird folgende neue Zeile eingefügt: 
 
-|gende neue Zeile eingefügt:||||||
-|---|---|---|---|---|---|
-|„||||||
-|Advanced Marketing Manage-<br>ment VII: Kundenmanagement|5|||5||
-
-„ 
+|„<br>Advanced Marketing Manage-<br>ment VII: Kundenmanagement|5|5|
+|---|---|---|
+|||„|
 
 - f) Zeile 85 (B2/Advanced Marketing Management I: Dienstleistungsmarketing und Kundenmanagement) wird ersatzlos gestrichen. 
 
@@ -77,21 +74,15 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 - h) Nach Zeile 86 (neu) wird folgende neue Zeile eingefügt: 
 
-|„|||||„|
-|---|---|---|---|---|---|
-|Advanced Marketing Manage-<br>ment I: Dienstleistungs-<br>marketing|5|||5||
-|||||||
+|„<br>Advanced Marketing Manage-<br>ment I: Dienstleistungs-<br>marketing<br>5|5<br>„|
+|---|---|
+|Nach Zeile 91 (neu) (Advanced Marketing<br>wird folgende neue Zeile eingefügt:<br>„<br>Advanced Marketing Manage-<br>ment VII: Kundenmanagement<br>5|V: Business-to-Business Marketing<br>5<br>„|
 
 - i) Nach Zeile 91 (neu) (Advanced Marketing V: Business-to-Business Marketing) wird folgende neue Zeile eingefügt: 
 
-|„|||||„|
-|---|---|---|---|---|---|
-|Advanced Marketing Manage-<br>ment VII: Kundenmanagement|5|||5||
-|||||||
-
 - j) In Zeile 104 (neu) (B2/Konsumentenverhalten I) Spalte 4 (2. Sem.) wird die Zahl „2,5“ durch die Zahl „5“ ersetzt und in Spalte 5 (3. Sem.) die Zahl „2,5“ ersatzlos gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Sommersemester 2013 aufnehmen. 3Abweichend hiervon gelten die Änderungen der Ziffer 2 für alle Studierenden, die ihr Studium ab dem Wintersemester 2012/2013 aufnehmen. 
 

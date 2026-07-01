@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Philosophie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:00+00:00
-page_count_chars: 8011
+scraped_at: 2026-07-01T10:28:24+00:00
+page_count_chars: 8025
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 8011
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Philosophie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 5. Oktober 2007 
 
@@ -26,7 +26,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 - (1) Das Fach Philosophie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-- (2)[1] Im Fach Philosophie im Bachelorstudiengang erwerben die Studierenden grundlegende Fachkenntnisse der Philosophie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+- (2)<sup>1</sup> Im Fach Philosophie im Bachelorstudiengang erwerben die Studierenden grundlegende Fachkenntnisse der Philosophie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 - (3) Im Studium der Philosophie im Bachelorstudiengang wird eine fundierte fachwissenschaftliche Ausbildung gewährleistet und insbesondere die analytische und argumentative Kompetenz zur Bearbeitung und Lösung philosophischer und allgemeinwissenschaftlicher Probleme sowie die Fähigkeit zur kritischen Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft vermittelt. 
 
@@ -78,7 +78,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1) Im Studium der Philosophie als erstes Fach sind folgende Module erfolgreich abzulegen: 
+- (1) Im Studium der Philosophie als erstes Fach sind folgende Module erfolgreich ab- <u>zulegen:</u> 
 
 ||Modul|ECTS|Prüfungsleistung|
 |---|---|---|---|
@@ -101,20 +101,16 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 |Phil5|Basismodul IIIB: PraktischePhilosophie2|10||
 |3. FS|Hist. - syst. Einführung in die Rechts-, Staats-<br>o. Sozialphilosophie, die Angewandte Ethik o.<br>ein anderes Teilgebiet der prakt. Philosophie<br>(2 SWS)|4|Kurzreferate, Protokol-<br>le, kl. Hausarbeiten|
 |4. FS|Textseminar zur praktischen Philosophie (2<br>SWS)|6|Referat mit Hausarbeit<br>(benotet)|
-|Phil 6|Basismodul IVA: Philosophiegeschichte im|5||
-||Überblick (Antike, Mittelalter)|||
+|Phil 6|Basismodul IVA: Philosophiegeschichte im<br>Überblick (Antike, Mittelalter)|5||
 |1. FS|Vorlesung Antike (2 SWS)|2,5|Mündl./schriftl. Kurzprü-<br>fung|
 |2. FS|Vorlesung Mittelalter (2 SWS)|2,5|Mündl./schriftl. Kurzprü-<br>fung|
-|Phil 7|Basismodul IVB: Philosophiegeschichte im|5||
-||Überblick(Neuzeit, Gegenwart)|||
+|Phil 7|Basismodul IVB: Philosophiegeschichte im<br>Überblick(Neuzeit, Gegenwart)|5||
 |3. FS|Vorlesung Neuzeit ( 2 SWS)|2,5|Mündl./schriftl. Kurzprü-<br>fung|
 |4. FS|Vorlesung Gegenwart (2 SWS)|2,5|Mündl./schriftl. Kurzprü-<br>fung|
-|Phil 8|Vertiefungsmodul I: (alternativ in theoret.,|10||
-||prakt., Phil. o. Phil.-gesch.)|||
+|Phil 8|Vertiefungsmodul I: (alternativ in theoret.,<br>prakt., Phil. o. Phil.-gesch.)|10||
 |5. FS|Hauptseminar (2 SWS)|8|Hausarbeit (benotet)|
 |5. FS|Kolloquium (2 SWS)|2|Kurzreferat|
-|Phil 9|Vertiefungsmodul II: (alternativ in theoret.,|10||
-||prakt., Phil. o. Phil.-gesch.)|||
+|Phil 9|Vertiefungsmodul II: (alternativ in theoret.,<br>prakt., Phil. o. Phil.-gesch.)|10||
 |6. FS|Hauptseminar (2 SWS)|8|Hausarbeit (benotet)|
 |6. FS|Kolloquium|2|Kurzreferat|
 |Phil 10|Bachelorarbeit|10||
@@ -124,7 +120,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 - (3) Falls Philosophie als Erstfach gewählt wird, werden für Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten vorgeschrieben. Für diesen Bereich werden Module zum Erwerb oder zur Vertiefung von Griechisch- oder LateinKenntnissen empfohlen oder Module, die von der Medizin bzw. den Natur- und Technikwissenschaften als Schlüsselqualifikation angeboten werden. 
 
-**§ 5 Grundlagen- und Orientierungsprüfung** 
+## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
 Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie mindestens das Basismodul I (10 ECTS-Punkte) sowie eines der Basismodule IIA, IIIA oder IVA im Umfang von 10 ECTS-Punkten erfolgreich abgelegt sein. 
 
@@ -136,7 +132,9 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie minde
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 25. Juli 2007 und der Genehmigungsfeststellung des Rektors vom 1. Oktober 2007. 
 
-Erlangen, den 5. Oktober 2007 In Vertretung 
+Erlangen, den 5. Oktober 2007 
+
+In Vertretung 
 [Kontaktperson entfernt]
 Die Satzung wurde am 5. Oktober 2007 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 5. Oktober 2007 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 5. Oktober 2007. 
 

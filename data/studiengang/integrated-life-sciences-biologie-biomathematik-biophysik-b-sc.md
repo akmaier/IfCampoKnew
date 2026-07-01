@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:46:40+00:00
+scraped_at: 2026-07-01T08:23:27+00:00
 ---
 
 # Integrated Life Sciences: Biologie, Biomathematik, Biophysik (B.Sc.)
@@ -37,7 +37,7 @@ Wie hängt die Funktion von Zellen von ihrer Zusammensetzung, Struktur und Dynam
 
 Dies sind nur einige Beispiele, die zeigen, dass in der modernen Biologie nicht mehr allein das klassische biologische Wissen gefragt ist. Vielmehr umfassen die Lebenswissenschaften heute die gesamte Bandbreite der Mathematik und der Naturwissenschaften, um biologische Vorgänge quantitativ zu erfassen und bearbeiten zu können. Der ILS-Studiengang ist so konzipiert, dass Ihnen die erforderlichen fachspezifischen Grundkenntnisse der Biologie, Mathematik und Physik vermittelt werden. In eigens für den Studiengang konzipierten sogenannten „integrierten“ Modulen, eignen Sie sich darüber hinaus fachübergreifende Inhalte mit Schnittstellen zur Biologie, wie Mikroskopie und Optik, Bioinformatik und Systembiologie, Biophysik und Strukturbiologie an. So werden Sie in die Lage versetzt, auch die Sprache der anderen Naturwissenschaften zu verstehen und ihr Wissen in interdisziplinären Arbeitsgebieten einzubringen.
 
-### Bachelor of Science Integrated Life Sciences
+### Fachanteile des Studiengangs Integrated Life Sciences: Biologie, Biomathematik, Biophysik (B.Sc.)
 
 * Biologie (19%)
 * Wahlpflichtfach (zwei aus Molekularbiologie, Biophysik oder Bioinformatik) (19%)

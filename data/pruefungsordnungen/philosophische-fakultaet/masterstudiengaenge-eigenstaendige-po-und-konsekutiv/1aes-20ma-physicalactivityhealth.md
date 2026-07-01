@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Januar 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES%20MA-PhysicalActivityHealth.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:16:38+00:00
-page_count_chars: 5924
+scraped_at: 2026-07-01T09:34:53+00:00
+page_count_chars: 5993
 ---
 
 # 31. Januar 2011
@@ -12,13 +12,13 @@ page_count_chars: 5924
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES%20MA-PhysicalActivityHealth.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Satzung zur Änderung der Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 31. Januar 2011 
+# Vom 31. Januar 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activity and Health“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg vom 27. September 2007 wird wie folgt geändert: 
 
@@ -28,9 +28,9 @@ Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activit
 
 3. § 10 erhält folgende neue Fassung: 
 
-## „ **§ 10 Zugangskommission zum Masterstudium** 
+# „ **§ 10 Zugangskommission zum Masterstudium** 
 
-1Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium obliegt dem Prüfungsausschuss für den Masterstudiengang Physical Activity and Health als zuständiger Zugangskommission.[2] § 7 Abs. 4 und 5 S. 1 gelten entsprechend.“ 
+1Die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium obliegt dem Prüfungsausschuss für den Masterstudiengang Physical Activity and Health als zuständiger Zugangskommission.<sup>2</sup> § 7 Abs. 4 und 5 S. 1 gelten entsprechend.“ 
 
 4. In § 15 Abs. 2 Satz 1 werden die Worte „in der Regel“ gestrichen. 
 
@@ -42,11 +42,11 @@ Die Studien- und Prüfungsordnung für den Masterstudiengang „Physical Activit
 
 8.  In § 27 Abs. 6 Satz 1 wird Halbsatz 2 gestrichen. 
 
-## 9. Anlage 1 wird wie folgt geändert: 
+# 9. Anlage 1 wird wie folgt geändert: 
 
 - a) Abs. 1 Satz 1 erhält folgende Fassung: 
 
-   - „[1] Das Qualifikationsfeststellungsverfahren findet einmal jährlich vor Beginn des Wintersemesters statt.“ 
+   - „<sup>1</sup> Das Qualifikationsfeststellungsverfahren findet einmal jährlich vor Beginn des Wintersemesters statt.“ 
 
 - b)  Abs. 2 wird wie folgt geändert: 
 
@@ -58,7 +58,7 @@ bb) In Satz 2 Ziffer 2 werden die Zahlen „2-4“ durch „1 bis 2“ ersetzt.
 
 - d) Abs. 6 Satz 6 erhält folgende Fassung: 
 
-- „[6] Eine nochmalige Teilnahme am Qualifikationsfeststellungsverfahren ist zulässig.“ 
+- „<sup>6</sup> Eine nochmalige Teilnahme am Qualifikationsfeststellungsverfahren ist zulässig.“ 
 
 - e) Abs. 7 wird wie folgt geändert: 
 
@@ -68,11 +68,11 @@ bb) In Satz 2 Ziffer 2 werden die Zahlen „2-4“ durch „1 bis 2“ ersetzt.
 
 - f) Abs. 8 und 9 wird zusammengeführt und erhält folgende neue Fassung: 
 
-   - „(8)[1] Die Bewertung des Auswahlgesprächs lautet bestanden oder nicht bestanden. 2Ist das Auswahlgespräch bestanden, entscheidet die Zugangskommission auf Vorschlag der Prüferinnen oder Prüfer, ob der Zugang mit Auflagen gemäß § 24 Abs. 5 verbunden wird. 
+   - „(8)<sup>1</sup> Die Bewertung des Auswahlgesprächs lautet bestanden oder nicht bestanden. 2Ist das Auswahlgespräch bestanden, entscheidet die Zugangskommission auf Vorschlag der Prüferinnen oder Prüfer, ob der Zugang mit Auflagen gemäß § 24 Abs. 5 verbunden wird. 
 
-## 10. Anlage 2 erhält folgende Fassung: 
+# 10. Anlage 2 erhält folgende Fassung: 
 
-## „ **Anlage 2: Übersicht über die Module und Prüfungen** 
+# <u>„</u> **Anlage 2: Übersicht** **<u>über die Module und Prüfungen</u>** 
 
 |**Nr.**|**Modultitel**|**LV/**<br>**Modul**|**ECTS-**<br>**Punkte**|**Semes-**<br>**ter**|**Prüfungen**|
 |---|---|---|---|---|---|
@@ -90,13 +90,13 @@ bb) In Satz 2 Ziffer 2 werden die Zahlen „2-4“ durch „1 bis 2“ ersetzt.
 |12|Diagnostics /<br>Assessment in<br>Rehabilitation and<br>Prevention|1|5|3|Term paper or presentation<br>(graded)|
 |13|Conceptualization,<br>Implementation,<br>Evaluation II|1|10|3+4|Project report (graded)|
 |14|Master Thesis|1|30|3+4|Thesis (graded)|
-|**Summe CP**|||**120**|||
+||**S**|**umme CP**|**120**|||
 
 " 
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden.[2] Abweichend hiervon findet der Modulplan in Anlage 2 nur auf alle Studierenden Anwendung, die ihr Masterstudium ab dem Wintersemester 2011/2012 aufnehmen.[3] Studierende, die ihr Studium vor dem Wintersemester 2011/12 aufgenommen haben, können in Härtefällen Anträge auf Ablegung von deutschsprachigen Prüfungen stellen, insoweit findet die Prüfungsordnung vor In-Kraft-Treten dieser Änderungssatzung Anwendung. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden.<sup>2</sup> Abweichend hiervon findet der Modulplan in Anlage 2 nur auf alle Studierenden Anwendung, die ihr Masterstudium ab dem Wintersemester 2011/2012 aufnehmen.<sup>3</sup> Studierende, die ihr Studium vor dem Wintersemester 2011/12 aufgenommen haben, können in Härtefällen Anträge auf Ablegung von deutschsprachigen Prüfungen stellen, insoweit findet die Prüfungsordnung vor In-Kraft-Treten dieser Änderungssatzung Anwendung. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 19. Januar 2011 und der Genehmigungsfeststellung des Präsidenten vom 25. Januar 2011. 
 

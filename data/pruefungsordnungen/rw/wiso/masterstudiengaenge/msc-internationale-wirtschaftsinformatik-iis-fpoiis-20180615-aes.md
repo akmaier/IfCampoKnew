@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Internationale Wirtschaftsinformatik IIS FPOIIS 20180615 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_20180615_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:38:54+00:00
-page_count_chars: 4630
+scraped_at: 2026-07-01T11:03:59+00:00
+page_count_chars: 4335
 ---
 
 # MSc Internationale Wirtschaftsinformatik IIS FPOIIS 20180615 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 4630
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_20180615_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS –** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS –** 
 
-## **Vom 15. Juni 2018** 
+# **Vom 15. Juni 2018** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – FPOIIS – vom 8. Juli 2010, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 3. In § 7 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 1 
 
@@ -46,19 +46,11 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 „ 
 
-|**Management II (10 ECTS-Punkte)**|**Management II (10 ECTS-Punkte)**|**Management II (10 ECTS-Punkte)**|**Management II (10 ECTS-Punkte)**|**Management II (10 ECTS-Punkte)**|**Management II (10 ECTS-Punkte)**||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||2|2||||5|||||1|
-|**Management II (Teil 1)**|Business strategy|||||**5**|||||Klausur (60 Minuten)||
-||||||||||||||
-|||4|||||5||||Klausur (60 Minuten, 50 %) und|1|
-||Global operations strategy|||||**5**|||||||
-||||||||||||Präsentation (50 %)||
-||||||||||||||
-|**Management II (Teil 2)**|||||||**oder**||||||
-|||2|||||5|||||1|
-||Global retail logistics|||||**5**|||||Klausur mit MC (60 Minuten)||
-||||||||||||||
+|**Management II (10 ECTS**<br>|**-Punkte)**<br>|<br> <br>||||
+|---|---|---|---|---|---|
+|**Management II (Teil 1)**|Business strategy|2<br>2<br>**5**|5|Klausur (60 Minuten)|1|
+|**Management II (Teil 2)**|Global operations strategy|4<br>**5**|5<br>**oder**|Klausur (60 Minuten, 50 %) und<br>Präsentation (50 %)|1|
+||Global retail logistics|2<br>**5**|5|Klausur mit MC (60 Minuten)|1|
 
 „ 
 

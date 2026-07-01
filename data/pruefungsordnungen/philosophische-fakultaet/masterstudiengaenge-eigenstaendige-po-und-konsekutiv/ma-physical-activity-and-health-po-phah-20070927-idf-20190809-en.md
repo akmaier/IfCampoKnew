@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20190809 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Physical_Acitvity_and_Health/englisch/MA_Physical_Activity_and_Health_PO_PhAH_20070927_idF_20190809_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:16:01+00:00
-page_count_chars: 65616
+scraped_at: 2026-07-01T09:34:34+00:00
+page_count_chars: 67363
 ---
 
 # MA Physical Activity and Health PO PhAH 20070927 i.d.F. 20190809 en.pdf
@@ -16,50 +16,58 @@ page_count_chars: 65616
 
 **Note** : Students who started their studies before the latest amendment came into effect are requested to also comply with previous amendments and the respective transitory provisions. 
 
-## **Degree Programme and Examination Regulations for the Master’s Degree Programme Physical Activity and Health at the Faculty of Humanities, Social Sciences, and Theology at Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – PO PhAH – Dated 27 September 2007** 
+# **Degree Programme and Examination Regulations for the Master’s Degree Programme Physical Activity and Health at the Faculty of Humanities, Social Sciences, and Theology at Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – PO PhAH – Dated 27 September 2007** 
 
 amended by statutes of 31 January 2011 30 March 2017 9 August 2019 
 
 Based on Section 13 (1)(2), Section 43 (5)(2), Section 58 (1) and Section 61 (2)(1) of the Bavarian Higher Education Act (Bayerisches Hochschulgesetz, BayHSchG), FAU enacts the following Degree Programme and Examination Regulations: 
 
-## **Table of contents:** 
+### **Table of contents:** 
 
-|Section|1|Scope, Purpose of the Master’s Examination .............................................................. 2|
-|---|---|---|
-|Section|2|Degree .......................................................................................................................... 2|
-|Section|3|Standard Duration of Study, Examinations, Commencement of Studies, Teaching|
-|||and Examination Language .......................................................................................... 2|
-|Section|4|ECTS Credits ................................................................................................................ 3|
-|Section|5|Modules and Credits ..................................................................................................... 3|
-|Section|5a|Compulsory Attendance ............................................................................................... 3|
-|Section|6|Examination Deadlines, Failure to Observe Deadlines ................................................ 4|
-|Section|7|Examinations Committee .............................................................................................. 5|
-|Section|8|Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality ..... 6|
-|Section|9|Announcement of Examination Type, Examination Dates and Examiners,|
-|||Registration, Withdrawal ............................................................................................... 6|
-|Section|10|Admissions Committee for the Master’s Degree Programme ...................................... 7|
-|Section|11|Accreditation of Skills .................................................................................................... 7|
-|Section|12|Consequences of Delayed Withdrawal, Fraud, Breach of Regulations,, Exclusion|
-|||from Further Participation ............................................................................................. 8|
-|Section|13|Revocation of Degrees ................................................................................................. 8|
-|Section|14|Faults in the Examination Process ............................................................................... 8|
-|Section|15|Written Examination ...................................................................................................... 8|
-|Section|16|Oral Examination .......................................................................................................... 9|
-|Section|16a|Electronic Examinations ............................................................................................. 10|
-|Section|16b|Presentations/Talks .................................................................................................... 10|
-|Section|17|Evaluation of Examinations, Grades, Final Grade ..................................................... 10|
-|Section|18|Invalidity of Examinations ........................................................................................... 11|
-|Section|19|Inspection of Examination Records ............................................................................ 12|
+|Section 1|Scope, Purpose of the Master’s Examination .............................................................. 2|
+|---|---|
+|Section 2<br>|Degree .......................................................................................................................... 2<br>|
+|Section 3|Standard Duration of Study, Examinations, Commencement of Studies, Teaching<br>and Examination Language .......................................................................................... 2|
+|Section 4|ECTS Credits ................................................................................................................ 3|
+|Section 5|Modules and Credits ..................................................................................................... 3|
+|Section 5a|Compulsory Attendance ............................................................................................... 3|
+|Section 6|Examination Deadlines, Failure to Observe Deadlines ................................................ 4|
+|Section 7|Examinations Committee .............................................................................................. 5|
+|Section 8|Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality ..... 6|
+|Section 9<br>|Announcement of Examination Type, Examination Dates and Examiners,<br>Registration, Withdrawal ............................................................................................... 6<br>|
+|Section 10|Admissions Committee for the Master’s Degree Programme ...................................... 7|
+|Section 11|Accreditation of Skills .................................................................................................... 7|
+|Section 12|Consequences of Delayed Withdrawal, Fraud, Breach of Regulations,, Exclusion<br>from Further Participation ............................................................................................. 8|
+|Section 13|Revocation of Degrees ................................................................................................. 8|
+|Section 14|Faults in the Examination Process ............................................................................... 8|
+|Section 15|Written Examination ...................................................................................................... 8|
+|Section 16|Oral Examination .......................................................................................................... 9|
+|Section 16a|Electronic Examinations ............................................................................................. 10|
+|Section 16b|Presentations/Talks .................................................................................................... 10|
+|Section 17|Evaluation of Examinations, Grades, Final Grade ..................................................... 10|
+|Section 18|Invalidity of Examinations ........................................................................................... 11|
+|Section 19|Inspection of Examination Records ............................................................................ 12|
 
 1 
 
-Section 20 Final Academic Record, Transcript of Records, Diploma Supplement, Degree Certificate .................................................................................................................... 12 Section 21 Notification of Failed Examinations ............................................................................ 12 Section 22 Adjustments to Examination Arrangements ............................................................... 12 Section 23 Resitting Examinations, Changing Modules, Additional Modules .............................. 13 Section 24 Qualification for a Master’s Degree Programme ........................................................ 13 Section 25 Admission to Examinations ........................................................................................ 14 Section 26 Master’s Examination, Acquisition of Subject-Specific Skills ..................................... 14 Section 27 Master’s Thesis ........................................................................................................... 15 Section 28 Legal Validity, Transitory Provisions .......................................................................... 16 Appendix 1 Qualification assessment process for the Master’s degree programme Physical Activity and Health at the Faculty of Humanities, Social Sciences, and Theology at FAU. ............................................................................................................................ 17 Appendix 2: Structure of the Master’s Degree Programme (MA) Physical Activity and Health ..... 20 
+|Section 20 Final Academic Record, Transcript of Records, Diploma Supplement, Degree<br>Certificate .................................................................................................................... 12|
+|---|
+|Section 21 Notification of Failed Examinations ............................................................................ 12|
+|Section 22 Adjustments to Examination Arrangements ............................................................... 12|
+|Section 23 Resitting Examinations, Changing Modules, Additional Modules .............................. 13|
+|Section 24 Qualification for a Master’s Degree Programme ........................................................ 13|
+|Section 25 Admission to Examinations ........................................................................................ 14|
+|Section 26 Master’s Examination, Acquisition of Subject-Specific Skills ..................................... 14|
+|Section 27 Master’s Thesis ........................................................................................................... 15|
+|Section 28 Legal Validity, Transitory Provisions .......................................................................... 16|
+|Appendix 1 Qualification assessment process for the Master’s degree programme Physical<br>Activity and Health at the Faculty of Humanities, Social Sciences, and Theology at<br>FAU. ............................................................................................................................ 17|
+|Appendix 2: Structure of the Master’s Degree Programme (MA) Physical Activity and Health ..... 20|
 
 ## **Section 1 Scope, Purpose of the Master’s Examination** 
 
 (1) These degree programme and examination regulations govern the examinations in the Master’s degree programme Physical Activity and Health at the Faculty of Humanities, Social Sciences, and Theology resulting in the degree ‘Master of Arts’. 
 
-(2)[1] The Master of Arts is a postgraduate degree qualifying students for further research as well as professional work.[2] The Master’s examination serves to determine whether students: 
+(2)<sup>1</sup> The Master of Arts is a postgraduate degree qualifying students for further research as well as professional work.<sup>2</sup> The Master’s examination serves to determine whether students: 
 
 - have acquired in-depth knowledge of fundamental concepts and research findings in the subjects of their Master’s degree programme, 
 
@@ -75,11 +83,11 @@ Section 20 Final Academic Record, Transcript of Records, Diploma Supplement, Deg
 
 ## **Section 3 Standard Duration of Study, Examinations, Commencement of Studies, Teaching and Examination Language** 
 
-(1)[1] The Master’s degree programme Physical Activity and Health is predominantly research-oriented.[2] The Master’s degree programme has a standard duration of four semesters. 
+(1)<sup>1</sup> The Master’s degree programme Physical Activity and Health is predominantly research-oriented.<sup>2</sup> The Master’s degree programme has a standard duration of four semesters. 
 
 - (2) 120 ECTS credits are required to successfully complete the degree programme. 
 
-(3)[1] The Master’s degree programme is concluded with the Master’s examination.[2] It consists of all module examinations throughout the degree programme and the Master’s thesis. 
+(3)<sup>1</sup> The Master’s degree programme is concluded with the Master’s examination.<sup>2</sup> It consists of all module examinations throughout the degree programme and the Master’s thesis. 
 
 (4) The Master’s degree programme may only be started in the winter semester. 
 
@@ -89,39 +97,39 @@ Section 20 Final Academic Record, Transcript of Records, Diploma Supplement, Deg
 
 ## **Section 4 ECTS Credits** 
 
-(1)[1] The degree programmes and examinations are based on the European Credit Transfer and Accumulation System (ECTS).[2] 30 ECTS credits are allocated per semester.[ 3] One ECTS credit corresponds to 30 hours of work. 
+(1)<sup>1</sup> The degree programmes and examinations are based on the European Credit Transfer and Accumulation System (ECTS).<sup>2</sup> 30 ECTS credits are allocated per semester.<sup>3</sup> One ECTS credit corresponds to 30 hours of work. 
 
-(2)[1] ECTS credits serve as a system to categorise, calculate and confirm the amount of work a student has invested.[2] They are a quantitative indicator of a student’s workload. 
+(2)<sup>1</sup> ECTS credits serve as a system to categorise, calculate and confirm the amount of work a student has invested.<sup>2</sup> They are a quantitative indicator of a student’s workload. 
 
 ## **Section 5 Modules and Credits** 
 
-(1)[1] The degree programme consists of modules for which students are awarded ECTS credits.[2] One module is a self-contained teaching and learning unit held over a specific period, the contents of which can be tested in an examination. 
+(1)<sup>1</sup> The degree programme consists of modules for which students are awarded ECTS credits.<sup>2</sup> One module is a self-contained teaching and learning unit held over a specific period, the contents of which can be tested in an examination. 
 
-(2)[1] The modules shall be completed with a module examination.[2] This examination shall as a rule consist of one examination achievement or one course achievement. 3In exceptional cases, this examination can also consist of several partial examinations or parts of examinations or a combination of examination and course achievements if the subject warrants it.[4] ECTS credits shall only be awarded for successful participation in modules that can be verified in an individual, separately identifiable performance in a module examination.[5] Module examinations are conducted during the lecture period or following the last lecture or seminar of a module.[6] All examinations with the exception of written assignments and oral examinations generally take place during the eightweek examination period.[7] The examination period is divided into two weeks before and two weeks after the end of the lecture period of one semester, during which the examinations are sat for the first time, and a period of two weeks before and two weeks after the beginning of the following semester’s lecture period, during which the resit examinations take place. 
+(2)<sup>1</sup> The modules shall be completed with a module examination.<sup>2</sup> This examination shall as a rule consist of one examination achievement or one course achievement. 3In exceptional cases, this examination can also consist of several partial examinations or parts of examinations or a combination of examination and course achievements if the subject warrants it.<sup>4</sup> ECTS credits shall only be awarded for successful participation in modules that can be verified in an individual, separately identifiable performance in a module examination.<sup>5</sup> Module examinations are conducted during the lecture period or following the last lecture or seminar of a module.<sup>6</sup> All examinations with the exception of written assignments and oral examinations generally take place during the eightweek examination period.<sup>7</sup> The examination period is divided into two weeks before and two weeks after the end of the lecture period of one semester, during which the examinations are sat for the first time, and a period of two weeks before and two weeks after the beginning of the following semester’s lecture period, during which the resit examinations take place. 
 
-(3)[1] Examinations (examination achievements and course achievements) measure the student’s performance.[2] They may be taken in writing, orally, electronically or in a different form such as a graded presentation.[3] Examination achievements and partial examinations are graded.[4] In the case of course achievements, the assessment may be limited to passing or failing the achievement. 
+(3)<sup>1</sup> Examinations (examination achievements and course achievements) measure the student’s performance.<sup>2</sup> They may be taken in writing, orally, electronically or in a different form such as a graded presentation.<sup>3</sup> Examination achievements and partial examinations are graded.<sup>4</sup> In the case of course achievements, the assessment may be limited to passing or failing the achievement. 
 
 (4) Module examinations pursuant to (2)(1) may only be taken by those who have enrolled in the Master’s degree programme Physical Activity and Health at FAU; this shall not apply to resit examinations within the meaning of Section 23. 
 
 ## **Section 5a Compulsory Attendance** 
 
-(1)[1] For teaching units, which are marked accordingly in the respective module description, in which the qualification goal can only be achieved by regular attendance, compulsory attendance can be made a requirement for admission to the module examination or for obtaining the course achievement.[2] If attendance of the individual student is required for all participants to obtain the subject-specific skills, if the individual student obtaining such skills depends on the attendance of the other participants, or if subject-specific skills can only be obtained by being present at a particular place, or if participation is required for safety reasons, it is permissible to introduce an obligation to attend. 
+(1)<sup>1</sup> For teaching units, which are marked accordingly in the respective module description, in which the qualification goal can only be achieved by regular attendance, compulsory attendance can be made a requirement for admission to the module examination or for obtaining the course achievement.<sup>2</sup> If attendance of the individual student is required for all participants to obtain the subject-specific skills, if the individual student obtaining such skills depends on the attendance of the other participants, or if subject-specific skills can only be obtained by being present at a particular place, or if participation is required for safety reasons, it is permissible to introduce an obligation to attend. 
 
 3 
 
-(2)[1] Regular attendance is defined as missing no more than 15 % of instruction time in any given teaching unit.[2] If between 15 % and 30 % of instruction time has been missed, the lecturer can offer the student the option to obtain a substitute achievement fulfilling the requirement of regular attendance. If no such substitute achievements are offered or the substitute achievements offered are not obtained by the student, attendance is not considered to have been regular.[3] If more than 30 % of all instruction time has been missed, the teaching unit must be taken again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
+(2)<sup>1</sup> Regular attendance is defined as missing no more than 15 % of instruction time in any given teaching unit.<sup>2</sup> If between 15 % and 30 % of instruction time has been missed, the lecturer can offer the student the option to obtain a substitute achievement fulfilling the requirement of regular attendance. If no such substitute achievements are offered or the substitute achievements offered are not obtained by the student, attendance is not considered to have been regular.<sup>3</sup> If more than 30 % of all instruction time has been missed, the teaching unit must be taken again.<sup>4</sup> Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
 
-(3)[1] Paragraph 2 notwithstanding, in the context of excursions, placements and block seminars, attendance is only considered to have been regular if all teaching units have been attended.[2] Appropriate substitute achievements fulfilling the requirement of regular attendance shall be offered in the case of credibly shown periods of absence due to reasons beyond the student’s control of up to and including 15 % of instruction time. 3If more than 15 % of instruction time has been missed, the teaching unit must be taken again.[4] Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
+(3)<sup>1</sup> Paragraph 2 notwithstanding, in the context of excursions, placements and block seminars, attendance is only considered to have been regular if all teaching units have been attended.<sup>2</sup> Appropriate substitute achievements fulfilling the requirement of regular attendance shall be offered in the case of credibly shown periods of absence due to reasons beyond the student’s control of up to and including 15 % of instruction time. 3If more than 15 % of instruction time has been missed, the teaching unit must be taken again.<sup>4</sup> Any positions after the decimal point in the percentage of instruction time missed shall be rounded for the benefit of the student. 
 
 (4) Attendance is checked in the individual teaching units by means of an attendance list in which students must enter their name and signature. 
 
 ## **Section 6 Examination Deadlines, Failure to Observe Deadlines** 
 
-(1)[1] Examinations shall be sat in such a timely manner as to allow the student to obtain 120 ECTS credits for the Master’s degree by the scheduled deadline.[2] The deadline shall be the last semester of the standard duration of study for the degree programme pursuant to Section 3 (1)(2).[3] The deadline according to sentence 2 may be exceeded by one semester for the Master’s examination (extended deadline).[4] An examination shall be considered to have been sat and failed at the final attempt if 120 ECTS credits were not obtained pursuant to sentence 3 from the modules of the Master’s degree programme within the extended deadline, unless the reasons for this are beyond the student’s control. 
+(1)<sup>1</sup> Examinations shall be sat in such a timely manner as to allow the student to obtain 120 ECTS credits for the Master’s degree by the scheduled deadline.<sup>2</sup> The deadline shall be the last semester of the standard duration of study for the degree programme pursuant to Section 3 (1)(2).<sup>3</sup> The deadline according to sentence 2 may be exceeded by one semester for the Master’s examination (extended deadline).<sup>4</sup> An examination shall be considered to have been sat and failed at the final attempt if 120 ECTS credits were not obtained pursuant to sentence 3 from the modules of the Master’s degree programme within the extended deadline, unless the reasons for this are beyond the student’s control. 
 
 (2) The deadline set forth in paragraph (1) shall be extended by claiming the legal periods of protection stipulated in the law protecting mothers at work, in education and whilst studying, the Maternity Protection Act (Mutterschutzgesetz – MuSchG) in the version published on 23 May 2017 (BGBI I S. 1228 [German Federal Law Gazette I p.1228]), according to the periods set forth in the current version of the Parental Allowance and Parental Leave Act (Bundeselterngeld- und Elternzeitgesetz – BEEG) of 5 December 2006 (BGBl I S. 2748 [German Federal Law Gazette I p. 2748]), and according to periods of time spent providing care in the sense of Section 7 (3) of the current version of the Caregiver Leave Act (Pflegezeitgesetz – PflegeZG) of 28 May 2008 (BGBI I S. 874, 896 [German Federal Law Gazette I p. 874, 896]) for a close family member who requires care in the sense of the current version of SGB XI (German Social Security Code XI) of 26 May 1994 (BGBI I S. 1014, 1015 [German Federal Law Gazette I p. 1014, 1015]). 
 
-(3)[1] The reasons according to (1) and (2) shall be explained in writing and shown credibly to the Examinations Committee without delay.[2] If the reasons are acknowledged, the examination shall be sat at the soonest possible time; already available examination and course achievements shall be accredited.[3] In case of an inability to sit the 
+(3)<sup>1</sup> The reasons according to (1) and (2) shall be explained in writing and shown credibly to the Examinations Committee without delay.<sup>2</sup> If the reasons are acknowledged, the examination shall be sat at the soonest possible time; already available examination and course achievements shall be accredited.<sup>3</sup> In case of an inability to sit the 
 
 4 
 
@@ -129,29 +137,29 @@ examination occurring before or during the examination, the examiner shall be no
 
 ## **Section 7 Examinations Committee** 
 
-(1)[1] The Examinations Committee shall organise and carry out the examinations.[2] The Examinations Committee shall have two members that are professors as well as at least one member that is a research associate from the Faculty of Humanities, Social Sciences, and Theology who is eligible as an examiner according to the Regulation on University Examiners (Hochschulprüferverordnung) as amended from time to time. The members shall be elected by the Faculty Council.[3] The Examinations Committee shall elect one of the members as the chairperson for two years and shall appoint a deputy to act in the event of the chairperson’s absence.[4] The term of office of the members shall be two years.[5] Re-election shall be permitted. 
+(1)<sup>1</sup> The Examinations Committee shall organise and carry out the examinations.<sup>2</sup> The Examinations Committee shall have two members that are professors as well as at least one member that is a research associate from the Faculty of Humanities, Social Sciences, and Theology who is eligible as an examiner according to the Regulation on University Examiners (Hochschulprüferverordnung) as amended from time to time. The members shall be elected by the Faculty Council.<sup>3</sup> The Examinations Committee shall elect one of the members as the chairperson for two years and shall appoint a deputy to act in the event of the chairperson’s absence.<sup>4</sup> The term of office of the members shall be two years.<sup>5</sup> Re-election shall be permitted. 
 
 (2) The chairperson may transfer tasks within their responsibility to a member of the Examinations Committee. 
 
-(3)[1] The Examinations Committee shall be tasked with carrying out the examination procedures, in consultation with the Examinations Office, especially the planning and organisation of the examinations.[2] Its duties include ensuring that the provisions of these examination regulations are observed.[3] With the exception of the examinations themselves and their assessment, which the examiners are responsible for, all decisions shall be taken by the Examinations Committee unless they have been transferred to the Examinations Office or the examination officers.[4] The Examinations Committee shall check delegated decisions if requested to do so and shall verify that examinations have been legitimately assessed.[ 5] It shall regularly report to the Faculty Council on the development of examinations and study periods, including information on gender-specific aspects, and shall, where applicable, submit suggestions for amendments to the examination regulations; it shall be consulted before such amendments are made. 6The members of the Examinations Committee shall have the right to be present during examinations. 
+(3)<sup>1</sup> The Examinations Committee shall be tasked with carrying out the examination procedures, in consultation with the Examinations Office, especially the planning and organisation of the examinations.<sup>2</sup> Its duties include ensuring that the provisions of these examination regulations are observed.<sup>3</sup> With the exception of the examinations themselves and their assessment, which the examiners are responsible for, all decisions shall be taken by the Examinations Committee unless they have been transferred to the Examinations Office or the examination officers.<sup>4</sup> The Examinations Committee shall check delegated decisions if requested to do so and shall verify that examinations have been legitimately assessed.<sup>5</sup> It shall regularly report to the Faculty Council on the development of examinations and study periods, including information on gender-specific aspects, and shall, where applicable, submit suggestions for amendments to the examination regulations; it shall be consulted before such amendments are made. 6The members of the Examinations Committee shall have the right to be present during examinations. 
 
-(4)[1] The Examinations Committee shall have a quorum when all members are summoned in writing observing a notice period of at least one week and the majority of members are present and eligible to vote.[2] Decisions shall be taken with the majority of votes cast in meetings.[3] Abstentions, ballot votes and delegation of votes shall not be permitted.[4] In case of a tie of votes, the vote of the chairperson shall be decisive. 
+(4)<sup>1</sup> The Examinations Committee shall have a quorum when all members are summoned in writing observing a notice period of at least one week and the majority of members are present and eligible to vote.<sup>2</sup> Decisions shall be taken with the majority of votes cast in meetings.<sup>3</sup> Abstentions, ballot votes and delegation of votes shall not be permitted.<sup>4</sup> In case of a tie of votes, the vote of the chairperson shall be decisive. 
 
-(5)[1] The chairperson shall call the meetings of the Examinations Committee.[2] The chairperson shall be entitled to take decisions that cannot be delayed on behalf of the Examinations Committee.[3] The Examinations Committee shall be informed of such cases without delay.[4] Furthermore, unless these examination regulations state otherwise, the Examinations Committee shall have the right to transfer individual tasks to the chairperson in individual instances as well as revoke these responsibilities. 
+(5)<sup>1</sup> The chairperson shall call the meetings of the Examinations Committee.<sup>2</sup> The chairperson shall be entitled to take decisions that cannot be delayed on behalf of the Examinations Committee.<sup>3</sup> The Examinations Committee shall be informed of such cases without delay.<sup>4</sup> Furthermore, unless these examination regulations state otherwise, the Examinations Committee shall have the right to transfer individual tasks to the chairperson in individual instances as well as revoke these responsibilities. 
 
-(6)[1] Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.[2] Students shall be given the opportunity to make a statement before negative decisions are finalised.[3] An Examinations Committee shall have the 
+(6)<sup>1</sup> Official notifications in legal matters pertaining to examinations shall be made in writing; reasons shall be given and information on legal remedies available to the person shall be included.<sup>2</sup> Students shall be given the opportunity to make a statement before negative decisions are finalised.<sup>3</sup> An Examinations Committee shall have the 
 
 5 
 
-right to rule that grade notifications may be sent out in electronic form to the individual students.[ 4] The President shall issue any notification of objection in questions of examination legislation following consultation with the Examinations Committee and after hearing the examiners. 
+right to rule that grade notifications may be sent out in electronic form to the individual students.<sup>4</sup> The President shall issue any notification of objection in questions of examination legislation following consultation with the Examinations Committee and after hearing the examiners. 
 
 ## **Section 8 Examiners, Exclusion Due to Personal Involvement, Obligation to Confidentiality** 
 
-(1)[1] The Examinations Committee shall appoint examiners and reviewers.[2] All persons eligible to administer examinations according to the Bavarian Higher Education Act (BayHSchG), the Bavarian Law on Academic Personnel of Higher Education Institutions (BayHSchPG) and the Bavarian Higher Education Examiners Act (BayHSchPrüferV) shall be eligible for appointment.[3] If an eligible examiner leaves the University, they shall usually remain eligible to act as an examiner for up to one year. 
+(1)<sup>1</sup> The Examinations Committee shall appoint examiners and reviewers.<sup>2</sup> All persons eligible to administer examinations according to the Bavarian Higher Education Act (BayHSchG), the Bavarian Law on Academic Personnel of Higher Education Institutions (BayHSchPG) and the Bavarian Higher Education Examiners Act (BayHSchPrüferV) shall be eligible for appointment.<sup>3</sup> If an eligible examiner leaves the University, they shall usually remain eligible to act as an examiner for up to one year. 
 
 (2) A change of examiners shortly before the start of an examination shall be permissible on urgent grounds. 
 
-(3)[1] Persons who have completed the degree programme in question or a degree programme related to it shall be eligible for appointment as observers.[2] Observers shall be research associates in principal employment at the University. 
+(3)<sup>1</sup> Persons who have completed the degree programme in question or a degree programme related to it shall be eligible for appointment as observers.<sup>2</sup> Observers shall be research associates in principal employment at the University. 
 
 (4) Exclusion from the deliberation and voting process of the Examinations Committee as well as from the positions of examiner and observer due to personal involvement shall be governed by Section 41 (2) BayHSchG. 
 
@@ -159,23 +167,23 @@ right to rule that grade notifications may be sent out in electronic form to the
 
 ## **Section 9 Announcement of Examination Type, Examination Dates and Examiners, Registration, Withdrawal** 
 
-(1)[1] The type and scope of the examinations shall be announced according to local practice at the latest one week before lectures begin in each semester.[2] The dates of the examinations and the names of the examiners shall be announced in good time and according to local practice. 
+(1)<sup>1</sup> The type and scope of the examinations shall be announced according to local practice at the latest one week before lectures begin in each semester.<sup>2</sup> The dates of the examinations and the names of the examiners shall be announced in good time and according to local practice. 
 
-(2)[1] The students shall register for the individual module examinations after the start of the lecture period.[2] The registration dates and formalities shall be announced by the Examinations Committee according to local practice four weeks in advance. 
+(2)<sup>1</sup> The students shall register for the individual module examinations after the start of the lecture period.<sup>2</sup> The registration dates and formalities shall be announced by the Examinations Committee according to local practice four weeks in advance. 
 
-(3)[1] The deadlines set forth in Sections 6 and 23 notwithstanding, withdrawal from first attempts at written and oral examinations registered for pursuant to (2) shall be permitted without stating reasons up until the end of the third working day before the examination date; withdrawals are to be submitted to the examiner; the days between and including Monday and Friday shall be considered as working days.[2] Section 6 (3)(3) shall apply accordingly.[3] Once a student has declared that they wish to withdraw they may not revoke this declaration; registration to the examination shall be cancelled once the declaration is submitted and the student shall no longer be entitled to take the examination.[4] The consequences of a delayed or invalid withdrawal shall be governed by Section (12)(1). 
+(3)<sup>1</sup> The deadlines set forth in Sections 6 and 23 notwithstanding, withdrawal from first attempts at written and oral examinations registered for pursuant to (2) shall be permitted without stating reasons up until the end of the third working day before the examination date; withdrawals are to be submitted to the examiner; the days between and including Monday and Friday shall be considered as working days.<sup>2</sup> Section 6 (3)(3) shall apply accordingly.<sup>3</sup> Once a student has declared that they wish to withdraw they may not revoke this declaration; registration to the examination shall be cancelled once the declaration is submitted and the student shall no longer be entitled to take the examination.<sup>4</sup> The consequences of a delayed or invalid withdrawal shall be governed by Section (12)(1). 
 
 6 
 
-**Section 10 Admissions Committee for the Master’s Degree Programme** 1As the responsible admissions committee, the Examinations Committee for the Master’s degree programme Physical Activity and Health shall be tasked with the evaluation of qualification and admission requirements.[2] Section 7 (4) and (5)(1) shall apply accordingly. 
+**Section 10 Admissions Committee for the Master’s Degree Programme** 1As the responsible admissions committee, the Examinations Committee for the Master’s degree programme Physical Activity and Health shall be tasked with the evaluation of qualification and admission requirements.<sup>2</sup> Section 7 (4) and (5)(1) shall apply accordingly. 
 
 ## **Section 11 Accreditation of Skills** 
 
-(1)[1] Study periods, modules, course and examination achievements achieved in other degree programmes at FAU or other public or state-approved universities in the Federal Republic of Germany, through successful participation in a distance course as part of a degree programme at a public or state-approved university in the Federal Republic of Germany, or in degree programmes at foreign universities shall be accredited according to these examination regulations unless there are significant differences in the skills acquired.[2] The same shall apply to study periods, course and examination achievements achieved at a public or state-approved university in Bavaria in the course of other study programmes within the meaning of Section 56 (6)(1) and (2) BayHSchG, in special study programmes within the meaning of Section 47 (3)(1) BayHSchG, or at the Virtual University of Bavaria. 
+(1)<sup>1</sup> Study periods, modules, course and examination achievements achieved in other degree programmes at FAU or other public or state-approved universities in the Federal Republic of Germany, through successful participation in a distance course as part of a degree programme at a public or state-approved university in the Federal Republic of Germany, or in degree programmes at foreign universities shall be accredited according to these examination regulations unless there are significant differences in the skills acquired.<sup>2</sup> The same shall apply to study periods, course and examination achievements achieved at a public or state-approved university in Bavaria in the course of other study programmes within the meaning of Section 56 (6)(1) and (2) BayHSchG, in special study programmes within the meaning of Section 47 (3)(1) BayHSchG, or at the Virtual University of Bavaria. 
 
-(2)[1] Skills acquired in programmes for professional development within the meaning of Section 56 (6)(3) BayHSchG, or outside of higher education shall be accredited if they are equivalent to skills acquired through university studies.[2] Skills acquired outside the university sector shall replace no more than half of the required skills of which students must provide proof. 
+(2)<sup>1</sup> Skills acquired in programmes for professional development within the meaning of Section 56 (6)(3) BayHSchG, or outside of higher education shall be accredited if they are equivalent to skills acquired through university studies.<sup>2</sup> Skills acquired outside the university sector shall replace no more than half of the required skills of which students must provide proof. 
 
-(3)[1] The grades achieved in approved modules, examinations and course achievements shall be transferred if they were awarded according to Section 17.[2] If the grading system applied in the examinations sat at the university or equivalent institution of higher education and accredited by FAU is not identical to the grading system set forth in Section 17, the grades achieved at other universities shall usually be converted according to the following formula: 
+(3)<sup>1</sup> The grades achieved in approved modules, examinations and course achievements shall be transferred if they were awarded according to Section 17.<sup>2</sup> If the grading system applied in the examinations sat at the university or equivalent institution of higher education and accredited by FAU is not identical to the grading system set forth in Section 17, the grades achieved at other universities shall usually be converted according to the following formula: 
 
 x= 1 + 3 (Nmax – Nd)/(Nmax – Nmin) with 
 
@@ -185,15 +193,15 @@ Nmax = best grade attainable Nmin = lowest grade for passing Nd = grade attained
 
 3Only one decimal place is shown for the grades thus calculated. 4If conversion is not possible, the Examinations Committee usually determines a system by which to calculate the grades. 
 
-(4)[1] The documents needed for this accreditation shall be submitted to the chairperson of the Examinations Committee.[2] Subject to the provisions in sentence 3, the student shall have a legal claim to accreditation if the conditions stipulated in (2) and (3) are met.[3] Accreditation is only possible if the student has not already lost the right to be examined in that subject at FAU by passing or failing to pass the relevant examination at the final attempt.[4] Following a request for accreditation from a student, the decision shall rest with the chairperson of the Examinations Committee after consultation with the department representative.[5] The decision shall be issued in writing. 
+(4)<sup>1</sup> The documents needed for this accreditation shall be submitted to the chairperson of the Examinations Committee.<sup>2</sup> Subject to the provisions in sentence 3, the student shall have a legal claim to accreditation if the conditions stipulated in (2) and (3) are met.<sup>3</sup> Accreditation is only possible if the student has not already lost the right to be examined in that subject at FAU by passing or failing to pass the relevant examination at the final attempt.<sup>4</sup> Following a request for accreditation from a student, the decision shall rest with the chairperson of the Examinations Committee after consultation with the department representative.<sup>5</sup> The decision shall be issued in writing. 
 
 7 
 
 ## **Section 12 Consequences of Delayed Withdrawal, Fraud, Breach of Regulations, Exclusion from Further Participation** 
 
-(1)[1] An examination shall be graded as ‘nicht ausreichend’ (unsatisfactory; 5.0) if the student withdraws from the examination after the withdrawal deadline (cf. Section 9 (3)) without good reasons; Section 6 (3) shall remain unaffected.[2] The reasons for withdrawal or tardiness pursuant to sentence 1 shall be explained in writing and shown credibly to the Examinations Committee without delay.[3] If the Examinations Committee accepts the reasons, a new date shall be set.[4] In cases where the student is unable to sit an examination due to illness, the student shall be required to submit a doctor’s certificate; a certificate from an official medical examiner may be requested. 
+(1)<sup>1</sup> An examination shall be graded as ‘nicht ausreichend’ (unsatisfactory; 5.0) if the student withdraws from the examination after the withdrawal deadline (cf. Section 9 (3)) without good reasons; Section 6 (3) shall remain unaffected.<sup>2</sup> The reasons for withdrawal or tardiness pursuant to sentence 1 shall be explained in writing and shown credibly to the Examinations Committee without delay.<sup>3</sup> If the Examinations Committee accepts the reasons, a new date shall be set.<sup>4</sup> In cases where the student is unable to sit an examination due to illness, the student shall be required to submit a doctor’s certificate; a certificate from an official medical examiner may be requested. 
 
-(2)[1] In case of an attempt to commit fraud or to influence the result of an examination achievement through the use of unauthorised materials, the examination in question shall be graded as ‘nicht ausreichend’ (unsatisfactory; 5.0).[2] The possession of unauthorised materials during or after the handing out of examination papers shall constitute an attempt to commit fraud within the meaning of sentence 1.[3] The Examinations Office keeps a list of examinees that have failed an examination due to fraud. 
+(2)<sup>1</sup> In case of an attempt to commit fraud or to influence the result of an examination achievement through the use of unauthorised materials, the examination in question shall be graded as ‘nicht ausreichend’ (unsatisfactory; 5.0).<sup>2</sup> The possession of unauthorised materials during or after the handing out of examination papers shall constitute an attempt to commit fraud within the meaning of sentence 1.<sup>3</sup> The Examinations Office keeps a list of examinees that have failed an examination due to fraud. 
 
 (3) Persons who disturb the orderly examination process may be excluded from continuing the examination by the authorised examiner or the supervising person; in this case the examination achievement in question shall be considered to be ‘nicht ausreichend’ (unsatisfactory; 5.0). 
 
@@ -215,62 +223,62 @@ The revocation of degrees shall be governed by Section 69 BayHSchG.
 
 (1) In written examinations (written examinations, assignments or seminar papers) students are required to prove that they are capable of identifying a problem within a limited period and with limited materials, using the conventional methods employed in their field, and to find a solution to this problem. 
 
-(2)[1] The duration of the individual written examinations is stipulated in **Appendix 2** . 2Written examinations shall generally be evaluated by an examiner. 3If a written examination is graded as ‘nicht ausreichend’ (unsatisfactory), it shall be presented to a sec- 
+(2)<sup>1</sup> The duration of the individual written examinations is stipulated in **Appendix 2** . 2Written examinations shall generally be evaluated by an examiner. 3If a written examination is graded as ‘nicht ausreichend’ (unsatisfactory), it shall be presented to a sec- 
 
 8 
 
-ond examiner for evaluation.[4] The examiner’s evaluation must be documented in writing and reasons for the final grade must be made clear.[5] Evaluations shall usually be presented within six weeks.[6] In case of differing evaluations, the mean of the grades shall be calculated; Section 17 (1)(6) shall apply. 
+ond examiner for evaluation.<sup>4</sup> The examiner’s evaluation must be documented in writing and reasons for the final grade must be made clear.<sup>5</sup> Evaluations shall usually be presented within six weeks.<sup>6</sup> In case of differing evaluations, the mean of the grades shall be calculated; Section 17 (1)(6) shall apply. 
 
-(3)[1] Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.[2] Detailed information on the modules with multiple-choice examinations is given in the module handbook.[3] The examinee shall state which of the answers to the questions they deem to be correct. 4Examination questions must allow for reliable examination results. 5When drawing up the examination questions, it shall be specified which of the answers shall be accepted as correct.[6] If the question does not allow multiple answers, multiple answers shall be inadmissible and disregarded.[7] Before the evaluation of the examination results, at least two of the authors of the examination shall assess whether the examination questions meet the requirement set out in sentence 4.[8] Should they determine that individual examination questions are faulty, these shall not be taken into account in the evaluation of the examination result; the number of examination questions shall be considered to have been reduced.[9] This reduction of the number of examination questions may not result in disadvantages for any of the examinees.[10] No minus points may be awarded outside of individual examination questions. 
+(3)<sup>1</sup> Written examinations may take the form of multiple-choice examinations (with one or more possible correct answers), either in full or in part.<sup>2</sup> Detailed information on the modules with multiple-choice examinations is given in the module handbook.<sup>3</sup> The examinee shall state which of the answers to the questions they deem to be correct. 4Examination questions must allow for reliable examination results. 5When drawing up the examination questions, it shall be specified which of the answers shall be accepted as correct.<sup>6</sup> If the question does not allow multiple answers, multiple answers shall be inadmissible and disregarded.<sup>7</sup> Before the evaluation of the examination results, at least two of the authors of the examination shall assess whether the examination questions meet the requirement set out in sentence 4.<sup>8</sup> Should they determine that individual examination questions are faulty, these shall not be taken into account in the evaluation of the examination result; the number of examination questions shall be considered to have been reduced.<sup>9</sup> This reduction of the number of examination questions may not result in disadvantages for any of the examinees.<sup>10</sup> No minus points may be awarded outside of individual examination questions. 
 
-- (4)[1] The examinations according to (3)(1) shall be considered to have been passed if: 
+- (4)<sup>1</sup> The examinations according to (3)(1) shall be considered to have been passed if: 
 
 1. The examinee answered at least 60 percent of the examination questions correctly/achieved at least 60 percent of the attainable points, or 
 
 2. The examinee answered at least 50 percent of the examination questions correctly/achieved at least 50 percent of the attainable points according to the overall score determined pursuant to (3)(8) and the number of correct answers is no more than 17 percent below the average number of correct answers for all examinees sitting the examination for the first time. 
 
-2If Sentence 1 (2) is applied, the Dean of Studies shall be notified. 
+- 2If Sentence 1 (2) is applied, the Dean of Studies shall be notified. 
 
 (5) In case of written examinations that are not entirely composed of multiple-choice questions, (3) and (4) shall only apply for the respective part. 
 
 ## **Section 16 Oral Examination** 
 
-(1)[1] In oral examinations students must demonstrate both general and specific knowledge of the subject being tested.[2] Oral examinations shall be conducted, unless otherwise stated, in the presence of an observer appointed by the examiner.[3] The duration of oral examinations is stipulated in **Appendix 2** . 
+(1)<sup>1</sup> In oral examinations students must demonstrate both general and specific knowledge of the subject being tested.<sup>2</sup> Oral examinations shall be conducted, unless otherwise stated, in the presence of an observer appointed by the examiner.<sup>3</sup> The duration of oral examinations is stipulated in **Appendix 2** . 
 
 (2) In oral examinations in the presence of several authorised examiners, each examiner shall determine the grade according to Section 17. 
 
-(3)[1] A record shall be kept of the oral examination; this shall include the following: place, date and duration of the examination; subject and result of the examination; the names of the examiners, the observer and the student; and any special occurrences. 2The record shall be signed by the authorised examiners and the observer. 3It shall not be necessary to record the questions asked in the examination or the answers given. 4The record shall be kept in the examination records for a minimum of two years. 
+(3)<sup>1</sup> A record shall be kept of the oral examination; this shall include the following: place, date and duration of the examination; subject and result of the examination; the names of the examiners, the observer and the student; and any special occurrences. 2The record shall be signed by the authorised examiners and the observer. 3It shall not be necessary to record the questions asked in the examination or the answers given. 4The record shall be kept in the examination records for a minimum of two years. 
 
 9 
 
-(4)[1] Students planning to undergo the same examination in a subsequent examination period shall be permitted to be present as listeners during oral examinations within the bounds of feasibility with regard to the examination’s location; listeners shall be excluded at the examinee’s request.[2] Students granted permission to attend the oral examination shall not be permitted to be present during the deliberation process and the announcement of the examination result. 
+(4)<sup>1</sup> Students planning to undergo the same examination in a subsequent examination period shall be permitted to be present as listeners during oral examinations within the bounds of feasibility with regard to the examination’s location; listeners shall be excluded at the examinee’s request.<sup>2</sup> Students granted permission to attend the oral examination shall not be permitted to be present during the deliberation process and the announcement of the examination result. 
 
 ## **Section 16a Electronic Examinations** 
 
-1Examinations may be administered in electronic form. 2Detailed information on the modules in which examinations are in electronic form is given in the module handbook. 3Electronic examinations (e-examinations) are examinations which are administered and evaluated via computer or using digital technology.[4] The authenticity and integrity of the examination results shall be verified.[5] Automatically calculated evaluations of examination achievements shall be verified by one examiner at the request of the examinee or two examiners in case of a failed examination. 
+1Examinations may be administered in electronic form. 2Detailed information on the modules in which examinations are in electronic form is given in the module handbook. 3Electronic examinations (e-examinations) are examinations which are administered and evaluated via computer or using digital technology.<sup>4</sup> The authenticity and integrity of the examination results shall be verified.<sup>5</sup> Automatically calculated evaluations of examination achievements shall be verified by one examiner at the request of the examinee or two examiners in case of a failed examination. 
 
 ## **Section 16b Presentations/Talks** 
 
-(1)[1] In presentations and talks held as part of teaching units, students should prove that they are capable of working independently on a scientific topic, presenting it clearly for a particular audience and defending their point of view in expert discussions. 2Presentations and talks are assessed on the basis of content, verbal presentation, conduct during the discussion and, if applicable, performance during the preparation of the presentation.[3] The supervisor for the presentation/talk should as a rule be appointed as an examiner.[4] If several authorised examiners pursuant to Section 9 (1)(2) attend a presentation/talk, there shall be no need to include an observer. 
+(1)<sup>1</sup> In presentations and talks held as part of teaching units, students should prove that they are capable of working independently on a scientific topic, presenting it clearly for a particular audience and defending their point of view in expert discussions. 2Presentations and talks are assessed on the basis of content, verbal presentation, conduct during the discussion and, if applicable, performance during the preparation of the presentation.<sup>3</sup> The supervisor for the presentation/talk should as a rule be appointed as an examiner.<sup>4</sup> If several authorised examiners pursuant to Section 9 (1)(2) attend a presentation/talk, there shall be no need to include an observer. 
 
 (2) Section 16 (2) and (3) shall apply accordingly. 
 
 **Section 17 Evaluation of Examinations, Grades, Final Grade** 
 
-(1)[1] The evaluation of individual examinations shall be expressed by the examiners with the following grades: 
+(1)<sup>1</sup> The evaluation of individual examinations shall be expressed by the examiners <u>with the following grades:</u> 
 
 |‘sehr gut’<br>(very good)|= (1.0 or 1.3)|an outstanding achievement;|
 |---|---|---|
-|<br>‘gut’<br>(good)|= (1.7 or 2.0 or 2.3)|an achievement that exceeds the average requirements<br>considerably;|
-|<br>‘befriedigend’<br>(satisfactory)|= (2.7 or 3.0 or 3.3)|<br>an achievement that fulfils average requirements;|
-|<br>‘ausreichend’<br>(sufficient)|= (3.7 or 4.0)|an achievement that fulfils the requirements despite<br>flaws;|
+|‘gut’<br>(good)|= (1.7 or 2.0 or 2.3)|an achievement that exceeds the average requirements<br>considerably;|
+|‘befriedigend’<br>(satisfactory)|= (2.7 or 3.0 or 3.3)|an achievement that fulfils average requirements;|
+|‘ausreichend’<br>(sufficient)|= (3.7 or 4.0)|an achievement that fulfils the requirements despite<br>flaws;|
 |‘nicht ausreichend’<br>(unsatisfactory)|= (4.3 or 4.7 or 5.0)|an achievement that no longer fulfils requirements due<br>to considerable flaws.|
 
-2A graded examination (Section 5 (3)(3)) has been passed if it has received at least the grade ‘ausreichend’ (sufficient).[3] For ungraded examinations (Section 5 (3)(4)) the result shall be either ‘bestanden’ (pass) or ‘nicht bestanden’ (fail).[4] If an examination has several examiners or consists of several parts or partial achievements, the total grade is calculated from the weighted average of the individual grades; the grading system described in sentence 1 shall not be used.[5] A module examination is passed when all partial achievements (Section 5 (2)(3)) have been passed. Sentence 2 shall remain unaffected.[6] One decimal place shall count towards the module grade; further decimal places shall be omitted without being rounded.[7] If the examination is not graded, the successfully completed module shall have the result ‘bestanden’ (pass). 8The evaluation period should generally not exceed six weeks. 
+2A graded examination (Section 5 (3)(3)) has been passed if it has received at least the grade ‘ausreichend’ (sufficient).<sup>3</sup> For ungraded examinations (Section 5 (3)(4)) the result shall be either ‘bestanden’ (pass) or ‘nicht bestanden’ (fail).<sup>4</sup> If an examination has several examiners or consists of several parts or partial achievements, the total grade is calculated from the weighted average of the individual grades; the grading system described in sentence 1 shall not be used.<sup>5</sup> A module examination is passed when all partial achievements (Section 5 (2)(3)) have been passed. Sentence 2 shall remain unaffected.<sup>6</sup> One decimal place shall count towards the module grade; further decimal places shall be omitted without being rounded.<sup>7</sup> If the examination is not graded, the successfully completed module shall have the result ‘bestanden’ (pass). 8The evaluation period should generally not exceed six weeks. 
 
 10 
 
-(2)[1] Multiple-choice examinations (single and/or multiple correct answers) shall be evaluated as follows:[2] Students who answer the required minimum of examination questions correctly or attain the minimum number of attainable points according to Section 15 (4)(1) shall receive the grade: 
+(2)<sup>1</sup> Multiple-choice examinations (single and/or multiple correct answers) shall be evaluated as follows:<sup>2</sup> Students who answer the required minimum of examination questions correctly or attain the minimum number of attainable points according to Section 15 (4)(1) shall receive the grade: 
 
 1.0 (‘sehr gut’/very good) if at least 75 percent of the remaining questions were answered correctly or remaining points were achieved, 
 
@@ -278,13 +286,13 @@ ond examiner for evaluation.[4] The examiner’s evaluation must be documented i
 
 3.0 (‘befriedigend’/satisfactory) if at least 25 percent but less than 50 percent of the remaining questions were answered correctly or remaining points were achieved, 4.0 (‘ausreichend’/sufficient) if 0 or less than 25 percent of the remaining questions were answered correctly or remaining points were achieved. 
 
-3The grades can be increased or decreased by increments of 0.3 according to the percentage; the grades 0.7 and 4.3 shall not be awarded.[4] Students who do not achieve the required minimum shall receive the grade 5.0.[5] Notwithstanding Sentence 3, in addition to the grade 5.0, the grades 4.3 and 4.7 may also be awarded in cases in which examinations according to Section 15 (5) partly take the form of a multiplechoice examination. 
+3The grades can be increased or decreased by increments of 0.3 according to the percentage; the grades 0.7 and 4.3 shall not be awarded.<sup>4</sup> Students who do not achieve the required minimum shall receive the grade 5.0.<sup>5</sup> Notwithstanding Sentence 3, in addition to the grade 5.0, the grades 4.3 and 4.7 may also be awarded in cases in which examinations according to Section 15 (5) partly take the form of a multiplechoice examination. 
 
 (3) The final grade of the Master’s examination is: at an average of up to 1.5 = ‘sehr gut’ (very good) at an average of over 1.5 and up to 2.5 = ‘gut’ (good) at an average of over 2.5 and up to 3.5 = ‘befriedigend’ (satisfactory) at an average of over 3.5 and up to 4.0 = ‘ausreichend’ (sufficient) at an average of over 4.0 = ‘nicht ausreichend’ (unsatisfactory). 
 
 (4) The module grades shall be calculated from the average of the individual grades achieved in the examinations within the meaning of Section 5 (2)(2); unless otherwise stated, the individual grades shall count towards the module grade with the respective ECTS credit weighting applied to them. 
 
-(5)[1] The module grades shall count towards the final grade of the Master’s examination with the ECTS credit weighting listed for each module in **Appendix 2** .[2] Two decimal places shall count towards the final grade of the Master’s examination; further decimal places shall be omitted without being rounded. 
+(5)<sup>1</sup> The module grades shall count towards the final grade of the Master’s examination with the ECTS credit weighting listed for each module in **Appendix 2** .<sup>2</sup> Two decimal places shall count towards the final grade of the Master’s examination; further decimal places shall be omitted without being rounded. 
 
 ## **Section 18 Invalidity of Examinations** 
 
@@ -296,19 +304,19 @@ ond examiner for evaluation.[4] The examiner’s evaluation must be documented i
 
 11 
 
-(4)[1] The incorrect certificate shall be withdrawn; a new certificate shall be issued if applicable.[2] A decision according to (1) and (2) shall be excluded after a period of five years starting with the certificate’s date of issue. 
+(4)<sup>1</sup> The incorrect certificate shall be withdrawn; a new certificate shall be issued if applicable.<sup>2</sup> A decision according to (1) and (2) shall be excluded after a period of five years starting with the certificate’s date of issue. 
 
 ## **Section 19 Inspection of Examination Records** 
 
 (1) After the completion of the individual examination procedures, students shall on request be entitled to inspect their written examination papers, the corresponding reviews by the examiners, and the examination records. 
 
-(2)[1] Students shall submit the request to the responsible examination body within one month of being notified of their grades.[2] Unless the Examinations Office is responsible, the examiner shall allow the inspection; further details shall be decided by the Examinations Committee.[3] Students prevented from observing the deadline according to (1) through no fault of their own can apply for full restitution according to Section 32 of the Bavarian Administrative Procedures Act (BayVwVfG). 
+(2)<sup>1</sup> Students shall submit the request to the responsible examination body within one month of being notified of their grades.<sup>2</sup> Unless the Examinations Office is responsible, the examiner shall allow the inspection; further details shall be decided by the Examinations Committee.<sup>3</sup> Students prevented from observing the deadline according to (1) through no fault of their own can apply for full restitution according to Section 32 of the Bavarian Administrative Procedures Act (BayVwVfG). 
 
 ## **Section 20 Final Academic Record, Transcript of Records, Diploma Supplement, Degree Certificate** 
 
 (1) Students who have successfully completed a degree programme shall receive a final academic record, a transcript of records, a diploma supplement and a degree certificate, if possible within four weeks. 
 
-(2)[1] The final academic record shall contain the modules and module grades, the title and grade of the thesis and the final grade of the Master’s examination.[2] On the student’s request the duration of their studies shall be included in the report.[3] The transcript of records lists all modules attended; the final academic record and the transcript of records may be combined into one document.[4] The transcript of records and the diploma supplement shall be issued in English and German.[5] Information not yet available to the Examinations Office must be submitted together with the required proof by the time of the degree programme’s completion at the latest; otherwise this information may no longer be taken into consideration for the documents listed in paragraph (1). 
+(2)<sup>1</sup> The final academic record shall contain the modules and module grades, the title and grade of the thesis and the final grade of the Master’s examination.<sup>2</sup> On the student’s request the duration of their studies shall be included in the report.<sup>3</sup> The transcript of records lists all modules attended; the final academic record and the transcript of records may be combined into one document.<sup>4</sup> The transcript of records and the diploma supplement shall be issued in English and German.<sup>5</sup> Information not yet available to the Examinations Office must be submitted together with the required proof by the time of the degree programme’s completion at the latest; otherwise this information may no longer be taken into consideration for the documents listed in paragraph (1). 
 
 ## **Section 21 Notification of Failed Examinations** 
 
@@ -316,27 +324,27 @@ Upon request and submission of the required certificates as well as the de-regis
 
 ## **Section 22 Adjustments to Examination Arrangements** 
 
-(1)[1] The examination procedure shall be adjusted to take into account the nature and extent of a student’s disability.[2] Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination. 
+(1)<sup>1</sup> The examination procedure shall be adjusted to take into account the nature and extent of a student’s disability.<sup>2</sup> Students with a doctor’s certificate showing credibly that they are either partially or fully incapable of sitting the examination in the intended manner due to long-term or permanent disabilities which do not affect the performance which is being tested shall be entitled to be granted permission by the chairperson of the Examinations Committee to have this disadvantage offset by working time being extended accordingly or the examination process being structured differently. However, care must be taken to ensure that the examination is still suitable to provide evidence of skills which are being assessed by the examination. 
 
 12 
 
 (2) Adjustments to examination arrangements may be made for pregnant students if the student submits a medical certificate confirming that she will be at least 30 weeks pregnant by the examination date to the Examinations Committee responsible at least four weeks before the examination date. 
 
-(3)[1] Decisions according to (1) and (2) shall only be taken by the chairperson of the Examinations Committee upon written request.[2] The student may be required to submit a certificate from an official medical examiner proving the fulfilment of the conditions in paragraph (1).[3] Applications for adjustments to examination arrangements should be made to the Examinations Committee four weeks before the examination. 
+(3)<sup>1</sup> Decisions according to (1) and (2) shall only be taken by the chairperson of the Examinations Committee upon written request.<sup>2</sup> The student may be required to submit a certificate from an official medical examiner proving the fulfilment of the conditions in paragraph (1).<sup>3</sup> Applications for adjustments to examination arrangements should be made to the Examinations Committee four weeks before the examination. 
 
 ## **Section 23 Resitting Examinations, Changing Modules, Additional Modules** 
 
-(1)[1] Every failed module examination except the Master’s thesis may be resat twice. 2The resit examination shall be limited to the failed examination or course achievement or partial examination or part of an examination.[3] The resit examination shall take place at the latest six months after the previous examination result was announced.[4] Examinations shall be carried out in such a way that students are able to continue their studies if the examination is passed.[5] The resit period shall not be interrupted by de-registration or leave of absence.[6] If a student misses the resit examination or the resit period is not observed, the examination shall be deemed to have been failed unless the Examinations Committee grants the student a respite due to special reasons beyond the student’s control. Withdrawal according to Section 9 (3) shall not be permitted.[7] The provisions regarding maternity protection, parental leave and caregiver leave (Section 6(2)) shall apply. 
+(1)<sup>1</sup> Every failed module examination except the Master’s thesis may be resat twice. 2The resit examination shall be limited to the failed examination or course achievement or partial examination or part of an examination.<sup>3</sup> The resit examination shall take place at the latest six months after the previous examination result was announced.<sup>4</sup> Examinations shall be carried out in such a way that students are able to continue their studies if the examination is passed.<sup>5</sup> The resit period shall not be interrupted by de-registration or leave of absence.<sup>6</sup> If a student misses the resit examination or the resit period is not observed, the examination shall be deemed to have been failed unless the Examinations Committee grants the student a respite due to special reasons beyond the student’s control. Withdrawal according to Section 9 (3) shall not be permitted.<sup>7</sup> The provisions regarding maternity protection, parental leave and caregiver leave (Section 6(2)) shall apply. 
 
 (2) Voluntarily resitting a passed examination of the same module shall not be permitted. 
 
-(3)[1] Modules from other degree programmes offered as partial qualifications for this degree programme are classed as additional modules.[2] Examination procedures for such modules are governed by the regulations stipulated in the examination regulations for the degree programme containing the additional module.[3] Additional modules pursuant to sentence 1 are not included in the final grade, but are shown in a separate section of the transcript of records.[4] If a request is filed by a student with the office issuing the degree certificate (generally the Examinations Office) no later than eight weeks before the certificate is issued, individual additional modules may be omitted. 
+(3)<sup>1</sup> Modules from other degree programmes offered as partial qualifications for this degree programme are classed as additional modules.<sup>2</sup> Examination procedures for such modules are governed by the regulations stipulated in the examination regulations for the degree programme containing the additional module.<sup>3</sup> Additional modules pursuant to sentence 1 are not included in the final grade, but are shown in a separate section of the transcript of records.<sup>4</sup> If a request is filed by a student with the office issuing the degree certificate (generally the Examinations Office) no later than eight weeks before the certificate is issued, individual additional modules may be omitted. 
 
 (4) Subject to the special provisions in **Appendix 2** , students may choose in which order they complete the modules. 
 
 ## **Section 24 Qualification for a Master’s Degree Programme** 
 
-(1)[1] Students shall be considered to have met the qualification requirements for the Master’s degree programme in Physical Activity and Health if they: 
+(1)<sup>1</sup> Students shall be considered to have met the qualification requirements for the Master’s degree programme in Physical Activity and Health if they: 
 
 1. Hold a university degree (State Examination, Diplom, Magister or Bachelor’s degree) or another equivalent qualification from a university in Germany or abroad in the following subjects, with no major differences in terms of qualification: 
 
@@ -358,15 +366,15 @@ g) Health science
 
 2. Pass the qualification assessment process according to **Appendix 1** . 
 
-2The Admissions Committee can in exceptional circumstances recognise qualifications obtained from equivalent degree programmes (for example a degree in teaching physical education, psychology, sociology, politics, anthropology or medicine) if the completed degree includes at least 20 ECTS credits in the subjects listed in a) to g) above or at least one year of relevant work experience has been completed in the area of sport, physiotherapy or public health.[3] If there are differences between qualifications the applicant holds in accordance with sentence 2 and the qualifications required pursuant to sentence 1 (1) which can be compensated for, the Admissions Committee may grant admission under the condition that proof of further achievements worth up to a maximum of 20 ECTS credits be submitted within one year of taking up studies for a Master’s degree.[4] Section 63 BayHSchG shall apply to the assessment of equivalence of German and foreign degrees. 
+2The Admissions Committee can in exceptional circumstances recognise qualifications obtained from equivalent degree programmes (for example a degree in teaching physical education, psychology, sociology, politics, anthropology or medicine) if the completed degree includes at least 20 ECTS credits in the subjects listed in a) to g) above or at least one year of relevant work experience has been completed in the area of sport, physiotherapy or public health.<sup>3</sup> If there are differences between qualifications the applicant holds in accordance with sentence 2 and the qualifications required pursuant to sentence 1 (1) which can be compensated for, the Admissions Committee may grant admission under the condition that proof of further achievements worth up to a maximum of 20 ECTS credits be submitted within one year of taking up studies for a Master’s degree.<sup>4</sup> Section 63 BayHSchG shall apply to the assessment of equivalence of German and foreign degrees. 
 
 (2) Applicants within the meaning of paragraph 1 shall belong to the best 60 % of their class or shall have completed the degree programme in question with a final grade of at least 2.50 (= good). Section 11 (3) sentences 1 to 3 shall apply accordingly for qualifications with a different grading system. 
 
-(3)[1] Paragraph 1(1) notwithstanding, students enrolled in a Bachelor’s degree programme may be admitted to a Master’s degree programme if they have achieved at least 140 ECTS credits.[2] Proof of the successfully completed Bachelor’s degree shall be submitted at the latest by enrolment; completing the Bachelor’s degree programme is a prerequisite for formally starting the Master’s degree programme.[3] Admission to the Master’s degree programme shall be granted conditionally. 
+(3)<sup>1</sup> Paragraph 1(1) notwithstanding, students enrolled in a Bachelor’s degree programme may be admitted to a Master’s degree programme if they have achieved at least 140 ECTS credits.<sup>2</sup> Proof of the successfully completed Bachelor’s degree shall be submitted at the latest by enrolment; completing the Bachelor’s degree programme is a prerequisite for formally starting the Master’s degree programme.<sup>3</sup> Admission to the Master’s degree programme shall be granted conditionally. 
 
 ## **Section 25 Admission to Examinations** 
 
-(1)[1] Students enrolled in the Master’s degree programme shall be considered admitted to the Master’s examination and the module examinations of which the Master’s examination consists, unless admission is to be refused.[2] If there are elective options for the modules to be completed for the Master’s examination, students shall only be admitted to the modules they choose by registering for the examination.[3] Admission shall be refused if: 
+(1)<sup>1</sup> Students enrolled in the Master’s degree programme shall be considered admitted to the Master’s examination and the module examinations of which the Master’s examination consists, unless admission is to be refused.<sup>2</sup> If there are elective options for the modules to be completed for the Master’s examination, students shall only be admitted to the modules they choose by registering for the examination.<sup>3</sup> Admission shall be refused if: 
 
 1. Requirements stipulated in **Appendix 2** are not met or certificates are not submitted at all or not in due time. 
 
@@ -374,7 +382,7 @@ g) Health science
 
 (2) If admission to the degree programme’s examinations is to be refused, the decision shall be taken without delay, furnished with reasons and information on legal remedies available and announced to the student. 
 
-**Section 26 Master’s Examination, Acquisition of Subject-Specific Skills** (1)[1] The Master’s examination shall consist of all module examinations throughout the degree programme including the Master’s thesis module.[2] The Master’s examination shall be considered passed if all required module examinations and the Master’s thesis module have been passed pursuant to **Appendix 2** . 
+**Section 26 Master’s Examination, Acquisition of Subject-Specific Skills** (1)<sup>1</sup> The Master’s examination shall consist of all module examinations throughout the degree programme including the Master’s thesis module.<sup>2</sup> The Master’s examination shall be considered passed if all required module examinations and the Master’s thesis module have been passed pursuant to **Appendix 2** . 
 
 14 
 
@@ -382,31 +390,31 @@ g) Health science
 
 ## **Section 27 Master’s Thesis** 
 
-(1)[1] The Master’s thesis is a graded written assignment that concludes the Master’s degree.[2] The Master’s thesis is intended to show that the student is capable of dealing with a problem from their field independently and according to academic methods within a set period and presenting the results in an appropriate form.[3] The Master’s thesis may not to any significant degree be identical to a Diplom, Bachelor’s or Master’s thesis previously submitted by the student (prevention of plagiarism).[4] Students are awarded 25 ECTS credits for the Master’s thesis. 
+(1)<sup>1</sup> The Master’s thesis is a graded written assignment that concludes the Master’s degree.<sup>2</sup> The Master’s thesis is intended to show that the student is capable of dealing with a problem from their field independently and according to academic methods within a set period and presenting the results in an appropriate form.<sup>3</sup> The Master’s thesis may not to any significant degree be identical to a Diplom, Bachelor’s or Master’s thesis previously submitted by the student (prevention of plagiarism).<sup>4</sup> Students are awarded 25 ECTS credits for the Master’s thesis. 
 
-(2)[1] Students are required to have achieved at least 50 ECTS credits in order to be allocated a subject.[2] The subject and the date of its allocation shall be confirmed by the supervisor and presented to the Examinations Committee.[ 3] Should a student, despite a genuine effort to that end, not be allocated a subject, the chairperson of the Examinations Committee shall, in consultation with a representative of the student’s department, allocate a subject and a supervisor to the student. 
+(2)<sup>1</sup> Students are required to have achieved at least 50 ECTS credits in order to be allocated a subject.<sup>2</sup> The subject and the date of its allocation shall be confirmed by the supervisor and presented to the Examinations Committee.<sup>3</sup> Should a student, despite a genuine effort to that end, not be allocated a subject, the chairperson of the Examinations Committee shall, in consultation with a representative of the student’s department, allocate a subject and a supervisor to the student. 
 
-(3)[1] University lecturers in the Physical Activity and Health degree programmes employed at the Faculty of Humanities, Social Sciences, and Theology as their main occupation shall be entitled to assign subjects for the Master’s thesis.[2] The Examinations Committee shall have the right to grant exceptions. 
+(3)<sup>1</sup> University lecturers in the Physical Activity and Health degree programmes employed at the Faculty of Humanities, Social Sciences, and Theology as their main occupation shall be entitled to assign subjects for the Master’s thesis.<sup>2</sup> The Examinations Committee shall have the right to grant exceptions. 
 
-(4)[1] The time between the selection of a subject and the submission of the Master’s thesis shall not exceed six months; the scope of the subject must be such that it can be completed within this period.[2] The Examinations Committee shall have the right to extend the period for the Master’s thesis by a maximum of three months upon receiving a justified request.[3] If a student submits a doctor’s certificate proving that they are incapable of working on the Master’s thesis, the period set for working on the thesis will be suspended temporarily. 
+(4)<sup>1</sup> The time between the selection of a subject and the submission of the Master’s thesis shall not exceed six months; the scope of the subject must be such that it can be completed within this period.<sup>2</sup> The Examinations Committee shall have the right to extend the period for the Master’s thesis by a maximum of three months upon receiving a justified request.<sup>3</sup> If a student submits a doctor’s certificate proving that they are incapable of working on the Master’s thesis, the period set for working on the thesis will be suspended temporarily. 
 
-(5)[1] The subject may only be returned once with good reason and with the approval of the chairperson of the Examinations Committee within the first third of the period for thesis work.[2] Otherwise the Master’s thesis shall be graded ‘nicht ausreichend’ (unsatisfactory; 5.0) if the subject is returned; it shall be regarded as rejected. 
+(5)<sup>1</sup> The subject may only be returned once with good reason and with the approval of the chairperson of the Examinations Committee within the first third of the period for thesis work.<sup>2</sup> Otherwise the Master’s thesis shall be graded ‘nicht ausreichend’ (unsatisfactory; 5.0) if the subject is returned; it shall be regarded as rejected. 
 
-(6)[1] The thesis shall be written in English.[2] It shall contain a summary of findings at the end.[3] The design of the title page shall follow the template provided by the Examinations Committee.[4] The Master’s thesis shall include a declaration by the student confirming that the thesis is an original work and that no other sources or materials than the ones listed were used.[5] The Master’s thesis shall be submitted in triplicate as well as in machine-readable, electronic form to the Examinations Office; the time of submission shall be recorded in writing.[6] If the Master’s thesis is not submitted in time, it shall be graded ‘nicht ausreichend’ (unsatisfactory; 5.0); it shall be regarded as rejected. 
+(6)<sup>1</sup> The thesis shall be written in English.<sup>2</sup> It shall contain a summary of findings at the end.<sup>3</sup> The design of the title page shall follow the template provided by the Examinations Committee.<sup>4</sup> The Master’s thesis shall include a declaration by the student confirming that the thesis is an original work and that no other sources or materials than the ones listed were used.<sup>5</sup> The Master’s thesis shall be submitted in triplicate as well as in machine-readable, electronic form to the Examinations Office; the time of submission shall be recorded in writing.<sup>6</sup> If the Master’s thesis is not submitted in time, it shall be graded ‘nicht ausreichend’ (unsatisfactory; 5.0); it shall be regarded as rejected. 
 
 15 
 
-(7)[1] The Master’s thesis is usually graded by the supervisor; Section 15 (2)(2) and (3) shall apply accordingly.[2] The chairperson of the Examinations Committee shall work towards the Master’s thesis being graded within one month. 
+(7)<sup>1</sup> The Master’s thesis is usually graded by the supervisor; Section 15 (2)(2) and (3) shall apply accordingly.<sup>2</sup> The chairperson of the Examinations Committee shall work towards the Master’s thesis being graded within one month. 
 
-(8)[1] The Master’s thesis shall be accepted if it receives at least the grade ‘ausreichend’ (sufficient).[2] It shall be rejected if it receives the grade ‘nicht ausreichend’ (unsatisfactory). 
+(8)<sup>1</sup> The Master’s thesis shall be accepted if it receives at least the grade ‘ausreichend’ (sufficient).<sup>2</sup> It shall be rejected if it receives the grade ‘nicht ausreichend’ (unsatisfactory). 
 
-(9)[1] If the Master’s thesis is rejected, it may be repeated once; a second repetition shall not be permitted.[2] The student shall ensure that they receive a new subject for the repetition of the Master’s thesis within two months following the announcement of the rejection; otherwise the Master’s thesis shall be regarded as having been failed for good; paragraph 2 (3) shall apply accordingly.[3] Paragraphs 1, 2(2), 3 and 4 and 6 to 8 shall apply accordingly for the repetition of the Master’s thesis; returning the subject shall not be permitted.[4] The chairperson of the Examinations Committee may permit the student to submit a revised version of the Master’s thesis within four months of the announcement of its rejection if this has not been ruled out by the examiner’s review. If the thesis was rejected on the basis of plagiarism, it may not be revised.[5] If revision of the thesis is permitted, paragraph 1, sentences 1, 2 and 4, paragraph 2 sentence 2, paragraph 4 sentences 2 and 3 and paragraphs 6 to 8 shall apply accordingly. 
+(9)<sup>1</sup> If the Master’s thesis is rejected, it may be repeated once; a second repetition shall not be permitted.<sup>2</sup> The student shall ensure that they receive a new subject for the repetition of the Master’s thesis within two months following the announcement of the rejection; otherwise the Master’s thesis shall be regarded as having been failed for good; paragraph 2 (3) shall apply accordingly.<sup>3</sup> Paragraphs 1, 2(2), 3 and 4 and 6 to 8 shall apply accordingly for the repetition of the Master’s thesis; returning the subject shall not be permitted.<sup>4</sup> The chairperson of the Examinations Committee may permit the student to submit a revised version of the Master’s thesis within four months of the announcement of its rejection if this has not been ruled out by the examiner’s review. If the thesis was rejected on the basis of plagiarism, it may not be revised.<sup>5</sup> If revision of the thesis is permitted, paragraph 1, sentences 1, 2 and 4, paragraph 2 sentence 2, paragraph 4 sentences 2 and 3 and paragraphs 6 to 8 shall apply accordingly. 
 
 ## **Section 28 Legal Validity, Transitory Provisions** 
 
-(1)[1] These examination regulations shall come into effect on 1 October 2007.[2] They shall apply to students starting a degree programme from the winter semester 2007/08 onwards. 
+(1)<sup>1</sup> These examination regulations shall come into effect on 1 October 2007.<sup>2</sup> They shall apply to students starting a degree programme from the winter semester 2007/08 onwards. 
 
-(2)[1] The third amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting the degree programme from the winter semester 2019/2020 onwards. 
+(2)<sup>1</sup> The third amendment statute shall come into effect on the day after its publication. 2It shall apply to all students starting the degree programme from the winter semester 2019/2020 onwards. 
 
 16 
 
@@ -422,9 +430,7 @@ g) Health science
 
 2The goal of the assessment is to determine whether the applicants fulfil the higher requirements of the predominantly research-oriented Master’s degree programme and whether they will be capable of working independently and according to scientific methods. 
 
-**2.** 
-
-## **Qualification Assessment Process** 
+## **2. Qualification Assessment Process** 
 
 - 2.1  The qualification assessment process will be carried out once per year before the start of the lecture period in the winter semester. 
 
@@ -442,15 +448,13 @@ g) Health science
 
 - 2.3.5 A letter of application, one to two pages in length, in which the candidate explains why they are qualified for admission to the degree programme. 
 
-**3. Qualification Assessment Body** 
+## **3. Qualification Assessment Body** 
 
 - 3.1 In accordance with Section 10, qualification assessment shall be the responsibility of the Admissions Committee. 
 
 - 3.2 The Admissions Committee may transfer the task of coordinating and carrying out the process to individual members unless otherwise stated. 
 
-**4. Admission to the Qualification Assessment Process** 
-
-- 4.1 Admission to the qualification assessment process shall be subject to the timely and complete submission of the documents listed in (2)(3). 
+**4. Admission to the Qualification Assessment Process** 4.1 Admission to the qualification assessment process shall be subject to the timely and complete submission of the documents listed in (2)(3). 
 
 - 4.2 The qualification assessment process shall be carried out with those applicants who fulfil the requirements according to the provisions in (5). 
 
@@ -460,7 +464,7 @@ g) Health science
 
 - 5.1 First Stage of the Qualification Assessment Process 
 
-- 5.1.1[1] The admissions committee shall determine according to the application documents whether an applicant is qualified to enter into a Master’s degree programme according to No. 1.[2] In the first stage of this process, the documents are viewed by the 
+- 5.1.1<sup>1</sup> The admissions committee shall determine according to the application documents whether an applicant is qualified to enter into a Master’s degree programme according to No. 1.<sup>2</sup> In the first stage of this process, the documents are viewed by the 
 
 17 
 
@@ -472,17 +476,17 @@ Admissions Committee and rated in their entirety according to the following crit
 
    - Basic knowledge of research methodology (20 points) 
 
-- Practical experience in sports science, physiotherapy/rehabilitation science or public health (20 points). 
+   - Practical experience in sports science, physiotherapy/rehabilitation science or public health (20 points). 
 
-- 5.1.2[1] The Admissions Committee may allocate a total of 100 points.[2] The overall score is reached by adding the points scored for the individual criteria. 
+- 5.1.2<sup>1</sup> The Admissions Committee may allocate a total of 100 points.<sup>2</sup> The overall score is reached by adding the points scored for the individual criteria. 
 
 - 5.1.3 Applicants who have scored at least 70 points shall receive a notification of having passed the qualification process; ineligible applicants with less than 50 points shall receive a rejection notification including reasons and information on legal remedies available. 
 
 - 5.2. Second Stage of the Qualification Assessment Process 
 
-- 5.2.1[1] Other applicants with between 69 and 50 points shall be invited in writing to a qualification assessment interview (second stage of the qualification assessment process).[2] The date of the qualification assessment interview shall be announced at least one week in advance.[3] The date set for this interview shall be observed by the applicant.[4] If an applicant should be unable to attend the qualification assessment interview due to reasons beyond their control, a second date may be set upon justified request up until two weeks before the start of the lecture period. 
+- 5.2.1<sup>1</sup> Other applicants with between 69 and 50 points shall be invited in writing to a qualification assessment interview (second stage of the qualification assessment process).<sup>2</sup> The date of the qualification assessment interview shall be announced at least one week in advance.<sup>3</sup> The date set for this interview shall be observed by the applicant.<sup>4</sup> If an applicant should be unable to attend the qualification assessment interview due to reasons beyond their control, a second date may be set upon justified request up until two weeks before the start of the lecture period. 
 
-- 5.2.2[1] The qualification assessment interview shall be held individually for each applicant. 2With the applicant’s consent, the selection interview may also be carried out via video call.[3] The interview shall have a duration of approximately 20 minutes and is supposed to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree programme.[4] The qualification assessment shall cover in particular the following criteria: 
+- 5.2.2<sup>1</sup> The qualification assessment interview shall be held individually for each applicant. 2With the applicant’s consent, the selection interview may also be carried out via video call.<sup>3</sup> The interview shall have a duration of approximately 20 minutes and is supposed to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree programme.<sup>4</sup> The qualification assessment shall cover in particular the following criteria: 
 
    - Quality of basic knowledge of research methodology (10 points) 
 
@@ -490,11 +494,11 @@ Admissions Committee and rated in their entirety according to the following crit
 
    - Quality of basic knowledge in related disciplines such as teaching sport, psychology, sociology, politics, anthropology or medicine (10 points). 
 
-- 5.2.3[1] The qualification assessment interview will be conducted by at least two members of the Admissions Committee.[2] Each of the members awards a maximum of 30 points for the result of the qualification assessment interview.[3] The final point score of the qualification assessment interview is the arithmetic average of the individual ratings according to sentence 2, with positions after the decimal point resulting from the calculation being rounded up. 
+- 5.2.3<sup>1</sup> The qualification assessment interview will be conducted by at least two members of the Admissions Committee.<sup>2</sup> Each of the members awards a maximum of 30 points for the result of the qualification assessment interview.<sup>3</sup> The final point score of the qualification assessment interview is the arithmetic average of the individual ratings according to sentence 2, with positions after the decimal point resulting from the calculation being rounded up. 
 
-- 5.2.4[1] An applicant’s overall score shall be calculated from the sum of the scores according to No. 5.1.1 and 5.2.2.[2] Applicants who have scored 80 or more points are classified as qualified. 
+- 5.2.4<sup>1</sup> An applicant’s overall score shall be calculated from the sum of the scores according to No. 5.1.1 and 5.2.2.<sup>2</sup> Applicants who have scored 80 or more points are classified as qualified. 
 
-- 5.2.5[1] Applicants shall be notified of the result of the assessment process in writing.[2] A rejection notification shall include reasons and information on the legal remedies available. 
+- 5.2.5<sup>1</sup> Applicants shall be notified of the result of the assessment process in writing.<sup>2</sup> A rejection notification shall include reasons and information on the legal remedies available. 
 
 - 5.3 Applicants shall bear their own costs of the qualification assessment process. 
 
@@ -504,7 +508,7 @@ Admissions Committee and rated in their entirety according to the following crit
 
 ## **6. Official Record of the Qualification Assessment Process** 
 
-1An official record shall be produced in the first and second stages of the qualification assessment process, showing the date, duration and place of the assessment, the names of the Admissions Committee members, the names of the applicants, the decision of the committee members and the overall score.[2] The official records shall clearly indicate the topics discussed with the applicants and the essential reasons for the decision; the essential reasons and topics may be listed as bullet points. 
+1An official record shall be produced in the first and second stages of the qualification assessment process, showing the date, duration and place of the assessment, the names of the Admissions Committee members, the names of the applicants, the decision of the committee members and the overall score.<sup>2</sup> The official records shall clearly indicate the topics discussed with the applicants and the essential reasons for the decision; the essential reasons and topics may be listed as bullet points. 
 
 ## **7. Repeat Assessment** 
 
@@ -514,51 +518,42 @@ Applicants who did not qualify for admission to the Master’s degree programme 
 
 ## **Appendix 2: Structure of the Master’s Degree Programme (MA) Physical Activity and Health** 
 
-|Module title|Teaching unit|SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)||Distribution of workload per<br>semester in ECTS credits|Distribution of workload per<br>semester in ECTS credits|Distribution of workload per<br>semester in ECTS credits|Distribution of workload per<br>semester in ECTS credits|Type and scope of the examination/<br>course achievements|Factor<br>Final<br>grade|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||hours)|||Total<br>ECTS|||||||
-|||L|T|E|C||1.<br>sem.|2.<br>sem.|3.<br>sem.|4.<br>sem.|||
-|**PA & public health I**|Introduction topublic health|2||||5|2.5||||Written examination (90 min.)|1|
-||Introduction tophysical activityandpublic health|2|||||2.5||||||
-|**PA & public health II**|Physical activity promotion on the communitylevel||||2|||2.5||||1|
-||Evidence-base of different physical activity<br>interventions||||2|5||25|||Written assignment (approx.10-15 pages) or<br>written examination (90 min)1||
-|||||||||.|||.||
-|**Public health policies**|Physical activity policies||||2|5||5|||Written assignment (10-15 pages) or<br>written examination(90 min.)1|1|
-|**Hlh hi i I**|Basics in kinesiology|2|||||2||||Written assignment (10-20 pages) or<br>written examination (60 min.)1|1|
-|**eat enancng exercse**|Basics of exercise for health and PT||||2|5|3||||||
-|**Health enhancing exercise II**|Technical skills 1||1|||5|2.5||||Written assignment (2-5 pages)|0|
-||Technical skills 2||||2|||2.5|||||
-|**Hlh hi i III**|Programme development in HEE||||1|||2.5|||Written assignment (20-30 pages) or<br>oral examination (20 min.)1|1|
-|**eat enancng exercse**|Age/indication specific HEE||||2|5|||2.5||||
-||Introduction to rehabilitation science|2|||||2.5|||||1|
-||Medical rehabilitation||||2||2.5||||||
-|**Rehabilitation science**|Interdisciplinaryaspects and HEE in rehabilitation||||2|10|2.5||||Written examination (90 min)||
-||Current international research in PA and health<br>promotion||||2|||2.5|||||
-|**Basics of methodology I**|Methodologyof health sciences|2||||5|2.5||||Written assignment (10-15 pages)|1|
-||Quantitative methods||||2||2.5||||||
-|**Basics of methodology II**|Qualitative methods||||2|5||2.5|||Discussion contribution|0|
-||Participatoryresearch||||2|||2.5|||||
-|**Communication and interaction**|Introduction to intercultural communication||||2|5|2.5||||Discussion contribution|0|
-||Scientific research at the MA level||||2||2.5||||||
-|**Conceptualization, implementation,**<br>**evaluation I**|Introduction to QM, project conceptualization and<br>evaluation concepts||||3|5||5|||Written assignment (5-10 pages)|1|
-|**Conceptualization, implementation,**<br>**evaluation II2 **|Individual/population-based project A||||3|5|||5||2-3 oral project reports<br>(each approx. 5-10 min., 50 %) and<br>project portfolio<br>(approx. 10-15pages,50 %)5|1|
-|**Conceptualization, implementation,**<br>**evaluation III3 **|Individual/population-based project B||||3|5||||5|2-3 oral project reports<br>(each approx. 5-10 min., 50 %) and<br>project portfolio<br>(approx. 10-15pages,50 %)5|1|
-|**Physical activity diagnostics**|Physical activitymonitoring||||3|5|||5||Written assignment(8-10pages)|1|
+|||SWS (semester<br>|Distrib<br>|ution o<br>|f workload per<br>||Factor|
+|---|---|---|---|---|---|---|---|
+|||hours)<br>Total|seme|ster in|ECTS credits|Type and scope of the examination/|<br>|
+|Module title|Teaching unit|ECTS<br>L<br>T<br>E<br>C|<br>1.<br>sem.|<br>2.<br>sem.|<br>3.<br>sem.<br>4.<br>sem.|<br>course achievements|Final<br>grade|
+||Introduction topublic health|2<br>|2.5|||||
+|**PA & public health I**|Introduction tophysical activityandpublic health|5<br>2|2.5|||Written examination (90 min.)|1|
+|**PA & public health II**|Physical activity promotion on the communitylevel<br>Evidence-base of different physical activity<br>interventions|2<br>5<br>2||2.5<br>2.5||Written assignment (approx.10-15 pages) or<br>written examination (90 min.)<sup>1</sup>|1|
+|**Public health policies**|Physical activity policies|2<br>5||5||Written assignment (10-15 pages) or<br>written examination(90 min.)<sup>1</sup>|1|
+|**Health enhancing exercise I**|Basics in kinesiology<br>Basics of exercise for health and PT|2<br>5<br>2|2<br>3|||Written assignment (10-20 pages) or<br>written examination (60 min.)<sup>1</sup>|1|
+|**Health enhancing exercise II**|Technical skills 1<br>Technical skills 2|1<br>5<br>2|2.5|2.5||Written assignment (2-5 pages)|0|
+|**Health enhancing exercise III**|Programme development in HEE<br>Age/indication specific HEE|1<br>5<br>2||2.5|2.5|Written assignment (20-30 pages) or<br>oral examination (20 min.)<sup>1</sup>|1|
+||Introduction to rehabilitation science|2|2.5|||||
+||Medical rehabilitation|2|2.5|||||
+|**Rehabilitation science**|Interdisciplinaryaspects and HEE in rehabilitation|10<br>2|2.5|||Written examination (90 min)|1|
+||Current international research in PA and health<br>promotion|2||2.5||||
+|**Basics of methodology I**|Methodologyof health sciences<br>Quantitative methods|2<br>5<br>2|2.5<br>2.5|||Written assignment (10-15 pages)|1|
+||Qualitative methods|2<br>||2.5||||
+|**Basics of methodology II**|Participatoryresearch|5<br>2||2.5||Discussion contribution|0|
+|**Communication and interaction**|Introduction to intercultural communication<br>Scientific research at the MA level|2<br>5<br>2|2.5<br>2.5|||Discussion contribution|0|
+|**Conceptualization, implementation,**<br>**evaluation I**|Introduction to QM, project conceptualization and<br>evaluation concepts|3<br>5||5||Written assignment (5-10 pages)|1|
+|**Conceptualization, implementation,**<br>**evaluation II**<sup>**2**</sup>|Individual/population-based project A|3<br>5|||5|2-3 oral project reports<br>(each approx. 5-10 min., 50 %) and<br>project portfolio<br>(approx. 10-15pages,50 %)<sup>5</sup>|1|
+|**Conceptualization, implementation,**<br>**evaluation III**<sup>**3**</sup>|Individual/population-based project B|3<br>5|||5|2-3 oral project reports<br>(each approx. 5-10 min., 50 %) and<br>project portfolio<br>(approx. 10-15pages,50 %)<sup>5</sup>|1|
+|**Physical activity diagnostics**|Physical activitymonitoring|3<br>5|||5|Written assignment(8-10pages)|1|
 
 20 
 
-|**Diagnostics in rehabilitation and**<br>**prevention**|Quantitative individual diagnostics||||3|5|||5||Written examination (60 min.) or<br>written assignment(10-15pages)1|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Internship4 **|Workshop||||1|10||2.5|||Presentation (10-15 min.)|0|
-||Internship||||||||7.5||||
-|**MA thesis**|Colloquium for examination||||2|30||||5|Master’s thesis (40-60 pages)|1|
-||Thesis||||||||5|20|||
-|Total SWS:||10|1||47||30|30|30|30|||
-|Total SWS and ECTS credits||58|||||120||||||
+|**Diagnostics in rehabilitation and**<br>**prevention**|Quantitative individual diagnostics<br>3<br>5||5|Written examination (60 min.) or<br>written assignment(10-15pages)<sup>1</sup>|1|
+|---|---|---|---|---|---|
+|**Internshi**<sup>**4**</sup>|Workshop<br>1<br>10|2.5||Presentation (10-15 min)|0|
+|**p**|<br>Internship||7.5|.||
+|**MA thesis**|Colloquium for examination<br>2<br>30||5|Master’s thesis (40-60 aes)|1|
+||<br>Thesis||5<br>20|pg||
+|Total SWS:|10<br>1<br>47|30<br>30|30<br>30|||
+|Total SWS and ECTS credits|58|12|0|||
 
-> 1 The specific form of the examination depends on the specific manner in which the chosen module is taught in the respective semester and is stipulated in the module handbook, which is updated each semester. 
-
-- 2 In order to be admitted to the examination for the module ‘Conceptualization, implementation, evaluation II’ the student must provide evidence of having passed the module ‘Conceptualisation, implementation, evaluation I’. 
+> 1 The specific form of the examination depends on the specific manner in which the chosen module is taught in the respective semester and is stipulated in the module handbook, which is updated each semester. 2 In order to be admitted to the examination for the module ‘Conceptualization, implementation, evaluation II’ the student must provide evidence of having passed the module ‘Conceptualisation, implementation, evaluation I’. 
 
 - 3 In order to be admitted to the examination for the module ‘Conceptualization, implementation, evaluation III’ the student must provide evidence of having passed the module ‘Conceptualisation, implementation, evaluation II’. 
 

@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:45:29+00:00
+scraped_at: 2026-07-01T08:22:13+00:00
 ---
 
 # GeoThermie/GeoEnergie (M.Sc.)
@@ -158,7 +158,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.gzn.nat.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Shutterstock](https://www.fau.de/wp-content/uploads/sites/4/2026/03/GeoThermie_MSc_shutterstock.jpg)
+- [FAU/Nico Müller](https://www.fau.de/wp-content/uploads/sites/4/2026/06/Geothermie-MSc-Nico-Mueller.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

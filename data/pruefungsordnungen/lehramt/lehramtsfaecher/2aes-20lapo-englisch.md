@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LAPO-Englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:12+00:00
-page_count_chars: 3803
+scraped_at: 2026-07-01T08:37:30+00:00
+page_count_chars: 3781
 ---
 
 # 17. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 3803
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LAPO-Englisch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 17. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, geändert durch Satzung vom 28. September 2009, wird wie folgt geändert: 
 
@@ -42,12 +42,14 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 
 - c) In Zeile 3 Spalte 6 wird die zweite Zahl „90“ in der unteren Zeile durch die Zahl „70“ ersetzt. 
 
-## d) Zeile 6 erhält folgende neue Fassung: 
+# d) Zeile 6 erhält folgende neue Fassung: 
 
 „ 
 
-||Vertiefungsmodul<br>L-UF Language|Writing Skills<br>Practical Phonetics: Error Treatment<br>Practical Phonetics: Pronunciation Practice<br>Conversation Practice<br>Classroom Language|2<br>1<br>1<br>2<br>1|3<br>2<br>2<br>3<br>2|ZulVSS: Basismodul<br>Language<br>K 60-90 Min. (40%)<br>Audioaufnahme (20%)<br>Mündliche Kombiprüfung 15<br>Min.(40%)|
-|---|---|---|---|---|---|
+|Vertiefungsmodul<br>L-UF Language|Writing Skills|2|ZulVSS: Basismodul<br>Language<br>3<br>K 60-90 Min. (40%)|
+|---|---|---|---|
+||Practical Phonetics: Error Treatment<br>Practical Phonetics: Pronunciation Practice|1<br>1|2<br>2<br>Audioaufnahme (20%)|
+||Conversation Practice<br>Classroom Language|2<br>1|3<br>2<br>Mündliche Kombiprüfung 15<br>Min.(40%)|
 
 „ 
 
@@ -57,7 +59,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 
    - b) In Zeile 3 Spalte 2 wird das Wort „Zwischenmodul“ durch das Wort „Seminarmodul“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. Oktober 2009 in Kraft. Sie gilt für alle Studierenden, die ab dem Wintersemester 2009/2010 das Lehramtsstudium im Fach Englisch aufnehmen. 
 

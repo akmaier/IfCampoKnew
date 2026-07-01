@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.11.2012 i.d.F. 22.05.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/StuOPrO_MA_ErzwissEmpirBildforschMAI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:17+00:00
-page_count_chars: 8414
+scraped_at: 2026-07-01T09:42:08+00:00
+page_count_chars: 8489
 ---
 
 # PDF vom 09.11.2012 i.d.F. 22.05.2013
@@ -14,7 +14,7 @@ page_count_chars: 8414
 
 **Der Text dieser Studien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang ErziehungswissenschaftlichEmpirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOEE-BF - Vom 9. November 2012** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang ErziehungswissenschaftlichEmpirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOEE-BF - Vom 9. November 2012** 
 
 Geändert durch Satzung vom 22. Mai 2013 
 
@@ -30,11 +30,11 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist der Abschluss eines erziehungswissenschaftlichen Studiums bzw. eines Lehramtsstudiengangs.[2] Dieser fachspezifische Abschluss soll einem Gesamtumfang von mindestens 180 ECTS-Punkten entsprechen.[3] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden insbesondere Bachelorabschlüsse mit einem Anteil von mindestens 30 ECTS-Punkte aus dem erziehungswissenschaftlichen Bereich anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist der Abschluss eines erziehungswissenschaftlichen Studiums bzw. eines Lehramtsstudiengangs.<sup>2</sup> Dieser fachspezifische Abschluss soll einem Gesamtumfang von mindestens 180 ECTS-Punkten entsprechen.<sup>3</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden insbesondere Bachelorabschlüsse mit einem Anteil von mindestens 30 ECTS-Punkte aus dem erziehungswissenschaftlichen Bereich anerkannt. 
 
 1 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen oder fachverwandten Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.[2] Für Bewerberinnen und Bewerber nach Satz 1, Halbsatz 1 mit einem Durchschnitt von 3,01 bis 3,50 und dem Nachweis eines mindestens drei monatigem Praktikums im Bereich der Erziehungswissenschaft oder Bildungsforschung mit forschungsbezogener, wissenschaftlicher Tätigkeit findet ebenfalls ein Auswahlgespräch statt.[3] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[4] Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen der Erziehungswissenschaft besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[5] In dem mündlichen Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender gleichrangiger Kriterien beurteilt: 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen oder fachverwandten Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.<sup>2</sup> Für Bewerberinnen und Bewerber nach Satz 1, Halbsatz 1 mit einem Durchschnitt von 3,01 bis 3,50 und dem Nachweis eines mindestens drei monatigem Praktikums im Bereich der Erziehungswissenschaft oder Bildungsforschung mit forschungsbezogener, wissenschaftlicher Tätigkeit findet ebenfalls ein Auswahlgespräch statt.<sup>3</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>4</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen der Erziehungswissenschaft besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>5</sup> In dem mündlichen Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender gleichrangiger Kriterien beurteilt: 
 
 1. Sichere Kenntnisse in den fachspezifischen Grundlagen der Erziehungswissenschaft 
 
@@ -84,35 +84,36 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2012 in Kraft.
 
 ## **Anlage: Exemplarischer Studienverlaufsplan Masterstudiengang Erziehungswissenschaftlich – Empirische Bildungsforschung** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|CPs|1.<br>Sem|2. Sem|3.<br>Sem|4.<br>Sem|Art und Umfang der<br>Prüfungleistungen|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||ECTS|ECTS|ECTS|ECTS||
-|**Modul 1: Erziehungswissenschaftliche Grund-**<br>**lagen**|Vorlesung|2||||10|4||||mündliche Prüfung 15 bis 30 min.<br>bzw. Klausur 90 bis 120 min.|
-||Seminar||||2||4|||||
-||Mentorat||1||||2|||||
-|**Modul 2: Erziehungswissenschaftliche Vertie-**<br>**fung**|Seminar||||2|10|8||||Seminararbeit, ca.  20-40  Seiten|
-||Mentorat||2||||2|||||
-|**Modul 3: Methoden der Empirischen Bildungs-**<br>**forschung – Grundlagen**|Vorlesung|2||||10|4||||mündliche Prüfung 15 bis 30 min.<br>bzw. Klausur 90 bis 120 min.|
-||Seminar||||2||4|||||
-||Mentorat||1||||2|||||
-|**Modul 4: Methoden der Empirischen Bildungs-**|Seminar||||2|||8|||Seminararbeit, ca.  20-40  Seiten|
-|<br>**forschung – Vertiefung**|Mentorat||2|||10||2||||
-|**Modul 5: Ergebnisse der Empirischen Bildungs-**<br>**forschung in schulischen und außer-**<br>**schulischen Feldern**|Seminar 1||||2|10||4|||mündliche Prüfung 15 bis 30 min.<br>bzw. Klausur 90 bis 120 min.|
-||Seminar 2||||2|||4||||
-||Mentorat||1|||||2||||
-|**Modul 6: Profilgrundlagen**<br>**(Wahlpflicht)**|Vorlesung|2||||10||4|||mündliche Prüfung 15 bis 30 min.<br>bzw. Klausur 90 bis 120 min.|
-||Seminar||||2|||4||||
-||Mentorat||1|||||2||||
-|**Modul 7: Profilvertiefung**<br>**(Wahlpflicht)**|Seminar||||2|10|||8||Seminararbeit, ca.  20-40  Seiten|
-||Mentorat||2||||||2|||
-||Seminar 1||||2||||4||mündliche Prüfung 15 bis 30 min.<br>bzw. Klausur 90 bis 120 min.|
-|**Modul 8: Projektgrundlagen**|Seminar 2||||2|10|||4|||
-||Projekt||1||||||2|||
-|**Modul 9: Projektdurchführung**|Seminar||||2|10|||2||Portfolioprüfung (Projektbericht ca.<br>20-40 Seiten, Präsentation sowie<br>Disputation des Projektberichts<br>von insgesamt ca. 40-60min|
-||Projekt||1||||||8|||
-|**Modul 10: Masterarbeit**||||||30||||30|Masterarbeit ca. 120 Seiten|
-||Summe SWS:|6|12|0|22||30|30|30|30||
-|||40|||||SummeECTS:||||120|
+|Modulbezeichnun|Lehrveranstaltun|SW|S<br>CPs|1.<br>Sem|2. Sem|<br>3.<br>Sem|4.<br>Sem|Art und Umfang der|
+|---|---|---|---|---|---|---|---|---|
+|g|g|||<br>||<br>|<br>|Prüfungleistungen|
+|||V<br>Ü|P<br>S|ECTS|ECTS|ECTS|ECTS||
+|**Modul 1: Erziehunswissenschaftliche Grund-**|Vorlesung|2||4||||mündliche Prüfun 15 bis 30 min|
+|**g**<br>**lagen**|Seminar<br>||10<br>2|4<br>||||g    .<br>bzw. Klausur 90 bis 120 min.|
+||Mentorat|1||2|||||
+|**Modul 2: Erziehungswissenschaftliche Vertie-**|Seminar||2<br>10|8||||Sibit   2040  Sit|
+|**fung**|Mentorat|2||2||||emnarare, ca.  -  een|
+|**Modul 3: Methoden der Empirischen Bildungs-**|Vorlesung<br>|2|10<br>|4<br>||||mündliche Prüfung 15 bis 30 min.|
+|**forschung – Grundlagen**|Seminar||<br>2|4||||bzw Klausur 90 bis 120 min|
+||Mentorat|1||2||||.     .|
+|**Modul 4: Methoden der Empirischen Bildungs-**|Seminar||2<br>10||8|||Sibit   2040  Sit|
+|**forschung – Vertiefung**|Mentorat|2|||2|||emnarare, ca.  -  een|
+|**Modul 5: Ergebnisse der Empirischen Bildungs-**|Seminar 1||2||4|||mündliche Prüfun 15 bis 30 min|
+|**forschung in schulischen und außer-**|Seminar 2||10<br>2||4|||g    .<br>bzw Klausur 90 bis 120 min|
+|**schulischen Feldern**|Mentorat|1|||2|||.     .|
+|**Modul 6: Profilrundlaen**|Vorlesung|2|||4|||mündliche Prüfun 15 bis 30 min|
+|**gg**<br>**(Wahlpflicht)**|Seminar||10<br>2||4|||g    .<br>bzw Klausur 90 bis 120 min|
+||Mentorat|1|||2|||.     .|
+|**Modul 7: Profilvertiefung**|Seminar||2<br>10|||8||Seminararbeit ca  20-40  Seiten|
+|**(Wahlpflicht)**|Mentorat|2||||2||, .|
+||Seminar 1||2|||4|||
+|**Modul 8: Projektgrundlagen**|Seminar 2||10<br>2|||4||mündliche Prüfung 15 bis 30 min.<br>12|
+||Projekt|1||||2||bzw. Klausur 90 bis 0 min.|
+||Seminar||2|||2||Portfolioprüfung (Projektbericht ca.|
+|**Modul 9: Projektdurchführung**|Projekt|1|10|||8||20-40 Seiten, Präsentation sowie<br>Disputation des Projektberichts<br>von insgesamt ca. 40-60min|
+|**Modul 10: Masterarbeit**|||30||||30|Masterarbeit ca. 120 Seiten|
+|||6<br>12|0<br>22|30|30|30|30||
+||Summe SWS:|40||||Summe|ECTS:|120|
 
 4 
 

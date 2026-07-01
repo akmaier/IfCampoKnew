@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Juli 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_MA_MedicalProcessManagement.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:22:35+00:00
-page_count_chars: 20519
+scraped_at: 2026-07-01T08:47:09+00:00
+page_count_chars: 20571
 ---
 
 # 15. Juli 2016
@@ -12,29 +12,29 @@ page_count_chars: 20519
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_MA_MedicalProcessManagement.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Dritte Satzung zur Änderung der Prüfungsordnung für den nicht-konsekutiven Masterstudiengang Medical Process Management der Medizinischen Fakultät der Universität Erlangen-Nürnberg - MPM** 
+# **Dritte Satzung zur Änderung der Prüfungsordnung für den nicht-konsekutiven Masterstudiengang Medical Process Management der Medizinischen Fakultät der Universität Erlangen-Nürnberg - MPM** 
 
-## **Vom 15. Juli 2016** 
+# **Vom 15. Juli 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den nicht-konsekutiven Masterstudiengang Medical Process Management der Medizinischen Fakultät der Universität Erlangen-Nürnberg – MPM vom 7. November 2008, zuletzt geändert durch Satzung vom 13. Mai 2014, wird wie folgt geändert: 
 
-1. § 4 wird wie folgt geändert: 
+# 1. § 4 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „Masterstudiengänge“ die Worte „Regelstudienzeiten, Unterrichtssprache“ und ein Komma eingefügt sowie die Worte „und Regelstudienzeiten“ gestrichen. 
+- a) In der Überschrift werden nach dem Wort „Masterstudiengänge“ die Worte „Regelstudienzeiten, Unterrichtssprache“ und ein Komma eingefügt sowie die Worte „und Regelstudienzeiten“ gestrichen. 
 
-   - b) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: „(3)[1] Die Unterrichts- und Prüfungssprache ist deutsch.[2] Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden. 3Näheres regelt das Modulhandbuch.“ 
+- b) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: „(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist deutsch.<sup>2</sup> Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden. 3Näheres regelt das Modulhandbuch.“ 
 
-   - c) Der bisherige Abs. 3 wird zu Abs. 4. 
+- c) Der bisherige Abs. 3 wird zu Abs. 4. 
 
-2. § 6 wird wie folgt geändert: 
+# 2. § 6 wird wie folgt geändert: 
 
-   - a) In Abs. 2 Satz 3 wird das Wort „Teilleistungen“ durch die Worte „Teilprüfungen oder Prüfungsteilen bzw. aus einer Kombination aus Prüfungs- und Studienleistungen“ ersetzt. 
+- a) In Abs. 2 Satz 3 wird das Wort „Teilleistungen“ durch die Worte „Teilprüfungen oder Prüfungsteilen bzw. aus einer Kombination aus Prüfungs- und Studienleistungen“ ersetzt. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
 aa) In Satz 2 wird nach dem Wort „mündlich“ ein Komma und das Wort „elektronisch“ eingefügt. 
 
@@ -68,17 +68,15 @@ bb) Die Worte „seinen oder ihren“ werden durch die Worte „ihren bzw. seine
 
    - a) In Abs. 1 Satz 4 werden die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 2 erhält folgende Fassung: 
-
-      - „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
+   - b) Abs. 2 erhält folgende Fassung: „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
 
    - c) In Abs. 3 Satz 3 werden die Worte „Prüferin oder dem Prüfer“ durch die Worte „bzw. dem Prüfenden“ ersetzt. 
 
-5. § 8 wird wie folgt geändert: 
+# 5. § 8 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 3 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 1 Satz 3 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
 aa) Die Worte „Vorsitzende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
@@ -104,7 +102,7 @@ bb) In Satz 3 werden nach dem Wort „Notenbescheide“ die Worte „der bzw. de
 
 cc) In Satz 4 wird das Wort „oder“ durch das Wort „bzw.“ sowie die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
-## 6. § 9 wird wie folgt geändert: 
+# 6. § 9 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
@@ -116,25 +114,25 @@ cc) In Satz 4 wird das Wort „oder“ durch das Wort „bzw.“ sowie die Worte
 
 bb)  In Satz 2 wird jeweils das Wort „oder“ durch das Wort „bzw." ersetzt. 
 
-## 7. § 10 wird wie folgt geändert: 
+# 7. § 10 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
 - b) Der Abs. 3 wird wie folgt geändert: 
 
-   - aa)  Der Wortlaut von Abs. 3 wird zu Satz 1. 
+aa)  Der Wortlaut von Abs. 3 wird zu Satz 1. 
 
-   - bb)  In Satz 1 (neu) werden nach dem Wort „Rücktritt“ die Worte „vom Erstversuch“ eingefügt und die Worte „Prüfenden oder“ durch das Wort „bzw.“ ersetzt. 
+- bb)  In Satz 1 (neu) werden nach dem Wort „Rücktritt“ die Worte „vom Erstversuch“ eingefügt und die Worte „Prüfenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - cc)  Nach Satz 1 (neu) werden folgende neue Sätze 2 bis 4 angefügt: „[2] § 7 Abs. 3 S. 3 gilt entsprechend.[3] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung.[4] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 4.“ 
+- cc)  Nach Satz 1 (neu) werden folgende neue Sätze 2 bis 4 angefügt: „<sup>2</sup> § 7 Abs. 3 S. 3 gilt entsprechend.<sup>3</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung.<sup>4</sup> Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 4.“ 
 
 3 
 
 dd)  In Abs. 4 Satz 1 werden die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 8. § 11 wird wie folgt geändert: 
+8. § 11 wird wie folgt geändert: 
 
-- a) Abs. 2 Satz 1 wird wie folgt geändert: 
+   - a) Abs. 2 Satz 1 wird wie folgt geändert: 
 
 aa) Nach dem Wort „Professorin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -146,19 +144,21 @@ bb) Die Worte „Vorsitzenden oder“ werden durch das Wort „bzw.“ ersetzt.
 
 - b) Abs. 3 wird wie folgt geändert: 
 
-aa) In Satz 4 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. bb) In Satz 5 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+aa) In Satz 4 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 9. § 12 wird wie folgt geändert: 
+      - bb) In Satz 5 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-- a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
+9. § 12 wird wie folgt geändert: 
 
-- b) In Abs. 1 Satz 1 wird das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
+   - a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
 
-- c) In Abs. 2 Satz 1 werden die Worte „einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind“ durch die Worte „außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind“ ersetzt. 
+   - b) In Abs. 1 Satz 1 wird das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
 
-- d) In Abs. 3 Sätze 1 und 2 wird jeweils das Wort „angerechneter“ durch das Wort „anerkannter“ ersetzt. 
+   - c) In Abs. 2 Satz 1 werden die Worte „einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind“ durch die Worte „außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind“ ersetzt. 
 
-- e) Abs. 4 wird wie folgt geändert: 
+   - d) In Abs. 3 Sätze 1 und 2 wird jeweils das Wort „angerechneter“ durch das Wort „anerkannter“ ersetzt. 
+
+   - e) Abs. 4 wird wie folgt geändert: 
 
 aa) In Satz 1 wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt sowie die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -178,25 +178,27 @@ aa)  Satz 1 wird zum neuen Abs. 1.
 
 bb)  Die bisherigen Sätze 2 und 3 werden zu Abs. 2 Sätze 1 und 2. 
 
-   - c) Abs. 2 (neu) wird wie folgt geändert: 
+- c) Abs. 2 (neu) wird wie folgt geändert: 
 
-      - aa)  In Satz 1 (neu) wird nach den Worten „Person oder der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+   - aa)  In Satz 1 (neu) wird nach den Worten „Person oder der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb)  In Satz 2 (neu) werden die Worte „Die Sätze 1 und 2 gelten“ durch die Worte „Satz 1 gilt“ ersetzt. 
+   - bb)  In Satz 2 (neu) werden die Worte „Die Sätze 1 und 2 gelten“ durch die Worte „Satz 1 gilt“ ersetzt. 
 
-   - d) Der bisherige Abs. 2 wird gestrichen. 
+- d) Der bisherige Abs. 2 wird gestrichen. 
 
-   - e) Nach Abs. 2 (neu) wird folgender neuer Abs. 3 angefügt: „(3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
+- e) Nach Abs. 2 (neu) wird folgender neuer Abs. 3 angefügt: 
 
-11. § 15 wird wie folgt geändert: 
+   - „(3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
-   - a) In Abs. 1 wird das Wort „ist“ durch das Wort „kann“, die Worte „Studierenden oder“ durch das Wort „bzw.“, das Wort „anzuordnen“ durch die Worte „angeordnet werden“ sowie nach den Worten „dass von einer“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+# 11. § 15 wird wie folgt geändert: 
 
-   - b) In Abs. 2 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“, die Worte Prüferin oder dem Prüfer“ durch die Worte „bzw. dem Prüfenden“ ersetzt. 
+- a) In Abs. 1 wird das Wort „ist“ durch das Wort „kann“, die Worte „Studierenden oder“ durch das Wort „bzw.“, das Wort „anzuordnen“ durch die Worte „angeordnet werden“ sowie nach den Worten „dass von einer“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-12. § 16 wird wie folgt geändert: 
+- b) In Abs. 2 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“, die Worte Prüferin oder dem Prüfer“ durch die Worte „bzw. dem Prüfenden“ ersetzt. 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+# 12. § 16 wird wie folgt geändert: 
+
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) Satz 3 wird gestrichen. 
 
@@ -214,21 +216,21 @@ cc) In Satz 3 werden nach den Worten „so ist die einer“ die Worte „bzw. ei
 
 dd) Es wird folgender neuer Satz 5 angefügt: 
 
-„[5] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>5</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 - c) In Abs. 3 Sätze 4 und 6 wird jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 13. § 17 wird wie folgt geändert: 
+13. § 17 wird wie folgt geändert: 
 
 - a) Abs. 1 Satz 2 wird wie folgt geändert: 
 
    - aa) Nach dem Wort „Beisitzerin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-bb) Die Worte „Prüferin oder“ werden durch das Wort „bzw.“ ersetzt. 
+   - bb) Die Worte „Prüferin oder“ werden durch das Wort „bzw.“ ersetzt. 
 
 cc) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt. 
 
-- b) Abs. 3 wird wie folgt geändert: 
+b) Abs. 3 wird wie folgt geändert: 
 
 aa) In Satz 1 werden die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfenden“ ersetzt und nach dem Wort „Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt, sowie die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -236,15 +238,15 @@ bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 - c) In Abs. 4 wird jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 14. § 17a wird wie folgt geändert: 
+# 14. § 17a wird wie folgt geändert: 
 
-- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: „[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: „<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
 - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
 - c) In Satz 5 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ und das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 15. § 18 wird wie folgt geändert: 
+# 15. § 18 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden die Worte „der jeweiligen Prüferin oder dem jeweiligen Prüfer“ durch die Worte „der bzw. dem jeweiligen Prüfenden“ ersetzt. 
 
@@ -266,13 +268,13 @@ bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 cc) Satz 5 erhält folgende neue Fassung: 
 
-„[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 festgesetzt werden.“ 
+„<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 festgesetzt werden.“ 
 
 16. In § 19 Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
 17. § 20 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
 aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
@@ -280,13 +282,13 @@ bb) Das Wort „oder“ wird durch das Wort „bzw.“ ersetzt.
 
 cc) Die Worte „Prüferinnen und Prüfer“ werden durch das Wort „Prüfenden“ ersetzt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
 aa) In Satz 1 werden die Worte „der Vorsitzenden oder“ gestrichen, sowie die Worte „Vorsitzenden des Prüfungsausschusses“ durch die Worte „für die Einsicht zuständigen Prüfungsorgan“ ersetzt. 
 
 bb) Es wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
+„<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -308,13 +310,13 @@ erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung d
 
 aa) In Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: „[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
+bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: „<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
 
 cc) Der bisherige Satz 2 wird zu Satz 3. 
 
 - dd)  In Satz 3 (neu) werden die Worte „spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen“ durch die Worte „möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten“ ersetzt. 
 
-## 20. § 24 wird wie folgt geändert: 
+# 20. § 24 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -328,21 +330,21 @@ aa) In Satz 3 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 bb) In Satz 6 werden nach den Worten „können auf Antrag des“ die Worte „bzw. der“ eingefügt. 
 
-## 21. § 25 Abs. 1 wird wie folgt geändert: 
+21. § 25 Abs. 1 wird wie folgt geändert: 
 
    - a) In Satz 2 Nr. 2 wird nach dem Wort „anderen“ das Wort „gleichwertigen“ eingefügt. 
 
    - b) In Satz 3 wird nach dem Wort „Bewerberinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-22. § 28 wird wie folgt geändert: 
+# 22. § 28 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 werden die Worte „Studierende oder“ durch das Wort „bzw.“ und das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 1 Satz 1 werden die Worte „Studierende oder“ durch das Wort „bzw.“ und das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 2 Satz 3  wird wie folgt geändert: 
+- b) Abs. 2 Satz 3  wird wie folgt geändert: 
 
 8 
 
-aa)  Die Worte „Vorsitzende oder“ werden durch das Wort „bzw.“ ersetzt. 
+- aa)  Die Worte „Vorsitzende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
 - bb)  Nach dem Wort Fachvertreterin wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -364,9 +366,11 @@ cc) In Satz 3 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 dd) In Satz 4 Halbsatz 1 wird das Wort „Fassung“ durch das Wort „Form“ ersetzt. 
 
-- f) Abs. 7 wird wie folgt geändert: aa)  In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- f) Abs. 7 wird wie folgt geändert: 
 
-bb) In Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+   - aa)  In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+
+   - bb) In Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
 - g) Abs. 9 wird wie folgt geändert: 
 
@@ -394,16 +398,15 @@ bb) In Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ 
 
 - e) Nach Zeile 40 (neu) werden folgende Zeilen eingefügt: 
 
-|„|||||
-|---|---|---|---|---|
-|**3.8**|**Pharmamanagement I**|**60 Min. (K)**|**3**|**5**|
-|**3.9**|**Kostenträger I**|**60 Min. (K)**|**3**|**5**|
+|„<br>**3.8**|**Pharmamanagement I**|**60 Min. (K)**|**3**<br>**5**|
+|---|---|---|---|
+|**3.9**|**Kostenträger I**|**60 Min. (K)**|**3**<br>**5**|
 
 „ 
 
 - f) Die Zeile 45 (4.2 Zusatzmodul*: Pharmabetriebslehre) wird gestrichen. 
 
-## 25. Die Anlage 2 wird wie folgt geändert 
+# 25. Die Anlage 2 wird wie folgt geändert 
 
 - a) In Abs. 2 Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -443,7 +446,7 @@ ff) In Satz 6 (neu) wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 - g) Abs. 10 wird gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 
 

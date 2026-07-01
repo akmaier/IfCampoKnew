@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Frankoromanistik_2FachBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:57:32+00:00
-page_count_chars: 2352
+scraped_at: 2026-07-01T10:18:42+00:00
+page_count_chars: 2354
 ---
 
 # 11. Juli 2008
@@ -12,7 +12,7 @@ page_count_chars: 2352
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Frankoromanistik_2FachBA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -20,7 +20,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 Die Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität ErlangenNürnberg vom 4. Oktober 2007 wird wie folgt geändert: 
 
-§ 4 Abs. 2 Satz 2 wird wie folgt geändert: 
+## § 4 Abs. 2 Satz 2 wird wie folgt geändert: 
 
 - a) In der dritten Spalte der Tabelle werden in der Zeile 10 die Worte „Compréhension orale et civilisation“ durch die Worte „Communication orale“ ersetzt. 
 

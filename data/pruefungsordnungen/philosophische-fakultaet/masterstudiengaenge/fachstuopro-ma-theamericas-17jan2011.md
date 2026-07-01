@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 17.01.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-TheAmericas.17JAN2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:23:29+00:00
-page_count_chars: 6777
+scraped_at: 2026-07-01T09:38:28+00:00
+page_count_chars: 6852
 ---
 
 # PDF vom 08.06.2010 i.d.F. 17.01.2011
@@ -14,7 +14,7 @@ page_count_chars: 6777
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang The Americas/Las Américas an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOAm - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang The Americas/Las Américas an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOAm - Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 5. November 2010 17. Januar 2011 
 
@@ -28,13 +28,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifische Abschlüsse sind Abschlüsse in Zwei-Fach-Bachlorstudiengängen in den Fächern Amerikanistik bzw. Anglistik/Amerikanistik und/oder Iberoromanistik bzw. Lateinamerikanistik.[2] Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden amerikanistische/anglistische oder lateinamerikanistische/iberoromanistische EinFach-Bachelorabschlüsse und Drei-Fach-Bachelorabschlüsse mit einem anglistischen/amerikanistischen und/oder lateinamerikanistischen/iberoromanistischen Anteil von mindestens 60 ECTS-Punkten anerkannt sowie Diplomund Magisterabschlüsse in Anglistik/Amerikanistik und/oder Iberoromanistik/Lateinamerikanistik und Abschlüsse des Ersten Staatsexamens in Englisch und/oder Spanisch. 
+(1)<sup>1</sup> Fachspezifische Abschlüsse sind Abschlüsse in Zwei-Fach-Bachlorstudiengängen in den Fächern Amerikanistik bzw. Anglistik/Amerikanistik und/oder Iberoromanistik bzw. Lateinamerikanistik.<sup>2</sup> Als fachverwandte oder gleichwertige Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden amerikanistische/anglistische oder lateinamerikanistische/iberoromanistische EinFach-Bachelorabschlüsse und Drei-Fach-Bachelorabschlüsse mit einem anglistischen/amerikanistischen und/oder lateinamerikanistischen/iberoromanistischen Anteil von mindestens 60 ECTS-Punkten anerkannt sowie Diplomund Magisterabschlüsse in Anglistik/Amerikanistik und/oder Iberoromanistik/Lateinamerikanistik und Abschlüsse des Ersten Staatsexamens in Englisch und/oder Spanisch. 
 
 (2) In den Bewerbungsunterlagen sind Sprachkenntnisse mindestens auf dem Niveau C1 des Gemeinsamen Europäischen Referenzrahmens in Englisch und B2 in Spanisch nachzuweisen. 
 
 1 
 
-(3)[1] Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 und schlechter können aufgrund eines Auswahlgesprächs in den Masterstudiengang The Americas/Las Américas aufgenommen werden.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie/er in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten versteht.[3] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
+(3)<sup>1</sup> Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 und schlechter können aufgrund eines Auswahlgesprächs in den Masterstudiengang The Americas/Las Américas aufgenommen werden.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie/er in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
 
 1. Sichere Kenntnisse in den fachspezifischen Grundlagen. 
 
@@ -56,31 +56,30 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 |**Sem.**|**Modulbezeichnungen**|**Lehrveranstaltungen**|**SWS**|**ECTS-**<br>**Punkte**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|
-|1|**Modul 1**<br>**Grundlagenmodul**<br>**The Americas/**<br>**Las Américas**|V Introducción a los estudios<br>iberoamericanos|2|5|MP (20’)|100 %|
-|||V North American Cultural Studies|2|5|||
-|||ÜbungInteramerikanistik|2|5|||
-|1+2|**Modul 2a**<br>**Wahlpflichtmodul**<br>**Lengua Española/**<br>**Español de América 1**|V/HS Español de América|2|5|K (90’)/HA (15<br>S./30.000 Z.)|50 %|
-|||Ü Español Avanzado|2|3|K (90’)|50 %|
-|||Ü Introducción a la cultura<br>latinoamericana|2|2|Unbenotete<br>Studienleistung||
-||**Modul 2b**<br>**Wahlpflichtmodul**<br>**Lengua Española/**<br>**Español de América 2**|V/HS Español de América|2|5|K (90’)/HA (15<br>S./30.000Z.)|50 %|
-|||Ü Producción oral y<br>escrita – registros y<br>tipologia de textos|2|5|K (90’)|50 %|
-||**Modul 2c**<br>**Wahlpflichtmodul**<br>**English Language **|Ü Discourse Structure|2|4|MP (20’)|100 %|
-|||Ü Academic Discourse|2|6|||
-||**Modul 3**<br>**Raum und Region**|VL Einführung in die Ansätze der<br>Kulturgeographie und der<br>raumtheoretischen Diskussion|2|5|HA (20 S./<br>40.000 Z.)|100 %|
-|||HS Theorien und Konzepte der<br>Kulturgeographie|2|5|||
-|2|**Modul 4**<br>**North America:**<br>**Culture and Literature**|HS American Culture or Literature|2|8|HA (20 S./<br>40.000 Z.)|80 %|
-|||Ü Readings in American Cultural or<br>Literary Studies|1|2|Thesenpapier (5 S.)|20 %|
-||**Modul 5**<br>**Iberoamérica:**<br>**Cultura y Literatura**|HS Literatura y cultura<br>iberoamericana|2|8|HA (20 S./<br>40.000Z.)|100 %|
-|||Ü Lecturas iberoamericanas|2|2|Unbenotete<br>Studienleistung||
-|2 /3|**Modul 6a**<br>**Wahlpflichtmodul**<br>**Migration**|HS/VL Migration und Integration|2|5|K(90’)/MP(15’)|50 %|
-|||Ü/HS Migration und Integration|2|5|HA (20 S./<br>40.000Z.)1|50 %|
-||**Modul 6b**<br>**Wahlpflichtmodul**<br>**Menschenrechte**|HS/VL|2|5|K (90’)|100 %|
-|||HS/Ü|2|5|||
-|3|**Modul 7**<br>**North America:**<br>**Politics and Society**|V Introduction to International<br>Political Economy|2|5|K (90’)|30 %|
-|||HS aus dem Bereich Area<br>Studies/English Speaking Countries|2|5|HA (20 S./<br>40.000Z.)|50 %|
-||||||Präsentation<br>(bis 30’)|20 %|
-||**Modul 8**<br>**Iberoamérica:**<br>**Política y Sociedad**|V Economía, sociedad y política en<br>el mundoiberoamericano|2|5|K (60’)|50 %|
-|||HS Economía, sociedad y política<br>enel mundoiberoamericano|2|5|HA (20 S./ 40.000 Z.)|50 %|
+||**Modul 1**<br>|V Introducción a los estudios<br>iberoamericanos|2|5|||
+|1|**Grundlagenmodul**<br>**The Americas/**|<br>V North American Cultural Studies|2|5|MP (20’)|100 %|
+||**Las Américas**|ÜbungInteramerikanistik|2|5|||
+||**Modul 2a**|V/HS Español de América|2|5|K (90’)/HA (15<br>S./30.000 Z.)|50 %|
+||**Wahlpflichtmodul**<br>**Lengua Española/**<br>|Ü Español Avanzado|2|3|K (90’)|50 %|
+||**Español de América 1**|Ü Introducción a la cultura<br>latinoamericana|2|2|Unbenotete<br>Studienleistung||
+||**Modul 2b**<br>**Wahlflichtmodul**|V/HS Español de América<br>|2|5|K (90’)/HA (15<br>S./30.000Z.)|50 %|
+|1+2|**p**<br>**Lengua Española/**<br>**Español de América 2**|Ü Producción oral y<br>escrita – registros y<br>tipologia de textos|2|5|K (90’)|50 %|
+||**Modul 2c**<br>**Wahlflichtmodul**|Ü Discourse Structure|2|4|MP (20’)|100 %|
+||**p**<br>**English Language **|Ü Academic Discourse|2|6|||
+||**Modul 3**<br>|VL Einführung in die Ansätze der<br>Kulturgeographie und der<br>raumtheoretischen Diskussion|2|5|HA (20 S./<br>|100 %|
+||**Raum und Region**|HS Theorien und Konzepte der<br>Kulturgeographie|2|5|40.000 Z.)||
+||**Modul 4**<br>**Nrth Amri**|HS American Culture or Literature|2|8|HA (20 S./<br>40.000 Z.)|80 %|
+|2|**o eca:**<br>**Culture and Literature**|Ü Readings in American Cultural or<br>Literary Studies|1|2|Thesenpapier (5 S.)|20 %|
+||**Modul 5**<br>**Iberoamérica:**|HS Literatura y cultura<br>iberoamericana|2|8|HA (20 S./<br>40.000Z.)|100 %|
+||<br>**Cultura y Literatura**|Ü Lecturas iberoamericanas|2|2|Unbenotete<br>Studienleistung||
+||**Modul 6a**<br>|HS/VL Migration und Integration|2|5|K(90’)/MP(15’)|50 %|
+|2 /3|**Wahlpflichtmodul**<br>**Migration**|Ü/HS Migration und Integration|2|5|HA (20 S./<br>40.000Z.)<sup>1</sup>|50 %|
+||**Modul 6b**|HS/VL|2|5|||
+||**Wahlpflichtmodul**<br>**Menschenrechte**|<br>HS/Ü|<br>2|<br>5|K (90’)|100 %|
+||**Modul 7**|V Introduction to International<br>Political Economy|2|5|K (90’)|30 %|
+||<br>**North America:**<br>**Politics and Society**|HS aus dem Bereich Area<br>Studies/English Speaking Countries|2|5|HA (20 S./<br>40.000Z.)<br>Präsentation<br>(bis 30’)|50 %<br>20 %|
+|3|**Modul 8**<br>|V Economía, sociedad y política en<br>el mundoiberoamericano|2|5|K (60’)|50 %|
+||**Iberoamérica:**<br>**Política y Sociedad**|HS Economía, sociedad y política<br>enel mundoiberoamericano|2|5|HA (20 S./ 40.000 Z.)|50 %|
 ||**Modul 9**<br>**Projektmodul The**<br>**Americas/Las Américas**|Workshop/Directed Study und<br>Kolloquium|1|5|Projektarbeit|100 %|
 |4|**Masterarbeit**|||30|||
 

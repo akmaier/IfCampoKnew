@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-Politikwiss-2Fach-BA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:41+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:29:01+00:00
+page_count_chars: 1946
 ---
 
 # 22. Juli 2008
@@ -12,82 +12,46 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa-Politikwiss-2Fach-BA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+# Satzung zur Anderung der Fachstudien- und Priifungsordnung fiir das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultat und Fachbereich Theologie der FriedrichAlexander-Universitat Erlangen-Nurnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Vom2z2. Juli 2008 
 
-### OCR Seite 1
+Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-NUurnberg folgende Anderungssatzung: 
 
-```
-81
-Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-
-Fach-Bachelorstudiengarg
-an
-der
-Philosophischen
-Fakultät
-und
-Fachbereich
-Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
-5. Oktober
-2007 wird wie folgt geändert:
-8 3 Abs. 1wird wie folgt gefasst:
-„Mit dem Fach Politikwissenschaft soll eines der im Folgenden genannten Fächer
-kombinier! werden:
-1.
-Buchwissenschaft
-2.
-English and American Studies
-3.
-Frankoromanistik
-4.
-Germanistik
-5.
-Geschichte
-6.
-Griechische Philologie
-7.
-\beroromanistik
-8.
-Indogermanistik
-9.
-Italoromanistik
-10. Japanologie
-11.Kulturgeschichte des Christentums
-12.Kunstgeschichte
-13. Linguistische Informatik
-14.Mittellatein
-15. Öffentliches Recht als Zweitfach
-16.Ökonomie
-17. Orientalistik
-18. Pädagogik
-19. Philosophie
-20. Religion
-21,Sinologie
-22.Soziologie
-23. Theater- und Medienwissenschaften“
-```
+Die Fachstudien- und Prufungsordnung ftir das Fach Politikwissenschaft im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultat und Fachbereich Theologie der Friedrich-Alexander-Universitat Erlangen-Nuirnberg vom 5. Oktober 2007 wird wie folgt geandert: 
 
-### OCR Seite 2
+§ 3 Abs. 1wird wie folgt gefasst: 
 
-```
-Gh A
+»Mit dem Fach Politikwissenschaft soll eines der im Folgenden genannten Facher Kombiniert werden: 
+
+1. Buchwissenschaft 2. English and American Studies 3. Frankoromanistik 4. Germanistik 5. Geschichte 6. Griechische Philologie 7. |beroromanistik 8. Indogermanistik 9. Italoromanistik 10. Japanologie 
+
+11. Kulturgeschichte des Christentums 
+
+12. Kunstgeschichte 
+
+13.Linguistische Informatik 14. Mittellatein 15. Offentliches Recht als Zweitfach 
+
+16. Okonomie 17. Orientalistik 18.Padagogik 
+
+19. Philosophie 20. Religion 
+
+21, Sinologie 
+
+22.Soziologie 
+
+23. Theater- und Medienwissenschaften* 
+
+§ 2 
+
+Diese Satzung tritt am 1. Oktober 2008 in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat ErlangenNurnberg vom 16. Juli 2008 und der Genehmigungsfeststellung des Rektors vom 21. Juli 2008., 
+
+Erlangen, den 22. Juli 2008 
+
+<!-- Start of picture text -->
+Ufa L.<br><!-- End of picture text -->
 [Kontaktperson entfernt]
-wurde
-am
-22.
-Juli
-2008
-in
-der
-Universität
-Erlangen-Nürnberg
-niedergelegt;
-die Niederlegung wurde am 22.
-Juli 2008 durch Anschlag
-in der
-Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung
-ist der
-22. Juli 2008.
-```
+Die Satzung wurde am 22. Juli 2008 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 22. Juli 2008 durch Anschlag in der Universitat Erlangen-Nurnberg bekannt gegeben. Tag der Bekanntmachung ist der 22. Juli 2008. 
 

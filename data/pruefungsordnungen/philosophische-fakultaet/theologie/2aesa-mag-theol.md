@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. April 1987"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa-Mag-Theol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:41:46+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:52:42+00:00
+page_count_chars: 1962
 ---
 
 # 7. April 1987
@@ -12,217 +12,38 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa-Mag-Theol.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Zweite Satzung zur Anderung der Ordnung fiir den Grad eines Magisters der Theologie (Mag.theol.) der Friedrich-AlexanderUniversitat Erlangen-Nurnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Vom 7. April 1987 
 
-### OCR Seite 1
+Auf Grund von Art. 5 und Art. 70 des Bayerischen Hochschulgesetzes erlaBt die Universitat Erlangen-Nirnberg folgende Anderungssatzung: § 1 Die Ordnung fiir den Grad eines Magisters der Theologie (Mag.theol.) der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 13. Februar 1984 (KMB1 II S. 102), geandert durch Satzung vom 3. November 1986 (KWMB1 II 1987 S. 93), wird wie folgt geandert: 
 
-```
-81
-Die
-Ordnung
-für
-den
-Grad
-eines
-Magisters
-der
-Theologie
-(Mag.theol.)
-der
-Friedrich-Alexander-Universität
-Erlangen-Nürnberg
-vom
-13.
-Fe-
-bruar
-1984
-{KMBl
-II
-S.
-102),
-geändert
-durch
-Satzung
-vom
-3.
-Novem-
-ber
-1986
-(KWMBl
-II
-1987
-S.
-93),
-wird
-wie
-folgt
-geändert:
-1.
-8
-17
-wird
-wie
-folgt
-geändert:
-a)
-Es
-wird
-folgender
-neuer
-Absatz
-6
-eingefügt:
-"Die
-Prüfung
-ist
-bestanden,
-wenn
-sämtliche
-Fachnoten
-min-
-destens
-ausreichend
-(bis
-4,00)
-sind."
-b)
-Der
-bisherige
-Absatz
-6
-wird Absatz
-7.
-c)
-Es
-wird
-folgender
-neuer
-Absatz
-8
-angefügt:
-"Ist
-die
-Fachnote
-in
-zwei
-oder
-mehr
-Fächern
-schlechter
-als
-ausreichend
-(4,00),
-so
-ist
-ein
-Ausgleich
-nicht
-möglich."
-2.
-$
-20
-Abs.
-1
-erhält
-folgende
-Fassung:
-"Die
-Prüfung
-kann
-in
-dem
-einen
-Fach,
-in
-dem
-sie
-wegen
-nicht
-ausreichender
-oder
-nicht
-durch
-ein
-gutes
-Ergebnis
-in
-einem
-anderen
-Fach
-ausgeglichener
-Leistungen
-nicht
-bestanden
-ist
-(vgl.
-8
-17
-Abs.
-7),
-einmal
-binnen
-sechs
-Monate wiederholt
-werden."
-82
-Diese
-Satzung
-tritt
-am
-Tage
-nach
-ihrer
-Bekanntmachung
-in
-Kraft.
-Le
-```
+1. § 17 wird wie folgt gedndert: 
 
-### OCR Seite 2
+   - a) Es wird folgender neuer Absatz 6 eingefigt: "Die Prifung ist bestanden, wenn samtliche Fachnoten mindestens ausreichend (bis 4,00) sind." 
 
-```
-Erlangen,
-den
-7.
-Aprıl
-1987
-N. Abe‘
-(
-Prof.
-Dr.
-N.
-Fiebiger
-)
-Präsident
-Die
-Satzung wurde
-am
-7.
-April
-1987
-in der
-Universität
-Erlangen-
-Nürnberg niedergelegt;
-die Niederlegung wurde
-am
-7.
-April
-1987
-durch
-Anschlag
-in
-der Universität
-Erlangen-Nürnberg
-bekanntge-
-geben.
-Tag der Bekanntmachung
-ist
-der
-7.
-April
-1987.
-```
+   - b) Der bisherige Absatz 6 wird Absatz 7. 
+
+   - c) Es wird folgender neuer Absatz 8 angefitgt: "Tst die Fachnote in zwei oder mehr Fachern schlechter als ausreichend (4,00), so ist ein Ausgleich nicht modglich." 
+
+2. § 20 Abs. 1 erhdalt folgende Fassung: "Die Prifung kann in dem einen Fach, in dem sie wegen nicht ausreichender oder nicht durch ein gutes Ergebnis in einem anderen Fach ausgeglichener Leistungen nicht bestanden ist (vgl. § 17 Abs. 7), einmal binnen sechs Monate wiederholt werden." 
+
+§ 2 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+=. 2 = 
+
+= 2 = 
+
+Ausgefertigt auf Grund des Beschlusses des Senats der Universitat Erlangen-Nirnberg vom 25. Februar 1987 und der Genehmigung des Staatsministeriums fiir Wissenschaft und Kunst mit Schreiben vom 30. Marz 1987 Nr. I B 4 - 6/13 868. 
+
+Erlangen, den 7. April 1987 
+
+<!-- Start of picture text -->
+M. Feb *<br><!-- End of picture text -->
+
+( Prof. Dr. N. Fiebiger ) Prasident 
+
+Die Satzung wurde am 7. April 1987 in der Universitat ErlangenNurnberg niedergelegt; die Niederlegung wurde am 7. April 1987 durch Anschlag in der Universitat Erlangen-Nurnberg bekanntgegeben. Tag der Bekanntmachung ist der 7. April 1987. 
 

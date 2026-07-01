@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Deutsch als Zweitsprache FPO LA DaZ 20220811 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/DaZ/Aenderungssatzungen/LA_Deutsch als Zweitsprache_FPO_LA_DaZ_20220811_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:05:33+00:00
-page_count_chars: 12629
+scraped_at: 2026-07-01T08:37:08+00:00
+page_count_chars: 11674
 ---
 
 # LA Deutsch als Zweitsprache FPO LA DaZ 20220811 ÄS.pdf
@@ -12,19 +12,19 @@ page_count_chars: 12629
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/DaZ/Aenderungssatzungen/LA_Deutsch als Zweitsprache_FPO_LA_DaZ_20220811_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch als Zweitsprache (DaZ) im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA DaZ –** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch als Zweitsprache (DaZ) im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA DaZ –** 
 
-## **Vom 11. August 2022** 
+# **Vom 11. August 2022** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Deutsch als Zweitsprache (DaZ) im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA DaZ – vom 3. Februar 2020, geändert durch Satzung vom 23. November 2020, wird wie folgt geändert: 
 
 1. In § 1 wird nach den Worten „an der Otto-Friedrich-Universität Bamberg verorteten“ das Wort „Bachelorstudiengangs“ durch die Worte und Zeichen „Studiengangs Bachelor Ed. / Master Ed.“ ersetzt. 
 
-## 2. § 2 wird wie folgt geändert: 
+# 2. § 2 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -58,7 +58,7 @@ aa) Die bisherige Regelung wird zum neuen Satz 1.
 
 bb) Nach dem Satz 1 (neu) wird folgender Satz 2 angefügt: 
 
-„[2] Das konkrete, semesteraktuelle Angebot wird im Modulhandbuch veröffentlicht.“ 
+„<sup>2</sup> Das konkrete, semesteraktuelle Angebot wird im Modulhandbuch veröffentlicht.“ 
 
 3. § 3 wird wie folgt geändert: 
 
@@ -68,78 +68,63 @@ bb) Nach dem Satz 1 (neu) wird folgender Satz 2 angefügt:
 
    - c) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Es wird das Erlernen einer aktuell migrationsbedingt relevanten Sprache, beginnend möglichst auf dem Niveau A1, empfohlen; es stehen u. a. folgende Sprachen zur Auswahl: Arabisch, Chinesisch, Italienisch, Japanisch, Koreanisch, Neugriechisch, Persisch, Polnisch, Portugiesisch, Russisch, Spanisch, Swahili, Tschechisch, Türkisch, Ukrainisch, Ungarisch.“ 
+„<sup>2</sup> Es wird das Erlernen einer aktuell migrationsbedingt relevanten Sprache, beginnend möglichst auf dem Niveau A1, empfohlen; es stehen u. a. folgende Sprachen zur Auswahl: Arabisch, Chinesisch, Italienisch, Japanisch, Koreanisch, Neugriechisch, Persisch, Polnisch, Portugiesisch, Russisch, Spanisch, Swahili, Tschechisch, Türkisch, Ukrainisch, Ungarisch.“ 
 
 - d) Nach Satz 2 wird folgender Satz 3 angefügt: 
 
-„[3] Als Partnersprache ausgeschlossen sind die beiden modernen Fremdsprachen Englisch und Französisch.“ 
+„<sup>3</sup> Als Partnersprache ausgeschlossen sind die beiden modernen Fremdsprachen Englisch und Französisch.“ 
 
 2 
 
-## 4. § 4 wird wie folgt geändert: 
+# 4. § 4 wird wie folgt geändert: 
 
-## a) Die Tabelle unter Abs. 1 erhält samt Erläuterungen folgende neue Fassung: 
+# a) Die Tabelle unter Abs. 1 erhält samt Erläuterungen folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tn**|||||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||||||||||||
-||||||||||**Punkten1**|||||||
-|||||||||||||||||
-||**ug**|**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|**7.**|||
-|**Grundlagenmodul **||||||||||||||||
-|Grundlagenmodul DaZ (LA GS)|Vorlesung|2||||**6**|3|||||||Klausur (90 Min.)|1|
-||Tutorium||1||||1|||||||||
-||Seminar||||2||2|||||||||
-|**Aufbaumodul **||||||||||||||||
-|Aufbaumodul DaZ (LA GS)|Seminar||||2|**5**||2||||||Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)**2**|1|
-||Seminar||||2|||3||||||||
-|**Summe (SWS und ECTS-Punkte): **||**2**|**1**|**0**|**6**|**11**|**6**|**5**|**0**|**0**|**0**|**0**|**0**|||
+|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||**SWS**<br><br>||**Gesamt**<br>**ECTS**|**Workload-V**<br> <br>|**erte**<br>|**ilung pro**<br>**Punkten**<br><br>|**Semest**<br> <sup>**1**</sup><br>|**er in ECTS-**<br><br>|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Grundlagenmodul **||**V**|**Ü**<br>**P**|**S**||**1.**<br>**2.**|**3. **|<br>**4.**|**5. **|**6. **<br>**7.**||**note**|
+||Vorlesung|2||||3|||||||
+|Grundlagenmodul DaZ (LA GS)|Tutorium||1||**6**|1|||||Klausur (90 Min.)|1|
+||Seminar|||2||2|||||||
+|**Aufbaumodul **|||||||||||||
+||Seminar|||2||2|||||Hausarbeit (ca. 15 S.)_oder_<br>||
+|Aufbaumodul DaZ (LA GS)|Seminar|||2|**5**|3|||||mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)<sup>**2**</sup>|1|
+|**Summe (SWS u**|**nd ECTS-Punkte): **|**2**|**1**<br>**0**|**6**|**11**|**6**<br>**5**|**0**|**0**|**0**|**0**<br>**0**|||
 
 > **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - **2** Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
 
-## b) Abs. 2 wird gestrichen. 
+# b) Abs. 2 wird gestrichen. 
 
-## c) Abs. 3 wird zum neuen Abs. 2. 
+# c) Abs. 3 wird zum neuen Abs. 2. 
 
-## d) Die Tabelle unter dem Abs. 2 (neu) erhält samt Erläuterungen folgende neue Fassung: 
+# d) Die Tabelle unter dem Abs. 2 (neu) erhält samt Erläuterungen folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||||||||||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||**Gesamt**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten 1**|||||||**Art und Umfang der**||
-||||||||||<br>**Punkten 1**|||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**Prüfung**||
-|||||||||||||||||
-|**Grundlagenmodule**||||||||||||||||
-|Grundlagenmodul I DaZ (LA MS)|Vorlesung|2||||**5**|3|||||||Klausur (90 Min.)|1|
-||Seminar||||2||2|||||||||
-|Grundlagenmodul II DaZ (LA MS)|Tutorium||2|||**5**|||2|||||Hausarbeit (ca. 15 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)**2**|1|
-||Seminar||||2||||3|||||||
+|**Modulbezeichnung**<br>**Grundlagenmodule**<br>Gdldl I DZ LA MS|**Lehrveranstal-**<br>**tung**<br>Vorlesung|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**<br>2|**Gesamt**<br>**ECTS**<br>**5**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten **<sup>**1**</sup><br>**Art und Umfang der**<br>**Prüfung**<br>**1.**<br>**2.**<br>**3.**<br>**4.**<br>**5.**<br>**6.**<br>**7.**<br>3<br>Kl 90 Mi|**Faktor**<br>**Modul-**<br>**note**<br>1|
+|---|---|---|---|---|---|
+|runagenmou  a ( )|Seminar|2||ausur ( n.)<br>2||
+|Gdldl II DZ LA MS|Tutorium|2|**5**|2<br>Hausarbeit (ca. 15 S.)_oder_<br>mündlih Prüfn 20 Min_dr_|1|
+|runagenmou  a ( )|Seminar|2||ce ug ( .)_oe_<br>Posterpräsentation (20 Min.)<sup>**2**</sup><br>3||
 
 3 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||||||||||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||**Gesamt**|**Workload-Verteilung pro Semester in ECTS-**<br>**Punkten 1**|||||||**Art und Umfang der**||
-||||||||||<br>**Punkten 1**|||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**7.**|**Prüfung**||
-|||||||||||||||||
-|**Aufbaumodul **||||||||||||||||
-|Aufbaumodul I DaZ (LA MS)|Seminar||||2|**5**||5||||||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)**2**|1|
-|Aufbaumodul II DaZ (LA MS)|Vorlesung|2||||**5**||||3||||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)**2**|1|
-||Seminar||||2|||||2||||||
-|**Summe (SWS und ECTS-Punkte): **||**4**|**2**|**0**|**8**|**20**|**5**|**5**|**5**|**5**|**0**|**0**|**0**|||
+|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**|**SWS**<br> <br> <br> <br>|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Punkten**<br> <br> <br> <br>|**Semester in E**<br> <sup>**1**</sup><br> <br>|**CTS-**<br>**Art und Umfang der**<br>**Prüfung**<br>|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|
+|**Aufbaumodul **<br>Aufbaumodul I DaZ (LA MS)|<br>Seminar|**V**<br>**Ü**<br>**P**<br>**S**<br>2|<br>**5**|**1.**<br>**2.**<br>**3.**<br>**4.**<br>5|**5.**<br>**6.**|<br>**7.**<br>Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation (20 Min.)<sup>**2**</sup>|**note**<br>1|
+|Aufbaumodul II DaZ (LA MS)|Vorlesung|2|**5**|3||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min)_oder_|1|
+||Seminar|2||2||.<br>Posterpräsentation (20 Min.)<sup>**2**</sup>||
+|**Summe (SW**|**S und ECTS-Punkte): **|**4**<br>**2**<br>**0**<br>**8**|**20**|**5**<br>**5**<br>**5**<br>**5**|**0**<br>**0**|**0**||
 
 - **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - **2** Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
 
-## e) Abs. 4 wird zum neuen Abs. 3. 
+# e) Abs. 4 wird zum neuen Abs. 3. 
 
 - f) Abs. 5 wird zum neuen Abs. 4. 
 
@@ -147,39 +132,30 @@ bb) Nach dem Satz 1 (neu) wird folgender Satz 2 angefügt:
 
 - h) Die Tabelle unter Abs. 4 (neu) erhält samt Erläuterungen folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Art und Umfang der Prüfung/**<br>**Stdilit**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||||||||||||
-||||||||||**ECTS-Punkten1**|||||||
-|||||||||||||||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|**7.**|**uenesung**||
-|**Grundlagenmodul I DaZ**|Vorlesung|2||||**5**|3|||||||Klausur (90 Min.)|0|
-||Seminar||||2||2|||||||||
-||Vorlesung|2|||||||2|||||Hausarbeit (ca. 20-25 S.)_oder_||
-|**Grundlagenmodul II DaZ**|Seminar||||2|**10**|||4|||||mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation(20 Min.) **2**|0|
-||Seminar||||2||||4|||||||
-|**Aufbaumodul DaZ**|Vorlesung|2||||**5**||||2||||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation(20 Min.) **2**|0|
-||Seminar||||2|||||3||||||
-|**Vertiefungsmodul I DaZ**|Seminar||||2|**5**||||5||||Hausarbeit (ca. 20-25 S.)_oder_<br>mündlichePrüfung (20Min.) _oder_|0|
+|**Modulbezeichnung**|**Lehrveranstaltung**|**V**<br>|**SWS**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**Workload-Vert**<br>**ECT**<br>**1.**<br>**2.**<br>**3. **|**eilung p**<br>**S-Punk**<br>**4.**|**ro Semester in**<br>**ten**<sup>**1**</sup><br>**5. **<br>**6. **<br>**7.**|**Art und Umfang der Prüfung/**<br>**Studienleistung**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Grundlagenmodul I DaZ**|Vorlesung|2||**5**|3|||Klausur (90 Min)|0|
+||Seminar||2||2|||.||
+||Vorlesung|2|||2|||Hausarbeit (ca. 20-25 S.)_oder_||
+|**Grundlagenmodul II DaZ**|Seminar||2|**10**|4|||mündliche Prüfung (20 Min.)_oder_<br>|0|
+||Seminar||2||4|||Posterpräsentation(20 Min.) <sup>**2**</sup>||
+|**Aufbaumodul DaZ**|Vorlesung|2||**5**||2||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfun (20 Min)_oder_|0|
+||Seminar||2|||3||g  .<br>Posterpräsentation(20 Min.) <sup>**2**</sup>||
+|**Vertiefungsmodul I DaZ**|Seminar||2|**5**||5||Hausarbeit (ca. 20-25 S.)_oder_<br>mündlichePrüfung (20Min.) _oder_|0|
 
 4 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>**ECTS**||**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Workload-Verteilung pro Semester in**<br>**ECTS-Punkten1**|**Art und Umfang der Prüfung/**<br>**Stdilit**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||||||||||||
-||||||||||**ECTS-Punkten1**|||||||
-|||||||||||||||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|**7.**|**uenesung**||
-|||||||||||||||Posterpräsentation(20 Min.) **2**||
-|**Vertiefungsmodul II DaZ**|Seminar**3**||||2|**5**||||5||||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation(20 Min.) **2**|0|
-|**Sprachmodul I3**||||||||||||||Klausur (90 Min.)_oder_<br>lih Pf  1 Mi|0|
-||Sprachkurs I||4|||**5**|5|||||||mündce rüung (ca. 5-60 n.)<br>_oder_||
-|||||||||||||||Hausarbeit(ca. 15 S.) **2**||
-|**Sprachmodul II** **3**|Sprachkurs II||4|||**5**||5||||||Klausur (90 Min.)_oder_<br>mündliche Prüfung (ca. 15-60 Min.)<br>_oder_<br>Hausarbeit(ca. 15 S.) **2**|0|
-|**Praktikumsmodul**|Praktikum|||||**5**||||||5||Praktikumsbericht<br>(ca. 20 S.)|0|
-|**Summe (SWS und ECTS-Punkte): **||**6**|**8**||**12**|**45**|**10**|**5**|**10**|**15**|**0**|**5**|**0**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SW**<br> <br>|**S**<br> <br>|**Gesamt**<br>**ECTS**|**Workloa**<br> <br>|**d-Vert**<br>**ECT**<br>|**eilung p**<br>**S-Punkt**<br>|**ro Semester in**<br>**en**<sup>**1**</sup><br><br>|<br>**Art und Umfang der Prüfung/**<br>**Studienleistung**<br>|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||**V**<br>**Ü**|**P**<br>**S**||**1.**<br>**2.**|**3. **|**4.**|**5. **<br>**6. **|<br>**7.**|**note**|
+||||||||||Posterpräsentation(20 Min.) <sup>**2**</sup>||
+|**Vertiefungsmodul II DaZ**|Seminar<sup>**3**</sup>||2|**5**|||5||Hausarbeit (ca. 20-25 S.)_oder_<br>mündliche Prüfung (20 Min.)_oder_<br>Posterpräsentation(20 Min.) <sup>**2**</sup>|0|
+|**Sprachmodul I**<sup>**3**</sup>|Sprachkurs I|4||**5**|5||||Klausur (90 Min.)_oder_<br>mündliche Prüfung (ca. 15-60 Min.)<br>_oder_<br>Hausarbeit(ca. 15 S.) <sup>**2**</sup>|0|
+|**Sprachmodul II** <sup>**3**</sup>|Sprachkurs II|4||**5**|5||||Klausur (90 Min.)_oder_<br>mündliche Prüfung (ca. 15-60 Min.)<br>_oder_<br>Hausarbeit(ca. 15 S.) <sup>**2**</sup>|0|
+|**Praktikumsmodul**|Praktikum|||**5**||||5|Praktikumsbericht<br>(ca. 20 S.)|0|
+|**Su**|**mme (SWS und ECTS-Punkte): **|**6**<br>**8**|**12**|**45**|**10**<br>**5**|**10**|**15**|**0**<br>**5**|**0**||
 
 - **1** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Das Studium kann auch zügiger absolviert werden. **2** Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
 
@@ -189,11 +165,11 @@ bb) Nach dem Satz 1 (neu) wird folgender Satz 2 angefügt:
 
 5. In § 5 wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die zweite Änderungssatzung tritt zum 1. Oktober 2022 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2022/2023 aufnehmen werden. 3Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab.“ 
+„(4)<sup>1</sup> Die zweite Änderungssatzung tritt zum 1. Oktober 2022 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2022/2023 aufnehmen werden. 3Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab.“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt zum 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt zum 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 23. Februar 2022, 27. April 2022 sowie vom 29. Juli 2022 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 3. Juni 2022 Nr. IV.5BS4067.5/13/35. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOECO 20220328 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Economics/Aenderungssatzungen/FPOECO_20220328_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:34:48+00:00
-page_count_chars: 5566
+scraped_at: 2026-07-01T11:00:44+00:00
+page_count_chars: 5606
 ---
 
 # FPOECO 20220328 ÄS.pdf
@@ -12,25 +12,25 @@ page_count_chars: 5566
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Economics/Aenderungssatzungen/FPOECO_20220328_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO –** 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO –** 
 
-## **Vom 28. März 2022** 
+# **Vom 28. März 2022** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO – vom 20. Juli 2009, zuletzt geändert durch Satzung vom 11. März 2021, wird wie folgt geändert: 
 
-## 1. § 2 wird wie folgt geändert: 
+# 1. § 2 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach den Worten „ **MPOWISO** ist der“ die Worte „Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** sowie ein“ eingefügt und nach den Worten „Volkswirtschaftslehre bzw. Economics“ die Worte „sowie der Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** “ durch die Worte „einer anderen Hochschule, der zu dem Bachelorabschluss Wirtschaftswissenshaften mit Schwerpunkt VWL an der FAU keine wesentlichen Unterschiede aufweist“ ersetzt. 
+- aa) In Satz 1 werden nach den Worten „ **MPOWISO** ist der“ die Worte „Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** sowie ein“ eingefügt und nach den Worten „Volkswirtschaftslehre bzw. Economics“ die Worte „sowie der Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** “ durch die Worte „einer anderen Hochschule, der zu dem Bachelorabschluss Wirtschaftswissenshaften mit Schwerpunkt VWL an der FAU keine wesentlichen Unterschiede aufweist“ ersetzt. 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Bewerberinnen und Bewerber, die laut Abschlussdokument des Erstabschlusses (insbesondere Transcript of Records) in ihrem persönlichen Studienverlauf weniger als 40 ECTS-Punkte in den Bereichen Volkswirtschaftslehre, Mathematik, Statistik oder Ökonometrie erzielt haben, gelten als ungeeignet und erhalten einen mit Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.“ 
+„<sup>3</sup> Bewerberinnen und Bewerber, die laut Abschlussdokument des Erstabschlusses (insbesondere Transcript of Records) in ihrem persönlichen Studienverlauf weniger als 40 ECTS-Punkte in den Bereichen Volkswirtschaftslehre, Mathematik, Statistik oder Ökonometrie erzielt haben, gelten als ungeeignet und erhalten einen mit Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.“ 
 
 - b) In Abs. 3 Satz 1 werden nach den Worten „oder besser abgeschlossen haben“ die Worte „und in den fachspezifischen Modulen der Volkswirtschaftslehre mindestens 40 ECTS-Punkte und in den methodischen Modulen (Mathematik, Ökonometrie oder Statistik) mindestens 20 ECTS-Punkte nachgewiesen haben“ angefügt. 
 
@@ -44,7 +44,7 @@ d) Abs. 6 wird wie folgt geändert:
 
 aa) Nr. 1 wird wie folgt geändert: 
 
-- (1) In Satz 1 werden vor dem Wort „Qualität“ die hochgestellte Zahl „[1] “ gestrichen und im Klammerzusatz am Satzende die Zahl „50“ durch die Zahl „30“ ersetzt und nach dem Wort „Punkte“ die Worte „gemäß nachfolgender Tabelle“ angefügt. 
+- (1) In Satz 1 werden vor dem Wort „Qualität“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen und im Klammerzusatz am Satzende die Zahl „50“ durch die Zahl „30“ ersetzt und nach dem Wort „Punkte“ die Worte „gemäß nachfolgender Tabelle“ angefügt. 
 
 - (2) Satz 2 wird mit Ausnahme der ersten Tabelle gestrichen. 
 
@@ -60,15 +60,15 @@ bb) Nr. 2 wird wie folgt geändert:
 
       - „c) Qualifikation in Bezug auf das Studium; Bewertung anhand des Bewerbungsschreibens, insbesondere Vorhandensein sonstiger Qualifikationen im Bereich der Ökonomie und ihrer Anwendungen (maximal 10 Punkte gemäß nachfolgender Tabelle). 
 
-|“|Umfang der sonstigen Qualifikationen|Punkte (maximal 10 Punkte)|
-|---|---|---|
-||Signifikant|10|
-||Vorhanden, aber geringfügig|5|
-||||
+|Umfang der sonstigen Qualifikationen|Punkte (maximal 10 Punkte)|
+|---|---|
+|Signifikant|10|
+|Vorhanden, aber geringfügig|5|
+|“||
 
-## cc) Nr. 3 erhält folgende neue Fassung: 
+# cc) Nr. 3 erhält folgende neue Fassung: 
 
-- „3.[1] Extracurrikulare, sonstige Qualifikationen, die anhand des Bewerbungsschreibens und der unter Abs. 2 und Abs. 4 genannten Nachweise beurteilt werden.[2] Es werden insgesamt maximal 10 Punkte wie folgt vergeben: 
+- „3.<sup>1</sup> Extracurrikulare, sonstige Qualifikationen, die anhand des Bewerbungsschreibens und der unter Abs. 2 und Abs. 4 genannten Nachweise beurteilt werden.<sup>2</sup> Es werden insgesamt maximal 10 Punkte wie folgt vergeben: 
 
    - a) Für einschlägige Auslandsaufenthalte 3 Punkte, 
 
@@ -78,9 +78,9 @@ bb) Nr. 2 wird wie folgt geändert:
 
    - d) für Sprachniveau und Ausdrucksfähigkeit anhand des Bewerbungsschreibens maximal 10 Punkte nach folgendem Schema: 
 
-Sprachniveau und Ausdrucksfähigkeit 
+<u>Sprachniveau und Ausdrucksfähigkeit</u> 
 
-Punkte (maximal 10 Punkte) 
+<u>Punkte (maximal 10 Punkte)</u> 
 
 2 
 
@@ -92,9 +92,9 @@ Punkte (maximal 10 Punkte)
 
 2. In § 5 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die zehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.“ 
+„(5)<sup>1</sup> Die zehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden. 
 

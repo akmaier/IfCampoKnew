@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 01.04.2009 i.d.F. 24.09.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Spanisch-NEU-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:17:31+00:00
-page_count_chars: 9075
+scraped_at: 2026-07-01T08:43:56+00:00
+page_count_chars: 8396
 ---
 
 # pdf vom 01.04.2009 i.d.F. 24.09.2010
@@ -34,23 +34,21 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 **§ 2 Grundlagen- und Orientierungsprüfung** Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissenschaft im Fach Spanisch für das Lehramt an Gymnasien die Modulprüfungen in den Basismodulen Spanische Sprachpraxis 1 und Einführung in die Iberoromanistik (20 ECTS) erfolgreich abgelegt werden. 
 
-**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** (1)[1] Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
+**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** (1)<sup>1</sup> Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
 
 1 
 
-(2)[1] Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.[2] Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
+(2)<sup>1</sup> Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.<sup>2</sup> Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
 
 **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die Schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
 
 ## **2. Lehramt an Gymnasien** 
 
-**§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
-
-(1) Im Studium des Faches Spanisch für das Lehramt an Gymnasien sind im Bereich der Fachwissenschaft folgende Module erfolgreich abzulegen: Spanische Sprachpraxis 1-5; Einführung in die Iberoromanistik; Spanische Sprachwissenschaft 1; Spanische Literatur- und Kulturwissenschaft 1; Spanische Sprach-, Literatur- und Kulturwissenschaft für das Lehramt an Gymnasien A oder B. 
+**§ 5 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium des Faches Spanisch für das Lehramt an Gymnasien sind im Bereich der Fachwissenschaft folgende Module erfolgreich abzulegen: Spanische Sprachpraxis 1-5; Einführung in die Iberoromanistik; Spanische Sprachwissenschaft 1; Spanische Literatur- und Kulturwissenschaft 1; Spanische Sprach-, Literatur- und Kulturwissenschaft für das Lehramt an Gymnasien A oder B. 
 
 (2) Alle Basis- und Aufbaumodule sollten nach Möglichkeit in den unter Abs. 3 angegebenen Studiensemestern absolviert werden. 
 
-|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:|
+|(3) Z|um Studienaufbau und zu den Prüfungen vg|l. die f|olgend|e Tabelle:||
 |---|---|---|---|---|---|
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |1|**Basismodul**<br>**Spanische Sprachpraxis 1**||**10**|**Klausur**||
@@ -63,19 +61,15 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |1/2|**Basismodul Einführung in die Iberoromanistik**||**10**|**Doppelklausur**||
 ||Einführung in die spanische Sprachwissenschaft|2|4|K 90’|0,5|
 ||Einführung in die spanische Literaturwissenschaft|3|6|K 90’|0,5|
-|3/4|**Aufbaumodul**<br>**Spanische Sprachwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**||
-|||||||
-|||||||
+|3/4|**Aufbaumodul**<br>**Spanische Sprachwissenschaft 1**||**10**|**Prüfungsleistung a**<br>**PS + Klausur oder**<br>**che Prüfung**|**us dem**<br>**mündli-**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|2|SL||
 ||Übung|2|4|K 90’ / MP 15’|0,4|
 
 2 
 
-|3/4|**Aufbaumodul Spanische und/oder lateinameri-**<br>**kanische Literatur- und Kulturwissenschaft 1**|||**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**|
+|3/4|**Aufbaumodul Spanische und/oder lateinameri-**<br>**kanische Literatur- und Kulturwissenschaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur ode**<br>**che Prüfung**|**aus dem**<br>**r mündli-**|
 |---|---|---|---|---|---|
-||||**10**|||
-|||||||
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 ||Übung|2|2|SL||
@@ -84,7 +78,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 ||Gramática y estilística I|2|2|SL||
 ||Español avanzado|2|3|K 90’|1,0|
 ||Introducción a la cultura española|2|3|SL||
-|5/6|**Vertiefungsmodul**<br>**Spanische Sprachpraxis 4**||**10**|**Klausur oder mündliche**<br>**Prüfung**||
+|5/6|**Vertiefungsmodul**<br>**Spanische Sprachpraxis 4**||**10**|**Klausur oder mün**<br>**Prüfung**|**dliche**|
 ||Introducción a la cultura latinoamericana|2|5|K 90’/<br>MP 15’|1,0|
 ||Traducción alemán-español|2|3|SL||
 ||Comprensión y comunicación escrita|2|2|SL||
@@ -93,14 +87,14 @@ FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = S
 
 ## **Pflichtbereich für Spanisch als erstes Fach (LAG)** 
 
-|FS|**Modul**||**ECTS**||
-|---|---|---|---|---|
-|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
-||Schriftliche Hausarbeit||10||
+|FS|**Modul**|**ECTS**|
+|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**|**10**|
+||Schriftliche Hausarbeit|10|
 
 3 
 
-## **Studium nach dem 6. Semester LAG** 
+## **<u>Studium nach dem 6. Semester LAG</u>** 
 
 ||**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -111,33 +105,32 @@ FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = S
 
 Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert: 
 
-## **Modul A:** 
+## **<u>Modul A:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
 |7/8|**Spanische Sprach-, Literatur- und Kultur-**<br>**wissenschaft für das Lehramt an Gymna-**<br>**sien A**||**15**|||
-|||||||
-|||||||
 ||Hauptseminar spanische Literaturwissenschaft|2|8|HA|0,6|
 ||Hauptseminar spanische Sprachwissenschaft|2|4|Vortrag (Referat)|0,4|
 ||Wissenschaftliche Übung: Spanische Kultur-<br>wissenschaft und Landeskunde|2|3|SL||
-|**Modul B:**||||||
+
+## **<u>Modul B:</u>** 
+
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
+|---|---|---|---|---|---|
 |7/8|**Spanische Sprach-, Literatur- und Kultur-**<br>**wissenschaft für das Lehramt an Gymna-**<br>**sien B**||**15**|||
-|||||||
-|||||||
 ||Hauptseminar spanische Sprachwissenschaft|2|8|HA|0,6|
 ||Hauptseminar spanische Literaturwissenschaft|2|4|Vortrag (Referat)|0,4|
 ||Wissenschaftliche Übung: Spanische Kultur-<br>wissenschaft und Landeskunde|2|3|SL||
 
 K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung 
 
-|Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:||
-|---|---|---|---|---|---|
+<u>Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:</u> 
+
 |**FS**|**Modulbezeichnung**|**SWS**|**ECTS**|**Prüfungsleistung**|**Faktor**|
-|1-3|**Fachdidaktisches Modul 1:**||**5**|||
-||**Einführung in die Didaktik des Spani-**|||||
-||**schen**|||||
+|---|---|---|---|---|---|
+|1-3|**Fachdidaktisches Modul 1:**|||||
+||**Einführung in die Didaktik des Spani-**<br>**schen**||**5**|||
 ||Übung: Einführung in die Fachdidaktik des<br>Spanischen|2|3|K 90’|1|
 ||Proseminar / Übung|2|2|SL||
 |4-7|**Fachdidaktisches Modul 2:**<br>**Didaktik des Spanischen (Lehramt Gym-**<br>**nasien)**||**5**|||
@@ -149,9 +142,7 @@ Im **freien Bereich** können folgende Module gewählt werden:
 
 |**FS**|**Modulbezeichnung**|**Veranstaltungsart**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-||**Vertiefungsmodul**<br>**Freier Bereich**|||||
-|||||**5**||
-|||||||
+||**Vertiefungsmodul**<br>**Freier Bereich**|||**5**||
 |7-9|Optionsmodul Sprachwis-<br>senschaft|Vorlesung / Seminar /<br>Übung|2|5|SL|
 |7-9|Optionsmodul Literaturwis-<br>senschaft|Vorlesung / Seminar /<br>Übung|2|5|SL|
 |7-9|Optionsmodul Sprachpraxis|Sprachpraktischer<br>Oberkurs|2|5|SL|

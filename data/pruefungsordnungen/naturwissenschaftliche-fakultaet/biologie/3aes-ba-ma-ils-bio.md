@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Mai 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA_MA_ILS_Bio.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:33:55+00:00
-page_count_chars: 13496
+scraped_at: 2026-07-01T08:57:26+00:00
+page_count_chars: 13447
 ---
 
 # 11. Mai 2015
@@ -12,13 +12,13 @@ page_count_chars: 13496
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA_MA_ILS_Bio.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/ILS)** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/ILS)** 
 
 Vom 11. Mai 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 4 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg vom 23. Dezember 2009, zuletzt geändert durch Satzung vom 24. Juli 2013, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integ
 
 3. In § 3a Abs. 4 Satz 1 wird das Wort "können" durch die Worte "finden in der Regel" sowie das Wort "stattfinden" durch das Wort "statt" ersetzt. 
 
-## 4. § 10 Abs. 3 wird wie folgt geändert: 
+# 4. § 10 Abs. 3 wird wie folgt geändert: 
 
 - a) In Satz 1 wird die Zahl "7" durch die Zahl "6" und die Zahl "20" durch die Zahl "19" ersetzt. 
 
@@ -38,17 +38,17 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integ
 
 1 
 
-## c) Satz 3 wird gestrichen. 
+# c) Satz 3 wird gestrichen. 
 
-## 5. § 11 erhält folgende neue Fassung: 
+# 5. § 11 erhält folgende neue Fassung: 
 
-## " **§ 11 Anerkennung von Kompetenzen** 
+# " **§ 11 Anerkennung von Kompetenzen** 
 
-(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 18 gebildet wurden. 2Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 18 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+(3)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 18 gebildet wurden. 2Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 18 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
 
 x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
 
@@ -60,11 +60,11 @@ Nmin = unterste Bestehensnote
 
 Nd = erzielte Note 
 
-umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 4Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. (4)[1] Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung. 
+umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 4Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. (4)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung. 
 
 2 
 
-3Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[4] Die Entscheidung ergeht schriftlich." 
+3Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.<sup>4</sup> Die Entscheidung ergeht schriftlich." 
 
 6. In § 16 Abs. 2 Satz 3 wird die Zahl "19" durch die Zahl "18" ersetzt. 
 
@@ -80,11 +80,11 @@ umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Kom
 
 12. § 32 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
 - aa) In Nr. 1 werden die Worte "gleichwertigen Abschluss" gestrichen und nach dem Wort "Kompetenzprofils" werden die Worte "nicht wesentlich unterschiedlichen Abschluss" eingefügt. 
 
-bb) Nach Nr. 1 wird folgende neue Nr. 2 eingefügt: 
+- bb) Nach Nr. 1 wird folgende neue Nr. 2 eingefügt: 
 
 „2. Englischkenntnisse auf dem Niveau „Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate;“ 
 
@@ -96,7 +96,7 @@ aa) Satz 1 erhält folgende Fassung:
 
 3 
 
-„[1] Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenzprofils nicht wesentlich unterschiedlich zu der fachspezifischen Bachelorprüfung nach dieser Prüfungsordnung sein.“ 
+„<sup>1</sup> Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenzprofils nicht wesentlich unterschiedlich zu der fachspezifischen Bachelorprüfung nach dieser Prüfungsordnung sein.“ 
 
 - bb) In Satz 2 werden die Worte „Ist die Gleichwertigkeit nicht voll gegeben“ durch die Worte „Sind ausgleichsfähige Unterschiede vorhanden“ ersetzt. 
 
@@ -108,17 +108,17 @@ In Satz 3 wird das Wort „Gleichwertigkeit“ durch das Wort „Anerkennbarkeit
 
 13. In § 33 wird nach Abs. 3 folgender Abs. 4 angefügt: 
 
-"(4)[1] Jede Studierende bzw. jeder Studierende wählt vor Beginn des Masterstudiums einen Mentor bzw. eine Mentorin aus den hauptberuflich im Studiengang tätigen Hochschullehrerinnen oder Hochschullehrern der Naturwissenschaftlichen Fakultät. 2Die Mentoren beraten die Studierenden insbesondere bei der Auswahl der Wahlpflichtmodule." 
+"(4)<sup>1</sup> Jede Studierende bzw. jeder Studierende wählt vor Beginn des Masterstudiums einen Mentor bzw. eine Mentorin aus den hauptberuflich im Studiengang tätigen Hochschullehrerinnen oder Hochschullehrern der Naturwissenschaftlichen Fakultät. 2Die Mentoren beraten die Studierenden insbesondere bei der Auswahl der Wahlpflichtmodule." 
 
-14. § 34 wird wie folgt geändert: 
+# 14. § 34 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 wird das Wort „Biologie“ durch das Wort „Biology“, das Wort „Biomathematik“ durch das Wort „Biomathematics“, das Wort „Biophysik“ durch das Wort „Biophysics“ und die Worte "sachgerecht darzustellen" durch die Worte "fachlich und sprachlich korrekt in der Regel in englischer Sprache darzustellen und in die aktuelle Fachliteratur einzuordnen" ersetzt. 
+- a) In Abs. 1 Satz 1 wird das Wort „Biologie“ durch das Wort „Biology“, das Wort „Biomathematik“ durch das Wort „Biomathematics“, das Wort „Biophysik“ durch das Wort „Biophysics“ und die Worte "sachgerecht darzustellen" durch die Worte "fachlich und sprachlich korrekt in der Regel in englischer Sprache darzustellen und in die aktuelle Fachliteratur einzuordnen" ersetzt. 
 
-   - b) Abs. 6 Satz 1 wird gestrichen. Die bisherigen Sätze 2 bis 6 werden zu Sätzen 1 bis 5. 
+- b) Abs. 6 Satz 1 wird gestrichen. Die bisherigen Sätze 2 bis 6 werden zu Sätzen 1 bis 5. 
 
-   - c) In Abs. 9 Satz 2 werden die Worte "weniger als" gestrichen. 
+- c) In Abs. 9 Satz 2 werden die Worte "weniger als" gestrichen. 
 
-## 15. Anlage 1 wird wie folgt geändert: 
+# 15. Anlage 1 wird wie folgt geändert: 
 
 - a) Die Anmerkungen in Zeile 10 Spalten 2 und 5 (Modul MfILS II) werden gestrichen. 
 
@@ -134,11 +134,11 @@ In Satz 3 wird das Wort „Gleichwertigkeit“ durch das Wort „Anerkennbarkeit
 
 - e) In Zeile 72 (Modul Wahlpflichtmodul) werden die Worte „computational biology“ durch die Worte „Computational Biology“ ersetzt. 
 
-## 16. Die Anlage 2 wird wie folgt geändert: 
+# 16. Die Anlage 2 wird wie folgt geändert: 
 
 - a) Abs. 2 erhält folgende neue Fassung: 
 
-   - "(2)[1] Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist bis spätestens am 15. Juli beim Masterbüro der Universität zu stellen.[2] Dem Antrag sind beizufügen: 
+   - "(2)<sup>1</sup> Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist bis spätestens am 15. Juli beim Masterbüro der Universität zu stellen.<sup>2</sup> Dem Antrag sind beizufügen: 
 
    1. ein Nachweis über einen Hochschulabschluss gemäß § 32 Abs. 1 Nr. 1 (Zeugnis, Transcript of Records, Diploma Supplement oder vergleichbare Dokumente) bzw. ein Transcript of Records im Falle des § 32 Abs. 3, sowie 
 
@@ -146,13 +146,13 @@ In Satz 3 wird das Wort „Gleichwertigkeit“ durch das Wort „Anerkennbarkeit
 
    3. falls der Bachelorabschluss noch nicht vorliegt, eine Bestätigung, dass die Bewerberin oder der Bewerber im laufenden Prüfungstermin zu den das Bachelorstudium abschließenden Prüfungen gemeldet ist.“ 
 
-## b) Abs. 5 wird wie folgt geändert: 
+# b) Abs. 5 wird wie folgt geändert: 
 
 - aa)  In Satz 2 wird das Wort "gleichwertigen" durch die Worte "im Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen" ersetzt sowie nach dem Wort "beträgt" ein Semikolon und die Worte "; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 11 Abs. 3 entsprechend" eingefügt. 
 
 - bb)  Nach Satz 6 wird folgender Satz 7 eingefügt: 
 
-   - "[7] Sie wird in englischer oder in deutscher Sprache durchgeführt". 
+   - "<sup>7</sup> Sie wird in englischer oder in deutscher Sprache durchgeführt". 
 
 5 
 
@@ -160,7 +160,7 @@ In Satz 3 wird das Wort „Gleichwertigkeit“ durch das Wort „Anerkennbarkeit
 
 - dd) Nach Satz 8 (neu) wird folgender Satz 9 angefügt: 
 
-"[9] Die Zugangsprüfung kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden." 
+"<sup>9</sup> Die Zugangsprüfung kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden." 
 
 - c) Abs. 6 Satz 2 wird wie folgt geändert: 
 
@@ -174,55 +174,33 @@ dd) In Nr. 2 (neu) wird die Zahl "1/3" durch die Zahl " 1/2" ersetzt.
 
 6 
 
-## 17. Anlage 3 erhält folgende Fassung: 
+# 17. Anlage 3 erhält folgende Fassung: 
 
 „ 
 
-||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Module verteilt in die**<br>**Modulgruppen**||||||**ECTS-Punkte,**||||<br>**Art und Umfang der**<br>**Prüfung**|
-||**Möglich**|**SWS**|||**ECTS-**|**Verteilung auf**|||||
-||<br>**auch**<br>||||**Punkte**<br>|**die Semester**|||||
-||**in MG:**|**VORL/**|**UE/**<br>**SEM**|<br>**PR**|**(insg.)**<br>|**1.**|**2.**|**3.**|**4.**||
-|||**SEM**|||||||||
-||||||||||||
-||||||||||||
-|**MG1: Mathematische Modellierung und Systembiologie:**|||||||||||
-|Einführung in die Statistik<br>mit Rechnerübungen<br>(Pflicht für alle MG)||2|1 +<br>1||5||5|||Klausur ca. 90 Min.|
-|Vertiefungsmodul||Insg. 600h|||20|||20||mündliche Prüfung<br>ca. 30 Min.|
-|Masterthesis||Insg. 900h|||30||||30|schriftliche Arbeit|
-|Biomathematik (Pflicht für<br>MG1)||4|2||10|10||||mündliche Prüfung<br>ca. 30 Min. oder Klausur<br>90 Min.|
-|Systembiologie (Pflicht für<br>MG1)|3|2|1||5|5||||Klausur 60 Min.|
-|Wahlpflicht-Module aus dem Modulhandbuch im Umfang 10-20 ECTS|||||||||||
-|**MG2: Bioimaging und Biophysik:**|||||||||||
-||||||||||||
-|Einführung in die Statistik<br>mit Rechnerübungen<br>(Pflicht für alle MG)|||1 +<br>1||||||||
-|||2|||5||5|||Klausur ca. 90 Min.|
-||||||||||||
-||||||||||||
-|Vertiefungsmodul||||||||||mündliche Prüfung ca. 30|
-|||Insg. 600h|||20|||20|||
-|||||||||||Min.|
-||||||||||||
-||||||||||||
-|Masterthesis||Insg. 900h|||30||||30|<br>schriftliche Arbeit|
-||||||||||||
-|** Bioimaging & Biophysik<br>(Pflicht für MG2)|||4 +<br>4|||||||Klausur 120 Min. oder|
-||3|2 + 2|||15|7,5|7,5|||mündliche Prüfung ca. 40|
-|||||||||||Min.|
-||||||||||||
-|Wahlpflicht-Module aus dem Modulhandbuch im Umfang 10-20 ECTS|||||||||||
-||||||||||||
-|**MG3: Biologische Strukturen und Prozesse**|||||||||||
-|Einführung in die Statistik<br>mit Rechnerübungen<br>(Pflicht für alle MG)||2|1 +<br>1||5||5|||Klausur ca. 90 Min.|
-|Vertiefungsmodul||Insg. 600h|||20|||20||mündliche Prüfung ca. 30<br>Min.|
-|Masterthesis||Insg. 900h|||30||||30|schriftliche Arbeit|
-|** Interactions of Biological<br>Macromolecules (Pflicht für<br>MG3)||2 + 2|2 +<br>2||10|5|5|||2 Teilprüfungen<br>(Klausuren 120 Min. oder<br>mündliche Prüfungen 60<br>Min.)|
-|Wahlpflicht-Module aus dem Modulhandbuch im Umfang 15-25 ECTS|||||||||||
-||||||||||||
-|**ECTS-Punkte Gesamt**|||||**120**|**30***|**30***|**30***|**30**||
-||||||||||||
-|* Abweichungen +/- 2,5 pro Semester sind möglich. Am Ende des Studiums werden exakt 120 ECTS-Punkte<br>angerechnet.<br>** Integrierte Module|||||||||||
+||||||**EC**<br>|**TS-**<br>|**Punkte,**<br>|<br>|
+|---|---|---|---|---|---|---|---|---|
+|**Module verteilt in die**|**Möglich**<br>|**S**|**WS**|**ECTS-**<br>|**Ver**<br>**di**|**teil**<br>**S**|**ung auf**<br>**t**|<br>**Art und Umfang der**|
+|**Modulgruppen**|**auch**<br>|||**Punkte**<br>||**e**|**eser**|<br>**Prüfung**|
+||**in MG:**|**VORL/**<br>|<br>**UE/**<br> <br>**PR**|**(insg.)**<br>|**1.**|**2.**|**3.**<br>**4.**||
+|**MG1: Mathematische Model**<br>|**lierung und**|**SEM**<br>**System**|**SEM**<br>**biologi**|**e:**|||||
+|Einführung in die Statistik<br>mit Rechnerübungen<br>(Pflicht für alle MG)||2|1 +<br>1|5||5||Klausur ca. 90 Min.|
+|Vertiefungsmodul||Insg.|600h|20|||20|mündliche Prüfung<br>ca. 30 Min.|
+|Masterthesis||Insg.|900h|30|||30|schriftliche Arbeit|
+|Biomathematik (Pflicht für<br>MG1)||4|2|10|10|||mündliche Prüfung<br>ca. 30 Min. oder Klausur<br>90 Min.|
+|Systembiologie (Pflicht für<br>MG1)|3|2|1|5|5|||Klausur 60 Min.|
+|<br>Wahlpflicht-Module<br>**MG2: Bioimaging und Biop**<br>Eifüh i di Sttitik|aus dem Mo<br>**hysik:**|dulhand|buch im|Umfang 10-|20 E|CTS|||
+|nrung n e as<br>mit Rechnerübungen<br>(Pflicht für alle MG)||2|1 +<br>1|5||5||Klausur ca. 90 Min.|
+|Vertiefungsmodul||Insg.|600h|20|||20|mündliche Prüfung ca. 30<br>Min.|
+|Masterthesis||Insg.|900h|30|||30|<br>schriftliche Arbeit|
+|** Bioimaging & Biophysik<br>(Pflicht für MG2)|3|2 + 2|4 +<br>4|15|7,5|<br>7,5||Klausur 120 Min. oder<br>mündliche Prüfung ca. 40|
+|Wahlpflicht-Module<br>**MG3: Biologische Strukture**|aus dem Mo<br>**n und Proz**|dulhand<br>**esse**|<br>buch im|Umfang10-|20 E|CTS||Min.|
+|Einführung in die Statistik<br>mit Rechnerübungen<br>(Pflicht für alle MG)||2|1 +<br>1|5||5||Klausur ca. 90 Min.|
+|Vertiefungsmodul||Insg.|600h|20|||20|mündliche Prüfung ca. 30<br>Min.|
+|Masterthesis||Insg.|900h|30|||30|schriftliche Arbeit|
+|** Interactions of Biological<br>Macromolecules (Pflicht für<br>MG3)||2 + 2|2 +<br>2|10|5|5||2 Teilprüfungen<br>(Klausuren 120 Min. oder<br>mündliche Prüfungen 60|
+|<br>Wahlpflicht-Module|aus dem Mo|dulhand|<br>buch im|Umfang 15-|25 E|CTS||<br>Min.)|
+|**ECTS-Punkte Gesamt**<br>* Abweichungen +/- 2,5 pro S<br>angerechnet.<br>** Integrierte Module|emester sin|d möglic|h. Am E|**120**<br>nde des Stu|**30***<br>dium|**30***<br>s wer|**30***<br>**30**<br>den exa|kt 120 ECTS-Punkte|
 
 „ 
 

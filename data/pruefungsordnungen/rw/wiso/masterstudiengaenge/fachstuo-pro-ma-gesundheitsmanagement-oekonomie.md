@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.05.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuO+PrO_MA_Gesundheitsmanagement_oekonomie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:37:00+00:00
-page_count_chars: 7583
+scraped_at: 2026-07-01T11:02:11+00:00
+page_count_chars: 7631
 ---
 
 # PDF vom 15.05.2015
@@ -14,7 +14,7 @@ page_count_chars: 7583
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MiGG - Vom 15. Mai 2015** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MiGG - Vom 15. Mai 2015** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Masterstudiengang „Gesundheitsmanagement und
 
 ## **Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang.[2] Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nicht-wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 60 ECTSPunkten oder - wenn keine ECTS-Punkte ausgewiesen werden - im Umfang von 30 SWS sowie davon mindestens 5 ECTS-Punkten oder - wenn keine ECTS-Punkte ausgewiesen werden - 3 SWS aus fachspezifischen volkswirtschaftlichen Kenntnissen anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nicht-wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 60 ECTSPunkten oder - wenn keine ECTS-Punkte ausgewiesen werden - im Umfang von 30 SWS sowie davon mindestens 5 ECTS-Punkten oder - wenn keine ECTS-Punkte ausgewiesen werden - 3 SWS aus fachspezifischen volkswirtschaftlichen Kenntnissen anerkannt. 
 
 (2) Folgende weitere Unterlagen im Sinne der Anlage Nr. 2.3.3 MPOWIWI sind vorzulegen: 
 
@@ -50,7 +50,7 @@ Die Fachprüfungsordnung für den Masterstudiengang „Gesundheitsmanagement und
 
    - (max. 20 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 MPOWIWI zu einem Qualifikationsfeststellungsgespräch (max. 20 Punkte) eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Das Qualifikationsfeststellungsgespräch erstreckt sich auf die im Folgenden aufgeführten Qualifikationskriterien und wird mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 MPOWIWI zu einem Qualifikationsfeststellungsgespräch (max. 20 Punkte) eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Qualifikationsfeststellungsgespräch erstreckt sich auf die im Folgenden aufgeführten Qualifikationskriterien und wird mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
 
 1. Qualität der fachwissenschaftlichen Grundkenntnisse aus dem Bereich Wirtschaftswissenschaften, insbesondere Planung, Organisation, Führung, Kontrolle (max. 10 Punkte), 
 
@@ -58,11 +58,11 @@ Die Fachprüfungsordnung für den Masterstudiengang „Gesundheitsmanagement und
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten Semester sowie in einem Modul des zweiten Semesters werden ganzheitliche Perspektiven von Gesundheitsmanagement und Gesundheitsökonomie vermittelt (Pflichtbereich = 35 ECTS-Punkte).[2] Im zweiten und dritten Semester wählen die Studierenden zehn Module zu der von ihnen angestrebten Vertiefung in den Bereichen Management, Ökonomie, Politik oder Soziologie im Gesundheitswesen (Wahlpflichtbereich = 50 ECTS-Punkte).[3] Die Masterarbeit setzt sich aus den beiden Prüfungsleistungen Masterarbeit (30 ECTS-Punkte) und Masterseminar (5 ECTS-Punkte) zusammen. 
+(1)<sup>1</sup> Im ersten Semester sowie in einem Modul des zweiten Semesters werden ganzheitliche Perspektiven von Gesundheitsmanagement und Gesundheitsökonomie vermittelt (Pflichtbereich = 35 ECTS-Punkte).<sup>2</sup> Im zweiten und dritten Semester wählen die Studierenden zehn Module zu der von ihnen angestrebten Vertiefung in den Bereichen Management, Ökonomie, Politik oder Soziologie im Gesundheitswesen (Wahlpflichtbereich = 50 ECTS-Punkte).<sup>3</sup> Die Masterarbeit setzt sich aus den beiden Prüfungsleistungen Masterarbeit (30 ECTS-Punkte) und Masterseminar (5 ECTS-Punkte) zusammen. 
 
 (2) Art und Umfang der Prüfungen bestimmen sich nach den §§ 10 und 16 – 18 MPOWIWI. 
 
-(3)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(3)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -72,12 +72,10 @@ Die Fachprüfungsordnung für den Masterstudiengang „Gesundheitsmanagement und
 
 ## **Anlage** 
 
-|**Studienplan Master in Gesundheitsmanagement und**|**Gesundheitsökonomie**|**Gesundheitsökonomie**||**Semester**|**Semester**||
+|**Studienplan Master in Gesundheitsmanagement u**|**nd Gesundhei**|**tsökonomie**||**Sem**<br>|**ester**<br>||
 |---|---|---|---|---|---|---|
 ||||**1**|**2**|**3**|**4**|
-||||||||
-|Mdltitl|SWS|ECTS|ECTS|ECTS|ECTS|ECTS|
-|oue|||||||
+|Modultitel|SWS|ECTS|ECTS|ECTS|ECTS|ECTS|
 |Pflichtbereich|||||||
 |Kostenträger I|3|5|5||||
 |Ambulantes Management I|3|5|5||||
@@ -97,8 +95,7 @@ Die Fachprüfungsordnung für den Masterstudiengang „Gesundheitsmanagement und
 |Planspiel: Krankenhausmanagement|3|5|||5||
 |Freies Wahlmodul Gesundheit|3|5|||5||
 |Medizintechnik|3|5|||5||
-|Masterarbeit||35|||5|30|
-|Seminar zur Masterarbeit|3||||||
+|Masterarbeit<br>Seminar zur Masterarbeit|3|35|||5|30|
 ||ECTS|120|30|30|30|30|
 
 *Weitere Module des Wahlbereichs sind dem Modulhandbuch zu entnehmen. Die angegebene Semesterzahl ist eine Empfehlung. 

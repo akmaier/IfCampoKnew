@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.01.2001 i.d.F. 09.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Wirtschaftsingwesen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:15+00:00
-page_count_chars: 23632
+scraped_at: 2026-07-01T11:46:26+00:00
+page_count_chars: 24083
 ---
 
 # PDF vom 02.01.2001 i.d.F. 09.10.2007
@@ -14,11 +14,9 @@ page_count_chars: 23632
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg Vom 2. Januar 2001** (KWMBl II 2002 S. 2) 
+# **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg Vom 2. Januar 2001** (KWMBl II 2002 S. 2) 
 
-geändert durch Satzung vom 10. Juli 2002 (KWMBl II 2003 S. 743) 
-
-6. Dezember 2002 (KWMBl II 2003 S. 1700) 31. Oktober 2003 (KWMBl II 2004 S. 835) 
+geändert durch Satzung vom 10. Juli 2002 (KWMBl II 2003 S. 743) 6. Dezember 2002 (KWMBl II 2003 S. 1700) 31. Oktober 2003 (KWMBl II 2004 S. 835) 
 
 5. März 2004 (KWMBl II S. 1340) 
 
@@ -50,9 +48,9 @@ Aufgrund der bestandenen Diplomprüfung im Diplomstudiengang Wirtschaftsingenieu
 
 ## **Gliederung des Studiums und Studiendauer** 
 
-(1)[1] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
 
-(2)[1] Das Studium setzt sich aus Lehrveranstaltungen im Höchstumfang von 181 Semesterwochenstunden (SWS), verteilt auf acht Semester, und einer studienbegleitend anzufertigenden Studienarbeit mit einem Arbeitsaufwand von ca. 200 Stunden zusammen.[2] Hinzu kommen 18 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.[3] Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. 
+(2)<sup>1</sup> Das Studium setzt sich aus Lehrveranstaltungen im Höchstumfang von 181 Semesterwochenstunden (SWS), verteilt auf acht Semester, und einer studienbegleitend anzufertigenden Studienarbeit mit einem Arbeitsaufwand von ca. 200 Stunden zusammen.<sup>2</sup> Hinzu kommen 18 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. 
 
 ## **§ 4** 
 
@@ -60,7 +58,7 @@ Aufgrund der bestandenen Diplomprüfung im Diplomstudiengang Wirtschaftsingenieu
 
 (1) Die Prüfungen werden in der Regel studienbegleitend abgelegt in dem auf die Vorlesungszeit des Fachsemesters folgendem Prüfungszeitraum der Technischen Fakultät und der Wirtschafts- und Sozialwissenschaftlichen Fakultät. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktsystem erbracht. ²Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben. ³Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung oder die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet _._ 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktsystem erbracht. ²Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben. ³Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung oder die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet _._ 
 
 ## **I. Diplomvorprüfung** 
 
@@ -78,11 +76,11 @@ Der Kandidat soll sich so rechtzeitig zur Diplomvorprüfung anmelden, dass er di
 
 2. "Grundlagen der Informatik" ist ein Nachweis über die erfolgreiche Teilnahme an den Übungen zur Vorlesung "Grundlagen der Informatik" (ein Schein). 
 
-3. "Maschinenelemente I" ist ein Nachweis über die erfolgreiche Teilnahme an der Lehrveranstaltung "Technische Darstellungslehre" (ein Schein).[1)] 
+3. "Maschinenelemente I" ist ein Nachweis über die erfolgreiche Teilnahme an der Lehrveranstaltung "Technische Darstellungslehre" (ein Schein).<sup>1)</sup> 
 
 (2) Voraussetzung für die Zulassung zur letzten Einzelprüfung ist ein Nachweis über die erfolgreiche Teilnahme an der Vorlesung Finanzmathematik (benoteter Schein), ein Nachweis über die erfolgreiche Teilnahme an der Praktischen Konstruktionsübung (ein Schein) sowie der Nachweis einer berufspraktischen Tätigkeit von mindestens sechs Wochen (Grundpraxis) gemäß den Praktikantenrichtlinien. 
 
-(3)[1] Der zum Erwerb der Scheine nach den Absätzen 1 und 2 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kol- 
+(3)<sup>1</sup> Der zum Erwerb der Scheine nach den Absätzen 1 und 2 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kol- 
 
 2 
 
@@ -94,7 +92,7 @@ loquien, Referate oder Hausarbeiten nachgewiesen. ²Zu Beginn der Lehrveranstalt
 
 ## **Umfang und Durchführung der Diplomvorprüfung** 
 
-(1)[1] Die Diplomvorprüfung besteht aus Prüfungen in ingenieurwissenschaftlichen und wirtschaftswissenschaftlichen Fächern. ²Die Prüfungen sind schriftlich. 
+(1)<sup>1</sup> Die Diplomvorprüfung besteht aus Prüfungen in ingenieurwissenschaftlichen und wirtschaftswissenschaftlichen Fächern. ²Die Prüfungen sind schriftlich. 
 
 ## (2) Ingenieurwissenschaftliche Fächer sind 
 
@@ -104,7 +102,7 @@ loquien, Referate oder Hausarbeiten nachgewiesen. ²Zu Beginn der Lehrveranstalt
 
 3. Technische Mechanik 
 
-4. Maschinenelemente I[2)] 
+4. Maschinenelemente I<sup>2)</sup> 
 
 5. Werkstoffkunde 
 
@@ -132,19 +130,19 @@ loquien, Referate oder Hausarbeiten nachgewiesen. ²Zu Beginn der Lehrveranstalt
 
 > 2) Gilt gemäß der Änderungssatzung vom 5. März 2004 erstmals für Studenten, die zum WS 2004/05 mit dem Studium Wirtschaftsingenieurwesen beginnen. 
 
-(5)[1] In den mit "*)" markierten Fächern richten sich Zahl, Umfang und Form der Teilprüfungen sowie die der jeweiligen Teilprüfung zugeordneten Leistungspunkte nach den Festsetzungen der entsprechenden Module in der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juni 2007; Absatz 7 Satz 2 gilt entsprechend.[2] Der Prüfungsausschuss legt fest, welche Fächer welchen Modulen entsprechen.[3] Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
+(5)<sup>1</sup> In den mit "*)" markierten Fächern richten sich Zahl, Umfang und Form der Teilprüfungen sowie die der jeweiligen Teilprüfung zugeordneten Leistungspunkte nach den Festsetzungen der entsprechenden Module in der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juni 2007; Absatz 7 Satz 2 gilt entsprechend.<sup>2</sup> Der Prüfungsausschuss legt fest, welche Fächer welchen Modulen entsprechen.<sup>3</sup> Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
 
 ## **§ 8** 
 
 ## **Bestehen der Diplomvorprüfung, Wiederholung** 
 
-(1)[1] Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend" lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit 
+(1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend" lauten. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit 
 
 3 
 
-wenigstens "ausreichend" bewertet ist.[3] Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß **Anlage 1** gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
+wenigstens "ausreichend" bewertet ist.<sup>3</sup> Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß **Anlage 1** gewichteten rechnerischen Durchschnitt der Teilprüfungen. 
 
-(2)[1] In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein.[2] Der benotete Schein über die erfolgreiche Teilnahme an der Vorlesung Finanzmathematik wird im Diplomvorprüfungszeugnis aufgeführt, bei der Ermittlung der Gesamtnote jedoch nicht berücksichtigt. 
+(2)<sup>1</sup> In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein.<sup>2</sup> Der benotete Schein über die erfolgreiche Teilnahme an der Vorlesung Finanzmathematik wird im Diplomvorprüfungszeugnis aufgeführt, bei der Ermittlung der Gesamtnote jedoch nicht berücksichtigt. 
 
 (3) Eine Wiederholung ist beschränkt auf Fachprüfungen oder Teilprüfungen mit „nicht ausreichend" bewerteten Prüfungsleistungen. 
 
@@ -160,13 +158,13 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung 
 
 ## **Zulassungsvoraussetzung zur Diplomhauptprüfung** 
 
-(1)[1] Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung ist, dass die Diplomvorprüfung bestanden ist.[2] Wird die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung für den auf das 5. Fachsemester folgenden Prüfungszeitraum beantragt, dann ist abweichend von Satz 1 eine vorzeitige Zulassung möglich, wenn bis auf zwei alle weiteren Prüfungsleistungen der Diplomvorprüfung abgelegt und mit wenigstens „ausreichend“ bewertet sind.[3] Die Zulassung zu Fachprüfungen der Diplomhauptprüfung im darauf folgenden Prüfungszeitraum setzt voraus, dass die Diplomvorprüfung bestanden ist. 
+(1)<sup>1</sup> Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung ist, dass die Diplomvorprüfung bestanden ist.<sup>2</sup> Wird die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung für den auf das 5. Fachsemester folgenden Prüfungszeitraum beantragt, dann ist abweichend von Satz 1 eine vorzeitige Zulassung möglich, wenn bis auf zwei alle weiteren Prüfungsleistungen der Diplomvorprüfung abgelegt und mit wenigstens „ausreichend“ bewertet sind.<sup>3</sup> Die Zulassung zu Fachprüfungen der Diplomhauptprüfung im darauf folgenden Prüfungszeitraum setzt voraus, dass die Diplomvorprüfung bestanden ist. 
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss auch abweichend von Abs. 1 Satz 2 eine vorgezogene Zulassung zur ersten Fachprüfung der Diplomhauptprüfung gewähren. 
 
-(3)[1] Eine Diplomvorprüfung, die der Student an einer wissenschaftlichen Hochschule in demselben Studiengang außerhalb des Geltungsbereichs des Grundgesetzes oder in anderen Studiengängen bestanden hat, wird vom Prüfungsausschuss angerechnet, es sei denn, dass sie nicht gleichwertig ist.[2] Nicht nachgewiesene Prüfungsleistungen von § 7 Abs. 2 und 3 sind entsprechend nachzuholen. 
+(3)<sup>1</sup> Eine Diplomvorprüfung, die der Student an einer wissenschaftlichen Hochschule in demselben Studiengang außerhalb des Geltungsbereichs des Grundgesetzes oder in anderen Studiengängen bestanden hat, wird vom Prüfungsausschuss angerechnet, es sei denn, dass sie nicht gleichwertig ist.<sup>2</sup> Nicht nachgewiesene Prüfungsleistungen von § 7 Abs. 2 und 3 sind entsprechend nachzuholen. 
 
-(4)[1] Hat der Student die Abschlussprüfung im Studiengang Wirtschaftsingenieurwesen an einer Fachhochschule vor in der Regel nicht mehr als fünf Jahren mit einer Gesamtnote besser als 2,0 abgelegt, so wird ihm auf Antrag die fachlich entsprechende Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern “Technische Mechanik“ (2. Teilprüfung) und „Betriebliches Rechnungswesen für Ingenieure“ nachweist.[2] Die 
+(4)<sup>1</sup> Hat der Student die Abschlussprüfung im Studiengang Wirtschaftsingenieurwesen an einer Fachhochschule vor in der Regel nicht mehr als fünf Jahren mit einer Gesamtnote besser als 2,0 abgelegt, so wird ihm auf Antrag die fachlich entsprechende Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern “Technische Mechanik“ (2. Teilprüfung) und „Betriebliches Rechnungswesen für Ingenieure“ nachweist.<sup>2</sup> Die 
 
 4 
 
@@ -192,7 +190,7 @@ Scheine sind spätestens bei der Meldung zur letzten Einzelfachprüfung der Dipl
 
 8. die Anfertigung einer Diplomarbeit gemäß § 14. 
 
-## (2)[1] Ingenieurwissenschaftliche Pflichtfächer sind 
+- (2)<sup>1</sup> Ingenieurwissenschaftliche Pflichtfächer sind 
 
 1. Fertigungsautomatisierung und Produktionssystematik 
 
@@ -208,7 +206,7 @@ Scheine sind spätestens bei der Meldung zur letzten Einzelfachprüfung der Dipl
 
 - 2Jedes ingenieurwissenschaftliche Pflichtfach umfasst vier SWS. 
 
-- (3)[1] Wählbare Pflichtfächer der Allgemeinen Betriebswirtschaftslehre sind 
+- (3)<sup>1</sup> Wählbare Pflichtfächer der Allgemeinen Betriebswirtschaftslehre sind 
 
 1. Rechnungswesen für Ingenieure 
 
@@ -280,11 +278,11 @@ Scheine sind spätestens bei der Meldung zur letzten Einzelfachprüfung der Dipl
 
 (6) Als Wahlfächer sind Lehrveranstaltungen der Technischen Fakultät im Umfang von acht SWS und weitere allgemeinwissenschaftliche Lehrveranstaltungen der Technischen Fakultät oder anderer Fakultäten der Friedrich-Alexander-Universität im Umfang von zwei SWS wählbar, die nicht sonst Gegenstand der Diplomhauptprüfung sind und in denen Prüfungen stattfinden. 
 
-(7)[1] Die Prüfungen in den ingenieurwissenschaftlichen Pflichtfächern und dem Vertiefungsfach sind schriftlich.[2] Werden die schriftlichen Prüfungen eines Prüfungsabschnittes gemäß § 16 Abs. 3 DiplPrOTF in Verbindung mit § 8 Abs. 2 DiplPrOTF mündlich abgehalten, so beträgt die Dauer der mündlichen Prüfung etwa 30 Minuten. 3Der Umfang der Prüfungsleistungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus der **Anlage 2** . 
+(7)<sup>1</sup> Die Prüfungen in den ingenieurwissenschaftlichen Pflichtfächern und dem Vertiefungsfach sind schriftlich.<sup>2</sup> Werden die schriftlichen Prüfungen eines Prüfungsabschnittes gemäß § 16 Abs. 3 DiplPrOTF in Verbindung mit § 8 Abs. 2 DiplPrOTF mündlich abgehalten, so beträgt die Dauer der mündlichen Prüfung etwa 30 Minuten. 3Der Umfang der Prüfungsleistungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus der **Anlage 2** . 
 
-(8)[1] In den Fächern gemäß der Absätze 3 bis 5 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen sowie über die der jeweiligen Teilprüfung zugeordneten Leistungspunkte; Abs. 7 Satz 2 gilt entsprechend.[2] Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
+(8)<sup>1</sup> In den Fächern gemäß der Absätze 3 bis 5 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen sowie über die der jeweiligen Teilprüfung zugeordneten Leistungspunkte; Abs. 7 Satz 2 gilt entsprechend.<sup>2</sup> Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
 
-(9)[1] Benotete Scheine als Nachweis für die erfolgreiche Teilnahme an den ingenieurund allgemeinwissenschaftlichen Wahlfächern gemäß Abs. 6 werden auf Grund einer schriftlichen oder mündlichen Prüfung ausgestellt.[2] Der Fachvertreter gibt vor Beginn der Lehrveranstaltung die Form und Umfang der Prüfung bekannt.[3] Für eine „nicht ausreichende“ Leistung wird kein Schein vergeben.[4] Die Scheine werden durch die Lehrperson direkt an das Prüfungsamt weitergeleitet. 
+(9)<sup>1</sup> Benotete Scheine als Nachweis für die erfolgreiche Teilnahme an den ingenieurund allgemeinwissenschaftlichen Wahlfächern gemäß Abs. 6 werden auf Grund einer schriftlichen oder mündlichen Prüfung ausgestellt.<sup>2</sup> Der Fachvertreter gibt vor Beginn der Lehrveranstaltung die Form und Umfang der Prüfung bekannt.<sup>3</sup> Für eine „nicht ausreichende“ Leistung wird kein Schein vergeben.<sup>4</sup> Die Scheine werden durch die Lehrperson direkt an das Prüfungsamt weitergeleitet. 
 
 6 
 
@@ -292,11 +290,11 @@ Scheine sind spätestens bei der Meldung zur letzten Einzelfachprüfung der Dipl
 
 ## **§ 12 Studienarbeit** 
 
-(1)[1] Die Studienarbeit ist in einem Prüfungsfach gemäß §11 Abs. 1 Nrn. 1 bis 6 unter der wissenschaftlichen Betreuung des Hochschullehrers anzufertigen, der das entsprechende Fach vertritt.[2] Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen in einem ingenieur- oder wirtschaftswissenschaftlichen Fachgebiet zu erlernen.[3] Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 200 Stunden in drei Monaten abgeschlossen werden kann. 4Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
+(1)<sup>1</sup> Die Studienarbeit ist in einem Prüfungsfach gemäß §11 Abs. 1 Nrn. 1 bis 6 unter der wissenschaftlichen Betreuung des Hochschullehrers anzufertigen, der das entsprechende Fach vertritt.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen in einem ingenieur- oder wirtschaftswissenschaftlichen Fachgebiet zu erlernen.<sup>3</sup> Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 200 Stunden in drei Monaten abgeschlossen werden kann. 4Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
 
-(2)[1] Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Studienarbeit vorliegen.[2] Das Thema der Studienarbeit kann vom Studenten innerhalb der ersten drei Wochen nach seiner Ausgabe einmal zurückgegeben werden.[3] Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.[4] Bei verspäteter Rückgabe des Themas beziehungsweise einem vorzeitigen Abbruch der Studienarbeit gilt diese als nicht bestanden. 
+(2)<sup>1</sup> Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Studienarbeit vorliegen.<sup>2</sup> Das Thema der Studienarbeit kann vom Studenten innerhalb der ersten drei Wochen nach seiner Ausgabe einmal zurückgegeben werden.<sup>3</sup> Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.<sup>4</sup> Bei verspäteter Rückgabe des Themas beziehungsweise einem vorzeitigen Abbruch der Studienarbeit gilt diese als nicht bestanden. 
 
-(3)[1] Bei einer Bewertung der Arbeit mit einer Note schlechter als 4,0 oder einer vom Studenten zu vertretenden Fristüberschreitung gilt die Studienarbeit als nicht bestanden.[2] Eine mit „nicht ausreichend“ bewertete Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.[3] Die Wiederholung erfolgt beim selben betreuenden Hochschullehrer mit neuem Thema.[4] Auf begründeten Antrag kann der Prüfungsausschuss die Wiederholung der Studienarbeit bei einem anderen betreuenden Hochschullehrer mit neuem Thema genehmigen.[5] Bei Wiederholung der Studienarbeit ist eine Rückgabe des Themas nicht zulässig. 
+(3)<sup>1</sup> Bei einer Bewertung der Arbeit mit einer Note schlechter als 4,0 oder einer vom Studenten zu vertretenden Fristüberschreitung gilt die Studienarbeit als nicht bestanden.<sup>2</sup> Eine mit „nicht ausreichend“ bewertete Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.<sup>3</sup> Die Wiederholung erfolgt beim selben betreuenden Hochschullehrer mit neuem Thema.<sup>4</sup> Auf begründeten Antrag kann der Prüfungsausschuss die Wiederholung der Studienarbeit bei einem anderen betreuenden Hochschullehrer mit neuem Thema genehmigen.<sup>5</sup> Bei Wiederholung der Studienarbeit ist eine Rückgabe des Themas nicht zulässig. 
 
 (4) Die Studienarbeit wird mit sechs Leistungspunkten veranschlagt. 
 
@@ -320,19 +318,19 @@ b) an einem Hauptseminar, das zwei SWS umfasst und mit zwei Leistungspunkten ver
 
 7 
 
-(2)[1] In besonders begründeten Fällen kann der Prüfungsausschuss eine vorgezogene Zulassung zur Diplomarbeit gewähren.[2] Die fehlenden Nachweise sind während der Bearbeitung der Diplomarbeit nachzureichen. 
+(2)<sup>1</sup> In besonders begründeten Fällen kann der Prüfungsausschuss eine vorgezogene Zulassung zur Diplomarbeit gewähren.<sup>2</sup> Die fehlenden Nachweise sind während der Bearbeitung der Diplomarbeit nachzureichen. 
 
 ## **§ 14 Diplomarbeit** 
 
-(1)[1] Die Dauer der Diplomarbeit beträgt sechs Monate.[2] Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus einem Fachgebiet behandeln, das einem der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 zugeordnet ist.[4] Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer betreut, der dieses Fachgebiet vertritt. 
+(1)<sup>1</sup> Die Dauer der Diplomarbeit beträgt sechs Monate.<sup>2</sup> Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus einem Fachgebiet behandeln, das einem der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 zugeordnet ist.<sup>4</sup> Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer betreut, der dieses Fachgebiet vertritt. 
 
 (2) Die Diplomarbeit wird mit fünfzehn Leistungspunkten veranschlagt. 
 
 ## **§ 15 Bewertung der Leistungen** 
 
-(1)[1] Die Diplomhauptprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 und die Diplomarbeit mit mindestens "ausreichend" bewertet wurden. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden betriebswirtschaftlichen Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit mindestens "ausreichend" bewertet ist.[3] Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß § 11 Abs. 8 gewichteten arithmetischen Mittel der Teilprüfungen. 
+(1)<sup>1</sup> Die Diplomhauptprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 und die Diplomarbeit mit mindestens "ausreichend" bewertet wurden. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden betriebswirtschaftlichen Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit mindestens "ausreichend" bewertet ist.<sup>3</sup> Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß § 11 Abs. 8 gewichteten arithmetischen Mittel der Teilprüfungen. 
 
-(2)[1] In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
+(2)<sup>1</sup> In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
 
 1. der Pflicht-, Wahlpflicht-, Wahl- und Vertiefungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 7, 
 
@@ -354,18 +352,15 @@ Diese Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.*
 
 ## **Anlage 1** (zu § 7 Abs. 4) 
 
-|**Anlage 1**(zu § 7 Abs. 4)||||
+|**Prüfungsfächer der Diplomvorprüfung**|**Prüfungsdauer**<br>**in Minuten**|**Zahl der** **L**<br>**beziehungs**<br>**punk**|**eistungs-**<br>**weise Malus-**<br>**te für**|
 |---|---|---|---|
-|||**Zahl der** **Leistungs-**||
-|**Prüfungsfächer der Diplomvorprüfung**|**Prüfungsdauer**<br>**in Minuten**|**beziehungsweise Malus-**<br>**punkte für**||
 |||**Teilprüfung**|**Fachprüfung**|
 |**I. Ingenieurwissenschaftliche Fächer**||||
 |1. Mathematik|*)||9|
 |2. Experimentalphysik|120||5|
 |3. Technische Mechanik||||
-|-Teilprüfung 1|90|4,5|9|
-|-Teilprüfung 2|90|4,5||
-|4. Maschinenelemente I 3)|120||9|
+|-Teilprüfung 1<br>-Teilprüfung 2|90<br>90|4,5<br>4,5|<br>9|
+|4. Maschinenelemente I <sup>3)</sup>|120||9|
 |5. Werkstoffkunde|120||6|
 |6. Grundlagen der Elektrotechnik|60||5|
 |7. Produktionstechnik|120||6|
@@ -388,11 +383,8 @@ _____________________ 3) Gilt gemäß der Änderungssatzung vom 5. März 2004 er
 
 ## **Anlage 2** (zu § 11 Abs. 7 und § 15 Abs. 2) 
 
-|**Anlage 2**(zu § 11 Abs. 7 und § 15 Abs. 2)|||
+|**Studien- und Prüfungsleistungen der Diplomhauptprüfung**|**Prüfungs-**<br>**dauer in**<br>**Minuten**|**Zahl der**<br>**Leistungs-**<br>**beziehungs-**<br>**weise**<br>**Maluspunkte**|
 |---|---|---|
-|||**Zahl der**|
-|**Studien- und Prüfungsleistungen der Diplomhauptprüfung**|**Prüfungs-**<br>**dauer in**<br>**Minuten**|**Leistungs-**<br>**beziehungs-**<br>**weise**|
-|||**Maluspunkte**|
 |I. Ingenieurwissenschaftliche Studien- und Prüfungsleistungen|||
 |I.1 Pflichtfächer|||
 |Fertigungsautomatisierung und Produktionssystematik|120|4|
@@ -419,9 +411,12 @@ _____________________ 3) Gilt gemäß der Änderungssatzung vom 5. März 2004 er
 |**III. Studien- und Diplomarbeit**|||
 |Studienarbeit||6|
 |Diplomarbeit||15|
-|**Summe der Studien- und Prüfungsleistungen im Hauptdiplom**||**97**|
+
+### **Summe der Studien- und Prüfungsleistungen im Hauptdiplom** 
 
 *) gemäß § 11 Abs. 8 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen **) Die Prüfungsdauer im Vertiefungsfach Informatik für Ingenieure beträgt 90 Minuten 
+
+**97** 
 
 10 
 

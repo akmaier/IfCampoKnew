@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.09.2007 i.d.F. 07.10.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_WING.OKTOBER2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:29:17+00:00
-page_count_chars: 23601
+scraped_at: 2026-07-01T11:46:02+00:00
+page_count_chars: 20846
 ---
 
 # PDF vom 25.09.2007 i.d.F. 07.10.2013
@@ -16,7 +16,7 @@ page_count_chars: 23601
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsingenieurwesen an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOWING -** Vom 25. September 2007 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsingenieurwesen an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOWING -** Vom 25. September 2007 
 
 geändert durch Satzungen vom 25. Juli 2008 
 
@@ -46,19 +46,19 @@ Die Fachprüfungsordnung für den Bachelor- und den Masterstudiengang Wirtschaft
 
 ## **§ 36 Bachelorstudiengang, Regelstudienzeit, Sprache** 
 
-(1)[1] Das Bachelorstudium Wirtschaftsingenieurwesen kann in einer der folgenden Studienrichtungen: 
+(1)<sup>1</sup> Das Bachelorstudium Wirtschaftsingenieurwesen kann in einer der folgenden Studienrichtungen: 
 
 a) Maschinenbau, 
 
 b) Informations- und Kommunikationssysteme 
 
-durchgeführt werden.[2] Zu Beginn des Studiums ist die Studienrichtung anzugeben. 3Der Prüfungsausschuss kann einen Wechsel der Studienrichtung auf Antrag in begründeten Fällen genehmigen. 
+durchgeführt werden.<sup>2</sup> Zu Beginn des Studiums ist die Studienrichtung anzugeben. 3Der Prüfungsausschuss kann einen Wechsel der Studienrichtung auf Antrag in begründeten Fällen genehmigen. 
 
-(2)[1] Die Zulassung zum Bachelorstudiengang Wirtschaftsingenieurwesen setzt den Nachweis einer vom Praktikumsamt anerkannten, berufspraktischen Tätigkeit von mindestens sechs Wochen entsprechend der Praktikumsrichtlinie voraus. 2Abweichend von Satz 1 muss bei einem Studienbeginn im Bachelorstudium zum Sommersemester 2011 das Praktikum erst bis zur Anmeldung der Bachelorarbeit erbracht werden.[3] Ausnahmen regelt der Prüfungsausschuss. 
+(2)<sup>1</sup> Die Zulassung zum Bachelorstudiengang Wirtschaftsingenieurwesen setzt den Nachweis einer vom Praktikumsamt anerkannten, berufspraktischen Tätigkeit von mindestens sechs Wochen entsprechend der Praktikumsrichtlinie voraus. 2Abweichend von Satz 1 muss bei einem Studienbeginn im Bachelorstudium zum Sommersemester 2011 das Praktikum erst bis zur Anmeldung der Bachelorarbeit erbracht werden.<sup>3</sup> Ausnahmen regelt der Prüfungsausschuss. 
 
 1 
 
-(3)[1] Der Bachelorstudiengang Wirtschaftsingenieurwesen umfasst in der Studienrichtung Maschinenbau die Module der **Anlage 1a** , in der Studienrichtung Informationsund Kommunikationssysteme die Module der **Anlage 1b** .[2] Der Studiengang unterteilt sich in die Grundlagen- und Orientierungsphase und die Bachelorphase.[3] Die Grundlagen- und Orientierungsphase besteht aus den Modulen der ersten zwei Semester. 4Die Bachelorphase besteht aus den weiteren Modulen bis zum Ende der Regelstudienzeit. 
+(3)<sup>1</sup> Der Bachelorstudiengang Wirtschaftsingenieurwesen umfasst in der Studienrichtung Maschinenbau die Module der **Anlage 1a** , in der Studienrichtung Informationsund Kommunikationssysteme die Module der **Anlage 1b** .<sup>2</sup> Der Studiengang unterteilt sich in die Grundlagen- und Orientierungsphase und die Bachelorphase.<sup>3</sup> Die Grundlagen- und Orientierungsphase besteht aus den Modulen der ersten zwei Semester. 4Die Bachelorphase besteht aus den weiteren Modulen bis zum Ende der Regelstudienzeit. 
 
 ## (4) Die Regelstudienzeit beträgt sechs Semester. 
 
@@ -110,13 +110,13 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 2 
 
-(4)[1] Die Wahlfächer (B 13 und B 27) und das Hochschulpraktikum (B 14) sind dem vom Prüfungsausschuss für den Bachelorstudiengang Wirtschaftsingenieurwesen empfohlenen Verzeichnis zu entnehmen.[2] Nicht im Wahlmodulverzeichnis aufgeführte Wahlmodule bedürfen der Genehmigung durch den Prüfungsausschuss. 
+(4)<sup>1</sup> Die Wahlfächer (B 13 und B 27) und das Hochschulpraktikum (B 14) sind dem vom Prüfungsausschuss für den Bachelorstudiengang Wirtschaftsingenieurwesen empfohlenen Verzeichnis zu entnehmen.<sup>2</sup> Nicht im Wahlmodulverzeichnis aufgeführte Wahlmodule bedürfen der Genehmigung durch den Prüfungsausschuss. 
 
 ## **§ 40 Bachelorprüfung** 
 
-(1)[1] Die Prüfungsmodalitäten in den ingenieurwissenschaftlichen Modulen der Bachelorprüfung sind der **Anlage 1a** bzw. **1b** zu entnehmen.[2] Die Prüfungsmodalitäten der wirtschaftswissenschaftlichen Module B 16 bis B 26 richten sich nach der Prüfungsordnung für die Bachelorstudiengänge der Rechts- und Wirtschaftswissenschaft-lichen Fakultät Fachbereich Wirtschaftswissenschaften in der jeweils gültigen Fassung; die Prüfungsmodalitäten der übrigen Module sind der **Anlage 1a** bzw. **1b** und einer ortüblichen Bekanntmachung des Prüfungsausschusses zu entnehmen. 
+(1)<sup>1</sup> Die Prüfungsmodalitäten in den ingenieurwissenschaftlichen Modulen der Bachelorprüfung sind der **Anlage 1a** bzw. **1b** zu entnehmen.<sup>2</sup> Die Prüfungsmodalitäten der wirtschaftswissenschaftlichen Module B 16 bis B 26 richten sich nach der Prüfungsordnung für die Bachelorstudiengänge der Rechts- und Wirtschaftswissenschaft-lichen Fakultät Fachbereich Wirtschaftswissenschaften in der jeweils gültigen Fassung; die Prüfungsmodalitäten der übrigen Module sind der **Anlage 1a** bzw. **1b** und einer ortüblichen Bekanntmachung des Prüfungsausschusses zu entnehmen. 
 
-(2)[1] Der zum Erwerb der benoteten Studienleistung Wahlmodule (B 13 und B 27) erforderliche Wissensstand wird durch schriftliche oder mündliche Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn einer Lehrveranstaltung gibt die dafür verantwortliche Lehrperson bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Nicht erfolgreich absolvierte Leistungsnachweise können zweimal wiederholt werden.[4] Über Ausnahmen entscheidet der Prüfungsausschuss auf begründeten Antrag. 
+(2)<sup>1</sup> Der zum Erwerb der benoteten Studienleistung Wahlmodule (B 13 und B 27) erforderliche Wissensstand wird durch schriftliche oder mündliche Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn einer Lehrveranstaltung gibt die dafür verantwortliche Lehrperson bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Nicht erfolgreich absolvierte Leistungsnachweise können zweimal wiederholt werden.<sup>4</sup> Über Ausnahmen entscheidet der Prüfungsausschuss auf begründeten Antrag. 
 
 ## **§ 41 Voraussetzung für die Ausgabe der Bachelorarbeit** 
 
@@ -124,13 +124,15 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 ## **§ 42 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Wirtschaftsingenieurwesens zu erlernen.[2] Sie ist in ihrer Anforderung so zu stellen, dass sie in ca. 360 Stunden bearbeitet werden kann. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Wirtschaftsingenieurwesens zu erlernen.<sup>2</sup> Sie ist in ihrer Anforderung so zu stellen, dass sie in ca. 360 Stunden bearbeitet werden kann. 
 
 (2) Die Bachelorarbeit behandelt ein wissenschaftliches Thema aus den gewählten Wahlpflicht- oder Vertiefungsmodulen (B 11, B 12, B 24, B 25 und B 26) und wird von der Lehrperson betreut, die das entsprechende Modul vertritt. 
 
-(3)[1] Die Bachelorarbeit wird mit zwölf ECTS-Punkten bewertet.[2] Die Ergebnisse der Bachelorarbeit sind in einem ca. 20-minütigen Vortrag im Rahmen eines Hauptseminars vorzustellen.[3] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt. 
+(3)<sup>1</sup> Die Bachelorarbeit wird mit zwölf ECTS-Punkten bewertet.<sup>2</sup> Die Ergebnisse der Bachelorarbeit sind in einem ca. 20-minütigen Vortrag im Rahmen eines Hauptseminars vorzustellen.<sup>3</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt. 
 
-**§ 43 Bewertung der Leistungen des Bachelorstudiums** (1)[1] Das Bachelorstudium ist bestanden, wenn alle Module bestanden sind.[2] Dies beinhaltet den Nachweis einer vom Praktikumsamt anerkannten berufspraktischen Tätigkeit (B 28) von zwölf Wochen entsprechend der Praktikumsrichtlinie. 
+## **§ 43 Bewertung der Leistungen des Bachelorstudiums** 
+
+(1)<sup>1</sup> Das Bachelorstudium ist bestanden, wenn alle Module bestanden sind.<sup>2</sup> Dies beinhaltet den Nachweis einer vom Praktikumsamt anerkannten berufspraktischen Tätigkeit (B 28) von zwölf Wochen entsprechend der Praktikumsrichtlinie. 
 
 (2) Bei der Bildung der Modulnote der Wahlmodule (B 13 und B 27) sowie des Vertiefungsmoduls (B 26) gehen die Noten der Teilprüfungen mit dem Gewicht der diesen Teilprüfungen zugeordneten ECTS-Punkte ein. 
 
@@ -154,7 +156,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 - gute Kenntnisse im Bereich einer fachlichen Spezialisierung entsprechend einer wählbaren Studienrichtung des Masterstudiengangs, 
 
-- - Beschreibung eines einschlägigen fachbezogenen Projektes, Kenntnis der einschlägigen Literatur, 
+- Beschreibung eines einschlägigen fachbezogenen Projektes, Kenntnis der einschlägigen Literatur, 
 
 - positivie Prognose aufgrund steigender Leistungen im bisherigen Studienverlauf. 
 
@@ -168,13 +170,13 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 (4) Für die Wahlmodule (M 5 und M 8), das Hochschulpraktikum (M 6) und die Schlüsselqualifikationen (M 9) gilt § 39 Abs. 4 entsprechend. 
 
-(5)[1] Bei einem konsekutiven Studium des Bachelor- und Masterstudiengangs Wirtschaftsingenieurwesen nach dieser Prüfungsordnung sowie innerhalb des Masterstudiums kann jedes Modul nur einmal gewählt werden.[ 2] Steht innerhalb der Modulgruppe kein alternatives Modul zur Auswahl, so ist in Absprache mit der Lehrperson, die das Vertiefungsmodul vertritt, ein alternatives Modul aus einer anderen Modulgruppe zu wählen; entsprechendes gilt für die Hochschulpraktika. 
+(5)<sup>1</sup> Bei einem konsekutiven Studium des Bachelor- und Masterstudiengangs Wirtschaftsingenieurwesen nach dieser Prüfungsordnung sowie innerhalb des Masterstudiums kann jedes Modul nur einmal gewählt werden.<sup>2</sup> Steht innerhalb der Modulgruppe kein alternatives Modul zur Auswahl, so ist in Absprache mit der Lehrperson, die das Vertiefungsmodul vertritt, ein alternatives Modul aus einer anderen Modulgruppe zu wählen; entsprechendes gilt für die Hochschulpraktika. 
 
 ## **§ 46 Prüfungen des Masterstudiums** 
 
 (1) Die Masterprüfung umfasst die in § 45 Abs. 1 aufgeführten Module. 
 
-(2)[1] Die Prüfungsmodalitäten der Module sind der **Anlage 3** zu entnehmen.[2] Art und Umfang der Prüfungen der Module der wirtschaftswissenschaftlichen Vertiefungsmodulgruppe M 7 bestimmen sich nach den §§ 10 und 16 – 18 der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät in der jeweils geltenden Fassung. 
+(2)<sup>1</sup> Die Prüfungsmodalitäten der Module sind der **Anlage 3** zu entnehmen.<sup>2</sup> Art und Umfang der Prüfungen der Module der wirtschaftswissenschaftlichen Vertiefungsmodulgruppe M 7 bestimmen sich nach den §§ 10 und 16 – 18 der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät in der jeweils geltenden Fassung. 
 
 4 
 
@@ -182,7 +184,7 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 ## **§ 47 Projektarbeit** 
 
-(1)[1] Die Projektarbeit (M 10) wird mit 10 ECTS-Punkten bewertet und dient dazu, die selbständige Bearbeitung von Aufgabenstellungen zu erlernen.[2] Jede Projektarbeit ist in ihren Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden innerhalb von fünf Monaten abgeschlossen werden kann.[3] Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
+(1)<sup>1</sup> Die Projektarbeit (M 10) wird mit 10 ECTS-Punkten bewertet und dient dazu, die selbständige Bearbeitung von Aufgabenstellungen zu erlernen.<sup>2</sup> Jede Projektarbeit ist in ihren Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden innerhalb von fünf Monaten abgeschlossen werden kann.<sup>3</sup> Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
 
 (2) Die Projektarbeit behandelt in der Regel ein wissenschaftliches Thema aus den gewählten Wahlpflicht- oder Vertiefungsmodulen (M 1 bis M 4) bzw. einem Modul der Vertiefungsmodulgruppe (M 7) und wird von der Lehrperson betreut, die das entsprechende Modul vertritt. 
 
@@ -204,9 +206,9 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 ## **§ 49 Masterarbeit** 
 
-(1)[1] Die Masterarbeit (M 12) wird mit 30 ECTS-Punkten bewertet und dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Wirtschaftsingenieurwesens nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie in ca. 900 Arbeitsstunden bearbeitet werden kann. 
+(1)<sup>1</sup> Die Masterarbeit (M 12) wird mit 30 ECTS-Punkten bewertet und dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Wirtschaftsingenieurwesens nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie in ca. 900 Arbeitsstunden bearbeitet werden kann. 
 
-(2)[1] Die Masterarbeit behandelt in der Regel ein wissenschaftliches Thema aus den gewählten Wahlpflicht- oder Vertiefungsmodulen (M 1 bis M 4) bzw. einem Modul der Vertiefungsmodulgruppe (M 7) und wird von der Lehrperson betreut, die das entsprechende Modul vertritt.[2] Die Masterarbeit soll in einem konsekutiven Studium nach dieser Prüfungsordnung ein anderes Thema als die Bachelor- bzw. Projektarbeit zum Gegenstand haben. 
+(2)<sup>1</sup> Die Masterarbeit behandelt in der Regel ein wissenschaftliches Thema aus den gewählten Wahlpflicht- oder Vertiefungsmodulen (M 1 bis M 4) bzw. einem Modul der Vertiefungsmodulgruppe (M 7) und wird von der Lehrperson betreut, die das entsprechende Modul vertritt.<sup>2</sup> Die Masterarbeit soll in einem konsekutiven Studium nach dieser Prüfungsordnung ein anderes Thema als die Bachelor- bzw. Projektarbeit zum Gegenstand haben. 
 
 ## **§ 50 Bewertung der Leistungen des Masterstudiums** 
 
@@ -224,109 +226,60 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 ## **§ 51 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bachelorstudium Wirtschaftsingenieurwesen aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bachelorstudium Wirtschaftsingenieurwesen aufnehmen. 
 
-(2)[1] Alle Studentinnen und Studenten, die sich zum WS 2007/2008 bereits im Diplomstudium des Wirtschaftsingenieurwesens befinden, beenden ihr Studium nach der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg vom 2. Januar 2001 (KWMBl II 2002 S. 2), zuletzt geändert durch Satzung vom 4. August 2005.[2] Studentinnen und Studenten, denen infolge Studienorts- oder Studienfachwechsels Studien- und Prüfungsleistungen sowie Studienzeiten anzurechnen sind, werden nur noch insoweit in höhere Semester des Diplomstudienganges aufgenommen, als dafür ein Studienangebot vorgehalten wird. 
+(2)<sup>1</sup> Alle Studentinnen und Studenten, die sich zum WS 2007/2008 bereits im Diplomstudium des Wirtschaftsingenieurwesens befinden, beenden ihr Studium nach der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg vom 2. Januar 2001 (KWMBl II 2002 S. 2), zuletzt geändert durch Satzung vom 4. August 2005.<sup>2</sup> Studentinnen und Studenten, denen infolge Studienorts- oder Studienfachwechsels Studien- und Prüfungsleistungen sowie Studienzeiten anzurechnen sind, werden nur noch insoweit in höhere Semester des Diplomstudienganges aufgenommen, als dafür ein Studienangebot vorgehalten wird. 
 
 (3) Mit dem Inkrafttreten der Fachprüfungsordnung tritt zugleich die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg vom 2. Januar 2001 (KWMBl II 2002 S. 2), zuletzt geändert durch Satzung vom 4. August 2005, vorbehaltlich der Regelung in Abs. 2, außer Kraft. 
 
 6 
 
-**Anlage 1a:     Modulkatalog des Bachelorstudiums -** Studienrichtung Maschinenbau 
-
-|||Nr.|Modul|Modul|SWS|SWS|SWS|ECTS|ECTS<br>gesamt|1. Sem.|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Art und Umfang der Studien-<br>undPrüfungsleistungen2)|Art und Umfang der Studien-<br>undPrüfungsleistungen2)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||V|Ü|P|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|**s-**<br>**her**<br>**h**|**e-**||Mathematik für WING 11)||4|||||||||||PfP: PL 90||
-|**rwi**<br>**n-**<br>**lic**<br>**eic**|**htb**<br>**ch**|B 1|Übung|GOP||2|||7,5|7,5||||||+ uSL Papier- und Rechnerübungen||
-|**Natu**<br>**se**<br>**schaft**<br>**Ber**|**Pflic**<br>**rei**|B 2|Mathematik für WING 21)<br>Übung||4|2|||7,5||7,5|||||PfP: PL 90||
-|||||||||||||||||+ uSL Papier- und Rechnerübungen||
-|**h**||B 3|Statik und Festigkeitslehre|GOP|3|2|2||7,5|7,5||||||PL 90||
-|||B 4|Dynamik starrer Körper|K|3|2|2||7,5|||7,5||||PL 90||
-|**reic**||B|Technische Darstellungslehre I||||2|2,5||2,5||||||PfP:uSL Papierübungen||
-|**Be**|**ch**|5|Technische Darstellungslehre II||||2|2,5|5||2,5|||||+ uSL Rechnerübungen||
-|**er**|**rei**||Grundlagen der Produktentwicklung||4|2||||||7,5||||PfP: PL 120||
-|**lich**|**tbe**|B 6|Konstruktionsübung|K|||4||10|||2,5||||+ uSL Papier- und Rechnerübungen||
-|**schaft**|**Pflich**|B 7|Grundlagen der Elektrotechnik||3|1|||5||5|||||PL 60||
-||||Grundlagen der Informatik||3|||||||||||PfP: PL 90||
-|**en**||B 8|Übung|||3|||7,5|||||7,5||uSL Papier- und Rechnerübungen||
-|**genieurwiss**||B 9|Werkstoffkunde|GOP|3|1|||5|5||||||PL 120||
-|||B 10|Produktionstechnik I und II|K|4||2||5||||5|||PL 120||
-||**lbe-**<br>**ch**|B 11|Wahlpflichtmodul 1||2|2|||5||||5|||PL 60/90/120||
-|||B 12|Wahlpflichtmodul 2||2|2|||5||||2,5|2,5||PL 60/90/120||
-|**In**|**ah**<br>**rei**|B 13|Technische Wahlmodule||4||||5||2,5|||2,5||bSL||
-||**W**|B 14|Hochschulpraktikum||||2||2,5||||2,5|||uSL||
-|**Wirtschaftswissenschaftlicher Bereich**|**Pflichtbereich**|B 15|BWL für Ingenieure|GOP|3|1|||5|2,5|2,5|||||PL 60||
-|||B 16|Statistik||4|2|||7,5|||||7,5||~~**3)**~~||
-|||B 17|IT und E-Business||4||||5|5||||||**3)**<br>||
-|||B 18|Absatz|GOP|2|2|||5||5|||||~~**3)**~~<br>||
-|||B 19|Buchführung|K|4||||5|||5||||~~**3)**~~||
-|||B 20|Produktion, Logistik, Beschaffung|K|2|2|||5|||5||||**3)**<br>||
-|||B 21|Makroökonomie|K|2|2|||5||||5|||~~**3)**~~<br>||
-|||B 22|Mikroökonomie|K|3|1|||5||||5|||~~**3)**~~||
-|||B 23|Wirtschaftsrecht||2|2|||5|||5||||**3)**<br>||
-||**Wahlbe-**<br>**reich**|B 24|Wahlpflichtmodul 1||2|2|||5||||5|||~~**3)**~~<br>||
-|||B 25|Wahlpflichtmodul 2||2|2|||5|||||5||~~**3)**~~||
-|||B 26|Vertiefungsmodul||6|2|||10|||||5|5|**3)**||
-|**r**||B 27|Wahlmodule||4||||5||2,5||||2,5|bSL||
-|**Überfakultäre**<br>**Bereich**|**Wahlbereich**|B 28|Berufspraktische Tätigkeit||12 Wochen<br>inklusive 6<br>Wochen<br>Vorpraktikum||||7,5||||||7,5|uSL||
-|||B 29|Bachelorarbeit|||||12|15||||||12|||
-||||Hauptseminar|||||3|||||||3|||
-|||||Summe SWS|||||Summe ECTS|||||||||
-||||Summe WING-MB|**132**|79|37|16||**180**|30|27,5|32,5|30|30|30|||
-||||||GOP=Grundlagen- und<br>Orientierungsprüfung:<br>30<br>K=Katalog von Modulen zur Zulassung<br>für das Masterstudium<br>|||||||||||||
-
-- 1) 2) PfP: Portfolioprüfung Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht. 
-
-- PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung uSL: unbenotete Studienleistung 
-
-- 3) vgl. § 40 Abs. 1 
-
-7 
-
-- - **Anlage 1b:     Modulkatalog des Bachelorstudiums** Studienrichtung Informations und Kommunikationssysteme 
-
-|||Nr.|Modul|Modul|SWS|SWS|SWS|ECTS|ECTS<br>gesamt|1.<br>Sem.|2.<br>Sem|3.<br>Sem|4.<br>Sem|5.<br>Sem|6.<br>Sem|Art und Umfang der Studien- und<br>Prüfungsleistungen2)|Art und Umfang der Studien- und<br>Prüfungsleistungen2)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||V|Ü|P|||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|<br>mündlich|
-|**turwis-**<br>**sen-**<br>**chaftli-**<br>**cher**<br>**ereich**|**lichtbe-**<br>**reich**|B 1|Mathematik für WING 1~~1)~~|GOP|4||||7,5|7,5||||||PfP: PL 90||
-||||Übung<br>|||2||||||||||+ uS: Papier- und Rechnerübungen||
-|||B 2|Mathematik für WING 2~~1)~~||4||||75||75|||||PfP: PL 90||
-|**Na**<br>**s**<br>**B**|**Pf**||Übung|||2|||,||,|||||+ uS: Papier- und Rechnerübungen||
-|**cher Bereich**|**bereich**|B 3|Einführungin die IuK-Technik|GOP|4|2|0||7,5|7,5||||||PL 120||
-|||B 4|Digitaltechnik|GOP|2|2|||5|5||||||PL 90||
-|||B 5|Praktikum Software für die Mathematik||||2||2,5|2,5||||||unbenotete. Studienleistung<br>||
-|||B 6a|Elektronik und Schaltungstechnik||4|2|||7,5||7,5|||||PfP: PL<br>120||
-|||B 6b|Praktikum Elektronik und Schaltungstechnik||||3||2,5|||2,5||||+ uSL||
-|**ftli**|**ht**|B 7|Halbleiterbauelemente|K|2|2|||5|||||5||PL 90||
-|**nscha**|**Pflic**|B 8|Grundlagen der Informatik||3||||5|||||5||||
-||||Übung|||3||||||||||uSL Papier- und Rechnerübungen||
-|**se**||B 9a|Signale und Systeme I|K|2|2|||5|||5||||PL 90||
-|**Ingenieurwis**||B 9b|Signale und Systeme II|K|2|2|||5||||5|||PL 90||
-|||B 10|Nachrichtentechnische Systeme|K|4|2|||7,5|||||7,5||120||
-||**Wahlbe-**<br>**reich**|B 11|Wahlpflichtmodul 1||2|2|||5||||5|||PL 60/90/120||
-|||B 12|Wahlpflichtmodul 2||2|2|||5||||2,5|2,5||PL 60/90/120||
-|||B 13|Technische Wahlmodule||4||||5||2,5|2,5||||bSL||
-|||B 14|Hochschulpraktikum||||2||2,5|||2,5||||uSL||
-|**Wirtschaftswissenschaftlicher Bereich**|**Pflichtbereich**|B 15|BWL für Ingenieure|GOP|3|1|||5|2,5|2,5|||||PL 60||
-|||B 16|Stochastische Prozesse||2|2|||5||||5|||~~**2)**~~<br>||
-|||B 17|IT und E-Business||4||||5|5||||||~~**2)**~~||
-|||B 18|Absatz|GOP|2|2|||5||5|||||**2)**<br>||
-|||B 19|Buchführung|K|4||||5|||5||||~~**2)**~~<br>||
-|||B 20|Produktion, Logistik, Beschaffung|K|2|2|||5|||5||||~~**2)**~~<br>||
-|||B 21|Makroökonomie|K|2|2|||5||||5|||~~**2)**~~<br>||
-|||B 22|Mikroökonomie|K|3|1|||5||||5|||~~**2)**~~||
-|||B 23|Wirtschaftsrecht||2|2|||5|||5||||**2)**<br>||
-||**Wahlbe-**<br>**reich**|B 24|Wahlpflichtmodul 1||2|2|||5||||5|||~~**2)**~~<br>||
-|||B 25|Wahlpflichtmodul 2||2|2|||5|||||5||~~**2)**~~||
-|||B 26|Vertiefungsmodul||6|2|||10|||||5|5|**2)**||
-|**Überfakultärer**<br>**Bereich**|**Wahlbereich**|B 27|Wahlmodule||4|2|||7,5||2,5|2,5|||2,5|bSL||
-|||B 28|Berufspraktische Tätigkeit||12 Wochen<br>inklusive 6<br>Wochen<br>Vorpraktikum||||7,5||||||7,5|uSL||
-|||B 29|Bachelorarbeit|||||12|15||||||12|||
-||||Hauptseminar|||||3|||||||3|||
-|||||Summe<br>SWS|||||Summe<br>ECTS|||||||||
-||||Summe WING-IKS|**129**|77|45|7||**180**|30|27,5|32,3|30|30|30|||
-||||||GOP=Grundlagen- und Orientierungsprüfung:<br>30<br>K=Katalog von Modulen zur Zulassung für das Masterstudium<br>|||||||||||||
+|**Anlage 1b:     M**|**odulkatalog des Bachel**|**orstudiums** -Studienrichtung Informations-und Kommuni<br>|kationssys<br>1<br>2|teme<br>3<br>4<br>5|6<br>Art und Umfang der Studien- und<br>|
+|---|---|---|---|---|---|
+|Nr.|Modul|SWS<br>ECTS<br>ECTS<br>|.<br>Sem.<br>.<br>Sem|.<br>Sem<br>.<br>Sem<br>.<br>Sem|.<br>Sem<br> <br>Prüfungsleistungen<sup>2)</sup>|
+||<br>|<br>gesamt<br>V<br>Ü<br>P|ECTS<br>ECTS|ECTS<br>ECTS<br>ECTS|<br>ECTS<br>schriftlich<br>mündlich|
+|**rwis-**<br>**en-**<br>**aftli-**<br>**her**<br>**eich**<br>**htbe-**<br>**ich**<br>B 1|Mathematik für WING 1<sup>~~1)~~</sup><br>Übung<br> <sup>~~1~~</sup>|GOP<br>4<br>7,5<br>2<br>|7,5||PfP: PL 90<br>+ uS: Papier- und Rechnerübungen<br>|
+|**tu**<br>**s**<br>**h**<br>**c**<br>**er**<br>**ic**<br>**e**<br>|Mathematik für WING 2<sup>~~)~~</sup>|4<br>|||PfP: PL 90|
+|**a**<br><br>**c**<br> <br>**B**<br>**fl**<br>**r**<br>B 2|<br>|<br>7,5<br>|7,5||<br>|
+|**N**<br>**s**<br><br>**P**|Übung|<br>2|||+ uS: Papier- und Rechnerübungen|
+|<br>B 3|Einführungin die IuK-Technik|GOP<br>4<br>2<br>0<br>7,5|7,5||PL 120|
+|**ich**<br>B 4|Digitaltechnik|GOP<br>2<br>2<br>5|5||PL 90|
+|**ere**<br> <br>B 5|Praktikum Software für die Mathematik|2<br>2,5|2,5||unbenotete. Studienleistung<br>|
+|**er B**<br>**eich**<br>B 6a|Elektronik und Schaltungstechnik|4<br>2<br>7,5|7,5||PfP: PL<br>120|
+|**ch**<br>**er**<br>B 6b|Praktikum Elektronik und Schaltungstechnik|3<br>2,5||2,5|+ uSL|
+|**aftli**<br>**chtb**<br>B 7|Halbleiterbauelemente<br>|K<br>2<br>2<br>5<br>||5|PL 90|
+|**nsch**<br>**Pfli**<br>B 8|Grundlagen der Informatik<br>Übung|3<br>5<br>3||5|uSL Papier- und Rechnerübungen|
+|**se**<br>B 9a|Signale und Systeme I|K<br>2<br>2<br>5||5|PL 90|
+|**wis**<br>B 9b|Signale und Systeme II|K<br>2<br>2<br>5||5|PL 90|
+|**ur**<br>B 10|Nachrichtentechnische Systeme|K<br>4<br>2<br>7,5||7,5|120|
+|**ie**<br>**e-**<br> <br>B 11|Wahlpflichtmodul 1|2<br>2<br>5||5|PL 60/90/120|
+|**en**<br>**lb**<br>**ch**<br>B 12|Wahlpflichtmodul 2|2<br>2<br>5||2,5<br>2,5|PL 60/90/120|
+|**Ing**<br>**ah**<br>**rei**<br>B 13|Technische Wahlmodule|4<br>5|2,5|2,5|bSL|
+|<br>**W**<br>B 14|Hochschulpraktikum|2<br>2,5||2,5|uSL|
+|**ch**<br>B 15|BWL für Ingenieure|GOP<br>3<br>1<br>5|2,5<br>2,5||PL 60<br>|
+|**i**<br>||<br> <br>|||**~~2)~~**|
+|**re**<br>B 16|Stochastische Prozesse|2<br>2<br>5||5||
+|**Be**<br>**h**<br>B 17|IT und E-Business|4<br>5|5||**~~2)~~**<br>|
+|**her**<br>**reic**<br>B 18|Absatz|GOP<br>2<br>2<br>5|5||**2)**|
+|**ftlic**<br>**tbe**<br>B 19|Buchführung|K<br>4<br>5||5|**~~2)~~**|
+|**cha**<br>**lich**<br>B 20|Produktion, Logistik, Beschaffung|K<br>2<br>2<br>5||5|**~~2)~~**<br>|
+|**ens**<br>**Pf**<br>B 21|Makroökonomie|K<br>2<br>2<br>5||5|**~~2)~~**<br>|
+|**iss**<br>B 22|Mikroökonomie|K<br>3<br>1<br>5||5|**~~2)~~**|
+|**tsw**<br>B 23|Wirtschaftsrecht|2<br>2<br>5||5|**2)**|
+|**haf**<br>**e-**<br>**h**<br>B 24|Wahlpflichtmodul 1|2<br>2<br>5||5|**~~2)~~**<br>|
+|**rtsc**<br>**ahlb**<br>**eic**<br>B 25|Wahlpflichtmodul 2|2<br>2<br>5||5|**~~2)~~**|
+|**Wi**<br>**W**<br>**r**<br>B 26|Vertiefungsmodul|6<br>2<br>10||5|5<br>**2)**|
+|**r**<br> <br>B 27|Wahlmodule|4<br>2<br>7,5|2,5|2,5|2,5<br>bSL|
+|**äre**<br>**h**<br>**ich**||12 Wochen<br>||||
+|**kult**<br>**reic**<br>**bere**<br>B 28|Berufspraktische Tätigkeit|inklusive 6<br>Wochen<br>7,5|||7,5<br>uSL|
+|**rfa**<br>**Be**<br>**ahl**||Vorpraktikum||||
+|**Übe**<br> <br>**W**<br>B 29|Bachelorarbeit|12<br>15|||12|
+|<br>|Hauptseminar|<br>3|||3|
+|||<br>Summe<br>Summe||||
+|||SWS<br>ECTS||||
+||Summe WING-IKS|**129**<br>77<br>45<br>7<br>**180**|30<br>27,5|32,3<br>30<br>30|30|
+|||GOP=Grundlagen- und Orientierungsprüfung:<br>30||||
+|||K=Katalog von Modulen zur Zulassung für das Masterstudium<br>||||
 
 - 1) Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht 
 
@@ -334,37 +287,34 @@ Die Grundlagen- und Orientierungsprüfung umfasst die in der **Anlage 1a** bzw. 
 
 PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
-uSL: unbenotete Studienleistung 
-
-- 3) vgl. § 40 Abs. 1 
+- uSL: unbenotete Studienleistung 3) vgl. § 40 Abs. 1 
 
 ## **Anlage 2:** entfällt 
 
 8 
 
-## **Anlage 3: Modulkatalog des Masterstudiums** 
+### **Anlage 3: Modulkatalog des Masterstudiums** 
 
-|Nr.|Modul (M 1 - M 6 und M 8 - M 12)<br>bzw. Modulgruppe (M 7)|SWS|SWS|ECTS|ECTS<br>gesamt|1. Sem.|2. Sem|3. Sem|4. Sem|Art und Umfang der Studien- und<br>Prüfungsleistungen 1)2)|Art und Umfang der Studien- und<br>Prüfungsleistungen 1)2)|
+|Nr.|Modul (M 1 - M 6 und M 8 - M 12)<br>bzw. Modulgruppe (M 7)|SWS<br>||ECTS|ECTS<br>gesamt|1. Sem.<br>|2. Sem<br>|3. Sem<br>|4. Sem<br>|Art und Umfang d<br>Prüfungsleistu|er Studien- und<br>ngen 1)2)|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||V/Ü|P|||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
 ||**Ingenieurwissenschaftlicher Bereich**|||||||||||
-|M 1|Wahlpflichtmodul 1|4|||5|2,5|2,5|||PL 60/90/120||
-|M 2|Wahlpflichtmodul 2|4|||5|2,5|2,5|||PL 60/90/120||
-|M 3|Wahlpflichtmodul 3|4|||5|2,5|2,5|||PL 60/90/120||
-|M 4|Vertiefungsmodul|4|||5|2,5|2,5|||PL 60/90/120||
-|M 5|Technische Wahlmodule|6|||7,5|5|2,5|||bSL||
-|M 6|Hochschulpraktikum||2||2,5||2,5|||uSL||
+|M 1|Wahlpflichtmodul 1|4|||5|2,5|2,5|||PL 60/9|0/120|
+|M 2|Wahlpflichtmodul 2|4|||5|2,5|2,5|||PL 60/9|0/120|
+|M 3|Wahlpflichtmodul 3|4|||5|2,5|2,5|||PL 60/9|0/120|
+|M 4|Vertiefungsmodul|4|||5|2,5|2,5|||PL 60/9|0/120|
+|M 5|Technische Wahlmodule|6|||7,5|5|2,5|||bS|L|
+|M 6|Hochschulpraktikum||2||2,5||2,5|||uS|L|
 ||**Wirtschaftswissenschaftlicher Bereich**|||||||||||
-|M 7|Vertiefungsmodulgruppe<br>(Module siehe Aushang des<br>Prüfungsausschusses)||||30|10|15|5||vgl. § 46 Abs. 2 Satz 2||
+|M 7|Vertiefungsmodulgruppe<br>(Module siehe Aushang des<br>Prüfungsausschusses)||||30|10|15|5||vgl. § 46 Abs|. 2 Satz 2|
 ||**Überfakultärer Bereich**|||||||||||
-|M 8|Wahlmodule|4|||5|||5||bSL||
-|M 9|Schlüsselqualifikationen|4|||5|5||||uSL||
-|M 10|Projektarbeit|Umfangca. 300 Stunden||10|12,5|||10||bSL||
-||Hauptseminar|||2,5||||2,5||||
-|M 11|Berufspraktische Tätigkeit|6 Wochen|||7,5|||7,5||uSL||
-|M 12|Masterarbeit||||30||||30|||
-|||||||||||||
-||Summe ECTS||||**120**|30|30|30|30|Summe ECTS||
+|M 8|Wahlmodule|4|||5|||5||bS|L|
+|M 9|Schlüsselqualifikationen|4|||5|5||||uS|L|
+|M 10|Projektarbeit|Umfangca. 30|0 Stunden|10|125|||10||bS||
+||Hauptseminar|||2,5|,|||2,5||||
+|M 11|Berufspraktische Tätigkeit|6 Woch|en||7,5|||7,5||uS|L|
+|M 12|Masterarbeit<br>||||30<br>||||30<br>|||
+||Summe ECTS||||**120**|30|30|30|30|Summe|ECTS|
 |||||||||||**120**||
 
 1) Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 2) PfP: Portfolioprüfung 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AES_BA_MA_ILS_Bio.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:34:03+00:00
-page_count_chars: 3326
+scraped_at: 2026-07-01T08:57:30+00:00
+page_count_chars: 3291
 ---
 
 # 24. Juli 2013
@@ -12,13 +12,13 @@ page_count_chars: 3326
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AES_BA_MA_ILS_Bio.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/>
 
-## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/ILS)** 
+# **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/ILS)** 
 
 Vom 24. Juli 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 4 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integrated Life Sciences - Biologie, Biomathematik, Biophysik der Naturwissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg vom 23. Dezember 2009, zuletzt geändert durch Satzung vom 30. Juli 2012, wird wie folgt geändert: 
 
@@ -38,21 +38,20 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Integ
 
 |**1**|**MfILS I (ILS-M1): Mathematik für Integrated**<br>**Life Sciences I**||10|Portfolio-Prüfung<br>bestehend aus:|
 |---|---|---|---|---|
-||Vorlesung1: Mathematik für Ingenieure I (Kurs<br>C), 4 SWS<br>Übung zur Vorlesung1 Mathematik für<br>Ingenieure I (2 SWS)|4<br>2||100% Klausur zur<br>Vorlesung1 Mathematik<br>für Ingenieure I (90<br>Minuten)|
-|||||(freiwillige<br>Hausaufgaben (7 von<br>14 Einzelaufgaben) mit<br>Bonus aufdieKlausur)|
-||Vorlesung2: Statistische Methoden für<br>Integrated Life Sciences, 1 SWS<br>Rechnerübung zur Vorlesung2 Statistische<br>Methoden für Integrated Life Sciences, (1 SWS)|1<br>1|||
-|||||0% schriftliches Testat<br>am Rechner<br>(unbenotet)|
+||Vorlesung1: Mathematik für Ingenieure I (Kurs<br>C), 4 SWS|4||100% Klausur zur<br>Vorlesung1 Mathematik<br>für Ingenieure I (90<br>Minuten)|
+||Übung zur Vorlesung1 Mathematik für<br>Ingenieure I (2 SWS)|2||(freiwillige<br>Hausaufgaben (7 von<br>14 Einzelaufgaben) mit<br>Bonus aufdieKlausur)|
+||Vorlesung2: Statistische Methoden für<br>Integrated Life Sciences, 1 SWS|1|||
+||Rechnerübung zur Vorlesung2 Statistische<br>Methoden für Integrated Life Sciences, (1 SWS)|1||0% schriftliches Testat<br>am Rechner<br>(unbenotet)|
 |**2**|**MfILS II (ILS-M2): Mathematik für Integrated**<br>**Life Sciences II**||5|Portfolio-Prüfung<br>bestehend aus:|
 
 1 
 
-||Vorlesung Mathematik für Ingenieure II (Kurs<br>C), 4 SWS|4||100% Klausur zur<br>Vorlesung Mathematik<br>für Ingenieure II (90<br>Minuten)|
-|---|---|---|---|---|
-||Übung zur Vorlesung Mathematik für<br>Ingenieure II, (2 SWS)|2||(freiwillige<br>Hausaufgaben (7 von<br>14 Einzelaufgaben) mit<br>Bonus auf die Klausur)|
-||Anmerkung: Die Vorlesung und Übung sollen in<br>den ersten ca. 9 Semesterwochen besucht<br>werden.|||Anmerkung: Die<br>Klausur prüft den Stoff<br>der ersten 9<br>Semesterwochen.|
-||||||
+|Vorlesung Mathematik für Ingenieure II (Kurs<br>C), 4 SWS|4|100% Klausur zur<br>Vorlesung Mathematik<br>für Ingenieure II (90<br>Minuten)|
+|---|---|---|
+|Übung zur Vorlesung Mathematik für<br>Ingenieure II, (2 SWS)|2|(freiwillige<br>Hausaufgaben (7 von<br>14 Einzelaufgaben) mit<br>Bonus auf die Klausur)|
+|Anmerkung: Die Vorlesung und Übung sollen in<br>den ersten ca. 9 Semesterwochen besucht<br>werden.||Anmerkung: Die<br>Klausur prüft den Stoff<br>der ersten 9<br>Semesterwochen.<br>“|
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Sie gilt für alle Studierenden, soweit die geänderten Module noch nicht begonnen wurden. 
 

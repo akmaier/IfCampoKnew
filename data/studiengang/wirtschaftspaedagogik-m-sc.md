@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:51:32+00:00
+scraped_at: 2026-07-01T08:28:48+00:00
 ---
 
 # Wirtschaftspädagogik (M.Sc.)

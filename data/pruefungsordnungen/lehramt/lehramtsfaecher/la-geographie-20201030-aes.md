@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Geographie 20201030 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Geographie/Aenderungssatzungen/LA_Geographie_20201030_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:08:42+00:00
-page_count_chars: 16459
+scraped_at: 2026-07-01T08:38:42+00:00
+page_count_chars: 16667
 ---
 
 # LA Geographie 20201030 ÄS.pdf
@@ -12,19 +12,19 @@ page_count_chars: 16459
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Geographie/Aenderungssatzungen/LA_Geographie_20201030_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 30. Oktober 2020** 
+# **Vom 30. Oktober 2020** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Geographie im Lehramtsstudiengang an der FAU vom 10. März 2009, zuletzt geändert durch Satzung vom 28. Oktober 2016, wird wie folgt geändert: 
 
 1. In der Bezeichnung der Satzung wird nach dem Klammerzusatz „ **(FAU)** “ in einer neuen Zeile der Zusatz „ **– FPO LA Geo –** “ angefügt. 
 
-## 2. § 2 wird wie folgt geändert: 
+# 2. § 2 wird wie folgt geändert: 
 
 - a) Satz 2 wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ aa) Nach dem Wort „Realschulen“ wird das Wort „ist“ durch das Wort „si
 
    - cc) Nach den Buchstaben und der Zahl „GGH 3“ wird im Klammerzusatz vor der Zahl „10“ das Wort „insgesamt“ eingefügt. 
 
-## 3. § 3 wird wie folgt geändert: 
+# 3. § 3 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „ **Zulassungsvoraussetzungen** “ die Worte „ **für die Prüfungen** “ eingefügt. 
 
@@ -52,13 +52,13 @@ aa) Nach dem Wort „Realschulen“ wird das Wort „ist“ durch das Wort „si
 
 4. Nach § 3 wird folgender neuer §3a eingefügt: 
 
-## „ **§ 3a Studienbegleitende Leistungsnachweise** 
+# „ **§ 3a Studienbegleitende Leistungsnachweise** 
 
 (1) Über die in § 5 **LAPO** genannten Prüfungsformen hinaus sind für das Fach Geographie im Lehramtsstudiengang auch Prüfungen in fachspezifischer Form gemäß den nachfolgenden Bestimmungen möglich. 
 
-(2)[1] Übungsleistungen (ÜL) umfassen in der Regel wöchentliches, selbstständiges Lösen von Übungsaufgaben (z.B. Programmier- oder Rechenübungen oder eLearningEinheiten, die jeweils in Form eines Übungshefts bzw. einer Sammlung oder durch ein elektronisches Protokoll bewertet werden).[2] Praktische Übungsleistungen (pÜL), sehen in der Regel das Einüben von praktischen Aufgaben, deren Dokumentation in einem Protokollheft und mündliche oder schriftliche Testate zur jeweiligen praktischen Aufgabe vor.[3] Weiterhin können Seminarleistungen (SeL) (in der Regel Präsentation und schriftliche Ausarbeitung), reflexive Diskussionsleistungen und Exkursionsleistungen (ExL) (in der Regel Begutachtung oder Diskussionsbeitrag oder Berichte) gefordert werden.[4] Die konkrete Form und der Umfang der in Sätzen 1 bis 3 genannten Prüfungen sind abhängig vom konkreten didaktischen Charakter des jeweiligen Moduls bzw. der jeweiligen Lehrveranstaltung und Abs. 3 bzw. der **Anlage** bzw. dem Modulhandbuch zu entnehmen. 
+(2)<sup>1</sup> Übungsleistungen (ÜL) umfassen in der Regel wöchentliches, selbstständiges Lösen von Übungsaufgaben (z.B. Programmier- oder Rechenübungen oder eLearningEinheiten, die jeweils in Form eines Übungshefts bzw. einer Sammlung oder durch ein elektronisches Protokoll bewertet werden).<sup>2</sup> Praktische Übungsleistungen (pÜL), sehen in der Regel das Einüben von praktischen Aufgaben, deren Dokumentation in einem Protokollheft und mündliche oder schriftliche Testate zur jeweiligen praktischen Aufgabe vor.<sup>3</sup> Weiterhin können Seminarleistungen (SeL) (in der Regel Präsentation und schriftliche Ausarbeitung), reflexive Diskussionsleistungen und Exkursionsleistungen (ExL) (in der Regel Begutachtung oder Diskussionsbeitrag oder Berichte) gefordert werden.<sup>4</sup> Die konkrete Form und der Umfang der in Sätzen 1 bis 3 genannten Prüfungen sind abhängig vom konkreten didaktischen Charakter des jeweiligen Moduls bzw. der jeweiligen Lehrveranstaltung und Abs. 3 bzw. der **Anlage** bzw. dem Modulhandbuch zu entnehmen. 
 
-(3)[1] Der Umfang einer benoteten Seminarleistung nach Abs. 2 Satz 3 ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.[2] Soweit in der **Anlage** nichts anderes festgelegt ist, beträgt der Umfang der Präsentation in der Regel ca. 30 Minuten, derjenige der schriftlichen Ausarbeitung ca. 10 Seiten.“ 
+(3)<sup>1</sup> Der Umfang einer benoteten Seminarleistung nach Abs. 2 Satz 3 ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.<sup>2</sup> Soweit in der **Anlage** nichts anderes festgelegt ist, beträgt der Umfang der Präsentation in der Regel ca. 30 Minuten, derjenige der schriftlichen Ausarbeitung ca. 10 Seiten.“ 
 
 5. § 5 wird wie folgt geändert: 
 
@@ -66,7 +66,7 @@ aa) Nach dem Wort „Realschulen“ wird das Wort „ist“ durch das Wort „si
 
 aa) Die Tabelle wird wie folgt geändert: 
 
-- (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „[1] “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten[1] ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „[1] “ durch die hochgestellte Zahl „[2] “ ersetzt. 
+- (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „<sup>1</sup> “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten<sup>1</sup> ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „<sup>1</sup> “ durch die hochgestellte Zahl „<sup>2</sup> “ ersetzt. 
 
 - (2) In Zeilen 2 und 3 (Module GLG 1: Grundlagen der KG I und GLG 2: Grundlagen der KG II) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz jeweils das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
 
@@ -88,7 +88,7 @@ aa) Die Tabelle wird wie folgt geändert:
 
    - (a) In Spalte 2 (Lehrveranstaltung) Unterzeile 2 (Kolloquium …) erhält Unterzeile 2 jeweils folgende neue Fassung: 
 
-„Forschungskolloquium[3] “ 
+„Forschungskolloquium<sup>3</sup> “ 
 
 - (b) Spalte 6 (Art und Umfang der Prüfung) erhält jeweils folgende neue Fassung: 
 
@@ -98,7 +98,7 @@ aa) Die Tabelle wird wie folgt geändert:
 
    - „SeL, 50 % und Bericht (10-15 Seiten), 50 %“ 
 
-- (10) In Zeile 19 (Summe) werden in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten[2)] ) (neu) in Unterspalte 5 (5.) die Zahl „15“ durch die Zahl „13“ und in Unterspalte 6 (6.) die Zahl „10“ durch die Zahl „12“ ersetzt. 
+- (10) In Zeile 19 (Summe) werden in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten<sup>2)</sup> ) (neu) in Unterspalte 5 (5.) die Zahl „15“ durch die Zahl „13“ und in Unterspalte 6 (6.) die Zahl „10“ durch die Zahl „12“ ersetzt. 
 
 bb) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung 
 
@@ -128,7 +128,7 @@ bb) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung
 
 aa) Die Tabelle wird wie folgt geändert: 
 
-- (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „[1] “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten[1] ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „[1] “ durch die hochgestellte Zahl „[2] “ ersetzt. 
+- (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „<sup>1</sup> “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten<sup>1</sup> ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „<sup>1</sup> “ durch die hochgestellte Zahl „<sup>2</sup> “ ersetzt. 
 
 - (2) In Zeilen 2 und 3 (Module GLR 1: Grundlagen der KG I und GLR 2: Grundlagen der KG II) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz jeweils das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
 
@@ -152,39 +152,43 @@ aa) Die Tabelle wird wie folgt geändert:
 
 4 
 
-## bb) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung 
+bb) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung 
 
-      - „ÜL = Übungsleistung gemäß § 3a Abs. 2 Satz 1 SeL = Seminarleistung gemäß § 3a Abs. 2 Satz 3 und Abs. 3 
+   - „ÜL = Übungsleistung gemäß § 3a Abs. 2 Satz 1 SeL = Seminarleistung gemäß § 3a Abs. 2 Satz 3 und Abs. 3 
 
-      - 1 Die Module verteilen sich wie folgt auf die Teilgebiete gemäß § 47 **LPO I** : - Humangeographie GLR 1-3, - Physische Geographie GLR 4-6, - Regionale Geographie GLR 9-10, - Exkursionen/Geländepraktika GLG 8-10. 
+   - 1 Die Module verteilen sich wie folgt auf die Teilgebiete gemäß § 47 **LPO I** : - Humangeographie GLR 1-3, 
 
-      - 2 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
+      - Physische Geographie GLR 4-6, 
 
-   - b) In der Tabelle in Abs. 2 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
+   - Regionale Geographie GLR 9-10, - Exkursionen/Geländepraktika GLG 8-10. 
 
-7. § 7 wird wie folgt geändert: 
+   - 2 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
 
-## a) Abs. 1 wird wie folgt geändert: 
+- b) In der Tabelle in Abs. 2 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
 
-- aa) Die Tabelle wird wie folgt geändert: 
+# 7. § 7 wird wie folgt geändert: 
 
-   - (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „[1] “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten[1] ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „[1] “ durch die hochgestellte Zahl „[2] “ ersetzt. 
+- a) Abs. 1 wird wie folgt geändert: 
 
-   - (2) In Zeile 2 (Module GGH 1: Einführung in die PG) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
+aa) Die Tabelle wird wie folgt geändert: 
 
-   - (3) In Zeile 3 (GGH 2: Seminar PG) werden in Spalte 6 (Art und Umfang der Prüfung) die Worte „Kurz-Referat (10 Min.) mit schriftlicher Ausarbeitung (5 Seiten)“ durch die Abkürzung „SeL“ ersetzt. 
+- (1) In Zeile 1 (Modulbezeichnung) werden in Spalte 1 (Modulbezeichnung) nach dem Wort „Modulbezeichnung“ die hochgestellte Zahl „<sup>1</sup> “ angefügt und in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten<sup>1</sup> ) nach dem Wort „ECTS-Punkten“ die hochgestellte Zahl „<sup>1</sup> “ durch die hochgestellte Zahl „<sup>2</sup> “ ersetzt. 
 
-   - (4) In Zeile 4 (GGH 3: Einführung in die KG) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
+- (2) In Zeile 2 (Module GGH 1: Einführung in die PG) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
 
-   - (5) In Zeile 5 (GGH 4: Seminar KG) werden in Spalte 6 (Art und Umfang der Prüfung die Worte „Kurz-Referat (10 Min.) mit schriftlicher Ausarbeitung (5 Seiten)“ durch die Abkürzung „SeL“ ersetzt. 
+- (3) In Zeile 3 (GGH 2: Seminar PG) werden in Spalte 6 (Art und Umfang der Prüfung) die Worte „Kurz-Referat (10 Min.) mit schriftlicher Ausarbeitung (5 Seiten)“ durch die Abkürzung „SeL“ ersetzt. 
 
-   - (6) In Zeile 6 (GGH 5: Methoden Lehramt) erhält Spalte 6 (Art und Umfang der Prüfung) folgende neue Fassung: 
+- (4) In Zeile 4 (GGH 3: Einführung in die KG) werden in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz das Komma sowie die Zahl und das Zeichen „100 %“ gestrichen. 
+
+- (5) In Zeile 5 (GGH 4: Seminar KG) werden in Spalte 6 (Art und Umfang der Prüfung die Worte „Kurz-Referat (10 Min.) mit schriftlicher Ausarbeitung (5 Seiten)“ durch die Abkürzung „SeL“ ersetzt. 
+
+- (6) In Zeile 6 (GGH 5: Methoden Lehramt) erhält Spalte 6 (Art und Umfang der Prüfung) folgende neue Fassung: 
 
 „ÜL und Bericht (5 Seiten)“ 
 
 - (7) In Zeile 7 (GGH 6: Regionale Geographie) erhält Spalte 6 (Art und Umfang der Prüfung) folgende neue Fassung: 
 
-„Klausur (90 Min.) oder[3] zwei Klausuren (à 45 Min.) und Bericht (5-10 Seiten)“ 
+„Klausur (90 Min.) oder<sup>3</sup> zwei Klausuren (à 45 Min.) und Bericht (5-10 Seiten)“ 
 
 5 
 
@@ -196,31 +200,31 @@ bb) Die Erläuterungen unterhalb der Tabelle erhalten folgende neue Fassung
 
 „ÜL = Übungsleistung gemäß § 3a Abs. 2 Satz 1 SeL = Seminarleistung gemäß § 3a Abs. 2 Satz 3 und Abs. 3 
 
-- 1 Die Module verteilen sich wie folgt auf die Teilgebiete gemäß § 47 **LPO I** : - Humangeographie GGH 3-4, - Physische Geographie GGH 1-2, 
+> 1 Die Module verteilen sich wie folgt auf die Teilgebiete gemäß § 47 **LPO I** : - Humangeographie GGH 3-4, - Physische Geographie GGH 1-2, 
 
-   - Regionale Geographie GGH 6-7, 
+- Regionale Geographie GGH 6-7, 
 
 - Exkursionen/Geländepraktika GGH 5-7. 2 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
 
-   - b) In der Tabelle in Abs. 2 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
+- b) In der Tabelle in Abs. 2 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
 
-   - c) In der Tabelle in Abs. 5 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung – FGGS) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
+- c) In der Tabelle in Abs. 5 werden in Zeile 3 (GeoDid 2: Geographiedidaktik – Vertiefung – FGGS) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
 
-   - d) In der Tabelle in Abs. 6 werden in Zeile 5 (GeoDid 2: Geographiedidaktik – Vertiefung – FGMS) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
+- d) In der Tabelle in Abs. 6 werden in Zeile 5 (GeoDid 2: Geographiedidaktik – Vertiefung – FGMS) Spalte 6 (Art und Umfang der Prüfung) die Worte „Schriftliche Hausarbeit (15 Seiten)“ durch die Worte „Mündliche Prüfung (ca. 20 Minuten)“ ersetzt. 
 
-8. § 8 wird wie folgt geändert: 
+# 8. § 8 wird wie folgt geändert: 
 
-   - a) Die bisher einzige Regelung wird zu Abs. 1. 
+- a) Die bisher einzige Regelung wird zu Abs. 1. 
 
-   - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
+- b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„[1] Die vierte Änderungssatzung tritt mit Wirkung zum 1. Oktober 2020 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.[5] Abweichend von Sätzen 2 bis 4 gelten die Änderungen in den Modulen GLG 3, GLG 5, GLG 6 bis 16 sowie GeoDid 2: Geographiedidaktik – Vertiefung GYM, GLR 3, GLR 6 und 7, GLR 9 und 10, GeoDid 2: Geographiedidaktik – Vertiefung, GGH 2, GGH 4 bis 7, sowie GeoDid 2: Geographiedidaktik – Vertiefung – FGGS und GeoDid 2: Geographiedidaktik – Vertiefung – FGMS für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
+„<sup>1</sup> Die vierte Änderungssatzung tritt mit Wirkung zum 1. Oktober 2020 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.<sup>5</sup> Abweichend von Sätzen 2 bis 4 gelten die Änderungen in den Modulen GLG 3, GLG 5, GLG 6 bis 16 sowie GeoDid 2: Geographiedidaktik – Vertiefung GYM, GLR 3, GLR 6 und 7, GLR 9 und 10, GeoDid 2: Geographiedidaktik – Vertiefung, GGH 2, GGH 4 bis 7, sowie GeoDid 2: Geographiedidaktik – Vertiefung – FGGS und GeoDid 2: Geographiedidaktik – Vertiefung – FGMS für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
 
 6 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt mit Wirkung zum 1. Oktober 2020 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 3Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.[5] Abweichend von Sätzen 2 bis 4 gelten die Änderungen in den Modulen GLG 3, GLG 5, GLG 6 bis 16 sowie GeoDid 2: Geographiedidaktik – Vertiefung GYM, GLR 3, GLR 6 und 7, GLR 9 und 10, GeoDid 2: Geographiedidaktik – Vertiefung, GGH 2, GGH 4 bis 7, sowie GeoDid 2: Geographiedidaktik – Vertiefung – FGGS und GeoDid 2: Geographiedidaktik – Vertiefung – FGMS für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
+1Diese Änderungssatzung tritt mit Wirkung zum 1. Oktober 2020 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 3Prüfungen nach den bisher gültigen Fassungen der Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Fachstudien- und Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Fachstudien- und Prüfungsordnung ab.<sup>5</sup> Abweichend von Sätzen 2 bis 4 gelten die Änderungen in den Modulen GLG 3, GLG 5, GLG 6 bis 16 sowie GeoDid 2: Geographiedidaktik – Vertiefung GYM, GLR 3, GLR 6 und 7, GLR 9 und 10, GeoDid 2: Geographiedidaktik – Vertiefung, GGH 2, GGH 4 bis 7, sowie GeoDid 2: Geographiedidaktik – Vertiefung – FGGS und GeoDid 2: Geographiedidaktik – Vertiefung – FGMS für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch). 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. April 2020 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 19. Oktober 2020 Nr. IV.5-BS4067.0/4/13. 
 

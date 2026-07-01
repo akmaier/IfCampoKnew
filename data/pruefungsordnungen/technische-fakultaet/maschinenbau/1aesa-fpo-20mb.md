@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_FPO%20MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:27:48+00:00
-page_count_chars: 4987
+scraped_at: 2026-07-01T11:44:40+00:00
+page_count_chars: 4830
 ---
 
 # 25. Juli 2008
@@ -12,17 +12,17 @@ page_count_chars: 4987
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_FPO%20MB.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg an der Universität Erlangen-Nürnberg (- FPOMB -)** 
+**Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg an der Universität Erlangen-Nürnberg (- FPOMB -)** 
 
-## Vom 25. Juli 2008 
+# Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOMB - vom 24. September 2007 wird wie folgt geändert: 
 
-## 1. § 38 wird wie folgt geändert: 
+# 1. § 38 wird wie folgt geändert: 
 
    - a. In Abs. 1 werden die Worte „,die Bachelorarbeit im Umfang von ca. 360 Stunden (12 ECTS-Punkte) sowie ein Referat von maximal 30 Minuten über das in der Bachelorarbeit bearbeitete Thema mit anschließender Diskussion" gestrichen. 
 
@@ -56,11 +56,11 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
    - a. Die Zeile B 7 „Technische Darstellungslehre“ wird wie folgt gefasst: 
 
-„ 
+<u>„</u> 
 
-||B 7|Technische<br>Darstellungs-<br>lehreI||||2|2,5|2,5||||||unbenoteter<br>Schein|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Technische<br>Darstellungs-<br>lehreII||||2|2,5||2,5|||||unbenoteter<br>Schein|
+|B 7|Technische<br>Darstellungs-<br>lehreI|2|2,5|2,5||unbenoteter<br>Schein|
+|---|---|---|---|---|---|---|
+||Technische<br>Darstellungs-<br>lehreII|2|2,5||2,5|unbenoteter<br>Schein|
 
    - “ 
 
@@ -96,20 +96,18 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
 2 
 
-**==> picture [494 x 48] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Informatik<br>12  12  Informatik für Ing. I  PF  90 s  12  Informatik für Ing. II  ***<br>für Ing.<br>**----- End of picture text -----**<br>
+|12|12|Informatik für Ing. I|PF|90 s|12|Informatik für Ing. II|***|Informatik<br>für Ing.|
+|---|---|---|---|---|---|---|---|---|
 
 *** 30 m oder 60-120 s; die Prüfungsmodalitäten werden vom jeweiligen Fachvertreter bekannt gegeben. 
 
-## 12. Anlage 4 wird wie folgt geändert: 
+# 12. Anlage 4 wird wie folgt geändert: 
 
 - a. Das Wort Fachpraktika wird jeweils durch die Worte „Hochschulpraktika“ ersetzt. 
 
 - b. Das Wort Fachpraktikum wird durch das Wort „Hochschulpraktikum“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tage nach ihrer Bekanntgabe in Kraft. 
 

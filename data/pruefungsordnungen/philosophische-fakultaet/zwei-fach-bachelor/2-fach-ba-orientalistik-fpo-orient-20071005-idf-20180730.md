@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Orientalistik FPO Orient 20071005 i.d.F. 20180730.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Orientalistik/konsolidierte_Fassungen/2-Fach-BA_Orientalistik_FPO_Orient_20071005_idF_20180730.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:09:25+00:00
-page_count_chars: 13144
+scraped_at: 2026-07-01T10:27:08+00:00
+page_count_chars: 13039
 ---
 
 # 2-Fach-BA Orientalistik FPO Orient 20071005 i.d.F. 20180730.pdf
@@ -16,7 +16,7 @@ page_count_chars: 13144
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Orient – Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Orient – Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -42,7 +42,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Orientalistik kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Studium der Orientalistik wird im Bachelorstudiengang eine fundierte fachwissenschaftliche Ausbildung gewährleistet, wobei insbesondere die sprachliche und 
 
@@ -82,23 +82,25 @@ einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktional
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
 
 (1) Das Studium besteht aus Pflicht- und Wahlpflichtmodulen. 
 
-(2)[1] Im Studium Orientalistik als Erstfach sind die Module Arabisch I bis IV, Geschichte der islamischen Welt, Sprachen, Kulturen und Religionen des Orients, Zweite orientalische Sprache I und II, Arabische Literatur, Arabische Sprachwissenschaft und Dialektologie, Praxismodul und Bachelorarbeit erfolgreich abzulegen.[2] Umfang und Gliederung des Studiums im Übrigen sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** . 
+(2)<sup>1</sup> Im Studium Orientalistik als Erstfach sind die Module Arabisch I bis IV, Geschichte der islamischen Welt, Sprachen, Kulturen und Religionen des Orients, Zweite orientalische Sprache I und II, Arabische Literatur, Arabische Sprachwissenschaft und Dialektologie, Praxismodul und Bachelorarbeit erfolgreich abzulegen.<sup>2</sup> Umfang und Gliederung des Studiums im Übrigen sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** . 
 
-(3)[1] Im Studium Orientalistik als Zweitfach sind die Module Arabisch I bis IV, Geschichte der islamischen Welt, Sprachen, Kulturen und Religionen des Orients, Arabische Literatur und Arabische Sprachwissenschaft und Dialektologie erfolgreich abzulegen.[2] Abs. 2 Satz 2 gilt entsprechend. 
+(3)<sup>1</sup> Im Studium Orientalistik als Zweitfach sind die Module Arabisch I bis IV, Geschichte der islamischen Welt, Sprachen, Kulturen und Religionen des Orients, Arabische Literatur und Arabische Sprachwissenschaft und Dialektologie erfolgreich abzulegen.<sup>2</sup> Abs. 2 Satz 2 gilt entsprechend. 
 
-(4)[1] Die Teilnahme an der Modulprüfung zum Modul „Arabisch II“ setzt das Bestehen des Moduls „Arabisch I“ voraus.[2] Die Teilnahme an der Modulprüfung zum Modul „Arabisch III“ setzt das das Bestehen des Moduls „Arabisch II“ voraus.[3] Die Teilnahme an der Modulprüfung zum Modul „Arabisch IV“ setzt das Bestehen des Moduls „Arabisch III“ voraus.[4] Die Teilnahme an der Modulprüfung zum Modul „Zweite orientalische Sprache II“ in einer gewählten Sprache setzt das Bestehen des Moduls „Zweite orientalische Sprache I“ in derselben Sprache voraus. 
+(4)<sup>1</sup> Die Teilnahme an der Modulprüfung zum Modul „Arabisch II“ setzt das Bestehen des Moduls „Arabisch I“ voraus.<sup>2</sup> Die Teilnahme an der Modulprüfung zum Modul „Arabisch III“ setzt das das Bestehen des Moduls „Arabisch II“ voraus.<sup>3</sup> Die Teilnahme an der Modulprüfung zum Modul „Arabisch IV“ setzt das Bestehen des Moduls „Arabisch III“ voraus.<sup>4</sup> Die Teilnahme an der Modulprüfung zum Modul „Zweite orientalische Sprache II“ in einer gewählten Sprache setzt das Bestehen des Moduls „Zweite orientalische Sprache I“ in derselben Sprache voraus. 
 
-(5)[1] Im Bereich Schlüsselqualifikationen ist für das Studium der Orientalistik als Erstfach ein Praxismodul (achtwöchiger Sprachkurs von mindestens 100 Stunden in Arabisch oder einer anderen orientalischen Sprache in einem Land, in dem diese als Amtssprache gilt) im Umfang von 10 ECTS obligatorisch.[2] Alternativ kann ein zweisemestriges Übersetzungsseminar besucht werden (insgesamt 4 SWS). 
+(5)<sup>1</sup> Im Bereich Schlüsselqualifikationen ist für das Studium der Orientalistik als Erstfach ein Praxismodul (achtwöchiger Sprachkurs von mindestens 100 Stunden in Arabisch oder einer anderen orientalischen Sprache in einem Land, in dem diese als Amtssprache gilt) im Umfang von 10 ECTS obligatorisch.<sup>2</sup> Alternativ kann ein zweisemestriges Übersetzungsseminar besucht werden (insgesamt 4 SWS). 
 
-(6)[1] Abweichend von § 3 Abs. 4 **ABMStPO/Phil** können im Bachelorstudiengang Orientalistik einzelne Lehrveranstaltungen und Prüfungen auch in Englisch, Arabisch und Hebräisch abgehalten werden.[2] Im Übrigen bleibt § 3 Abs. 4 **ABMStPO/Phil** unberührt. 
+(6)<sup>1</sup> Abweichend von § 3 Abs. 4 **ABMStPO/Phil** können im Bachelorstudiengang Orientalistik einzelne Lehrveranstaltungen und Prüfungen auch in Englisch, Arabisch und Hebräisch abgehalten werden.<sup>2</sup> Im Übrigen bleibt § 3 Abs. 4 **ABMStPO/Phil** unberührt. 
 
-**§ 5 Grundlagen- und Orientierungsprüfung** Für die Grundlagen- und Orientierungsprüfung müssen im Fach Orientalistik die Modulprüfungen für die Module „Arabisch I“ und „Arabisch II“ erfolgreich abgelegt werden. 
+## **§ 5 Grundlagen- und Orientierungsprüfung** 
+
+Für die Grundlagen- und Orientierungsprüfung müssen im Fach Orientalistik die Modulprüfungen für die Module „Arabisch I“ und „Arabisch II“ erfolgreich abgelegt werden. 
 
 ## **§ 6 Schluss- und Übergangsvorschriften** 
 
@@ -106,42 +108,37 @@ einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktional
 
 3 
 
-(2)[1] Die sechste Änderungssatzung tritt am 1. Oktober 2018 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
+(2)<sup>1</sup> Die sechste Änderungssatzung tritt am 1. Oktober 2018 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
 4 
 
 ## **Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Orientalistik** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||in ECTS-Punkten1||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Arabisch I**|Sprachkurs||6|||10|6||||||Klausur (90 Min.)|1|
-||Konversationsübung||2||||4||||||||
-|**Arabisch II**|Sprachkurs||6|||10||6|||||Klausur (90 Min.)|1|
-||Konversationsübung||2|||||4|||||||
-|**Arabisch III**|Sprachkurs||6|||10|||6||||Klausur (90 Min.)|1|
-||Konversationsübung||2||||||4||||||
-||Sprachkurs||6|||||||6|||Klausur (90 Min.)|1|
-|**Arabisch IV**|Konversationsübung||2|||10||||4|||||
-|**Geschichte der**<br>**islamischen Welt**|Einführung in die<br>Geschichte des Islams||||2|5|2||||||Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>(10 Seiten Text, 40 %)|1|
-||Historisches Seminar||||2|||2|||||||
-||Propädeutikum||2|||||1|||||||
-|**Sprachen, Kulturen und**<br>**Religionen des Orients**|Einführung in die<br>Religionen des Orients||||2|5|||1,5||||Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>(10 Seiten Text, 40 %)|1|
-||Religionswissenschaft-<br>liches Seminar||||2|||||1,5|||||
-||Semitische Sprachen und<br>Kulturen|2||||||||2|||||
-|**Zweite orientalische**<br>**Sprache I2,3**|Sprachkurs||4|||5|||5||||nach Maßgabe  der anbietenden<br>Einrichtung3|1|
-|**Zweite orientalische**<br>**Sprache II2,3**|Sprachkurs||4|||5||||5|||nach Maßgabe der anbietenden<br>Einrichtung3|1|
-|**Arabische Literatur**|Klassische Literatur I||||2|10|||||3,5||Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>(10 Seiten Text,40 %)|1|
-||Klassische Literatur II||||2|||||||3,5|||
-||Moderne Literatur||||2|||||||3|||
-|**Arabische Sprach-**<br>**wissenschaft und**<br>**Dialektologie**|Einführung||||2|10|||||3,5||Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>(10 Seiten Text, 40 %)|1|
-||Strukturkurs arabischer<br>Dialekt5||(2)||(2)||||||3,5||||
-||Vertiefung||||2|||||||3|||
-|**Praxismodul2, 4**|Sprachkurs im Ausland<br>oder zweisemestriges<br>Übersetzungsseminar|||||(10)|||||10||Schriftlicher Nachweis über den<br>Besuch des Sprachkurses bzw.<br>Übersetzungsarbeit|0|
-|**Bachelorarbeit2**||||||10||||||10|Bachelorarbeit (ca. 40 Seiten)|1|
-|Summe:||2|42-48||18-20|90/70|12|13|16,5|18,5|20,5|19,5|||
+|Modulbezeichnung|Lehrveranstaltung|S<br>|W|S|Gesamt<br>ECTS|Worklo|ad-Verteil<br>in ECTS|ung pro<br>-Punkte|Semester<br>n<sup>1</sup>|Art und Umfang der Prüfung/<br>Stdilit|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||V|Ü||P<br>S||1.<br>2.|3.|4.|5.<br>6.|uenesung|note|
+|**Arabisch I**|Sprachkurs|6|||10|6||||Klausur (90 Min)|1|
+||Konversationsübung|2||||4||||.||
+|**Arabisch II**|Sprachkurs<br>Konversationsübung|6<br>2|||10|6<br>4||||Klausur (90 Min.)|1|
+|**Arabisch III**|Sprachkurs|6|||10||6|||Klausur (90 Min.)|1|
+||Konversationsübung|2|||||4|||||
+|**Arabisch IV**|Sprachkurs<br>Konversationsübung|6<br>2|||10|||6<br>4||Klausur (90 Min.)|1|
+|**Geschichte der**|Einführung in die<br>Geschichte des Islams|||2||2||||Klausur (90 Min., 45 %) und Referat<br>||
+|**islamischen Welt**|Historisches Seminar|||2|5|2||||(15-20 Min., 15 %) mit Hausarbeit<br>10 Sit Tt 40 %|1|
+||Propädeutikum|2||||1||||( een ex,  )||
+||Einführung in die<br>Religionen des Orients|||2|||1,5|||||
+|**Sprachen, Kulturen und**<br>**Religionen des Orients**|<br>Religionswissenschaft-<br>liches Seminar|||2|5|||1,5||Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>10 Sit Tt 40 %|1|
+||Semitische Sprachen und<br>Kulturen<br>2|||||||2||( een ex,  )||
+|**Zweite orientalische**<br>**Sprache I**<sup>**2,3**</sup>|Sprachkurs|4|||5||5|||nach Maßgabe  der anbietenden<br>Einrichtung<sup>3</sup>|1|
+|**Zweite orientalische**<br>**Sprache II**<sup>**2,3**</sup>|Sprachkurs|4|||5|||5||nach Maßgabe der anbietenden<br>Einrichtung<sup>3</sup>|1|
+||Klassische Literatur I|||2|||||3,5|Klausur (90 Min., 45 %) und Referat||
+|**Arabische Literatur**|Klassische Literatur II|||2|10||||3,5|<br>(15-20 Min., 15 %) mit Hausarbeit|1|
+||Moderne Literatur|||2|||||3|<br>(10 Seiten Text,40 %)||
+|**Arabische Sprach-**<br>**wissenschaft und**<br>|Einführung<br>Strukturkurs arabischer<br>Dialekt<sup>5</sup>|(2)||2<br>(2)|10||||3,5<br>3,5|Klausur (90 Min., 45 %) und Referat<br>(15-20 Min., 15 %) mit Hausarbeit<br>|1|
+|**Dialektologie**|Vertiefung|||2|||||3|(10 Seiten Text, 40 %)||
+|**Praxismodul**<sup>**2, 4**</sup>|<br>Sprachkurs im Ausland<br>oder zweisemestriges<br>Übersetzungsseminar||||(10)||||10|Schriftlicher Nachweis über den<br>Besuch des Sprachkurses bzw.<br>Übersetzungsarbeit|0|
+|**Bachelorarbeit**<sup>**2**</sup>|||||10||||10|Bachelorarbeit (ca. 40 Seiten)|1|
+|Summe:|2|42-48||18-20|90/70|12<br>13|16,5|18,5|20,5<br>19,5|||
 
 5 
 

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Physik"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T08:01:14+00:00
+scraped_at: 2026-07-01T09:25:39+00:00
 ---
 
 # Physik
@@ -79,11 +79,16 @@ Bitte beachten: Für Studiengänge der Physik gilt \***nicht**\* die Allgemeine 
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [Zugangsverfahren PST 20250731 i.d.F. 20260529.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731_idF_20260529.pdf) | 257 KB |
 | [Zugangsverfahren PST 20250731.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731.pdf) | 195 KB |
 
 | englisch | Dateigröße |
 | --- | --- |
 | [Zugangsverfahren PST 20250731 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/englisch/Zugangsverfahren PST_20250731_en.pdf) | 248 KB |
+
+| Änderungssatzungen | Dateigröße |
+| --- | --- |
+| [Zugangssatzung PST ÄSa 20260529.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/Aenderungssatzungen/Zugangssatzung PST_AeSa_20260529.pdf) | 124 KB |
 
 ## **Weitere Regelungen**
 
@@ -91,7 +96,7 @@ Bitte beachten: Für Studiengänge der Physik gilt \***nicht**\* die Allgemeine 
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (47)
+## Prüfungsordnungen-Dokumente (49)
 
 - [Aufhebungssatzung vom  13. März 2018](aufhebungssatzung-bmpo-materialphysik-wise-2018-19.md) — Quelle: <http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aufhebungssatzung_BMPO_Materialphysik_WiSe_2018_19.pdf>
 - [17. Oktober 2014](3aes-ba-ma-materialphysik.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA-MA Materialphysik.pdf>
@@ -138,5 +143,7 @@ Bitte beachten: Für Studiengänge der Physik gilt \***nicht**\* die Allgemeine 
 - [10. Oktober 1989](2aes-sto-physikdiplom.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AES_StO_Physikdiplom.pdf>
 - [22. Juli 1987](1aes-sto-physikdiplom.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES_StO_Physikdiplom.pdf>
 - [PDF vom 22.03.1983](stuo-physik-1983.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Urfassung/Nat%20Fak/StuO-Physik-1983.pdf>
+- [Zugangsverfahren PST 20250731 i.d.F. 20260529.pdf](zugangsverfahren-pst-20250731-idf-20260529.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731_idF_20260529.pdf>
 - [Zugangsverfahren PST 20250731.pdf](zugangsverfahren-pst-20250731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/konsolidierte_Fassungen/Zugangsverfahren PST_20250731.pdf>
 - [Zugangsverfahren PST 20250731 en.pdf](zugangsverfahren-pst-20250731-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/englisch/Zugangsverfahren PST_20250731_en.pdf>
+- [Zugangssatzung PST ÄSa 20260529.pdf](zugangssatzung-pst-aesa-20260529.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Nat/Photon_Science_and_Technology/Aenderungssatzungen/Zugangssatzung PST_AeSa_20260529.pdf>

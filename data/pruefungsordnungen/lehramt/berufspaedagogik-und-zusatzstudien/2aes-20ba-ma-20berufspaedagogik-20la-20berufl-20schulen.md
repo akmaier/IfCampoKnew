@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.%20Schulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:58:19+00:00
-page_count_chars: 3175
+scraped_at: 2026-07-01T08:33:04+00:00
+page_count_chars: 3162
 ---
 
 # 1. März 2011
@@ -14,11 +14,11 @@ page_count_chars: 3175
 
 **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMPO/BP-T -** 
 
-## Vom 1. März 2011 
+# Vom 1. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der FriedrichAlexander-Universität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, geändert durch Satzung vom 9. September 2010, wird wie folgt geändert: 
 
@@ -38,17 +38,19 @@ b) In Satz 2 werden die Worte „innerhalb der Regelbearbeitungszeit“ durch di
 
    - d) In Zeile 44 Spalte 4 wird die Zahl „30“ durch die Zahl „32,5“ und in Spalte 5 die Zahl „30“ durch die Zahl „27,5“ ersetzt. 
 
-3. Die Anlage 2b wird wie folgt geändert: 
+3. 
 
-   - a) In Zeile 32 (Modul B 20) Spalte 4 (1. Semester) wird die Zahl „7,5“ gestrichen und in Spalte 8 (5. Semester) die Zahl „5,0“ eingefügt. 
+Die Anlage 2b wird wie folgt geändert: 
 
-   - b) In Zeile 34 (Modul B 22) Spalte 5 (2. Semester) wird die Zahl „2,5“ durch die Zahl „5,0“ ersetzt. 
+- a) In Zeile 32 (Modul B 20) Spalte 4 (1. Semester) wird die Zahl „7,5“ gestrichen und in Spalte 8 (5. Semester) die Zahl „5,0“ eingefügt. 
 
-   - c) In Zeile 35 (Modul B 23) Spalte 4 (1. Semester) wird die Zahl „5,0“ eingefügt und in Spalte 8 (5. Semester) die Zahl „5,0“ gestrichen sowie in Spalte 10 (Studienleistung) die Abkürzung „uSL“ durch „bSL“ ersetzt. 
+- b) In Zeile 34 (Modul B 22) Spalte 5 (2. Semester) wird die Zahl „2,5“ durch die Zahl „5,0“ ersetzt. 
 
-   - d) In Zeile 41 Spalte 4 wird die Zahl „30“ durch die Zahl „32,5“ und in Spalte 5 die Zahl „30“ durch die Zahl „27,5“ ersetzt. 
+- c) In Zeile 35 (Modul B 23) Spalte 4 (1. Semester) wird die Zahl „5,0“ eingefügt und in Spalte 8 (5. Semester) die Zahl „5,0“ gestrichen sowie in Spalte 10 (Studienleistung) die Abkürzung „uSL“ durch „bSL“ ersetzt. 
 
-## **§ 2** 
+- d) In Zeile 41 Spalte 4 wird die Zahl „30“ durch die Zahl „32,5“ und in Spalte 5 die Zahl „30“ durch die Zahl „27,5“ ersetzt. 
+
+# **§ 2** 
 
 1Die Satzung tritt am 1. April 2011 in Kraft. 2Sie gilt für alle Studierende, die Ihr Studium ab dem Sommersemester 2011 aufnehmen. 
 

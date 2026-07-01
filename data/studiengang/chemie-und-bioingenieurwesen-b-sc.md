@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:43:21+00:00
+scraped_at: 2026-07-01T08:19:34+00:00
 ---
 
 # Chemie- und Bioingenieurwesen (B.Sc.)
@@ -40,7 +40,7 @@ Im Studium lernt man z.B.:
 * die Verbesserung industrieller Prozesse z.B. Wasserstoffspeicherung
 * thermochemische Energiespeicher wie die Adsorption an Zeolithen zur effektiveren Wärmenutzung kennen. Zeolithe sind kristalline Alumosilikate, die man von zu Hause kennt, denn sie werden zur Wasserenthärtung in Waschmitteln eingesetzt.
 
-### Bachelor of Science Chemie- und Bioingenieurwesen
+### Fachanteile des Studiengangs Chemie- und Bioingenieurwesen (B.Sc.)
 
 * Verfahrenstechnik und Anlagenbau (40%)
 * Mathematik (15%)

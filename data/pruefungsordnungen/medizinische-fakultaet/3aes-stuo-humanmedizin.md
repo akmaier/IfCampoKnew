@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Mai 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_StuO_Humanmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:23:59+00:00
-page_count_chars: 3618
+scraped_at: 2026-07-01T08:48:18+00:00
+page_count_chars: 3608
 ---
 
 # 24. Mai 2013
@@ -12,13 +12,11 @@ page_count_chars: 3618
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/3AES_StuO_Humanmedizin.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Dritte Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
 
-## Vom 24. Mai 2013 
+# Vom 24. Mai 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [20 x 12] intentionally omitted <==**
 
 Die Studienordnung für das Studium der Medizin an der Universität Erlangen vom 30. September 2003, zuletzt geändert durch Satzung vom 9. Oktober 2012, wird wie folgt geändert: 
 
@@ -40,17 +38,17 @@ Die Studienordnung für das Studium der Medizin an der Universität Erlangen vom
 
    - c) In Absatz 6 Satz 1 Nr. 1 wird nach dem Wort Pharmakologie ein Semikolon eingefügt und in Satz 3 nach dem Wort „wenn“ das Wort „für“ gestrichen. 
 
-## 5. § 14 erhält folgende neue Fassung: 
+# 5. § 14 erhält folgende neue Fassung: 
 
-„[1] Der Erste Abschnitt der Ärztlichen Prüfung soll nach dem vierten Semester abgelegt werden, der schriftliche Teil des Zweiten Abschnitts der Ärztlichen Prüfung nach einem weiteren Studium von sechs Semestern nach Bestehen des Ersten Abschnitts der Ärztlichen Prüfung.[2] Der mündliche Teil des Zweiten Abschnitts der Ärztlichen Prüfung findet nach dem Praktischen Jahr statt.“. 
+„<sup>1</sup> Der Erste Abschnitt der Ärztlichen Prüfung soll nach dem vierten Semester abgelegt werden, der schriftliche Teil des Zweiten Abschnitts der Ärztlichen Prüfung nach einem weiteren Studium von sechs Semestern nach Bestehen des Ersten Abschnitts der Ärztlichen Prüfung.<sup>2</sup> Der mündliche Teil des Zweiten Abschnitts der Ärztlichen Prüfung findet nach dem Praktischen Jahr statt.“. 
 
 6. Die Tabelle in Anlage 1 wird wie folgt geändert: 
 
-   - a) In Zeile 7 (V-PS5A) Spalte 6 wird die hochgestellte Zahl „[1] “ gestrichen. 
+   - a) In Zeile 7 (V-PS5A) Spalte 6 wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
    - b) In Zeile 8 (V-PS5A) Spalte 6 wird das Wort „PÜhysiologie“ durch das Wort „Physiologie“ ersetzt. 
 
-   - c) In Zeile 10 (V-PS7) Spalte 6 wird die hochgestellte Zahl „[1] “ gestrichen. 
+   - c) In Zeile 10 (V-PS7) Spalte 6 wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
    - d) In Zeile 15 (V-PS13) Spalte 2 werden die Worte „Kurs Medizinische Psychologie / Soziologie“ durch die Worte „Kursus der Medizinischen Psychologie und Medizinischen Soziologie“ ersetzt. 
 
@@ -60,9 +58,9 @@ Die Studienordnung für das Studium der Medizin an der Universität Erlangen vom
 
 9. In der Tabelle in Anlage 5 werden in Zeile 25 (K-V23) die Worte „Schwerpunkt Schmerztherapie“ durch die Worte „Physikalische Medizin / Naturheilverfahren“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt ab Bekanntmachung in Kraft. 2Abweichend von Satz 1 gilt die Änderung in der lfd. Nr. 4 a) ab dem Wintersemester 2013/14.[3] Abweichend von Satz 1 gilt  § 14 in der alten Fassung letztmalig für Studierende, die die Ausbildung nach § 3 Abs. 1 ÄAppO spätestens in der zweiten Hälfte des Monats August aufgenommen haben. 
+1Diese Änderungssatzung tritt ab Bekanntmachung in Kraft. 2Abweichend von Satz 1 gilt die Änderung in der lfd. Nr. 4 a) ab dem Wintersemester 2013/14.<sup>3</sup> Abweichend von Satz 1 gilt  § 14 in der alten Fassung letztmalig für Studierende, die die Ausbildung nach § 3 Abs. 1 ÄAppO spätestens in der zweiten Hälfte des Monats August aufgenommen haben. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 15. Mai 2013. 
 

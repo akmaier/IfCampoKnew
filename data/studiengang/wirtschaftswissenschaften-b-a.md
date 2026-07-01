@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "Studiengang mit Doppelabschluss, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:51:34+00:00
+scraped_at: 2026-07-01T08:28:51+00:00
 ---
 
 # Wirtschaftswissenschaften (B.A.)
@@ -35,7 +35,7 @@ Der Bachelorstudiengang Wirtschaftswissenschaften bereitet auf eine Karriere in 
 
 Das Bachelorstudium an der WiSo in Nürnberg zeichnet sich durch seine internationale Ausrichtung und eines der vielfältigsten Fächerangebote im deutschsprachigen Raum aus.
 
-### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften (N)
+### Fachanteile des Studiengangs Wirtschaftswissenschaften (B.A.)
 
 * Schwerpunkt (BWL, VWL, Winf oder WiPäd) (33%)
 * Studienrichtung (FACT-S, Nachhaltigkeit, Marketing und Customer Insights,…) (18%)

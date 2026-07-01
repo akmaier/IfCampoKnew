@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Computational Engineering 20180116 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Computational_Engineering/Aenderungssatzungen/BSc-MSc_Computational_Engineering_20180116_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:32+00:00
-page_count_chars: 31744
+scraped_at: 2026-07-01T11:35:12+00:00
+page_count_chars: 30465
 ---
 
 # BSc-MSc Computational Engineering 20180116 ÄS.pdf
@@ -48,7 +48,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 c) Es werden folgende neue Abs. 2 und 3 angefügt: 
 
-„(2)[1] Das Qualifikationsziel des Technischen Anwendungsfachs liegt darin, den Studierenden zu ermöglichen, sich in einem Schwerpunkt gemäß § 41a bzw. § 47a erstens zu vertiefen.[2] Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 4Dabei werden im Bachelorstudium grundlegende Kompetenzen in dem jeweiligen Technischen Anwendungsfach erworben, während im Masterstudium vertiefte und stärker forschungsorientierte Kompetenzen erworben werden. 
+„(2)<sup>1</sup> Das Qualifikationsziel des Technischen Anwendungsfachs liegt darin, den Studierenden zu ermöglichen, sich in einem Schwerpunkt gemäß § 41a bzw. § 47a erstens zu vertiefen.<sup>2</sup> Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 4Dabei werden im Bachelorstudium grundlegende Kompetenzen in dem jeweiligen Technischen Anwendungsfach erworben, während im Masterstudium vertiefte und stärker forschungsorientierte Kompetenzen erworben werden. 
 
 (3) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des jeweiligen Studiengangs ergibt, können Module weder innerhalb des Bachelorbzw. Masterstudiums, noch im konsekutiven Bachelor- und Masterstudium mehrfach belegt werden.“ 
 
@@ -58,7 +58,7 @@ c) Es werden folgende neue Abs. 2 und 3 angefügt:
 
 ## „ **§ 40a Wahlmodulkataloge** 
 
-(1) 1Die Wahlmodulkataloge für den Bachelor- und den Masterstudiengang Computational Engineering werden von der Studienkommission anhand der Qualifikationsziele der jeweiligen Wahlpflichtbereiche festgelegt.[2] Die Wahlmodulkataloge werden spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 3Eine Anpassung kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission vorgenommen werden. 
+(1) 1Die Wahlmodulkataloge für den Bachelor- und den Masterstudiengang Computational Engineering werden von der Studienkommission anhand der Qualifikationsziele der jeweiligen Wahlpflichtbereiche festgelegt.<sup>2</sup> Die Wahlmodulkataloge werden spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 3Eine Anpassung kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission vorgenommen werden. 
 
 (2) Die Studienkommission kann für die Wahlmodulkataloge der Technischen Wahlmodule im Bachelorstudium auf folgende Module zurückgreifen: 
 
@@ -82,7 +82,7 @@ c) Es werden folgende neue Abs. 2 und 3 angefügt:
 
 ## „ **§ 41 Wahl des Technischen Anwendungsfaches, der Technischen Wahlmodule und der Schlüsselqualifikationen** 
 
-(1)[1] Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches. 2Die Pflichtmodule des Technischen Anwendungs-faches ergeben sich aus **Anlage 2** .[3] Der Modulkatalog der gemäß § 43 Abs. 4 zu wählenden Wahlmodulen des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
+(1)<sup>1</sup> Die Wahl des Technischen Anwendungsfaches erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Pflichtmodule des zu wählenden Technischen Anwendungsfaches. 2Die Pflichtmodule des Technischen Anwendungs-faches ergeben sich aus **Anlage 2** .<sup>3</sup> Der Modulkatalog der gemäß § 43 Abs. 4 zu wählenden Wahlmodulen des Technischen Anwendungsfaches kann, mit Wirkung zum jeweils nächsten Semester, durch die Studienkommission angepasst werden; er wird spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht. 
 
 (2) Durch Wahl des Technischen Anwendungsfaches sind alle Pflichtmodule in den Bereichen Informatik, Mathematik und dem Technischen Anwendungsfach festgelegt. 
 
@@ -120,21 +120,21 @@ c) Es werden folgende neue Abs. 2 und 3 angefügt:
 
 6. Im Technischen Anwendungsfach Optik werden Kompetenzen in den Anwendungsbereichen Optik und Quantenphänomene erworben. 
 
-(3)[1] Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet). 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet). 
 
 ## **§ 41b Technische Wahlmodule** 
 
-(1)[1] Im Rahmen der Technischen Wahlmodule wählen die Studierenden Module aus den Wahlmodulkatalogen der Informatik (§ 40a Abs. 2 Nr. 1) und des nach § 41 gewählten Technischen Anwendungsfachs (§ 40a Abs. 2 Nr. 2).[2] Dabei ist aus jedem der beiden Wahlmodulkataloge mindestens ein Modul zu wählen. 
+(1)<sup>1</sup> Im Rahmen der Technischen Wahlmodule wählen die Studierenden Module aus den Wahlmodulkatalogen der Informatik (§ 40a Abs. 2 Nr. 1) und des nach § 41 gewählten Technischen Anwendungsfachs (§ 40a Abs. 2 Nr. 2).<sup>2</sup> Dabei ist aus jedem der beiden Wahlmodulkataloge mindestens ein Modul zu wählen. 
 
-(2)[1] Qualifikationsziel der Technischen Wahlmodule ist erstens den im Rahmen des Technischen Anwendungsfachs gewählten Schwerpunkt weiter zu vertiefen. 2Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(2)<sup>1</sup> Qualifikationsziel der Technischen Wahlmodule ist erstens den im Rahmen des Technischen Anwendungsfachs gewählten Schwerpunkt weiter zu vertiefen. 2Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(3)[1] Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
 
 7. § 42 wird wie folgt geändert: 
 
 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Wählbare Module sind die in **Anlage 1** mit dem Klammerzusatz „GOP“ gekennzeichneten Module.“ 
+„<sup>2</sup> Wählbare Module sind die in **Anlage 1** mit dem Klammerzusatz „GOP“ gekennzeichneten Module.“ 
 
 4 
 
@@ -142,7 +142,7 @@ Satz 2 erhält folgende neue Fassung:
 
    - a) Abs. 1 erhält folgende neue Fassung: 
 
-      - „(1)[1] Das Bachelorstudium besteht aus 
+      - „(1)<sup>1</sup> Das Bachelorstudium besteht aus 
 
          1. den Pflichtmodulen der Informatik, 
 
@@ -170,11 +170,11 @@ c) Abs. 5 wird zu Abs. 2 (neu).
 
    - b) Abs. 3 wird zu Abs. 2 und erhält folgende neue Fassung: 
 
-„(2) 1Art und Dauer der Prüfungen der Pflichtmodule im Technischen Anwendungsfach ergeben sich aus der **Anlage 2** .[2] Art und Dauer der Prüfungen der Wahlmodule im Technischen Anwendungsfach ergeben sich aus § 41a Abs. 3 Satz 2.[3] Art und Dauer der Prüfungen der Technischen Wahlmodule ergeben sich aus § 41b Abs. 3 Satz 2.“ 
+„(2) 1Art und Dauer der Prüfungen der Pflichtmodule im Technischen Anwendungsfach ergeben sich aus der **Anlage 2** .<sup>2</sup> Art und Dauer der Prüfungen der Wahlmodule im Technischen Anwendungsfach ergeben sich aus § 41a Abs. 3 Satz 2.<sup>3</sup> Art und Dauer der Prüfungen der Technischen Wahlmodule ergeben sich aus § 41b Abs. 3 Satz 2.“ 
 
-   - c) Abs. 4 wird zu Abs. 3. 
+- c) Abs. 4 wird zu Abs. 3. 
 
-10. § 45 wird wie folgt geändert: 
+## 10. § 45 wird wie folgt geändert: 
 
 Abs. 1 wird wie folgt geändert: 
 
@@ -182,7 +182,7 @@ Abs. 1 wird wie folgt geändert:
 
 - b) Es wird folgender neuer Satz 6 angefügt: 
 
-   - „[6] Die Zusammensetzung der Note der Bachelorarbeit ergibt sich aus **Anlage 1** .“ 
+   - „<sup>6</sup> Die Zusammensetzung der Note der Bachelorarbeit ergibt sich aus **Anlage 1** .“ 
 
 5 
 
@@ -214,7 +214,7 @@ Abs. 1 wird wie folgt geändert:
 
    - e) Satz 4 wird zu Satz 3 (neu) und erhält folgende neue Fassung: 
 
-„[3] § 41 Abs. 3 gilt entsprechend.“ 
+„<sup>3</sup> § 41 Abs. 3 gilt entsprechend.“ 
 
 ## 13. Nach § 47 wird folgender neuer § 47a eingefügt: 
 
@@ -258,13 +258,13 @@ Abs. 1 wird wie folgt geändert:
 
 8. Im Technischen Anwendungsfach Computational Materials Science werden Kompetenzen für das Simulieren von mechanischen Eigenschaften – einschließlich atomistischer Methoden, Kontinuumstheorien und FEM-Techniken – erworben. 
 
-(3)[1] Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.[2] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
+(3)<sup>1</sup> Mögliche Veranstaltungsformen der einzelnen Technischen Anwendungsfächer sind Vorlesung, Übung und Praktikum.<sup>2</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
 
 14. § 48 wird wie folgt geändert: 
 
 Abs. 2 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Nachweis über Englischkenntnisse mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) oder vergleichbare Nachweise (insbesondere Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 gemäß Gemeinsamem Europäischen Referenzrahmen für Sprachen (GER) mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des Zertifikats UNIcert II); für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Abschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich.“ 
+„<sup>2</sup> Nachweis über Englischkenntnisse mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) oder vergleichbare Nachweise (insbesondere Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 gemäß Gemeinsamem Europäischen Referenzrahmen für Sprachen (GER) mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des Zertifikats UNIcert II); für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Abschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich.“ 
 
 7 
 
@@ -272,7 +272,7 @@ Abs. 2 Satz 2 erhält folgende neue Fassung:
 
 - a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Nr. 1 lit. a) wird das Wort „Wahlpflichtbereich“ gestrichen. 
+aa) In Nr. 1 lit. a) wird das Wort „Wahlpflichtbereich“ gestrichen. 
 
    - bb) In Nr. 1 lit. b) wird das Wort „Wahlpflichtbereich“ gestrichen. 
 
@@ -280,13 +280,13 @@ Abs. 2 Satz 2 erhält folgende neue Fassung:
 
    - dd) Die Worte „gemäß **Anlage 3** “ werden angefügt. 
 
-## b) Abs. 2 erhält folgende neue Fassung: 
+- b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2) 1In dem Wahlpflichtbereich Informatik erwerben die Studierenden Kompetenzen in den Disziplinen Mustererkennung, Visual-Computing, Systemsimulation, Hochleistungsrechnen und Rechnerarchitektur.[2] Aus dem Modulkatalog nach § 40a Abs. 3 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.[3] Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.[4] Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
+„(2) 1In dem Wahlpflichtbereich Informatik erwerben die Studierenden Kompetenzen in den Disziplinen Mustererkennung, Visual-Computing, Systemsimulation, Hochleistungsrechnen und Rechnerarchitektur.<sup>2</sup> Aus dem Modulkatalog nach § 40a Abs. 3 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.<sup>3</sup> Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum.<sup>4</sup> Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
 
 - c) Abs. 3 erhält folgende neue Fassung: 
 
-„(3)[1] In dem Wahlpflichtbereich Mathematik werden insbesondere Kompetenzen in den Gebieten der Mathematischen Modellierung, Lösungsmethoden für Partielle Differentialgleichungen und Nichtlineare Optimierung vermittelt.[2] Aus dem Modulkatalog nach § 40a Abs. 4 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.[ 3] Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum. 4Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
+„(3)<sup>1</sup> In dem Wahlpflichtbereich Mathematik werden insbesondere Kompetenzen in den Gebieten der Mathematischen Modellierung, Lösungsmethoden für Partielle Differentialgleichungen und Nichtlineare Optimierung vermittelt.<sup>2</sup> Aus dem Modulkatalog nach § 40a Abs. 4 wählen die Studierenden Module in einem Umfang, wie er sich aus Abs. 1 und der **Anlage 3** ergibt, aus.<sup>3</sup> Mögliche Veranstaltungsformen sind Vorlesung, Übung und Praktikum. 4Mögliche Prüfungsformen sind Klausur (60 bis 180 Minuten), E-Prüfung (60 bis 180 Minuten), mündliche Prüfung (30 Minuten), Übungsleistung und Studienleistung (unbenotet).“ 
 
 ## d) Abs. 4 wird gestrichen. 
 
@@ -326,7 +326,7 @@ Abs. 2 Satz 2 erhält folgende neue Fassung:
 
 Es wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die achte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden.“ 
+„(4)<sup>1</sup> Die achte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden.“ 
 
 ## 20. Anlage 1 wird wie folgt geändert: 
 
@@ -358,9 +358,7 @@ Es wird folgender neuer Abs. 4 angefügt:
 
 - g) In Zeile 13 Spalte 5 werden das Wort und das Zeichen „PfP:“ gestrichen. 
 
-- h) In Zeile 14 Spalte 2 Unterspalte V wird die Zahl „4“ durch die Zahl „2“ ersetzt 
-
-- i) In Zeile 16 Spalte 1 werden nach dem Wort „Anwendungsfach“ die Zeichen, die Zahlen und die Worte „(TAF), mind. 35 ECTS-Punkte[2)] “ angefügt. 
+- h) In Zeile 14 Spalte 2 Unterspalte V wird die Zahl „4“ durch die Zahl „2“ ersetzt i) In Zeile 16 Spalte 1 werden nach dem Wort „Anwendungsfach“ die Zeichen, die Zahlen und die Worte „(TAF), mind. 35 ECTS-Punkte<sup>2)</sup> “ angefügt. 
 
 - j) Zeile 18 wird wie folgt geändert: 
 
@@ -370,11 +368,11 @@ Es wird folgender neuer Abs. 4 angefügt:
 
 - k) In Zeile 19 Spalte 5 wird das Wort und das Zeichen „PfP:“ gestrichen. 
 
-- l) In Zeile 21 Spalte 1 wird nach dem Wort „Module“ die hochgestellte Zahl und das Zeichen „[3)] “ angefügt. 
+- l) In Zeile 21 Spalte 1 wird nach dem Wort „Module“ die hochgestellte Zahl und das Zeichen „<sup>3)</sup> “ angefügt. 
 
-- m) In Zeile 22 Spalte 1 werden nach dem Wort „Wahlmodule“ die Zeichen, die Zahlen und die Worte „, max. 25 ECTS-Punkte[4)] “ angefügt. 
+- m) In Zeile 22 Spalte 1 werden nach dem Wort „Wahlmodule“ die Zeichen, die Zahlen und die Worte „, max. 25 ECTS-Punkte<sup>4)</sup> “ angefügt. 
 
-- n) In Zeile 24 Spalte 1 wird nach dem Wort „Schlüsselqualifikation“ die hochgestellte Zahl und das Zeichen „[5)] “ angefügt. 
+- n) In Zeile 24 Spalte 1 wird nach dem Wort „Schlüsselqualifikation“ die hochgestellte Zahl und das Zeichen „<sup>5)</sup> “ angefügt. 
 
 - o) In Zeile 27 Spalte 4 Unterspalte 6 wird die Zahl „15“ eingefügt. 
 
@@ -396,7 +394,7 @@ bb) In Spalte 2 Unterspalte P wird die Zahl „14“ durch die Zahl „16“ ers
 
 ## u) Nach Fußnote 1 werden folgende neue Fußnoten angefügt: 
 
-„[2) ] Differenzen in den ECTS-Punkte-Umfängen des Technischen Anwendungsfachs nach § 43 Abs. 1 Nr. 3, welche sich durch den unterschiedlich großen Umfang der Pflichtmodule des jeweiligen Technischen Anwendungsfachs ergeben, sind durch eine größere bzw. geringe Wahl an Technischen Wahlmodulen i. S. d. § 43 Abs. 1 Nr. 4 auszugleichen. 
+„<sup>2)</sup> Differenzen in den ECTS-Punkte-Umfängen des Technischen Anwendungsfachs nach § 43 Abs. 1 Nr. 3, welche sich durch den unterschiedlich großen Umfang der Pflichtmodule des jeweiligen Technischen Anwendungsfachs ergeben, sind durch eine größere bzw. geringe Wahl an Technischen Wahlmodulen i. S. d. § 43 Abs. 1 Nr. 4 auszugleichen. 
 
 > 3) Pflichtmodule gemäß **Anlage 2** . 
 
@@ -410,100 +408,90 @@ bb) In Spalte 2 Unterspalte P wird die Zahl „14“ durch die Zahl „16“ ers
 
 ## **„Anlage 2: Pflichtmodule der Technischen Anwendungsfächer** 
 
-## **TAF Regelungstechnik/Automatic Control – Pflichtmodule** 
+## **TAF Regelungstechnik/Automatic** **<u>Control – Pflichtmodule</u>** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||in ECTS-Punkten||||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Einführung in die Regelungstechnik|3|1|||5|||5||||PL (vgl. FPOET)|
-|Regelungstechnik B (Zustandsraummethoden)|2|2|||5|||5||||PL (vgl. FPOEEI)|
-|Regelungstechnisches Praktikum für MB u. CE|||3||5||||5|||PL Praktikumsleistung|
-|Modellbildung in der Regelungstechnik|2|2|||5|||||5||PL (vgl. FPOEEI)|
-|Summe SWS|7|5|3||||||||||
-|Summe ECTS|||||20|||10|5|5|||
+|Modulbezeichnung||SWS<br>Gesamt<br>ECTS<br> <br> <br>|Workload<br>in<br> <br>|-Vertei<br>ECT<br>|lung<br>S-Pu<br>|pro Se<br>nkten<br>|mester<br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|
+||V|Ü<br>P<br>S|1.<br>2.|3.|4.|5.|6.||
+|**Technisches Anwendungsfach**|||||||||
+|Einführung in die Regelungstechnik|3|1<br>5||5||||PL (vgl. FPOET)|
+|Regelungstechnik B (Zustandsraummethoden)|2|2<br>5||5||||PL (vgl. FPOEEI)|
+|Regelungstechnisches Praktikum für MB u. CE||3<br>5|||5|||PL Praktikumsleistung|
+|Modellbildung in der Regelungstechnik|2|2<br>5||||5||PL (vgl. FPOEEI)|
+|Summe SWS|7|5<br>3|||||||
+|Summe ECTS||20||10|5|5|||
 
 ## **TAF Informationstechnologie / Information Technology – Pflichtmodule** 
 
-|Modulbezeichnung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||SWS|||||||||||
-||||||||in ECTS-Punkten||||||
-||||||||||||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Einführung in die Grundlagen der Elektrotechnik<br>für CE-Studierende|2||||2,5|||2,5||||SL, unbenotet|
-|Signale und Systeme I|2,5|1,5|1||5|||5||||PL (vgl. FPOEEI)|
-|Signale und Systeme II|2,5|1,5|1||5||||5|||PL (vgl. FPOEEI)|
-|Information Theory and Coding/Informations-<br>theorie und Codierung|3|1|||5|||||5||PL (vgl. FPOEEI)|
-|Digitale Signalverarbeitung|3|1|1||5|||||5||PL (vgl. FPOEEI)|
-|Summe SWS|13|5|3||||||||||
-|Summe ECTS|||||22,5|||7,5|5|10|||
+|Modulbezeichnung||SW<br>|S<br>||Gesamt<br>ECTS|Workload-<br>in<br> <br>|Verteil<br>ECTS<br>|ung pro Sem<br>-Punkten<br> <br>|ester<br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|---|---|
+||V|Ü|P|S||1.<br>2.|3.|4.<br>5.|6.||
+|**Technisches Anwendungsfach**|||||||||||
+|Einführung in die Grundlagen der Elektrotechnik<br>für CE-Studierende|2||||2,5||2,5|||SL, unbenotet|
+|Signale und Systeme I|2,5|1,5|1||5||5|||PL (vgl. FPOEEI)|
+|Signale und Systeme II|2,5|1,5|1||5|||5||PL (vgl. FPOEEI)|
+|Information Theory and Coding/Informations-<br>theorie und Codierung|3|1|||5|||5||PL (vgl. FPOEEI)|
+|Digitale Signalverarbeitung|3|1|1||5|||5||PL (vgl. FPOEEI)|
+|Summe SWS|13|5|3||||||||
+|Summe ECTS|||||22,5||7,5|5<br>10|||
 
 12 
 
 ## **TAF Mechatronik/Mechatronics – Pflichtmodule** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||in ECTS-Punkten||||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Grundlagen der Elektrotechnik I|4|2|||7,5|||7,5||||PL (vgl. FPOEEI)|
-|Grundlagen der Elektrotechnik III|2|2|||5|||||5||PL (vgl. FPOEEI)|
-|Elektromagnetische Felder I|1|1|||2,5||||2,5|||PL (vgl. FPOEEI)|
-|Sensorik|2|2|||5|||||5||PL (vgl. FPOEEI)|
-|Summe SWS|9|7|||||||||||
-|Summe ECTS|||||20|||7,5|2,5|10|||
+|Modulbezeichnung||SWS<br> <br> <br>|Gesamt<br>ECTS|W<br>|orkload-Verteil<br>in ECTS<br> <br> <br>|ung pr<br>-Punkt<br>|o Sem<br>en<br>|ester<br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|---|
+||V|Ü<br>P<br>S||1.|<br>2.<br>3.|4.|5.|6.||
+|**Technisches Anwendungsfach**||||||||||
+|Grundlagen der Elektrotechnik I|4|2|7,5||7,5||||PL (vgl. FPOEEI)|
+|Grundlagen der Elektrotechnik III|2|2|5||||5||PL (vgl. FPOEEI)|
+|Elektromagnetische Felder I|1|1|2,5|||2,5|||PL (vgl. FPOEEI)|
+|Sensorik|2|2|5||||5||PL (vgl. FPOEEI)|
+|Summe SWS|9|7||||||||
+|Summe ECTS|||20||7,5|2,5|10|||
 
 ## **TAF Optik/Computational Optics – Pflichtmodule** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||ECTS-Punkten|||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Experimentalphysik 3: Optik und Quanteneffekte|4|2|||7,5|||7,5||||PL (vgl. BMPO/Physik)|
-|Moderne Optik I: Fortgeschrittene Optik|2|2|||5|||||5||PL (K120)|
-|Photonik 1|2|2|||5|||5||||PL (vgl. FPOEEI)|
-|Photonik 2|2|2|||5||||5|||PL: schriftliche oder<br>mündliche Prüfung, MHB|
-|Summe SWS|10|8|||||||||||
-|Summe ECTS|||||22,5|||12,5|5|5|||
+|Modulbezeichnung||SW<br>|S<br> <br>|Gesamt<br>ECTS<br>W<br>|orkload-Verteilun<br>ECTS-P<br> <br> <br>|g pro<br>unkte<br>|Semest<br>n<br>|er in<br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|---|
+||V|Ü|P<br>S|1.|<br>2.<br>3.|4.|5.|6.||
+|**Technisches Anwendungsfach**||||||||||
+|Experimentalphysik 3: Optik und Quanteneffekte|4|2||7,5|7,5||||PL (vgl. BMPO/Physik)|
+|Moderne Optik I: Fortgeschrittene Optik|2|2||5|||5||PL (K120)|
+|Photonik 1|2|2||5|5||||PL (vgl. FPOEEI)|
+|Photonik 2|2|2||5||5|||PL: schriftliche oder<br>mündliche Prüfung, MHB|
+|Summe SWS|10|8||||||||
+|Summe ECTS||||22,5|12,5|5|5|||
 
 13 
 
-## **TAF Festkörpermechanik und Dynamik/Solid Mechanics and Dynamics – Pflichtmodule** 
+## **TAF Festkörpermechanik und Dynamik/Solid Mechanics** **<u>and Dynamics – Pflichtmodule</u>** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||in ECTS-Punkten||||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Statik, Elastostatik und Festigkeitslehre|5|4|4||12,5|||5|7,5|||PL (vgl. FPOMB)|
-|Dynamik starrer Körper|3|2|2||7,5|||||7,5||PL (vgl. FPOMB)|
-|Summe SWS|8|6|6||||||||||
-|Summe ECTS|||||20|||5|7,5|7,5|||
+|Modulbezeichnung||S<br>|WS<br>Gesamt<br>ECTS<br>W<br> <br> <br>|orkload-Vertei<br>in ECT<br> <br> <br>|lung pr<br>S-Punkt<br>|o Sem<br>en<br>|ester<br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|
+||V|Ü|P<br>S<br>1.|<br>2.<br>3.|4.|5.|6.||
+|**Technisches Anwendungsfach**|||||||||
+|Statik, Elastostatik und Festigkeitslehre|5|4|4<br>12,5|5|7,5|||PL (vgl. FPOMB)|
+|Dynamik starrer Körper|3|2|2<br>7,5|||7,5||PL (vgl. FPOMB)|
+|Summe SWS|8|6|6||||||
+|Summe ECTS|||20|5|7,5|7,5|||
 
-## **TAF Thermo- und Fluiddynamik / Thermo and Fluid Dynamics – Pflichtmodule** 
+## **TAF Thermo- und Fluiddynamik / Thermo** **<u>and Fluid Dynamics – Pflichtmodule</u>** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||in ECTS-Punkten||||||
-||V|Ü|P|S||1.|2.|3.|4.|5.|6.||
-|**Technisches Anwendungsfach**|||||||||||||
-|Technische Thermodynamik I|3|2|||7,5|||7,5||||PL (vgl. FPOET Anlage 1)|
-|Technische Thermodynamik II|3|1|||5||||5|||PL (vgl. FPOET Anlage<br>Wahlpflichtfächer)|
-|Strömungsmechanik I|2|2|||5||||5|||PL (vgl. FPOCBI)|
-|Wärme- und Stoffübertragung|3|1|||5||||||5|PL (vgl. FPOET)|
-|Summe SWS|11|6|||||||||||
-|Summe ECTS|||||22,5|||7,5|10||5||
+|Modulbezeichnung||SW<br>|S<br> <br>|Gesamt<br>ECTS<br>W<br>|orkload-Verteilu<br>in ECTS<br> <br> <br>|ng pro Semester<br>-Punkten<br> <br> <br>|Art und Umfang der Prüfung/<br>Studienleistung|
+|---|---|---|---|---|---|---|---|
+||V|Ü|P<br>S|1.|<br>2.<br>3.|4.<br>5.<br>6.||
+|**Technisches Anwendungsfach**||||||||
+|Technische Thermodynamik I|3|2||7,5|7,5||PL (vgl. FPOET Anlage 1)|
+|Technische Thermodynamik II|3|1||5||5|PL (vgl. FPOET Anlage<br>Wahlpflichtfächer)|
+|Strömungsmechanik I|2|2||5||5|PL (vgl. FPOCBI)|
+|Wärme- und Stoffübertragung|3|1||5||5|PL (vgl. FPOET)|
+|Summe SWS|11|6||||||
+|Summe ECTS||||22,5|7,5|10<br>5||
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
-PL: Prüfungsleistung (benotet). SL: Studienleistung (unbenotet). 
-
-K60/K90/K120/K180: Klausur mit 60, 90, 120 bzw. 180 Min. Dauer. 
+PL: Prüfungsleistung (benotet). SL: Studienleistung (unbenotet). K60/K90/K120/K180: Klausur mit 60, 90, 120 bzw. 180 Min. Dauer. 
 
 MHB: Art und Umfang der Studien- und Prüfungsleistungen sind abhängig vom konkreten didaktischen Charakter vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen.“ 
 
@@ -519,11 +507,11 @@ MHB: Art und Umfang der Studien- und Prüfungsleistungen sind abhängig vom konk
 
 - c) Zeile 5 Spalte 1 erhält folgende neue Fassung: 
 
-„Wahlpflichtbereich Mathematik: Module aus dem Modulkatalog nach § 40a Abs. 4 (Umfang mind. 7,5 ECTS)[ 1)] “. 
+„Wahlpflichtbereich Mathematik: Module aus dem Modulkatalog nach § 40a Abs. 4 (Umfang mind. 7,5 ECTS)<sup>1)</sup> “. 
 
 - d) Zeile 7 Spalte 1 erhält folgende neue Fassung: 
 
-„Wahlpflichtbereich Informatik: Module aus dem Modulkatalog nach § 40a Abs. 3 (Umfang mind. 20 ECTS)[1)] “. 
+„Wahlpflichtbereich Informatik: Module aus dem Modulkatalog nach § 40a Abs. 3 (Umfang mind. 20 ECTS)<sup>1)</sup> “. 
 
 - e) In Zeile 8 Spalte 1 wird nach dem Wort „Anwendungsfach“ der Klammerzusatz „TAF“ angefügt. 
 
@@ -531,17 +519,17 @@ MHB: Art und Umfang der Studien- und Prüfungsleistungen sind abhängig vom konk
 
 „Wahlpflichtbereich Technisches Anwendungsfach: Module aus dem Modulkatalog des gewählten TAF nach § 40a Abs. 5 (Umfang mind. 20 ECTS) 1)“. 
 
-   - g) In Zeile 11 Spalte 5 werden das Zeichen, das Wort und die Zahlen „§ 50 Abs. 3“ eingefügt. 
+- g) In Zeile 11 Spalte 5 werden das Zeichen, das Wort und die Zahlen „§ 50 Abs. 3“ eingefügt. 
 
-   - h) In Zeile 12 Spalte 5 werden die Zeichen, die Zahlen und die Worte „PL: Schriftliche Ausarbeitung (90%) und Vortrag mit Diskussion (ca. 30+15 Min.; 10 %)“ eingefügt. 
+- h) In Zeile 12 Spalte 5 werden die Zeichen, die Zahlen und die Worte „PL: Schriftliche Ausarbeitung (90%) und Vortrag mit Diskussion (ca. 30+15 Min.; 10 %)“ eingefügt. 
 
-   - i) In den Erläuterungen werden das Zeichen und die Worte „PfP: Portfolioprüfung“ gestrichen und nach dem Wort „abhängig“ werden die Worte „vom konkreten didaktischen Charakter“ eingefügt. 
+- i) In den Erläuterungen werden das Zeichen und die Worte „PfP: Portfolioprüfung“ gestrichen und nach dem Wort „abhängig“ werden die Worte „vom konkreten didaktischen Charakter“ eingefügt. 
 
-   - j) Die Fußnote 2 wird gestrichen. 
+- j) Die Fußnote 2 wird gestrichen. 
 
 24. Es wird ein Inhaltsverzeichnis mit allen Anlagen eingefügt. 
 
-## **§ 2** 
+**§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden. 
 

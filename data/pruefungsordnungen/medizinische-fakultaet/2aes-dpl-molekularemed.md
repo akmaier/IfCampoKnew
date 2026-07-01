@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. November 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/2AES-DPL_MolekulareMed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:27:43+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T08:51:50+00:00
+page_count_chars: 21103
 ---
 
 # 5. November 2008
@@ -12,387 +12,301 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/2AES-DPL_MolekulareMed.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+# Zweite Satzung zur Anderung der Diplompriifungsordnung fiir Studenten der Molekularen Medizin an der Friedrich-Alexander-Universitat Erlangen-Nuirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Vom 5. November 2003 
 
-### OCR Seite 1
+Auf Grund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Friedrich-Alexander-Universitat ErlangenNurnberg folgende Anderungssatzung: 
 
-```
-dert durch Satzung der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Anpassung
-der Prüfungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG)
-vom 12. April 2002 (KWMBi II S. 1232), wird wie folgt geändert:
-1.
-83 wird wie folgt geändert:
-a)
-In Abs. 2 Satz 2 werden vor dem Punkt die Worte "und im Hauptstudium 80 SWS
-(vgl. Anlage 2)" eingefügt.
-b)
-In Abs. 3 Satz 2 werden die Worte "für Mediziner" gestrichen.
-c)
-In Abs. 4 treten an die Stelle des bisherigen Satzes 2 folgende Sätze:
-"Die Prüfung für das Wahlfach (G) der Aufbauphase des Hauptstudiums (vgl. & 22)
-kann vorgezogen und ab dem Ende des sechsten Fachsemesters abgelegt werden.
-°Der Student soll sich so rechtzeitig und ordnungsgemäß zur Diplomprüfung anmel-
-den, dass die Termine eingehalten werden."
-2.
-87 wird wie folgt geändert:
-a)
-In Abs.
-1 wird nach den Worten "Molekulare Medizin" ein Komma gesetzt und das
-Wort "Biomedizin" eingefügt.
-b)
-In Abs. 2 Satz 2 werden nach dem Wort "sind" die Worte "die Grundsätze der
-Europäischen Deklaration von Bologna ersatzweise" eingefügt.
-c)
-In Abs. 3 Sätze
-1 und 4 werden jeweils nach dem Wort "Diplomvorprüfungen" ein
-Komma und das Wort "Bachelorgrade" eingefügt sowie in Satz
-1 nach dem Wort
-"Molekulare Medizin" ein Komma gesetzt und das Wort "Biomedizin" eingefügt.
-d)
-In Abs. 4 Satz
-1 werden nach dem Wort "Diplomvorprüfung" die Worte "oder eines
-Bachelorgrades" eingefügt.
-3.
-8 10 wird wie folgt geändert:
-a)
-Die Überschrift erhält die Fassung:
-Mündliche und schriftliche Prüfungen"
-b)
-Nach Abs. 3 werden folgende Absätze angefügt:
-1
-```
+§1 
 
-### OCR Seite 2
+Die Diplompriifungsordnung fiir Studenten der Molekularen Medizin an der FriedrichAlexander-Universitat Erlangen-Nurnberg vom 7. Februar 2001 (KMBI Il 2002 S. 73), geandert durch Satzung der Friedrich-Alexander-Universitat Erlangen-Nurnberg zur Anpassung der Prifungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG) vom 12. April 2002 (KWMBI II S. 1232), wird wie folgt geandert: 
 
-```
-"Bewertung von Prüfungsleistungen"
-b) Nach Abs. 2 wird folgender Absatz eingefügt:
-|
-"(3) Die Diplomprüfung ist bestanden, wenn die Note der Diplomarbeit und die Fach-
-2
-noten
-jeweils mindestens "ausreichend" (bis 4,0) sind. Die Gesamtnote der Diplom-
-prüfung errechnet sich als das arithmetische Mittel aus den vier mündlichen Fachno-
-3
-ten und der doppelt zu wertenden Note der Diplomarbeit. Das Prädikat der bestan-
-denen Diplomprüfung lautet bei einer Gesamtnote
-von 1,0 bis einschließlich 1,5
-=
-sehr gut
-über 1,5 bis einschließlich 2,5
-=
-gut
-über 2,5 bis einschließlich 3,5
-=
-befriedigend
-über 3,5 bis einschließlich 4,0
-=
-ausreichend
-4Sind sämtliche Leistungen der Prüfung mit der Note "sehr gut" (1,0) bewertet wor-
-den, so lautet die Gesamtnote "mit Auszeichnung bestanden",
-c) Der bisherige Abs. 3 wird Abs. 4, der bisherige Abs. 4 wird gestrichen.
-d)
-In Abs. 4 (neu) wird "Abs. 2" durch "Absätzen 2 und 3" ersetzt.
-5.
-8 12 wird wie folgt geändert:
-a) In der Überschrift wird das Wort “Diplomvorprüfung" durch das Wort "Prüfung" er-
-setzt.
-b) Im Wortlaut der Bestimmung werden nach dem Wort "Diplomvorprüfung" die Worte
-"oder die Diplomprüfung" eingefügt.
-6.
-Vor & 16 wird die Überschrift "Diplomvorprüfung" eingefügt.
-7.
-In& 16 Abs. 2 Satz 1 Nr. 2 werden nach dem Wort "Molekulare Medizin" die Worte "oder
-der Medizin" eingefügt.
-8.
-In8 17 Abs. 2 Satz 5 Nr. 5 werden nach dem Wort "Physik" die Worte "für Mediziner"
-|
-gestrichen.
-|
-9.
-Vor &20 wird die Überschrift "Diplomprüfung" eingefügt.
-10. An die Stelle des 8 20 treten folgende Bestimmungen:
-|
-```
+1. § 3 wird wie folgt geandert: 
 
-### OCR Seite 3
+   - a) In Abs. 2 Satz 2 werden vor dem Punkt die Worte “und im Hauptstudium 80 SWS (vgl. Anlage 2)" eingefiigt. 
 
-```
-senschaftlichen Hochschule oder eine der Diplomvorprüfung im Studiengang Molekulare
-Medizin gemäß $ 7 Abs. 3 bis 6 gleichwertige und anerkannte sonstige Prüfung;
-3. ein ordnungsgemäßes Studium der Molekularen Medizin in den gemäß & 22 gewählten
-Fächern;
-4. die Immatrikulation für das Studium der Molekularen Medizin oder der Medizin an der Uni-
-versität Erlangen-Nürnberg;
-5. der Nachweis (Scheine) über die erfolgreiche Teilnahme an den Lehrveranstaltungen ge-
-mäß Anlage 2.
-"Der Nachweis über die erfolgreiche Teilnahme an Praktika, Übungen und Seminaren kann
-durch Anfertigen von Protokollen, Lösen von Übungsaufgaben, Klausuren oder erfolgreiche
-3
-Abschlusskolloquien o. ä. erbracht werden.
-Das Nähere regelt der für die betreffende Lehr-
-4
-veranstaltung zuständige Dozent. Nicht erfolgreich absolvierte Lehrveranstaltungen können
-innerhalb der Meldefrist zur Diplomprüfung wiederholt werden.
-(3) Dem Antrag auf Zulassung zur Diplomprüfung sind beizufügen:
-1. die Unterlagen zum Nachweis der Voraussetzungen nach Abs. 2;
-2. eine Aufstellung der gewählten Fächer ($ 22 Abs. 2);
-3. die Erklärung nach 8 16 Abs. 3 Nr. 4.
-(4) Die Zulassung zur Diplomprüfung ist zu versagen, wenn
-1. der Bewerber die nach Abs. 2 vorgeschriebenen Zulassungsvoraussetzungen nicht erfüllt
-oder
-\
-2. die Unterlagen nach Abs. 3 nicht vollständig sind oder
-3. der Bewerber unter Verlust des Prüfungsanspruches exmatrikuliert worden ist oder
-4. der Bewerber die Diplomprüfung, die Bachelor- oder Masterprüfung im selben Studien-
-gang endgültig nicht bestanden hat.
-S 21
-Umfang der Diplomprüfung
-Die Diplomprüfung besteht aus
-a) den mündlichen Prüfungen und
-b) der Diplomarbeit.
-822
-Mündliche Diplomprüfung
-(1) Die mündliche Prüfung dient dem Nachweis, dass der Kandidat die erwarteten Fach-
-kenntnisse besitzt, diese fachübergreifend anwenden, Probleme selbständig definieren und
-durchdenken sowie in verständlicher Form erörtern kann.
-3
-```
+   - b) In Abs. 3 Satz 2 werden die Worte “fur Mediziner" gestrichen. 
 
-### OCR Seite 4
+   - c) In Abs. 4 treten an die Stelle des bisherigen Satzes 2 folgende Satze: 
 
-```
-B. 'Signalketten und Wirkstoffe' mit den Einzel- und Querschnittsfächern
-1. Humangenetik
-2. Pharmakologie und Toxikologie
-3. Neurowissenschaften
-4. Wissenschaftsgeschichte und Ethik,
-C. Infektion und Pathogenese' mit den Einzel- und Querschnittsfächern
-1. Mikrobiologie
-2. Virologie
-3. Immunologie
-4. Molekulare Pathomechanismen.
-"Das Prüfungsfach der Aufbauphase (G) kann nicht erneut als Haupt- oder Nebenfach ge-
-wählt werden; das Fach Wissenschaftsgeschichte und Ethik kann nur als Ergänzungs-oder
-6
-Nebenfach
-gewählt werden. Gleichwertige Studienleistungen können in bis zu zwei komple-
-mentären Fächern der Naturwissenschaftlichen Fakultät Il erbracht werden, wobei diese Fä-
-cher folgenden thematischen Modulen nach Abs. 2 Satz 2 zugeordnet werden:
-1. Biochemie für Naturwissenschaftler: Modul A
-2. Genetik: Modul B
-3. Mikrobiologie: Modul C
-,
-4. Pharmazeutische Fächer: Modul B
-\
-5. Physikalische Chemie: Modul A
-6. Organische Chemie: Modul A
-7. Molecular Science: Modul A
-7
-Falls Studienleistungen in einem Fach nach Satz 6 erbracht werden, ist ein inhaltlich ver-
-wandtes molekularmedizinisches Fach als Prüfungsfach der Aufbauphase (G) oder des ent-
-8
-sprechenden
-Moduls zu wählen.
-Der für ein ordnungsgemäßes Studium erforderliche
-Höchstumfang der Lehrveranstaltungen im Hauptfach und in den Neben-/Ergänzungsfächern
-9.
-ergibt sich aus der Aufstellung in Anlage 2.
-Über Abweichungen und über die Zulassung
-anderer Fächer entscheidet der Prüfungsausschuss auf begründeten Antrag des Kandida-
-10
-ten.
-Weist der Kandidat einen mindestens einsemestrigen Studien- oder Praktikumsau-
-fenthalt an einer ausländischen Universität oder einer ausländischen Forschungseinrichtung
-nach, werden auf begründeten Antrag bis zu 2 abweichende Fächer bei qualitativer Gleich-
-11
-wertigkeit als Ergänzungsfach (G) oder als Nebenfach anerkannt.
-Ein Fach soll dann zuge-
-lassen werden, wenn:
-(a) es eine mit dem Ziel des Studiengangs Molekulare Medizin und der Prüfung zu vereinba-
-rende sinnvolle Kombination ergibt,
-(b) wenn das Fach an der Universität Erlangen-Nürnberg vertreten wird oder an der gastge-
-benden Einrichtung von einem Professor vertreten wird und ersatzweise von einem fachna-
-4
-```
+"@Die Priifung fur das Wahlfach (G) der Aufbauphase des Hauptstudiums (vgl. § 22) kann vorgezogen und ab dem Ende des sechsten Fachsemesters abgelegt werden. “Der Student soll sich so rechtzeitig und ordnungsgema& zur Diplompriifung anmelden, dass die Termine eingehalten werden.” 
 
-### OCR Seite 5
+2. §7 wird wie folgt geandert: 
 
-```
-Prüfungen sollen innerhalb von vier Wochen abgelegt werden.
-823
-Zusatzfächer
-|
-(1) Der Kandidat kann sich in weiteren als den vorgeschriebenen Fächern einer Prüfung un-
-terziehen (Zusatzfächer).
-(2) Das Ergebnis der Prüfung in diesen Fächern wird auf Antrag des Kandidaten in das
-Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht miteinbezogen.
-824
-Diplomarbeit
-(1) "Die Diplomarbeit soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgege-
-benen Frist ein Problem aus einem Fachgebiet der Molekularen Medizin nach wissenschaftli-
-chen Methoden selbständig zu bearbeiten und seinen Gedankengang verständlich darzustel-
-2
-len. Die Diplomarbeit kann wahlweise in deutscher oder englischer Sprache verfaßt werden.
-(2) "Die Diplomarbeit kann von jedem hauptberuflichen Hochschullehrer der Universität Er-
-langen-Nürnberg, der Universität Bayreuth, der Universität Würzburg oder einem assoziier-
-ten Hochschullehrer an einer Forschungseinrichtung, der am Kernkurrikulum der Molekula-
-\
-ren Medizin, ersatzweise eines komplementären Faches der Naturwissenschaftlichen Fakul-
-täten nach 822 Abs. 2 Satz 6 mitwirkt und bei Beginn der Diplomarbeit auf der Betreuerliste
-beim Diplomprüfungsausschuß Molekulare Medizin gelistet
-ist, ausgegeben und betreut
-2
-werden.
-„Die Diplomarbeit soll möglichst in dem als Hauptfach gewählten Fach durchgeführt
-werden.
-Sie darf mit vorheriger Zustimmung des Prüfungsausschusses außerhalb des Tä-
-tigkeitbereichs eines der unter Satz 1 genannten Hochschullehrer ausgeführt werden, sofern
-ein unter Satz 1 genannter Hochschullehrer der betreffenden oder einer nahen Fachrichtung
-vor der Vergabe der Arbeit gegenüber dem Diplomprüfungsausschuß Molekulare Medizin
-4
-schriftlich sein Einverständnis erklärt, die Betreuung zu übernehmen.
-Der Diplomprüfung-
-sausschuß Molekulare Medizin führt eine Betreuerliste für Diplomarbeiten, in der die Betreu-
-5
-er nach Satz
-1
-unter Angabe des von ihnen vertretenen Fachs aufgeführt sind.
-Die
-Betreuerliste
-ist im Studiendekanat und der Fachbereichsverwaltung
-der Medizinischen
-Fakultät für Kandidaten der Diplomprüfung einzusehen ist.
-(3) "Das Thema der Diplomarbeit kann frühestens ein Jahr nach bestandenem Vordiplom
-und soll spätestens sechs Wochen nach Abschluss der mündlichen Diplomprüfung vergeben
-werden.
-Das Thema soll mit den jeweils verfügbaren Mitteln innerhalb der vorgesehenen
-5
-```
+   - a) In Abs. 1 wird nach den Worten "Molekulare Medizin" ein Komma gesetzt und das Wort “Biomedizin" eingefigt. 
 
-### OCR Seite 6
+   - b) In Abs. 2 Satz 2 werden nach dem Wort "sind" die Worte "die Grundsatze der Europaischen Deklaration von Bologna ersatzweise" eingeftgt. 
 
-```
-7
-der Bearbeitung gehindert war, ruht die Bearbeitungsfrist entsprechend.
-Der Prüfungsaus-
-schuss kann die Vorlage eines amtsärztlichen Attestes oder eines vom Vorsitzenden des
-Prüfungsausschusses bestimmten Arztes verlangen.
-(6) Das Thema kann nur einmal und zwar innerhalb der ersten zwei Monate der Bearbeitung
-zurückgegeben werden.
-(7) "Die Diplomarbeit ist fristgemäß in drei Exemplaren beim Prüfungsamt einzureichen, der
-Abgabezeitpunkt ist aktenkundig zu machen.
-Wird die Diplomarbeit nicht fristgemäß abge-
-liefert, so wird sie mit "nicht ausreichend" (5,0) gewertet.
-(8) "Die Diplomarbeit ist mit einer Erklärung des Kandidaten zu versehen, dass er die Arbeit
-selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt
-2
-hat. Das Titelblatt soll neben Thema und Autor auch das Abgabedatum, das Institut oder die
-Klinik sowie den Namen des Betreuers der Arbeit enthalten; es soll entsprechend Anlage 3
-gestaltet sein.
-8 25
-Beurteilung der Diplomarbeit
-(1) Die Diplomarbeit wird von einem der beim Diplomprüfungsausschuss gelisteten Betreuer
-\
-2
-und einem weiteren Prüfer beurteilt.
-Der Zweitprüfer wird vom Vorsitzenden des Prüfungs-
-ausschusses aus dem Kreis der Prüfer bestellt.
-(2) 'Bei unterschiedlicher Beurteilung der Diplomarbeit durch beide Prüfer um weniger als
-zwei Notenstufen wird die Note als arithmetisches Mittel beider Noten festgesetzt; & 11 Abs.
-4 gilt entsprechend.
-Hat ein Prüfer die Diplomarbeit mit "nicht ausreichend” benotet oder
-weichen die Noten um zwei oder mehr Notenstufen voneinander ab, so setzt der Prüfungs-
-ausschuss die Note nach Anhörung eines dritten Prüfers fest.
-8 26
-Wiederholung der Diplomprüfung
-(1) "Wird eine vorgezogene und vor Ende der Lehrveranstaltungen des achten Studiense-
-mesters durchgeführte Diplomprüfung in dem unter 822 Abs. 2 benannten Fach der Aufbau-
-phase (G) nicht bestanden, gilt die Prüfung als nicht unternommen ("Freischussregelung").
-2Die freiwillige Wiederholung einer vorgezogenen und bestandenen Diplomprüfung ist nicht
-zulässig.
-6
-```
+   - c) In Abs. 3 Satze 1 und 4 werden jeweils nach dem Wort "Diplomvorprtifungen" ein Komma und das Wort "Bachelorgrade” eingefligt sowie in Satz 1 nach dem Wort "Molekulare Medizin" ein Komma gesetzt und das Wort "Biomedizin" eingefiigt. 
 
-### OCR Seite 7
+   - d) In Abs. 4 Satz 1 werden nach dem Wort "Diplomvorpriifung" die Worte "oder eines Bachelorgrades” eingefigt. 
 
-```
-Zeugnis und Diplom
-(1) Über die bestandene Diplomprüfung werden ein Zeugnis und ein Diplom ausgestellt.
-{
-(2) "Das Zeugnis enthält die Noten der mündlichen Prüfung in den einzelnen Prüfungs-
-2
-fächern, Thema und Note der Diplomarbeit sowie die Gesamtnote der Diplomprüfung. Das
-Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet.
-Als Datum des
-Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erfüllt sind.
-(3) "Im Diplom wird die Verleihung des Diplomgrades beurkundet. "Als Datum des Diploms
-3
-ist der Tag anzugeben, an dem alle Prüfungsleistungen erfüllt sind.
-Das Diplom wird vom
-Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel der Fakultät ver-
-sehen.
-828
-Aberkennung des Diplomgrades
-Die Entziehung des akademischen Diplomgrades richtet sich nach Art. 89 Abs. 1 BayHSch@G. "
-11. Der bisherige 8 21 wird 8 29.
-\
-12. Nach der Anlage 1 wird angefügt:
-"Anlage 2 zu $ 3 Abs. 2 und $ 22 Abs. 2
-A. Umfang der Lehrveranstaltungen im Hauptstudium
-Für ein planmäßiges Hauptstudium beträgt der Höchstumfang der Pflichtlehrveranstaltungen
-80 Semesterwochenstunden (SWS).
-B. Bei der Anmeldung zur Diplomprüfung vorzulegende Scheine
-Für die Zulassung zur Diplomprüfung ist die Bescheinigung über die erfolgreiche Teilnahme
-an den nachstehenden Lehrveranstaltungen erforderlich. Bei einer Teilung der Prüfung sind
-die für das jeweilige Prüfungsfach erforderlichen Scheine vorzulegen.
-1.
-Molekulare Zellfunktionen: Seminar (2 SWS);
-2.
-Allgemeine Pathologie: Kurs (4 SWS);
-3.
-Allg. Pharmakologie u. Toxikol. 1: Kurs (3 SWS);
-4.
-Mol. Pharmakologie u. Toxikol. 1: Seminar (1 SWS);
-5.
-Strahlenschutzkurs (lsotope): Kurs (2 SWS);
-6.
-Embryologie u. Entwicklungsbiol.: Kurs (2 SWS);
-7.
-Molekulare Humangenetik: Praktikum (4 SWS);
-7
-```
+3. § 10 wird wie folgt geandert: 
 
-### OCR Seite 8
+   - a) Die Uberschrift erhalt die Fassung: 
 
-```
-Gestaltung des Titelblatts einer Diplomarbeit
-(Thema:;)
-DIPLOMARBEIT
-aus dem Institut für / aus der Klinik für
-{
-Betreuer:
-vorgelegt von
-( Vorname und Name)
-aus
-( Geburtsort)
-Erlangen im (Monat, Jahr)
-"
-8
-```
+### Mundliche und schriftliche Priifungen" 
 
-### OCR Seite 9
+- b) Nach Abs. 3 werden folgende Absatze angefigt: 
 
-```
-nn LT
-AEarG Fe FAR
-'
-[Kontaktperson entfernt]
-Die Satzung wurde am 5. November 2003 in der Universität Erlangen-Nürnberg niederge-
-legt; die Niederlegung wurde am 5. November 2003 durch Anschlag in der Universität Erlan-
-gen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 5. November 2003.
-9
-```
+1 
+
+"(4) In den schriftlichen Priifungen (Klausuren) soll der Student nachweisen, dass er auf der Basis des notwendigen Grundlagenwissens in einer begrenzten Zeit und mit begrenzten HilfsmittelIn mit den gangigen Methoden seines Faches Aufgaben lésen oderben werden. Themen bearbeiten kann. 2Dem Studenten kOnnen Themen zur Auswahl gege(5) 'Klausuren, deren Bestehen Voraussetzung zur Fortsetzung des Studiums ist, sind in der Regel von zwei Prifern zu bewerten. “Eine mit der Note “nicht ausreichend" bewertete Klausur ist in jedem Fall von einem zweiten Priifer Zu bewerten." 
+
+4. § 11 wird wie folgt geandert: 
+
+   - a) Die Uberschrift erhalt folgende Fassung: 
+
+“Bewertung von Prufungsleistungen" 
+
+- b) Nach Abs. 2 wird folgender Absatz eingeftgt: 
+
+| 
+
+"(3) ‘Die Diplomprtifung ist bestanden, wenn die Note der Diplomarbeit und die Fachnoten jeweils mindestens "ausreichend” (bis 4,0) sind. 2Die Gesamtnote der Diplomprifung errechnet sich als das arithmetische Mittel aus den vier miindlichen Fachnoten und der doppelt zu wertenden Note der Diplomarbeit. 3Das Pradikat der bestandenen Diplomprifung lautet bei einer Gesamtnote von 1,0 bis einschlieBlich 1,5 = sehr gut ber 1,5 bis einschlieRlich 2,5 = gut Uber 2,5 bis einschlieRlich 3,5 = befriedigend Uber 3,5 bis einschlieRlich 4,0 = ausreichend 4Sind sAmtliche Leistungen der Prifung mit der Note "sehr gut" (1,0) bewertet worden, so lautet die Gesamtnote "mit Auszeichnung bestanden". 
+
+c) Der bisherige Abs. 3 wird Abs. 4, der bisherige Abs. 4 wird gestrichen. 
+
+d) In Abs. 4 (neu) wird "Abs. 2" durch "Absatzen 2 und 3" ersetzt. 
+
+9. § 12 wird wie folgt geandert: 
+
+   - a) setzt.In der Uberschrift wird das Wort "Diplomvorpriifung" durch das Wort "Prifung" er- 
+
+   - b) Im Wortlaut der Bestimmung werden nach dem Wort “Diplomvorpriifung" die Worte “oder die Diplompriifung" eingeftigt. 
+
+6. Vor § 16 wird die Uberschrift "Diplomvorprifung" eingefiigt. 
+
+7. In § 16 Abs. 2 Satz 1 Nr. 2 werden nach dem Wort "Molekulare Medizin" die Worte "oder der Medizin" eingefugt. 
+
+8. In § 17 Abs. 2 Satz 5 Nr. 5 werden nach dem Wort "Physik" die Worte "fur Mediziner" gestrichen. 
+
+9. Vor § 20 wird die Uberschrift "Diplompriifung" eingefigt. 
+
+10. An die Stelle des § 20 treten folgende Bestimmungen: 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+\ 
+
+## Zulassung zur Diplomprtifung 
+
+(1) ‘Die Meldung zur Diplomprifung ist rechtzeitig (vgl. §3 Abs. 4) Uber das Priifungsamt sindbeim Vorsitzenden des Diplompriifungsausschusses schriftlich einzureichen. 2‘Der Meldung 3) beizufiigen.der Antrag auf Zulassung zur Diplomprifung und die geforderten Unterlagen (vgl. Abs. 
+
+(2) ‘Die Voraussetzungen fur die Zulassung zur Diplompriifung sind: 1. die allgemeine Hochschulreife oder die einschlagige fachgebundene Hochschulreife unter Berucksichtigung der Qualifikationsverordnung - QualV - (BayRS 2210-1-1-3-UK/WFK) in der jeweils geltenden Fassung; 
+
+2. die bestandene Diplomvorpriifung im Studiengang Molekulare Medizin oder der Grad eines Bachelor bzw. ein Bakkalaureat der Molekularen Medizin oder der Biomedizin einer wissenschaftlichen Hochschule oder eine der Diplomvorpriifung im Studiengang Molekulare Medizin gemals § 7 Abs. 3 bis 6 gleichwertige und anerkannte sonstige Priifung; 3. ein ordnungsgemaBes Studium der Molekularen Medizin in den gemaR § 22 gewahliten Fachern; 4. die Immatrikulation fur das Studium der Molekularen Medizin oder der Medizin an der Universitat Erlangen-Nurnberg; 5. der Nachweis (Scheine) Uber die erfolgreiche Teilnahme an den Lehrveranstaltungen gema Anlage 2. “Der Nachweis Uber die erfolgreiche Teilnahme an Praktika, Ubungen und Seminaren kann durch Anfertigen von Protokollen, Losen von Ubungsaufgaben, Klausuren oder erfolgreiche Abschlusskolloquien o. a. erbracht werden. 3Das Nahere regelt der fur die betreffende Lehrveranstaltung 4 innerhalb zustandige Dozent. Nicht erfolgreich absolvierte Lehrveranstaltungen kénnen der Meldefrist zur Diplompriifung wiederholt werden. 
+
+(3) Dem Antrag auf Zulassung zur Diplompriifung sind beizuftigen: 
+
+1. die Unterlagen zum Nachweis der Voraussetzungen nach Abs. 2; 
+
+2. eine Aufstellung der gewahliten Facher (§ 22 Abs. 2): 
+
+3. die Erklarung nach § 16 Abs. 3 Nr. 4. 
+
+(4) Die Zulassung zur Diplompriifung ist zu versagen, wenn 1. der Bewerber die nach Abs. 2 vorgeschriebenen Zulassungsvoraussetzungen nicht erfullt oder 2. die Unterlagen nach Abs. 3 nicht vollstandig sind oder 
+
+3. der Bewerber unter Verlust des Prifungsanspruches exmatrikuliert worden ist oder 4. der Bewerber die Diplompriifung, die Bachelor- oder Masterprtifung im selben Studiengang endgiltig nicht bestanden hat. 
+
+§ 21 Umfang der Diplompriifung 
+
+Die Diplompriifung besteht aus 
+
+a) den miindlichen Priffungen und 
+
+b) der Diplomarbeit. 
+
+§ 22 
+
+## Mundliche Diplompriifung 
+
+(1) Die mundliche Priifung dient dem Nachweis, dass der Kandidat die erwarteten Fachkenninisse besitzt, diese fachbergreifend anwenden, Probleme selbstandig definieren und durchdenken sowie in verstandlicher Form erértern kann. 
+
+3 
+
+; . 
+
+(2) ‘Die mundliche Prifung findet in vier Prufungsfachern, davon einem Hauptfach, zwei Nebenfachern 2 und einem Erganzungsfach statt. Die Facher werden jeweils aus den drei komplementaren Fachgruppen A, B und C (sog. Thematische Module) und den Fachern der Aufbauphase (G) gewahlt. 3Facher der Aufoauphase (G) sind: 
+
+1. Humangenetik 
+
+2. Pharmakologie und Toxikologie 
+
+3. Molekulare Pathomechanismen 
+
+4. Architektur von Biopolymeren 4 Fachgruppen (Thematische Module) der Diplomprufung sind: 
+
+A. 'Struktur und Entwicklung’ mit den Einzel- und Querschnittsfachern 1. Molekulare Zellfunktionen 2. Architektur von Biopolymeren 
+
+3. Embryologie / Entwicklungsbiologie 
+
+4. Versuchstierkunde / Reproduktionsbiologie, 
+
+- B. 'Signalketten und Wirkstoffe' mit den Einzel- und Querschnittsfachern 
+
+1. Humangenetik 
+
+2. Pharmakologie und Toxikologie 
+
+3. Neurowissenschaften 
+
+4. Wissenschaftsgeschichte und Ethik, 
+
+C. 'Infektion und Pathogenese' mit den Einzel- und Querschnittsfachern 1. Mikrobiologie 2. Virologie 
+
+3. Immunologie 
+
+4. Molekulare Pathomechanismen. 
+
+*Das Prufungsfach der Aufbauphase (G) kann nicht erneut als Haupt- oder Nebenfach gewahit werden; das Fach Wissenschaftsgeschichte und Ethik kann nur als Erganzungs-oder Nebenfach 6 mentaren gewahlt werden. Gleichwertige Studienleistungen konnen in bis zu zwei kompleFachern der Naturwissenschaftlichen Fakultat || erbracht werden, wobei diese Facher folgenden thematischen Modulen nach Abs. 2 Satz 2 zugeordnet werden: 1. Biochemie fur Naturwissenschaftler: Modul A 2. Genetik: Modul B 3. Mikrobiologie: Modul C 
+
+4. Pharmazeutische Facher: Modul B 
+
+5. Physikalische Chemie: Modul A 
+
+6. Organische Chemie: Modul A 7, Molecular Science: Modul A 7 Falls Studienleistungen in einem Fach nach Satz 6 erbracht werden, ist ein inhaltlich verwandtes molekularmedizinisches Fach als Priifungsfach der Aufbauphase (G) oder des entsprechenden 8 Hochstumfang Moduls zu wahlen. Der fiir ein ordnungsgemaRes Studium erforderliche der Lehrveranstaltungen im Hauptfach und in den Neben-/Erganzungsfachern ergibt 9... sich aus der Aufstellung in Anlage 2. Uber Abweichungen und uber die Zulassung anderer10 Facher entscheidet der Priifungsausschuss auf begruindeten Antrag des Kandidaten. Weist der Kandidat einen mindestens einsemestrigen Studien- oder Praktikumsaufenthalt an einer auslandischen Universitat oder einer auslandischen Forschungseinrichtung nach, werden auf begrundeten Antrag bis zu 2 abweichende Facher bei qualitativer Gleichwertigkeitlassen werden,als Erganzungsfachwenn: (G) oder als Nebenfach anerkannt. 141 Ein Fach soll dann zuge(a) es eine mit dem Ziel des Studiengangs Molekulare Medizin und der Priifung zu vereinbarende sinnvolle Kombination ergibt, (b) wenn das Fach an der Universitat Erlangen-Nirnberg vertreten wird oder an der gastgebenden Einrichtung von einem Professor vertreten wird und ersatzweise von einem fachna- 
+
+4 
+
+| 
+
+=. ; 
+
+hen Professor der Universitat Erlangen-Nurnberg eine Gleichwertigkeitsbescheinigung vorliegt, und (c) wenn die gastgebende Fakultat oder Forschungseinrichtung aufgrund ihrer vorhandenen Ausstattung ein ordnungsgemaRes Studium sicherstellen kann, und (d) wenn das Fach im Rahmen eines Diplom- oder Masterstudiengangs oder eines Studiengangs mit vergleichbarer Hochschul- oder staatlicher Abschlusspriifung an der Universitat Erlangen-NUrnberg oder bei Auslandsaufenthalten der gastgebenden Hochschule angeboten wird. 12Ein unter Abs. 2 Satz 4 nicht gelistetes Querschnittsfach kann nur dann zugelassen werden, wenn die zugrundeliegende Facherkombination an der Universitat ErlangenNurnberg ganz oder teilweise von einem Professor vertreten wird. 
+
+(3) ‘Die Dauer der mindlichen Priifung betragt fur jeden Kandidaten und jedes Neben- und Erganzungsfach etwa 30 Minuten, fur das Hauptfach etwa 45 Minuten. Die Priifung im Hauptfach kann durch eine praktische oder schriftliche Aufgabe am letzten Werktag vor der mundlichen Prifung erganzt werden, die in der Ladung zur Priifung darzustellen ist. Die Prufungen sollen innerhalb von vier Wochen abgelegt werden. 
+
+(1) Der Kandidat kann sich in weiteren als den vorgeschriebenen Fachern einer Priifung unterziehen (Zusatzfacher). 
+
+(2) Das Ergebnis der Prifung in diesen Fachern wird auf Antrag des Kandidaten in das Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht miteinbezogen. 
+
+### § 24 Diplomarbeit 
+
+(1) 'Die Diplomarbeit soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus einem Fachgebiet der Molekularen Medizin nach wissenschaftlichen Methoden selbstandig zu bearbeiten und seinen Gedankengang verstandlich darzustellen. 2Die Diplomarbeit kann wahiweise in deutscher oder englischer Sprache verfafst werden. 
+
+(2) ‘Die Diplomarbeit kann von jedem hauptberuflichen Hochschullehrer der Universitat Erlangen-NUurnberg, der Universitat Bayreuth, der Universitat Wurzburg oder einem assoziierten Hochschullehrer an einer Forschungseinrichtung, der am Kernkurrikulum der Molekularen Medizin, ersatzweise eines komplementaren Faches der Naturwissenschaftlichen Fakultaten nach §22 Abs. 2 Satz 6 mitwirkt und bei Beginn der Diplomarbeit auf der Betreuerliste beim DiplomprufungsausschuR& Molekulare Medizin gelistet ist, ausgegeben und betreut werden. 2 werden. pie Diplomarbeit soll méglichst in dem als Hauptfach gewahlten Fach durchgeftihrt Sie darf mit vorheriger Zustimmung des Priifungsausschusses auRerhalb des Tatigkeitbereichs eines der unter Satz 1 genannten Hochschullehrer ausgefithrt werden, sofern ein unter Satz 1 genannter Hochschullehrer der betreffenden oder einer nahen Fachrichtung vor der Vergabe der Arbeit gegenuber dem DiplomprifungsausschuR& Molekulare Medizin schriftlich 4 sein Einverstandnis erklart, die Betreuung zu Ubernehmen. Der Diplompriifungsausschuls Molekulare Medizin fuhrt eine Betreuerliste fur Diplomarbeiten, in der die Betreu5 er nach Satz 1 unter Angabe des von ihnen vertretenen Fachs aufgefiihrt sind. Die Betreuerliste ist im Studiendekanat und der Fachbereichsverwaltung der Medizinischen Fakultat fur Kandidaten der Diplompriifung einzusehen ist. (3) "Das Thema der Diplomarbeit kann fruhestens ein Jahr nach bestandenem Vordiplom und soll spatestens sechs Wochen nach Abschluss der miindlichen Diplompriifung vergeben werden. Das Thema soll mit den jeweils verfigbaren Mitteln innerhalb der vorgesehenen 
+
+5 
+
+\ 
+
+Bearbeitungszeit durchflhrbar sein. “Die Ausgabe der Diplomarbeit ist dem Prifungs4 ausschuss zu melden. Der Zeitpunkt der Ausgabe ist aktenkundig zu machen. 
+
+(4) Auf besonderen Antrag des Kandidaten bestimmt der Vorsitzende des Priifungsausschusses das Thema der Diplomarbeit. 
+
+(5) ‘Die Bearbeitungszeit der Diplomarbeit soll 6 Monate nicht Uberschreiten. “In begrtindeten Ausnahmen kann die Bearbeitungszeit auf Antrag des Kandidaten auf hdéchstens 9 Mo3 nate verlangert werden. Die Entscheidung hierUber trifft der Vorsitzende des Prifungsausschusses in Abstimmung mit dem Betreuer der Arbeit. “Die Bearbeitung des Themas kann mit Zustimmung des Prifungsausschusses unterbrochen werden, wenn dieses von der Aufgabenstellung ner (bel zeitlicher Einbettung in Gruppenprojekte oder definierte klinische Studien) erforderlich ist. Die Entscheidung hierUber trifft der Priifungsausschuss im Benehmen mit dem Betreuer der Arbeit. 6Weist der Kandidat durch arztliches Zeugnis nach, dass er durch Krankheit, Schwangerschaft oder aufgrund gravierender pers6nlicher Umstande an der 7 Bearbeitung gehindert war, ruht die Bearbeitungsfrist entsprechend. Der Priifungsausschuss kann die Vorlage eines amtsarztlichen Attestes oder eines vom Vorsitzenden des Prifungsausschusses bestimmten Arztes verlangen. 
+
+(6) Das Thema kann nur einmal und zwar innerhalb der ersten zwei Monate der Bearbeitung zuruckgegeben werden. 
+
+(7) ‘Die Diplomarbeit ist fristgema& in drei Exempiaren beim Prifungsamt einzureichen, der Abgabezeitpunkt ist aktenkundig zu machen. Wird die Diplomarbeit nicht fristgema& abgeliefert, so wird sie mit "nicht ausreichend" (5,0) gewertet. 
+
+(8) Die Diplomarbeit ist mit einer Erklarung des Kandidaten zu versehen, dass er die Arbeit selbstandig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. 2Das Titelblatt soll neben Thema und Autor auch das Abgabedatum, das Institut oder die Klinik sowie den Namen des Betreuers der Arbeit enthalten; es soll entsprechend Anlage 3 gestaltet sein. 
+
+### § 25 
+
+### Beurteilung der Diplomarbeit 
+
+(1) ‘Die Diplomarbeit wird von einem der beim Diplompriifungsausschuss gelisteten Betreuer 2 und einem weiteren Prifer beurteilt. Der Zweitprifer wird vom Vorsitzenden des Priifungsausschusses aus dem Kreis der Prifer bestellt. 
+
+(2) 'Bei unterschiedlicher Beurteilung der Diplomarbeit durch beide Priifer um weniger als zwei Notenstufen wird die Note als arithmetisches Mittel beider Noten festgesetzt; § 11 Abs. 4 gilt entsprechend. Hat ein Prifer die Diplomarbeit mit "nicht ausreichend” benotet oder weichen die Noten um zwei oder mehr Notenstufen voneinander ab, so setzt der Priifungsausschuss die Note nach Anhdrung eines dritten Priifers fest. 
+
+### § 26 
+
+### Wiederholung der Diplompriifung 
+
+(1) Wird eine vorgezogene und vor Ende der Lehrveranstaltungen des achten Studiensemesters durchgeflihrte Diplompriifung in dem unter §22 Abs. 2 benannten Fach der Aufbauphase (G) nicht bestanden, gilt die Prifung als nicht unternommen ("Freischussregelung"). 2Die freiwillige Wiederholung einer vorgezogenen und bestandenen Diplompriifung ist nicht zulassig. 
+
+6 
+
+( 
+
+7 
+
+(2) Ist die Diplompriifung nicht bestanden oder gilt sie als nicht bestanden, kann sie in den Fachern, die mit "nicht ausreichend" bewertet worden sind, einmal wiederholt werden. 
+
+(3) ‘Ist die Diplomarbeit mit der Note "nicht ausreichend" bewertet worden, so ist dem Kandidaten auf Antrag eine Wiederholung mit neuem Thema gestattet. Das neue Thema ist in3 nerhalb von sechs Wochen nach Bekannigabe der Note an den Kandidaten auszugeben. Im . 4 Ubrigen gelten §§ 24 und 25 entsprechend. Wird auch die zweite Diplomarbeit mit "nicht ausreichend” bewertet, so ist die Diplomprifung endgtltig nicht bestanden und kann nicht mehr wiederholt werden. 
+
+- (4) § 18 Abs. 3 bis 5 gelten entsprechend. 
+
+- (5) Eine Wiederholung der Priifungen in Zusatzfachern ist ausgeschlossen. 
+
+§ 27 Zeugnis und Diplom 
+
+- (1) Uber die bestandene Diplompriifung werden ein Zeugnis und ein Diplom ausgestellt. 
+
+(2) Das Zeugnis enthalt die Noten der mindlichen Priifung in den einzelnen Priifungs2 fachern, Thema und Note der Diplomarbeit sowie die Gesamtnote der Diplompriifung. Das Zeugnis wird vom Vorsitzenden des Priifungsausschusses unterzeichnet. Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prifungsleistungen erfullt sind. 
+
+(3) ‘Im Diplom wird die Verleihung des Diplomgrades beurkundet. “als Datum des Dipioms 3 ist der Tag anzugeben, an dem alle Prifungsleistungen erfullt sind. Das Diplom wird vom Vorsitzenden des Priifungsausschusses unterzeichnet und mit dem Siegel der Fakultat versehen. 
+
+## § 28 Aberkennung des Diplomgrades 
+
+Die Entziehung des akademischen Diplomgrades richtet sich nach Art. 89 Abs. 1 BayHSchG. " 
+
+11. Der bisherige § 21 wird § 29. 
+
+12. Nach der Anlage 1 wird angefigt: 
+
+## “Anlage 2 zu § 3 Abs. 2 und § 22 Abs. 2 
+
+## A. Umfang der Lehrveranstaltungen im Hauptstudium 
+
+Fur ein planmaRiges Hauptstudium betragt der Héchstumfang der Pflichtlehrveranstaltungen 80 Semesterwochenstunden (SWS). 
+
+### B. Bei der Anmeldung zur Diplompriifung vorzulegende Scheine 
+
+Fur die Zulassung zur Diplomprilfung ist die Bescheinigung Uber die erfolgreiche Teilnanme an den nachstehenden Lehrveranstaltungen erforderlich. Bei einer Teilung der Priifung sind die fur das jeweilige Prifungsfach erforderlichen Scheine vorzulegen. 
+
+1. Molekulare Zellfunktionen: Seminar (2 SWS); 2. Allgemeine Pathologie: Kurs (4 SWS); 3. Allg. Pharmakologie u. Toxikol. 1: Kurs (3 SWS); 4. Mol. Pharmakologie u. Toxikol. 1: Seminar (1 SWS); 5. Strahlenschutzkurs (Isotope): Kurs (2 SWS); 
+
+6. Embryologie u. Entwicklungsbiol.: Kurs (2 SWS); 7. Molekulare Humangenetik: Praktikum (4 SWS); 
+
+7 
+
+( 
+
+8. Pharmakologie u. Toxikologie: Kurs (2 SWS), Seminar (2 SWS); 9. Molekulare Neurowissenschaften: Praktikum (2 SWS); 
+
+10. Mikrobiologie: Seminar (2 SWS); 11. Virologie: Seminar (2 SWS); 12. Immunologie: Seminar (3 SWS); 13. Architektur von Biopolymeren: Seminar mit prakt. Ubungen; (3 SWS); 14. Wissenschaftsgeschichte: Seminar (2 SWS); 15. Molekulare Pathomechanismen: Seminar (3 SWS); 16. Versuchstierkunde / Reprodbiologie: Kurs (2 SWS); 17. Vertiefung 1 Hauptfach: F1-Praktikum (6 SWS); 18. Vertiefung 2 Hauptfach: F2-Praktikum (8 SWS); 19. Vertiefung Nebenfach 1: F1-Praktikum (6 SWS); 20. Vertiefung Nebenfach 2: F1-Praktikum (6 SWS); 
+
+Anlage 3 zu § 24 Abs. 8 Gestaltung des Titelblatts einer Diplomarbeit 
+
+### (Thema:) 
+
+### DIPLOMARBEIT 
+
+<!-- Start of picture text -->
+aus dem Institut fiir / aus der Klinik fiir<br><!-- End of picture text -->
+
+### Betreuer: 
+
+### vorgelegt von 
+
+## ( Vorname und Name ) 
+
+aus 
+
+### ( Geburtsort) 
+
+### Erlangen im (Monat, Jahr) 
+
+" 
+
+8 
+
+§2 
+
+Diese Anderungssatzung tritt am Tage ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nurnberg vom 11. Februar 2003 und der Genehmigung des Bayerischen Staatsministeriums fur Wissenschaft, Forschung und Kunst mit Schreiben vom 23. Oktober 2003 Nr. X/4-5e69eXIV10b/8343. 
+
+Erlangen, den 5. November 2003 
+
+aaa L/ Prof. Dr. Karl-DieterCt aanGruske Lo Rektor 
+
+Die Satzung wurde am 5. November 2003 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 5. November 2003 durch Anschlag in der Universitat Erlangen-Nurnberg bekannt gegeben. Tag der Bekanntmachung ist der 5. November 2003. 
+
+9 
 

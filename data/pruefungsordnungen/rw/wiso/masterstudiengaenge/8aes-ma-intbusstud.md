@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Juli 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_MA_IntBusStud.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:37:47+00:00
-page_count_chars: 4330
+scraped_at: 2026-07-01T11:02:59+00:00
+page_count_chars: 4376
 ---
 
 # 15. Juli 2016
@@ -12,7 +12,7 @@ page_count_chars: 4330
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_MA_IntBusStud.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS – Vom 15. Juli 2016** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS – Vom 15. Juli 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
@@ -32,23 +32,23 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International B
 
 ## 2. § 2 wird wie folgt geändert: 
 
-a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
-aa) Die Worte „Fachspezifischer Abschluss“ werden durch das Wort „[1] Abschlüsse“ ersetzt. 
+   - aa) Die Worte „Fachspezifischer Abschluss“ werden durch das Wort „<sup>1</sup> Abschlüsse“ ersetzt. 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit) anerkannt.“ 
+„<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit) anerkannt.“ 
 
 - b) Abs. 2 wird wie folgt geändert: 
 
-aa) Vor dem Wort „Folgende“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+aa) Vor dem Wort „Folgende“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Der Nachweis über die nach Satz 1 Nr. 1 erforderlichen Sprachkenntnisse kann bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachgereicht werden; die Zulassung zum Masterstudium erfolgt unter Vorbehalt.“ 
+„<sup>2</sup> Der Nachweis über die nach Satz 1 Nr. 1 erforderlichen Sprachkenntnisse kann bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachgereicht werden; die Zulassung zum Masterstudium erfolgt unter Vorbehalt.“ 
 
-   - c) Abs. 4 wird wie folgt geändert: 
+c) Abs. 4 wird wie folgt geändert: 
 
       - aa) In Satz 1 werden die Worte „einer bestimmten Frist“ durch die Worte „der Bearbeitungsfrist nach Satz 3“ ersetzt. 
 
@@ -60,7 +60,7 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
    - b) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+„<sup>3</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 4. Die Erläuterungen unterhalb der Tabelle in der Anlage werden wie folgt geändert: 
 

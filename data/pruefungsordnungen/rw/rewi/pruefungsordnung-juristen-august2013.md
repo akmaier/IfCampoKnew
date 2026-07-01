@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 14.10.2004 i.d.F. 23.08.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Pruefungsordnung_Juristen.AUGUST2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:17+00:00
-page_count_chars: 34157
+scraped_at: 2026-07-01T10:34:43+00:00
+page_count_chars: 34999
 ---
 
 # PDF vom 14.10.2004 i.d.F. 23.08.2013
@@ -16,7 +16,7 @@ page_count_chars: 34157
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung Vom 14. Oktober 2004** (KWMBl II S. 2933) 
+# **Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung Vom 14. Oktober 2004** (KWMBl II S. 2933) 
 
 geändert durch Satzungen vom 20. Dezember 2005 29. Januar 2007 25. August 2008 29. August 2012 23. August 2013 
 
@@ -32,29 +32,29 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Zweck der Prüfung, Inhalt des Studiums** 
 
-(1)[1] Die Juristische Universitätsprüfung ist gemäß § 1 JAPO Teil der Ersten Juristischen Prüfung.[2] Die Juristische Universitätsprüfung schließt das Studium im durch den Studenten zu wählenden Schwerpunktbereich des Rechtswissenschaftlichen Studiums gem. § 39 JAPO und gemeinsam mit der Ersten Juristischen Staatsprüfung das Rechtswissenschaftliche Studium ab. ³Durch sie soll festgestellt werden, ob der Kandidat die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten, vertiefte Fachkenntnisse in seinem Schwerpunktbereich erworben hat und die Zusammenhänge seines Faches überblickt. 
+(1)<sup>1</sup> Die Juristische Universitätsprüfung ist gemäß § 1 JAPO Teil der Ersten Juristischen Prüfung.<sup>2</sup> Die Juristische Universitätsprüfung schließt das Studium im durch den Studenten zu wählenden Schwerpunktbereich des Rechtswissenschaftlichen Studiums gem. § 39 JAPO und gemeinsam mit der Ersten Juristischen Staatsprüfung das Rechtswissenschaftliche Studium ab. ³Durch sie soll festgestellt werden, ob der Kandidat die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten, vertiefte Fachkenntnisse in seinem Schwerpunktbereich erworben hat und die Zusammenhänge seines Faches überblickt. 
 
 1 
 
 (2) Die Schwerpunktbereiche dienen der Ergänzung des Studiums, der Vertiefung der mit ihnen zusammenhängenden Pflichtfächer gem. § 18 Abs. 2 JAPO und, soweit sie interdisziplinäre und internationale Bezüge aufweisen, deren Vermittlung. 
 
-(3)[1] Das Schwerpunktbereichsstudium umfasst 16 Semesterwochenstunden. ²Es darf höchstens zu 50 vom Hundert Lehrveranstaltungen enthalten, die Pflichtfächer nach § 18 Abs. 2 JAPO vertiefen. ³Die Schwerpunktbereiche können neben Pflichtveranstaltungen auch Wahlpflichtveranstaltungen umfassen.[4] Außerdem können auch über den Umfang von Satz 1 hinaus bis zu zwei Semesterwochenstunden besondere Lehrveranstaltungen zur interdisziplinären Ergänzung zur Pflicht gemacht werden. 5Die Schwerpunktbereiche und die zugehörigen Rechtsgebiete ergeben sich aus der **Anlage** und aus der Studienordnung. 
+(3)<sup>1</sup> Das Schwerpunktbereichsstudium umfasst 16 Semesterwochenstunden. ²Es darf höchstens zu 50 vom Hundert Lehrveranstaltungen enthalten, die Pflichtfächer nach § 18 Abs. 2 JAPO vertiefen. ³Die Schwerpunktbereiche können neben Pflichtveranstaltungen auch Wahlpflichtveranstaltungen umfassen.<sup>4</sup> Außerdem können auch über den Umfang von Satz 1 hinaus bis zu zwei Semesterwochenstunden besondere Lehrveranstaltungen zur interdisziplinären Ergänzung zur Pflicht gemacht werden. 5Die Schwerpunktbereiche und die zugehörigen Rechtsgebiete ergeben sich aus der **Anlage** und aus der Studienordnung. 
 
 ## **§ 2** 
 
 ## **Akademischer Grad; Zeugnis** 
 
-1Aufgrund der bestandenen Ersten Juristischen Prüfung wird der akademische Grad „Diplom-Jurist Univ.“ beziehungsweise „Diplom-Juristin Univ.“ verliehen, wenn beide der in § 3 Satz 3 genannten Prüfungsleistungen mit mindestens „ausreichend“ (4,00 Punkte) bewertet worden sind.[2] Auf Antrag wird der akademische Grad an Absolventinnen in männlicher Form verliehen.[3] Darüber wird von der Universität ein Zeugnis ausgestellt, das die Prüfungsgesamtnote der Ersten Juristischen Prüfung und der Juristischen Universitätsprüfung sowie den Schwerpunktbereich ausweist. 
+1Aufgrund der bestandenen Ersten Juristischen Prüfung wird der akademische Grad „Diplom-Jurist Univ.“ beziehungsweise „Diplom-Juristin Univ.“ verliehen, wenn beide der in § 3 Satz 3 genannten Prüfungsleistungen mit mindestens „ausreichend“ (4,00 Punkte) bewertet worden sind.<sup>2</sup> Auf Antrag wird der akademische Grad an Absolventinnen in männlicher Form verliehen.<sup>3</sup> Darüber wird von der Universität ein Zeugnis ausgestellt, das die Prüfungsgesamtnote der Ersten Juristischen Prüfung und der Juristischen Universitätsprüfung sowie den Schwerpunktbereich ausweist. 
 
 ## **§ 3** 
 
 ## **Studiendauer, Gliederung des Studiums und der Prüfungen** 
 
-1Das Studium im Schwerpunktbereich findet im Rahmen des Rechtswissenschaftlichen Studiums statt. ²Es dauert in der Regel vier Fachsemester.[3] Die Juristische Universitätsprüfung besteht aus einer studienbegleitenden wissenschaftlichen Arbeit und einer mündlichen Prüfung als studienabschließender Leistung. 
+1Das Studium im Schwerpunktbereich findet im Rahmen des Rechtswissenschaftlichen Studiums statt. ²Es dauert in der Regel vier Fachsemester.<sup>3</sup> Die Juristische Universitätsprüfung besteht aus einer studienbegleitenden wissenschaftlichen Arbeit und einer mündlichen Prüfung als studienabschließender Leistung. 
 
 ## **§ 3a Anerkennung ausländischer Prüfungen** 
 
-1Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studien- und prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit franco-allemand“ wird auf Antrag gemäß § 43 der Ausbildungs- und Prüfungsordnung für Juristen als Juristische Universitätsprüfung anerkannt.[2] Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung.[3] In der Bescheinigung nach § 4 Abs. 3 wird als Schwerpunktbereich „Deutsch-Französisches Recht“ angegeben. 
+1Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studien- und prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit franco-allemand“ wird auf Antrag gemäß § 43 der Ausbildungs- und Prüfungsordnung für Juristen als Juristische Universitätsprüfung anerkannt.<sup>2</sup> Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung.<sup>3</sup> In der Bescheinigung nach § 4 Abs. 3 wird als Schwerpunktbereich „Deutsch-Französisches Recht“ angegeben. 
 
 ## **§ 4 Bewertung der Prüfungsleistungen, Gesamtnote und Gesamtnote der Ersten Juristischen Prüfung** 
 
@@ -62,43 +62,43 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 2 
 
-(2)[1] Aus den Einzelnoten wird eine Prüfungsgesamtnote gebildet.[2] Dazu werden die beiden Einzelnoten zusammengezählt und die Summe durch zwei geteilt.[3] Die Notenbezeichnung der Gesamtnote richtet sich nach § 2 Abs. 2 der in Abs. 1 genannten Verordnung.[4] Die Juristische Universitätsprüfung ist nicht bestanden, wenn die Prüfungsgesamtnote schlechter ist als „ausreichend“ (4,00 Punkte). 
+(2)<sup>1</sup> Aus den Einzelnoten wird eine Prüfungsgesamtnote gebildet.<sup>2</sup> Dazu werden die beiden Einzelnoten zusammengezählt und die Summe durch zwei geteilt.<sup>3</sup> Die Notenbezeichnung der Gesamtnote richtet sich nach § 2 Abs. 2 der in Abs. 1 genannten Verordnung.<sup>4</sup> Die Juristische Universitätsprüfung ist nicht bestanden, wenn die Prüfungsgesamtnote schlechter ist als „ausreichend“ (4,00 Punkte). 
 
-(3)[1] Über die bestandene Prüfung wird eine Bescheinigung ausgestellt, die die Bezeichnung des Schwerpunktbereiches und die Prüfungsgesamtnote nach Notenstufe und Punktwert ausweist. ²Ist die Prüfung nicht bestanden, wird dies dem Prüfling schriftlich mitgeteilt. 
+(3)<sup>1</sup> Über die bestandene Prüfung wird eine Bescheinigung ausgestellt, die die Bezeichnung des Schwerpunktbereiches und die Prüfungsgesamtnote nach Notenstufe und Punktwert ausweist. ²Ist die Prüfung nicht bestanden, wird dies dem Prüfling schriftlich mitgeteilt. 
 
-(4)[1] Das Prüfungsamt übersendet dem Landesjustizprüfungsamt nach Ablegung der Juristischen Universitätsprüfung einen Originalabdruck der Bescheinigung über die Prüfungsgesamtnote der Juristischen Universitätsprüfung zur Anfertigung des Zeugnisses gemäß § 17 Abs. 1 Satz 4 JAPO durch das Landesjustizprüfungsamt.[2] Ist die Juristische Universitätsprüfung endgültig nicht bestanden, so übersendet das Prüfungsamt an das Landesjustizprüfungsamt einen Originalabdruck des Bescheids über das Nichtbestehen der Juristischen Universitätsprüfung. 
+(4)<sup>1</sup> Das Prüfungsamt übersendet dem Landesjustizprüfungsamt nach Ablegung der Juristischen Universitätsprüfung einen Originalabdruck der Bescheinigung über die Prüfungsgesamtnote der Juristischen Universitätsprüfung zur Anfertigung des Zeugnisses gemäß § 17 Abs. 1 Satz 4 JAPO durch das Landesjustizprüfungsamt.<sup>2</sup> Ist die Juristische Universitätsprüfung endgültig nicht bestanden, so übersendet das Prüfungsamt an das Landesjustizprüfungsamt einen Originalabdruck des Bescheids über das Nichtbestehen der Juristischen Universitätsprüfung. 
 
 ## **§ 5 Studienbegleitende wissenschaftliche Arbeit** 
 
-(1)[ 1] Die studienbegleitende wissenschaftliche Arbeit wird im Rahmen eines Seminars im Schwerpunktbereich, das durch einen Prüfer geleitet wird, angefertigt.[2] Sie ist im Seminar mündlich zu referieren und zur Diskussion zu stellen. 
+(1)<sup>1</sup> Die studienbegleitende wissenschaftliche Arbeit wird im Rahmen eines Seminars im Schwerpunktbereich, das durch einen Prüfer geleitet wird, angefertigt.<sup>2</sup> Sie ist im Seminar mündlich zu referieren und zur Diskussion zu stellen. 
 
-(2)[ 1] Der Student hat sich zum Seminar, in dem er seine studienbegleitende wissenschaftliche Arbeit anfertigen möchte, anzumelden.[2] Damit legt er seinen Schwerpunktbereich fest.[3] Jeder Student kann sich nicht zu mehr als einem Seminar im Sinne von Satz 1 anmelden.[4] Ein Wechsel des Seminars und des Schwerpunktbereichs ist nur vor der Ausgabe des Themas der studienbegleitenden wissenschaftlichen Arbeit gemäß Abs. 3 und bei gleichzeitiger Anmeldung zu einem anderen Seminar zulässig.[5] Die Meldung nach Satz 1 soll am Ende des vierten Fachsemesters für ein Seminar im sechsten Fachsemester oder am Ende des fünften Fachsemesters für ein Seminar im siebenten Fachsemester erfolgen.[6] Die Fristen für die Anmeldung zu den angebotenen Seminaren werden rechtzeitig in der ortsüblichen Weise bekannt gegeben. 
+(2)<sup>1</sup> Der Student hat sich zum Seminar, in dem er seine studienbegleitende wissenschaftliche Arbeit anfertigen möchte, anzumelden.<sup>2</sup> Damit legt er seinen Schwerpunktbereich fest.<sup>3</sup> Jeder Student kann sich nicht zu mehr als einem Seminar im Sinne von Satz 1 anmelden.<sup>4</sup> Ein Wechsel des Seminars und des Schwerpunktbereichs ist nur vor der Ausgabe des Themas der studienbegleitenden wissenschaftlichen Arbeit gemäß Abs. 3 und bei gleichzeitiger Anmeldung zu einem anderen Seminar zulässig.<sup>5</sup> Die Meldung nach Satz 1 soll am Ende des vierten Fachsemesters für ein Seminar im sechsten Fachsemester oder am Ende des fünften Fachsemesters für ein Seminar im siebenten Fachsemester erfolgen.<sup>6</sup> Die Fristen für die Anmeldung zu den angebotenen Seminaren werden rechtzeitig in der ortsüblichen Weise bekannt gegeben. 
 
-(3)[ 1] Die Ausgabe des Themas für die studienbegleitende wissenschaftliche Arbeit setzt in der Regel das Bestehen der Zwischenprüfung voraus.[2] Über Ausnahmen entscheidet auf Antrag der Prüfungsausschuss. 
+(3)<sup>1</sup> Die Ausgabe des Themas für die studienbegleitende wissenschaftliche Arbeit setzt in der Regel das Bestehen der Zwischenprüfung voraus.<sup>2</sup> Über Ausnahmen entscheidet auf Antrag der Prüfungsausschuss. 
 
-(4)[1] Die Bearbeitungszeit beträgt vier Wochen. ²Sie kann in begründeten Ausnahmefällen durch den Prüfungsausschuss auf bis zu sechs Wochen verlängert werden. ³Sie beginnt mit der Ausgabe des Themas durch den Seminarleiter.[4] Das Datum der Ausgabe ist aktenkundig zu machen und dem Vorsitzenden des Prüfungsausschusses mitzuteilen.[5] Wird die Arbeit nicht innerhalb der Bearbeitungszeit beim Prüfungsamt eingereicht, so gilt sie als angefertigt und mit der Note „ungenügend“ (0 Punkte) bewertet.[6] Wird die Einhaltung der Bearbeitungszeit aus vom Bearbeiter nicht zu vertretenden Gründen unmöglich, kann der Vorsitzende des Prüfungsausschusses sie auf Antrag verlängern.[7] Die Gründe sind unverzüglich schriftlich beim Vorsitzenden 
+(4)<sup>1</sup> Die Bearbeitungszeit beträgt vier Wochen. ²Sie kann in begründeten Ausnahmefällen durch den Prüfungsausschuss auf bis zu sechs Wochen verlängert werden. ³Sie beginnt mit der Ausgabe des Themas durch den Seminarleiter.<sup>4</sup> Das Datum der Ausgabe ist aktenkundig zu machen und dem Vorsitzenden des Prüfungsausschusses mitzuteilen.<sup>5</sup> Wird die Arbeit nicht innerhalb der Bearbeitungszeit beim Prüfungsamt eingereicht, so gilt sie als angefertigt und mit der Note „ungenügend“ (0 Punkte) bewertet.<sup>6</sup> Wird die Einhaltung der Bearbeitungszeit aus vom Bearbeiter nicht zu vertretenden Gründen unmöglich, kann der Vorsitzende des Prüfungsausschusses sie auf Antrag verlängern.<sup>7</sup> Die Gründe sind unverzüglich schriftlich beim Vorsitzenden 
 
 3 
 
-des Prüfungsausschusses geltend und glaubhaft zu machen.[8] Bei Krankheit ist ein ärztliches Attest vorzulegen; der Vorsitzende des Prüfungsausschusses kann in Zweifelsfällen die Vorlage eines Attestes eines von ihm benannten Arztes oder eines Amtsarztes verlangen.[9] In besonderen Fällen, wie beispielsweise einer Krankheit von langer Dauer, kann der Vorsitzende des Prüfungsausschusses im Benehmen mit dem Seminarleiter entscheiden, dass ein anderes Thema ausgegeben oder dass die studienbegleitende Arbeit in einem anderen Seminar angefertigt wird. 
+des Prüfungsausschusses geltend und glaubhaft zu machen.<sup>8</sup> Bei Krankheit ist ein ärztliches Attest vorzulegen; der Vorsitzende des Prüfungsausschusses kann in Zweifelsfällen die Vorlage eines Attestes eines von ihm benannten Arztes oder eines Amtsarztes verlangen.<sup>9</sup> In besonderen Fällen, wie beispielsweise einer Krankheit von langer Dauer, kann der Vorsitzende des Prüfungsausschusses im Benehmen mit dem Seminarleiter entscheiden, dass ein anderes Thema ausgegeben oder dass die studienbegleitende Arbeit in einem anderen Seminar angefertigt wird. 
 
-(5)[ 1] Die Arbeit ist in schriftlicher Form und als elektronische Datei einzureichen.[2] Sie darf 100.000 (einhunderttausend) Zeichen einschließlich Leerzeichen nicht überschreiten.[3] Deckblatt, Literaturverzeichnis, Abkürzungsverzeichnis und Gliederung werden dabei nicht mitgezählt.[4] Darüber hinausgehender Text gilt als nicht geschrieben.[5] Der Seminarleiter kann hiervon Ausnahmen zulassen, die bei Mitteilung der Ausgabe nach Abs. 4 Satz 4 anzuzeigen sind. 
+(5)<sup>1</sup> Die Arbeit ist in schriftlicher Form und als elektronische Datei einzureichen.<sup>2</sup> Sie darf 100.000 (einhunderttausend) Zeichen einschließlich Leerzeichen nicht überschreiten.<sup>3</sup> Deckblatt, Literaturverzeichnis, Abkürzungsverzeichnis und Gliederung werden dabei nicht mitgezählt.<sup>4</sup> Darüber hinausgehender Text gilt als nicht geschrieben.<sup>5</sup> Der Seminarleiter kann hiervon Ausnahmen zulassen, die bei Mitteilung der Ausgabe nach Abs. 4 Satz 4 anzuzeigen sind. 
 
-(6)[ 1] Die Arbeit ist beim Prüfungsamt einzureichen, das sie an den Seminarleiter zur Bewertung weiterleitet.[2] Der Abgabezeitpunkt ist aktenkundig zu machen.[3] Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten Quellen und die schriftliche Versicherung beizufügen, dass er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat.[4] Alle Ausführungen der Arbeit, die wörtlich oder sinngemäß übernommen wurden, sind als solche zu bezeichnen. 
+(6)<sup>1</sup> Die Arbeit ist beim Prüfungsamt einzureichen, das sie an den Seminarleiter zur Bewertung weiterleitet.<sup>2</sup> Der Abgabezeitpunkt ist aktenkundig zu machen.<sup>3</sup> Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten Quellen und die schriftliche Versicherung beizufügen, dass er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat.<sup>4</sup> Alle Ausführungen der Arbeit, die wörtlich oder sinngemäß übernommen wurden, sind als solche zu bezeichnen. 
 
-(7)[1] Die studienbegleitende wissenschaftliche Arbeit wird in der Regel vom Seminarleiter bewertet.[2] Eine mit „mangelhaft“ oder „ungenügend“ (0 bis 3 Punkte) bewertete Arbeit ist von zwei Prüfern zu bewerten.[3] Können sich die Prüfer im Fall einer Zweitbewertung nicht auf eine Prüfungsnote einigen, ist die Prüfungsleistung einem dritten Prüfer zum Stichentscheid vorzulegen. 
+(7)<sup>1</sup> Die studienbegleitende wissenschaftliche Arbeit wird in der Regel vom Seminarleiter bewertet.<sup>2</sup> Eine mit „mangelhaft“ oder „ungenügend“ (0 bis 3 Punkte) bewertete Arbeit ist von zwei Prüfern zu bewerten.<sup>3</sup> Können sich die Prüfer im Fall einer Zweitbewertung nicht auf eine Prüfungsnote einigen, ist die Prüfungsleistung einem dritten Prüfer zum Stichentscheid vorzulegen. 
 
 ## **§ 6 Mündliche Prüfung** 
 
 (1) Die mündliche Prüfung erstreckt sich auf den Kernbereich des jeweiligen Schwerpunktbereichs sowie die Rechtsgebiete der vom Prüfling im Wahlpflichtbereich gewählten Lehrveranstaltungen. 
 
-(2)[1] Die mündliche Prüfung kann als Einzelprüfung oder in Gruppen bis zu fünf Prüflingen durchgeführt werden ²Die Prüfungsdauer beträgt für jeden Prüfling etwa zwanzig Minuten. 
+(2)<sup>1</sup> Die mündliche Prüfung kann als Einzelprüfung oder in Gruppen bis zu fünf Prüflingen durchgeführt werden ²Die Prüfungsdauer beträgt für jeden Prüfling etwa zwanzig Minuten. 
 
-(3)[1] Zur mündlichen Prüfung ist ein Beisitzer zuziehen. ²Über sie ist eine Niederschrift anzufertigen. 
+(3)<sup>1</sup> Zur mündlichen Prüfung ist ein Beisitzer zuziehen. ²Über sie ist eine Niederschrift anzufertigen. 
 
-(4)[1] Die mündliche Prüfung kann im unmittelbaren Anschluss an die mündliche Prüfung der ersten Juristischen Staatsprüfung stattfinden. ²Die Termine für die Meldung werden für jeden Prüfungsdurchgang ortsüblich bekannt gemacht. 
+(4)<sup>1</sup> Die mündliche Prüfung kann im unmittelbaren Anschluss an die mündliche Prüfung der ersten Juristischen Staatsprüfung stattfinden. ²Die Termine für die Meldung werden für jeden Prüfungsdurchgang ortsüblich bekannt gemacht. 
 
-(5)[1] Zur mündlichen Prüfung wird zugelassen, wer: 
+(5)<sup>1</sup> Zur mündlichen Prüfung wird zugelassen, wer: 
 
 1. zur mündlichen Prüfung der Ersten Juristischen Staatsprüfung zugelassen ist und 
 
@@ -108,33 +108,33 @@ des Prüfungsausschusses geltend und glaubhaft zu machen.[8] Bei Krankheit ist e
 
 2Zugelassen wird abweichend von Satz 1 Nr. 1 auch, wer zum schriftlichen Teil der Ersten Juristischen Staatsprüfung zugelassen ist, an der er gemäß § 37 JAPO im Freiversuch teilnimmt; Satz 1 Nr. 2 bleibt unberührt. 
 
-(6)[1] Bei Säumnis oder Rücktritt nach Zulassung gilt die mündliche Prüfung als abgelegt und mit der Note „ungenügend“ (0 Punkte) bewertet; für die Ladung, die Durchführung, den Ausschluss von der Teilnahme, Verhinderung und Unzumutbarkeit der Teilnahme sind die Regelungen der JAPO für die mündliche Prüfung in der Ersten Juristischen Staatsprüfung sinngemäß anzuwenden. ²An die Stelle der Prüfungskommission für die mündliche Prüfung der Ersten Juristischen Staatsprüfung und deren vorsitzendes Mitglied tritt der Prüfer. ³Im Übrigen ist für die Durchführung der Prüfung und für Entscheidungen im Prüfungsverfahren der Prüfungsausschuss zuständig. 
+(6)<sup>1</sup> Bei Säumnis oder Rücktritt nach Zulassung gilt die mündliche Prüfung als abgelegt und mit der Note „ungenügend“ (0 Punkte) bewertet; für die Ladung, die Durchführung, den Ausschluss von der Teilnahme, Verhinderung und Unzumutbarkeit der Teilnahme sind die Regelungen der JAPO für die mündliche Prüfung in der Ersten Juristischen Staatsprüfung sinngemäß anzuwenden. ²An die Stelle der Prüfungskommission für die mündliche Prüfung der Ersten Juristischen Staatsprüfung und deren vorsitzendes Mitglied tritt der Prüfer. ³Im Übrigen ist für die Durchführung der Prüfung und für Entscheidungen im Prüfungsverfahren der Prüfungsausschuss zuständig. 
 
 ## **§ 7** 
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Durchführung der Prüfungen wird ein Prüfungsausschuss eingesetzt.[2] Er wacht darüber, dass die Bestimmungen der Prüfungsordnung eingehalten werden. ³Er trifft die Entscheidungen im Prüfungsverfahren, soweit nichts anderes bestimmt ist.[4] Der Prüfungsausschuss besteht aus drei Mitgliedern, die vom Fachbereichsrat der Juristischen Fakultät gewählt werden.[5] Zu Mitgliedern können nur Professoren der Juristischen Fakultät der Universität Erlangen-Nürnberg gewählt werden.[6] Der Ausschuss wählt den Vorsitzenden.[7] Die anderen Mitglieder sind seine Stellvertreter. 
+(1)<sup>1</sup> Für die Durchführung der Prüfungen wird ein Prüfungsausschuss eingesetzt.<sup>2</sup> Er wacht darüber, dass die Bestimmungen der Prüfungsordnung eingehalten werden. ³Er trifft die Entscheidungen im Prüfungsverfahren, soweit nichts anderes bestimmt ist.<sup>4</sup> Der Prüfungsausschuss besteht aus drei Mitgliedern, die vom Fachbereichsrat der Juristischen Fakultät gewählt werden.<sup>5</sup> Zu Mitgliedern können nur Professoren der Juristischen Fakultät der Universität Erlangen-Nürnberg gewählt werden.<sup>6</sup> Der Ausschuss wählt den Vorsitzenden.<sup>7</sup> Die anderen Mitglieder sind seine Stellvertreter. 
 
-(2)[1] Die Amtszeit der Mitglieder beträgt drei Jahre.[2] Eine Wiederbestellung ist möglich. 
+(2)<sup>1</sup> Die Amtszeit der Mitglieder beträgt drei Jahre.<sup>2</sup> Eine Wiederbestellung ist möglich. 
 
-(3)[1] Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen. 2Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
+(3)<sup>1</sup> Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen. 2Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
 
-(4)[1] Der Vorsitzende ist befugt, an Stelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[2] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.[3] Darüber hinaus kann der Prüfungsausschuss dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(4)<sup>1</sup> Der Vorsitzende ist befugt, an Stelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>2</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.<sup>3</sup> Darüber hinaus kann der Prüfungsausschuss dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
-(5)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Widerspruchsbescheide werden vom Rektor im Benehmen mit dem Prüfungsausschuss und den zuständigen Prüfern erlassen. 
+(5)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.<sup>3</sup> Widerspruchsbescheide werden vom Rektor im Benehmen mit dem Prüfungsausschuss und den zuständigen Prüfern erlassen. 
 
 (6) Dem Prüfungsausschuss ist eine Geschäftsstelle (Prüfungsamt der Universität) zugeordnet. 
 
 ## **§ 8 Prüfer** 
 
-(1)[ 1] Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.[2] Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.[3] Ein kurzfristig vor Beginn 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.<sup>2</sup> Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.<sup>3</sup> Ein kurzfristig vor Beginn 
 
 5 
 
-der Prüfung notwendiger Wechsel des Prüfers ist zulässig.[4] Scheidet ein prüfungsberechtigtes Mitglied aus der Universität aus, so bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+der Prüfung notwendiger Wechsel des Prüfers ist zulässig.<sup>4</sup> Scheidet ein prüfungsberechtigtes Mitglied aus der Universität aus, so bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
-(2)[1] Zu Prüfern können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung vom 22. Februar 2000 (GVBl S. 67, BayRS 2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Prüfungen Befugten bestellt werden.[2] Zum Beisitzer kann bestellt werden, wer der Juristischen Fakultät als Mitarbeiter angehört und mindestens die Erste Juristische Prüfung bestanden hat. ³Beisitzer kann ferner jeder Prüfer der ersten juristischen Staatsprüfung sein. 
+(2)<sup>1</sup> Zu Prüfern können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung vom 22. Februar 2000 (GVBl S. 67, BayRS 2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Prüfungen Befugten bestellt werden.<sup>2</sup> Zum Beisitzer kann bestellt werden, wer der Juristischen Fakultät als Mitarbeiter angehört und mindestens die Erste Juristische Prüfung bestanden hat. ³Beisitzer kann ferner jeder Prüfer der ersten juristischen Staatsprüfung sein. 
 
 ## **§ 9** 
 
@@ -148,21 +148,21 @@ der Prüfung notwendiger Wechsel des Prüfers ist zulässig.[4] Scheidet ein pr�
 
 ## **Anrechnung von Studien- und Prüfungsleistungen** 
 
-(1)[1] Lehrveranstaltungen und studienbegleitende wissenschaftliche Arbeiten, die in einem Schwerpunktbereichsstudium an einer Juristischen Fakultät innerhalb des Geltungsbereichs des Deutschen Richtergesetzes erbracht wurden, werden bei Gleichwertigkeit angerechnet.[2] Lehrveranstaltungen und studienbegleitende wissenschaftliche Arbeiten sind gleichwertig, wenn sie nach Inhalt, Umfang und Anforderungen denjenigen des Schwerpunktbereichsstudiums an der Juristischen Fakultät der Universität Erlangen-Nürnberg im Wesentlichen entsprechen.[3] Bei der Anrechnung von Lehrveranstaltungen und Prüfungsleistungen, die außerhalb der Bundesrepublik Deutschland erbracht wurden, sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulkooperationsvereinbarungen maßgebend.[4] Bei Zweifeln an der Gleichwertigkeit von im Ausland erbrachten Leistungen kann die Zentralstelle für das ausländische Bildungswesen gehört werden. 
+(1)<sup>1</sup> Lehrveranstaltungen und studienbegleitende wissenschaftliche Arbeiten, die in einem Schwerpunktbereichsstudium an einer Juristischen Fakultät innerhalb des Geltungsbereichs des Deutschen Richtergesetzes erbracht wurden, werden bei Gleichwertigkeit angerechnet.<sup>2</sup> Lehrveranstaltungen und studienbegleitende wissenschaftliche Arbeiten sind gleichwertig, wenn sie nach Inhalt, Umfang und Anforderungen denjenigen des Schwerpunktbereichsstudiums an der Juristischen Fakultät der Universität Erlangen-Nürnberg im Wesentlichen entsprechen.<sup>3</sup> Bei der Anrechnung von Lehrveranstaltungen und Prüfungsleistungen, die außerhalb der Bundesrepublik Deutschland erbracht wurden, sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulkooperationsvereinbarungen maßgebend.<sup>4</sup> Bei Zweifeln an der Gleichwertigkeit von im Ausland erbrachten Leistungen kann die Zentralstelle für das ausländische Bildungswesen gehört werden. 
 
-(2)[1] Für Studienzeiten, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien gilt Abs. 1 entsprechend.[2] Art. 81 Abs. 3 Satz 5 BayHSchG ist zu beachten. 
+(2)<sup>1</sup> Für Studienzeiten, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien gilt Abs. 1 entsprechend.<sup>2</sup> Art. 81 Abs. 3 Satz 5 BayHSchG ist zu beachten. 
 
 (3) Die Entscheidungen nach den Absätzen 1 und 2 trifft der Vorsitzende des Prüfungsausschusses, über einen Antrag auf Abhilfe entscheidet der Prüfungsausschuss. 
 
 ## **§ 11 Täuschung, Ordnungsverstoß** 
 
-(1)[ 1] Versucht der Kandidat, das Ergebnis einer Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vorteil zu beeinflussen, wird seine Prüfungsleistung mit „ungenügend“ (0 Punkte) bewertet. 
+(1)<sup>1</sup> Versucht der Kandidat, das Ergebnis einer Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vorteil zu beeinflussen, wird seine Prüfungsleistung mit „ungenügend“ (0 Punkte) bewertet. 
 
 6 
 
-2Das gleiche gilt, wenn die studienbegleitende wissenschaftliche Arbeit nicht oder nicht allein vom Kandidaten angefertigt wird.[3] Auch der Besitz nicht zugelassener Hilfsmittel führt zur Bewertung der Prüfungsleistung mit "ungenügend" (0 Punkte), sofern der Kandidat nicht nachweisen kann, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht.[4] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann vom jeweiligen Prüfer von der Fortsetzung der Prüfung ausgeschlossen werden; in diesem Fall wird die betreffende Prüfung mit „ungenügend“ (0 Punkte) bewertet. 
+2Das gleiche gilt, wenn die studienbegleitende wissenschaftliche Arbeit nicht oder nicht allein vom Kandidaten angefertigt wird.<sup>3</sup> Auch der Besitz nicht zugelassener Hilfsmittel führt zur Bewertung der Prüfungsleistung mit "ungenügend" (0 Punkte), sofern der Kandidat nicht nachweisen kann, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht.<sup>4</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann vom jeweiligen Prüfer von der Fortsetzung der Prüfung ausgeschlossen werden; in diesem Fall wird die betreffende Prüfung mit „ungenügend“ (0 Punkte) bewertet. 
 
-(2)[ 1] Belastende Entscheidungen nach Abs. 1 sind dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der Kandidat kann innerhalb eines Monats verlangen, dass die Entscheidung vom Vorsitzenden des Prüfungsausschusses überprüft wird. 
+(2)<sup>1</sup> Belastende Entscheidungen nach Abs. 1 sind dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Der Kandidat kann innerhalb eines Monats verlangen, dass die Entscheidung vom Vorsitzenden des Prüfungsausschusses überprüft wird. 
 
 ## **§ 12** 
 
@@ -178,9 +178,9 @@ der Prüfung notwendiger Wechsel des Prüfers ist zulässig.[4] Scheidet ein pr�
 
 ## **Wiederholung der Prüfungsleistungen und Freiversuch** 
 
-(1)[1] Prüfungsleistungen, die schlechter als mit „ausreichend“ (4,00 Punkte) bewertet wurden, können je einmal wiederholt werden. ²Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht möglich. 
+(1)<sup>1</sup> Prüfungsleistungen, die schlechter als mit „ausreichend“ (4,00 Punkte) bewertet wurden, können je einmal wiederholt werden. ²Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht möglich. 
 
-(2)[1] Wer spätestens sechs Monate nach Abschluss des schriftlichen Teils der Ersten Juristischen Staatsprüfung, an der er gemäß § 37 JAPO im Freiversuch teilgenommen hat, alle vorgesehenen Prüfungsleistungen der Juristischen Universitätsprüfung mindestens einmal vollständig abgelegt hat, kann die mündliche Prüfung abweichend von Abs. 1 innerhalb eines Jahres ein weiteres Mal wiederholen. ²Der Prüfungsausschuss stellt in diesem Fall sicher, dass die mündliche Prüfung in dem in Satz 1 bezeichneten Zeitraum stattfindet. 
+(2)<sup>1</sup> Wer spätestens sechs Monate nach Abschluss des schriftlichen Teils der Ersten Juristischen Staatsprüfung, an der er gemäß § 37 JAPO im Freiversuch teilgenommen hat, alle vorgesehenen Prüfungsleistungen der Juristischen Universitätsprüfung mindestens einmal vollständig abgelegt hat, kann die mündliche Prüfung abweichend von Abs. 1 innerhalb eines Jahres ein weiteres Mal wiederholen. ²Der Prüfungsausschuss stellt in diesem Fall sicher, dass die mündliche Prüfung in dem in Satz 1 bezeichneten Zeitraum stattfindet. 
 
 ## **§ 14 Nachteilsausgleich, Mutterschutz, Elternzeit** 
 
@@ -196,15 +196,15 @@ geldgesetz – BErzGG) in der Fassung der Bekanntmachung vom 7. Dezember 2001 (B
 
 ## **Zeitpunkt der Abschlussprüfung** 
 
-(1)[1] Die Kandidaten haben sich unmittelbar im Anschluss an das Studium der mündlichen Prüfung zu unterziehen.[2] Die Meldefrist wird jeweils Amts üblich bekannt gemacht.[3] Zwischen dem Ende der Meldefrist und der mündlichen Prüfung müssen mindestens zwei Wochen liegen.[4] Die Kandidaten sollen die Prüfung nach dem Vorlesungsschluss des neunten Semesters ablegen. 
+(1)<sup>1</sup> Die Kandidaten haben sich unmittelbar im Anschluss an das Studium der mündlichen Prüfung zu unterziehen.<sup>2</sup> Die Meldefrist wird jeweils Amts üblich bekannt gemacht.<sup>3</sup> Zwischen dem Ende der Meldefrist und der mündlichen Prüfung müssen mindestens zwei Wochen liegen.<sup>4</sup> Die Kandidaten sollen die Prüfung nach dem Vorlesungsschluss des neunten Semesters ablegen. 
 
-(2)[1] Wird die mündliche Prüfung nicht spätestens nach dem Vorlesungsschluss des 13. Semesters abgelegt, so gilt die mündliche Abschlussprüfung als abgelegt und mit 0 Punkten bewertet.[2] Dasselbe gilt, wenn die Erste Juristische Staatsprüfung nicht spätestens nach dem Vorlesungsschluss des zwölften Semesters abgelegt wird.[3] Im übrigen ist § 26 Abs. 2 JAPO sinngemäß anzuwenden. 
+(2)<sup>1</sup> Wird die mündliche Prüfung nicht spätestens nach dem Vorlesungsschluss des 13. Semesters abgelegt, so gilt die mündliche Abschlussprüfung als abgelegt und mit 0 Punkten bewertet.<sup>2</sup> Dasselbe gilt, wenn die Erste Juristische Staatsprüfung nicht spätestens nach dem Vorlesungsschluss des zwölften Semesters abgelegt wird.<sup>3</sup> Im übrigen ist § 26 Abs. 2 JAPO sinngemäß anzuwenden. 
 
 ## **§ 16 In-Kraft-Treten** 
 
 (1) Diese Prüfungsordnung tritt mit Wirkung vom 1. Oktober 2003 in Kraft. 
 
-(2)[1] Sie gilt für Studenten, die ihr Studium im Studiengang Rechtswissenschaft mit dem Abschluss Erste Juristische Prüfung ab dem Wintersemester 2003/2004 aufnehmen.[2] Sie gilt ferner für Studenten, die ihr Studium vor dem Wintersemester 2003/2004 aufgenommen haben, aber nicht bis spätestens zum Termin 2006/2 erstmals zur Ersten Juristischen Staatsprüfung zugelassen werden. 
+(2)<sup>1</sup> Sie gilt für Studenten, die ihr Studium im Studiengang Rechtswissenschaft mit dem Abschluss Erste Juristische Prüfung ab dem Wintersemester 2003/2004 aufnehmen.<sup>2</sup> Sie gilt ferner für Studenten, die ihr Studium vor dem Wintersemester 2003/2004 aufgenommen haben, aber nicht bis spätestens zum Termin 2006/2 erstmals zur Ersten Juristischen Staatsprüfung zugelassen werden. 
 
 8 
 
@@ -230,7 +230,17 @@ Diese Schwerpunktbereiche umfassen folgende Inhalte und Lehrveranstaltungen:
 
 ## **1. Kernbereich** 
 
-- Im Schwerpunktbereich „Wirtschaftsrecht“ hat der Student teilzunehmen an: - einer Übung zu den Grundlagen des Wirtschaftsrechts 2 Semesterwochenstunden - einer Übung zum Kartellrecht 2 Semesterwochenstunden - einer Lehrveranstaltung zum Insolvenzrecht 2 Semesterwochenstunden - einer Lehrveranstaltung zum Kapitalgesellschaftsrecht 2 Semesterwochenstunden 
+Im Schwerpunktbereich „Wirtschaftsrecht“ hat der Student teilzunehmen an: 
+
+- einer Übung zu den Grundlagen des Wirtschaftsrechts 
+
+- einer Übung zum Kartellrecht 
+
+- einer Lehrveranstaltung zum Insolvenzrecht 
+
+- einer Lehrveranstaltung zum Kapitalgesellschaftsrecht 
+
+2 Semesterwochenstunden 2 Semesterwochenstunden 2 Semesterwochenstunden 2 Semesterwochenstunden 
 
 ## **2. Wahlpflichtbereich** 
 
@@ -272,11 +282,7 @@ SCHWERPUNKTBEREICH 2: „INTERNATIONALES UND EUROPÄISCHES RECHT“
 
 Im Schwerpunktbereich „Internationales und Europäisches Recht“ hat der Student teilzunehmen an: 
 
-- einer Übung zur Rechtsvergleichung mit mindestens 2 Semesterwochenstunden 
-
-- einer Lehrveranstaltung zum Internationalen Privatrecht mit mindestens 
-
-- mindestens 2 Semesterwochenstunden 
+- einer Übung zur Rechtsvergleichung mit mindestens 2 Semesterwochenstunden - einer Lehrveranstaltung zum Internationalen Privatrecht mit mindestens 2 Semesterwochenstunden 
 
 - - einer Übung zum Europarecht (Vertiefung) mit mindestens 2 Semesterwochenstunden 
 
@@ -320,9 +326,13 @@ SCHWERPUNKTBEREICH 3: UNTERNEHMENS- UND ARBEITSORDNUNG
 
 Im Schwerpunktbereich „Unternehmens- und Arbeitsordnung“ hat der Student teilzunehmen an: 
 
-- einer Übung zum Individualarbeitsrecht mit mindestens 2 Semesterwochenstunden 
+- einer Übung zum Individualarbeitsrecht mit mindestens 
 
-- einer Lehrveranstaltung zum kollektiven Arbeitsrecht I (Koalitions-, Tarifvertrags- und Arbeitskampfrecht) mit mindestens 
+      - 2 Semesterwochenstunden 
+
+- einer Lehrveranstaltung zum kollektiven Arbeitsrecht I (Koalitions-, 
+
+   - Tarifvertrags- und Arbeitskampfrecht) mit mindestens 
 
       - 2 Semesterwochenstunden 
 
@@ -330,11 +340,13 @@ Im Schwerpunktbereich „Unternehmens- und Arbeitsordnung“ hat der Student tei
 
    - und unternehmerische Mitbestimmung) mit mindestens 
 
-2 Semesterwochenstunden 
-
 - einer Lehrveranstaltung zum Kapitalgesellschaftsrecht mit mindestens 
 
-mit mindestens 2 Semesterwochenstunden - einer Lehrveranstaltung zum Insolvenzrecht mit mindestens  2 Semesterwochenstunden 
+   - 2 Semesterwochenstunden 
+
+   - 2 Semesterwochenstunden 
+
+- einer Lehrveranstaltung zum Insolvenzrecht mit mindestens  2 Semesterwochenstunden 
 
 ## **2. Wahlpflichtbereich** 
 
@@ -376,9 +388,15 @@ SCHWERPUNKTBEREICH 4: Grundlagen des Rechts
 
 ## **1. Kernbereich** 
 
-- Im Schwerpunktbereich „Grundlagen des Rechts“ hat der Student teilzunehmen an:[ 1] - einer Übung zum Römischen Privatrecht mit mindestens 2 Semesterwochenstunden - einer rechtsgeschichtlichen Exegese (Übung) mit mindestens 2 Semesterwochenstunden 
+Im Schwerpunktbereich „Grundlagen des Rechts“ hat der Student teilzunehmen an:<sup>1</sup> 
 
-- einer Lehrveranstaltung zur Privatrechtsgeschichte der Neuzeit mit mindestens 2 Semesterwochenstunden 
+- einer Übung zum Römischen Privatrecht mit mindestens 2 Semesterwochenstunden 
+
+- einer rechtsgeschichtlichen Exegese (Übung) mit mindestens 2 Semesterwochenstunden 
+
+- einer Lehrveranstaltung zur Privatrechtsgeschichte der Neuzeit 
+
+   - mit mindestens 2 Semesterwochenstunden 
 
 - einer Lehrveranstaltung zur Rechtsphilosophie II (Vertiefung) mit mindestens 2 Semesterwochenstunden 
 
@@ -486,21 +504,21 @@ SCHWERPUNKTBEREICH 6: KRIMINALWISSENSCHAFTEN
 
 ## **1. Kernbereich** 
 
-- Im Schwerpunktbereich „Kriminalwissenschaften“ hat der Student teilzunehmen an: - einer Übung zur Kriminologie mit mindestens 
+Im Schwerpunktbereich „Kriminalwissenschaften“ hat der Student teilzunehmen an: 
 
-      - 2 Semesterwochenstunden 2 Semesterwochenstunden 2 Semesterwochenstunden 
+- einer Übung zur Kriminologie mit mindestens 
 
 - einer Übung im Strafprozessrecht mit mindestens 
 
 - einer Lehrveranstaltung zur Kriminologie mit mindestens 
 
-- einer Lehrveranstaltung zu den strafrechtlichen Sanktionen 
-
-   - (Vertiefung) mit mindestens 
+- einer Lehrveranstaltung zu den strafrechtlichen Sanktionen (Vertiefung) mit mindestens 
 
 - einer Lehrveranstaltung zum Jugendstrafrecht mit mindestens 
 
 - einer Lehrveranstaltung zum Wirtschaftsstrafrecht mit mindestens 
+
+   - 2 Semesterwochenstunden 2 Semesterwochenstunden 2 Semesterwochenstunden 
 
    - 2 Semesterwochenstunden 
 
@@ -516,7 +534,7 @@ Zur interdisziplinären Ergänzung der Schwerpunktausbildung muss der Student zu
 
 - Rechtsmedizin 
 
-- forensischer Psychiatrie 
+- - forensischer Psychiatrie 
 
 - Prognose der Gefährlichkeit 
 

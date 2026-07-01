@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/FPO MA-Kunstvermittlung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:31:54+00:00
-page_count_chars: 7820
+scraped_at: 2026-07-01T09:43:57+00:00
+page_count_chars: 7640
 ---
 
 # PDF vom 18.07.2014
@@ -28,9 +28,9 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Masterstud
 
 ## **und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist ein Bachelorabschluss im Umfang von 180 ECTSPunkten, davon mindestens 70 ECTS-Punkte aus der Fachwissenschaft, in den Studiengängen Freie Kunst, Medienkunst, Graphik-Design, Produktdesign, Kunstpädagogik oder in einem vergleichbaren bildnerisch-künstlerischen Studiengang.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden insbesondere Zwei-Fach-, Drei-Fach-Bachelorabschlüsse, Diplomabschlüsse, Magisterabschlüsse, Fachhochschulabschlüsse und ausländische Studienabschlüsse im Bereich Kunst anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist ein Bachelorabschluss im Umfang von 180 ECTSPunkten, davon mindestens 70 ECTS-Punkte aus der Fachwissenschaft, in den Studiengängen Freie Kunst, Medienkunst, Graphik-Design, Produktdesign, Kunstpädagogik oder in einem vergleichbaren bildnerisch-künstlerischen Studiengang.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden insbesondere Zwei-Fach-, Drei-Fach-Bachelorabschlüsse, Diplomabschlüsse, Magisterabschlüsse, Fachhochschulabschlüsse und ausländische Studienabschlüsse im Bereich Kunst anerkannt. 
 
-(2)[1] Die Bewerbungsunterlagen für den Masterstudiengang Kunstvermittlung sind bis zum 15. August eines jeden Jahres zum nachfolgenden Wintersemester am Lehrstuhl für Kunstpädagogik der Friedrich-Alexander-Universität Erlangen-Nürnberg einzureichen.[2] Dem Bewerbungsantrag sind beizufügen: 
+(2)<sup>1</sup> Die Bewerbungsunterlagen für den Masterstudiengang Kunstvermittlung sind bis zum 15. August eines jeden Jahres zum nachfolgenden Wintersemester am Lehrstuhl für Kunstpädagogik der Friedrich-Alexander-Universität Erlangen-Nürnberg einzureichen.<sup>2</sup> Dem Bewerbungsantrag sind beizufügen: 
 
 1. ein Nachweis über den Hochschulabschluss gemäß § 35 Abs. 1 Nr. 1 ABMStPO/Phil (Zeugnis, Transcript of Records, Diploma Supplement oder vergleichbare Dokumente) bzw. ein Transcript of Records oder eine Notenbescheinigung über die besten 140 ECTS-Punkte im Falle des § 35 Abs. 4 ABMStPO/Phil, 
 
@@ -44,7 +44,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Masterstud
 
 5. ein Lebenslauf, in dem die künstlerischen und pädagogischen Erfahrungen dargestellt sind. 
 
-(3)[1] Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,50 und besser wird allein aufgrund der schriftlichen Unterlagen Zugang zum Masterstudium gewährt.[2] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet zusätzlich ein Auswahlgespräch statt, sowie für Bewerberinnen und Bewerber fachverwandter Abschlüsse im Sinne des § 35 Abs. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00.[3] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.. 
+(3)<sup>1</sup> Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,50 und besser wird allein aufgrund der schriftlichen Unterlagen Zugang zum Masterstudium gewährt.<sup>2</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet zusätzlich ein Auswahlgespräch statt, sowie für Bewerberinnen und Bewerber fachverwandter Abschlüsse im Sinne des § 35 Abs. 1 i. V. m. Abs. 2 ABMStPO/Phil mit einer Note von 1,00 bis 3,00.<sup>3</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.. 
 
 Im Auswahlgespräch werden die Bewerberinnen bzw. der Bewerber nach folgenden gleichgewichteten Kriterien beurteilt: 
 
@@ -66,27 +66,25 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage: Studienverlaufsplan Masterstudiengang Kunstvermittlung** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Art und Umfang der Prüfung /Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||||||||Punkten|||||
-||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Erziehungswissenschaftliche**<br>**Grundlagen**<br>**(Importmodul)**|Nach Maßgabe des Faches|||||10|10||||Nach Maßgabe des Faches|1|
-|**Geschichte und Analyse der künst-**<br>**lerischen Medien**<br>**(Importmodul)**|Nach Maßgabe des Faches|||||10|10||||Nach Maßgabe des Faches|1|
-|**Biographie und Kunstpädagogik**|Kunstpädagogische<br>Forschung||||2|10|2||||Reflexion in Bild und Text (ca. 10 S., 100 %) zum<br>Seminar „Biographie und Kunstpädagogik“|1|
-||Biographie und<br>Kunstpädagogik||||2||8||||||
-|**Künstlerisches Handeln**|Exkursion|||5||10||10|||Dokumentation des eigenen künstlerischen<br>Prozesses(ca. 10 S.,100 %)|1|
-|**Kunstpädagogisches Projekt**|Projekt||||3|10||8|||Reflexion in Bild und Text (ca. 10 S., 100 %) zum<br>kunstpädagogischen Projekt|1|
-||Praktikumsvorbereitung||||1|||2|||||
-|**Grundlagen der Psychologie für**<br>**Nichtpsychologen**<br>**(Importmodul)**|Nach Maßgabe des Faches|||||10||10|||Nach Maßgabe des Faches|1|
-|**Praktikum**|Praktikum|||8||10|||10||Reflexion in Bild und Text (ca. 10 S., 100 %) zum<br>Praktikum|1|
-|**Der Mensch im Spiegel des künst-**<br>**lerischen Handelns**|Vorlesung|2||||10|||2||Reflexion in Bild und Text (ca. 10 S., 100 %) zur<br>Verknüpfung von Kunst, Pädagogik und Psycho-<br>logie|1|
-||Oberseminar||||2||||2||||
-||Ästhetisches Handeln von<br>Kindern, Jugendlichen und<br>Erwachsenen||1||||||6||||
-|**Methoden der empirischen Bil-**<br>**dungsforschung**<br>**(Importmodul)**|Nach Maßgabe des Faches|||||10|||10||Nach Maßgabe des Faches|1|
-|**Masterarbeit**|Masterarbeit|||||30||||30|Masterarbeit (40 S., 90 %) und mündliche Prü-<br>fung (20 Min.,10 %)|1|
-|Summe SWS:||2|1|13|10|120|30|30|30|30|||
+|||||Gesamt|Workload|-Verteilung|pro Semester in ECTS-||Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P|S|ECTS|1.|Pun<br>2.|kten<br>3.<br>4.|Art und Umfang der Prüfung /Studienleistung|Modul-<br>note|
+|**Erziehungswissenschaftliche**<br>**Grundlagen**|Nach Maßgabe des Faches|||10|10|||Nach Maßgabe des Faches|1|
+|**(Importmodul)**||||||||||
+|**Geschichte und Analyse der künst-**<br>**lerischen Medien**<br>**(Importmodul)**|Nach Maßgabe des Faches|||10|10|||Nach Maßgabe des Faches|1|
+||Kunstpädagogische<br>Forschung||2||2|||Reflexion in Bild und Text (ca. 10 S., 100 %) zum||
+|**Biographie und Kunstpädagogik**|Biographie und<br>Kunstpädagogik||2|10|8|||Seminar „Biographie und Kunstpädagogik“|1|
+|**Künstlerisches Handeln**|Exkursion|5||10||10||Dokumentation des eigenen künstlerischen<br>Prozesses(ca. 10 S.,100 %)|1|
+|**Ktädih Pkt**|Projekt||3|10||8||Reflexion in Bild und Text (ca. 10 S., 100 %) zum|1|
+|**unspagogsces roje**|Praktikumsvorbereitung||1|||2||kunstpädagogischen Projekt||
+|**Grundlagen der Psychologie für**<br>**Nichtpsychologen**<br>**(Importmodul)**|Nach Maßgabe des Faches|||10||10||Nach Maßgabe des Faches|1|
+|**Praktikum**|Praktikum|8||10|||10|Reflexion in Bild und Text (ca. 10 S., 100 %) zum<br>Praktikum|1|
+||Vorlesung|2|||||2|||
+|**Der Mensch im Sieel des künst-**|Oberseminar||2||||2|Reflexion in Bild und Text (ca. 10 S., 100 %) zur||
+|**pg**<br>**lerischen Handelns**|Ästhetisches Handeln von<br>Kindern, Jugendlichen und<br>Erwachsenen|1||10|||6|Verknüpfung von Kunst, Pädagogik und Psycho-<br>logie|1|
+|**Methoden der empirischen Bil-**<br>**dungsforschung**<br>**(Importmodul)**|Nach Maßgabe des Faches|||10|||10|Nach Maßgabe des Faches|1|
+|**Masterarbeit**|Masterarbeit|||30|||30|Masterarbeit (40 S., 90 %) und mündliche Prü-<br>fung (20 Min.,10 %)|1|
+|Summe S|WS:|2<br>1<br>13|10|120|30|30|30<br>30|||
 
 3 
 

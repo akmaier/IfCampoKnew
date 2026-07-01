@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-PrO-Wipaed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:00+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:53:57+00:00
+page_count_chars: 15969
 ---
 
 # 4. November 2003
@@ -12,580 +12,151 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-PrO-Wipaed.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Satzung zur Anderung von Priifungsordnungen der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Universitat Erlangen-Nurnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+( 
 
-### OCR Seite 1
+i . 
 
-```
-1.
-Die Diplomprüfungsordnung für Studenten der Betriebswirtschaftsiehre an der
-Wirtschafts- und
-Sozialwissenschaftlichen
-Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg vom 25. November 1988 (KWMBI
-II 1989 S.
-30), zuletzt geändert durch Satzung vom 28. Oktober 2002 (KWMBi II 2003 S.
-\
-1659), wird wie folgt geändert:
-a)
-In 8 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die
-Zahl "50" durch die Zahl "45" ersetzt.
-b) In 8 25 Abs. 3 Satz
-1 wird der Punkt durch ein Semikolon ersetzt und
-folgender Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-c)In 8 31 wird nach Absatz 6 folgender Absatz angefügt:
-„(7) "Der Wechsel des Prüfungsfaches ist bis zur erstmaligen Ablegung der
-letzten
-Teilprüfung des
-bisher gewählten
-Prüfungsfaches
-zulässig.
-°Der
-Wechsel
-ist dem
-Prüfungsamt
-schriftiich
-zu
-erklären.
-°Die
-bisher
-im
-gewechselten
-Prüfungsfach
-erzielten
-Prüfungsergebnisse
-verfallen,
-Maluspunkte bleiben erhalten. *Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4.“
-d) In 8 32 Abs. 1 wird folgender Satz angefügt:
-„Ist
-nach
-Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-{
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplomprüfung
-i
-dennoch bestanden, wenn die Fachnote gemäß & 14 Abs. 2 wenigstens
-„ausreichend“ lautet.“
-e) In der Anlage Il erhält Nr. 3 folgende Fassung:
-"3. Einführung in die betriebliche
-5
-Informationsverarbeitung
-a) Theorie der
-60
-3
-Informationsverarbeitung
-b) Prakt. Anwendungen der
-45
-2
-Informationsverarbeitung
-"
-2.
-Die Diplomprüfungsordnung für Studenten der Volkswirtschaftsiehre an der
-Wirtschafts- und
-Sozialwissenschaftlichen
-Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg vom 25. November 1988 (KWMBI
-II 1989 S.
-37), zuletzt geändert durch Satzung vom 28. Oktober 2002 (KWMBi II 2003 S.
-1660), wird wie folgt geändert:
-1
-```
+# Vom 4. November 2003 
 
-### OCR Seite 2
+Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 und Art. 86 a des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nirnberg folgende Anderungssatzung: 
 
-```
-d) In 8 32 Abs. 1 wird folgender Satz angefügt:
-„Ist
-nach
-Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so
-ist die Diplomprüfung
-dennoch bestanden, wenn die Fachnote gemäß 8 14 Abs. 2 wenigstens
-.
-„ausreichend“ lautet.“
-\
-e) In der Anlage Il erhält Nr. 3 folgende Fassung:
-"3. Einführung in die betriebliche
-5
-Informationsverarbeitung
-a) Theorie der
-60
-3
-Informationsverarbeitung
-b) Prakt. Anwendungen der
-45
-2
-Informationsverarbeitung
-"
-3.
-Die Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der
-Wirtschafts- und
-Sozialwissenschaftlichen
-Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg vom 27. Dezember 1999 (KWMBl
-II 2000 S.
-706), zuletzt geändert durch Satzung vom 28. Oktober 2002 (KWMBI
-II 2003
-S. 1662) wird wie folgt geändert:
-a) In 8 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl
-"50" durch die Zahl "45" ersetzt.
-{
-b) In & 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und
-.
-folgender Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-c)In 8 31 wird nach Absatz 6 folgender Absatz angefügt:
-„(7) 'Der Wechsel des Prüfungsfaches ist bis zur erstmaligen Ablegung der
-letzten
-Teilprüfung des bisher gewählten
-Prüfungsfaches
-zulässig.
-°Der
-Wechsel
-ist dem
-Prüfungsamt
-schriftlich
-zu
-erklären.
-°Die
-bisher
-im
-gewechselten
-Prüfungsfach
-erzielten
-Prüfungsergebnisse
-verfallen,
-Maluspunkte bleiben erhalten. “Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4.“
-d) In 8 32 Abs. 1 wird folgender Satz angefügt:
-„Ist
-nach
-Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so
-ist die Diplomprüfung
-dennoch bestanden, wenn die Fachnote gemäß 8 14 Abs. 2 wenigstens
-„ausreichend“ lautet.“
-2
-```
+## §1 
 
-### OCR Seite 3
+Die nachfolgend aufgeflihrten Diplompriifungsordnungen werden wie folgt geandert: 
 
-```
-1656), wird wie folgt geändert:
-a) 8 22 wird wie folgt geändert:
-aa) In Absatz 1 Nr. 2 wird angefügt:
-"d) Finanzmathematik"
-\
-bb)In Absatz 1 entfällt Nr. 3; die Nrn. 4 bis 8 werden zu Nrn. 3 bis 7.
-cc)In Absatz 2 Satz 2 werden die Worte "in den Teilprüfungen Grundzüge
-der Betriebswirtschaftslehre
-II und Grundzüge der Informatik jeweils
-eine
-Klausur
-von
-180
-Minuten"
-ersetzt
-durch
-die
-Worte
-"in
-der
-Teilprüfung Grundzüge der Betriebswirtschaftslehre
-Il eine Klausur von
-180 Minuten und
-in der Teilprüfung Grundzüge der Informatik zwei
-Klausuren von jeweils 90 Minuten,"
-b) In & 25 Abs. 3 Satz
-1 wird der Punkt durch ein Semikolon ersetzt und
-folgender Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-c)In 8 31 wird nach Absatz 5 folgender Absatz angefügt:
-„(6) "Der Wechsel des Prüfungsfaches ist bis zur erstmaligen Ablegung der
-letzten
-Teilprüfung des bisher gewählten
-Prüfungsfaches_
-zulässig. ’Der
-Wechsel
-ist dem
-Prüfungsamt
-schriftlich
-zu
-erklären. Die
-bisher
-im
-gewechselten
-Prüfungsfach
-erzielten
-Prüfungsergebnisse
-verfallen,
-{
-Maluspunkte bleiben erhalten. *Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4."
-d) In & 32 Abs. 1 wird folgender Satz angefügt:
-„Ist
-nach
-Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so
-ist die Diplomprüfung
-dennoch bestanden, wenn die Fachnote gemäß 8 14 Abs. 2 wenigstens
-„ausreichend“ lautet.“
-e) In der Anlage | wird nach "52. Software Engineering" angefügt "*)".
-f) Die Anlage Il erhält folgende Fassung:
-```
+1. Die Diplompriifungsordnung fur Studenten der Betriebswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-Nurnberg vom 25. November 1988 (KWMBI Il 1989 S. 30), zuletzt geandert durch Satzung vom 28. Oktober 2002 (KWMBI II 2003 S. 1659), wird wie folgt geandert: 
 
-### OCR Seite 4
+   - a) In § 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl "50" durch die Zahi "45" ersetzt. 
 
-```
-a) Theorie der
-60
-3
-Informationsverarbeitung
-b) Prakt. Anwendungen der 45
-2
-”
-Informationsverarbeitung
-|
-c) Formale Grundlagen der
-90
-A
-Wirtschaftsinformatik
-d) Finanzmathematik
-90
-2
-3. Grundzüge der
-18
-Betriebswirtschaftslehre
-a) Grundzüge der
-Betriebswirtschaftsiehre I
-60
-45
-b) Grundzüge der
-Betriebswirtschaftsiehre Il
-18°
-13,5
-4. Grundzüge der
-15
-Volkswirtschaftslehre
-a) Grundzüge der
-Volkswirtschaftsiehre |
-120
-78
-b) Grundzüge der
-Volkswirtschaftslehre Il
-120
-75
-5
-5. Die wirtschaftlich
-wesentlichen Teile des
-9
-privaten Rechts oder des
-öffentlichen Rechts
-a) Privates Recht
-120
-9
-b) Öffentliches Recht
-120
-9
-6. Grundzüge der Statistik
-12
-a) Statistik I
-120
-6
-b) Statistik Il
-120
-6
-7. Grundzüge der Informatik
-16
-Algorithmik
-|
-90
-8
-Algorithmik Il
-90
-8
-Summe:
-89
-4
-```
+   - b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefigt: ,der Student gilt zum nachsten regularen Priifungstermin als zur Wiederholungsprifung angemeldet.“ c) In § 31 wird nach Absatz 6 folgender Absatz angeftgt: (7) ‘Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprifung des bisher gewahlten Prufungsfaches zulassig. *Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. 3Die bisher im gewechselten Priifungsfach erzielten Prifungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4." dq) In § 32 Abs. 1 wird folgender Satz angefiigt: » Ist nach Ausschépfung aller Wiederholungsmdglichkeiten lediglich eine Teilpriifung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplomprtifung dennoch bestanden, wenn die Fachnote gemaR § 14 Abs. 2 wenigstens ,ausreichend* lautet.“ 
 
-### OCR Seite 5
+   - e) In der Anlage Il erhalt Nr. 3 folgende Fassung: 
 
-```
-Maluspunkte bleiben erhalten. “Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4."
-c) In8 32 Abs. 1 wird folgender Satz angefügt:
-„Ist
-nach
-Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-\
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so
-ist die Diplomprüfung
-dennoch bestanden, wenn die Fachnote gemäß 8 14 Abs. 2 wenigstens
-„ausreichend“ lautet.“
-6.
-8 25 der Prüfungsordnung für den Diplomstudiengang Wirtschaftsmathematik
-an der Naturwissenschaftlichen Fakultät
-| (Mathematik und Physik) und der
-Wirtschafts- und Sozialwissenschaftlichen
-Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg vom 22. Oktober 2002 (KWMBI
-II 2003 S.
-1500) wird wie folgt geändert:
-In Absatz 2 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender
-Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-7.
-Die Prüfungsordnung für den Diplom- und Masterstudiengang Internationale
-Betriebswirtschaftslehre
-(International
-Business)
-der
-Wirtschafts-
-und
-;
-Sozialwissenschaftiichen
-Fakultät
-der
-Friedrich-Alexander-Universität
-Erlangen-Nürnberg vom 29. Januar 1998 (KWMBI
-II S. 583), zuletzt geändert
-durch
-Satzung
-der
-Friedrich-Alexander-Universität
-Erlangen-Nürnberg
-zur
-Anpassung der Prüfungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches
-Hochschulgesetz (BayHSchG) vom 12. April 2002 (KWMBI
-Il 2003 S. 1232),
-wird wie folgt geändert:
-a)
-In 8 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die
-Zahl "50" durch die Zahl "45" ersetzt.
-b) In 8 25 Abs. 3 Satz
-1 wird der Punkt durch ein Semikolon ersetzt und
-folgender Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-c)In 8 31 wird nach Absatz 5 folgender Absatz angefügt:
-„(6) "Der Wechsel des Prüfungsfaches ist bis zur erstmaligen Ablegung der
-letzten Teilprüfung des
-bisher gewählten
-Prüfungsfaches
-zulässig.
-°Der
-Wechsel
-ist dem
-Prüfungsamt
-schriftlich
-zu
-erklären.
-®Die
-bisher
-im
-gewechselten
-Prüfungsfach
-erzielten
-Prüfungsergebnisse
-verfallen,
-Maluspunkte bleiben erhalten. *Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4."
->
-```
+   - "3. Einfuhrung in die betriebliche 5 
 
-### OCR Seite 6
+Informationsverarbeitung 
 
-```
-8.
-Die
-Diplomprüfungsordnung
-für
-den
-Studiengang
-Internationale
-Volkswirtschaftsiehre
-an
-der
-Wirtschafts-
-und
-Sozialwissenschaftlichen
-Fakultät
-der
-Friedrich-Alexander-Universität
-Erlangen-Nürnberg
-vom
-9.
-Oktober 2000 (KWMBI II 2001 S. 222), zuletzt geändert durch Satzung vom
-\
-28. Oktober 2002 (KWMBI II 2003 S. 1661), wird wie folgt geändert:
-a)In8& 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl
-"50" durch die Zahl "45" ersetzt.
-b) In 8 25 Abs. 3 Satz
-1 wird der Punkt durch ein Semikolon ersetzt und
-folgender Halbsatz angefügt:
-„der
-Student
-gilt
-zum
-nächsten
-regulären
-Prüfungstermin
-als
-zur
-Wiederholungsprüfung angemeldet.“
-c) In 8 31 wird nach Absatz 5 folgender Absatz angefügt:
-„(6) 'Der Wechsel des Prüfungsfaches ist bis zur erstmaligen Ablegung der
-letzten
-Teilprüfung des
-bisher gewählten
-Prüfungsfaches
-zulässig.
-’Der
-Wechsel
-ist dem
-Prüfungsamt
-schriftlich
-zu
-erklären.
-°Die
-bisher
-im
-gewechselten
-Prüfungsfach
-erzielten
-Prüfungsergebnisse
-verfallen,
-Maluspunkte bleiben erhalten. *Der Wechsel des Prüfungsfaches ist kein vom
-Studenten nicht zu vertretender Grund im Sinne des 8 4 Abs. 4.“
-4 In 8 32 Abs. 1 wird folgender Satz angefügt:
-„Ist nach Ausschöpfung
-aller Wiederholungsmöglichkeiten
-lediglich
-eine
-{
-Teilprüfung mit 4,3 (nicht ausreichend) bewertet, so
-ist die Diplomprüfung
-dennoch bestanden, wenn die Fachnote gemäß & 14 Abs. 2 wenigstens
-„ausreichend“ lautet.“
-e) In der Anlage Il erhält Nr. 3 folgende Fassung:
-"3. Einführung in die betriebliche
-5
-Informationsverarbeitung
-a) Theorie der
-60
-3
-Informationsverarbeitung
-b) Prakt. Anwendungen der
-45
-2
-Informationsverarbeitung
-"
-9.
-Die
-Prüfungsordnung
-für
-die
-Abschlussprüfung
-im
-Aufbaustudiengang
-Internationale
-Wirtschafts-
-und
-Entwicklungspolitik
-an
-der
-Universität
-Erlangen-Nürnberg (Postgraduiertenstudiengang) vom 28. Mai 1998 (KWMBI
-II S. 957), zuletzt geändert durch Satzung vom 15. Mai 2002 (KWMBI
-II 2003
-S. 617), wird wie folgt geändert:
-6
-```
+a) Theorie der 60 3 Informationsverarbeitung b) Prakt. Anwendungen der 45 2 Informationsverarbeitung " 
 
-### OCR Seite 7
+2. Die Diplomprifungsordnung flr Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-Nuirnberg vom 25. November 1988 (KWMBI II 1989 S. 37), zuletzt geandert durch Satzung vom 28. Oktober 2002 (KWMBI II 2003 S. 1660), wird wie folgt geandert: 
 
-```
-Wiederholungsprüfung angemeldet.“
-{
-82
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-
-Nürnberg vom
-18. Dezember 2002 und
-der Genehmigung des Bayerischen
-Staatsministeriums für Wissenschaft, Forschung und Kunst mit Schreiben vom 24.
-Oktober 2003 Nr. X/4-5e66a(3)-10b/695.
-Erlangen, den 4. November 2003
+1 
+
+; ( 
+
+i : 
+
+a) In § 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl "50" durch die Zahl "45" ersetzt. b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefigt: ,der Student gilt zum nachsten regularen Priifungstermin als zur Wiederholungsprifung angemeldet.“ c) In § 31 wird nach Absatz 5 folgender Absatz angefigt: (6) ‘Der Wechsel des Prifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprufung des bisher gewahlten Priifungsfaches zulassig. *Der Wechsel ist dem Priifungsamt schriftlich zu erklaren. °Die bisher im gewechselten Prifungsfach erzielten Prifungsergebnisse — verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4." d) In § 32 Abs. 1 wird folgender Satz angeflgt: » Ist nach Ausschépfung aller Wiederholungsmdglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplomprifung dennoch bestanden, wenn die Fachnote gemak § 14 Abs. 2 wenigstens ,»ausreichend" lautet.“ e) In der Anlage Il erhalt Nr. 3 folgende Fassung: "3. Einfuhrung in die betriebliche 5 Informationsverarbeitung a) Theorie der 60 3 Informationsverarbeitung b) Prakt. Anwendungen der 45 2 Informationsverarbeitung " 3. Die Diplomprifungsordnung fir Studenten der Wirtschaftspadagogik an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-Nirnberg vom 27. Dezember 1999 (KWMBI II 2000 S. 706), zuletzt geandert durch Satzung vom 28. Oktober 2002 (KWMBI Il 2003 S. 1662) wird wie folgt geandert: 
+
+a) In § 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl "50" durch die Zahl "45" ersetzt. b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefigt: ,der Student gilt zum nachsten regularen Priifungstermin als zur Wiederholungspriifung angemeldet." c) In § 31 wird nach Absatz 6 folgender Absatz angefugt: (7) ‘Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprifung des bisher gewahliten Priifungsfaches zulassig. *Der Wechsel ist dem Priifungsamt schriftlich zu erklaren. °Die bisher im gewechselten Priifungsfach erzielten Prufungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4.“ d) In § 32 Abs. 1 wird folgender Satz angeftgt: » Ist nach Ausschépfung aller Wiederholungsméglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplomprifung dennoch bestanden, wenn die Fachnote gemaf& § 14 Abs. 2 wenigstens ,ausreichend" lautet.“ 
+
+2 
+
+; 
+
+e) In der Anlage Il erhalt Nr. 3 folgende Fassung: 
+
+"3. Einfuhrung in die betriebliche 5 Informationsverarbeitung a) Theorie der 60 3 Informationsverarbeitung b) Prakt. Anwendungen der 45 2 Informationsverarbeitung " 
+
+4. Die Diplompriifungsordnung fiir Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-Nurnberg vom 5. September 1991 (KWMBI Il S. 814), zuletzt geandert durch Satzung vom 24. Oktober 2002 (KWMBI I] 2003 S. 1656), wird wie folgt geandert: 
+
+   - a) § 22 wird wie folgt geandert: 
+
+      - aa) In Absatz 1 Nr. 2 wird angeftit: 
+
+"d) Finanzmathematik" 
+
+- bb)In Absatz 1 entfallt Nr. 3; die Nrn. 4 bis 8 werden zu Nrn. 3 bis 7. cc)In Absatz 2 Satz 2 werden die Worte “in den Teilprufungen Grundzuge der Betriebswirtschaftslehre Il und Grundztige der Informatik jeweils eine Klausur von 180 Mlnuten” ersetzt durch die Worte “in der Teilprifung Grundztige der Betriebswirtschaftslehre Il eine Klausur von 180 Minuten und in der Teilpriifung Grundzlge der Informatik zwei Klausuren von jeweils 90 Minuten," 
+
+b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angeftct: 
+
+,der Student gilt zum nachsten regularen Prifungstermin als zur Wiederholungsprufung angemeldet.“ c) In § 31 wird nach Absatz 5 folgender Absatz angefigt: ,(6) 'Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprufung des bisher gewahlten Priifungsfaches zulassig. *Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. °Die bisher im gewechselten Priifungsfach_ erzielten Priifungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4." d) In § 32 Abs. 1 wird folgender Satz angefigt: , lst nach Ausschépfung aller Wiederholungsméglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplomprtfung dennoch bestanden, wenn die Fachnote gemafS& § 14 Abs. 2 wenigstens ,ausreichend lautet.* 
+
+e) In der Anlage | wird nach "52. Software Engineering” angeftigt "*)”. f) Die Anlage II erhalt folgende Fassung: 
+
+a . 
+
+: 
+
+## "Anlage II: Struktur der Diplomvorpriifung 
+
+|Facherder<br>Di<br>.<br>iplomvorpriifung|Klausur-<br>Priifungsdauer<br>(in Minuten)|Kredi|tpunkte|
+|---|---|---|---|
+|1. Betriebswirtschaftslehre -<br>Rechnungswesen|||8|
+|a) Kostenrechnung|90|4||
+|b) Buchfiihrung|90|4||
+|2. Einfihrung in die||||
+|betriebliche|||11|
+|informationsverarbeitung||||
+|a) Theorie der<br>Informationsverarbeitung|60|3||
+|b) Prakt. Anwendungen der<br>.<br>:<br>Informationsverarbeitung|45|2||
+|c) Formale Grundlagen der<br>Wirtschaftsinformatik|90|4||
+|d) Finanzmathematik|90|2||
+|3. Grundziige der<br>Betriebswirtschaftslehre|||48|
+|a) Grundziige der<br>Betriebswirtschaftslehre ||60|4,9||
+|b) Grundztge der<br>Betriebswirtschaftslehre 11|1°|13,8||
+|4. Grundziigeder<br>Volkswirtschaftslehre|||415|
+|a) Grundziige der<br>Volkswirtschaftslehre ||120|a9||
+|b) Grundziige der<br>Volkswirtschaftslehre II|120|78||
+|5. Die wirtschaftlich||||
+|wesentlichen Teile des<br>privaten Rechts oderdes<br>offentlichen Rechts|||9|
+|a) Privates Recht|120|9||
+|b) Offentliches Recht|120|9||
+|6. Grundztige der Statistik|||12|
+|a) Statistik ||120|6||
+|b) Statistik Il|120|6||
+|7. Grundziige der Informatik|||16|
+|Algorithmik<br>||90|8°||
+|Algorithmik II|90|8||
+|Summe:|||89|
+
+4 
+
+\ 
+
+i 
+
+5. Die Diplompriifungsordnung fiir Studenten der Sozialwissenschaften an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-Nirnberg vom 25. November 1988 (KWMBI Il 1989 S. 43), zuletzt geandert durch Satzung vom 28. Oktober 2002 (KWMBI Il 2003 S. 1660), wird wie folgt geandert: a) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angeftgt: ,der Student gilt zum nachsten regularen Prtifungstermin als zur Wiederholungspriifung angemeldet.“ b) In § 31 wird nach Absatz 6 foilgender Absatz angefiigt: i) ‘Der Wechsel des Prufungsfaches ist bis zur erstmaligen Ablegung der letzten Teilpriifung des bisher gewahlten Prifungsfaches zuldssig. *Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. *Die bisher im gewechselten Prifungsfach_ erzielten Priifungsergebnisse — verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Pruifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4." c) In § 32 Abs. 1 wird folgender Satz angefict: » Ist nach Ausschdpfung aller Wiederholungsméglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplompriifung dennoch bestanden, wenn die Fachnote gema& § 14 Abs. 2 wenigstens ,ausreichend* lautet.* 
+
+6. § 25 der Priifungsordnung fir den Diplomstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultat | (Mathematik und Physik) und der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-AlexanderUniversitat Erlangen-NUrnberg vom 22. Oktober 2002 (KWMBI II 2003 S. 1500) wird wie folgt geandert: In Absatz 2 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefiigt: ,der Student gilt zum nachsten regularen Prifungstermin als zur Wiederholungsprifung angemeldet.“ 
+
+7. Die Prifungsordnung fiir den Diplom- und Masterstudiengang Internationale Betriebswirtschaftslehre (International Business) der Wirtschaftsund Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 29. Januar 1998 (KWMBI Il S. 583), zuletzt geandert durch Satzung der Friedrich-Alexander-Universitat Erlangen-Nuirnberg zur Anpassung der Priifungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG) vom 12. April 2002 (KWMBI Il 2003 S. 1232), wird wie folgt geandert: a) In § 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahl "60" und die Zahl "50" durch die Zahl "45" ersetzt. 
+
+b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefugt: ,der Student gilt zum ndachsten regularen Priifungstermin als zur Wiederholungsprufung angemeldet.“ c)In § 31 wird nach Absatz 5 folgender Absatz angefigt: ,(6) ‘Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprufung des bisher gewahlten Priifungsfaches zulassig. *Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. °Die bisher im gewechselten Prifungsfach erzielten Priifungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4." 
+
+> 
+
+( 
+
+( 
+
+d) In § 32 Abs. 1 wird folgender Satz angeftigt: , Ist nach Ausschdépfung aller Wiederholungsméglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplompriifung dennoch bestanden, wenn die Fachnote gemaR § 14 Abs. 2 wenigstens ,ausreichend* lautet.“ e) In § 39 Abs. 1 Satz 3 wird die Zahl "5" durch die Zahl "6" ersetzt. f) In der Anlage Il erhalt Nr. 3 folgende Fassung: "3. Einfahrung in die betriebliche 5 Informationsverarbeitung a) Theorie der 60 3 Informationsverarbeitung b) Prakt. Anwendungen der 45 2 Informationsverarbeitung " 
+
+8. Die Diplomprifungsordnung fir den Studiengang Internationale Volkswirtschaftslehre an der Wirtschaftsund Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-NUrnberg vom 9. Oktober 2000 (KWMBI II 2001 S. 222), zuletzt geandert durch Satzung vom 28. Oktober 2002 (KWMBI Il 2003 S. 1661), wird wie folgt geandert: a) In § 22 Abs. 2 Satz 2 werden die Zahl "45" durch die Zahli "60" und die Zahl "50" durch die Zahl "45" ersetzt. b) In § 25 Abs. 3 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefiigt: ,der Student gilt zum nachsten regularen Priifungstermin als zur Wiederholungsprufung angemeldet." c) In § 31 wird nach Absatz 5 folgender Absatz angeftgt: (6) 'Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprufung des bisher gewahlten Prufungsfaches zulassig. *Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. “Die bisher im gewechselten Prifungsfach erzielten Priifungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Priifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 4.“ d) In § 32 Abs. 1 wird folgender Satz angefiigt: » Ist nach Ausschépfung aller Wiederholungsmdglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Diplompriifung dennoch bestanden, wenn die Fachnote gemaR § 14 Abs. 2 wenigstens ,ausreichend" lautet.“ 
+
+e) In der Anlage Il erhalt Nr. 3 folgende Fassung: "3. Einféhrung in die betriebliche 5 Informationsverarbeitung a) Theorie der 60 3 Informationsverarbeitung b) Prakt. Anwendungen der 45 2 Informationsverarbeitung " 
+
+9. Die Priifungsordnung flr die Abschlussprifung im Aufbaustudiengang Internationale Wirtschaftsund Entwicklungspolitik an der Universitat Erlangen-Nurnberg (Postgraduiertenstudiengang) vom 28. Mai 1998 (KWMBI Il S. 957), zuletzt geandert durch Satzung vom 15. Mai 2002 (KWMBI II 2003 S. 617), wird wie folgt geandert: 
+
+6 
+
+( 
+
+: 
+
+a) In § 23 wird nach Absatz 4 folgender Absatz angefit: ,(5) ‘Der Wechsel des Priifungsfaches ist bis zur erstmaligen Ablegung der letzten Teilprifung des bisher gewahlten Priifungsfaches zulassig. “Der Wechsel ist dem Prifungsamt schriftlich zu erklaren. °Die bisher im gewechselten Priifungsfach erzielten Priifungsergebnisse _ verfallen, Maluspunkte bleiben erhalten. “Der Wechsel des Prifungsfaches ist kein vom Studenten nicht zu vertretender Grund im Sinne des § 4 Abs. 3.“ b) In § 24 Abs. 1 wird folgender Satz angefit: » Ist nach Ausschépfung aller Wiederholungsméglichkeiten lediglich eine Teilprufung mit 4,3 (nicht ausreichend) bewertet, so ist die Abschlussprifung dennoch bestanden, wenn die Fachnote gemaf& § 14 Abs. 2 wenigstens ,ausreichend* lautet.“ c) In § 25 Abs. 2 Satz 1 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angeftgt: der Student gilt zum nachsten regularen Priifungstermin als zur Wiederholungspriifung angemeldet." 
+
+§2 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat ErlangenNurnberg vom 18. Dezember 2002 und der Genehmigung des Bayerischen Staatsministeriums flr Wissenschaft, Forschung und Kunst mit Schreiben vom 24. Oktober 2003 Nr. X/4-5e66a(3)-10b/695. 
+
+Erlangen, den 4. November 2003 
 [Kontaktperson entfernt]
-i
-Rektor
-Die Satzung wurde am 4. November 2003 in der Universität Erlangen-Nürnberg
-niedergelegt; die Niederlegung wurde am 4. November 2003 durch Anschlag in
-der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung
-ist der 4. November 2003.
-7
-```
+Die Satzung wurde am 4. November 2003 in der Universitat Erlangen-Nirnberg niedergelegt; die Niederlegung wurde am 4. November 2003 durch Anschlag in der Universitat Erlangen-Nirnberg bekannt gegeben. Tag der Bekanntmachung ist der 4. November 2003. 
+
+7 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-Informations-Kommunikationstechnik MA Information-Communication-Technology FPOIuK ICT 20190306 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informations-_und_Kommunikationstechnik/Aenderungssatzungen/BA-Informations-Kommunikationstechnik_MA_Information-Communication-Technology_FPOIuK_ICT_20190306_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:09:36+00:00
-page_count_chars: 29946
+scraped_at: 2026-07-01T11:30:44+00:00
+page_count_chars: 29122
 ---
 
 # BA-Informations-Kommunikationstechnik MA Information-Communication-Technology FPOIuK ICT 20190306 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 29946
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Informations-_und_Kommunikationstechnik/Aenderungssatzungen/BA-Informations-Kommunikationstechnik_MA_Information-Communication-Technology_FPOIuK_ICT_20190306_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIuK –** 
+# **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIuK –** 
 
-## **Vom 6. März 2019** 
+# **Vom 6. März 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der FAU – FPOIuK – vom 21. September 2007, zuletzt geändert durch Satzung vom 19. Januar 2018, wird wie folgt geändert: 
 
@@ -38,13 +38,13 @@ bb) In Satz 2 wird das Wort am Satzanfang „Es“ durch das Wort „Er“ erset
 
 - b) Abs. 2 und 3 erhalten folgende neue Fassung: 
 
-   - „(2)[1] Das Masterstudium Information and Communication Technology kann in Vollzeit und in Teilzeit absolviert werden.[2] Der Masterstudiengang Information 
+   - „(2)<sup>1</sup> Das Masterstudium Information and Communication Technology kann in Vollzeit und in Teilzeit absolviert werden.<sup>2</sup> Der Masterstudiengang Information 
 
 1 
 
 and Communication Technology kann sowohl zum Sommer- als auch zum Wintersemester begonnen werden. 
 
-(3)[1] Abweichend von § 4 Abs. 5 Satz 1 **ABMPO/TechFak** ist die Unterrichtsund Prüfungssprache im Masterstudiengang Information and Communication Technology Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen können auch auf Deutsch abgehalten werden.[3] Die Masterarbeit soll in englischer Sprache verfasst werden; über begründete Ausnahmen entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden.[4] Zeugnisse werden in deutscher und englischer Sprache ausgestellt.“ 
+(3)<sup>1</sup> Abweichend von § 4 Abs. 5 Satz 1 **ABMPO/TechFak** ist die Unterrichtsund Prüfungssprache im Masterstudiengang Information and Communication Technology Englisch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können auch auf Deutsch abgehalten werden.<sup>3</sup> Die Masterarbeit soll in englischer Sprache verfasst werden; über begründete Ausnahmen entscheidet der Prüfungsausschuss auf Antrag der bzw. des Studierenden.<sup>4</sup> Zeugnisse werden in deutscher und englischer Sprache ausgestellt.“ 
 
 5. In § 38 Abs. 3 Satz 2 werden nach den Worten „Auf Antrag kann“ die Worte „die bzw.“ eingefügt. 
 
@@ -54,13 +54,13 @@ and Communication Technology kann sowohl zum Sommer- als auch zum Wintersemester
 
 8. § 44 erhält folgende neue Fassung: 
 
-## „ **§ 44 Qualifikation zum Masterstudium,** 
+# „ **§ 44 Qualifikation zum Masterstudium,** 
 
-## **Nachweise und Zugangsvoraussetzungen** 
+# **Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Information and Communication Technology bzw. Informations- und Kommunikationstechnik. 2Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere Bachelorabschlüsse in Elektrotechnik, Elektronik und Informationstechnik sowie Informatik anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Information and Communication Technology bzw. Informations- und Kommunikationstechnik. 2Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere Bachelorabschlüsse in Elektrotechnik, Elektronik und Informationstechnik sowie Informatik anerkannt. 
 
-(2)[1] Als weiterer Nachweis i. S. d. Abs. 2 Satz 4 Nr. 3 der **Anlage** zur **ABMPO/TechFak** ist der Nachweis über englische Sprachkenntnisse auf dem Level von mindestens B2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen durch ausreichende Schul- oder Hochschulkenntnisse oder geeignete Sprachzertifikate zu erbringen.[2] Der Nachweis kann insbesondere durch den Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 GER mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) oder den Test International English Language Testing System (IELTS) auf dem Niveau B2 oder höher oder durch vergleichbare Nachweise (hierzu wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen) erbracht werden.[3] Der Nachweis ist nicht zu erbringen, falls die Hochschulzugangsberechtigung bzw. der einschlägige erste berufsqualifizierende Abschluss in englischer Sprache erworben wurde. 
+(2)<sup>1</sup> Als weiterer Nachweis i. S. d. Abs. 2 Satz 4 Nr. 3 der **Anlage** zur **ABMPO/TechFak** ist der Nachweis über englische Sprachkenntnisse auf dem Level von mindestens B2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen durch ausreichende Schul- oder Hochschulkenntnisse oder geeignete Sprachzertifikate zu erbringen.<sup>2</sup> Der Nachweis kann insbesondere durch den Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 GER mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule oder Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) oder den Test International English Language Testing System (IELTS) auf dem Niveau B2 oder höher oder durch vergleichbare Nachweise (hierzu wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen) erbracht werden.<sup>3</sup> Der Nachweis ist nicht zu erbringen, falls die Hochschulzugangsberechtigung bzw. der einschlägige erste berufsqualifizierende Abschluss in englischer Sprache erworben wurde. 
 
 (3) Die Qualifikation zum Masterstudium Information and Communication Technology wird i. S. d. Abs. 5 Satz 2 Nr. 2 **Anlage ABMPO/TechFak** festgestellt, wenn von den folgenden fachwissenschaftlichen bzw. studiengangsbezogenen Pflichtmodulen des Bachelorstudiengangs Informations- und Kommunikationstechnik bei 
 
@@ -92,9 +92,9 @@ mindestens zwei der nachfolgenden Module bzw. hinsichtlich des Kompetenzprofils 
 
 3. positive Prognose aufgrund der gezeigten Leistungen im bisherigen Studienverlauf; Besprechung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (Gewichtung 15 %).“ 
 
-## 9. § 45 wird wie folgt geändert: 
+# 9. § 45 wird wie folgt geändert: 
 
-a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
    - aa) In Satz 2 werden nach den Worten „an einem“ und „mit einem“ jeweils die Worte „IuK-Lehrstuhl“ durch die Worte „ICT-Lehrstuhl“ ersetzt. 
 
@@ -134,9 +134,9 @@ a) Abs. 1 wird wie folgt geändert:
 
 13. In § 50 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die zwölfte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die zwölfte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.“ 
 
-## 14. **Anlage 1** wird wie folgt geändert: 
+# 14. **Anlage 1** wird wie folgt geändert: 
 
 - a) In Zeile 13 (Modul Grundlagen des Software Engineering) werden in Spalte 6 (Art und Umfang der Studien-/Prüfungsleistung) die Worte „PL (K90)“ durch den Klammerzusatz „(vgl. FPO INF)“ ersetzt. 
 
@@ -144,34 +144,31 @@ a) Abs. 1 wird wie folgt geändert:
 
 4 
 
-## 15. **Anlage 2** erhält folgende neue Fassung: 
+# 15. **Anlage 2** erhält folgende neue Fassung: 
 
-## „ **Anlage 2: Studienverlaufsplan Master Vollzeit** 
+# „ **Anlage 2: Studienverlaufsplan Master Vollzeit** 
 
-## **Anlage 2a: Studienschwerpunkt Embedded Systems** 
+# **Anlage 2a: Studienschwerpunkt Embedded Systems** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1)|Workload-Verteilung pro<br>Semester in ECTS-Punkten1)|Workload-Verteilung pro<br>Semester in ECTS-Punkten1)|Workload-Verteilung pro<br>Semester in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||1.|2.|3.|4.||
-|**1**|**Pflichtmodule2)**|||||20||||||
-|1a|Embedded Systems|vgl. FPO Informatik||||5|5||||PL(vgl. FPO Informatik)|
-|1b|Hardware-Software-Co-Design|2|2|||5||5|||PL(vgl. FPO INF)|
-|1c|Communication Electronics|vgl. FPO EEI||||5||5|||PL(vgl. FPO EEI)|
-|1d|Design of Integrated Circuits I|vgl. FPO EEI||||5|5||||PL(vgl. FPO EEI))|
-|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b2) 3)**|vgl.§45b Abs. 3||||20|5|5|10||PLgemäß§45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 52)**|vgl.§45 Abs. 5||||25|5|10|10||PLgemäß§45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5|||5||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 72)**|vgl.§45 Abs. 7||||10|5|5|||PLgemäß§45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|||3||2,5|||2,5||PL(SeL)|
-|**7**|**Seminargemäß§ 45c**||||2|2,5|||2,5||SL(PrL)|
-|**8**|**Masterarbeit**|||||30||||30|MA mit Referat|
-|**9**|**Forschungsprojektgemäß§ 45d**|||4||5|5||||SL(PrL)**4)**|
-|||2|2|7|2||30|30|30|30||
-||Summe SWS(mind.)und ECTS-Punkte|13||||120||||||
+|Nr.|Module|SWS|Gesamt<br>ECTS|W<br>Sem<br>1.|orkload-V<br>ester in E<br>2.|erteilung<br>CTS-Punk<br>3.|pro<br>ten<sup>1)</sup><br>4.|Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|---|
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20||||||
+|1a|Embedded Systems|vgl. FPO Informatik|5|5||||PL(vgl. FPO Informatik)|
+|1b|Hardware-Software-Co-Design|2<br>2|5||5|||PL(vgl. FPO INF)|
+|1c|Communication Electronics|vgl. FPO EEI|5||5|||PL(vgl. FPO EEI)|
+|1d|Design of Integrated Circuits I|vgl. FPO EEI|5|5||||PL(vgl. FPO EEI))|
+|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b**<sup>**2) 3)**</sup>|vgl.§45b Abs. 3|20|5|5|10||PLgemäß§45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 5**<sup>**2)**</sup>|vgl.§45 Abs. 5|25|5|10|10||PLgemäß§45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5|||5||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 7**<sup>**2)**</sup>|vgl.§45 Abs. 7|10|5|5|||PLgemäß§45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|3|2,5|||2,5||PL(SeL)|
+|**7**|**Seminargemäß§ 45c**|2|2,5|||2,5||SL(PrL)|
+|**8**|**Masterarbeit**||30||||30|MA mit Referat|
+|**9**|**Forschungsprojektgemäß§ 45d**|4|5|5||||SL(PrL)<sup>**4)**</sup>|
+|||2<br>2<br>7<br>2||30|30|30|30||
+||Summe SWS(mind.)und ECTS-Punkte|13|120||||||
 
-- 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 
-
-- 2) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. Gleiches gilt für die vorherige Belegung in einem anderen Wahl(pflicht)modul dieses Studiengangs. Für diese Fälle gilt § 45 Abs. 3 Satz 2. 
+- 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 2) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. Gleiches gilt für die vorherige Belegung in einem anderen Wahl(pflicht)modul dieses Studiengangs. Für diese Fälle gilt § 45 Abs. 3 Satz 2. 
 
 - 3) Der Schwerpunktkatalog wird vor Semesterbeginn ortsüblich auf der ICT-Homepage bekannt gemacht. 
 
@@ -189,26 +186,25 @@ MA = Masterarbeit.
 
 5 
 
-## **Anlage 2b: Studienschwerpunkt Networks and Digital Communication** 
+# **Anlage 2b: Studienschwerpunkt Networks and Digital Communication** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||1.|2.|3.|4.||
-|**1**|**Pflichtmodule2)**|||||20||||||
-|1a|Communication Systems|2|2|||5|5||||PL(K90)oder(m30) 4)|
-|1b|Qualityof Service of Communication Systems|2|2|||5||5|||PL(K90)oder(m30) 4)|
-|1c|Information Theoryand Coding|vgl. FPO EEI||||5||5|||PL(vgl. FPO EEI)|
-|1d|Mobile Communications|3|1|||5||5|||PL(K90)|
-|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b2) 3)**|vgl.§45b Abs. 3||||20|5|5|10||PLgemäß§45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 52)**|vgl.§45 Abs. 5||||25|5|5|15||PLgemäß§45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5|5||||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 72)**|vgl.§45 Abs. 7||||10|5|5|||PLgemäß§45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|||3||2,5|||2,5||PL(SeL)|
-|**7**|**Seminargemäß§ 45c**||||2|2,5|||2,5||SL(PrL)|
-|**8**|**Masterarbeit**|||||30|5|||30|MA mit Referat|
-|**9**|**Forschungsprojektgemäß§ 45d**|||4||5|||||SL(PrL)**4)**|
-|||7|5|7|2||30|30|30|30||
-||Summe SWS (mind.) und ECTS-Punkte|21||||120||||||
+|Nr.|Module|SWS|Gesamt<br>ECTS|Worklo<br>1.|ad-Verteil<br>in ECTS-<br>2.|ung pro Semester<br>Punkten<sup>1)</sup><br>3.<br>4.|Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20|||||
+|1a|Communication Systems|2<br>2|5|5|||PL(K90)oder(m30) <sup>4)</sup>|
+|1b|Qualityof Service of Communication Systems|2<br>2|5||5||PL(K90)oder(m30) <sup>4)</sup>|
+|1c|Information Theoryand Coding|vgl. FPO EEI|5||5||PL(vgl. FPO EEI)|
+|1d|Mobile Communications|3<br>1|5||5||PL(K90)|
+|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b**<sup>**2) 3)**</sup>|vgl.§45b Abs. 3|20|5|5|10|PLgemäß§45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 5**<sup>**2)**</sup>|vgl.§45 Abs. 5|25|5|5|15|PLgemäß§45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5|5|||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 7**<sup>**2)**</sup>|vgl.§45 Abs. 7|10|5|5||PLgemäß§45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|3|2,5|||2,5|PL(SeL)|
+|**7**|**Seminargemäß§ 45c**|2|2,5|||2,5|SL(PrL)|
+|**8**|**Masterarbeit**||30|5||30|MA mit Referat|
+|**9**|**Forschungsprojektgemäß§ 45d**|4|5||||SL(PrL)<sup>**4)**</sup>|
+|||7<br>5<br>7<br>2||30|30|30<br>30||
+||Summe SWS (mind.) und ECTS-Punkte|21|120|||||
 
 - 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 2) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. Gleiches gilt für die vorherige Belegung in einem anderen Wahl(pflicht)modul dieses Studiengangs. Für diese Fälle gilt § 45 Abs. 3 Satz 2. 
 
@@ -220,11 +216,7 @@ MA = Masterarbeit.
 
 ## **Erläuterungen** : 
 
-SL = Studienleistung. PL = Prüfungsleistung. 
-
-PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
-
-SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
+SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
 
 K = Klausur. 
 
@@ -234,26 +226,24 @@ MA = Masterarbeit.
 
 6 
 
-## **Anlage 2c: Studienschwerpunkt Media Processing Systems** 
+# **Anlage 2c: Studienschwerpunkt Media Processing Systems** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||1.|2.|3.|4.||
-|**1**|**Pflichtmodule2)**|||||20||||||
-|1a|Image and Video Compression|vgl. FPO CME||||5||5|||PL(vgl. FPO CME)|
-|1b|Statistical Signal Processing|vgl. FPO CME||||5|5||||PL(vgl. FPO CME)|
-|1c|Communication Systems|2|2|||5|5||||PL(K90)oder(m30) 4)|
-|1d|Pattern Recognition|3|1|||5|5||||PL(K90)oder(m30) 4)|
-|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b2) 3)**|vgl.§45b Abs. 3||||20|5|5|10||PLgemäß§45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 52)**|vgl.§45 Abs. 5||||25||10|15||PLgemäß§45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5||5|||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 72)**|vgl.§45 Abs. 7||||10|5|5|||PLgemäß§45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|||3||2,5|||2,5||PL(SeL)|
-|**7**|**Seminargemäß§ 45c**||||2|2,5|||2,5||SL(PrL)|
-|**8**|**Masterarbeit**|||||30||||30|MA mit Referat|
-|**9**|**Forschungsprojektgemäß§ 45d**|||4||5|5||||SL(PrL)**4)**|
-|||5|3|7|2||30|30|30|30||
-||Summe SWS(mind.)und ECTS-Punkte|17||||120||||||
+|Nr.|Module|SWS|Gesamt<br>ECTS|Workload-Verteil<br>in ECTS-<br>1.<br>2.|ung pro Se<br>Punkten<sup>1)</sup><br>3.|mester<br>4.|Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20|||||
+|1a|Image and Video Compression|vgl. FPO CME|5|5|||PL(vgl. FPO CME)|
+|1b|Statistical Signal Processing|vgl. FPO CME|5|5|||PL(vgl. FPO CME)|
+|1c|Communication Systems|2<br>2|5|5|||PL(K90)oder(m30) <sup>4)</sup>|
+|1d|Pattern Recognition|3<br>1|5|5|||PL(K90)oder(m30) <sup>4)</sup>|
+|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b**<sup>**2) 3)**</sup>|vgl.§45b Abs. 3|20|5<br>5|10||PLgemäß§45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 5**<sup>**2)**</sup>|vgl.§45 Abs. 5|25|10|15||PLgemäß§45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5|5|||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 7**<sup>**2)**</sup>|vgl.§45 Abs. 7|10|5<br>5|||PLgemäß§45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|3|2,5||2,5||PL(SeL)|
+|**7**|**Seminargemäß§ 45c**|2|2,5||2,5||SL(PrL)|
+|**8**|**Masterarbeit**||30|||30|MA mit Referat|
+|**9**|**Forschungsprojektgemäß§ 45d**|4|5|5|||SL(PrL)<sup>**4)**</sup>|
+||Summe SWS(mind.)und ECTS-Punkte|5<br>3<br>7<br>2<br>17|120|30<br>30|30|30||
 
 - 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 
 
@@ -279,30 +269,29 @@ MA = Masterarbeit.“
 
 7 
 
-## 16. **Anlage 3** erhält folgende neue Fassung: 
+# 16. **Anlage 3** erhält folgende neue Fassung: 
 
-## „ **Anlage 3: Studienverlaufsplan Master Teilzeit** 
+# „ **Anlage 3: Studienverlaufsplan Master Teilzeit** 
 
-## **Anlage 3a: Studienschwerpunkt Embedded Systems** 
+# **Anlage 3a: Studienschwerpunkt Embedded Systems** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.||
-|**1**|**Pflichtmodule2)**|||||20||||||||||
-|1a|Embedded Systems|vgl. FPO Informatik||||5|5||||||||PL (vgl. FPO Informatik)|
-|1b|Hardware-Software-Co-Design|2|2|||5||5|||||||PL (vgl. FPO INF)|
-|1c|Communication Electronics|vgl., FPO EEI||||5||||5|||||PL (vgl. FPO EEI)|
-|1d|Design of Integrated Circuits I|vgl. FPO EEI||||5|||5||||||PL (vgl. FPO EEI))|
-|**2**|**Wahlpflichtmodule gemäß Schwerpunkt aus Katalog gemäß § 45b2) 3)**|vgl. § 45b Abs. 3||||20|5|5||5|5||||PL gemäß § 45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatik gemäß § 45**<br>**Abs. 52)**|vgl. § 45 Abs. 5||||25|5|5||5|5|5|||PL gemäß § 45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der**<br>**Naturwissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5|||5||||||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAU gemäß § 45 Abs. 72)**|vgl. § 45 Abs. 7||||10|||5||5||||PL gemäß § 45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeit gemäß § 45c**|||3||2,5||||||2,5|||PL (SeL)|
-|**7**|**Seminar gemäß § 45c**||||2|2,5||||||2,5|||SL (PrL)|
-|**8**|**Masterarbeit**|||||30|||||||15|15|MA mit Referat|
-|**9**|**Forschungsprojekt gemäß § 45d**|||4||5||||||5|||SL (PrL)4)|
-|||2|2|7|2||15|15|15|15|15|15|15|15||
-||Summe SWS (mind.) und ECTS-Punkte|13||||120||||||||||
+|Nr.|Module|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Wo<br>1.<br>2.|rkload-<br>in<br>3.|Verteil<br>ECTS-<br>4.|ung pro Seme<br>Punkten<sup>1)</sup><br>5.<br>6.|ster<br>7.<br>8.|Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|---|---|
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20|||||||
+|1a|Embedded Systems|vgl. FPO Informatik|5|5|||||PL (vgl. FPO Informatik)|
+|1b|Hardware-Software-Co-Design|2<br>2|5|5|||||PL (vgl. FPO INF)|
+|1c|Communication Electronics|vgl., FPO EEI|5|||5|||PL (vgl. FPO EEI)|
+|1d|Design of Integrated Circuits I|vgl. FPO EEI|5||5||||PL (vgl. FPO EEI))|
+|**2**|**Wahlpflichtmodule gemäß Schwerpunkt aus Katalog gemäß § 45b**<sup>**2) 3)**</sup>|vgl. § 45b Abs. 3|20|5<br>5||5|5||PL gemäß § 45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatik gemäß § 45**<br>**Abs. 5**<sup>**2)**</sup>|vgl. § 45 Abs. 5|25|5<br>5||5|5<br>5||PL gemäß § 45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der**<br>**Naturwissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5||5||||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAU gemäß § 45 Abs. 7**<sup>**2)**</sup>|vgl. § 45 Abs. 7|10||5||5||PL gemäß § 45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeit gemäß § 45c**|3|2,5||||2,5||PL (SeL)|
+|**7**|**Seminar gemäß § 45c**|2|2,5||||2,5||SL (PrL)|
+|**8**|**Masterarbeit**||30|||||15<br>15|MA mit Referat|
+|**9**|**Forschungsprojekt gemäß § 45d**|4|5||||5||SL (PrL)<sup>4)</sup>|
+|||2<br>2<br>7<br>2||15<br>15|15|15|15<br>15|15<br>15||
+||Summe SWS (mind.) und ECTS-Punkte|13|120|||||||
 
 - 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 
 
@@ -316,34 +305,32 @@ MA = Masterarbeit.“
 
 ## **Erläuterungen** : 
 
-SL = Studienleistung. PL = Prüfungsleistung. 
-
-PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
+SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
 
 8 
 
 SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . K = Klausur. MA = Masterarbeit. 
 
-## **Anlage 3b: Studienschwerpunkt Networks and Digital Communication** 
+# **Anlage 3b: Studienschwerpunkt Networks and Digital Communication** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.||
-|**1**|**Pflichtmodule2)**|||||20||||||||||
-|1a|Communication Systems|2|2|||5|5||||||||PL(K90)oder(m30) 4)|
-|1b|Qualityof Service of Communication Systems|2|2|||5||5|||||||PL(K90)oder(m30) 4)|
-|1c|Information Theoryand Coding|vgl. FPO EEI||||5||||5|||||PL(vgl. FPO EEI)|
-|1d|Mobile Communications|3|1|||5||5|||||||PL(K90)|
-|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b2) 3)**|vgl.§45b Abs. 3||||20|5||5|5|5||||PLgemäß§45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 52)**|vgl.§45 Abs. 5||||25|5|5||5|5|5|||PLgemäß§45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5|||5||||||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 72)**|vgl.§45 Abs. 7||||10|||5||5||||PLgemäß§45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|||3||2,5||||||2,5|||PL(SeL)|
-|**7**|**Seminargemäß§ 45c**||||2|2,5||||||2,5|||SL(PrL)|
-|**8**|**Masterarbeit**|||||30|||||||15|15|MA mit Referat|
-|**9**|**Forschungsprojektgemäß§ 45d**|||4||5||||||5|||SL(PrL) 4)|
-|||7|5|7|2||15|15|15|15|15|15|15|15||
-||Summe SWS (mind.) und ECTS-Punkte|21||||120||||||||||
+|Nr.|Module|SWS<br> <br> <br> <br>|Gesamt<br>ECTS||Wo<br>|rkload-V<br>in E<br>|erteilu<br>CTS-P<br>|ng p<br>unkt<br>|ro Seme<br>en<sup>1)</sup><br>|ster<br>||Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.|2.|3.|4.|5.|6.|7.|8.||
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20||||||||||
+|1a|Communication Systems|2<br>2|5|5||||||||PL(K90)oder(m30) <sup>4)</sup>|
+|1b|Qualityof Service of Communication Systems|2<br>2|5||5|||||||PL(K90)oder(m30) <sup>4)</sup>|
+|1c|Information Theoryand Coding|vgl. FPO EEI|5||||5|||||PL(vgl. FPO EEI)|
+|1d|Mobile Communications|3<br>1|5||5|||||||PL(K90)|
+|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b**<sup>**2) 3)**</sup>|vgl.§45b Abs. 3|20|5||5|5|5||||PLgemäß§45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 5**<sup>**2)**</sup>|vgl.§45 Abs. 5|25|5|5||5|5|5|||PLgemäß§45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5|||5||||||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 7**<sup>**2)**</sup>|vgl.§45 Abs. 7|10|||5||5||||PLgemäß§45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|3|2,5||||||2,5|||PL(SeL)|
+|**7**|**Seminargemäß§ 45c**|2|2,5||||||2,5|||SL(PrL)|
+|**8**|**Masterarbeit**||30|||||||15|15|MA mit Referat|
+|**9**|**Forschungsprojektgemäß§ 45d**|4|5||||||5|||SL(PrL) <sup>4)</sup>|
+|||7<br>5<br>7<br>2||15|15|15|15|15|<br>15|15|15||
+||Summe SWS (mind.) und ECTS-Punkte|21|120||||||||||
 
 - 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 
 
@@ -351,9 +338,7 @@ SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . K = Klausur. MA = 
 
 - 3) Der Schwerpunktkatalog wird vor Semesterbeginn ortsüblich auf der ICT-Homepage bekannt gemacht. 
 
-- 4) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. 
-
-- 5) Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist. 
+- 4) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. 5) Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist. 
 
 ## **Erläuterungen** : 
 
@@ -369,30 +354,26 @@ MA = Masterarbeit.“
 
 9 
 
-## **Anlage 3c: Studienschwerpunkt Media Processing Systems** 
+# **Anlage 3c: Studienschwerpunkt Media Processing Systems** 
 
-|Nr.|Module|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Studien-/<br>Prüfungsleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.||
-|**1**|**Pflichtmodule2)**|||||20||||||||||
-|1a|Image and Video Compression|vgl. FPO CME||||5||||5|||||PL(vgl. FPO CME)|
-|1b|Statistical Signal Processing|vgl. FPO CME||||5|5||||||||PL(vgl. FPO CME)|
-|1c|Communication Systems|2|2|||5|5||||||||PL(K90)oder(m30) 4)|
-|1d|Pattern Recognition|3|1|||5|||5||||||PL(K90)oder(m30) 4)|
-|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b2) 3)**|vgl.§45b Abs. 3||||20|5|5||5|5||||PLgemäß§45b Abs. 2**4)**|
-|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 52)**|vgl.§45 Abs. 5||||25||5|5|5|5|5|||PLgemäß§45 Abs. 5**4) 5)**|
-|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 62)**|vgl. § 45 Abs. 6||||5|||||5||||PL gemäß § 45 Abs. 6**4) 5)**|
-|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 72)**|vgl.§45 Abs. 7||||10||5|5||||||PLgemäß§45 Abs. 7**4) 5)**|
-|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|||3||2,5||||||2,5|||PL(SeL)|
-|**7**|**Seminargemäß§ 45c**||||2|2,5||||||2,5|||SL(PrL)|
-|**8**|**Masterarbeit**|||||30|||||||15|15|MA mit Referat|
-|**9**|**Forschungsprojektgemäß§ 45d**|||4||5||||||5|||SL(PrL) 4)|
-|||5|3|7|2||15|15|15|15|15|15|15|15||
-||Summe SWS(mind.)und ECTS-Punkte|17||||120||||||||||
+|Nr.|Module|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|1.|Wo<br>2.|rkload-Verteilu<br>in ECTS-P<br>3.<br>4.|ng pr<br>unkte<br>5.|o Semester<br>n<sup>1)</sup><br>6.<br>7.<br>8.|Art und Umfang der Studien-/<br>Prüfungsleistung|
+|---|---|---|---|---|---|---|---|---|---|
+|**1**|**Pflichtmodule**<sup>**2)**</sup>||20|||||||
+|1a|Image and Video Compression|vgl. FPO CME|5|||5|||PL(vgl. FPO CME)|
+|1b|Statistical Signal Processing|vgl. FPO CME|5|5|||||PL(vgl. FPO CME)|
+|1c|Communication Systems|2<br>2|5|5|||||PL(K90)oder(m30) <sup>4)</sup>|
+|1d|Pattern Recognition|3<br>1|5|||5|||PL(K90)oder(m30) <sup>4)</sup>|
+|**2**|**Wahlpflichtmodulegemäß Schwerpunkt aus Katalog gemäß§ 45b**<sup>**2) 3)**</sup>|vgl.§45b Abs. 3|20|5|5|5|5||PLgemäß§45b Abs. 2<sup>**4)**</sup>|
+|**3**|**Wahlmodule aus dem Angebot von EEI und Informatikgemäß§ 45 Abs. 5**<sup>**2)**</sup>|vgl.§45 Abs. 5|25||5|5<br>5|5|5|PLgemäß§45 Abs. 5<sup>**4) 5)**</sup>|
+|**4**|**Wahlmodule aus dem Angebot der Technischen Fakultät oder der Natur-**<br>**wissenschaftlichen Fakultätgemäß§ 45 Abs. 6**<sup>**2)**</sup>|vgl. § 45 Abs. 6|5||||5||PL gemäß § 45 Abs. 6<sup>**4) 5)**</sup>|
+|**5**|**Wahlmodule aus dem Angebot der FAUgemäß§ 45 Abs. 7**<sup>**2)**</sup>|vgl.§45 Abs. 7|10||5|5|||PLgemäß§45 Abs. 7<sup>**4) 5)**</sup>|
+|**6**|**Praktikum oder Projektarbeitgemäß§ 45c**|3|2,5|||||2,5|PL(SeL)|
+|**7**|**Seminargemäß§ 45c**|2|2,5|||||2,5|SL(PrL)|
+|**8**|**Masterarbeit**||30|||||15<br>15|MA mit Referat|
+|**9**|**Forschungsprojektgemäß§ 45d**|4|5|||||5|SL(PrL) <sup>4)</sup>|
+||Summe SWS(mind.)und ECTS-Punkte|5<br>3<br>7<br>2<br>17|120|15|15|15<br>15|15|15<br>15<br>15||
 
-- 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 
-
-- 2) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. Gleiches gilt für die vorherige Belegung in einem anderen Wahl(pflicht)modul dieses Studiengangs. Für diese Fälle gilt § 45 Abs. 3 Satz 2. 
+- 1) Die Verteilung der Workload bezieht sich auf einen Studienbeginn im Wintersemester. Bei einem Beginn im Sommersemester werden die Pflichtmodule im jeweils anderen Semester angeboten. 2) Wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. Gleiches gilt für die vorherige Belegung in einem anderen Wahl(pflicht)modul dieses Studiengangs. Für diese Fälle gilt § 45 Abs. 3 Satz 2. 
 
 - 3) Der Schwerpunktkatalog wird vor Semesterbeginn ortsüblich auf der ICT-Homepage bekannt gemacht. 
 
@@ -402,9 +383,7 @@ MA = Masterarbeit.“
 
 ## **Erläuterungen** : 
 
-SL = Studienleistung. PL = Prüfungsleistung. 
-
-PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
+SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . SeL = Seminarleistung gemäß § 6 Abs. 3 **ABMPO/TechFak** . 
 
 K = Klausur. 
 
@@ -416,7 +395,7 @@ MA = Masterarbeit.“
 
 17. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die zwölfte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden. 
 

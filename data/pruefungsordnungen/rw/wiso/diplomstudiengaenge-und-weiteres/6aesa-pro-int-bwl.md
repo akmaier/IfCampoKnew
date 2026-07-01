@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. August 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Int-BWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:30:44+00:00
-page_count_chars: 1692
+scraped_at: 2026-07-01T10:47:31+00:00
+page_count_chars: 1691
 ---
 
 # 29. August 2005
@@ -12,7 +12,7 @@ page_count_chars: 1692
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Int-BWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Sechste Satzung zur Änderung der Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betriebswirtschaftslehre (International Business) der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betriebswirtschaftslehre (International Business) der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 29. August 2005 
 

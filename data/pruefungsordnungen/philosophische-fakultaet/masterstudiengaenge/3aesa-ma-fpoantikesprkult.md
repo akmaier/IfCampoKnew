@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. Februar 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa_MA_FPOAntikeSprKult.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:23:56+00:00
-page_count_chars: 3410
+scraped_at: 2026-07-01T09:38:45+00:00
+page_count_chars: 3446
 ---
 
 # 27. Februar 2017
@@ -26,9 +26,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Antike Sprachen
 
 ## **Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Ein- oder Zwei-Fach-Bachelorstudiengang in den Fächern Griechisch, Latein, Mittellatein oder Indogermanistik oder eines Lehramtsstudiengangs für das Gymnasium in Latein und/oder Griechisch.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden andere Bachelorabschlüsse anerkannt, soweit das Bachelorstudium eine andere alte Sprache, insbesondere indogermanische und indoiranische Sprachen (z.B. Sanskrit und Altpersisch) im Umfang von mindestens 60 ECTS-Punkten zum Gegenstand hat. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Ein- oder Zwei-Fach-Bachelorstudiengang in den Fächern Griechisch, Latein, Mittellatein oder Indogermanistik oder eines Lehramtsstudiengangs für das Gymnasium in Latein und/oder Griechisch.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden andere Bachelorabschlüsse anerkannt, soweit das Bachelorstudium eine andere alte Sprache, insbesondere indogermanische und indoiranische Sprachen (z.B. Sanskrit und Altpersisch) im Umfang von mindestens 60 ECTS-Punkten zum Gegenstand hat. 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberinnen bzw. Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen. ³Im Auswahlgespräch werden die Bewerberinnen bzw. Bewerber nach folgenden Kriterien beurteilt: 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberinnen bzw. Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen. ³Im Auswahlgespräch werden die Bewerberinnen bzw. Bewerber nach folgenden Kriterien beurteilt: 
 
 1. Grundlegende Kenntnisse der fachlichen Inhalte zweier von den Bewerberinnen bzw. Bewerbern zu diesem Zweck zu wählender Teilfächer (50%), 
 

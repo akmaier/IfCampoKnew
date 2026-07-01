@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20KunstGesch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:41+00:00
-page_count_chars: 8737
+scraped_at: 2026-07-01T10:24:22+00:00
+page_count_chars: 8761
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 8737
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20KunstGesch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 5. Oktober 2007 
 
@@ -24,9 +24,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden.[1 ] 
+(1)<sup>1</sup> Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden.<sup>1</sup> 
 
-(2) Im Fach Kunstgeschichte im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Mittleren, Neueren und Neuesten Kunstgeschichte sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Der Studiengang bietet eine breite wissenschaftliche Ausbildung, die als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum dienen soll. Er bereitet auf die Masterstudiengänge vor. 
+(2) Im Fach Kunstgeschichte im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Mittleren, Neueren und Neuesten Kunstgeschichte sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Der Studiengang bietet eine breite wissenschaftliche Ausbildung, die als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum dienen soll. Er bereitet auf die Masterstudiengänge vor. 
 
 (3) Das Studium der Kunstgeschichte im Bachelorstudium soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die analytische und argumentative Kompetenz im Umgang mit Kunstwerken und kunsthistorischen Zusammenhängen vom Frühen Mittelalter bis zur Gegenwart im europäischen bzw. in Neuzeit und Moderne zunehmend global geöffneten Raum vermitteln. 
 
@@ -116,24 +116,24 @@ der formalen Beschreibung, der inhaltlichen Analyse, sowie der sozialgeschichtli
 ||1(WS)|Proseminar(3ECTS)||Klausur|
 ||1 (WS)|Übung (2 ECTS)||Kurzreferat, Stunden-<br>protokoll, schriftliche<br>Hausaufgabe o. ä.|
 |**Kg**<br>**2**||**Basismodul II: Propädeutika**|**10**||
-||2 (SS)|Proseminar Einführung in die Quellenkunde<br>und die Kunsttheorie (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>Hausarbeit<br>Protokoll oder mündli-<br>cher Vortrag<br>undHausarbeit|
-||1 (WS)|Proseminar Einführung in die Ikonographie<br>(5 ECTS)|||
+||2 (SS)|Proseminar Einführung in die Quellenkunde<br>und die Kunsttheorie (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>Hausarbeit|
+||1 (WS)|Proseminar Einführung in die Ikonographie<br>(5 ECTS)||Protokoll oder mündli-<br>cher Vortrag<br>undHausarbeit|
 |**Kg**<br>**3**||**Basismodul III: Bildende Kunst I (Mittel-**<br>**alter)**|**10**||
 ||1 (WS)|Vorlesung (3 ECTS)||Stundenprotokoll,<br>Klausuro. ä.|
 ||1 (WS)|Übung (2 ECTS)||Kurzreferat, Stunden-<br>protokoll, schriftliche<br>Hausaufgabe o. ä.|
 ||2 (SS)|Proseminar (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>schriftlicheHausarbeit|
 |**Kg**<br>**4**||**Basismodul IV: Bildende Kunst II (Von**<br>**der Renaissance bis zur Gegenwart)**|**10**||
-||2 (SS)|Vorlesung (3 ECTS)||Stundenprotokoll,<br>Klausuro. ä.|
+||2 (SS)|Vorlesung (3 ECTS)<br>||Stundenprotokoll,<br>Klausuro. ä.|
 ||2 (SS)|Übung (2 ECTS)||Kurzreferat, Stunden-<br>protokoll, schriftliche<br>Hausaufgabe o. ä.|
 ||3 (WS)|Proseminar (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>schriftlicheHausarbeit|
 |**Kg**<br>**5**||**Basismodul V: Geschichte der Architek-**<br>**tur**|**10**||
 ||3 (WS)|Vorlesung (3 ECTS)||Stundenprotokoll,<br>Klausuro. ä.|
 ||3 (WS)|Übung (2 ECTS)||Kurzreferat, Stunden-<br>protokoll, schriftliche<br>Hausaufgabe o. ä.|
 ||3 (WS)|Proseminar (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>schriftlicheHausarbeit|
-||||||
 |||**AUFBAUMODULE (I-III)**|||
-|**Kg**||**Aufbaumodul I: Vertiefungen im Bereich**|**10**||
-|||||3|
+|**Kg**||<br>**Aufbaumodul I: Vertiefungen im Bereich**|**10**||
+
+3 
 
 |**6**||**der bildenden Kunst und der Architektur**|||
 |---|---|---|---|---|
@@ -141,9 +141,9 @@ der formalen Beschreibung, der inhaltlichen Analyse, sowie der sozialgeschichtli
 ||5 (WS)|Seminar (5 ECTS)||Protokoll oder mündli-<br>cher Vortrag und<br>schriftlicheHausarbeit|
 |**Kg**<br>**7**||**Aufbaumodul II (Praxismodul): Praxisbe-**<br>**zogenes Studium vor Originalen**|**7,5**||
 ||4 (SS)|Exkursion (7,5 ECTS)||Mindestens 4 Tage,<br>auch einzeln zu absol-<br>vieren<br>Referat mit Thesenpa-<br>pier und schriftliche<br>Hausarbeit|
-|**Kg**<br>**8**||**Aufbaumodul III (Praxismodul):**<br>**Praktikum**|**7,5**||
+|**Kg**||**Aufbaumodul III (Praxismodul):**|**7,5**||
+|**8**||**Praktikum**|||
 ||5 (WS)|Praktikum (7,5 ECTS)||Praktikum und Erstel-<br>lung eines Praktikums-<br>berichts|
-||||||
 |||**BACHELORARBEIT**|||
 |**Kg**<br>**9**|6 (SS)|**Bachelorarbeit**|**10**|Schriftliche Hausarbeit|
 |||**Summe Leistungspunkte**|**80**||
@@ -172,7 +172,9 @@ Hausaufgabe Klausur (60-90 Minuten)
 
 Die Vergabe des Themas für die Bachelor-Arbeit kann erst nach erfolgreicher Absolvierung der Module Kg 1 – Kg 5 sowie dem Nachweis von mindestens 10 ECTS aus Kg 6 – Kg 8 erfolgen. 
 
-**§ 8 Schluss- und Übergangsvorschriften** Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+## **§ 8 Schluss- und Übergangsvorschriften** 
+
+Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 25. September 2007 und der Genehmigungsfeststellung des Rektors vom 1. Oktober 2007. 
 

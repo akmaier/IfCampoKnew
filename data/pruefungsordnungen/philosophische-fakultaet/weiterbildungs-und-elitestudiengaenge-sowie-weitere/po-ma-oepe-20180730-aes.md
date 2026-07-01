@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO MA OEPE 20180730 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20180730_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:05+00:00
-page_count_chars: 5127
+scraped_at: 2026-07-01T09:58:40+00:00
+page_count_chars: 5171
 ---
 
 # PO MA OEPE 20180730 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 5127
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Organisations-_und_Personalentwicklung/Aenderungssatzungen/PO_MA_OEPE_20180730_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Zweite Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE – Vom 30. Juli 2018** 
+# **Zweite Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO M. A. OEPE – Vom 30. Juli 2018** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organisations- und Personalentwicklung an der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – PO M. A. OEPE – vom 7. März 2017, geändert durch Satzung vom 12. Juni 2017, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
    - b) Nach Satz 1 wird ein neuer Satz 2 angefügt: 
 
-      - „[2] Dies gilt nicht für Wiederholungsprüfungen i. S. d. § 29.“ 
+      - „<sup>2</sup> Dies gilt nicht für Wiederholungsprüfungen i. S. d. § 29.“ 
 
 4. In § 8 Abs. 2 werden nach dem Wort „Abs.“ die Zahlen und Worte „2 Satz 2 und“ eingefügt. 
 
@@ -40,21 +40,21 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
 1 
 
-- b) In Satz 3 werden das Zeichen „;“ und die Worte „mit dem wirksamen Rücktritt“ durch einen Punkt und die Worte „[4] Mit der Erklärung des Rücktritts“ ersetzt. 
+- b) In Satz 3 werden das Zeichen „;“ und die Worte „mit dem wirksamen Rücktritt“ durch einen Punkt und die Worte „<sup>4</sup> Mit der Erklärung des Rücktritts“ ersetzt. 
 
 - c) In Satz 4 (neu) werden nach dem Wort „Anmeldung“ die Worte „zur Prüfung und die bzw. der Studierende ist von der Teilnahme an derselben ausgeschlossen“ angefügt. 
 
 - d) Die bisherigen Sätze 4 und 5 werden zu Sätzen 5 und 6. 
 
-## 6. § 10 Abs. 3 wird wie folgt geändert: 
+# 6. § 10 Abs. 3 wird wie folgt geändert: 
 
-   - a) In Satz 3 werden nach den Worten „gemacht werden“ das Zeichen „;“ und das Wort „in“ durch einen Punkt, die hochgestellte Zahl und das Wort „[4] In“ ersetzt. 
+   - a) In Satz 3 werden nach den Worten „gemacht werden“ das Zeichen „;“ und das Wort „in“ durch einen Punkt, die hochgestellte Zahl und das Wort „<sup>4</sup> In“ ersetzt. 
 
    - b) In Satz 4 (neu) werden nach dem Wort „Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen; es“ eingefügt. 
 
 7. In § 13 Abs. 1 Satz 4 wird das Wort „Prüfungsausschuss“ durch das Wort „Prüfungsausschusses“ ersetzt. 
 
-## 8. § 16 Abs. 4 Satz 2 wird wie folgt geändert: 
+# 8. § 16 Abs. 4 Satz 2 wird wie folgt geändert: 
 
    - a) Nach den Worten „angewendet, ist“ werden die Worte „die Studiendekanin bzw.“ eingefügt. 
 
@@ -68,15 +68,15 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
 2 
 
-## 12. § 27 Abs. 4 wird wie folgt geändert: 
+12. § 27 Abs. 4 wird wie folgt geändert: 
 
    - a) In Satz 1 werden nach den Worten „der Studierende hat“ die Worte „rechtzeitig zur Wahrung der Fristen nach § 10, in der Regel“ und nach den Worten „Semesters der Regelstudienzeit“ ein Komma eingefügt. 
 
    - b) In Satz 2 wird nach den Worten „hat sie bzw. er bei der bzw.“ das Wort „dem“ eingefügt. 
 
-13. In § 28 Abs. 1 Satz 1 werden nach den Worten „[1] Die Masterthesis ist“ die Worte „in der Regel“ eingefügt. 
+13. In § 28 Abs. 1 Satz 1 werden nach den Worten „<sup>1</sup> Die Masterthesis ist“ die Worte „in der Regel“ eingefügt. 
 
-## 14. § 29 Abs. 1 Satz 2 wird wie folgt geändert: 
+14. § 29 Abs. 1 Satz 2 wird wie folgt geändert: 
 
 - a) Nach den Worten „Studienleistung; sie muss zum nächsten Termin,“ werden die Worte „spätestens innerhalb von sechs Monaten,“ gestrichen. 
 
@@ -84,7 +84,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Organ
 
 15. In § 31 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 16. In **Anlage 2** werden in Zeile 14 (Modul Praktische Vertiefung) in Spalte 5 (Art und Umfang der Prüfung) die Worte „Präsentation (10-15 Min.)“ durch die Worte „Hausarbeit (ca. 15 S.)“ sowie in Spalte 6 (Faktor Modulnote) die Zahl „1“ durch die Zahl „0“ ersetzt. 
 

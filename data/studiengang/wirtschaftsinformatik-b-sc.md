@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:51:19+00:00
+scraped_at: 2026-07-01T08:28:30+00:00
 ---
 
 # Wirtschaftsinformatik (B.Sc.)
@@ -35,7 +35,7 @@ Die Wirtschaftsinformatik befasst sich mit der Konzeption, Entwicklung, Einführ
 
 [Weiterführende Informationen erhalten Sie auch auf der Website des Studiengangs.](https://www.wi.studium.fau.de/bachelor/)
 
-### Bachelor of Science Wirtschaftsinformatik
+### Fachanteile des Studiengangs Wirtschaftsinformatik (B.Sc.)
 
 * Wirtschaftsinformatik (39%)
 * Informatik (30%)

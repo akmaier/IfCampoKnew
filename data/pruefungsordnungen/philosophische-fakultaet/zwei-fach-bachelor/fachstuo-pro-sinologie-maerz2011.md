@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Sinologie.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:12:36+00:00
-page_count_chars: 18903
+scraped_at: 2026-07-01T10:29:42+00:00
+page_count_chars: 19013
 ---
 
 # PDF vom 05.10.2007 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 18903
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach- Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach- Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzung vom 
 
@@ -36,9 +36,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Sinologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Bachelorstudium Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Bachelorstudium Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Im Studium der Sinologie im Bachelorstudiengang werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.[2] Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
+(3)<sup>1</sup> Im Studium der Sinologie im Bachelorstudiengang werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.<sup>2</sup> Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
 
 (4) Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
@@ -92,9 +92,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 14. Soziologie 
 
-15. Kunstgeschichte 
-
-16. Mittel- und Neulatein 
+15. Kunstgeschichte 16. Mittel- und Neulatein 
 
 17. Griechische Philologie 18. Frankoromanistik 
 
@@ -102,34 +100,40 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium der Sinologie werden folgende Module angeboten: 
+## <u>(1) Im Studium der Sinologie werden folgende Module angeboten:</u> 
 
 |**Modul**|**ECTS-Punkte**|**SWS**|**Gewicht für**<br>**1. Fach**|**Modulnote**<br>**2. Fach**|
 |---|---|---|---|---|
-|**Modul 1: Modernes Chinesisch 1 (MC 1)**<br>Kurs: Grundkurs Chinesisch I|10|8|8,33|10|
+|**Modul 1: Modernes Chinesisch 1 (MC 1)**|10||8,33|10|
+|Kurs: Grundkurs Chinesisch I||8|||
 |**Modul 2: Modernes Chinesisch 2 (MC 2)**<br>Kurs: Grundkurs Chinesisch II|10|8|8,33|10|
 |**Modul 3: Geschichte und Kultur Chinas**<br>Kurs: Einführung in die chinesische Kulturgeschichte<br>(KU: EKG)<br>Proseminar: Das moderne China: Staat und Gesell-<br>schaft (PS: MCSG)|10|4<br>2|16,66|20|
-|**Modul »Schlüsselqualifikationen«: Komponente**<br>**»Kommunikative Kompetenz«** **(Sino SQ 1)**Chine-<br>se Language Proficiency Test HSK 1|10|6|||
+|<br>**Modul »Schlüsselqualifikationen«: Komponente**<br>**»Kommunikative Kompetenz«** **(Sino SQ 1)**Chine-|10||||
+|se Language Proficiency Test HSK 1||6|||
 |**China-Aufenthalt: 2 Freisemester**|||||
-|**Modul 4: Klassisches Chinesisch**<br>Kurs: Klassisches Chinesisch (KU: KC)<br>Lektüre: Klassisches Chinesisch (LE: KC)|10|4<br>2|16,66|--|
-|**Modul 5: Modernes Chinesisch 3 (MC 3)**<br>Kurs: Aufbaukurs Chinesisch<br>Kurs: Lektürekurs|10|4<br>2|8,33|10|
+|**Modul 4: Klassisches Chinesisch**|10||16,66|--|
+|Kurs: Klassisches Chinesisch (KU: KC)<br>Lektüre: Klassisches Chinesisch (LE: KC)||4<br>2|||
+|**Modul 5: Modernes Chinesisch 3 (MC 3)**|10||8,33|10|
+|<br>Kurs: Aufbaukurs Chinesisch<br>Kurs: Lektürekurs||4<br>2|||
 |**Modul 6: China und das Abendland**<br>Kurs: Techniken philologischen Umgangs mit chine-<br>sischsprachigen Quellen (KU: TPUCQ)<br>Seminar zum Themenbereich der kulturellen und<br>politischen Beziehungen zwischen China und dem<br>Abendland (SE: KPBCA)<br>Vorlesung über den Kulturtransfer zwischen China<br>und dem Abendland (VL: KTCA)<br>Lektüre zur Vorlesung über den Kulturtransfer zwi-<br>schen China und dem Abendland (LE: V KTCA)|10|2<br>2<br>1<br>1|16,66|20|
-|**Modul 7: Modernes Chinesisch 4 (MC 4)**<br>Kurs: Vertiefungskurs Chinesisch|10|6|8,33|10|
+|**Modul 7: Modernes Chinesisch 4 (MC 4)**|10||8,33|10|
+|Kurs: Vertiefungskurs Chinesisch||6|||
 |**Modul »Schlüsselqualifikationen«: Komponente**<br>**»Grammatische Grundlegung«**(Chinese Langu-<br>age Proficiency Test HSK 2)|10|6|||
-|**Modul 8: Konfuzianische Traditionen im Wandel**<br>Seminar zum Themenbereich: Konfuzianische Le-<br>bens- und Geisteswelten (SE: KLG)<br>Kurs: Vorstellungen weltlicher und sakraler Ordnun-<br>gen in China (KU: WSOC)<br>Seminar zum Themenbereich: Staat und Gesell-<br>schaft im konfuzianischen Denken (SE: SGKD)|10|2<br>2<br>1|16,66|20|
-|**Modul »Schlüsselqualifikationen«:**<br>**Studium generale**|10||||
+|**Modul 8: Konfuzianische Traditionen im Wandel**|10||16,66|20|
+|Seminar zum Themenbereich: Konfuzianische Le-<br>bens- und Geisteswelten (SE: KLG)<br>Kurs: Vorstellungen weltlicher und sakraler Ordnun-<br>gen in China (KU: WSOC)<br>Seminar zum Themenbereich: Staat und Gesell-<br>schaft im konfuzianischen Denken (SE: SGKD)||2<br>2<br>1|||
+|<br>**Modul »Schlüsselqualifikationen«:**<br>**Studium generale**|10||||
 |**BA-Abschlussarbeit**|10||||
 |**Summe:**|**90**||||
 
 Das Modul “Schlüsselqualifikationen (Sino SQ 1): Komponente »Kommunikative Kompetenz« des Chinese Language Proficiency Test HSK 1” ist nur für den Bachelorstudiengang Sinologie als erstes Fach als Pflichtmodul vorgesehen; es wird nicht benotet, sondern mit “bestanden”/”nicht bestanden” bewertet. 
 
-(2)[1] Im Studium Sinologie als erstes Fach im Umfang von 90 ECTS-Punkten sind die Fachmodule 1 bis 8 sowie das Modul Sino SQ 1 erfolgreich abzulegen.[2] Für den Bereich Schlüsselqualifikationen ist die Erbringung einer Leistung von 10 ECTSPunkten erforderlich. Empfohlen wird das Modul „Schlüsselqualifikationen Komponente: Grammatikalische Grundlegung“. 
+(2)<sup>1</sup> Im Studium Sinologie als erstes Fach im Umfang von 90 ECTS-Punkten sind die Fachmodule 1 bis 8 sowie das Modul Sino SQ 1 erfolgreich abzulegen.<sup>2</sup> Für den Bereich Schlüsselqualifikationen ist die Erbringung einer Leistung von 10 ECTSPunkten erforderlich. Empfohlen wird das Modul „Schlüsselqualifikationen Komponente: Grammatikalische Grundlegung“. 
 
-(3)[1] Im Studium Sinologie als zweites Fach im Umfang von 70 ECTS-Punkten sind die Fachmodule 1,2, 3, 4, 5, 7 sowie das Modul 6 oder 8 erfolgreich abzulegen.[2] Für den Bereich Schlüsselqualifikationen wird das Modul „Schlüsselqualifikationen Komponente: Kommunikative Kompetenz“ empfohlen. 
+(3)<sup>1</sup> Im Studium Sinologie als zweites Fach im Umfang von 70 ECTS-Punkten sind die Fachmodule 1,2, 3, 4, 5, 7 sowie das Modul 6 oder 8 erfolgreich abzulegen.<sup>2</sup> Für den Bereich Schlüsselqualifikationen wird das Modul „Schlüsselqualifikationen Komponente: Kommunikative Kompetenz“ empfohlen. 
 
 (4) Der Studienverlauf ergibt sich aus der **Anlage 1** . 
 
-(5) Voraussetzungen für die Vergabe von Leistungspunkten in den Modulen: **Modul 1:** 
+- (5) Voraussetzungen für die Vergabe von Leistungspunkten in den Modulen: **Modul 1:** 
 
 Kurs: Grundkurs Chinesisch I: 
 
@@ -199,7 +203,9 @@ Lektüre zur Vorlesung über den Kulturtransfer zwischen China und dem Abendland
 
 Kurs: Techniken philologischen Umgangs mit chinesischsprachigen Quellen: regelmäßige Anwesenheit und Mitarbeit; benotete eigenständige Bearbeitung von Übungsblättern (teilweise in Gruppenarbeit) und abschließender Wissenstest (individualisierte Hausarbeit). 
 
-**Modul 7:** Kurs: „Vertiefungskurs Chinesisch“: Regelmäßige Anwesenheit und Mitarbeit; benotete Einzelprüfung: 
+## **Modul 7:** 
+
+Kurs: „Vertiefungskurs Chinesisch“: Regelmäßige Anwesenheit und Mitarbeit; benotete Einzelprüfung: 
 
 - Abschlussklausur (Texte zum Hören und zum Lesen mit Fragen, kurzer Text zum Übersetzen, freies Schreiben zum angegebenen Thema; 3 Stunden) 
 
@@ -207,13 +213,9 @@ Kurs: Techniken philologischen Umgangs mit chinesischsprachigen Quellen: regelm�
 
 ## **Modul 8:** 
 
-Seminar zum Themenbereich: Konfuzianische Lebens- und Geisteswelten: 
+Seminar zum Themenbereich: Konfuzianische Lebens- und Geisteswelten: Regelmäßige Anwesenheit und Mitarbeit; benotete mündliche Präsentation zu einem thematischen Schwerpunkt; benotete Rezension eines Werks aus der Forschungsliteratur von 8 Seiten. 
 
-Regelmäßige Anwesenheit und Mitarbeit; benotete mündliche Präsentation zu einem thematischen Schwerpunkt; benotete Rezension eines Werks aus der Forschungsliteratur von 8 Seiten. 
-
-Kurs: Vorstellungen weltlicher und sakraler Ordnung in China: 
-
-Regelmäßige Anwesenheit und Mitarbeit; benotete Anfertigung einer annotierten Übersetzung eines chinesischsprachigen Textes. 
+Kurs: Vorstellungen weltlicher und sakraler Ordnung in China: Regelmäßige Anwesenheit und Mitarbeit; benotete Anfertigung einer annotierten Übersetzung eines chinesischsprachigen Textes. 
 
 Seminar zum Themenbereich: Staat und Gesellschaft im konfuzianischen Denken: Regelmäßige Anwesenheit und Mitarbeit; benotetes Referat (30 Minuten); benotete schriftliche Hausarbeit (20 Seiten) 
 
@@ -241,30 +243,34 @@ Das Thema für die Bachelorarbeit kann abweichend von den Bestimmungen des § 31
 
 Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-## **Anlage 1a:** Studienverlaufsplan[1] 
+## **Anlage 1a:** Studienverlaufsplan<sup>1</sup> 
 
-||**WS**<br>**1**<br>SWS|**SS**<br>**2**<br>SWS|**WS**<br>**3**<br>SWS|**SS**<br>**4**<br>SWS|**WS**<br>**5**<br>SWS|**SS**<br>**6**<br>SWS|**ECTS**|
+|**Modul 1:**<br>Modernes Chinesisch 1<br>(Sino MC 1)<br>***|**WS**<br>**1**<br>SWS|**SS**<br>**2**<br>SWS|**WS**<br>**3**<br>SWS|**SS**<br>**4**<br>SWS|**WS**<br>**5**<br>SWS|**SS**<br>**6**<br>SWS|**ECTS**<br>10|
 |---|---|---|---|---|---|---|---|
-|**Modul 1:**<br>Modernes Chinesisch 1<br>(Sino MC 1)<br>***<br>Kurs: Grundkurs Chinesisch I|8||||||10|
+|<br>Kurs: Grundkurs Chinesisch I|8|||||||
 |**Modul 2:**<br>Modernes Chinesisch 2<br>(Sino MC 2)<br>***<br>Kurs: Grundkurs Chinesisch II||8|||||10|
 |**Modul 3:**<br>Geschichte und Kultur Chinas<br>(Sino GKCh)<br>***<br>Kurs: Einführung in die chinesische<br>Kulturgeschichte<br>(KU: EKG)<br>Proseminar: Das moderne China:<br>Staat und Gesellschaft<br>(PS: MCSG)|2<br>2|2|||||10|
-|||||||||
 |**Modul »Schlüsselqualifikationen:**<br>(Sino SQ 1)<br>***<br>Komponente »Kommunikative<br>Kompetenz« des Chinese Langu-<br>age Proficiency Test HSK 1|3|3|||||10|
 |**China-Aufenthalt: 2 Freisemester**||||||||
-|||||||||
 |**Modul 4:**<br>Klassisches Chinesisch<br>(Sino KC)<br>***<br>Kurs: Klassisches Chinesisch (KU:<br>KC)<br>Lektüre: Klassisches Chinesisch<br>(LE: KC)|||4|2|||10|
-|**Modul 5:**<br>Modernes Chinesisch 3<br>(Sino MC 3)<br>***<br>Kurs: Aufbaukurs Chinesisch<br>Kurs: Lektürekurs|||4<br>2||||10|
+|<br>**Modul 5:**<br>Modernes Chinesisch 3<br>(Sino MC 3)<br>***<br>Kurs: Aufbaukurs Chinesisch<br>Kurs: Lektürekurs|||4<br>2||||10|
 |**Modul 6:**<br>China und das Abendland<br>(Sino CuA)|||||||10|
 
 1 Bei der Zuordnung der Module zu Fachsemesterzahlen handelt es sich lediglich um eine Empfehlung. 
 
-||**WS**<br>**1**<br>SWS|**SS**<br>**2**<br>SWS|**WS**<br>**3**<br>SWS|**SS**<br>**4**<br>SWS|**WS**<br>**5**<br>SWS|**SS**<br>**6**<br>SWS|**ECTS**|
+|***|**WS**<br>**1**<br>SWS|**SS**<br>**2**<br>SWS|**WS**<br>**3**<br>SWS|**SS**<br>**4**<br>SWS|**WS**<br>**5**<br>SWS|**SS**<br>**6**<br>SWS|**ECTS**|
 |---|---|---|---|---|---|---|---|
-|***<br>Kurs: Techniken philologischen<br>Umgangs mit chinesischsprachigen<br>Quellen (KU: TPUCQ)<br>Seminar zum Themenbereich der<br>kulturellen und politischen Bezie-<br>hungen zwischen China und dem<br>Abendland (SE: KPBCA)<br>Vorlesung über den Kulturtransfer<br>zwischen China und dem Abend-<br>land (VL: KTCA)<br>Lektüre zur Vorlesung über den<br>Kulturtransfer zwischen China und<br>dem Abendland (LE: V KTCA)|||2|2<br>1<br>1||||
-|**Modul 7:**<br>Modernes Chinesisch 4<br>(Sino MC 4)<br>***<br>Kurs: Vertiefungskurs Chinesisch||||3|3||10|
-|**Modul »Schlüsselqualifikationen:**<br>(Sino SQ 2)<br>***<br>Komponente »Grammatische<br>Grundlegung« des Chinese Langu-<br>age Proficiency Test HSK 2|||3|3|||10|
-|**Modul 8:**<br>Konfuzianische Traditionen im<br>Wandel<br>(Sino KTW)<br>***<br>Seminar zum Themenbereich: Kon-<br>fuzianische Lebens- und Geistes-<br>welten (SE: KLG)<br>Kurs: Vorstellungen weltlicher und<br>sakraler Ordnungen in China (KU:<br>WSOC)<br>Seminar zum Themenbereich: Staat<br>und Gesellschaft im konfuziani-<br>schen Denken (SE: SGKD)|||||2|2<br>2|10|
-|BA-Arbeit<br>|||||||10<br>|
+|<br>Kurs: Techniken philologischen<br>Umgangs mit chinesischsprachigen<br>Quellen (KU: TPUCQ)|||2|||||
+|Seminar zum Themenbereich der<br>kulturellen und politischen Bezie-<br>hungen zwischen China und dem<br>Abendland (SE: KPBCA)||||2||||
+|Vorlesung über den Kulturtransfer<br>zwischen China und dem Abend-<br>land (VL: KTCA)||||1||||
+|Lektüre zur Vorlesung über den<br>Kulturtransfer zwischen China und<br>dem Abendland (LE: V KTCA)||||1||||
+|**Modul 7:**<br>Modernes Chinesisch 4<br>(Sino MC 4)<br>***|||||||10|
+|Kurs: Vertiefungskurs Chinesisch||||3|3|||
+|**Modul »Schlüsselqualifikationen:**<br>(Sino SQ 2)<br>***|||||||10|
+|Komponente »Grammatische<br>Grundlegung« des Chinese Langu-<br>age Proficiency Test HSK 2|||3|3||||
+|**Modul 8:**<br>Konfuzianische Traditionen im<br>Wandel<br>(Sino KTW)<br>***<br>Seminar zum Themenbereich: Kon-<br>fuzianische Lebens- und Geistes-<br>welten (SE: KLG)|||||2||10|
+|Kurs: Vorstellungen weltlicher und<br>sakraler Ordnungen in China (KU:<br>WSOC)||||||2||
+|Seminar zum Themenbereich: Staat<br>und Gesellschaft im konfuziani-<br>schen Denken (SE: SGKD)<br>BA-Arbeit<br>||||||2<br>|10<br>|
 
 > ~~1~~ Bei der Zuordnung der Module zu Fachsemesterzahlen handelt es sich lediglich um eine Empfehlung. 
 
@@ -300,11 +306,10 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 |**Modul 8: Konfuzianische Traditionen im**<br>**Wandel**|||**10**|||||||
 |Seminar zum Themenbereich: Konfuz. Le-<br>bens-u. Geisteswelten||2|||||4|||
 |Kurs: Vorstellungen weltlicher u. sakraler Ord-<br>nungen in China||2||||||2||
-|Seminar zum Themenbereich: Staat u. Gesell-<br>schaft im konfuz. Denken||2||||||4||
+|<br>Seminar zum Themenbereich: Staat u. Gesell-<br>schaft im konfuz. Denken||2||||||4||
 |**BA Abschlussarbeit**|||**10**|||||||
 |Bachelorarbeit|||||||||10|
-||||**110**|**16**<br>**19**<br>**15**<br>**24**<br>**21**<br>**15**||||||
-||||**110**|||||||
+||||**110**<br>**110**|**16**|**19**|**15**|**24**|**21**|**15**|
 
 Im Fach Sinologie sind in der GOP die Module 1 und 3 erfolgreich abzulegen. 
 

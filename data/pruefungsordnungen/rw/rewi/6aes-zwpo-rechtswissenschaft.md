@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES_ZwPO_Rechtswissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:20+00:00
-page_count_chars: 1590
+scraped_at: 2026-07-01T10:32:49+00:00
+page_count_chars: 1587
 ---
 
 # 29. Juli 2013
@@ -12,13 +12,13 @@ page_count_chars: 1590
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES_ZwPO_Rechtswissenschaft.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Sechste Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
+# **Sechste Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
 
 Vom 29. Juli 2013 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft vom 3. Juli 2000 (KWMBl II S. 1121), zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 3. In § 10 Abs. 2 Satz 5 werden die Zahlen und das Wort „3 Satz 5“ durch die Zahl „4“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Die Änderung  in der  lfd. Nr. 2 (§ 6 Abs. 3) gilt für alle Studierenden die das Studium ab dem Wintersemester 2013/2014 aufnehmen. 
 

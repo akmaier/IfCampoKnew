@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/FachStuO+PrO%20Sozialoeko.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:42:25+00:00
-page_count_chars: 9884
+scraped_at: 2026-07-01T11:06:44+00:00
+page_count_chars: 9580
 ---
 
 # PDF vom 02.09.2009
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Bachelorabschluss in Sozialökonomik.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Bachelorabschluss in Sozialökonomik.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
 
 1. insbesondere ein Bachelorabschluss in einem sozialwissenschaftlichen Studiengang, 
 
@@ -60,88 +60,85 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3. Einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung, Sprachkenntnisse, Auslandsaufenthalte (max. 15 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung und Motivation zum Masterstudium Sozialökonomik beurteilt.[ 2] Die Begutachtung erstreckt sich auf die Arbeitsprobe vor dem Hintergrund der in Abs. 3 aufgeführten Qualifikationskriterien. 3Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.[4] Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung und Motivation zum Masterstudium Sozialökonomik beurteilt.<sup>2</sup> Die Begutachtung erstreckt sich auf die Arbeitsprobe vor dem Hintergrund der in Abs. 3 aufgeführten Qualifikationskriterien. 3Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.<sup>4</sup> Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[ 1] Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS) vermittelt.[2] Ab dem zweiten Semester wählen die Studierenden zwei sozialwissenschaftliche und ökonomische Vertiefungsmodule im Umfang von 20 ECTS-Punkten. Im zweiten und dritten Semester wählen die Studierenden Module aus den Angeboten des Fachbereichs, der Fakultät oder des Sprachenzentrums im Umfang von 10 ECTS-Punkten.[3] Die **Masterarbeit Sozialökonomik** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Sozialökonomik (insgesamt 30 ECTS-Punkte) zusammen.[4] Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
+(1)<sup>1</sup> Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS) vermittelt.<sup>2</sup> Ab dem zweiten Semester wählen die Studierenden zwei sozialwissenschaftliche und ökonomische Vertiefungsmodule im Umfang von 20 ECTS-Punkten. Im zweiten und dritten Semester wählen die Studierenden Module aus den Angeboten des Fachbereichs, der Fakultät oder des Sprachenzentrums im Umfang von 10 ECTS-Punkten.<sup>3</sup> Die **Masterarbeit Sozialökonomik** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Sozialökonomik (insgesamt 30 ECTS-Punkte) zusammen.<sup>4</sup> Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
-(2)[ 1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(2)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Sozialökonomik“ aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Sozialökonomik“ aufnehmen. 
 
 2 
 
 ## **Anlage** 
 
-## Anlage : Überblickstabelle Studienverlauf 
+### Anlage : Überblickstabelle Studienverlauf 
 
-|**Studienplan Master Sozialökonomik(Social Economics)**|**Studienplan Master Sozialökonomik(Social Economics)**|**Studienplan Master Sozialökonomik(Social Economics)**|**Studienplan Master Sozialökonomik(Social Economics)**|||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**1**||**2**||**3**||**4**||
-||||SQ|SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|ECTS|
-|**A Pflichtbereich**||||||||||||||
-|A1|Allgemeine Grundlagen||||**25**|||||||||
-|SoziologischeForschungsprobleme||||3|5|3|5|||||||
-|Allg. Kommunikationswissenschaften||||3|5|2|5|||||||
-|Personalpsychologie||||3|5|3|5|||||||
-|Methoden I:ÖkonometrieI|||**+**|3|5|3|5|||||||
-|Methoden II|||**+**|2|5|||3|5|||||
-|A2|Pflichtbereich Ökonomie||||**20**|||||||||
-|Mikroökonomik 1||||3|5|3|5|||||||
-|Personalökonomik||||3|5|3||3|5|||||
-|MarketResearch||||4|5|4|5|||||||
-|ServiceMarketing||||4|5|4||4|5|||||
-|A3|SozialwissenschaftlichesModul im Kernbereich||||**15**|||||||||
-|Projektseminar I|||**+**|4|5|||4|5|||||
-|Projektseminar II|||**+**|6|10|||||6|10|||
-|Anmerkung: Hier ist je nach Bedarf und Kapazität ein Parallelangebot der vier Lehrstühle<br>Kommunikation, Psychologie sowie Soziologie I und II geplant. Das Projektseminar I ist<br>jeweils dieVoraussetzungfürdasProjektseminar II||||||||||||||
-|**B Wahlpflichtbereich **||||||||||||||
-|B1Sozialwissenschaftliche und ökonomischeVertiefungsmodule (**zwei** sindzuwählen)|||||**20**|||||||||
-|EmpirischeArbeitsmarktsoziologie||||||||||||||
-||Seminar zur Arbeitsmarktsoziologie|||3|5|||3|5|||||
-||Arbeitsmarkt undHaushalt|||3|5|||3|5|||||
-|Wirtschafts-und Organisationssoziologie||||||||||||||
-||Seminar zurOrganisationssoziologie|||3|5|||||3|5|||
-||Seminar zur Wirtschaftssoziologie|||3|5|||||3|5|||
-|Organisationspsychologie||||||||||||||
-||Organisationspsychologie (Vorlesung und Übung)|||3|5|||||3|5|||
-||Seminar zurOrganisationspsychologie|||2|5|||||2|5|||
+|**Studienplan Master Sozialökonomik(Social Economics)**|||||||||||
+|---|---|---|---|---|---|---|---|---|---|---|
+|||||**1**||**2**|**3**||**4**||
+|**A Pflichtbereich**<br> <br>|SQ|SWS|ECTS <br>|SWS|ECTS|SWS|ECTS<br>SWS|ECTS|SWS|ECTS|
+|A1<br>Allgemeine Grundlagen<br>SoziologischeForschungsprobleme||3|**25**<br>5|3|5||||||
+|Allg. Kommunikationswissenschaften||3|5|2|5||||||
+|Personalpsychologie||3|5|3|5||||||
+|Methoden I:ÖkonometrieI|**+**|3|5|3|5||||||
+|Methoden II|**+**|2|5|||3|5||||
+|A2<br>Pflichtbereich Ökonomie|||**20**||||||||
+|Mikroökonomik 1||3|5|3|5||||||
+|Personalökonomik||3|5|3||3|5||||
+|MarketResearch||4|5|4|5||||||
+|ServiceMarketing<br><br>||4|5<br>|4||4|5||||
+|A3<br>SozialwissenschaftlichesModul im Kernbereich<br>Projektseminar I|**+**|4|**15**<br>5|||4|5||||
+|Projektseminar II|**+**|6|10||||6|10|||
+|Anmerkung: Hier ist je nach Bedarf und Kapazität ein Parallelangebot der vier Lehrstühle<br>Kommunikation, Psychologie sowie Soziologie I und II geplant. Das Projektseminar I ist<br>jeweils dieVoraussetzungfürdasProjektseminar II|||||||||||
+|**B Wahlpflichtbereich **|||||||||||
+|B1Sozialwissenschaftliche und ökonomischeVertiefungsmodule (**zwei** sindzuwählen)|||**20**||||||||
+|EmpirischeArbeitsmarktsoziologie|||||||||||
+|Seminar zur Arbeitsmarktsoziologie||3|5|||3|5||||
+|Arbeitsmarkt undHaushalt||3|5|||3|5||||
+|Wirtschafts-und Organisationssoziologie|||||||||||
+|Seminar zurOrganisationssoziologie||3|5||||3|5|||
+|Seminar zur Wirtschaftssoziologie||3|5||||3|5|||
+|Organisationspsychologie|||||||||||
+|Organisationspsychologie (Vorlesung und Übung)||3|5||||3|5|||
+|Seminar zurOrganisationspsychologie||2|5||||2|5|||
 
 3 
 
-|Wirtschaftspsychologie|Wirtschaftspsychologie||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Seminar zuWirtschaftspsychologieI||2|5|||||2|5|||
-||Seminar zur WirtschaftspsychologieII||2|5|||||2|5|||
-|Konsumentenverhalten|||||||||||||
-||Konsumentenverhalten (Vorlesung und Übung)||3|5|||3|5|||||
-||Seminar zum Konsumentenverhalten||2|5|||||2|5|||
-|SpezielleKommunikationswiss. Medien|||||||||||||
-||Seminar 1spezielleKomm.wiss.: Medien||2|5|||2|5|2|5|||
-||Seminar 2spezielleKomm.wiss.: Medien||2|5|||2|5|2|5|||
-|SpezielleKommunikationswiss. Kommunikation|||||||||||||
-||Seminar 1 spezielle Komm.wiss.: Kommunikation||2|5|||2|5|2|5|||
-||Seminar 2spezielleKomm.wiss.: Kommunikation||2|5|||2|5|2|5|||
-|Behavioral Economics|||||||||||||
-||ÖkonomischeTheorieI||3|5|||3|5|||||
-||Seminar zurexperimentellen Wirtschaftsforschung||3|5|||||3|5|||
-|Sozial-undArbeitsmarktpolitik(Scherl)|||||||||||||
-||Sozialpolitik||3|5|||3|5|||||
-||Arbeitsmarktpolitik||3|5|||||3|5|||
-|Weitere Angebote sind möglich. Soziologische Module können voraussichtlich auch durch<br>Angebote desInstitutsfürSoziologie (Erlangen) substituiertwerden|||||||||||||
-|B2 FreieVertiefungsmodule (zuwählen imUmfangvon 10ECTS)||||**10**|||||||||
-|Wahlmodule (aus allen freien ModulendesFBR/der Fakultät)||||10|||||||||
-||Teilmodul 1|||5||||5||5|||
-||Teilmodul 2|||5||||5||5|||
-|Anmerkung: Hier kann aus allen Angeboten des Fachbereichs/der Fakultät/des Sprachen-<br>zentrums gewählt werden, sofern der Modulverantwortliche dem zustimmt und die Module<br>nicht bereits im Pflicht- und Wahlprogramm belegt wurden|||||||||||||
-|**C Masterarbeit**||||**30**|||||||||
-|Masterarbeitinkl.||||||||||||30|
-|Seminar zur Masterarbeit|||2||||||||2||
-||SWS||||||||||||
-||ECTS|||**120**||30||30||30||30|
+|Wirtschaftspsychologie||||||||
+|---|---|---|---|---|---|---|---|
+|Seminar zuWirtschaftspsychologieI|2|5||2|5|||
+|Seminar zur WirtschaftspsychologieII|2|5||2|5|||
+|Konsumentenverhalten||||||||
+|Konsumentenverhalten (Vorlesung und Übung)|3|5|3|5||||
+|Seminar zum Konsumentenverhalten|2|5||2|5|||
+|SpezielleKommunikationswiss. Medien||||||||
+|Seminar 1spezielleKomm.wiss.: Medien|2|5|2|5<br>2|5|||
+|Seminar 2spezielleKomm.wiss.: Medien|2|5|2|5<br>2|5|||
+|SpezielleKommunikationswiss. Kommunikation||||||||
+|Seminar 1 spezielle Komm.wiss.: Kommunikation|2|5|2|5<br>2|5|||
+|Seminar 2spezielleKomm.wiss.: Kommunikation|2|5|2|5<br>2|5|||
+|Behavioral Economics||||||||
+|ÖkonomischeTheorieI|3|5|3|5||||
+|Seminar zurexperimentellen Wirtschaftsforschung|3|5||3|5|||
+|Sozial-undArbeitsmarktpolitik(Scherl)||||||||
+|Sozialpolitik|3|5|3|5||||
+|Arbeitsmarktpolitik|3|5||3|5|||
+|Weitere Angebote sind möglich. Soziologische Module können voraussichtlich auch durch<br>Angebote desInstitutsfürSoziologie (Erlangen) substituiertwerden||||||||
+|B2 FreieVertiefungsmodule (zuwählen imUmfangvon 10ECTS)||**10**||||||
+|Wahlmodule (aus allen freien ModulendesFBR/der Fakultät)||10||||||
+|Teilmodul 1||5||5|5|||
+|Teilmodul 2||5||5|5|||
+|Anmerkung: Hier kann aus allen Angeboten des Fachbereichs/der Fakultät/des Sprachen-<br>zentrums gewählt werden, sofern der Modulverantwortliche dem zustimmt und die Module<br>nicht bereits im Pflicht- und Wahlprogramm belegt wurden||||||||
+|**C Masterarbeit**||**30**||||||
+|Masterarbeitinkl.|||||||30|
+|Seminar zur Masterarbeit|2|||||2||
+|SWS||||||||
+|ECTS||**120**|30|30|30||30|
 
 4 
 

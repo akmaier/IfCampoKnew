@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Frankorom.NOV2010.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:57:22+00:00
-page_count_chars: 9685
+scraped_at: 2026-07-01T10:18:35+00:00
+page_count_chars: 9848
 ---
 
 # PDF vom 04.10.2007 i.d.F. 05.11.2010
@@ -16,11 +16,9 @@ page_count_chars: 9685
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
-geändert durch Satzungen vom 
-
-11. Juli 2008 
+geändert durch Satzungen vom 11. Juli 2008 
 
 25. Juli 2008 
 
@@ -38,9 +36,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Das Fach Frankoromanistik kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten studiert werden.[2] Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
+(1)<sup>1</sup> Das Fach Frankoromanistik kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten studiert werden.<sup>2</sup> Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
 
-(2)[1] Im Fach Frankoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im französischsprachigen Kulturraum vermittelt.[2] In der wissenschaftlichen Auseinandersetzung mit der französischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit französischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der französischen Kultur.[4] Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in 
+(2)<sup>1</sup> Im Fach Frankoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im französischsprachigen Kulturraum vermittelt.<sup>2</sup> In der wissenschaftlichen Auseinandersetzung mit der französischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit französischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der französischen Kultur.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in 
 
 Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
 
@@ -92,7 +90,7 @@ Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, l
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Das Studium besteht aus Pflicht- und Wahlpflichtmodulen.[2] Es ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
+- (1)<sup>1</sup> Das Studium besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Es ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
 
 1. In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Sprach- und Literaturwissenschaft und vertiefen ihre sprachpraktischen Kenntnisse, indem sie einführende Veranstaltungen besuchen (Basismodule). 
 
@@ -100,7 +98,7 @@ Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, l
 
 3. In der dritten Studienphase erfolgt die weiterführende Spezialisierung in einem ausgewählten wissenschaftlichen Bereich. Die Studierenden werden zu selbständigem wissenschaftlichem Arbeiten befähigt (Vertiefungsmodule). 
 
-- (2)[1] Im Studium Frankoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+- (2)<sup>1</sup> Im Studium Frankoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Französische Sprachpraxis 1-4; Einführung in die Frankoromanistik; Französische Sprachwissenschaft 1; Französische Literatur- und Kulturwissenschaft 1; Bachelorarbeit 
 
@@ -110,47 +108,42 @@ Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, l
 
 2Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
 
-|**Sem.1**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|<sup>**Leistungs-**</sup><br>**nachweis**|**Faktor**|
 |---|---|---|---|---|---|---|
-|1|**Basismodul**<br>**Französische**<br>**Sprachpraxis 1**|Grammaire cours élémentaire I<br>(groupe nominal)|2|4|SL||
-|||Vocabulaire, idiomatique et civi-<br>lisation I|2|4|K 90’|1|
+|||Grammaire cours élémentaire I<br>(groupe nominal)|2|4|SL||
+|1|**Basismodul**<br>**Französische**<br>**Sprachpraxis 1**|Vocabulaire, idiomatique et civi-<br>lisation I|2|4|K 90’|1|
 |||Communication orale|2|2|SL||
-|||||**10**|||
-|2|**Basismodul**<br>**Französische**<br>**Sprachpraxis 2**|Vocabulaire, idiomatique et civi-<br>lisation II|2|3|SL||
-|||Grammaire cours élémentaire II<br>(groupe verbal)|2|4|K 90’|1|
-|||Phonétique descriptive|1|2|SL||
+|||Vocabulaire, idiomatique et civi-<br>lisation II|2|**10**<br>3|SL||
+|2|**Basismodul**<br>**Französische**|Grammaire cours élémentaire II<br>(groupe verbal)|2|4|K 90’|1|
+||<br>**Sprachpraxis 2**|Phonétique descriptive|1|2|SL||
 |||Phonétique pratique, orthopho-<br>nie et intonation|1|1|SL||
-|||||**10**|||
-|1 / 2|**Basismodul**<br>**Einführung in**<br>**die Franko-**<br>**romanistik**|Einführung in die französische<br>Sprachwissenschaft|2|4|K 90’|0,5|
-|||Einführung in die französische<br>Literaturwissenschaft|3|6|K 90’|0,5|
-|||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Französische**<br>**Sprachwissen-**<br>**schaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|2|SL||
-|||Übung|2|4|K 90’ /<br>MP 15’|0,4|
-|||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Französische**<br>**Literatur- und**<br>**Kulturwissen-**<br>**schaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||Übung|2|2|SL||
-|||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Französische**<br>**Sprachpraxis 3**|Expression écrite I|2|3|SL||
-|||Compréhension orale|2|2|SL||
-|||Grammaire III|2|2|SL||
+|1 / 2|**Basismodul**<br>**Einführung in**|Einführung in die französische<br>Sprachwissenschaft|2|**10**<br>4|K 90’|0,5|
+||**die Franko-**<br>**romanistik**|Einführung in die französische<br>Literaturwissenschaft|3|6<br>|K 90’|0,5|
+||**Aufbaumodul**|Proseminar|2|**10**<br>4|HA|0,6|
+|3 / 4|<br>**Französische**<br>**Sprachwissen-**<br>|Vorlesung|2|2|SL||
+||**schaft 1**|Übung|2|4<br>|K 90’ /<br>MP 15’|0,4|
+||**Aufbaumodul**<br>|Proseminar|2|**10**<br>4|HA|0,6|
+|3 / 4|**Französische**<br>**Literatur- und**<br>**Kulturwissen-**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
+||**schaft 1**|Übung|2|2|SL||
+|||Expression écrite I|2|**10**<br>3|SL||
+|3 / 4|**Aufbaumodul**<br>**Französische**|Compréhension orale|2|2|SL||
+||<br>**Sprachpraxis 3**|Grammaire III|2|2|SL||
 |||Traduction thème (A-F)|2|3|K 90’|1|
 |||||**10**|||
 |5 / 6|**Vertiefungs-**<br>**modul**|Mittelseminar|2|6|HA|0,6|
 
 3 
 
-|**Sem.1**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|<sup>**Leistungs-**</sup><br>**nachweis**|**Faktor**|
 |---|---|---|---|---|---|---|
 ||**Französische**<br>**Sprachwissen-**<br>**schaft 2**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 |||||**10**|||
-|5 / 6|**Vertiefungs-**<br>**modul**<br>**Französische**<br>**Literatur- und**<br>**Kulturwissen-**<br>**schaft 2**|Mittelseminar|2|6|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
+||**Vertiefungs-**<br>**modul**<br>**Französische**|Mittelseminar|2|6|HA|0,6|
+|5 / 6|**Literatur- und**<br>**Kulturwissen-**<br>**schaft 2**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 |||||**10**|||
-|5 / 6|**Vertiefungs-**<br>**modul**<br>**Französische**<br>**Sprachpraxis 4**|Civilisation|2|5|MP 15’|1|
-|||Expression écrite II|2|3|SL||
-|||Traduction version (F – A)|2|2|SL||
+||**Vertiefungs-**|Civilisation|2|5|MP 15’|1|
+|5 / 6|**modul**<br>**Französische**<br>**Shi 4**|Expression écrite II|2|3|SL||
+||**pracpraxs**|Traduction version (F – A)|2|2|SL||
 |||||**10**|||
 |6|**Bachelorarbeit**|||**10**|BA||
 
@@ -158,7 +151,7 @@ Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, l
 
 K = Klausur, MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung; BA = Bachelorarbeit 
 
-(3)[1] Im Studium Frankoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
+(3)<sup>1</sup> Im Studium Frankoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Französische Sprachpraxis 1-2; Einführung in die Frankoromanistik 
 
@@ -166,9 +159,9 @@ K = Klausur, MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung; BA
 
 - 2Absatz 2 Satz 2 gilt entsprechend. 
 
-(4)[1 ] Bei Vorkenntnissen der französischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.[2] Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
+(4)<sup>1</sup> Bei Vorkenntnissen der französischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.<sup>2</sup> Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
 
-(5)[1] Wird Französisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Dabei soll ein Modul mit der Ableistung eines Praktikums im französischsprachigen Ausland oder aber in einem auf den frankophonen Kulturraum bezogenen Bereich absolviert werden. 
+(5)<sup>1</sup> Wird Französisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei soll ein Modul mit der Ableistung eines Praktikums im französischsprachigen Ausland oder aber in einem auf den frankophonen Kulturraum bezogenen Bereich absolviert werden. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -178,7 +171,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Frankoromanistik 
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen französische Sprachkenntnisse auf dem Niveau von drei aufsteigenden Schuljahren nachweisen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.[3] Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
+1Die Studierenden müssen französische Sprachkenntnisse auf dem Niveau von drei aufsteigenden Schuljahren nachweisen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.<sup>3</sup> Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
 
 ## **§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
 

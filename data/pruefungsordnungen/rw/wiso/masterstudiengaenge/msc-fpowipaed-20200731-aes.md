@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc FPOWiPäd 20200731 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Wirtschaftspaedagogik/Aenderungssatzungen/MSc_FPOWiPäd_20200731_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:43:14+00:00
-page_count_chars: 3719
+scraped_at: 2026-07-01T11:07:19+00:00
+page_count_chars: 3749
 ---
 
 # MSc FPOWiPäd 20200731 ÄS.pdf
@@ -12,17 +12,17 @@ page_count_chars: 3719
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Wirtschaftspaedagogik/Aenderungssatzungen/MSc_FPOWiPäd_20200731_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiPäd –** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiPäd –** 
 
-## **Vom 31. Juli 2020** 
+# **Vom 31. Juli 2020** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – FPOWiPäd – vom 1. Dezember 2009, zuletzt geändert durch Satzung vom 29. November 2019, wird wie folgt geändert: 
 
-## 1. § 4 wird wie folgt geändert: 
+# 1. § 4 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „ **Prüfungssprache** “ ein Komma und die Worte „ **inhaltlich vergleichbare Studiengänge** “ angefügt. 
 
@@ -34,9 +34,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspäd
 
 „(6) § 27 Abs. 1 Satz 3 Nr. 2 **MPOWISO** findet nur Anwendung im Hinblick auf Masterstudiengänge in Wirtschaftspädagogik.“ 
 
-2. § 4b wird wie folgt geändert: 
+# 2. § 4b wird wie folgt geändert: 
 
-   - a) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt: 
+- a) Nach Abs. 10 wird folgender neuer Abs. 11 eingefügt: 
 
 „(11) Im Zweitfach Ethik werden die fachwissenschaftliche Auseinandersetzung im Bereich der Philosophie vertieft, Grundlagen im Bereich der Religionswissenschaft gelegt und die Fähigkeit zur fachdidaktischen Gestaltung des Ethikunterrichts erweitert.“ 
 
@@ -48,11 +48,11 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspäd
 
 3. In § 6 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die achte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Prüfungen nach den bisher gültigen Fassungen der FPOWiPäd werden bezogen auf das Vollzeitstudium letztmals im Wintersemester 2023/2024 und bezogen auf das Teilzeitstudium letztmals im Wintersemester 2025/2026 angeboten.[3] Ab dem in Satz 2 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(5)<sup>1</sup> Die achte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Prüfungen nach den bisher gültigen Fassungen der FPOWiPäd werden bezogen auf das Vollzeitstudium letztmals im Wintersemester 2023/2024 und bezogen auf das Teilzeitstudium letztmals im Wintersemester 2025/2026 angeboten.<sup>3</sup> Ab dem in Satz 2 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Prüfungen nach den bisher gültigen Fassungen der FPOWiPäd werden bezogen auf das Vollzeitstudium letztmals im Wintersemester 2023/2024 und bezogen auf das Teilzeitstudium letztmals im Wintersemester 2025/2026 angeboten.[3] Ab dem in Satz 2 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Prüfungen nach den bisher gültigen Fassungen der FPOWiPäd werden bezogen auf das Vollzeitstudium letztmals im Wintersemester 2023/2024 und bezogen auf das Teilzeitstudium letztmals im Wintersemester 2025/2026 angeboten.<sup>3</sup> Ab dem in Satz 2 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 22. Juli 2020 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 31. Juli 2020. 
 

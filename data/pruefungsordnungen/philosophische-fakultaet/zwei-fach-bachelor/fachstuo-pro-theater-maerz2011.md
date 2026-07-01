@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO-PrO-Theater.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:15:04+00:00
-page_count_chars: 9190
+scraped_at: 2026-07-01T10:31:21+00:00
+page_count_chars: 9183
 ---
 
 # PDF vom 04.10.2007 i.d.F. 09.03.2011
@@ -24,21 +24,19 @@ geändert durch Satzungen vom
 
 9. Juni 2010 
 
-5. November 2010 
-
-9. März 2011 
+5. November 2010 9. März 2011 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Studien- und Prüfungsordnung: 
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 (im Folgenden: ABMStPO/Phil) – für das Fach Theater- und Medienwissenschaft. 
 
-## **§ 2 Umfang und Ziele des Studiums** 
+# **§ 2 Umfang und Ziele des Studiums** 
 
 (1) Das Fach Theater- und Medienwissenschaft kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Studium der Theater- und Medienwissenschaft wird eine fundierte fachwissenschaftliche Ausbildung gewährleistet und insbesondere analytische, theoretische und geschichtliche Qualifikation zur Bearbeitung und Lösung theater- und medienwissenschaftlicher Probleme sowie die Möglichkeiten zur Umsetzung historischtheoretischer Kenntnisse in die medienpraktische Tätigkeitsfelder vermittelt. 
 
@@ -54,7 +52,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 5. Anwendungskompetenz: das Vermögen, Resultate wissenschaftlicher Arbeit im Hinblick auf die Anwendungsmöglichkeiten in Praxissituationen zu reflektieren und einschlägiges Handeln in der Praxis zu planen und durchzuführen. 
 
-## **§ 3 Fächerkombinationen** 
+# **§ 3 Fächerkombinationen** 
 
 (1) Mit dem Fach Theater- und Medienwissenschaft können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden, außer Informatik, Italoromanistik und Linguistische Informatik. 
 
@@ -62,20 +60,19 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 2 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium der Theater- und Medienwissenschaft als erstem Fach sind Folgende Module erfolgreich abzulegen: 
+# (1) Im Studium der Theater- und Medienwissenschaft als erstem Fach sind Folgende <u>Module erfolgreich abzulegen:</u> 
 
-||||||||
+|**Sem.**|**Module**|**Lehrveranstaltung**|**SWS**|**ECTS***|<sup>**Leistungs-**</sup><br>**nachweis**|**Faktor für**<br>**Modulnote**|
 |---|---|---|---|---|---|---|
-|**Sem.**|**Module**|**Lehrveranstaltung**|**SWS**|**ECTS***|**Leistungs-**<br>**nachweis**|**Faktor für**<br>**Modulnote**|
-|1 / 2|**Grundlagenmodul**<br>**Einführung**|Vorlesung „Einführung in die Theater- und<br>Medienwissenschaft“|2|4|K 90’|1,0|
-|||Ringvorlesung „Einführung in die Geschich-<br>te des Theaters und der Medien“|2|4|||
+|||Vorlesung „Einführung in die Theater- und<br>Medienwissenschaft“|2|4|K 90’|10|
+|1 / 2|**Grundlagenmodul**<br>**Einführung**|Ringvorlesung „Einführung in die Geschich-<br>te des Theaters und der Medien“|2|4||,|
 |||Übung „Einführung in das wissenschaftliche<br>Arbeiten“ / „Grundfragen der Gestaltung“|2|2|SL||
 ||**_Gesamt_**|||**_10_**|||
-|1 / 2|**Grundlagenmodul**<br>**Theaterwissenschaft**|Basisseminar Analyse|2|4|2 Essays<br>(je 4 St.)|0,5|
-|||Basisseminar Theorie|2|3|Hausarbeit<br>(10 S.)|0,5|
-|||Basisseminar Historiografie|2|3|||
+|||Basisseminar Analyse|2|4|2 Essays<br>(je 4 St.)|0,5|
+|1 / 2|**Grundlagenmodul**<br>**Theaterwissenschaft**|Basisseminar Theorie|2|3|Hausarbeit|05|
+|||Basisseminar Historiografie|2|3|(10 S.)|,|
 ||**_Gesamt_**|||**_10_**|||
 |1 / 2|**Grundlagenmodul**<br>**Medienwissenschaft**|Basisseminar Theorie und Historiografie|2|3|Klausur 90’|0,5|
 |||Basisseminar Analyse|2|3|||
@@ -101,11 +98,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 3 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwen- <u>dung:</u> 
 
-|dung:||||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
+|---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Grundlagenmodul Einführung**||||||||||
 |„Einführung in die Theater- und  Medien-<br>wissenschaft“||**2**|**4**|||||||
@@ -135,7 +131,6 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 |Examenskolloquium||**2**|**2**|||||||
 |**Bachelorarbeit**||||||||||
 |Verfassender Bachelorarbeit|||**10**|||||||
-|||||||||||
 
 (3) Die Module im 2. und 3. Studienjahr (Aufbaumodul Theater- und Mediengeschichte, Vertiefungsmodul Theater- und Medienforschung) gehen mit doppeltem Gewicht in die Gesamtnote ein. 
 
@@ -145,15 +140,15 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (5) Falls Theater- und Medienwissenschaft als Erstfach gewählt wird, sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 30 ECTS-Punkten zu erbringen. 
 
-## **§ 5 Grundlagen- und Orientierungsprüfung** 
+# **§ 5 Grundlagen- und Orientierungsprüfung** 
 
 Für die Grundlagen- und Orientierungsprüfung müssen im Fach Theater- und Medienwissenschaft mindestens zwei Module des ersten Studienjahres bestanden worden sein. 
 
-## **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
+# **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
 
 Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinne des § 31 Abs. 1 Satz 4 ABMStPO/Phil, dass das Hauptseminar aus dem Vertiefungsmodul Theater- und Medienforschung erfolgreich abgeschlossen ist. 
 
-## **§ 7 Schluss- und Übergangsvorschriften** 
+# **§ 7 Schluss- und Übergangsvorschriften** 
 
 Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Kunst 20200717 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Kunst/Aenderungssatzungen/LA_Kunst_20200717_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:03+00:00
-page_count_chars: 2757
+scraped_at: 2026-07-01T08:40:41+00:00
+page_count_chars: 2771
 ---
 
 # LA Kunst 20200717 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 2757
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Kunst/Aenderungssatzungen/LA_Kunst_20200717_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 17. Juli 2020** 
+# **Vom 17. Juli 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs.1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der FAU vom 25. März 2009, zuletzt geändert durch Satzung vom 14. Dezember 2017, wird wie folgt geändert: 
 
@@ -50,9 +50,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden 
 

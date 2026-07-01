@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES_2Fach-BA Iberoromanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:21+00:00
-page_count_chars: 6583
+scraped_at: 2026-07-01T10:20:29+00:00
+page_count_chars: 6379
 ---
 
 # 10. Juni 2014
@@ -12,13 +12,13 @@ page_count_chars: 6583
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES_2Fach-BA Iberoromanistik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 10. Juni 2014 
+# Vom 10. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -54,44 +54,43 @@ Die Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach
 
 - d) Die bisherigen Abs. 4 und 5 werden zu Abs. 5 und 6. 
 
-## 3. Nach § 8 wird folgende neue Anlage 1 angefügt: 
+# 3. Nach § 8 wird folgende neue Anlage 1 angefügt: 
 
-## „ **Anlage 1:** 
+# „ **Anlage 1:** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS||Gesamt<br>ECTS|||||||Art und Umfang der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||Workload-Verteilung pro Semester in<br>ECTSPkt||||||||
-|||||||||||ECTSPkt||||||
-|||||||||||-|unen|||||
-|||V|Ü||P|S||1.|2.|3.|4.|5|6.|||
-|**Basismodul Spanische Sprachpraxis 1**|Español intermedio I||6||||10|8||||||Klausur 90‘|1|
-||Cultura y comunicación oral||2|||||2||||||||
-|**BasismodulSpanische Sprachpraxis 2**|Español intermedio II||6||||10||8|||||Portfolioprüfung:<br>Klausur 90‘ (80%),<br>mündl. Prüfung15‘(20%)|1|
-||Fonética práctica||2||||||2|||||||
-|**Basismodul Einführung in die**<br>**Iberoromanistik**|Basisseminar Spanische<br>Sprachwissenschaft|||||2|10|5||||||Klausur Sprachwissenschaft 90‘<br>Klausur Literaturwissenschaft 90‘<br>Modulnote = Note der besseren Klausur<br>Portfolioprüfung:|1|
-||Basisseminar Spanische<br>Literaturwissenschaft<br>Phonetik und Phonologie des|||||2|||5<br>|||||||
-|**Aufbaumodul Spanische Sprachwissenschaft**<br>**1**|<br>Spanischen<br>Proseminar||1|2|||5||2|3||||<br>Klausur 45‘ (30%),<br>Referat ca. 20‘ und Hausarbeit 10 S. (70 %)|1|
-|**Aufbaumodul Spanische Sprachwissenschaft**<br>**2**|Vorlesung|2|||||5|||2||||VL Klausur 90‘,<br>AS Klausur 90‘,<br>Modulnote= Note der besseren Klausur|1|
-||Aufbauseminar|||||2|||||3|||||
-|**Aufbaumodul Spanische Literatur- und**<br>**Kulturwissenschaft**|Proseminar||||2||||||4|||Portfolioprüfung:<br>|1|
-||Vorlesung|2|||||10|||4||||Hausarbeit 10 S.(50%),<br>Klausur 90‘ oder mündl. Prüfung ca. 15‘ (30%)2),||
-||Aufbauseminar|||||2||||2||||<br>Referat oder Protokoll(20%)2)||
-|**Aufbaumodul Spanische Sprachpraxis 3**|Comprensión oral||2||||10|||2||||Portfolioprüfung:<br>mündl. Prüfung 15‘ (20 %),<br>Textproduktion 90‘ (50 %),<br>Grammatikklausur 90‘ (30 %)|1|
-||Comprensión y comunicación<br>escrita||2||||||||5|||||
-||Gramática y estilística I||2|||||||3||||||
-|**Vertiefungsmodul Spanische**<br>**Sprachwissenschaft1)**|Mittelseminar|||||2|10|||||6||Portfolioprüfung:<br>Referat und Hausarbeit 15 S. (50%), Klausur oder<br>mündl. Prüfung15-20´(50%)2)|1|
-||Vorlesung oder Seminar|2|||||||||||4|||
-|**Vertiefungsmodul Spanische Literatur- und**<br>**Kulturwissenschaft1)**|Mittelseminar|||||2|10|||||6||Portfolioprüfung:<br>Referat ca. 20‘ und Hausarbeit 15 S. (60%),<br>Klausur 90’ oder mündl. Prüfung15‘-20‘(40%)2)|1|
-||Vorlesung oder Seminar|2|||||||||||4|||
-|**Vertiefungsmodul Spanische Sprachpraxis 4**|Cultura española||2||||5|||||3||Landeskundeklausur 90‘,<br>Übersetzung 90‘<br>Modulnote = Note der besseren Klausur|1|
-||Traducción alemán-español||2|||||||||2||||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>|Workload-Verteilun<br>ECTS-P|g pro Semester in<br>unkten|Art und Umfang der Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|ECTS<br>S|1.<br>2.<br>3.|4.<br>5<br>6.|||
+|**Bidl Sih Shi 1**|Español intermedio I|6|10|8||Kl 90‘|1|
+|**assmou pansce pracpraxs**|Cultura y comunicación oral|2||2||ausur||
+|**BasismodulSanische Srachraxis 2**|Español intermedio II|6|10|8||Portfolioprüfung:<br>Klausur 90‘ (80%)|1|
+|**p pp**|Fonética práctica|2||2||,<br>mündl. Prüfung15‘(20%)||
+|**Basismodul Einführung in die**|Basisseminar Spanische<br>Sprachwissenschaft||2<br>10|5||Klausur Sprachwissenschaft 90‘<br>Klausur Literaturwissenschaft 90‘|1|
+|**Iberoromanistik**|Basisseminar Spanische<br>Literaturwissenschaft||<br>2|5||<br>Modulnote = Note der besseren Klausur||
+|**Aufbaumodul Spanische Sprachwissenschaft**<br>**1**|Phonetik und Phonologie des<br>Spanischen|1|5|2||Portfolioprüfung:<br>Klausur 45‘ (30%),|1|
+||Proseminar|2||3||Referat ca. 20‘ und Hausarbeit 10 S. (70 %)||
+|**Aufbaumodul Spanische Sprachwissenschaft**|Vorlesung|2|5|2||VL Klausur 90‘,<br>AS Klausur 90‘|1|
+|**2**|Aufbauseminar||<br>2||3|,<br>Modulnote= Note der besseren Klausur||
+||Proseminar|2|||4|Portfolioprüfung:<br>Hbit 10 S(50%)||
+|**Aufbaumodul Spanische Literatur- und**<br>**Kulturwissenschaft**|Vorlesung|2|10|4||ausare  .,<br>Klausur 90‘ oder mündl. Prüfung ca. 15‘ (30%)<sup>2)</sup>,<br>|1|
+||Aufbauseminar||2|2||Referat oder Protokoll(20%)<sup>2)</sup>||
+||Comprensión oral|2||2||Portfolioprüfung:||
+|**Aufbaumodul Spanische Sprachpraxis 3**|Comprensión y comunicación<br>escrita|2|10||5|mündl. Prüfung 15‘ (20 %),<br>Textproduktion 90‘ (50 %),|1|
+||Gramática y estilística I|2||3||Grammatikklausur 90‘ (30 %)||
+|**Vertiefungsmodul Spanische**<br>|Mittelseminar||2<br>10||6|Portfolioprüfung:<br>Referat und Hausarbeit 15 S (50%) Klausur oder|1|
+|**Sprachwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar|2|||4|. ,<br>mündl. Prüfung15-20´(50%)<sup>2)</sup>||
+|**Vertiefungsmodul Spanische Literatur- und**<br>|Mittelseminar||2<br>||6|Portfolioprüfung:<br>Rft  20‘ d Hbit 15 S 60%||
+|**Kulturwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar|2|10||4|eera ca.  un ausare  . (),<br>Klausur 90’ oder mündl. Prüfung15‘-20‘(40%)<sup>2)</sup>|1|
+||Cultura española|2|||3|Landeskundeklausur 90‘,<br>||
+|**Vertiefungsmodul Spanische Sprachpraxis 4**|||5|||Übersetzung 90‘|1|
+||Traducción alemán-español|2|||2|Modulnote = Note der besseren Klausur||
 
-|**Vertiefungsmodul Spanische Sprachpraxis 5**|Cultura hispanoamericana||2||||5||||||3|Landeskundeklausur 90‘,<br>Grammatikklausur 90‘<br>Modulnote = Note der besseren Klausur|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Gramática y estilística II||2||||||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit||||||10||||||||2|
-||Summe SWS|4-8|31||4|8-12||||||||||
-||Summe ECTS:||||||80+10|15|17|16|12|17|13|||
+|**Vertiefunsmodul Sanische Srachraxis 5**|Cultura hispanoamericana|2|5<br>3|Landeskundeklausur 90‘,<br>Grammatikklausur 90‘|1|
+|---|---|---|---|---|---|
+|**g p pp**|Gramática y estilística II|2|<br>2|<br>Modulnote = Note der besseren Klausur||
+|**Bachelorarbeit**|Bachelorarbeit||10||2|
+||Summe SWS|4-8<br>31<br>|4<br>8-12|||
+||Summe ECTS:||80+10<br>15<br>17<br>16<br>12<br>17<br>13|||
 
 ## 1) Es ist eines der beiden Module zu wählen. 
 

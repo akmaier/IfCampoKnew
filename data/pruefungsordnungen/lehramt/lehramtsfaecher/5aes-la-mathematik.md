@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Oktober 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES LA-Mathematik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:14:17+00:00
-page_count_chars: 5548
+scraped_at: 2026-07-01T08:42:04+00:00
+page_count_chars: 5558
 ---
 
 # 30. Oktober 2014
@@ -12,13 +12,13 @@ page_count_chars: 5548
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES LA-Mathematik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“** 
+**Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“** 
 
-## Vom 30. Oktober 2014 
+# Vom 30. Oktober 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Services“ vom 26. März 2009, zuletzt geändert durch Satzung vom 14. März 2012, wird wie folgt geändert: 
 
@@ -54,17 +54,16 @@ bbb. In Nr. 1 wird das Wort „Hauptschule“ durch das Wort „Mittelschule“ 
 
    - bb) Die bisherige Tabelle wird durch folgende Tabelle ersetzt: 
 
-|„|„||||
+|**Sem.**<br>**(empf.)**|„<br>**Modul/Veranstaltungen**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
-|**Sem.**<br>**(empf.)**|**Modul/Veranstaltungen**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
-||**Didaktik der Mittelschulmathematik I**|**4**|**5**|Klausur (120 Min.)|
-|2bis 6|Seminar RaumundForm I|2|3||
+||**Didaktik der Mittelschulmathematik I**|**4**|**5**||
+|2bis 6|Seminar RaumundForm I|2|3|Klausur (120 Min.)|
 |2bis 6|Seminar RaumundForm II|2|2||
-||**Didaktik der Mittelschulmathematik II**|**4**|**5**|Klausur (120 Min.)|
-|2bis 6|Seminar Zahlen|2|3||
-|2 bis 6|Seminar Funktionaler Zusammenhang –<br>DatenundZufall|2|2||
-||**Didaktik der Mittelschulmathematik III**|**2**|**2**|Klausur (60 Min., unbenotet)|
-|2bis 6|Elemente derUnterrichtsgestaltung|2|2||
+||**Didaktik der Mittelschulmathematik II**|**4**|**5**||
+|2bis 6|Seminar Zahlen|2|3|Kl 120 Mi|
+|2 bis 6|Seminar Funktionaler Zusammenhang –<br>DatenundZufall|2|2|ausur ( n.)|
+||**Didaktik der Mittelschulmathematik III**|**2**|**2**|Kl 60 Mi btt|
+|2bis 6|Elemente derUnterrichtsgestaltung|2|2|ausur ( n., unenoe)|
 ||**Summe Fachdidaktik Fächergruppe:**||**12**||
 
 - „ 
@@ -81,19 +80,19 @@ bbb. In Nr. 1 wird das Wort „Hauptschule“ durch das Wort „Mittelschule“ 
 
 |**Sem.**<br>**(empf.)**|**Modul/Veranstaltungen**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
-||**Didaktikder Mittelschulmathematik I**|**6**|**7**|Klausur (120 Min.)|
-|2 bis 6|Seminar Raum und Form I|2|3||
-|2 bis 6|Übung Raum und Form I|1|1||
-|2 bis 6|Seminar Raum und Form II|2|2||
+||**Didaktikder Mittelschulmathematik I**|**6**|**7**||
+|2 bis 6|Seminar Raum und Form I<br>|2|3||
+|2 bis 6|Übung Raum und Form I|1|1|Klausur (120 Min.)|
+|2 bis 6|Seminar Raum und Form II<br>|2|2||
 |2 bis 6|Übung Raum und Form II|1|1||
-||**Didaktikder Mittelschulmathematik II**|**6**|**7**|Klausur (120 Min.)|
-|2 bis 6|Seminar Zahlen|2|3||
+||**Didaktikder Mittelschulmathematik II**|**6**|**7**||
+|2 bis 6|Seminar Zahlen<br>|2|3||
 |2bis 6|ÜbungZahlen|1|1||
-|2 bis 6|Seminar Funktionaler Zusammenhang –<br>DatenundZufall|2|2||
+|2 bis 6|Seminar Funktionaler Zusammenhang –<br>DatenundZufall|2|2|Klausur (120 Min.)|
 |2 bis 6|Übung Funktionaler Zusammenhang –<br>DatenundZufall|1|1||
-||**Didaktik der Mittelschulmathematik III**|**6**|**6**|Klausur (120 Min., unbenotet)|
-|2bis 6|Elemente derUnterrichtsgestaltung|2|2||
-|2bis 6|Wahlpflichtseminar 1|2|2||
+||**Didaktik der Mittelschulmathematik III**|**6**|**6**||
+|2bis 6|Elemente derUnterrichtsgestaltung|2|2|Klr 120 Min nbntt|
+|2bis 6|Wahlpflichtseminar 1|2|2|ausu ( ., ueoe)|
 |2bis 6|Wahlpflichtseminar 2|2|2||
 ||**Summe Fachdidaktik Fächergruppe:**||**20**||
 
@@ -101,7 +100,7 @@ bbb. In Nr. 1 wird das Wort „Hauptschule“ durch das Wort „Mittelschule“ 
 
 - f) In Abs. 6 werden in der Tabelle in Spalte 5 (Studien- und Prüfungsleistungen) Zeile 4 die Worte „erfolgreiche Teilnahme“ gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Satzung tritt zum 1. Oktober 2014 in Kraft. 2Die Änderungen unter der laufenden Ziffer 5. Buchstaben c) bb) und e) bb) gelten abweichend von S. 1 für alle Studierenden, die ihr Studium ab dem Wintersemester 2014 / 15 aufnehmen. 
 

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:43:44+00:00
+scraped_at: 2026-07-01T08:20:01+00:00
 ---
 
 # Computational Engineering (B.Sc.)
@@ -35,7 +35,7 @@ Sie möchten gerne Ingenieur\*in werden und sich mit physikalischen Zusammenhän
 
 Das interdisziplinäre Studium vermittelt neben einem breiten Fachwissen auch die Kompetenz zur Teamarbeit in Forschungsgruppen und Industrieprojekten. Computational Engineering ist ein vielseitiger, interdisziplinärer Studiengang, der nach dem Bachelor-Abschluss viele Möglichkeiten bietet, sich – auch im Ausland – weiterzubilden.
 
-### Bachelor of Science Computational Engineering
+### Fachanteile des Studiengangs Computational Engineering (B.Sc.)
 
 * Informatik (38%)
 * Mathematik (26%)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 11.06.1980 i.d.F. 04.10.1996)"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_LateinSprache.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:25+00:00
-page_count_chars: 11018
+scraped_at: 2026-07-01T11:14:26+00:00
+page_count_chars: 10991
 ---
 
 # PDF vom 11.06.1980 i.d.F. 04.10.1996)
@@ -20,7 +20,7 @@ geändert durch Satzung vom 4. Januar 1996
 
 Aufgrund des Art. 5 in Verbindung mit Art. 70 Abs. l des Bayerischen Hochschulgesetzes in der Fassung der Bekanntmachung vom 7. November 1978 (GVBl S. 791, berichtigt S. 958), zuletzt geändert durch Gesetz vom 14. April 1980 (GVBl S.179), erlässt die Universität Erlangen-Nürnberg folgende 
 
-## **Ordnung für die Lateinische Sprachprüfung der Theologischen Fakultät der Universität Erlangen-Nürnberg** 
+# **Ordnung für die Lateinische Sprachprüfung der Theologischen Fakultät der Universität Erlangen-Nürnberg** 
 
 ## **Vorbemerkung zum Sprachgebrauch:** 
 
@@ -76,7 +76,7 @@ In Zweifelsfällen ist die Entscheidung der Prüfungskommission herbeizuführen.
 
 (3) Die zugelassenen Bewerber werden mindestens eine Woche vor dem Beginn der Prüfung durch das Dekanat geladen. 
 
-**==> picture [47 x 25] intentionally omitted <==**
+**§ 5 Prüfung** 
 
 Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. 
 
@@ -92,7 +92,9 @@ Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (4) Die schriftlichen Arbeiten werden durch den Gymnasiallehrer und den Leiter des lateinischen Sprachkurses korrigiert und gemäß § 8 Abs.1 bewertet. Bei unterschiedlicher Bewertung entscheidet die Prüfungskommission endgültig. 
 
-## **§ 7 Mündliche Prüfung** 
+## **§ 7** 
+
+## **Mündliche Prüfung** 
 
 (1) Die mündliche Prüfung dauert etwa 15 Minuten. Dabei ist eine im Kurs noch nicht gelesene Textstelle (in der Regel aus Cicero oder einer patristischen Schrift von nicht zu großer Schwierigkeit) ohne erhebliche Verstöße zu übersetzen und grammatikalisch zu erläutern. Dabei ist eine im Sprachkurs nicht behandelte Textstelle im Schwierigkeitsgrad eines einfachen Cicerotextes oder Augustintextes ohne erhebliche Verstöße zu übersetzen und grammatikalisch zu erläutern. Die mündliche Prüfung wird als Einzelprüfung vor der Prüfungskommission abgelegt. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 21.09.2007 i.d.F. 11.06.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_Informatik.JUNI2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:08+00:00
-page_count_chars: 27479
+scraped_at: 2026-07-01T11:37:28+00:00
+page_count_chars: 27615
 ---
 
 # PDF vom 21.09.2007 i.d.F. 11.06.2015
@@ -16,7 +16,7 @@ page_count_chars: 27479
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOINF - Vom 21. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOINF - Vom 21. September 2007** 
 
 - geändert durch Satzungen vom 25. Juli 2008 
 
@@ -90,15 +90,15 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 (3) Die Studierenden wählen Wahlpflichtmodule aus mindestens zwei Vertiefungsrichtungen im Umfang von insgesamt 15 ECTS-Punkten. 
 
-(4)[1] Das Angebot der Nebenfächer wird in der **Anlage 3** näher beschrieben.[2] Im Benehmen mit der Studienkommission können weitere Nebenfächer durch den Prüfungsausschuss zugelassen werden, wenn das betreffende Fachgebiet durch mindestens einen Lehrstuhl an der Universität Erlangen-Nürnberg vertreten ist und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht.[3] Die wählbaren Nebenfachmodule werden spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.[4] Für das Nebenfach sind Module im Umfang von 15 ECTS-Punkten zu wählen.[ 5] Module im Nebenfach müssen einen Kompetenzgewinn gegenüber einem vorangegangenen Studium und den Modulen aus den Vertiefungsrichtungen darstellen. 
+(4)<sup>1</sup> Das Angebot der Nebenfächer wird in der **Anlage 3** näher beschrieben.<sup>2</sup> Im Benehmen mit der Studienkommission können weitere Nebenfächer durch den Prüfungsausschuss zugelassen werden, wenn das betreffende Fachgebiet durch mindestens einen Lehrstuhl an der Universität Erlangen-Nürnberg vertreten ist und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht.<sup>3</sup> Die wählbaren Nebenfachmodule werden spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.<sup>4</sup> Für das Nebenfach sind Module im Umfang von 15 ECTS-Punkten zu wählen.<sup>5</sup> Module im Nebenfach müssen einen Kompetenzgewinn gegenüber einem vorangegangenen Studium und den Modulen aus den Vertiefungsrichtungen darstellen. 
 
 (5) Die Verteilung der Module auf die Regelstudienzeit ist der **Anlage 1** zu entnehmen. 
 
-- (6) Die Regelstudienzeit im Bachelorstudiengang Informatik beträgt sechs Semester. 
+(6) Die Regelstudienzeit im Bachelorstudiengang Informatik beträgt sechs Semester. 
 
 (7) Das Bachelorstudium der Informatik beginnt zum Wintersemester. 
 
-(8)[1] Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.[2] Bei Wahlmodulen können englischsprachige Module angeboten werden. 
+(8)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.<sup>2</sup> Bei Wahlmodulen können englischsprachige Module angeboten werden. 
 
 ## **§ 37 Masterstudiengang, Regelstudienzeit, Studienbeginn, Sprache, Studienschwerpunkt** 
 
@@ -154,13 +154,13 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 (3) Die Zuordnung der Module zum Masterstudium und die Verteilung auf die Regelstudienzeit ist der **Anlage 2** zu entnehmen. 
 
-(4)[1] Es kann einer der Studienschwerpunkte gemäß **Anlage 5** gewählt werden. 2Kennzeichnend für einen Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 5** enthält zu jedem der wählbaren Studienschwerpunkte die wählbaren Vertiefungsrichtungen, Wahlpflichtmodule, Projekte und Nebenfächer.[3] Die Liste wählbarer Module und Projekte für die Studienschwerpunkte wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.[4] Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der bzw. des Studierenden im Transcript of Records vermerkt.[5] Sind die Voraussetzungen für mehr als einen Studienschwerpunkt erfüllt, so muss sich die bzw. der Studierende spätestens eine Woche nach Bestehen der letzten Prüfung verbindlich für einen Studienschwerpunkt entscheiden. 
+(4)<sup>1</sup> Es kann einer der Studienschwerpunkte gemäß **Anlage 5** gewählt werden. 2Kennzeichnend für einen Studienschwerpunkt ist die Konzentration auf thematisch eng verwandte Inhalte; **Anlage 5** enthält zu jedem der wählbaren Studienschwerpunkte die wählbaren Vertiefungsrichtungen, Wahlpflichtmodule, Projekte und Nebenfächer.<sup>3</sup> Die Liste wählbarer Module und Projekte für die Studienschwerpunkte wird spätestens zwei Wochen vor Vorlesungsbeginn ortsüblich bekannt gemacht.<sup>4</sup> Wird das Studium im gewählten Studienschwerpunkt erfolgreich abgeschlossen, wird dieser auf Antrag der bzw. des Studierenden im Transcript of Records vermerkt.<sup>5</sup> Sind die Voraussetzungen für mehr als einen Studienschwerpunkt erfüllt, so muss sich die bzw. der Studierende spätestens eine Woche nach Bestehen der letzten Prüfung verbindlich für einen Studienschwerpunkt entscheiden. 
 
 (5) Die Regelstudienzeit beträgt vier Semester. 
 
 (6) Das Masterstudium der Informatik kann zum Wintersemester oder zum Sommersemester begonnen werden. 
 
-(7)[1] Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.[2] Bei Wahlmodulen können englischsprachige Module angeboten werden. 
+(7)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.<sup>2</sup> Bei Wahlmodulen können englischsprachige Module angeboten werden. 
 
 ## **II. Teil: Besondere Bestimmungen** 
 
@@ -168,15 +168,15 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 38 Grundlagen- und Orientierungsprüfung** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn am Ende des dritten Semesters Module aus dem ersten Studienjahr (erstes und zweites Semester) im Umfang von 30 ECTS-Punkten spätestens im Zweitversuch bestanden sind.[2] Wählbare Module aus dem ersten Studienjahr sind bei Studienbeginn zum Wintersemester in **Anlage 1** als „GOP-fähig“ markiert.[3] Abweichend von Satz 1 gilt die Grundlagen- und Orientierungsprüfung auch als bestanden, wenn zweisemestrige Module, die im zweiten Semester begonnen wurden am Ende des dritten Semesters bestanden sind und insgesamt mindestens 30 ECTS-Punkte gemäß Satz 1 erreicht wurden. 
+(1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn am Ende des dritten Semesters Module aus dem ersten Studienjahr (erstes und zweites Semester) im Umfang von 30 ECTS-Punkten spätestens im Zweitversuch bestanden sind.<sup>2</sup> Wählbare Module aus dem ersten Studienjahr sind bei Studienbeginn zum Wintersemester in **Anlage 1** als „GOP-fähig“ markiert.<sup>3</sup> Abweichend von Satz 1 gilt die Grundlagen- und Orientierungsprüfung auch als bestanden, wenn zweisemestrige Module, die im zweiten Semester begonnen wurden am Ende des dritten Semesters bestanden sind und insgesamt mindestens 30 ECTS-Punkte gemäß Satz 1 erreicht wurden. 
 
 3 
 
-(2)[1] Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte sind der **Anlage 1** zu entnehmen.[2] Die Art und Dauer der Prüfungen der Grundlagen- und Orientierungsprüfung sind der **Anlage 1** zu entnehmen. 
+(2)<sup>1</sup> Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte sind der **Anlage 1** zu entnehmen.<sup>2</sup> Die Art und Dauer der Prüfungen der Grundlagen- und Orientierungsprüfung sind der **Anlage 1** zu entnehmen. 
 
 ## **§ 39 Umfang der Bachelorprüfung** 
 
-(1)[1] Die Bachelorprüfung umfasst die in **Anlage 1** aufgeführten Module, wobei die Wahlpflichtmodule des Wahlpflichtbereichs aus mindestens zwei Vertiefungsrichtungen gemäß § 36 Abs. 2 gewählt werden müssen.[2] Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte ist der **Anlage 1** zu entnehmen.[3] Die Art und Dauer der Prüfungen sind der **Anlage 1** zu entnehmen. 
+(1)<sup>1</sup> Die Bachelorprüfung umfasst die in **Anlage 1** aufgeführten Module, wobei die Wahlpflichtmodule des Wahlpflichtbereichs aus mindestens zwei Vertiefungsrichtungen gemäß § 36 Abs. 2 gewählt werden müssen.<sup>2</sup> Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte ist der **Anlage 1** zu entnehmen.<sup>3</sup> Die Art und Dauer der Prüfungen sind der **Anlage 1** zu entnehmen. 
 
 (2) Die Bachelorprüfung ist bestanden, wenn die Module nach Absatz 1 bestanden sind **.** 
 
@@ -184,21 +184,21 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 40 Bewertung der Leistungen im Wahlpflichtbereich und im Nebenfach** 
 
-> 1Für den Wahlpflichtbereich und das Nebenfach wird jeweils eine Gesamtnote ausgewiesen, die mit dem Gewicht von 15 ECTS-Punkten in die Gesamtnote der Bachelorprüfung eingeht.[2] In die Gesamtnote nach Satz 1 gehen die Noten der zum Erwerb von 15 ECTSPunkten abgelegten Module mit dem Gewicht ihrer ECTS-Punkte ein. 
+> 1Für den Wahlpflichtbereich und das Nebenfach wird jeweils eine Gesamtnote ausgewiesen, die mit dem Gewicht von 15 ECTS-Punkten in die Gesamtnote der Bachelorprüfung eingeht.<sup>2</sup> In die Gesamtnote nach Satz 1 gehen die Noten der zum Erwerb von 15 ECTSPunkten abgelegten Module mit dem Gewicht ihrer ECTS-Punkte ein. 
 
 ## **§ 41 Bachelorarbeit, mündliche Bachelorprüfung** 
 
-(1)[1] Das Modul Bachelorarbeit umfasst 15 ECTS-Punkte.[2] Es besteht aus der schriftlichen Bachelorarbeit im Umfang von 12 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten. 
+(1)<sup>1</sup> Das Modul Bachelorarbeit umfasst 15 ECTS-Punkte.<sup>2</sup> Es besteht aus der schriftlichen Bachelorarbeit im Umfang von 12 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten. 
 
-(2)[1] Die schriftliche Bachelorarbeit soll ein wissenschaftliches Thema aus dem Bereich der Informatik behandeln.[2] Das Thema für die schriftliche Bachelorarbeit ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit wird von einer Hochschullehrerin bzw. einem Hochschullehrer der Informatik ausgegeben.[4] Ausnahmen hiervon kann der Prüfungsausschuss in begründeten Fällen genehmigen. 
+(2)<sup>1</sup> Die schriftliche Bachelorarbeit soll ein wissenschaftliches Thema aus dem Bereich der Informatik behandeln.<sup>2</sup> Das Thema für die schriftliche Bachelorarbeit ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit wird von einer Hochschullehrerin bzw. einem Hochschullehrer der Informatik ausgegeben.<sup>4</sup> Ausnahmen hiervon kann der Prüfungsausschuss in begründeten Fällen genehmigen. 
 
-(3)[1] Das „Begleitseminar mit Referat“ umfasst ein Referat im Umfang von ca. 30 Minuten über das Thema der schriftlichen Bachelorarbeit und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar.[2] Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Bachelorarbeit entweder nach Abgabe oder gegen Ende der Bachelorarbeit festgelegt.[3] Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
+(3)<sup>1</sup> Das „Begleitseminar mit Referat“ umfasst ein Referat im Umfang von ca. 30 Minuten über das Thema der schriftlichen Bachelorarbeit und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar.<sup>2</sup> Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Bachelorarbeit entweder nach Abgabe oder gegen Ende der Bachelorarbeit festgelegt.<sup>3</sup> Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
 
 ## **2. Masterprüfung** 
 
 ## **§ 42 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informatik.[2] Als fachverwandte oder im Hinblick auf die Qualifikation nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informatik.<sup>2</sup> Als fachverwandte oder im Hinblick auf die Qualifikation nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere anerkannt: 
 
 1. Bachelorabschlüsse in Computational Engineering, Informations- und Kommunikationstechnik, Mechatronik, Wirtschaftsinformatik, Medizintechnik mit Kompetenzfeld Elektrotechnik/Informationstechnik/Informatik, Elektrotechnik-Elektronik-Informationstechnik, Mathematik mit Nebenfach Informatik, Technomathematik 
 
@@ -212,7 +212,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 3Bewerberinnen und Bewerber mit einem Abschluss im Sinne des Satz 2 können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden. 
 
-(2)[1] Als weitere Unterlage im Sinne der **Anlage 1** Abs. 2 Satz 2 Nr. 4 **ABMPO/TechFak** ist der Nachweis über englische Sprachkenntnisse vorzulegen.[2] Der Nachweis über die Englischkenntnisse erfolgt durch das Abiturzeugnis bzw. die fachgebundene Hochschulreife in Fachrichtung Technik (FOS-13 bzw. BOS) oder vergleichbare Nachweise auf dem Niveau UNIcert C II bzw. Europäischer Referenzrahmen B2. 
+(2)<sup>1</sup> Als weitere Unterlage im Sinne der **Anlage 1** Abs. 2 Satz 2 Nr. 4 **ABMPO/TechFak** ist der Nachweis über englische Sprachkenntnisse vorzulegen.<sup>2</sup> Der Nachweis über die Englischkenntnisse erfolgt durch das Abiturzeugnis bzw. die fachgebundene Hochschulreife in Fachrichtung Technik (FOS-13 bzw. BOS) oder vergleichbare Nachweise auf dem Niveau UNIcert C II bzw. Europäischer Referenzrahmen B2. 
 
 (3) Die Qualifikation zum Masterstudium Informatik wird i. S. d. **Anlage 1** Abs. 5 Satz 2 Nr. 2 **ABMPO/TechFak** festgestellt, wenn Module des dritten bis sechsten Semesters gemäß **Anlage 1** mit einem Umfang von 60 ECTS-Punkten mit einem Notendurchschnitt von mindestens 3,0 bestanden sind. 
 
@@ -220,13 +220,15 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 - Sichere Kenntnisse in den fachspezifischen Grundlagen, insbesondere fachspezifisches Abstraktionsvermögen durch Kenntnisse von Maschinenmodellen und Programmierkonzepten, 
 
-- gute Kenntnisse im Bereich einer fachlichen Spezialisierung entsprechend einer wählbaren Vertiefungsrichtung des Masterstudiengangs, 
+- gute Kenntnisse im Bereich einer fachlichen Spezialisierung entsprechend einer 
+
+   - wählbaren Vertiefungsrichtung des Masterstudiengangs, 
 
 - steigender Studienerfolg aufgrund der bisherigen Studienleistungen. 
 
 ## **§ 43 Prüfungen des Masterstudiums** 
 
-- (1)[1] Das Masterstudium umfasst 
+- (1)<sup>1</sup> Das Masterstudium umfasst 
 
 1. 60 ECTS-Punkte in Modulen aus mindestens drei Säulen, wobei pro Säule höchstens 30, mindestens 10 ECTS-Punkte nachzuweisen sind; werden Module aus vier Säulen gewählt, kann die Untergrenze von 10 ECTS-Punkten in einer Säule unterschritten werden. 
 
@@ -234,11 +236,11 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 3. ein Seminar 
 
-4. ein Nebenfach im Umfang von 15 ECTS-Punkten ( **Anlage 3** 
+4. ein Nebenfach im Umfang von 15 ECTS-Punkten ( **Anlage 3** ) 
 
 5. die Masterarbeit 
 
-2Die Module gemäß Satz 1 Nr. 1 sind aus den einzelnen Säulen zugeordneten Vertiefungsrichtungen gemäß § 37 Abs. 2 zu wählen, wobei in mindestens zwei Vertiefungsrichtungen jeweils mindestens 15 ECTS-Punkte nachzuweisen sind.[3] Die gewählten Module müssen einen Kompetenzgewinn gegenüber dem vorangegangenen Bachelorstudium darstellen.[4] Im Benehmen mit der Studienkommission können weitere Nebenfächer gemäß S. 1 Nr. 4 durch den Prüfungsausschuss zugelassen werden, wenn das betreffende Fachgebiet durch mindestens einen Lehrstuhl an der Universität ErlangenNürnberg vertreten ist und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht.[5] Die wählbaren Nebenfachmodule werden spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.[6] Im Nebenfach gewählte 
+2Die Module gemäß Satz 1 Nr. 1 sind aus den einzelnen Säulen zugeordneten Vertiefungsrichtungen gemäß § 37 Abs. 2 zu wählen, wobei in mindestens zwei Vertiefungsrichtungen jeweils mindestens 15 ECTS-Punkte nachzuweisen sind.<sup>3</sup> Die gewählten Module müssen einen Kompetenzgewinn gegenüber dem vorangegangenen Bachelorstudium darstellen.<sup>4</sup> Im Benehmen mit der Studienkommission können weitere Nebenfächer gemäß S. 1 Nr. 4 durch den Prüfungsausschuss zugelassen werden, wenn das betreffende Fachgebiet durch mindestens einen Lehrstuhl an der Universität ErlangenNürnberg vertreten ist und in einem inhaltlichen oder berufspraktisch sinnvollen Zusammenhang mit der Informatik steht.<sup>5</sup> Die wählbaren Nebenfachmodule werden spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.<sup>6</sup> Im Nebenfach gewählte 
 
 5 
 
@@ -252,7 +254,7 @@ Module müssen einen Kompetenzgewinn gegenüber einem vorangegangenen Bachelorst
 
 ## **§ 44 Projekt** 
 
-1Das Modul Projekt dient dazu, die selbstständige Bearbeitung einer Aufgabenstellung der Informatik in einer Gruppe oder einzeln zu erlernen und die dazu notwendigen Methoden praktisch anzuwenden.[2] Die Aufgabenstellung des Projekts ist in seinen Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden (10 ECTSPunkten) je Studentin bzw. Student innerhalb von sechs Monaten abgeschlossen werden kann. 
+1Das Modul Projekt dient dazu, die selbstständige Bearbeitung einer Aufgabenstellung der Informatik in einer Gruppe oder einzeln zu erlernen und die dazu notwendigen Methoden praktisch anzuwenden.<sup>2</sup> Die Aufgabenstellung des Projekts ist in seinen Anforderungen so zu stellen, dass sie in einer Bearbeitungszeit von ca. 300 Stunden (10 ECTSPunkten) je Studentin bzw. Student innerhalb von sechs Monaten abgeschlossen werden kann. 
 
 ## **§ 45 Voraussetzung für die Ausgabe der Masterarbeit** 
 
@@ -266,21 +268,21 @@ Module müssen einen Kompetenzgewinn gegenüber einem vorangegangenen Bachelorst
 
 ## **§ 46 Masterarbeit, mündliche Masterprüfung** 
 
-(1)[1] Das Modul Masterarbeit umfasst 30 ECTS-Punkte.[2] Es besteht aus der schriftlichen Masterarbeit im Umfang von 27 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten. 
+(1)<sup>1</sup> Das Modul Masterarbeit umfasst 30 ECTS-Punkte.<sup>2</sup> Es besteht aus der schriftlichen Masterarbeit im Umfang von 27 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten. 
 
-(2)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Informatik nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.[3] § 41 Abs. 2 Sätze 3 und 4 gelten entsprechend. 
+(2)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Informatik nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> § 41 Abs. 2 Sätze 3 und 4 gelten entsprechend. 
 
-(3)[1] Das „Begleitseminar mit Referat“ umfasst ein Referat im Umfang von ca. 30 Minuten und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar.[2] Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Masterarbeit entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.[3] Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
+(3)<sup>1</sup> Das „Begleitseminar mit Referat“ umfasst ein Referat im Umfang von ca. 30 Minuten und die erfolgreiche Teilnahme am von der Betreuerin bzw. dem Betreuer durchgeführten Begleitseminar.<sup>2</sup> Der Termin für das Referat wird von der Betreuerin bzw. dem Betreuer der Masterarbeit entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.<sup>3</sup> Das Referat wird gemäß § 18 Abs. 1 **ABMPO/TechFak** benotet. 
 
 ## **III. Teil: Schlussbestimmungen** 
 
 ## **§ 47 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Studium aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Studium aufnehmen. 
 
 6 
 
-(2)[1] Alle Studentinnen und Studenten, die sich zum WS 2007/2008 bereits im Diplomstudiengang Informatik an der Universität Erlangen-Nürnberg befinden, beenden ihr Studium nach der Fachprüfungsordnung für den Diplomstudiengang Informatik an der Universität Erlangen-Nürnberg (FPOI) vom 16. September 1977 (KMBl II S. 245), zuletzt geändert durch Satzung vom 13. Februar 2004.[2] Die Prüfungen der Diplomvor- und Diplomhauptprüfung für die Studentinnen und Studenten nach Satz 1 werden in folgenden Prüfungszeiträumen letztmals angeboten: 
+(2)<sup>1</sup> Alle Studentinnen und Studenten, die sich zum WS 2007/2008 bereits im Diplomstudiengang Informatik an der Universität Erlangen-Nürnberg befinden, beenden ihr Studium nach der Fachprüfungsordnung für den Diplomstudiengang Informatik an der Universität Erlangen-Nürnberg (FPOI) vom 16. September 1977 (KMBl II S. 245), zuletzt geändert durch Satzung vom 13. Februar 2004.<sup>2</sup> Die Prüfungen der Diplomvor- und Diplomhauptprüfung für die Studentinnen und Studenten nach Satz 1 werden in folgenden Prüfungszeiträumen letztmals angeboten: 
 
 1. Diplomvorprüfung, nach dem Sommersemester 2009, 
 
@@ -296,74 +298,64 @@ Module müssen einen Kompetenzgewinn gegenüber einem vorangegangenen Bachelorst
 
 ## **Anlage 1: Module des Bachelorstudiums Informatik bei Beginn im Wintersemester mit Angabe der ECTS-Punkte, der Verteilung auf die Semester und des Prüfungsmodus** 
 
-|<br>**des Prüfungsmodus**|<br>**des Prüfungsmodus**||||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||||||
-|**Module**||**Umfang SWS**|||<br>**Semesteraufteilung**||||||||||||**Prüfungs- und Studienleistung**|**GOP fähig**|
-|||**V**|**Ü**|**P**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4.Sem.**||**5. Sem.**||**6. Sem.**||<br>||
-||||||SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|ECTS|SWS|<br>ECTS|SWS|<br>ECTS|||
-|Algorithmen und Datenstrukturen||4|2|2|8|10|||||||||||PfP: PL(K120) + SL(Übungsleistung)|ja|
-|Konzeptionelle Modellierung||2|2||4|5|||||||||||PL(K90)|ja|
-|Grundlagen der Technischen Informatik||4|2||6|7,5|||||||||||PfP: PL(K120) + SL(Übungsleistung)|ja|
-|Parallele und funktionale Programmierung||2|2||||4|5|||||||||PL(K60)|ja|
-|||2|2||||4|5|||||||||PL(K90)||
-|Grundlagen der Rechnerarchitektur und -organisation||||||||||||||||||ja|
-||||||||||||||||||||
-|Grundlagen der Schaltungstechnik||2|2||||4|5|||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Systemprogrammierung||4|2|2|||4|5|4|5|||||||PL(K120)|ja|
-|Grundlagen der Logik in der Informatik||2|2||||||4|5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Softwareentwicklungin Großprojekten||2|2||||||4|5|||||||PL(K90)||
-|Berechenbarkeit und Formale Sprachen||4|2||||||6|7,5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Theorie der Programmierung||4|2||||||||6|7,5|||||PL(K90)||
-|Rechnerkommunikation||2|2||||||||4|5|||||PfP: PL(K90) + SL(Übungsleistung)<br>||
-|Algorithmik kontinuierlicher Systeme||4|2||||||||6|7,5|||||PfP: PL(K90) + SL(Übungsleistung)||
-|Implementierungvon Datenbanksystemen||2|2||||||||||4|5|||PL(K90)||
-|Seminar(Schlüsselqualifikation)|||||||||||2|5|||||PL(Seminarleistung)||
-|Praktikum||||||||||||||10|||PL(Praktikumsleistung)||
-|Mathematik für INF 11)||4|2||6|7,5|||||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Mathematik für INF 21)||4|2||||6|7,5|||||||||PfP: PL(K90) + SL(Übungsleistung)|ja|
-|Mathematik für INF 31)||4|2||||||6|7,5|||||||PfP: PL(K90) + SL(Übungsleistung)||
-|Mathematik für INF 41)||4|2||||||||6|7,5|||||PfP: PL(K90) + SL(Übungsleistung)||
-|Wahlpflichtbereich: Wahlpflichtmodule|||||||||||||||||||
-|||||||||||||||10||5|PL(MHB)||
-|aus mind. 2 Vertiefungsrichtungen|||||||||||||||||||
-||||||||||||||||||||
-|Nebenfach(Schlüsselqualifikation)||||||||||||||5||10|PL(MHB)||
-||Schriftliche Bachelorarbeit|||||||||||||||12|||
-||||||||||||||||||Schriftliche Ausarbeitung (80 %) und Vortra~~g~~||
-|Bachelorarbeit|Begleitseminar mit Referat zur Ba-|||||||||||||||3|<br>(ca. 45 Min.; 20 %)||
-||chelorarbeit||||||||||||||||||
-|||Summen SWS|||24||22||24||24||4||||||
-|||Summen ECTS||||30||27,5||30||32,5||30||30|||
+|**Module**|**Umfang**|**SWS**<br>**Semesteraufteilung**||**Prüfungs- und Studienleistung**|**GOP fähig**|
+|---|---|---|---|---|---|
+||**V**<br>**Ü**|**P**<br>**1. Sem. 2. Sem. 3. Sem. 4.Sem.**<br>**5**<br>SWS<br>ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS<br>SWS<br>ECTS<br>SW|**. Sem. 6. Sem.**<br>S<br>ECTS<br>SWS<br>ECTS|||
+|Algorithmen und Datenstrukturen|4<br>2|2<br>8<br>10||PfP: PL(K120) + SL(Übungsleistung)|ja|
+|Konzeptionelle Modellierung|2<br>2|4<br>5||PL(K90)|ja|
+|Grundlagen der Technischen Informatik|4<br>2|6<br>7,5||PfP: PL(K120) + SL(Übungsleistung)|ja|
+|Parallele und funktionale Programmierung|2<br>2|4<br>5||PL(K60)|ja|
+|Grundlagen der Rechnerarchitektur und -organisation|2<br>2|4<br>5||PL(K90)|ja|
+|Grundlagen der Schaltungstechnik|2<br>2|4<br>5||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Systemprogrammierung|4<br>2|2<br>4<br>5<br>4<br>5||PL(K120)|ja|
+|Grundlagen der Logik in der Informatik|2<br>2|4<br>5||PfP: PL(K90) + SL(Übungsleistung)||
+|Softwareentwicklungin Großprojekten|2<br>2|4<br>5||PL(K90)||
+|Berechenbarkeit und Formale Sprachen|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Theorie der Programmierung|4<br>2|6<br>7,5||PL(K90)||
+|Rechnerkommunikation|2<br>2|4<br>5||PfP: PL(K90) + SL(Übungsleistung)<br>||
+|Algorithmik kontinuierlicher Systeme|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Implementierungvon Datenbanksystemen|2<br>2|4|<br>5|PL(K90)||
+|Seminar(Schlüsselqualifikation)||2<br>5||PL(Seminarleistung)||
+|Praktikum|||10|PL(Praktikumsleistung)||
+|Mathematik für INF 1<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Mathematik für INF 2<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)|ja|
+|Mathematik für INF 3<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Mathematik für INF 4<sup>1)</sup>|4<br>2|6<br>7,5||PfP: PL(K90) + SL(Übungsleistung)||
+|Wahlpflichtbereich: Wahlpflichtmodule<br>aus mind. 2 Vertiefungsrichtungen|||10<br>5|PL(MHB)||
+|Nebenfach(Schlüsselqualifikation)|||5<br>10|PL(MHB)||
+|Schriftliche Bachelorarbeit|||12<br>S|chriftliche Ausarbeitun (80 %) und Vortr||
+|Bachelorarbeit<br>Begleitseminar mit Referat zur Ba-<br>chelorarbeit|||<br>3|g<br>(ca. 45 Min.; 20 %)|~~g~~|
+||Summen S|WS<br>24<br>22<br>24<br>24<br>4||||
+||Summen E|CTS<br>30<br>27,5<br>30<br>32,5|30<br>30|||
 
-Erläuterungen: V: Vorlesung, U: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet), K: Klausur (mit Dauer in Minuten), MHB: siehe Modulhandbuch, PfP: Portfolioprüfung, GOP: Grundlagen- und Orientierungsprüfung – 30 ECTS aus den mit „ja“ gekennzeichneten Modulen.[1) ] Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht. 
+- Erläuterungen: V: Vorlesung, U: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet), K: Klausur (mit Dauer in Minuten), MHB: siehe Modulhandbuch, PfP: Portfolioprüfung, GOP: Grundlagen- und Orientierungsprüfung – 30 ECTS aus den mit „ja“ gekennzeichneten Modulen.<sup>1)</sup> Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht. 
 
 8 
 
 ## **Anlage 2: Module des Masterstudiums Informatik und Semesterverteilung (Musterstudienplan):** 
 
-||**Module bzw. Teilmodule**3|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Prüfungsleistung (PL)**|
+||**Module bzw. Teilmodule**<sup>3</sup>||**Semester**|**aufteilung**||**Prüfungsleistung (PL)**|
 |---|---|---|---|---|---|---|
-|Nr.|Name|1. Sem.<br>ECTS|2. Sem.<br>ECTS|3. Sem.<br>ECTS|4. Sem.<br>ECTS||
-||||||||
-|1|Wahlpflichtmodul Informatik I2|10||||siehe Modulhandbuch|
-|2|Wahlpflichtmodul Informatik II2||10|||siehe Modulhandbuch|
-|3|Wahlpflichtmodul Informatik III2||10|||siehe Modulhandbuch|
-|4|Wahlpflichtmodul Informatik IV2|||10||siehe Modulhandbuch|
-|5|Wahlpflichtmodul Informatik V2|5||||siehe Modulhandbuch|
-|6|Wahlpflichtmodul Informatik VI2|5||||siehe Modulhandbuch|
-|7|Wahlpflichtmodul Informatik VII2||5|||siehe Modulhandbuch|
-|8|Wahlpflichtmodul Informatik VIII2|||5||siehe Modulhandbuch|
+|N|N|1. Sem.|2. Sem.|3. Sem.|4. Sem.||
+|r.|ame|ECTS|ECTS|ECTS|ECTS||
+|1|Wahlpflichtmodul Informatik I<sup>2</sup>|10||||siehe Modulhandbuch|
+|2|Wahlpflichtmodul Informatik II<sup>2</sup>||10|||siehe Modulhandbuch|
+|3|Wahlpflichtmodul Informatik III<sup>2</sup>||10|||siehe Modulhandbuch|
+|4|Wahlpflichtmodul Informatik IV<sup>2</sup>|||10||siehe Modulhandbuch|
+|5|Wahlpflichtmodul Informatik V<sup>2</sup>|5||||siehe Modulhandbuch|
+|6|Wahlpflichtmodul Informatik VI<sup>2</sup>|5||||siehe Modulhandbuch|
+|7|Wahlpflichtmodul Informatik VII<sup>2</sup>||5|||siehe Modulhandbuch|
+|8|Wahlpflichtmodul Informatik VIII<sup>2</sup>|||5||siehe Modulhandbuch|
 |9|Projekt|||10||siehe Modulhandbuch|
-|10|Nebenfach|10|5|||siehe Modulhandbuch1|
+|10|Nebenfach|10|5|||siehe Modulhandbuch<sup>1</sup>|
 |11|Seminar|||5||siehe Modulhandbuch|
-|12|Schriftliche Masterarbeit||||27|schriftl. Ausarbeitung (90 %) und<br>Vortrag (ca. 45 Min.; 10 %)|
-||Begleitseminar mit Referat zur Masterarbeit||||3||
+|12|<sup>Schriftliche Masterarbeit</sup>||||27|schriftl. Ausarbeitung (90 %) und|
+||Begleitseminar mit Referat zur Masterarbeit||||3|Vortrag (ca. 45 Min.; 10 %)|
 ||Summen ECTS|30|30|30|30||
 
 1 Sofern die FPO des beteiligten Nebenfachs keine andere Regelung vorsieht. 
 
-2 Die Wahlpflichtmodule Informatik I bis VIII sind zu implementieren durch entsprechende Module aus den den einzelnen Säulen zugeordneten Vertiefungsrichtungen gemäß § 37 Abs. 2. 
+- 2 Die Wahlpflichtmodule Informatik I bis VIII sind zu implementieren durch entsprechende Module aus den den einzelnen Säulen zugeordneten Vertiefungsrichtungen gemäß § 37 Abs. 2. 
 
 3  Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Informatik gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
@@ -425,12 +417,10 @@ Andere Nebenfächer können im Benehmen mit der Studienkommission durch den Prü
 
 ## **Anlage 4:** 
 
-## **Module die neben den Pflichtmodulen des Studiengangs Informatik in Prüfungsordnungen anderer Studiengänge referenziert werden („Export-Module“)** 
+### **Module die neben den Pflichtmodulen des Studiengangs Informatik in Prüfungsordnungen anderer Studiengänge referenziert werden („Export-Module“)** 
 
-|**Name des Moduls**||**ECTS**|**Prüfungsmodus**|
+|**Name des Moduls**|**Englische Bezeichnung**|**ECTS**|**Prüfungsmodus**|
 |---|---|---|---|
-||**Englische Bezeichnung**|||
-|||||
 |Grundlagen der Informatik ohne schriftl.<br>Prüfung|Fundamentals in Computer Science with-<br>out Exam|5|SL|
 |Grundlagen der Informatik|Fundamentals in Computer Science|7,5|PfP: PL (K, 90 min.)<br>und SL|
 |Informatik für Ingenieure|Computer Science for Engineers|5|K, 90 min.|
@@ -460,10 +450,8 @@ Andere Nebenfächer können im Benehmen mit der Studienkommission durch den Prü
 
 11 
 
-|**Name des Moduls**||**ECTS**|**Prüfungsmodus**|
+|**Name des Moduls**|**Englische Bezeichnung**|**ECTS**|**Prüfungsmodus**|
 |---|---|---|---|
-||**Englische Bezeichnung**|||
-|||||
 |Grundlagen des Software Engineering|Software Engineering Foundations|7,5|K, 90 min.|
 |Hardware-Software-Co-Design|Hardware-Software-Co-Design|5|K, 90 min.|
 |Testen von Softwaresystemen|Testing of Software Systems|5|m|
@@ -477,15 +465,11 @@ PfP=Portfolioprüfung; K=Klausur; m=mündliche Prüfung, ca. 30 min.
 
 ## **Anlage 5** 
 
-||||
-|---|---|---|
 ||**Fahrzeugtechnik**|**Heterogene Bildsysteme**|
+|---|---|---|
 |Vertiefungsrichtungen|Vertiefungsrichtung Programmiersysteme<br>sowie zusätzlich zwei Vertiefungsrichtun-<br>gen der systemorientierten Säule|keine Einschränkung|
-||||
 |Wahlpflichtbereich|Auswahl aus der ortsüblich bekanntge-<br>machten Liste der für diesen Studien-<br>schwerpunkt geeigneten Wahlpflichtmodu-<br>le des Wahlpflichtbereichs  im Umfang von<br>15 ECTS|Auswahl aus der ortsüblich bekanntgemachten<br>Liste der für diesen Studienschwerpunkt geeig-<br>neten Wahlpflichtmodule des Wahlpflichtbe-<br>reichs im Umfang von 30 ECTS|
-||||
 |Projekt|Auswahl aus der ortsüblich bekanntge-<br>machten Liste der für diesen Studien-<br>schwerpunkt geeigneten Projekte|Auswahl aus der ortsüblich bekanntgemachten<br>Liste der für diesen Studienschwerpunkt geeig-<br>neten Projekte|
-||||
 |Nebenfach|„Elektrotechnik,<br>Elektronik und Informationstechnik“ oder<br>„Maschinenbau“|„Elektrotechnik, Elektronik und Informations-<br>technik“|
 
 13 

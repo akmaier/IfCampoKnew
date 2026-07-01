@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:15:48+00:00
-page_count_chars: 91558
+scraped_at: 2026-07-01T10:32:28+00:00
+page_count_chars: 87293
 ---
 
 # StuPO Rechtswissenschaft StuPO Jura 20240617 i.d.F. 20260305.pdf
@@ -12,41 +12,52 @@ page_count_chars: 91558
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Rechtswissenschaft/konsolidierte_Fassungen/StuPO_Rechtswissenschaft_StuPO_Jura_20240617_idF_20260305.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-**==> picture [165 x 49] intentionally omitted <==**
+Friedrich-Alexander-UniversitatErlangen-Nirnberg 
 
-**==> picture [114 x 46] intentionally omitted <==**
+Ee 
 
-## **Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – StuPO Jura – Vom 17. Juni 2024** 
+|§ 31 Abschlussklausuren im Grundstudium ..........................................................................15|
+|---|
+|§ 32 Abschlussklausuren im Zivilrecht ..................................................................................15<br>|
+|§ 33 Abschlussklausuren im Öffentlichen Recht ...................................................................16|
+|§ 34 Abschlussklausuren im Strafrecht .................................................................................16|
+|§ 35 Proseminar im Grundstudium .......................................................................................16|
+|§ 36 Anwendungsbereich und Zweck der Zwischenprüfung .................................................16|
+|§ 37 Zwischenprüfung ..........................................................................................................16|
+|§ 39 Bestehen und Nichtbestehen der Zwischenprüfung, Zeugnis .......................................16|
+|§ 40 Wiederholung der Zwischenprüfung .............................................................................17|
+|**III. Teil: Hauptstudium und Juristische Universitätsprüfung ..........................................17**|
+|§ 41 Umfang und Inhalt des Hauptstudiums und der Juristischen Universitätsprüfung .........17<br>|
+|§ 42 Übungen für Fortgeschrittene .......................................................................................18<br>|
+|§ 43 Zulassung für die Übungen für Fortgeschrittene ...........................................................18<br>|
+|§ 44 Ablauf der Übungen für Fortgeschrittene ......................................................................18|
+|§ 45 Seminar im Schwerpunktstudium .................................................................................18|
+|§ 46 Umfang und Zweck der Juristischen Universitätsprüfung..............................................19|
+|§ 47 Studienbegleitende wissenschaftliche Arbeit ................................................................19|
+|§ 48 Zulassung zur studienbegleitenden wissenschaftlichen Arbeit ......................................20|
+|§ 49 Bearbeitungszeit und Formalien für die studienbegleitende wissenschaftliche Arbeit ...20|
+|§ 50 Bewertung der studienbegleitenden wissenschaftlichen Arbeit .....................................20|
+|§ 51 Zulassung zur Mündlichen Prüfung ..............................................................................21|
+|§ 52 Mündliche Prüfung ........................................................................................................21|
+|**IV. Teil: Schlussvorschriften .............................................................................................22**<br>|
+|§ 53 Inkrafttreten, Übergangsvorschriften .............................................................................22|
+|**Anlage zu § 41 Abs. 3: .......................................................................................................23**|
 
-geändert durch Satzungen vom 26. September 2024 und 
+# **I. Teil: Allgemeine Bestimmungen** 
 
-5. März 2026 
-
-Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
-
-## **Inhaltsverzeichnis:** 
-
-**I. Teil: Allgemeine Bestimmungen ..................................................................................... 2** § 1 Geltungsbereich .............................................................................................................. 2 § 2 Studienziele ..................................................................................................................... 2 § 3 Aufbau des Studiums und der Prüfungen ........................................................................ 2 § 4 Akademischer Grad ......................................................................................................... 3 § 5 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache ............................... 3 § 6 Inhalt des Studiums ......................................................................................................... 3 § 7 Praktische Studienzeit ..................................................................................................... 4 § 8 Nachweis der Fremdsprachenkompetenz ........................................................................ 4 § 9 Lehrveranstaltungen ........................................................................................................ 4 § 10 Anwesenheitspflicht ....................................................................................................... 4 § 11 Studienplan ................................................................................................................... 5 § 12 Prüfungsfristen der Zwischenprüfung, Zeitpunkt der Abschlussprüfung, Freiversuch, Schutzfristen, Fristversäumnis ........................................................................................ 5 § 13 Prüfungsorgane ............................................................................................................. 6 § 14 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht ................................................................................................ 7 § 15 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt ............... 8 § 16 Anerkennung von Kompetenzen .................................................................................... 9 § 17 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme .......................................................................................................10 § 18 Entzug akademischer Grade ........................................................................................10 § 19 Mängel im Prüfungsverfahren .......................................................................................10 § 20 Schriftliche Prüfung ......................................................................................................11 § 21 Elektronische Prüfung ..................................................................................................11 § 22 Bestehen und Nichtbestehen, Bewertung der Prüfungen, Remonstration, Gesamtnote der Juristischen Universitätsprüfung ..............................................................................12 § 23 Ungültigkeit der Prüfung ...............................................................................................12 § 24 Einsicht in die Prüfungsakten .......................................................................................13 § 25 Wiederholung von Prüfungen, Freiversuch ...................................................................13 § 26 Bescheinigung über die bestandene Juristische Universitätsprüfung ............................13 § 27 Bescheinigung über (endgültig) nicht bestandene Prüfung ...........................................14 § 28 Nachteilsausgleich ........................................................................................................14 **II. Teil: Grundstudium und Zwischenprüfung ..................................................................14** § 29 Pflichtveranstaltungen im Grundstudium ......................................................................14 § 30 Hausarbeiten im Grundstudium ....................................................................................15 
-
-1 
-
-§ 31 Abschlussklausuren im Grundstudium ..........................................................................15 § 32 Abschlussklausuren im Zivilrecht ..................................................................................15 § 33 Abschlussklausuren im Öffentlichen Recht ...................................................................16 § 34 Abschlussklausuren im Strafrecht .................................................................................16 § 35 Proseminar im Grundstudium .......................................................................................16 § 36 Anwendungsbereich und Zweck der Zwischenprüfung .................................................16 § 37 Zwischenprüfung ..........................................................................................................16 § 39 Bestehen und Nichtbestehen der Zwischenprüfung, Zeugnis .......................................16 § 40 Wiederholung der Zwischenprüfung .............................................................................17 **III. Teil: Hauptstudium und Juristische Universitätsprüfung ..........................................17** § 41 Umfang und Inhalt des Hauptstudiums und der Juristischen Universitätsprüfung .........17 § 42 Übungen für Fortgeschrittene .......................................................................................18 § 43 Zulassung für die Übungen für Fortgeschrittene ...........................................................18 § 44 Ablauf der Übungen für Fortgeschrittene ......................................................................18 § 45 Seminar im Schwerpunktstudium .................................................................................18 § 46 Umfang und Zweck der Juristischen Universitätsprüfung..............................................19 § 47 Studienbegleitende wissenschaftliche Arbeit ................................................................19 § 48 Zulassung zur studienbegleitenden wissenschaftlichen Arbeit ......................................20 § 49 Bearbeitungszeit und Formalien für die studienbegleitende wissenschaftliche Arbeit ...20 § 50 Bewertung der studienbegleitenden wissenschaftlichen Arbeit .....................................20 § 51 Zulassung zur Mündlichen Prüfung ..............................................................................21 § 52 Mündliche Prüfung ........................................................................................................21 **IV. Teil: Schlussvorschriften .............................................................................................22** § 53 Inkrafttreten, Übergangsvorschriften .............................................................................22 **Anlage zu § 41 Abs. 3: .......................................................................................................23** 
-
-## **I. Teil: Allgemeine Bestimmungen** 
-
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
 Diese Studien- und Prüfungsordnung regelt das Studium und die Prüfungen im Studiengang Rechtswissenschaft am Fachbereich Rechtswissenschaft der Rechtsund Wirtschaftswissenschaftlichen Fakultät der FAU mit dem Abschlussziel der Ersten Juristischen Prüfung auf der Grundlage der Ausbildungs- und Prüfungsordnung für Juristen ( **JAPO** ) in der jeweils gültigen Fassung. 
 
-## **§ 2 Studienziele** 
+# **§ 2 Studienziele** 
 
-1Studienziel ist die Befähigung der Studierenden, das Recht mit Verständnis zu erfassen und anzuwenden und der Erwerb der hierzu erforderlichen Kenntnisse in den Prüfungsfächern mit ihren geschichtlichen, gesellschaftlichen, wirtschaftlichen, politischen, rechtsphilosophischen, ethischen und europarechtlichen Grundlagen.[2] Die Studierenden sollen hiermit die fachlichen Qualifikationen zur erfolgreichen Teilnahme an der Hochschulabschluss- und Einstellungsprüfung für den Vorbereitungsdienst als Rechtsreferendarinnen und Rechtsreferendare (Erste Juristische Prüfung, § 16 **JAPO** ) erwerben. 
+1Studienziel ist die Befähigung der Studierenden, das Recht mit Verständnis zu erfassen und anzuwenden und der Erwerb der hierzu erforderlichen Kenntnisse in den Prüfungsfächern mit ihren geschichtlichen, gesellschaftlichen, wirtschaftlichen, politischen, rechtsphilosophischen, ethischen und europarechtlichen Grundlagen.<sup>2</sup> Die Studierenden sollen hiermit die fachlichen Qualifikationen zur erfolgreichen Teilnahme an der Hochschulabschluss- und Einstellungsprüfung für den Vorbereitungsdienst als Rechtsreferendarinnen und Rechtsreferendare (Erste Juristische Prüfung, § 16 **JAPO** ) erwerben. 
 
-## **§ 3 Aufbau des Studiums und der Prüfungen** 
+# **§ 3 Aufbau des Studiums und der Prüfungen** 
 
-(1)[1] Das Studium gliedert sich in Grundstudium (1. - 4. Semester) sowie Hauptstudium (5. - 10. Semester).[2] Im Rahmen des Hauptstudiums findet das Schwerpunktstudium statt. 
+(1)<sup>1</sup> Das Studium gliedert sich in Grundstudium (1. - 4. Semester) sowie Hauptstudium (5. - 10. Semester).<sup>2</sup> Im Rahmen des Hauptstudiums findet das Schwerpunktstudium statt. 
 
-(2)[1] Die Studierenden können den Verlauf ihres Studiums im Rahmen dieser Studienund Prüfungsordnung und der **JAPO** frei gestalten, sollen ihn jedoch so einrichten, dass sie die Erste Juristische Prüfung in der Regelstudienzeit (§ 5 Abs. 1) ablegen können. 2Sie haben in jedem Semester eine angemessene Zahl von 
+(2)<sup>1</sup> Die Studierenden können den Verlauf ihres Studiums im Rahmen dieser Studienund Prüfungsordnung und der **JAPO** frei gestalten, sollen ihn jedoch so einrichten, dass sie die Erste Juristische Prüfung in der Regelstudienzeit (§ 5 Abs. 1) ablegen können. 2Sie haben in jedem Semester eine angemessene Zahl von 
 
 2 
 
@@ -54,25 +65,25 @@ Lehrveranstaltungen über die Pflichtfächer, den gewählten Schwerpunktbereich 
 
 (3) Ein ordnungsgemäßes Studium erfordert außerdem die Teilnahme an Wiederholungs- und Vertiefungsveranstaltungen zur Examensvorbereitung (§ 23 Abs. 1 Satz 2 **JAPO** ). 
 
-(4)[1] Nach Abschluss des Grundstudiums legen die Studierenden die Zwischenprüfung nach §§ 37 ff. ab. 2An das Hauptstudium schließt sich die Juristische Universitätsprüfung nach §§ 46 ff. an. 
+(4)<sup>1</sup> Nach Abschluss des Grundstudiums legen die Studierenden die Zwischenprüfung nach §§ 37 ff. ab. 2An das Hauptstudium schließt sich die Juristische Universitätsprüfung nach §§ 46 ff. an. 
 
-(5)[1] Prüfungen messen den Erfolg der Studierenden.[2] Sie können schriftlich, mündlich, elektronisch oder in anderer Form erfolgen.[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten. 
+(5)<sup>1</sup> Prüfungen messen den Erfolg der Studierenden.<sup>2</sup> Sie können schriftlich, mündlich, elektronisch oder in anderer Form erfolgen.<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung ( **BayFEV** ) – **EFernPO** – zu beachten. 
 
 (6) Die Teilnahme an Prüfungen setzt die Immatrikulation im Studiengang Rechtswissenschaft an der FAU voraus. 
 
-## **§ 4 Akademischer Grad** 
+# **§ 4 Akademischer Grad** 
 
 1Aufgrund der bestandenen Ersten Juristischen Prüfung wird der akademische Grad „Diplom-Jurist Univ.“ beziehungsweise „Diplom-Juristin Univ.“ verliehen, wenn beide der in § 46 Abs. 1 genannten Prüfungen im Sinne des § 22 Abs. 2 bestanden sind. 2Auf Antrag wird der akademische Grad an Absolventinnen in männlicher Form verliehen. 
 
-## **§ 5 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** 
+# **§ 5 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache** 
 
 (1) Die Regelstudienzeit im Sinne des Art. 79 **BayHIG** beträgt gemäß § 5d Abs. 2 Satz 1 **DRiG** für die gesamte Ausbildung, einschließlich der Prüfungszeit für die Erste Juristische Prüfung, zehn Studienhalbjahre. 
 
 (2) Das Studium kann zum Winter- und zum Sommersemester aufgenommen werden. 
 
-(3)[1] Die Unterrichts- und Prüfungssprache ist Deutsch.[2] Einzelne Veranstaltungen und Prüfungen können in englischer Sprache abgehalten und abgeprüft werden.[3] Näheres regelt die jeweilige Veranstaltungsbeschreibung.[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
+(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist Deutsch.<sup>2</sup> Einzelne Veranstaltungen und Prüfungen können in englischer Sprache abgehalten und abgeprüft werden.<sup>3</sup> Näheres regelt die jeweilige Veranstaltungsbeschreibung.<sup>4</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache. 
 
-## **§ 6 Inhalt des Studiums** 
+# **§ 6 Inhalt des Studiums** 
 
 (1) Inhalt des Studiengangs Rechtswissenschaft sind die Pflichtfächer (§ 18 Abs. 2 **JAPO** ) sowie ein von den Studierenden zu wählender Schwerpunktbereich (§ 39 **JAPO** i. V. m. § 42). 
 
@@ -82,79 +93,79 @@ Lehrveranstaltungen über die Pflichtfächer, den gewählten Schwerpunktbereich 
 
 3 
 
-## **§ 7 Praktische Studienzeit** 
+# **§ 7 Praktische Studienzeit** 
 
-1Die Studierenden haben in der vorlesungsfreien Zeit frühestens nach dem Vorlesungsschluss des zweiten Semesters insgesamt drei Monate an praktischen Studienzeiten teilzunehmen.[2] Näheres regelt § 25 **JAPO** . 
+1Die Studierenden haben in der vorlesungsfreien Zeit frühestens nach dem Vorlesungsschluss des zweiten Semesters insgesamt drei Monate an praktischen Studienzeiten teilzunehmen.<sup>2</sup> Näheres regelt § 25 **JAPO** . 
 
-## **§ 8 Nachweis der Fremdsprachenkompetenz** 
+# **§ 8 Nachweis der Fremdsprachenkompetenz** 
 
-(1)[1] Studierende müssen an einem rechtswissenschaftlich ausgerichteten Sprachkurs der FAU teilnehmen und darüber einen Leistungsnachweis erbringen (§ 24 Abs. 2 **JAPO** ).[2] Die Voraussetzungen für die Teilnahme und die Anforderungen an den Leistungsnachweis bestimmt das Sprachenzentrum der FAU im Einvernehmen mit dem Fachbereich Rechtswissenschaft. 
+(1)<sup>1</sup> Studierende müssen an einem rechtswissenschaftlich ausgerichteten Sprachkurs der FAU teilnehmen und darüber einen Leistungsnachweis erbringen (§ 24 Abs. 2 **JAPO** ).<sup>2</sup> Die Voraussetzungen für die Teilnahme und die Anforderungen an den Leistungsnachweis bestimmt das Sprachenzentrum der FAU im Einvernehmen mit dem Fachbereich Rechtswissenschaft. 
 
-(2)[1] Studierende, die über ausreichende Fremdsprachenkompetenz verfügen, können den zum Nachweis der Fremdsprachenkompetenz erforderlichen Leistungsnachweis statt in einem Sprachkurs nach Abs. 1 in einer fremdsprachigen rechtwissenschaftlichen Lehrveranstaltung erbringen, die vom Fachbereich Rechtswissenschaft hierfür angeboten wird.[2] Die Leiterin bzw. der Leiter der Veranstaltung bestimmt die Voraussetzungen für die Teilnahme und die Anforderungen an den Leistungsnachweis, der jedoch mindestens aus einer schriftlichen Aufsichtsarbeit und einem Prüfungsgespräch bestehen muss. 
+(2)<sup>1</sup> Studierende, die über ausreichende Fremdsprachenkompetenz verfügen, können den zum Nachweis der Fremdsprachenkompetenz erforderlichen Leistungsnachweis statt in einem Sprachkurs nach Abs. 1 in einer fremdsprachigen rechtwissenschaftlichen Lehrveranstaltung erbringen, die vom Fachbereich Rechtswissenschaft hierfür angeboten wird.<sup>2</sup> Die Leiterin bzw. der Leiter der Veranstaltung bestimmt die Voraussetzungen für die Teilnahme und die Anforderungen an den Leistungsnachweis, der jedoch mindestens aus einer schriftlichen Aufsichtsarbeit und einem Prüfungsgespräch bestehen muss. 
 
 (3) Gleichwertige Nachweise oder Vorkenntnisse, insbesondere aus einem Studium im Ausland, werden von der Sprecherin bzw. dem Sprecher des Fachbereichs auf Antrag anerkannt; § 16 bleibt unberührt. 
 
 (4) Den Studierenden wird empfohlen, über den obligatorischen Umfang hinausgehende Nachweise der Fremdsprachenkompetenz zu erwerben. 
 
-## **§ 9 Lehrveranstaltungen** 
+# **§ 9 Lehrveranstaltungen** 
 
 (1) Die Inhalte des Studiums werden insbesondere in Vorlesungen, Propädeutischen Übungen, Übungen für Fortgeschrittene, Proseminaren, Seminaren, Examenskursen sowie dem Examensklausuren-Kurs vermittelt. 
 
-(2)[1] Der zeitliche Umfang ergibt sich aus dem Studienplan (§ 11).[2] Wichtige Gründe können im Einzelfall eine Abweichung von den Zeitkontingenten und von der Zuordnung einzelner Lehrveranstaltungen zu den Semestern erfordern.[3] Nach Möglichkeit werden das Lehrprogramm erweiternde Veranstaltungen angeboten. 
+(2)<sup>1</sup> Der zeitliche Umfang ergibt sich aus dem Studienplan (§ 11).<sup>2</sup> Wichtige Gründe können im Einzelfall eine Abweichung von den Zeitkontingenten und von der Zuordnung einzelner Lehrveranstaltungen zu den Semestern erfordern.<sup>3</sup> Nach Möglichkeit werden das Lehrprogramm erweiternde Veranstaltungen angeboten. 
 
-(3)[1] Pflichtveranstaltungen sind Lehrveranstaltungen, die den Pflichtstoff der Ersten Juristischen Staatsprüfung und den Pflichtstoff des gewählten Schwerpunktbereichs vermitteln.[2] Ergänzungsveranstaltungen geben die Möglichkeit zur Ergänzung und Vertiefung. 
+(3)<sup>1</sup> Pflichtveranstaltungen sind Lehrveranstaltungen, die den Pflichtstoff der Ersten Juristischen Staatsprüfung und den Pflichtstoff des gewählten Schwerpunktbereichs vermitteln.<sup>2</sup> Ergänzungsveranstaltungen geben die Möglichkeit zur Ergänzung und Vertiefung. 
 
-## **§ 10 Anwesenheitspflicht** 
+# **§ 10 Anwesenheitspflicht** 
 
-(1)[1] Bei Seminaren und Proseminaren wird als Voraussetzung für die Zulassung zur Prüfung eine Anwesenheitspflicht vorgesehen, da die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist und der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt.[2] Die Veranstalterin bzw. der Veranstalter des Seminars oder Proseminars kann in begründeten Ausnahmefällen von der Anwesenheitspflicht eine Ausnahme gestatten. 
+(1)<sup>1</sup> Bei Seminaren und Proseminaren wird als Voraussetzung für die Zulassung zur Prüfung eine Anwesenheitspflicht vorgesehen, da die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist und der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt.<sup>2</sup> Die Veranstalterin bzw. der Veranstalter des Seminars oder Proseminars kann in begründeten Ausnahmefällen von der Anwesenheitspflicht eine Ausnahme gestatten. 
 
 4 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 30 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 30 v. H. bis höchstens 50 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 50 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 30 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 30 v. H. bis höchstens 50 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 50 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der bzw. des Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der bzw. des Studierenden zu runden. 
 
-(4)[1] Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.[3] In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen. 
+(4)<sup>1</sup> Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen, sofern diese in Präsenzform abgehalten werden, mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.<sup>2</sup> Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs.<sup>3</sup> In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.<sup>4</sup> Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen. 
 
-## **§ 11 Studienplan** 
+# **§ 11 Studienplan** 
 
 > 1Auf der Grundlage der **JAPO** und dieser Studien- und Prüfungsordnung stellt die Studiendekanin bzw. der Studiendekan des Fachbereichs Rechtswissenschaft einen Studienplan auf, der auf der Webseite des Fachbereichs zugänglich gemacht wird. 2Der Studienplan gibt Empfehlungen für einen sach- und zielgerechten Aufbau des Studiums. 
 
-## **§ 12 Prüfungsfristen der Zwischenprüfung, Zeitpunkt der Abschlussprüfung, Freiversuch, Schutzfristen, Fristversäumnis** 
+# **§ 12 Prüfungsfristen der Zwischenprüfung, Zeitpunkt der Abschlussprüfung, Freiversuch, Schutzfristen, Fristversäumnis** 
 
-(1)[1] Die bzw. der Studierende hat sich so rechtzeitig zu den Teilprüfungen der Zwischenprüfung (§ 37) zu melden, dass sie bzw. er diese bis zum Ende des vierten Fachsemesters vollständig abschließen kann.[2] Zur Meldung für die Teilprüfung im Grundlagenfach wählt die bzw. der Studierende eines aus den in § 29 Abs. 2 Nr. 4 genannten Fächern, für die im fraglichen Semester auch eine Fachprüfung durchgeführt wird, aus.[3] Überschreitet die bzw. der Studierende aus von ihr bzw. ihm zu vertretenden Gründen die Frist nach Satz 1, gelten die nicht fristgerecht abgelegten Teilprüfungen als abgelegt und nicht bestanden. 
+(1)<sup>1</sup> Die bzw. der Studierende hat sich so rechtzeitig zu den Teilprüfungen der Zwischenprüfung (§ 37) zu melden, dass sie bzw. er diese bis zum Ende des vierten Fachsemesters vollständig abschließen kann.<sup>2</sup> Zur Meldung für die Teilprüfung im Grundlagenfach wählt die bzw. der Studierende eines aus den in § 29 Abs. 2 Nr. 4 genannten Fächern, für die im fraglichen Semester auch eine Fachprüfung durchgeführt wird, aus.<sup>3</sup> Überschreitet die bzw. der Studierende aus von ihr bzw. ihm zu vertretenden Gründen die Frist nach Satz 1, gelten die nicht fristgerecht abgelegten Teilprüfungen als abgelegt und nicht bestanden. 
 
 5 
 
-(2)[1] Die Studierenden haben sich unmittelbar im Anschluss an das Studium der mündlichen Prüfung (§ 52) als Teil der Juristischen Universitätsprüfung zu unterziehen.[2] Die Meldefrist wird jeweils von Amts wegen ortsüblich bekannt gemacht. 3Zwischen dem Ende der Meldefrist und der mündlichen Prüfung müssen mindestens zwei Wochen liegen. 4Die Studierenden sollen die Prüfung nach dem Vorlesungsschluss des neunten Semesters ablegen.[5] Wird die mündliche Prüfung nach Abs. 2 i. V. m. § 52 nicht spätestens nach dem Vorlesungsschluss des 13. Semesters abgelegt, so gilt die mündliche Prüfung als abgelegt und mit 0 Punkten bewertet, es sei denn, die Fristüberschreitung beruht auf von der bzw. dem Studierenden nicht zu vertretenden Gründen.[6] § 10 **JAPO** gilt entsprechend. 
+(2)<sup>1</sup> Die Studierenden haben sich unmittelbar im Anschluss an das Studium der mündlichen Prüfung (§ 52) als Teil der Juristischen Universitätsprüfung zu unterziehen.<sup>2</sup> Die Meldefrist wird jeweils von Amts wegen ortsüblich bekannt gemacht. 3Zwischen dem Ende der Meldefrist und der mündlichen Prüfung müssen mindestens zwei Wochen liegen. 4Die Studierenden sollen die Prüfung nach dem Vorlesungsschluss des neunten Semesters ablegen.<sup>5</sup> Wird die mündliche Prüfung nach Abs. 2 i. V. m. § 52 nicht spätestens nach dem Vorlesungsschluss des 13. Semesters abgelegt, so gilt die mündliche Prüfung als abgelegt und mit 0 Punkten bewertet, es sei denn, die Fristüberschreitung beruht auf von der bzw. dem Studierenden nicht zu vertretenden Gründen.<sup>6</sup> § 10 **JAPO** gilt entsprechend. 
 
 (3) Die Frist nach Abs. 1 verlängert sich um die Zeit der Inanspruchnahme der Schutzfristen entsprechend den Regelungen des Gesetzes zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium (Mutterschutzgesetz – **MuSchG** ) in der Fassung der Bekanntmachung vom 23. Mai 2017 (BGBl. I S. 1228) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – **BEEG** ) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – **PflegeZG** ) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch ( **SGB XI** ) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
 
-(4)[1] Die Gründe nach Abs. 1 Satz 3, Abs. 2 Satz 5 und Abs. 3 müssen dem nach § 13 jeweils zuständigen Prüfungsorgan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Werden die Gründe anerkannt, so ist die Prüfung zu dem vom jeweils zuständigen Prüfungsorgan bestimmten Zeitpunkt abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[3] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit ist gleichzeitig ein Attest vorzulegen.[4] Das Prüfungsorgan kann die Vorlage eines vertrauensärztlichen Attestes verlangen. 5Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem zuständigen Prüfungsorgan unverzüglich ein vertrauensärztliches Attest vorzulegen.[6] Es gelten § 15 Abs. 3 Sätze 2 bis 5. 
+(4)<sup>1</sup> Die Gründe nach Abs. 1 Satz 3, Abs. 2 Satz 5 und Abs. 3 müssen dem nach § 13 jeweils zuständigen Prüfungsorgan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Werden die Gründe anerkannt, so ist die Prüfung zu dem vom jeweils zuständigen Prüfungsorgan bestimmten Zeitpunkt abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.<sup>3</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit ist gleichzeitig ein Attest vorzulegen.<sup>4</sup> Das Prüfungsorgan kann die Vorlage eines vertrauensärztlichen Attestes verlangen. 5Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem zuständigen Prüfungsorgan unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>6</sup> Es gelten § 15 Abs. 3 Sätze 2 bis 5. 
 
-## **§ 13 Prüfungsorgane** 
+# **§ 13 Prüfungsorgane** 
 
 (1) Prüfungsorgan für die Zwischenprüfung ist die Sprecherin bzw. der Sprecher des Fachbereichs Rechtswissenschaft; sie bzw. er ist für die Organisation und Durchführung der Zwischenprüfung (§§ 37 ff.) verantwortlich. 
 
-(2)[1] Für die Juristische Universitätsprüfung (§§ 46 ff.) wird ein Prüfungsausschuss eingesetzt. 2Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen. 
+(2)<sup>1</sup> Für die Juristische Universitätsprüfung (§§ 46 ff.) wird ein Prüfungsausschuss eingesetzt. 2Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen. 
 
-(3)[1] Der Prüfungsausschuss nach Abs. 2 besteht aus drei Mitgliedern, die von der Kollegialen Leitung des Fachbereichs Rechtswissenschaft gewählt werden.[2] Zu Mitgliedern können nur Professorinnen und Professoren des Fachbereichs Rechtswissenschaft der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU gewählt werden.[3] Der Ausschuss wählt die bzw. den Vorsitzenden.[4] Die anderen Mitglieder sind ihre bzw. seine Stellvertreterinnen bzw. Stellvertreter. 
+(3)<sup>1</sup> Der Prüfungsausschuss nach Abs. 2 besteht aus drei Mitgliedern, die von der Kollegialen Leitung des Fachbereichs Rechtswissenschaft gewählt werden.<sup>2</sup> Zu Mitgliedern können nur Professorinnen und Professoren des Fachbereichs Rechtswissenschaft der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU gewählt werden.<sup>3</sup> Der Ausschuss wählt die bzw. den Vorsitzenden.<sup>4</sup> Die anderen Mitglieder sind ihre bzw. seine Stellvertreterinnen bzw. Stellvertreter. 
 
 6 
 
-(4)[1] Die Amtszeit der Mitglieder des Prüfungsausschusses beträgt drei Jahre.[2] Die Wiederbestellung ist möglich. 
+(4)<sup>1</sup> Die Amtszeit der Mitglieder des Prüfungsausschusses beträgt drei Jahre.<sup>2</sup> Die Wiederbestellung ist möglich. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen. 3Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Im Übrigen gilt § 30 der **Grundordnung der FAU** . 
+(5)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich oder elektronisch unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen. 3Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Im Übrigen gilt § 30 der **Grundordnung der FAU** . 
 
-(6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen alleine zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen. 4Darüber hinaus kann, soweit diese Studien- und Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(6)<sup>1</sup> Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen alleine zu treffen.<sup>3</sup> Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen. 4Darüber hinaus kann, soweit diese Studien- und Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
-(7)[1] Das jeweils zuständige Prüfungsorgan achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.[2] Mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft es alle anfallenden Entscheidungen.[3] Es überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[4] Es berichtet regelmäßig der Kollegialen Leitung des Fachbereichs Rechtswissenschaft über die Entwicklung der Prüfungen und Studienzeiten.[5] Die Mitglieder des Prüfungsorgans haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.[ 6] Zur Ausführung seiner Aufgaben bedient sich das jeweilige Prüfungsorgan des Prüfungsamtes. 
+(7)<sup>1</sup> Das jeweils zuständige Prüfungsorgan achtet darauf, dass die Bestimmungen dieser Studien- und Prüfungsordnung eingehalten werden.<sup>2</sup> Mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden trifft es alle anfallenden Entscheidungen.<sup>3</sup> Es überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.<sup>4</sup> Es berichtet regelmäßig der Kollegialen Leitung des Fachbereichs Rechtswissenschaft über die Entwicklung der Prüfungen und Studienzeiten.<sup>5</sup> Die Mitglieder des Prüfungsorgans haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen.<sup>6</sup> Zur Ausführung seiner Aufgaben bedient sich das jeweilige Prüfungsorgan des Prüfungsamtes. 
 
-(8)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor einer ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.[3] Auf Grundlage eines Beschlusses des jeweiligen Prüfungsorgans können Notenbescheide der bzw. dem jeweiligen Studierenden in elektronischer Form bekannt gegeben werden. 4Widerspruchsbescheidewerden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem zuständigen Prüfungsorgan und nach Anhörung der zuständigen Prüfenden. 
+(8)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Der bzw. dem Studierenden ist vor einer ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben.<sup>3</sup> Auf Grundlage eines Beschlusses des jeweiligen Prüfungsorgans können Notenbescheide der bzw. dem jeweiligen Studierenden in elektronischer Form bekannt gegeben werden. 4Widerspruchsbescheidewerden im Auftrag der Präsidentin bzw. des Präsidenten erlassen, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem zuständigen Prüfungsorgan und nach Anhörung der zuständigen Prüfenden. 
 
-## **§ 14 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
+# **§ 14 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheitspflicht** 
 
-(1)[1] Das jeweils zuständige Prüfungsorgan bestellt die Prüfenden.[2] Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.[4] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[5] Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
+(1)<sup>1</sup> Das jeweils zuständige Prüfungsorgan bestellt die Prüfenden.<sup>2</sup> Es können alle nach dem **BayHIG** und der **Hochschulprüferverordnung** in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.<sup>3</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt dessen Prüfungsberechtigung vorbehaltlich der Regelungen in Art. 85 **BayHIG** und der **Hochschulprüferverordnung** in der Regel bis zu einem Jahr erhalten.<sup>4</sup> Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.<sup>5</sup> Auf Antrag kann der jeweilige Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern. 
 
 (2) Die bzw. der jeweilige Aufgabenstellende der Zwischenprüfung (§ 37 Abs. 3) wählt aus den von der Sprecherin bzw. dem Sprecher des Fachbereichs bestellten Prüfenden die für die Korrektur der Prüfungsarbeiten zuständigen Prüfenden aus. 
 
@@ -162,61 +173,61 @@ Lehrveranstaltungen über die Pflichtfächer, den gewählten Schwerpunktbereich 
 
 (3) Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel der bzw. des Prüfenden ist zulässig. 
 
-(4)[1] Zur Beisitzerin bzw. zum Beisitzer der Juristischen Universitätsprüfung kann bestellt werden, wer dem Fachbereich Rechtswissenschaft als Mitarbeiterin bzw. Mitarbeiter angehört und mindestens die Erste Juristische Prüfung bestanden hat. 2Beisitzerin bzw. Beisitzer kann ferner jede bzw. jeder Prüfende der Ersten Juristischen Staatsprüfung sein. 
+(4)<sup>1</sup> Zur Beisitzerin bzw. zum Beisitzer der Juristischen Universitätsprüfung kann bestellt werden, wer dem Fachbereich Rechtswissenschaft als Mitarbeiterin bzw. Mitarbeiter angehört und mindestens die Erste Juristische Prüfung bestanden hat. 2Beisitzerin bzw. Beisitzer kann ferner jede bzw. jeder Prüfende der Ersten Juristischen Staatsprüfung sein. 
 
 (5) Der Ausschluss von der Beratung und Abstimmung im jeweiligen Prüfungsorgan sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 51 Abs. 2 **BayHIG** bzw. Art. 20, 21 **BayVwVfG** . 
 
 (6) Die Pflicht der Mitglieder des jeweils zuständigen Prüfungsorgans und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 26 Abs. 2 Sätzen 2 und 3 **BayHIG** . 
 
-## **§ 15 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** 
+# **§ 15 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt** 
 
 (1) Vorbehaltlich abweichender Bestimmungen in dieser Studienund Prüfungsordnung gibt das zuständige Prüfungsorgan die Termine der Prüfungen und die Prüfenden rechtzeitig vorher ortsüblich bekannt. 
 
-(2)[1] Die Studierenden melden sich zu den einzelnen (Teil-)Prüfungen eigenständig an. 2Eine Anmeldepflicht besteht für die Teilprüfungen der Zwischenprüfung (§ 37). 3Eine Anmeldepflicht kann von der zuständigen Lehrperson auch für Abschlussklausuren (§ 31) festgelegt werden.[4] Die Termine für die Meldung zu den (Teil-)Prüfungen werden mit Beginn der Vorlesungszeit des Prüfungssemesters ortsüblich unter Angabe einer Ausschlussfrist bekannt gegeben. 
+(2)<sup>1</sup> Die Studierenden melden sich zu den einzelnen (Teil-)Prüfungen eigenständig an. 2Eine Anmeldepflicht besteht für die Teilprüfungen der Zwischenprüfung (§ 37). 3Eine Anmeldepflicht kann von der zuständigen Lehrperson auch für Abschlussklausuren (§ 31) festgelegt werden.<sup>4</sup> Die Termine für die Meldung zu den (Teil-)Prüfungen werden mit Beginn der Vorlesungszeit des Prüfungssemesters ortsüblich unter Angabe einer Ausschlussfrist bekannt gegeben. 
 
-(3)[1] Unbeschadet der Fristen gemäß § 12 und § 40 Abs. 2 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden.[3] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; das jeweilige nach § 13 zuständige Prüfungsorgan kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[4] Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[6] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[7] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich. 8Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 17 Abs. 1. 
+(3)<sup>1</sup> Unbeschadet der Fristen gemäß § 12 und § 40 Abs. 2 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden.<sup>3</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; das jeweilige nach § 13 zuständige Prüfungsorgan kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>4</sup> Das (vertrauens-)ärztliche Attest muss eine Beschreibung der gesundheitlichen Beeinträchtigung und die Angabe der sich daraus ergebenden Verminderung des Leistungsvermögens in der Prüfung speziell durch die Störung bestimmter körperlicher oder geistiger Funktionen enthalten.<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit (= Prüfungsabbruch) ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>6</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.<sup>7</sup> Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich. 8Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 17 Abs. 1. 
 
 8 
 
-## **§ 16 Anerkennung von Kompetenzen** 
+# **§ 16 Anerkennung von Kompetenzen** 
 
-(1)[1] Vorbehaltlich der Regelung in §§ 22, 24 und 43 **JAPO** werden Studienzeiten, Studien- und Prüfungsleistungen und Zwischenprüfungen, die in anderen Studiengängen an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschule erbracht worden sind, bei einem Studium nach dieser Studien- und Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für die Zwischenprüfung, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
+(1)<sup>1</sup> Vorbehaltlich der Regelung in §§ 22, 24 und 43 **JAPO** werden Studienzeiten, Studien- und Prüfungsleistungen und Zwischenprüfungen, die in anderen Studiengängen an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschule erbracht worden sind, bei einem Studium nach dieser Studien- und Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für die Zwischenprüfung, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.<sup>3</sup> Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
 
-(2)[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studienund prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit francoallemand“ wird als Juristische Universitätsprüfung gemäß § 43 **JAPO** anerkannt.[2] Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung. 3In der Bescheinigung nach § 26 Abs. 1 wird als Schwerpunktbereich „DeutschFranzösisches Recht“ angegeben. 
+(3)<sup>1</sup> Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studienund prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit francoallemand“ wird als Juristische Universitätsprüfung gemäß § 43 **JAPO** anerkannt.<sup>2</sup> Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung. 3In der Bescheinigung nach § 26 Abs. 1 wird als Schwerpunktbereich „DeutschFranzösisches Recht“ angegeben. 
 
-(4)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie gemäß § 22 Abs. 1 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 22 Abs. 1 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach einem vom Fachbereich Rechtswissenschaft festgelegten Schlüssel umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 
+(4)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie gemäß § 22 Abs. 1 gebildet wurden.<sup>2</sup> Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 22 Abs. 1 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach einem vom Fachbereich Rechtswissenschaft festgelegten Schlüssel umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 
 
-(5)[1] Vorbehaltlich der Regelung in Abs. 6 ist ein Antrag auf Anerkennung von Leistungen schriftlich an die Sprecherin bzw. den Sprecher des Fachbereichs zu richten.[2] Dem Antrag ist eine Erklärung darüber beizufügen, 
+(5)<sup>1</sup> Vorbehaltlich der Regelung in Abs. 6 ist ein Antrag auf Anerkennung von Leistungen schriftlich an die Sprecherin bzw. den Sprecher des Fachbereichs zu richten.<sup>2</sup> Dem Antrag ist eine Erklärung darüber beizufügen, 
 
 1. ob und gegebenenfalls welche vergleichbaren Studien- und Prüfungsleistungen bereits an einer anderen Hochschule abgelegt wurden und 
 
 2. ob die Zwischenprüfung im Studiengang Rechtswissenschaft oder die Erste Juristische Staatsprüfung endgültig nicht bestanden wurde. 
 
-- 3Vorbehaltlich der Regelung in Satz 4 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung.[4] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht 
+- 3Vorbehaltlich der Regelung in Satz 4 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung.<sup>4</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht 
 
 9 
 
-durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet und auch die Erste Juristische Staatsprüfung noch nicht endgültig nicht bestanden ist.[5] Die Entscheidung trifft die Sprecherin bzw. der Sprecher des Fachbereichs nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters; die Entscheidung ergeht schriftlich. 
+durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet und auch die Erste Juristische Staatsprüfung noch nicht endgültig nicht bestanden ist.<sup>5</sup> Die Entscheidung trifft die Sprecherin bzw. der Sprecher des Fachbereichs nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters; die Entscheidung ergeht schriftlich. 
 
-(6)[1] Die für die Anerkennung auf die Juristische Universitätsprüfung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses der Juristischen Universitätsprüfung vorzulegen. 2Abs. 5 Sätze 2 bis 5 gelten entsprechend. 
+(6)<sup>1</sup> Die für die Anerkennung auf die Juristische Universitätsprüfung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses der Juristischen Universitätsprüfung vorzulegen. 2Abs. 5 Sätze 2 bis 5 gelten entsprechend. 
 
-## **§ 17 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
+# **§ 17 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
 
-(1)[1] Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist (§ 15 Abs. 3) ohne triftige Gründe zurücktritt; § 12 Abs. 4 bleibt unberührt.[2] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe nach Satz 1 müssen gegenüber dem zuständigen Prüfungsorgan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden; § 15 Abs. 3 Sätze 2 bis 5 gelten entsprechend.[3] Erkennt das jeweils zuständige Prüfungsorgan die Gründe an, so ist die Prüfung zum nächstmöglichen Termin abzuleisten. 
+(1)<sup>1</sup> Eine Prüfung gilt als mit „nicht ausreichend“ bewertet, wenn die bzw. der Studierende zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist (§ 15 Abs. 3) ohne triftige Gründe zurücktritt; § 12 Abs. 4 bleibt unberührt.<sup>2</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe nach Satz 1 müssen gegenüber dem zuständigen Prüfungsorgan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden; § 15 Abs. 3 Sätze 2 bis 5 gelten entsprechend.<sup>3</sup> Erkennt das jeweils zuständige Prüfungsorgan die Gründe an, so ist die Prüfung zum nächstmöglichen Termin abzuleisten. 
 
-(2)[1] Im Falle des Plagiats sowie bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zum eigenen oder fremden Vorteil zu beeinflussen, gilt die betreffende Prüfung als mit „ungenügend“ bewertet.[2] Zu den nicht zugelassenen Hilfsmitteln nach Satz 1 zählen alle Hilfen, die geeignet sind, die eigenständige Leistung ganz oder teilweise zu ersetzen, sofern diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wurden. 
+(2)<sup>1</sup> Im Falle des Plagiats sowie bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zum eigenen oder fremden Vorteil zu beeinflussen, gilt die betreffende Prüfung als mit „ungenügend“ bewertet.<sup>2</sup> Zu den nicht zugelassenen Hilfsmitteln nach Satz 1 zählen alle Hilfen, die geeignet sind, die eigenständige Leistung ganz oder teilweise zu ersetzen, sofern diese nicht ausdrücklich von der bzw. dem Prüfenden als Hilfsmittel zugelassen wurden. 
 
 (3) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der betreffenden Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit „ungenügend“ bewertet. 
 
-(4)[1] Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann das zuständige Prüfungsorgan die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen mit der Folge, dass die bzw. der Studierende den Prüfungsanspruch in der entsprechenden Prüfung verliert (endgültiges Nichtbestehen).[2] Im Übrigen gilt § 8 Abs. 2 Nr. 2 **JAPO** entsprechend. 
+(4)<sup>1</sup> Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann das zuständige Prüfungsorgan die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen mit der Folge, dass die bzw. der Studierende den Prüfungsanspruch in der entsprechenden Prüfung verliert (endgültiges Nichtbestehen).<sup>2</sup> Im Übrigen gilt § 8 Abs. 2 Nr. 2 **JAPO** entsprechend. 
 
-## **§ 18 Entzug akademischer Grade** 
+# **§ 18 Entzug akademischer Grade** 
 
 Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG** . 
 
-## **§ 19 Mängel im Prüfungsverfahren** 
+# **§ 19 Mängel im Prüfungsverfahren** 
 
 (1) Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben und nicht geheilt werden können, kann auf Antrag einer bzw. eines Studierenden angeordnet werden, dass von einer bzw. einem bestimmten oder von allen Studierenden die Prüfung oder einzelne Teile derselben wiederholt wird bzw. werden. 
 
@@ -226,39 +237,39 @@ Der Entzug des akademischen Grades richtet sich nach Art. 101 **BayHIG** .
 
 (3) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr getroffen werden. 
 
-## **§ 20 Schriftliche Prüfung** 
+# **§ 20 Schriftliche Prüfung** 
 
-(1)[1] In den schriftlichen Prüfungen (insbesondere Zwischenprüfungsklausuren) sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung finden können.[ 2] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten.[3] Soweit diese Studien- und Prüfungsordnung nichts anderes vorsieht, wird die jeweilige Prüfungsform einschließlich der zulässigen Hilfsmittel von der für die Veranstaltung verantwortlichen Lehrperson spätestens zwei Wochen nach Vorlesungsbeginn festgelegt und ortsüblich bekannt gemacht.[4] Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
+(1)<sup>1</sup> In den schriftlichen Prüfungen (insbesondere Zwischenprüfungsklausuren) sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den geläufigen Methoden des Faches erkennen und Wege zur Lösung finden können.<sup>2</sup> Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als Open-Book-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten.<sup>3</sup> Soweit diese Studien- und Prüfungsordnung nichts anderes vorsieht, wird die jeweilige Prüfungsform einschließlich der zulässigen Hilfsmittel von der für die Veranstaltung verantwortlichen Lehrperson spätestens zwei Wochen nach Vorlesungsbeginn festgelegt und ortsüblich bekannt gemacht.<sup>4</sup> Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten. 
 
-(2)[1] Eine mit „mangelhaft“ oder „ungenügend“ bewertete schriftliche Prüfung ist von zwei Prüfenden zu bewerten.[2] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
+(2)<sup>1</sup> Eine mit „mangelhaft“ oder „ungenügend“ bewertete schriftliche Prüfung ist von zwei Prüfenden zu bewerten.<sup>2</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
 
-## **§ 21 Elektronische Prüfung in Präsenz** 
+# **§ 21 Elektronische Prüfung in Präsenz** 
 
-(1)[1] Die Durchführung der Prüfungen im Sinne des § 20 ist auch unter Einsatz elektronischer Systeme in Räumen der Universität unter Aufsicht zulässig (E-Prüfung). 2Die Entscheidung, eine E-Prüfung anzubieten, trifft der bzw. die Prüfende. 3In der jeweiligen Veranstaltungsbekanntmachung wird die Entscheidung mitgeteilt.[4] Wird eine E-Prüfung angeboten, können die Prüfungsteilnehmerinnen und Prüfungsteilnehmer wählen, ob sie die in dieser Prüfung zu erbringenden Leistungen handschriftlich oder unter Einsatz elektronischer Systeme erbringen.[5] Die Modalitäten der Ausübung des Wahlrechts werden von der bzw. dem Prüfenden festgelegt.[6] Die Ausübung des Wahlrechts kann nicht widerrufen werden.[7] Wer das Wahlrecht nicht ausübt, hat die Prüfungsleistung als E-Prüfung zu erbringen.[8] Tritt während der Prüfung ein technisches Hindernis auf, kann die Prüfung schriftlich im Sinne des § 20 fortgesetzt werden. 
+(1)<sup>1</sup> Die Durchführung der Prüfungen im Sinne des § 20 ist auch unter Einsatz elektronischer Systeme in Räumen der Universität unter Aufsicht zulässig (E-Prüfung). 2Die Entscheidung, eine E-Prüfung anzubieten, trifft der bzw. die Prüfende. 3In der jeweiligen Veranstaltungsbekanntmachung wird die Entscheidung mitgeteilt.<sup>4</sup> Wird eine E-Prüfung angeboten, können die Prüfungsteilnehmerinnen und Prüfungsteilnehmer wählen, ob sie die in dieser Prüfung zu erbringenden Leistungen handschriftlich oder unter Einsatz elektronischer Systeme erbringen.<sup>5</sup> Die Modalitäten der Ausübung des Wahlrechts werden von der bzw. dem Prüfenden festgelegt.<sup>6</sup> Die Ausübung des Wahlrechts kann nicht widerrufen werden.<sup>7</sup> Wer das Wahlrecht nicht ausübt, hat die Prüfungsleistung als E-Prüfung zu erbringen.<sup>8</sup> Tritt während der Prüfung ein technisches Hindernis auf, kann die Prüfung schriftlich im Sinne des § 20 fortgesetzt werden. 
 
 (2) Die Anforderungen an die zulässigen Endgeräte einschließlich etwaigen Zubehörs und die übrigen einzusetzenden elektronischen Systeme (technische Ausstattung einschließlich der erforderlichen Anwendungen) sind durch die bzw. den Prüfenden zu bestimmen, sofern nicht der Studiendekan bzw. die Studiendekanin einheitliche Bestimmungen trifft, und den Studierenden in der Veranstaltungsbekanntmachung mitzuteilen. 
 
-(3)[1] Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchgeführt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die 
+(3)<sup>1</sup> Werden E-Prüfungen nicht mit von der Universität gestellten Mitteln durchgeführt, sind die Prüfungsteilnehmerinnen und Prüfungsteilnehmer selbst für die 
 
 11 
 
-Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwortlich. 2Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung nicht ordnungsgemäß funktioniert.[3] Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche Software zu installieren und während der Prüfung zu nutzen. 
+Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwortlich. 2Sie tragen insbesondere das Risiko, dass die Ausstattung in der Prüfung nicht ordnungsgemäß funktioniert.<sup>3</sup> Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sind bei der Verwendung eigener Endgeräte verpflichtet, erforderliche Software zu installieren und während der Prüfung zu nutzen. 
 
 (4) Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen. 
 
-## **§ 22 Bestehen und Nichtbestehen, Bewertung der Prüfungen, Remonstration, Gesamtnote der Juristischen Universitätsprüfung** 
+# **§ 22 Bestehen und Nichtbestehen, Bewertung der Prüfungen, Remonstration, Gesamtnote der Juristischen Universitätsprüfung** 
 
-(1)[1] Die Bewertung einzelner Prüfungen richtet sich nach § 1 der Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung ( **JurPrNotSkV** ) in der jeweils geltenden Fassung.[2] Die Notenbezeichnung einer Gesamtnote richtet sich nach § 2 Abs. 2 der **JurPrNotSkV** .[3] Dies gilt nicht für die Endnote nach § 50 Abs. 1 Satz 3. 
+(1)<sup>1</sup> Die Bewertung einzelner Prüfungen richtet sich nach § 1 der Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung ( **JurPrNotSkV** ) in der jeweils geltenden Fassung.<sup>2</sup> Die Notenbezeichnung einer Gesamtnote richtet sich nach § 2 Abs. 2 der **JurPrNotSkV** .<sup>3</sup> Dies gilt nicht für die Endnote nach § 50 Abs. 1 Satz 3. 
 
-(2)[1] Eine Prüfung ist bestanden, wenn sie mindestens mit der Note „ausreichend“ (mindestens 4 Punkte) gemäß § 1 **JurPrNotSkV** in der jeweils geltenden Fassung bewertet worden ist.[2] Eine Prüfung ist nicht bestanden, wenn sie mit 0 - 3 Punkten gemäß § 1 **JurPrNotSkV** in der jeweils geltenden Fassung bewertet worden ist. 
+(2)<sup>1</sup> Eine Prüfung ist bestanden, wenn sie mindestens mit der Note „ausreichend“ (mindestens 4 Punkte) gemäß § 1 **JurPrNotSkV** in der jeweils geltenden Fassung bewertet worden ist.<sup>2</sup> Eine Prüfung ist nicht bestanden, wenn sie mit 0 - 3 Punkten gemäß § 1 **JurPrNotSkV** in der jeweils geltenden Fassung bewertet worden ist. 
 
-(3)[1] Die Noten für die einzelnen (Teil-)Prüfungen der Zwischenprüfung werden von der bzw. dem jeweiligen Prüfenden festgesetzt.[2] Die Bewertung sowie das Bestehen oder Nichtbestehen richtet sich nach Abs. 1.[3] Eine von der bzw. dem Erstprüfenden mit „mangelhaft“ oder „ungenügend“ bewertete Zwischenprüfung ist von einer Zweitprüferin bzw. einem Zweitprüfer zu bewerten.[4] Bewertet die Zweitprüferin bzw. der Zweitprüfer diese Prüfungsleistung mit mindestens „ausreichend“, ist die Prüfung einer bzw. einem dritten Prüfenden, die bzw. der in der Regel die Aufgabenstellerin bzw. der Aufgabensteller sein soll, zum Stichentscheid vorzulegen. 
+(3)<sup>1</sup> Die Noten für die einzelnen (Teil-)Prüfungen der Zwischenprüfung werden von der bzw. dem jeweiligen Prüfenden festgesetzt.<sup>2</sup> Die Bewertung sowie das Bestehen oder Nichtbestehen richtet sich nach Abs. 1.<sup>3</sup> Eine von der bzw. dem Erstprüfenden mit „mangelhaft“ oder „ungenügend“ bewertete Zwischenprüfung ist von einer Zweitprüferin bzw. einem Zweitprüfer zu bewerten.<sup>4</sup> Bewertet die Zweitprüferin bzw. der Zweitprüfer diese Prüfungsleistung mit mindestens „ausreichend“, ist die Prüfung einer bzw. einem dritten Prüfenden, die bzw. der in der Regel die Aufgabenstellerin bzw. der Aufgabensteller sein soll, zum Stichentscheid vorzulegen. 
 
-(4)[1] Die bzw. der betroffene Studierende kann schriftlich Einwände gegen die Bewertung der Prüfung bei der Aufgabenstellerin bzw. dem Aufgabensteller erheben (Remonstration).[2] Über diese Einwände entscheidet die Aufgabenstellerin bzw. der Aufgabensteller.[3] Die Aufgabenstellerin bzw. der Aufgabensteller bestimmt eine Frist, innerhalb derer die Remonstration erhoben werden muss und kann verlangen, dass die bzw. der betroffene Studierende zuvor an einem allgemeinen Besprechungstermin der Prüfung teilnimmt.[4] Die erneute Bewertung der Prüfung kann zu einer Verschlechterung der Bewertung führen ( _reformatio in peius_ ). 
+(4)<sup>1</sup> Die bzw. der betroffene Studierende kann schriftlich Einwände gegen die Bewertung der Prüfung bei der Aufgabenstellerin bzw. dem Aufgabensteller erheben (Remonstration).<sup>2</sup> Über diese Einwände entscheidet die Aufgabenstellerin bzw. der Aufgabensteller.<sup>3</sup> Die Aufgabenstellerin bzw. der Aufgabensteller bestimmt eine Frist, innerhalb derer die Remonstration erhoben werden muss und kann verlangen, dass die bzw. der betroffene Studierende zuvor an einem allgemeinen Besprechungstermin der Prüfung teilnimmt.<sup>4</sup> Die erneute Bewertung der Prüfung kann zu einer Verschlechterung der Bewertung führen ( _reformatio in peius_ ). 
 
-(5) 1Aus den Einzelnoten der Juristischen Universitätsprüfung wird eine Prüfungsgesamtnote gebildet.[2] Dazu werden die Endnote nach § 50 Abs. 1 Satz 3 und die Note der mündlichen Prüfung nach § 52 zusammengezählt und die Summe durch zwei geteilt.[3] Die Notenbezeichnung der Gesamtnote richtet sich nach Abs. 1 Satz 2. 
+(5) 1Aus den Einzelnoten der Juristischen Universitätsprüfung wird eine Prüfungsgesamtnote gebildet.<sup>2</sup> Dazu werden die Endnote nach § 50 Abs. 1 Satz 3 und die Note der mündlichen Prüfung nach § 52 zusammengezählt und die Summe durch zwei geteilt.<sup>3</sup> Die Notenbezeichnung der Gesamtnote richtet sich nach Abs. 1 Satz 2. 
 
-## **§ 23 Ungültigkeit der Prüfung** 
+# **§ 23 Ungültigkeit der Prüfung** 
 
 (1) Wurde bei einer Prüfung getäuscht und wird diese Tatsache erst nach Bekanntgabe der Note bekannt, so kann das jeweils zuständige Prüfungsorgan nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
@@ -268,47 +279,47 @@ Funktionsfähigkeit der von ihnen eingesetzten technischen Ausstattung verantwor
 
 (3) Vor einer Entscheidung ist der bzw. dem Studierenden Gelegenheit zur Stellungnahme zu geben. 
 
-(4)[1] Ein unrichtiges Zeugnis der Zwischenprüfung bzw. eine unrichtige Bescheinigung über die bestandene Juristische Universitätsprüfung nach § 26 wird eingezogen; es wird gegebenenfalls ein neues Zeugnis ausgestellt.[2] Eine Entscheidung nach Abs. 1 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum des Zeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Ein unrichtiges Zeugnis der Zwischenprüfung bzw. eine unrichtige Bescheinigung über die bestandene Juristische Universitätsprüfung nach § 26 wird eingezogen; es wird gegebenenfalls ein neues Zeugnis ausgestellt.<sup>2</sup> Eine Entscheidung nach Abs. 1 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum des Zeugnisses ausgeschlossen. 
 
-## **§ 24 Einsicht in die Prüfungsakten** 
+# **§ 24 Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss der einzelnen Prüfungen erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
 
-(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem für die Einsicht zuständigen Prüfungsorgan zu stellen.[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt das jeweils zuständige Prüfungsorgan.[ 3] Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 **BayVwVfG** in der jeweils geltenden Fassung beantragen. 
+(2)<sup>1</sup> Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei dem für die Einsicht zuständigen Prüfungsorgan zu stellen.<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt das jeweils zuständige Prüfungsorgan.<sup>3</sup> Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 **BayVwVfG** in der jeweils geltenden Fassung beantragen. 
 
-## **§ 25 Wiederholung von Prüfungen, Freiversuch** 
+# **§ 25 Wiederholung von Prüfungen, Freiversuch** 
 
-(1)[1] Prüfungen der Zwischenprüfung und der Juristischen Universitätsprüfung, die schlechter als mit „ausreichend“ (4,00 Punkte) bewertet wurden, können je einmal wiederholt werden.[2] Dies gilt nicht, wenn die bzw. der Studierende zwischenzeitlich die Erste Juristische Staatsprüfung endgültig nicht bestanden hat.[3] Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht möglich. 4Die Wiederholung einer Prüfung, die mit „ausreichend“ (4,00 Punkte) und besser bewertet wurde, zum Zweck der Notenverbesserung, ist nicht möglich. 
+(1)<sup>1</sup> Prüfungen der Zwischenprüfung und der Juristischen Universitätsprüfung, die schlechter als mit „ausreichend“ (4,00 Punkte) bewertet wurden, können je einmal wiederholt werden.<sup>2</sup> Dies gilt nicht, wenn die bzw. der Studierende zwischenzeitlich die Erste Juristische Staatsprüfung endgültig nicht bestanden hat.<sup>3</sup> Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht möglich. 4Die Wiederholung einer Prüfung, die mit „ausreichend“ (4,00 Punkte) und besser bewertet wurde, zum Zweck der Notenverbesserung, ist nicht möglich. 
 
 (2) Wer spätestens sechs Monate nach vollständiger Ablegung des schriftlichen Teils der Ersten Juristischen Staatsprüfung, an der er gemäß § 37 **JAPO** im Freiversuch zugelassen war, alle vorgesehenen Prüfungsleistungen der Juristischen Universitätsprüfung mindestens einmal vollständig abgelegt hat, kann die mündliche Prüfung der Juristischen Universitätsprüfung abweichend von Abs. 1 ein weiteres Mal wiederholen. 
 
-## **§ 26 Bescheinigung über die bestandene Juristische Universitätsprüfung** 
+# **§ 26 Bescheinigung über die bestandene Juristische Universitätsprüfung** 
 
-(1)[1] Über die bestandene Juristische Universitätsprüfung wird eine Bescheinigung ausgestellt, die die Bezeichnung des Schwerpunktbereiches und die Prüfungsgesamtnote nach Notenstufe und Punktwert sowie die einzelnen Prüfungsleistungen, die Endnote nach § 50 Abs. 1 und die Note der mündlichen Prüfung nach § 52 sowie das Gewicht, mit dem diese in die Prüfungsgesamtnote eingeflossen sind, ausweist.[2] Ist die Prüfung nicht bestanden, wird dies der bzw. dem Studierenden schriftlich mitgeteilt. 
+(1)<sup>1</sup> Über die bestandene Juristische Universitätsprüfung wird eine Bescheinigung ausgestellt, die die Bezeichnung des Schwerpunktbereiches und die Prüfungsgesamtnote nach Notenstufe und Punktwert sowie die einzelnen Prüfungsleistungen, die Endnote nach § 50 Abs. 1 und die Note der mündlichen Prüfung nach § 52 sowie das Gewicht, mit dem diese in die Prüfungsgesamtnote eingeflossen sind, ausweist.<sup>2</sup> Ist die Prüfung nicht bestanden, wird dies der bzw. dem Studierenden schriftlich mitgeteilt. 
 
-(2)[1] Das Prüfungsamt übersendet dem Landesjustizprüfungsamt nach Ablegung der Juristischen Universitätsprüfung einen Originalabdruck der Bescheinigung über die 
+(2)<sup>1</sup> Das Prüfungsamt übersendet dem Landesjustizprüfungsamt nach Ablegung der Juristischen Universitätsprüfung einen Originalabdruck der Bescheinigung über die 
 
 13 
 
-Prüfungsgesamtnote der Juristischen Universitätsprüfung zur Anfertigung des Zeugnisses gemäß § 17 Abs. 1 Satz 4 **JAPO** durch das Landesjustizprüfungsamt.[2] Ist die Juristische Universitätsprüfung endgültig nicht bestanden, so übersendet das Prüfungsamt an das Landesjustizprüfungsamt einen Originalabdruck des Bescheids über das Nichtbestehen der Juristischen Universitätsprüfung. 
+Prüfungsgesamtnote der Juristischen Universitätsprüfung zur Anfertigung des Zeugnisses gemäß § 17 Abs. 1 Satz 4 **JAPO** durch das Landesjustizprüfungsamt.<sup>2</sup> Ist die Juristische Universitätsprüfung endgültig nicht bestanden, so übersendet das Prüfungsamt an das Landesjustizprüfungsamt einen Originalabdruck des Bescheids über das Nichtbestehen der Juristischen Universitätsprüfung. 
 
-## **§ 27 Bescheinigung über (endgültig) nicht bestandene Prüfung** 
+# **§ 27 Bescheinigung über (endgültig) nicht bestandene Prüfung** 
 
-1Wer die Zwischenprüfung bzw. den Studiengang endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Leistungsnachweisen erzielten Noten ausdrucken. 
+1Wer die Zwischenprüfung bzw. den Studiengang endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.<sup>2</sup> Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Leistungsnachweisen erzielten Noten ausdrucken. 
 
-## **§ 28 Nachteilsausgleich** 
+# **§ 28 Nachteilsausgleich** 
 
-(1)[1] Vorbehaltlich der Regelung in § 13 **JAPO** ist im Prüfungsverfahren auf Art und Schwere einer Behinderung gemäß den nachfolgenden Bestimmungen Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des jeweiligen Prüfungsorgans gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.[3] Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
+(1)<sup>1</sup> Vorbehaltlich der Regelung in § 13 **JAPO** ist im Prüfungsverfahren auf Art und Schwere einer Behinderung gemäß den nachfolgenden Bestimmungen Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des jeweiligen Prüfungsorgans gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf.<sup>3</sup> Sätze 1 und 2 gelten entsprechend für Studierende in besonderen Lebenslagen, deren Auswirkungen auf die Prüfungsfähigkeit mit einer länger andauernden Krankheit oder Behinderung im Sinne des Satz 2 vergleichbar sind. 
 
 (2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
-(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des jeweiligen Prüfungsorgans nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende mit Behinderung getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 3Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den jeweiligen Prüfungsausschuss zu richten. 
+(3)<sup>1</sup> Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des jeweiligen Prüfungsorgans nach Anhörung der bzw. des Beauftragten für behinderte und chronisch kranke Studierende mit Behinderung getroffen.<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 3Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den jeweiligen Prüfungsausschuss zu richten. 
 
-## **II. Teil: Grundstudium und Zwischenprüfung** 
+# **II. Teil: Grundstudium und Zwischenprüfung** 
 
-## **§ 29 Pflichtveranstaltungen im Grundstudium** 
+# **§ 29 Pflichtveranstaltungen im Grundstudium** 
 
-(1)[1] Die Studierenden haben im Grundstudium (erstes bis viertes Fachsemester nach Studienplan gemäß § 11) die Vorlesungen im Bürgerlichen Recht, im Öffentlichen Recht und im Strafrecht sowie in den Grundlagenfächern als Pflichtveranstaltungen zu besuchen. 
+(1)<sup>1</sup> Die Studierenden haben im Grundstudium (erstes bis viertes Fachsemester nach Studienplan gemäß § 11) die Vorlesungen im Bürgerlichen Recht, im Öffentlichen Recht und im Strafrecht sowie in den Grundlagenfächern als Pflichtveranstaltungen zu besuchen. 
 
 - (2) Pflichtveranstaltungen im Sinne des Abs. 1 sind 
 
@@ -352,75 +363,75 @@ Prüfungsgesamtnote der Juristischen Universitätsprüfung zur Anfertigung des Z
 
 4. in den Grundlagenfächern eine Veranstaltung zu den geschichtlichen, philosophischen, methodischen oder theoretischen Grundlagen des Rechts nach Wahl der bzw. des Studierenden. 
 
-## **§ 30 Hausarbeiten im Grundstudium** 
+# **§ 30 Hausarbeiten im Grundstudium** 
 
-1Nach dem Vorlesungsende werden Hausarbeiten in einem oder mehreren Fächern gem. § 29 Abs. 2 Nr. 1 bis 3 gestellt.[2] Für die Bewertung der Hausarbeiten gelten § 22 Abs. 1 und 2. 
+1Nach dem Vorlesungsende werden Hausarbeiten in einem oder mehreren Fächern gem. § 29 Abs. 2 Nr. 1 bis 3 gestellt.<sup>2</sup> Für die Bewertung der Hausarbeiten gelten § 22 Abs. 1 und 2. 
 
-## **§ 31 Abschlussklausuren im Grundstudium** 
+# **§ 31 Abschlussklausuren im Grundstudium** 
 
-(1)[1] In den in § 29 Abs. 2 genannten Pflichtveranstaltungen im Grundstudium ist nach Maßgabe der Abs. 2 und 3 sowie §§ 32 bis 34 jeweils ein Leistungsnachweis zu erbringen.[2] Die Vorschriften über die Zwischenprüfung in §§ 37 ff. bleiben unberührt. 
+(1)<sup>1</sup> In den in § 29 Abs. 2 genannten Pflichtveranstaltungen im Grundstudium ist nach Maßgabe der Abs. 2 und 3 sowie §§ 32 bis 34 jeweils ein Leistungsnachweis zu erbringen.<sup>2</sup> Die Vorschriften über die Zwischenprüfung in §§ 37 ff. bleiben unberührt. 
 
-(2)[1] In den Pflichtveranstaltungen nach § 29 Abs. 2 wird jeweils eine 120-minütige Abschlussklausur gestellt.[2] Diese bezieht sich vorrangig auf den Gegenstand der jeweiligen Vorlesung, kann sich aber auch auf Gegenstände früherer Vorlesungen erstrecken.[3] Die Abschlussklausuren können zugleich als Teilleistung für die Zwischenprüfung bestimmt werden. 4Bei Bestehen der Teilprüfung der Zwischenprüfung gilt diese als Abschlussklausur. 
+(2)<sup>1</sup> In den Pflichtveranstaltungen nach § 29 Abs. 2 wird jeweils eine 120-minütige Abschlussklausur gestellt.<sup>2</sup> Diese bezieht sich vorrangig auf den Gegenstand der jeweiligen Vorlesung, kann sich aber auch auf Gegenstände früherer Vorlesungen erstrecken.<sup>3</sup> Die Abschlussklausuren können zugleich als Teilleistung für die Zwischenprüfung bestimmt werden. 4Bei Bestehen der Teilprüfung der Zwischenprüfung gilt diese als Abschlussklausur. 
 
 (3) Der Leistungsnachweis zu einer Vorlesung wird erteilt, wenn die Abschlussklausur entsprechend § 22 Abs. 2 als bestanden bewertet wurde. 
 
-## **§ 32 Abschlussklausuren im Zivilrecht** 
+# **§ 32 Abschlussklausuren im Zivilrecht** 
 
-> 1Im Zivilrecht werden entsprechend § 29 Abs. 2 Nr. 1 eigenständige Abschlussklausuren nach den lit. a) und e) gestellt.[2] Die Abschlussklausuren in den Veranstaltungen nach § 29 Abs. 2 Nr. 1 c) und d) können sich auch auf den Stoff der Veranstaltung nach § 29 Abs. 2 Nr. 1 b) beziehen.[3] Es wird eine gemeinsame Abschlussklausur im Familien- und Erbrecht angeboten. 
+> 1Im Zivilrecht werden entsprechend § 29 Abs. 2 Nr. 1 eigenständige Abschlussklausuren nach den lit. a) und e) gestellt.<sup>2</sup> Die Abschlussklausuren in den Veranstaltungen nach § 29 Abs. 2 Nr. 1 c) und d) können sich auch auf den Stoff der Veranstaltung nach § 29 Abs. 2 Nr. 1 b) beziehen.<sup>3</sup> Es wird eine gemeinsame Abschlussklausur im Familien- und Erbrecht angeboten. 
 
 15 
 
-## **§ 33 Abschlussklausuren im Öffentlichen Recht** 
+# **§ 33 Abschlussklausuren im Öffentlichen Recht** 
 
 Im öffentlichen Recht wird zusätzlich zu den jeweiligen Abschlussklausuren der Veranstaltungen nach § 29 Abs. 2 Nr. 2 a) bis d) für die Veranstaltungen Verwaltungsprozessrecht und bayerisches Polizei- und Sicherheitsrecht nach § 29 Abs. 2 Nr. 2 e) und f) eine gemeinsame Abschlussklausur gestellt. 
 
-## **§ 34 Abschlussklausuren im Strafrecht** 
+# **§ 34 Abschlussklausuren im Strafrecht** 
 
 Im Strafrecht wird in den Veranstaltungen nach § 29 Abs. 2 Nr. 3 a) bis c) jeweils eine Abschlussklausur gestellt. 
 
-## **§ 35 Proseminar im Grundstudium** 
+# **§ 35 Proseminar im Grundstudium** 
 
-(1)[1] Die Studierenden haben während des Grundstudiums an einem Proseminar teilzunehmen, in dem die Erstellung wissenschaftlicher Arbeiten eingeübt wird.[2] Der Nachweis über die erfolgreiche Teilnahme setzt das Anfertigen und Bestehen einer Proseminararbeit, sowie ein Referat und die regelmäßige Anwesenheit während der 3 Proseminarveranstaltungen voraus. Die bzw. der Vorsitzende des Prüfungsausschusses kann von der erfolgreichen Teilnahme am Proseminar befreien, wenn eine gleichwertige Leistung vorliegt oder die bzw. der Studierende aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an einem Proseminar gehindert war.[4] § 16 bleibt unberührt. 
+(1)<sup>1</sup> Die Studierenden haben während des Grundstudiums an einem Proseminar teilzunehmen, in dem die Erstellung wissenschaftlicher Arbeiten eingeübt wird.<sup>2</sup> Der Nachweis über die erfolgreiche Teilnahme setzt das Anfertigen und Bestehen einer Proseminararbeit, sowie ein Referat und die regelmäßige Anwesenheit während der 3 Proseminarveranstaltungen voraus. Die bzw. der Vorsitzende des Prüfungsausschusses kann von der erfolgreichen Teilnahme am Proseminar befreien, wenn eine gleichwertige Leistung vorliegt oder die bzw. der Studierende aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an einem Proseminar gehindert war.<sup>4</sup> § 16 bleibt unberührt. 
 
-(2)[1] Die Anmeldung zu einem Proseminar ist verbindlich.[2] Die bzw. der Studierende kann mit Zustimmung der Proseminarleiterin bzw. des Proseminarleiters vor Ausgabe des Themas der Proseminararbeit von der Anmeldung zurücktreten. 
+(2)<sup>1</sup> Die Anmeldung zu einem Proseminar ist verbindlich.<sup>2</sup> Die bzw. der Studierende kann mit Zustimmung der Proseminarleiterin bzw. des Proseminarleiters vor Ausgabe des Themas der Proseminararbeit von der Anmeldung zurücktreten. 
 
-## **§ 36 Anwendungsbereich und Zweck der Zwischenprüfung** 
+# **§ 36 Anwendungsbereich und Zweck der Zwischenprüfung** 
 
-1Die Zwischenprüfung schließt das Grundstudium ab. 2Sie soll der Feststellung dienen, ob das Ziel des Grundstudiums erreicht ist.[3] Ihr Bestehen berechtigt nach Maßgabe dieser Studien- und Prüfungsordnung zur Aufnahme des Hauptstudiums. 
+1Die Zwischenprüfung schließt das Grundstudium ab. 2Sie soll der Feststellung dienen, ob das Ziel des Grundstudiums erreicht ist.<sup>3</sup> Ihr Bestehen berechtigt nach Maßgabe dieser Studien- und Prüfungsordnung zur Aufnahme des Hauptstudiums. 
 
-## **§ 37 Zwischenprüfung** 
+# **§ 37 Zwischenprüfung** 
 
-(1)[1] Die Zwischenprüfung wird studienbegleitend abgehalten.[2] Die Termine für die einzelnen Prüfungsleistungen (Teilprüfungen) werden sechs Wochen vor deren Beginn ortsüblich bekannt gegeben. 
+(1)<sup>1</sup> Die Zwischenprüfung wird studienbegleitend abgehalten.<sup>2</sup> Die Termine für die einzelnen Prüfungsleistungen (Teilprüfungen) werden sechs Wochen vor deren Beginn ortsüblich bekannt gegeben. 
 
 (2) Die Zwischenprüfung besteht aus vier schriftlichen Fachprüfungen von jeweils mindestens zweistündiger Dauer, die studienbegleitend in den Hauptfächern Bürgerliches Recht, Strafrecht, Öffentliches Recht sowie in einem vom Prüfling zu wählenden Grundlagenfach abgenommen werden. 
 
 (3) Die Aufgabenstellung wird durch die für die Lehrveranstaltung verantwortliche Lehrperson (Aufgabensteller/-in) vorgenommen. 
 
-## **§ 38 Zulassung zur Zwischenprüfung** 
+# **§ 38 Zulassung zur Zwischenprüfung** 
 
 Zur Zwischenprüfung ist zugelassen, wer in dem Semester, in dem er sich der Zwischenprüfung unterzieht, an der FAU als Studierende bzw. Studierender im Studiengang Rechtswissenschaft immatrikuliert ist und die nach dem Studienplan erforderlichen Leistungsnachweise des Grundstudiums erbracht hat, oder wenn die Gleichwertigkeit der durch die bzw. den betroffenen Studierenden an einer anderen Universität erbrachten Leistungen festgestellt wurde und die erbrachten Leistungen gemäß § 16 an der FAU anerkannt wurden. 
 
 16 
 
-## **§ 39 Bestehen und Nichtbestehen der Zwischenprüfung, Zeugnis** 
+# **§ 39 Bestehen und Nichtbestehen der Zwischenprüfung, Zeugnis** 
 
 (1) Die Zwischenprüfung ist bestanden, wenn sämtliche Teilprüfungen der Zwischenprüfung bestanden sind. 
 
-(2)[ 1] Über die bestandene Zwischenprüfung wird ein Zeugnis ausgestellt.[2] Das Zeugnis enthält eine Gesamtnote für die Zwischenprüfung, die sich aus dem arithmetischen Mittel der Einzelnoten in den vier Teilprüfungen ergibt.[3] Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+(2)<sup>1</sup> Über die bestandene Zwischenprüfung wird ein Zeugnis ausgestellt.<sup>2</sup> Das Zeugnis enthält eine Gesamtnote für die Zwischenprüfung, die sich aus dem arithmetischen Mittel der Einzelnoten in den vier Teilprüfungen ergibt.<sup>3</sup> Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
-## **§ 40 Wiederholung der Zwischenprüfung** 
+# **§ 40 Wiederholung der Zwischenprüfung** 
 
-(1)[1] Die Zwischenprüfung kann, wenn sie nicht bestanden ist oder als nicht bestanden gilt, einmal wiederholt werden.[2] Bereits bestandene Fachprüfungen werden dabei angerechnet.[3] Fehlversuche in Zwischenprüfungen an anderen Universitäten und gleichgestellten Hochschulen in Deutschland sowie ein vergleichbarer Misserfolg bei anderen Studien- und Prüfungsleistungen sind anzurechnen. 4Eine zweite Wiederholung ist in dem Grundlagenfach sowie in einem der drei Hauptfächer zulässig. 5Das Grundlagenfach kann bei der ersten oder zweiten Wiederholungsprüfung gewechselt werden. 
+(1)<sup>1</sup> Die Zwischenprüfung kann, wenn sie nicht bestanden ist oder als nicht bestanden gilt, einmal wiederholt werden.<sup>2</sup> Bereits bestandene Fachprüfungen werden dabei angerechnet.<sup>3</sup> Fehlversuche in Zwischenprüfungen an anderen Universitäten und gleichgestellten Hochschulen in Deutschland sowie ein vergleichbarer Misserfolg bei anderen Studien- und Prüfungsleistungen sind anzurechnen. 4Eine zweite Wiederholung ist in dem Grundlagenfach sowie in einem der drei Hauptfächer zulässig. 5Das Grundlagenfach kann bei der ersten oder zweiten Wiederholungsprüfung gewechselt werden. 
 
-(2)[1] Die Wiederholungsprüfungen müssen jeweils innerhalb von sechs Monaten nach Mitteilung des Prüfungsergebnisses abgelegt werden, sofern dem Prüfling nicht wegen von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird.[2] Wird die Lehrveranstaltung, in deren Rahmen die Fachprüfung jeweils abgelegt wurde, lediglich im Jahresrhythmus angeboten, verlängert sich die Frist nach Satz 1 auf zwölf Monate. 3Die Möglichkeit, die Fachprüfung schon eher zu wiederholen, wenn in diesem Fach eine Prüfung im Rahmen einer anderen Lehrveranstaltung angeboten wird, bleibt unberührt.[4] Die Fristen werden durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[5] Bei Versäumnis der Fristen gilt die Zwischenprüfung als endgültig nicht bestanden, es sei denn, der Prüfling hat die Gründe nicht zu vertreten.[6] § 12 Abs. 3 gilt entsprechend. 
+(2)<sup>1</sup> Die Wiederholungsprüfungen müssen jeweils innerhalb von sechs Monaten nach Mitteilung des Prüfungsergebnisses abgelegt werden, sofern dem Prüfling nicht wegen von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird.<sup>2</sup> Wird die Lehrveranstaltung, in deren Rahmen die Fachprüfung jeweils abgelegt wurde, lediglich im Jahresrhythmus angeboten, verlängert sich die Frist nach Satz 1 auf zwölf Monate. 3Die Möglichkeit, die Fachprüfung schon eher zu wiederholen, wenn in diesem Fach eine Prüfung im Rahmen einer anderen Lehrveranstaltung angeboten wird, bleibt unberührt.<sup>4</sup> Die Fristen werden durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>5</sup> Bei Versäumnis der Fristen gilt die Zwischenprüfung als endgültig nicht bestanden, es sei denn, der Prüfling hat die Gründe nicht zu vertreten.<sup>6</sup> § 12 Abs. 3 gilt entsprechend. 
 
-## **III. Teil: Hauptstudium und Juristische Universitätsprüfung** 
+# **III. Teil: Hauptstudium und Juristische Universitätsprüfung** 
 
-## **§ 41 Umfang und Inhalt des Hauptstudiums und der Juristischen Universitätsprüfung** 
+# **§ 41 Umfang und Inhalt des Hauptstudiums und der Juristischen Universitätsprüfung** 
 
-(1) 1Das Studium im Schwerpunktbereich findet im Rahmen des Rechtswissenschaftlichen Studiums statt.[2] Es dauert in der Regel vier Fachsemester. (2)[1] Das Schwerpunktbereichsstudium umfasst 14 Semesterwochenstunden.[2] Es darf höchstens zu 50 vom Hundert Lehrveranstaltungen enthalten, die Pflichtfächer nach § 18 Abs. 2 **JAPO** vertiefen. 3Die Schwerpunktbereiche können neben Pflichtveranstaltungen auch Wahlpflichtveranstaltungen umfassen. 
+(1) 1Das Studium im Schwerpunktbereich findet im Rahmen des Rechtswissenschaftlichen Studiums statt.<sup>2</sup> Es dauert in der Regel vier Fachsemester. (2)<sup>1</sup> Das Schwerpunktbereichsstudium umfasst 14 Semesterwochenstunden.<sup>2</sup> Es darf höchstens zu 50 vom Hundert Lehrveranstaltungen enthalten, die Pflichtfächer nach § 18 Abs. 2 **JAPO** vertiefen. 3Die Schwerpunktbereiche können neben Pflichtveranstaltungen auch Wahlpflichtveranstaltungen umfassen. 
 
-(3)[1] Wählbare Schwerpunktbereiche sind: 
+(3)<sup>1</sup> Wählbare Schwerpunktbereiche sind: 
 
 1. Kapitalgesellschaftsrecht 
 
@@ -450,11 +461,11 @@ Zur Zwischenprüfung ist zugelassen, wer in dem Semester, in dem er sich der Zwi
 
 - 2Die zugehörigen Rechtsgebiete ergeben sich aus der **Anlage.** 
 
-## **§ 42 Übungen für Fortgeschrittene** 
+# **§ 42 Übungen für Fortgeschrittene** 
 
 Gegenstand der Übungen für Fortgeschrittene im Zivilrecht, im Strafrecht und im Öffentlichen Recht sind die Pflichtfächer gemäß § 18 Abs. 2 **JAPO** . 
 
-## **§ 43 Zulassung für die Übungen für Fortgeschrittene** 
+# **§ 43 Zulassung für die Übungen für Fortgeschrittene** 
 
 - (1) Die Zulassung zu den Übungen für Fortgeschrittene setzt voraus 
 
@@ -470,163 +481,113 @@ Gegenstand der Übungen für Fortgeschrittene im Zivilrecht, im Strafrecht und i
 
    - c) mindestens zwei der in § 29 Abs. 2 Nr. 3 i. V. m. § 34 genannten Abschlussklausuren für die Übung im Strafrecht für Fortgeschrittene. 
 
-(2)[1] Unbeschadet der Regelung in § 16 kann eine erfolgreich abgeschlossene Ausbildung für den gehobenen Justizdienst oder den gehobenen nichttechnischen Verwaltungsdienst als Voraussetzung für die Zulassung zu den Fortgeschrittenenübungen in bis zu zwei Fachgebieten anerkannt werden.[2] Über den Antrag entscheidet die Sprecherin bzw. der Sprecher des Fachbereichs. 
+(2)<sup>1</sup> Unbeschadet der Regelung in § 16 kann eine erfolgreich abgeschlossene Ausbildung für den gehobenen Justizdienst oder den gehobenen nichttechnischen Verwaltungsdienst als Voraussetzung für die Zulassung zu den Fortgeschrittenenübungen in bis zu zwei Fachgebieten anerkannt werden.<sup>2</sup> Über den Antrag entscheidet die Sprecherin bzw. der Sprecher des Fachbereichs. 
 
-## **§ 44 Ablauf der Übungen für Fortgeschrittene** 
+# **§ 44 Ablauf der Übungen für Fortgeschrittene** 
 
-(1)[ 1] In den Übungen für Fortgeschrittene werden in Abhängigkeit vom konkreten didaktischen Charakter der jeweiligen Veranstaltung drei oder vier 120- bis 180minütige Klausuren und bis zu zwei Hausarbeiten gestellt.[2] Den Umfang der zu erbringenden Leistungen bestimmt die jeweilige Veranstaltungsleiterin bzw. der jeweilige Veranstaltungsleiter spätestens zwei Wochen vor Beginn der Lehrveranstaltung. 
+(1)<sup>1</sup> In den Übungen für Fortgeschrittene werden in Abhängigkeit vom konkreten didaktischen Charakter der jeweiligen Veranstaltung drei oder vier 120- bis 180minütige Klausuren und bis zu zwei Hausarbeiten gestellt.<sup>2</sup> Den Umfang der zu erbringenden Leistungen bestimmt die jeweilige Veranstaltungsleiterin bzw. der jeweilige Veranstaltungsleiter spätestens zwei Wochen vor Beginn der Lehrveranstaltung. 
 
 (2) Der Leistungsnachweis in den Übungen für Fortgeschrittene wird erteilt, wenn eine Klausur und eine Hausarbeit entsprechend § 22 Abs. 2 bestanden sind. 
 
 (3) Bei der Durchführung der Übungen für Fortgeschrittene sowie in Fällen der Täuschung, der Benutzung nicht zugelassener Hilfsmittel und der Störung gelten die Regelungen des § 17. 
 
-## **§ 45 Seminar im Schwerpunktstudium** 
+# **§ 45 Seminar im Schwerpunktstudium** 
 
-(1)[1] Die Studierenden haben im Rahmen des Studiums des von ihnen gewählten Schwerpunktbereichs an einem Seminar teilzunehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 2Unbeschadet der Regelung in § 35 Abs. 1 Satz 3 setzt die Zulassung zum Seminar die erfolgreiche Teilnahme am Proseminar voraus. 
+(1)<sup>1</sup> Die Studierenden haben im Rahmen des Studiums des von ihnen gewählten Schwerpunktbereichs an einem Seminar teilzunehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 2Unbeschadet der Regelung in § 35 Abs. 1 Satz 3 setzt die Zulassung zum Seminar die erfolgreiche Teilnahme am Proseminar voraus. 
 
 18 
 
-(2)[1] Seminare dienen der wissenschaftlichen Vertiefung rechtlicher Probleme unter Berücksichtigung der Grundlagen des Rechts.[2] Ein Leistungsnachweis über die erfolgreiche Teilnahme an einem Seminar setzt eine eigene Leistung gem. § 47 Abs. 1 der bzw. des Studierenden voraus, wobei sowohl die schriftliche Leistung als auch die Verteidigung als Bestanden im Sinne des § 22 Abs. 2 bewertet worden sind.[3] Im Seminarschein ist die eigene Leistung der bzw. des Studierenden mit der erreichten Endnote und Punktzahl anzuführen. 
+(2)<sup>1</sup> Seminare dienen der wissenschaftlichen Vertiefung rechtlicher Probleme unter Berücksichtigung der Grundlagen des Rechts.<sup>2</sup> Ein Leistungsnachweis über die erfolgreiche Teilnahme an einem Seminar setzt eine eigene Leistung gem. § 47 Abs. 1 der bzw. des Studierenden voraus, wobei sowohl die schriftliche Leistung als auch die Verteidigung als Bestanden im Sinne des § 22 Abs. 2 bewertet worden sind.<sup>3</sup> Im Seminarschein ist die eigene Leistung der bzw. des Studierenden mit der erreichten Endnote und Punktzahl anzuführen. 
 
 (3) Die Regelungen der §§ 47 bis 49 über die studienbegleitende wissenschaftliche Arbeit bleiben unberührt. 
 
-## **§ 46 Umfang und Zweck der Juristischen Universitätsprüfung** 
+# **§ 46 Umfang und Zweck der Juristischen Universitätsprüfung** 
 
 (1) Die Juristische Universitätsprüfung besteht aus einer studienbegleitenden wissenschaftlichen Arbeit inkl. Verteidigung (§ 47) und einer mündlichen Prüfung (§ 52) als studienabschließender Leistung. 
 
-(2)[1] Die Juristische Universitätsprüfung ist gemäß § 1 **JAPO** Teil der Ersten Juristischen Prüfung.[2] Die Juristische Universitätsprüfung schließt das Studium im durch die Studierenden zu wählenden Schwerpunktbereich des Rechtswissenschaftlichen Studiums gemäß § 39 **JAPO** und gemeinsam mit der Ersten Juristischen Staatsprüfung das Rechtswissenschaftliche Studium ab.[3] Durch sie soll festgestellt werden, ob die bzw. der Studierende die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbstständig zu arbeiten, vertiefte Fachkenntnisse in ihrem bzw. seinem Schwerpunktbereich erworben hat und die Zusammenhänge ihres bzw. seines Faches überblickt. 
+(2)<sup>1</sup> Die Juristische Universitätsprüfung ist gemäß § 1 **JAPO** Teil der Ersten Juristischen Prüfung.<sup>2</sup> Die Juristische Universitätsprüfung schließt das Studium im durch die Studierenden zu wählenden Schwerpunktbereich des Rechtswissenschaftlichen Studiums gemäß § 39 **JAPO** und gemeinsam mit der Ersten Juristischen Staatsprüfung das Rechtswissenschaftliche Studium ab.<sup>3</sup> Durch sie soll festgestellt werden, ob die bzw. der Studierende die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbstständig zu arbeiten, vertiefte Fachkenntnisse in ihrem bzw. seinem Schwerpunktbereich erworben hat und die Zusammenhänge ihres bzw. seines Faches überblickt. 
 
 (3) Die Schwerpunktbereiche dienen der Ergänzung des Studiums, der Vertiefung der mit ihnen zusammenhängenden Pflichtfächer gem. § 18 Abs. 2 **JAPO** und, soweit sie interdisziplinäre und internationale Bezüge aufweisen, deren Vermittlung. 
 
-## **§ 47 Studienbegleitende wissenschaftliche Arbeit** 
+# **§ 47 Studienbegleitende wissenschaftliche Arbeit** 
 
-(1)[1] Die studienbegleitende wissenschaftliche Arbeit wird im Rahmen eines Seminars im Schwerpunktbereich, das durch eine bzw. einen Prüfenden geleitet wird, angefertigt.[2] Sie ist im Seminar mündlich zu referieren und zur Diskussion zu stellen (Verteidigung). 
+(1)<sup>1</sup> Die studienbegleitende wissenschaftliche Arbeit wird im Rahmen eines Seminars im Schwerpunktbereich, das durch eine bzw. einen Prüfenden geleitet wird, angefertigt.<sup>2</sup> Sie ist im Seminar mündlich zu referieren und zur Diskussion zu stellen (Verteidigung). 
 
-(2)[ 1] Die bzw. der Studierende hat sich zum Seminar, in dem sie bzw. er seine studienbegleitende wissenschaftliche Arbeit anfertigen möchte, anzumelden.[2] Mit der erstmaligen Aufnahme der Bearbeitung eines Themas legt sie bzw. er ihren bzw. seinen Schwerpunktbereich fest.[3] Jede und jeder Studierende kann sich nicht zu mehr als einem Seminar im Sinne von Satz 1 anmelden.[4] Ein Wechsel des Seminars und des Schwerpunktbereichs ist nur vor der Ausgabe des Themas der studienbegleitenden wissenschaftlichen Arbeit zulässig.[5] Die Meldung nach Satz 1 soll im Monat Mai für das folgende Wintersemester und im Monat November für das folgende Sommersemester erfolgen.[6] Die Fristen für die Anmeldung zu den angebotenen Seminaren werden rechtzeitig in der ortsüblichen Weise bekannt gegeben. 
+(2)<sup>1</sup> Die bzw. der Studierende hat sich zum Seminar, in dem sie bzw. er seine studienbegleitende wissenschaftliche Arbeit anfertigen möchte, anzumelden.<sup>2</sup> Mit der erstmaligen Aufnahme der Bearbeitung eines Themas legt sie bzw. er ihren bzw. seinen Schwerpunktbereich fest.<sup>3</sup> Jede und jeder Studierende kann sich nicht zu mehr als einem Seminar im Sinne von Satz 1 anmelden.<sup>4</sup> Ein Wechsel des Seminars und des Schwerpunktbereichs ist nur vor der Ausgabe des Themas der studienbegleitenden wissenschaftlichen Arbeit zulässig.<sup>5</sup> Die Meldung nach Satz 1 soll im Monat Mai für das folgende Wintersemester und im Monat November für das folgende Sommersemester erfolgen.<sup>6</sup> Die Fristen für die Anmeldung zu den angebotenen Seminaren werden rechtzeitig in der ortsüblichen Weise bekannt gegeben. 
 
-(3)[1] Am Seminar nimmt ein Beisitzer bzw. eine Beisitzerin (§ 14 Abs. 4) teil.[2] Über die Verteidigung ist nach den Grundsätzen des § 52 Abs. 3 ein Protokoll anzufertigen. 
+(3)<sup>1</sup> Am Seminar nimmt ein Beisitzer bzw. eine Beisitzerin (§ 14 Abs. 4) teil.<sup>2</sup> Über die Verteidigung ist nach den Grundsätzen des § 52 Abs. 3 ein Protokoll anzufertigen. 
 
 19 
 
-## **§ 48 Zulassung zur studienbegleitenden wissenschaftlichen Arbeit** 
+# **§ 48 Zulassung zur studienbegleitenden wissenschaftlichen Arbeit** 
 
 1Die Ausgabe des Themas für die studienbegleitende wissenschaftliche Arbeit setzt das Bestehen der Zwischenprüfung gemäß §§ 37 bis 40 dieser Studien- und 2 Prüfungsordnung voraus Über Ausnahmen entscheidet auf Antrag der Prüfungsausschuss. 
 
-## **§ 49 Bearbeitungszeit und Formalien für die studienbegleitende wissenschaftliche Arbeit** 
+# **§ 49 Bearbeitungszeit und Formalien für die studienbegleitende wissenschaftliche Arbeit** 
 
-(1)[1] Die Bearbeitungszeit für die studienbegleitende wissenschaftliche Arbeit beträgt vier Wochen, beginnend mit der Ausgabe des Themas durch die Seminarleiterin bzw. den Seminarleiter. 2Sie kann vor Ausgabe des Themas in begründeten Ausnahmefällen auf Antrag der Seminarleiterin bzw. des Seminarleiters durch den Prüfungsausschuss auf bis zu sechs Wochen verlängert werden.[3] Das Datum der Ausgabe ist aktenkundig zu machen. 4Wird die Arbeit nicht innerhalb der Bearbeitungszeit eingereicht, so gilt sie als angefertigt und mit der Note „ungenügend“ (0 Punkte) bewertet.[ 5] Für die Einhaltung der Frist genügt die fristgerechte elektronische Abgabe. 
+(1)<sup>1</sup> Die Bearbeitungszeit für die studienbegleitende wissenschaftliche Arbeit beträgt vier Wochen, beginnend mit der Ausgabe des Themas durch die Seminarleiterin bzw. den Seminarleiter. 2Sie kann vor Ausgabe des Themas in begründeten Ausnahmefällen auf Antrag der Seminarleiterin bzw. des Seminarleiters durch den Prüfungsausschuss auf bis zu sechs Wochen verlängert werden.<sup>3</sup> Das Datum der Ausgabe ist aktenkundig zu machen. 4Wird die Arbeit nicht innerhalb der Bearbeitungszeit eingereicht, so gilt sie als angefertigt und mit der Note „ungenügend“ (0 Punkte) bewertet.<sup>5</sup> Für die Einhaltung der Frist genügt die fristgerechte elektronische Abgabe. 
 
-(2)[ 1] Wird die Einhaltung der Bearbeitungszeit aus von der Bearbeiterin bzw. dem Bearbeiter nicht zu vertretenden Gründen unmöglich, kann die bzw. der Vorsitzende des Prüfungsausschusses sie auf Antrag der Bearbeiterin bzw. des Bearbeiters um bis zu zwei Wochen verlängern.[2] Die Gründe sind unverzüglich schriftlich der bzw. dem Vorsitzenden des Prüfungsausschusses gegenüber geltend und glaubhaft zu machen.[3] Bei Krankheit ist ein ärztliches Attest vorzulegen; § 28 Abs. 3 Satz 2 gilt entsprechend.[4] In besonderen Fällen, wie beispielsweise einer Krankheit von langer Dauer, kann die bzw. der Vorsitzende des Prüfungsausschusses im Benehmen mit der Seminarleiterin bzw. dem Seminarleiter entscheiden, dass zu gegebener Zeit ein anderes Thema ausgegeben oder dass die studienbegleitende Arbeit in einem anderen Seminar angefertigt wird. 
+(2)<sup>1</sup> Wird die Einhaltung der Bearbeitungszeit aus von der Bearbeiterin bzw. dem Bearbeiter nicht zu vertretenden Gründen unmöglich, kann die bzw. der Vorsitzende des Prüfungsausschusses sie auf Antrag der Bearbeiterin bzw. des Bearbeiters um bis zu zwei Wochen verlängern.<sup>2</sup> Die Gründe sind unverzüglich schriftlich der bzw. dem Vorsitzenden des Prüfungsausschusses gegenüber geltend und glaubhaft zu machen.<sup>3</sup> Bei Krankheit ist ein ärztliches Attest vorzulegen; § 28 Abs. 3 Satz 2 gilt entsprechend.<sup>4</sup> In besonderen Fällen, wie beispielsweise einer Krankheit von langer Dauer, kann die bzw. der Vorsitzende des Prüfungsausschusses im Benehmen mit der Seminarleiterin bzw. dem Seminarleiter entscheiden, dass zu gegebener Zeit ein anderes Thema ausgegeben oder dass die studienbegleitende Arbeit in einem anderen Seminar angefertigt wird. 
 
-(3)[ 1] Die Arbeit ist als elektronisches Dokument, das für die Bewertung durch die Seminarleiterin bzw. den Seminarleiter geeignet ist (z. B. PDF), einzureichen.[2] Der Text der Arbeit einschließlich der Nachweise darf 80.000 (achtzigtausend) Zeichen einschließlich Leerzeichen nicht überschreiten. 3Deckblatt, Literaturverzeichnis, Abkürzungsverzeichnis und Gliederung werden dabei nicht mitgezählt.[4] Darüber hinausgehender Text gilt als nicht geschrieben.[5] Die Seminarleiterin bzw. der Seminarleiter kann hiervon Ausnahmen zulassen, die bei Mitteilung der Ausgabe nach Abs. 1 Satz 4 anzuzeigen sind. 
+(3)<sup>1</sup> Die Arbeit ist als elektronisches Dokument, das für die Bewertung durch die Seminarleiterin bzw. den Seminarleiter geeignet ist (z. B. PDF), einzureichen.<sup>2</sup> Der Text der Arbeit einschließlich der Nachweise darf 80.000 (achtzigtausend) Zeichen einschließlich Leerzeichen nicht überschreiten. 3Deckblatt, Literaturverzeichnis, Abkürzungsverzeichnis und Gliederung werden dabei nicht mitgezählt.<sup>4</sup> Darüber hinausgehender Text gilt als nicht geschrieben.<sup>5</sup> Die Seminarleiterin bzw. der Seminarleiter kann hiervon Ausnahmen zulassen, die bei Mitteilung der Ausgabe nach Abs. 1 Satz 4 anzuzeigen sind. 
 
-(4)[1] Die Arbeit ist zeitgleich beim Dekanat und der Seminarleiterin bzw. dem Seminarleiter elektronisch einzureichen.[2] Der Abgabezeitpunkt ist von beiden Stellen aktenkundig zu machen und nötigenfalls abzugleichen.[3] Die bzw. der Bearbeitende hat der Arbeit die Versicherung beizufügen, dass sie bzw. er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat.[4] Die Seminarleiterin bzw. der Seminarleiter kann zusätzlich die Abgabe einer schriftlichen Fassung der Arbeit verlangen. 
+(4)<sup>1</sup> Die Arbeit ist zeitgleich beim Dekanat und der Seminarleiterin bzw. dem Seminarleiter elektronisch einzureichen.<sup>2</sup> Der Abgabezeitpunkt ist von beiden Stellen aktenkundig zu machen und nötigenfalls abzugleichen.<sup>3</sup> Die bzw. der Bearbeitende hat der Arbeit die Versicherung beizufügen, dass sie bzw. er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat.<sup>4</sup> Die Seminarleiterin bzw. der Seminarleiter kann zusätzlich die Abgabe einer schriftlichen Fassung der Arbeit verlangen. 
 
-## **§ 50 Bewertung der studienbegleitenden wissenschaftlichen Arbeit** 
+# **§ 50 Bewertung der studienbegleitenden wissenschaftlichen Arbeit** 
 
-(1)[1] Die studienbegleitende wissenschaftliche Arbeit einschließlich der Verteidigung (§ 47 Abs. 1 Satz 2) wird in der Regel von der Seminarleiterin bzw. dem Seminarleiter bewertet.[2] Die schriftliche Leistung und die Verteidigung sind gesondert zu bewerten. 3Aus den beiden Noten wird eine Endnote gebildet, in die die schriftliche Leistung mit 
+(1)<sup>1</sup> Die studienbegleitende wissenschaftliche Arbeit einschließlich der Verteidigung (§ 47 Abs. 1 Satz 2) wird in der Regel von der Seminarleiterin bzw. dem Seminarleiter bewertet.<sup>2</sup> Die schriftliche Leistung und die Verteidigung sind gesondert zu bewerten. 3Aus den beiden Noten wird eine Endnote gebildet, in die die schriftliche Leistung mit 
 
 20 
 
-70 v.H., die Verteidigung mit 30 v. H. eingeht.[4] Den errechneten Punktwerten entsprechen Notenbezeichnungen nach § 1 der **JurPrNotSkV** . 
+70 v.H., die Verteidigung mit 30 v. H. eingeht.<sup>4</sup> Den errechneten Punktwerten entsprechen Notenbezeichnungen nach § 1 der **JurPrNotSkV** . 
 
-(2)[1] Die Bewertung muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.[2] Eine mit „mangelhaft“ oder „ungenügend“ (0 bis 3 Punkte) bewertete schriftliche Leistung ist von zwei Prüfenden zu bewerten. 3Können sich die Prüfenden im Fall einer Zweitbewertung nicht auf eine Prüfungsnote für die schriftliche Leistung einigen, ist die Prüfungsleistung einer bzw. einem dritten Prüfenden zum Stichentscheid vorzulegen. 
+(2)<sup>1</sup> Die Bewertung muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.<sup>2</sup> Eine mit „mangelhaft“ oder „ungenügend“ (0 bis 3 Punkte) bewertete schriftliche Leistung ist von zwei Prüfenden zu bewerten. 3Können sich die Prüfenden im Fall einer Zweitbewertung nicht auf eine Prüfungsnote für die schriftliche Leistung einigen, ist die Prüfungsleistung einer bzw. einem dritten Prüfenden zum Stichentscheid vorzulegen. 
 
-## **§ 51 Zulassung zur Mündlichen Prüfung** 
+# **§ 51 Zulassung zur Mündlichen Prüfung** 
 
 (1) Zur mündlichen Prüfung wird zugelassen, wer 
 
-1. zur mündlichen Prüfung der Ersten Juristischen Staatsprüfung zugelassen ist und 2. ein ordnungsgemäßes Schwerpunktbereichsstudium nachweisen kann. 
+1. zur mündlichen Prüfung der Ersten Juristischen Staatsprüfung zugelassen ist und 
+
+2. ein ordnungsgemäßes Schwerpunktbereichsstudium nachweisen kann. 
 
 (2) Zugelassen wird abweichend von Abs. 1 Nr. 1 auch, wer zum schriftlichen Teil der Ersten Juristischen Staatsprüfung zugelassen ist, an der sie bzw. er gemäß § 37 **JAPO** im Freiversuch teilnimmt, oder sich im 13. oder einem höheren Fachsemester befindet und die mündliche Prüfung gemäß § 12 Abs. 2 Satz 5 abzulegen hat; Abs. 1 Nr. 2 bleibt unberührt. 
 
-## **§ 52 Mündliche Prüfung** 
+# **§ 52 Mündliche Prüfung** 
 
-(1)[1] Die mündliche Prüfung erstreckt sich auf die Rechtsgebiete der von der bzw. dem Studierenden im jeweiligen Schwerpunktbereich belegten Lehrveranstaltungen nach Maßgabe der **Anlage zu § 42 Abs. 3** .[2] In der mündlichen Prüfung sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.[3] Die mündliche Prüfung wird von einer bzw. einem Prüfenden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers abgenommen, die bzw. der vom zuständigen Prüfungsorgan bestellt wird. 
+(1)<sup>1</sup> Die mündliche Prüfung erstreckt sich auf die Rechtsgebiete der von der bzw. dem Studierenden im jeweiligen Schwerpunktbereich belegten Lehrveranstaltungen nach Maßgabe der **Anlage zu § 42 Abs. 3** .<sup>2</sup> In der mündlichen Prüfung sollen die Studierenden nachweisen, dass sie die Zusammenhänge des Prüfungsgebiets erkennen und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermögen.<sup>3</sup> Die mündliche Prüfung wird von einer bzw. einem Prüfenden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers abgenommen, die bzw. der vom zuständigen Prüfungsorgan bestellt wird. 
 
-(2)[1] Die mündliche Prüfung kann als Einzelprüfung oder in Gruppen von bis zu fünf Studierenden durchgeführt werden; Näheres regelt die Veranstaltungsbekanntmachung.[2] Die Prüfungsdauer beträgt für jede und jeden Studierenden etwa zwanzig Minuten. 
+(2)<sup>1</sup> Die mündliche Prüfung kann als Einzelprüfung oder in Gruppen von bis zu fünf Studierenden durchgeführt werden; Näheres regelt die Veranstaltungsbekanntmachung.<sup>2</sup> Die Prüfungsdauer beträgt für jede und jeden Studierenden etwa zwanzig Minuten. 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Bezeichnung der geprüften Veranstaltung, Ergebnis der Prüfung, die Namen der bzw. des Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.[2] Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Bezeichnung der geprüften Veranstaltung, Ergebnis der Prüfung, die Namen der bzw. des Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
-(4)[1] Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der Prüfungskandidaten werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
+(4)<sup>1</sup> Zu mündlichen Prüfungen werden Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der Prüfungskandidaten werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.<sup>2</sup> Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
 
 21 
 
-(5)[1] Die mündliche Prüfung kann im unmittelbaren Anschluss an die mündliche Prüfung der Ersten Juristischen Staatsprüfung stattfinden.[2] Die Termine für die Meldung werden für jeden Prüfungsdurchgang ortsüblich bekannt gemacht. 
+(5)<sup>1</sup> Die mündliche Prüfung kann im unmittelbaren Anschluss an die mündliche Prüfung der Ersten Juristischen Staatsprüfung stattfinden.<sup>2</sup> Die Termine für die Meldung werden für jeden Prüfungsdurchgang ortsüblich bekannt gemacht. 
 
-(6)[1] Bei Säumnis oder Rücktritt nach Zulassung gilt die mündliche Prüfung als abgelegt und mit der Note „ungenügend“ (0 Punkte) bewertet; für die Ladung, die Durchführung, die Wiederholung, den Ausschluss von der Teilnahme, Verhinderung und Unzumutbarkeit der Teilnahme sind die Regelungen der **JAPO** für die mündliche Prüfung in der Ersten Juristischen Staatsprüfung sinngemäß anzuwenden.[2] An die Stelle der Prüfungskommission für die mündliche Prüfung der Ersten Juristischen Staatsprüfung und deren vorsitzendes Mitglied tritt die bzw. der Prüfende.[3] Im Übrigen ist für die Durchführung der Prüfung und für Entscheidungen im Prüfungsverfahren der Prüfungsausschuss zuständig. 
+(6)<sup>1</sup> Bei Säumnis oder Rücktritt nach Zulassung gilt die mündliche Prüfung als abgelegt und mit der Note „ungenügend“ (0 Punkte) bewertet; für die Ladung, die Durchführung, die Wiederholung, den Ausschluss von der Teilnahme, Verhinderung und Unzumutbarkeit der Teilnahme sind die Regelungen der **JAPO** für die mündliche Prüfung in der Ersten Juristischen Staatsprüfung sinngemäß anzuwenden.<sup>2</sup> An die Stelle der Prüfungskommission für die mündliche Prüfung der Ersten Juristischen Staatsprüfung und deren vorsitzendes Mitglied tritt die bzw. der Prüfende.<sup>3</sup> Im Übrigen ist für die Durchführung der Prüfung und für Entscheidungen im Prüfungsverfahren der Prüfungsausschuss zuständig. 
 
-## **IV. Teil: Schlussvorschriften** 
+# **IV. Teil: Schlussvorschriften** 
 
-## **§ 53 Inkrafttreten, Übergangsvorschriften** 
+# **§ 53 Inkrafttreten, Übergangsvorschriften** 
 
-(1)[1] Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden.[3] Darüber hinaus gilt sie auch für alle Studierenden, die im Studiengang Rechtswissenschaft immatrikuliert sind und noch kein Schwerpunktstudium begonnen haben, das heißt, ein Schwerpunktstudium erst ab dem Wintersemester 2024/2025 aufnehmen werden. 
+(1)<sup>1</sup> Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden.<sup>3</sup> Darüber hinaus gilt sie auch für alle Studierenden, die im Studiengang Rechtswissenschaft immatrikuliert sind und noch kein Schwerpunktstudium begonnen haben, das heißt, ein Schwerpunktstudium erst ab dem Wintersemester 2024/2025 aufnehmen werden. 
 
-(2)[1] Die Änderungen in § 41 Abs. 3 Satz 1 Nr. 12 und die Änderungen in Abs. 13 der Anlage treten zum 30. September 2029 außer Kraft.[2] Wenn Studierende den Schwerpunktbereich 12 bis zum 30. September 2029 noch nicht abgeschlossen haben und für die Vollendung des Schwerpunktbereichs 12 notwendige Lehrveranstaltungen einschließlich Seminaren nicht mehr angeboten werden sollten, können Studierende, die bereits mit dem Schwerpunktbereich 12 begonnen haben, dessen Veranstaltungen durch Veranstaltungen aus dem Schwerpunkbereich 4 (Geistiges Eigentum und Wettbewerbsrecht) ersetzen. 
+(2)<sup>1</sup> Die Änderungen in § 41 Abs. 3 Satz 1 Nr. 12 und die Änderungen in Abs. 13 der Anlage treten zum 30. September 2029 außer Kraft.<sup>2</sup> Wenn Studierende den Schwerpunktbereich 12 bis zum 30. September 2029 noch nicht abgeschlossen haben und für die Vollendung des Schwerpunktbereichs 12 notwendige Lehrveranstaltungen einschließlich Seminaren nicht mehr angeboten werden sollten, können Studierende, die bereits mit dem Schwerpunktbereich 12 begonnen haben, dessen Veranstaltungen durch Veranstaltungen aus dem Schwerpunkbereich 4 (Geistiges Eigentum und Wettbewerbsrecht) ersetzen. 
 
 (3) Die Studien- und Prüfungsordnung für den Studiengang Rechtswissenschaft an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – StuPO Jura – vom 1. März 2022 tritt – mit Ausnahme dessen § 53 Abs. 2 – am 30. September 2024 außer Kraft. 
 
-(4)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft. Sie findet Anwendung auf alle Prüfungen (Erst-, Zweit- und Drittversuch), die dem Prüfungszeitraum Wintersemester 2024/2025 und später zugeordnet sind.[2] Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der StuPO Jura vom 17. Juni 2024 Anwendung. 
+(4)<sup>1</sup> Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft. Sie findet Anwendung auf alle Prüfungen (Erst-, Zweit- und Drittversuch), die dem Prüfungszeitraum Wintersemester 2024/2025 und später zugeordnet sind.<sup>2</sup> Für Prüfungen, die früheren Prüfungszeiträumen zugeordnet sind, finden die Regelungen in der StuPO Jura vom 17. Juni 2024 Anwendung. 
 
-(5)[1] Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft.[2] Sie findet Anwendung auf alle Prüfungen, die dem Prüfungszeitraum Sommersemester 2026 und später zugeordnet sind. 
+(5)<sup>1</sup> Die zweite Änderungssatzung tritt am 1. April 2026 in Kraft.<sup>2</sup> Sie findet Anwendung auf alle Prüfungen, die dem Prüfungszeitraum Sommersemester 2026 und später zugeordnet sind. 
 
 22 
 
-**==> picture [165 x 49] intentionally omitted <==**
+Friedrich-Alexander-UniversitatErlangen-Nirnberg 
 
-**==> picture [114 x 46] intentionally omitted <==**
-
-## **Anlage zu § 41 Abs. 3:** 
-
-- (1)[1] Der Fachbereich Rechtswissenschaft bietet folgende 12 Schwerpunktbereiche an, unter denen die bzw. der Studierende einen auszuwählen hat: 
-
-1. Kapitalgesellschaftsrecht 
-
-2. Bank- und Kapitalmarktrecht 
-
-3. Steuerrecht 
-
-4. Geistiges Eigentum und Wettbewerbsrecht 5. Internationales und Europäisches Öffentliches Recht 
-
-6. Internationales Privatrecht 
-
-7. Arbeits- und Sozialversicherungsrecht 
-
-8. Grundlagen des Rechts 
-
-9. Staat und Verwaltung 
-
-10. Kriminalwissenschaften 
-
-11. Grund- und Menschenrechte 
-
-12. IT-Recht. 
-
-2Diese Schwerpunktbereiche umfassen folgende Inhalte und Lehrveranstaltungen: 
-
-(2) SCHWERPUNKTBEREICH 1: _KAPITALGESELLSCHAFTSRECHT_ 
-
-## **1. Pflichtbereich** 
-
-Die bzw der Studierende hat teilzunehmen an: 
-
-- einer Lehrveranstaltung zum Aktienrecht 2 SWS - einer Lehrveranstaltung zum GmbH-Recht 2 SWS - einer Lehrveranstaltung zum Kapitalmarktrecht 3 SWS - einer Lehrveranstaltung zum Insolvenzrecht 2 SWS - einer Lehrveranstaltung zum Konzern- & Umwandlungsrecht 1 SWS - einer Lehrveranstaltung Bilanzrecht 2 SWS 
-
-## **2. Seminar** 
-
-Die bzw. der Studierende muss zusätzlich in einem der unter 1 genannten Rechtsgebiete erfolgreich an einem Seminar teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
-
-**3.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
-
-- (3) SCHWERPUNKTBEREICH 2: _BANK- UND KAPITALMARKTRECHT_ 
-
-## **1. Pflichtbereich** 
-
-Die bzw. der Studierende hat teilzunehmen an: 
-
-- einer Lehrveranstaltung zum Bankrecht 3 SWS - einer Lehrveranstaltung zum Kapitalmarktrecht 3 SWS - einer Lehrveranstaltung zum Insolvenzrecht 2 SWS 
-
-23 
+Ee 
 
 2 SWS 
 
@@ -634,13 +595,13 @@ Die bzw. der Studierende hat teilzunehmen an:
 
 24 
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
 Die bzw. der Studierende muss zudem mindestens 2 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wählen: 
 
 - einer Lehrveranstaltung zum Bilanzrecht 2 SWS -    einer Lehrveranstaltung zu Neuen Vertragstypen 2 SWS -    einer Lehrveranstaltung zum Recht der Unternehmenssanierung 2 SWS oder einer weiteren für den Schwerpunktbereich Bank- und Kapitalmarktrecht ausgewiesene Lehrveranstaltungen. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Pflicht- oder Wahlpflichtbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -648,11 +609,11 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrv
 
 (4) SCHWERPUNKTBEREICH 3: _STEUERRECHT_ 
 
-## **1. Pflichtbereich** 
+# **1. Pflichtbereich** 
 
 Die bzw. der Studierende hat teilzunehmen an: 
 
-- einer Lehrveranstaltung zum Bilanzrecht 
+- einer Lehrveranstaltung zum Bilanzrecht 2 SWS - einer Lehrveranstaltung zur Einführung in das Steuerrecht 2 SWS - einer Lehrveranstaltung zum Unternehmenssteuerrecht 2 SWS - einer Lehrveranstaltung zum GmbH-Recht 2 SWS - einer Lehrveranstaltung zum Wirtschaftsstrafrecht 2 SWS 2 SWS 
 
 - einer Lehrveranstaltung zur Einführung in das Steuerrecht 
 
@@ -664,9 +625,7 @@ Die bzw. der Studierende hat teilzunehmen an:
 
 - einer Lehrveranstaltung zum Internationalen Steuerrecht 
 
-2 SWS 2 SWS 2 SWS 2 SWS 2 SWS 2 SWS 
-
-## **2. Seminar** 
+# **2. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich in einem der unter 1 genannten Rechtsgebiete erfolgreich an einem Seminar teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -674,7 +633,7 @@ Die bzw. der Studierende muss zusätzlich in einem der unter 1 genannten Rechtsg
 
 (5) SCHWERPUNKTBEREICH 4: _GEISTIGES EIGENTUM UND WETTBEWERBSRECHT_ 
 
-## **1. Pflichtbereich** 
+# **1. Pflichtbereich** 
 
 Die bzw. der Studierende hat teilzunehmen an: 
 
@@ -686,7 +645,7 @@ Die bzw. der Studierende hat teilzunehmen an:
 
 2 SWS 
 
-## **2. Seminar** 
+# **2. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich in einem der unter 1 genannten Rechtsgebiete erfolgreich an einem Seminar teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -694,7 +653,7 @@ Die bzw. der Studierende muss zusätzlich in einem der unter 1 genannten Rechtsg
 
 (6) SCHWERPUNKTBEREICH 5: INTERNATIONALES UND EUROPÄISCHES ÖFFENTLICHES RECHT 
 
-## **1. Kernbereich** 
+# **1. Kernbereich** 
 
 Im Schwerpunktbereich „Internationales und Europäisches Recht“ hat die bzw. der Studierende teilzunehmen an folgenden Lehrveranstaltungen: 
 
@@ -704,13 +663,23 @@ Im Schwerpunktbereich „Internationales und Europäisches Recht“ hat die bzw.
 
 - Völkerrecht II 
 
-- 2 SWS 2 SWS 2 SWS 
+|2 SWS|
+|---|
+|2 SWS|
+|2 SWS|
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
 Die bzw. der Studierende muss zudem unterschiedliche Lehrveranstaltungen im Umfang von sechs Semesterwochenstunden aus einem der beiden folgenden Vertiefungsbereiche wählen: 
 
-- Europäische Grundrechte (Europarecht III) 2 SWS - International Economic Law 2 SWS - Umweltrecht I 2 SWS - Umweltrecht II 2 SWS - Migrationsrecht I 2 SWS - Internationales Privatrecht I 2 SWS - Übung zur Rechtsvergleichung 2 SWS 
+|- Europäische Grundrechte (Europarecht III)|2 SWS|
+|---|---|
+|- International Economic Law|2 SWS|
+|- Umweltrecht I|2 SWS|
+|- Umweltrecht II|2 SWS|
+|- Migrationsrecht I|2 SWS|
+|- Internationales Privatrecht I|2 SWS|
+|- Übung zur Rechtsvergleichung|2 SWS|
 
 - Legal and Institutional Protection of Human Rights – Human Rights Law 2 SWS 
 
@@ -718,7 +687,7 @@ Die bzw. der Studierende muss zudem unterschiedliche Lehrveranstaltungen im Umfa
 
 Der Fachbereich bietet Veranstaltungen aus dem Wahlpflichtbereich in angemessenem Umfang an. Die obige Aufzählung der Rechtsbereiche beinhaltet keine Verpflichtung des Fachbereichs, bestimmte Lehrveranstaltungen in den genannten Bereichen auch tatsächlich anzubieten. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Kern- oder Wahlpflichtbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -726,30 +695,30 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrv
 
 26 
 
-## (7) SCHWERPUNKTBEREICH 6: INTERNATIONALES PRIVATRECHT 
+# (7) SCHWERPUNKTBEREICH 6: INTERNATIONALES PRIVATRECHT 
 
-## **1. Kernbereich** 
+# **1. Kernbereich** 
 
 Im Schwerpunktbereich „Internationales Privatrecht“ hat die bzw. der Studierende teilzunehmen an: 
 
 - einer Lehrveranstaltung zum IPR I 2 SWS - einer Lehrveranstaltung zum IPR II 2 SWS - einer Lehrveranstaltung zur Rechtsvergleichung 2 SWS 
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
 Die bzw. der Studierende muss zudem mindestens 6 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wählen: 
 
-|-|Internationales Zivilverfahrensrecht|2 SWS|
-|---|---|---|
-|-|Einführung in die CISG|2 SWS|
-|-|Europäische Grundrechte (Europarecht III)|2 SWS|
-|-|Völkerrecht I|2 SWS|
-|-|International Economic Law|2 SWS|
-|-|weitere für den Schwerpunktbereich 6 ausgewiesene||
-||Lehrveranstaltungen|2 SWS|
+|- Internationales Zivilverfahrensrecht|2 SWS|
+|---|---|
+|- Einführung in die CISG|2 SWS|
+|- Europäische Grundrechte (Europarecht III)|2 SWS|
+|- Völkerrecht I|2 SWS|
+|-  International Economic Law|2 SWS|
+|- weitere für den Schwerpunktbereich 6 ausgewiesene||
+|Lehrveranstaltungen|2 SWS|
 
 Der Fachbereich bietet Veranstaltungen aus dem Wahlpflichtbereich in angemessenem Umfang an. Die obige Aufzählung der Rechtsbereiche beinhaltet keine Verpflichtung des Fachbereichs, Lehrveranstaltungen in den genannten Bereichen auch anzubieten. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Kern-, oder Wahlpflichtbereich erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -757,7 +726,7 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrv
 
 - (8) SCHWERPUNKTBEREICH 7: ARBEITS- UND SOZIALVERSICHERUNGSRECHT 
 
-## **1. Kernbereich** 
+# **1. Kernbereich** 
 
 Im Schwerpunktbereich „Arbeits- und Sozialversicherungsrecht“ hat die bzw. der Studierende teilzunehmen an: 
 
@@ -769,7 +738,7 @@ Im Schwerpunktbereich „Arbeits- und Sozialversicherungsrecht“ hat die bzw. d
 
 - einer Lehrveranstaltung zur Einführung in das Sozialversicherungsrecht 2 SWS 
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
 Die bzw. der Studierende muss zudem mindestens 4 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wählen: - Arbeitsgerichtliches Verfahren 2 SWS 
 
@@ -783,13 +752,13 @@ Die bzw. der Studierende muss zudem mindestens 4 Semesterwochenstunden unterschi
 
 Der Fachbereich bietet Veranstaltungen aus dem Wahlpflichtbereich in angemessenem Umfang an. Die obige Aufzählung der Rechtsbereiche beinhaltet keine Verpflichtung des Fachbereichs, Lehrveranstaltungen in den genannten Bereichen auch anzubieten. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Kern- oder Wahlpflichtbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
 **4.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
 
-## (9) SCHWERPUNKTBEREICH 8: GRUNDLAGEN DES RECHTS 
+# (9) SCHWERPUNKTBEREICH 8: GRUNDLAGEN DES RECHTS 
 
 **1.** Im Schwerpunktbereich „Grundlagen des Rechts“ hat die bzw. der Studierende teilzunehmen an: 
 
@@ -807,7 +776,7 @@ Der Fachbereich bietet Veranstaltungen aus dem Schwerpunktbereich in angemessene
 
 28 
 
-## **2. Seminar** 
+# **2. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. genannten Lehrveranstaltungen an einem Seminar in einem der unter 1. genannten Rechtsgebiete erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. Der Fachbereich bietet Seminare in ausreichendem Umfang an. 
 
@@ -815,7 +784,7 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. genannten Lehrveransta
 
 (10) SCHWERPUNKTBEREICH 9: STAAT UND VERWALTUNG 
 
-## **1. Kernbereich** 
+# **1. Kernbereich** 
 
 Im Schwerpunktbereich „Staat und Verwaltung“ hat die bzw. der Studierende teilzunehmen an: 
 
@@ -825,7 +794,7 @@ Im Schwerpunktbereich „Staat und Verwaltung“ hat die bzw. der Studierende te
 
 - - einer Lehrveranstaltung zum Umweltrecht mit mindestens 2 SWS. 
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
 Die bzw. der Studierende muss zudem mindestens 6 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wählen: 
 
@@ -845,9 +814,7 @@ Die bzw. der Studierende muss zudem mindestens 6 Semesterwochenstunden unterschi
 
 - Verwaltungslehre 
 
-- 
-
-   - Straßen- und Wegerecht 
+- Straßen- und Wegerecht 
 
 - Planungsrecht 
 
@@ -869,9 +836,7 @@ Die bzw. der Studierende muss zudem mindestens 6 Semesterwochenstunden unterschi
 
 - Europäischer und internationaler Menschenrechtsschutz 
 
-- 
-
-   - Steuerrecht 
+- Steuerrecht 
 
 - weitere für den Schwerpunktbereich 9 ausgewiesene Lehrveranstaltungen 
 
@@ -881,7 +846,7 @@ Der Fachbereich bietet Veranstaltungen aus dem Wahlpflichtbereich in angemessene
 
 keine Verpflichtung des Fachbereichs, Lehrveranstaltungen in den genannten Bereichen auch anzubieten. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Kern- oder Wahlpflichtbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -889,25 +854,28 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrv
 
 - (11) SCHWERPUNKTBEREICH 10: _KRIMINALWISSENSCHAFTEN (VORMALS 6)_ 
 
-## **1. Basisbereich** 
+# **1. Basisbereich** 
 
 Im Schwerpunktbereich „Kriminalwissenschaften“ hat die bzw. der Studierende teilzunehmen an drei von fünf Vorlesungen aus dem Basisbereich. Dieser wird gebildet aus je einer Lehrveranstaltung: 
 
-- zur Kriminologie 2 SWS - zum Strafprozessrecht (Vertiefung) 2 SWS -  zum Sanktionenrecht 2 SWS -  zum Jugendstrafrecht 2 SWS -  zum Strafvollzugsrecht 2 SWS 
+|- zur Kriminologie|2 SWS|
+|---|---|
+|- zum Strafprozessrecht (Vertiefung)|2 SWS|
+|-  zum Sanktionenrecht|2 SWS|
+|-  zum Jugendstrafrecht|2 SWS|
+|-  zum Strafvollzugsrecht|2 SWS|
 
-## **2. Vertiefungsbereich** 
+# **2. Vertiefungsbereich** 
 
 Die bzw. der Studierende muss zudem zwei unterschiedliche Lehrveranstaltungen aus dem Vertiefungsbereich wählen. Dieser wird gebildet aus je einer Lehrveranstaltung: 
 
-- zum Wirtschafts- und Steuerstrafrecht 2 SWS - zum Medizinstrafrecht 2 SWS - zum Völkerstrafrecht 2 SWS 2 SWS 
+- zum Wirtschafts- und Steuerstrafrecht 2 SWS - zum Medizinstrafrecht 2 SWS - zum Völkerstrafrecht 2 SWS -  zum Europäischen Strafrecht 2 SWS 
 
-- zum Europäischen Strafrecht 
-
-## **3. Ergänzungsveranstaltung** 
+# **3. Ergänzungsveranstaltung** 
 
 Die bzw. der Studierende muss ferner zur Ergänzung eine Lehrveranstaltung entweder aus der Gruppe der noch nicht gewählten Basis- und Vertiefungsvorlesungen oder eine weitere für den Schwerpunktbereich 10 ggf. explizit ausgewiesene Zusatzveranstaltung (wie etwa Betäubungsmittelrecht, Ordnungswidrigkeitenrecht, Vertiefung im Wirtschaftsstrafrecht, Vertiefung im Medizinstrafrecht u.a.) wählen. Dass solche Zusatzveranstaltungen angeboten werden, kann nicht verbindlich und insbesondere nicht regelmäßig garantiert werden. 
 
-## **4. Seminar** 
+# **4. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. bis 3. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Basis- oder Vertiefungsbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
@@ -915,9 +883,9 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. bis 3. genannten Lehrv
 
 **5.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
 
-(12) SCHWERPUNKTBEREICH 11: _GRUND- UND MENSCHENRECHTE (VORMALS 7)_ 
+# (12) SCHWERPUNKTBEREICH 11: _GRUND- UND MENSCHENRECHTE (VORMALS 7)_ 
 
-## **1. Kernbereich** 
+# **1. Kernbereich** 
 
 Im Schwerpunktbereich „Grund- und Menschenrechte“ hat die bzw. der Studierende teilzunehmen an: 
 
@@ -927,40 +895,36 @@ Im Schwerpunktbereich „Grund- und Menschenrechte“ hat die bzw. der Studieren
 
 - der Vorlesung “Legal and Institutional Protection of Human Rights – Human Rights Law” (2 SWS). 
 
-## **2. Wahlpflichtbereich** 
+# **2. Wahlpflichtbereich** 
 
-Die bzw. der Studierende muss zudem mindestens 6 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wählen: 
-
-|-|Staat, Verfassung und Menschenrechte|2 SWS|
-|---|---|---|
-|-|Migrationsrecht I|2 SWS|
-|-|Migrationsrecht II|2 SWS|
-|-|Menschenrechtliche Bezüge des Internationalen Wirtschaftsrechts|2 SWS|
-|-|Islam und Recht in Europa|2 SWS|
-|-|Religionsverfassungsrecht – Staatskirchenrecht|2 SWS|
-|-|Europäisches Strafrecht|2 SWS|
-|-|Völkerstrafrecht|2 SWS|
-|-|FAU Human Rights Talks|2 SWS|
-
-- weitere für den SPB 11 ausgewiesene Lehrveranstaltungen. 
+|Die bzw. der Studierende muss zudem mindestens 6 Semesterwo<br>unterschiedliche Lehrveranstaltungen aus folgenden Rechtsgebieten wä|chenstunden<br>hlen:|
+|---|---|
+|- Staat, Verfassung und Menschenrechte|2 SWS|
+|- Migrationsrecht I|2 SWS|
+|- Migrationsrecht II|2 SWS|
+|- Menschenrechtliche Bezüge des Internationalen Wirtschaftsrechts|2 SWS|
+|- Islam und Recht in Europa|2 SWS|
+|- Religionsverfassungsrecht – Staatskirchenrecht|2 SWS|
+|- Europäisches Strafrecht|2 SWS|
+|- Völkerstrafrecht|2 SWS|
+|- FAU Human Rights Talks|2 SWS|
+|- weitere für den SPB 11 ausgewiesene Lehrveranstaltungen.||
 
 Der Fachbereich bietet Veranstaltungen aus dem Wahlpflichtbereich in angemessenem Umfang an. Die obige Aufzählung der Rechtsbereiche beinhaltet keine Verpflichtung des Fachbereichs, Lehrveranstaltungen in den genannten Bereichen auch anzubieten. 
 
-## **3. Seminar** 
+# **3. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrveranstaltungen an einem Seminar in einem der Rechtsgebiete des Kern- oder Wahlpflichtbereichs erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
 **4.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
 
-(13) SCHWERPUNKTBEREICH 12: _IT-RECHT_ 
+# (13) SCHWERPUNKTBEREICH 12: _IT-RECHT_ 
 
-## **1. Pflichtbereich** 
+# **1. Pflichtbereich** 
 
 Im Schwerpunktbereich „IT-Recht“ hat die bzw. der Studierende teilzunehmen an: 
 
-- einer Lehrveranstaltung zum IT- und Internet-Recht 
-
-3 SWS 
+-  einer Lehrveranstaltung zum IT- und Internet-Recht 3 SWS 
 
 31 
 
@@ -972,164 +936,11 @@ Im Schwerpunktbereich „IT-Recht“ hat die bzw. der Studierende teilzunehmen a
 
 - einer Lehrveranstaltung zum Urheberrecht 2 SWS -  einer Lehrveranstaltung zum Recht der Künstlichen Intelligenz 1 SWS 
 
-## **2. Seminar** 
+# **2. Seminar** 
 
 Die bzw. der Studierende muss zusätzlich zu den unter 1. genannten Lehrveranstaltungen an einem Seminar in einem der unter 1. genannten Rechtsgebiete erfolgreich teilnehmen, in dessen Rahmen die studienbegleitende wissenschaftliche Arbeit gemäß § 47 angefertigt wird. 
 
 **3.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden. 
 
-32
-
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-### OCR Seite 1
-
-```
-Friedrich-Alexander-Universität
-IE \ U
-Erlangen-Nürnberg
-Studien- und Prüfungsordnung für den Studiengang
-Rechtswissenschaft an der Rechts- und
-Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-
-Universität Erlangen-Nürnberg (FAU)
-- StuPO Jura —
-Vom 17. Juni 2024
-geändert durch Satzungen vom
-26. September 2024 und
-5. März 2026
-Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 96 Abs. 3
-Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) in der jeweils geltenden
-Fassung erlässt die FAU folgende Studien- und Prüfungsordnung:
-Inhaltsverzeichnis:
-l. Teil: Allgemeine Bestimmungen. ...........uuusssssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
-8 1 Geltungsbereich ...................-.-44444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnn
-2
-8 2 Studienziele.................ussenssssnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn2
-8 3 Aufbau des Studiums und der Prüfungen ...................4444444ssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 2
-8 4 Akademischer Grad.....................444sssnnnssnnnnnnnnnennnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-8 5 Regelstudienzeit, Studienbeginn, Unterrichts- und Prüfungssprache............................... 3
-8 6 Inhalt des Studiums......................4ussssnnsssnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnn D
-8 7 Praktische Studienzeit.....................uu444444444nnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ü
-8 8 Nachweis der Fremdsprachenkompetenz.......................22244444444444000000000RRnnnn
-nn nnnnnnnnnnnnnnnnnn D
-8 9 Lehrveranstaltungen.................44444ussnsnnnesnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnO
-8 10 Anwesenheitspflicht..........................44244444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-8 11 Studienplan ....................2224444444nnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnpnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-8 12 Prüfungsfristen der Zwischenprüfung, Zeitpunkt der Abschlussprüfung, Freiversuch,
-Schutzfristen, Fristversäumnis...........uasuusssssnsnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnne D
-8 13 Prüfungsorgane.........uuuuussssssnnnnnnnennnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Ö
-8 14 Prüfende und Beisitzerinnen und Beisitzer, Ausschluss wegen persönlicher Beteiligung,
-Verschwiegenheitspflicht ..........................--44444444HHnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-& 15 Bekanntgabe der Prüfungstermine und der Prüfenden, Anmeldung, Rücktritt ............... 8
-8 16 Anerkennung von Kompetenzen..............uuussssnnssssennnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn Q
-8 17 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der
-weiteren Teilnahme ................444444nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn1
-8 18 Entzug akademischer Grade ...............-.4444444snnnssnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnn1
-8 19 Mängel im Prüfungsverfahren...................444444ss44444nnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn1
-8 20 Schriftliche Prüfung ......................ssun4s44snnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen
-1 1
-8 21 Elektronische Prüfung ..................ssus444444nnnnnnnnennnnnnnnnnnnnnnnnennnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnen1 1
-8 22 Bestehen und Nichtbestehen, Bewertung der Prüfungen, Remonstration, Gesamtnote
-der Juristischen Universitätsprüfung..................--4444444nnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
-8 23 Ungültigkeit der Prüfung .................u22242444444nnnenennnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn12
-8 24 Einsicht in die Prüfungsakten. ..............-....4444s4ssnnnnsnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnn19
-8 25 Wiederholung von Prüfungen, Freiversuch.................u.sssssssssnnnnnnnnnennnnnnnnnnnnnnnnennennnnnOD
-8 26 Bescheinigung über die bestandene Juristische Universitätsprüfung............................
-13
-8 27 Bescheinigung über (endgültig) nicht bestandene Prüfung........................
-nn 14
-8 28 Nachteilsausgleich......................uuusssnnsssnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnen1
-Il. Teil: Grundstudium und Zwischenprüfung ..................surs4224002000000nnnnnnnnnnnnnnnnnnnnnnnnnnnnnDA
-8 29 Pflichtveranstaltungen im Grundstudium ...............-.4444444444ssnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnn14
-8 30 Hausarbeiten im Grundstudium ...................4ssssssssssnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn10
-1
-```
-
-### OCR Seite 23
-
-```
-Friedrich-Alexander-Universität
-E
-Erlangen-Nürnberg
-DUN
-Anlage zu 8 41 Abs. 3:
-(1) 'Der Fachbereich Rechtswissenschaft bietet folgende 12 Schwerpunktbereiche
-an, unter denen die bzw. der Studierende einen auszuwählen hat:
-1.
-Kapitalgesellschaftsrecht
-2.
-Bank- und Kapitalmarktrecht
-3.
-Steuerrecht
-4. Geistiges Eigentum und Wettbewerbsrecht
-5.
-Internationales und Europäisches Öffentliches Recht
-6.
-Internationales Privatrecht
-7.
-Arbeits- und Sozialversicherungsrecht
-8.
-Grundlagen des Rechts
-9.
-Staat und Verwaltung
-10.Kriminalwissenschaften
-11.Grund- und Menschenrechte
-12.1T-Recht.
-?Diese Schwerpunktbereiche umfassen folgende Inhalte und Lehrveranstaltungen:
-(2) SCHWERPUNKTBEREICH 1: KAPITALGESELLSCHAFTSRECHT
-1. Pflichtbereich
-Die bzw der Studierende hat teilzunehmen an:
--
-einer Lehrveranstaltung zum Aktienrecht
-2 SWS
--
-einer Lehrveranstaltung zum GmbH-Recht
-2 SWS
--
-einer Lehrveranstaltung zum Kapitalmarktrecht
-3 SWS
--
-einer Lehrveranstaltung zum Insolvenzrecht
-2 SWS
--
-einer Lehrveranstaltung zum Konzern- & Umwandlungsrecht
-1 SWS
--
-einer Lehrveranstaltung Bilanzrecht
-2 SWS
-2. Seminar
-Die
-bzw.
-der
-Studierende
-muss
-zusätzlich
-in
-einem
-der
-unter
-1
-genannten
-Rechtsgebiete erfolgreich an einem Seminar teilnehmen,
-in dessen Rahmen die
-studienbegleitende wissenschaftliche Arbeit gemäß $ 47 angefertigt wird.
-3. Die Lehrveranstaltungen des Schwerpunktbereichs können - sofern nichts anderes
-angegeben ist - als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und
-gewählt werden.
-(3) SCHWERPUNKTBEREICH 2: BANK- UND KAPITALMARKTRECHT
-1. Pflichtbereich
-Die bzw. der Studierende hat teilzunehmen an:
--
-einer Lehrveranstaltung zum Bankrecht
-3 SWS
--
-einer Lehrveranstaltung zum Kapitalmarktrecht
-3 SWS
--
-einer Lehrveranstaltung zum Insolvenzrecht
-2 SWS
-23
-```
+32 
 

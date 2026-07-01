@@ -6,9 +6,9 @@ zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
-studienbeginn: "Wintersemester"
+studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:49:04+00:00
+scraped_at: 2026-07-01T08:25:56+00:00
 ---
 
 # Mittelalter und Frühe Neuzeit (M.A.)
@@ -24,7 +24,7 @@ scraped_at: 2026-05-01T06:49:04+00:00
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Philosophische Fakultät und Fachbereich Theologie |
-| Studienbeginn | Wintersemester |
+| Studienbeginn | Sommersemester, Wintersemester |
 | Größe | 1-50 |
 
 ## Worum geht es im Studiengang?

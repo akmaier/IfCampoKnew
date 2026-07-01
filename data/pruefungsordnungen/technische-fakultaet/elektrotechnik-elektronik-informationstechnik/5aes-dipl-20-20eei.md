@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "12. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-Dipl%20-%20EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:07+00:00
-page_count_chars: 1927
+scraped_at: 2026-07-01T11:29:45+00:00
+page_count_chars: 1962
 ---
 
 # 12. Juli 2010
@@ -12,7 +12,7 @@ page_count_chars: 1927
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-Dipl%20-%20EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
 
 ## Vom 12. Juli 2010 
 
@@ -24,7 +24,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
 ## § 8 Abs. 4 erhält folgende Fassung: 
 
-„(4)[1] Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.[2] Die Studierende oder der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.[3] Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen.[4] Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern der Prüfungsausschuss der Studierenden oder dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt.“ 
+„(4)<sup>1</sup> Die Wiederholungsprüfung muss zum nächsten Termin abgelegt werden, der in der Regel spätestens innerhalb von sechs Monaten nach Bekanntgabe des ersten Prüfungsergebnisses stattfindet.<sup>2</sup> Die Studierende oder der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.<sup>3</sup> Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen.<sup>4</sup> Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern der Prüfungsausschuss der Studierenden oder dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt.“ 
 
 ## **§ 2** 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "European MA Lexicography  MPOEMLex 20190723 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Lexicography/Aenderungssatzungen/European_MA_Lexicography _MPOEMLex_20190723_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:14:42+00:00
-page_count_chars: 27435
+scraped_at: 2026-07-01T09:33:50+00:00
+page_count_chars: 27125
 ---
 
 # European MA Lexicography  MPOEMLex 20190723 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 27435
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Lexicography/Aenderungssatzungen/European_MA_Lexicography _MPOEMLex_20190723_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOEMLex –** 
+# **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/ Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOEMLex –** 
 
-## **Vom 23. Juli 2019** 
+# **Vom 23. Juli 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den internationalen Masterstudiengang European Master in Lexicography/Europäischer Master für Lexikographie der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOEMLex – vom 4. September 2009, zuletzt geändert durch Satzung vom 29. August 2016 und Nachtrag vom 8. März 2019, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Studien- und Prüfungsordnung für den internationalen Masterstudiengang Eur
 
 2. § 4 wird wie folgt geändert: 
 
-   - a) In der Überschrift der Regelung werden nach den Worten „ **Struktur des Masterstudiengangs** “ das Komma und das Wort „ **Sprache** “ gestrichen sowie nach den Worten „ **Prüfungen und Regelstudienzeit** “ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache** “ angefügt. 
+- a) In der Überschrift der Regelung werden nach den Worten „ **Struktur des Masterstudiengangs** “ das Komma und das Wort „ **Sprache** “ gestrichen sowie nach den Worten „ **Prüfungen und Regelstudienzeit** “ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache** “ angefügt. 
 
 b) Abs. 1 wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ bb) Die Sätze 4 und 5 werden gestrichen.
 
 - c) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die Unterrichts- und Prüfungssprachen in den Modulen sind Deutsch und Englisch; Näheres regeln die **Anlage** bzw. das Modulhandbuch.[2] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+„(4)<sup>1</sup> Die Unterrichts- und Prüfungssprachen in den Modulen sind Deutsch und Englisch; Näheres regeln die **Anlage** bzw. das Modulhandbuch.<sup>2</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 3. § 6 wird wie folgt geändert: 
 
@@ -66,11 +66,11 @@ b) Abs. 2 wird wie folgt geändert:
 
       - aa) In Satz 1 wird nach den Worten „müssen dem“ das Wort „Prüfungsamt“ durch das Wort „Prüfungsausschuss“ ersetzt. 
 
-      - bb) In Satz 3 werden nach den Worten „dem Prüfenden geltend gemacht werden“ das Zeichen „;“ und das Wort „in“ durch die hochgestellte Zahl und das Wort „[4] In“ ersetzt. 
+      - bb) In Satz 3 werden nach den Worten „dem Prüfenden geltend gemacht werden“ das Zeichen „;“ und das Wort „in“ durch die hochgestellte Zahl und das Wort „<sup>4</sup> In“ ersetzt. 
 
       - cc) In Satz 4 (neu) werden nach den Worten „krankheitsbedingter Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen; der Prüfungsausschuss“ eingefügt und am Satzende nach den Worten „vertrauensärztliches Attestes“ die Worte „verlangt werden“ durch das Wort „verlangen“ ersetzt. 
 
-## 6. § 10 wird wie folgt geändert: 
+# 6. § 10 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -90,7 +90,7 @@ b) Abs. 2 wird wie folgt geändert:
 
    - b) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
+„<sup>3</sup> Mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
 
 8. § 12 wird wie folgt geändert: 
 
@@ -126,25 +126,25 @@ b) Abs. 2 wird wie folgt geändert:
 
       - dd) Nach den Worten „einer weiteren Hochschullehrerin“, „einem weiteren Hochschullehrer und einer“ sowie „wissenschaftlichen Mitarbeiterin“ wird jeweils das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
-## 10. § 14 wird wie folgt geändert: 
+# 10. § 14 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden nach den Worten „die in Studiengängen“ die Worte „an der FAU oder“ eingefügt. 
 
 - b) In Abs. 3 Satz 1 werden nach den Worten „Kompetenzen, die im Rahmen“ am Satzanfang die darauffolgenden Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen. 
 
-- c) Abs. 5 wird wie folgt geändert: 
+c) Abs. 5 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden das Wort „Bei“ am Satzanfang durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ ersetzt und nach der Zahl „2“ das Wort „besteht“ gestrichen. 
+- aa) In Satz 2 werden das Wort „Bei“ am Satzanfang durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ ersetzt und nach der Zahl „2“ das Wort „besteht“ gestrichen. 
 
-   - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
+- bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+   - „<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
-      - cc) Die bisherigen Sätze 3 und 4 werden zu den Sätzen 4 und 5. durch die Abkürzung „bzw.“ ersetzt. 
+- cc) Die bisherigen Sätze 3 und 4 werden zu den Sätzen 4 und 5. durch die Abkürzung „bzw.“ ersetzt. 
 
 11.  § 15 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 4 werden nach den Worten „krankheitsbedingter Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen; der Prüfungsausschuss“ eingefügt sowie 
+- a) In Abs. 1 Satz 4 werden nach den Worten „krankheitsbedingter Prüfungsunfähigkeit“ die Worte „ist ein Attest vorzulegen; der Prüfungsausschuss“ eingefügt sowie 
 
 4 
 
@@ -158,19 +158,19 @@ am Satzende nach den Worten „eines vertrauensärztlichen Attestes“ die Worte
 
 14. In § 19 wird in Abs. 1 Satz 2 nach den Worten „in Anwesenheit eines Beisitzers statt, die“ sowie in Abs. 2 nach den Worten „die Namen der Prüfenden, der Besitzerin“ jeweils das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
-## 15. § 20 wird wie folgt geändert: 
+# 15. § 20 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden nach den Worten „über die einzelnen Prüfungen werden von der“ die Worte „jeweiligen Prüferin oder dem jeweiligen Prüfer“ durch die Worte „bzw. dem jeweiligen Prüfenden“ ersetzt. 
 
 - b) In Abs. 5 Satz 2 wird nach dem Wort „Absatz“ am Satzanfang die Ziffer „3“ durch die Ziffer „4“ ersetzt. 
 
-## 16. § 22 wird wie folgt geändert: 
+# 16. § 22 wird wie folgt geändert: 
 
 - a) In Abs. 1 wird nach den Worten „auf Antrag Einsicht in ihre“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
 - b) In Abs. 2 Satz 3 werden nach den Worten „Die Einsicht wird durch die“ die Worte „bzw. den“ eingefügt sowie nach den Worten „Prüfungsamt zuständig ist;“ das Wort „näheres“ durch das Wort „Näheres“ ersetzt. 
 
-## 17. § 23 wird wie folgt geändert: 
+# 17. § 23 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach dem Klammerzusatz „(Joint Degree)“ die Worte „mit der jeweiligen Partnerhochschule“ durch die Worte „von den Partnerhochschulen“ ersetzt. 
 
@@ -186,7 +186,7 @@ am Satzende nach den Worten „eines vertrauensärztlichen Attestes“ die Worte
 
 - dd) Der bisherige Satz 6 wird zu Satz 5. 
 
-## 18.  § 25 wird wie folgt geändert: 
+# 18.  § 25 wird wie folgt geändert: 
 
    - a) In Abs. 1 Satz 2 wird nach den Worten „wegen länger andauernder oder ständiger“ das Wort „körperlicher“ gestrichen und es werden nach dem darauffolgenden Wort „Behinderung“ ein Komma und die Worte „die nicht das abgeprüfte Leistungsbild betrifft“ eingefügt. 
 
@@ -196,7 +196,7 @@ am Satzende nach den Worten „eines vertrauensärztlichen Attestes“ die Worte
 
 19. In § 26 Abs. 1 werden nach den Worten „berät in allgemeinen Studienangelegenheiten:“ die Spiegelstriche jeweils durch eine Nummerierung mit „1.“, „2.“ bzw. „3.“ ersetzt. 
 
-## 20. § 27 wird wie folgt geändert: 
+# 20. § 27 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -204,7 +204,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 - bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Die Abschlüsse nach Satz 2 dürfen hinsichtlich der Qualifikation keine wesentlichen Unterschiede zu den in Satz 1 genannten Abschlüssen aufweisen.“ 
+„<sup>3</sup> Die Abschlüsse nach Satz 2 dürfen hinsichtlich der Qualifikation keine wesentlichen Unterschiede zu den in Satz 1 genannten Abschlüssen aufweisen.“ 
 
 cc) Die bisherigen Sätze 3 und 4 werden zu den Sätzen 4 und 5. 
 
@@ -236,7 +236,7 @@ a) Abs. 1 wird wie folgt geändert:
 
       - (2) Nach den Worten „einem Fachvertreter der“ werden die Worte „Studierenden oder“ durch die Abkürzung „bzw.“ ersetzt 
 
-      - (3) Nach den Worten „auf Antrag ein Thema und eine Betreuerin“ wird das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
+- (3) Nach den Worten „auf Antrag ein Thema und eine Betreuerin“ wird das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
 - c) In Abs. 3 Satz 1 wird nach den Worten „im Masterstudiengang Lexikographie tätigen Hochschullehrerinnen“ das Wort „oder“ durch die Abkürzung „bzw.“ ersetzt. 
 
@@ -272,7 +272,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 cc) Nach Satz 4 werden folgende neue Sätze 5 und 6 angefügt: 
 
-„[5] Die Bearbeitungszeit beträgt vier Monate ab der Bekanntgabe der Gestattung der Umarbeitung.[6] Im Falle der Umarbeitung gelten die Abs. 1, Abs. 2 Sätze 2 und 3, Abs. 3 und 4 Sätze 2 und 3 sowie Abs. 6 bis 8 entsprechend.“ 
+„<sup>5</sup> Die Bearbeitungszeit beträgt vier Monate ab der Bekanntgabe der Gestattung der Umarbeitung.<sup>6</sup> Im Falle der Umarbeitung gelten die Abs. 1, Abs. 2 Sätze 2 und 3, Abs. 3 und 4 Sätze 2 und 3 sowie Abs. 6 bis 8 entsprechend.“ 
 
 23. § 31 wird wie folgt geändert: 
 
@@ -288,7 +288,7 @@ cc) Nach Satz 4 werden folgende neue Sätze 5 und 6 angefügt:
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-(2)[1] Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[ 3] Abweichend von Satz 2 gelten die Änderungen in Nr. 2.2. der **Anlage I** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+(2)<sup>1</sup> Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in Nr. 2.2. der **Anlage I** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 8 
 
@@ -336,82 +336,56 @@ die Qualifikationsfeststellungsentscheidung nicht wesentlich geändert hat“ er
 
 10 
 
-## 26. Anlage II erhält folgende neue Fassung: 
+26. Anlage II erhält folgende neue Fassung: 
 
-## „ **Anlage II Studienverlaufsplan** 
+# „ **Anlage II Studienverlaufsplan** 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten|||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**1. Fachsemester: Basismodule**|||||||||||||
-|**Basismodul B1**|Lexikographische Grundlagen||E-Learning|||10|10||||Aufgaben bzw. Essays je nach<br>Lerneinheit1 2|0|
-|**Basismodul B2-1**<br>**(Heimmodul)**|Seminar/Kurs Anglistik||||||||||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit(10-15 Seiten)2|1|
-||||||2|5|5||||||
-||||||||||||||
-|**Basismodul B2-2**<br>**(Heimmodul)**|Seminar/Kurs Germanistik||||2|5|5||||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit(10-15 Seiten)2|1|
-|**Basismodul B3-13**|Sprachkurs Englisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-23**|Sprachkurs Deutsch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-33**|Sprachkurs Portugiesisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-43**|Sprachkurs Spanisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-53**|Sprachkurs Französisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-63**|Sprachkurs Ungarisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-73**|Sprachkurs Italienisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-83**|Sprachkurs Polnisch||vgl. APO/SprZ|||5|5||||vgl. APO/SprZ|1|
-|**Basismodul B3-93**|Informatik für Nebenfach||vgl. FPO Inf|||5|5||||vgl. FPO Inf|1|
-|**2. Fachsemester: Aufbaumodule**|||||||||||||
-|**Aufbaumodul A13**|Hauptseminar: Metalexikographie||||2|5||5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-|**Aufbaumodul A23**|||||||||||Klausur (60-90 Min.) oder<br>Pätti/Rft 30 Mi d|1|
-||||||||||||||
-||Hauptseminar:<br>Geschichte der Lexikorahie||||||||||rsenaoneera ( n.) un<br>Hausarbeit (10-15 Seiten) oder||
-||||||2|5||5|||||
-||gp||||||||||<br>Hausarbeit(15-20 Seiten)2||
-|**Aufbaumodul A33**|Hauptseminar:<br>Datenmodellierung und Daten-<br>präsentation in der digitalen<br>Lexikographie||||2|5||5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-|**Aufbaumodul A43**|||||||||||Klausur (60-90 Min.) oder<br>Päi/Rf 30 Mi d|1|
-||||||||||||||
-||Hauptseminar:<br>Wörterbuchbenutzunsforschun||||||||||rsentatoneerat ( n.) un<br>Hausarbeit (10-15 Seiten) oder||
-||||||2|5||5|||||
-||gg||||||||||<br>Hausarbeit(15-20 Seiten)2||
+|||SWS||Gesamt|Work|load-Verteilu<br>|ng pro Semester<br>|Art und Umfang der Prüfung/|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||<br>ECTS||in ECTS-|Punkten|<br>Studienleistung|Modul-<br>|
+|||V<br>Ü<br>P|S||1.|2.|3.<br>4.||note|
+|**1. Fachsemester: Bas**|**ismodule**|||||||||
+|||||||||Aufgaben bzw Essays je nach||
+|**Basismodul B1**|Lexikographische Grundlagen|E-Learning||10|10|||.<br>Lerneinheit<sup>1 2</sup>|0|
+|**Basismodul B2-1**<br>**(Heimmodul)**|Seminar/Kurs Anglistik||2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit(10-15 Seiten)<sup>2</sup>|1|
+|**Basismodul B2-2**<br>**(Heimmodul)**|Seminar/Kurs Germanistik||2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit(10-15 Seiten)<sup>2</sup>|1|
+|**Basismodul B3-1**<sup>**3**</sup>|Sprachkurs Englisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-2**<sup>**3**</sup>|Sprachkurs Deutsch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-3**<sup>**3**</sup>|Sprachkurs Portugiesisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-4**<sup>**3**</sup>|Sprachkurs Spanisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-5**<sup>**3**</sup>|Sprachkurs Französisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-6**<sup>**3**</sup>|Sprachkurs Ungarisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-7**<sup>**3**</sup>|Sprachkurs Italienisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-8**<sup>**3**</sup>|Sprachkurs Polnisch|vgl. APO/SprZ||5|5|||vgl. APO/SprZ|1|
+|**Basismodul B3-9**<sup>**3**</sup>|Informatik für Nebenfach|vgl. FPO Inf||5|5|||vgl. FPO Inf|1|
+|**2. Fachsemester: Auf**|**baumodule**|||||||||
+|**Aufbaumodul A1**<sup>**3**</sup>|Hauptseminar: Metalexikographie||2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A2**<sup>**3**</sup>|Hauptseminar:<br>Geschichte der Lexikographie||2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A3**<sup>**3**</sup>|Hauptseminar:<br>Datenmodellierung und Daten-<br>präsentation in der digitalen<br>Lexikographie||2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A4**<sup>**3**</sup>|Hauptseminar:<br>Wörterbuchbenutzungsforschung||2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
 
 11 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten|||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Aufbaumodul A53**|Hauptseminar:<br>Fachlexikographie und Termino-<br>graphie||||2|5||5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-|**Aufbaumodul A63**|||||||||||Klausur (60-90 Min.) oder<br>Päi/Rf 30 Mi d|1|
-||||||||||||||
-||Hauptseminar:<br>Comuterlexikorahie||||||||||rsentatoneerat ( n.) un<br>Hausarbeit (10-15 Seiten) oder||
-||||||2|5||5|||||
-||pgp||||||||||<br>Hausarbeit(15-20 Seiten)2||
-|**Aufbaumodul A73**|Hauptseminar:<br>Wörterbücher bei der Übersetzung||||2|5||5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-|**Aufbaumodul A83**|||||||||||Klausur (60-90 Min.) oder<br>Päi/Rf 0 Mi|1|
-||||||||||||||
-||Hauptseminar:<br>Lexikorahie und Lexikoloie||||||||||rsentatoneerat (3 n.) und<br>Hausarbeit (10-15 Seiten) oder||
-||||||2|5||5|||||
-||gp  g||||||||||<br>Hausarbeit(15-20 Seiten)2||
-|**Aufbaumodul A93**|Hauptseminar:<br>Wörterbuchplanung und Wörterbu-<br>cherstellung||||2|5||5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-|**Aufbaumodul A103**|||||||||||Klausur (60-90 Min.) oder<br>Päi/Rf 0 Mi|1|
-||||||||||||||
-||Hauptseminar:<br>Lernerlexikorahie||||||||||rsentatoneerat (3 n.) und<br>Hausarbeit (10-15 Seiten) oder||
-||||||2|5||5|||||
-||gp||||||||||<br>Hausarbeit(15-20 Seiten)2||
-|**3. Fachsemester: Praxis- und Vertiefungsmodule**|||||||||||||
-|**Vertiefungsmodul V1**|Kolloquium mit Vorträgen:<br>Ausgewählte Probleme des<br>Wörterbuchs, der Lexikographie<br>und der Wörterbuchforschung|||||10|||10||Portfolio (Rezension und<br>3 Essays (je 5-10 Seiten))|1|
-|**Vertiefungsmodul**<br>**V2-1**<br>**(Heimmodul)**|Hauptseminar zur Lexikographie<br>(Anglistik)||||||||||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-||||||||||||||
-||||||2|5|||5||||
-||||||||||||||
-|**Vertiefungsmodul**<br>**V2-2**<br>**(Heimmodul)**|Hauptseminar zur Lexikographie<br>(Germanistik)||||||||||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)2|1|
-||||||||||||||
-||||||2|5|||5||||
-||||||||||||||
-|**Vertiefungsmodul V3**<br>**Praxismodul**|Praktikum|||||10|||10||Praktikumsbescheinigung und<br>Praktikumsbericht (5-10 Seiten)|0|
-|**4. Fachsemester: Masterarbeit**|||||||||||||
-|**Masterarbeit**|Masterarbeit|||||30||||30|Masterarbeit (60-80 Seiten)|1|
-||Begleitseminar||||1||||||||
-|Summe||0-3|4-8||21-23|120|25-304|30-354|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>|Workload-Verteilu<br>in ECTS-|ng pro Sem<br>Punkten|ester|Art und Umfang der Prüfung/<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|
+||<br>V|Ü<br>P<br>S|ECTS|1.<br>2.|3.|4.|Studienleistung|note|
+|**Aufbaumodul A5**<sup>**3**</sup>|Hauptseminar:<br>Fachlexikographie und Termino-<br>graphie|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A6**<sup>**3**</sup>|Hauptseminar:<br>Computerlexikographie|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A7**<sup>**3**</sup>|Hauptseminar:<br>Wörterbücher bei der Übersetzung|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A8**<sup>**3**</sup>|Hauptseminar:<br>Lexikographie und Lexikologie|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A9**<sup>**3**</sup>|Hauptseminar:<br>Wörterbuchplanung und Wörterbu-<br>cherstellung|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Aufbaumodul A10**<sup>**3**</sup>|Hauptseminar:<br>Lernerlexikographie|2|5|5|||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder|1|
+||||||||Hausarbeit(15-20 Seiten)<sup>2</sup>||
+|**3. Fachsemester: Praxi**|**s- und Vertiefungsmodule**<br>||||||||
+|**Vertiefungsmodul V1**|Kolloquium mit Vorträgen:<br>Ausgewählte Probleme des<br>Wörterbuchs, der Lexikographie<br>und der Wörterbuchforschung||10||10||Portfolio (Rezension und<br>3 Essays (je 5-10 Seiten))|1|
+|**Vertiefungsmodul**<br>**V2-1**<br>**(Heimmodul)**|Hauptseminar zur Lexikographie<br>(Anglistik)|2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Vertiefungsmodul**<br>**V2-2**<br>**(Heimmodul)**|Hauptseminar zur Lexikographie<br>(Germanistik)|2|5||5||Klausur (60-90 Min.) oder<br>Präsentation/Referat (30 Min.) und<br>Hausarbeit (10-15 Seiten) oder<br>Hausarbeit(15-20 Seiten)<sup>2</sup>|1|
+|**Vertiefungsmodul V3**<br>|Praktikum||10||10||Praktikumsbescheinigung und<br>|0|
+|**Praxismodul**<br>**4. Fachsemester: Mast**|<br>**erarbeit**||||||Praktikumsbericht (5-10 Seiten)||
+||Masterarbeit||||||||
+|**Masterarbeit**|||30|||30|Masterarbeit (60-80 Seiten)|1|
+||Begleitseminar|1|||||||
+|Summe|0-3|4-8<br>21-23|120|25-30<sup>4</sup><br>30-35<sup>4</sup>|30|30|||
 
 > 1 Hierbei handelt es sich um ein von allen Kooperationspartnern gemeinsam angebotenes E-Learning-Modul mit semesterbegleitenden Einzelaufgaben. 
 
@@ -425,13 +399,13 @@ die Qualifikationsfeststellungsentscheidung nicht wesentlich geändert hat“ er
 
 - “ 
 
-## 27. Das Inhaltsverzeichnis wird aktualisiert. 
+# 27. Das Inhaltsverzeichnis wird aktualisiert. 
 
 13 
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in der lfd. Nr. 25, bezogen auf die Änderung der Nr. 2.2. der **Anlage I** , für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in der lfd. Nr. 25, bezogen auf die Änderung der Nr. 2.2. der **Anlage I** , für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 26. Juni 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 23. Juli 2019. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. Dezember 2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_StO_Physikdiplom.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T08:01:03+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:24:43+00:00
+page_count_chars: 13581
 ---
 
 # 19. Dezember 2000
@@ -12,434 +12,153 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_StO_Physikdiplom.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Vierte Satzung zur Anderung der Studienordnung fiir den Studiengang Physikdiplom an der Friedrich-Alexander-Universitat Erlangen-Niirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+{ 
 
-### OCR Seite 1
+#### Vom 19. Dezember 2000 
 
-```
-„Die
-vorliegende
-Studienordnung
-beschreibt
-unter
-Berücksichtigung
-der
-Diplomprüfungsordnung für Studenten der Physik in der jeweils gültigen Fassung
-Ziele, Inhalt und Verlauf des Studiums für den Diplomstudiengang an der Friedrich-
-Alexander-Universität Erlangen-Nürnberg.“
-2.
-S$5Nr. 3 erhält folgende Fassung:
-„Aufgrund der bestandenen Diplomprüfung wird der akademische Grad „Diplom-
-Physiker Univ.“ beziehungsweise „Diplom-Physikerin Univ.“ (jeweils abgekürzt: „Dipl.-
-Phys. Univ.“) verliehen, an Absolventinnen auf Antrag in männlicher Form.“
-3.
-In 8 6 treten an die Stelle der Sätze 2 und 3 folgende Sätze:
-„Die letzten beiden Semester des Hauptstudiums dienen der Vorbereitung und
-Einarbeitung in das Thema der Diplomarbeit und der Bearbeitung dieses Themas.
-Die mündlichen Fachprüfungen erfolgen vor Beginn der Diplomarbeit. *Der zeitliche
-Gesamtumfang der für den erfolgreichen Abschluss des Studiums erforderlichen
-Lehrveranstaltungen
-beträgt
-innerhalb
-von
-acht
-Semestern
-höchstens
-160
-Semesterwochenstunden.“
-4.
-8 7 wird wie folgt geändert:
-a)
-In Buchstabe A Satz 3 werden die Worte „der Chemie“ durch die Worte „in
-einem Nebenfach" ersetzt.
-b)
-In Buchstabe B erhalten die Sätze 3 bis 6 folgende Fassung:
-{
-„Darüber hinaus beschäftigt er sich mit einem der Physik nahestehenden
-Fach seiner Wahl (Nicht-physikalisches
-Wahlpflichtfach). *Der Lehr- und
-Übungsstoff des Nicht-physikalischen Wahlpflichtfaches soll einen Umfang
-von mindestens acht,
-in der Regel höchstens 12 Semesterwochenstunden
-umfassen
-und
-ein
-Praktikum
-oder eine
-Übung
-oder
-ein
-Seminar
-mit
-Scheinerwerb
-beinhalten.
-°Die zugelassenen Wahlfächer
-sind
-in
-&
-10
-aufgeführt. Etwa zwei Jahre nach bestandener Diplomvorprüfung übernimmt
-der Student nach bestandenem mündlichen Teil der Diplomprüfung ein Thema
-für seine Diplomarbeit, beginnt mit der Vorbereitung und Einarbeitung
-in
-dieses Thema und fertigt anschließend in neun Monaten
-in der Regel an
-einem Institut der Physik der Universität Erlangen-Nürnberg als Diplomand
-seine
-Arbeit
-an;
-Ausnahmen
-bedürfen
-der
-Zustimmung
-des
-Prüfungsausschusses.“
-5.
-$ 8 wird wie folgt geändert:
-a)
-Nr. 1 wird wie folgt geändert:
-aa)
-Satz 1 erhält folgende Fassung:
-„Das Studium im Diplomstudiengang Physik setzt sich aus Pflicht- und
-empfohlenen
-Wahllehrveranstaltungen
-in
-experimenteller
-und
-theoretischer
-Physik,
-in
-Mathematik
-und
-in
-einem
-Nebenfach
-zusammen.“
-```
+Aufgrund von Art. 6 in Verbindung mit Art. 72 Abs. 1 des Bayerischen Hochschulgesetzes erlasst die Universitat Erlangen-Nirnberg folgende Anderungssatzung;: 
 
-### OCR Seite 2
+§1 
 
-```
-vierstündige Einführung und ein Praktikum oder eine Übung. °Gegen-
-wärtig ist nur Chemie als Nebenfach zugelassen.“
-6.
-& 9 wird wie folgt geändert:
-;
-a)
-Satz 2 entfällt; die Sätze 3 und 4 werden Sätze 2 und 3; die Sätze 5 ff
-entfallen.
-b)
-Die Sätze 2 und 3 (neu) erhalten folgende Fassung:
-„Die Meldefristen und Prüfungstermine werden durch den Vorsitzenden des
-Prüfungsausschusses
-rechtzeiiig
-durch
-Anschlag
-bekanntgegeben.
-*Einzelheiten des Prüfungsverfahrens werden durch die Diplomprüfungs-
-ordnung (88 20 und 21) geregelt.“
-7.
-8 10 wird wie folgt geändert:
-a)
-Nr. 1 wird wie folgt geändert:
-aa)
-Satz 1 erhält folgende Fassung:
-„Das Studium setzt sich aus Lehrveranstaltungen in Experimental-
-und Theoretischer Physik, einem Physikalischen Wahlpflichtfach und
-einem Nicht-physikalischem Wahlpflichtfach zusammen.“
-bb)
-In Satz 3 wird der Klammerzusatz „(derzeit sieben)“ gestrichen.
-cc)
-Andie Stelle der Sätze 5 und6
-tritt folgender Satz:
-„Die Aufgliederung der Semesterwochenstunden auf die einzelnen
-Fächer und Veranstaltungsarten
-ist im Studienplan
-(Anlage) nach
-;
-Studiensemestern gegliedert dargestellt.“
-b)
-Nr. 3 erhält folgende Fassung:
-„Im Folgenden werden die Lehrveranstaltungen im Einzelnen aufgeführt:
-a)
-Experimentalphysik
-"Die höhere Experimentalphysik befasst sich mit der Struktur der
-Materie. ?In beiden Kursvorlesungen Experimentalphysik V-VI werden
-Festkörper-, Kern- und Teilchenphysik behandelt. °Zu diesen Vorlesun-
-gen werden zur Ergänzung Arbeitsgemeinschaften beziehungsweise
-Übungen angeboten. *lm physikalischen Praktikum für Fortgeschrittene
-untersucht der Student mit modernen physikalischen Messverfahren
-anspruchsvolle Problemstellungen aus verschiedenen Bereichen der
-Physik.
-b)
-Physikalisches Wahlpflichtfach
-'Die vielfältigen Anwendungen der Naturgesetze in der vollen Breite
-der physikalischen Teilgebiete lassen sich nicht in einer Vorlesung
-darstellen. °Hierfür wird eine Reihe von Wahlpflicht-Vorlesungen und
-Übungen
-angeboten.
-°Der Student kann
-sich Vorlesungen
-plus
-Übungen im Gesamtumfang von 10 SWS wählen und sich damit ein
-Prüfungsgebiet
-der
-Physikalischen
-Wahlpflichtfaches
-definieren.
-“Mindestens eine dieser Vorlesungen
-sollte aus dem Gebiet der
-Theoretischen, beziehungsweise experimentellen Physik stammen.
-```
+- Die Studienordnung flr den Studiengang Physikdiplom an der Friedrich-AlexanderUniversitat Erlangen-Nurnberg vom 22. Marz 1983 (KMBI Il S. 754), zuletzt geandert durch Satzung vom 14. September 1993 (KWMBI II S. 872), wird wie folgt geandert: 1. § 1 erhalt folgende Fassung: »Die vorliegende Studienordnung beschreibt unter Beriicksichtigung der Diplomprifungsordnung fur Studenten der Physik in der jeweils gilltigen Fassung Ziele, Inhalt und Verlauf des Studiums fur den Diplomstudiengang an der FriedrichAlexander-Universitat Erlangen-Nurnberg.* 
 
-### OCR Seite 3
+2. § 5 Nr. 3 erhalt folgende Fassung: »Aufgrund der bestandenen Diplompriifung wird der akademische Grad _,,DiplomPhysiker Univ." beziehungsweise ,Diplom-Physikerin Univ.“ (eweils abgekiirzt: ,,Dipl.Phys. Univ.") verliehen, an Absolventinnen auf Antrag in mannlicher Form.“ 
 
-```
-zur Vertiefung des bereits ernannten Grundstoffes
-gefordert. ?Die
-Möglichkeiten
-sind
-für
-die
-gewählten
-Fächer
-sehr
-verschieden.
-®Insgesamt wird ein Mindeststoffumfang von mindestens acht, in der
-Regel höchstens 12 Semesterwochenstunden Vorlesung und Übung
-erwartet (vergleiche hierzu 8 7 Buchst. B). *Mögliche Fächer sind:
--
-Astronomie
--
-Biologie
--
-Biomedizinische Technik
--
-Chemie
--
-Chemie-Ingenieurwesen
--
-Elektrotechnik
--
-Geophysik
--
-Informatik
--
-Kristallographie
--
-Mathematik
--
-Medizinische Physik
--
-Mineralogie
--
-Physikalische Chemie
--
-Werkstoffwissenschaften.
-°Wird das Fach Astrophysik als Nicht-physikalisches Wahlpflichtfach
-gewählt, so kann Astrophysik
-nicht gleichzeitig
-als
-Physikalisches
-Wahlpflichtfach gewählt werden. ®Entsprechendes gilt für die Kombina-
-;
-tion Kristallographie und Strukturphysik im Themenkreis Physik der
-Kondensierten Materie.
-e)
-Auf die folgende Lehrveranstaltung wird besonders hingewiesen:
-aa)
-Seminar
-"Vor Beginn der Diplomarbeit nimmt der Physikstudent aktiv an
-einem Seminar teil und
-hält einen Seminarvortrag über ein
-Thema aus den Bereichen der experimentellen und theore-
-tischen Physik. °Durch diesen Vortrag wird die selbständige
-Erarbeitung eines wissenschaftlichen Themas und die klare
-Darstellung für einen Zuhörerkreis geübt.
-bb)
-Spezialvorlesungen und Exkursionen
-'In den höheren Semestern und während der Diplomarbeit wird
-von den Studenten die Teilnahme an speziellen Vorlesungen,
-aktuellen forschungsorientierten Kolloquien und Institutssemina-
-ren erwartet. ?In diesen Veranstaltungen erwerben Diploman-
-den die für ihre wissenschaftlichen Arbeiten nötigen Detail-
-kenntnisse, gewinnen Einblick in aktuelle moderne Gebiete der
-Physik und durch Vorlesungen aus der Industriepraxis sowie
-durch Exkursionen zu Großforschungseinrichtungen und Indu-
-strielabors einen Eindruck über die spätere Berufspraxis. ”Jeder
-Student soll während seines Studiums an mindestens einer
-dieser Exkursionen teilnehmen.“
-```
+3. In § 6 treten an die Stelle der Satze 2 und 3 folgende Satze: »Die letzten beiden Semester des Hauptstudiums dienen der Vorbereitung und Einarbeitung in das Thema der Diplomarbeit und der Bearbeitung dieses Themas. °Die miindlichen Fachpriifungen erfolgen vor Beginn der Diplomarbeit. “Der zeitliche Gesamtumfang der fiir den erfolgreichen Abschluss des Studiums erforderlichen Lehrveranstaltungen betragt innerhalb von acht Semestern hdchstens 160 Semesterwochenstunden.“ 
 
-### OCR Seite 4
+4. § 7 wird wie folgt geandert: a) In Buchstabe A Satz 3 werden die Worte ,der Chemie“ durch die Worte ,in einem Nebenfach* ersetzt. 
 
-```
-Wahlpflichtfaches definiert ist; der Lehr- und Übungsstoff soll spezifisch
-für das gewählte Fach sein und über die allgemeinen Anforderungen
-des Physik-studiums hinausreichen.
-?Die fachlichen Zulassungsvoraussetzungen regelt $ 27 der Diplomprüfungs-
-/
-ordnung.
-3.
-Die Prüfungen werden gemäß $ 29 der Diplomprüfungsordnung von
-Prüfern
-aus
-der
-Physik
-und
-einem
-Prüfer
-des
-Nicht-physikalischen
-Wahlpflichtfaches abgenommen.“
-9.
-Die Tabellen 1 und 2 werden wie folgt ersetzt:
-„Anlage
-Studienplan
-Grundstudium (1. — 4. Semester)
-Semester
-Vrksungen —[—L_
-|] SWS |Schein!
-1. Sem
-"=
-Exp. PhysikI(Mechanik, Wärme)
-4+2
-A
-=
-AnalysisI
-4+2
-B
-=
-Lineare Algebra I
-4+2
-B
-;
-"»
-Praktikum für Anfänger
-2,5
-(6
-"
-Chemie *
-4
--
-[=
-Chemiepraktikum (Ferien) *
-2. Sem
-"
-Exp. Physik II (Elektromagnetismus, Wellen)
-4+2
-Ä
-"»
-Theoret. Physik (Einführung)
-2+3
-D
-=
-AnalysısIl
-4+2
-B
-"»
-Lineare Algebra II
-2+1
-B
-=
-Physikalisches Praktikum für Anfänger
-2,5
-C
-3. Sem
-"»
-Exp. Physik III (Optik, Quantenphänomene)
-4+2
--
-"
-Theoret. Physik I (Mechanik)
-4+3
-D
-=
-Analysis III
-3+2
-B
-»
-Physikalisches Praktikum für Anfänger
-5
-c
-4. Sem
-"
-Exp. Physik IV (Atom- und Molekülphysik)
-4+2
-"
-Theoret. Physik II (Quantenmechanik I)
-4+3
-|] Vordiplom-Prüfung
-88 | 8 |
-```
+b) In Buchstabe B erhalten die Satze 3 bis 6 folgende Fassung: » Dariber hinaus beschaftigt er sich mit einem der Physik nahestehenden Fach seiner Wahl (Nicht-physikalisches Wahlpflichtfach). “Der Lehr- und Ubungsstoff des Nicht-physikalischen Wahlpflichtfaches soll einen Umfang von mindestens acht, in der Regel héchstens 12 Semesterwochenstunden umfassen und ein Praktikum oder eine Ubung oder ein Seminar mit Scheinerwerb beinhalten. °Die zugelassenen Wahlfacher sind in § 10 aufgefihrt. °Etwa zwei Jahre nach bestandener Diplomvorpriifung Gbernimmt der Student nach bestandenem mindlichen Teil der Diplompriifung ein Thema fur seine Diplomarbeit, beginnt mit der Vorbereitung und Einarbeitung in dieses Thema und fertigt anschlieRend in neun Monaten in der Regel an einem Institut der Physik der Universitat Erlangen-Nirnberg als Diplomand seine Arbeit an; Ausnahmen_ bediirfen der Zustimmung des Prifungsausschusses.* 
 
-### OCR Seite 5
+5. § 8 wird wie folgt geandert: a) Nr. 1 wird wie folgt geandert: aa) Satz 1 erhalt folgende Fassung: ,Das Studium im Diplomstudiengang Physik setzt sich aus Pflicht- und empfohlenen Wahllehrveranstaltungen in experimenteller und theoretischer Physik, in Mathematik und in einem Nebenfach zusammen.” 
 
-```
-=»
-Physikalisches Wahlpflichtfach
-2
--
-"__Nieht-Physikalisches Wahlpflichtfach _______| 2+2 |
-1
-Mündliche Diplomprüfung
-|
-9.+10. Sem |Diplomarbeit
-|
-|
-|
-Bemerkungen:
-*. Chemie
-Gegenwärtig ist nur Chemie als Nebenfach zugelassen
-A: Exp. Physik:
-1 Schein für beide Semester
-B: Mathematik:
-3 Scheine aus den 5 Vorlesungen
-C: Physikal. Praktikum für Anfänger:
-1 Schein für das gesamte Praktikum
-D: Theoretische Physik:
-2 Scheine zum Vordiplom; insgesamt 4 Scheine, davon
-2 aus dem Hauptstudium; 1 Schein Quantenmechanik
-E: Chemiepraktikum:
-1 Schein
-F: Physikal. Praktikum für Fortgeschrittene: 1 Schein für 2 Semester
-G: Physikalisches Wahlpflichtfach:
-1 Schein
-H: Seminar:
-1 Schein
-I:
-Nicht-Physikalisches Wahlpflichtfach:
-1 Schein “
-|
-$2
-Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt auf Grund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom
-15. November 2000 nach Durchführung des in Art. 72 Abs. 3 BayHSchG vorgesehenen
-Anzeigeverfahrens
-(Schreiben
-des
-Bayerischen
-Staatsministeriums
-für
-Wissenschaft,
-Forschung und Kunst vom 12. Dezember 2000 Nr. X/4-5e69d(4b)-10b/53 235).
-Erlangen, den 19. Dezember 2000
-|a,
-Pu “
->
-I, a
-Prof/Dr. G. Jasper
-Rektor
-Die Satzung wurde am
-19. Dezember 2000
-in der
-Universität
-Erlangen-Nürnberg
-niedergelegt; die Niederlegung wurde am 19. Dezember 2000 durch Anschlag in der
-Universität Erlangen-Nürnberg bekanntgegeben. Tag der Bekanntmachung
-ist der 19.
-Dezember 2000.
-```
+; 
+
+      - bb) Andie Stelle der Satze 3 und 4 tritt folgender Satz: »Die Aufgliederung der Semesterwochenstunden auf die einzelnen Facher und Veranstaltungsarten ist im Studienplan (Anlage) nach Studiensemestern gegliedert dargestellt.“ 
+
+   - b) Nr. 3 wird wie folgt geandert: aa) Der Abschnitt ,Experimentalphysik* erhalt folgende Fassung: »In den vier einfahrenden umfassenden Experimentalphysikvorlesungen (I: Mechanik, Warmelehre; Il: Elektromagnetismus, Wellen; Ill: Optik, Quantenphanomene; IV: Atomund Molekdlphysik) mit zugehdérigen Ubungen werden dem Studienanfanger die Grundbegriffe der Physik unter Bezug auf einschlagige Experimente vorgestellt. *Im physikalischen Anfangerpraktikum fihrt der Student unter Anleitung selbstandige Experimente durch.“ 
+
+   - bb) Der mit Chemie ,Uberschriebene* Abschnitt wird durch den Abschnitt »Nebenfach* und folgende Fassung ersetzt: Die Veranstaltungen im Nebenfach umfassen eine einsemestrige, vierstiindige Einflihrung und ein Praktikum oder eine Ubung. *Gegenwartig ist nur Chemie als Nebenfach zugelassen.“ 
+
+6. § 9 wird wie folgt geandert: a) Satz 2 entfallt; die Satze 3 und 4 werden Satze 2 und 3; die Satze 5 ff entfallen. 
+
+b) Die Satze 2 und 3 (neu) erhalten folgende Fassung: »’Die Meldefristen und Priifungstermine werden durch den Vorsitzenden des Prifungsausschusses __rechizeitig durch Anschlag bekanntgegeben. *Einzelheiten des Prifungsverfahrens werden durch die Diplompriifungsordnung (§§ 20 und 21) geregelt.“ 
+
+7. § 10 wird wie folgt geandert: a) Nr. 1 wird wie folgt geandert: aa) Satz 1 erhait folgende Fassung: , Das Studium setzt sich aus Lehrveranstaltungen in Experimentalund Theoretischer Physik, einem Physikalischen Wahlpflichtfach und einem Nicht-physikalischem Wahlpflichtfach zusammen.“ 
+
+      - bb) In Satz 3 wird der Klammerzusaiz ,,(derzeit sieben)“ gestrichen. cc) Andie Stelle der Satze 5 und 6 tritt folgender Satz: »Die Aufgliederung der Semesterwochenstunden auf die einzelnen Facher und Veranstaltungsarten ist im Studienplan (Anlage) nach Studiensemestern gegliedert dargestellt.“ 
+
+   - b) Nr. 3 erhalt folgende Fassung: Im Folgenden werden die Lehrveranstaltungen im Einzeinen aufgefiihrt: a) Experimentalphysik ‘Die héhere Experimentalphysik befasst sich mit der Struktur der Materie. *In beiden Kursvorlesungen Experimentalphysik V-VI werden Festkérper-, Kern- und Teilchenphysik behandelt. °Zu diesen Vorlesungen werden zur Erganzung Arbeitsgemeinschaften beziehungsweise Ubungen angeboten. “Im physikalischen Praktikum fur Fortgeschrittene untersucht der Student mit modernen physikalischen Messverfahren anspruchsvolle Problemstellungen aus verschiedenen Bereichen der Physik. 
+
+b) Physikalisches Wahlpflichtfach ‘Die vielfaltigen Anwendungen der Naturgesetze in der vollen Breite der physikalischen Teilgebiete lassen sich nicht in einer Vorlesung darstellen. *Hierflr wird eine Reihe von Wahlpflicht-Vorlesungen und Ubungen angeboten. “Der Student kann sich Vorlesungen plus Ubungen im Gesamtumfang von 10 SWS wahlen und sich damit ein Priifungsgebiet der Physikalischen Wahlpflichtfaches definieren. “Mindestens eine dieser Vorlesungen sollte aus dem Gebiet der Theoretischen, beziehungsweise experimentellen Physik stammen. 
+
+<!-- Start of picture text -->
+°Mégliche Themenkreise sind:<br><!-- End of picture text -->
+
+- Atom-, Molekil- und Plasmaphysik 
+
+- - Astro-, Kern- und Teilchenphysik - Physik der Kondensierten Materie (insbesondere Halbleiterphysik, Oberflachenphysik, Strukturphysik, Supraleitung) 
+
+- - Optik, Quantenoptik. ‘Weitere Themenkreise kénnen auf Antrag durch den Priifungsausschuss zugelassen werden. 
+
+- c) Theoretische Physik ‘Der Vorlesungszyklus zur Theoretischen Physik wird im Hauptstudium mit den Kursvorlesungen ,Statistische Mechanik und Thermodynamik*, ,Quantenmechanik II* und ,Elektrodynamik" fortgesetzt. *Zu allen Vorlesungen werden Theoretika angeboten. 
+
+- d) Nicht-physikalisches Wahlpflichtfach ‘Im Hauptstudium wird fur das Nicht-physikalische Wahlpflichtfach die aktive Teilnahme an einer Ubung, an einem Praktikum oder Seminar zur Vertiefung des bereits ernannten Grundstoffes gefordert. "Die Méglichkeiten sind fur die gewahlten Facher sehr verschieden. Sinsgesamt wird ein Mindeststoffumfang von mindestens acht, in der Regel héchstens 12 Semesterwochenstunden Vorlesung und Ubung erwartet (vergleiche hierzu § 7 Buchst. B). “Mégliche Facher sind: - Astronomie - Biologie - Biomedizinische Technik - Chemie - Chemie-ingenieurwesen - Elektrotechnik - Geophysik - Informatik - Kristallographie - Mathematik - Medizinische Physik - Mineralogie - Physikalische Chemie - Werkstoffwissenschaften. °Wird das Fach Astrophysik als Nicht-physikalisches Wahlpflichtfach gewahlit, so kann Astrophysik nicht gleichzeitig als Physikalisches Wahlpflichtfach gewahlt werden. °Entsprechendes gilt fur die Kombination Kristallographie und Strukturphysik im Themenkreis Physik der Kondensierten Materie. 
+
+- e) Auf die folgende Lehrveranstaltung wird besonders hingewiesen: aa) Seminar ‘Vor Beginn der Diplomarbeit nimmt der Physikstudent aktiv an einem Seminar teil und halt einen Seminarvortrag Uber ein Thema aus den Bereichen der experimentellen und theoretischen Physik. *Durch diesen Vortrag wird die selbstandige Erarbeitung eines wissenschaftlichen Themas und die klare Darstellung fur einen Zuhérerkreis geubt. 
+
+bb) Spezialvorlesungen und Exkursionen ‘In den héheren Semestern und wahrend der Diplomarbeit wird von den Studenten die Teilnahme an speziellen Vorlesungen, aktuellen forschungsorientierten Kolloquien und Institutsseminaren erwartet. *In diesen Veranstaltungen erwerben Diplomanden die fur ihre wissenschaftlichen Arbeiten nétigen Detailkenntnisse, gewinnen Einblick in aktuelle moderne Gebiete der Physik und durch Vorlesungen aus der Industriepraxis sowie durch Exkursionen zu Groftforschungseinrichtungen und Industrielabors einen Eindruck Uber die spatere Berufspraxis. "Jeder Student soll wahrend seines Studiums an mindestens einer dieser Exkursionen teilnehmen.“ 
+
+/ 
+
+8. § 11 wird wie folgt geandert: 
+
+   - a) In Nr. 1 wird folgender Satz angefiigt: »Die mundlichen Fachpriifungen erfolgen vor Beginn der Diplomarbeit.“ 
+
+   - b) An die Stelle der Nrn. 2 bis 4 treten folgende Bestimmungen: »2. ‘Die einzelnen Facher der miindlichen Priifung und die Priifungsgebiete sind: 
+
+      - a) Experimentalphysik: Stoff der Kursvorlesungen Experimentalphysik IVVl und des Physikalischen Praktikums fir Fortgeschrittene; 
+
+      - b) Physikalisches Wahlpflichtfach: Stoff aus den weiterfiihrenden Veranstaltungen des Hauptstudiums im Sinne von § 10 Nr. 3 (Physikalisches Wahipflichtfach); 
+
+      - Cc) Theoretische Physik: Stoff der Kursvorlesungen Theoretische Physik IIV, der nicht bereits zum Priifungsstoff der Diplom-Vorpriifung gehért; 
+
+      - d) Nicht-physikalisches Wahlpflichtfach: Stoffgebiet, das durch die besuchten Veranstaltungen des _ Nicht-physikalischen Wahipflichtfaches definiert ist; der Lehr- und Ubungsstoff soll spezifisch fir das gewahlite Fach sein und uber die allgemeinen Anforderungen 
+
+      - “Die des Physik-studiums hinausreichen. fachlichen Zulassungsvoraussetzungen regelt § 27 der Diplompriifungs- 
+
+      - ordnung. 3. Die Priifungen werden gema& § 29 der Diplompriifungsordnung von Prifern aus der Physik und einem Prifer des Nicht-physikalischen Wahipflichtfaches abgenommen.“ 
+
+9. Die Tabellen 1 und 2 werden wie folgt ersetzt: 
+
+,Anlage 
+
+# Studienplan 
+
+. 
+
+|||Grundstudium (1.—4. Semester)<br><br>|||
+|---|---|---|---|---|
+|[Semester||Vorlesungen<br>«||SWS|Schein||
+|1. Sem|<br>«<br>«|<br><br>Exp. PhysikI(Mechanik, Warme)<br>Analysis I|<br>4+2<br>4+2|<br>A<br>B|
+||=<br>=<br>*<br>|Lineare Algebra I<br>Praktikum fiirAnfanger<br>Chemie *<br>|4+2<br>2,5<br>4|B<br>Cc<br>-|
+||___|<sup>|=</sup>|Chemiepraktikum (Ferien) *|||
+|2. Sem|"|Exp. Physik II (Elektromagnetismus, Wellen)|4+2|A|
+||«<br>®|Theoret. Physik (Einftihrung)<br>AnalysisI|2+3<br>4+2|D<br>B|
+||*|Lineare Algebra II|2+1|B|
+||=|Physikalisches Praktikum fiirAnfanger|2,5|Cc|
+|3. Sem|«E<br>«<br>*|xp. PhysikHI (Optik, Quantenphinomene)<br>Theoret. Physik I (Mechanik)<br>Analysis III|4+2<br>4+3<br>3+2|-<br>D<br>B|
+||«|Physikalisches Praktikum fiirAnfanger|5|C|
+|4, Sem<br>|__||«E<br>«<br>|xp. PhysikIV(Atom- undMolekiilphysik)<br>Theoret.PhysikII(QuantenmechanikI)<br><br>|4+2<br>4+3<br><br>||
+||Vor|<br>diplom-Priifung<br>||38<br>||8|
+
+| 
+
+| 
+
+Hauptstudium (5. — 8. Semester) [Semester | Vorlesungen ss «|«SWSS [Schein | 5. Sem s Exp. Physik V (Festkérperphysik) 4+2 « Theoret. Physik II (Statistische Mechanik) 4+3 s Physikalisches Wahlpflichtfach 2 ® _Nicht-Physikalisches Wahlpflichtfach 2 6. Sem # Exp. Physik VI (Kern & Teilchenphysik) 4+2 - « Theoret. Physik IV (Quantenmechanik II) 4+3 D * Physikalisches Praktikum fiir Fortgeschrittene 8 F * Physikalisches Wahipflichtfach 2 7.Sem « Theoret. Physik V (Elektrodynamik) 4+3 D " Physikalisches Praktikum fiir Fortgeschrittene 8 F # Physikalisches Wahlpflichtfach 2+2 G ® Nicht-Physikalisches Wahlpflichtfach 2 - 8. Sem = Seminar 2+3 H # Physikalisches WahIpflichtfach 2 - *_Nicht-Physikalisches Wahipflichtfach | 242 | I Mindliche Diplompriifung 9.+10.Sem |DiplomarbeitCECE 
+
+Bemerkungen: 
+
+### *: Chemie 
+
+A: Exp. Physik: 
+
+Gegenwértig ist nur Chemie als Nebenfach zugelassen 
+
+1 Schein ftir beide Semester 
+
+B: Mathematik: 3 Scheine aus den 5 Vorlesungen C: Physikal. Praktikum fiir Anfinger: 1 Schein fiir das gesamte Praktikum 
+
+D: Theoretische Physik: 
+
+E: Chemiepraktikum: 
+
+2 Scheine zum Vordiplom; insgesamt 4 Scheine, davon 
+
+   - 2 aus dem Hauptstudium; 1 Schein Quantenmechanik 1 Schein 
+
+- F: Physikal. Praktikum fiir Fortgeschrittene: 1 Schein fiir 2 Semester 
+
+G: Physikalisches WahIpflichtfach: 
+
+H: Seminar: 
+
+- I: Nicht-Physikalisches Wahipflichtfach: 
+
+- 1 Schein 
+
+- 1 Schein 
+
+- 1 Schein “ 
+
+§ 2 
+
+## Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt auf Grund des Beschlusses des Senats der Universitat Erlangen-Niirnberg vom 15. November 2000 nach Durchfithrung des in Art. 72 Abs. 3 BayHSchG vorgesehenen Anzeigeverfahrens (Schreiben des Bayerischen Staatsministeriums fur Wissenschaft, Forschung und Kunst vom 12. Dezember 2000 Nr. X/4-5e69d(4b)-10b/53 235), Erlangen, den 19. Dezember 2000 . wy * le, ae |— ProfDr. G. Jasperl)© Rektor 
+
+Die Satzung wurde am 19. Dezember 2000 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 19. Dezember 2000 durch Anschlag in der Universitat Erlangen-Nurnberg bekanntgegeben. Tag der Bekanntmachung ist der 19. Dezember 2000. 
 

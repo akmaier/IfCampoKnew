@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. März 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-Diplom-Mechatronik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:28+00:00
-page_count_chars: 3253
+scraped_at: 2026-07-01T11:33:29+00:00
+page_count_chars: 3010
 ---
 
 # 4. März 2004
@@ -14,11 +14,11 @@ page_count_chars: 3253
 
 **Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg** 
 
-## Vom 4. März 2004 
+# Vom 4. März 2004 
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg vom 17. September 2001 (KWMBl II 2002 S. 978), geändert durch die Satzung vom 29. September 2003 (KWMBl II 2004 S. ......), wird wie folgt geändert: 
 
@@ -42,14 +42,14 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatron
 
 " 
 
-|Prüfungsfächer der<br>**_Diplomvorprüfung_**|Verteilung der SWS über die<br>Semester des Grundstudiums|Verteilung der SWS über die<br>Semester des Grundstudiums|Verteilung der SWS über die<br>Semester des Grundstudiums|Verteilung der SWS über die<br>Semester des Grundstudiums|Prüfungs-<br>dauer in<br>**_Minuten_**|Zahl der<br>**_Leistungs- Malus-_**<br>punkte       punkte|Zahl der<br>**_Leistungs- Malus-_**<br>punkte       punkte|
-|---|---|---|---|---|---|---|---|
-||1.|2.|3.|4.||||
-|7.   Mechatronische Systeme<br>Praktikum||2+0||6 P|60<br>-|2|2|
-|8.   Messtechnik<br>Praktikum|||1+0<br>1 P||60<br>-|1|1|
-||||||||"|
+|Prüfungsfächer der<br>**_Diplomvorprüfung_**|Verteilung der S<br>Semester des G|WS über die<br>rundstudiums|Prüfungs-<br>dauer in<br>**_Minuten_**|Zahl der<br>**_Leistung_**<br>punkte|**_s- Malus-_**<br>punkte|
+|---|---|---|---|---|---|
+||1.<br>2.|3.<br>4.||||
+|7.   Mechatronische Systeme<br>Praktikum|2+0|6 P|60<br>-|2|2|
+|8.   Messtechnik<br>Praktikum||1+0<br>1 P|60<br>-|1|1|
+||||||"|
 
-## b) Die Zeile "Summe" erhält folgende Fassung: 
+# b) Die Zeile "Summe" erhält folgende Fassung: 
 
 " 
 
@@ -67,14 +67,13 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatron
 
 " 
 
-|<br>"|||||||
+|**_Diplomhauptprüfung_**|**_Vertei_**|**_lung d_**<br>**_Seme_**|**_er SWS_**<br>**_ster_**|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten_**|**_Zah_**|**_l der_**|
 |---|---|---|---|---|---|---|
-|**_Diplomhauptprüfung_**|**_Verteilung der SWS_**<br>**_Semester_**||||**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten_**|**_Zahl der_**<br>**_Leistungs-_**<br>**_punkte_**<br>**_Malus-_**<br>**_punkte_**|
-||5.|6.|7.|8.|||
-|3. Fertigungsautomatisierung|2+0<br>2+0<br>120<br>4<br>4||||||
-||"||||||
+||5.|6.|7.<br>8.||**_Leistungs-_**<br>**_punkte_**|**_Malus-_**<br>**_punkte_**|
+|3. Fertigungsautomatisierung|2+0|2+0||120|4|4|
+|||||||"|
 
-## **§ 2** 
+# **§ 2** 
 
 - (1) Diese Änderungssatzung tritt am Tage nach der Bekanntmachung in Kraft. 
 
@@ -84,7 +83,7 @@ Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürn
 
 Erlangen, den 4. März 2004 
 
-## Prof. Dr. Karl-Dieter Grüske Rektor 
+# Prof. Dr. Karl-Dieter Grüske Rektor 
 
 Die Satzung wurde am 4. März 2004 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 4. März 2004 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 4. März 2004. 
 

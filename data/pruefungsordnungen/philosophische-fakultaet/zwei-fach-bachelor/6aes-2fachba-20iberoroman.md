@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Iberoroman.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:30+00:00
-page_count_chars: 4022
+scraped_at: 2026-07-01T10:20:35+00:00
+page_count_chars: 3911
 ---
 
 # 9. März 2011
@@ -12,25 +12,26 @@ page_count_chars: 4022
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Iberoroman.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
-## § 4 wird wie folgt geändert: 
+# § 4 wird wie folgt geändert: 
 
 a) In Abs. 2 wird folgender Satz 3 angefügt: 
 
-„[3] Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+„<sup>3</sup> Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|**SS**|<br>**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br>**13**|<br> <br>**13**|
 |**Basismodul Spanische Sprachpraxis 1**||||||||||
 |Español intermedio I|GOP|6|8|||||||
 |Comprensióny comunicaciónoral I|GOP|2|2|||||||
@@ -51,29 +52,29 @@ a) In Abs. 2 wird folgender Satz 3 angefügt:
 |Übung zur spanischen/lateinamerikan. Literatur-<br>u. Kulturwissenschaft||2|2|||||||
 |**Aufbaumodul Spanische Sprachpraxis 3**||||||||||
 
-|Comprensióny comunicaciónoral II||2|2|||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Gramáticayestilística I||2|2|||||||
-|Espaňolavanzado||2|3|||||||
-|Introducción a la cultura española||2|3|||||||
-|**Vertiefungsmodul Spanische**<br>**Sprachwissenschaft 2**||||||||||
-|Mittelseminar spanische Sprachwissenschaft||2|6|||||||
-|Vorlesungspanische Sprachwissenschaft||2|4|||||||
-|**Vertiefungsmodul Spanische/lateinamerika-**<br>**nische Literatur-u. Kulturwissenschaft 2**||||||||||
-|Mittelseminar spanische/lateinamerikanische<br>Literatur-undKulturwissenschaft||2|6|||||||
-|Vorlesung spanische/lateinamerikanische Literatur-<br>undKulturwissenschaft||2|4|||||||
-|**Vertiefungsmodul Spanische Sprachpraxis 4**||||||||||
-|Introducciónala culturalatinoamericana||2|5|||||||
-|Traducción alemán-español||2|3|||||||
-|Comprensiónycomunicación escrita||2|2|||||||
-|**Bachelorarbeit**||||||||||
-|Bachelorarbeit|||10|||||||
+|Comprensióny comunicaciónoral II|2|2|
+|---|---|---|
+|Gramáticayestilística I|2|2|
+|Espaňolavanzado|2|3|
+|Introducción a la cultura española|2|3|
+|**Vertiefungsmodul Spanische**<br>**Sprachwissenschaft 2**|||
+|Mittelseminar spanische Sprachwissenschaft|2|6|
+|Vorlesungspanische Sprachwissenschaft|2|4|
+|**Vertiefungsmodul Spanische/lateinamerika-**<br>**nische Literatur-u. Kulturwissenschaft 2**|||
+|Mittelseminar spanische/lateinamerikanische<br>Literatur-undKulturwissenschaft|2|6|
+|Vorlesung spanische/lateinamerikanische Literatur-<br>undKulturwissenschaft|2|4|
+|**Vertiefungsmodul Spanische Sprachpraxis 4**|||
+|Introducciónala culturalatinoamericana|2|5|
+|Traducción alemán-español|2|3|
+|Comprensiónycomunicación escrita|2|2|
+|**Bachelorarbeit**|||
+|Bachelorarbeit||10|
 
 Für die GOP müssen das Basismodul Einführung in die Iberoromanistik und das Basismodul Spanische Sprachpraxis 1 erfolgreich abgelegt werden. “ 
 
 b) In Abs. 3 Satz 2 wird „Satz 2“ durch „Sätze 2 und 3“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

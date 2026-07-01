@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. August 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:59+00:00
-page_count_chars: 3744
+scraped_at: 2026-07-01T10:34:31+00:00
+page_count_chars: 3780
 ---
 
 # 25. August 2016
@@ -12,7 +12,7 @@ page_count_chars: 3744
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_Jurist-UniPruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Achte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
+# **Achte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
 
 ## **Vom 25. August 2016** 
 
@@ -28,7 +28,7 @@ Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Un
 
    - a) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „Prüfung“ die Worte „wird von einer bzw. einem Prüfenden abgenommen.[2] Sie“ eingefügt. 
+      - aa) In Satz 1 werden nach dem Wort „Prüfung“ die Worte „wird von einer bzw. einem Prüfenden abgenommen.<sup>2</sup> Sie“ eingefügt. 
 
 bb) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -40,7 +40,7 @@ bb) Der bisherige Satz 2 wird zu Satz 3.
 
    - b) Abs. 2 (neu) wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden vor dem Wort „Wer“ die hochgestellte Zahl „[1] “ und nach den Worten „abweichend von Abs. 1“ die Worte „innerhalb eines Jahres“ gestrichen. 
+      - aa) In Satz 1 werden vor dem Wort „Wer“ die hochgestellte Zahl „<sup>1</sup> “ und nach den Worten „abweichend von Abs. 1“ die Worte „innerhalb eines Jahres“ gestrichen. 
 
 bb) Satz 2 wird gestrichen. 
 
@@ -54,9 +54,9 @@ aa) In Satz 1 werden nach den Worten „0 Punkten bewertet“ ein Komma und die 
 
 bb) Die Sätze 2 und 3 erhalten folgende neue Fassung: 
 
-„[2] Derartige Gründe sind beim Prüfungsausschuss unverzüglich schriftlich geltend und glaubhaft zu machen; im Fall einer Krankheit ist der Nachweis durch ein Zeugnis eines Vertrauensarztes zu erbringen.[3] § 10 JAPO gilt entsprechend.“ 
+„<sup>2</sup> Derartige Gründe sind beim Prüfungsausschuss unverzüglich schriftlich geltend und glaubhaft zu machen; im Fall einer Krankheit ist der Nachweis durch ein Zeugnis eines Vertrauensarztes zu erbringen.<sup>3</sup> § 10 JAPO gilt entsprechend.“ 
 
-- b) Abs. 3 erhält folgende neue Fassung: 
+## b) Abs. 3 erhält folgende neue Fassung: 
 
 „(3) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
 

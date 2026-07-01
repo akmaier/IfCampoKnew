@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:47:19+00:00
+scraped_at: 2026-07-01T08:24:08+00:00
 ---
 
 # Kulturgeschichte des Christentums (B.A.)
@@ -37,7 +37,7 @@ Wir stellen uns z. B. Fragen zu den Sinndimensionen religiöser Praktiken etwa i
 
 Kurz: Der Studiengang vermittelt einen Überblick über die wichtigsten kulturellen Leistungen des Christentums in historischer Perspektive. Das inhaltliche Angebot, das sich aus sechs theologischen Teilfächern zusammensetzt, macht deutlich, welche bedeutende Rolle die Theologie einnimmt: Ältere Kirchengeschichte, Neuere Kirchengeschichte, Christliche Archäologie und Kunstgeschichte, Geschichte und Theologie des Christlichen Ostens, Altes Testament und Neues Testament.
 
-### Bachelor of Arts (2 Fächer) Kulturgeschichte des Christentums
+### Fachanteile des Studiengangs Kulturgeschichte des Christentums (B.A.)
 
 * Historische Fächer (Ältere und Neuere Kirchengeschichte) (25%)
 * Biblische Fächer (Altes und Neues Testament) (25%)
@@ -113,7 +113,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 #### Mögliche Überschneidungen im Stundenplan
 
 * [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
@@ -121,7 +121,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 * [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -208,13 +208,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 - [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
 - [Orientalistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/orientalistik-ba/)
 - [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 - [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

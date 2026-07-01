@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa_FPOMiGG.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:56+00:00
-page_count_chars: 8021
+scraped_at: 2026-07-01T11:02:09+00:00
+page_count_chars: 7802
 ---
 
 # 18. August 2017
@@ -12,9 +12,9 @@ page_count_chars: 8021
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa_FPOMiGG.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – MiGG –** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – MiGG –** 
 
-## **Vom 18. August 2017** 
+# **Vom 18. August 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -44,77 +44,76 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmana
 
 1 
 
-   - aa) In Ziffer 1 werden nach dem Wort „Leistungen“ die Worte „anhand des Notendurchschnitts“ eingefügt. 
+- aa) In Ziffer 1 werden nach dem Wort „Leistungen“ die Worte „anhand des Notendurchschnitts“ eingefügt. 
 
-   - bb) In Ziffer 2 werden das Wort „Berufspraktische“ durch die Worte „Umfang der berufspraktischen“ ersetzt und nach dem Wort „Gesundheitswesen“ das Wort und die Zahl „nach Abs. 2“ eingefügt. 
+- bb) In Ziffer 2 werden das Wort „Berufspraktische“ durch die Worte „Umfang der berufspraktischen“ ersetzt und nach dem Wort „Gesundheitswesen“ das Wort und die Zahl „nach Abs. 2“ eingefügt. 
 
-   - cc) In Ziffer 3 werden nach dem Wort „Studium“ das Zeichen „;“ und die Worte „Bewertung anhand der Unterlagen nach Abs. 2 Nr. 3“ eingefügt. 
+- cc) In Ziffer 3 werden nach dem Wort „Studium“ das Zeichen „;“ und die Worte „Bewertung anhand der Unterlagen nach Abs. 2 Nr. 3“ eingefügt. 
 
-4. § 3 wird wie folgt geändert: 
+# 4. § 3 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
-- aa) In Satz 2 werden nach dem Wort „Ökonomie“ das Komma durch das Wort „oder“ ersetzt und nach dem Wort „Politik“ die Worte „oder Soziologie“ gestrichen. 
+   - aa) In Satz 2 werden nach dem Wort „Ökonomie“ das Komma durch das Wort „oder“ ersetzt und nach dem Wort „Politik“ die Worte „oder Soziologie“ gestrichen. 
 
-- bb) In Satz 3 werden das Wort „Masterarbeit“ durch das Wort „Masterphase“ und das Wort „Prüfungsleistungen“ durch das Wort „Module“ ersetzt. 
+   - bb) In Satz 3 werden das Wort „Masterarbeit“ durch das Wort „Masterphase“ und das Wort „Prüfungsleistungen“ durch das Wort „Module“ ersetzt. 
 
-- cc) In Abs. 2 werden die Worte „den §§ 10 und“ durch die Worte „der Anlage und §§“ ersetzt und nach der Zahl „18“ der kleine Buchstabe „b“ eingefügt. 
+   - cc) In Abs. 2 werden die Worte „den §§ 10 und“ durch die Worte „der Anlage und §§“ ersetzt und nach der Zahl „18“ der kleine Buchstabe „b“ eingefügt. 
 
 dd) Abs. 3 wird gestrichen. 
 
-## 5. § 4 wird wie folgt geändert: 
+# 5. § 4 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in der lfd. Nr. 3 für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in der lfd. Nr. 3 für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 2 
 
-## 6. Die Anlage wird wie folgt geändert: 
+# 6. Die Anlage wird wie folgt geändert: 
 
-## a) Nach dem Wort „ **Anlage** “ werden das Zeichen „ **:** “ und das Wort „ **Studienverlaufsplan** “ angefügt. 
+# a) Nach dem Wort „ **Anlage** “ werden das Zeichen „ **:** “ und das Wort „ **Studienverlaufsplan** “ angefügt. 
 
-## b) Die Tabelle erhält folgende neue Fassung: 
+# b) Die Tabelle erhält folgende neue Fassung: 
 
 „ 
 
-||Lhrrntltn|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro|Workload-Verteilung pro|Semester in ECTS-Punkten1|Semester in ECTS-Punkten1|Art nd Umfn dr Prüfn/Stdinlitn|Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||eveasaug|V|Ü|P|S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|u ag e ugueesug|Abschlussnote|
-|**Pflichtbereich**||2|2||18|**35**|||||||
-|**Kostenträger I**|Kostenträger I||||3|5|5||||Klausur (60 Minuten)|1|
-|**Ambulantes Ma-**<br>**nagement I**|Ambulantes Ma-<br>nagement I||||3|5|5||||Klausur (60 Minuten)|1|
-|**Krankenhausma-**<br>**nagement I**|Krankenhausma-<br>nagement I||||3|5|5||||Klausur (60 Minuten)|1|
-|**Pharmamanage-**<br>**ment I**|Pharmamanage-<br>ment I||||3|5|5||||Klausur (60 Minuten)|1|
-|**Gesundheitsöko-**<br>**nomie I**|Gesundheitsöko-<br>nomie I|2|1|||5|5||||Klausur (90 Minuten)|1|
-|**Medizin**|Medizin||||3|5|5||||Klausur (60 Minuten)|1|
-|**Gesundheitsöko-**<br>**nomische Evaluati-**<br>**onen I**|Gesundheitsöko-<br>nomische Evaluati-<br>onen||||3|5||5|||Klausur (60 Minuten)|1|
-|**Wahlbereich**<br>**(10 zu wählende Module à 5 ECTS)2**||2|1||24|**50**|||||||
-|**Kostenträger II**|Kostenträger II||||3|5||5|||Klausur (60 Minuten)|1|
-|**Freies Wahlmodul**<br>**Gesundheit I3**|diverse Lehrveran-<br>staltungen zur<br>Wahl|||||5||5|||3|1|
-|**Optimierungs- und**<br>**Simulationsverfah-**<br>**ren**|Optimierungs- und<br>Simulationsverfah-<br>ren||||3|5||5|||Klausur (60 Minuten)|1|
-|**Pharmamanage-**<br>**ment II**|Pharmamanage-<br>ment II||||3|5||5|||Klausur (60 Minuten)|1|
+||||SWS|Gesamt|Workload-Verteilung pro Sem|ester in ECTS-Punkte|n<sup>1</sup>||Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+||Lehrveranstaltung||<br>|||||Art und Umfang der Prüfung/Studienleistung||
+|||V|Ü<br>P<br>S|ECTS|1.<br>Sem.<br>2.<br>Sem.|3.<br>Sem.|4.<br>Sem.||Abschlussnote|
+|**Pflichtbereich**||2|2<br>18|**35**||||||
+|**Kostenträger I**|Kostenträger I||3|5|5|||Klausur (60 Minuten)|1|
+|**Ambulantes Ma-**<br>**nagement I**|Ambulantes Ma-<br>nagement I||3|5|5|||Klausur (60 Minuten)|1|
+|**Krankenhausma-**<br>**nagement I**|Krankenhausma-<br>nagement I||3|5|5|||Klausur (60 Minuten)|1|
+|**Pharmamanage-**<br>**ment I**|Pharmamanage-<br>ment I||3|5|5|||Klausur (60 Minuten)|1|
+|**Gesundheitsöko-**<br>**nomie I**|Gesundheitsöko-<br>nomie I|2|1|5|5|||Klausur (90 Minuten)|1|
+|**Medizin**|Medizin||3|5|5|||Klausur (60 Minuten)|1|
+|**Gesundheitsöko-**<br>**nomische Evaluati-**<br>**onen I**|Gesundheitsöko-<br>nomische Evaluati-<br>onen||3|5|5|||Klausur (60 Minuten)|1|
+|**Wahlbereich**<br>**(10 zu wählende Mod**|**ule à 5 ECTS)**<sup>**2**</sup>|2|1<br>24|**50**||||||
+|**Kostenträger II**|Kostenträger II||3|5|5|||Klausur (60 Minuten)|1|
+|**Freies Wahlmodul**<br>**Gesundheit I**<sup>**3**</sup>|diverse Lehrveran-<br>staltungen zur<br>Wahl|||5|5|||3|1|
+|**Optimierungs- und**<br>**Simulationsverfah-**<br>**ren**|Optimierungs- und<br>Simulationsverfah-<br>ren||3|5|5|||Klausur (60 Minuten)|1|
+|**Pharmamanage-**<br>**ment II**|Pharmamanage-<br>ment II||3|5|5|||Klausur (60 Minuten)|1|
 
 3 
 
-||Lhrrntltn|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art nd Umfn dr Prüfn/Stdinlitn|Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||eveasaug|V|Ü|P|S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|u ag e ugueesug|Abschlussnote|
-|**Gesundheitsöko-**<br>**nomik II**|Gesundheitsöko-<br>nomik II|2|1|||5||5|||Klausur (90 Minuten)|1|
-|**Angewandte empi-**<br>**rische Gesund-**<br>**heitsökonomie**|Angewandte<br>empirische Ge-<br>sundheitsökono-<br>mie||||3|5|||5||Seminararbeit, Präsentation|1|
-|**Planspiel: Kranken-**<br>**hausmanagement**|Planspiel: Kranken-<br>hausmanagement||||3|5|||5||Klausur (60 Minuten)|1|
-|**Krankenhausma-**<br>**nagement II**|Krankenhausma-<br>nagement II||||3|5|||5||Klausur (60 Minuten)|1|
-|**Praxisseminar**|aktuelle Themen<br>des Gesundheits-<br>managements||||3|5|||5||Klausur (60 Minuten)|1|
-|**Gesundheitsöko-**<br>**nomische Evaluati-**<br>**onen II**|Gesundheitsöko-<br>nomische Evaluati-<br>onen II||||3|5|||5||Klausur (60 Minuten)|1|
-|**Masterphase**||3||||**35**|||||||
-||||||||||||||
-||||||||||||||
-|**Masterseminar**<br>**zum Gesundheits-**<br>**management und**<br>**der Gesund-**<br>**heitsökonomie**|Masterseminar||||3|5|||5||Präsentation|1|
-|**Masterarbeit**|Masterarbeit|||||30||||30|Masterarbeit|1|
-|||**4**|**2**|**45**|||**30**|**30**|**30**|**30**|||
-|**Summe SWS und ECTS**||**min. 51**||||**120**|||||||
+||Lehrveranstaltung|SWS|Gesamt|Workl|oad-Verteilung pro Se|mester in ECTS-Punkt|en<sup>1</sup>|Art und Umfang der Prüfung/Studienleistung|Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.||Abschlussnote|
+|**Gesundheitsöko-**<br>**nomik II**|Gesundheitsöko-<br>nomik II|2<br>1|5||5|||Klausur (90 Minuten)|1|
+|**Angewandte empi-**<br>**rische Gesund-**<br>**heitsökonomie**|Angewandte<br>empirische Ge-<br>sundheitsökono-<br>mie|3|5|||5||Seminararbeit, Präsentation|1|
+|**Planspiel: Kranken-**<br>**hausmanagement**|Planspiel: Kranken-<br>hausmanagement|3|5|||5||Klausur (60 Minuten)|1|
+|**Krankenhausma-**<br>**nagement II**|Krankenhausma-<br>nagement II|3|5|||5||Klausur (60 Minuten)|1|
+|**Praxisseminar**|aktuelle Themen<br>des Gesundheits-<br>managements|3|5|||5||Klausur (60 Minuten)|1|
+|**Gesundheitsöko-**<br>**nomische Evaluati-**<br>**onen II**|Gesundheitsöko-<br>nomische Evaluati-<br>onen II|3|5|||5||Klausur (60 Minuten)|1|
+|**Masterphase**||3|**35**|||||||
+|**Masterseminar**<br>**zum Gesundheits-**||||||||||
+|**management und**<br>**der Gesund-**<br>**heitsökonomie**|Masterseminar|3|5|||5||Präsentation|1|
+|**Masterarbeit**|Masterarbeit||30||||30|Masterarbeit|1|
+||**Summe SWS und ECTS**|**4**<br>**2**<br>**45**<br>**min. 51**|**120**|**30**|**30**|**30**|**30**|||
 
 > ~~1~~ Die angegebene Semesterzahl ist eine Empfehlung. 
 
@@ -126,7 +125,7 @@ dd) Abs. 3 wird gestrichen.
 
 4 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2017 aufnehmen werden. 3Abweichend von Satz 2 gelten die Änderungen in der lfd. Nr. 3 für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 

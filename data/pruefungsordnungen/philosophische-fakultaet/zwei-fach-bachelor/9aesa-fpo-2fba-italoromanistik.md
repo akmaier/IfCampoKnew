@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Juli 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AeSa_FPO_2FBA_Italoromanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:02:21+00:00
-page_count_chars: 6685
+scraped_at: 2026-07-01T10:22:03+00:00
+page_count_chars: 6503
 ---
 
 # 28. Juli 2017
@@ -12,13 +12,13 @@ page_count_chars: 6685
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AeSa_FPO_2FBA_Italoromanistik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## **Vom 28. Juli 2017** 
+# **Vom 28. Juli 2017** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 10. Juni 2014, wird wie folgt geändert: 
 
@@ -32,7 +32,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach
 
    - c) In Abs. 3 Nr. 1 werden die Worte „und Einführung in die Italoromanistik“ durch ein Komma und die Worte „Italienische Sprachwissenschaft und Italienische Literaturwissenschaft“ ersetzt. 
 
-   - d) Nach Abs. 6 wird folgender neuer Abs. 7 angefügt: „(7) Abweichend von § 3 Abs. 4 **ABMStPO/Phil** werden im Fach Italoromanistik einzelne Lehrveranstaltungen und Prüfungen auch in Italienisch abgehalten; Näheres regelt das Modulhandbuch.“ 
+   - d) Nach Abs. 6 wird folgender neuer Abs. 7 angefügt: 
+
+      - „(7) Abweichend von § 3 Abs. 4 **ABMStPO/Phil** werden im Fach Italoromanistik einzelne Lehrveranstaltungen und Prüfungen auch in Italienisch abgehalten; Näheres regelt das Modulhandbuch.“ 
 
 3.  § 5 wird wie folgt geändert: 
 
@@ -46,50 +48,45 @@ Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach
 
 1 
 
-## 6.  Anlage 1 erhält folgende neue Fassung: 
+# 6.  Anlage 1 erhält folgende neue Fassung: 
 
-## „ **Anlage 1:** 
+# <u>„</u> **Anlage 1:** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||Semester|||||||
-|||||||||in ECTS-Punkten*|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5|6.|||
-|**Basismodul Italienische Sprachpraxis 1**|Corso di italiano intermedio I||6|||10|8||||||Klausur 120‘|1|
-||Comprensione e produzione orale I||2||||2||||||||
-|**Basismodul Italienische Sprachpraxis 2**|Corso di italiano intermedio II||6|||10||8|||||Klausur 120‘|1|
-||Fonetica pratica||1|||||1|||||||
-||Tecniche di lettura||1|||||1|||||||
-|**Basismodul Italienische Sprachwissenschaft**|Basisseminar Italienische<br>Sprachwissenschaft||||2|5|5||||||Klausur 90‘|1|
-|**Basismodul Italienische Literaturwissenschaft**|Basisseminar Italienische<br>Literaturwissenschaft||||2|5||5|||||Klausur 90‘|1|
-|**Aufbaumodul Italienische Sprachwissenschaft 1**|Phonetik und Phonologie des Italienischen||1|||5||2|||||Klausur 45‘ (30 %) und<br>Referat ca. 20‘ und Hausarbeit 10 S. (70 %)|1|
-||Proseminar||||2||||3||||||
-|**Aufbaumodul Italienische Sprachwissenschaft 2**|Vorlesung|2||||5|||2||||Klausur 90‘ (40 %) und<br>1-2 Hausaufgaben, insgesamt ca. 5 S. (60 %)|1|
-||Aufbauseminar||||2|||||3|||||
-|**Aufbaumodul Italienische Literatur- und**<br>**Kulturwissenschaft**|Proseminar||||2|10||||4|||Hausarbeit 10 S. (50 %) und<br>Klausur 90‘ oder mündl. Prüfung ca. 15‘ (30 %)2)<br>und<br>Referat, ca. 20‘ oder Protokoll, ca. 2 S.(20 %)2)|1|
-||Vorlesung|2|||||||4||||||
-||Aufbauseminar||||2||||2||||||
-|**Aufbaumodul Italienische Sprachpraxis 3**|Grammatica e stilistica||2|||10|||2||||Schriftliche Produktion 90‘ (30 %) und<br>Referat 15‘ (30 %) und<br>Grammatiktest 60‘ (20 %) und<br>mündl. Prüfung 20‘ (20 %)|1|
-||Comprensione e produzione orale II||2||||||2||||||
-||Comprensione e produzione scritta||2|||||||3|||||
-||Corso introduttivo di cultura e civiltà I||2|||||||3|||||
-|**Vertiefungsmodul Italienische**<br>**Sprachwissenschaft1)**|Mittelseminar||||2|10|||||6||Referat, ca. 20‘ und Hausarbeit 15 S. (50 %) und<br>Klausur 60-90‘ oder mündl. Prüfung 15-20´ (50 %)2)|1|
-||Vorlesung oder Seminar|2||||||||||4|||
-|**Vertiefungsmodul Italienische Literatur- und**<br>**Kulturwissenschaft1)**|Mittelseminar||||2|10|||||6||Referat, ca. 20‘ und Hausarbeit 15 S. (60 %) und<br>Klausur 90‘ oder mündl. Prüfung 15‘-20‘ (40 %)2)|1|
-||Vorlesung oder Seminar|2||||||||||4|||
-|**Vertiefungsmodul Italienische Sprachpraxis 4**|Cultura e civiltà II||2|||5|||||3||Klausur 90‘ (60 %) und<br>Übersetzung 90‘(40 %)|1|
-||Traduzione tedesco-italiano||2||||||||2||||
+|Modulbezeichnung|Lehrveranstaltung|SW<br>V<br>Ü|S<br>Gesamt<br>ECTS<br>P<br>S|<br>Workload-V<br>Sem<br>in ECTS-<br>1.<br>2.<br>3.|erteilun<br>ester<br>Punkte<br>4.|g pro<br>n*<br>Art und Umfang der Prüfung<br>5<br>6.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Basismodul Italienische Sprachpraxis 1**|Corso di italiano intermedio I|6|10|8||Klausur 120‘|1|
+||Comprensione e produzione orale I|2||2||||
+||Corso di italiano intermedio II|6||8||||
+|**Basismodul Italienische Sprachpraxis 2**|Fonetica pratica|1|10|1||Klausur 120‘|1|
+||Tecniche di lettura|1||1||||
+|**Basismodul Italienische Sprachwissenschaft**|Basisseminar Italienische<br>Sprachwissenschaft||2<br>5|5||Klausur 90‘|1|
+|**Basismodul Italienische Literaturwissenschaft**|Basisseminar Italienische<br>Literaturwissenschaft||2<br>5|5||Klausur 90‘|1|
+|**Aufbaumodul Italienische Sprachwissenschaft 1**|Phonetik und Phonologie des Italienischen|1|5|2||Klausur 45‘ (30 %) und|1|
+||Proseminar||<br>2|3||Referat ca. 20‘ und Hausarbeit 10 S. (70 %)||
+|**Aufbaumodul Italienische Srachwissenschaft 2**|Vorlesung|2|5|2||Klausur 90‘ (40 %) und|1|
+|**p**|Aufbauseminar||<br>2||3|1-2 Hausaufgaben, insgesamt ca. 5 S. (60 %)||
+||Proseminar||2||4|Hausarbeit 10 S. (50 %) und<br><sup>2)</sup>||
+|**Aufbaumodul Italienische Literatur- und**<br>**Kulturwissenschaft**|Vorlesung|2|10|4||Klausur 90‘ oder mündl. Prüfung ca. 15‘ (30 %)<br>und|1|
+||Aufbauseminar||2|2||Referat, ca. 20‘ oder Protokoll, ca. 2 S.(20 %)<sup>2)</sup>||
+||Grammatica e stilistica|2||2||Shiftlih Pdkti 90‘ (30 %) d||
+||Comprensione e produzione orale II|2||2||crce rouon    un<br>Referat 15‘ (30 %) und||
+|**Aufbaumodul Italienische Sprachpraxis 3**|Comprensione e produzione scritta|2|10||3|Grammatiktest 60‘ (20 %) und<br>üdl Püf 20‘ 20 %|1|
+||Corso introduttivo di cultura e civiltà I|2|||3|mn. rung  ( )||
+|**Vertiefungsmodul Italienische**<br>|Mittelseminar||2<br>10|||6<br>Referat, ca. 20‘ und Hausarbeit 15 S. (50 %) und<br>|1|
+|**Sprachwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar|2||||Klausur 60-90‘ oder mündl. Prüfung 15-20´ (50 %)<sup>2)</sup><br>4||
+|**Vertiefungsmodul Italienische Literatur- und**|Mittelseminar||2<br>|||6<br>Referat, ca. 20‘ und Hausarbeit 15 S. (60 %) und||
+|**Kulturwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar|2|10|||Klausur 90‘ oder mündl. Prüfung 15‘-20‘ (40 %)<sup>2)</sup><br>4|1|
+|**Vertiefungsmodul Italienische Sprachpraxis 4**|Cultura e civiltà II|2||||3<br>‘||
+||Traduzione tedesco-italiano|2|5|||Klausur 90 (60 %) und<br>Übersetzung 90‘(40 %)<br>2|1|
 
-2 
+|**Vertiefungsmodul Italienische Sprachpraxis 5**|L’italiano per il lavoro:<br>tipologie testuali per il settore<br>umanistico-pedagogico<br>oder<br>tipologie testuali per il settore socio-<br>economico|2<br>5|3<br>Klausur 90’ (60%) und<br>Grammatiktest 90’ (40%)|1|
+|---|---|---|---|---|
+||Grammatica e stilistica – corso superiore<br>diperfezionamento e approfondimento|2|2||
+|**Bachelorarbeit**|Bachelorarbeit|10|10<br>Bachelorarbeit|2|
+||Summe SWS|6<br>33<br>14|||
+||Summe ECTS:<br>|90|15<br>17<br>15<br>13<br>11<br>19||
 
-|**Vertiefungsmodul Italienische Sprachpraxis 5**|L’italiano per il lavoro:<br>tipologie testuali per il settore<br>umanistico-pedagogico<br>oder<br>tipologie testuali per il settore socio-<br>economico||2|||5||||||3|Klausur 90’ (60%) und<br>Grammatiktest 90’ (40%)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Grammatica e stilistica – corso superiore<br>diperfezionamento e approfondimento||2|||||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit|||||10||||||10|Bachelorarbeit|2|
-||Summe SWS|6|33||14||||||||||
-||Summe ECTS:<br>|||||90|15|17|15|13|11|19|||
-
-> ~~1)~~ Es ist eines der beiden Module zu wählen. 
+- ~~1)~~ Es ist eines der beiden Module zu wählen. 
 
 2) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
 

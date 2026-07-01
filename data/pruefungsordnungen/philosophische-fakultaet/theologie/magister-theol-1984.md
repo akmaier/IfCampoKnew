@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.02.1984"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Magister-Theol-1984.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:41:50+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:53:20+00:00
+page_count_chars: 32397
 ---
 
 # PDF vom 13.02.1984
@@ -12,914 +12,626 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Magister-Theol-1984.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+‘ 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+~ 
 
-### OCR Seite 1
+: 
 
-```
-u
-‘
-Ordnung für den Grad eines
-“
-Magisters der Theologie (Mag. theol.)
-der Friedrich-Alexander-Universität
-Erlangen-Nürnberg
-Vom
-.13.
-Februar
-1984
-Aufgrund des Art.
-5 in Verbindung mit Art.
-70 Abs.
-2 des Bayerischen
-Hochschulgesetzes (BayHSchG) erläßt die Friedrich-Alexander-Univer-
-sität Erlangen-Nürnberg folgende Ordnung für den Grad eines Magisters
-der Theologie
-(Mag.
-theol.):
-si
-Zweck der Prüfung
-Das Magisterexamen dient dem Nachweis, daß der Kandidat. sich gründliche Fachkennt-
-nisse erworben hat und in der Lage ist, selbständig wissenschaftlich zu arbeiten.
-82
-.
- Magistergrad
-:
-Aufgrund der bestandenen Magisterprüfung verleiht die Theologische Fakultät für
-die Universität Erlangen-Nürnberg den akademischen Grad des Magisters der Theo-
-:
-logie (Mag.
-theol.).
-53
-.
-Studiendauer
-u
-Die Regeistudienzeit beträgt einschließlich der Zeit für die Magisterprüfung
-R
-9 Semester.
-\
-54
-Prüfuncsfristen
--
-&
-(1) Die Prüfung soll am Ende des achten Semesters begonnen werden.
-oo
-“
-(2) Meldet sich ein Bewerber
-aus von ihm zu vertretenden Gründen nicht so recht-
-.
-“
-zeitig ordnungsgemäß zur Magisterprüfung, daß er diese bis zum Beginn der Lehrver-
-:
-anstaltungen des 14. Semesters abgelegt hat, oder legt er die Magisterprüfung, zu
-R
-der er sich gemeldet hat, nicht bis zum Beginn der Lehrveranstaltungen des 14. Se-
-mesters ab, gilt die Magisterprüfung als erstmals abgelegt und nicht bestanden.
-\
-- 2.
-```
+: 
 
-### OCR Seite 2
+a - 
 
-```
-i
-"
--2-
-:
-(3) Überschreitet der Bewerber die Frist nach Abs. 2 aus von ihm nicht zu ver-
-'tretenden Gründen, gewährt der Prüfungsausschuß
-auf Antrag eine Nachfrist. Die
-Meldefrist verlängert sich jeweils um für die Ablegung von Wiederholungsprüfungen
-benötigte Semester,
-5
-Prüfungsausschuß
-(1) Für die Organisation und Durchführung der Magisterprüfung an der Theologischen
-Fakultät derUniversität Erlangen-Nürnberg wird ein Prüfungsausschuß eingesetzt.
-Der Prüfungsausschuß besteht aus dem Dekan als Vorsitzendem, seinem Stellvertreter
-“
-sowie weiteren fünf gewählten Mitgliedern, von denen drei Professoren sein müssen.
-(2) Die weiteren Mitglieder des Prüfungsausschusses und der Schriftführer werden
-nach Vorschlag der Versammlung aller Prüfer vom Fachbereichsrat gewählt.
-Zu Mit-
-gliedern des Prüfungsausschusses können nur die der Theologischen Fakultät ange-
-hörenden Hochschullehrer,
-die der Theologischen Fakultät als Zweitmitglieder ange-
-hörenden Hochschullehrer der Erziehungswissenschaftlichen Fakultät und die das Fach
-Evangelische Theologie vertretenden Hochschullehrer der Universitäten Bamberg,
-Bay-
-reuth und Würzburg gewählt werden.
-(3)
-Die Amtszeit der Mitglieder beträgt zwei Jahre.
-Eine Wiederbestellung
-ist
-möglich.
-(4) Dem Prüfungsausschuß obliegt die Durchführung der Prüfungsverfahren,
-insbeson-
-dere die Planung und Organisation der Prüfungen. Der Prüfungsausschuß achtet darauf,
-daß die Bestimmungen der Prüfungsordnung eingehalten werden. Er berichtet regel
-mäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und
--
-gibt ihm gegebenenfalls Anregungen zur Änderung der Studien- und Prüfungsordnung.
-(5) Der Prüfungsausschuß ist beschlußfähig, wenn sämtliche Mitglieder schriftlich
-unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die
-Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Er beschließt mit der
-Mehrheit der abgegebenen Stimmen in Sitzungen. Stimmenthaltung, geheime Abstimmung
-und Stimmrechtsübertragung sind nicht zulässig. Bei Stimmengleichheit gibt die
-Stimme des Dekans den Ausschlag. Der Schriftführer nimmt an den Sitzungen des Prü-
-fungsausschusses teil; er hat kein Stimmrecht.
-j
-j
--3-
-```
+: 
 
-### OCR Seite 3
+£ 
 
-```
--
--3-
-(6) Der Dekan beruft die Sitzungen des Prüfungsausschusses ein. Er ist befugt,
-anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.
-Hiervon hat er dem Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber hinaus
-kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuß
-dem Dekan die Erledigung von einzelnen Aufgaben widerruflich übertragen.
-- (7) Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten be-
-einträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit
-Rechtsbehelfsbelehrung zu versehen. Dem Kandidaten ist vor ablehnenden Entschei-
-dungen Gelegenheit zur Äußerung zu geben.
-|
-|
-Co:
-86
-Prüfungskommission
-(1) Der Prüfungsausschuß bestellt für jede anstehende Magisterprüfung eine Prüfungs-
-kommission und benennt Ersatzleute.
-Der Prüfungsausschuß bestimmt den Vorsitzenden
-der Prüfungskommission.
-(2) Die Prüfungskommission besteht aus fünf Fachprüfern, und zwar je einem Ver-
-treter für die fünf Fächer: Altes Testament, Neues Testament, Historische Theologie,
-Systematische Theologie, Praktische Theologie, und dem Dekan. Unter diesen muß sich
-der Hochschullehrer oder der entpflichtete Professor befinden, der zum ersten Gut-
-achter bestimmt worden ist. Ist das Thema der Magisterschrift einem der in der
-i
-Fakultät vertretenen Spezialfächer. (Bayerische Kirchengeschichte, Christliche
-Archäologie und Christliche Kunst, Christliche Publizistik, Christliche Sozial-
-ethik, Geschichte und Theologie des Christlichen Ostens,
-Kirchenmusik [Grundlagen
-*
-und Geschichte], Religions- und Missionswissenschaft) entnommen, so tritt der Ver-
-treter dieses Faches zusätzlich in die Prüfungskommission ein.
-(3) Bei Magisterprüfungen von Angehörigen der Augustana-Hochschule Neuendettelsau
-j
-sind Professoren theologischer Fächer der Augustana-Hochschule an der Prüfungs-
-kommission zu beteiligen. Die Prüfungskommission muß jedoch mindestens zur Hälfte
-aus Mitgliedern der Theolögischen Fakultät der Universität Erlangen-Nürnberg be-
-stehen.
--
-.
-(4) Zum Prüfer können alle nach dem Bayerischen Hochschulgesetz
-sowie nach .der:Hoch-
-schulprüfer-Verordnung vom 2. Juli 1979 (GVB S. 200) in der jeweils geltenden
-Fassung zur Abnahme von Magisterprüfungen Befugten bestellt werden.
-|
-BE
-|
--a-7
-5
-```
+- 
 
-### OCR Seite 4
+i: : f 
 
-```
--
--4-
-(5) Die Bestellung der Prüfungskommission soll in geeigneter Form bekanntgegeben
-5
-werden. Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig
-werdender Wechsel von Prüfern ist zulässig. Scheidet ein prüfungsberechtigtes
-Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in
-der Regel bis zu einem Jahr erhalten.
-(6) Der Vorsitzende der Prüfungskommission trägt dafür Sorge, daß alle Entschei-
-dungen der Prüfungskommission in einem Protokoll verzeichnet werden.
-(7) Die Prüfungskommission berichtet dem Prüfungsausschuß über den Verlauf der
-Prüfung.
-Ausschluß wegen persönlicher Beteiligung, Verschwiegenheitspflicht
-(1) Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie von
-einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 37
-BayHSchG.
-(2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer und sonstiger
-mit Prüfungsangelegenheiten befaßter Personen zur Verschwiegenheit bestimmt sich
-nach Art.
-10 Abs. 4 BayHSch6.
-88
-Bekanntgabe der Prüfungstermine und Prüfer
-(1) Die Magisterprüfung wird jeweils auf Antrag des Bewerbers abgehalten.
-(2) Der zur Prüfung zugelassene Kandidat ist unter Nennung der Mitglieder der
-Prüfungskommission und unter Angabe der :Termine und Prüfungsräume spätestens
-vier Wochen vor dem Beginn der Klausuren schriftlich zu laden.
-Bewerbung
-um Zulassung
-Der Kandidat hat schriftlich beim Dekan den Antrag auf Zulassung zur Magister-
-prüfung einzureichen. Dem Antrag sind die in $ 10 Abs. 1 und 2 genannten Nach-
-weise und Unterlagen beizufügen.
-```
+Ordnung fiir den Grad eines Magisters der Theologie (Mag. theol.) der Friedrich-Alexander-Universitat Erlangen-Nurnberg 
 
-### OCR Seite 5
+Vom .13. Februar 1984 
 
-```
-& 10
-Zulassungsvoraussetzungen, Zulassungsverfahren
-(1) Voraussetzungen für die Zulassung zur Magisterprüfung sind:
-a) Nachweis der Mitgliedschaft in einer dem Ökumenischen Rat der Kirchen zu-
-gehörigen Kirche. . Über Ausnahmefälle entscheidet der Prüfungsausschuß;
-b) Nachweis der allgemeinen Hochschulreife oder der einschlägigen fachgebunde-
-nen Hochschulreife unter Berücksichtigung der Qualifikationsverordnung vom
-10. Oktober 1978 (GVB]
-S.
-712)
-in der jeweils geltenden Fassung;
-c) Nachweis ausreichender Kenntnisse in der hebräischen, griechischen und
-lateinischen Sprache.
-Über Ausnahmen entscheidet der Prüfungsausschuß;
-{
-d) Nachweis eines ordnungsgemäßen Studiums der Evangelischen Theologie von
-mindestens acht Semestern, davon mindestens das letzte Semester vor der
-Prüfung an der Universität Erlangen-Nürnberg, durch Vorlage des Studien-
-buches,
-Über Ausnahmen entscheidet der Prüfungsausschuß.
-Bei Angehörigen der Augustana-Hochschule Neuendettelsau wird das Studium
-der Augustana-Hochschule voll
-anerkannt;
-e) Nachweis über die erfolgreiche Ableistung der Zwischenprüfung.
-f} Vorlage je eines Hauptseminarscheines aus den Prüfungsfächern Altes Testa-
-ment, Neues Testament, Historische Theologie und Systematische Theologie,
-davon zwei aufgrund einer schriftlichen Seminararbeit mit mindestens Note 4,0
-(= ausreichend) benotet. Außerdem müssen aus der Praktischen Theologie Haupt-
-seminarscheine über zwei fachlich verschiedene Seminare vorgelegt werden.
-.i
-Die geforderten Scheine werden aufgrund schriftlicher Arbeiten, Referate,
-mündl icher Prüfungen oder anderweitiger individueller Leistungsnachweise
-"
-erteilt. Die Lehrperson gibt zu Beginn der Lehrveranstaltung die zum Schein-
-erwerb erforderlichen Studienleistungen bekannt.
-Der Versuch, die Scheine zu
-erwerben,
-kann innerhalb der Frist des $ 4 Abs.
-2 wiederholt werden.
-g) Bei Bewerbern nach & 13 Abs.
-3 entfallen die unter e)
-- f) aufgeführten
-Nachweise.
-```
+Aufgrund des Art. S in Verbindung mit Art. 70 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlagt die Friedrich-Alexander-Universitat Erlangen-Nurnberg folgende Ordnung fiir den Grad eines Magisters der Theologie (Mag. theol.): 
 
-### OCR Seite 6
+###### Zweck der Priifung 
 
-```
-.
-_6-
-(2) Der Meldung zur Prüfung sind über die in Abs. 1 genannten Unterlagen hinaus
-beizufügen:
-"
-|
-5
-a) ein kurzgefaßter Lebenslauf in deutscher Sprache, der über Herkunft und
-\
-Bildungsgang Aufschluß gibt;
-b) eine Darlegung des Studienganges
-(Studienbericht),
-in der auch die Wahl
-des
-Faches, dem das Thema der Magisterschrift zugeordnet ist, sowie Spezial-
-studiengebiete innerhalb der einzelnen Fächer angegeben werden;
-c) etwaige wissenschaftliche Veröffentlichungen;
-d) eine Erklärung darüber, ob der Bewerber bereits eine Magisterprüfung oder
-eine sonstige studienabschließende Prüfung endgültig nicht bestanden hat,
-j
-oder ob er sich in einem schwebenden Prüfungsverfahren befindet, oder obi
-er unter Verlust des Prüfungsanspruches exmatrikuliert worden
-ist;
-e) gegebenenfalls ein Antrag gemäß $ 13 Abs.
-3;
-f} gegebenenfalls ein Antrag gemäß & 16 Abs.
-9;
-g) die schriftliche Bekanntgabe des Themas der Magisterschrift.
-(3) Ist ein Bewerber ohne sein Verschulden nicht in der Lage, die erforderlichen
-Unterlagen in der vorgeschriebenen Weise zu erbringen, so kann der Prüfungsausschuß
-gestatten, die Nachweise in anderer Art zu führen.
-(4)
-Die Zulassung zur Prüfung ist zu versagen, wenn
-a)
-der Bewerber die nach Abs.
-1 vorgeschriebenen Zulassungsvoraussetzungen
-=
-nicht erfüllt oder
-oo
-b) die Unterlagen unvollständig sind oder
-c) der Bewerber unter Verlust des Prüfungsanspruches exmatrikuliert worden ist
-- oder
-d) der Bewerber die Magisterprüfung oder eine andere studienabschließende
-Prüfung in evangelischer Theologie endgültig nicht bestanden hat oder
-e) der Bewerber aufgrund der gesetzlichen Bestimmungen zur Führung akademischer
-Grade nicht berechtigt wäre.
-.
-- 72
-```
+Das Magisterexamen dient dem Nachweis, daB der Kandidat. sich griindliche Fachkenntnisse erworben hat und in der Lage ist, selbstandig wissenschaftlich zu arbeiten. 
 
-### OCR Seite 7
+§ 2 
 
-```
--
--
-7
--
-(5) Die Entscheidung über die Zulassung ist dem Bewerber spätestens zwei Wochen
-vor Prüfungsbeginn schriftlich mitzuteilen.
-|
-(6) Verwandte, im Grundstudium gleiche Studiengänge bestehen nicht.
-& 11
-Anrechung von Studienzeiten und Studienleistungen
-(1) Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbe-
-reich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemäßes Fachstudium
-der Evangelischen Theologie nachgewiesen wird; dabei erbrachte Studienleistungen
-{
-werden bei Gleichwertigkeit angerechnet. Studiensemester in verwandten Studien-
-gängen werden bei inhaltlicher Gleichwertigkeit,
-die dabei
-erbrachten Studien-
-leistungen bei Gleichwertigkeit auf Antrag angerechnet.
-(2) Einschlägige Studiensemester an wissenschaftlichen Hochschulen außerhalb des
-|
-Geltungsbereiches des Grundgesetzes und die dabei erbrachten Studienleistungen
-=
-sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht.
-Für die Feststellung
-der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hoch-
-schulen sind die von der Kultusministerkonferenz und der Westdeutschen Rektoren-
-konferenz gebilligten Aquivalenzvereinbarungen maßgebend.
-Bei Zweifein an der Gleich-
-wertigkeit kann die Zentralstelle für ausländisches Bildungswesen gehört werden.
-(3)
-In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene
-Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studien-
-2
-: leistungen sowie auf die Studienzeit angerechnet; Art.
-70 Abs,
-3 Satz 5 BayHSchG
-ist zu beachten. Bei der Feststellung der inhaltlichen Gleichwertigkeit sind ge-
->
-meinsame Beschlüsse der Kultusministerkonferenz und der Westdeutschen Rektoren-
-konferenz zu berücksichtigen.
-(4) Studienzeiten und Studienleistungen an Fachhochschulen werden auf Antrag des
-Bewerbers angerechnet, soweit sie den Anforderungen des weiteren Studiums unter Be-
-rücksichtigung der vom Bayerischen Staatsministerium für Unterricht und Kultus
-gemäß Art.
-71 Abs. 4 Satz 2 BayHSchG zu erlassenden Rechtsverordnung entsprechen.
-& 12
-|
-Gliederung der Magisterprüfung
-|
-;
-Die Magisterprüfung wird in einem Abschnitt durchgeführt.
-a.
-```
+_ Magistergrad 
 
-### OCR Seite 8
+Aufgrund der bestandenen Magisterprtifung verieiht die Theologische Fakultat fiir die Universitat Erlangen-Niirnberg den akademischen Grad des Magisters der Theologie (Mag. theol.). 
 
-```
-.8
--
-$
-13
-Umfang und Art der Prüfung
-u
-(1)
-Die Prüfungsfächer sind: Altes Testament, Neues Testament, Historische
-Theologie, Systematische Theologie und Praktische Theologie.
-(2) Es werden folgende Prüfungsleistungen gefordert:
-1) eine Magisterschrift;
-2) vier Klausuren aus vier verschiedenen Prüfungsfächern;
-3) je eine mündliche Prüfung in allen fünf Prüfungsfächern.
-(3) Hat der Kandidat bereits einen berufsqualifizierenden Abschluß des Studiums der
-Theologie mit mindestens befriedigendem Gesamtergebnis erworben, und liegt dieser
-"
-Abschluß des Studiums bei der Meldung zur Magisterprüfung nicht mehr als 10 Jah
-zurück, so werden dem Kandidaten auf Antrag acht Semester seines Theologiestudiums
-angerechnet, sofern Gleichwertigkeit gemäß & 11 besteht. Gleichzeitig werden in
-diesem Fall die Klausuren sowie zwei der fünf mündlichen Prüfungen gemäß & 16
-Abs.
-erlassen.
-& 14
-Magisterschrift
-(1)
-Die Magisterschrift sol] die Fähigkeit des Kandidaten zur selbständigen wissen-
-schaftlichen Arbeit und zur theologischen Urteilsbildung erweisen. Sie unterscheidet
-sich von einer Dissertation dadurch,
-daß sie ein engeres Gebiet behandelt und daß ei
-Beitrag zur Forschung in ihr nicht geleistet werden muß.
-.
-(2) Das Thema wird nach Vorschlägen des Bewerbers von einem Hochschullehrer oder ent
-pflichteten Professor der Theologischen Fakultät der Universität Erlangen-Nürnberg
-oder der Augustana-Hochschule Neuendettelsau oder einem Hochschullehrer an den Uni-
-versitäten Bamberg, Bayreuth, Würzburg, der das Fach Evangelische Theologie vertritt
-oder von der Theologischen Fakultät als Zweitmitglieder angehörenden Mitgliedern der
-Erziehungswissenschaftlichen Fakultät festgelegt.
-i
-(3) Die Magisterschrift muß spätestens ein halbes Jahr nach der Zulassung zur Prüfun
-vorgelegt werden.
-.
--9-
-```
+###### § 3 
 
-### OCR Seite 9
+###### Studi endauer 
 
-```
-9.
-:
-"
-(4) In besonders begründeten Ausnahmefällen kann der Prüfungsausschuß auf Antrag
-des Bewerbes die Bearbeitungsfrist um höchstens zwei Monate verlängern. Eine nicht
-rechtzeitig eingereichte Arbeit wird mit "nicht ausreichend" bewertet.
-(5) Die Magisterschrift ist in deutscher Sprache abzufassen.
-In begründeten Aus-
-nahmefällen kann der Prüfungsausschuß die Abfassung in englischer oder französi-
-scher Sprache zulassen.
-—
-z
-.(6) Sie ist in drei maschinengeschriebenen, gebundenen,
-paginierten Exemplaren
-einzureichen,
-on
--
-(7) Bei ihrer Vorlage hat der Kandidat schriftliche Erklärungen darüber abzugeben,
-|
-a) daß sie noch
-zu keinem Prüfungszweck eingereicht und noch nicht veröffent-
-licht worden
-ist;
-—
-b) daß er sie selbständig ohne fremde Hilfe verfaßt, andere als die von ihm
-angegebenen Quellen und Hilfsmittel
-nicht benutzt und die den benutzten
-.
-Werken wörtlich oder inhaltlich entnommenen Stellen einzeln nach dem Fundort
->
-gekennzeichnet hat.
-|
-(8) Der Dekan als Vorsitzender des Prüfungsausschusses bestimmt zwei Hochschullehrer
-oder entpflichtete Professoren zum ersten Gutachter bzw.
-zum zweiten Gutachter.
-Diese erarbeiten in der Regel
-innerhalb von acht Wochen voneinander getrennt je ein
-Gutachten und einen Benotungsvorschlag für die Magisterschrift. Der erste Gutachter
-sol]
-der Hochschullehrer sein,
-der. das Thema festgeiegt hat.
-(9) Bei Magisterprüfungen von Angehörigen der Augustana-Hochschule Neuendettelsau
-ist ein Professor eines theologischen Faches der Augustana Hochschule als erster
-.
-Gutachter
-zu bestimmen.
-(10) Stimmen die Benotungsvorschläge der beiden Gutachter nicht überein,
-so wird
-no:
-die Note durch Errechnung des arithmetischen Mittels festgelegt; dabei: wird:eine
-Stelle nach dem Komma berücksichtigt.
-(11) Erreicht die Magisterschrift nicht mindestens die Note "ausreichend"
-(4,00),
-.
-so ist die Prüfung nicht bestanden.
-.&15
-_
-,
-Klausuren
-(1)
-In den Klausuren wird besonders das Grundwissen des Kandidaten in dem jeweili-
-.
-gen Fach geprüft.
-.
-"
-(2) Eine Klausur in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, ent-
-fällt. Über die Zuordnung entscheidet die Prüfungskommission. Die Entscheidung ist
-einen Monat nach Bewerbung um Zulassung
-dem Kandidaten mitzuteilen.
-.
-- 0
--
-```
+Die Regeistudienzeit betradgt einschlieBlich der Zeit fiir die Magisterpriifung 9 Semester. 
 
-### OCR Seite 10
+##### Priifunes fristen 
 
-```
-j
-- 10-
-j
-(3) Für jede Klausur steht ein Zeitraum von vier Stunden zur Verfügung. Elementare
-Hilfsmittel, die der Prüfungsausschuß vorher festlegt, werden zur Verfügung ge-
-stellt.
-"
-(4) Es findet jeweils nur eine Klausur an einem Tag statt.
-(5) Jede der Klausuren wird von zwei Hochschullehrern bewertet, in der Regel von
-dem jeweiligen Fachvertreter in der Prüfungskommission und einem weiteren, vom
-Prüfungsausschuß zu bestimmenden Hochschullehrer. Bei unterschiedlicher Beurteilung
-wird die Note durch Errechnung des arithmetischen Mittels festgelegt; dabei wird
-eine Stelle nach dem Komma berücksichtigt.
-x
-& 16
-Mündliche Prüfungen
-I
-(1) In den mündlichen Prüfungen sollen vornehmlich anhand von Spezialstudiengebie-
-ten, die der Kandidat in den Zusammenhang des Faches einzuordnen weiß, methodisches
-Können, Urteilsfähigkeit und kritisches Verständnis des Kandidaten festgestellt
-werden.
-(2) Die mündlichen Prüfungen erfolgen in allen fünf Prüfungsfächern (vgl. $ 13 Abs.
-1). Kandidaten gemäß $ 13.Abs. 3 werden nur in drei Fächern mündlich geprüft. Dabei
-müssen stets Neues Testament oder Systematische Theologie sowie das Fach, dem die
-Magisterschrift zugeordnet ist, geprüft werden.
-(3) Die mündliche Prüfung dauert in dem Fach, dem das Thema der Magisterschrift zu-
-zuordnen ist, etwa 30 Minuten. Ist das Thema der Magisterschrift einem Spezialfach
-(s. $ 6 Abs. 2) entnommen, so wird diese Prüfungszeit zweigeteilt:
-|
-Etwa 15 Minuten prüft der zuständige Vertreter des Spezialfaches, weitere 15 Mi
-.ten
-der Vertreter des Faches, dem die Magisterschrift zugeordnet ist.
-(4) In den übrigen Fächern dauert die Prüfung je etwa 20 Minuten.
-(5) Die mündlichen Prüfungen erfolgen als Einzelprüfungen vor dem jeweiligen Fach-
--
-prüfer bzw. den beiden Prüfern gemäß Abs.. 3. Ein weiteres Mitglied der Prüfungs-
-kommission führt Protokoll. Die Prüfungen finden unter Aufsicht des Dekans als Vor-
-j
-sitzendem des Prüfungsausschusses statt.
-(6) Das über jede mündliche Prüfung anzufertigende Protokol] muß enthalten:
-Ort und Zeit sowie Zeitdauer
-der Prüfung, Gegenstände und Ergebnisse der Prüfung,
-die Namen des Prüfers bzw. der Prüfer und des Kandidaten sowie besondere VYorkomm-
-nisse. Das Protokoll wird vom Prüfer bzw. von den Prüfern und dem Protokollanten
-unterzeichnet. Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforder-
-lich. Das Protokoll ist mindestens zwei. Jahre aufzubewahren.
-```
+~ 
 
-### OCR Seite 11
+##### (1) Die Priifung soll am Ende des achten Semesters begonnen werden. 
 
-```
-|
-- 11-
-(7) Das Ergebnis jeder mündlichen Prüfung wird vom Fachprüfer bzw. gemeinsam von
-den beiden Prüfern (vgl. Abs.
-3 und 5) gemäß & 17 Abs.2 bewertet.
-(8) Die Mitglieder des Prüfungsausschusses
-haben das Recht, den Prüfungen beizu-
-wohnen.
-(9) Die Prüfungskommission kann im Einvernehmen mit dem Kandidaten Zuhörer bei den
-.
-mündlichen Prüfungen zulassen.
-(10) Die Beratung und die Bekanntgabe des Prüfungsergebnisses erfolgt unter Aus-.
-schluß der Öffentlichkeit.
-\
-8 17
-Bewertung von Prüfungsleistungen, Bildung der Fachnote und der
-. Prüfungsgesamtnote, Bestehen und Nichtbestehen der Prüfung
-(1) Der Prüfungsbewertung dürfen nur individuelle Leistungen des Kandidaten zugrunde
-gelegt werden.
-(2) Die Urteile über die einzelnen Prüfungsleistungen werden von den jeweiligen
-Prüfern durch folgende Noten und Prädikate ausgedrückt:
-1 = sehr gut
-= eine hervorragende Leistung;
-2 = gut
-= eine Leistung, die erheblich über den durch-
-schnittlichen Anforderungen liegt;
-3 = befriedigend
-= eine Leistung, die durchschnittlichen Anforderungen
-entspricht;
-4 = ausreichend
-= eine Leistung, die trotz ihrer Mängel noch den
-Anforderungen genügt;
-5 = nicht ausreichend
-= eine Leistung, die wegen erheblicher Mängel den
-Anforderungen nicht mehr genügt.
-Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 er-
-niedrigt bzw. erhöht werden. Die Noten 0,7 und 5,3 sind ausgeschlossen.
-(3) In allen Prüfungsfächern werden Fachnoten aus dem Durchschnitt der gemäß Satz 2
-.
-gewichteten Prüfungsleistungen gebildet. Dabei zählen die Noten der Klausuren doppelt
-und die der mündlichen Prüfungen einfach.
-In dem Fach, dem die Magisterschrift zuzu-
-ordnen ist, und in den Fällen, in denen nur eine mündliche Prüfung abgelegt wurde,
-gelten die Ergebnisse der mündlichen Prüfung als Fachnoten.
-Ä
-- 12 -"
-```
+" (2) Meldet sich ein Bewerber-aus von ihm zu vertretenden Griinden nicht so recht. zeitig ordnungsgemé& zur Magisterpriifung, da& er diese bis zum Beginn der Lehrveranstaltungen des 14. Semesters abgelegt hat, oder legt er die Magisterpriifung, zu der er sich gemeldet hat, nicht bis zum Beginn der Lehrveranstaltungen des 14. Se~mesters ab, gilt die Magisterpriifung als erstmals abgelegt und nicht bestandeén. 
 
-### OCR Seite 12
+i 
 
-```
--
-12
--
-"
-(4) Die Fachnote lautet:
-Bei einem Durchschnitt bis 1,50
-.
-= sehr gut
-bei einem Durchschnitt über 1,50 bis 2,50
-= gut
-bei einem Durchschnitt über 2,50 bis 3,50
-= befriedigend
-bei einem Durchschnitt über 3,50 bis 4,00
-= ausreichend
-bei einem Durchschnitt über 4,00
-= nicht ausreichend.
--
-(5) Die Prüfungsgesamtnote wird wie folgt errechnet:
-Bei einer Prüfung nach $ 13 Abs. 3 zählt die Note der Magisterschrift mit dem
-gleichen Gewicht wie die übrigen Prüfungsleistungen zusammen.
-Bei einer Prüfung nach $ 13 Abs. 2 zählen die Magisterschrift achtfach, die Klau-
-suren zweifach, die mündliche Prüfung im Fach der Magisterschrift zweifach und die
-x
-übrigen mündlichen Prüfungen einfach.
-Die Gesamtnote einer bestandenen Prüfung lautet:
-Bei einem Durchschnitt bis 1,50
-= sehr gut
-bei
-einem Durchschnitt über 1,50 bis 2,50
-= gut
-bei einem Durchschnitt über 2,50 bis 3,50
-= befriedigend
-bei einem Durchschnitt über 3,50 bis 4.00
-= ausreichend.
-(6) Ist die Fachnote eines Faches schlechter als ausreichend (4,00), so ist ein
-Ausgleich nur bei guten Leistungen (2,50 oder besser) in mindestens einem anderen
-Fach möglich. Andernfalls gilt $ 20 Abs.
-1.
-sı8
-Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß
-\
-(1) Eine Prüfungsleistung gitt als "nicht ausreichend" bewertet, wenn der Kandidat
-zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Be-
-ginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.
-(2) Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem
-Dekan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. Dieser kann
-bei Krankheit die Vorlage eines ärztlichen Attestes verlangen. Erkennt der Prü-
-fungsausschuß die Gründe an, so setzt
-er einen neuen Prüfüngstermin fest.
-(3) Bei anerkanntem Rücktritt oder Versäumnis werden die bereits vorliegenden Prü-
-fungsergebnisse angerechnet.
-‘Der Prüfungsausschuß soll bestimmen, daß die versäum-
-ten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen -
-im unmittelbaren Anschluß an den Prüfungstermin nachgeholt werden.
--
-12
--
-```
+: : 
 
-### OCR Seite 13
+-2- 
 
-```
-=
--
-13
--
-|
-(4) Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder
-Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prü-
-fungsleistung als mit "nicht ausreichend" bewertet. Ein Kandidat, der den ordnungs-
-gemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsfüh-
-renden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden;
-in diesem
-Fall
-gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet.
-(5) Die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Prüfung aus-
-geschlossen wird, trifft der Prüfungsausschuß.
-Bei Ausschluß von der weiteren Teil-
-nahme gilt die Prüfung als nicht bestanden,
-(6)
-$ 5 Abs..7 ist beachten.
-& 19
-Mängel
-im Prüfungsverfahren
-(1) Erweist sich, daß das Prüfungsverfahren mit Mängeln behaftet war, die das Prü-
-fungsergebnis beeinflußt haben, ist auf Antrag eines Kandidaten oder von Amts wegen
-anzuordnen,
-daß von einem bestimmten oder von allen Kandidaten die Prüfung oder
-einzelne Teil
-derselben wiederholt werden.
-(2) Mängel des Prüfungsverfahrens oder eine vor oder während der Prüfung eintretende
-Prüfungsunfähigkeit müssen unverzüglich beim Dekan oder beim Vorsitzenden der Prü-
-fungskommission geitend gemacht werden.
-(3) Sechs Monate nach Abschluß der Prüfung dürfen von Amts wegen Anordnungen nach
-Abs.
-1 nicht mehr getroffen werden.
-.
-& 20
-Wiederholung der Prüfung
-(1) Die Prüfung kann in dem Fach, in dem sie wegen nicht ausreichender oder nicht
-durch ein gutes Ergebnis in einem anderen Fach. ausgeglichener Leistungen nicht be-
-standen ist (vgl.
-$ 17 Abs. 6), einmal binnen sechs Monaten wiederholt werden.
-(2) Gilt die Prüfung gemäß & 4 Abs. 2 als nicht bestanden,
-ist sie insgesamt zu
-wiederholen.
-(3) Wurde die gesamte Prüfung nicht bestanden, so muß sie spätestens innerhalb eines
-:
-Jahres nach Ablauf des Prüfungsverfahrens wiederholt werden. Diese Frist wird durch
--
-Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versäumnis der Frist gilt
-die Prüfung als endgültig nicht bestanden, sofern nicht dem Kandidaten vom Prüfungs-
-;
-|
-]
-```
+. 
 
-### OCR Seite 14
+- 
 
-```
--
-14
--
-ausschuß wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist
-gewährt wird.
-(4) Eine zweite Wiederholung desselben Prüfungsfaches oder der gesamten Prüfung
-ist nur auf Antrag in ganz besonderen Ausnahmefällen zulässig. Über den Antrag
-sowie die Fristsetzung entscheidet der Prüfungsausschuß. Absda3 Sätze 2 und 3
-gelten entsprechend.
-(5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die
-Noten der vorangegangenen Prüfung.
-(6) Die freiwillige Wiederholung einer bestandenen Magisterprüfung oder von Tei-
-.
-len davon ist nicht zulässig.
-S 21
-Zeugnis und Urkunde
-(1) Über die bestandene Prüfung ist ein Zeugnis auszustellen.
-Hierbei
-sol]
-eine
-Frist von vier Wochen eingehalten werden.
-(2) Das Zeugnis enthält die Note der Magisterschrift,
-die Noten der einzelnen
-Fächer sowie die Gesamtnote.
-(3) Das Zeugnis wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät ver-
-sehen, Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungs-
-leistungen erbracht sind.
-(4) Aufgrund der bestandenen Prüfung wird eine Urkunde ausgestellt, durch die
-dem Bewerber der Grad eines Magisters der Theologie (Mag. theol.) verliehen wira.
-(5) Die Urkunde wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät ver-
-sehen,
-Als Datum der Urkunde ist der Tag anzugeben, an dem alle Prüfungsleistungen
-erbracht sind.
-Ungültigkeit der Prüfung
-(1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach
-der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuß nachträglich
-die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise ”
-für nicht bestanden erklären.
-j
-.
--
-15
--
-```
+(3) Oberschreitet der Bewerber die Frist nach Abs. 2 aus von ihm nicht zu ver‘tretenden Griinden, gewahrt der Priifungsausschu&auf Antrag eine Nachfrist. Die Meldefrist verldngert sich jeweils um fiir die Ablegung von Wiederholungspriifungen bendtigte Semester. 
 
-### OCR Seite 15
+###### 5 5 
 
-```
--15-
-(2) Waren die Voraussetzungen für die Zulassung zur Prüfung nicht erfüllt, ohne
-daß der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der
-Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der
-Prüfung geheilt. Hat. der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt,
-entscheidet der Prüfungsausschuß unter Beachtung der allgemeinen verwaltungs-
-- rechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte.
-(3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben.
-(4) Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues
-zu erteilen. Eine Entscheidung nach Abs.
-1 und Abs.
-2 Satz 2 ist nach einer Frist
-”
-von fünf Jahren-ab dem Datum des Prüfungszeugnisses ausgeschlossen.
-& 23
-Einsicht in die Prüfungsakten
-(1) Nach Abschluß des Prüfungsverfahrens kann der Kandidat auf Antrag in seine
-schriftlichen Arbeiten, deren Beurteilung,
-und in die Protokolle über seine münd-
-lichen Prüfungen Einsicht nehmen,
-(2) Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses
-beim Dekan zu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVf&G)
-vom 23.12.1976 (GVBl
-S.
-544) gilt entsprechend. Der Dekan bestimmt Ort und Zeit
-der Einsichtnahme.
-5 24
-Prüfungsvergünstigungen für Schwerbehinderte
-(1) Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise
-Rücksicht zu nehmen.
-Insbesondere ist schwerbehinderten Kandidaten, wenn die Art
-der Behinderung es rechtfertigt, eine Verlängerung der Bearbeitungszeit für schrift-
-liche Prüfungsteile um bis zu einem Viertel
-zu gewähren.
-(2) Prüfungsvergünstigungen gemäß Abs.
-1 werden nur auf schriftlichen Antrag hin
-gewährt. Der Antrag ist der Meldung zur Prüfung beizufügen.
--
-.
-.
--
-i
-|
--16>
-]
-```
+###### Priifungsausschu8 
 
-### OCR Seite 16
+(1) Fir die Organisation und Durchfiihrung der Magisterpriifung an der Theologischen Fakultat der Universitat Erlangen-Nlirnberg wird ein Priifungsausschu8® eingesetzt. Der Priifungsausschu® besteht aus dem Dekan als Vorsitzendem, seinem Stellvertreter sowie weiteren flnf gewdhI ten Mitgliedern, von denen drei Professoren sein mussen., (2) Die weiteren Mitglieder des Priifungsausschusses und der Schriftfilhrer werden nach Vorschlag der Versammlung aller Priifer vom Fachbereichsrat gewahIt. Zu Mitgliedern des Priifungsausschusses kénnen nur die der Theologischen Fakultat angehdérenden Hochschullehrer, die der Theologischen Fakultat als Zweitmitglieder angehdrenden Hochschullehrer der Erziehungswissenschaftlichen Fakultat und die das Fach Evangelische Theologie vertretenden Hochschullehrer der Universitdten Bamberg, Bayreuth und Wiirzburg gewdhIt werden. 
 
-```
-”
-- 16
--
-8 25
-Entzug des Magistergrades
-Der Entzug des Magistergrades richtet sich nach den gesetzlichen Bestimmungen
-über die Führung akademischer Grade.
-5 26
-Übergangsregelung
-(1) Bis zur Einführung einer Zwischenprüfung gilt folgende Regelung:
-Für den Besuch der Hauptseminare in den Prüfungsfächern Altes Testament, Neues
-Testament und Historische Theologie ist die erfolgreiche Teilnahme an entsprechen-
-den Proseminaren Voraussetzung. Statt des nach $ 10 Abs.
-1 Buchst.
-e zu führend
-Nachweises über die erfolgreiche Ableistung der Zwischenprüfung sind als weitere
-Voraussetzungen für die Zulassung zur Magisterprüfung die entsprechenden, aufgrund
-einer schriftlichen Proseminararbeit mit mindestens Note 4,0 (= ausreichend) beno-
-teten Proseminarscheine aus den Prüfungsfächern Altes Testament, Neues Testament
-und Historische Theologie vorzulegen. Kann nur ein unbenoteter oder ein nicht auf-
-grund einer schriftlichen Proseminararbeit benoteter Proseminarschein beigebracht
-werden, so muß der entsprechende
-Hauptseminarschein aufgrund einer schriftlichen
-|
-Seminararbeit benotet sein.
-|
-(2) Laufende Verfahren werden nach der bisher gültigen Ordnung abgewickelt.
-& 27
-Inkrafttreten
-(1) Diese Ordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-(2) Gleichzeitig wird die Ordnung der Universität Erlangen-Nürnberg für den Grad
-eines Magisters der Theologie vom 8. August 1977(KMBi
-11 S. 211), geändert durch
-Satzung vom 12. November 1981 (KMB1 II 1982 5. 176), aufgehoben.
-- 17-
-```
+(3) Die Amtszeit der Mitglieder betradgt zwei Jahre. Eine Wiederbestellung ist moglich. 
 
-### OCR Seite 17
+(4) Dem PruifungsausschuB obliegt die Durchfiihrung der Priifungsverfahren, insbesondere die Planung und Organisation der Priifungen. Der Priifungsaus schu8 achtet darauf, daB die Bestimmungen der Priifungsordnung eingehalten werden. Er berichtet rege? . maBig dem Fachbereichsrat tiber die Entwicklung der Priifungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Anderung der Studien- und Priifungsordnung. 
 
-```
-oo
--
-17
--
-.
-Ausgefertigt aufgrund der Beschlüsse des Senats der Univer-
-sität Erlangen-Nürnberg vom
-19.
-Mai 1982 und vom,
-8.
-Februar
-1984 und der Genehmigung des Bayerischen Staatsministeriums
-für Unterricht und Kultus Nr.
-I B
-10
-- 6/93
-231
-vom
-5.
-Oktober
-1983.
-Erlangen,
-den.1!3.
-Februar
-1984
-Universtität Erlangen-Nürnberg
-“
-;
-,
-.
-4
-Geb.
-(Prof.
-Dr.
-N.
-Fiebiger)
-Präsident
-Diese Satzung wurde am 13.
-Februar
-1984
-in der Universität
-Erlangen-Nürnberg niedergelegt,
-die Niederlegung wurde am
-13. Februar 1984 durch Anschlag in der Universität Erlangen-
-Nürnberg bekanntgegeben.
-Tag der Bekanntmachung ist daher der
-13.
-Februar
-1984.
-|
-```
+= 
+
+(5) Der PriifungsausschuB ist beschluB&fahig, wenn sdmtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwéchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Er beschlieBt mit der Mehrheit der abgegebenen Stimmen in Sitzungen. Stimmenthaltung, geheime Abstimmung und Stimmrechtsibertragung sind nicht zuldssig. Bei Stimmengleichheit gibt die Stimme des Dekans den Ausschlag. Der Schriftfiihrer nimmt an den Sitzungen des Priifungsausschusses. teil; er hat kein Stimmrecht. ‘ 
+
+; 
+
+-3- 
+
+. 
+
+- 
+
+-3- 
+
+; 3 
+
+| 
+
+: 
+
+(6) Der Dekan beruft die Sitzungen des Priifungsausschusses ein. Er ist befugt, anstelle des Priifungsausschusses unaufschiebbare Entscheidungen allein zu treffen. Hiervon hat er dem PriifungsausschuB unverziiglich Kenntnis zu geben. Dariiber hinaus kann, soweit diese Priifungsordnung nichts anderes bestimmt, der PriifungsausschuB dem Dekan die Erledigung von einzelnen Aufgaben widerruflich libertragen. 
+
+- (7) Bescheide in Priifungsangelegenheiten, durch die jemand in seinen Rechten beeintrdchtigt werden kann, bediirfen der Schriftform; sie sind zu begriinden und mit Rechtsbehelfsbelehrung zu versehen. Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur AuBerung zu geben. | 
+
+#### i: 
+
+§ 6 
+
+###### Prufungskommission 
+
+(1) Der Priifungsausschu® bestellt fiir jede anstehende Magisterpriifung eine Priifungs-~ kommission und benennt Ersatzleute. Der PriifungsausschuS bestimmt den Vorsitzenden der Priifungskommission. 
+
+(2) Die Priifungskommission besteht aus fiinf Fachpriifern, und zwar je einem Vertreter fiir die flint Facher: Altes Testament, Neues Testament, Historische Theologie, Systematische Theologie, Praktische Theologie, und dem Dekan. Unter diesen muB sich der Hochschullehrer oder der entpflichtete Professor befinden, der zum ersten Gutachter bestimmt worden ist. Ist das Thema der Magisterschrift einem der in der Fakultaét vertretenen Spezial facher. (Bayerische Kirchengeschichte, Christliche Archdologie und Christliche Kunst, Christliche Publizistik, Christliche Sozialethik, Geschichte und Theologie des Christlichen Ostens, Kirchenmusik [Grundlagen und Geschichte], Religions- und Missionswissenschaft) entnommen, so tritt der Vertreter dieses Faches zusadtzlich in die Priifungskommission ein. (3) Bei Magisterpriifungen von AngehGrigen der Augustana-Hochschule Neuendettelsau Sind Professoren theologischer Facher der Augustana-Hochschule an der Priifungskommission zu beteiligen. Die Priifungskommission mu& jedoch mindestens zur Halfte aus Mitgliedern der Theologischen Fakultdt der Universitét Erlangen-Niirnberg bestehen. - 
+
+° 
+
+. 
+
+. 
+
+; 
+
+(4) Zum Priifer kénnen alle nach dem Bayerischen Hochschulgesetz‘sowte nach -der-Hochschulpriifer-Verordnung vom 2. Juli 1979 (GVB S. 200) in der jeweils geltenden Fassung zur Abnahme von Magisterpriifungen Befugten bestel1t werden. | 
+
+Lo 
+
+| 
+
+| 
+
+-4-" 
+
+~4- 
+
+- 
+
+- 
+
+(5) Die Bestellung der Priifungskommission soll in geeigneter Form bekanntgegeben werden. Ein kurzfristig vor Beginn der Priifung aus zwingenden Griinden notwendig werdender Wechsel von Priifern ist zuldssig. Scheidet ein priifungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Priifungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+
+(6) Der Vorsitzende der Priifungskommission tragt daftir Sorge, da8 alle Entscheidungen der Priifungskommission in einem Protokol] verzeichnet werden. 
+
+(7) Die Priifungskommission berichtet dem Priifungsausschu® Uber den Verlauf der Prufung. 
+
+Ausschlu® wegen persGnlicher Beteiligung, Verschwiegenheitspflicht (1) Der Ausschlu8 von der Beratung und Abstimmung im Priifungsausschu® sowie von einer Priifungstatigkeit wegen persénlicher Beteiligung bestimmt sich nach Art. 37 BayHSchG. (2) Die Pflicht der Mitglieder des Priifungsausschusses, der Prufer und sonstiger mit Priifungsangelegenheiten befaiter Personen zur Verschwiegenheit bestimmt sich nach Art. 10 Abs. 4 BayHSchG. 
+
+§ 8 Bekanntgabe der Priifungstermine und Prifer 
+
+(1) Die Magisterprifung wird jeweils auf Antrag des Bewerbers abgehalten. 
+
+(2) Der zur Prifung zugelassene Kandidat ist unter Nennung der Mitglieder der . Priifungskommission und unter Angabe der -Termine und Priifungsrdume spatestens vier Wochen vor dem Beginn der Klausuren schriftlich zu laden. 
+
+Bewerbungum Zulassung Der Kandidat hat schriftlich beim Dekan den Antrag auf Zulassung zur Magisterpriifung einzureichen. Dem Antrag sind die in § 10 Abs. i und 2 genannten Nachweise und Unterlagen beizufiigen. 
+
+###### § 10 
+
+##### Zulassungsvoraussetzungen, Zulassungsverfahren 
+
+- (1) Voraussetzungen fiir die Zulassung zur Magisterpriifung sind: 
+
+   - a) Nachweis der Mitgliedschaft in einer dem Ukumenischen Rat der Kirchen zugehorigen Kirche.. Ober Ausnahmefdlle entscheidet der PriifungsausschuB; 
+
+   - b) Nachweis der allgemeinen Hochschulreife oder der einschlagigen fachgebundenen Hochschulreife unter Beriicksichtigung der Qualifikationsverordnung vom 10. Oktober 1978 (GVBI1 S. 712) in der jeweils geltenden Fassung; 
+
+   - c) Nachweis ausreichender Kenntnisse in der hebrdischen, griechischen und lateinischen Sprache. Uber Ausnahmen entscheidet der PrufungsausschuB; 
+
+( 
+
+- d) Nachweis eines ordnungsgemdS8en Studiums der Evangelischen Theologie von mindestens acht Semestern, davon mindestens das letzte Semester vor der Priifung an der Universitat Erlangen-Nurnberg, durch Vorlage des Studienbuches. Uber Ausnahmen entscheidet der Priifungsausschuf. Bei Angehorigen der Augustana-Hochschule Neuendettelsau wird das Studium der Augustana-Hochschule voll anerkannt; . 
+
+- e) Nachweis Uber die erfolgreiche Ableistung der Zwischenprufung. 
+
+i 
+
+- f) Voriage je eines Hauptseminarscheines aus den Priifungsfachern Altes Testament, Neues Testament, Historische Theologie und Systematische Theotogie, davon zwei aufgrund einer schriftlichen Seminararbeit mit mindestens Note 4,0 (= ausreichend) benotet. AuBerdem miissen aus der Praktischen Theologie Hauptseminarscheine Uber zwei fachlich verschiedene Seminare vorgelegt werden. Die geforderten Scheine werden aufgrund schriftlicher Arbeiten, Referate, miindlicher Priifungen oder anderweitiger individueller Leistungsnachweise . erteilt. Die Lehrperson gibt zu Beginn der Lehrveranstal tung die zum Scheinerwerb erforderlichen Studienleistungen bekannt.Der Versuch, die Scheine Zu erwerben, kann innerhalb der Frist des § 4 Abs. 2 wiederholt werden. 
+
+- g) Bei Bewerbern nach § 13 Abs. 3 entfallen die unter e) - f) aufgefuhrten Nachweise. 
+
+. 
+
+##### _§- 
+
+beizufiigen:(2) Der Meldung zur Priifung ° sind Uber die in Abs. 1 genannten7 Unterlagen hinaus 
+
+- a) ein kurzgefaBter Lebenslauf in deutscher Sprache, der Uber Herkunft und 
+
+- ; Bildungsgang Aufschlu8 gibt; 
+
+   - b) eine Darlegung des Studienganges (Studienbericht), in der auch die Wahl des Faches, dem das Thema der Magisterschrift zugeordnet ist, sowie SpezialStudiengebiete innerhalb der einzelnen Fdacher angegeben werden; 
+
+   - c) etwaige wissenschaftliche Verdéffentlichungen; 
+
+; 
+
+- d) eine Erklarung darliber, ob der Bewerber bereits eine Magisterprtifung oder eine sonstige studienabschlieBende Priifung endgultig nicht bestanden hat, oder ob er sich in einem schwebenden Priifungsverfahren befindet, oder obi er unter Verlust des Priifungsanspruches exmatrikuliert worden ist; 
+
+- e) gegebenenfalis ein Antrag gemdB § 13 Abs. 3; f} gegebenenfalls ein Antrag gemdB § 16 Abs. 9; 
+
+- g) die schriftliche Bekanntgabe des Themas der Magisterschrift. 
+
+(3) Ist ein Bewerber ohne sein Verschuiden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen Weise zu erbringen, so kann der Priifungsausschu® gestatten, die Nachweise in anderer Art zu fuhren. 
+
+- (4) Die Zulassung zur Prufung ist zu versagen, wenn 
+
+| 
+
+- a) der Bewerber die nach Abs. 1 vorgeschriebenen Zulassungsvoraussetzungen ~ nicht erflllt oder 
+
+   - Co 
+
+- b) die Unterlagen unvollstdndig sind oder 
+
+- c) der Bewerber unter Verlust des Priifungsanspruches exmatrikuliert worden ist ' oder 
+
+- d) der Bewerber die Magisterpriifung oder eine andere studienabschlieBende Priifung in evangelischer Theologie endgiiltig nicht bestanden hat oder 
+
+- e) der Bewerber aufgrund der gesetzlichen Bestimmungen zur Fllhrung akademischer Grade nicht berechtigt ware. 
+
+-72 
+
+- 
+
+( 
+
+~ 
+
+4 
+
+#### -7- 
+
+(5) Die Entscheidung tuber die Zulassung ist dem Bewerber spdtestens zwei Wochen vor Prifungsbeginn schriftlich mitzuteilen. | 
+
+(6) Verwandte, im Grundstudium gTeiche Studiengadnge bestehen nicht. 
+
+###### § ll 
+
+. 
+
+###### Anrechung von Studienzeiten und Studienleistungen 
+
+(1) Einschlagige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemaBes Fachstudium der Evangelischen Theologie nachgewiesen wird; dabei erbrachte Studienleistungen werden bei Gleichwertigkeit angerechnet. Studiensemester in verwandten Studiengangen werden bei inhaltlicher Gleichwertigkeit, die dabei erbrachten Studienleistungen bei Gieichwertigkeit auf Antrag angerechnet. 
+
+(2) Einschlagige Studiensemester an wissenschaftlichen Hochschulen auferhalb des Geltungsbereiches des Grundgesetzes und die dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht. Fur die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an austdndischen Hochschulen sind die von der Kultusministerkonferenz und der Westdeutschen Rektorenkonferenz gebilligten Aquivalenzvereinbarungen maBgebend. Bei Zweifein an der Gleichwertigkeit kann die Zentralstelle fiir auslandisches Bildungswesen gehort werden. 
+
+(3) In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studien- Jeistungen sowie auf die Studienzeit angerechnet; Art. 70 Abs. 3 Satz 5 BayHSchG ist zu beachten. Bei der Feststellung der inhaltlichen Gleichwertigkeit sind ge* meinsame Beschliisse der Kultusministerkonferenz und der Westdeutschen Rektorenkonferenz zu beriicksichtigen. 
+
+(4) Studienzeiten und Studienleistungen an Fachhochschulen werden auf Antrag des Bewerbers angerechnet, soweit sie den Anforderungen des weiteren Studiums unter Beriicksichtigung der vom Bayerischen Staatsministerium fiir Unterricht und Kultus gemaB Art. 71 Abs. 4 Satz 2 BayHSchG zu erlassenden Rechtsverordnung entsprechen. 
+
+: 
+
+> . § 12 
+
+. Gliederung der Magisterpriifung 
+
+; 
+
+| 
+
+Die Magisterpriifung wird in einem Abschnitt durchgefuhrt. 
+
+~ge 
+
+. 
+
+_3- 
+
+; 
+
+Umfang und Art der Priifung - 
+
+(1) Die Priifungsfadcher sind: Altes Testament, Neues Testament, Historische Theologie, Systematische Theologie und Praktische Theologie. 
+
+(2) Es werden folgende Priifungsleistungen gefordert: 
+
+1) eine Magisterschrift; 
+
+2) vier Kiausuren aus vier verschiedenen Priifungsfdchern; 
+
+3) je eine muindliche Priifung in allen fiinf Priifungsfdchern. 
+
+(3) Hat der Kandidat bereits einen berufsqualifizierenden Abschlu& des Studiums der Theologie mit mindestens befriedigendem Gesamtergebnis erworben, und liegt dieser AbschluB des Studiums bei der Meldung zur Magisterpriifung nicht mehr als 10 Jah zurtick, so werden dem Kandidaten auf Antrag acht Semester seines Theologiestudiums angerechnet, sofern Gleichwertigkeit gemd8 § 11 besteht. Gleichzeitig werden in diesem Fall die Kiausuren sowie zwei der fiinf miindlichen Priifungen gemé&8 § 16 Abs. erlassen. 
+
+§ 14 
+
+###### Magisterschrift 
+
+(1) Die Magisterschrift soll die Fahigkeit des Kandidaten zur selbstadndigen wissenschaftlichen Arbeit und zur theologischen Urteilsbildung erweisen. Sie unterscheidet sich von einer Dissertation dadurch,daB sie ein engeres Gebiet behandelt und da® ei Beitrag zur Forschung in ihr nicht geleistet werden muB. a 
+
+(2) Das Thema wird nach Vorschlagen. des Bewerbers von einem Hochschullehrer oder ent pflichteten Professor der Theologischen Fakultat der Universitat Erlangen-Niirnberg oder der Augustana-Hochschule Neuendettelsau oder einem Hochschullehrer an den Universitdten Bamberg, Bayreuth, Wiirzburg, der das Fach Evangelische Theologie vertritt oder von der Theologischen Fakultdt als Zweitmitglieder angehorenden Mitgliedern der Erziehungswissenschaftlichen Fakultadt festgelegt. 
+
+(3) Die Magisterschrift mu8 spdtestens ein halbes Jahr nach der Zulassung zur Priifun vorgelegt werden. : 
+
+-9r- 
+
+_9- 
+
+=: 
+
+- 
+
+& . - | 
+
+Vo 
+
+. : . 
+
+so 
+
+: 
+
+; 
+
+(4) In besonders begriindeten Ausnahmeféllen kann der PrifungsausschuB auf Antrag des Bewerbes die Bearbeitungsfrist um hdchstens zwei Monate verldngern. Eine nicht rechtzeitig eingereichte Arbeit wird mit "nicht ausreichend” bewertet. 
+
+(5) Die Magisterschrift ist in deutscher Sprache abzufassen. In begriindeten Ausnahmefdllen kann der Priifungsausschu8 die Abfassung in englischer oder franzosischer Sprache zulassen. an 
+
+_(6) Sie ist in drei maschinengeschriebenen, gebundenen, paginierten Exemplaren einzureichen, oot 
+
+- (7) Bei ihrer Vorlage hat der Kandidat schriftliche Erkldrungen daruber abzugeben, a) daB sie noch zu keinem Priifungszweck eingereicht und noch nicht verdffent- 
+
+- : licht worden ist; b) daB er sie selbstadndig ohne fremde Hilfe verfaBt, andere als die von ihm angegebenen Quellen und Hilfsmittel nicht benutzt und die den benutzten Werken wortlich oder inhaltlich entnommenen Stellen einzeln nach dem Fundort gekennzeichnet hat. 
+
+(8) Der Dekan als Vorsitzender des Priifungsausschusses bestimmt zwei Hochschullehrer oder entpflichtete Professoren zum ersten Gutachter bzw. zum zweiten Gutachter. Diese erarbeiten in der Regel innerhalb von acht Wochen voneinander getrennt je ein Gutachten und einen Benotungsvorschlag fur die Magisterschrift. Der erste Gutachter sol] der Hochschuliehrer sein, der. das Thema festgeiegt hat. 
+
+(9) Bei Magisterpriifungen von Angehdrigen der Augustana-Hochschule Neuendettelsau ist ein Professor eines theologischen Faches der Augustana Hochschule als erster Gutachter zu bestimmen. 
+
+. 
+
+(10) Stimmen die Benotungsvorschlage der beiden Gutachter nicht liberein, so wird die Note durch Errechnung des arithmetischen Mittels festgelegt; dabei wird eine Stelle nach dem Komma berticksichtigt. 
+
+(11) Erreicht die Magisterschrift nicht mindestens die Note "ausreichend" (4,00), so ist die Priifung nicht bestanden. 
+
+_ 
+
+- (1) In den Kiausuren wird besonders das Grundwissen des Kandidaten in dem jeweiligen Fach gepruft. a . 
+
+(2) Eine Klausur in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, entfallt. Ober die Zuordnung entscheidet die Priifungskommission. Die Entscheidung ist einen Monat nach Bewerbung um Zulassungdem Kandidaten mitzuteijen. 
+
+: 
+
+: 
+
+-10- 
+
+- 10 - 
+
+; 
+
+« 
+
+; 
+
+‘ 
+
+; 
+
+(3) Flir jede Klausur steht ein Zeitraum von vier Stunden zur Verfiigung. Elémentare Hilfsmittel, die der PriifungsausschuB vorher festlegt, werden zur Verfiigung gestellt. , 
+
+(4) Es findet jeweils nur eine Klausur an einem Tag statt. 
+
+(5) Jede der Klausuren wird von zwei Hochschullehrern bewertet, in der Regel von dem jeweiligen Fachvertreter in der Priifungskommission und einem weiteren, vom PriifungsausschuB zu bestimmenden Hochschullehrer. Bei unterschiedlicher Beurteilung wird die Note durch Errechnung des arithmetischen Mittels festgelegt; dabei wird eine Stelle nach dem Komma berticksichtigt. 
+
+§ 16 
+
+##### Muindliche Priifungen 
+
+ho 
+
+(1) In den miindlichen Priifungen sollen vornehmlich anhand von Spezialstudiengebieten, die der Kandidat in den Zusammenhang des Faches einzuordnen wei8, methodisches Konnen, Urteilsfahigkeit und kritisches Verstdndnis des Kandidaten festgestellt werden. 
+
+(2) Die miindlichen Priifungen erfolgen in allen funf Priifungsfadchern (vgl. § 13 Abs. 1). Kandidaten gemdS § 13.Abs. 3 werden nur in drei Fachern muindlich gepriift. Dabei miissen stets Neues Testament oder Systematische Theologie sowie das Fach, dem die Magisterschrift zugeordnet ist, gepriift werden. 
+
+. 
+
+(3) Die miindliche Priifung dauert in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, etwa 30 Minuten. Ist das Thema der Magisterschrift einem Spezialfach (s. § 6 Abs. 2) entnommen, so wird diese Priifungszeit zweigeteilt: | Etwa 15 Minuten prift der zustandige Vertreter des Spezialfaches, weitere 15 Mi .ten der Vertreter des Faches, dem die Magisterschrift zugeordnet ist. 
+
+(4) In den tibrigen Fdchern dauert die Priifung je etwa 20 Minuten. 
+
+(5) Die miindlichen Priifungen erfolgen als Einzelpriifungen vor dem jeweiligen Fachpriifer bzw. den beiden Priifern gemdf Abs. 3. Ein weiteres Mitglied der Priifungs~ kommission fiihrt Protokoll. Die Priifungen finden unter Aufsicht des Dekans als Vorsitzendem des Priifungsausschusses statt. (6) Das liber jede miindliche Priifung anzufertigende Protokoll mu6 enthal ten: Ort und Zeit sowie Zeitdauerder Priifung, Gegenstande und Ergebnisse der Priifung, die Namen des Priifers bzw. der Priifer und des Kandidaten sowie besondere Vorkommnisse. Das Protokoll wird vom Priifer bzw. von den Priifern und dem Protokollanten unterzeichnet. Die Wiedergabe von Priifungsfragen und Antworten ist nicht erforderlich. Das Protokoll ist mindestens zwei. Jahre aufzubewahren. 
+
+; 
+
+| 
+
+### - ll - 
+
+(7) Das Ergebnis jeder miindlichen Prtifung wird vom Fachpriifer bzw. gemeinsam von den beiden Priifern (vgl. Abs. 3 und 5) gema& § 17 Abs.2 bewertet. (8) Die Mitglieder des Priifungsausschusseshaben das Recht, den Priifungen beizu- 
+
+wohnen,. 
+
+(9) Die Priifungskommission kann im Einvernehmen mit dem Kandidaten Zuhdrer bei den . MUndlichen Priifungen zulassen. 
+
+(10) Die Beratung und die Bekanntgabe des Priifungsergebnisses erfolgt unter Aus-. schlu& der Offentlichkeit. 
+
+§ 17 
+
+Bewertung von Priifungsleistungen, Bildung der Fachnote und der 
+
+_ Prlifungsgesamtnote, Bestehen und Nichtbestehen der Pruifung 
+
+(1) Der Priifungsbewertung diirfen nur individuelle Leistungen des Kandidaten zugrunde - gelegt werden. 
+
+(2) Die Urteile Uber die einzelnen Priifungsleistungen werden von den jeweiligen Prufern durch folgende Noten und Pradikate ausgedriickt: 
+
+- 1 = sehr gut = eine hervorragende Leistung; 
+
+- 2 = gut = eine Leistung, die erheblich Uber den durchschnittlichen Anforderungen liegt; 
+
+3 = befriedigend 
+
+   - = eine Leistung, die durchschnittlichen Anforderungen entspricht; 
+
+- 4 = ausreichend = eine Leistung, die trotz ihrer Mangel noch den Anforderungen gentigt; 
+
+- 5 = nicht ausreichend = eine Leistung, die wegen erheblicher Mangel den Anforderungen nicht mehr geniigt. 
+
+Zur differenzierten Bewertung der Leistungen kénnen die Notenziffern um 0,3 erniedrigt bzw. erhdéht werden. Die Noten 0,7 und 5,3 sind ausgeschlossen. 
+
+(3) In allen Priifungsfachern werden Fachnoten aus dem Durchschnitt der gemaB Satz 2 . gewichteten Priifungsleistungen gebildet. Dabei zahlen die Noten der Klausuren doppelt und die der miindlichen Priifungen einfach. In dem Fach, dem die Magisterschrift zuzuordnen ist, und in den FaTlen, in denen nur eine muindliche Priifung abgelegt wurde, gelten die Ergebnisse der miindlichen Priifung als Fachnoten. 
+
+: 
+
+-12-" 
+
+- 12 - 
+
+: 
+
+« 
+
+##### (4) Die Fachnote lautet: 
+
+. 
+
+Bei einem Durchschnitt bis 1,50 
+
+- . = sehr gut 
+
+bei einem Durchschnitt liber 1,50 bis 2,50 bei einem Durchschnitt tiber 2,50 bis 3,50 bei einem Durchschnitt Uber 3,50 bis 4,00 bei einem Durchschnitt Uber 4,00 
+
+- = gut 
+
+= befriedigend 
+
+- = ausreichend 
+
+- = nicht ausreichend. 
+
+- (5) Die Priifungsgesamtnote wird wie folgt errechnet: Bei einer Priifung nach § 13 Abs. 3 zahlt die Note der Magisterschrift mit dem gleichen Gewicht wie die tbrigen Priifungsleistungen zusammen. 
+
+Bei einer Priifung nach § 13 Abs. 2 zdhlen die Magisterschrift achtfach, die Kl ausuren zweifach, die mindliche Prtifung im Fach der Magisterschrift zweifach und die librigen miindlichen Priifungen einfach. 
+
+Die Gesamtnote einer bestandenen Priifung ljautet: 
+
+Bei einem Durchschnitt bis 1,50 = sehr gut bei einem Durchschnitt Uber 1,50 bis 2,50 = gut bei einem Durchschnitt liber 2,50 bis 3,50 = befriedigend bei einem Durchschnitt liber 3,50 bis 4.00 = ausreichend. 
+
+(6) Ist die Fachnote eines Faches schlechter als ausreichend (4,00), so ist ein Ausgleich nur bei guten Leistungen (2,50 oder besser) in mindestens einem anderen Fach méglich. Andernfalls gilt § 20 Abs. 1. 
+
+. 
+
+§ 18 
+
+##### Versaumnis, Riicktritt, Tduschung, OrdnungsverstoB 
+
+‘ 
+
+(1) Eine Priifungsleistung gitt als “nicht ausreichend" bewertet, wenn der Kandidat zu einem Priifungstermin ohne triftige Griinde nicht erscheint oder wenn er nach Beginn der Priifung ohne triftige Griinde von der Priifung zurticktritt. 
+
+. 
+
+(2) Die fiir den Riicktritt oder das Versdumnis geltend gemachten Grtinde missen dem Dekan unverziiglich schriftlich angezeigt und glaubhaft gemacht werden. Dieser kann bei Krankheit die Vorlage eines arztlichen Attestes verlangen. Erkennt der Prifungsausschu8 die Griinde an, so setzter einen neuen Priifungstermin fest. 
+
+(3) Bei anerkanntem Riicktritt oder Versdumnis werden die bereits vorliegenden Priifungsergebnisse angerechnet.‘Der PriifungsausschuB soll bestimmen, da® die versdumten Priifungsleistungen - sofern die anerkannten Griinde dem nicht entgegenstehen - im unmittelbaren Anschlu8 an den Priifungstermin nachgeholt werden. 
+
+~ 13- 
+
+| 
+
+- 
+
+- 13 - 
+
+(4) Versucht der Kandidat das Ergebnis seiner Priifungsleistung durch Tauschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prifungsleistung als mit “nicht ausreichend" bewertet. Ein Kandidat, der den ordnungsgemaBen Ablauf der Priifung stort, kann von dem jeweiligen Prtifer oder Aufsichtsfuhrenden von der Fortsetzung der Priifungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Priifungsleistung als mit "nicht ausreichend" bewertet. 
+
+- (5) Die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Priifung ausgeschlossen wird, trifft der Priifungsausschu8. Bei Ausschlu8 von der weiteren Teilnahme gilt die Prufung als nicht bestanden. 
+
+(6) § 5 Abs..7 ist beachten. 
+
+###### Mangel im Prufungsverfahren 
+
+(1) Erweist sich, daB das Priifungsverfahren mit Mangeln behaftet war, die das Prifungsergebnis beeinflu&t haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, daB von einem bestimmten oder von allen Kandidaten die Priifung oder einzelne Teil derselben wiederholt werden. 
+
+(2) Mangel des Priifungsverfahrens oder eine vor oder wahrend der Priifung eintretende Priifungsunfahigkeit miissen unverziiglich beim Dekan oder beim Vorsitzenden der Prifungskommission geitend gemacht werden. 
+
+(3) Sechs Monate nach Abschlu8 der Priifung diirfen von Amts wegen Anordnungen nach Abs. 1 nicht mehr getroffen werden. ; 
+
+. 
+
+###### Wiederholung der Pritifung 
+
+(1) Die Priifung kann in dem Fach, in dem sie wegen nicht ausreichender oder nicht durch ein gutes Ergebnis in einem anderen Fach ausgeglichener Leistungen nicht bestanden ist (vgl. § 17 Abs. 6), einmal binnen sechs Monaten wiederholt werden. (2) Gilt die Priifung gemaéB § 4 Abs. 2 als nicht bestanden, ist sie insgesamt zu wiederholen. 
+
+(3) Wurde die gesamte Priifung nicht bestanden, so mu& sie spdtestens innerhalb eines Jahres nach Ablauf des Priifungsverfahrens wiederholt werden. Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versdumnis der Frist gilt die Priifung als endgiiltig nicht bestanden, sofern nicht dem Kandidaten vom Prufungs- 
+
+: 
+
+. - , 
+
+i 
+
+-14. 
+
+. 
+
+ausschu8 wegen besonderer von ihm nicht zu vertretender Griinde eine Nachfrist gewahrt wird. 
+
+(4) Eine zweite Wiederholung desselben Priifungsfaches oder der gesamten Priifung ist nur auf Antrag in ganz besonderen Ausnahmefdllen zuldssig. Ober den Antrag sowie die Fristsetzung entscheidet der Priifungsausschu®. Absda3 Satze 2 und 3 gelten entsprechend. 
+
+(5) Bei Wiederholungspriifungen ersetzen die Noten der Wiederholungspriifung die Noten der vorangegangenen Priifung. 
+
+(6) Die freiwillige Wiederholung einer bestandenen Magisterprtifung oder von Teilen davon ist nicht zuldssig. 
+
+###### Zeugnis und Urkunde 
+
+(1) Uber die bestandene Priifung ist ein Zeugnis auszustellen. Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+
+(2) Das Zeugnis enthdit die Note der Magisterschrift, die Noten der einzelnen 
+
+Facher sowie die Gesamtnote. 
+
+(3) Das Zeugnis wird vom Dekan unterzeichnet und mit dem Siegel der Fakultdt versehen, Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Pruifungsleistungen erbracht sind. 
+
+(4) Aufgrund der bestandenen Priifung wird eine Urkunde ausgestelit, durch die | dem Bewerber der Grad eines Magisters der Theologie (Mag. theol.) verliehen wira. 
+
+(5) Die Urkunde wird vom Dekan unterzeichnet und mit dem Siegel der Fakultdt versehen, Als Datum der Urkunde ist der Tag anzugeben, an dem alle Priifungsleistungen erbracht sind. 
+
+##### Ungiiltigkeit der Priifung 
+
+(1) Hat der Kandidat bei einer Priifung getduscht und wird diese Tatsache erst nach der Aushindigung des Zeugnisses bekannt, so kann der Priifungsausschu8 nachtrdglich die betroffenen Noten entsprechend berichtigen und die Priifung ganz oder teilweise ~ fiir nicht bestanden erklaren. 
+
+; 
+
+. 
+
+- 15 - 
+
+- 15 - 
+
+- 
+
+(2) Waren die Voraussetzungen fiir die Zulassung zur Priifung nicht erfUlit, ohne daB der Kandidat hieriiber tduschen wollte, und wird diese Tatsache erst nach der Aushdndigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Priifung geheilt. Hat. der Kandidat die Zulassung vorsatzlich zu Unrecht erwirkt, entscheidet der Priifungsausschu8 unter Beachtung der allgemeinen verwal tungs- rechtlichen Grundsdtze liber die Riicknahme rechtswidriger Verwaltungsakte. 
+
+. 
+
+(3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur AuBerung zu geben. 
+
+(4) Das unrichtige Priifungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von fiinf Jahren-ab dem Datum des Priifungszeugnisses ausgeschlossen. 
+
+§ 23 Einsicht in die Prufungsakten 
+
+(1) Nach AbschiuB des Priifungsverfahrens kann der Kandidat auf Antrag in seine schriftlichen Arbeiten, deren Beurteilung, und in die Protokolle tiber seine mundlichen Priifungen Einsicht nehmen, 
+
+(2) Der Antrag ist binnen einem Monat nach Aushdndigung des Priifungszeugnisses beim Dekan zu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23.12.1976 (GVB1 S. 544) gilt entsprechend. Der Dekan bestimmt Ort und Zeit der Einsichtnahme. 
+
+§ 24 
+
+##### Priifungsvergiinstigungen fiir Schwerbehinderte 
+
+(1) Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise Riicksicht zu nehmen. Insbesondere ist schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlangerung der Bearbeitungszeit flir schriftliche Priifungsteile um bis zu einem Viertel zu gewahren. 
+
+. 
+
+(2) Priifungsvergiinstigungen gemaB Abs. 1 werden nur auf schriftlichen Antrag hin gewahrt. Der Antrag ist der Meldung zur Priifung beizufugen. 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+-16- 
+
+~ 
+
+- 16 - 
+
+| | 
+
+## Entzug des Magistergrades ae 
+
+Der Entzug des Magistergrades richtet sich nach den gesetzlichen Bestimmungen liber die Fiuhrung akademischer Grade. 
+
+###### § 26 
+
+##### Ubergangsregelung 
+
+(1) Bis zur Einfihrung einer Zwischenprifung gilt folgende Regelung: 
+
+; 
+
+; 
+
+Fir den Besuch der Hauptseminare in den Priifungsfachern Altes Testament, Neues Testament und Historische Theologie ist die erfolgreiche Teilnmahme an entsprechenden Proseminaren Voraussetzung. Statt des nach § 10 Abs. 1 Buchst. e zu fihrend Nachweises liber die erfolgreiche Ableistung der Zwischenpriifung sind als weitere Voraussetzungen fiir die Zulassung zur Magisterpriifung die entsprechenden, aufarund einer schriftlichen Proseminararbeit mit mindestens Note 4,0 (= ausreichend) benoteten Proseminarscheine aus den Priifungsfachern Altes Testament, Neues Testament und Historische Theologie vorzulegen. Kann nur ein unbenoteter oden ein nicht autgrund einer schriftlichen Proseminararbeit benoteter Proseminarschein beigebracht werden, so mu der entsprechende Hauptseminarschein aufgrund einer schriftlichen Seminararbeit benotet sein. (2) Laufende Verfahren werden nach der bisher giiltigen Ordnung abgewickelt. 
+
+. 
+
+. 
+
+(2) Gleichzeitig wird die Ordnung der Universitdt Erlangen-Niirnberg flr den Grad eines Magisters der Theologie vom 8. August 1977(KMB1 II S. 211), gedndert durch Satzung vom 12. November 1981 (KMBI IT 1982 S. 176), aufgehoben. 
+
+~ 17= 
+
+- 17 - 
+
+oe 
+
+: 
+
+Ausgefertigt aufgrund der Beschliisse des Senats der Universitat Erlangen-Ntirnberg vom 19. Mai 1982 und vom. 8. Februar 1984 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht und Kultus Nr. I B 10 - 6/93 231 vom 5. Oktober 1983. 
+
+Erlangen, den.13. Februar 1984 Universtitdat Erlangen-Niirnberg 
+
+. ; 
+
+# 4 Gebi. 
+
+> . 
+
+(Prof. Dr. N. Fiebiger) Praésident 
+
+. 
+
+Diese Satzung wurde am 13. Februar 1984 in der Universitat Erlangen-Niirnberg niedergelegt, die Niederlegung wurde am 13. Februar 1984 durch Anschlag in der Universitdt ErlangenNurnberg bekanntgegeben. Tag der Bekanntmachung ist daher der 13. Februar 1984. 
+
+| 
 

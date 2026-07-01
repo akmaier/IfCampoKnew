@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Januar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/13AES_BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:21:39+00:00
+scraped_at: 2026-07-01T10:39:05+00:00
 page_count_chars: 5322
 ---
 
@@ -12,13 +12,13 @@ page_count_chars: 5322
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/13AES_BA_WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Dreizehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechtsund Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
+# **Dreizehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechtsund Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
 
 Vom 10. Januar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juli 2013, wird wie folgt geändert: 
 
@@ -54,7 +54,7 @@ c) In Satz 6 werden nach den Worten „auf Antrag“ die Worte „der oder“ ei
 
 9. § 17 wird wie folgt geändert: 
 
-a) Abs. 2 wird wie folgt geändert: 
+   - a) Abs. 2 wird wie folgt geändert: 
 
 aa) In Satz 1 wird die Zahl „17“ durch die Zahl „18“ ersetzt. 
 
@@ -76,7 +76,7 @@ aa) In Satz 1 wird die Zahl „17“ durch die Zahl „18“ ersetzt.
 
 13. In § 26 Satz 4 wird die Zahl „3“ durch die Zahl „5“ ersetzt. 
 
-## 14. § 27 wird wie folgt geändert: 
+# 14. § 27 wird wie folgt geändert: 
 
    - a) In Abs. 5 Satz 2 wird das Wort „Bewerberin“ gestrichen und das Wort „Bewerber“ durch das Wort „Studierenden“ ersetzt. 
 
@@ -86,13 +86,13 @@ aa) In Satz 1 wird die Zahl „17“ durch die Zahl „18“ ersetzt.
 
 2 
 
-## 16. **Anlage 1** wird wie folgt geändert: 
+# 16. **Anlage 1** wird wie folgt geändert: 
 
 - a) In der Tabelle in Anlage 1.1 (Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre) Spalte 1 (Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre (BWL)) Zeile 34 (Business Plan Seminar/Planspiel/Fallstudienseminar (alternativ)) werden die Worte „Business Plan Seminar/Planspiel/Fallstudienseminar (alternativ)“ ersetzt durch die Worte „Integriertes Management“. 
 
 - b) In der Tabelle in Anlage 1.3 (Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschaftsinformatik) Spalte 1 (Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschaftsinformatik (WI)) Zeile 34 (Business Plan Seminar/Planspiel/Fallstudienseminar (alternativ)) werden die Worte „Business Plan Seminar/Planspiel/Fallstudienseminar (alternativ)“ ersetzt durch die Worte „Integriertes Management“. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Studierende der Schwerpunkte Betriebswirtschaftslehre und Wirtschaftsinformatik, die das Modul „Business Plan Seminar/Planspiel/Fallstudienseminar bei Inkrafttreten dieser Änderungssatzung bereits begonnen haben, schließen das Modul nach der bisherigen Fassung ab. 
 

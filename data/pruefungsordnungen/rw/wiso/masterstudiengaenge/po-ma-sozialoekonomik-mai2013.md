@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.2009 i.d.F. 24.05.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Sozialoekonomik.MAI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:42:12+00:00
-page_count_chars: 9037
+scraped_at: 2026-07-01T11:06:33+00:00
+page_count_chars: 8989
 ---
 
 # PDF vom 02.09.2009 i.d.F. 24.05.2013
@@ -16,7 +16,7 @@ page_count_chars: 9037
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik - Vom 2. September 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik - Vom 2. September 2009** 
 
 geändert durch Satzungen vom 23. Februar 2010 
 
@@ -30,7 +30,9 @@ geändert durch Satzungen vom 23. Februar 2010
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
-§ 1 Geltungsbereich ........................................................................................................... 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen ......... 1 § 3 Umfang und Gliederung des Masterstudiums, Prüfungen ............................................ 2 § 4 Inkrafttreten, Übergangsvorschriften ............................................................................ 3 Anlage ................................................................................................................................ 4 
+- § 1 Geltungsbereich ........................................................................................................... 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen ......... 1 
+
+§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen ............................................ 2 § 4 Inkrafttreten, Übergangsvorschriften ............................................................................ 3 Anlage ................................................................................................................................ 4 
 
 ## **§ 1 Geltungsbereich** 
 
@@ -38,7 +40,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Bachelorabschluss in Sozialökonomik.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Bachelorabschluss in Sozialökonomik.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
 
 1. insbesondere ein Bachelorabschluss in einem sozialwissenschaftlichen Studiengang, 
 
@@ -66,19 +68,19 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3. Einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung, Sprachkenntnisse, Auslandsaufenthalte (max. 15 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.[ 2] Die Begutachtung erstreckt sich auf die Arbeitsprobe vor dem Hintergrund der in Abs. 3 Nr. 2 aufgeführten Qualifikationskriterien.[ 3] Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.[4] Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung der schriftlichen Arbeitsprobe durch zwei Mitglieder der Zulassungskommission hinsichtlich ihrer besonderen fachlichen Eignung zum Masterstudium Sozialökonomik beurteilt.<sup>2</sup> Die Begutachtung erstreckt sich auf die Arbeitsprobe vor dem Hintergrund der in Abs. 3 Nr. 2 aufgeführten Qualifikationskriterien.<sup>3</sup> Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.<sup>4</sup> Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 (5) Wird der Nachweis des fachspezifischen Praktikums von mindestens sechs Wochen gemäß Abs. 2 Nr. 4 nicht im Rahmen der Bewerbung zum Qualifikationsfeststellungsverfahren erbracht, wird die Ableistung des Praktikums als Auflage entsprechend § 26 Abs. 2 Satz 2 MPOWIWI festgesetzt. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[ 1] Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS-Punkte) vermittelt.[2] Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Umfang von 20 ECTS-Punkten.[3] Im zweiten und dritten Semester wählen die Studierenden Module aus den Angeboten des Fachbereichs, der Fakultät oder des Masterstudiengangs Soziologie der Philosophischen Fakultät und Fachbereich Theologie im Umfang von 10 ECTSPunkten.[4] Die **Masterarbeit Sozialökonomik** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Sozialökonomik (insgesamt 30 ECTSPunkte) zusammen.[5] Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
+(1)<sup>1</sup> Im ersten bis dritten Semester werden theoretische und methodische Grundkenntnisse vertiefend (Pflichtbereich = 60 ECTS-Punkte) vermittelt.<sup>2</sup> Ab dem zweiten Semester wählen die Studierenden vier sozialökonomische Vertiefungsmodule im Umfang von 20 ECTS-Punkten.<sup>3</sup> Im zweiten und dritten Semester wählen die Studierenden Module aus den Angeboten des Fachbereichs, der Fakultät oder des Masterstudiengangs Soziologie der Philosophischen Fakultät und Fachbereich Theologie im Umfang von 10 ECTSPunkten.<sup>4</sup> Die **Masterarbeit Sozialökonomik** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Sozialökonomik (insgesamt 30 ECTSPunkte) zusammen.<sup>5</sup> Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
 2 
 
-(2)[ 1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(2)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
-- (3)[1] Studierende können sich für Schwerpunktbereiche qualifizieren, wenn sie mindes- 
+- (3)<sup>1</sup> Studierende können sich für Schwerpunktbereiche qualifizieren, wenn sie mindes- 
 
 tens 25 ECTS-Punkte aus Modulen in folgenden Studienbereichen erworben haben: 
 
@@ -98,40 +100,40 @@ tens 25 ECTS-Punkte aus Modulen in folgenden Studienbereichen erworben haben:
 
 ## **Anlage: Überblickstabelle Studienverlauf** 
 
-|**Studienplan Master Sozialökonomik**|**Studienplan Master Sozialökonomik**|||||
+|**Studienplan Master Sozialökonomik**||||||
 |---|---|---|---|---|---|
 |||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**Sozialökonomischer Pflichtbereich**|**60**|||||
 |Sozialwissenschaftliche Grundlagen|15|||||
-|Allgemeine Kommunikationswissenschaft<br>Personalpsychologie<br>Soziologische Forschungsprobleme und Forschungsdesigns|5<br>5<br>5|5||||
-|||5||||
-|||5||||
+|Allgemeine Kommunikationswissenschaft|5|5||||
+|Personalpsychologie|5|5||||
+|Soziologische Forschungsprobleme und Forschungsdesigns|5|5||||
 |Methodische Grundlagen|15|||||
-|Ökonometrie I<br>Vertiefung Methoden *<br>AngewandteMethoden *|5<br>5<br>5|5||||
-|||5||||
-||||5|||
+|Ökonometrie I|5|5||||
+|Vertiefung Methoden *|5|5||||
+|AngewandteMethoden *|5||5|||
 |Wirtschaftswissenschaftliche Grundlagen|15|||||
-|Mikroökonomie für Sozialökonomen<br>Spezielle VWL *<br>Spezielle BWL*|5<br>5<br>5|5||||
-||||5|||
-||||5|||
+|Mikroökonomie für Sozialökonomen|5|5||||
+|Spezielle VWL *|5||5|||
+|Spezielle BWL*|5||5|||
 |Sozialökonomisches Projektseminar|**15**|||||
-|Projektseminar I<br>Projektseminar II|5<br>10||5|||
-|||||10||
+|Projektseminar I|5||5|||
+|Projektseminar II|10|||10||
 |**Sozialökonomischer Vertiefungsbereich (4 Module sind zu wählen) ****|**20**|||||
-|Einführung in die Bildungssoziologie<br>Einführung in die Gesundheitssystemforschung<br>Konsumentenverhalten I<br>Kostenträger<br>Marketingtheorie<br>Ökonomie der Sozialpolitik<br>Seminar zur experimentellen Wirtschaftsforschung<br>Seminar zur Wirtschaftssoziologie<br>Spezielle Kommunikationswissenschaft I<br>Theorieseminar zur Wirtschaftspsychologie|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5||5|||
-||||5|||
-||||5|||
-||||5|||
-|||||5||
-||||5|||
-|||||5||
-||||5|||
-||||5|||
-|||||5||
+|Einführung in die Bildungssoziologie|5||5|||
+|Einführung in die Gesundheitssystemforschung|5||5|||
+|Konsumentenverhalten I|5||5|||
+|Kostenträger|5||5|||
+|Marketingtheorie|5|||5||
+|Ökonomie der Sozialpolitik|5||5|||
+|Seminar zur experimentellen Wirtschaftsforschung|5|||5||
+|Seminar zur Wirtschaftssoziologie|5||5|||
+|Spezielle Kommunikationswissenschaft I|5||5|||
+|Theorieseminar zur Wirtschaftspsychologie|5|||5||
 |**Freier Vertiefungsbereich (2 Module sind zu wählen) *****|**10**|||||
-|Modul 1<br>Modul 2|5<br>5||5|||
-|||||5||
+|Modul 1|5||5|||
+|Modul 2|5|||5||
 |**Masterarbeit**|**30**||||30|
 |ECTS|120|30|30|30|30|
 

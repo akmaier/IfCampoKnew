@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Oktober 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AeSa-DPO-Wing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:13+00:00
-page_count_chars: 3155
+scraped_at: 2026-07-01T11:46:25+00:00
+page_count_chars: 3160
 ---
 
 # 9. Oktober 2007
@@ -12,7 +12,7 @@ page_count_chars: 3155
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AeSa-DPO-Wing.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Siebte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Siebte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
 ## Vom 9. Oktober 2007 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaf
 
 2. In § 7 wird folgender Absatz angefügt: 
 
-„(5)[1] In den mit "*)" markierten Fächern richten sich Zahl, Umfang und Form der Teilprüfungen sowie die der jeweiligen Teilprüfung zugeordneten Leistungspunkte nach den Festsetzungen der entsprechenden Module in der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juni 2007; Absatz 7 Satz 2 gilt entsprechend.[2] Der Prüfungsausschuss legt fest, welche Fächer welchen Modulen entsprechen. 3Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht.“ 
+„(5)<sup>1</sup> In den mit "*)" markierten Fächern richten sich Zahl, Umfang und Form der Teilprüfungen sowie die der jeweiligen Teilprüfung zugeordneten Leistungspunkte nach den Festsetzungen der entsprechenden Module in der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juni 2007; Absatz 7 Satz 2 gilt entsprechend.<sup>2</sup> Der Prüfungsausschuss legt fest, welche Fächer welchen Modulen entsprechen. 3Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht.“ 
 
 3. In § 11 Abs. 4 Nr. 3 wird nach dem Wort "Wirtschaftsinformatik" der Klammerzusatz gelöscht. 
 
@@ -40,15 +40,15 @@ a) In Ziff. I Nr. 1 wird die Zahl „180“ durch „*)“ ersetzt.
 
 - „ 
 
-|**II. Wirtschaftswissenschaftliche Fächer **||||
-|---|---|---|---|
-|1. Betriebliches Rechnungswesen für<br>Ingenieure|*)||3|
-|2.Statistik|*)||6|
-|3.  Grundzüge der Betriebswirtschaftslehre|*)||18|
-|4.  Grundzüge der Volkswirtschaftslehre|*)||8|
-|5. Wirtschaftsrecht|*)||6|
-|6. Betriebliche Informationsverarbeitung|*)||5|
-|**Summe**||**46**||
+|**II. Wirtschaftswissenschaftliche Fächer **|||
+|---|---|---|
+|1. Betriebliches Rechnungswesen für<br>Ingenieure|*)|3|
+|2.Statistik|*)|6|
+|3.  Grundzüge der Betriebswirtschaftslehre|*)|18|
+|4.  Grundzüge der Volkswirtschaftslehre|*)|8|
+|5. Wirtschaftsrecht|*)|6|
+|6. Betriebliche Informationsverarbeitung|*)|5|
+|**Summe**||**46**|
 
 „ 
 

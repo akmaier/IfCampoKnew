@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 11.01.1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/StO_IntWirtschEntwicklpolitik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:33:23+00:00
-page_count_chars: 12434
+scraped_at: 2026-07-01T10:59:54+00:00
+page_count_chars: 12443
 ---
 
 # PDF vom 11.01.1999
@@ -270,7 +270,7 @@ Die Fakultät führt die Studienfachberatung durch, auf die durch Aushang hingew
 
 Die Studienordnung tritt am Tag nach ihrer Bekanntmachung in Kraft 
 
-Ausgefertigt aufgrund der Beschlüsse des Senats der Universität Erlangen-Nürnberg vom 29. Juli 1998 und 16. Dezember 1998 und nach Durchführung des in Art. 72 Abs. 3 BayHSchG vorgesehenen Anzeigeverfahrens (Schreiben des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst vom 6. Oktober 1998 Nr. X/5 - 6/120 571[I] ). 
+Ausgefertigt aufgrund der Beschlüsse des Senats der Universität Erlangen-Nürnberg vom 29. Juli 1998 und 16. Dezember 1998 und nach Durchführung des in Art. 72 Abs. 3 BayHSchG vorgesehenen Anzeigeverfahrens (Schreiben des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst vom 6. Oktober 1998 Nr. X/5 - 6/120 571<sup>I</sup> ). 
 
 Erlangen, den 11. Januar 1999 
 

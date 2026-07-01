@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.2009 i.d.F. 18.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Marketing-AUG2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:40:56+00:00
-page_count_chars: 12992
+scraped_at: 2026-07-01T11:05:31+00:00
+page_count_chars: 13003
 ---
 
 # PDF vom 02.09.2009 i.d.F. 18.08.2017
@@ -16,7 +16,7 @@ page_count_chars: 12992
 
 **Hinweis:** Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMarketing – Vom 2. September 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMarketing – Vom 2. September 2009** 
 
 geändert durch Satzungen vom 23. Februar 2010 17. Januar 2011 1. September 2011 24. Februar 2012 28. Juni 2012 9. Januar 2013 24. Mai 2013 18. August 2017 
 
@@ -30,13 +30,13 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang im Rahmen dessen im Umfang von mindestens 10 ECTS-Punkten Kompetenzen im Fach Statistik erworben wurden.[2] Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** wird ein Bachelorabschluss einer Hochschule in einem nicht- 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang im Rahmen dessen im Umfang von mindestens 10 ECTS-Punkten Kompetenzen im Fach Statistik erworben wurden.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** wird ein Bachelorabschluss einer Hochschule in einem nicht- 
 
 1 
 
 wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt. 
 
-(2) Folgende weitere Unterlagen im Sinne der Anlage, Nr. 2.3.3 **MPOWIWI** sind vorzulegen: 
+- (2) Folgende weitere Unterlagen im Sinne der Anlage, Nr. 2.3.3 **MPOWIWI** sind vorzulegen: 
 
 1. Nachweis von an einer Hochschule erworbenen fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in Statistik, 
 
@@ -50,17 +50,17 @@ wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissen
 
 6. Nachweis über das Niveau der Englischkenntnisse. 
 
-(3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage, Nr. 2.3 **MPOWIWI** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage, Nr. 5.1 **MPOWIWI** bewertet: 
+- (3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage, Nr. 2.3 **MPOWIWI** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage, Nr. 5.1 **MPOWIWI** bewertet: 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 60 Punkte), 
 
-1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 60 Punkte), 
-
-2. Einschlägigkeit und Qualität der für den Masterstudiengang Marketing relevanten Statistik und Marketingkenntnisse (max. 25 Punkte), 
+- 2. Einschlägigkeit und Qualität der für den Masterstudiengang Marketing relevanten Statistik und Marketingkenntnisse (max. 25 Punkte), 
 
 3. qualifizierte und außerhalb der Hochschule erworbene Berufserfahrung, insbesondere Praktika oder Berufsausbildung, Englischkenntnisse und qualifizierte Auslandsaufenthalte (max. 15 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 **MPOWIWI** werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.[ 2] Die Begutachtung erstreckt sich auf den Gesamteindruck und insbesondere auf: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 **MPOWIWI** werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.<sup>2</sup> Die Begutachtung erstreckt sich auf den Gesamteindruck und insbesondere auf: 
 
-- Erkennbares Interesse am Fach 
+- 
+
+   - Erkennbares Interesse am Fach 
 
 - Interesse an und Erfahrung mit forschungsorientiertem Arbeiten 
 
@@ -74,70 +74,68 @@ wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissen
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten und in Teilen des zweiten und/oder dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („principles of marketing“ = 30 ECTS-Punkte).[2] Ab dem ersten Semester wählen die Studierenden zwischen zwei Vertiefungsbereichen, “marketing research“ oder „marketing management“ (10 ECTS-Punkte).[3] Im zweiten und dritten Semester wählen die Studierenden Module im Umfang von 50 ECTS-Punkten in beliebiger Zusammensetzung aus 
+(1)<sup>1</sup> Im ersten und in Teilen des zweiten und/oder dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („principles of marketing“ = 30 ECTS-Punkte).<sup>2</sup> Ab dem ersten Semester wählen die Studierenden zwischen zwei Vertiefungsbereichen, “marketing research“ oder „marketing management“ (10 ECTS-Punkte).<sup>3</sup> Im zweiten und dritten Semester wählen die Studierenden Module im Umfang von 50 ECTS-Punkten in beliebiger Zusammensetzung aus 
 
 2 
 
-sechs Modulgruppen (Wahlpflichtbereich gemäß § 4).[4] Studierenden, die den Vertiefungsbereich „marketing research“ gewählt haben, kann im Rahmen des Wahlpflichtbereichs nach § 4 das Studium des Schwerpunkts „data science“ bescheinigt werden, wenn sie mindestens 30 ECTS-Punkte innerhalb der im Modulhandbuch entsprechend gekennzeichneten Modulgruppe „data science“ erworben haben.[5] Die im vierten Semester zu fertigende Masterarbeit (Umfang 30 ECTS-Punkte) muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach Satz 2 haben. 
+sechs Modulgruppen (Wahlpflichtbereich gemäß § 4).<sup>4</sup> Studierenden, die den Vertiefungsbereich „marketing research“ gewählt haben, kann im Rahmen des Wahlpflichtbereichs nach § 4 das Studium des Schwerpunkts „data science“ bescheinigt werden, wenn sie mindestens 30 ECTS-Punkte innerhalb der im Modulhandbuch entsprechend gekennzeichneten Modulgruppe „data science“ erworben haben.<sup>5</sup> Die im vierten Semester zu fertigende Masterarbeit (Umfang 30 ECTS-Punkte) muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach Satz 2 haben. 
 
-(2)[1] Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt, im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 3Satz 1 gilt entsprechend für Module, die im Rahmen der Wahlmöglichkeiten des Masterstudiums bereits gewählt wurden. 
+(2)<sup>1</sup> Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt, im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 3Satz 1 gilt entsprechend für Module, die im Rahmen der Wahlmöglichkeiten des Masterstudiums bereits gewählt wurden. 
 
 (3) Art und Umfang der Prüfungen bestimmen sich nach der **Anlage** und §§ 16 – 18b **MPOWIWI.** 
 
 ## **§ 4 Wahlpflichtbereich** 
 
-(1)[1] Das Qualifikationsziel der im Rahmen des Wahlpflichtbereichs im Umfang von 50 ECTS-Punkten angebotenen Modulgruppen „marketing“, „data science“, „Konsumentenverhalten“, „Statistik“, „management“ und „Interdisziplinäre Module“ liegt darin, den Studierenden zu ermöglichen, sich in einem oder mehreren der genannten Schwerpunktbereiche erstens thematisch zu vertiefen.[2] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Kompetenzen im Marketing geschult, Perspektiven auf angrenzende Themenfelder (z. B. data science, Psychologie, Statistik, Kommunikationswissenschaft, Wirtschaftsinformatik) ausgeweitet sowie Erfahrungen mit unterschiedlichen Methoden und Techniken der Marketing- und Marktforschung gesammelt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
+(1)<sup>1</sup> Das Qualifikationsziel der im Rahmen des Wahlpflichtbereichs im Umfang von 50 ECTS-Punkten angebotenen Modulgruppen „marketing“, „data science“, „Konsumentenverhalten“, „Statistik“, „management“ und „Interdisziplinäre Module“ liegt darin, den Studierenden zu ermöglichen, sich in einem oder mehreren der genannten Schwerpunktbereiche erstens thematisch zu vertiefen.<sup>2</sup> Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Kompetenzen im Marketing geschult, Perspektiven auf angrenzende Themenfelder (z. B. data science, Psychologie, Statistik, Kommunikationswissenschaft, Wirtschaftsinformatik) ausgeweitet sowie Erfahrungen mit unterschiedlichen Methoden und Techniken der Marketing- und Marktforschung gesammelt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur, mündliche Prüfung, Seminararbeit, Präsentation, Fallstudie, Businessplan, Diskussionsbeitrag, Präsentationspapier, Versuchspersonenstunde oder eine Kombination aus diesen.[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur, mündliche Prüfung, Seminararbeit, Präsentation, Fallstudie, Businessplan, Diskussionsbeitrag, Präsentationspapier, Versuchspersonenstunde oder eine Kombination aus diesen.<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(3)[1] Die Wahlpflichtmodule setzen sich in der Regel entweder aus einer Vorlesung (2-4 SWS), aus einem Seminar (2-4 SWS), aus einer Vorlesung (2-4 SWS) und einer Übung (2-4 SWS) oder einem Seminar und einer Übung (2-4 SWS) zusammen. 2Näheres wird im Modulhandbuch geregelt. 
+(3)<sup>1</sup> Die Wahlpflichtmodule setzen sich in der Regel entweder aus einer Vorlesung (2-4 SWS), aus einem Seminar (2-4 SWS), aus einer Vorlesung (2-4 SWS) und einer Übung (2-4 SWS) oder einem Seminar und einer Übung (2-4 SWS) zusammen. 2Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 5 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Marketing“ aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2009/2010 das Masterstudium „Marketing“ aufnehmen. 
 
 3 
 
-(2)[1] Die achte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 Satz 4 auch für diejenigen Studierenden, die bereits nach der bisher gültigen Fassung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing studieren und das Studium ab dem Wintersemester 2016/2017 aufgenommen haben. 
+(2)<sup>1</sup> Die achte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 3 Abs. 1 Satz 4 auch für diejenigen Studierenden, die bereits nach der bisher gültigen Fassung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing studieren und das Studium ab dem Wintersemester 2016/2017 aufgenommen haben. 
 
 4 
 
-## **Anlage** Überblickstabelle Studienverlauf 
+## **<u>Anlage</u>** <u>Überblickstabelle Studienverlauf</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten||Faktor<br>Ab-<br>schluss<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.<br>Sem.|2.|3.|4.|Art und Umfang der Prüfung/Studienleistung||
-|||||||||Sem.|Sem.|Sem.|||
-|**A Pflichtbereich**||||||**30**|||||||
-|Principles of marketingI|Marketingtheorie||||2|5|5||||Klausur(60 Minuten)|1|
-|Principles of marketingII|Produkt- und Preismanagement||1||2|5|5||||Klausur(60 Minuten)und Versuchspersonenstunde|1|
-|Principles of marketing III|Vertriebs- und Kommunikationsmanagement||1||2|5|5||||Klausur (60 Minuten)|1|
-|Principles of marketingIV|Datenanalyse||1||2|5|5||||Klausur(60 Minuten)|1|
-|Principles of marketingV|Datenermittlung ~~**1**~~||2||2|5||5|||Klausur(60 Minuten)|1|
-|**Wahl von 1 aus 3 Modulen**|||||||||||||
-|Principles of marketingVI|Marketingseminar||||4|(5)|||(5)||Seminararbeit|1|
-|Principles of marketingVII|Marketingseminar||||4|(5)|||(5)||Seminararbeit|1|
-|Principles of marketingVIII|Marketingseminar||||4|(5)|||(5)||Seminararbeit|1|
-|**B1 Vertiefungsbereich marketing research – alternativ – mit Schwerpunkt data science – optional2**||||||**(10)**|||||||
-|Ökonometrie|Ökonometrie|2|2|||(5)|(5)||||Klausur(90 Minuten)|1|
-|Panel- und Evaluationsverfahren|Panel- und Evaluationsverfahren|2|1|||(5)|(5)||||Klausur(60 Minuten)|1|
-|**B2 Vertiefungsbereich Marketing Management – alternativ –**||||||**(10)**|||||||
-|**Wahl von 2 aus 4 Modulen**|||||||||||||
-|Advanced marketingmanagement I|Dienstleistungsmarketing||||4|(5)|(5)||||Seminararbeit|1|
-|Advanced marketingmanagement III|Internationales Marketing||||2|(5)|(5)||||Klausur(60 Minuten)|1|
-|Advanced marketing management IV|Strategisches Marketing||||4|(5)||(5)|||schriftliche Arbeit (30 %) und Präsentation (20 %)<br>sowie Strategiekonzept(30 %)und Reflexion(20 %)|1|
-|Advanced marketingmanagement V|Business-to-business marketing||||2|(5)||(5)|||Klausur(60 Minuten)und Fallstudie|1|
-|**C Wahlpflichtbereichgemäß § 43**||||||**50**||25|25||||
-|Modulgruppe marketing|gem. § 4 Abs. 3|||||||0-25|0-25||gem. § 4 Abs. 2|1|
-|Modulgruppe data science|gem. § 4 Abs. 3|||||||0-25|0-25||gem. § 4 Abs. 2|1|
-|Modulgruppe Konsumentenverhalten|gem. § 4 Abs. 3|||||||0-20|0-20||gem. § 4 Abs. 2|1|
-|Modulgruppe Statistik|gem. § 4 Abs. 3|||||||0-25|0-25||gem. § 4 Abs. 2|1|
-|Modulgruppe management|gem. § 4 Abs. 3|||||||0-25|0-25||gem. § 4 Abs. 2|1|
-|Modulgruppe Interdisziplinäre Module|gem. § 4 Abs. 3|||||||0-25|0-25||gem. § 4 Abs. 2|1|
-|**D Masterarbeit**||||||**30**|||||||
-|Masterarbeit|Masterarbeit|||||||||30|Masterarbeit|1|
-|||4|8|0|24||30|30|30|30|||
-|**Summe SWS(min.) und ECTS**||max. 36||||**120**|||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br> <br>|Gesamt<br>ECTS<br>|Workload-Verte<br>in ECTS<br>1.<br>2.|ilung pro S<br>-Punkten<br>3.|emester<br>Art und Umfang der Prüfung/Studienleistung<br>4.|Faktor<br>Ab-<br>schluss|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|S|Sem.<br>Sem.|Sem.|Sem.|note|
+|**A Pflichtbereich**|||**30**|||||
+|Principles of marketingI|Marketingtheorie||2<br>5|5||Klausur(60 Minuten)|1|
+|Principles of marketingII|Produkt- und Preismanagement|1|2<br>5|5||Klausur(60 Minuten)und Versuchspersonenstunde|1|
+|Principles of marketing III|Vertriebs- und Kommunikationsmanagement|1|2<br>5|5||Klausur (60 Minuten)|1|
+|Principles of marketingIV|Datenanalyse|1|2<br>5|5||Klausur(60 Minuten)|1|
+|Principles of marketingV|Datenermittlung <sup>**~~1~~**</sup>|2|2<br>5|5||Klausur(60 Minuten)|1|
+|**Wahl von 1 aus 3 Modulen**||||||||
+|Principles of marketingVI|Marketingseminar||4<br>(5)||(5)|Seminararbeit|1|
+|Principles of marketingVII|Marketingseminar||4<br>(5)||(5)|Seminararbeit|1|
+|Principles of marketingVIII|Marketingseminar||4<br>(5)||(5)|Seminararbeit|1|
+|**B1 Vertiefungsbereich marketing resear**|**ch – alternativ – mit Schwerpunkt data science – optional**<sup>**2**</sup>||**(10)**|||||
+|Ökonometrie|Ökonometrie|2<br>2|(5)|(5)||Klausur(90 Minuten)|1|
+|Panel- und Evaluationsverfahren|Panel- und Evaluationsverfahren|2<br>1|(5)|(5)||Klausur(60 Minuten)|1|
+|**B2 Vertiefungsbereich Marketing Mana**|**gement – alternativ –**||**(10)**|||||
+|**Wahl von 2 aus 4 Modulen**||||||||
+|Advanced marketingmanagement I|Dienstleistungsmarketing||4<br>(5)|(5)||Seminararbeit|1|
+|Advanced marketingmanagement III|Internationales Marketing||2<br>(5)|(5)||Klausur(60 Minuten)|1|
+|Advanced marketing management IV|Strategisches Marketing||4<br>(5)|(5)||schriftliche Arbeit (30 %) und Präsentation (20 %)<br>sowie Strategiekonzept(30 %)und Reflexion(20 %)|1|
+|Advanced marketingmanagement V|Business-to-business marketing||2<br>(5)|(5)||Klausur(60 Minuten)und Fallstudie|1|
+|**C Wahlpflichtbereichgemäß § 4**<sup>**3**</sup>|||**50**|25|25|||
+|Modulgruppe marketing|gem. § 4 Abs. 3|||0-25|0-25|gem. § 4 Abs. 2|1|
+|Modulgruppe data science|gem. § 4 Abs. 3|||0-25|0-25|gem. § 4 Abs. 2|1|
+|Modulgruppe Konsumentenverhalten|gem. § 4 Abs. 3|||0-20|0-20|gem. § 4 Abs. 2|1|
+|Modulgruppe Statistik|gem. § 4 Abs. 3|||0-25|0-25|gem. § 4 Abs. 2|1|
+|Modulgruppe management|gem. § 4 Abs. 3|||0-25|0-25|gem. § 4 Abs. 2|1|
+|Modulgruppe Interdisziplinäre Module|gem. § 4 Abs. 3|||0-25|0-25|gem. § 4 Abs. 2|1|
+|**D Masterarbeit**|||**30**|||||
+|Masterarbeit|Masterarbeit|||||30<br>Masterarbeit|1|
+||**Summe SWS(min.) und ECTS**|4<br>8<br>0<br>max. 36|24<br>**120**|30<br>30|30|30||
 
 1 Falls das Modul Marktforschung Datenermittlung bereits im Bachelorstudium belegt wurde, kann es wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext mit dem Qualifikationsziel des Masterstudiengangs ergibt, nicht nochmals belegt werden. Stattdessen ist das Modul Nichtparametrische statistische Verfahren zu belegen. 
 

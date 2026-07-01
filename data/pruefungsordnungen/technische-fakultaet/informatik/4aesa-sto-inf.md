@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "13. Februar 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AeSa-StO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:30+00:00
-page_count_chars: 2039
+scraped_at: 2026-07-01T11:39:24+00:00
+page_count_chars: 2037
 ---
 
 # 13. Februar 2004
@@ -18,7 +18,7 @@ Vom 13. Februar 2004
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 und Art. 72 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg vom 30. April 1992 (KWMBl II S. 387), zuletzt geändert durch Satzung vom 16. September 2003 (KWMBl II 2004 S. ..........), wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Studienordnung für den Studiengang Informatik der Universität Erlangen-Nü
 
 2. In § 8 Abs. 3 Satz 2 Buchst. d wird nach dem Wort "Elektronik" ein Komma eingefügt und das Wort "Medieninformatik" angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

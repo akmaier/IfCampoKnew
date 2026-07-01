@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20Elite-MA%20AOT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:57:19+00:00
-page_count_chars: 1807
+scraped_at: 2026-07-01T11:20:28+00:00
+page_count_chars: 1800
 ---
 
 # 9. März 2011
@@ -12,13 +12,13 @@ page_count_chars: 1807
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20Elite-MA%20AOT.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+**Dritte Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 2. Oktober 2007, zuletzt geändert durch Satzung vom 11. August 2010, wird wie folgt geändert: 
 
@@ -26,13 +26,13 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 2.  § 47 wird wie folgt geändert: 
 
-   - a)  In Abs. 2 wird die Zahl „8“ durch die Zahl „15“ ersetzt. 
+a)  In Abs. 2 wird die Zahl „8“ durch die Zahl „15“ ersetzt. 
 
-   - b) Abs. 3 Satz 1 erhält folgende Fassung: 
+b) Abs. 3 Satz 1 erhält folgende Fassung: 
 
-„[1] Die Gesamtnote des Masterstudiums berechnet sich aus den Noten der Module M2 bis M11, M13 und M15.“ 
+„<sup>1</sup> Die Gesamtnote des Masterstudiums berechnet sich aus den Noten der Module M2 bis M11, M13 und M15.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium im Elite-Masterstudiengang ab dem Wintersemester 2010/2011 aufnehmen. 
 

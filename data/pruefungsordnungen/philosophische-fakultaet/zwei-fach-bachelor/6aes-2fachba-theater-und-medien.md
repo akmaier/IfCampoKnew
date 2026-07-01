@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Juli 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA Theater und Medien.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:53+00:00
-page_count_chars: 6210
+scraped_at: 2026-07-01T10:31:14+00:00
+page_count_chars: 5848
 ---
 
 # 15. Juli 2016
@@ -12,7 +12,7 @@ page_count_chars: 6210
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA Theater und Medien.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Theater- und Medienwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 15. Juli 2016** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Theater- und Medienwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 15. Juli 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -30,7 +30,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Theater- und Medienwissensch
 
 a) Abs. 1 erhält folgende neue Fassung: 
 
-1Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** .[2] Wird Theater- und Medienwissenschaft als Zweitfach gewählt, gilt Satz 1 mit der Maßgabe, dass das Modul Bachelorarbeit nicht belegt werden muss. 
+1Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** .<sup>2</sup> Wird Theater- und Medienwissenschaft als Zweitfach gewählt, gilt Satz 1 mit der Maßgabe, dass das Modul Bachelorarbeit nicht belegt werden muss. 
 
 b) Abs. 2 bis 4 werden gestrichen; der bisherige Abs. 5 wird zu Abs. 2. 
 
@@ -42,43 +42,39 @@ b) Abs. 2 bis 4 werden gestrichen; der bisherige Abs. 5 wird zu Abs. 2.
 
 1 
 
-## 7. Nach § 7 wird folgende neue Anlage angefügt: 
+# 7. Nach § 7 wird folgende neue Anlage angefügt: 
 
-## „ **Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft** 
+# <u>„</u> **Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft** 
 
-|Modulbezeichnung|||||||Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|SWS||||ECTS||ECTS-Punkten1|||||<br>der Prüfung||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|Grundlagenmodule|||||||||||||||
-|Einführung|Einführung in die Theater- und<br>Medienwissenschaft|2||||5|3||||||Klausur (60 Min.)|0,5|
-||Einführung in das wissenschaft-<br>licheArbeiten||2||||2||||||||
-|Basismodul|Basisseminar Theo/Histo||||2||2,5||||||||
-|Medienwissenschaft|Basisseminar Analyse||||2|5|2,5||||||Klausur (90 Min.)|0,5|
-|Basismodul<br>Theaterwissenschaft|Basisseminar Theo/Histo||||2|5|2,5||||||Hausarbeit (10-12 S.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Thematisches Modul<br>Medienwissenschaft|Proseminar||||2|5||5|||||Referat (30-45 Min.) und Hausarbeit (10-12 S.)|0,5|
-|Thematisches Modul<br>Theaterwissenschaft|Proseminar||||2|5||5|||||Referat (30-45 Min.) und Hausarbeit (10-12 S.)|0,5|
-|Praxis|Übung Technik||2|||5||2|||||Klausur (90 Min.)|0,5|
-||Theorien der Praxis||||2|||3|||||||
-|Aufbaumodule|||||||||||||||
-|Theater- und<br>Mediengeschichte|Mediengeschichte|2||||10|||2,5||||Referat (30-45 Min.) und Hausarbeit (12-15 S.)|0,5|
-||Theatergeschichte|2|||||||2,5||||||
-||Historisches Proseminar||||2|||||5|||||
-|Praxis|Projektseminar||||2||||5||||Portfolioprüfung<br>2 Präsentationen in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) und<br>Vortrag (30-45 Min.))|0|
-||Projektseminar||||||||||||||
-||||||2|10||||5|||||
-||||||||||||||||
-|Vertiefungsmodule|||||||||||||||
-|Theater- und<br>Medienforschung|Forschungsperspektiven|2||||10||||2|||Referat (30-45 Min.) und Hausarbeit (15-20 S.)|1|
-||Arbeitsfelder der Theater- und<br>Medienwissenschaft||||2||||||8||||
-|Praxis|Projektseminar||||2|10|||||5||Portfolioprüfung<br>1 Präsentation in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) oder<br>Vortrag (30-45 Min.)) und Dokumentation (15-20<br>S.)|1|
-||Oberseminar Praxisreflexion||||2|||||||5|||
-|Bachelorarbeit|||||||||||||||
-|Bachelorarbeit|Bachelorarbeit|||||10||||||10|Bachelorarbeit (35-40 S.)|2|
-||Oberseminar Forschungsfragen<br>(fakultativ)||||2||||||||||
-|||8|4||28|70+10|15|15|10|12|13|15|||
-||Summe:|40|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS|ECTS|Work|load-Verteilu<br>ECTS-P|ng pro Semest<br>unkten<sup>1</sup>|er in<br>Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.|2.<br>3.|4.<br>5.|6.||
+|Grundlagenmodule<br>Eifüh|Einführung in die Theater- und<br>Medienwissenschaft|2|5|3|||Kl 60 Mi|05|
+|nrung|Einführung in das wissenschaft-<br>licheArbeiten|2||2|||ausur ( n.)|,|
+|Basismodul|Basisseminar Theo/Histo|2|5|2,5|||Kl 90 Mi|05|
+|Medienwissenschaft|Basisseminar Analyse|2||2,5|||ausur ( n.)|,|
+|Basismodul|Basisseminar Theo/Histo|2||2,5|||||
+|Theaterwissenschaft|Basisseminar Analyse|2|5|2,5|||Hausarbeit (10-12 S.)|0,5|
+|Thematisches Modul<br>Medienwissenschaft|Proseminar|2|5||5||Referat (30-45 Min.) und Hausarbeit (10-12 S.)|0,5|
+|Thematisches Modul<br>Theaterwissenschaft|Proseminar|2|5||5||Referat (30-45 Min.) und Hausarbeit (10-12 S.)|0,5|
+|Praxis|Übung Technik<br>|2<br>|5||2<br>||Klausur (90 Min.)|0,5|
+||Theorien der Praxis|2|||3||||
+|Aufbaumodule|||||||||
+||Mediengeschichte|2|||2,5||||
+|Theater- und<br>Mdihiht|<br>Theatergeschichte|2|10||2,5||Referat (30-45 Min.) und Hausarbeit (12-15 S.)|0,5|
+|eengescce|Historisches Proseminar|2||||5|||
+||Projektseminar|2|||5||Portfolioprüfung||
+|Praxis|Projektseminar|2|10|||5|2 Präsentationen in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) und<br>Vortrag (30-45 Min.))|0|
+|Vertiefungsmodule|||||||||
+||Forschungsperspektiven|2||||2|||
+|Theater- und<br>Medienforschung|<br>Arbeitsfelder der Theater- und<br>Medienwissenschaft|2|10|||8|Referat (30-45 Min.) und Hausarbeit (15-20 S.)|1|
+||Projektseminar|2||||5|Portfolioprüfung||
+|Praxis|<br>Oberseminar Praxisreflexion|2|10||||1 Präsentation in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) oder<br>Vortrag (30-45 Min.)) und Dokumentation (15-20<br> <br>5|1|
+|Bachelorarbeit|||||||S.)||
+||Bachelorarbeit||||||10||
+|Bachelorarbeit|Oberseminar Forschungsfragen|2|10||||Bachelorarbeit (35-40 S.)|2|
+||(fakultativ)||||||||
+||Summe:|8<br>4<br>28<br>40|70+10|15|15<br>10|12<br>13|15||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
 

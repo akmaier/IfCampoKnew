@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Elektrotechnik, Elektronik, Informationstechnik"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:45+00:00
+scraped_at: 2026-07-01T11:33:42+00:00
 ---
 
 # Elektrotechnik, Elektronik, Informationstechnik
@@ -98,7 +98,7 @@ Berufspädagogik Technik für das Lehramt an beruflichen Schulen (s. [Lehramtsst
 
 ### Computational Engineering CE (Rechnergestütztes Ingenieurwesen)
 
-[Computational Engineering CE (Rechnergestütztes Ingenieurwesen) (s. DP Informatik)](#ce)
+[Computational Engineering CE (Rechnergestütztes Ingenieurwesen) (s. DP Informatik)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/#computational-engineering-ce-bachelormaster)
 
 ### Elektrotechnik Diplom
 

@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:47:13+00:00
+scraped_at: 2026-07-01T08:24:01+00:00
 ---
 
 # Katholische Religionslehre (Lehramt)

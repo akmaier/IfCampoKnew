@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.03.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Latein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:13:06+00:00
-page_count_chars: 11802
+scraped_at: 2026-07-01T08:41:24+00:00
+page_count_chars: 12052
 ---
 
 # pdf vom 26.03.2009
@@ -12,7 +12,7 @@ page_count_chars: 11802
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Latein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität ErlangenNürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität ErlangenNürnberg** 
 
 Vom 26. März 2009 
 
@@ -26,7 +26,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des B
 
 **4. Schluss- und Übergangsvorschriften** ................................................................. 5 **§ 7 In-Kraft-Treten** ............................................................................................ 5 
 
-## **1. Allgemeines** 
+### **1. Allgemeines** 
 
 **§ 1 Geltungsbereich** 
 
@@ -36,102 +36,104 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Latein für das Lehramt an Gymnasien im Bereich der Fachwissenschaft die Modulprüfungen in den Basismodulen Lateinische Literaturwissenschaft I und Lateinische Sprachwissenschaft und Sprachpraxis I (zusammen 20 ECTS) erfolgreich abgelegt werden. 
 
-## **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
+### **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
 
-- (1)[1] Das Studium des Faches Latein setzt angemessene Kenntnisse der lateinischen Sprache im Umfang des Latinums voraus.[2] Für Studienanfänger ohne angemessene Sprachkenntnisse werden besondere sprachpraktische Übungen angeboten, die bis zum Beginn des 3. Semesters erfolgreich abgeschlossen sein sollen. 
+- (1)<sup>1</sup> Das Studium des Faches Latein setzt angemessene Kenntnisse der lateinischen Sprache im Umfang des Latinums voraus.<sup>2</sup> Für Studienanfänger ohne angemessene Sprachkenntnisse werden besondere sprachpraktische Übungen angeboten, die bis zum Beginn des 3. Semesters erfolgreich abgeschlossen sein sollen. 
 
-- (2)[1] Im Fach Latein müssen bis zum Beginn des fünften Semesters ausreichende Kenntnisse in Altgriechisch nachgewiesen werden.[2] Der Nachweis kann durch den Spracherwerb in drei aufsteigenden Schuljahren mit der Note mindestens „ausreichend“ oder durch die erfolgreiche Teilnahme an Sprachkursen der Universität im Umfang von mindestens 20 ECTS nachgewiesen werden. 
+- (2)<sup>1</sup> Im Fach Latein müssen bis zum Beginn des fünften Semesters ausreichende Kenntnisse in Altgriechisch nachgewiesen werden.<sup>2</sup> Der Nachweis kann durch den Spracherwerb in drei aufsteigenden Schuljahren mit der Note mindestens „ausreichend“ oder durch die erfolgreiche Teilnahme an Sprachkursen der Universität im Umfang von mindestens 20 ECTS nachgewiesen werden. 
 
 - (3) Zur Zulassung zum Staatsexamen muss gemäß § 72 Abs. 1 Nr. 1 LPO I das Graecum nachgewiesen werden. 
 
-1 
+<mark>1</mark> 
 
-## **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die Schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
+### **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die Schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
+### **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
 - (1) Das Studium im Fach Latein ist in einen Pflichtbereich mit Basis-, Aufbau- und Vertiefungsmodulen und einen Wahlpflichtbereich mit Spezialisierungsmodulen aufgeteilt. 
 
-- (2)[1] In den Studiengängen des Faches Latein sind die aufgeführten Basis-, Aufbauund Vertiefungsmodule obligatorisch.[2] Im Wahlpflichtbereich muss ein Modul aus den Spezialisierungsmodulen Poesie oder Prosa (10 ECTS-Punkte) sowie ein Modul aus den Spezialisierungsmodulen Poetische Gattungen, Gattungen lateinischer Prosa, Latinistische Forschung oder Römische Literaturgeschichte (5 ECTS-Punkte) gewählt werden.[3] Hinzu kommt das obligatorische Modul Examensvorbereitung und, falls Latein erstes Fach ist, das obligatorische Abschlussmodul Schriftliche Hausarbeit. 
+- (2)<sup>1</sup> In den Studiengängen des Faches Latein sind die aufgeführten Basis-, Aufbauund Vertiefungsmodule obligatorisch.<sup>2</sup> Im Wahlpflichtbereich muss ein Modul aus den Spezialisierungsmodulen Poesie oder Prosa (10 ECTS-Punkte) sowie ein Modul aus den Spezialisierungsmodulen Poetische Gattungen, Gattungen lateinischer Prosa, Latinistische Forschung oder Römische Literaturgeschichte (5 ECTS-Punkte) gewählt werden.<sup>3</sup> Hinzu kommt das obligatorische Modul Examensvorbereitung und, falls Latein erstes Fach ist, das obligatorische Abschlussmodul Schriftliche Hausarbeit. 
 
 - (3) Für das Lehramt an Gymnasien werden im Bereich Fachwissenschaft folgende Module im Pflicht- und Wahlpflichtbereich angeboten: 
 
-## **Pflichtbereich:** 
+### **Pflichtbereich:** 
 
-## **Basismodule** 
+### **<u>Basismodule</u>** 
 
 |**Fachsem**.|**Modul**|**SWS**|**ECTS**|**Prüfungs-**<br>**leistung**|
 |---|---|---|---|---|
-||**Basismodul: Lateinische Lite-**<br>**raturwissenschaft I (LIT 1)**|**6**|**10**|**Modulprüfung durch Studien-**<br>**leistungen (unbenotet)**|
+||**Basismodul: Lateinische Lite-**<br>**raturwissenschaft I (LIT 1)**<br>|**6**|**10**|**Modulprüfung durch Studien-**<br>**leistungen (unbenotet)**|
 |1.|Übung: Einführung in die Lateini-<br>sche Philologie|2|2||
-|1. oder 2.|Vorlesung: Lateinische Literatur<br>(Prosa)|2|2|Abschlußklausur (45 Min.)|
+|1. oder 2.|<sup>Vorlesung: Lateinische Literatur</sup><br>(Prosa)|2|2|Abschlußklausur (45 Min.)|
 |2.|Proseminar: Lateinische Literatur<br>(Prosa)|2|6|Referat und Hausarbeit|
-||**Basismodul: Lateinische**<br>**Sprachwissenschaft und**<br>**Sprachpraxis (SPR 1)**|**6**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen (unbenotet)**|
-|1.|Übung: Deutsch-lateinische Ü-<br>bersetzung (Grundlagen 1)|2|2||
-|2.|Übung: Deutsch-lateinische Ü-<br>bersetzung (Grundlagen 2)|2|4|Abschlußklausur (90 Min.)|
+||**Basismodul: Lateinische**<br>**Sprachwissenschaft und**<br>**Sprachpraxis (SPR 1)**<br>|**6**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen (unbenotet)**|
+|1.|Übung: Deutsch-lateinische Ü-<br>bersetzung (Grundlagen 1)<br>|2|2||
+|2.|Übung: Deutsch-lateinische Ü-<br>bersetzung (Grundlagen 2)<br>|2|4|Abschlußklausur (90 Min.)|
 |1.und<br>oder 2.|Übung: Lateinisch-deutsche Ü-<br>bersetzung (Grundlagen)|2|4|Abschlußklausur (90 Min.)|
-||<br>**Basismodul: Altertumswissen-**<br>**schaft für Latinisten (AWS 1)**|**4**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen**|
+||**Basismodul: Altertumswissen-**<br>**schaft für Latinisten (AWS 1)**<br>|**4**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen**|
 |1./2. oder<br>3./4.|Vorlesung / Übung Alte Ge-<br>schichte|2|6*|nach Maßgabe des Faches Alte<br>Geschichte|
 |1./2. oder<br>3./4.|Vorlesung / Übung Klassische<br>Archäologie|2|2**|nach Maßgabe des Faches<br>Klassische Archäologie|
 |1./2. oder<br>3./4.|Exkursion mit Vorbereitungskurs|2|4|Referat (45 Min.)|
-|*Davon aus Alter Geschichte und Archäologie zus<br>** dabei mindestens 2 aus Archäologie||ammen 6|Punkte,||
+|*Dav|on aus Alter Geschichte und Archäologie zus|ammen 6|Punkte,||
 
-2 
+** dabei mindestens 2 aus Archäologie 
 
-## **Aufbaumodule** 
+<mark>2</mark> 
+
+### **<u>Aufbaumodule</u>** 
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
 ||**Aufbaumodul: Lateinische Lite-**<br>**raturwissenschaft II (LIT 2)**|**6**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen**|
-|3. oder 4.|Vorlesung: Lateinische Literatur<br>(Poesie)|2|2|Klausur (45 Min.)|
-|3. oder 4.|Proseminar: Lateinische Literatur<br>(Poesie)|2|4|Referat (45 Min.)|
+|3. oder 4.|<sup>Vorlesung: Lateinische Literatur</sup><br>(Poesie)|2|2|Klausur (45 Min.)|
+|3. oder 4.|<sup>Proseminar: Lateinische Literatur</sup><br>(Poesie)|2|4|Referat (45 Min.)|
 |3. oder 4.|Proseminar: Epochen der lateini-<br>schen Literatur (dieses Prosemi-<br>nar kann auch aus dem Bereich<br>Mittel- und Neulateinische Philo-<br>logie gewähltwerden)|2|4|Referat (45 Min.) bzw. Prüfung<br>nach Maßgabe des Faches<br>Mittel und Neulateinische<br>Philologie|
 ||**Aufbaumodul: Lateinische**<br>**Sprachwissenschaft und**<br>**Sprachpraxis II (SPR 2)**|**6**|**10**|**Modulprüfung durch Teilprü-**<br>**fungen**|
 |3. und<br>oder 4.|Übung: Kursorische Lektüre|2|2||
 |3.und<br>oder 4.|Übung: Deutsch-lateinische Ü-<br>bersetzung (Aufbau)|2|4|Abschlußklausur (90 Min.)|
 |3.und<br>oder 4.|Übung: Lateinisch-deutsche Ü-<br>bersetzung (Aufbau)|2|4|Abschlußklausur (90 Min.)|
 
-## **Vertiefungsmodule** 
-
-|**Fachsem.**|<br>**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
-|---|---|---|---|---|
-||**Vertiefungsmodul: Lateinische**<br>**Literaturwissenschaft III (LIT 3)**|**6**|**10**|**Modulprüfung durch Teilprüf-**<br>**ungen**|
-|5. oder 6.|Übung: Praxis und Methodik der<br>lateinischen Interpretation|2|2||
-|5. oder 6.|Seminar: Lateinische Literatur<br>und Sprache|2|6|Hausarbeit|
-|5. oder 6.|Vorlesung / Übung: Gräzistik|2|2|Prüfungsleistungen nach Maß<br>gabe des Faches Griechische<br>Philologie|
-||**Vertiefungsmodul: Lateinische**<br>**Sprachwissenschaft und**<br>**Sprachpraxis III (SPR 3)**|**6**|**10**|**Modulprüfung durch Teilprüf-**<br>**ungen**|
-||Übung: Sprachwissenschaftliche<br>Theorie (Prosodie und Metrik)|2|2|Abschlußklausur (45 Min.)|
-||Übung: Deutsch-lateinische Ü-<br>bersetzung (Vertiefung)|2|4|Abschlußklausur (90 Min.)|
-||Übung: Lateinisch-deutsche Ü-<br>bersetzung (Vertiefung)|2|4|Abschlußklausur (90 Min.)|
-
-## **Pflichtbereich für Latein als erstes Fach:** 
-
-## **Abschlussmodul** 
+### **<u>Vertiefungsmodule</u>** 
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-||||||
+||**Vertiefungsmodul: Lateinische**<br>**Literaturwissenschaft III (LIT 3)**<br>|**6**|**10**|**Modulprüfung durch Teilprüf-**<br>**ungen**|
+|5. oder 6.|<sup>Übung: Praxis und Methodik der</sup><br>lateinischen Interpretation|2|2||
+|5. oder 6.|<sup>Seminar: Lateinische Literatur</sup><br>und Sprache|2|6|Hausarbeit|
+|||||Prüfungsleistungen nach Maß|
+|5. oder 6.|Vorlesung / Übung: Gräzistik|2|2|gabe des Faches Griechische<br>Philologie|
+||**Vertiefungsmodul: Lateinische**<br>**Sprachwissenschaft und**<br>**Sprachpraxis III (SPR 3)**<br>|**6**|**10**|**Modulprüfung durch Teilprüf-**<br>**ungen**|
+||Übung: Sprachwissenschaftliche<br>Theorie (Prosodie und Metrik)<br>|2|2|Abschlußklausur (45 Min.)|
+||Übung: Deutsch-lateinische Ü-<br>bersetzung (Vertiefung)<br>|2|4|Abschlußklausur (90 Min.)|
+||Übung: Lateinisch-deutsche Ü-<br>bersetzung (Vertiefung)|2|4|Abschlußklausur (90 Min.)|
+
+### **Pflichtbereich für Latein als erstes Fach:** 
+
+### **<u>Abschlussmodul</u>** 
+
+|**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
+|---|---|---|---|---|
 ||**Abschlussmodul Schriftliche**<br>**Hausarbeit**||**10**||
 |6.|Schriftliche Hausarbeit||10||
 
-## **Wahlpflichtbereich 1:** 
+### **<u>Wahlpflichtbereich 1:</u>** 
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
 ||**Spezialisierungsmodul: Poesie**|**4**|**10**|**Prüfungsleistung aus dem HS**|
-|7. und /<br>oder 8. FS|Vorlesung: Poesie|2|2||
+|7. und /<br>oder 8. FS|<sup>Vorlesung: Poesie</sup>|2|2||
 |7. und /<br>oder 8.|Hauptseminar: Poesie|2|8||
 
-3 
+<mark>3</mark> 
 
-||**Spezialisierungsmodul: Prosa**|**4**|**10**|**Prüfungsleistung aus dem HS**|
-|---|---|---|---|---|
-|7. und<br>/oder 8.|Vorlesung: Prosa|2|2||
-|7. und /<br>oder 8.|Hauptseminar: Prosa|2|8||
+||**Spezialisierungsmodul: Prosa**|**4**<br>**10**|**Prüfungsleistung aus dem HS**|
+|---|---|---|---|
+|7. und<br>/oder 8.|Vorlesung: Prosa|2<br>2||
+|7. und /<br>oder 8.|Hauptseminar: Prosa|2<br>8||
 
-## **Wahlpflichtbereich 2:** 
+### **<u>Wahlpflichtbereich 2:</u>** 
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
@@ -145,46 +147,40 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Latein f�
 |7./8. oder<br>8./9. FS|Forschungskolloquium|1|2||
 |7./8. oder<br>8./9.|Selbststudium nach Lektüre-<br>kanon mit Konsultationen|1|3||
 ||**Spezialisierungsmodul:  Römi-**<br>**sche Literaturgeschichte**|**3**|**5**|**Prüfungsleistung aus Teilprü-**<br>**fungen**|
-||||||
-||||||
 ||Kolloquium zur Literaturgeschich-<br>te|2|2||
-||||||
-||||||
 ||Selbststudium nach Lektüreka-<br>non mit Konsultationen|1|3||
-||||||
-||||||
 
-## **Pflichtmodul: Examensvorbereitung** 
+### **<u>Pflichtmodul: Examensvorbereitung</u>** 
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
 ||**Examensvorbereitung**|**6**|**10**||
-|8. oder 9.|Examenskurs zur Klausurvorbe-<br>reitung|2|2||
-|8. oder 9.|Übung Interpretation|2|4||
+|8. oder 9.<br>|<sup>Examenskurs zur Klausurvorbe-</sup><br>reitung<br>|2|2||
+|8. oder 9.<br>|Übung Interpretation<br>|2|4||
 |8. oder 9.|Übung Texterstellung|2|4||
 
-## (4) Im Bereich Fachdidaktik werden folgende Module angeboten: 
+### <u>(4) Im Bereich Fachdidaktik werden folgende Module angeboten:</u> 
 
 ||**Modul **|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-|<br>|**Basismodul: Lateinische Fach-**<br>**didaktik I(FD 1)**|**2**|**5**|**Modulabschlußprüfung (30 Min)**|
-|1./2. oder<br>3./4. oder<br>5./6. FS<br> <br>|Proseminar: Lateinische Fachdi-<br>daktik I|2|3|Referat|
-|<br>|Selbststudium (Lektürekanon<br>Fachdidaktik I mit Konsultationen)||2||
-|<br>|**Vertiefungsmodul: Lateinische**<br>**Fachdidaktik II(FD 2)**|**2**|**5**|**Modulabschlußprüfung (30 Min)**|
-|<br>|Proseminar: Lateinische Fachdi-<br>daktik II|2|3||
-|<br>|Selbststudium (Lektürekanon<br>Fachdidaktik II mit Konsultationen)|2|2|Referat|
+||**Basismodul: Lateinische Fach-**<br>**didaktik I(FD 1)**|**2**|**5**|**Modulabschlußprüfung (30 Min)**|
+|1./2. oder<br>3./4. oder<br>5./6. FS|Proseminar: Lateinische Fachdi-<br>daktik I|2|3|Referat|
+||Selbststudium (Lektürekanon<br>Fachdidaktik I mit Konsultationen)||2||
+||**Vertiefungsmodul: Lateinische**<br>**Fachdidaktik II(FD 2)**|**2**|**5**|**Modulabschlußprüfung (30 Min)**|
+||Proseminar: Lateinische Fachdi-<br>daktik II|2|3||
+||Selbststudium (Lektürekanon<br>Fachdidaktik II mit Konsultationen)|2|2|Referat|
 
 Das Basismodul Lateinische Fachdidaktik I soll in den ersten sechs Semestern des Studiums, das Vertiefungsmodul Lateinische Fachdidaktik II danach besucht werden. 
 
-4 
+<mark>4</mark> 
 
-## **3. Bachelorabschluss im Rahmen des Studiums des Lehramts für Gymnasien** 
+### **3. Bachelorabschluss im Rahmen des Studiums des Lehramts für Gymnasien** 
 
 **§ 6 Bachelorabschluss** Für den Bachelorabschluss sind im Rahmen des Studiums für das Lehramt an Gymnasien alle Pflicht-, Aufbau- und Vertiefungsmodule nachzuweisen. 
 
-## **4. Schluss- und Übergangsvorschriften** 
+### **4. Schluss- und Übergangsvorschriften** 
 
-## **§ 7 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+### **§ 7 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 17. Oktober 2007 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 19. Januar 2009 Nr. III.8 - 5 S 4067 - PRA130272. 
 
@@ -192,5 +188,5 @@ Erlangen, den 26. März 2009
 [Kontaktperson entfernt]
 Die Satzung wurde am 26. März 2009 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 26. März 2009 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 26. März 2009. 
 
-5 
+<mark>5</mark> 
 

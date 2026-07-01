@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Dezember 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES-StO-Rechtswissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:39+00:00
+scraped_at: 2026-07-01T10:33:47+00:00
 page_count_chars: 2316
 ---
 
@@ -12,13 +12,13 @@ page_count_chars: 2316
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES-StO-Rechtswissenschaft.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-**Vierte Satzung zur Änderung der Studienordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung** 
+# **Vierte Satzung zur Änderung der Studienordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung** 
 
-## Vom 5. Dezember 2012 
+# Vom 5. Dezember 2012 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung vom 10. September 2004 (KWMBl II S. 2914), zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -44,13 +44,13 @@ aa) Nr. 1 erhält folgende Fassung:
 
 bb) In Nrn. 2 a) und b) sowie 3 a) und b) werden die Worte „Grundkurs I“ und „Grundkurs II“ sowie die Klammern um die jeweils verbleibenden Worte gestrichen. 
 
-   - b) Abs. 3 Satz 4 erhält folgende Fassung: 
+b) Abs. 3 Satz 4 erhält folgende Fassung: 
 
-      - „[4] Im Zivilrecht werden abweichend von Satz 1 Abschlussklausuren in den Veranstaltungen nach Abs. 2 Nr. 1 Buchst. c) und d) gestellt, die sich jeweils auch auf den Stoff der Veranstaltungen nach Abs. 2 Nr. 1 Buchst. a) und b) beziehen, außerdem im Sachenrecht sowie eine gemeinsame Abschlussklausur im Familienund Erbrecht.“ 
+   - „<sup>4</sup> Im Zivilrecht werden abweichend von Satz 1 Abschlussklausuren in den Veranstaltungen nach Abs. 2 Nr. 1 Buchst. c) und d) gestellt, die sich jeweils auch auf den Stoff der Veranstaltungen nach Abs. 2 Nr. 1 Buchst. a) und b) beziehen, außerdem im Sachenrecht sowie eine gemeinsame Abschlussklausur im Familienund Erbrecht.“ 
 
 2. In § 9 Abs. 2 Nr. 3 Buchst. a) wird der Passus „a) bis d)“ durch den Passus „c) bis f) ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Sommersemester 2013 aufnehmen. 
 

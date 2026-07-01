@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachbereich Theologie, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-scraped_at: 2026-05-01T06:47:57+00:00
+scraped_at: 2026-07-01T08:24:51+00:00
 ---
 
 # Lehramt an Realschulen (Lehramt)

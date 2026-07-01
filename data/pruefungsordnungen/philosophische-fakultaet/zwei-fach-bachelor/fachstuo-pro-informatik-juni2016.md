@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.07.2008 i.d.F. 02.06.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Informatik.JUNI2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:26+00:00
-page_count_chars: 8017
+scraped_at: 2026-07-01T10:21:18+00:00
+page_count_chars: 7504
 ---
 
 # PDF vom 22.07.2008 i.d.F. 02.06.2016
@@ -16,7 +16,7 @@ page_count_chars: 8017
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Digitale Geistes- und Sozialwissenschaften im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Juli 2008** 
+# **Fachstudien- und Prüfungsordnung für das Fach Digitale Geistes- und Sozialwissenschaften im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Juli 2008** 
 
 geändert durch Satzungen vom 1. September 2009 
 
@@ -46,7 +46,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Digitale Geistes- und Sozialwissenschaften kann im Bachelorstudiengang nur als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Digitale Geistes- und Sozialwissenschaften erwerben die Studierenden grundlegende Fachkenntnisse auf dem Gebiet der Digitalen Geistes- und Sozialwissenschaften, einschließlich der entsprechenden Methoden und informationstechnologischen Grundlagen.[2] Durch die Verbindung von wesentlichen Grundkenntnissen der Digitalen Geistes- und Sozialwissenschaften werden in Kombination mit einem Erstfach die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
+(2)<sup>1</sup> Im Fach Digitale Geistes- und Sozialwissenschaften erwerben die Studierenden grundlegende Fachkenntnisse auf dem Gebiet der Digitalen Geistes- und Sozialwissenschaften, einschließlich der entsprechenden Methoden und informationstechnologischen Grundlagen.<sup>2</sup> Durch die Verbindung von wesentlichen Grundkenntnissen der Digitalen Geistes- und Sozialwissenschaften werden in Kombination mit einem Erstfach die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
 
 1 
 
@@ -54,7 +54,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -72,37 +72,35 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2008 in Kraft.
 
 ## **Anlage: Studienverlaufsplan Zwei-Fach-Bachelor „Digitale Geistes- und Sozialwissenschaften“** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|||Gesamt<br>ECTS|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Grundlagen der Informatik**|Grundlagen der Informatik|3||||7,5|2,5||||||nach FPO Informatik<br>BA/MA|1|
-||Grundlagen der Informatik||3||||5||||||||
-|**Konzeptionelle Modellierung**|KonzeptionelleModellierung|2||||5|2,5||||||nach FPO LA Informatik|1|
-||KonzeptionelleModellierung||2||||2,5||||||||
-|**Mathematik**|Mathematik für Naturwissen-<br>schaftler|4||||5||5|||||nach FPO LA Informatik|1|
-|**Theoretische Informatik**|Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramt|2||||5||2,5|||||nach FPO LA Informatik|1|
-||Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramt||2|||||2,5|||||||
-|**Grundlagen der Logik in der**<br>**Informatik**|Grundlagen der Logik und<br>Logikprogrammierung|2||||5|||2,5||||nach FPO Informatik<br>BA/MA|1|
-||Grundlagen der Logik und<br>Logikprogrammierung||2||||||2,5||||||
-|**Mathematische Modellbildung**<br>**und Statistik**|Mathematische Modellbil-<br>dung und Statistik für Natur-<br>wissenschaftler|3||||5|||2,5||||nach FPO LA Informatik|1|
-||Mathematische Modellbil-<br>dung und Statistik für Natur-<br>wissenschaftler||1||||||2,5||||||
-|**Kernmodul 1: Einführung in die**<br>**Digitalen Geistes- und Sozial-**<br>**wissenschaften**|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften|2||||5|2,5||||||Portfolio (ca. 15 Seiten)1|1|
-||Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften||2||||2,5||||||||
-|**Kernmodul 2: Nutzung digitaler**<br>**Daten in den Geistes- und So-**<br>**zialwissenschaften**|Vorlesung|2||||5||2,5|||||Klausur (90 Min.)|1|
-||Übung||2|||||2,5|||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS||Gesamt<br>ECTS|Wor<br>pro Seme|kload-Verteilung<br>ster in ECTS-Punkten|Art und Umfang der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P<br>S||1.<br>2.|3.<br>4.<br>5.<br>6.||note|
+|**Grundlagen der Informatik**|Grundlagen der Informatik|3||75|2,5||nach FPO Informatik<br>|1|
+||Grundlagen der Informatik||3|,|5||BA/MA||
+|**Konzeptionelle Modellierung**|KonzeptionelleModellierung<br>KonzeptionelleModellierung|2|2|5|2,5<br>2,5||nach FPO LA Informatik|1|
+|**Mathematik**|Mathematik für Naturwissen-<br>schaftler|4||5|5||nach FPO LA Informatik|1|
+||Theoretische Informatik für<br>Wirtschaftsinformatik und<br>|2|||2,5||||
+|**Thtih Iftik**|Lehramt|||5|||h FPO LA Iftik|1|
+|**eoresce norma**|Theoretische Informatik für<br>Wirtschaftsinformatik und<br>Lehramt||2||2,5||nac   norma||
+|**Grundlagen der Logik in der**|Grundlagen der Logik und<br>Logikprogrammierung|2||5||2,5|nach FPO Informatik|1|
+|**Informatik**|Grundlagen der Logik und<br>Logikprogrammierung||2|||2,5|BA/MA||
+|**Mathematische Modellbildung**|Mathematische Modellbil-<br>dung und Statistik für Natur-<br>wissenschaftler|3||5||2,5|nach FPO LA Informatik|1|
+|**und Statistik**|Mathematische Modellbil-<br>dung und Statistik für Natur-<br>wissenschaftler||1|||2,5|||
+|**Kernmodul 1: Einführung in die**<br>**Diitl Git d Sil**|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften|2||5|2,5||Ptfli  15 Sit<sup>1</sup>|1|
+|**gaen eses- un oza-**<br>**wissenschaften**|Einführung in die Digitalen<br>Geistes- und Sozialwissen-<br>schaften||2||2,5||oroo (ca.  een)||
+|**Kernmodul 2: Nutzung digitaler**|Vorlesung|2|||2,5||||
+|**Daten in den Geistes- und So-**||||5|||Klausur (90 Min.)|1|
+|**zialwissenschaften**|Übung||2||2,5||||
 
 3 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Workload-Verteilung<br>pro Semester in ECTS-Punkten|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Kernmodul 3: Wissenschaft**<br>**und Gesellschaft im digitalen**<br>**Zeitalter**|Vorlesung|2||||5|||2,5||||Portfolio (ca. 15 Seiten)1|1|
-||Übung||2||||||2,5||||||
-|**Praxismodul**|||||1|12,5|||||12,5||Praktische Arbeit mit<br>Dokumentation oder<br>Praktikumsbericht (ca.<br>20 Seiten)|1|
-|**Wahlpflichtbereich: Digitale**<br>**Geistes- und Sozialwissen-**<br>**schaften in Theorie und**<br>**Praxis2**||gesamt:<br>4-8||||10||||5||5|Nach Maßgabe des ge-<br>wählten Moduls2|1|
-|**Summe:**||22|16|0|1|70|17,5|15|15|5|12,5|5|||
-|||39<br>|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V|<br>Ü<br>P<br>S|Gesamt<br>ECTS|pr<br>1.|Wor<br>o Seme<br>2.|kload-Vertei<br>ster in ECTS<br>3.<br>4.|lung<br> -Punkten<br>5.<br>6.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Kernmodul 3: Wissenschaft**<br>**d Gllhft i diitl**|Vorlesung|2||5|||2,5||Ptfli  15 Sit<sup>1</sup>|1|
+|**un esesca m gaen**<br>**Zeitalter**|Übung||2||||2,5||oroo (ca.  een)||
+|**Praxismodul**|||1|12,5||||12,5|Praktische Arbeit mit<br>Dokumentation oder<br>Praktikumsbericht (ca.<br>20 Seiten)|1|
+|**Wahlpflichtbereich: Digitale**<br>**Geistes- und Sozialwissen-**<br>**schaften in Theorie und**<br>**Praxis**<sup>**2**</sup>||gesa<br>4-8|mt:|10|||5|5|Nach Maßgabe des ge-<br>wählten Moduls<sup>2</sup>|1|
+|**Summe:**<br>||22<br>39<br>|16<br>0<br>1<br>|70<br>|17,5<br>|15<br>|15<br>5<br>|12,5<br>5<br>|||
 
 - ~~1~~ Das Portfolio beinhaltet im gegenseitigen Zusammenhang stehende unselbständige Leistungen (Teilleistungen, wie z.B. regelmäßige Übungsaufgaben, Protokolle, Essays) zur Umsetzung einer einheitlichen Aufgabenstellung, die mit einer Note bewertet wird, die sich aus dem arithmetischen Mittel gewichtet errechnet. 
 

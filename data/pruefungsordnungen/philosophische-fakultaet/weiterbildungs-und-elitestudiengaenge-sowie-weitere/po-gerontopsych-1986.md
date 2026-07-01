@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.06.1986"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/FW-Urfassungen/PO-Gerontopsych-1986.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:30+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:13:31+00:00
+page_count_chars: 33710
 ---
 
 # PDF vom 20.06.1986
@@ -12,2272 +12,522 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/FW-Urfassungen/PO-Gerontopsych-1986.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+. 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Priifungsordnung fiir das Aufbaustudium Gerontopsychologie an der Universitat Erlangen-Niirnberg Vom 20, Juni 1986 AufgrundBayerischenvon HocnschulgesetzesArt. 5 und Art. 70und Abs.des 1 des§ 47 Abs. 1 der. Qualifikationsverordnung -QualV- (BayRS 2210-1-1-3-K) erld8t die Universitat Erlangen-Nirnberg folgende Prufungsordnung: . 
 
-### OCR Seite 1
+### 1.Allgemeine Bestimmungen 
 
-```
-Prüfungsordnung für das
-Aufbaustudium Gerontopsychologie
-an der Universität Erlangen-Nürnberg
-Vom 20,
-Juni
-1986
-Aufgrund von Art.
-5 und Art.
-70 Abs.
-1
-des
-.
-Bayerischen
-Hochschulgesetzes
-und
-des
-$
-47
-Abs.
-1
-der
-Qualifikationsverordnung
--QualV- (BayRS 2210-1-1-3-K) erläßt
-die
-Universität
-Erlangen-Nürnberg
-folgende
-Prüfungsordnung:
-1.Allgemeine Bestimmungen
-&
-1 Zweck der Prüfung
-Durch die Prüfung soll der Kandidat nachweisen, daß er
-durch
-das
-Aufbaustudium
-Gerontopsychologie
-Über
-sein
-Fachstudium
-hinaus
-”
-besondere
-Kenntnisse
-auf
-dem
-Gebiet - der
-Gerontopsychologie
-erworben hat und damit das Ziel
-des Studiums erreicht hat.
-$ 2 Qualifikation
-en
-(1) Die
-Qualifikation
-für
-das
-Aufbaustudium
-Geronto-
-u
-psychologie wird nachgewiesen durch:
-j
-Zu
-l.
-das
-Diplom
-in Psychologie (an
-einer
-wissenschaftlichen
-SE
-Hochschule erworben),
-zn
-2.
-ein abgeschiossenes
-Psychologie-Studium ohne Diplom (z.B.
-2:
-rromotion, Staatsexamen) sowie
-a
-3. ein anderes abgeschlossenes Studium an
-einer wissenschaft-
-| 3
-!ichen Hochschule, das einen ausgeprägten fachlichen Bezug zum
-ES
-studium der Psychologie oder Gerontopsychologie erkennen läßt.
-ER
-(2) 0b
-die
-Voraussetzungen nach Absatz 1
-Nrn.2
-u.
-3
-gegeben
-e:
-s’nd,
-steilt
-der
-Prüfungsausschuß
-(8
-4).
-auf
-Antrag
-des
-En
-Studienbewerbers in einem schriftlichen Bescheid fest, der bei
-Fi
-der.
-Immatrikulation
-vorzulegen ist;
-8 4 Abs.
-7
-gilt
-ent-
-2
-sprechend.
-=
-$
-3
- Studiendauer, Prüfungen
-{1} Die Studienzeit einschließlich Prüfungszeit beträgt im
-Regel-
-"fall
-4
-Fachsemester.
-(Z) Die Meldung zur Prüfung kann
-frühestens
-nach
-dem
-Ende
-der
-Vorlesungszeit des dritten Fachsemesters erfolgen.
-2
--|
-1
-|
-```
+### § 1 Zweck der Priifung 
 
-### OCR Seite 2
+Durch die Priifung soll der Kandidat nachweisen, daB er durch das Aufbaustudium Gerontopsychologie liber sein Fachstudium hinaus besondere Kenntnisse auf dem Gebiet der Gerontopsychologie erworben hat und damit das Ziel des Studiums erreicht hat. 
 
-```
-(3) Der
-Kandidat
-soll
-sich so rechtzeitig zur Prüfung
-anmelden,
-daß
-er sie
-bis
-zum
-Beginn
-der Vorlesungszeit des
-fünften
-Semesters ablegen kann.
-Meldet er sich nicht
-spätestens
-bis
-zum
-Ende
-des sechsten Fachsemesters zur Prüfung oder legt er
-bis dahin die Prüfung nicht ab,
-so gilt sie als erstmals nicht
-bestanden,
-es.
-sei denn der Kandidat hat die Gründe nicht
-zu
-vertreten.
-Strebt der Kandidat die Promotion mit einer Arbeit
-an,
-die
-anstelle der Hausarbeit gemäß
-$
-19 Abs.
-6
-für
-das
-Aufbaustudium
-Gerontopsychologie eingereicht werden soll,
-so
-kann
-auf
-Antrag des Kandidaten die
-Meldefrist
-zur
-Prüfung
-durch den Prüfungsausschuß verlängert werden.
-Dem
-Antrag ist
-eine Bestätigung des Betreuers der Dissertation über das Thema
-der
-Dissertation
-und den vorausichtlichen Zeitpunkt des
-Ab-
-schlusses der Promotion beizufügen,
-(4) Die Prüfungstermine
-und
-Meldefristen
-werden
-durch "Aushang
-bekanntgegeben.
-& 4 Prüfungsausschuß
-(1) Für die Organisation und die
-Durchführung
-der
-Prüfungen
-im
-Aufbaustudium
-Gerontopsychologie wird vom Fachbereichsrat der
-Erziehungswissenschaftlichen
-Fakultät
-ein
-Prüfungsausschuß
-.n.
-gebildet.
-Der
-Ausschuß
-ist
-für
-alle
-Entscheidungen
-im
-Prüfungsverfahren zuständig,
-soweit in dieser Prüfungsordnung
-Be
-oder
-in
-anderen
-gesetzlichen
-Vorschriften
-nichts
-anderes
-=
-bestimmt ist.
-Die Amtszeit der Mitglieder beträgt drei
-Jahre;
-E
-eine Wiederbestellung ist möglich.
-wi
-(2) Dem
-Prüfungsausschuß
-gehören
-fünf
-Mitglieder
-an:
-Drei
-Br
-Mitglieder
-aus dem Bereich der Psychologie sowie ein Mitglied
-=
-aus dem Bereich der Medizin und ein Mitglied aus
-den
-anderen
-on
-am
-Aufbaustudiengang
-Gerontopsychologie beteiligten Fächern.
-Wenigstens ein Mitglied des Prüfungsausschusses muß
-Professor
-a
-der Psychologie, die übrigen Mitglieder müssen Hochschullehrer
-im
-Sinne des Art.
-2 Abs.
-3 des Bayerischen Hochschullehrer-
-gesetzes sein.
-Der Prüfungsauschuß wählt einen Professor
-der
-i
-Psychologie zum Vorsitzenden, ferner ein weiteres Mitglied des
-Prüfungsausschusses zum Stellvertreter.
-(3) Der Prüfungsausschuß achtet darauf, daß die
-Bestimmungen
-der
-Prüfungsordnung eingehalten werden.
-:
-(4) Der Prüfungsausschuß ist beschlußfähig,
-wenn
-sämtliche
-Mit-
-glieder
-ordnungsgemäß
-unter
-Einhaltung
-einer
-mindestens
-.
-3-tägigen Ladungsfrist
-geladen
-sind
-und
-die
-Mehrheit
-der
-2
-Mitglieder
-anwesend
-und
-stimmberechtigt ist.
-Er beschließt
-mit der Mehrheit der abgegebenen Stimmen.
-Bei
-Stimmengleich-
-heit
-gibt
-die
-Stimme
-des
-Vorsitzenden
-den
-Ausschlag.
-Stimmenthaltung,
-geheime
-Abstimmung
-und
-Stimmrechtsübertra-
-gung sind nicht zulässig.
-|
-Pu|
-u
-|
-```
+# § 2 Qualifikation 
 
-### OCR Seite 3
+   - {1) Die ‘Qualifikation fiir das Aufbaustudium Gerontopsychologie wird nachgewiesen durch: ; 1. das Diplom jin Psychologie (an efner wissenschaftlichen Hochschule erworben), 
 
-```
-(5) Der Vorsitzende beruft die Sitzungen
-des
-Prüfungsausschusses
-ein.
-Er
-ist
-befugt,
-anstelle
-des
-Prüfungsausschusses
-unaufschiebbare Entscheidungen allein zu treffen.
-Hiervon hat
-er
-den
-Prüfungsausschuß
-unverzüglich in Kenntnis zu setzen.
-Darüberhinaus
-kann,
-soweit
-diese
-Prüfungsordnung
-nichts
-anderes
-bestimmt,
-der Prüfungsausschuß dem Vorsitzenden oder
-anderen
-Mitgliedern
-die
-Erledigung
-bestimmter
-Aufgaben
-widerruflich übertragen.
-(6) Über jede Sitzung ist eine Niederschrift anzufertigen.
-Diese
-muß
-Tag
-und
-Ort
-der Sitzung, die Namen der Anwesenden, die
-behandelten
-Gegenstände
-sowie Anträge,
-Beschlüsse
-und
-das
-jeweilige Abstimmungsergebnis enthalten.
-(7) Bescheide in
-Prüfungsangelegenheiten,
-durch
-die
-jemand
-in
-seinen
-Rechten
-beeinträchtigt
-werden
-kann,
-bedürfen
-der
-Schriftform;
-sie
-sind
-zu
-begründen
-und
-mit
-einer
-Rechtsbenelfsbelehrung
-zu
-versehen.
-Dem Kandidaten ist vor
-;
-ablehnenden Entscheidungen Gelegenheit zur Äußerung zu
-geben.
-.n
-(
-Widerspruchsbescheide
-werden
-vom Präsidenten im Benehmen mit
-u
-dem Prüfungsausschuß und
-den
-zuständigen
-Prüfern
-erlassen.
-.
-Art 19 Abs.1 Nr.13 BayHSchG bleibt unberührt.
-..
-$ 5 Prüfer und Beisitzer
-a
-(1) Der
-Prüfungsausschuß bestellt die Prüfer und
-Beisitzer.
-I
-(2) Zu Prüfern können die nach
-Art. 69
-Abs. 5 Satz 1 BayHSchG in
-ne 5
-Verbindung
-mit der Hochschulprüfer-Verordnung in der
-jeweils
-m ZE
-geltenden Fassung Befugten bestellt
-werden.
-Es
-sollen
-nur
-Er
-Personen bestellt werden,
-die
-innerhalb
-des
-Aufbaustudiums
-E
-eine
-eigenverantwortliche
-Lehrtätigkeit
-im
-Prüfungsfach
-OR
-ausgeübt ‘haben.
-Satz
-1 und2 gelten
-entsprechend
-für
-die
-FE
-Betreuer und Gutachter der Hausarbeit.
-TE
-(3) Für
-die
-Bestellung der Prüfer für die mündliche Prüfung
-hat
-BE
-der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch
-auf
-die
-2
-|
-Bestellung der vorgeschlagenen Prüfer besteht nicht.
-m
-{4} Zum Beisitzer kann bestellt werden, wer die Diplomprüfung in
-Be
-Psychologie oder eine vergleichbare Prüfung bestanden hat.
-EN
-(5) Die
-Bestellung
-zu
-Prüfern
-sol]
-in
-geeigneter
-Form
-:
-ie
-bekanntgegeben werden.
-Ein kurzfristig vor Beginn der Prüfung
-!
-aus zwingenden Gründen notwendig werdender Wechsel des Prüfers
-:
-ist
-zulässig.
-Scheidet ein
-prüfungsberechtigtes
-Hochschul -
-mitglied
-aus der
-Hochschule aus,
-so bleibt dessen Prüfungs-
-berechtigung in der
-Regel solange erhalten,
-bis die von
-ihm
-in dem entsprechenden Prüfungsfach ausgebildeten Studenten zur
-:
-Prüfung anstehen.
-©:
-(6) Der
-Vorsitzende
-des Prüfungsausschusses und
-sein
-Stellver-
-E
-treter haben das Recht, den Prüfungen beizuwohnen.
-|
-|
-Br
-;
-```
+2. ein abgescniossenes. Psychologie-Studium ohne Diplom (z.B. rromotion, Staatsexamen) sowie 5. ein anderes abgeschlossenes Studium an einer wissenschafttichen Hochschule, das einen ausgepragten fachlichen Bezug zum studium der Psychologie oder Gerontopsychologie erkennen 1a8t. 
 
-### OCR Seite 4
+(2) 0b die Voraussetzungen nach Absatz 1 Nrn.2 u. 3 gegeben sind, steilt der PriifungsausschuB (§ 4). auf Antrag des 
 
-```
-(7) Bei
-mündlichen
-Prüfungen
-werden
-Studenten,
-die
-sich
-der
-gleichen
-Prüfung unterziehen wollen,
-im Rahmen der räumlichen
-Möglichkeiten
-als
-Zuhörer
-zugelassen.
-Auf
-Verlangen
-des
-Kandidaten werden Zuhörer ausgeschlossen.
-(8) Die
-Beratung
-und
-die
-Bekanntgabe
-des
-Prüfungsergebnisses
-erfolgen unter Ausschluß der Öffentlichkeit.
-.
-& 6 Ausschluß
-wegen persönlicher Beteiligung,
-Verschwiegenheits-
-pflicht
-(1) Der
-Ausschluß
-von
-der
-Beratung
-und
-Abstimmung
-im
-Prüfungsausschuß
-sowie
-von
-einer
-Prüfungstätigkeit
-wegen
-persönlicher Beteiligung bestimmt sich nach Art.
-37 BayHSch&G.
-(2) Die
-Pflicht
-der
-Mitglieder
-des
-Prüfungsausschusses,
-der
-Prüfer,
-der
-Prüfungsbeisitzer
-und
-sonstiger
-mit
-Prüfungsangelegenheiten befaßter Personen zur Verschwiegenheit
-bestimmt sich nach Art.
-10 Abs.
-4 BayHSch6G.
-&
-7 Bekanntgabe der Prüfungstermine
-und Prüfer
-j
-{1} Die Prüfungen werden in der Regel
-einmal
-innerhalb eines jeden
-Be
-Semesters abgehalten.
-j
-(2) Der
-Prüfungsbeginn
-ist
-vom
-Vorsitzenden
-des
-Prüfungs-
-u
-ausschusses
-mit
-Angabe
-der
-Meldefrist
-für
-die
-Bewerber
-En
-spätestens zwei Monate vorher,
-jedenfalls
-noch
-während
-der
-ws
-Vorlesungszeit, durch Aushang bekanntzugeben.
-Bu
-(3) Die zur Prüfung zugelassenen Kandidaten sind unter Angabe
-der
-=
-einzelnen
-Prüfer
-und der Prüfungsräume spätestens eine. Woche
-“
-vor dem Termin der Prüfung schriftlich zu laden.
-Be
-$ 8 Anrechnung von Studienleistungen
-ES
-2
-Studienzeiten
-aus
-einschlägigen
-Studiengängen
-sowie
-dabei
-DS
-erbrachte
-Studienleistungen
-(z.B.
-aus
-dem
-Vertiefungsfach
-ent
-Gerontopsychologie des Diplomstudienganges Psychologie) können auf
-Eu
-Antrag durch den Prüfungsausschuß angerechnet werden.
-Euuue
-8 9 Rücktritt,
-Versäumnis,
-Täuschung, Ordnungsverstoß, Prüfungs-
-FE
-mängel
-u
-(1) Tritt der Kandidat nach der Zulassung zu
-einer
-Prüfung
-ohne
-ze
-triftige
-Gründe
-zurück, versäumt er ohne triftige Gründe die
-ganze oder einen Teil der Prüfung oder zeigt er
-die
-für
-den
-|
-Rücktritt
-oder
-das
-Versäumnis
-maßgeblichen
-Gründe
-nicht
-i
-unverzüglich
-an,
-so
-gilt die jeweilige Prüfung,
-zu der
-er
--)
-zugelassen worden ist, als abgelegt und nicht bestanden.
-00
-‘
-|
-```
+, Studienbewerbers in einem schriftlichen Bescheid fest, der bei der Immatrikulation vorzulegen ist; § 4 Abs. 7 gilt entsprechend. 
 
-### OCR Seite 5
+<!-- Start of picture text -->
+Fe<br>_<br>8<br>oe<br>5<br>of<br>3<br>. oe<br>Bees<br>feees<br>a8<br>aie<br>re<br>ee<br>a<br><!-- End of picture text -->
 
-```
-(2) Die für den Rücktritt oder das
-Versäumnis
-geltend
-gemachten
-Gründe
-müssen
-dem
-Prüfungsausschuß unverzüglich schriftlich
-angezeigt und glaubhaft gemacht
-werden.
-Bei
-Krankheit
-des
-Kandidaten
-kann
-der
-Vorsitzende des Prüfungsausschusses die
-Vorlage eines
-ärztlichen
-Attestes
-verlangen.
-Erkennt
-der
-Prüfungsausschuß
-die
-vorgebrachten
-Gründe
-als ausreichende
-Entschuldigung an,
-so
-wird
-dem
-Kandidaten
-mitgeteilt,
-zu
-welchem
-Prüfungstermin
-er wieder zur Prüfung anzutreten hat.
-Die bereits vorliegenden
-Prüfungsergebnisse
-sind
-in
-diesem
-Fall
-anzurechnen.
-(3) Versucht ein
-Kandidat
-das
-Ergebnis
-einer
-Prüfungsleistung
-durch
-Unterschleif,
-Täuschung
-oder
-Benutzung
-nicht
-zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende
-Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet.
-(4) Angebliche Mängel des Prüfungsverfahrens oder
-eine
-vor
-oder
-während
-der
-Prüfung
-eingetretene Prüfungsunfähigkeit müssen
-unverzüglich, spätestens jedoch innerhalb von sieben Werktagen
--
-;
-nach
-der
-Prüfungsleistung,
-beim
-Vorsitzenden
-oder bei dem
-jeweiligen Prüfer geltend gemacht werden.
-Erweist
-sich,
-daß
-.
-das
-Prüfungsverfahren
-mit
-Mängeln
-behaftet
-war,
-die
-das
-Prüfungsergebnis
-beeinflußt
-haben,
-ist
-auf
-Antrag
-eines
-Kandidaten
-oder
-von
-Amts
-wegen
-anzuordnen,
-daß von einem
-=
-bestimmten oder von allen Kandidaten die Prüfung oder einzelne
-ä
-Teile derselben wiederholt werden.
-(5) Vor
-einer
-Entscheidung gemäß Absatz 4
-ist
-dem
-Kandidaten
-I
-Gelegenheit zu geben, sich zu äußern.
-a
-$ 10 Bewertung der Leistungsnachweise, der einzelnen Teilprüfungen
-E
-und Bildung der Prüfungsgesamtnote.
-i
-(1) Die Urteile über Leistungsnachweise gemäß $ 15 Nr.3 Buchst. a)
-sn
-bis i) sowie die einzelnen Prüfungsleistungen werden
-von
-dem
-on
-jeweiligen
-Prüfer
-durch
-folgende
-Noten
-und
-Prädikate
-Bu
-ausgedrückt:
-1 = sehr gut
-= eine hervorragende Leistung;
-2 = gut
-= eine
-Leistung,
-die
-erheblich
-über
-den
-“
-durchschnittlichen Anforderungen liegt;
-3 = befriedigend
-= eine Leistung,
-die durchschnittlichen An-
-forderungen entspricht;
-.
-4 = ausreichend
-= eine Leistung, die trotz ihrer Mängel noch
-u
-den Anforderungen genügt;
-5 = nicht
-= eine Leistung,
-die wegen erheblicher Män-
-ausreichend
-gel den Anforderungen nicht mehr genügt.
-.
-55
-|
-|
-```
+- § 3 Studiendauer, Priifungen 
 
-### OCR Seite 6
+- (1) Die Studienzeit einschlieBlich Priifungszeit betragt im Regelfall 4 Fachsemester. 
 
-```
-Zur differenzierteren
-Bewertung
-der
-Leistungen
-können
-die
-Notenziffern um 0,3 erniedrigt bzw.
-erhöht werden.
-Die Noten
-0,7,
-4,3
-, 4,7 und 5,3 sind ausgeschlossen.
-Ein Prüfungstei]
-ist dann bestanden,
-wenn die Leistung mindestens mit der Note
-"ausreichend"
-(4,0) bewertet wurde.
-(2) Die
-Prüfungsgesamtnote
-wird
-als
-Durchschnittsnote
-aus
-folgenden, jeweils einfach gewichteten Teilleistungen gebildet:
-- der Note der Hausarbeit
-- der Note der mündlichen Prüfung
-- der Note der schriftlichen Prüfung
-- der Note der praktischen Prüfung
-- der
-Durchschnittsnote
-der
-bewerteten
- Leistungsnachweise
-gemäß
-8
-15 Nr.
-3 Buchst.
-d) bis i).
-Bei
-der
-Ermittelung
-dieser Durchschnittsnote wird jeder der sechs Leistungsnach-
-weise einfach gewichtet,
-“
-Die Prüfungsgesamtnote der bestandenen Prüfung lautet:
-|
-Bei einem Durchschnitt bis 1,5
-= sehr gut
-.
-Bei einem Durchschnitt über 1,5 bis 2,5
-= gut
-.
-Bei einem Durchschnitt über 2,5 bis 3,5
-= befriedigend
-F
-Bei einem Durchschnitt über 3,5 bis 4,0
-= ausreichend
-ee
-$ 11 Ungültigkeit der Prüfung
-=:
-(1) Hat der Kandidat bei einer Prüfung getäuscht
-und
-wird
-diese
-=
-Tatsache
-erst nach der Aushändigung der Zeugnisse bekannt, so
-5
-kann der Prüfungsausschuß nachträglich die
-betroffenen
-Noten
-BEN
-entsprechend
-berichtigen
-und die Prüfung ganz oder teilweise
-SEE
-für nicht bestanden erklären.
-BE;
-(2) Waren
-die Voraussetzungen für die Zulassung zu einer
-Prüfung
-u a
-nicht erfüllt. ohne daß der Kandidat hierüber täuschen wollte,
-u
-und
-wird
-diese
-Tatsache
-erst
-nach
-der
-Aushändigung.
-der
-Bu
-Zeugnisse
-bekannt,
-so
-wird dieser Mangel durch das Bestehen
-oe
-der
-Prüfung geheilt.
-Hat der Kandidat die Zulassung vorsätz-
-Rx
-lich
-zu
-Unrecht erwirkt,
-entscheidet
-der
-Prüfungsausschuß
-Er
-unter
-Beachtung
-der
-allgemeinen
-verwaltungsrechtlichen
-=
-Grundsätzen über die Rücknahme rechtswidriger Verwaltungsakte.
-in
-on
-(3) Dem
-Kandidaten
-ist
-vor einer Entscheidung
-gemäß
-Absatz
-2
-es
-Gelegenheit zur Äußerung zu geben.
-ER
-(4) Das unrichtige Prüfungszeugnis ist einzuziehen; gegebenenfalls
-Be
-ist
-ein neues zu erteilen.
-Eine Entscheidung gemäß Absatz
-2
-NER
-Satz 2 ist nach einer Frist von fünf Jahren ab
-dem Datum
-des
-Eu
-Prüfungszeugnisses ausgeschlossen.
-Bee
-6
-\
-```
+- (2) Die Meldung zur Priifung kann friihestens nach dem Ende der Vorlesungszeit des dritten Fachsemesters erfolgen. 
 
-### OCR Seite 7
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
 
-```
-i
-$ 12 Einsicht in die Prüfungsakten
-(1) Nach Abschluß des Prüfungsverfahrens wird dem
-Kandidaten
-auf
-Antrag
-Einsicht
-in seine schriftlichen Prüfungsarbeiten, die
-darauf
-bezogenen
-Gutachten
-der
-Prüfer
-und
-in
-die
-Prüfungsprotokolle gewährt.
-(2) Der Antrag
-ist
-binnen
-einem
-Monat
-nach
-Aushändigung
-des
-Prüfungszeugnisses
-beim
-Vorsitzenden des Prüfungsausschusses
-zu stellen.
-Art.
-32 des Bayerischen
-Verwaltungsverfahrens-
-gesetzes
-(BayRS
-2010-1-I)
-gilt
-entsprechend.
-Der
-Vor-
-sitzende
-des
-Prüfungsausschusses bestimmt Ort und Zeit der
-Einsichtnahme.
-$ 13 Bescheinigung über eine nicht bestandene Prüfung
-:
-Hat der Kandidat die Prüfung endgültig nicht bestanden,
-wird
-ihm
-auf
-Antrag
-und
-gegen Vorlage der entsprechenden Nachweise sowie
-der Exmatrikulationsbescheinigung eine schriftliche
-Bescheinigung
-ausgestellt,
-aus
-der
-sich das Nichtbestehen der Prüfung, die in
-,
-den
-einzelnen
-Prüfungsfächern
-erzielten
-Noten
-und
-die
-noch
-fehlenden Prüfungsleistungen ergeben:
-& 14 Prüfungsvergünstigungen für Schwerbehinderte
-.
-(1) Auf die besondere Lage
-schwerbehinderter
-Kandidaten
-ist
-in
-;,
-.
-angemessener
-Weise
-Rücksicht
-zu
-nehmen.
-Insbesondere
-ist
-ei
-schwerbehinderten Kandidaten, wenn die Art der Behinderung
-es
-Bi
-rechtfertigt,
-eine
-Verlängerung
-der
-Bearbeitungszeit
-für
-.
-schriftliche.
-und
-praktische Prüfungsteile um bis
-zu
-einem
-Viertel
-zu gewähren.
-“
-(2) Prüfungsvergünstigungen gemäß Absatz 1 werden nur auf schrift-
-Ei
-lichen
-Antrag hin
-gewährt.
-Der Antrag ist der
-Meldung
-zur
-ab.
-Prüfung beizufügen.
-z
-```
+ve oe a mea ae = er 
 
-### OCR Seite 8
+i 
 
-```
-II. Besondere Bestimmungen für die Abschlußprüfung
-$ 15 Zulassungsvoraussetzungen
-Voraussetzungen für die Zulassung zur Prüfung sind:
-1. Nachweis
-der Qualifikation für das Aufbaustudium
-Geronto-
-psychologie gemäß $ 2.
-2. Ein mindestens viersemestriges Studium der Gerontopsycholo-
-gie
-entsprechend der Studienordnung für das
-Aufbaustudium
-Gerontopsychologie der Universität Erlangen-Nürnberg.
-3. Je
-ein
-Nachweis über die erfolgreiche Teilnahme an' einer
-Übung
-oder
-einem
-Seminar
-aus
-den
-folgenden
-Studien-
-bereichen:
-a) Gerontopsychologie: Methodologie
-b) Gerontopsychologie: Grundlagenergebnisse
-,
-c) Gerontopsychologie:
-Intervention
-d) Medizin und Biologie
-e) Pädagogik
-f} Soziologie
-g) Sportwissenschaft
-h) Recht
-i) Ethik (Philosophie/Theologie)
-a
-Für die erfolgreiche Teilnahme an diesen
-Lehrveranstaltun-
-FE
-gen
-wird
-von dem für die jeweilige Veranstaltung
-zustän-
-“
-digen
-Dozenten mindestens einer der
-folgenden
-Leistungs”
-4
-nachweise gefordert:
-Referat, schriftliche Hausarbeit oder
-Be
-Klausur.
-Die
-Leistung wird entsprechend
-$ 10 Abs.
-1
-be-
-Be:
-notet.
-Für
-eine erfolgreiche Teilnahme muß mindestens die
-ER
-Note "ausreichend" (4,0) erzielt werden.
-Nicht erfolgreich
-absolvierte Lehrveranstaltungen können innerhalb der Melde-
--,
-frist zur Prüfung wiederholt werden.
-|
-4. Je
-ein
-Nachweis über die Ableistung
-eines
-sechswöchiges
-Praktikums in folgenden Arbeitsbereichen:
-- Einrichtungen der institutionalisierten
-Altersversorgung
-i
-(Altenheime,
-Pflegeheime,
-psychiatrische
-Altenkranken-
-Ri
-häuser usw.)
-- Einrichtungen
-der offenen Altenhilfe (Seniorenbetreuung,
-Essen auf Rädern, Tageskliniken usw.)
-sowie Vorlage je eines Berichtes über diese Praktika.
-8|
-|
-u
-|
-```
+- (3) Der Kandidat soll sich so rechtzeitig zur Priifung anmelden, daB er sie bis zum Beginn der Vorlesungszeit des fiinften Semesters ablegen kann. Meldet er sich nicht spdtestens bis zum Ende des sechsten Fachsemesters zur Priifung oder legt er bis dahin die Priifung nicht ab, so gilt sie als erstmals nicht bestanden, es. sei denn der Kandidat hat die Griinde nicht zu vertreten. Strebt der Kandidat die Promotion mit einer Arbeit an, die anstelle der Hausarbeit gema®B § 19 Abs. 6 fiir das Aufbaustudium Gerontopsychologie eingereicht werden soll, so kann auf Antrag des Kandidaten die Meldefrist zur Priifung durch den Priifungsausschu8 verlangert werden. Dem Antrag ist eine Bestatigung des Betreuers der Dissertation tiber das Thema der Dissertation und den vorausichtlichen Zeitpunkt des Abschlusses der Promotion beizufiigen, 
 
-### OCR Seite 9
+- (4) Die Priifungstermine und Meldefristen werden durch Aushang bekanntgegeben. 
 
-```
-8 16 Äntrag auf Zulassung zur Prüfung
-oo
-(1) Der Kandidat stellt einen schriftlichen Zulassungsantrag
-beim
-in
-Vorsitzenden des Prüfungsausschusses.
--
-(2) Dem Antrag sind beizufügen:
-.
-1. Zeugnis über die Qualifikation gemäß
-$
-2;
-5
-2. Studienbuch oder sonstige Nachweise gemäß
-8 15 Nr.
-2;
-3. Leistungsnachweise gemäß
-8 15 Nr.
-3;
-4. Nachweise über Praktika
-gemäß
-8 15 Nr.
-4;
-5. Lebenslauf;
-‘
-6. amtliches Führungszeugnis, falls der Kandidat im Augenblick
-des Antrags schon länger als drei Monate exmatrikuliert
-ist
-.
-und sich nicht im öffentlichen Dienst befindet;
-7. Thema
-der
-Hausarbeit
-und
-Bestätigung
-des
-betreuenden
-Prüfers;
-8. Angabe des Teilbereiches aus
-$ 15 Nr. 3. Buchst. a) bis c),
-En
-aus welchem die schriftliche Prüfung gewünscht wird;
-Be
-9. Angabe
-der
-für die mündliche und praktische
-Prüfung
-ge-
-et
-wünschten Prüfer;
-BER
-10. eine
-Erklärung
-darüber,
-ob
-der
-Kandidat
-bereits
-eine
-.
-Prüfung im Aufbaustudium Gerontopsychologie nicht bestanden
-SE
-hat;
-Br
-11. im Wiederholungsfall die bei der ersten Prüfung angenommene
-er
-und für die Wiederholungsprüfung anerkannte Hausarbeit.
-\ ER
-(3) Kann ein Kandidat ohne
-sein
-Verschulden
-die
-erforderlichen
-En
-Unterlagen
-nicht
-in
-der vorgeschriebenen Art beibringen, so
-=
-kann
-ihm
-der
-Prüfungsausschuß
-auf
-Antrag
-gestatten,
-die
-=
-entsprechenden Nachweise auf andere Art zu führen.
-2]
-er
-(4) Sämtliche dem Antrag
-beigefügten
-Anlagen
-mit
-Ausnahme
-der
-er
-Studienbücher
-gehen
-in das Eigentum der Universität über und
-“
-verbleiben bei den Akten. Beigefügte Originalunterlagen werden
-es]
-nur
-zurückgegeben,
-sofern
-der
-Kandidat
-als
-Ersatz
-En
-Zweitschriften oder beglaubigte Ablichtungen vorlegt.
-Be
-En
-2
-Er
-```
+§ 4 Priifungsausschu8 
 
-### OCR Seite 10
+- (1) Fiir die Organisation und die Ourchfiihrung der Priifungen = im Aufbaustudium Gerontopsychologie wird vom Fachbereichsrat der Erziehungswissenschaftlichen Fakultat ein Priifungsausschu gebildet. Der Ausschu® ist fiir alle Entscheidungen im Priifungsverfahren zustandig, soweit in dieser Priifungsordnung oder in anderen gesetzlichen Vorschriften nichts anderes bestimmt ist. Die Amtszeit der Mitglieder betragt drei Jahre; eine Wiederbestellung ist méglich. 
 
-```
-$ 17 Zulassung
-(1) Über die Zulassung zur Prüfung entscheidet der Vorsitzende des
-.
-Prüfungsausschusses
-aufgrund der eingereichten Unterlagen.
-In
-Zweifelsfällen kann er den
-Antrag
-dem
-Prüfungsausschuß
-zur
-Entscheidung vorlegen.
-(2) Die Zulassung ist zu versagen, wenn der Kandidat
-l. die Voraussetzungen des
-$ 15 nicht erfüllt oder
-2. die
-in
-$
-16
-Abs.
-2
-benannten
-Unterlagen
-nicht
-ord-
-nungsgemäß
-oder
-nicht
-vollständig
-vorgelegt
-oder
-noch
-fehlende
-Leistungsnachweise nicht spätestens sieben
-Werk-
-tage vor Beginn der ersten Prüfung nachgereicht oder
-3. die
-Prüfung im Aufbaustudium Gerontopsychologie
-endgültig
-nicht bestanden hat.
-(3) Die
-Zulassungsentscheidung {st dem Kandidaten spätestens zwei
-Wochen
-nach
-Ende
-der
-jeweiligen
-Meldefrist
-schriftlich
-.
-mitzuteilen,
-$ 18 Art, Zusammensetzung und Inhalt der Prüfung
-a) Die Prüfung besteht aus:
-l. einer Hausarbeit (8 19),
-2. einer
-mündlichen
-Prüfung von einer
-halben
-Stunde
-Dauer
-5
-über
-die
-in
-8
-15 Nr. 3.
-Buchst. a)
-bis
-c)
-genannten
-.
-Bereiche,
-1
-3. einer
-schriftlichen
-Prüfung von vier Stunden
-Dauer
-über
-E
-einen
-der in $ 15 Nr. 3.
-Buchst. a) bis c) genannten
-Be-
-|
-reiche, den der Kandidat auswählen darf.
-|
-4. einer
-praktischen Prüfung (Fallprüfung) über die in
-$
-15
-E
-Nr. 3. Buchst. a) bis d) genannten Bereiche.
-.
-Die
-Prüfungsleistungen nach Absatz
-1
-Nrn.
-2bis
-4
-dürfen
-=
-erst
-erbracht
-werden,
-wenn die
-Hausarbeit
-mit
-mindestens
-"ausreichend" (4,0) bewertet ist.
-=
-(2) Gegenstand der Prüfung sind die Fragestellungen
-und
-Probleme
-|
-der
-genannten
-Fächer.
-Im
-Vordergrund
-steht
-dabei
-die
-'
-praxisbezogene
-“© Anwendung
-wissenschaftlicher
-Arbeits- und
-|
-Forschungsergebnisse.
-|
-|
-|
-10
-|
-|
-|
-|
-||
-[
-```
+- (2) Dem Priifungsausschu8 gehdren fiinf Mitglieder an: Drei Mitglieder aus dem Bereich der Psychologie sowie ein Mitglied aus dem Bereich der Medizin und ein Mitglied aus den anderen am Aufbaustudiengang Gerontopsychologie beteiligten Fachern. Wenigstens ein Mitglied des Priifungsausschusses mu8 Professor der Psychologie, die iibrigen Mitglieder mlissen Hochschullehrer im Sinne des Art. 2 Abs. 3 des Bayerischen Hochschullehrergesetzes sein. Der PriifungsauschuB wahit einen Professor der Psychologie zum Vorsitzenden, ferner ein weiteres Mitglied des Priifungsausschusses zum Stellvertreter. 
 
-### OCR Seite 11
+- (3) Oer Priifungsausschu® achtet darauf, daB die Bestimmungen der Priifungsordnung eingehalten werden. 
 
-```
-$ 19 Hausarbeit
-(1) Die Hausarbeit soll zeigen, daß
-der
-Kandidat
-imstande
-ist,
-Fragestellungen
-der
-Gerontopsychologie
-selbständig
-nach
-wissenschaftlichen Methoden und Erkenntnissen zu bearbeiten.
-(2) Das
-Thema
-der
-Hausarbeit
-sowie
-der
-Betreuer können
-vom
-Kandidaten
-frei
-gewählt
-werden.
-Das Thema der Hausarbeit
-bedarf der Zustimmund des Betreuers.
-Interdisziplinäre Frage-
-stellungen
-können
-Berücksichtigung
-finden.
-Das
-Thema
-der
-Arbeit,
-der
-Tag der Ausgabe und der Name des Betreuers
-sind
-aktenkundig zu machen.
-.
-(3) Die
-Hausarbeit
-soll
-frühestens nach
-Abschluß
-des
-zweiten
-Fachsemesters
-vergeben
-werden.
-Sie ist innerhalb von
-sechs
-Monaten
-nach der
-Ausgabe
-des
-Themas durch
-den
-Betreuer
-vorzulegen.
-Der Abgabezeitpunkt
-ist aktenkundig
-zu
-machen.
-Weist
-der
-Kandidat vor Ablauf der
-Frist
-.nach,
-daß er
-den
-Termin
-aus
-von
-ihm nicht zu vertretenden Gründen
-nicht
-einhalten
-kann,
-kann der Vorsitzende des Prüfungsausschusses
-eine Nachfrist von drei Monaten bewilligen.
-Wird die gesetzte
-.
-Frist
-nicht eingehalten,
-so gilt die Prüfung als
-nicht
-be-
-standen.
-.
-(4) Das
-Thema
-der
-Hausarbeit
-kann
-einmal,
-jedoch
-nur
-aus
-.
-schwerwiegenden
-Gründen
-und
-nur
-mit
-Einwilligung
-des
-sn
-Vorsitzenden des
-Prüfungsausschusses,
-zurückgegeben
-werden.
--
-Eine
-Rückgabe
-ist
-nur.
-bis zum Ablauf eines
-Monates
-nach
-Ausgabe des Themas zulässig.
-Für
-die
-Ausgabe
-eines
-neuen
-Ri
-Themas
-finden
-die
-Vorschriften der Absätze 2 und
-3
-ent-
-2
-sprechende Anwendung.
-(5) Mit
-der
-Hausarbeit ist
-eine
-schriftliche
-Erklärung
-des
-Kandidaten einzureichen,
-daß er die Arbeit selbständig
-ange-
-|
-fertigt,
-dabei
-keine anderen Hilfsmittel als die im Quellen-
-fl
-und Literaturverzeichnis genannten benutzt,
-alle aus
-Quellen
-|
-und Literatur wörtlich oder sinngemäß entnommenen Stellen
-als
-solche
-kenntlich gemacht,
-und die Fundstellen einzeln
-nach-
-j
-gewiesen hat. Ferner hat der Kandidat schriftlich zu erklären,
-|
-daß
-die
-eingereichte Arbeit nicht schon
-bei
-einer
-anderen
-u
-Hochschulprüfung vorgelegt wurde.
-|
-(6) Bei
-Vorlage
-einer
-Dissertation
-mit
-einschlägigem
-Thema
-|
-entfällt
-die
-Hausarbeit.
-Über
-die
-Anerkennung
-des
-|
-Dissertationsthemas als einschlägig entscheidet der
-Prüfungs-
-=
-ausschuß.
-|
-|
-11
-|
-|
-j!
-|
-```
+- (4) Der Priifungsausschu8 ist beschluBfahig, wenn sadmtliche Mitglieder ordnungsgeméa8 unter Einhaltung einer mindestens 3-tagigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist. Er beschlieBt mit der Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Stimmenthaltung, geheime Abstimmung und Stimmrechtsiibertra-~ gung sind nicht zuldssig. 
 
-### OCR Seite 12
+: . _ 
 
-```
-8 20 Bewertung der Hausarbeit
-(1) Die Hausarbeit Ist von dem Betreuer,
-der das
-Thema
-geste?it
-hat,
-und
-von
-einem zweiten Gutachter binnen drei Monaten zu
-beurteilen.
-Bei
-nicht
-übereinstimmender
-Beurteilung
-entscheidet
-der
-Prüfungsausschuß
-unter Berücksichtigung der
-Notenvorschläge über die endgültige Bewertung.
-(2) Die
-Bewertung
-der Hausarbeit erfolgt nach
-den
-in
-$
-2
-Abs.
-1 aufgeführten Prädikaten.
-(3) Wird eine Dissertation anstelle der Hausarbeit eingereicht, so
-wird
-die
-hierfür
-erteilte
-Note übernommen.
-Auf Antrag des’
-Kandidaten kann eine Neubewertung entsprechend der Absätze
-1
-und
-2
-unter
-Zugrundelegung
-der
-im
- Aufbaustudiengang
-Psychologie
-verlangten Anforderungen und
-Bewertungsgesichts-
-punkte erfolgen.
-‘
-(4) Ist das Prädikat der Hausarbeit endgültig "nicht
-ausreichend"
-(5,0),
-so gilt die Prüfung als nicht bestanden.
-$ 21 Mündliche Prüfung
-(1} Die mündliche Prüfung dient der Feststellung
-der
-gründlichen
-nn
-Kenntnisse
-des
-Kandidaten
-im
-gesamten
-Gebiet
-der
-E
-Gerontopsychologie gemäß
-8 15 Nr. 3. Buchst.
-a). bis c).
-v.
-(2) Die
-mündliche Prüfung hat die Form einer
-Einzelprüfung.
-Der
-. a
-Vorsitzende des Prüfungsausschusses bestimmt einen
-Beisitzer,
-Ban
-der
-das Protokoll führt.
-In das Protokoll sind
-aufzunehmen:
-pi
-Ort
-und
-Zeit. sowie Zeitdauer der
-Prüfung,
-Gegenstand
-und
-Erz
-Ergebnis der Prüfung,
-die Namen des
-Prüfers,
-des Beisitzers
-TREE,
-und
-des
-Kandidaten sowie besondere Vorkommnisse.
-Prüfer und
-Be
-Beisitzer unterzeichnen das Protokoll.
-Dieses ist
-mindestens
-Zr
-zwei Jahre aufzubewahren.
-|
--
-|
-(3) Die mündliche Prüfung dauert eine halbe Stunde.
-:|
-(4) Die Note der mündlichen Prüfung setzt
-der
-jeweilige
-Prüfer
-3
-nach
-der Notenskala des
-& 10
-Abs.
-1
-unmittelbar nach
-Ab-
-a
-schluß der mündlichen Prüfung fest.
-)
-$ 22 Schriftliche Prüfung
-=
--
-(1) Die
-schriftliche
-Prüfung
-dient
-der
-Feststellung
-der
-si]
-gründlichen
-Kenntnisse des Kandidaten in dem von ihm aus & 15
-u
-Nr. 3. Buchst. a) bis c) gewählten Prüfungsfach und der Fähig-
-=
-.
-keit zu selbständiger Darstellung umgrenzter Probleme in fest-
-|
-gesetzter Zeit.
-|
-.H
-|
-|
-```
+<!-- Start of picture text -->
+i<br>|<br>|<br>~ 4<br>“tL<br>|<br><!-- End of picture text -->
 
-### OCR Seite 13
+, 
 
-```
-(2) Die
-schriftliche Prüfung dauert vier Stunden.
-Es werden
-für
-das
-gewählte Fach zwei Themen gestellt.
-Eines dieser
-Themen
-.
-ist zu bearbeiten.
-(3) Die Bewertung der Klausur erfolgt nach
-den
-in
-8
-10
-Abs.
-1
-aufgeführten Prädikaten.
-Die
-Professoren,
-die die
-Aufgaben
-gestellt haben, werden zu Prüfern bestellt.
-Die Benotung
-der
-schriftlichen
-Prüfungsarbeit
-erfolgt in der Regel durch Zwei
-Prüfer.
-Bei
-Nichteinigung der beiden Prüfer entscheidet
-der
-Prüfungsausschuß
-über
-die
-endgültige
-Bewertung;
-er
-kann
-einen weiteren Gutachter hinzuziehen.
-8 23 Praktische Prüfung (Fallprüfung)
-(1) Die
-praktische Prüfung erfolgt
-über
-die
-in
-$
-15’ Nr. 3,
-Buchst. a) bis d) genannten
-Gebiete.
-Gegenstand der
-Prüfung
-sind
-ein
-oder
-mehrere
-Fälle
-oder
-Fallgeschichten
-mit
-entsprechenden
-Unterlagen {Anamnese, Testergebnisse, Kranken-
-blätter usw.). Anhand dieser hat der Kandidat theoretische und
-\
-praktische
-Kentnisse
-und
-Fertigkeiten
-aus
-den
-Bereichen
-psychologische Diagnostik, Interventions- und Rehabilitations-
-maßnahmen, Kranken- und
-Altenpflege unter psychologischen und
-medizinisch-biologischen
-Aspekten,
-Erste Hilfe sowie Medika-
-mentenkunde zu belegen.
-(2) Die
-- praktische
-Prüfung wird
-als
-Einzelprüfung
-vor
-einem
-j
-Prüfungskollegium
-abgenommen,
-das aus einem Psychologen
-und
-|
-einem Mediziner besteht. Beide Prüfer prüfen etwa gleich lang.
-E
-Die Dauer der Prüfung beträgt etwa 45 Minuten. Der Vorsitzende
->|
-des
-Prüfungsausschusses
-bestimmt einen
-Beisitzer,
-der
-das
-B|
-Protokoll führt. Für den Inhalt des Protokolls gilt $ 21 Abs.
-ed
-2.
-Sätze 3 bis 5.
-5
-(3)
-Die.
-Note wird von den beiden Prüfern nach der Notenskala
-des
-Bi
-$ 10
-Abs.
-1
-unmittelbar
-nach
-Abschluß
-der
-praktischen
-|
-Be
-Prüfung festgesetzt. Bei Nichteinigung der beiden Prüfer
-gilt
-u
-die
-nach
-dem arithmetischen Mitte] errechnete
-Note.
-Falls
-.
-diese Note in $ 10 Abs.
-1
-nicht vorgesehen ist,
-wird zur
->]
-nächstbesseren Note nach $ 10
-Abs. 1
-gerundet.
-E
-$ 24 Festlegung des Prüfungsergebnisses der Prüfung, Nichtbestehen
-j
-der Prüfung
-BE
-(1) Die Prüfung ist nur bestanden,
-wenn die Noten der Hausarbeit,
-u
-der
-mündlichen,
-schriftlichen
-und
-praktischen
-Prüfung
-|
-mindestens "ausreichend" (4,0) lauten.
-j
-04
-(2) Ist die Prüfung
-nicht
-bestanden
-oder
-gilt
-sie
-als
-nicht
-|
-bestanden, so erhält der Kandidat hierüber einen schriftlichen
-|
-Bescheid,
-der
-die
-erzielten
-Noten
-ausweist
-und
-darüber
-|
-Auskunft
-gibt,
-ob
-und
-innerhalb
-welcher Frist die Prüfung
-E
-wiederholt werden kann.
-=}
-13
-|
-I
-```
+( 
 
-### OCR Seite 14
+| 
 
-```
-& 25 Wiederholung der Prüfung
-{1) Ist einer der
-Prüfungsteile
-(mündliche,
-schriftliche
-oder
-praktische
-Prüfung)
-nicht
-bestanden,
-so
-kann
-dieser Teil
-.
-wiederholt werden.
-(2) Ist
-die
-Prüfung
-in
-zwei
-oder mehr
-Prüfungsteilen
-nicht
-bestanden,
-so gilt sie insgesamt als nicht bestanden und kann
-e
-nur in allen Prüfungsteilen wiederholt werden.
-(3) Die Zulassung zur Wiederholungsprüfung ist nur bis zum Ablauf
-von
-sechs
-Monaten nach der letzten Prüfungsleistung möglich.
-In
-begründeten
-Ausnahmefällen
-kann
-diese
-Frist
-vom
-Prüfungsausschuß
-auf
-schriftlichen
-Antrag
-hin um höchstens
-sechs Monate verlängert werden; eine weitere Verlängerung
-ist
-nicht
-möglich.
-Der
-Antrag
-ist
-vor
-Ablauf
-der
-Frist
-einzureichen.
-Versäumt der Kandidat unentschuldigt die
-Frist
-oder
-stellt
-er
-nicht rechtzeitig einen Verlängerungsantrag,
-.
-gilt die Prüfung als endgültig nicht bestanden.
-(4) Ist die Prüfung nicht bestanden, weil die Hausarbeit nicht mit
-"Ausreichend"
-(4,0) bewertet
-oder
-nicht
-fristgerecht abge-
-\
-liefert wurde,
-so kann er Kandidat auf Antrag
-unverzüglich
-ein neues Thema erhalten:
-eine Rückgabe dieses
-Themas
-ist
-Ze
-nicht zulässig,
-Der Antrag ist Spätestens innerhalb von zwei
-ud
-Monaten
-ab Bekanntgabe der Bewertung der Erstarbeit oder der
-= 3
-Mitteilung über das Nichtbestehen der Prüfung zu stellen.
-rd
-Versäumt der Kandidat diese Frist, gilt die
-Prüfung als
-=
-endgültig nicht bestanden.
-E;
-{5)
-Eine zweite Wiederholung der Hausarbeit
-jst ausgeschlossen.
-Ra
-Eine zweite Wiederholung der übrigen Prüfungsleistungen ist
-4
-nur in Ausnahmefällen innerhalb einer Frist von sechs Monaten,
-4
-gerechnet von
-der letzten Prüfungsleistung an, und nur dann
-}
-möglich,
-wenn
-der
-Kandidat
-in
-wenigstens
-Zwei
-“=
-Prüfungsleistungen mindestens die Note "befriedigend" erhalten
-|
-hat. Im übrigen gelten Absätz l bis 4 entsprechend.
-|
-8.26 Zeugnis
-|
-En
-Über
-die bestandene Prüfung wird innerhalb von vier Wochen
-ein
-=]
-Zeugnis ausgestellt.
-Dieses enthält das Thema und die Note der
-Be
--}
-.
-Hausarbeit,
-die
-Noten der
-mündlichen,
-schriftlichen
-und
-rg
-praktischen Prüfung,
-die Durchschnittsnote der bewerteten Scheine
-der Fächer entsprechend $ 15 Nr. 3.
-Buchst. d) bis i) sowie die
-|
-Prüfungsgesamtnote.
-Das
-Zeugnis wird vom Vorsitzenden
-des
-|
-Prüfungsausschusses
-unterzeichnet.
-Als Datum des Zeugnisses
-ist
-der Tag anzugeben, an dem alle Prüfungsleistungen erfüllt sind.
-un
-.4
-|
-|
-u)
-Bu
-|
-14
-|
-|
-|
-|
-```
+- (5) Der Vorsitzende beruft die Sitzungen des Priifungsausschusses ein. Er ist befugt, anstelle des Priifungsausschusses unaufschiebbare Entscheidungen allein zu treffen. Hiervon hat er den Priifungsausschu8 unverziiglich in Kenntnis zu setzen. Dariiberhinaus kann, soweit diese Priifungsordnung nichts anderes bestimmt, der Priifungsausschu8 dem Vorsitzenden oder anderen Mitgliedern die Erledigung bestimmter Aufgaben widerruflich ibertragen. 
 
-### OCR Seite 15
+- (6) Uber jede Sitzung ist eine Niederschrift anzufertigen. Diese mu8 Tag und Ort der Sitzung, die Namen der Anwesenden, die behandelten Gegenstande sowie Antrage, Beschliisse und das jeweilige Abstimmungsergebnis enthalten. 
 
-```
-$ 27 Urkunde
-(1) Gleichzeitig mit dem Zeugnis wird dem Kandidaten eine
-Urkunde
-oo.
-mit dem Datum des Zeugnisses ausgehändigt.
-{2) Die Urkunde enthält die Prüfungsgesamtnote.
-Die Urkunde
-wird
-vom
-Vorsitzenden des Prüfungsausschusses und
-vom
-Dekan
-der
-Erziehungswissenschaftlichen
-Fakultät unterzeichnet.
-III.
-Schlußbestimmungen
-Diese
-Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung
-in
-Kraft.
-Ausgefertigt auf Grund des Beschlusses des Senats der Univer-
-sität Erlangen-Nürnberg vom 14. Mai 1986 und der Genehmigung
-'
-desStaatsministeriums für Unterricht und Kultus durch Schrei-
-ben vom 12. Juni
-1986 Nr.
-I B
-10
-- 6/79 415.
-Erlangen,
-den 20.
-Juni
-1986
-|
-:
-In Vertretung
-oo.
-=
-A
-|
-( Prof.
-Dr.
-K. Geibel
-)
-Vizepräsident
-|
-Die Satzung wurde am 20. Juni 1986 in der Universität Erlangen-
-Nürnberg niedergelegt; die Niederlegung wurde am 20. Juni 1986
-|
-durch Anschlag in der Universität Erlangen-Nürnberg bekanntce-
-|
-geben.
-Tag der Bekanntmachung ist der 20. Juni 1986.
-|
-15
-|
-```
+- (7) Bescheide in Priifungsangelegenheiten, durch die jemand in seinen Rechten beeintrachtigt werden kann, bediirfen der Schriftform; sie sind zu begriinden und mit. einer Rechtsbenelfsbelehrung zu versehen. Dem Kandidaten ist vor : ablehnenden Entscheidungen Gelegenheit zur Au®erung zu geben. a Widerspruchsbescheide werden vom Prasidenten im Benehmen mit ~ dem Priifungsausschu8 und den zustandigen Priifern erlassen. . Art 19 Abs.1 Nr.13 BayHSchG bleibt unberihrt. . 
+
+- § 5 Priifer und Beisitzer (1) Der Priifungsausschu8 bestellt die Prlifer und Beisitzer. (2) Zu Priifern konnen die nach Art. 69 Abs. 5 Satz 1 BayHSchG in Verbindung mit der Hochschulpriffer-Verordnung in der jeweils geitenden Fassung Befugten bestellt werden. Es sollen nur Personen bestellt werden, die innerhalb des Aufbaustudiums eine eigenverantwortliche Lehrtatigkeit im Priifungsfach ausgeibt haben. Satz 1 und 2 gelten entsprechend fiir die Betreuer und Gutachter der Hausarbeit. 
+
+- (3) Filir die Bestellung der Prifer fiir die miindliche Priifung hat der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Priifer besteht nicht. 
+
+- (4) Zum Beisitzer kann bestel!t werden, wer die Diplompriifung in - Psychologie oder eine vergleichbare Priifung bestanden hat. 
+
+- (5) Die Bestellung zu Prifern soll in geeigneter Form bekanntgegeben werden. Ein kurzfristig vor Beginn der Priifung aus zwingenden Griinden notwendig werdender Wechsel des Prifers ist zuldssig. Scheidet ein priifungsberechtigtes Hochschulmitglied aus der Hochschule aus, so bleibt dessen Prifungsberechtigung in der Regel solange erhalten, bis die von ihm in dem entsprechenden Prifungsfach ausgebildeten Studenten zur Priifung anstehen. 
+
+- (6) Der Vorsitzende des Prufungsausschusses und sein Stellvertreter haben das Recht, den Priifungen beizuwohnen. 
+
+<!-- Start of picture text -->
+mere<br>og<br>er<br>ES<br>oa<br>ES<br>vs ae<br>whe<br>at<br>Ls<br>oe<br>nae<br>“8<br>cn<br>: os<br>:<br>:<br>:<br>vF<br>e<br><!-- End of picture text -->
+
+| 
+
+<!-- Start of picture text -->
+.<br><!-- End of picture text -->
+
+<!-- Start of picture text -->
+oY<br>i<br><!-- End of picture text -->
+
+; 
+
+. : 
+
+2: ‘ _ re Pes _ me : a 
+
+eS , RS Jest oo ne 
+
+- (7) Bei miindlichen Priifungen werden Studenten, die sich der gleichen Priifung unterziehen wollen, im Rahmen der raumlichen Moglichkeiten als Zuhdrer zugelassen. Auf Verlangen des Kandidaten werden Zuhorer ausgeschlossen. 
+
+- (8) Die Beratung und die Bekanntgabe des Priifungsergebnisses erfolgen unter AusschluB der Offentlichkeit. 
+
+- § 6 AusschluB wegen persdniicher Beteiligung, Verschwiegenheitspflicht 
+
+- (1) Der AusschluB von der Beratung. und Abstimmung im PriifungsausschuB sowie von einer Priifungstatigkeit wegen persdnlicher Beteiligung bestimmt sich nach Art. 37 BayHSchG. 
+
+- (2) Die Pflicht der Mitglieder des Priifungsausschusses, der Priifer, der Priifungsbeisitzer und sonstiger mit Priifungsangelegenheiten befafter Personen zur Verschwiegenheit bestimmt sich nach Art. 10 Abs. 4 BayKkSchG. 
+
+- § 7 Bekanntgabe der Priifungstermineund Priifer (1) Die Priifungen werden in der Regel einmal innerhalb eines jeden Semesters abgehalten. 
+
+; 
+
+- {2) Der Priifungsbeginn ist vom Vorsitzenden des Priifungsausschusses mit Angabe der Meldefrist fiir die Bewerber spatestens zwei Monate vorher, jedenfalls noch wahrend der Voriesungszeit, durch Aushang bekanntzugeben. 
+
+- (3) Die zur Priifung zugelassenen Kandidaten sind unter Angabe der einzelnen Priifer und der Priifungsraume spatestens eine. Woche vor dem Termin der Priifung schriftilich zu laden. 
+
+- § 8 Anrechnung von Studienleistungen 
+
+- Studienzeiten aus einschlagigen Studiengdngen sowie dabei erbrachte Studienleistungen. (z.B. aus dem Vertiefungsfach Gerontopsychologie des Diplomstudienganges Psychologie) kénnen auf Antrag durch den Priifungsausschu8 angerechnet werden. § 9 Riicktritt, Versaumnis, Tduschung, Ordnungsversto8, Priifungsmange 
+
+- (1) Tritt der Kandidat nach der Zulassung zu einer Priifung ohne triftige Griinde zuriick, versdumt er ohne triftige Griinde die ganze oder einen Teil der Priifung oder zeigt er die fiir den Rucktritt oder das Versdumnis ma@geblichen Griinde nicht unverziglich an, so gilt die jeweilige Prifung, zu der er zugelassen worden ist, als abgelegt und nicht bestanden. - 
+
+<!-- Start of picture text -->
+oe<br>my<br><!-- End of picture text -->
+
+| . | “| 
+
+_ 
+
+<!-- Start of picture text -->
+_|<br><!-- End of picture text -->
+
+7 F a f — so Wy : : ae a a 
+
+- (2) Die fiir den Riicktritt oder das Versdumnis geltend gemachten Griinde miissen dem Priifungsausschu8 unverziiglich schriftlich angezeigt und glaubhaft gemacht werden. Bei Krankheit des” Kandidaten kann der Vorsitzende des Priifungsausschusses die Vorlage eines arztlichen Attestes verlangen. Erkennt der Priifungsausschu8 die vorgebrachten Griinde als ausreichende Entschuldigung an, so wird dem Kandidaten mitgeteiit, Zu welchem Priifungstermin er wieder zur Priifung anzutreten hat. Die bereits vorliegenden Priifungsergebnisse sind in diesem Fall anzurecnnen. 
+
+- (3) Versucht ein Kandidat das Ergebnis einer Priifungsleistung durch Unterschleif, Tauschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Priifungsleistung als mit “nicht ausreichend" (5,0) bewertet. 
+
+- (4) Angebliche Mangei des Priifungsverfahrens oder eine vor oder wahrend der Priifung eingetretene Prifungsunfahigkeit mussen unverziiglich, spatestens jedoch innerhalb von sieben Werktagen nach der Prufungsleistung, beim Vorsitzenden oder bei dem jeweiligen Priifer geltend gemacht werden. Erweist sich, dai das Prifungsverfahren mit Mangeln behaftet war, die das Priifungsergebnis beeinfluBt haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, da8 von einem bestimmten oder von allen Kandidaten die Priifung oder einzelne Teile derselben wiederholt werden. 
+
+- (5) Vor einer Entscheidung gema8 Absatz 4 ist dem Kandidaten Gelegenheit zu geben, sich zu auBern. 
+
+- § 10 Bewertung der Leistungsnachweise, der einzelinen Teilpriifungen und Bildung der Priifungsgesamtnote. 
+
+- (1) Die Urteile uber Leistungsnachweise gemaB § 15 Nr.3 Buchst. a} bis i) sowie die einzelnen Priifungsleistungen werden von dem jeweiligen Priifer durch folgende Noten und Pradikate ausgedriickt: 
+
+   - 1 = sehr gut = eine hervorragende Leistung; 
+
+   - 2 = gut = eine Leistung, die erheblich tiber den durchschnittlichen Anforderungen liegt; 
+
+   - 3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; 
+
+   - 4 = ausreichend = eine Leistung, die trotz ihrer Mangel noch den Anforderungen genligt; 
+
+   - 5 = nicht = eine Leistung, die wegen erheblicher Manausreichend gel den Anforderungen nicht mehr gentgt. 
+
+<!-- Start of picture text -->
+.<br>:<br>.<br><!-- End of picture text -->
+
+<!-- Start of picture text -->
+oe<br><!-- End of picture text -->
+
+° : Os ee 
+
+: 
+
+a ee ees Bary ae ook o ae as oes A ae ea a ees a nee ee Pes 
+
+Zur differenzierteren Bewertung der Leistungen kénnen die Notenziffern um 0,3 erniedrigt bzw. erhdht werden. Die Noten 0,7 , 4,3 , 4,7 und 5,3 sind ausgeschlossen. Ein Priifungstei] ist dann bestanden, wenn die Leistung mindestens mit der Note “ausreichend" (4,0) bewertet wurde. 
+
+- (2) Die Priifungsgesamtnote wird als Durchschnittsnote aus folgenden, jeweils einfach gewichteten Teilleistungen gebildet: 
+
+   - der Note der Hausarbeit 
+
+   - der Note der mindlichen Priifung 
+
+   - der Note der schriftlichen Priifung 
+
+   - der Note der praktischen Priifung 
+
+   - - der Durchschnittsnote der bewerteten | Leistungsnachweise gemaB8 § 15 Nr. 3 Buchst. d) bis i). Bei der Ermittelung dieser Durchschnittsnote wird jeder der sechs Leistungsnachweise einfach gewichtet. 
+
+Die Priifungsgesamtnote der bestandenen Priifung lautet: 
+
+Bei einem Durchschnitt bis 1,5 = sehr gut Bei einem Durchschnitt Uber 1,5 bis 2,5 = gut Bei einem Durchschnitt liber 2,5 bis 3,5 = befriedigend Bei einem Durchschnitt Uber 3,5 bis 4,0 = ausreichend 
+
+. 
+
+- § 11 Ungiiltigkeit der Priifung 
+
+- (1) Hat der Kandidat bei einer Priifung getauscht und wird diese Tatsache erst nach der Aushandigung der Zeugnisse bekannt, so kann der PriifungsausschuB nachtrdglich die betroffenen Noten entsprechend berichtigen und die Priifung ganz oder teilweise fiir nicht bestanden erklaren. 
+
+**o** , 
+
+- (2) Waren die Voraussetzungen fiir die Zulassung zu einer Priifung nicht erfiilit. ohne da& der Kandidat hieriiber tduschen wollte, und wird diese Tatsache erst nach der Aushdndigung der Zeugnisse bekannt, so wird dieser Mangel durch das Bestehen der Priifung gehefit.. Hat der Kandidat die Zulassung vorsatzlich zu Unrecht erwirkt, entscheidet der Priifungsausschu8 unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsatzen tiber die Riicknahme rechtswidriger Verwaltungsakte. 
+
+- (3) Dem Kandidaten jist vor einer Entscheidung gema8 Absatz 2 Gelegenheit zur AuBerung zu geben. 
+
+- (4) Das unrichtige Priifungszeugnis ist einzuziehen; gegebenenfalls ist ein neues zu erteilen. Eine Entscheidung gema® Absatz 2 Satz 2 ist nach einer Frist von fiinf Jahren ab dem Datum des Priifungszeugnisses ausgeschlossen. 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+6 
+
+. ‘ 8 ee “ 
+
+f 
+
+oe ook. % 
+
+§ 12 Einsicht in die Priifungsakten 
+
+- (1) Nach Abschlu8 des Priifungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Priifungsarbeiten, die darauf bezogenen Gutachten der Priifer und in die Priifungsprotokolle gewahrt. 
+
+- (2) Der Antrag ist binnen einem Monat nach Aushandigung des Priifungszeugnisses beim Vorsitzenden des Priifungsausschusses zu stellen. Art. 32 des Bayerischen Verwaltungsverfahrensgesetzes (BayRS 2010-1-1) gilt entsprechend. Der Vorsitzende des Prifungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+
+- § 13 Bescheinigung iiber eine nicht bestandene Priifung * Hat der Kandidat die Priifung endgiiltig nicht bestanden, wird ihm auf. Antrag und gegen Vorlage der entsprechenden Nachweise sowie der Exmatrikulationsbescheinigung eine schriftliche Bescheinigung ausgestellt, aus der sich das Nichtbestehen der Priifung, die in den einzelnen Priifungsfachern erzielten Noten und die noch fehlenden Priifungsleistungen ergeben. 
+
+. 
+
+§ 14 Priifungsvergiinstigungen fiir Schwerbehinderte 
+
+- (1) Auf die besondere Lage schwerbehinderter Kandidaten ist in _-angemessener Weise Riicksicht zu nehmen. Insbesondere ist schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verldngerung der Bearbeitungszeit fiir schriftliche. und praktische Priifungsteile um bis zu einem Viertel zu gewahren. 
+
+- (2) Priifungsvergiinstigungen gema8 Absatz 1 werden nur auf schriftlichen Antrag hin gewadhrt. Der Antrag ist der Meldung zur Priifung beizufiigen. 
+
+; 
+
+. ° a wc oe UTE ook 
+
+# II. Besondere Bestimmungen fiir die AbschTu8prifung 
+
+## § 15 Zulassungsvoraussetzungen 
+
+Voraussetzungen fiir die Zulassung zur Prifung sind: 
+
+. 
+
+1. Nachweis der Qualifikation flir das Aufbaustudium Gerontopsychologie gemaB § 2. 
+
+2. Ein mindestens viersemestriges Studium der Gerontopsychologie entsprechend der Studienordnung fiir das Aufbaustudium Gerontopsychologie der Universitat Erlangen-Nirnberg. 
+
+3. Je ein Nachweis uber die erfolgreiche Teilnahme an’ einer Ubung oder einem Seminar aus den folgenden Studienbereichen: 
+
+   - a) Gerontopsychologie: Methodologie 
+
+   - b) Gerontopsychologie: Grundlagenergebnisse 
+
+   - c) Gerontopsychologie: Intervention 
+
+   - d) Medizin und Biologie 
+
+   - e) Padagogik f) Soziologie g) Sportwissenschaft h) Recht 1) Ethik (Philosophie/Theologie) 
+
+, 
+
+Flir die erfolgreiche Teilnahme an diesen Lehrveranstal tungen wird von dem fiir die jeweilige Veranstaltung zustandigen Dozenten mindestens einer der folgenden Leistungsnachweise gefordert: Referat, schriftliche Hausarbeit oder Klausur. Die Leistung wird entsprechend § 10 Abs. 1 benotet. Flr eine erfolgreiche Teilnahme muB mindestens die Note "ausreichend” (4,0) erzielt werden. Nicht erfolgreich absolvierte Lehrveranstaltungen kdnnen innerhalb der Meldefrist zur Priifung wiederholt werden. . 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+4. Je ein Nachweis liber die Ableistung eines sechswochiges Praktikums in folgenden Arbeitsbereichen: - Finrichtungen der institutionalisierten Altersversorgung (Altenheime, Pflegeheime, psychiatrische Altenkrankenhaduser usw.) 
+
+. - 
+
+- Einrichtungen der offenen Altenhilfe (Seniorenbetreuung, Essen auf Radern, Tageskliniken usw.) 
+
+sowie Vorlage je eines Berichtes Uber diese Praktika. 
+
+<!-- Start of picture text -->
+8|<br>|<br>7|<br><!-- End of picture text -->
+
+Se 
+
+Der Kandidat stellt einen schriftlichen Zulassungsantrag beim a Vorsitzenden des Priifungsausschusses. - Dem Antrag sind beizufiigen: ° 1. Zeugnis liber die Qualifikation gemaB § 2; aa 2. Studienbuch oder sonstige Nachweise gemaB § 15 Nr. 2; : 3. Leistungsnachweise gemdB § 15 Nr. 3; 4. Nachweise uber Praktika gemé8 § 15 Nr. 4; 5. Lebenslauf; : . 6. amtliches Fiihrungszeugnis, falls der Kandidat im Augenblick des Antrags schon langer als drei Monate exmatrikuliert ist a und sich nicht im offentlichen Dienst befindet: 7. Thema der Hausarbeit und Bestadtigung des betreuenden Priifers; 8. Angabe des Teilbereiches aus § 15 Nr. 3. Buchst. a) bis c), oe aus welchem die schriftliche Priifung gewiinscht wird; os 9. Angabe der fiir die miindliche und praktische Priifung genoe wunschten Prifer; a einePriifungErkldrungPriifungErkldrungErkldrung dariiber, ob der Kandidat bereits eine . : hat; im Aufbaustudium Gerontopsychologie nicht bestanden OE ae im Wiederholungsfall die bei der ersten Priifung angenommene 8 es und fiir die Wiederholungspriifung anerkannte Hausarbeit. - gos Kann ein Kandidat ohne sein Verschulden die erforderlichen . “Sy Unterlagen nicht in der vorgeschriebenen Art beibringen, so ay kann ihm der Priifungsausschu8 auf Antrag gestatten, die Bd entsprechenden Nachweise auf andere Art zu fiihren. za “ed Sdmtliche dem Antrag beigefiigten Anlagen mit Ausnahme der nk dl Studienbiicher gehen in das Eigentum der Universitat Uber und al verbleiben bei den Akten. Beigefiigte Originalunterlagen werden ey nur zuriickgegeben, sofern der Kandidat als Ersatz “Sy Zweitschriften oder beglaubigte Ablichtungen vorlegt. — aaa a oe 
+
+“a 
+
+§ 16 Antrag auf Zulassung zur Priifung 
+
+- (1) Der Kandidat stellt einen schriftlichen Zulassungsantrag beim Vorsitzenden des Priifungsausschusses. 
+
+- (2) Dem Antrag sind beizufiigen: 
+
+, 
+
+   8. Angabe des Teilbereiches aus § 15 Nr. 3. Buchst. a) bis c), aus welchem die schriftliche Priifung gewiinscht wird; 
+
+   9. Angabe der fiir die miindliche und praktische Priifung gewunschten Prifer; 
+
+   10. einePriifungErkldrungPriifungErkldrungErkldrung dariiber, ob der Kandidat bereits eine hat; im Aufbaustudium Gerontopsychologie nicht bestanden 
+
+   11. im Wiederholungsfall die bei der ersten Priifung angenommene und fiir die Wiederholungspriifung anerkannte Hausarbeit. 
+
+- (3) Kann ein Kandidat ohne sein Verschulden die erforderlichen Unterlagen nicht in der vorgeschriebenen Art beibringen, so kann ihm der Priifungsausschu8 auf Antrag gestatten, die entsprechenden Nachweise auf andere Art zu fiihren. 
+
+- (4) Sdmtliche dem Antrag beigefiigten Anlagen mit Ausnahme der Studienbiicher gehen in das Eigentum der Universitat Uber und verbleiben bei den Akten. Beigefiigte Originalunterlagen werden nur zuriickgegeben, sofern der Kandidat als Ersatz Zweitschriften oder beglaubigte Ablichtungen vorlegt. — 
+
+. 
+
+4 
+
+a 
+
+fn 
+
+- a Lal 4 | 4 | | | =| | | 
+
+| | 
+
+§ 17 Zulassung 
+
+- (1) Uber die Zulassung zur Priifung entscheidet der Vorsitzende des 
+
+- : Priifungsausschusses aufgrund der eingereichten Unterlagen. In Zweifelsfallen kann er den Antrag dem Priifungsausschu8 zur Entscheidung vorlegen. 
+
+(2) Ofte Zulassung ist zu versagen, wenn der Kandidat 
+
+   1. die Voraussetzungen des § 15 nicht erfiil]t oder 
+
+2. die in § 16 Abs. 2. benannten Unterlagen nicht ordnungsgemaB oder nicht vollstandig vorgelegt oder noch fehlende Leistungsnachweise nicht spdtestens sieben Werk-~ tage vor Beginn der ersten Priifung nachgereicht oder 
+
+3. die Priifung im Aufbaustudium Gerontopsychologie endgiiltig nicht bestanden hat. 
+
+(3) Die Zulassungsentscheidung ist dem Kandidaten spatestens zwei Wochen nach Ende der jeweiligen Meldefrist schriftlich mitzuteilen. 
+
+. 
+
+§ 18 Art, Zusammensetzung und Inhalt der Priifung 
+
+- (1) Die Priifung besteht aus: 
+
+## 1. einer Hausarbeit (§ 19), 
+
+2. einer miindlichen Priifung von einer halben Stunde Dauer liber die in § 15 Nr. 3. Buchst. a) bis c) genannten Bereiche, 
+
+3. einer schriftlichen Priifung von vier Stunden Dauer iiber einen der in § 15 Nr. 3. Buchst. a) bis c) genannten Bereiche, den der Kandidat auswahlen darf. 
+
+4. einer praktischen Priifung (Fallpriifung) iiber die in § 15 DieNr. 3. Buchst. a) bis d) genannten Bereiche. erst Priifungsleistungen nach Absatz 1 Nrn. 2 bis 4 diirfen erbracht werden, wenn die Hausarbeit mit mindestens 
+
+“ausreichend" (4,0) bewertet ist. 
+
+(2) Gegenstand der Priifung sind die Fragesteliungen und Probleme der genannten Facher. Im Vordergrund steht dabei die praxisbezogene Anwendung wissenschaftlicher Arbeits~ und Forschungsergebnisse. 
+
+| 
+
+<!-- Start of picture text -->
+|<br>|<br>|<br>if<br><!-- End of picture text -->
+
+10 
+
+| 
+
+, . os a . e ude 
+
+| | 
+
+( 
+
+### § 19 Hausarbeit 
+
+- (1) Ofe Hausarbeit soll zeigen, daB der Kandidat imstande ist, Fragestellungen der Gerontopsychologie selbstandig nach wissenschaftlichen Methoden und Erkenntnissen zu bearbeiten. 
+
+- (2) Das Thema der Hausarbeit sowie der Betreuer konnen vom Kandidaten frei gewahit werden. Das Thema der Hausarbeit bedarf der Zustimmund des Betreuers. Interdisziplinare Fragestellungen kénnen Beriicksichtigung finden. Das Thema der Arbeit, der Tag der Ausgabe und der Name des Betreuers. sind aktenkundig zu machen. . 
+
+- (3) Die Hausarbeit soll friihestens nach Abschlu& des zweiten Fachsemesters vergeben werden. Sie ist innerhalb von sechs 
+
+- “Monaten nach der Ausgabe des Themas durch den Betreuer vorzulegen. Der Abgabezeitpunkt ist aktenkundig zu machen. Weist der Kandidat vor Ablauf der Frist nach, da8 er den Termin aus von ihm nicht zu vertretenden Griinden nicht einhalten kann, kann der Vorsitzende des Priifungsausschusses eine Nachfrist von drei Monaten bewilligen. Wird die gesetzte Frist nicht eingehaiten, so gilt die Priifung als nicht bestanden. 
+
+- (4) Das Thema der Hausarbeit kann einmal, jedoch nur aus schwerwiegenden Griinden und nur mit = Einwilligung des Vorsitzenden des Priifungsausschusses, Zuriickgegeben werden. Eine Riickgabe ist nur. bis zum Ablauf eines Monates nach Ausgabe des Themas zuldssig. Flr die Ausgabe eines neuen Themas finden die. Vorschriften der Absdtze 2 und 3. entsprechende Anwendung. 
+
+- (5) Mit der Hausarbeit ist eine schriftliche Erkldrung des Kandidaten einzureichen, daB er die Arbeit selbstandig angefertigt, dabei keine anderen Hilfsmittel als die im Quellenund Literaturverzeichnis genannten benutzt, alle aus Quellen und Literatur wortlich oder sinngema& entnommenen Stellen als solche kenntlich gemacht, und die Fundstellen einzeln nachgewiesen hat. Ferner hat der Kandidat schriftlich zu erklaren, daB die eingereichte Arbeit nicht schon bei einer anderen Hochschulpriifung vorgelegt wurde. 
+
+- (6) Bei Vorlage einer Dissertation mit einschlagigem Thema entfdllt die Hausarbeit. Uber die Anerkennung des Dissertationsthemas als einschlagig entscheidet der PriifungsausschuB. 
+
+<!-- Start of picture text -->
+|<br>of<br>|<br>|<br>|<br>|<br><!-- End of picture text -->
+
+<!-- Start of picture text -->
+i<br><!-- End of picture text -->
+
+| 
+
+11 
+
+, 
+
+### § 20 Bewertung der Hausarbeit 
+
+- (1) Die Hausarbeit ist von dem Betreuer, der das Thema gestelit hat, und von einem zweiten Gutachter binnen drei Monaten zu beurteilen. Bei nicht lbereinstimmender Beurteilung entscheidet der Priifungsausschu8 unter Beriicksichtigung der Notenvorschlage liber die endgiiltige Bewertung. 
+
+, 
+
+- (2) Die Bewertung der Hausarbeit erfolgt nach den in § 10 Abs. 1 aufgefiihrten Pradikaten. 
+
+- (3) Wird eine Dissertation anstelle der Hausarbeit eingereicht, so wird die hierfiir erteilte Note iibernommen. Auf Antrag des’ Kandidaten kann eine Neubewertung entsprechend der Absatze 1 und 2 unter Zugrundelegung der im Aufbaustudiengang Psychologie verlangten Anforderungen und Bewertungsgesichtspunkte erfolgen. 
+
+- (4) Ist das Prddikat der Hausarbeit endgiiltig “nicht ausreichend" (5,0), so gilt die Priifung als nicht bestanden. 
+
+- punkte erfolgen. , 
+
+- (4) Ist das Prddikat der Hausarbeit endgiiltig “nicht ausreichend" (5,0), so gilt die Priifung als nicht bestanden. 
+
+- § 21 MUndliche Priifung oe (1) Die miindliche Priifung dient der Feststellung der griindlichen ne Kenntnisse des Kandidaten im gesamten Gebtet der sk Gerontopsychologie geméB § 15 Nr. 3. Buchst. a) bis c). bee 
+
+- (2) Die miindliche Priifung hat die Form einer Einzelpriifung. Der . oo Vorsitzende des Priifungsausschusses bestimmt einen Beisitzer, JSS der das Protokoll fiihrt.. In das Protokol] sind aufzunehmen: rc Ort und Zeit. sowie Zeitdauer der Priifung, Gegenstand und ae Ergebnis der Priifung, die Namen des Priifers, des Beisitzers ace und des Kandidaten sowie besondere Vorkommnisse. Priifer und os Beisitzer unterzeichnen das Protokoll. Dieses ist mindestens es zwei Jahre aufzubewahren. | 
+
+- (3) - | Die miindliche Priifung dauert eine halbe Stunde. | 
+
+- (4) 4 Die Note der miindlichen Priifung setzt der jeweilige Priifer v4 nachschlu8 der Notenskala des § 10 Abs. 1 unmittelbar nach Ab. ae der miindlichen Priifung fest. | 
+
+- 22 Schriftliche Priifung | 
+
+- (1) =. = Die schriftliche Priiffung dient der Feststellung der wf] grindlichen Kenntnisse des Kandidaten in dem von ihm aus § 15 a 
+
+- _ Nr. 3, Buchst. a) bis c) gewah?ten Priifungsfach und der Fahigoo keit zu selbstandiger Darstellung umgrenzter Probleme in fest~ gesetzter Zeit. | 
+
+- § 22 Schriftliche Priifung 
+
+- (1) Die schriftliche Priiffung dient der Feststellung der grindlichen Kenntnisse des Kandidaten in dem von ihm aus § 15 
+
+- _ Nr. 3, Buchst. a) bis c) gewah?ten Priifungsfach und der Fahigkeit zu selbstandiger Darstellung umgrenzter Probleme in fest~ gesetzter Zeit. 
+
+. 
+
+: 
+
+, 
+
+   - (2) Die schriftliche Priifung dauert vier Stunden. Es werden fiir das gewahite Fach zwei Themen gestellt. Eines dieser Themen ist zu bearbeiten. 
+
+- (3) Die Bewertung der Klausur erfolgt nach den jin § 10 Abs. 1 aufgefiihrten Pradikaten. Die Professoren, die die Aufgaben gestellt haben, werden zu Priifern bestellt. Die Benotung der schriftlichen Priifungsarbeit erfolgt in der Regel durch Zwe j Prifer. Bei Nichteinigung der beiden Priifer entscheidet der PrdfungsausschuB iiber die endgiiltige Bewertung; er kann einen weiteren Gutachter hinzuziehen. 
+
+- § 23 Praktische Priifung (Fal lpriifung) (1) Die praktische Prifung erfolgt iiber die in § 15° Nr. 3. Buchst. a) bis d) genannten Gebiete. Gegenstand der Prtifung sind ein oder mehrere Faille oder Fallgeschichten mit entsprechenden Unterlagen {(Anamnese, Testergebnisse, Krankenblatter usw.). Anhand dieser hat der Kandidat theoretische und Ppraktische Kentnisse und Fertigkeiten aus den Bereichen psychologische Diagnostik, Interventions= und Rehabilitations- 
+
+- ; maBnahmen, Kranken= und Altenpflege unter psychalogischen und . medizinisch-biologischen Aspekten, Erste Hilfe sowie Medikamentenkunde zu belegen. 
+
+- (2) Die - praktische Priifung wird als Einzelpriifung vor einem 
+
+- ; Priifungskollegium abgenommen, das aus einem Psychologen und einem Mediziner besteht. Beide Priifer priifen etwa gleich lang. 4 Die Dauer der Priifung betragt etwa 45 Minuten. Der Vorsitzende 2] des Priifungsausschusses bestimmt einen Beisitzer, der das i 2.ProtokollSatze 3 fiihrt.bis 5. Fir den Inhalt des Protokolls gilt § 21 Abs. ad 
+
+- (3) S| Die Note wird von den beiden Priifern nach der Notenskala des | § 10 Abs. 1 unmittelbar nach Abschlue der praktischen . “il Priifung festgesetzt. Bei Nichteinigung der beiden Priifer gilt 7 die nach dem arithmetischen Mittel errechnete Note. Falls a diese Note in § 10 Abs. 1 nicht vorgesehen ist, wird zur | nachstbesseren Note nach § 10 Abs. 1 gerundet. “| 
+
+- § 24 Festlegung des Priifungsergebnisses der Priifung, Nichtbestehen ‘ der Priifung asi 
+
+- (1) Die Priifung ist nur bestanden, wenn die Noten der Hausarbeit, .| der mindlichen, schriftlichen und praktischen Priifung | mindestens “ausreichend" (4,0) lauten. ; | 
+
+- (2) Ist die Priifung nicht bestanden oder gilt sie als nicht bestanden, so erhalt der Kandidat hieriiber einen schriftlichen “| Bescheid, der die erzielten Noten ausweist und — dariiber “4 Auskunft gibt, ob und innerhalb welcher Frist die Priifung 4 wiederholt werden kann. “| 
+
+<!-- Start of picture text -->
+ij<br><!-- End of picture text -->
+
+13 
+
+. . , e . ae od eg om “24 . a a <4 4 | od | i a nel = eens | St of ]. | | a4 | | | 
+
+. 
+
+   - § 25 Wiederholung der Priifung 
+
+- (1) Ist einer der Priifungsteile (miindliche, schriftliche oder wiederholtpraktische werden.Priifung) nicht bestanden, so kann dieser Tei] 
+
+- (2) Ist die Prifung in zwei oder mehr Priifungsteilen nicht bestanden, so gilt sie insgesamt als nicht bestanden und kann nur in allen Priifungsteilen wiederholt werden. 
+
+- (3) Die Zulassung zur Wiederholungspriifung ist nur bis zum Ablauf von sechs Monaten nach der letzten Prufungsleistung moglich. In begriindeten Ausnahmefallen kann diese Frist vom Prifungsausschu8 auf schriftlichen Antrag hin um hochstens sechs Monate verlangert werden; eine weitere Verlangerung ist nicht moglich. Der Antrag jist vor Abiauf der Frist einzureichen. Versaumt der Kandidat unentschuldigt die Frist oder stellt er nicht rechtzeitig einen Verldngerungsantrag, gilt die Priifung als endgiiltig nicht bestanden. 
+
+- (4) Ist die Priifung nicht bestanden, weil die Hausarbeit nicht mit “ausreichend" (4,0) bewertet oder nicht fristgerecht abge~ liefert wurde, so kann er Kandidat auf Antrag unverzuglich ein neues Thema erhalten: eine Riickgabe dieses Themas ist nicht zuldssig. Der Antrag ist Spatestens innerhalb von zwei Monaten ab Bekanntgabe der Bewertung der Erstarbeit oder der Mitteilung tiber das Nichtbestehen der Priifung zu stellen. endgiiltig nicht bestanden. Versdumt der Kandidat diese Frist, gilt die Priifung als 
+
+- (5) Eine zweite Wiederholung der Hausarbeit jst ausgeschlossen. Fine zweite Wiederholung der Ubrigen Priifungsleistungen ist nur in Ausnahmefallen innerhalb einer Frist von sechs Monaten, gerechnet von der letzten Priifungsleistung an, und nur dann moglich, wenn der Kandidat in wenigstens zwei hat.PriifungsleistungenIm Ubrigen geltenmindestensAbsatz IdiebisNote4 entsprechend.“befriedigend" erhalten 
+
+- --§ 26 Zeugnis Uber | die bestandene Priifung wird innerhalb von vier Wochen ein 
+
+- Zeugnis ausgestellt. Dieses enthalt das Thema und die Note der Hausarbeit, die Noten der muindlichen, schriftlichen und Praktischen Priifung, die Durchschnittsnote der bewerteten Scheine der Facher entsprechend § 15 Nr. 3. Buchst. d) bis i} sowie die Priifungsgesamtnote. Das Zeugnis wird vom Vorsitzenden des Priifungsausschusses unterzeichnet.. Als Datum des Zeugnisses. ist der Tag anZugeben, an dem alle Prifungsleistungen erfiillt sind. 
+
+14 
+
+, 
+
+at 
+
+a 
+
+: =, 
+
+| | 
+
+### § 27 Urkunde 
+
+- (1) Gleichzeitig mit dem Zeugnis wird dem Kandidaten eine Urkunde mit dem Datum des Zeugnisses ausgehdndigt. 
+
+- (2) Die Urkunde enthalt die Priifungsgesamtnote. Die Urkunde wird vom Vorsitzenden des Priifungsausschusses und vom Dekan der Erziehungswissenschaftlichen Fakultdt unterzeichnet. 
+
+### III. SchluBbestimmungen 
+
+Diese Priifungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. , 
+
+, 
+
+Ausgefertigt auf Grund des Beschlusses des Senats der Universitdt Erlangen-Niirnberg vom 14. Mai 1986 und der Genehmigung ° des Staatsministeriums flir Unterricht und Kultus durch Schreiben vom 12. Juni 1986 Nr. I B 10 - 6/79 415. 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
+
+Erlangen, den 20. Juni 1986 In Vertretung 
+
+y;, ( Prof. Dr. K. Geibel Vizeprasident 
+
+) 
+
+| 
+
+<!-- Start of picture text -->
+:<br><!-- End of picture text -->
+
+Die Satzung wurde am 20. Juni 1986 in der Universitdt Erlangen~ Niirnberg niedergélégt; die Niederlegung wurde am 20. Juni 1986 durch Anschlag in der Universitat Erlangen-Nlirnberg bekanntqdegeben. 
+
+Tag der Bekanntmachung ist der 20. Juni 1986. 
+
+15 
 

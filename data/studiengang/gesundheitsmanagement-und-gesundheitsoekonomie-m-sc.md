@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:45:56+00:00
+scraped_at: 2026-07-01T08:22:36+00:00
 ---
 
 # Gesundheitsmanagement und Gesundheitsökonomie (M.Sc.)
@@ -86,7 +86,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 ### Bewerbungsfrist
 
-* Wintersemester: 31.05.
+* Wintersemester: 15.07.
 * Sommersemester: nicht möglich
 
 ### Sprachkenntnisse
@@ -96,6 +96,8 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Voraussetzungen für Master
 
 Alle Bewerbungen durchlaufen ein Verfahren, in dem sie auf ihre Eignung für den MiGG-Master geprüft werden. Die Zugangsvoraussetzungen setzen einen einschlägigen Abschluss nach der [Fachstudien- und Prüfungsordnung des MiGG (FPOMiGG)](https://www.migg.wiso.rw.fau.de/files/2024/02/MSc_Gesundheitsmanagement_und_-oekonomie_FPOMiGG_20240229.pdf) voraus. Darüber hinaus werden die Qualität des bisherigen Studienabschlusses, berufspraktische Erfahrungen im Gesundheitswesen und fachspezifische Inhalte in Gesundheitsmanagement/-ökonomie im bisherigen Studium innerhalb des Qualifikationsfeststellungsverfahrens als Auswahlkriterien berücksichtigt.
+
+Um Ihre Zulassungschancen selbst einschätzen zu können steht Ihnen unser interaktiver [MiGG-Rechner](https://www.migg.wiso.rw.fau.de/zulassung/) zur Verfügung.
 
 Vorausgesetzt wird ein Abschluss in einem Studiengang (insbesondere Bachelorstudiengang Wirtschaftswissenschaften an der FAU sowie vergleichbare Studiengänge anderer Hochschulen),  in dem fachspezifische Kenntnisse (Wirtschaftswissenschaften, Fachgruppe Statistik) im Umfang von mindestens 60 ECTS-Punkten (exklusive Bachelorarbeit) vermittelt wurden, davon
 
@@ -115,7 +117,7 @@ Der Abschluss muss dann spätestens innerhalb eines Jahres nach Aufnahme des Stu
 
 Zudem darf die Gesamtnote des einschlägigen Abschlusses nicht schlechter als 3,0 sein.
 
-Weitere Informationen erhalten Sie [hier](https://www.migg.wiso.rw.fau.de/zulassung/).
+Weitere Informationen sowie einen Rechner zur Einschätzung Ihrer Zulassungschancen finden Sie [hier](https://www.migg.wiso.rw.fau.de/zulassung/).
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -164,7 +166,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Modulhandbuch](https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [Fachstudien- und Prüfungsordnung des MiGG (FPOMiGG)](https://www.migg.wiso.rw.fau.de/files/2024/02/MSc_Gesundheitsmanagement_und_-oekonomie_FPOMiGG_20240229.pdf)
-- [hier](https://www.migg.wiso.rw.fau.de/zulassung/)
+- [MiGG-Rechner](https://www.migg.wiso.rw.fau.de/zulassung/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)

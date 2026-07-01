@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 02.07.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Soziol.JULI2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:01+00:00
-page_count_chars: 10410
+scraped_at: 2026-07-01T10:30:40+00:00
+page_count_chars: 9801
 ---
 
 # PDF vom 05.10.2007 i.d.F. 02.07.2015
@@ -16,7 +16,7 @@ page_count_chars: 10410
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FPOSoz Zwei-Fach) Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FPOSoz Zwei-Fach) Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 22. Juli 2008 
 
@@ -40,7 +40,14 @@ geändert durch Satzungen vom 22. Juli 2008
 
 ## **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .......................................................................................................... 1 § 2 Umfang und Ziele des Studiums .................................................................................. 1 § 3 Fächerkombinationen .................................................................................................. 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ............................................................... 2 § 5 Grundlagen und Orientierungsprüfung......................................................................... 3 § 6 Schluss- und Übergangsvorschriften ........................................................................... 3 Anlage ............................................................................................................................ 4-5 
+|§ 1 Geltungsbereich .......................................................................................................... 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums .................................................................................. 1|
+|§ 3 Fächerkombinationen .................................................................................................. 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ............................................................... 2|
+|§ 5 Grundlagen und Orientierungsprüfung......................................................................... 3<br>|
+|§ 6 Schluss- und Übergangsvorschriften ........................................................................... 3|
+|Anlage ............................................................................................................................ 4-5|
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Studien- und Prüfungsordnung: 
 
@@ -54,9 +61,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 1 
 
-(2)[1] Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Das Studium bereitet auf berufliche Tätigkeiten vor.[2] Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(3)<sup>1</sup> Das Studium bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (4) Das Studium der Soziologie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden zur Analyse der sozialen Wirklichkeit und zur Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft befähigt: 
 
@@ -74,7 +81,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -82,9 +89,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (2) Abweichend von Abs. 1 entfällt beim Studium der Soziologie als Zweitfach der Besuch der Module „Wahlbereich intern“ und „Bachelorarbeit“. 
 
-(3)[1] Wird Soziologie als Erstfach gewählt, sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Davon entfallen 10 ECTS-Punkte auf das Modul Praktikum. 
+(3)<sup>1</sup> Wird Soziologie als Erstfach gewählt, sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Davon entfallen 10 ECTS-Punkte auf das Modul Praktikum. 
 
-(4)[1] Wird Soziologie als Zweitfach gewählt, wird im Bereich Schlüsselqualifikationen das Absolvieren des Moduls „Praktikum“ empfohlen.[2] Daneben wird die Auswahl von Modulen angeregt, die beruflich verwertbare Qualifikationen vermitteln bzw. eine sinnvolle Ergänzung zur Soziologie darstellen. 
+(4)<sup>1</sup> Wird Soziologie als Zweitfach gewählt, wird im Bereich Schlüsselqualifikationen das Absolvieren des Moduls „Praktikum“ empfohlen.<sup>2</sup> Daneben wird die Auswahl von Modulen angeregt, die beruflich verwertbare Qualifikationen vermitteln bzw. eine sinnvolle Ergänzung zur Soziologie darstellen. 
 
 2 
 
@@ -92,60 +99,47 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 Im Hinblick auf die Anforderungen zum Bestehen der Grundlagen- und Orientierungsprüfung gilt § 30 **ABMStPO/Phil** . 
 
-**§ 6 Schluss- und Übergangsvorschriften** 
+## **§ 6 Schluss- und Übergangsvorschriften** 
 
 (1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die 3. Änderungssatzung gilt für alle Module, die nach dem In-Kraft-Treten dieser Änderungssatzung abgelegt werden.[2] Bereits abgeschlossene Module bzw. Teilstudiengänge bleiben hiervon unberührt. 
+(2)<sup>1</sup> Die 3. Änderungssatzung gilt für alle Module, die nach dem In-Kraft-Treten dieser Änderungssatzung abgelegt werden.<sup>2</sup> Bereits abgeschlossene Module bzw. Teilstudiengänge bleiben hiervon unberührt. 
 
 3 
 
 ## **Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Soziologie** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prü-<br>f/Sili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||in ECTS-Punkten1||||||
-||||||||||||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|ungtudenestung||
-|Pflichtbereich|||||||||||||||
-|**Einführung**<br>**(SozE)**|V Einführung in die<br>Soziologie|2||||5|5||||||Klausur (60 min.)|0,5|
-|**Sozialstrukturanalyse**<br>**(SozStruk)**|V Sozialstrukturanalyse|2||||5|5||||||Klausur (60 min.)|0,5|
-|**Einführung**<br>**Soziologische**<br>**Theorien (SozT-E)**|V Soziologische Theorien|2||||5||5|||||Klausur (60 min.)|1|
-|**Vertiefung**<br>**Soziologische**<br>**Theorien(SozT-V)**|PS||2|||5|||5||||Referat (10-20 min.) und<br>Hausarbeit im Umfang von<br>10-15 Seiten|1|
-|**Einführung in die**<br>**soziologische**<br>**Methodenlehre**<br>**(SozM-E)**|V Einführung in die Methoden der<br>empirischen Sozialforschung|2||||5||5|||||Klausur (60 min.)|1|
-|**Statistische**<br>**Analyseverfahren I**<br>**(SozS-I)**|V Statistische Analyse-verfahren I|2||||5|||2,5||||Klausur (60 min.)|1|
-||Ü Statistische Analyseverfahren I|||2|||||2,5||||||
-|**Statistische**<br>**Analyseverfahren II**<br>**(SozS-II)**|||||||||||||Klausur (60 min.)|1|
-||V Statistische Analyse-verfahren II|2||||||||2,5|||||
-|||||||5|||||||||
-||Ü Statistische Analyse-verfahren II|||2||||||2,5|||||
-|**Qualifikationsprofil I**<br>**(SozQ-I)**|PS||2|||10|5||||||Mündliche Leistung (Referat<br>oder mündliche Prüfung) im<br>Umfang von 10-20 Minuten und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 10-15 Seiten|1|
-||PS||2|||||5|||||||
-|**Qualifikationsprofil II**<br>**(SozQ-II)**|PS||2|||10|||5||||Mündliche Leistung (Referat<br>oder mündliche Prüfung) im<br>Umfang von 10-20 Minuten und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 10-15 Seiten|1|
-||PS||2|||||||5|||||
+|Modulbezeichnung<br>Pflichtbereich|Lehrveranstaltung|V|SW<br>S|S<br>Ü<br>P|Gesamt<br>ECTS<br>|Worklo<br>1.<br>2.|ad-Verte<br>in ECT<br>3.|ilung pro Semester<br>S-Punkten<sup>1</sup><br>4.<br>5.<br>6.|Art und Umfang der Prü-<br>fung/Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|<br>**Einführung**<br>**(SozE)**|V Einführung in die<br>Soziologie|2|||5|5|||Klausur (60 min.)|0,5|
+|**Sozialstrukturanalyse**<br>**(SozStruk)**|V Sozialstrukturanalyse|2|||5|5|||Klausur (60 min.)|0,5|
+|**Einführung**<br>**Soziologische**<br>**Theorien (SozT-E)**|V Soziologische Theorien|2|||5|5|||Klausur (60 min.)|1|
+|**Vertiefung**<br>**Soziologische**<br>**Theorien(SozT-V)**|PS||2||5||5||Referat (10-20 min.) und<br>Hausarbeit im Umfang von<br>10-15 Seiten|1|
+|**Einführung in die**<br>**soziologische**<br>**Methodenlehre**<br>**(SozM-E)**|V Einführung in die Methoden der<br>empirischen Sozialforschung|2|||5|5|||Klausur (60 min.)|1|
+|**Statistische**<br>|V Statistische Analyse-verfahren I|2|||||2,5||||
+|**Analyseverfahren I**<br>**(SozS-I)**|Ü Statistische Analyseverfahren I|||2|5||2,5||Klausur (60 min.)|1|
+|**Statistische**<br>**Analyseverfahren II**|V Statistische Analyse-verfahren II|2|||5|||2,5|Klausur (60 min)|1|
+|<br>**(SozS-II)**|Ü Statistische Analyse-verfahren II|||2||||2,5|.||
+||PS||2|||5|||Mündliche Leistung (Referat<br>oder mündliche Prüfung) im||
+|**Qualifikationsprofil I**<br>**(SozQ-I)**|PS||2||10|5|||<br>Umfang von 10-20 Minuten und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 10-15 Seiten|1|
+||PS||2||||5||Mündliche Leistung (Referat<br>oder mündliche Prüfung) im||
+|**Qualifikationsprofil II**<br>**(SozQ-II)**|PS||2||10|||5|<br>Umfang von 10-20 Minuten und<br>schriftliche Leistung (Essays<br>oder Hausarbeit) im Umfang<br>von 10-15 Seiten|1|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prü-<br>f/Sili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||in ECTS-Punkten1||||||
-||||||||||||||||
-|||V|S|Ü|P||1.|2.|3.|4.|5.|6.|ungtudenestung||
-|**Wahlbereich intern**||2|2|||10||||5|5||Nach Maßgabe der gewählten<br>Lehrveranstaltung2|0|
-|Vertiefungsfach: Es ist eines der folgenden drei Module zu belegen|||||||||||||||
-|**Soziologische Theorie II**<br>**(SozT-II)**|HS||2|||15|||||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von<br>20-25 Seiten|1|
-||HS||2|||||||||7,5|||
-|**Soziologische**<br>**Methodenlehre II**<br>**(SozM-II)**|HS||2|||15|||||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von<br>20-25 Seiten|1|
-||HS||2|||||||||7,5|||
-|**Vertiefungsprofil I**<br>**(SozV-I)**|HS||2|||15|||||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder<br>Hausarbeit) im Umfang von<br>20-25 Seiten|1|
-||HS||2|||||||||7,5|||
-|Verpflichtend abzulegende Schlüsselqualifikationen im Erstfach|||||||||||||||
-|**Praktikum**<br>**(Soz_Prakt)**|Praktikum von 8 Wochen in einem<br>einschlägigen Berufsfeld|||||10|||||10||Praktikumsbericht<br>(2-3 Seiten)|0|
-|Bachelorbereich (nur im Erstfach zu belegen)|||||||||||||||
-|**Bachelorarbeit**||||||10||||||10|Bachelorarbeit<br>(max. 40 Seiten)|2|
-|**Summe:**||**14**|**16**|**4**||**80+10**<br>**bzw.**<br>**70**|**15**|**15**|**15**|**15**|**22,5**|**17,5**|||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SW<br>S|S<br>Ü<br>P|Gesamt<br>ECTS<br>|Workloa<br>1.<br>2.|d-Verte<br>in ECTS<br>3.|ilung pro Seme<br> -Punkten<sup>1</sup><br>4.<br>5.|ster<br>6.|Art und Umfang der Prü-<br>fung/Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Wahlbereich intern**|2|2||10|||5<br>5||Nach Maßgabe der gewählten<br>Lehrveranstaltung<sup>2</sup>|0|
+|Vertiefungsfach: Es ist eines de<br>**Soziologische Theorie II**|r folgenden drei Module zu belegen<br>HS|2||15|||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder|1|
+|**(SozT-II)**|HS|2||||||7,5|Hausarbeit) im Umfang von<br>20-25 Seiten||
+|**Soziologische**<br>**Methodenlehre II**|HS|2||15|||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder|1|
+|<br>**(SozM-II)**|HS|2||||||7,5|Hausarbeit) im Umfang von<br>20-25 Seiten||
+|**Vertiefungsprofil I**<br>|HS|2||15|||7,5||Referat (20-30 min.) und schrift-<br>liche Leistung (Essays oder<br>|1|
+|**(SozV-I)**|HS|2||||||75|Hausarbeit) im Umfang von<br>||
+|||||||||,|2025 Sit||
+|Verpflichtend abzulegende Schl|üsselqualifikationen im Erstfach||||||||-een||
+|**Praktikum**<br>**(Soz_Prakt)**<br>Bachelorbereich (nur im Erstfac<br>**Bachelorarbeit**|Praktikum von 8 Wochen in einem<br>einschlägigen Berufsfeld<br>h zu belegen)|||10<br>10|||10|10|Praktikumsbericht<br>(2-3 Seiten)<br>Bachelorarbeit<br>(max. 40 Seiten)|0<br>2|
+|**S**|**umme:**<br>**14**|**16**|**4**|**80+10**<br>**bzw.**<br>**70**|**15**<br>**15**|**15**|**15**<br>**22,5**|**17,5**|||
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

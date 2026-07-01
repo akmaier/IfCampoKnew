@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES_BA_MA_WING.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:29:12+00:00
-page_count_chars: 9314
+scraped_at: 2026-07-01T11:46:00+00:00
+page_count_chars: 9375
 ---
 
 # 7. Oktober 2013
@@ -42,11 +42,11 @@ Die Fachprüfungsordnung für den Bachelorund Masterstudiengang Wirtschaftsingen
 
 1Die Anfertigung der Bachelorarbeit wird im 6. Semester empfohlen. 2Für die Zulassungsvoraussetzungen gilt § 27 Abs. 3 Satz 2 ABMPO/TechFak." 
 
-## 4. § 44 Abs. 3 wird wie folgt geändert: 
+# 4. § 44 Abs. 3 wird wie folgt geändert: 
 
 a) In Halbsatz 1 wird vor dem Wort „Kriterien“ das Wort „gleichrangiger“ eingefügt. 
 
-## b) Der dritte Spiegelstrich erhält folgende Fassung: 
+# b) Der dritte Spiegelstrich erhält folgende Fassung: 
 
       - „- Beschreibung eines einschlägigen fachbezogenen Projektes, Kenntnis der einschlägigen Literatur," 
 
@@ -84,7 +84,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
    - a) In der Überschrift wird das Wort „Module" durch das Wort „Modulkatalog" ersetzt. 
 
-   - b) In den Zeilen 1 bis 3 erhält Spalte 17 folgenden Wortlaut: „Art und Umfang der Studien- und Prüfungsleistungen[2)] ". 
+   - b) In den Zeilen 1 bis 3 erhält Spalte 17 folgenden Wortlaut: „Art und Umfang der Studien- und Prüfungsleistungen<sup>2)</sup> ". 
 
    - c) In den Zeilen 4 und 5 (Modul B 1), 6 und 7 (Modul B 2) sowie 15 und 16 (Modul B 8) erhält Spalte 17 folgenden Wortlaut: „PfP: PL 90 
 
@@ -122,7 +122,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
    - o) In den Erläuterungen erhält Fußnote „2)“ folgenden Wortlaut: 
 
-      - „[2)] PfP: Portfolioprüfung 
+      - „<sup>2)</sup> PfP: Portfolioprüfung 
 
       - PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
@@ -132,7 +132,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
    - a) In der Überschrift wird das Wort „Module" durch das Wort „Modulkatalog" ersetzt. 
 
-   - b) In den Zeilen 1 bis 3 erhält Spalte 17  folgenden Wortlaut: „Art und Umfang der Studien- und Prüfungsleistungen[2)] " ersetzt. 
+   - b) In den Zeilen 1 bis 3 erhält Spalte 17  folgenden Wortlaut: „Art und Umfang der Studien- und Prüfungsleistungen<sup>2)</sup> " ersetzt. 
 
    - c) In den Zeilen 4 und 5 (Modul B 1) sowie 6 und 7 (Modul B 2) erhält Spalte 17 folgenden Wortlaut: „PfP: PL 90 + uS: Papier- und Rechnerübungen“ 
 
@@ -154,7 +154,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
 3/4 
 
-   - l) In den Erläuterungen unter der Tabelle erhält Fußnote „[2)] “ folgenden Wortlaut: „[2)] PfP: Portfolioprüfung 
+   - l) In den Erläuterungen unter der Tabelle erhält Fußnote „<sup>2)</sup> “ folgenden Wortlaut: „<sup>2)</sup> PfP: Portfolioprüfung 
 
       - PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
@@ -166,7 +166,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
    - a) In der Überschrift wird das Wort „Module" durch das Wort „Modulkatalog" ersetzt. 
 
-   - b) In Zeile 1 Spalte 11 werden die Worte „Prüfungsdauer in Minuten" durch die Worte „Art und Umfang der Studien- und Prüfungsleistungen[1) 2)] " ersetzt. 
+   - b) In Zeile 1 Spalte 11 werden die Worte „Prüfungsdauer in Minuten" durch die Worte „Art und Umfang der Studien- und Prüfungsleistungen<sup>1) 2)</sup> " ersetzt. 
 
    - c) In den Zeilen 4 bis 7 (Modul M 1 bis M 4) Spalte 11 werden jeweils die Worte „siehe Anlage 4" durch die Zahlen und Worte „PL 60/90/120" ersetzt. 
 
@@ -174,7 +174,7 @@ c) In Abs. 4 werden die Worte „Absatz 5" durch „Abs. 4" ersetzt.
 
    - e) In den Zeilen 9, 14 und 17 (Modul M 6, M 9 und M 11) Spalte 11 werden jeweils die Worte „unbenotete Scheine“ durch die Abkürzung „uSL“ ersetzt. 
 
-   - f) Es werden folgende Fußnoten angefügt: "[1)] Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
+   - f) Es werden folgende Fußnoten angefügt: "<sup>1)</sup> Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
       - 2) PfP: Portfolioprüfung 
 

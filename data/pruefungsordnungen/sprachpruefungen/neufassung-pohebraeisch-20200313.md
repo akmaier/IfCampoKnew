@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Neufassung POHebräisch 20200313.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachpruefungen/Hebraeisch/konsolidierte_Fassungen/Neufassung_POHebraeisch_20200313.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:16+00:00
-page_count_chars: 27083
+scraped_at: 2026-07-01T11:14:15+00:00
+page_count_chars: 28001
 ---
 
 # Neufassung POHebräisch 20200313.pdf
@@ -14,43 +14,44 @@ page_count_chars: 27083
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Prüfungsordnung für den Nachweis von Kenntnissen der hebräischen Sprache (Hebraicum) des Fachbereichs Theologie an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – POHebräisch – Vom 13. März 2020** 
+# **Prüfungsordnung für den Nachweis von Kenntnissen der hebräischen Sprache (Hebraicum) des Fachbereichs Theologie an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – POHebräisch –** 
+
+## **Vom 13. März 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) in der jeweils geltenden Fassung erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-|§|1|Geltungsbereich, Zweck der Prüfung und Voraussetzungen....................................... 1|
-|---|---|---|
-|§|2|Prüfungsorgane........................................................................................................ 2|
-|§|3|Anerkennung von Kompetenzen und Fehlversuchen.................................................. 2|
-|§|4|Mängel im Prüfungsverfahren................................................................................... 3|
-|§|5|Rücktritt, Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß.............. 3|
-|§|6|Ungültigkeit der Prüfung........................................................................................... 4|
-|§|7|Einsicht in die Prüfungsakten.................................................................................... 4|
-|§|8|Nachteilsausgleich.................................................................................................... 4|
-|§|9|Wiederholung........................................................................................................... 5|
-|§|10|Prüfungskommission, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheits-|
-|||pflicht....................................................................................................................... 5|
-|§|11|Prüfungstermine und Prüfungsfristen......................................................................... 6|
-|§|12|Anmeldung und Zulassung........................................................................................ 7|
-|§|13|Aufbau der Prüfung.................................................................................................. 7|
-|§|14|Schriftliche Prüfung.................................................................................................. 7|
-|§|15|Mündliche Prüfung.................................................................................................... 7|
-|§|16|Bewertung und Ergebnis der Prüfung, Zeugnis.......................................................... 8|
-|§|17|In-Kraft-Treten, Übergangsvorschriften...................................................................... 9|
+|§ 1|Geltungsbereich, Zweck der Prüfung und Voraussetzungen....................................... 1|
+|---|---|
+|§ 2|Prüfungsorgane........................................................................................................ 2|
+|§ 3|Anerkennung von Kompetenzen und Fehlversuchen.................................................. 2|
+|§ 4|Mängel im Prüfungsverfahren................................................................................... 3|
+|§ 5|Rücktritt, Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß.............. 3|
+|§ 6|Ungültigkeit der Prüfung........................................................................................... 4|
+|§ 7|Einsicht in die Prüfungsakten.................................................................................... 4|
+|§ 8|Nachteilsausgleich.................................................................................................... 4|
+|§ 9|Wiederholung........................................................................................................... 5|
+|§ 10|Prüfungskommission, Ausschluss wegen persönlicher Beteiligung, Verschwiegenheits-<br>pflicht....................................................................................................................... 5|
+|§ 11|Prüfungstermine und Prüfungsfristen......................................................................... 6|
+|§ 12|Anmeldung und Zulassung........................................................................................ 7|
+|§ 13|Aufbau der Prüfung.................................................................................................. 7|
+|§ 14|Schriftliche Prüfung.................................................................................................. 7|
+|§ 15|Mündliche Prüfung.................................................................................................... 7|
+|§ 16<br>|Bewertung und Ergebnis der Prüfung, Zeugnis.......................................................... 8<br>|
+|§ 17|In-Kraft-Treten, Übergangsvorschriften...................................................................... 9|
 
 ## **§ 1 Geltungsbereich, Zweck der Prüfung und Voraussetzungen** 
 
 (1) Diese Prüfungsordnung regelt die Prüfung für den Nachweis der für das Studium der Evangelischen Theologie an der FAU erforderlichen Kenntnisse der hebräischen Sprache (Hebraicum). 
 
-(2)[1] Die Prüfung ist für Studierende der Studiengänge Evangelische Theologie mit den Abschlüssen Magister Theologiae an der Philosophischen Fakultät und Fachbereich Theologie der FAU und Erste kirchliche Prüfung bei einer Evangelischen Landeskirche bestimmt und dient dem Nachweis der für diese Studien erforderlichen ausreichenden Kenntnisse der hebräischen Sprache gemäß der vom Evangelisch-theologischen Fakultätentag am 11. Oktober 2008 beschlossenen Rahmenordnung für den Studiengang Evangelische Theologie.[2] Zur Prüfung können auch Studierende anderer Studiengänge an der FAU zugelassen werden. 
+(2)<sup>1</sup> Die Prüfung ist für Studierende der Studiengänge Evangelische Theologie mit den Abschlüssen Magister Theologiae an der Philosophischen Fakultät und Fachbereich Theologie der FAU und Erste kirchliche Prüfung bei einer Evangelischen Landeskirche bestimmt und dient dem Nachweis der für diese Studien erforderlichen ausreichenden Kenntnisse der hebräischen Sprache gemäß der vom Evangelisch-theologischen Fakultätentag am 11. Oktober 2008 beschlossenen Rahmenordnung für den Studiengang Evangelische Theologie.<sup>2</sup> Zur Prüfung können auch Studierende anderer Studiengänge an der FAU zugelassen werden. 
 
 (3) Die Teilnahme an der Prüfung setzt die Immatrikulation an der FAU voraus. 
 
 1 
 
-(4)[1] Eine Anmeldung zu der auf die Prüfung vorbereitenden Lehrveranstaltung sowie ein Besuch derselben sind für die Teilnahme an der Prüfung nicht erforderlich, werden aber dringend empfohlen.[2] Nähere Informationen werden rechtzeitig ortsüblich bekannt gemacht. 
+(4)<sup>1</sup> Eine Anmeldung zu der auf die Prüfung vorbereitenden Lehrveranstaltung sowie ein Besuch derselben sind für die Teilnahme an der Prüfung nicht erforderlich, werden aber dringend empfohlen.<sup>2</sup> Nähere Informationen werden rechtzeitig ortsüblich bekannt gemacht. 
 
 ## **§ 2 Prüfungsorgane** 
 
@@ -58,11 +59,11 @@ Für die Organisation und Durchführung der Prüfungen sowie Entscheidung in Pr�
 
 ## **§ 3 Anerkennung von Kompetenzen und Fehlversuchen** 
 
-(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschule erbracht worden sind, werden auf die Prüfungen nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschule erbracht worden sind, werden auf die Prüfungen nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 16 gebildet wurden.[2] Stimmt das gemäß Satz 1 als gleichwertig anerkannte Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 16 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+(3)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 16 gebildet wurden.<sup>2</sup> Stimmt das gemäß Satz 1 als gleichwertig anerkannte Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 16 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
 
 x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
 
@@ -72,13 +73,13 @@ Nmax = beste erzielbare Note
 
 Nmin = unterste Bestehensnote Nd = erzielte Note 
 
-umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich, so legt das nach § 2 zuständige Prüfungsorgan in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.<sup>4</sup> Ist die Umrechnung nicht möglich, so legt das nach § 2 zuständige Prüfungsorgan in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
-(4)[1] Die für die Anerkennung erforderlichen Unterlagen sind im Falle des Nachweises Ausreichender Kenntnisse in Hebräisch für Studierende der Evangelischen Theologie der bzw. dem Vorsitzenden der Prüfungskommission gemäß § 10 zur Entscheidung vorzulegen.[2] Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht vorbehaltlich der Regelung in Satz 3 ein Rechtsanspruch auf Anerkennung.[3] Eine Anerkennung 
+(4)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind im Falle des Nachweises Ausreichender Kenntnisse in Hebräisch für Studierende der Evangelischen Theologie der bzw. dem Vorsitzenden der Prüfungskommission gemäß § 10 zur Entscheidung vorzulegen.<sup>2</sup> Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht vorbehaltlich der Regelung in Satz 3 ein Rechtsanspruch auf Anerkennung.<sup>3</sup> Eine Anerkennung 
 
 2 
 
-ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[4] Die Entscheidung trifft die bzw. der nach Satz 1 Zuständige auf Antrag der bzw. des Studierenden.[5] Die Entscheidung ergeht schriftlich. 
+ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.<sup>4</sup> Die Entscheidung trifft die bzw. der nach Satz 1 Zuständige auf Antrag der bzw. des Studierenden.<sup>5</sup> Die Entscheidung ergeht schriftlich. 
 
 (5) Fehlversuche von an anderen Hochschulen unternommenen Prüfungsversuchen einer mit zu der in dieser Prüfungsordnung geregelten Hebräisch-Prüfung nicht wesentlich unterschiedlichen Prüfung werden von Amts wegen anerkannt. 
 
@@ -92,13 +93,13 @@ ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU
 
 ## **§ 5 Rücktritt, Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß** 
 
-(1)[1] Unbeschadet der Fristen nach §§ 9 und 11 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer Sprachprüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[3] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[4] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 2. 
+(1)<sup>1</sup> Unbeschadet der Fristen nach §§ 9 und 11 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer Sprachprüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei der bzw. dem Prüfenden geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>3</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.<sup>4</sup> Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 2. 
 
-(2)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ablauf der Frist nach Abs. 1 ohne triftige Gründe zurücktritt. 2Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen der Prüfungskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Werden die Gründe anerkannt, so wird ein neuer Termin anberaumt. 4In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; es kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist der Prüfungskommission unverzüglich ein vertrauensärztliches Attest vorzulegen.[6] Die Krankheit eines von der bzw. dem Studierenden zu versorgenden Kindes, das das 14. Lebensjahr noch nicht vollendet hat, oder einer bzw. eines pflegebedürftigen nahen Angehörigen (Kinder, Eltern, Großeltern, Ehe- oder Lebenspartner) steht eigener Krankheit gleich.[7] Als wichtiger Grund gilt auch die Inanspruchnahme von Schutzfristen wegen Mutterschutz, Eltern- und Pflegezeit. 
+(2)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ablauf der Frist nach Abs. 1 ohne triftige Gründe zurücktritt. 2Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen der Prüfungskommission unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Werden die Gründe anerkannt, so wird ein neuer Termin anberaumt. 4In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; es kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist der Prüfungskommission unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>6</sup> Die Krankheit eines von der bzw. dem Studierenden zu versorgenden Kindes, das das 14. Lebensjahr noch nicht vollendet hat, oder einer bzw. eines pflegebedürftigen nahen Angehörigen (Kinder, Eltern, Großeltern, Ehe- oder Lebenspartner) steht eigener Krankheit gleich.<sup>7</sup> Als wichtiger Grund gilt auch die Inanspruchnahme von Schutzfristen wegen Mutterschutz, Eltern- und Pflegezeit. 
 
 3 
 
-(3)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.[2] Als Versuch i. S. d. Satz 1 gilt bereits der Besitz nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen. 
+(3)<sup>1</sup> Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Als Versuch i. S. d. Satz 1 gilt bereits der Besitz nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen. 
 
 (4) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet. 
 
@@ -112,17 +113,17 @@ ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU
 
 (3) Vor einer Entscheidung ist der bzw. dem Studierenden Gelegenheit zur Stellungnahme zu geben. 
 
-(4)[1] Das unrichtige Zeugnis wird eingezogen; es wird ggf. ein neues Zeugnis ausgestellt.[2] Eine Entscheidung nach Abs. 1 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum des Zeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Zeugnis wird eingezogen; es wird ggf. ein neues Zeugnis ausgestellt.<sup>2</sup> Eine Entscheidung nach Abs. 1 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum des Zeugnisses ausgeschlossen. 
 
 ## **§ 7 Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss der einzelnen Prüfungsverfahren erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
 
-(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei der Prüfungskommission zu stellen.[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nichts anderes bestimmt ist; Näheres regelt die Prüfungskommission.[3] Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 BayVwVfG in der jeweils geltenden Fassung beantragen. 
+(2)<sup>1</sup> Der Antrag ist binnen eines Monats nach Notenbekanntgabe bei der Prüfungskommission zu stellen.<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nichts anderes bestimmt ist; Näheres regelt die Prüfungskommission.<sup>3</sup> Wer ohne eigenes Verschulden verhindert war, die Frist nach Satz 1 einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 BayVwVfG in der jeweils geltenden Fassung beantragen. 
 
 ## **§ 8 Nachteilsausgleich** 
 
-(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abzuprüfende Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Prüfungskommission 
+(1)<sup>1</sup> Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abzuprüfende Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Prüfungskommission 
 
 4 
 
@@ -130,29 +131,29 @@ gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder e
 
 (2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei der Prüfungskommission spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
-(3)[1] Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden der Prüfungskommission getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an die Prüfungskommission zu stellen. 
+(3)<sup>1</sup> Entscheidungen nach Abs. 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden der Prüfungskommission getroffen.<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an die Prüfungskommission zu stellen. 
 
 ## **§ 9 Wiederholung** 
 
-(1)[1] Eine nicht bestandene Sprachprüfung kann zweimal wiederholt werden.[2] Die Wiederholung bestandener Prüfungen ist ausgeschlossen.[ 3] Die Wiederholungsprüfungen müssen zum nächstmöglichen regulären Termin abgelegt werden. 
+(1)<sup>1</sup> Eine nicht bestandene Sprachprüfung kann zweimal wiederholt werden.<sup>2</sup> Die Wiederholung bestandener Prüfungen ist ausgeschlossen.<sup>3</sup> Die Wiederholungsprüfungen müssen zum nächstmöglichen regulären Termin abgelegt werden. 
 
-(2)[1] Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann die Prüfungskommission im Einverständnis mit der bzw. dem Prüfenden eine Ausnahme vorsehen.[2] Die Studierenden gelten bei Nichtbestehen der Prüfung zum nächsten Wiederholungsversuch als angemeldet.[3] Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern die Prüfungskommission der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt.[4] Die jeweiligen Regelungen zur Möglichkeit der Fristverlängerung wegen von der bzw. dem Studierenden nicht zu vertretenden Gründen sowie Mutterschutz, Eltern- und Pflegezeit bleiben unberührt.[5] Ein Rücktritt nach § 5 Abs. 1 ist nicht zulässig. 
+(2)<sup>1</sup> Die Frist zur Wiederholung wird durch Exmatrikulation und Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann die Prüfungskommission im Einverständnis mit der bzw. dem Prüfenden eine Ausnahme vorsehen.<sup>2</sup> Die Studierenden gelten bei Nichtbestehen der Prüfung zum nächsten Wiederholungsversuch als angemeldet.<sup>3</sup> Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern die Prüfungskommission der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt.<sup>4</sup> Die jeweiligen Regelungen zur Möglichkeit der Fristverlängerung wegen von der bzw. dem Studierenden nicht zu vertretenden Gründen sowie Mutterschutz, Eltern- und Pflegezeit bleiben unberührt.<sup>5</sup> Ein Rücktritt nach § 5 Abs. 1 ist nicht zulässig. 
 
 ## **§ 10 Prüfungskommission, Ausschluss wegen persönlicher Beteiligung,** 
 
 ## **Verschwiegenheitspflicht** 
 
-(1)[ 1] Die Prüfungskommission besteht aus einer Professorin bzw. einem Professor für das Fach Altes Testament als der bzw. dem Vorsitzenden, der Leiterin bzw. dem Leiter der Hebräisch-Lehrveranstaltung am Fachbereich Theologie und einer Besitzerin bzw. einem Beisitzer.[2] Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer ein Fachstudium erfolgreich abgeschlossen hat und über ausreichende Hebräisch-Kenntnisse im Sinne dieser Prüfungsordnung verfügt.[3] Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein.[4] Die Mitglieder der Prüfungskommission sowie deren Vertreter werden durch die Sprecherin bzw. den Sprecher des Fachbereichs Theologie für die Dauer eines Jahres bestimmt; eine Verlängerung der Amtszeit ist zulässig.[5] Die bzw. der Vorsitzende kann ihr bzw. ihm oder der Prüfungskommission obliegende Aufgaben einem Mitglied der Prüfungskommission übertragen. 
+(1)<sup>1</sup> Die Prüfungskommission besteht aus einer Professorin bzw. einem Professor für das Fach Altes Testament als der bzw. dem Vorsitzenden, der Leiterin bzw. dem Leiter der Hebräisch-Lehrveranstaltung am Fachbereich Theologie und einer Besitzerin bzw. einem Beisitzer.<sup>2</sup> Zur Beisitzerin bzw. zum Beisitzer kann bestellt werden, wer ein Fachstudium erfolgreich abgeschlossen hat und über ausreichende Hebräisch-Kenntnisse im Sinne dieser Prüfungsordnung verfügt.<sup>3</sup> Die Beisitzerin bzw. der Beisitzer soll hauptberufliche wissenschaftliche Mitarbeiterin bzw. hauptberuflicher wissenschaftlicher Mitarbeiter sein.<sup>4</sup> Die Mitglieder der Prüfungskommission sowie deren Vertreter werden durch die Sprecherin bzw. den Sprecher des Fachbereichs Theologie für die Dauer eines Jahres bestimmt; eine Verlängerung der Amtszeit ist zulässig.<sup>5</sup> Die bzw. der Vorsitzende kann ihr bzw. ihm oder der Prüfungskommission obliegende Aufgaben einem Mitglied der Prüfungskommission übertragen. 
 
 5 
 
-(2)[1] Der Prüfungskommission obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Sie achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[3] Sie trifft alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt delegiert sind bzw. sich nicht aus dieser Prüfungsordnung etwas anderes ergibt.[4] Die Prüfungskommission überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.[5] Sie berichtet regelmäßig der Sprecherin bzw. dem Sprecher des Fachbereichs Theologie über die Entwicklung der Prüfungen, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung; vor einer Änderung ist sie zu hören.[6] Die Mitglieder der Prüfungskommission haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
+(2)<sup>1</sup> Der Prüfungskommission obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.<sup>2</sup> Sie achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.<sup>3</sup> Sie trifft alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt delegiert sind bzw. sich nicht aus dieser Prüfungsordnung etwas anderes ergibt.<sup>4</sup> Die Prüfungskommission überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.<sup>5</sup> Sie berichtet regelmäßig der Sprecherin bzw. dem Sprecher des Fachbereichs Theologie über die Entwicklung der Prüfungen, auch unter geschlechtsspezifischen Aspekten, und gibt gegebenenfalls Anregungen zu Änderungen der Prüfungsordnung; vor einer Änderung ist sie zu hören.<sup>6</sup> Die Mitglieder der Prüfungskommission haben das Recht auf Anwesenheit bei der Abnahme der Prüfungen. 
 
-(3)[1] Die Prüfungskommission ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Sie beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
+(3)<sup>1</sup> Die Prüfungskommission ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Sie beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
 
-(4)[1] Die bzw. der Vorsitzende beruft die Sitzungen der Prüfungskommission ein.[2] Sie bzw. er ist befugt, anstelle der Prüfungskommission unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist die Prüfungskommission unverzüglich in Kenntnis zu setzen.[4] Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, die Prüfungskommission der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(4)<sup>1</sup> Die bzw. der Vorsitzende beruft die Sitzungen der Prüfungskommission ein.<sup>2</sup> Sie bzw. er ist befugt, anstelle der Prüfungskommission unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon ist die Prüfungskommission unverzüglich in Kenntnis zu setzen.<sup>4</sup> Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, die Prüfungskommission der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
-(5)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Aufgrund eines Beschlusses der Prüfungskommission können Notenbescheide jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[4] Widerspruchsbescheide erlässt die Präsidentin bzw. der Präsident, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit der Prüfungskommission und nach Anhörung der zuständigen Prüfenden. 
+(5)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.<sup>3</sup> Aufgrund eines Beschlusses der Prüfungskommission können Notenbescheide jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.<sup>4</sup> Widerspruchsbescheide erlässt die Präsidentin bzw. der Präsident, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit der Prüfungskommission und nach Anhörung der zuständigen Prüfenden. 
 
 (6) Der Ausschluss von der Beratung und Abstimmung in der Prüfungskommission sowie von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 41 Abs. 2 BayHSchG. 
 
@@ -160,7 +161,7 @@ gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder e
 
 ## **§ 11 Prüfungstermine und Prüfungsfristen** 
 
-(1)[ 1] Die Prüfungen werden regelmäßig am Ende der Lehrveranstaltung, d. h. mindestens einmal im Jahr durch die Prüfungskommission angesetzt.[2] Die Termine werden vier Wochen vor der Prüfung unter Angabe einer Anmeldefrist ortsüblich bekannt gemacht. 
+(1)<sup>1</sup> Die Prüfungen werden regelmäßig am Ende der Lehrveranstaltung, d. h. mindestens einmal im Jahr durch die Prüfungskommission angesetzt.<sup>2</sup> Die Termine werden vier Wochen vor der Prüfung unter Angabe einer Anmeldefrist ortsüblich bekannt gemacht. 
 
 6 
 
@@ -168,13 +169,13 @@ gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder e
 
 ## **§ 12 Anmeldung und Zulassung** 
 
-(1)[1] Die Anmeldung zur Prüfung erfolgt im Sekretariat des geschäftsführenden Lehrstuhls des Instituts für Altes Testament innerhalb der nach § 11 Abs. 1 Satz 2 bekannt gegebenen Frist.[2] Bei der Anmeldung sind folgende Unterlagen vorzulegen: 
+(1)<sup>1</sup> Die Anmeldung zur Prüfung erfolgt im Sekretariat des geschäftsführenden Lehrstuhls des Instituts für Altes Testament innerhalb der nach § 11 Abs. 1 Satz 2 bekannt gegebenen Frist.<sup>2</sup> Bei der Anmeldung sind folgende Unterlagen vorzulegen: 
 
 1. Nachweis über die Immatrikulation in einem Studiengang der FAU und 
 
 2. eine Erklärung, ob und wenn ja vor welchem Prüfungsausschuss bereits ein Versuch dieser oder einer gleichartigen Prüfung unternommen wurde. 
 
-(2)[1] Die Zulassung zur Prüfung erfolgt über die bzw. den Vorsitzenden der Prüfungskommission.[2] Sie darf nur verweigert werden, wenn 
+(2)<sup>1</sup> Die Zulassung zur Prüfung erfolgt über die bzw. den Vorsitzenden der Prüfungskommission.<sup>2</sup> Sie darf nur verweigert werden, wenn 
 
 1. die Unterlagen unvollständig oder nicht rechtzeitig vorgelegt sind, oder 
 
@@ -188,27 +189,27 @@ Die Akademische Prüfung in Hebräisch für Studierende der Evangelischen Theolo
 
 ## **§ 14 Schriftliche Prüfung** 
 
-(1)[1] Die schriftliche Prüfung dauert drei Stunden (180 Minuten).[2] Hierbei muss ein in der Hebräisch-Lehrveranstaltung nicht behandelter mittelschwerer hebräischer Prosatext im Umfang von etwa zehn Druckzeilen aus der Biblia Hebraica ohne erhebliche Verstöße ins Deutsche übersetzt werden. 
+(1)<sup>1</sup> Die schriftliche Prüfung dauert drei Stunden (180 Minuten).<sup>2</sup> Hierbei muss ein in der Hebräisch-Lehrveranstaltung nicht behandelter mittelschwerer hebräischer Prosatext im Umfang von etwa zehn Druckzeilen aus der Biblia Hebraica ohne erhebliche Verstöße ins Deutsche übersetzt werden. 
 
 (2) Die Benutzung eines von der Kollegialen Leitung des Fachbereichs Theologie auf Vorschlag des Instituts für Altes Testament festgelegten Wörterbuchs ist gestattet. 
 
 (3) Sofern Prüfende mit entsprechenden Sprachkenntnissen zur Verfügung stehen, kann die Prüfungskommission auf Antrag gestatten, dass die Übersetzung ins Englische oder Französische erfolgt. 
 
-(4)[1] Die schriftliche Prüfung wird durch die Leiterin bzw. den Leiter der HebräischLehrveranstaltung und durch die Vorsitzende bzw. den Vorsitzenden der Prüfungskommission korrigiert und gemäß § 16 bewertet.[2] Die Bewertung jeder bzw. jedes Prüfenden muss schriftlich dokumentiert werden.[3] Bei unterschiedlicher Bewertung setzt die Prüfungskommission die endgültige Note fest. 
+(4)<sup>1</sup> Die schriftliche Prüfung wird durch die Leiterin bzw. den Leiter der HebräischLehrveranstaltung und durch die Vorsitzende bzw. den Vorsitzenden der Prüfungskommission korrigiert und gemäß § 16 bewertet.<sup>2</sup> Die Bewertung jeder bzw. jedes Prüfenden muss schriftlich dokumentiert werden.<sup>3</sup> Bei unterschiedlicher Bewertung setzt die Prüfungskommission die endgültige Note fest. 
 
 ## **§ 15 Mündliche Prüfung** 
 
-(1)[1] Die mündliche Prüfung dauert etwa 15 Minuten.[2] Sie wird als Einzelprüfung vor der Prüfungskommission abgelegt.[3] Im ersten Teil der Prüfungszeit muss eine in der Hebräisch-Lehrveranstaltung nicht behandelte hebräische Textstelle gelesen und 
+(1)<sup>1</sup> Die mündliche Prüfung dauert etwa 15 Minuten.<sup>2</sup> Sie wird als Einzelprüfung vor der Prüfungskommission abgelegt.<sup>3</sup> Im ersten Teil der Prüfungszeit muss eine in der Hebräisch-Lehrveranstaltung nicht behandelte hebräische Textstelle gelesen und 
 
 7 
 
-ohne erhebliche Verstöße ins Deutsche übersetzt werden.[4] Ein zweiter Teil behandelt grammatikalische Fragen, hauptsächlich aus dem Bereich der Formenlehre.[5] Die Kenntnis eines von der Kollegialen Leitung festgesetzten Grundwortschatzes wird vorausgesetzt. 
+ohne erhebliche Verstöße ins Deutsche übersetzt werden.<sup>4</sup> Ein zweiter Teil behandelt grammatikalische Fragen, hauptsächlich aus dem Bereich der Formenlehre.<sup>5</sup> Die Kenntnis eines von der Kollegialen Leitung festgesetzten Grundwortschatzes wird vorausgesetzt. 
 
-(2)[1] Das Prüfungsgespräch wird von der bzw. dem Vorsitzenden der Prüfungskommission oder der Leiterin bzw. dem Leiter der Lehrveranstaltung geführt.[2] Ein anderes Mitglied der Prüfungskommission führt das Protokoll.[3] In das Protokoll sind aufzunehmen: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzenden und der bzw. des Studierenden sowie besondere Vorkommnisse.[4] Das Protokoll wird von den prüfungsberechtigten Personen und den Beisitzenden unterzeichnet.[5] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[6] Das Protokoll ist zwei Jahre aufzubewahren.[7] Die Note der mündlichen Prüfung wird von der Prüfungskommission endgültig gemäß § 16 festgesetzt. 
+(2)<sup>1</sup> Das Prüfungsgespräch wird von der bzw. dem Vorsitzenden der Prüfungskommission oder der Leiterin bzw. dem Leiter der Lehrveranstaltung geführt.<sup>2</sup> Ein anderes Mitglied der Prüfungskommission führt das Protokoll.<sup>3</sup> In das Protokoll sind aufzunehmen: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzenden und der bzw. des Studierenden sowie besondere Vorkommnisse.<sup>4</sup> Das Protokoll wird von den prüfungsberechtigten Personen und den Beisitzenden unterzeichnet.<sup>5</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>6</sup> Das Protokoll ist zwei Jahre aufzubewahren.<sup>7</sup> Die Note der mündlichen Prüfung wird von der Prüfungskommission endgültig gemäß § 16 festgesetzt. 
 
-(3)[1] Zur mündlichen Prüfung werden zur Prüfung zugelassene Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der bzw. des zu Prüfenden werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.[2] Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
+(3)<sup>1</sup> Zur mündlichen Prüfung werden zur Prüfung zugelassene Studierende, die sich der gleichen Prüfung während eines der nachfolgenden Prüfungszeiträume unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörerinnen bzw. Zuhörer zugelassen; auf Verlangen der bzw. des zu Prüfenden werden Zuhörerinnen bzw. Zuhörer ausgeschlossen.<sup>2</sup> Die Zulassung erstreckt sich nicht auf die Beratung und die Bekanntgabe des Prüfungsergebnisses. 
 
-## **§ 16 Bewertung und Ergebnis der Prüfung, Zeugnis** (1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von der bzw. dem jeweiligen Prüfenden durch folgende Prädikate und Notenstufen ausgedrückt: 
+## **§ 16 Bewertung und Ergebnis der Prüfung, Zeugnis** (1)<sup>1</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von der bzw. dem je- <u>weiligen Prüfenden durch folgende Prädikate und Notenstufen ausgedrückt:</u> 
 
 |**Prädikat**|**Note**|**Erläuterung**|
 |---|---|---|
@@ -218,7 +219,7 @@ ohne erhebliche Verstöße ins Deutsche übersetzt werden.[4] Ein zweiter Teil b
 |ausreichend|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch den An-<br>forderungen entspricht;|
 |nicht ausreichend|= (4,3 oder 4,7 oder 5,0)|eine Leistung, die wegen erheblicher Mängel den An-<br>forderungen nichtmehrgenügt.|
 
-(2)[1] Die Akademische Prüfung in Hebräisch für Studierende der Evangelischen Theologie ist bestanden, wenn die Gesamtnote wenigstens „ausreichend“ beträgt.[2] Bei der Ermittlung der Gesamtnote gehen die gemäß Abs. 1 gebildeten Noten der schriftlichen und mündlichen Prüfung im Verhältnis von 2 : 1 in die Endbewertung ein.[3] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+(2)<sup>1</sup> Die Akademische Prüfung in Hebräisch für Studierende der Evangelischen Theologie ist bestanden, wenn die Gesamtnote wenigstens „ausreichend“ beträgt.<sup>2</sup> Bei der Ermittlung der Gesamtnote gehen die gemäß Abs. 1 gebildeten Noten der schriftlichen und mündlichen Prüfung im Verhältnis von 2 : 1 in die Endbewertung ein.<sup>3</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
 (3) Die Gesamtnote der Sprachprüfung lautet: bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2,5 = gut bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend über 4,0 = nicht ausreichend. 
 
@@ -228,7 +229,7 @@ ohne erhebliche Verstöße ins Deutsche übersetzt werden.[4] Ein zweiter Teil b
 
 ## **§ 17 In-Kraft-Treten, Übergangsvorschriften** 
 
-(1)[1] Diese Prüfungsordnung tritt am 12. Oktober 2020 in Kraft.[2] Vorbehaltlich der Regelung in Abs. 2 tritt mit dem In-Kraft-Treten dieser Prüfungsordnung die Ordnung der Theologischen Fakultät der Universität Erlangen-Nürnberg für die hebräische Sprachprüfung (Hebraicum) vom 11. Dezember 1972, zuletzt geändert durch Satzung 17. März 1977, außer Kraft. 
+(1)<sup>1</sup> Diese Prüfungsordnung tritt am 12. Oktober 2020 in Kraft.<sup>2</sup> Vorbehaltlich der Regelung in Abs. 2 tritt mit dem In-Kraft-Treten dieser Prüfungsordnung die Ordnung der Theologischen Fakultät der Universität Erlangen-Nürnberg für die hebräische Sprachprüfung (Hebraicum) vom 11. Dezember 1972, zuletzt geändert durch Satzung 17. März 1977, außer Kraft. 
 
 (2) Studierende, die sich zum Zeitpunkt des In-Kraft-Tretens dieser Prüfungsordnung in einem schwebenden Prüfungsverfahren nach der Theologischen Fakultät der Universität Erlangen-Nürnberg für die hebräische Sprachprüfung (Hebraicum) vom 11. Dezember 1972 befunden haben, legen ihre Prüfung nach der für sie bisher geltenden Prüfungsordnung ab. 
 

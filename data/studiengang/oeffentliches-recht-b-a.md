@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie, Rechts- und Wirt
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:49:35+00:00
+scraped_at: 2026-07-01T08:26:30+00:00
 ---
 
 # Öffentliches Recht (B.A.)
@@ -36,6 +36,14 @@ Das Zusammenleben in Staat, Gesellschaft, Wirtschaft und im privaten Bereich wir
 Öffentliches Recht umfasst zunächst das Verfassungsrecht: Das sind die Regeln, die für die Staatsorgane (Bundestag, Bundesregierung, usw.) gelten sowie die Grundrechte (z.B. Religions-, Meinungs- und Versammlungsfreiheit). Daneben gehört zum Öffentlichen Recht das Verwaltungsrecht, in dem es zum einen um das Handeln von Behörden geht, zum anderen aber auch, wie man sich gegen Entscheidungen der Verwaltung wehren kann. Schließlich zählen wir das Recht der Europäischen Union (EU) und das Recht, das für alle Staaten gilt (Völkerrecht) zum Öffentlichen Recht.
 
 Öffentliches Recht und politisches Handeln hängen eng zusammen: Das erkennt man, wenn man an Wahlen zum Bundestag, die Bedeutung von EU-Regeln für wirtschaftspolitische Entscheidungen oder die Überprüfung von Gesetzen durch das Bundesverfassungsgericht denkt. Deshalb kann man in Erlangen das Erstfach Politikwissenschaft mit dem Zweitfach Öffentliches Recht kombinieren.
+
+### Fachanteile des Studiengangs Öffentliches Recht (B.A.)
+
+* Verwaltungsrecht (33%)
+* Staatsorganisationsrecht (17%)
+* Grundrechte (17%)
+* Europa- und Völkerrecht (17%)
+* Grundlagen (17%)
 
 ### Aufbau und Struktur
 

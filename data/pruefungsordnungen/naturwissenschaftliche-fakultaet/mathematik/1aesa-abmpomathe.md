@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. März 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_ABMPOMathe.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:47:45+00:00
-page_count_chars: 18471
+scraped_at: 2026-07-01T09:11:45+00:00
+page_count_chars: 18686
 ---
 
 # 2. März 2017
@@ -12,11 +12,11 @@ page_count_chars: 18471
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_ABMPOMathe.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Erste Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathematik, Technomathematik und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak – Vom 2. März 2017** 
+# **Erste Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathematik, Technomathematik und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak – Vom 2. März 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** 
+## **§ 1** 
 
 Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathematik, Technomathematik und Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPOMathe/NatFak – vom 11. ~~November~~ März 2015 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathe
 
       - bb) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-         - „[4] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+         - „<sup>4</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 1 
 
@@ -60,7 +60,7 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathe
 
    - d) Nach Abs. 3 wird folgender neuer Abs. 4 eingefügt: 
 
-„(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.[3] Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern. 4Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
+„(4)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.<sup>3</sup> Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern. 4Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
 
 - e) Der bisherige Abs. 4 wird zu Abs. 5. 
 
@@ -74,23 +74,23 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathe
 
    - c) In Abs. 4 wird nach den Worten „in die die“ und „Studierende ihre“ jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-7. § 8 Abs. 2 erhält folgende neue Fassung: 
+## 7. § 8 Abs. 2 erhält folgende neue Fassung: 
 
 „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist.“ 
 
-## 8. § 9 Abs. 3 wird wie folgt geändert: 
+8. § 9 Abs. 3 wird wie folgt geändert: 
 
-- a) In Satz 3 werden nach den Worten „deren Bewertung“ die Worte „als Aufgabe der Prüfenden“ eingefügt. 
+   - a) In Satz 3 werden nach den Worten „deren Bewertung“ die Worte „als Aufgabe der Prüfenden“ eingefügt. 
 
-- b) Satz 4 erhält folgende neue Fassung: 
+   - b) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
+„<sup>4</sup> Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
 
-## 9. § 10 wird wie folgt geändert: 
+9. § 10 wird wie folgt geändert: 
 
-- a) In der Überschrift werden nach dem Wort „ **Prüfende** “ ein Komma und die Worte „ **Beisitzerinnen und Beisitzer** “ eingefügt. 
+   - a) In der Überschrift werden nach dem Wort „ **Prüfende** “ ein Komma und die Worte „ **Beisitzerinnen und Beisitzer** “ eingefügt. 
 
-- b) In Abs. 1 Satz 1 werden nach dem Wort „Prüfenden“ die Worte „und Gutachterinnen und Gutachter“ angefügt. 
+   - b) In Abs. 1 Satz 1 werden nach dem Wort „Prüfenden“ die Worte „und Gutachterinnen und Gutachter“ angefügt. 
 
 3 
 
@@ -98,23 +98,23 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathe
 
 - a) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
-„[5] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
+„<sup>5</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
 
-- b) Die bisherigen Sätze 5 bis 10 werden zu Sätzen 6 bis 11; der bisherige Satz 11 wird gestrichen. 
+   - b) Die bisherigen Sätze 5 bis 10 werden zu Sätzen 6 bis 11; der bisherige Satz 11 wird gestrichen. 
 
-## 11. § 13 wird wie folgt geändert: 
+11. § 13 wird wie folgt geändert: 
 
-- a) In der Überschrift werden die Worte „Studienzeiten, Studien- und Prüfungsleistungen“ durch das Wort „Kompetenzen“ ersetzt. 
+   - a) In der Überschrift werden die Worte „Studienzeiten, Studien- und Prüfungsleistungen“ durch das Wort „Kompetenzen“ ersetzt. 
 
-- b) In Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen, nach den Worten „erworben wurden“ das Wort „können“ durch das Wort „werden“ ersetzt und nach den Worten „werden anerkannt“ (neu) das Wort „werden“ gestrichen. 
+   - b) In Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen, nach den Worten „erworben wurden“ das Wort „können“ durch das Wort „werden“ ersetzt und nach den Worten „werden anerkannt“ (neu) das Wort „werden“ gestrichen. 
 
-- c) Abs. 4 wird wie folgt geändert: 
+   - c) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden das Wort „Bei“ durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ und die Worte „Absätze 1 bis 3 besteht“ durch die Worte „Abs. 1 und 2“ ersetzt. 
+      - aa) In Satz 2 werden das Wort „Bei“ durch die Worte „Vorbehaltlich der Regelung in Satz 3 besteht bei“ und die Worte „Absätze 1 bis 3 besteht“ durch die Worte „Abs. 1 und 2“ ersetzt. 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-- „[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+- „<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 cc) Der bisherige Satz 3 wird zu Satz 4 und wie folgt geändert: 
 
@@ -134,11 +134,11 @@ cc) Der bisherige Satz 3 wird zu Satz 4 und wie folgt geändert:
 
 - b) Nach der Überschrift wird folgender neuer Abs. 1 eingefügt: 
 
-„(1)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ende der Rücktrittsfrist (vgl. § 11 Abs. 2) ohne triftige Gründe zurücktritt; § 8 Abs. 3 gilt entsprechend.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
+„(1)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ende der Rücktrittsfrist (vgl. § 11 Abs. 2) ohne triftige Gründe zurücktritt; § 8 Abs. 3 gilt entsprechend.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
 
 - c) Der bisherige Abs. 1 wird zu Abs. 2 wie folgt geändert: 
 
-aa) Vor dem Wort „Bei“ wird die hochgestellte Zahl „[1] “ gestrichen. 
+aa) Vor dem Wort „Bei“ wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) Der bisherige Satz 2 wird zu Abs. 3. 
 
@@ -148,13 +148,13 @@ bb) Der bisherige Satz 2 wird zu Abs. 3.
 
 13. In § 16 Abs. 1 werden nach den Worten „derselben wiederholt“ die Worte „wird bzw.“ eingefügt. 
 
-## 14. § 17 wird wie folgt geändert: 
+14. § 17 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 wird nach den Worten „Prüfungen können“ das Wort „insbesondere“ eingefügt. 
 
 - b) In Abs. 3 werden nach Satz 2 folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.[4] Die Arbeit ist in der Regel innerhalb von sechs Wochen zu bewerten.“ 
+„<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.<sup>4</sup> Die Arbeit ist in der Regel innerhalb von sechs Wochen zu bewerten.“ 
 
 - c) In Abs. 4 Satz 1 werden im Klammerzusatz nach dem Wort „Single-„ das Wort und das Zeichen „ und /“ eingefügt. 
 
@@ -214,31 +214,31 @@ bb) Der bisherige Satz 2 wird zu Abs. 3.
 
 - c) In Abs. 3 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+„<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
-## 19. § 26 wird wie folgt geändert: 
+19. § 26 wird wie folgt geändert: 
 
-- a) In der Überschrift wird das Wort „ **Zugangsvoraussetzungen** “ durch das Wort 
+   - a) In der Überschrift wird das Wort „ **Zugangsvoraussetzungen** “ durch das Wort 
 
-   - „ **Zulassungsvoraussetzungen** “ ersetzt. 
+      - „ **Zulassungsvoraussetzungen** “ ersetzt. 
 
 7 
 
-- b) In Abs. 1 Satz 2 Nr. 2 werden nach den Worten „bestanden ist“ ein Komma und das Wort „oder“ angefügt. 
+   - b) In Abs. 1 Satz 2 Nr. 2 werden nach den Worten „bestanden ist“ ein Komma und das Wort „oder“ angefügt. 
 
-## 20. § 29 wird wie folgt geändert: 
+20. § 29 wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 1 werden nach dem Wort „Fragestellung“ die Worte „aus dem jeweiligen Fach“ eingefügt. 
+   - a) In Abs. 1 Satz 1 werden nach dem Wort „Fragestellung“ die Worte „aus dem jeweiligen Fach“ eingefügt. 
 
-- b) In Abs. 2 Satz 1 werden nach dem Wort „Hochschullehrer“ der Klammerzusatz „(Betreuerinnen bzw. Betreuer)“ gestrichen und nach dem Wort „berechtigt“ der Klammerzusatz „(Betreuerinnen bzw. Betreuer)“ angefügt. 
+   - b) In Abs. 2 Satz 1 werden nach dem Wort „Hochschullehrer“ der Klammerzusatz „(Betreuerinnen bzw. Betreuer)“ gestrichen und nach dem Wort „berechtigt“ der Klammerzusatz „(Betreuerinnen bzw. Betreuer)“ angefügt. 
 
-- c) In Abs. 7 Satz 1 wird nach den Worte „Form gleichzeitig“ das Wort „jeweils“ eingefügt. 
+   - c) In Abs. 7 Satz 1 wird nach den Worte „Form gleichzeitig“ das Wort „jeweils“ eingefügt. 
 
-- d) Abs. 8 wird wie folgt geändert: 
+   - d) Abs. 8 wird wie folgt geändert: 
 
 aa) Satz 5 erhält folgende neue Fassung: 
 
-   - „[5] Lautet die Bewertung im Falle von zwei Bewertungen jeweils mindestens „ausreichend“, so stellt das gerundete arithmetisch Mittel der Bewertungen die Bewertung der Bachelorarbeit dar; dabei wird nur die erste Dezimalstelle nach dem Komma berücksichtigt.“ 
+   - „<sup>5</sup> Lautet die Bewertung im Falle von zwei Bewertungen jeweils mindestens „ausreichend“, so stellt das gerundete arithmetisch Mittel der Bewertungen die Bewertung der Bachelorarbeit dar; dabei wird nur die erste Dezimalstelle nach dem Komma berücksichtigt.“ 
 
 - bb) In Satz 7 wird nach den Worten „durch eine weitere Prüfende bzw. einen“ das Wort „weiteren“ eingefügt. 
 
@@ -260,7 +260,7 @@ cc) Abs. 9 wird wie folgt geändert:
 
    - aa) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
-      - „[5] Die Regelungen in den **Fachprüfungsordnungen** bleiben unbenommen.“ 
+„<sup>5</sup> Die Regelungen in den **Fachprüfungsordnungen** bleiben unbenommen.“ 
 
 bb) Die bisherigen Sätze 5 bis 8 werden zu Sätzen 6 bis 9. 
 
@@ -274,7 +274,7 @@ bb) Die bisherigen Sätze 5 bis 8 werden zu Sätzen 6 bis 9.
 
 bb) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Das Modul Masterarbeit hat nach Maßgabe der jeweiligen **Fachprüfungsordnung** einen Umfang von 25 bzw. 30 ECTS-Punkten.“ 
+„<sup>4</sup> Das Modul Masterarbeit hat nach Maßgabe der jeweiligen **Fachprüfungsordnung** einen Umfang von 25 bzw. 30 ECTS-Punkten.“ 
 
 - b) In Abs. 6 Satz 5 wird nach den Worten „Form gleichzeitig“ das Wort „jeweils“ eingefügt. 
 
@@ -302,15 +302,15 @@ bb) Satz 4 erhält folgende neue Fassung:
 
    - b) In Abs. 2 Satz 2 Nr. 1 wird das Wort „Hochschulabschluss“ durch das Wort „Abschluss“ ersetzt. 
 
-c) Abs. 5 wird wie folgt geändert: 
+   - c) Abs. 5 wird wie folgt geändert: 
 
-- aa) In Satz 11 werden nach dem Wort „Ergebnis“ die Worte „der mündlichen Zugangsprüfung sowie des Qualifikationsfeststellungsverfahrens insgesamt“ eingefügt. 
+      - aa) In Satz 11 werden nach dem Wort „Ergebnis“ die Worte „der mündlichen Zugangsprüfung sowie des Qualifikationsfeststellungsverfahrens insgesamt“ eingefügt. 
 
-- bb) In Satz 12 werden die Worte „Das Ergebnis der mündlichen Zugangsprüfung“ durch das Wort „Es“ ersetzt. 
+      - bb) In Satz 12 werden die Worte „Das Ergebnis der mündlichen Zugangsprüfung“ durch das Wort „Es“ ersetzt. 
 
 cc) Nach Satz 13 wird folgender neuer Satz 14 angefügt: 
 
-„[14] Eine erneute Teilnahme am Qualifikationsfeststellungsverfahren auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist nicht möglich.“ 
+„<sup>14</sup> Eine erneute Teilnahme am Qualifikationsfeststellungsverfahren auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist nicht möglich.“ 
 
 - d) Nach Abs. 6 wird folgender neuer Abs. 7 angefügt: 
 

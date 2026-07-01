@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Mai 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_Sozialoeko.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:42:11+00:00
-page_count_chars: 5012
+scraped_at: 2026-07-01T11:06:32+00:00
+page_count_chars: 4880
 ---
 
 # 24. Mai 2013
@@ -12,13 +12,13 @@ page_count_chars: 5012
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_Sozialoeko.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik -** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik -** 
 
-## Vom 24. Mai 2013 
+# Vom 24. Mai 2013 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik - vom 2. September 2009, zuletzt geändert durch Satzung vom 28. Juni 2012, wird wie folgt geändert: 
 
@@ -44,50 +44,50 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik
 
    - a) In Satz 2 werden die Worte „zwei sozialwissenschaftliche und ökonomische“ durch die Worte „vier sozialökonomische“ ersetzt. 
 
-   - b) In Satz 3 wird vor dem Wort „Im“ die hochgestellte Zahl „[3] “ eingefügt und das Wort „Sprachenzentrum“ durch die Worte „Masterstudiengangs Soziologie der Philosophischen Fakultät und Fachbereich Theologie“ ersetzt. 
+   - b) In Satz 3 wird vor dem Wort „Im“ die hochgestellte Zahl „<sup>3</sup> “ eingefügt und das Wort „Sprachenzentrum“ durch die Worte „Masterstudiengangs Soziologie der Philosophischen Fakultät und Fachbereich Theologie“ ersetzt. 
 
-c) In Satz 4 wird die hochgestellte Zahl „[3] “ durch die hochgestellte Zahl „[4] “ ersetzt. 
+c) In Satz 4 wird die hochgestellte Zahl „<sup>3</sup> “ durch die hochgestellte Zahl „<sup>4</sup> “ ersetzt. 
 
-d) In Satz 5 wird die hochgestellte Zahl „[4] “ durch die hochgestellte Zahl „[5] “ ersetzt. 
+d) In Satz 5 wird die hochgestellte Zahl „<sup>4</sup> “ durch die hochgestellte Zahl „<sup>5</sup> “ ersetzt. 
 
 3.  Die Tabelle in der Anlage erhält folgende neue Fassung: 
 
 „ 
 
-|**Studienplan Master Sozialökonomik**|**Studienplan Master Sozialökonomik**|||||
+|**Studienplan Master Sozialökonomik**||||||
 |---|---|---|---|---|---|
 |||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**Sozialökonomischer Pflichtbereich**|**60**|||||
 |Sozialwissenschaftliche Grundlagen|15|||||
-|Allgemeine Kommunikationswissenschaft<br>Personalpsychologie<br>Soziologische Forschungsprobleme und Forschungsdesigns|5<br>5<br>5|5||||
-|||5||||
-|||5||||
+|Allgemeine Kommunikationswissenschaft|5|5||||
+|Personalpsychologie|5|5||||
+|Soziologische Forschungsprobleme und Forschungsdesigns|5|5||||
 |Methodische Grundlagen|15|||||
-|Ökonometrie I<br>Vertiefung Methoden *<br>Angewandte Methoden*|5<br>5<br>5|5||||
-|||5||||
-||||5|||
+|Ökonometrie I|5|5||||
+|Vertiefung Methoden *|5|5||||
+|Angewandte Methoden*|5||5|||
 |Wirtschaftswissenschaftliche Grundlagen|15|||||
-|Mikroökonomie für Sozialökonomen<br>Spezielle VWL *<br>SpezielleBWL *|5<br>5<br>5|5||||
-||||5|||
-||||5|||
+|Mikroökonomie für Sozialökonomen|5|5||||
+|Spezielle VWL *|5||5|||
+|SpezielleBWL *|5||5|||
 |Sozialökonomisches Projektseminar|**15**|||||
-|Projektseminar I<br>Projektseminar II|5<br>10||5|||
-|||||10||
+|Projektseminar I|5||5|||
+|Projektseminar II|10|||10||
 |**Sozialökonomischer Vertiefungsbereich (4 Module sind zu wählen) ****|**20**|||||
-|Einführung in die Bildungssoziologie<br>Einführung in die Gesundheitssystemforschung<br>Konsumentenverhalten I<br>Kostenträger<br>Marketingtheorie<br>Ökonomie der Sozialpolitik<br>Seminar zur experimentellen Wirtschaftsforschung<br>Seminar zur Wirtschaftssoziologie<br>Spezielle Kommunikationswissenschaft I<br>Theorieseminar zur Wirtschaftspsychologie|5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5||5|||
-||||5|||
-||||5|||
-||||5|||
-|||||5||
-||||5|||
-|||||5||
-||||5|||
-||||5|||
-|||||5||
+|Einführung in die Bildungssoziologie|5||5|||
+|Einführung in die Gesundheitssystemforschung|5||5|||
+|Konsumentenverhalten I|5||5|||
+|Kostenträger|5||5|||
+|Marketingtheorie|5|||5||
+|Ökonomie der Sozialpolitik|5||5|||
+|Seminar zur experimentellen Wirtschaftsforschung|5|||5||
+|Seminar zur Wirtschaftssoziologie|5||5|||
+|Spezielle Kommunikationswissenschaft I|5||5|||
+|Theorieseminar zur Wirtschaftspsychologie|5|||5||
 |**Freier Vertiefungsbereich (2 Module sind zu wählen) *****|**10**|||||
-|Modul 1<br>Modul 2|5<br>5||5|||
-|||||5||
+|Modul 1|5||5|||
+|Modul 2|5|||5||
 |**Masterarbeit**|**30**||||30|
 |ECTS|120|30|30|30|30|
 
@@ -97,7 +97,7 @@ d) In Satz 5 wird die hochgestellte Zahl „[4] “ durch die hochgestellte Zahl
 
 *** Wahlmodule (aus allen freien Modulen des FB sowie aus allen Modulen des Masterstudiengangs Soziologie an der Philosophischen Fakultät und Fachbereich Theologie). “ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2013/2014 das Masterstudium „Sozialökonomik“ aufnehmen. 
 

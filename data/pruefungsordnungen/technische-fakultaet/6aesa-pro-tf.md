@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Oktober 1991"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AeSa-PrO-TF.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:33+00:00
-page_count_chars: 24993
+scraped_at: 2026-07-01T11:17:11+00:00
+page_count_chars: 24979
 ---
 
 # 2. Oktober 1991
@@ -14,7 +14,7 @@ page_count_chars: 24993
 
 **Sechste Satzung zur Änderung der Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Universität Erlangen-Nürnberg** 
 
-## Vom 2. Oktober 1991 
+# Vom 2. Oktober 1991 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 des Bayerischen Hochschulgesetzes erläßt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
@@ -130,7 +130,7 @@ Studienordnung die Lehrperson fest, die für die jeweilige Lehrveranstaltung ver
 
    7. eine Erklärung darüber, ob der Kandidat bereits eine Diplomvorprüfung in demselben oder in einem verwandten, im Grundstudium gleichen Studiengang oder eine Diplomprüfung in demselben Studiengang endgültig nicht bestanden hat oder ob er sich in einem schwebenden Prüfungsverfahren befindet oder ob er unter Verlust des Prüfungsanspruchs exmatrikuliert worden ist." 
 
-## b) Absatz 5 erhält folgende Fassung: 
+# b) Absatz 5 erhält folgende Fassung: 
 
 - "Die Zulassung zur Diplomvorprüfung ist zu versagen, wenn 
 
@@ -164,7 +164,7 @@ abschnittsweiser Ablegung im Rahmen der nach der Fachprüfungsordnung zulässige
 
    - (7) Mündliche Prüfungen werden vor einem Prüfer in Anwesenheit eines sachkundigen, vom Prüfer bestellten Beisitzers abgelegt. Der Beisitzer muß entweder Prüfer für das Fachgebiet oder hauptberuflich wissenschaftlich im Fachgebiet der Prüfung an der Universität tätig sein. Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnisse der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse. Das Protokoll wird vom Beisitzer geführt und von ihm und dem Prüfer unterzeichnet. Studenten, die sich zu einem späteren Prüfungstermin der gleichen Prüfung unterziehen wollen, werden nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen, es sei denn, der Kandidat widerspricht. Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses." 
 
-## 10. § 9 wird wie folgt geändert: 
+# 10. § 9 wird wie folgt geändert: 
 
 - a) In Absatz 2 erhält Halbsatz 2 folgende Fassung: 
 
@@ -176,13 +176,13 @@ abschnittsweiser Ablegung im Rahmen der nach der Fachprüfungsordnung zulässige
 
 6 
 
-11. ∋ 10 wird wie folgt geändert: 
+# 11. ∋ 10 wird wie folgt geändert: 
 
-## a) Absatz 1 erhält folgende Fassung: 
+# a) Absatz 1 erhält folgende Fassung: 
 
 - "Eine Prüfungsleistung gilt als mit nicht ausreichend (5,0) bewertet und damit als nicht bestanden, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt." 
 
-## b) Absatz 2 wird wie folgt geändert: 
+# b) Absatz 2 wird wie folgt geändert: 
 
 - aa) Satz 2 entfällt. 
 
@@ -192,15 +192,15 @@ abschnittsweiser Ablegung im Rahmen der nach der Fachprüfungsordnung zulässige
 
 - "Erweist sich, daß das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflußt haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, daß von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden. Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend gemacht werden. Sechs Monate nach Abschluß der Prüfung dürfen von Amts wegen Anordnungen nach Satz 1 nicht mehr getroffen werden." 
 
-## 12. § 11 wird wie folgt geändert: 
+# 12. § 11 wird wie folgt geändert: 
 
-## a) Absatz 1 erhält folgende Fassung: 
+# a) Absatz 1 erhält folgende Fassung: 
 
 - "Die Diplomvorprüfung kann in den Fächern, in denen sie nicht bestanden ist oder als nicht bestanden gilt, einmal wiederholt werden. Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung ist nicht zulässig. Die Wiederholungsprüfung soll im Rahmen der Prüfungstermine des jeweils folgenden Semesters stattfinden; sie muß spätestens innerhalb eines Jahres nach Ablauf des Prüfungsverfahrens abgelegt sein. Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuß wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird." 
 
-- b) Absatz 3 erhält folgende Fassung: 
+# b) Absatz 3 erhält folgende Fassung: 
 
-   - "(3) Eine zweite Wiederholung der Diplomvorprüfung ist, wenn die Diplomvorprüfung nicht mehr als 8 
+- "(3) Eine zweite Wiederholung der Diplomvorprüfung ist, wenn die Diplomvorprüfung nicht mehr als 8 
 
 7 
 
@@ -240,7 +240,7 @@ Prüfungsfächer umfaßt, in nur zwei Prüfungsfächern, im übrigen in nur drei
 
 6. der Nachweis der berufspraktischen Tätigkeit, soweit von der Fachprüfungsordnung vorgesehen. 
 
-- § 7 Abs. 1 Sätze 2 bis 5 gilt entsprechend. 
+§ 7 Abs. 1 Sätze 2 bis 5 gilt entsprechend. 
 
 - (5) Dem Antrag auf Zulassung sind beizufügen: 
 
@@ -270,7 +270,7 @@ Prüfungsfächer umfaßt, in nur zwei Prüfungsfächern, im übrigen in nur drei
 
    - "Über das Ergebnis der Prüfung in diesen Fächern wird ein gesondertes Zeugnis ausgestellt; § 20 gilt entsprechend." 
 
-## 17. § 17 wird wie folgt geändert: 
+# 17. § 17 wird wie folgt geändert: 
 
 - a) Absatz 1 erhält folgende Fassung: 
 
@@ -288,7 +288,7 @@ Prüfungsfächer umfaßt, in nur zwei Prüfungsfächern, im übrigen in nur drei
 
 18. § 18 wird wie folgt geändert: 
 
-   - Absatz 4 entfällt; Absatz 5 wird Absatz 4. 
+Absatz 4 entfällt; Absatz 5 wird Absatz 4. 
 
 19. § 19 erhält folgende Fassung: 
 
@@ -320,7 +320,9 @@ Erlangen, den 2. Oktober 1991
 
 In Vertretung 
 
-( Prof. Dr. K. Geibel ) Prorektor 
+( Prof. Dr. K. Geibel ) 
+
+Prorektor 
 
 11 
 

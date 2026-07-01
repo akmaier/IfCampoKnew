@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. Juli 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/17AES_BA-WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:20:22+00:00
-page_count_chars: 2048
+scraped_at: 2026-07-01T10:38:25+00:00
+page_count_chars: 2042
 ---
 
 # 15. Juli 2016
@@ -12,7 +12,7 @@ page_count_chars: 2048
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/17AES_BA-WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Siebzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi - Vom 15. Juli 2016** 
+# **Siebzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi - Vom 15. Juli 2016** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -26,9 +26,9 @@ Anlage 3.1 wird wie folgt geändert:
 
 - b) Die Erläuterungen unterhalb der Tabelle werden wie folgt geändert: 
 
-- aa) Vor der Erläuterung „*)“ wird folgende neue Erläuterung „*)“ eingefügt: 
+aa) Vor der Erläuterung „*)“ wird folgende neue Erläuterung „*)“ eingefügt: 
 
-   - „* International Business and Society Relations mit Schwerpunkt Lateinamerika“ 
+- „* International Business and Society Relations mit Schwerpunkt Lateinamerika“ 
 
 bb) Die bisherige Erläuterung „*)“ wird zu Erläuterung „**)“. 
 

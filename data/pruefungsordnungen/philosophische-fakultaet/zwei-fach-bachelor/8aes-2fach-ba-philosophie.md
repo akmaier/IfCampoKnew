@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Juni 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES 2Fach-BA Philosophie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:39+00:00
-page_count_chars: 6639
+scraped_at: 2026-07-01T10:28:03+00:00
+page_count_chars: 6271
 ---
 
 # 2. Juni 2016
@@ -12,13 +12,13 @@ page_count_chars: 6639
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES 2Fach-BA Philosophie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## **Vom 2. Juni 2016** 
+# **Vom 2. Juni 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -52,70 +52,63 @@ Die Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-FachBach
 
    - b) Abs. 1 erhält folgende neue Fassung: 
 
-„[1] Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach **Anlage 1** .[2] Wird Philosophie als Zweitfach gewählt, so entfällt der Nachweis eines der beiden Vertiefungsmodule sowie des Moduls „Bachelorarbeit“. 
+„<sup>1</sup> Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach **Anlage 1** .<sup>2</sup> Wird Philosophie als Zweitfach gewählt, so entfällt der Nachweis eines der beiden Vertiefungsmodule sowie des Moduls „Bachelorarbeit“. 
 
 - c) Abs. 2 bis 4 werden gestrichen. Der bisherige Abs. 5 wird zu Abs. 2. 
 
 - d) In Abs. 2 (neu) Satz 1 werden nach dem Wort „werden“ die Worte „bezogen auf das gesamte Zwei-Fach-Bachelorstudium“ eingefügt. 
 
-- e) Nach Abs. 2 (neu) wird folgender Abs. 3 angefügt: 
+e) Nach Abs. 2 (neu) wird folgender Abs. 3 angefügt: 
 
-„(3)[1] Die Unterrichts- und Prüfungssprache im Fach Philosophie ist Deutsch. 2Einzelne Lehrveranstaltungen und Prüfungen können in Englisch abgehalten werden; Näheres regelt das Modulhandbuch.“ 
+„(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache im Fach Philosophie ist Deutsch. 2Einzelne Lehrveranstaltungen und Prüfungen können in Englisch abgehalten werden; Näheres regelt das Modulhandbuch.“ 
 
-## 5. § 5 erhält folgende neue Fassung: 
+# 5. § 5 erhält folgende neue Fassung: 
 
-„[1] Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie bis zum Ende des zweiten Fachsemesters mindestens 20 ECTS Punkte erfolgreich abgelegt werden.[2] Davon müssen 5 ECTS Punkte aus dem Modul „Logische Propädeutik“ stammen.“ 
+„<sup>1</sup> Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie bis zum Ende des zweiten Fachsemesters mindestens 20 ECTS Punkte erfolgreich abgelegt werden.<sup>2</sup> Davon müssen 5 ECTS Punkte aus dem Modul „Logische Propädeutik“ stammen.“ 
 
 6. § 6 wird gestrichen. Der bisherige § 7 wird zu § 6. 
 
 2 
 
-## 7. Nach § 6 (neu) wird folgende neue Anlage angefügt: 
+# 7. Nach § 6 (neu) wird folgende neue Anlage angefügt: 
 
-## „ **Anlage 1: Studienverlaufsplan Bachelor Philosophie** 
+# <u>„</u> **Anlage 1: Studienverlaufsplan Bachelor Philosophie** 
 
-|Modulbezeichnung|Lehr-veranstaltung|SWS|SWS|SWS|SWS|ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang<br>d Püf|Faktor<br>Modulno-<br>te|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in|ECTS-Punkten1||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|er rung||
-|Propädeutik|||||||||||||||
-|Einführung in die Philosophie|Propädeutik||||2|5|5||||||mündliche Prüfung (ca. 15 Min.)|0|
-|Logische Propädeutik|Logische Propädeutik||||2|5|5||||||Klausur (90 Min.)|1|
-|Basismodule|||||||||||||||
-|Grundkurs<br>PraktischePhilosophie|Grundkurs||||2|5|5||||||Schriftliche Aufgaben (insgesamt ca. 5<br>S.)|0|
-|Grundkurs<br>Theoretische Philosophie|Grundkurs||||2|5||5|||||Schriftliche Aufgaben (insgesamt ca. 5<br>S.)|0|
-|Basismodul<br>Philosophie|Historisch-systematische Ein-<br>führung (Proseminar)||||2|10||4|||||Präsentation (ca. 20 Min.) mit Hausar-<br>beit (ca. 12 S.)|0|
-||Textseminar (Mittelseminar)||||2|||6|||||||
-|Basismodul<br>Praktische Philosophie|||||||||||||Präsentation (ca. 20 Min.) mit Hausar-<br>beit (ca. 12 S.)|1|
-||Historisch-systematische Ein-<br>füh Pi||||2||||4||||||
-||rung (rosemnar)|||||10|||||||||
-||Textseminar (Mittelseminar)||||2||||6||||||
-|Basismodul<br>Theoretische Philosophie|Historische-systematische<br>Einführung (Proseminar)||||2|10||||4|||Präsentation (ca. 20 Min.) mit Hausar-<br>beit (ca. 12 S.)|1|
-||Textseminar (Mittelseminar)||||2|||||6|||||
-|Philosophiegeschichte2|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Philosophie systematisch3|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Vertiefungsmodule|||||||||||||||
-|Vertiefungsmodul<br>Praktische Philosophie|Lektüreseminar<br>(Hauptseminar)||||2|1|||||2||Präsentation (ca. 20 Min.) mit Hausar-<br>beit (ca. 15 S.)|1|
-||Textseminar<br>(Hauptseminar)||||2|0|||||8||||
-||||||||||||||||
-|Vertiefungsmodul<br>Theoretische Philosophie|Lektüreseminar<br>(Hauptseminar)||||2|10|||||2||Präsentation (ca. 20 Min.) mit Hausar-<br>beit (ca. 15 S.)|1|
-||Textseminar<br>(Hauptseminar)||||2||||||8||||
-|Bachelorarbeit|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit<br>(ca. 40 S.)|2|
-||Summe:|8|||28|80<br>+10|15|15|15|15|20|10|||
-|||36|||||||||||||
+|Modulbezeichnung|Lehr-veranstaltung|SWS<br>V<br>Ü<br>P<br>S|ECTS<br>Workload<br>in<br>1.<br>2.|-Verteilung pro Sem<br>ECTS-Punkten<sup>1</sup><br>3.<br>4.<br>5.|ester<br>6.|Art und Umfang<br>der Prüfung|Faktor<br>Modulno-<br>te|
+|---|---|---|---|---|---|---|---|
+|Propädeutik||||||||
+|Einführung in die Philosophie|Propädeutik|2|5<br>5|||mündliche Prüfung (ca. 15 Min.)|0|
+|Logische Propädeutik|Logische Propädeutik|2|5<br>5|||Klausur (90 Min.)|1|
+|Basismodule||||||||
+|Grundkurs<br>PraktischePhilosophie|Grundkurs|2|5<br>5|||Schriftliche Aufgaben (insgesamt ca. 5<br>S.)|0|
+|Grundkurs<br>Theoretische Philosophie|Grundkurs|2|5<br>5|||Schriftliche Aufgaben (insgesamt ca. 5<br>S.)|0|
+|Basismodul<br>|Historisch-systematische Ein-<br>führung (Proseminar)|2|10<br>4|||Präsentation (ca. 20 Min.) mit Hausar-<br>|0|
+|Philosophie|<br>Textseminar (Mittelseminar)|2|<br>6|||beit (ca. 12 S.)||
+|Basismodul<br>|Historisch-systematische Ein-<br>führung (Proseminar)|2|10|4||Präsentation (ca. 20 Min.) mit Hausar-<br>|1|
+|Praktische Philosophie|<br>Textseminar (Mittelseminar)|2||6||beit (ca. 12 S.)||
+|Basismodul<br>|Historische-systematische<br>Einführung (Proseminar)|2|10|4||Präsentation (ca. 20 Min.) mit Hausar-<br>|1|
+|Theoretische Philosophie|<br>Textseminar (Mittelseminar)|2||6||beit (ca. 12 S.)||
+|Philosophiegeschichte<sup>2</sup>|<br>Vorlesung<br>Vorlesung|2<br>2|5|2,5<br>2,5||mündliche Prüfung (ca. 15 Min.)|0|
+|Philosophie systematisch<sup>3</sup>|<br>Vorlesung<br>|2<br>|5|2,5<br>||mündliche Prüfung (ca. 15 Min.)|0|
+|<br>Vifl|Vorlesung|2||2,5||||
+|erteungsmodue<br>Vertiefungsmodul|Lektüreseminar<br>(Hauptseminar)|2||2||Präsentation (ca. 20 Min.) mit Hausar-||
+|<br>Praktische Philosophie|<br>Textseminar<br>(Hauptseminar)|2|10|8||<br>beit (ca. 15 S.)|1|
+|Vertiefungsmodul|Lektüreseminar<br>(Hauptseminar)|2||2||Präsentation (ca. 20 Min.) mit Hausar-||
+|<br>Theoretische Philosophie|<br>Textseminar||10|||<br>beit (ca. 15 S.)|1|
+||(Hauptseminar)|2||8||||
+|Bachelorarbeit||||||||
+|<br>Bachelorarbeit|||10||10|Bachelorarbeit<br>(ca. 40 S.)|2|
+||Summe:|8<br>28<br>36|80<br>+10<br>15<br>15|15<br>15<br>20|10|||
 
-> ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 2 
+> ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
-Es sind zwei Vorlesungen aus unterschiedlichen Epochen der Philosophiegeschichte zu wählen. 
+> 2 Es sind zwei Vorlesungen aus unterschiedlichen Epochen der Philosophiegeschichte zu wählen. 
 
 - 3 Es ist je eine Vorlesung aus einem systematischen Bereich der Theoretischen und der Praktischen Philosophie zu belegen. “ 
 
 3 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2016 in Kraft. 2Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2016/17 aufnehmen. 
 

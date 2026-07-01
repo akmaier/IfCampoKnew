@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Germanistik FPOGerm 20210113 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Germanistik/Aenderungssatzungen/MA_Germanistik_FPOGerm_20210113_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:38+00:00
-page_count_chars: 10010
+scraped_at: 2026-07-01T09:42:26+00:00
+page_count_chars: 9987
 ---
 
 # MA Germanistik FPOGerm 20210113 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 10010
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Germanistik/Aenderungssatzungen/MA_Germanistik_FPOGerm_20210113_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOGerm –** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOGerm –** 
 
-## **Vom 13. Januar 2021** 
+# **Vom 13. Januar 2021** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPOGerm – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 10. Juni 2020, wird wie folgt geändert: 
 
@@ -26,21 +26,21 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an 
 
 2. In § 3 Abs. 3 werden die Worte „der **Anlage** “ durch die Worte „ **Anlage 1** (Vollzeit) bzw. **Anlage 2** (Teilzeit)“ ersetzt. 
 
-3. Die Regelung in § 5 erhält folgende neue Fassung: 
+# 3. Die Regelung in § 5 erhält folgende neue Fassung: 
 
 „(1) Im Bereich Fachmodule erweitern und vertiefen die Studierenden an exemplarischen Gegenständen ihr Fachwissen in Bezug auf Methoden, Theorien und Praxis der germanistischen Sprach- und Literaturwissenschaft sowie ihre wissenschaftliche Methodenkompetenz. 
 
 (2) Die Studierenden erwerben neben fachspezifischen Kompetenzen wie der Fähigkeit, spezielle literatur- und sprachwissenschaftliche Methoden und Ansätze anzuwenden und zu verfolgen, auch allgemeine Kompetenzen wie die Fähigkeit, fachwissenschaftliche Texte zu analysieren, fachliche Probleme zu formulieren und in Diskussionen zu lösen, Wissen zu diskursivieren und eine Fragestellung eigenständig wissenschaftlich zu erarbeiten. 
 
-(3)[1] Mögliche Prüfungsformen sind: Referat (ca. 10-30 Minuten) und Hausarbeit (2025 Seiten) (0 % + 100 %) oder Wissenschaftliche Präsentation (ca. 30 Minuten, 100 %).[2] Die konkrete Art der Modulprüfung in den Fachmodulen I bis III kann von den Studierenden selbst gewählt werden.[3] Die Wahl nach Satz 2 ist so zu treffen, dass innerhalb der Fachmodule I bis III einmal die Prüfung „Wissenschaftliche Präsentation“ und zweimal die Prüfungen „Referat und Hausarbeit“ abgelegt werden. 
+(3)<sup>1</sup> Mögliche Prüfungsformen sind: Referat (ca. 10-30 Minuten) und Hausarbeit (2025 Seiten) (0 % + 100 %) oder Wissenschaftliche Präsentation (ca. 30 Minuten, 100 %).<sup>2</sup> Die konkrete Art der Modulprüfung in den Fachmodulen I bis III kann von den Studierenden selbst gewählt werden.<sup>3</sup> Die Wahl nach Satz 2 ist so zu treffen, dass innerhalb der Fachmodule I bis III einmal die Prüfung „Wissenschaftliche Präsentation“ und zweimal die Prüfungen „Referat und Hausarbeit“ abgelegt werden. 
 
-(4)[1] Die wählbaren Module umfassen in der Regel ein Seminar und eine Übung oder ein Kolleg im Umfang von jeweils 2 SWS und haben einen Umfang von 10 ECTSPunkten.[2] Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.[3] Von Satz 1 abweichende Verteilungen sind 
+(4)<sup>1</sup> Die wählbaren Module umfassen in der Regel ein Seminar und eine Übung oder ein Kolleg im Umfang von jeweils 2 SWS und haben einen Umfang von 10 ECTSPunkten.<sup>2</sup> Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.<sup>3</sup> Von Satz 1 abweichende Verteilungen sind 
 
 1 
 
-dem Modulhandbuch zu entnehmen.[4] Um einen möglichst breitgefächerten individuellen fachspezifischen Kompetenzgewinn sicherzustellen, kann jedes der wählbaren Module nur einmal im Rahmen des Masterstudiengangs belegt werden.“ 
+dem Modulhandbuch zu entnehmen.<sup>4</sup> Um einen möglichst breitgefächerten individuellen fachspezifischen Kompetenzgewinn sicherzustellen, kann jedes der wählbaren Module nur einmal im Rahmen des Masterstudiengangs belegt werden.“ 
 
-## 4. § 6 wird wie folgt geändert: 
+# 4. § 6 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden nach den Worten „Fähigkeit, die zu“ das Wort „ihrem“ durch die Worte „dem eigenen“ sowie nach den Worten „Tragfähigkeit zu überprüfen und“ das Wort „dazu“ durch die Worte „ihnen gegenüber“ ersetzt. 
 
@@ -48,7 +48,7 @@ dem Modulhandbuch zu entnehmen.[4] Um einen möglichst breitgefächerten individ
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulkatalog des Faches, aus dem das Modul gewählt wird, zu entnehmen.“ 
+„<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulkatalog des Faches, aus dem das Modul gewählt wird, zu entnehmen.“ 
 
 bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2. 
 
@@ -56,81 +56,78 @@ bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2.
 
 - c) In Abs. 4 Satz 2 werden nach dem Wort „Modulkatalog“ die Worte „des Faches, aus dem das Modul gewählt wird“ und ein Komma eingefügt. 
 
-## 5. In § 7 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
+# 5. In § 7 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
+„(4)<sup>1</sup> Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
 
-6. Die bisher einzige **Anlage** wird zu **Anlage 1** und wie folgt geändert: 
+# 6. Die bisher einzige **Anlage** wird zu **Anlage 1** und wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „ **Germanistik** “ das Zeichen „ **–** “ und das Wort „ **Vollzeit** “ angefügt. 
+- a) In der Überschrift werden nach dem Wort „ **Germanistik** “ das Zeichen „ **–** “ und das Wort „ **Vollzeit** “ angefügt. 
 
-   - b) Zeilen 4 bis 6 (Fachmodul I bis Fachmodul III) erhalten folgende neue Fassung: 
+- b) Zeilen 4 bis 6 (Fachmodul I bis Fachmodul III) erhalten folgende neue Fassung: 
 
-„ 
+|„|
+|---|
 
-|„|||||||||
-|---|---|---|---|---|---|---|---|---|
-|**Fachmodul I2)**|vgl. § 5 Abs. 4|10|10||||vgl. § 5 Abs. 3|1|
-|**Fachmodul II2)**|vgl. § 5 Abs. 4|10|10||||vgl. § 5 Abs. 3|1|
-|**Fachmodul III**|vgl. § 5 Abs. 4|10||10|||vgl. § 5 Abs. 3|1|
-|“|||||||||
+|**Fachmodul I**<sup>**2)**</sup>|vgl. § 5 Abs. 4|10|10|vgl. § 5 Abs. 3|1|
+|---|---|---|---|---|---|
+|**Fachmodul II**<sup>**2)**</sup>|vgl. § 5 Abs. 4|10|10|vgl. § 5 Abs. 3|1|
+|**Fachmodul III**<br>“|vgl. § 5 Abs. 4|10|10|vgl. § 5 Abs. 3|1|
 
 2 
 
-## c) Zeilen 21 und 22 (Fachmodul IV und Fachmodul V) erhalten folgende neue Fassung: 
+# c) Zeilen 21 und 22 (Fachmodul IV und Fachmodul V) erhalten folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|„|||||||||
-|---|---|---|---|---|---|---|---|---|
-|**Fachmodul IV4)**|vgl. § 5 Abs. 4|(10)|10||||Wissenschaftliche Präsentation<br>(ca. 30 Min.)|1|
-|**Fachmodul V**|vgl. § 5 Abs. 4|(10)||10|||Wissenschaftliche Präsentation<br>(ca. 30 Min.)|1|
+|**Fachmodul IV**<sup>**4)**</sup>|vgl. § 5 Abs. 4|(10)|10|Wissenschaftliche Präsentation<br>(ca. 30 Min.)<br>1|
+|---|---|---|---|---|
+|**Fachmodul V**|vgl. § 5 Abs. 4|(10)|10|Wissenschaftliche Präsentation<br>(ca. 30 Min.)<br>1|
 
 " 
 
-## 7. Nach **Anlage 1** (neu) wird folgende neue **Anlage 2** angefügt: 
+# 7. Nach **Anlage 1** (neu) wird folgende neue **Anlage 2** angefügt: 
 
-## **„Anlage 2: Studienverlaufsplan M.A. Germanistik – Teilzeit** 
+# **<u>„Anlage 2: Studienverlaufsplan M.A. Germanistik – Teilzeit</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang<br>der Prüfungs- oder Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||Semester in ECTS-Punkten1)|||||||||
-|||V|Ü|P|S||1|2|3|4|5|6|7|8|||
-|**Pflichtbereich**|||||||||||||||||
-|**Fachmodule gemäß § 5**|||||||||||||||||
-|**Fachmodul I2)**|vgl. § 5 Abs. 4|||||10|10||||||||vgl. § 5 Abs. 3|1|
-|**Fachmodul II2)**|vgl. § 5 Abs. 4|||||10||10|||||||vgl. § 5 Abs. 3|1|
-|**Fachmodul III**|vgl. § 5 Abs. 4|||||10|||10||||||vgl. § 5 Abs. 3|1|
-|**Profilbereich (gem. FPO § 3 Abs. 2)**|||||||||||||||||
-|**Profilmodul**<br>**Germanistische**<br>**Linguistik3)**|Masterseminar||||2|(10)||||||7|||Referat und Hausarbeit (15-25 Seiten)<br>(0 + 100 %)|1|
-||Übung/Kolleg||(2)||(2)|||||||3|||||
-|**Profilmodul Neuere**<br>**deutsche Literatur-**<br>**wissenschaft3)**|Masterseminar||||2|(10)||||||7|||Referat und Hausarbeit (15-25 Seiten)<br>(0 + 100 %)|1|
-||Übung/Kolleg||(2)||(2)|||||||3|||||
-|**Profilmodul**<br>**Germanistische**<br>**Mediävistik3)**|Masterseminar||||2|(10)||||||7|||Referat und Hausarbeit (15-25 Seiten)<br>(0 + 100 %)|1|
-||Übung/Kolleg||(2)||(2)|||||||3|||||
-|**Oberseminar/**<br>**Kolloquium **|Oberseminar||||2|5||||||5|||Wissenschaftliche Präsentation (ca. 45 Min.)|0|
-|**Interdisziplinäre undpraktische Module**|||||||||||||||||
-|**Workshop**|Workshop||||1|5||||5|||||Wissenschaftliche Präsentation(ca. 20 Min.)|0|
-|**Projektmodul**|Projektmitarbeit/<br>Praktikum|||||10||||5|5||||schriftlicher Bericht (15 Seiten)|0|
-|**Extradisziplinäres**<br>**Modul I**|vgl.: § 6 Abs. 4|||||10|||||10||||vgl.: § 6 Abs. 3|0|
+|Modulbezeichnung|Lehrveranstaltung<br>SWS||Gesamt<br>|Workload-V<br>Semester in E|erteilung pro<br>CTS-Punkten<sup>1)</sup>|Art und Umfang<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+||<br> <br> <br>|<br>|ECTS|<br> <br> <br> <br>|<br> <br> <br> <br>|der Prüfungs- oder Studienleistung||
+||V<br>Ü<br>P|<br>S||1<br>2<br>3<br>4|5<br>6<br>7<br>8||note|
+|**Pflichtbereich**<br>**Fachmodule gemäß §**<br>|**5**<br>|||||||
+|**Fachmodul I**<sup>**2)**</sup>|vgl. § 5 Abs. 4||10|10||vgl. § 5 Abs. 3|1|
+|**Fachmodul II**<sup>**2)**</sup>|vgl. § 5 Abs. 4||10|10||vgl. § 5 Abs. 3|1|
+|**Fachmodul III**|vgl. § 5 Abs. 4||10|10||vgl. § 5 Abs. 3|1|
+|**Profilbereich (gem. FPO**|**§ 3 Abs. 2)**|||||||
+|**Profilmodul**<br>|Masterseminar|2|||7|Referat und Hausarbeit (15-25 Seiten)||
+|**Germanistische**<br>**Linguistik**<sup>**3)**</sup>|Übung/Kolleg<br>(2)|(2)|(10)||3|<br>(0 + 100 %)|1|
+|**Profilmodul Neuere**<br>|Masterseminar|2|||7|Referat und Hausarbeit (15-25 Seiten)||
+|**deutsche Literatur-**<br>**wissenschaft**<sup>**3)**</sup>|Übung/Kolleg<br>(2)|(2)|(10)||3|<br>(0 + 100 %)|1|
+|**Profilmodul**<br>|Masterseminar|2|||7|Referat und Hausarbeit (15-25 Seiten)||
+|**Germanistische**<br>**Mediävistik**<sup>**3)**</sup>|Übung/Kolleg<br>(2)|(2)|(10)||3|<br>(0 + 100 %)|1|
+|**Oberseminar/**<br>**Klli **|Oberseminar|2|5||5|Wissenschaftliche Präsentation (ca. 45 Min.)|0|
+|**ooquum **<br>**Interdisziplinäre undpr**|**aktische Module**|||||||
+|**Workshop**|Workshop|1|5|5||Wissenschaftliche Präsentation(ca. 20 Min.)|0|
+|**Projektmodul**|Projektmitarbeit/<br>Praktikum||10|5|5|schriftlicher Bericht (15 Seiten)|0|
+|**Extradisziplinäres**<br>**Modul I**|vgl.: § 6 Abs. 4||10||10|vgl.: § 6 Abs. 3|0|
 
 3 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang<br>der Prüfungs- oder Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||Semester in ECTS-Punkten1)|||||||||
-|||V|Ü|P|S||1|2|3|4|5|6|7|8|||
-|**Abschlussmodul**|||||||||||||||||
-|**Masterarbeit**|Masterarbeit|||||25|||||||15|10|Masterarbeit (ca. 70-90 Seiten)|1|
-|**Abschlussprüfung**|Abschlussprüfung|||||5||||||||5|Mündliche Prüfung (ca. 30 Min.)|1|
-|**Freier Bereich (Es sind Module im Umfang von 20 ECTS-Punkten zu belegen)5)**|||||||||||||||||
-|**Fachmodul IV4)**|vgl. § 5 Abs. 4|||||(10)|10||||||||Wissenschaftliche Präsentation (ca. 30 Min.)|1|
-|**Fachmodul V**|vgl. § 5 Abs. 4|||||(10)|||10||||||Wissenschaftliche Präsentation (ca. 30 Min.)|1|
-|**Lektüremodul I**|angeleitetes Selbst-<br>studium|||||(10)|5|5|||||||schriftlicher Bericht (10 Seiten) oder mündlicher<br>Lektürebericht (ca.30Min.)6)|1|
-|**Lektüremodul II**|angeleitetes Selbst-<br>studium|||||(10)|||5|5|||||schriftlicher Bericht (10 Seiten) oder mündlicher<br>Lektürebericht (ca. 30 Min.)6)|1|
-|**Extradisziplinäres**<br>**Modul II**|vgl.: § 6 Abs. 4|||||(10)||10|||||||vgl.: § 6 Abs. 3|1|
-|**Extradisziplinäres**<br>**Modul III**|vgl.: § 6 Abs. 4|||||(10)||||10|||||vgl.: § 6 Abs. 3|1|
-|Summe:||0|0<br>-<br>12|0|11<br>-<br>31|120|15<br>5)|15<br>5)|15<br>5)|15<br>5)|15|15|15|15|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br> <br> <br> <br>|Gesamt<br>ECTS|Worklo<br>Semeste<br> <br> <br>|ad-V<br>r in E<br>|erteilun<br>CTS-Pu<br>|g pro<br>nkten<sup>1)</sup><br> <br>||Art und Umfang<br>der Prüfungs- oder Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|
+||<br> <br> <br>||<br> <br>|||<br>|||noe|
+||<br> <br> <br>||<br> <br>|||<br>||||
+|**Abschlussmodul**<br>|<br> <br> <br> <br>||<br> <br>|||<br> <br>|<br>|||
+|**Masterarbeit**|Masterarbeit|25||||15|10|Masterarbeit (ca. 70-90 Seiten)|1|
+|**Abschlussprüfung**|Abschlussprüfung|5|||||5|Mündliche Prüfung (ca. 30 Min.)|1|
+|<br>**Freier Bereich (Es sind**<br>|**Module im Umfang von 20 ECTS-Punkten z**<br>|**u belegen)**<br>|<sup>**5)**</sup><br>|||||||
+|**Fachmodul IV**<sup>**4)**</sup>|vgl. § 5 Abs. 4|(10)|10|||||Wissenschaftliche Präsentation (ca. 30 Min.)|1|
+|**Fachmodul V**|vgl. § 5 Abs. 4|(10)|10|||||Wissenschaftliche Präsentation (ca. 30 Min.)|1|
+|**Lektüremodul I**|angeleitetes Selbst-<br>studium|(10)|5<br>5|||||schriftlicher Bericht (10 Seiten) oder mündlicher<br>Lektürebericht (ca.30Min.)<sup>6)</sup>|1|
+|**Lektüremodul II**|angeleitetes Selbst-<br>studium|(10)|5|5||||schriftlicher Bericht (10 Seiten) oder mündlicher<br>Lektürebericht (ca. 30 Min.)<sup>6)</sup>|1|
+|**Extradisziplinäres**<br>**Modul II**|vgl.: § 6 Abs. 4|(10)|10|||||vgl.: § 6 Abs. 3|1|
+|**Extradisziplinäres**<br>**Modul III**|vgl.: § 6 Abs. 4|(10)||10||||vgl.: § 6 Abs. 3|1|
+||Summe:<br>0<br>0<br>-<br>12<br>0<br>11<br>-<br>31|120|15<br>5)<br>15<br>5)<br>15<br>5)|15<br>5)|15|15<br>15|15|||
 
 - 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "20. November 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/30AES_ZwischenpruefungsO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:51:08+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:04:53+00:00
+page_count_chars: 12097
 ---
 
 # 20. November 2003
@@ -12,323 +12,151 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/30AES_ZwischenpruefungsO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+DreiRigste Satzung zur Anderung der Zwischenpriifungsordnung der Universitat Erlangen-Nurnberg (ZwPO) 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+‘ 
 
-### OCR Seite 1
+# Vom 20. November 2003 
 
-```
-1.
-811 wird wie folgt geändert:
-a)
-Absatz 1 wird wie folgt geändert:
-aa) Satz 1 Nr. 2 erhält folgende Fassung:
-„2. auf der Grundlage des European Credit Transfer System (ECTS) aus studien-
-begleitend erbrachten Studien- und Prüfungsleistungen (studienbegleitendes Prü-
-fungsverfahren)“
-bb) In Satz 2 wird das Wort „Prüfungsleistungen“ durch das Wort „Studien- und
-Prüfungsleistungen“ ersetzt.
-b) An die Stelle von Absatz 2 treten folgende Absätze:
-„(2) 'Im studienbegleitenden Prüfungsverfahren entfallen Leistungspunkte auf Lehr-
-veranstaltungen, an denen der Student mit Erfolg teilgenommen hat, und auf Prü-
-fungsleistungen, die er in der Vorlesungszeit oder im Anschluss daran studienbeglei-
-tend erbracht hat. ?Die Gesamtzahl der Leistungspunkte beträgt in jedem Fach 60,
-bei Ablegung der Zwischenprüfung im Nebenfach, soweit die Besonderen Bestim-
-mungen dies zulassen, 30. °Die Aufteilung der Leistungspunkte auf die Leistungs-
-nachweise und die Prüfungsleistungen ist fachspezifisch in den Besonderen Bestim-
-{
-mungen geregelt.
-(3) 'Der Umfang einer Prüfungsleistung im studienbegleitenden Prüfungsverfahren
-wird mit Hilfe von Leistungspunkten bestimmt. ”Die Ergebnisse bestandener Prüfun-
-gen werden mit Leistungspunkten, die Ergebnisse nichtbestandener erster Wiederho-
-lungsprüfungen mit Maluspunkten berechnet.
-(4) "Leistungspunkte werden bezogen auf Module vergeben. *Ein Modul ist eine aus
-mehreren Teilleistungen zusammengesetzte Studien- und Prüfungsleistung, die auf
-nicht weniger als sechs bis acht Semesterwochenstunden aus in der Regel nicht
-mehr als zwei Semestern beruht. *Anzahl, Umfang und Art der Leistungen sowie ihre
-Dauer und die Zahl der Punkte einschließlich der Leistungs- und Maluspunkte pro
-Modul sind fachspezifisch in den Besonderen Bestimmungen geregelt.“
-c)
-Der bisherige Absatz 3 wird Absatz 5.
-1
-```
+Aufgrund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+# §1 
 
-```
-3.
-828 erhält folgende Fassung:
-"828
-Philosophie
-(1) "Die Zwischenprüfung wird in einem studienbegleitenden Prüfungsverfahren abge-
-legt, wobei der jeweils mit der Veranstaltung verbundenen Arbeitsaufwand nach dem
-European Credit Transfer System (ECTS) erfasst wird. ?Pro Modul entfallen Leis-
-tungspunkte auf Lehrveranstaltungen, an denen der Student mit Erfolg teilgenommen
-hat, und auf Prüfungsleistungen, die er in der Vorlesungszeit oder im Anschluss dar-
-an studienbegleitend erbracht hat. Die Gesamtzahl der Leistungspunkte beträgt für
-Philosophie als Hauptfach 60, für Philosophie als Nebenfach 30. *Die inhaltlichen
-Prüfungsanforderungen ergeben sich aus der Beschreibung der Module. °Welche
-Prüfungsleistung bei einer Veranstaltung verlangt wird, muss bei der Lehrveranstal-
-tungsankündigung schriftlich bekannt gegeben werden.
-(2) Für die Zwischenprüfung in Philosophie als Hauptfach sind folgende Leistungs-
-punkte und Prüfungsleistungen zu erbringen:
-|
-|
-(Leistungspunkte
-Prüfung (Leistungs-
-ECTS-
-\
-=LP
-punkte = LP)
-Punkte
-Modul I: Propädeutika (6 SWS)
-Proseminar Propädeutfik I: Arbeits-
-1
-4aLPp
-4
-techniken und -mittel der Philoso-
-Proseminar Propädeutik Il:
-1
-Klausur (90 min)
-6
-Logisch-philosophische Propädeutik
-(6 LP)
-3 SWS
-phie I (6 SWS)
-Proseminar Historisch-
-2
-ALP
-4
-systematische Einführung in die
-Erkenntnistheorie (2 SWS)
-Proseminar Historisch-
-3
-ALP
-4
-systematische Einführung in die
-Metaphysik, Ontologie o. Wissen-
-schaftstheorie (2 SWS)
-Pro-/Mittelseminar aus weiteren
-4
-Referat/Klausur (90
-6
-Bereichen der theoretischen Philo-
-min) (6 LP)
-sophie (Textseminar)
-(2 SWS
-2
-```
+Die Zwischenprufungsordnung der Universitat Erlangen-Nurnberg (ZwPO) vom 25. September 1980 (KMBI II S. 269), zuletzt geandert durch Satzung vom 4. Februar 2003 (KWMBI Il S. ....), wird wie folgt geandert: 
 
-### OCR Seite 3
+1. §11 wird wie folgt geandert: 
 
-```
-fenden Themen der Philosophie (2
-min) (6 LP)
-SWS
-Modul V: Philosophische Grund-
-vorlesungen
-(8 SWS)
-Vorlesung zur historischen Entwick-
-1
-Kurzkolloquien 15
-3
-lung der Philosophie (2 SWS)
-min/ kleinere
-schrifti. Tests
-(3 LP)
-Vorlesung zur historischen Entwick-
-2
-Kurzkolloquien 15
-3
-lung der Philosophie (2 SWS)
-min/ kleinere
-schriftl. Tests
-(3LP)
-Vorlesung zur historischen Entwick-
-3
-Kurzkolloquien 15
-3
-lung der Philosophie (2 SWS)
-min/ kleinere
-schrift. Tests
-(3 LP)
-Vorlesung zur historischen Entwick-
-4
-Kurzkolloquien 15
-3
-lung der Philosophie (2 SWS)
-min/ kleinere
-schrift. Tests
-3LP
-ELTEE
-BE EHE
-HERE BEE BE
-(3) Die Pflichtscheine für Textseminare aus Modul
-II und
-Ill müssen in Veranstaltungen er-
-\
-worben werden, die verschiedenen Epochen der Philosophiegeschichte (Antike, Mittelalter,
-Neuzeit/Gegenwart) zugerechnet werden können.
-(4) 'Leistungsnachweise für Modul IV können auch in einschlägigen Veranstaltungen, die
-von anderen Fächern angeboten werden
-(allerdings
-nicht
-in Pflichtveranstaltungen des
-Zweit- beziehungsweise Nebenfaches!) erworben werden, außerdem
-in Kursen, die dem
-empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen. ?Das Modul IV kann
-schließlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wo-
-chen ersetzt werden.
-(5) 'Die Grundvorlesungen aus Modul V sollen einen Überblick über die Geschichte der Phi-
-losophie im Ganzen beziehungsweise über wichtige Epochen geben oder das Werk großer
-Philosophen vorstellen. Ihr Besuch soll zusammen die historischen Entwicklungsepochen:
-Philosophie der Antike, des Mittelalters, der Neuzeit und der Gegenwart abdecken.
-(6) Für die Zwischenprüfung in Philosophie als Nebenfach sind folgende Leistungspunkte
-beziehungsweise Prüfungsleistungen zu erbringen:
-3
-```
+   - a) Absatz 1 wird wie foigt geandert: 
 
-### OCR Seite 4
+<!-- Start of picture text -->
+.<br><!-- End of picture text -->
 
-```
-Proseminar Historisch-systematische Einführung in die Sozi-
-3 oder
-Referat/Klausur | *
-al/Rechtsphilosophie oder Angewandte Ethik (2 SWS)
-4
-(60 min) (4 LP)*
-Modul V: Philosophische Grundvorlesungen (8 SWS)
-Vorlesung zur historischen Entwicklung der Philosophie
-Kurzkolloguien 15 min/ kleinere
-3
-(2 swsS)
-schriftl.Tests (3 LP)
-{
-Vorlesung zur historischen Entwicklung der Philosophie
-Kurzkolloquien 15 min/ kleinere
-3
-(2 SWS)
-schriftl.Tests (3 LP)
-Vorlesung zur historischen Entwicklung der Philosophie
-Kurzkolloquien 15 min/ kleinere
-3
-(2 swS)
-schriftl. Tests (3 LP)
-Vorlesung zur historischen Entwicklung der Philosophie
-Kurzkolloquien 15 min/ kleinere
-3
-(2 swS)
-schriftl.Tests (3 LP)
-Kr
-BEI
-KTSEREE EEE
-"Es muss eine von diesen beiden Veranstaltungen gewählt werden, die entsprechende
-Prüfungsleistung wird in die Zwischenprüfung aufgenommen.
-"
-4.
-835 erhält folgende Fassung:
-Wirtschaftswissenschaften
-(1) 'Das Fach Wirtschaftswissenschaften im Sinne der Magisterprüfungsordnung wird mit
-dem Fach Wirtschaftswissenschaften im Sinne des Zweiten Teils, Abschnitt V der LPO
-I zu
-einem Fach gemäß 8 2 Abs. 1 Satz 2 dieser Prüfungsordnung zusammengefasst. ?Die Zwi-
-schenprüfung wird in einem studienbegleitenden Prüfungsverfahren abgelegt.
-(2) Es sind folgende Prüfungsleistungen zu erbringen:
-Leistungs-
-Art und Dauer
-Semester
-SWS
-punkte
-der Prüfung
-1. Drei Prüfungsleistungen aus den
-folgenden vier Veranstaltungen
-Mikroökonomie
-| mit Übung
-1
-3
-6
-Klausur (90 Minuten)
-Makroökonomie
-| mit Übung
-1
-3
-6
-Klausur (90 Minuten)
-Mikroökonomie I! mit Übung
-2
-3
-6
-Klausur (90 Minuten)
-Makroökonomie Il mit Übung
-2
-3
-6
-Klausur (90 Minuten)
-Seminararbeit und
-2. Proseminar Volkswirtschaftslehre
-3
-2
-10
-Klausur (60 Minuten)
-3. Quantitative Methoden (Mathematik, Statistik)
-4
-4
-6
-Klausur (90 Minuten)
-4. Betriebswirtschaftslehre
-|
-2
-4
-7
-Klausur (60 Minuten)
-5. Betriebswirtschaftslehre Il
-3
-4
-7
-Klausur (90 Minuten)
-6. Rechnungswesen
-| mit Übung
-3
-3
-6
-Klausur (60 Minuten)
-7. Rechnungswesen
-Il
-4
-2
-6
-Klausur (60 Minuten)
-Summe
-28
-60
-4
-```
+aa) Satz 1 Nr. 2 erhalt folgende Fassung: 
 
-### OCR Seite 5
+»2. auf der Grundlage des European Credit Transfer System (ECTS) aus studienbegleitend erbrachten Studien- und Priifungsleistungen (studienbegleitendes Priifungsverfahren)* 
 
-```
-5.
-einer Übung zur buchhändlerischen und verlegerischen Praxis."
-(1) Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-(2)
-'$1 Nrn. 2 und 4 gelten für Studenten, die ab Wintersemester 2003/04 mit dem Studium
-beginnen, $ 1 Nr. 3 für Studenten, die das Studium vom Sommersemester 2003 ab be-
-gonnen haben und 8
-1
-Nr. 6 für Studenten, die das Studium vom Wintersemester
-2002/03 ab begonnen haben. ?Studenten, die das Studium vorher aufgenommen haben,
-legen die Zwischenprüfung nach der Zwischenprüfungsordnung der Universität Erlan-
-gen-Nürnberg in der Fassung vor Inkrafttreten dieser Änderungssatzung ab.
-Ausgefertigt aufgrund der Beschlüsse des Senats der Universität Erlangen-Nürnberg vom
-22. Januar, 11. Februar, 4. Juni und 15. Juli 2003 und der Genehmigung des Bayerischen
-Staatsministeriums für Wissenschaft, Forschung und Kunst mit Schreiben vom 5. November
-2003 Nr. X/4-5e66Z-10b/36 558.
-Erlangen, den 20. November 2003
+- bb) In Satz 2 wird das Wort ,Prifungsleistungen“ durch das Wort ,,Studien- und Prufungsleistungen* ersetzt. 
+
+b) An die Stelle von Absatz 2 treten folgende Absatze: 
+
+,(2) ‘Im studienbegleitenden Prifungsverfahren entfallen Leistungspunkte auf Lehrveranstaltungen, an denen der Student mit Erfolg teilgenommen hat, und auf Prufungsleistungen, die er in der Vorlesungszeit oder im Anschluss daran studienbegleitend erbracht hat. *Die Gesamtzahl der Leistungspunkte betragt in jedem Fach 60, bei Ablegung der Zwischenpriifung im Nebenfach, soweit die Besonderen Bestimmungen dies zulassen, 30. *Die Aufteilung der Leistungspunkte auf die Leistungsnachweise und die Prifungsleistungen ist fachspezifisch in den Besonderen Bestimmungen geregelt. 
+
+(3) ‘Der Umfang einer Priifungsleistung im studienbegleitenden Priifungsverfahren wird mit Hilfe von Leistungspunkten bestimmt. 7Die Ergebnisse bestandener Prifungen werden mit Leistungspunkten, die Ergebnisse nichtbestandener erster Wiederholungsprifungen mit Maluspunkten berechnet. 
+
+(4) 'Leistungspunkte werden bezogen auf Module vergeben. “Ein Modul ist eine aus mehreren Teilleistungen zusammengesetzte Studien- und Prifungsleistung, die auf nicht weniger als sechs bis acht Semesterwochenstunden aus in der Regel nicht mehr als zwei Semestern beruht. “Anzahl, Umfang und Art der Leistungen sowie ihre Dauer und die Zahl der Punkte einschlieRlich der Leistungs- und Maluspunkte pro Modul sind fachspezifisch in den Besonderen Bestimmungen geregelt.“ 
+
+c) Der bisherige Absatz 3 wird Absatz 5. 
+
+1 
+
+2. § 23 a wird wie folgt geandert: 
+
+A 
+
+## a) Absatz 1 erhalt folgende Fassung: 
+
+"(1) Fachliche Zulassungsvoraussetzungen 
+
+Nachweis der erforderlichen Teilnahme (Schein mit Klausur) an drei der folgenden vier Lehrveranstaltungen: 
+
+1. Ubungen zur Analysis | 2. Ubungen zur Analysis II 3. Ubungen zur Linearen Algebra und Analytischen Geometrie | 4. Ubungen zur Linearen Algebra und Analytischen Geometrie II." 
+
+## b) Absatz 2 Nr. 1 erhalt folgende Fassung: 
+
+"4. Analysis | und Il sowie mehrdimensionale Integration." 
+
+3. § 28 erhalt folgende Fassung: 
+
+"§ 28 Philosophie 
+
+(1) 'Die Zwischenpriifung wird in einem studienbegleitenden Prifungsverfahren abgelegt, wobei der jeweils mit der Veranstaltung verbundenen Arbeitsaufwand nach dem European Credit Transfer System (ECTS) erfasst wird. *Pro Modul entfallen Leistungspunkte auf Lehrveranstaltungen, an denen der Student mit Erfolg teilgenommen hat, und auf Prifungsleistungen, die er in der Vorlesungszeit oder im Anschluss daran studienbegleitend erbracht hat. “Die Gesamtzahl der Leistungspunkte betragt fur Philosophie als Hauptfach 60, fiir Philosophie als Nebenfach 30. “Die inhaltlichen Priifungsanforderungen ergeben sich aus der Beschreibung der Module. *°Welche Priifungsleistung bei einer Veranstaltung verlangt wird, muss bei der Lehrveranstaltungsanktindigung schriftlich bekannt gegeben werden. 
+
+(2) Fur die Zwischenpriifung in Philosophie als Hauptfach sind folgende Leistungspunkte und Prifungsleistungen zu erbringen: 
+
+|ee||e||e|
+|---|---|---|---|---|
+|||(Leistungspunkte<br>= LP|Priifung (Leistungs-<br>punkte = LP)|ECTS-<br>Punkte|
+|Modul |: Propadeutika (6 SWS)<br>Proseminar Propadeutik |: Arbeits-<br>techniken und -mittel der Philoso-<br>Proseminar Propadeutik II:<br>Logisch-philosophische Propadeutik<br>3 SWS|1<br>1|4LP|Klausur (90 min)<br>(6 LP)|4<br>6|
+|phie 1 (6 SWS)|||||
+|Proseminar Historisch-<br>systematische Einfihrung in die<br>Erkenntnistheorie (2 SWS)<br>Proseminar Historisch-<br>systematische Einfihrung in die<br>Metaphysik, Ontologie o.Wissen-<br>schaftstheorie (2 SWS)|2<br>3|4LP<br>4LP||4<br>4|
+|Pro-/Mittelseminar aus weiteren<br>Bereichen der theoretischen Philo-<br>sophie(Textseminar)<br>(2SWS|4||Referat/Klausur (90<br>min) (6 LP)|6|
+
+2 
+
+7 
+
+|Modul Ill: Praktische Philosophie<br>1 (6 SWS)<br>Proseminar Historisch-<br>systematische Einfthrung in die<br>Ethik (2 SWS)<br>Proseminar Historisch-<br>systematische Einftihrung in die<br>Sozial/Rechtsphilosophie oderAn-<br>gewandte Ethik<br>(2 SWS)<br>Pro-/Mittelseminar zu Bereichen der<br>Ethik, Sozial/ Rechtsphilosophie<br>oderAngewandten Ethik (Textsemi-<br>nar) (2 SWS)|2<br>3<br>4|4LP<br>4LP|Referat/Kiausur (90<br>min) (6 LP)|4<br>4<br>6|
+|---|---|---|---|---|
+|Modul IV: Philosophie interdiszi-<br>plinadr (4 SWS)<br>Pro-/Mittelseminarzu fachubergrei-<br>fenden Themen der Philosophie (2<br>Sws)<br>Pro-/Mittelseminar zu fachiibergrei-<br>fenden Themen der Philosophie (2<br>SWS|4<br>3|4LP|Referat/Klausur (90<br>min) (6 LP)|4<br>6|
+|Modul V: Philosophische Grund-<br>vorlesungen<br>(8 SWS)<br>Vorlesung zur historischen Entwick-<br>lung der Philosophie (2 SWS)|1|Kurzkolloquien 15<br>min/ kleinere<br>schriftl. Tests<br>(3 LP)||3|
+|Vorlesung zur historischen Entwick-<br>lung der Philosophie (2 SWS)|2|Kurzkolloquien 15<br>min/ kleinere<br>schriftl. Tests<br>(3 LP)||3|
+|Vorlesung zur historischen Entwick-<br>lung der Philosophie (2 SWS)|3|Kurzkolloquien 15<br>min/ kleinere<br>schriftl. Tests<br>(3 LP)||3|
+|Vorlesung zur historischen Entwick-<br>lung der Philosophie (2 SWS)<br><br>|4<br>|Kurzkolloquien 15<br>min/ kleinere<br>schriftl. Tests<br><br>||3|
+|Ee<br>|O|3LP<br>C|||
+
+(3) Die Pflichtscheine fur Textseminare aus Modul [I und Ill massen in Veranstaltungen erworben werden, die verschiedenen Epochen der Philosophiegeschichte (Antike, Mittelalter, Neuzeit/Gegenwart) zugerechnet werden konnen. (4) 'Leistungsnachweise fiir Modul IV kénnen auch in einschlagigen Veranstaltungen, die von anderen Fachern angeboten werden (allerdings nicht in Pflichtveranstaltungen des Zweit- beziehungsweise Nebenfaches!) erworben werden, aufSerdem in Kursen, die dem empfohlenen Erwerb von Latein- oder Griechischkenntnissen dienen. 7Das Modul IV kann schlieBlich auch durch ein Praktikum (mit qualifiziertem Nachweis) von mindestens vier Wochen ersetzt werden. 
+
+(5) 'Die Grundvorlesungen aus Modul V sollen einen Uberblick Uber die Geschichte der Philosophie im Ganzen beziehungsweise Uber wichtige Epochen geben oder das Werk grofer Philosophen vorstellen. “Ihr Besuch soll zusammen die historischen Entwicklungsepochen: Philosophie der Antike, des Mittelalters, der Neuzeit und der Gegenwart abdecken. 
+
+(6) Fur die Zwischenpriifung in Philosophie als Nebenfach sind folgende Leistungspunkte beziehungsweise Prifungsleistungen zu erbringen: 
+
+3 
+
+<!-- Start of picture text -->
+Modul in Teilnahme Art und Dauer entspr.<br>Sem. (Leistungspunkte = LP) der Priifung ECTS-<br>(Leistungs- Punkte<br>punkte = LP)<br>Modui I: Propadeutika (6 SWS)<br>Proseminar Propadeutik |: Arbeitstechniken und -mittel der 1 4LP 4<br>Philosophie (3 SWS)<br>Proseminar Propadeutik {I: Logisch-philosophische Propadeu- | 1 Kiausur (90 min)<br>tik (3 SWS) (6 LP) 6<br>Modul tl Theoretische Philosophie (2 SWS)*<br>Proseminar Historisch-systematische Einfuhrung in die Er- 2<br>kenntnistheorie (2 SWS)<br>oder<br>Proseminar Historisch-systematische Einflihrung in die Meta- 3 oder Referat/Klausur | 4<br>physik, Ontologie o. Wissenschaftstheorie (2 SWS) 4 (60 min) (4 LP)’<br>Modul Ill: Praktische Philosophie (2 SWS)*<br>Proseminar Historisch-systematische Einfiihrung in die Ethik 2<br>(2 SWS)<br>oder<br>Proseminar Historisch-systematische Einflihrung in die Sozi- 3 oder Referat/Klausur | 4<br>al/Rechtsphilosophie oder Angewandte Ethik (2 SWS) 4 (60 min) (4 LP}<br>Modul V: Philosophische Grundvorlesungen (8 SWS)<br>Vorlesung zur historischen Entwicklung der Philosophie Kurzkolloguien 15 min/ kleinere 3<br>(2 SWS) schriftl. Tests (3 LP)<br>*  Morlesung zur historischen Entwicklung der Philosophie Kurzkolloquien 15 min/ kleinere 3<br>“(2 SWS) schriftl. Tests (3 LP)<br>Vorlesung zur historischen Entwicklung der Philosophie Kurzkolloquien 15 min/ kleinere 3<br>(2 SWS) schriftl. Tests (3 LP)<br>Vorlesung zur historischen Entwicklung der Philosophie Kurzkolloquien 15 min/ kieinere 3<br>(2 SWS) schriftl. Tests (3 LP)<br>C™~—“—~*sS*S*S*S™SCCCSYSSC‘iNSC~“‘CSCSC*dSO™C*“‘é@C‘OON™C*d<br>fess<br>“Es muss eine von diesen beiden Veranstaltungen gewahit werden, die entsprechende<br>Prifungsleistung wird in die Zwischenprufung aufgenommen. "<br><!-- End of picture text -->
+
+4. § 35 erhalt folgende Fassung: 
+
+### Wirtschaftswissenschaften 
+
+(1) 'Das Fach Wirtschaftswissenschaften im Sinne der Magisterprifungsordnung wird mit dem Fach Wirtschaftswissenschaften im Sinne des Zweiten Teils, Abschnitt V der LPO | zu einem Fach gema& § 2 Abs. 1 Satz 2 dieser Priifungsordnung zusammengefasst. *Die Zwischenprifung wird in einem studienbegleitenden Priifungsverfahren abgelegt. 
+
+(2) Es sind folgende Priifungsleistungen zu erbringen: 
+
+||Semester|SWS|Leistungs-<br>punkte|Art und Dauer<br>der Priifung|
+|---|---|---|---|---|
+|1. Drei Prifungsleistungen aus den|||||
+|folgenden vier Veranstaltungen|||||
+|Mikrodkonomie<br>| mit Ubung|1|3|6|Klausur (90 Minuten)|
+|Makroékonomie<br>| mit Ubung|1|3|6|Klausur (90 Minuten)|
+|Mikroédkonomie I] mit Ubung|2|3|6|Klausur (90 Minuten)|
+|Makroékonomie Il mit Ubung|2|3|6|Klausur (90 Minuten)|
+|||||Seminararbeit und<br>|
+|2. Proseminar Volkswirtschaftslehre|3|2|10|Kiausur (60 Minuten)|
+|3. Quantitative Methoden (Mathematik, Statistik)|4|4|6|Klausur (90 Minuten)|
+|4. Betriebswirtschaftslehre<br>||2|4|7|Klausur (60 Minuten)|
+|5. Betriebswirtschaftslehre II|3|4|7|Klausur (90 Minuten)|
+|6. Rechnungswesen<br>| mit Ubung|3|3|6|Klausur (60 Minuten)|
+|7. Rechnungswesen<br>Il|4|2|6|Klausur (60 Minuten)|
+|Summe<br>4||28|60||
+
+. 
+
+5. § 36 wird aufgehoben. 
+
+6. § 43 Abs. 1 erhalt folgende Fassung: 
+
+"(1) Fachliche Zulassungsvoraussetzungen 
+
+   - Nachweis der erforderlichen Teilnahme an 
+
+   1. einem Proseminar zur Einfihrung in die Probleme des Faches Buchwissenschaft, 2. einem Proseminar zur Buchgeschichte, 
+
+   3. einem Proseminar zur Einfuhrung in das moderne Buchhandels- und Verlagswesen, 
+
+   4. einem Proseminar zu Rechtsfragen oder wirtschaftswissenschaftlichen Problemen des Buchwesens und 
+
+   5. einer Ubung zur buchhandlerischen und verlegerischen Praxis.” 
+
+- (1) Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+- (2) '§1 Nrn. 2 und 4 gelten fur Studenten, die ab Wintersemester 2003/04 mit dem Studium beginnen, § 1 Nr. 3 fir Studenten, die das Studium vom Sommersemester 2003 ab begonnen haben und § 1 Nr. 6 flr Studenten, die das Studium vom Wintersemester 2002/03 ab begonnen haben. *Studenten, die das Studium vorher aufgenommen haben, legen die Zwischenprufung nach der Zwischenprifungsordnung der Universitat Erlangen-Nurnberg in der Fassung vor Inkrafttreten dieser Anderungssatzung ab. 
+
+Ausgefertigt aufgrund der Beschliisse des Senats der Universitat Erlangen-Nirnberg vom 22. Januar, 11. Februar, 4. Juni und 15. Juli 2003 und der Genehmigung des Bayerischen Staatsministeriums fur Wissenschaft, Forschung und Kunst mit Schreiben vom 5. November 2003 Nr. X/4-5e66Z-10b/36 558. 
+
+Erlangen, den 20. November 2003 
 [Kontaktperson entfernt]
-Die Satzung wurde am 20. November 2003 in der Universität Erlangen-Nürnberg niederge-
-legt; die Niederlegung wurde am 20. November 2003 durch Anschlag in der Universität Er-
-langen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 20. November 2003.
-5
-```
+Die Satzung wurde am 20. November 2003 in der Universitat Erlangen-Nirnberg niedergelegt,; die Niederlegung wurde am 20. November 2003 durch Anschlag in der Universitat Erlangen-Nurnberg bekannt gegeben. Tag der Bekanntmachung ist der 20. November 2003. 
+
+5 
 

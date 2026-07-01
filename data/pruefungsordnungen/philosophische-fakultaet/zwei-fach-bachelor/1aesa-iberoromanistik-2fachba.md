@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Iberoromanistik_2FachBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:46+00:00
-page_count_chars: 1939
+scraped_at: 2026-07-01T10:20:46+00:00
+page_count_chars: 1927
 ---
 
 # 11. Juli 2008
@@ -12,7 +12,7 @@ page_count_chars: 1939
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Iberoromanistik_2FachBA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -20,13 +20,13 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 Die Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007 wird wie folgt geändert: 
 
-- § 4 Abs. 2 Satz 2 wird wie folgt geändert: 
+§ 4 Abs. 2 Satz 2 wird wie folgt geändert: 
 
-   - a) In der sechsten Spalte der Tabelle werden in der Zeile 2 die Worte „+ MP 10´“ ersatzlos gestrichen. 
+- a) In der sechsten Spalte der Tabelle werden in der Zeile 2 die Worte „+ MP 10´“ ersatzlos gestrichen. 
 
-   - b) In der dritten Spalte der Tabelle wird in der Zeile 9 das Wort „romanistische“ durch das Wort „spanische“ ersetzt. In der vierten Spalte der Tabelle wird in der Zeile 9 die Zahl „2“ durch die Zahl „3“ und in der fünften Spalte die Zahl „4“ durch die Zahl „6“ ersetzt. 
+- b) In der dritten Spalte der Tabelle wird in der Zeile 9 das Wort „romanistische“ durch das Wort „spanische“ ersetzt. In der vierten Spalte der Tabelle wird in der Zeile 9 die Zahl „2“ durch die Zahl „3“ und in der fünften Spalte die Zahl „4“ durch die Zahl „6“ ersetzt. 
 
-   - c) Die Zeile 10 der Tabelle („Grundlagen der romanistischen Literaturwissenschaft“) wird ersatzlos gestrichen. 
+- c) Die Zeile 10 der Tabelle („Grundlagen der romanistischen Literaturwissenschaft“) wird ersatzlos gestrichen. 
 
 ## **§ 2** 
 

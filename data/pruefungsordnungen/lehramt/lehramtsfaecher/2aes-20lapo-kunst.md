@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LAPO-Kunst.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:19+00:00
-page_count_chars: 8926
+scraped_at: 2026-07-01T08:40:52+00:00
+page_count_chars: 9024
 ---
 
 # 1. Dezember 2010
@@ -14,19 +14,19 @@ page_count_chars: 8926
 
 **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Dezember 2010 
+# Vom 1. Dezember 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 2 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. März 2009, geändert durch Satzung vom 28. September 2009, wird wie folgt geändert: 
 
-## § 5 Abs. 1 bis 4 erhalten folgende Fassung: 
+# § 5 Abs. 1 bis 4 erhalten folgende Fassung: 
 
 „(1) Für das Lehramt an Real- Grund- und Hauptschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
 
-|**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**|**Studienleistung**|
+|**Semeste**<br>|**r**<br>**Modul**<br>|**SWS**<br>|**ECTS**<br>|**Zulassungsvoraussetzunge **<br>|**n**<br>**Prüfungsleistung**|**Studienleistung**|
 |---|---|---|---|---|---|---|
 |**1**|**1) Basis 1:**<br>**Gestaltungsgrundlagen I**|**4**|**5**|Eignungsprüfung|||
 ||Zeichnung|2|2||Note auf praktische<br>Arbeiten||
@@ -56,7 +56,8 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 |**4**|**8) Vertiefung II**|**5**|**5**||||
 ||Künstlerische Arbeit 2|3|3|Modul 1) oder 2)|Note auf praktische<br>Arbeiten||
 ||Werkanalyse|2|2|Kunstgeschichte  1 und 2|Note auf Referat||
-|**4+5**|**9) Unterrichtsvorbereitung /**<br>**Praktikum**|**4**|**4**|Module 1) bis 4)|||
+|**4+5**|**9) Unterrichtsvorbereitung /**|**4**|**4**|Module 1) bis 4)|||
+||<br>**Praktikum**||||||
 
 ||Unterrichtsvorbereitung  (FD)|2|2||Note auf Präsentation und<br>Dokumentation||
 |---|---|---|---|---|---|---|
@@ -73,11 +74,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 ||**Fachwissenschaft Grund- und**<br>**Hauptschule:**|**52**|**54**||||
 ||**Fachdidaktik (FD) Grund- und**<br>**Hauptschule:**|**12**|**12**||||
 
-(2)[1] Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft zusätzlich zu den in Abs. 1 genannten Modulen die in der folgenden Tabelle aufgeführten Module erfolgreich abzulegen.[2] Die Veranstaltungen bauen aufeinander auf und beginnen nur alle drei Semester.[3] Es wird empfohlen, die Module frühzeitig zu belegen. 
+(2)<sup>1</sup> Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft zusätzlich zu den in Abs. 1 genannten Modulen die in der folgenden Tabelle aufgeführten Module erfolgreich abzulegen.<sup>2</sup> Die Veranstaltungen bauen aufeinander auf und beginnen nur alle drei Semester.<sup>3</sup> Es wird empfohlen, die Module frühzeitig zu belegen. 
 
-|**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**<br>***)**|**Studienleistung**|
+|**Semester**<br>**1**|**Modul**<br>**13) CAD I**|**SWS**<br>**2**|**ECTS**<br>**2**|**Zulassungsvoraussetzungen**<br>Eignungsprüfung|**Prüfungsleistung**<br>***)**|**Studienleistung**|
 |---|---|---|---|---|---|---|
-|**1**|**13) CAD I**|**2**|**2**|Eignungsprüfung|||
 ||Einführung in das computergestütze<br>Konstruktionszeichnen|2|2|||Unbenotete Klausur<br>(ca. 90 Min.)|
 |**2+3**|**14) CAD II**|**4**|**4**|CAD I|||
 ||Computergestütztes Konstruktionszeichnen<br>1|2|2|||Unbenotete Klausur<br>(ca. 90 Min.)|
@@ -106,11 +106,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 |**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**<br>***)**|**Studienleistung**|
 |---|---|---|---|---|---|---|
-||**1) Basis 1: Gestaltungsgrundlagen I**|**6**|**6**|**keine**|||
+||**1) Basis 1: Gestaltungsgrundlagen I**<br>|**6**<br>|**6**<br>|**keine**|||
 ||Zeichnung|2|2||Note auf<br>praktische<br>Arbeiten||
-||Malerei|2|2||Note auf<br>praktische<br>Arbeiten||
+||Malerei<br>|2|2||Note auf<br>praktische<br>Arbeiten||
 ||Ästhetische Spielformen|2|2|||Studienleistung mit<br>theoretischen und/oder<br>praktischen Anteilen|
-||**2) Basis 2: Gestaltungsgrundlagen II**|**11**|**10**|**Keine**|||
+||**2) Basis 2: Gestaltungsgrundlagen II**<br>|**11**|**10**|**Keine**|||
 ||Werken / Konstruktives Bauen<br>(incl. Maschinenschein)|3|2||Note auf<br>praktische<br>Arbeiten||
 ||Dreidimensionales Gestalten|3|3||Note auf<br>praktische<br>Arbeiten||
 ||Umwelt- und Produktgestaltung|2|2||Note auf<br>praktische<br>Arbeiten||
@@ -124,7 +124,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 ***) zusätzliche Leistungsanforderung gemäß §§ 36 Abs. 1 Nr. 8, 38 Abs. 1 Nr. 6 LPO I ohne ECTS-Punkte** 
 
-## **§ 2** 
+**§ 2** 
 
 Die Satzung tritt am 1. April 2011 in Kraft. 
 

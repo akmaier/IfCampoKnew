@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Mai 1997"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-Mag-PO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:50:37+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:02:20+00:00
+page_count_chars: 3612
 ---
 
 # 14. Mai 1997
@@ -12,86 +12,63 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-Mag-PO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+| 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+: 
 
-### OCR Seite 1
+# Neunte Satzung zur Anderung der Priifungsordnung der Universitat Erlangen-Niirnberg fiir den Grad eines Magister Artium (Magisterpriifungsordnung - MagPO) 
 
-```
-$1
-Die Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium
-(Magisterprüfungsordnung - MagPO) vom 23. September 1982 (KMBl II S. 803), zuletzt
-geändert durch Satzung vom 3. April 1996 (KWMBI II S. 611), wird wie folgt geändert:
-|
-In der Anlage zu $ 18 Abs. 5 wird angefügt:
-“III. Studienschwertpunkt Europäische Linguistik
-Der Studienschwerpunkt Europäische Linguistik hat folgende Voraussetzungen:
-1.
-Die Fächerkombination der Magisterprüfung muß drei der folgenden Prüfungsfächer
-bzw. Prüfungsteilfächer enthalten:
-a)
-Germanistische Linguistik,
-b)
-Englische Philologie,
-c)
-Galloromanische Philologie,
-d)
- Italoromanische Philologie,
-e)
-Iberoromanische Philologie,
-f)
- Slavistik,
-g)
-Nordische Philologie,
-“
-h)
-Semitische Philologie,
-i)
-Griechische Philologie,
-j)
-Lateinische Philologie,
-k)
-Lateinische Philologie des Mittelalters und der Neuzeit,
-l)
-Angewandte Sprachwissenschaft,
-m)
-Linguistische Informatik,
-n)
-Indogermanistik.
-Gegenstand der Magisterprüfung müssen sein entweder Germanistische Linguistik und
-ein neuphilologisches Fach gemäß Satz 1 Buchstaben b) bis h) oder zwei neuphilologi-
-sche Fächer gemäß Satz 1 Buchstaben b) bis h). Das dritte Fach ist frei wählbar aus
-dem Fächerkatalog gemäß Satz 1. In begründeten Ausnahmefällen kann der Prüfungs-
-ausschuß ein im Fächerkatalog gemäß Satz 1 nicht genanntes Prüfungsfach oder
-Prüfungsteilfach als Nebenfach zulassen. Voraussetzung hierfür ist, daß eine fundierte
-sprachwissenschaftliche Ausbildung gewährleistet ist.
-```
+Vom 14. Mai 1997 
 
-### OCR Seite 2
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlaBt die Universitat Erlangen-Niirnberg folgende Anderungssatzung: 
 
-```
-neuphilologischen Fächer.
-c)
-Die Leistungsnachweise im Hauptstudium (Hauptseminarscheine) müssen eine
-sprachwissenschaftliche Thematik zum Gegenstand haben.
-{
-d)
-Die Magisterarbeit muß vergleichende Aspekte zweier oder mehrerer europäi-
-scher Sprachen enthalten.
-e)
-Es sind Lateinkenntnisse entsprechend $ 19 Abs. 1 Nr. 7 nachzuweisen.”
-82
-Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom
-18. Dezember 1996 und der Genehmigung des Bayerischen Staatsministeriums für Unterricht,
-5
-Kultus, Wissenschaft und Kunst mit Schreiben vom 29. April 1997 Nr. X/4-5e66M(9)-6/7 361.
-Erlangen, den 14. Mai 1997
-Prof.\Dr. G. Jasper V
-Rektor
-Die Satzung wurde am 14. Mai 1997 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 14. Mai 1997 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 14. Mai 1997.
-```
+§1 
+
+Die Pritfungsordnung der Universitat Erlangen-Nurnberg fiir den Grad eines Magister Artium (Magisterprifungsordnung - MagPO) vom 23. September 1982 (KMBI II S. 803), zuletzt geandert durch Satzung vom 3. April 1996 (KWMBI II S. 611), wird wie folgt geandert: 
+
+In der Anlage zu § 18 Abs. 5 wird angefiigt: 
+
+- “TI. Studienschwertpunkt Europdische Linguistik 
+
+Der Studienschwerpunkt Europdische Linguistik hat folgende Voraussetzungen: 
+
+1. Die Facherkombination der Magisterpriifung mu drei der folgenden Priifiungsficher bzw. Prifungsteilfacher enthalten: 
+
+   - a) Germanistische Linguistik, 
+
+   - b) Englische Philologie, c) Galloromanische Philologie, 
+
+   - d) Italoromanische Philologie, e) Iberoromanische Philologie, f) Slavistik, g) Nordische Philologie, 
+
+   - h) Semitische Philologie, 1) | Griechische Philologie, j) Lateinische Philologie, k) Lateinische Philologie des Mittelalters und der Neuzeit, 1) Angewandte Sprachwissenschaft, m) Linguistische Informatik, n) Indogermanistik. 
+
+Gegenstand der Magisterpriifiing miissen sein entweder Germanistische Linguistik und ein neuphilologisches Fach gemas Satz 1 Buchstaben b) bis h) oder zwei neuphilologische Facher gema48 Satz 1 Buchstaben b) bis h). Das dritte Fach ist frei wahlbar aus dem Facherkatalog gemafs Satz 1. In begriindeten Ausnahmefillen kann der Priifungsausschu8 ein im Facherkatalog gemaS Satz 1 nicht genanntes Priifungsfach oder Priifungsteilfach als Nebenfach zulassen. Voraussetzung hierfiir ist, daB eine fundierte sprachwissenschaftliche Ausbildung gewahrleistet ist. 
+
+( 
+
+~ 
+
+2. Zulassungsvoraussetzungen: 
+
+   - a) Der Nachweis der Allgemeinen und Fachbezogenen (kultur- und geisteswissenschaftlichen) Fremdsprachenpriifung in den neuphilologischen Fachern nach Nr. 1 Satz 1 Buchstaben b) bis h) gemaB der Priifungsordnung der Universitat Erlangen-Nurnberg fiir die Allgemeine und die Fachbezogene Fremdsprachenprifung vom 26. Juli 1985 (KMBI II S. 275) in der jeweils geltenden Fassung. In einer Facherverbindung mit drei neuphilologischen Fachern gema® Nr. 1 Satz 1 Buchstaben b) bis h) ist in einem dieser Facher nur der Nachweis der Allgemeinen Fremdsprachenpriifung zu erbringen. 
+
+   - b) Der Nachweis eines einsemestrigen Auslandsstudiums in einem der gewahlen neuphilologischen Facher. 
+
+   - c) Die Leistungsnachweise im Hauptstudium (Hauptseminarscheine) miissen eine sprachwissenschaftliche Thematik zum Gegenstand haben. 
+
+   - d) Die Magisterarbeit muB vergleichende Aspekte zweier oder mehrerer europdischer Sprachen enthalten. 
+
+   - e) Es sind Lateinkenntnisse entsprechend § 19 Abs. 1 Nr. 7 nachzuweisen.” 
+
+§2 
+
+Diese Anderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Niirnberg vom 18. Dezember 1996 und der Genehmigung des Bayerischen Staatsministeriums ftir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 29. April 1997 Nr. X/4-5e66M(9)-6/7 361. 
+
+Erlangen, den 14. Mai 1997 
+
+(| SVe4yce3 Prof.\Dr. G. Jasper V Rektor 
+
+Die Satzung wurde am 14. Mai 1997 in der Universitat Erlangen-Niirmberg niedergelegt; die Niederlegung wurde am 14. Mai 1997 durch Anschlag in der Universitat Erlangen-Nirnberg bekanntgegeben. Tag der Bekanntmachung ist der 14. Mai 1997. 
 

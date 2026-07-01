@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. August 2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES-MBA-PrO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:45:36+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T11:09:11+00:00
+page_count_chars: 3993
 ---
 
 # 1. August 2006
@@ -12,134 +12,80 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES-MBA-PrO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+| 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# Satzung zur Anderung der Priifungsordnung fiir den berufsbegleitenden Weiterbildungsstudiengang Business Management an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der FriedrichAlexander-Universitat Erlangen-Niirnberg 
 
-### OCR Seite 1
+## Vom 1. August 2006 
 
-```
-Die
-Prüfungsordnung
-für
-den
-berufsbegleitenden
-Weiterbildungsstudiengang
-Business Management an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der
-Friedrich-Alexander-Universität Erlangen-Nürnberg vom 30. Juni 2003 (KWMBI II 2004
-S. 345) wird wie folgt geändert:
-|
-1.
-$ 3 Abs. 2 wird wie folgt geändert:
-a)
-Satz1 erhält folgende Fassung:
-„Es
-sind
-Prüfungen
-im
-Grundlagenfach
-„Fundamentals
-of Management“
-(Pflichtfach) und in zwölf Fächern nach der Anlage 2 abzulegen; ferner sind eine
-Pflichtexkursion zu absolvieren und eine Masterarbeit zu erstellen.“
-b)
-Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2.
-2.
-$ 4 Abs. 1 wird wie folgt geändert:
-a)
-InNr. 1 wird das Wort „acht“ durch das Wort „sechs“ ersetzt.
-b)
-InNr. 2 wird das Wort „zweijährige“ durch das Wort „einjährige“ ersetzt.
-|
-3.
-$ 6 Abs. 1 erhält folgende Fassung:
-„(1) "Die Prüfung besteht aus:
-1. den
-studienbegleitenden
-Prüfungsleistungen
-im
-Grundlagenfach
-„Fundamentals of Management“ und in zwölf Fächern nach der Anlage 2
-2. einer Pflichtexkursion und
-3. der Masterarbeit.
-°In
-elf der
-in
-Satz
-1
-Nr.
-1
-genannten
-Fächer müssen wenigstens
-ausreichende Leistungen vorliegen. ®Die Fächerstruktur des Studiengangs
-und die Zuordnung der Prüfungsfächer zu Pflicht- und Wahlfächern ergibt,
-sich aus der Anlage 2.“
-gan,
-Kerr.
-IS
-4.
-$ 8 erhält folgende Fassung:
-„(1) Für die an der Friedrich-Alexander-Universität Erlangen-Nürnberg erbrachten
-Leistungen im Weiterbildungsstudiengang „Business Management“, die mit der
-Note „ausreichend“ (4,0) oder besser bewertet werden, werden ECTS-Punkte
-vergeben.
-1
-```
+Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+### §1 
 
-```
-und
-elf
-weitere
-der
-angebotenen
-Fächer
-erfolgreich
-zu
-absolvieren.
-Die
-Zuordnung der Fächer ist folgende:
-Fundamentals of Management
-Corporate
-Functional
-Global Management
-\
-Management
-Management
-Strategic
-Financial Management| International Institutions
-Management
-Managerial
-Marketing
-International Management
-Economics
-Management
-Value Management | Human Resource
-International Accounting (Halbfach)
-and Controlling
-Management
-InternationalTaxation (Halbfach
-E-Business
-Technology and
-Due Diligence and International
-Management
-Innovations
-M&A
-Management
-Der Prüfungsausschuss kann darüber hinaus weitere für den Ausbildungszweck
-geeignete Fächer zulassen.“
-$2
-\
-Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom
-26. Juli 2006 und der Genehmigungsfeststellung des Rektors vom 28. Juli 2006.
-Erlangen, den 1. August 2006
-Prof. Dr.1.das
-Rektor
-Die Satzung wurde am 1. August 2006 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 1. August 2006 durch Anschlag in der Universität Erlangen-
-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 1. August 2006.
-2
-```
+Die Prifungsordnung fir den berufsbegleitenden Weiterbildungsstudiengang Business Management an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Niirnberg vom 30. Juni 2003 (KWMBI II 2004 S. 345) wird wie folgt gedndert: 
+
+1. § 3 Abs. 2 wird wie folgt geandert: ,Esa) Satz1 erhalt folgende Fassung: sind Prifungen im Grundlagenfach ,Fundamentals of Management" (Pflichtfach) und in zwélf Fachern nach der Anlage 2 abzulegen; ferner sind eine Pflichtexkursion zu absolvieren und eine Masterarbeit zu erstellen.“ 
+
+   - b) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2. 
+
+2. § 4 Abs. 1 wird wie folgt geandert: 
+
+   - a) In Nr. 1 wird das Wort ,acht* durch das Wort ,sechs“ ersetzt. 
+
+   - b) In Nr. 2 wird das Wort ,zweijahrige“ durch das Wort »einjahrige“ ersetzt. 
+
+. 
+
+3. § 6 Abs. 1 erhalt folgende Fassung: 
+
+### »(1) "Die Priifung besteht aus: 
+
+1. den studienbegleitenden Priifungsleistungen im Grundlagenfach 2. einer»-undamentalsPflichtexkursionof Management“und und in zwélf Fachern nach der Anlage 2 3. der Masterarbeit. "In elf der in Satz 1 Nr. 1 genannten Facher miissen wenigstens ausreichende Leistungen vorliegen. *Die Facherstruktur des Studiengangs und die Zuordnung der Priifungsfacher zu Pflicht- und Wahlfachern ergibt sich aus der Anlage 2." natn memes Kerr. JS 
+
+4. § 8 erhalt folgende Fassung: 
+
+»(1) Fir die an der Friedrich-Alexander-Universitat Erlangen-Nirnberg erbrachten Leistungen im Weiterbildungsstudiengang Business Management", die mit der Note ,ausreichend“ (4,0) oder besser bewertet werden, werden ECTS-Punkte vergeben. 
+
+1 
+
+( 
+
+\ 
+
+- (2) Ein Fach wird mit vier ECTS-Punkten gewichtet. 
+
+(3) Insgesamt sind 75 ECTS-Punkte zu erwerben, von denen 48 ECTS auf die studienbegleitenden Priifungen, 20 ECTS auf die Masterarbeit und sieben ECTS auf die Pflichtexkursion entfallen.“ 
+
+5. Die Anlage 2 erhalt folgende Fassung: 
+
+»Anlage 2 zu § 6 Abs. 1 
+
+Die Priifung bezieht sich auf das Grundlagenfach ,Fundamentals of Management* und zwélf weitere Facher, die zu gleichen Teilen auf drei Lehrmodule verteilt sind. Dabei sind das Grundlagenfach ,Fundamentals of Management“ als Pflichtfach und elf weitere der angebotenen Fdacher erfolgreich zu absolvieren. Die Zuordnung der Facher ist folgende: 
+
+||Fundamentals of Ma<br>|nagement<br>|
+|---|---|---|
+|Corporate<br>Management|Functional<br>Management|Global Management|
+|Strategic<br>Management|Financial Management||International Institutions|
+|Managerial<br>Economics|Marketing<br>Management|International Management|
+|Value Management <br>and Controlling||Human Resource<br>Management|International Accounting (Halbfach)<br>InternationalTaxation (Halbfach|
+|E-Business<br>Management|Technology and<br>Innovations<br>Management|Due Diligence and International<br>M&A|
+
+Der Priifungsausschuss kann dartiber hinaus weitere fur den Ausbildungszweck geeignete Facher zulassen.“ 
+
+### § 2 
+
+Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nurnberg vom 26. Juli 2006 und der Genehmigungsfeststellung des Rektors vom 28. Juli 2006. 
+
+Erlangen, den 1. August 2006 
+
+<!-- Start of picture text -->
+Prof. Dr.1s<br><!-- End of picture text -->
+
+Rektor 
+
+Die Satzung wurde am 1. August 2006 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 1. August 2006 durch Anschlag in der Universitat ErlangenNurnberg bekannt gegeben. Tag der Bekanntmachung ist der 1. August 2006. 
+
+2 
 

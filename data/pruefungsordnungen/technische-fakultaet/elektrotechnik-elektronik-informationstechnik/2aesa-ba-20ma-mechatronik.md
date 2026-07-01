@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-BA%20MA-Mechatronik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:16+00:00
-page_count_chars: 2610
+scraped_at: 2026-07-01T11:33:21+00:00
+page_count_chars: 2603
 ---
 
 # 2. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 2610
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-BA%20MA-Mechatronik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOMECH -** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOMECH -** 
 
-## Vom 2. Dezember 2009 
+# Vom 2. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-Alexander- Universität Erlangen-Nürnberg vom 25. September 2007, geändert durch Satzung vom 25. Juli 2008, wird wie folgt geändert: 
 
@@ -28,9 +28,11 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an
 
 3. Der neue § 40 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 wird das Wort „für“ gestrichen. 
+a) In Abs. 1 Satz 2 wird das Wort „für“ gestrichen. 
 
-   - b) Abs. 3 erhält folgende neue Fassung: „(3) Die Ergebnisse der Bachelorarbeit sind in einem ca. 20-minütigen Vortrag im Rahmen eines Hauptseminars vorzustellen.“ 
+b) Abs. 3 erhält folgende neue Fassung: 
+
+   - „(3) Die Ergebnisse der Bachelorarbeit sind in einem ca. 20-minütigen Vortrag im Rahmen eines Hauptseminars vorzustellen.“ 
 
 4. Im neuen § 43 wird: folgender neuer Abs. 6 angefügt: 
 
@@ -54,7 +56,7 @@ B 7 Praktikum Grundlagen der Elektrotechnik 3 2,5 uSL
 
    - c) Die bisherigen Nrn. 13 bis 17 werden zu den neuen Nrn. 12 bis 16. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

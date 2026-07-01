@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Lateinische Philologie 20071004 i.d.F. 20180928.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Lateinische_Philologie/konsolidierte_Fassungen/2-Fach-BA_Lateinische Philologie_20071004_idF_20180928.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:49+00:00
-page_count_chars: 12701
+scraped_at: 2026-07-01T10:24:32+00:00
+page_count_chars: 12056
 ---
 
 # 2-Fach-BA Lateinische Philologie 20071004 i.d.F. 20180928.pdf
@@ -16,7 +16,7 @@ page_count_chars: 12701
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA LatPhil – Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA LatPhil – Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -30,9 +30,17 @@ geändert durch Satzungen vom 11. Juli 2008
 
 28. September 2018 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Zulassungsvoraussetzungen ........................................................................................... 3 § 7 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie .............................. 4 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Zulassungsvoraussetzungen ........................................................................................... 3<br>|
+|§ 7 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie .............................. 4|
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
@@ -46,7 +54,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Lateinische Philologie kann im Zwei-Fach-Bachelorstudiengang als Erstfach im Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Zwei-Fach-Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Zwei-Fach-Bachelorabschluss nachgewiesen. 
 
 (3) Das fachwissenschaftliche Studium der Lateinischen Philologie hat drei inhaltliche Schwerpunkte, deren Vermittlung es sich zum Ziel setzt: 
 
@@ -66,7 +74,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -74,11 +82,11 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (2) Im Studium Lateinische Philologie als Zweitfach sind die Module gemäß der **Anlage** mit Ausnahme der Module des Wahlpflichtbereichs und des Moduls „Bachelorarbeit“ erfolgreich abzulegen. 
 
-(3)[1] Im Studium Lateinische Philologie als Erstfach müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht wer- 
+(3)<sup>1</sup> Im Studium Lateinische Philologie als Erstfach müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht wer- 
 
 2 
 
-den.[2] Dabei werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Griechisch oder modernen Fremdsprachen empfohlen. 
+den.<sup>2</sup> Dabei werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Griechisch oder modernen Fremdsprachen empfohlen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -86,75 +94,60 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Lateinische Philo
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen bis spätestens zum Ende des vierten Fachsemesters gesicherte Lateinkenntnisse (kleines Latinum) nachweisen.[2] Die Möglichkeiten zur Erbringung dieses Nachweises richten sich nach § 29 Abs. 3 Satz 3 **ABMStPO/Phil** i. V. m. § 2 Abs. 2 Nr. 3 **StPO Latein** . 
+1Die Studierenden müssen bis spätestens zum Ende des vierten Fachsemesters gesicherte Lateinkenntnisse (kleines Latinum) nachweisen.<sup>2</sup> Die Möglichkeiten zur Erbringung dieses Nachweises richten sich nach § 29 Abs. 3 Satz 3 **ABMStPO/Phil** i. V. m. § 2 Abs. 2 Nr. 3 **StPO Latein** . 
 
 ## **§ 7 Schluss- und Übergangsvorschriften** 
 
 (1) Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die neunte Änderungssatzung tritt am 1. Oktober 2018 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
+(2)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. Oktober 2018 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
 3 
 
 ## **Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten1|||||||
-|||V|||||||||||||
-||||S|Ü|P||1.|2.|3.|4.|5.|6.|||
-||||||||||||||||
-|Lateinische Literaturwissenschaft I|UE: Einführung in die Lateinische<br>Philologie|||2||10|2||||||Referat (45 Min., 0 %) und<br>Hausarbeit  (10-12 S., 100 %)|1|
-||VL: Lateinische Literatur (Prosa)|2||||||2|||||||
-||PS: Lateinische Literatur (Prosa)||2|||||6|||||||
-|Lateinische Sprachwissenschaft und|UE:dt.-lat.Übersetzung (Grundlagen 1)|||2||5|2||||||Kl 90 Mi|0|
-|Sprachpraxis Ia|UE:dt.-lat.Übersetzung (Grundlagen 2)|||2||||3|||||ausur ( n.)||
-|Lateinische Sprachwissenschaft und<br>SprachpraxisIb|UE: lat.-dt. Übersetzung (Grundlagen)|||2||5|5||||||Klausur (90 Min.)|0|
-|Altertumswissenschaft für Latinisten I|VL / UE: Alte Geschichte2|(2)||(2)||5|||(2)|(2)|||Mündliche Prüfung (30 Min.)|1|
-||UE: Lektüre|||2|||||3||||||
-|Altertumswissenschaft für Latinisten II|VL / UE: Klassische Archäologie|(2)||(2)||5|||2||||Referat (45 Min.)|1|
-||Exkursion mitVorbereitungskurs||||2|||||3|||||
-|Lateinische Literaturwissenschaft II|VL: LateinischeLiteratur(Poesie)|2||||10|||(2)|(2)|||Referat (45 Min., 0 %) und<br>Hausarbeit  (10-12 S., 100 %)|1|
-||PS: LateinischeLiteratur(Poesie)||2||||||(6)|(6)|||||
-||PS: Epochen der lateinischen Literatur3||2||||||(2)|(2)|||||
-|Lateinische Sprachwissenschaft und<br>SprachpraxisIIa|UE: dt.-lat. Übersetzung (Aufbau)|||2||5||||5|||Klausur (90 Min.)|0/14|
-|Lateinische Sprachwissenschaft und<br>Sprachpraxis IIb|||||||||||||Klausur (90 Min.)|0/14|
-||UE: Sprachwissenschaftliche Theorie<br>PdidMtik|||2||5|||2||||||
-||(rosoe un er)||||||||||||||
-||UE: lat.-dt.Übersetzung (Aufbau)|||2|||||3||||||
-|Lateinische Literaturwissenschaft III|UE: Praxis und Methodik der<br>lateinischen Interpretation|||2||10|||||2||Referat (45 Min.) oder<br>Thesenpapier (5 S.)6|1|
-||S: LateinischeLiteraturund Sprache5||2|||||||||6|||
-||VL/ UEGräzistik|(2)||(2)|||||||2||||
-|Lateinische Sprachwissenschaft und<br>SprachpraxisIIIa|UE: lat.-dt. Übersetzung (Vertiefung)|||2||5|||||5||Klausur (90 Min.)|0/17|
-|Lateinische Sprachwissenschaft und<br>Sprachpraxis IIIb|UE: Kursorische Lektüre|||2||5||||||2|Klausur (90 Min.)|0/17|
-||UE: dt.-lat. Übersetzung (Vertiefung)|||2|||||||3||||
-|Wahlpflichtbereich. Es sind Module im Umfang von 10 ECTS-Punkten zu belegen.8|||||||||||||||
-|Basismodul 1:<br>Einführung in die Sprache und Literatur<br>deslateinischen Europas|vgl.: FPO B.A. Mittellatein und Neulatein|||||(10)|||||(6)|(4)|vgl.: FPO B.A. Mittellatein und<br>Neulatein|1|
-|Basismodul 2:<br>Einführungindielateinische Schrift|vgl.: FPO B.A. Mittellatein und Neulatein|||||(10)|||||(6)|(4)|vgl.: FPO B.A. Mittellatein und<br>Neulatein|1|
-|Einführung in die Indogermanistik9||||||||||||||1|
-||vgl.: FPO B.A. Indogermanistik und Indoiranistik|||||(5)|||||(5)||vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik||
-||||||||||||||||
-|Einführung in das Germanische10|vgl.: FPO B.A. Indogermanistik und Indoiranistik|||||(5)||||||(5)|vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik|1|
+||<br>SW|S|Gesamt<br>W|orkload-Verteil<br>in ECTS|ung pr<br>-Punkt|o Semester<br>en<sup>1</sup>||Faktor<br>|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||<br>ECTS||||Art und Umfang der Prüfung|Modul-|
+||V<br>S|Ü<br>P|<br> <br>1.|2.<br>3.|4.|5.<br>6.||note|
+||UE: Einführung in die Lateinische<br>Philologie|2|2||||||
+|Lateinische Literaturwissenschaft I|VL: Lateinische Literatur (Prosa)<br>2||10|2|||Referat (45 Min., 0 %) und<br>Hausarbeit  (10-12 S., 100 %)|1|
+||PS: Lateinische Literatur (Prosa)<br>2|||6|||||
+|Lateinische Sprachwissenschaft und<br>Sprachpraxis Ia|UE:dt.-lat.Übersetzung (Grundlagen 1)<br>UE:dt.-lat.Übersetzung (Grundlagen 2)|2<br>2|5<br>2|3|||Klausur (90 Min.)|0|
+|Lateinische Sprachwissenschaft und<br>SprachpraxisIb|UE: lat.-dt. Übersetzung (Grundlagen)|2|5<br>5||||Klausur (90 Min.)|0|
+|Altertumswissenschaft für Latinisten I|VL / UE: Alte Geschichte<sup>2</sup><br>(2)|(2)|5|(2)|(2)||Mündliche Prüfung (30 Min)|1|
+||UE: Lektüre|2||3|||.||
+|Altertumswissenschaft für Latinisten II|VL / UE: Klassische Archäologie<br>(2)|(2)|5|2|||Referat (45 Min.)|1|
+||Exkursion mitVorbereitungskurs|2|||3||||
+||VL: LateinischeLiteratur(Poesie)<br>2|||(2)|(2)||||
+||PLiihLi Pi<br>2||||||Referat (45 Min. 0 %) und||
+|Lateinische Literaturwissenschaft II|S:atensce teratur(oese)<br>||10|(6)|(6)||,<br>|1|
+||PS: Epochen der lateinischen Literatur<sup>3</sup><br>2|||(2)|(2)||Hausarbeit  (10-12 S., 100 %)||
+|Lateinische Sprachwissenschaft und<br>SprachpraxisIIa|UE: dt.-lat. Übersetzung (Aufbau)|2|5||5||Klausur (90 Min.)|0/1<sup>4</sup>|
+|Lateinische Sprachwissenschaft und<br>|UE: Sprachwissenschaftliche Theorie<br>(Prosodie undMetrik)|2|5|2|||Klausur (90 Min.)|0/1<sup>4</sup>|
+|Sprachpraxis IIb|UE: lat.-dt.Übersetzung (Aufbau)|2||3|||||
+||UE: Praxis und Methodik der<br>lateinischen Interpretation|2||||2|Referat (45 Min.) oder||
+|Lateinische Literaturwissenschaft III|S: LateinischeLiteraturund Sprache<sup>5</sup><br>2<br>VL/ UEGräzistik<br>(2)|(2)|10|||6<br>2|Thesenpapier (5 S.)<sup>6</sup>|1|
+|Lateinische Sprachwissenschaft und<br>SprachpraxisIIIa|UE: lat.-dt. Übersetzung (Vertiefung)|2|5|||5|Klausur (90 Min.)|0/1<sup>7</sup>|
+|Lateinische Sprachwissenschaft und|UE: Kursorische Lektüre|2|5|||2|Klausur (90 Min)|0/1<sup>7</sup>|
+|Sprachpraxis IIIb|UE: dt.-lat. Übersetzung (Vertiefung)|2||||3|.||
+|Wahlpflichtbereich. Es sind Module im U<br>Basismodul 1:|<br>mfang von 10 ECTS-Punkten zu belegen.<sup>8</sup>||||||||
+|Einführung in die Sprache und Literatur<br>deslateinischen Europas|vgl.: FPO B.A. Mittellatein und Neulatein||(10)|||(6)<br>(4)|vgl.: FPO B.A. Mittellatein und<br>Neulatein|1|
+|Basismodul 2:<br>Einführungindielateinische Schrift|vgl.: FPO B.A. Mittellatein und Neulatein||(10)|||(6)<br>(4)|vgl.: FPO B.A. Mittellatein und<br>Neulatein|1|
+|Einführung in die Indogermanistik<sup>9</sup>|vgl.: FPO B.A. Indogermanistik und Indoiranist|ik|(5)|||(5)|vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik|1|
+|Einführung in das Germanische<sup>10</sup>|vgl.: FPO B.A. Indogermanistik und Indoiranist|ik|(5)|||(5)|vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik|1|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten1|||||||
-|||V|||||||||||||
-||||S|Ü|P||1.|2.|3.|4.|5.|6.|||
-||||||||||||||||
-|Sanskrit I10||||||||||||||1|
-||vgl.: FPO B.A. Indogermanistik und Indoiranistik|||||(5)|||||(5)||vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik||
-||||||||||||||||
-|Sprachübungen I|vgl.: FPO B.A. Griechische Philologie|||||(10)|||||(10)|(10)|vgl.: FPO B.A. Griechische<br>Philologie|1|
-|Poesie|vgl.: FPO B.A. Griechische Philologie|||||(10)|||||(10)|(10)|vgl.: FPO B.A. Griechische<br>Philologie|1|
-||||||||||||||||
-||||||||||||||||
-|Prosa|vgl.: FPO B.A. Griechische Philologie|||||(10)|||||(10)|(10)|vgl.: FPO B.A. Griechische<br>Philologie|1|
-|Bachelorarbeit8|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (ca. 40 S.)|1|
-||Summe SWS (mind.) und ECTS-Punkte:|4<br>-<br>10|8|24<br>-<br>30|2|70/<br>80+10|9|11|10<br>-<br>22|8<br>-<br>20|12<br>-<br>22|18<br>-<br>28|||
+|Modulbezeichnung<br>Lehrveranstaltung<br>SWS<br>V<br>S<br>Ü<br>P|Gesamt<br>ECTS<br>Workload-Verteilu<br>in ECTS-<br> <br>1.<br>2.<br>3.|ng pro Semes<br>Punkten<sup>1</sup><br>4.<br>5.|ter<br>6.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|
+|Sanskrit I<sup>10</sup><br>vgl.: FPO B.A. Indogermanistik und Indoiranistik|(5)|(5)||vgl.: FPO B.A. Indogermanistik<br>undIndoiranistik|1|
+|Sprachübungen I<br>vgl.: FPO B.A. Griechische Philologie|(10)|(10)|(10)|vgl.: FPO B.A. Griechische<br>Philologie|1|
+|Poesie<br>vgl.: FPO B.A. Griechische Philologie|(10)|(10)|(10)|vgl.: FPO B.A. Griechische<br>Philologie|1|
+|Prosa<br>vgl.: FPO B.A. Griechische Philologie|(10)|(10)|(10)|vgl.: FPO B.A. Griechische<br>Philoloie|1|
+|Bachelorarbeit<sup>8</sup><br>||||g<br>||
+|Bachelorarbeit|10||10|Bachelorarbeit (ca. 40 S.)|1|
+|Summe SWS (mind.) und ECTS-Punkte:<br>4<br>-<br>10<br>8<br>24<br>-<br>30<br>2|<br>70/<br>80+10<br>9<br>11<br>10<br>-<br>22|8<br>-<br>20<br>12<br>-<br>22|18<br>-<br>28|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

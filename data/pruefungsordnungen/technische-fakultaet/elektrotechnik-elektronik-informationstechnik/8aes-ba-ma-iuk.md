@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/8AES_BA_MA_IuK.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:10:31+00:00
-page_count_chars: 1987
+scraped_at: 2026-07-01T11:31:13+00:00
+page_count_chars: 1983
 ---
 
 # 7. Oktober 2013
@@ -12,13 +12,13 @@ page_count_chars: 1987
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/8AES_BA_MA_IuK.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Achte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** 
+# **Achte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** 
 
-## Vom 7. Oktober 2013 
+# Vom 7. Oktober 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK - vom 21. September 2007, zuletzt geändert durch Satzung vom 31. Juli 2012, wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ Die Anlage 2 wird wie folgt geändert:
 
 3.  In den Zeile 6 (Nr. 3) und Zeile 7 (Nr.4), Spalte 11 werden die Buchstaben „PL“ durch die Worte „benotete SL“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

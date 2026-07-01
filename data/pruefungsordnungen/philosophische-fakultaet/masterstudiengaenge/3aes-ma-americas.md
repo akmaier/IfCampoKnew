@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "3. November 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES MA-Americas.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:23:25+00:00
-page_count_chars: 2967
+scraped_at: 2026-07-01T09:38:25+00:00
+page_count_chars: 2964
 ---
 
 # 3. November 2011
@@ -12,13 +12,13 @@ page_count_chars: 2967
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES MA-Americas.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang The Americas/Las Américas an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOAm -** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang The Americas/Las Américas an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOAm -** 
 
-## Vom 3. November 2011 
+# Vom 3. November 2011 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang The Americas/Las Américas an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOAm - vom 8. Juni 2010, zuletzt geändert durch Satzung vom 17. Januar 2011, wird wie folgt geändert: 
 

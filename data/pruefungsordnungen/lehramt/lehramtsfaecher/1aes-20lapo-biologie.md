@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Biologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:00:30+00:00
-page_count_chars: 3581
+scraped_at: 2026-07-01T08:34:38+00:00
+page_count_chars: 3577
 ---
 
 # 14. März 2012
@@ -12,7 +12,7 @@ page_count_chars: 3581
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Biologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 14. März 2012 
 
@@ -36,9 +36,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudieng
 
 5. Nach § 5 wird folgende neue Nr. 4 eingefügt: 
 
-## **„4. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
+# **„4. Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
 
-## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
 Im Rahmen des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services sind die Module gemäß § 5 Abs. 1 und 2 sowie das fachdidaktische Praktikum im Unterrichtsfach im Umfang von 5 ECTS-Punkten abzulegen.“ 
 
@@ -46,7 +46,7 @@ Im Rahmen des Teilstudiengangs Biologie des an der Otto-Friedrich-Universität B
 
 Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Abweichend hiervon gelten die Änderungen des an der Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädgogik - Vocational Education / Social Pedagogy and Social Services“ für alle Studierenden, die Ihr Studium ab dem Wintersemester 2012/2013 aufnehmen. 
 

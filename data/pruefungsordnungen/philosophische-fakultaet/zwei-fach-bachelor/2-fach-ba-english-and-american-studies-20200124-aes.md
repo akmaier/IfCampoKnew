@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA English and American Studies 20200124 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/English_and_American_Studies/Aenderungssatzungen/2-Fach-BA_English_and_American_Studies_20200124_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:56:07+00:00
-page_count_chars: 27613
+scraped_at: 2026-07-01T10:17:49+00:00
+page_count_chars: 26525
 ---
 
 # 2-Fach-BA English and American Studies 20200124 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 27613
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/English_and_American_Studies/Aenderungssatzungen/2-Fach-BA_English_and_American_Studies_20200124_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach English and American Studies im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU)** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach English and American Studies im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 24. Januar 2020** 
+# **Vom 24. Januar 2020** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach English and American Studies im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach English and American Studies
 
    - d) Nach den Worten „für das Fach English and American Studies“ werden die Worte „im Rahmen des Zwei-Fach-Bachelorstudiengangs“ angefügt. 
 
-## 3. § 2 wird wie folgt geändert: 
+# 3. § 2 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -46,17 +46,17 @@ Die Fachstudien- und Prüfungsordnung für das Fach English and American Studies
 
 1 
 
-## b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
 - aa) In Satz 1 wird nach den Worten „Fachkenntnisse der englischen Sprache und Kultur“ das Wort „und“ durch das Wort „sowie“ ersetzt. 
 
-- bb) Satz 2 wird wie folgt geändert: 
+bb) Satz 2 wird wie folgt geändert: 
 
-   - (1) Nach den Worten „interdisziplinäre Vernetzung der Teilbereiche im“ werden die Worte und der Klammerzusatz „Zwischenmodul I („thematisches Kombinationsmodul“)“ durch die Worte „Thematischen Kombinationsmodul“ ersetzt. 
+- (1) Nach den Worten „interdisziplinäre Vernetzung der Teilbereiche im“ werden die Worte und der Klammerzusatz „Zwischenmodul I („thematisches Kombinationsmodul“)“ durch die Worte „Thematischen Kombinationsmodul“ ersetzt. 
 
-   - (2) Nach den Worten „im letzten Studienjahr, die Akzente“ wird das Wort „setzt“ gestrichen. 
+- (2) Nach den Worten „im letzten Studienjahr, die Akzente“ wird das Wort „setzt“ gestrichen. 
 
-   - (3) Nach den Worten „für die Wahl weiterführender“ wird das Wort „MA-Studiengänge“ durch die Worte „Masterstudiengänge setzt“ ersetzt. 
+- (3) Nach den Worten „für die Wahl weiterführender“ wird das Wort „MA-Studiengänge“ durch die Worte „Masterstudiengänge setzt“ ersetzt. 
 
 c) Abs. 3 wird wie folgt geändert: 
 
@@ -66,11 +66,11 @@ c) Abs. 3 wird wie folgt geändert:
 
 - cc) In Satz 3 werden nach den Worten „und kultureller Kompetenzen befähigt der“ das Wort „Bachelorabschluss“ durch das Wort „Zwei-Fach-Bachelorabschluss“ und nach den Worten „reflektierten Umgang mit den Kulturen“ die Abkürzung „insbes.“ durch das Wort „insbesondere“ ersetzt. 
 
-- dd) Satz 4 erhält folgende neue Fassung: 
+dd) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Der Zwei-Fach-Bachelorstudiengang legt einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln.“ 
+„<sup>4</sup> Der Zwei-Fach-Bachelorstudiengang legt einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln.“ 
 
-## 4. § 4 wird wie folgt geändert: 
+4. § 4 wird wie folgt geändert: 
 
 - a) In der Überschrift der Regelung werden nach den Worten „ **Gliederung des Studiums** “ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache** “ angefügt. 
 
@@ -78,7 +78,7 @@ b) Abs. 1 wird wie folgt geändert:
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-- „[1] Das Studium kann in einer der Studienrichtungen 
+„<sup>1</sup> Das Studium kann in einer der Studienrichtungen 
 
 1. _American Studies,_ 
 
@@ -96,7 +96,7 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 durchgeführt werden.“ 
 
-## bb) Satz 2 wird wie folgt geändert: 
+bb) Satz 2 wird wie folgt geändert: 
 
 - (1) Nach den Worten „Es besteht aus gemeinsamen Basis-, sowie den“ am Satzanfang wird das Wort „Studienrichtungen“ durch die Worte „der jeweiligen Studienrichtung“ ersetzt. 
 
@@ -108,7 +108,7 @@ cc) Die Sätze 3 und 4 entfallen.
 
 c) Abs. 2 erhält folgende neue Fassung: 
 
-„(2)[1] Im Studium _English and American Studies_ als Erstfach sind folgende Module erfolgreich abzulegen: 
+„(2)<sup>1</sup> Im Studium _English and American Studies_ als Erstfach sind folgende Module erfolgreich abzulegen: 
 
 1. Basismodule im Umfang von 35 ECTS-Punkten, 
 
@@ -116,13 +116,13 @@ c) Abs. 2 erhält folgende neue Fassung:
 
 3. Hauptmodule im Umfang von 20 ECTS-Punkten, wobei nur folgende Modulkombinationen möglich sind: entweder zwei Hauptmodule I (die immer thematisch unterschiedlich angeboten werden und auch aus demselben Teilfach gewählt werden können) oder die Kombination der Hauptmodule I, II und III. 
 
-> 2Die Wahl der Studienrichtung nach Abs. 1 Satz 1 Nr. 1 ( _American Studies_ ) erfolgt nach dem zweiten Semester.[3] In den anderen Studienrichtungen nach Abs. 1 Satz 1 Nrn. 2 bis 6 erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module; sie wird bei der Anmeldung zur Bachelorarbeit bekanntgegeben.[4] In den Abschlussdokumenten wird auf die gewählte Studienrichtung hingewiesen.[5] Näheres zum Studienverlauf und den Prüfungen regelt die **Anlage 1** .“ 
+> 2Die Wahl der Studienrichtung nach Abs. 1 Satz 1 Nr. 1 ( _American Studies_ ) erfolgt nach dem zweiten Semester.<sup>3</sup> In den anderen Studienrichtungen nach Abs. 1 Satz 1 Nrn. 2 bis 6 erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module; sie wird bei der Anmeldung zur Bachelorarbeit bekanntgegeben.<sup>4</sup> In den Abschlussdokumenten wird auf die gewählte Studienrichtung hingewiesen.<sup>5</sup> Näheres zum Studienverlauf und den Prüfungen regelt die **Anlage 1** .“ 
 
 - d) Abs. 3 entfällt 
 
 - e) Der bisherige Abs. 4 wird zu Abs. 3 und erhält folgende neue Fassung: 
 
-„(3)[1] Wird _English and American Studies_ als Zweitfach gewählt, ergibt sich der Studienverlauf aus **Anlage 2** .[2] Abs. 2 Satz 1 gilt mit der Maßgabe, dass in den Hauptmodulen 10 ECTS-Punkte erzielt werden müssen und das Hauptmodul I gewählt werden muss.[ 3] Die Wahl der Studienrichtung nach Abs. 1 Satz 1 Nr. 1 ( _American Studies_ ) erfolgt nach dem zweiten Semester.[4] In den anderen Studienrichtungen nach Abs. 1 Satz 1 Nrn. 2 bis 6 erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module.[5] Sofern die Studienrichtung nach Satz 4 durch die Auswahl der Module nicht bereits eindeutig festgelegt ist, ist die Wahl der Studienrichtung dem Prüfungsamt bis spätestens vier Wochen vor Erteilung des Abschlusszeugnisses zu erklären.[ 6] In den Abschlussdokumenten wird auf die gewählte Studienrichtung hingewiesen.“ 
+„(3)<sup>1</sup> Wird _English and American Studies_ als Zweitfach gewählt, ergibt sich der Studienverlauf aus **Anlage 2** .<sup>2</sup> Abs. 2 Satz 1 gilt mit der Maßgabe, dass in den Hauptmodulen 10 ECTS-Punkte erzielt werden müssen und das Hauptmodul I gewählt werden muss.<sup>3</sup> Die Wahl der Studienrichtung nach Abs. 1 Satz 1 Nr. 1 ( _American Studies_ ) erfolgt nach dem zweiten Semester.<sup>4</sup> In den anderen Studienrichtungen nach Abs. 1 Satz 1 Nrn. 2 bis 6 erfolgt die Wahl sukzessive durch die Auswahl der entsprechenden Module.<sup>5</sup> Sofern die Studienrichtung nach Satz 4 durch die Auswahl der Module nicht bereits eindeutig festgelegt ist, ist die Wahl der Studienrichtung dem Prüfungsamt bis spätestens vier Wochen vor Erteilung des Abschlusszeugnisses zu erklären.<sup>6</sup> In den Abschlussdokumenten wird auf die gewählte Studienrichtung hingewiesen.“ 
 
 3 
 
@@ -130,11 +130,11 @@ c) Abs. 2 erhält folgende neue Fassung:
 
 - g) Nach Abs. 4 (neu) wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Abweichend von § 3 Abs. 4 der **ABMStPO/Phil** ist die Unterrichts- und Prüfungssprache im Fach _English and American Studies_ im Zwei-Fach-Bachelorstudiengang in der Regel Englisch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in deutscher Sprache abgehalten werden.[3] Im Übrigen bleibt § 3 Abs. 4 **ABMStPO/Phil** unberührt.“ 
+„(5)<sup>1</sup> Abweichend von § 3 Abs. 4 der **ABMStPO/Phil** ist die Unterrichts- und Prüfungssprache im Fach _English and American Studies_ im Zwei-Fach-Bachelorstudiengang in der Regel Englisch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in deutscher Sprache abgehalten werden.<sup>3</sup> Im Übrigen bleibt § 3 Abs. 4 **ABMStPO/Phil** unberührt.“ 
 
 5. Nach § 4 werden folgende neue §§ 4a und 4b eingefügt: 
 
-## **„§ 4a Studienrichtung** _**American Studies**_ 
+# **„§ 4a Studienrichtung** **_American Studies_** 
 
 (1) In der Studienrichtung _American Studies_ gilt, dass Voraussetzung für die Zulassung zu den Prüfungen 
 
@@ -148,9 +148,9 @@ c) Abs. 2 erhält folgende neue Fassung:
 
 - ist. 
 
-(2)[ 1] In der Regel handelt es sich beim Zwischenmodul II um eine einzelne Lehrveranstaltung.[2] Eine aktuelle Liste mit möglichen Vorlesungen, Seminaren und Übungen, aus denen gewählt werden kann, wird semesteraktuell bekannt gegeben. 
+(2)<sup>1</sup> In der Regel handelt es sich beim Zwischenmodul II um eine einzelne Lehrveranstaltung.<sup>2</sup> Eine aktuelle Liste mit möglichen Vorlesungen, Seminaren und Übungen, aus denen gewählt werden kann, wird semesteraktuell bekannt gegeben. 
 
-## **§ 4b Übrige Studienrichtungen** 
+# **§ 4b Übrige Studienrichtungen** 
 
 (1) In den übrigen Studienrichtungen gilt, dass Voraussetzung für die Zulassung zu den Prüfungen 
 
@@ -184,80 +184,80 @@ ist.
 
 6. Die Regelung in § 5 erhält folgende neue Fassung: 
 
-„[1] Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen gemäß § 30 Abs. 3 **ABMStPO/Phil** bis zum Ende des zweiten Fachsemesters sowohl im Erst- als auch im Zweitfach Module im Umfang von jeweils 20 ECTS-Punkten erfolgreich abgelegt werden.[2] Im Fach _English and American Studies_ kann nur aus den Basismodulen II bis VII gemäß den **Anlagen** gewählt werden.“ 
+„<sup>1</sup> Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen gemäß § 30 Abs. 3 **ABMStPO/Phil** bis zum Ende des zweiten Fachsemesters sowohl im Erst- als auch im Zweitfach Module im Umfang von jeweils 20 ECTS-Punkten erfolgreich abgelegt werden.<sup>2</sup> Im Fach _English and American Studies_ kann nur aus den Basismodulen II bis VII gemäß den **Anlagen** gewählt werden.“ 
 
 7. Die Regelung in § 6 erhält folgende neue Fassung: 
 
-„[1] Bei der Berechnung der Fachnote gemäß § 22 Abs. 6 Sätze 1 und 2 **ABMStPO/Phil** fließt abweichend von § 22 Abs. 6 Satz 2 **ABMStPO/Phil** in den Teilbereichen _Linguistics_ , _Literature_ und _Culture_ nur das jeweils besser bewertete der beiden Basismodule jedes Teilbereichs in die Abschlussnote ein.[ 2] Besteht die Modulprüfung aus mehreren Prüfungsteilen bzw. Teilleistungen, gilt Satz 1 für die gem. § 22 Abs. 2 Sätze 1 bis 3 **ABMStPO/Phil** ermittelte Modulgesamtnote.“ 
+„<sup>1</sup> Bei der Berechnung der Fachnote gemäß § 22 Abs. 6 Sätze 1 und 2 **ABMStPO/Phil** fließt abweichend von § 22 Abs. 6 Satz 2 **ABMStPO/Phil** in den Teilbereichen _Linguistics_ , _Literature_ und _Culture_ nur das jeweils besser bewertete der beiden Basismodule jedes Teilbereichs in die Abschlussnote ein.<sup>2</sup> Besteht die Modulprüfung aus mehreren Prüfungsteilen bzw. Teilleistungen, gilt Satz 1 für die gem. § 22 Abs. 2 Sätze 1 bis 3 **ABMStPO/Phil** ermittelte Modulgesamtnote.“ 
 
 8. § 7 Abs. 2 erhält folgende neue Fassung: 
 
-„(2)[1] Die neunte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 5 
 
-## 9. Nach § 7 werden folgende neue Anlagen angefügt: 
+# 9. Nach § 7 werden folgende neue Anlagen angefügt: 
 
-## **„Anlage 1:** _**English and American Studies**_ **als Erstfach** 
+# **<u>„Anlage 1:</u>** **_<u>English and American Studies</u>_** **<u>als Erstfach</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Ge-<br>samt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach:****_English and American Studies_**|||||||||||||||
-|**Basismodule: 35 ECTS-Punkte**|||||||||||||||
-|**Basismodul I**<br>_Language_|GLC (I)||||1|5|2,5||||||Klausur (90 Min.)|1|
-||GLC (II)||||1|||2,5|||||||
-|**Basismodul II**<br>_Linguistics_(A)|Grundseminar||||2|5|5||||||Klausur (90 Min.)|1/02|
-|**Basismodul III**3<br>_Linguistics_(B)|Basisvorlesung|1||||5||2|||||Klausur (90 Min.)|1/02|
-||Aufbauseminar||||2|||3|||||||
-|**Basismodul IV**<br>_Literature_(A)|Grundseminar||||2|5|5||||||Klausur (90 Min.)|1/02|
-|**Basismodul V**<br>_Literature_(B)|Aufbauseminar||||2|5||5|||||Klausur (90 Min.)|1/02|
-|**Basismodul VI**<br>_Culture_(A)|Grundseminar mit Projektarbeit||||2|5|5||||||Klausur (90 Min.)|1/02|
-|**Basismodul VII**<br>_Culture_ (B)|Aufbauseminar||||2|5||5|||||Klausur (90 Min.)|1/02|
-|**Studienrichtung****_American Studies_: 45 ECTS-Punkte (vgl.**||**§ 4a)**|||||||||||||
-|**Zwischenmodul I**<br>_Culture_|Seminar_American Culture and_<br>_Civilization_||||2|5|||5||||Klausur (90 Min.)|1|
-|**Import-Kombi-Modul**<br>_Politics & Culture_|Mittelseminar Politikwissen-<br>schaft/Auslandswissenschaft mit<br>Nordamerika-Bezug||||2|10|||5||||Hausarbeit (10‐12 Seiten, 50 %)<br>und<br>Präsentation mit Ausarbeitung<br>(15 Min., 5 Seiten, 50 %)|1|
-||Mittelseminar_Politics & Culture_||||2|||||5|||||
+|||SWS||Ge-<br>|Workloa<br>|d-Verteilung pro<br> <sup>1</sup>|Art und Umfang der Prüfung/|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||samt<br>|Semester|in ECTS-Punkten|<br>Studienleistung|Modul-|
+||V|Ü<br>P|S|ECTS|1<br>2|3<br>4<br>5|6|note|
+|**Erstfach:****_English and A_**<br>**Basismodule: 35 ECTS-**|<br>**_merican Studies_**<br>**Punkte**|<br>|||.<br>.|.<br>.<br>.|.||
+|**Basismodul I**|GLC (I)||1||2,5||||
+|_Language_|GLC (II)||1|5|2,5||Klausur (90 Min.)|1|
+|**Basismodul II**<br>_Linguistics_(A)|Grundseminar||2|5|5||Klausur (90 Min.)|1/0<sup>2</sup>|
+|**Basismodul III**<sup>3</sup>|Basisvorlesung<br>1||||2|||<sup>2</sup>|
+|_Linguistics_(B)|Aufbauseminar||2|5|3||Klausur (90 Min.)|1/0|
+|**Basismodul IV**<br>_Literature_(A)|Grundseminar||2|5|5||Klausur (90 Min.)|1/0<sup>2</sup>|
+|**Basismodul V**<br>_Literature_(B)|Aufbauseminar||2|5|5||Klausur (90 Min.)|1/0<sup>2</sup>|
+|**Basismodul VI**<br>_Culture_(A)|Grundseminar mit Projektarbeit||2|5|5||Klausur (90 Min.)|1/0<sup>2</sup>|
+|**Basismodul VII**<br>|Aufbauseminar||2|5|5||Klausur (90 Min.)|1/0<sup>2</sup>|
+|_Culture_ (B)|||||||||
+|**Studienrichtung****_Americ_**|**_an Studies_: 45 ECTS-Punkte (vgl. § 4a)**||||||||
+|**Zwischenmodul I**<br>_Culture_|Seminar_American Culture and_<br>_Civilization_||2|5||5|Klausur (90 Min.)|1|
+|**Import-Kombi-Modul**|Mittelseminar Politikwissen-<br>schaft/Auslandswissenschaft mit<br>Nordamerika-Bezug||2|||5|Hausarbeit (10‐12 Seiten, 50 %)<br>und||
+|_Politics & Culture_|Mittelseminar_Politics & Culture_||2|10||5|Präsentation mit Ausarbeitung<br>(15 Min., 5 Seiten, 50 %)|1|
 
 6 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Zwischenmodul II**<br>_Economics, Linguistics,_<br>_History, Geography,_<br>_Literature/Culture_|Veranstaltung mit<br>Nordamerika-Bezug|(4)|(2)||(2)|5||||5|||Hausarbeit (10 Seiten)<br>oder<br>Klausur (90 Min.)4|1|
-|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2|||5||||5|||Portfolio5:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündlicheAufgabe (ca. 15Min.)|1|
-|**Htdl I**|Hauptseminar||||2|10|||||(7)|(7)|Hausarbeit (15‐18 Seiten)|1|
-|**aupmou**|_Independent Study Group_||1||||||||(3)|(3)|||
-|**Hauptmodul II**|Interdisziplinäres<br>Nordamerika-Kolloquium||||2|(5)|||||(5)|(5)|Mündliche Prüfung (20 Min.)|1|
-|**Hauptmodul III**|_Integrated Academic Language_<br>_Skills for BA Students II_||2|||(5)|||||(5)|(5)|Portfolio6:<br>2 schriftliche Aufgaben<br>(jeweils 4-5 Seiten) und<br>1 Referat (ca. 15 Min.).|1|
-|**Studienrichtungen****_British Studies, Cultural Studies, General Studies,_**||||**_Linguistics, Literary Studies_: 45 ECTS-Punkte (vgl. § 4b)**|||||||||||
-||Kombi-Seminar_Lingustics_||||2||||5,5||||Mündliche Prüfung (insg. 15 Min.)|1|
-|**Zwischenmodul I**<br>_Thematisches_<br>_Kombinationsmodul_|Kombi-Seminar_Culture_oder<br>_Literature_||||2||||||||||
-|||||||15|||5,5||||mit Präsentation (7-8 Min.); dazu||
-||_Presentation Skills_||||1||||2||||30 Min. Vorbereitungszeit||
-||_Speaking Skills_||1||||||2||||||
-|**Zwischenmodul II**<br>_Linguistics, Literature_<br>bzw._Culture_|Mittelseminar||||2|5||||5|||Hausarbeit (10-12 Seiten)|1|
-|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2|||5||||5|||Portfolio5:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe (ca. 15 Min.)|1|
-|**Hauptmodul I**<br>_Linguistics, Literature_<br>bzw._Culture_|Hauptseminar||||2|10|||||(7)|(7)|Hausarbeit (15‐18 Seiten)|1|
-||_Independent Study Group_||1||||||||(3)|(3)|||
+|Modulbezeichnung|Lehrveranstaltung||SWS|Ge-<br>samt|Workload-Verteilun<br>Semester in ECTS-P|g pro<br>unkten|<sup>1</sup>|Art und Umfang der Prüfung/<br>Studienleistun|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P<br>S|ECTS|1.<br>2.<br>3.<br>4.|5.|6.|g|note|
+|**Zwischenmodul II**<br>_Economics, Linguistics,_<br>_History, Geography,_<br>_Literature/Culture_|Veranstaltung mit<br>Nordamerika-Bezug|(4)|(2)<br>(2)|5|5|||Hausarbeit (10 Seiten)<br>oder<br>Klausur (90 Min.)<sup>4</sup>|1|
+|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2|5|5|||Portfolio<sup>5</sup>:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündlicheAufgabe (ca. 15Min.)|1|
+|**Hauptmodul I**|Hauptseminar||2|10||(7)|(7)|Hausarbeit (15‐18 Seiten)|1|
+||_Independent Study Group_||1|||(3)|(3)|||
+||Interdiszilinäres|||||||||
+|**Hauptmodul II**|p<br>Nordamerika-Kollouium||2|(5)||(5)|(5)|Mündliche Prüfung (20 Min.)|1|
+|**Hauptmodul III**|q<br>_Integrated Academic Language_<br>||2|(5)||(5)|(5)|Portfolio<sup>6</sup>:<br>2 schriftliche Aufgaben<br>|1|
+|<br>**Studienrichtungen****_Britis_**|_Skills for BA Students II_<br>**_h Studies, Cultural Studies, Gene_**<br>|**_ral Stu_**|**_dies, Linguistics,_**<br>|<br>**_Literary_**|**_Studies_: 45 ECTS-Punkte (**<br>|<br>**vgl. §**|<br>**4b)**|(jeweils 4-5 Seiten) und<br>1 Referat (ca. 15 Min.).||
+||Kombi-Seminar_Lingustics_||2||5,5|||||
+|**Zwischenmodul I**<br>_Thematisches_|Kombi-Seminar_Culture_oder<br>_Literature_||2|15|5,5|||Mündliche Prüfung (insg. 15 Min.)<br>mit Präsentation (7-8 Min.); dazu|1|
+|_Kombinationsmodul_|_Presentation Skills_<br>_Speaking Skills_||1<br>1||2<br>2|||30 Min. Vorbereitungszeit||
+|**Zwischenmodul II**||||||||||
+|_Linguistics, Literature_<br>bzw._Culture_|Mittelseminar||2|5|5|||Hausarbeit (10-12 Seiten)|1|
+|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2|5|5|||Portfolio<sup>5</sup>:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe (ca. 15 Min.)|1|
+|**Hauptmodul I**|Hauptseminar||2|||(7)|(7)|||
+|_Linuistics Literature_||||10||||Hausarbeit (15‐18 Seiten)|1|
+|_g,_<br>bzw._Culture_|_Independent Study Group_||1|||(3)|(3)|||
 
 7 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Hauptmodul II**<br>_Linguistics, Literature_<br>bzw. _Culture_|Vorlesung oder Seminar|(2)|||(2)|(5)|||||(5)|(5)|Mündliche Prüfung (20 Min.)|1|
-|**Hauptmodul III**|_Integrated Academic Language_<br>_Skills for BA Students II_||2|||(5)|||||(5)|(5)|Portfolio6:<br>2 schriftliche Aufgaben<br>(jeweils 4-5 Seiten) und<br>1 Referat (ca. 15 Min.)|1|
-|Summe SWS und ECTS-Punkte im Erstfach:||1-5|4-7|0|23-<br>26|80|17,5|17,5|10-<br>157|10-<br>157|10|10|||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
-|**Module des Zweit-**<br>**fachs**8|vgl. FPO des Zweitfachs|||||70|0-<br>12,5|0-<br>12,5|0-<br>20|0-<br>20|0-<br>20|0-10|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||
-|**Schlüssel-**<br>**qualifikationsmodule**|9|||||20|0-<br>12,5|0-<br>12,5|0-<br>20|0-<br>20|0-<br>20|0-10|9|0|
-|**Bachelorarbeit im Erstfach (****_English and American Studies_) **|||||||||||||||
-|**Bachelorarbeit**10||||||10||||||10|Bachelorarbeit (ca. 40 S.)|1|
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>|Ge-<br>samt<br>|S|Worklo<br>emeste|ad-V<br>r in E|erteilun<br>CTS-P|g pro<br>unkte|<br>n<sup>1</sup>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+||V<br>Ü<br>P<br>S|ECTS|1.|2.|3.|4.|5.|6.||note|
+|**Hauptmodul II**<br>_Linguistics, Literature_<br>bzw. _Culture_|Vorlesung oder Seminar<br>(2)<br>(2)|(5)|||||(5)|(5)|Mündliche Prüfung (20 Min.)|1|
+|**Hauptmodul III**|_Integrated Academic Language_<br>_Skills for BA Students II_<br>2|(5)|||||(5)|(5)|Portfolio<sup>6</sup>:<br>2 schriftliche Aufgaben<br>(jeweils 4-5 Seiten) und<br>1 Referat (ca. 15 Min.)|1|
+|Summe SW|S und ECTS-Punkte im Erstfach:<br>1-5<br>4-7<br>0<br>23-<br>|80|175|175|10-<br>|10-<br>|10|10|||
+|<br>**Zweitfach (Kombinations**|<br> <br> <br> <br>26<br>**möglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**||,|,|15<sup>7</sup>|15<sup>7</sup>|||||
+|**Module des Zweit-**<br>**fachs**<sup>8</sup>|vgl. FPO des Zweitfachs|70|0-<br>125|0-<br>125|0-<br>20|0-<br>20|0-<br>20|0-10|vgl. FPO des Zweitfachs||
+|**Schlüsselqualifikationen**<br>|||,<br>|,<br>|<br>|<br>|<br>||||
+|**Schlüssel-**<br>**ualifikationsmodule**|9|20|0-<br>125|0-<br>125|0-<br>20|0-<br>20|0-<br>20|0-10|9|0|
+|**q**<br>**Bachelorarbeit im Erstfac**|**h (****_English and American Studies_) **||,|,|||||||
+|**Bachelorarbeit**<sup>10</sup>||10||||||10|Bachelorarbeit (ca. 40 S.)|1|
+|Summe ECTS-Punkte im Z|wei-Fach-Bachelorstudium:|180|30|30|30|30|30|30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -281,59 +281,55 @@ ist.
 
 9 
 
-## **Anlage 2:** _**English and American Studies**_ **als Zweitfach** 
+**Anlage 2:** **_English and American Studies_ als Zweitfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü||P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**||||||||||||||||
-|**Module des Erstfachs**2|vgl. FPO des Erstfachs||||||70-90|0-<br>12,5|0-<br>12,5|0-<br>20|0-<br>20|0-<br>30|0-<br>30|vgl. FPO des Erstfachs||
-|**Zweitfach:****_English and American Studies_**||||||||||||||||
-|**Basismodule: 35 ECTS-Punkte**||||||||||||||||
-|**Basismodul I**<br>_Language_|GLC (I)|||||1|5|2,5||||||Klausur (90 Min.)|1|
-||GLC (II)|||||1|||2,5|||||||
-|**Basismodul II**<br>_Linguistics_(A)|Grundseminar|||||2|5|5||||||Klausur (90 Min.)|1/03|
-|**Basismodul III4**<br>_Linguistics_(B)|Basisvorlesung|1|||||5||2|||||Klausur (90 Min.)|1/03|
-||Aufbauseminar|||||2|||3|||||||
-|**Basismodul IV**<br>_Literature_(A)|Grundseminar|||||2|5|5||||||Klausur (90 Min.)|1/03|
-|**Basismodul V**<br>_Literature_(B)|Aufbauseminar|||||2|5||5|||||Klausur (90 Min.)|1/03|
-|**Basismodul VI**<br>_Culture_(A)|Grundseminar mit Projektarbeit|||||2|5|5||||||Klausur (90 Min.)|1/03|
-|**Basismodul VII**<br>_Culture_ (B)|Aufbauseminar|||||2|5||5|||||Klausur (90 Min.)|1/03|
-|**Studienrichtung****_American Studies_: 35 ECTS-Punkte (vgl.**||**§ 4a)**||||||||||||||
-|**Zwischenmodul I**<br>_Culture_|Seminar_American Culture and_<br>_Civilization_|||||2|5|||5||||Klausur (90 Min.)|1|
-|**Import-Kombi-Modul**<br>_Politics & Culture_|Mittelseminar Politikwissen-<br>schaft/Auslandswissenschaft mit<br>Nordamerika-Bezug|||||2|10|||5||||Hausarbeit (10‐12 Seiten, 50 %)<br>und<br>Präsentation mit Ausarbeitung<br>(15 Min., 5 Seiten, 50 %)|1|
-||Mittelseminar_Politics & Culture_|||||2|||||5|||||
+||||SWS|||Worklo|ad-Ve|rteilung pro||Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||<br>||Gesamt<br>ECTS|Semeste|r in EC|TS-Punkten|<sup>1</sup><br>Art und Umfang der Prüfung/<br>Studienleistung|Modul-<br>|
+|**Erstfach (Kombinations**|**möglichkeiten gemäß Anlage 3 der**|V<br>**ABMS**|Ü<br>P<br>**tPO/Phil)**|S||1.<br>2.<br>0<br>0|3.<br>0|4.<br>5.<br>0<br>0|6.<br>0|note|
+|**Module des Erstfachs**<sup>2</sup>|vgl. FPO des Erstf|achs|||70-90|-<br>125<br>-<br>125|-<br>20|-<br>20<br>-<br>30|-<br>30<br>vgl. FPO des Erstfachs||
+|**Zweitfach:****_English and_**<br>**Basismodule: 35 ECTS-**|**_American Studies_**<br>**Punkte**<br>|||||,<br>,||<br>|||
+|**Basismodul I**|GLC (I)|||1|5|2,5|||Klr 90 Min|1|
+|_Language_|GLC (II)|||1||2,5|||ausu ( .)||
+|**Basismodul II**<br>_Linguistics_(A)|Grundseminar|||2|5|5|||Klausur (90 Min.)|1/0<sup>3</sup>|
+|**Basismodul III**<sup>**4**</sup>|Basisvorlesung|1|||5|2|||Klausur (90 Min)|1/0<sup>3</sup>|
+|_Linguistics_(B)|Aufbauseminar|||2||3|||.||
+|**Basismodul IV**<br>_Literature_(A)|Grundseminar|||2|5|5|||Klausur (90 Min.)|1/0<sup>3</sup>|
+|**Basismodul V**<br>_Literature_(B)|Aufbauseminar|||2|5|5|||Klausur (90 Min.)|1/0<sup>3</sup>|
+|**Basismodul VI**<br>_Culture_(A)|Grundseminar mit Projektarbeit|||2|5|5|||Klausur (90 Min.)|1/0<sup>3</sup>|
+|**Bimdl VII**|||||||||||
+|**assou**<br>|Aufbauseminar|||2|5|5|||Klausur (90 Min.)|1/0<sup>3</sup>|
+|_Culture_ (B)<br>**Studienrichtung****_Americ_**<br>|**_an Studies_: 35 ECTS-Punkte (vgl. §**<br>|**4a)**|||||||||
+|**Zwischenmodul I**<br>_Culture_|Seminar_American Culture and_<br>_Civilization_|||2|5||5||Klausur (90 Min.)|1|
+|**Import-Kombi-Modul**<br>_Politics & Culture_|Mittelseminar Politikwissen-<br>schaft/Auslandswissenschaft mit<br>Nordamerika-Bezug|||2|10||5||Hausarbeit (10‐12 Seiten, 50 %)<br>und<br>Präsentation mit Ausarbeitung|1|
+||Mittelseminar_Politics & Culture_|||2||||5|<br>(15 Min., 5 Seiten, 50 %)||
 
 10 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|||1.|2.|3.|4.|5.|6.|||
-|**Zwischenmodul II**<br>_Economics, Linguistics,_<br>_History, Geography, Lit-_<br>_erature/Culture_|Veranstaltung mit<br>Nordamerika-Bezug|(4)|(2)|||(2)|5||||5|||Hausarbeit (10 Seiten)<br>oder<br>Klausur (90 Min.)5|1|
-|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2||||5||||5|||Portfolio6:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe<br>(ca. 15 Min.)|1|
-|**Hdl I**|Hauptseminar|||||2|10|||||(7)|(7)|Hausarbeit (15‐18 Seiten)|1|
-|**auptmou**|_Independent Study Group_||1|||||||||(3)|(3)|||
-|**Studienrichtungen****_British Studies, Cultural Studies, General Studies, Linguistics, Literary Studies_: 35 ECTS-Punkte (vgl. § 4b)**||||||||||||||||
-||Kombi-Seminar_Lingustics_|||||2||||5,5||||Mündliche Prüfung (insg. 15<br>Min.) mit Präsentation (7-8 Min.);<br>dazu 30 Min. Vorbereitungszeit|1|
-|**Zwischenmodul I**<br>Thematisches<br>Kombinationsmodul|Kombi-Seminar_Culture_oder_Li-_<br>_terature_|||||2|15|||5,5||||||
-||_Presentation Skills_|||||1||||2||||||
-||_Speaking Skills_||1|||||||2||||||
-|**Zwischenmodul II**<br>_Linguistics, Literature_<br>oder_Culture_|Mittelseminar|||||2|5||||5|||Hausarbeit (10-12 Seiten)|1|
-|**Zwischenmodul III**|_Integrated Academic_<br>_Language Skills_<br>_for BA Students I_||2||||5||||5|||Portfolio6:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe<br>(ca. 15 Min.)|1|
-|**Hauptmodul I**<br>_Linguistics, Literature_<br>oder_Culture_|Hauptseminar|||||2|10|||||(7)|(7)|Hausarbeit (15‐18 Seiten)|1|
-||_Independent Study Group_||1|||||||||(3)|(3)|||
-|Summe SWS und ECTS-Punkte im Zweitfach:||1-5|3-5|0||22<br>-<br>24|70|17,5|17,5|10<br>-<br>157|10<br>-<br>157|0<br>-<br>10|0<br>-<br>10|||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-Ve<br>Semester in EC<br>1.<br>2.<br>3.|rteilung pro<br>TS-Punkten<br>4.<br>5.|<sup>1</sup><br>Art und Umfang der Prüfung/<br>Studienleistung<br>6.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|**Zwischenmodul II**<br>_Economics, Linguistics,_<br>_History, Geography, Lit-_<br>_erature/Culture_|Veranstaltung mit<br>Nordamerika-Bezug|(4)|(2)<br>(2)|5||5|Hausarbeit (10 Seiten)<br>oder<br>Klausur (90 Min.)<sup>5</sup>|1|
+|**Zwischenmodul III**|_Integrated Academic Language_<br>_Skills for BA Students I_||2|5||5|Portfolio<sup>6</sup>:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe|1|
+||||||||<br>(ca. 15 Min.)||
+||Hauptseminar||2|||(7)|(7)<br>||
+|**Hauptmodul I**<br>**Studienrichtungen****_Britis_**<br>|_Independent Study Group_<br>**_h Studies, Cultural Studies, Gene_**<br>Kombi-Seminar_Lingustics_<br>|**_ral St_**|1<br>**_udies, Linguistics_**<br>2|10<br>**_, Literary_**|**_Studies_: 35 ECTS-Pu**<br>5,5|(3)<br>**nkte (vgl. § 4**|Hausarbeit (15‐18 Seiten)<br>(3)<br>**b)**|1|
+|**Zwischenmodul I**<br>Thematisches|Kombi-Seminar_Culture_oder_Li-_<br>_terature_||2|15|5,5||Mündliche Prüfung (insg. 15<br>Min.) mit Präsentation (7-8 Min.);|1|
+|Kombinationsmodul|_Presentation Skills_||1||2||dazu 30 Min. Vorbereitungszeit||
+||_Speaking Skills_||1||2||||
+|**Zwischenmodul II**<br>_Linguistics, Literature_<br>oder_Culture_|Mittelseminar||2|5||5|Hausarbeit (10-12 Seiten)|1|
+|**Zwischenmodul III**|_Integrated Academic_<br>_Language Skills_<br>_for BA Students I_||2|5||5|Portfolio<sup>6</sup>:<br>2 schriftliche Aufgaben<br>(jeweils 2-3 Seiten) und<br>1 mündliche Aufgabe<br>(ca. 15 Min.)|1|
+|**Hauptmodul I**<br>|Hauptseminar||2|||(7)|(7)<br>||
+|_Linguistics, Literature_<br>oder_Culture_|_Independent Study Group_||1|10||(3)|Hausarbeit (15‐18 Seiten)<br>(3)|1|
+|Summe SW|S und ECTS-Punkte im Zweitfach:|1-5|3-5<br>0<br>22<br>-<br>24|70|17,5<br>17,5<br>10<br>-<br>15<sup>7</sup>|10<br>-<br>15<sup>7</sup><br>0<br>-<br>10|0<br>-<br>10||
 
 11 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|**Schlüsselqualifikati-**<br>**onsmodule**|8|||||10-30|0-<br>12,5|0-<br>12,5|0-<br>20|0-<br>20|0-<br>30|0-<br>20|8|0|
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|**Bachelorarbeit**|vgl. FPO des Erstfachs|||||10||||||10|vgl. FPO des Erstfachs||
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung<br>**Schlüsselqualifikationen**|Lehrveranstaltung<br>V<br>|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|S<br>1.|Workloa<br>emester<br>2.|d-V<br>in E<br>3.|erteilu<br>CTS-P<br>4.|ng pro<br>unkten<br>5.|<sup>1</sup><br>Art und Umfang der Prüfung/<br>Studienleistung<br>6.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Schlüsselqualifikati-**<br>**onsmodule**|8||10-30|0-<br>12,5|0-<br>12,5|0-<br>20|0-<br>20|0-<br>30|0-<br>20<br>8|0|
+|**Bachelorarbeit im Erstfa**|**ch**||||||||||
+|**Bachelorarbeit**|vgl. FPO des Erstfachs||10||||||10<br>vgl. FPO des Erstfachs||
+||Summe ECTS-Punkte im Zwei-Fach-B|achelorstudium:|180|30|30|30|30|30|30||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

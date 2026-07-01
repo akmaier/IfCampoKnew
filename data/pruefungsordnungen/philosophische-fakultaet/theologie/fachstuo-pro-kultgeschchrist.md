@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_KultGeschChrist.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:40:16+00:00
-page_count_chars: 10529
+scraped_at: 2026-07-01T09:49:26+00:00
+page_count_chars: 10678
 ---
 
 # PDF vom 05.10.2007 i.d.F. 05.11.2010
@@ -16,7 +16,7 @@ page_count_chars: 10529
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kulturgeschichte des Christentums im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kulturgeschichte des Christentums im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -36,15 +36,15 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Das Fach Kulturgeschichte des Christentums kann entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
+(1)<sup>1</sup> Das Fach Kulturgeschichte des Christentums kann entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Kulturgeschichte des Christentums erwerben die Studierenden einen grundlegenden Überblick über das Christentum als kulturgeschichtliche Kategorie. 2Inhaltlich setzt sich das Angebot aus Veranstaltungen von sechs theologischen Teilfächern (Ältere Kirchengeschichte, Neuere Kirchengeschichte, Christliche Archäologie und Kunstgeschichte, Geschichte und Theologie des Christlichen Ostens, Altes Testament, Neues Testament) zusammen, die jeweils ihre fachspezifischen Kompetenzen in den Studiengang einbringen.[3] Vermittelt wird außerdem die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten sowie ein Einblick in die Methoden und Quellen der beteiligten Teilfächer, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.[4] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Kulturgeschichte des Christentums erwerben die Studierenden einen grundlegenden Überblick über das Christentum als kulturgeschichtliche Kategorie. 2Inhaltlich setzt sich das Angebot aus Veranstaltungen von sechs theologischen Teilfächern (Ältere Kirchengeschichte, Neuere Kirchengeschichte, Christliche Archäologie und Kunstgeschichte, Geschichte und Theologie des Christlichen Ostens, Altes Testament, Neues Testament) zusammen, die jeweils ihre fachspezifischen Kompetenzen in den Studiengang einbringen.<sup>3</sup> Vermittelt wird außerdem die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten sowie ein Einblick in die Methoden und Quellen der beteiligten Teilfächer, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.<sup>4</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Das Studium der Kulturgeschichte des Christentums im Bachelorstudiengang 
+(3)<sup>1</sup> Das Studium der Kulturgeschichte des Christentums im Bachelorstudiengang 
 
 1 
 
-soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die analytische und argumentative Kompetenz im Umgang mit den verschiedenen Quellen und Phänomenen des Christentums in seiner Bedeutung als Grundlage der europäischen Kultur vermitteln.[2] Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
+soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die analytische und argumentative Kompetenz im Umgang mit den verschiedenen Quellen und Phänomenen des Christentums in seiner Bedeutung als Grundlage der europäischen Kultur vermitteln.<sup>2</sup> Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
 1. Sachkompetenz: Kenntnisse der wesentlichen historischen Stationen sowie der verschiedenen Quellen und Medien der Überlieferung des Christentums von der Antike bis zur Gegenwart 
 
@@ -96,67 +96,59 @@ soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbeson
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Wird Kulturgeschichte des Christentums als erstes Fach studiert, umfasst das Studium des Faches 80 ECTS-Punkte, die auf die Fachmodule der „Kulturgeschichte des Christentums“ (Basismodule I-VI + 2 Vertiefungsmodule) entfallen, sowie 10 ECTS-Punkte, die auf die Bachelorarbeit entfallen.[2] Das Angebot des Studiengangs Kulturgeschichte des Christentums setzt sich aus jeweils einem Modul der sechs beteiligten theologischen Fächer (Module KC 1 – KC 6) und zwei Vertiefungsmodulen (KC 7 und KC 8) zusammen, das aus einem der sechs beteiligten Fächer ausgewählt werden kann.[3] Die beteiligten Fächer haben sich über das jeweilige Angebot im Ver- 
+(1)<sup>1</sup> Wird Kulturgeschichte des Christentums als erstes Fach studiert, umfasst das Studium des Faches 80 ECTS-Punkte, die auf die Fachmodule der „Kulturgeschichte des Christentums“ (Basismodule I-VI + 2 Vertiefungsmodule) entfallen, sowie 10 ECTS-Punkte, die auf die Bachelorarbeit entfallen.<sup>2</sup> Das Angebot des Studiengangs Kulturgeschichte des Christentums setzt sich aus jeweils einem Modul der sechs beteiligten theologischen Fächer (Module KC 1 – KC 6) und zwei Vertiefungsmodulen (KC 7 und KC 8) zusammen, das aus einem der sechs beteiligten Fächer ausgewählt werden kann.<sup>3</sup> Die beteiligten Fächer haben sich über das jeweilige Angebot im Ver- 
 
 2 
 
-tiefungsbereich abzustimmen.[4] Die beiden Vertiefungsmodule werden durch einen Minuskelzusatz (KC 7a, KC 7b, KC 7c, KC 7d, KC 7e, KC 7f; KC 8a, KC 8b, KC 8c, KC 8d, KC 8e, KC 8f) als Option innerhalb eines Wahlspektrums gekennzeichnet. 5Schließlich sind noch 20 ECTS-Punkte in Modulen zu erwerben, die berufsfeldorientierte Schlüsselqualifikationen vermitteln. 
+tiefungsbereich abzustimmen.<sup>4</sup> Die beiden Vertiefungsmodule werden durch einen Minuskelzusatz (KC 7a, KC 7b, KC 7c, KC 7d, KC 7e, KC 7f; KC 8a, KC 8b, KC 8c, KC 8d, KC 8e, KC 8f) als Option innerhalb eines Wahlspektrums gekennzeichnet. 5Schließlich sind noch 20 ECTS-Punkte in Modulen zu erwerben, die berufsfeldorientierte Schlüsselqualifikationen vermitteln. 
 
-## (2) Im Studium der Kulturgeschichte des Christentums als erstes Fach sind folgende Module erfolgreich abzulegen: 
+## (2) Im Studium der Kulturgeschichte des Christentums als erstes Fach sind folgende <u>Module erfolgreich abzulegen:</u> 
 
-||**Fach-**<br>**Sem.1**|**Modul**|**ECTS-**<br>**Punkte**|**Prüfungsleistung**|
+||**Fach-**<br>**Sem.**<sup>**1**</sup>|**Modul**|**ECTS-**<br>**Punkte**|<br>**Prüfungsleistung**|
 |---|---|---|---|---|
 |**KC 1**||**Basismodul I: Ältere Kirchengeschichte**|**10**||
-||1., 3.<br>oder<br>5.|Überblicksvorlesung zur Geschichte der christlichen<br>Frühzeit und des Mittelalters, Teil I: Christliche Antike|2|Mündliche Prüfung<br>ZV: Regelmäßige<br>Teilnahme an den<br>Vorlesungen|
-||2., 4.<br>oder<br>6.|Überblicksvorlesung zur Geschichte der christlichen Früh-<br>zeit und des Mittelalters, Teil II: Früh- und Hochmittelalter|3||
+||1., 3.<br>oder<br>5.|Überblicksvorlesung zur Geschichte der christlichen<br>Frühzeit und des Mittelalters, Teil I: Christliche Antike|2|Mündliche Prüfung<br>ZV: Regelmäßige<br>Teilnahme an den|
+||2., 4.<br>oder<br>6.|Überblicksvorlesung zur Geschichte der christlichen Früh-<br>zeit und des Mittelalters, Teil II: Früh- und Hochmittelalter|3|Vorlesungen|
 ||1.-6.|Seminar zur Geschichte der frühen Kirche (Proseminar,<br>falls dieses nicht in Neuerer Kirchengeschichte belegt<br>wurde, oder Hauptseminar, falls Proseminar in Neuerer<br>Kirchengeschichte belegt wurde)|5|Hausarbeit|
-||||||
-|**KC 2**||**Basismodul II: Neuere Kirchengeschichte**|**10**||
-||1., 3.<br>oder 5.|Überblicksvorlesung zur Kirchengeschichte vom Spätmit-<br>telalter bis in die Gegenwart, Teil III: Spätmittelalter und<br>Reformation|2|Mündliche Prüfung<br>ZV: Regelmäßige<br>Teilnahme an den<br>Vorlesungen|
-||2., 4.<br>oder 6.|Überblicksvorlesung zur Kirchengeschichte vom Spätmit-<br>telalter bis in die Gegenwart, Teil IV: Konfessionelles Zeit-<br>alter bis zum Ersten Weltkrieg|3||
+|**KC 2**||**Basismodul II: Neuere Kirchengeschichte**<br>|**10**||
+||1., 3.<br>oder 5.|Überblicksvorlesung zur Kirchengeschichte vom Spätmit-<br>telalter bis in die Gegenwart, Teil III: Spätmittelalter und<br>Reformation<br>|2|Mündliche Prüfung<br>ZV: Regelmäßige<br>Teilnahme an den|
+||2., 4.<br>oder 6.|Überblicksvorlesung zur Kirchengeschichte vom Spätmit-<br>telalter bis in die Gegenwart, Teil IV: Konfessionelles Zeit-<br>alter bis zum Ersten Weltkrieg|3|Vorlesungen|
 ||1.-6.|Seminar zur Kirchengeschichte der Neuzeit (Proseminar,<br>falls dieses nicht in Älterer Kirchengeschichte belegt wur-<br>de, oder Hauptseminar, falls Proseminar in Älterer Kir-<br>chengeschichte belegt wurde)|5|Hausarbeit|
-||||||
 |**KC 3**||**Basismodul III: Christliche Archäologie und**<br>**Ikonographie**|**10**||
 ||1., 3.<br>oder<br>5.|Einführung in die Christliche Archäologie|5|Klausur (90’)|
-||2., 4.<br>oder 6.|Einführung in die christliche Ikonographie|5|Klausur (90’)|
-||||||
+||2., 4.<br>oder 6.|<sup>Einführung in die christliche Ikonographie</sup>|5|Klausur (90’)|
 |**KC 4**||**Basismodul IV: Christlicher Osten**|**10**||
 ||1.-6.|Vorlesung zur Geschichte und Theologie der Orthodoxen<br>sowie Orientalisch-Orthodoxen Kirchen|3|Klausur (60’-90’)<br>oder mündliche<br>Prüfung|
 ||1.-6.|Übung zur Geschichte und Theologie der Orthodoxen<br>sowie Orientalisch-Orthodoxen Kirchen|2|Studienleistung<br>(Regelmäßige Teil-<br>nahme)|
-||1.-6.|Seminar zur Geschichte und Theologie der Orthodoxen<br>sowie Orientalisch-Orthodoxen Kirchen|5|Hausarbeit|
-||||||
+||1.-6.|Seminar zur Geschichte und Theologie der Orthodoxen<br>sowie Orientalisch-Orthodoxen Kirchen|5|<br>Hausarbeit|
 |**KC 5**||**Basismodul V: Altes Testament**|**10**||
 ||1., 3.<br>oder 5.|Überblicksvorlesung über die Schriften des AT,<br>ihre Genese und ihre historische Einordnung|5|Klausur (90’)|
 ||1.-6.|Bibelkunde des AT|5|Mündliche Prüfung<br>oder Klausur (45’-<br>90’)|
-||||||
 
 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 3 
 
-||**Fach-**<br>**Sem.1**|**Modul**|**ECTS-**<br>**Punkte**|**Prüfungsleistung**|
+||**Fach-**<br>**Sem.**<sup>**1**</sup>|**Modul**|**ECTS-**<br>**Punkte**|<br>**Prüfungsleistung**|
 |---|---|---|---|---|
-|**KC 6**||**Basismodul VI: Neues Testament**|**10**||
+|**KC 6**||**Basismodul VI: Neues Testament**<br>|**10**||
 ||1.-6.|Überblicksvorlesung über die Schriften des NT,<br>ihre Genese und ihre historische Einordnung|3|Klausur (90’) oder<br>mündliche Prüfung|
 ||1.-6.|Vorlesung zu einem neutestamentlichen Thema|2|Klausur (45’) oder<br>mündliche Prüfung|
 ||1.-6.|Bibelkunde des NT oder Proseminar|5|Bibelkunde: Klausur<br>(45’-90’) oder münd-<br>liche Prüfung; Pro-<br>seminar: Hausarbeit<br>oder Klausur|
-||||||
 |**KC 7**||**Vertiefungsmodul I: Vertiefungen im Bereich eines**<br>**der am Studiengang beteiligten Fächer**|**10**||
 ||3.-6.|Vorlesung|3|Klausur (45’-90’)<br>oder mündliche<br>Prüfung|
 ||4.-6.|Mittel-/Hauptseminar|7|Hausarbeit|
-||||||
 |**KC 8**||**Vertiefungsmodul II: Vertiefungen im Bereich eines**<br>**der am Studiengang beteiligten Fächer**|**10**||
 ||3.-6.|Vorlesung|3|Klausur (45’-90’)<br>oder mündliche<br>Prüfung|
-||4.-6.|Mittel-/Hauptseminar|7|Hausarbeit|
-||||||
+||4.-6.<br>|Mittel-/Hauptseminar<br>|7<br>|Hausarbeit<br>|
 
 > ~~1~~ Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 ZV = Zulassungsvoraussetzung 
 
-(3)[1] Wird Kulturgeschichte des Christentums als zweites Fach studiert, umfasst das Studium 70 ECTS-Punkte.[2] Es sind die Basismodule I bis VI sowie ein Vertiefungsmodul gemäß der Aufstellung in Absatz 2 erfolgreich abzulegen. 
+(3)<sup>1</sup> Wird Kulturgeschichte des Christentums als zweites Fach studiert, umfasst das Studium 70 ECTS-Punkte.<sup>2</sup> Es sind die Basismodule I bis VI sowie ein Vertiefungsmodul gemäß der Aufstellung in Absatz 2 erfolgreich abzulegen. 
 
-(4)[1] Wird Kulturgeschichte des Christentums als Erstfach studiert, müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Dabei werden Module zum Erwerb oder zur Vertiefung von Sprachkenntnissen empfohlen, ferner Module aus der Kirchenmusik und anderen kulturhistorischen Fächern. 
+(4)<sup>1</sup> Wird Kulturgeschichte des Christentums als Erstfach studiert, müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.<sup>2</sup> Dabei werden Module zum Erwerb oder zur Vertiefung von Sprachkenntnissen empfohlen, ferner Module aus der Kirchenmusik und anderen kulturhistorischen Fächern. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 

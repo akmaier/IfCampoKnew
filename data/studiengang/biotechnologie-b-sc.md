@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:43:01+00:00
+scraped_at: 2026-07-01T08:19:13+00:00
 ---
 
 # Biotechnologie (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:43:01+00:00
 
 Biotechnologie an der FAU (ehem. Life Science Engineering) ist ein ingenieurwissenschaftlicher Studiengang mit Schwerpunkten in der Biotechnologie, Medizinischer Biotechnologie und (Bio)verfahrenstechnik. Er vereint naturwissenschaftliche Grundlagen mit technischen Anwendungen. Die sich daraus ergebenden Anwendungen dienen dem Schutz der Gesundheit des Menschen (z.B. (Medizinische) Biotechnologie) und ihrer Umwelt. Aufgrund gegenwärtiger und zukünftig zu erwartender gesellschaftlicher Entwicklungen gewinnt die Biotechnologie zunehmend an Bedeutung.
 
-### Bachelor of Science Biotechnologie
+### Fachanteile des Studiengangs Biotechnologie (B.Sc.)
 
 * Biotechnologie (33%)
 * Verfahrenstechnik (20%)

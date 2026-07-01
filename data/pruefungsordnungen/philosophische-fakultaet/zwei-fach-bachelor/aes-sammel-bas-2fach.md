@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Februar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/AES-Sammel-BAs-2fach.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:57+00:00
-page_count_chars: 16174
+scraped_at: 2026-07-01T10:31:17+00:00
+page_count_chars: 16621
 ---
 
 # 17. Februar 2014
@@ -12,13 +12,13 @@ page_count_chars: 16174
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/AES-Sammel-BAs-2fach.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Bachelorstudiengängen an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Bachelorstudiengängen an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander Universität Erlangen-Nürnberg** 
 
 Vom 17. Februar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die nachfolgend aufgeführten Fachprüfungsordnungen werden wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die nachfolgend aufgeführten Fachprüfungsordnungen werden wie folgt geändert:
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 Satz 1 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -34,13 +34,13 @@ b) In § 6 Satz 1 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 3. Die Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 Satz 3 wird die Zahl „28“ durch die Zahl „29“ ersetzt. 
 
@@ -52,7 +52,7 @@ c) In § 7 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 Abs. 1 Satz 1 wird die Zahl „28“ durch die Zahl „29“ ersetzt. 
 
@@ -60,7 +60,7 @@ b) In § 6 Abs. 1 Satz 1 wird die Zahl „28“ durch die Zahl „29“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 7 Halbsatz 2 wird die Zahl „29“ durch die Zahl „30“ ersetzt. 
 
@@ -68,7 +68,7 @@ b) In § 7 Halbsatz 2 wird die Zahl „29“ durch die Zahl „30“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 Satz 2 wird die Zahl „28“ durch die Zahl „29“ ersetzt. 
 
@@ -78,7 +78,7 @@ a) § 3 erhält folgende neue Fassung:
 
 2 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 7 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -86,7 +86,7 @@ b) In § 7 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -94,13 +94,13 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 10. Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 Satz 3 wird die Zahl „28“ durch die Zahl „29“ ersetzt. 
 
@@ -112,19 +112,19 @@ c) In § 7 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 12. Die Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. November 2012, wird wie folgt geändert: 
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 13. Die Fachstudien- und Prüfungsordnung für das Fach Kulturgeschichte des Christentums im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 24. Februar 2012, wird wie folgt geändert: 
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -132,7 +132,7 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 15. Die Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -140,7 +140,7 @@ a) § 3 erhält folgende neue Fassung:
 
 4 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „28“ durch die Zahl „29“ ersetzt. 
 
@@ -148,7 +148,7 @@ b) In § 6 wird die Zahl „28“ durch die Zahl „29“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -156,13 +156,13 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 18. Die Fachstudien- und Prüfungsordnung für das Fach Nordische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
 § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 19. Die Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -170,13 +170,13 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 5 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 20. Die Fachprüfungs- und Studienordnung für das Fach Pädagogik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 8. Oktober 2012, wird wie folgt geändert: 
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 8 Abs. 3 wird die Zahl „21“ durch die Zahl „22“ ersetzt. 
 
@@ -184,7 +184,7 @@ b) In § 8 Abs. 3 wird die Zahl „21“ durch die Zahl „22“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -192,7 +192,7 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 7 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -202,7 +202,7 @@ a) § 3 erhält folgende neue Fassung:
 
 6 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -210,7 +210,7 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
@@ -218,11 +218,11 @@ b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt.
 
 a) § 3 erhält folgende neue Fassung: 
 
-„[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+„<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 b) In § 6 wird die Zahl „31“ durch die Zahl „32“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_BA-MA_PhysischeGeographie_Kulturgeographie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:45:43+00:00
-page_count_chars: 54245
+scraped_at: 2026-07-01T09:09:11+00:00
+page_count_chars: 53829
 ---
 
 # 5. August 2015
@@ -12,7 +12,7 @@ page_count_chars: 54245
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_BA-MA_PhysischeGeographie_Kulturgeographie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg Vom 5. August 2015** 
+# **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geographie und Kulturgeographie an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg Vom 5. August 2015** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -28,21 +28,21 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geogra
 
    - b) Abs. 1 wird wie folgt geändert: 
 
-      - aa) Nach der Absatzbezeichnung wird folgender Satz 1 eingefügt: „[1] Im Bachelorstudium werden wissenschaftliche Grundlagen, Methodenkompetenz und berufsfeldbezogene Qualifikationen vermittelt.“ 
+      - aa) Nach der Absatzbezeichnung wird folgender Satz 1 eingefügt: „<sup>1</sup> Im Bachelorstudium werden wissenschaftliche Grundlagen, Methodenkompetenz und berufsfeldbezogene Qualifikationen vermittelt.“ 
 
       - bb) Die bisherigen Sätze 1 bis 3 werden Sätze 2 bis 4. 
 
       - cc) In Satz 3 (neu) wird nach dem Wort „und“ das Wort „in“ eingefügt. 
 
-      - dd) In Satz 4 (neu) wird nach dem Wort „nach“ das Wort „den“ eingefügt. 
+dd) In Satz 4 (neu) wird nach dem Wort „nach“ das Wort „den“ eingefügt. 
 
-   - c) In Abs. 2 werden nach dem Wort „Bachelorstudium“ die Worte „einschließlich sämtlicher Prüfungen“ eingefügt. 
+- c) In Abs. 2 werden nach dem Wort „Bachelorstudium“ die Worte „einschließlich sämtlicher Prüfungen“ eingefügt. 
 
-   - d) Es werden folgender Abs. 3 und 4 angefügt: 
+- d) Es werden folgender Abs. 3 und 4 angefügt: 
 
-      - „(3)[1] Die Unterrichts- und Prüfungssprache ist deutsch.[2] Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.[3] Näheres regelt das Modulhandbuch. 
+   - „(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist deutsch.<sup>2</sup> Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.<sup>3</sup> Näheres regelt das Modulhandbuch. 
 
-      - (4) Das Studium beginnt im Wintersemester.“ 
+   - (4) Das Studium beginnt im Wintersemester.“ 
 
 1 
 
@@ -60,15 +60,15 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Physische Geogra
 
 dd) Es werden folgender Abs. 3 und 4 angefügt: 
 
-- „(3)[1] Die Unterrichts- und Prüfungssprache ist deutsch.[2] Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.[3] Näheres regelt das Modulhandbuch. 
+- „(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist deutsch.<sup>2</sup> Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.<sup>3</sup> Näheres regelt das Modulhandbuch. 
 
 (4) Das Studium kann im Wintersemester oder im Sommersemester begonnen werden.“ 
 
 4. § 5 Abs. 1 Satz 1 wird wie folgt geändert: 
 
-   - a) Nach der Satzbezeichnung werden die Worte „Die Organisation von“ eingefügt. 
+- a) Nach der Satzbezeichnung werden die Worte „Die Organisation von“ eingefügt. 
 
-   - b) Das Wort „beruhen“ wird durch das Wort „beruht“ ersetzt. 
+b) Das Wort „beruhen“ wird durch das Wort „beruht“ ersetzt. 
 
 5. § 6 wird wie folgt geändert: 
 
@@ -84,7 +84,7 @@ a) Abs. 2 Satz 3 wird wie folgt geändert:
 
       - bb) In Satz 3 werden die Worte „und Teilprüfungen“ gestrichen. 
 
-      - cc) Nach Satz 3 wird folgender Satz 4 angefügt: „[4] Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken.“ 
+      - cc) Nach Satz 3 wird folgender Satz 4 angefügt: „<sup>4</sup> Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken.“ 
 
 6. § 6a wird wie folgt geändert: 
 
@@ -124,7 +124,7 @@ a) Abs. 2 Satz 3 wird wie folgt geändert:
 
       - dd) Nach Satz 3 wird folgender Satz 4 angefügt: 
 
-         - „[4] § 10 Abs. 3 Satz 3 bleibt unberührt.“ 
+         - „<sup>4</sup> § 10 Abs. 3 Satz 3 bleibt unberührt.“ 
 
 8. § 8 wird wie folgt geändert: 
 
@@ -138,47 +138,43 @@ a) Abs. 2 Satz 3 wird wie folgt geändert:
 
 3 
 
-## e) Abs. 5 wird wie folgt geändert: 
+   - e) Abs. 5 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - cc) In Satz 4 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - cc) In Satz 4 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-- f) Abs. 6 wird wie folgt geändert: 
+   - f) Abs. 6 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 2 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Satz 3 werden die Worte „öffentlich durch Aushang oder“ durch die Worte „der bzw. dem jeweiligen Studierenden“ ersetzt. 
+      - bb) In Satz 3 werden die Worte „öffentlich durch Aushang oder“ durch die Worte „der bzw. dem jeweiligen Studierenden“ ersetzt. 
 
-   - cc) In Satz 4 werden die Worte „Rektorin oder der Rektor“ durch die Worte „Präsidentin bzw. der Präsident“ ersetzt. 
+      - cc) In Satz 4 werden die Worte „Rektorin oder der Rektor“ durch die Worte „Präsidentin bzw. der Präsident“ ersetzt. 
 
-## 9. § 9 wird wie folgt geändert: 
+9. § 9 wird wie folgt geändert: 
 
-- a) In Abs. 1 wird nach Satz 3 folgender Satz 4 angefügt: 
+   - a) In Abs. 1 wird nach Satz 3 folgender Satz 4 angefügt: „<sup>4</sup> Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.“ 
 
-   - „[4] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus verlängern.“ 
+   - b) In Abs. 2 werden die Worte „Prüferin oder“ durch das Wort „bzw.“ sowie das Wort „Prüfers“ durch das Wort „Prüfenden“ ersetzt. 
 
-- b) In Abs. 2 werden die Worte „Prüferin oder“ durch das Wort „bzw.“ sowie das Wort „Prüfers“ durch das Wort „Prüfenden“ ersetzt. 
+   - c) Abs. 3 wird wie folgt geändert: 
 
-- c) Abs. 3 wird wie folgt geändert: 
+      - aa) In Satz 1 das Wort „oder“ nach dem Wort „Beisitzerin“ durch das Wort „bzw.“ ersetzt. 
 
-   - aa) In Satz 1 das Wort „oder“ nach dem Wort „Beisitzerin“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 2 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-bb) In Satz 2 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+## 10. § 10 Abs. 3 wird wie folgt geändert: 
 
-10. § 10 Abs. 3 wird wie folgt geändert: 
+- a) In Satz 1 Halbsatz 1 wird das Wort „von“ durch die Worte „vom Erstversuch einer“, das Wort „und“ durch das Wort „bzw.“ sowie die Worte „Prüfenden oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-   - a) In Satz 1 Halbsatz 1 wird das Wort „von“ durch die Worte „vom Erstversuch einer“, das Wort „und“ durch das Wort „bzw.“ sowie die Worte „Prüfenden oder“ werden durch das Wort „bzw.“ ersetzt. 
+- b) Nach Satz 1 werden folgende Sätze 2 bis 4 eingefügt: „<sup>2</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>3</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>4</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
 
-   - b) Nach Satz 1 werden folgende Sätze 2 bis 4 eingefügt: 
+- c) Der bisherige Satz 2 wird Satz 5. 
 
-      - „[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.[4] Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
-
-   - c) Der bisherige Satz 2 wird Satz 5. 
-
-   - d) In Satz 5 (neu) werden nach dem Wort „verspäteten“ die Worte „oder unwirksamen“ eingefügt. 
+- d) In Satz 5 (neu) werden nach dem Wort „verspäteten“ die Worte „oder unwirksamen“ eingefügt. 
 
 4 
 
@@ -208,23 +204,23 @@ bb) In Satz 2 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt
 
       - cc) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ sowie das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-## 13. § 13 wird wie folgt geändert: 
+13. § 13 wird wie folgt geändert: 
 
-- a) Die Überschrift wird wie folgt geändert: 
+   - a) Die Überschrift wird wie folgt geändert: 
 
-   - aa) Nach der Zahl „13“ werden die Worte „Folgen eines verspäteten Rücktritts, Täuschung,“ eingefügt. 
+      - aa) Nach der Zahl „13“ werden die Worte „Folgen eines verspäteten Rücktritts, Täuschung,“ eingefügt. 
 
-   - bb) Das Wort „Täuschung“ wird durch die Worte „Ausschluss von der weiteren Teilnahme“ ersetzt. 
+      - bb) Das Wort „Täuschung“ wird durch die Worte „Ausschluss von der weiteren Teilnahme“ ersetzt. 
 
-- b) Abs. 1 wird wie folgt geändert: 
+   - b) Abs. 1 wird wie folgt geändert: 
 
-aa) Satz 1 wird wie folgt geändert: 
+      - aa) Satz 1 wird wie folgt geändert: 
 
-- (1) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ sowie die Worte „nach dem Ende des dritten Werktages vor dem Prüfungstag“ durch die Worte „zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist“ ersetzt. 
+         - (1) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ sowie die Worte „nach dem Ende des dritten Werktages vor dem Prüfungstag“ durch die Worte „zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn sie bzw. er nach dem Ablauf der Rücktrittsfrist“ ersetzt. 
 
-- (2) Das Wort „vgl.“ im Klammerzusatz wird gestrichen. 
+         - (2) Das Wort „vgl.“ im Klammerzusatz wird gestrichen. 
 
-- (3) Nach dem Wort „zurücktritt“ wird ein Semikolon und folgender 2. Halbsatz eingefügt: 
+         - (3) Nach dem Wort „zurücktritt“ wird ein Semikolon und folgender 2. Halbsatz eingefügt: 
 
 5 
 
@@ -232,25 +228,25 @@ aa) Satz 1 wird wie folgt geändert:
 
 bb) Satz 2 wird wie folgt geändert: 
 
-         - (1) Die Worte „die Verspätung“ werden durch die Worte „das Versäumnis“ ersetzt. 
+      - (1) Die Worte „die Verspätung“ werden durch die Worte „das Versäumnis“ ersetzt. 
 
-         - (2) Nach dem Wort „Gründe“ werden die Worte „nach Satz 1“ eingefügt. 
+      - (2) Nach dem Wort „Gründe“ werden die Worte „nach Satz 1“ eingefügt. 
 
-         - (3) Die Worte „dem Prüfungsausschuss“ werden durch die Worte „der bzw. dem Vorsitzenden des Prüfungsausschusses“ ersetzt. 
+      - (3) Die Worte „dem Prüfungsausschuss“ werden durch die Worte „der bzw. dem Vorsitzenden des Prüfungsausschusses“ ersetzt. 
 
-   - c) Abs. 2 wird wie folgt geändert: 
+- c) Abs. 2 wird wie folgt geändert: 
 
-      - aa) Der bisherige Satz 1 wird zum Wortlaut des Absatzes; die Satzbezeichnung entfällt. 
+   - aa) Der bisherige Satz 1 wird zum Wortlaut des Absatzes; die Satzbezeichnung entfällt. 
 
-      - bb) Der bisherige Satz 2 wird Abs. 3; die Satzbezeichnung entfällt. 
+   - bb) Der bisherige Satz 2 wird Abs. 3; die Satzbezeichnung entfällt. 
 
-   - d) Der bisherige Abs. 3 wird gestrichen. 
+- d) Der bisherige Abs. 3 wird gestrichen. 
 
-   - e) In Abs. 3 Halbsatz 1 (neu) wird das Wort „oder“ nach dem Wort „der“ durch das Wort „bzw.“ ersetzt. 
+- e) In Abs. 3 Halbsatz 1 (neu) wird das Wort „oder“ nach dem Wort „der“ durch das Wort „bzw.“ ersetzt. 
 
-   - f) Nach Abs. 3 (neu) wird folgender Abs. 4 angefügt: „(4) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann der Prüfungsausschuss die bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
+- f) Nach Abs. 3 (neu) wird folgender Abs. 4 angefügt: „(4) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 2 oder Abs. 3 kann der Prüfungsausschuss die bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
-14. § 15 wird wie folgt geändert: 
+## 14. § 15 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden die Worte „Studierenden oder“ sowie das Wort „oder“ nach dem Wort „einer“ jeweils durch das Wort „bzw.“ ersetzt. 
 
@@ -262,21 +258,25 @@ bb) Satz 2 wird wie folgt geändert:
 
       - aa) Der bisherige Satz 1 wird zum Wortlaut des Absatzes; die Satzbezeichnung entfällt. 
 
-      - bb) Das Wort „Prüfung“ wird durch das Wort „Prüfungen“ ersetzt. cc) Satz 2 wird gestrichen. 
+      - bb) Das Wort „Prüfung“ wird durch das Wort „Prüfungen“ ersetzt. 
+
+      - cc) Satz 2 wird gestrichen. 
 
    - b) Nach Abs. 2 wird folgender Abs. 3 eingefügt: 
 
-      - „(3)[1] Schriftliche Prüfungen werden in der Regel von einer bzw. einem Prüfenden bewertet.[2] Eine mit „nicht ausreichend“ bewertete schriftliche Prüfungsleistung ist von zwei Prüfenden zu bewerten.[ 3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+      - „(3)<sup>1</sup> Schriftliche Prüfungen werden in der Regel von einer bzw. einem Prüfenden bewertet.<sup>2</sup> Eine mit „nicht ausreichend“ bewertete schriftliche Prüfungsleistung ist von zwei Prüfenden zu bewerten.<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
    - c) Die bisherigen Abs. 3 bis 6 werden Abs. 4 bis 7. 
 
 6 
 
-## d) Abs. 4 (neu) wird wie folgt geändert: 
+- d) Abs. 4 (neu) wird wie folgt geändert: 
 
    - aa) In Satz 1 wird im Klammerzusatz nach dem Wort „Single-“ das Wort „und/“ eingefügt. 
 
-   - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: „[2] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[3] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
+   - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: 
+
+      - „<sup>2</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>3</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
 
    - cc) Die bisherigen Sätze 2 bis 7 werden Sätze 4 bis 9. 
 
@@ -314,79 +314,81 @@ bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 7 
 
-## bb) Satz 2 wird gestrichen. 
+bb) Satz 2 wird gestrichen. 
 
-- c) Abs. 4 wird wie folgt geändert: 
+   - c) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden das Wort „oder“ nach dem Wort „Beisitzerin“ sowie die Worte „Studierenden oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 werden das Wort „oder“ nach dem Wort „Beisitzerin“ sowie die Worte „Studierenden oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-- d) Abs. 5 Satz 1 wird wie folgt geändert: 
+   - d) Abs. 5 Satz 1 wird wie folgt geändert: 
 
-   - aa) In Halbsatz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Halbsatz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Halbsatz 2 werden die Worte „Prüfungskandidatin oder“ durch das Wort „bzw.“, das Wort "Prüfungskandidaten" durch die Worte „zu Prüfenden“ sowie das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Halbsatz 2 werden die Worte „Prüfungskandidatin oder“ durch das Wort „bzw.“, das Wort "Prüfungskandidaten" durch die Worte „zu Prüfenden“ sowie das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 17. § 17a wird wie folgt geändert: 
+17. § 17a wird wie folgt geändert: 
 
-- a) Nach Satz 1 wird folgender Satz 2 eingefügt: „[2] In welchen Modulen Prüfungen in elektronischer Form abgenommen werden regelt das Modulhandbuch.“ 
+   - a) Nach Satz 1 wird folgender Satz 2 eingefügt: 
 
-- b) Die bisherigen Sätze 2 bis 4 werden Sätze 3 bis 5. 
+      - „<sup>2</sup> In welchen Modulen Prüfungen in elektronischer Form abgenommen werden regelt das Modulhandbuch.“ 
 
-- c) In Satz 5 (neu) werden das Zeichen „/“ sowie das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+   - b) Die bisherigen Sätze 2 bis 4 werden Sätze 3 bis 5. 
 
-## 18. § 18 wird wie folgt geändert: 
+   - c) In Satz 5 (neu) werden das Zeichen „/“ sowie das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-- a) Abs. 1 wird wie folgt geändert: 
+18. § 18 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „jeweiligen Prüferin oder“ durch das Wort „bzw.“ sowie das Wort „Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
+   - a) Abs. 1 wird wie folgt geändert: 
 
-   - bb) In Satz 2 wird das Wort „Note“ durch das Wort „Notenstufe“ ersetzt. 
+      - aa) In Satz 1 werden die Worte „jeweiligen Prüferin oder“ durch das Wort „bzw.“ sowie das Wort „Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
-   - cc) In Satz 3 Halbsatz 1 werden die Worte „mit Erfolg teilgenommen“ jeweils durch das Wort „bestanden“ ersetzt. 
+      - bb) In Satz 2 wird das Wort „Note“ durch das Wort „Notenstufe“ ersetzt. 
 
-   - dd) In Satz 4 werden die Worte „Ein Modul“ durch die Worte „Eine Modulprüfung“ sowie die Worte „sämtliche Teilleistungen“ durch die Worte „alle Prüfungsteile bzw. Teilprüfungen (§ 6 Abs. 2) ersetzt. 
+      - cc) In Satz 3 Halbsatz 1 werden die Worte „mit Erfolg teilgenommen“ jeweils durch das Wort „bestanden“ ersetzt. 
 
-   - ee) In Satz 5 werden nach dem Wort „bewerten“ die Worte „oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen“ sowie nach dem Wort „dem“ das Wort „gewichteten“ eingefügt. 
+      - dd) In Satz 4 werden die Worte „Ein Modul“ durch die Worte „Eine Modulprüfung“ sowie die Worte „sämtliche Teilleistungen“ durch die Worte „alle Prüfungsteile bzw. Teilprüfungen (§ 6 Abs. 2) ersetzt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+      - ee) In Satz 5 werden nach dem Wort „bewerten“ die Worte „oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen“ sowie nach dem Wort „dem“ das Wort „gewichteten“ eingefügt. 
 
-   - aa) In Satz 1 wird im Klammerzusatz nach dem Wort „Single-“ das Wort „und/“ eingefügt. 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - bb) In Satz 2 wird die Zahl „4“ nach dem Wort „Abs.“ durch die Zahl „5“ ersetzt. 
+      - aa) In Satz 1 wird im Klammerzusatz nach dem Wort „Single-“ das Wort „und/“ eingefügt. 
+
+      - bb) In Satz 2 wird die Zahl „4“ nach dem Wort „Abs.“ durch die Zahl „5“ ersetzt. 
 
 8 
 
-      - cc) In Satz 3 Halbsatz 2 wird das Wort „Note“ durch das Wort „Noten“ sowie das Wort „ist“ durch die Worte „und 4,3 sind“ ersetzt. 
+   - cc) In Satz 3 Halbsatz 2 wird das Wort „Note“ durch das Wort „Noten“ sowie das Wort „ist“ durch die Worte „und 4,3 sind“ ersetzt. 
 
-      - dd) Satz 5 wird wie folgt geändert: 
+   - dd) Satz 5 wird wie folgt geändert: 
 
-         - (1) Die Zahl „4“ nach dem Wort „Satz“ wird durch die Zahl „3“ ersetzt. 
+      - (1) Die Zahl „4“ nach dem Wort „Satz“ wird durch die Zahl „3“ ersetzt. 
 
-         - (2) Die Zahl „5“ nach dem Wort „Abs.“ wird durch die Zahl „6“ ersetzt. 
+      - (2) Die Zahl „5“ nach dem Wort „Abs.“ wird durch die Zahl „6“ ersetzt. 
 
-         - (3) Nach dem Wort „wird,“ werden die Worte „neben der Note 5,0 auch“ eingefügt. 
+      - (3) Nach dem Wort „wird,“ werden die Worte „neben der Note 5,0 auch“ eingefügt. 
 
-         - (4) Das Komma nach der Zahl „4,3“ wird durch das Wort „und“ ersetzt. 
+      - (4) Das Komma nach der Zahl „4,3“ wird durch das Wort „und“ ersetzt. 
 
-         - (5) Die Worte „und 5,0“ werden gestrichen. 
+      - (5) Die Worte „und 5,0“ werden gestrichen. 
 
-   - c) In Abs. 4 Satz 1 Halbsatz 1 werden die Worte „Modulverantwortliche oder“ durch das Wort „bzw.“ ersetzt. 
+- c) In Abs. 4 Satz 1 Halbsatz 1 werden die Worte „Modulverantwortliche oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - d) In Abs. 7 Satz 1 Halbsatz 1 wird nach dem Wort „gehen“ das Wort „alle“ eingefügt. 
+- d) In Abs. 7 Satz 1 Halbsatz 1 wird nach dem Wort „gehen“ das Wort „alle“ eingefügt. 
 
-19. § 19 wird wie folgt geändert: 
+## 19. § 19 wird wie folgt geändert: 
 
-   - a) In Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 4 Satz 2 wird wie folgt geändert: 
+- b) Abs. 4 Satz 2 wird wie folgt geändert: 
 
-      - aa) Das Wort „den“ wird gestrichen. 
+   - aa) Das Wort „den“ wird gestrichen. 
 
-      - bb) Das Wort „Absätzen“ wird durch das Wort „Abs.“ ersetzt. 
+   - bb) Das Wort „Absätzen“ wird durch das Wort „Abs.“ ersetzt. 
 
-      - cc) Die Worte „und 2“ werden gestrichen. 
+cc) Die Worte „und 2“ werden gestrichen. 
 
 20. § 20 wird wie folgt geändert: 
 
@@ -402,11 +404,11 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
    - a) Abs. 1 wird wie folgt geändert: 
 
-      - aa) Das Wort „möglichst“ wird durch die Worte „in der Regel“ ersetzt. 
+aa) Das Wort „möglichst“ wird durch die Worte „in der Regel“ ersetzt. 
 
-      - bb) Nach dem Wort „Wochen“ werden die Worte „nach Bewertung der letzten Prüfungsarbeit“ eingefügt. 
+   - bb) Nach dem Wort „Wochen“ werden die Worte „nach Bewertung der letzten Prüfungsarbeit“ eingefügt. 
 
-   - b) Abs. 2 Satz 1 wird wie folgt geändert: 
+- b) Abs. 2 Satz 1 wird wie folgt geändert: 
 
 9 
 
@@ -416,17 +418,21 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 ## 22. § 23 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ sowie die Worte „gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen“ ersetzt. 
+- a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ sowie die Worte „gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen“ ersetzt. 
 
-   - b) Abs. 2 erhält folgende Fassung: „(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden.“ 
+- b) Abs. 2 erhält folgende Fassung: 
 
-   - c) Abs. 3 wird wie folgt geändert: 
+   - „(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden.“ 
 
-      - aa) In Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+- c) Abs. 3 wird wie folgt geändert: 
 
-      - bb) Nach Satz 2 wird folgender Satz 3 angefügt: „[3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+   - aa) In Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-23. § 24 wird wie folgt geändert: 
+   - bb) Nach Satz 2 wird folgender Satz 3 angefügt: 
+
+      - „<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+
+## 23. § 24 wird wie folgt geändert: 
 
    - a) In der Überschrift wird das Wort „Zulassungsvoraussetzungen“ durch das Wort „Zugangsvoraussetzungen“ geändert. 
 
@@ -508,7 +514,7 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
    - bb) Nach Satz 2 wird folgender Satz 3 angefügt: 
 
-      - „[3] Satz 2 gilt entsprechend, wenn die Bachelorarbeit nicht fristgerecht abgeben wird.“ 
+      - „<sup>3</sup> Satz 2 gilt entsprechend, wenn die Bachelorarbeit nicht fristgerecht abgeben wird.“ 
 
 - e) Abs. 6 wird wie folgt geändert: 
 
@@ -540,7 +546,7 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 12 
 
-      - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: „[2] Jede Bewertung ist schriftlich zu begründen und mit einer Note gem. § 18 Abs. 1 abzuschließen.[3] § 16 Abs. 3 Satz 2 gilt entsprechend.“ 
+      - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: „<sup>2</sup> Jede Bewertung ist schriftlich zu begründen und mit einer Note gem. § 18 Abs. 1 abzuschließen.<sup>3</sup> § 16 Abs. 3 Satz 2 gilt entsprechend.“ 
 
       - cc) Die bisherigen Sätze 2 und 3 werden Sätze 4 und 5. 
 
@@ -572,23 +578,23 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
       - ee) Satz 5 erhält folgende Fassung: 
 
-         - „[5] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.“ 
+         - „<sup>5</sup> Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.“ 
 
-      - ff) Der bisherige Satz 5 wird Satz 6. 
+ff) Der bisherige Satz 5 wird Satz 6. 
 
-      - gg) In Satz 6 (neu) werden nach dem Wort „Exmatrikulation“ ein Komma sowie die Worte „durch Wechsel aus einem oder in einen Teilzeitstudiengang“ eingefügt. 
+- gg) In Satz 6 (neu) werden nach dem Wort „Exmatrikulation“ ein Komma sowie die Worte „durch Wechsel aus einem oder in einen Teilzeitstudiengang“ eingefügt. 
 
-      - hh) Der bisherige Satz 6 wird gestrichen. 
+- hh) Der bisherige Satz 6 wird gestrichen. 
 
-      - ii) Satz 7 wird wie folgt geändert: 
+- ii) Satz 7 wird wie folgt geändert: 
 
-         - (1) Das Wort „endgültig“ wird gestrichen. 
+   - (1) Das Wort „endgültig“ wird gestrichen. 
 
-         - (2) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
+   - (2) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-         - (3) Nach dem Wort „gewährt“ werden ein Semikolon sowie die Worte „die Regelfristen gem. § 7 Abs. 1 laufen weiter“ eingefügt. 
+   - (3) Nach dem Wort „gewährt“ werden ein Semikolon sowie die Worte „die Regelfristen gem. § 7 Abs. 1 laufen weiter“ eingefügt. 
 
-            - 13 
+      - 13 
 
    - b) In Abs. 2 Satz 3 werden die Worte „Studierende oder“ und das Wort „oder „jeweils durch das Wort „bzw.“ ersetzt. 
 
@@ -604,9 +610,9 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 - (2) Bewerberinnen oder Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote wenigstens 2,5 (= gut) bestanden haben. 
 
-- (3)[1] Die Abschlüsse nach Abs. 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenzprofils zur Bachelorprüfung nach dieser Prüfungsordnung nicht wesentlich unterschiedlich sein.[2] Bestehen ausgleichsfähige Unterschiede, kann die Zugangskommission den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
+- (3)<sup>1</sup> Die Abschlüsse nach Abs. 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenzprofils zur Bachelorprüfung nach dieser Prüfungsordnung nicht wesentlich unterschiedlich sein.<sup>2</sup> Bestehen ausgleichsfähige Unterschiede, kann die Zugangskommission den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
 
-- (4) 1Abweichend von Abs. 1 Nr. 1 kann Studierenden, die in einem Bachelorstudiengang immatrikuliert sind, der Zugang zum Masterstudium gewährt werden, wenn sie mindestens 150 ECTS-Punkte erreicht haben.[2] Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[3] Der Zugang zum Masterstudium wird unter Vorbehalt gewährt. 
+- (4) 1Abweichend von Abs. 1 Nr. 1 kann Studierenden, die in einem Bachelorstudiengang immatrikuliert sind, der Zugang zum Masterstudium gewährt werden, wenn sie mindestens 150 ECTS-Punkte erreicht haben.<sup>2</sup> Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>3</sup> Der Zugang zum Masterstudium wird unter Vorbehalt gewährt. 
 
 ## (5) § 24 gilt entsprechend.“ 
 
@@ -640,7 +646,7 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
       - aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) Nach Satz 2 wird folgender Satz 3 angefügt: „[3] Der Prüfungsausschuss kann auch die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität gestatten, wenn dort die Betreuung gesichert ist.“ 
+      - bb) Nach Satz 2 wird folgender Satz 3 angefügt: „<sup>3</sup> Der Prüfungsausschuss kann auch die Anfertigung der Masterarbeit in einer Einrichtung außerhalb der Universität gestatten, wenn dort die Betreuung gesichert ist.“ 
 
    - d) Abs. 4 ändert sich wie folgt: 
 
@@ -670,33 +676,33 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 15 
 
-      - (2) In Halbsatz 2 wird die Zahl „7“ durch die Zahl „3“ ersetzt. 
+         - (2) In Halbsatz 2 wird die Zahl „7“ durch die Zahl „3“ ersetzt. 
 
-   - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: 
+      - bb) Nach Satz 1 werden folgende Sätze 2 und 3 eingefügt: 
 
-      - „[2] Jede Bewertung ist schriftlich zu begründen und mit einer Note gem. § 18 Abs. 1 abzuschließen.[3] § 16 Abs. 3 Satz 2 gilt entsprechend.“ 
+         - „<sup>2</sup> Jede Bewertung ist schriftlich zu begründen und mit einer Note gem. § 18 Abs. 1 abzuschließen.<sup>3</sup> § 16 Abs. 3 Satz 2 gilt entsprechend.“ 
 
-   - cc) Der bisherige Satz 2 wird Satz 4. 
+      - cc) Der bisherige Satz 2 wird Satz 4. 
 
-   - dd) In Satz 4 (neu) werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+      - dd) In Satz 4 (neu) werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-- h) Abs. 9 wird wie folgt geändert: 
+   - h) Abs. 9 wird wie folgt geändert: 
 
-   - aa) Satz 2 Halbsatz 1 wird wie folgt geändert: 
+      - aa) Satz 2 Halbsatz 1 wird wie folgt geändert: 
 
-      - (1) Die Worte „Studierende oder“ sowie das Wort „oder“ werden jeweils durch das Wort „bzw.“ ersetzt. 
+         - (1) Die Worte „Studierende oder“ sowie das Wort „oder“ werden jeweils durch das Wort „bzw.“ ersetzt. 
 
-      - (2) Nach dem Wort „er“ wird das Wort „spätestens“ eingefügt. 
+         - (2) Nach dem Wort „er“ wird das Wort „spätestens“ eingefügt. 
 
-   - bb) Satz 4 Halbsatz 1 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“, die Worte „Lage der Gutachten“ durch die Worte „der Bewertung der Arbeit“ sowie die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) Satz 4 Halbsatz 1 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“, die Worte „Lage der Gutachten“ durch die Worte „der Bewertung der Arbeit“ sowie die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 31. Die Anlage 1 erhält folgende Fassung: 
+31. Die Anlage 1 erhält folgende Fassung: 
 
 „ **Anlage 1:** Qualifikationsfeststellungsverfahren für den Masterstudiengang Physische Geographie sowie für den Masterstudiengang Kulturgeographie an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen Nürnberg 
 
 (1) Das Verfahren zur Feststellung der Qualifikation wird bei Bedarf, mindestens jedoch einmal pro Jahr für den jeweiligen Masterstudiengang durchgeführt. 
 
-(2)[1] Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist bis spätestens 15. Juli zum Wintersemester und bis spätestens 31. Januar zum Sommersemester beim Masterbüro der Universität Erlangen-Nürnberg auf dem vorgegebenen Vordruck zu stellen.[2] Dem Antrag sind beizufügen: 
+(2)<sup>1</sup> Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist bis spätestens 15. Juli zum Wintersemester und bis spätestens 31. Januar zum Sommersemester beim Masterbüro der Universität Erlangen-Nürnberg auf dem vorgegebenen Vordruck zu stellen.<sup>2</sup> Dem Antrag sind beizufügen: 
 
 1. ein Nachweis über einen Hochschulabschluss gemäß § 29 Abs. 1 Nr. 1 (Zeugnis, Transcript of Records, Diploma Supplement oder vergleichbare Dokumente), 
 
@@ -704,13 +710,13 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 3. und ein Bewerbungsschreiben. 3Im Fall von Abs. 2 Satz 2 Nr. 2 kann allgemein oder im Einzelfall eine Frist zur Nachreichung nach § 29 Abs. 4 festgelegt werden. 
 
-(3)[1] Das Qualifikationsfeststellungsverfahren besteht aus einer Vorauswahl nach § 29 Abs. 1 bis 4 und einer mündlichen Prüfung mit den zu dieser zugelassenen Bewerberinnen und Bewerbern.[2] Die Feststellung der Qualifikation obliegt gemäß § 11 der Zugangskommission des jeweiligen Masterstudiengangs. 3Die Zugangskommission kann die Koordination und Durchführung der Vorauswahl einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist.[4] Die Zugangskommission bedient sich zur Erfüllung ihrer Aufgaben des Masterbüros. 
+(3)<sup>1</sup> Das Qualifikationsfeststellungsverfahren besteht aus einer Vorauswahl nach § 29 Abs. 1 bis 4 und einer mündlichen Prüfung mit den zu dieser zugelassenen Bewerberinnen und Bewerbern.<sup>2</sup> Die Feststellung der Qualifikation obliegt gemäß § 11 der Zugangskommission des jeweiligen Masterstudiengangs. 3Die Zugangskommission kann die Koordination und Durchführung der Vorauswahl einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist.<sup>4</sup> Die Zugangskommission bedient sich zur Erfüllung ihrer Aufgaben des Masterbüros. 
 
 16 
 
-(4)[1] Der Zugang zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Abs. 2 genannten Unterlagen form-, fristgerecht und vollständig vorliegen. 2Nicht formund fristgerechte Anträge führen zum Ausschluss vom Qualifikationsfeststellungsverfahren.[3] Über den Zugang entscheidet die bzw. der Vorsitzende der Zugangskommission.[4] Mit den Bewerberinnen bzw. Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 durchgeführt.[5] Bewerberinnen bzw. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+(4)<sup>1</sup> Der Zugang zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Abs. 2 genannten Unterlagen form-, fristgerecht und vollständig vorliegen. 2Nicht formund fristgerechte Anträge führen zum Ausschluss vom Qualifikationsfeststellungsverfahren.<sup>3</sup> Über den Zugang entscheidet die bzw. der Vorsitzende der Zugangskommission.<sup>4</sup> Mit den Bewerberinnen bzw. Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 durchgeführt.<sup>5</sup> Bewerberinnen bzw. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-(5) 1Die jeweilige Zugangskommission beurteilt im Rahmen des Qualifikationsfeststellungsverfahrens in einer Vorauswahl anhand der eingereichten Unterlagen, ob eine Bewerberin bzw. ein Bewerber die Qualifikation zum Masterstudium besitzt. 2Die Zugangskommission stellt anhand der eingereichten schriftlichen Unterlagen die Qualifikation fest, wenn die Gesamtnote des fachspezifischen oder des fachverwandten bzw. des im Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen Abschlusses gemäß § 29 Abs. 1 Satz 1 Nr. 1, 1. und 2. Halbsatz oder im Falle des § 29 Abs. 4 der Durchschnitt der bisherigen Leistungen 2,3 (gut) oder besser beträgt; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 12 Abs. 3 entsprechend. 3Bewerberinnen bzw. Bewerbern, denen nicht bereits im Rahmen der Vorauswahl der Zugang zum Masterstudium gewährt werden kann und die schlechtestenfalls die Note 2,5 in einem hinsichtlich des Kompetenzprofils nicht wesentlich unterschiedlichen Abschlusses nachweisen, werden zu einer mündlichen Zugangsprüfung eingeladen.[4] Der Termin der mündlichen Zugangsprüfung wird spätestens eine Woche vorher bekannt gegeben.[5] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 6Die mündliche Zugangsprüfung wird als Einzelprüfung mit einem Umfang von ca. 30 Minuten durchgeführt.[7] Sie kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[8] Sie wird von zwei von der Zugangskommission bestellten Hochschullehrerinnen bzw. Hochschullehrern durchgeführt; § 17 Abs. 4 gilt entsprechend.[9] Die mündliche Zugangsprüfung soll insbesondere zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium, selbstständig wissenschaftlich zu arbeiten versteht.[10] In der mündlichen Zugangsprüfung werden die Bewerberinnen und Bewerber auf Basis folgender Kriterien beurteilt: 
+(5) 1Die jeweilige Zugangskommission beurteilt im Rahmen des Qualifikationsfeststellungsverfahrens in einer Vorauswahl anhand der eingereichten Unterlagen, ob eine Bewerberin bzw. ein Bewerber die Qualifikation zum Masterstudium besitzt. 2Die Zugangskommission stellt anhand der eingereichten schriftlichen Unterlagen die Qualifikation fest, wenn die Gesamtnote des fachspezifischen oder des fachverwandten bzw. des im Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen Abschlusses gemäß § 29 Abs. 1 Satz 1 Nr. 1, 1. und 2. Halbsatz oder im Falle des § 29 Abs. 4 der Durchschnitt der bisherigen Leistungen 2,3 (gut) oder besser beträgt; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 12 Abs. 3 entsprechend. 3Bewerberinnen bzw. Bewerbern, denen nicht bereits im Rahmen der Vorauswahl der Zugang zum Masterstudium gewährt werden kann und die schlechtestenfalls die Note 2,5 in einem hinsichtlich des Kompetenzprofils nicht wesentlich unterschiedlichen Abschlusses nachweisen, werden zu einer mündlichen Zugangsprüfung eingeladen.<sup>4</sup> Der Termin der mündlichen Zugangsprüfung wird spätestens eine Woche vorher bekannt gegeben.<sup>5</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 6Die mündliche Zugangsprüfung wird als Einzelprüfung mit einem Umfang von ca. 30 Minuten durchgeführt.<sup>7</sup> Sie kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.<sup>8</sup> Sie wird von zwei von der Zugangskommission bestellten Hochschullehrerinnen bzw. Hochschullehrern durchgeführt; § 17 Abs. 4 gilt entsprechend.<sup>9</sup> Die mündliche Zugangsprüfung soll insbesondere zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium, selbstständig wissenschaftlich zu arbeiten versteht.<sup>10</sup> In der mündlichen Zugangsprüfung werden die Bewerberinnen und Bewerber auf Basis folgender Kriterien beurteilt: 
 
 1. Qualität der fachspezifischen Kenntnisse in Kulturgeographie bzw. Physischer Geographie, insbesondere Geographische Entwicklungsforschung, Stadtforschung und Regionalentwicklung, Politische Geographie und Sozialgeographie bzw. Mensch-Umwelt-Beziehungen, Hochgebirgsforschung, Paläoklima- und Klimafolgenforschung (50 %), 
 
@@ -718,13 +724,13 @@ bb) Das Wort „Prüfer“ wird durch das Wort „Prüfenden“ ersetzt.
 
 3. Positive Prognose aufgrund steigender Leistungen im bisherigen Studienverlauf, die erwarten lassen, dass die Bewerberin bzw. der Bewerber in der Lage ist, in einem stärker wissenschaftlich orientierten Studium selbstständig wissenschaftlich zu arbeiten (20 %). 
 
-11Das Ergebnis lautet bestanden bzw. nicht bestanden. 12Ist die mündliche Prüfung bestanden, entscheidet die Zugangskommission auf Vorschlag der Prüfenden, ob die Zulassung mit Auflagen gemäß § 29 Abs. 3 Satz 2 verbunden wird.[13] Das Ergebnis der mündlichen Zugangsprüfung wird der Bewerberin bzw. 
+11Das Ergebnis lautet bestanden bzw. nicht bestanden. 12Ist die mündliche Prüfung bestanden, entscheidet die Zugangskommission auf Vorschlag der Prüfenden, ob die Zulassung mit Auflagen gemäß § 29 Abs. 3 Satz 2 verbunden wird.<sup>13</sup> Das Ergebnis der mündlichen Zugangsprüfung wird der Bewerberin bzw. 
 
 17 
 
-dem Bewerber schriftlich mitgeteilt.[14] Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen. 
+dem Bewerber schriftlich mitgeteilt.<sup>14</sup> Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen. 
 
-(6)[1] Wer die mündliche Prüfung nicht bestanden hat, kann sie einmal zum Termin des nächsten Semesters wiederholen; Abs. 5 Sätze 5 bis 14 gelten entsprechend. 2Eine weitere Wiederholung ist ausgeschlossen. 
+(6)<sup>1</sup> Wer die mündliche Prüfung nicht bestanden hat, kann sie einmal zum Termin des nächsten Semesters wiederholen; Abs. 5 Sätze 5 bis 14 gelten entsprechend. 2Eine weitere Wiederholung ist ausgeschlossen. 
 
 (7) § 23 gilt entsprechend. 
 
@@ -738,48 +744,43 @@ dem Bewerber schriftlich mitgeteilt.[14] Ein Ablehnungsbescheid ist mit Gründen
 
 ## „ **Anlage 2:** Bachelor Kulturgeographie 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Semester in ECTS-Punkten1)|Semester in ECTS-Punkten1)|Semester in ECTS-Punkten1)|||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||SWS|||||||||||
-||||||||1.||||||d f d fdl|Faktor Modul<br>N|
-||||||||||||||Art un Umang er Prüung/Stuieneistung||
-|||V|Ü|P|S||Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem||-ote|
-||||||||||||||||
-|**KG 1: Grundlagen der**<br>**KG I**|Grundvorlesung KG I|2||||**5**|5||||||Klausur (45 Min.), 100 %|**1**|
-|**KG 2: Grundlagen der**<br>**KG II**|Grundvorlesung KG II|2||||**5**||5|||||Klausur (45 Min.), 100 %|**1**|
-|**KG 3: Seminar KG mit**<br>**Geländetag**|Seminar KG +<br>Geländetag||||2|**5**||5|||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und Bericht<br>(5-6 Seiten),40 %|**1**|
-|**KG 4: Grundlagen der**<br>**PG I**|Grundvorlesung PG I|2||||**5**|5||||||Klausur (45 Min.), 100 %|**1**|
-|**KG 5: Grundlagen der**<br>**PG II**|Grundvorlesung PG II|2||||**5**||5|||||Klausur (45 Min.), 100 %|**1**|
-|**KG 6: Seminar PG mit**<br>**Geländetag**|Seminar PG +<br>Geländetag||||2|**5**||5|||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und Bericht<br>(5-6 Seiten),40 %|**1**|
-|**KG 7: Kartographie und**<br>**Geoinformation**|Vorlesung: Kartographie<br>und Geoinformation|2||||**5**|5||||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
-|**KG 8: Qualitative und**<br>**Quantitative Methoden**|Vorlesung: Qualitative<br>und quantitative<br>Methoden|2||||**5**|5||||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
-|**KG 9: Geländepraktikum**|Geländepraktikum<br>(6 Tage)||||6<br>Tage|**5**||5|||||Bericht (5 Seiten), 0 %|**0**|
-|**KG 10: Methoden der**<br>**Geographie**|Vorlesung: GIS und<br>Fernerkundung|2||||**10**||3|||||Wöchentlich eine Übungsaufgabe, 100 %|**1**|
-||Seminar: Empirische<br>Sozialforschung||||2||||4||||||
-||Seminar: GIS und<br>Fernerkundung||||2||||3||||||
-|**KG 11: KG Vertieft I**|Vorlesung: KG Vertieft|2||||**10**|||4||||Portfolioprüfung: Klausur (90 Min.), 0 %, oder2zwei<br>Klausuren (à 45 Min.), 0 %, und Bericht (5-10 Seiten), 0<br>%|**0**|
-||Vorlesung: KG Vertieft|2||||||||4|||||
-||Kleines Geländeseminar<br>(3 Tage)||||3<br>Tage|||||2|||||
-|**KG 12: Regionale**<br>**Geographie**|Hauptseminar zum<br>Großen Geländeseminar||||2|**15**||||5|||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Ausarbeitung (10-30 Seiten), 50 %, und Bericht (10-15|**1**|
+||||SWS||Gesamt|Wo|rkload-Verteilung pro|Semester in ECTS-Pun|kten<sup>1)</sup>||Faktor Modul|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|V<br>Ü|<br>P|S|<br>ECTS|1.<br>Sem.|2. Sem.<br>3. Sem|4. Sem<br>5. Sem|6. Sem|Art und Umfang der Prüfung/Studienleistung|<br>-Note|
+|**KG 1: Grundlagen der**<br>**KG I**|Grundvorlesung KG I|2|||**5**|5||||Klausur (45 Min.), 100 %|**1**|
+|**KG 2: Grundlagen der**<br>**KG II**|Grundvorlesung KG II|2|||**5**||5|||Klausur (45 Min.), 100 %|**1**|
+|**KG 3: Seminar KG mit**<br>**Geländetag**|Seminar KG +<br>Geländetag|||2|**5**||5|||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und Bericht<br>(5-6 Seiten),40 %|**1**|
+|**KG 4: Grundlagen der**<br>**PG I**|Grundvorlesung PG I|2|||**5**|5||||Klausur (45 Min.), 100 %|**1**|
+|**KG 5: Grundlagen der**<br>**PG II**|Grundvorlesung PG II|2|||**5**||5|||Klausur (45 Min.), 100 %|**1**|
+|**KG 6: Seminar PG mit**<br>**Geländetag**|Seminar PG +<br>Geländetag|||2|**5**||5|||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und Bericht<br>(5-6 Seiten),40 %|**1**|
+|**KG 7: Kartographie und**<br>**Geoinformation**|Vorlesung: Kartographie<br>und Geoinformation|2|||**5**|5||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
+|**KG 8: Qualitative und**<br>**Quantitative Methoden**|Vorlesung: Qualitative<br>und quantitative<br>Methoden|2|||**5**|5||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
+|**KG 9: Geländepraktikum**|Geländepraktikum<br>(6 Tage)|||6<br>Tage|**5**||5|||Bericht (5 Seiten), 0 %|**0**|
+||Vorlesung: GIS und<br>Fernerkundung|2|||||3|||||
+|**KG 10: Methoden der**<br>**Geographie**|Seminar: Empirische<br>Sozialforschung|||2|**10**||4|||Wöchentlich eine Übungsaufgabe, 100 %|**1**|
+||Seminar: GIS und<br>Fernerkundung|||2|||3|||||
+||Vorlesung: KG Vertieft|2|||||4|||||
+|**KG 11: KG Vertieft I**|Vorlesung: KG Vertieft|2|||**10**|||4||Portfolioprüfung: Klausur (90 Min.), 0 %, oder<sup>2</sup>zwei<br>Klausuren (à 45 Min.), 0 %, und Bericht (5-10 Seiten), 0<br>%|**0**|
+||Kleines Geländeseminar<br>(3 Tage)|||3<br>Tage||||2||||
+|**KG 12: Regionale**<br>**Geographie**|Hauptseminar zum<br>Großen Geländeseminar|||2|**15**|||5||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Ausarbeitung (10-30 Seiten), 50 %, und Bericht (10-15|**1**|
 
 19 
 
-||Großes Geländeseminar<br>(mindestens 8 Tage)|||||8<br>Tage||||||10||Seiten), 50 %||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**KG 13: Spezielle KG I**|Hauptseminar KG|||||2|**10**|||5||||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Ausarbeitung (10-30 Seiten), 50 %, und<br>wöchentlich eine Übungsaufgabe, 50 %|**1**|
-||Seminar Spezielle<br>Methoden der KG|||||2|||||5|||||
-|**KG 14: Spezielle KG II**|Hauptseminar KG|||||2|**10**||||5|||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Ausarbeitung (10-30 Seiten), 50 %, und<br>wöchentlich eine Übungsaufgabe, 50 %|**1**|
-||Seminar Spezielle<br>Methoden der KG|||||2||||||5||||
-|**KG 15: Angewandte KG**|Projektorientiertes<br>Hauptseminar KG|||||2|**5**|||||5||Referat (ca. 30 Min.) mit schriftlicher Ausarbeitung (10-<br>30 Seiten), 100 %|**1**|
-|**KG 16: KG Vertieft II**|Vorlesung: KG Vertieft|2|||||**5**|||||4||Klausur (45 Min.), 0 %|**0**|
-||Kolloquium KG|||||||||||1||||
-|**KG 17: KG Vertieft III**|Vorlesung: KG Vertieft|2|||||**5**||||||4|Klausur (45 Min.), 0 %|**0**|
-||Kolloquium KG||||||||||||1|||
-|**KPrakt:**<br>**Außeruniversitäres**<br>**Praktikum**|Außeruniversitäres<br>Praktikum|||6<br>Woc<br>hen|||**10**||||||10|Bescheinigung +<br>Praktikumsbericht (3-5 Seiten)|**0**|
-|**Wahlfächer**|Gemäß PO der<br>Wahlfächer||||||**40**|Min.<br>|20 ECTS im ersten Wahlfach, min. je 10<br>ECTS in jedem weiteren Wahlfach|||||Gemäß PO der Wahlfächer, 100 %|**1**|
-|**KBA: Bachelorarbeit KG**|Bachelorarbeit KG||||||**15**||||||12|Monographie (50 Seiten), 100 % und Verteidigung (15<br>Min.), 0 %|**2**|
-||Verteidigung||||||||||||3|||
-||Summe:|22||||20|140|20-30|28-30|16-30|21-30|25-30|30|||
+||Großes Geländeseminar<br>(mindestens 8 Tage)||8<br>Tage|||10||Seiten), 50 %||
+|---|---|---|---|---|---|---|---|---|---|
+|**KG 13 Sill KG I**|Hauptseminar KG||2<br>**10**|5||||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Abit (10-30 Sit) 50 % d|**1**|
+|**: pezee**|Seminar Spezielle<br>Methoden der KG||<br>2||5|||usareung  een,  , un<br>wöchentlich eine Übungsaufgabe, 50 %||
+|**KG 14 Sill KG II**|Hauptseminar KG||2<br>**10**||5|||Portfolioprüfung: Referat (ca. 30 Min.) mit schriftlicher<br>Abi 1030 Si 50 % d|**1**|
+|**: pezee**|Seminar Spezielle<br>Methoden der KG||<br>2|||5||usaretung (- eten),  , un<br>wöchentlich eine Übungsaufgabe, 50 %||
+|**KG 15: Angewandte KG**|Projektorientiertes<br>Hauptseminar KG||2<br>**5**|||5||Referat (ca. 30 Min.) mit schriftlicher Ausarbeitung (10-<br>30 Seiten), 100 %|**1**|
+|**KG 16: KG Vertieft II**|Vorlesung: KG Vertieft|2|**5**|||4||Klausur (45 Min) 0 %|**0**|
+||Kolloquium KG|||||1||.,||
+|**KG 17 KG Vif III**|Vorlesung: KG Vertieft|2|||||4|Kl 4 Mi 0 %|**0**|
+|**:  ertet**|Kolloquium KG||**5**||||1|ausur (5 n.),||
+|**KPrakt:**<br>**Außeruniversitäres**<br>**Praktikum**|Außeruniversitäres<br>Praktikum||6<br>Woc<br>hen<br>**10**||||10|Bescheinigung +<br>Praktikumsbericht (3-5 Seiten)|**0**|
+|**Wahlfächer**|Gemäß PO der<br>Wahlfächer||**40**|Min. 20 ECTS im ersten Wa<br>ECTS in jedem weiter|hlfach, m<br>en Wahlf|in. je 10<br>ach||Gemäß PO der Wahlfächer, 100 %|**1**|
+||Bachelorarbeit KG||||||12|Monographie (50 Seiten), 100 % und Verteidigung (15||
+|**KBA: Bachelorarbeit KG**|Verteidigung<br>Summe:|22|**15**<br>20<br>140|20-30<br>28-30<br>16-30|21-30|25-30|3<br>30|Min.), 0 %|**2**|
 
 1) Die angegebene Verteilung stellt eine Empfehlung dar. 
 
@@ -789,48 +790,44 @@ dem Bewerber schriftlich mitgeteilt.[14] Ein Ablehnungsbescheid ist mit Gründen
 
 ## „ **Anlage 3:** Bachelor Physische Geographie 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-Punkten1)|Workload-Verteilung pro Semester in ECTS-Punkten1)|Workload-Verteilung pro Semester in ECTS-Punkten1)|Workload-Verteilung pro Semester in ECTS-Punkten1)|Workload-Verteilung pro Semester in ECTS-Punkten1)|Workload-Verteilung pro Semester in ECTS-Punkten1)|d f d fdl|Faktor Modul -<br>Note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||SWS|||||||||||
-||||||||1. Sem.||||||||
-|||||||||2. Sem~~.~~|<br>3. Sem|4. Sem|5. Sem|6. Sem|Art un Umang er Prüung/Stuieneistung||
-|||V|Ü|P|S||||||||||
-||||||||||||||||
-|**PG 1: Grundlagen der**<br>**PG I**|Grundvorlesung PG I|2||||**5**|5||||||Klausur (45 Min.), 100 %|**1**|
-|**PG 2: Grundlagen der**<br>**PG II**|Grundvorlesung PG II|2||||**5**||5|||||Klausur (45 Min.), 100 %|**1**|
-|**PG 3: Seminar PG mit**<br>**Geländetag**|Seminar PG +<br>Geländetag||||2|**5**||5|||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und<br>Bericht(5-6 Seiten),40 %|**1**|
-|**PG 4: Grundlagen der**<br>**KG I**|Grundvorlesung KG I|2||||**5**|5||||||Klausur (45 Min.), 100 %|**1**|
-|**PG 5: Grundlagen der**<br>**KG II**|Grundvorlesung KG II|2||||**5**||5|||||Klausur (45 Min.), 100 %|**1**|
-|**PG 6: Seminar KG mit**<br>**Geländetag**|Seminar KG +<br>Geländetag||||2|**5**||5|||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und<br>Bericht(5-6 Seiten),40 %|**1**|
-|**PG 7: Kartographie und**<br>**Geoinformation**|Vorlesung: Kartographie<br>und Geoinformation|2||||**5**|5||||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
-|**PG 8: Qualitative und**<br>**Quantitative Methoden**|Vorlesung: Qualitative<br>und quantitative<br>Methoden|2||||**5**|5||||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
-|**PG 9: Geländepraktikum**|Geländepraktikum<br>(6 Tage)||||6<br>Tage|**5**||5|||||Bericht (5 Seiten), 0 %|**0**|
-|**PG 10: Methoden der**<br>**Geographie**|Vorlesung: GIS und<br>Fernerkundung|2||||**10**||3|||||Wöchentlich eine Übungsaufgabe, 100 %|**1**|
-||Seminar: Multivariate<br>Statistik und<br>Geostatistik||||2||||4||||||
-||Seminar: GIS und<br>Fernerkundung||||2||||3||||||
-|**PG 11: PG Vertieft I**|Vorlesung: PG Vertieft|2||||**10**|||4||||Portfolioprüfung: Klausur (90 Min.), 0 %, oder2zwei<br>Klausuren (à 45 Min.), 0 %, und Bericht (5-10 Seiten),<br>0 %|**0**|
-||Vorlesung: PG Vertieft|2||||||||4|||||
-||Kleines Geländeseminar<br>(3 Tage)||||3<br>Tage|||||2|||||
-|**PG 12: Regionale**<br>**Geographie**|Hauptseminar zum<br>Großen Geländeseminar||||2|**15**||||5|||Portfolioprüfung: Referat (ca. 30 Min.) mit<br>schriftlicher Ausarbeitung (10-30 Seiten), 50 %, und|**1**|
+||||SWS||Gesamt|Workl|oad-Verteil|ung pro S|emester i|n ECTS-Punkten<sup>1)</sup>||Faktor Modul -|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||||||||||Art und Umfang der Prüfung/Studienleistung||
+|||V<br>Ü|<br>P|S|ECTS|1. Sem.|2. Sem~~.~~|3. Sem|4. Sem|5. Sem<br>6. Sem||Note|
+|**PG 1: Grundlagen der**<br>**PG I**|Grundvorlesung PG I|2|||**5**|5|||||Klausur (45 Min.), 100 %|**1**|
+|**PG 2: Grundlagen der**<br>**PG II**|Grundvorlesung PG II|2|||**5**||5||||Klausur (45 Min.), 100 %|**1**|
+|**PG 3: Seminar PG mit**<br>**Geländetag**|Seminar PG +<br>Geländetag|||2|**5**||5||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und<br>Bericht(5-6 Seiten),40 %|**1**|
+|**PG 4: Grundlagen der**<br>**KG I**|Grundvorlesung KG I|2|||**5**|5|||||Klausur (45 Min.), 100 %|**1**|
+|**PG 5: Grundlagen der**<br>**KG II**|Grundvorlesung KG II|2|||**5**||5||||Klausur (45 Min.), 100 %|**1**|
+|**PG 6: Seminar KG mit**<br>**Geländetag**|Seminar KG +<br>Geländetag|||2|**5**||5||||Portfolioprüfung: Kurz-Referat (10 Min.) mit<br>schriftlicher Ausarbeitung (5 Seiten), 60 %, und<br>Bericht(5-6 Seiten),40 %|**1**|
+|**PG 7: Kartographie und**<br>**Geoinformation**|Vorlesung: Kartographie<br>und Geoinformation|2|||**5**|5|||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
+|**PG 8: Qualitative und**<br>**Quantitative Methoden**|Vorlesung: Qualitative<br>und quantitative<br>Methoden|2|||**5**|5|||||Wöchentlich eine Übungsaufgabe, 0 %|**0**|
+|**PG 9: Geländepraktikum**|Geländepraktikum<br>(6 Tage)|||6<br>Tage|**5**||5||||Bericht (5 Seiten), 0 %|**0**|
+||Vorlesung: GIS und<br>Fernerkundung|2|||||3||||||
+|**PG 10: Methoden der**<br>**Geographie**|Seminar: Multivariate<br>Statistik und<br>Geostatistik|||2|**10**|||4|||Wöchentlich eine Übungsaufgabe, 100 %|**1**|
+||Seminar: GIS und<br>Fernerkundung|||2||||3|||||
+||Vorlesung: PG Vertieft|2||||||4|||||
+|**PG 11: PG Vertieft I**|Vorlesung: PG Vertieft|2|||**10**||||4||Portfolioprüfung: Klausur (90 Min.), 0 %, oder<sup>2</sup>zwei<br>Klausuren (à 45 Min.), 0 %, und Bericht (5-10 Seiten),<br>0 %|**0**|
+||Kleines Geländeseminar<br>(3 Tage)|||3<br>Tage|||||2||||
+|**PG 12: Regionale**<br>**Geographie**|Hauptseminar zum<br>Großen Geländeseminar|||2|**15**||||5||Portfolioprüfung: Referat (ca. 30 Min.) mit<br>schriftlicher Ausarbeitung (10-30 Seiten), 50 %, und|**1**|
 
 21 
 
-||Großes Geländeseminar<br>(mindestens 8 Tage)||||8<br>Tage||||||10||Bericht (10-15 Seiten), 50 %||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**PG 13: Spezielle PG I**|Hauptseminar PG||||2|**10**|||5||||Portfolioprüfung: Referat (ca. 30 Min.) mit<br>schriftlicher Ausarbeitung (10-30 Seiten), 50 %, und<br>wöchentlich eine Übungsaufgabe, 50 %|**1**|
-||Seminar Spezielle<br>Methoden der PG||||2|||||5|||||
-|**PG 14: Spezielle PG II**|Seminar Spezielle<br>Methoden der PG||||2|**10**||||5|||Wöchentlich eine Übungsaufgabe, 100 %|**1**|
-||Seminar Spezielle<br>Methoden der PG||||2||||||5||||
-|**PG 15: Angewandte PG**|Projektorientiertes<br>Hauptseminar PG||||2|**5**|||||5||Referat (ca. 30 Min.) mit schriftlicher Ausarbeitung<br>(10-30 Seiten), 100 %|**1**|
-|**PG 16: PG Vertieft II**|Vorlesung: PG Vertieft|2||||**5**|||||4||Klausur (45 Min.), 0 %|**0**|
-||Kolloquium PG||||||||||1||||
-|**PG 17: PG Vertieft III**|Vorlesung: PG Vertieft|2||||**5**||||||4|Klausur (45 Min.), 0 %|**0**|
-||Kolloquium PG|||||||||||1|||
-|**PPrakt:**<br>**Außeruniversitäres**<br>**Praktikum**|Außeruniversitäres<br>Praktikum|||6<br>Woc<br>hen||**10**||||||10|Bescheinigung +<br>Praktikumsbericht (3-5 Seiten)|**0**|
-|**Wahlfächer**|Gemäß PO der<br>Wahlfächer|||||**40**|Min. 20 ECTS im ersten Wahlfach, min. je 10<br>ECTS in jedem weiteren Wahlfach||||||Gemäß PO der Wahlfächer, 100 %|**1**|
-|**PBA: Bachelorarbeit PG**|Bachelorarbeit PG|||||**15**||||||12|Monographie (50 Seiten), 100 % und Verteidigung (15<br>Min.), 0 %|**2**|
-||Verteidigung|||||||||||3|||
-||Summe:|22|||20|180|20-30|28-30|16-30|21-30|25-30|30|||
+||Großes Geländeseminar<br>(mindestens 8 Tage)||8<br>Tage|||10||Bericht (10-15 Seiten), 50 %||
+|---|---|---|---|---|---|---|---|---|---|
+|**PG 13: Sezielle PG I**|Hauptseminar PG||2|**10**|5|||Portfolioprüfung: Referat (ca. 30 Min.) mit<br>schriftlicher Ausarbeitun (10-30 Seiten) 50 % und|**1**|
+|**p**|Seminar Spezielle<br>Methoden der PG||2||5|||g  ,  ,<br>wöchentlich eine Übungsaufgabe, 50 %||
+|**PG 14 Sill PG II**|Seminar Spezielle<br>Methoden der PG||2|**10**|5|||Wöhtlih i Übfb 100 %|**1**|
+|**: pezee**|Seminar Spezielle<br>Methoden der PG||2|||5||cenc ene ungsaugae,||
+|**PG 15: Angewandte PG**|Projektorientiertes<br>Hauptseminar PG||2|**5**||5||Referat (ca. 30 Min.) mit schriftlicher Ausarbeitung<br>(10-30 Seiten), 100 %|**1**|
+|**PG 16: PG Vertieft II**|Vorlesung: PG Vertieft<br>2|||**5**||4||Klausur (45 Min) 0 %|**0**|
+||Kolloquium PG|||||1||.,||
+|**PG 17 PG Vif III**|Vorlesung: PG Vertieft<br>2|||**5**|||4|Kl 45 Mi 0 %|**0**|
+|**:  ertet**|Kolloquium PG||||||1|ausur ( n.),||
+|**PPrakt:**<br>**Außeruniversitäres**<br>**Praktikum**|Außeruniversitäres<br>Praktikum|6<br>Woc<br>hen||**10**|||10|Bescheinigung +<br>Praktikumsbericht (3-5 Seiten)|**0**|
+|**Wahlfächer**|Gemäß PO der<br>Wahlfächer|||**40**|Min. 20 ECTS im ersten Wahlfach, min<br>ECTS in jedem weiteren Wahlfac|. je 10<br>h||Gemäß PO der Wahlfächer, 100 %|**1**|
+|**PBA Bhlbi PG**|Bachelorarbeit PG|||**15**|||12|Monographie (50 Seiten), 100 % und Verteidigung (15|**2**|
+|**: aceoraret**|Verteidigung<br>Summe:<br>22||20|<br>180|20-30<br>28-30<br>16-30<br>21-30|25-30|3<br>30|Min.), 0 %||
 
 1) Die angegebene Verteilung stellt eine Empfehlung dar. 
 
@@ -840,28 +837,23 @@ dem Bewerber schriftlich mitgeteilt.[14] Ein Ablehnungsbescheid ist mit Gründen
 
 ## „ **Anlage 4:** Master Kulturgeographie 
 
-||||SWS|SWS|SWS|Gesamt|Workload-Verteilung pro|Workload-Verteilung pro|Semester in ECTS-Punkten1)|Semester in ECTS-Punkten1)||Faktor Modul-|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V|Ü|P|S|ECTS|1. Sem.|2. Sem.|3. Sem.|4.<br>Sem.|Art und Umfang der Prüfung/Studienleistung|Note|
-|**KGV: Vertiefte**<br>**Kulturgeographie**|Seminar<br>Wissenschaftstheorie||||2|**10**|4||||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten), 60 %,<br>und wöchentlich eine Übungsaufgabe, 40 %|**1**|
-||Hauptseminar||||2||6||||||
-|**EE: Externe Expertise2)**|Externe Expertise I||||2|**10**|5||||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten), 0 %, und<br>wöchentlich eine Übungsaufgabe, 0 %|**0**|
-||Externe Expertise II||||2|||5|||||
-|**LF: Lehrforschung**|Lehrforschung||||2|**20**|10||||Forschungsbericht (20-50 Seiten) mit Präsentation<br>(ca. 30 Minuten), 100 %|**1**|
-||||||2|||10|||||
-|**INT: Inter-**<br>**/transdisziplinäre**<br>**Perspektiven**|Lehrveranstaltung<br>aus Wahlfach||Gemäß PO des<br>Wahlfachs|||**10**|5||||Gemäß PO des Wahlfachs|**0**|
-||Lehrveranstaltung<br>aus Wahlfach||Wahlfachs|||||5|||||
-||||||||||||||
-|**RGV: Vertiefte**<br>**Regionale Geographie**|Hauptseminar zum<br>Großen Gelände-<br>seminar||||2|**15**||5|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-30 Seiten), 50 %,<br>und Bericht (10-15 Seiten), 50 %|**1**|
-||Großes<br>Geländeseminar<br>(mindestens 10 Tage)||||10<br>Tage||||||||
-||||||||||||||
-||||||||||10||||
-|**FW:**<br>**Forschungswerkstatt**|Forschungswerkstatt||||4|**15**|||15||Forschungsbericht (20-30 Seiten), 0 %|**0**|
-|**MV: Vertiefte**<br>**Methodik**|Seminar vertiefte<br>Methoden der KG||||2|**10**||5|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten), 50 %,<br>und wöchentlich eine Übungsaufgabe, 50 %|**1**|
-||Seminar vertiefte<br>Methoden der KG||||2||||5||||
-|**ARB: Masterarbeit**|Masterarbeit|||||**30**||||25|Masterarbeit (ca. 80 Seiten), 100 % und mündliche<br>Verteidigung (ca. 30 Min.), 0 %|**2**|
-||Verteidigung|||||||||5|||
-||Summe:||||22|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-Verteilung pro<br>1. Sem.<br>2. Sem.|Semester in ECTS<br>3. Sem.|-Punkten<sup>1)</sup><br>4.<br>Sem.|Art und Umfang der Prüfung/Studienleistung|Faktor Modul-<br>Note|
+|---|---|---|---|---|---|---|---|---|
+|**KGV: Vertiefte**|Seminar<br>Wissenschaftstheorie|2|**10**|4|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten) 60 %|**1**|
+|**Kulturgeographie**|Hauptseminar|2||6|||,  ,<br>und wöchentlich eine Übungsaufgabe, 40 %||
+|**EE: Externe Exertise**<sup>**2)**</sup>|Externe Expertise I|2|**10**|5|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitun (20-25 Seiten) 0 % und|**0**|
+|**p**|Externe Expertise II|2||5|||g  ,  ,<br>wöchentlich eine Übungsaufgabe, 0 %||
+|||2||10|||Forschungsbericht (20-50 Seiten) mit Präsentation||
+|**LF: Lehrforschung**|Lehrforschung|2|**20**|10|||<br>(ca. 30 Minuten), 100 %|**1**|
+|**INT: Inter-**<br>**dl**|Lehrveranstaltung<br>aus Wahlfach|Gemäß PO des||5|||ß  d hlfh||
+|**/transiszipinäre**<br>**Perspektiven**|Lehrveranstaltung<br>aus Wahlfach|Wahlfachs|**10**|5|||Gemä PO es Waacs|**0**|
+|**RGV: Vertiefte**|Hauptseminar zum<br>Großen Gelände-<br>seminar|2|**1**|5|||Portfolioprüfung: Referat (45 Min.) mit<br>hiflih Abi 2030 Si 0 %|**1**|
+|**Regionale Geographie**|Großes<br>Geländeseminar<br>(mindestens 10 Tage)|10<br>Tage|**5**||10||scrtcer usaretung (- eten), 5 ,<br>und Bericht (10-15 Seiten), 50 %||
+|**FW:**<br>**Forschungswerkstatt**|Forschungswerkstatt|4|**15**||15||Forschungsbericht (20-30 Seiten), 0 %|**0**|
+|**MV: Vertiefte**|Seminar vertiefte<br>Methoden der KG|2|**10**|5|||Portfolioprüfung: Referat (45 Min.) mit<br>hiftlih Abit 2025 Sit 50 %|**1**|
+|**Methodik**|Seminar vertiefte<br>Methoden der KG|2|||5||scrcer usareung (- een),  ,<br>und wöchentlich eine Übungsaufgabe, 50 %||
+|**ARB Mbi**|Masterarbeit||**30**|||25|Masterarbeit (ca. 80 Seiten), 100 % und mündliche|**2**|
+|**: asteraret**<br>|Verteidigung<br>Summe:|22|<br>120|30<br>30|30|5<br>30|Verteidigung (ca. 30 Min.), 0 %||
 
 > 1) Die angegebene Verteilung stellt eine Empfehlung dar. 
 
@@ -871,44 +863,39 @@ dem Bewerber schriftlich mitgeteilt.[14] Ein Ablehnungsbescheid ist mit Gründen
 
 ## „ **Anlage 5:** Master Physische Geographie 
 
-|Modulbezeichnung|Lehrveranstaltung|||SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang der Prüfung/Studienleistung|Faktor Modul-<br>Note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||
-|||||||||||||||
-||||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem.|4.<br>Sem.|||
-|**PGV: Vertiefte**<br>**Physische**<br>**Geographie**|Seminar<br>Wissenschaftstheorie<br>und<br>wissenschaftliches<br>Schreiben|||||2|**10**|5||||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten),<br>100 %, und wöchentlich eine<br>Übungsaufgabe, 0 %|**1**|
-||Hauptseminar|||||2|||5|||||
-|**LF: Lehrforschung**|Lehrforschung|||||2|**20**||10|||Forschungsbericht (20-50 Seiten) mit<br>Präsentation (ca. 30 Minuten), 100 %|**1**|
-|||||||2||||10||||
-|**INT: Inter-**<br>**/Transdisziplinäre**<br>**Perspektiven**|LV aus Wahlfach|||Gemäß PO des<br>Wahlfachs|||**10**|5||||Gemäß PO der Wahlfächer|**0**|
-||LV aus Wahlfach|||||||5||||||
-|||||||||||||||
-|**RGV: Vertiefte**<br>**Regionale**<br>**Geographie**|Hauptseminar zum<br>Großen<br>Geländeseminar|||||2|**15**||5|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-30 Seiten),<br>50 %, und Bericht (10-15 Seiten), 50 %|**1**|
-||Großes<br>Geländeseminar<br>(mindestens 10 Tage)|||||10<br>Tage||||||||
-|||||||||||10||||
-|||||||||||||||
-|**MV I:**<br>**Modulgruppe**<br>**Vertiefte**<br>**Methodik I:**<br>**Datenerfassung2),**<br>**3)**|Methodenseminar|||||2|**20**|5||||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
-||Methodenseminar|||||2||5||||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
-||Methodenseminar|||||2||5||||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Workload|-Verteilung pro|Semester in ECTS-Punkten<sup>1</sup>|Art und Umfang der Prüfung/Studienleistung|Faktor Modul-<br>Note|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1. Sem.|2. Sem.|3. Sem.<br>4.<br>Sem.|||
+|**PGV: Vertiefte**<br>**Physische**<br>**Geographie**|Seminar<br>Wissenschaftstheorie<br>und<br>wissenschaftliches<br>Schreiben|2|**10**|5|||Portfolioprüfung: Referat (45 Min.) mit<br>schriftlicher Ausarbeitung (20-25 Seiten),<br>100 %, und wöchentlich eine<br>Übfb 0 %|**1**|
+||Hauptseminar|2|||5||ungsaugae,||
+|**LF Lehrforschun**|Lehrforschun|2|**20**||10||Forschungsbericht (20-50 Seiten) mit|**1**|
+|**: g**|g|2||||10|Präsentation (ca. 30 Minuten), 100 %||
+|**INT: Inter-**<br>**/Transdiszilinäre**|LV aus Wahlfach|Gemäß PO des|**10**|5|||Gemäß PO der Wahlfächer|**0**|
+|**p**||Wahlfachs|||||||
+|**Perspektiven**|LV aus Wahlfach|||5|||||
+|**RGV: Vertiefte**<br>|Hauptseminar zum<br>Großen<br>Geländeseminar|2|||5||Portfolioprüfung: Referat (45 Min.) mit<br>||
+|**Regionale**|||**15**||||schriftlicher Ausarbeitung (20-30 Seiten)|**1**|
+|<br>**Geographie**|Großes<br>Geländeseminar<br>(mindestens 10 Tage)|10<br>Tage||||10|,<br>50 %, und Bericht (10-15 Seiten), 50 %||
+|**MV I:**|Methodenseminar|2||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
+|**Modulgruppe**<br>**Vertiefte**<br>**Methodik I:**<br>**Datenerfassung**<sup>**2),**</sup>|Methodenseminar|2|**20**|5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
+|**3)**|Methodenseminar|2||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
 
 24 
 
-||Methodenseminar||||2|||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**MV II:**<br>**Modulgruppe**<br>**Vertiefte**<br>**Methodik II:**<br>**Datenanalyse2), 3),**<br>**4)**|Methodenseminar||||2|**15**||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
-||Methodenseminar||||2||||5||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
-||Methodenseminar||||2||||5||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**0**|
-|**ARB:**<br>**Masterarbeit**|Masterarbeit|||||**30**||||25|Masterarbeit (ca. 80 Seiten), 100 %, und<br>mündliche Verteidigung (ca. 30 Min.), 0 %|**2**|
-||Verteidigung|||||||||5|||
-||Summe:||||24|**120**|**30**|**30**|**30**|**30**|||
+|Methodenseminar|2||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %<br>|**1**|
+|---|---|---|---|---|---|---|---|
+|**MV II:**<br>Methodenseminar|2||5|||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
+|**Modulgruppe**<br>**Vertiefte**<br>**Methodik II:**<br>**Datenanalyse**<sup>**2), 3),**</sup><br><br>Methodenseminar|2|**15**||5||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**1**|
+|**4)**<br>Methodenseminar|2|||5||Wöchentlich eine Übungsaufgabe oder<br>Bericht (max. 20 Seiten) oder Referat (ca.<br>30 Min.) mit schriftlicher Ausarbeitung (10<br>Seiten),100 %|**0**|
+|**ARB:**<br>Masterarbeit||**30**|||25|Masterarbeit (ca. 80 Seiten), 100 %, und|**2**|
+|**Masterarbeit**<br>Verteidigung|||||5|mündliche Verteidigung (ca. 30 Min.), 0 %||
+|Summe:|24|**120**|**30**<br>**30**|**30**|**30**|||
 
 - 1) Die angegebene Verteilung stellt eine Empfehlung dar. 
 
-> 2) Für die Modulgruppen wird jeweils eine Gesamtnote gebildet, in welche die jeweiligen einzelnen Modulprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen. 
+- 2) Für die Modulgruppen wird jeweils eine Gesamtnote gebildet, in welche die jeweiligen einzelnen Modulprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen. 
 
-3) Die Wahlpflichtkataloge mit den konkreten Prüfungsbedingungen für jedes Modul werden vor Semesterbeginn ortsüblich auf der Geographie-Homepage bekannt gegeben. 
-
-> 4) In die Modulgruppe Vertiefte Methodik II – Datenanalyse kann das Modul mit unbenoteter Studienleistung (5 ECTS) durch ein externes, mindestens sechswöchiges Praktikum ersetzt werden .“ 
+Für die Modulgruppen wird jeweils eine Gesamtnote gebildet, in welche die jeweiligen einzelnen Modulprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen. 3) Die Wahlpflichtkataloge mit den konkreten Prüfungsbedingungen für jedes Modul werden vor Semesterbeginn ortsüblich auf der Geographie-Homepage bekannt gegeben. 4) In die Modulgruppe Vertiefte Methodik II – Datenanalyse kann das Modul mit unbenoteter Studienleistung (5 ECTS) durch ein externes, mindestens sechswöchiges Praktikum ersetzt werden .“ 
 
 25 
 

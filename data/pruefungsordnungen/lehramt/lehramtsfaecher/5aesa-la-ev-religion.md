@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Dezember 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AeSa_LA Ev. Religion.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:22+00:00
-page_count_chars: 24764
+scraped_at: 2026-07-01T08:37:36+00:00
+page_count_chars: 22626
 ---
 
 # 14. Dezember 2017
@@ -12,7 +12,7 @@ page_count_chars: 24764
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AeSa_LA Ev. Religion.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO LA Ev. Rel. – Vom 14. Dezember 2017** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO LA Ev. Rel. – Vom 14. Dezember 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -44,43 +44,41 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre 
 
 ## 3. § 6 wird wie folgt geändert: 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>||Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>||Art und Umfang der Prüfung|Faktor<br>Mo-<br>dul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||in ECTS-Punkten1, 2|||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|||
-|Basismodul: Theologie und<br>wissenschaftliches Arbeiten|Einführung in Theologie und wiss. Arbeiten||||2|63|3|||||||Studienbegleitendes Portfolio<br>(15-20 S.)4|0|
-||Tutorium zum Einführungskurs||1||||1|||||||||
-||RU in der Sek 1 (FD)||||2|||2||||||||
-|Biblisches Grundwissen<br>(Lehramt GS/MS/RS)|Biblisches Grundwissen 1 (AT)||2|||5|2,5|||||||Klausur (60 Min.)|1|
-||Biblisches Grundwissen 2 (NT)||2||||2,5|||||||||
-|Grundlagen der Theologie<br>und Religionspädagogik|Theologische Themen der Zeit (Exkursion)||||2|5||2||||||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Themen der Theologie im RU||||2||||3|||||||
-|Biblih Thli 1 AT|AT – Einführung in das AT & Pentateuch|2||||5||2,5||||||Studienbegleitendes Portfolio<br>(20-30 S.)6, 7|1|
-|sce eooge  ()|AT – Geschichte Israels|2|||||||2,5|||||||
-|Biblische Theologie 2 (NT)|NT – Einführung in den Umgang mit dem NT||||2|5||3||||||Hausarbeit (15-20 S.) oder Klausur<br>(60-90 Min.)5, 7|1|
-||NT -  Synoptische Evangelien/Jesus|2|||||||2|||||||
-|Biblih Thli 3|AT - Themen alttestamentlicher Theologie|2||||5||||2/3||||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-|sce eooge|NT – Themen neutestamentl. Theologie: Paulus|2|||||||||2/3|||||
-|Systematische Theologie 1:<br>Dogmatik (GMRS)|Einführung in die Dogmatik|2||||5|||||2|||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Grundfragen der Dogmatik||||2|||||||3||||
-|Systematische Theologie 2:<br>Ethik (GMRS)|Einführung in die Ethik|2||||5|||2,5|||||Studienbegleitendes Portfolio (25 S.)<br>oder Klausur (60 Min.) oder mündliche Prü-<br>fung (15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Grundfragen christlicher Ethik||||2|||||2,5||||||
-|Kirchengeschichte 1|Epochen der Kirchengeschichte 1 - GS/MS/RS|2||||5||||2/3||||<br>Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Religiöses Lernen und Kirchengeschichte||||2||||||2/3|||||
-|Kihhiht 2|Epochen der Kirchengeschichte 2 - GS/MS/RS|2||||5||||||2/3||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-|rcengescce|Christliche Kirchen und Gruppen – Ökumene|2|||||||||||2/3|||
-|Wahlpflichtmodul (RS)|WPM-RS 1|2||||6|||||2/4|||Klausur (90 Min.) oder mündliche Prüfung<br>(25-30 Min.) oder Hausarbeit (20-30 S.)5|1|
-||WPM-RS 2||||2||||||||2/4|||
-|Religionswissenschaft|Einführung in die Religionswissenschaft|1||||5|||||1|||Klausur (45 Min.) oder mündliche Prüfung<br>(15 Min.) oder Essay (10-15 S.)5|1|
-||Judentum||||2|||||||2||||
-||Islam|2|||||||||||2|||
-|Summe:||25|5||20|62|9|9,5|10|6,5-8,5|9-13|7-8|6-9|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Ge-<br>samt<br>ECTS<br>Workload-V<br>in E<br>1.<br>2.<br>3.|erteilung pro Seme<br>CTS-Punkten<sup>1, 2</sup><br>4.<br>5.|ster<br>6.<br>7.|Art und Umfang der Prüfung|Faktor<br>Mo-<br>dul-<br>note|
+|---|---|---|---|---|---|---|---|
+||Einführung in Theologie und wiss. Arbeiten|2|3|||||
+|Basismodul: Theologie und<br>wissenschaftliches Arbeiten|Tutorium zum Einführungskurs|1|6<sup>3</sup><br>1|||Studienbegleitendes Portfolio<br>(15-20 S)<sup>4</sup>|0|
+||RU in der Sek 1 (FD)|2|2|||.||
+|Biblisches Grundwissen|Biblisches Grundwissen 1 (AT)|2|<br>2,5|||||
+|(Lehramt GS/MS/RS)|Biblisches Grundwissen 2 (NT)|2|5<br>2,5|||Klausur (60 Min.)|1|
+|Grundlagen der Theologie|Theologische Themen der Zeit (Exkursion)|2|<br>2|||Klausur (60 Min.) oder mündliche Prüfung||
+|<br>und Religionspädagogik|Themen der Theologie im RU|2|5<br>3|||(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||AT – Einführung in das AT & Pentateuch|2|<br>2,5|||Studienbegleitendes Portfolio||
+|Biblische Theologie 1 (AT)|AT – Geschichte Israels|2|5<br>2,5|||(20-30 S.)<sup>6, 7</sup>|1|
+||NT – Einführung in den Umgang mit dem NT|2|<br>3|||Hausarbeit (15-20 S.) oder Klausur||
+|Biblische Theologie 2 (NT)|NT -  Synoptische Evangelien/Jesus|2|5<br>2|||(60-90 Min.)<sup>5, 7</sup>|1|
+||AT - Themen alttestamentlicher Theologie|2||2/3||Klausur (60 Min.) oder mündliche Prüfung||
+|Biblische Theologie 3|NT – Themen neutestamentl. Theologie: Paulus|2|5|2/3||(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+|Systematische Theologie 1:|Einführung in die Dogmatik|2||2||Klausur (60 Min.) oder mündliche Prüfung||
+|<br>Dogmatik (GMRS)|Grundfragen der Dogmatik|2|5||3|(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+|Systematische Theologie 2:|Einführung in die Ethik|2|<br>2,5|||Studienbegleitendes Portfolio (25 S.)||
+|<br>Ethik (GMRS)|Grundfragen christlicher Ethik|2|5|2,5||oder Klausur (60 Min.) oder mündliche Prü-<br>fung (15-20 Min) oder Hausarbeit (15-20 S)<sup>5</sup>|1|
+||Epochen der Kirchengeschichte 1 - GS/MS/RS|2||2/3||..<br>Klausur (60 Min.) oder mündliche Prüfung||
+|Kirchengeschichte 1|Religiöses Lernen und Kirchengeschichte|2|5|2/3||(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||Epochen der Kirchengeschichte 2 - GS/MS/RS|2|||2/3|Klausur (60 Min.) oder mündliche Prüfung||
+|Kirchengeschichte 2|Christliche Kirchen und Gruppen – Ökumene|2|5||2/3|<br>(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||WPM-RS 1|2||2/4||Klausur (90 Min.) oder mündliche Prüfung||
+|Wahlpflichtmodul (RS)|WPM-RS 2|2|6||2/4|<br>(25-30 Min.) oder Hausarbeit (20-30 S.)<sup>5</sup>|1|
+||Einführung in die Religionswissenschaft|1||1||||
+|Religionswissenschaft|Judentum|2|5||2|Klausur (45 Min.) oder mündliche Prüfung<br>15 Mi d E 1015 S<sup>5</sup>|1|
+||Islam|2|||2|( n.) oer ssay (- .)||
+|Summe:||25<br>5<br>20|62<br>9<br>9,5<br>10|6,5-8,5<br>9-13|7-8<br>6-9|||
 
 2 
 
 ## a) Abs. 1 wird wie folgt geändert: 
 
-## aa) Vor dem Wort „Im“ wird die hochgestellte Zahl „[1] “ gestrichen. 
+## aa) Vor dem Wort „Im“ wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 ## bb) Die Tabelle und die darunter abgebildeten Erläuterungen erhalten folgende neue Fassung: 
 
@@ -104,15 +102,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre 
 
 ## „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||in ECTS-Punkten|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||
-|Fhdidktik 1|Einführung in Religionspädagogik und –didaktik|2||||5|||2,5|||||Studienbegleitendes Portfolio<br>(20-30 S.)2, 3|1|
-|aca|Grundfragen der Religionspädagogik und -didaktik||||2|||||2,5||||||
-|Fachdidaktik 2|Hauptthemen der Religionsdidaktik||||2|5||||||2||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)4|1|
-||Fachdidaktisches Hauptseminar: Unterricht||||2||||||||3|||
-|Summe:||2|||6|10|||2,5|2,5||2|3|||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>Workloa<br> <br>1.<br>2.|d-Verteilung pro<br>in ECTS-Punkte<br>3.<br>4.<br>5|Semester<br>n<sup>1</sup><br>.<br>6.<br>7.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|Fachdidaktik 1|Einführung in Religionspädagogik und –didaktik|2||5|2,5||Studienbegleitendes Portfolio<br>|1|
+||Grundfragen der Religionspädagogik und -didaktik||2||2,5||(20-30 S.)<sup>2, 3</sup>||
+||Hauptthemen der Religionsdidaktik||2|||2|Klausur (60 Min.) oder mündliche Prüfung<br>||
+|Fachdidaktik 2|Fachdidaktisches Hauptseminar: Unterricht||2|5||3|(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>4</sup>|1|
+|Summe:||2|6|10|2,5<br>2,5|2<br>3|||
 
 - 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. Die Verteilung der ECTS-Punkte aus den Modulen auf die entsprechend LPO I zu erbringenden Leistungspunkte ist dem Modulhandbuch zu entnehmen. 
 
@@ -128,12 +124,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre 
 
 ## „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|ECTS|Art und Umfang der Prüfung|Faktor<br>Modul-note|
-|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|||||
-|Studienbegleitendes fachdidaktisches Praktikum|Praktikum|||3||5|3|Praktikumsbericht mit Unterrichtsentwurf (25-<br>30 S.)1|0|
-||Fachdidaktisches Begleitseminar zum Praktikum||||2||2|||
-|||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>ECTS|Art und Umfang der Prüfung|Faktor<br>Modul-note|
+|---|---|---|---|---|---|
+|Studienbeleitendes fachdidaktisches Praktikum|Praktikum|3|5<br>3|Praktikumsbericht mit Unterrichtsentwurf (25-<br><sup>1</sup>|0|
+|g|Fachdidaktisches Begleitseminar zum Praktikum|2|<br>2|30 S.)||
 
 1 Voraussetzung für die Zulassung zur Prüfung im Modul „Studienbegleitendes fachdidaktisches Praktikum“ ist der Nachweis des Moduls „Basismodul: Theologie und wissenschaftliches Arbeiten“.“ 
 
@@ -151,35 +145,35 @@ aa) Das Wort „Hauptschulen“ wird durch das Wort „Mittelschulen“ ersetzt.
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||Punkten1, 2||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||
-|Basismodul: Theologie und<br>wissenschaftliches Arbeiten|Einführung in Theologie und wiss. Arbeiten||||2|63|3|||||||Studienbegleitendes Portfolio (15-20 S.)4|0|
-||Tutorium zum Einführungskurs||1||||1|||||||||
-||RU in der Grundschule bzw. Mittelschule (FD)||||2|||2||||||||
-|Biblisches Grundwissen<br>(Lehramt GS/MS/RS)|Biblisches Grundwissen 1 (AT)||2|||5|2,5|||||||Klausur (60 Minuten)|1|
-||Biblisches Grundwissen 2 (NT)||2||||2,5|||||||||
-|Grundlagen der Theologie<br>und Religionspädagogik|Theologische Themen der Zeit (Exkursion)||||2|5||2||||||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Themen der Theologie im RU||||2||||3|||||||
-|Biblische Theologie 1 (AT)|AT – Einführung in das AT & Pentateuch|2||||5||2,5||||||Studienbegleitendes Portfolio (20-30 S.)6, 7|1|
-||AT – Geschichte Israels|2|||||||2,5|||||||
-|Biblische Theologie 2 (NT)|NT – Einführung in den Umgang mit dem NT||||2|5||3||||||Hausarbeit (15-20 Seiten) oder Klausur<br>(60-90 Min.)5, 7|1|
-||NT -  Synoptische Evangelien/Jesus|2|||||||2|||||||
-|Biblische Theologie 3|AT - Themen alttestamentlicher Theologie (z.B.<br>Prophetie und Weisheit)|2||||5||||2/3||||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||NT – Themen neutestamentl. Theologie: Paulus|2|||||||||2/3|||||
-|Systematische Theologie 1:<br>Dogmatik (GMRS)|Einführung in die Dogmatik|2||||5|||||2|||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Grundfragen der Dogmatik||||2|||||||3||||
-|Systematische Theologie 2:<br>Ethik (GMRS)|Einführung in die Ethik|2||||5|||2,5|||||Studienbegleitendes Portfolio (25 S.) oder<br>Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Grundfragen christlicher Ethik||||2|||||2,5||||||
-|Kirchengeschichte 1|Epochen der Kirchengeschichte 1 - GS/MS/RS|2||||5||||2/3||||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Religiöses Lernen und Kirchengeschichte||||2||||||2/3|||||
-|Kirchengeschichte 2|Epochen der Kirchengeschichte 2 - GS/MS/RS|2||||5||||||2/3||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)5|1|
-||Christliche Kirchen und Gruppen – Ökumene|2|||||||||||2/3|||
-|Religionswissenschaft|Einführung in die Religionswissenschaft|1||||5|||||1|||Klausur (45 Min.) oder mündliche Prüfung<br>(15 Min.) oder Essay (10-15 S.)5|1|
-||Judentum||||2|||||||2||||
-||Islam|2|||||||||||2|||
-|Summe:||23|5||18|56|9|9,5|10|6,5-8,5|7-9|7-8|4-5|||
+|||SWS|<br>Workload|-Verteilung pro S<br>|emester<br>|in ECTS-||Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||Gesamt<br>ECTS|Punkten<sup>1</sup>|<sup>, 2</sup>||Art und Umfang der Prüfung|Modul-|
+|||V<br>Ü<br>P<br>S|<br>1.<br>2.|3.<br>4.|5.|6.<br>7.||note|
+||Einführung in Theologie und wiss. Arbeiten|2|3||||||
+|Basismodul: Theologie und<br>wissenschaftliches Arbeiten|Tutorium zum Einführungskurs|1|6<sup>3</sup><br>1||||Studienbegleitendes Portfolio (15-20 S.)<sup>4</sup>|0|
+||RU in der Grundschule bzw. Mittelschule (FD)|2|2||||||
+|Biblisches Grundwissen|Biblisches Grundwissen 1 (AT)|2|<br>2,5||||||
+|(Lehramt GS/MS/RS)|Biblisches Grundwissen 2 (NT)|2|5<br>2,5||||Klausur (60 Minuten)|1|
+|Grundlagen der Theologie|Theologische Themen der Zeit (Exkursion)|2|<br>2||||Klausur (60 Min.) oder mündliche Prüfung<br>||
+|<br>und Religionspädagogik|Themen der Theologie im RU|2|5|3|||(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+|Biblische Theoloie 1 (AT)|AT – Einführung in das AT & Pentateuch|2|5<br>2,5||||Stdiblitd Ptfli 2030 S<sup>6, 7</sup>|1|
+|g|AT – Geschichte Israels|2||2,5|||uenegeenes oroo (- .)||
+||NT – Einführung in den Umgang mit dem NT|2|<br>3||||Hausarbeit (15-20 Seiten) oder Klausur<br>||
+|Biblische Theologie 2 (NT)|NT -  Synoptische Evangelien/Jesus|2|5|2|||(60-90 Min.)<sup>5, 7</sup>|1|
+|Biblische Theologie 3|AT - Themen alttestamentlicher Theologie (z.B.<br>Prophetie und Weisheit)|2|5|2/3|||Klausur (60 Min.) oder mündliche Prüfung<br>1520 Mi d Hbi 1520 S<sup>5</sup>|1|
+||NT – Themen neutestamentl. Theologie: Paulus|2|||2/3||(- n.) oer ausaret (- .)||
+|Systematische Theologie 1:|Einführung in die Dogmatik|2|||2||Klausur (60 Min.) oder mündliche Prüfung||
+|<br>Dogmatik (GMRS)|Grundfragen der Dogmatik|2|5|||3|<br>(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+|Sstematische Theoloie 2:|Einführung in die Ethik|2||2,5|||Studienbegleitendes Portfolio (25 S.) oder||
+|y g<br>Ethik (GMRS)|Grundfragen christlicher Ethik|2|5|2,5|||Klausur (60 Min.) oder mündliche Prüfung<br>(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||Epochen der Kirchengeschichte 1 - GS/MS/RS|2||2/3|||Klausur (60 Min.) oder mündliche Prüfung<br>||
+|Kirchengeschichte 1|Religiöses Lernen und Kirchengeschichte|2|5||2/3||(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||Epochen der Kirchengeschichte 2 - GS/MS/RS|2||||2/3|Klausur (60 Min.) oder mündliche Prüfung||
+|Kirchengeschichte 2|Christliche Kirchen und Gruppen – Ökumene|2|5|||2/3|<br>(15-20 Min.) oder Hausarbeit (15-20 S.)<sup>5</sup>|1|
+||Einführung in die Religionswissenschaft|1|||1||||
+|Religionswissenschaft|Judentum|2|5|||2|Klausur (45 Min.) oder mündliche Prüfung<br>(15 Min) oder Essay (10-15 S)<sup>5</sup>|1|
+||Islam|2||||2|.    .||
+|Summe:||23<br>5<br>18|56<br>9<br>9,5|10<br>6,5-8,5|7-9|7-8<br>4-5|||
 
 - 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. Die Verteilung der ECTS-Punkte aus den Modulen auf die entsprechend LPO I zu erbringenden Leistungspunkte ist dem Modulhandbuch zu entnehmen. 
 
@@ -205,15 +199,13 @@ aa) In Satz 1 wird das Wort „Hauptschulen“ durch das Wort „Mittelschulen�
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung1|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||
-|Fachdidaktik 1|Einführung in Religionspädagogik und –<br>didaktik|2||||5|||2,5|||||Studienbegleitendes Portfolio<br>(20-30 Seiten)2, 3|1|
-||Grundfragen der Religionspädagogik<br>und<br>-didaktik||||2|||||2,5||||||
-|Fachdidaktik 2|Hauptthemen der Religionsdidaktik||||2|5||||||2||Klausur (60 Min.) oder mündli-<br>che Prüfung (15-20 Min.) oder<br>Hausarbeit (15-20 Seiten)4|1|
-||Fachdidaktisches Hauptseminar: Unter-<br>richt||||2||||||||3|||
-|Summe:||2|||6|10|||2,5|2,5||2|3|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br> <br>1.|Workload-Verte<br>ECT<br> <br>2.<br>3.|ilung pro Semeste<br>S-Punkten<sup>1</sup><br>4.<br>5.<br>6.|r in<br>Art und Umfang der Prüfung<sup>1</sup><br>7.|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|
+||Einführung in Religionspädagogik und –<br>didaktik|2||2,5||Sdiblid Pfli||
+|Fachdidaktik 1|Grundfragen der Religionspädagogik<br>und<br>-didaktik|2|5||2,5|tuenegetenes ortoo<br>(20-30 Seiten)<sup>2, 3</sup>|1|
+||Hauptthemen der Religionsdidaktik|2|||2|Klausur (60 Min.) oder mündli-||
+|Fachdidaktik 2|Fachdidaktisches Hauptseminar: Unter-<br>richt|2|5|||che Prüfung (15-20 Min.) oder<br>Hausarbeit (15-20 Seiten)<sup>4</sup><br>3|1|
+|Summe:||2<br>6|10|2,5|2,5<br>2|3||
 
 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. Die Verteilung der ECTS-Punkte aus den Modulen auf die entsprechend LPO I zu erbringenden Leistungspunkte ist dem Modulhandbuch zu entnehmen. 
 
@@ -227,14 +219,12 @@ aa) In Satz 1 wird das Wort „Hauptschulen“ durch das Wort „Mittelschulen�
 
 ## bb) Satz 2 erhält inkl. Tabelle und Erläuterungen folgende neue Fassung: 
 
-„[2] Das verpflichtende studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion bildet zusammen mit der Begleitveranstaltung das Modul „Studienbegleitendes fachdidaktisches Praktikum“, dessen Leistungspunkte dem Freien Bereich zugeordnet sind. 
+„<sup>2</sup> Das verpflichtende studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion bildet zusammen mit der Begleitveranstaltung das Modul „Studienbegleitendes fachdidaktisches Praktikum“, dessen Leistungspunkte dem Freien Bereich zugeordnet sind. 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|ECTS|Art und Umfang der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|||||
-|Studienbegleitendes fach-<br>didaktisches Praktikum|Praktikum|||3||5|3|Praktikumsbericht mit Unter-<br>richtsentwurf (25-30 Seiten)1|0|
-||Fachdidaktisches Begleitseminar zum Prakti-<br>kum||||2||2|||
-|||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P<br>S|Gesamt<br>ECTS|ECTS|Art und Umfang der Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|
+|Studienbeleitendes fach-|Praktikum|3||3|Praktikumsbericht mit Unter-||
+|g<br>didaktisches Praktikum|Fachdidaktisches Begleitseminar zum Prakti-<br>kum|2|5|2|<br>richtsentwurf (25-30 Seiten)<sup>1</sup>|0|
 
 > ~~1~~ Voraussetzung für die Zulassung zur Prüfung im Modul „Studienbegleitendes fachdidaktisches Praktikum“ ist der Nachweis des Moduls „Basismodul: Theologie und wissenschaftliches Arbeiten“. 
 
@@ -242,15 +232,14 @@ c) In Abs. 3 erhalten die Tabelle und die darunter abgebildeten Erläuterungen f
 
 „ 
 
-|||SWS|SWS|SWS|SWS|Ge-|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Workload-Verteilung pro Semester in ECTS-Punkten~~1~~|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V|Ü|P|S|samt<br>ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|der<br>Prüfung||
-|**Die Bibel, der christliche**<br>**Glaube und ihre Didaktik**|Biblische Theologie und ihre<br>Didaktik -elementar||||2|5|||(2/3)||(2/3)|||||Klausur (60 Min.)<br>oder mündliche<br>Prüfung (15-20<br>Min.)2|1|
-||Systematische Theologie und<br>ihreDidaktik -elementar||||2|||||(2/3)||(2/3)||||||
-|**Fachdidaktik (DIDG) Evange-**<br>**lische Religionslehre Grund-**<br>**schule**|Religionsunterricht in der Grund-<br>schule||||2|6|||(2,5)||(2,5)|||||Studienbegleiten-<br>des Portfolio (15-<br>20 Seiten)3|1|
-||Einführung in die Religionspä-<br>dagogikund-didaktik|2||||||||(2,5)||(2,5)||||||
-||Religiöses Lernen: Konzeptio-<br>nenund Orte (GS)||1||||||(1)||(1)|||||||
-||**Summe:**|2|1|0|6|11|0|0|0-6,5|0-<br>5,5|0-<br>6,5|0-5,5|0|0|0|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Ge-<br>samt<br>ECTS|Workload-Vert<br>1.<br>2.<br>3.|eilung p<br>4.|ro Seme<br>5.|ster in E<br>6.|CTS-Punkten<sup>~~1~~</sup><br>7.<br>8.<br>9.|Art und Umfang<br>der<br>Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Die Bibel, der christliche**|Biblische Theologie und ihre<br>Didaktik -elementar|2|5|(2/3)||(2/3)|||Klausur (60 Min.)<br>oder mündliche|1|
+|**Glaube und ihre Didaktik**|Systematische Theologie und<br>ihreDidaktik -elementar|2|||(2/3)||(2/3)||Prüfung (15-20<br>Min.)<sup>2</sup>||
+|**Fhdidktik DIDG E**|Religionsunterricht in der Grund-<br>schule|2||(2,5)||(2,5)|||Sdibli||
+|**aca () vange-**<br>**lische Religionslehre Grund-**<br>**schule**|Einführung in die Religionspä-<br>dagogikund-didaktik|2|6||(2,5)||(2,5)||tuenegeten-<br>des Portfolio (15-<br>20 Seiten)<sup>3</sup>|1|
+||Religiöses Lernen: Konzeptio-<br>nenund Orte (GS)|1||(1)||(1)|||||
+||**Summe:**|2<br>1<br>0<br>6|11|0<br>0<br>0-6,5|0-<br>5,5|0-<br>6,5|0-5,5|0<br>0<br>0|||
 
 > ~~1~~ Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. Die Verteilung der ECTS-Punkte aus den Modulen auf die entsprechend LPO I zu erbringenden Leistungspunkte ist dem Modulhandbuch zu entnehmen. 
 
@@ -266,25 +255,18 @@ aa) In Satz 1 wird das Wort „Hauptschulen“ durch das Wort „Mittelschulen�
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>ECTS|||Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Workload-Verteilung pro Semester<br>in ECTS-Punkten1, 2|Art und Umfang der<br>Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||in ECTS-Punkten1, 2||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|**Die Bibel, der christliche**<br>**Glaube und ihre Didaktik**|Biblische Theologie und ihre<br>Didaktik - elementar||||2|5|||(2/3)||(2/3)|||||Klausur (60 Min.) oder<br>mündliche Prüfung<br>(15-20 Min.)3|1|
-||Systematische Theologie und<br>ihre<br>Didaktik -elementar||||2|||||(2/3)||(2/3)||||||
-|**Theologische Themen für die**<br>**Sekundarstufe 1**|Christliche Ethik und ethische<br>Bildung|2||||5|||(2/3)|(2/3)|(2/3)|(2/3)||||Klausur (60 Min.)<br>oder mündliche Prü-<br>fung (15-20 Min.)<br>oder Hausarbeit<br>(15-20 Seiten)3|1|
-||Religionswissenschaft und inter-<br>religiöses Lernen|||||||||||||||||
-||||||2||||(2/3)|(2/3)|(2/3)|(2/3)||||||
-|||||||||||||||||||
-|**Fachdidaktik (DIDH) Evangeli-**<br>**sche Religionslehre Mittel-**<br>**schule 1**|Einführung in die Religionspäda-<br>gogikund-didaktik|2||||5|||(2,5)|(2,5)|(2,5)|||||Studienbegleitendes<br>Portfolio (15-20 Sei-<br>ten)4|1|
-||Religionsunterricht in der Mittel-<br>schule||||2|||||(2,5)||(2,5)||||||
-|**Fachdidaktik (DIDH) Evangeli-**<br>**sche Religionslehre Mittel-**<br>**schule 2**||||||||||||||||Praktikumsbericht mit<br>Unterrichtsentwurf (25-<br>30 Seiten)5|0|
-||Religiöses Lernen: Konzeptionen<br>dOMS|2||||||||(2)||(2)||||||
-||un rte ()|||||5||||||||||||
-||Begleitseminar zum Praktikum<br>(MS)|||||||||||||||||
-||||||2||||||(3)||(3)|||||
-|||||||||||||||||||
-||**Summe:**|6|||1<br>0|20|0|0|0-8,5|0-<br>10,5|0-<br>10,5|0-<br>10,5|0-<br>3|0|0|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Ge-<br>samt<br>||Workl|oad-Vert<br>in ECT|eilung p<br>S-Punkt|ro Semester<br>en<sup>1, 2</sup><br>Art und Umfang der<br>Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S|ECTS|<br>1.<br>2.|3.|4.|5.|<br>6.<br>7.<br>8.<br>9.||
+|**Die Bibel der christliche**|Biblische Theologie und ihre<br>Didaktik - elementar|2|||(2/3)||(2/3)|Klausur (60 Min.) oder<br>||
+|**,**<br>**Glaube und ihre Didaktik**|Systematische Theologie und<br>ihre<br>Didaktik -elementar|2|5|||(2/3)||mündliche Prüfung<br>(15-20 Min.)<sup>3</sup><br>(2/3)|1|
+|**Theologische Themen für die**|Christliche Ethik und ethische<br>Bildung|2|||(2/3)|(2/3)|(2/3)|(2/3)<br>Klausur (60 Min.)<br>oder mündliche Prü-||
+|<br>**Sekundarstufe 1**|Religionswissenschaft und inter-<br>religiöses Lernen|2|5||(2/3)|(2/3)|(2/3)|fung (15-20 Min.)<br>oder Hausarbeit<br>(15-20 Seiten)<sup>3</sup><br>(2/3)|1|
+|**Fachdidaktik (DIDH) Evangeli-**<br>**sche Reliionslehre Mittel-**|Einführung in die Religionspäda-<br>gogikund-didaktik|2|5||(2,5)|(2,5)|(2,5)|Studienbegleitendes<br>Prtfli 15-20 Si-|1|
+|**g**<br>**schule 1**|Religionsunterricht in der Mittel-<br>schule|2||||(2,5)||ooo ( e<br>ten)<sup>4</sup><br>(2,5)||
+|**Fachdidaktik (DIDH) Evangeli-**<br>**h Rliinlhr Mittl-**|Religiöses Lernen: Konzeptionen<br>und Orte (MS)|2|5|||(2)||(2)<br>Praktikumsbericht mit<br>Utihttf 25|0|
+|**sce egosee e**<br>**schule 2**|Begleitseminar zum Praktikum<br>(MS)|2|||||(3)|nerrcsenwur (-<br>30 Seiten)<sup>5</sup><br>(3)||
+||**Summe:**|6<br>1<br>0|20|0<br>0|0-8,5|0-<br>10,5|0-<br>10,5|0-<br>10,5<br>0-<br>3<br>0<br>0||
 
 > 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. Die Verteilung der ECTS-Punkte aus den Modulen auf die entsprechend LPO I zu erbringenden Leistungspunkte ist dem Modulhandbuch zu entnehmen. 
 

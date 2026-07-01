@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Deutsch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:04:53+00:00
-page_count_chars: 5482
+scraped_at: 2026-07-01T08:36:46+00:00
+page_count_chars: 5421
 ---
 
 # 31. März 2010
@@ -12,17 +12,17 @@ page_count_chars: 5482
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Deutsch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 31. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzung vom 28. September 2009, wird wie folgt geändert: 
 
-## 1. § 5 wird wie folgt geändert: 
+# 1. § 5 wird wie folgt geändert: 
 
 - a) In Abs. 1 Nr. 1 c) werden in der Überschrift die Worte „Pflichtbereich für Deutsch als erstes Fach“ durch das Wort „Wahlpflichtmodul Deutsch Fachwissenschaft“ ersetzt. 
 
@@ -34,21 +34,15 @@ Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudienga
 
 |**Fachsem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-||||||
 |7. FS|**Spezialisierungsmodul**<br>SprachwissenschaftI|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>SprachwissenschaftII|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>SprachwissenschaftIII|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
-||||||
-||||||
 |7. FS|**Spezialisierungsmodul**<br>Mediävistik I|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>Mediävistik II|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>Mediävistik III|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
-||||||
-||||||
 |7. FS|**Spezialisierungsmodul**<br>Neuere deutscheLiteraturwissenschaftI|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>Neuere deutsche Literaturwissenschaft II|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
 |8. FS|**Spezialisierungsmodul**<br>Neuere deutscheLiteraturwissenschaftIII|**4**|**10**|**Prüfungsleistung aus dem**<br>**HS**|
-||||||
 
 Für den Wahlpflichtbereich gilt folgende Regelung: 
 
@@ -80,7 +74,7 @@ Im weiteren Lehramtsstudium muss mindestens ein Modul aus dem nicht gewählten T
 
 - d) In Abs. 2 Nr. 2. (Wahlpflichtbereich) wird unter der Tabelle der Satz „Dieses Modul muss binnen eines Semesters absolviert werden.“ ersatzlos gestrichen. 
 
-## 2. § 6 wird wie folgt geändert: 
+# 2. § 6 wird wie folgt geändert: 
 
 - a) Abs. 1 Nr. 1 (d) wir ersatzlos gestrichen. 
 
@@ -90,11 +84,9 @@ Im weiteren Lehramtsstudium muss mindestens ein Modul aus dem nicht gewählten T
 
 |**Exam**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-||||||
 ||**Examensvorbereitung**|**6**|**5**||
 |7. FS|Examenskurs NDL|2|3||
 |7. FS|Examenskurs<br>Sprachwissenschaft|2 x 2|2||
-||||||
 
 „ 
 
@@ -110,7 +102,7 @@ Im weiteren Lehramtsstudium muss mindestens ein Modul aus dem nicht gewählten T
 
    - c) In Abs. 8 Nr. 2 wird unter der Tabelle „Vertiefungsmodule“ der Satz „Dieses Modul muss binnen eines Semesters absolviert werden gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

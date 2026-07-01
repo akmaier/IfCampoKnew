@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Imperien und Transkontinentale Räume Aufhebung FPOITR .pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Imperien_und_Transkontinentale_Raeume/konsolidierte_Fassungen/Imperien_und_Transkontinentale_Raeume_Aufhebung FPOITR_.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:30:13+00:00
-page_count_chars: 2562
+scraped_at: 2026-07-01T09:42:50+00:00
+page_count_chars: 2579
 ---
 
 # Imperien und Transkontinentale Räume Aufhebung FPOITR .pdf
@@ -14,13 +14,13 @@ page_count_chars: 2562
 
 # **Satzung zur Aufhebung des Masterstudiengangs „Imperien und Transkontinentale Räume“ und Fachstudien- und Prüfungsordnung für den Masterstudiengang Imperien und Transkontinentale Räume an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität ErlangenNürnberg (FAU)** 
 
-## **- FPOITR - – (Aufhebungssatzung M.A. Imperien und Transkontinentale Räume) – Vom 31.01.2025** 
+# **- FPOITR - – (Aufhebungssatzung M.A. Imperien und Transkontinentale Räume) – Vom 31.01.2025** 
 
 Aufgrund von Art. 9 Satz 1 in Verbindung mit Art. 80 Abs. 1 und Art. 84 Abs. 2 des Bayerischen Hochschulinnovationsgesetzes (BayHIG) vom 5. August 2022 in der jeweils geltenden Fassung erlässt die Friedrich-Alexander-Universität ErlangenNürnberg (FAU) folgende Satzung: 
 
 ## **§ 1 Aufhebung des Studiengangs** 
 
-1Der Masterstudiengang Imperien und Transkontinentale Räume an der FAU wird zum Wintersemester 2025/26 aufgehoben.[2] Spätestens mit Beginn des Wintersemesters 2025/2026 (1. Oktober 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
+1Der Masterstudiengang Imperien und Transkontinentale Räume an der FAU wird zum Wintersemester 2025/26 aufgehoben.<sup>2</sup> Spätestens mit Beginn des Wintersemesters 2025/2026 (1. Oktober 2025) werden für diesen Studiengang weder für das erste noch für höhere Fachsemester Studierende zugelassen bzw. eingeschrieben. 
 
 ## **§ 2 Aufhebung der Satzung** 
 
@@ -28,7 +28,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Imperien und Tr
 
 ## **§ 3 Übergangsregelung** 
 
-1Studierende, die im Wintersemester 2025/26 bereits im Masterstudiengang Imperien und Transkontinentale Räume immatrikuliert sind, setzen das Studium nach der bisher geltenden in § 2 genannten Fachstudien- und Prüfungsordnung fort.[2] Prüfungen nach der bisher gültigen Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2027/28 angeboten. 
+1Studierende, die im Wintersemester 2025/26 bereits im Masterstudiengang Imperien und Transkontinentale Räume immatrikuliert sind, setzen das Studium nach der bisher geltenden in § 2 genannten Fachstudien- und Prüfungsordnung fort.<sup>2</sup> Prüfungen nach der bisher gültigen Fachstudien- und Prüfungsordnung werden letztmals im Wintersemester 2027/28 angeboten. 
 
 ## **§ 4 In-Kraft-Treten** 
 

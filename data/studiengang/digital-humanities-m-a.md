@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:44:16+00:00
+scraped_at: 2026-07-01T08:20:45+00:00
 ---
 
 # Digital Humanities (M.A.)
@@ -42,13 +42,12 @@ Im Zentrum des Studienganges liegen vier Themenfelder:
 * Daten erfassen
 * Daten visualisieren
 * Daten analysieren und verstehen
+* DH und Recht
 * Mensch-Maschine-Interaktion
 
-Ergänzt werden diese Themen durch einen fundierten Einblick in Medienethik und IT-Recht. Eine individuelle Schwerpunktsetzung ergibt sich durch einen großen Wahlpflichtbereich, der aus laufenden Forschungsprojekten bespielt wird. In einem Projektmodul werden Studierende auf eigenständige Forschung und auf verschiedene Berufsfelder vorbereitet.
+Ergänzt werden diese Themen durch einen fundierten Einblick in Medienethik und IT-Recht. Eine individuelle Schwerpunktsetzung ergibt sich durch einen großen Wahlpflichtbereich, der aus laufenden Forschungsprojekten bespielt wird.
 
 Der Studiengang ist auf vier Semester ausgelegt. Im ersten Semester werden theoretische und methodische Grundlagen erarbeitet, auf denen Themenfelder aus den Geisteswissenschaften und der Informatik aufbauen. Im weiteren Studienverlauf stehen freie Ergänzungsstudien, Praktika, Auslandsaufenthalte und Teamprojekte zur Wahl.
-
-In einer einjährigen Projektarbeit arbeiten die Studierenden in Gruppen und/oder mit externen Partnerinnen und Partnern zu aktuellen Forschungsfragen. Dies dient der Vertiefung und Anwendung des erworbenen Wissens.
 
 Innerhalb des freien Ergänzungsstudiums erweitern die Studierenden ihren wissenschaftlichen Horizont nach individueller Schwerpunktsetzung. Sie wählen aus Modulen angrenzender Disziplinen wie z.B. der Computerlinguistik, der digitalen Kunstgeschichte, den Museumsstudien, der Theater- und Medienwissenschaft, Kulturgeographie, der Archäologie oder anderen Geisteswissenschaften.
 

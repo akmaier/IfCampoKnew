@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.07.2008 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Informatik.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:43+00:00
-page_count_chars: 8112
+scraped_at: 2026-07-01T10:21:31+00:00
+page_count_chars: 8216
 ---
 
 # PDF vom 22.07.2008 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 8112
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Juli 2008** 
+# **Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Juli 2008** 
 
 geändert durch Satzungen vom 
 
@@ -30,7 +30,7 @@ geändert durch Satzungen vom
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Studien- und Prüfungsordnung: 
 
-**§ 1 Geltungsbereich** 
+## **§ 1 Geltungsbereich** 
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 für das Fach Informatik. 
 
@@ -38,7 +38,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Informatik kann im Bachelorstudiengang nur als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich des Moduls Bachelorarbeit im Umfang von 15 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Informatik erwerben die Studierenden grundlegende Fachkenntnisse auf dem Gebiet der Informatik, einschließlich der entsprechenden Methoden.[2] Der Studiengang bereitet auf die berufliche Tätigkeit z.B. in verschiedenen Wirtschaftsunternehmen oder öffentlicher Verwaltung vor.[3] Durch die Verbindung von wesentlichen Grundkenntnissen der Informatik werden in Kombination mit einem zweiten Fach die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
+(2)<sup>1</sup> Im Fach Informatik erwerben die Studierenden grundlegende Fachkenntnisse auf dem Gebiet der Informatik, einschließlich der entsprechenden Methoden.<sup>2</sup> Der Studiengang bereitet auf die berufliche Tätigkeit z.B. in verschiedenen Wirtschaftsunternehmen oder öffentlicher Verwaltung vor.<sup>3</sup> Durch die Verbindung von wesentlichen Grundkenntnissen der Informatik werden in Kombination mit einem zweiten Fach die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
 
 (3) Im Studium Informatik im Bachelorstudiengang sollen die Grundlagen für eine fachwissenschaftliche Ausbildung gelegt werden, welche die Studierenden zur eigenständigen Problemlösungen in den Bereichen Softwaresysteme, Datenverarbeitung oder Informationstechnologie befähigen. 
 
@@ -46,32 +46,30 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 3 Fächerkombinationen** 
 
-1Mit dem Fach Informatik können ohne Studienberatung die Fächer English and American Studies sowie Germanistik kombiniert werden.[2] Die Kombination mit dem Fach Linguistische Informatik ist ausgeschlossen.[3] Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Mit dem Fach Informatik können ohne Studienberatung die Fächer English and American Studies sowie Germanistik kombiniert werden.<sup>2</sup> Die Kombination mit dem Fach Linguistische Informatik ist ausgeschlossen.<sup>3</sup> Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
 (1) Im Studium Informatik sind folgende Module erfolgreich abzulegen: 
 
-|**Sem.1**|**Modul**||||**GOP**|
+|**Sem.**<sup>**1**</sup>|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|**GOP**|
 |---|---|---|---|---|---|
-|||**SWS**|**ECTS**|**Prüfungsleistungen**||
-|||||||
-|1|Algorithmen und Datenstrukturen|4V + 2Ü<br>2P|10|Klausur 120 Min. + S|*|
-||Konzeptionelle Modellierung|2V + 2Ü|5|Klausur 90 Min.|*|
+||Algorithmen und Datenstrukturen|4V + 2Ü<br>2P|10|Klausur 120 Min. + S|*|
+|1|Konzeptionelle Modellierung|2V + 2Ü|5|Klausur 90 Min.|*|
 ||Mathematik für Naturwissenschaftler|3V + 1Ü|5|Klausur 90 Min.|*|
-|2|Parallele und Funktionale Programmierung|2V + 2Ü|5|Klausur 60 Min.|*|
-||Grundlagen der Logik und<br>Logikprogrammierung|2V + 2Ü|5|Klausur 90 Min. + S|*|
+||Parallele und Funktionale Programmierung|2V + 2Ü|5|Klausur 60 Min.|*|
+|2|Grundlagen der Logik und<br>Logikprogrammierung|2V + 2Ü|5|Klausur 90 Min. + S|*|
 ||Theoretische Informatik für<br>Lehramtsstudierende|2V + 2Ü|5|Klausur 90 Min. + S|*|
-|3|Grundlagen der Technischen Informatik|4V + 2Ü|7,5|Klausur 120 Min. + S||
-||Grundlagen der Systemprogrammierung|2V + 1Ü<br>1P|5|Klausur 60 Min.||
+||Grundlagen der Technischen Informatik|4V + 2Ü|7,5|Klausur 120 Min. + S||
+|3|Grundlagen der Systemprogrammierung|2V + 1Ü<br>1P|5|Klausur 60 Min.||
 ||Math. Modellbildung und Statistik für Natur-<br>wissenschaftler|3V + 1Ü|5|Klausur 50 Min.||
-|4|Rechnerkommunikation|2V + 2Ü|5|Klausur 90 Min. + S||
-||Vertiefung Informatik I|2 + 2|5|b||
+||Rechnerkommunikation|2V + 2Ü|5|Klausur 90 Min. + S||
+|4|Vertiefung Informatik I|2 + 2|5|b||
 ||Seminar|2 S|5|b||
 |5|Vertiefung Informatik II|2 + 2|7,5|b||
 ||Implementierung von Datenbanksysteme|2V + 2Ü|5|Klausur 90 Min.||
-|6|Bachelorarbeit||12|||
-||Begleitseminar + Referat Bachelorarbeit|2|3|b||
+||Bachelorarbeit||12|||
+|6|Begleitseminar + Referat Bachelorarbeit|2|3|b||
 ||**Summe:**|**64**|**95**|||
 
 S = unbenoteter Schein für die Übung 
@@ -82,7 +80,7 @@ S = unbenoteter Schein für die Übung
 
 (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
+|||||**1**<br>|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|
 |---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Algorithmen und Datenstrukturen**|||**10,0**|||||||
@@ -128,14 +126,14 @@ S = unbenoteter Schein für die Übung
 
 3 
 
-|**Datenbanksysteme**|||**5,0**|||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Datenbanksysteme||2|||||5|||
-|Datenbanksysteme||2||||||||
-|**Bachelorthesis**|||**15,0**|||||||
-|Bachelorarbeit|||||||||12|
-|Begleitseminar + Referat Bachelorarbeit|||||||||3|
-|||||15|22,5|20|12,5|10|15|
+|**Datenbanksysteme**||**5,0**|||||||
+|---|---|---|---|---|---|---|---|---|
+|Datenbanksysteme|2|||||5|||
+|Datenbanksysteme|2||||||||
+|**Bachelorthesis**||**15,0**|||||||
+|Bachelorarbeit||||||||12|
+|Begleitseminar + Referat Bachelorarbeit||||||||3|
+||||15|22,5|20|12,5|10|15|
 
 *) Auch im Sommersemester (1., 3. Sem.) wählbar. 
 
@@ -145,13 +143,13 @@ Für die GOP im Fach Informatik sind 20 ECTS-Punkte aus den mit „GOP“ gekenn
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung ist im Fach Informatik bestanden, wenn am Ende des dritten Semesters Module aus dem ersten Studienjahr (erstes und zweites Semester) im Umfang von 20 ECTS-Punkten spätestens im Zweitversuch bestanden sind.[2] Wählbare Module aus dem ersten Studienjahr sind in der Tabelle des § 4 Abs. 1 und 2 in der Spalte "GOP" als GOP-fähig markiert. 
+(1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung ist im Fach Informatik bestanden, wenn am Ende des dritten Semesters Module aus dem ersten Studienjahr (erstes und zweites Semester) im Umfang von 20 ECTS-Punkten spätestens im Zweitversuch bestanden sind.<sup>2</sup> Wählbare Module aus dem ersten Studienjahr sind in der Tabelle des § 4 Abs. 1 und 2 in der Spalte "GOP" als GOP-fähig markiert. 
 
-(2)[1] Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte sind der Tabelle des § 4 Abs. 1 und 2 zu entnehmen.[2] Die Art und Dauer der Prüfungen der Grundlagen- und Orientierungsprüfung im Fach Informatik sind der der Tabelle des § 4 Abs. 1 und 2 zu entnehmen. 
+(2)<sup>1</sup> Der Umfang der den Modulen zugeordneten Lehrveranstaltungen in SWS und die Zahl der ECTS-Punkte sind der Tabelle des § 4 Abs. 1 und 2 zu entnehmen.<sup>2</sup> Die Art und Dauer der Prüfungen der Grundlagen- und Orientierungsprüfung im Fach Informatik sind der der Tabelle des § 4 Abs. 1 und 2 zu entnehmen. 
 
 ## **§ 6 Besondere Bestimmungen zur Bachelorarbeit** 
 
-1Das Modul Bachelorarbeit umfasst 15 ECTS-Punkte. 2Es besteht aus der schriftlichen Bachelorarbeit im Umfang von 12 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten.[3] Die Dauer des Referats beträgt ca. 30 Minuten zuzüglich einer anschließenden Diskussion im Umfang von ca. 15 Minuten. 
+1Das Modul Bachelorarbeit umfasst 15 ECTS-Punkte. 2Es besteht aus der schriftlichen Bachelorarbeit im Umfang von 12 ECTS-Punkten und dem „Begleitseminar mit Referat“ im Umfang von 3 ECTS-Punkten.<sup>3</sup> Die Dauer des Referats beträgt ca. 30 Minuten zuzüglich einer anschließenden Diskussion im Umfang von ca. 15 Minuten. 
 
 ## **§ 7 Schluss- und Übergangsvorschriften** 
 

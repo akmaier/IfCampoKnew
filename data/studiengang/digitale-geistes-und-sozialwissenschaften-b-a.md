@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:44:21+00:00
+scraped_at: 2026-07-01T08:20:49+00:00
 ---
 
 # Digitale Geistes- und Sozialwissenschaften (B.A.)
@@ -53,7 +53,7 @@ Einzelne Studieninhalte sind u.a.:
 * Webtechnologien
 * Kenntnisse für einen verantwortungsbewussten Umgang mit digitalen Daten (Rechtsfragen, Kommunikationsplattformen)
 
-### Bachelor of Arts (2 Fächer) Digitale Geistes- und Sozialwissenschaften
+### Fachanteile des Studiengangs Digitale Geistes- und Sozialwissenschaften (B.A.)
 
 * DH-Grundlagen (Schwerpunkte: Sprache & Text, Gesellschaft & Raum, Bild & Medien) (32%)
 * Wahlbereich & Praxismodul (29%)
@@ -73,7 +73,7 @@ Folgende Module sind vorgesehen:
 * DH-Modul 1: Sprache und Text
 * DH-Modul 2: Gesellschaft und Raum
 * DH-Modul 3: Bild und Medien
-* Praxismodul
+* Praxis- und Projektmodul
 * Wahlpflichtbereich: Digitale Geistes- und Sozialwissenschaften in Theorie und Praxis
 
 ### Was sollte ich mitbringen?
@@ -124,7 +124,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 * [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -219,6 +219,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

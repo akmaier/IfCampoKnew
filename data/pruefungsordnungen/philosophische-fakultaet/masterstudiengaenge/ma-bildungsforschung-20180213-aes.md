@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Bildungsforschung 20180213 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Erziehungswissenschaftlich-_Empirische_Bildungsforschung/Aenderungssatzungen/MA_Bildungsforschung_20180213_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:14+00:00
-page_count_chars: 12922
+scraped_at: 2026-07-01T09:42:05+00:00
+page_count_chars: 12997
 ---
 
 # MA Bildungsforschung 20180213 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 12922
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Erziehungswissenschaftlich-_Empirische_Bildungsforschung/Aenderungssatzungen/MA_Bildungsforschung_20180213_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEE-BF – Vom 13. Februar 2018** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEE-BF – Vom 13. Februar 2018** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -28,13 +28,13 @@ Nach der Abkürzung „ **ABMStPO/Phil** “ wird das Zeichen „–“ und die 
 
 ## **„§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss eines erziehungswissenschaftlichen Studiengangs bzw. eines Lehramtsstudiengangs.[2] Dieser fachspezifische Abschluss muss einen Gesamtumfang von mindestens 180 ECTS-Punkten aufweisen.[3] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden insbesondere Bachelorabschlüsse mit einem Anteil von mindestens 30 ECTSPunkten aus dem erziehungswissenschaftlichen Bereich anerkannt.[4] Davon können sich maximal bis zu 10 ECTS-Punkte auf erziehungswissenschaftlichempirische Forschungsmethoden beziehen. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss eines erziehungswissenschaftlichen Studiengangs bzw. eines Lehramtsstudiengangs.<sup>2</sup> Dieser fachspezifische Abschluss muss einen Gesamtumfang von mindestens 180 ECTS-Punkten aufweisen.<sup>3</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden insbesondere Bachelorabschlüsse mit einem Anteil von mindestens 30 ECTSPunkten aus dem erziehungswissenschaftlichen Bereich anerkannt.<sup>4</sup> Davon können sich maximal bis zu 10 ECTS-Punkte auf erziehungswissenschaftlichempirische Forschungsmethoden beziehen. 
 
 (2) Bewerberinnen und Bewerber mit einem fachspezifischen bzw. fachverwandten Abschluss mit einer Gesamtnote bzw. einem Durchschnitt der bisherigen Leistungen von 3,01 bis 3,50 müssen gemäß **Anlage 1** Abs. 2 Satz 2 Ziffer 2 **ABMStPO/Phil** mit den Bewerbungsunterlagen zusätzlich den Nachweis eines mindestens drei monatigen Praktikums im Bereich der Erziehungswissenschaft oder Bildungsforschung mit forschungsbezogener, wissenschaftlicher Tätigkeit einreichen. 
 
 1 
 
-(3)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen bzw. fachverwandten Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für solche i. S. d. Abs. 2 findet ein Auswahlgespräch statt.[2] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 3Das Auswahlgespräch soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.[4] In dem mündlichen Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender Kriterien beurteilt: 
+(3)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen bzw. fachverwandten Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für solche i. S. d. Abs. 2 findet ein Auswahlgespräch statt.<sup>2</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 3Das Auswahlgespräch soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>4</sup> In dem mündlichen Auswahlgespräch wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender Kriterien beurteilt: 
 
 1. Fähigkeit zu selbstständigem wissenschaftlichen Arbeiten und Kenntnisse elementarer Methoden sozialwissenschaftlicher Forschung, 
 
@@ -60,7 +60,7 @@ Nach dem Wort „nach“ werden die Worte „der Anlage“ durch die Worte „de
 
    - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 6. Die Anlage wird wie folgt geändert: 
 
@@ -174,48 +174,44 @@ Nach dem Wort „nach“ werden die Worte „der Anlage“ durch die Worte „de
 
 - pp) Es werden folgende Fußnoten angefügt: 
 
-   - (1) „[1] Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
+   - (1) „<sup>1</sup> Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
 
-   - (2) „[2] Zur Wahl stehen die Profilbereiche „Medienpädagogik“, „Heterogenität und Diversity-Management“ und „Qualitätsentwicklung in Bildungsinstitutionen“. Modul 6 und 7 müssen im gleichen Profilbereich belegt werden“ 
+   - (2) „<sup>2</sup> Zur Wahl stehen die Profilbereiche „Medienpädagogik“, „Heterogenität und Diversity-Management“ und „Qualitätsentwicklung in Bildungsinstitutionen“. Modul 6 und 7 müssen im gleichen Profilbereich belegt werden“ 
 
 5 
 
 ## c) Nach Anlage 1 wird folgende Anlage 2 angefügt: 
 
-## „ **Anlage 2: Exemplarischer Studienverlaufsplan Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungsforschung (Teilzeit)** 
+## „ **Anlage 2: Exemplarischer Studienverlaufsplan Masterstudiengang Erziehungswissenschaftlich-Empirische Bildungs-** **<u>forschung (Teilzeit)</u>** 
 
-|Modulbezeichnung|Lehrveran-<br>staltung|||||ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|5.<br>Sem.|6.<br>Sem.|7.<br>Sem.|8.<br>Sem.|Art und Umfang der Prüfungsleistungen|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-|||||||||||||||||
-|||V|Ü|P|S||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||
-|**Modul 1:**<br>**Erziehungswissenschaftliche Grundlagen**|Vorlesung|2||||10|4||||||||mündliche Prüfung 15-30 Min. oder<br>Klausur 90-120 Min.1|
-||Seminar||||2||4|||||||||
-||Mentorat||1||||2|||||||||
-|**Modul 2:**<br>**Erziehungswissenschaftliche Vertiefung**|Seminar||||2|10|||8||||||Seminararbeit, ca. 20-40 Seiten|
-||Mentorat||2||||||2|||||||
-|**Modul 3:**<br>**Methoden der Empirischen Bildungs-**<br>**forschung – Grundlagen**|Seminar||||2|10|4||||||||mündliche Prüfung 15-30 Min. oder<br>Klausur 90-120 Min.1|
-||Seminar||||2|||4||||||||
-||Mentorat||1|||||2||||||||
-|**Modul 4:**|Seminar||||2|||8|||||||Seminararbeit, ca. 20-40 Seiten|
-|**Methoden der Empirischen Bildungs-**<br>**forschung – Vertiefung**|Mentorat||2|||10|||2|||||||
-|**Modul 5:**<br>**Ergebnisse der Empirischen Bildungs-**<br>**forschung in schulischen und außer-**<br>**schulischen Feldern**|Seminar 1||||2|10|||4||||||Präsentation ca. 45 Min. (30 %) und<br>mündliche Prüfung 15-30 Min. oder<br>Klausur 90-120 Min.1(70 %)|
-||Seminar 2||||2|||||4||||||
-||Mentorat||1|||||||2||||||
-|**Modul 6:**<br>**Profilgrundlagen (Wahlpflicht)**2|Vorlesung|2||||||||4|||||mündliche Prüfung 15-30 Min. oder<br>Klausur 90-120 Min.1|
-|||||||||||||||||
-||Seminar||||2|10||||4||||||
-||Mntrt||1|||||||2||||||
-||eoa|||||||||||||||
-|**Modul 7:**<br>**Profilvertiefung (Wahlpflicht)**2|Seminar||||2|10|||||8||||Seminararbeit, ca. 20-40 Seiten|
-||Mentorat||2||||||||2|||||
-||Seminar 1||||2||||||4||||mündliche Prüfung 15-30 Min. oder<br>Klausur 90-120 Min.1|
-|**Modul 8: Projektgrundlagen**|Seminar 2||||2|10||||||4||||
-||Projekt||1||||||||2|||||
-|**Modul 9: Projektdurchführung**|Seminar||||2|10||||||2|||Projektbericht ca. 20-40 Seiten (50 %)<br>und Präsentation des Projektberichts<br>ca. 15-30Min.(50 %)|
-||Projekt||1|||||||||8||||
-|**Modul 10: Masterarbeit**||||||30|||||||15|15|Masterarbeit ca.80 Seiten|
-||Summe:|4|12|0|24|120|14|14|16|16|16|14|15|15||
+|Modulbezeichnung|Lehrveran-<br>staltung|SW<br>V<br>Ü|S<br>P<br>S|ECTS|1.<br>Sem.<br>ECTS|2.<br>Sem.<br>3.<br>Sem.<br>ECTS<br>ECTS|4.<br>Sem.<br>ECTS|5.<br>Sem.<br>ECTS|6.<br>Sem.<br>7.<br>Sem.<br>ECTS<br>ECTS|8.<br>Sem.<br>ECTS|Art und Umfang der Prüfungsleistungen|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modul 1:**|Vorlesung<br>|2|||4<br>||||||mündliche Prüfung 15-30 Min oder|
+|<br>|Seminar||2|10|4||||||.<br> <sup>1</sup>|
+|**Erziehungswissenschaftliche Grundlagen**|Mentorat|1|||2||||||Klausur 90-120 Min.|
+|**Modul 2:**|Seminar||2|10||8|||||Sibit  2040 Sit|
+|**Erziehungswissenschaftliche Vertiefung**|Mentorat|2||||2|||||emnarare, ca. - een|
+|**Modul 3:**|Seminar||2||4||||||lih Pf 1 Mi|
+|**Methoden der Empirischen Bildungs-**|Seminar||2|10||4|||||mündce rüung 5-30 n. oder<br>Kl 90120 Mi<sup>1</sup>|
+|**forschung – Grundlagen**|Mentorat|1||||2|||||ausur - n.|
+|**Modul 4:**|Seminar||2|||8||||||
+|**Methoden der Empirischen Bildungs-**<br>**forschung – Vertiefung**|Mentorat|2||10||2|||||Seminararbeit, ca. 20-40 Seiten|
+|**Modul 5:**<br>|Seminar 1||2|||4|||||Präsentation ca. 45 Min. (30 %) und|
+|**Ergebnisse der Empirischen Bildungs-**<br>**forschung in schulischen und außer-**|Seminar 2||2|10|||4||||<br>mündliche Prüfung 15-30 Min. oder<br>|
+|<br>**schulischen Feldern**|Mentorat|1|||||2||||Klausur 90-120 Min.<sup>1</sup>(70 %)|
+|**Modul 6:**|Vorlesung|2|||||4||||üdlih Püf 1530 Mi d|
+|<br>|Seminar||2|10|||4||||mnce rung - n. oer<br>|
+|<sup>2</sup>|||||||||||Kl 90120 Mi<sup>1</sup>|
+|**Profilgrundlagen (Wahlpflicht)**|Mentorat|1|||||2||||ausur - n.|
+|**Modul 7:**|Seminar||2|||||8||||
+|**Profilvertiefung (Wahlpflicht)**<sup>2</sup>|Mentorat|2||10||||2|||Seminararbeit, ca. 20-40 Seiten|
+||Seminar 1||2|||||4|||üdlih Püf 1530 Mi d|
+|**Modul 8: Projektgrundlagen**|Seminar 2||2|10|||||4||mnce rung - n. oer<br>Klausur 90-120 Min<sup>1</sup>|
+||Projekt|1||||||2|||.|
+||Seminar||2||||||2||Projektbericht ca. 20-40 Seiten (50 %)<br>|
+|**Modul 9: Projektdurchführung**|Projekt|1||10|||||8||und Präsentation des Projektberichts<br>ca. 15-30Min.(50 %)|
+|**Modul 10: Masterarbeit**||||30|||||15|15|Masterarbeit ca.80 Seiten|
+||Summe:|4<br>12|0<br>24|120|14|14<br>16|16|16|14<br>15|15||
 
 1 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der jeweils gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
 

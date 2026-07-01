@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Frankoromanistik 20210624 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Frankoromanistik/Aenderungssatzungen/2-Fach-BA_Frankoromanistik_20210624_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:56:58+00:00
-page_count_chars: 19594
+scraped_at: 2026-07-01T10:18:19+00:00
+page_count_chars: 19039
 ---
 
 # 2-Fach-BA Frankoromanistik 20210624 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 19594
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Frankoromanistik/Aenderungssatzungen/2-Fach-BA_Frankoromanistik_20210624_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU)** 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 24. Juni 2021** 
+# **Vom 24. Juni 2021** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 28. Juli 2017, wird wie folgt geändert: 
 
@@ -54,7 +54,7 @@ aa) Satz 1 wird wie folgt geändert:
 
 5. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a Empfohlene Grundkenntnisse** 
+# „ **§ 3a Empfohlene Grundkenntnisse** 
 
 1Empfohlen werden zu Studienbeginn Kenntnisse der französischen Sprache auf dem Niveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER). 2Dieses Niveau wird in der Regel durch einen Einstufungstest vor Beginn der Vorlesungszeit des ersten Fachsemesters nachgewiesen.“ 
 
@@ -84,21 +84,21 @@ aa) Satz 1 wird wie folgt geändert:
 
 2 
 
-      - b) Variante b): Aufbaumodule Französische Sprachwissenschaft 1 und 2 und Französische Sprachpraxis 3 und 4 oder 
+         - b) Variante b): Aufbaumodule Französische Sprachwissenschaft 1 und 2 und Französische Sprachpraxis 3 und 4 oder 
 
-      - c) Variante c): Aufbaumodule Französische Literatur- und Kulturwissenschaft 1 und 2 und Französische Sprachpraxis 3 und 4. 
+         - c) Variante c): Aufbaumodule Französische Literatur- und Kulturwissenschaft 1 und 2 und Französische Sprachpraxis 3 und 4. 
 
-   3. Dritte Studienphase (20 ECTS-Punkte): Vertiefungsmodul Französische Sprachwissenschaft oder Vertiefungsmodul Französische Literatur- und Kulturwissenschaft und 
+      3. Dritte Studienphase (20 ECTS-Punkte): Vertiefungsmodul Französische Sprachwissenschaft oder Vertiefungsmodul Französische Literatur- und Kulturwissenschaft und 
 
-      - a) Variante a): Französische Sprachpraxis 3 (wenn in der zweiten Studienphase Variante a) gewählt wurde) oder 
+         - a) Variante a): Französische Sprachpraxis 3 (wenn in der zweiten Studienphase Variante a) gewählt wurde) oder 
 
-      - b) Variante b): Französische Sprachpraxis 5 und 6 (wenn in der zweiten Studienphase Varianten b) oder c) gewählt wurden).“ 
+         - b) Variante b): Französische Sprachpraxis 5 und 6 (wenn in der zweiten Studienphase Varianten b) oder c) gewählt wurden).“ 
 
 - d) In Abs. 4 werden nach den Worten und der Ziffer „siehe **Anlage 1** “ folgende Zeichen, Ziffer und Worte angefügt: 
 
-„(Studium als Erstfach) und **Anlage 2** (Studium als Zweitfach)“. 
+   - „(Studium als Erstfach) und **Anlage 2** (Studium als Zweitfach)“. 
 
-e) Abs. 5 wird gestrichen. 
+- e) Abs. 5 wird gestrichen. 
 
 - f) Abs. 6 wird zum neuen Abs. 5 und Abs. 7 wird zum neuen Abs. 6. 
 
@@ -114,75 +114,66 @@ bb) Satz 1 (neu) wird wie folgt geändert:
 
 cc) Nach dem neuen Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Ergänzend wird darauf hingewiesen, dass auch in weiteren Lehrveranstaltungen und Prüfungen des Studiengangs französische Texte bearbeitet werden.“ 
+„<sup>2</sup> Ergänzend wird darauf hingewiesen, dass auch in weiteren Lehrveranstaltungen und Prüfungen des Studiengangs französische Texte bearbeitet werden.“ 
 
 7. Die Regelung in § 6 wird aufgehoben. 
 
 8. In § 8 wird aus der bisherigen Regelung der neue Abs. 1 und es wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die zehnte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(2)<sup>1</sup> Die zehnte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 3 
 
-## 9. Die Tabelle in **Anlage 1** erhält samt Erläuterungen folgende neue Fassung: 
+# 9. Die Tabelle in **Anlage 1** erhält samt Erläuterungen folgende neue Fassung: 
 
-## „ **Anlage 1: Frankoromanistik als Erstfach** 
+# „ **Anlage 1: Frankoromanistik als Erstfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-|||||||||Semester in ECTS-Punkten**1**|||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach: Frankoromanistik**|||||||||||||||
-|**Pflichtcurriculum **|||||||||||||||
-|**Französische**<br>**Sprachpraxis 1**|Hörverstehen<br>(Compréhension orale)||2|||10|(2)|(2)|||||Klausur (90‘)|1|
-||Grammatik und Wortschatz I<br>(Parcoursgrammatical et lexical I)||4||||4||||||||
-||Grammatik und Wortschatz II<br>(Parcoursgrammatical et lexical II)||4||||(4)|(4)|||||||
-|**Französische**<br>**Sprachpraxis 22**|Parcours grammatical III||2|||||3|||||Klausur (90‘) (100 %) und<br>Aussprachetest (ca. 20’) (0 %)|1|
-||Phéi i||2|||5||2|||||||
-||ontque pratque||||||||||||||
-|**Basismodul Französische**<br>**Sprachwissenschaft**|Basisseminar Französische<br>Sprachwissenschaft||||2|5|5||||||Klausur (90‘)|1|
-|**Basismodul Französische**<br>**Literaturwissenschaft**|Basisseminar Französische<br>Literaturwissenschaft||||2|5||5|||||Klausur (90‘)|1|
-|**Französische**<br>**Sprachpraxis 32**|Introduction à la civilisation||2|||10|||4||||Schriftliche Prüfung (180’) (100 %)_oder_<br>Klausur (90‘) (60 %) und<br>Version (90‘) (40 %)**3, 4**|1|
-||Traduction version||2||||||3||||||
-||Communication orale et civilisation||2|||||||3|||||
-|**Aufbaumodul Französische**<br>**Sprachwissenschaft 1**|Phonetik und Phonologie des<br>Französischen||1|||5||2|||||Klausur (45‘) (30 %) und<br>Hausarbeit (10 S.) (70 %)**5**|1|
-||Proseminar||||2||||3||||||
-|**Aufbaumodul Französische**<br>**Sprachwissenschaft 2**|Vorlesung|2||||5|||2||||Klausur (90‘)|1|
-||Aufbauseminar||||2|||||3|||||
-|**Aufbaumodul Französische**<br>**Literatur- und Kulturwissen-**<br>**schaft 1**|Proseminar||||2|5|||2||||Referat (20‘)_oder_<br>Protokoll (2 S.)**6**|1|
-||Aufbauseminar||||2||||3||||||
-|**Aufbaumodul Französische**<br>**Literatur- und Kulturwissen-**<br>**schaft 2**|Proseminar||||2|5||||5|||Hausarbeit (10 S.)|1|
+|||SWS||Gesamt||Work<br>|load-V<br>|erteilung pro<br>|Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnun|Lehrveranstaltun|||||Semest|er in E|CTS-Punkten<sup>**1**</sup><br>Art und Umfan der Prüfun|Modul-|
+|g|g|||ECTS||||<br>g  g||
+|**Erstfach: Frankoromanistik**<br>**Pflichtcurriculum **||V<br>Ü<br>P|S||1.|2.|3.|4.<br>5.<br>6.|note|
+||Hörverstehen<br>(Compréhension orale)|2|||(2)|(2)||||
+|**Französische**<br>**Sprachpraxis 1**|Grammatik und Wortschatz I<br>(Parcoursgrammatical et lexical I)|4||10|4|||Klausur (90‘)|1|
+||Grammatik und Wortschatz II<br>(Parcoursgrammatical et lexical II)|4|||(4)|(4)||||
+|**Französische**<br>|Parcours grammatical III|2||5||3||Klausur (90‘) (100 %) und|1|
+|**Sprachpraxis 2**<sup>**2**</sup>||||||||Aussprachetest (ca. 20’) (0 %)||
+||Phonétique pratique|2||||2||||
+|**Basismodul Französische**<br>**Sprachwissenschaft**|Basisseminar Französische<br>Sprachwissenschaft||2|5|5|||Klausur (90‘)|1|
+|**Basismodul Französische**<br>**Literaturwissenschaft**|Basisseminar Französische<br>Literaturwissenschaft||2|5||5||Klausur (90‘)|1|
+||Introduction à la civilisation|2|||||4|’||
+|**Französische**<br>**Sprachpraxis 3**<sup>**2**</sup>|Traduction version|2||10|||3|Schriftliche Prüfung (180) (100 %)_oder_<br>Klausur (90‘) (60 %) und<br>Version (90‘) (40 %)<sup>**3, 4**</sup>|1|
+||Communication orale et civilisation|2||||||<br>3||
+|**Aufbaumodul Französische**|Phonetik und Phonologie des<br>Französischen|1||5||2||Klausur (45‘) (30 %) und<br>|1|
+|**Sprachwissenschaft 1**|Proseminar||2||||3|Hausarbeit (10 S.) (70 %)<sup>**5**</sup>||
+|**Aufbaumodul Französische**|Vorlesung|2||5|||2|Kl 90‘|1|
+|**Sprachwissenschaft 2**|Aufbauseminar||2|||||ausur ()<br>3||
+|**Aufbaumodul Französische**<br>**Litt d Klti**|Proseminar||2|5|||2|Referat (20‘)_oder_|1|
+|**eraur- un uurwssen-**<br>**schaft 1**|Aufbauseminar||2||||3|Protokoll (2 S.)<sup>**6**</sup>||
+|**Aufbaumodul Französische**<br>**Literatur- und Kulturwissen-**<br>**schaft 2**|Proseminar||2|5||||5<br>Hausarbeit (10 S.)|1|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||Semester in ECTS-Punkten**1**|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Französische**<br>**Sprachpraxis 42**|Expression écrite I||2|||5||||2|||Klausur (90’)|1|
-||Grammaire appliquée||2|||||||3|||||
-|**Französische**<br>**Sprachpraxis 52**|Expression écrite II||2|||5|||||3||Textproduktion (90‘)|1|
-||Grammaire et stylistique||2||||||||2||||
-|**Französische**<br>**Sprachpraxis 62**|Civilisation||2|||||||||3|Mündl. Prüfung (15’) (60 %) und<br>Übersetzung (90’) (40 %)|1|
-|||||||5|||||||||
-||Thème||2|||||||||2|||
-|**Wahlpflichtbereich (Es ist eines der beiden Module zu wählen.)**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|**Vertiefungsmodul Französi-**<br>**sche Sprachwissenschaft**|Mittelseminar||||2|(10)|||||6||Hausarbeit (15 S.) (50 %) und<br>Klausur (60-90‘)_oder_<br>mündl. Prüfung (15-20’) (50 %)**6, 7**|1|
-||Vorlesung|2||||||||||4|||
-|**Vertiefungsmodul Französi-**<br>**sche Literatur- und Kultur-**<br>**wissenschaft**|Mittelseminar||||2|(10)|||||6||Hausarbeit (15 S.)|1|
-||Mittelseminar||||2|||||||4|||
-|Summe SWS und ECTS-Punkte im Erstfach:||2-<br>4|33||16-<br>18|80|15|12|17|16|11|9|||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
-|Module des Zweitfachs**8**|vgl. FPO des Zweitfachs|||||70|0-15|0-18|0-13|0-14|0-19|0-11|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen **|||||||||||||||
-|**Schlüsselqualifikations-**<br>**module**|**9**|||||20|0-15|0-18|0-13|0-14|0-19|0-11|**9**|0|
-|**Bachelorarbeit im Erstfach (Frankoromanistik)**|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (40 S.)|2|
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>||Workload-V<br>Semester in E|erteilung<br>CTS-Pun|pro<br>kten<sup>**1**</sup>||Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|ECTS<br>S|1.|2.<br>3.|4.|5.|6.||note|
+|**Französische**<br>|Expression écrite I|2|5|||2|||Klausur (90’)|1|
+|**Sprachpraxis 4**<sup>**2**</sup>|Grammaire appliquée|2||||3|||||
+|**Französische**|Expression écrite II|2|||||3||‘||
+|**Sprachpraxis 5**<sup>**2**</sup>|Grammaire et stylistique|2|5||||2||Textproduktion (90)|1|
+|**Französische**<br>|Civilisation|2|5|||||3|Mündl. Prüfung (15’) (60 %) und<br>|1|
+|**Sprachpraxis 6**<sup>**2**</sup>|||||||||Übersetzung (90’) (40 %)||
+||Thème|2||||||2|||
+|**Wahlpflichtbereich (Es ist ein**|<br>**es der beiden Module zu wählen.)**<br>||||||||||
+|**Vertiefungsmodul Französi-**|Mittelseminar||2<br>(10)||||6||Hausarbeit (15 S.) (50 %) und<br>Klausur (60-90‘)_oder_|1|
+|**sche Sprachwissenschaft**|Vorlesung|2||||||4|<br>mündl. Prüfung (15-20’) (50 %)<sup>**6, 7**</sup>||
+|**Vertiefungsmodul Französi-**<br>**sche Literatur- und Kultur-**|Mittelseminar||2<br>(10)||||6||Hausarbeit (15 S)|1|
+|<br>**wissenschaft**|Mittelseminar||<br>2|||||4|.||
+|Summe<br>**Zweitfach (Kombinationsmögl**|SWS und ECTS-Punkte im Erstfach:<br>**ichkeiten gemäß Anlage 3 der ABMS**|2-<br>4<br>33<br>**tPO/Phil)**|16-<br>18<br>80|15|12<br>17|16|11|9|||
+|Module des Zweitfachs<sup>**8**</sup>|vgl. FPO des Zweitf|achs|70|0-15|0-18<br>0-13|0-14|0-19|0-11|vgl. FPO des Zweitfachs||
+|**Schlüsselqualifikationen **|||||||||||
+|**Schlüsselqualifikations-**<br>**module**<br>**Bachelorarbeit im Erstfach (F**|**9**<br>**rankoromanistik)**||20|0-15|0-18<br>0-13|0-14|0-19|0-11|**9**|0|
+|Bachelorarbeit|SummeECTS-Punkteim Zwei-F|ach-Bachelorstu|10<br>dium:<br>180|30|30<br>30|30|30|10<br>30|Bachelorarbeit (40 S.)|2|
 
 5 
 
@@ -204,61 +195,55 @@ cc) Nach dem neuen Satz 1 wird folgender neuer Satz 2 angefügt:
 
 6 
 
-## 10. Nach **Anlage 1** wird folgende neue **Anlage 2** angefügt: 
+# 10. Nach **Anlage 1** wird folgende neue **Anlage 2** angefügt: 
 
-## „ **Anlage 2: Frankoromanistik als Zweitfach** 
+# „ **Anlage 2: Frankoromanistik als Zweitfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü||P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**||||||||||||||||
-|Module des Erstfachs**2**|vgl. FPO des Erstfachs||||||70-90|0-15|0-18|0-18|0-19|0-19|0-11|vgl. FPO des Erstfachs||
-|**Zweitfach: Frankoromanistik**||||||||||||||||
-|**1.Studienphase: Es sind alle Module imUmfang von insgesamt 25 ECTS-Punkten zu belegen.**||||||||||||||||
-|**Französische**<br>**Sprachpraxis 1**|Hörverstehen<br>(Compréhension orale)||2||||10|(2)|(2)|||||Klausur (90‘)|1|
-||Grammatik und Wortschatz I<br>(Parcoursgrammatical et lexical I)||4|||||4||||||||
-||Grammatik und Wortschatz II<br>(Parcoursgrammatical et lexical II)||4|||||(4)|(4)|||||||
-|**Französische**<br>**Sprachpraxis 23**|Parcours grammatical III||2||||||3|||||Klausur (90‘) (100 %) und<br>Aussprachetest (ca. 20’) (0 %)|1|
-||||||||5|||||||||
-||Phonétique pratique||2||||||2|||||||
-|**Basismodul Französische**<br>**Sprachwissenschaft**|Basisseminar Französische<br>Sprachwissenschaft|||||2|5|5||||||Klausur (90‘)|1|
-|**Basismodul Französische**<br>**Literaturwissenschaft**|Basisseminar Französische<br>Literaturwissenschaft|||||2|5||5|||||Klausur (90‘)|1|
-|**2.Studienphase: Es sind Module imUmfang von insgesamt 25 ECTS-Punkten zu belegen, Wahlmöglichkeiten vgl.§ 4 Abs. 3 Nr. 2.**||||||||||||||||
-|**Aufbaumodul Französische**<br>**Sprachwissenschaft 1**|Phonetik und Phonologie des<br>Französischen||1||||(5)||2|||||Klausur (45‘) (30 %) und<br>Hausarbeit (10 S.) (70 %)**4**|1|
-||Proseminar|||||2||||3||||||
-|**Aufbaumodul Französische**<br>**Sprachwissenschaft 2**|Vorlesung|2|||||(5)|||2||||Klausur (90‘)|1|
-||Aufbauseminar|||||2|||||3|||||
-|**Aufbaumodul Französische**<br>**Literatur- und**<br>**Kulturwissenschaft 1**|Proseminar|||||2|(5)|||2||||Referat (20‘)_oder_<br>Protokoll (2 S.)**5**|1|
-||Aufbauseminar|||||2||||3||||||
-|**Aufbaumodul Französische**<br>**Literatur- und**|Proseminar|||||2|(5)||||5|||Hausarbeit (10 S.)|1|
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>||Gesamt<br>ECTS||Wo<br>Seme|rkload-Verteilun<br>ster in ECTS-Pu|g pro<br>nkten<sup>**1**</sup>|Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Erstfach (Kombinationsmöglic**|<br>**hkeiten gemäß Anlage 3 der ABMStPO**|V<br>Ü<br>P<br>**/Phil)**|S||1.|2.|3.<br>4.|5.|6.|note|
+|Module des Erstfachs<sup>**2**</sup>|vgl. FPO des Erstfac|hs||70-90|0-15|0-18|0-18<br>0-19|0-19|0-11<br>vgl. FPO des Erstfachs||
+|**Zweitfach: Frankoromanistik**<br>**1.Studienphase: Es sind alle **|**Module imUmfang von insgesamt 25 E**|**CTS-Punkten **|**zu bel**|**egen.**|||||||
+||Hörverstehen<br>(Compréhension orale)|2|||(2)|(2)|||||
+|**Französische**<br>**Sprachpraxis 1**|Grammatik und Wortschatz I<br>(Parcoursgrammatical et lexical I)|4||10|4||||Klausur (90‘)|1|
+||Grammatik und Wortschatz II<br>(Parcoursgrammatical et lexical II)|4|||(4)|(4)|||||
+|**Französische**<br>|Parcours grammatical III|2||5||3|||Klausur (90‘) (100 %) und|1|
+|**Sprachpraxis 2**<sup>**3**</sup>|Phonétique pratique|2||||2|||Aussprachetest (ca. 20’) (0 %)||
+|**Basismodul Französische**<br>**Sprachwissenschaft**|Basisseminar Französische<br>Sprachwissenschaft||2|5|5||||Klausur (90‘)|1|
+|**Basismodul Französische**<br>**Literaturwissenschaft**|Basisseminar Französische<br>Littihft||2|5||5|||Klausur (90‘)|1|
+|<br>**2.Studienphase: Es sind Mod**|eraurwssensca<br>**ule imUmfang von insgesamt 25 ECTS**|**-Punkten zu b**|**elege**|**n, Wahlmögl**|**ichkeite**|**n vgl.**|**§ 4 Abs. 3 Nr. 2**|**.**|||
+|**Aufbaumodul Französische**|Phonetik und Phonologie des<br>Französischen|1||(5)||2|||Klausur (45‘) (30 %) und<br>|1|
+|**Sprachwissenschaft 1**|Proseminar||2||||3||Hausarbeit (10 S.) (70 %)<sup>**4**</sup>||
+|**Aufbaumodul Französische**|Vorlesung<br>|2||(5)|||2||Klausur (90‘)|1|
+|**Sprachwissenschaft 2**|Aufbauseminar||2||||3||||
+|**Aufbaumodul Französische**<br>|Proseminar||2||||2||Referat (20‘)_oder_||
+|**Literatur- und**<br>**Kulturwissenschaft 1**|Aufbauseminar||2|(5)|||3||<br>Protokoll (2 S.)<sup>**5**</sup>|1|
+|**Aufbaumodul Französische**<br>**Literatur- und**|Proseminar||2|(5)|||5||Hausarbeit (10 S.)|1|
 
 7 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**|Workload-Verteilung pro<br>Semester in ECTS-Punkten**1**||Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü||P|S||1.|2.|3.|4.|5.|6.|||
-|**Kulturwissenschaft 2**||||||||||||||||
-|**Französische**<br>**Sprachpraxis 33**|Introduction à la civilisation|||||2|10|||4||||Schriftliche Prüfung (180’) (100 %)_oder_<br>Klausur (90‘) (60 %) und<br>Version (90‘) (40 %)**6, 7**|1|
-||Traduction version||2|||||||3||||||
-||Communication orale et civilisation|||||2|||||3|||||
-|**Französische**<br>**Sprachpraxis 43**|Expression écrite I||2||||(5)||||2|||Klausur (90’)|1|
-||Grammaire appliquée||2||||||||3|||||
-|**3. Studienphase: Es sind Module imUmfang von insgesamt 20 ECTS-Punkten zu belegen, Wahlmöglichkeiten vgl.§ 4 Abs. 3 Nr.3.**||||||||||||||||
-|**Vertiefungsmodul Französi-**<br>**sche Sprachwissenschaft**|Mittelseminar|||||2|(10)|||||6||Hausarbeit (15 S.) (50 %) und<br>Klausur (60-90‘)_oder_<br>mündl. Prüfung (15-20’) (50 %)**5, 8**|1|
-||Vorlesung|2|||||||||||4|||
-|**Vertiefungsmodul Französi-**<br>**sche Literatur- und Kultur-**<br>**wissenschaft**|Mittelseminar|||||2|(10)|||||6||Hausarbeit (15 S.)|1|
-||Mittelseminar|||||2|||||||4|||
-|**Französische**<br>**Sprachpraxis 53**|Expression écrite II||2||||(5)|||||3||Textproduktion (90’)|1|
-||Grammaire et stylistique||2|||||||||2||||
-|**Französische**<br>**Sprachpraxis 63**|Civilisation||2||||||||||3|Mündl. Prüfung (15’) (60 %) und<br>Übersetzung (90’) (40 %)|1|
-||||||||(5)|||||||||
-||Thème||2||||||||||2|||
-|Summe SWS und ECTS-Punkte im Zweitfach:||0-<br>4|21-<br>29|||14-<br>22|70|15|12|12|11|11|9|||
-|**Schlüsselqualifikationen **||||||||||||||||
-|**Schlüsselqualifikations-**<br>**module**|**9**||||||10-30|0-15|0-18|0-18|0-19|0-19|0-11|**9**|0|
-|**Bachelorarbeit im Erstfach **||||||||||||||||
-|Bachelorarbeit|vgl. FPO des Erstfachs||||||10||||||10|vgl. FPO des Erstfachs||
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:|||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung||SWS<br><br>|<br>|Gesamt<br>ECTS||Workload-Verteilung<br>Semester in ECTS-Pu<br> <br><br>|pro<br>nkten<sup>**1**</sup><br>||Art und Umfang der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>|P<br>S||1.|2.<br>3.<br>4.|5.|6.||note|
+|**Kulturwissenschaft 2**||||||||||||
+||Introduction à la civilisation|||2|||4|||’||
+|**Französische**<br>**Sprachpraxis 3**<sup>**3**</sup>|Traduction version||2||10||3|||Schriftliche Prüfung (180) (100 %)_oder_<br>Klausur (90‘) (60 %) und<br>Version (90‘) (40 %)<sup>**6, 7**</sup>|1|
+||Communication orale et civilisation|||2|||3|||||
+|**Französische**<br>|Expression écrite I||2||(5)||2|||Klausur (90’)|1|
+|**Sprachpraxis 4**<sup>**3**</sup>|Grammaire appliquée||2||||3|||||
+|**3. Studienphase: Es sind Mod**|**ule imUmfang von insgesamt 20 EC**<br>|**TS-Pu**|**nkten zu**|**belegen**<br>|**, Wahlmö**|**glichkeite**|**n vgl.§ 4 Abs. 3 Nr.3.**|<br>||||
+|**Vertiefungsmodul Französi-**<br>|Mittelseminar|||2|(10)|||6||Hausarbeit (15 S.) (50 %) und<br>Klausur (60-90‘)_oder_|1|
+|**sche Sprachwissenschaft**|Vorlesung|2|||||||4|<br>mündl. Prüfung (15-20’) (50 %)<sup>**5, 8**</sup>||
+|**Vertiefungsmodul Französi-**<br>**sche Literatur- und Kultur-**|Mittelseminar|||2|(10)|||6||Hausarbeit (15 S.)|1|
+|<br>**wissenschaft**|Mittelseminar|||2|||||4|||
+|**Französische**<br>|Expression écrite II||2||(5)|||3||Textproduktion (90’)|1|
+|**Sprachpraxis 5**<sup>**3**</sup>|Grammaire et stylistique||2|||||2||||
+|**Französische**<br>|Civilisation||2||(5)||||3|Mündl. Prüfung (15’) (60 %) und<br>|1|
+|**Sprachpraxis 6**<sup>**3**</sup>|Thème||2||||||2|Übersetzung (90’) (40 %)||
+|Summe S<br>**Schlüsselqualifikationen **<br>|WS und ECTS-Punkte im Zweitfach:|0-<br>4|21-<br>29|14-<br>22|70|15|12<br>12<br>11|11|9|||
+|**Schlüsselqualifikations-**<br>|**9**||||10-30|0-15|0-18<br>0-18<br>0-19|0-19|0-11|**9**|0|
+|**module**<br>**Bachelorarbeit im Erstfach **||||||||||||
+|<br>Bachelorarbeit|vgl. FPO des Erstfa<br>SummeECTS-Punkteim Zwei-F|chs<br>ach-B|achelors|tudium:|10<br>180|30|30<br>30<br>30|30|10<br>30|vgl. FPO des Erstfachs||
 
 8 
 
@@ -268,9 +253,11 @@ cc) Nach dem neuen Satz 1 wird folgender neuer Satz 2 angefügt:
 
 - **3** 
 
+- **4** 
+
 - In diesem Modul ist die Unterrichts- und Prüfungssprache Französisch. 
 
-- **4** Die Klausur fällt ins 2. Fachsemester, die Hausarbeit ins 3. Fachsemester. 
+- Die Klausur fällt ins 2. Fachsemester, die Hausarbeit ins 3. Fachsemester. 
 
 - **5** Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. **6** Die Modulprüfung ist im 3. Fachsemester verortet. 
 
@@ -284,7 +271,7 @@ cc) Nach dem neuen Satz 1 wird folgender neuer Satz 2 angefügt:
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 21. April 2021 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 24. Juni 2021. 
 

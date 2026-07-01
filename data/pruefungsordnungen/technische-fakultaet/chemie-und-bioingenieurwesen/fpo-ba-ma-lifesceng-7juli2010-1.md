@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.09.2007 i.d.F. 07.07.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_LifeScEng-7JULI2010_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:35+00:00
-page_count_chars: 21675
+scraped_at: 2026-07-01T11:25:06+00:00
+page_count_chars: 21362
 ---
 
 # PDF vom 24.09.2007 i.d.F. 07.07.2010
@@ -14,7 +14,7 @@ page_count_chars: 21675
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE - Vom 24. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE - Vom 24. September 2007** 
 
 geändert durch Satzungen vom 17. Januar 2008 
 
@@ -34,7 +34,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1
 
 ## **§ 34 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Life Science Engineering mit den Abschlusszielen Bachelor und Master.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelorsowie Masterprüfungen an der Technischen Fakultät der Universität ErlangenNürnberg in der jeweils geltenden Fassung. 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Life Science Engineering mit den Abschlusszielen Bachelor und Master.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelorsowie Masterprüfungen an der Technischen Fakultät der Universität ErlangenNürnberg in der jeweils geltenden Fassung. 
 
 ## **§ 35 Bachelorstudiengang, Regelstudienzeit** 
 
@@ -54,7 +54,7 @@ Die Regelstudienzeit im Bachelorstudiengang Life Science Engineering beträgt, e
 
 ## **§ 37 Umfang der Grundlagen- und Orientierungsprüfung +)** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
+(1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
 
 1. B1: Mathematik für Ingenieurberufe D1 
 
@@ -136,9 +136,9 @@ w) dem Wahlpflichtmodul B31
 
 **+)** Für alle Studierenden, die das Studium **vor** dem WS 2010/2011 aufgenommen haben, gelten §§ 37 und 38 in der folgenden Fassung: 
 
-## _**§ 37 Umfang der Grundlagen- und Orientierungsprüfung**_ 
+## **_§ 37 Umfang der Grundlagen- und Orientierungsprüfung_** 
 
-_(1)[1] Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der_ _**Anlage 1** ausgewiesenen Module_ 
+_(1)_<sup>_1_</sup> _Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der_ **_Anlage 1_** _ausgewiesenen Module_ 
 
 _1. B1: Mathematik für Ingenieurberufe D1_ 
 
@@ -152,11 +152,11 @@ _5. B16: Messtechnik und Instrumentelle Analytik_
 
 _6. B17: Einführung in die Thermofluiddynamik_ 
 
-_2Die den Modulen zugeordneten ECTS Punkte sind der Spalte 4, die Art und Dauer der Prüfungen ist der Spalte 6 der_ _**Anlage 1** zu entnehmen._ 
+_2Die den Modulen zugeordneten ECTS Punkte sind der Spalte 4, die Art und Dauer der Prüfungen ist der Spalte 6 der_ **_Anlage 1_** _zu entnehmen._ 
 
 _(2) Die Grundlagen- und Orientierungsprüfung ist bestanden, wenn Module im Umfang von 30 ECTS-Punkten aus den in Absatz 1 genannten Modulen im Umfang von 40 ECTS-Punkten bestanden sind._ 
 
-## _**§ 38 Umfang und Gliederung der Bachelorprüfung**_ 
+## **_§ 38 Umfang und Gliederung der Bachelorprüfung_** 
 
 _(1) Die Bachelorprüfung besteht aus:_ 
 
@@ -216,13 +216,13 @@ _3. der Bachelorarbeit_
 
 3 
 
-_(2) Die Prüfungsdauer und der Prüfungsmodus (schriftlich oder mündlich) der Module ergeben sich aus der_ _**Anlage 1** (Spalte 6)._ 
+_(2) Die Prüfungsdauer und der Prüfungsmodus (schriftlich oder mündlich) der Module ergeben sich aus der_ **_Anlage 1_** _(Spalte 6)._ 
 
-- _(3) Das Wahlpflichtmodul B32 ist aus dem Katalog in der_ _**Anlage 2** zu wählen._ 
+- _(3) Das Wahlpflichtmodul B32 ist aus dem Katalog in der_ **_Anlage 2_** _zu wählen._ 
 
 ## **§ 39 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Life Science Engineering zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 5Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Life Science Engineering zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 5Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
 
 (2) Das Thema der Bachelorarbeit wird von einer oder einem an der FriedrichAlexander-Universität Erlangen-Nürnberg hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer ausgegeben, welche oder welcher Mitglied eines Institutes ist, das verantwortlich für eines der Module B25 bis B32 ist. 
 
@@ -232,7 +232,7 @@ _(2) Die Prüfungsdauer und der Prüfungsmodus (schriftlich oder mündlich) der 
 
 ## **§ 40 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen +)** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines dieser Prüfungsordnung gleichwertigen Abschlusses im Fach Life Science Engineering.[2] Bewerberinnen und Bewerber mit einem fachverwandten Abschluss bzw. eines nicht voll gleichwertigen Abschlusses können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 3 in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines dieser Prüfungsordnung gleichwertigen Abschlusses im Fach Life Science Engineering.<sup>2</sup> Bewerberinnen und Bewerber mit einem fachverwandten Abschluss bzw. eines nicht voll gleichwertigen Abschlusses können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 3 in das Masterstudium aufgenommen werden. 
 
 (2) Die Qualifikation zum Masterstudium Life Science Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOLSE-BScMSc) wird i. S. d. Anlage Abs. 5 Satz 2 Nr. 2 ABMPO/TechFak festgestellt, wenn mindestens 4 der Module B24 bis B30 des Bachelorstudiengangs mit dem Mittelwert der Modulnoten 3,0 oder besser abgelegt sind. 
 
@@ -290,188 +290,187 @@ Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 5 
 
-## **Anlage 1:** 
+### **Anlage 1:** 
 
 Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer **+** ) 
 
-|**Spalte 1**|**Spalte 2**||**Spalte 3**|**Spalte 3**|**Spalte 3**|**Spalte 4**|||**Spalte 5**|**Spalte 5**|**Spalte 5**|**Spalte 5**|**Spalte 6**|**Spalte 6**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Modul**|||**SWS**||**ECTS**|**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|**5. Sem.**|**6. Sem.**|**Prüfungsdauer in Min.**||
-||||**V**|**Ü**|**P**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**schriftlich**|**mündlich**|
-|B1|Mathematik für IngenieurberufeD1|GOP|4|||7,5|7,5||||||90||
-||Übung|||2|||||||||*)||
-|B2|Mathematik für IngenieurberufeD2|GOP|4|||7,5||7,5|||||90||
-||Übung|||2|||||||||*)||
-|B3|Mathematik für Ingenieurberufe D3||4|2||7,5|||7,5||||90||
-|B4|Computeranwendungen in der VT1||1|1|1|75||||2,5|||90||
-||Computeranwendungen in der VT2||2|1|1|,|||||5||90||
-||Allgemeine und Anorganische Chemie||4||||5||||||180||
-|B5|Anorganisch-chemisches Praktikum|GOP|||2|7,5|2||||||*||
-||Vorlesung zum Praktikum||1||||,5||||||)||
-|B6|Organische Chemie||4|1||75|||5||||180||
-||Organisch-chemisches Praktikum||||3|,|||2,5||||*)||
-|B7|Physikalische Chemie||2|1||||5|||||90||
-||ChemischeThermodynamik||2|1||15||||5|||90||
-||Physikalisch-chemisches Praktikum||||6||||2,5|2,5|||*)||
-|B8|BiochemieI||2|||5|||2,5||||60||
-||Biochemie II||2|||||||2,5|||60||
-|B9|Mikrobiologie||3|||2,5|||2,5||||90||
-|B10|Einführung in die Pharmazeutische Technologie||1|1||2,5|2,5||||||*)||
-|B11|Einführung in die Medizinische Biotechnologie||1|1||2,5|2,5||||||*)||
-|B12|Genetik||2|||2,5||2,5|||||*)||
-|B13|Biochemisches Praktikum oder Mikrobiologisches Praktikum||||3|2,5||||2,5|||*)||
-|B14|Experimentalphysik|GOP|4|1||7,5|7,5||||||120||
+|**Spalte 1**|<br>**Spalte 2**||**Sp**|**alte 3**|**Spalte 4**||**Spa**|**lte 5**||**Spal**|**te 6**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**S**|**WS**||**1.Sem.**|**2.Sem.**<br>**3. Sem.**|**4.Sem.**|**5. Sem.**<br>**6. Sem.**|**Prüfungsda**|**uer in Min.**|
+|**Nr.**|**Modul**||**V**|**Ü**<br>**P**|**ECTS**|**ECTS**|**ECTS**<br>**ECTS**|**ECTS**|**ECTS**<br>**ECTS**|**schriftlich**|**mündlich**|
+|B1|Mathematik für IngenieurberufeD1|GOP|4||7,5|7,5||||90<br>||
+||Übung|||2||||||*)||
+|B2|Mathematik für IngenieurberufeD2|GOP|4||7,5||7,5|||90||
+||Übung|||2||||||*)||
+|B3|Mathematik für Ingenieurberufe D3||4|2|7,5||7,5|||90||
+|B4|Computeranwendungen in der VT1||1|1<br>1|75|||2,5||90||
+||Computeranwendungen in der VT2||2|1<br>1|,||||5|90||
+||Allgemeine und Anorganische Chemie||4|||5||||180||
+|B5|Anorganisch-chemisches Praktikum|GOP||2|7,5|25||||*)||
+||Vorlesung zum Praktikum||1|||,||||||
+|B6|Organische Chemie||4|1|7,5||5|||180||
+||Organisch-chemisches Praktikum|||3|||2,5|||*)||
+||Physikalische Chemie||2|1|||5|||90||
+|B7|ChemischeThermodynamik||2|1|15|||5||90||
+||Physikalisch-chemisches Praktikum|||6|||2,5|2,5||*)||
+|B8|BiochemieI||2||5||2,5|||60||
+||Biochemie II||2|||||2,5||60||
+|B9|Mikrobiologie||3||2,5||2,5|||90||
+|B10|Einführung in die Pharmazeutische Technologie||1|1|2,5|2,5||||*)||
+|B11|Einführung in die Medizinische Biotechnologie||1|1|2,5|2,5||||*)||
+|B12|Genetik||2||2,5||2,5|||*)||
+|B13|Biochemisches Praktikum oder Mikrobiologisches Praktikum|||3|2,5|||2,5||*)||
+|B14|Experimentalphysik|GOP|4|1|7,5|7,5||||120||
 
 *): unbenotete Studienleistung 
 
 6 
 
-|**Spalte 1**|**Spalte 2**||**Spalte 3**|**Spalte 3**|**Spalte 3**|**Spalte 4**||**Spalte 5**|**Spalte 5**|**Spalte 5**|**Spalte 5**|**Spalte 5**|**Spalte 6**|**Spalte 6**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Modul**|||**SWS**||**ECTS**|**1.Sem.**|**2.Sem.**|**3. Sem.**|**4.Sem.**|**5. Sem.**|**6. Sem.**|**Prüfungsdauer in Min.**||
-||||**V**|**Ü**|**P**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**schriftlich**|**mündlich**|
-|B15|Messtechnik und Instrumentelle Analytik|GOP|2|1|2|5||5|||||*)||
-|B16|Einführung in die Thermofluiddynamik|GOP|3|2||5|5||||||*)||
-|B17|Wärme- und Stoffübertragung||2|1||2,5||||2,5|||*)||
-|B18|Technische Mechanik||3|2||7,5|||7,5||||90||
-|B19|Konstruktionslehre||2|1||5||||5|||180||
-|B20|Kurs Technisches Zeichnen|||3||2,5||2,5|||||*)||
-|B21|Bioprozessautomation||2|1|2|5||5|||||*)||
-|B22|Biologische Prozesstechnik mit Einführungsprojekt||2||3|5||||5|||*)||
-|B23|Grenzflächen in der Verfahrenstechnik||2|1||2,5||||2,5|||*)||
-|B24|Bioprozess- und Bioreaktionstechnik||2|1||5||||||5||30|
-||Praktikum||||1||||||||*)||
-|B25|Immun- und Infektionsbiologie||2|1||5|||||5||120||
-||Praktikum||||1||||||||*)||
-|B26|Mechanische Verfahrenstechnik||2|1||5|||||5||120||
-||Praktikum||||1||||||||*)||
-||Prozessmaschinen und Apparatetechnik||2|1|||||||||120||
-|B27|Praktikum||||1|5||||||5|*)||
-|B28|Pharmazeutische Technologie||2|1||5||||||5|120||
-||Praktikum||||1||||||||*)||
-|B29|Biothermofluiddynamik||2|1||5|||||5||120||
-||Praktikum||||1||||||||*)||
-|B30|Bioseparation||2|1||5|||||5||120||
-||Praktikum||||1||||||||*)||
-|B31|Wahlpflichtmodul||2|1||5|||||5||120||
-||Praktikum||||1||||||||*)||
-|B32|Bachelorarbeit|||||15||||||12|||
-||Referat|||||||||||3|||
-||Summen SWS||78|33|31||||||||||
-||Summen ECTS|40||||180|32,5|27,5|30|30|30|30|||
-
-*): unbenotete Studienleistung 
+|**Spalte 1**|<br>**Spalte 2**||**Sp**|**alte 3**|**Spalte 4**||**Spa**|**lte 5**||**Spal**|**te 6**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**S**|**WS**||**1.Sem.**|**2.Sem.**<br>**3. Sem.**|**4.Sem.**|**5. Sem.**<br>**6. Sem.**|**Prüfungsda**|**uer in Min.**|
+|**Nr.**|**Modul**||**V**|**Ü**<br>**P**|**ECTS**|**ECTS**|**ECTS**<br>**ECTS**|**ECTS**|**ECTS**<br>**ECTS**|**schriftlich**|**mündlich**|
+|B15|Messtechnik und Instrumentelle Analytik|GOP|2|1<br>2|5||5|||*)||
+|B16|Einführung in die Thermofluiddynamik|GOP|3|2|5|5||||*)||
+|B17|Wärme- und Stoffübertragung||2|1|2,5|||2,5||*)||
+|B18|Technische Mechanik||3|2|7,5||7,5|||90||
+|B19|Konstruktionslehre||2|1|5|||5||180||
+|B20|Kurs Technisches Zeichnen|||3|2,5||2,5|||*)||
+|B21|Bioprozessautomation||2|1<br>2|5||5|||*)||
+|B22|Biologische Prozesstechnik mit Einführungsprojekt||2|3|5|||5||*)||
+|B23|Grenzflächen in der Verfahrenstechnik||2|1|2,5|||2,5||*)||
+|B24|Bioprozess- und Bioreaktionstechnik||2|1|5||||5||30|
+||Praktikum|||1||||||*)||
+||Immun- und Infektionsbiologie||2|1||||||120||
+|B25|Praktikum|||1|5||||5|*)||
+|B26|Mechanische Verfahrenstechnik||2|1|5||||5|120||
+||Praktikum|||1||||||*)||
+|B27|Prozessmaschinen und Apparatetechnik<br>Praktikum||2|1<br>1|5||||5|120<br>*)||
+|B28|Pharmazeutische Technologie||2|1|5||||5|120||
+||Praktikum|||1||||||*)||
+||Biothermofluiddynamik||2|1||||||120||
+|B29|Praktikum|||1|5||||5|*)||
+|B30|Bioseparation||2|1|5||||5|120||
+||Praktikum|||1||||||*)||
+|B31|Wahlpflichtmodul||2|1|5||||5|120||
+||Praktikum|||1||||||*)||
+||Bachelorarbeit||||||||12|||
+|B32|Referat||||15||||3|||
+||Summen SWS||78<br>|33<br>31||||||||
+||Summen ECTS<br>*): unbenotete Studienleistung|40|||180|32,5|27,5<br>30|30|30<br>30|||
 
 7 
 
 ## **+)** Für alle Studierenden, die das Studium **vor** dem WS 2010/2011 aufgenommen haben, gilt die Anlage 1 in der folgenden Fassung: 
 
-|**_Spalte 1_**|**_Spalte 2_**||**_Spalte 3_**|**_Spalte 3_**|**_Spalte 3_**|**_Spalte 4_**|||**_Spalte 5_**|**_Spalte 5_**|**_Spalte 5_**|**_Spalte 5_**|**_Spalte 6_**|**_Spalte 6_**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**_Nr._**|**_Modul_**|||**_SWS_**||**_ECTS_**|**_1.Sem._**|**_2.Sem._**|**_3. Sem._**|**_4.Sem._**|**_5. Sem._**|**_6. Sem._**|**_Prüfungsdauer in Min._**||
-||||**_V_**|**_Ü_**|**_P_**||**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_schriftlich_**|**_mündlich_**|
-|_B1_|_Mathematik für Ingenieurberufe D1_|_GOP_|_4_|||_7,5_|_7,5_||||||_90_||
-||_Übung_|||_2_|||||||||_*)_||
-|_B2_|_Mathematik für Ingenieurberufe D2_|_GOP_|_4_|||_75_||_7,5_|||||_90_||
-||_Übung_|||_2_||_,_|||||||_*)_||
-|_B3_|_Mathematik für Ingenieurberufe D3_||_4_|_2_||_7,5_|||_7,5_||||_90_||
-|_B4_|_Mathematik für Ingenieurberufe D4_||_2_|_1_||_2,5_||||_2,5_|||_90_||
-|_B5_|_Informatik für Ingenieurberufe_||_2_||_2_|_5_|||||_5_||_90_||
-|_B6_|_Allgemeine und Anorganische Chemie_|_GOP_|_4_||||_5_||||||_180_||
-||_Anorganisch-chemisches Praktikum_||||_2_|_7,5_|_2,5_||||||_*)_||
-||_Vorlesung zum Praktikum_||_1_||||||||||||
-|_B7_|_Organische Chemie_||_4_|_1_|||||_5_||||_180_||
-||_Organisch-chemisches Praktikum_||||_3_|_7,5_|||_2,5_||||_*)_||
-||_Physikalische Chemie_||_2_|_1_||||_5_|||||_90_||
-|_B8_|_Chemische Thermodynamik_||_2_|_1_||_15_||||_5_|||_90_||
-||<br>_Physikalisch-chemisches Praktikum_||||_6_||||_2,5_|_2,5_|||_*)_||
-|_B9_|_Biochemie I_||_2_|||_5_|||_2,5_||||_60_||
-||_Biochemie II_||_2_|||||||_2,5_|||_60_||
-|_B10_|_Mikrobiologie_||_3_|||_2,5_|||_2,5_||||_90_||
-|_B11_|_Einführung in die Pharmazeutische Technologie_||_1_|_1_||_2,5_|_2,5_||||||_*)_||
-|_B12_|_Einführung in die Medizinische Biotechnologie_||_1_|_1_||_2,5_|_2,5_||||||_*)_||
-|_B13_|_Genetik_||_2_|||_2,5_||_2,5_|||||_*)_||
-|_B14_|_Biochemisches Praktikum oder Mikrobiologisches Praktikum_||||_3_|_2,5_||||_2,5_|||_*)_||
-|_B15_|_Experimentalphysik_|_GOP_|_4_|_1_||_7,5_|_7,5_||||||_120_||
+|**_Spalte 1_**|<br>**_Spalte 2_**||**_Sp_**|**_alte 3_**|**_Spalte 4_**||**_Spa_**|**_lte 5_**||**_Spal_**|**_te 6_**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**_S_**|**_WS_**||**_1.Sem._**|**_2.Sem._**<br>**_3. Sem._**|**_4.Sem._**|**_5. Sem._**<br>**_6. Sem._**|**_Prüfungsda_**|**_uer in Min._**|
+|**_Nr._**|**_Modul_**||**_V_**|**_Ü_**<br>**_P_**|**_ECTS_**|**_ECTS_**|**_ECTS_**<br>**_ECTS_**|**_ECTS_**|**_ECTS_**<br>**_ECTS_**|**_schriftlich_**|**_mündlich_**|
+||_Mathematik für Ingenieurberufe D1_|_GOP_|_4_||_7,5_|_7,5_||||_90_||
+|_B1_|_Übung_|||_2_||||||_*)_||
+||_Mathematik für Ingenieurberufe D2_|_GOP_|_4_||_75_||_75_|||_90_||
+|_B2_|_Übung_|||_2_|_,_||_,_|||_*)_||
+|_B3_|_Mathematik für Ingenieurberufe D3_||_4_|_2_|_7,5_||_7,5_|||_90_||
+|_B4_|_Mathematik für Ingenieurberufe D4_||_2_|_1_|_2,5_|||_2,5_||_90_||
+|_B5_|_Informatik für Ingenieurberufe_||_2_|_2_|_5_||||_5_|_90_||
+||_Allgemeine und Anorganische Chemie_||_4_|||_5_||||_180_||
+|_B6_|_Anorganisch-chemisches Praktikum_|_GOP_||_2_|_7,5_|_2,5_||||_*)_||
+||_Vorlesung zum Praktikum_||_1_|||||||||
+|_B7_|_Organische Chemie_||_4_|_1_|_75_||_5_|||_180_||
+||_Organisch-chemisches Praktikum_|||_3_|_,_||_2,5_|||_*)_||
+||_Physikalische Chemie_||_2_|_1_|||_5_|||_90_||
+|_B8_|_Chemische Thermodynamik_||_2_|_1_|_15_|||_5_||_90_||
+||_Physikalisch-chemisches Praktikum_|||_6_|||_2,5_|_2,5_||_*)_||
+||_Biochemie I_||_2_||_5_||_2,5_|||_60_||
+|_B9_|_Biochemie II_||_2_|||||_2,5_||_60_||
+|_B10_|_Mikrobiologie_||_3_||_2,5_||_2,5_|||_90_||
+|_B11_|_Einführung in die Pharmazeutische Technologie_||_1_|_1_|_2,5_|_2,5_||||_*)_||
+|_B12_|_Einführung in die Medizinische Biotechnologie_||_1_|_1_|_2,5_|_2,5_||||_*)_||
+|_B13_|_Genetik_||_2_||_2,5_||_2,5_|||_*)_||
+|_B14_|_Biochemisches Praktikum oder Mikrobiologisches Praktikum_|||_3_|_2,5_|||_2,5_||_*)_||
+|_B15_|_Experimentalphysik_|_GOP_|_4_|_1_|_7,5_|_7,5_||||_120_||
 
 _*): unbenotete Studienleistung_ 
 
 8 
 
-|**_Spalte 1_**|**_Spalte 2_**||**_Spalte 3_**|**_Spalte 3_**|**_Spalte 3_**|**_Spalte 4_**||**_Spalte 5_**|**_Spalte 5_**|**_Spalte 5_**|**_Spalte 5_**|**_Spalte 5_**|**_Spalte 6_**|**_Spalte 6_**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**_Nr._**|**_Modul_**|||**_SWS_**||**_ECTS_**|**_1.Sem._**|**_2.Sem._**|**_3. Sem._**|**_4.Sem._**|**_5. Sem._**|**_6. Sem._**|**_Prüfungsdauer in Min._**||
-||||**_V_**|**_Ü_**|**_P_**||**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_schriftlich_**|**_mündlich_**|
-|_B16_|_Messtechnik und Instrumentelle Analytik_|_GOP_|_2_|_1_|_2_|_5_||_5_|||||_*)_||
-|_B17_|_Einführung in die Thermofluiddynamik_|_GOP_|_3_|_2_||_5_|_5_||||||_*)_||
-|_B18_|_Wärme- und Stoffübertragung_||_2_|_1_||_2,5_||||_2,5_|||_*)_||
-|_B19_|_Technische Mechanik_||_3_|_2_||_7,5_|||_7,5_||||_90_||
-|_B20_|_Konstruktionslehre_||_2_|_1_||_5_||||_5_|||_180_||
-|_B21_|_Kurs Technisches Zeichnen_|||_3_||_2,5_||_2,5_|||||_*)_||
-|_B22_|_Bioprozessautomation_||_2_|_1_|_2_|_5_||_5_|||||_*)_||
-|_B23_|_Biologische Prozesstechnik mit Einführungsprojekt_||_2_||_3_|_5_||||_5_|||_*)_||
-|_B24_|_Grenzflächen in der Verfahrenstechnik_||_2_|_1_||_2,5_||||_2,5_|||_*)_||
-|_B25_|_Bioprozess- und Bioreaktionstechnik_||_2_|_1_||_5_||||||_5_||_30_|
-||_Praktikum_||||_1_||||||||_*)_||
-|_B26_|_Immun- und Infektionsbiologie_||_2_|_1_||_5_|||||_5_||_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-|_B27_|_Mechanische Verfahrenstechnik_||_2_|_1_||_5_|||||_5_||_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-||_Prozessmaschinen und Apparatetechnik_||_2_|_1_|||||||||_120_||
-|_B28_|_Praktikum_||||_1_|_5_||||||_5_|_*)_||
-|_B29_|_Pharmazeutische Technologie_||_2_|_1_||_5_||||||_5_|_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-|_B30_|_Biothermofluiddynamik_||_2_|_1_||_5_|||||_5_||_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-|_B31_|_Bioseparation_||_2_|_1_||_5_|||||_5_||_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-|_B32_|_Wahlpflichtmodul_||_2_|_1_||_5_|||||_5_||_120_||
-||_Praktikum_||||_1_||||||||_*)_||
-|_B33_|_Bachelorarbeit_|||||_15_||||||_12_|||
-||_Referat_|||||||||||_3_|||
-||_Summen SWS_||_78_|_33_|_31_||||||||||
-||_Summen ECTS_|_40_||||_180_|_32,5_|_27,5_|_30_|_30_|_30_|_30_|||
-
-_*): unbenotete Studienleistung_ 
+|**_Spalte 1_**|<br>**_Spalte 2_**||**_Sp_**|**_alte 3_**|**_Spalte 4_**||**_Spa_**|**_lte 5_**|||**_Spal_**|**_te 6_**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**_S_**|**_WS_**||**_1.Sem._**|**_2.Sem._**<br>**_3. Sem._**|**_4.Sem._**|**_5. Sem._**|**_6. Sem._**|**_Prüfungsda_**|**_uer in Min._**|
+|**_Nr._**|**_Modul_**||**_V_**|**_Ü_**<br>**_P_**|**_ECTS_**|**_ECTS_**|**_ECTS_**<br>**_ECTS_**|**_ECTS_**|**_ECTS_**|**_ECTS_**|**_schriftlich_**|**_mündlich_**|
+|_B16_|_Messtechnik und Instrumentelle Analytik_|_GOP_|_2_|_1_<br>_2_|_5_||_5_||||_*)_||
+|_B17_|_Einführung in die Thermofluiddynamik_|_GOP_|_3_|_2_|_5_|_5_|||||_*)_||
+|_B18_|_Wärme- und Stoffübertragung_||_2_|_1_|_2,5_|||_2,5_|||_*)_||
+|_B19_|_Technische Mechanik_||_3_|_2_|_7,5_||_7,5_||||_90_||
+|_B20_|_Konstruktionslehre_||_2_|_1_|_5_|||_5_|||_180_||
+|_B21_|_Kurs Technisches Zeichnen_|||_3_|_2,5_||_2,5_||||_*)_||
+|_B22_|_Bioprozessautomation_||_2_|_1_<br>_2_|_5_||_5_||||_*)_||
+|_B23_|_Biologische Prozesstechnik mit Einführungsprojekt_||_2_|_3_|_5_|||_5_|||_*)_||
+|_B24_|_Grenzflächen in der Verfahrenstechnik_||_2_|_1_|_2,5_|||_2,5_|||_*)_||
+|_B25_|_Bioprozess- und Bioreaktionstechnik_||_2_|_1_|_5_|||||_5_||_30_|
+||_Praktikum_|||_1_|||||||_*)_||
+|_B26_|_Immun- und Infektionsbiologie_||_2_|_1_|_5_||||_5_||_120_||
+||_Praktikum_|||_1_|||||||_*)_||
+|_B27_|_Mechanische Verfahrenstechnik_||_2_|_1_|||||||_120_||
+||_Praktikum_|||_1_|_5_||||_5_||_*)_||
+|_B28_|_Prozessmaschinen und Apparatetechnik_<br>_Praktikum_||_2_|_1_<br>_1_|_5_|||||_5_|_120_<br>_*)_||
+|_B29_|_Pharmazeutische Technologie_||_2_|_1_|_5_|||||_5_|_120_||
+||_Praktikum_|||_1_|||||||_*)_||
+|_B30_|_Biothermofluiddynamik_||_2_|_1_|_5_||||_5_||_120_||
+||_Praktikum_|||_1_|||||||_*)_||
+||_Bioseparation_||_2_|_1_|||||||_120_||
+|_B31_|_Praktikum_|||_1_|_5_||||_5_||_*)_||
+||_Wahlpflichtmodul_||_2_|_1_|||||||_120_||
+|_B32_|_Praktikum_|||_1_|_5_||||_5_||_*)_||
+||_Bachelorarbeit_|||||||||_12_|||
+|_B33_|_Referat_||||_15_|||||_3_|||
+||_Summen SWS_||_78_<br>|_33_<br>_31_|||||||||
+||_Summen ECTS_<br>_*): unbenotete Studienleistung_|_40_|||_180_|_32,5_|_27,5_<br>_30_|_30_|_30_|_30_|||
 
 9 
 
-**Anlage 2:** Wahlpflichtmodule des Bachelorstudiengangs Genetikengineering Pharmazie Zellkulturtechnik Methoden und Verfahren der Medizinischen Biotechnologie 
+|**Anlage 2:**Wahlpflichtmodule desBachelorstudiengangs|
+|---|
+|Genetikengineering|
+|Pharmazie|
+|Zellkulturtechnik|
+|Methoden und Verfahren der Medizinischen Biotechnologie|
 
 10 
 
 **Anlage 3:** Module des Masterstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
 
-|Spalte 1|Spalte 2||Spalte 3|Spalte 3|Spalte 4||Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
+|Spalte 1|Spalte 2||Spalte|3|Spalte 4||Sp|alte 5|||Spalte 6|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS||ECTS|7. Sem.|8. Sem.|9. Sem.|10. Sem.|Prüfungsdauer in Min.||
-|||V|Ü|P||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|M1|1. Vertiefungsmodul|3|1||7,5|5|||||30|
-||Praktikum|||3||2,5|||||*)|
-|M2|2. Vertiefungsmodul|3|1||7,5|5|||||30|
-||Praktikum|||3||2,5|||||*)|
-|M3|3. Vertiefungsmodul|3|1||7,5||5||||30|
-||Praktikum|||3|||2,5||||*)|
-|M4|4. Vertiefungsmodul|3|1||7,5||5||||30|
-||Praktikum|||3|||2,5||||*)|
+||Modul||SWS<br>|||7. Sem.|8. Sem.|9. Sem.|10. Sem.|P|rüfungsdauer in Min.|
+|Nr.||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|M1|1. Vertiefungsmodul|3|1||75|5|||||30|
+||Praktikum|||3|,|2,5|||||*)|
+|M2|2. Vertiefungsmodul|3|1||75|5|||||30|
+||Praktikum|||3|,|2,5|||||*)|
+|M3|3. Vertiefungsmodul|3|1||75||5||||30|
+||Praktikum|||3|,||2,5||||*)|
+|M4|4. Vertiefungsmodul|3|1||75||5||||30|
+||Praktikum|||3|,||2,5||||*)|
 |M5|1. Wahlpflichtmodul|2|1||5|5|||||30|
 |M6|2. Wahlpflichtmodul|2|1||5|5|||||30|
 |M7|3. Wahlpflichtmodul|2|1||5||5||||30|
-|M8|4. Wahlpflichtmodul|2|1||7,5|||5|||30|
-||Praktikum|||3||||2,5|||*)|
+|M8|4. Wahlpflichtmodul|2|1||75|||5|||30|
+||Praktikum|||3|,|||2,5|||*)|
 |M9|5. Wahlpflichtmodul|2|1||75|||5|||30|
 ||Praktikum|||3|,|||2,5|||*)|
 |M10|1. Ergänzungsmodul|2|1||5|5||||*)||
 |M11|2. Ergänzungsmodul|2|1||5||5|||*)||
 |M12|3. Ergänzungsmodul|2|1||5|||5||*)||
 |M13|4. Ergänzungsmodul|2|1||5|||5||*)||
-|M14|Projektierungskurs|Umfangca. 150h|||5||5|||*)||
-|M15|Industriepraktikum|13 Wochen|||5|||5||||
-|M16|Masterarbeit|Umfangca. 900h|||30||||30|||
+|M14|Projektierungskurs|Umf|angca|. 150h|5||5|||*)||
+|M15|Industriepraktikum|1|3 Woc|hen|5|||5||||
+|M16|Masterarbeit|Umf|angca|. 900h|30||||30|||
 ||Summen SWS|30|13|18||||||||
 ||Summen ECTS||||120|30|30|30|30|||
 
-*): unbenotete Studienleistung 
+<mark>*): unbenotete Studienleistung</mark> 
 
 11 
 
@@ -479,14 +478,18 @@ _*): unbenotete Studienleistung_
 
 ## 4.1 a) Katalog der zu vertiefenden Module 
 
-Vertiefung von B25 Bioprozess- und Bioreaktionstechnik Vertiefung von B26 Immun- und Infektionsbiologie Vertiefung eines der Module B27 bis B31 des Bachelorstudiengangs entsprechend 4.1b) Vertiefung eines weiteren der Module B27 bis B31 des Bachelorstudiengangs entsprechend 4.1b) 
+|Vertiefung von B25 Bioprozess- und Bioreaktionstechnik|
+|---|
+|Vertiefung von B26 Immun- und Infektionsbiologie|
+|Vertiefung eines der Module B27 bis B31 des Bachelorstudiengangs entsprechend 4.1b)|
+|Vertiefung einesweiterender ModuleB27bisB31desBachelorstudiengangs entsprechend4.1b)|
 
 ## 4.1 b) Vertiefungsmodule 
 
 |Modul im Bachelorstudiengang|Vertiefung im Masterstudiengang|
 |---|---|
-|Bioprozess- und Bioreaktionstechnik|Zellkulturtechnik|
-||Pflanzenbiotechnologie|
+||Zellkulturtechnik|
+|Bioprozess- und Bioreaktionstechnik|Pflanzenbiotechnologie|
 ||MikrobielleVerfahrenstechnik|
 |Immun- und Infektionsbiologie|Medizinische Biotechnologie(Vertiefung)|
 |Mechanische Verfahrenstechnik|Mechanische Verfahrenstechnik(Vertiefung)|
@@ -497,11 +500,25 @@ Vertiefung von B25 Bioprozess- und Bioreaktionstechnik Vertiefung von B26 Immun-
 
 ## 4.2 Ergänzungsmodule 
 
-Biomechanik Produkte biotechnologischer Herkunft Bioinformatik Nichtinvasive Diagnostik Biopharmazie und Pharmakokinetik Biotechnik Epidemiologie Biokompatible Werkstoffe 
+|Biomechanik|
+|---|
+|Produkte biotechnologischer Herkunft|
+|Bioinformatik|
+|Nichtinvasive Diagnostik|
+|Biopharmazie und Pharmakokinetik|
+|Biotechnik|
+|Epidemiologie|
+|BiokompatibleWerkstoffe|
 
 ## 4.3 Wahlpflichtmodule 
 
-Reinraumtechnik QA/QC Qualitätsmanagement Proteinarzneimittel Medizinische Proteintechnologie Zulassungsverfahren für Life Science Produkte Managementpraxis 
+|Reinraumtechnik<br>|
+|---|
+|QA/QC Qualitätsmanagement|
+|Proteinarzneimittel|
+|Medizinische Proteintechnologie|
+|Zulassungsverfahren für Life Science Produkte|
+|Managementpraxis|
 
 12 
 

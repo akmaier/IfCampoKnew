@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:48:10+00:00
+scraped_at: 2026-07-01T08:25:02+00:00
 ---
 
 # Logopädie (B.Sc.)
@@ -39,7 +39,7 @@ Außerdem finden akademisch ausgebildete Logopädinnen und Logopäden zunehmend 
 
 Der Studiengang Logopädie mit dem Abschluss Bachelor of Science ist der erste staatliche Studiengang dieser Art in Bayern. Das Studium umfasst eine Grundlagen- und Orientierungsphase von zwei Semestern sowie eine Bachelorphase von fünf Semestern. Nach dem sechsten Semester legen Sie das staatliche Examen ab. Damit dürfen Sie sich dann „Staatlich anerkannte Logopädin bzw. Staatlich anerkannter Logopäde“ nennen. Das Studium wird mit dem Hochschulgrad „Bachelor of Science“ nach dem siebten Semester abgeschlossen.
 
-### Bachelor of Science Logopädie
+#### Fachanteiles des Studiengangs Logopädie (B.Sc.)
 
 * Logopädie (39%)
 * Praxis (26%)

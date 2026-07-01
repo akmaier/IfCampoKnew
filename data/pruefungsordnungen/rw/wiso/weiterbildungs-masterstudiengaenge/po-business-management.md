@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 30.06.2003 i.d.F. 04.03.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO_Business_Management.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:45:34+00:00
-page_count_chars: 18770
+scraped_at: 2026-07-01T11:09:00+00:00
+page_count_chars: 19247
 ---
 
 # PDF vom 30.06.2003 i.d.F. 04.03.2010
@@ -14,7 +14,7 @@ page_count_chars: 18770
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management am Fachbereich Wirtschaftswissenschaften der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 30. Juni 2003** (KWMBl II 2004 S. 345) 
+# **Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management am Fachbereich Wirtschaftswissenschaften der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 30. Juni 2003** (KWMBl II 2004 S. 345) 
 
 geändert durch Satzungen vom 
 
@@ -42,7 +42,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Gegenstand des Studiums und Zweck der Prüfung** 
 
-(1)[1] Die Prüfung soll eine differenzierte Beurteilung des Bewerbers und die Feststellung ermöglichen, dass der Kandidat  in den Prüfungsfächern relevante Problemstellungen der Wirtschaftspraxis im angemessenen Rahmen auch mit wissenschaftlichem Instrumentarium bearbeiten kann.[2] Er soll dabei die Urteilsfähigkeit und Kompetenz zur kritischen Reflexion von Wissenschaft und beruflicher Praxis zeigen und die Einordnung der Fragestellungen in übergreifende Zusammenhänge vornehmen können. 
+(1)<sup>1</sup> Die Prüfung soll eine differenzierte Beurteilung des Bewerbers und die Feststellung ermöglichen, dass der Kandidat  in den Prüfungsfächern relevante Problemstellungen der Wirtschaftspraxis im angemessenen Rahmen auch mit wissenschaftlichem Instrumentarium bearbeiten kann.<sup>2</sup> Er soll dabei die Urteilsfähigkeit und Kompetenz zur kritischen Reflexion von Wissenschaft und beruflicher Praxis zeigen und die Einordnung der Fragestellungen in übergreifende Zusammenhänge vornehmen können. 
 
 1 
 
@@ -54,7 +54,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) Die Regelstudienzeit beträgt vier Semester. 
 
-(2)[1] Es sind Prüfungen im Grundlagenfach „Fundamentals of Management“ (Pflichtfach) und in zwölf Fächern nach der **Anlage 2** abzulegen; ferner sind eine Pflichtexkursion zu absolvieren und eine Masterarbeit zu erstellen.[2] Die Veranstaltungen können auch in englischer Sprache gehalten werden. 
+(2)<sup>1</sup> Es sind Prüfungen im Grundlagenfach „Fundamentals of Management“ (Pflichtfach) und in zwölf Fächern nach der **Anlage 2** abzulegen; ferner sind eine Pflichtexkursion zu absolvieren und eine Masterarbeit zu erstellen.<sup>2</sup> Die Veranstaltungen können auch in englischer Sprache gehalten werden. 
 
 ## **§ 4** 
 
@@ -70,7 +70,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 2. eine mindestens einjährige qualifizierte Berufstätigkeit in verantwortlicher Position mit Aufgaben der Führung, Planung oder Kontrolle nach Abschluss des Hochschulstudiums in privaten oder öffentlichen Unternehmen, Verbänden oder Verwaltungen. 
 
-(2)[1] Die Zulassung setzt das Bestehen einer Eignungsprüfung voraus.[2] Sie soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Weiterbildungsstudiengangs zu erreichen.[3] Näheres regelt die **Anlage 1.** 
+(2)<sup>1</sup> Die Zulassung setzt das Bestehen einer Eignungsprüfung voraus.<sup>2</sup> Sie soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Weiterbildungsstudiengangs zu erreichen.<sup>3</sup> Näheres regelt die **Anlage 1.** 
 
 ## **§ 5** 
 
@@ -80,17 +80,17 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (2) Der Prüfungsausschuss setzt sich aus vier Professoren des Fachbereichs Wirtschaftswissenschaften gemäß Art. 80 Abs. 6 Satz 1 Nr. 1 in Verbindung mit Art. 17 Abs. 1 Nr. 2 BayHSchG zusammen. 
 
-(3)[1] Der Prüfungsausschuss wählt aus seiner Mitte den Vorsitzenden und seinen Stellvertreter für die Dauer von zwei Jahren.[2] Eine Wiederwahl ist möglich. 
+(3)<sup>1</sup> Der Prüfungsausschuss wählt aus seiner Mitte den Vorsitzenden und seinen Stellvertreter für die Dauer von zwei Jahren.<sup>2</sup> Eine Wiederwahl ist möglich. 
 
-(4)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer Frist von drei Tagen geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen; bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.[3] Stimmenthaltungen, geheime Abstimmungen und Stimmrechtsübertragungen sind nicht zulässig. 
+(4)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer Frist von drei Tagen geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen; bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.<sup>3</sup> Stimmenthaltungen, geheime Abstimmungen und Stimmrechtsübertragungen sind nicht zulässig. 
 
 2 
 
-(5)[1] Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer, welche in der Regel die Dozenten der jeweiligen Fächer sind.[2] Zum Prüfer dürfen nur Professoren und andere nach Art. 80 Abs. 6 BayHSchG prüfungsberechtigte Personen bestellt werden.[3] Zum Beisitzer darf nur bestellt werden, wer die Diplomprüfung in einem wirtschaftswissenschaftlichen Studiengang an einer Universität oder gleichgestellten Hochschule oder eine vergleichbare Prüfung abgelegt hat. 
+(5)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer, welche in der Regel die Dozenten der jeweiligen Fächer sind.<sup>2</sup> Zum Prüfer dürfen nur Professoren und andere nach Art. 80 Abs. 6 BayHSchG prüfungsberechtigte Personen bestellt werden.<sup>3</sup> Zum Beisitzer darf nur bestellt werden, wer die Diplomprüfung in einem wirtschaftswissenschaftlichen Studiengang an einer Universität oder gleichgestellten Hochschule oder eine vergleichbare Prüfung abgelegt hat. 
 
 ## **§ 6 Zeitpunkt, Art und Durchführung der Prüfungen** 
 
-- (1)[1] Die Prüfung besteht aus: 
+- (1)<sup>1</sup> Die Prüfung besteht aus: 
 
 1. den studienbegleitenden Prüfungsleistungen im Grundlagenfach „Fundamentals of Management“ und in zwölf Fächern nach der **Anlage 2** 
 
@@ -98,37 +98,37 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 3. der Masterarbeit. 
 
-2In elf der in Satz 1 Nr. 1 genannten Fächer müssen wenigstens ausreichende Leistungen vorliegen.[3] Die Fächerstruktur des Studiengangs und die Zuordnung der Prüfungsfächer zu Pflicht- und Wahlfächern ergeben sich aus der **Anlage 2** . 
+2In elf der in Satz 1 Nr. 1 genannten Fächer müssen wenigstens ausreichende Leistungen vorliegen.<sup>3</sup> Die Fächerstruktur des Studiengangs und die Zuordnung der Prüfungsfächer zu Pflicht- und Wahlfächern ergeben sich aus der **Anlage 2** . 
 
 (2) Die studienbegleitenden Prüfungsleistungen gemäß Absatz 1 Nr. 1 werden in der Form von Klausuren, mündlichen Prüfungen, Seminararbeiten, Projektarbeiten, Gruppenarbeiten und/oder Referaten erbracht; bei Gruppenarbeiten müssen die einzelnen Teile den mitwirkenden Prüflingen individuell zurechenbar sein. 
 
-(3)[1] Den Termin und die Form der Prüfungsleistungen legt der jeweilige Prüfer spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.[2] Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.[3] Nimmt der Student aus von ihm zu vertretenden Gründen nicht an der Prüfung teil, gilt diese als nicht bestanden.[4] Sind die Gründe vom Studenten nicht zu vertreten, so ist die Prüfung zum nächsten Prüfungstermin nachzuholen. 
+(3)<sup>1</sup> Den Termin und die Form der Prüfungsleistungen legt der jeweilige Prüfer spätestens zu Beginn der Lehrveranstaltung im Einvernehmen mit dem Prüfungsausschuss fest.<sup>2</sup> Die Teilnahme an einer Lehrveranstaltung verpflichtet auch zur Teilnahme an der zugehörigen Prüfung.<sup>3</sup> Nimmt der Student aus von ihm zu vertretenden Gründen nicht an der Prüfung teil, gilt diese als nicht bestanden.<sup>4</sup> Sind die Gründe vom Studenten nicht zu vertreten, so ist die Prüfung zum nächsten Prüfungstermin nachzuholen. 
 
-(4)[1] Je Fach findet mindestens eine schriftliche oder mündliche Prüfung statt. 2Schriftliche Prüfungen sollen nicht länger als zwei akademische Stunden, mündliche Prüfungen nicht länger als eine akademische Stunde dauern.[3] Über Ausnahmen entscheidet der Prüfungsausschuss. 
+(4)<sup>1</sup> Je Fach findet mindestens eine schriftliche oder mündliche Prüfung statt. 2Schriftliche Prüfungen sollen nicht länger als zwei akademische Stunden, mündliche Prüfungen nicht länger als eine akademische Stunde dauern.<sup>3</sup> Über Ausnahmen entscheidet der Prüfungsausschuss. 
 
-(5)[1] In den schriftlichen Prüfungen sollen die Studenten nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln Zusammenhänge des Faches darstellen und Probleme mit den geläufigen Methoden des Faches erkennen sowie Wege zur Lösung finden können.[2] Die Bewertung der schriftlichen Prüfungsleistungen erfolgt durch den oder die Prüfer. 
+(5)<sup>1</sup> In den schriftlichen Prüfungen sollen die Studenten nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln Zusammenhänge des Faches darstellen und Probleme mit den geläufigen Methoden des Faches erkennen sowie Wege zur Lösung finden können.<sup>2</sup> Die Bewertung der schriftlichen Prüfungsleistungen erfolgt durch den oder die Prüfer. 
 
 (6) Mündliche Prüfungen werden in der Regel von einem Prüfer in Gegenwart eines sachkundigen Beisitzers als Gruppenprüfung oder als Einzelprüfung abgelegt. 
 
-(7)[1] Die wesentlichen Gegenstände und Ergebnisse der mündlichen Prüfungen sind in einem Protokoll festzuhalten.[2] Das Ergebnis ist dem Studenten jeweils im Anschluss an die mündliche Prüfung bekannt zu geben. 
+(7)<sup>1</sup> Die wesentlichen Gegenstände und Ergebnisse der mündlichen Prüfungen sind in einem Protokoll festzuhalten.<sup>2</sup> Das Ergebnis ist dem Studenten jeweils im Anschluss an die mündliche Prüfung bekannt zu geben. 
 
 3 
 
-(8)[1] Zu mündlichen Prüfungen können Studenten des Weiterbildungsstudiengangs nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen werden, es sei denn, ein zu prüfender Student widerspricht.[2] Die Zulassung erstreckt sich jedoch nicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses. 
+(8)<sup>1</sup> Zu mündlichen Prüfungen können Studenten des Weiterbildungsstudiengangs nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen werden, es sei denn, ein zu prüfender Student widerspricht.<sup>2</sup> Die Zulassung erstreckt sich jedoch nicht auf die Beratung und Bekanntgabe des Prüfungsergebnisses. 
 
-(9)[1] Nicht bestandene einzelne Prüfungsleistungen sind jeweils beim nächsten Prüfungstermin zu wiederholen.[2] Jede studienbegleitende Prüfungsleistung kann zweimal wiederholt werden, die Masterarbeit einmal. 
+(9)<sup>1</sup> Nicht bestandene einzelne Prüfungsleistungen sind jeweils beim nächsten Prüfungstermin zu wiederholen.<sup>2</sup> Jede studienbegleitende Prüfungsleistung kann zweimal wiederholt werden, die Masterarbeit einmal. 
 
 (10) Macht der Student durch ein ärztliches Zeugnis glaubhaft, dass er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat der Vorsitzende des Prüfungsausschusses dem Studenten zu gestatten, gleichwertige Prüfungsleistungen in einer anderen Form zu erbringen. 
 
 ## **§ 7 Bewertung der Prüfungsleistungen** 
 
-(1)[1] Die Bewertung der einzelnen Prüfungsleistungen wird durch folgende Prädikate und Notenstufen ausgedrückt: 
+(1)<sup>1</sup> Die Bewertung der einzelnen Prüfungsleistungen wird durch folgende Prädikate und Notenstufen ausgedrückt: 
 
 sehr gut = 1,0 oder 1,3 = eine hervorragende Leistung; gut = 1,7 oder 2,0 oder 2,3 = eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt; befriedigend = 2,7 oder 3,0 oder 3,3 = eine Leistung, die durchschnittlichen Anforderungen entspricht; ausreichend = 3,7 oder 4,0 = eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt; nicht ausreichend = 4,3 oder 4,7 oder 5,0 = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt. 
 
 2Weitere Notenstufen sind nicht zulässig. 
 
-(2)[1] Besteht die Prüfung in einem Fach aus mehreren Prüfungsleistungen, so errechnet sich die Fachnote aus dem Durchschnitt der mit den Leistungspunkten gewichteten Einzelnoten.[2] Dabei wird nur die erste Dezimalstelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.[3] Die Fachnote lautet: Bei einem Durchschnitt bis einschließlich 1,5 = sehr gut; 
+(2)<sup>1</sup> Besteht die Prüfung in einem Fach aus mehreren Prüfungsleistungen, so errechnet sich die Fachnote aus dem Durchschnitt der mit den Leistungspunkten gewichteten Einzelnoten.<sup>2</sup> Dabei wird nur die erste Dezimalstelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen.<sup>3</sup> Die Fachnote lautet: Bei einem Durchschnitt bis einschließlich 1,5 = sehr gut; 
 
 bei einem Durchschnitt von 1,6 bis einschließlich 2,5 = gut; bei einem Durchschnitt von 2,6 bis einschließlich 3,5 = befriedigend; bei einem Durchschnitt von 3,6 bis einschließlich 4,0 = ausreichend; bei einem Durchschnitt ab 4,1 = nicht ausreichend. 
 
@@ -150,21 +150,21 @@ bei einem Durchschnitt von 1,6 bis einschließlich 2,5 = gut; bei einem Durchsch
 
 ## **Masterarbeit** 
 
-(1)[1] Auf Antrag des Studenten vergibt der Prüfungsausschussvorsitzende das Thema der Masterarbeit und weist einen Betreuer zu.[2] Die Masterarbeit zeugt von den Fähigkeiten des Studenten, ein konkretes Projekt der Praxis unter Hinzuziehung und Anwendung wissenschaftlicher Methoden und des neu erworbenen Wissens zu lösen. 
+(1)<sup>1</sup> Auf Antrag des Studenten vergibt der Prüfungsausschussvorsitzende das Thema der Masterarbeit und weist einen Betreuer zu.<sup>2</sup> Die Masterarbeit zeugt von den Fähigkeiten des Studenten, ein konkretes Projekt der Praxis unter Hinzuziehung und Anwendung wissenschaftlicher Methoden und des neu erworbenen Wissens zu lösen. 
 
-(2)[1] Der Antrag kann frühestens nach sechs bestandenen Fächern gestellt werden. 2Der Nachweis der bestandenen Lehrmodule ist mit der Antragstellung einzureichen. 
+(2)<sup>1</sup> Der Antrag kann frühestens nach sechs bestandenen Fächern gestellt werden. 2Der Nachweis der bestandenen Lehrmodule ist mit der Antragstellung einzureichen. 
 
-(3)[1] Die Bearbeitungszeit für die Masterarbeit beträgt vier Monate.[2] In besonderen Ausnahmefällen kann die Bearbeitungszeit durch den Prüfungsausschussvorsitzenden um bis zu vier Wochen verlängert werden. 
+(3)<sup>1</sup> Die Bearbeitungszeit für die Masterarbeit beträgt vier Monate.<sup>2</sup> In besonderen Ausnahmefällen kann die Bearbeitungszeit durch den Prüfungsausschussvorsitzenden um bis zu vier Wochen verlängert werden. 
 
 (4) Die Masterarbeit ist grundsätzlich in deutscher Sprache anzufertigen; über Ausnahmen entscheidet der Prüfungsausschuss auf Antrag des Studenten und in Abstimmung mit dem Betreuer. 
 
-(5)[1] Zeitpunkt der Themenvergabe und der Abgabe der Masterarbeit sind aktenkundig zu machen.[2] Der Masterarbeit ist ein Verzeichnis der benutzten Hilfsmittel beizufügen.[3] Ausführungen, die wörtlich oder sinngemäß Veröffentlichungen oder anderen Quellen entnommen wurden, sind als solche kenntlich zu machen.[4] Der Student hat eine eigenhändig unterschriebene Versicherung darüber abzugeben, dass er die Arbeit selbständig und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt, noch nicht einer anderen Prüfungsbehörde vorgelegt und noch nicht veröffentlicht hat.[5] Bei Abgabe einer unwahren Versicherung wird die Arbeit mit der Note „nicht ausreichend“ (5,0) bewertet. 
+(5)<sup>1</sup> Zeitpunkt der Themenvergabe und der Abgabe der Masterarbeit sind aktenkundig zu machen.<sup>2</sup> Der Masterarbeit ist ein Verzeichnis der benutzten Hilfsmittel beizufügen.<sup>3</sup> Ausführungen, die wörtlich oder sinngemäß Veröffentlichungen oder anderen Quellen entnommen wurden, sind als solche kenntlich zu machen.<sup>4</sup> Der Student hat eine eigenhändig unterschriebene Versicherung darüber abzugeben, dass er die Arbeit selbständig und ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt, noch nicht einer anderen Prüfungsbehörde vorgelegt und noch nicht veröffentlicht hat.<sup>5</sup> Bei Abgabe einer unwahren Versicherung wird die Arbeit mit der Note „nicht ausreichend“ (5,0) bewertet. 
 
-(6)[1] Die Masterarbeit kann auch als Gruppenleistung vergeben werden.[2] In diesem Fall müssen individuell abgrenzbare Teilleistungen bewertbar sein. 
+(6)<sup>1</sup> Die Masterarbeit kann auch als Gruppenleistung vergeben werden.<sup>2</sup> In diesem Fall müssen individuell abgrenzbare Teilleistungen bewertbar sein. 
 
-(7)[1] Die Masterarbeit ist vom Fachvertreter, der den Studenten betreut, zu beurteilen. 2Im Falle einer Bewertung mit der Note „nicht ausreichend“ wird vom Prüfungsausschuss ein zweiter Gutachter bestellt. 
+(7)<sup>1</sup> Die Masterarbeit ist vom Fachvertreter, der den Studenten betreut, zu beurteilen. 2Im Falle einer Bewertung mit der Note „nicht ausreichend“ wird vom Prüfungsausschuss ein zweiter Gutachter bestellt. 
 
-(8)[1] Wird die Masterarbeit mit der Note „nicht ausreichend“ (schlechter als 4,0) bewertet, kann diese einmal wiederholt werden.[2] Für die Wiederholung der Masterarbeit gelten die Absätze 1 sowie 3 bis 7 entsprechend.[3] Der Antrag auf Festsetzung des neuen Themas gemäß Abs. 1 ist innerhalb eines Jahres zu stellen, andernfalls gilt die Masterarbeit als endgültig nicht bestanden.[4] Eine zweite Wiederholung der Masterarbeit ist nicht möglich. 
+(8)<sup>1</sup> Wird die Masterarbeit mit der Note „nicht ausreichend“ (schlechter als 4,0) bewertet, kann diese einmal wiederholt werden.<sup>2</sup> Für die Wiederholung der Masterarbeit gelten die Absätze 1 sowie 3 bis 7 entsprechend.<sup>3</sup> Der Antrag auf Festsetzung des neuen Themas gemäß Abs. 1 ist innerhalb eines Jahres zu stellen, andernfalls gilt die Masterarbeit als endgültig nicht bestanden.<sup>4</sup> Eine zweite Wiederholung der Masterarbeit ist nicht möglich. 
 
 5 
 
@@ -172,7 +172,7 @@ bei einem Durchschnitt von 1,6 bis einschließlich 2,5 = gut; bei einem Durchsch
 
 ## **§ 10 Zeugnis** 
 
-(1)[1] Über die bestandene Gesamtprüfung wird innerhalb von sechs Wochen nach endgültiger Bewertung der letzten Prüfungsleistung ein vom Vorsitzenden des Prüfungsausschusses unterzeichnetes Zeugnis ausgestellt, in dem die Fachnoten, die Note der Masterarbeit mitsamt Thema und Namen des Betreuers sowie die Gesamtnote aufgeführt sind.[2] Die an der Partneruniversität erbrachten Prüfungsleistungen werden besonders gekennzeichnet. 
+(1)<sup>1</sup> Über die bestandene Gesamtprüfung wird innerhalb von sechs Wochen nach endgültiger Bewertung der letzten Prüfungsleistung ein vom Vorsitzenden des Prüfungsausschusses unterzeichnetes Zeugnis ausgestellt, in dem die Fachnoten, die Note der Masterarbeit mitsamt Thema und Namen des Betreuers sowie die Gesamtnote aufgeführt sind.<sup>2</sup> Die an der Partneruniversität erbrachten Prüfungsleistungen werden besonders gekennzeichnet. 
 
 (2) Gleichzeitig mit dem Zeugnis wird den Kandidaten eine vom Vorsitzenden des Prüfungsausschusses unterzeichnete Masterurkunde über die Verleihung des akademischen Grades „Master of Business Administration“ ausgehändigt. 
 
@@ -186,9 +186,7 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 2. Anträge auf Zulassung sind beim Vorsitzenden des Prüfungsausschusses bis zum 15. Juli eines jeden Jahres (Ausschlussfrist) schriftlich einzureichen. 
 
-3. Dem Antrag sind die Nachweise zu § 4 Abs. 1 und eine schriftliche Begründung 
-
-   - zur Wahl des Weiterbildungsstudiums beizugeben. 
+3. Dem Antrag sind die Nachweise zu § 4 Abs. 1 und eine schriftliche Begründung zur Wahl des Weiterbildungsstudiums beizugeben. 
 
 4. Mit den Bewerbern, die die Voraussetzungen der Zulassung erfüllen, wird ein Prüfungsgespräch zur Feststellung der Eignung geführt. Der Termin dafür wird den Bewerbern spätestens eine Woche vorher schriftlich bekannt gegeben. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen versehenen Bescheid. 
 
@@ -224,9 +222,8 @@ Die SEFP ist bestanden, wenn beide Hochschullehrer die Leistung in der mündlich
 
 Die Prüfung bezieht sich auf das Grundlagenfach „Fundamentals of Management“ und zwölf weitere Fächer, die zu gleichen Teilen auf drei Lehrmodule verteilt sind. Dabei sind das Grundlagenfach „Fundamentals of Management“ als Pflichtfach und elf weitere der angebotenen Fächer erfolgreich zu absolvieren. Die Zuordnung der Fächer ist folgende: 
 
-||||
+||Fundamentals of Manage|ment<br>|
 |---|---|---|
-||Fundamentals of Management||
 |**Corporate Management**|**Functional Management**|**Global Management**|
 |Strategic Management|Financial Management|International Logistics & Operations<br>Management|
 |Managerial Economics|Marketing Management|International Management|

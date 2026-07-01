@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 1975"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AES_DiplPrOTF.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:43+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T11:18:19+00:00
+page_count_chars: 14468
 ---
 
 # 30. Juli 1975
@@ -12,534 +12,340 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AES_DiplPrOTF.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+: § 1 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+1. Satzung zur Anderung der Prtifungsordnung fiir die Diplomprtifung an der Technischen Fakultat der Universitat Erlangen-Ntirnberg ~ Allgemeine Be-~ 
 
-### OCR Seite 1
+### stimmungen = 
 
-```
-Universität Erlangen-Nürnberg - Allgemeine Bestimmungen -
-Ä
-$1ı
-Die Prüfungsordnung für die Diplomprüfung an der Technischen
-Fakultät der Universität Erlangen-Nürnberg - Allgemeine Be-
-stimmungen (KMBl 1973,
-S.91) wird wie folgt geändert:
-1.
-Die Überschrift der Allgemeinen Bestimmungen der Prüfungs-
-ordnung für die Diplomprüfung an der Technischen Fakultät
-der Universität Erlangen-Nürnberg erhält folgende Fassung:
-Prüfungsordnung für die Diplomprüfung im Fachbereich
-Ingenieurwissenschaften der Universität Erlangen-
-Nürnberg.
-2.
-8
-1 Absatz
-2 entfällt.
-2.
-```
+ausgefertigt am 30.7.1975 
 
-### OCR Seite 2
+Aufgrund des Art.5 in Verbindung mit Art.19 Abs.1 5.1 Nr.1 des Bayerischen Hochschulgesetzes vom 21. Dezember 1973 (GVB1.S.679, ber.1974 Se45), gedndert durch Gesetz vom 8. August 1974 (GVB1L.S.383), erlAagt die Universitét Erlangen-Niirnberg folgende 1. Satgzung zur Anderung der Priifungsordnung fiir die Diplompriifung an der Technischen Fakultdt der Universitat Erlangen-Niirnberg ~ Allgemeine Bestimmungen ~ 
 
-```
-Während dieser
-Zeit muß der Student entsprechend der
-Fachprüfungsordnung der jeweiligen Fachrichtungen studiert
-haben.
-5.
-8
-3 Absatz
-2 Satz
-5
-ist
-zu ersetzen durch:
-|
-Die Diplomvorprüfung gilt erstmalig als nicht bestanden,
-wenn sich
-der
-Student
-nicht bis
-zu dem in der Fach-
-prüfungsordnung der jeweiligen Fachrichtung festgelegten
-'
-Zeitpunkt
-zum letzten Teil der Diplomvorprüfung gemeidet
-hat.
-6.
-8
-3 Absatz
-2 Satz
-6
-ist
-zu ersetzen durch:
-Der Prüfungsausschuß kann in besonderen,
-von den Studie-
-\
-renden nicht zu vertretenden Fällen auf schriftlichen An-
-trag die Meldefrist um höchstens
-zwei Semester verlängern.
-7.
-In
-$
-3 Absatz
-3 ist
-anstelle der Worte
-" Die besonderen
-Prüfungsbestimmungen"
-zu setzen:
-"Die Fachprüfungsordnungen"!".
-8.
-Nach
-$
-3 Absatz
-3 wird folgender Absatz
-4 angefügt:
-4)
-Die Regeistudienzeit wird von der Fachprüfungsordnung
-der jeweiligen Fachrichtung geregelt.
-Hat
-sich der
-Student nicht
-bis
-zum Ende
-des
-in der
-jeweiligen Fachprüfungsordnung festgesetzten Zeit-
-raums zum letzten Teil der Diplom-Hauptprüfung ge-
-meldet,
-so gilt
-diese als erstmalig nicht
-bestanden.
-```
+Die Priifungsordnung ftir die Diplompriifung an der Technischen Fakultét der Universitat Erlangen-Niirnberg - Allgemeine Be-~ stimmungen (KMB1 1973, S.91) wird wie folgt gedndert: 
 
-### OCR Seite 3
+1. Die Ubherschrift der Allgemeinen Bestimmungen der Prtifungs~ ordnung ftir die Diplomprtifung an der Technischen Fakultat der Universit&t Erlangen-Ntirnberg erhdlt folgende Fassung: 
 
-```
-ist er zuständig für die Entscheidung in Prüfungssachen,
-insbesondere über die Zulassung zu Prüfungen und Wieder-
-holungsprüfungen.
-\
-10.
-$
-4 Absatz 1 Satz
-4 ist zu ersetzen durch:
-Er berichtet regelmäßig dem Fachbereichsrat über die
-Entwicklung der Prüfungen und Studienzeiten und gibt
-Anregungen zur Reform der Studienpläne und Prüfungs-
-'
-ordnungen.
-11.
-$
-4 Absatz
-2 Satz
-1 und Satz
-2 sind zu ersetzen durch:
-Der Prüfungsausschuß besteht
-aus einem Professor als
-Vorsitzendem und zusätzlich je einem weiteren Professor
-für jede Fachrichtung,
-für die eine Fachprüfungsordnung
-=
-gilt, und einem sonstigen, nach den näheren Vorschriften
-des Bayerischen Staatsministerium für Unterricht und Kultus
-prüfungsberechtigten hauptberuflichen wissenschaftlichen
-Mitarbeiter.
-12,
-$
-4 Absatz 2 Satz
-4 und Satz
-5 sind durch folgenden Satz
-zu
-ersetzen:
-Der Prüfungsausschuß ist beschlußfähig, wenn sämtliche
-Mitglieder ordnungsgemäß geladen sind und die Mehrheit
-der Mitglieder anwesend und stimmberechtigt
-ist; er
-beschließt mit der Mehrzahl der abgegebenen Stimmen;
-Stimmenthaltungen gelten nicht als abgegebene Stimmen.
-{
-.
-"
--
-- u.
-```
+   - Prtifungsordnung ftir die Diplompriifung im Fachbereich Ingenieurwissenschaften der Universitdt ErlangenNtirnberg. 
 
-### OCR Seite 4
+2. § 1 Absatz 2 entfAlit. 
 
-```
-Der Prüfungsausschuß bestellt die Prüfer und Beisitzer.
-15.
-$ 4 Absatz 5 Satz 4 erhält folgende Fassung:
-,
-u
-und Honorarprofessoren
-Zum Prüfer können neben Professoranyaucn sonstige, nach
-_
-den Vorschriften des Bayerischen Staatsministeriums für
-Unterricht und Kultus prüfungsberechtigte Lehrkräfte be-
-stellt
-werden.
-16.
-58
-5 Satz
-2 wird ersetzt durch:
-Die Meldetermine werden durch Anschlag bekanntgegeben.
-Bei der Anmeldung erhält der Kandidat einen schriftlichen,
-von ihm zu bestätigenden Hinweis darauf, wann und wo der
-\
-Prüfungstermin und -ort durch Anschlag bekanntgegeben wird.
-17. In $ 6 Absatz 1 Satz 1, $ 6 Absatz 4, 8 7 Absatz 2 Nr.1, Nr.5
-und Nr.6 ist jeweils anstelle der Worte "Besonderen Bestimmungen"
-zu setzen "Fachprüfungsordnungen"!,
-18, In $ 6 wird angefügt:
-5) Studienleistungen und Studienzeiten an Fachhochschulen werden
-auf Antrag des Kandidaten angerechnet, wenn sie den Änforder-
-ungen des weiteren Studiums unter Berücksichtigung der von
-Bayerischen Staatsministeriums für Unterricht und Kultus gemäß
-Art.71 Abs.l S.1 des Bayerischen Hochschulgesetzes zu erlassen-
-den Rechtsverordnung entsprechen,
-6) Der Bewerber darf nicht die Diplom-Vorprüfung oder die
-- 5.
-```
+« 2 = 
 
-### OCR Seite 5
+. 
 
-```
-bundener Hochschulreife können zur Diplom-Vorprüfung
-nur in den betreffenden Fachrichtungen zugelassen
-werden,
-zu denen sie aufgrund ihrer fachgebundenen
-Hochschulreife immatrikuliert
-sind.
-20.
-In
-$
-7 Absatz 2 Nr.4 ist anstelle der Worte "den Besonderen
-|
-Bestimmungen der Prüfungsordnung" zu setzen
-"der Fachprüfungsordnung".
-21.
-$
-7 Absatz
-2 Nr.8 entfällt,
-22,
-In $ 8 Absatz 1 wird angefügt:
-Die Diplom-Vorprüfung baut inhaltlich auf den Studienabschnitten
-auf,
-die ihr zugrundeliegen,
-23.
-In $ 8 Absatz 2 Nr.1, Absatz 3, Absatz 4, Absatz
-5. und Absatz 6
-ist jeweils anstelle der Worte "Besonderen Bestimmungen" zu
-setzen "Fachprüfungsordnungen!",
-24 a.
-$ 8 Absatz 3,
-Satz 2 wird gestrichen.
-24
-db.
-8 8 Absatz 3,
-Satz 3 wird Satz 2.
-24 c.
-Nach $ 8 Absatz 3, Satz 2 wird folgender Satz angefügt:
-Bei entsprechend besseren Leistungen in der Zusatzprüfung
-lautet die Note
-"ausreichend",
-24 d.
-In $ 8 Absatz
-5 ist folgender Satz anzufügen:
-Die schriftlichen Prüfungen dauern drei Stunden,
-soweit
-nicht die Fachprüfungsordnungen eine andere Regelung vor-
-schreiben.
--6-
-```
+7 
 
-### OCR Seite 6
+## ~2- 
 
-```
-2)
-Die Leistungen in den einzelnen Fächern sind mit
-folgenden Noten zu bewerten:
-1
-= sehr gut
-(= eine besonders anzuerkennende Leistung);
-2
-= gut
-(= eine den Durchschnitt überagende Leistung);
-3
-= befriedigend
-(= eine Leistung,
-die in jeder Hinsicht
-durchschnittlichen Anforderungen entspricht);
-“
-4
-= ausreichend
-(= eine unter dem Durchschnitt liegende,
-aber noch
-brauchbare
-Leistung);
-_
-5
-= nicht ausreichend
-(= eine an erheblichen Mängeln
-leidende,
-insgesamt nicht mehr brauchbare Leistung).
-27.
-Am Ende von
-8
-9 Absatz
-4 Satz
-4 wird der Punkt gestrichen
-und angefügt:
-und das Erlassen auf dem Zeugnis vermerkt.
-28.
-In
-$ 10 Absatz
-2 sind am Ende folgende Sätze anzufügen:
-Eine vor oder während der Prüfung eingetretene Prüfungs-
-unfähigkeit muß unverzüglich,
-in jedem Falle vor Bekannt-
-gabe des Prüfungsergebnisses,
-beim Vorsitzenden des
-Prüfungsausschusses oder beim Prüfer geltend gemacht
-werden.
-Angebliche Fänsel des Prüfungsverfahrens müssen unver-
-züglich,
-in jeden Falle bei schriftlichen Prüfungen vor
-Dekannipabe
-des Prüfungsergebnisses,
-bei mündlichen
-j
-Prüfurpen lönestens innerhalb einer Woche nach dem
-Prüfungsterrin beim Vorsitzenden des Prüfungsausschusses
-```
+3. In § 2 werden die Worter 
 
-### OCR Seite 7
+   - oder "Diplom-Mathematiker" (abgektirzt "Dipl.-Math,") 
 
-```
-30.
-In
-$ 11 Absatz
-2 Satz
-1 ist anstelle der Worte "Besonderen
-Bestimmungen"
-zu setzen
-"Fachprüfungsordnungen".
-31.
-$ 11 Absatz
-3 und Absatz
-4 werden ersetzt durch:
-.
-“
-N
-3)
-Eine zweite Wiederholung derselben Fachprüfung,
-eines Prüfungsabschnittes oder der ganzen Diplom-
-Vorprüfung ist nur in ganz besonderen Ausnahmefällen
-zulässig.
-Über entsprechende Anträge entscheidet der Prüfungs-
-ausschuß.
-Fine zweite Wiederholungsprüfung muß inner-
-halb von sechs Monaten, gerechnet von der Bekanntgabe
-des Nichtbestehens der Wiederholungsprüfung an, abge-
-legt werden.
-33.
-$ 13 Absatz
-1 erhält folgende Fassung:
-1)
-Zur Diplom-Hauptorüfung in einer Fachrichtung des Fach-
-bereiches Ingenieurwissenschaften wird zugelassen, wer
-in dieser Fachrichtung die Diplom-Vorprüfung bestanden
-und danach ein Studium entsprechend der Fachprüfungs-
-ordnung dieser Fachrichtung äurchgeführt hat.
--8-
-```
+gestrichen. 
 
-### OCR Seite 8
+- kh, § 3 Absatz 2 Satz 3 ist zu ersetzen durch: Wahrend dieser Zeit mu& der Student entsprechend der Fachprtifungsordnung der jeweiligen Fachrichtungen studiert haben. 
 
-```
-gen nicht bereits beim Prüfungsausschuß des Fachbe-
-reiches Ingenieurwissenschaften vorliegen.
->.
-8 15 Absatz
-1 erhält folgende Fassung:
-Die Diplom-Hauptprüfung besteht aus
-a)
-den Einzelprüfungen
-b)
-der Diplomarbeit.
-Sie baut inhaltlich auf den Studienabschnitten auf, die
-ihr zugrundeliegen.
-Die Fachprüfungsordnungen können fest-
-legen, daß die Diplomarbeit vor oder nach den Einzelprü-
-fungen ausgegeben wird.
-36,
-In $ 16 Absatz
-2
-Satz
-2 ist anstelle der Worte "Besonderen Be=-
-stimmungen"
-zu setzen "Fachprüfungsordnungen",.
-36 a.
-$ 16 Absatz 2 Satz 3 wird gestrichen.
-36
-db.
-$ 16 Absatz
-2 Satz 4 wird Satz
-3,
-{
-36 c.
-Nach $ 16 Absatz
-2 Satz 3 wird folgender Satz angefügt:
-Bei entsprechend besseren Noten in der Zusatzprüfung lautet die
-Note
-"ausreichend",
-37.
-Am Ende von
-$ 16 Absatz
-3 wird angefügt:
-Schriftliche Prüfungsleistungen sind in der Regel von zwei
-Prüfern zu bewerten.
-In den Prüfungsfächern, für die zwei
-Prüfer nicht vorhanden sind oder bei denen die Bestellung
-des zweiten Prüfers zu unzumutbarer Verzögerung führen Würde,
-werden die Leistungen nur von einem Prüfer beurteilt.
-Ob
-diese Voraussetzungen gegeben sind, wird vom Prüfungsaus-
-schuß zu Beginn eines Prüfungstermins für jedes Prüfunes-
--
-fach, das schriftlich seprüft wird. festeestellt.
-Be
-n
-"
--
-9
--
-```
+5. § 3 Absatz 2 Satz 5 ist zu ersetzen durch: 
 
-### OCR Seite 9
+. Die Diplomvorprtifung gilt erstmalig als nicht bestanden, wenn sich der Student nicht bis zu dem in der Fach. priifungsordnung der jeweiligen Fachrichtung festgelegten ' Zeitpunkt zum letzten Teil der Diplomvorprtifung gemeidet hat. . 
 
-```
-Einrichtung außerhalb der Hochschule durchgeführt
-werden, wenn sichergestellt werden kann,
-daß sie dort
-von einem Professor des Fachbereiches Ingenieur-
-'
-wissenschaften betreut wird.
-39.
-$ 17 Absatz 5 erhält folgende Fassung:
-5)
-Das Thema kann nur einmal und nur aus triftigen
-:
-Gründen und mit Einwilligung des Vorsitzenden des
-Prüfungsausschusses
-innerhalb der ersten drei Monate
-zurückgegeben werden. Bei Wiederholung der Diplomarbeit
-ist eine Rückgabe des Themas nicht zulässig,
-40.
-In
-$
-17 Absatz
-6 Satz
-1 ist anstelle der Worte "Besonderen
-|
-Bestimmungen"
-zu setzen
-"Fachprüfungsordnungen
-41.
-8 17 Absatz 6 Satz 3 und Satz
-4 erhalten foigende Fassung:
-Fristüberschreitungen sind nur in Ausnahmefällen zulässig und
-dürfen einschließlich etwaiger Verlängerungen höchstens zu
-einer Gesamtbearbeitungsdauer von 12 Monaten führen,
-Ein Aus-
-nahmefall ist insbesondere dann gegeben, wenn der rechtzeitigen
-Fertigstellung anfänglich nicht voraussehbare Schwierigkeiten
-entgegenstehen,
-= 10
--
-```
+6. § 3 Absatz 2 Satz 6 ist zu ersetzen durch: 
 
-### OCR Seite 10
+   - Der PriifungsausschukR kann in besonderen, von den Studierenden nicht su vertretenden Fallen auf schriftlichen Antrag die Meldefrist um héchstens zwei Semester verléngern. 
 
-```
-Bei einer Gesamtnote von 1,00 bis 1,20 kann das Gesamt-
-urteil "mit Auszeichnung bestanden" vergeben werden.
-Au.
-Nach
-$ 18 Absatz
-4 ist folgender Absatz 5 anzufügen:
-5)
-Während des Studiums erbrachte Leistungen
-(Studien-
-.
-leistungen) können nach Maßgabe der Fachprüfungs-
-i
-ordnung der jeweiliren Fachrichtung bei der Gesamt-'
-note nur berücksichtigt werden, wenn der Kandidat
-die Diplomprüfung bestanden hat,
-sie dürfen die
-Prüfungsgesamtnote höchstens
-zu einem Drittel be-
-stimmen.
-Is
-8 20 Absatz
-1 Satz 2 entfällt.
-46.
-In
-$ 21 Absatz
-1 Satz
-2 werden die Worte
-_
-bzw.
-"Diplom-Mathemätiker"
-gestrichen.
-|
-417.
-$ 21 Absatz
-2 erhält folgende Fassung:.
-Das Diplom wird vom Dekan unterzeichnet und mit dem
-Siegel des Fachbereiches
-Ingenieurwissenschaften versehen.
-```
+7. In § 3 Absatz 3 ist anstelle der Worte " Die besonderen Priifungsbestimmungen" zu setzen: 
 
-### OCR Seite 11
+"Die Fachpriifungsordnungen". 
 
-```
-Diese Änderungssatzung tritt am Tage nach ihrer
-j
-.-.,ı Bekanntmachung in Kraft,
-Bereits begonnene Prü-
-fungen werden noch nach den bisherigen Bestimmungen durch-
-geführt. Soweit diese Prüfungsordnung Fristen für die An-
-meldung zu einer Prüfung neu einführt oder verkürzt, gel-
-ten diese für die Diplom-Vorprüfung ab SS.76
-und für die
-Diplom-Hauptprüfung ab SS.77
-nach Inkrafttreten dieser
-Änderungssatzung.
->
-{
-Ausgefertigt aufgrund des Beschlusses des Denats der Universität
-Erlanzen-Nürnberg von 30.7.1975 und der Genehmigung des Bayerischen
-Staatsministeriums für Unterricht und Kultus Nr.
-1/15 - 6/123 816
-0
-Urlangen, -den 30.7.1975
-Ä
-|
-en, Kar:
-(Prof. Dr.
-B. Ilschner)
-Rektor
-Diese Satzung wurde am
-1.
-8. 1975
-in der Universität Erlangen-
-Nürnberg niedergelegt; die Niederlegung wurde am
-1. 8. 1975
-Tag der Bekanntmachung ist daher
-1. August 1975.
-```
+## 8. Nach § 3 Absatz 3 wird folgender Absatz 4 angefligt: 
+
+- 4) Die Regelistudienzeit wird von der Fachprtifungsordnung der jeweiligen Fachrichtung gerepelt. Hat sich der Student nicht bis zum Ende des in der jeweiligen Fachpritifungsordnung festgesetzten Zeitraums zum letsten Teil der Diplom-Hauptprtifung gemeldet, so gilt diese als erstmalig nicht bestanden. 
+
+; 
+
+; 
+
+\ 
+
+- 
+
+Der PrilfungsausschuS kann in besonderen von Studie~ renden nicht zu vertretenden Fallen auf schriftlichen Antrag die Meldefrist um hdchstens vier Semester verlangern. 
+
+## 9. § 4 Absatz 1 Satz 2 erhAlt folgende Fassune: 
+
+Soweit diese Priifungsordnung nichts anderes bestimmt, ist er zustdndig flir die Entscheidung in Prtifungssachen, insbesondere Uber die Zulassung zu Prtifungen und Wiederholungsprtifungen. 
+
+# 10. § 4 Absatz 1 Satz 4 ist zu ersetzen durch: 
+
+Er berichtet regelmdfRig dem Fachbereichsrat tlber die Entwicklung der Prtifungen und Studienzeiten und gibt Anregungen zur Reform der Studienpl&ne und Priifungs-~ ordnungen. 
+
+; 
+
+11. § 4 Absatz 2 Satz 1 und Satz 2 sind zu ersetzen durch: 
+
+Der Priifungsausschu& besteht aus einem Professor als Vorsitzendem und zusttzlich je einem weiteren Professor fur jede Fachrichtung, ftir die eine Fachprilfungsordnung gilt, und einem sonstigen, nach den niheren Vorschriften des Bayerischen Staatsministerium fiir Unterricht und Kultus priifungsberechtigten hauptberuflichen wissenschaftlichen Mitarbeiter. 
+
+12. § 4 Absatz 2 Satz 4 und Satz 5 sind durch folgenden Satz Z2u ersetzen: Der Priifungsausschus& ist beschlu&®fihig, wenn sdmtliche Mitglieder ordnungsgem4& geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist; er beschlie&Bt mit der Mehraahl der abgegebenen Stimmen; Stimmenthaltungen gelten nicht als abgegebene Stimmen. 
+
+: 
+
+c 
+
+. 
+
+-~ bom 
+
+, 
+
+> ° wes y “= 
+
+E 
+
+. 
+
+‘ 
+
+13. § 4 Absatz 3 erhdit folgende Fassung: 
+
+Der Vorsitzende und die Mitglieder des Prtifungsausschusses , sowie ihre Vertreter werden vom Fachbereichsrat fiir je~ - weils 5 Jahre gewdhit. Wiederwahl ist méglich. 
+
+14. § 4 Absatz 5 Satz 1 erhdlt folgende Fassung: 
+
+Der Priifungsausschu&® bestellt die Prlifer und Beisitzer. 
+
+15. § 4 Absatz 5 Satz 4 erh4lt folgende Fassung: 
+
+Zum . . und Honorarprofessoren Priifer kénnen neben ProfessoPenvyauch Sonstige, nach ~ den Vorschriften des Bayerischen Staatsministeriums fun Unterricht und Kultus prtifungsberechtigte Lehrkrdfte bestellt werden. 
+
+16. § 5S Satz 2 wird ersetzt durch: 
+
+      - Die Meldetermine werden durch Anschlag bekanntgegeben. Bei der Anmeldung erh&lt der Kandidat einen schriftlichen, von ihm zu bestdtigenden Hinweis darauf, wann und wo der Priifungstermin und ~ort durch Anschlag bekanntgegeben wird. 
+
+17. In § 6 Absatz 1 Satz 1, § 6 Absatz 4, § 7 Absatz 2 Nr.l, Nr.5 und Nr.6 ist jeweils anstelle der Worte "Besonderen Bestimmungen" Zu setzen "Pachprtifungsordnungen", 
+
+- 18, In § 6 wird angeftigt: 
+
+   - 5) Studienleistungen und Studienzeiten an Pachhochschulen werden auf Antrag des Kandidaten angerechnet, wenn sie den Anforderungen des weiteren Studiums unter Berticksichtigung der vom Bayerischen Staatsministeriums fiir Unterricht und Kultus gems Art.71 Abs.1 S.1 des Bayerischen Hochschulgesetzes gu erlassenden Rechtsverordnung entsprechen, 
+
+   - 6) Der Bewerber darf nicht die Diplom-Vorpriifung oder die 
+
+am 5 ow 
+
+: | 
+
+- 5 - 
+
+. 
+
+‘ 
+
+Diplom-Hauptpriifung der gleichen Fachrichtung endgliltig nicht bestanden haben. 
+
+19. § 7 Absatz 2 Nr. 3 erh&ilt folgende Fassung: 
+
+   3. der Nachweis der Hochschulreife oder der einschlagigen fachgebundenen Hochschulreife. Studenten mit fachgebundener Hochschulreife kénnen zur Diplom-Vorpriifung nur in den betreffenden Fachrichtungen zugelassen werden, zu denen sie aufgrund ihrer fachgebundenen Hochschulreife immatrikuliert sind. 
+
+20. In § 7 Absatz 2 Nr.4 ist anstelle der Worte "den Besonderen Bestimmungen der Prtifungsordnung" zu setzen "der Fachprtifungsordnung". i 
+
+21. § 7 Absatz 2 Nr.8 entfslit,. 
+
+22. In § 8 Absatz 1 wird angefiigt: Die Diplom-Vorprtifung baut inhaltlich auf den Studienabschnitten auf, die ihr zgugrundeliegen,. 
+
+23. In § 8 Absatz 2 Nr.1, Absatz 3, Absatz 4, Absatz 5 und Absatgz 6 ist jeweils anstelle der Worte "Besonderen Bestimmungen" zu setzen "Fachpriifungsordnungen", 
+
+- 24a, § 8 Absatz 3, Satz 2 wird gestrichen. 
+
+- 24 bd. § 8 Absatz 3, Satz 3 wird Satz 2. 
+
+- 24 c. Nach § 8 Absatz 3, Satz 2 wird folgender Satz angefiigt: Bei entsprechend besseren Leistungen in der Zusatzpriifung lautet die Note "ausreichend". 
+
+- 24d. In § 8 Absatz 5 ist folgender Satz anzufiigen: Die schriftlichen Priifungen dauern drei Stunden, soweit nicht die Fachprtifungsordnungen eine andere Regelung vorschreiben. 
+
+-~6 = 
+
+; 
+
+25. In § 9 Absatz 2 Satz 4 und Absatz 4 Satz 2 ist jeweils “ anstelle der Worte "Besonderen Bestimmungen" zu setzen 
+
+## 7 "Fachpriifungsordnungen", 
+
+, 
+
+26. § 9 Absatz 2 Satz 1 wird ersetzt durch: 
+
+   - 2) Die Leistungen in den einzelnen Fdchern sind mit folgenden Noten zu bewerten: , 
+
+      - 1 = sehr gut (= eine besonders anzuerkennende Leistung); 2 = gut (= eine den Durchschnitt tiberagende Leistung); 
+
+      - 3 = befriedigend (= eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen entspricht); . 
+
+      - 4 = ausreichend (= eine unter dem Durchschnitt liegende, aber noch brauchbare Leistung); we 
+
+      - 5 = nicht ausreichend (= eine an erheblichen M&ngeln leidende, insgesamt nicht mehr brauchbare Leistung). 
+
+27. Am Fnde von § 9 Absatz 4 Satz 4 wird der Punkt gestrichen und angefilgt: 
+
+und das Erlassen auf dem Zeugnis vermerkt. ; 
+
+28. In § 10 Absatz 2 sind am Ende folgende S&tze anzufligen: 
+
+Bine vor oder wihrend der Priifung eingetretene Prtifungsunfihigkelt muS unverzliglich, in jedem Falle vor Bekanntgabe des Priifungesergebnisses, beim Vorsitzenden des Priifungsausschusses oder beim Prtifer geltend gemacht werden. Angebliche Finreel des Prtifungsverfahrens mlissen unver2uglich, in jedem Falle bei schriftlichen Pritifungen vor Bekanntgabe dos Prilfungsergebnisses, bei mlindlichen Prifurgen Ternestens innerhalb einer Woche nach dem Priifungstermin beim Vorsitzenden des Priifungsausschusses 
+
+~7- 
+
+| 
+
+, 
+
+° 
+
+oder beim Prtifer geltend gemacht werden. 
+
+29. § 11 Absatz 1 Satz 1 erhdlt folgende Fassung: 
+
+Ist die Prtifung nicht bestanden oder gilt als nicht be_ Standen, so kann sie nur innerhalb eines weiteren Studienjahres wiederholt werden. 
+
+30. In § 11 Absatz 2 Satz 1 ist anstelle der Worte "Besonderen Bestimmungen" zu setzen 
+
+### "Fachprtifungsordnungen". 
+
+31. § 11 Absatz 3 und Absatz 4 werden ersetzt durch: _ 
+
+} 
+
+- 3) Eine zweite Wiederholung derselben Fachprtifung, eines Priifungsabschnittes oder der ganzen DiplomVorpriifung ist nur in ganz besonderen Ausnahmefillen zuldssig. , Uber entsprechende Antrége entscheidet der PrtifungsausschuBs. Eine zweite Wiederholungsprtifung mu& innerhalb von sechs Monaten, gerechnet von der Bekannt gabe des Nichtbestehens der Wiederholungspriifung an, abgelegt werden. 
+
+32. § 13 Absatz 1 erhtlt folgende Fassung: 
+
+- 4) Zur Diplom-Hauptoriifung in einer Fachrichtung des Fachbereiches Ingenieurwissenschaften wird zugelassen, wer in dieser Fachrichtung die Diplom-Vorprlifung bestanden und danach ein Studium entsprechend der Fachpriifungsordnung dieser Fachrichtung durchgeftihrt hat. 
+
+<!-- Start of picture text -->
+,<br><!-- End of picture text -->
+
+- 8 - 
+
+| 
+
+- 8 - 
+
+| . 
+
+( 
+
+33. In § 13 Absatz 5 Satz 2 ist anstelle der Worte "Besonderen Bestimmungen" zu setzen 
+
+### "Fachpriifungsordnungen". 
+
+34. § 14 Absatz 1 erhdlt folgende Fassung: 
+
+   - ; 1) § 7 gilt entsprechend, soweit die bendtigten Unterla-~ gen nicht bereits beim Prifungsausschu& des Fachbereiches Ingenieurwissenschaften vorliegen. 
+
+35. § 15 Absatz 1 erh8lt folgende Fassung: 
+
+Die Diplom-Hauptprtifung besteht aus 
+
+   - a) den Einzelprtifungen b) der Diplomarbeit. Sie baut inhaltlich auf den Studienabschnitten auf, die ihr zugrundeliegen. Die Fachprtifungsordnungen kénnen festlegen, da& die Diplomarbeit vor oder nach den Einzelprtifungen ausgegeben wird. 
+
+36. In § 16 Absatz 2 Satz 2 ist anstelle der Worte "Besonderen Bestimmungen" zu setzen "Fachprtifungsordnungen", 
+
+- 36 ae § 16 Absatz 2 Satz 3 wird gestrichen. 
+
+- 36 b. § 16 Absatz 2 Satz 4 wird Satz 3. 
+
+- 36 c. Nach § 16 Absatz 2 Satz 4 wird folgender Satz angeftigt: Bei entsprechend besseren Noten in der Zusatzpriifung lautet die Note "ausreichend", 
+
+37. Am Ende von § 16 Absatz 3 wird angefigt: 
+
+- Schriftliche Prilfungsleistungen sind in der Regel von zwei Priifern zu bewerten. In den Priifunesfachern, ftir die zwei Prifer nicht vorhanden sind oder bei denen die Bestellung des zweiten Priifers zu unzumutbarer Verzigerung ftthren wtirde, werden die Leistungen nur von einem Prilfer beurteilt. Ob diese Voraussetzungen gegeben sind, wird vom Priifungsausschu& zu Beginn eines Priifungstermins ftir jJedes Prifungs- 
+
+- - fach, das schriftlich sepriift wird. Pesteestellt. mt 
+
+~ 
+
+. 
+
+-~ 9 - 
+
+ag 
+
+. 
+
+38. § 17 Absatz 2 erhdlt folgende Fassung: 
+
+   - 2) Die Diplomarbeit kann von jedem Professor des Fach- 
+
+   - : bereiches Ingenieurwissenschaften ausgegeben werden. - Die Ausgabe einer Diplomarbeit durch einen Professor eines anderen Fachbereiches bedarf der Zustimmung des Vorsitzenden des Prtifungsausschusses. Mit seiner Genehmigung kann die Diplomarbeit auch in einer Einrichtung aug8erhalb der Hochschule durchgeftihrt 
+
+   - . werden, wenn sichergestellt werden kann, da& sie dort von einem Professor des Fachbereiches Ingenieur- 
+
+   - ' wissenschaften betreut wird. 
+
+39. § 17 Absatz 5 erhdlt folgende Fassung: 
+
+      - 5) Das Thema kann nur einmal und nur aus triftigen : Grtinden und mit Einwilligung des Vorsitzenden des Priifungsausschusses innerhalb der ersten drei Monate zurlickgegeben werden. Bei Wiederholung der Diplomarbeit ist eine Rtickgabe des Themas nicht zuldssig. 
+
+40. In § 17 Absatz 6 Satz 1 ist anstelle der Worte "Besonderen 
+
+| Bestimmungen" zu setzen 
+
+### "Fachprilfungsordnungen 
+
+44. § 17 Absatz 6 Satz 3 und Satz 4 erhalten folgende Fassung: 
+
+Fristiberschreitungen sind nur in AusnahmefSllen zuldssig und diirfen einschlieBlich etwaiger Verlingerungen héchstens zu einer Gesamtbearbeitungsdauer von 12 Monaten flihren, Ein Ausnahmefall ist insbesondere dann gegeben, wenn der rechtzeitigen Fertigstellung anfanglich nicht voraussehbare Schwierigkeiten entgegenstehen, 
+
+-~ 10 - 
+
+## 42. An § 18 Absatz 1 ist folgender Satz anzuftigen: 
+
+Ist die Priifungsleistung von mehreren Priifern zu beur, tellen, so gilt das arithmetische Mittel der Einzelbewertungen. 
+
+# 43 § 18 Absatz 3 erh&lt folgende Fassung: 
+
+   - Bei einer Gesamtnote von 1,00 bis 1,20 kann das Gesamt~ urteil "mit Auszeichnung bestanden" vergeben werden. 
+
+- 4y., Nach § 18 Absatz 4 ist folgender Absatz 5 anzuftigen: 
+
+   - 5) Wahrend des Studiums erbrachte Leistungen (Studien. leistungen) kénnen nach MaBgabe der Fachprtifungsi erdnung der jeweiliren Fachrichtung bei der Gesamtnote nur berticksichtigt werden, wenn der Kandidat die Diplomprtifung bestanden hat; sie dlirfen die Prilfungsgesamntnote hichstens zu einem Drittel bestimnmen. 
+
+- 4s § 20 Absatz 1 Satz 2 entfSlit. 
+
+46. In § 21 Absatz 1 Satz 2 werden die Worte 
+
+### . bzw. "Diplom-Mathemetiker" 
+
+gestrichen. 
+
+| 
+
+47. § 24 Absatz 2 erhilt folgende Fassune:. 
+
+Das Diplom wird vom Dekan unterzeichnet und mit dem Siegel des Fachbereiches Ingenieurwissenschaften versehen. 
+
+| - 11 - : 
+
+, 
+
+( 
+
+. 
+
+4g, § 24 entfalit. 
+
+. 
+
+Diese Anderungssatzung tritt am Tage nach ihrer ~~ | .-7..4 Bekanntmachung in Kraft. Bereits begonnene Prtifungen werden noch nach den bisherigen Bestimmungen durch-* geflhrt. Soweit diese Prtifungsordnung Fristen fiir die Anmeldung zu einer Priifung neu einfilhrt oder verktirzt, gelten diese filr die Diplom-Vorpriifung ab SS.76 und fiir die Diplom-Hauptprilfung ab SS.77 nach Inkrafttreten dieser Anderungssatzung. - 
+
+~~ | , 
+
+Ausgefertigt aufgrund des Beschlusses des Denats der Universitat Erlanzen-Niuirnberg vom 30.7.1975 und der Genehmigung des Bayerischen Staatsministeriums ftir Unterricht und Kultus Nr. I/15 - 6/123 816 
+
+| 
+
+a . 
+
+Brlangen, den 30.7.1975 , “ay Mon > (Prof. Dr. B. Ilschner) Rektor 
+
+Diese Satzung wurde am 1. 8. 1975 in der Universitat. ErlangenNiirnberg niedergelegt; die Niederlegung wurde am 1. 8. 1975 Tag der Bekanntmachung ist daher 1. August 1975. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AeS-2FachBA_Soziologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:13:59+00:00
-page_count_chars: 3692
+scraped_at: 2026-07-01T10:30:38+00:00
+page_count_chars: 3708
 ---
 
 # 2. Juli 2015
@@ -12,9 +12,9 @@ page_count_chars: 3692
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AeS-2FachBA_Soziologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung** 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung** 
 
-## **für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 2. Juli 2015** 
+# **für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 2. Juli 2015** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -32,7 +32,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-FachBache
 
 3. Die Anlage nach § 6 wird wie folgt geändert: 
 
-   - a) In Zeile 1 wird in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) der hochgestellte Asterisk nach dem Wort „ECTS-Punkten“ durch die hochgestellte Zahl „[1] “ ersetzt. 
+   - a) In Zeile 1 wird in Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) der hochgestellte Asterisk nach dem Wort „ECTS-Punkten“ durch die hochgestellte Zahl „<sup>1</sup> “ ersetzt. 
 
    - b) In Zeile 17 wird in Spalte 1 (Modulbezeichnung) nach dem Wort „Wahlbereich“ das Wort „intern“ angefügt. 
 
@@ -54,7 +54,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-FachBache
 
    - cc) Die neue Fußnote 2 erhält folgende Fassung: 
 
-      - „[2] Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils geltenden FPO bzw. im Modulhandbuch geregelt.“ 
+      - „<sup>2</sup> Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils geltenden FPO bzw. im Modulhandbuch geregelt.“ 
 
 - h) In Zeile 18 wird das Wort „Wahlbereich“ durch das Wort „Vertiefungsbereich“ ersetzt. 
 

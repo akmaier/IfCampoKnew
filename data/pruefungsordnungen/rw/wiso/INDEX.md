@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Fachbereich Wirtschafts- und Sozialwissenschaften"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:25:07+00:00
+scraped_at: 2026-07-01T10:41:10+00:00
 ---
 
 # Fachbereich Wirtschafts- und Sozialwissenschaften

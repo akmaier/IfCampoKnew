@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.08.2011 i.d.F. 14.10.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-MA-Communications-Multimedia-Engineering.Okt2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:05:56+00:00
-page_count_chars: 8428
+scraped_at: 2026-07-01T11:27:13+00:00
+page_count_chars: 8482
 ---
 
 # PDF vom 05.08.2011 i.d.F. 14.10.2013
@@ -14,7 +14,7 @@ page_count_chars: 8428
 
 **Der Text dieser Fachprüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachprüfungsordnung für den Masterstudiengang Communications and Multimedia Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOCME - Vom 5. August 2011** 
+# **Fachprüfungsordnung für den Masterstudiengang Communications and Multimedia Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOCME - Vom 5. August 2011** 
 
 geändert durch Satzung vom 14. Oktober 2013 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedi
 
 ## **§ 35 Masterstudiengang, Regelstudienzeit, Studienbeginn** 
 
-(1)[1] Das Masterstudium Communications and Multimedia Engineering baut auf Bachelor- und Diplomstudiengängen mit Schwerpunkt der Informations- und Kommunikationstechnik auf.[2] Es setzt sich aus Modulen im Gesamtumfang von 120 ECTS-Punkten zusammen und beinhaltet eine Masterarbeit mit einer Bearbeitungszeit von sechs Monaten. 
+(1)<sup>1</sup> Das Masterstudium Communications and Multimedia Engineering baut auf Bachelor- und Diplomstudiengängen mit Schwerpunkt der Informations- und Kommunikationstechnik auf.<sup>2</sup> Es setzt sich aus Modulen im Gesamtumfang von 120 ECTS-Punkten zusammen und beinhaltet eine Masterarbeit mit einer Bearbeitungszeit von sechs Monaten. 
 
 (2) Die Regelstudienzeit beträgt vier Semester. 
 
@@ -38,7 +38,7 @@ Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedi
 
 ## **§ 36 Internationale Orientierung** 
 
-1Das Studium des Communications and Multimedia Engineering ist englischsprachig. 2Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder Deutsch durchgeführt.[3] Die Masterarbeit wird in der Regel in englischer Sprache verfasst. 4Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
+1Das Studium des Communications and Multimedia Engineering ist englischsprachig. 2Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder Deutsch durchgeführt.<sup>3</sup> Die Masterarbeit wird in der Regel in englischer Sprache verfasst. 4Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
 
 1 
 
@@ -46,7 +46,7 @@ Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedi
 
 ## **§ 37 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Bachelorabschluss im Fach Informations- und Kommunikationstechnik, Computational Engineering oder Elektrotechnik, Elektronik und Informationstechnik oder ein der entsprechenden Prüfungsordnung gleichwertiger Abschluss.[2] Bewerberinnen und Bewerber mit einem fachverwandten bzw. einem nicht gleichwertigen Abschluss können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung gemäß Abs. 3 in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Bachelorabschluss im Fach Informations- und Kommunikationstechnik, Computational Engineering oder Elektrotechnik, Elektronik und Informationstechnik oder ein der entsprechenden Prüfungsordnung gleichwertiger Abschluss.<sup>2</sup> Bewerberinnen und Bewerber mit einem fachverwandten bzw. einem nicht gleichwertigen Abschluss können nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung gemäß Abs. 3 in das Masterstudium aufgenommen werden. 
 
 (2) Als weitere Unterlagen im Sinne der **Anlage 1** Abs. 2 Nr. 4 **ABMPO/TechFak** sind folgende Unterlagen vorzulegen: 
 
@@ -78,13 +78,17 @@ Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedi
 
 nach individueller Studienberatung alternative, durch den Prüfungsausschuss genehmigte Module gewählt werden. 
 
-(3) Art und Umfang der Studien- und Prüfungsleistungen sind der **Anlage** zu entnehmen. **§ 39 Voraussetzung für die Ausgabe der Masterarbeit** (1)[1] Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, dass die „Pflicht-Module“ gemäß der **Anlage** bestanden sind. 
+(3) Art und Umfang der Studien- und Prüfungsleistungen sind der **Anlage** zu entnehmen. 
+
+## **§ 39 Voraussetzung für die Ausgabe der Masterarbeit** 
+
+(1)<sup>1</sup> Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass die „Pflicht-Module“ gemäß der **Anlage** bestanden sind. 
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 1 eine vorgezogene Zulassung zur Masterarbeit gewähren. 
 
 ## **§ 40 Masterarbeit** 
 
-(1) 1Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Communication and Multimedia Engineerings nachzuweisen.[2] Zur Vergabe der Masterarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
+(1) 1Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Communication and Multimedia Engineerings nachzuweisen.<sup>2</sup> Zur Vergabe der Masterarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
 
 (2) Die Masterarbeit besitzt einen Umfang von 30 ECTS-Punkten. 
 
@@ -96,15 +100,16 @@ nach individueller Studienberatung alternative, durch den Prüfungsausschuss gen
 
 ## **III. Teil: Schlussbestimmungen** 
 
-**§ 42 Inkrafttreten** 1Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2011/2012 das Masterstudium Communication and Multimedia Engineering aufnehmen. 
+## **§ 42 Inkrafttreten** 
+
+1Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2011/2012 das Masterstudium Communication and Multimedia Engineering aufnehmen. 
 
 3 
 
-## **Anlage** 
+## **<u>Anlage</u>** 
 
-|**Anlage**|||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
 |**Nr.**|**Modulgruppe**||**SWS**||**ECTS**|**1.Sem**|**2.Sem**|**3.Sem**|**4.Sem**|**Art und Umfang der**<br>**Prüfungs- und Studienleistung**|
+|---|---|---|---|---|---|---|---|---|---|---|
 ||Modulname|V|Ü|P||ECTS|ECTS|ECTS|ECTS||
 ||**Pflichtmodule**||||||||||
 |M1|Digital Communications|3|1||5|5||||PL: K90 Min.|
@@ -125,7 +130,6 @@ nach individueller Studienberatung alternative, durch den Prüfungsausschuss gen
 ||**Wahlmodule *)**||||||||||
 |M14|Technical Electives||||15|2,5|2,5|10||benotete SL|
 |M15|**Masterarbeit**||||30||||30||
-||||||||||||
 
 Wahlpflichtmodule ('Technical courses' und Praktika) sind aus je einem Katalog, der zu Beginn eines jedem Semesters ortsüblich bekannt gemacht wird, zu wählen. Wahlmodule können aus einem weiteren Katalog bzw. dem Wahlpflichtfachkatalog entnommen werden, der dem Prüfungsausschuss vorliegt und ortsüblich bekannt gemacht wird. 
 

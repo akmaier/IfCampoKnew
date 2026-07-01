@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:07:56+00:00
-page_count_chars: 1614
+scraped_at: 2026-07-01T11:29:36+00:00
+page_count_chars: 1611
 ---
 
 # 7. Juli 2010
@@ -12,13 +12,13 @@ page_count_chars: 1614
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES-BA%20MA-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
 
 Vom 7. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, zuletzt geändert durch Satzung vom 6. Mai 2010, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Anlage 1 wird wie folgt geändert:
 
 - b) In Zeile 27 (Modul „Elektromagnetische Felder I“) Spalte 12 wird die Zahl „90“ durch die Zahl „60“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. 
 

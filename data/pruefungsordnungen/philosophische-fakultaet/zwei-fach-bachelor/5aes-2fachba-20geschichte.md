@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2FachBA%20Geschichte.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:03+00:00
-page_count_chars: 5872
+scraped_at: 2026-07-01T10:19:37+00:00
+page_count_chars: 5932
 ---
 
 # 5. August 2011
@@ -12,19 +12,19 @@ page_count_chars: 5872
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2FachBA%20Geschichte.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
 1. In § 2 Abs. 3 wird folgender Satz 3 angefügt: 
 
-„[3] Der Bachelorstudiengang kombiniert die Vermittlung von breitem Orientierungs- und Grundlagenwissen mit der Möglichkeit zur inhaltlichen Schwerpunktsetzung und Profilbildung in fortgeschrittenen Studienabschnitten.“ 
+„<sup>3</sup> Der Bachelorstudiengang kombiniert die Vermittlung von breitem Orientierungs- und Grundlagenwissen mit der Möglichkeit zur inhaltlichen Schwerpunktsetzung und Profilbildung in fortgeschrittenen Studienabschnitten.“ 
 
 2. § 4 wird wie folgt geändert: 
 
@@ -68,13 +68,13 @@ a) Abs. 1 erhält folgende Fassung:
 
 b) Nach Abs. 2 werden folgende Abs. 3 bis 7 eingefügt: 
 
-„(3)[1] Als Basismodule I-III sind in eigenständiger Wahl insgesamt drei der nachfolgend aufgeführten Module zu absolvieren: Basismodul Alte Geschichte, Basismodul Mittelalterliche Geschichte, Basismodul Neuere Geschichte und Basismodul Neueste Geschichte.[2] Die Basismodule I-III sind in drei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig. 
+„(3)<sup>1</sup> Als Basismodule I-III sind in eigenständiger Wahl insgesamt drei der nachfolgend aufgeführten Module zu absolvieren: Basismodul Alte Geschichte, Basismodul Mittelalterliche Geschichte, Basismodul Neuere Geschichte und Basismodul Neueste Geschichte.<sup>2</sup> Die Basismodule I-III sind in drei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig. 
 
 (4) Im Basismodul IV BA ist die Überblicksvorlesung in dem Lehrgebiet nach Abs. 3 Satz 1 zu absolvieren, in dem kein Basismodul absolviert wurde. 
 
-(5)[1] Als Aufbaumodule I-II sind in eigenständiger Wahl insgesamt zwei der nachfolgend aufgeführten Module zu absolvieren: Aufbaumodul Alte Geschichte, Aufbaumodul Mittelalterliche Geschichte, Aufbaumodul Neuere Geschichte, Aufbaumodul Neueste Geschichte, Aufbaumodul Bayerische und Fränkische Landesgeschichte sowie Aufbaumodul Osteuropäische Geschichte. 2Die Aufbaumodule sind in zwei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig.[3] Die Lehrgebiete, in denen die Aufbaumodule belegt werden, werden auf dem Abschlusszeugnis als Studienschwerpunkte ausgewiesen. 
+(5)<sup>1</sup> Als Aufbaumodule I-II sind in eigenständiger Wahl insgesamt zwei der nachfolgend aufgeführten Module zu absolvieren: Aufbaumodul Alte Geschichte, Aufbaumodul Mittelalterliche Geschichte, Aufbaumodul Neuere Geschichte, Aufbaumodul Neueste Geschichte, Aufbaumodul Bayerische und Fränkische Landesgeschichte sowie Aufbaumodul Osteuropäische Geschichte. 2Die Aufbaumodule sind in zwei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig.<sup>3</sup> Die Lehrgebiete, in denen die Aufbaumodule belegt werden, werden auf dem Abschlusszeugnis als Studienschwerpunkte ausgewiesen. 
 
-(6)[1] Im Wahlpflichtmodul sind verpflichtend eine Übung des Typs Epochenübergreifende Lektüreübung sowie eine Übung des Typs Übung Wahlpflicht im Umfang von mind. 4 ECTS-Punkten zu belegen.[2] Die Anrechnung von Praktika ist nach vorher erfolgter Absprache mit dem Studiengangskoordinator und der Vorlage eines qualifizierten Nachweises möglich. 
+(6)<sup>1</sup> Im Wahlpflichtmodul sind verpflichtend eine Übung des Typs Epochenübergreifende Lektüreübung sowie eine Übung des Typs Übung Wahlpflicht im Umfang von mind. 4 ECTS-Punkten zu belegen.<sup>2</sup> Die Anrechnung von Praktika ist nach vorher erfolgter Absprache mit dem Studiengangskoordinator und der Vorlage eines qualifizierten Nachweises möglich. 
 
 (7) Die Bachelorarbeit ist in einem der beiden Lehrgebiete zu verfassen, in denen die Aufbaumodule absolviert werden.“ 
 
@@ -84,7 +84,7 @@ c) Die bisherigen Abs. 3 und 4 werden zu Abs. 8 und 9.
 
 „ **§ 5 Grundlagen- und Orientierungsprüfung** Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Geschichte die Basismodule I und II erfolgreich abgelegt werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium zum Wintersemester 2011/2012 aufnehmen. 
 

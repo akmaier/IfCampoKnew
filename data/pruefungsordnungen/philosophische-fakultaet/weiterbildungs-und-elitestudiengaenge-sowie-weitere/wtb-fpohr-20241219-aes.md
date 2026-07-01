@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20241219 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20241219_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:46:39+00:00
-page_count_chars: 18023
+scraped_at: 2026-07-01T09:57:35+00:00
+page_count_chars: 17497
 ---
 
 # wtb FPOHR 20241219 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 18023
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20241219_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOHR – Vom 19. Dezember 2024** 
+# **Zweite Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOHR – Vom 19. Dezember 2024** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 86 Abs. 3, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) vom 5. August 2022 in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
@@ -24,29 +24,29 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
 2. In § 3 Abs. 3 Satz 2 wird nach den Worten „bestimmen sich nach Anlage“ die Ziffer „ **1** “ durch die Ziffern und die Abkürzung „ **3** bzw. **4** “ ersetzt. 
 
-3. Nach § 3 wird folgender neuer § 3a eingefügt: 
+## 3. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
 ## „ **§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitung** 
 
-(1)[1] Das Masterstudium kann in der Form des hälftigen Teilzeitstudiums gemäß **Anlage 4** absolviert werden.[2] Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
+(1)<sup>1</sup> Das Masterstudium kann in der Form des hälftigen Teilzeitstudiums gemäß **Anlage 4** absolviert werden.<sup>2</sup> Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
 
-(2)[1] Ein Wechsel vom Vollzeit- zum Teilzeitstudiengang ist auf schriftlichen Antrag nach dem ersten Vollzeitsemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem zweiten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung darüber trifft der Prüfungsausschuss.[3] Die bisherigen im Vollzeitstudiengang studierten Semester werden entsprechend angerechnet und die bzw. der Studierende wird in das entsprechende Fachsemester eingeschrieben, wobei die Fachsemesteranzahl verdoppelt wird.[4] Die absolvierten Prüfungen bzw. Module und ggf. vorhandene Fehlversuche werden von Amts wegen gemäß § 11 
+(2)<sup>1</sup> Ein Wechsel vom Vollzeit- zum Teilzeitstudiengang ist auf schriftlichen Antrag nach dem ersten Vollzeitsemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.<sup>2</sup> Ein Wechsel nach dem zweiten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung darüber trifft der Prüfungsausschuss.<sup>3</sup> Die bisherigen im Vollzeitstudiengang studierten Semester werden entsprechend angerechnet und die bzw. der Studierende wird in das entsprechende Fachsemester eingeschrieben, wobei die Fachsemesteranzahl verdoppelt wird.<sup>4</sup> Die absolvierten Prüfungen bzw. Module und ggf. vorhandene Fehlversuche werden von Amts wegen gemäß § 11 
 
 1 
 
-anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt. 
+anerkannt.<sup>5</sup> Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt. 
 
-(3)[1] Ein Wechsel vom Teilzeit- zum Vollzeitstudiengang ist auf schriftlichen Antrag nach dem ersten, zweiten und dritten Teilzeitsemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.[2] Ein Wechsel nach dem vierten Teilzeitsemester in den Vollzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung darüber trifft der Prüfungsausschuss.[3] Die bisherigen im Teilzeitstudiengang studierten Semester werden entsprechend angerechnet und die bzw. der Studierende wird in das entsprechende Fachsemester eingeschrieben, wobei die Fachsemesteranzahl halbiert wird.[4] Die absolvierten Prüfungen bzw. Module und ggf. vorhandene Fehlversuche werden von Amts wegen gemäß § 11 anerkannt.[5] Im Teilzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt. 
+(3)<sup>1</sup> Ein Wechsel vom Teilzeit- zum Vollzeitstudiengang ist auf schriftlichen Antrag nach dem ersten, zweiten und dritten Teilzeitsemester zulässig; es wird empfohlen, vor dem Wechsel eine Studienberatung in Anspruch zu nehmen.<sup>2</sup> Ein Wechsel nach dem vierten Teilzeitsemester in den Vollzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung darüber trifft der Prüfungsausschuss.<sup>3</sup> Die bisherigen im Teilzeitstudiengang studierten Semester werden entsprechend angerechnet und die bzw. der Studierende wird in das entsprechende Fachsemester eingeschrieben, wobei die Fachsemesteranzahl halbiert wird.<sup>4</sup> Die absolvierten Prüfungen bzw. Module und ggf. vorhandene Fehlversuche werden von Amts wegen gemäß § 11 anerkannt.<sup>5</sup> Im Teilzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt. 
 
-(4)[1] Im Teilzeitstudium können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.[2] Abweichend von Satz 1 können in dem Studienjahr, in dem die Masterarbeit abgegeben wird, maximal 45 ECTS-Punkten erworben werden.[3] Eine Überschreitung der ECTS-Punktezahl gemäß Sätzen 1 und 2 um 5 ECTS-Punkte ist einmalig zulässig.[4] Der Prüfungsausschuss kann auf begründeten, schriftlichen Antrag eine Ausnahme von der Regelung in Satz 3 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
+(4)<sup>1</sup> Im Teilzeitstudium können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.<sup>2</sup> Abweichend von Satz 1 können in dem Studienjahr, in dem die Masterarbeit abgegeben wird, maximal 45 ECTS-Punkten erworben werden.<sup>3</sup> Eine Überschreitung der ECTS-Punktezahl gemäß Sätzen 1 und 2 um 5 ECTS-Punkte ist einmalig zulässig.<sup>4</sup> Der Prüfungsausschuss kann auf begründeten, schriftlichen Antrag eine Ausnahme von der Regelung in Satz 3 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
 
-4. In § 5 Abs. 2 erhält Satz 4 folgende neue Fassung: 
+## 4. In § 5 Abs. 2 erhält Satz 4 folgende neue Fassung: 
 
-„[4] Leistungsnachweise in Form von unmittelbar aufeinander bezogenen Teilleistungen zum selben Prüfungsgegenstand (sog. echte Portfolioprüfung) sowie in Form von einer unbenoteten und/oder beliebig oft wiederholbaren Studienleistung, die aus mehreren in sich geschlossenen mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Teilleistungen bestehen, zählen als nur eine selbständige Modul(teil)prüfung im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von unmittelbar aufeinander bezogenen Teilleistungen zum selben Prüfungsgegenstand (sog. echte Portfolioprüfung) sowie in Form von einer unbenoteten und/oder beliebig oft wiederholbaren Studienleistung, die aus mehreren in sich geschlossenen mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Teilleistungen bestehen, zählen als nur eine selbständige Modul(teil)prüfung im Sinne des Satz 3.“ 
 
-5. § 6 wird wie folgt geändert: 
+## 5. § 6 wird wie folgt geändert: 
 
-## a) Abs. 1 Satz 1 wird wie folgt geändert: 
+a) Abs. 1 Satz 1 wird wie folgt geändert: 
 
    - aa) In der lfd. Nr. 4 wird nach den Worten „gemäß **Anlage** “ die Ziffer „ **2** “ durch die Ziffer „ **1** “ ersetzt. 
 
@@ -74,7 +74,7 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 
 9. In § 11 Abs. 4 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Sätze 1 und 2 gelten für das Teilzeitstudium mit der Maßgabe, dass eine Hochstufung jeweils bereits nach der Hälfte des in Sätzen 1 und 2 angegebenen Umfangs der Anerkennung bzw. Anrechnung erfolgt.“ 
+„<sup>3</sup> Sätze 1 und 2 gelten für das Teilzeitstudium mit der Maßgabe, dass eine Hochstufung jeweils bereits nach der Hälfte des in Sätzen 1 und 2 angegebenen Umfangs der Anerkennung bzw. Anrechnung erfolgt.“ 
 
 10. In § 12 Abs. 3 Satz 6 wird nach den Worten „die abgeprüften Kompetenzen nicht in einem im Sinne des Satz“ die Ziffer „2“ durch die Ziffer „5“ ersetzt. 
 
@@ -104,7 +104,7 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 
    - a) In Satz 3 Nr. 1 werden nach dem Wort „in“ am Anfang die Worte und die Ziffer „der **Anlage 1** “ durch die Worte und Ziffern „den **Anlagen 3** und **4** “ ersetzt. 
 
-   - b) In Satz 3 wird die hochgestellte Ziffer „[3] “ am Satzanfang durch die hochgestellte Ziffer „[4] “ ersetzt sowie nach den darauffolgenden Worten „In Fällen des Satz“ die Ziffer „2“ durch die Ziffer „3“ ersetzt. 
+   - b) In Satz 3 wird die hochgestellte Ziffer „<sup>3</sup> “ am Satzanfang durch die hochgestellte Ziffer „<sup>4</sup> “ ersetzt sowie nach den darauffolgenden Worten „In Fällen des Satz“ die Ziffer „2“ durch die Ziffer „3“ ersetzt. 
 
 14. In § 26 Abs. 2 werden nach den Worten „Art und Umfang der Masterprüfung sind“ die Worte und die Ziffer „der **Anlage 1** “ durch die Worte und Ziffern „den **Anlagen 3** und **4** “ ersetzt. 
 
@@ -118,13 +118,13 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 
 16. § 28 Abs. 1 wird wie folgt geändert: 
 
-- a) In Satz 2 werden nach den Worten „sofern im Falle der Wiederholung“ die Worte „abweichend von“ durch das Wort „nach“ ersetzt. 
+   - a) In Satz 2 werden nach den Worten „sofern im Falle der Wiederholung“ die Worte „abweichend von“ durch das Wort „nach“ ersetzt. 
 
-- b) In Satz 8 wird nach den Worten „Soweit eine Wiederholung in der Frist des Satz“ die Ziffer „3“ durch die Ziffer „6“ ersetzt. 
+   - b) In Satz 8 wird nach den Worten „Soweit eine Wiederholung in der Frist des Satz“ die Ziffer „3“ durch die Ziffer „6“ ersetzt. 
 
 17. In § 29 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die zweite Änderungssatzung tritt am 1. Februar 2025 in Kraft.[2] Sie gilt für alle Studierenden, die bereits nach der FPOHR i. S. d. Abs. 1 bzw. 3 studieren bzw. die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden.“ 
+„(4)<sup>1</sup> Die zweite Änderungssatzung tritt am 1. Februar 2025 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die bereits nach der FPOHR i. S. d. Abs. 1 bzw. 3 studieren bzw. die das Studium ab dem Wintersemester 2025/2026 aufnehmen werden.“ 
 
 ## 18. **Anlage 1** wird gestrichen. 
 
@@ -144,41 +144,38 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 
 ## **„Anlage 3: Studienverlaufsplan Master Human Rights (Vollzeit)** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Ge-**<br>**samt-**|**1. Sem**|**2. Sem**|**3. Sem**|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**|||||||||
-|||||||||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**Prüfung**||
-|**Human Rights Philosophy**|Lecture Human Rights Philosophy|2||||**5**|5|||Klausur (90 Min.)|1|
-|**Human Rights Politics**|Lecture Human Rights Politics|2||||**5**|5|||Klausur (90 Min.)|1|
-|**Human Rights Law**|Lecture Human Rights Law|2||||**5**|5|||Klausur (90 Min.)|1|
-|**Human Rights Research Meth-**<br>**ods**|Seminar Human Rights Research<br>Methods||||1|**5**|3|||Hausarbeit (5-10 S.)|0|
-||Tutorial Research and Writing Exercise||||1||2|||||
-|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights Politics||||2|**5**|5|||Referat (15-20 Min.)|0|
-|**Cases in Human Rights Law**|Seminar Cases in Human Rights Law||||2|**5**|5|||Referat (15-20 Min.)|0|
-|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar||||2|**5**||5||Hausarbeit (10-15 S.)|1|
-|**Key skills**|Key skill workshops||||2|**5**||5||Lerntagebuch (5-10 S.)|0|
-|**Specialised aspects of**<br>**human rights protection I**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection II**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection III**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>|**SWS**<br> <br> <br>|**Ge-**<br>**samt-**<br>|**1. Sem**<br>|**2. Sem**<br>|**3. Sem**<br>|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|
+||**V**|**Ü**<br>**P**<br>**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||**note**|
+|**Human Rights Philosophy**|Lecture Human Rights Philosophy<br>2||**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Politics**|Lecture Human Rights Politics<br>2||**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Law**|Lecture Human Rights Law<br>2||**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Research Meth-**<br>|Seminar Human Rights Research<br>Methods|1|**5**|3|||Hausarbeit (5-10 S)|0|
+|**ods**|Tutorial Research and Writing Exercise|1||2|||.||
+|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights Politics|2|**5**|5|||Referat (15-20 Min.)|0|
+|**Cases in Human Rights Law**|Seminar Cases in Human Rights Law|2|**5**|5|||Referat (15-20 Min.)|0|
+|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar|2|**5**||5||Hausarbeit (10-15 S.)|1|
+|**Key skills**|Key skill workshops|2|**5**||5||Lerntagebuch (5-10 S.)|0|
+|**Specialised aspects of**<br>**human rights protection I**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection II**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection III**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
 
 6 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Ge-**<br>**samt-**|**1. Sem**|**2. Sem**|**3. Sem**|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**Prüfung**||
-|**Specialised aspects of**<br>**human rights protection IV**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Aus den folgenden Modulen sind entweder das Modul A oder die Module B1 und B2 zu wählen:**||||||||||||
-|**A: Master’s thesis**|Masterthesis|||||**30**|||27,5|Masterarbeit (60-80 S.)|1|
-||Colloquium||||||||2,5|||
-|**B1: Master’s thesis**|Masterthesis|||||**15**|||15|Masterarbeit (20-40 S.)|2|
-|**B2: Internship**||||||**15**|||15|Praktikumsbericht (2-5 S.)|0|
-|**S SWS d ECTSPk**||**6**|||**18**|**90**|**30**|**30**|**30**|||
-|**umme  un -unte**||**24**||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br> <br> <br> <br>|**Ge-**<br>**samt-**<br>|**1. Sem**<br>|**2. Sem**<br>|**3. Sem**<br>|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|
+|||**V**<br>**Ü**<br>**P**<br>**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||**note**|
+|**Specialised aspects of**<br>**human rights protection IV**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Aus den folgenden Modulen sind**|**entweder das Modul A oder die**|**Module B1 und B2 zu wählen:**|||||||
+|**A: Master’s thesis**|Masterthesis||**30**|||27,5|Masterarbeit (60-80 S)|1|
+||Colloquium|||||2,5|.||
+|**B1: Master’s thesis**|Masterthesis||**15**|||15|Masterarbeit (20-40 S.)|2|
+|**B2: Internship**|||**15**|||15|Praktikumsbericht (2-5 S.)|0|
+|**Summe SWS und ECTS-Punkte**||**6**<br>**18**<br>**24**|**90**|**30**|**30**|**30**|||
 
 1Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden gewählten Moduls. Für Einzelheiten siehe Modulhandbuch.“ 
 
-## Glossar Veranstaltungsformen 
+### Glossar Veranstaltungsformen 
 
 |Deutsch|Englisch|
 |---|---|
@@ -188,7 +185,7 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 |Projektgruppe|group project|
 |Masterarbeit|Master‘s thesis|
 
-## Glossar Prüfungsformen 
+### Glossar Prüfungsformen 
 
 |Deutsch|Englisch|
 |---|---|
@@ -202,61 +199,53 @@ anerkannt.[5] Im Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bl
 
 ## **Anlage 4: Studienverlaufsplan Master Human Rights (Teilzeit)** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|||||**Gesamt**<br>|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**SWS**||||||||||||
-|||||||||**in ECTS-Punkten**|||||||
-||||||||||||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**Prüfung**||
-|**Human Rights Philosophy**|Lecture Human Rights Philosophy|2||||**5**|5||||||Klausur (90 Min.)|1|
-|**Human Rights Politics**|Lecture Human Rights Politics|2||||**5**|5||||||Klausur (90 Min.)|1|
-|**Human Rights Law**|Lecture Human Rights Law|2||||**5**|||5||||Klausur (90 Min.)|1|
-|**Human Rights Research**<br>**Methods**|Seminar Human Rights Research<br>Methods||||1|**5**|||3||||Hausarbeit (5-10 S.)|0|
-||Tutorial Research and Writing Ex-<br>ercise||||1||||2||||||
-|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights<br>Politics||||2|**5**|5||||||Referat (15-20 Min.)|0|
-|**Cases in Human Rights Law**|Seminar Cases in Human Rights<br>Law||||2|**5**|||5||||Referat (15-20 Min.)|0|
-|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar||||2|**5**||5|||||Hausarbeit (10-15 S.)|1|
-|**Key skills**|Key skill workshops||||2|**5**||||5|||Lerntagebuch (5-10 S.)|0|
-|**Specialised aspects of**<br>**human rights protection I**|Seminar||||2|**5**||5|||||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection II**|Seminar||||2|**5**||5|||||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection III**|Seminar||||2|**5**||||5|||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rightsprotection IV**|Seminar||||2|**5**||||5|||Klausur (120 Min., 100 %)<br>_oder_|1|
+|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**<br>|**Gesamt**<br>**ECTS**|**Workload-**<br>**in**|**Verteilung pro Se**<br>**ECTS-Punkten**|**mester**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|---|---|
+|||**V**|**Ü**<br>**P**<br>**S**||**1.**<br>**2.**|**3.**<br>**4.**<br>**5**|**.**<br>**6.**||**note**|
+|**Human Rights Philosophy**|Lecture Human Rights Philosophy|2||**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Politics**|Lecture Human Rights Politics|2||**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Law**|Lecture Human Rights Law|2||**5**||5||Klausur (90 Min.)|1|
+|**Human Rights Research**|Seminar Human Rights Research<br>Methods||1|**5**||3||Hausarbeit (5-10 S)|0|
+|**Methods**|Tutorial Research and Writing Ex-<br>ercise||1|||2||.||
+|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights<br>Politics||2|**5**|5|||Referat (15-20 Min.)|0|
+|**Cases in Human Rights Law**|Seminar Cases in Human Rights<br>Law||2|**5**||5||Referat (15-20 Min.)|0|
+|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar||2|**5**|5|||Hausarbeit (10-15 S.)|1|
+|**Key skills**|Key skill workshops||2|**5**||5||Lerntagebuch (5-10 S.)|0|
+|**Specialised aspects of**<br>**human rights protection I**|Seminar||2|**5**|5|||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection II**|Seminar||2|**5**|5|||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection III**|Seminar||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rightsprotection IV**|Seminar||2|**5**||5||Klausur (120 Min., 100 %)<br>_oder_|1|
 
 8 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten**|**Art und Umfang der**<br>|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||**in ECTS-Punkten**|||||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**Prüfung**||
-||||||||||||||Referat und Hausarbeit<br>(30 % + 70 %)1||
-|**Aus den folgenden Modulen sind entweder das Modul A oder die Module B1 und B2 zu wählen:**|||||||||||||||
-|**A: Master’s thesis**|Masterthesis|||||**30**|||||15|12,5|Masterarbeit (60-80 S.)|1|
-||Colloquium|||||||||||2,5|||
-|**B1: Master’s thesis**|Masterthesis|||||**15**|||||15||Masterarbeit (20-40 S.)|2|
-|**B2: Internship**||||||**15**||||||15|Praktikumsbericht (2-5 S.)|0|
-||**Summe ECTS-Punkte**|**6**|||**18**|**90**|**15**|**15**|**15**|**15**|**15**|**15**|||
-|||**24**|||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**Workload-**<br>**in**<br>**1.**<br>**2.**|**Verteilung pro**<br>**ECTS-Punkt**<br>**3.**<br>**4.**|**Semes**<br>**en**<br>**5.**|**ter**<br>**6.**|**Art und Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>||
+|**Aus den folgenden Modul**|**en sind entweder das Modul A oder die M**|**odule B1 und B2 zu wä**|**hlen:**|||||||
+|**A: Master’s thesis**|Masterthesis||**30**|||15|12,5|Masterarbeit (60-80 S)|1|
+||Colloquium||||||2,5|.||
+|**B1: Master’s thesis**|Masterthesis||**15**|||15||Masterarbeit (20-40 S.)|2|
+|**B2: Internship**|||**15**||||15|Praktikumsbericht (2-5 S.)|0|
+||**Summe ECTS-Punkte**|**6**<br>**18**<br>**24**|**90**|**15**<br>**15**|**15**<br>**15**|**15**|**15**|||
 
-## Glossar Veranstaltungsformen 
-
-|Deutsch|Englisch|
+|Glossar Veranstal<br>|tungsformen<br>|
 |---|---|
+|Deutsch|Englisch|
 |Vorlesung|lecture|
 |Seminar|seminar|
 |Tutorium|tutorial|
 |Projektgruppe|group project|
 |Masterarbeit|Master‘s thesis|
 
-## Glossar Prüfungsformen 
+### Glossar Prüfungsformen 
 
-|“|Deutsch|Englisch|
-|---|---|---|
-||Klausur|written exam|
-||Lerntagebuch|learning diary|
-||Referat|presentation|
-||Hausarbeit|writtenassignment|
-||Masterarbeit|master thesis|
-||||
+|Deutsch|Englisch|
+|---|---|
+|Klausur|written exam|
+|Lerntagebuch|learning diary|
+|Referat|presentation|
+|Hausarbeit|writtenassignment|
+|Masterarbeit<br>“|master thesis|
 
 9 
 

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:44:33+00:00
+scraped_at: 2026-07-01T08:21:08+00:00
 ---
 
 # Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)
@@ -37,7 +37,7 @@ Dann bist Du hier genau richtig, denn im Studiengang Elektrotechnik-Elektronik-I
 
 Nach einem breit angelegten Grundlagenstudium können sich Studierende auf eine von **sieben verschiedenen Studienrichtungen** spezialisieren. Am Ende des Studiums hast du ein breites fundiertes Wissen von A wie Automatisierungstechnik bis zu Z wie Zuverlässige Schaltung. In den Themengebieten Hochfrequenztechnik, Sensorik, Energie- und Antriebstechnik, Leistungselektronik, Informationstechnik, Mikroelektronik oder Quantentechnologien macht dir keiner etwas vor.
 
-### Bachelor of Science Elektrotechnik - Elektronik und Informationstechnik
+### Fachanteile des Studiengangs Elektrotechnik – Elektronik – Informationstechnik (B.Sc.)
 
 * Elektrotechnik, Elektronik, Informationstechnik (70%)
 * Mathematik (17%)

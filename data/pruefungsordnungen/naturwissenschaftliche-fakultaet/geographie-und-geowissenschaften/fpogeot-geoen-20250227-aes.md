@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOGeoT-GeoEn 20250227 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20250227_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:39:25+00:00
-page_count_chars: 2596
+scraped_at: 2026-07-01T09:05:29+00:00
+page_count_chars: 2612
 ---
 
 # FPOGeoT-GeoEn 20250227 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 2596
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20250227_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität** 
 
-## **Erlangen-Nürnberg (FAU) – FPOGeoT/GeoEn –** 
+# **Erlangen-Nürnberg (FAU) – FPOGeoT/GeoEn –** 
 
 ## **Vom 27.02.2025** 
 
@@ -28,7 +28,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang GeoThermie/ Geo
 
 Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2023 in Kraft.[2] Sie gilt für alle Studierenden, die sich bezogen auf das Modul „GT-E4 Prozessmaschinen und Apparatetechnik“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt rückwirkend zum 1. Oktober 2023 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die sich bezogen auf das Modul „GT-E4 Prozessmaschinen und Apparatetechnik“ noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).“ 
 
 2. Die Tabelle in der **Anlage** wird in Zeile 9 (GT-E4 Prozessmaschinen und Anlagenbau) wie folgt geändert: 
 

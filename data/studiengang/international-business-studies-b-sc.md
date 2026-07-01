@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:46:45+00:00
+scraped_at: 2026-07-01T08:23:32+00:00
 ---
 
 # International Business Studies (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:46:45+00:00
 
 Der Bachelorstudiengang **International Business Studies (B. Sc.)** stellt den perfekten Start für eine Karriere in internationalen Unternehmen dar. Der dreijährige Studiengang vermittelt essentielles Wissen und Know-How, um die Rahmenbedingungen internationaler Unternehmen zu verstehen und zu analysieren. Die vergleichende Analyse von Unternehmensstrategien und Geschäftspraktiken steht dabei im Mittelpunkt. Der Studiengang besteht aus Pflicht- und Vertiefungsmodulen aus verschiedenen Disziplinen, wie dem internationalen Management, der internationalen Volkswirtschaftslehre und der internationalen Politik, die auf Englisch unterrichtet werden. Die internationale Ausrichtung wird außerdem durch ein verpflichtendes Auslandssemester ergänzt, das in den Bachelorstudiengang integriert ist.
 
-### Bachelor of Science International Business Studies
+### Fachanteile des Studiengangs International Business Studies (B.Sc.)
 
 * Electives/Experiences abroad (27%)
 * International business (24%)

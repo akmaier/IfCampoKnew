@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 29.10.1997"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/StO_Politikwissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:09+00:00
-page_count_chars: 20109
+scraped_at: 2026-07-01T10:11:29+00:00
+page_count_chars: 20104
 ---
 
 # PDF vom 29.10.1997
@@ -14,7 +14,7 @@ page_count_chars: 20109
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung der Universität Erlangen-Nürnberg für das Studium der Politikwissenschaft im Diplom-Studiengang vom 29. Oktober 1997** 
+# **Studienordnung der Universität Erlangen-Nürnberg für das Studium der Politikwissenschaft im Diplom-Studiengang vom 29. Oktober 1997** 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 72 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Studienordnung für den Diplomstudiengang Politikwissenschaft: 
 
@@ -130,9 +130,7 @@ c) Vergleich politischer Systeme
 
 3 
 
-Grundzüge der Außenpolitik der Bundesrepublik Deutschland und anderer ausgewählter Staaten, der internationalen Interaktion, Internationaler Organisationen und Systeme, der Europäischen Union sowie der Theorie internationaler Politik. 
-
-5. Politik und Wirtschaft 
+Grundzüge der Außenpolitik der Bundesrepublik Deutschland und anderer ausgewählter Staaten, der internationalen Interaktion, Internationaler Organisationen und Systeme, der Europäischen Union sowie der Theorie internationaler Politik. 5. Politik und Wirtschaft 
 
 Wirtschaftsordnung und Wettbewerbspolitik, Wirtschafts- und Wirtschaftsförderungspolitik, Probleme des Verhältnisses von Markt und Staat in nationaler und vergleichender Perspektive. 
 
@@ -176,9 +174,7 @@ Der Student soll an Grundbegriffe, Arbeitsweisen und Theorieansätze des gewähl
 
 2. Lehrveranstaltungen, deren Besuch zur Erfüllung der inhaltlichen Anforderungen der Diplomvorprüfung dient: 
 
-Je ein viersemestriger Vorlesungszyklus von jeweils 2 SWS zu den Teilbereichen Politische Systeme, Internationale Politik, Geschichte der politischen Ideen (24 SWS) 
-
-3. Vorlesungen und Seminare nach Wahl des Studenten zum weiteren Erwerb von Grundkenntnissen (13 SWS) 
+Je ein viersemestriger Vorlesungszyklus von jeweils 2 SWS zu den Teilbereichen Politische Systeme, Internationale Politik, Geschichte der politischen Ideen (24 SWS) 3. Vorlesungen und Seminare nach Wahl des Studenten zum weiteren Erwerb von Grundkenntnissen (13 SWS) 
 
 4. Lehrveranstaltungen zum Erwerb des Fremdsprachenzertifikats (8 SWS) 
 
@@ -242,11 +238,11 @@ Je ein Seminar aus den unter 1a) bis d) genannten Teilbereichen (8 - 12 SWS)
 
 - (2) Studienschwerpunkt 
 
-1. Lehrveranstaltungen, deren erfolgreicher Besuch die Zulassungsvoraussetzung zur Diplomprüfung gemäß § 25 der Prüfungsordnung bildet: 
+1. Lehrveranstaltungen, deren erfolgreicher Besuch die Zulassungsvoraussetzung zur Diplomprüfung gemäß § 25 der Prüfungsordnung bildet: Zwei Hauptseminare (4 - 6 SWS) 
 
-Zwei Hauptseminare (4 - 6 SWS) 
+2. Lehrveranstaltungen, deren Besuch zur Erfüllung der inhaltlichen Anforderungen der Diplomprüfung dringend empfohlen wird: 
 
-2. Lehrveranstaltungen, deren Besuch zur Erfüllung der inhaltlichen Anforderungen der Diplomprüfung dringend empfohlen wird: Zwei Seminare (4 SWS) 
+Zwei Seminare (4 SWS) 
 
 5 
 

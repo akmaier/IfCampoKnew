@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Dezember 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-FPO-Wing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:20+00:00
-page_count_chars: 3844
+scraped_at: 2026-07-01T11:46:31+00:00
+page_count_chars: 3821
 ---
 
 # 6. Dezember 2002
@@ -12,7 +12,7 @@ page_count_chars: 3844
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-FPO-Wing.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
 ## Vom 6. Dezember 2002 
 
@@ -38,21 +38,13 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaf
 
    - f) In Absatz 6 wird das Wort „vier“ durch das Wort „acht“ ersetzt. 
 
-   - g) In Absatz 7 wird nach Satz 1 folgender Satz neu eingefügt: 
-
-      - „[2] Werden die schriftlichen Prüfungen eines Prüfungsabschnittes gemäß § 16 Abs. 3 DiplPrOTF in Verbindung mit § 8 Abs. 2 DiplPrOTF mündlich abgehalten, so beträgt die Dauer der mündlichen Prüfung etwa 30 Minuten. Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4. 
+   - g) In Absatz 7 wird nach Satz 1 folgender Satz neu eingefügt: „<sup>2</sup> Werden die schriftlichen Prüfungen eines Prüfungsabschnittes gemäß § 16 Abs. 3 DiplPrOTF in Verbindung mit § 8 Abs. 2 DiplPrOTF mündlich abgehalten, so beträgt die Dauer der mündlichen Prüfung etwa 30 Minuten. Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4. 
 
 3. In § 13 Nr. 3 werden die Worte „Fertigungstechnischen Praktikum“ durch die Worte „Fertigungstechnischen Praktikum I oder II“ ersetzt. 
 
 4. Die Anlage 2 wird wie folgt  geändert: 
 
-   - a) In Nr. I.1 entfällt die Zeile mit dem Pflichtfach „Höhere Mechanik“. 
-
-   - b) In Nr. I.3 wird in der dritten Spalte die Zahl „6“ durch die Zahl „10“ ersetzt. 
-
-   - c) In Nr. II.1 entfällt die Zeile mit dem Pflichtfach „Planspiel II“. 
-
-   - d) In der Zeile „Summe wirtschaftswissenschaftliche Studien- und Prüfungsleistungen“ wird in der dritten Spalte die Zahl „40“ durch die Zahl „36“ ersetzt. 
+   - a) In Nr. I.1 entfällt die Zeile mit dem Pflichtfach „Höhere Mechanik“. b) In Nr. I.3 wird in der dritten Spalte die Zahl „6“ durch die Zahl „10“ ersetzt. c) In Nr. II.1 entfällt die Zeile mit dem Pflichtfach „Planspiel II“. d) In der Zeile „Summe wirtschaftswissenschaftliche Studien- und Prüfungsleistungen“ wird in der dritten Spalte die Zahl „40“ durch die Zahl „36“ ersetzt. 
 
    - e) In Nr. III wird in der Zeile „Diplomarbeit“ in der dritten Spalte die Zahl „12“ durch die Zahl „15“ ersetzt. 
 

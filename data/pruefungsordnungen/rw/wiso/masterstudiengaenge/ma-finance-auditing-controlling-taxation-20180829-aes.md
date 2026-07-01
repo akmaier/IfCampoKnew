@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Finance Auditing Controlling Taxation 20180829 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MA_Finance_Auditing_Controlling_Taxation_20180829_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:56+00:00
-page_count_chars: 6464
+scraped_at: 2026-07-01T11:01:29+00:00
+page_count_chars: 6494
 ---
 
 # MA Finance Auditing Controlling Taxation 20180829 ÄS.pdf
@@ -12,21 +12,21 @@ page_count_chars: 6464
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MA_Finance_Auditing_Controlling_Taxation_20180829_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT –** 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT –** 
 
-## **Vom 29. August 2018** 
+# **Vom 29. August 2018** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – FPOFACT – vom 20. Juli 2009, zuletzt geändert durch Satzung vom 5. Dezember 2017, wird wie folgt geändert: 
 
 § 3 erhält folgende neue Fassung: 
 
-## „ **§ 3 Qualifikation zum Masterstudium, Nachweise** 
+# „ **§ 3 Qualifikation zum Masterstudium, Nachweise** 
 
-## **und Zulassungsvoraussetzungen** 
+# **und Zulassungsvoraussetzungen** 
 
 (1) Einschlägiger Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWIWI** ist der Bachelorabschluss in einem wirtschaftswissenschaftlichen Studiengang (insbesondere Bachelorstudiengang Wirtschaftswissenschaften an der FAU sowie vergleichbare Studiengänge anderer Hochschulen, z. B. Betriebswirtschaftslehre, Business Administration, General Management, Volkswirtschaftslehre, Wirtschaftspädagogik, Gesundheitsökonomie, Rechnungswesen, Wirtschaftsrecht, Wirtschaftsmathematik, Wirtschaftsinformatik oder Wirtschaftsingenieurwesen). 
 
@@ -62,15 +62,15 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
    - d) Umfang und Dauer ehrenamtlicher Tätigkeiten; Bewertung anhand der nach Abs. 2 Nr. 1 d) eingereichten Unterlagen. 
 
-   - 2Der Umfang der insgesamt zu erreichenden Punkte der in Satz 1 Buchst. a) bis d) genannten Kriterien beträgt max. 20 Punkte.[3] Um die maximal zu erreichende Gesamtpunktzahl von 20 Punkten zu erreichen, müssen die Bewerberinnen bzw. Bewerber mindestens zwei der genannten Kriterien aus unterschiedlichen Bereichen der Buchst. a) bis d) erfüllen. 
+   - 2Der Umfang der insgesamt zu erreichenden Punkte der in Satz 1 Buchst. a) bis d) genannten Kriterien beträgt max. 20 Punkte.<sup>3</sup> Um die maximal zu erreichende Gesamtpunktzahl von 20 Punkten zu erreichen, müssen die Bewerberinnen bzw. Bewerber mindestens zwei der genannten Kriterien aus unterschiedlichen Bereichen der Buchst. a) bis d) erfüllen. 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 **MPOWIWI** zu einem Qualifikationsfeststellungsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.[3] Das Qualifikationsfeststellungsgespräch erstreckt sich auf die folgenden zwei Qualifikationskriterien: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Anlage Nr. 5.2.1 **MPOWIWI** zu einem Qualifikationsfeststellungsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Qualifikationsfeststellungsgespräch erstreckt sich auf die folgenden zwei Qualifikationskriterien: 
 
 1.  Qualität der Grundkenntnisse in den Bereichen Rechnungswesen, Finanzierung und Steuern (bis zu 10 Punkte), 
 
 2.  Fähigkeit, die fachspezifischen Grundlagen der in Ziffer 1 genannten Bereiche mit den Gebieten des Masters FACT zu verknüpfen (bis zu 10 Punkte).“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden. 
 

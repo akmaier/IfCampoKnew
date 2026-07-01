@@ -1,18 +1,17 @@
 ---
 kind: "fau-studiengang-index"
-count: 221
+count: 224
 ---
 
 # FAU Studiengang-Übersicht
 
 Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 
-## Programme (221)
+## Programme (224)
 
 - [Advanced Healthcare (M.Sc.)](advanced-healthcare-m-sc.md) — Master of Science
 - [Advanced Materials and Processes (M.Sc.)](advanced-materials-and-processes-m-sc.md) — Master of Science
 - [Advanced Optical Technologies (M.Sc.)](advanced-optical-technologies-m-sc.md) — Master of Science
-- [Allgemeine und fachbezogene Bildung in der digitalen Welt (Zertifikat)](allgemeine-und-fachbezogene-bildung-in-der-digitalen-welt-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
 - [Antike Sprachen und Kulturen (M.A.)](antike-sprachen-und-kulturen-m-a.md) — Master of Arts
 - [Arabistik, Islamwissenschaft, Semitistik (M.A.)](arabistik-islamwissenschaft-semitistik-m-a.md) — Master of Arts
 - [Arbeitsmarkt und Personal (M.Sc.)](arbeitsmarkt-und-personal-m-sc.md) — Master of Science
@@ -47,10 +46,11 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Computational Engineering (B.Sc.)](computational-engineering-b-sc.md) — Bachelor of Science
 - [Computational Engineering (M.Sc.)](computational-engineering-m-sc.md) — Master of Science
 - [Computational Molecular and Materials Science (M.Sc.)](computational-molecular-and-materials-science-m-sc.md) — Master of Science
-- [Computerlinguistik (B.A.) (B.A.)](computerlinguistik-b-a-b-a.md) — Bachelor of Arts
+- [Computerlinguistik (B.A.)](computerlinguistik-b-a.md) — Bachelor of Arts
 - [Darstellendes Spiel (Lehramt)](darstellendes-spiel-lehramt.md) — Staatsexamen
 - [Data Science (B.Sc.)](data-science-b-sc.md) — Bachelor of Science
 - [Data Science (M.Sc.)](data-science-m-sc.md) — Master of Science
+- [Data Science of Human Multimodal Communication (M.A.)](data-science-of-human-multimodal-communication-m-a.md) — Master of Arts
 - [Deutsch (Lehramt)](deutsch-lehramt.md) — Staatsexamen
 - [Deutsch als Zweitsprache (Lehramt)](deutsch-als-zweitsprache-lehramt.md) — Staatsexamen
 - [Deutsch-Französisches Recht (LL.M.)](deutsch-franzoesisches-recht-ll-m.md) — Master of Laws
@@ -60,6 +60,7 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Digital Humanities (Modulstudien)](digital-humanities-modulstudien.md) — Zertifikat (Modulstudien)
 - [Digitale Geistes- und Sozialwissenschaften (B.A.)](digitale-geistes-und-sozialwissenschaften-b-a.md) — Bachelor of Arts
 - [Digitale Japanstudien (M.A.)](digitale-japanstudien-m-a.md) — Master of Arts
+- [Earth System Dynamics and Evolution (M.Sc.)](earth-system-dynamics-and-evolution-m-sc.md) — Master of Science
 - [Economics (M.Sc.)](economics-m-sc.md) — Master of Science
 - [Elektromobilität-ACES (B.Sc.)](elektromobilitaet-aces-b-sc.md) — Bachelor of Science
 - [Elektromobilität-ACES (M.Sc.)](elektromobilitaet-aces-m-sc.md) — Master of Science
@@ -78,7 +79,6 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Finance, Auditing, Controlling, Taxation (M.Sc.)](finance-auditing-controlling-taxation-m-sc.md) — Master of Science
 - [Frankoromanistik (B.A.)](frankoromanistik-b-a.md) — Bachelor of Arts
 - [Französisch (Lehramt)](franzoesisch-lehramt.md) — Staatsexamen
-- [Gender 1 2 3 (Zertifikat)](gender-1-2-3-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
 - [Geographie (Lehramt)](geographie-lehramt.md) — Staatsexamen
 - [Geographie: Kulturgeographie (B.A.)](geographie-kulturgeographie-b-a.md) — Bachelor of Arts
 - [Geographie: Kulturgeographie (M.A.)](geographie-kulturgeographie-m-a.md) — Master of Arts
@@ -88,7 +88,6 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [GeoThermie/GeoEnergie (M.Sc.)](geothermie-geoenergie-m-sc.md) — Master of Science
 - [Geowissenschaften (B.Sc.)](geowissenschaften-b-sc.md) — Bachelor of Science
 - [Geowissenschaften (M.Sc.)](geowissenschaften-m-sc.md) — Master of Science
-- [Geowissenschaften (Zertifikat)](geowissenschaften-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
 - [Germanistik (B.A.)](germanistik-b-a.md) — Bachelor of Arts
 - [Germanistik (M.A.)](germanistik-m-a.md) — Master of Arts
 - [Gerontologie (M.Sc.)](gerontologie-m-sc.md) — Master of Science
@@ -146,7 +145,7 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Literatur und Buch (B.A.)](literatur-und-buch-b-a.md) — Bachelor of Arts
 - [Literaturstudien – medial und transkulturell (M.A.)](literaturstudien-medial-und-transkulturell-m-a.md) — Master of Arts
 - [Logopädie (B.Sc.)](logopaedie-b-sc.md) — Bachelor of Science
-- [Magister Legum (LL.M.)](magister-legum-ll-m.md) — Master of Laws
+- [Magister Legum (Magister)](magister-legum-magister.md) — Magister legum
 - [Management (M.Sc.)](management-m-sc.md) — Master of Science
 - [Marketing (M.Sc.)](marketing-m-sc.md) — Master of Science
 - [Marketing- und Vertriebsmanagement (M.Sc.)](marketing-und-vertriebsmanagement-m-sc.md) — Master of Science
@@ -179,6 +178,7 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Nanotechnologie (B.Sc.)](nanotechnologie-b-sc.md) — Bachelor of Science
 - [Nanotechnology (M.Sc.)](nanotechnology-m-sc.md) — Master of Science
 - [North American Studies: Culture and Literature (M.A.)](north-american-studies-culture-and-literature-m-a.md) — Master of Arts
+- [Organisation – Transformation – Gesellschaft (M.A.)](organisation-transformation-gesellschaft-m-a.md) — Master of Arts
 - [Organisations- und Personalentwicklung (M.A.)](organisations-und-personalentwicklung-m-a.md) — Master of Arts
 - [Orientalistik (B.A.)](orientalistik-b-a.md) — Bachelor of Arts
 - [Pharmazie (Staatsexamen)](pharmazie-staatsexamen.md) — Staatsexamen (außer Lehramt)
@@ -227,6 +227,9 @@ Quelle: <https://www.fau.de/studium/studienangebot/alle-studiengaenge/>
 - [Zahnerhaltung (M.Sc.)](zahnerhaltung-m-sc.md) — Master of Science
 - [Zahnmedizin (Staatsexamen)](zahnmedizin-staatsexamen.md) — Staatsexamen (außer Lehramt)
 - [Zell- und Molekularbiologie (M.Sc.)](zell-und-molekularbiologie-m-sc.md) — Master of Science
-- [Zusatzstudien Zertifikat "FAU Lehramt International" (Zertifikat)](zusatzstudien-zertifikat-fau-lehramt-international-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Zusatzstudien "Allgemeine und fachbezogene Bildung in der digitalen Welt" (Zertifikat)](zusatzstudien-allgemeine-und-fachbezogene-bildung-in-der-digitalen-welt-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Zusatzstudien "FAU Lehramt International" (Zertifikat)](zusatzstudien-fau-lehramt-international-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
+- [Zusatzstudien "Gender 1 2 3" (Zertifikat)](zusatzstudien-gender-1-2-3-zertifikat.md) — Zertifikat (Zusatzstudium)
+- [Zusatzstudien "Geowissenschaften" (Zertifikat)](zusatzstudien-geowissenschaften-zertifikat.md) — Zertifikat (Zusatzstudien im Lehramt)
 - [Öffentliches Recht (B.A.)](oeffentliches-recht-b-a.md) — Bachelor of Arts
 - [Ökonomie (B.A.)](oekonomie-b-a.md) — Bachelor of Arts

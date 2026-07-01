@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.2009 i.d.F. 09.01.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Marketing-Januar2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:03+00:00
-page_count_chars: 14262
+scraped_at: 2026-07-01T11:05:36+00:00
+page_count_chars: 14031
 ---
 
 # PDF vom 02.09.2009 i.d.F. 09.01.2013
@@ -16,11 +16,13 @@ page_count_chars: 14262
 
 **Hinweis:** Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - Vom 2. September 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - Vom 2. September 2009** 
 
 geändert durch Satzungen vom 23. Februar 2010 
 
-17. Januar 2011 1. September 2011 24. Februar 2012 
+17. Januar 2011 1. September 2011 
+
+24. Februar 2012 
 
 28. Juni 2012 
 
@@ -36,7 +38,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang im Rahmen dessen im Umfang von mindestens 10 ECTS-Punkten Kompetenzen im Fach Statistik erworben wurden.[2] Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang im Rahmen dessen im Umfang von mindestens 10 ECTS-Punkten Kompetenzen im Fach Statistik erworben wurden.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI wird ein Bachelorabschluss einer Hochschule in einem nichtwirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten (exklusive Bachelorarbeit), zuzüglich mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt. 
 
 (2) Folgende weitere Unterlagen im Sinne der Anlage, Nr. 2.3.3 MPOWIWI sind vorzulegen: 
 
@@ -50,21 +52,19 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 4. Nachweis der deutschen Sprachprüfung für den Hochschulzugang (DSH) der Niveaustufe 2 von Bewerbern aus dem nicht-deutschsprachigen Ausland, 
 
-5. Nachweis über praktische bzw. berufliche Erfahrung, 
+5. Nachweis über praktische bzw. berufliche Erfahrung, 6. Nachweis über das Niveau der Englischkenntnisse. 
 
-6. Nachweis über das Niveau der Englischkenntnisse. 
-
-(3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage, Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage, Nr. 5.1 MPOWIWI bewertet: 
-
-1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 60 Punkte), 
+- (3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage, Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage, Nr. 5.1 MPOWIWI bewertet: 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 60 Punkte), 
 
 2. Einschlägigkeit und Qualität der für den Masterstudiengang Marketing relevanten Statistik und Marketingkenntnisse (max. 25 Punkte), 
 
 3. qualifizierte und außerhalb der Hochschule erworbene Berufserfahrung, insbesondere Praktika oder Berufsausbildung, Englischkenntnisse und qualifizierte Auslandsaufenthalte (max. 15 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.[ 2] Die Begutachtung erstreckt sich auf den Gesamteindruck und insbesondere auf: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.<sup>2</sup> Die Begutachtung erstreckt sich auf den Gesamteindruck und insbesondere auf: 
 
-- Erkennbares Interesse am Fach 
+- 
+
+   - Erkennbares Interesse am Fach 
 
 - Interesse an und Erfahrung mit forschungsorientiertem Arbeiten 
 
@@ -78,15 +78,15 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten und in Teilen des zweiten und dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („Principles of Marketing“ = 35 ECTS).[2] Im zweiten Semester wählen die Studierenden zwischen zwei Schwerpunkten, „Marketing Research Track“ oder „Marketing Management Track“ (55 ECTS). 3Jeder dieser beiden Schwerpunkte setzt sich aus einem obligatorischen Vertiefungsbereich („Core Courses“ = 30 ECTS) und einem Wahlpflichtbereich („Electives“ = 25 ECTS) zusammen.[4] Die im vierten Semester zu fertigende Masterarbeit (Umfang 30 ECTS-Punkte) muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach dieser Fachprüfungsordnung haben. 
+(1)<sup>1</sup> Im ersten und in Teilen des zweiten und dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („Principles of Marketing“ = 35 ECTS).<sup>2</sup> Im zweiten Semester wählen die Studierenden zwischen zwei Schwerpunkten, „Marketing Research Track“ oder „Marketing Management Track“ (55 ECTS). 3Jeder dieser beiden Schwerpunkte setzt sich aus einem obligatorischen Vertiefungsbereich („Core Courses“ = 30 ECTS) und einem Wahlpflichtbereich („Electives“ = 25 ECTS) zusammen.<sup>4</sup> Die im vierten Semester zu fertigende Masterarbeit (Umfang 30 ECTS-Punkte) muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach dieser Fachprüfungsordnung haben. 
 
-(2)[1] Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 
+(2)<sup>1</sup> Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 
 
 2 
 
 (3) Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
-(4)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(4)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -94,14 +94,12 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3 
 
-**Anlage** Überblickstabelle Studienverlauf 
+## **Anlage** Überblickstabelle Studienverlauf 
 
-|**Studienplan Master in Marketing**||||||
+|**Studienplan Master in Marketing**||**1**|**2**|**3**|**4**|
 |---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**A. Pflichtbereich(35 ECTS)**|**35**|||||
-|||||||
 |**Principles of Marketing I: Marketingtheorie**|**5**|**5**||||
 |**Principles of Marketing II: Marketing-Mix Instrumente**|**10**|**10**||||
 |**Principles of Marketing III: Marktforschung**|**10**|**5**|**5**|||
@@ -114,9 +112,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 |**Principles of Marketing IV: Marketingseminar**|**5**|||**5**||
 |**Principles of Marketing V: Marketingseminar**|**5**|||**5**||
 |**Principles of Marketing VI: Marketingseminar**|**5**|||**5**||
-|||||||
 |**B1. Vertiefungsbereich Marketing Research (55 ECTS)**|**55**|||||
-|||||||
 |**_Pflichtbereich (30 ECTS)_**||||||
 |**E-Business Intelligence and Relationships**|**5**||**5**|||
 |**Data Warehousing**|**5**||**5**|||
@@ -135,15 +131,13 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 4 
 
-|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|||||
+|**Studienplan Master in Marketing**||**1**|**2**|**3**|**4**|
 |---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |_und Wahl von 1aus 3 Modulen_||||||
 |**Statistik III**|**5**|||**5**||
 |**Multivariate Zeitreihen-und Strukturmodelle I**|**5**|||**5**||
 |**Multivariate Zeitreihen-und Strukturmodelle II**|**5**|||**5**||
-|||||||
 |**_Wahlbereich (25 ECTS)_**||||||
 |**Finanzmarktkommunikation und Marktforschungsmanagement**|**5**|**2,5**|**2,5**|||
 |**Interdisziplinäres Seminar **|**5**|||**5**||
@@ -178,18 +172,15 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 5 
 
-|**Studienplan Master in Marketing**||||||
+|**Studienplan Master in Marketing**||**1**|**2**|**3**|**4**|
 |---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**Foundations of International Management II**|**5**|||**5**||
 |**Corporate Strategy**|**5**||**5**|||
 |**Creativity and Design in Innovation Management**|**5**|||**5**||
 |**Seminar zu Methoden der experimentellen Wirtschaftsforschung**|**5**|**5**||||
 |**Seminar zur Verhaltensökonomik**|**5**|**5**||||
-|||||||
 |**B2 Vertiefungsbereich Marketing Management (55 ECTS)**|**55**|||||
-|||||||
 |**_Pflichtbereich (30 ECTS)_**||||||
 |**E-Business Intelligence and Relationships**|**5**||**5**|||
 |_Wahl von 5 aus 6 Modulen_||||||
@@ -199,7 +190,6 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 |**Advanced Marketing Management IV:Strategisches Marketing**|**5**||**5**|||
 |**Advanced Marketing V: Business-to-Business Marketing**|**5**||**5**|||
 |**Advanced Marketing VII: Kundenmanagement**|5|||5||
-|||||||
 |**_Wahlbereich (25 ECTS)_**||||||
 |**Finanzmarktkommunikation und Marktforschungsmanagement**|**5**|**2,5**|**2,5**|||
 |**Advanced Marketing Management II: Advanced Topics****|**5**||**5**|||
@@ -220,35 +210,33 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 6 
 
-|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|||||
-|---|---|---|---|---|---|---|---|---|
-||||||**1**|**2**|**3**|**4**|
-|||||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Multivariate Zeitreihen-und Strukturmodelle II**||||**5**|||**5**||
-|**Praxisseminar*****||||**5**|**(5)**|**(5)**|||
-|**Fremdsprachenmodul **||||**5**|**5**||||
-|**Empirische Wirtschaftssoziologie**||||**10**||**5**|**5**||
-|**Auslandsmodul **||||**5**|||||
-|_Wahl von maximal 3 Modulen aus den folgenden Modulen_|||||||||
-|**Entrepreneurship Research **||||**5**||**5**|||
-|**Business Plan Seminar **||||**5**|||**5**||
-|**Industrielles Management**||||**5**||**5**|||
-|**Beschaffungsmanagement**||||**5**|||**5**||
-|**Global Operations Strategy**||||**5**|||**5**||
-|**Corporate Governance**||||**5**|**5**||||
-|**Foundations of International Management I**||||**5**|||**5**||
-|**Foundations of International Management II**||||**5**|||**5**||
-|**Corporate Strategy**||||**5**||**5**|||
-|**Creativity and Design in Innovation Management**||||**5**|||**5**||
-|**Seminar zu Methoden der experimentellen Wirtschaftsforschung**||||**5**|**5**||||
-|**Seminar zur Verhaltensökonomik**||||**5**|**5**||||
-||||||||||
-|**C Masterarbeit (30 ECTS)**||||**30**||||**30**|
-||||||||||
-|**Vertiefungsbereich Marketing Research **|||||||||
-||ECTS|**120**|**30**|||**30**|**30**|**30**|
-|**Vertiefungsbereich Marketing Management**|||||||||
-||ECTS|**120**|**30**|||**30**|**30**|**30**|
+|**Studienplan Master in Marketing**|||||||
+|---|---|---|---|---|---|---|
+||||**1**|**2**|**3**|**4**|
+|||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Multivariate Zeitreihen-und Strukturmodelle II**||**5**|||**5**||
+|**Praxisseminar*****||**5**|**(5)**|**(5)**|||
+|**Fremdsprachenmodul **||**5**|**5**||||
+|**Empirische Wirtschaftssoziologie**||**10**||**5**|**5**||
+|**Auslandsmodul **||**5**|||||
+|_Wahl von maximal 3 Modulen aus den folgenden Modulen_|||||||
+|**Entrepreneurship Research **||**5**||**5**|||
+|**Business Plan Seminar **||**5**|||**5**||
+|**Industrielles Management**||**5**||**5**|||
+|**Beschaffungsmanagement**||**5**|||**5**||
+|**Global Operations Strategy**||**5**|||**5**||
+|**Corporate Governance**||**5**|**5**||||
+|**Foundations of International Management I**||**5**|||**5**||
+|**Foundations of International Management II**||**5**|||**5**||
+|**Corporate Strategy**||**5**||**5**|||
+|**Creativity and Design in Innovation Management**||**5**|||**5**||
+|**Seminar zu Methoden der experimentellen Wirtschaftsforschung**||**5**|**5**||||
+|**Seminar zur Verhaltensökonomik**||**5**|**5**||||
+|**C Masterarbeit (30 ECTS)**||**30**||||**30**|
+|**Vertiefungsbereich Marketing Research **|||||||
+|ECTS<br>**120**|**30**|||**30**|**30**|**30**|
+|**Vertiefungsbereich Marketing Management**|||||||
+|ECTS<br>**120**|**30**|||**30**|**30**|**30**|
 
 - Wahl möglich, falls noch nicht im Pflichtbereich belegt 
 

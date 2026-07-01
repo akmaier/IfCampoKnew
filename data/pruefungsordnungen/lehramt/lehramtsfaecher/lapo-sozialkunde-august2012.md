@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 30.03.2009 i.d.F. 01.08.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Sozialkunde-AUGUST2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:16:51+00:00
-page_count_chars: 16375
+scraped_at: 2026-07-01T08:43:32+00:00
+page_count_chars: 14824
 ---
 
 # pdf vom 30.03.2009 i.d.F. 01.08.2012
@@ -20,7 +20,7 @@ Diese Prüfungsordnung gilt für alle Studierenden, die Ihr Studium **ab** dem W
 
 Für Studierende, die Ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 30. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 30. März 2009** 
 
 - geändert mit Satzungen vom 17. Dezember 2009 9. September 2010 1. August 2012 
 
@@ -36,7 +36,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des B
 |**3. Lehramt an Realschulen**...................................................................................... 5|
 |**§ 5**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 5|
 |**4. Lehramt an Grund- und Hauptschulen**............................................................... 6|
-|**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 6|
+|**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 6<br>|
 |**5. Übergangs- und Schlussvorschriften**................................................................. 8|
 |**§ 7**<br>**In-Kraft-Treten**............................................................................................ 8|
 
@@ -75,7 +75,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 |6|Internationale Beziehungen II|2V|3|Klausur(90 Min.)|
 |6|Internationale Beziehungen|2PS|4|Referat, Hausarbeit<br>und/oder Klausur|
 ||**Basismodul Soziologie (LAGY V)**|**4**|**10**||
-|1|Einführungindie Soziologie|2V|5|Klausur(90Min.)|
+|1|<br>Einführungindie Soziologie|2V|5|Klausur(90Min.)|
 |2|Soziologische Theorien der Gegenwart|2V|5|Klausur(90 Min.)|
 ||**Aufbaumodul Soziologie (LAGY VI)**|**4**|**10**||
 |3|Sozialstruktur|2V|5|Klausur(90Min.)|
@@ -94,13 +94,13 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 3 
 
-## (2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten: 
+## <u>(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 |8|Examenskolloquium Soziologie|2|5|Referat|
 
-|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|
+|(3) Im<br>|Bereich Fachdidaktik sind folgende Module er<br>|folgreich<br>|abzuleg<br>|en:<br>|
 |---|---|---|---|---|
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 ||**Grundlagen derpolitischen Bildung (LAGY X)**|**4**|**5**||
@@ -113,9 +113,9 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 |1 - 7|Wertorientierte Politische Bildung|2V|3|Klausur(60 Min.)|
 ||**Summe der Leistungspunkte Fachdidaktik**||**10**||
 
-|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
+|(4) D|arüber hinaus werden folgende Module im Freie|n Bereic|h angeb|oten:|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
+|**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
 |8|**Examenskolloquium**|2|**2**|Referat|
 
@@ -125,7 +125,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 ## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1) Für das Fach Sozialkunde für das Lehramt an Realschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+(1) Für das Fach Sozialkunde für das Lehramt an Realschulen sind im Bereich <u>Fachwissenschaft folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 * In zwei der Module LARS II – LARS IV (nach Wahl der Studierenden) werden die beiden Klausuren auf je 45 Minuten verkürzt. Entsprechend reduzieren sich die Leistungspunkte in den gewählten Modulen auf 7,5. 
 
-(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten: 
+<u>(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 5 
 
-(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen: 
+<u>(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -177,13 +177,13 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 |2/4|Methodik des PU: Methodik-Methoden-Modelle|2S|2|Referat + Präsentation|
 |2/4|Übungzur Vorlesung (optional)|-|-||
 |2/4|Wertorientierte Politische Bildung|2V|3|Klausur(60 Min.)|
-||**Praxis des Politikunterrichts(LARS X)**|**2**|**2**||
+||**Praxis des Politikunterrichts(LARS X)**<br>|**2**|**2**||
 |3/5|Übung zur Planung, Durchführung und Kontrolle des<br>Politikunterrichts|2Ü|2|Präsentation|
 ||**Summe der Leistungspunkte Fachdidaktik**||**12**||
 
-|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
+|(4) D<br>|arüber hinaus werden folgende Module im Freie<br>|n Bereic<br>|h angeb<br>|oten:<br>|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
+|**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
 |6|**Examenskolloquium**|2|**2**|Referat|
 
@@ -191,7 +191,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 ## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Für das Lehramt an Grund- und Hauptschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+## (1) Für das Lehramt an Grund- und Hauptschulen sind im Bereich Fachwissenschaft <u>folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -217,13 +217,13 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 
 6 
 
-## (2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten: 
+## <u>(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 |6|ExamenskolloquiumSoziologie|2|5|Referat|
 
-## (3) Im Bereich Fachdidaktik des Unterrichtsfachs sind folgende Module erfolgreich abzulegen: 
+## (3) Im Bereich Fachdidaktik des Unterrichtsfachs sind folgende Module erfolgreich <u>abzulegen:</u> 
 
 |**Sem.**|**Modul **|**SWS**|**ECTS**|**Prüfungsleistungen **|
 |---|---|---|---|---|
@@ -239,7 +239,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 |3/5|Übung zur Planung, Durchführung und Kontrolle des<br>Politikunterrichts|2Ü|2|Erfolgreiche Teilnahme/<br>Praktikumsbericht|
 ||**Summe der Leistungspunkte Fachdidaktik**||**12**||
 
-(4) Im Bereich Fachdidaktik der Fächergruppe der Grundschule sind die Module gem. Abs. 3 erfolgreich abzulegen; statt des Moduls Methodik und Werteorientierung im Politikunterricht ist folgendes Modul abzulegen: 
+(4) Im Bereich Fachdidaktik der Fächergruppe der Grundschule sind die Module gem. Abs. 3 erfolgreich abzulegen; statt des Moduls Methodik und Werteorientierung <u>im Politikunterricht ist folgendes Modul abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -247,29 +247,23 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Sozialkun
 |2/4|PU: Methodik-Methoden-Modelle|2S|2|Referat + Präsentation|
 |2/4|Wertorientierte Politische Bildung|2V|2|Teilnahme|
 |2/4|Übungzur Vorlesung (optional)|-|-||
-||**Summe der Leistungspunkte Fachdidaktik(Grundschule)**||**11**||
+||**Summe der Leistungspunkte Fachdidaktik(Grund**|**schule)**|**11**||
 
-(5) Im Bereich Fachdidaktik der Fächergruppe der Hauptschule sind die Module gem. Abs. 3 mit Ausnahme des Moduls Praxis des Politikunterrichts erfolgreich abzulegen; zusätzlich sind folgende Module zu absolvieren: 
+(5) Im Bereich Fachdidaktik der Fächergruppe der Hauptschule sind die Module gem. Abs. 3 mit Ausnahme des Moduls Praxis des Politikunterrichts erfolgreich abzulegen; <u>zusätzlich sind folgende Module zu absolvieren:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 ||**Praxis des Politikunterrichts (LAHS)**|**5**|**5**|Erfolgreiche Teilnahme/<br>Praktikumsbericht|
-|3/5|Sachanalysen für den PU|2S|3|Referat/Hausarbeit|
+|3/5|Sachanalysen für den PU<br>|2S|3|Referat/Hausarbeit|
 |3/5|Übung zur Planung, Durchführung und Kontrolle des<br>Politikunterrichts|2Ü|2|Präsentation|
 ||**Praxisprobleme der Politischen Bildung (LAHS)**|**4**|**5**||
 |4/6|Probleme politischer Bildung in der Hauptschule|2S|3|Referat/ Präsentation/<br>Hausarbeit|
 |4/6|Seminar zur Politikdidaktik|2S|2|Referat/ Präsentation|
-||**Summe der Leistungspunkte Fachdidaktik(Hauptschule)**||**20**||
+||**Summe der Leistungspunkte Fachdidaktik(Hauptsc**|**hule)**|**20**||
 
-|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
+|(6) D<br>|arüber hinaus werden folgende Module im Freie<br>|n Bereic<br>|h angeb<br>|oten:<br>|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
-|3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
-|6|**Examenskolloquium**|2|**2**|Referat|
-
-|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
-|---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
+|**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungsleistung**|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
 |6|**Examenskolloquium**|2|**2**|Referat|
 

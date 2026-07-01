@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät, Technische Fakul
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:51:22+00:00
+scraped_at: 2026-07-01T08:28:33+00:00
 ---
 
 # Wirtschaftsingenieurwesen (B.Sc.)
@@ -35,7 +35,7 @@ Wirtschaftsingenieurinnen und -ingenieure verbinden technischen Sachverstand und
 
 Die Lehrinhalte der Studienrichtung **Elektrotechnik (ET)** am [Department EEI](https://www.eei.tf.fau.de/) gliedern sich in vier Vertiefungsbereiche: Informationstechnik, Elektrische Energietechnik, Mikroelektronik sowie AI und Robotik. Während die Elektrische Energietechnik sich vornehmlich mit der Erzeugung und Nutzung von elektrischer Energie sowie deren Umwandlung und Verteilung, etwa in Hochspannungsverbundnetzen, beschäftigt, werden in der Informationstechnik die Grundlagen der digitalen Übertragungsverfahren, der Videocodierung und -übertragung, der Audiosignalverarbeitung und der Kommunikationselektronik vermittelt. In der Mikroelektronik beschäftigen Sie sich neben den klassischen integrierten Schaltungen und optoelektronischen Systemen auch mit der Zukunft der Elektronik und Informationsverarbeitung, der Quantenelektronik. Last but not least eröffnet die Studienrichtung AI und Robotik neue Wege im Bereich Mensch-Maschine-Interaktion und gibt spannende neue Einblicke in die vielfältigen Einsatzzwecke des deep learnings, sei es in der Medizin oder der Bildverarbeitung. Typische Berufsbilder für Wirtschaftsingenieure mit dieser Studienrichtungen sind Forschungs- und Entwicklungsmanagement, technisches Marketing, Energiemanagement, Unternehmensberatung und Innovationsmanagement.
 
-### Bachelor of Science Wirtschaftsingenieurwesen
+### Fachanteile des Studiengangs Wirtschaftsingenieurwesen (B.Sc.)
 
 * Fachrichtung (Maschinenbau oder Elektrotechnik) (52%)
 * Wirtschaftswissenschaften (29%)

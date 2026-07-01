@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Januar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES BA-MA ComputEngineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:34+00:00
-page_count_chars: 4411
+scraped_at: 2026-07-01T11:35:15+00:00
+page_count_chars: 4440
 ---
 
 # 18. Januar 2016
@@ -12,13 +12,13 @@ page_count_chars: 4411
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES BA-MA ComputEngineering.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg – FPOCE –** 
+# **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg – FPOCE –** 
 
 Vom 18. Januar 2016 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1 BaySchG erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOCE - vom 19. September 2007, zuletzt geändert durch Satzung vom 24. Juli 2014, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
    - a) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Näheres regelt das Modulhandbuch.“ 
+„<sup>3</sup> Näheres regelt das Modulhandbuch.“ 
 
    - b) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 4 bis 7. 
 
@@ -38,7 +38,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
    - a) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Im Studienkonzept wird festgelegt, welche Module die Studierenden im Pflichtbereich Informatik, im Pflichtbereich Angewandte Mathematik, im Pflichtbereich des Technischen Anwendungsfaches, im Bereich der Technischen Wahlmodule sowie im Bereich der Schlüsselqualifikationen erfolgreich bestehen müssen.“ 
+„<sup>2</sup> Im Studienkonzept wird festgelegt, welche Module die Studierenden im Pflichtbereich Informatik, im Pflichtbereich Angewandte Mathematik, im Pflichtbereich des Technischen Anwendungsfaches, im Bereich der Technischen Wahlmodule sowie im Bereich der Schlüsselqualifikationen erfolgreich bestehen müssen.“ 
 
 - b) In Satz 3 werden das Zeichen „;“ und die Worte „andere Studienkonzepte müssen von der Studienberaterin oder dem Studienberater und der Vertreterin oder dem Vertreter des Technischen Anwendungsfachs schriftlich genehmigt werden“ gestrichen. 
 
@@ -46,13 +46,13 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 1 
 
-„[4] Änderungen im Bereich der Technischen Wahlmodule oder der Schlüsselqualifikationen müssen sowohl von der Studienberaterin oder dem Studienberater als auch von der Vertreterin oder dem Vertreter des Technischen Anwendungsfachs vorab schriftlich genehmigt werden.“ 
+„<sup>4</sup> Änderungen im Bereich der Technischen Wahlmodule oder der Schlüsselqualifikationen müssen sowohl von der Studienberaterin oder dem Studienberater als auch von der Vertreterin oder dem Vertreter des Technischen Anwendungsfachs vorab schriftlich genehmigt werden.“ 
 
 - d) Die bisherigen Sätze 4 und 5 werden zu Sätzen 5 und 6. 
 
 - e) Satz 5 (neu) erhält folgende neue Fassung: 
 
-„[5] Die Studierenden wählen aus dem Angebot der Technischen Wahlmodule und der Schlüsselqualifikationen im angegebenen Umfang aus.“ 
+„<sup>5</sup> Die Studierenden wählen aus dem Angebot der Technischen Wahlmodule und der Schlüsselqualifikationen im angegebenen Umfang aus.“ 
 
    - f) In Satz 6 (neu) werden nach dem Wort „Anwendungsfachs,“ die Worte „Wahlfachs oder“ gestrichen und nach den Worten „Anwendungsfach, eines“ (neu) das Wort „Technischen“ sowie nach den Worten „Technischen Wahlfachs“ (neu) die Worte „oder einer Schlüsselqualifikation“ eingefügt. 
 
@@ -64,7 +64,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
    - b) In Nr. 2 werden nach dem Wort „Lebenslauf“ ein Komma und das Wort „ggf.“ eingefügt und am Ende das Wort „sowie“ gestrichen. 
 
-   - c) Nr. 3 wird gestrichen. 
+c) Nr. 3 wird gestrichen. 
 
 6. Anlage 1 wird wie folgt geändert: 
 

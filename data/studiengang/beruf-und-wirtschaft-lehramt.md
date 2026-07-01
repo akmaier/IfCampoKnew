@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:42:47+00:00
+scraped_at: 2026-07-01T08:18:56+00:00
 ---
 
 # Beruf und Wirtschaft (Lehramt)

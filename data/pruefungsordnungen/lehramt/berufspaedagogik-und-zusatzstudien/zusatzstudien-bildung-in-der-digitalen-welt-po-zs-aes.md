@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:58:48+00:00
-page_count_chars: 2409
+scraped_at: 2026-07-01T08:33:20+00:00
+page_count_chars: 2425
 ---
 
 # Zusatzstudien Bildung in der digitalen Welt PO ZS ÄS.pdf
@@ -12,13 +12,15 @@ page_count_chars: 2409
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zusatzstudien_Bildung_digitale_Welt/Aenderungssatzungen/Zusatzstudien_Bildung_in_der_digitalen_Welt_PO_ZS_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/>
 
-## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für die Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS AllfaBilDigital – Vom 27. Juni 2024** 
+# **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für die Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS AllfaBilDigital – Vom 27. Juni 2024** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der derzeit geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** Die Studien- und Prüfungsordnung für die Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS AllfaBilDigital – vom 23. März 2023 wird wie folgt geändert: 
+**§ 1** 
 
-## 1. § 2 wird wie folgt geändert: 
+Die Studien- und Prüfungsordnung für die Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS AllfaBilDigital – vom 23. März 2023 wird wie folgt geändert: 
+
+1. § 2 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach den Worten „nach deren (endgültigem) Nichtbestehen ist eine erneute“ die Worte „Immatrikulation in die“ durch die Worte „ein weiteres Studium der Zusatzstudien und die Teilnahme an den Modulprüfungen der“ ersetzt. 
 
@@ -30,7 +32,7 @@ Aufgrund von Art. 9 Satz 1 i. V. m. Art. 77 Abs. 5, Art. 80 Abs. 1 Satz 1, Art. 
 
    - a) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium der Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ ab dem Wintersemester 2024/2025 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am 1. Oktober 2024 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium der Zusatzstudien „Allgemeine und fachbezogene Bildung in der digitalen Welt“ ab dem Wintersemester 2024/2025 aufnehmen werden.“ 
 
 b) Der ursprüngliche Abs. 2 wird zu Abs. 3. 
 

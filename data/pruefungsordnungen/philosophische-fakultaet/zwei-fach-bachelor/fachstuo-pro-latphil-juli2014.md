@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 07.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_LatPhil.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:59+00:00
-page_count_chars: 8577
+scraped_at: 2026-07-01T10:24:39+00:00
+page_count_chars: 8206
 ---
 
 # PDF vom 04.10.2007 i.d.F. 07.07.2014
@@ -16,7 +16,7 @@ page_count_chars: 8577
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -42,9 +42,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Lateinische Philologie kann im Bachelorstudiengang als erstes Fach im Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
 
-(3)[1] Das fachwissenschaftliche Studium der Lateinischen Philologie hat drei inhaltliche Schwerpunkte, deren Vermittlung es sich zum Ziel setzt: 
+(3)<sup>1</sup> Das fachwissenschaftliche Studium der Lateinischen Philologie hat drei inhaltliche Schwerpunkte, deren Vermittlung es sich zum Ziel setzt: 
 
 1. Sprachbeherrschung und Sprachreflexion; 
 
@@ -62,7 +62,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -88,45 +88,42 @@ Im Modul Bachelorarbeit findet zusätzlich eine mündliche Prüfung mit einer Da
 
 Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-## **Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie** 
+**<u>Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Lateinische Philologie</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung/<br>|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||in ECTS-Punkten1||||||
-|||V|S|Ü|P|ECTS|1.|2.|3.|4.|5.|6.|Studienleistung||
-|Lateinische<br>Literaturwissenschaft I|UE: Einführung in die<br>Lateinische Philologie|||2||10|2||||||Portfolioprüfung:<br>Klausur (45 Min, 50 %) und Referat<br>und Hausarbeit  (45 Min, 10-12 S.,<br>50 %)|0|
-||VL: Lateinische Literatur<br>(Prosa)|2||||||2|||||||
-||PS: Lateinische Literatur<br>(Prosa)||||||||||||||
-||||2|||||6|||||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis I|UE: dt.-lat. Übersetzung<br>(Grundlagen 1)|||2||10|2||||||Portfolioprüfung:<br>Klausur in dt.-lat. Übersetzung<br>(90 Min.)<br>Klausur in lat.-dt. Übersetzung<br>(90 Min.)<br>Die Modulnote ist die Note der<br>besseren Klausur.|0|
-||UE: dt.-lat. Übersetzung<br>(Grundlagen 2)|||2||||4|||||||
-||UE: lat.-dt. Übersetzung<br>(Grundlagen)|||2||||4|||||||
-|Altertumswissenschaft für<br>Latinisten|VL / UE: Alte Geschichte|(2)||(2)||10|||3||||Referat zur Exkursion (45 Min.,<br>100 %)|1|
-||VL / UE: Klassische<br>Archäologie|(2)||(2)|||||3||||||
-||Exkursion mit<br>Vorbereitungskurs||||2|||||4|||||
-|Lateinische<br>Literaturwissenschaft II|VL: Lateinische Literatur<br>(Poesie)|2||||10|||(2)|(2)|||Portfolioprüfung:<br>Klausur (45 Min, 20 %) und Referat<br>oder Thesenpapier (45 Min. oder 5<br>S., 40 %) und Hausarbeit (10-12 S.,<br>40 %)|1|
-||PS: Lateinische Literatur<br>(Poesie)||2||||||(4)|(4)|||||
-||PS: Epochen der<br>lateinischen Literatur2||2||||||(4)|(4)|||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis II|UE: Kursorische Lektüre|||2||||||2|||Portfolioprüfung:<br>Klausur in dt.-lat. Übersetzung<br>(90 Min.)<br>Klausur in lat.-dt. Übersetzung<br>(90 Min.)<br>Die Modulnote ist die Note der<br>besseren Klausur.|1|
-||UE: dt.-lat- Übersetzung<br>(Aufbau)||||||||||||||
-|||||2||10||||4|||||
-||UE: lat.-dt. Übersetzung<br>(Aufbau)||||||||||||||
-||||||||||||||||
-|||||2||||||4|||||
-||||||||||||||||
-|Wahlpflichtmodul||||||10|10||||||nach Maßgabe des Faches|0|
+|||SWS|Gesamt|Workl|oad-Verteilung pro Semester<br> <sup>1</sup>|Art und Umfang der Prüfung/|Faktor<br>|
+|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||||in ECTS-Punkten||Modul-|
+|||<br> <br> <br>|ECTS|<br>|<br> <br> <br> <br>|Studienleistung<br>|<br>|
+|||V<br>S<br>Ü<br>P||1.<br>2.|3.<br>4.<br>5.<br>6|<br>.|note|
+||UE: Einführung in die<br>Lateinische Philologie|2||2||Portfolioprüfung:||
+|Lateinische<br>Literaturwissenschaft I|VL: Lateinische Literatur<br>(Prosa)|2|10|2||Klausur (45 Min, 50 %) und Referat<br>und Hausarbeit  (45 Min, 10-12 S.,|0|
+||PS: Lateinische Literatur<br>(Prosa)|2||6||50 %)||
+||UE: dt.-lat. Übersetzung<br>(Grundlagen 1)|2||2||Portfolioprüfung:<br>Klausur in dt.-lat. Übersetzung||
+|Lateinische<br>Sprachwissenschaft und|UE: dt.-lat. Übersetzung<br>(Grundlagen 2)|2|10|4||(90 Min.)<br>Klausur in lat.-dt. Übersetzung<br>|0|
+|Sprachpraxis I|UE: lat.-dt. Übersetzung<br>(Grundlagen)|2||4||(90 Min.)<br>Die Modulnote ist die Note der<br>besseren Klausur.||
+||VL / UE: Alte Geschichte|(2)<br>(2)|||3|||
+|Altertumswissenschaft für<br>Latinisten|VL / UE: Klassische<br>Archäologie<br>|(2)<br>(2)|10||3|Referat zur Exkursion (45 Min.,<br>100 %)|1|
+||Exkursion mit<br>Vorbereitungskurs|2|||4|||
+||VL: Lateinische Literatur<br>(Poesie)|2|||(2)<br>(2)|Portfolioprüfung:<br>Kl (45 Mi 20 %) d Rft||
+|Lateinische<br>Literaturwissenschaft II|PS: Lateinische Literatur<br>(Poesie)|2|10||(4)<br>(4)|ausur  n,   un eera<br>oder Thesenpapier (45 Min. oder 5<br>S 40 %) und Hausarbeit (10-12 S|1|
+||PS: Epochen der<br>lateinischen Literatur<sup>2</sup>|2|||(4)<br>(4)|.,      .,<br>40 %)||
+||UE: Kursorische Lektüre|2|||2|Portfolioprüfung:<br>||
+|Lateinische|UE: dt.-lat- Übersetzung<br>(Aufbau)|2|||4|Klausur in dt.-lat. Übersetzung<br>(90 Min.)||
+|Sprachwissenschaft und<br>Sprachpraxis II|UE: lat.-dt. Übersetzung<br>(Aufbau)|2|10||4|Klausur in lat.-dt. Übersetzung<br>(90 Min.)<br>Die Modulnote ist die Note der<br>besseren Klausur.|1|
+|Wahlpflichtmodul|||10|10||nach Maßgabe des Faches|0|
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 
 2 Das Proseminar kann auch aus dem Angebot des B.A. Mittellatein und Neulatein gewählt werden. 
 
-|Lateinische<br>Literaturwissenschaft III|UE: Praxis und<br>Methodik der<br>lateinischen<br>Interpretation|||2||10|||||2||Referat (45 Min., 100 %) oder<br>Thesenpapier (5 S., 100 %)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||S: Lateinische Literatur<br>und Sprache||2||||||||6||||
-||VL/UE Gräzistik|(2)||(2)|||||||2||||
-|Lateinische<br>Sprachwissenschaft und<br>Sprachpraxis III|UE:<br>Sprachwissenschaftliche<br>Theorie (Prosodie und<br>Metrik)|||2||10||||||2|Portfolioprüfung:<br>Klausur in dt.-lat. Übersetzung<br>(90 Min.)<br>Klausur in lat.-dt. Übersetzung<br>(90 Min.)<br>Die Modulnote ist die Note der<br>besseren Klausur.|1|
-||UE: dt.-lat. Übersetzung<br>(Vertiefung)|||2||||||||4|||
-||UE: lat.-dt. Übersetzung<br>(Vertiefung)|||2||||||||4|||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (40 S., 50 %) und<br>mündliche Prüfung (30 Min.,<br>50 %)|1|
-||Summe:||||||14|16|16|14|10|20|||
+|Lateinische<br>Literaturwissenschaft III|UE: Praxis und<br>Methodik der<br>lateinischen<br>Interpretation<br>|2|10|||2||Referat (45 Min., 100 %) oder<br>Thesenpapier (5 S 100 %)|1|
+|---|---|---|---|---|---|---|---|---|---|
+||S: Lateinische Literatur<br>und Sprache|2||||6||.,||
+||VL/UE Gräzistik|(2)<br>(2)||||2||||
+|Lateinische<br>|UE:<br>Sprachwissenschaftliche<br>Theorie (Prosodie und<br>Metrik)|2|||||2|Portfolioprüfung:<br>Klausur in dt.-lat. Übersetzung<br>(90 Min.)<br>||
+|Srachwissenschaft und|||10|||||Klausur in lat-dt bersetzun|1|
+|p<br>Sprachpraxis III|UE: dt.-lat. Übersetzung<br>(Vertiefung)|2|||||4|.. g<br>(90 Min.)<br>Die Modulnote ist die Note der||
+||UE: lat.-dt. Übersetzung<br>(Vertiefung)|2|||||4|<br>besseren Klausur.||
+|Bachelorarbeit|||10||||10|Bachelorarbeit (40 S., 50 %) und<br>mündliche Prüfung (30 Min.,<br>50 %)|1|
+||Summe:|||14<br>16|16<br>14|10|20|||
 

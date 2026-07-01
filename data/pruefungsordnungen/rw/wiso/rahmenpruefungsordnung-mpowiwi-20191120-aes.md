@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Rahmenprüfungsordnung MPOWIWI 20191120 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Rahmenpruefungsordnung/Aenderungssatzungen/Rahmenprüfungsordnung_MPOWIWI_20191120_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:24:16+00:00
-page_count_chars: 19872
+scraped_at: 2026-07-01T10:40:35+00:00
+page_count_chars: 20173
 ---
 
 # Rahmenprüfungsordnung MPOWIWI 20191120 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 19872
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Rahmenpruefungsordnung/Aenderungssatzungen/Rahmenprüfungsordnung_MPOWIWI_20191120_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Elfte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOWiWi –** 
+# **Elfte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MPOWiWi –** 
 
-## **Vom 20. November 2019** 
+# **Vom 20. November 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2 Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – MPOWiWi – vom 16. Juli 2009, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
@@ -82,13 +82,13 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 14. In § 19 Abs. 4 Satz 1 wird das Wort „Fachprüfungsordnung“ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
-## 15. In § 24 wird wie folgt geändert: 
+# 15. In § 24 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach den Worten „andauernder oder ständiger“ das Wort „körperlicher“ gestrichen und nach den Worten „ständiger Behinderung“ (neu) ein Komma und die Worte „die nicht das abgeprüfte Leistungsbild betrifft,“ eingefügt. 
 
 - b) In Abs. 3 Satz 3 wird nach den Worten „Nachteilsausgleich sind“ das Wort „möglichst“ eingefügt. 
 
-## 16. § 25 wird wie folgt geändert: 
+# 16. § 25 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden nach dem Wort „Prüfung“ die Worte „mit Ausnahme der Masterarbeit“ eingefügt. 
 
@@ -96,7 +96,7 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 17. Die Regelung in § 26 erhält folgende neue Fassung: 
 
-- „(1)[1] Die Qualifikation zum Masterstudium wird nachgewiesen durch: 
+- „(1)<sup>1</sup> Die Qualifikation zum Masterstudium wird nachgewiesen durch: 
 
 1. einen ersten berufsqualifizierenden in Bezug auf den jeweiligen Masterstudiengang fachspezifischen oder fachverwandten bzw. einschlägigen Abschluss einer Hochschule bzw. einen sonstigen hinsichtlich des Qualifikationsprofils nicht wesentlich unterschiedlichen in- oder ausländischen Abschluss und 
 
@@ -104,21 +104,21 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 - 2Die fachspezifischen oder fachverwandten bzw. einschlägigen Abschlüsse nach Satz 1 sind in den jeweiligen **Fachstudien- und Prüfungsordnungen** der Masterstudiengänge geregelt. 
 
-(2)[1] Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlich zu dem nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** als fachspezifisch oder fachverwandt bzw. einschlägig benannten Abschluss sein.[2] Sind ausgleichsfähige Unterschiede gegeben, kann die Zugangskommission den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.[3] Für die Feststellung der Anerkennbarkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG. 
+(2)<sup>1</sup> Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlich zu dem nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** als fachspezifisch oder fachverwandt bzw. einschlägig benannten Abschluss sein.<sup>2</sup> Sind ausgleichsfähige Unterschiede gegeben, kann die Zugangskommission den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.<sup>3</sup> Für die Feststellung der Anerkennbarkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG. 
 
 3 
 
-(3)[1] Abweichend von Abs. 1 Nr. 1 können Bewerberinnen bzw. Bewerber, die in einem nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** für das jeweilige Masterstudium qualifizierenden Bachelorstudiengang, der sechs Semester Regelstudienzeit vorsieht, immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 135 ECTS-Punkte erreicht haben; die Grenze für Bachelorstudiengänge mit sieben Semestern Regelstudienzeit beträgt 162 ECTS-Punkte, für Bachelorstudiengänge mit acht Semestern Regelstudienzeit beträgt die Grenze 189 ECTS-Punkte.[2] Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[3] Die Gewährung des Zugangs zum Masterstudium erfolgt unter Vorbehalt.“ 
+(3)<sup>1</sup> Abweichend von Abs. 1 Nr. 1 können Bewerberinnen bzw. Bewerber, die in einem nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** für das jeweilige Masterstudium qualifizierenden Bachelorstudiengang, der sechs Semester Regelstudienzeit vorsieht, immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 135 ECTS-Punkte erreicht haben; die Grenze für Bachelorstudiengänge mit sieben Semestern Regelstudienzeit beträgt 162 ECTS-Punkte, für Bachelorstudiengänge mit acht Semestern Regelstudienzeit beträgt die Grenze 189 ECTS-Punkte.<sup>2</sup> Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>3</sup> Die Gewährung des Zugangs zum Masterstudium erfolgt unter Vorbehalt.“ 
 
-## 18. § 27 Abs. 1 Satz 3 wird wie folgt geändert: 
+# 18. § 27 Abs. 1 Satz 3 wird wie folgt geändert: 
 
 - a) In Nr. 1 werden die Worte „in den **Fachprüfungsordnungen** “ durch die Worte „im besonderen Teil dieser Studien- und Prüfungsordnung und in den **Fachstudienund Prüfungsordnungen** “ ersetzt. 
 
 - b) In Nr. 2 Halbsatz 2 wird das Wort „ **Fachprüfungsordnungen** “ durch die Worte „ **Fachstudien- und Prüfungsordnungen** “ ersetzt. 
 
-## 19. § 28 wird wie folgt geändert: 
+# 19. § 28 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
    - aa) In Satz 1 werden nach den Worten „besteht aus den“ die Worte „gemäß der jeweiligen **Fachstudien- und Prüfungsordnung** “ eingefügt. 
 
@@ -126,7 +126,7 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 - b) In Abs. 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudienund Prüfungsordnung** “ ersetzt. 
 
-## 20. § 29 wird wie folgt geändert: 
+# 20. § 29 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 wird das Wort „ **Fachprüfungsordnung** “ durch die Worte „ **Fachstudien- und Prüfungsordnung** “ ersetzt. 
 
@@ -140,21 +140,21 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 21. In § 31 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 26 und der **Anlage** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 26 und der **Anlage** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 22. Die **Anlage** erhält folgende neue Fassung: 
 
-## „ **Anlage** 
+# „ **Anlage** 
 
-## **Qualifikationsfeststellung für das Masterstudium am Fachbereich Wirtschaftsund Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU** 
+# **Qualifikationsfeststellung für das Masterstudium am Fachbereich Wirtschaftsund Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU** 
 
-1. Zweck der Feststellung 
+1. <u>Zweck der Feststellung</u> 
 
-   - 1Zweck der Feststellung ist, die Qualifikation der Bewerberinnen und Bewerber zum jeweiligen Masterstudium anhand ihres Bildungsganges, insbesondere der Leistungen im bisherigen Studium und ihrer fachlichen und methodischen Kenntnisse zu beurteilen.[2] Ziel ist dabei festzustellen, ob die Bewerberinnen und Bewerber den erhöhten Anforderungen des stärker forschungsorientierten Masterstudiums genügen und in der Lage sein werden, selbstständig wissenschaftlich zu arbeiten. 
+   - 1Zweck der Feststellung ist, die Qualifikation der Bewerberinnen und Bewerber zum jeweiligen Masterstudium anhand ihres Bildungsganges, insbesondere der Leistungen im bisherigen Studium und ihrer fachlichen und methodischen Kenntnisse zu beurteilen.<sup>2</sup> Ziel ist dabei festzustellen, ob die Bewerberinnen und Bewerber den erhöhten Anforderungen des stärker forschungsorientierten Masterstudiums genügen und in der Lage sein werden, selbstständig wissenschaftlich zu arbeiten. 
 
-2. Verfahren zur Feststellung der Qualifikation 
+2. <u>Verfahren zur Feststellung der Qualifikation</u> 
 
-- 2.1 1Das Verfahren zur Feststellung der Qualifikation wird bei Bedarf, mindestens jedoch einmal pro Jahr für den jeweiligen Masterstudiengang vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt.[2] Soweit einzelne **Fachstudien- und Prüfungsordnungen** einen Studienbeginn zum Sommersemester vorsehen, wird ein weiteres Verfahren zur Feststellung der Qualifikation für den jeweiligen Masterstudiengang vor Beginn der allgemeinen Vorlesungszeit zum Sommersemester durchgeführt. 
+- 2.1 1Das Verfahren zur Feststellung der Qualifikation wird bei Bedarf, mindestens jedoch einmal pro Jahr für den jeweiligen Masterstudiengang vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt.<sup>2</sup> Soweit einzelne **Fachstudien- und Prüfungsordnungen** einen Studienbeginn zum Sommersemester vorsehen, wird ein weiteres Verfahren zur Feststellung der Qualifikation für den jeweiligen Masterstudiengang vor Beginn der allgemeinen Vorlesungszeit zum Sommersemester durchgeführt. 
 
 - 2.2 Die Anträge auf Zugang zum Qualifikationsfeststellungsverfahren sind bis zum 31. Mai eines jeden Jahres zum nachfolgenden Wintersemester und, soweit die **Fachstudien- und Prüfungsordnung** einen Studienbeginn zum Sommersemester vorsieht, zum 31. Januar eines jeden Jahres zum nachfolgenden Sommersemester bei der Zulassungsstelle der FAU zu stellen (Ausschlussfrist). 
 
@@ -166,7 +166,7 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 - 2.3.3 weitere fächerspezifische Nachweise, die den jeweiligen **Fachstudien- und Prüfungsordnungen** zu entnehmen sind. 
 
-3. Kommission zur Qualifikationsfeststellung 
+3. <u>Kommission zur Qualifikationsfeststellung</u> 
 
 - 3.1 Die Feststellung der Qualifikation obliegt gemäß § 11 der Zugangskommission des jeweiligen Masterstudiengangs. 
 
@@ -174,63 +174,59 @@ Die Rahmenprüfungsordnung für die konsekutiven und nicht-konsekutiven Masterst
 
 5 
 
-4. Zugang zum Qualifikationsfeststellungsverfahren 
-
-- 4.1 Der Zugang zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Nr. 2.3 genannten Unterlagen fristgerecht und vollständig vorliegen. 
+4. <u>Zugang zum Qualifikationsfeststellungsverfahren</u> 4.1 Der Zugang zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Nr. 2.3 genannten Unterlagen fristgerecht und vollständig vorliegen. 
 
 - 4.2 Mit den Bewerberinnen bzw. Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Nr. 5 durchgeführt. 
 
 - 4.3 Bewerberinnen bzw. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-5. Durchführung des Qualifikationsfeststellungsverfahrens 
+5. <u>Durchführung des Qualifikationsfeststellungsverfahrens</u> 
 
    - Die Bewertung der Qualifikation der Bewerberinnen und Bewerber erfolgt je nach Ausgestaltung in der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** auf mehreren Stufen gemäß den nachfolgenden Regelungen. 
 
-- 5.1 _Erste Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
-
-   - 1Die jeweilige Zugangskommission beurteilt anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin bzw. ein Bewerber die Eignung zum Masterstudium gemäß Nr. 1 besitzt.[2] Dazu werden die schriftlichen Unterlagen zunächst von der Zugangskommission gesichtet und nach Maßgabe der jeweiligen **Fachstudien- und Prüfungsordnung** bewertet; bei Abschlüssen und Modulen, die ein abweichendes Notensystem ausweisen, gelten § 12 Abs. 4 Sätze 1 bis 3 entsprechend.[3] Sieht die jeweilige **Fachstudien- und Prüfungsordnung** aufgrund der Konzeption des jeweiligen Masterstudiengangs die Qualifizierungsmöglichkeit in Form eines fachspezifischen Erstabschlusses vor, so werden Bewerberinnen und Bewerber, die nach den Festlegungen der einschlägigen **Fachstudien- und Prüfungsordnung** als besonders qualifiziert gelten (in der Regel hervorragende Leistungen im Erstabschluss), direkt zum jeweiligen Masterstudiengang zugelassen.[4] In Fällen des Satzes 3 Halbsatz 1 werden die Unterlagen der übrigen Bewerberinnen und Bewerber auf der zweiten und ggf. dritten Stufe des Qualifikationsfeststellungsverfahrens bewertet, soweit die Gesamtnote des ersten berufsqualifizierenden Abschlusses noch in dem von der jeweiligen **Fachstudien- und Prüfungsordnung** gesetzten Rahmen liegt.[5] Ist dies nicht der Fall, erhält die Bewerberin bzw. der Bewerber einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+- 5.1 _Erste Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 1Die jeweilige Zugangskommission beurteilt anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin bzw. ein Bewerber die Eignung zum Masterstudium gemäß Nr. 1 besitzt.<sup>2</sup> Dazu werden die schriftlichen Unterlagen zunächst von der Zugangskommission gesichtet und nach Maßgabe der jeweiligen **Fachstudien- und Prüfungsordnung** bewertet; bei Abschlüssen und Modulen, die ein abweichendes Notensystem ausweisen, gelten § 12 Abs. 4 Sätze 1 bis 3 entsprechend.<sup>3</sup> Sieht die jeweilige **Fachstudien- und Prüfungsordnung** aufgrund der Konzeption des jeweiligen Masterstudiengangs die Qualifizierungsmöglichkeit in Form eines fachspezifischen Erstabschlusses vor, so werden Bewerberinnen und Bewerber, die nach den Festlegungen der einschlägigen **Fachstudien- und Prüfungsordnung** als besonders qualifiziert gelten (in der Regel hervorragende Leistungen im Erstabschluss), direkt zum jeweiligen Masterstudiengang zugelassen.<sup>4</sup> In Fällen des Satzes 3 Halbsatz 1 werden die Unterlagen der übrigen Bewerberinnen und Bewerber auf der zweiten und ggf. dritten Stufe des Qualifikationsfeststellungsverfahrens bewertet, soweit die Gesamtnote des ersten berufsqualifizierenden Abschlusses noch in dem von der jeweiligen **Fachstudien- und Prüfungsordnung** gesetzten Rahmen liegt.<sup>5</sup> Ist dies nicht der Fall, erhält die Bewerberin bzw. der Bewerber einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
 - 5.2 _Zweite Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
 
-- 5.2.1[1] Die Qualifikation der Bewerberinnen bzw. Bewerber, denen zwar nicht bereits auf der ersten Stufe des Qualifikationsfeststellungsverfahrens direkter Zugang zum jeweiligen Masterstudiengang gewährt werden konnte, deren Gesamtnote des ersten berufsqualifizierenden Abschlusses bzw. deren erreichte Punktzahl jedoch noch in dem von der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** gesetzten Rahmen liegt, wird auf der zweiten und ggf. dritten Stufe bewertet.[2] Die jeweilige **Fachstudien- und Prüfungsordnung** regelt das weitere Verfahren; insbesondere können die nach Nr. 2.3 einzureichenden Unterlagen der Bewerberinnen und Bewerber eingehender beurteilt, oder aber Zugangsgespräche nach Nr. 5.2.2 geführt werden. 
+- 5.2.1<sup>1</sup> Die Qualifikation der Bewerberinnen bzw. Bewerber, denen zwar nicht bereits auf der ersten Stufe des Qualifikationsfeststellungsverfahrens direkter Zugang zum jeweiligen Masterstudiengang gewährt werden konnte, deren Gesamtnote des ersten berufsqualifizierenden Abschlusses bzw. deren erreichte Punktzahl jedoch noch in dem von der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** gesetzten Rahmen liegt, wird auf der zweiten und ggf. dritten Stufe bewertet.<sup>2</sup> Die jeweilige **Fachstudien- und Prüfungsordnung** regelt das weitere Verfahren; insbesondere können die nach Nr. 2.3 einzureichenden Unterlagen der Bewerberinnen und Bewerber eingehender beurteilt, oder aber Zugangsgespräche nach Nr. 5.2.2 geführt werden. 
 
-- 5.2.2[1] Findet ein Zugangsgespräch statt, wird der Termin mindestens eine Woche vorher bekannt gegeben.[2] Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.[3] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[4] Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen.[5] Es kann in begründeten Ausnahmefäl- 
+- 5.2.2<sup>1</sup> Findet ein Zugangsgespräch statt, wird der Termin mindestens eine Woche vorher bekannt gegeben.<sup>2</sup> Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.<sup>3</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.<sup>4</sup> Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen.<sup>5</sup> Es kann in begründeten Ausnahmefäl- 
 
 6 
 
-len und mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.[6] Das Qualifikationsfeststellungsgespräch wird von mindestens einem Mitglied der Zugangskommission in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt, die bzw. der von der bzw. dem bzw. den Prüfenden bestellt wird.[7] Soweit das Qualifikationsfeststellungsgespräch von mehreren Mitgliedern der Zugangskommission geführt wird, bewertet jedes Mitglied die Qualifikation der Bewerberin bzw. des Bewerbers anhand des von der jeweiligen **Fachstudien- und Prüfungsordnung** vorgesehenen Verfahrens. 8§ 19 Abs. 1 Satz 5 gilt entsprechend. 
+len und mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.<sup>6</sup> Das Qualifikationsfeststellungsgespräch wird von mindestens einem Mitglied der Zugangskommission in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt, die bzw. der von der bzw. dem bzw. den Prüfenden bestellt wird.<sup>7</sup> Soweit das Qualifikationsfeststellungsgespräch von mehreren Mitgliedern der Zugangskommission geführt wird, bewertet jedes Mitglied die Qualifikation der Bewerberin bzw. des Bewerbers anhand des von der jeweiligen **Fachstudien- und Prüfungsordnung** vorgesehenen Verfahrens. 8§ 19 Abs. 1 Satz 5 gilt entsprechend. 
 
 - 5.3 _Dritte Stufe des Qualifikationsfeststellungsverfahrens_ 
 
    - Sieht die jeweilige **Fachstudien- und Prüfungsordnung** eine dritte Stufe des Qualifikationsfeststellungsverfahrens vor, so gelten die Ausführungen unter Nr. 5.2 entsprechend. 
 
-6. Ergebnis, Kosten und Gültigkeit 
+6. <u>Ergebnis, Kosten und Gültigkeit</u> 
 
-- 6.1 1Das Ergebnis des Qualifikationsfeststellungsverfahrens insgesamt wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.[2] Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+- 6.1 1Das Ergebnis des Qualifikationsfeststellungsverfahrens insgesamt wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.<sup>2</sup> Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
 
 - 6.2 Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
 - 6.3 Die Bestätigung über die bestandene Qualifikation im jeweiligen Masterstudiengang hat unbeschränkte Gültigkeit, soweit sich der jeweilige Masterstudiengang nicht wesentlich geändert hat. 
 
-## 7. Niederschrift 
+# 7. <u>Niederschrift</u> 
 
-1Über die Art und den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und den ggf. weiteren Stufen ist eine Dokumentation anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen. 2Aus der Dokumentation müssen die wesentlichen Gründe für die Entscheidung ersichtlich sein. 
+   - 1Über die Art und den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und den ggf. weiteren Stufen ist eine Dokumentation anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen. 2Aus der Dokumentation müssen die wesentlichen Gründe für die Entscheidung ersichtlich sein. 
 
-8. Rücktritt 
+8. <u>Rücktritt</u> 
 
-   - 1Die Bewerberin bzw. der Bewerber kann bis zu einer Entscheidung über das Bestehen des Qualifikationsfeststellungsverfahrens von diesem ohne Angabe von Gründen zurücktreten.[2] Der Rücktritt ist schriftlich gegenüber der jeweiligen Zugangskommission zu erklären.[3] Der Rücktritt ist unwiderruflich; die Bewerberin bzw. der Bewerber kann erst zum nächsten Zugangstermin erneut die Teilnahme beantragen. 
+   - 1Die Bewerberin bzw. der Bewerber kann bis zu einer Entscheidung über das Bestehen des Qualifikationsfeststellungsverfahrens von diesem ohne Angabe von Gründen zurücktreten.<sup>2</sup> Der Rücktritt ist schriftlich gegenüber der jeweiligen Zugangskommission zu erklären.<sup>3</sup> Der Rücktritt ist unwiderruflich; die Bewerberin bzw. der Bewerber kann erst zum nächsten Zugangstermin erneut die Teilnahme beantragen. 
 
-9. Nachteilsausgleich 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf. 
+9. <u>Nachteilsausgleich</u> 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger Behinderung, die nicht das abgeprüfte Leistungsbild betrifft, nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf. 
 
 7 
 
-## 10. Wiederholung 
+# 10. <u>Wiederholung</u> 
 
-- 1Bewerberinnen bzw. Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Feststellungsverfahren beantragen.[2] Die erneute Teilnahme in Folgeterminen auf Basis weiterer Unterlagen ist immer möglich.“ 
+- 1Bewerberinnen bzw. Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Feststellungsverfahren beantragen.<sup>2</sup> Die erneute Teilnahme in Folgeterminen auf Basis weiterer Unterlagen ist immer möglich.“ 
 
-## 23. Das Inhaltsverzeichnis wird angepasst und auch die **Anlage** wird aufgenommen. 
+# 23. Das Inhaltsverzeichnis wird angepasst und auch die **Anlage** wird aufgenommen. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.  2Abweichend von Satz 1 gelten die Änderungen in den lfd. Nrn. 17 (§ 26) und 22 ( **Anlage** ) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 

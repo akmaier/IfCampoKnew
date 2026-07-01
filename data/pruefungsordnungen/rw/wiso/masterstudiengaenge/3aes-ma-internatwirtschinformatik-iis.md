@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Februar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES_MA-InternatWirtschInformatik-IIS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:11+00:00
-page_count_chars: 2778
+scraped_at: 2026-07-01T11:04:11+00:00
+page_count_chars: 2804
 ---
 
 # 18. Februar 2014
@@ -14,11 +14,11 @@ page_count_chars: 2778
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
 
-## Vom 18. Februar 2014 
+# Vom 18. Februar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS - vom 8. Juli 2010, zuletzt geändert durch Satzung vom 15. Februar 2013, wird wie folgt geändert: 
 
@@ -28,27 +28,27 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
       - aa) In Nr. 1 wird nach dem Wort „Bewerberin“ das Wort „oder“ eingefügt und das Zeichen „/“ gestrichen sowie das Wort „Zulassungskommission“ durch das Wort „Zugangskommission“ ersetzt. 
 
-bb) In Nr. 2 wird das Wort „mind.“ durch die Worte „mit mindestens dem“ ersetzt. 
+      - bb) In Nr. 2 wird das Wort „mind.“ durch die Worte „mit mindestens dem“ ersetzt. 
 
-- b) Abs. 3 wird wie folgt geändert: 
+   - b) Abs. 3 wird wie folgt geändert: 
 
 aa) In Nr. 2 wird die Zahl „15“ durch die Zahl „30“ ersetzt. bb) In Nr. 3 wird die Zahl „20“ durch die Zahl „10“ ersetzt. 
 
 cc) In Nr. 4 wird die Zahl „15“ durch die Zahl „10“ ersetzt. 
 
-- c) Abs. 4 wird wie folgt geändert: 
+   - c) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird nach dem Wort „Bewerberinnen“ das Zeichen „/“ durch das Wort „und“ ersetzt. 
+      - aa) In Satz 1 wird nach dem Wort „Bewerberinnen“ das Zeichen „/“ durch das Wort „und“ ersetzt. 
 
-   - bb) In Satz 2 wird nach dem Wort „Bewerberin“ das Zeichen „/“ durch das Wort „oder“, das Wort „besitzen“ durch das Wort „besitzt“ sowie die Worte „er/sie“ durch die Worte „sie oder er“ ersetzt. 
+      - bb) In Satz 2 wird nach dem Wort „Bewerberin“ das Zeichen „/“ durch das Wort „oder“, das Wort „besitzen“ durch das Wort „besitzt“ sowie die Worte „er/sie“ durch die Worte „sie oder er“ ersetzt. 
 
-   - cc) In Satz 3 wird nach dem Wort „Bewerberinnen“ das Zeichen „/“ durch das Wort „und“ ersetzt sowie in Nr. 3 nach dem Wort „Fähigkeit“ ein Komma eingefügt. 
+      - cc) In Satz 3 wird nach dem Wort „Bewerberinnen“ das Zeichen „/“ durch das Wort „und“ ersetzt sowie in Nr. 3 nach dem Wort „Fähigkeit“ ein Komma eingefügt. 
 
-## 2. § 3 Abs. 4 Satz 2 erhält folgende Fassung: 
+2. § 3 Abs. 4 Satz 2 erhält folgende Fassung: 
 
-„[2] Hierfür kommen ein Studiensemester an einer ausländischen Hochschule sowie die Ausarbeitung der Masterarbeit an einer ausländischen Hochschule oder bei einem Unternehmen im Ausland in Betracht.“ 
+„<sup>2</sup> Hierfür kommen ein Studiensemester an einer ausländischen Hochschule sowie die Ausarbeitung der Masterarbeit an einer ausländischen Hochschule oder bei einem Unternehmen im Ausland in Betracht.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

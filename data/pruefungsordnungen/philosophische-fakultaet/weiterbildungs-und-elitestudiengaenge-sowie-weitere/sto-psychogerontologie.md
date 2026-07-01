@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.07.1986 i.d.F. 28.07.1988"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/EWF/StO_Psychogerontologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:32+00:00
-page_count_chars: 6777
+scraped_at: 2026-07-01T10:13:38+00:00
+page_count_chars: 6724
 ---
 
 # PDF vom 02.07.1986 i.d.F. 28.07.1988
@@ -14,7 +14,7 @@ page_count_chars: 6777
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text** 
 
-## **Studienordnung für das Aufbaustudium Psychogerontologie an der Universität Erlangen-Nürnberg (StO-Psychogerontologie)** 
+# **Studienordnung für das Aufbaustudium Psychogerontologie an der Universität Erlangen-Nürnberg (StO-Psychogerontologie)** 
 
 vom 2. Juli 1986 in der Fassung der 1. Änderungssatzung vom 28. Juli 1988 
 
@@ -92,10 +92,8 @@ Das Studium gliedert sich in folgende Studienbereiche:
 
 (1) Die Studieninhalte verteilen sich auf die Studienzeit von vier Semestern. Die Gesamtzahl der Semesterwochenstunde beträgt 62. Diese verteilen sich in etwa wie folgt auf die Studienbereiche und Studiensemester: 
 
-|folgt auf die Studienbereiche und Studiensemester:|||
+||1. und 2.<br>Semester|3. und 4.<br>Semester|
 |---|---|---|
-||1. und 2.|3. und 4.|
-||Semester|Semester|
 |1. Gerontologie und Gerontopsychologie: Methodologie|8 SWS|4 SWS|
 |2. Gerontopsychologie: Grundlagenergebnisse|8 SWS|4 SWS|
 |3. Gerontopsychologie: Intervention|4 SWS|8 SWS|

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "21. Oktober 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Latein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:13:00+00:00
-page_count_chars: 1759
+scraped_at: 2026-07-01T08:41:20+00:00
+page_count_chars: 1758
 ---
 
 # 21. Oktober 2010
@@ -12,7 +12,7 @@ page_count_chars: 1759
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Latein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 ## Vom 21. Oktober 2010 
 

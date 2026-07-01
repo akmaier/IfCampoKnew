@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES%20Allg%20PrO%20BA%20MA%20TechFak_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:54:54+00:00
-page_count_chars: 6300
+scraped_at: 2026-07-01T11:16:03+00:00
+page_count_chars: 6402
 ---
 
 # 30. Juli 2012
@@ -18,7 +18,7 @@ Vom 30. Juli 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Universität Erlangen-Nürnberg - ABMPO/TechFak - vom 18. September 2007, zuletzt geändert durch Satzung vom 7. Juni 2011, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an de
 
 b) Es wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Module können in einer Fremdsprache abgehalten werden.[2] Näheres regelt die jeweilige Fachprüfungsordnung.“ 
+„(4)<sup>1</sup> Module können in einer Fremdsprache abgehalten werden.<sup>2</sup> Näheres regelt die jeweilige Fachprüfungsordnung.“ 
 
 2. § 4 wird wie folgt geändert: 
 
@@ -36,25 +36,25 @@ b) Es wird folgender neuer Abs. 4 angefügt:
 
 b) In Abs. 2 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
+„<sup>2</sup> Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
 
 Die Satznummerierung wird angepasst. 
 
 c) Es wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Module können in einer Fremdsprache abgehalten werden.[2] Näheres regelt die jeweilige Fachprüfungsordnung.“ 
+„(4)<sup>1</sup> Module können in einer Fremdsprache abgehalten werden.<sup>2</sup> Näheres regelt die jeweilige Fachprüfungsordnung.“ 
 
 3. Nach § 4 wird folgender neuer § 4a eingefügt: 
 
 „ **§ 4a** 
 
-## **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
+# **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
 
-(1)[1] Das Masterstudium in den Studiengängen Chemie- und Bioingenieurwesen, Communications and Multimedia Engineering, ElektrotechnikElektronikInformationstechnik, Energietechnik, Informatik, Informationsund Kommunikationstechnik, Life Science Engineering, Maschinenbau, und Medizintechnik kann in der Form des hälftigen Teilzeitstudiums absolviert werden. 2Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
+(1)<sup>1</sup> Das Masterstudium in den Studiengängen Chemie- und Bioingenieurwesen, Communications and Multimedia Engineering, ElektrotechnikElektronikInformationstechnik, Energietechnik, Informatik, Informationsund Kommunikationstechnik, Life Science Engineering, Maschinenbau, und Medizintechnik kann in der Form des hälftigen Teilzeitstudiums absolviert werden. 2Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
 
-- (2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
+(2)<sup>1</sup> Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist in den Masterstudiengängen während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.<sup>2</sup> Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
 
-(3)[1] Im Teilzeitstudium der Masterstudiengänge können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.[2] Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von Satz 1 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
+(3)<sup>1</sup> Im Teilzeitstudium der Masterstudiengänge können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.<sup>2</sup> Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von Satz 1 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
 
 Das Inhaltsverzeichnis ist entsprechend anzupassen. 
 
@@ -76,13 +76,13 @@ c) In Abs. 7 werden die Worte „Sätze 1 bis 9“ durch die Worte „Abs. 4 bis
 
    - b) In Abs. 5 wird folgender neuer Satz 2 eingefügt: 
 
-„[5] Setzen sich die Module Bachelor- und Masterarbeit aus Teilmodulen zusammen, so kann die jeweilige Fachprüfungsordnung regeln, dass die Bachelor- und Masterarbeit sowie der weitere Modulteil mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote eingehen. 
+„<sup>5</sup> Setzen sich die Module Bachelor- und Masterarbeit aus Teilmodulen zusammen, so kann die jeweilige Fachprüfungsordnung regeln, dass die Bachelor- und Masterarbeit sowie der weitere Modulteil mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote eingehen. 
 
 Die Satznummerierung wird angepasst. 
 
 7. In § 28 Abs. 1 Satz 7 werden nach dem Wort „Exmatrikulation“ ein Komma und die Worte „durch Wechsel aus einem oder in einen Teilzeitstudiengang“ eingefügt und in Abs. 1 Satz 8 am Ende ein Semikolon und der Halbsatz „die Regelfristen gemäß § 7 laufen weiter“ eingefügt. 
 
-## 8. § 29 wird wie folgt geändert: 
+# 8. § 29 wird wie folgt geändert: 
 
 - a) In Abs. 1 Ziffer 1 werden nach den Worten „gleichwertigen Abschluss“ die Worte „hinsichtlich des im jeweiligen Abschluss vermittelten Kompetenzprofils“ eingefügt und nach dem Wort „Halbsatz 1“ ein Punkt und folgender neuer Satz eingefügt: „Soweit diese nicht in den jeweiligen Fachprüfungsordnungen geregelt sind, gilt die ortsüblich bekannt gemachte Bachelor-Master-Ampel.“ 
 
@@ -102,9 +102,9 @@ Die Satznummerierung wird angepasst.
 
    - b) Abs. 5 Satz 7 erhält folgende neue Fassung: 
 
-„[7] Die mündliche Zugangsprüfung wird in der Regel als Einzelprüfung mit einem Umfang von ca. 15 Minuten durchgeführt; sie kann auch als Gruppenprüfung mit maximal fünf Bewerberinnen oder Bewerbern und einem Umfang von je ca. 15 Minuten pro Bewerberin oder Bewerber erfolgen.“ 
+„<sup>7</sup> Die mündliche Zugangsprüfung wird in der Regel als Einzelprüfung mit einem Umfang von ca. 15 Minuten durchgeführt; sie kann auch als Gruppenprüfung mit maximal fünf Bewerberinnen oder Bewerbern und einem Umfang von je ca. 15 Minuten pro Bewerberin oder Bewerber erfolgen.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

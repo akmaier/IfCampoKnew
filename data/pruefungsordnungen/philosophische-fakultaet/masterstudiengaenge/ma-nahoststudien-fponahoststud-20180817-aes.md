@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Nahoststudien FPONahOstStud 20180817 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Nahoststudien/Aenderungssatzungen/MA Nahoststudien_FPONahOstStud_20180817_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:28+00:00
-page_count_chars: 17107
+scraped_at: 2026-07-01T09:45:33+00:00
+page_count_chars: 16588
 ---
 
 # MA Nahoststudien FPONahOstStud 20180817 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 17107
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Nahoststudien/Aenderungssatzungen/MA Nahoststudien_FPONahOstStud_20180817_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Nahoststudien an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPONahOstStud – Vom 17. August 2018** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Nahoststudien an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPONahOstStud – Vom 17. August 2018** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Nahoststudien an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPONahOstStud – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 28. Juli 2014, wird wie folgt geändert: 
 
@@ -24,21 +24,21 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Nahoststudien a
 
 2. In § 1 werden nach der Abkürzung „ **ABMStPO/Phil** “ das Zeichen „–“ und die Worte „in der jeweils geltenden Fassung angefügt. 
 
-## 3. § 2 erhält folgende neue Fassung: 
+3. § 2 erhält folgende neue Fassung: 
 
-## „ **§ 2 Qualifikation zum Masterstudium,** 
+# „ **§ 2 Qualifikation zum Masterstudium,** 
 
-## **Nachweise und Zugangsvoraussetzungen** 
+# **Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Ein-Fach-, Zwei-Fach- oder Drei-Fach-Bachelorabschluss in einem orientalistischen Fach, Politikwissenschaft, Wirtschaftswissenschaft oder Geographie.[2] Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in sozial-, geistes- und kulturwissenschaftlichen Fächern anerkannt, soweit das Studium Themen der oben genannten Fächer im Umfang von mindestens 50 ECTS-Punkten zum Inhalt hat. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Ein-Fach-, Zwei-Fach- oder Drei-Fach-Bachelorabschluss in einem orientalistischen Fach, Politikwissenschaft, Wirtschaftswissenschaft oder Geographie.<sup>2</sup> Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in sozial-, geistes- und kulturwissenschaftlichen Fächern anerkannt, soweit das Studium Themen der oben genannten Fächer im Umfang von mindestens 50 ECTS-Punkten zum Inhalt hat. 
 
-(2)[1] Mit den Bewerbungsunterlagen sind Sprachkenntnisse in Arabisch mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen nachzuweisen.[2] Dieser Nachweis kann insbesondere über den Nachweis von bestandenen Arabischkursen im Umfang von mindestens 40 ECTS-Punkten, äquivalente Sprachzertifikate oder eine Sprachprüfung durch die Zulassungskommission erfolgen.[3] Sofern der Nachweis zum Zeitpunkt der Bewerbung noch nicht erbracht wird, besteht die Möglichkeit, diesen bis zum Zeitpunkt der Immatrikulation nachzureichen. 
+(2)<sup>1</sup> Mit den Bewerbungsunterlagen sind Sprachkenntnisse in Arabisch mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens (GER) für Sprachen nachzuweisen.<sup>2</sup> Dieser Nachweis kann insbesondere über den Nachweis von bestandenen Arabischkursen im Umfang von mindestens 40 ECTS-Punkten, äquivalente Sprachzertifikate oder eine Sprachprüfung durch die Zulassungskommission erfolgen.<sup>3</sup> Sofern der Nachweis zum Zeitpunkt der Bewerbung noch nicht erbracht wird, besteht die Möglichkeit, diesen bis zum Zeitpunkt der Immatrikulation nachzureichen. 
 
-(3)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen oder fachverwandten bzw. nicht wesentlich unterschiedlichen Abschlusses bzw. 
+(3)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen oder fachverwandten bzw. nicht wesentlich unterschiedlichen Abschlusses bzw. 
 
 1 
 
-im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.[2] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
+im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.<sup>2</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
 
    1. Qualität der Kenntnisse der Geschichte und Kultur des Nahen Ostens (50 %), 
 
@@ -64,101 +64,85 @@ im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Lei
 
 **„§ 5 Wahlpflichtbereich Transregionale Themen und Methoden** 
 
-(1)[1] Der Wahlpflichtbereich „Transregionale Themen und Methoden“ fokussiert in Teil I aus interdisziplinärer Perspektive auf Fragen von Migration/Migrationspolitik und Menschenrechte/Menschenrechtspolitik sowie anderer Querschnittsthemen, welche im Modulhandbuch noch näher darlegt sind.[2] In Teil II werden qualitative und quantitative Forschungsmethoden der vergleichenden Regionenforschung behandelt. 
+(1)<sup>1</sup> Der Wahlpflichtbereich „Transregionale Themen und Methoden“ fokussiert in Teil I aus interdisziplinärer Perspektive auf Fragen von Migration/Migrationspolitik und Menschenrechte/Menschenrechtspolitik sowie anderer Querschnittsthemen, welche im Modulhandbuch noch näher darlegt sind.<sup>2</sup> In Teil II werden qualitative und quantitative Forschungsmethoden der vergleichenden Regionenforschung behandelt. 
 
-(2)[1] Die Studierenden erwerben Kenntnisse für eine eigenständige, methodisch fundierte theoretisch-konzeptionelle Auseinandersetzung mit Fragen der interdis- 
+(2)<sup>1</sup> Die Studierenden erwerben Kenntnisse für eine eigenständige, methodisch fundierte theoretisch-konzeptionelle Auseinandersetzung mit Fragen der interdis- 
 
 2 
 
-ziplinären Regionenforschung.[2] Sie wenden Theorien und Methoden der beteiligten Disziplinen auf konkrete Forschungsgegenstände und Querschnittsthemen wie z.B. Migration und Menschenrechte an. 
+ziplinären Regionenforschung.<sup>2</sup> Sie wenden Theorien und Methoden der beteiligten Disziplinen auf konkrete Forschungsgegenstände und Querschnittsthemen wie z.B. Migration und Menschenrechte an. 
 
-(3)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen sind: Klausur (60-90 Min.) oder Referat (20-30 Min., 33 %) und Hausarbeit (ca. 20 Seiten, 67 %).[3] Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(3)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen sind: Klausur (60-90 Min.) oder Referat (20-30 Min., 33 %) und Hausarbeit (ca. 20 Seiten, 67 %).<sup>3</sup> Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(4)[1] Die wählbaren Module umfassen in der Regel zwei Lehrveranstaltungen (Vorlesungen und/oder Seminare) im Gesamtumfang von 4 SWS und 10 ECTS-Punkten.[2] Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.“ 
+(4)<sup>1</sup> Die wählbaren Module umfassen in der Regel zwei Lehrveranstaltungen (Vorlesungen und/oder Seminare) im Gesamtumfang von 4 SWS und 10 ECTS-Punkten.<sup>2</sup> Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.“ 
 
 7. Der bisherige § 5 wird zu § 6 und wie folgt geändert: 
 
-   - a) Die bisher einzige Regelung wird zu Abs. 1. 
+a) Die bisher einzige Regelung wird zu Abs. 1. 
 
-   - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
+b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die dritte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die dritte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 3 
 
-## 8. Die Tabelle in der Anlage erhält folgende neue Fassung: 
+# 8. Die Tabelle in der Anlage erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS||Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gesamt|||||||
-|||||||<br>ECTS|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|Pflichtbereich|||||||||||||
-|**Raum und Region**|Einführung in die raum-<br>theoretischen Diskussionen|2||||10|5||||Studienbegleitendes Portfolio<br>(mind. 15 S.)2)|1|
-||Einführung in das Studium<br>des Nahen Ostens|2|||||5||||||
-|**Transregionale Themen und**<br>**Methoden I**|vgl. § 5 Abs. 4|||||10|(10)|(10)|(10)||vgl. § 5 Abs. 3|1|
-|**Transregionale Themen und**<br>**Methoden II**|vgl. § 5 Abs. 4|||||10|(10)|(10)|(10)||vgl. § 5 Abs. 3|1|
-||Forschungskolloquium||||2||||8||Präsentation (20 Min.)|0|
-|**Forschungskolloquium**|Bayerisches Orientkolloquium||||2|10|||2||||
-|Schwerpunkt Sprache und Literatur|||||||||||||
-|**Arabische Sprachwissenschaft**|vgl. FPO MA Arabistik-Islamwissenschaft-Semitistik|||||(10)|(10)||(10)||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
-|**Zweite Semitische Sprache**|vgl. FPO MA Arabistik-Islamwissenschaft-Semitistik|||||(10)|(10)||(10)||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
-|**Klassische Arabische Literatur**|vgl.FPO MA Arabistik-Islamwissenschaft-Semitistik|||||(10)||10|||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
-|**Moderne Arabische Literatur**|vgl. FPO MA Arabistik-Islamwissenschaft-Semitistik|||||(10)|(10)||(10)||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
-|Schwerpunkt Religion und Recht|||||||||||||
-|**Sozial- und Kulturgeschichte**|vgl. FPO MA Arabistik-Islamwissenschaft-Semitistik|||||(10)|(10)||(10)||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
-|**Religion und Recht (Islam):**<br>**Grundlagen**|Masterseminar||||2|(10)|(5)|(5)|(5)||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)3)|1|
-||Vorlesung oder Übung|(2)|(2)||||(5)|(5)|(5)||||
-|**Religion und Recht (Islam):**<br>**Vertiefungen**|Masterseminar||||2|(10)|(5)|(5)|(5)||Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)3)|1|
-||Vorlesung oder Übung|(2)|(2)||||(5)|(5)|(5)||||
-|Schwerpunkt Orientalisches Christentum|||||||||||||
-|**Kulturgeschichte**|Masterseminar||||2|(10)|||||Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)3)|1|
-||Vorlesung|2|||||||||||
-|**Kfikd**|Masterseminar||||2||||||Hausarbeit (ca. 20 S.) oder<br>Klausur (90 Min.)3)|1|
-|**onessonsune**|Masterseminar||||2|(10)|||||||
+|Modulbezeichnung<br>Pflihih|Lehrveranstaltung|V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|W<br>in<br>1.|orkload-<br>pro Se<br>ECTS-<br>2.|Verteilung<br>mester<br>Punkten<sup>1)</sup><br>3.<br>4.|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+|ctberec||||||||||
+|**Raum und Reion**|Einführung in die raum-<br>theoretischen Diskussionen|2||10|5|||Studienbegleitendes Portfolio<br>|1|
+|**g**|Einführung in das Studium<br>des Nahen Ostens|2|||5|||(mind. 15 S.)<sup>2)</sup>||
+|**Transregionale Themen und**<br>**Methoden I**|vgl. § 5 A|bs. 4||10|(10)|(10)|(10)|vgl. § 5 Abs. 3|1|
+|**Transregionale Themen und**<br>**Methoden II**|vgl. § 5 A|bs. 4||10|(10)|(10)|(10)|vgl. § 5 Abs. 3|1|
+|**Forschungskolloquium**<br>|Forschungskolloquium<br>Bayerisches Orientkolloquium<br>||2<br>2|10|||8<br>2|Präsentation (20 Min.)|0|
+|Schwerpunkt Sprache und Literatur<br>**Arabische Sprachwissenschaft**|<br>vgl. FPO MA Arabistik-Islam|wissens|chaft-Semitistik|(10)|(10)||(10)|vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
+|**Zweite Semitische Sprache**|vgl. FPO MA Arabistik-Islam|wissens|chaft-Semitistik|(10)|(10)||(10)|vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
+|**Klassische Arabische Literatur**|vgl.FPO MA Arabistik-Islam|wissens|chaft-Semitistik|(10)||10||vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
+|**Moderne Arabische Literatur**<br>Schwerpunkt Religion und Recht|vgl. FPO MA Arabistik-Islam|wissens|chaft-Semitistik|(10)|(10)||(10)|vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
+|<br>**Sozial- und Kulturgeschichte**|vgl. FPO MA Arabistik-Islam|wissens|chaft-Semitistik|(10)|(10)||(10)|vgl. FPO MA Arabistik-<br>Islamwissenschaft-Semitistik|1|
+|**Religion und Recht (Islam):**<br>**Grundlagen**|Masterseminar<br>Vorlesung oder Übung|(2)|2<br>(2)|(10)|(5)<br>(5)|(5)<br>(5)|(5)<br>(5)|Referat (20 Min.) und<br>Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)<sup>3)</sup>|1|
+|**Religion und Recht (Islam):**|Masterseminar||2|10|(5)|(5)|(5)|Referat (20 Min.) und<br>Hbi  20 S d|1|
+|**Vertiefungen**<br>|Vorlesung oder Übung<br>|(2)|(2)|()|(5)|(5)|(5)|ausaret (ca.  .) oer<br>Klausur(90Min.)<sup>3)</sup>||
+|Schwerunkt Orientalisches Christe|ntum|||||||||
+|p <br>**Kulturgeschichte**|<br>Masterseminar<br>Vorlesung|2|2|(10)||||Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)<sup>3)</sup>|1|
+|**Konfessionskunde**|Masterseminar<br>Masterseminar||2<br>2|(10)||||Hausarbeit (ca. 20 S.) oder<br>Klausur (90 Min.)<sup>3)</sup>|1|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS||Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||Gesamt|||||||
-||||||||<br>ECTS|||||||
-|||V||Ü|P|S||1.|2.|3.|4.|||
-|Schwerpunkt Politikwissenschaft||||||||||||||
-|**Politik in außereuropäischen**<br>**Regionen I**|vgl. FPO MA Politikwissenschaft: Pol AER (A)||||||(10)|10||||vgl. FPO MA Politikwissenschaft:<br>Pol AER(A)|1|
-|**Politik in außereuropäischen**<br>**Regionen II**|vgl. FPO MA Politikwissenschaft: Pol AER (B)||||||(10)||10|||vgl. FPO MA Politikwissenschaft:<br>Pol AER (B)|1|
-|**Politik in außereuropäischen**<br>**Regionen III**|Masterseminar|||||2|(10)|||5||Referat (30-45 Min.) und<br>Hausarbeit (ca. 20 S.) oder<br>Klausur(90Min.)3)|1|
-||Vorlesung oder Masterseminar||(2)|||(2)||||5||||
-|Schwerpunkt Wirtschaftswissenschaft||||||||||||||
-|**Regional Module I**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)|(5)|(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|**Regional Module II**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)|(5)|(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|**Development Economics I**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)||(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|**International Economics I**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)||(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|**Elective Module I**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)|(5)|(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|**Elective Module II**|vgl. FPO MA Development Economics and<br>International Studies||||||(5)|(5)|(5)|(5)||vgl. FPO MA Development<br>Economics and International Studies|1|
-|Schwerpunkt Kulturgeographie||||||||||||||
-|**Kultur und Raum I**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „KGV: Vertiefte Kulturgeographie“||||||(10)|||||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „KGV: Vertiefte<br>Kulturgeographie“|1|
-|||||||||||||||
-|**Kultur und Raum II**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „MV: Vertiefte Methodik“||||||(10)|||||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „MV: Vertiefte Methodik“|1|
-|||||||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS|Gesamt<br>ECTS|Workload-<br>pro Se<br>in ECTS-|Verteilung<br>mester<br>Punkten<sup>1)</sup>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|
+|Schwerpunkt Politikwissenschaft|V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.|||
+|**Politik in außereuropäischen**<br>**Regionen I**|vgl. FPO MA Politikwissenschaft: Pol AER (A)|(10)|10||vgl. FPO MA Politikwissenschaft:<br>Pol AER(A)|1|
+|**Politik in außereuropäischen**<br>**Regionen II**|vgl. FPO MA Politikwissenschaft: Pol AER (B)|(10)|10||vgl. FPO MA Politikwissenschaft:<br>Pol AER (B)|1|
+|**Politik in außereuropäischen**<br>|Masterseminar<br>2|(10)||5|Referat (30-45 Min.) und<br>Hausarbeit (ca 20 S) oder|1|
+|**Regionen III**|Vorlesung oder Masterseminar<br>(2)<br>(2)|||5|.  .<br>Klausur(90Min)<sup>3)</sup>||
+|Schwerpunkt Wirtschaftswissensch|<br> <br> <br>aft||||.||
+|<br>**Regional Module I**|<br>vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)<br>(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|**Regional Module II**|vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)<br>(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|**Development Economics I**|vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|**International Economics I**|vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|**Elective Module I**|vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)<br>(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|**Elective Module II**|vgl. FPO MA Development Economics and<br>International Studies|(5)|(5)<br>(5)|(5)|vgl. FPO MA Development<br>Economics and International Studies|1|
+|Schwerpunkt Kulturgeographie|||||||
+|**Kultur und Raum I**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „KGV: Vertiefte Kulturgeographie“|(10)|||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „KGV: Vertiefte<br>Kulturgeographie“|1|
+|**Kultur und Raum II**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „MV: Vertiefte Methodik“|(10)|||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „MV: Vertiefte Methodik“|1|
 
 5 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS||Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1)|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||Gesamt|||||||
-||||||||<br>ECTS|||||||
-|||V||Ü|P|S||1.|2.|3.|4.|||
-|**Kultur und Raum III**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „LF: Lehrforschung“||||||(20)|||||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul„LF: Lehrforschung“|0|
-|**Kultur und Raum IV**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „RGV: Vertiefte Regionale<br>Geographie“||||||(15)|||||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „RGV: Vertiefte Regionale<br>Geographie“|1|
-|Wahlbereich||||||||||||||
-|**Praktikum4)**|||||||(10)|||||Praktikumsbericht(ca. 10 S.)|0|
-|**Wahlmodul5)**|Nach Maßgabe des Faches5)||||||(10)|||||Nach Maßgabe des Faches5)|0|
-|Masterarbeit||||||||||||||
-|**Masterarbeit**|||||||30||||30|Masterarbeit (100 S.)|1|
-|Summe||||||||30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>|Gesamt<br>ECTS|Workload-<br>pro Se<br>in ECTS-|Verteilung<br>mester<br>Punkten<sup>1)</sup><br>Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|
+||V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.||
+|**Kultur und Raum III**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „LF: Lehrforschung“|(20)||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul„LF: Lehrforschung“|0|
+|**Kultur und Raum IV**|vgl. Prüfungsordnung für den Bachelorstudiengang Physische<br>Geographie und den Masterstudiengang Climate & Environ-<br>mental Sciences sowie die Bachelor- und Masterstudiengänge<br>Kulturgeographie: Modul „RGV: Vertiefte Regionale<br>Geographie“|(15)||vgl. Prüfungsordnung für den<br>Bachelorstudiengang Physische Geo-<br>graphie und den Masterstudiengang<br>Climate & Environmental Sciences<br>sowie die Bachelor- und Master-<br>studiengänge Kulturgeographie:<br>Modul „RGV: Vertiefte Regionale<br>Geographie“|1|
+|Wahlbereich||||||
+|**Praktikum**<sup>**4)**</sup>||(10)||Praktikumsbericht(ca. 10 S.)|0|
+|**Wahlmodul**<sup>**5)**</sup>|Nach Maßgabe des Faches<sup>5)</sup>|(10)||Nach Maßgabe des Faches<sup>5)</sup>|0|
+|Masterarbeit||||||
+|**Masterarbeit**||30||30<br>Masterarbeit (100 S.)|1|
+||Summe||30<br>30|30<br>30||
 
 - 1) Die angegebene Verteilung ist exemplarisch. Die Verteilung orientiert sich an einer Aufnahme des Studiums zum Wintersemester. Im Pflichtbereich wird das Modul „Raum und Region“ nur im Wintersemester angeboten. Bei Aufnahme des Studiums zum Sommersemester kann dieses Modul daher erst im 2. Fachsemester belegt werden. Ersatzweise können in diesem Fall insbesondere die Module „Transregionale Themen und Regionen“ I und II sowie Module aus den Schwerpunkten und dem Wahlbereich in das 1. Fachsemester vorgezogen werden. 
 
@@ -174,7 +158,7 @@ ziplinären Regionenforschung.[2] Sie wenden Theorien und Methoden der beteiligt
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 30. Mai 2018 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Günter Leugering vom 17. August 2018. 
 

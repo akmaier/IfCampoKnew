@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_MA_FACT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:07+00:00
-page_count_chars: 5480
+scraped_at: 2026-07-01T11:01:37+00:00
+page_count_chars: 5610
 ---
 
 # 5. Juni 2014
@@ -12,13 +12,13 @@ page_count_chars: 5480
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_MA_FACT.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 5. Juni 2014 
+# Vom 5. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 20. Juli 2009, zuletzt geändert durch Satzung vom 9. Januar 2013, wird wie folgt geändert: 
 
@@ -36,13 +36,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
    - a) Abs. 2 wird wie folgt geändert: 
 
-      - aa) Die hochgestellte Zahl „1“ zu Beginn des Satzes wird gestrichen. 
+aa) Die hochgestellte Zahl „1“ zu Beginn des Satzes wird gestrichen. 
 
-      - bb) In Nr. 5 werden die Worte „Vertiefung Auditing“ ersetzt durch die Worte „Sonderbilanzen und Sonderprüfungen“. 
+- bb) In Nr. 5 werden die Worte „Vertiefung Auditing“ ersetzt durch die Worte „Sonderbilanzen und Sonderprüfungen“. 
 
-      - cc) Nach Nr. 5 wird folgende neue Nr. 6 eingefügt: 
+- cc) Nach Nr. 5 wird folgende neue Nr. 6 eingefügt: 
 
-         - „6. Spezialfragen der Rechnungslegung.“ 
+   - „6. Spezialfragen der Rechnungslegung.“ 
 
 dd) Die bisherigen Nrn. 6 bis 8 werden zu Nrn. 7 bis 9. 
 
@@ -60,7 +60,7 @@ dd) Die bisherigen Nrn. 6 bis 8 werden zu Nrn. 7 bis 9.
 
    - b) Nr. 2.3 erhält folgende neue Fassung: 
 
-      - „2.3[1] Die Teilnahme am Zugangstest kann durch einen mit mindestens 600 Punkten (Score Report) bestandenen Graduate Management Admission Test (GMAT) ersetzt werden.[2] Dies gilt nicht, sofern der Erwerb des „Zertifikats Angewandte BWL und VWL in der Wirtschaftsprüfung“ (siehe § 5b) angestrebt wird; hierfür ist zwingend der Zugangstest abzulegen.“ 
+      - „2.3<sup>1</sup> Die Teilnahme am Zugangstest kann durch einen mit mindestens 600 Punkten (Score Report) bestandenen Graduate Management Admission Test (GMAT) ersetzt werden.<sup>2</sup> Dies gilt nicht, sofern der Erwerb des „Zertifikats Angewandte BWL und VWL in der Wirtschaftsprüfung“ (siehe § 5b) angestrebt wird; hierfür ist zwingend der Zugangstest abzulegen.“ 
 
    - c) In Nr. 3 wird jeweils das Wort „Zulassungskommission“ ersetzt durch das Wort „Zugangskommission“. 
 
@@ -80,21 +80,23 @@ bb) Satz 2 wird ersatzlos gestrichen.
 
    - b) Nach Zeile 19 (alt) (Modul: Workshop Finance) werden folgende neue Zeilen 20 und 21 eingefügt: 
 
-„ **Modul: Sonderbilanzen und Sonderprüfungen** 5 5 **Modul: Spezialfragen der Rechnungslegung** 5 5 
+„ **Modul: Sonderbilanzen und Sonderprüfungen** 5 <mark>5</mark> **Modul: Spezialfragen der Rechnungslegung** 5 <mark>5</mark> 
 
 „ 
 
 - c) Die Zeilen 42 und 43 (neu) (Modul: Ökonometrie 5 und Modul: Ökonometrie 6) erhalten folgende neue Fassung: 
 
-„ **Modul: Ökonometrie 5 Modul: Ökonometrie 6** 
+„ 
 
-5 5 5 5 
+**Modul: Ökonometrie 5 Modul: Ökonometrie 6** 
+
+5 <mark>5</mark> 5 <mark>5</mark> 
 
 „ 
 
 - d) Zeile 59 (neu) (Zwischensumme der Auswahlmöglichkeiten) erhält folgende neue Fassung: 
 
-„ _Zwischensumme der Auswahlmöglichkeiten 235 65 120 50 0_ 
+„ _Zwischensumme der Auswahlmöglichkeiten 235_ _<mark>65 120 50 0</mark>_ 
 
 „ 
 
@@ -102,7 +104,7 @@ bb) Satz 2 wird ersatzlos gestrichen.
 
 7. Anlage 3 (Überblickstabelle Studienverlauf Beginn Sommersemester) wird wie folgt geändert: 
 
-   - a) In Zeile 10 (Vertiefungs- und Ergänzungsbereich[2 ] (60 ECTS)) wird die hochgestellte Zahl „2“ ersetzt durch die hochgestellte Zahl „1“. 
+   - a) In Zeile 10 (Vertiefungs- und Ergänzungsbereich<sup>2</sup> (60 ECTS)) wird die hochgestellte Zahl „2“ ersetzt durch die hochgestellte Zahl „1“. 
 
    - b) Zeile 12 (Modul: Vertiefung Auditing) wird ersatzlos gestrichen. 
 
@@ -110,13 +112,15 @@ bb) Satz 2 wird ersatzlos gestrichen.
 
 „ 
 
-**Modul: Sonderbilanzen und Sonderprüfungen** 5 5 **Modul: Spezialfragen der Rechnungslegung** 5 5 
+**Modul: Sonderbilanzen und Sonderprüfungen** 5 <mark>5</mark> **Modul: Spezialfragen der Rechnungslegung** 5 <mark>5</mark> 
 
 „ 
 
 - d) Die Zeilen 41 und 42 (neu) (Modul: Ökonometrie 5 und Modul: Ökonometrie 6) erhalten folgende neue Fassung: 
 
-„ **Modul: Ökonometrie 5** 5 5 **Modul: Ökonometrie 6** 5 5 
+„ **Modul: Ökonometrie 5 Modul: Ökonometrie 6** 
+
+5 <mark>5</mark> 5 <mark>5</mark> 
 
 „ 
 
@@ -124,13 +128,13 @@ bb) Satz 2 wird ersatzlos gestrichen.
 
 „ 
 
-_Zwischensumme der Auswahlmöglichkeiten 235 120 65 0 50_ 
+_Zwischensumme der Auswahlmöglichkeiten 235_ _<mark>120 65 0 50</mark>_ 
 
 „ 
 
 - f) In der Fußnote im Anschluss an die Tabelle wird die hochgestellte Zahl „2“ ersetzt durch die hochgestellte Zahl „1“. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in lfd. Nrn. 4a, 6 und 7 gelten für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

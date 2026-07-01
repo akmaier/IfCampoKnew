@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_KunstGesch.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:05:28+00:00
-page_count_chars: 11981
+scraped_at: 2026-07-01T10:24:08+00:00
+page_count_chars: 12078
 ---
 
 # PDF vom 05.10.2007 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 11981
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kunstgeschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 28. Februar 2008 
 
@@ -42,7 +42,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach kann entweder als erstes Fach mit einem Umfang von 70 ECTSPunkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Kunstgeschichte im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Mittleren, Neueren und Neuesten Kunstgeschichte sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Der Studiengang bietet eine breite wissenschaftliche Ausbildung, die als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum dienen soll.[4] Er bereitet auf die Masterstudiengänge vor. 
+(2)<sup>1</sup> Im Fach Kunstgeschichte im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Mittleren, Neueren und Neuesten Kunstgeschichte sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Der Studiengang bietet eine breite wissenschaftliche Ausbildung, die als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum dienen soll.<sup>4</sup> Er bereitet auf die Masterstudiengänge vor. 
 
 (3) Das Studium der Kunstgeschichte im Bachelorstudium soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die analytische und argumentative Kompetenz im Umgang mit Kunstwerken und kunsthistorischen Zu- 
 
@@ -60,9 +60,9 @@ der neuen visuellen Medien,
 
 der bedeutenden Kunstdenkmäler und Museen der Region, 
 
-   - der Fachterminologie und der künstlerischen Techniken, 
+- der Fachterminologie und der künstlerischen Techniken, 
 
-   - der Geschichte des Fachs, der wichtigsten Quellen und Methoden. 
+der Geschichte des Fachs, der wichtigsten Quellen und Methoden. 
 
 2. Methodenkompetenz: Kenntnis und Fähigkeit zur Anwendung der wichtigsten kunstwissenschaftlichen Methoden, insbesondere 
 
@@ -122,18 +122,18 @@ der bedeutenden Kunstdenkmäler und Museen der Region,
 
 2 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Übersicht über die Module im Fach Kunstgeschichte: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** <u>(1) Übersicht über die Module im Fach Kunstgeschichte:</u> 
 
-||**Sem.1**|**Module**|**ECTS-**<br>**Punkte**|**Prüfungsleistung**|
+||**Sem.**<sup>**1**</sup>|**Module**|**ECTS-**<br>**Punkte**|**Prüfungsleistung**|
 |---|---|---|---|---|
 |||**BASISMODULE(I-V)**|||
 |**Kg 1**||**Basismodul I: Einführung in die**<br>**Kunstgeschichte**|**5**||
-||1(WS)|Proseminar(3ECTS)||Klausur oder elektronische Prüfung|
-||1 (WS)|Übung (2 ECTS)||Kurzreferat, Stundenprotokoll,<br>schriftliche Hausaufgabe|
+||1(WS)|Proseminar(3ECTS)||Klausur oder elektronische Prüfung<br>|
+||1 (WS)|Übung (2 ECTS)<br>||Kurzreferat, Stundenprotokoll,<br>schriftliche Hausaufgabe|
 |**Kg 2**||**Basismodul II: Propädeutika**|**10**||
-||2 (SS)|Proseminar Einführung in die Quellenkunde<br>und die Kunsttheorie (4 ECTS)||Protokoll oder mündlicher Vortrag<br>und Klausur oder elektronische<br>Prüfung|
-||1(WS)|Proseminar Einführungin die Ikonographie(4 ECTS)|||
-||1 (WS)<br>od.<br>2 (SS)|Übung Beschreibung und vergleichendes Sehen<br>(2 ECTS)|||
+||2 (SS)|Proseminar Einführung in die Quellenkunde<br>und die Kunsttheorie (4 ECTS)||Protokoll oder mündlicher Vortra|
+||1(WS)<br>|Proseminar Einführungin die Ikonographie(4 ECTS)||g<br>und Klausur oder elektronische|
+||1 (WS)<br>od.<br>2 (SS)|Übung Beschreibung und vergleichendes Sehen<br>(2 ECTS)||Prüfung|
 |**Kg 3**||**Basismodul III: Bildende Kunst I(Mittelalter)**|**10**||
 ||1 (WS)|Vorlesung (3 ECTS)||Stundenprotokoll, Klausur oder<br>elektronische Prüfung|
 ||1 (WS)|Übung (2 ECTS)||Kurzreferat, Stundenprotokoll,<br>schriftlicheHausaufgabe|
@@ -141,12 +141,11 @@ der bedeutenden Kunstdenkmäler und Museen der Region,
 |**Kg 4**||**Basismodul IV: Bildende Kunst II (Von der**<br>**Renaissance bis zur Gegenwart)**|**10**||
 ||2 (SS)|Vorlesung (3 ECTS)||Stundenprotokoll, Klausur oder<br>elektronischePrüfung|
 ||2 (SS)|Übung (2 ECTS)||Kurzreferat, Stundenprotokoll,<br>schriftlicheHausaufgabe|
-||3 (WS)|Proseminar (5 ECTS)||Protokoll oder mündlicher Vortrag<br>und schriftliche Hausarbeit|
+||3 (WS)|Proseminar (5 ECTS)<br>||Protokoll oder mündlicher Vortrag<br>und schriftliche Hausarbeit|
 |**Kg 5**||**Basismodul V: Geschichte der Architektur**|**10**||
 ||3 (WS)|Vorlesung (3 ECTS)||Stundenprotokoll, Klausur oder<br>elektronische Prüfung|
 ||3 (WS)|Übung (2 ECTS)||Kurzreferat, Stundenprotokoll,<br>schriftlicheHausaufgabe|
 ||3 (WS)|Proseminar (5 ECTS)||Protokoll oder mündlicher Vortrag<br>und schriftlicheHausarbeit|
-||||||
 |||**AUFBAUMODULE(I-III)**|||
 |**Kg 6**||**Aufbaumodul Ia: Vertiefungen im Bereich**<br>**der bildenden Kunst und der Architektur **|**10**||
 ||4 (SS)|Seminar (5 ECTS)||Protokoll oder mündlicher Vortrag<br>und schriftlicheHausarbeit|
@@ -157,7 +156,9 @@ der bedeutenden Kunstdenkmäler und Museen der Region,
 ||2-5|Übung (2 ECTS)||Kurzreferat, Stundenprotokoll,<br>schriftliche Hausaufgabe|
 ||2-5|Seminar (5 ECTS)||mündlicher Vortrag und schriftliche<br>Hausarbeit|
 |**Kg 7**||**Aufbaumodul II (Praxismodul): Praxis-bezogenes**<br>**Studium vor Originalen **|**7,5**||
-||4 (SS)|Exkursion (7,5 ECTS)||Mindestens 4 Tage, auch einzeln zu<br>absolvieren<br>ReferatmitThesenpapier|
+|||||Mindestens 4 Tage, auch einzeln zu|
+||4 (SS)|Exkursion (75 ECTS)||absolvieren|
+|||,||<br>ReferatmitThesenpapier|
 
 > 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
@@ -166,7 +167,6 @@ der bedeutenden Kunstdenkmäler und Museen der Region,
 |**Kg 8**||**Aufbaumodul III (Praxismodul):**<br>**Praktikum **|**7,5**||
 |---|---|---|---|---|
 ||5 (WS)|Praktikum (7,5 ECTS)||Praktikum und Erstellung eines<br>Praktikumsberichts|
-||||||
 |||**BACHELORARBEIT**|||
 |**Kg 9**|6(SS)|**Bachelorarbeit**|**10**|Schriftliche Hausarbeit|
 |||**Summe Leistungspunkte**<br>|**80**<br>||
@@ -175,11 +175,10 @@ der bedeutenden Kunstdenkmäler und Museen der Region,
 
 Die Dauer der Klausuren beträgt 60 - 90 Minuten. 
 
-## (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+## (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan An- <u>wendung:</u> 
 
-|wendung:||||||||||
+|||||**1**<br>|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|
 |---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**LE Kunstgeschichte**||||||||||
 |**Basismodul I**|||**5**|||||||
@@ -244,7 +243,7 @@ Die Vergabe des Themas für die Bachelorarbeit kann erst nach erfolgreicher Abso
 
 ## **§ 8 Berechnung der Gesamtnote** 
 
-1Die Gesamtnote berechnet sich aus dem mit ECTS-Punkten gewichteten Durchschnitt der Modulnoten.[2] Aus den Basismodulen I und II wird die bessere Modulnote, aus den Basismodulen III bis V werden die jeweils beiden besten Modulnoten für die Berechnung der Gesamtnote herangezogen.[3] Wird das Aufbaumodul Ib zusätzlich abgelegt und mit einer besseren Modulnote als das Modul Ia abgeschlossen, wird in die Gesamtnotenberechnung das Aufbaumodul Ib einbezogen.[4] Die Aufbaumodule II und III sind unbenotet. 
+1Die Gesamtnote berechnet sich aus dem mit ECTS-Punkten gewichteten Durchschnitt der Modulnoten.<sup>2</sup> Aus den Basismodulen I und II wird die bessere Modulnote, aus den Basismodulen III bis V werden die jeweils beiden besten Modulnoten für die Berechnung der Gesamtnote herangezogen.<sup>3</sup> Wird das Aufbaumodul Ib zusätzlich abgelegt und mit einer besseren Modulnote als das Modul Ia abgeschlossen, wird in die Gesamtnotenberechnung das Aufbaumodul Ib einbezogen.<sup>4</sup> Die Aufbaumodule II und III sind unbenotet. 
 
 ## **§ 9 Schluss- und Übergangsvorschriften** 
 

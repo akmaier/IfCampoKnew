@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. August 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:14+00:00
-page_count_chars: 1414
+scraped_at: 2026-07-01T10:34:41+00:00
+page_count_chars: 1417
 ---
 
 # 23. August 2013
@@ -12,19 +12,19 @@ page_count_chars: 1414
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_Jurist-UniPruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Fünfte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
+# **Fünfte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
 
 Vom 23. August 2013 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 38 Satz 2 der Ausbildungs- und Prüfungsordnung für Juristen (JAPO) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung vom 14. Oktober 2004 (KWMBl II S. 2933), zuletzt geändert durch Satzung vom 29. August 2012, wird wie folgt geändert: 
 
 In der Anlage im Schwerpunktbereich 6: „Kriminalwissenschaften“ Nr. 3 Seminar wird Satz 3 gestrichen. 
 
-**§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

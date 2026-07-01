@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Wirtschaftswissenschaften FPO LA WiWi 20200923 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Wirtschaftswissenschaften/Aenderungssatzungen/LA_Wirtschaftswissenschaften_FPO_LA_WiWi_20200923_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:35+00:00
-page_count_chars: 5713
+scraped_at: 2026-07-01T08:44:32+00:00
+page_count_chars: 5755
 ---
 
 # LA Wirtschaftswissenschaften FPO LA WiWi 20200923 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 5713
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Wirtschaftswissenschaften/Aenderungssatzungen/LA_Wirtschaftswissenschaften_FPO_LA_WiWi_20200923_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA WiWi –** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO LA WiWi –** 
 
-## **Vom 23. September 2020** 
+# **Vom 23. September 2020** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der FAU vom 1. April 2009 – FPO LA WiWi –, zuletzt geändert durch Satzung vom 16. September 2019, wird wie folgt geändert: 
 
@@ -36,10 +36,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im
 
 aa)  Nach Zeile 5 (Einführung in die Volkswirtschaftslehre) wird folgende neue Zeile 6 eingefügt: 
 
-## „ 
+# <u>„</u> 
 
-|Makroökonomie|vgl.**FPO BA WiWi**|5||5||||||||nach**FPO BA**<br>**WiWi**|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Makroökonomie|vgl.**FPO BA WiWi**|5|5|nach**FPO BA**<br>**WiWi**<br>1|
+|---|---|---|---|---|
 
 “ 
 
@@ -69,33 +69,36 @@ aa)  Zeile 6 (Konzeptionelle Modellierung) Spalte 5 (Workload-Verteilung pro Sem
 
 2 
 
-## bb)  Zeile 7 (IT und E-Business) wird wie folgt geändert: 
+# bb)  Zeile 7 (IT und E-Business) wird wie folgt geändert: 
 
 - (1) In Unterspalte 7 wird die Zahl mit Klammern „(5)“ eingefügt. 
 
-(2) In Unterspalte 9 wird die Zahl mit Klammern „(5)“ eingefügt. 
+- (2) In Unterspalte 9 wird die Zahl mit Klammern „(5)“ eingefügt. 
 
 cc)  Zeile 8 (Business & Information Systems Engineering) wird wie folgt geändert: 
 
-   - (1) In Unterspalte 7 wird die Zahl mit Klammern „(5)“ eingefügt. 
+- (1) In Unterspalte 7 wird die Zahl mit Klammern „(5)“ eingefügt. 
 
-   - (2) In Unterspalte 8 wird die Zahl „5“ gestrichen. 
+- (2) In Unterspalte 8 wird die Zahl „5“ gestrichen. 
 
-   - (3) In Unterspalte 9 wird die Zahl mit Klammern „(5)“ eingefügt. 
+- (3) In Unterspalte 9 wird die Zahl mit Klammern „(5)“ eingefügt. 
 
-- dd)  Zeile 9 (Summe:) wird wie folgt geändert: 
+dd)  Zeile 9 (Summe:) wird wie folgt geändert: 
 
-   - (1) In Unterspalte 7 werden nach der Zahl „10“ das Sonderzeichen und die Zahl „- 15“ eingefügt. (2) In Unterspalte 8 wird die Ziffer „1“ gestrichen. 
+- (1) In Unterspalte 7 werden nach der Zahl „10“ das Sonderzeichen und die Zahl „- 15“ eingefügt. 
 
-   - (3) In Unterspalte 9 werden nach der Zahl „5“ das Sonderzeichen und die Zahl „- 10“ eingefügt. 
+- (2) In Unterspalte 8 wird die Ziffer „1“ gestrichen. 
 
-## 3. Die Tabelle in § 5 Abs. 1 wird wie folgt geändert: 
+(3) In Unterspalte 9 werden nach der Zahl „5“ das Sonderzeichen und die Zahl „- 10“ eingefügt. 
+
+# 3. Die Tabelle in § 5 Abs. 1 wird wie folgt geändert: 
 
 - a) Zeile 6 (Makroökonomie) erhält folgende neue Fassung: 
 
-## „ 
+<u>„</u> 
 
-Makroökonomie vgl. **FPO BA WiWi** 5 5 nach **FPO BA WiWi** 1 
+|Makroökonomie<br>vgl.**FPO BA WiWi**<br>5|5<br>nach**FPO BA WiWi**<br>1|
+|---|---|
 
 “ 
 
@@ -105,19 +108,17 @@ aa) In Spalte 2 wird die Zahl „22“ durch die Zahl „20“ ersetzt.
 
 3 
 
-bb) In Spalte 3 wird die Zahl „7“ durch die Zahl „6“ ersetzt. 
-
-cc) In Spalte 8 wird die Zahl „5“ durch die Zahl „10“ ersetzt. dd) In Spalte 9 wird die Zahl „10“ durch die Zahl „5“ ersetzt. 
+bb) In Spalte 3 wird die Zahl „7“ durch die Zahl „6“ ersetzt. cc) In Spalte 8 wird die Zahl „5“ durch die Zahl „10“ ersetzt. dd) In Spalte 9 wird die Zahl „10“ durch die Zahl „5“ ersetzt. 
 
 4 
 
 4. Nach § 6 Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 auch für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPO LA WiWi studieren.[4] Prüfungen nach den bisher gültigen Fassungen der FPO LA WiWi werden bezogen auf das Studium des Lehramts an Gymnasien letztmals im Wintersemester 2026/2027 und bezogen auf das Studium des Lehramts an Realschulen letztmals im Wintersemester 2025/2026 angeboten.[5] Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Prüfungsordnung ab.“ 
+„(3)<sup>1</sup> Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 auch für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPO LA WiWi studieren.<sup>4</sup> Prüfungen nach den bisher gültigen Fassungen der FPO LA WiWi werden bezogen auf das Studium des Lehramts an Gymnasien letztmals im Wintersemester 2026/2027 und bezogen auf das Studium des Lehramts an Realschulen letztmals im Wintersemester 2025/2026 angeboten.<sup>5</sup> Ab dem in Satz 4 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Prüfungsordnung ab.“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 auch für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPO LA WiWi studieren.[ 4] Prüfungen nach den bisher gültigen Fassungen der FPO LA WiWi werden bezogen auf das Studium des Lehramts an Gymnasien letztmals im Wintersemester 2026/2027 und bezogen auf das Studium des Lehramts an Realschulen letztmals im Wintersemester 2025/2026 angeboten.[5] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 auch für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPO LA WiWi studieren.<sup>4</sup> Prüfungen nach den bisher gültigen Fassungen der FPO LA WiWi werden bezogen auf das Studium des Lehramts an Gymnasien letztmals im Wintersemester 2026/2027 und bezogen auf das Studium des Lehramts an Realschulen letztmals im Wintersemester 2025/2026 angeboten.<sup>5</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 27. Mai 2020 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 2. September 2020 Nr. IV.5-BS4067.0/60/6. 
 

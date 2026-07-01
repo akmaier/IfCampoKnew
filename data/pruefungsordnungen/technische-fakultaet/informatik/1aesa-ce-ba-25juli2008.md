@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_CE-BA-25Juli2008.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:16:01+00:00
-page_count_chars: 1847
+scraped_at: 2026-07-01T11:35:34+00:00
+page_count_chars: 1844
 ---
 
 # 25. Juli 2008
@@ -12,13 +12,13 @@ page_count_chars: 1847
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_CE-BA-25Juli2008.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor-und Masterstudiengang Computational Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE)** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor-und Masterstudiengang Computational Engineering der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE)** 
 
 Vom 25. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE) vom 19. September 2007 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 „ sowie Module aus dem Technischen Anwendungsfach, die im Studienkonzept gemäß § 40 Satz 2 spezifiziert sind“ 
 
-## **§2** 
+# **§2** 
 
 Diese Satzung tritt am 1. Oktober 2008 in Kraft. 
 

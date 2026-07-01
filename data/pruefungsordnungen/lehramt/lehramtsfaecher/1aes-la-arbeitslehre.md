@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. September 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA-Arbeitslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T06:59:33+00:00
-page_count_chars: 5032
+scraped_at: 2026-07-01T08:34:05+00:00
+page_count_chars: 4710
 ---
 
 # 14. September 2015
@@ -12,17 +12,17 @@ page_count_chars: 5032
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA-Arbeitslehre.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Arbeitslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Arbeitslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 14. September 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudienund Prüfungsordnung für das Fach Arbeitslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 27. Juni 2009 wird wie folgt geändert: 
 
-## 1. § 1 wird wie folgt geändert: 
+# 1. § 1 wird wie folgt geändert: 
 
 - a) Nach den Worten „Ersten Lehramtsprüfung“ werden die Worte „sowie den lehramtsbezogenen Masterstudiengang Gymnasium“ eingefügt. 
 
@@ -30,33 +30,31 @@ Die Fachstudienund Prüfungsordnung für das Fach Arbeitslehre im Lehramtsstudie
 
 - c) Nach der Zahl „2009“ werden die Worte „in der jeweils geltenden Fassung“ eingefügt. 
 
-## 2. § 2 wird wie folgt geändert: 
+# 2. § 2 wird wie folgt geändert: 
 
 - a) Das Wort „Hauptschulen“ wird durch das Wort „Mittelschulen“ ersetzt und nach dem Wort „Module“ wird das Wort „erfolgreich“ eingefügt. 
 
 1 
 
-## b) Die Tabelle erhält folgende neue Fassung: 
+# b) Die Tabelle erhält folgende neue Fassung: 
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesa<br>mt|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||<br>Punkten1|||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|||
-|**Grundlagen der**<br>**Fachdidaktik (GFD)**|Vorlesung|2||||5|3|||||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)3|1|
-||Übung||2||||2|||||||||
-|**Grundlagen der**<br>**Fachwissenschaft**<br>**(GFW)**|Vorlesung|2||||5||3||||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12S.)3<br>|1|
-||Übung||2|||||2||||||||
-|**Medien und**<br>**Methoden I**<br>**(MuM I)**|Seminar mit<br>Medienschwerpunkt||||2|5||(2,5)|(2,5)|(2,5)|(2,5)|||Klausur (90 Min.)~~4~~oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)3|1|
-||Seminar mit<br>Methodenschwerpunkt||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||||
-|**Medien und**<br>**Methoden II**<br>**(MuM II)2**|Seminar mit<br>Medienschwerpunkt||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||Klausur (90 Min.)~~4~~oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)|1|
-||methodische<br>Begleitveranstaltung<br>zum Praktikum|||||5||||||||<br>oder Portfolio (Arbeitsmappe auf||
-||||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||Basis selbstregulierten Lernens, 10-<br>12 S.)3||
-|||||||||||||||||
-|**Arbeit und Beruf**|Vorlesung|2||||5||(3)||(3)||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)3|1|
-||Seminar||||2|||(2)||(2)||||||
-||Summe:|6|4||8|20|5|5-15|0-5|0-10|0-5|||||
+|||SWS|Gesa|W|orkload-|Verteilu<br>|ng pro<br>|Semeste<br>|r in ECTS-||Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||mt||||Punkten|<sup>1</sup>||Art und Umfang der Prüfung|Modul|
+|||V<br>Ü<br>P|ECTS<br>S|1.|2.|3.|4.|5.|6.<br>7.||note|
+||Vorlesung|2||3||||||Klausur (90 Min.) oder Referat und<br>||
+|**Grundlagen der**<br>**Fachdidaktik (GFD)**|Übung|2|5|2||||||Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)<sup>3</sup>|1|
+||Vorlesung|2|||3|||||<br>Klausur (90 Min.) oder Referat und||
+|**Grundlagen der**<br>**Fachwissenschaft**<br>**(GFW)**|Übung|2|5||2|||||<br>Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12S.)<sup>3</sup>|1|
+|**Medien und**|Seminar mit<br>Medienschwerpunkt||2||(2,5)|(2,5)|(2,5)|(2,5)||Klausur (90 Min.)<sup>~~4~~</sup>oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)||
+|**Methoden I**<br>**(MuM I)**|Seminar mit<br>Methodenschwerpunkt||5<br>2||(2,5)|(2,5)|(2,5)|(2,5)||oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)<sup>3</sup><br>|1|
+|**Medien und**|Seminar mit<br>Medienschwerpunkt||2||(2,5)|(2,5)|(2,5)|(2,5)||Klausur (90 Min.)<sup>~~4~~</sup>oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.)||
+|**Methoden II**<br>**(MuM II)**<sup>**2**</sup>|methodische<br>Begleitveranstaltung<br>zum Praktikum||5<br>2||(2,5)|(2,5)|(2,5)|(2,5)||<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)<sup>3</sup>|1|
+||Vorlesung|2|||(3)||(3)|||Klausur (90 Min.) oder Referat und||
+|**Arbeit und Beruf**|Seminar||5<br>2||(2)||(2)|||Hausarbeit (30-45 Min., 12-15 S.)<br>oder Portfolio (Arbeitsmappe auf<br>Basis selbstregulierten Lernens, 10-<br>12 S.)<sup>3</sup>|1|
+||Summe:|<br>6<br>4|8<br>20|5|5-15|0-5|0-10|0-5||||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 2 
 

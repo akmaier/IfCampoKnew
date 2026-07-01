@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Februar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES BA-MA Geowissensch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:41:54+00:00
-page_count_chars: 10221
+scraped_at: 2026-07-01T09:06:59+00:00
+page_count_chars: 10239
 ---
 
 # 18. Februar 2013
@@ -12,21 +12,25 @@ page_count_chars: 10221
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES BA-MA Geowissensch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Dritte Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 18. Februar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Bachelor- und Masterstudiengang  Geowissenschaften  an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg vom 1. Oktober 2007, zuletzt geändert durch Satzung vom 10. Dezember 2010, wird wie folgt geändert: 
 
-## 1. § 10 Abs. 3 wird wie folgt geändert: 
+# 1. § 10 Abs. 3 wird wie folgt geändert: 
 
    - a) In Satz 1 wird der Halbsatz 2 gestrichen. 
 
-   - b) Nach Satz 1 werden folgende Sätze eingefügt: „[2] Abweichend von Satz 1 ist bei Exkursionen bis am letzten Werktag mindestens drei Wochen vor dem Beginn einer Exkursion bzw. Geländeübung ein Rücktritt ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig.[3 ] Als Werktage im Sinne der Sätze 1 und 2 gelten die Tage von Montag bis einschließlich Freitag.“ 
+   - b) Nach Satz 1 werden folgende Sätze eingefügt: 
+
+      - „<sup>2</sup> Abweichend von Satz 1 ist bei Exkursionen bis am letzten Werktag mindestens 
+
+      - drei Wochen vor dem Beginn einer Exkursion bzw. Geländeübung ein Rücktritt ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig.<sup>3</sup> Als Werktage im Sinne der Sätze 1 und 2 gelten die Tage von Montag bis einschließlich Freitag.“ 
 
    - c) Der bisherige Satz 2 wird zu Satz 4. 
 
@@ -66,7 +70,7 @@ Die Prüfungsordnung für den Bachelor- und Masterstudiengang  Geowissenschaften
 
    - „ 
 
-WNF nach aktueller Vorlage 
+<u>WNF nach aktueller Vorlage</u> 
 
 „ 
 
@@ -80,13 +84,13 @@ p) In Zeile 85 (neu) Spalte 1 (Sem) wird die Zahl 5“ durch die Zahl „6“ er
 
    - b) In Satz 2 wird das Wort „das“ gestrichen, nach dem Wort „Referat“ die Worte „oder Posterpräsentation“ angefügt und das Wort „des“ durch das Wort „eines“ ersetzt. 
 
-## 5. § 32 wird wie folgt geändert: 
+# 5. § 32 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 2 werden die Worte „beim Prüfungsausschuss“ durch die Worte „dem Prüfungsausschuss über das Prüfungsamt zu Beginn des vierten Fachsemesters“ ersetzt. 
 
 - b) Abs. 6 Satz 2 wird gestrichen. Die bisherigen Sätze 3 bis 6 werden zu neuen Sätzen 2 bis 5. 
 
-## 6. Die Anlage 1 wird wie folgt geändert: 
+# 6. Die Anlage 1 wird wie folgt geändert: 
 
    - a) In Abs. 4 Satz 1 werden die Worte „von nicht besser“ durch das Wort „schlechter“ und die Zahl „3,0“ durch die Zahl „2,5“ ersetzt. 
 
@@ -128,10 +132,10 @@ p) In Zeile 85 (neu) Spalte 1 (Sem) wird die Zahl 5“ durch die Zahl „6“ er
 
       - „ 
 
-||**PB-E1 als AS-E1 Grundlagenvertiefung III**|**KL**(60 Min.)||**5**|
-|---|---|---|---|---|
-|1|Mikrofazies-Analyse von Karbonatgesteinen<br>(V/Ü)||4|4|
-|1|Ozeanographie(V)||1|1|
+||**PB-E1 als AS-E1 Grundlagenvertiefung III**||**5**|
+|---|---|---|---|
+|1|Mikrofazies-Analyse von Karbonatgesteinen<br>(V/Ü)|**KL**(60 Min.)|4<br>4|
+|1|Ozeanographie(V)||1<br>1|
 
 „ 
 
@@ -139,12 +143,10 @@ p) In Zeile 85 (neu) Spalte 1 (Sem) wird die Zahl 5“ durch die Zahl „6“ er
 
 cc)  In Tabelle „2. Semester“ erhält das Modul „PU-E2“ folgende Fassung: 
 
-- „ 
-
-||**PB- V4 als AS-E2 Paläobiologie**|**HA**||**5**|
-|---|---|---|---|---|
-|2|Paläoökologie<br>(V/Ü)||2|2,5|
-|2|Biofazies und Paläoökologie<br>(V)||2|2,5|
+|„|**PB- V4 als AS-E2 Paläobiologie**|**HA**|**5**|
+|---|---|---|---|
+|2|Paläoökologie<br>(V/Ü)||2<br>2,5|
+|2|Biofazies und Paläoökologie<br>(V)||2<br>2,5|
 
 „ 
 
@@ -152,10 +154,10 @@ dd)  In Tabelle „3. Semester“ erhält das Modul „AS F2“ folgende Fassung
 
 „ 
 
-||**AS F2 Sedimentgeochemie**|**KL**(60 Min.)||**5**|
-|---|---|---|---|---|
-|3|Geochemische Proxies in der Paläoumweltanalyse<br>(V)||2|2,5|
-|3|Übungen Geochemische Proxies in der Paläoumweltanalyse<br>(V/Ü)||2|2,5|
+||**AS F2 Sedimentgeochemie**||**5**|
+|---|---|---|---|
+|3|Geochemische Proxies in der Paläoumweltanalyse<br>(V)|**KL**(60 Min.)|2<br>2,5|
+|3|Übungen Geochemische Proxies in der Paläoumweltanalyse<br>(V/Ü)||2<br>2,5|
 
 „ 
 
@@ -163,24 +165,23 @@ ee)  In Tabelle „3. Semester“ Zeile 15 Spalte 2 (Veranstaltung) wird die Abk
 
 - d) Die Nrn. 5 und 6 erhalten folgende neue Fassung: 
 
-## „ **5. Studienplan Master Geowissenschaften mit Hauptfach „Paläobiologie“ (PB)** 
+# „ **5. Studienplan Master Geowissenschaften mit Hauptfach „Paläobiologie“ (PB)** 
 
-1. Semester: 
+|1.Semester:|
+|---|
 
 |**Sem**|**Veranstaltung**|**Prüfung**|**SWS**|**ECTS**|
 |---|---|---|---|---|
-||||||
 ||**PB-V1 Grundlagenvertiefung I**|**KL**(60 Min.)||**5**|
 |1|Morphologie, Systematik und Ökologie der Invertebraten<br>(V/Ü)||5|5|
-||||||
 ||**PB-V2 Grundlagenvertiefung II**|**KL**(60 Min.)||**5**|
 |1|Systematik, Ökologie und Biostratigraphie von Mikrofossilien<br>(V/Ü)||4|**4**|
 |1|Methoden der Biostratigraphie<br>(V)||1|**1**|
-||||||
 ||**PB-E1 Grundlagenvertiefung III**|**KL**(60 Min.)||**5**|
 |1|Mikrofazies-Analyse von Karbonatgesteinen<br>(V/Ü)||4|4|
 |1|Ozeanographie(V)||1|1|
-|**Als 2. Hauptfach: Wahlpflicht von zwei der drei Module**|||||
+
+**<u>Als 2. Hauptfach: Wahlpflicht von zwei der drei Module</u>** 
 
 3 
 
@@ -188,36 +189,32 @@ ee)  In Tabelle „3. Semester“ Zeile 15 Spalte 2 (Veranstaltung) wird die Abk
 
 |**Sem**|**Veranstaltung**|**Prüfung**|**SWS**|**ECTS**|
 |---|---|---|---|---|
-||||||
 ||**PB-V3 Paläobiologie I**|**KL**(60 Min.)||**5**|
 |2|Makroevolution<br>(V)||2|2,5|
 |2|Paläoklima<br>(V)||2|2,5|
-||||||
 ||**PB-V4 Paläobiologie II**|**HA**||**5**|
 |2|Paläoökologie /<br>(V/Ü)||2|**2,5 **|
 |2|Biofazies und Paläoökologie(Ü)||2,5|**2,5 **|
-||||||
 ||**PB-E2 Paläobiologie**|**V(20 min)**||**5**|
 |2|Analytische Paläobiologie(V/Ü) (Deutsch/Englisch)||4|5|
-|**Als 2. Hauptfach: Wahlpflicht von zwei der drei Module**|||||
 
-## 3. Semester: 
+### **<u>Als 2. Hauptfach: Wahlpflicht von zwei der drei Module</u>** 
+
+## <u>3. Semester:</u> 
 
 |**Sem**|**Veranstaltung**|**Prüfung**|**SWS**|**ECTS**|
 |---|---|---|---|---|
-||||||
 ||**PB-F1 Wiss. Arbeiten in der Paläontologie I**|**KL**(60 Min.)||**5**|
 |3|Proxies in der Paläoumweltrekonstruktion<br>(V)||2|2,5|
 |3|Labormethoden in der Paläontologie<br>(V/Ü)||2|2,5|
-||||||
 ||**PB-F2 Wiss. Arbeiten in der Paläontologie II**|**V**(20 Min.)||**5**|
 ||Geobiologie von Riffen<br>(V/Ü)||2|2,5|
 ||Programmieren und Statistik in der Paläobiologie(UE)||2|2,5|
-||||||
 ||**PB-F3 Wiss. Arbeiten in der Paläontologie III**|**KL**(60 Min.)||**5**|
 |3|Milestones in Earth History<br>(S)||2|2,5|
 |3|Paläontologie der Vertebraten und Pflanzen<br>(V/Ü)||2|2,5|
-|**Als 2. Hauptfach: Wahlpflicht von zwei der drei Module**|||||
+
+**<u>Als 2. Hauptfach: Wahlpflicht von zwei der drei Module</u>** 
 
 **Kürzel für Art der Prüfung:** KL = Klausur, HA = Hausarbeit oder Bericht ~~1)~~ , V = Vortrag, Kolloqu. = Kolloquium 1)Umfang der HA wird vom Dozenten zu Semesterbeginn bekanntgegeben. 
 
@@ -225,11 +222,11 @@ ee)  In Tabelle „3. Semester“ Zeile 15 Spalte 2 (Veranstaltung) wird die Abk
 
 **Das Wahlnebenfach (WNF) kann nach aktueller Vorgabe belegt werden.** „ 
 
-- e) In Nr. 8 Zeile 5 Spalte 2 (Veranstaltung) wird der Klammerzusatz „(15-minütiger Vortrag zzgl. 5-minütige Diskussion oder alternativ Posterpräsentation zzgl. 10-minütiger Diskussion)[1)] sowie die dazugehörige Fußnote gestrichen. 
+- e) In Nr. 8 Zeile 5 Spalte 2 (Veranstaltung) wird der Klammerzusatz „(15-minütiger Vortrag zzgl. 5-minütige Diskussion oder alternativ Posterpräsentation zzgl. 10-minütiger Diskussion)<sup>1)</sup> sowie die dazugehörige Fußnote gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. April 2013 in Kraft. 2Sie gilt für alle Studierenden ab dem Sommersemester 2013.[3] Soweit Studierende die geänderten Module bereits begonnen haben, legen sie diese nach den Modulbestimmungen in der Fassung vor dieser Änderungssatzung ab. 
+1Diese Änderungssatzung tritt am 1. April 2013 in Kraft. 2Sie gilt für alle Studierenden ab dem Sommersemester 2013.<sup>3</sup> Soweit Studierende die geänderten Module bereits begonnen haben, legen sie diese nach den Modulbestimmungen in der Fassung vor dieser Änderungssatzung ab. 
 
 4 
 

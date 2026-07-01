@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Sport.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:06+00:00
-page_count_chars: 2976
+scraped_at: 2026-07-01T08:44:14+00:00
+page_count_chars: 2973
 ---
 
 # 14. März 2012
@@ -18,7 +18,7 @@ Vom 14. März 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Sport im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 1. April 2009, geändert durch Satzung vom 31. März 2010, wird wie folgt geändert: 
 
@@ -32,9 +32,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sport im Lehramtsstudiengang
 
 4. Nach § 7 wird folgende neue Nr. 5 eingefügt: 
 
-## **„5. Teilstudiengang Sport des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
+# **„5. Teilstudiengang Sport des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
 
-## **§ 8 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 8 Inhalt, Aufbau und Gliederung des Studiums** 
 
 Im Rahmen des Teilstudiengangs Sport des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services sind die Module gemäß § 6 Abs. 1 sowie das fachdidaktische Praktikum im Unterrichtsfach im Umfang von 5 ECTS-Punkten abzulegen.“ 
 

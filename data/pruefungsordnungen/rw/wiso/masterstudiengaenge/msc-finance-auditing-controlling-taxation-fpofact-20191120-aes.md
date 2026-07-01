@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Finance Auditing Controlling Taxation FPOFACT 20191120 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MSc_Finance_Auditing_Controlling_Taxation_FPOFACT_20191120_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:55+00:00
-page_count_chars: 4234
+scraped_at: 2026-07-01T11:01:28+00:00
+page_count_chars: 4247
 ---
 
 # MSc Finance Auditing Controlling Taxation FPOFACT 20191120 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 4234
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MSc_Finance_Auditing_Controlling_Taxation_FPOFACT_20191120_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT –** 
+# **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT –** 
 
-## **Vom 20. November 2019** 
+# **Vom 20. November 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT – vom 20. Juli 2009, zuletzt geändert durch Satzung vom 29. August 2018, wird wie folgt geändert: 
 
@@ -58,11 +58,11 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
 6. In § 6 wird nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die elfte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.[2] Abweichend von Satz 1 gelten die Änderungen in **Anlage 2a** und **Anlage 2b** bezogen auf das Modul „Konzernrechnungslegung“ nur für Prüfungsverfahren, die ab dem Wintersemester 2019/2020 erstmals begründet werden (Erstversuch).“ 
+„(5)<sup>1</sup> Die elfte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.<sup>2</sup> Abweichend von Satz 1 gelten die Änderungen in **Anlage 2a** und **Anlage 2b** bezogen auf das Modul „Konzernrechnungslegung“ nur für Prüfungsverfahren, die ab dem Wintersemester 2019/2020 erstmals begründet werden (Erstversuch).“ 
 
 7. In **Anlage 2a** und **Anlage 2b** werden jeweils in Zeile 8 (Konzernrechnungslegung) in Spalte 6 (Art und Umfang der Prüfung/Studienleistung) im Klammerzusatz die Zahl „90“ durch die Zahl „60“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2019 in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in **Anlage 2a** und **Anlage 2b** bezogen auf das Modul „Konzernrechnungslegung“ nur für Prüfungsverfahren, die ab dem Wintersemester 2019/2020 erstmals begründet werden (Erstverfahren). 
 
@@ -72,7 +72,7 @@ Erlangen, den 20. November 2019
 [Kontaktperson entfernt]
 2 
 
-## Präsident 
+# Präsident 
 
 Die Satzung wurde am 20. November 2019 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 20. November 2019 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 20. November 2019. 
 

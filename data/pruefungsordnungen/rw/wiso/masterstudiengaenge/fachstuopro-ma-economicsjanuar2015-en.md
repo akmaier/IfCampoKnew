@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 15th of January 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/pdf-englisch/FachStuOPrO_MA_EconomicsJANUAR2015_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:02+00:00
-page_count_chars: 8548
+scraped_at: 2026-07-01T11:00:54+00:00
+page_count_chars: 8480
 ---
 
 # PDF 15th of January 2015
@@ -12,7 +12,7 @@ page_count_chars: 8548
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/pdf-englisch/FachStuOPrO_MA_EconomicsJANUAR2015_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **These degree programme and examination regulations have been worded carefully to be up to date; however, errors cannot be completely excluded. The official German text available at the Examinations Office is the version that is legally binding.** 
+# **These degree programme and examination regulations have been worded carefully to be up to date; however, errors cannot be completely excluded. The official German text available at the Examinations Office is the version that is legally binding.** 
 
 **Note:** For students who started their studies before the latest amendment came into effect: please also note the previous amendments with their transitory provisions. 
 
@@ -24,13 +24,13 @@ Based on Section 13 (1)(2), Section 43 (5)(2), Section 61 (2)(1) of the Bavarian
 
 **Section 1 Scope............................................................................................................................1 Section 2 Qualification for a Master's Degree Programme, Certificates and Admission Requirements.……………………………………......................……………………….....1 Section 3 Scope and Structure of the Master's Degree Programme, Examinations.………..2 Section 4 Legal Validity, Transitory Provisions ........................................................................3 Appendix.......................................................................................................................................4** 
 
-## **Section 1 Scope** 
+# **Section 1 Scope** 
 
 The degree programme and examination regulations for the research-orientated consecutive Master's degree programme 'Economics' with the degree 'Master of Science' complement the general examination regulations for the Master's degree programmes at the Faculty of Business, Economics, and Law of Friedrich-Alexander-Universität ErlangenNürnberg (FAU) — MPOWIWI 
 
-## **Section 2 Qualification for a Master's Degree Programme, Certificates and Admission Requirements** 
+# **Section 2 Qualification for a Master's Degree Programme, Certificates and Admission Requirements** 
 
-(1)[1] A subject-specific degree within the meaning of Section 26 (1)(1) MPOWIWI is a Bachelor's degree in economics.[2] The following shall be recognised as subject-related degrees within the meaning of Section 26 (1)(1) MPOWIWI: 
+(1)<sup>1</sup> A subject-specific degree within the meaning of Section 26 (1)(1) MPOWIWI is a Bachelor's degree in economics.<sup>2</sup> The following shall be recognised as subject-related degrees within the meaning of Section 26 (1)(1) MPOWIWI: 
 
 1. in particular a Bachelor's degree in mathematics 
 
@@ -44,7 +44,7 @@ The degree programme and examination regulations for the research-orientated con
 
 1 
 
-(2)[1] The following documents within the meaning of Appendix No. 2.3.3 MPOWIWI must be submitted:. 
+(2)<sup>1</sup> The following documents within the meaning of Appendix No. 2.3.3 MPOWIWI must be submitted:. 
 
 1. proof of any stays abroad (if applicable) 
 
@@ -60,19 +60,19 @@ The degree programme and examination regulations for the research-orientated con
 
 2. subject knowledge, skills and abilities (maximum 50 points) 
 
-(4)[1] In the second stage of the qualification assessment process according to Appendix No. 5.2 MPOWIWI, applicants are assessed on the basis of the documents submitted showing additional qualifications such as relevant placements, English language proficiency, stays abroad (maximum of 10 points in total) and a qualification assessment interview (maximum of 10 points).[2] The interview shall have a duration of approximately 20 minutes and is supposed to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-orientated degree programme.[3] The qualification assessment interview shall cover the qualification criteria given in Paragraph 3 (2). 
+(4)<sup>1</sup> In the second stage of the qualification assessment process according to Appendix No. 5.2 MPOWIWI, applicants are assessed on the basis of the documents submitted showing additional qualifications such as relevant placements, English language proficiency, stays abroad (maximum of 10 points in total) and a qualification assessment interview (maximum of 10 points).<sup>2</sup> The interview shall have a duration of approximately 20 minutes and is supposed to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-orientated degree programme.<sup>3</sup> The qualification assessment interview shall cover the qualification criteria given in Paragraph 3 (2). 
 
 **Section 3 Scope and Structure of the Master's Degree Programme, Examinations** 
 
-(1)[1] In the first semester students study fundamental theories and methods in-depth (compulsory subjects = 30 ECTS credits).[2] In the second and third semester students choose a total of ten elective modules (5 ECTS credits each) in any combination they wish from five module groups (elective compulsory subjects); these must include at least one economics seminar (5 ECTS credits) and two modules (5 ECTS credits each) offered by the Faculty, including those in the module groups mentioned above.[3] When choosing modules, a subject-specific increase in expertise compared to the preceding Bachelor's degree must be proven.[4] Students complete the Master's thesis module in the fourth semester.[5] It consists of two examination achievements: the Master's thesis (25 ECTS credits) and the Master's seminar (5 ECTS credits) 
+(1)<sup>1</sup> In the first semester students study fundamental theories and methods in-depth (compulsory subjects = 30 ECTS credits).<sup>2</sup> In the second and third semester students choose a total of ten elective modules (5 ECTS credits each) in any combination they wish from five module groups (elective compulsory subjects); these must include at least one economics seminar (5 ECTS credits) and two modules (5 ECTS credits each) offered by the Faculty, including those in the module groups mentioned above.<sup>3</sup> When choosing modules, a subject-specific increase in expertise compared to the preceding Bachelor's degree must be proven.<sup>4</sup> Students complete the Master's thesis module in the fourth semester.<sup>5</sup> It consists of two examination achievements: the Master's thesis (25 ECTS credits) and the Master's seminar (5 ECTS credits) 
 
 (2) Type and scope of the examinations are governed by **Sections 10 and 16–18a MPOWIWI.** 
 
-(3)[1] The courses and examinations in the compulsory subjects are held in English.[2] The courses and examinations in the elective compulsory subjects are held in English or German.[3] Further provisions shall be set forth in the module handbook. 
+(3)<sup>1</sup> The courses and examinations in the compulsory subjects are held in English.<sup>2</sup> The courses and examinations in the elective compulsory subjects are held in English or German.<sup>3</sup> Further provisions shall be set forth in the module handbook. 
 
 2 
 
-(4).[1] Students may choose to study specialisations.[2] Specialisations are fields of study in which a minimum of 15 ECTS points are to be completed.[3] The following fields of study are available as specialisations: 
+(4).<sup>1</sup> Students may choose to study specialisations.<sup>2</sup> Specialisations are fields of study in which a minimum of 15 ECTS points are to be completed.<sup>3</sup> The following fields of study are available as specialisations: 
 
 1. Labor Economics 
 
@@ -84,40 +84,31 @@ The degree programme and examination regulations for the research-orientated con
 
 5. Health Economics. 
 
-4The module handbook shall specify which modules are allocated to which specialisations. 5If a module may be allocated to more than one specialisation students may decide themselves which specialisation it is to be allocated to.[6] Upon request, students may receive written confirmation of up to three specialisations that they have studied. 
+4The module handbook shall specify which modules are allocated to which specialisations. 5If a module may be allocated to more than one specialisation students may decide themselves which specialisation it is to be allocated to.<sup>6</sup> Upon request, students may receive written confirmation of up to three specialisations that they have studied. 
 
-## **Section 4 Legal Validity and Transitory Provisions** 
+# **Section 4 Legal Validity and Transitory Provisions** 
 
-1These degree programme and examination regulations come into effect on the day after their publication.[2] They shall apply to all students who enter the Economics Master's degree programme in the winter semester 2009/2010 or later. 
+1These degree programme and examination regulations come into effect on the day after their publication.<sup>2</sup> They shall apply to all students who enter the Economics Master's degree programme in the winter semester 2009/2010 or later. 
 
 3 
 
-## **Appendix:** 
+# **Appendix:** 
 
-|**Economics study plan**|||**Distribution of workload per**<br>**semester**|**Distribution of workload per**<br>**semester**|**Distribution of workload per**<br>**semester**|**Distribution of workload per**<br>**semester**|
+|**Economics study plan**|||**Distr**<br>|**ibution of**<br>**sem**<br>|**workloa**<br>**ester**<br>|**d per**<br>|
 |---|---|---|---|---|---|---|
-||||||||
 ||||**1**|**2**|**3**|**4**|
-||||||||
 ||**Type**|ECTS|ECTS|ECTS|ECTS|ECTS|
 |**1st semester: compulsory subjects – 6 compulsory modules**|||||||
-|Mathematics for Economists<br>Microeconomics<br>Game Theory<br>Macroeconomics: Business Cycles<br>Macroeconomics: Economic Growth<br>Applied Econometrics|L<br>L<br>L<br>L<br>L<br>L|5<br>5<br>5<br>5<br>5<br>5|5||||
-||||5||||
-||||5||||
-||||5||||
-||||5||||
-||||5||||
+|Mathematics for Economists|L|5|5||||
+|Microeconomics|L|5|5||||
+|Game Theory|L|5|5||||
+|Macroeconomics: Business Cycles|L|5|5||||
+|Macroeconomics: Economic Growth<br>Applied Econometrics|L<br>L|5<br>5|5<br>5||||
 |**2nd and 3rd semester: elective subjects – choice of 10 eco-**<br>**nomics elective modules* + 2 free elective modules**|||||||
-|Elective compulsory subjects: 10 modules worth 5 ECTS credits<br>each<br>-<br>Module group: Labor Economics<br>-<br>Module group: Macroeconomics and Finance<br>-<br>Module group: Public Economics<br>-<br>Module group: Energy Markets<br>-<br>Module group: Health Economics<br>Free elective modules: 2 modules worth 5 ECTS credits each||50<br>10|||||
-||||||||
-||||||||
-|||||25|25||
-||||||||
-||||||||
-|||||5|5||
+|Elective compulsory subjects: 10 modules worth 5 ECTS credits<br>each<br>-<br>Module group: Labor Economics<br>-<br>Module group: Macroeconomics and Finance<br>-<br>Module group: Public Economics<br>-<br>Module group: Energy Markets<br>-<br>Module group: Health Economics<br>Free elective modules: 2 modules worth 5 ECTS credits each||50<br>10||25<br>5|25<br>5||
 |**4th semester: Master's thesis**|||||||
-|Master's thesis<br>Master's Thesis Seminar||25<br>5||||25|
-|||||||5|
+|Master's thesis||25||||25|
+|Master's Thesis Seminar||5||||5|
 |**ECTS**||**120**|**30**|**30**|**30**|**30**|
 
 * The individual modules available in each module group will be published according to local practice before the start of the semester. 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juli 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Italoromanistik_2FachBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:02:52+00:00
-page_count_chars: 1822
+scraped_at: 2026-07-01T10:22:24+00:00
+page_count_chars: 1821
 ---
 
 # 11. Juli 2008
@@ -12,7 +12,7 @@ page_count_chars: 1822
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AeSa_Italoromanistik_2FachBA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** Vom 11. Juli 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 

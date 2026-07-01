@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES-2FachBA%20LinguistInform.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:06:43+00:00
-page_count_chars: 4243
+scraped_at: 2026-07-01T10:25:10+00:00
+page_count_chars: 4251
 ---
 
 # 9. März 2011
@@ -14,11 +14,11 @@ page_count_chars: 4243
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
@@ -28,9 +28,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im 
 
    - a) In Satz 2 wird nach der Zahl „1“ das Wort und die Zahl „und 2“ eingefügt. 
 
-   - b)  folgender Satz 3 angefügt: 
-
-   - „[3] Für Studierende, die ihr Studium zum Sommersemester 2011 beginnen, gilt die Tabelle 2“ 
+   - b)  folgender Satz 3 angefügt: „<sup>3</sup> Für Studierende, die ihr Studium zum Sommersemester 2011 beginnen, gilt die Tabelle 2“ 
 
 3. Nach Tabelle 1 wird folgende neue Tabelle 2 angefügt: 
 
@@ -38,7 +36,8 @@ Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|**SS**|**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br>**13**|<br>**13**|
 |**Grundlagen der Computerlinguistik I**|||**10**|||||||
 |Computerlinguistik I: Sprachtheorie|GOP|2|2||2|||||
 |Übung zur Vorlesung Grundlagen der<br>Computerlinguistik I:Sprachtheorie|GOP|2|3||3|||||
@@ -79,9 +78,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik im 
 
 Für die Grundlagen- und Orientierungsprüfung müssen mindestens die Prüfungen des Basismoduls „Grundlagen der Informatik“ sowie eines der beiden Basismodule „Grundlagen der Computerlinguistik“ erfolgreich abgelegt werden. “ 
 
-## **§ 2** 
+**§ 2** 
 
-## Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+# Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 21. Februar 2011 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Steinrück vom 2. März 2011. 
 

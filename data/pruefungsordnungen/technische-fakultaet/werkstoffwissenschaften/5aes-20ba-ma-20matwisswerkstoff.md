@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30."
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES%20BA-MA%20MatWissWerkstoff.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:34:16+00:00
-page_count_chars: 3119
+scraped_at: 2026-07-01T11:49:23+00:00
+page_count_chars: 2976
 ---
 
 # 30.
@@ -12,7 +12,7 @@ page_count_chars: 3119
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES%20BA-MA%20MatWissWerkstoff.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/>
 
-## **Fünfe Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Materialwissenschaft und Werkstofftechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMuW -** 
+# **Fünfe Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Materialwissenschaft und Werkstofftechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMuW -** 
 
 Vom 30. Juli 2012 
 
@@ -30,12 +30,10 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Materialwissen
 
 „ 
 
-|B20|Grundlagen der Rechneran-<br>wendungin MWT|2|2||||||||4|5|||||benotete<br>Stu-<br>dienleistung|BSc|5|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|B20|Grundlagen der Rechneran-<br>wendungin MWT<br>2<br>2|4<br>5|benotete<br>Stu-<br>dienleistung|BSc<br>5|
+|---|---|---|---|---|
 
-   - „ 
-
-   - b) Zeile 46 (B 20, Informatik für Ing.) wird ersatzlos gestrichen. 
+„ b) Zeile 46 (B 20, Informatik für Ing.) wird ersatzlos gestrichen. 
 
    - c) In Zeile 55 (neu) (Summe ECTS) Spalte 11 (3.Sem./ECTS) wird die Zahl „32,5“ durch die Zahl „30“ sowie in Spalte 13 (4.Sem./ECTS) die Zahl „27,5“ durch die Zahl „30“ ersetzt. 
 
@@ -45,14 +43,13 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Materialwissen
 
    - b) Zeile 23/24 (M 8) wird wie folgt neu gefasst: 
 
-## **„** 
+# **„** 
 
-||**„**||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|M8a|Fundamentals of Materials<br>Simulation||||||||||||||
-||Vorlesung und Übung|2|2||||||4|5|||U<br>~~*~~|5|
-|M8b|Advanced Materials Simu-<br>lation *******||||||||||||||
-||Vorlesungund Übung|2|2||||||4|5|||U<br>~~*~~|5|
+|M8a|Fundamentals of Materials<br>Simulation<br>|||||~~*~~||
+|---|---|---|---|---|---|---|---|
+||Vorlesung und Übung|2|2|4|5|U<br>|5|
+|M8b|Advanced Materials Simu-<br>lation *******<br>|||||~~*~~||
+||Vorlesungund Übung|2|2|4|5|U<br>|5|
 
 „ 
 

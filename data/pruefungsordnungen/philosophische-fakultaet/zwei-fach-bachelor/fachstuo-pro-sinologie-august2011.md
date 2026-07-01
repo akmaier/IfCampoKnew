@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Sinologie.AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:12:31+00:00
-page_count_chars: 15181
+scraped_at: 2026-07-01T10:29:39+00:00
+page_count_chars: 15193
 ---
 
 # PDF vom 05.10.2007 i.d.F. 05.08.2011
@@ -16,7 +16,7 @@ page_count_chars: 15181
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach- Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach- Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -38,9 +38,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Sinologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Bachelorstudium Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Bachelorstudium Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Im Studium der Sinologie im Bachelorstudiengang werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.[2] Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
+(3)<sup>1</sup> Im Studium der Sinologie im Bachelorstudiengang werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.<sup>2</sup> Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
 
 1 
 
@@ -108,54 +108,45 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium der Sinologie werden folgende Module angeboten: 
+## <u>(1) Im Studium der Sinologie werden folgende Module angeboten:</u> 
 
-|**Sem.**||||**ECTS**|**Art und Umfang der**<br>**Prüfungs- und**<br>**Studienleistungen**<br>**(PL/ SL)**|**Gewichtung**<br>**Modulnote**<br>**1./2. Fach**|**Gewichtung**<br>**Modulnote**<br>**1./2. Fach**|
+|**Sem.**|**Module**|**Veranstaltungen**|**SWS**|**ECTS**|**Art und Umfang der**<br>**Prüfungs- und**<br>**Studienleistungen**<br>**(PL/ SL)**|**Gewi**<br>**Mod**<br>**1./2**|**chtung**<br>**ulnote**<br>**. Fach**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**Veranstaltungen**|**SWS**|||||
-|||||||||
 |1|**Modul 1:**<br>**Modernes Chine-**<br>**sisch 1**<br>(Sino MC 1)|Kurs: Grundkurs Chi-<br>nesisch I|8|10|SL: Hausaufgaben<br>PL: K 120 Min.<br>PL: Mündl. Pr. 10 Min.|1,0|1,0|
-|2|**Modul 2:**<br>**Modernes Chine-**<br>**sisch 2**<br>(Sino MC 2)|Kurs: Grundkurs Chi-<br>nesisch II|8|10|SL: Hausaufgaben<br>PL: K 120 Min.<br>PL: Mündl. Pr. 10 Min.|2,0|1,0|
-|1/2/3|**Modul 3:**<br>**Geschichte und**<br>**Kultur Chinas**<br>(Sino GKCh)|Kurs: Einführung in<br>die chinesische Kul-<br>turgeschichte<br>PS: Das moderne<br>China: Staat und Ge-<br>sellschaft|2+2<br>2|10<br>(6+4)|Kurs:<br>SL: Mündl. Mitarbeit,<br>Sitzungsprotokoll<br>K 2.Sem, PL: 90 Min.<br>PS:<br>SL: Mitarbeit,Referat<br>SL: Hausarbeit|2,0|2,0|
+|2|<br>**Modul 2:**<br>**Modernes Chine-**<br>**sisch 2**<br>(Sino MC 2)|Kurs: Grundkurs Chi-<br>nesisch II|8|10|SL: Hausaufgaben<br>PL: K 120 Min.<br>PL: Mündl. Pr. 10 Min.|2,0|1,0|
+|1/2/3|<br>**Modul 3:**<br>**Geschichte und**<br>**Kultur Chinas**<br>(Sino GKCh)|Kurs: Einführung in<br>die chinesische Kul-<br>turgeschichte<br>PS: Das moderne<br>China: Staat und Ge-<br>sellschaft|2+2<br>2|10<br>(6+4)|Kurs:<br>SL: Mündl. Mitarbeit,<br>Sitzungsprotokoll<br>K 2.Sem, PL: 90 Min.<br>PS:<br>SL: Mitarbeit,Referat<br>SL: Hausarbeit|2,0|2,0|
 |1/2|**Modul Schlüssel-**<br>**qualifikation 1**<br>(Sino SQ 1)|Kurs: Komponente<br>»Kommunikative<br>Kompetenz« des Chi-<br>nese Language Profi-<br>ciency Test HSK 1<br>Kurs: Einführung Wis-<br>senschaftliches Arbei-<br>ten|2+2<br>2|10|Kurs:<br>SL: Mündl. Mitarbeit<br>SL: K 90 Min.<br>(Teilnahme an der HSK<br>Prüfung Level 2 wird<br>empfohlen)|||
-|3/4|**Modul 4:**<br>**Klassisches Chine-**<br>**sisch**<br>(Sino KC)|Kurs: Klassisches<br>Chinesisch<br>Lektüre: Klassisches<br>Chinesisch|4<br>2|10|Kurs:|2,0|2,0|
-|||||(7+3)|SL: Mündl. Mitarbeit,<br>Vokabeltests, Probe-<br>klausur<br>PL: K 90 Min.<br>Lektüre:<br>SL: Mündl. Mitarbeit<br>PL: Schriftliche Über-<br>setzung|||
+|3/4|**Modul 4:**<br>**Klassisches Chine-**<br>**sisch**<br>(Sino KC)|Kurs: Klassisches<br>Chinesisch<br>Lektüre: Klassisches<br>Chinesisch|4<br>2|10<br>(7+3)|Kurs:<br>SL: Mündl. Mitarbeit,<br>Vokabeltests, Probe-<br>klausur<br>PL: K 90 Min.<br>Lektüre:<br>SL: Mündl. Mitarbeit<br>PL: Schriftliche Über-<br>setzung|2,0|2,0|
 |3|**Modul 5:**<br>**Modernes Chine-**<br>**sisch 3**<br>(Sino MC 3)|Kurs: Aufbaukurs<br>Chinesisch<br>Kurs: Lektürekurs|4<br>2|10|Kurse:<br>SL: Hausaufgaben<br>PL: Mündl. Pr. 10 Min<br>PL: K 120 Min.|1,0|1,0|
-|4/5|**Modul 6:**<br>**China und das**<br>**Abendland**<br>(Sino CuAl)|S.: Kulturelle und<br>politische Beziehun-<br>gen zwischen China<br>und dem Abendland<br>V.: Kulturtransfer<br>zwischen China und<br>dem Abendland|2<br>1<br>1<br>2|10|S:|2,0|2,0|
-|||||(3+4<br>+1+<br>2)|SL: Mündl. Mitarbeit<br>PL: Hausarbeit<br>V. u. L.:<br>SL: Anwesenheit u.<br>Mündl. Mitarbeit|||
+|4/5|**Modul 6:**<br>**China und das**<br>**Abendland**<br>(Sino CuAl)|S.: Kulturelle und<br>politische Beziehun-<br>gen zwischen China<br>und dem Abendland<br>V.: Kulturtransfer<br>zwischen China und<br>dem Abendland|2<br>1<br>1<br>2|10<br>(3+4<br>+1+<br>2)|S:<br>SL: Mündl. Mitarbeit<br>PL: Hausarbeit<br>V. u. L.:<br>SL: Anwesenheit u.<br>Mündl. Mitarbeit|2,0|2,0|
 
 3 
 
-|**Sem.**||||**ECTS**|**Art und Umfang der**<br>**Prüfungs- und**<br>**Studienleistungen**<br>**(PL/ SL)**|**Gewichtung**<br>**Modulnote**<br>**1./2. Fach**|**Gewichtung**<br>**Modulnote**<br>**1./2. Fach**|
+|**Sem.**|**Module**|**Veranstaltungen**|**SWS**|**ECTS**|**Art und Umfang der**<br>**Prüfungs- und**<br>**Studienleistungen**<br>**(PL/ SL)**|**Gewi**<br>**Mod**<br>**1./2**|**chtung**<br>**ulnote**<br>**. Fach**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**Veranstaltungen**|**SWS**|||||
-|||||||||
 |||L. z. V.: Lektüre Kul-<br>turtransfer zwischen<br>China und dem<br>Abendland<br>K.: Techniken philo-<br>logischen Umgangs<br>mit chinesisch-<br>sprachigen Quellen|||SL: Übersetzung<br>K.:<br>SL: Mündl. Mitarbeit u.<br>Übungsblätter<br>SL: Abschliessender<br>Wissenstest|||
 |4/5|**Modul 7:**<br>**Modernes Chine-**<br>**sisch 4**<br>(SinoMC4)|||10||1,0|1,0|
-||**Option 1**<br>**Chinaaufenthalt**im<br>Anschluss an das 4.<br>Semester|Kurs: Vertiefungskurs<br>Chinesisch|4||PL: Nachweis: benotete<br>Sprachkursprüfung-en<br>in China oder HSK Test<br>Zeugnis|||
-||**Option 2**<br>**Ohne Chinaaufent-**<br>**halt**|Kurs: Vertiefungskurs<br>Chinesisch<br>Übung: Textlektüre|4<br>4<br>2||Kurs:<br>SL: Hausaufgaben<br>PL: Mündl. Pr. 15 Min.<br>PL: K 180 Min.<br>Ü:<br>SL: Mündl. Mitarbeit<br>SL:Übersetzung|||
+||<br>**Option 1**<br>**Chinaaufenthalt**im<br>Anschluss an das 4.<br>Semester|Kurs: Vertiefungskurs<br>Chinesisch|4||PL: Nachweis: benotete<br>Sprachkursprüfung-en<br>in China oder HSK Test<br>Zeugnis|||
+||<br>**Option 2**<br>**Ohne Chinaaufent-**<br>**halt**|Kurs: Vertiefungskurs<br>Chinesisch<br>Übung: Textlektüre|4<br>4<br>2||Kurs:<br>SL: Hausaufgaben<br>PL: Mündl. Pr. 15 Min.<br>PL: K 180 Min.<br>Ü:<br>SL: Mündl. Mitarbeit<br>SL:Übersetzung|||
 |4/5/6|**Schlüssel-**<br>**qualifikation 2**<br>(Sino SQ 2)|||||||
-||**Option 1**|Chinaaufenthalt<br>2 Freisemester nach<br>dem 4. Semester<br>(5 ECTS allg. f.<br>Studienleistungen im<br>Ausland)||5 + 5|SL: Nachweis: benotete<br>Sprachkursprüfung-en<br>in China oder HSK Test<br>Zeugnis Level 4 o. hö-<br>her|||
+||<br>**Option 1**|Chinaaufenthalt<br>2 Freisemester nach<br>dem 4. Semester<br>(5 ECTS allg. f.<br>Studienleistungen im<br>Ausland)||5 + 5|SL: Nachweis: benotete<br>Sprachkursprüfung-en<br>in China oder HSK Test<br>Zeugnis Level 4 o. hö-<br>her|||
 ||**Option 2**<br>Ohne Chinaaufent-<br>halt|Komponente »Gram-<br>matische Grundle-<br>gung« des Chinese<br>Language Proficiency<br>Test HSK 2|2<br>2<br>3|10|Kurs:<br>SL: Mündl. Mitarbeit<br>SL: K 90 Min. o. Teil-<br>nahme an der HSK<br>Prüfung Level 4|||
-|||||||||
-|||||||||
 |5/6|**Modul 8:**<br>**Konfuzianische**<br>**Traditionen im**<br>**Wandel**|Seminar: Vorstellun-<br>gen weltlicher und<br>sakraler Ordnungen<br>in China<br>Seminar zum The-<br>menbereich: Staat<br>und Gesellschaft im<br>konfuzianischen Den-<br>ken<br>Blockseminar z.<br>Themenbereich: Vor-<br>stellungen weltlicher<br>und sakraler Ordnun-<br>gen in China|2<br>2<br>2|10<br>(4+3<br>+3)|S:<br>SL: Mündl. Mitarbeit,<br>Mündl. Präsentation<br>Rezension<br>S:<br>SL: Mündl. Mitarbeit,<br>Mündl. Präsentation<br>PL: Hausarbeit<br>Blockseminar:<br>SL: Mitarbeit u. mündl.<br>Präsentation<br>SL: Annotierte Überset-<br>zung|2,0|2,0|
-|||Bachelorarbeit||10||||
-|||**Gesamt: **||90||||
+|||Bachelorarbeit<br>**Gesamt: **||10<br>90||||
 
 4 
 
 ## (2) Chinaaufenthalt: 
 
-1Den Studierenden des Bachelorstudiengangs Sinologie wird ausdrücklich empfohlen, sich im Verlauf des Studiums nach Möglichkeit für die Dauer eines Jahres zum Spracherwerb nach China oder Taiwan zu begeben.[2] Bei Nachweis benoteter Zeugnisse von absolvierten Semestersprachkursen in China oder Zeugnissen vor Ort absolvierter HSK Prüfungen sind Studierende berechtigt, sich Leistungen zuzüglich fünf extra ECTS-Punkten für allgemeine Studienleistungen im Ausland anerkennen zu lassen.[3] Für Studierende mit Chinaaufenthalt ist lediglich der Besuch des vierstündigen Vertiefungskurses Chinesisch im 4. Semester Pflicht. 
+1Den Studierenden des Bachelorstudiengangs Sinologie wird ausdrücklich empfohlen, sich im Verlauf des Studiums nach Möglichkeit für die Dauer eines Jahres zum Spracherwerb nach China oder Taiwan zu begeben.<sup>2</sup> Bei Nachweis benoteter Zeugnisse von absolvierten Semestersprachkursen in China oder Zeugnissen vor Ort absolvierter HSK Prüfungen sind Studierende berechtigt, sich Leistungen zuzüglich fünf extra ECTS-Punkten für allgemeine Studienleistungen im Ausland anerkennen zu lassen.<sup>3</sup> Für Studierende mit Chinaaufenthalt ist lediglich der Besuch des vierstündigen Vertiefungskurses Chinesisch im 4. Semester Pflicht. 
 
 ## (3) Schlüsselqualifikationsmodule: 
 
-1Das Modul “Schlüsselqualifikationen (Sino SQ 1): Komponente »Kommunikative Kompetenz« des Chinese Language Proficiency Test HSK 1” ist für den Bachelorstudiengang Sinologie im ersten Fach als Pflichtmodul vorgesehen; es wird nicht benotet, sondern mit “bestanden”/”nicht bestanden” bewertet.[2] Die Teilnahme an der HSK Prüfung Level 2 wird empfohlen.[3] Für die Studierenden im ersten Fach ohne Chinaaufenthalt ist das Modul Schlüsselqualifikationen (Sino SQ 2) Grammatische Grundlegung des Chinese Language Proficiency Tests als Pflichtmodul vorgesehen. 4Für Studierende im ersten Fach mit Chinaaufenthalt entfällt die Teilnahme bei gleichzeitiger Anrechnung der ECTS-Punkte. 
+1Das Modul “Schlüsselqualifikationen (Sino SQ 1): Komponente »Kommunikative Kompetenz« des Chinese Language Proficiency Test HSK 1” ist für den Bachelorstudiengang Sinologie im ersten Fach als Pflichtmodul vorgesehen; es wird nicht benotet, sondern mit “bestanden”/”nicht bestanden” bewertet.<sup>2</sup> Die Teilnahme an der HSK Prüfung Level 2 wird empfohlen.<sup>3</sup> Für die Studierenden im ersten Fach ohne Chinaaufenthalt ist das Modul Schlüsselqualifikationen (Sino SQ 2) Grammatische Grundlegung des Chinese Language Proficiency Tests als Pflichtmodul vorgesehen. 4Für Studierende im ersten Fach mit Chinaaufenthalt entfällt die Teilnahme bei gleichzeitiger Anrechnung der ECTS-Punkte. 
 
-(4)[1] Im Studium Sinologie als erstes Fach im Umfang von 90 ECTS-Punkten sind die Fachmodule 1 bis 8 sowie die Module Sino SQ 1 und Sino SQ 2 erfolgreich abzulegen.[2] Für den Bereich Schlüsselqualifikationen ist bei eingeschlossenem Chinaaufenthalt die Erbringung einer Leistung von 10 ECTS-Punkten erforderlich.[3] Ohne Chinaaufenthalt ist für den Bereich Schlüsselqualifikationen die Erbringung von 20 ECTS-Punkten erforderlich.[4] Studierenden im zweiten Fach wird der Besuch des Moduls „Schlüsselqualifikationen Komponente: Grammatikalische Grundlegung“ (Sinoe SQ 2 empfohlen. 
+(4)<sup>1</sup> Im Studium Sinologie als erstes Fach im Umfang von 90 ECTS-Punkten sind die Fachmodule 1 bis 8 sowie die Module Sino SQ 1 und Sino SQ 2 erfolgreich abzulegen.<sup>2</sup> Für den Bereich Schlüsselqualifikationen ist bei eingeschlossenem Chinaaufenthalt die Erbringung einer Leistung von 10 ECTS-Punkten erforderlich.<sup>3</sup> Ohne Chinaaufenthalt ist für den Bereich Schlüsselqualifikationen die Erbringung von 20 ECTS-Punkten erforderlich.<sup>4</sup> Studierenden im zweiten Fach wird der Besuch des Moduls „Schlüsselqualifikationen Komponente: Grammatikalische Grundlegung“ (Sinoe SQ 2 empfohlen. 
 
-(5)[1] Im Studium Sinologie als zweites Fach im Umfang von 70 ECTS-Punkten sind die Fachmodule 1,2, 3, 4, 5, 7 sowie das Modul 6 oder 8 erfolgreich abzulegen.[2] Für den Bereich Schlüsselqualifikationen wird das Modul „Schlüsselqualifikationen Komponente: Kommunikative Kompetenz“ empfohlen. 
+(5)<sup>1</sup> Im Studium Sinologie als zweites Fach im Umfang von 70 ECTS-Punkten sind die Fachmodule 1,2, 3, 4, 5, 7 sowie das Modul 6 oder 8 erfolgreich abzulegen.<sup>2</sup> Für den Bereich Schlüsselqualifikationen wird das Modul „Schlüsselqualifikationen Komponente: Kommunikative Kompetenz“ empfohlen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -203,11 +194,11 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 |**Modul 8: Konfuzianische Traditionen im**<br>**Wandel**|||**10**|||||||
 |Seminar zum Themenbereich: Konfuz. Le-<br>bens-u. Geisteswelten||2|||||4|||
 |Kurs: Vorstellungen weltlicher u. sakraler Ord-<br>nungen in China||2||||||2||
-|Seminar zum Themenbereich: Staat u. Gesell-<br>schaft im konfuz. Denken||2||||||4||
+|<br>Seminar zum Themenbereich: Staat u. Gesell-<br>schaft im konfuz. Denken||2||||||4||
 |**BA Abschlussarbeit**|||**10**|||||||
 |Bachelorarbeit|||||||||10|
-||||**110**|**16**<br>**19**<br>**15**<br>**24**<br>**21**<br>**15**||||||
 ||||**110**|||||||
+||||**110**|**16**|**19**|**15**|**24**|**21**|**15**|
 
 Im Fach Sinologie sind in der GOP die Module 1 und 3 erfolgreich abzulegen. 
 

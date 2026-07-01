@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Frankoroman.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:57:15+00:00
-page_count_chars: 4371
+scraped_at: 2026-07-01T10:18:31+00:00
+page_count_chars: 4238
 ---
 
 # 8. März 2011
@@ -12,29 +12,30 @@ page_count_chars: 4371
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES-2FachBA%20Frankoroman.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. März 2011 
+# Vom 8. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Frankoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
-## 1. § 3 Abs. 1 erhält folgende Fassung: 
+# 1. § 3 Abs. 1 erhält folgende Fassung: 
 
-"(1)[1] Mit dem Fach Frankoromanistik können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.[2] Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen." 
+"(1)<sup>1</sup> Mit dem Fach Frankoromanistik können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.<sup>2</sup> Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen." 
 
 2. § 4 wird wie folgt geändert: 
 
 a) In Abs. 2 wird folgender Satz 3 angefügt: 
 
-„[3] Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+„<sup>3</sup> Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|**SS**|**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br>**13**|<br>**13**|
 |**Basismodul Französische Sprachpraxis 1**||||||||||
 |Grammaire cours élémentaire I (groupe<br>nominal)|GOP|2|4|||||||
 |Vocabulaire idiomatique et civilisation I|GOP|2|4|||||||
@@ -52,34 +53,34 @@ a) In Abs. 2 wird folgender Satz 3 angefügt:
 |Vorlesungfranzösische Sprachwissenschaft||2|2|||||||
 |ÜbungzufranzösischerSprachwissenschaft||2|4|||||||
 
-|**Aufbaumodul Französische Literatur- und**<br>**Kulturwissenschaft 1**||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Proseminar französische Literatur- und<br>Kulturwissenschaft||2|4|||||||
-|Vorlesung französische Literatur- und<br>Kulturwissenschaft||2|4|||||||
-|Übung zu französischer Literatur- und<br>Kulturwissenschaft||2|2|||||||
-|**Aufbaumodul Französische Sprachpraxis 3**||||||||||
-|Expression écrite I||2|3|||||||
-|Compréhension orale||2|2|||||||
-|Grammaire III||2|2|||||||
-|Traduction I thème(A - F)||2|3|||||||
-|**Vertiefungsmodul Französische**<br>**Sprachwissenschaft 2**||||||||||
-|Mittelseminar französische Sprachwissenschaft||2|6|||||||
-|Vorlesungfranzösische Sprachwissenschaft||2|4|||||||
-|**Vertiefungsmodul Französische Literatur-**<br>**und Kulturwissenschaft 2**||||||||||
-|Mittelseminar französische Literatur- und<br>Kulturwissenschaft||2|6|||||||
-|Vorlesung französische Literatur- und<br>Kulturwissenschaft||2|4|||||||
-|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**||||||||||
-|Civilisation||2|5|||||||
-|Expression écrite II||2|3|||||||
-|Traduction version (F -  A)||2|2|||||||
-|**Bachelorarbeit**||||||||||
-|Bachelorarbeit|||10|||||||
+|**Aufbaumodul Französische Literatur- und**<br>**Kulturwissenschaft 1**|||
+|---|---|---|
+|Proseminar französische Literatur- und<br>Kulturwissenschaft|2|4|
+|Vorlesung französische Literatur- und<br>Kulturwissenschaft<br>|2|4|
+|Übung zu französischer Literatur- und<br>Kulturwissenschaft|2|2|
+|**Aufbaumodul Französische Sprachpraxis 3**|||
+|Expression écrite I|2|3|
+|Compréhension orale|2|2|
+|Grammaire III|2|2|
+|Traduction I thème(A - F)|2|3|
+|**Vertiefungsmodul Französische**<br>**Sprachwissenschaft 2**|||
+|Mittelseminar französische Sprachwissenschaft|2|6|
+|Vorlesungfranzösische Sprachwissenschaft|2|4|
+|**Vertiefungsmodul Französische Literatur-**<br>**und Kulturwissenschaft 2**|||
+|Mittelseminar französische Literatur- und<br>Kulturwissenschaft|2|6|
+|Vorlesung französische Literatur- und<br>Kulturwissenschaft|2|4|
+|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**|||
+|Civilisation|2|5|
+|Expression écrite II|2|3|
+|Traduction version (F -  A)|2|2|
+|**Bachelorarbeit**|||
+|Bachelorarbeit||10|
 
 Für die GOP müssen mindestens das Basismodul „Einführung in die Frankoromanistik“ und das Basismodul Französische Sprachpraxis 1 erfolgreich abgelegt werden.“ 
 
 b) In Abs. 3 Satz 2 wird „Satz 2“ durch „Sätze 2 und 3“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

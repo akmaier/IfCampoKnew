@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 11.11.2015 i.d.F. 26.06.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/LA_Mathematik_JUNI2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:14:06+00:00
-page_count_chars: 25233
+scraped_at: 2026-07-01T08:42:00+00:00
+page_count_chars: 21577
 ---
 
 # pdf vom 11.11.2015 i.d.F. 26.06.2017
@@ -12,7 +12,7 @@ page_count_chars: 25233
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/LA_Mathematik_JUNI2017.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche beim Prüfungsamt einsehbare Text.** 
+# **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche beim Prüfungsamt einsehbare Text.** 
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
@@ -22,117 +22,87 @@ geändert durch Satzung vom 26. Juni 2017
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **1. Allgemeines** 
+# **1. Allgemeines** 
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/ Social Pedagogy and Social Services“ - LAPO - vom 23. Februar 2009 für das Fach Mathematik. 
 
-## **§ 2 Studienbeginn** 
+# **§ 2 Studienbeginn** 
 
-1Eine Aufnahme des Studiums ist im Lehramt an Grund-, Mittel- und Realschulen sowohl zu Beginn des Wintersemesters als auch zu Beginn des Sommersemesters möglich.[2] Für das Lehramt an Gymnasien ist die Aufnahme des Studiums nur im Wintersemester möglich. 
+1Eine Aufnahme des Studiums ist im Lehramt an Grund-, Mittel- und Realschulen sowohl zu Beginn des Wintersemesters als auch zu Beginn des Sommersemesters möglich.<sup>2</sup> Für das Lehramt an Gymnasien ist die Aufnahme des Studiums nur im Wintersemester möglich. 
 
-## **§ 3 Grundlagen- und Orientierungsprüfung** 
+# **§ 3 Grundlagen- und Orientierungsprüfung** 
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fachwissenschaft im Fach Mathematik für das Lehramt an Gymnasien in den Modulen „Analysis I“, „Analysis II“, „Lineare Algebra I“ und „Lineare Algebra II“ insgesamt mindestens 20 ECTS-Punkte erreicht werden. 
 
 1 
 
-## **§ 3a Freiwillige Zwischenprüfungen** 
+# **§ 3a Freiwillige Zwischenprüfungen** 
 
-1Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.[4] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen. 
+1Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.<sup>4</sup> Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen. 
 
 2 
 
-## **2. Lehramt an Gymnasien** 
+# **2. Lehramt an Gymnasien** 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 4 Inhalt, Aufbau und Gliederung des Studiums** <u>(1) Für das Lehramt Mathematik an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen:</u> 
 
-(1) Für das Lehramt Mathematik an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
-
-||Modulbezeichnung|||||||Gt|||Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|Workload-Verteilung pro Semester<br>|||Art und Umfan der Prüfun/|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||SWS|||||||In ECTS-Punkten||||||||
-|||Lehrveranstaltung||||||esam<br>ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.|g  g<br>Studienleistung||
-||||V|Ü|P|S|T|||||||||||||
-|**t an Gymnasien)**|Analysis I|VorlesungAnalysis I|4||||||6|||||||||Klausur 120 Min. (unbenotet)<br>|0|
-|||ÜbungAnalysis I||2||||10|2|||||||||und<br>Hausaufgaben (wöchentlich||
-|||TafelübungAnalysis I||2|||||2|||||||||<br>1Übungsblatt) (unbenotet)||
-||Lineare Algebra I|VorlesungLineare Algebra I|4||||||6|||||||||Klausur 120 Min. (unbenotet)<br>|0|
-|||ÜbungLineare Algebra I||2||||10|2|||||||||und<br>Hausaufgaben (wöchentlich||
-|||TafelübungLineare Algebra I||2|||||2|||||||||<br>1Übungsblatt) (unbenotet)||
-||Analysis II|VorlesungAnalysis II|4|||||||6||||||||Klausur 180 Min. (benotet;<br>|0,5|
-|||ÜbungAnalysis II||2||||10||2||||||||100 %) und<br>Hausaufgaben (wöchentlich||
-|||TafelübungAnalysis II||2||||||2||||||||<br>1Übungsblatt) (unbenotet)||
-||Lineare Algebra II|VorlesungLineare Algebra II|4|||||||6||||||||Klausur 180 Min. (benotet;<br>|0,5|
-|||ÜbungLineare Algebra II||2||||10||2||||||||100 %) und<br>Hausaufgaben (wöchentlich||
-|||TafelübungLineare Algebra II||2||||||2||||||||<br>1Übungsblatt) (unbenotet)||
-||Angewandte|Vorlesung|3||||||||||||||||1|
-||||||||||||(4)|(4)|(4)|(4)|(4)|(4)|(4)|Klausur max. 90 Min.||
-|**am**|<br>Mathematik|Übung||1||||5|||1|1|1|1|1|1|1|(benotet100 %)|()|
-||||||||||||()|()|()|()|()|()|()|;||
-|**Pflichtmodule (Lehr**|Stochastische<br>Modellbildung Ia|Vorlesung Stochastische<br>Modellbildung|4||||||||||||||||(1)|
-|||||||||5||||(6)||(6)||(6)||Klausur max. 120 Min.<br>(benotet100 %)||
-|||||||||||||||||||;||
-||Stochastische<br>Modellbildung Ib|Übung Stochastische<br>Modellbildung||2||||||||(2)||(2)||(2)|||(0)|
-|||||||||||||||||||Hausaufgaben (wöchentlich<br>1 Übnsblatt) (nbenotet)||
-|||Tafelübung Stochastische||1||||5||||||||||||
-|||||||||||||2||2||2||ug u||
-|||<br>Modellbildung||||||||||()||()||()||||
-||Algebra Ia||||||||||||||||||(1)|
-|||Vorlesung Algebra|4|||||5|||(6)||(6)||(6)|||Klausur max. 120 Min.<br>(benotet100%)||
-|||||||||||||||||||;||
-||Al I|Ü|||||||||||||||||0|
-|||bung Algebra||2|||||||(2)||(2)||(2)|||Hausaufgaben (wöchentlich||
-||gebra b|TflübAlb||1||||5|||2||2||2|||1 Übnsblatt)(nbenotet)|()|
-|||aeung gera|||||||||()||()||()|||ug u||
-||Khi||||||||||||||||||1|
-|||Vorlesung Körpertheorie|2|||||||||(3)||(3)||(3)||Klausur max. 90 Min.||
-||örperteore|Üb Köhi||2||||5||||2||2||2||(benotet100 %)|()|
-|||ung rperteore||||||||||()||()||()||;||
-||Analysis für<br>Lehramt Ia|Vorlesung Analysis für Lehramt|||||||||||||||||(1)|
-||||4|||||5|||(6)||(6)||(6)|||Klausur max. 120 Min.<br>(benotet100 %)||
-|||||||||||||||||||;||
-||Analysis für|Übung Analysis für Lehramt||2||||||||||||||||
-||||||||||||(2)||(2)||(2)|||Hausaufgaben (wöchentlich||
-||<br>LehramtIb|Tafelübung Analysis für Lehramt||1||||5|||2||2||2|||1 Übnsblatt)(nbenotet)|(0)|
-||||||||||||()||()||()|||ug u||
-||Geometrie|Vorlesung|2|||||5|||(3)|(3)|(3)|(3)|(3)|(3)|(3)|Klausur max. 90 Min.|(1)|
+||||SWS<br>Gt<br>Workload-Ve<br>In E|rteilung<br>CTS-P|pro Sem<br>unkten|ester||Art und Umfan der Prüfun/|Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+||Modulbezeichnun|Lehrveranstaltun|esam|||||g  g|Modul-|
+||g|g|ECTS<br> <br> <br> <br>|||<br>||Studienleistung|<br>note|
+||||1.<br>2.<br>3.<br>4.<br>V<br>Ü<br>P<br>S<br>T|5.|6.|7.<br>8.|9.|||
+|||VorlesungAnalysis I|4<br>6|||||Klausur 120 Min. (unbenotet)<br>||
+||Analysis I|ÜbungAnalysis I|10<br>2<br>2|||||und<br>Hausaufgaben (wöchentlich|0|
+|||TafelübungAnalysis I|2<br>2|||||<br>1Übungsblatt) (unbenotet)||
+|||VorlesungLineare Algebra I|4<br>6|||||Klausur 120 Min. (unbenotet)<br>||
+||Lineare Algebra I|ÜbungLineare Algebra I|10<br>2<br>2|||||und<br>Hausaufgaben (wöchentlich|0|
+|||TafelübungLineare Algebra I|2<br>2|||||<br>1Übungsblatt) (unbenotet)||
+|||VorlesungAnalysis II|4<br>6|||||Klausur 180 Min. (benotet;<br>||
+|**n)**|Analysis II|ÜbungAnalysis II|10<br>2<br>2|||||100 %) und<br>Hausaufgaben (wöchentlich|0,5|
+|**sie**||TafelübungAnalysis II|2<br>2|||||<br>1Übungsblatt) (unbenotet)||
+|**na**||VorlesungLineare Algebra II|4<br>6|||||Klausur 180 Min. (benotet;<br>||
+|**Gym**|Lineare Algebra II|ÜbungLineare Algebra II|10<br>2<br>2|||||100 %) und<br>Hausaufgaben (wöchentlich|0,5|
+|**an**||TafelübungLineare Algebra II|2<br>2|||||<br>1Übungsblatt) (unbenotet)||
+|**t**|Angewandte|Vorlesung|3<br>5<br>(4)<br>(4)|(4)|(4)|(4)<br>(4)|(4)|Klausur max. 90 Min.|1|
+|**am**|Mathematik|Übung|<br>1<br>(1)<br>(1)|(1)|(1)|(1)<br>(1)|(1)|(benotet;100 %)|()|
+|**(Lehr**|Stochastische<br>Modellbildung Ia|Vorlesung Stochastische<br>Modellbildung|4<br>5<br>(6)||(6)|(6)||Klausur max. 120 Min.<br>(benotet;100 %)|(1)|
+|**dule**|<br>Stochastische|<br>Übung Stochastische<br>Modellbildung|2<br>5<br>(2)||(2)|(2)||Hausaufgaben (wöchentlich<br>|0|
+|**htmo**|Modellbildung Ib|Tafelübung Stochastische<br>Modellbildung|<br>1<br>(2)||(2)|(2)||1 Übungsblatt) (unbenotet)|()|
+|**Pflic**|Algebra Ia|Vorlesung Algebra|4<br>5<br>(6)|(6)||(6)||Klausur max. 120 Min.<br>(benotet;100 %)|(1)|
+|||Übung Algebra|2<br> <br>(2)|(2)||(2)||Hausaufgaben (wöchentlich||
+||Algebra Ib|<br>TafelübungAlgebra|5<br> <br>1<br>(2)|<br>(2)||<br>(2)||<br>1 Übungsblatt) (unbenotet)|(0)|
+|||Vorlesung Körpertheorie|2<br> <br>(3)||(3)|(3)||Klausur max. 90 Min.||
+||Körpertheorie|<br>Übung Körpertheorie|5<br> <br>2<br>(2)||<br>(2)|<br>(2)||(benotet;100 %)|(1)|
+||Analysis für<br>Lehramt Ia|<br>Vorlesung Analysis für Lehramt|<br>4<br>5<br>(6)|(6)||<br>(6)||Klausur max. 120 Min.<br>(benotet;100 %)|(1)|
+||Analysis für|Übung Analysis für Lehramt|2<br>5<br>(2)|(2)||(2)||Hausaufgaben (wöchentlich<br>|0|
+||LehramtIb|Tafelübung Analysis für Lehramt|<br> <br>1<br>(2)|(2)||(2)||1 Übungsblatt) (unbenotet)|()|
+||Geometrie|Vorlesung|2<br>5<br>(3)<br>(3)|(3)|(3)|(3)<br>(3)|(3)|Klausur max. 90 Min.|(1)|
 
 3 
 
-||Modulbezeichnung||SWS|SWS|SWS|SWS|SWS||<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten|<br>Workload-Verteilung pro Semester<br>In ECTS-Punkten||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Lehrveranstaltung||||||Gesamt<br>ECTS|<br>1.|2.|3.|4.|5.|6.|7.|8.|9.|Art und Umfang der Prüfung/<br>Studienleistung||
-||||V|Ü|P|S|T|||||||||||||
-|||Übung||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|(benotet;100 %)||
-||Fkihi I||||||||||||||||||1|
-|||VorlesungFunktionentheorieI|2|||||||||(3)||(3)||(3)||Klausur max. 90 Min.||
-||untonenteore|Üb Fkihi I||2||||5||||2||2||2||(benotet100 %)|()|
-|||ung untonenteore||||||||||()||()||()||;||
-||Seminar|||||||||||||||||Vortrag (90 Min.; unbenotet),<br>schriftliche Ausarbeitung<br>|(1)|
-|||Seminar||||2||5||||(5)|(5)|(5)|(5)|(5)|(5)|des Vortrags (5-10 Seiten;<br>benotet 25 %) nd||
-|||||||||||||||||||;   u<br>mündliche Prüfung (15 Min.;<br>benotet;75 %)||
-||**Summe Pflichtmodule (Lehramt an Gymnasien)**|||||||**95**||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>Gesamt<br>ECTS<br>1.<br>V<br>Ü<br>P<br>S<br>T|Workload-Ver<br>In EC<br>2.<br>3.<br>4.|teilung<br>TS-Pu<br>5.|pro Sem<br>nkten<br>6.|ester<br>7.<br>8.|9.|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+||Übung|2|(2)<br>(2)|(2)|(2)|(2)<br>(2)|(2)|(benotet;100 %)||
+|Funktionentheorie I|VorlesungFunktionentheorieI<br>|2<br>5|(3)||(3)|(3)||Klausur max. 90 Min.|(1)|
+||Übung Funktionentheorie I|<br>2|(2)||(2)|(2)||(benotet;100 %)||
+|Seminar|Seminar|2<br>5|(5)|(5)|(5)|(5)<br>(5)|(5)|Vortrag (90 Min.; unbenotet),<br>schriftliche Ausarbeitung<br>des Vortrags (5-10 Seiten;<br>benotet; 25 %) und<br>mündliche Prüfung (15 Min.;<br>benotet;75 %)|(1)|
+|**Summe Pflichtmodu**|**le (Lehramt an Gymnasien)**|**95**||||||||
 
 ## **Erläuterungen:** 
 
-1. Nicht alle Module werden in jedem Semester angeboten. 
+1. Nicht alle Module werden in jedem Semester angeboten. 2. Für die Bachelornote sind alle Module der ersten beiden Semester sowie Module im Umfang von weiteren 30 ECTS-Punkten einzubringen. 
 
-2. Für die Bachelornote sind alle Module der ersten beiden Semester sowie Module im Umfang von weiteren 30 ECTS-Punkten einzubringen. 
+<u>(2) Im Bereich der Fachdidaktik sind folgende Module erfolgreich abzulege</u> 
 
-## (2) Im Bereich der Fachdidaktik sind folgende Module erfolgreich abzulegen: 
-
-|Modulbezeichnung|||SWS|SWS||Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung||Ü|||<br>ECTS||||||||||<br>d Püf||
-|||V||P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|er rung||
-|||||||||||||||||||
-|Fachdidaktik A Mathematik<br>(FDAG)|Didaktik der Arithmetik||||2|5||||(2,5)||(2,5)||(2,5)||Klausur (180 Min.) oder<br>zwei Teilklausuren<br>(je 90 Min.)2|1|
-||Didaktik der Stochastik||||2||||||(2,5)||(2,5)||(2,5)|||
-|Fachdidaktik B Mathematik<br>(FDBG)|Didaktik der Geometrie||||2|5||||(2,5)||(2,5)||(2,5)||Klausur (180 Min.) oder<br>zwei Teilklausuren<br>(je 90 Min.)2|1|
-||Didaktik der Analysis||||2||||||(2,5)||(2,5)||(2,5)|||
-|Summe:|||||0-8|10||||0-5|0-5|0-5|0-5|0-5|0-5|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-Verteilu<br>1.<br>2.<br>3.<br>4.|ng pro<br>5.|Semeste<br>6.|r in EC<br>7.|TS-Punkten<sup>1</sup><br>8.<br>9.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Fachdidaktik A Mathematik|Didaktik der Arithmetik|2|5|(2,5)||(2,5)||(2,5)|Klausur (180 Min.) oder<br>i Tilkl|1|
+|(FDAG)|Didaktik der Stochastik|2|||(2,5)||(2,5)|(2,5)|zwe eausuren<br>(je 90 Min.)<sup>2</sup>||
+|Fachdidaktik B Mathematik|Didaktik der Geometrie|2|5|(2,5)||(2,5)||(2,5)|<br>Klausur (180 Min.) oder<br>i Tilkl|1|
+|(FDBG)|Didaktik der Analysis|2|||(2,5)||(2,5)|(2,5)|zwe eausuren<br>(je 90 Min.)<sup>2</sup>||
+|Summe:||0-8|10|0-5|0-5|0-5|0-5|0-5<br>0-5|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -140,37 +110,27 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 4 
 
-## **3. Lehramt an Grund-, Mittel- und Realschulen** 
+# **3. Lehramt an Grund-, Mittel- und Realschulen** 
 
-## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Für das Lehramt Mathematik an Grund-, Mittel- und Realschulen sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
+(1)<sup>1</sup> Für das Lehramt Mathematik an Grund-, Mittel- und Realschulen sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
 
-||Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||1.|2.|3.|4.|5.|6.|7.|||
-||||V|Ü|P|S|T|||||||||||
-|**Pflichtmodule (Lehramt an Grund-, Mittel- und Realschulen)**|Elemente der Linearen<br>Algebra I1|||||||||||||||Klausur max. 180 Min. und<br>Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-|||Vorlesung Elemente der<br>LiAlbI|3||||||4|||||||||
-|||nearengera||||||5||||||||||
-|||Übung Elemente der<br>Linearen Algebra I||||||||||||||||
-|||||1|||||1|||||||||
-|||||||||||||||||||
-||Elemente der Linearen<br>Algebra IIa2|Vorlesung Elemente der<br>Linearen Algebra II|4|||||5||6||||||Klausur max. 180 Min. (benotet; 100 %)|1|
-||Elemente der Linearen<br>Algebra IIb2|Übung Elemente der<br>Linearen Algebra II||2||||5||4||||||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-||Elemente der Analysis I2|Vorlesung Elemente der<br>AnalysisI|3|||||5||4||||||Klausur max. 180 Min. und<br>Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-|||Übung Elemente der<br>Analysis I||||||||||||||||
-|||||1||||||1||||||||
-|||||||||||||||||||
-||Elemente der Analysis IIa1|Vorlesung Elemente der<br>Analysis II|4|||||5|||6|||||Klausur max. 180 Min. (benotet; 100 %)|1|
-||Elemente der Analysis IIb1|Übung Elemente der<br>Analysis II||2||||5|||4|||||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-||Analytische Geometrie1|Vorlesung Analytische<br>Geometrie|2|||||5|||3|||||Klausur max. 180 Min. (benotet; 100 %)<br>und Hausaufgaben (wöchentlich 1<br>Übungsblatt) (unbenotet)|1|
-|||Übung Analytische<br>Geometrie||||||||||||||||
-|||||2|||||||2|||||||
-|||||||||||||||||||
-||Aufbaumodul Analysis2|Vorlesung Elemente der<br>Analysis III|3|||||5||||3||||Klausur max. 180 Min. (benotet; 100 %)|1|
-|||Übung Elemente der<br>Analysis III||1||||||||2||||||
-|||||||||||||||||||
+||Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>T|Workload-<br>1.<br>2.|Verteilu<br>ECTS-<br>3.|ng pro Semester in<br>Punkten<br>Art und Umfang der Prüfung/<br>Studienleistung<br>4.<br>5.<br>6.<br>7.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|||Vorlesung Elemente der|||||||
+|**n)**|Elemente der Linearen<br>Alebra I<sup>1</sup>|<br>Linearen AlgebraI<br>|3|5|4||Klausur max. 180 Min. und<br>Hausaufaben (wöchentlich 1 Übuns-|0|
+|**chule**|g|Übung Elemente der<br>Linearen Algebra I|1||1||g   g<br>blatt) (unbenotet)||
+|**Reals**|Elemente der Linearen<br>Algebra IIa<sup>2</sup>|Vorlesung Elemente der<br>Linearen Algebra II|4|5|6||Klausur max. 180 Min. (benotet; 100 %)|1|
+|**l- und**|Elemente der Linearen<br>Algebra IIb<sup>2</sup>|Übung Elemente der<br>Linearen Algebra II|2|5|4||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
+|**Mitte**|Elemente der Analysis I<sup>2</sup>|Vorlesung Elemente der<br>AnalysisI<br>|3|5|4||Klausur max. 180 Min. und<br>Hausaufaben (wöchentlich 1 Übuns-|0|
+|**nd-,**||Übung Elemente der<br>Analysis I|1||1||g   g<br>blatt) (unbenotet)||
+|**n Gru**|Elemente der Analysis IIa<sup>1</sup>|<br>Vorlesung Elemente der<br>Analysis II<br>|4|5||6|Klausur max. 180 Min. (benotet; 100 %)<br>|1|
+|**amt a**|Elemente der Analysis IIb<sup>1</sup>|Übung Elemente der<br>Analysis II|2|5||4|Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
+|**Lehr**|Analytische Geometrie<sup>1</sup>|Vorlesung Analytische<br>Geometrie<br>|2|5||3|Klausur max. 180 Min. (benotet; 100 %)<br>und Hausaufaben (wöchentlich 1|1|
+|**ule (**||Übung Analytische<br>Geometrie|2|||2|g<br>Übungsblatt) (unbenotet)||
+|**tmod**|Aufbaumodul Analysis<sup>2</sup>|Vorlesung Elemente der<br>Analysis III|3||||3<br>Kl  1 Mi  1|1|
+|**Pflich**||Übung Elemente der<br>Analysis III|1|5|||ausur max. 80 n. (benotet; 00 %)<br>2||
 
 - 1 Das Modul wird nur im Wintersemester angeboten. 
 
@@ -190,20 +150,17 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 3. Für das Lehramt an Grund-, Mittel- und Realschulen gilt: Von den beiden Modulen aus dem Bereich Elementare Stochastik muss mindestens eines bestanden werden. Entsprechendes gilt für die Bereiche Elementare Zahlentheorie und Elementare Geometrie. 
 
-||Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||1.|2.|3.|<br>4.|<br>5.|6.|7.|||
-||||V|Ü|P|S|T|||||||||||
-|**eitere Module (Lehramt an Grund-, Mittel- und Realschu-**<br>**len)**|Elementare Stochastik1|Vorlesung Elementare<br>Stochastik|3|||||5||||(4)|(4)|(4)|(4)|Klausur max. 90 Min. (benotet; 100 %)|1|
-|||Übung Elementare<br>Stochastik||1||||||||(1)|(1)|(1)|(1)|||
-||Mathematisches Seminar in<br>elementarer Stochastik3|Seminar||||2||5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet; 75 %),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet;25 %)|1|
-||Elementare Geometrie2|Vorlesung Elementare<br>Geometrie|3|||||5||||(4)|(4)|(4)|(4)|Klausur max. 90 Min. (benotet; 100 %)|1|
-|||Übung Elementare<br>Geometrie||1||||||||(1)|(1)|(1)|(1)|||
-||Mathematisches Seminar in<br>elementarer Geometrie3|Seminar||||2||5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet; 75%),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet; 25 %)|1|
-||Elementare Zahlentheorie1|Vorlesung Elementare<br>Zahlentheorie|3|||||5||||(4)|(4)|(4)|(4)|Klausur max. 90 Min. (benotet; 100 %)|1|
-|||Übung Elementare<br>Zahlentheorie||1||||||||(1)|(1)|(1)|(1)|||
-||Mathematisches Seminar in<br>elementarer Zahlentheorie3|Seminar||||2||5||||(5)|(5)|(5)|(5)|Vortrag (90 Min.; benotet; 75%),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet; 25 %)|1|
-|**W**||||||||||||||||||
+||Modulbezeichnung|Lehrveranstaltung|V<br>Ü|SWS<br>P<br>S<br>T|Gesamt<br>ECTS<br>Workload-Verteilung<br>ECTS-Pun<br>1.<br>2.<br>3.<br>4.<br>|pro Semester<br>kten<br>5.<br>6.|in<br>Art und Umfang der Prüfung/<br>Studienleistung<br>7.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|**chu-**<br>|Elementare Stochastik<sup>1</sup>|Vorlesung Elementare<br>Stochastik<br>|3||5<br>(4)|(4)<br>(4)|(4)<br>Klausur max 90 Min (benotet; 100 %)|<br>1|
+|**Reals**<br>||Übung Elementare<br>Stochastik|1||<br>(1)|(1)<br>(1)|.  .<br>(1)|<br>|
+|**el- und**<br> <br>|Mathematisches Seminar in<br>elementarer Stochastik<sup>3</sup>|Seminar||2|5<br>(5)|(5)<br>(5)|(5)<br>Vortrag (90 Min.; benotet; 75 %),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet;25 %)|1|
+|**-, Mitt**<br>|Elementare Geometrie<sup>2</sup>|Vorlesung Elementare<br>Geometrie<br>|3||5<br>(4)|(4)<br>(4)|(4)<br>Klr m 90 Min bntt 100 %|1|
+|**Grund**<br>**n)**||Übung Elementare<br>Geometrie|1||<br>(1)|(1)<br>(1)|ausu ax.  . (eoe;  )<br>(1)||
+|**amt an**<br>**le**<br> <br>|Mathematisches Seminar in<br>elementarer Geometrie<sup>3</sup>|Seminar||2|5<br>(5)|(5)<br>(5)|(5)<br>Vortrag (90 Min.; benotet; 75%),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet; 25 %)|1|
+|**(Lehr**<br>|Elementare Zahlentheorie<sup>1</sup>|Vorlesung Elementare<br>Zahlentheorie<br>|3||5<br>(4)|(4)<br>(4)|(4)<br>Klausur max 90 Min (benotet 100 %)|1|
+|**odule**<br>||Übung Elementare<br>Zahlentheorie|1||<br>(1)|(1)<br>(1)|.  . ;<br>(1)||
+|**Weitere M**<br> <br>|Mathematisches Seminar in<br>elementarer Zahlentheorie<sup>3</sup>|Seminar||2|5<br>(5)|(5)<br>(5)|(5)<br>Vortrag (90 Min.; benotet; 75%),<br>schriftliche Ausarbeitung des Vortrags<br>(max. 10 Seiten; benotet; 25 %)|1|
 
 - 1  Das Modul wird nur im Wintersemester angeboten. 
 
@@ -213,39 +170,31 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 6 
 
-(2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Realschulen sind folgende Module erfolgreich abzulegen: 
+(2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Realschulen sind folgende Module erfolgreich <u>abzulegen:</u> 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-||||||||||in ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||
-|Fachdidaktik A Mathematik<br>(FDAR)|Didaktik der Zahlbereiche||||2|6||||(3)||(3)||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)2|1|
-||Didaktik der Algebra||||2||||(3)||(3)||(3)|||
-|Fachdidaktik B Mathematik|Didaktik Raum und Form||||2||||||||||1|
-|||||||||||(3)||(3)||Klausur (180 Min.) oder zwei||
-|(FDBR)|Didaktik Daten und Zufall||||2|6|||3||3||3|<br>Tilkl 90Mi2||
-||||||||||()||()||()|eausuren(je n.)||
-||Summe:||||0-8|12|||0-6|0-6|0-6|0-6|0-6|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-V<br>in E<br>1.<br>2.<br>3.|erteilun<br>CTS-P<br>4.|g pro S<br>unkten<sup>1</sup><br>5.|emeste<br> <br>6.|r<br>7.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+|Fachdidaktik A Mathematik|Didaktik der Zahlbereiche<br>2|6||(3)||(3)||Klausur (180 Min.) oder zwei|1|
+|(FDAR)|Didaktik der Algebra<br>2||(3)||(3)||(3)|Teilklausuren (je 90 Min.)<sup>2</sup>||
+|Fachdidaktik B Mathematik|Didaktik Raum und Form<br>2|6||(3)||(3)||Klausur (180 Min.) oder zwei|1|
+|(FDBR)|Didaktik Daten und Zufall<br>2||(3)||(3)||(3)|Teilklausuren(je 90Min.)<sup>2</sup>||
+||Summe:<br>0-8|12|0-6|0-6|0-6|0-6|0-6|||
 
-- 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
+> 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - 2 Das Modul kann wahlweise mit einer Klausur oder zwei Teilklausuren abgeschlossen werden. In letzterem Fall müssen beide Teilklausuren bestanden sein. 
 
-- (3) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Mittelschulen sind folgende Module erfolgreich abzulegen: 
+- (3) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Mittelschulen sind folgende Module erfolgreich <u>abzulegen:</u> 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|<br>ECTS|1.|2.|3.|4.|5.|6.|7.|||
-|Didaktik der Mittel-<br>schulmathematik I|Raum und Form I||||2|5|||(3)||(3)|||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)2|1|
-||Raum und Form II||||2|||||(2)||(2)||||
-|Didaktik der Mittel-<br>schulmathematik II|Zahlen||||2||||(3)||(3)||||1|
-||Funktionaler Zusammenhang<br>-Daten und Zufall|||||||||||||Klausur (180 Min.) oder zwei<br>Tilkl  90 Mi2||
-||||||2|5||||2||2||||
-|||||||||||()||()||eausuren (je  n.)||
-|||||||||||||||||
-|Didaktik der Mittel-<br>schulmathematik III|Elemente der Unterrichtsge-<br>staltung||||2|2||||(2)||(2)||Diskussionsbeitrag|0|
-||Summe:||||10|12|||0-6|0-6|0-6|0-6||||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>||Gesamt<br>|Workload-Verteilung pro Semes|ter in EC|TS-Punkten<sup>1</sup>|Art und Umfang<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|
+||<br>V<br>Ü<br>P|S|ECTS|1.<br>2.<br>3.<br>4.|5.|6.<br>7.|der Prüfung|<br>note|
+|Didaktik der Mittel-|Raum und Form I|2||(3)|(3)||Klausur (180 Min.) oder zwei|1|
+|schulmathematik I|Raum und Form II|2|5|(2)||(2)|Teilklausuren (je 90 Min.)<sup>2</sup>||
+||Zahlen|2||(3)|(3)||||
+|Didaktik der Mittel-<br>schulmathematik II|Funktionaler Zusammenhang<br>-Daten und Zufall|2|5|(2)||(2)|Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<sup>2</sup>|1|
+|Didaktik der Mittel-<br>schulmathematik III|Elemente der Unterrichtsge-<br>staltung|2|2|(2)||(2)|Diskussionsbeitrag|0|
+||Summe:|10|12|0-6<br>0-6|0-6|0-6|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -253,38 +202,34 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 7 
 
-## (4) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
+# (4) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich <u>abzulegen:</u> 
 
-|Modulbezeichnun|Lehrveranstaltun||SWS|SWS||Gesamt||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1||Art und Umfang<br>der Prüfung|Faktor<br>Modul<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|g|g|V|Ü|P|S|ECTS|1.|2.|<br>3.|4.|5.|6.|7.|||
-|Didaktik der Grundschul-<br>mathematik 1|Elemente der Arithmetik, Algebra und des<br>Sachrechnen||||3|5|(3)||(3)||(3)|||Klausur (90 Min.)|1|
-||Übungen zu Elemente der Arithmetik||2||||(2)||(2)||(2)|||||
-|Didaktik der Grundschul-|Elemente derSchulgeometrie||||3||||||||||1|
-|||||||||(3)||(3)||(3)||Kl  Mi||
-|mathematik 2 -Geometrie|Übungen zu Elemente der Schulgeometrie||2|||5||2||2||2||ausur (90 n.)||
-|||||||||()||()||()||||
-|Didaktik der Grundschul-<br>mathematik 3 – Wahlpflicht|weitere fachdidaktische Veranstaltung||||2|2||||(2)|(2)|(2)|(2)|Präsentation (30 Min.)<br>oder Ausarbeitung<br>(10-15 Seiten)2|0|
-||Summe:||4||8|12|0-5|0-5|0-5|0-7|0-7|0-7|0-2|||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P<br>S|Gesamt<br>ECTS|Work<br>1.<br>2.|load-Ve<br>in EC<br>3.|rteilung p<br>TS-Punk<br>4.|ro S<br>ten<sup>1</sup><br>5.|emester<br>6.|Art und Umfang<br>der Prüfung<br>7.|Faktor<br>Modul<br>note|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Didaktik der Grundschul-<br>|Elemente der Arithmetik, Algebra und des<br>Sachrechnen|3|5|(3)|(3)||(3)||Klausur (90 Min.)|1|
+|mathematik 1|Übungen zu Elemente der Arithmetik|2||(2)|(2)||(2)||||
+|Didaktik der Grundschul-|Elemente derSchulgeometrie<br>|3|5|(3)||(3)||(3)|Klausur (90 Min)|1|
+|mathematik 2 -Geometrie|Übungen zu Elemente der Schulgeometrie|2||(2)||(2)||(2)|.||
+|Didaktik der Grundschul-<br>mathematik 3 – Wahlpflicht|weitere fachdidaktische Veranstaltung|2|2|||(2)|(2)|(2)|(2)<br>Präsentation (30 Min.)<br>oder Ausarbeitung<br>(10-15 Seiten)<sup>2</sup>|<br>0|
+||Summe:|4<br>8|12|0-5<br>0-5|0-5|0-7|0-7|<br>0-7|0-2||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - 2 Abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierenden; Näheres regelt das Modulhandbuch. 
 
-## (5) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Mittelschulen sind folgende Module erfolgreich abzulegen: 
+# (5) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Mittelschulen sind folgende Module erfolgreich abzulegen: 
 
-|Modulbezeichnung|||SWS|SWS||Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung||Ü|||<br>||||||||<br>||
-|||V||P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|Prüfung||
-|Didaktik der Mittel-<br>schulmathematik I|Raum und Form I||1||2|7|||(4)||(4)|||Klausur (180 Min.) oder<br>zwei Teilklausuren (je<br>90 Min.)2|1|
-||Raum und Form II||1||2|||||(3)||(3)||||
-|Didaktik der Mittel-<br>schulmathematik II|Zahlen||1||2|7|||(4)||(4)|||Klausur (180 Min.) oder<br>zwei Teilklausuren (je<br>90 Min.)2|1|
-||Funktionaler Zusammen-<br>hang - Daten und Zufall||1||2|||||(3)||(3)||||
-|Didaktik der Mittel-<br>schulmathematik III|Elemente der Unterrichts-<br>gestaltung||||2|6||||(2)||(2)||Diskussionsbeitrag|0|
-||Wahlpflichtseminar 1||||2||||(2)||(2)|||||
-||Wahlpflichtseminar 2||||2|||||(2)||(2)||||
-||Summe:||4||14|20|||0-10|0-10|0-10|0-10||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>||Gesamt<br>|Workl|oad-Verteilung p|ro Sem|ester in|ECTS-Punkten<sup>1</sup>|Art und Umfang der<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||<br>V|Ü<br>P|S|ECTS|1.|2.<br>3.|4.|5.|6.<br>7.|Prüfung|note|
+|Didaktik der Mittel-|Raum und Form I|1|2|||(4)||(4)||Klausur (180 Min.) oder<br>||
+|schulmathematik I|Raum und Form II|1|2|7|||(3)||(3)|zwei Teilklausuren (je<br>90 Min.)<sup>2</sup>|1|
+||Zahlen|1|2|||(4)||(4)||Klausur (180 Min.) oder||
+|Didaktik der Mittel-<br>schulmathematik II|Funktionaler Zusammen-<br>hang - Daten und Zufall|1|2|7|||(3)||(3)|<br>zwei Teilklausuren (je<br>90 Min.)<sup>2</sup>|1|
+|Didaktik der Mittel-|Elemente der Unterrichts-<br>gestaltung||2|6|||(2)||(2)|Dikibi|0|
+|schulmathematik III|Wahlpflichtseminar 1||2|||(2)||(2)||sussonsetrag||
+||Wahlpflichtseminar 2||2||||(2)||(2)|||
+||Summe:|4|14|20||0-10|0-10|0-10|0-10|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -292,18 +237,17 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 8 
 
-## (6) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
+# (6) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich <u>abzulegen:</u> 
 
-|Modulbezeichnung|||SWS|SWS||Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung||Ü|||<br>||||||||<br>||
-|||V||P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|Prüfung||
-|Didaktik der Grund-<br>schulmathematik 1|Elemente der Arithmetik,<br>Algebra und des Sachrech-<br>nen||||3|5|(3)||(3)||(3)|||Klausur (90 Min.)|1|
-||Übungen zu Elemente der<br>Arithmetik||2||||(2)||(2)||(2)|||||
-|Didaktik der Grund-<br>schulmathematik 2 -<br>Geometrie|Elemente der Schulgeometrie||||3|5||(3)||(3)||(3)||Klausur (90 Min.)|1|
-||Übungen zu Elemente der<br>Schulgeometrie||2|||||(2)||(2)||(2)||||
-|Didaktik der Grund-<br>schulmathematik 3 -<br>Wahlpflicht|weitere fachdidaktische Ver-<br>anstaltung||||2|1||||(1)|(1)|(1)|(1)|Präsentation (30<br>Min.) oder Ausarbei-<br>tung (5-10 Seiten)2|0|
-||Summe:||4||8|11|0-5|0-5|0-5|0-6|0-6|0-6|0-1|||
+|Modulbezeichnun|Lehrveranstaltun|SWS<br>||Gesamt|Workl|oad-Vert|eilung p|ro Seme|ster in|ECTS-Punkten<sup>1</sup>|Art und Umfang der|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|g|g<br>V|<br>Ü<br>P|S|ECTS|1.|2.|3.|4.|5.|6.<br>7.|Prüfung|note|
+|Didaktik der Grund-|Elemente der Arithmetik,<br>Algebra und des Sachrech-<br>nen||3|5|(3)||(3)||(3)||Klausur (90 Min)|1|
+|schulmathematik 1|Übungen zu Elemente der<br>Arithmetik|2|||(2)||(2)||(2)||.||
+|Didaktik der Grund-|Elemente der Schulgeometrie||3|||(3)||(3)||(3)|||
+|schulmathematik 2 -<br>Geometrie|Übungen zu Elemente der<br>Schulgeometrie|2||5||(2)||(2)||(2)|Klausur (90 Min.)|1|
+|Didaktik der Grund-<br>schulmathematik 3 -<br>Wahlpflicht|weitere fachdidaktische Ver-<br>anstaltung||2|1||||(1)|(1)|(1)<br>(1)|Präsentation (30<br>Min.) oder Ausarbei-<br>tung (5-10 Seiten)<sup>2</sup>|0|
+||Summe:|4|8|11|0-5|0-5|0-5|0-6|0-6|0-6<br>0-1|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -311,17 +255,17 @@ Der Studienverlaufsplan bezieht sich auf einen Studienbeginn im Wintersemester. 
 
 9 
 
-## **4. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“** 
+# **4. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Services“** 
 
-## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
 Im Rahmen des Teilstudiengangs Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädgogik – Vocational Education/Social Pedagogy and Social Services“ sind die Module gemäß § 5 Abs. 1 und 2 sowie das fachdidaktische Praktikum im Unterrichtsfach im Umfang von 5 ECTS-Punkten abzulegen 
 
-## **5. Schluss- und Übergangsvorschriften** 
+# **5. Schluss- und Übergangsvorschriften** 
 
-## **§ 7 In-Kraft-Treten / Außerkrafttreten** 
+# **§ 7 In-Kraft-Treten / Außerkrafttreten** 
 
-(1)[ 1] Diese Prüfungsordnung tritt am 1. Oktober 2015 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2015/2016 aufnehmen.[3] Abweichend von S. 2 gilt sie mit Ausnahme der §§ 3, 4 Abs. 1 und 5 Abs. 1 auch für diejenigen Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der FAU und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik **–** Vocational Education/Social Pedagogy and Social Service vom 26. März 2009 studieren; im Übrigen gilt die bisherige Fachstudien- und Prüfungsordnung vom 26. März 2009 fort.[4] Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung studieren und die das Lehramtsstudium ab dem Wintersemester 2014/2015 aufgenommen haben, wird die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 30. November 2015 dieser neuen Fachstudien- und Prüfungsordnung insgesamt beizutreten. 
+(1)<sup>1</sup> Diese Prüfungsordnung tritt am 1. Oktober 2015 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2015/2016 aufnehmen.<sup>3</sup> Abweichend von S. 2 gilt sie mit Ausnahme der §§ 3, 4 Abs. 1 und 5 Abs. 1 auch für diejenigen Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der FAU und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/Fachrichtung Sozialpädagogik **–** Vocational Education/Social Pedagogy and Social Service vom 26. März 2009 studieren; im Übrigen gilt die bisherige Fachstudien- und Prüfungsordnung vom 26. März 2009 fort.<sup>4</sup> Den Studierenden, die bereits nach der bisher gültigen Fachstudien- und Prüfungsordnung studieren und die das Lehramtsstudium ab dem Wintersemester 2014/2015 aufgenommen haben, wird die Möglichkeit gegeben, durch schriftliche Erklärung gegenüber dem Prüfungsamt bis zum 30. November 2015 dieser neuen Fachstudien- und Prüfungsordnung insgesamt beizutreten. 
 
 (2) Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der FAU und für den Teilstudiengang Mathematik des an der OttoFriedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung/ Fachrichtung Sozialpädagogik – Vocational Education/Social Pedagogy and Social Service“ vom 26. März 2009 tritt zum 30. September 2023 außer Kraft. 
 

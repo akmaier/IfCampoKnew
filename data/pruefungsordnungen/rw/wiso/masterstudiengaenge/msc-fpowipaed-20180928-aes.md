@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc FPOWiPäd 20180928 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Wirtschaftspaedagogik/Aenderungssatzungen/MSc_FPOWiPäd_20180928_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:43:18+00:00
-page_count_chars: 5087
+scraped_at: 2026-07-01T11:07:22+00:00
+page_count_chars: 4747
 ---
 
 # MSc FPOWiPäd 20180928 ÄS.pdf
@@ -12,28 +12,26 @@ page_count_chars: 5087
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Wirtschaftspaedagogik/Aenderungssatzungen/MSc_FPOWiPäd_20180928_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiPäd –** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiPäd –** 
 
-## **Vom 28. September 2018** 
+# **Vom 28. September 2018** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiPäd – vom 1. Dezember 2009, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
-## 1. **Anlage 1a** wird wie folgt geändert: 
+# 1. **Anlage 1a** wird wie folgt geändert: 
 
 - a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
 
-## „ 
+„ 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Diversität, Sprache und Inklusion als**<br>**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||5|5||||Klausur (60 min.)|1|
-||Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten||2||||||||||
-||Virtuelles interaktives Begleitseminar||||1||||||||
-|“|||||||||||||
+|**Diversität, Sprache und Inklusion als**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||
+|---|---|---|---|---|---|
+|**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten|2|5|5<br>Klausur (60 min.)|1|
+|“|Virtuelles interaktives Begleitseminar||1|||
 
 - b) In Zeile 20 (Block 4: Marketingmanagement) wird in Spalte 7 (Faktor Abschlussnote) die Zahl „1“ eingefügt. 
 
@@ -41,32 +39,32 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspäd
 
 1 
 
-## 2. **Anlage 1b** wird wie folgt geändert: 
+# 2. **Anlage 1b** wird wie folgt geändert: 
 
-## a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
+# a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
 
 „ 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Diversität, Sprache und Inklusion als**<br>**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||5|5||||Klausur (60 min.)|1|
-||Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten||2||||||||||
-||Virtuelles interaktives Begleitseminar||||1||||||||
-|“|||||||||||||
+|**Diversität, Sprache und Inklusion als**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||
+|---|---|---|---|---|---|
+|**Herausforderung für die berufliche**|Bildungskonzepte unter Berücksichtigung von Diversität,|2|5|5<br>Klausur (60 min.)|1|
+|**Aus- und Weiterbildung**|Mehrsprachigkeit und Inklusion gestalten|||||
+||Virtuelles interaktives Begleitseminar|1||||
+|“||||||
 
-## b) In Zeile 17 (Summe SWS und ECTS) wird in Spalte 3 (SWS) Unterspalte 4 (S) die Zahl „8“ durch die Zahl „9“ ersetzt. 
+# b) In Zeile 17 (Summe SWS und ECTS) wird in Spalte 3 (SWS) Unterspalte 4 (S) die Zahl „8“ durch die Zahl „9“ ersetzt. 
 
-## 3. **Anlagen 2a** wird wie folgt geändert: 
+# 3. **Anlagen 2a** wird wie folgt geändert: 
 
 - a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
 
 „ 
 
-|„|||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Diversität, Sprache und Inklusion als**<br>**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||5|||5||||||Klausur (60 min.)|1|
-||Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten||2||||||||||||||
-||Virtuelles interaktives Begleitseminar||||1||||||||||||
+|**Diversität, Sprache und Inklusion als**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||
+|---|---|---|---|---|---|
+|**Herausforderung für die berufliche**|Bildungskonzepte unter Berücksichtigung von Diversität,|2|5|5<br>Klausur (60 min.)|1|
+|**Aus- und Weiterbildung**|Mehrsprachigkeit und Inklusion gestalten|||||
+||Virtuelles interaktives Begleitseminar||1|||
 
 “ 
 
@@ -74,25 +72,24 @@ b) In Zeile 27 (Summe SWS und ECTS) wird in Spalte 3 (SWS) Unterspalte 4 (S) die
 
 2 
 
-## 4. **Anlagen 2b** wird wie folgt geändert: 
+# 4. **Anlagen 2b** wird wie folgt geändert: 
 
-## a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
+# a) Zeile 4 (Modul Grund- und Erstausbildung) erhält folgende neue Fassung: 
 
 „ 
 
-|„|||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Diversität, Sprache und Inklusion als**<br>**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2||||5|||5||||||Klausur (60 min.)|1|
-||Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten||2||||||||||||||
-||Virtuelles interaktives Begleitseminar||||1||||||||||||
+|**Diversität, Sprache und Inklusion als**|Diversität, Sprache und Inklusion als Herausforderung für die<br>berufliche Aus- und Weiterbildung|2|||||
+|---|---|---|---|---|---|---|
+|**Herausforderung für die berufliche**<br>**Aus- und Weiterbildung**|Bildungskonzepte unter Berücksichtigung von Diversität,<br>Mehrsprachigkeit und Inklusion gestalten|2|5|5|Klausur (60 min.)|1|
+||Virtuelles interaktives Begleitseminar||1||||
 
 “ 
 
-## b) In Zeile 18 (Summe SWS und ECTS) wird in Spalte 3 (SWS) Unterspalte 4 (S) die Zahl „8“ durch die Zahl „9“ ersetzt. 
+# b) In Zeile 18 (Summe SWS und ECTS) wird in Spalte 3 (SWS) Unterspalte 4 (S) die Zahl „8“ durch die Zahl „9“ ersetzt. 
 
-## 5. In § 6 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
+# 5. In § 6 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die sechste Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die sich noch nicht in einem laufenden Prüfungsverfahren des bisherigen Moduls „Grund- und Erstausbildung“ befinden.“ 
+„(3)<sup>1</sup> Die sechste Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die sich noch nicht in einem laufenden Prüfungsverfahren des bisherigen Moduls „Grund- und Erstausbildung“ befinden.“ 
 
 3 
 

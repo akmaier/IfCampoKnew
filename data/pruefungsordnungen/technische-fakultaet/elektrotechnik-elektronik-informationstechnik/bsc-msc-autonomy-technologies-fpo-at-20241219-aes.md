@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Autonomy Technologies FPO AT 20241219 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Autonomy_Technologies/Aenderungssatzungen/BSc-MSc_Autonomy_Technologies_FPO_AT_20241219_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:05:21+00:00
-page_count_chars: 1263
+scraped_at: 2026-07-01T11:26:48+00:00
+page_count_chars: 1269
 ---
 
 # BSc-MSc Autonomy Technologies FPO AT 20241219 ÄS.pdf
@@ -20,11 +20,11 @@ Aufgrund von Art. 9 Satz 1, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1 des Bay
 
 Die Fachstudien- und Prüfungsordnung für den Bachelor- und den Masterstudiengang Autonomy Technologies an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOAT – vom 26. April 2023, geändert durch Satzung vom 30. April 2024, wird wie folgt geändert: 
 
-## § 56 wird wie folgt geändert: 
+§ 56 wird wie folgt geändert: 
 
 1. Abs. 2 Satz 3 erhält folgende neue Fassung: 
 
-„[3] Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass die Änderungen der Prüfung im Modul B19 (Algorithms, Programming, and Data Representation) für sie nicht gelten.“ 
+„<sup>3</sup> Hinsichtlich der zum Zeitpunkt des Inkrafttretens bereits nach der FPOAT vom 26. April 2023 studierenden Bachelorstudierenden gilt sie mit der Maßgabe, dass die Änderungen der Prüfung im Modul B19 (Algorithms, Programming, and Data Representation) für sie nicht gelten.“ 
 
 2. Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 

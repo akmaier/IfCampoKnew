@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Marketing FPOMarketing 20210812 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Marketing/Aenderungssatzungen/MSc_Marketing_FPOMarketing_20210812_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:40:46+00:00
-page_count_chars: 6174
+scraped_at: 2026-07-01T11:05:24+00:00
+page_count_chars: 6238
 ---
 
 # MSc Marketing FPOMarketing 20210812 ÄS.pdf
@@ -12,17 +12,17 @@ page_count_chars: 6174
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Marketing/Aenderungssatzungen/MSc_Marketing_FPOMarketing_20210812_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMarketing –** 
+# **Elfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMarketing –** 
 
-## **Vom 12. August 2021** 
+# **Vom 12. August 2021** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechtsund Wirtschaftswissenschaftlichen Fakultät der FAU – FPOMarketing – vom 2. September 2009, zuletzt geändert durch Satzung vom 29. November 2019, wird wie folgt geändert: 
 
-## 1. § 2 wird wie folgt geändert: 
+# 1. § 2 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach den Worten „wirtschaftswissenschaftlichen Kenntnissen im Umfang von 50 ECTS-Punkten, sowie“ die Worte „Kenntnisse im Umfang von“ eingefügt. 
 
@@ -32,9 +32,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der R
 
 3. In § 4 Abs. 2 Satz 2 wird nach dem Wort „Mögliche“ am Satzanfang das Wort „Prüfungsleistungen“ durch das Wort „Prüfungen“ ersetzt. 
 
-## 4. In § 5 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
+# 4. In § 5 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle bereits immatrikulierten Studierenden sowie für diejenigen Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Wintersemester 2024/2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab.[5] Abweichend von Sätzen 2 bis 4 gelten die Änderungen im Modul „Advanced marketing management IV“ für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[6] Abweichend von Satz 3 legen die Studierenden die 
+„(5)<sup>1</sup> Die elfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle bereits immatrikulierten Studierenden sowie für diejenigen Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Wintersemester 2024/2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab.<sup>5</sup> Abweichend von Sätzen 2 bis 4 gelten die Änderungen im Modul „Advanced marketing management IV“ für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>6</sup> Abweichend von Satz 3 legen die Studierenden die 
 
 1 
 
@@ -52,10 +52,9 @@ Prüfungen im Modul „Advanced marketing management III“ ab dem Zeitpunkt des
 
 „ 
 
-|„||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Ökonometrie|Ökonometrie|FPOAuP|(5)|(5)||||FPOAuP|1|
-|Panel and evalua-<br>tion methods|Panel and evaluation methods|FPOAuP|(5)|(5)||||FPOAuP|1|
+|Ökonometrie|Ökonometrie|FPOAuP|(5)|(5)|FPOAuP|1|
+|---|---|---|---|---|---|---|
+|Panel and evalua-<br>tion methods|Panel and evaluation methods|FPOAuP|(5)|(5)|FPOAuP|1|
 
    - “ 
 
@@ -63,26 +62,26 @@ Prüfungen im Modul „Advanced marketing management III“ ab dem Zeitpunkt des
 
 - d) Zeile 16 („Advanced marketing management III“) wird wie folgt geändert: 
 
-„ 
+|„|
+|---|
 
-|„||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Advanced marketing management III|International<br>marketing|FPOIBS2|(5)|(5)||||FPOIBS2|1|
-|“||||||||||
+|Advanced marketing management III|International<br>marketing|FPOIBS<sup>2</sup>|(5)|(5)|FPOIBS<sup>2</sup>|1|
+|---|---|---|---|---|---|---|
+|“|||||||
 
 - e) Zeile 17 („Advanced marketing management IV“) Spalte 6 (“Art und Umfang der Prüfung“) erhält folgende neue Fassung: 
 
    - „schriftliche Arbeit und Präsentation (30 % und 20 %) sowie Strategiekonzept und Reflexion (30 % und 20 %)“ 
 
-- f) In Zeile 19 („ **C Wahlpflichtbereich gemäß § 4[2]** “) wird die hochgestellte Ziffer „ **[2]** “ durch die hochgestellte Ziffer „ **[3]** “ ersetzt. 
+- f) In Zeile 19 („ **C Wahlpflichtbereich gemäß § 4**<sup>**2**</sup> “) wird die hochgestellte Ziffer „<sup>**2**</sup> “ durch die hochgestellte Ziffer „<sup>**3**</sup> “ ersetzt. 
 
 - g) Zeile 28 wird wie folgt geändert: 
 
-„ 
+<u>„</u> 
 
-|||2||10-<br>18||30|30|30|30|||
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Summe SWS(mind.) und ECTS-Punkte**|12-20||||**120**|||||||
+||2<br>10-<br>18||30|30|30|30|
+|---|---|---|---|---|---|---|
+|**Summe SWS(mind.) und ECTS-Punkte**|12-20|**120**|||||
 
    - “ 
 
@@ -90,7 +89,7 @@ Prüfungen im Modul „Advanced marketing management III“ ab dem Zeitpunkt des
 
    - aa) Nach der Erläuterung 1 wird folgende neue Erläuterung 2 eingefügt: 
 
-> „[2 ] In der **FPOIBS** lautet die Modulbezeichnung „International marketing“.“ 
+> „<sup>2</sup> In der **FPOIBS** lautet die Modulbezeichnung „International marketing“.“ 
 
 2 
 
@@ -98,9 +97,9 @@ bb)  Die bisherige Erläuterung 2 wird zu Erläuterung 3.
 
 6. Das Inhaltsverzeichnis wird aktualisiert. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle bereits immatrikulierten Studierenden sowie für diejenigen Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Wintersemester 2024/2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.[5] Abweichend von Sätzen 2 bis 4 gelten die Änderungen in der lfd. Nr. 5 e) für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[6] Abweichend von Satz 3 legen die Studierenden die Prüfungen im durch die lfd. Nr. 5 d) geänderten Modul ab dem Zeitpunkt des Inkrafttretens der elften Änderungssatzung nach der FPOMarketing in der Fassung der elften Änderungssatzung ab. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle bereits immatrikulierten Studierenden sowie für diejenigen Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Wintersemester 2024/2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.<sup>5</sup> Abweichend von Sätzen 2 bis 4 gelten die Änderungen in der lfd. Nr. 5 e) für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>6</sup> Abweichend von Satz 3 legen die Studierenden die Prüfungen im durch die lfd. Nr. 5 d) geänderten Modul ab dem Zeitpunkt des Inkrafttretens der elften Änderungssatzung nach der FPOMarketing in der Fassung der elften Änderungssatzung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 28. Juli 2021 und der Genehmigungsfeststellung der Vizepräsidentin Prof. Dr. Bärbel Kopp vom 12. August 2021. 
 

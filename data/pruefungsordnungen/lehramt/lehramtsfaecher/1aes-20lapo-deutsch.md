@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Deutsch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:05:05+00:00
-page_count_chars: 3608
+scraped_at: 2026-07-01T08:36:51+00:00
+page_count_chars: 3596
 ---
 
 # 28. September 2009
@@ -12,7 +12,7 @@ page_count_chars: 3608
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Deutsch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 28. September 2009 
 
@@ -34,28 +34,29 @@ Die Fachstudien- und Prüfungsordnung für das Fach Deutsch im Lehramtsstudienga
 
 „ 
 
-|**LitG1**|**Aufbaumodul: Literaturge-**<br>**schichte I: Mittelalterliche**<br>**und frühneuzeitliche**<br>**deutsche Literatur**|**6**|**10**|**Modulabschlussprüfung**<br>**Klausur (90 Min.)**|
-|---|---|---|---|---|
-||Kurs: Literaturgeschichte<br>des Mittelalters|3|4||
-||Kurs: Literaturgeschichte der<br>Frühen Neuzeit|3|4||
-||Angeleitete Eigenlektüre||2||
-||||||
+|**LitG1**|**Aufbaumodul: Literaturge-**<br>**schichte I: Mittelalterliche**<br>**und frühneuzeitliche**<br>**deutsche Literatur**|**6**<br>**10**|**Modulabschlussprüfung**<br>**Klausur (90 Min.)**|
+|---|---|---|---|
+||Kurs: Literaturgeschichte<br>des Mittelalters|3<br>4||
+||Kurs: Literaturgeschichte der<br>Frühen Neuzeit|3<br>4||
+||Angeleitete Eigenlektüre|2||
+
+„ 
 
 - b. In Abs. 2 „2. Wahlpflichtbereich“ werden in der Tabelle Vertiefungsmodule in Zeile 4, Spalte 2 die Worte „zur Literaturdidaktik“, Zeile 8, Spalte 2 die Worte „zur Sprachdidaktik“ und in Zeile 13, Spalte 2 die Worte „zur Mediendidaktik“ gestrichen. 
 
 - c. In Abs. 4 werden nach dem Wort „Falls“ die Worte „das fachdidaktische Blockpraktikum und/oder“ und nach den Worten „belegt wird“ der Schrägstrich und das Wort „werden“ gestrichen. 
 
-3. § 7 wird wie folgt geändert: 
+## 3. § 7 wird wie folgt geändert: 
 
-   - a. In Abs. 5 werden nach dem Wort „Falls“ die Worte „das fachdidaktische Blockpraktikum und/oder“ und nach den Worten „belegt wird“ der Schrägstrich und das Wort „werden“ gestrichen. 
+- a. In Abs. 5 werden nach dem Wort „Falls“ die Worte „das fachdidaktische Blockpraktikum und/oder“ und nach den Worten „belegt wird“ der Schrägstrich und das Wort „werden“ gestrichen. 
 
-   - b. In Abs. 7 „3. Freier Bereich“ werden in der Tabelle „Vertiefungsmodule“ in Zeile 4. Spalte 2 die Worte „zur Literaturdidaktik“, Zeile 8, Spalte 2 die Worte „zur Sprachdidaktik“ und in Zeile 12, Spalte 2 die Worte „zur Mediendidaktik“ gestrichen. 
+- b. In Abs. 7 „3. Freier Bereich“ werden in der Tabelle „Vertiefungsmodule“ in Zeile 4. Spalte 2 die Worte „zur Literaturdidaktik“, Zeile 8, Spalte 2 die Worte „zur Sprachdidaktik“ und in Zeile 12, Spalte 2 die Worte „zur Mediendidaktik“ gestrichen. 
 
-   - c. Die Absätze 8 und 11 werden gestrichen. 
+- c. Die Absätze 8 und 11 werden gestrichen. 
 
-   - d. Die bisherigen Absätze 9 bis 10 werden Absätze 8 bis 9. 
+- d. Die bisherigen Absätze 9 bis 10 werden Absätze 8 bis 9. 
 
-   - e. Im neuen Abs. 8 Nr. 2 werden in der Tabelle „Vertiefungsmodule“ in Zeile 4, Spalte 2 die Worte „zur Literaturdidaktik“, Zeile 8, Spalte 2 die Worte „zur Sprachdidaktik“ und in Zeile 12, Spalte 2 die Worte „zur Mediendidaktik“ gestrichen. 
+- e. Im neuen Abs. 8 Nr. 2 werden in der Tabelle „Vertiefungsmodule“ in Zeile 4, Spalte 2 die Worte „zur Literaturdidaktik“, Zeile 8, Spalte 2 die Worte „zur Sprachdidaktik“ und in Zeile 12, Spalte 2 die Worte „zur Mediendidaktik“ gestrichen. 
 
 ## **§ 2** 
 

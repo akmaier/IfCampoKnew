@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Februar 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Sozialw.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:56+00:00
-page_count_chars: 3447
+scraped_at: 2026-07-01T10:57:51+00:00
+page_count_chars: 3436
 ---
 
 # 1. Februar 1999
@@ -12,13 +12,11 @@ page_count_chars: 3447
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Sozialw.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Sozialwissenschaften an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Sozialwissenschaften an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Februar 1999 
+# Vom 1. Februar 1999 
 
 Auf Grund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [20 x 11] intentionally omitted <==**
 
 Die Diplomprüfungsordnung für Studenten der Sozialwissenschaften an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. November 1988 (KWMBl II 1989 S. 43), zuletzt geändert durch Satzung vom 21. Dezember 1995 (KWMBl II 1996 S. 388), wird wie folgt geändert: 
 
@@ -34,13 +32,17 @@ Die bereits abgelegten Prüfungen werden anerkannt. Die versäumten schriftliche
 
    - a) In Absatz 1 erhalten die Nummern 1 und 3 folgende Fassung: 
 
-      - „1. Einführung in die Grundzüge der Soziologie mit den Teilfächern a) Grundzüge der Soziologie I, b) Grundzüge der Soziologie II 
+      - „1. Einführung in die Grundzüge der Soziologie mit den Teilfächern a) Grundzüge der Soziologie I, 
+
+         - b) Grundzüge der Soziologie II 
 
          - ..... 
 
       3. Grundzüge der Statistik mit den Teilfächern 
 
-         - a) Statistik I, b) Statistik II.“ 
+         - a) Statistik I, 
+
+         - b) Statistik II.“ 
 
 b) Absatz 2 Satz 2 erhält folgende Fassung: 
 
@@ -58,13 +60,15 @@ b) Absatz 2 Satz 2 erhält folgende Fassung:
 
 1 
 
-## 4. § 25 wird wie folgt geändert: 
+4. § 25 wird wie folgt geändert: 
 
-- a) In Absatz 1 werden die Worte „Fächern oder“ gestrichen. 
+   - a) In Absatz 1 werden die Worte „Fächern oder“ gestrichen. 
 
-- b)  In Absatz 3 Satz 1 werden die Worte „eines Jahres“ durch die Worte „von sechs Monaten“ ersetzt. 
+   - b)  In Absatz 3 Satz 1 werden die Worte „eines Jahres“ durch die Worte „von sechs Monaten“ ersetzt. 
 
-- c)  Absatz 4 Satz 1 erhält folgende Fassung: „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
+   - c)  Absatz 4 Satz 1 erhält folgende Fassung: 
+
+      - „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
 
 § 2 
 

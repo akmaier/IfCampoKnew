@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20LatPhil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:06:20+00:00
-page_count_chars: 8229
+scraped_at: 2026-07-01T10:24:53+00:00
+page_count_chars: 8265
 ---
 
 # PDF vom 04.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 8229
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20LatPhil.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Lateinische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 4. Oktober 2007 
 
@@ -26,9 +26,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 - (1) Das Fach Lateinische Philologie kann im Bachelorstudiengang als erstes Fach im Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-- (2)[1] Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[ 2] Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
+- (2)<sup>1</sup> Im Fach Lateinische Philologie erwerben die Studierenden grundlegende Fachkenntnisse im Bereich der Lateinischen Philologie sowie die Fähigkeit zu eigenständigem wissenschaftlichem Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit einem eigenen Abschluss nachgewiesen. 
 
-- (3)[1] Das fachwissenschaftliche Studium der Lateinischen Philologie hat drei inhaltliche Schwerpunkte, deren Vermittlung es sich zum Ziel setzt: 
+- (3)<sup>1</sup> Das fachwissenschaftliche Studium der Lateinischen Philologie hat drei inhaltliche Schwerpunkte, deren Vermittlung es sich zum Ziel setzt: 
 
    1. Sprachbeherrschung und Sprachreflexion; 
 
@@ -98,7 +98,7 @@ lateinischen Schrifttums, der lateinischen Sprache und ihrer historischen Beding
 
 **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Im Studium Lateinische Philologie als erstes Fach sind die folgenden Module erfolgreich abzulegen: 
+- (1)<sup>1</sup> Im Studium Lateinische Philologie als erstes Fach sind die folgenden Module erfolgreich abzulegen: 
 
 |**Sem.**|**Module**|**ECTS und**<br>**Modulprüfungen**|**LV**|**SWS **|**Leistungs-**<br>**nachweis**|**Faktor**<br>**für**<br>**Modul**<br>**note**|
 |---|---|---|---|---|---|---|
@@ -110,18 +110,18 @@ lateinischen Schrifttums, der lateinischen Sprache und ihrer historischen Beding
 
 |3 / 4|**schaften I**|bestehend aus<br>Teilprüfungen|Vorlesung / Übung<br>(Archäologie)<br>Exkursion|2<br>2|der exp.<br>Fächer<br>SL;R|0,4|
 |---|---|---|---|---|---|---|
-||||||||
 |3 / 4|**Aufbaumodul**<br>**Lateinische**<br>**Sprachwissen-**<br>**schaft und**<br>**Sprachpraxis II**|10<br>Modulprüfung<br>bestehend aus<br>zwei<br>Teilprüfungen|Übung I<br>Übung II<br>Übung III|2<br>2<br>2|SL<br>SL; K 90’<br>SL; K 90’|0,5<br>0,5|
 |3 / 4|**Aufbaumodul**<br>**Lateinische**<br>**Literaturwissen-**<br>**schaft II**|10<br>Modulprüfung<br>bestehend aus<br>drei Teilprüfungen|Vorlesung<br>Proseminar I<br>Proseminar II|2<br>2<br>2|SL; K 45’<br>SL; R<br>SL; R|0,2<br>0,4<br>0,4|
 |3 / 4<br>oder<br>5 / 6|**Aufbaumodul**<br>**Altertumswissen-**<br>**schaften II**|10<br>Modulprüfung<br>nach Maßgabe<br>der exp. Fächer|Wahlpflichtmodul<br>aus den BA-<br>Studiengängen:<br>Mittel- und<br>Neulatein,<br>Griechische<br>Philologie,<br>Indogermanistik|nach<br>Maß-<br>gabe<br>der<br>exp.<br>Fä-<br>cher|nach<br>Maßgabe<br>der exp.<br>Fächer||
-||||||||
 |5 / 6|**Vertiefungsmodul**<br>**Lateinische**<br>**Sprachwissen-**<br>**schaft und**<br>**Sprachpraxis III**|10<br>Modulprüfung<br>bestehend aus<br>drei Teilprüfungen|Übung I<br>Übung II<br>Übung III|2<br>2<br>2|SL; K 45’<br>SL; K 90’<br>SL; K 90’|0,2<br>0,4<br>0,4|
 |5 / 6|**Vertiefungsmodul**<br>**Lateinische**<br>**Literaturwissen-**<br>**schaft III**|10<br>Modulprüfung<br>bestehend aus<br>zwei<br>Teilprüfungen|Übung<br>Seminar<br>Vorlesung / Übung<br>(Gräzistik)|2<br>2<br>2|SL<br>SL; HA<br>nach<br>Maßgabe<br>Gräzistik|0,75<br>0,25|
 |5 / 6|**Bachelorarbeit**|10|||Bachelor-<br>arbeit und<br>mündl.<br>Prüfung|1,0|
 
 K = Klausur; HA = Hausarbeit; R = Referat; SL = Studienleistung 
 
-2Der Studienverlauf und die Prüfungen ergeben sich aus der Tabelle nach Satz 1. (2)[1] Im Studium Lateinische Philologie als zweites Fach sind die Module gemäß der Tabelle nach Absatz 1 Satz 1 mit Ausnahme des Aufbaumoduls Altertumswissenschaften II erfolgreich abzulegen.[2] Absatz 2 gilt entsprechend. (3) Falls Latein als Erstfach studiert wird, müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden. Dabei werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Griechisch oder modernen Fremdsprachen empfohlen. 
+2Der Studienverlauf und die Prüfungen ergeben sich aus der Tabelle nach Satz 1. (2)<sup>1</sup> Im Studium Lateinische Philologie als zweites Fach sind die Module gemäß der Tabelle nach Absatz 1 Satz 1 mit Ausnahme des Aufbaumoduls Altertumswissenschaften II erfolgreich abzulegen.<sup>2</sup> Absatz 2 gilt entsprechend. 
+
+(3) Falls Latein als Erstfach studiert wird, müssen für den Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden. Dabei werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Griechisch oder modernen Fremdsprachen empfohlen. 
 
 **§ 5 Grundlagen- und Orientierungsprüfung** 
 

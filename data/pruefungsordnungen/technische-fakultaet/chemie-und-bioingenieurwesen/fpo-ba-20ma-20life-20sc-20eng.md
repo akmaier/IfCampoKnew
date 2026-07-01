@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.09.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Life%20Sc.%20Eng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:53+00:00
-page_count_chars: 15612
+scraped_at: 2026-07-01T11:25:39+00:00
+page_count_chars: 14568
 ---
 
 # PDF vom 24.09.2007
@@ -12,7 +12,7 @@ page_count_chars: 15612
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Life%20Sc.%20Eng.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Fachprüfungsordnung für den Bachelor-und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
+# **Fachprüfungsordnung für den Bachelor-und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
 
 Vom 24. September 2007 
 
@@ -20,7 +20,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1
 
 ## **§ 34 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Life Science Engineering mit den Abschlusszielen Bachelor und Master.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Life Science Engineering mit den Abschlusszielen Bachelor und Master.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
 
 ## **§ 35 Bachelorstudiengang, Regelstudienzeit** 
 
@@ -28,7 +28,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1
 
 ## **§ 36 Masterstudiengang, Regelstudienzeit** 
 
-- (1)[1] In das Studium im Masterstudiengang Life Science Engineering ist die Durchführung eines dreiwöchigen Projektierungskurses, eine berufspraktische Tätigkeit von 13 Wochen, verteilt auf drei Semester, und die Zeit zur Durchführung der Masterarbeit eingeordnet. 
+- (1)<sup>1</sup> In das Studium im Masterstudiengang Life Science Engineering ist die Durchführung eines dreiwöchigen Projektierungskurses, eine berufspraktische Tätigkeit von 13 Wochen, verteilt auf drei Semester, und die Zeit zur Durchführung der Masterarbeit eingeordnet. 
 
 (2) Die Regelstudienzeit beträgt vier Semester. 
 
@@ -36,7 +36,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1
 
 ## **§ 37 Umfang der Grundlagen- und Orientierungsprüfung** 
 
-- (1)[1] Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
+- (1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung umfasst die in der Spalte 2, rechts, der **Anlage 1** ausgewiesenen Module 
 
    1. B 1: Mathematik 1 
 
@@ -134,13 +134,13 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1
 
 3. Kernfachprüfung (Module B25 - B31): Nachweis der erfolgreichen Teilnahme an dem jeweiligen Praktikum 
 
-(2)[1] Der zum Erwerb eines Leistungsnachweises nach Absatz 1 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn der Lehrveranstaltung gibt die dafür verantwortliche Hochschullehrerin oder der dafür verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind. 
+(2)<sup>1</sup> Der zum Erwerb eines Leistungsnachweises nach Absatz 1 erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn der Lehrveranstaltung gibt die dafür verantwortliche Hochschullehrerin oder der dafür verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind. 
 
 ## **§ 40 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Life Science Engineering zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stundenabgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 5Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Life Science Engineering zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stundenabgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 5Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTS-Punkten veranschlagt. 
 
-(2)[1] Das Thema der Bachelorarbeit wird von einer oder einem in der Technischen Fakultät hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer des Chemieund Bioingenieurwesens ausgegeben. 
+(2)<sup>1</sup> Das Thema der Bachelorarbeit wird von einer oder einem in der Technischen Fakultät hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer des Chemieund Bioingenieurwesens ausgegeben. 
 
 (3) Die Bachelorarbeit wird in der Regel in englischer Sprache abgefasst, sonst in deutscher Sprache. 
 
@@ -172,9 +172,9 @@ und die zugehörigen Noten.
 
 4. der Masterarbeit. 
 
-(2)[1] Vertiefungsmodule (Module M1 bis M4) sind entsprechend dem Katalog in **Anlage 4** (Punkt 4.1) zu wählen. 
+(2)<sup>1</sup> Vertiefungsmodule (Module M1 bis M4) sind entsprechend dem Katalog in **Anlage 4** (Punkt 4.1) zu wählen. 
 
-(3)[1] Der Wahlpflichtfachkatalog wird zu Beginn eines jeden Semesters vom Prüfungsausschuss in aktualisierter Form ortsüblich bekannt gegeben.[2] Weitere Wahlpflichtfächer können die verbleibenden Vertiefungsfächer sein.[ 3] Andere in einem sinnvollen Zusammenhang mit dem Studium stehende Wahlpflichtfächer können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden. 
+(3)<sup>1</sup> Der Wahlpflichtfachkatalog wird zu Beginn eines jeden Semesters vom Prüfungsausschuss in aktualisierter Form ortsüblich bekannt gegeben.<sup>2</sup> Weitere Wahlpflichtfächer können die verbleibenden Vertiefungsfächer sein.<sup>3</sup> Andere in einem sinnvollen Zusammenhang mit dem Studium stehende Wahlpflichtfächer können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden. 
 
 (4) Im Ergänzungsfachmodul dürfen bei konsekutivem Studium nicht die bereits im Bachelorstudium gewählten Fächer gewählt werden. 
 
@@ -188,7 +188,7 @@ Dem Antrag auf Zulassung zur Prüfung in den Vertiefungsmodulen ist der diesbez�
 
 ## **§ 44 Zulassungsvoraussetzungen für die Masterarbeit** 
 
-(1)[1] Voraussetzung für die Zulassung zur Masterarbeit ist 
+(1)<sup>1</sup> Voraussetzung für die Zulassung zur Masterarbeit ist 
 
 1. dass die Module M 1 bis M 9 bestanden sind 
 
@@ -198,7 +198,7 @@ Dem Antrag auf Zulassung zur Prüfung in den Vertiefungsmodulen ist der diesbez�
 
    3. der Nachweis einer vom Praktikantenamt anerkannten, berufspraktischen Tätigkeit von insgesamt 13 Wochen entsprechend den Praktikantenrichtlinien (Modul M 15). 
 
-- (2)[2] Ein erbrachter Nachweis über eine berufspraktische Tätigkeit wird angerechnet. 
+- (2)<sup>2</sup> Ein erbrachter Nachweis über eine berufspraktische Tätigkeit wird angerechnet. 
 
 ## **§ 45 Masterarbeit** 
 
@@ -228,68 +228,56 @@ Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 5 
 
-Anlage 1: Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
+<u>Anlage 1:</u> Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
 
-|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS|||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdauer in<br>Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|B1|Mathematik B 1<br>Übung|GOP|4|2||7.5|7.5||||||90<br>unbenoteter Schein||
-|B2|Mathematik B 2<br>Übung|GOP|4|2||7.5||7.5|||||90<br>unbenoteter Schein||
-|B3|Mathematik B 3||4|2||7.5|||7.5||||90||
-|B4|Mathematik B 4||2|2||5||||5|||60||
-|B5|Informatik für Ing.||2|2||5|||||5||90||
-|B6|Allgemeine und Anorganische Chemie<br>Anorganisch-chemisches Praktikum|GOP|4||3|7.5|7.5||||||180<br>unbenoteter Schein||
-|B7|Organische Chemie<br>Organisch - chemisches Praktikum||4|1|3|7.5|||7.5||||180<br>unbenoteter Schein (ZV)||
-|B8|Physikalisches Chemie<br>Chemische Thermodynamik||2<br>2|2<br>2||12.5||5||5|||180||
-||Physikalisch - chemisches Praktikum||||4||||2.5||||unbenoteter Schein (ZV)||
+|Spalte1|Spalte 2||Spalte 3|Spalte 4|||Spalte 5||||Spa|lte 6|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||Prüfungs|dauer in|
+|Nr.|Modul||SWS|ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|<br>Minu|<br>ten|
+|||V|Ü<br>P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|B1|Mathematik B 1|4<br>||7.5|7.5||||||90||
+|||GOP|||||||||||
+||Übung||2||||||||unbenotet|er Schein|
+|B2|Mathematik B 2|4<br>||7.5||7.5|||||90||
+||Übung|GOP|2||||||||unbenotet|er Schein|
+|B3|Mathematik B 3|4|2|7.5|||7.5||||90||
+|B4|Mathematik B 4|2|2|5||||5|||60||
+|B5|Informatik für Ing.|2|2|5|||||5||90||
+|B6|Allgemeine und Anorganische Chemie|4<br>||7.5|7.5||||||180||
+||Anorganisch-chemisches Praktikum|GOP|3||||||||unbenotet|er Schein|
+|B7|Organische Chemie|4|1|7.5|||7.5||||180||
+||Organisch - chemisches Praktikum||3||||||||unbenoteter|Schein (ZV)|
+||Physikalisches Chemie|2|2|||5|||||180||
+|B8|Chemische Thermodynamik|2|2|12.5||||5|||||
+||Physikalisch - chemisches Praktikum||4||||2.5||||unbenoteter|Schein (ZV)|
 
 6 
 
-|B9|Biochemie I und II||2|||5|||2.5|2.5|||90||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B10|Mikrobiologie||3|||2.5|||2.5||||90||
-|B11|Einführung in die Pharmazeutische<br>Technologie|GOP|1|1||2.5|2.5||||||*)||
-|B12|Einführung in die Medizinische<br>Biotechnologie|GOP|1|1||2.5|2.5||||||*)||
-|B13|Genetik||2|||2.5||||2.5|||*)||
-|B14|Biochemisches Praktikum oder<br>Mikrobiologisches Praktikum||||3|2.5||2.5|||||*)||
-|B15|Experimentalphysik|GOP|4|1||7.5|7.5||||||180||
+|B9|Biochemie I und II||2||5||2.5|2.5|90|
+|---|---|---|---|---|---|---|---|---|---|
+|B10|Mikrobiologie||3||2.5||2.5||90|
+|B11|Einführung in die Pharmazeutische<br>Technologie|GOP|1<br>1||2.5|2.5|||*)|
+|B12|Einführung in die Medizinische<br>Biotechnologie|GOP|1<br>1||2.5|2.5|||*)|
+|B13|Genetik||2||2.5|||2.5|*)|
+|B14|Biochemisches Praktikum oder<br>Mikrobiologisches Praktikum|||3|2.5|2.5|||*)|
+|B15|Experimentalphysik|GOP|4<br>1||7.5|7.5|||180|
 
-|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul|||SWS||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Prüfungsdauer in<br>Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|B16|Instrumentelle Analytik|GOP|2|1|2|7.5||7.5|||||*)||
-|B17|Einführung in die Thermofluiddynamik|GOP|2|||2.5|2.5||||||*)||
-|B18|Wärme- und Stoffübertragung||2|2||5||5|||||*)||
-|B19|Technische Mechanik||3|2||7.5|||7.5||||90||
-|B20|Konstruktionslehre||2|2||5||||5|||180||
-|B21|Kurs Technisches Zeichnen|||3||2.5||2.5|||||*)||
-|B22|Bioprozessautomatisierung||2|1||2.5||||2.5|||*)||
+|Spalte1|Spalte 2|||Spalte 3|Spalte 4|||Spalte 5||||Spa|lte 6|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||Prüfuns|dauer in|
+|Nr.|Modul|||SWS|ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|g<br>Minu|<br>ten|
+||||V|Ü<br>|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|B16|Instrumentelle Analytik|GOP|2|1<br>|2<br>7.5||7.5|||||*)||
+|B17|Einführung in die Thermofluiddynamik|GOP|2||2.5|2.5||||||*)||
+|B18|Wärme- und Stoffübertragung||2|2|5||5|||||*)||
+|B19|Technische Mechanik||3|2|7.5|||7.5||||90||
+|B20|Konstruktionslehre||2|2|5||||5|||180||
+|B21|Kurs Technisches Zeichnen|||3|2.5||2.5|||||*)||
+|B22|Bioprozessautomatisierung||2|1|2.5||||2.5|||*)||
 
 7 
 
-|B23|Biologische Prozesstechnik mit<br>Einführungsprojekt||2||3|5||||5|||*)||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B24|Grenzflächen in der Verfahrenstechnik||2|1||2.5||||2.5|||*)||
-|B25|Bioverfahrens- und Bioreaktionstechnik||2|1|1|5|||||5|||30|
-|B26|Immun- und Infektionsbiologie||2|1|1|5|||||5|||30|
-|B27|Mechanische Verfahrenstechnik||2|1|1|5|||||5||120||
-|B28|Prozessmaschinen und Apparatetechnik||2|1|1|5||||||5|120||
-|B29|Pharmazeutische Technologie||2|1|1|5|||||5||120||
-|B30|Biothermofluiddynamik||2|1|1|5||||||5|120||
-|B31|Bioseparation||2|1|1|5|||||5||120||
-|B32|Ergänzungsmodul||2|2||5||||||5|*)||
-|B33|Bachelorarbeit<br>Referat||9 Wochen|||12||||||12<br>3|||
-|||||||3|||||||||
-||**Summe**|**SWS**|**74**|**39**|**25**||**30**|**30**|**30**|**30**|**30**|**30**|**Summe**<br>**ECTS**|**180**|
-||||**138**||||**Umfang der Grundlagen und Orientierungsprüfung**||||||**Summe**<br>**ECTS**|**45**|
-
-- *) Unbenoteter Leistungsnachweis 
-
-8 
-
-Anlage 2: Kernfächer- und Ergänzungsmodule des Bachelorstudienganges 
+<u>Anlage 2: Kernfächer- und Ergänzungsmodule des Bachelorstudienganges</u> 
 
 ## 2.1. Kernfächermodule 
 
@@ -310,46 +298,50 @@ Anlage 2: Kernfächer- und Ergänzungsmodule des Bachelorstudienganges
 
 9 
 
-Anlage 3: Module des Masterstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
+<u>Anlage 3:</u> Module des Masterstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus 
 
-|Spalte1|Spalte 2|Spalte 2|Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul|||SWS||ECTS|7. Sem|8. Sem|9. Sem|10. Sem|Prüfungsdauer in<br>Minuten||
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|M1|1. Vertiefungsmodul||2|1|3|7.5|7.5|||||30|
-|M2|2. Vertiefungsmodul||2|1|3|7.5|7.5|||||30|
-|M3|3. Vertiefungsmodul||2|1|3|7.5||7.5||||30|
-|M4|4. Vertiefungsmodul||2|1|3|7.5||7.5||||30|
-|M5|1. Wahlpflichtmodul||2|2||5|5|||||30|
-|M6|2. Wahlpflichtmodul||2|2||5|5|||||30|
-|M7|3. Wahlpflichtmodul||2|2||5||5||||30|
-|M8|4. Wahlpflichtmodul||2|2||5|||5|||30|
-|M9|5. Wahlpflichtmodul||2|2||5|||5|||30|
-|M10|1. Ergänzungsmodul||2|2||5|5||||*)||
-|M11|2. Ergänzungsmodul||2|2||5||5|||*)||
-|M12|3. Ergänzungsmodul||2|2||5|||5||*)||
-|M13|4. Ergänzungsmodul||2|2||5|||5||*)||
+|Spalte1|Spalte 2|S|palte 3|Spalte 4||Spalte 5|||Spa|lte 6|
+|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||Prüfungs|dauer in|
+|Nr.|Modul||SWS|ECTS|7. Sem|8. Sem|9. Sem|10. Sem|<br>Minu|<br>ten|
+|||V|Ü<br>P||ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|M1|1. Vertiefungsmodul|2|1<br>3|7.5|7.5|||||30|
+|M2|2. Vertiefungsmodul|2|1<br>3|7.5|7.5|||||30|
+|M3|3. Vertiefungsmodul|2|1<br>3|7.5||7.5||||30|
+|M4|4. Vertiefungsmodul|2|1<br>3|7.5||7.5||||30|
+|M5|1. Wahlpflichtmodul|2|2|5|5|||||30|
+|M6|2. Wahlpflichtmodul|2|2|5|5|||||30|
+|M7|3. Wahlpflichtmodul|2|2|5||5||||30|
+|M8|4. Wahlpflichtmodul|2|2|5|||5|||30|
+|M9|5. Wahlpflichtmodul|2|2|5|||5|||30|
+|M10|1. Ergänzungsmodul|2|2|5|5||||*)||
+|M11|2. Ergänzungsmodul|2|2|5||5|||*)||
+|M12|3. Ergänzungsmodul|2|2|5|||5||*)||
+|M13|4. Ergänzungsmodul|2|2|5|||5||*)||
 
 10 
 
-|M14|Projektierungskurs||Umfang ca.<br>150 Stunden|Umfang ca.<br>150 Stunden|Umfang ca.<br>150 Stunden|5||5|||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|M15|Industriepraktikum||13 Wochen|||10|||10||||
-|M16|Masterarbeit||Umfang ca.<br>900 Stunden<br>innerhalb von<br>6 Monaten<br>Bearbeitung|||30||||30|||
-||**Summe SWS**||**26**|**22**|**12**||**30**|**30**|**30**|**30**|**Summe**<br>**ECTS**|**120**|
-||||**60**||||||||||
+|M14|Projektierungskurs||Umfang ca.<br>150 Stunden|5||5||||
+|---|---|---|---|---|---|---|---|---|---|
+|M15|Industriepraktikum||13 Wochen|10|||10|||
+|M16|Masterarbeit||Umfang ca.<br>900 Stunden<br>innerhalb von<br>6 Monaten<br>Bearbeitung|30||||30||
+|||**Summe SWS**|**26**<br>**22**<br>**12**<br>**60**||**30**|**30**|**30**|**30**<br>**Summe**<br>**ECTS**|**120**|
 
 *) Unbenoteter Leistungsnachweis 
 
 11 
 
-## Anlage 4: 
+## <u>Anlage 4:</u> 
 
 ## Vertiefungs- , Ergänzungs-, und Wahlpflichtmodule des Masterstudienganges 
 
 ## 4.1 Vertiefungsmodule aus den Kernfächermodulen des Bachelorstudienganges 
 
-1. Bioverfahrens- und Bioreaktionstechnik 2. Immun- und Infektionsbiologie 3. Frei wählbares Fach aus Anlage 2 (Punkt 2.1) 4. Frei wählbares Fach aus Anlage 2 (Punkt 2.1) 
+|1. Bioverfahrens- und Bioreaktionstechnik|
+|---|
+|2. Immun- und Infektionsbiologie|
+|3. Frei wählbares Fach aus Anlage 2 (Punkt 2.1)|
+|4. Frei wählbares Fach aus Anlage 2 (Punkt 2.1)|
 
 ## 4.2 Ergänzungsmodule 
 
@@ -372,96 +364,5 @@ Erlangen, den 24. September 2007
 [Kontaktperson entfernt]
 Die Satzung wurde am 24. September 2007 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 24. September 2007 durch Anschlag in der Universität Erlangen-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 24. September 2007. 
 
-13
-
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-### OCR Seite 6
-
-```
-mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prü-
-Spalte 3
-Spalte 4
-Spalte 5
-Spalte 6
-sws
-1.Sem | 2.Sem | 3.Sem | 4.Sem | 5.Sem | 6. Sem
-Prüfungscauer in
-ECTS
-mu
-vlelr
-ECTS
-ECTS
-ECTS
-ECTS
-ECTS
-ECTS
-schriftlich
-4
-90
-Gor
-2
-).
-2
-unbenoteter Schein
-4
-90
-2
-).
-u
-unbenoteter Schein
-E EC Ic BR GI
-E EC BC BD DR ED CE
-4
-180
-7.5
-7.5
-3
-ı
-=.
-unbenoteter Schein
-4
-1
-180
-3
-0
-=. unbenoteter Schein (ZV)
-2
-2
-5
-2
-| 2
-|
-12.5
-Ä
-|
-5
-0
-|
-4
-=. unbenoteter Schein (ZV)
-6
-```
-
-### OCR Seite 8
-
-```
-2
-3
-5
-5
-5)
-E KH RE RE EC RE
-9 Wochen
-12
-12
-EEE EEE
-Summe
-Summe
-Umfang der Grundlagen und Orientierungsprüfung
-ECTS
-8
-```
+13 
 

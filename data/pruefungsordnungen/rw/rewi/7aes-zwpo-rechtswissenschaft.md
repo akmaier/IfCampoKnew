@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "21. Februar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_ZwPO_Rechtswissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:17+00:00
-page_count_chars: 2975
+scraped_at: 2026-07-01T10:32:48+00:00
+page_count_chars: 2971
 ---
 
 # 21. Februar 2014
@@ -12,13 +12,13 @@ page_count_chars: 2975
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_ZwPO_Rechtswissenschaft.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Siebte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
+# **Siebte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
 
 Vom 21. Februar 2014 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft vom 3. Juli 2000 (KWMBl II S. 1121), zuletzt geändert durch Satzung vom 29. Juli 2013, wird wie folgt geändert: 
 
@@ -26,19 +26,19 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 2. § 5 Abs. 3 wird wie folgt geändert: 
 
-   - a) Abs. 3 wird wie folgt geändert: 
+a) Abs. 3 wird wie folgt geändert: 
 
 aa) In Satz 1 wird nach dem Wort „Teilprüfungen“ das Wort „zu“ eingefügt. 
 
 bb) In Satz 2 wird das Wort „Fächer“ durch das Wort „Fächern“ ersetzt. 
 
-- b) Abs. 4 wird wie folgt geändert: 
+b) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden im Klammerzusatz die Worte „Art. 81 Abs. 4 Satz 3“ durch die Worte „Art. 61 Abs. 6 Satz 3“ ersetzt. 
+- aa) In Satz 1 werden im Klammerzusatz die Worte „Art. 81 Abs. 4 Satz 3“ durch die Worte „Art. 61 Abs. 6 Satz 3“ ersetzt. 
 
 bb) Satz 5 erhält folgende neue Fassung: 
 
-„[5] Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung.“ 
+„<sup>5</sup> Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung.“ 
 
 3. § 7 Abs. 2 Satz 2 wird wie folgt geändert: 
 
@@ -54,7 +54,7 @@ bb) Satz 5 erhält folgende neue Fassung:
 
 5. In § 13 Abs. 4 Satz 1 wird die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach Ihrer Bekanntmachung in Kraft. 
 

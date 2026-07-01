@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.04.1989 i.d.F. 24.10.2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/PO_Fremdsprachenpruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:51:52+00:00
-page_count_chars: 13920
+scraped_at: 2026-07-01T10:09:46+00:00
+page_count_chars: 14199
 ---
 
 # PDF vom 20.04.1989 i.d.F. 24.10.2002
@@ -30,7 +30,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) An den Philosophischen Fakultäten I und II können Studenten, die nach der Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium vom 23. September 1982 (KMBl II S. 803) in der jeweils geltenden Fassung studieren, eine Fremdsprachenprüfung in den in der **Anlage 1** aufgeführten Fremdsprachen ablegen. 
 
-(2)[1] Zweck dieser Prüfung ist der Nachweis fremdsprachlicher Kenntnisse und Fertigkeiten, die zu angemessener schriftlicher und mündlicher Kommunikation über allgemeine Themen und zur kommunikativen Bewältigung von Standardsituationen der akademischen Ausbildung sowie entsprechend qualifizierter Berufe befähigen.[2] Das Niveau der Prüfung orientiert sich an der Allgemeinen Fremdsprachenausbildung Unicert© III. 
+(2)<sup>1</sup> Zweck dieser Prüfung ist der Nachweis fremdsprachlicher Kenntnisse und Fertigkeiten, die zu angemessener schriftlicher und mündlicher Kommunikation über allgemeine Themen und zur kommunikativen Bewältigung von Standardsituationen der akademischen Ausbildung sowie entsprechend qualifizierter Berufe befähigen.<sup>2</sup> Das Niveau der Prüfung orientiert sich an der Allgemeinen Fremdsprachenausbildung Unicert© III. 
 
 (3) Die Fremdsprachenprüfung findet einmal in jedem Semester nach dem Ende der Vorlesungszeit statt. 
 
@@ -42,11 +42,11 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Organisation und Durchführung der Prüfung wird von der Philosophischen Fakultät II ein Prüfungsausschuss eingesetzt.[2] Ihm gehören der geschäftsführende Leiter des Sprachenzentrums als Vorsitzender und zwei Professoren der Philosophischen Fakultät II an, die vom Fachbereichsrat für die Dauer von drei Jahren gewählt werden. 
+(1)<sup>1</sup> Für die Organisation und Durchführung der Prüfung wird von der Philosophischen Fakultät II ein Prüfungsausschuss eingesetzt.<sup>2</sup> Ihm gehören der geschäftsführende Leiter des Sprachenzentrums als Vorsitzender und zwei Professoren der Philosophischen Fakultät II an, die vom Fachbereichsrat für die Dauer von drei Jahren gewählt werden. 
 
-(2)[1] Der Vorsitzende führt die laufenden Geschäfte des Prüfungsausschusses und vollzieht dessen Beschlüsse.[2] Er kann vom Prüfungsausschuss mit der Erledigung weiterer Aufgaben betraut werden.[3] Bei der Erledigung der laufenden Geschäfte wird er vom Geschäftsführer des Sprachenzentrums unterstützt. 
+(2)<sup>1</sup> Der Vorsitzende führt die laufenden Geschäfte des Prüfungsausschusses und vollzieht dessen Beschlüsse.<sup>2</sup> Er kann vom Prüfungsausschuss mit der Erledigung weiterer Aufgaben betraut werden.<sup>3</sup> Bei der Erledigung der laufenden Geschäfte wird er vom Geschäftsführer des Sprachenzentrums unterstützt. 
 
-(3)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder mindestens 3 Tage vorher geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen in Sitzungen; Stimmenthaltungen, geheime Abstimmungen und Stimmrechtsübertragungen sind nicht zulässig.[3] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+(3)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder mindestens 3 Tage vorher geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Der Prüfungsausschuss beschließt mit der Mehrzahl der abgegebenen Stimmen in Sitzungen; Stimmenthaltungen, geheime Abstimmungen und Stimmrechtsübertragungen sind nicht zulässig.<sup>3</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
 
 (4) Die Verschwiegenheitspflicht der Mitglieder des Prüfungsausschusses bemisst sich nach Art. 18 Abs. 4 BayHSchG. 
 
@@ -74,15 +74,15 @@ Die Zulassung zur Fremdsprachenprüfung setzt voraus, dass der Bewerber
 
 ## **Meldung und Zulassung** 
 
-(1)[1] Der Bewerber hat sich innerhalb der gem. § 1 Abs. 4 festgesetzten Meldefrist schriftlich beim Prüfungsamt zur Prüfung in der von ihm gewählten Fremdsprache anzumelden.[2] Dabei hat er die Nachweise zu den Zulassungsvoraussetzungen gem. § 4 Nr. 1 und 2 und eine schriftliche Erklärung vorzulegen, ob er schon einmal ver- 
+(1)<sup>1</sup> Der Bewerber hat sich innerhalb der gem. § 1 Abs. 4 festgesetzten Meldefrist schriftlich beim Prüfungsamt zur Prüfung in der von ihm gewählten Fremdsprache anzumelden.<sup>2</sup> Dabei hat er die Nachweise zu den Zulassungsvoraussetzungen gem. § 4 Nr. 1 und 2 und eine schriftliche Erklärung vorzulegen, ob er schon einmal ver- 
 
 2 
 
 sucht hat, die Prüfung abzulegen und dass er die Prüfung nicht bereits endgültig nicht bestanden hat. 
 
-(2)[1] Die Zulassung zur Fremdsprachenprüfung wird vom Vorsitzenden des Prüfungsausschusses ausgesprochen.[2] Die Zulassung kann nur versagt werden, wenn die Nachweise gemäß Absatz 1 nicht erbracht sind oder die Fremdsprachenprüfung in der gewählten Fremdsprache bereits endgültig nicht bestanden ist. 
+(2)<sup>1</sup> Die Zulassung zur Fremdsprachenprüfung wird vom Vorsitzenden des Prüfungsausschusses ausgesprochen.<sup>2</sup> Die Zulassung kann nur versagt werden, wenn die Nachweise gemäß Absatz 1 nicht erbracht sind oder die Fremdsprachenprüfung in der gewählten Fremdsprache bereits endgültig nicht bestanden ist. 
 
-(3)[1] Der Bewerber ist von der Zulassung unter Angabe von Zeit und Ort der schriftlichen und mündlichen Prüfung sowie der Prüfer des mündlichen Teils mindestens zwei Wochen vor Beginn der Prüfung zu benachrichtigen.[2] Eine Ablehnung ist dem Bewerber schriftlich unter Angabe von Gründen mitzuteilen. 
+(3)<sup>1</sup> Der Bewerber ist von der Zulassung unter Angabe von Zeit und Ort der schriftlichen und mündlichen Prüfung sowie der Prüfer des mündlichen Teils mindestens zwei Wochen vor Beginn der Prüfung zu benachrichtigen.<sup>2</sup> Eine Ablehnung ist dem Bewerber schriftlich unter Angabe von Gründen mitzuteilen. 
 
 ## **§ 6 Prüfungsanforderungen** 
 
@@ -94,7 +94,7 @@ sucht hat, die Prüfung abzulegen und dass er die Prüfung nicht bereits endgül
 
 ## **Durchführung der Prüfung** 
 
-(1)[1] Die Fremdsprachenprüfung besteht jeweils aus einem schriftlichen und einem mündlichen Teil.[2] Die schriftlichen Prüfungsleistungen sind jeweils vor den mündlichen zu erbringen. 
+(1)<sup>1</sup> Die Fremdsprachenprüfung besteht jeweils aus einem schriftlichen und einem mündlichen Teil.<sup>2</sup> Die schriftlichen Prüfungsleistungen sind jeweils vor den mündlichen zu erbringen. 
 
 (2) Folgende Prüfungsleistungen sind zu erbringen: 
 
@@ -142,7 +142,7 @@ b) Sprechfertigkeit
 
 (3) Über die Zulassung von Hilfsmitteln entscheidet der Prüfungsausschuss. 
 
-(4)[1] Die schriftlichen Prüfungsarbeiten werden jeweils von zwei Prüfern bewertet. 
+(4)<sup>1</sup> Die schriftlichen Prüfungsarbeiten werden jeweils von zwei Prüfern bewertet. 
 
 2Von der Bewertung durch einen zweiten Prüfer kann ausnahmsweise abgesehen werden, wenn seine Bestellung den Ablauf der Prüfung in unvertretbarer Weise verzögern würde. 
 
@@ -156,7 +156,7 @@ b) Sprechfertigkeit
 
 sehr gut = eine hervorragende Leistung, (= 1,0 oder 1,3) gut (= 1,7 oder 2,0 oder 2,3) = eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt; befriedigend (= 2,7 oder 3,0 oder 3,3) = eine Leistung, die durchschnittlichen Anforderungen ent-spricht; ausreichend (=3,7 oder 4,0) = eine Leistung, die trotz ihrer Mängel noch den Anforderun-gen genügt. nicht ausreichend (=4,3 oder 4,7 oder 5,0) = eine Leistung, die wegen erheblicher Mängel den Anforde-rungen nicht mehr genügt. 
 
-(2)[1] Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet.[2] Die Note des schriftlichen Prüfungsteils und die Note des mündlichen Prüfungsteils werden gleich gewichtet.[3] Dabei sind zwei Stellen nach dem Komma zu berücksichtigen.[4] Die Gesamtnote lautet: 
+(2)<sup>1</sup> Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet.<sup>2</sup> Die Note des schriftlichen Prüfungsteils und die Note des mündlichen Prüfungsteils werden gleich gewichtet.<sup>3</sup> Dabei sind zwei Stellen nach dem Komma zu berücksichtigen.<sup>4</sup> Die Gesamtnote lautet: 
 
 bei einem Durchschnitt bis 1,50: "sehr gut" 
 
@@ -200,13 +200,13 @@ bei einem Durchschnitt über 4,00: "nicht ausreichend".
 
 (1) Eine Prüfung gilt als nicht bestanden, wenn der Bewerber zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt. 
 
-(2)[1] Die für das Versäumnis oder den Rücktritt geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Bei Krankheit des Bewerbers kann der Vorsitzende des Prüfungsausschusses die Vorlage eines ärztlichen Attestes verlangen.[3] Erkennt der Vorsitzende  des Prüfungsausschusses die Gründe an, so kann der Bewerber die Prüfung zum nächsten Termin ablegen.[4] Die bereits vorliegenden Prüfungsergebnisse sind in diesem Fall anzurechnen. 
+(2)<sup>1</sup> Die für das Versäumnis oder den Rücktritt geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Bei Krankheit des Bewerbers kann der Vorsitzende des Prüfungsausschusses die Vorlage eines ärztlichen Attestes verlangen.<sup>3</sup> Erkennt der Vorsitzende  des Prüfungsausschusses die Gründe an, so kann der Bewerber die Prüfung zum nächsten Termin ablegen.<sup>4</sup> Die bereits vorliegenden Prüfungsergebnisse sind in diesem Fall anzurechnen. 
 
 (3) Eine Prüfung kann vom Prüfungsausschuss ganz oder teilweise als nicht bestanden erklärt werden, wenn sich der Bewerber unerlaubter Hilfen bedient oder eine Täuschung unternommen oder sich eines groben Verstoßes gegen die Ordnung während der Prüfung schuldig gemacht hat. 
 
 5 
 
-(4)[1] Mängel des Prüfungsverfahrens oder eine vor oder während einer Prüfung eingetretene Prüfungsunfähigkeit müssen unverzüglich bei dem Vorsitzenden des Prüfungsausschusses geltend gemacht werden.[2] Absatz 2 gilt insoweit entsprechend. 
+(4)<sup>1</sup> Mängel des Prüfungsverfahrens oder eine vor oder während einer Prüfung eingetretene Prüfungsunfähigkeit müssen unverzüglich bei dem Vorsitzenden des Prüfungsausschusses geltend gemacht werden.<sup>2</sup> Absatz 2 gilt insoweit entsprechend. 
 
 (5) Entscheidungen des Prüfungsausschusses nach Absatz 1 bis 4 sind dem Bewerber schriftlich mitzuteilen und zu begründen, soweit einem Antrag des Bewerbers nicht entsprochen wird. 
 
@@ -216,7 +216,7 @@ bei einem Durchschnitt über 4,00: "nicht ausreichend".
 
 (1) Hat der Bewerber die Fremdsprachenprüfung nicht bestanden, so kann sie nur insgesamt, und zwar innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens wiederholt werden, sofern nicht dem Bewerber wegen besonderer, von ihm nicht zu vertretende Gründe eine Nachfrist gewährt wird. 
 
-(2)[1] Ist die erste Wiederholungsprüfung nicht bestanden, so kann der Bewerber die Fremdsprachenprüfung zum zweiten Mal nur dann wiederholen, wenn die Gesamtnote in der ersten Wiederholungsprüfung nicht schlechter war als 4,50.[2] Die zweite Wiederholungsprüfung muss zum nächsten regulären Prüfungstermin abgelegt werden. 
+(2)<sup>1</sup> Ist die erste Wiederholungsprüfung nicht bestanden, so kann der Bewerber die Fremdsprachenprüfung zum zweiten Mal nur dann wiederholen, wenn die Gesamtnote in der ersten Wiederholungsprüfung nicht schlechter war als 4,50.<sup>2</sup> Die zweite Wiederholungsprüfung muss zum nächsten regulären Prüfungstermin abgelegt werden. 
 
 ## **§ 12 Inkrafttreten** 
 

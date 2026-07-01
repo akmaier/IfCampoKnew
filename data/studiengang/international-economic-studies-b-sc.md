@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:46:48+00:00
+scraped_at: 2026-07-01T08:23:35+00:00
 ---
 
 # International Economic Studies (B.Sc.)
@@ -35,7 +35,7 @@ Der Bachelorstudiengang **International Economic Studies (IES)** ist der perfekt
 
 **[Weitere Informationen finden Sie auch auf der Landingpage des Studiengangs](https://www.international-business-economics.wiso.rw.fau.eu/).**
 
-### Bachelor of Science International Economic Studies
+### Fachanteile des Studiengangs International Economic Studies (B.Sc.)
 
 * Electives/Experiences abroad (27%)
 * International economics (24%)

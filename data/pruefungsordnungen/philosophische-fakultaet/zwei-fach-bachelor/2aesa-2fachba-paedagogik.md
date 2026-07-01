@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. November 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa_2FachBA-Paedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:24+00:00
-page_count_chars: 4411
+scraped_at: 2026-07-01T10:27:53+00:00
+page_count_chars: 4415
 ---
 
 # 24. November 2009
@@ -12,13 +12,13 @@ page_count_chars: 4411
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa_2FachBA-Paedagogik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 24. November 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+**§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Beschluss des Senats in der Sitzungen vom 29. April 2009 wird wie folgt geändert: 
 
@@ -60,11 +60,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bach
 
 3. § 8 Abs.4 wird ersatzlos gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Satzung tritt am 1. Oktober 2009 in Kraft. 2Die Änderungen unter Nr. 1 i), j), m) und o) betreffend die Neuregelung hinsichtlich der Bewertung der Module : 
 
-„Bereichsspezifische Einführung“ und „Modul Didaktik“ als „unbenotet“ gelten nur für die Studierenden, die ab dem Wintersemester 2009/10 das Studium aufnehmen. 3Studierende, die zu diesem Zeitpunkt bereits im Teilstudiengang Pädagogik eingeschrieben sind, können bis Ablauf des Wintersemesters 2009/10 beantragen, dass die Änderungen nach Satz 2 in ihrem Fall Anwendung finden.[4] Die Entscheidung ist bindend, die Übernahme eines Teils der in Satz 2 aufgeführten Regelungen ist unzulässig. 
+„Bereichsspezifische Einführung“ und „Modul Didaktik“ als „unbenotet“ gelten nur für die Studierenden, die ab dem Wintersemester 2009/10 das Studium aufnehmen. 3Studierende, die zu diesem Zeitpunkt bereits im Teilstudiengang Pädagogik eingeschrieben sind, können bis Ablauf des Wintersemesters 2009/10 beantragen, dass die Änderungen nach Satz 2 in ihrem Fall Anwendung finden.<sup>4</sup> Die Entscheidung ist bindend, die Übernahme eines Teils der in Satz 2 aufgeführten Regelungen ist unzulässig. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 23. September 2009 und der Genehmigungsfeststellung des Rektors vom 19. Oktober 2009. 
 

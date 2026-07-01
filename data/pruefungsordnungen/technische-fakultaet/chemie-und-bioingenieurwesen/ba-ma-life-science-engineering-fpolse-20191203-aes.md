@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-MA Life Science Engineering FPOLSE 20191203 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Life_Science_Engineering_bis_01_Oktober_2030/Aenderungssatzungen/BA-MA_Life_Science_Engineering_FPOLSE_20191203_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:02:48+00:00
-page_count_chars: 3690
+scraped_at: 2026-07-01T11:24:37+00:00
+page_count_chars: 3708
 ---
 
 # BA-MA Life Science Engineering FPOLSE 20191203 ÄS.pdf
@@ -12,21 +12,21 @@ page_count_chars: 3690
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Life_Science_Engineering_bis_01_Oktober_2030/Aenderungssatzungen/BA-MA_Life_Science_Engineering_FPOLSE_20191203_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOLSE –** 
+# **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOLSE –** 
 
-## **Vom 3. Dezember 2019** 
+# **Vom 3. Dezember 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der FAU – FPOLSE – vom 24. September 2007, zuletzt geändert durch Satzung vom 24. Juli 2019, wird wie folgt geändert: 
 
-## 1. § 41 erhält folgende neue Fassung: 
+1. § 41 erhält folgende neue Fassung: 
 
-## „ **§ 41 Qualifikation zum Masterstudium, Nachweise und** 
+# „ **§ 41 Qualifikation zum Masterstudium, Nachweise und** 
 
-## **Zugangsvoraussetzungen** 
+# **Zugangsvoraussetzungen** 
 
 (1) Einschlägiger Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Bachelorabschluss nach dieser Prüfungsordnung oder ein gleichwertiger in- oder ausländischer Abschluss, der im Hinblick auf das Qualifikationsziel keinen wesentlichen Unterschied zum Bachelorabschluss im Fach Life Science Engineering nach dieser Prüfungsordnung aufweist. 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science E
 
 (3) Die Qualifikation zum Masterstudium Life Science Engineering wird i. S. d. Abs. 5 Satz 2 Nr. 2 **Anlage ABMPO/TechFak** festgestellt, wenn mindestens vier der Module B13, B14, B19 bis B21, B23, B24 und B29 des Bachelorstudiengangs mit dem Mittelwert der Modulnoten 3,0 oder besser abgelegt sind. 
 
-(4)[1] In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. **Anlage ABMPO/ TechFak** werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien beurteilt: 
+(4)<sup>1</sup> In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. **Anlage ABMPO/ TechFak** werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien beurteilt: 
 
 1. Qualität der Fähigkeit, komplexe Aufgabenstellungen aus dem Bereich des Life Science Engineerings einschließlich relevanter Verfahrens- und Messtechniken zu analysieren, Wege zur Problemlösung zu erarbeiten sowie Ergebnisse kritisch zu diskutieren (40 Prozent), 
 
@@ -48,9 +48,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science E
 
 2. In § 45 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die dreizehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die dreizehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden. 
 

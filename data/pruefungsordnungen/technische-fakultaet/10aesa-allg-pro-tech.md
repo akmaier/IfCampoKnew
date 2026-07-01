@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Dezember 2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AeSa-Allg-PrO-Tech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:26+00:00
-page_count_chars: 2723
+scraped_at: 2026-07-01T11:16:56+00:00
+page_count_chars: 2739
 ---
 
 # 8. Dezember 2000
@@ -12,9 +12,9 @@ page_count_chars: 2723
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AeSa-Allg-PrO-Tech.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## **Zehnte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF)** 
+# **Zehnte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF)** 
 
-## Vom 8. Dezember 2000 
+# Vom 8. Dezember 2000 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erläßt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -34,7 +34,7 @@ c) Nach Nr. 6 wird angefügt:
 
 2. § 2 Abs. 1 erhält folgende Fassung: 
 
-   - „(1)[1] Aufgrund der bestandenen Diplomprüfung werden folgende akademische Grade verliehen: 
+   - „(1)<sup>1</sup> Aufgrund der bestandenen Diplomprüfung werden folgende akademische Grade verliehen: 
 
    1. In den Studiengängen Chemieingenieurwesen, Elektrotechnik, Maschinenbau und Werkstoffwissenschaften „Diplom-Ingenieur Univ." beziehungsweise "Diplom-Ingenieurin Univ." (beidemale abgekürzt Dipl.-Ing. Univ.), 
 
@@ -48,7 +48,7 @@ c) Nach Nr. 6 wird angefügt:
 
 4. § 21 Abs. 1 Satz 2 erhält folgende Fassung: 
 
-„[2] Darin wird die Verleihung des akademischen Grades „Diplom-Ingenieur“, „DiplomWirtschaftsingenieur“ oder „Diplom-Informatiker“ mit dem Zusatz „Univ.“ beurkundet.“ 
+„<sup>2</sup> Darin wird die Verleihung des akademischen Grades „Diplom-Ingenieur“, „DiplomWirtschaftsingenieur“ oder „Diplom-Informatiker“ mit dem Zusatz „Univ.“ beurkundet.“ 
 
 § 2 
 

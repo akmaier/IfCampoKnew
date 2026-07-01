@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "20. Februar 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES_BA-WirtschRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:55+00:00
-page_count_chars: 8721
+scraped_at: 2026-07-01T10:36:48+00:00
+page_count_chars: 8913
 ---
 
 # 20. Februar 2015
@@ -12,11 +12,11 @@ page_count_chars: 8721
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES_BA-WirtschRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR)** Vom 20. Februar 2015 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität Erlangen-Nürnberg (StPO/WR)** Vom 20. Februar 2015 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Universität ErlangenNürnberg (StPO/WR) vom 29. September 2010, zuletzt geändert durch Satzung vom 23. Juli 2014, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht 
 
 - b) Satz 3 erhält folgende Fassung: 
 
-„[3] Der Vertiefungsbereich (insgesamt 25 ECTS-Punkte) setzt sich frei wählbar aus einem Vertiefungsmodul zu 10 ECTS-Punkten oder aus zwei verschiedenen Vertiefungsmodulen zu je 5 ECTS-Punkten aus dem Bereich Wirtschaftswissenschaften und / oder Rechtswissenschaften sowie der Bachelorarbeit zuzüglich eines Seminars (insgesamt 15 ECTS Punkte) zusammen.“ 
+„<sup>3</sup> Der Vertiefungsbereich (insgesamt 25 ECTS-Punkte) setzt sich frei wählbar aus einem Vertiefungsmodul zu 10 ECTS-Punkten oder aus zwei verschiedenen Vertiefungsmodulen zu je 5 ECTS-Punkten aus dem Bereich Wirtschaftswissenschaften und / oder Rechtswissenschaften sowie der Bachelorarbeit zuzüglich eines Seminars (insgesamt 15 ECTS Punkte) zusammen.“ 
 
 2. In § 8 Satz 1 wird die Zahl „6“ durch die Zahl „7“ ersetzt. 
 
@@ -38,7 +38,9 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Wirtschaftsrecht 
 
    - b) Abs. 3 wird wie folgt geändert: 
 
-aa) In Satz 1 wird die Zahl „20“ durch die Zahl „21“ ersetzt. bb) In Satz 2 werden das Wort „angerechneter“ durch das Wort „anerkannter“ sowie die Zahl „20“ durch die Zahl „21“ ersetzt. 
+aa) In Satz 1 wird die Zahl „20“ durch die Zahl „21“ ersetzt. 
+
+bb) In Satz 2 werden das Wort „angerechneter“ durch das Wort „anerkannter“ sowie die Zahl „20“ durch die Zahl „21“ ersetzt. 
 
 5. § 16 Abs. 2 wird wie folgt geändert: 
 
@@ -50,9 +52,9 @@ aa) In Satz 1 wird die Zahl „20“ durch die Zahl „21“ ersetzt. bb) In Sat
 
 7. In § 18 werden nach Abs. 2 folgende Absätze 3 bis 6 angefügt: 
 
-„(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.[6] Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind. 8Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+„(3)<sup>1</sup> Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.<sup>3</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>4</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.<sup>5</sup> Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.<sup>6</sup> Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.<sup>7</sup> Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind. 8Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.<sup>9</sup> Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
 
-(4)[1] Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
+(4)<sup>1</sup> Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
 
 1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen zutreffend beantwortet hat bzw. 50 Prozent der zu erzielenden Punkte erreicht hat oder 
 
@@ -66,13 +68,13 @@ aa) In Satz 1 wird die Zahl „20“ durch die Zahl „21“ ersetzt. bb) In Sat
 
 8. In § 19 wird nach Satz 1 folgender Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
 Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
 9. In § 21 wird nach Abs. 1 folgender Abs. 2 eingefügt: 
 
-„(2)[1] Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 18 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
+„(2)<sup>1</sup> Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:<sup>2</sup> Wer die für das Bestehen der Prüfung nach § 18 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 
 
 1,0 ("sehr gut"), wenn mindestens 80 Prozent, 
 
@@ -84,7 +86,7 @@ Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5.
 
 der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet wurden. 
 
-3Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7 und 4,3 sind dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 4 können in den Fällen, in denen die Prüfung gemäß § 18 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 vergeben werden.“ 
+3Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7 und 4,3 sind dabei ausgeschlossen.<sup>4</sup> Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.<sup>5</sup> Abweichend von Satz 4 können in den Fällen, in denen die Prüfung gemäß § 18 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 vergeben werden.“ 
 
 Die bisherigen Absätze 2 und 3 werden zu Absätzen 3 und 4. 
 
@@ -96,7 +98,7 @@ Die bisherigen Absätze 2 und 3 werden zu Absätzen 3 und 4.
 
 - c) Nach Zeile 31 (Kartellrecht) wird folgende neue Zeile 32 eingefügt: 
 
-„ Kapitalmarktrecht 5 5 Klausur 90 bis 120 Minuten 
+<u>„</u> Kapitalmarktrecht 5 <mark>5</mark> Klausur 90 bis 120 Minuten 
 
    - „ 
 
@@ -104,9 +106,8 @@ Die bisherigen Absätze 2 und 3 werden zu Absätzen 3 und 4.
 
 - e) Nach Zeile 34 (neu) wird folgende neue Zeile 35 eingefügt: 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Insolvenzrecht||5|||||||5|Klausur 90 bis 120 Minuten||
+|„<br>Insolvenzrecht|5|5Klausur 90 bis 120 Minuten|
+|---|---|---|
 
    - „ 
 
@@ -114,29 +115,29 @@ Die bisherigen Absätze 2 und 3 werden zu Absätzen 3 und 4.
 
 - g) Zeile 38 (neu) erhält folgende Fassung: 
 
-„ 
+<u>„</u> 
 
-Modul(e) Wirt.wiss. 10 10 Gem. PO BA Wirt.wiss. ~~[3]~~ und/oder und/oder Klausur 90 bis 120 Minuten[4] Vertiefungen Recht I und II „ 
+Modul(e) Wirt.wiss. 10 10 Gem. PO BA Wirt.wiss.<sup>~~3~~</sup> und/oder und/oder Klausur 90 bis 120 Minuten<sup>4</sup> Vertiefungen Recht I <u>und II</u> „ 
 
 - h) Zeilen 39 (Vertiefung Recht), 40 und 41 (Vertiefung Recht o. Modul Wirt.wiss.) werden gestrichen. 
 
-## i) Die Fußnoten werden wie folgt geändert: 
+# i) Die Fußnoten werden wie folgt geändert: 
 
-## aa) Fußnote[2] erhält folgende Fassung: 
+# aa) Fußnote<sup>2</sup> erhält folgende Fassung: 
 
-„[2] Belegt werden müssen Modul(e) im Umfang von insgesamt 10 ECTS. Gewählt werden können Modul(e) aus dem Bereich Wirtschaftswissenschaften (zu 10 ECTS oder 5 ECTS) und/oder Vertiefung Recht I und/oder Vertiefung Recht II (zu jeweils 5 ECTS).“ 
+„<sup>2</sup> Belegt werden müssen Modul(e) im Umfang von insgesamt 10 ECTS. Gewählt werden können Modul(e) aus dem Bereich Wirtschaftswissenschaften (zu 10 ECTS oder 5 ECTS) und/oder Vertiefung Recht I und/oder Vertiefung Recht II (zu jeweils 5 ECTS).“ 
 
-## bb) Fußnote[3] erhält folgende Fassung: 
+# bb) Fußnote<sup>3</sup> erhält folgende Fassung: 
 
-- „[3] Wählbar aus dem Vertiefungsbereich Wirtschaftswissenschaften gem. PO BA Wirt.wiss.“ 
+- „<sup>3</sup> Wählbar aus dem Vertiefungsbereich Wirtschaftswissenschaften gem. PO BA Wirt.wiss.“ 
 
-## cc) Nach Fußnote[3] wird folgende Fußnote[4] angefügt: 
+# cc) Nach Fußnote<sup>3</sup> wird folgende Fußnote<sup>4</sup> angefügt: 
 
 - “ 
 
-- „[4] Wählbar aus Vertiefungsbereich Recht lt. Modulhandbuch. 
+- „<sup>4</sup> Wählbar aus Vertiefungsbereich Recht lt. Modulhandbuch. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2015 in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 1 Nrn. 1 und 10 nur für die Studierenden, die das Studium ab dem Sommersemester 2015 aufnehmen; den Studierenden, die das Studium im Wintersemester 2014 / 2015 begonnen haben, wird jedoch die Möglichkeit gegeben, durch Erklärung gegenüber dem Prüfungsamt bis zum 15. Mai 2015 der neuen Prüfungsordnung insgesamt beizutreten. 
 

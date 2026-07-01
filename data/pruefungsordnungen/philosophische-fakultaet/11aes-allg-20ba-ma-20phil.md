@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/11AES-Allg%20BA-MA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:00+00:00
-page_count_chars: 2296
+scraped_at: 2026-07-01T09:27:56+00:00
+page_count_chars: 2293
 ---
 
 # 18. Januar 2012
@@ -14,11 +14,11 @@ page_count_chars: 2296
 
 **Elfte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil -** 
 
-## Vom 18. Januar 2012 
+# Vom 18. Januar 2012 
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - vom 27. September 2007, zuletzt geändert durch Satzung vom 5. August 2011, wird wie folgt geändert: 
 
@@ -26,11 +26,11 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudie
 
 2. § 37 wird wie folgt geändert: 
 
-a) Es wird folgender neuer Abs. 4 eingefügt: 
+   - a) Es wird folgender neuer Abs. 4 eingefügt: 
 
 „(4) Die Masterarbeit wird in der Regel von der Betreuerin oder dem Betreuer und von einer weiteren Gutachterin oder einem weiteren Gutachter, die/der von der Betreuerin oder dem Betreuer vorgeschlagen wird, beurteilt.“ 
 
-   - b) Der bisherige Abs. 4 wird zum neuen Abs. 5. 
+b) Der bisherige Abs. 4 wird zum neuen Abs. 5. 
 
    - c) Abs. 5 (neu) erhält folgende Fassung: 
 
@@ -42,7 +42,7 @@ a) Es wird folgender neuer Abs. 4 eingefügt:
 
    - b) Nach dem Wort „Wintersemester“ werden die Worte „und bis zum 15. Februar eines jeden Jahres zum nachfolgenden Sommersemester“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 findet § 1 Nr. 1 nur auf alle Studierenden Anwendung, die sich noch nicht zur Masterarbeit angemeldet haben. 
 

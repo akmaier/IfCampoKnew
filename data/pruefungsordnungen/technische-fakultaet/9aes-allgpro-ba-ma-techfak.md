@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES_AllgPrO_BA_MA_TechFak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:54:37+00:00
-page_count_chars: 27691
+scraped_at: 2026-07-01T11:15:53+00:00
+page_count_chars: 27843
 ---
 
 # 5. Juni 2014
@@ -14,11 +14,11 @@ page_count_chars: 27691
 
 **Neunte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg – ABMPO/TechFak –** 
 
-## Vom 5. Juni 2014 
+# Vom 5. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Universität Erlangen-Nürnberg – ABMPO/TechFak – vom 18. September 2007, zuletzt geändert durch Satzung vom 22. Mai 2013, wird wie folgt geändert: 
 
@@ -40,21 +40,21 @@ bb)  Halbsatz 2 erhält folgende neue Fassung:
 
 4. § 6 wird wie folgt geändert: 
 
-a) Abs. 2 wird wie folgt geändert: 
+   - a) Abs. 2 wird wie folgt geändert: 
 
 aa) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.“ 
+„<sup>2</sup> Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.“ 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen (Portfolioprüfung) bestehen.“ 
+„<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) bzw. aus einer Kombination aus Prüfungs- und Studienleistungen (Portfolioprüfung) bestehen.“ 
 
 cc) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 4 bis 7. 
 
 1 
 
-## b) Abs. 3 wird wie folgt geändert: 
+# b) Abs. 3 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden die Worte „Prüfungsleistungen und Studienleistungen“ durch das Wort „Prüfungen“ ersetzt. 
 
@@ -62,7 +62,7 @@ cc) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 4 bis 7.
 
 cc) Nach Satz 2 werden folgende neue Sätze 3 und 4 eingefügt: 
 
-„[3] Insbesondere sind Übungsleistungen möglich, welche in der Regel wöchentliches selbstständiges Lösen von Übungsaufgaben umfassen, sowie Praktikumsleistungen, welche in der Regel das Einüben von praktischen Aufgaben, schriftliche Versuchsprotokolle und mündliche oder schriftliche Testate vorsehen.[4] Weiterhin können Seminarleistungen (in der Regel Präsentation und schriftliche Ausarbeitung) und Exkursionsleistungen (in der Regel Begutachtung oder Diskussionsbeitrag) gefordert werden.“ 
+„<sup>3</sup> Insbesondere sind Übungsleistungen möglich, welche in der Regel wöchentliches selbstständiges Lösen von Übungsaufgaben umfassen, sowie Praktikumsleistungen, welche in der Regel das Einüben von praktischen Aufgaben, schriftliche Versuchsprotokolle und mündliche oder schriftliche Testate vorsehen.<sup>4</sup> Weiterhin können Seminarleistungen (in der Regel Präsentation und schriftliche Ausarbeitung) und Exkursionsleistungen (in der Regel Begutachtung oder Diskussionsbeitrag) gefordert werden.“ 
 
 dd) Die bisherigen Sätze 3 und 4 werden zu Sätzen 5 und 6. 
 
@@ -72,21 +72,21 @@ ee) In Satz 5 (neu) werden die Worte „und Teilprüfungen“ gestrichen.
 
 - c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden. 2Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
+„(5)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden. 2Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
 
-## 5. Nach § 6 wird folgender neuer § 6a eingefügt: 
+# 5. Nach § 6 wird folgender neuer § 6a eingefügt: 
 
-## **„§ 6a Anwesenheitspflicht** 
+# **„§ 6a Anwesenheitspflicht** 
 
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des 
 
 2 
 
-Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.<sup>3</sup> Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.“ 
 
@@ -206,7 +206,7 @@ cc) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ 
 
 5 
 
-„[2] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.“ 
+„<sup>2</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.“ 
 
 - b) In Abs. 3 Satz 1 wird nach dem Wort „Erstellerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -214,11 +214,11 @@ cc) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ 
 
    - aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.“ 
 
    - bb) Die bisherigen Sätze 2 bis 8 werden zu Sätzen 3 bis 9. 
 
-   - cc) In Satz 3 (neu) wird nach dem Wort „[3] Die“ sowie nach den Worten „Antworten sie“ jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+   - cc) In Satz 3 (neu) wird nach dem Wort „<sup>3</sup> Die“ sowie nach den Worten „Antworten sie“ jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
    - dd) In Satz 7 (neu) wird nach dem Wort „Aufgabenstellerinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -230,13 +230,13 @@ aa) Satz 1 wird wie folgt geändert:
 
 - (1) In Nr. 1 werden die Worte „der Prüfling“ durch die Worte „die bzw. der zu Prüfende“ ersetzt. 
 
-- (2) Nr. 2 wird wie folgt geändert: 
+(2) Nr. 2 wird wie folgt geändert: 
 
-   - (a) Die Worte „der Prüfling“ werden durch die Worte „die bzw. der zu Prüfende“ ersetzt. 
+- (a) Die Worte „der Prüfling“ werden durch die Worte „die bzw. der zu Prüfende“ ersetzt. 
 
-   - (b) Die Worte „vom Prüfling“ werden durch die Worte „von der bzw. dem zu Prüfenden“ ersetzt. 
+- (b) Die Worte „vom Prüfling“ werden durch die Worte „von der bzw. dem zu Prüfenden“ ersetzt. 
 
-   - (c) Das Wort „Prüflinge“ wird durch die Worte „insgesamt zu Prüfenden“ ersetzt. 
+- (c) Das Wort „Prüflinge“ wird durch die Worte „insgesamt zu Prüfenden“ ersetzt. 
 
 bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -260,7 +260,7 @@ aa) Satz 2 wird wie folgt geändert:
 
 bb) Nach Satz 2 werden folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.[4] Der Wechsel ist den Studierenden spätestens zwei Wochen nach Vorlesungsbeginn bekannt zu machen.“ 
+„<sup>3</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.<sup>4</sup> Der Wechsel ist den Studierenden spätestens zwei Wochen nach Vorlesungsbeginn bekannt zu machen.“ 
 
 - b) In Abs. 2 Satz 2 wird nach dem Wort „Abs.“ die Zahl „2“ durch die Zahl „3“ ersetzt. 
 
@@ -270,19 +270,19 @@ bb) Nach Satz 2 werden folgende neue Sätze 3 und 4 angefügt:
 
 aa) In Satz 1 wird wie folgt geändert: 
 
-         - (1) Das Wort „ist“ wird durch das Wort „sind“ ersetzt. 
+   - (1) Das Wort „ist“ wird durch das Wort „sind“ ersetzt. 
 
-         - (2) Nach dem Wort „Beisitzerin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+   - (2) Nach dem Wort „Beisitzerin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-         - (3) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
+   - (3) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 2 wird nach dem Wort „Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) In Satz 2 wird nach dem Wort „Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 16. § 17a wird wie folgt geändert: 
 
-   - a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
    - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
@@ -310,17 +310,17 @@ aa) In Satz 4 werden die Zahlen und Worte „4,3 oder 4,7 oder“ gestrichen.
 
 bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-„[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 7 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
+„<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 7 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
 
 c) Abs. 5 Satz 1 wird wie folgt geändert: 
 
-- aa) In Satz 1 werden die Worte „Die Modulverantwortliche oder“ durch die Worte „Die bzw.“ ersetzt. 
+   - aa) In Satz 1 werden die Worte „Die Modulverantwortliche oder“ durch die Worte „Die bzw.“ ersetzt. 
 
-- bb) Im Klammerzusatz werden nach der Zahl „2“ das Wort „Satz“ und die Zahl „3“ eingefügt. 
+   - bb) Im Klammerzusatz werden nach der Zahl „2“ das Wort „Satz“ und die Zahl „3“ eingefügt. 
 
 18. § 19 wird wie folgt geändert: 
 
-- a) In Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+a) In Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
 b) In Abs. 4 Satz 2 werden die Worte „und Abs. 2“ gestrichen. 
 
@@ -330,17 +330,17 @@ a) Abs. 1 wird wie folgt geändert:
 
 aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-      - bb) Nach den Worten „Einsicht in ihre“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+   - bb) Nach den Worten „Einsicht in ihre“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach den Worten „Notenbekanntgabe bei“ die Worte „der bzw.“ eingefügt. 
+   - aa) In Satz 1 werden nach den Worten „Notenbekanntgabe bei“ die Worte „der bzw.“ eingefügt. 
 
-      - bb) In Satz 2 werden die Worte „Prüferin oder den Prüfer“ durch die Worte „bzw. den Prüfenden“ ersetzt. 
+   - bb) In Satz 2 werden die Worte „Prüferin oder den Prüfer“ durch die Worte „bzw. den Prüfenden“ ersetzt. 
 
-20. § 23 wird wie folgt geändert: 
+# 20. § 23 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
 8 
 
@@ -360,25 +360,25 @@ aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt.
 
    - b) Abs. 3 Satz 4 wird wie folgt geändert: 
 
-aa) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
+      - aa) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-   - bb) Die Worte „Vorsitzende oder“ werden durch das Wort „bzw.“ ersetzt. 
+      - bb) Die Worte „Vorsitzende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-   - cc) Nach den Worten „Prüfungsausschusses ihr“, „Fachvertreterin“ und „Betreuerin“ wird jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - cc) Nach den Worten „Prüfungsausschusses ihr“, „Fachvertreterin“ und „Betreuerin“ wird jeweils das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-- c) Abs. 4 wird wie folgt geändert: 
+   - c) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-bb) Satz 4 wird wie folgt geändert: 
+      - bb) Satz 4 wird wie folgt geändert: 
 
-   - aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
+      - aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-   - bb) Nach den Worten „nach, dass sie“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) Nach den Worten „nach, dass sie“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-- d) Abs. 6 wird wie folgt geändert: 
+   - d) Abs. 6 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 bb) Satz 2 wird wie folgt geändert: 
 
@@ -416,7 +416,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 aa) Satz 3 erhält folgende neue Fassung: 
 
-„[1] Die Prüfungen der Grundlagen- und Orientierungsprüfung können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9 Satz 1.“ 
+„<sup>1</sup> Die Prüfungen der Grundlagen- und Orientierungsprüfung können nur einmal wiederholt werden; hinsichtlich der Wiederholung der Bachelorarbeit gilt § 27 Abs. 9 Satz 1.“ 
 
 bb) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
@@ -438,21 +438,21 @@ cc) Die bisherigen Sätze 5 bis 9 werden zu Sätzen 6 bis 10.
 
 bb) Satz 4 wird wie folgt geändert: 
 
-      - (1) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
+- (1) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-      - (2) Nach den Worten „legt sie“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- (2) Nach den Worten „legt sie“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - (3) Nach den Worten „eingebracht werden“ wird das Wort „soll“ durch das Wort „sollen“ ersetzt. 
+- (3) Nach den Worten „eingebracht werden“ wird das Wort „soll“ durch das Wort „sollen“ ersetzt. 
 
 25. § 29 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Nr. 1 werden die Worte „gleichwertigen Abschluss“ gestrichen sowie nach den Worten „vermittelten Kompetenzprofils“ die Worte „nicht wesentlich unterschiedlichen Abschluss“ eingefügt. 
+- a) In Abs. 1 Nr. 1 werden die Worte „gleichwertigen Abschluss“ gestrichen sowie nach den Worten „vermittelten Kompetenzprofils“ die Worte „nicht wesentlich unterschiedlichen Abschluss“ eingefügt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlich zu dem Abschluss der fachspezifischen Bachelorprüfung nach dieser Prüfungsordnung einschließlich der jeweiligen **Fachprüfungsordnung** sein.“ 
+„<sup>1</sup> Die Abschlüsse nach Abs. 1 Satz 1 Nr. 1 dürfen hinsichtlich des im jeweiligen Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlich zu dem Abschluss der fachspezifischen Bachelorprüfung nach dieser Prüfungsordnung einschließlich der jeweiligen **Fachprüfungsordnung** sein.“ 
 
 bb) Satz 2 wird wie folgt geändert: 
 
@@ -476,9 +476,9 @@ aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt.
 
 11 
 
-## b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-- aa) In Satz 2 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+   - aa) In Satz 2 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 bb) Satz 3 wird wie folgt geändert: 
 
@@ -568,21 +568,21 @@ hh) In Satz 9 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 - ii) In Satz 10 werden jeweils das Zeichen „/“ durch das Wort „bzw.“ ersetzt sowie nach den Worten „Kriterien der Prüfung“ die Worte „und deren Gewichtung“ eingefügt. 
 
-- jj) In Satz 12 wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
+jj) In Satz 12 wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
 kk) In Satz 13 wird nach den Worten „ist mit“ das Wort „einer“ eingefügt. 
 
 - d) Nach Abs. 5 wird folgender neuer Abs. 6 eingefügt: 
 
-„(6)[1] Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, die Prüfung in anderer Form abzulegen.“ 
+„(6)<sup>1</sup> Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, die Prüfung in anderer Form abzulegen.“ 
 
-   - e) Der bisherige Abs. 6 wird zu Abs. 7. 
+e) Der bisherige Abs. 6 wird zu Abs. 7. 
 
-   - f) In Abs. 7 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
+f) In Abs. 7 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
 31. § 6a und Anlage 1 werden in das Inhaltsverzeichnis aufgenommen; das Inhaltsverzeichnis wird angepasst. 
 
-**==> picture [20 x 12] intentionally omitted <==**
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 tritt die Änderung in der lfd. Nr. 4 b) ff) erst nach Änderung der die ABMPO/TechFak für den jeweiligen Studiengang ergänzenden **Fachprüfungsordnung** in Kraft. 
 

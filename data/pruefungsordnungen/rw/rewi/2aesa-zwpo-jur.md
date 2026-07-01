@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. März 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-ZwPO-Jur.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:28+00:00
-page_count_chars: 2623
+scraped_at: 2026-07-01T10:32:57+00:00
+page_count_chars: 2675
 ---
 
 # 11. März 2005
@@ -12,7 +12,7 @@ page_count_chars: 2623
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-ZwPO-Jur.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Zweite Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
+# **Zweite Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
 
 Vom 11. März 2005 
 
@@ -24,13 +24,13 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 ## 1. In § 7 wird folgender Absatz angefügt: 
 
-"(4)[1] Die Prüfungsleistungen sind in der Regel je von zwei Prüfern selbstständig zu bewerten.[2] Von der Bestellung eines zweiten Prüfers kann abgesehen werden, wenn 
+"(4)<sup>1</sup> Die Prüfungsleistungen sind in der Regel je von zwei Prüfern selbstständig zu bewerten.<sup>2</sup> Von der Bestellung eines zweiten Prüfers kann abgesehen werden, wenn 
 
 1. kein zweiter Prüfer zur Verfügung steht, 
 
 2. die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde. 
 
-3Wird eine Prüfungsleistung nach Maßgabe des § 8 mit „nicht bestanden“ bewertet, ist sie in jedem Fall von einem zweiten Prüfer zu bewerten.[4] Satz 2 gilt entsprechend für Wiederholungsprüfungen." 
+3Wird eine Prüfungsleistung nach Maßgabe des § 8 mit „nicht bestanden“ bewertet, ist sie in jedem Fall von einem zweiten Prüfer zu bewerten.<sup>4</sup> Satz 2 gilt entsprechend für Wiederholungsprüfungen." 
 
 2. § 8 erhält folgende Fassung: 
 
@@ -38,7 +38,7 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 ## **Bewertung von Prüfungsleistungen** 
 
-1Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern festgesetzt.[2] Die Prüfungsleistungen werden als „bestanden“ oder als „nicht bestanden“ bewertet.[3] Bestanden ist die Prüfung, wenn sie als mindestens „ausreichend“ im Sinn von § 1 der Verordnung des Bundesministers der Justiz über eine Noten- und Punkteskala für die Erste und Zweite Juristische Prüfung vom 3. Dezember 1982 (BGBl I S. 1243) in der jeweils geltenden Fassung einzustufen ist.[ 4] Bewertet einer der Prüfer die Prüfungsleistung mit „bestanden“, der andere jedoch mit „nicht bestanden“, ist die Prüfungsleistung dem Aufgabensteller zum Stichentscheid vorzulegen." 
+1Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern festgesetzt.<sup>2</sup> Die Prüfungsleistungen werden als „bestanden“ oder als „nicht bestanden“ bewertet.<sup>3</sup> Bestanden ist die Prüfung, wenn sie als mindestens „ausreichend“ im Sinn von § 1 der Verordnung des Bundesministers der Justiz über eine Noten- und Punkteskala für die Erste und Zweite Juristische Prüfung vom 3. Dezember 1982 (BGBl I S. 1243) in der jeweils geltenden Fassung einzustufen ist.<sup>4</sup> Bewertet einer der Prüfer die Prüfungsleistung mit „bestanden“, der andere jedoch mit „nicht bestanden“, ist die Prüfungsleistung dem Aufgabensteller zum Stichentscheid vorzulegen." 
 
 3. § 15 Abs. 1 Satz 2 wird gestrichen. 
 

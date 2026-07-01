@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES%20MA-WiPaed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:43:45+00:00
-page_count_chars: 3302
+scraped_at: 2026-07-01T11:07:38+00:00
+page_count_chars: 3320
 ---
 
 # 5. August 2011
@@ -12,17 +12,17 @@ page_count_chars: 3302
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AES%20MA-WiPaed.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspädagogik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. Dezember 2009, zuletzt geändert am 24. Februar 2010, wird wie folgt geändert: 
 
-1. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf Vollzeit, Studienplan Master Wirtschaftspädagogik Studienrichtung I wird wie folgt geändert: 
+1. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf <u>Vollzeit, Studienplan Master</u> Wirtschaftspädagogik Studienrichtung I wird wie folgt geändert: 
 
    - a) In Zeile 8 (Modul Schulpraktische Studien II) Spalte 5 wird die Zahl „5“ durch die Zahl „2,5“ und in Spalte 6 wird die Zahl „5“ durch die Zahl „7,5“ ersetzt. 
 
@@ -32,7 +32,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspäd
 
    - d) In Zeile 28 (ECTS) Spalte 5 wird die Zahl „30“ durch die Zahl „32,5“ und in Spalte 6 wird die Zahl „30“ durch die Zahl „27,5“ ersetzt. 
 
-2. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf Vollzeit, Studienplan Master Wirtschaftspädagogik Studienrichtung II wird wie folgt geändert: 
+2. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf <u>Vollzeit, Studienplan Master</u> Wirtschaftspädagogik Studienrichtung II wird wie folgt geändert: 
 
    - a) In Zeile 8 (Modul Schulpraktische Studien II) Spalte 5 wird die Zahl „5“ durch die Zahl „2,5“ und in Spalte 6 wird die Zahl „5“ durch die Zahl „7,5“ ersetzt. 
 
@@ -40,13 +40,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Wirtschaftspäd
 
    - c) In Zeile 17 (ECTS) Spalte 5 wird die Zahl „30“ durch die Zahl „32,5“ und in Spalte 6 wird die Zahl „30“ durch die Zahl „27,5“ ersetzt. 
 
-3. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf Teilzeit, Studienplan Master Wirtschaftspädagogik Studienrichtung I wird wie folgt geändert: 
+3. Die Tabelle in Anlage 1 Überblickstabelle Studienverlauf <u>Teilzeit, Studienplan Master</u> Wirtschaftspädagogik Studienrichtung I wird wie folgt geändert: 
 
 - a) In der Zeile 9 Spalte 1 werden nach den Worten „zu wählen“ ein „*“und unter die Tabelle folgende Fußnote angefügt: „*der Prüfungsausschuss kann weitere Pflichtwahlmodule genehmigen, die im Modulhandbuch veröffentlicht werden“. 
 
 - b) In Zeile 19 Spalte 1 werden die Worte „(Block bestehend aus 6 Modulen)“ gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. Oktober 2011 in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30."
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES%20BA-MA%20IuK_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:10:41+00:00
-page_count_chars: 5044
+scraped_at: 2026-07-01T11:31:19+00:00
+page_count_chars: 5074
 ---
 
 # 30.
@@ -12,13 +12,13 @@ page_count_chars: 5044
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES%20BA-MA%20IuK_1.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** 
 
-## Vom 30. Juli 2012 
+Vom 30. Juli 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 21. September 2007, zuletzt geändert durch Satzung vom 3. Februar 2012, wird wie folgt geändert: 
 
@@ -28,11 +28,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 a) In der Überschrift wird nach dem Wort „Regelstudienzeit“ ein Komma sowie das Wort „Sprache“ angefügt. 
 
-## b) Abs. 4 wird wie folgt ersetzt: 
+# b) Abs. 4 wird wie folgt ersetzt: 
 
-„(4)[1] Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.[2] Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[ 3] Bei 
-
-mündliche Prüfungen kann von der Regelung des Satz 2 im Einvernehmen mit dem Prüfling abgewichen werden. 
+„(4)<sup>1</sup> Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.<sup>2</sup> Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>3</sup> Bei mündliche Prüfungen kann von der Regelung des Satz 2 im Einvernehmen mit dem Prüfling abgewichen werden. 
 
 3. § 37 Abs. 5 wird wie folgt geändert: 
 
@@ -44,9 +42,9 @@ mündliche Prüfungen kann von der Regelung des Satz 2 im Einvernehmen mit dem P
 
 4. § 44 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden folgende neue Sätze 2 und 3 eingefügt: 
+a) In Abs. 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-      - „[2] Hinzu kommt in der Regel ein Forschungspraktikum an einem IuK-Lehrstuhl im Umfang von 5 ECTS-Punkten.[3] Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTS-Punkten zugelassen werden.“ 
+- „<sup>2</sup> Hinzu kommt in der Regel ein Forschungspraktikum an einem IuK-Lehrstuhl im Umfang von 5 ECTS-Punkten.<sup>3</sup> Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTS-Punkten zugelassen werden.“ 
 
 Der bisherige Satz 2 wird zum neuen Satz 4. 
 
@@ -70,11 +68,9 @@ ee) In Spalte 18 (Art und Umfang der Prüfungsleistungen) wird die Zahl „90“
 
 b) In Zeile 26 (Wahlmodule außerhalb der TechFAk) Spalte 11 (3.Sem./ECTS) wird die Zahl „7,5“ durch die Zahl „5“ ersetzt. 
 
-- c) In Zeile 29 (Bachelorarbeit) Spalte 2 (Name) werden nach dem Wort „Bachelorarbeit“ die Worte „mit Referat“ eingefügt und in Spalte 17 (6. Sem/ECTS) die Zahl „10“ durch die Zahl „12,5“ ersetzt sowie in Spalte 18 (Art und Umfang der Prüfungs- und Studienleistungen) die Buchstaben „PL“ durch die Buchstaben „Pfp“ ersetzt. 
+   - c) In Zeile 29 (Bachelorarbeit) Spalte 2 (Name) werden nach dem Wort „Bachelorarbeit“ die Worte „mit Referat“ eingefügt und in Spalte 17 (6. Sem/ECTS) die Zahl „10“ durch die Zahl „12,5“ ersetzt sowie in Spalte 18 (Art und Umfang der Prüfungs- und Studienleistungen) die Buchstaben „PL“ durch die Buchstaben „Pfp“ ersetzt. 
 
-- d) 
-
-      - Zeile 30 (Referat zur Bachelorarbeit) wird ersatzlos gestrichen. 
+   - d) Zeile 30 (Referat zur Bachelorarbeit) wird ersatzlos gestrichen. 
 
    - e) In Zeile 31 (berufspraktische Tätigkeit) Spalte 1 (Nr.) wird die Zahl „28“ durch die Zahl „27“ sowie in Spalte 2 (Name) die Zahl „6“ durch die Zahl „8“ ersetzt. 
 
@@ -88,7 +84,7 @@ b) In Zeile 26 (Wahlmodule außerhalb der TechFAk) Spalte 11 (3.Sem./ECTS) wird 
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt ab dem Wintersemester 2012/13.[2] Wer das Modul „Nachrichtentechnische Systeme“ mit 5 ECTS-Punkten abgelegt hat, legt abweichend von Satz 1 Wahlmodule außerhalb der technischen Fakultät im Umfang von 7,5 ECTS-Punkten ab. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt ab dem Wintersemester 2012/13.<sup>2</sup> Wer das Modul „Nachrichtentechnische Systeme“ mit 5 ECTS-Punkten abgelegt hat, legt abweichend von Satz 1 Wahlmodule außerhalb der technischen Fakultät im Umfang von 7,5 ECTS-Punkten ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 20. Juli 2012 und der Genehmigungsfeststellung des Präsidenten vom 30. Juli 2012. 
 

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:48:30+00:00
+scraped_at: 2026-07-01T08:25:21+00:00
 ---
 
 # Materialwissenschaft und Werkstofftechnik (B.Sc.)
@@ -39,7 +39,7 @@ Es geht in diesem Studienfach um Materialien, die zur Fertigung von Produkten mi
 
 Aufbauend auf dem Grundwissen der Mathematik, Physik und Chemie werden im Studium die Zusammenhänge zwischen Rohstoffgewinnung, Verarbeitung, Aufbau und Eigenschaften der Materialien vermittelt. Dabei legt das Wissen um den atomaren Aufbau der Materialien die Grundlage für das fertige Bauteil.
 
-### Bachelor of Science Materialwissenschaft und Werkstofftechnik
+### Fachanteile des Studiengangs Materialwissenschaft und Werkstofftechnik (B.Sc.)
 
 * Werkstoffwissenschaften (66%)
 * Mathematik (22%)

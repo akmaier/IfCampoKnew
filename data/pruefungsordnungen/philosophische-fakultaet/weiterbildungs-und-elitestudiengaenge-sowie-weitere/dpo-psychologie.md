@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.07.1982 i.d.F. 20.08.2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/DPO_Psychologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:13+00:00
-page_count_chars: 37619
+scraped_at: 2026-07-01T10:11:38+00:00
+page_count_chars: 38788
 ---
 
 # PDF vom 23.07.1982 i.d.F. 20.08.2003
@@ -18,9 +18,9 @@ page_count_chars: 37619
 
 Diese Prüfungsordnung gilt weiterhin für Studierende, die **vor** dem WS 2007/08 das Studium der Psychologie aufgenommen haben. 
 
-Für Studierende, die **ab** WS 2007/08 das Studium der Psychologie aufnehmen, gilt - die **BMStPO/PSL** (http://www.uni erlangen.de/universitaet/organisation/recht/ Studiensatzungen/PHIL1/PrOStuO-BA-MA_Psycho.pdf). 
+Für Studierende, die **ab** WS 2007/08 das Studium der Psychologie aufnehmen, gilt - die **BMStPO/PSL** <u>(http://www.uni erlangen.de/universitaet/organisation/recht/ Studiensatzungen/PHIL1/PrOStuO-BA-MA_Psycho.pdf).</u> 
 
-## **Diplomprüfungsordnung für Studenten der Psychologie an der Friedrich-Alexander Universität Erlangen-Nürnberg Vom 23. Juli 1982** (KMBl II S. 735) 
+# **Diplomprüfungsordnung für Studenten der Psychologie an der Friedrich-Alexander Universität Erlangen-Nürnberg Vom 23. Juli 1982** (KMBl II S. 735) 
 
 geändert durch Satzungen vom 17. Juli 1985 (KMBl II S. 268) 28. Juli 1988 (KWMBl II S. 219) 17. Juni 1991 (KWMBl II S. 518) 
 
@@ -40,7 +40,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Zweck der Prüfung** 
 
-(1)[1] Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Psychologie.[2] Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
+(1)<sup>1</sup> Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Psychologie.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
 
 1 
 
@@ -56,7 +56,7 @@ Nach bestandener Diplomprüfung wird der Grad eines Diplom-Psychologen Univ. bez
 
 ## **Studiendauer, Gliederung des Studiums und der Prüfungen** 
 
-(1)[1] Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 156 Semesterwochenstunden, verteilt auf acht Fachsemester.[2] Die Regelstudienzeit einschließlich der berufspraktischen Tätigkeit (vgl. § 25 Abs. 1 Nr. 5) und der Prüfungen beträgt neun Semester. 
+(1)<sup>1</sup> Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 156 Semesterwochenstunden, verteilt auf acht Fachsemester.<sup>2</sup> Die Regelstudienzeit einschließlich der berufspraktischen Tätigkeit (vgl. § 25 Abs. 1 Nr. 5) und der Prüfungen beträgt neun Semester. 
 
 (2) Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplomvorprüfung abschließt und ein anschließendes Hauptstudium, das mit der Diplomprüfung abschließt. 
 
@@ -66,13 +66,13 @@ Nach bestandener Diplomprüfung wird der Grad eines Diplom-Psychologen Univ. bez
 
 ## **Prüfungstermine, Melde- und Prüfungsfristen** 
 
-(1)[1] Die Diplomvorprüfung soll in der Regel im Prüfungstermin am Ende des vierten Fachsemesters abgelegt werden.[2] Der Student soll sich so rechtzeitig und ordnungsgemäß zu dieser Prüfung melden, dass er sie zu dem in Satz 1 bestimmten Termin ablegen kann. 
+(1)<sup>1</sup> Die Diplomvorprüfung soll in der Regel im Prüfungstermin am Ende des vierten Fachsemesters abgelegt werden.<sup>2</sup> Der Student soll sich so rechtzeitig und ordnungsgemäß zu dieser Prüfung melden, dass er sie zu dem in Satz 1 bestimmten Termin ablegen kann. 
 
-(2)[1] Die Diplomprüfung einschließlich der Diplomarbeit soll in der Regel bis zum Ende des neunten Fachsemesters abgelegt werden.[2] Der Student soll sich so rechtzeitig und ordnungsgemäß zur Diplomprüfung melden, dass er die Diplomarbeit und die Fachprüfungen bis zum Ende des neunten Fachsemesters ablegen kann. 
+(2)<sup>1</sup> Die Diplomprüfung einschließlich der Diplomarbeit soll in der Regel bis zum Ende des neunten Fachsemesters abgelegt werden.<sup>2</sup> Der Student soll sich so rechtzeitig und ordnungsgemäß zur Diplomprüfung melden, dass er die Diplomarbeit und die Fachprüfungen bis zum Ende des neunten Fachsemesters ablegen kann. 
 
-(3)[1] Meldefristen und Prüfungstermine werden gemäß § 8 bekannt gegeben.[2] Der Student kann die Prüfungen vorzeitig ablegen, wenn er die Zulassungsvoraussetzungen erfüllt. 
+(3)<sup>1</sup> Meldefristen und Prüfungstermine werden gemäß § 8 bekannt gegeben.<sup>2</sup> Der Student kann die Prüfungen vorzeitig ablegen, wenn er die Zulassungsvoraussetzungen erfüllt. 
 
-(4)[1] Der Student kann die in Absatz 1 und Absatz 2 bestimmten Termine verschieben.[2] Überschreitet ein Student aus Gründen, die er zu vertreten hat, die Frist innerhalb welcher gemäß Absätze 1 oder 2 die Meldung zur Prüfung oder die Ablegung der Prüfung erfolgen soll, bei der Diplomvorprüfung um mehr als ein oder bei der Diplomprüfung um mehr als vier Semester, so gilt diese Prüfung als abgelegt und erstmals nicht bestanden.[3] Bei der Diplomprüfung gilt dabei nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil (Diplomarbeit beziehungsweise Fachprüfungen) als abgelegt und erstmals nicht bestanden. 4Die Überschreitungsfristen verlängern sich um die nach dieser Prüfungsordnung für die Wiederholung von Prüfungen benötigten Semester.[5] Nach § 9 angerechnete Studienzeiten sind auf die Fristen anzurechnen.[6] Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutter- 
+(4)<sup>1</sup> Der Student kann die in Absatz 1 und Absatz 2 bestimmten Termine verschieben.<sup>2</sup> Überschreitet ein Student aus Gründen, die er zu vertreten hat, die Frist innerhalb welcher gemäß Absätze 1 oder 2 die Meldung zur Prüfung oder die Ablegung der Prüfung erfolgen soll, bei der Diplomvorprüfung um mehr als ein oder bei der Diplomprüfung um mehr als vier Semester, so gilt diese Prüfung als abgelegt und erstmals nicht bestanden.<sup>3</sup> Bei der Diplomprüfung gilt dabei nur der jeweils nicht rechtzeitig abgelegte oder nicht mehr rechtzeitig ablegbare Prüfungsteil (Diplomarbeit beziehungsweise Fachprüfungen) als abgelegt und erstmals nicht bestanden. 4Die Überschreitungsfristen verlängern sich um die nach dieser Prüfungsordnung für die Wiederholung von Prüfungen benötigten Semester.<sup>5</sup> Nach § 9 angerechnete Studienzeiten sind auf die Fristen anzurechnen.<sup>6</sup> Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutter- 
 
 2 
 
@@ -84,19 +84,19 @@ schutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach A
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Durchführung der Prüfungen im Diplomstudiengang Psychologie wird ein Prüfungsausschuss eingesetzt.[2] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.[3] Der Prüfungsausschuss besteht aus fünf Mitgliedern. 
+(1)<sup>1</sup> Für die Durchführung der Prüfungen im Diplomstudiengang Psychologie wird ein Prüfungsausschuss eingesetzt.<sup>2</sup> Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.<sup>3</sup> Der Prüfungsausschuss besteht aus fünf Mitgliedern. 
 
-(2)[1] Der Vorsitzende, sein Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses werden vom Fachbereichsrat auf Vorschlag der Fachvertreter gewählt. 2Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität Erlangen-Nürnberg gewählt werden.[3] Mindestens drei Mitglieder müssen Professoren sein. 
+(2)<sup>1</sup> Der Vorsitzende, sein Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses werden vom Fachbereichsrat auf Vorschlag der Fachvertreter gewählt. 2Zu Mitgliedern des Prüfungsausschusses können nur prüfungsberechtigte Mitglieder der Universität Erlangen-Nürnberg gewählt werden.<sup>3</sup> Mindestens drei Mitglieder müssen Professoren sein. 
 
-(3)[1] Die Amtszeit der Mitglieder beträgt drei Jahre.[2] Eine Wiederbestellung ist möglich. 
+(3)<sup>1</sup> Die Amtszeit der Mitglieder beträgt drei Jahre.<sup>2</sup> Eine Wiederbestellung ist möglich. 
 
 (4) Das akademische Prüfungsamt unterstützt den Vorsitzenden des Prüfungsausschusses bei der Organisation und Durchführung der Prüfung. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder ordnungsgemäß unter Einhaltung einer mindestens dreitägigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.[4] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
+(5)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder ordnungsgemäß unter Einhaltung einer mindestens dreitägigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.<sup>4</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig. 
 
-(6)[1] Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
+(6)<sup>1</sup> Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
 
-(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.[2] Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Widerspruchsbescheide werden vom Rektor im Benehmen mit dem Prüfungsausschuss und den zuständigen Prüfern erlassen.[4] ( _gegenstandslos_ ) 
+(7)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.<sup>3</sup> Widerspruchsbescheide werden vom Rektor im Benehmen mit dem Prüfungsausschuss und den zuständigen Prüfern erlassen.<sup>4</sup> ( _gegenstandslos_ ) 
 
 3 
 
@@ -104,11 +104,11 @@ schutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach A
 
 ## **Prüfer und Beisitzer** 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.[2] Für die Bestellung der Prüfer hat der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüfer besteht nicht. 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer und die Beisitzer.<sup>2</sup> Für die Bestellung der Prüfer hat der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüfer besteht nicht. 
 
-(2)[1] Zum Prüfer können alle Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte, weitere Personen bestellt werden.[2] Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung bestanden hat. 
+(2)<sup>1</sup> Zum Prüfer können alle Hochschullehrer sowie nach der Hochschulprüferverordnung (BayRS2210-1-1-6-WFK) in der jeweils geltenden Fassung zur Abnahme von Hochschulprüfungen befugte, weitere Personen bestellt werden.<sup>2</sup> Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine vergleichbare Prüfung bestanden hat. 
 
-(3)[1] Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.[2] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel solange erhalten, bis die von ihm in dem entsprechenden Prüfungsfach ausgebildeten Studenten gemäß den in § 4 Abs. 1 genannten Fristen zur Prüfung anstehen. 
+(3)<sup>1</sup> Die Bestellung zu Prüfern soll in geeigneter Form bekannt gegeben werden.<sup>2</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.<sup>3</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel solange erhalten, bis die von ihm in dem entsprechenden Prüfungsfach ausgebildeten Studenten gemäß den in § 4 Abs. 1 genannten Fristen zur Prüfung anstehen. 
 
 ## **§ 7** 
 
@@ -126,35 +126,35 @@ schutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach A
 
 (2) Der Prüfungsbeginn ist vom Vorsitzenden des Prüfungsausschusses mit Angabe der Meldefrist für die Bewerber spätestens zwei Monate vorher, jedenfalls noch während der Vorlesungszeit, durch Aushang bekannt zu geben. 
 
-(3)[1] Die zur Prüfung zugelassenen Kandidaten sind unter Angaben der einzelnen Prüfer und der Prüfungsräume spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden.[2] Ein kurzfristig aus zwingenden Gründen notwendiger Wechsel des Prüfers oder Prüfungsorts ist zulässig. 
+(3)<sup>1</sup> Die zur Prüfung zugelassenen Kandidaten sind unter Angaben der einzelnen Prüfer und der Prüfungsräume spätestens eine Woche vor dem Termin der Prüfung schriftlich zu laden.<sup>2</sup> Ein kurzfristig aus zwingenden Gründen notwendiger Wechsel des Prüfers oder Prüfungsorts ist zulässig. 
 
 ## **§ 9** 
 
 ## **Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen** 
 
-(1)[1] Studienzeiten, Studienleistungen und Diplomvorprüfungen in demselben oder in einem verwandten, dem Grundstudium gleichen Studiengang an einer anderen Universität oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt.[2] Dies gilt auch für bestandene selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prü- 
+(1)<sup>1</sup> Studienzeiten, Studienleistungen und Diplomvorprüfungen in demselben oder in einem verwandten, dem Grundstudium gleichen Studiengang an einer anderen Universität oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt.<sup>2</sup> Dies gilt auch für bestandene selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prü- 
 
 4 
 
-fung als nicht bestanden gewertet wurde.[3] Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfungen der Diplomvorprüfung werden nicht anerkannt. 4Soweit die Diplomvorprüfung Fächer nicht enthält, die an der Universität ErlangenNürnberg Gegenstand der Diplomvorprüfung, nicht aber der Diplomprüfung sind, ist eine Anerkennung unter Bedingungen möglich.[5] Als dieselben Studiengänge gelten nur solche, die derselben Rahmenordnung unterliegen. 
+fung als nicht bestanden gewertet wurde.<sup>3</sup> Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfungen der Diplomvorprüfung werden nicht anerkannt. 4Soweit die Diplomvorprüfung Fächer nicht enthält, die an der Universität ErlangenNürnberg Gegenstand der Diplomvorprüfung, nicht aber der Diplomprüfung sind, ist eine Anerkennung unter Bedingungen möglich.<sup>5</sup> Als dieselben Studiengänge gelten nur solche, die derselben Rahmenordnung unterliegen. 
 
-(2)[1] Studienzeiten, Studienleistungen und Diplomvorprüfungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.[2] Dies gilt auch für bestandene selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prüfung als nicht bestanden gewertet wurde.[3] Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfungen der Diplomvorprüfungen in anderen Studiengängen können dabei in begründeten Einzelfällen nur angerechnet werden, wenn die Vorschriften dieser Prüfungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancengleichheit nicht verletzt wird.[4] Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 
+(2)<sup>1</sup> Studienzeiten, Studienleistungen und Diplomvorprüfungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.<sup>2</sup> Dies gilt auch für bestandene selbständige Diplomvorprüfungsabschnitte, sofern nicht die ganze Prüfung als nicht bestanden gewertet wurde.<sup>3</sup> Teile eines selbständigen Prüfungsabschnitts oder Einzelfachprüfungen der Diplomvorprüfungen in anderen Studiengängen können dabei in begründeten Einzelfällen nur angerechnet werden, wenn die Vorschriften dieser Prüfungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancengleichheit nicht verletzt wird.<sup>4</sup> Die Anerkennung kann von Bedingungen abhängig gemacht werden, wenn zu einzelnen Prüfungsfächern keine volle Gleichwertigkeit nachgewiesen ist. 
 
 (3) Anstelle der Diplomvorprüfung können in begründeten Ausnahmefällen andere Prüfungsleistungen angerechnet werden, soweit die Gleichwertigkeit nachgewiesen wird. 
 
-(4)[1] Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums der Psychologie an der Universität Erlangen-Nürnberg im Wesentlichen entsprechen. 2Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.[3] Bei der Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereichs des Hochschulrahmengesetzes erbracht wurden, sind die von der KMK und der WRK[1)] gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften zu beachten.[4] Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.[5] Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen oder der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
+(4)<sup>1</sup> Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums der Psychologie an der Universität Erlangen-Nürnberg im Wesentlichen entsprechen. 2Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.<sup>3</sup> Bei der Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereichs des Hochschulrahmengesetzes erbracht wurden, sind die von der KMK und der WRK<sup>1)</sup> gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften zu beachten.<sup>4</sup> Soweit Äquivalenzvereinbarungen nicht vorliegen, entscheidet der Prüfungsausschuss.<sup>5</sup> Im Übrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen oder der Ständigen Konferenz der Kultusminister der Länder gehört werden. 
 
 (5) Studienzeiten, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien werden, soweit sie gleichwertig sind, entsprechend angerechnet beziehungsweise anerkannt. 
 
 (6) Studienzeiten an Fachhochschulen und dabei erbrachte Studien- und Prüfungsleistungen werden angerechnet beziehungsweise anerkannt, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
 
-(7)[1] Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 14 gebildet wurden. 2Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.[3] Entspricht das Notensystem der angerechneten Prüfung § 14 nicht, wird in das Zeugnis nur ein Vermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.[4] Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung gemäß § 14 
+(7)<sup>1</sup> Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie entsprechend § 14 gebildet wurden. 2Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt.<sup>3</sup> Entspricht das Notensystem der angerechneten Prüfung § 14 nicht, wird in das Zeugnis nur ein Vermerk "bestanden" und beim Gesamturteil der Vermerk "mit Erfolg abgelegt" aufgenommen.<sup>4</sup> Eine Notenwiedergabe in angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung gemäß § 14 
 
 5 
 
-Abs. 2 erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung (§ 9) beigegeben. 
+Abs. 2 erfolgen nicht.<sup>5</sup> In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsordnung (§ 9) beigegeben. 
 
-(8)[1] Die Entscheidung trifft der Vorsitzende des Prüfungsausschusses, in den Fällen gemäß den Absätzen 2 bis 6 jedoch nur auf Antrag.[2] Der Antrag ist unter Beifügung der entsprechenden Unterlagen an den Vorsitzenden des Prüfungsausschusses zu richten; dies soll bereits bei Beginn des Studiums geschehen. 
+(8)<sup>1</sup> Die Entscheidung trifft der Vorsitzende des Prüfungsausschusses, in den Fällen gemäß den Absätzen 2 bis 6 jedoch nur auf Antrag.<sup>2</sup> Der Antrag ist unter Beifügung der entsprechenden Unterlagen an den Vorsitzenden des Prüfungsausschusses zu richten; dies soll bereits bei Beginn des Studiums geschehen. 
 
 > 1) _jetzt: Hochschulrektorenkonferenz_ 
 
@@ -164,19 +164,19 @@ Abs. 2 erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser 
 
 (1) Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt. 
 
-(2)[1] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Dieser kann bei Krankheit die Vorlage eines ärztlichen Attestes verlangen.[3] Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
+(2)<sup>1</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Dieser kann bei Krankheit die Vorlage eines ärztlichen Attestes verlangen.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
 
-(3)[1] Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits abgelegten Fächern angerechnet.[2] Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
+(3)<sup>1</sup> Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits abgelegten Fächern angerechnet.<sup>2</sup> Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
 
 (4) Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
 
-(5)[1] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden. 2In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
+(5)<sup>1</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden. 2In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungsausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen. 
 
 ## **§ 11** 
 
 ## **Mängel im Prüfungsverfahren** 
 
-(1)[1] Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.[2] Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend gemacht werden. 
+(1)<sup>1</sup> Erweist sich, dass das Prüfungsverfahren mit Mängeln behaftet war, die das Prüfungsergebnis beeinflusst haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, dass von einem bestimmten oder von allen Kandidaten die Prüfung oder einzelne Teile derselben wiederholt werden.<sup>2</sup> Die Mängel müssen unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend gemacht werden. 
 
 (2) Sechs Monate nach Abschluss der Prüfung dürfen von Amts wegen Anordnungen nach Absatz 1 nicht mehr getroffen werden. 
 
@@ -192,17 +192,17 @@ Abs. 2 erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser 
 
 (2) Zu jeder mündlichen Prüfung ist ein Beisitzer hinzuzuziehen. 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.[2] Prüfer und Beisitzer unterzeichnen das Protokoll.[3] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Prüfer und Beisitzer unterzeichnen das Protokoll.<sup>3</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
 (4) Der Vorsitzende des Prüfungsausschusses und sein Stellvertreter haben das Recht, der Prüfung beizuwohnen. 
 
-(5)[1] Bei mündlichen Prüfungen werden Studenten, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeit als Zuhörer zugelassen. 2Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
+(5)<sup>1</sup> Bei mündlichen Prüfungen werden Studenten, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeit als Zuhörer zugelassen. 2Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
 
 (6) Die Beratung und die Bekanntgabe des Prüfungsergebnisses erfolgen unter Ausschluss der Öffentlichkeit. 
 
 ## **§ 14** 
 
-**Bewertung der einzelnen Teilprüfungen und Bildung der Prüfungsgesamtnote** (1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
+**Bewertung der einzelnen Teilprüfungen und Bildung der Prüfungsgesamtnote** (1)<sup>1</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
 
 - 1 = sehr gut = eine hervorragende Leistung; eine Leistung, die erheblich über den durchschnittlichen Anforde- 
 
@@ -214,9 +214,9 @@ Abs. 2 erfolgen nicht.[5] In diesem Fall wird dem Zeugnis ein Auszug aus dieser 
 
 - 5 = nicht ausreichend = nicht mehr genügt. 
 
-2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise erhöht werden.[3] Die Noten 0,7, 4,3 und 5,3 sind ausgeschlossen.[4] Eine Prüfungsleistung ist dann bestanden, wenn sie mindestens mit der Note "ausreichend" (4,0) bewertet wurde. 
+2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise erhöht werden.<sup>3</sup> Die Noten 0,7, 4,3 und 5,3 sind ausgeschlossen.<sup>4</sup> Eine Prüfungsleistung ist dann bestanden, wenn sie mindestens mit der Note "ausreichend" (4,0) bewertet wurde. 
 
-(2)[1] Die Prüfungsgesamtnote errechnet sich bei der Diplomvorprüfung aus dem Mittel der Noten in den Prüfungsfächern, bei der Diplomprüfung aus dem Mittel der doppelt gewichteten Diplomarbeit und den nicht gewichteten Noten in den Prüfungsfächern. 2Die Gesamtnote einer bestandenen Prüfung lautet: 
+(2)<sup>1</sup> Die Prüfungsgesamtnote errechnet sich bei der Diplomvorprüfung aus dem Mittel der Noten in den Prüfungsfächern, bei der Diplomprüfung aus dem Mittel der doppelt gewichteten Diplomarbeit und den nicht gewichteten Noten in den Prüfungsfächern. 2Die Gesamtnote einer bestandenen Prüfung lautet: 
 
 7 
 
@@ -230,11 +230,11 @@ bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
 (1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+(2)<sup>1</sup> Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.[2] Eine Entscheidung nach Absatz 1 und 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.<sup>2</sup> Eine Entscheidung nach Absatz 1 und 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
 ## **§ 16** 
 
@@ -242,7 +242,7 @@ bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt über 1,5 bis 2
 
 (1) Nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfer und in die Prüfungsprotokolle gewährt. 
 
-(2)[1] Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen.[2] Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.[3] Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen.<sup>2</sup> Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.<sup>3</sup> Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 17** 
 
@@ -256,7 +256,7 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht 
 
 (1) Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, dass er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat der Vorsitzende des Prüfungsausschusses dem Kandidaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen. 
 
-(2)[1] Entscheidungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin getroffen.[2] Bei Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen. 
+(2)<sup>1</sup> Entscheidungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin getroffen.<sup>2</sup> Bei Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen. 
 
 ## **Zweiter Teil: Besondere Vorschriften** 
 
@@ -316,7 +316,7 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 ## **Umfang der Diplomvorprüfung** 
 
-- (1)[1] Die Diplomvorprüfung besteht aus Prüfungen in folgenden Fächern: 
+- (1)<sup>1</sup> Die Diplomvorprüfung besteht aus Prüfungen in folgenden Fächern: 
 
 1. Allgemeine Psychologie I 
 
@@ -340,7 +340,7 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 ## **§ 21** 
 
-## **(** _**aufgehoben**_ **)** 
+## **(** **_aufgehoben_ )** 
 
 ## **§ 22** 
 
@@ -358,13 +358,13 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 ## **Wiederholung der Diplomvorprüfung** 
 
-(1)[1] Ist die Diplomvorprüfung nicht bestanden oder ist § 10 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet wurden, wiederholt werden. 2Gilt die Diplomvorprüfung gemäß § 4 Abs. 2 als nicht bestanden, ist sie insgesamt zu wiederholen. 
+(1)<sup>1</sup> Ist die Diplomvorprüfung nicht bestanden oder ist § 10 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet wurden, wiederholt werden. 2Gilt die Diplomvorprüfung gemäß § 4 Abs. 2 als nicht bestanden, ist sie insgesamt zu wiederholen. 
 
 (2) Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung ist nicht zulässig. 
 
-(3)[1] Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt werden.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[3] § 4 Abs. 4 Satz 6 gilt entsprechend. 4Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
+(3)<sup>1</sup> Die Wiederholungsprüfung muss spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt werden.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>3</sup> § 4 Abs. 4 Satz 6 gilt entsprechend. 4Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
 
-(4)[1] Eine zweite Wiederholung der Diplomvorprüfung ist nur möglich, wenn der Kandidat in der Wiederholungsprüfung in nicht mehr als zwei Prüfungsfächern nicht ausreichende Leistungen hatte.[2] Absatz 3 gilt entsprechend. 
+(4)<sup>1</sup> Eine zweite Wiederholung der Diplomvorprüfung ist nur möglich, wenn der Kandidat in der Wiederholungsprüfung in nicht mehr als zwei Prüfungsfächern nicht ausreichende Leistungen hatte.<sup>2</sup> Absatz 3 gilt entsprechend. 
 
 (5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung. 
 
@@ -372,11 +372,11 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 ## **Prüfungszeugnis** 
 
-(1)[1] Über die bestandene Vorprüfung ist ein Zeugnis auszustellen.[2] Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+(1)<sup>1</sup> Über die bestandene Vorprüfung ist ein Zeugnis auszustellen.<sup>2</sup> Hierbei soll eine Frist von vier Wochen eingehalten werden. 
 
 (2) Das Zeugnis enthält die Noten der einzelnen Prüfungsfächer, die Namen der Prüfer und die Prüfungsgesamtnote. 
 
-(3)[1] Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
+(3)<sup>1</sup> Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen. 2Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
 
 ## **Zweiter Abschnitt: Diplomprüfung** 
 
@@ -410,7 +410,7 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 5. den Nachweis über eine erfolgreiche praktisch-psychologische Tätigkeit von je sechs Wochen Mindestdauer an wenigstens zwei ihrer Art nach hinreichend verschiedenen Stellen, die vom Prüfungsausschuss als geeignet befunden worden sind. Auf begründeten Antrag kann anstelle der beiden Praktika gemäß Satz 1 ein zusammenhängendes Praktikum von 12 Wochen genehmigt werden. Die Praktika sind nach dem Bestehen der Diplomvorprüfung zu absolvieren; Ausnahmen bedürfen der Genehmigung des Prüfungsausschusses. 
 
-- (2) Dem Antrag auf Zulassung sind beizufügen: 
+(2) Dem Antrag auf Zulassung sind beizufügen: 
 
 1. Die Unterlagen gemäß Absatz 1 und 
 
@@ -434,7 +434,7 @@ Für die erfolgreiche Teilnahme an diesen Lehrveranstaltungen werden von dem fü
 
 ## **Gliederung der Diplomprüfung** 
 
-1Die Diplomprüfung wird in einem Abschnitt durchgeführt. 2Die Diplomarbeit muss spätestens mit der Meldung zur Diplomprüfung abgegeben werden.[3] In begründeten Ausnahmefällen kann der Prüfungsausschuss auf Antrag genehmigen, die Diplomarbeit erst nach der mündlichen Prüfung vorzulegen. 
+1Die Diplomprüfung wird in einem Abschnitt durchgeführt. 2Die Diplomarbeit muss spätestens mit der Meldung zur Diplomprüfung abgegeben werden.<sup>3</sup> In begründeten Ausnahmefällen kann der Prüfungsausschuss auf Antrag genehmigen, die Diplomarbeit erst nach der mündlichen Prüfung vorzulegen. 
 
 ## **§ 27 Umfang und Durchführung der Diplomprüfung** 
 
@@ -460,7 +460,7 @@ sowie
 
 4. einer mündlichen Prüfung in einem der Psychologie benachbarten Fach. 
 
-(2)[1] Der Psychologie benachbarte Fächer im Sinne von Absatz 1 Satz 1 Nr. 4 sind Betriebswirtschaftslehre, Biologie, Forensische Psychiatrie, Humangenetik, Informatik, Kriminologie, Marketing, Pädagogik, Philosophie, Physiologie, Psychiatrie, Soziologie, Volkswirtschaftslehre, Wirtschaftsinformatik.[2] Auf begründeten Antrag kann der Prüfungsausschuss die Wahl weiterer an der Universität Erlangen-Nürnberg durch mindestens einen Professor vertretener Fächer genehmigen.[3] Die Prüfungsanforderungen haben einem Stoffumfang von acht Semesterwochenstunden zu entsprechen. 
+(2)<sup>1</sup> Der Psychologie benachbarte Fächer im Sinne von Absatz 1 Satz 1 Nr. 4 sind Betriebswirtschaftslehre, Biologie, Forensische Psychiatrie, Humangenetik, Informatik, Kriminologie, Marketing, Pädagogik, Philosophie, Physiologie, Psychiatrie, Soziologie, Volkswirtschaftslehre, Wirtschaftsinformatik.<sup>2</sup> Auf begründeten Antrag kann der Prüfungsausschuss die Wahl weiterer an der Universität Erlangen-Nürnberg durch mindestens einen Professor vertretener Fächer genehmigen.<sup>3</sup> Die Prüfungsanforderungen haben einem Stoffumfang von acht Semesterwochenstunden zu entsprechen. 
 
 (3) Mögliche Vertiefungsfächer gemäß Absatz 1 Satz 1 Nr. 2 Buchst. d) sind: 
 
@@ -470,7 +470,7 @@ sowie
 
 - Gerontopsychologie 
 
-- Handlungs- und Kulturpsychologie[1) ] sowie 
+- Handlungs- und Kulturpsychologie<sup>1)</sup> sowie 
 
 - Rechtspsychologie. 
 
@@ -480,25 +480,25 @@ ______________________________
 
 **§ 28 Diplomarbeit** 
 
-(1)[1] Die Diplomarbeit ist eine Prüfungsarbeit.[2] Sie soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist eine Fragestellung aus der Psychologie selbständig nach wissenschaftlichen Methoden zu bearbeiten. 
+(1)<sup>1</sup> Die Diplomarbeit ist eine Prüfungsarbeit.<sup>2</sup> Sie soll zeigen, dass der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist eine Fragestellung aus der Psychologie selbständig nach wissenschaftlichen Methoden zu bearbeiten. 
 
 (2) Die Diplomarbeit darf in Ausnahmefällen mit Zustimmung des Prüfungsausschusses außerhalb der Fakultät ausgeführt werden, sofern eine prüfungsberechtigte Person bei Vergabe der Arbeit schriftlich ihr Einverständnis erklärt, das Zweitgutachten gemäß Absatz 8 zu übernehmen. 
 
 (3) Eine Ausgabe des Themas der Diplomarbeit vor Zulassung des Kandidaten zur Diplomprüfung bedeutet keine Entscheidung über die Prüfungszulassung. 
 
-(4)[1] Die Ausgabe des Themas der Diplomarbeit erfolgt durch einen Prüfungsberechtigen über den Vorsitzenden des Prüfungsausschusses.[2] Der Ausgabetag ist aktenkundig zu machen.[3] Auf Antrag des Kandidaten sorgt der Vorsitzende dafür, dass er ein Thema für eine Diplomarbeit erhält. 
+(4)<sup>1</sup> Die Ausgabe des Themas der Diplomarbeit erfolgt durch einen Prüfungsberechtigen über den Vorsitzenden des Prüfungsausschusses.<sup>2</sup> Der Ausgabetag ist aktenkundig zu machen.<sup>3</sup> Auf Antrag des Kandidaten sorgt der Vorsitzende dafür, dass er ein Thema für eine Diplomarbeit erhält. 
 
 (5) Das Thema kann nur einmal, nur aus triftigen Gründen, mit Einwilligung des Vorsitzenden des Prüfungsausschusses und nur innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden. 
 
-(6)[1] Die Bearbeitungszeit für die Diplomarbeit darf sechs Monate nicht überschreiten. 2Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.[3] Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit ausnahmsweise um höchstens drei Monate verlängert werden.[4] Die Bearbeitung des Themas kann mit Zustimmung des Prü- 
+(6)<sup>1</sup> Die Bearbeitungszeit für die Diplomarbeit darf sechs Monate nicht überschreiten. 2Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.<sup>3</sup> Auf begründeten Antrag des Kandidaten kann die Bearbeitungszeit ausnahmsweise um höchstens drei Monate verlängert werden.<sup>4</sup> Die Bearbeitung des Themas kann mit Zustimmung des Prü- 
 
 13 
 
-fungsausschusses und im Einvernehmen mit dem Betreuer der Arbeit aus vom Kandidaten nicht zu vertretenden Gründen (z.B. Schwierigkeiten bei der Bewilligung von Untersuchungen z.B durch Behörden, Gewinnung von Versuchspersonen, bei der Datenerstellung oder bei Langzeitbeobachtungen) unterbrochen werden.[5] Weist der Kandidat durch ärztliches Zeugnis nach, dass er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
+fungsausschusses und im Einvernehmen mit dem Betreuer der Arbeit aus vom Kandidaten nicht zu vertretenden Gründen (z.B. Schwierigkeiten bei der Bewilligung von Untersuchungen z.B durch Behörden, Gewinnung von Versuchspersonen, bei der Datenerstellung oder bei Langzeitbeobachtungen) unterbrochen werden.<sup>5</sup> Weist der Kandidat durch ärztliches Zeugnis nach, dass er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
 
-(7)[1] Die Diplomarbeit ist in vier Exemplaren fristgemäß an den Vorsitzenden des Prüfungsausschusses zu liefern; der Abgabezeitpunkt ist aktenkundig zu machen.[2] Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten.[3] Sie muss mit einer Erklärung des Kandidaten versehen sein, dass er die Arbeit selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.[4] Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" bewertet. 
+(7)<sup>1</sup> Die Diplomarbeit ist in vier Exemplaren fristgemäß an den Vorsitzenden des Prüfungsausschusses zu liefern; der Abgabezeitpunkt ist aktenkundig zu machen.<sup>2</sup> Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten.<sup>3</sup> Sie muss mit einer Erklärung des Kandidaten versehen sein, dass er die Arbeit selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat.<sup>4</sup> Wird die Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend" bewertet. 
 
-(8)[1] Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder der Prüfungsablauf durch die Bestellung eines zweiten Prüfers unangemessen verzögert werden würde.[2] Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, ist in jedem Fall ein zweiter Prüfer zu bestellen.[3] Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat. 4Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine Note einigen; gelingt dies nicht, entscheidet der Prüfungsausschuss, er kann einen weiteren Gutachter hinzuziehen. 
+(8)<sup>1</sup> Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder der Prüfungsablauf durch die Bestellung eines zweiten Prüfers unangemessen verzögert werden würde.<sup>2</sup> Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, ist in jedem Fall ein zweiter Prüfer zu bestellen.<sup>3</sup> Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat. 4Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine Note einigen; gelingt dies nicht, entscheidet der Prüfungsausschuss, er kann einen weiteren Gutachter hinzuziehen. 
 
 (9) Die Diplomarbeit und die anderen Leistungen der Diplomprüfung werden getrennt benotet. 
 
@@ -506,7 +506,7 @@ fungsausschusses und im Einvernehmen mit dem Betreuer der Arbeit aus vom Kandida
 
 ## **Zusatzfächer** 
 
-(1)[1] Auf Antrag kann der Prüfungsausschuss dem Kandidaten gestatten, sich in weiteren als den vorgeschriebenen Fächern einer Prüfung zu unterziehen (Zusatzfächer).[2] Der Prüfungsausschuss hat dem Kandidaten hierfür eine angemessene Frist zu setzen, die in der Regel zwei Semester nach Abschluss der Diplomprüfung nicht überschreiten darf.[3] Nach Ablauf der Frist erlischt der Prüfungsanspruch. 
+(1)<sup>1</sup> Auf Antrag kann der Prüfungsausschuss dem Kandidaten gestatten, sich in weiteren als den vorgeschriebenen Fächern einer Prüfung zu unterziehen (Zusatzfächer).<sup>2</sup> Der Prüfungsausschuss hat dem Kandidaten hierfür eine angemessene Frist zu setzen, die in der Regel zwei Semester nach Abschluss der Diplomprüfung nicht überschreiten darf.<sup>3</sup> Nach Ablauf der Frist erlischt der Prüfungsanspruch. 
 
 (2) Das Ergebnis der Prüfung in diesen Fächern wird auf Antrag des Kandidaten in das Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht mit einbezogen. 
 
@@ -514,17 +514,17 @@ fungsausschusses und im Einvernehmen mit dem Betreuer der Arbeit aus vom Kandida
 
 ## **Nichtbestehen der Diplomprüfung** 
 
-1Die Prüfung ist nicht bestanden, wenn die Bewertung der Diplomarbeit oder eine Fachnote "nicht ausreichend" lautet.[2] § 22 Abs. 3 gilt entsprechend. 
+1Die Prüfung ist nicht bestanden, wenn die Bewertung der Diplomarbeit oder eine Fachnote "nicht ausreichend" lautet.<sup>2</sup> § 22 Abs. 3 gilt entsprechend. 
 
 ## **§ 31** 
 
 ## **Wiederholung der Diplomprüfung** 
 
-(1)[1] Ist die Diplomprüfung nicht bestanden oder ist § 10 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet worden sind, wiederholt werden. 2Gilt die Diplomprüfung gemäß § 4 Abs. 3 als nicht bestanden, ist sie insgesamt zu wiederholen. 
+(1)<sup>1</sup> Ist die Diplomprüfung nicht bestanden oder ist § 10 Abs. 1 anzuwenden, kann sie in den Fächern, die mit "nicht ausreichend" bewertet worden sind, wiederholt werden. 2Gilt die Diplomprüfung gemäß § 4 Abs. 3 als nicht bestanden, ist sie insgesamt zu wiederholen. 
 
 14 
 
-(2)[1] Wird die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestes vier Wochen nach der Bekanntgabe der Note für die Diplomarbeit zu stellen ist, eine Wiederholung mit neuem Thema möglich.[2] Die Vereinbarung des neuen Themas muss spätestens innerhalb weiterer vier Wochen schriftlich erfolgen.[3] Eine zweite Wiederholung ist ausgeschlossen.[4] Im Übrigen gilt § 28 entsprechend. 
+(2)<sup>1</sup> Wird die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der spätestes vier Wochen nach der Bekanntgabe der Note für die Diplomarbeit zu stellen ist, eine Wiederholung mit neuem Thema möglich.<sup>2</sup> Die Vereinbarung des neuen Themas muss spätestens innerhalb weiterer vier Wochen schriftlich erfolgen.<sup>3</sup> Eine zweite Wiederholung ist ausgeschlossen.<sup>4</sup> Im Übrigen gilt § 28 entsprechend. 
 
 (3) § 23 Abs. 2 bis 5 gelten entsprechend. 
 
@@ -532,13 +532,13 @@ fungsausschusses und im Einvernehmen mit dem Betreuer der Arbeit aus vom Kandida
 
 ## **§ 32 Zeugnis und Diplom** 
 
-(1)[1] Über die bestandene Diplomprüfung sind ein Zeugnis und ein Diplom auszustellen.[2] Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+(1)<sup>1</sup> Über die bestandene Diplomprüfung sind ein Zeugnis und ein Diplom auszustellen.<sup>2</sup> Hierbei soll eine Frist von vier Wochen eingehalten werden. 
 
-(2)[1] Das Zeugnis enthält die Noten der einzelnen Prüfungsfächer, das Thema und die Note der Diplomarbeit und die Prüfungsgesamtnote.[2] Auf Antrag des Kandidaten wird die Fachstudiendauer im Zeugnis ausgewiesen. 
+(2)<sup>1</sup> Das Zeugnis enthält die Noten der einzelnen Prüfungsfächer, das Thema und die Note der Diplomarbeit und die Prüfungsgesamtnote.<sup>2</sup> Auf Antrag des Kandidaten wird die Fachstudiendauer im Zeugnis ausgewiesen. 
 
 ## **Dritter Teil: Übergangs- und Schlussbestimmungen** 
 
-## **§ 33 Übergangsregelung** _**(gegenstandslos)**_ 
+## **§ 33 Übergangsregelung** **_(gegenstandslos)_** 
 
 ## **§ 34** 
 

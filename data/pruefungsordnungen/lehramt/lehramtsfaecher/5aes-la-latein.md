@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES_LA-Latein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:45+00:00
-page_count_chars: 4118
+scraped_at: 2026-07-01T08:41:11+00:00
+page_count_chars: 4134
 ---
 
 # 10. Juli 2015
@@ -12,13 +12,13 @@ page_count_chars: 4118
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES_LA-Latein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 10. Juli 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009, zuletzt geändert durch Satzung vom 9. Oktober 2014, wird wie folgt geändert: 
 
@@ -54,13 +54,13 @@ aa)  Die erste Tabelle wird wie folgt geändert:
 
       - (4) In Zeile 6 (Modul Lateinische Sprachwissenschaft und Sprachpraxis II) Spalte 17 (Art und Umfang der Prüfung) wird das Wort „Portfolioprüfung:“ gestrichen. 
 
-      - (5) In Zeile 7 (Modul Lateinische Literaturwissenschaft III) Spalte 17 (Art und Umfang der Prüfung) wird nach dem Klammerzusatz „(5 S., 100 %)“ die hochgestellte Zahl „[3] “ angefügt. 
+      - (5) In Zeile 7 (Modul Lateinische Literaturwissenschaft III) Spalte 17 (Art und Umfang der Prüfung) wird nach dem Klammerzusatz „(5 S., 100 %)“ die hochgestellte Zahl „<sup>3</sup> “ angefügt. 
 
       - (6) In Zeile 8 (Modul Lateinische Sprachwissenschaft und Sprachpraxis III) Spalte 17 (Art und Umfang der Prüfung) wird das Wort „Portfolioprüfung:“ gestrichen. 
 
       - (7) Am Ende der Tabelle wird nach Fußnote 2 folgende neue Fußnote 3 angefügt: 
 
-         - „[3] Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
+         - „<sup>3</sup> Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.“ 
 
    - bb) In der zweiten Tabelle wird in der Spalte 6 (Art und Umfang der Prüfung) jeweils das Wort „Portfolioprüfung“ gestrichen. 
 

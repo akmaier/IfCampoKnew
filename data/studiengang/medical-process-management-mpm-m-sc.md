@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:48:45+00:00
+scraped_at: 2026-07-01T08:25:35+00:00
 ---
 
 # Medical Process Management (MPM) (M.Sc.)

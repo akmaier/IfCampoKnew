@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 08.10.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Paed.OKTOBER2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:09+00:00
-page_count_chars: 8745
+scraped_at: 2026-07-01T10:27:42+00:00
+page_count_chars: 8832
 ---
 
 # PDF vom 05.10.2007 i.d.F. 08.10.2012
@@ -16,7 +16,7 @@ page_count_chars: 8745
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungs- und Studienordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachprüfungs- und Studienordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -46,7 +46,7 @@ Diese Fachprüfungs- und Studienordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Pädagogik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 80 ECTS-Punkten studiert werden. 
 
-(2)[1] Das Bachelorstudium Pädagogik bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 2Die Studierenden erwerben grundlegende Fachkenntnisse der Pädagogik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[3] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Das Bachelorstudium Pädagogik bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 2Die Studierenden erwerben grundlegende Fachkenntnisse der Pädagogik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>3</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Das Studium der Pädagogik im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die systematische und methodische Kompetenz zur Bearbeitung pädagogischer Probleme sowie die Fähigkeit zur kritischen Reflexion der Möglichkeiten und 
 
@@ -110,13 +110,10 @@ Grenzen pädagogischer Theorien und Methoden vermitteln.
 
 2 
 
-## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
+**§ 5 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium der Pädagogik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
-(1) Im Studium der Pädagogik als erstes Fach sind folgende Module erfolgreich abzulegen: 
-
-|||||||
-|---|---|---|---|---|---|
 |**Module**|**FS**|**SWS**|**ECTS**|**Art und Umfang**<br>**der Studien- und**<br>**Prüfungsleistung**|**Prüfung:**<br>**Faktor**|
+|---|---|---|---|---|---|
 |Päd 1:<br>Einführung in die<br>Pädagogik|1|4|10|Portfolioprüfung:<br>Wiss. Hausarbeit bzw. Essay<br>(jew. ca. 10 Seiten)<br>und Klausur (45 min) od. mündl.<br>Prüfung (15 min.)|./.|
 |Päd 2:<br>Wahlpflichtbereich I:<br>Pädagogische<br>Grundlagen|1-2|4|10|Wiss. Hausarbeit bzw. Essay<br>(jew. ca. 15 Seiten)<br>od. Klausur (90 min.) od. mündl.<br>Prüfung (30 min.)|100 %|
 |Päd 3:<br>Historische und<br>systematische<br>Grundlagen der<br>Pädagogik|2-3|4|10|Wiss. Hausarbeit bzw. Essay<br>(jew. ca. 15 Seiten)<br>od. Klausur (90 min.) od. mündl.<br>Prüfung (30 min.)|100 %|
@@ -127,7 +124,7 @@ Grenzen pädagogischer Theorien und Methoden vermitteln.
 |Päd 8:<br>Wahlpflichtbereich II<br>Pädagogische<br>Forschung|6|4|10|Wiss. Hausarbeit bzw. Essay<br>(jew. ca. 15 Seiten)<br>od. Klausur (90 min.) od. mündl.<br>Prüfung (30 min.)|100 %|
 |Päd 9:<br>BA-Arbeit|6||10|Bachelorarbeit|100 %|
 
-*) mindestens 6 Wochen Vollzeit bzw. 240 Zeitstunden Praktikum + 2 SWS Seminar Praxisreflexion 
+- *) mindestens 6 Wochen Vollzeit bzw. 240 Zeitstunden Praktikum + 2 SWS Seminar Praxisreflexion 
 
 Das Modul Päd 1 muss im ersten Fachsemester absolviert werden, die Zuordnung der anderen Module zu den Fachsemestern ist nur eine Empfehlung. 
 
@@ -135,11 +132,11 @@ Das Modul Päd 1 muss im ersten Fachsemester absolviert werden, die Zuordnung de
 
 (2) Beim Studium der Pädagogik als zweites Fach entfällt nach eigener Wahl das Modul Päd 2 oder das Modul Päd 8. 
 
-(3)[1] Wird Pädagogik als Erstfach gewählt, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Es werden Module empfohlen, die zum Erwerb bzw. zur Vertiefung moderner Fremdsprachen und/oder zur Erweiterung der Allgemeinbildung und/oder zur Förderung interdisziplinärer Kompetenzen und zur Tätigkeitsqualifizierung beitragen.[3] Praktika, die zusätzlich zum Pflichtpraktikum (Modul Päd 6) absolviert werden, können nur im Umfang von bis zu 5 ECTS als Schlüsselqualifikationen anerkannt werden (Einschränkung gemäß § 31 Abs. 4 ABMStPO/Phil). 
+(3)<sup>1</sup> Wird Pädagogik als Erstfach gewählt, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Es werden Module empfohlen, die zum Erwerb bzw. zur Vertiefung moderner Fremdsprachen und/oder zur Erweiterung der Allgemeinbildung und/oder zur Förderung interdisziplinärer Kompetenzen und zur Tätigkeitsqualifizierung beitragen.<sup>3</sup> Praktika, die zusätzlich zum Pflichtpraktikum (Modul Päd 6) absolviert werden, können nur im Umfang von bis zu 5 ECTS als Schlüsselqualifikationen anerkannt werden (Einschränkung gemäß § 31 Abs. 4 ABMStPO/Phil). 
 
 ## **§ 6 Lehr- und Lernformen** 
 
-(1)[1] Neben den Vorlesungen gemäß § 8 Abs. 2 ABMStPO/Phil bestehen die Module vorzugsweise aus Seminaren.[2] Diese dienen der Einführung und dem Überblick über die jeweilige Thematik oder der Vertiefung und Diskussion ausgewählter Aspekte. 3Anhand ausgewählter oder selbsttätig zu findender Literatur werden Zugänge zu bestimmten Themen und Themengebieten des Faches erschlossen.[4] Es wird geübt, vorgegebene Themen in einer begrenzten Zeit zu untersuchen und die Ergebnisse in geeigneter Form darzustellen.[5] Die Vorlesungen werden in der Regel durch ein angeleitetes Selbststudium ergänzt. 
+(1)<sup>1</sup> Neben den Vorlesungen gemäß § 8 Abs. 2 ABMStPO/Phil bestehen die Module vorzugsweise aus Seminaren.<sup>2</sup> Diese dienen der Einführung und dem Überblick über die jeweilige Thematik oder der Vertiefung und Diskussion ausgewählter Aspekte. 3Anhand ausgewählter oder selbsttätig zu findender Literatur werden Zugänge zu bestimmten Themen und Themengebieten des Faches erschlossen.<sup>4</sup> Es wird geübt, vorgegebene Themen in einer begrenzten Zeit zu untersuchen und die Ergebnisse in geeigneter Form darzustellen.<sup>5</sup> Die Vorlesungen werden in der Regel durch ein angeleitetes Selbststudium ergänzt. 
 
 (2) Nach Bedarf werden auch die anderen der im § 8 ABMStPO/Phil genannten Lehrund Lernformen genutzt. 
 
@@ -151,7 +148,7 @@ Die Grundlagen- und Orientierungsprüfung im Fach Pädagogik umfasst die Modulpr
 
 (1) Die in einem Modul zu erbringenden Studien- und Prüfungsleistungen (§ 7 Abs. 2 u. 3 ABMStPO/Phil) werden in der jeweiligen Ankündigung des Moduls verbindlich festgelegt. 
 
-(2)[1] Haben sich zu einer Klausur weniger als zwanzig Teilnehmerinnen oder Teilnehmer gemeldet, so kann der Prüfungsausschuss auf Antrag der Prüfenden oder des Prüfenden festlegen, dass in diesem Prüfungsabschnitt die Prüfung ausschließlich mündlich stattfindet.[2] Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
+(2)<sup>1</sup> Haben sich zu einer Klausur weniger als zwanzig Teilnehmerinnen oder Teilnehmer gemeldet, so kann der Prüfungsausschuss auf Antrag der Prüfenden oder des Prüfenden festlegen, dass in diesem Prüfungsabschnitt die Prüfung ausschließlich mündlich stattfindet.<sup>2</sup> Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
 
 (3) Wenn eine Studienleistung oder Modulteilprüfung mit 4,3 bewertet wurde, ist die betreffende Modulprüfung dennoch bestanden, wenn der Notendurchschnitt aller Teilprüfungen mindestens 4,0 beträgt (vgl. § 21 Abs. 6 Satz 2 ABMStPO/Phil). 
 

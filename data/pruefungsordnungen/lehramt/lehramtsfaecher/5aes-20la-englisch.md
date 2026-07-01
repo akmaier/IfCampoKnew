@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES%20LA-Englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:02+00:00
-page_count_chars: 2106
+scraped_at: 2026-07-01T08:37:24+00:00
+page_count_chars: 2102
 ---
 
 # 28. März 2011
@@ -12,13 +12,13 @@ page_count_chars: 2106
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/5AES%20LA-Englisch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 28. März 2011 
+# Vom 28. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzung vom 15. Oktober 2010, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudieng
 
 2. In § 4 Abs. 1 Satz 1 werden in der Tabelle in Zeile 6 (Vertiefungsmodul L-UF Language) Spalte 3 (Veranstaltungen/Art) die Worte "Übersetzung E-D" angefügt, in Spalte 6 (Prüfung/Zulassungsvoraussetzungen) "K mit Audioteil (50%)" durch "Schriftliche Prüfung (25%)" ersetzt sowie die Worte "Audioprüfung (25%)" und "Studienleistung: Übersetzung" angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2011 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module ab In-Kraft-Treten der Änderungssatzung erstmals ablegen. 
 

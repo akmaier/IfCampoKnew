@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Juni 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES%20MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:04+00:00
-page_count_chars: 3079
+scraped_at: 2026-07-01T11:05:37+00:00
+page_count_chars: 3039
 ---
 
 # 28. Juni 2012
@@ -18,7 +18,7 @@ Vom 28. Juni 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - vom 2. September 2009, zuletzt geändert durch Satzung vom 24. Februar 2012, wird wie folgt geändert: 
 
@@ -26,10 +26,8 @@ Die Anlage wird wie folgt geändert:
 
 1.  Nach Zeile 19 (B1/Data Warehousing)  wird folgende Zeile 20 neu eingefügt: 
 
-|„||||||„|
-|---|---|---|---|---|---|---|
-||Strategic Communication|5||5|||
-||||||||
+|„<br>Strategic Communication|5|5<br>„|
+|---|---|---|
 
 2. Die Zeile 24 (neu) (B1/Strategic Communication) wird gestrichen. 
 
@@ -39,9 +37,8 @@ Die Anlage wird wie folgt geändert:
 
 - „ 
 
-|Auslandsmodul|5|||||
-|---|---|---|---|---|---|
-||||||„|
+|Auslandsmodul|5|„|
+|---|---|---|
 
    5. In Zeile 64 (neu) (B1/Global Operations Strategy) Spalte 4 (ECTS/2.Sem.) wird die Zahl „5“ gestrichen sowie in Spalte 5 (ECTS/3.Sem.) die Zahl „5“ eingefügt. 
 
@@ -53,7 +50,8 @@ Die Anlage wird wie folgt geändert:
 
 - „ 
 
-E-Business Intelligence and Relationships 5 5 
+|E-BusinessIntelligence andRelationships|5|5|
+|---|---|---|
 
 „ 
 
@@ -65,7 +63,7 @@ E-Business Intelligence and Relationships 5 5
 
 12. In Zeile 116 (neu) (B2/Corporate Strategy) Spalte 4 (ECTS/2.Sem.) wird die Zahl „5“ eingefügt sowie in Spalte 5 (ECTS/3.Sem.) die Zahl „5“ gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

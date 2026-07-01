@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl WTB MBA Business Management PO MBA 20210311 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/Aenderungssatzungen/berufsbegl_WTB_MBA_Business_Management_PO_MBA_20210311_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:47:18+00:00
-page_count_chars: 8553
+scraped_at: 2026-07-01T11:10:12+00:00
+page_count_chars: 8477
 ---
 
 # berufsbegl WTB MBA Business Management PO MBA 20210311 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 8553
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Weiterbildungsstudiengaenge/Global_Business_Management/Aenderungssatzungen/berufsbegl_WTB_MBA_Business_Management_PO_MBA_20210311_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA –** 
+# **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA –** 
 
-## **Vom 11. März 2021** 
+# **Vom 11. März 2021** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management am Fachbereich Wirtschafts- und Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO MBA – vom 2. September 2020 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Studien- und Prüfungsordnung für den berufsbegleitenden Weiterbildungsstud
 
 bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-„[5] Die Unterrichts- und Prüfungssprache für den Masterstudiengang Global Business Management ist durchgehend Englisch.“ 
+„<sup>5</sup> Die Unterrichts- und Prüfungssprache für den Masterstudiengang Global Business Management ist durchgehend Englisch.“ 
 
    - b) In Abs. 4 Satz 2 werden nach dem Wort und der Zahl „ **Anlage 3** “ die Worte „(Business Management) bzw. **Anlage 4** (Global Business Management)“ eingefügt. 
 
@@ -52,7 +52,7 @@ bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt:
 
 9. In § 13 Abs. 2 wird nach den Worten „prüfungsberechtigten Person oder der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 10. § 16 Abs. 1 wird wie folgt geändert: 
+# 10. § 16 Abs. 1 wird wie folgt geändert: 
 
    - a) In Satz 1 werden nach den Worten „Weiterbildungsstudiengang Business Management“ die Worte „bzw. Global Business Management“ eingefügt. 
 
@@ -66,41 +66,41 @@ bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt:
 
 12. In § 25 Abs. 1 Satz 2 werden nach den Worten „hat Anspruch darauf, dass die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 13. § 26 wird wie folgt geändert: 
+# 13. § 26 wird wie folgt geändert: 
 
 - a) In Abs. 5 Satz 1 werden nach den Worten „Business Management“ die Worte „bzw. Global Business Management“ eingefügt. 
 
 2 
 
-## b) Abs. 8 wird wie folgt geändert: 
+# b) Abs. 8 wird wie folgt geändert: 
 
 aa) Satz 1 wird wie folgt geändert: 
 
 - (1) Nach den Worten „Die Masterarbeit“ werden die Worte „im Masterstudiengang Business Management“ eingefügt. 
 
-- (2) Nach den Worten „in deutscher Sprache abzufassen;“ wird das Wort „über“ durch die Worte „die Masterarbeit im Masterstudiengang Global Business Management ist in englischer Sprache abzufassen.[2] Über“ ersetzt. 
+- (2) Nach den Worten „in deutscher Sprache abzufassen;“ wird das Wort „über“ durch die Worte „die Masterarbeit im Masterstudiengang Global Business Management ist in englischer Sprache abzufassen.<sup>2</sup> Über“ ersetzt. 
 
 bb) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 3 bis 8. 
 
-      - cc) In Satz 6 (neu) wird nach den Worten „der Masterarbeit muss der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- cc) In Satz 6 (neu) wird nach den Worten „der Masterarbeit muss der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-14. § 28 wird wie folgt geändert: 
+# 14. § 28 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden nach dem Wort und der Zahl „ **Anlage 3** “ die Worte und die Zahl „bzw. **Anlage 4** “ eingefügt. 
+- a) In Abs. 1 werden nach dem Wort und der Zahl „ **Anlage 3** “ die Worte und die Zahl „bzw. **Anlage 4** “ eingefügt. 
 
-   - b) In Abs. 3 Satz 1 werden nach dem Wort und der Zahl „ **Anlage 3** “ die Worte und die Zahl „bzw. **Anlage 4** “ eingefügt. 
+- b) In Abs. 3 Satz 1 werden nach dem Wort und der Zahl „ **Anlage 3** “ die Worte und die Zahl „bzw. **Anlage 4** “ eingefügt. 
 
-## 15. § 29 wird wie folgt geändert: 
+# 15. § 29 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Masterstudium Global Business Management ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Masterstudium Global Business Management ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
 
-## 16. **Anlage 1** wird wie folgt geändert: 
+# 16. **Anlage 1** wird wie folgt geändert: 
 
-## a) Abs. 2 wird wie folgt geändert: 
+# a) Abs. 2 wird wie folgt geändert: 
 
    - aa) In Satz 1 wird das Wort „Feststellungsverfahren“ durch das Wort „Qualifikationsfeststellungsverfahren“ ersetzt. 
 
@@ -114,7 +114,7 @@ bb) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 3 bis 8.
 
 Management“ ersetzt und nach den Worten „Gültigkeit, sofern sich der“ das Wort „jeweilige“ eingefügt. 
 
-## 17. **Anlage 2** wird wie folgt geändert: 
+# 17. **Anlage 2** wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden nach den Worten „„Business Management““ die Worte „bzw. „Global Business Management““ eingefügt. 
 
@@ -122,28 +122,23 @@ Management“ ersetzt und nach den Worten „Gültigkeit, sofern sich der“ das
 
 4 
 
-## 18. Nach Anlage 3 wird folgende neue **Anlage 4** angefügt: 
+# 18. Nach Anlage 3 wird folgende neue **Anlage 4** angefügt: 
 
-## **„Anlage 4: Studienverlaufsplan MBA Global Business Management** 
+# **<u>„Anlage 4: Studienverlaufsplan MBA Global Business Management</u>** 
 
-|||**SWS**|**SWS**|**SWS**|**SWS**|**ECTS**|**1. Sem**|**2. Sem**|**3. Sem**|**Method of examination**|
-|---|---|---|---|---|---|---|---|---|---|---|
-|**Modul name**|**Lecture**|**V**||||<br>**credits**|**ECTS**<br>**credits**|**ECTS**|**ECTS**||
-||||**Ü**|**P**|**S**||||||
-|||||||||**credits**|**credits**||
-||||||||||||
-|**Strategy**|Strategy||||x|5|5|||Presentation (60 minutes)|
-|**Leadership**|Leadership||||x|5|5|||Strategy concept<br>(6-10 pages) and<br>presentation 20 minutes|
-|**Accounting**|Accounting||||x|5|5|||Written exam (90 minutes)|
-|**Controlling**|Controlling||||x|5|5|||Term paper (10-15 pages) and<br>presentation (20 minutes)|
-|**Finance**|Finance||||x|5||5||Written exam (90 minutes)|
-|**Marketing**|Marketing||||x|5||5||Case study:<br>presentation 60 minutes and 25 pages|
-|**Operations**|Operations||||x|5||5||Written exam (90 minutes)|
-|**Innovation**|Innovation||||x|5||5||Case study:<br>presentation 60 minutes and 25 pages|
-|**Data and Process Analytics**|Data and Process Analytics||||x|5|||5|Concept paper (6-10 pages) and<br>presentation (20 minutes)|
-|Master´s thesis||||||15|||15|Written work of 50-80 pages|
-|Tl W 1||Tl ET i|||||20|20|20||
-|ota SS: 3,5||ota CS credts: 60|||||||||
+|**Modul name**|**Lecture**|**V**|**SWS**<br>**Ü**<br>**P**<br>**S**|**ECTS**<br>**credits**|**1. Sem**<br>**ECTS**<br>**credits**|**2. Sem**<br>**ECTS**<br>**credits**|**3. Sem**<br>**ECTS**<br>**credits**|**Method of examination**|
+|---|---|---|---|---|---|---|---|---|
+|**Strategy**|Strategy||x|5|5|||Presentation (60 minutes)|
+|**Leadership**|Leadership||x|5|5|||Strategy concept<br>(6-10 pages) and<br>presentation 20 minutes|
+|**Accounting**|Accounting||x|5|5|||Written exam (90 minutes)|
+|**Controlling**|Controlling||x|5|5|||Term paper (10-15 pages) and<br>presentation (20 minutes)|
+|**Finance**|Finance||x|5||5||Written exam (90 minutes)|
+|**Marketing**|Marketing||x|5||5||Case study:<br>presentation 60 minutes and 25 pages|
+|**Operations**|Operations||x|5||5||Written exam (90 minutes)|
+|**Innovation**|Innovation||x|5||5||Case study:<br>presentation 60 minutes and 25 pages|
+|**Data and Process Analytics**|Data and Process Analytics||x|5|||5|Concept paper (6-10 pages) and<br>presentation (20 minutes)|
+|Master´s thesis||||15|||15|Written work of 50-80 pages|
+||Total SWS: 31,5||Total ECTS|credits: 60|20|20|20||
 
 “ 
 

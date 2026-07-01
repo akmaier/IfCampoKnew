@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES-BA%20MA-MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:27:14+00:00
-page_count_chars: 4365
+scraped_at: 2026-07-01T11:44:20+00:00
+page_count_chars: 4456
 ---
 
 # 5. August 2011
@@ -12,17 +12,17 @@ page_count_chars: 4365
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES-BA%20MA-MB.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
 
-## Vom 5. August 2011 
+# Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB - vom 24. September 2007, zuletzt geändert durch Satzung vom 7. Juli 2010, wird wie folgt geändert: 
 
-## 1. § 35 wird wie folgt geändert: 
+# 1. § 35 wird wie folgt geändert: 
 
    - a) Abs. 4 wird gestrichen. Der bisherige Abs. 5 wird zu Abs. 4. 
 
@@ -42,10 +42,11 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
    - a) Das Modul B 12 erhält folgende Fassung: 
 
-„ 
+|„|
+|---|
 
-||B 12|Grundlagen der<br>Elektrotechnik<br>Grundlagen der<br>elektrischen<br>Maschinen|*****<br>*****|2<br>1|2<br>1||5<br>2,5|7,5|||5|2,5|||120||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|B 12|Grundlagen der<br>Elektrotechnik<br>Grundlagen der<br>elektrischen<br>Maschinen|*****<br>*****|2<br>1|2<br>1|5<br>2,5|5<br>7,5|2,5|120|
+|---|---|---|---|---|---|---|---|---|
 
    - „ 
 
@@ -55,9 +56,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
 - d) Modul B 23 (Technische und nichttechnische Wahlmodule) erhält folgende Fassung: 
 
-„ benotete B 23a[Technische ] 4 5 5 2,5 2,5 Wahlmodule Studienleistung 
+<u>„</u> benotete B 23a<sup>Technische</sup> 4 5 5 2,5 2,5 Wahlmodule <u>Studienleistung</u> 
 
-benotete B 23b[Nichttechnische ] 4 5 5 5 Wahlmodule Studienleistung 
+benotete B 23b<sup>Nichttechnische</sup> 4 5 5 5 Wahlmodule <u>Studienleistung</u> 
 
 „ 
 
@@ -65,20 +66,21 @@ benotete B 23b[Nichttechnische ] 4 5 5 5 Wahlmodule Studienleistung
 
 - f) Die Zeile „Summe ECTS“ erhält folgende Fassung: 
 
+<u>„</u> 
+
+|74 33|19<br>180|27,5|30<br>30|32,5|30 30|Summe ECTS  180|
+|---|---|---|---|---|---|---|
+
 „ 
 
-74 33 19 180 27,5 30 30 32,5 30 30 Summe ECTS  180 
-
-„ 
-
-## 5. Anlage 1b wird wie folgt geändert: 
+# 5. Anlage 1b wird wie folgt geändert: 
 
 - a) Modul B 12 erhält folgende Fassung: 
 
-„ 
+<u>„</u> 
 
-||B 12|Grundlagen der<br>Elektrotechnik<br>Grundlagen der<br>elektrischen<br>Maschinen||2<br>1|2<br>1||5<br>2,5|7,5||||5|2,5||120||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|B 12|Grundlagen der<br>Elektrotechnik<br>Grundlagen der<br>elektrischen<br>Maschinen|2<br>1|2<br>1|5<br>2,5|7,5|<br>5|2,5|120|
+|---|---|---|---|---|---|---|---|---|
 
 „ 
 
@@ -86,13 +88,14 @@ benotete B 23b[Nichttechnische ] 4 5 5 5 Wahlmodule Studienleistung
 
 - c) Die Zeile „Summe ECTS“ erhält folgende Fassung: 
 
+<u>„</u> 
+
+|74 33 19|180|30|30|30|30|30 30|Summe ECTS  180|
+|---|---|---|---|---|---|---|---|
+
 „ 
 
-74 33 19 180 30 30 30 30 30 30 Summe ECTS  180 
-
-„ 
-
-## 6. Anlage 3 wird wie folgt geändert: 
+# 6. Anlage 3 wird wie folgt geändert: 
 
 - a) In Modul 3 Spalte 3 wird das Wort "Lasertechnik" durch die Worte "Lasertechnik / Laser Technology" ersetzt. 
 
@@ -100,15 +103,15 @@ benotete B 23b[Nichttechnische ] 4 5 5 5 Wahlmodule Studienleistung
 
 - c) In Modul 7.2 Spalte 3 werden die Worte "Kunststofftechnik I" durch die Worte "Kunststofffertigungstechnik und -charakterisierung" ersetzt. 
 
-- d) In Modul 17 Spalte 3 wird die Fußnote „[6)“] angefügt. 
+- d) In Modul 17 Spalte 3 wird die Fußnote „<sup>6)“</sup> angefügt. 
 
 - e) Nach der Fußnote „5)“ wird folgende Fußnote „6)“ angefügt: 
 
-   - "[6)] Das Modul kann nur bis einschl. SS 2011 belegt werden." 
+   - "<sup>6)</sup> Das Modul kann nur bis einschl. SS 2011 belegt werden." 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 2Sie gilt für Studierende, die das Studium ab dem Wintersemester 2011/2012 aufnehmen.[3] Abweichend hiervon treten die Änderungen der Ziffer 6 ab dem 1. August 2011 in Kraft; sie gelten für alle Studierenden, die die geänderten Module erstmals ablegen. 
+1Die Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 2Sie gilt für Studierende, die das Studium ab dem Wintersemester 2011/2012 aufnehmen.<sup>3</sup> Abweichend hiervon treten die Änderungen der Ziffer 6 ab dem 1. August 2011 in Kraft; sie gelten für alle Studierenden, die die geänderten Module erstmals ablegen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 27. Juli 2011 und der Genehmigungsfeststellung des Präsidenten vom 5. August 2011. 
 

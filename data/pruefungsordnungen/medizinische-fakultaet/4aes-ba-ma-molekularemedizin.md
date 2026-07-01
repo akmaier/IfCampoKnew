@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/4AES_BA-MA_MolekulareMedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:26:54+00:00
-page_count_chars: 31579
+scraped_at: 2026-07-01T08:50:54+00:00
+page_count_chars: 31663
 ---
 
 # 22. Juli 2014
@@ -12,7 +12,7 @@ page_count_chars: 31579
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/4AES_BA-MA_MolekulareMedizin.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der FriedrichAlexander-Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Medizin an der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
 Vom 22. Juli 2014 
 
@@ -48,7 +48,7 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Mediz
 
 4. § 8 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden nach dem Wort „[2] Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+   - a) In Abs. 1 Satz 2 werden nach dem Wort „<sup>2</sup> Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
    - b) In Abs. 2 werden nach dem Wort „Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -56,21 +56,21 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Mediz
 
 „(4) Dem Prüfungsausschuss obliegt zudem die Prüfung der Qualifikations- und Zugangsvoraussetzungen zum Masterstudium.“ 
 
-   - d) Die bisherigen Abs. 4 bis 6 werden zu Abs. 5 bis 7. 
+- d) Die bisherigen Abs. 4 bis 6 werden zu Abs. 5 bis 7. 
 
-   - e) In Abs. 5 Satz 4 (neu) werden nach den Worten „Stimme der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+- e) In Abs. 5 Satz 4 (neu) werden nach den Worten „Stimme der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - f) Abs. 6 (neu) wird wie folgt geändert: 
+- f) Abs. 6 (neu) wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „[1] Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+aa) In Satz 1 werden nach dem Wort „<sup>1</sup> Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 4 werden nach den Worten „Prüfungsausschuss der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) In Satz 4 werden nach den Worten „Prüfungsausschuss der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - g) Abs. 7 (neu) wird wie folgt geändert: 
+g) Abs. 7 (neu) wird wie folgt geändert: 
 
-      - aa) In Satz 2 werden nach dem Wort „[2] Der“ die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+   - aa) In Satz 2 werden nach dem Wort „<sup>2</sup> Der“ die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 3 werden die Worte „öffentlich durch Aushang oder“ durch die Worte „jeder bzw. jedem Einzelnen“ ersetzt. 
+   - bb) In Satz 3 werden die Worte „öffentlich durch Aushang oder“ durch die Worte „jeder bzw. jedem Einzelnen“ ersetzt. 
 
 5. Die Regelung in § 9 erhält folgende neue Fassung: 
 
@@ -82,31 +82,35 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Molekulare Mediz
 
 7. § 11 wird gestrichen. 
 
-8. Die bisherigen §§ 12 bis 15 werden zu §§ 11 bis 14. 
+8. 
 
-9. § 11 Abs. 3 (neu) wird wie folgt geändert: 
+   - Die bisherigen §§ 12 bis 15 werden zu §§ 11 bis 14. 
 
-   - a) Satz 1 wird wie folgt geändert: 
+9. 
+
+- § 11 Abs. 3 (neu) wird wie folgt geändert: 
+
+- a) Satz 1 wird wie folgt geändert: 
 
 2 
 
-   - aa) Die Zahl „27“ wird durch die Zahl „28“ ersetzt. 
+aa) Die Zahl „27“ wird durch die Zahl „28“ ersetzt. 
 
-   - bb) Nach den Worten „Gründen gegenüber der“ werden die Worte „Prüfenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) Nach den Worten „Gründen gegenüber der“ werden die Worte „Prüfenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-- b) In Satz 2 wird die Zahl „14“ durch die Zahl „13“ ersetzt. 
+   - b) In Satz 2 wird die Zahl „14“ durch die Zahl „13“ ersetzt. 
 
-## 10. § 12 (neu) wird wie folgt geändert: 
+10. § 12 (neu) wird wie folgt geändert: 
 
-- a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
+   - a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
 
-- b) In Abs. 1 Satz 1 wird nach den Worten „Studium nach dieser Prüfungsordnung“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
+   - b) In Abs. 1 Satz 1 wird nach den Worten „Studium nach dieser Prüfungsordnung“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
 
-- c) In Abs. 2 Satz 1 wird nach den Worten „erworben wurden, können“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
+   - c) In Abs. 2 Satz 1 wird nach den Worten „erworben wurden, können“ das Wort „angerechnet“ durch das Wort „anerkannt“ ersetzt. 
 
-- d) Abs. 3 wird wie folgt geändert: 
+   - d) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „oder angerechneter“ gestrichen sowie die Zahl „18“ durch die Zahl „19“ ersetzt. 
+      - aa) In Satz 1 werden die Worte „oder angerechneter“ gestrichen sowie die Zahl „18“ durch die Zahl „19“ ersetzt. 
 
 bb) Satz 2 wird wie folgt geändert: 
 
@@ -148,9 +152,9 @@ bb) Satz 2 wird wie folgt geändert:
 
 (1) 1Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden. 2Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen. 4Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.<sup>3</sup> Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen. 4Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 4 
 
@@ -166,9 +170,9 @@ aa) Nach den Worten „Beurteilung durch“ werden die Worte „eine bzw.“ ein
 
 - b) Nach Abs. 2 werden folgende neue Abs. 3 bis 6 eingefügt: 
 
-„(3) 1Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgehalten werden, regelt das Modulhandbuch.[3] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.[4] Wenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[5] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen oder Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie zuverlässige Prüfungsergebnisse ermöglichen.[6] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[7] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswirken.[8] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+„(3) 1Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- oder Multiple-Choice-Prüfungen).<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgehalten werden, regelt das Modulhandbuch.<sup>3</sup> Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.<sup>4</sup> Wenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.<sup>5</sup> Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen oder Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie zuverlässige Prüfungsergebnisse ermöglichen.<sup>6</sup> Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.<sup>7</sup> Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswirken.<sup>8</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
 
-(4)[1] Prüfungen nach Abs. 1 Satz 1 gelten als bestanden, wenn 
+- (4)<sup>1</sup> Prüfungen nach Abs. 1 Satz 1 gelten als bestanden, wenn 
 
 1.  die oder der zu Prüfende insgesamt mindestens 60 Prozent der gestellten Prüfungsfragen zutreffend beantwortet bzw. der zu erzielenden Punkte erreicht hat oder 
 
@@ -186,7 +190,7 @@ aa) Nach den Worten „Beurteilung durch“ werden die Worte „eine bzw.“ ein
 
 ## **„§ 17 Elektronische Prüfungen** 
 
-1Prüfungen können in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[3] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[4] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.[5] Näheres dazu, welche Prüfungen in elektronischer Form abgehalten werden, regelt das Modulhandbuch.“ 
+1Prüfungen können in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.<sup>3</sup> Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>4</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.<sup>5</sup> Näheres dazu, welche Prüfungen in elektronischer Form abgehalten werden, regelt das Modulhandbuch.“ 
 
 16. Die bisherigen §§ 17 bis 32 werden zu §§ 18 bis 33. 
 
@@ -196,13 +200,13 @@ a) Abs. 1 wird wie folgt geändert:
 
 - aa) In Satz 1 werden die Worte „Prüferin oder“ durch das Wort „bzw.“ sowie das Wort „Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
-bb) In Satz 2 werden nach dem Wort „[2] Die“ die Worte „Beisitzerinnen und“ eingefügt. 
+- bb) In Satz 2 werden nach dem Wort „<sup>2</sup> Die“ die Worte „Beisitzerinnen und“ eingefügt. 
 
-- b) Die Abs. 3 bis 6 werden gestrichen. 
+b) Die Abs. 3 bis 6 werden gestrichen. 
 
 18. § 19 (neu) wird wie folgt geändert: 
 
-- a) Abs. 2 wird wie folgt geändert: 
+a) Abs. 2 wird wie folgt geändert: 
 
 aa) In Satz 1 werden nach der Zahl „4,3“ ein Komma sowie die Zahl „4,7“ eingefügt. 
 
@@ -220,9 +224,9 @@ aa) In Satz 2 wird die Zahl „17“ durch die Zahl „16“ ersetzt.
 
 bb) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
-„[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß 
+„<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
 
-§ 16 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ cc) Der bisherige Satz 5 wird zu Satz 6. 
+cc) Der bisherige Satz 5 wird zu Satz 6. 
 
 6 
 
@@ -246,7 +250,7 @@ dd) In Satz 6 (neu) wird das Wort „Abs. 4“ durch das Wort „Abs. 5“ erset
 
 21. In § 22 Abs. 2 Satz 5 (neu) wird das Wort „Absatz“ durch das Wort „Abs.“ ersetzt. 
 
-22. § 23 (neu) wird wie folgt geändert: 
+## 22. § 23 (neu) wird wie folgt geändert: 
 
    - a) Die Worte „ein Kandidat“ werden durch die Worte „eine Studierende bzw. ein Studierender“ ersetzt. 
 
@@ -274,15 +278,15 @@ dd) In Satz 6 (neu) wird das Wort „Abs. 4“ durch das Wort „Abs. 5“ erset
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-- „[3] Beim Prüfungsausschuss wird eine Liste mit allen zur Betreuung der Bachelorarbeit Berechtigten geführt.“ 
+- „<sup>3</sup> Beim Prüfungsausschuss wird eine Liste mit allen zur Betreuung der Bachelorarbeit Berechtigten geführt.“ 
 
 cc) Der bisherige Satz 3 wird zu Satz 4. 
 
-   - b) In Abs. 3 Satz 3 werden nach den Worten „[3] Gelingt es der“ die Worte „Studierenden oder“ sowie nach den Worten „erhalten, weist die“ die Worte „Vorsitzende oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+   - b) In Abs. 3 Satz 3 werden nach den Worten „<sup>3</sup> Gelingt es der“ die Worte „Studierenden oder“ sowie nach den Worten „erhalten, weist die“ die Worte „Vorsitzende oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-   - c) In Abs. 4 Satz 4 werden nach den Worten „[4] Weist die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+   - c) In Abs. 4 Satz 4 werden nach den Worten „<sup>4</sup> Weist die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - d) In Abs. 6 Satz 2 werden nach den Worten „[2] Auf Antrag der“ das Wort „Studierenden“ sowie nach den Worten „kann die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+   - d) In Abs. 6 Satz 2 werden nach den Worten „<sup>2</sup> Auf Antrag der“ das Wort „Studierenden“ sowie nach den Worten „kann die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
    - e) In Abs. 7 Satz 3 werden nach den Worten „Erklärung der“ die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -290,13 +294,13 @@ cc) Der bisherige Satz 3 wird zu Satz 4.
 
       - aa) In Satz 1 werden nach den Worten „Thema stellt, und“ die Worte „einer bzw.“ eingefügt sowie nach den Worten „weiteren, von der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 2 werden nach dem Wort „[2] Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 2 werden nach dem Wort „<sup>2</sup> Die“ die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
    - g) Abs. 9 wird wie folgt geändert: 
 
       - a) In Satz 1 wird das Wort „ausreichende“ durch das Wort „angenommene“ ersetzt. 
 
-      - b) In Satz 2 werden nach dem Wort „[2] Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+      - b) In Satz 2 werden nach dem Wort „<sup>2</sup> Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
 27. § 28 (neu) wird wie folgt geändert: 
 
@@ -304,7 +308,7 @@ cc) Der bisherige Satz 3 wird zu Satz 4.
 
 aa) In Satz 3 wird die Zahl „26“ durch die Zahl „27“ ersetzt. 
 
-- bb) In Satz 5 werden nach dem Wort „[5] Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) In Satz 5 werden nach dem Wort „<sup>5</sup> Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
 - cc) In Satz 7 werden nach den Worten „Prüfungsausschuss der“ die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -316,7 +320,7 @@ dd) In Satz 8  wird das Wort „Erziehungsurlaub“ durch das Wort „Elternzeit
 
       - aa) In Satz 2 werden nach den Worten „der **Anlage 1** “ das Wort „und“ sowie die Zahl „ **3** “ gestrichen. 
 
-      - bb) In Satz 4 werden nach den Worten „[4] Besteht die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 4 werden nach den Worten „<sup>4</sup> Besteht die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
    - c) In Abs. 3 werden nach den Worten „der **Anlage 1** “ das Wort „und“ sowie die Zahl „ **3** “ gestrichen. 
 
@@ -342,7 +346,7 @@ aa) Das Wort „Zulassung“ wird durch das Wort „Zugang“ ersetzt.
 
 - d) Abs. 4 und 5 (neu) erhalten folgende neue Fassung: 
 
-„(4) 1Die Abschlüsse nach Abs. 1 Satz 2 Nrn. 2 dürfen hinsichtlich der nachgewiesenen Qualifikation keine wesentlichen Unterschiede zu derjenigen der Bachelorprüfung nach dieser Prüfungsordnung aufweisen.[2] Die Entscheidung nach Satz 1 obliegt dem Prüfungsausschuss.[3] Abschlüsse in den Bachelorstudiengängen Molekulare Medizin, Molekulare Biomedizin, Biomedizin, Humanbiologie und Biomedical Sciences sind in der Regel als wesentlich gleich anzusehen.[4] Sind ausgleichsfähige wesentliche Unterschiede gegeben, kann der Prüfungsausschuss den Zugang unter der Bedingung aussprechen, dass zusätzliche vom Prüfungsausschuss festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.[5] Für die Feststellung der Anerkennungsfähigkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG. 
+„(4) 1Die Abschlüsse nach Abs. 1 Satz 2 Nrn. 2 dürfen hinsichtlich der nachgewiesenen Qualifikation keine wesentlichen Unterschiede zu derjenigen der Bachelorprüfung nach dieser Prüfungsordnung aufweisen.<sup>2</sup> Die Entscheidung nach Satz 1 obliegt dem Prüfungsausschuss.<sup>3</sup> Abschlüsse in den Bachelorstudiengängen Molekulare Medizin, Molekulare Biomedizin, Biomedizin, Humanbiologie und Biomedical Sciences sind in der Regel als wesentlich gleich anzusehen.<sup>4</sup> Sind ausgleichsfähige wesentliche Unterschiede gegeben, kann der Prüfungsausschuss den Zugang unter der Bedingung aussprechen, dass zusätzliche vom Prüfungsausschuss festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.<sup>5</sup> Für die Feststellung der Anerkennungsfähigkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG. 
 
 (5) Für die Zulassungsvoraussetzungen zu den Prüfungen gilt § 26 entsprechend.“ 
 
@@ -356,7 +360,7 @@ aa) Das Wort „Zulassung“ wird durch das Wort „Zugang“ ersetzt.
 
 aa) In Satz 2 wird das Wort „vorliegen“ durch die Worte „erworben wurden“ ersetzt. bb) Satz 4 wird wie folgt geändert: 
 
-      - (1) Nach den Worten „[4] Gelingt es der“ werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - (1) Nach den Worten „<sup>4</sup> Gelingt es der“ werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
       - (2) Nach den Worten „erhalten, weist die“ werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -366,7 +370,7 @@ aa) In Satz 2 wird das Wort „vorliegen“ durch die Worte „erworben wurden�
 
    - „(3) Für die Betreuung der Masterarbeit gilt § 27 Abs. 2 entsprechend.“ 
 
-- d) In Abs. 4 Satz 3 werden nach den Worten „[3] Weist die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+- d) In Abs. 4 Satz 3 werden nach den Worten „<sup>3</sup> Weist die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
 - e) In Abs. 5 Satz 1 werden nach den Worten „Einwilligung der“ die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -380,13 +384,13 @@ aa) In Satz 2 wird das Wort „vorliegen“ durch die Worte „erworben wurden�
 
 aa) Satz 2 wird wie folgt geändert: 
 
-- (1) In Halbs. 1 werden nach dem Wort „[2] Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
+- (1) In Halbs. 1 werden nach dem Wort „<sup>2</sup> Die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
 - (2) In Halbs. 2 wird das Wort „Absatz“ durch das Wort „Abs.“ ersetzt. 
 
 bb) In Satz 3 Halbs. 1 wird das Wort „Absatz“ durch das Wort „Abs.“ ersetzt. cc) Satz 4 wird wie folgt geändert: 
 
-- (1) Nach dem Wort „[4] Die“ werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+- (1) Nach dem Wort „<sup>4</sup> Die“ werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
 - (2) Nach den Worten „Einverständnis der“ werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -400,7 +404,7 @@ bb) In Satz 3 Halbs. 1 wird das Wort „Absatz“ durch das Wort „Abs.“ erse
 
 ## **„§ 32 Wiederholung von Prüfungen** 
 
-1Für die Wiederholung von Prüfungen gelten § 28 Abs. 1 und Abs. 2 Sätze 1 und 3 bis 8 entsprechend.[2] Vorbehaltlich abweichender Bestimmungen in der **Anlage 3** können statt nicht bestandener Module andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden angerechnet. 3Vorbehaltlich abweichender Bestimmungen in der **Anlage 3** können die Studierenden selbst wählen, in welcher Reihenfolge sie die Module ablegen.“ 
+1Für die Wiederholung von Prüfungen gelten § 28 Abs. 1 und Abs. 2 Sätze 1 und 3 bis 8 entsprechend.<sup>2</sup> Vorbehaltlich abweichender Bestimmungen in der **Anlage 3** können statt nicht bestandener Module andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden angerechnet. 3Vorbehaltlich abweichender Bestimmungen in der **Anlage 3** können die Studierenden selbst wählen, in welcher Reihenfolge sie die Module ablegen.“ 
 
 11 
 
@@ -410,100 +414,95 @@ bb) In Satz 3 Halbs. 1 wird das Wort „Absatz“ durch das Wort „Abs.“ erse
 
 ## **Studienverlaufsplan Bachelor** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|1.<br>Sem|2. Sem|3.<br>Sem|4.<br>Sem|5.<br>Sem|6.<br>Sem|Art und Umfang der<br>Prüfung<br>/Studienleistung **1)**|GOP|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
-|**Physik**|Vorlesung|4||||**7,5**|7,5||||||Portfolio:<br>Klausur 180 min (p/f)<br>und Praktikumsleistung<br>(p/f)||
-||Übungzur Vorlesung||2||||||||||||
-||Praktikum|||5|||||||||||
-|**Physikalische Chemie**|Vorlesung I|2|||||2,5||||||Portfolio:||
-||Vorlesung II|2||||**7,5**|2,5||||||Klausur 90 min (p/f) und||
-||Praktikum|||2||||2,5|||||Praktikumsleistung (p/f)||
-|**Grundlagen der Zellbiologie**|Vorlesung|3||||**5**|5||||||Klausur90min(benotet)||
-|**Allgemeine und Anorganische**<br>**Chemie**|Vorlesung|4||||**5**|5||||||Klausur 90 min (p/f)|GOP|
-|**Anorganisch-chemisches**<br>**Praktikum **|Praktikum|||8||**5**||5|||||Praktikumsleistung (p/f)|GOP|
-|**Biochemie und Grundzüge der**<br>**Molekularen Medizin**|Propädeutikvorlesung|1||||**5**|2,5||||||Portfolio:<br>Diskussionsleitung 45<br>min (p/f) und<br>Präsentation 10-20  min<br>(p/f)|GOP|
-||Tutorium||||2||||||||||
-||Seminar||||||||||||||
-||||||1|||2,5|||||||
-||||||||||||||||
-|**Funktionelle Anatomie des**<br>**Menschen**|Demokurs Anatomie|4||||**5**|5||||||Klausur 60 min<br>(benotet)|GOP|
-|**Allgemeine Histologie und**<br>**Embryologie**|Vorlesung|3|||||||||||Portfolio:<br>Klausur 60 min<br>(benotet) und<br>mündliches Testat 10-<br>15 min (p/f)|GOP|
-||Übung||||||||||||||
-||||2|||**5**|5||||||||
-|**Spezielle Histologie und**<br>**Organogenese**|Vorlesung|3|||||||||||Portfolio:<br>Klausur 60 min<br>(benotet) und<br>mündliches Testat 10-<br>15 min (p/f)|GOP|
-||Übung||||||||||||||
-||||2|||**5**||5|||||||
-|**Grundlagen der Physiologie**<br>**des Menschen und Grundlagen**<br>**der Bioinformatik**|Allg. Physiologie|1,5|||0,5||||||||Klausur 90 min||
-||Bioinformatik|2||||**5**||5|||||(benotet)||
-||||||||||||||||
-|**Organische Chemie**|Vorlesung|3|||||||||||Portfolio:<br>Klausur 90 min<br>(benotet)und||
-||Seminar||||1|**10**||5|||||||
-||Praktikum|||7|||||5||||||
+||||SWS||Gt|1.|2. Sem|<br>3.|4.|5.|6.|Art und Umfang der|GOP|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||||esam<br>|Sem||Sem|Sem|Sem|Sem|Prüfung||
+|||V|Ü<br>P|S|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|<br>/Studienleistung <sup>**1)**</sup>||
+|**Physik**|Vorlesung<br>|4||||||||||Portfolio:||
+||Übungzur Vorlesung||2||**75**|75||||||Klausur 180 min (p/f)||
+||Praktikum||5||**,**|,||||||und Praktikumsleistung<br>(p/f)||
+|**Physikalische Chemie**|Vorlesung I|2||||2,5||||||Portfolio:||
+||Vorlesung II|2|||**7,5**|2,5||||||Klausur 90 min (p/f) und||
+||Praktikum||2||||2,5|||||Praktikumsleistung (p/f)||
+|**Grundlagen der Zellbiologie**|Vorlesung|3|||**5**|5||||||Klausur90min(benotet)||
+|**Allgemeine und Anorganische**<br>**Chemie**|Vorlesung|4|||**5**|5||||||Klausur 90 min (p/f)|GOP|
+|**Anorganisch-chemisches**<br>**Praktikum **|Praktikum||8||**5**||5|||||Praktikumsleistung (p/f)|GOP|
+|**Biochemie und Grundzüge der**|Propädeutikvorlesung|1||||25||||||Portfolio:||
+|**Molekularen Medizin**|Tutorium|||2||,||||||Diskussionsleitung 45||
+||Seminar|||1|**5**||2,5|||||min (p/f) und<br>Präsentation 10-20  min<br>(p/f)|GOP|
+|**Funktionelle Anatomie des**<br>**Menschen**|Demokurs Anatomie|4|||**5**|5||||||<br>Klausur 60 min<br>(benotet)|GOP|
+|**Allgemeine Histologie und**|Vorlesung|3||||||||||Portfolio:||
+|**Embryologie**|Übung||2||**5**|5||||||Klausur 60 min<br>(benotet) und<br>mündliches Testat 10-<br>15 min (p/f)|GOP|
+|**Spezielle Histologie und**|Vorlesung|3||||||||||<br>Portfolio:||
+|**Organogenese**|Übung||2||**5**||5|||||Klausur 60 min<br>(benotet) und<br>mündliches Testat 10-<br>15 min (p/f)|GOP|
+|**Grundlagen der Physiologie**|Allg. Physiologie|1,5||0,5||||||||<br>Klausur 90 min||
+|<br>**des Menschen und Grundlagen**<br>**der Bioinformatik**|Bioinformatik|2|||**5**||5|||||(benotet)||
+|**Organische Chemie**|Vorlesung|3||||||||||Portfolio:||
+||Seminar|||1|**10**||5|||||Klausur 90 min||
+||Praktikum||7|||||5||||(benotet)und||
 
 12 
 
-||||||||||||||Praktikumsleistung (p/f)||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Vegetative Physiologie,**<br>**Neurophysiologie und**|Vegetative<br>Physiologie|4||5|2||||||||Portfolio:<br>Klausur Neuroanatomie<br>45 min (p/f),<br>Hausaufgaben (p/f) und<br>mündliche Prüfung 20-30<br>min(benotet)||
-|**Neuroanatomie**|Neuroanatomie|1,5|||0,5|**20**|||10|10|||||
-||Neurophysiologie|4||5|2||||||||||
-|**Biochemie und**<br>**Molekularbiologie I**|Vorlesung|4||||**10**|||10||||Klausur ca. 180 min<br>(benotet)||
-||Seminare||||3||||||||||
-|**Biochemie und**<br>**Molekularbiologie II**|Vorlesung|4||||**10**||||10|||Portfolio:<br>Referat ca. 10 min  (p/f)<br>und<br>Klausur 180 min<br>(benotet)||
-||Seminare||||4||||||||||
-|**Biochemisches Praktikum I**|Vorlesung|2||||**5**|||5||||Praktikumsleistung (p/f)||
-||Praktikum||||4||||||||||
-|**Biochemisches Praktikum II**|Vorlesung|2||||**5**||||5|||Praktikumsleistung (p/f)||
-||Praktikum||||4||||||||||
-|**Mikrobiologie, Immunologie**<br>**und Virologie**|Vorlesung|3|||||||2,5||||Klausur 90 min<br>||
-||K|||||**5**|||||||(benotet)||
-||urs|2|1|||||||2,5|||||
-|**Humangenetik**|Vorlesung|2||||**5**|||||||Klausur 90 min<br>(benotet)||
-||Kurs||4||||||||5||||
-|**Zellbiologisches Praktikum**|Praktikum|||5||**5**|||||5||Portfolio:<br>Präsentation 10-20 min<br>(unbenotet) und<br>Praktikumsleistung (p/f)||
-|**Wissenschaftsgeschichte und**<br>**Ethik der Medizin**|Geschichte, Ethik der<br>Medizin|1|||1|**2,5**|||||2,5||Klausur 60 min<br>(benotet)||
-|**Strahlenschutz**|Strahlenschutzkurs||3|||**2,5**|||||2,5||Klausur 120 min<br>(benotet)||
-|**Pharmakologie und**<br>**Toxikologie**|Vorlesung|4||||**5**|||||5||Klausur 60 min<br>(benotet)||
-|**Molekulare Pharmakologie**|Übung||4|||**5**||||||5|Portfolio:<br>Präsentation 10-20 min<br>(p/f) und||
+||||||||||Praktikumsleistung (p/f)|
+|---|---|---|---|---|---|---|---|---|---|
+|**Vegetative Physiologie,**<br>**Neurophysiologie und**|Vegetative<br>Physiologie|4|5|2|||||Portfolio:<br>Klausur Neuroanatomie|
+|**Neuroanatomie**|Neuroanatomie|1,5||0,5|**20**|10|10||45 min (p/f),<br>|
+||Neurophysiologie|4|5|2|||||Hausaufgaben (p/f) und<br>mündliche Prüfung 20-30<br>min(benotet)|
+|**Biochemie und**<br>|Vorlesung|4|||||||Klausur ca. 180 min<br>|
+|**Molekularbiologie I**|Seminare|||3|**10**|10|||(benotet)|
+|**Biochemie und**<br>**Molekularbiologie II**|Vorlesung|4|||||||Portfolio:<br>Referat ca 10 min  (p/f)|
+||Seminare|||4|**10**||10||.<br>und<br>Klausur 180 min<br>(benotet)|
+|**Biochemisches Praktikum I**|Vorlesung|2|||**5**|5|||Praktikumsleistung (p/f)|
+||Praktikum|||4||||||
+|**Biochemisches Praktikum II**|Vorlesung|2|||||||Praktikumsleistung (p/f)|
+||Praktikum|||4|**5**||5|||
+|**Mikrobiologie, Immunologie**<br>|Vorlesung|3||||2,5|||Klausur 90 min<br>|
+|**und Virologie**|Kurs|2|1||**5**||2,5||(benotet)|
+|**Humangenetik**|Vorlesung|2|||**5**|||5|Klausur 90 min<br>bntt|
+||Kurs||4||||||(eoe)|
+|**Zellbiologisches Praktikum**|Praktikum||5||**5**|||5|Portfolio:<br>Präsentation 10-20 min<br>(unbenotet) und<br>Praktikumsleistung (p/f)|
+|**Wissenschaftsgeschichte und**<br>**Ethik der Medizin**|Geschichte, Ethik der<br>Medizin|1||1|**2,5**|||2,5|Klausur 60 min<br>(benotet)|
+|**Strahlenschutz**|Strahlenschutzkurs||3||**2,5**|||2,5|Klausur 120 min<br>(benotet)|
+|**Pharmakologie und**<br>**Toxikologie**|Vorlesung|4|||**5**|||5|<br>Klausur 60 min<br>(benotet)|
+|**Molekulare Pharmakologie**|Übung||4||**5**||||5<br>Portfolio:<br>Präsentation 10-20 min<br>(p/f) und|
 
 13 
 
-||||||||||||||Klausur 45-60 min<br>(benotet)||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Allgemeine Pathologie**<br>|Vorlesung|5||||**5**|||||5||Portfolio:<br>Klausur ca. 60 min<br>(benotet) und<br>Präparateprüfung  ca.<br>45min(benotet)||
-||Übungen||2||||||||||||
-|**Spezielle Pathologie **~~**2)**~~|Vorlesung|2||||**5**||||||5|Portfolio:<br>Klausur ca. 60 min<br>(benotet) und<br>Präparateprüfung  ca.<br>45 min (benotet)||
-||Übung||1||||||||||||
-|**Biometrie und Epidemiologie**|Vorlesung|1||||**5**|||||5||Klausur 90 min<br>(benotet)||
-||Übungen||3||||||||||||
-|**Wahlpflichtmodul**<br>**Laborexperimentelles Arbeiten**<br>**I**||||6||**5**||||||5|Portfolio:<br>Präsentation (benotet)<br>und Praktikumsleistung<br>(benotet)||
-|**Wahlpflichtmodul**<br>**Laborexperimentelles Arbeiten**<br>**II**||||6||**5**||||||5|Portfolio:<br>Präsentation (benotet)<br>und Praktikumsleistung<br>(benotet)||
-|**Bachelorarbeit**|Bachelorarbeit|||||**10**||||||10|Portfolio:<br>Präsentation (p/f) und<br>schriftliche Thesis<br>(benotet)||
-||Summe SWS:|74|24|49|25||||||||||
-||SummeECTS:|||||**180**|32,5|27,5|32,5|27,5|30|30|||
+|||||||||||Klausur 45-60 min<br>(benotet)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Allgemeine Pathologie**|Vorlesung<br>|5|||||||5|Portfolio:<br>Klausur ca 60 min|
+||Übungen||2|**5**||||||.<br>(benotet) und<br>Präparateprüfung  ca.<br>45min(benotet)|
+|**Spezielle Pathologie **<sup>**~~2)~~**</sup>|Vorlesung<br>|2||||||||Portfolio:<br>Klausur ca. 60 min|
+||Übung||1|**5**||||||5<br>(benotet) und<br>Präparateprüfung  ca.<br>45 min (benotet)|
+|**Biometrie und Epidemiologie**|Vorlesung<br>|1||**5**|||||5|Klausur 90 min<br>(benotet)|
+||Übungen||3||||||||
+|**Wahlpflichtmodul**<br>**Laborexperimentelles Arbeiten**<br>**I**|||6|**5**||||||5<br>Portfolio:<br>Präsentation (benotet)<br>und Praktikumsleistung<br>(benotet)|
+|**Wahlpflichtmodul**<br>**Laborexperimentelles Arbeiten**<br>**II**|||6|**5**||||||5<br>Portfolio:<br>Präsentation (benotet)<br>und Praktikumsleistung<br>(benotet)|
+|**Bachelorarbeit**|Bachelorarbeit|||**10**||||||10<br>Portfolio:<br>Präsentation (p/f) und<br>schriftliche Thesis<br>(benotet)|
+||Summe SWS:|74|24<br>49<br>25||||||||
+||SummeECTS:|||**180**|32,5|27,5|32,5|27,5|30|30|
 
 Erläuterungen: 
 
-- **1)** (p/f): pass/fail 
+> **1)** (p/f): pass/fail 
 
-- **2)** Zulassungsvoraussetzung für dieses Modul ist, dass das Modul „Allgemeine Pathologie“ bestanden ist. 
+> **2)** Zulassungsvoraussetzung für dieses Modul ist, dass das Modul „Allgemeine Pathologie“ bestanden ist. 
 
 „ 
 
 14 
 
-32. Anlage 2 wird wie folgt geändert: 
+## 32. Anlage 2 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 wird das Wort „Zulassungsbeginn“ durch das Wort „Studienbeginn“ ersetzt. 
+- a) In Abs. 1 Satz 1 wird das Wort „Zulassungsbeginn“ durch das Wort „Studienbeginn“ ersetzt. 
 
-   - b) In Abs. 2 Satz 2 Nr. 1 werden im Klammerzusatz die Zahl „29“ durch die Zahl „30“ ersetzt sowie nach dem Wort „oder“ ein Komma sowie die Worte „im Falle des Abs. 1 Satz 2,“ eingefügt. 
+- b) In Abs. 2 Satz 2 Nr. 1 werden im Klammerzusatz die Zahl „29“ durch die Zahl „30“ ersetzt sowie nach dem Wort „oder“ ein Komma sowie die Worte „im Falle des Abs. 1 Satz 2,“ eingefügt. 
 
-   - c) In Abs. 3 Satz 2 werden nach den Worten „entscheidet die“ das Wort „Vorsitzende“ gestrichen sowie die Worte „der Zulassungskommission“ durch die Worte „des Prüfungsausschusses“ ersetzt. 
+- c) In Abs. 3 Satz 2 werden nach den Worten „entscheidet die“ das Wort „Vorsitzende“ gestrichen sowie die Worte „der Zulassungskommission“ durch die Worte „des Prüfungsausschusses“ ersetzt. 
 
-   - d) In Abs. 4 Satz 2 werden die Worte „Die Zulassungskommission“ durch die Worte „Der Prüfungsausschuss“ sowie das Wort „ihr“ durch das Wort „ihm“ ersetzt. 
+- d) In Abs. 4 Satz 2 werden die Worte „Die Zulassungskommission“ durch die Worte „Der Prüfungsausschuss“ sowie das Wort „ihr“ durch das Wort „ihm“ ersetzt. 
 
-   - e) Abs. 5 wird wie folgt geändert: 
+- e) Abs. 5 wird wie folgt geändert: 
 
 aa) In Satz 1 wird nach dem Wort „Bewerberin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -511,7 +510,7 @@ aa) In Satz 1 wird nach dem Wort „Bewerberin“ das Wort „oder“ durch das 
 
 cc) Satz 3 erhält folgende neue Fassung: 
 
-      - „[3] Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 30 Abs. 1 Satz 2 Nr. 1 bzw. einen im Hinblick auf die Qualifikation wesentlich gleichen Abschluss i. S. d. § 30 Abs. 3 Satz 3 mit mindestens der Note 2,5 (= gut) vorweisen kann.“ 
+      - „<sup>3</sup> Als besonders qualifiziert gilt insbesondere, wer einen Abschluss nach § 30 Abs. 1 Satz 2 Nr. 1 bzw. einen im Hinblick auf die Qualifikation wesentlich gleichen Abschluss i. S. d. § 30 Abs. 3 Satz 3 mit mindestens der Note 2,5 (= gut) vorweisen kann.“ 
 
    - dd) In Satz 4 werden nach den Worten „ist, erhält einen“ die Worte „mit Gründen und Rechtsbehelfsbelehrung versehenen“ eingefügt. 
 
@@ -521,7 +520,7 @@ aa) In Satz 1 werden die Worte „von der Zulassungskommission“ durch die Wort
 
 bb) Satz 3 erhält folgende neue Fassung: 
 
-      - „[3] Sie erstreckt sich auf folgende gleichgewichtete Kriterien: 
+      - „<sup>3</sup> Sie erstreckt sich auf folgende gleichgewichtete Kriterien: 
 
       1. Qualität der fachspezifischen Grundkenntnisse in den Bereichen Humanbiochemie, Humanphysiologie, Humananatomie, Humanzellbiologie, 
 
@@ -529,17 +528,17 @@ bb) Satz 3 erhält folgende neue Fassung:
 
    - cc) Nach Satz 3 wird folgender neuer Satz 4 angefügt: 
 
-      - „[4] Bei Bekanntgabe des Termins wird der Bewerberin bzw. dem Bewerber je ein Teilbereich aus Satz 3 Nrn. 1 und 2 zur Prüfungsvorbereitung mitgeteilt.“ 
+      - „<sup>4</sup> Bei Bekanntgabe des Termins wird der Bewerberin bzw. dem Bewerber je ein Teilbereich aus Satz 3 Nrn. 1 und 2 zur Prüfungsvorbereitung mitgeteilt.“ 
 
 - g) Abs. 7 Satz 2 erhält folgende neue Fassung: 
 
 15 
 
-„[2] Ist die mündliche Prüfung bestanden, entscheidet der Prüfungsausschuss auf Vorschlag der Prüfenden, ob die Zulassung mit Auflagen gemäß § 30 Abs. 3 Satz 4 verbunden wird.“ 
+„<sup>2</sup> Ist die mündliche Prüfung bestanden, entscheidet der Prüfungsausschuss auf Vorschlag der Prüfenden, ob die Zulassung mit Auflagen gemäß § 30 Abs. 3 Satz 4 verbunden wird.“ 
 
 h) Nach Abs. 7 wird folgender neuer Abs. 8 eingefügt: 
 
-„(8) 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
+„(8) 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
 
 - i) Die bisherigen Abs. 8 und 9 werden zu Abs. 9 und 10. 
 
@@ -549,7 +548,7 @@ h) Nach Abs. 7 wird folgender neuer Abs. 8 eingefügt:
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der lfd. Nr. 31 gelten für alle Studierenden, die die geänderten Module noch nicht begonnen haben.[3] Die Änderungen in den lfd. Nrn. 4c, 28 und 32 gelten für alle Studierenden, die ihr Studium ab dem Sommersemester 2015 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der lfd. Nr. 31 gelten für alle Studierenden, die die geänderten Module noch nicht begonnen haben.<sup>3</sup> Die Änderungen in den lfd. Nrn. 4c, 28 und 32 gelten für alle Studierenden, die ihr Studium ab dem Sommersemester 2015 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 11. Juli 2014 und der Genehmigungsfeststellung des Präsidenten vom 22. Juli 2014. 
 

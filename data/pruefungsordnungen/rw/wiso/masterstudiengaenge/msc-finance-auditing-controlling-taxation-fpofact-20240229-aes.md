@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Finance Auditing Controlling Taxation FPOFACT 20240229 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MSc_Finance_Auditing_Controlling_Taxation_FPOFACT_20240229_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:50+00:00
-page_count_chars: 6007
+scraped_at: 2026-07-01T11:01:25+00:00
+page_count_chars: 5998
 ---
 
 # MSc Finance Auditing Controlling Taxation FPOFACT 20240229 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 6007
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Finance,_Auditing,_Controlling,_Taxation/Aenderungssatzungen/MSc_Finance_Auditing_Controlling_Taxation_FPOFACT_20240229_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT 2023 – Vom 29. Februar 2024** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOFACT 2023 – Vom 29. Februar 2024** 
 
 Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs.1 Satz1, Art. 84 Abs.2 Satz 1, Art. 88 Abs.9, Art. 90 Abs.1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
@@ -48,9 +48,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
 „2. Nachweis über einschlägige FACT-bezogene berufspraktische Tätigkeiten (Zeugnisse bzw. Arbeitsbescheinigungen; die Nachweise müssen Beschäftigungszeitraum, die exakte wöchentliche Arbeitszeit in Stunden und eine Beschreibung der ausgeführten Tätigkeiten enthalten), soweit vorhanden.“ ersetzt. 
 
-- c) Abs. 3 wird wie folgt geändert: 
+c) Abs. 3 wird wie folgt geändert: 
 
-   - aa) Satz 1 wird wie folgt geändert: 
+aa) Satz 1 wird wie folgt geändert: 
 
       - (1)  In Nummer 1 Satz 2 wird in der Überschrift der Tabelle 1 nach den Worten und dem Zeichen „Punktevergabe nach §“ die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
@@ -91,15 +91,15 @@ aa) Satz 1 wird wie folgt geändert:
 
 „ 
 
-   - ee) Die bisherigen Sätze 4 und 5 werden gestrichen. 
+ee) Die bisherigen Sätze 4 und 5 werden gestrichen. 
 
-   - ff) Der ursprüngliche Satz 6 wird zum neuen Satz 3. 
+- ff) Der ursprüngliche Satz 6 wird zum neuen Satz 3. 
 
-   - gg) Der neue Satz 6 wird wie folgt geändert: 
+gg) Der neue Satz 6 wird wie folgt geändert: 
 
-      - (1)  Nach den Worten „Studiengang wird“ werden die Worte „in der Regel“ gestrichen. 
+   - (1)  Nach den Worten „Studiengang wird“ werden die Worte „in der Regel“ gestrichen. 
 
-      - (2)  Nach dem Wort „mindestens“ wird die Zahl „70“ durch die Zahl „55“ ersetzt. 
+   - (2)  Nach dem Wort „mindestens“ wird die Zahl „70“ durch die Zahl „55“ ersetzt. 
 
 4. § 5 wird wie folgt geändert: 
 
@@ -111,7 +111,7 @@ aa) Satz 1 wird wie folgt geändert:
 
 5. In § 7 wird nach Abs. 2 folgender neuer Abs. 3 eingefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt am 1. April 2024 in Kraft.[2] Sie gilt im Hinblick auf die Änderungen in §§ 3 und 4 für alle Studierenden, die das Masterstudium ab dem Wintersemester 2024/2025 aufnehmen werden; im Übrigen gilt sie auch für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOFACT vom 15. Juni 2023 studieren.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am 1. April 2024 in Kraft.<sup>2</sup> Sie gilt im Hinblick auf die Änderungen in §§ 3 und 4 für alle Studierenden, die das Masterstudium ab dem Wintersemester 2024/2025 aufnehmen werden; im Übrigen gilt sie auch für alle Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der FPOFACT vom 15. Juni 2023 studieren.“ 
 
 6. In der Tabelle in **Anlage 1** und **2** werden jeweils in Zeile 1 (Überschriften) in Spalte 6 (Art und Umfang der Prüfung/Studienleistung) nach dem Wort „Prüfung“ das Zeichen und das Wort „/Studienleistung“ gestrichen. 
 

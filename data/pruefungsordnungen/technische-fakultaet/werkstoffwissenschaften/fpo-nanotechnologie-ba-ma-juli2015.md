@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.12.2008 i.d.F. 02.07.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-Nanotechnologie-BA-MA.JULI2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:36:56+00:00
-page_count_chars: 16117
+scraped_at: 2026-07-01T11:52:46+00:00
+page_count_chars: 17512
 ---
 
 # PDF vom 15.12.2008 i.d.F. 02.07.2015
@@ -16,7 +16,7 @@ page_count_chars: 16117
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FAU) – FPONT – Vom 15. Dezember 2008** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FAU) – FPONT – Vom 15. Dezember 2008** 
 
 geändert durch Satzungen vom 2. März 2010 
 
@@ -38,21 +38,21 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1
 
 ## **§ 35 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Nanotechnologie mit den Abschlusszielen Bachelor of Science (B.Sc.) und Master of Science (M.Sc.).[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der FAU vom 18. September 2007 in der jeweils geltenden Fassung **(ABMPO/TechFak)** . 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Nanotechnologie mit den Abschlusszielen Bachelor of Science (B.Sc.) und Master of Science (M.Sc.).<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der FAU vom 18. September 2007 in der jeweils geltenden Fassung **(ABMPO/TechFak)** . 
 
 ## **§ 36 Bachelorstudiengang, Studienbeginn, Regelstudienzeit** 
 
 (1) Das Bachelorstudium Nanotechnologie beginnt jeweils zum Wintersemester. 
 
-(2)[1] Die Regelstudienzeit im Bachelorstudiengang Nanotechnologie beträgt sechs Semester.[2] Die Module des Bachelorstudiengangs und deren empfohlene Einordnung in den Studienverlauf sind der **Anlage 1** zu entnehmen. 
+(2)<sup>1</sup> Die Regelstudienzeit im Bachelorstudiengang Nanotechnologie beträgt sechs Semester.<sup>2</sup> Die Module des Bachelorstudiengangs und deren empfohlene Einordnung in den Studienverlauf sind der **Anlage 1** zu entnehmen. 
 
 ## **§ 37 Masterstudiengang, Regelstudienzeit, Studienbeginn** 
 
-(1)[1] Das konsekutive Masterstudium Nanotechnologie umfasst Pflichtmodule, Wahlpflichtmodule aus technischen und naturwissenschaftlichen Bereichen sowie das 
+(1)<sup>1</sup> Das konsekutive Masterstudium Nanotechnologie umfasst Pflichtmodule, Wahlpflichtmodule aus technischen und naturwissenschaftlichen Bereichen sowie das 
 
 1 
 
-Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssemester außerhalb der FAU erbracht werden. 
+Modul Masterarbeit.<sup>2</sup> Im Masterstudium kann das 3. Fachsemester als Auslandssemester außerhalb der FAU erbracht werden. 
 
 (2) Die Module des Masterstudiums und deren empfohlene Einordnung in den Studienverlauf sind der **Anlage 2** zu entnehmen. 
 
@@ -68,7 +68,7 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 ## **§ 38 Umfang der Grundlagen- und Orientierungsprüfung** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der **Anlage 1,** Spalte 2 ausgewiesenen Module 
+(1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der **Anlage 1,** Spalte 2 ausgewiesenen Module 
 
 1. B1: Mathematik für NT 1 
 
@@ -84,7 +84,7 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 ## **§ 39 Umfang und Gliederung der Bachelorprüfung** 
 
-- (1) Die Bachelorprüfung besteht aus: 
+(1) Die Bachelorprüfung besteht aus: 
 
 1. den Prüfungen der Grundlagen- und Orientierungsprüfung gem. § 38 Abs. 1 
 
@@ -92,7 +92,9 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 - a) B3: Mathematik für NT 3 
 
-- b) B4: Experimentalphysik c) B5: Allgemeine und Anorganische Chemie 
+- b) B4: Experimentalphysik 
+
+- c) B5: Allgemeine und Anorganische Chemie 
 
 - d) B6: Physikalische Chemie der Nanostrukturen 
 
@@ -118,11 +120,11 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 2 
 
-- o) B19 Reinraum-Praktikum 
+o) B19 Reinraum-Praktikum 
 
-- p) B20: Literaturarbeit und Präsentationstechnik 
+p) B20: Literaturarbeit und Präsentationstechnik 
 
-- q) B21: Berufliches Umfeld 
+q) B21: Berufliches Umfeld 
 
 3. der Bachelorarbeit (Modul B22) 
 
@@ -130,17 +132,17 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 ## **§ 40 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Nanotechnologie zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.[5] Die Bachelorarbeit wird mit 12 und das Referat mit 0,5 ECTS-Punkten veranschlagt. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Nanotechnologie zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Die Bachelorarbeit wird mit 12 und das Referat mit 0,5 ECTS-Punkten veranschlagt. 
 
 (2) Das Thema der Bachelorarbeit wird von einer bzw. einem hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer des Departments Werkstoffwissenschaften oder einer bzw. einem anderen hauptberuflich tätigen Hochschullehrerin bzw. Hochschullehrern der FAU, die bzw. der in der Lehre des Studiengangs Nanotechnologie eingebunden sind, ausgegeben. 
 
-(3)[1] Es wird empfohlen, die Bachelorarbeit frühestens zum Ende der Vorlesungszeit des 5. Semesters zu beginnen.[2] Für die Zulassungsvoraussetzungen gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
+(3)<sup>1</sup> Es wird empfohlen, die Bachelorarbeit frühestens zum Ende der Vorlesungszeit des 5. Semesters zu beginnen.<sup>2</sup> Für die Zulassungsvoraussetzungen gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
 
 ## **2. Masterstudium** 
 
 ## **§ 41 Qualifikation zum Masterstudium, Nachweise, Zugangsvoraussetzungen, Zugang mit Auflagen Nanotechnologie** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss im Fach Nanotechnologie, der hinsichtlich der Qualifikation keine wesentlichen Unterschiede zu dem Bachelorabschluss nach dieser Prüfungsordnung aufweist.[2] Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen bzw. Bewerber mit einem fachverwandten Abschluss i. S. d. § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** bzw. einem Abschluss i. S. d. § 29 Abs. 2 Satz 2 **ABMPO/TechFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 3 in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss im Fach Nanotechnologie, der hinsichtlich der Qualifikation keine wesentlichen Unterschiede zu dem Bachelorabschluss nach dieser Prüfungsordnung aufweist.<sup>2</sup> Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen bzw. Bewerber mit einem fachverwandten Abschluss i. S. d. § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** bzw. einem Abschluss i. S. d. § 29 Abs. 2 Satz 2 **ABMPO/TechFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 3 in das Masterstudium aufgenommen werden. 
 
 (2) Die Qualifikation zum Masterstudium Nanotechnologie wird i. S. d. Abs. 5 Satz 2 Nr. 2 **Anlage 1 ABMPO/TechFak** festgestellt, wenn in einer Auswahl des Katalogs von Modulen dieses Bachelorstudiengangs, die in **Anlage 1** dieser Fachprüfungsordnung mit „K“ gekennzeichnet sind, der Mittelwert der Modulnoten 3,0 oder besser beträgt. 
 
@@ -172,11 +174,11 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 ## **§ 44 Masterarbeit** 
 
-(1)[1] Das Modul Masterarbeit umfasst 30 ECTS-Punkte.[2] Es besteht aus der schriftlichen Masterarbeit im Umfang von 25 ECTS-Punkten und dem Vortrag im Umfang von 5 ECTS-Punkten. 
+(1)<sup>1</sup> Das Modul Masterarbeit umfasst 30 ECTS-Punkte.<sup>2</sup> Es besteht aus der schriftlichen Masterarbeit im Umfang von 25 ECTS-Punkten und dem Vortrag im Umfang von 5 ECTS-Punkten. 
 
-(2)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Nanotechnologie nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 840 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.[3] § 40 Abs. 2 und 3 gelten entsprechend. 
+(2)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Nanotechnologie nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 840 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> § 40 Abs. 2 und 3 gelten entsprechend. 
 
-(3)[1] Der Vortrag zur Masterarbeit umfasst eine Zeitdauer von ca. 30 min.[2] Im Vortrag werden die Masterarbeit und deren Ergebnisse mit einer daran anschließenden Diskussion vorgestellt.[3] Der Termin für den Vortrag wird von der Betreuerin/dem Betreuer der Masterarbeit festgelegt. 
+(3)<sup>1</sup> Der Vortrag zur Masterarbeit umfasst eine Zeitdauer von ca. 30 min.<sup>2</sup> Im Vortrag werden die Masterarbeit und deren Ergebnisse mit einer daran anschließenden Diskussion vorgestellt.<sup>3</sup> Der Termin für den Vortrag wird von der Betreuerin/dem Betreuer der Masterarbeit festgelegt. 
 
 ## **III. Übergangs- und Schlussbestimmungen** 
 
@@ -186,19 +188,75 @@ Modul Masterarbeit.[2] Im Masterstudium kann das 3. Fachsemester als Auslandssem
 
 4 
 
-## **Anlage 1:** 
+### **Anlage 1:** 
 
-**==> picture [721 x 465] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer<br>Art und Umfang der Studien- und<br>SWS  1. Sem 2. Sem 3. Sem 4. Sem 5. Sem 6. Sem<br>Prüfungsleistung<br>Nr. Modul  ECTS  Prüfungsart  Prüfungs-<br>V  Ü  P  ECTS  ECTS  ECTS  ECTS  ECTS  ECTS<br>form<br>PfP  PL/SL<br>PL  K90<br>B1 Mathematik für NT 1  [1)] GOP 4  2  7,5  7,5  PfP<br>SL  ÜbL<br>PL  K90<br>B2  Mathematik für NT 2  [1)] GOP 4  2  7,5  7,5  PfP<br>SL  ÜbL<br>PL  K 90<br>B3 Mathematik für NT 3  [1)] 4  2  7,5  7,5  PfP<br>SL  ÜbL<br>B4a Experimentalphysik I  3  1  5  5  PL  K90<br>B4b Experimentalphysik II  3  1  5  5  PL  K90<br>PL  K45<br>B5 Allgemeine und Anorganische Chemie  4  7  12,5  5  7,5  PfP<br>SL  PrL<br>B6  Physikalische Chemie der Nanostrukturen  2  2  5  5  PL  K90<br>Grundlagen der Nanotechnologie I<br>Nano I: Einführung in die Nanotechnologie  GOP 2  2,5<br>B7  10  PfP  PL  K90<br>Nano II: Charakterisierung  K  2  2,5<br>Nano-Praktikum I  5  5  SL  PrL<br>Grundlagen der Nanotechnologie II<br>B8  Nano III: Materialien  K  2  15  2,5  PfP  PL  K90<br>Nano-IV: Halbleiterbauelemente  2  2,5<br>Nano-Praktikum II / III  10  7,5  2,5  SL  PrL<br>Werkstoffe: Grundlagen<br>Struktur der Werkstoffe/metallische Werkstoffe  3  1  4,5<br>B9  GOP 10  PL  K120<br>Nichtmetallisch-anorganische Werkstoffe  2  2,5<br>Organische Werkstoffe  2  1  3<br>B10 Mechanische Eigenschaften von Werkstoffen  2  2,5  2,5  PL  K45<br>Messtechnik & Werkstoffeigenschaften<br>B11 Charakterisierung und Prüfung 2  5  2,5  PL  K90<br>Elektrische, magnetische u. optische Eigenschaften  2  2,5<br>Physikalische Chemie der Werkstoffe<br>B12 Festkörperthermodynamik  2  5  2  PfP  PL  K45<br>Computeranwendungen in der Verfahrenstechnik  2  1  3  SL  K90<br>B13 Quantenmechanik  4  2  7,5  7,5  PL  K90<br>B14 Festkörperphysik  4  2  7,5  7,5  PL  K90<br>B15 Wissenschaftliches Arbeiten  5<br>**----- End of picture text -----**<br>
+|Module des Bachelorstudiums mit Angabe der Leis|tungspunkte, der Verteil|ung auf|die Sem|ester so|wie des|Prüfun|gsmodu|s und de<br>|r Prüfun<br>|gsdaue<br>|r<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||**SWS**||**1. Sem **|**2. Sem **|**3. Sem **|**4. Sem **|**5. Sem **|**6. Sem**<br>|**rt und Umf**<br>**Prüf**|**ang der St**<br>**ungsleistu**|**udien- und**<br>**ng**|
+|**Nr. Modul**||**ECTS**|||||||**Prüfun**|**sart**||
+||**V**<br>**Ü**<br>**P**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|<br>**PfP**|**g**<br>**PL/SL**|**Prüfungs-**<br>**form**|
+|B1 Mathematik für NT 1<sup>1)</sup>|GOP<br>4<br>2|7,5|7,5||||||PfP|PL<br>SL|K90<br>ÜbL|
+|B2<br>Mathematik für NT 2<sup>1)</sup>|GOP<br>4<br>2|7,5||7,5|||||PfP|PL<br>SL|K90<br>ÜbL|
+|B3 Mathematik für NT 3<sup>1)</sup>|4<br>2|7,5|||7,5||||PfP|PL<br>SL|K 90<br>ÜbL|
+|B4a<br>Experimentalphysik I|3<br>1|5|5|||||||PL|K90|
+|B4b<br>Experimentalphysik II|3<br>1|5||5||||||PL|K90|
+|B5 Allgemeine und Anorganische Chemie|4<br>7|12,5|5|7,5|||||PfP|PL<br>SL|K45<br>PrL|
+|B6<br>Physikalische Chemie der Nanostrukturen|2<br>2|5||||5||||PL|K90|
+|Grundlagen der Nanotechnologie I||||||||||||
+|B7<br>Nano I: Einführung in die Nanotechnologie|GOP<br>2|10|2,5||||||PfP|PL|K90|
+|<br>Nano II: Charakterisierung|K<br>2|||2,5||||||||
+|Nano-Praktikum I|5|||5||||||SL|PrL|
+|Grundlagen der Nanotechnologie II||||||||||||
+|B8<br>Nano III: Materialien|K<br>2|15|||2,5||||PfP|PL|K90|
+|Nano-IV: Halbleiterbauelemente|2|||||2,5||||||
+|Nano-Praktikum II / III|10||||7,5|2,5||||SL|PrL|
+|Werkstoffe: Grundlagen||||||||||||
+|B9<br>Struktur der Werkstoffe/metallische Werkstoffe|GOP<br>3<br>1|10|4,5|||||||PL|K120|
+|<br>Nichtmetallisch-anorganische Werkstoffe|2||2,5|||||||||
+|Organische Werkstoffe|2<br>1||3|||||||||
+|B10<br>Mechanische Eigenschaften von Werkstoffen|2|2,5||2,5||||||PL|K45|
+|Messtechnik & Werkstoffeigenschaften||||||||||||
+|B11<br>Charakterisierungund Prüfung|2|5||||2,5||||PL|K90|
+|Elektrische, magnetische u. optische Eigenschaften|2|||||2,5||||||
+|Physikalische Chemie der Werkstoffe||||||||||||
+|B12<br>Festkörperthermodynamik|2|5||||2|||PfP|PL|K45|
+|Computeranwendungen in der Verfahrenstechnik|2<br>1|||||3||||SL|K90|
+|B13 Quantenmechanik|4<br>2|7,5|||7,5|||||PL|K90|
+|B14<br>Festkörperphysik|4<br>2|7,5||||7,5||||PL|K90|
+|B15 Wissenschaftliches Arbeiten||5||||||||||
 
 5 
 
-**==> picture [722 x 350] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Art und Umfang der Studien- und<br>SWS  1. Sem 2. Sem 3. Sem 4. Sem 5. Sem 6. Sem<br>Prüfungsleistung<br>Nr. Modul  ECTS  Prüfungsart  Prüfungs-<br>V  Ü  P  ECTS  ECTS  ECTS  ECTS  ECTS  ECTS<br>form<br>PfP  PL/SL<br>Methodisches Arbeiten  2  1  3  SeL<br>SL<br>English for Engineers  2  2  SeL<br>Angewandte Nanotechnologie I<br>Nano-Bauelemente-Sensoren, MEMS, Micromachining 2  1  3,5<br>B16 Nano-Oberflächen und Strukturierung  K  2  10  3<br>PL  K120<br>Nano-Komposite  1  1  2,5<br>Nanotoxikologie  1  1<br>Angewandte Nanotechnologie II<br>B17 Grenzflächen der Verfahrenstechnik  2  1  7,5  3,5<br>PL  K90<br>Mechanische Verfahrenstechnik  2  1  4<br>Werkstoffe<br>Werkstoffkunde-Wahlvorlesung I  2  3<br>B18 Werkstoffkunde Wahlvorlesung II  2  10  3  PL  K120<br>PfP<br>Werkstoffkunde Wahlvorlesung III  2  3<br>Messtechnik-Kurs  1  1  SL  PrL<br>B19 Reinraum-Praktikum  5  5  5  SL  PrL<br>Literaturarbeit und Präsentationstechnik<br>B20 Hauptseminar in englischer Sprache  2  5  3  PL  SeL<br>Präsentationstechnik  2  2  SL  SeL<br>Berufliches Umfeld<br>B21 Industriepraktikum 10 Wochen  12,5  12  SL  PrL<br>PfP<br>Exkursion 1 Tag  1  0,5  SL  ExL<br>Bachelorarbeit 360 Stunden  12<br>B22 12,5  siehe § 40<br>Referat (30 min.) mit Diskussion  1  0,5<br>77  26  27  30  30  30  31  29  30  Summe ECTS  180<br>Summe SWS<br>130  Umfang der Grundlagen- und Orientierungsprüfung Summe ECTS  35<br>**----- End of picture text -----**<br>
+||**SWS**||**1. Sem **|**2. Sem **|**3. Sem **|**4. Sem **|**5. Sem **|**6. Sem**<br>|**Art und Umfang der S**<br>**Prüfungsleist**|**tudien- und**<br>**ung**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr Modul**||**ECTS**|||||||||
+|**.**<br>**V**|**Ü**<br>**P**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**Prüfungsart**<br>**PfP**<br>**PL/SL**|**Prüfungs-**<br>**form**|
+|Methodisches Arbeiten<br>2|1||||3||||SL|SeL|
+|English for Engineers|2||||2|||||SeL|
+|Angewandte Nanotechnologie I|||||||||||
+|Nano-Bauelemente-Sensoren, MEMS, Micromachining<br>2|1||||||3,5||||
+|B16<br>K<br>Nano-Oberflächen und Strukturierung<br>2||10|||||3||PL|K120|
+|Nano-Komposite<br>1|1||||||2,5||||
+|Nanotoxikologie<br>1|||||||1||||
+|<br>Angewandte Nanotechnologie II|||||||||||
+|B17<br>Grenzflächen der Verfahrenstechnik<br>2|1|7,5||||3,5|||||
+|Mechanische Verfahrenstechnik<br>2|1||||||4||PL|K90|
+|Werkstoffe|||||||||||
+|Werkstoffkunde-Wahlvorlesung I<br>2|||||||3||||
+|B18<br>Werkstoffkunde Wahlvorlesung II<br>2||10|||||3||<br>PL|K120|
+|<br>Werkstoffkunde Wahlvorlesung III<br>2|||||||3||PfP||
+|Messtechnik-Kurs<br>1|||||||1||SL|PrL|
+|B19 Reinraum-Praktikum|5|5|||||5||SL|PrL|
+|Literaturarbeit und Präsentationstechnik|||||||||||
+|B20<br>Hauptseminar in englischer Sprache<br>2||5||||||3|PL|SeL|
+|Präsentationstechnik|2|||||||2|SL|SeL|
+|Berufliches Umfeld|||||||||||
+|B21<br>Industriepraktikum 10 Wochen||12,5||||||12|<br>SL|PrL|
+|<br>Exkursion 1 Tag<br>1||||||||0,5|PfP<br>SL|ExL|
+|<br><br>Bachelorarbeit 360 Stunden||||||||12|||
+|B22<br>Referat(30 min.)mit Diskussion<br>1||12,5||||||0,5|siehe § 4||
+|Summe SWS<br>77|26<br>27||30|30|30|31|29|30|Summe ECTS|180|
+||130||Umfang|der Grun|dlagen-|und Orie|ntierungs|prüfung|Summe ECTS|35|
 
 1) Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht. GOP = Grundlagen- und Orientierungsprüfung, K = Katalog von Modulen für die Zulassung für das Masterstudium PfP = Portfolioprüfung, PL = Prüfungsleistung, SL = Studienleistung, K90 = Klausur mit 90 Minuten Dauer, ÜbL = Übungsleistung, PrL= Praktikumsleistung, SeL = Seminarleistung, ExL = Exkursionsleistung 
 
@@ -206,17 +264,53 @@ Art und Umfang der Studien- und<br>SWS  1. Sem 2. Sem 3. Sem 4. Sem 5. Sem 6. Se
 
 ## **Anlage 2:** Studienverlaufsplan Masterstudium 
 
-**==> picture [771 x 432] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Modul- Art und Umfang der Studien- und<br>SEMESTERAUFTEILUNG<br>UMFANG in SWS (Workload) größe Prüfungsleistung [1)]<br>MODULE<br>1. WS 2. SS 3. WS 4. SS Prüfungsart [1)]<br>Prüfungsform<br>Vorlesung Übung Praktikum SWS ECTS SWS ECTS SWS ECTS SWS ECTS PfP PL/SL<br>Pflichtmodule<br>M1 Nanocharakterisierung (Pflicht) mündliche Prüfung 30 min.<br>Elektronenmikroskopie  2 2 3 PL<br>NanoSpektroskopie  2 2 3<br>Rastersondenmikroskopie/ Nanoindentierung 2 1 3 4 10<br>M2 Praktikum Synthese/Charakterisierung<br>(Pflicht) 5 5 5 Praktikumsleistung<br>SL  (4 Versuche inklusive  Vor-<br>4 Versuche 5 und Nachprotokollen)<br>M3 Computational Nanoscience (Pflicht) PL mündliche Prüfung 20 min.<br>Computational Nanoscience 2 2 2 3 2 2 5<br>-<br>M4 Top Down Nanostrukturierung (Pflicht)<br>Nanoelektronik 2 2 3 mündliche Prüfung 30 min.<br>Photolithographie 2 1 3 4 PL<br>Beschichtungstechnologie 2 2 3 10<br>M5 Bottom-up Nano-Synthese/Self-assembly<br>(Pflicht)<br>Molekulare Nanostrukturen 2 2 3 PL mündliche Prüfung 30 min.<br>Nanotechnology of Disperse Systems 2 1 3 4<br>Selbstorganisation an Oberflächen 2 2 3 10<br>**----- End of picture text -----**<br>
+|||||||**SEMES**|**TERAU**|**FTEILUNG**|**Modul-**|**Art und**<br>|**Umfang der Studien- und**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||**röße**|**P**|**rüfungsleistung**<sup>**1)**</sup>|
+|**MODULE**|**UMFANG**|**in SWS (W**|**orkload)**||||||**g**|||
+|||||**1. W**|**S**|**2.**|**SS**|**3. WS**<br>**4. SS**||**Prüfungsart**<sup>**1)**</sup>|**Prüfungsform**|
+||**Vorlesung**|**Übung**|**Praktikum**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**<br>**ECTS**<br>**SWS**<br>**ECTS**||**PfP**<br>**PL/SL**||
+|**Pflichtmodule**||||||||||||
+|**M1 Nanocharakterisierung (Pflicht)**|||||||||||mündliche Prüfung 30 min.|
+|Elektronenmikroskopie|2|||2|3|||||**PL**||
+|NanoSpektroskopie|2|||2|3|||||||
+|Rastersondenmikroskopie/ Nanoindentierung|2|1||||3|4||**10**|||
+|**M2 Praktikum Synthese/Charakterisierung**<br>**(Pflicht)**|||5|5|5||||||Praktikumsleistung|
+|4 Versuche|||||||||**5**|**SL**|(4 Versuche inklusive  Vor-<br>und Nachprotokollen)|
+|**M3 Computational Nanoscience (Pflicht)**||||||||||**PL**|mündliche Prüfung 20 min.|
+|Computational Nanoscience|2|2||||2|3|2<br>2|**5**|||
+|**M4 Top-Down Nanostrukturierung (Pflicht)**||||||||||||
+|Nanoelektronik|2|||||2|3||||mündliche Prüfung 30 min.|
+|Photolithographie|2|1||3|4|||||**PL**||
+|Beschichtungstechnologie|2|||2|3||||**10**|||
+|**M5 Bottom-up Nano-Synthese/Self-assembly**<br>**(Pflicht)**||||||||||||
+|Molekulare Nanostrukturen|2|||||||2<br>3||**PL**|mündliche Prüfung 30 min.|
+|Nanotechnology of Disperse Systems|2|1||||||3<br>4||||
+|Selbstorganisation an Oberflächen|2|||||2|3||**10**|||
 
 7 
 
-**==> picture [771 x 423] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Modul- Art und Umfang der Studien- und<br>SEMESTERAUFTEILUNG<br>UMFANG in SWS (Workload) größe Prüfungsleistung [1)]<br>MODULE<br>1. WS 2. SS 3. WS 4. SS Prüfungsart [1)]<br>Prüfungsform<br>Vorlesung Übung Praktikum SWS ECTS SWS ECTS SWS ECTS SWS ECTS PfP PL/SL<br>Wahlmodule<br>Pflichtvor- mündliche Prüfung 40 min.<br>M6 Kernfachmodul aus MWT, EEI, CBI, Ph,  (oder üblicher Prüfungsmodus<br>lesungen<br>Ch  [2)] 4 6 4 6 PL im Department, auch PfP)<br>Praktikumsleistung (5 Versuche<br>Praktikum  inklusive Vor- und Nachproto-<br>6 6 PfP +SL koll)<br>Wahlpflicht-<br>vorlesungen  4 6 4 6 30<br>M7 Naturwissenschaftlich-technisches  mündliche Prüfung 20 min<br>(oder üblicher Prüfungsmodus<br>Wahlmodul (CBI, EEI, MWT, Ph, Ch)<br>8 10 10 PL im Department, auch PfP)<br>M8 Literaturrecherche/Hausarbeit SL Seminarleistung<br>Literaturrecherche/Hausarbeit 5 5 5 5 (Schriftliche Arbeit )<br>M9 Softskills<br>Seminarvortrag 2 2 2 PfP SL Präsentation<br>Seminarleistung (2 Kurzpräsen-<br>Präsentationstechnik 2 2 2 +SL tationen)<br>Exkursionen 1 1 5<br>M10 Masterarbeit<br>Masterarbeit 25 PfP PL Masterarbeit<br>Vortrag mit Diskussion (30 min) 5 30 +PL Präsentation<br>SUMME SWS 22 23 24<br>SUMME ECTS 30 31 29 30 120<br>**----- End of picture text -----**<br>
+||**UMFANG i**|**n SWS (W**|**orkload)**||**S**|**EMES**|**TERAU**|**FTEILUNG**||**Modul-**<br>**größe**||**Art und**<br>**P**|**Umfang der Studien- und**<br>**rüfungsleistung **<sup>**1)**</sup>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**MODULE**||||||||||||||
+|||||**1. W**|**S**|**2.**|**SS**|**3. WS**|**4. SS**||**Prüfu**|**ngsart**<sup>**1)**</sup>|**Prüfungsform**|
+||**Vorlesung**|**Übung**|**Praktikum**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**||**PfP**|**PL/SL**||
+|**Wahlmodule**||||||||||||||
+|**M6 Kernfachmodul aus MWT, EEI, CBI, Ph,**<br>**Ch**<sup>**2)**</sup>|Pflichtvor-<br>lesungen|||4|6|4|6|||||**PL**|mündliche Prüfung 40 min.<br>(oder üblicher Prüfungsmodus<br>im Department, auch PfP)|
+||Praktikum|||||6|6||||**PfP**|**+SL**|Praktikumsleistung (5 Versuche<br>inklusive Vor- und Nachproto-<br>koll)|
+||Wahlpflicht-<br>vorlesungen|||4|6|4|6|||**30**||||
+|**M7 Naturwissenschaftlich-technisches**<br>**Wahlmodul (CBI, EEI, MWT, Ph, Ch)**||||||||8<br>10||**10**||**PL**|mündliche Prüfung 20 min<br>(oder üblicher Prüfungsmodus<br>im Department, auch PfP)|
+|**M8 Literaturrecherche/Hausarbeit**||||||||||||**SL**|Seminarleistung|
+|Literaturrecherche/Hausarbeit||5||||||5<br>5||**5**|||(Schriftliche Arbeit)|
+|**M9 Softskills**||||||||||||||
+|Seminarvortrag||2||||||2<br>2|||**PfP**|**SL**|Präsentation|
+|Präsentationstechnik||2||||||2<br>2||||**+SL**|Seminarleistung (2 Kurzpräsen-<br>tationen)|
+|Exkursionen|||1|||||1||**5**||||
+|**M10 Masterarbeit**||||||||||||||
+|Masterarbeit|||||||||**25**||**PfP**|**PL**|Masterarbeit|
+|Vortragmit Diskussion(30 min)|||||||||**5**|**30**||**+PL**|Präsentation|
+||**SUMME SWS**|||22||23||24||||||
+||**SUMME ECT**|**S**|||**30**||**31**|**29**|**30**|**120**||||
 
 - **1)** PfP: Portfolioprüfung; PL: Prüfungsleistung; SL: Studienleistung 
 

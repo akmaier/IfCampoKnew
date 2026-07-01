@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor, Internationales Studienangebot"
-scraped_at: 2026-05-01T06:43:34+00:00
+scraped_at: 2026-07-01T08:19:45+00:00
 ---
 
 # Clean Energy Processes (B.Sc.)
@@ -38,7 +38,7 @@ Wissen aus anderen Bereichen wie Wirtschaft, Ethik und Nachhaltigkeit sowie verw
 
 Die Studierenden haben die Möglichkeit, die **Spitzenforschung** des Helmholtz-Instituts für Erneuerbare Energien (HI ERN) und anderer einschlägiger Institute an der FAU oder in deren unmittelbarer Nähe (z.B. Energie Campus Nürnberg, Fraunhofer-Institut für Integrierte Schaltungen, Bayerisches Zentrum für Angewandte Energieforschung e.V.) kennen zu lernen.
 
-### Bachelor of Science Clean Energy Processes
+### Fachanteile des Studiengangs Clean Energy Processes (B.Sc.)
 
 * Chemie und Verfahrenstechnik (53%)
 * Mathematik (15%)

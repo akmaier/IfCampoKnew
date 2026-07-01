@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AES%20BA%20Bio%20%20MA%20ZellMolek.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:31:06+00:00
-page_count_chars: 10090
+scraped_at: 2026-07-01T08:54:43+00:00
+page_count_chars: 9994
 ---
 
 # 4. Mai 2010
@@ -14,11 +14,11 @@ page_count_chars: 10090
 
 **Satzung zur Änderung der Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das Masterstudium der Zell- und Molekularbiologie an der Universität Erlangen-Nürnberg** 
 
-## Vom 4. Mai 2010 
+Vom 4. Mai 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das Masterstudium der Zell- und Molekularbiologie an der Universität Erlangen-Nürnberg vom 5. August 2008, wird wie folgt geändert: 
 
@@ -30,11 +30,9 @@ Die Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das 
 
 2. In § 8 Abs. 3 wird folgender neuer Satz 7 angefügt: 
 
-„[7] Der Prüfungsausschuss erhält Kopien aller im Bachelorstudiengang Biologie und Masterstudiengang Zell- und Molekularbiologie ausgegebenen schriftlichen Prüfungsfragen.“ 
+„<sup>7</sup> Der Prüfungsausschuss erhält Kopien aller im Bachelorstudiengang Biologie und Masterstudiengang Zell- und Molekularbiologie ausgegebenen schriftlichen Prüfungsfragen.“ 
 
-3. In § 9 wird folgender neuer Abs. 3 angefügt: 
-
-   - „(3) Zur Beisitzerin oder zum Beisitzer kann vom Prüfungsausschuss bestellt werden, wer mindestens das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.“ 
+3. In § 9 wird folgender neuer Abs. 3 angefügt: „(3) Zur Beisitzerin oder zum Beisitzer kann vom Prüfungsausschuss bestellt werden, wer mindestens das entsprechende oder ein verwandtes Fachstudium erfolgreich abgeschlossen hat.“ 
 
 4. In § 10 wird Abs. 1 ersatzlos gestrichen. Die Absätze 2 und 3 werden zu den Absätzen 1 und 2. 
 
@@ -48,15 +46,15 @@ Die Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das 
 
 - b) In Abs. 2 wird folgende neue Sätze 4 bis 6 angefügt: 
 
-„[4] In der Regel soll die Bachelorarbeit in einer Arbeitsgruppe im Department Biologie angefertigt werden.[5] Auf Antrag bei der Vorsitzenden oder dem Vorsitzendem des Prüfungsausschusses kann die Bachelorarbeit auch außerhalb der Biologie angefertigt werden. 6Hierfür kommen nur Arbeitsgruppen in Frage, welche sich aktiv an den Fachmodulen des Bachelorstudiengangs nach § 29 Abs. 2 beteiligen.“ 
+„<sup>4</sup> In der Regel soll die Bachelorarbeit in einer Arbeitsgruppe im Department Biologie angefertigt werden.<sup>5</sup> Auf Antrag bei der Vorsitzenden oder dem Vorsitzendem des Prüfungsausschusses kann die Bachelorarbeit auch außerhalb der Biologie angefertigt werden. 6Hierfür kommen nur Arbeitsgruppen in Frage, welche sich aktiv an den Fachmodulen des Bachelorstudiengangs nach § 29 Abs. 2 beteiligen.“ 
 
-- c) In Abs. 5 wird folgender neuer Satz 2 angefügt: 
+c) In Abs. 5 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Bachelorarbeit innerhalb eines Monats bewertet ist.“ 
+„<sup>2</sup> Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Bachelorarbeit innerhalb eines Monats bewertet ist.“ 
 
 d) In Abs. 7 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Weichen die Bewertungen beider Prüfer um zwei ganze oder mehr Notenstufen voneinander ab, bestellt der Vorsitzende des Prüfungsausschusses einen dritten Prüfer; in diesem Fall setzt der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten die Note gem. § 19 Abs. 1 fest.“ 
+„<sup>2</sup> Weichen die Bewertungen beider Prüfer um zwei ganze oder mehr Notenstufen voneinander ab, bestellt der Vorsitzende des Prüfungsausschusses einen dritten Prüfer; in diesem Fall setzt der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten die Note gem. § 19 Abs. 1 fest.“ 
 
 8. In § 32 Abs. 1 Satz 2 Nr. 1 werden nach dem Wort Bachelorprüfung die Worte „im Studiengang Biologie oder Integrated Life Science“ eingefügt. 
 
@@ -70,7 +68,7 @@ d) In Abs. 7 wird folgender neuer Satz 2 angefügt:
 
    - c) In Nr. 5 wird der Satz: „Auf Antrag kann die mündliche Prüfung spätestens 4 Wochen nach Abgabe der Masterarbeit durchgeführt werden.“ ersatzlos gestrichen. 
 
-## 10. § 34 wird wie folgt geändert: 
+10. § 34 wird wie folgt geändert: 
 
 - a) In Abs. 4 Satz 1 werden die Worte „ausnahmsweise um höchstens drei Monate“ durch die Worte „bis zu zweimal um jeweils sechs Wochen“ ersetzt. 
 
@@ -86,36 +84,34 @@ bb) In Satz 2 werden nach dem Wort „sie“ die Worte „von beiden Prüfern“
 
 cc) Es wird folgender neuer Satz 3 angefügt: 
 
-„[3] Bewertet ein Prüfer die Arbeit mit „nicht ausreichend“, der andere mit wenigstens „ausreichend“, ist ein dritter Prüfer zu bestellen.“ 
+„<sup>3</sup> Bewertet ein Prüfer die Arbeit mit „nicht ausreichend“, der andere mit wenigstens „ausreichend“, ist ein dritter Prüfer zu bestellen.“ 
 
 dd) Es wird folgender neuer Satz 4 angefügt: 
 
-„[4] Bewertet dieser die Arbeit als „nicht ausreichend“, ist sie abgelehnt; andernfalls entscheidet der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten über die Annahme der Arbeit und setzt die Note gemäß § 19 Abs. 1 fest.“ 
+„<sup>4</sup> Bewertet dieser die Arbeit als „nicht ausreichend“, ist sie abgelehnt; andernfalls entscheidet der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten über die Annahme der Arbeit und setzt die Note gemäß § 19 Abs. 1 fest.“ 
 
 e) Es wird folgender neuer Abs. 9 eingefügt: 
 
-„[1] Ist die Masterarbeit gemäß Abs. 8 Satz 1 angenommen und weichen die Bewertungen beider Prüfer um weniger als zwei Notenstufen voneinander ab, so ist die Note der Masterarbeit das arithmetische Mittel der Noten beider Prüfer; dabei wird nur die erste Dezimalstelle nach dem Komma berücksichtigt. 2Weichen die Bewertungen beider Prüfer um weniger als zwei oder mehr Notenstufen voneinander ab, bestellt der Vorsitzende des Prüfungsausschusses einen dritten Prüfer; in diesem Fall setzt der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten die Note der Masterarbeit gemäß § 19 Abs. 1 fest.“ 
+„<sup>1</sup> Ist die Masterarbeit gemäß Abs. 8 Satz 1 angenommen und weichen die Bewertungen beider Prüfer um weniger als zwei Notenstufen voneinander ab, so ist die Note der Masterarbeit das arithmetische Mittel der Noten beider Prüfer; dabei wird nur die erste Dezimalstelle nach dem Komma berücksichtigt. 2Weichen die Bewertungen beider Prüfer um weniger als zwei oder mehr Notenstufen voneinander ab, bestellt der Vorsitzende des Prüfungsausschusses einen dritten Prüfer; in diesem Fall setzt der Prüfungsausschuss unter Berücksichtigung der eingeholten Gutachten die Note der Masterarbeit gemäß § 19 Abs. 1 fest.“ 
 
 f) Die bisherigen Absätze 9 und 10 werden zu den Absätzen 10 und 11. 
 
-## 11. In Anlage 1 erhalten die Zeilen 41 bis 56 folgende Fassung: 
+# 11. In Anlage 1 erhalten die Zeilen 41 bis 56 folgende Fassung: 
 
-|**12. Mathematik**|5|||||||||||Klausur bzw. Teilprüfungen<br>90 Min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
-|12.1. Vorlesung: Mathematische Modellbildung<br>und Statistik für Naturwissenschaftler(3 SWS)|||||x||||||||
-|12.2. Übungen am Rechner (1 SWS)|||||x||||||||
-|**13. Englisch-Kurse mit mindestens 5 ECTS-**<br>**Punkten****|5|||||||x||||Klausur 90 min. Das Modul<br>wird mit pass/fail bewertet.|
-||||||||||||||
-|**14. Biologisches Fachmodul 1**|15|||||||||||Klausur bzw. Teilprüfungen<br>90 Min|
-|14.1. Vorlesung (2 SWS)|||||||||x||||
-|14.2. Seminar und Übungen (3 SWS + 10 SWS)|||||||||X||||
-|**15. Biologisches Fachmodul 2**|15|||||||||||Klausur bzw. Teilprüfungen<br>90 Min|
-|15.1. Vorlesung (2 SWS)|||||||||x||||
-|15.2. Seminar und Übungen(3 SWS + 10 SWS)|||||||||x||||
-|**16 Biologisches Fachmodul 3**|15|||||||||||Klausur bzw. Teilprüfungen<br>90 Min|
-|6.1. Vorlesung (2 SWS)|||||||||||x||
-|16.2. Seminar und Übungen (3 SWS + 10 SWS)|||||||||||x||
+|**12. Mathematik**|5||Klausur bzw. Teilprüfungen<br>90 Min|
+|---|---|---|---|
+|12.1. Vorlesung: Mathematische Modellbildung<br>und Statistik für Naturwissenschaftler(3 SWS)||x||
+|12.2. Übungen am Rechner (1 SWS)||x||
+|**13. Englisch-Kurse mit mindestens 5 ECTS-**<br>**Punkten**<sup>******</sup>|5|x|Klausur 90 min. Das Modul<br>wird mit pass/fail bewertet.|
+|**14. Biologisches Fachmodul 1**|15||Klausur bzw. Teilprüfungen<br>90 Min|
+|14.1. Vorlesung (2 SWS)||x||
+|14.2. Seminar und Übungen (3 SWS + 10 SWS)||X||
+|**15. Biologisches Fachmodul 2**|15||Klausur bzw. Teilprüfungen<br>90 Min|
+|15.1. Vorlesung (2 SWS)||x||
+|15.2. Seminar und Übungen(3 SWS + 10 SWS)||x||
+|**16 Biologisches Fachmodul 3**|15||Klausur bzw. Teilprüfungen<br>90 Min|
+|6.1. Vorlesung (2 SWS)||x||
+|16.2. Seminar und Übungen (3 SWS + 10 SWS)||x||
 
 ** In der Regel wird entsprechend der Sprachfähigkeiten ein Englischkurs auf dem Niveau von Unicert II in Frage kommen. 
 
@@ -131,16 +127,17 @@ b) In Abs. 5 Satz 2 werden nach dem Wort „möglich“ die Worte „Die Wiederh
 
 c) Abs. 8 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Die Aufnahmetermine werden durch Aushang und im Internet bekannt gegeben.“ 
+„<sup>2</sup> Die Aufnahmetermine werden durch Aushang und im Internet bekannt gegeben.“ 
 
 13. In der Tabelle von Anlage 3 wird zwischen die Zeilen 3 und 4 folgende neue Zeile eingefügt: 
 
-|**Wahlmodul**<br>**Externes**<br>**Praktikum**<br>(Wahlpflicht)|Ein mindestens 6-wöchiges externes Praktikum<br>mit einem Übungsanteil von ungefähr 10 SWS.<br>Das externe Praktikum muss vor Antritt vom<br>Prüfungsausschuss genehmigt werden.  Es muss<br>ein Praktikumsprotokoll angefertigt werden.|Das Modul<br>wird mit<br>pass/fail<br>bewertet.|15<br>ECTS|1. oder 2.<br>Semester|
+|**Wahlmodul**|Ein mindestens 6-wöchiges externes Praktikum<br>|Das Modul|15|1. oder 2.|
 |---|---|---|---|---|
+|**Externes**<br>**Praktikum**<br>(Wahlpflicht)|mit einem Übungsanteil von ungefähr 10 SWS.<br>Das externe Praktikum muss vor Antritt vom<br>Prüfungsausschuss genehmigt werden.  Es muss<br>ein Praktikumsprotokoll angefertigt werden.|wird mit<br>pass/fail<br>bewertet.|ECTS|Semester|
 
-## **§ 2** 
+# **§ 2** 
 
-1Die Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in den Ziffern 7 d), 10 d) und e) gelten für alle Prüfungen, die ab dem Sommersemester 2010 abgelegt werden.[3] Die Änderungen unter Nummer 11, Zeile 44 der Tabelle gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2009/10 aufgenommen haben; alle übrigen Studierenden können bis zur Ablegung der letzten Prüfung des Studiengangs wählen, ob das Modul in benoteter oder unbenoteter Form in die Abschlussnote eingehen soll.[4] Die Wahl ist gegenüber dem Prüfungsamt zu erklären, wird keine Wahl erklärt, wird das Modul in unbenoteter Form eingerechnet. 
+1Die Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in den Ziffern 7 d), 10 d) und e) gelten für alle Prüfungen, die ab dem Sommersemester 2010 abgelegt werden.<sup>3</sup> Die Änderungen unter Nummer 11, Zeile 44 der Tabelle gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2009/10 aufgenommen haben; alle übrigen Studierenden können bis zur Ablegung der letzten Prüfung des Studiengangs wählen, ob das Modul in benoteter oder unbenoteter Form in die Abschlussnote eingehen soll.<sup>4</sup> Die Wahl ist gegenüber dem Prüfungsamt zu erklären, wird keine Wahl erklärt, wird das Modul in unbenoteter Form eingerechnet. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 21. April 2010 und der Genehmigungsfeststellung des Präsidenten vom 28. April 2010. 
 

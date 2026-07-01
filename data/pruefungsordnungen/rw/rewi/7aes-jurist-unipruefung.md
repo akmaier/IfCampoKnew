@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. März 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:06+00:00
-page_count_chars: 29604
+scraped_at: 2026-07-01T10:34:35+00:00
+page_count_chars: 29644
 ---
 
 # 11. März 2016
@@ -12,7 +12,7 @@ page_count_chars: 29604
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/7AES_Jurist-UniPruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Siebte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung Vom 11. März 2016** 
+# **Siebte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung Vom 11. März 2016** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 38 Satz 2 der Ausbildungs- und Prüfungsordnung für Juristen (JAPO) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -100,7 +100,7 @@ Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Un
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>2</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -192,9 +192,9 @@ cc) Satz 3 wird wie folgt geändert:
 
 (1) Vorbehaltlich der Bestimmungen in den §§ 22, 24 und 43 JAPO sowie Abs. 2 werden Studienzeiten, Module, Studienleistungen und Prüfungsleistungen gemäß Art. 63 BayHSchG auf die Juristische Universitätsprüfung nach dieser Prüfungsordnung anerkannt. 
 
-(2)[ 1] Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studien- und prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit franco-allemand“ wird als Juristische Universitätsprüfung gem. § 43 JAPO anerkannt.[2] Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung.[3] In der Bescheinigung nach § 4 Abs. 3 wird als Schwerpunktbereich „Deutsch-Französisches Recht“ angegeben. 
+(2)<sup>1</sup> Der erfolgreiche Abschluss des im Rahmen des Integrierten Studienprogramms Deutsch-Französisches Recht an der Université de Rennes 1 und gemäß den Bestimmungen der Kooperationsvereinbarung und der studien- und prüfungsbezogenen Regelungen der Université de Rennes 1 absolvierten ersten Semesters des „Master mention Droit, spécialité Droit européen, parcours Droit franco-allemand“ wird als Juristische Universitätsprüfung gem. § 43 JAPO anerkannt.<sup>2</sup> Auf die Notenumrechnung findet der mit der Université de Rennes 1 im Rahmen der Deutsch-Französischen Hochschule vereinbarte Umrechnungsschlüssel Anwendung.<sup>3</sup> In der Bescheinigung nach § 4 Abs. 3 wird als Schwerpunktbereich „Deutsch-Französisches Recht“ angegeben. 
 
-(3)[1] Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung.[3] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden.[4] Die Entscheidung ergeht schriftlich.“ 
+(3)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.<sup>2</sup> Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung.<sup>3</sup> Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden.<sup>4</sup> Die Entscheidung ergeht schriftlich.“ 
 
 11. Nach § 10 wird folgender neuer § 10 a eingefügt: 
 
@@ -202,11 +202,11 @@ cc) Satz 3 wird wie folgt geändert:
 
 5 
 
-(1)[1] Für entsprechend gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Prüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+(1)<sup>1</sup> Für entsprechend gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Prüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt. 
 
@@ -234,7 +234,7 @@ aa) Die hochgestellte Zahl „4“ wird gestrichen.
 
 bb) Die Worte „Ein Kandidat, der“ werden durch das Wort „Wer“ ersetzt. 
 
-   - cc) Nach dem Wort Ablauf wird das Wort „der“ durch das Wort „einer“ ersetzt. 
+cc) Nach dem Wort Ablauf wird das Wort „der“ durch das Wort „einer“ ersetzt. 
 
    - dd) Die Worte „vom jeweiligen Prüfer“ werden durch die Worte „von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden“ ersetzt. 
 
@@ -306,7 +306,7 @@ bb) Ziffer 2 („2. Wahlpflichtbereich“) erhält folgende neue Fassung:
 
 Die Studierenden müssen zudem mindestens 6 Semesterwochenstunden unterschiedliche Lehrveranstaltungen aus einem der drei nachfolgenden Vertiefungsbereiche wählen: 
 
-## **a) Bank- und Kapitalmarktrecht (SPB 1a)** 
+### **a) Bank- und Kapitalmarktrecht (SPB 1a)** 
 
 - Bankrecht 
 
@@ -316,25 +316,15 @@ Die Studierenden müssen zudem mindestens 6 Semesterwochenstunden unterschiedlic
 
 2 Semesterwochenstunden 2 Semesterwochenstunden 2 Semesterwochenstunden 
 
-## **b) Steuerrecht (SPB 1b)** 
+### **b) Steuerrecht (SPB 1b)** 
 
-- Einführung in das Steuerrecht 
+- Einführung in das Steuerrecht 2 Semesterwochenstunden - Unternehmenssteuerrecht 2 Semesterwochenstunden - Wirtschafts- und Steuerstrafrecht 2 Semesterwochenstunden 
 
-- - Unternehmenssteuerrecht 
+### **c) Wettbewerbsrecht und Gewerblicher Rechtsschutz (SPB 1c)** 
 
- Einführung in das Steuerrecht 2 Semesterwochenstunden - Unternehmenssteuerrecht 2 Semesterwochenstunden - Wirtschafts- und Steuerstrafrecht 2 Semesterwochenstunden 
+- Kartellrecht 2 Semesterwochenstunden 
 
-## **c) Wettbewerbsrecht und Gewerblicher Rechtsschutz (SPB 1c)** 
-
-2 Semesterwochenstunden 
-
-- Kartellrecht 
-
-- Recht gegen den unlauteren Wettbewerb 2 Semesterwochenstunden 
-
-- - Gewerblicher Rechtsschutz 2 Semesterwochenstunden“ 
-
-- Recht gegen den unlauteren Wettbewerb 
+- - Recht gegen den unlauteren Wettbewerb 2 Semesterwochenstunden - Gewerblicher Rechtsschutz 2 Semesterwochenstunden“ 
 
 cc) Nach Ziffer 2 wird folgende neue Ziffer 3 eingefügt: 
 
@@ -362,13 +352,13 @@ b) aus einer der nachstehenden Veranstaltungen
 
 - Recht der Unternehmenssanierung 
 
-- - Übung zu den Grundlagen des Wirtschaftsrechts 
+- Übung zu den Grundlagen des Wirtschaftsrechts 
 
 - Umsatzsteuerrecht 
 
 - Urheberrecht 
 
-- eine sonstige, für den Schwerpunktbereich 1 ausgewiesene Lehrveranstaltung 
+- - eine sonstige, für den Schwerpunktbereich 1 ausgewiesene Lehrveranstaltung 
 
 Die Fakultät bietet Veranstaltungen aus dem Ergänzungsbereich in angemessenem Umfang an. Die obige Aufzählung der Rechtsbereiche beinhaltet keine Verpflichtung der Fakultät, Lehrveranstaltungen in den genannten Bereichen auch anzubieten.“ 
 
@@ -404,7 +394,7 @@ aa) Ziffer 1 („1. Kernbereich“) wird wie folgt geändert:
 
 - (1) Die Worte „der Student“ werden durch die Worte „die bzw. der Studierende“ ersetzt. 
 
-- (2) Nach den Worten „teilzunehmen an:“ werden die hochgestellte Zahl „[1] “ samt dazugehöriger Erläuterung am Seitenende und der erste Spiegelstrich gestrichen. 
+- (2) Nach den Worten „teilzunehmen an:“ werden die hochgestellte Zahl „<sup>1</sup> “ samt dazugehöriger Erläuterung am Seitenende und der erste Spiegelstrich gestrichen. 
 
 - (3) Im ersten Spiegelstrich („einer rechtsgeschichtlichen Exegese (Übung) mit mindestens 2 Semesterwochenstunden“) (neu) werden nach dem Klammerzusatz die Worte „mit mindestens“ gestrichen. 
 
@@ -532,11 +522,11 @@ dd) Ziffer 3 („3. Ergänzungsbereich“) (neu) wird wie folgt geändert:
 
 ee) Ziffer 4 („4. Seminar“) (neu) wird wie folgt geändert: 
 
-   - (1) Die Worte „Der Student“ werden durch die Worte „Die bzw. der Studierende“ und das Wort und die Zahl „und 2.“ durch das Wort und die Zahl „bis 3.“ ersetzt. 
+- (1) Die Worte „Der Student“ werden durch die Worte „Die bzw. der Studierende“ und das Wort und die Zahl „und 2.“ durch das Wort und die Zahl „bis 3.“ ersetzt. 
 
-   - (2) Nach den Worten „Seminar in einem der“ werden die Worte „unter 1. genannten“  gestrichen. 
+- (2) Nach den Worten „Seminar in einem der“ werden die Worte „unter 1. genannten“  gestrichen. 
 
-   - (3) Nach den Worten „einem der Rechtsgebiete“ (neu) werden die Worte „des Kern- oder Vertiefungsbereichs“ eingefügt. 
+- (3) Nach den Worten „einem der Rechtsgebiete“ (neu) werden die Worte „des Kern- oder Vertiefungsbereichs“ eingefügt. 
 
 18. Das Inhaltsverzeichnis wird angepasst. 
 

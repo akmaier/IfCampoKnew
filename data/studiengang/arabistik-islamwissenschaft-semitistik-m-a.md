@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:42:28+00:00
+scraped_at: 2026-07-01T08:18:34+00:00
 ---
 
 # Arabistik, Islamwissenschaft, Semitistik (M.A.)
@@ -146,7 +146,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/masterstudiengaenge-an-der-philosophischen-fakultaet/)
+* [Modulhandbuch](https://www.orientalistik.phil.fau.de/files/2026/04/MHB-MA-AIS-SoSe-26.pdf)
 * [Prüfungsordnungen](https://www.orientalistik.phil.fau.de/files/2020/10/200625_fpo_ma-ais-pruefungsordnung-ma-ais-stand-[Telefon entfernt].pdf)
 
 Weitere Informationen
@@ -174,7 +174,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/masterstudiengaenge-an-der-philosophischen-fakultaet/)
+- [Modulhandbuch](https://www.orientalistik.phil.fau.de/files/2026/04/MHB-MA-AIS-SoSe-26.pdf)
 - [Prüfungsordnungen](https://www.orientalistik.phil.fau.de/files/2020/10/200625_fpo_ma-ais-pruefungsordnung-ma-ais-stand-[Telefon entfernt].pdf)
 - [Webseite des Studiengangs](https://www.orientalistik.phil.fau.de/studium/studiengaenge/arabistik-islamwissenschaft-semitistik/)
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)

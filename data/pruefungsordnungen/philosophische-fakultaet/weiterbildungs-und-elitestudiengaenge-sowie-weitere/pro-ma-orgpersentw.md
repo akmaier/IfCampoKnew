@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 27.07.2006"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-MA-OrgPersEntw.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:42+00:00
-page_count_chars: 39073
+scraped_at: 2026-07-01T09:59:12+00:00
+page_count_chars: 39117
 ---
 
 # PDF vom 27.07.2006
@@ -12,13 +12,13 @@ page_count_chars: 39073
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO-MA-OrgPersEntw.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengang Organisations- und Personalentwicklung an der Universität Erlangen-Nürnberg** 
+# **Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengang Organisations- und Personalentwicklung an der Universität Erlangen-Nürnberg** 
 
 ## Vom 27. Juli 2006 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 58 der Qualifikationsverordnung (QualV) erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
-## **I. Allgemeine Bestimmungen** 
+# **I. Allgemeine Bestimmungen** 
 
 ## **§ 1** 
 
@@ -26,7 +26,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hoc
 
 (1) Die Masterprüfung dient dem Nachweis der Kenntnisse auf dem Gebiet von Organisationsund Personalentwicklung, die im berufsbegleitenden Weiterbildungsstudiengang vermittelt werden. 
 
-(2)[1] Ziel des Studienganges ist es, Konzepte und Methoden zu vermitteln, die zu einer verbesserten Handlungskompetenz in den Feldern Organisations- und Personalentwicklung führen sollen.[2] Der Studiengang enthält Forschungselemente, die den Teilnehmern und Teilnehmerinnen ermöglichen sollen, durch das Einnehmen der Forscherperspektive zu einem besseren Verständnis organisationaler Zusammenhänge zu gelangen und ihre Analyse- und Reflexionsfähigkeit zu erhöhen.[3] Das Profil des Studiengangs ist stärker anwendungsorientiert; der Studiengang knüpft an die beruflichen Erfahrungen der Teilnehmer und Teilnehmerinnen an. 
+(2)<sup>1</sup> Ziel des Studienganges ist es, Konzepte und Methoden zu vermitteln, die zu einer verbesserten Handlungskompetenz in den Feldern Organisations- und Personalentwicklung führen sollen.<sup>2</sup> Der Studiengang enthält Forschungselemente, die den Teilnehmern und Teilnehmerinnen ermöglichen sollen, durch das Einnehmen der Forscherperspektive zu einem besseren Verständnis organisationaler Zusammenhänge zu gelangen und ihre Analyse- und Reflexionsfähigkeit zu erhöhen.<sup>3</sup> Das Profil des Studiengangs ist stärker anwendungsorientiert; der Studiengang knüpft an die beruflichen Erfahrungen der Teilnehmer und Teilnehmerinnen an. 
 
 (3) Die Masterprüfung dient dem Nachweis besonderer im berufsbegleitenden WeiterbildungsMasterstudiengang Organisations- und Personalentwicklung erworbener Kenntnisse auf dem Gebiet der Organisations- und Personalentwicklung bzw. der Analyse sowie der Planung und Unterstützung von Lernprozessen von und in Unternehmen. 
 
@@ -46,7 +46,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hoc
 
 3. die erfolgreiche Teilnahme an einem Eignungsfeststellungsverfahren gemäß der **Anlage 1** . 
 
-(2)[1] Das Ergebnis des Eignungsfeststellungsverfahrens wird den Bewerbern und Bewerberinnen schriftlich mitgeteilt.[2] § 4 Abs. 7 gilt entsprechend. 
+(2)<sup>1</sup> Das Ergebnis des Eignungsfeststellungsverfahrens wird den Bewerbern und Bewerberinnen schriftlich mitgeteilt.<sup>2</sup> § 4 Abs. 7 gilt entsprechend. 
 
 ## **§ 3** 
 
@@ -56,7 +56,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hoc
 
 1 2 (2) Das Studium ist modularisiert. Ein Modul ist eine aus mehreren Teilleistungen zusammengesetzte Studien- und Prüfungsleistung; Studien- und Prüfungsleistungen sind Prüfungen im Sinne dieser Prüfungsordnung. 
 
-1 (3) Mit erfolgreichem Abschluss eines Moduls werden Leistungspunkte erworben, die einen 2 kalkulierten studentischen Arbeitsaufwand bescheinigen. Ein Leistungspunkt steht für einen Arbeitsaufwand in Höhe von 30 Stunden.[3] Dies entspricht der Leistungspunktbemessung im Rahmen des Europäischen Systems zur Anrechnung von Studien- und Prüfungsleistungen 4 (ECTS). Der Gesamtarbeitsaufwand des Studiengangs beträgt 60 Leistungspunkte. 
+1 (3) Mit erfolgreichem Abschluss eines Moduls werden Leistungspunkte erworben, die einen 2 kalkulierten studentischen Arbeitsaufwand bescheinigen. Ein Leistungspunkt steht für einen Arbeitsaufwand in Höhe von 30 Stunden.<sup>3</sup> Dies entspricht der Leistungspunktbemessung im Rahmen des Europäischen Systems zur Anrechnung von Studien- und Prüfungsleistungen 4 (ECTS). Der Gesamtarbeitsaufwand des Studiengangs beträgt 60 Leistungspunkte. 
 
 (4) 1Der Leistungspunkteumfang der einzelnen Module sowie die Gewichtung der Teilprüfungsleistungen ist in den Modulbeschreibungen (s. **Anlage 2** ) angegeben und begründet. 
 
@@ -68,7 +68,7 @@ Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hoc
 
 1 (6) Die Teilnehmer und Teilnehmerinnen sollen sich so rechtzeitig zu den Prüfungen melden, dass sie das Studium mit allen Studien- und Prüfungsleistungen einschließlich der Masterthesis 2 bis zum Ende des zweiten Studienjahres abschließen. Wird die Frist aus Gründen überschritten, die ein Teilnehmer oder eine Teilnehmerin zu vertreten hat, so gelten die noch nicht abgelegten Prüfungen einschließlich der Masterthesis als abgelegt und erstmals nicht bestanden; bei einer nicht zu vertretenden Fristüberschreitung gewährt der Prüfungsausschuss auf Antrag eine Nachfrist. 
 
-(7)[1] Die Masterprüfung findet studienbegleitend im Rahmen von Modulprüfungen in den in 2 jedem Studienjahr angesetzten Prüfungszeiten statt; Teilmodulprüfungen sind möglich. Die 3 Ergebnisse bestandener Prüfungen werden mit Leistungspunkten berechnet. Studienleistungen 4 können einmal wiederholt werden. Die freiwillige Wiederholung zur Notenverbesserung ist 5 ausgeschlossen. Eine Masterprüfung ist bestanden, wenn alle gemäß dieser Studien- und Prüfungsordnung zu absolvierenden Module bestanden sind.[6] In den Modulbeschreibungen wird angegeben, welche Prüfungsformen angewandt werden und welche Prüfungsleistungen zu erbringen sind (s. **Anlage 2** ). 
+(7)<sup>1</sup> Die Masterprüfung findet studienbegleitend im Rahmen von Modulprüfungen in den in 2 jedem Studienjahr angesetzten Prüfungszeiten statt; Teilmodulprüfungen sind möglich. Die 3 Ergebnisse bestandener Prüfungen werden mit Leistungspunkten berechnet. Studienleistungen 4 können einmal wiederholt werden. Die freiwillige Wiederholung zur Notenverbesserung ist 5 ausgeschlossen. Eine Masterprüfung ist bestanden, wenn alle gemäß dieser Studien- und Prüfungsordnung zu absolvierenden Module bestanden sind.<sup>6</sup> In den Modulbeschreibungen wird angegeben, welche Prüfungsformen angewandt werden und welche Prüfungsleistungen zu erbringen sind (s. **Anlage 2** ). 
 
 (8) Prüfungstermine und Meldefristen werden durch Aushang bekannt gegeben. 
 
@@ -156,9 +156,7 @@ gut (1,7 oder 2,0 oder 2,3) = eine Leistung, die erheblich über den durchschnit
 
 6 
 
-befriedigend (2,7 oder 3,0 oder 3,3) = eine Leistung, die durchschnittlichen Anforderungen entspricht; ausreichend (3,7 oder 4,0) = eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt; 
-
-nicht ausreichend (4,7 oder 5,0) = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt. 
+befriedigend (2,7 oder 3,0 oder 3,3) = eine Leistung, die durchschnittlichen Anforderungen entspricht; ausreichend (3,7 oder 4,0) = eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt; nicht ausreichend (4,7 oder 5,0) = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt. 
 
 2 Wird eine Prüfungsleistung von zwei Prüfern oder Prüferinnen bewertet, werden die Noten 3 gemittelt; Satz 5 gilt entsprechend. Satz 1 gilt entsprechend für Studienleistungen, soweit sie 4 bewertet werden. Die Modulnote errechnet sich, soweit sie auf Teilleistungen beruht, aus dem mit 5 Kreditpunkten gewichteten Durchschnitt der Noten aus den Teilleistungen. Bei der Ermittlung der Note wird nur die erste Dezimalstelle hinter dem Komma ausgewiesen, weitere Dezimalstellen 6 werden ohne Rundung gestrichen. Zum Bestehen der Prüfung ist erforderlich, dass alle Teilleistungen mit wenigstens "ausreichend" (4,0) bewertet sind. 
 
@@ -208,7 +206,7 @@ Wer die Prüfung endgültig nicht bestanden hat, erhält auf Antrag und gegen Vo
 
 1 (2) Entscheidungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin vom Vorsitzenden 2 oder von der Vorsitzenden des Prüfungsausschusses getroffen. Bei Prüfungen ist der Antrag der Meldung zur Prüfung beizufügen. 
 
-## **II. Besondere Bestimmungen für die Masterprüfung** 
+# **II. Besondere Bestimmungen für die Masterprüfung** 
 
 ## **§ 14** 
 
@@ -250,7 +248,7 @@ Wer die Prüfung endgültig nicht bestanden hat, erhält auf Antrag und gegen Vo
 
 ## **Art und Umfang der Masterprüfung** 
 
-1 (1) Die Masterprüfung umfasst die Prüfungen in den Modulen 1 bis 10 und in zwei Vertiefungsmodulen aus dem Modul 11 gemäß der **Anlage 2** sowie die Projektarbeit (Modul 12) 2 und die Anfertigung einer Masterthesis (Modul 13). Die Prüfungen werden gemäß der **Anlage 2** studienbegleitend schriftlich oder mündlich, als Referate mit schriftlicher Ausarbeitung oder als 3 Präsentation erbracht. Auf Antrag kann der Prüfungsausschuss statt des in Modul 12 vorgesehenen Projekts eine gleichwertige Leistung als Prüfungsbestandteil zulassen, wenn ein Projekt aufgrund organisatorischer Hindernisse nicht möglich ist; der Antrag bedarf der Begründung.[4] Die Masterprüfung wird mit der Masterthesis abgeschlossen. 
+1 (1) Die Masterprüfung umfasst die Prüfungen in den Modulen 1 bis 10 und in zwei Vertiefungsmodulen aus dem Modul 11 gemäß der **Anlage 2** sowie die Projektarbeit (Modul 12) 2 und die Anfertigung einer Masterthesis (Modul 13). Die Prüfungen werden gemäß der **Anlage 2** studienbegleitend schriftlich oder mündlich, als Referate mit schriftlicher Ausarbeitung oder als 3 Präsentation erbracht. Auf Antrag kann der Prüfungsausschuss statt des in Modul 12 vorgesehenen Projekts eine gleichwertige Leistung als Prüfungsbestandteil zulassen, wenn ein Projekt aufgrund organisatorischer Hindernisse nicht möglich ist; der Antrag bedarf der Begründung.<sup>4</sup> Die Masterprüfung wird mit der Masterthesis abgeschlossen. 
 
 1 (2) Art und Umfang der Prüfungen, ihre Teilung, die Prüfungsdauer und die den einzelnen 2 Prüfungen zugeordneten ECTS-Punkte ergeben sich aus der **Anlage 2** . Die Form der Prüfung und gegebenenfalls ihre Teilung wird spätestens zu Beginn der Lehrveranstaltung durch Aushang bekannt gegeben; entsprechendes gilt für einen späteren Wechsel der Prüfungsform und die Aufgabe der Teilung. 
 
@@ -264,7 +262,7 @@ Wer die Prüfung endgültig nicht bestanden hat, erhält auf Antrag und gegen Vo
 
 ## **Projektarbeit** 
 
-(1)[1] Die Projektarbeit soll zeigen, dass der Teilnehmer oder die Teilnehmerin ein Projekt aus dem Themenfeld der Organisations- und Personalentwicklung aufgrund der im Studiengang erworbenen Vorkenntnisse konzipieren und umsetzen kann.[2] Dieses ist in einer Präsentation nach Abschluss des Projekts öffentlich vorzustellen; § 5 Abs. 6 gilt entsprechend. 
+(1)<sup>1</sup> Die Projektarbeit soll zeigen, dass der Teilnehmer oder die Teilnehmerin ein Projekt aus dem Themenfeld der Organisations- und Personalentwicklung aufgrund der im Studiengang erworbenen Vorkenntnisse konzipieren und umsetzen kann.<sup>2</sup> Dieses ist in einer Präsentation nach Abschluss des Projekts öffentlich vorzustellen; § 5 Abs. 6 gilt entsprechend. 
 
 (2) § 18 Abs. 2 und § 19 gelten entsprechend. 
 
@@ -346,7 +344,7 @@ Wer die Prüfung endgültig nicht bestanden hat, erhält auf Antrag und gegen Vo
 
 1 (2) Gleichzeitig mit dem Zeugnis wird dem Absolventen oder der Absolventin eine Urkunde 2 über die Verleihung des Mastergrades mit dem Datum des Zeugnisses ausgehändigt. Die 3 Urkunde enthält die Prüfungsgesamtnote. Sie wird vom Vorsitzenden oder von der Vorsitzenden des Prüfungsausschusses unterzeichnet. 
 
-## **III. Schlussbestimmungen** 
+# **III. Schlussbestimmungen** 
 
 ## **§ 25** 
 
@@ -396,20 +394,11 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 |**Modul**|**Inhalte**|**Umfang**|**Leistung**|**ECTS**|
 |---|---|---|---|---|
-|**Modul 1: Grundlagen der**<br>**Organisations- und**<br>**Personalentwicklung**|-<br>Grundlagen der Organisationsentwicklung<br>-<br>Grundlagen der Personalentwicklung<br>-<br>Integration von Organisations- und Personalentwicklung<br>-<br>Organisation, Strategie, Verantwortung (Organisationstheorie und<br>Unternehmenspraxis, Unternehmensstrategie und Unternehmensethik)<br>-<br>Organisationsforschung (Methoden, Forschung als Ausgangspunkt für<br>Veränderungen, Vorbereitung auf die Masterarbeit)|Kontaktzeit:|Klausur, Referat|5|
-|||35 akad. Stunden<br>Eigenarbeit:<br>ca. 115<br>Zeitstunden|oder Hausarbeit||
-|**Modul 2:**<br>**Qualifikationsplanung**<br>**und Personalentwicklung**|-<br>Konzepte der Personalentwicklung (strategische Personalentwicklung auch<br>strategische Personalplanung), demografische Entwicklung<br>-<br>Kompetenzmanagement<br>-<br>Innovative Arbeitsorganisationsformen, neuere Produktionssysteme, Analyse und<br>Identifizierung zukünftig benötigter Qualifikationen und Kompetenzen<br>(Methoden und Instrumente, Bildungsbedarfsanalyse (nicht ausschließlich<br>individuell))|Kontaktzeit:|Klausur, Referat|2|
-|||20 akad. Stunden|oder Hausarbeit||
-|||Eigenarbeit:<br>ca. 40 Zeitstunden|||
-|**Modul 3: Methoden und**<br>**Instrumente der**<br>**Personalentwicklung**|-<br>Instrumente der Personalentwicklung (Mitarbeiter, Team) - auch alternsgerechte<br>PE, betriebliche Gesundheitsförderung<br>-<br>Lernformen (individuelles Lernen, Teamlernen auch Gruppenarbeit),<br>-<br>kompetenzförderliche Umgebungsbedingungen, Messung und Zertifizierung von<br>Kompetenzen: Instrumente und Methoden/Kompetenzdiagnose (formale/non-<br>formale und informelle Kompetenzen),<br>-<br>Kompetenzprofile, Potenzialerhebung (Talente identifizieren),<br>-<br>Führungskräfteentwicklung<br>-<br>Internationalisierungder Personalentwicklung|Kontaktzeit:|Klausur, Referat|4|
-|||30 akad. Stunden|oder Hausarbeit||
-|||Eigenarbeit:<br>ca. 90 Zeitstunden|||
-|**Modul 4:  Konzepte der**<br>**Organisationsent-**<br>**wicklung**|-<br>Konzepte (Gestaltungsansatz, OE, organisationales Lernen, Teamentwicklung,<br>Organisationsberatung)<br>-<br>Wissensmanagement<br>-<br>Unternehmenskultur<br>-<br>Lernkultur<br>-<br>informelle Prozesse in Organisationen<br>-<br>Interkulturalität|Kontaktzeit:|Klausur, Referat|6|
-|||35 akad. Stunden|oder Hausarbeit||
-|||Eigenarbeit:<br>ca. 145<br>Zeitstunden|||
-|**Modul 5: Umsetzung von**<br>**Organisationsentwick-**<br>**lungsprozessen**|-<br>Management komplexer Projekte (Organisations- und Strategieberatung,<br>Projektinitiierung, Umsetzung), Change Management<br>-<br>Ganzheitliches Prozessmanagement<br>-<br>Projektmanagement (einschließlich Projektcontrolling)<br>-<br>Netzwerkarbeit/Networking (nach innen und außen),Knowledge Community|Kontaktzeit:|Klausur, Referat|4|
-|||30 akad. Stunden|oder Hausarbeit||
-|||Eigenarbeit:<br>ca. 90 Zeitstunden|||
+|**Modul 1: Grundlagen der**<br>**Organisations- und**<br>**Personalentwicklung**|-<br>Grundlagen der Organisationsentwicklung<br>-<br>Grundlagen der Personalentwicklung<br>-<br>Integration von Organisations- und Personalentwicklung<br>-<br>Organisation, Strategie, Verantwortung (Organisationstheorie und<br>Unternehmenspraxis, Unternehmensstrategie und Unternehmensethik)<br>-<br>Organisationsforschung (Methoden, Forschung als Ausgangspunkt für<br>Veränderungen, Vorbereitung auf die Masterarbeit)|Kontaktzeit:<br>35 akad. Stunden<br>Eigenarbeit:<br>ca. 115<br>Zeitstunden|Klausur, Referat<br>oder Hausarbeit|5|
+|**Modul 2:**<br>**Qualifikationsplanung**<br>**und Personalentwicklung**|-<br>Konzepte der Personalentwicklung (strategische Personalentwicklung auch<br>strategische Personalplanung), demografische Entwicklung<br>-<br>Kompetenzmanagement<br>-<br>Innovative Arbeitsorganisationsformen, neuere Produktionssysteme, Analyse und<br>Identifizierung zukünftig benötigter Qualifikationen und Kompetenzen<br>(Methoden und Instrumente, Bildungsbedarfsanalyse (nicht ausschließlich<br>individuell))|Kontaktzeit:<br>20 akad. Stunden<br>Eigenarbeit:<br>ca. 40 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|2|
+|**Modul 3: Methoden und**<br>**Instrumente der**<br>**Personalentwicklung**|-<br>Instrumente der Personalentwicklung (Mitarbeiter, Team) - auch alternsgerechte<br>PE, betriebliche Gesundheitsförderung<br>-<br>Lernformen (individuelles Lernen, Teamlernen auch Gruppenarbeit),<br>-<br>kompetenzförderliche Umgebungsbedingungen, Messung und Zertifizierung von<br>Kompetenzen: Instrumente und Methoden/Kompetenzdiagnose (formale/non-<br>formale und informelle Kompetenzen),<br>-<br>Kompetenzprofile, Potenzialerhebung (Talente identifizieren),<br>-<br>Führungskräfteentwicklung<br>-<br>Internationalisierungder Personalentwicklung|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 90 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|4|
+|**Modul 4:  Konzepte der**<br>**Organisationsent-**<br>**wicklung**|-<br>Konzepte (Gestaltungsansatz, OE, organisationales Lernen, Teamentwicklung,<br>Organisationsberatung)<br>-<br>Wissensmanagement<br>-<br>Unternehmenskultur<br>-<br>Lernkultur<br>-<br>informelle Prozesse in Organisationen<br>-<br>Interkulturalität|Kontaktzeit:<br>35 akad. Stunden<br>Eigenarbeit:<br>ca. 145<br>Zeitstunden|Klausur, Referat<br>oder Hausarbeit|6|
+|**Modul 5: Umsetzung von**<br>**Organisationsentwick-**<br>**lungsprozessen**|-<br>Management komplexer Projekte (Organisations- und Strategieberatung,<br>Projektinitiierung, Umsetzung), Change Management<br>-<br>Ganzheitliches Prozessmanagement<br>-<br>Projektmanagement (einschließlich Projektcontrolling)<br>-<br>Netzwerkarbeit/Networking (nach innen und außen),Knowledge Community|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 90 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|4|
 
 16 
 
@@ -420,14 +409,15 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 |**Modul 8: Flexibles**<br>**Personalmanagement**|-<br>Personalmarketing/Recruiting (auch international)<br>-<br>Instrumente der Personalauswahl, Personalbindung,<br>-<br>Corporate Social Responsibility (CSR),<br>-<br>Anreiz- und Entgeltsysteme,<br>-<br>Arbeitszeitmodelle,<br>-<br>Trennungsmanagement,<br>-<br>Internationales Personalmanagement|Kontaktzeit:<br>20 akad. Stunden<br>Eigenarbeit:<br>ca. 70 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|3|
 |**Modul 9: Führungs- und**<br>**Managementkompeten-**<br>**zen**|-<br>Teambuilding, Teamentwicklung,<br>-<br>Kommunikation und Gesprächsführung (Mitarbeitergespräche,<br>Konfliktgespräche)<br>-<br>Coaching,<br>-<br>Techniken der Moderation und Präsentation<br>-<br>Interkulturelle Kompetenz|Kontaktzeit:<br>25 akad. Stunden<br>Eigenarbeit:<br>ca. 35 Zeitstunden||2|
 |**Modul 10: Arbeitsrecht**|-<br>individuelles, kollektives und tarifliches Arbeitsrecht,<br>-<br>Entgeltrahmentarifvertrag: betriebliche Eingruppierung, Mitbestimmung/<br>-<br>Kommunikation mit Betriebsrat,<br>-<br>Betriebsverfassungsgesetz,<br>-<br>Berufsbildungsgesetz,<br>-<br>Kündigung/Abmahnung/Befristung|Kontaktzeit:<br>5 akad. Stunden<br>Eigenarbeit:<br>ca. 85 Zeitstunden||3|
-|**Modul 11:**<br>**(Vertiefungsmodule) *)**<br>**Vertiefungsmodul  1:**<br>**Management von**<br>**Organisationen**|-<br>Organisations- bzw. Unternehmensformen, Arbeits- und Personalorganisation<br>-<br>Non-Profit-Organisationen<br>-<br>Managementkonzepte (Business Reengineering, Lean Management etc.)<br>-<br>Internationales Management<br>-<br>Betriebswirtschaftliche Grundlagen (Materialwirtschaft, Produktion, Marketing,<br>~~Controlling Finanzierung Kostenrechnung)~~|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Referat oder<br>Hausarbeit|3|
-||~~, ,~~||||
+|**Modul 11:**<br>**(Vertiefungsmodule) *)**|||||
+|**Vertiefungsmodul  1:**<br>**Management von**<br>**Organisationen**|-<br>Organisations- bzw. Unternehmensformen, Arbeits- und Personalorganisation<br>-<br>Non-Profit-Organisationen<br>-<br>Managementkonzepte (Business Reengineering, Lean Management etc.)<br>-<br>Internationales Management<br>-<br>Betriebswirtschaftliche Grundlagen (Materialwirtschaft, Produktion, Marketing,<br>~~Controlling, Finanzierung, Kostenrechnung)~~|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Referat oder<br>Hausarbeit|3|
 
 17 
 
-|**Vertiefungsmodul  2:**<br>**Beratung**<br>**Vertiefungsmodul  3:**<br>**Weiterbildungsmanage-**<br>**ment**<br>**Vertiefungsmodul  4:**<br>**Ausbildungsmanagement**|-<br>Interne Organisationsberatung<br>-<br>Bildungsberatung<br>-<br>Lernprozesse<br>-<br>Rolle des Beraters<br>-<br>Beratungsverfahren (Coaching)<br>-<br>Finanzierung<br>-<br>Gestaltung und Organisation betrieblicher Weiterbildung,<br>-<br>Auswahl externer Dienstleister,<br>-<br>Weiterbildungsmarketing (intern),<br>-<br>neue betriebliche Ausbildungsformen,<br>-<br>Ausbildungsmarketing,<br>-<br>Organisation betrieblicher Ausbildung,<br>-<br>Europäisierung der Berufsbildung (Anerkennungssysteme beruflicher Abschlüsse,<br>Mobilität von Auszubildenden)|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden<br>Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden<br>Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Klausur, Referat<br>oder Hausarbeit<br>Klausur, Referat<br>oder Hausarbeit<br>Klausur, Referat<br>oder Hausarbeit|3<br>3<br>3|
+|**Vertiefungsmodul  2:**<br>**Beratung**|-<br>Interne Organisationsberatung<br>-<br>Bildungsberatung<br>-<br>Lernprozesse<br>-<br>Rolle des Beraters<br>-<br>Beratungsverfahren (Coaching)<br>-<br>Finanzierung|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|3|
 |---|---|---|---|---|
-||||||
+|**Vertiefungsmodul  3:**<br>**Weiterbildungsmanage-**<br>**ment**|-<br>Gestaltung und Organisation betrieblicher Weiterbildung,<br>-<br>Auswahl externer Dienstleister,<br>-<br>Weiterbildungsmarketing (intern),|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|3|
+|**Vertiefungsmodul  4:**<br>**Ausbildungsmanagement**|-<br>neue betriebliche Ausbildungsformen,<br>-<br>Ausbildungsmarketing,<br>-<br>Organisation betrieblicher Ausbildung,<br>-<br>Europäisierung der Berufsbildung (Anerkennungssysteme beruflicher Abschlüsse,<br>Mobilität von Auszubildenden)|Kontaktzeit:<br>30 akad. Stunden<br>Eigenarbeit:<br>ca. 60 Zeitstunden|Klausur, Referat<br>oder Hausarbeit|3|
 |**Modul 12:**<br>**Projekt**|Zur Vorbereitung der Masterarbeit soll ab dem 1. Studienjahr ein Projekt geplant und ab<br>dem 2. Studienjahr durchgeführt werden, das intendiert, die im Rahmen des Studiums<br>erworbenen Kenntnisse anzuwenden und dadurch zu vertiefen. Das Projekt ist im Idealfall<br>in einen betrieblichen Kontext eingebettet. Studierende, die sich erst auf die Übernahme<br>einschlägiger Tätigkeiten vorbereiten, können einen rein konzeptionellen Ansatz verfolgen.<br>Die Planung und Durchführung des Projekts wird durch einen Dozenten betreut und bildet<br>die Grundlage für die Masterarbeit, die am Ende des vierten Semesters vorgelegt werden<br>soll.|Bearbeitungs-<br>zeitraum:<br>6 Monate<br>(ab dem 2.<br>Studienjahr)|Konzeption und<br>Realisierung eines<br>Projekts,<br>Präsentation|5|
 |**Modul 13:**<br>**Masterarbeit**|Auswertung und theoretische Einbindung der Projektergebnisse: Die Masterarbeit<br>beinhaltet die theoretische und fachwissenschaftliche Aufarbeitung und Auswertung des<br>Projekts. Sie konzentriert sich auf die Erläuterung des theoretischen Bezugs und geht auf<br>die gewählten Konzepte sowie angewandten Instrumente und Methoden ein. Die<br>Masterarbeit soll zu erkennen geben, dass der Kandidat in der Lage ist, wissenschaftlich zu<br>arbeiten und sein Vorgehen sowie das erreichte Ergebnis zu analysieren und kritisch zu<br>reflektieren.|Bearbeitungs-<br>zeitraum:<br>4 Monate|Schriftliche Arbeit|15|
 |||Kontaktzeit:<br>295 akad. h<br>Eigenarbeit:<br>ca. 1500 Z h<br>Gesamt:<br>ca. 1800 h||60|

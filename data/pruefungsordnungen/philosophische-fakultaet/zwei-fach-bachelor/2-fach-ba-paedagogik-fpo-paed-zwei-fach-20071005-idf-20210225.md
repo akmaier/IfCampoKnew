@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Pädagogik FPO Päd-Zwei-Fach 20071005 i.d.F. 20210225.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Paedagogik/konsolidierte_Fassungen/2-Fach-BA_Paedagogik_FPO_Paed-Zwei-Fach_20071005_idF_20210225.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:09:55+00:00
-page_count_chars: 14139
+scraped_at: 2026-07-01T10:27:33+00:00
+page_count_chars: 14078
 ---
 
 # 2-Fach-BA Pädagogik FPO Päd-Zwei-Fach 20071005 i.d.F. 20210225.pdf
@@ -16,7 +16,7 @@ page_count_chars: 14139
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Päd Zwei-Fach – Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO Päd Zwei-Fach – Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -44,9 +44,19 @@ geändert durch Satzungen vom
 
 Aufgrund von Art. Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes ( **BayHSchG** ) erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2 § 5 Lehr- und Lernformen ...................................................................................................... 3 § 6 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 7 Bewertungen von Prüfungen ........................................................................................... 3 § 8 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlage 1: Pädagogik als Erstfach .......................................................................................... 4 Anlage 2: Pädagogik als Zweitfach ........................................................................................ 6 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2|
+|§ 5 Lehr- und Lernformen ...................................................................................................... 3|
+|§ 6 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 7 Bewertungen von Prüfungen ........................................................................................... 3<br>|
+|§ 8 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlage 1: Pädagogik als Erstfach .......................................................................................... 4|
+|Anlage 2: Pädagogik als Zweitfach ........................................................................................ 6|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -60,7 +70,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Pädagogik kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Der Zwei-Fach-Bachelorstudiengang Pädagogik bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.[2] Die Studierenden erwerben grundlegende Fachkenntnisse der Pädagogik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[3] Diese Kenntnisse und Fähigkeiten werden mit dem Zwei-Fach-Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Der Zwei-Fach-Bachelorstudiengang Pädagogik bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.<sup>2</sup> Die Studierenden erwerben grundlegende Fachkenntnisse der Pädagogik und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>3</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Zwei-Fach-Bachelorabschluss nachgewiesen. 
 
 (3) Das Studium der Pädagogik im Zwei-Fach-Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten und insbesondere die systematische und methodische Kompetenz zur Bearbeitung pädagogischer Probleme sowie die Fähigkeit zur kritischen Reflexion der Möglichkeiten und Grenzen pädagogischer Theorien und Methoden vermitteln. 
 
@@ -74,7 +84,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -82,7 +92,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (2) Beim Studium der Pädagogik als Zweitfach entfallen das Modul Bachelorarbeit sowie nach eigener Wahl der bzw. des Studierenden das Modul Pädagogische Grundlagen oder das Modul Pädagogische Forschung II. 
 
-(3)[1] Wird Pädagogik als Erstfach gewählt, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Es werden Module empfohlen, die zum Erwerb bzw. zur Vertiefung moderner Fremdsprachen und/oder zur Erweiterung der Allgemeinbildung und/oder zur Förderung interdisziplinärer Kompetenzen und zur Tätigkeitsqualifizierung beitragen.[3] Praktika, die zusätzlich zum Modul 
+(3)<sup>1</sup> Wird Pädagogik als Erstfach gewählt, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Es werden Module empfohlen, die zum Erwerb bzw. zur Vertiefung moderner Fremdsprachen und/oder zur Erweiterung der Allgemeinbildung und/oder zur Förderung interdisziplinärer Kompetenzen und zur Tätigkeitsqualifizierung beitragen.<sup>3</sup> Praktika, die zusätzlich zum Modul 
 
 2 
 
@@ -96,51 +106,51 @@ Praktikum absolviert werden, können gemäß § 33 Abs. 4 **ABMStPO/Phil** nur i
 
 Die Grundlagen- und Orientierungsprüfung im Fach Pädagogik umfasst die Modulprüfung für das Modul Einführung in die Pädagogik sowie eine weitere Modulprüfung nach eigener Wahl der bzw. des Studierenden. 
 
-## **§ 7 Bewertungen von Prüfungen** 
+## **<u>§ 7 Bewertungen von Prüfungen</u>** 
 
-Abweichend von § 22 Abs. 1 Satz 4 **ABMStPO/Phil** ist eine Modulprüfung auch dann bestanden, wenn eine Studienleistung oder Modulteilprüfung mit 4,3 bewertet wurde, sofern der Notendurchschnitt aller Teilprüfungen des Moduls mindestens 4,0 beträgt. 
+Abweichend von § 22 Abs. 1 Satz 4 **ABMStPO/Phil** ist eine Modulprüfung auch dann bestanden, wenn eine Studienleistung oder Modulteilprüfung mit 4,3 bewertet wurde, <u>sofern der Notendurchschnitt aller Teilprüfungen des Moduls mindestens 4,0 beträgt.</u> 
 
 ## **§ 8 Schluss- und Übergangsvorschriften** 
 
 (1) Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die elfte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Prüfungen nach den bisher gültigen Fassungen dieser Fachstudien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.[3] Ab dem in Satz 2 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+(2)<sup>1</sup> Die elfte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Prüfungen nach den bisher gültigen Fassungen dieser Fachstudien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.<sup>3</sup> Ab dem in Satz 2 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 3 
 
 ## **Anlage 1: Pädagogik als Erstfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS-||Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|Punkte|1.|<br>2.|<br>3.|<br>4.|5.|6.|||
-|**Erstfach: Pädagogik**|||||||||||||||
-|Einführung in die Pädagogik|Einführung in die Pädagogik|2||||10|5||||||Hausarbeit (ca. 10 S.,50 %)<br>und<br>Klausur (45 Min., 50 %) oder<br>mdl. Prüfung (15Min., 50 %)2)|1|
-||Einführung in das pädagogische<br>Sehen und Denken||||2||5||||||||
-|Pädagogische Grundlagen|Seminar||||2|10|5||||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)2)|1|
-||Seminar||||2|||5|||||||
-|Historische und systematische<br>Grundlagen der Pädagogik|Geschichte der Pädagogik|2||||10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)2)|1|
-||Pädagogische Anthropologie|2|||||||5||||||
-|Pädagogische Forschung I|Seminar||||2|10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30Min.)2)|1|
-||Seminar||||2||||5||||||
-|Pädagogische Arbeitsfelder|Pädagogische Institutionen und<br>Handlungsfelder|2||||10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)2)|1|
-||Pädagogische Handlungsformen||||2||||||5||||
-|Einführung in pädagogische<br>Bereiche|Seminar||||2|10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)2)|1|
-||Seminar||||2||||||5||||
-|Praktikum|Praktikum|||||10||||5|2,5||Hausarbeit (ca. 15. S.)|1|
-||Praxisreflexion||||2||||||2,5||||
-|Pädagogische Forschung II|Seminar||||2|10||||||5|Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30Min.)2)|1|
-||Seminar||||2|||||||5|||
-||Summe:|8|||22|80|15|15|10|15|15|10|||
-|**Zweitfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module desZweitfachs3)|vgl.**FPO** desZweitfachs|||||70|0-15|0-15|0-20|0-15|0-15|0-10|vgl.**FPO** desZweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|4)|||||20|0-15|0-15|0-20|0-15|0-15|0-10|4)||
-|**Bachelorarbeit im Erstfach (Pädagogik)**|||||||||||||||
-|Bachelorarbeit|Begleitseminar||||1|10||||||10|Bachelorarbeit (ca. 40 S.)|1|
-||||||||||||||||
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+||<br>SWS|Gesamt<br>|Workload-<br>|Verteil<br>|ung<br>|Art und Umfang|Faktor|
+|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung<br> <br>|ECTS-|pro Semester in|ECTS-|Punkten<sup>1)</sup>|<br>d Püf|Modul-|
+||<br>V<br>Ü<br>P<br>S|Punkte|1.<br>2.<br>3.|4.|5.|er rung<br>6.|note|
+|**Erstfach: Pädagogik**||||||||
+||Einführung in die Pädagogik<br>2||5|||Hausarbeit (ca. 10 S.,50 %)<br>und||
+|Einführung in die Pädagogik|Einführung in das pädagogische<br>Sehen und Denken<br>2|10|5|||<br>Klausur (45 Min., 50 %) oder<br>mdl. Prüfung (15Min., 50 %)<sup>2)</sup>|1|
+|Pädagogische Grundlagen|Seminar<br>2|10|5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min) oder|1|
+||Seminar<br>2||5|||.<br>mdl. Prüfung (30 Min.)<sup>2)</sup>||
+|Historische und systematische<br>|Geschichte der Pädagogik<br>2|10|5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+|Grundlagen der Pädagogik|Pädagogische Anthropologie<br>2||5|||<br>mdl. Prüfung (30 Min.)<sup>2)</sup>||
+|Pädagogische Forschung I|Seminar<br>2|10|5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+||Seminar<br>2||5|||<br>mdl. Prüfung (30Min.)<sup>2)</sup>||
+|Pädagogische Arbeitsfelder|Pädagogische Institutionen und<br>Handlungsfelder<br>2|10||5||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+||Pädagogische Handlungsformen<br>2||||5|<br>mdl. Prüfung (30 Min.)<sup>2)</sup>||
+|Einführung in pädagogische|Seminar<br>2|10||5||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min) oder|1|
+|Bereiche|Seminar<br>2||||5|.<br>mdl. Prüfung (30 Min.)<sup>2)</sup>||
+|Pktik|Praktikum|10||5|2,5|Hbit  15 S|1|
+|raum|Praxisreflexion<br>2||||2,5|ausare (ca. . .)||
+|Pädaoische Forschun II|Seminar<br>2|10||||5<br>Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min) oder|1|
+|gg g|Seminar<br>2|||||.<br>  <sup>2)</sup><br>5||
+|**Zweitfach gemäß Kombinations**<br>|<br> <br>Summe:<br>8<br>22<br>**möglichkeiten nach Anlage 3 ABMStPO/Phil**<br>|80|15<br>15<br>10|15|15|mdl. Prüfung (30Min.)<br> <br>10<br>||
+|Module desZweitfachs<sup>3)</sup>|vgl.**FPO** desZweitfachs|70|0-15<br>0-15<br>0-20|0-15|0-15|0-10<br>vgl.**FPO** desZweitfach|s|
+|**Schlüsselqualifikationen**||||||||
+|Schlüsselqualifikationsmodule|4)|20|0-15<br>0-15<br>0-20|0-15|0-15|0-10<br>4)||
+|**Bachelorarbeit im Erstfach (Päd**|**agogik)**<br>Blii<br>1|||||||
+||egetsemnar<br>|||||<br>||
+|Bachelorarbeit||10||||10<br>Bachelorarbeit (ca. 40 S.)|1|
+|<br>SummeECTS-Pu|nkteim Zwei-Fach-Bachelorstudium:|<br>180|30<br>30<br>30|30|30|<br> <br>30||
 
-- 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
+> 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 
 - 2) Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden gewählten Moduls und dem Modulhandbuch zu entnehmen. 
 
@@ -154,35 +164,34 @@ Abweichend von § 22 Abs. 1 Satz 4 **ABMStPO/Phil** ist eine Modulprüfung auch 
 
 ## **Anlage 2: Pädagogik als Zweitfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS-||Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)|Workload-Verteilung<br>proSemester in ECTS-Punkten1)||Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|Punkte|1.|<br>2.|<br>3.|<br>4.|5.|6.|||
-|**Erstfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module des Erstfachs2)|vgl.**FPO**des Erstfachs|||||70-90|0-20|0-20|0-20|0-15|0-15|0-20|vgl.**FPO**des Erstfachs||
-|**Zweitfach: Pädagogik**|||||||||||||||
-|Einführung in die Pädagogik|Einführung in die Pädagogik|2||||10|5||||||Hausarbeit (ca. 10 S.,50 %)<br>und<br>Klausur (45 Min., 50 %) oder<br>mdl. Prüfung (15Min., 50 %)3)|1|
-||Einführung in das pädagogische<br>Sehen und Denken||||2||5||||||||
-|Pädagogische Grundlagen4)|Seminar||||2|10|5||||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)3)|1|
-||Seminar||||2|||5|||||||
-|Historische und systematische<br>Grundlagen der Pädagogik|Geschichte der Pädagogik|2||||10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)3)|1|
-||Pädagogische Anthropologie|2|||||||5||||||
-|Pädagogische Forschung I|Seminar||||2|10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30Min.)3)|1|
-||Seminar||||2||||5||||||
-|Pädagogische Arbeitsfelder|Pädagogische Institutionen und<br>Handlungsfelder|2||||10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)3)|1|
-||Pädagogische Handlungs-<br>formen||||2||||||5||||
-|Einführung in pädagogische<br>Bereiche|Seminar||||2|10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)3)|1|
-||Seminar||||2||||||5||||
-|Praktikum|Praktikum|||||10||||5|2,5||Hausarbeit (ca. 15. S.)|1|
-||Praxisreflexion||||2||||||2,5||||
-|Pädagogische Forschung II4)|Seminar||||2|10||||||5|Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder<br>mdl. Prüfung (30Min.)3)|1|
-||Seminar||||2|||||||5|||
-||Summe:|8|||18|70|10-15|10-15|10|15|15|0-10|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|5)|||||10-30|0-20|0-20|0-20|0-15|0-15|0-20|5)||
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl.**FPO**des Erstfachs|||||10||||||10|vgl.**FPO**des Erstfachs|1|
-||Summe:|||||10||||||10|||
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>|Gesamt<br>ECTS-||<br>pro Se|Workload-<br>mester in|Verteilung<br>ECTS-Pu|<br>nkten<sup>1)</sup>||Art und Umfang<br>d Püf|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+||<br>V<br>Ü<br>P<br>S|Punkte|1.|2.|3.|4.|5.|6.|er rung|note|
+|**Erstfach gemäß Kombinations**|**möglichkeiten nach Anlage 3 ABMStPO/Phil**||||||||||
+|Module des Erstfachs<sup>2)</sup>|vgl.**FPO**des Erstfachs|70-90|0-20|0-20|0-20|0-15|0-15|0-20|vgl.**FPO**des Erstfach|s|
+|**Zweitfach: Pädagogik**|||||||||||
+||Einführung in die Pädagogik<br>2||5||||||Hausarbeit (ca. 10 S.,50 %)<br>||
+|Einführung in die Pädagogik|Einführung in das pädagogische<br>Sehen und Denken<br>2|10|5||||||und<br>Klausur (45 Min., 50 %) oder<br>mdl. Prüfung (15Min., 50 %)<sup>3)</sup>|1|
+|Pädagogische Grundlagen<sup>4)</sup>|Seminar<br>2|10|5||||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min) oder|1|
+||Seminar<br>2|||5|||||.<br>mdl. Prüfung (30 Min.)<sup>3)</sup>||
+|Historische und systematische<br>|Geschichte der Pädagogik<br>2|10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+|Grundlagen der Pädagogik|Pädagogische Anthropologie<br>2||||5||||<br>mdl. Prüfung (30 Min.)<sup>3)</sup>||
+|Pädagogische Forschung I|Seminar<br>2|10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+||Seminar<br>2||||5||||<br>mdl. Prüfung (30Min.)<sup>3)</sup>||
+||Pädagogische Institutionen und<br>Handlungsfelder<br>2|||||5|||Hausarbeit (ca. 15 S.) oder<br>||
+|Pädagogische Arbeitsfelder|Pädagogische Handlungs-<br>formen<br>2|10|||||5||Klausur (90 Min.) oder<br>mdl. Prüfung (30 Min.)<sup>3)</sup>|1|
+|Einführung in pädagogische|Seminar<br>2|10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min) oder|1|
+|Bereiche|Seminar<br>2||||||5||.<br>mdl. Prüfung (30 Min.)<sup>3)</sup>||
+|Pktik|Praktikum|10||||5|2,5||Hbit  15 S|1|
+|raum|Praxisreflexion<br>2||||||2,5||ausare (ca. . .)||
+|Pädagogische Forschung II<sup>4)</sup>|Seminar<br>2|10||||||5|Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder|1|
+||Seminar<br>2|||||||5|<br>mdl. Prüfung (30Min.)<sup>3)</sup>||
+||Summe:<br>8<br>18|70|10-15|10-15|10|15|15|0-10|||
+|**Schlüsselqualifikationen**|||||||||||
+|Schlüsselqualifikationsmodule|5)|10-30|0-20|0-20|0-20|0-15|0-15|0-20|5)||
+|**Bachelorarbeit im Erstfach**|||||||||||
+|Bachelorarbeit|vgl.**FPO**des Erstfachs|10||||||10|vgl.**FPO**des Erstfachs|1|
+|SummeECTS-Punk|Summe:<br>teim Zwei-Fach-Bachelorstudium:|10<br>180|30|30|30|30|30|10<br>30|||
 
 - 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. März 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:23:38+00:00
-page_count_chars: 3504
+scraped_at: 2026-07-01T10:40:12+00:00
+page_count_chars: 3500
 ---
 
 # 19. März 2009
@@ -12,13 +12,13 @@ page_count_chars: 3504
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-BA_WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## vom 19. März 2009 
+# vom 19. März 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 27. September 2007, zuletzt geändert durch Satzung vom 28. Februar 2008, wird wie folgt geändert: 
 
@@ -56,7 +56,7 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 7. In der Anlage 3.1 wird unter der Zeile „Vertiefungsbereich des Schwerpunkts Verhaltenswissenschaften“ in der Zeile „Block 2: frei wählbar aus sozialökonomischen Vertiefungen“ das Wort „sozialökonomischen“ durch das Wort „allen“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am 1. April 2009 in Kraft. 
 

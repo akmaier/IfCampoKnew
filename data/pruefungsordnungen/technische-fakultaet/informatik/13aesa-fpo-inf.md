@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. September 2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/13AeSa-FPO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:13+00:00
-page_count_chars: 5460
+scraped_at: 2026-07-01T11:38:18+00:00
+page_count_chars: 5446
 ---
 
 # 24. September 2001
@@ -14,11 +14,9 @@ page_count_chars: 5460
 
 **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
 
-## Vom 24. September 2001 
+# Vom 24. September 2001 
 
 Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetztes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-§ 1 
 
 Die Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg vom 16. September 1977 (KMBl II.S.245), zuletzt geändert durch Satzung vom 10. März 1999 (KWMBl II.S.462), wird wie folgt geändert: 
 
@@ -76,17 +74,17 @@ aa) Nach Nr. 3 wird eingefügt: „4. Organisation und Technologie von Rechensys
 
    - aa) Nr. 1 erhält folgende Fassung: „Algorithmik I und II“ 
 
-bb) Nr. 2 wird aufgehoben; die bisherigen Nrn. 3 bis 6 werden Nrn. 2 bis 5. 
+- bb) Nr. 2 wird aufgehoben; die bisherigen Nrn. 3 bis 6 werden Nrn. 2 bis 5. 
 
-   - b) Absatz 2 wird wie folgt geändert: 
+- b) Absatz 2 wird wie folgt geändert: 
 
-      - aa) Satz 5 entfällt; die Sätze 6 und 7 werden Sätze 5 und 6. 
+   - aa) Satz 5 entfällt; die Sätze 6 und 7 werden Sätze 5 und 6. 
 
-      - bb) in Satz 5 (neu) wird die Zahl 6 durch die Zahl 5 ersetzt. 
+   - bb) in Satz 5 (neu) wird die Zahl 6 durch die Zahl 5 ersetzt. 
 
-      - cc) in den Sätzen 5 und 6 (neu) wird das Wort „Fertigungstechnik“ durch das Wort „Maschinenbau“ ersetzt. 
+   - cc) in den Sätzen 5 und 6 (neu) wird das Wort „Fertigungstechnik“ durch das Wort „Maschinenbau“ ersetzt. 
 
-- c) Absatz 3 erhält folgende Fassung: 
+## c) Absatz 3 erhält folgende Fassung: 
 
 „Wird die Diplomvorprüfung in zwei Abschnitten abgelegt, so ist im ersten Abschnitt mindestens die Prüfung zu Absatz 1 Nr. 2 abzulegen.“ 
 

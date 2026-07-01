@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Informatik FPOINF 20191203 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20191203_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:17:54+00:00
-page_count_chars: 3801
+scraped_at: 2026-07-01T11:37:19+00:00
+page_count_chars: 3822
 ---
 
 # BSc-MSc Informatik FPOINF 20191203 ÄS.pdf
@@ -12,21 +12,21 @@ page_count_chars: 3801
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Informatik/Aenderungssatzungen/BSc-MSc_Informatik_FPOINF_20191203_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
+# **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOINF –** 
 
-## **Vom 3. Dezember 2019** 
+# **Vom 3. Dezember 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Universität Erlangen-Nürnberg (FAU) – FPOINF – vom 21. September 2007, zuletzt geändert durch Satzung vom 6. März 2019, wird wie folgt geändert: 
 
-## 1. § 42 erhält folgende neue Fassung: 
+# 1. § 42 erhält folgende neue Fassung: 
 
-## „ **§ 42 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
+# „ **§ 42 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informatik.[2] Als fachverwandte bzw. im Hinblick auf die Qualifikation nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Informatik.<sup>2</sup> Als fachverwandte bzw. im Hinblick auf die Qualifikation nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere anerkannt: 
 
 1. Bachelor- oder Diplomabschlüsse in Computational Engineering, Informationsund Kommunikationstechnik, Mechatronik, Wirtschaftsinformatik, Medizintechnik mit Kompetenzfeld Elektrotechnik/Informationstechnik/Informatik, ElektrotechnikElektronik-Informations-technik, Mathematik mit Nebenfach Informatik, Technomathematik, 
 
@@ -48,9 +48,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an 
 
 2. In § 47 wird nach Abs. 6 folgender neuer Abs. 7 angefügt: 
 
-„(7)[1] Die zwölfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden.“ 
+„(7)<sup>1</sup> Die zwölfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden. 
 

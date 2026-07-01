@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 25.07.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_GriechPhil.Juli2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:47+00:00
-page_count_chars: 9151
+scraped_at: 2026-07-01T10:20:05+00:00
+page_count_chars: 9172
 ---
 
 # PDF vom 05.10.2007 i.d.F. 25.07.2013
@@ -16,7 +16,7 @@ page_count_chars: 9151
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -40,13 +40,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Griechische Philologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Bachelorstudiengang Griechische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Griechischen Philologie sowie in den Neben- und Nachbardisziplinen.[2] Außerdem soll der Grund gelegt werden zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbständigen Bearbeiten komplexer Probleme überhaupt.[3] Diese Kompetenzen stellen eine Grundlage dar für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten. 
+(2)<sup>1</sup> Im Bachelorstudiengang Griechische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Griechischen Philologie sowie in den Neben- und Nachbardisziplinen.<sup>2</sup> Außerdem soll der Grund gelegt werden zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbständigen Bearbeiten komplexer Probleme überhaupt.<sup>3</sup> Diese Kompetenzen stellen eine Grundlage dar für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten. 
 
-(3)[1] Im Bachelorstudiengang Griechische Philologie wird eine fundierte fachwissenschaftliche Grundausbildung gewährleistet.[2] Die Absolventin bzw. der Absolvent erwirbt überdies die Kompetenz zum Umgang mit sprachlichen Phänomen und Texten überhaupt, zudem Fertigkeiten in der Gewinnung großer Mengen von Informationen 
+(3)<sup>1</sup> Im Bachelorstudiengang Griechische Philologie wird eine fundierte fachwissenschaftliche Grundausbildung gewährleistet.<sup>2</sup> Die Absolventin bzw. der Absolvent erwirbt überdies die Kompetenz zum Umgang mit sprachlichen Phänomen und Texten überhaupt, zudem Fertigkeiten in der Gewinnung großer Mengen von Informationen 
 
 1 
 
-sowie eine hohe generelle analytische Befähigung.[3] Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
+sowie eine hohe generelle analytische Befähigung.<sup>3</sup> Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
 1. Sprachbeherrschung und Sprachreflexion 
 
@@ -64,7 +64,7 @@ sowie eine hohe generelle analytische Befähigung.[3] Zur Erreichung dieses Qual
 
 ## **§ 3 Fächerkombinationen** 
 
-(1)[1] Mit dem Fach Griechische Philologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.[2] Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
+(1)<sup>1</sup> Mit dem Fach Griechische Philologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer kombiniert werden.<sup>2</sup> Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
 
 (2) Im Übrigen gilt § 30 Abs. 5 der ABMStPO/Phil. 
 
@@ -72,61 +72,55 @@ sowie eine hohe generelle analytische Befähigung.[3] Zur Erreichung dieses Qual
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium Griechische Philologie als erstes Fach sind folgende Module erfolgreich abzulegen: 
+## <u>(1) Im Studium Griechische Philologie als erstes Fach sind folgende Module erfolgreich abzulegen:</u> 
 
-|**Mdlbih**|**Lhl**||**SWS**|**SWS**||**Gesamt**|**ECTS-Punkte **|**ECTS-Punkte **|**ECTS-Punkte **|**pro Semester***|**pro Semester***|**pro Semester***|**A d Uf d Püf**|**Fk**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**ouezecnung**|**erveranstatung**|**V**|**S**|**Ü**|**P**|**ECTS**|**1.**|**2.**|**3. **|**4.**|**5.**|**6**|**rt un mang er rung**|**ator**|
-|Wahlpflichtmodul I**|Graecum I|||6||10|10||||||Klausur(120 Min., 100 %)|0|
-|Wahlpflichtmodul II**|Graecum II|||6||10||10|||||Klausur(120Min.,100 %)|0|
-|Wahlpflichtmodul III**|Griechisch|2||||10|2|2|||||Portfolio (mdl. Prüfung (20 Min., 50 %)<br>und Essay (3-5 S., 50 %)|0|
-||Griechisch||2||||5|5|||||||
-||Klassische Archäologie_oder_<br>Alte Geschichte_oder_Antike<br>Philosophie_oder_Neues Tes-<br>tament|2|||||3|3|||||||
-|Wahlpflichtmodul IV**|Einführende Sprachübungen I|||4||10|6|6|||||Klausur (120 Min., 100 %)|0|
-||Einführende Sprachübungen II|||2|||4|4|||||||
-|Einführung|Vorlesung aus der Lateinischen<br>Philologie oder Übung aus der<br>Indogermanistik|(2)||(2)||5|||2|2|||mdl. Prüfung (20 Min., 100 %)|1|
-||Einführung in die Nebendiszip-<br>linen|||2|||||3|3|||||
-|Sprachübungen I|SpracheIa|||4||10|||6|6|||Klausur (120 Min., 100 %)|1|
-||SpracheIb|||2|||||4|4|||||
-|Poesie|Poesie|2||||10|||4|4|||Portfolio: mdl. Prüfung (15 Min.) (30 %)<br>und Klausur (120 Min.) oder Hausarbeit<br>(8-12 S.) (70 %)|1|
-||Poesie||2||||||6|6|||||
-|Prosa|Prosa|2||||10|||4|4|||Portfolio: mdl. Prüfung (15 Min.) (30 %)<br>und Klausur (120 Min.) oder Hausarbeit<br>(8-12 S.) (70 %)|1|
-||Prosa||2||||||6|6|||||
-|Lektüre|LektürePoesie|||2||5|||2,5|2,5|||Klausur in einer Veranstaltung<br>(120 Min.,100 %)|1|
-||LektüreProsa|||2|||||2,5|2,5|||||
-|Sprachübungen II|SpracheIIa|||4||10|||||6|6|Klausur (120 Min., 100 %)|1|
-||Sprache IIb|||2|||||||4|4|||
-|Vertiefung|Prosa / Poesie||2|||10|||||7|7|Portfolio: Hausarbeit (10-15 S., 80 %)<br>und Klausur(120 Min.,20 %)|1|
-||Lektüre Neues Testament|||2|||||||3|3|||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (40 S.,100 %)|1|
-||||||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**V**|**SWS**<br>**S**<br>**Ü**<br>**P**|**Gesamt**<br>**ECTS**|<br>**ECTS-Punkte**<br>**1.**<br>**2.**<br>**3. **|**pro Se**<br>**4.**|**mester***<br>**5.**<br>**6**|**Art und Umfang der Prüfung**|**Faktor**|
+|---|---|---|---|---|---|---|---|---|
+|Wahlpflichtmodul I**|Graecum I|6|10|10|||Klausur(120 Min., 100 %)|0|
+|Wahlpflichtmodul II**|Graecum II|6|10|10|||Klausur(120Min.,100 %)|0|
+||Griechisch<br>2|||2<br>2|||||
+||Griechisch|2||5<br>5|||||
+|Wahlpflichtmodul III**|Klassische Archäologie_oder_<br>Alte Geschichte_oder_Antike<br>Philosophie_oder_Neues Tes-<br>tament<br>2||10|3<br>3|||Portfolio (mdl. Prüfung (20 Min., 50 %)<br>und Essay (3-5 S., 50 %)|0|
+|Wahlpflichtmodul IV**|Einführende Sprachübungen I<br>Einführende Sprachübungen II|4<br>2|10|6<br>6<br>4<br>4|||Klausur (120 Min., 100 %)|0|
+|Einführung|Vorlesung aus der Lateinischen<br>Philologie oder Übung aus der<br>Indogermanistik<br>(2)|(2)|5|2|2||mdl. Prüfung (20 Min., 100 %)|1|
+||Einführung in die Nebendiszip-<br>linen|2||3|3||||
+|Sprachübungen I|SpracheIa<br>SpracheIb|4<br>2|10|6<br>4|6<br>4||Klausur (120 Min., 100 %)|1|
+||Poesie<br>2|||4|4||Portfolio: mdl. Prüfung (15 Min.) (30 %)<br>||
+|Poesie|Poesie|2|10|6|6||und Klausur (120 Min.) oder Hausarbeit<br>(8-12 S.) (70 %)|1|
+||Prosa<br>2|||4|4||Portfolio: mdl. Prüfung (15 Min.) (30 %)||
+|Prosa|Prosa|2|10|6|6||und Klausur (120 Min.) oder Hausarbeit<br>(8-12 S.) (70 %)|1|
+|Lktü|LektürePoesie|2|5|2,5|2,5||Klausur in einer Veranstaltung|1|
+|ere|LektüreProsa|2||2,5|2,5||(120 Min.,100 %)||
+|Sprachübungen II|SpracheIIa<br>Sprache IIb|4<br>2|10|||6<br>6<br>4<br>4|Klausur (120 Min., 100 %)|1|
+||<br>Prosa / Poesie|2||||7<br>7|Portfolio: Hausarbeit (10-15 S., 80 %)||
+|Vertiefung|Lektüre Neues Testament|2|10|||3<br>3|<br>und Klausur(120 Min.,20 %)|1|
+|Bachelorarbeit|||10|||10|Bachelorarbeit (40 S.,100 %)|1|
 
-- Die Angaben zur Verteilung der Module auf die einzelnen Semester stellen nur eine **Empfehlung** dar. 
+* Die Angaben zur Verteilung der Module auf die einzelnen Semester stellen nur eine **Empfehlung** dar. 
 
-- ** Es sind entweder die Wahlpflichtmodule I und II oder die Wahlpflichtmodule III und IV zu belegen. 
+** Es sind entweder die Wahlpflichtmodule I und II oder die Wahlpflichtmodule III und IV zu belegen. 
 
 3 
 
 (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
-|wendung:||||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
+|---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
 |**Graecum I**|||**10**|||||||
-|GraecumskursI|GOP1)|6|10|||||||
+|GraecumskursI|GOP<sup>1)</sup>|6|10|||||||
 |**Graecum II**|||**10**|||||||
-|Graecumskurs II|GOP1)|6|10|||||||
+|Graecumskurs II|GOP<sup>1)</sup>|6|10|||||||
 |**Ersatzmodul I**|||**10**|||||||
-|Proseminar Griechisch|GOP1)|2|5|||||||
-|Vorlesung Griechisch|GOP1)|2|2|||||||
-|VorlesungKlassischeArchäologie, oder|GOP1)|2|3|||||||
-|VorlesungAlte Geschichte, oder|GOP1)|2|3|||||||
-|VorlesungAntikePhilosophie, oder|GOP1)|2|3|||||||
-|VorlesungNeuesTestament|GOP1)|2|3|||||||
+|Proseminar Griechisch|GOP<sup>1)</sup>|2|5|||||||
+|Vorlesung Griechisch|GOP<sup>1)</sup>|2|2|||||||
+|VorlesungKlassischeArchäologie, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungAlte Geschichte, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungAntikePhilosophie, oder|GOP<sup>1)</sup>|2|3|||||||
+|VorlesungNeuesTestament|GOP<sup>1)</sup>|2|3|||||||
 |**Ersatzmodul II**|||**10**|||||||
-|SpracheEinführung a|GOP1)|4|6|||||||
-|SpracheEinführung b|GOP1)|2|4|||||||
+|SpracheEinführung a|GOP<sup>1)</sup><br>|4|6|||||||
+|SpracheEinführung b|GOP<sup>1)</sup>|2|4|||||||
 |**Modul Einführung**|||**10**|||||||
 |VorlesungLatein, oder||2|2|||||||
 |ÜbungIndogermanistik||2|2|||||||
@@ -157,7 +151,7 @@ sowie eine hohe generelle analytische Befähigung.[3] Zur Erreichung dieses Qual
 
 (3) Im Studiengang Griechische Philologie als zweites Fach sind die Module nach Abs. 1 und 2 mit Ausnahme der Module „Sprachübungen II“ und „Bachelorarbeit“ erfolgreich abzulegen. 
 
-(4)[1] Falls Griechische Philologie als Erstfach studiert wird, müssen im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.[2] Es werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Italienisch oder Französisch empfohlen. 
+(4)<sup>1</sup> Falls Griechische Philologie als Erstfach studiert wird, müssen im Bereich der Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten erbracht werden.<sup>2</sup> Es werden Module zum Erwerb oder zur Vertiefung von Kenntnissen in Italienisch oder Französisch empfohlen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -165,9 +159,9 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Griechische Philo
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis altgriechischer Sprachkenntnisse auf dem Niveau des Graecums erbringen; Studierende ohne Graecum erbringen den Nachweis durch den erfolgreichen Abschluss der Wahlpflichtmodule I und II im Umfang von insgesamt 20 ECTS-Punkten.[2] Darüber hinaus müssen Kenntnisse in einer lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
+1Die Studierenden müssen den Nachweis altgriechischer Sprachkenntnisse auf dem Niveau des Graecums erbringen; Studierende ohne Graecum erbringen den Nachweis durch den erfolgreichen Abschluss der Wahlpflichtmodule I und II im Umfang von insgesamt 20 ECTS-Punkten.<sup>2</sup> Darüber hinaus müssen Kenntnisse in einer lebenden Fremdsprache gem. § 28 Abs. 1 Satz 2 Nr. 2 ABMStPO/Phil nachgewiesen werden. 
 
-**§ 7 Schluss- und Übergangsvorschriften** 
+## **§ 7 Schluss- und Übergangsvorschriften** 
 
 Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 

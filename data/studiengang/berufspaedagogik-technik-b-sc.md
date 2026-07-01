@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:42:50+00:00
+scraped_at: 2026-07-01T08:19:00+00:00
 ---
 
 # Berufspädagogik Technik (B.Sc.)
@@ -93,7 +93,7 @@ In der **Bachelorarbeit** sollen die Studierenden nachweisen, dass sie in der 
 * **Schulpraktikum:** Während des Bachelorstudiums ist ein Schulpraktikum (schulpraktische Studien) im Umfang von 5 ECTS vorgesehen, in der Didaktik des Hauptfaches ist man an einer Berufsschule. Im Masterstudiengang sind schulpraktische Studien im Umfang von 10 ECTS vorgesehen und im Rahmen der Fachdidaktik 5 ECTS zu erbringen.
 * **Berufspraktikum:** Die Zulassung zum zweijährigen Vorbereitungsdienst (Referendariat) nach Abschluss des Studiums setzt eine abgeschlossene einschlägige Berufsausbildung, bzw. ein mindestens einjähriges Berufspraktikum voraus. Studieninteressentinnen ohne Berufsausbildung wird daher dringend empfohlen, bereits vor Antritt des Bachelorstudiums ein mindestens dreimonatiges Berufspraktikum zu absolvieren. Dieses wird dann auf die erforderlichen zwölf Monate angerechnet.
 
-### Bachelor of Science Berufspädagogik Technik
+### Fachanteile des Studiengangs Berufspädagogik Technik (B.Sc.)
 
 * Schwerpunkt (Studienrichtung Metalltechnik oder Elektro- und Informationstechnik) (41%)
 * Pädagogik (26%)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.12.2008 i.d.F. 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-Energietechnik-BA-MA.AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:01:55+00:00
-page_count_chars: 18289
+scraped_at: 2026-07-01T11:24:06+00:00
+page_count_chars: 18684
 ---
 
 # PDF vom 15.12.2008 i.d.F. 05.08.2011
@@ -16,7 +16,7 @@ page_count_chars: 18289
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc) Vom 15. Dezember 2008** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Energietechnik der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOEnT-BScMSc) Vom 15. Dezember 2008** 
 
 geändert durch Satzungen vom 2. Dezember 2009 
 
@@ -28,17 +28,17 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 34 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Energietechnik mit den Abschlusszielen Bachelor und Master.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterstudiengänge an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im konsekutiven Masterstudium des Studiengangs Energietechnik mit den Abschlusszielen Bachelor und Master.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterstudiengänge an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
 
 ## **§ 35 Bachelorstudiengang, Regelstudienzeit** 
 
-(1)[1] Das Bachelorstudium Energietechnik setzt sich aus Modulen verteilt auf sechs Semester zusammen.[2] Enthalten ist darin eine berufspraktische Tätigkeit von sechs Wochen im Umfang von 7,5 ECTS-Punkten, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung der Bachelorarbeit. 
+(1)<sup>1</sup> Das Bachelorstudium Energietechnik setzt sich aus Modulen verteilt auf sechs Semester zusammen.<sup>2</sup> Enthalten ist darin eine berufspraktische Tätigkeit von sechs Wochen im Umfang von 7,5 ECTS-Punkten, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung der Bachelorarbeit. 
 
 (2) Die Regelstudienzeit im Bachelorstudiengang Energietechnik beträgt sechs Semester. 
 
 ## **§ 36 Masterstudiengang, Regelstudienzeit** 
 
-(1)[1] Das Masterstudium Energietechnik baut konsekutiv auf dem Bachelorstudiengang Energietechnik auf.[2] Es setzt sich aus Modulen verteilt auf drei Semester mit einem Umfang von 90 ECTS-Punkten zusammen; darin enthalten ist eine berufspraktische Tätigkeit von acht Wochen im Umfang von zehn ECTS-Punkten, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist.[3] Hinzu kommen sechs Monate für die Anfertigung der Masterarbeit (30 ECTS-Punkte). 
+(1)<sup>1</sup> Das Masterstudium Energietechnik baut konsekutiv auf dem Bachelorstudiengang Energietechnik auf.<sup>2</sup> Es setzt sich aus Modulen verteilt auf drei Semester mit einem Umfang von 90 ECTS-Punkten zusammen; darin enthalten ist eine berufspraktische Tätigkeit von acht Wochen im Umfang von zehn ECTS-Punkten, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist.<sup>3</sup> Hinzu kommen sechs Monate für die Anfertigung der Masterarbeit (30 ECTS-Punkte). 
 
 1 
 
@@ -54,7 +54,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 3. Verfahrenstechnik der Energiewandlung (VTE) 
 
-2Zu jeder Studienrichtung wird vom Prüfungsausschuss ein Modulkatalog erstellt und durch Aushang ortsüblich bis zum Ende der zweiten Woche der Vorlesungszeit bekannt gegeben.[3] Der Katalog enthält Pflichtmodule im Umfang von 15 ECTS-Punkten und für jede Studienrichtung studienrichtungsspezifische Kern- und Vertiefungsmodule.[4] Hinzu kommen das Energietechnische Wahlmodul, das Technische oder Naturwissenschaftliche Wahlmodul und das Ergänzende Wahlmodul, sowie die Liste der studienrichtungsspezifischen Hauptseminare und studienrichtungspezifischen Laborpraktika. 
+2Zu jeder Studienrichtung wird vom Prüfungsausschuss ein Modulkatalog erstellt und durch Aushang ortsüblich bis zum Ende der zweiten Woche der Vorlesungszeit bekannt gegeben.<sup>3</sup> Der Katalog enthält Pflichtmodule im Umfang von 15 ECTS-Punkten und für jede Studienrichtung studienrichtungsspezifische Kern- und Vertiefungsmodule.<sup>4</sup> Hinzu kommen das Energietechnische Wahlmodul, das Technische oder Naturwissenschaftliche Wahlmodul und das Ergänzende Wahlmodul, sowie die Liste der studienrichtungsspezifischen Hauptseminare und studienrichtungspezifischen Laborpraktika. 
 
 ## **II. Teil: Besondere Bestimmungen** 
 
@@ -66,7 +66,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 39 Umfang der Grundlagen- und Orientierungsprüfung** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die Module **B1 bis B8** der **Anlage 1.** 
+(1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die Module **B1 bis B8** der **Anlage 1.** 
 
 2Die den Modulen zugeordneten ECTS-Punkte sowie Art und Umfang der Prüfungsund Studienleistungen sind der **Anlage 1** zu entnehmen. 
 
@@ -94,7 +94,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 42 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Energietechnik zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 300 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Energietechnik zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 300 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt. 
 
 (2) Das Thema der Bachelorarbeit wird von einer oder einem in der Technischen Fakultät hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer ausgegeben. 
 
@@ -130,7 +130,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 45 Umfang und Gliederung des Masterstudiums** 
 
-- (1)[1] Das Masterstudium besteht für jede Studienrichtung gemäß der Anlage 2 aus 
+- (1)<sup>1</sup> Das Masterstudium besteht für jede Studienrichtung gemäß der Anlage 2 aus 
 
 1. dem Pflichtmodul M1 (15 ECTS), 
 
@@ -146,7 +146,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 7. der Masterarbeit mit Referat (Modul 11, 30 ECTS). 
 
-2Bei der Anmeldung zur ersten Modulprüfung legen die Studierenden fest, welche Studienrichtung sie wählen.[3] Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung der bzw. des Prüfungsausschussvorsitzenden möglich. 
+2Bei der Anmeldung zur ersten Modulprüfung legen die Studierenden fest, welche Studienrichtung sie wählen.<sup>3</sup> Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung der bzw. des Prüfungsausschussvorsitzenden möglich. 
 
 ## **§ 46 Prüfungen des Masterstudiums** 
 
@@ -154,15 +154,15 @@ Art und Umfang der Prüfungs- und Studienleistungen sind den Studienrichtungskat
 
 ## **§ 47 Voraussetzungen für die Ausgabe der Masterarbeit** 
 
-1Die Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Prüfungs- und Studienleistungen gemäß § 46 erfolgreich abgelegt sind. 
+1Die Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Prüfungs- und Studienleistungen gemäß § 46 erfolgreich abgelegt sind. 
 
 4 
 
 ## **§ 48 Masterarbeit** 
 
-(1)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Energietechnik nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann.[3] Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich. 
+(1)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Energietechnik nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich. 
 
-(2)[1] Die Masterarbeit behandelt ein wissenschaftliches Thema aus der Studienrichtung.[2] Zur Vergabe und Betreuung der Masterarbeit sind alle in der Studienrichtung hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
+(2)<sup>1</sup> Die Masterarbeit behandelt ein wissenschaftliches Thema aus der Studienrichtung.<sup>2</sup> Zur Vergabe und Betreuung der Masterarbeit sind alle in der Studienrichtung hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
 
 (3) Die Masterarbeit einschließlich des Referats wird mit 30 ECTS-Punkten bewertet. 
 
@@ -180,69 +180,67 @@ Art und Umfang der Prüfungs- und Studienleistungen sind den Studienrichtungskat
 
 5 
 
-## **Anlage 1:** 
+**Anlage 1:** Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
 
-Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer 
-
-|Nr.|Modul|Modul|SWS|SWS|SWS|Modul-<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Umfang und Art der Prüfungs- und<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||
-|**B1**|**Mathematik für Ingenieure A I**|GOP|4|2|0|7,5|7,5||||||90 + uSL|
-|**B2**|**Struktur der Werkstoffe/metallische Werkstoffe**|GOP|3|1|0|5,0|5,0||||||90|
-|**B3**|**Grundlagen der Informatik**|GOP|3|3|0|5,0|5,0||||||uSL|
-|**B4**|**Grundlagen der Elektrotechnik I**|GOP|4|2|0|7,5<br>5,0|7,5||||||120|
-|**B5**|**Grundlagen der Elektrotechnik II**|GOP|2|2|0|||5,0|||||90|
-|**B6**|**Mathematik für Ingenieure A II**|GOP|5|3|0|10,0||10,0|||||120 +  uSL|
-|**B7**|**Chemische Grundlagen der Energietechnik**|GOP|2|0|0|2,5||2,5|||||120|
-|**B8**|**Werkstoffeigenschaften**|GOP||||5,0||||||||
-||Mechanische Eigenschaften der Werkstoffe||2|0|0|||2,5|||||90|
-||Praktikum Werkstoffe||0|0|3|||2,5|||||uSL|
-|**B9**|**Software für die Mathematik**||0|0|3|2,5|2,5||||||uSL|
-|**B10**|**Statik und Festigkeitslehre**||3|3|0|7,5||7,5|||||90|
-|**B11**|**Praktikum Elektrotechnik für Energietechniker**||0|0|3|2,5||2,5<br>2,5|||||uSL|
-|**B12**|**Mathematik für Ingenieure A III**||2|2|0|5,0|||5,0||||60 + uSL|
-|**B13**|**Strömungsmechanik**||2|1|0|5,0|||5,0||||120|
-|**B14**|**Grundlagen der Messtechnik**||2|2|0|5,0|||5,0||||60|
-|**B15**|**Technisches Zeichnen**||0|0|3|2,5|||2,5||||uSL|
-|**B16**|**Physik**|||||10,0||||||||
-||Experimentalphysik I||3|1|0||||5,0||||90|
-||Experimentalphysik II||3|1|0|||||5,0|||90|
-|**B17**|**Technische Thermodynamik**|||||10,0||||||||
-||Technische Thermodynamik||2|1|0||||5,0||||120|
-||Wärme- und Stoffübertragung||2|2|0|||||5,0|||120|
-|**B18**|**Energie- und Antriebstechnik**|||||7,5||||||||
-||Grundlagen der elektrischen Antriebstechnik||2|1|0||||3,75||||90|
-||Grundlagen der elektrischen Energieversorgung||2|2|0|||||3,75|||90|
-|**B19**|**Konstruktionslehre**||2|1|0|5,0||||5,0|||180|
+|Nr.|Modul||S|W|S<br>Modul-|1. Sem|2. Sem<br>3. Sem|4. Sem|5. Sem|6. Sem|Umfang und Art der Prüfungs- und<br>Stdilit|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||V<br>|Ü|<br>P<br>ECTS|ECTS|ECTS<br>ECTS|ECTS|ECTS|ECTS|uenesung|
+|**B1**|**Mathematik für Ingenieure A I**|GOP|4<br>|2|0<br>7,5|7,5|||||90 + uSL|
+|**B2**|**Struktur der Werkstoffe/metallische Werkstoffe**|GOP|3<br>|1|0<br>5,0|5,0|||||90|
+|**B3**|**Grundlagen der Informatik**|GOP|3<br>|3|0<br>5,0|5,0|||||uSL|
+|**B4**|**Grundlagen der Elektrotechnik I**|GOP|4<br>|2|0<br>7,5|7,5|||||120|
+|**B5**|**Grundlagen der Elektrotechnik II**|GOP|2<br>|2|0<br>5,0||5,0||||90|
+|**B6**|**Mathematik für Ingenieure A II**|GOP|5<br>|3|0<br>10,0||10,0||||120 +  uSL|
+|**B7**|**Chemische Grundlagen der Energietechnik**|GOP|2<br>|0|0<br>2,5||2,5||||120|
+||**Werkstoffeigenschaften**|||||||||||
+|**B8**|Mechanische Eigenschaften der Werkstoffe|GOP|2<br>|0|5,0<br>0||2,5||||90|
+||Praktikum Werkstoffe||0<br>|0|3||2,5||||uSL|
+|**B9**|**Software für die Mathematik**||0<br>|0|3<br>2,5|2,5|||||uSL|
+|**B10**|**Statik und Festigkeitslehre**||3<br>|3|0<br>7,5||7,5||||90|
+|**B11**|**Praktikum Elektrotechnik für Energietechniker**||0<br>|0|3<br>2,5||2,5|2,5|||uSL|
+|**B12**|**Mathematik für Ingenieure A III**||2<br>|2|0<br>5,0||5,0||||60 + uSL|
+|**B13**|**Strömungsmechanik**||2<br>|1|0<br>5,0||5,0||||120|
+|**B14**|**Grundlagen der Messtechnik**||2<br>|2|0<br>5,0||5,0||||60|
+|**B15**|**Technisches Zeichnen**||0<br>|0|3<br>2,5||2,5||||uSL|
+||**Physik**|||||||||||
+|**B16**|Experimentalphysik I||3<br>|1|10,0<br>0||5,0||||90|
+||Experimentalphysik II||3<br>|1|0|||5,0|||90|
+||**Technische Thermodynamik**|||||||||||
+|**B17**|Technische Thermodynamik||2<br>|1|10,0<br>0||5,0||||120|
+||Wärme- und Stoffübertragung||2<br>|2|0|||5,0|||120|
+||**Energie- und Antriebstechnik**|||||||||||
+|**B18**|Grundlagen der elektrischen Antriebstechnik||2<br>|1|7,5<br>0||3,75||||90|
+||Grundlagen der elektrischen Energieversorgung||2<br>|2|0|||3,75|||90|
+|**B19**|**Konstruktionslehre**||2<br>|1|0<br>5,0|||5,0|||180|
 
 6 
 
-|Nr.|Modul||SWS|SWS|SWS|Modul-<br>ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Umfang und Art der Prüfungs- und<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||V|Ü|P||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||
-|**B20**|**Energietechnik**|||||5,0||||||||
-||Energietechnik||2|1|0|||||2,5|||90|
-||Praktikum Energietechnik||0|0|2|||||2,5|||uSL|
-|**B21**|**Chemische Thermodynamik**||2|2|0|5,0||||5,0|||90|
-|**B22**|**Regenerative Energiesysteme**||2|2|0|5,0|||||5,0||90|
-|**B23**|**Einführung in die Regelungstechnik**||3|1|0|5,0|||||5,0||90|
-|**B24**|**Leistungselektronik**||2|2|0|5,0|||||5,0||90|
-|**B25**|**Mechanische Verfahrenstechnik**||2|1|0|5,0|||||5,0||120|
-|**B26**|**Materialien der Elektronik und Energietechnik**|||||7,5||||||||
-||Materialien der Elektronik und Energietechnik||2|0|0||||||2,5||45|
-||Elektrische, magnetische, optische Eigenschaften||2|0|0|||||||2,5|45|
-||Praktikum Werkstoffe der Energietechnik||0|0|3||||||2,5||uSL|
-|**B27**|**Chemische Reaktionstechnik**|||||7,5||||||||
-||Chemische Reaktionstechnik||2|1|0||||||5,0||120|
-||Praktikum Chemieingenieurwesen||0|0|3|||||||2,5|uSL|
-|**B28**|**Wärmekraftanlagen**||2|1|0|2,5||||||2,5|90|
-|**B29**|**Weiterverarbeitung vom Werkstoff zum Bauteil**||2|0|0|2,5||||||2,5|45|
-|**B30**|**Hauptseminar**||0|2|0|2,5||||||2,5|30 / m|
-|**B31**|**Industriepraktikum**||6 Wochen|||7,5||||||7,5|uSL|
-|**B32**|**Bachelorarbeit mit Referat**||8 Wochen|||10,0||||||10,0||
-||**Summen**|**47,5**|**73**|**43**|**20**|**180**|**27,5**|**30**|**32,5**|**30**|**30**|**30**||
-|||GOP-|V|Ü|P|Modul-|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||
-|||ECTS|SWS|||ECTS|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem||
+|Nr.|Modul||SW<br>|S<br>Modul-<br>|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem|Umfang und Art der Prüfungs- und<br>Studienleistun|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||V<br>Ü|<br>P<br>ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|g|
+||**Energietechnik**|||||||||||
+|**B20**|Energietechnik||2<br>1|5,0<br> <br>0||||2,5|||90|
+||Praktikum Energietechnik||0<br>0|<br>2||||2,5|||uSL|
+|**B21**|**Chemische Thermodynamik**||2<br>2|<br>0<br>5,0||||5,0|||90|
+|**B22**|**Regenerative Energiesysteme**||2<br>2|<br>0<br>5,0|||||5,0||90|
+|**B23**|**Einführung in die Regelungstechnik**||3<br>1|<br>0<br>5,0|||||5,0||90|
+|**B24**|**Leistungselektronik**||2<br>2|<br>0<br>5,0|||||5,0||90|
+|**B25**|**Mechanische Verfahrenstechnik**||2<br>1|<br>0<br>5,0|||||5,0||120|
+||**Materialien der Elektronik und Energietechnik**|||||||||||
+|**B26**|Materialien der Elektronik und Energietechnik||2<br>0|75<br> <br>0|||||2,5||45|
+||Elektrische, magnetische, optische Eigenschaften||2<br>0|,<br> <br>0||||||2,5|45|
+||Praktikum Werkstoffe der Energietechnik||0<br>0|<br>3|||||2,5||uSL|
+||**Chemische Reaktionstechnik**|||||||||||
+|**B27**|Chemische Reaktionstechnik||2<br>1|7,5<br> <br>0|||||5,0||120|
+||Praktikum Chemieingenieurwesen||0<br>0|<br>3||||||2,5|uSL|
+|**B28**|**Wärmekraftanlagen**||2<br>1|<br>0<br>2,5||||||2,5|90|
+|**B29**|**Weiterverarbeitung vom Werkstoff zum Bauteil**||2<br>0|<br>0<br>2,5||||||2,5|45|
+|**B30**|**Hauptseminar**||0<br>2|<br>0<br>2,5||||||2,5|30 / m|
+|**B31**|**Industriepraktikum**||6 Woch|en<br>7,5||||||7,5|uSL|
+|**B32**|**Bachelorarbeit mit Referat**||8 Woch|en<br>10,0||||||10,0||
+||**Summen**|**47,5**|**73**<br>**43**|**20**<br>**180**|**27,5**|**30**|**32,5**|**30**|**30**|**30**||
+|||GOP-|V<br>Ü|<br>P<br>Modul-|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||
+|||ECTS|SW|ECTS<br>S|1. Sem|2. Sem|3. Sem|4. Sem|5. Sem|6. Sem||
 
 7 
 
@@ -250,33 +248,34 @@ Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf d
 
 ## **2 a) Studienrichtung:** Elektrische Energietechnik (EET) 
 
-|**Nr.**|**Modulgruppen**|**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**Auswahlmöglichkeiten**|**Umfang und Art der Prü-**<br>**fungs- und Studienleis-**<br>**tung**|
-|---|---|---|---|---|---|---|
-|**M1**|**Technik und Umwelt**|15,0|1|||3 je 90 / s|
-|**M2**|**Studienrichtungsspezifisches Kernmodul A**|10,0|1|Auswahl aus **einer** Modulgruppe:<br>EEV oder EES oder EAM||je nach Anforderung<br>des Moduls|
-|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2||||
-|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus der Modulgruppe:<br>EEV, EES, EAM||je nach Anforderung<br>des Moduls|
-|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2||||
-|**M6**|**Wahlmodul A**<br>Energietechnisches Wahlmodul|5,0|2|Auswahl aus Modulgruppe A||je nach Anforderung<br>des Moduls|
-|**M7**|**Wahlmodul B**<br>Technisches oder naturwissenschaftliches Wahlmodul|5,0|3|Auswahl aus Modulgruppe B||je nach Anforderung<br>des Moduls|
-|**M8**|**Wahlmodul C**<br>Ergänzende Wahlmodule|10,0|3|Auswahl aus Modulgruppe C||uSL für jedes<br>gewählte Modul|
-|**M9**|**Praktisches Arbeiten und Präsentation**<br>Studienrichtungsspezifisches Hauptseminar mit Referat<br>Studienrichtungsspezifisches Laborpraktikum|5,0|3|||30 / m<br>uSL|
-|**M10**|**Industriepraktikum**|10,0|3|||uSL|
-|**M11**|**Masterarbeit mit Referat**|30,0|4||||
-||**Summe**|**120,0**|||||
-||**Gesamtsumme SWS = 50 - 60**||||||
+|<br>**Nr.**|<br>**Modulgruppen**|**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**Umfang und Art der Prü-**<br>**fungs- und Studienleis-**<br>**tung**|
+|---|---|---|---|---|---|
+|**M1**|**Technik und Umwelt**|15,0|1||3 je 90 / s|
+|**M2**|**Studienrichtungsspezifisches Kernmodul A**|10,0|1|Auswahl aus **einer** Modulgruppe:|je nach Anforderung|
+|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2|EEV oder EES oder EAM|des Moduls|
+|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus der Modulgruppe:|je nach Anforderung|
+|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2|EEV, EES, EAM|des Moduls|
+|**M6**|**Wahlmodul A**<br>Energietechnisches Wahlmodul|5,0|2|Auswahl aus Modulgruppe A|je nach Anforderung<br>des Moduls|
+|**M7**|**Wahlmodul B**<br>Technisches oder naturwissenschaftliches Wahlmodul|5,0|3|Auswahl aus Modulgruppe B|je nach Anforderung<br>des Moduls|
+|**M8**|**Wahlmodul C**<br>Ergänzende Wahlmodule|10,0|3|Auswahl aus Modulgruppe C|uSL für jedes<br>gewählte Modul|
+|**M9**|**Praktisches Arbeiten und Präsentation**<br>Studienrichtungsspezifisches Hauptseminar mit Referat<br>Studienrichtungsspezifisches Laborpraktikum|5,0|3||30 / m<br>uSL|
+|**M10**|**Industriepraktikum**|10,0|3||uSL|
+|**M11**|**Masterarbeit mit Referat**|30,0|4|||
+||**Summe**|**120,0**||||
+||**Gesamtsumme SWS = 50 - 60**|||||
 
 8 
 
 ## **2 b) Studienrichtung:** Materialwissenschaften und Werkstofftechnik (MWT) 
 
-|**Nr.**|**Modulgruppen**|**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**Umfang und Art der Prü-**<br>**fungs- und Studienleis-**<br>**tung**|
+||||||**Umfang und Art der Prü-**|
 |---|---|---|---|---|---|
+|**Nr.**|**Modulgruppen**|**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**fungs- und Studienleis-**<br>**tung**|
 |**M1**|**Technik und Umwelt**|15,0|1||3 je 90 / s|
-|**M2**|**Studienrichtungsspezifisches Kernmodul A**|10,0|1|Modul MWT1|je nach Anforderung<br>des Moduls|
-|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2|Modul MWT2||
-|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus Modul<br>MWT3|je nach Anforderung<br>des Moduls|
-|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2|||
+|**M2**|**Studienrichtungsspezifisches Kernmodul A**|10,0|1|Modul MWT1|je nach Anforderung|
+|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2|Modul MWT2|des Moduls|
+|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus Modul|je nach Anforderung|
+|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2|MWT3|des Moduls|
 |**M6**|**Wahlmodul A**<br>Energietechnisches Wahlmodul|5,0|2|Auswahl aus Modulgruppe A|je nach Anforderung<br>des Moduls|
 |**M7**|**Wahlmodul B**<br>Technisches oder naturwissenschaftliches Wahlmodul|5,0|3|Auswahl aus Modulgruppe B|je nach Anforderung<br>des Moduls|
 |**M8**|**Wahlmodul C**<br>Ergänzende Wahlmodule|10,0|3|Auswahl aus Modulgruppe C|uSL für jedes<br>gewählte Modul|
@@ -288,16 +287,16 @@ Module des Bachelorstudiums mit Angabe der Leistungspunkte, der Verteilung auf d
 
 9 
 
-## **2 c) Studienrichtung:** Verfahrenstechnik der Energiewandlung (VTE) 
+## **2 c)** **<u>Studienrichtung:</u>** Verfahrenstechnik der Energiewandlung (VTE) 
 
-|**Nr.**|**Modulgruppen**|**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**Umfang und Art der Prü-**<br>**fungs- und Studienleis-**<br>**tung**|
+|<br>**Nr.**|<br>**Modulgruppen**|<br>**ECTS**|**Semester**|**Auswahlmöglichkeiten**|**Umfang und Art der Prü-**<br>**fungs- und Studienleis-**<br>**tung**|
 |---|---|---|---|---|---|
 |**M1**|**Technik und Umwelt**|15,0|1||3 je 90 / s|
 |**M2**|**Studienrichtungsspezifisches Kernmodul A**|10,0|1|Technische Thermodynamik II|120 / s|
-|||||Auswahl aus **einer** Modulgruppe:<br>EVT oder EE oder V oder US|je nach Anforderung<br>des Moduls|
-|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2|||
-|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus der Modulgruppe:<br>EVT, EE, V, US|je nach Anforderung<br>des Moduls|
-|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2|||
+|||||Auswahl aus **einer** Modulgruppe:|je nach Anforderung|
+|**M3**|**Studienrichtungsspezifisches Kernmodul B**|10,0|1 / 2|EVT oder EE oder V oder US|des Moduls|
+|**M4**|**Studienrichtungsspezifisches Vertiefungsmodul A**|10,0|2|Auswahl aus der Modulgruppe:|je nach Anforderung|
+|**M5**|**Studienrichtungsspezifisches Vertiefungsmodul B**|10,0|2|EVT, EE, V, US|des Moduls|
 |**M6**|**Wahlmodul A**<br>Energietechnisches Wahlmodul|5,0|2|Auswahl aus Modulgruppe A|je nach Anforderung<br>des Moduls|
 |**M7**|**Wahlmodul B**<br>Technisches oder naturwissenschaftliches Wahlmodul|5,0|3|Auswahl aus Modulgruppe B|je nach Anforderung<br>des Moduls|
 |**M8**|**Wahlmodul C**<br>Ergänzende Wahlmodule|10,0|3|Auswahl aus Modulgruppe C|uSL für jedes<br>gewählte Modul|

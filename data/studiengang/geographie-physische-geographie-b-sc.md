@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:45:24+00:00
+scraped_at: 2026-07-01T08:22:09+00:00
 ---
 
 # Geographie: Physische Geographie (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:45:24+00:00
 
 Geographie ist mehr als „Stadt-Land-Fluss“ oder das pure Wissen um die Lage von Deutschland auf dem Globus. Schnee und Eis im Wasserkreislauf, Boden und Vegetation in einer sich verändernden Umwelt oder formbildende Prozesse an der Erdoberfläche sind Schwerpunkte der physischen Geographie. Hier setzt Du Dich mit aktuellen Themen wie dem Klimawandel, globalen Ressourcen, ökologischen Krisen, Naturgefahren sowie einer Vielzahl spezieller Methoden (z.B. Geographische Informationssysteme, Satellitenfernerkundung, Laboranalysen) auseinander. Dabei sollten Sie nicht zu einseitig interessiert sein, denn als Nebenfächer erwarten Sie vor allem naturwissenschaftliche Nachbardisziplinen wie Biologie, Chemie, Mathematik oder Physik, aber auch Ökonomie oder Informatik. In Statistik- und Informatikkursen lernen Sie z.B., wie man klimatologische oder ökologische Datensätze auswertet um Vorhersagen für den globalen Umweltwandel zu treffen. Ein bisschen Reiselust sollten Sie auch mitbringen, denn die zahlreichen Exkursionen des Studiums sind nicht nur auf Deutschland und Europa beschränkt. Insgesamt ist Physische Geographie ein sehr vielseitiges Studium, das Ihnen eine Vielzahl an beruflichen Möglichkeiten eröffnet und Sie befähigt, raumbezogene ökologische und gesellschaftliche Problemstellungen zu verstehen, zu erklären und mitzugestalten.
 
-### Bachelor of Science Physische Geographie
+### Fachanteile des Studiengangs Geographie: Physische Geographie (B.Sc.)
 
 * Boden und Geomorphologie (20%)
 * Klima und Vegetation (20%)

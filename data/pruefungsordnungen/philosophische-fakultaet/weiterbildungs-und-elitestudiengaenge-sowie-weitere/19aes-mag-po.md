@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. April 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/19AES-Mag-PO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:50:15+00:00
-page_count_chars: 1925
+scraped_at: 2026-07-01T10:00:43+00:00
+page_count_chars: 1922
 ---
 
 # 27. April 2011
@@ -14,11 +14,11 @@ page_count_chars: 1925
 
 **Neunzehnte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium (Magisterprüfungsordnung - MagPO)** 
 
-## Vom 27. April 2011 
+# Vom 27. April 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium (Magisterprüfungsordnung - MagPO) vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 14. Mai 2008, wird wie folgt geändert: 
 
@@ -38,7 +38,7 @@ b) Abs. 2 erhält folgende Fassung:
 
 c) Abs. 3 wird gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 > 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie ist auf alle Absolventen anzuwenden, die die Magisterprüfung seit dem Sommersemester 2011 bestanden haben. 
 

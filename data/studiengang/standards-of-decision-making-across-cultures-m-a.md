@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Elitestudiengang/-programm, Internationales Studienangebot"
-scraped_at: 2026-05-01T06:51:02+00:00
+scraped_at: 2026-07-01T08:28:13+00:00
 ---
 
 # Standards of Decision-Making Across Cultures (M.A.)

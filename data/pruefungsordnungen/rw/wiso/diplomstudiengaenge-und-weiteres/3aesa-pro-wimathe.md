@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-PrO-WiMathe.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:10+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:54:40+00:00
+page_count_chars: 2225
 ---
 
 # 7. Juli 2005
@@ -12,69 +12,44 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-PrO-WiMathe.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Dritte Satzung zur Anderung der Priifungsordnung fiir den Diplomstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultat | (Mathematik und Physik) und der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nuirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+N. 
 
-### OCR Seite 1
+## Vom 7. Juli 2005 
 
-```
-Sozialwissenschaftlichen
-Fakultät
-der
-Friedrich-Alexander-Universität
-Erlangen-
-Nürnberg vom 22. Oktober 2002 (KWMBI
-II 2003 S.
-1500), zuletzt geändert durch
-Satzung vom 3. Februar 2005, wird wie folgt geändert:
-1.
-In8$4 Abs. 1 Satz 2 wird das Wort "fünften" durch das Wort "sechsten" ersetzt.
-2.
-8 21 wird wie folgt geändert:
-a)
-In Abs. 1 erhält Nr. 6 Buchst. a) folgende Fassung:
-"(a) Betriebliches Rechnungswesen
-| und wahlweise Betriebliches
-Rechnungswesen Il oder III"
-b)
-In Abs. 2 Satz 2 werden nach dem Wort "Vortrag" die Worte "und eine
-Klausur von 60 Minuten Dauer" angefügt.
-3.
-Die Anlage
-| wird wie folgt geändert:
-a)
-InNr.5e werden die Worte "Hausarbeit/Vortrag" durch die Worte
-"schriftl./mündl." ersetzt.
-b)
-InNr.6a wird die Ziffer "Il" durch folgenden Wortlaut ersetzt: "wahlweise Il
-\
-oder II".
-82
-Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg
-vom
-15. Juni 2005 und der Genehmigung des Bayerischen
-Staatsministeriums
-für
-Wissenschaft,
-Forschung
-und
-Kunst
-mit
-Schreiben vom
-28.
-Juni 2005
-Nr.
-X/4-
-5e69dll(2)-106/23 847.
-Erlangen, den 7. Juli 2005
+Aufgrund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetztes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
+
+# §1 
+
+Die Priifungsordnung fiir den Diplomstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultaét | (Mathematik und Physik) und der Wirtschafts- und Sozialwissenschaftlichen Fakultéat der Friedrich-Alexander-Universitat ErlangenNurnberg vom 22. Oktober 2002 (KWMBI Il 2003 S. 1500), zuletzt geandert durch Satzung vom 3. Februar 2005, wird wie folgt geandert: 
+
+1. In § 4 Abs. 1 Satz 2 wird das Wort "fiinften" durch das Wort "sechsten” ersetzt. 
+
+. 
+
+2. § 21 wird wie folgt geandert: 
+
+   - a) In Abs. 1 erhalt Nr. 6 Buchst. a) folgende Fassung: "(a) Betriebliches Rechnungswesen | und wahlweise Betriebliches Rechnungswesen II oder III" 
+
+   - b) In Abs. 2 Satz 2 werden nach dem Wort "Vortrag" die Worte "und eine Klausur von 60 Minuten Dauer" angefidgt. 
+
+3. Die Anlage | wird wie folgt geandert: 
+
+   - a) In Nr. 5 e werden die Worte “Hausarbeit/Vortrag" durch die Worte "schriftl./mindl." ersetzt. 
+
+   - b) In Nr. 6 a wird die Ziffer "II" durch folgenden Wortlaut ersetzt: "wahlweise II oder III". 
+
+§ 2 
+
+Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nirnberg vom 15. Juni 2005 und der Genehmigung des Bayerischen Staatsministeriums fir Wissenschaft, Forschung und Kunst mit Schreiben vom 28. Juni 2005 Nr. X/45e69dll(2)-10b/23 847. 
+
+Erlangen, den 7. Juli 2005 
+
+<!-- Start of picture text -->
+|<br><!-- End of picture text -->
 [Kontaktperson entfernt]
-|
-Rektor
-Die Satzung wurde am 7. Juli 2005 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 7. Juli 2005 durch Anschlag
-in der Universität Erlangen-
-Nürnberg bekannt gegeben. Tag der Bekanntmachung ist der 7. Juli 2005.
-```
+Die Satzung wurde am 7. Juli 2005 in der Universitat Erlangen-Nirnberg niedergelegt; die Niederlegung wurde am 7. Juli 2005 durch Anschlag in der Universitat ErlangenNurnberg bekannt gegeben. Tag der Bekanntmachung ist der 7. Juli 2005. 
 

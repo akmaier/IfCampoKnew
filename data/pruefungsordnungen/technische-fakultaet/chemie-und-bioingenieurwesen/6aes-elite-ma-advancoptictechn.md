@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_Elite-MA_AdvancOpticTechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:57:03+00:00
-page_count_chars: 2136
+scraped_at: 2026-07-01T11:20:15+00:00
+page_count_chars: 2131
 ---
 
 # 8. März 2016
@@ -12,17 +12,17 @@ page_count_chars: 2136
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_Elite-MA_AdvancOpticTechn.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. März 2016 
+# Vom 8. März 2016 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 2. Oktober 2007, zuletzt geändert durch Satzung vom 8. Juli 2014, wird wie folgt geändert: 
 
-## 1. § 36 erhält folgende Fassung: 
+# 1. § 36 erhält folgende Fassung: 
 
 „Bei bestandener Masterprüfung des Elite-Masterstudienganges wird der akademische Grad "Master of Science" (abgekürzt "M.Sc.") verliehen.“ 
 
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 3. In Anlage 2 Abs. 5 Satz 3 werden nach dem Wort „Qualifikationsfeststellungsverfahrens“ die Worte „auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von S. 1 gilt die unter § 1 Ziffer 1 vorgenommene Änderung für alle Studierenden, die das Studium ab dem Wintersemester 2016 / 2017 aufnehmen. 
 

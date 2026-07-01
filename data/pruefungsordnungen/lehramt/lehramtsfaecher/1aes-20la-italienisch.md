@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. September 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Italienisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:37+00:00
-page_count_chars: 6828
+scraped_at: 2026-07-01T08:40:25+00:00
+page_count_chars: 6876
 ---
 
 # 24. September 2010
@@ -12,13 +12,13 @@ page_count_chars: 6828
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Italienisch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 24. September 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. März 2009 wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudi
 
 3. § 5 wird wie folgt geändert: 
 
-a) In Abs. 1 wird die hochgestellte Zahl „[1] “ ersatzlos gestrichen, das Wort „Romanistik“ wird durch das Wort „Italoromanistik“ ersetzt und die Worte „Italienische Literaturwissenschaft für das Lehramt; Italienische Sprachwissenschaft für das Lehramt; Italienische Kulturwissenschaft für das Lehramt“ werden durch die Worte „Italienische Sprach-, Literatur- und Kulturwissenschaft für das Lehramt an Gymnasien A oder B“ ersetzt. 
+a) In Abs. 1 wird die hochgestellte Zahl „<sup>1</sup> “ ersatzlos gestrichen, das Wort „Romanistik“ wird durch das Wort „Italoromanistik“ ersetzt und die Worte „Italienische Literaturwissenschaft für das Lehramt; Italienische Sprachwissenschaft für das Lehramt; Italienische Kulturwissenschaft für das Lehramt“ werden durch die Worte „Italienische Sprach-, Literatur- und Kulturwissenschaft für das Lehramt an Gymnasien A oder B“ ersetzt. 
 
 b) Abs. 3 erhält folgende neue Fassung: 
 
@@ -48,11 +48,11 @@ b) Abs. 3 erhält folgende neue Fassung:
 ||Einführung in die italienische<br>Sprachwissenschaft|2|4|K 90’|0,5|
 |---|---|---|---|---|---|
 ||Einführung in die italienische<br>Literaturwissenschaft|3|6|K 90’|0,5|
-|3 / 4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder**<br>**mündliche Prüfung**||
+|3 / 4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistu**<br>**PS + Klausur o**<br>**mündliche Prü**|**ng aus dem**<br>**der**<br>**fung**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|2|SL||
 ||Übung|2|4|K 90’ /<br>MP 15’|0,4|
-|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- und**<br>**Kulturwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder**<br>**mündliche Prüfung**||
+|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- und**<br>**Kulturwissenschaft 1**||**10**|**Prüfungsleistu**<br>**PS + Klausur o**<br>**mündliche Prü**|**ng aus dem**<br>**der**<br>**fung**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 ||Übung|2|2|SL||
@@ -61,7 +61,7 @@ b) Abs. 3 erhält folgende neue Fassung:
 ||Grammatica e stilistica|2|2|SL||
 ||Comprensione e produzione orale II|2|2|SL||
 ||Corso introduttivo di cultura e ciciltà italiana I|2|3|SL||
-|5 / 6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Kurzessays + Klausur oder**<br>**HA**||
+|5 / 6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Kurzessays +**<br>**HA**|**Klausur oder**|
 ||Cultura e civiltà italiana II|2|5|K 90’/HA|0,5|
 ||Laboratorio di scrittura|2|3|Kurzessays|0,5|
 ||Traduzione Tedesco-Italiano|2|2|SL||
@@ -70,10 +70,10 @@ FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = S
 
 ## **Pflichtbereich für Ital** i **enisch als erstes Fach (LAG)** 
 
-|**FS**|**Modul**|**SWS**|**ECTS**||
-|---|---|---|---|---|
-|6|**Abschlussmodul Schriftliche Hausarbeit**||**10**||
-||Schriftlichen Hausarbeit||10||
+|**FS**|**Modul**|**SWS**|**ECTS**|
+|---|---|---|---|
+|6|**Abschlussmodul Schriftliche Hausarbeit**||**10**|
+||Schriftlichen Hausarbeit||10|
 
 ## **Studium nach dem 6. Semester LAG** 
 
@@ -86,7 +86,7 @@ FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = S
 
 K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung 
 
-## **Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert: Modul A:** 
+## **Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert:** **<u>Modul A:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -96,11 +96,8 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung
 ||Hauptseminar italienische<br>Literaturwissenschaft|2|8|HA|0,6|
 ||Hauptseminar italienische<br>Sprachwissenschaft|2|4|Vortrag (Referat)|0,4|
 ||Wissenschaftliche Übung: Italienische<br>Kulturwissenschaft und Landeskunde|2|3|SL||
-
-## **Modul B:** 
-
+|**Modu**|<br>**l B:**|||||
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
-|---|---|---|---|---|---|
 |7/ 8|**Italienische Sprach- , Literatur- und**<br>**Kulturwissenschaft für das Lehramt an**<br>**Gymnasien B**||**15**|||
 ||Hauptseminar italienische<br>Sprachwissenschaft|2|8|HA|0,6|
 ||Hauptseminar italienische<br>Literaturwissenschaft|2|4|Vortrag (Referat)|0,4|
@@ -110,7 +107,7 @@ Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-|1-3|**Fachdidaktisches Modul 1: Einführung in die**<br>**Didaktik des Italienischen**||**5**||
+|1-3|**Fachdidaktisches Modul 1: Einführung in die**<br>**Didaktik des Italienischen**<br>||**5**||
 ||Übung: Einführung in die Fachdidaktik des<br>Italienischen|2|3|K 90’|
 ||Proseminar / Übung|2|2|SL|
 |4-7|**Fachdidaktisches Modul 2: Didaktik des**<br>**Italienischen (Lehramt Gymnasien)**||**5**||
@@ -129,7 +126,7 @@ Im **freien Bereich** können folgende Module gewählt werden:
 
 **§ 2** 
 
-1Die Satzung tritt nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die zum Wintersemester 2010/11 das Studium aufnehmen.[3] Die Änderungen in den Tabellen „Studium nach dem 6. Semester LAG“, „Modul A“, „Modul B“ und „freier Bereich“ der Ziffer 3 b) gelten für alle Studierenden. 
+1Die Satzung tritt nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die zum Wintersemester 2010/11 das Studium aufnehmen.<sup>3</sup> Die Änderungen in den Tabellen „Studium nach dem 6. Semester LAG“, „Modul A“, „Modul B“ und „freier Bereich“ der Ziffer 3 b) gelten für alle Studierenden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 19. Mai 2010 und des Einvernehmens des Bayerischen Staatsministeriums für Unterricht und Kultus mit Schreiben vom 16. September 2010 Nr. III.1-5 S 4068/88/2. 
 

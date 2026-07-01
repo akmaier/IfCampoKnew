@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES_BA_MA_ComputEngineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:49+00:00
-page_count_chars: 4966
+scraped_at: 2026-07-01T11:35:24+00:00
+page_count_chars: 4976
 ---
 
 # 29. Juli 2013
@@ -24,21 +24,21 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 1.  § 43 wird wie folgt geändert: 
 
-a) Abs. 1 Nr. 2 erhält folgende Fassung: 
+   - a) Abs. 1 Nr. 2 erhält folgende Fassung: 
 
-„2. ein Praktikum (10 ECTS-Punkte)“ 
+      - „2. ein Praktikum (10 ECTS-Punkte)“ 
 
-- b) In Abs. 2 Nr. 5 wird das Wort „Industriepraktikum“ durch das Wort „Praktikum“ ersetzt. 
+   - b) In Abs. 2 Nr. 5 wird das Wort „Industriepraktikum“ durch das Wort „Praktikum“ ersetzt. 
 
-- c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
+   - c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Das Praktikum im Umfang von 10 ECTS besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus Bachelorstudiengängen der Technischen Fakultät.[2] Die Liste der wählbaren Praktikumsmodule wird vor Semesteranfang, eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.“ 
+„(5)<sup>1</sup> Das Praktikum im Umfang von 10 ECTS besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus Bachelorstudiengängen der Technischen Fakultät.<sup>2</sup> Die Liste der wählbaren Praktikumsmodule wird vor Semesteranfang, eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht.“ 
 
 2. § 45 wird ersatzlos gestrichen. Die bisherigen §§ 46 bis 55 werden zu den neuen §§ 45 bis 54 
 
 3.  § 46 (neu) Abs. 2 Satz 1 erhält folgende Fassung: 
 
-„[1] Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Schlüsselqualifikationen und Praktikum).“ 
+„<sup>1</sup> Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Schlüsselqualifikationen und Praktikum).“ 
 
 4. § 48 (neu) Abs. 4 wird wie folgt geändert: 
 
@@ -88,15 +88,15 @@ PL: Bestehen einer schriftlichen Prüfung im Umfang von 90 Minuten. SL: Übungsb
 
 2 
 
-## **Master Studiengang Computational Engineering** 
+# **Master Studiengang Computational Engineering** 
 
-||Master|Master|4. Semester||||<br> <br>(|Masterarbeit<br>und Referat<br>30 ECTS)|
-|---|---|---|---|---|---|---|---|---|
-||||1.-3. Semester|Festlegung der<br>Module im<br>Studienkonzept|Festlegung der<br>Module im<br>Studienkonzept|Auswahl von<br>Modulen<br>abhängig vom<br>gewählten TAF||Seminar( 5 ECTS )|
-|||||Funktionalanalysis für<br>Ingenieure (5 ECTS)<br>Optimierung für Inge-<br>nieure(7,5 ECTS)|||||
-||<br>∑=|120 ECTS||mind. 20 ECTS|mind. 20 ECTS|mind. 20 ECTS||35 ECTS|
-|||||30 ECTS Wahl aus den Wahlpflichtbereichen|||||
-|||||Mathematik|Informatik|Technisches<br>Anwendungsfach<br>(TAF)||Seminar<br>Masterarbeit|
+|Master|4. Semester||||Masterarbeit<br>und Referat<br>(30 ECTS)|
+|---|---|---|---|---|---|
+||1.-3. Semester|Festlegung der<br>Module im<br>Studienkonzept|Festlegung der<br>Module im<br>Studienkonzept|Auswahl von<br>Modulen<br>abhängig vom<br>gewählten TAF|Seminar( 5 ECTS )|
+|||Funktionalanalysis für<br>Ingenieure (5 ECTS)<br>Optimierung für Inge-<br>nieure(7,5 ECTS)||||
+|120 ECTS<br>∑<sup>=</sup>||mind. 20 ECTS|mind. 20 ECTS|mind. 20 ECTS|35 ECTS|
+|||30 ECTS Wahl|aus den Wahlpflic|htbereichen||
+|||Mathematik|Informatik|Technisches<br>Anwendungsfach<br>(TAF)|Seminar<br>Masterarbeit|
 
 „ 
 

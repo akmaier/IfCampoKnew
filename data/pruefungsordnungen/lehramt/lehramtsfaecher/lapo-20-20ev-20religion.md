@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.02.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Ev.%20Religion.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:07:11+00:00
-page_count_chars: 20759
+scraped_at: 2026-07-01T08:37:59+00:00
+page_count_chars: 20837
 ---
 
 # pdf vom 26.02.2009
@@ -12,7 +12,7 @@ page_count_chars: 20759
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Ev.%20Religion.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Evangelische Religion im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Evangelische Religion im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 26. Februar 2009 
 
@@ -50,7 +50,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
 
-- (1)[1] Bis zum Ende des vierten Semesters müssen im Fach Evangelische Religionslehre für das Lehramt Gymnasium ausreichende Kenntnisse im Griechischen bzw. Lateinischen nachgewiesen werden, wenn lediglich eine Fremdsprache nachgeholt werden muss.[2] Sind beide Fremdsprachen (Latein und Griechisch) nachzuholen, müssen ausreichende Kenntnisse bis zum Ende des 5. Semesters nachgewiesen werden.[3] Über begründete Ausnahmen befindet der Prüfungsausschuss.[4] Im 
+- (1)<sup>1</sup> Bis zum Ende des vierten Semesters müssen im Fach Evangelische Religionslehre für das Lehramt Gymnasium ausreichende Kenntnisse im Griechischen bzw. Lateinischen nachgewiesen werden, wenn lediglich eine Fremdsprache nachgeholt werden muss.<sup>2</sup> Sind beide Fremdsprachen (Latein und Griechisch) nachzuholen, müssen ausreichende Kenntnisse bis zum Ende des 5. Semesters nachgewiesen werden.<sup>3</sup> Über begründete Ausnahmen befindet der Prüfungsausschuss.<sup>4</sup> Im 
 
 Bereich der frei wählbaren Module können Module des Spracherwerbs im Umfang von bis zu maximal 5 ECTS-Punkten berücksichtigt werden, die in diesem Fall zur Fachwissenschaft gerechnet werden. 
 
@@ -60,130 +60,127 @@ Bereich der frei wählbaren Module können Module des Spracherwerbs im Umfang vo
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
+**§ 5 Inhalt, Aufbau und Gliederung des Studiums** 
 
 - (1) Für das Lehramt Evangelische Religion an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
 
-Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgenden Pflichtmodule: 
+Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die <u>folgenden Pflichtmodule:</u> 
 
-|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**~~**i**~~|
+|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<sup>**~~i~~**</sup>|
 |---|---|---|---|
 |**Grundkurs: Einführung in die Theologie (Beginn nur im WS):**||**5**||
-|Einführung in die Theologie<br>in Verbindungmit einem Einführungswochenende|2 – 4<br>V/Ü|4|Klausur o./u. mündl.<br>Prüfung|
+|Einführung in die Theologie<br>in Verbindungmit einem Einführungswochenende<br>|2 – 4<br>V/Ü|4|Klausur o./u. mündl.<br>Prüfung|
 |EinführungindieReligionspädagogik(Übung)|1|1<br>|Studienleistung|
-|**Bibelkunde**|**4**|**5**~~**1**~~||
-|BibelkundeNT|2Ü|2/3*|Klausur o. mündl. Prüfung<br>in einer der beiden LV|
-|BibelkundeAT|2Ü|2/3*||
+|**Bibelkunde**|**4**<br>|**5**<sup>**~~1~~**</sup>||
+|BibelkundeNT|2Ü|2/3*|Klausur o. mündl. Prüfung|
+|BibelkundeAT|2Ü|2/3*|in einer der beiden LV|
 |**Altes Testament 1**|**4**|**5**||
-|GeschichteIsraels|2V|2|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Themenderalttestamentlichen Theologie (mitArbeit)|2MS|3||
+|GeschichteIsraels|2V|2|Klausur o./u. mündliche|
+|Themenderalttestamentlichen Theologie (mitArbeit)|2MS|3|Prüfungo./u. HA|
 |**Neues Testament 1**|**4**|**5**||
-|NT Einführungindie exeget. Methoden(mitArbeit)|2PS|3|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|EinführunginsNT|2V|2||
+|NT Einführungindie exeget. Methoden(mitArbeit)|2PS|3|Klausur o./u. mündliche|
+|EinführunginsNT|2V|2|Prüfungo./u. HA|
 |**Systematische Theologie 1**|**4**|**5**||
-|Systematisch-theologischesProseminar|2PS|3|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Grundzüge der Dogmatik|2V|2||
-|**Kirchegeschichte 1**|**4**|**5**||
-|KirchengeschichteimÜberblick 1o. 2o.3 o. 4|2V|2|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|KirchengeschichteimÜberblick 1o. 2o.3 o. 4|2V|3||
+|Systematisch-theologischesProseminar|2PS|3|Klausur o./u. mündliche|
+|Grundzüge der Dogmatik|2V|2|Prüfungo./u. HA|
+|**Kirchegeschichte 1**<br>|**4**|**5**||
+|KirchengeschichteimÜberblick 1o. 2o.3 o. 4<br>|2V|2|Klausur o./u. mündliche<br>|
+|KirchengeschichteimÜberblick 1o. 2o.3 o. 4|2V|3|Prüfungo./u. HA|
 |**Religionspädagogik**|**4**|**5**||
-|EinführungindieReligionspädagogik I|2V|3|Eine Klausur o./u. mündl.<br>Prüfung o./u. HA über den<br>Bereichbeider LV|
-|Einführung in die Religionspädagogik II|2V|2||
+|EinführungindieReligionspädagogik I|2V|3|Eine Klausur o./u. mündl.<br>|
+|Einführung in die Religionspädagogik II|2V|2|Prüfung o./u. HA über den<br>Bereichbeider LV|
 |**Altes Testament 2**|**4**|**5**||
-|ThemenundTheologie desAT|2V|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|AlttestamentlicheFragestellungen|2Ü|2/3*||
+|ThemenundTheologie desAT|2V<br>|2/3*|Klausur o./u. mündliche|
+|AlttestamentlicheFragestellungen|2Ü|2/3*|Prüfungo./u. HA|
 |**Neues Testament 2**|**4**|**5**||
-|Themender neutestamentlichen Theologie|2HS|3|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Themender neutestamentlichen Theologie|2V|2||
+|Themender neutestamentlichen Theologie|2HS|3|Klausur o./u. mündliche|
+|Themender neutestamentlichen Theologie|2V|2|Prüfungo./u. HA|
 |**Systematische Theologie 2**|**6**|**10**||
 
 > 1 Je 1 ECTS aus AT, NT, KG, SYS, RW. 
 
 2 
 
-|Ethik imÜberblick|2V|2|Klausur o./u. mündliche<br>Prüfung o./u. HA in beiden<br>Seminaren|
-|---|---|---|---|
-|Dogmatik(z.B. TheologischeHermeneutik)|2S|4||
-|Ethik(z.B: Modelle der Ethik)|2S|4||
-|**Kirchengeschichte 2**|**4**|**5**||
-|Spezialproblem/-thema der Kirchengeschichte|2HS|3|Klausur o./u. mündliche<br>Prüfung o./u. HA|
-|Kirchengeschichte im Überblick 1 o. 2 o. 3 o. 4<br>**_oder_**<br>Spezialproblem/-thema der Kirchengeschichte|2V<br>oder<br>2U|2||
-|**Religionswissenschaft 1**|**4**|**5**||
-|EinführungindieReligionswissenschaft|2V|2|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|ReligionswissenschaftlicheThemen|2S|3||
+|Ethik imÜberblick|2V|2<br>Klausur o./u. mündliche|
+|---|---|---|
+|Dogmatik(z.B. TheologischeHermeneutik)|2S|4<br>Prüfung o./u. HA in beiden|
+|Ethik(z.B: Modelle der Ethik)|2S|4<br>Seminaren|
+|**Kirchengeschichte 2**|**4**|**5**|
+|Spezialproblem/-thema der Kirchengeschichte<br>|2HS|3|
+|Kirchengeschichte im Überblick 1 o. 2 o. 3 o. 4<br>**_oder_**|2V<br>oder|2<br>Klausur o./u. mündliche<br>Prüfung o./u. HA|
+|Spezialproblem/-thema der Kirchengeschichte|2U||
+|**Religionswissenschaft 1**|**4**|**5**|
+|EinführungindieReligionswissenschaft|2V|2<br>Klausur o./u. mündliche|
+|ReligionswissenschaftlicheThemen|2S|3<br>Prüfungo./u. HA|
 
 *Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-|In den Semestern 7-9 drei Schwerpunktwahlmodule und die folgenden Pflichtmodule:|In den Semestern 7-9 drei Schwerpunktwahlmodule und die folgenden Pflichtmodule:|In den Semestern 7-9 drei Schwerpunktwahlmodule und die folgenden Pflichtmodule:|In den Semestern 7-9 drei Schwerpunktwahlmodule und die folgenden Pflichtmodule:|
+|In den Semestern 7-9 drei Schwerpunktwah|lmodule und die f<br>|olgende<br>|n Pflichtmodule:<br>|
 |---|---|---|---|
 |**Modul **|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |**Religionswissenschaft 2**|**4**|**5**||
-|Grundzüge einer nichtchristlichen Religion|2V|2|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Religionswissenschaftliche Themen|2S|3||
-|**Schwerpunktübergreifendes Modul**|**4**|**5**<br>||
-|Vorlesung oderSeminar|2 V/S|2/3~~*~~|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Vorlesung o.Seminaro.Übung|2V/S/Ü|2/3*||
+|Grundzüge einer nichtchristlichen Religion|2V|2|Klausur o./u. mündliche|
+|Religionswissenschaftliche Themen|2S|3|Prüfungo./u. HA|
+|**Schwerpunktübergreifendes Modul**|**4**|**5**<br><sup>~~*~~</sup>||
+|Vorlesung oderSeminar|2 V/S|2/3|Klausur o./u. mündliche|
+|Vorlesung o.Seminaro.Übung|2V/S/Ü|2/3*|Prüfungo./u. HA|
 
 - *Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-## Wahlbereich:[2] 
-
-|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
+|Wahlbereich:<sup>2</sup><br>||||
 |---|---|---|---|
-|**Schwerpunkt-Wahlmodul Altes Testament**|**4**|**5**||
-|ThemendesAlten Testaments|2 V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|ThemendesAlten Testaments|2 V/S/Ü|2/3*||
+|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
+|**Schwerpunkt-Wahlmodul Altes Testament**|**4**<br>|**5**||
+|ThemendesAlten Testaments|2 V/S/Ü|2/3*|Klausur o./u. mündliche|
+|ThemendesAlten Testaments|2 V/S/Ü|2/3*|Prüfungo./u. HA|
 |**Schwerpunkt-Wahlmodul Neues Testament**|**4**|**5**||
-|ThemendesNeuen Testaments|2 V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|ThemendesNeuen Testaments|2 V/S/Ü|2/3*||
+|ThemendesNeuen Testaments|2 V/S/Ü<br>|2/3*|Klausur o./u. mündliche|
+|ThemendesNeuen Testaments|2 V/S/Ü|2/3*|Prüfungo./u. HA|
 |**Schwerpunkt-Wahlmodul Biblische Theologie**|**4**|**5**||
-|ThemendesAlten Testaments|2 V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|ThemendesNeuen Testaments|2 V/S/Ü|2/3*||
+|ThemendesAlten Testaments|2 V/S/Ü<br>|2/3*|Klausur o./u. mündliche|
+|ThemendesNeuen Testaments|2 V/S/Ü|2/3*|Prüfungo./u. HA|
 |**Schwerpunkt-Wahlmodul Kirchengeschichte**|**4**|**5**||
-|Kirchengeschichte1o. 2o.3 o. 4|2V|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Kirchengeschichte1o. 2o.3 o. 4|2V|2/3*||
+|Kirchengeschichte1o. 2o.3 o. 4|2V|2/3*|Klausur o./u. mündliche|
+|Kirchengeschichte1o. 2o.3 o. 4|2V|2/3*|Prüfungo./u. HA|
 |**Schwerpunkt-Wahlmodul Systematische Theologie**|**4**|**5**||
-|Themender Dogmatik(z.B. Anthropologie)|2V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Themender Ethik(z.B. PolitischeEthik)|2V/S/Ü|2/3*||
+|Themender Dogmatik(z.B. Anthropologie)|2V/S/Ü<br>|2/3*|Klausur o./u. mündliche|
+|Themender Ethik(z.B. PolitischeEthik)|2V/S/Ü|2/3*|Prüfungo./u. HA|
 |**Schwerpunkt-Wahlmodul Praktische Theologie**|**3- 4**|**5**||
-|Themender Praktischen Theologie|2V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfung o./u. HA|
-|Themen der Praktischen Theologie|1 - 2<br>V/S/Ü|2/3*||
+|Themender Praktischen Theologie|2V/S/Ü<br>|2/3*|Klausur o./u. mündliche|
+|Themen der Praktischen Theologie|1 - 2<br>V/S/Ü|2/3*|Prüfung o./u. HA|
 |**Schwerpunkt-Wahlmodul Religions- und**<br>**Missionswissenschaft**|**4**|**5**||
-|Themender Religions-undMissionswissenschaft|2V/S/Ü|2/3*|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|Themender Religions-undMissionswissenschaft|2V/S/Ü|2/3*||
+|Themender Religions-undMissionswissenschaft|2V/S/Ü|2/3*|Klausur o./u. mündliche|
+|Themender Religions-undMissionswissenschaft|2V/S/Ü|2/3*|Prüfungo./u. HA|
 |**Wahlmodul Spracherwerb**|**6 V/Ü**|**5**||
 |Griechischoder Latein|6V/Ü|5||
 
 - *Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-- (2) Im Bereich **Fachdidaktik** sind im Fach Evangelische Religionslehre im Studium des 
-
-## Lehramts an Gymnasien folgende Module abzulegen: 
+## (2) Im Bereich **Fachdidaktik** sind im Fach Evangelische Religionslehre im Studium des <u>Lehramts an Gymnasien folgende Module abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
 |**Fachdidaktik 1**|**4**|**5**||
-|Didaktisch-methodisches Seminar mit Unterrichtsentwurf|2S|3|Unterrichtsentwurf mit<br>Praxisreflexion|
-|Didaktisch-methodische ÜbungzumSeminar|2Ü|2||
+|Didaktisch-methodisches Seminar mit Unterrichtsentwurf|2S|3|Unterrichtsentwurf mit|
+|Didaktisch-methodische ÜbungzumSeminar|2Ü|2|Praxisreflexion|
 
 - 2 Von den folgenden Wahlmodulen sind mindestens vier, davon eins im Bachelorbereich und 3 im Masterbereich, zu belegen. In jedem Fall müssen dabei noch 4 ECTS Systematische Theologie erworben werden 
 
 3 
 
-|**Fachdidaktik 2**~~**3**~~|**5**|**5**||
+|**Fachdidaktik 2**<sup>**~~3~~**</sup>|**5**|**5**|
+|---|---|---|
+|Religionsdidaktik(z.BSyst.-theol. Themen im RU)|2S|3<br>Klausur o./u. mündliche|
+|ThemenundMethoden im RU (Wahlbereich)|1 – 2Ü|2<br>Prüfungo./u. HA|
+
+|(3) Im Freien Bereich kann im Bereich**Fachdi**<br>|**daktik**folgende<br>|s Modul<br>|gewählt werden:<br>|
 |---|---|---|---|
-|Religionsdidaktik(z.BSyst.-theol. Themen im RU)|2S|3|Klausur o./u. mündliche<br>Prüfungo./u. HA|
-|ThemenundMethoden im RU (Wahlbereich)|1 – 2Ü|2||
-
-(3) Im Freien Bereich kann im Bereich **Fachdidaktik** folgendes Modul gewählt werden: 
-
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
-|---|---|---|---|
 |**Schwerpunkt-Wahlmodul Fachdidaktik**|**3-4 **|**5**||
-|TheorienundThemender Religionsdidaktik|2V/S|3|Eine Klausur o./u.<br>mündliche Prüfung o./u.<br>HA<br>(Gesamtmodulprüfung)|
-|Medieneinsatz im RU|1- 2 S/Ü|2||
+|TheorienundThemender Religionsdidaktik|2V/S|3|Eine Klausur o./u.|
+|Medieneinsatz im RU|1- 2 S/Ü|2|mündliche Prüfung o./u.<br>HA<br>(Gesamtmodulprüfung)|
 
-(4) Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+(4) Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische <u>Religion belegt wird, ist folgendes Modul erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
@@ -195,57 +192,59 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 
 ## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Im Studium des Faches Evangelische Religionslehre für das Lehramt an 
+- (1)<sup>1</sup> Im Studium des Faches Evangelische Religionslehre für das Lehramt an 
 
-## Realschule sind folgende Module erfolgreich abzulegen: 
+## <u>Realschule sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**<br>|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
-|**Einführung in Theologie und Religionspädagogik**|**6**|**8**~~**4**~~||
-|Einführung in Theologie und wissenschaftliches Arbeiten|2V/Ü|3|Referat (bestanden)|
+|**Einführung in Theologie und Religionspädagogik**|**6**<br>|**8**<sup>**~~4~~**</sup>||
+|Einführung in Theologie und wissenschaftliches Arbeiten|2V/Ü<br>|3|Referat (bestanden)<br>|
 |Bibelkunde|2Ü|3|Klausur(bestanden)|
 |Einführungind. RUinder Realschule (FD)|2S|2|Teilnahme|
 |**Biblische Theologie 1**|**9**|**10**||
-|AT -GeschichteIsraels|2V|2|Klausur (benotet) zu einer<br>LV Teilnahme andere LV|
-|Grundprobleme desAT|2V/Ü|2||
+|AT -GeschichteIsraels|2V<br>|2|Klausur (benotet) zu einer|
+|Grundprobleme desAT|2V/Ü|2|LV Teilnahme andere LV|
 |NT - Die synoptische Jesusüberlieferung|2V|2|Teilnahme|
-|NT - EinführungindenUmgangmit dem NT|2PS|3|Hausarbeit (benotet)|
+|NT - EinführungindenUmgangmit dem NT|2PS<br>|3|Hausarbeit (benotet)|
 |BiblischeThemen im RU|1Ü|1|Teilnahme|
-|**Kirchengeschichte 1**|**4**|**5**||
+|**Kirchengeschichte 1**<br>|**4**|**5**||
 |KirchengeschichteimÜberblick(GHRS)|2V|3|Hausarbeit (benotet)|
 |Themender KG– mit didaktischem Ausblick|2S|2|Teilnahme|
 |**Systematische Theologie 1 (RS)**||**6**||
-|Einführungind. Dogmatik: ZentraleThemenchristl.Gaubens|2V|3|eine mdl. Prüfung<br>(benotet) + eine Klausur<br>(benotet)|
-|Einführung in die Ethik|2V/Ü|3||
-|**Schwerpunktübergreifendes Wahlmodul unter** **verpflich-**<br>**tender Beteiligung der Systematischen Theologie (2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen inder Regel 2SWS, alsoinsgesamt4-6 SWSSWS|4 - 6|**65**|eine Mündliche Prüfung<br>über alle Teilbereiche des<br>Moduls (benotet)|
-|**Biblische Theologie 2**|**4**|**5**||
-|AT -Themenalttestamentlicher Theologie (z.B. Prophetie)|2MS|2/3*|exeget. HA (benotet) +<br>Teilnahme anderer LV|
-|NT - Themen neutestamentlicher Theologie (z.B. Paulus)|2V/Ü|2/3*||
+|Einführungind. Dogmatik: ZentraleThemenchristl.Gaubens|2V|3|eine mdl. Prüfung<br>|
+|Einführung in die Ethik|2V/Ü|3|(benotet) + eine Klausur<br>(benotet)|
+|**Schwerpunktübergreifendes Wahlmodul unter** **verpflich-**<br>**tender Beteiligung der Systematischen Theologie (2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen inder Regel 2SWS, alsoinsgesamt4-6 SWSSWS|4 - 6|**6**<sup>**5**</sup>|eine Mündliche Prüfung<br>über alle Teilbereiche des<br>Moduls (benotet)|
+|**Biblische Theologie 2**<br>|**4**<br>|**5**<br>||
+|AT -Themenalttestamentlicher Theologie (z.B. Prophetie)|2MS<br>|2/3*|exeget. HA (benotet) +|
+|NT - Themen neutestamentlicher Theologie (z.B. Paulus)|2V/Ü|2/3*|Teilnahme anderer LV|
 |**Kirchengeschichte 2**|**4**|**5**||
 |Reformationsgeschichte|2V|3|HA (ben.) oder Klausur<br>(ben.)|
 |ChristlicheKirchenund Gruppen|2V/Ü|2|Teilnahme|
 
 3 Davon 2 aus dem FD-Wahlbereich. 
 
-4 Darin 1 ECTS AT, 1 ECTS NT, 2 ECTS Fachdidaktik 
+4 
+
+Darin 1 ECTS AT, 1 ECTS NT, 2 ECTS Fachdidaktik 
 
 > 5 Darin 2 ECTS aus der Beteiligung der Systematischen Theologie. 
 
 4 
 
-|**Systematische Theologie 2 (RS)**|**4**|**6**||
-|---|---|---|---|
-|Grundfragender Dogmatik|2V/Ü|3|Klausur o./u mündl.<br>Prüfungo./u. HA|
-|GrundlagenundFragenchristlicher Ethik|2MS|3||
-|**Religionswissenschaft**||**5**||
-|Das Judentum(inseinem VerhältniszumChristentum)|2Ü|2|Klausur oder mdl. Prüfung<br>oder HA (ben.) +<br>Teilnahme andereLV|
-|Der Islam (in seinem Verhältnis zum Christentum)|2V/Ü|2||
-|Grundfragender Religionswissenschaft|1 V/Ü|1|Teilnahme|
-|**Schwerpunktübergreifendes Wahlmodul unter** **verpflich-**<br>**tender Beteiligung der Religionswissenschaft (2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen in der Regel 2 SWS,also insgesamt 4-6 SWS|**4-6**|**6**|eine mündliche Prüfung<br>oder HA über alle<br>Teilbereiche des Moduls<br>(benotet)|
+|**Systematische Theologie 2 (RS)**|**4**<br>|**6**|
+|---|---|---|
+|Grundfragender Dogmatik|2V/Ü|3<br>Klausur o./u mündl.|
+|GrundlagenundFragenchristlicher Ethik|2MS|3<br>Prüfungo./u. HA|
+|**Religionswissenschaft**||**5**|
+|Das Judentum(inseinem VerhältniszumChristentum)|2Ü|2<br>Klausur oder mdl. Prüfung|
+|Der Islam (in seinem Verhältnis zum Christentum)|2V/Ü|2<br>oder HA (ben.) +<br>Teilnahme andereLV|
+|Grundfragender Religionswissenschaft|1 V/Ü|1<br>Teilnahme|
+|**Schwerpunktübergreifendes Wahlmodul unter** **verpflich-**<br>**tender Beteiligung der Religionswissenschaft** **(2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen in der Regel 2 SWS,also insgesamt 4-6 SWS|**4-6**|**6**<br>eine mündliche Prüfung<br>oder HA über alle<br>Teilbereiche des Moduls<br>(benotet)|
 
 * Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-## (2) Im Bereich **Fachdidaktik** sind im Fach Evangelische Religionslehre im Studium des Lehramts an Realschulen folgende Module abzulegen: 
+## (2) Im Bereich **Fachdidaktik** sind im Fach Evangelische Religionslehre im Studium des <u>Lehramts an Realschulen folgende Module abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
@@ -256,7 +255,7 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 |Fachdidaktisches Seminar: Unterricht|2S|3|Unterrichtsentwurf mit<br>Praxisreflexion, HA zur<br>Unterrichtsforschung<br>(benotet)|
 |Hauptthemender Religionsdidaktik|2V/Ü|2|Teilnahme|
 
-(3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion belegt wird, ist folgendes Modul erfolgreich abzulegen: 
+## (3) Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische <u>Religion belegt wird, ist folgendes Modul erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
@@ -268,17 +267,17 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 
 ## **§ 7 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1) Im Studium des Faches Evangelische Religionslehre für das Lehramt an Grund- und Hauptschulen sind folgende Module erfolgreich abzulegen: 
+(1) Im Studium des Faches Evangelische Religionslehre für das Lehramt an Grund- und <u>Hauptschulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**<br>|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
-|**Einführung in Theologie und Religionspädagogik**|**6**|**8**~~**6**~~||
+|**Einführung in Theologie und Religionspädagogik**|**6**|**8**<sup>**~~6~~**</sup>||
 |Einführungin Theologie undwissenschaftlichesArbeiten|2V/Ü|3|Referat (bestanden)|
 |Bibelkunde|2Ü|3|Klausur(bestanden)|
 |Einführung: RUinderGrundschule bzw. Hauptschule (FD)|2S|2|Teilnahme|
 |**Biblische Theologie 1**|**9**|**10**||
-|AT -GeschichteIsraels|2V|2|Klausur (benotet) zu einer<br>LV + Telnahme andere LV|
-|AT -Grundprobleme desAT|2V/Ü|2||
+|AT -GeschichteIsraels|2V|2|Klausur (benotet) zu einer|
+|AT -Grundprobleme desAT|2V/Ü|2|LV + Telnahme andere LV|
 |NT - Die synoptische Jesusüberlieferung|2V|2|Teilnahme|
 |NT - EinführungindenUmgangmit dem NT|2PS|3|Hausarbeit (benotet)|
 |BiblischeThemen im RU|1Ü|1|Teilnahem|
@@ -287,58 +286,58 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 |Themender KG– mit did. Ausblick|2S|2|Teilnahme|
 |**Systematische Theologie 1 (GHS)**|**6**|**7**||
 
-> 6 Darin 1 ECTS AT, 1 ECTS NT, 2 ECTS Fachdidaktik 
+6 Darin 1 ECTS AT, 1 ECTS NT, 2 ECTS Fachdidaktik 
 
 5 
 
 |EinführungindieDogmatik: ZentraleThemenchristl.Glaubens|2V|3|Klausur(benotet)|
 |---|---|---|---|
-|EinführungindieEthik|2V/Ü|2|mdl. Prüfung (benotet)|
+|EinführungindieEthik|2V/Ü<br>|2|mdl. Prüfung (benotet)|
 |ThemenderSystematischen Theologieim RU|2V/Ü|2|Teilnahme|
-|**Wahlmodul unter** **verpflichtender Beteiligung der**<br>**systematischen Theologie (2 ECTS) und der**<br>**Religionswissenschaft (2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen inder Regel 2SWS, alsoinsgesamt4-6 SWS|**4-6**|**6**|eine mündliche Prüfung<br>oder HA über alle<br>Teilbereiche des Moduls<br>(benotet)|
+|**Wahlmodul unter** **verpflichtender Beteiligung der**<br>**systematischen Theologie** **(2 ECTS) und der**<br>**Religionswissenschaft (2 ECTS)**<br>(mehrperspektivisch, d.h. Zusammenarbeit verschiedener Disziplinen)<br>2-3 Lehrveranstaltungen, etwa V + S., od. V + S. + Ü; diese Veranstaltungen<br>umfassen inder Regel 2SWS, alsoinsgesamt4-6 SWS|**4-6**|**6**|eine mündliche Prüfung<br>oder HA über alle<br>Teilbereiche des Moduls<br>(benotet)|
 |**Biblische Theologie 2:**|**4**|**5**||
-|AT - Themenalttestamentlicher Theologie (z.B. Prophetie)|2MS|2/3*|exeget. HA (benotet)<br>+ Teilnahme andere LV|
-|NT - Themen neutestamentlicher Theologie (z.B. Paulus)|2V/Ü|2/3*||
+|AT - Themenalttestamentlicher Theologie (z.B. Prophetie)|2MS|2/3*|exeget. HA (benotet)|
+|NT - Themen neutestamentlicher Theologie (z.B. Paulus)|2V/Ü|2/3*|+ Teilnahme andere LV|
 |**Kirchengeschichte 2**|**4**|**5**||
-|Reformationsgeschichte|2V|3|HA (benotet) oder Klausur<br>(ben.)|
+|Reformationsgeschichte|2V<br>|3|HA (benotet) oder Klausur<br>(ben.)|
 |ChristlicheKirchenund Gruppen|2V/Ü|2|Teilnahme|
 |**Systematische Theologie 2 (GHS)**|**4**|**5**||
 |Grundfragender Dogmatik|2V/Ü|2|Teilnahme|
 |GrundlagenundFragenchristlicher Ethik|2MS|3|Hausarbeit (benotet)|
 |**Religionswissenschaft**||**5**||
-|Das Judentum (in seinem Verhältnis zum Christentum)|2Ü|2|Klausur o. Mdl. Prüfung o.<br>HA (ben.) + Teilnahme<br>andereLV|
-|Der Islam (in seinem Verhältnis zum Christentum)|2V/Ü|2||
+|Das Judentum (in seinem Verhältnis zum Christentum)|2Ü|2|Klausur o. Mdl. Prüfung o.<br>HA (ben) + Teilnahme|
+|Der Islam (in seinem Verhältnis zum Christentum)|2V/Ü|2|.<br>andereLV|
 |Grundfragender Religionswissenschaft|1V/Ü|1|Teilnahme|
 
 *Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-(2)[1] Im Bereich **Fachdidaktik** des Unterrichtsfachs sind im Fach Evangelische Religionslehre im Studium des Lehramts an Grund- und Hauptschulen folgende Module abzulegen: 
+(2)<sup>1</sup> Im Bereich **Fachdidaktik** des Unterrichtsfachs sind im Fach Evangelische Religionslehre im Studium des Lehramts an Grund- und Hauptschulen folgende Module <u>abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|
 |**Fachdidaktik 1**|**4**|**5**||
-|Grundfragender Religionspädagogikund–Didaktik I|2V/Ü|5|ein Portfolio zu beiden LV|
+|Grundfragender Religionspädagogikund–Didaktik I|2V/Ü<br>|5|ein Portfolio zu beiden LV|
 |Grundfragender Religionspädagogikund- Didaktik II|2V/Ü|||
 |**Fachdidaktik 2**|**5**|**5**||
-|Fachdidaktisches Seminar: Unterricht|2S|3|HA zur Unterrichts-<br>forschung (benotet)|
+|Fachdidaktisches Seminar: Unterricht|2S<br>|3|HA zur Unterrichts-<br>forschung (benotet)|
 |Hauptthemender Religionsdidaktik|2V/Ü|2|Teilnahme|
 
 *Die höhere Punktezahl ergibt sich, wenn die Prüfungsleistung vorrangig innerhalb dieser LV abgelegt wird. 
 
-2Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion abgelegt wird, bildet es zusammen mit der Begleitveranstaltung das Modul Praktikum, das seine Leistungspunkte aus dem freien Bereich erhält. 
+2Falls das studienbegleitende fachdidaktische Praktikum im Fach Evangelische Religion abgelegt wird, bildet es zusammen mit der Begleitveranstaltung das Modul Praktikum, <u>das seine Leistungspunkte aus dem freien Bereich erhält.</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
 |Pflichtmodul Praktikum|4|5|Unterrichtsentwurf mit<br>Praxisreflexion|
 
-(3) Im Bereich **Fachdidaktik der Fächergruppe** sind im Fach Evangelische Religionslehre im Studium des Lehramts an **Grundschulen** folgende Module abzulegen: 
+(3) Im Bereich **Fachdidaktik der Fächergruppe** sind im Fach Evangelische Religions- <u>lehre im Studium des Lehramts an</u> **<u>Grundschulen</u>** <u>folgende Module abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**<br>**a**|
 |---|---|---|---|
 |Die Bibel, der christliche Glaube und ihre Didaktik|4|5|Klausur und/oder mündl.<br>Prüfung und/oder HA|
 |Fachdidaktik Evang. Religionslehre Grundschule|5|6|Klausur und/oder mündl.<br>Prüfung und/oder HA|
 
-- (4)[1] Im Bereich **Fachdidaktik der Fächergruppe** sind im Fach Evangelische Religionslehre im Studium des Lehramts an **Hauptschulen** folgende Module abzulegen: 
+- (4)<sup>1</sup> Im Bereich **Fachdidaktik der Fächergruppe** sind im Fach Evangelische Religionslehre im Studium des Lehramts an **Hauptschulen** folgende Module abzulegen: 
 
 6 
 
@@ -346,9 +345,9 @@ Bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgen
 |---|---|---|---|
 |Die Bibel, der christliche Glauben und ihre Didaktik|4|5|Klausur und/oder mündl.<br>Prüfung und/oder HA|
 |Theologische Themen für die Sekundarstufe I|4|6|Klausur und/oder mündl.<br>Prüfung und/oder HA|
-|Fachdidaktik Evang. Religionslehre Hauptschule|7|9|Klausur und/oder HA<br>und/oder mündl. Prüfung<br>und<br> Unterrichtsentwurf|
+|Fachdidaktik Evang. Religionslehre Hauptschule<br>|7<br>|9<br>|Klausur und/oder HA<br>und/oder mündl. Prüfung<br>und<br> Unterrichtsentwurf<br>|
 
-2Das studienbegleitende fachdidaktische Praktikum ist in Kombination mit dem Modul „Fachdidaktik Evang. Religionslehre Hauptschule“ im Fach Evangelische Religion erfolgreich abzulegen. 
+<u>2Das studienbegleitende fachdidaktische Praktikum ist in Kombination mit dem Modul</u> „Fachdidaktik Evang. Religionslehre Hauptschule“ im Fach Evangelische Religion erfolgreich abzulegen. 
 
 ## **5. Schluss- und Übergangsvorschriften** 
 

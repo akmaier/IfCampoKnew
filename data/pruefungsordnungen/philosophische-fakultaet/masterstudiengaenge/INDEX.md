@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:38:58+00:00
+scraped_at: 2026-07-01T09:48:22+00:00
 ---
 
 # Masterstudiengänge
@@ -152,13 +152,14 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [FPO MA DH 20250411.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20250411.pdf) | 303 KB |
+| [FPO MA DH 20250411.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20250411.pdf) | 383 KB |
 | [FPO MA DH 20240229 WS 24-25 Aussetzung.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20240229_WS_24-25_Aussetzung.pdf) | 89 KB |
 | [FPO MA DH 20190328.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20190328.pdf) | 511 KB |
 
 | englisch | Dateigröße |
 | --- | --- |
-| [MA Digital Humanities FPO MA DH 20190328 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/MA_Digital_Humanities_FPO_MA_DH_20190328_en.pdf) | 513 KB |
+| [FPO MA DH 20250411 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/FPO_MA_DH_20250411_en.pdf) | 486 KB |
+| [FPO MA DH 20190328 en.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/FPO_MA_DH_20190328_en.pdf) | 513 KB |
 
 ### Digitale Japanstudien
 
@@ -596,7 +597,7 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 
 #### Masterstudiengänge mit eigenständiger Prüfungsordnung
 
-* [Human rights](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#human-rights)
+* [Human Rights](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#human-rights)
 * [Gerontologie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#gerontologie)
 * [Lexicography](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#lexicography)
 * [Physical Acitivity and Health](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#physical-activity)
@@ -606,7 +607,7 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 * [Psychologie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#psychologie)
 * [Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (M.Sc.) (ab WiSe 2022/23)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/#klinische-psychologie)
 
-## Prüfungsordnungen-Dokumente (317)
+## Prüfungsordnungen-Dokumente (318)
 
 - [Aufhebungssatzung The Americas Las Américas 20230615.pdf](aufhebungssatzung-the-americas-las-americas-20230615.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/The_Americas_-_Las_Americas/konsolidierte_Fassungen/Aufhebungssatzung_The Americas_Las Américas_20230615.pdf>
 - [MA The Americas Las Americas FPOAm 20100608 i.d.F. 20210812.pdf](ma-the-americas-las-americas-fpoam-20100608-idf-20210812.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/The_Americas_-_Las_Americas/konsolidierte_Fassungen/MA_The_Americas_Las_Americas_FPOAm_20100608_idF_20210812.pdf>
@@ -689,7 +690,8 @@ Bitte beachten Sie die [Allgemeine Bachelor-/Masterstudien- und Prüfungsordnun
 - [FPO MA DH 20250411.pdf](fpo-ma-dh-20250411.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20250411.pdf>
 - [FPO MA DH 20240229 WS 24-25 Aussetzung.pdf](fpo-ma-dh-20240229-ws-24-25-aussetzung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20240229_WS_24-25_Aussetzung.pdf>
 - [FPO MA DH 20190328.pdf](fpo-ma-dh-20190328.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/konsolidierte_Fassungen/FPO_MA_DH_20190328.pdf>
-- [MA Digital Humanities FPO MA DH 20190328 en.pdf](ma-digital-humanities-fpo-ma-dh-20190328-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/MA_Digital_Humanities_FPO_MA_DH_20190328_en.pdf>
+- [FPO MA DH 20250411 en.pdf](fpo-ma-dh-20250411-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/FPO_MA_DH_20250411_en.pdf>
+- [FPO MA DH 20190328 en.pdf](fpo-ma-dh-20190328-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digital_Humanities/englisch/FPO_MA_DH_20190328_en.pdf>
 - [MA Digitale Japanstudien FPO M.A DIJAS 20210429 i.d.F. 20230426.pdf](ma-digitale-japanstudien-fpo-m-a-dijas-20210429-idf-20230426.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digitale_Japanstudien/konsolidierte_Fassungen/MA_Digitale_Japanstudien_FPO_M.A_DIJAS_20210429_idF_20230426.pdf>
 - [MA Digitale Japanstudien FPO M.A DIJAS 20210429.pdf](ma-digitale-japanstudien-fpo-m-a-dijas-20210429.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digitale_Japanstudien/konsolidierte_Fassungen/MA_Digitale_Japanstudien_FPO_M.A_DIJAS_20210429.pdf>
 - [MSc Digitale Japanstudien MA DIJAS 20230426 ÄS.pdf](msc-digitale-japanstudien-ma-dijas-20230426-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Digitale_Japanstudien/Aenderungssatzungen/MSc_Digitale Japanstudien_MA_DIJAS_20230426_AeS.pdf>

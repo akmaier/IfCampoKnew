@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-PrO-Wipaed.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:01+00:00
-page_count_chars: 1528
+scraped_at: 2026-07-01T10:53:59+00:00
+page_count_chars: 1527
 ---
 
 # 28. Oktober 2002
@@ -12,7 +12,7 @@ page_count_chars: 1528
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AeSa-PrO-Wipaed.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Dritte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 28. Oktober 2002 
 

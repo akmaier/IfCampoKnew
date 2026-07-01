@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-PrO-Int-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:23+00:00
-page_count_chars: 1509
+scraped_at: 2026-07-01T10:55:36+00:00
+page_count_chars: 1508
 ---
 
 # 7. Juli 2005
@@ -12,7 +12,7 @@ page_count_chars: 1509
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AeSa-PrO-Int-VWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Vierte Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 7. Juli 2005 
 

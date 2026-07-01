@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Januar 1991"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:19+00:00
-page_count_chars: 1009
+scraped_at: 2026-07-01T10:50:39+00:00
+page_count_chars: 1008
 ---
 
 # 9. Januar 1991
@@ -12,7 +12,7 @@ page_count_chars: 1009
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-VWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Multiple Choices** 
+# **Multiple Choices** 
 
 The document name you requested ( `/universitaet/ organisation/recht/studiensatzungen/WISO/ Aenderungssatzungen/1AeSa-PrO-VWL.pdf` ) could not be found on this server. However, we found documents with names similar to the one you requested. 
 

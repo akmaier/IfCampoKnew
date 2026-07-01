@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Berufspädagogik und Zusatzstudien"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:58:49+00:00
+scraped_at: 2026-07-01T08:33:21+00:00
 ---
 
 # Berufspädagogik und Zusatzstudien

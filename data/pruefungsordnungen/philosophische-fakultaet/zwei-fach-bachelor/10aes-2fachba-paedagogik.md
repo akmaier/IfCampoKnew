@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AES-2FachBA Paedagogik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:02+00:00
-page_count_chars: 6762
+scraped_at: 2026-07-01T10:27:37+00:00
+page_count_chars: 6477
 ---
 
 # 2. Juli 2015
@@ -12,7 +12,7 @@ page_count_chars: 6762
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AES-2FachBA Paedagogik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 2. Juli 2015 
+# **Zehnte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** Vom 2. Juli 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -44,7 +44,7 @@ Die Fachprüfungs- und Studienordnung für das Fach Pädagogik im Zwei-FachBache
 
 5. § 3 (neu) erhält folgende Fassung: 
 
-   - „[1] Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
+   - „<sup>1</sup> Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung.“ 
 
 6. § 4 (neu) wird wie folgt geändert: 
 
@@ -80,44 +80,41 @@ Die Fachprüfungs- und Studienordnung für das Fach Pädagogik im Zwei-FachBache
 
 9. § 7 (neu) Abs. 2 erhält folgende Fassung: 
 
-   - „[1] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.[2] Die Entscheidung des Prüfungsausschusses ist spätestens vier Wochen vorher bekannt zu geben.“ 
+   - „<sup>1</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.<sup>2</sup> Die Entscheidung des Prüfungsausschusses ist spätestens vier Wochen vorher bekannt zu geben.“ 
 
 10.  Nach § 8 (neu) wird folgende Anlage angefügt: 
 
-## „ **Anlage: Studienverlaufsplan Zwei-Fach-Bachelorstudiengang Pädagogik** 
+## <u>„</u> **<u>Anlage: Studienverlaufsplan Zwei-Fach-Bachelorstudiengang Pädagogik</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Art und Umfang der Prüfung<br>/Sdili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||Punkten1||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|tuenestung||
-|**Einführung in die Pädagogik**|Einführung in die<br>Pädagogik|2||||10|5||||||Portfolioprüfung:<br>Hausarbeit (ca. 10 S.,50%)<br>und Klausur (45 Min., 50%)<br>oder mdl. Prüfung (15 Min.,<br>50%)2|1|
-||Einführung in das<br>pädagogische Sehen<br>und Denken||||2||5||||||||
-|**Pädagogische Grundlagen**|Seminar||||2|10|5||||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)2|1|
-||Seminar||||2|||5|||||||
-|**Historische und**<br>**systematische Grundlagen**<br>**der Pädagogik**|Geschichte der<br>Pädagogik|2||||10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)2|1|
-||Pädagogische<br>Anthropologie|2|||||||5||||||
-|**Pädagogische Forschung I**|Seminar||||2|10||5|||||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30Min.)2|1|
-||Seminar||||2||||5||||||
-|**Pädagogische Arbeitsfelder**|Pädagogische<br>Institutionen und<br>Handlungsfelder|2||||10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)2|1|
-||Pädagogische<br>Handlungsformen||||2||||||5||||
-|**Einführung in pädagogische**<br>**Bereiche**|Seminar||||2|10||||5|||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)2|1|
-||Seminar||||2||||||5||||
-|**Praktikum**|Praktikum|||||10||||7,5|||Hausarbeit (ca. 15. S.)|1|
-||Praxisreflexion||||2||||||2,5||||
-|**Pädagogische Forschung II**|Seminar||||2|||||||5|Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)2|1|
-|||||||10|||||||||
-||Seminar||||2|||||||5|||
-|**Bachelorarbeit**|Begleitseminar||||1|10||||||10|Bachelorarbeit (ca. 40 S.)|1|
-||||||||||||||||
-||Summe:|8|||23|90/70|15|15|10|17,5|12,5|20|||
+|||SWS||Gesamt|Workl|oad-Verteilung<br>|pro Semester in<br><sup>1</sup>|ECTS-|Art und Umfang der Prüfung|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||||Pun|kten||<br>|Modul-|
+|||||ECTS|||||/Studienleistun||
+|||V<br>Ü<br>P|S||1.|2.<br>3.|4.<br>5.|6.|g|note|
+||Einführung in die<br>Pädagogik|2|||5||||Portfolioprüfung:<br>Hausarbeit (ca. 10 S.,50%)||
+|**Einführung in die Pädagogik**|Einführung in das<br>pädagogische Sehen<br>und Denken||2|10|5||||und Klausur (45 Min., 50%)<br>oder mdl. Prüfung (15 Min.,<br>50%)<sup>2</sup>|1|
+||Seminar||2||5||||Hausarbeit (ca. 15 S.) oder||
+|**Pädagogische Grundlagen**|Seminar||2|10||5|||Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)<sup>2</sup>|1|
+|**Historische und**<br>|Geschichte der<br>Pädagogik|2||||5|||Hausarbeit (ca. 15 S.) oder<br>||
+|**systematische Grundlagen**<br>**der Pädagogik**|<br>Pädagogische<br>Anthropologie|2||10||5|||Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)<sup>2</sup>|1|
+||Seminar||2|||5|||Hausarbeit (ca. 15 S.) oder||
+|**Pädagogische Forschung I**|Seminar||2|10||5|||Klausur (90 Min.) oder mdl.<br>Prüfung (30Min.)<sup>2</sup>|1|
+|**Pädagogische Arbeitsfelder**|Pädagogische<br>Institutionen und<br>Handlungsfelder|2||10|||5||Hausarbeit (ca. 15 S.) oder<br>Klausur (90 Min.) oder mdl.<br>|1|
+||Pädagogische<br>Handlungsformen||2||||5||Prüfung (30 Min.)<sup>2</sup>||
+|**Einführung in pädagogische**|Seminar||2||||5||Hausarbeit (ca. 15 S.) oder<br>||
+|<br>**Bereiche**|Seminar||2|10|||5||Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)<sup>2</sup>|1|
+|**Praktikum**|Praktikum|||10|||7,5||Hausarbeit (ca 15 S)|1|
+||Praxisreflexion||2||||2,5||. . .||
+||Seminar||2|||||5|Hausarbeit (ca. 15 S.) oder||
+|**Pädagogische Forschung II**|Seminar||2|10||||5|Klausur (90 Min.) oder mdl.<br>Prüfung (30 Min.)<sup>2</sup>|1|
+|**Bachelorarbeit**|Begleitseminar||1|10||||10|Bachelorarbeit (ca. 40 S.)|1|
+||Summe:|8|23|90/70|15|15<br>10|17,5<br>12,5|20|||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 2 
 
-- Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.   “ 
+Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen.   “ 
 
 **§ 2** 
 

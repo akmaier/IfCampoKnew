@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES%20BA-MA%20Psychologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:19:52+00:00
-page_count_chars: 6176
+scraped_at: 2026-07-01T09:36:33+00:00
+page_count_chars: 5454
 ---
 
 # 11. August 2010
@@ -18,7 +18,7 @@ Vom 11. August 2010
 
 Aufgrund von Art. 13 Abs.1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMStPO/PSL - vom 28. September 2007, zuletzt geändert durch Satzung vom 4. Juni 2010, wird wie folgt geändert: 
 
@@ -28,36 +28,34 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
 „ 
 
-|**Module**|**Lehrveranstaltungen**|**Lehrveranstaltungen**|**ECTS **|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-**<br>**Note**|
-|---|---|---|---|---|---|---|
-|�<br>**Methodenmodule (Pflichtmodule): M 1 und M 2**|||||||
-|**M1**Forschungsmetho-<br>den|VL Multivariate Verfahren||4,5|PL|0,50||
-||VL Evaluationsforschung||4,0|PL|0,50||
-||Sem. Metaanalyse oder<br>Umfrageforschung||3,5|SL|||
-||Sem. Computergestützte<br>Datenauswertung mit<br>multivariaten Verfahren||3,0|SL|||
-||||15,0|||15/105|
-|**M2**Psychologische<br>Diagnostik|VL Psychologische Diagnostik||4,5|PL|1,0||
-||Sem.|Gutachtenerstellung|4,0|SL|||
-||Sem.|Spezielle Diagnostik|4,0|SL|||
-||||12,5|||12,5/105|
-|�<br>**Grundlagenmodule: M 3**||**oder**<br> **M 4 (siehe unten**)**|||||
-|**M3**Grundlagenvertie-<br>fung: Kognitive,<br>motivationale und<br>affektive Prozesse|Sem.|Kognitionspsychologie|4,0|*|||
-||Sem. Motivations- und<br>Emotions-<br>psychologie||4,5|*|||
-||Sem. Sozialpsychologie||4,0|*|||
-||* Leistung: 1||PL + 2 SL nach Wahl||||
-||||12,5|||12,5/105|
-
-|**M4**Grundlagenvertie-<br>fung: Entwicklungs-<br>psychopathologie|VL<br>Entwicklungspsychopathologie<br>|4,5|PL|1,0||
+|**Module**|**Lehrveranstaltungen**|**ECTS **|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**MSc-**<br>**Note**|
 |---|---|---|---|---|---|
-||Sem. Entwicklungspsycho-<br>pathologie I|4,0|SL|||
+|�<br>**Methodenmodule (**<br>|**Pflichtmodule): M 1 und M 2**<br>|||||
+|**M1**Forschungsmetho-<br>|VL Multivariate Verfahren|4,5|PL|0,50||
+|den|VL Evaluationsforschung|4,0|PL|0,50||
+||Sem. Metaanalyse oder<br>Umfrageforschung|3,5|SL|||
+||Sem. Computergestützte<br>Datenauswertung mit<br>multivariaten Verfahren|3,0|SL|||
+|||15,0|||15/105|
+|**M2**Psychologische|VL Psychologische Diagnostik|4,5|PL|1,0||
+|Diagnostik|Sem. Gutachtenerstellung|4,0|SL|||
+||Sem. Spezielle Diagnostik|4,0|SL|||
+|||12,5|||12,5/105|
+|�<br>**Grundlagenmodul**<br>|**e: M 3oder**<br> **M 4 (siehe unten**)**<br>|<br> <br>||||
+|**M3**Grundlagenvertie-<br>|Sem. Kognitionspsychologie|4,0|*|||
+|fung: Kognitive,<br>motivationale und<br>affektive Prozesse|Sem. Motivations- und<br>Emotions-<br>psychologie|4,5|*|||
+||Sem. Sozialpsychologie|40|*|||
+||<br>* Leistung: 1|,<br>PL + 2|<br>SL nach Wah|l||
+|||12,5|||12,5/105|
+
+|**M4**Grundlagenvertie-<br>fung: Entwicklungs-<br>|VL<br>Entwicklungspsychopathologie|4,5|PL|1,0||
+|---|---|---|---|---|---|
+|psychopathologie|Sem. Entwicklungspsycho-<br>pathologie I|4,0|SL|||
 ||Sem. Entwicklungspsycho-<br>pathologie II|4,0|SL|||
 |||12,5|||12,5/105|
 
-## Anmerkung: 
+Anmerkung: 
 
-**PL =** Prüfungsleistung (schriftlich oder mündlich), **SL** = Studienleistung, **MA** = Masterarbeit, **VL** 
-
-= Vorlesung, **Sem** . = Seminar 
+**PL =** Prüfungsleistung (schriftlich oder mündlich), **SL** = Studienleistung, **MA** = Masterarbeit, **VL** = Vorlesung, **Sem** . = Seminar 
 
 - ****** Psychologie im Arbeitsleben: Modul 3, 5 und 6 
 
@@ -67,24 +65,21 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
    - Auf Antrag sind auch andere Kombinationsmöglichkeiten studierbar. 
 
-� **Anwendungsmodule (Wahlpflichtmodule):** entweder M 5 und M 6 **oder** M 7 und M 8 **oder** M 9 und M 10 
-
-|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|�<br>**Anwendungsmodule (Wahlpflichtmodule):**<br>entwederM 5 und M 6<br> **oder** M 7 und M 8<br> **oder** M 9 und M 10|
+|�<br>**Anwendungsmodu**<br>entwederM 5 und M<br>**M5**Arbeits- und<br>Personalpsychologi<br>|**le (Wahlpflichtmodule):**<br>6<br> **oder** M 7 und M 8<br> **oder** M 9 u<br>Sem. Arbeits- und Personal-<br>psychologie I|nd M 10<br>4,5|<br>*|||
 |---|---|---|---|---|---|
-|**M5**Arbeits- und<br>Personalpsychologi<br>e|Sem. Arbeits- und Personal-<br>psychologie I|4,5|*|||
-||Sem. Arbeits- und Personal-<br>psychologie II|4,0|*|||
-||Sem. Arbeits- und Personal-<br>psychologie III|4,0|*|||
-||* Leistung: 1|PL + 2 SL nach Wahl||||
+|e|Sem. Arbeits- und Personal-<br>psychologie II|4,0|*|||
+||Sem. Arbeits- und Personal-<br>|4,0|*|||
+||psychologie III<br>* Leistung: 1|PL + 2|SL nach Wahl|||
 |||12,5|||12,5/105|
-|**M6**Ressourcen,<br>Gesundheit,<br>Wohlbefinden|Sem. Ressourcen, Gesundheit,<br>Wohlbefinden I|4,0|*|||
-||Sem. Ressourcen, Gesundheit,<br>Wohlbefinden II|4,0|*|||
+|**M6**Ressourcen,<br>Gesundheit,<br>|Sem. Ressourcen, Gesundheit,<br>Wohlbefinden I|4,0|*|||
+|Wohlbefinden|Sem. Ressourcen, Gesundheit,<br>Wohlbefinden II|4,0|*|||
 ||Sem. Ressourcen, Gesundheit,<br>Wohlbefinden III|4,5|*|||
-||* Leistung: 1|PL + 2 SL nach Wahl||||
+||<br>* Leistung: 1|PL + 2<br>|SL nach Wahl|||
 |||12,5|||12,5/105|
-|**M7**Klinische<br>Psychologie|Sem. Klinische Psychologie I|4,5|*|||
-||Sem. Klinische Psychologie II|4,0|*|||
+|**M7**Klinische<br>|Sem. Klinische Psychologie I|4,5|*|||
+|Psychologie|Sem. Klinische Psychologie II|4,0|*|||
 ||Sem. Klinische Psychologie III|4,0|*|||
-||* Leistung: 1|PL + 2 SL nach Wahl||||
+||<br>* Leistung: 1|PL + 2|SL nach Wahl|||
 |||12,5|||12,5/105|
 |**M8**Rechtspsychologie|VL Rechtspsychologie|4,5|PL|1,0||
 ||Sem. Rechtspsychologie I|4,0|SL|||
@@ -105,16 +100,16 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
 **PL =** Prüfungsleistung (schriftlich oder mündlich), **SL** = Studienleistung, **MA** = Masterarbeit, **VL** = Vorlesung, **Sem** . = Seminar 
 
-|�<br>**Sonstige Module (Pflichtmodule)**|�<br>**Sonstige Module (Pflichtmodule)**|||||
+|�<br>**Sonstige Module (**<br>|**Pflichtmodule)**<br>|||||
 |---|---|---|---|---|---|
-|**M11**Projektarbeit und<br>Kolloquium|Projektseminar|6,0|SL|||
-||Kolloquium|1,5|SL|||
+|**M11**Projektarbeit und<br>|Projektseminar|6,0|SL|||
+|Kolloquium|Kolloquium|1,5|SL|||
 |||7,5||||
 |**M12**Nebenfach|Vorlesungen/Seminare||PL|1,0||
 |||10|||10/105|
 |**M13**Masterarbeit||30|MA|1,0||
 |||30|||30/105|
-|**M14**Externes||7,5|SL|||
+|**M14**Externes<br>||7,5|SL|||
 |Praktikum||7,5||||
 
 ## Anmerkung: 
@@ -123,7 +118,7 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
 „ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. 
 

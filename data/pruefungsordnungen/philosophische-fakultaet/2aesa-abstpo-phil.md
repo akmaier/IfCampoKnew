@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa_ABStPO_Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:30+00:00
-page_count_chars: 2901
+scraped_at: 2026-07-01T09:28:17+00:00
+page_count_chars: 2916
 ---
 
 # 5. August 2008
@@ -12,11 +12,11 @@ page_count_chars: 2901
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AeSa_ABStPO_Phil.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
 
-## **Zweite Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
 
-## **- ABStPO/Phil -** 
+# **- ABStPO/Phil -** 
 
-## Vom 5. August 2008 
+# Vom 5. August 2008 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -28,7 +28,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 2. In § 4 Abs. 3 wird folgender Satz 4 angefügt: 
 
-„[4] Die Fachprüfungsordnung Informatik kann von den Sätzen 2 und 3 abweichende Regelungen vorsehen. 
+„<sup>4</sup> Die Fachprüfungsordnung Informatik kann von den Sätzen 2 und 3 abweichende Regelungen vorsehen. 
 
 3. § 8 wird wie folgt geändert: 
 
@@ -60,7 +60,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 9. In § 28 Abs. 4 wird folgender Satz 3 angefügt: 
 
-   - „[3] In Kombination mit Politikwissenschaft als erstem Fach kann auch das Fach Öffentliches Recht als Zweitfach studiert werden.“ 
+   - „<sup>3</sup> In Kombination mit Politikwissenschaft als erstem Fach kann auch das Fach Öffentliches Recht als Zweitfach studiert werden.“ 
 
 10. In § 29 Abs.1 Satz 2 wird hinter dem Wort „gewertet“ folgender Halbsatz angefügt: 
 

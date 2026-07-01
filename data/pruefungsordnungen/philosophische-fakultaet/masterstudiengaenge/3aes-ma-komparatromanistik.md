@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "13. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_MA-KomparatRomanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:30:31+00:00
-page_count_chars: 14571
+scraped_at: 2026-07-01T09:43:02+00:00
+page_count_chars: 14155
 ---
 
 # 13. Juni 2014
@@ -12,13 +12,13 @@ page_count_chars: 14571
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_MA-KomparatRomanistik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Komparatistische Romanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOKoRo -** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Komparatistische Romanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOKoRo -** 
 
-Vom 13. Juni 2014 
+# Vom 13. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) in Verbindung mit § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Komparatistische Romanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOKoRo - vom 8. Juni 2010, geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -44,21 +44,21 @@ aa) Satz 2 wird wie folgt geändert:
 
 bb) Satz 3 erhält folgende neue Fassung: 
 
-- „[3] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
+- „<sup>3</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Qualität der fachspezifischen Grundkenntnisse in den Bereichen der Sprach-, Literatur- und Kulturwissenschaft des im BA studierten romanistischen Faches (50 Prozent) 
 
-## 2. Positive Prognose aufgrund steigender Leistungen im bisherigen Studienverlauf (50 Prozent).“ 
+# 2. Positive Prognose aufgrund steigender Leistungen im bisherigen Studienverlauf (50 Prozent).“ 
 
-## 3. § 3 wird wie folgt geändert: 
+# 3. § 3 wird wie folgt geändert: 
 
-## a) Abs. 1 und 2 erhalten folgende neue Fassung: 
+# a) Abs. 1 und 2 erhalten folgende neue Fassung: 
 
 „(1) Im Studium der Komparatistischen Romanistik sind ein einführendes übergreifendes Modul, ein literaturwissenschaftliches Modul, ein sprachwissenschaftliches Modul, ein Importmodul zum Kulturund Sprachvergleich sowie ein vertiefendes Wahlpflichtmodul in Literatur- oder Sprachwissenschaft (50 oder 40 ECTS-Punkte aus dem fachwissenschaftlichen Bereich) gemäß Abs. 2, ferner drei sprachpraktische Module (30 ECTS-Punkte aus dem sprachpraktischen Bereich) gemäß Abs. 3, ein Projektmodul Kultur- und Sprachkontakt (10 ECTS-Punkte) gemäß Abs. 2 sowie das Modul Masterarbeit (30 ECTS-Punkte) gemäß Abs. 5 abzulegen. 
 
-(2) 1Im fachwissenschaftlichen Studium ist im ersten Fachsemester das Einführungsmodul „Romanistik komparativ“ (Modul 1) zu belegen.[2] In den Folgesemestern werden ein literaturwissenschaftliches Modul mit einem Schwerpunkt entweder in französischer, italienischer oder spanischer Literatur (Modul 5) sowie ein sprachwissenschaftliches Modul in französischer, italienischer oder spanischer Sprachwissenschaft (Modul 6) belegt.[3] Im Anschluss werden ein vertiefendes Wahlpflichtmodul in Literatur- oder Sprachwissenschaft (Modul 8) und ein Projektmodul Kultur- und Sprachkontakt (Modul 9) belegt.“ 
+(2) 1Im fachwissenschaftlichen Studium ist im ersten Fachsemester das Einführungsmodul „Romanistik komparativ“ (Modul 1) zu belegen.<sup>2</sup> In den Folgesemestern werden ein literaturwissenschaftliches Modul mit einem Schwerpunkt entweder in französischer, italienischer oder spanischer Literatur (Modul 5) sowie ein sprachwissenschaftliches Modul in französischer, italienischer oder spanischer Sprachwissenschaft (Modul 6) belegt.<sup>3</sup> Im Anschluss werden ein vertiefendes Wahlpflichtmodul in Literatur- oder Sprachwissenschaft (Modul 8) und ein Projektmodul Kultur- und Sprachkontakt (Modul 9) belegt.“ 
 
-## b) Der Klammerzusatz in Abs. 3 Satz 2 erhält folgende neue Fassung: 
+# b) Der Klammerzusatz in Abs. 3 Satz 2 erhält folgende neue Fassung: 
 
 „(Sprache B und C; Modul 7)“ 
 
@@ -66,143 +66,138 @@ bb) Satz 3 erhält folgende neue Fassung:
 
 - d) In Abs. 5 (neu) werden die Worte „zu dem nach Abs. 2 Satz 3 gewählten Schwerpunktbereich“ gestrichen. 
 
-## 4. Die Tabelle in Anlage 1 erhält folgende neue Fassung: 
+# 4. Die Tabelle in Anlage 1 erhält folgende neue Fassung: 
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Workload-Verteilung pro Semester in ECTS-<br>Punkten|Art und Umfang der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||||||||Punkten|||||
-||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Modul 1: Romanistik komparativ**|Transkulturelle Ansätze der<br>Literatur- und<br>Kulturwissenschaft||||2|10|5||||Portfolioprüfung:<br>Klausur 90‘ und<br>Hausarbeit ca. 20 000 Zeichen|1|
-||Traditionen des<br>Sprachvergleichs||||||||||||
-||||||2||5||||||
-|**Modul 2: Kultur- und**<br>**Sprachvergleich**|Importmodul, in der Regel<br>2 LV mit insgesamt 4 SWS||||4|10||10|||je nach Festlegungen im Importfach|1|
-|**Wahlpflichtmodul 3a**<br>**(Sprache A)**|Frz. Sprachpraxis 5||8|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 3b**<br>**(Sprache A)**|It. Sprachpraxis 5||8|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 3c**<br>**(Sprache A)**|Span. Sprachpraxis 6||8|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|Franz. Sprachpraxis 1, 2, 3, 4<br>oder 5||8/6|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|It. Sprachpraxis 1, 2, 3, 4 oder<br>5||8/6|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|Span. Sprachpraxis 1, 2, 3, 4, 5<br>oder 6||8/6|||10|10||||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 5a**<br>**französische Literatur- und**<br>**Kulturwissenschaft**|HS||||2|10||8|||Seminararbeit ca. 40 000 Zeichen|1|
-||VL/S|2||||||2|||||
-|**Wahlpflichtmodul 5b**<br>**italienische Literatur- und**<br>**Kulturwissenschaft**|HS||||2|10||8|||Seminararbeit ca. 40 000 Zeichen|1|
-||VL/S|2||||||2|||||
-|**Wahlpflichtmodul 5c**<br>**spanische/lateinamerikanische**<br>**Literatur- und Kulturwissenschaft**|HS||||2|10||8|||Seminararbeit ca. 40 000 Zeichen|1|
-||VL/S|2||||||2|||||
-|**Wahlpflichtmodul 6a**<br>**französische Sprachwissenschaft**|HS||||2|10||8|||Seminararbeit ca. 40 000 Zeichen|1|
-||VL/S|2||||||2|||||
-|**Wahlpflichtmodul 6b**|HS||||2|||8|||||
-|**italienische Sprachwissenschaft**|VL/S|2||||10||2|||Seminararbeit ca. 40 000 Zeichen|1|
-|**Wahlpflichtmodul 6c**<br>**spanische Sprachwissenschaft**|HS||||2|10||8|||Seminararbeit ca. 40 000 Zeichen|1|
-||VL/S|2||||||2|||||
+|||SWS||Gesamt|Workloa|d-Verteilung pro Semester|in ECTS-|Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Mdlbih|Lhtlt|||||Pkt|At d Uf d Püf||
+|ouezecnung|erveransaung|||||unen|r un mang er rung||
+|||V<br>Ü|P<br>S|ECTS|1.|2.<br>3.|4.|Modulnote|
+|**Modul 1: Romanistik komparativ**|Transkulturelle Ansätze der<br>Literatur- und<br>Kulturwissenschaft||2|10|5||Portfolioprüfung:<br>Klausur 90‘ und|1|
+||Traditionen des<br>Sprachvergleichs||2||5||Hausarbeit ca. 20 000 Zeichen||
+|**Modul 2: Kultur- und**<br>**Sprachvergleich**|Importmodul, in der Regel<br>2 LV mit insgesamt 4 SWS||4|10||10|je nach Festlegungen im Importfach|1|
+|**Wahlpflichtmodul 3a**<br>**(Sprache A)**|Frz. Sprachpraxis 5|8||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 3b**<br>**(Sprache A)**|It. Sprachpraxis 5|8||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 3c**<br>**(Sprache A)**|Span. Sprachpraxis 6|8||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|Franz. Sprachpraxis 1, 2, 3, 4<br>oder 5|8/6||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|It. Sprachpraxis 1, 2, 3, 4 oder<br>5|8/6||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 4a**<br>**(Sprache B)**|Span. Sprachpraxis 1, 2, 3, 4, 5<br>oder 6|8/6||10|10||Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 5a**<br>|HS||2|||8|||
+|**französische Literatur- und**||||10|||Seminararbeit ca. 40 000 Zeichen|1|
+|**Kulturwissenschaft**|VL/S|2||||2|||
+|**Wahlpflichtmodul 5b**<br>|HS||2|||8|||
+|**italienische Literatur- und**<br>**Kulturwissenschaft**|VL/S|2||10||2|Seminararbeit ca. 40 000 Zeichen|1|
+|**Wahlpflichtmodul 5c**<br>**spanische/lateinamerikanische**|HS||2|10||8|Seminararbeit ca. 40 000 Zeichen|1|
+|**Literatur- und Kulturwissenschaft**|VL/S|2||||2|||
+|**Wahlpflichtmodul 6a**|HS||2|10||8|Seminararbeit ca 40 000 Zeichen|1|
+|**französische Sprachwissenschaft**|VL/S|2||||2|.||
+|**Wahlpflichtmodul 6b**|HS||2|||8|||
+|<br>**italienische Sprachwissenschaft**|VL/S|2||10||2|Seminararbeit ca. 40 000 Zeichen|1|
+|**Wahlpflichtmodul 6c**<br>**spanische Sprachwissenschaft**|HS<br>VL/S|2|2|10||8<br>2|Seminararbeit ca. 40 000 Zeichen|1|
 
-|**Wahlpflichtmodul 7a Sprachpraxis**<br>**(Sprache B)**|Franz. Sprachpraxis 2, 3, 4<br>oder 5||6/8|||10||(10)|(10)||Prüfung gemäß Anlage 2|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Wahlpflichtmodul 7b Sprachpraxis**<br>**(Sprache B)**|It. Sprachpraxis 2, 3, 4 oder 5||6/8|||10||(10)|(10)||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 7c Sprachpraxis**<br>**(Sprache B)**|Span. Sprachpraxis 2, 3, 4<br>oder 5||6/8|||10||(10)|(10)||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 7d Sprachpraxis**<br>**(Sprache C)**|Basismodul Sprachpraxis||6|||10||(10)|(10)||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 7e Sprachpraxis**<br>**(Sprache C)**|Optionsmodul Sprachpraxis||6|||10||(10)|(10)||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 8a:**<br>**Vertiefungsmodul Literatur-/**<br>**Kultur- und Sprachwissenschaft**|Hauptseminar Literatur- oder<br>Sprachwissenschaft||||2|10|||4||Mündliche Präsentation 30‘ und<br>Mitschrift/Kolloquium|1|
-||Oberseminar /<br>Forschungskolloquium||||2||||6||||
-|**Wahlpflichtmodul 8b:**<br>**Vertiefungsmodul  Sprachpraxis**<br>**(Sprache B)**|Franz. / Sp. / It. Sprachpraxis<br>3, 4 oder 5||6/8|||10|||10||Prüfung gemäß Anlage 2|1|
-|**Wahlpflichtmodul 8c:**<br>**Vertiefungsmodul Sprachpraxis**<br>**(Sprache C)**|Franz. /Sp. / It. Sprachpraxis<br>2, 3, 4 oder 5||6/8|||10|||10||Prüfung gemäß Anlage 2|1|
-|**Modul 9: Projektmodul Kultur-**<br>**und Sprachkontakt**|Sprach- oder<br>Literaturwissenschaft|||||10|||10||Projektbericht 20 000 Zeichen und<br>mündliche Präsentation 30‘|1|
-|**Masterarbeit**|Masterarbeit|||||30||||30|Masterarbeit (ca. 180 000 Zeichen)|1|
-|Summe:||4|26-32||16|120|30|30|30|30|||
+|**Wahlpflichtmodul 7a Sprachpraxis**<br>**(Sprache B)**|Franz. Sprachpraxis 2, 3, 4<br>oder 5|6/8||10|(10)<br>(10)|Prüfung gemäß Anlage 2|1|
+|---|---|---|---|---|---|---|---|
+|**Wahlpflichtmodul 7b Sprachpraxis**<br>**(Sprache B)**|It. Sprachpraxis 2, 3, 4 oder 5|6/8||10|(10)<br>(10)|Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 7c Sprachpraxis**<br>**(Sprache B)**|Span. Sprachpraxis 2, 3, 4<br>oder 5|6/8||10|(10)<br>(10)|Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 7d Sprachpraxis**<br>**(Sprache C)**|Basismodul Sprachpraxis|6||10|(10)<br>(10)|Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 7e Sprachpraxis**<br>**(Sprache C)**|Optionsmodul Sprachpraxis|6||10|(10)<br>(10)|Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 8a:**<br>**Vrtifnmdl Litrtr-/**|Hauptseminar Literatur- oder<br>Sprachwissenschaft||2|10|4|Mündliche Präsentation 30‘ und|1|
+|**eeugsou eau**<br>**Kultur- und Sprachwissenschaft**|Oberseminar /<br>Forschungskolloquium||2||6|Mitschrift/Kolloquium||
+|**Wahlpflichtmodul 8b:**<br>**Vertiefungsmodul  Sprachpraxis**<br>**(Sprache B)**|Franz. / Sp. / It. Sprachpraxis<br>3, 4 oder 5|6/8||10|10|Prüfung gemäß Anlage 2|1|
+|**Wahlpflichtmodul 8c:**<br>**Vertiefungsmodul Sprachpraxis**<br>**(Sprache C)**|Franz. /Sp. / It. Sprachpraxis<br>2, 3, 4 oder 5|6/8||10|10|Prüfung gemäß Anlage 2|1|
+|**Modul 9: Projektmodul Kultur-**<br>**und Sprachkontakt**|Sprach- oder<br>Literaturwissenschaft|||10|10|Projektbericht 20 000 Zeichen und<br>mündliche Präsentation 30‘|1|
+|**Masterarbeit**<br>Summ|Masterarbeit<br>e:<br>4|<br>26-32|16|30<br>120<br>30|<br>30<br>30|30<br>Masterarbeit (ca. 180 000 Zeichen)<br>30|1|
 
 „ 
 
-## 5. Anlage 2 erhält folgende neue Fassung: 
+# 5. Anlage 2 erhält folgende neue Fassung: 
 
 ## **„Anlage 2: Modulstruktur sprachpraktische Module** 
 
-## **Französisch** 
+### **<u>Französisch</u>** 
 
 - 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung in ECTS-<br>Punkten|Art und Umfang der Prüfung|
-|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||||
-|**Basismodul**<br>**Französische**<br>**Sprachpraxis 1**|Grammaire cours élémentaire I (groupe<br>nominal)||2|||10|4|Grammatikklausur 90‘<br>Test in Wortschatz und Idiomatik 90‘<br>Modulnote = Note der besseren Klausur|
-||Vocabulaire, idiomatique et civilisation I||2||||4||
-||Communication orale||2||||2||
-|**Basismodul**<br>**Französische**<br>**Sprachpraxis 2**|Vocabulaire, idiomatique et civilisation II||2|||10|4|Portfolioprüfung:<br>Grammatikklausur 90‘ (40%),<br>Test in Wortschatz und Idiomatik 90‘ (40%),<br>Aussprachetest ca. 15’ (20%)|
-||Grammaire cours élémentaire II (groupe<br>verbal)||2||||4||
-||Phonétique<br>pratique,<br>orthophonie<br>et<br>intonation||||||||
-||||2||||2||
-||||||||||
-||Expression écrite I||2||||3|Portfolioprüfung:<br>Übersetzung 90‘ (20%),<br>Hörverstehenstest 90‘ (20%),<br>Textproduktion 90‘ (20%),<br>Grammatikklausur 90‘(40%)|
-|**Aufbaumodul**|Compréhension orale||2||||2||
-|**Französische**|Grammaire III||2|||10|2||
-|**Sprachpraxis 3**|Traduction thème (A-F)||2||||3||
-|**Vertiefunsmodul**|Civilisation||2||||5|Portfolioprüfung:<br>mündliche Prüfung 15‘ (50%),<br>Textproduktion 90‘ (30%),<br>Übersetzung90‘(20%)|
-|**g**<br>**Französische**|Expression écrite II||2|||10|3||
-|<br>**Sprachpraxis 4**|Traduction version (F – A)||2||||2||
-|**Abschlussmodul**<br>**Französische**<br>**Sprachpraxis 5**|Traduction thème niveau avancé(A – F)||2|||10|3|Portfolioprüfung:<br>Textproduktion 90‘ (50%),<br>Referat Civilisation 20‘ (0%),<br>Übersetzung 90‘ (20%),<br>Version 90‘ (30%)|
-||Traduction version niveau avancé(F – A)||2||||2||
-||Expression écrite III||2||||3||
-||Französische<br>Kulturwissenschaft<br>und<br>Landeskunde||2||||2||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P<br>S|Gesamt<br>ECTS<br>|Workload-Verteilung in ECTS-<br>Punkten|Art und Umfang der Prüfung|
+|---|---|---|---|---|---|
+|**Basismodul**<br>**Französische**|Grammaire cours élémentaire I (groupe<br>nominal)<br>|2<br>|10|4<br>|Grammatikklausur 90‘<br>Test in Wortschatz und Idiomatik 90‘|
+|<br>**Sprachpraxis 1**|Vocabulaire, idiomatique et civilisation I|2||4|<br>Modulnote = Note der besseren Klausur|
+||Communication orale|2||2||
+||Vocabulaire, idiomatique et civilisation II|2||4|Portfoliorüfun:|
+|**Bidl**|Gi  éléti II||||pg|
+|**assmou**<br>**Französische**|rammare cours menare  (groupe<br>verbal)|2|10|4|Grammatikklausur 90‘ (40%),<br>Test in Wortschatz und Idiomatik 90‘ (40%)|
+|**Sprachpraxis 2**|Phonétiue<br>ratiue<br>orthohonie<br>et||||,|
+||q<br>pq,<br>p<br> <br>intonation|2||2|Aussprachetest ca. 15’ (20%)|
+||Expression écrite I|2||3|Portfolioprüfung:|
+|**Aufbaumodul**|Compréhension orale|2||2|Übersetzung 90‘ (20%),|
+|**Französische**<br>|Grammaire III|2|10|2|Hörverstehenstest 90‘ (20%),<br>|
+|**Sprachpraxis 3**|Traduction thème (A-F)|2||3|Textproduktion 90‘ (20%),<br>Grammatikklausur 90‘(40%)|
+|**Vertiefunsmodul**|Civilisation|2||5|Portfolioprüfung:|
+|**g**<br>**Französische**|Expression écrite II|2|10|3|mündliche Prüfung 15‘ (50%),<br>|
+||||||Textproduktion 90‘ (30%)|
+|**Sprachpraxis 4**|Traduction version (F – A)|2||2|,<br>Übersetzung90‘(20%)|
+||Traduction thème niveau avancé(A – F)|2||3|Portfolioprüfung:|
+|**Abschlussmodul**|Traduction version niveau avancé(F – A)|2||2|Textproduktion 90‘ (50%),|
+|**Französische**|Expression écrite III|2|10|3|Referat Civilisation 20‘ (0%),|
+|**Sprachpraxis 5**|Französische<br>Kulturwissenschaft<br>und<br>Landeskunde|2||2|Übersetzung 90‘ (20%),<br>Version 90‘ (30%)|
 
 - 
 
-## **Italienisch** 
+### **<u>Italienisch</u>** 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|Workload-Verteilung in ECTS-|At d Uf d Püf|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS|Punkten|r un mang er rung|
-|**Basismodul Italienische**<br>**Sprachpraxis 1**|Corso di italiano intermedio I||6|||10|8|Klausur 120‘|
-||Comprensione e produzione orale I||2||||2||
-|**Basismodul Italienische**<br>**Sprachpraxis 2**|Corso di italiano intermedio II||6|||10|8|Klausur 120‘|
-||Foneticapratica||1||||1||
-||Tecniche di lettura||1||||1||
-|**Aufbaumodul Italienische**<br>**Sprachpraxis 3**|Grammatica e stilistica||2|||10|2|Portfolioprüfung:<br>Schriftliche Produktion 90‘ (30 %),<br>Referat 15‘ (30 %),<br>Grammatiktest 60‘ (20 %),<br>Mündliche Prüfung 20‘ (20 %)|
-||Comprensione e produzione orale II||2||||2||
-||Comprensione e produzione scritta||2||||3||
-||Corso introduttivo di cultura e civiltà I||2||||3||
-|**Vertiefungsmodul**<br>**Italienische Sprachpraxis**<br>**4**|Cultura e civiltà II||2|||10|5|Portfolioprüfung:<br>mündliche Prüfung 30‘ (40%),<br>Klausur 90‘ (40%),<br>Übersetzung 90‘ (20%)|
-||L’italiano per il lavoro:<br>_tipologie testuali per il settore umanistico-_<br>_pedagogico_<br>oder<br>_tipologie testuali per il settore socio-_<br>_economico_||2||||3||
-||Traduzione Tedesco-italiano||2||||2||
-|**Abschlussmodul**<br>**Italienische Sprachpraxis**<br>**5**|Grammatica e stilistica – corso superiore<br>diperfezionamento e approfondimento||2|||10|3|Portfolioprüfung:<br>Grammatiktest 90‘ (30%),<br>Übersetzung 90‘ (20%),<br>Klausur 90‘ (30%),<br>Referat 30‘ (20%)|
-||Traduzione Italiano-tedesco||2||||2||
-||Produzione testuale per la preparazione<br>all’esame di stato||2||||3||
-||Italienische<br>Kulturwissenschaft<br>und<br>Landeskunde||2||||2||
+|||SWS|Gesamt|Workload-Verteilung in ECTS-<br>|
+|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung<br>V|<br>Ü<br>P<br>S|ECTS<br>|Punkten<br>Art und Umfang der Prüfung|
+|**Basismodul Italienische**|Corso di italiano intermedio I|6|10|8<br>Klausur 120‘|
+|**Sprachpraxis 1**|Comprensione e produzione orale I|2||<br>2|
+|**Basismodul Italienische**|Corso di italiano intermedio II|6||8|
+|<br>**Sprachpraxis 2**|Foneticapratica|1|10|Klausur 120‘<br>1|
+||Tecniche di lettura|1||1|
+||Grammatica e stilistica|2||2<br>Portfolioprüfung:<br>|
+|**Aufbaumodul Italienische**|Comprensione e produzione orale II|2|10|Schriftliche Produktion 90‘ (30 %),<br>Referat 15‘ (30 %)<br>2|
+|**Sprachpraxis 3**|Comprensione e produzione scritta|2||,<br>Grammatiktest 60‘ (20 %),<br>3|
+||Corso introduttivo di cultura e civiltà I|2||Mündliche Prüfung 20‘ (20 %)<br>3|
+||Cultura e civiltà II|2||5|
+|**Vertiefungsmodul**<br>**Italienische Sprachpraxis**<br>**4**|L’italiano per il lavoro:<br>_tipologie testuali per il settore umanistico-_<br>_pedagogico_<br>oder<br>_tipologie testuali per il settore socio-_<br>_economico_|2|10|Portfolioprüfung:<br>mündliche Prüfung 30‘ (40%),<br>Klausur 90‘ (40%),<br>Übersetzung 90‘ (20%)<br>3|
+||Traduzione Tedesco-italiano|2||2|
+||Grammatica e stilistica – corso superiore<br>diperfezionamento e approfondimento|2||3<br>Portfolioprüfung:|
+|**Abschlussmodul**|Traduzione Italiano-tedesco|2||Grammatiktest 90‘ (30%),<br> <br>2|
+|**Italienische Sprachpraxis**<br>**5**|Produzione testuale per la preparazione<br>all’esame di stato|2|10|Übersetzung 90‘ (20%),<br>Klausur 90‘ (30%),<br> <br>3|
+||Italienische<br>Kulturwissenschaft<br>und<br>Landeskunde|2||Referat 30‘ (20%)<br>2|
 
-## **Spanisch** 
+### **<u>Spanisch</u>** 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|Workload-Verteilung in ECTS-|At d Uf d Püf|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS|Punkten|r un mang er rung|
-|**Basismodul Spanische**<br>**Sprachpraxis 1**|Españo lintermedio I||6|||10|8|Klausur 90‘|
-||Cultura y comunicación oral||2||||2||
-|**Basismodul Spanische**<br>**Sprachpraxis 2**|Español intermedio II||6|||10|8|Portfolioprüfung:<br>Klausur 90‘ (80%),<br>mündl. Prüfung15‘(20%)|
-||Fonética práctica||2||||2||
-|**Aufbaumodul Spanische**<br>**Sprachpraxis 3**|Comprensión oral||2|||10|2|Portfolioprüfung:<br>mündl. Prüfung 15‘ (20 %),<br>Textproduktion 90‘ (50 %),<br>Grammatikklausur 90‘(30 %)|
-||Comprensión y comunicación escrita||2||||5||
-||Gramática y estilística I||2||||3||
-|**Vertiefungsmodul**<br>**Spanische Sprachpraxis**<br>**4**|Cultura española||2|||5|3|Landeskundeklausur 90‘,<br>Übersetzung 90‘<br>Modulnote = bessere Note|
-||Traducción alemán-español||2||||2||
-|**Vertiefungsmodul**<br>**Spanische Sprachpraxis**<br>**5**|Cultura hispanoamericana||2|||5|3|Landeskundeklausur 90‘,<br>Grammatikklausur 90‘<br>Modulnote = Note der besseren Klausur|
-||Gramática y estilística II||2||||2||
-|**Abschlussmodul**<br>**spanische Sprachpraxis**<br>**6**|Producciónescrita||2||||3|Portfolioprüfung:<br>Textproduktion 90‘ (50%),<br>Version 90‘ (50%),<br>Grammatikklausur 90‘ (0%),<br>Referat 20‘ (0%)|
-||Traducción español-alemán||2||||3||
-||Gramática y estilística III||2|||10|2||
-||Spanische<br>Kulturwissenschaft<br>und<br>Landeskunde||||||||
-||||2||||2||
-||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>|Workload-Verteilung in ECTS-<br>Punkten|Art und Umfang der Prüfung|
+|---|---|---|---|---|
+|**Basismodul Spanische**|Españo lintermedio I<br>6|10|8|Klausur 90‘|
+|**Sprachpraxis 1**|Cultura y comunicación oral<br>2||2||
+|**Basismodul Sanische**|Español intermedio II<br>6||8|Portfolioprüfung:|
+|**p**<br>**Sprachpraxis 2**|Fonética práctica<br>2|10|2|Klausur 90‘ (80%),<br>mündl. Prüfung15‘(20%)|
+||Comprensión oral<br>2||2|Portfolioprüfung:<br>‘|
+|**Aufbaumodul Spanische**<br>**Sprachpraxis 3**|Comprensión y comunicación escrita<br>2|10|5|mündl. Prüfung 15 (20 %),<br>Textproduktion 90‘ (50 %),|
+||Gramática y estilística I<br>2||3|<br>Grammatikklausur 90‘(30 %)|
+|**Vertiefungsmodul**<br>**Sih Shi**|Cultura española<br>2||3|Landeskundeklausur 90‘,<br>Ü ‘|
+|**pansce pracpraxs**|<br>|5||bersetzung 90|
+|**4**|Traducción alemán-español<br>2||2|Modulnote = bessere Note|
+|**Vertiefungsmodul**<br>|Cultura hispanoamericana<br>2||3|Landeskundeklausur 90‘,<br>‘|
+|**Spanische Sprachpraxis**||5||Grammatikklausur 90|
+|<br>**5**|Gramática y estilística II<br>2||2|Modulnote = Note der besseren Klausur|
+||Producciónescrita<br>2||3|Portfolioprüfung:|
+|**Abschlussmodul**|Traducción español-alemán<br>2||3|<br>Textproduktion 90‘ (50%),|
+|**spanische Sprachpraxis**<br>|Gramática y estilística III<br>2|10|2|Version 90‘ (50%),<br>‘|
+|**6**|Spanische<br>Kulturwissenschaft<br>und<br>Landeskunde<br>2||2|Grammatikklausur 90 (0%),<br>Referat 20‘ (0%)|
 
 Wahlpflichtmodul: Basismodul Sprachpraxis (Italienisch, Katalanisch, Portugiesisch, Rumänisch, Spanisch) und Optionsmodul Sprachpraxis (Italienisch, Spanisch) 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|Workload-Verteilung in ECTS-|At d Uf d Püf|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS|Punkten|r un mang er rung|
-|**Basismodul Sprachpraxis**|Elementarkurs 1||4|||10|4|nach Maßgabe des Sprachenzentrums|
-||Elementarkurs 2||4||||6||
-|**Optionsmodul**<br>**Sprachpraxis**|Sprachkurs 1||2|||10|3|nach Maßgabe des Sprachenzentrums|
-||Sprachkurs 2||2||||5||
-||Sprachkurs 3||2||||2||
+|Modulbezeichnung<br>Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Gesamt<br>ECTS<br>|Workload-Verteilung in ECTS-<br>Punkten|Art und Umfang der Prüfung|
+|---|---|---|---|---|
+|**Basismodul Srachraxis**<br>Elementarkurs 1|4|10|4|nach Maßabe des Srachenzentrms|
+|**pp**<br>Elementarkurs 2|4||6|g  pu|
+|**Otidl**<br>Sprachkurs 1|2||3||
+|**ponsmou**<br>**Shi**<br>Sprachkurs 2|2|10|5|nach Maßgabe des Sprachenzentrums|
+|**pracpraxs**<br>Sprachkurs 3|2||2||
 
 „ 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Linguistik  FPOLing 20220718 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Linguistik/Aenderungssatzungen/MA_Linguistik__FPOLing_20220718_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:32:26+00:00
-page_count_chars: 3698
+scraped_at: 2026-07-01T09:44:20+00:00
+page_count_chars: 3684
 ---
 
 # MA Linguistik  FPOLing 20220718 ÄS.pdf
@@ -12,23 +12,23 @@ page_count_chars: 3698
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Linguistik/Aenderungssatzungen/MA_Linguistik__FPOLing_20220718_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Linguistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOLing –** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Linguistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOLing –** 
 
-## **Vom 18. Juli 2022** 
+# **Vom 18. Juli 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Linguistik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOLing – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 12. August 2021 wird wie folgt geändert: 
 
-## 1. Nach § 1 wird folgender neuer § 1a eingefügt: 
+1. Nach § 1 wird folgender neuer § 1a eingefügt: 
 
-## „ **§ 1a Zugangskommission zum Masterstudiengang** 
+# „ **§ 1a Zugangskommission zum Masterstudiengang** 
 
-1Die Zugangskommission zum Masterstudiengang Linguistik gemäß § 14 **ABMStPO/Phil** besteht aus drei Mitgliedern der Philosophischen Fakultät und Fachbereich Theologie.[2] Zwei Mitglieder müssen der Gruppe der Hochschullehrerinnen und Hochschullehrer angehören.[3] Das dritte Mitglied wird entweder aus dem Kreis der Hochschullehrerinnen und Hochschullehrer oder aus dem Kreis der wissenschaftlichen und künstlerischen Mitarbeitenden der Philosophischen Fakultät und Fachbereich Theologie der FAU bestellt.[4] Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt die Mitglieder für eine Amtszeit von drei Jahren; eine Wiederwahl ist zulässig.[5] Die Mitglieder wählen aus denen der Zugangskommission zugehörigen Hochschullehrerinnen bzw. Hochschullehrern eine Vorsitzende bzw. einen Vorsitzenden sowie eine stellvertretende Vorsitzende bzw. einen stellvertretenden Vorsitzenden.“ 
+1Die Zugangskommission zum Masterstudiengang Linguistik gemäß § 14 **ABMStPO/Phil** besteht aus drei Mitgliedern der Philosophischen Fakultät und Fachbereich Theologie.<sup>2</sup> Zwei Mitglieder müssen der Gruppe der Hochschullehrerinnen und Hochschullehrer angehören.<sup>3</sup> Das dritte Mitglied wird entweder aus dem Kreis der Hochschullehrerinnen und Hochschullehrer oder aus dem Kreis der wissenschaftlichen und künstlerischen Mitarbeitenden der Philosophischen Fakultät und Fachbereich Theologie der FAU bestellt.<sup>4</sup> Der Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie bestellt die Mitglieder für eine Amtszeit von drei Jahren; eine Wiederwahl ist zulässig.<sup>5</sup> Die Mitglieder wählen aus denen der Zugangskommission zugehörigen Hochschullehrerinnen bzw. Hochschullehrern eine Vorsitzende bzw. einen Vorsitzenden sowie eine stellvertretende Vorsitzende bzw. einen stellvertretenden Vorsitzenden.“ 
 
-## 2. § 2 wird wie folgt geändert: 
+# 2. § 2 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach den Worten „mindestens 60 ECTS-Punkte haben“ ein Komma und die Worte „wovon mindestens 30 ECTS-Punkte aus dem Gebiet der Linguistik stammen müssen“ eingefügt. 
 
@@ -42,9 +42,7 @@ ersetzt sowie nach der Zahl „3,00“ das Wort „nachweisen“ und ein Komma e
 
 3. In § 4 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2023 aufnehmen werden.“ 
-
-**==> picture [20 x 12] intentionally omitted <==**
+„(4)<sup>1</sup> Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2023 aufnehmen werden.“ 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Sommersemester 2023 aufnehmen werden. 
 

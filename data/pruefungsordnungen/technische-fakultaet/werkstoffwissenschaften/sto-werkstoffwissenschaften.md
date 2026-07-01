@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.02.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/StO_Werkstoffwissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:35:31+00:00
-page_count_chars: 21874
+scraped_at: 2026-07-01T11:51:56+00:00
+page_count_chars: 22327
 ---
 
 # PDF vom 02.02.2000
@@ -14,7 +14,7 @@ page_count_chars: 21874
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den Studiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg Vom 2. Februar 2000** (KWMBl II S. 754) 
+# **Studienordnung für den Studiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg Vom 2. Februar 2000** (KWMBl II S. 754) 
 
 Auf Grund von Art. 6 in Verbindung mit Art. 72 Abs. 1 des bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studienordnung: 
 
@@ -30,7 +30,7 @@ Diese Studienordnung regelt auf der Grundlage der Fachprüfungsordnung für den 
 
 ## **§ 2 Studiendauer** 
 
-1Das Studium der Werkstoffwissenschaften setzt sich aus Lehrveranstaltungen im Umfang von 196 Semesterwochenstunden (SWS), verteilt auf acht Semester, zusammen.[2] Hinzu kommen mindestens 12 Wochen für die Ableistung der praktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.[3] Die Studiendauer nach Satz 1, eine gegebenenfalls darüber hinausreichende Prüfungszeit zur Durchführung des letzten Abschnitts der Diplomhauptprüfung, sowie die Regelbearbeitungszeit für die Diplomarbeit, ergeben die Regelstudienzeit im Sinne des Art. 71 Abs. 4 Satz 1 BayHSchG in der derzeit gültigen Fassung. 
+1Das Studium der Werkstoffwissenschaften setzt sich aus Lehrveranstaltungen im Umfang von 196 Semesterwochenstunden (SWS), verteilt auf acht Semester, zusammen.<sup>2</sup> Hinzu kommen mindestens 12 Wochen für die Ableistung der praktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.<sup>3</sup> Die Studiendauer nach Satz 1, eine gegebenenfalls darüber hinausreichende Prüfungszeit zur Durchführung des letzten Abschnitts der Diplomhauptprüfung, sowie die Regelbearbeitungszeit für die Diplomarbeit, ergeben die Regelstudienzeit im Sinne des Art. 71 Abs. 4 Satz 1 BayHSchG in der derzeit gültigen Fassung. 
 
 ## **§ 3 Studienbeginn** 
 
@@ -40,7 +40,7 @@ Diese Studienordnung und der ihr zugrunde liegende Studienplan bauen auf einem S
 
 ## **§ 4 Studienvoraussetzungen** 
 
-1Neben der allgemeinen oder fachgebundenen Hochschulreife sind keine weiteren Voraussetzungen für die Aufnahme des Studiums notwendig.[2 ] Fremdsprachenkenntnisse, insbesondere Kenntnisse der englischen Sprache sind für ein erfolgreiches Studium von hohem Nutzen. 
+1Neben der allgemeinen oder fachgebundenen Hochschulreife sind keine weiteren Voraussetzungen für die Aufnahme des Studiums notwendig.<sup>2</sup> Fremdsprachenkenntnisse, insbesondere Kenntnisse der englischen Sprache sind für ein erfolgreiches Studium von hohem Nutzen. 
 
 ## **§ 5** 
 
@@ -68,27 +68,25 @@ Diese Studienordnung und der ihr zugrunde liegende Studienplan bauen auf einem S
 
 ## **Wesentlicher Inhalt des Studiums** 
 
-(1)[1] Die für das eigentliche Fachstudium erforderliche Wissensgrundlage in Physik, Chemie und Mathematik bildet neben den ingenieurwissenschaftlichen Grundlagen den Hauptgegenstand des Grundstudiums.[2] "Erforderliche Wissensgrundlage" bedeutet dabei nicht nur, dass die später unbedingt notwendigen Kenntnisse angeeignet werden, sondern vielmehr eine im Rahmen der verfügbaren Zeit möglichst breite 
+(1)<sup>1</sup> Die für das eigentliche Fachstudium erforderliche Wissensgrundlage in Physik, Chemie und Mathematik bildet neben den ingenieurwissenschaftlichen Grundlagen den Hauptgegenstand des Grundstudiums.<sup>2</sup> "Erforderliche Wissensgrundlage" bedeutet dabei nicht nur, dass die später unbedingt notwendigen Kenntnisse angeeignet werden, sondern vielmehr eine im Rahmen der verfügbaren Zeit möglichst breite 
 
 2 
 
-und gründliche Ausbildung mit dem Ziel, physikalische, chemische und mathematische Denk- und Arbeitsweisen kennen zu lernen.[3] Es ist dies bei der heutigen dynamischen Entwicklung auch auf dem Gebiet der Werkstoffwissenschaften eine Frage der "Zukunftssicherheit"; die naturwissenschaftliche Allgemeinbildung, die in den ersten zwei Studienjahren erarbeitet wird, soll dabei helfen, die später im Berufsleben auftretenden Entwicklungen schnell und sicher nachvollziehen zu können. 
+und gründliche Ausbildung mit dem Ziel, physikalische, chemische und mathematische Denk- und Arbeitsweisen kennen zu lernen.<sup>3</sup> Es ist dies bei der heutigen dynamischen Entwicklung auch auf dem Gebiet der Werkstoffwissenschaften eine Frage der "Zukunftssicherheit"; die naturwissenschaftliche Allgemeinbildung, die in den ersten zwei Studienjahren erarbeitet wird, soll dabei helfen, die später im Berufsleben auftretenden Entwicklungen schnell und sicher nachvollziehen zu können. 
 
-(2)[1] Im Hauptstudium stehen Lehrveranstaltungen über theoretische, experimentelle und technologische Aspekte der einzelnen Werkstoffgruppen im Vordergrund, ergänzt durch moderne Methoden der Informations- und Kommunikationstechnik und eine auf Ingenieure zugeschnittene Betriebswirtschaftslehre.[2] Während dieser Zeit soll der Student auch an Hand einer Studienarbeit zeigen, dass er eine begrenzte Aufgabe mit wissenschaftlichen Methoden bearbeiten und lösen kann.[3] Nach dem achten Semester ist das Hauptstudium planmäßig abgeschlossen, so dass im neunten Semester die mündliche Diplomhauptprüfung abgelegt werden kann.[4] Als letzter Teil der Diplomhauptprüfung schließt sich die Diplomarbeit an. 
+(2)<sup>1</sup> Im Hauptstudium stehen Lehrveranstaltungen über theoretische, experimentelle und technologische Aspekte der einzelnen Werkstoffgruppen im Vordergrund, ergänzt durch moderne Methoden der Informations- und Kommunikationstechnik und eine auf Ingenieure zugeschnittene Betriebswirtschaftslehre.<sup>2</sup> Während dieser Zeit soll der Student auch an Hand einer Studienarbeit zeigen, dass er eine begrenzte Aufgabe mit wissenschaftlichen Methoden bearbeiten und lösen kann.<sup>3</sup> Nach dem achten Semester ist das Hauptstudium planmäßig abgeschlossen, so dass im neunten Semester die mündliche Diplomhauptprüfung abgelegt werden kann.<sup>4</sup> Als letzter Teil der Diplomhauptprüfung schließt sich die Diplomarbeit an. 
 
 ## **§ 7** 
 
 ## **Aufbau des Studiums, Studienabschnitte, Studieninhalte im einzelnen** 
 
-(1)[1] Das Studium gliedert sich in ein Grundstudium mit einer Dauer von vier Semestern und ein Hauptstudium mit einer Dauer von vier Semestern, an die sich ein Prüfungssemester anschließt, in dem die Einzelprüfungen der Diplomhauptprüfung und die Diplomarbeit abgelegt werden.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein Grundstudium mit einer Dauer von vier Semestern und ein Hauptstudium mit einer Dauer von vier Semestern, an die sich ein Prüfungssemester anschließt, in dem die Einzelprüfungen der Diplomhauptprüfung und die Diplomarbeit abgelegt werden.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
 
-(2)[1] Im Hauptstudium ist von den sieben Studienrichtungen 
+(2)<sup>1</sup> Im Hauptstudium ist von den sieben Studienrichtungen 
 
 I. Allgemeine Werkstoffeigenschaften 
 
-II. Werkstoffkunde und Technologie der Metalle 
-
-III. Glas und Keramik 
+II. Werkstoffkunde und Technologie der Metalle III. Glas und Keramik 
 
 IV. Korrosion und Oberflächentechnik 
 
@@ -98,9 +96,9 @@ VI. Werkstoffe der Elektrotechnik
 
 VII. Mikrocharakterisierung und Werkstoffverhalten 
 
-das Hauptfach und ein erstes Nebenfach zu wählen, letztgenanntes mit einem Umfang von in der Regel 12 bis - 14 SWS.[2] Ein zweites  Nebenfach kann aus dem Gesamtbereich der technisch-naturwissenschaftlichen Fächer gewählt werden.[3] Es soll im Umfang dem ersten  Nebenfach entsprechen.[4] Auch andere Fächer kommen als zweites Nebenfach in Frage, wenn sie mit dem gewählten Hauptfach in sinnvollem Zusammenhang stehen und durch einen Lehrstuhl an der hiesigen Universität vertreten werden.[5] Über einen entsprechenden Antrag entscheidet der Prüfungsausschuss. 
+das Hauptfach und ein erstes Nebenfach zu wählen, letztgenanntes mit einem Umfang von in der Regel 12 bis - 14 SWS.<sup>2</sup> Ein zweites  Nebenfach kann aus dem Gesamtbereich der technisch-naturwissenschaftlichen Fächer gewählt werden.<sup>3</sup> Es soll im Umfang dem ersten  Nebenfach entsprechen.<sup>4</sup> Auch andere Fächer kommen als zweites Nebenfach in Frage, wenn sie mit dem gewählten Hauptfach in sinnvollem Zusammenhang stehen und durch einen Lehrstuhl an der hiesigen Universität vertreten werden.<sup>5</sup> Über einen entsprechenden Antrag entscheidet der Prüfungsausschuss. 
 
-(3)[1] Für das Fach Werkstoffwissenschaften ist eine anerkannte praktische Tätigkeit **(Industriepraktikum)** von insgesamt 12 Wochen bis zur Meldung zur Diplomhauptprüfung nachzuweisen.[2] Sie kann in Abschnitte aufgeteilt werden, die mindestens vier aufeinander folgende Arbeitswochen umfassen.[3] Der im folgenden aufgeführte Ausbildungsplan ist als Empfehlung zu verstehen.[4] Abweichungen hiervon sind statthaft, sofern der angegebene Umfang der Ausbildung nicht wesentlich verändert wird. 5Bei außergewöhnlichen Ausbildungszielen ist es zweckmäßig, die Studienberater vorher zu befragen: 
+(3)<sup>1</sup> Für das Fach Werkstoffwissenschaften ist eine anerkannte praktische Tätigkeit **(Industriepraktikum)** von insgesamt 12 Wochen bis zur Meldung zur Diplomhauptprüfung nachzuweisen.<sup>2</sup> Sie kann in Abschnitte aufgeteilt werden, die mindestens vier aufeinander folgende Arbeitswochen umfassen.<sup>3</sup> Der im folgenden aufgeführte Ausbildungsplan ist als Empfehlung zu verstehen.<sup>4</sup> Abweichungen hiervon sind statthaft, sofern der angegebene Umfang der Ausbildung nicht wesentlich verändert wird. 5Bei außergewöhnlichen Ausbildungszielen ist es zweckmäßig, die Studienberater vorher zu befragen: 
 
 3 
 
@@ -108,9 +106,9 @@ Teil 1: Handwerkliche Verfahren (z.B. Bohren, Drehen, Fräsen) vier Wochen Teil 
 
 Teil 3: Werkstoffprüfung und -abnahme vier Wochen. 
 
-(4)[1] Es ist dem Praktikanten überlassen, an welchem Werkstoff (Metall, Glas, Kunststoff etc.) die Kenntnisse für die Teile 2 und 3 erworben werden.[2] Innerhalb der werkstoffwissenschaftlichen Abschlussrichtungen werden die Industriepraktika gegenseitig anerkannt.[3] Teil 2 und 3 können gegebenenfalls  als Werkstudent abgeleistet werden, jedoch nur fachbezogen und bei Vorlage entsprechender Nachweise (Absatz 6). 
+(4)<sup>1</sup> Es ist dem Praktikanten überlassen, an welchem Werkstoff (Metall, Glas, Kunststoff etc.) die Kenntnisse für die Teile 2 und 3 erworben werden.<sup>2</sup> Innerhalb der werkstoffwissenschaftlichen Abschlussrichtungen werden die Industriepraktika gegenseitig anerkannt.<sup>3</sup> Teil 2 und 3 können gegebenenfalls  als Werkstudent abgeleistet werden, jedoch nur fachbezogen und bei Vorlage entsprechender Nachweise (Absatz 6). 
 
-(5)[1] Das Industriepraktikum kann auch vor Studienbeginn abgeleistet werden.[2] Dies empfiehlt sich besonders für den ersten Teil.[3] Die Teile 2 und 3 sollten dagegen vorzugsweise im Hauptstudium absolviert werden. 
+(5)<sup>1</sup> Das Industriepraktikum kann auch vor Studienbeginn abgeleistet werden.<sup>2</sup> Dies empfiehlt sich besonders für den ersten Teil.<sup>3</sup> Die Teile 2 und 3 sollten dagegen vorzugsweise im Hauptstudium absolviert werden. 
 
 (6) Zum Nachweis der praktischen Tätigkeit sind folgende Unterlagen vorzulegen: 1. Für den ersten Teil des Praktikums ein formales Berichtsheft, wie es in den Betrieben auch für die Lehrlingsausbildung verwendet wird. 
 
@@ -118,9 +116,9 @@ Teil 3: Werkstoffprüfung und -abnahme vier Wochen.
 
 3. Firmenzeugnisse oder -bestätigungen. 
 
-(7)[1] Nach Ableistung der gesamten praktischen Tätigkeit ist deren Anerkennung bei den Studienberatern des jeweiligen Hauptfaches zu beantragen.[2] Diese Anerkennung ist bei der Anmeldung zur Diplom-Hauptprüfung vorzulegen.[3] Eine abgeschlossene Lehre oder andere praktische Tätigkeiten können anstelle des Industriepraktikums anerkannt werden, soweit sie die in diesem geforderten Ausbildungsziele umfassen.[4] Dies ist durch entsprechende, bestätigte Berichte und Zeugnisse nachzuweisen. 
+(7)<sup>1</sup> Nach Ableistung der gesamten praktischen Tätigkeit ist deren Anerkennung bei den Studienberatern des jeweiligen Hauptfaches zu beantragen.<sup>2</sup> Diese Anerkennung ist bei der Anmeldung zur Diplom-Hauptprüfung vorzulegen.<sup>3</sup> Eine abgeschlossene Lehre oder andere praktische Tätigkeiten können anstelle des Industriepraktikums anerkannt werden, soweit sie die in diesem geforderten Ausbildungsziele umfassen.<sup>4</sup> Dies ist durch entsprechende, bestätigte Berichte und Zeugnisse nachzuweisen. 
 
-(8)[1] Für den Studiengang ist von einer **Gesamtsemesterwochenstundenzahl** 
+(8)<sup>1</sup> Für den Studiengang ist von einer **Gesamtsemesterwochenstundenzahl** 
 
 (SWS) von etwa im Grundstudium 100 SWS im Hauptstudium 96 SWS auszugehen. 2Hiervon entfallen im Grundstudium 100 SWS 
 
@@ -214,9 +212,9 @@ Realstruktur der Werkstoffe (Versetzungen und Grenzflächen; Elektronenmikroskop
 
 Betriebswirtschaftslehre, Einführung in die Programmierung für Ingenieure, Theoretische Grundlagen der Werkstoffwissenschaften I und II, Konstruktionslehre. 
 
-(11)[1] Generell gilt für die **Praktika** folgende Regelung: 
+(11)<sup>1</sup> Generell gilt für die **Praktika** folgende Regelung: 
 
-Voraussetzung zum Grundpraktikum ist die bestandene Diplomvorprüfung in den Fächern "Mathematik I + II" und "Werkstoffkunde I + II".[2] Ausnahmen können auf begründeten Antrag des Studenten vom Studienbeauftragten genehmigt werden.[3 ] Voraussetzung zum Fachpraktikum I ist die bestandene Diplomvorprüfung in den Fächern "Mathematik I + II" und "Werkstoffkunde I + II" und die erfolgreiche Teilnahme am Grundpraktikum.[4] Voraussetzung zum Fachpraktikum II der Hauptstudienrichtung ist die bestandene Diplomvorprüfung und die erfolgreiche Teilnahme am Grundpraktikum. 
+Voraussetzung zum Grundpraktikum ist die bestandene Diplomvorprüfung in den Fächern "Mathematik I + II" und "Werkstoffkunde I + II".<sup>2</sup> Ausnahmen können auf begründeten Antrag des Studenten vom Studienbeauftragten genehmigt werden.<sup>3</sup> Voraussetzung zum Fachpraktikum I ist die bestandene Diplomvorprüfung in den Fächern "Mathematik I + II" und "Werkstoffkunde I + II" und die erfolgreiche Teilnahme am Grundpraktikum.<sup>4</sup> Voraussetzung zum Fachpraktikum II der Hauptstudienrichtung ist die bestandene Diplomvorprüfung und die erfolgreiche Teilnahme am Grundpraktikum. 
 
 (12) Voraussetzung für das **Seminar** der Hauptstudienrichtung und des 1. werkstoffwissenschaftlichen Nebenfaches ist die bestandene Diplomvorprüfung. 
 
@@ -226,7 +224,7 @@ Voraussetzung zum Grundpraktikum ist die bestandene Diplomvorprüfung in den Fä
 
 6 
 
-maximal drei Monaten abgeschlossen werden kann.[3] Eine Verlängerung auf maximal vier Monate kann vom Studienbeauftragten oder seinem Vertreter auf Antrag in besonders begründeten Fällen genehmigt werden.[4] Die Bearbeitungszeit ruht, wenn der Student nachweist, dass er krankheitsbedingt an der Bearbeitung gehindert war. 5Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest und benotet die Studienarbeit nach der Notenskala des § 9 Abs. l und 2 DiplPrOTF.[6] Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden.[7] Eine nicht bestandene Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.[8 ] Die Studienarbeit ist von dem Hochschullehrer, der die Arbeit ausgegeben hat, spätestens innerhalb von drei Monaten nach der Abgabe zu bewerten.[9] Bei erfolgreicher Beendigung wird ein Schein ausgefertigt, der Thema, Bearbeitungszeitraum und Note (§ 10 Abs. 1 Satz 1  Nr. 4. der FPrOWW) enthält.[10] Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach dessen Ausgabe zurückgeben.[11] Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.[12] Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen.[13] Die Studienarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
+maximal drei Monaten abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung auf maximal vier Monate kann vom Studienbeauftragten oder seinem Vertreter auf Antrag in besonders begründeten Fällen genehmigt werden.<sup>4</sup> Die Bearbeitungszeit ruht, wenn der Student nachweist, dass er krankheitsbedingt an der Bearbeitung gehindert war. 5Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest und benotet die Studienarbeit nach der Notenskala des § 9 Abs. l und 2 DiplPrOTF.<sup>6</sup> Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden.<sup>7</sup> Eine nicht bestandene Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.<sup>8</sup> Die Studienarbeit ist von dem Hochschullehrer, der die Arbeit ausgegeben hat, spätestens innerhalb von drei Monaten nach der Abgabe zu bewerten.<sup>9</sup> Bei erfolgreicher Beendigung wird ein Schein ausgefertigt, der Thema, Bearbeitungszeitraum und Note (§ 10 Abs. 1 Satz 1  Nr. 4. der FPrOWW) enthält.<sup>10</sup> Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach dessen Ausgabe zurückgeben.<sup>11</sup> Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.<sup>12</sup> Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen.<sup>13</sup> Die Studienarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
 
 ## **§ 8** 
 
@@ -242,19 +240,19 @@ maximal drei Monaten abgeschlossen werden kann.[3] Eine Verlängerung auf maxima
 
 - die Wiederholungsmöglichkeiten 
 
-ergeben sich aus der FPrOWW.[2] Der erste Prüfungsabschnitt der Diplomvorprüfung kann frühestens nach dem zweiten Fachsemester, der zweite Prüfungsabschnitt nach dem vierten Fachsemester abgeschlossen werden.[3] Der Student soll sich so rechtzeitig zur Vorprüfung melden, dass er sie bis zum Beginn der Lehrveranstaltungen des fünften Semesters abschließt.[4] Die Diplomhauptprüfung besteht aus zwei Einzelprüfungen im Hauptfach (zu je 30 Minuten) und aus je einer Einzelprüfung in zwei Nebenfächern (je 30 Minuten) sowie der Diplomarbeit. 
+ergeben sich aus der FPrOWW.<sup>2</sup> Der erste Prüfungsabschnitt der Diplomvorprüfung kann frühestens nach dem zweiten Fachsemester, der zweite Prüfungsabschnitt nach dem vierten Fachsemester abgeschlossen werden.<sup>3</sup> Der Student soll sich so rechtzeitig zur Vorprüfung melden, dass er sie bis zum Beginn der Lehrveranstaltungen des fünften Semesters abschließt.<sup>4</sup> Die Diplomhauptprüfung besteht aus zwei Einzelprüfungen im Hauptfach (zu je 30 Minuten) und aus je einer Einzelprüfung in zwei Nebenfächern (je 30 Minuten) sowie der Diplomarbeit. 
 
 ## **§ 9** 
 
 ## **Anrechenbarkeit von Studienleistungen** 
 
-1Die Anrechenbarkeit von Studienleistungen, Studienzeiten und Prüfungsleistungen richtet sich nach § 6 der **Diplomprüfungsordnung der Technischen Fakultät (DiplPrO TF)** und § 9 der **FPrOWW** .[2] Der Ersatz von Studienleistungen und Scheinen aus dem Bereich der Werkstoffwissenschaften im Hauptstudium durch andere derartige Leistungen ist laut § 10 Abs. 1 Nr. 7 FPrOWW möglich. 
+1Die Anrechenbarkeit von Studienleistungen, Studienzeiten und Prüfungsleistungen richtet sich nach § 6 der **Diplomprüfungsordnung der Technischen Fakultät (DiplPrO TF)** und § 9 der **FPrOWW** .<sup>2</sup> Der Ersatz von Studienleistungen und Scheinen aus dem Bereich der Werkstoffwissenschaften im Hauptstudium durch andere derartige Leistungen ist laut § 10 Abs. 1 Nr. 7 FPrOWW möglich. 
 
 ## **§ 10** 
 
 ## **Studienplan** 
 
-1Auf Grundlage dieser Studienordnung wird ein Studienplan aufgestellt, der die Verteilung der Semesterwochenstunden auf die Lehrveranstaltungsarten regelt und Empfehlungen für den Studienverlauf gibt.[2] Der Studienführer für den Studiengang Werkstoffwissenschaften enthält den Studienplan für das Grundstudium und das Hauptstudium mit der Kennzeichnung von Pflicht-, Wahlpflicht- und Wahlveranstaltungen. 
+1Auf Grundlage dieser Studienordnung wird ein Studienplan aufgestellt, der die Verteilung der Semesterwochenstunden auf die Lehrveranstaltungsarten regelt und Empfehlungen für den Studienverlauf gibt.<sup>2</sup> Der Studienführer für den Studiengang Werkstoffwissenschaften enthält den Studienplan für das Grundstudium und das Hauptstudium mit der Kennzeichnung von Pflicht-, Wahlpflicht- und Wahlveranstaltungen. 
 
 7 
 

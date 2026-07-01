@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Politikwissenschaft FPO B.A. Politik 20210122 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Politikwissenschaft/Aenderungssatzungen/2-Fach-BA_Politikwissenschaft_FPO_B.A._Politik_20210122_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:13+00:00
-page_count_chars: 15704
+scraped_at: 2026-07-01T10:28:33+00:00
+page_count_chars: 14773
 ---
 
 # 2-Fach-BA Politikwissenschaft FPO B.A. Politik 20210122 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 15704
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Politikwissenschaft/Aenderungssatzungen/2-Fach-BA_Politikwissenschaft_FPO_B.A._Politik_20210122_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Zwölfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO B.A. Politik –** 
+# **Zwölfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPO B.A. Politik –** 
 
-## **Vom 22. Januar 2021** 
+# **Vom 22. Januar 2021** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -26,11 +26,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-
 
 2. In § 3 wird in Satz 2 nach den Worten und dem Zeichen „Im Übrigen findet § 31 Abs.“ die Zahl „5“ durch die Zahl „4“ ersetzt. 
 
-## 3. § 4 wird wie folgt geändert: 
+# 3. § 4 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden in Satz 1 nach den Worten „Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach“ die Worte „der **Anlage** “ durch die Worte „den **Anlagen** “ ersetzt. 
 
-## b) Abs. 2 wird wie folgt geändert: 
+# b) Abs. 2 wird wie folgt geändert: 
 
 - aa) In Satz 4 werden nach den Worten „mindestens „Englisch Level 3“ erreicht, muss“ das Wort „stattdessen“ eingefügt und nach den Worten „im Bereich der berufsfeldorientierten Schlüsselqualifikationen“ das Wort „auch“ gestrichen. 
 
@@ -46,11 +46,11 @@ bb) Satz 5 wird wie folgt geändert:
 
 4. § 6 wird wie folgt geändert: 
 
-a) Die bisher einzige Regelung wird zu Abs. 1. 
+   - a) Die bisher einzige Regelung wird zu Abs. 1. 
 
-- b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
+   - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die zwölfte Änderungssatzung tritt am 1.Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(2)<sup>1</sup> Die zwölfte Änderungssatzung tritt am 1.Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 5. Die bisher einzige **Anlage** wird zu **Anlage 1** und wird wie folgt geändert: 
 
@@ -60,55 +60,53 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 2 
 
-„ 
+<u>„</u> 
 
-## b) Die Tabelle erhält samt Erläuterungen folgende neue Fassung: 
+# b) Die Tabelle erhält samt Erläuterungen folgende neue Fassung: 
 
-|Modulbezeichnung|Lehrveranstal-||SWS|SWS||ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||tung|V|Ü|P|S||1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-|**Politikwissenschaft als Erstfach**|||||||||||||||
-|Einführungsmodul|||||||||||||||
-|Einführung in die Politikwissenschaft|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**2**|0|
-||Vorlesung|2||||||2,5|||||||
-|Wissenschaftstheorie und Methodenlehre**3**|||||||||||||||
-|Wissenschaftstheorie & Methodenlehre|Vorlesung|(2)||||(5)|(5)||||||Klausur (90 Min.)|0|
-|Einführung in die soziologische Methodenlehre|Vorlesung|(2)||||(5)||(5)|||||gem. FPO B.A. Soziologie<br>(Ein-Fach)|0|
-|Basismodule|||||||||||||||
-|Politische Systeme I|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**2**|2|
-||Vorlesung|2||||||2,5|||||||
-|Politische Systeme II|Proseminar||||2|5||5|||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
-|Außereuropäische Regionen I|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**2**|2|
-||Vorlesung|2||||||2,5|||||||
-|Außereuropäische Regionen II|Proseminar||||2|5||5|||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
-|Internationale Beziehungen I|Vorlesung|2||||5|||2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**2**|2|
-||Vorlesung|2||||||||2,5|||||
-|Internationale Beziehungen II|Proseminar||||2|5|||5||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
-|Politische Theorie & Ideengeschichte I|Vorlesung|2||||5|||2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**2**|2|
-||Vorlesung|2||||||||2,5|||||
-|Politische Theorie & Ideengeschichte II|Proseminar||||2|5||||5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
-|Vertiefungsmodule4|||||||||||||||
-|Politische Systeme III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Außereuropäische Regionen III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Internationale Beziehungen III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Politische Theorie & Ideengeschichte III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
+||Lehrveranstal-|SWS||Workload-<br>|Verteilung pro Semester<br><sup>1</sup>|in|Art und Umfan|Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|||ECTS||ECTS-Punkten||g<br>d Püf|Modul-|
+||tung|V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.<br>5.|6.|er rung|note|
+|**Politikwissenschaft als Erstfach**<br>Einführungsmodul|||||||||
+|Einführung in die Politikwissenschaft|Vorlesung|2|5|2,5|||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)|0|
+||Vorlesung|2||2,5|||<br>(50 % + 50 %)<sup>**2**</sup>||
+|Wissenschaftstheorie und Methodenlehre<sup>**3**</sup>|||||||||
+|Wissenschaftstheorie & Methodenlehre|Vorlesung|(2)|(5)|(5)|||Klausur (90 Min.)|0|
+|Einführung in die soziologische Methodenlehre|Vorlesung|(2)|(5)|(5)|||gem. FPO B.A. Soziologie<br>EiFh|0|
+|Basismodule|||||||(n-ac)<br>||
+||Vorlesung|2||2,5|||Klausur (180 Min.) oder zwei<br>||
+|Politische Systeme I|||5||||Teilklausuren (je 90 Min.)|2|
+||Vorlesung|2||2,5|||<br>(50 % + 50 %)<sup>**2**</sup>||
+|Politische Systeme II|Proseminar|2|5|5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
+|Aßäih Ri I|Vorlesung|2|5|2,5|||Klausur (180 Min.) oder zwei<br>Tilkl  90 Mi|2|
+|uereuropsce egonen|Vorlesung|2||2,5|||eausuren (je  n.)<br>(50 % + 50 %)<sup>**2**</sup>||
+|Außereuropäische Regionen II|Proseminar|2|5|5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
+|Internationale Beziehunen I|Vorlesung|2|5||2,5||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min)|2|
+|g|Vorlesung|2|||2,5||.<br>(50 % + 50 %)<sup>**2**</sup>||
+|Internationale Beziehungen II|Proseminar|2|5||5||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
+|Politische Theorie & Ideengeschichte I|Vorlesung<br>Vorlesung|2<br>2|5||2,5<br>2,5||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)<sup>**2**</sup>|2|
+|Politische Theorie & Ideengeschichte II|Proseminar|2|5||5||Referat (30 Min.) und Hausarbeit<br>(10-12S)(30%+70%)|1|
+|Vertiefungsmodule<sup>4</sup>|||||||.     <br>Rf  Mi  Hi||
+|Politische Systeme III|Hauptseminar|(2)|(5)||(5)|(5)|eerat (30 n.) und ausarbet<br>(15-20 S.) (30 % +70 %)|2|
+|Außereuropäische Regionen III|Hauptseminar|(2)|(5)||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Internationale Beziehungen III|Hauptseminar|(2)|(5)||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Politische Theorie & Ideengeschichte III|Hauptseminar|(2)|3<br>(5)||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
 
-3 
-
-|Modulbezeichnung|Lehrveranstal-|SWS|SWS|SWS|SWS||Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||tung|V<br>Ü<br>P<br>S||||ECTS|1.|2.|3.|4.|5.|6.|der Prüfung||
-|Menschenrechte und Menschenrechtspolitik|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Mentorat|||||||||||||||
-|Mentorat|Mentorat|||||5|||||(5)|(5)|Schriftliche Leistung (6-8 S.) oder<br>mündlicheLeistung (10-15Min.)**5**|1|
-|Summe:||22|||14|70|7,5-<br>12,5|17,5-<br>22,5|10|10|0-20|0-20|||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||
-|Module des Zweitfachs|vgl. FPO des Zweitfachs|||||70|0-22,5|0-12,5|0-20|0-20|0-30|0-20|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|vgl. §4 Abs. 26|||||30|0-22,5|0-12,5|0-20|0-20|0-30|0-20|6|0|
-|**Bachelorarbeit im Erstfach (Politikwissenschaft)**|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (ca. 40 S.)|2|
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstal-<br>t|SWS<br>|ECTS|Wo|rkload-V<br>E|erteilun<br>CTS-P|g pro S<br>unkten<sup>1</sup>|emester|in|Art und Umfang<br>d Püf|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||ung|V<br>Ü<br>P<br>S||1.|2.|3.|4.|5.|6.|er rung|note|
+|Menschenrechte und Menschenrechtspolitik|Hauptseminar|(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Mentorat||||||||||||
+|Mentorat|Mentorat||5|||||(5)|(5)|Schriftliche Leistung (6-8 S.) oder<br>mündlicheLeistung (10-15Min.)<sup>**5**</sup>|1|
+||Summe:|22<br>14|70|7,5-<br>|17,5-<br>|10|10|0-20|0-20|||
+|**Zweitfach (Kombinationsmöglichkeiten gemäß**<br>|**Anlage 3 ABMStPO**<br>|**/Phil)**<br>||12,5<br>|22,5<br>||<br>|||||
+|Module des Zweitfachs|vgl. FPO|des Zweitfachs|70|0-22,5|0-12,5|0-20|<br>0-20|0-30|0-20|vgl. FPO des Zweitfachs||
+|**Schlüsselqualifikationen**|<br>|<br>||||||||<br>||
+|Schlüsselqualifikationsmodule|vgl.|§4 Abs. 2<sup>6</sup>|30|0-22,5|0-12,5|0-20|<br>0-20|0-30|0-20|6|0|
+|<br>**Bachelorarbeit im Erstfach (Politikwissenscha**|<br>**ft)**|||||||||||
+|Bachelorarbeit|||10||||||10|Bachelorarbeit (ca. 40 S.)|2|
+|Sum|me ECTS-Punkte im Z|wei-Fach-Bachelorstudium|180|30|30|30|30|30|30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -124,59 +122,58 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 4 
 
-## 6. Nach **Anlage 1** (neu) wird folgende neue **Anlage 2** samt Erläuterungen angefügt: 
+# 6. Nach **Anlage 1** (neu) wird folgende neue **Anlage 2** samt Erläuterungen angefügt: 
 
-## „ **Anlage 2: Studienverlaufsplan B.A. Politikwissenschaft als Zweitfach** 
+# <u>„</u> **<u>Anlage 2: Studienverlaufsplan B.A. Politikwissenschaft als Zweitfach</u>** 
 
-|Modulbezeichnung|Lehrveranstal-|SWS|SWS|SWS|||Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||tung|V<br>Ü<br>P|||S|ECTS|1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||
-|Module des Erstfachs2|vgl. FPO des Erstfachs|||||70-90|0-22,5|0-12,5|0-20|0-20|0-30|0-20|vgl. FPO des Erstfachs||
-|**Politikwissenschaft als Zweitfach**|||||||||||||||
-|Einführungsmodul|||||||||||||||
-|Einführung in die Politikwissenschaft|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**3**|0|
-||Vorlesung|2||||||2,5|||||||
-|Wissenschaftstheorie und Methodenlehre**4**|||||||||||||||
-|Wissenschaftstheorie & Methodenlehre|Vorlesung|(2)||||(5)|(5)||||||Klausur (90 Min.)|0|
-|Einführung in die soziologische Methodenlehre|Vorlesung|(2)||||(5)||(5)|||||gem. FPO B.A. Soziologie<br>(Ein-Fach)|0|
-|Basismodule|||||||||||||||
-|Politische Systeme I|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**3**|2|
-||Vorlesung|2||||||2,5|||||||
-|Politische Systeme II|Proseminar||||2|5||5|||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
-|Außereuropäische Regionen I|Vorlesung|2||||5|2,5||||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**3**|2|
-||Vorlesung|2||||||2,5|||||||
-|Außereuropäische Regionen II|Proseminar||||2|5||5|||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
-|Internationale Beziehungen I|Vorlesung|2||||5|||2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**3**|2|
-||Vorlesung|2||||||||2,5|||||
-|Internationale Beziehungen II|Proseminar||||2|5|||5||||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
-|Politische Theorie & Ideengeschichte I|Vorlesung|2||||5|||2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)<br>(50 % + 50 %)**3**|2|
-||Vorlesung|2||||||||2,5|||||
-|Politische Theorie & Ideengeschichte II|Proseminar||||2|5||||5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
-|Vertiefungsmodule5|||||||||||||||
-|Politische Systeme III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
-|Außereuropäische Regionen III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
+||Lhtl|SWS|||Wo|rkload-V<br>|erteilung<br>|pro Semester<br>|in<br>At d Uf|Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|erveransa-<br>|||ECTS||E|CTS-Pu|nkten<sup>1</sup>|r un mang<br>|Modul-|
+||tung|V<br>Ü<br>P|S||1.|2.|3.|4.<br>5.|der Prüfung<br>6.|note|
+|**Erstfach (Kombinationsmöglichkeiten gemäß**|**Anlage 3 ABMStPO/**|<br> <br> <br>**Phil)**||||||<br>|||
+|Module des Erstfachs<sup>2</sup>|vgl. FP|O des Erstfachs||70-90|0-22,5|0-12,5|0-20|0-20<br>0-30|0-20<br>vgl. FPO des Erstfachs||
+|**Politikwissenschaft als Zweitfach**<br>Einführungsmodul|||||||||||
+|Einführun in die Politikwissenschaft|Vorlesung|2||5|2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min)|0|
+|g|Vorlesung|2||||25|||.<br>50 %  50 %<sup>**3**</sup>||
+|Wissenschaftstheorie und Methodenlehre<sup>**4**</sup>||||||,|||(+)||
+|Wissenschaftstheorie & Methodenlehre|Vorlesung|(2)||(5)|(5)||||Klausur (90 Min.)|0|
+|Einführung in die soziologische Methodenlehre|Vorlesung|(2)||(5)||(5)|||gem. FPO B.A. Soziologie<br>(Ein-Fach)|0|
+|Basismodule|||||||||||
+|Politische Systeme I|Vorlesung|2||5|2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min)|2|
+||Vorlesung|2||||2,5|||.<br>(50 % + 50 %)<sup>**3**</sup>||
+|Politische Systeme II|Proseminar||2|5||5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 %+ 70 %)|1|
+|Außereuroäische Reionen I|Vorlesung|2||5|2,5||||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min)|2|
+|p g|Vorlesung|2||||2,5|||.<br>(50 % + 50 %)<sup>**3**</sup>||
+|Außereuropäische Regionen II|Proseminar||2|5||5|||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
+|Internationale Beziehungen I|Vorlesung|2||5|||2,5||Klausur (180 Min.) oder zwei<br>Teilklausuren (je 90 Min.)|2|
+||Vorlesung|2||||||2,5|<br>(50 % + 50 %)<sup>**3**</sup>||
+|Internationale Beziehungen II|Proseminar||2|5|||5||Referat (30 Min.) und Hausarbeit<br>(10-12S.) (30 % +70 %)|1|
+||Vorlesung|2|||||2,5||Klausur (180 Min.) oder zwei<br>||
+|Politische Theorie & Ideengeschichte I|Vorlesung|2||5||||2,5|Teilklausuren (je 90 Min.)<br>(50 % + 50 %)<sup>**3**</sup>|2|
+|Politische Theorie & Ideengeschichte II|Proseminar||2|5||||5|Referat (30 Min.) und Hausarbeit<br>(10-12S)(30%+ 70%)|1|
+|Vertiefungsmodule<sup>5</sup>|||||||||.    <br>||
+|Politische Systeme III|Hauptseminar||(2)|(5)||||(5)|(5)<br>Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
+|Außereuropäische Regionen III|Hauptseminar||(2)|(5)||||(5)|(5)<br>Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 %+ 70 %)|2|
 
 5 
 
-|Modulbezeichnung|Lehrveranstal-|SWS|SWS|SWS|SWS|ET|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||tung|V<br>Ü<br>P<br>S||||CS|1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-|Internationale Beziehungen III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Politische Theorie & Ideengeschichte III|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Menschenrechte und Menschenrechtspolitik|Hauptseminar||||(2)|(5)|||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
-|Mentorat|||||||||||||||
-|Mentorat|Mentorat|||||5|||||(5)|(5)|Schriftliche Leistung (6-8 S.) oder<br>mündlicheLeistung (10-15Min.)**6**|1|
-|Summe:||22|||14|70|7,5-<br>12,5|17,5-<br>22,5|10|10|0-20|0-20|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule||7||||10-30|0-22,5|0-12,5|0-20|0-20|0-30|0-20|7|0|
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl. FPO des Erstfachs|||||10||||||10|vgl. FPO des Erstfachs||
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstal-<br>tun|SWS<br>|ECTS|Wo|rkload-Ve<br>E|rteilung<br>CTS-Pu|pro Semester<br>nkten<sup>1</sup>|in|Art und Umfang<br>der Prüfun|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+||g|V<br>Ü<br>P<br>S||1.|2.|3.|4.<br>5.|6.|g|note|
+|Internationale Beziehungen III|Hauptseminar|(2)|(5)||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Politische Theorie & Ideengeschichte III|Hauptseminar|(2)|(5)||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Menschenrechte und Menschenrechtspolitik|Hauptseminar|(2)|(5)||||(5)|(5)|Referat (30 Min.) und Hausarbeit<br>(15-20 S.) (30 % +70 %)|2|
+|Mentorat|||||||||||
+|Mentorat|Mentorat||5||||(5)|(5)|Schriftliche Leistung (6-8 S.) oder<br>  <sup>**6**</sup>|1|
+||||||||||mündlicheLeistung (10-15Min.)||
+||Summe:|22<br>14|70|7,5-<br>|17,5-<br>|10|10<br>0-20|0-20|||
+|**Schlüsselqualifikationen**||||12,5|22,5||<br>||||
+|Schlüsselqualifikationsmodule||7|10-30|0-22,5|0-12,5|0-20|0-20<br>0-30|0-20|7|0|
+|**Bachelorarbeit im Erstfach**|||||||||||
+|Bachelorarbeit|vgl. FPO|des Erstfachs|10|||||10|vgl. FPO des Erstfachs||
+|Su|mme ECTS-Punkte im Z|wei-Fach-Bachelorstudium|180|30|30|30|30<br>30|30|||
 
-- 1 
-
-   - Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
+- 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
 - 2 Für das Erstfach sind die Regelung der **(Fach-)Prüfungsordnung** des Erstfachs zu berücksichtigen. Bei der hier angegebenen ECTS-Verteilung handelt es sich um Bandbreiten, innerhalb derer das Erstfach spezifischere Regelungen vorsehen kann. 
 
@@ -194,7 +191,7 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am 1.Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1.Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 16. Dezember 2020 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 22. Januar 2021. 
 

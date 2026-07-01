@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20LA-Mathematik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:14:22+00:00
-page_count_chars: 2950
+scraped_at: 2026-07-01T08:42:08+00:00
+page_count_chars: 2945
 ---
 
 # 14. März 2012
@@ -12,13 +12,13 @@ page_count_chars: 2950
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20LA-Mathematik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 14. März 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009, geändert durch Satzung vom 30. Mai 2011, wird wie folgt geändert: 
 
@@ -32,11 +32,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudie
 
 4. Nach § 5 wird folgende neue Nr. 4 eingefügt: 
 
-## **4. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
+# **4. Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services** 
 
-## **§ 6** 
+# **§ 6** 
 
-## **Inhalt, Aufbau und Gliederung des Studiums** 
+# **Inhalt, Aufbau und Gliederung des Studiums** 
 
 Im Rahmen des Teilstudiengangs Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services sind die Module gemäß § 5 Abs. 1 und 2 sowie das fachdidaktische Praktikum im Unterrichtsfach im Umfang von 5 ECTS-Punkten abzulegen.“ 
 

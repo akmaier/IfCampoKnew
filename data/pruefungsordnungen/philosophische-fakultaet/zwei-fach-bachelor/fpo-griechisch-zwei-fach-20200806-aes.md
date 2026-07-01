@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO Griechisch Zwei-Fach 20200806 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Griechische_Philologie/Aenderungssatzungen/FPO_Griechisch_Zwei-Fach_20200806_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:32+00:00
-page_count_chars: 14256
+scraped_at: 2026-07-01T10:19:55+00:00
+page_count_chars: 13663
 ---
 
 # FPO Griechisch Zwei-Fach 20200806 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 14256
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Griechische_Philologie/Aenderungssatzungen/FPO_Griechisch_Zwei-Fach_20200806_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 6. August 2020** 
+# **Vom 6. August 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Griechische Philologie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 4. Februar 2015, wird wie folgt geändert: 
 
@@ -40,11 +40,11 @@ a) Abs. 1 wird wie folgt geändert:
 
 aa) Satz 2 wird wie folgt neu gefasst: 
 
-„[2] Außerdem soll die Basis zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbstständigen Bearbeiten komplexer Probleme gelegt werden.“ 
+„<sup>2</sup> Außerdem soll die Basis zur Befähigung zum eigenständigen wissenschaftlichen Arbeiten und zum selbstständigen Bearbeiten komplexer Probleme gelegt werden.“ 
 
 bb) Satz 3 wird wie folgt neu gefasst: 
 
-„[3] Diese Kompetenzen stellen die Grundlage für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten dar.“ 
+„<sup>3</sup> Diese Kompetenzen stellen die Grundlage für die Ausübung eines breit gefächerten Spektrums beruflicher Tätigkeiten dar.“ 
 
 1 
 
@@ -60,7 +60,7 @@ bb) Satz 3 wird wie folgt neu gefasst:
 
 ee)  Satz 4 erhält folgende neue Fassung: 
 
-„[4] Der Zwei-Fach-Bachelorstudiengang legt einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflektionsfähigkeit zu vermitteln.“ 
+„<sup>4</sup> Der Zwei-Fach-Bachelorstudiengang legt einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflektionsfähigkeit zu vermitteln.“ 
 
 4. In § 3 Satz 2 wird nach dem Wort „findet“ die Paragraphenangabe „§ 31 Abs. 5“ durch die Angabe „§ 31 Abs. 4“ ersetzt. 
 
@@ -92,68 +92,63 @@ a) Die bisher einzige Regelung wird zu Abs. 1.
 
 b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Die neunte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 8. Die **Anlage** wird durch die **Anlagen 1** und **2** mit folgenden neuen Fassungen ersetzt: 
 
 3 
 
-## **„Anlage 1: Griechische Philologie als Erstfach** 
+# **„Anlage 1: Griechische Philologie als Erstfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung<br>|Workload-Verteilung<br>|Workload-Verteilung<br>|Workload-Verteilung<br>||Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||pro Semester in ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach: Griechische Philologie**|||||||||||||||
-|Wahlpflichtmodul I2|Graecum I||6|||10|10||||||Klausur (120 Min.)|0|
-|Wahlpflichtmodul II2, 3|Graecum II||6|||10||10|||||Klausur (120 Min.)|0|
-|Wahlpflichtmodul III2|Griechisch|2||||10|(2)||||||Mdl. Prüfung (20 Min.)|0|
-||Griechisch||||2||(5)||||||||
-||Klassische Archäologie_oder_Alte Geschichte<br>_oder_Antike Philosophie_oder_Neues Testa-<br>ment|2|||||(3)||||||||
-|Wahlpflichtmodul IV2|Einführende Sprachübungen I||4|||10||(6)|||||Klausur (120 Min.)|0|
-||Einführende Sprachübungen II||2|||||(4)|||||||
-|Einführung|Vorlesung Lateinische Philologie_oder_Übung<br>Indogermanistik|(2)|(2)|||5|||(2)|(2)|||Mdl. Prüfung (20 Min.)|1|
-||Einführung in die Nebendisziplinen||2||||||(3)|(3)|||||
-|Sprachübungen I|Sprache Ia||4|||10|||(6)|(6)|||Klausur (120 Min.)|1|
-||Sprache Ib||2||||||(4)|(4)|||||
-|Poesie|Poesie|2||||10|||(4)|(4)|||Klausur (120 Min.) oder<br>Hausarbeit (8-12 S.)4|1|
-||Poesie||||2||||(6)|(6)|||||
-|Prosa|Prosa|2||||10|||(4)|(4)|||Klausur (120 Min.) oder<br>Hausarbeit (8-12 S.)4|1|
-||Prosa||||2||||(6)|(6)|||||
-|Lektüre|Lektüre Poesie||2|||5|||||(2,5)|(2,5)|Klausur (120 Min.)|1|
-||Lektüre Prosa||2||||||||(2,5)|(2,5)|||
-|Sprachübungen II|Sprache IIa||4|||10|||||(6)|(6)|Klausur (120 Min.)|1|
-||Sprache IIb||2||||||||(4)|(4)|||
-|Vertiefung|Prosa / Poesie||||2|10|||||(7)|(7)|Hausarbeit (10-15 S.)|1|
-||Lektüre Neues Testament||2||||||||(3)|(3)|||
-||Summe:|4-<br>10|26-<br>34||6-8|80|10|10|15|20|15|10|||
-|**Zweitfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module desZweitfachs5|vgl. FPO desZweitfachs|||||70|0-20|0-20|0-15|0-10|0-15|0-10|vgl. FPO desZweitfachs||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>||Gesamt<br>ECTS|<br>W<br>pro Sem|orkload<br>ester in|-Verteilung<br>ECTS-Punkten<sup>1</sup>||Art und Umfang<br>der Prüfun|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>|P<br>S||1.<br>2.|3.|4.<br>5.|6.|g|note|
+|**Erstfach: Griechische Philologie**|||||||||||
+|Wahlpflichtmodul I<sup>2</sup>|Graecum I|6||10|10||||Klausur (120 Min.)|0|
+|Wahlpflichtmodul II<sup>2, 3</sup>|Graecum II|6||10|10||||Klausur (120 Min.)|0|
+||Griechisch|2|||(2)||||||
+|<sup>2</sup>|Griechisch||2||(5)||||||
+|Wahlpflichtmodul III|Klassische Archäologie_oder_Alte Geschichte<br>_oder_Antike Philosophie_oder_Neues Testa-<br>ment|2||10|(3)||||Mdl. Prüfung (20 Min.)|0|
+|Whlflihdl IV<sup>2</sup>|Einführende Sprachübungen I|4||10|(6)||||Kl 120 Mi|0|
+|apctmou|Einführende Sprachübungen II|2|||(4)||||ausur ( n.)||
+|Einführung|Vorlesung Lateinische Philologie_oder_Übung<br>Indogermanistik|(2)<br>(2)||5||(2)|(2)||Mdl. Prüfung (20 Min.)|1|
+||Einführung in die Nebendisziplinen|2||||(3)|(3)||||
+|h I|Sprache Ia|4||1||(6)|(6)||Kl 12 Mi|1|
+|Spracübungen|Sprache Ib|2||0||(4)|(4)||ausur (0 n.)||
+|Pi|Poesie|2||10||(4)|(4)||Klausur (120 Min.) oder|1|
+|oese|Poesie||2|||(6)|(6)||Hausarbeit (8-12 S.)<sup>4</sup>||
+|P|Prosa|2||1||(4)|(4)||Klausur (120 Min.) oder|1|
+|rosa|Prosa||2|0||(6)|(6)||Hausarbeit (8-12 S.)<sup>4</sup>||
+||Lektüre Poesie|2|||||(2,5)|(2,5)|||
+|Lektüre|Lektüre Prosa|2||5|||(2,5)|(2,5)|Klausur (120 Min.)|1|
+||Sprache IIa|4|||||(6)|(6)|||
+|Sprachübungen II|Sprache IIb|2||10|||(4)|(4)|Klausur (120 Min.)|1|
+||Prosa / Poesie||2||||(7)|(7)|||
+|Vertiefung|Lektüre Neues Testament|2||10|||(3)|(3)|Hausarbeit (10-15 S.)|1|
+||Summe:|4-<br>10<br>26-<br>34|6-8|80|10<br>10|15|20<br>15|10|||
+|**Zweitfach gemäß Kombinationsmögl**|**ichkeiten nach Anlage 3 ABMStPO/Phil**||||||||||
+|Module desZweitfachs<sup>5</sup>|vgl. FPO desZweitfach|s||70|0-20<br>0-20|0-15|0-10<br>0-15|0-10|vgl. FPO desZweitfa|chs|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS||Workload-Verteilung<br>|Workload-Verteilung<br>|Workload-Verteilung<br>|Workload-Verteilung<br>||Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||pro Semester in ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|6|||||20|0-20|0-20|0-15|0-10|0-15|0-10|6||
-|**Bachelorarbeit im Erstfach (Mittellatein und Neulatein)**|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit(30-40 S.)|1|
-|Summe:||||||10||||||10|||
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung<br>Lehrveranstaltung|SWS<br>V<br>Ü<br>P|Gesamt<br>ECTS<br>S|W<br>pro Sem<br>1.<br>2.|orkload<br>ester in<br>3.|-Verteilung<br>ECTS-Punkten<sup>1</sup><br>4.<br>5.<br>6.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Schlüsselqualifikationen**||||||||
+|Schlüsselqualifikationsmodule|<sup>6</sup>|20|0-20<br>0-20|0-15|0-10<br>0-15<br>0-10|6||
+|**Bachelorarbeit im Erstfach (Mittellatein und Neulatein)**||||||||
+|Bachelorarbeit||10|||10|Bachelorarbeit(30-40 S.)|1|
+||Summe:|10|||10|||
+|SummeECTS-Punkteim Zwei-Fach|-Bachelorstudium:|180|30<br>30|30|30<br>30<br>30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil.** 
 
-- 2 
-
-   - Studierende, die zu Studienbeginn noch nicht über das Graecum verfügen, müssen die Wahlpflichtmodule I und II belegen. Studierende, die zu Studienbeginn bereits über das Graecum verfügen, müssen die Wahlpflichtmodule III und IV belegen. 
+- 2 Studierende, die zu Studienbeginn noch nicht über das Graecum verfügen, müssen die Wahlpflichtmodule I und II belegen. Studierende, die zu Studienbeginn bereits über das Graecum verfügen, müssen die Wahlpflichtmodule III und IV belegen. 
 
 - 3 
 
-   - Teilnahmevoraussetzung ist der erfolgreiche Abschluss des Wahlmoduls I. 
-
 - 4 
+
+   - Teilnahmevoraussetzung ist der erfolgreiche Abschluss des Wahlmoduls I. 
 
    - Die Art der Prüfung in diesem Modul ist abhängig von der Wahl der bzw. des Studierenden. Bezogen auf die Module „Poesie“ und „Prosa“ muss insgesamt einmal die Prüfungsform „Klausur“ und einmal die Prüfungsform „Hausarbeit“ gewählt werden. 
 
@@ -165,46 +160,44 @@ b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt:
 
 5 
 
-## **Anlage 2: Griechische Philologie als Zweitfach** 
+# **Anlage 2: Griechische Philologie als Zweitfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|ECTS|1.|<br>2.|<br>3.|<br>4.|5.|6.|||
-|**Erstfach gemäß Kombinationsmöglichkeiten nach Anlage 3 ABMStPO/Phil**|||||||||||||||
-|Module desErstfachs2|vgl. FPO desErstfachs|||||70-90|0-20|0-20|0-15|0-20|0-25|0-10|vgl. FPO desErstfachs||
-|**Zweitfach: Griechische Philologie**|||||||||||||||
-|Wahlpflichtmodul I3|Graecum I||6|||10|10||||||Klausur (120 Min.)|0|
-|Wahlpflichtmodul II3, 4|Graecum II||6|||10||10|||||Klausur (120 Min.)|0|
-|Wahlpflichtmodul III3|Griechisch|2||||10|(2)||||||Mdl. Prüfung (20 Min.)|0|
-||Griechisch||||2||(5)||||||||
-||Klassische Archäologie_oder_Alte Geschichte<br>_oder_Antike Philosophie_oder_Neues Testa-<br>ment|2|||||(3)||||||||
-|Wahlpflichtmodul IV3|Einführende Sprachübungen I||4|||10||(6)|||||Klausur (120 Min.)|0|
-||Einführende Sprachübungen II||2|||||(4)|||||||
-|Einführung|Vorlesung Lateinische Philologie_oder_Übung<br>Indogermanistik|(2)|(2)|||5|||(2)|(2)|||Mdl. Prüfung (20 Min.)|1|
-||Einführung in die Nebendisziplinen||2||||||(3)|(3)|||||
-|Sprachübungen I|Sprache Ia||4|||10|||(6)|(6)|||Klausur (120 Min.)|1|
-||Sprache Ib||2||||||(4)|(4)|||||
-|Poesie|Poesie|2||||10|||(4)|(4)|||Klausur (120 Min.) oder<br>Hausarbeit (8-12 S.)5|1|
-||Poesie||||2||||(6)|(6)|||||
-|Prosa|Prosa|2||||10|||(4)|(4)|||Klausur (120 Min.) oder<br>Hausarbeit (8-12 S.)5|1|
-||Prosa||||2||||(6)|(6)|||||
-|Lektüre|Lektüre Poesie||2|||5|||||(2,5)|(2,5)|Klausur (120 Min.)|1|
-||Lektüre Prosa||2||||||||(2,5)|(2,5)|||
-|Vertiefung|Prosa / Poesie||||2|10|||||(7)|(7)|Hausarbeit (10-15 S.)|1|
-||Lektüre Neues Testament||2||||||||(3)|(3)|||
-||Summe:|4-<br>10|20-<br>28||6-8|70|10|10|15|20|5|10|||
-|**Schlüsselqualifikationen (10-30 ECTS**|||||||||||||||
-|Schlüsselqualifikationsmodule|6bzw. Regelungender FPO desErstfachs|||||10-30|0-10|0-10|0-10|0-10|0-10|0-10|6||
-|**Bachelorarbeit im Erstfach**|||||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>||Gesamt<br>ECTS|Workload-<br>pro Semester in|Verteilung<br>ECTS-Punkten<sup>1</sup>||Art und Umfang<br>der Prüfn|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|<br>S||1<br>2<br>3|4<br>5|6|ug|note|
+|**Erstfach gemäß Kombinationsmöglichk**|**eiten nach Anlage 3 ABMStPO/Phil**|<br><br>|<br>||.<br>.<br>.|.<br>.|.|||
+|Module desErstfachs<sup>2</sup>|vgl. FPO desErstfach|s||70-90|0-20<br>0-20<br>0-15|0-20<br>0-25|0-10|vgl. FPO desErstfa|chs|
+|**Zweitfach: Griechische Philologie**<br>||||||||||
+|Wahlpflichtmodul I<sup>3</sup>|Graecum I|6||10|10|||Klausur (120 Min.)|0|
+|Wahlpflichtmodul II<sup>3, 4</sup>|Graecum II|6||10|10|||Klausur (120 Min.)|0|
+||Griechisch|2|||(2)|||||
+|Wahlflichtmodul III<sup>3</sup>|Griechisch||2|10|(5)|||Mdl Prüfun (20 Min)|0|
+|p|Klassische Archäologie_oder_Alte Geschichte<br>_oder_Antike Philosophie_oder_Neues Testa-<br>ment|2|||(3)|||. g  .||
+|Whlflihtdl IV<sup>3</sup>|Einführende Sprachübungen I|4||10|(6)|||Kl 120 Mi|0|
+|apcmou|Einführende Sprachübungen II|2|||(4)|||ausur ( n.)||
+|Einführung|Vorlesung Lateinische Philologie_oder_Übung<br>Indogermanistik|(2)<br>(2)||5|(2)|(2)||Mdl. Prüfung (20 Min.)|1|
+||Einführung in die Nebendisziplinen|2|||(3)|(3)||||
+|Srachübunen I|Sprache Ia|4||10|(6)|(6)||Klausur (120 Min.)|1|
+|pg|Sprache Ib|2|||(4)|(4)||||
+|Poesie|Poesie|2||10|(4)|(4)||Klausur (120 Min.) oder<br>|1|
+||Poesie||2||(6)|(6)||Hausarbeit (8-12 S.)<sup>5</sup>||
+|P|Prosa|2||10|(4)|(4)||Klausur (120 Min.) oder|1|
+|rosa|Prosa||2||(6)|(6)||Hausarbeit (8-12 S.)<sup>5</sup>||
+||Lektüre Poesie|2||||(2,5)|(2,5)|||
+|Lektüre|Lektüre Prosa|2||5||(2,5)|(2,5)|Klausur (120 Min.)|1|
+|Vtif|Prosa / Poesie||2|10||(7)|(7)|Hausarbeit (10-15 S.)|1|
+|ereung|Lektüre Neues Testament|2||||(3)|(3)|||
+||Summe:|4-<br>10<br>20-<br>28|6-8|70|10<br>10<br>15|20<br>5|10|||
+|**Schlüsselqualifikationen (10-30 ECTS**||||||||||
+|Schlüsselqualifikationsmodule|6bzw. Regelungender FPO des|Erstfachs||10-30|0-10<br>0-10<br>0-10|0-10<br>0-10|0-10|6||
+|**Bachelorarbeit im Erstfach**||||||||||
 
 6 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>||Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Workload-Verteilung<br>proSemester in ECTS-Punkten1|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S|ECTS|1.|<br>2.|<br>3.|<br>4.|5.|6.|||
-|Bachelorarbeit|vgl. FPO des Erstfachs|||||10||||||10|Bachelorarbeit(30-40 S.)|1|
-|Summe:||||||10||||||10|||
-|SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P<br>|Gesamt<br>ECTS<br>S|<br>Workload-Verteilung<br>pro Semester in ECTS-Punkten<sup>1</sup><br>1.<br>2.<br>3.<br>4.<br>5.|6.|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|Bachelorarbeit|vgl. FPO des Erstfachs||10||10|Bachelorarbeit(30-40 S.)|1|
+||Summe:<br>SummeECTS-Punkteim Zwei-Fach-Bachelorstudium:||10<br>180|30<br>30<br>30<br>30<br>30|10<br>30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** 
 

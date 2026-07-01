@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:46:53+00:00
+scraped_at: 2026-07-01T08:23:42+00:00
 ---
 
 # International Production Engineering and Management (B.Sc.)
@@ -39,7 +39,7 @@ Genau hier setzt der Studiengang IP an und vermittelt Kenntnisse des klassischen
 
 Im Laufe des Studiums lernst Du vielfältige und abwechslungsreiche Themen kennen, zum Beispiel technische Mechanik, Konstruktionslehre, „Production Technology“, Werkstoffkunde, aber auch Inhalte aus dem Bereich des Managements wie etwa „Supply Chain Management“ oder „Global Operations Strategy“.
 
-### Bachelor of Science International Production Engineering and Management
+### Fachanteile des Studiengangs International Production Engineering and Management (B.Sc.)
 
 * Maschinenbau (55%)
 * Mathematik (16%)

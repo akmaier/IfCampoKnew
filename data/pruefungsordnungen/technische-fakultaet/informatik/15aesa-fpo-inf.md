@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/15AeSa-FPO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:07+00:00
-page_count_chars: 3398
+scraped_at: 2026-07-01T11:38:14+00:00
+page_count_chars: 3444
 ---
 
 # 24. Oktober 2002
@@ -12,7 +12,7 @@ page_count_chars: 3398
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/15AeSa-FPO-Inf.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Fünfzehnte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
+# **Fünfzehnte Satzung zur Änderung der Fachprüfungsordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg** 
 
 Vom 24. Oktober 2002 
 
@@ -30,13 +30,13 @@ Die Fachprüfungsordnung für den Studiengang Informatik der Universität Erlang
 
 b) Es wird folgender Absatz 8 angefügt: 
 
-„(8)[1] Es kann der Studienschwerpunkt Informatik in der Medizin gewählt werden. 2Dazu muss eines der Fächer Mustererkennung, Datenbanksysteme oder Graphische Datenverarbeitung als Schwerpunktfach und eines der Fächer Grundlagen der Medizin, Medizinische Informationsverarbeitung oder Physiologie als Nebenfach gemäß Absatz 3 gewählt werden.[3] Darüber hinaus kann der Prüfungsausschuss im Einzelfall eine Kombination der in Satz 2 genannten Nebenfächer mit einem anderen Schwerpunktfach gestatten.[4] Das im Grundstudium gewählte Wahlpflichtfach gemäß Absatz 4 muss mit dem gewählten Nebenfach übereinstimmen.“ 
+„(8)<sup>1</sup> Es kann der Studienschwerpunkt Informatik in der Medizin gewählt werden. 2Dazu muss eines der Fächer Mustererkennung, Datenbanksysteme oder Graphische Datenverarbeitung als Schwerpunktfach und eines der Fächer Grundlagen der Medizin, Medizinische Informationsverarbeitung oder Physiologie als Nebenfach gemäß Absatz 3 gewählt werden.<sup>3</sup> Darüber hinaus kann der Prüfungsausschuss im Einzelfall eine Kombination der in Satz 2 genannten Nebenfächer mit einem anderen Schwerpunktfach gestatten.<sup>4</sup> Das im Grundstudium gewählte Wahlpflichtfach gemäß Absatz 4 muss mit dem gewählten Nebenfach übereinstimmen.“ 
 
-## 3. In § 13 wird folgender Absatz angefügt: 
+3. In § 13 wird folgender Absatz angefügt: 
 
 „(3) Bei der Wahl des Studienschwerpunktes Informatik in der Medizin muss die Diplomarbeit ein Thema aus dem Bereich des gewählten Schwerpunktfachs behandeln.“ 
 
-## 4. In § 14 wird folgender Absatz angefügt: 
+4. In § 14 wird folgender Absatz angefügt: 
 
 „(3) Wird das Studium im Studienschwerpunkt Informatik in der Medizin erfolgreich abgeschlossen, wird dies im Zeugnis vermerkt.“ 
 
@@ -46,11 +46,11 @@ b) Es wird folgender Absatz 8 angefügt:
 
 a) Das Wort "Betriebswirtschaftslehre" wird durch das Wort "Betriebswirtschaft" ersetzt. 
 
-b) Es wird nach der Zeile „Ausnahme: Betriebswirtschaft und Maschinenbau...“ die Zeile „Ausnahme: Elektrotechnik, Elektronik und Informationstechnik“ mit Prüfungsart „schriftlich“ und Dauer „60-90[1)] “ eingefügt. 
+b) Es wird nach der Zeile „Ausnahme: Betriebswirtschaft und Maschinenbau...“ die Zeile „Ausnahme: Elektrotechnik, Elektronik und Informationstechnik“ mit Prüfungsart „schriftlich“ und Dauer „60-90<sup>1)</sup> “ eingefügt. 
 
-c) Die Fußnote[1) ] erhält folgende Fassung: 
+c) Die Fußnote<sup>1)</sup> erhält folgende Fassung: 
 
-„[1)] Die Dauer der Prüfung hängt vom gewählten Modell ab und ist durch § 7 der Fachprüfungsordnung für den wissenschaftlichen Studiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg vom 12. Januar 2000 (KWMBl II S. 719) in der jeweils geltenden Fassung geregelt.“ 
+„<sup>1)</sup> Die Dauer der Prüfung hängt vom gewählten Modell ab und ist durch § 7 der Fachprüfungsordnung für den wissenschaftlichen Studiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg vom 12. Januar 2000 (KWMBl II S. 719) in der jeweils geltenden Fassung geregelt.“ 
 
 ## **§ 2** 
 

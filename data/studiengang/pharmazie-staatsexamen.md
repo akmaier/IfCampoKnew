@@ -7,7 +7,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
-scraped_at: 2026-05-01T06:49:52+00:00
+scraped_at: 2026-07-01T08:26:45+00:00
 ---
 
 # Pharmazie (Staatsexamen)

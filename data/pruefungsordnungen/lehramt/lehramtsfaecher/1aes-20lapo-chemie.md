@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Chemie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:01:49+00:00
-page_count_chars: 5393
+scraped_at: 2026-07-01T08:35:15+00:00
+page_count_chars: 5389
 ---
 
 # 1. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 5393
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Chemie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Dezember 2009 
+# Vom 1. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengang an der Universität Erlangen-Nürnberg vom 9. März 2009 wird wie folgt geändert: 
 
@@ -34,17 +34,19 @@ Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengan
 
 - b) In Zeile 3 Spalte 5 werden die Worte und Zahlen „Referat: 50%“ und „Klausur: 50%“ durch die Worte und Zahlen „Mündlich oder Schriftlich: 100%“ ersetzt. 
 
-## 3. In § 4 Abs. 1 wird die Tabelle wie folgt geändert: 
+# 3. In § 4 Abs. 1 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 2 Spalte 5 werden die Zahlen „6/15“ durch die Zahlen „5/15“, die Zahlen „3/15“ durch die Zahlen „2/15“ und die Zahlen „1/15“ durch die Zahlen „3/15“ ersetzt und jeweils nach dem Wort „schriftlich“ die Zahlen „1“ und „2“ gestrichen. 
 
 - b) In Zeile 4 Spalte 5 wird die Zeile „Mündlich oder Schriftlich 1: 3/10“ gestrichen und die Zeile „Mündlich oder Schriftlich 2: 2/10“ durch die Zeile „Mündlich oder Schriftlich: 5/10“ ersetzt. 
 
-4. In § 4 Abs. 3 Satz 1 wird die Tabelle wie folgt geändert: 
+# 4. In § 4 Abs. 3 Satz 1 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 2 Spalte 1 werden die Zahlen und das Zeichen „3+4“ durch das Wort und die Zahl „ab 1“ ersetzt. 
 
-- b) In Zeile 3 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. c) In Zeile 3 Spalte 5 werden die Worte und Zahlen „Referat: 30%“ und „Klausur: 70%“ durch die Worte und Zahlen „Mündlich oder Schriftlich: 100%“ ersetzt. 
+- b) In Zeile 3 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. 
+
+- c) In Zeile 3 Spalte 5 werden die Worte und Zahlen „Referat: 30%“ und „Klausur: 70%“ durch die Worte und Zahlen „Mündlich oder Schriftlich: 100%“ ersetzt. 
 
 - d) In Zeile 4 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. 
 
@@ -58,7 +60,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengan
 
 - d) In Zeile 4 Spalte 5 wird nach dem Wort „schriftlich“ die Zahl „1“ gestrichen. 
 
-## 6. In § 5 Abs. 3 wird die Tabelle wie folgt geändert: 
+# 6. In § 5 Abs. 3 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 2 Spalte 1 werden die Zahlen und das Zeichen „3+4“ durch das Wort und die Zahl „ab 1“ ersetzt. 
 
@@ -68,7 +70,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengan
 
 - d) In Zeile 4 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. 
 
-## 7. In § 5 Abs. 4 wird die Tabelle wie folgt geändert: 
+# 7. In § 5 Abs. 4 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 2 Spalte 1 werden das Zeichen und die Zahlen „3+4“ durch das Wort und die Zahl „ab 1“ ersetzt. 
 
@@ -78,7 +80,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengan
 
 - d) In Zeile 4 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. 
 
-## 8. In § 5 Abs. 6 wird die Tabelle wie folgt geändert: 
+8. In § 5 Abs. 6 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 2 Spalte 1 werden das Zeichen und die Zahlen „3+4“ durch das Wort und die Zahl „ab 1“ ersetzt. 
 
@@ -88,7 +90,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Chemie im Lehramtsstudiengan
 
 - d) In Zeile 4 Spalte 1 wird die Zahl „4“ durch die Zahl „2“ ersetzt. 
 
-## 9. In § 5 Abs. 7 wird die Tabelle wie folgt geändert: 
+# 9. In § 5 Abs. 7 wird die Tabelle wie folgt geändert: 
 
 - a) In Zeile 3 Spalte 1 werden das Zeichen und die Zahlen „3+4“ durch das Wort und die Zahl „ab 1“ ersetzt. 
 

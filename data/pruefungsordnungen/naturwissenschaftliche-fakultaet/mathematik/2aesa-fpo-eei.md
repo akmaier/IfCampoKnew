@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-FPO-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:55:14+00:00
-page_count_chars: 6063
+scraped_at: 2026-07-01T09:19:45+00:00
+page_count_chars: 5863
 ---
 
 # 4. November 2003
@@ -12,9 +12,9 @@ page_count_chars: 6063
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-FPO-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-**Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
 
-## Vom 12. November 2001 
+# Vom 12. November 2001 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -24,7 +24,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
 1. § 3 Abs. 1 Satz 5 erhält folgende Fassung: 
 
-"[5] Dabei werden für bestandene Prüfungen bzw. Teilprüfungen Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen bzw. erste Wiederholungsteilprüfungen entsprechend viele Maluspunkte vergeben." 
+"<sup>5</sup> Dabei werden für bestandene Prüfungen bzw. Teilprüfungen Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen bzw. erste Wiederholungsteilprüfungen entsprechend viele Maluspunkte vergeben." 
 
 2. § 8 Abs. 6 wird wie folgt geändert: 
 
@@ -50,11 +50,11 @@ a) In Satz 1 wird die Zahl „30“ durch die Zahl „35“ ersetzt. b) Satz 2 w
 
 1 
 
-## 6. Die Buchstaben A, B, C, E und F der **Anlage 2** erhalten folgende Fassung: 
+# 6. Die Buchstaben A, B, C, E und F der **Anlage 2** erhalten folgende Fassung: 
 
-|„||||||||
+|„<br>**_Diplomhauptprüfung_**|**_Verteil_**<br>**_Semes_**<br>|**_ung der_**<br>**_ter des_**|**_SWS ü_**<br>**_Haup_**|**_ber die_**<br>**_tstudi-_**|**_Prüfungs-_**<br>**_dauer_**<br>|**Zahl**<br>**_Leistungs_**<br>|**der**<br>**_-  Malus-_**<br>|
 |---|---|---|---|---|---|---|---|
-|**_Diplomhauptprüfung_**|**_Verteilung der SWS über die_**<br>**_Semester des Hauptstudi-_**<br>**_ums_**||||**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**Zahl der**<br>**_Leistungs-  Malus-_**<br>**_punktepunkte_**||
+||**_ums_**||||**_in Minuten _**|**_punkte_**|**_punkte_**|
 ||5.|6.|7.|8.||||
 |I. Pflichtfächer der Studienrichtungen||||||||
 |**A) Allgemeine Elektrotechnik**||||||||
@@ -90,7 +90,7 @@ a) In Satz 1 wird die Zahl „30“ durch die Zahl „35“ ersetzt. b) Satz 2 w
 
 2 
 
-|**_Diplomhauptprüfung_**|**_Verteilung der SWS über die_**<br>**_Semester des Hauptstudi-_**<br>**_ums_**|**_Verteilung der SWS über die_**<br>**_Semester des Hauptstudi-_**<br>**_ums_**|**_Verteilung der SWS über die_**<br>**_Semester des Hauptstudi-_**<br>**_ums_**|**_Verteilung der SWS über die_**<br>**_Semester des Hauptstudi-_**<br>**_ums_**|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten_**|**_Zahl der_**<br>**_Leistungs-   Malus-_**<br>**_punkte        punkte_**|**_Zahl der_**<br>**_Leistungs-   Malus-_**<br>**_punkte        punkte_**|
+|**_Diplomhauptprüfung_**|**_Vertei_**<br>**_Seme_**<br>**_ums_**|**_lung der_**<br>**_ster des_**|**_SWS ü_**<br>**_Haup_**|**_ber die_**<br>**_tstudi-_**|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten_**|**_Zahl_**<br>**_Leistungs_**<br>**_punkte_**|**_der_**<br>**_-   Malus-_**<br>**_punkte_**|
 |---|---|---|---|---|---|---|---|
 ||5.|6.|7.|8.||||
 |**E) Mikroelektronik**||||||||
@@ -107,17 +107,14 @@ a) In Satz 1 wird die Zahl „30“ durch die Zahl „35“ ersetzt. b) Satz 2 w
 |1. Passive Bauelemente und deren<br>HF-Verhalten|2+2||||60|4|4|
 |2. Regelungstechnik|2+2||||60|4|4|
 |3. Elektromagnetische Felder II|2+1||||60|3|3|
-|4. wahlweise entweder<br>4.1. Signalübertragung und<br>-verarbeitung oder<br>4.2 folgende Pflichtfächer:<br>4.2.1. Nachrichtenübertragung<br>4.2.2. Digitale Signalverarbeitung||||||||
-|||2+2|||60|4|4|
-|||||||||
-||4+2||||90|6|6|
-|||4+2|||90|6|6|
-|5. weitere frei wählbare Pflichtfächer<br>entsprechend der Differenz bis zur<br>Summe je Studienrichtung||||||||
-||||||||"|
+|4. wahlweise entweder||||||||
+|4.1. Signalübertragung und<br>-verarbeitung oder||2+2|||60|4|4|
+|4.2 folgende Pflichtfächer:||||||||
+|4.2.1. Nachrichtenübertragung|4+2||||90|6|6|
+|4.2.2. Digitale Signalverarbeitung||4+2|||90|6|6|
+|5. weitere frei wählbare Pflichtfächer<br>entsprechend der Differenz bis zur<br>Summe je Studienrichtung||§ 2|||||"|
 
-§ 2 
-
-## Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 25. Juli 2001 und der Genehmigung des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst mit Schreiben vom 24.10.2001 Nr. X/4-5e69eX-10b/36 104. 
 

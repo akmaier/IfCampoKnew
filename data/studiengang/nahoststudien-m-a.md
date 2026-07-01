@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie, Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:49:25+00:00
+scraped_at: 2026-07-01T08:26:17+00:00
 ---
 
 # Nahoststudien (M.A.)
@@ -130,14 +130,14 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.nahost.studium.fau.de/studium/modulhandbuecher/)
+* [Modulhandbuch](https://www.orientalistik.phil.fau.de/studium/studiengaenge/)
 * [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/phil/masterstudiengaenge/#nahoststudien)
 
 Weitere Informationen
 
-* [Webseite des Studiengangs](https://www.nahost.studium.fau.de/)
+* [Webseite des Studiengangs](https://www.fau.de/studiengang/nahoststudien-m-a/)
 * [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
-* [Webseite des Departments/Instituts](https://www.nahost.studium.fau.de/ueber-uns/beteiligte-institutionen-der-fau/)
+* [Webseite des Departments/Instituts](https://www.orientalistik.phil.fau.de/)
 * [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/), [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 * [Studierendenvertretung der FAU](https://stuve.fau.de/)
 
@@ -158,11 +158,11 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.nahost.studium.fau.de/studium/modulhandbuecher/)
+- [Modulhandbuch](https://www.orientalistik.phil.fau.de/studium/studiengaenge/)
 - [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/phil/masterstudiengaenge/#nahoststudien)
-- [Webseite des Studiengangs](https://www.nahost.studium.fau.de/)
+- [Webseite des Studiengangs](https://www.fau.de/studiengang/nahoststudien-m-a/)
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
-- [Webseite des Departments/Instituts](https://www.nahost.studium.fau.de/ueber-uns/beteiligte-institutionen-der-fau/)
+- [Webseite des Departments/Instituts](https://www.orientalistik.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Rechts- und Wirtschaftswissenschaftliche Fakultät](https://www.rw.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)

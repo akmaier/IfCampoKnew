@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 22.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_KultGeo.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:03:56+00:00
-page_count_chars: 8511
+scraped_at: 2026-07-01T10:23:04+00:00
+page_count_chars: 8192
 ---
 
 # PDF vom 05.10.2007 i.d.F. 22.07.2014
@@ -16,7 +16,7 @@ page_count_chars: 8511
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Kulturgeographie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -42,9 +42,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Das Fach kann als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 15 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
+(1)<sup>1</sup> Im Fach Kulturgeographie erwerben die Studierenden grundlegende Fachkenntnisse und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Das Fach kann als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 15 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (3) Das Studium der Kulturgeographie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden dazu befähigt, sich an der Identifizierung, Analyse, Diskussion und Lösung raumbezogener gesell- 
 
@@ -106,7 +106,7 @@ Bewusster, sorgfältiger und differenzierter Umgang mit Sprache in den verschied
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -140,29 +140,26 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 ## **Anlage: Studienverlaufsplan Bachelor Kulturgeographie** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prü-<br>f/Stdilit|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|unguenesung||
-|**GZB 1:**<br>**Grundlagen der KG I**|Grundvorlesung KG I|2||||5|5||||||Klausur (45 Min.)|1|
-|**GZB 2:**<br>**Grundlagen der KG II**|Grundvorlesung KG II|2||||5||5|||||Klausur (45 Min.)|1|
-|**GZB 3:**<br>**Seminar KG mit Geländetag**|Seminar KG + Geländetag||||2|5||5|||||Portfolioprüfung:<br>Kurz-Referat (10 Min.) mit schriftlicher<br>Ausarbeitung (5 Seiten) und Protokoll<br>(5-6 Seiten)|1|
-|**GZB 4:**<br>**Grundlagen der PG I**|Grundvorlesung PG I|2||||5|5||||||Klausur (45 Min.)|1|
-|**GZB 5:**<br>**Grundlagen der PG II**|Grundvorlesung PG II|2||||5||5|||||Klausur (45 Min.)|1|
-|**GZB 6:**<br>**Seminar PG mit Geländetag**|Seminar PG + Geländetag||||2|5||5|||||Portfolioprüfung:<br>Kurz-Referat (10 Min.) mit schriftlicher<br>Ausarbeitung (5 Seiten) und Protokoll<br>(5-6 Seiten)|1|
-|**GZB 7:**<br>**Kartographie und Geoinformation**|Vorlesung Kartographie und Geoinformation|2||||5|||5||||SL: Hausaufgaben|0|
-|**GZB 8:**<br>**Qualitative und Quantitative Methoden**|Vorlesung Qualitative und Quantitative Methoden|2||||5|||5||||Hausaufgaben (max. 15 Übungsauf-<br>gaben)|1|
-|**GZB 9:**<br>**Geländepraktikum**|Geländepraktikum|||2||5||||5|||SL: Hausaufgaben|0|
-|**GZB 10:**<br>**Methoden der Geographie**|VorlesungGIS und Fernerkundung|2||||10||||3|||Portfolioprüfung: Klausur (45 Min.) und<br>Hausaufgaben (max. 25 Übungsauf-<br>gaben)|1|
-||Seminar Empirische Sozialforschung||||2||||||4||||
-||Seminar GIS und Fernerkundung||||2||||||3||||
-|**GZB 11:**<br>**KG vertieft**|Hauptseminar KG||||2|5|||3||||SL: Schriftliche Vor- und Nachberei-<br>tung|0|
-||Kleines Geländeseminar (3 Tage)|||||||||2|||||
-|**GZB 12:**<br>**Spezielle Themenfelder der KG und**<br>**der Regionalen Geographie**|Vorlesung KG vertieft oder regionale Geographie|2||||10|||||4||SL: Portfolioprüfung: Hausaufgaben<br>oder Klausur (45 Min.) und<br>Diskussion (30 Min.)|0|
-||Vorlesung KG vertieft oder regionale Geographie4|2||||||||||4|||
-||Kolloquium KG|||||||||||2|||
-|**GZB 13:**<br>**Bachelorarbeit**||||||15||||||15|Bachelorarbeit (50 Seiten, 100 %)<br>und Verteidigung (0%)|2|
-||Summe:||||||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|Work<br>1.|load<br>i<br>2.|-Verteilung p<br>n ECTS-Punk<br>3.<br>4.|ro Semester<br>ten<sup>1</sup><br>5.<br>6.|Art und Umfang der Prü-<br>fung/Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+|**GZB 1:**<br>**Grundlagen der KG I**|Grundvorlesung KG I<br>2||5|5||||Klausur (45 Min.)|1|
+|**GZB 2:**<br>**Grundlagen der KG II**|Grundvorlesung KG II<br>2||5||5|||Klausur (45 Min.)|1|
+|**GZB 3:**<br>**Seminar KG mit Geländetag**|Seminar KG + Geländetag|2|5||5|||Portfolioprüfung:<br>Kurz-Referat (10 Min.) mit schriftlicher<br>Ausarbeitung (5 Seiten) und Protokoll<br>(5-6 Seiten)|1|
+|**GZB 4:**<br>**Grundlagen der PG I**|Grundvorlesung PG I<br>2||5|5||||Klausur (45 Min.)|1|
+|**GZB 5:**<br>**Grundlagen der PG II**|Grundvorlesung PG II<br>2||5||5|||Klausur (45 Min.)|1|
+|**GZB 6:**<br>**Seminar PG mit Geländetag**|Seminar PG + Geländetag|2|5||5|||Portfolioprüfung:<br>Kurz-Referat (10 Min.) mit schriftlicher<br>Ausarbeitung (5 Seiten) und Protokoll<br>(5-6 Seiten)|1|
+|**GZB 7:**<br>**Kartographie und Geoinformation**|Vorlesung Kartographie und Geoinformation<br>2||5|||5||SL: Hausaufgaben|0|
+|**GZB 8:**<br>**Qualitative und Quantitative Methoden**|Vorlesung Qualitative und Quantitative Methoden<br>2||5|||5||Hausaufgaben (max. 15 Übungsauf-<br>gaben)|1|
+|**GZB 9:**<br>**Geländepraktikum**|Geländepraktikum|2|5|||5||SL: Hausaufgaben|0|
+|**GZB 10**|VorlesungGIS und Fernerkundung<br>2|||||3||Portfolioprüfung: Klausur (45 Min.) und||
+|**:**<br>**Methoden der Geographie**|Seminar Empirische Sozialforschung|2|10||||4|Hausaufgaben (max. 25 Übungsauf-<br>|1|
+||Seminar GIS und Fernerkundung|2|||||3|gaben)||
+|**GZB 11:**|Hauptseminar KG|2||||3||SL: Schriftliche Vor- und Nachberei-||
+|**KG vertieft**|Kleines Geländeseminar (3 Tage)||5|||2||tung|0|
+|**GZB 12:**|Vorlesung KG vertieft oder regionale Geographie<br>2||||||4|SL: Portfolioprüfung: Hausaufgaben||
+|**Spezielle Themenfelder der KG und**<br>|Vorlesung KG vertieft oder regionale Geographie4<br>2||10||||4|<br>oder Klausur (45 Min.) und|0|
+|**der Regionalen Geographie**|Kolloquium KG||||||2|Diskussion (30 Min.)||
+|**GZB 13:**<br>**Bachelorarbeit**|Summe:||15||||15|Bachelorarbeit (50 Seiten, 100 %)<br>und Verteidigung (0%)|2|
 
 > 1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 

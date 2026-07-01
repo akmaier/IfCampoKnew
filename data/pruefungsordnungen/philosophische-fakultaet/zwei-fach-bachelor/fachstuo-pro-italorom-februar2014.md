@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 17.02.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_ItaloRom.FEBRUAR2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:02:32+00:00
-page_count_chars: 11624
+scraped_at: 2026-07-01T10:22:11+00:00
+page_count_chars: 11667
 ---
 
 # PDF vom 04.10.2007 i.d.F. 17.02.2014
@@ -16,7 +16,7 @@ page_count_chars: 11624
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -42,7 +42,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Italoromanistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Fach Italoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im italienischsprachigen Kulturraum vermittelt.[2] In der Auseinandersetzung mit der italienischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit italienischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der italienischen Kultur.[4] Vor 
+(2)<sup>1</sup> Im Fach Italoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im italienischsprachigen Kulturraum vermittelt.<sup>2</sup> In der Auseinandersetzung mit der italienischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit italienischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der italienischen Kultur.<sup>4</sup> Vor 
 
 1 
 
@@ -50,11 +50,11 @@ dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolvente
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
+- (1)<sup>1</sup> Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Er ist in drei Phasen gegliedert, in denen folgende Qualifikationen erworben werden: 
 
 1. In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Sprach- und Literaturwissenschaft und vertiefen ihre sprachpraktischen Kenntnisse, indem sie einführende Veranstaltungen besuchen (Basismodule). 
 
@@ -64,7 +64,7 @@ dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolvente
 
 2 
 
-(2)[1] Im Studium Italoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+(2)<sup>1</sup> Im Studium Italoromanistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Italienische Sprachpraxis 1-4; Einführung in die Italoromanistik; Italienische Sprachwissenschaft 1; Italienische Literatur- und Kulturwissenschaft 1; Bachelorarbeit 
 
@@ -74,51 +74,44 @@ dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolvente
 
 2Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
 
-|**Sem.1**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
 |---|---|---|---|---|---|---|
-|1|**Basismodul Italienische**<br>**Sprachpraxis 1**|Corso di italiano intermedio I|6|8|K 90’|1,0|
-|||Comprensione e produzione<br>orale I|2|2|SL||
-|||||**10**|||
-|2|**Basismodul Italienische**<br>**Sprachpraxis** **2**|Corso di italiano intermedio II|6|8|K 90’|1,0|
-|||Fonetica descrittiva|1|1|SL||
+|1|**Basismodul Italienische**|Corso di italiano intermedio I|6|8|K 90’|1,0|
+||**Sprachpraxis 1**|Comprensione e produzione<br>orale I|2|2<br>**10**|SL||
+|||Corso di italiano intermedio II|6|<br>8|K 90’|1,0|
+|2|**Basismodul Italienische**<br>**Sprachpraxis** **2**|Fonetica descrittiva|1|1|SL||
 |||Fonetica pratica|1|1|SL||
-|||||**10**|||
-|1 / 2|**Basismodul Einführung**<br>**in die Italoromanistik**|Einführung in die italienische<br>Sprachwissenschaft|2|4|K 90’|0,5|
-|||Einführung in die italienische<br>Literaturwissenschaft|3|6|K 90’|0,5|
-|||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Italienische Sprach-**<br>**wissenschaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|2|SL||
+||**Basismodul Einführung**|Einführung in die italienische<br>Sprachwissenschaft|2|**10**<br>4|K 90’|0,5|
+|1 / 2|<br>**in die Italoromanistik**|Einführung in die italienische<br>Literaturwissenschaft|3|6<br>|K 90’|0,5|
+|||Proseminar|2|**10**<br>4|HA|0,6|
+|3 / 4|**Aufbaumodul**<br>**Italienische Sprach-**<br>**wissenschaft 1**|Vorlesung|2|2|SL||
 |||Übung|2|4|K 90’ /<br>MP 15’|0,4|
-|||||**10**|||
-|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- u.**<br>**Kulturwissenschaft 1**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||Übung|2|2|SL||
-|||||**10**|||
-|3 / 4|**Aufbaumodul Italienische**<br>**Sprachpraxis 3**|Comprensione e produzione<br>scritta|2|3|K 90’|1,0|
-|||Grammatica e stilistica|2|2|SL||
-|||Comprensione e produzione<br>orale II|2|2|SL||
-|||Corso introduttivo di cultura e<br>civiltà italiana I|2|3|SL||
-|||||**10**|||
-|5 / 6|**Vertiefungsmodul**<br>**Italienische**<br>**Sprachwissenschaft 2**|Mittelseminar|2|6|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
-|||||**10**|||
+|||Proseminar|2|**10**<br>4|HA|0,6|
+|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- u.**<br>**Kulturwissenschaft 1**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
+|||Übung|2|2<br>|SL||
+|||Comprensione e produzione<br>scritta|2|**10**<br>3|K 90’|1,0|
+|3 / 4|**Aufbaumodul Italienische**<br>|Grammatica e stilistica|2|2|SL||
+||**Sprachpraxis 3**|Comprensione e produzione<br>orale II|2|2|SL||
+|||Corso introduttivo di cultura e<br>civiltà italiana I|2|3<br>|SL||
+|5 / 6|**Vertiefungsmodul**<br>**Itliih**|Mittelseminar|2|**10**<br>6|HA|0,6|
+||**aensce**<br>**Sprachwissenschaft 2**|Vorlesung|2|4<br>**10**|K 90’ /<br>MP 15’|0,4|
 
 4 
 
-|**Sem.1**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
 |---|---|---|---|---|---|---|
-|5 / 6|**Vertiefungsmodul**<br>**Italienische**<br>**Literatur- und**<br>**Kulturwissenschaft 2**|Mittelseminar|2|6|HA|0,6|
-|||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
+|5 / 6|**Vertiefungsmodul**<br>**Italienische**<br>|Mittelseminar|2|6|HA|0,6|
+||**Literatur- und**<br>**Kulturwissenschaft 2**|Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 |||||**10**|||
-|5 / 6|**Vertiefungsmodul**<br>**Italienische**<br>**Sprachpraxis 4**|Cultura e civiltà italiana II|2|5|K 90’ /<br>HA|0,5|
-|||Laboratorio di scrittura|2|3|Kurz-<br>essays|0,5|
+|||Cultura e civiltà italiana II|2|5|K 90’ /<br>HA|0,5|
+|5 / 6|**Vertiefungsmodul**<br>**Italienische**<br>**Sprachpraxis 4**|Laboratorio di scrittura|2|3|Kurz-<br>essays|0,5|
 |||Traduzione Tedesco – Italiano|2|2|SL||
 |||||**10**|||
 |6|**Bachelorarbeit**|||**10**|BA||
 
 **1** Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung, BA = Bachelorarbeit 
 
-## 3Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+## 3Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan An- <u>wendung:</u> 
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -149,31 +142,31 @@ dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolvente
 
 5 
 
-|**Vertiefungsmodul Italienische Sprach-**<br>**wissenschaft 2**||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Mittelseminar italienische Sprachwissenschaft||2|6|||||||
-|Vorlesungitalienische Sprachwissenschaft||2|4|||||||
-|**Vertiefungsmodul Italienische Literatur- u. Kultur-**<br>**wissenschaft 2**||||||||||
-|Mittelseminar italienische Literatur- und Kulturwissen-<br>schaft||2|6|||||||
-|Vorlesungitalienische Literatur- und Kulturwissenschaft||2|4|||||||
-|**Vertiefungsmodul Italienische Sprachpraxis 4**||||||||||
-|Cultura e civiltà italiana II||2|5|||||||
-|Laboratorio di scrittura||2|3|||||||
-|Traduzione Tedesco – Italiano||2|2|||||||
-|**Bachelorarbeit**||||||||||
-|Bachelorarbeit|||10|||||||
+|**Vertiefungsmodul Italienische Sprach-**<br>**wissenschaft 2**|||
+|---|---|---|
+|Mittelseminar italienische Sprachwissenschaft|2|6|
+|Vorlesungitalienische Sprachwissenschaft|2|4|
+|**Vertiefungsmodul Italienische Literatur- u. Kultur-**<br>**wissenschaft 2**|||
+|Mittelseminar italienische Literatur- und Kulturwissen-<br>schaft|2|6|
+|Vorlesungitalienische Literatur- und Kulturwissenschaft|2|4|
+|**Vertiefungsmodul Italienische Sprachpraxis 4**|||
+|Cultura e civiltà italiana II|2|5|
+|Laboratorio di scrittura|2|3|
+|Traduzione Tedesco – Italiano|2|2|
+|**Bachelorarbeit**|||
+|Bachelorarbeit||10|
 
 Für die GOP müssen mindestens das Basismodul „Einführung in die Italoromanistik“ und das Basismodul Italienische Sprachpraxis 1 erfolgreich abgelegt werden. 
 
-(3)[1] Im Studiengang Italoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
+(3)<sup>1</sup> Im Studiengang Italoromanistik als zweites Fach sind folgende Module erfolgreich abzulegen: 
 
 1. Pflichtmodule: Italienische Sprachpraxis 1-2; Einführung in die Italoromanistik 2. Wahlpflichtmodule: Im Aufbaujahr sind zwei aus drei der folgenden Module zu absolvieren: Italienische Sprachpraxis 3, Italienische Sprachwissenschaft 1 und Italienische Literatur- und Kulturwissenschaft 1; im Vertiefungsjahr sind zu absolvieren: Italienische Sprachpraxis 3 (falls nicht im Aufbaujahr belegt) oder Italienische Sprachpraxis 4; Italienische Sprachwissenschaft 2 oder Italienische Literatur- und Kulturwissenschaft 2 
 
 - 2Absatz 2 Sätze 2 und 3 gelten entsprechend. 
 
-(4)[1] Bei Vorkenntnissen der italienischen Sprache, die über die Zulassungsanforderung gehen, kann eine Einstufung in das entsprechende Modul erfolgen.[2 ] Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
+(4)<sup>1</sup> Bei Vorkenntnissen der italienischen Sprache, die über die Zulassungsanforderung gehen, kann eine Einstufung in das entsprechende Modul erfolgen.<sup>2</sup> Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
 
-(5)[1] Wird das Fach Italienisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Dabei soll ein Modul mit der Ableistung eines Praktikums im italienischsprachigen Ausland oder aber in einem auf Italien bezogenen Bereich absolviert werden. 
+(5)<sup>1</sup> Wird das Fach Italienisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei soll ein Modul mit der Ableistung eines Praktikums im italienischsprachigen Ausland oder aber in einem auf Italien bezogenen Bereich absolviert werden. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -181,7 +174,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Italoromanistik m
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.[3] Darüber hinaus müssen Kenntnisse in einer weiteren 
+1Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.<sup>3</sup> Darüber hinaus müssen Kenntnisse in einer weiteren 
 
 6 
 

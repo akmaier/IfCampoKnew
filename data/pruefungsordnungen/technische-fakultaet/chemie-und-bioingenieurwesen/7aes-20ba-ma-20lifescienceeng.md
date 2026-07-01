@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Januar 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES%20BA-MA%20LifeScienceEng.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:03:19+00:00
-page_count_chars: 7738
+scraped_at: 2026-07-01T11:24:57+00:00
+page_count_chars: 7762
 ---
 
 # 17. Januar 2011
@@ -12,19 +12,19 @@ page_count_chars: 7738
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AES%20BA-MA%20LifeScienceEng.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
+# **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
 
-## Vom 17. Januar 2011 
+# Vom 17. Januar 2011 
 
 Aufgrund von Art. 13 Abs. 1in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-**==> picture [20 x 12] intentionally omitted <==**
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 24. September 2007, zuletzt geändert durch Satzung vom 7.Juli 2010, wird wie folgt geändert: 
 
 1. In § 36 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Für die im Masterstudium gemäß Anlage 3 abzulegenden Wahlpflichtmodule wird ein Wahlpflichtmodulkatalog erstellt, der zu Beginn jedes Semesters in aktualisierter Form ortsüblich bekannt gegeben wird.[2] Weitere Wahlpflichtmodule können die verbleibenden Vertiefungs- oder Ergänzungsmodule sein.[3] Andere in einem sinnvollen Zusammenhang mit dem Studium stehenden Wahlpflichtmodule können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden.“ 
+„(2)<sup>1</sup> Für die im Masterstudium gemäß Anlage 3 abzulegenden Wahlpflichtmodule wird ein Wahlpflichtmodulkatalog erstellt, der zu Beginn jedes Semesters in aktualisierter Form ortsüblich bekannt gegeben wird.<sup>2</sup> Weitere Wahlpflichtmodule können die verbleibenden Vertiefungs- oder Ergänzungsmodule sein.<sup>3</sup> Andere in einem sinnvollen Zusammenhang mit dem Studium stehenden Wahlpflichtmodule können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden.“ 
 
 Der bisherige Abs. 2 wird zum neuen Abs. 3. 
 
@@ -74,7 +74,7 @@ b) In Abs. 2 wird der Klammerzusatz „(Spalte 6)“ gestrichen.
 
 6. § 41 erhält folgende Fassung: 
 
-## **„§ 41 Zulassungsvoraussetzungen für die Masterarbeit** 
+# **„§ 41 Zulassungsvoraussetzungen für die Masterarbeit** 
 
 Voraussetzung für die Zulassung zur Masterarbeit (Modul **M16** der **Anlage 3** ) ist, dass 
 
@@ -102,7 +102,7 @@ Voraussetzung für die Zulassung zur Masterarbeit (Modul **M16** der **Anlage 3*
 
 9. In allen Tabellen der Anlagen 1 und 3 wird die erste Zeile (Spaltenbezeichnung) gestrichen. 
 
-## 10. Anlage 1 wird wie folgt geändert: 
+# 10. Anlage 1 wird wie folgt geändert: 
 
    - a) In Tabelle 1 Spalte 2 Zeile 7 (B4) wird „VT1“ durch das Wort „Verfahrenstechnik 1“ ersetzt. 
 
@@ -126,25 +126,25 @@ Voraussetzung für die Zulassung zur Masterarbeit (Modul **M16** der **Anlage 3*
 
    - „4.1 a) Katalog der zu vertiefenden Module 
 
-Vertiefung von B24 Bioreaktions- und Bioverfahrenstechnik Vertiefung von B25 Medizinische Biotechnologie 
+Vertiefung von B24 Bioreaktions- und Bioverfahrenstechnik <mark>Vertiefung von B25 Medizinische Biotechnologie</mark> 
 
 Vertiefung eines der Module B26 bis B30 des Bachelorstudiengangs entsprechend 4.1b) Vertiefung eines weiteren der Module B26 bis B30 des Bachelorstudiengangs entsprechend 4.1b) 
 
 „ 
 
-- c) Anlage 4.1 b) wird wie folgt geändert: 
+   - c) Anlage 4.1 b) wird wie folgt geändert: 
 
-   - aa) In Zeile 2 Spalte 1 werden die Worte „Bioprozess- und Bioreaktionstechnik“ durch die Worte „Bioreaktions- und Bioverfahrenstechnik“ ersetzt. 
+      - aa) In Zeile 2 Spalte 1 werden die Worte „Bioprozess- und Bioreaktionstechnik“ durch die Worte „Bioreaktions- und Bioverfahrenstechnik“ ersetzt. 
 
-   - bb) In Zeile 3 Spalte 1 werden die Worte „Immun- und Infektionsbiologie“ durch die Worte „Medizinische Biotechnologie“ ersetzt. 
+      - bb) In Zeile 3 Spalte 1 werden die Worte „Immun- und Infektionsbiologie“ durch die Worte „Medizinische Biotechnologie“ ersetzt. 
 
-- d) In Anlage 4.2 Zeile 2 werden die Worte „Produkte biotechnologischer Herkunft“ durch die Worte „Analysentechnik und Strukturaufklärung“ ersetzt. 
+   - d) In Anlage 4.2 Zeile 2 werden die Worte „Produkte biotechnologischer Herkunft“ durch die Worte „Analysentechnik und Strukturaufklärung“ ersetzt. 
 
 15. Anlage 4.3 wird gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
-(1)[1] Die Änderungssatzung tritt am 1. April 2011 in Kraft.[2] Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2011/12 aufnehmen oder erstmalig die geänderten Module ablegen. 
+(1)<sup>1</sup> Die Änderungssatzung tritt am 1. April 2011 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2011/12 aufnehmen oder erstmalig die geänderten Module ablegen. 
 
 (2) Für Studierende, die ihr Studium vor dem Wintersemester 2010/11 aufgenommen haben, gelten die Änderungen der Ziffer 3 aa), ff), gg) und hh) sowie § 39 Abs. 2 in der folgenden Fassung: 
 

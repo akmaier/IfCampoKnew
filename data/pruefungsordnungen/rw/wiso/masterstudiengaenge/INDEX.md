@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:43:58+00:00
+scraped_at: 2026-07-01T11:07:46+00:00
 ---
 
 # Masterstudiengänge
@@ -140,6 +140,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [FPO MSc IBS 20250320 i.d.F. 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS__20250320_idF_20260630.pdf) | 322 KB |
 | [FPO MSc IBS 20250320.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20250320.pdf) | 402 KB |
 | [FPO MSc IBS 20090724 i.d.F. 20220808.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20090724_idF_20220808.pdf) | 188 KB |
 | [FPO MSc IBS 20090724 i.d.F. 20210726.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20090724_idF_20210726.pdf) | 927 KB |
@@ -155,7 +156,8 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
-| [MSc International Business Studies FPO MSc IBS 20220808 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPO_MSc_IBS_20220808_AeS.pdf) | 210 KB |
+| [MSc International Business Studies FPOIBS 20260630 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20260630_AeS.pdf) | 236 KB |
+| [MSc International Business Studies FPOIBS 20220808 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20220808_AeS.pdf) | 210 KB |
 | [MSc International Business Studies FPOIBS 20210726 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20210726_AeS.pdf) | 210 KB |
 | [MSc International Business Studies FPOIBS 20191129 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20191129_AeS.pdf) | 255 KB |
 | [MSc International Business Studies FPOIBS 20180928 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20180928_AeS.pdf) | 349 KB |
@@ -275,7 +277,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [FPOSozialökonomik 20240807 i.d.F. 20260213.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807_idF_20260213.pdf) | 399 KB |
+| [FPOSozialökonomik 20240807 i.d.F. 20260213.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807_idF_20260213.pdf) | 398 KB |
 | [FPOSozialökonomik 20240807 i.d.F. 20241122.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807_idF_20241122.pdf) | 280 KB |
 | [FPOSozialökonomik 20240807.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialökonomik_20240807.pdf) | 262 KB |
 | [FPOSozialökonomik 20090902 i.d.F. 20220727.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Sozialoekonomik/konsolidierte_Fassungen/FPOSozialoekonomik_20090902_idF_20220727.pdf) | 532 KB |
@@ -337,7 +339,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions-und Habilitationsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (243)
+## Prüfungsordnungen-Dokumente (245)
 
 - [FPOAuP 20250227 Aufhebung.pdf](fpoaup-20250227-aufhebung.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/konsolidierte_Fassungen/FPOAuP_20250227_Aufhebung.pdf>
 - [FPOAuP 20090717 i.d.F. 20250227.pdf](fpoaup-20090717-idf-20250227.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Arbeitsmarkt_und_Personal/konsolidierte_Fassungen/FPOAuP_20090717_idF_20250227.pdf>
@@ -430,6 +432,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 - [18. August 2017](1aesa-fpomigg.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa_FPOMiGG.pdf>
 - [PDF vom 15.05.2015 i.d.F. 18.09.2017](fachstuo-pro-ma-gesundheitsmanagement-oekonomieaug2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuO+PrO_MA_Gesundheitsmanagement_oekonomieAUG2017.pdf>
 - [PDF vom 15.05.2015](fachstuo-pro-ma-gesundheitsmanagement-oekonomie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuO+PrO_MA_Gesundheitsmanagement_oekonomie.pdf>
+- [FPO MSc IBS  20250320 i.d.F. 20260630.pdf](fpo-msc-ibs-20250320-idf-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS__20250320_idF_20260630.pdf>
 - [FPO MSc IBS 20250320.pdf](fpo-msc-ibs-20250320.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20250320.pdf>
 - [FPO MSc IBS 20090724 i.d.F. 20220808.pdf](fpo-msc-ibs-20090724-idf-20220808.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20090724_idF_20220808.pdf>
 - [FPO MSc IBS 20090724 i.d.F. 20210726.pdf](fpo-msc-ibs-20090724-idf-20210726.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/konsolidierte_Fassungen/FPO_MSc_IBS_20090724_idF_20210726.pdf>
@@ -439,7 +442,8 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/
 - [FPO MSc IBS 20240807 en.pdf](fpo-msc-ibs-20240807-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/englisch/FPO_MSc_IBS_20240807_en.pdf>
 - [FPO MSc IBS 20090724 i.d.F. 20220808 en.pdf](fpo-msc-ibs-20090724-idf-20220808-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/englisch/FPO_MSc_IBS_20090724_idF_20220808_en.pdf>
 - [FPO MSc IBS 20090724 i.d.F. 20210726 en.pdf](fpo-msc-ibs-20090724-idf-20210726-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/englisch/FPO_MSc_IBS_20090724_idF_20210726_en.pdf>
-- [MSc International Business Studies FPO MSc IBS 20220808 ÄS.pdf](msc-international-business-studies-fpo-msc-ibs-20220808-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPO_MSc_IBS_20220808_AeS.pdf>
+- [MSc International Business Studies FPOIBS 20260630 ÄS.pdf](msc-international-business-studies-fpoibs-20260630-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20260630_AeS.pdf>
+- [MSc International Business Studies FPOIBS 20220808 ÄS.pdf](msc-international-business-studies-fpoibs-20220808-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20220808_AeS.pdf>
 - [MSc International Business Studies FPOIBS 20210726 ÄS.pdf](msc-international-business-studies-fpoibs-20210726-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20210726_AeS.pdf>
 - [MSc International Business Studies FPOIBS 20191129 ÄS.pdf](msc-international-business-studies-fpoibs-20191129-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20191129_AeS.pdf>
 - [MSc International Business Studies FPOIBS 20180928 ÄS.pdf](msc-international-business-studies-fpoibs-20180928-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/International_Business_Studies/Aenderungssatzungen/MSc_International_Business_Studies_FPOIBS_20180928_AeS.pdf>

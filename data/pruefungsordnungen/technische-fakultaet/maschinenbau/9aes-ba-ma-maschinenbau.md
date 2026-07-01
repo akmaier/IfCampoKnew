@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES_BA_MA_Maschinenbau.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:26:54+00:00
-page_count_chars: 11721
+scraped_at: 2026-07-01T11:44:09+00:00
+page_count_chars: 11803
 ---
 
 # 7. Oktober 2013
@@ -42,9 +42,9 @@ a) Abs. 1 erhält folgende Fassung:
 
 c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-(5)[1] Als Zugangsvoraussetzung gem. Art. 59 BayHSchG ist für die Studienrichtung 
+(5)<sup>1</sup> Als Zugangsvoraussetzung gem. Art. 59 BayHSchG ist für die Studienrichtung 
 
-„International Production Engineering and Management“ der Nachweis über englische Sprachkenntnisse vorzulegen.[2] Der Nachweis über die Englischkenntnisse kann wie folgt erbracht werden: 
+„International Production Engineering and Management“ der Nachweis über englische Sprachkenntnisse vorzulegen.<sup>2</sup> Der Nachweis über die Englischkenntnisse kann wie folgt erbracht werden: 
 
 Internet Based TOEFL Score von mind. 90 IELTS Score von mind. 6.5 
 
@@ -98,15 +98,13 @@ c) In Abs. 2 (neu) wird der Klammerzusatz „(M 10)" gestrichen.
 
    - b) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird der Klammerzusatz „(Modul M 12)" gestrichen. 
+      - aa) In Satz 1 wird der Klammerzusatz „(Modul M 12)" gestrichen. bb) In Satz 2 werden die Worte „vier Monaten" durch die Worte „fünf Monaten; bei Teilzeitstudium acht Monaten" ersetzt. 
 
-      - bb) In Satz 2 werden die Worte „vier Monaten" durch die Worte „fünf Monaten; bei Teilzeitstudium acht Monaten" ersetzt. 
-
-   - c) In Abs. 2 wird das Wort „Vertiefungsmodulen" durch das Wort „Vertiefungsmodule“ ersetzt und die Worte „oder ggf. International Elective Modules" eingefügt und folgende Sätze 2 und 3 angefügt: „[2] Die Project Thesis soll in englischer Sprache 
+   - c) In Abs. 2 wird das Wort „Vertiefungsmodulen" durch das Wort „Vertiefungsmodule“ ersetzt und die Worte „oder ggf. International Elective Modules" eingefügt und folgende Sätze 2 und 3 angefügt: „<sup>2</sup> Die Project Thesis soll in englischer Sprache 
 
 2 
 
-verfasst werden.[3] In Abstimmung mit der betreuenden Lehrperson kann auch eine andere Sprache festgelegt werden.“ Satz 1 erhält die Satznummerierung „[1“] . 
+verfasst werden.<sup>3</sup> In Abstimmung mit der betreuenden Lehrperson kann auch eine andere Sprache festgelegt werden.“ Satz 1 erhält die Satznummerierung „<sup>1“</sup> . 
 
    - d) In Abs. 5 wird „Abs. 3 Satz 2" durch „Abs. 3 Satz 3" ersetzt. 
 
@@ -134,7 +132,7 @@ verfasst werden.[3] In Abstimmung mit der betreuenden Lehrperson kann auch eine 
 
       - cc) Es werden folgende Sätze 5 und 6 angefügt: 
 
-12. § 50 wird wie folgt geändert: 
+# 12. § 50 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden die Worte „M 1 bis M 14" gestrichen. 
 
@@ -152,20 +150,24 @@ verfasst werden.[3] In Abstimmung mit der betreuenden Lehrperson kann auch eine 
 
 „ 
 
-||Art und Umfang<br>der Studien- und<br>Prüfungsleistungen2)|
+||Art und Umfang<br>der Studien- und<br>Prüfungsleistungen<sup>2)</sup>|
 |---|---|
-|B 1|PfP: PL 90<br>+ uSL Papier- und<br>Rechnerübungen|
-|B 2|PfP: PL 90<br>+ uSL Papier- und<br>Rechnerübungen|
+||PfP: PL 90|
+|B 1|+ uSL Papier- und<br>Rechnerübungen|
+||PfP: PL 90|
+|B 2|+ uSL Papier- und<br>Rechnerübungen|
 |B3|PL90|
 |B 4|PL 180|
 |B5|PL90|
 |B6|PL60|
 |B 7|PfP: uSL Papierübungen<br>+ uSL<br>Rechnerübungen|
-|B 8|PfP: PL 90<br>+ uSL Papier- und<br>Rechnerübungen|
+||PfP: PL 90|
+|B 8|+ uSL Papier- und<br>Rechnerübungen|
 |B 9|PfP: PL 120<br>+ uSL Papier- und<br>Rechnerübungen|
 |B 10|uSL Papier- und<br>Rechnerübungen|
-|B 11|PfP: PL 90<br>+ uSL Papier- und<br>Rechnerübungen|
-|B 12|PfP: PL 90<br>+ PL 60|
+|B 11|PfP: PL 90<br>+ uSL Papier- und<br>Rechnerübungen<br>|
+||PfP: PL 90|
+|B 12|+ PL 60|
 |B 13|PL 120|
 |B 14|PfP: PL 180<br>+ uSL|
 |B 15|PL 120|
@@ -201,13 +203,15 @@ verfasst werden.[3] In Abstimmung mit der betreuenden Lehrperson kann auch eine 
 
 - i) In Zeile 41 (Summe SWS) Spalten 4 bis 6 (SWS) wird die Zahl „126“ durch die Zahl „135“ ersetzt. 
 
-- j) Unter der Tabelle wird unter Fußnote[1)] folgende Fußnote angefügt: 
+- j) Unter der Tabelle wird unter Fußnote<sup>1)</sup> folgende Fußnote angefügt: 
 
-"[2)] PfP: Portfolioprüfung PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
+"<sup>2)</sup> PfP: Portfolioprüfung 
+
+PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
 
 uSL: unbenotete Studienleistung" 
 
-## 14. Anlage 2 wird wie folgt geändert: 
+# 14. Anlage 2 wird wie folgt geändert: 
 
 a) Der Wortlaut erhält folgende Fassung: 
 
@@ -219,9 +223,8 @@ a) Der Wortlaut erhält folgende Fassung:
 
 „ 
 
-|„||
+||Art und Umfang<br>der Studien- und<br>Prüfungsleistungen<sup>1) 2)</sup>|
 |---|---|
-||Art und Umfang<br>der Studien- und<br>Prüfungsleistungen1) 2)|
 |M 1|PL 60/90/120|
 |M 2|PL 60/90/120|
 |M 3|PL 60/90/120|
@@ -241,25 +244,27 @@ a) Der Wortlaut erhält folgende Fassung:
 
 5 
 
-## d) Am Ende der Tabelle werden folgende Fußnoten angefügt: 
+# d) Am Ende der Tabelle werden folgende Fußnoten angefügt: 
 
-"[1)] Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
+"<sup>1)</sup> Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
 - 2) PfP: Portfolioprüfung 
 
-- PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
+- PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten 
+
+bSL: benotete Studienleistung 
 
 - uSL: unbenotete Studienleistung" 
 
-## 15. Anlage 3 erhält folgende neue Fassung: 
+# 15. Anlage 3 erhält folgende neue Fassung: 
 
-## „ 
+# „ 
 
 ## **Anlage 3: Modulkatalog des Masterstudiums für die Studienrichtung "International Production Engineering and Management"** 
 
-||||**Semester**|**Semester**|**Semester**|**Semester**||
+|||||**Sem**<br>|**ester**<br>|||
 |---|---|---|---|---|---|---|---|
-|**Modul-**<br>**nummer**|**Modul**||**1**|**2**|**3**|**4**|**Art und Umfang**<br>**der Prüfungs- und**<br>**Studienleistung2)**<br>**3)**|
+|**Modul-**<br>**nummer**|**Modul**||**1**|**2**|**3**|**4**|**Art und Umfang**<br>**der Prüfungs- und**<br>**Studienleistung**<sup>**2)**</sup><br>**3)**|
 |||ECTS<br>gesamt|ECTS|ECTS|ECTS|ECTS||
 |||||1)|1)|1)||
 |M 1|1. Wahlpflichtmodul|5|5||||PL 60/90/120|
@@ -272,14 +277,16 @@ a) Der Wortlaut erhält folgende Fassung:
 |M 8|Project Thesis with Advanced<br>Seminar|15|||15||bSL|
 |M 9|Practical Training (12 weeks)|15|||15||uSL gem.<br>Praktikumsrichtlinie|
 |M 10|Master Thesis|30||||30|PL Masterarbeit|
-||**Summe**|**120**|**30**|**30**|**30**|**30**||
-|1)Mobilitätsfenster||||||||
+||**Summe**<br>|**120**|**30**|**30**|**30**|**30**||
+|1)Mobilitä|tsfenster|||||||
 
 2) Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
 - 3) PfP: Portfolioprüfung 
 
-PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten bSL: benotete Studienleistung 
+PL: schriftliche Prüfungsleistung mit Angabe der Prüfungsdauer in Minuten 
+
+bSL: benotete Studienleistung 
 
 uSL: unbenotete Studienleistung 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc Logopädie StPO-Logo 20210924 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Med/Logopaedie/Aenderungssatzungen/BSc_Logopaedie_StPO-Logo_20210924_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:21:12+00:00
-page_count_chars: 25535
+scraped_at: 2026-07-01T08:46:20+00:00
+page_count_chars: 25270
 ---
 
 # BSc Logopädie StPO-Logo 20210924 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 25535
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Med/Logopaedie/Aenderungssatzungen/BSc_Logopaedie_StPO-Logo_20210924_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StPO/Logo –** 
+# **Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StPO/Logo –** 
 
-## **Vom 24. September 2021** 
+# **Vom 24. September 2021** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) i. V. m. der Bekanntmachung des Bayerischen Staatsministeriums für Unterricht und Kultus über den Modellversuch „Regelungen für die kombinierte Ausbildung an der Staatlichen Berufsfachschule für Logopädie Erlangen und der Friedrich-Alexander-Universität Erlangen-Nürnberg mit ausbildungsintegrierendem dualen Bachelorstudiengang“ vom 13. April 2012 (KWMBl. S. 199) in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelorstudiengang Logopädie der Medizinischen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StPO/Logo – vom 5. Oktober 2011, zuletzt geändert durch Satzung vom 9. Mai 2016, wird wie folgt geändert: 
 
@@ -38,19 +38,19 @@ bb) Satz 3 erhält folgende neue Fassung:
 
 1 
 
-„[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen oder Teilprüfungen bzw. einer Kombination aus Prüfungsund/oder Studienleistungen bestehen.“ 
+„<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen oder Teilprüfungen bzw. einer Kombination aus Prüfungsund/oder Studienleistungen bestehen.“ 
 
 cc) Nach Satz 3 wird folgender neuer Satz 4 eingefügt: 
 
-„[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
 
 dd) Die bisherigen Sätze 4 und 5 werden zu Sätzen 5 und 6. 
 
-- b) Abs. 3 wird wie folgt geändert: 
+b) Abs. 3 wird wie folgt geändert: 
 
 aa) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
+„<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
 
 bb) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
@@ -70,27 +70,27 @@ bb) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5.
 
 2 
 
-fungsunfähigkeit“ die Worte „ist ein Attest vorzulegen.[4] Der Prüfungsausschuss“ eingefügt und nach den Worten „vertrauensärztliches Attestes“ die Worte „verlangt werden“ durch das Wort „verlangen“ ersetzt. 
+fungsunfähigkeit“ die Worte „ist ein Attest vorzulegen.<sup>4</sup> Der Prüfungsausschuss“ eingefügt und nach den Worten „vertrauensärztliches Attestes“ die Worte „verlangt werden“ durch das Wort „verlangen“ ersetzt. 
 
 bb) Nach Satz 4 (neu) wird folgender neuer Satz 5 angefügt: 
 
-„[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+„<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
-6. § 7 wird wie folgt geändert: 
+# 6. § 7 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Satz 2 wird nach den Worten „eines Professorin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- aa) In Satz 2 wird nach den Worten „eines Professorin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 4 wird nach den Worten „eine Vertreterin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) In Satz 4 wird nach den Worten „eine Vertreterin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 3 Satz 4 erhält folgende neue Fassung: 
+b) Abs. 3 Satz 4 erhält folgende neue Fassung: 
 
-„[4] Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
+„<sup>4</sup> Er überprüft auf Antrag delegierte Entscheidungen sowie die Bewertungen von Prüfungen auf ihre Rechtmäßigkeit.“ 
 
 - c) In Abs. 4 Satz 1 wird nach den Worten „sämtliche Mitglieder schriftlich“ die Worte „oder elektronisch“ eingefügt. 
 
-- d) Abs. 5 wird wie folgt geändert: 
+d) Abs. 5 wird wie folgt geändert: 
 
    - aa) In Satz 2 wird nach dem Wort „Sie“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -98,7 +98,7 @@ bb) Nach Satz 4 (neu) wird folgender neuer Satz 5 angefügt:
 
 - e) In Abs. 6 Satz 3 wird nach den Worten „erlässt die Präsidentin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 7. § 8 wird wie folgt geändert: 
+# 7. § 8 wird wie folgt geändert: 
 
 - a) In Abs. 1 wird nach den Worten „und Gutachterinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -114,7 +114,7 @@ bb) Nach Satz 4 (neu) wird folgender neuer Satz 5 angefügt:
 
 8. In § 9 Abs. 2 werden nach den Worten und der Zahl „bestimmt sich nach Art. 18 Abs.“ die Ziffern und das Worten „2 Sätze 2 und“ eingefügt. 
 
-## 9. § 10 Abs. 3 wird wie folgt geändert: 
+# 9. § 10 Abs. 3 wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach den Worten „Prüfungstag ein Rücktritt“ das Wort „von“ durch die Worte „vom Erstversuch einer“ und nach den Worten „Abs. 2 angemeldeten“ die Worte „schriftlichen und mündlichen Prüfungen“ durch das Wort „Prüfung“ ersetzt. 
 
@@ -122,9 +122,9 @@ bb) Nach Satz 4 (neu) wird folgender neuer Satz 5 angefügt:
 
 - c) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
+„<sup>3</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
 
-## 10. § 11 wird wie folgt geändert: 
+# 10. § 11 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden nach den Worten „Prüfungsleistungen, die in“ das Wort „anderen“ und nach den Worten „Studiengängen an“ die Worte „der FAU oder an“ eingefügt. 
 
@@ -132,15 +132,15 @@ bb) Nach Satz 4 (neu) wird folgender neuer Satz 5 angefügt:
 
 aa) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht vorbehaltlich der Regelung in Satz 3 ein Rechtsanspruch auf Anerkennung.“ 
+„<sup>2</sup> Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht vorbehaltlich der Regelung in Satz 3 ein Rechtsanspruch auf Anerkennung.“ 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+„<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 - cc) Der bisherige Satz 3 wird zu Satz 4 und in ihm werden die Worte „vom zuständigen Fach benannten Fachvertreterin oder des Fachvertreters“ durch die Worte „bzw. des Modulverantwortlichen“ ersetzt. 
 
-## 11. § 12 wird wie folgt geändert: 
+# 11. § 12 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 4 wird nach den Worten „dem Vorsitzenden des“ das Wort „Prüfungsausschuss“ durch das Wort „Prüfungsausschusses“ ersetzt. 
 
@@ -150,21 +150,21 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt:
 
 - c) In Abs. 3 wird nach den Worten „Person oder der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 12. § 14 wird wie folgt geändert: 
+# 12. § 14 wird wie folgt geändert: 
 
-   - a) In Abs. 2 Satz 2 wird jeweils nach den Worten „versäumt, kann die“, „der Lehrende der“ und „Ersatzleistungen von der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 2 Satz 2 wird jeweils nach den Worten „versäumt, kann die“, „der Lehrende der“ und „Ersatzleistungen von der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) In Abs. 3 Satz 2 wird jeweils nach den Worten „gemachte, nicht von der“ und „der Unterrichtszeit sind der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- b) In Abs. 3 Satz 2 wird jeweils nach den Worten „gemachte, nicht von der“ und „der Unterrichtszeit sind der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - c) In Abs. 4 wird jeweils nach den Worten „Teilnahmeliste, in die die“ und „der Studierende ihren“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- c) In Abs. 4 wird jeweils nach den Worten „Teilnahmeliste, in die die“ und „der Studierende ihren“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-13. § 15 wird wie folgt geändert: 
+# 13. § 15 wird wie folgt geändert: 
 
-   - a) In Abs. 1 wird jeweils nach den Worten „auf Antrag einer“ und „werden, dass von einer“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- a) In Abs. 1 wird jeweils nach den Worten „auf Antrag einer“ und „werden, dass von einer“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) In Abs. 2 wird nach den Worten „Prüfungsausschusses oder bei der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- b) In Abs. 2 wird nach den Worten „Prüfungsausschusses oder bei der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 14. § 16 wird wie folgt geändert: 
+# 14. § 16 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -172,11 +172,9 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt:
 
    - bb) In Satz 2 wird die Regelung unter Buchstabe h) gestrichen; die bisherigen Aufzählungen unter Buchstaben i) und j) werden zu h) und i). 
 
-## 15. Nach § 16 wird folgender neuer § 16a eingefügt: 
+# 15. Nach § 16 wird folgender neuer § 16a eingefügt: 
 
-## „ **§ 16a Praktische Prüfung nach § 16 Satz 2 Buchst. h)** 
-
-1In der praktischen Prüfung nach § 16 Satz 2 Buchst. h) sollen die Studierenden unter Beweis stellen, dass sie dazu in der Lage sind, das bisher Gelernte und durch die Hospitation in der Praxis Beobachtete selbst angemessen umzusetzen.[2] Demgemäß besteht die praktische Prüfung aus 
+„ **§ 16a Praktische Prüfung nach § 16 Satz 2 Buchst. h)** 1In der praktischen Prüfung nach § 16 Satz 2 Buchst. h) sollen die Studierenden unter Beweis stellen, dass sie dazu in der Lage sind, das bisher Gelernte und durch die Hospitation in der Praxis Beobachtete selbst angemessen umzusetzen.<sup>2</sup> Demgemäß besteht die praktische Prüfung aus 
 
 1. der schriftlichen Planung eines Therapieprozesses (max. 30 Seiten, 30 % der Modulnote) und 
 
@@ -186,17 +184,17 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt:
 
 5 
 
-## 16. § 17 wird wie folgt geändert: 
+# 16. § 17 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
-aa) Vor dem Wort „In“ wird die hochgestellte Ziffer „[1] “ eingefügt. 
+aa) Vor dem Wort „In“ wird die hochgestellte Ziffer „<sup>1</sup> “ eingefügt. 
 
 bb) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt: 
 
-„[2] Schriftliche Prüfungen können auch als sog. „Open-Book-Prüfung“ abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.[3] Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
+„<sup>2</sup> Schriftliche Prüfungen können auch als sog. „Open-Book-Prüfung“ abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.<sup>3</sup> Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
 
-## b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
    - aa) In Satz 1 wird jeweils nach den Worten „grundsätzlich von einer“, „Prüfenden, die“ und „die Aufgabenstellerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -206,11 +204,11 @@ bb) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt:
 
    - aa) In Satz 3 wird nach dem Wort „Die“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Satz 4 wird vor dem Wort „Prüfungsaufgaben“ das Wort „Die“ eingefügt. 
+bb) In Satz 4 wird vor dem Wort „Prüfungsaufgaben“ das Wort „Die“ eingefügt. 
 
-   - cc) Nach Satz 9 wird folgender neuer Satz 10 angefügt: 
+cc) Nach Satz 9 wird folgender neuer Satz 10 angefügt: 
 
-„[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
+„<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
 
    - d) In Abs. 4 Satz 2 wird nach den Worten „ist die Studiendekanin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -218,9 +216,9 @@ bb) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt:
 
    - a) In Abs. 1 wird jeweils nach den Worten „in Anwesenheit einer“, „eines von der“ und „bestellten Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+b) Abs. 3 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird nach den Worten „Prüfenden, der Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- aa) In Satz 1 wird nach den Worten „Prüfenden, der Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 6 
 
@@ -228,16 +226,14 @@ bb) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt:
 
 - cc) In Satz 4 werden die Worte „bei den Prüfungsakten“ gestrichen. 
 
-## 18. § 20 wird wie folgt geändert: 
+# 18. § 20 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
 aa) In Satz 1 wird die Auflistung der Prädikate und Notenstufen durch folgende Tabelle ersetzt: 
 
-|aa) In Satz 1 wird die Auflistung der Prädikate und Notenstufen durch folgende<br>Tabelle ersetzt:|aa) In Satz 1 wird die Auflistung der Prädikate und Notenstufen durch folgende<br>Tabelle ersetzt:|aa) In Satz 1 wird die Auflistung der Prädikate und Notenstufen durch folgende<br>Tabelle ersetzt:|
+|„<br>**Prädikat**|**Note**|**Erläuterung**|
 |---|---|---|
-|„|||
-|**Prädikat**|**Note**|**Erläuterung**|
 |sehr gut|=(1,0 oder 1,3)|eine hervorragende Leistung;|
 |gut|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durchschnitt-<br>lichen Anforderungen liegt;|
 |befriedigend|= (2,7 oder 3,0 oder 3,3)|eine Leistung, die durchschnittlichen Anforderun-<br>gen entspricht;|
@@ -256,7 +252,7 @@ bb) In Satz 2 werden die Worte „der Note“ durch die Worte „dem Prädikat�
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Soweit in der **Anlage** nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 7 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.“ 
+„<sup>1</sup> Soweit in der **Anlage** nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 7 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.“ 
 
 bb) Der bisherige Satz 3 wird zu Abs. 4. 
 
@@ -282,7 +278,7 @@ bb) Der bisherige Satz 3 wird zu Abs. 4.
 
 21. Die Regelung in § 23 erhält folgende neue Fassung: 
 
-„[1] Wer die Bachelor- bzw. Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
+„<sup>1</sup> Wer die Bachelor- bzw. Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.<sup>2</sup> Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
 
 22. In § 24 Abs. 1 Satz 2 werden nach den Worten „andauernder oder ständiger“ das Wort „körperlicher“ gestrichen sowie nach den Worten „ständiger Behinderung“ (neu) ein Komma und die Worte „die nicht das abgeprüfte Leistungsbild betrifft,“ und nach den Worten „Prüfungsverfahrens auszugleichen“ ein Komma und die Worte „wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf“ angefügt. 
 
@@ -304,7 +300,7 @@ bb) Der bisherige Satz 3 wird zu Abs. 4.
 
 27. § 30 Abs. 2 wird gestrichen; der bisherige Abs. 3 wird zu Abs. 2. 
 
-## 28. § 31 wird wie folgt geändert: 
+# 28. § 31 wird wie folgt geändert: 
 
 - a) In Abs. 3 Satz 1 werden im Klammerzusatz vor dem Wort „Betreuer“ die Worte „Betreuerinnen und“ eingefügt. 
 
@@ -312,7 +308,7 @@ bb) Der bisherige Satz 3 wird zu Abs. 4.
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Die bzw. der Studierende sorgt rechtzeitig zur Wahrung der Fristen nach § 6, in der Regel spätestens zu Beginn des letzten Semesters der Regelstudienzeit, dafür, dass sie bzw. er ein Thema für die Bachelorarbeit erhält.“ 
+„<sup>1</sup> Die bzw. der Studierende sorgt rechtzeitig zur Wahrung der Fristen nach § 6, in der Regel spätestens zu Beginn des letzten Semesters der Regelstudienzeit, dafür, dass sie bzw. er ein Thema für die Bachelorarbeit erhält.“ 
 
    - bb) In Satz 2 wird jeweils nach den Worten „nicht, weist ihr“, „ihm die“ und „Antrag eine Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -342,15 +338,15 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 - g) In Abs. 10 Satz 2 wird nach den Worten „sorgt dafür, dass sie“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 29. § 33 wird wie folgt geändert: 
+# 29. § 33 wird wie folgt geändert: 
 
-- a) Die bisher einzige Regelung wird zu Abs. 1. 
+a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die vierte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.[2] Die Änderungen in der **Anlage** gelten für alle Studierenden, die sich in den Modulen Nrn. 4, 14 und 21 noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(2)<sup>1</sup> Die vierte Änderungssatzung tritt am 1. Oktober 2021 in Kraft.<sup>2</sup> Die Änderungen in der **Anlage** gelten für alle Studierenden, die sich in den Modulen Nrn. 4, 14 und 21 noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
-## 30. Die Tabelle in der **Anlage** wird wie folgt geändert: 
+# 30. Die Tabelle in der **Anlage** wird wie folgt geändert: 
 
 - a) In Zeile 1 (Überschriften) werden in Spalte 13 (Art und Umfang der Prüfung/Studienleistung) das Zeichen „/“ und das Wort „Studienleistung“ gestrichen. 
 
@@ -372,10 +368,8 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 - i) Zeile 15 (Modul Nr. 14, Praxismodul ausgewählter Störungsbilder) erhält folgende neue Fassung: 
 
-**==> picture [754 x 79] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-„<br>Ambulanzen  1<br>Therapie + Ausbildungssuper- 3<br>3<br>Praxismodul ausgewähl- vision  PL: Praktische<br>14  5  einfach<br>ter Störungsbilder  Hospitation  2  1  Prüfung gemäß<br>§ 16a [7]<br>Waldkrankenhaus  2  1<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+„<br>Ambulanzen  1<br>Therapie + Ausbildungssuper- 3<br>3<br>Praxismodul ausgewähl- vision  PL: Praktische<br>14  5  einfach<br>ter Störungsbilder  Hospitation  2  1  Prüfung gemäß<br>§ 16a 7<br>Waldkrankenhaus  2  1<br><!-- End of picture text -->
 
 „ 
 
@@ -385,29 +379,26 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 - k) Zeile 22 erhält folgende neue Fassung: 
 
-## „ 
+|„<br>**21**<br>**Professioneller Umgang**<br>**mit klinisch-logopädi-**<br>**schen Problemstellungen**|Repetitorien<br>staatliches Examen|5<br>10<br>10<br>PL:Examen ge-<br>mäß § 2 ff.<br>**LogAPrO**<sup>9</sup><br>doppelt<br>5|
+|---|---|---|
 
-|**21**|**Professioneller Umgang**<br>**mit klinisch-logopädi-**<br>**schen Problemstellungen**|Repetitorien||||5|||||||||PL:Examen ge-<br>||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||staatliches Examen||||5|10||||||10||mäß § 2 ff.<br>**LogAPrO**9|doppelt|
+„ 
 
-## „ 
-
-- l) In Zeile 24 (Modul Nr. 23, Wahlpflichtmodul Schlüsselqualifikation[10] ) werden in Spalte 4 (SWS) die Zellen der Unterspalten verbunden und die Ziffern „2“ und „3“ durch die hochgestellte Zahl „[10] “ ersetzt sowie in Spalte 13 (Art und Umfang der Prüfung) die Worte „SL: abhängig vom jeweils gewählten Modul, siehe Modulhandbuch“ durch die hochgestellte Zahl „[10] “ ersetzt. 
+- l) In Zeile 24 (Modul Nr. 23, Wahlpflichtmodul Schlüsselqualifikation<sup>10</sup> ) werden in Spalte 4 (SWS) die Zellen der Unterspalten verbunden und die Ziffern „2“ und „3“ durch die hochgestellte Zahl „<sup>10</sup> “ ersetzt sowie in Spalte 13 (Art und Umfang der Prüfung) die Worte „SL: abhängig vom jeweils gewählten Modul, siehe Modulhandbuch“ durch die hochgestellte Zahl „<sup>10</sup> “ ersetzt. 
 
 - m) In Zeile 25 (Modul BA Arbeit) wird in Spalte 13 (Art und Umfang der Prüfung) nach dem Wort „Diskussion“ folgender neuer Klammerzusatz eingefügt: 
 
-## „(80 % und 20 %)“ 
+# „(80 % und 20 %)“ 
 
-- n) In den Erläuterungen unterhalb der Tabelle wird in Erläuterung[10)] folgender Satz angefügt: 
+- n) In den Erläuterungen unterhalb der Tabelle wird in Erläuterung<sup>10)</sup> folgender Satz angefügt: 
 
 „Art und Umfang der Lehrveranstaltungen sowie der Prüfung sind abhängig vom jeweils gewählten Modul und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem einschlägigen Modulhandbuch zu entnehmen.“ 
 
 12 
 
-## **§ 2** 
+# **§ 2** 
 
-> 1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Die Änderungen in der **Anlage** gelten für alle Studierenden, die sich in den Modulen Nrn. 4, 14 und 21 noch nicht in einem laufenden Prüfungsverfahren befinden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+> 1Diese Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 2Die Änderungen in der **Anlage** gelten für alle Studierenden, die sich in den Modulen Nrn. 4, 14 und 21 noch nicht in einem laufenden Prüfungsverfahren befinden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 16. Juni 2021 und des Einvernehmens des Bayerischen Staatsministeriums für Gesundheit und Pflege mit Schreiben vom 1. September 2021 Nr. G32c-G8575.1-2021/1-5. 
 

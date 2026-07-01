@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Februar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_BA_MA_Nanotechnologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:36:57+00:00
-page_count_chars: 7526
+scraped_at: 2026-07-01T11:52:48+00:00
+page_count_chars: 7574
 ---
 
 # 6. Februar 2014
@@ -12,17 +12,17 @@ page_count_chars: 7526
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_BA_MA_Nanotechnologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT)** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT)** 
 
-## Vom 6. Februar 2014 
+# Vom 6. Februar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT) vom 15. Dezember 2008, zuletzt geändert durch Satzung vom 31. Juli 2012, wird wie folgt geändert: 
 
-## 1. § 35 wird wie folgt geändert: 
+1. § 35 wird wie folgt geändert: 
 
    - a) In Satz 1 werden nach dem zweiten Wort „Bachelor“ die Worte „of Science (B.Sc.)“ und nach dem zweiten Wort „Master“ die Worte „of Science (M.Sc.)“ eingefügt. 
 
@@ -48,7 +48,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologi
 
 1Es wird empfohlen, die Bachelorarbeit frühestens zum Ende der Vorlesungszeit des 5. Semesters zu beginnen. Für die Zulassungsvoraussetzungen gilt § 27 Abs. 3 Satz 2 ABMPO/TechFak. 
 
-## 6. § 41 wird ersatzlos gestrichen. 
+6. § 41 wird ersatzlos gestrichen. 
 
 7.  § 42 wird Abs. 3 wird wie folgt geändert: 
 
@@ -78,9 +78,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologi
 
    - b) Spalte 2 (Modul) wird wie folgt geändert: 
 
-aa) Zeile 10 (B9) wird wie folgt geändert: 
+      - aa) Zeile 10 (B9) wird wie folgt geändert: 
 
-- (1) In Unterzeile 1 (Werkstoffe: Herstellung …) werden die Worte „Herstellung und Struktur“ durch das Wort „Grundlagen“ ersetzt. 
+         - (1) In Unterzeile 1 (Werkstoffe: Herstellung …) werden die Worte „Herstellung und Struktur“ durch das Wort „Grundlagen“ ersetzt. 
 
 2 
 
@@ -106,19 +106,19 @@ bb) In Unterzeile 6 wird die Zahl „1,5“ eingefügt.
 
 - e) Spalte 11 (Dauer der schriftlichen Prüfung in Minuten bzw. unbenotete und benotete Studienleistungen) wird wie folgt geändert: 
 
-aa) Unterspalte 1 wird wie folgt geändert: 
+   - aa) Unterspalte 1 wird wie folgt geändert: 
 
-- (1) In den Zeilen 2 bis 4 (B1 bis B3) werden jeweils nach dem Wort „uSL“ die Worte „Papier- und Rechnerübungen“ angefügt. 
+      - (1) In den Zeilen 2 bis 4 (B1 bis B3) werden jeweils nach dem Wort „uSL“ die Worte „Papier- und Rechnerübungen“ angefügt. 
 
-- (2) In Zeile 6 (B5) nach dem Wort „uSL“ das Wort „Praktikumsversuche“ angefügt. 
+      - (2) In Zeile 6 (B5) nach dem Wort „uSL“ das Wort „Praktikumsversuche“ angefügt. 
 
-- (3) In Zeile 8 (B7) Unterzeile 4 (Nano-Praktikum I) werden nach dem Wort „uSL“ die Zahl „5“ und das Wort „Praktikumsversuche mit Eingangs- und Abschlusstestat“ angefügt. 
+      - (3) In Zeile 8 (B7) Unterzeile 4 (Nano-Praktikum I) werden nach dem Wort „uSL“ die Zahl „5“ und das Wort „Praktikumsversuche mit Eingangs- und Abschlusstestat“ angefügt. 
 
-- (4) In Zeile 9 (B8) Unterzeile 4 (Nano-Praktikum II / III) werden nach dem Wort „uSL“ die Zahl „5“ sowie die Worte „Praktikumsversuche mit Eingangs- und Abschlusstestat“ angefügt. 
+      - (4) In Zeile 9 (B8) Unterzeile 4 (Nano-Praktikum II / III) werden nach dem Wort „uSL“ die Zahl „5“ sowie die Worte „Praktikumsversuche mit Eingangs- und Abschlusstestat“ angefügt. 
 
-- (5) In Zeile 15 (B12) Unterzeile 4 (Computeranwendungen in der Verfahrenstechnik) wird nach dem Wort „uSL“ das Wort „Klausur“ eingefügt. 
+      - (5) In Zeile 15 (B12) Unterzeile 4 (Computeranwendungen in der Verfahrenstechnik) wird nach dem Wort „uSL“ das Wort „Klausur“ eingefügt. 
 
-- (6) In Zeile 18 (B15) Unterzeilen 2 (Methodisches Arbeiten) und 3 (English for Engineers) werden jeweils nach dem Wort „uSL“ die Worte „schriftliche Arbeit und Präsentationen“ angefügt. 
+      - (6) In Zeile 18 (B15) Unterzeilen 2 (Methodisches Arbeiten) und 3 (English for Engineers) werden jeweils nach dem Wort „uSL“ die Worte „schriftliche Arbeit und Präsentationen“ angefügt. 
 
 3 
 
@@ -140,7 +140,7 @@ aa) Unterspalte 1 wird wie folgt geändert:
 
 13. Anlage 2 wird ersatzlos gestrichen; die bisherige Anlage 3 wird zu Anlage 2. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in den lfd. Nrn. 12 b) cc), c), d) und e) bb) gelten für alle Studierenden, die im Modul B16 die Vorlesung „Nano Komposite“ noch nicht besucht haben. 
 

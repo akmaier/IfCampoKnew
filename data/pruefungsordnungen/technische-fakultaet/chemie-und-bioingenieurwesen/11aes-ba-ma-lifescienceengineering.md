@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Januar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/11AES BA-MA LifeScienceEngineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T10:02:55+00:00
-page_count_chars: 3828
+scraped_at: 2026-07-01T11:24:42+00:00
+page_count_chars: 3835
 ---
 
 # 26. Januar 2016
@@ -12,7 +12,7 @@ page_count_chars: 3828
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/11AES BA-MA LifeScienceEngineering.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Elfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
+# **Elfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOLSE -** 
 
 Vom 26. Januar 2016 
 
@@ -30,7 +30,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Life Science E
 
 b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt: 
 
-„(2)[1] Als weitere Unterlage im Sinne des Abs. 2 Satz 2 Nr. 4 **Anlage 1 ABMPO/ TechFak** i. V. m. § 29 Abs. 1 Nr. 2 **ABMPO/TechFak** ist ein Nachweis über das Beherrschen der deutschen sowie der englischen Sprache jeweils auf dem Level B2 des Gemeinsamen Europäischen Referenzrahmens vorzulegen. 2Für Bewerberinnen und Bewerber mit Deutsch als Muttersprache ist kein Nachweis der deutschen Sprachkenntnisse erforderlich; für Bewerberinnen und Bewerber mit Englisch als Muttersprache ist kein Nachweis der englischen Sprachkenntnisse erforderlich.“ 
+„(2)<sup>1</sup> Als weitere Unterlage im Sinne des Abs. 2 Satz 2 Nr. 4 **Anlage 1 ABMPO/ TechFak** i. V. m. § 29 Abs. 1 Nr. 2 **ABMPO/TechFak** ist ein Nachweis über das Beherrschen der deutschen sowie der englischen Sprache jeweils auf dem Level B2 des Gemeinsamen Europäischen Referenzrahmens vorzulegen. 2Für Bewerberinnen und Bewerber mit Deutsch als Muttersprache ist kein Nachweis der deutschen Sprachkenntnisse erforderlich; für Bewerberinnen und Bewerber mit Englisch als Muttersprache ist kein Nachweis der englischen Sprachkenntnisse erforderlich.“ 
 
 c) Die bisherigen Abs. 2 und 3 werden zu Abs. 3 und 4. 
 
@@ -56,7 +56,7 @@ zu analysieren, Wege zur Problemlösung zu erarbeiten sowie Ergebnisse kritisch 
 
    - b) In Zeile 33 (B25) wird in Spalte 15 (Prüfungsart PL/SL) die Abkürzung „PL“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2016/2017 aufnehmen. 3Abweichend von Satz 1 und 2 treten die unter den Ziffern 1, 2c) sowie 3 vorgenommenen Änderungen rückwirkend zum 1. Oktober 2015 in Kraft. 
 

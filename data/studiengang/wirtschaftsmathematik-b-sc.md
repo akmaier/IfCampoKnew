@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:51:27+00:00
+scraped_at: 2026-07-01T08:28:41+00:00
 ---
 
 # Wirtschaftsmathematik (B.Sc.)
@@ -37,18 +37,18 @@ Die Verbindung der drei Fachgebiete Mathematik, Wirtschaftswissenschaften und In
 
 Nach dem Studium bist Du in der Lage, wirtschaftliche Fragestellungen mit mathematischen Methoden zu analysieren, zu optimieren, Abläufe vorherzusagen und den Unternehmen Lösungen anzubieten.
 
-### Bachelor of Science Wirtschaftsmathematik
+### Fachanteile des Studiengangs Wirtschaftsmathematik (B.Sc.)
 
-* Grundlagen der Mathematik (28%)
-* Mathematik (15 ECTS Mathematische Wahlpflichtmodule + 15 ECTS Querschnittsmodul mit Seminar + 15 ECTS Bachelorseminar und Bachelorarbeit) (25%)
-* Stochastik und Optimierung (17%)
-* Nebenfach Wirtschaftswissenschaften (17%)
-* Nebenfach Informatik (8%)
-* Schlüsselqualifikationen (5%)
+* Grundlagenmodule Mathematik (29%)
+* Mathematische Wahlpflichtmodule (21%)
+* Nebenfach Wirtschaftswissenschaften (18%)
+* Aufbaumodule Stochastik und Optimierung (18%)
+* Nebenfach Informatik (9%)
+* Schlüsselqualifikationen  (6%)
 
 ### Aufbau und Struktur
 
-Das Studium der Wirtschaftsmathematik mit dem Abschlussziel Bachelor umfasst eine Grundlagen- und Orientierungsphase von zwei Semestern sowie eine Bachelorphase von vier Semestern. Zum erfolgreichen Abschluss des Studiengangs werden insgesamt 180 ECTS-Punkte benötigt. Das Studium gliedert sich in die Blöcke „Grundlagenmodule Mathematik“ (50 ECTS), „Aufbaumodule Stochastik und Optimierung“ (20-30 ECTS), „Mathematische Wahlpflichtmodule“ (15-25 ECTS), „Nebenfach Wirtschaftswissenschaften“ (30 ECTS), „Nebenfach Informatik“ (15 ECTS), „Querschnittsmodul und Seminar“ (15 ECTS), „Schlüsselqualifikationen“ (10 ECTS) und „Bachelorseminar und Bachelorarbeit“ (15 ECTS). Weitere Details zum Studiengang sind in der entsprechenden Prüfungsordnung zu finden.
+Das Studium der Wirtschaftsmathematik mit dem Abschlussziel Bachelor umfasst eine Grundlagen- und Orientierungsphase von zwei Semestern sowie eine Bachelorphase von vier Semestern. Zum erfolgreichen Abschluss des Studiengangs werden insgesamt 180 ECTS-Punkte benötigt. Das Studium gliedert sich in die Blöcke „Grundlagenmodule Mathematik“ (50 ECTS), „Aufbaumodule Stochastik und Optimierung“ (30 ECTS), „Mathematische Wahlpflichtmodule“ (35 ECTS), „Nebenfach Wirtschaftswissenschaften“ (30 ECTS), „Nebenfach Informatik“ (15 ECTS), „Schlüsselqualifikationen“ (10 ECTS) und „Bachelorarbeit“ (10 ECTS). Weitere Details zum Studiengang sind in der entsprechenden Prüfungsordnung zu finden.
 
 ### Studienrichtungen und Schwerpunkte
 
@@ -78,24 +78,23 @@ Das Studium der Wirtschaftsmathematik mit dem Abschlussziel Bachelor umfasst ein
 **4. Semester:**
 
 * Projektseminar Optimierung oder Introduction to Statistics and Statistical Programming (5 ECTS)**\***
-* Wahlpflichtmodul Wirtschaftswissenschaften (siehe Modulkatalog Nebenfach Wirtschaftswissenschaften) (5 ECTS)
-* Wahlpflichtmodul Informatik (siehe Modulkatalog Nebenfach Informatik) (5 ECTS)
-* Querschnittsmodul: Lineare und Nichtlineare Systeme (10 ECTS)
-* Schlüsselqualifikation (siehe Modulkatalog Schlüsselqualifikationen)  (5 ECTS)
+* Wahlpflichtmodul Wirtschaftswissenschaften (siehe Modulhandbücher Wirtschaftswissenschaften) (5 ECTS)
+* Wahlpflichtmodul Informatik (siehe Modulhandbücher Informatik) (5 ECTS)
+* Wahlpflichtmodul Mathematik Lineare und nichtlineare Systeme (10 ECTS)
+* Schlüsselqualifikation  (5 ECTS)
 
 **5. Semester:**
 
-* Wahlpflichtmodul Mathematik (siehe Modulkatalog Mathematische Wahlpflichtmodule) (10 ECTS)
+* Wahlpflichtmodul Mathematik (siehe Modulhandbücher Mathematik) (10 ECTS)
 * Lineare und Kombinatorische Optimierung oder Stochastische Modellbildung (10 ECTS)\*
 * Machine Learning & Data Driven Business (5 ECTS)
-* Seminar zum Querschnittsmodul Lineare und nichtlineare Systeme (5 ECTS)
+* Seminar als Wahlpflichtmodul Mathematik (5 ECTS)
 
 **6. Semester:**
 
 * Projektseminar Optimierung oder Introduction to Statistics and Statistical Programming (5 ECTS)**\***
-* Schlüsselqualifikation (siehe Modulkatalog Schlüsselqualifikationen) (5 ECTS)
-* Wahlpflichtmodul Mathematik (siehe Modulkatalog Mathematische Wahlpflichtmodule) (5 ECTS)
-* Bachelorseminar (5 ECTS)
+* Schlüsselqualifikation (5 ECTS)
+* Wahlpflichtmodul Mathematik (siehe Modulhandbücher Mathematik) (10 ECTS)
 * Bachelorarbeit (10 ECTS)
 
 **\*** Wichtige Information: Wird eine Bachelorarbeit im Bereich Stochastik angestrebt, dann wird empfohlen die Vorlesung **Stochastische Modellbildung** im dritten Semester und die Vorlesung **Introduction to Statistics and Statistical Programming** bereits im vierten Semester zu belegen. Sollte hingegen eine Bachelorarbeit im Bereich der Optimierung angestrebt werden, dann wird empfohlen im dritten Semester **Lineare und Kombinatorische Optimierung** und im vierten Semester das **Projektseminar Optimierung** zu belegen.

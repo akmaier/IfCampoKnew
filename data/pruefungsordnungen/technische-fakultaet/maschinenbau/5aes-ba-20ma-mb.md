@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-BA%20MA-MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:27:23+00:00
-page_count_chars: 3631
+scraped_at: 2026-07-01T11:44:25+00:00
+page_count_chars: 3633
 ---
 
 # 7. Juli 2010
@@ -12,7 +12,7 @@ page_count_chars: 3631
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-BA%20MA-MB.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
 
 ## Vom 7. Juli 2010 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
    - b) Es werden folgende Sätze 2 und 3 angefügt: 
 
-   - „[2] Abweichend von Satz 1 muss bei einem Studienbeginn im Bachelorstudium zum Sommersemester 2011 das Praktikum erst bis zur Anmeldung der Bachelorarbeit erbracht werden.[3] Ausnahmen regelt der Prüfungsausschuss .“ 
+   - „<sup>2</sup> Abweichend von Satz 1 muss bei einem Studienbeginn im Bachelorstudium zum Sommersemester 2011 das Praktikum erst bis zur Anmeldung der Bachelorarbeit erbracht werden.<sup>3</sup> Ausnahmen regelt der Prüfungsausschuss .“ 
 
 2. Anlage 1b wird wie folgt geändert: 
 
@@ -40,31 +40,28 @@ b) In den Zeilen 11 (Modul „B 5“), 26 bis 28 (Module „B 15 – 17“) Spal
 
 „ 
 
-|B 7a|Technische<br>Darstellungslehre I|GOP|||2|2,5|2,5||2,5|||||Unbenotete<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B 7b|Technische<br>Darstellungslehre II||||2|2,5|2,5|||2,5||||Unbenotete<br>Studienleistung|
+|B 7a|Technische<br>Darstellungslehre I|GOP|2|2,5|2,5|2,5||Unbenotete<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|
+|B 7b|Technische<br>Darstellungslehre II||2|2,5|2,5||2,5|Unbenotete<br>Studienleistung|
 
-**==> picture [8 x 4] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-„<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+„<br><!-- End of picture text -->
 
 ## 3. Anlage 3 wird wie folgt geändert: 
 
 - a) In Zeile 5 (Modul Nr. 1.1.) Spalte 3 werden die Worte „Fertigungsgerechtes Konstruieren“ durch die Worte „Technische Produktgestaltung“ ersetzt. 
 
-- b) In Zeile 8 (Modul Nr. 3) Spalte 4 wird der Text "120 s" durch die Fußnote "[2)] " ersetzt. 
+- b) In Zeile 8 (Modul Nr. 3) Spalte 4 wird der Text "120 s" durch die Fußnote "<sup>2)</sup> " ersetzt. 
 
 - c) Zeile 10 (Module Nr. 5, 5.1. und 5.2.) erhalten folgende Fassung: 
 
-|„|„|||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|5|5.1|Automatisierte<br>Produktionsanlagen<br>4) 5)|120 s|5.1a|Handhabungs- und<br>Montagetechnik3)|120 s|**X**|**X**|**X**|
-|||||5.1b|Produktion in der<br>Elektronik|120 s||||
-|||||5.1c|Integrated Production<br>Systems|120 s||||
-|5|5.2|Produktions-<br>systematik|120 s|5.2a|Handhabungs- und<br>Montagetechnik3)|120 s|**X**|**X**|**X**|
-|||||5.2b|Produktion in der<br>Elektronik|120 s||||
-|||||5.2c|Integrated Production<br>Systems|120 s||||
+|„||Attiit|5.1a|<sup>Handhabungs- und</sup><br>Montagetechnik<sup>3)</sup>|120 s||||
+|---|---|---|---|---|---|---|---|---|
+|5|5.1|uomasere<br>Produktionsanlagen<br>4) 5)|5.1b<br>120 s|<sup>Produktion in der</sup><br>Elektronik|120 s|**X**|**X**|**X**|
+||||5.1c|<sup>Integrated Production</sup><br>Systems|120 s||||
+||||5.2a|<sup>Handhabungs- und</sup><br>Montagetechnik<sup>3)</sup>|120 s||||
+|5|5.2|<sup>Produktions-</sup><br>systematik|5.2b<br>120 s|<sup>Produktion in der</sup><br>Elektronik|120 s|**X**|**X**|**X**|
+||||5.2c|<sup>Integrated Production</sup><br>Systems|120 s||||
 
 „ 
 

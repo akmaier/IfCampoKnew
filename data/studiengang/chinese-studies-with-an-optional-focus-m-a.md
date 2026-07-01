@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:43:29+00:00
+scraped_at: 2026-07-01T08:19:39+00:00
 ---
 
 # Chinese Studies with an Optional Focus (M.A.)
@@ -91,7 +91,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 * englische Sprachkenntnisse auf dem Niveau C1 des Gemeinsamen Europäischen Referenzrahmens
   gute Kenntnisse der chinesischen Hochsprache
   Nachweis über deutsche Sprachkenntnisse auf dem Niveau B2 (GER); zu den Ausnahmen vgl. Fachstudien- und Prüfungsordnung §2, Absatz 2, Satz 2.
-* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmten Voraussetzungen erforderlich
+* Deutschkenntnisse für internationale Studierende: Deutschkenntnisse unter bestimmter Schwerpunktsetzung
 
 ### Voraussetzungen für Master
 

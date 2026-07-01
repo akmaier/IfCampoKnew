@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. September 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20BA-MA%20Berufspaedagogik%20LA%20berufl.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:57:54+00:00
-page_count_chars: 2915
+scraped_at: 2026-07-01T08:32:51+00:00
+page_count_chars: 2976
 ---
 
 # 26. September 2012
@@ -18,13 +18,13 @@ Vom 26. September 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der FriedrichAlexander-Universität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, geändert durch Satzung vom 31. Juli 2012, wird wie folgt geändert: 
 
 1. In § 4 Abs. 3 wird folgender Satz 2 angefügt: 
 
-„[2] Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
+„<sup>2</sup> Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudiengang acht Semester.“ 
 
 Der bisherige Satz wird zu Satz 1. 
 
@@ -32,13 +32,13 @@ Der bisherige Satz wird zu Satz 1.
 
 „ **§ 4a** 
 
-## **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
+# **Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
 
-(1)[1] Das Masterstudium Berufspädagogik Technik kann in der Form des hälftigen Teilzeitstudiums absolviert werden.[2] Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
+(1)<sup>1</sup> Das Masterstudium Berufspädagogik Technik kann in der Form des hälftigen Teilzeitstudiums absolviert werden.<sup>2</sup> Die Wahl des Teilzeitstudiums ist bei der Immatrikulation schriftlich gegenüber der Studierendenverwaltung zu erklären. 
 
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist im Masterstudiengang während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.[2] Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
+(2)<sup>1</sup> Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist im Masterstudiengang während des Studiums auf schriftlichen Antrag jeweils einmal pro Studienjahr zulässig; der Wechsel richtet sich nach den Vorschriften über den Wechsel des Studiengangs sowie den Anrechnungsvorschriften.<sup>2</sup> Ein Wechsel ab dem dritten Vollzeitsemester in den Teilzeitstudiengang ist nur in begründeten Ausnahmefällen zulässig; die Entscheidung trifft der Prüfungsausschuss. 
 
-(3)[1] Im Teilzeitstudium des Masterstudiengangs können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.[2] Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von Satz 1 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
+(3)<sup>1</sup> Im Teilzeitstudium des Masterstudiengangs können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.<sup>2</sup> Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von Satz 1 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
 
 Das Inhaltsverzeichnis ist entsprechend anzupassen. 
 

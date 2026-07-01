@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 14.08.1992 i.d.F. 25.01.2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Magister_Juristen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:15:38+00:00
-page_count_chars: 9022
+scraped_at: 2026-07-01T10:31:58+00:00
+page_count_chars: 9248
 ---
 
 # PDF vom 14.08.1992 i.d.F. 25.01.2008
@@ -16,7 +16,7 @@ page_count_chars: 9022
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Magisterordnung der Rechts- und Wirtschaftswissenschaftlichen Fakultät - Fachbereich Rechtswissenschaft - der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 14. August 1992** (KWMBl II S. 542) 
+# **Magisterordnung der Rechts- und Wirtschaftswissenschaftlichen Fakultät - Fachbereich Rechtswissenschaft - der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 14. August 1992** (KWMBl II S. 542) 
 
 geändert durch Satzungen vom 26. August 1999 (KWMBl II S. 981) 25. Januar 2008 5. August 2011 
 
@@ -48,7 +48,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Betreuer** 
 
-1Der Student wird von einem Hochschullehrer der Fakultät betreut, den der Dekan im Einverständnis mit den Beteiligten als Betreuer bestellt.[2] Ein Wechsel in der Person des Betreuers auf Wunsch des Studenten ist möglich. 
+1Der Student wird von einem Hochschullehrer der Fakultät betreut, den der Dekan im Einverständnis mit den Beteiligten als Betreuer bestellt.<sup>2</sup> Ein Wechsel in der Person des Betreuers auf Wunsch des Studenten ist möglich. 
 
 ## **§ 4** 
 
@@ -56,9 +56,9 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) Das Magisterstudium dauert zwei Semester. 
 
-(2)[1] Der Student hat an Lehrveranstaltungen im Umfang von insgesamt 24 Semesterwochenstunden teilzunehmen, die sich gleichmäßig auf die beiden Semester verteilen sollen.[2] Der Student wählt die Lehrveranstaltungen im Einverständnis mit dem Betreuer aus. 
+(2)<sup>1</sup> Der Student hat an Lehrveranstaltungen im Umfang von insgesamt 24 Semesterwochenstunden teilzunehmen, die sich gleichmäßig auf die beiden Semester verteilen sollen.<sup>2</sup> Der Student wählt die Lehrveranstaltungen im Einverständnis mit dem Betreuer aus. 
 
-(3)[1] Der Student hat an zwei Seminaren bei verschiedenen Dozenten oder an einem Seminar und an einer Klausurarbeit teilzunehmen.[2] Die Klausuren können im Rahmen einer Übung oder als Abschlussklausur nach § 8 Abs. 2 der Studienordnung des Studiengangs Rechtswissenschaft geschrieben werden.[3] Der Student kann an den Seminaren und Klausuren nach seiner Wahl im Bürgerlichen Recht, im Strafrecht oder im Öffentlichen Recht teilnehmen.[4] Dabei hat er die Nachweise für eine erfolgreiche Teilnahme zu erbringen, die für die ordentlichen deutschen Studierenden vorgeschrieben sind.[5] Diese Leistungsnachweise dürfen nicht alle in demselben Rechtsgebiet (§ 7 Abs. 3) erworben werden. 
+(3)<sup>1</sup> Der Student hat an zwei Seminaren bei verschiedenen Dozenten oder an einem Seminar und an einer Klausurarbeit teilzunehmen.<sup>2</sup> Die Klausuren können im Rahmen einer Übung oder als Abschlussklausur nach § 8 Abs. 2 der Studienordnung des Studiengangs Rechtswissenschaft geschrieben werden.<sup>3</sup> Der Student kann an den Seminaren und Klausuren nach seiner Wahl im Bürgerlichen Recht, im Strafrecht oder im Öffentlichen Recht teilnehmen.<sup>4</sup> Dabei hat er die Nachweise für eine erfolgreiche Teilnahme zu erbringen, die für die ordentlichen deutschen Studierenden vorgeschrieben sind.<sup>5</sup> Diese Leistungsnachweise dürfen nicht alle in demselben Rechtsgebiet (§ 7 Abs. 3) erworben werden. 
 
 ## **§ 5** 
 
@@ -74,7 +74,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) Mit der Magisterarbeit soll der Kandidat nachweisen, dass er selbständig wissenschaftlich arbeiten und die Ergebnisse sachgerecht darstellen kann. 
 
-(2)[1] Die Magisterarbeit wird nach dem Ende der Vorlesungszeit des ersten Semesters und vor dem Ende der Vorlesungszeit des zweiten Semesters vom Betreuer ausgegeben.[2] Der Betreuer teilt den Tag der Ausgabe dem Dekan mit.[3] Die Magisterarbeit ist drei Monate nach der Ausgabe beim Dekan einzureichen. 
+(2)<sup>1</sup> Die Magisterarbeit wird nach dem Ende der Vorlesungszeit des ersten Semesters und vor dem Ende der Vorlesungszeit des zweiten Semesters vom Betreuer ausgegeben.<sup>2</sup> Der Betreuer teilt den Tag der Ausgabe dem Dekan mit.<sup>3</sup> Die Magisterarbeit ist drei Monate nach der Ausgabe beim Dekan einzureichen. 
 
 (3) Die Magisterarbeit ist in deutscher Sprache abzufassen und in schriftlicher sowie in maschinenlesbarer, elektronischer Fassung in der Fachbereichsverwaltung einzureichen. 
 
@@ -84,15 +84,15 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 1. er die eingereichte Magisterarbeit selbständig angefertigt und andere als die angegebenen Quellen und Hilfsmittel nicht benutzt hat; 
 
-2. die eingereichte Magisterarbeit nicht anderweitig als Prüfungsleistung verwendet 
-
-   - worden ist; 
+2. die eingereichte Magisterarbeit nicht anderweitig als Prüfungsleistung verwendet worden ist; 
 
 3. die eingereichte Magisterarbeit noch nicht in der deutschen oder in einer anderen Sprache als Veröffentlichung erschienen ist. 
 
-(5)[1] Die Magisterarbeit wird von zwei Hochschullehrern begutachtet.[2] Sie werden vom Dekan bestimmt.[3] Als Erstgutachter ist in der Regel der Betreuer zu bestellen. 
+(5)<sup>1</sup> Die Magisterarbeit wird von zwei Hochschullehrern begutachtet.<sup>2</sup> Sie werden vom Dekan bestimmt.<sup>3</sup> Als Erstgutachter ist in der Regel der Betreuer zu bestellen. 
 
-## **§ 7 Mündliche Magisterprüfung** 
+## **§ 7** 
+
+## **Mündliche Magisterprüfung** 
 
 (1) Die Zulassung zur mündlichen Magisterprüfung setzt voraus 
 
@@ -102,9 +102,9 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 3. den Nachweis eines ordnungsgemäßen Magisterstudiums gemäß § 4. 
 
-(2)[1] Über die Zulassung entscheidet der Dekan.[2] Die Zulassung wird versagt, wenn die Voraussetzungen gemäß Absatz 1 nicht vorliegen oder wenn der Kandidat diese oder eine gleichwertige Prüfung bereits zweimal nicht bestanden hat. 
+(2)<sup>1</sup> Über die Zulassung entscheidet der Dekan.<sup>2</sup> Die Zulassung wird versagt, wenn die Voraussetzungen gemäß Absatz 1 nicht vorliegen oder wenn der Kandidat diese oder eine gleichwertige Prüfung bereits zweimal nicht bestanden hat. 
 
-(3)[1] Die mündliche Prüfung erstreckt sich auf die folgenden drei Gebiete: 
+(3)<sup>1</sup> Die mündliche Prüfung erstreckt sich auf die folgenden drei Gebiete: 
 
 1. die Grundzüge des deutschen Bürgerlichen Rechts, 
 
@@ -116,7 +116,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (4) Der Dekan bestellt drei Hochschullehrer zu Prüfern für die mündliche Prüfung; einer der Prüfer soll der Betreuer der Magisterarbeit sein. 
 
-(5)[1] Die Prüfung erfolgt in deutscher Sprache und dauert je Prüfungskandidat und Rechtsgebiet etwa 15 Minuten.[2] Sie wird von dem jeweiligen Prüfer in Gegenwart eines sachkundigen Beisitzers abgenommen.[3] Von den mündlichen Prüfungen sollen Niederschriften angefertigt werden, aus denen die wesentlichen Gegenstände und das Ergebnis der Prüfung hervorgehen. 
+(5)<sup>1</sup> Die Prüfung erfolgt in deutscher Sprache und dauert je Prüfungskandidat und Rechtsgebiet etwa 15 Minuten.<sup>2</sup> Sie wird von dem jeweiligen Prüfer in Gegenwart eines sachkundigen Beisitzers abgenommen.<sup>3</sup> Von den mündlichen Prüfungen sollen Niederschriften angefertigt werden, aus denen die wesentlichen Gegenstände und das Ergebnis der Prüfung hervorgehen. 
 
 (6) Die mündliche Prüfung wird am Ende des zweiten Semesters abgehalten. 
 
@@ -124,7 +124,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Bewertung der Prüfungsleistungen** 
 
-(1)[1] Die einzelnen Prüfungsleistungen werden bewertet mit 
+(1)<sup>1</sup> Die einzelnen Prüfungsleistungen werden bewertet mit 
 
 1 = sehr gut 
 
@@ -140,7 +140,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 3 
 
-(2)[1] Die Prüfungsgesamtnote wird auf zwei Dezimalstellen errechnet.[2] Dazu werden die Einzelnoten aus den Gutachten über die Magisterarbeit mit dem Faktor 3 multipliziert, die Einzelnoten aus der mündlichen Prüfung dazu addiert und diese Summe durch 9 geteilt. 
+(2)<sup>1</sup> Die Prüfungsgesamtnote wird auf zwei Dezimalstellen errechnet.<sup>2</sup> Dazu werden die Einzelnoten aus den Gutachten über die Magisterarbeit mit dem Faktor 3 multipliziert, die Einzelnoten aus der mündlichen Prüfung dazu addiert und diese Summe durch 9 geteilt. 
 
 (3) Für die Gesamtnote gilt: 
 
@@ -152,7 +152,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Magisterurkunde** 
 
-1Nach Bestehen der Magisterprüfung verleiht der Dekan dem Kandidaten den akademischen Grad eines Magister Legum (LL.M.) für die Friedrich-AlexanderUniversität Erlangen-Nürnberg durch Aushändigung der Magisterurkunde.[2] Die Urkunde enthält die Prüfungsgesamtnote und wird vom Dekan unterschrieben.[3] Das Recht zur Führung des akademischen Grades beginnt mit dem Tag der Aushändigung der Urkunde. 
+1Nach Bestehen der Magisterprüfung verleiht der Dekan dem Kandidaten den akademischen Grad eines Magister Legum (LL.M.) für die Friedrich-AlexanderUniversität Erlangen-Nürnberg durch Aushändigung der Magisterurkunde.<sup>2</sup> Die Urkunde enthält die Prüfungsgesamtnote und wird vom Dekan unterschrieben.<sup>3</sup> Das Recht zur Führung des akademischen Grades beginnt mit dem Tag der Aushändigung der Urkunde. 
 
 ## **§ 10** 
 

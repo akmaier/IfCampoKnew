@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 28.07.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_IberoRomJULI2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:19+00:00
-page_count_chars: 11622
+scraped_at: 2026-07-01T10:20:28+00:00
+page_count_chars: 11435
 ---
 
 # PDF vom 04.10.2007 i.d.F. 28.07.2017
@@ -16,7 +16,7 @@ page_count_chars: 11622
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Iberoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -38,9 +38,18 @@ geändert durch Satzungen vom 11. Juli 2008
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 1 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Zulassungsvoraussetzungen ........................................................................................... 3 § 7 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3 § 8 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlage 1 ................................................................................................................................ 4 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 1|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Zulassungsvoraussetzungen ........................................................................................... 3|
+|§ 7 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3<br>|
+|§ 8 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlage 1 ................................................................................................................................ 4|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -48,21 +57,21 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[1] Das Fach Iberoromanistik kann im Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang 
+(1)<sup>1</sup> Das Fach Iberoromanistik kann im Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang 
 
 1 
 
-von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden.[ 2] Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
+von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden.<sup>2</sup> Das Studium unterteilt sich in das Basis-, das Aufbau- und das Vertiefungsjahr. 
 
-(2)[1] Im Fach Iberoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im spanischsprachigen Kulturraum vermittelt.[2] In der wissenschaftlichen Auseinandersetzung mit der spanischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit spanischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der spanischsprachigen Kultur.[4] Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
+(2)<sup>1</sup> Im Fach Iberoromanistik werden vorhandene sprachpraktische Kompetenzen vertieft sowie ein umfassender Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im spanischsprachigen Kulturraum vermittelt.<sup>2</sup> In der wissenschaftlichen Auseinandersetzung mit der spanischen Sprache, Literatur und Kultur erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit spanischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden zu einem kritischen und reflektierten Umgang mit der spanischsprachigen Kultur.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
 
-- (1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert: 
+- (1)<sup>1</sup> Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Er ist in drei Phasen gegliedert: 
 
    1. In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Sprach-, Literatur- und Kulturwissenschaft und vertiefen ihre sprachpraktischen Kenntnisse (Basismodule). 
 
@@ -82,15 +91,13 @@ von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten stud
 
 1. Die Basismodule Spanische Sprachpraxis 1+2, Spanische Sprachwissenschaft und Spanische Literaturwissenschaft 
 
-2. In der zweiten Studienphase Aufbaumodule im Umfang von 20 ECTS-Punkten. 
-
-3. In der dritten Studienphase Vertiefungsmodule im Umfang von 20 ECTSPunkten, von denen mindestens eines aus dem Bereich der Fachwissenschaft gewählt werden muss; wenn Spanische Sprachpraxis 3 nicht in der zweiten Studienphase gewählt wurde, muss es in der dritten Studienphase gewählt werden. 
+2. In der zweiten Studienphase Aufbaumodule im Umfang von 20 ECTS-Punkten. 3. In der dritten Studienphase Vertiefungsmodule im Umfang von 20 ECTSPunkten, von denen mindestens eines aus dem Bereich der Fachwissenschaft gewählt werden muss; wenn Spanische Sprachpraxis 3 nicht in der zweiten Studienphase gewählt wurde, muss es in der dritten Studienphase gewählt werden. 
 
 ## (4) Zum Studienaufbau und den Prüfungen siehe **Anlage 1** . 
 
-(5)[1] Bei Vorkenntnissen der spanischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.[2] Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
+(5)<sup>1</sup> Bei Vorkenntnissen der spanischen Sprache, die über die Zulassungsanforderung hinausgehen, kann eine Einstufung in das entsprechende Modul erfolgen.<sup>2</sup> Falls nicht alle sprachpraktischen Module belegt werden müssen, kann in Absprache mit der Studienberatung alternativ auch ein weiteres Aufbau- oder Vertiefungsmodul abgelegt werden. 
 
-(6)[1] Wird Spanisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.[2] Dabei soll ein Modul mit der Ableistung eines Praktikums im spanischsprachigen Ausland oder aber in einem auf Spanien oder Lateinamerika bezogenen Bereich absolviert werden. 
+(6)<sup>1</sup> Wird Spanisch als Erstfach gewählt, so sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei soll ein Modul mit der Ableistung eines Praktikums im spanischsprachigen Ausland oder aber in einem auf Spanien oder Lateinamerika bezogenen Bereich absolviert werden. 
 
 (7) Abweichend von § 3 Abs. 4 **ABMStPO/Phil** werden im Fach Iberoromanistik einzelne Lehrveranstaltungen und Prüfungen auch in Spanisch abgehalten; Näheres regelt das Modulhandbuch. 
 
@@ -100,7 +107,7 @@ Für die Grundlagen- und Orientierungsprüfung müssen im Fach Iberoromanistik d
 
 ## **§ 6 Zulassungsvoraussetzungen** 
 
-1Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.[3] Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 3 der **ABMStPO/Phil** nachgewiesen werden. 
+1Die Studierenden müssen den Nachweis spanischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden.<sup>3</sup> Darüber hinaus müssen Kenntnisse in einer weiteren lebenden Fremdsprache gem. § 29 Abs. 1 Satz 2 Nr. 3 der **ABMStPO/Phil** nachgewiesen werden. 
 
 ## **§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
 
@@ -112,41 +119,37 @@ Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 3 
 
-## **Anlage 1:** 
+## **<u>Anlage 1:</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang<br>d f|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-|||||||||in ECTS-Punkten|||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5|6.|er Prüung||
-|**Basismodul Spanische Sprachpraxis 1**|Español intermedio I||6|||10|8||||||Klausur 90‘|1|
-||Culturaycomunicación oral||2||||2||||||||
-|**Basismodul Spanische Sprachpraxis 2**|Español intermedio II||6|||10||8|||||Klausur 90‘ (80 %) und<br>mündl. Prüfung 15‘ (20 %)|1|
-||Fonética práctica||2|||||2|||||||
-|**Basismodul Spanische Sprachwissenschaft**|Basisseminar Spanische Sprachwissenschaft||||2|5|5||||||Klausur 90‘|1|
-|**Basismodul Spanische Literaturwissenschaft**|Basisseminar Spanische Literaturwissenschaft||||2|5||5|||||Klausur 90‘|1|
-|**Aufbaumodul Spanische Sprachwissenschaft 1**|Phonetik und Phonologie des Spanischen||1|||5||2|||||Klausur 45‘ (30 %) und Referat ca. 20‘ und<br>Hausarbeit 10 S. (70 %)|1|
-||Proseminar||||2||||3||||||
-|**Aufbaumodul Spanische Sprachwissenschaft 2**|Vorlesung|2||||5|||2||||Klausur 90‘ (40 %) und 1-2 Hausaufgaben,<br>insgesamt ca. 5 S.(60 %)|1|
-||Aufbauseminar||||2|||||3|||||
-||Proseminar||||2|||||4|||Hausarbeit 10 S. (50 %) und Klausur 90‘ oder<br>|1|
-|**Aufbaumodul Spanische Literatur- und**<br>**Kulturwissenschaft**|Vorlesung|2||||10|||4||||mündl. Prüfung ca. 15‘ (30 %)2)und<br>||
-||Aufbauseminar||||2||||2||||Referat, ca. 20‘ oder Protokoll, ca. 2 S. (20 %)2)||
-|**Aufbaumodul Spanische Sprachpraxis 3**|Comprensión oral||2|||10|||2||||mündl. Prüfung 15‘ (20 %) und<br>Textproduktion 90‘ (50 %) und<br>Grammatikklausur 90‘ (30 %)|1|
-||Comprensión y comunicación escrita||2|||||||5|||||
-||Gramática y estilística I||2||||||3||||||
-|**Vertiefungsmodul Spanische Sprachwissen-**<br>**schaft1)**|Mittelseminar||||2|10|||||6||Referat ca. 20‘ und Hausarbeit 15 S. (50 %) und<br>Klausur oder mündl. Prüfung 15-20´ (50 %)2)|1|
-||Vorlesung oder Seminar|2||||||||||4|||
-|**Vertiefungsmodul Spanische Literatur- und**<br>**Kulturwissenschaft1)**|Mittelseminar||||2||||||6||Referat ca. 20‘ und Hausarbeit 15 S. (60 %) und<br>Klausur 90’ oder mündl. Prüfung 15‘-20‘ (40 %)2)|1|
-||Vorlesung oder Seminar|2||||10||||||4|||
-|**Vertiefungsmodul Spanische Sprachpraxis 4**|Cultura española||2|||5|||||3||Landeskundeklausur 90‘ und<br>Übersetzung 90‘<br>Modulnote = Note der besseren Klausur|1|
-||Traducción alemán-español||2||||||||2||||
-|**Vertiefungsmodul Spanische Sprachpraxis 5**|Cultura hispanoamericana||2|||5||||||3|Landeskundeklausur 90‘ und<br>Grammatikklausur 90‘<br>Modulnote = Note der besseren Klausur|1|
-||Gramática y estilística II||2|||||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit|||||10||||||10|Bachelorarbeit|2|
-||Summe SWS:|6|31||14||||||||||
-||Summe ECTS:|||||80+10|15|17|16|12|11|19|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS||Gesamt<br>|<br>Workload-Verteil<br>in ECTS-|ung pro Semester<br>Punkten|Art und Umfang<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+||V<br>Ü<br>|P<br>S|ECTS|1.<br>2.<br>3.|4.<br>5<br>6.|der Prüfung|note|
+|**Bidl Sih Shi 1**|Español intermedio I<br>6||10|8||Kl 90‘|1|
+|**assmou pansce pracpraxs**|Culturaycomunicación oral<br>2|||2||ausur||
+||Español intermedio II<br>6|||8||Klausur 90‘ (80 %) und||
+|**Basismodul Spanische Sprachpraxis 2**|Fonética práctica<br>2||10|2||mündl. Prüfung 15‘ (20 %)|1|
+|**Basismodul Spanische Sprachwissenschaft**|Basisseminar Spanische Sprachwissenschaft|2|5|5||Klausur 90‘|1|
+|**Basismodul Spanische Literaturwissenschaft**|Basisseminar Spanische Literaturwissenschaft|2|5|5||Klausur 90‘|1|
+|**Aufbaumodul Sanische Srachwissenschaft 1**|Phonetik und Phonologie des Spanischen<br>1||5|2||Klausur 45‘ (30 %) und Referat ca. 20‘ und|1|
+|**p p**|Proseminar|2||3||Hausarbeit 10 S. (70 %)||
+|**Aufbaumodul Sanische Srachwissenschaft 2**|Vorlesung<br>2||5|2||Klausur 90‘ (40 %) und 1-2 Hausaufgaben,|1|
+|**p p**|Aufbauseminar|2|||3|insgesamt ca. 5 S.(60 %)||
+||Proseminar|2|||4|Hausarbeit 10 S. (50 %) und Klausur 90‘ oder<br>||
+|**Aufbaumodul Spanische Literatur- und**<br>**Kulturwissenschaft**|Vorlesung<br>2||10|4||mündl. Prüfung ca. 15‘ (30 %)<sup>2)</sup>und<br>|1|
+||Aufbauseminar|2||2||Referat, ca. 20‘ oder Protokoll, ca. 2 S. (20 %)<sup>2)</sup>||
+||Comprensión oral<br>2|||2||mündl. Prüfung 15‘ (20 %) und||
+|**Aufbaumodul Spanische Sprachpraxis 3**|Comprensión y comunicación escrita<br>2||10||5|<br>Textproduktion 90‘ (50 %) und|1|
+||Gramática y estilística I<br>2|||3||Grammatikklausur 90‘ (30 %)||
+|**Vertiefungsmodul Spanische Sprachwissen-**<br>|Mittelseminar|2|||6|Referat ca. 20‘ und Hausarbeit 15 S. (50 %) und<br>||
+|**schaft**<sup>**1)**</sup>|Vorlesung oder Seminar<br>2||10||4|Klausur oder mündl. Prüfung 15-20´ (50 %)<sup>2)</sup>|1|
+|**Vertiefungsmodul Spanische Literatur- und**<br>|Mittelseminar|2|10||6|Referat ca. 20‘ und Hausarbeit 15 S. (60 %) und<br>|1|
+|**Kulturwissenschaft**<sup>**1)**</sup>|Vorlesung oder Seminar<br>2||||4|Klausur 90’ oder mündl. Prüfung 15‘-20‘ (40 %)<sup>2)</sup>||
+|**Vertiefungsmodul Spanische Sprachpraxis 4**|Cultura española<br>2||5||3|Landeskundeklausur 90‘ und<br>Übersetzung 90‘|1|
+||Traducción alemán-español<br>2||||2|<br>Modulnote = Note der besseren Klausur||
+|**Vtifdl Sih Shi 5**|Cultura hispanoamericana<br>2||5||3|Landeskundeklausur 90‘ und<br>Gtikkl 90‘|1|
+|**ereungsmou pansce pracpraxs**|Gramática y estilística II<br>2||||2|rammaausur<br>Modulnote = Note der besseren Klausur||
+|**Bachelorarbeit**|Bachelorarbeit||10||10|Bachelorarbeit|2|
+||Summe SWS:<br>6<br>31<br>Summe ECTS:|14|80+10|15<br>17<br>16|12<br>11<br>19|||
 
 - 1) Es ist eines der beiden Module zu wählen. 
 

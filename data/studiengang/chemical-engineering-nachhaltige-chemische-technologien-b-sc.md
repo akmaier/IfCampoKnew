@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
-scraped_at: 2026-05-01T06:43:12+00:00
+scraped_at: 2026-07-01T08:19:25+00:00
 ---
 
 # Chemical Engineering - Nachhaltige Chemische Technologien (B.Sc.)
@@ -39,7 +39,7 @@ Aufgabenbereiche von Chemieingenieurinnen und Chemieingenieuren sind:
 * Anlagen- und Apparatebau, Planung, Konstruktion
 * Boden-, Wasser-, Luftreinhaltung
 
-### Bachelor of Science Chemical Engineering - Nachhaltige Chemische Technologien
+### Fachanteile des Studiengangs Chemical Engineering – Nachhaltige Chemische Technologien (B.Sc.)
 
 * Verfahrenstechnik und Anlagenbau (41%)
 * Mathematik (14%)

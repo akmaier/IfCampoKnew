@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES-Indogerm-2Fach.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:08+00:00
-page_count_chars: 2131
+scraped_at: 2026-07-01T10:21:01+00:00
+page_count_chars: 2133
 ---
 
 # 2. März 2010
@@ -14,7 +14,7 @@ page_count_chars: 2131
 
 **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
-## Vom 2. März 2010 
+# Vom 2. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -28,11 +28,11 @@ a) In der Tabelle werden nach den Zeilen 17-20 (Aufbaumodul Weitere indogermanis
 
 „ 
 
-|5|Aufbaumodul<br>Rekonstruktion der<br>indogermanischen<br>Grundsprache|Übung|2|2|K 90’|
-|---|---|---|---|---|---|
-|||Eigenstudiums-Element<br>zurÜbung|1|1||
-|||Mittelseminar|2|6|HA|
-|||Eigenstudiums-Element zum<br>MS|1|1|K 90’|
+|5|Aufbaumodul|Übung|2<br>2|K 90’|
+|---|---|---|---|---|
+||Rekonstruktion der<br>indogermanischen<br>|Eigenstudiums-Element<br>zurÜbung|1<br>1||
+||Grundsprache|Mittelseminar|2<br>6|HA|
+|||Eigenstudiums-Element zum<br>MS|1<br>1|K 90’|
 
 „ 
 
@@ -40,7 +40,7 @@ a) In der Tabelle werden nach den Zeilen 17-20 (Aufbaumodul Weitere indogermanis
 
 - c) Im zweiten Absatz unter der Tabelle wird nach dem Wort „insgesamt“ die Zahl „30“ durch die Zahl „20“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Satzung tritt am 1. April 2010 in Kraft. 2Sie gilt für alle Studierenden, die im Bereich der Importmodule bis zum In-Kraft-Treten der Satzung lediglich bis zu 20 ECTS-Punkte erworben haben. 
 

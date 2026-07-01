@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Januar 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:07:49+00:00
-page_count_chars: 5242
+scraped_at: 2026-07-01T11:29:32+00:00
+page_count_chars: 5214
 ---
 
 # 17. Januar 2011
@@ -12,13 +12,13 @@ page_count_chars: 5242
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES-BA%20MA-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik  an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik  an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
 
-## Vom 17. Januar 2011 
+# Vom 17. Januar 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, zuletzt geändert durch Satzung vom 7. Juli 2010, wird wie folgt geändert: 
 
@@ -28,15 +28,15 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
    - b) In Abs. 1 wird folgender neuer Satz 3 angefügt: 
 
-      - „[3] Für das Sommersemesterangebot 2011 findet abweichend von folgenden Bestimmungen **Anlage 2** Anwendung.“ 
+      - „<sup>3</sup> Für das Sommersemesterangebot 2011 findet abweichend von folgenden Bestimmungen **Anlage 2** Anwendung.“ 
 
    - c) Der bisherige Abs. 2 wird ersatzlos gestrichen; der bisherige Absatz 3 wird zum neuen Abs. 2. 
 
    - d) Es wird folgender neuer Abs. 3 angefügt: 
 
-      - „(4)[1] Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik beginnt jeweils zum Wintersemester.[2] Abweichend von Satz 1 kann das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik auch zum Sommersemester 2011 begonnen werden.“ 
+      - „(4)<sup>1</sup> Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik beginnt jeweils zum Wintersemester.<sup>2</sup> Abweichend von Satz 1 kann das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik auch zum Sommersemester 2011 begonnen werden.“ 
 
-## 2. § 39 Abs. 2 entfällt. 
+2. § 39 Abs. 2 entfällt. 
 
    - Der bisherige Abs. 3 wird zu Abs. 2. 
 
@@ -48,50 +48,53 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
    - „ **Anlage 2** Studienbeginn Sommersemester 2011: 
 
-|**Modul**|**Modul**||||**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**schriftl.**<br>**Prüfung**<br>**Dauer in**<br>**Minuten bzw.**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**Umfang**|||**über die Semester**|||||||
-|||||||||||||
-|||**SWS**|||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|Nr.|Bezeichnung|V|Ü|P|SS|WS|SS|WS|SS|WS||
-|1|Mathematik A 1<br>(GOP)|4|2|0|**7,5 **||||||uSL+90|
-|2|Mathematik A 2<br>(GOP)|5|3|0||**10**|||||uSL+120|
-|3|Grundlagen der Elektrotechnik I<br>(GOP)|4|2|0|**7,5 **||||||120|
-|4|Grundlagen der Elektrotechnik II<br>(GOP)|2|2|0||**5**|||||90|
-|5|Experimentalphysik I|3|1|0||**5**|||||90|
-|6|Experimentalphysik II|3|1|0|||**5**||||90|
-|7|Grundlagen der Informatik|3|3|0|**7,5 **||||||uSL+90|
-|8|Grundlagen der systemnahen Programmierung in<br>C|1|1|0|||**2,5**||||60|
-|9|Werkstoffkunde|2|0|0||**2,5**|||||60|
-|10|Nichttechnische Wahlfächer|2|2|0|**5 **||||||bSL|
-|11|Praktikum Grundlagen der Elektrotechnik|0|0|3||**2,5**|||||uSL|
-|12|Praktikum Schaltungstechnik|0|0|3|||||**2,5 **||uSL|
-|13|Arbeits- und Präsentationstechnik, Simulationstools|1|0|1|**2,5 **||||||uSL|
-|14|Mathematik A 3|2|2|0|||**5**||||uSL+60|
-|15|Mathematik A 4|2|2|0||||**5**|||uSL+60|
-|16|Grundlagen der Elektrotechnik III|2|2|0|||**5**||||90|
-|17|Grundlagen der Elektrischen Antriebstechnik|2|1|0||||**3,5**|||90|
-||Grundlagen der Elektrischen Energieversorgung|2|2|0|||**4**||||90|
-|18|Regelungstechnik A (Grundlagen)<br>(FSP)|2|2|0||||**5**|||90|
-|19|Halbleiterbauelemente|2|2|0||||**5**|||90|
-|20|Digitaltechnik|2|2|0||**5**|||||90|
-|21|Schaltungstechnik<br>(FSP)|2|2|0|||**5**||||90|
-|22|Signale und Systeme I|2|1|0|||**5**||||90|
-||Signale und Systeme II<br>(FSP)|3|2|0||||**5**|||90|
-|23|Nachrichtentechnische Systeme<br>(FSP)|3|1|0||||||**5**|90|
-|24|Elektromagnetische Felder I<br>(FSP)|1|1|0|||||**2,5 **||60|
-|25|Elektromagnetische Felder II<br>(FSP)|2|2|0||||||**5**|90|
-|26|Passive Bauelemente und deren HF-Verhalten<br>(FSP)|2|2|0||||**5**|||90|
-|27|Technische Wahlfächer|2|2|0|||||**5 **||bSL|
-|28|_Studienrichtung:_Kernmodule<br> Vertiefungsmodul<br>Laborpraktikum<br>Hauptseminar|4|4|0|||||**10 **||siehe<br>Katalog|
-|||2|2|0|||||**5**|||
-|||0|0|3|||||**2,5 **||uSL|
-|||0|2|0|||||**2,5 **||bSL|
-||Industriepraktikum|||||||||**10**|uSL|
-||_Bachelorarbeit incl. Vortrag_|||||||||**10**|bSL|
-|Summe||69|53|10|30|30|31,5|28,5|30|30||
-|Summe V+Ü+P||132|||Summe der Leistungspunkte<br>**180**|||||||
-|(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung<br>(FSP) fachwissenschaftlich, studiengangsbezogenes Pflichtmodul i. S. d. §<br>uSL   unbenotete Studienleistung<br>bSL   benotete Studien-/Prüfungsleistung||43 FPO EEI||||||||||
+|**Modul**||||**Verteil**|**ung d**|**er Leis**|**tungsp**|**unkte**||**.**<br> <br>**n**<br>**zw.**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||**Umfan**|**g**||**über d**|**ie Se**|**mester**||||**iftl**<br>**ung**<br>**er i**<br>**n b**|
+|||**SWS**||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**chr**<br>**rüf**<br>**au**<br>**ute**|
+|Nr.<br>Bezeichnung|V<br>|Ü|P|SS|WS|SS|WS|SS|WS|**s**<br>**P**<br>**D**<br>**Min**|
+|1 Mathematik A 1<br>(GOP)|4|2|0|**7,5**||||||uSL+90|
+|2 Mathematik A 2<br>(GOP)|5|3|0||**10**|||||uSL+120|
+|3 Grundlagen der Elektrotechnik I<br>(GOP)|4|2|0|**7,5**||||||120|
+|4 Grundlagen der Elektrotechnik II<br>(GOP)|2|2|0||**5**|||||90|
+|5 Experimentalphysik I|3|1|0||**5**|||||90|
+|6 Experimentalphysik II|3|1|0|||**5**||||90|
+|7 Grundlagen der Informatik|3|3|0|**7,5**||||||uSL+90|
+|8 Grundlagen der systemnahen Programmierung in<br>C|1|1|0|||**2,5**||||60|
+|<br>9 Werkstoffkunde|2|0|0||**2,5**|||||60|
+|10 Nichttechnische Wahlfächer|2|2|0|**5**||||||bSL|
+|11 Praktikum Grundlagen der Elektrotechnik|0|0|3|||**2,5**||||uSL|
+|12 Praktikum Schaltungstechnik|0|0|3|||||**2,5**||uSL|
+|13 Arbeits- und Präsentationstechnik, Simulationstools|1|0|1|**2,5**||||||uSL|
+|14 Mathematik A 3|2|2|0|||**5**||||uSL+60|
+|15 Mathematik A 4|2|2|0||||**5**|||uSL+60|
+|16 Grundlagen der Elektrotechnik III|2|2|0|||**5**||||90|
+|Grundlagen der Elektrischen Antriebstechnik|2|1|0||||**3,5**|||90|
+|17 Grundlagen der Elektrischen Energieversorgung|2|2|0|||**4**||||90|
+|18 Regelungstechnik A (Grundlagen)<br>(FSP)|2|2|0||||**5**|||90|
+|19 Halbleiterbauelemente|2|2|0||||**5**|||90|
+|20 Digitaltechnik|2|2|0||**5**|||||90|
+|21 Schaltungstechnik<br>(FSP)|2|2|0|||**5**||||90|
+|Signale und Systeme I|2|1|0|||**5**||||90|
+|22 Signale und Systeme II<br>(FSP)|3|2|0||||**5**|||90|
+|23 Nachrichtentechnische Systeme<br>(FSP)|3|1|0||||||**5**|90|
+|24 Elektromagnetische Felder I<br>(FSP)|1|1|0|||||**2,5**||60|
+|25 Elektromagnetische Felder II<br>(FSP)|2|2|0||||||**5**|90|
+|26 Passive Bauelemente und deren HF-Verhalten<br>(FSP)|2|2|0||||**5**|||90|
+|27 Technische Wahlfächer|2|2|0|||||**5**||bSL|
+|_Studienrichtung:_Kernmodule<br>28|4|4|0|||||**10**||siehe<br>Ktl|
+|Vertiefungsmodul|2|2|0|||||**5**||aaog|
+|Laborpraktikum|0|0|3|||||**2,5**||uSL|
+|Hauptseminar|0|2|0|||||**2,5**||bSL|
+|Industriepraktikum|||||||||**10**|uSL|
+|_Bachelorarbeit incl. Vortrag_|||||||||**10**|bSL|
+|Summe|69|53|10|30|30|31,5|<br>28,5|<br>30|30||
+|Ü|||||||||||
+|Summe V++P|||132|Su|mme|der L<br>**1**|eistun<br>**80**|gspu|kte||
+|(GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung|||||||||||
+|<br>(FSP) fachwissenschaftlich, studiengangsbezogenes Pflichtmodul i. S. d. § 4|3 FPO|EEI|||||||||
+|uSL   unbenotete Studienleistung|||||||||||
+|<br>bSL   benotete Studien-/Prüfungsleistung|||||||||||
 
 “ 
 

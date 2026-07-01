@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LAPO-Kunst.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:13+00:00
-page_count_chars: 8837
+scraped_at: 2026-07-01T08:40:49+00:00
+page_count_chars: 8931
 ---
 
 # 15. September 2011
@@ -14,11 +14,11 @@ page_count_chars: 8837
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 15. September 2011 
+# Vom 15. September 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. März 2009, geändert durch Satzung vom 1. Dezember 2010, wird wie folgt geändert: 
 
@@ -26,15 +26,15 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 „(1) Für das Lehramt an Real- Grund- und Hauptschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
 
-|**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**|**Studienleistung**|**Gewichtung**|
+|**Semester**<br>|<br>**Modul**<br>|**SWS**<br>|**ECTS**<br>|**Zulassungsvoraussetzungen**<br>|**Prüfungsleistung**<br>|**Studienleistung**|**Gewichtung**<br>|
 |---|---|---|---|---|---|---|---|
-|**1 + 2**|**1) Basis 1:**<br>**Gestaltungsgrundlagen**|**14**|**14**|Eignungsprüfung|**Note auf praktische**<br>**(und mündliche)**<br>**Leistungen**||**0,5**|
-||Zeichnung|2|2|||||
+|**1 + 2**|**1) Basis 1:**<br>**Gestaltungsgrundlagen**|**14**|**14**|Eignungsprüfung|**Note auf praktische**<br>**(und mündliche)**||**0,5**|
+||Zeichnung|2|2||<br>**Leistungen**|||
 ||Malerei|2|2|||||
 ||Dreidimensionales<br>Gestalten|3|3|||||
 ||Druckgrafik|3|3|||||
-||Gestaltung mit digitalen<br>Medien|2|2|||||
-||Ästhetische Spielformen|2|2|||||
+||Gestaltung mit digitalen<br>Medien<br>|2|2|||||
+||Ästhetische Spielformen<br>|2<br>|2<br>|||||
 |**1 + 2**|**2) Basis 2:**<br>**Kunstgeschichte und**<br>**Kunstpädagogik**|**9**|**10**|Eignungsprüfung|||**1,0**|
 |**1**|Kunstgeschichte 1|2|2|||Studienleistungen mit<br>theoretischen<br>und/oder praktischen<br>Arbeiten||
 |**2**|Kunstgeschichte 2|2|3||Note auf Klausur<br>(ca. 90 Min)|||
@@ -45,11 +45,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 ||Werken / Konstruktives<br>Bauen<br>(incl. Maschinenschein)|3|2||Note auf praktische<br>Leistungen|||
 ||Kunstdidaktik 2 (FD)<br>(Werken)|2|2|||Studienleistungen mit<br>theoretischen<br>und/oder praktischen<br>Anteilen||
 ||Kunstdidaktik 3 (FD)<br>(Digitale Medien)|2|2|||Studienleistungen mit<br>theoretischen<br>und/oder praktischen<br>Anteilen||
-||Umwelt- und<br>Produktgestaltung|2|2|||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
-|**3 + 4**|**4) Vertiefung**|**10**|**11**||||**1,0 **|
-||Künstlerische Arbeit 1|3|3|Modul 1)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
-||Künstlerische Arbeit 2|3|3|Modul 1)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
-||Zeitgenössische Kunst|2|2|Modul 2)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
+||Umwelt- und<br>Produktgestaltung<br>|2<br>|2<br>|||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
+|**3 + 4**|**4) Vertiefung**<br>Künstlerische Arbeit 1|**10**<br>3|**11**<br>3|Modul 1)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen|**1,0 **|
+||Künstlerische Arbeit 2|3|3|Modul 1)||<br>Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
+||Zeitgenössische Kunst|2|2|Modul 2)||<br>Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
 ||Werkanalyse|2|3|Modul 2)|Note auf Präsentation<br>(ca. 20 Min.) und<br>Hausarbeit(ca. 10|||
 
 ||||||Seiten|||
@@ -57,7 +56,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 ||**5) Kunst und Unterricht**|**9**|**10**||||**2,0 **|
 |**4 + 5**|Kunstpädagogische Projekt<br>(FD)|3|3|Module 1) bis 3)|Note auf Dokumen-<br>tation(ca. 10 Seiten)|||
 |**4 + 5**|Unterrichtsvorbereitung<br>(FD)|2|3|Module 1) bis 3)|Note auf Dokumen-<br>tation(ca. 10 Seiten)|||
-|**2 – 6**|Museumspädagogik|2|2|Modul 2)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
+|**2 – 6**|Museumspädagogik<br>|2|2|Modul 2)||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
 |**7**|Überblick und Ausblick<br>Kunstpädagogik|2|2|Kunstpädagogisches Projekt und<br>Unterrichtsvorbereitung||Studienleistungen mit<br>theoretischem<br>und/oder praktischen<br>Anteilen||
 ||**6) Hochschulspezif.**<br>**Schwerpunkt:**<br>**Eigene künstlerische**<br>**Arbeit**|**10**|**13**||**Note auf praktische**<br>**(und mündliche)**<br>**Leistungen**||**2,0**|
 |**2 – 7**|Exkursion/Künstlerische<br>Arbeit vor Ort|3|6|Eignungsprüfung||||
@@ -66,25 +65,26 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 ||**Fachwissenschaft Grund-**<br>**und Hauptschule:**|**49**|**54**|||||
 ||**Fachdidaktik (FD) Grund-**<br>**und Hauptschule:**|**12**|**12**|||||
 
-(2)[1] Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft zusätzlich zu den in Abs. 1 genannten Modulen die in der folgenden Tabelle aufgeführten Module erfolgreich abzulegen.[2] Die Veranstaltungen bauen aufeinander auf und beginnen nur alle drei Semester.[3] Es wird empfohlen, die Module frühzeitig zu belegen. 
+(2)<sup>1</sup> Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft zusätzlich zu den in Abs. 1 genannten Modulen die in der folgenden Tabelle aufgeführten Module erfolgreich abzulegen.<sup>2</sup> Die Veranstaltungen bauen aufeinander auf und beginnen nur alle drei Semester.<sup>3</sup> Es wird empfohlen, die Module frühzeitig zu belegen. 
 
-|**Semester**|**Modul**|**SWS**|**ECTS**|<br>**Zulassungsvoraussetzung.**|**Prüfungsleistung *)**|**Studienleistung**|**Gewichtg.**|
+|**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzung.**|**Prüfungsleistung *)**|**Studienleistung**|**Gewichtg.**|
 |---|---|---|---|---|---|---|---|
 |**1**|**13) CAD I**|**2**|**2**|Eignungsprüfung|||**1,0 **|
 ||Einführung in das<br>computergestützte<br>Konstruktionszeichnen|2|2|||Unbenotete Klausur<br>(ca. 90 Min.)||
 |**2+3**|**14) CAD II**|**4**|**4**|CAD I|||**1,0 **|
 ||Computergestütztes<br>Konstruktionszeichnen 1|2|2|||Unbenotete Klausur<br>(ca. 90 Min.)||
 ||Computergestütztes<br>Konstruktionszeichnen 2|2|2||Note auf Klausur<br>(ca. 90 Min)|||
-||**Fachwissenschaft**<br>**Realschule:**|**55**|**60**|||||
+||**Fachwissenschaft**|**55**|**60**|||||
+||**Realschule:**|||||||
 ||**Didaktik Realschule:**|**12**|**12**|||||
 
 (3) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
 
 |**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**<br>***)**|**Studienleistung**|**Gewichtung**|
 |---|---|---|---|---|---|---|---|
-||**1) Basis 1: Gestaltungsgrundlagen **|**7**|**7**|**Keine**|Note auf praktische<br>(und mündliche)<br>Leistungen||**1**|
-||Zeichnung|2|2|||||
-||Malerei|2|2|||||
+||**1) Basis 1: Gestaltungsgrundlagen **|**7**|**7**|**Keine**|Note auf praktische||**1**|
+||Zeichnung|2|2||(und mündliche)<br>|||
+||Malerei|2|2||Leistungen|||
 ||Dreidimensionales Gestalten|3|3|||||
 ||**2) Basis 2: Kunstgeschichte und**<br>**Kunstpädagogik**|**4**|**4**|**Keine**|||**1**|
 ||„Kunstgeschichte 1“ oder „Kunstgeschichte 2“|2|2||Note auf Protokoll<br>(ca. 15 Seiten mit<br>Bildern in<br>Gruppenarbeit)|||
@@ -93,16 +93,16 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 ||**Gestalten im Schulalltag**|||||||
 ||Gestalten im Schulalltag***)**|**2**|**0**|||Studienleistung mit<br>theoretischen und/oder<br>praktischen Anteilen||
 
-- ***) zusätzliche Leistungsanforderung gemäß §§ 36 Abs. 1 Nr. 8, 38 Abs. 1 Nr. 6 LPO I ohne ECTS-Punkte** 
+***) zusätzliche Leistungsanforderung gemäß §§ 36 Abs. 1 Nr. 8, 38 Abs. 1 Nr. 6 LPO I ohne ECTS-Punkte** 
 
 (4) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Hauptschulen sind folgende Module erfolgreich abzulegen: 
 
 |**Semester**|**Modul**|**SWS**|**ECTS**|**Zulassungsvoraussetzungen**|**Prüfungsleistung**<br>***)**|**Studienleistung**|**Gewichtung**|
 |---|---|---|---|---|---|---|---|
-||**1) Basis 1: Gestaltungsgrundlagen**|**17**|**16**|**Keine**|Note auf<br>praktische (und<br>mündliche)<br>Leistungen||**1**|
-||Zeichnung|2|2|||||
-||Malerei|2|2|||||
-||Ästhetische Spielformen|2|2|||||
+||**1) Basis 1: Gestaltungsgrundlagen**|**17**|**16**|**Keine**|Note auf<br>||**1**|
+||Zeichnung|2|2||praktische (und<br>|||
+||Malerei|2|2||mündliche)<br>|||
+||Ästhetische Spielformen|2|2||Leistungen|||
 ||Werken / Konstruktives Bauen<br>(incl. Maschinenschein)|3|2|||||
 ||Dreidimensionales Gestalten|3|3|||||
 ||Umwelt- und Produktgestaltung|2|2|||||
@@ -116,7 +116,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 ***) zusätzliche Leistungsanforderung gemäß §§ 36 Abs. 1 Nr. 8, 38 Abs. 1 Nr. 6 LPO I ohne ECTS-Punkte** 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2011/2012 aufnehmen. 3Abweichend hiervon finden die Änderungen des § 5 Abs. 3 und 4 auf alle Studierenden Anwendung. 
 

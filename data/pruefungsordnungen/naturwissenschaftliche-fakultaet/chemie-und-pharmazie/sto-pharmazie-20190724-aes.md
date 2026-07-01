@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "StO Pharmazie 20190724 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/Aenderungssatzungen/StO_Pharmazie_20190724_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-05-01T07:37:20+00:00
-page_count_chars: 10406
+scraped_at: 2026-07-01T09:01:24+00:00
+page_count_chars: 10414
 ---
 
 # StO Pharmazie 20190724 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 10406
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Pharmazie/Aenderungssatzungen/StO_Pharmazie_20190724_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/>
 
-## **Vierte Satzung zur Änderung der Studienordnung für den Studiengang Pharmazie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StO Pharmazie –** 
+# **Vierte Satzung zur Änderung der Studienordnung für den Studiengang Pharmazie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – StO Pharmazie –** 
 
-## **Vom 24. Juli 2019** 
+# **Vom 24. Juli 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 Satz 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für den Studiengang Pharmazie an der FAU (StO Pharmazie) vom 31. Juli 2002, zuletzt geändert durch Satzung vom 23. August 2013, wird wie folgt geändert: 
 
@@ -68,9 +68,9 @@ Die Studienordnung für den Studiengang Pharmazie an der FAU (StO Pharmazie) vom
 
    - f) Abs. 10 erhält folgende neue Fassung: 
 
-„(10)[1] Praktische Lehrveranstaltungen und Seminare, für die ein erforderlicher Leistungsnachweis nicht erlangt wurde, können innerhalb der für die Meldung zur jeweiligen Prüfung festgelegten Frist (§ 8) einmal wiederholt werden; diese Wiederholung soll im darauffolgenden Studienjahr erfolgen.[2] Die letzte Wiederholungsprüfung einer praktischen Lehrveranstaltung muss von einer Hochschullehrerin bzw. einem Hochschullehrer abgenommen werden.[3] Bei einem Praktikum soll die Wiederholung im praktischen Teil auf jene Inhalte beschränkt werden, bei denen sich eine Vertiefung des Verständnisses als erforderlich erwiesen hat.[4] Der Umfang der Wiederholung i. S. v. Satz 3 wird von der bzw. dem das Praktikum leitenden Hochschullehrerin bzw. Hochschullehrer bestimmt.“ 
+„(10)<sup>1</sup> Praktische Lehrveranstaltungen und Seminare, für die ein erforderlicher Leistungsnachweis nicht erlangt wurde, können innerhalb der für die Meldung zur jeweiligen Prüfung festgelegten Frist (§ 8) einmal wiederholt werden; diese Wiederholung soll im darauffolgenden Studienjahr erfolgen.<sup>2</sup> Die letzte Wiederholungsprüfung einer praktischen Lehrveranstaltung muss von einer Hochschullehrerin bzw. einem Hochschullehrer abgenommen werden.<sup>3</sup> Bei einem Praktikum soll die Wiederholung im praktischen Teil auf jene Inhalte beschränkt werden, bei denen sich eine Vertiefung des Verständnisses als erforderlich erwiesen hat.<sup>4</sup> Der Umfang der Wiederholung i. S. v. Satz 3 wird von der bzw. dem das Praktikum leitenden Hochschullehrerin bzw. Hochschullehrer bestimmt.“ 
 
-## 10. § 8 wird wie folgt geändert: 
+# 10. § 8 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach den Worten „zum Ersten Prüfungsabschnitt“ die Worte, das Zeichen und die Ziffern „gemäß § 6 Abs. 3 AAppO“ eingefügt. 
 
@@ -80,7 +80,7 @@ Die Studienordnung für den Studiengang Pharmazie an der FAU (StO Pharmazie) vom
 
 11. In § 9 Satz 1 wird nach den Worten „im Benehmen mit den“ das Wort „weiteren“ eingefügt. 
 
-## 12. § 11 wird wie folgt geändert: 
+# 12. § 11 wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach den Worten „wird in der Verantwortung der“ die Worte „Professoren“ durch die Worte „Studiendekanin bzw. des Studiendekans“ ersetzt. 
 
@@ -88,17 +88,17 @@ Die Studienordnung für den Studiengang Pharmazie an der FAU (StO Pharmazie) vom
 
 - c) In Satz 3 werden am Satzanfang nach dem Wort „Für“ die Worte „Studienanfängerinnen und“ eingefügt. 
 
-## 13. § 12 wird wie folgt geändert: 
+# 13. § 12 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs. 1 
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen betreffend der Voraussetzung für das Praktikum „Instrumentelle Analytik“ für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufgenommen haben.“ 
+„(2)<sup>1</sup> Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen betreffend der Voraussetzung für das Praktikum „Instrumentelle Analytik“ für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufgenommen haben.“ 
 
-## 14. Die **Anlage** erhält folgende neue Fassung: 
+# 14. Die **Anlage** erhält folgende neue Fassung: 
 
-## „ **Anlage zur Studienordnung für den Studiengang Pharmazie an der FAU** 
+- „ **Anlage zur Studienordnung für den Studiengang Pharmazie an der FAU** 
 
 ## **Voraussetzungen zur Teilnahme an den praktischen Lehrveranstaltungen und Seminaren nach § 7 Abs. 5 u. 6** 
 
@@ -106,7 +106,7 @@ Die Studienordnung für den Studiengang Pharmazie an der FAU (StO Pharmazie) vom
 
 **Voraussetzung:** (SCH = Praktikumsschein) 
 
-Grundstudium 
+<u>Grundstudium</u> 
 
 Allgemeine und analytische Chemie der anorganischen Arznei-, Hilfs- und Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden) (P) 
 
@@ -132,27 +132,29 @@ Physik.-chem. Übungen für Pharmazeuten (P) Instrumentelle Analytik (P)
 
 Aufnahmeklausur 
 
-keine Voraussetzungen 
+### keine Voraussetzungen 
 
 SCH Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von ArzneibuchMethoden) Testat: Mathematische & statistische Methoden für Pharmazeuten 
 
-Aufnahmeklausur 
-
 Kursus der Physiologie (P) Arzneiformenlehre I (P) Mikrobiologie (P) Pharmazeutische Biologie II (Pflanzliche Drogen) (P) 
+
+Aufnahmeklausur 
 
 Testat Pharmazeutische und Medizinische Terminologie SCH Pharmazeutische Biologie I 
 
 Teilnahme an Arzneipflanzen-Exkursionen, Bestimmungsübungen SCH Pharmazeutische Biologie I Testat Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen und Grundlagen der Anatomie und Physiologie inklusive Grundlagen der Ernährungslehre 
 
-Hauptstudium Biochemische Untersuchungsmethoden einschließlich Erster Prüfungsabschnitt nach Maßgabe klinische Chemie (P) des § 15 Abs. 5 AAppO*) Arzneistoffanalytik unter besonderer Berücksichtigung der Erster Prüfungsabschnitt nach Maßgabe Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) des § 15 Abs. 5 AAppO*) und der entsprechenden Normen für Medizinprodukte (P) Klinische Pharmazie (S) Testat Klinische Chemie und Pathobiochemie 
+<u>Hauptstudium</u> Biochemische Untersuchungsmethoden einschließlich Erster Prüfungsabschnitt nach Maßgabe klinische Chemie (P) des § 15 Abs. 5 AAppO*) Arzneistoffanalytik unter besonderer Berücksichtigung der Erster Prüfungsabschnitt nach Maßgabe Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) des § 15 Abs. 5 AAppO*) und der entsprechenden Normen für Medizinprodukte (P) 
 
-Klinische Pharmazie (S) Testat Klinische Chemie und Pathobiochemie Testat Seminar Biogene Arzneimittel Erster Prüfungsabschnitt bestanden Aufnahmeprüfung Pharmakotherapie (S) Erster Prüfungsabschnitt bestanden Pharmazeutische Technologie (P) Erster Prüfungsabschnitt bestanden Aufnahmeprüfung Qualitätssicherung bei Herstellung und Prüfung Testat Biopharmazeutische Rechenübungen von Arzneimitteln (S) Pharmazeutische Biologie III (Biologische und phytoSCH Arzneistoffanalytik unter besonderer Berücksichtigung chemische Untersuchungen) (P) der Arzneibücher (Qualitätskontrolle u. -sicherung bei Arzneistoffen) u. d. entspr. Normen für Medizinprodukte Pharmakol.-toxikologischer Demonstrations-Kurs (P) Erster Prüfungsabschnitt nach Maßgabe des § 15 Abs. 5 AAppO*) 
+Klinische Pharmazie (S) Testat Klinische Chemie und Pathobiochemie Testat Seminar Biogene Arzneimittel Erster Prüfungsabschnitt bestanden Aufnahmeprüfung Pharmakotherapie (S) Erster Prüfungsabschnitt bestanden Pharmazeutische Technologie (P) Erster Prüfungsabschnitt bestanden Aufnahmeprüfung Qualitätssicherung bei Herstellung und Prüfung Testat Biopharmazeutische Rechenübungen von Arzneimitteln (S) Pharmazeutische Biologie III (Biologische und phytoSCH Arzneistoffanalytik unter besonderer Berücksichtigung chemische Untersuchungen) (P) der Arzneibücher (Qualitätskontrolle u. -sicherung bei Arzneistoffen) u. d. entspr. Normen für Medizinprodukte 
+
+Pharmakol.-toxikologischer Demonstrations-Kurs (P) 
+
+Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen (P) Wahlpflichtfach 
+
+Erster Prüfungsabschnitt nach Maßgabe des § 15 Abs. 5 AAppO*) 
 
 SCH Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle u. -sicherung bei Arzneistoffen) u. d. entspr. Normen für Medizinprodukte 
-
-Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen (P) 
-
-Wahlpflichtfach 
 
 Erster Prüfungsabschnitt bestanden 
 
@@ -162,7 +164,7 @@ Erster Prüfungsabschnitt bestanden
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen betreffend der Voraussetzung für das Praktikum „Instrumentelle Analytik“ für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufgenommen haben. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen betreffend der Voraussetzung für das Praktikum „Instrumentelle Analytik“ für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufgenommen haben. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. Mai 2019 und des Einvernehmens des Bayerischen Staatsministeriums für Gesundheit und Pflege mit Schreiben vom 5. Juli 2019 Nr. G32a-G8544.1-2019/1-4. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. August 1996"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Chemie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-05-01T07:36:52+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T09:00:00+00:00
+page_count_chars: 2270
 ---
 
 # 7. August 1996
@@ -12,46 +12,43 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Chemie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Satzung zur Anderung der Priifungsordnung fiir den Diplomstudiengang Chemie an der Universitat Erlangen-Niirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+## Vom 07. August 1996 
 
-### OCR Seite 1
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlaBt die Universitét Erlangen-Nirnberg folgende Anderungssatzung: 
 
-```
-Die Prüfungsordnung für den Diplomstudiengang Chemie an der Universität Erlangen-Nürnberg
-vom 09. Oktober 1991 (KWMBI Il 1992 S. 22) wird wie folgt geändert:
-1.
-$2 erhält folgende Fassung:
-Aufgrund der bestandenen Diplomprüfung wird der akademische Grad eines "Diplom-
-Chemikers Univ." bzw. einer "Diplom-Chemikerin Univ." (in beiden Fällen abgekürzt
-"Dipl.-Chem. Univ.") verliehen, an Absolventinnen auf Antrag in männlicher Form.
-2.
-&25 wird wie folgt geändert:
-a)
-Absatz 1 Satz 1 wird durch folgende Sätze ersetzt:
-"Die Diplomarbeit ist eine Prüfungsarbeit auf einem Gebiet der in der Naturwissen-
-schaftlichen Fakultät II (Biologie, Chemie und Pharmazie) vertretenen chemischen
-Fächer. Sie schließt die wissenschaftliche Ausbildung ab."
-b)
-In Absatz 2 werden die Sätze 1 bis 3 durch folgende Sätze ersetzt:
-|
-"Die Diplomarbeit kann von jedem in der Naturwissenschaftlichen Fakultät II (Biolo-
-gie, Chemie und Pharmazie) hauptberuflich tätigen Hochschullehrer der Chemie
-ausgegeben und betreut werden. Sie darf mit Zustimmung des Prüfungsausschusses in
-Ausnahmefällen außerhalb der Naturwissenschaftlichen Fakultät II (Biologie, Chemie
-und Pharmazie) ausgeführt werden, sofern der Betreuer vor Vergabe der Arbeit
-schriftlich sein Einverständnis erklärt, die ordnungsgemäße Betreuung zu überneh-
-men."
-82
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-```
+§1 
 
-### OCR Seite 2
+Die Priifungsordnung fiir den Diplomstudiengang Chemie an der Universitat Erlangen-Nirnberg vom 09. Oktober 1991 (KWMBI II 1992 S. 22) wird wie folgt geandert: 
 
-```
-Die Satzung wurde am 7. August 1996 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 7. August 1996 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 7. August 1996.
-```
+1. § 2 erhalt folgende Fassung: 
+
+Aufgrund der bestandenen Diplompriifung wird der akademische Grad eines "DiplomChemikers Univ." bzw. einer "Diplom-Chemikerin Univ." (in beiden Fallen abgekiirzt "Dipl.-Chem. Univ.") verliehen, an Absolventinnen auf Antrag in mannlicher Form. 
+
+2. §25 wird wie folgt geandert: 
+
+   - a) Absatz 1 Satz 1 wird durch folgende Satze ersetzt: 
+
+"Die Diplomarbeit ist eine Priifungsarbeit auf einem Gebiet der in der Naturwissenschaftlichen Fakultaét II (Biologie, Chemie und Pharmazie) vertretenen chemischen Facher. Sie schlieBt die wissenschaftliche Ausbildung ab." 
+
+- b) In Absatz 2 werden die Satze 1 bis 3 durch folgende Satze ersetzt: 
+
+| 
+
+"Die Diplomarbeit kann von jedem in der Naturwissenschaftlichen Fakultat II (Biologie, Chemie und Pharmazie) hauptberuflich tatigen Hochschullehrer der Chemie ausgegeben und betreut werden. Sie darf mit Zustimmung des Priifungsausschusses in Ausnahmefallen auBerhalb der Naturwissenschaftlichen Fakultat II (Biologie, Chemie und Pharmazie) ausgeftihrt werden, sofern der Betreuer vor Vergabe der Arbeit schriftlich sein Einverstandnis erklart, die ordnungsgemaBe Betreuung zu tibernehmen." 
+
+# §2. 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+: 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Niirnberg vom 26. Juni 1996 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 31. Juli 1996 Nr. X/4-5e69eIV(1)-6/118 679, 
+
+Erlangen, den 7.August 1996 
+
+Prof. Dr.f G.A]Jnw Rektor 
+
+Die Satzung wurde am 7. August 1996 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 7. August 1996 durch Anschlag in der Universitat Erlangen-Nurnberg bekanntgegeben. Tag der Bekanntmachung ist der 7. August 1996. 
 

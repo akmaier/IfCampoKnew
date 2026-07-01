@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AeSa-FPO-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:12+00:00
-page_count_chars: 3612
+scraped_at: 2026-07-01T11:29:48+00:00
+page_count_chars: 3593
 ---
 
 # 7. Juli 2005
@@ -12,7 +12,7 @@ page_count_chars: 3612
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AeSa-FPO-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
 
 ## Vom 7. Juli 2005 
 
@@ -36,11 +36,11 @@ a) Abs. 4 Nr. 1 erhält folgende Fassung:
 
 - b) Nach Abs. 4 wird folgender Absatz angefügt: 
 
-„(5)[1] In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 4 Nrn. 1, 2 und 4 eine vorzeitige Zulassung zur Diplomarbeit gewähren. 2Fehlende Nachweise sind während der Bearbeitung der Diplomarbeit zu erbringen.“ 
+„(5)<sup>1</sup> In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 4 Nrn. 1, 2 und 4 eine vorzeitige Zulassung zur Diplomarbeit gewähren. 2Fehlende Nachweise sind während der Bearbeitung der Diplomarbeit zu erbringen.“ 
 
 3. § 12 Abs. 2 erhält folgende Fassung: 
 
-"(2)[1] Die Pflichtfächer für die Studienrichtungen gemäß § 3 Abs. 1 Satz 3 Nrn. 1 bis 6 ergeben sich aus der **Anlage 2** .[2] Die Pflichtfächer der Studienrichtung gemäß § 3 Abs. 1 Satz 3 Nr. 7 (Freies Fachstudium) setzen sich zusammen aus 
+"(2)<sup>1</sup> Die Pflichtfächer für die Studienrichtungen gemäß § 3 Abs. 1 Satz 3 Nrn. 1 bis 6 ergeben sich aus der **Anlage 2** .<sup>2</sup> Die Pflichtfächer der Studienrichtung gemäß § 3 Abs. 1 Satz 3 Nr. 7 (Freies Fachstudium) setzen sich zusammen aus 
 
 1. den Pflichtfächern, die in der **Anlage 2** Nr. I Buchstabe G Nrn. 1 bis 4 vorgeschrieben sind, und 
 
@@ -58,19 +58,17 @@ a) Abs. 4 Nr. 1 erhält folgende Fassung:
 
 - " 
 
-|<br>"||||||||
-|---|---|---|---|---|---|---|---|
-|**E) Leistungselektronik**||||||||
-|1. Passive Bauelemente und deren<br>HF-Verhalten|2+2||||90|4|4|
-|2. Regelungstechnik|2+2||||90|4|4|
-|3. Elektromagnetische Felder II|2+1||||90|3|3|
-|4. Signalübertragung und<br>-verarbeitung||2+2|||90|4|4|
-|5. Leistungshalbleiter Bauelemente|2+2||||90|4|4|
-|6. Leistungselektronik|2+2||||90|4|4|
-|7. Pulsumrichter für elektrische<br>Antriebe||2+2|||90|4|4|
-|8. Schaltnetzteile||2+2|||90|4|4|
-|9. Hochleistungsstromrichter für die<br>EEV||2+2|||90|4|4|
-||||||||"|
+|**E) Leistungselektronik**||||||
+|---|---|---|---|---|---|
+|1. Passive Bauelemente und deren<br>HF-Verhalten|2+2||90|4|4|
+|2. Regelungstechnik|2+2||90|4|4|
+|3. Elektromagnetische Felder II|2+1||90|3|3|
+|4. Signalübertragung und<br>-verarbeitung||2+2|90|4|4|
+|5. Leistungshalbleiter Bauelemente|2+2||90|4|4|
+|6. Leistungselektronik|2+2||90|4|4|
+|7. Pulsumrichter für elektrische<br>Antriebe||2+2|90|4|4|
+|8. Schaltnetzteile||2+2|90|4|4|
+|9. Hochleistungsstromrichter für die<br>EEV||2+2|90|4<br>|4<br>"|
 
 - c) Die bisherigen Tabellenabschnitte E) und F) werden zu F) und G). 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.03.1993 i.d.F. 10.02.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/StO_Medizin_alt.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:24:26+00:00
-page_count_chars: 20958
+scraped_at: 2026-07-01T08:48:36+00:00
+page_count_chars: 21188
 ---
 
 # PDF vom 23.03.1993 i.d.F. 10.02.2000
@@ -16,11 +16,11 @@ page_count_chars: 20958
 
 ## **Hinweis:** 
 
-Diese Studienordnung gilt nur für Studierende der Medizin, die gemäß §§ 42, 43 der neuen ÄAppO vom 27. Juni 2002 auf der Grundlage der alten ÄAppO vom 14. Juli 1987 studieren. 
+Diese Studienordnung gilt nur für Studierende der Medizin, die gemäß §§ 42, 43 der neuen <u>ÄAppO</u> vom 27. Juni 2002 auf der Grundlage der alten ÄAppO vom 14. Juli 1987 studieren. 
 
-## **- alt -** 
+# **- alt -** 
 
-## **Studienordnung für den Studiengang Medizin der Universität Erlangen-Nürnberg Vom 23. März 1993** (KWMBl II S. 382) 
+# **Studienordnung für den Studiengang Medizin der Universität Erlangen-Nürnberg Vom 23. März 1993** (KWMBl II S. 382) 
 
 geändert durch Satzungen vom 18. Februar 1994 (KWMBl II S. 253) 16. Juni 1994 (KWMBl II S. 575) 29. Mai 1996 (KWMBl II S. 759) 10. Februar 2000 (KWMBl II S. 769) 
 
@@ -54,7 +54,7 @@ Das Studium kann im Winter- und im Sommersemester aufgenommen werden.
 
 ## **§ 5 Ziele des Studiengangs** 
 
-(1)[1] Die Ausbildung zum Arzt wird auf wissenschaftlicher Grundlage praxis- und patientenbezogen durchgeführt.[2] Es ermöglicht im Rahmen des Lehrangebots fachbezogene Schwerpunktbildungen nach eigener Wahl der Studierenden. 
+(1)<sup>1</sup> Die Ausbildung zum Arzt wird auf wissenschaftlicher Grundlage praxis- und patientenbezogen durchgeführt.<sup>2</sup> Es ermöglicht im Rahmen des Lehrangebots fachbezogene Schwerpunktbildungen nach eigener Wahl der Studierenden. 
 
 (2) Im Verlauf des Studiums werden die der späteren ärztlichen Tätigkeit entsprechenden Einsichten, Fähigkeiten, Fertigkeiten und Kenntnisse vermittelt. 
 
@@ -62,7 +62,7 @@ Das Studium kann im Winter- und im Sommersemester aufgenommen werden.
 
 ## **Studieninhalte** 
 
-(1)[1] Der Inhalt des Studiums richtet sich nach den Bestimmungen der §§ 1 bis 3 und den Anlagen 10, 13 und 16 zur ÄAppO.[2] Durch die Wahl eines besonderen fachbezogenen Schwerpunktes (§ 5 Abs. 1 Satz 2) erweitert sich der Studieninhalt entsprechend. 
+(1)<sup>1</sup> Der Inhalt des Studiums richtet sich nach den Bestimmungen der §§ 1 bis 3 und den Anlagen 10, 13 und 16 zur ÄAppO.<sup>2</sup> Durch die Wahl eines besonderen fachbezogenen Schwerpunktes (§ 5 Abs. 1 Satz 2) erweitert sich der Studieninhalt entsprechend. 
 
 (2) Der Studiengang Medizin hat enge Beziehungen zum Studiengang Zahnmedizin. 
 
@@ -70,7 +70,7 @@ Das Studium kann im Winter- und im Sommersemester aufgenommen werden.
 
 ## **Studienabschnitte** 
 
-(1)[1] Das Studium gliedert sich in einen zweijährigen vorklinischen und drei klinische Studienabschnitte.[2] Voraussetzungen für die Teilnahme an den klinischen Studienabschnitten ist die vollständig bestandene Ärztliche Vorprüfung.[3] Die klinischen Studienabschnitte dauern 
+(1)<sup>1</sup> Das Studium gliedert sich in einen zweijährigen vorklinischen und drei klinische Studienabschnitte.<sup>2</sup> Voraussetzungen für die Teilnahme an den klinischen Studienabschnitten ist die vollständig bestandene Ärztliche Vorprüfung.<sup>3</sup> Die klinischen Studienabschnitte dauern 
 
 ein Jahr 
 
@@ -78,9 +78,9 @@ zwei Jahre
 
 und ein Jahr. 
 
-4Der dritte klinische Studienabschnitt dient der praktischen Ausbildung und erfolgt an Krankenanstalten der Universität oder an anderen von der Universität im Einvernehmen mit der zuständigen Gesundheitsbehörde bestimmten Krankenanstalten (Lehrkrankenhäusern).[5] Voraussetzung für die Teilnahme ist das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung (§ 1 Abs. 3 Nr. 4 in Verbindung mit § 10 Abs. 5 ÄAppO).[6] Die Verteilung der Studierenden auf die Krankenanstalten der Universität oder auf die Lehrkrankenhäuser ist durch Satzung der Universität geregelt. 
+4Der dritte klinische Studienabschnitt dient der praktischen Ausbildung und erfolgt an Krankenanstalten der Universität oder an anderen von der Universität im Einvernehmen mit der zuständigen Gesundheitsbehörde bestimmten Krankenanstalten (Lehrkrankenhäusern).<sup>5</sup> Voraussetzung für die Teilnahme ist das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung (§ 1 Abs. 3 Nr. 4 in Verbindung mit § 10 Abs. 5 ÄAppO).<sup>6</sup> Die Verteilung der Studierenden auf die Krankenanstalten der Universität oder auf die Lehrkrankenhäuser ist durch Satzung der Universität geregelt. 
 
-(2)[1] Die Verteilung der Studieninhalte auf den vorklinischen und die klinischen Studienabschnitte wird von den §§ 1 bis 3 und den Anlagen 10, 13 und 16 zur ÄAppO geregelt.[2] Die Ausbildung wird in den folgenden Lehrveranstaltungsarten vermittelt: 
+(2)<sup>1</sup> Die Verteilung der Studieninhalte auf den vorklinischen und die klinischen Studienabschnitte wird von den §§ 1 bis 3 und den Anlagen 10, 13 und 16 zur ÄAppO geregelt.<sup>2</sup> Die Ausbildung wird in den folgenden Lehrveranstaltungsarten vermittelt: 
 
 2 
 
@@ -90,17 +90,17 @@ und ein Jahr.
 
 3. Fachbezogene Unterrichtsveranstaltungen, die den Studierenden die Bildung von Schwerpunkten ermöglichen. 
 
-3Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im vorklinischen Studienabschnitt 1404 Stunden, im ersten klinischen Studienabschnitt 792 Stunden und im zweiten klinischen Studienabschnitt 1416 Stunden.[4] Darin enthalten sind die in der ÄAppO vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und Seminare im vorklinischen Studienabschnitt mit mindestens 624, im ersten klinischen Studienabschnitt mit mindestens 300 und im zweiten klinischen Studienabschnitt mit mindestens 516. 5Dabei sollen die Mindestwerte für die scheinpflichtigen Lehrveranstaltungen in der Vorklinik und in den klinischen Studienabschnitten um nicht mehr als 15% überschritten werden.[6] Die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen in den Studienabschnitten nach Maßgabe der in der **Anlage** beigefügten Übersichten, die ein Bestandteil dieser Studienordnung sind. 
+3Der Höchstumfang der zu einem planmäßigen Studium der Medizin erforderlichen Lehrveranstaltungen beträgt im vorklinischen Studienabschnitt 1404 Stunden, im ersten klinischen Studienabschnitt 792 Stunden und im zweiten klinischen Studienabschnitt 1416 Stunden.<sup>4</sup> Darin enthalten sind die in der ÄAppO vorgeschriebenen Stunden für scheinpflichtige praktische Übungen, Kurse und Seminare im vorklinischen Studienabschnitt mit mindestens 624, im ersten klinischen Studienabschnitt mit mindestens 300 und im zweiten klinischen Studienabschnitt mit mindestens 516. 5Dabei sollen die Mindestwerte für die scheinpflichtigen Lehrveranstaltungen in der Vorklinik und in den klinischen Studienabschnitten um nicht mehr als 15% überschritten werden.<sup>6</sup> Die Semesterwochenstunden verteilen sich auf die Lehrveranstaltungen in den Studienabschnitten nach Maßgabe der in der **Anlage** beigefügten Übersichten, die ein Bestandteil dieser Studienordnung sind. 
 
-(3)[1] Es wird empfohlen, die praktischen Übungen (Ü) in der zeitlichen Reihenfolge zu absolvieren, wie sie in der **Anlage** festgelegt ist.[2] Soweit diese Studienordnung Voraussetzungen für die Teilnahme an einzelnen praktischen Übungen vorsieht, insbesondere die Teilnahme vom Nachweis ausreichender Kenntnisse abhängig macht, ist dies in der **Anlage** festgelegt. 
+(3)<sup>1</sup> Es wird empfohlen, die praktischen Übungen (Ü) in der zeitlichen Reihenfolge zu absolvieren, wie sie in der **Anlage** festgelegt ist.<sup>2</sup> Soweit diese Studienordnung Voraussetzungen für die Teilnahme an einzelnen praktischen Übungen vorsieht, insbesondere die Teilnahme vom Nachweis ausreichender Kenntnisse abhängig macht, ist dies in der **Anlage** festgelegt. 
 
-(4)[1] Die die praktischen Übungen (Ü) im Sinn der Anlagen 1 bis 3 zur ÄAppO vorbereitenden und begleitenden systematischen Vorlesungen sind in der **Anlage** zu dieser Studienordnung durch V* gekennzeichnet.[2] Die erfolgreiche Teilnahme an einer praktischen Übung nach den Anlagen 1 bis 3 zur ÄAppO darf nur bescheinigt werden, wenn der Studierende die für die Ausbildung zum Arzt beziehungsweise die Tätigkeit als Arzt erforderlichen praktischen und theoretischen Kenntnisse über den der praktischen Übung (Ü) zugehörigen Wissensstoff in Form einer Leistungskontrolle nachgewiesen hat; die Leistungskontrolle findet gegen Ende der praktischen Übung, spätestens aber zum Ende des Semesters statt; nimmt der Studierende aus von ihm zu vertretenden Gründen nicht an der Leistungskontrolle teil, so gilt sie als erfolglos verlaufen.[3] Der Übungsleiter bestimmt zu Beginn der Unterrichtsveranstaltung, in welcher Form der Nachweis zu führen ist.[4] Regelmäßig ist die Teilnahme an einer praktischen Übung oder an einem Seminar im Sinn der Anlagen 1 bis 3 der ÄAppO nur dann, wenn der Studierende an allen Übungs- beziehungsweise Seminarstunden teilgenommen hat.[5] Hat der Studierende aus von ihm nicht zu vertretenden Gründen einzelne Übungs- beziehungsweise Seminarstunden versäumt, so soll ihm die Möglichkeit einer Nachholung eingeräumt werden.[6] Kann diese Möglichkeit nicht eingeräumt werden, ist eine regelmäßige Teilnahme auch dann noch gegeben, wenn nicht mehr als 10 % der Übungs- beziehungsweise Seminarstunden versäumt wurden. 7Lehrveranstaltungen, die nicht regelmäßig besucht und Leistungskontrollen, die nicht mit Erfolg abgeleistet wurden, können zweimal wiederholt werden.[8] Lehrveranstaltungen sind im folgenden Semester, Leistungskontrollen spätestens im folgenden Semester zu wiederholen.[9] Unterbleibt die Wiederholung im folgenden Semester aus 
+(4)<sup>1</sup> Die die praktischen Übungen (Ü) im Sinn der Anlagen 1 bis 3 zur ÄAppO vorbereitenden und begleitenden systematischen Vorlesungen sind in der **Anlage** zu dieser Studienordnung durch V* gekennzeichnet.<sup>2</sup> Die erfolgreiche Teilnahme an einer praktischen Übung nach den Anlagen 1 bis 3 zur ÄAppO darf nur bescheinigt werden, wenn der Studierende die für die Ausbildung zum Arzt beziehungsweise die Tätigkeit als Arzt erforderlichen praktischen und theoretischen Kenntnisse über den der praktischen Übung (Ü) zugehörigen Wissensstoff in Form einer Leistungskontrolle nachgewiesen hat; die Leistungskontrolle findet gegen Ende der praktischen Übung, spätestens aber zum Ende des Semesters statt; nimmt der Studierende aus von ihm zu vertretenden Gründen nicht an der Leistungskontrolle teil, so gilt sie als erfolglos verlaufen.<sup>3</sup> Der Übungsleiter bestimmt zu Beginn der Unterrichtsveranstaltung, in welcher Form der Nachweis zu führen ist.<sup>4</sup> Regelmäßig ist die Teilnahme an einer praktischen Übung oder an einem Seminar im Sinn der Anlagen 1 bis 3 der ÄAppO nur dann, wenn der Studierende an allen Übungs- beziehungsweise Seminarstunden teilgenommen hat.<sup>5</sup> Hat der Studierende aus von ihm nicht zu vertretenden Gründen einzelne Übungs- beziehungsweise Seminarstunden versäumt, so soll ihm die Möglichkeit einer Nachholung eingeräumt werden.<sup>6</sup> Kann diese Möglichkeit nicht eingeräumt werden, ist eine regelmäßige Teilnahme auch dann noch gegeben, wenn nicht mehr als 10 % der Übungs- beziehungsweise Seminarstunden versäumt wurden. 7Lehrveranstaltungen, die nicht regelmäßig besucht und Leistungskontrollen, die nicht mit Erfolg abgeleistet wurden, können zweimal wiederholt werden.<sup>8</sup> Lehrveranstaltungen sind im folgenden Semester, Leistungskontrollen spätestens im folgenden Semester zu wiederholen.<sup>9</sup> Unterbleibt die Wiederholung im folgenden Semester aus 
 
 3 
 
-vom Studierenden zu vertretenden Gründen, so gilt die Wiederholung als erfolglos verlaufen.[10] Die Sätze 8 und 9 gelten auch für die zweite Wiederholung. 
+vom Studierenden zu vertretenden Gründen, so gilt die Wiederholung als erfolglos verlaufen.<sup>10</sup> Die Sätze 8 und 9 gelten auch für die zweite Wiederholung. 
 
-(5)[1] Der dritte klinische Studienabschnitt dauert 48 Wochen.[2] Die Ausbildung gliedert sich in je 16 Wochen Innere Medizin, Chirurgie und wahlweise ein anderes klinischpraktisches Fachgebiet (Wahlfach).[3] Folgende Wahlfächer werden von der Hochschule angeboten: 
+(5)<sup>1</sup> Der dritte klinische Studienabschnitt dauert 48 Wochen.<sup>2</sup> Die Ausbildung gliedert sich in je 16 Wochen Innere Medizin, Chirurgie und wahlweise ein anderes klinischpraktisches Fachgebiet (Wahlfach).<sup>3</sup> Folgende Wahlfächer werden von der Hochschule angeboten: 
 
 1. Augenheilkunde 
 
@@ -132,17 +132,17 @@ vom Studierenden zu vertretenden Gründen, so gilt die Wiederholung als erfolglo
 
 15. Neurochirurgie 
 
-4Der Fachbereichsrat kann - im Einvernehmen mit dem Staatsministerium des Innern[1)] - weitere Wahlfächer festlegen.[5] Auf die Ausbildung werden Fehlzeiten bis zu insgesamt 20 Ausbildungstagen angerechnet.[6] Die wöchentliche Ausbildungszeit an den Krankenanstalten der Universität oder den Lehrkrankenhäusern während der praktischen Ausbildung umfasst 38,5 Stunden.[7] Im Rahmen der praktischen Unterweisungen werden Studierende in den Routinebetrieb der jeweiligen Klinik mit Poliklinik beziehungsweise Ambulanz eingeführt.[8] Sie erlernen dabei die einschlägigen Methoden und die selbständige klinik-orientierte Arbeit auf den Stationen, in den O- perationssälen usw.[9] Nach Wahl sollen sie auch in einzelnen Teilgebieten eingesetzt werden.[10] Sie betreuen dabei unter ärztlicher Aufsicht ein bis zwei Patienten, bei denen sie Anamnese und Befund sowie Diagnostik- und Therapievorschläge erarbeiten.[11] Dabei werden sie in der Durchführung der diagnostischen und therapeutischen Maßnahmen unterwiesen.[12] Die Studierenden nehmen an den Stationsvisiten teil. 13Insbesondere verbessern und vervollkommnen sie ihre bis dahin erworbenen Kenntnisse in der Betreuung von Patienten; sie werden unterwiesen in der rationellen Diagnostik, Therapie, Indikationsstellung zu diagnostischen und therapeutischen Eingriffen.[14] Die Studierenden nehmen an den klinischen- und Röntgenbesprechungen teil.[15] Sie werden im jeweils kliniküblichen Rahmen bei entsprechendem Freizeitausgleich und unter ärztlicher Anleitung, im Bereitschafts-, Nacht- und Wochenenddienst eingesetzt.[16] Die Anzahl dieser Dienste sollte monatlich vier Nachtdienste und einen Wochenenddienst nicht überschreiten.[17] Der Unterricht behandelt im Laufe der jeweils 16 Wochen die wesentlichen Gebiete der Inneren Medizin, der Chirurgie und des dritten klinisch-praktischen Fachgebietes und soll etwa ein Viertel der wöchentlichen Ausbildungszeit ausmachen.[18] Er besteht unter anderem aus Kolloquien, die sich an Fallbesprechungen orientieren beziehungsweise aus ihnen entwickeln. 19Hierbei ist eine Mitwirkung der Studierenden an den Fallbesprechungen zu sichern, z. B. durch die Vorstellung von Kranken.[20] Der Stand der Ausbildung wird in Gesprächen zwischen Ausbildenden und Studierenden im Rahmen der Fallbesprechungen 
+4Der Fachbereichsrat kann - im Einvernehmen mit dem Staatsministerium des Innern<sup>1)</sup> - weitere Wahlfächer festlegen.<sup>5</sup> Auf die Ausbildung werden Fehlzeiten bis zu insgesamt 20 Ausbildungstagen angerechnet.<sup>6</sup> Die wöchentliche Ausbildungszeit an den Krankenanstalten der Universität oder den Lehrkrankenhäusern während der praktischen Ausbildung umfasst 38,5 Stunden.<sup>7</sup> Im Rahmen der praktischen Unterweisungen werden Studierende in den Routinebetrieb der jeweiligen Klinik mit Poliklinik beziehungsweise Ambulanz eingeführt.<sup>8</sup> Sie erlernen dabei die einschlägigen Methoden und die selbständige klinik-orientierte Arbeit auf den Stationen, in den O- perationssälen usw.<sup>9</sup> Nach Wahl sollen sie auch in einzelnen Teilgebieten eingesetzt werden.<sup>10</sup> Sie betreuen dabei unter ärztlicher Aufsicht ein bis zwei Patienten, bei denen sie Anamnese und Befund sowie Diagnostik- und Therapievorschläge erarbeiten.<sup>11</sup> Dabei werden sie in der Durchführung der diagnostischen und therapeutischen Maßnahmen unterwiesen.<sup>12</sup> Die Studierenden nehmen an den Stationsvisiten teil. 13Insbesondere verbessern und vervollkommnen sie ihre bis dahin erworbenen Kenntnisse in der Betreuung von Patienten; sie werden unterwiesen in der rationellen Diagnostik, Therapie, Indikationsstellung zu diagnostischen und therapeutischen Eingriffen.<sup>14</sup> Die Studierenden nehmen an den klinischen- und Röntgenbesprechungen teil.<sup>15</sup> Sie werden im jeweils kliniküblichen Rahmen bei entsprechendem Freizeitausgleich und unter ärztlicher Anleitung, im Bereitschafts-, Nacht- und Wochenenddienst eingesetzt.<sup>16</sup> Die Anzahl dieser Dienste sollte monatlich vier Nachtdienste und einen Wochenenddienst nicht überschreiten.<sup>17</sup> Der Unterricht behandelt im Laufe der jeweils 16 Wochen die wesentlichen Gebiete der Inneren Medizin, der Chirurgie und des dritten klinisch-praktischen Fachgebietes und soll etwa ein Viertel der wöchentlichen Ausbildungszeit ausmachen.<sup>18</sup> Er besteht unter anderem aus Kolloquien, die sich an Fallbesprechungen orientieren beziehungsweise aus ihnen entwickeln. 19Hierbei ist eine Mitwirkung der Studierenden an den Fallbesprechungen zu sichern, z. B. durch die Vorstellung von Kranken.<sup>20</sup> Der Stand der Ausbildung wird in Gesprächen zwischen Ausbildenden und Studierenden im Rahmen der Fallbesprechungen 
 
 4 
 
-festgestellt.[21] Wird ein Fachgebiet an einer Klinik durch mehrere spezialisierte Abteilungen repräsentiert, so ist durch die Klinik sicherzustellen, dass der Studierende mindestens zwei dieser Abteilungen angemessen kennen lernt. 
+festgestellt.<sup>21</sup> Wird ein Fachgebiet an einer Klinik durch mehrere spezialisierte Abteilungen repräsentiert, so ist durch die Klinik sicherzustellen, dass der Studierende mindestens zwei dieser Abteilungen angemessen kennen lernt. 
 
 1) Zuständige Gesundheitsbehörde ist das Bayer. Staatsministerium für Arbeit und Sozialordnung, Familie, Frauen und Gesundheit 
 
 ## **§ 8 Prüfungen** 
 
-(1)[1] Die Prüfungen sind in der ÄAppO geregelt.[2] Die Ärztliche Vorprüfung soll nach dem vierten Semester abgelegt werden. 
+(1)<sup>1</sup> Die Prüfungen sind in der ÄAppO geregelt.<sup>2</sup> Die Ärztliche Vorprüfung soll nach dem vierten Semester abgelegt werden. 
 
 (2) Nach vollständig bestandener Ärztlicher Prüfung kann nach Maßgabe der Promotionsordnung die Promotion erfolgen. 
 
@@ -164,11 +164,11 @@ Für die Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen
 
 ## **Studienfachberatung** 
 
-1Die Studienfachberatung wird vom Studiendekan und von den Professoren durchgeführt.[2] Für Studienanfänger werden Einführungsveranstaltungen abgehalten.[3] Nach nicht bestandener Prüfung, im Fall eines Hochschulwechsels und vor der Wahl von Ausbildungsschwerpunkten, wird dem Studierenden eine Studienfachberatung besonders empfohlen. 
+1Die Studienfachberatung wird vom Studiendekan und von den Professoren durchgeführt.<sup>2</sup> Für Studienanfänger werden Einführungsveranstaltungen abgehalten.<sup>3</sup> Nach nicht bestandener Prüfung, im Fall eines Hochschulwechsels und vor der Wahl von Ausbildungsschwerpunkten, wird dem Studierenden eine Studienfachberatung besonders empfohlen. 
 
 ## **§ 12 Übergangs- und Schlussbestimmungen** 
 
-(1)[1] Diese Studienordnung gilt für alle Studierende, die zum Zeitpunkt ihres Inkrafttretens eingeschrieben sind.[2] _gegenstandlos_ .[3] Änderungen der Studienordnung sollen vorbehaltlich übergeordneter Rechtsvorschriften im Interesse der Kontinuität des Studiengangs jeweils frühestens nach der Zeit vorgenommen werden, die gemäß § 7 Abs. 1 dieser Studienordnung zur Absolvierung eines Studienabschnittes erforderlich ist. 
+(1)<sup>1</sup> Diese Studienordnung gilt für alle Studierende, die zum Zeitpunkt ihres Inkrafttretens eingeschrieben sind.<sup>2</sup> _gegenstandlos_ .<sup>3</sup> Änderungen der Studienordnung sollen vorbehaltlich übergeordneter Rechtsvorschriften im Interesse der Kontinuität des Studiengangs jeweils frühestens nach der Zeit vorgenommen werden, die gemäß § 7 Abs. 1 dieser Studienordnung zur Absolvierung eines Studienabschnittes erforderlich ist. 
 
 ## (2) _gegenstandslos_ . 
 
@@ -202,31 +202,31 @@ SWS: Eine Semesterwochenstunde ist mit 12 Lehrveranstaltungsstunden veranschlagt
 
 (Studium der Medizin bis zur Ärztlichen Vorprüfung) 
 
-|**vorkl.**<br>**Semester**|**Fachgebiet**|**Lehrveranstaltung**|**Art**|**SWS**|
+|**vorkl.**<br>**Semester**|<sup>**Fachgebiet**</sup>|**Lehrveranstaltung**|**Art**|**SWS**|
 |---|---|---|---|---|
 |1.-2.|Physik für Mediziner|Experimentalphysik für Mediziner|V*|4|
 |||Praktikum der Physik für Mediziner|Ü|4|
 |3.-4.|Physiologie|Physiologie I|V*|5|
 |||Physiologie II|V*|5|
 |||Einführung in das Praktikum der Physiologie|V*|2|
-|||Praktikum der Physiologie**1)**|Ü|8|
+|||Praktikum der Physiologie<sup>**1)**</sup>|Ü|8|
 |||Seminar Physiologie (mit klin. Bezügen)|S|3|
 |1.-2.|Chemie für Mediziner|Allgemeine Chemie|V*|4|
 |||Praktikum der Chemie für**Mediziner**|Ü|4|
 |2.-4.|Biochemie|Biochemie I|V*|5|
 |||Biochemie II|V*|5|
 |||Einführung in das Praktikum der Biochemie|V*|2|
-|||Praktikum der Biochemie**2)**|Ü|8|
+|||Praktikum der Biochemie<sup>**2)**</sup>|Ü|8|
 |||Seminar Biochemie (mit klin. Bezügen)|||
 |||Teil I (praktikumbegleitend)|S|1|
-|||Teil II**4)**|S|2|
+|||Teil II<sup>**4)**</sup>|S|2|
 |1.-2.|Biologie|Biologie für**Mediziner**|V*|4|
 |||Praktikum der Biologie für**Mediziner**|Ü|3|
 |1.-4.|Anatomie|Funktionelle Anatomie|V|3|
 |||Topographische Anatomie|V*|4|
 |||Kursus der makroskopischen Anatomie|Ü|8|
 |||Histologie und mikroskopische Anatomie|V*|4|
-|||Kursus der mikroskopischen Anatomie**3)**|Ü|6|
+|||Kursus der mikroskopischen Anatomie<sup>**3)**</sup>|Ü|6|
 |||Neuroanatomie|V*|3|
 |||Seminar Anatomie (mit klin. Bezügen)|S|2|
 |1.-4.|Med. Psychologie|Med.Psych. Basisvorlesung|V*|1|
@@ -237,8 +237,7 @@ SWS: Eine Semesterwochenstunde ist mit 12 Lehrveranstaltungsstunden veranschlagt
 |1.|Med. Terminologie|Praktikum der medizinischen Terminologie|Ü|1|
 |1.|Berufsfelderkundung|Praktikum der Berufsfelderkundung|Ü|1|
 |4.|Klinische**Medizin**|Praktikum zur Einführung in die klin. Medizin|Ü|2|
-|1.-4.|Lehrveranstaltungen<br>eigener Wahl|||8|
-|||||117|
+|1.-4.|Lehrveranstaltungen<br>eigener Wahl|||8<br>117|
 
 7 
 
@@ -248,89 +247,87 @@ SWS: Eine Semesterwochenstunde ist mit 12 Lehrveranstaltungsstunden veranschlagt
 
 3) = Zulassung nur mit Nachweis der erfolgreichen Teilnahme am Kursus der makroskopischen Anatomie 
 
-- 4) = Zulassung nur nach erfolgreicher Teilnahme an Teil I des Seminars 
+4) = Zulassung nur nach erfolgreicher Teilnahme an Teil I des Seminars 
 
 ## **B.1. Erster klinischer Studienabschnitt** 
 
-|**klinisches**<br>**Semester**|**Fachgebiet**|**Lehrveranstaltung**|**Art SWS**|
+|**klinisches**<br>**Semester**|**Fachgebiet**|**Lehrveranstaltung**<br>**Ar**|**t SWS**|
 |---|---|---|---|
-|1.|Pathologie|Allgemeine Pathologie|V* 5|
-|||Kursus Allgemeine Pathologie#|Ü 4|
-|1.-2.|Mikrobiologie|Medizinische Mikrobiologie|V* 4|
-|||Medizinische Virologie|V* 2|
-|||Schutzimpfung|V 1|
-|||Praktikum der Mikrobiologie#|Ü  3|
-|1.-2.|Biomathematik|Biomathematik|V* 2|
-|||Übungen zur Biomathematik für Mediziner|Ü 2|
-|1.-2.|interdisziplinär|Klinische Propädeutik|V* 5|
-|||Kursus der allgemeinen klinischen Untersuchungen<br>im nichtoperativen und operativen Stoffgebiet|Ü 8|
-|1.-2.|Klinische Chemie und<br>Hämatologie|Klinische Chemie und Hämatologie|V* 2|
-|||Praktikum der Klinischen Chemie und Hämatologie|Ü 1|
-|1.-2.|Radiologie, Strahlen-<br>schutz|Radiologie, Strahlenschutz|V* 2|
-|||Kursus der Radiologie einschl. Strahlenschutzkursus|Ü 3|
-|1.-2.|Pharmakologie|Pharmakologie I|V* 4|
-|||Kursus der allgemeinen und systematischen Phar-<br>makologie und Toxikologie|Ü 4|
-|1.-2.|Geschichte der Medizin|Geschichte der Medizin|V 2|
-|1.-2.|Humangenetik|Humangenetik|V  2|
-|1.-2.|Pathophysiologie|Pathophysiologie und Pathobiochemie|V 4|
-|1.-2.|Anästhesie|Praktische Übungen für akute Notfälle und Erste<br>Ärztliche Hilfe|V* 3|
-||||Ü 3|
-||||66|
+|1.|Pathologie|Allgemeine Pathologie<br>V*|5|
+|||Kursus Allgemeine Pathologie#<br>Ü|4|
+|1.-2.|Mikrobiologie|Medizinische Mikrobiologie<br>V*|4|
+|||Medizinische Virologie<br>V*|2|
+|||Schutzimpfung<br>V|1|
+|||Praktikum der Mikrobiologie#<br>Ü|3|
+|1.-2.|Biomathematik|Biomathematik<br>V*|2|
+|||Übungen zur Biomathematik für Mediziner<br>Ü|2|
+|1.-2.|interdisziplinär|Klinische Propädeutik<br>V*|5|
+|||Kursus der allgemeinen klinischen Untersuchungen<br>im nichtoperativen und operativen Stoffgebiet<br>Ü|8|
+|1.-2.|Klinische Chemie und<br>Hämatologie|Klinische Chemie und Hämatologie<br>V*|2|
+|||Praktikum der Klinischen Chemie und Hämatologie<br>Ü|1|
+|1.-2.|Radiologie, Strahlen-<br>schutz|Radiologie, Strahlenschutz<br>V*|2|
+|||Kursus der Radiologie einschl. Strahlenschutzkursus Ü|3|
+|1.-2.|Pharmakologie|Pharmakologie I<br>V*|4|
+|||Kursus der allgemeinen und systematischen Phar-<br>makologie und Toxikologie<br>Ü|4|
+|1.-2.|Geschichte der Medizin|Geschichte der Medizin<br>V|2|
+|1.-2.|Humangenetik|Humangenetik<br>V|2|
+|1.-2.|Pathophysiologie|Pathophysiologie und Pathobiochemie<br>V|4|
+|1.-2.|Anästhesie|Praktische Übungen für akute Notfälle und Erste<br>Ärztliche Hilfe<br>V* <br>Ü|3<br>3<br>66|
 
 8 
 
 ## **B.2. Zweiter klinischer Studienabschnitt** 
 
-|**klinisches**<br>**Semester**|**Fachgebiet**|**Lehrveranstaltung**|||||||||**Art**|**SWS**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|3.|Pathologie|e<br>Spezielle Pathologi|||||||||V*|5|
-|4.||Kursus der Speziellen Pathologie||#|||||||Ü|3|
-|3.-5.|Pharmakologie|Kursus der Speziellen Pharmakologi|||||e||||Ü|3|
-|3.-6.|Innere Medizin|n<br>Innere Medizi|||||||||V*|8|
-|||n<br>Praktikum der Inneren Medizi|||||||||Ü|6|
-|5.-6.|Kinderheilkunde|e<br>Kinderheilkund|||||||||V*|8|
-|||e<br>Praktikum der Kinderheilkund|||||||||Ü|3|
-|4.-5.|Haut- u. Geschlechts-<br>krankheiten|e<br>Dermato-Venerologi|||||||||V*|2|
-|||Praktikum der Dermato-Venerologi||||e|||||Ü|2|
-|3.-5.|Urologie|e<br>Urologi|||||||||V*|2|
-|||e<br>Praktikum d. Urologi|||||||||Ü|2|
-|3.-6.|Chirurgie|e<br>Chirurgi|||||||||V*|6|
-|||e<br>Praktikum der Chirurgi|||||||||Ü|6|
-|||e<br>Zahn-, Mund-, Kieferheilkund|||||||||V*|1|
-|3.-4.|Anästhesie|Klinische Anästhesiologie und Intensivmedizin|||||||||V*|1|
-|3.-5.|rtsh<br>Gynäkologie u. Gebu<br>fe<br>il-|Frauenheilkunde und Geburtshilf|e||||||||V*|2|
-|||Praktikum der Frauenheilkunde un|||d||||||Ü|2|
-|||e<br>Geburtshilf|||||||||V|4|
-|4.-5.|Orthopädie|e<br>Orthopädi|||||||||V*|2|
-|||e<br>Praktikum der Orthopädi|||||||||Ü|2|
-|5.|Augenheilkunde|e<br>Augenheilkund|||||||||V*|4|
-|||e<br>Praktikum der Augenheilkund|||||||||Ü|1|
-|5.-6.|Hals-Nasen-Ohren-<br>Heilkunde|e<br>Praktische Übungen in der HNO-Heilkund|||||||||V*|2|
-|||e<br>Praktikum der HNO-Heilkund|||||||||Ü|2|
-|3.-5.|Neurologie|e<br>Neurologie/Neurochirurgi|||||||||V*|4|
-|||e<br>Praktikum der Neurologi|||||||||Ü|1|
-|3.-5.|Psychiatrie|e<br>Psychiatri|||||||||V*|3|
-|||e<br>Praktikum der Psychiatri|||||||||Ü|1|
-|5.|o-<br>Psychosomatik, Psych<br>therapie|Psychosomatische Medizin, Psychotherapi|||||||e||V*|2|
-|||e<br>Praktikum der Psychosomatischen<br>Psychotherapi||||d<br>Medizin un|||||<br>Ü|1|
-|5.|Ökologisches|n<br>Rechtsmedizi|||||||||V*|3|
-|6.|Stoffgebiet|#<br>Ökol. Kurs, Rechtsmedizin|||||||||Ü|2|
-|5.||n<br>Arbeitsmedizin, Umweltmedizi|||||||||V*|2|
-|||n<br>Sozialmedizi|||||||||V*|1|
-|6.||Ökol. Kurs, Arbeits- und Sozialmedizin||||||#|||Ü|2|
-|5.||Umwelt-, Krankenhaus- und Seuchenhygien||||||||e|V*|3|
-|6.||ne#<br>Ökol. Kurs, Umwelt-, Krankenhaus-,<br>hygie|||||Seuchen-||||Ü|2|
-|4.-6.|Radiologie|edizin<br>Klinische Radiologie d. Röntgendiagnostik,<br>Strahlentherapie und Nuklearm|||||||||V*|4|
-|3.-6.|Allgemeinmedizin|n<br>Kurs der Allgemeinmedizi|||||||||Ü|11)|
-|3.-5.|Anatomie|Topographische und funktionelle|Anatomie||||||||V|2|
+|**klinisches**<br>**Semester**|**Fachgebiet**|**Lehrveranstaltung**|**Ar**|**t SWS**|
+|---|---|---|---|---|
+|3.|Pathologie|e<br>Spezielle Pathologi|V*|5|
+|4.||#<br>Kursus der Speziellen Pathologie|Ü|3|
+|3.-5.|Pharmakologie|e<br>Kursus der Speziellen Pharmakologi|Ü|3|
+|3.-6.|Innere Medizin|n<br>Innere Medizi|V*|8|
+|||n<br>Praktikum der Inneren Medizi|Ü|6|
+|5.-6.|Kinderheilkunde|e<br>Kinderheilkund|V*|8|
+|||e<br>Praktikum der Kinderheilkund|Ü|3|
+|4.-5.|Haut- u. Geschlechts-<br>krankheiten|e<br>Dermato-Venerologi|V*|2|
+|||e<br>Praktikum der Dermato-Venerologi|Ü|2|
+|3.-5.|Urologie|e<br>Urologi|V*|2|
+|||e<br>Praktikum d. Urologi|Ü|2|
+|3.-6.|Chirurgie|e<br>Chirurgi|V*|6|
+|||e<br>Praktikum der Chirurgi|Ü|6|
+|||e<br>Zahn-, Mund-, Kieferheilkund|V*|1|
+|3.-4.|Anästhesie|Klinische Anästhesiologie und Intensivmedizin|V*|1|
+|3.-5.|rtsh<br>Gynäkologie u. Gebu<br>fe<br>il-|e<br> Frauenheilkunde und Geburtshilf|V*|2|
+|||d<br>Praktikum der Frauenheilkunde un|Ü|2|
+|||e<br>Geburtshilf|V|4|
+|4.-5.|Orthopädie|e<br>Orthopädi|V*|2|
+|||e<br>Praktikum der Orthopädi|Ü|2|
+|5.|Augenheilkunde|e<br>Augenheilkund|V*|4|
+|||e<br>Praktikum der Augenheilkund|Ü|1|
+|5.-6.|Hals-Nasen-Ohren-<br>Heilkunde|e<br>Praktische Übungen in der HNO-Heilkund|V*|2|
+|||e<br>Praktikum der HNO-Heilkund|Ü|2|
+|3.-5.|Neurologie|e<br>Neurologie/Neurochirurgi|V*|4|
+|||e<br>Praktikum der Neurologi|Ü|1|
+|3.-5.|Psychiatrie|e<br>Psychiatri|V*|3|
+|||e<br>Praktikum der Psychiatri|Ü|1|
+|5.|o-<br>Psychosomatik, Psych<br>therapie|e<br>Psychosomatische Medizin, Psychotherapi|V*|2|
+|||d<br>e<br>Praktikum der Psychosomatischen Medizin un<br>Psychotherapi|<br>Ü|1|
+|5.|Ökologisches|n<br>Rechtsmedizi|V*|3|
+|6.|Stoffgebiet|#<br>Ökol. Kurs, Rechtsmedizin|Ü|2|
+|5.||n<br>Arbeitsmedizin, Umweltmedizi|V*|2|
+|||n<br>Sozialmedizi|V*|1|
+|6.||#<br>Ökol. Kurs, Arbeits- und Sozialmedizin|Ü|2|
+|5.||e<br>Umwelt-, Krankenhaus- und Seuchenhygien|V*|3|
+|6.||ne#<br>Ökol. Kurs, Umwelt-, Krankenhaus-, Seuchen-<br>hygie|Ü|2|
+|4.-6.|Radiologie|edizin<br>Klinische Radiologie d. Röntgendiagnostik,<br>Strahlentherapie und Nuklearm|V*|4|
+|3.-6.|Allgemeinmedizin|n<br> <br>Kurs der Allgemeinmedizi|Ü|1<sup>1)</sup>|
+|3.-5.|Anatomie|Topographische und funktionelle Anatomie|V|2|
 
 9 
 
-|5.-6.|interdisziplinär|Onkologische Ringvorlesung|Onkologische Ringvorlesung|V|2|
-|---|---|---|---|---|---|
-|4.-5.|Anästhesie|Praktikum der Notfallmedizi|n|V*|1|
-|||||Ü|2|
-||||||118|
+|5.-6.|interdisziplinär|Onkologische Ringvorlesung|V  2|
+|---|---|---|---|
+|4.-5.|Anästhesie|n<br>Praktikum der Notfallmedizi|V* 1|
+||||Ü<br>2|
+||||118|
 
 1) Dieser Kurs besteht aus einem semesterbegleitenden Kurs im Umfang von einer SWS und einem Praktikum, das an zwei Tagen über jeweils mindestens acht Stunden bei einem von der Fakultät anerkannten, niedergelassenen Allgemeinarzt oder Kinderarzt abzuleisten ist. Das zweitägige Praktikum bei einem niedergelassenen Arzt soll das Tätigkeitsfeld des Hausarztes vermitteln. Der Schein für den Kurs in Allgemeinmedizin wird vom Studiendekan vergeben nach erfolgreicher und regelmäßiger Teilnahme an dem semesterbegleitenden Kurs und dem Praktikum in der vorlesungsfreien Zeit. 
 

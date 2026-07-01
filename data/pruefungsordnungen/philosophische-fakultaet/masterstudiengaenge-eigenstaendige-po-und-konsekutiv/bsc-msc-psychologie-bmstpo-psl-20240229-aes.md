@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Psychologie BMStPO-PSL 20240229 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20240229_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:18:49+00:00
-page_count_chars: 1948
+scraped_at: 2026-07-01T09:36:00+00:00
+page_count_chars: 1968
 ---
 
 # BSc-MSc Psychologie BMStPO-PSL 20240229 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 1948
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20240229_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/>
 
-## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und die Masterstudiengänge Psychologie sowie Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - BMStPO/PSL - Vom 29. Februar 2024** 
+# **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und die Masterstudiengänge Psychologie sowie Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - BMStPO/PSL - Vom 29. Februar 2024** 
 
 Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, 84 Abs. 2 Satz 1, 86 Abs. 3 Satz 4, 88 Abs. 9, 90 Abs. 1 Satz 2 und 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz (BayHIG) vom 5. August 2022 in der jeweils geltenden Fassung erlässt die FAU folgende Änderungssatzung: 
 
@@ -36,9 +36,9 @@ Die Studien- und Prüfungsordnung für den Bachelorstudiengang Psychologie und d
 
    - b) Der bisherige Satz 4 wird neuer Satz 2. 
 
-4. In § 38 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
+## 4. In § 38 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt zum 1. März 2024 in Kraft.[2] Die Änderungen in § 5 gelten erstmalig für eine Zulassung zum Klinischen Masterstudiengang ab dem Sommersemester 2025. 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt zum 1. März 2024 in Kraft.<sup>2</sup> Die Änderungen in § 5 gelten erstmalig für eine Zulassung zum Klinischen Masterstudiengang ab dem Sommersemester 2025. 
 
 **§ 2** 
 

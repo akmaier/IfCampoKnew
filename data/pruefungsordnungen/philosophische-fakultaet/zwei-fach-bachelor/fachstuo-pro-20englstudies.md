@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20EnglStudies.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:56:48+00:00
-page_count_chars: 9074
+scraped_at: 2026-07-01T10:18:14+00:00
+page_count_chars: 9178
 ---
 
 # PDF vom 04.10.2007
@@ -22,15 +22,15 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 de
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 – im Folgenden: ABStPO/Phil – für das Fach English and American Studies. 
 
-## **§ 2 Umfang und Ziele des Studiums** 
+**§ 2 Umfang und Ziele des Studiums** 
 
 - (1) Das Fach English and American Studies kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-- (2)[1] Im Studium English and American Studies erwerben die Studierenden grundlegende Fachkenntnisse der englischen Sprache und Kultur und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Zum besonderen Profil des Studiengangs zählen die inhaltliche Breite, die eine solide Basis in allen anglistischen und amerikanistischen Teilbereichen bildet, die besondere interdisziplinäre Vernetzung der Teilbereiche im Spezialisierungsmodul („thematisches Kombinationsmodul“) und die zunehmende Differenzierung im letzten Studienjahr, die Akzente setzt für die Berufspraxis bzw. für die Wahl weiterführender MA-Studiengänge.[3] In allen diesen Stadien wird die Sprachkompetenz ebenfalls systematisch ausgebildet. 
+- (2)<sup>1</sup> Im Studium English and American Studies erwerben die Studierenden grundlegende Fachkenntnisse der englischen Sprache und Kultur und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Zum besonderen Profil des Studiengangs zählen die inhaltliche Breite, die eine solide Basis in allen anglistischen und amerikanistischen Teilbereichen bildet, die besondere interdisziplinäre Vernetzung der Teilbereiche im Spezialisierungsmodul („thematisches Kombinationsmodul“) und die zunehmende Differenzierung im letzten Studienjahr, die Akzente setzt für die Berufspraxis bzw. für die Wahl weiterführender MA-Studiengänge.<sup>3</sup> In allen diesen Stadien wird die Sprachkompetenz ebenfalls systematisch ausgebildet. 
 
-- (3)[1] Das Studium vermittelt solide sprachpraktische Kompetenzen sowie einen umfassenden Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im britischen und nordamerikanischen Kulturraum.[2] In der wissenschaftlichen Auseinandersetzung mit der englischen Sprache und englischsprachigen Literaturen und Kulturen erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur, Literatur und Sprache ermöglicht.[3] Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit englischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden im Fach English and American Studies zu einem kritischen und reflektierten Umgang mit den Kulturen insbes. des britischen und nordamerikanischen Raumes.[4] Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflektionsfähig- 
+- (3)<sup>1</sup> Das Studium vermittelt solide sprachpraktische Kompetenzen sowie einen umfassenden Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von je historisch spezifischen sprachlichen, literarischen und kulturellen Phänomenen im britischen und nordamerikanischen Kulturraum.<sup>2</sup> In der wissenschaftlichen Auseinandersetzung mit der englischen Sprache und englischsprachigen Literaturen und Kulturen erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur, Literatur und Sprache ermöglicht.<sup>3</sup> Durch die Aneignung entsprechender Theorien und Methoden im Umgang mit englischsprachigen Texten sowie kommunikativer und kultureller Kompetenzen befähigt der Bachelorabschluss die Studierenden im Fach English and American Studies zu einem kritischen und reflektierten Umgang mit den Kulturen insbes. des britischen und nordamerikanischen Raumes.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Laufe der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang einen besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflektionsfähig- 
 
-keit zu vermitteln.[5] Der Erwerb dieser Kompetenzen verteilt sich auf die Studienjahre wie folgt: 
+keit zu vermitteln.<sup>5</sup> Der Erwerb dieser Kompetenzen verteilt sich auf die Studienjahre wie folgt: 
 
 1. Jahr: Breite Basis in Sprachpraxis, Linguistik, Literaturwissenschaft, Kulturwissenschaft 
 
@@ -44,7 +44,7 @@ keit zu vermitteln.[5] Der Erwerb dieser Kompetenzen verteilt sich auf die Studi
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Das Studium besteht aus Basis-, Spezialisierungs- und Hauptmodulen mit unterschiedlichen Qualifikationszielen: 
+- (1)<sup>1</sup> Das Studium besteht aus Basis-, Spezialisierungs- und Hauptmodulen mit unterschiedlichen Qualifikationszielen: 
 
    1. Die **Basismodule** vermitteln grundlegende Kenntnisse und Fachkompetenzen in den Bereichen Sprachpraxis, Linguistik, Literaturwissenschaft, Kulturwissenschaft und Landeskunde. 
 
@@ -52,9 +52,9 @@ keit zu vermitteln.[5] Der Erwerb dieser Kompetenzen verteilt sich auf die Studi
 
    3. Die **Hauptmodule** schließlich ermöglichen eine weiterführende Spezialisierung innerhalb der Teilbereiche Linguistik, anglistische Literatur- und Kulturwissenschaft und amerikanistische Literatur- und Kulturwissenschaft. Hier sind eine Wissensvertiefung sowie eine weitergehende Kontextualisierung des Gelernten vorgesehen, die die Studierenden zu selbständiger Projektarbeit und zum Verfassen ihrer Abschlussarbeiten befähigen sollen. Von zentraler Relevanz ist dabei die weiterführende Schulung der (mündlichen und schriftlichen) Artikulationsfähigkeit im wissenschaftlichen Diskurs. 
 
-   - 2Die Unterrichts- und Prüfungssprache ist in der Regel Englisch; in begründeten Ausnahmen kann in einzelnen Veranstaltungen Deutsch als Unterrichts- und Prüfungssprache festgelegt werden.[3] Die Bekanntmachung erfolgt in der Modulbeschreibung. 
+   - 2Die Unterrichts- und Prüfungssprache ist in der Regel Englisch; in begründeten Ausnahmen kann in einzelnen Veranstaltungen Deutsch als Unterrichts- und Prüfungssprache festgelegt werden.<sup>3</sup> Die Bekanntmachung erfolgt in der Modulbeschreibung. 
 
-- (2)[1] Im Studium English and American Studies als erstes Fach sind folgende Module erfolgreich abzulegen: 40 ECTS-Punkte aus den Basis-, 20 aus den Spezialisierungs- und 20 aus den Hauptmodulen (wobei mindestens ein Hauptmodul vom Typ A sein muss) 
+- (2)<sup>1</sup> Im Studium English and American Studies als erstes Fach sind folgende Module erfolgreich abzulegen: 40 ECTS-Punkte aus den Basis-, 20 aus den Spezialisierungs- und 20 aus den Hauptmodulen (wobei mindestens ein Hauptmodul vom Typ A sein muss) 
 
 2 
 
@@ -65,7 +65,8 @@ keit zu vermitteln.[5] Der Erwerb dieser Kompetenzen verteilt sich auf die Studi
 |103<br>1./2. FS|Basismodul III<br>Literature|Grundkurs mit<br>Einführung in die Hilfsmittelkunde<br>Aufbaukurs|2<br>1<br>2|4<br>2<br>4|Kombi-K 90 Min.<br>(50%)<br>K 90 Min. (50%)|
 |201<br>2./3. FS|Basismodul IV<br>Culture|Landeskunde: USA/GB<br>Grundkurs mit Projektgruppen|2<br>2|4<br>6|K 60-90 Min. (30%)<br>K 90 Min. (70%)|
 |202<br>3. FS|Spezialisierungsmodul I<br>(Thematisches Kombinati-<br>onsmodul<br>Linguistics, Culture, Literatu-<br>re)|Übung Linguistik<br>Übung Literaturwissenschaft/<br>Kulturwissenschaft<br>Conversation and Presentation<br>Skills (Sprachpraxis)|2<br>2<br>2|5<br>5<br>5|Erstellung der Prä-<br>sentation 30 Min.<br>MP 15 Min.|
-|211<br>4. FS<br>oder|Spezialisierungsmodul II.1<br>Linguistics|Proseminar<br>Academic Writing (Sprachpraxis)|2<br>2|7<br>3|HA|
+|211<br>4. FS<br>|Spezialisierungsmodul II.1<br>Linguistics|Proseminar<br>Academic Writing (Sprachpraxis)|2<br>2|7<br>3|HA|
+|oder||||||
 |212<br>4. FS<br>oder|Spezialisierungsmodul II.2<br>Literature|Proseminar<br>Academic Writing (Sprachpraxis)|2<br>2|7<br>3|HA|
 |213<br>4. FS|Spezialisierungsmodul II.3<br>Culture|Proseminar<br>Academic Writing (Sprachpraxis)|2<br>2|7<br>3|HA|
 |301<br>5. FS|Hauptmodul A<br>Linguistics,<br>Literary Studies oder Cul-<br>turalStudies|Mittelseminar/Hauptseminar<br>Independent Study Group|2<br>2|7<br>3|HA|

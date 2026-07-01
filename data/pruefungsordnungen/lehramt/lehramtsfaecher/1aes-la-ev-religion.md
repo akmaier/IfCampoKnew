@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA_Ev_Religion.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:07:01+00:00
-page_count_chars: 2206
+scraped_at: 2026-07-01T08:37:54+00:00
+page_count_chars: 2203
 ---
 
 # 1. Dezember 2009
@@ -14,11 +14,11 @@ page_count_chars: 2206
 
 **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religion im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 1. Dezember 2009 
+# Vom 1. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religion im Lehramtsstudiengang der Universität Erlangen-Nürnberg vom 26. Februar 2009 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religion im Leh
 
    - b) In der Zeile 13 Spalte 4 werden nach dem Wort „Hausarbeit“ die Worte „o./u. mündliche Prüfung o./u. HA“ und in der Klammer vor dem Wort „benotet“ das Wort „jeweils“ eingefügt.. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. Oktober 2009 in Kraft. 
 

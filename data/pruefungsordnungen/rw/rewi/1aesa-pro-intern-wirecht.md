@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Juni 2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:50+00:00
-page_count_chars: 1673
+scraped_at: 2026-07-01T10:36:21+00:00
+page_count_chars: 1668
 ---
 
 # 26. Juni 2001
@@ -12,13 +12,11 @@ page_count_chars: 1673
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-PrO-Intern-WiRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
 
 Vom 26. Juni 2001 
 
 Auf  Grund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-§ 1 
 
 Die Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg vom 13. Februar 2001 (KWMBl II S. ......) wird wie folgt geändert: 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 18.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO-PrO-FBO B.A. TheatermedienAUG2017.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:51+00:00
-page_count_chars: 9217
+scraped_at: 2026-07-01T10:31:13+00:00
+page_count_chars: 9049
 ---
 
 # PDF vom 04.10.2007 i.d.F. 18.08.2017
@@ -38,13 +38,21 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des
 
 ## **Inhaltsverzeichnis** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 1 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3 § 7 Schluss- und Übergangsvorschriften ............................................................................... 3 § Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft .......................... 4 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 1|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3<br>|
+|§ 7 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|§ Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft .......................... 4|
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfungsordnung für die Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 27. September 2007 (im Folgenden: **ABMStPO/Phil** ) – in der jeweils geltenden Fassung für das Fach Theater- und Medienwissenschaft im Zwei-Fach-Bachelorstudiengang. 
 
-## **§ 2 Umfang und Ziele des Studiums** 
+# **§ 2 Umfang und Ziele des Studiums** 
 
 (1) Das Fach Theater- und Medienwissenschaft kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 70 ECTS-Punkten zuzüglich der 
 
@@ -52,7 +60,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Theater- und Medienwissenschaft erwerben die Studierenden grundlegende Fachkenntnisse der Theater- und Medienwissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Studium der Theater- und Medienwissenschaft wird eine fundierte fachwissenschaftliche Ausbildung gewährleistet und insbesondere analytische, theoretische und geschichtliche Qualifikation zur Bearbeitung und Lösung theater- und medienwissenschaftlicher Probleme sowie die Möglichkeiten zur Umsetzung historisch-theoretischer Kenntnisse in die medienpraktische Tätigkeitsfelder vermittelt. 
 
@@ -68,70 +76,64 @@ Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang
 
 5. Anwendungskompetenz: das Vermögen, Resultate wissenschaftlicher Arbeit im Hinblick auf die Anwendungsmöglichkeiten in Praxissituationen zu reflektieren und einschlägiges Handeln in der Praxis zu planen und durchzuführen. 
 
-## **§ 3 Fächerkombinationen** 
+# **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+# **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** .[2] Wird Theater- und Medienwissenschaft als Zweitfach gewählt, gilt Satz 1 mit der Maßgabe, dass das Modul Bachelorarbeit nicht belegt werden muss. 
+(1)<sup>1</sup> Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** .<sup>2</sup> Wird Theater- und Medienwissenschaft als Zweitfach gewählt, gilt Satz 1 mit der Maßgabe, dass das Modul Bachelorarbeit nicht belegt werden muss. 
 
 2 
 
 (2) Falls Theater- und Medienwissenschaft als Erstfach gewählt wird, sind bezogen auf den Zwei-Fach-Bachelorstudiengang im Bereich Schlüsselqualifikationen Leistungen im Umfang von 30 ECTS-Punkten zu erbringen. 
 
-## **§ 5 Grundlagen- und Orientierungsprüfung** 
+# **§ 5 Grundlagen- und Orientierungsprüfung** 
 
 Für die Grundlagen- und Orientierungsprüfung müssen im Fach Theater- und Medienwissenschaft vier der fünf Module „Einführung“, „Basismodul Medienwissenschaft“, „Basismodul Theaterwissenschaft“, „Thematisches Modul Medienwissenschaft“ und „Thematisches Modul Theaterwissenschaft“ im Umfang von mindestens 20 ECTS-Punkten nachgewiesen werden. 
 
-## **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
+# **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
 
 Für die Ausgabe des Themas der Bachelorarbeit ist weitere Voraussetzung im Sinne des § 32 Abs. 1 Satz 4 **ABMStPO/Phil** , dass die Grundlagen- und Aufbaumodule gemäß der **Anlage** erfolgreich abgeschlossen sind. 
 
-## **§ 7 Schluss- und Übergangsvorschriften** 
+# **§ 7 Schluss- und Übergangsvorschriften** 
 
 1Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 2Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft und gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden. 
 
 3 
 
-## **Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft** 
+# **<u>Anlage: Studienverlaufsplan Bachelor Theater- und Medienwissenschaft</u>** 
 
-|Modulbezeichnung|||||||||||||At d Uf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||r un mang<br>||
-||Lehrveranstaltung|SWS|||||Workload-Verteilung pro Semester<br>||||||||
-|||||||ECTS||<br>in ECTSPnktn1|||||der Prüfung||
-||||||||||-|u|||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|Grundlagenmodule|||||||||||||||
-|Einführung|Einführung in die Theater-<br>und Medienwissenschaft|2||||5|3||||||Klausur (60 Min.)|0,5|
-||Einführung in das wissen-<br>schaftliche Arbeiten||2||||2||||||||
-|Basismodul|Basisseminar Theo/Histo||||2||2,5||||||||
-|Medienwissenschaft|Basisseminar Analyse||||2|5|2,5||||||Klausur (90 Min.)|0,5|
-|Basismodul<br>Theaterwissenschaft|Basisseminar Theo/Histo||||2|5|2,5||||||Hausarbeit (10-12 S.)|0,5|
-||Basisseminar Analyse||||2||2,5||||||||
-|Thematisches Modul<br>Medienwissenschaft|Proseminar||||2|5||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12 S.)|0,5|
-|Thematisches Modul<br>Theaterwissenschaft|Proseminar||||2|5||5|||||Referat (30-45 Min.) und<br>Hausarbeit (10-12 S.)|0,5|
-|Praxis|Übung Technik||2|||5||2|||||Klausur (90 Min.)|0,5|
-||Theoriender Praxis||||2|||3|||||||
-|Aufbaumodule|||||||||||||||
-|Theater- und<br>Mediengeschichte|Mediengeschichte|2||||10|||2,5||||Referat (30-45 Min.) und<br>Hausarbeit (12-15 S.)|0,5|
-||Theatergeschichte|2|||||||2,5||||||
-||Historisches Proseminar||||2|||||5|||||
-|Praxis|Projektseminar||||2|10|||5||||2 Präsentationen in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) und<br>Vortrag (30-45 Min.))|0|
-||Projektseminar||||2|||||5|||||
-|Vertiefungsmodule|||||||||||||||
-|Theater- und Medi-<br>enforschung|Forschungsperspektiven|2||||10||||2|||Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)|1|
-||Arbeitsfelder der Theater-<br>undMedienwissenschaft||||2||||||8||||
-|Praxis|Projektseminar||||2||||||5||1 Präsentation in unterschiedlichen Formen<br>(insbes. Filmsequenz (ca. 20-30 Min.) oder<br>Vortrag (30-45 Min.)) und Dokumentation (15-<br>20 S.)|1|
-||Oberseminar Praxisreflexion||||||||||||||
-||||||2|10||||||5|||
-||||||||||||||||
-|Bachelorarbeit|||||||||||||||
-|Bachelorarbeit|Bachelorarbeit|||||10||||||10|Bachelorarbeit (35-40 S.)|2|
-||Oberseminar Forschungs-<br>fragen (fakultativ)||||2||||||||||
-|||8|4||28|70+10|15|15|10|12|13|15|||
-||Summe:<br>|40<br>|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS|ECTS|Workload-Verteilu<br>in ECTS-|ng pro Semester<br>Punkten<sup>1</sup>|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.<br>3.|4.<br>5.<br>6.|||
+|Grundlagenmodule||||||||
+||Einführung in die Theater-<br>und Medienwissenschaft|2||3||||
+|Einführung|Einführung in das wissen-<br>schaftliche Arbeiten|2|5|2||Klausur (60 Min.)|0,5|
+|Basismodul|Basisseminar Theo/Histo|2|5|2,5||Kl 90 Mi|05|
+|Medienwissenschaft|Basisseminar Analyse|2||2,5||ausur ( n.)|,|
+|Basismodul|Basisseminar Theo/Histo|2|5|2,5||Hbit 1012 S|05|
+|Theaterwissenschaft|Basisseminar Analyse|2||2,5||ausare (- .)|,|
+|Thematisches Modul<br>Medienwissenschaft|Proseminar|2|5|5||Referat (30-45 Min.) und<br>Hausarbeit (10-12 S.)|0,5|
+|Thematisches Modul<br>Theaterwissenschaft|Proseminar<br>|2|5|5||Referat (30-45 Min.) und<br>Hausarbeit (10-12 S.)|0,5|
+|Praxis|Übung Technik|2|5|2||Klausur (90 Min)|05|
+||Theoriender Praxis|2||3||.|,|
+|Aufbaumodule||||||||
+|Theater- und<br>|Mediengeschichte<br>Theatergeschichte|2<br>2|10|2,5<br>2,5||Referat (30-45 Min.) und<br>|0,5|
+|Mediengeschichte|<br>Historisches Proseminar|2|||5|Hausarbeit (12-15 S.)||
+||Projektseminar|2||5||2 Präsentationen in unterschiedlichen Formen||
+|Praxis|Projektseminar|2|10||5|(insbes. Filmsequenz (ca. 20-30 Min.) und<br>|0|
+|||||||Vortrag (30-45 Min.))||
+|Vertiefungsmodule||||||||
+|Theater- und Medi-<br>enforschung|Forschungsperspektiven<br>Arbeitsfelder der Theater-<br>undMedienwissenschaft|2<br>2|10||2<br>8|Referat (30-45 Min.) und<br>Hausarbeit (15-20 S.)|1|
+||Projektseminar|2|||5|1 Präsentation in unterschiedlichen Formen||
+|Praxis|Oberseminar Praxisreflexion|2|10||5|(insbes. Filmsequenz (ca. 20-30 Min.) oder<br>Vortrag (30-45 Min.)) und Dokumentation (15-|1|
+|||||||<br>20 S.)||
+|Bachelorarbeit||||||||
+||Bachelorarbeit||||10|||
+|Bachelorarbeit|Oberseminar Forschungs-||10|||Bachelorarbeit (35-40 S.)|2|
+||<br>fragen (fakultativ)|2||||||
+||Summe:<br>|8<br>4<br>28<br>40<br>|70+10<br>|15<br>15<br>10|12<br>13<br>15|||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

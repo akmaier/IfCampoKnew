@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Dezember 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2Aenderungssatzung-MA%20MedienEthikReligion.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:43:52+00:00
-page_count_chars: 6540
+scraped_at: 2026-07-01T09:54:29+00:00
+page_count_chars: 6345
 ---
 
 # 7. Dezember 2010
@@ -14,11 +14,11 @@ page_count_chars: 6540
 
 **Zweite Satzung zur Änderung der Prüfungsordnung für das Masterstudium Medien – Ethik - Religion an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
 
-## Vom 7. Dezember 2010 
+# Vom 7. Dezember 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für das Masterstudium Medien – Ethik – Religion an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 9. Dezember 2008, geändert vom 24. November 2009, wird wie folgt geändert: 
 
@@ -52,13 +52,12 @@ Die Prüfungsordnung für das Masterstudium Medien – Ethik – Religion an der
 ||SEM Methoden empirische<br>Kommunikationsforschung|5|||
 |**Oder:**Vertiefung<br>Kommunikations- oder<br>Medienwissenschaft (je nach<br>bisherigem Studienfach)|VL oder SEM: Drei<br>Veranstaltungen aus dem<br>Angebot der<br>Kommunikationswissenschaft<br>und Theater- und<br>Medienwissenschaft gemäß<br>Modulbeschreibung|10|Mündliche Prüfung<br>(ca. 15 Minuten)<br>oder Klausur (60<br>Minuten)|10|
 
-||||||
+|Medienethik|VL Einführung Ethik|2|Mündliche Prüfung<br>15 Mit|5|
 |---|---|---|---|---|
-|Medienethik|VL Einführung Ethik<br>SEM Einführung Medienethik|2|Mündliche Prüfung<br>(ca. 15 Minuten)<br>oder Klausur (60<br>Minuten)|5|
-|||3|||
-|Medienkunde und Journalistik|SEM Medienkunde Zeitung incl.<br>Presserecht oder Verlagswesen<br>SEM Medienkunde<br>elektronische Medien incl,<br>Medienrecht<br>SEM Grundfragen der<br>Journalistik und Einführung in<br>die journalistischen<br>Darstellungsformen|4|Hausarbeit|10|
-|||3|||
-|||3|||
+||SEM Einführung Medienethik|3|(ca.  nuen)<br>oder Klausur (60<br>Minuten)||
+|Medienkunde und Journalistik|SEM Medienkunde Zeitung incl.<br>Presserecht oder Verlagswesen|4|Hausarbeit|10|
+||SEM Medienkunde<br>elektronische Medien incl,<br>Medienrecht|3|||
+||SEM Grundfragen der<br>Journalistik und Einführung in<br>die journalistischen<br>Darstellungsformen|3|||
 |Praxismodul I|Betreutes, vierwöchiges<br>Medienpraktikum mit Vor- und<br>Nachbereitung|5|Kolloquium oder<br>Praktikumsbericht|5|
 |||||**30**|
 
@@ -66,18 +65,14 @@ Die Prüfungsordnung für das Masterstudium Medien – Ethik – Religion an der
 
 |Modul|LV des Moduls|ECTS|Modul-<br>Abschlussprüfung<br>/Dauer|ECTS<br>gesamt|
 |---|---|---|---|---|
-|Vertiefung journalistische<br>Theorie und Praxis|SEM Printjournalismus|4|Hausarbeit|10|
-||SEM Radiojournalismus|3|||
+|Vertiefung journalistische<br>Theorie und Praxis|SEM Printjournalismus<br>SEM Radiojournalismus|4<br>3|Hausarbeit|10|
 ||SEM Fernsehjournalismus|3|||
-||||||
 |Einführung theologische<br>Grundlagen|VL oder Seminar: Einführung<br>Altes Testament, Neues<br>Testament oder<br>Kirchengeschichte|3|Mündliche Prüfung<br>(ca 15 Minuten)|10|
 ||VL oder Seminar: Grundzüge<br>der Dogmatik imÜberblick|4|||
-||VL oder Seminar: Einführung in<br>die Religionswissenschaft oder<br>VL Grundzüge einer<br>nichtchristlichen Religion|3|||
-|**Oder (je nach vorherigem Studienfach):**|||||
+|**Oder (je nach vorherigem S**|VL oder Seminar: Einführung in<br>die Religionswissenschaft oder<br>VL Grundzüge einer<br>nichtchristlichen Religion<br>**tudienfach):**|3|||
 |Vertiefung theologische<br>Grundlagen|VL oder Seminar:<br>Alttestamentliche,<br>neutestamentliche oder<br>kirchengeschichtliche<br>Fragestellungnach Wahl|3|Mündliche Prüfung<br>(ca. 15 Minuten)|10|
 ||VL oder Seminar Dogmatische<br>oder ethische Fragestellung<br>nach Wahl|4|||
 ||VL oder Seminar<br>Religionswissenschaftliche<br>Fragestellungnach Wahl|3|||
-||||||
 |Praxismodul II|Betreutes, achtwöchiges<br>Medienpraktikum mit Vor- und<br>Nachbereitung|10|Kolloquium oder<br>Praktikumsbericht|10|
 |||||**30**|
 
@@ -85,24 +80,19 @@ Die Prüfungsordnung für das Masterstudium Medien – Ethik – Religion an der
 
 |Öffentlichkeitsarbeit|SEM Einführung PR-Theorie<br>undProjekt Öffentlichkeitsarbeit|5|Mündliche Prüfung<br>(ca. 15Minuten)|5|
 |---|---|---|---|---|
-|Religion und Medien|SEM Einführung Religion und<br>Medien (u.a. Grundfragen des<br>Verhältnisses von Medien und<br>Religion, Medientheorie und<br>Medientheologie, Sinnstiftung<br>durch Religion und Medien,<br>Theorieentwürfe ‚Religion und<br>Öffentlichkeit’)|4|Mündliche Prüfung<br>(ca. 15 Min.) und<br>Exkursionsbericht|10|
-||SEM Vertiefung Religion und<br>Medien (u.a. theologischer<br>Wissenschaftsjournalismus,<br>biblische, kirchengeschichtliche<br>und dogmatische Themen in den<br>Massenmedien, Theater und<br>Religion, Weltreligionen und<br>Massenmedien)|3|||
+|Religion und Medien|SEM Einführung Religion und<br>Medien (u.a. Grundfragen des<br>Verhältnisses von Medien und<br>Religion, Medientheorie und<br>Medientheologie, Sinnstiftung<br>durch Religion und Medien,<br>Theorieentwürfe ‚Religion und<br>Öffentlichkeit’)<br>|4|Mündliche Prüfung<br>(ca. 15 Min.) und<br>Exkursionsbericht|10|
+||SEM Vertiefung Religion und<br>Medien (u.a. theologischer<br>Wissenschaftsjournalismus,<br>biblische, kirchengeschichtliche<br>und dogmatische Themen in den<br>Massenmedien, Theater und<br>Religion, Weltreligionen und<br>Massenmedien)|<br>3|||
 ||Mehrtägige Exkursion zu<br>kirchlichen Medienstandorten im<br>Inland oder im Ausland;|3|||
-||||||
-|Reflexionsfelder Medienethik|Vier Seminare aus den<br>Handlungs- und<br>Reflexionsfeldern Medienethik<br>(z.B. Medien und Sprache,<br>Medien und Gewalt,<br>Katastrophenjournalismus,<br>Medien und Unterhaltung,<br>Medien und Kontrolle, Medien<br>und Medientechnik /<br>Zukunftswerkstatt Digitales<br>Radio, Sozialberichterstattung<br>Auslandsberichterstattung)|4|2 Mündliche<br>Prüfungen (ca. 15<br>Min.)|15|
-|||4|||
-|||4|||
-|||3|||
-|||||**30**|
+|Reflexionsfelder Medienethik|Vier Seminare aus den<br>Handlungs- und<br>Reflexionsfeldern Medienethik<br>(z.B. Medien und Sprache,<br>Medien und Gewalt,<br>Katastrophenjournalismus,<br>Medien und Unterhaltung,<br>Medien und Kontrolle, Medien<br>und Medientechnik /<br>Zukunftswerkstatt Digitales<br>Radio, Sozialberichterstattung<br>Auslandsberichterstattung)|4<br>4<br>4<br>3|2 Mündliche<br>Prüfungen (ca. 15<br>Min.)|15<br>**30**|
 
-|**Zweites Studienjahr / Sommersemester**<br>Masterarbeit<br>Masterarbeit<br>Kolloquium zur Masterarbeit|**Zweites Studienjahr / Sommersemester**<br>Masterarbeit<br>Masterarbeit<br>Kolloquium zur Masterarbeit||||
+|**Zweites Studienjahr /**|**Sommersemester**||||
 |---|---|---|---|---|
-||Masterarbeit|29||30|
+|Masterarbeit|Masterarbeit|29|30||
 ||Kolloquium zur Masterarbeit|1|||
-|||||**30**|
+||||**30**||
 |||||„|
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am 1. April 2011 in Kraft. 2Sie gilt für alle Studierenden, die ab dem Sommersemester 2011 das Masterstudium der Medien - Ethik - Religion aufnehmen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOTechnoMathe 20150311 i.d.F. 20220811.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Technomathematik/konsolidierte_Fassungen/FPOTechnoMathe_20150311_idF_20220811.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:50:09+00:00
-page_count_chars: 55838
+scraped_at: 2026-07-01T09:13:16+00:00
+page_count_chars: 54479
 ---
 
 # FPOTechnoMathe 20150311 i.d.F. 20220811.pdf
@@ -16,7 +16,7 @@ page_count_chars: 55838
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Technomathematik und den Masterstudiengang Computational and Applied Mathematics an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOTechnoMathe – Vom 11. März 2015** 
+# **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Technomathematik und den Masterstudiengang Computational and Applied Mathematics an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOTechnoMathe – Vom 11. März 2015** 
 
 geändert durch Satzungen vom 27. Februar 2017 
 
@@ -30,13 +30,47 @@ geändert durch Satzungen vom 27. Februar 2017
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes ( **BayHSchG** ) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-**I. Teil: Allgemeine Bestimmungen** ..................................................................................... 2 § 37 Geltungsbereich ........................................................................................................... 2 § 38 Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge ................ 2 § 39 Masterstudiengang, Unterrichts- und Prüfungssprache, inhaltlich verwandte Studiengänge ........................................................................................................................... 2 **II. Teil: Besondere Bestimmungen** ..................................................................................... 3 1. Bachelorprüfung ................................................................................................................ 3 § 40 Gliederung des Bachelorstudiums ................................................................................ 3 § 41 Grundlagen- und Orientierungsprüfung ........................................................................ 3 § 42 Mathematische Wahlpflichtmodule ............................................................................... 3 § 43 Wahlpflichtmodule im Nebenfach Informatik ................................................................. 4 § 44 Wahlpflichtmodule im Technischen Wahlfach ............................................................... 5 § 45 Schlüsselqualifikationen ............................................................................................... 5 § 46 Querschnittsmodul und Seminar .................................................................................. 5 § 47 Bachelorseminar und Bachelorarbeit ............................................................................ 6 2. Masterprüfung ................................................................................................................... 6 § 48 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen .............. 6 § 49 Umfang und Gliederung des Masterstudiums, Studienrichtungen ................................ 6 § 50 Wahlpflichtmodule der Spezialisierungsgebiete ............................................................ 7 § 51 Freie Wahlmodule ........................................................................................................ 8 § 52 Mentorat und individuelle Studienvereinbarung ............................................................ 8 § 53 Prüfungen des Masterstudiums .................................................................................... 8 § 54 Voraussetzung für die Ausgabe der Masterthesis......................................................... 8 
+|**I. Teil: Allgemeine Bestimmungen**..................................................................................... 2|
+|---|
+|§ 37 Geltungsbereich ........................................................................................................... 2|
+|§ 38 Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge ................ 2<br>§ 39 Masterstudiengang, Unterrichts- und Prüfungssprache, inhaltlich verwandte Studien-<br>gänge ........................................................................................................................... 2|
+|**II. Teil: Besondere Bestimmungen**..................................................................................... 3|
+|1. Bachelorprüfung ................................................................................................................ 3|
+|§ 40 Gliederung des Bachelorstudiums ................................................................................ 3|
+|§ 41 Grundlagen- und Orientierungsprüfung ........................................................................ 3|
+|§ 42 Mathematische Wahlpflichtmodule ............................................................................... 3|
+|§ 43 Wahlpflichtmodule im Nebenfach Informatik ................................................................. 4|
+|§ 44 Wahlpflichtmodule im Technischen Wahlfach ............................................................... 5|
+|§ 45 Schlüsselqualifikationen ............................................................................................... 5|
+|§ 46 Querschnittsmodul und Seminar .................................................................................. 5|
+|§ 47 Bachelorseminar und Bachelorarbeit ............................................................................ 6|
+|2. Masterprüfung ................................................................................................................... 6|
+|§ 48 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen .............. 6|
+|§ 49 Umfang und Gliederung des Masterstudiums, Studienrichtungen ................................ 6|
+|§ 50 Wahlpflichtmodule der Spezialisierungsgebiete ............................................................ 7|
+|§ 51 Freie Wahlmodule ........................................................................................................ 8|
+|§ 52 Mentorat und individuelle Studienvereinbarung ............................................................ 8|
+|§ 53 Prüfungen des Masterstudiums .................................................................................... 8|
+|§ 54 Voraussetzung für die Ausgabe der Masterthesis......................................................... 8|
 
 1 
 
-§ 55 Modul Masterthesis ...................................................................................................... 8 **III. Teil: Schlussbestimmungen** .......................................................................................... 9 § 56 Inkrafttreten .................................................................................................................. 9 Anlage 1: Bachelorstudiengang Technomathematik .............................................................10 Anlage 1a: Curricular-Übersicht ............................................................................................10 Anlage 1b: (Muster-)Studienverlaufsplan Bachelorstudiengang Technomathematik .............11 Anlage 2: Masterstudiengang Computational and Applied Mathematics ...............................15 Anlage 2a: Curricular-Übersicht ............................................................................................15 Anlage 2b: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung MApA und NASi – ....................................................................................16 Anlage 2c: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung MApA und Opti – ......................................................................................19 Anlage 2d: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung NASi und Opti – .......................................................................................22 
+|§ 55 Modul Masterthesis ...................................................................................................... 8|
+|---|
+|**III. Teil: Schlussbestimmungen**.......................................................................................... 9|
+|§ 56 Inkrafttreten .................................................................................................................. 9|
+|Anlage 1: Bachelorstudiengang Technomathematik .............................................................10<br>|
+|Anlage 1a: Curricular-Übersicht ............................................................................................10|
+|Anlage 1b: (Muster-)Studienverlaufsplan Bachelorstudiengang Technomathematik .............11|
+|Anlage 2: Masterstudiengang Computational and Applied Mathematics ...............................15<br>|
+|Anlage 2a: Curricular-Übersicht ............................................................................................15|
+|Anlage 2b: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics|
+|– Studienrichtung MApA und NASi – ....................................................................................16<br>|
+|Anlage 2c: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics<br>– Studienrichtung MApA und Opti – ......................................................................................19|
+|Anlage 2d: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics|
+|– Studienrichtung NASi und Opti – .......................................................................................22|
 
 ## **I. Teil: Allgemeine Bestimmungen** 
 
@@ -46,15 +80,15 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Technomathema
 
 ## **§ 38 Bachelorstudiengang, Regelstudienzeit, inhaltlich verwandte Studiengänge** 
 
-(1)[1] Das Bachelorstudium der Technomathematik setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester zusammen.[2] Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
+(1)<sup>1</sup> Das Bachelorstudium der Technomathematik setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester zusammen.<sup>2</sup> Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
 
 (2) Die Bachelorstudiengänge der Mathematikwissenschaft gelten als inhaltlich verwandte Studiengänge i. S. d. § 26 Abs. 1 Satz 2 Nr. 2 **ABMPOMathe/NatFak** , wenn der Mathematikanteil im Studiengangscurriculum mindestens 125 ECTS-Punkte beträgt und darüber hinaus 20 ECTS-Punkte aus den Ingenieurwissenschaften und 20 ECTS-Punkte aus den Informatikwissenschaften beinhalten. 
 
 ## **§ 39 Masterstudiengang, Unterrichts- und Prüfungssprache, inhaltlich verwandte Studiengänge** 
 
-(1)[1] Das Masterstudium Computational and Applied Mathematics baut auf Bachelorstudiengängen der Mathematik auf.[2] Es umfasst Module im Umfang von 120 ECTSPunkten einschließlich der Masterarbeit verteilt auf vier Semester. 
+(1)<sup>1</sup> Das Masterstudium Computational and Applied Mathematics baut auf Bachelorstudiengängen der Mathematik auf.<sup>2</sup> Es umfasst Module im Umfang von 120 ECTSPunkten einschließlich der Masterarbeit verteilt auf vier Semester. 
 
-(2)[1] Abweichend von § 4 Abs. 5 **ABMPOMathe/NatFak** ist die Unterrichts- und Prüfungssprache Englisch.[2] Einzelne Module können in deutscher Sprache abgehalten und abgeprüft werden.[3] Im Übrigen bleibt § 4 Abs. 5 **ABMPOMathe/NatFak** unberührt. 
+(2)<sup>1</sup> Abweichend von § 4 Abs. 5 **ABMPOMathe/NatFak** ist die Unterrichts- und Prüfungssprache Englisch.<sup>2</sup> Einzelne Module können in deutscher Sprache abgehalten und abgeprüft werden.<sup>3</sup> Im Übrigen bleibt § 4 Abs. 5 **ABMPOMathe/NatFak** unberührt. 
 
 (3) Masterstudiengänge der Mathematikwissenschaft gelten als verwandte Studiengänge i. S. d. § 32 Abs. 1 Satz 2 Nr. 2 **ABMPOMathe/NatFak** , wenn der Anteil der 
 
@@ -80,7 +114,7 @@ d) Wahlpflichtmodulen im Technischen Wahlfach (Nr. 12 gemäß § 44),
 
 e) Schlüsselqualifikationen (Nr. 14 gemäß § 45) und den 
 
-f) Pflichtmodulen Querschnittsmodul und Seminar (Nrn. 15 und 16 gemäß § 46), zusammen.[2] Näheres ist den nachfolgenden Regelungen und der **Anlage 1** zu entnehmen. 
+f) Pflichtmodulen Querschnittsmodul und Seminar (Nrn. 15 und 16 gemäß § 46), zusammen.<sup>2</sup> Näheres ist den nachfolgenden Regelungen und der **Anlage 1** zu entnehmen. 
 
 ## **§ 41 Grundlagen- und Orientierungsprüfung** 
 
@@ -88,9 +122,9 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 
 ## **§ 42 Mathematische Wahlpflichtmodule** 
 
-(1)[1] Der Bereich der mathematischen Wahlpflichtmodule (Nr. 8 gemäß **Anlage 1b** ) umfasst 30 ECTS-Punkte.[2] Das Qualifikationsziel der mathematischen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten technomathematischen Kompetenzen zu vertiefen.[3] Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[4] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Der Bereich der mathematischen Wahlpflichtmodule (Nr. 8 gemäß **Anlage 1b** ) umfasst 30 ECTS-Punkte.<sup>2</sup> Das Qualifikationsziel der mathematischen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten technomathematischen Kompetenzen zu vertiefen.<sup>3</sup> Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>4</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Die Wahl der mathematischen Wahlpflichtmodule erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der mathematischen Wahlpflichtmodule.[2] Die mathematischen Wahlpflichtmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird. 3Der Katalog der mathematischen Wahlpflichtmodule gliedert sich in die folgenden Bereiche: 
+(2)<sup>1</sup> Die Wahl der mathematischen Wahlpflichtmodule erfolgt durch die Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der mathematischen Wahlpflichtmodule.<sup>2</sup> Die mathematischen Wahlpflichtmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird. 3Der Katalog der mathematischen Wahlpflichtmodule gliedert sich in die folgenden Bereiche: 
 
 1. Aufbaumodule der angewandten Mathematik I 
 
@@ -100,11 +134,11 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 
 4. Vertiefungsmodule der angewandten Mathematik II. 
 
-4Die Einordnung jedes Moduls des Katalogs in genau einen der Bereiche gemäß Satz 3 Nrn. 1 bis 4 erfolgt mit Bekanntgabe des Katalogs gemäß Satz 2.[5] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
+4Die Einordnung jedes Moduls des Katalogs in genau einen der Bereiche gemäß Satz 3 Nrn. 1 bis 4 erfolgt mit Bekanntgabe des Katalogs gemäß Satz 2.<sup>5</sup> Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
 
 3 
 
-(3)[1] Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der mathematischen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungen in den Bereichen des Katalogs der mathematischen Wahlpflichtmodule gemäß Abs. 2 Satz 3 ergeben sich aus den nachfolgenden Regelungen. 
+(3)<sup>1</sup> Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der mathematischen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungen in den Bereichen des Katalogs der mathematischen Wahlpflichtmodule gemäß Abs. 2 Satz 3 ergeben sich aus den nachfolgenden Regelungen. 
 
 3Mögliche Prüfungen in Modulen des Bereichs Aufbaumodule der angewandten Mathematik I gemäß Abs. 2 Satz 3 Nr. 1 sind: 
 
@@ -140,11 +174,11 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 30 ECT
 
 sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** ) bestehend aus der Prüfung gemäß Nr. 1 und einer Leistung gemäß Nr. 2 und 3. 7Näheres regelt das Modulhandbuch. 
 
-(4)[1] Die Module im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen.[2] Die Module im Umfang von 10 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (4 SWS) und Übungen (bis 3 SWS) zusammen.[3] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(4)<sup>1</sup> Die Module im Umfang von 5 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (bis 2 SWS) oder Seminaren (2 SWS) zusammen.<sup>2</sup> Die Module im Umfang von 10 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (4 SWS) und Übungen (bis 3 SWS) zusammen.<sup>3</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 ## **§ 43 Wahlpflichtmodule im Nebenfach Informatik** 
 
-(1)[1] Das Nebenfach Informatik setzt sich aus den Pflichtmodulen Nrn. 9 und 10 und dem Wahlpflichtmodul Nr. 11 gemäß **Anlage 1b** zusammen.[2] Das Nebenfach Informatik umfasst 20 bis 25 ECTS-Punkte.[3] Im Nebenfach Informatik und im Technischen Wahlfach (siehe § 44) sind zusammen 45 ECTS-Punkte zu erwerben. 
+(1)<sup>1</sup> Das Nebenfach Informatik setzt sich aus den Pflichtmodulen Nrn. 9 und 10 und dem Wahlpflichtmodul Nr. 11 gemäß **Anlage 1b** zusammen.<sup>2</sup> Das Nebenfach Informatik umfasst 20 bis 25 ECTS-Punkte.<sup>3</sup> Im Nebenfach Informatik und im Technischen Wahlfach (siehe § 44) sind zusammen 45 ECTS-Punkte zu erwerben. 
 
 (2) Für die Anmeldung zur Prüfung gilt § 42 Abs. 2 entsprechend. 
 
@@ -154,7 +188,7 @@ sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** 
 
 ## **§ 44 Wahlpflichtmodule im Technischen Wahlfach** 
 
-(1)[1] Wahlpflichtmodule im Technischen Wahlfach sind Modulpakete aus dem folgenden Angebot: 
+(1)<sup>1</sup> Wahlpflichtmodule im Technischen Wahlfach sind Modulpakete aus dem folgenden Angebot: 
 
 1. Chemie- und Bioingenieurwesen (CBI) 
 
@@ -172,13 +206,13 @@ sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** 
 
 (1) Die Schlüsselqualifikationen setzen sich aus dem Pflichtmodul Nr. 13 und dem Wahlpflichtmodul Nr. 14 gemäß **Anlage 1b** zusammen. 
 
-(2)[1] Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur ersten Prüfung im jeweiligen Modul bzw. zur Anmeldung zur Schulung bzw. zum Praktikum.[2] Die Schlüsselqualifikationsmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.[3] Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
+(2)<sup>1</sup> Die Wahl der Module aus dem Bereich der Schlüsselqualifikationen erfolgt durch die Anmeldung zur ersten Prüfung im jeweiligen Modul bzw. zur Anmeldung zur Schulung bzw. zum Praktikum.<sup>2</sup> Die Schlüsselqualifikationsmodule werden in einem Modulkatalog geführt, welcher spätestens eine Woche vor Semesterbeginn ortsüblich bekannt gemacht wird.<sup>3</sup> Der Modulkatalog kann mit Wirkung zum jeweils nächsten Semester durch den Prüfungsausschuss angepasst werden. 
 
-(3)[1] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik oder des Department Data Science gelten § 42 Abs. 3 und 4 entsprechend.[2] Art und Umfang der Lehrveranstaltungen und der Prüfung in Modulen anderer Departments und Fakultäten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. 
+(3)<sup>1</sup> Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen des Departments Mathematik oder des Department Data Science gelten § 42 Abs. 3 und 4 entsprechend.<sup>2</sup> Art und Umfang der Lehrveranstaltungen und der Prüfung in Modulen anderer Departments und Fakultäten sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. 
 
 ## **§ 46 Querschnittsmodul und Seminar** 
 
-(1)[1] Das Qualifikationsziel des Querschnittsmoduls und des Moduls Seminar (Nrn. 15 und 16 gemäß **Anlage 1b** ) liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren. 2Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen, sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Das Qualifikationsziel des Querschnittsmoduls und des Moduls Seminar (Nrn. 15 und 16 gemäß **Anlage 1b** ) liegt jeweils darin, es den Studierenden zu ermöglichen, fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren. 2Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen, sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
 5 
 
@@ -192,9 +226,9 @@ sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** 
 
 ## **§ 48 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Satz 1 Nr. 1 **ABMPOMathe/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathematik, Technomathematik oder Wirtschaftsmathematik.[2] Als fachverwandter Abschluss im Sinne des § 31 Abs. 1 Satz 1 Nr.1 **ABMPOMathe/NatFak** wird insbesondere ein Bachelorabschluss in Physik, Ingenieurwissenschaften oder Informatik mit mathematiknahen Inhalten im Umfang von mindestens 45 ECTS-Punkten anerkannt. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können gemäß Abs. 5 Satz 4 **Anlage ABMPOMathe/NatFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Satz 1 Nr. 1 **ABMPOMathe/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Mathematik, Technomathematik oder Wirtschaftsmathematik.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 31 Abs. 1 Satz 1 Nr.1 **ABMPOMathe/NatFak** wird insbesondere ein Bachelorabschluss in Physik, Ingenieurwissenschaften oder Informatik mit mathematiknahen Inhalten im Umfang von mindestens 45 ECTS-Punkten anerkannt. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können gemäß Abs. 5 Satz 4 **Anlage ABMPOMathe/NatFak** nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung in das Masterstudium aufgenommen werden. 
 
-(2)[1] Als weiterer Nachweis im Sinne des Abs. 2 Satz 2 Nr. 3 **Anlage ABMPOMathe/NatFak** ist ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von „Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“ vorzulegen; dieser Nachweis kann insbesondere auch durch sechs Jahre Englischunterricht eines deutschen Gymnasiums erbracht werden.[2] Für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich. 
+(2)<sup>1</sup> Als weiterer Nachweis im Sinne des Abs. 2 Satz 2 Nr. 3 **Anlage ABMPOMathe/NatFak** ist ein Nachweis über Sprachkenntnisse mindestens auf dem Niveau von „Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“ vorzulegen; dieser Nachweis kann insbesondere auch durch sechs Jahre Englischunterricht eines deutschen Gymnasiums erbracht werden.<sup>2</sup> Für Bewerberinnen und Bewerber, die ihre Hochschulzugangsberechtigung bzw. ihren ersten berufsqualifizierenden Hochschulabschluss in englischer Sprache erworben haben, ist kein Nachweis der englischen Sprachkenntnisse erforderlich. 
 
 (3) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. **Anlage ABMPOMathe/NatFat** werden die Bewerberinnen bzw. Bewerber auf Basis folgender Kriterien beurteilt: 
 
@@ -206,11 +240,11 @@ sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** 
 
 ## **§ 49 Umfang und Gliederung des Masterstudiums, Studienrichtungen** 
 
-(1)[1] Das Masterstudium setzt sich aus den Pflichtmodulen, den Wahlpflichtmodulen der Studienrichtung nach Abs. 2, den freien Wahlmodulen und dem Masterseminar sowie der Masterthesis zusammen.[2] Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen. 
+(1)<sup>1</sup> Das Masterstudium setzt sich aus den Pflichtmodulen, den Wahlpflichtmodulen der Studienrichtung nach Abs. 2, den freien Wahlmodulen und dem Masterseminar sowie der Masterthesis zusammen.<sup>2</sup> Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen. 
 
 6 
 
-- (2)[1] Der Masterstudiengang Computational and Applied Mathematics umfasst Module aus den Spezialisierungsgebieten 
+- (2)<sup>1</sup> Der Masterstudiengang Computational and Applied Mathematics umfasst Module aus den Spezialisierungsgebieten 
 
 - Modeling and Applied Analysis (MApA), 
 
@@ -220,7 +254,7 @@ sowie Kombinationen derselben (gemäß § 6 Abs. 2 Satz 3 **ABMPOMathe/NatFak** 
 
 - High Performance Computing (HPC) 
 
-im Umfang von mindestens 105 ECTS-Punkten sowie freie Wahlmodule aus dem Lehrangebot der FAU auf Masterniveau im Umfang von 15 ECTS-Punkten.[2] Er wird in einer der drei Studienrichtungen 
+im Umfang von mindestens 105 ECTS-Punkten sowie freie Wahlmodule aus dem Lehrangebot der FAU auf Masterniveau im Umfang von 15 ECTS-Punkten.<sup>2</sup> Er wird in einer der drei Studienrichtungen 
 
 - MApA und NASi, 
 
@@ -228,9 +262,9 @@ im Umfang von mindestens 105 ECTS-Punkten sowie freie Wahlmodule aus dem Lehrang
 
 - NASi und Opti 
 
-durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen, kann jedoch im Laufe des Studiums gewechselt werden. 
+durchgeführt.<sup>3</sup> Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen, kann jedoch im Laufe des Studiums gewechselt werden. 
 
-(3)[1] Das Masterstudium beinhaltet die in **Anlage 2** genannten Module.[2] Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Bedingungen erworben werden: 
+(3)<sup>1</sup> Das Masterstudium beinhaltet die in **Anlage 2** genannten Module.<sup>2</sup> Im Masterstudium müssen insgesamt 120 ECTS-Punkte gemäß folgender Bedingungen erworben werden: 
 
 1. 35 ECTS-Punkte aus dem Bereich der Pflichtmodule (PM) gemäß **Anlage 2b** bis **2d** , 
 
@@ -246,7 +280,7 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 ## **§ 50 Wahlpflichtmodule der Spezialisierungsgebiete** 
 
-(1)[1] In den Wahlpflichtmodulen werden wissenschaftliche Methodenkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[2] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[3] Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> In den Wahlpflichtmodulen werden wissenschaftliche Methodenkompetenzen zur Einordnung mathematischer Strukturen, zu Modellierung und zu Problemlösestrategien sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.<sup>2</sup> Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
 (2) Die einzelnen Spezialisierungsgebiete gemäß § 49 Abs. 2 Satz 1 haben die folgenden fachspezifischen Qualifikationsziele: 
 
@@ -262,15 +296,15 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 ## **§ 51 Freie Wahlmodule** 
 
-1Freie Wahlmodule können im Umfang von insgesamt 15 ECTS-Punkten aus dem gesamten Angebot der Universität gewählt werden.[2] Für Art und Umfang der Lehrveranstaltungen und Prüfung gilt § 45 Abs. 3 entsprechend. 
+1Freie Wahlmodule können im Umfang von insgesamt 15 ECTS-Punkten aus dem gesamten Angebot der Universität gewählt werden.<sup>2</sup> Für Art und Umfang der Lehrveranstaltungen und Prüfung gilt § 45 Abs. 3 entsprechend. 
 
 ## **§ 52 Mentorat und individuelle Studienvereinbarung** 
 
-(1)[1] Jeder bzw. jedem Studierenden wird zu Beginn des Masterstudiums eine Mentorin bzw. ein Mentor mit der Aufgabe zugewiesen, die Ausarbeitung einer individuellen Studienvereinbarung zu unterstützen und Fragen zum Studium zu klären.[2] Dieses Mentorat bezieht sich auf die gesamte Masterstudienzeit.[3] Bei der Antragstellung auf Zugang zum Masterstudium kann die Bewerberin bzw. der Bewerber eine Mentorin bzw. einen Mentor vorschlagen. 
+(1)<sup>1</sup> Jeder bzw. jedem Studierenden wird zu Beginn des Masterstudiums eine Mentorin bzw. ein Mentor mit der Aufgabe zugewiesen, die Ausarbeitung einer individuellen Studienvereinbarung zu unterstützen und Fragen zum Studium zu klären.<sup>2</sup> Dieses Mentorat bezieht sich auf die gesamte Masterstudienzeit.<sup>3</sup> Bei der Antragstellung auf Zugang zum Masterstudium kann die Bewerberin bzw. der Bewerber eine Mentorin bzw. einen Mentor vorschlagen. 
 
-(2)[1] Zu Beginn des Masterstudiums wird mit der Mentorin bzw. dem Mentor gemeinsam eine individuelle Studienvereinbarung entwickelt, die die fachlichen Interessen der bzw. des Studierenden berücksichtigen soll.[2] Diese Studienvereinbarung ist für das gesamte Masterstudium gültig und listet alle zu belegenden Module auf.[3] Sie ist dem Prüfungsamt bis spätestens zum ersten Prüfungstermin des Masterstudiums zur Genehmigung vorzulegen. 
+(2)<sup>1</sup> Zu Beginn des Masterstudiums wird mit der Mentorin bzw. dem Mentor gemeinsam eine individuelle Studienvereinbarung entwickelt, die die fachlichen Interessen der bzw. des Studierenden berücksichtigen soll.<sup>2</sup> Diese Studienvereinbarung ist für das gesamte Masterstudium gültig und listet alle zu belegenden Module auf.<sup>3</sup> Sie ist dem Prüfungsamt bis spätestens zum ersten Prüfungstermin des Masterstudiums zur Genehmigung vorzulegen. 
 
-(3)[1] Zur Sicherstellung der Studierbarkeit kann die Studienvereinbarung in Absprache mit der Mentorin bzw. dem Mentor aktualisiert werden.[2] Diese Aktualisierung ist dem Prüfungsausschuss unverzüglich zur Genehmigung vorzulegen. 
+(3)<sup>1</sup> Zur Sicherstellung der Studierbarkeit kann die Studienvereinbarung in Absprache mit der Mentorin bzw. dem Mentor aktualisiert werden.<sup>2</sup> Diese Aktualisierung ist dem Prüfungsausschuss unverzüglich zur Genehmigung vorzulegen. 
 
 ## **§ 53 Prüfungen des Masterstudiums** 
 
@@ -282,9 +316,9 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 ## **§ 55 Modul Masterthesis** 
 
-(1)[1] Das Modul Masterthesis wird mit 25 ECTS-Punkten bewertet.[2] Es setzt sich zusammen aus der Masterthesis (22,5 ECTS-Punkte) und einem Kolloquium (2,5 ECTSPunkte). 
+(1)<sup>1</sup> Das Modul Masterthesis wird mit 25 ECTS-Punkten bewertet.<sup>2</sup> Es setzt sich zusammen aus der Masterthesis (22,5 ECTS-Punkte) und einem Kolloquium (2,5 ECTSPunkte). 
 
-(2)[1] Die Masterthesis dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen aus dem Bereich von Computational and Applied Mathematics nachzuweisen.[2] Sie ist in ihren Anforderungen so zu gestalten, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
+(2)<sup>1</sup> Die Masterthesis dient dazu, die selbstständige Bearbeitung von wissenschaftlichen Aufgabenstellungen aus dem Bereich von Computational and Applied Mathematics nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu gestalten, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
 
 8 
 
@@ -294,15 +328,15 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 ## **§ 56 Inkrafttreten** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2015/2016 das Bachelor- bzw. das Masterstudium Technomathematik aufnehmen.[3] Studierende, die bereits nach der bisher gültigen Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathematik, Technomathematik und Wirtschaftsmathematik vom 7. September 2007 in der Fassung vom 30. Juli 2010 studieren, legen ihre Prüfungen nach dieser bisher gültigen Prüfungsordnung ab. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2015/2016 das Bachelor- bzw. das Masterstudium Technomathematik aufnehmen.<sup>3</sup> Studierende, die bereits nach der bisher gültigen Prüfungsordnung für die Bachelor- und Masterstudiengänge Mathematik, Technomathematik und Wirtschaftsmathematik vom 7. September 2007 in der Fassung vom 30. Juli 2010 studieren, legen ihre Prüfungen nach dieser bisher gültigen Prüfungsordnung ab. 
 
-(2)[1] Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 auch für all diejenigen Studierenden, die bereits nach der FPOTechnoMathe in einer derzeit gültigen Fassung studieren. 
+(2)<sup>1</sup> Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in §§ 37 bis 39 auch für all diejenigen Studierenden, die bereits nach der FPOTechnoMathe in einer derzeit gültigen Fassung studieren. 
 
-(3)[1] Die dritte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Abweichend von 1 gelten die Änderungen in Bachelor-Modul Numerische Mathematik (alt) bzw. Einführung in die Numerik (neu) für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+(3)<sup>1</sup> Die dritte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Abweichend von 1 gelten die Änderungen in Bachelor-Modul Numerische Mathematik (alt) bzw. Einführung in die Numerik (neu) für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 (4) Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 
-(5)[1] Die fünfte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten; es gelten § 47 Abs. 8 Sätze 7 ff. der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOINF** –.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung der FPO TechnoMathe ab. 
+(5)<sup>1</sup> Die fünfte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2026/2027 angeboten; es gelten § 47 Abs. 8 Sätze 7 ff. der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg (FAU) – **FPOINF** –.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung der FPO TechnoMathe ab. 
 
 9 
 
@@ -310,10 +344,8 @@ durchgeführt.[3] Die Studienrichtung wird von der Bewerberin bzw. dem Bewerber 
 
 ## **Anlage 1a: Curricular-Übersicht** 
 
-**==> picture [397 x 215] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Bachelorseminar und Bachelorarbeit (BA)<br>15 ECTS-Punkte<br>Querschnittsmodul und Seminar (QMS)<br>15 ECTS-Punkte<br>Schlüsselqualifikationen (SQ)<br>10 ECTS-Punkte<br>Mathematische Wahlpflichtmodule (MW)<br>30 ECTS-Punkte<br>Aufbaumodule Mathematik (AM)<br>15 ECTS-Punkte<br>Grundlagenmodule Mathematik (GM)<br>50 ECTS-Punkte<br>20-25 ECTS-Punkte  20-25 ECTS-Punkte<br>Nebenfach Informatik (INF)<br>Technisches Wahlfach (TWF)<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Bachelorseminar und Bachelorarbeit (BA)<br>15 ECTS-Punkte<br>Querschnittsmodul und Seminar (QMS)<br>15 ECTS-Punkte<br>Schlüsselqualifikationen (SQ)<br>10 ECTS-Punkte<br>Mathematische Wahlpflichtmodule (MW)<br>30 ECTS-Punkte<br>Aufbaumodule Mathematik (AM)<br>15 ECTS-Punkte<br>Grundlagenmodule Mathematik (GM)<br>50 ECTS-Punkte<br>20-25 ECTS-Punkte  20-25 ECTS-Punkte<br>Nebenfach Informatik (INF)<br>Technisches Wahlfach (TWF)<br><!-- End of picture text -->
 
 Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in § 40 f. und der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 1b** ). 
 
@@ -321,128 +353,68 @@ Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in �
 
 ## **Anlage 1b: (Muster-)Studienverlaufsplan Bachelorstudiengang Technomathematik** 
 
-|||||||||||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||**in ECTS-Punkten **|||||||
-||**Nr**|**Modulbezeichnun**|**Lehrveranstaltun**|||**SWS**|||**Gesamt**<br>|||||||**Art und Umfang der**<br>||
-||**.**|**g**|**g**||||||**ECTS**|**1.**<br>**Sem.**|**2.**<br>|**3.**<br>|**4.**<br>|**5.**<br>|**6.**<br>|**Prüfung/Studienleistung**||
-|||||**V**|**Ü**|**P**|**S**|**T**|||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Grundlagenmodule (GM)**|**1**||Vorlesung Analysis I|4||||||6||||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0|
-|||||||||||||||||||
-|||Analysis I|Übung Analysis I||2||||**10**|2||||||||
-|||||||||||||||||||
-||||Tafelübung Analysis I||2|||||2||||||||
-||**2**||Vorlesung Analysis II|4|||||||6|||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0,5|
-|||||||||||||||||||
-|||Analysis II|Übung Analysis II||2||||**10**||2|||||||
-|||||||||||||||||||
-||||Tafelübung Analysis II||2||||||2|||||||
-||**3**||Vorlesung Analysis III|4||||||||7||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|1|
-|||||||||||||||||||
-|||Analysis III|Übung Analysis III||2||||**10**|||2||||||
-|||||||||||||||||||
-||||Tafelübung Analysis III||1|||||||1||||||
-||**4**||Vorlesung Lineare Algebra I|4||||||6||||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0|
-|||||||||||||||||||
-|||Lineare Algebra I|Übung Lineare Algebra I||2||||**10**|2||||||||
-|||||||||||||||||||
-||||Tafelübung Lineare Algebra I||2|||||2||||||||
-||**5**||Vorlesung Lineare Algebra II|4|||||||6|||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0,5|
-|||||||||||||||||||
-|||Lineare Algebra II|Übung Lineare Algebra II||2||||**10**||2|||||||
-|||||||||||||||||||
-||||Tafelübung Lineare Algebra II||2||||||2|||||||
-|||**Summe Grundlagenmodule (GM)**||**20**|**19**|**0**|**0**|**0**|**50**|**20**|**20**|**10**|**0**|**0**|**0**|||
+||||<br> <br>**W**|**orkload**<br>|**-Verteilung pro**<br>**in ECTS-Punkte**|**Semest**<br>**n**|**er**||**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr**<br>**Modulbezeichnun**|**Lehrveranstaltun**||**SWS**<br>**Gesamt**|||||**Art und Umfang der**|<br>**Modul-**|
+|**.**<br>**g**|**g**|**V**|**ECTS**<br>**1.**<br>**Sem.**<br>**Ü**<br>**P**<br>**S**<br>**T**|**2.**<br>**Sem.**|**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|**Prüfung/Studienleistung**|**note**|
+||Vorlesung Analysis I|4|6|||||||
+|**1**<br>Analysis I|Übung Analysis I||**10**<br>2<br>2|||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0|
+||Tafelübung Analysis I||2<br>2|||||||
+||Vorlesung Analysis II|4||6||||||
+|**2**<br>Analysis II|Übung Analysis II||**10**<br>2|2||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0,5|
+|**)**|Tafelübung Analysis II||2|2||||||
+|**e (GM**|Vorlesung Analysis III|4|||7|||||
+|**odul**<br>**3**<br>Analysis III|Übung Analysis III||**10**<br>2||2|||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|1|
+|**genm**|Tafelübung Analysis III||1||1|||||
+|**ndla**|Vorlesung Lineare Algebra I|4|6|||||||
+|**u**<br>|||<br> <br>|||||Klausur 120 Min. und<br>||
+|**Gr**<br>**4**<br>Lineare Algebra I|Übung Lineare Algebra I||**10**<br>2<br>2|||||Übungsleistung<br>(unbenotet)|0|
+||Tafelübung Lineare Algebra I||2<br>2|||||||
+||Vorlesung Lineare Algebra II|4||6||||||
+|**5**<br>Lineare Algebra II|Übung Lineare Algebra II||**10**<br>2|2||||Klausur 120 Min. und<br>Übungsleistung<br>(unbenotet)|0,5|
+||Tafelübung Lineare Algebra II||2|2||||||
+|**Summe Grundlagenm**|**odule (GM)**|**20**|**19**<br>**0**<br>**0**<br>**0**<br>**50**<br>**20**|**20**|**10**<br>**0**|**0**|**0**|||
 
 11 
 
-|||||||||||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||||||
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||**SWS**|||**Gesamt**<br>|||||||**Art und Umfang der**<br>||
-|||||||||||||||||||
-||||||||||**ECTS**|**1.**<br>**Sem.**|**2.**<br>|**3.**<br>|**4.**<br>|**5.**<br>|**6.**<br>|**Prüfung/Studienleistung**||
-|||||**V**|**Ü**|**P**|**S**|**T**|||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Aufbaumodule (AM)**|**6**||Vorlesung Einführung in die<br>Numerik|4||||||||7||||Klausur 90 Min. und<br>Übungsleistung<br>(unbenotet)|1|
-|||||||||||||||||||
-|||Einführung in die Numerik|Übungen zur Einführung in<br>die Numerik||2||||**10**|||2||||||
-|||||||||||||||||||
-||||Tutorium zur Einführung in die<br>Numerik||1|||||||1||||||
-||**7**|Mathematische<br>Modellierung Theorie|Vorlesung Mathematische<br>Modellierung Theorie|2|||||**5**|||||3||Mündliche Prüfung<br>15 Min.|1|
-||||Übung Mathematische<br>Modellierung Theorie||2|||||||||2||||
-|||**Summe Aufbaumodule (AM)**||||||||||||||||
-|||||**6**|**5**|**0**|**0**|**0**|**15**|**0**|**0**|**10**|**0**|**5**|**0**|||
-|||||||||||||||||||
-|**Mathematische**<br>**Wahlpflichtmodule**<br>**(MW)**|<br>**8**|Wahlpflichtmodule aus Katalog<br>||||||||||||||vgl. § 42 Abs. 3|1|
-|||für Numerische Mathematik,<br>Modellierung und Optimierung|vgl. § 42 Abs. 4||||||**30**||||10|7,5|12,5|||
-|||<br>gemäß § 42||||||||||||||||
-|||**Summe Mathematische Wahlpflichtmodule (MW)**||||||||||||||||
-||||||||||**30**|**0**|**0**|**0**|**10**|**7,5**|**12,5**|||
-|||||||||||||||||||
-|**Nebenfach**<br>**nformatik (INF)**||||||||||||||||||
-|||||||||||||||||||
-|||||||||||||||||||
-||**9**||||||||||||||||0,75|
-|||Grundlagen der Programmie-<br>run|vgl. FPO INF|2|2||||**5**|5||||||vgl. FPO INF||
-|||g||||||||||||||||
-||**10**||||||||||||||||0,75|
-|||Einführung in die Algorithmik|vgl. FPO INF|4|2||||**7,5**||7,5|||||vgl. FPO INF||
-|||||||||||||||||||
-||**11**|Wahlpflichtmodule aus Katalog|||||||**75**||||||0-2,5|vgl. § 43 Abs. 3|1|
-|||<br>für Nebenfach Informatik (INF)|vgl. § 43 Abs. 3||||||**,-**<br>||||5|2,5-5||||
-|||gemäß §43|||||||**12,5**|||||||||
-|**I**||||||||||**5**<br>**7,5**<br>**0**<br>**5**<br>**2,5-**<br>**5**<br>**0-**<br>**2,5 **||||||||
-|||**Summe Nebenfach Informatik (INF)**||**6**|**4**|**0**|**0**|**0**|**20-25**|||||||||
-|||||||||||||||||||
+||||<br>|**W**|**orkload**<br>**i**|**-Verteilung pro**<br>**n ECTS-Punkte **|**Semeste**<br>**n**|**r**||**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr**<br>**Modulbezeichnun**|**Lehrveranstaltun**||**SWS**<br>**Gesamt**||||||**Art und Umfang der**|<br>**Modul-**|
+|**.**<br>**g**|**g**|**V**|**ECTS**<br>**Ü**<br>**P**<br>**S**<br>**T**|**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**5.**<br>**Sem.**|**6.**<br>**Sem.**|**Prüfung/Studienleistung**|**note**|
+||Vorlesung Einführung in die<br>Numerik|4||||7|||||
+|**AM)**<br>**6**<br>Einführung in die Numerik|Übungen zur Einführung in<br>die Numerik||**10**<br>2|||2|||Klausur 90 Min. und<br>Übungsleistung<br>(unbenotet)|1|
+|**ule (**|Tutorium zur Einführung in die<br>Numerik||1|||1|||||
+|**umod**<br>**7**<br>Mathematische|Vorlesung Mathematische<br>Modellierung Theorie|2|**5**||||3||Mündliche Prüfung|1|
+|**ufba**<br> <br>Modellierung Theorie|Übung Mathematische<br>Modellierung Theorie||<br>2||||2||15 Min.||
+|**A**<br>**Summe Aufbaumodule (A**|**M)**|**6**|**5**<br>**0**<br>**0**<br>**0**<br>**15**|**0**|**0**|**10**<br>**0**|**5**|**0**|||
+|**thematische**<br>**lpflichtmodule**<br>**(MW)**<br>**8**<br>Wahlpflichtmodule aus Katalog<br>für Numerische Mathematik,<br>Modellierung und Optimierung<br>gemäß § 42|vgl. § 42 Abs. 4||**30**|||10|7,5|12,5|vgl. § 42 Abs. 3|1|
+|**Ma**<br>**Wah**<br>**Summe Mathematische W**|**ahlpflichtmodule (MW)**||**30**|**0**|**0**|**0**<br>**10**|**7,5**|**12,5**|||
+|**ch**<br>**(INF)**<br>**9**<br>Grundlagen der Programmie-<br>rung|vgl. FPO INF|2|2<br>**5**|5|||||vgl. FPO INF|0,75|
+|**enfa**<br>**atik**<br>**10**<br>Einführung in die Algorithmik|vgl. FPO INF|4|2<br>**7,5**||7,5||||vgl. FPO INF|0,75|
+|**Neb**<br>**Inform**<br>**11**<br>Wahlpflichtmodule aus Katalog<br>für Nebenfach Informatik (INF)<br>gemäß §43|vgl. § 43|Abs|. 3<br>**7,5-**<br>**12,5**|||5|2,5-5|0-2,5|vgl. § 43 Abs. 3|1|
+|<br>**Summe Nebenfach Inform**|**atik (INF)**|**6**|**4**<br>**0**<br>**0**<br>**0**<br>**20-25**|**5**|**7,5**|**0**<br>**5**|**2,5-**<br>**5**|**0-**<br>**2,5 **|||
 
 12 
 
-|||||||||||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||**in ECTS-Punkten **|||||||
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||**SWS**|||**Gesamt**<br>|||||||**Art und Umfang der**<br>||
-|||||||||||||||||||
-||||||||||**ECTS**|**1.**<br>**Sem.**|**2.**<br>|**3.**<br>|**4.**<br>|**5.**<br>|**6.**<br>|**Prüfung/Studienleistung**||
-|||||**V**|**Ü**|**P**|**S**|**T**|||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Technisches**<br>**Wahlfach (TWF)**|**12**|Wahlpflichtmodule aus Katalog|||||||**20-25**|||||25|0|vgl. § 44 Abs. 2|1|
-|||<br>für Technisches Wahlfach|vgl. § 44 Abs. 2|||||||||12,5|5|,-<br>|-<br>|||
-|||(TWF) gemäß § 44||||||||||||5|2,5|||
-|||**Summe Technisches Wahlfach (TWF)**||||||||||||||||
-|||||**0**|**0**|**0**|**0**|**0**|**20-25**|**0**|**0**|**12,5**|**5**|**2,5-**<br>**5**|**0-**<br>**25**|||
-||||||||||||||||**,**|||
-|**Schlüsselqualifikationen**<br>**(SQ)**|**13**|Mhih||||||||||||||Vortrag (30-40 Min.;<br>unbenotet) und|0|
-|||atematsce<br>|Mathematische Modellierung<br>Praxis|||2|||**5**|||||5||<br>Projektbericht||
-|||Modellierung Praxis||||||||||||||(5-10 Seiten;<br>unbenotet)||
-||**14**|Wahlpflichtmodule aus<br>Katalog für Schlüssel-<br>qualifikationen gemäß<br>§ 45|vgl. § 45 Abs. 3|||||||||||||vgl. § 45 Abs. 3|0|
-||||||||||**5**|5||||||||
-|||||||||||||||||||
-|||||||||||||||||||
-|||**Summe Schlüsselqualifikationen (SQ)**|||||||**10**|**5**|**0**|**0**|**0**|**5**|**0**|||
-|||||||||||||||||||
-|**uerschnittsmodul**<br>**nd Seminar (QMS)**|**15**||Vorlesung zum Quer-<br>schnittsmodul|4|||||||||7|||Mündliche Prüfung<br>|1|
-|||||||||||||||||||
-|||Querschnittsmodul gemäß<br>§ 46|Übung zum Querschnitts-<br>dl||||||**10**|||||||(20 Min.) und<br>Übunsleistun||
-||||||2||||||||2|||||
-||||mou|||||||||||||gg<br>(unbenotet)||
-||||Tafelübung zum Quer-<br>schnittsmodul||1||||||||1|||||
-||**16**|Seminar gemäß § 46|Aufbauseminar||||2||**5**|||||5||Seminarleistung,<br>vgl. § 46|1|
-|**Q**<br>**u**||**Summe Querschnittsmodul und Seminar (QMS)**||**4**|**3**|**0**|**2**|**0**|**15**|**0**|**0**|**0**|**10**|**5**|**0**|||
+||||<br>||**Workloa**|**d-Verteilung pro**<br>**in ECTS-Punkte**|**Semest**<br>**n**|**er**<br>|**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr**<br>**Modulbezeichnun**|**Lehrveranstaltun**||**SWS**<br>**Gesamt**|||||**Art und Umfang der**|<br>**Modul-**|
+|**.**<br>**g**|**g**|**V**|**ECTS**<br>**Ü**<br>**P**<br>**S**<br>**T**|**1.**<br>**Sem.**|**2.**<br>**Sem.**|<br>**3.**<br>**Sem.**<br>**4.**<br>**Sem.**|**5.**<br>**Sem.**|**Prüfung/Studienleistung**<br>**6.**<br>**Sem.**|**note**|
+|**isches**<br>**h (TWF)**<br>**12**<br>Wahlpflichtmodule aus Katalog<br>für Technisches Wahlfach<br>(TWF) gemäß § 44|vgl. § 44|Abs. 2|<br>**20-25**|||12,5<br>5|2,5-<br>5|0-<br>2,5<br>vgl. § 44 Abs. 2|1|
+|**Techn**<br>**Wahlfac**<br>**Summe Technisches Wa**|**hlfach (TWF)**|**0**|**0**<br>**0**<br>**0**<br>**0**<br>**20-25**|**0**|**0**|**12,5**<br>**5**|**2,5-**<br>**5**|**0-**<br>**2,5**||
+|**ationen**<br>**13**<br>Mathematische<br>Modellierung Praxis|Mathematische Modellierung<br>Praxis||2<br>**5**||||5|Vortrag (30-40 Min.;<br>unbenotet) und<br>Projektbericht<br>(5-10 Seiten;<br>unbenotet)|0|
+|**hlüsselqualifik**<br>**(SQ)**<br>**14**<br>Wahlpflichtmodule aus<br>Katalog für Schlüssel-<br>qualifikationen gemäß<br>§ 45|vgl. § 45|Abs.|3<br>**5**|5||||vgl. § 45 Abs. 3|0|
+|**Sc**<br>**Summe Schlüsselqualifi**|**kationen (SQ)**||**10**|**5**|**0**|**0**<br>**0**|**5**|**0**||
+|**l**<br>**)**|Vorlesung zum Quer-<br>schnittsmodul|4||||7||Mündliche Prüfung||
+|**modu**<br>**(QMS**<br>**15**<br>Querschnittsmodul gemäß<br>§ 46|Übung zum Querschnitts-<br>modul||**10**<br>2|||2||<br>(20 Min.) und<br>Übungsleistung<br>|1|
+|**chnitts**<br>**minar**|Tafelübung zum Quer-<br>schnittsmodul||1|||1||(unbenotet)||
+|**Quers**<br>**nd Se**<br>**16**<br>Seminar gemäß § 46|Aufbauseminar||2<br>**5**||||5|Seminarleistung,<br>vgl. § 46|1|
+|<br>**u**<br>**Summe Querschnittsmo**|**dul und Seminar (QMS)**|**4**|**3**<br>**0**<br>**2**<br>**0**<br>**15**|**0**|**0**|**0**<br>**10**|**5**|**0**||
 
 13 
 
-|||||||||||**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||**in ECTS-Punkten **|||||||
-||**Nr.**|**Modulbezeichnung**|**Lehrveranstaltung**|||**SWS**|||**Gesamt**<br>|||||||**Art und Umfang der**<br>||
-|||||||||||||||||||
-||||||||||**ECTS**|**1.**<br>**Sem.**|**2.**<br>|**3.**<br>|**4.**<br>|**5.**<br>|**6.**<br>|**Prüfung/Studienleistung**||
-|||||**V**|**Ü**|**P**|**S**|**T**|||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Bachelorseminar und Bachelor-**<br>**arbeit (BA)**|**17**|||||||||||||||Seminarleistung,|0|
-|||Bachelorseminar|Bachelorseminar||||2||**5**||||||5|<br>vgl. § 6 Abs. 4 und 5||
-|||||||||||||||||**ABMPOMathe/NatFak**||
-||**18**|Bachelorarbeit|||||||**10**||||||10|Bachelorarbeit<br>(ca. 20-25 Seiten)|1,5|
-|||**Summe Bachelorseminar und Bachelorarbeit**<br>**(BA)**||**0**|**0**|**0**|**2**|**0**|**15**|**0**|**0**|**0**|**0**|**0**|**15**|||
-|||**Summe SWS (mind.)1 und ECTS-Punkte**||**36**|**31**|**2**|**4**|**0**|**180**|**30**|**27,5**|**32,5**|**30**|**27,5-**<br>**32,5**|**27,5-**<br>**32,5**|||
+<!-- Start of picture text -->
+Workload-Verteilung pro Semester<br>Nr.  Modulbezeichnung  Lehrveranstaltung  SWS  Gesamt  in ECTS-Punkten  Art und Umfang der  Modul-Faktor<br>ECTS  1.  2.  3.  4.   5.   6.   Prüfung/Studienleistung  note<br>Sem.  Sem.  Sem.  Sem.  Sem.  Sem.<br>V  Ü P  S T<br>Seminarleistung,<br>17  Bachelorseminar  Bachelorseminar 2  5  5  vgl. § 6 Abs. 4 und 5  0<br>ABMPOMathe/NatFak<br>Bachelorarbeit<br>18  Bachelorarbeit  10  10  1,5<br>(ca. 20-25 Seiten)<br>Summe Bachelorseminar und Bachelorarbeit<br>[Telefon entfernt]  0  0  15<br>(BA)<br>27,5- 27,5-<br>Summe SWS (mind.)  1  und ECTS-Punkte  36  31  2  4  [Telefon entfernt],5  32,5  30<br>32,5  32,5<br> (BA)<br>arbeit<br>Bachelorseminar und Bachelor-<br><!-- End of picture text -->
 
 1 Die Zahl erhöht sich um die Veranstaltungen der Mathematischen Wahlpflichtmodule, des Nebenfachs Informatik, des Technischen Wahlfachs und der Schlüsselqualifikation. 
 
@@ -454,12 +426,10 @@ Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in �
 
 ## **Anlage 2a: Curricular-Übersicht** 
 
-**==> picture [381 x 158] intentionally omitted <==**
+<!-- Start of picture text -->
+Masterseminar und<br>Masterthesis<br>(MA)<br>Freie Wahlmodule  Wahlpflichtmodule<br>30 ECTS<br>(WM)  (WP)<br>15 ECTS  Pflichtmodule   40 ECTS<br>(PM)<br>35 ECTS<br><!-- End of picture text -->
 
-**----- Start of picture text -----**<br>
-Masterseminar und<br>Masterthesis<br>(MA)<br>Freie Wahlmodule  Wahlpflichtmodule<br>30 ECTS<br>(WM)  (WP)<br>15 ECTS  Pflichtmodule   40 ECTS<br>(PM)<br>35 ECTS<br>**----- End of picture text -----**<br>
-
-1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in § 49 und in **Anlagen 2b** bis **2d** .[2] Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlagen 2b** bis **2d** ).[3] Zu Beginn des Masterstudiums wird im Rahmen einer individuellen Studienvereinbarung eine der folgenden Studienrichtungen gewählt: 
+1Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in § 49 und in **Anlagen 2b** bis **2d** .<sup>2</sup> Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlagen 2b** bis **2d** ).<sup>3</sup> Zu Beginn des Masterstudiums wird im Rahmen einer individuellen Studienvereinbarung eine der folgenden Studienrichtungen gewählt: 
 
 - MApA und NASi 
 
@@ -475,83 +445,46 @@ Näheres regelt § 49.
 
 ## **Anlage 2b: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung** MApA und NASi **–** 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnun**|**Lehrveranstaltun**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**SWS**||||||||**Art und Umfang der**||
-||||||||||**Gesamt**|<br>**Semester in ECTS-Punkten **||||||
-||**Nr**|||||||||||||**Prüfun/**||
-||**.**|<br>**gebiet**|**g**|**g**|**V**|**Ü**|**P**|**S**|**ECTS**|**1.**<br>**S **|**2.**<br>**S **|**3.**<br>**S **|**4.**<br>**S **|**g**<br>**Studienleistung**||
-|||||||||||||||||
-|||||||||||**em.**|**em.**|**em.**|**em.**|||
-|**Pflichtmodule (PM)**||MApA|**Modeling and Analysis in**<br>**Continuum**<br>**Mechanics I**|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||||**10**|81|82|||Mündliche Prüfung<br>(20 Min.)|1|
-||1|||||||||||||||
-|||||Tutorials to Part I||1||||21|22|||||
-|||||||||||||||||
-|||MApA|**Modeling and Analysis in**<br>**Continuum Mechanics II**|Modeling and Analysis<br>in Continuum<br>Mechanics II|2||||**5**||41|42||Mündliche Prüfung<br>(20 Min.)|1|
-||2|||||||||||||||
-|||||Tutorials to Part II||1/2|||||11|12||||
-|||||||||||||||||
-|||||||||||||||||
-|||||||||||||||||
-|||MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization||||3|**5**||51|52||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
-||3|||||||||||||||
-|||||||||||||||||
-|||HPC|**Programming**<br>**Techniques for Super-**<br>**computers in CAM**|Programming<br>Techniques for Super-<br>computers|4||||**10**|52|51|||vgl. FPO INF|1|
-||4|||||||||||||||
-|||||Tutorials to Program-<br>ming Techniques for<br>Supercomputers||2||||52|51|||||
-|||||||||||||||||
-|||HPC|**Architectures of Super-**<br>**computers**|Architectures of<br>Supercomputers|2||||**5**||2,52|2,51||vgl. FPO INF|1|
-||5|||||||||||||||
-|||||Tutorials to<br>Architectures of<br>Supercomputers||2|||||2,52|2,51||||
-|||||||||||||||||
-|||**Summe Pflichtmodule (PM)**|||**12**|**5,5**|**0**|**3**|**35**|**101,2**|**201 **<br>**152 **|**51 **<br>**102 **|**01,2**|||
-|||||||||||||||||
-|||||||||||||||||
+|**Nr**|**Spezialisier-**<br>**uns-**|**Modulbezeichnun**|**Lehrveranstaltun**|**S**|**W**|**S**||**Gesamt**|**Wor**<br>**Seme**|**kload-Ve**<br>**ster in E**|**rteilung**<br> **CTS-Pu**|**pro**<br>**nkten **|**Art und Umfang der**<br>**Prüfun/**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**.**|**g**|**g**|**g**||||||||||**g**||
+||**ebiet**|||<br>||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>||
+||**g**|||**V**<br>**Ü**||**P**|**S**||**Sem.**|**Sem.**|<br>**Sem.**|**Sem.**|**Studienleistung**|**note**|
+|1|MApA|**Modeling and Analysis in**<br>**Continuum**|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||||**10**|8<sup>1</sup>|8<sup>2</sup>|||Mündliche Prüfung<br>|1|
+|||**Mechanics I**|Tutorials to Part I|1|||||2<sup>1</sup>|2<sup>2</sup>|||(20 Min.)||
+|2|MApA|**Modeling and Analysis in**<br>|Modeling and Analysis<br>in Continuum<br>Mechanics II|2||||**5**||4<sup>1</sup>|4<sup>2</sup>||Mündliche Prüfung|1|
+|||**Continuum Mechanics II**|Tutorials to Part II|1/2||||||1<sup>1</sup>|1<sup>2</sup>||(20 Min.)||
+|**module (PM)**<br>3|MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization||||3|**5**||5<sup>1</sup>|5<sup>2</sup>||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
+|**Pflicht**<br>||**Programming**<br>|Programming<br>Techniques for Super-<br>computers|4|||||5<sup>2</sup>|5<sup>1</sup>|||||
+|<br>4|HPC|**Techniques for Super-**<br>**computers in CAM**|<br>Tutorials to Program-<br>ming Techniques for<br>Supercomputers|2||||**10**|5<sup>2</sup>|5<sup>1</sup>|||vgl. FPO INF|1|
+|||**Architectures of Super-**|Architectures of<br>Supercomputers|2||||||2,5<sup>2</sup>|2,5<sup>1</sup>||||
+|5|HPC|<br>**computers**|Tutorials to<br>Architectures of<br>Supercomputers|2||||**5**||2,5<sup>2</sup>|2,5<sup>1</sup>||vgl. FPO INF|1|
+||**Summe Pfli**|**chtmodule (PM)**||**12**<br>**5,5**||**0**|**3**|**35**|**10**<sup>**1,2**</sup>|**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**5**<sup>**1**</sup><br>**10**<sup>**2**</sup>|**0**<sup>**1,2**</sup>|||
 
 16 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnun**|**Lehrveranstaltun**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||||**Art und Umfang der**||
-||||||||||**Gesamt**|<br>**Semester in ECTS-Punkten **||||||
-||**Nr**|||||||||||||**Prüfun/**||
-||**.**|<br>**gebiet**|**g**|**g**|**V**|**Ü**|**P**|**S**|**ECTS**|**1.**<br>**S **|**2.**<br>**S **|**3.**<br>**S **|**4.**<br>**S **|**g**<br>**Studienleistung**||
-|||||||||||||||||
-|||||||||||**em.**|**em.**|**em.**|**em.**|||
-|**Wahlpflichtmodule (WP)**|6|MApA/NASi|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**15-403 **|101<br>52|5-101<br>10-<br>152|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-||7|MApA/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**0-253 **|01,2|0-51,2|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-||8|Nasi/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**0-253 **|01,2|0-51,2|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-|||**Summe Wahlpflichtmodule (WP)**|||||||**40**|**101 **<br>**52 **|**101 **<br>**152 **|**201 **<br>**152 **||||
-||||||||||||||**01 **|||
-||||||||||||||**52 **|||
-|||||||||||||||||
-|||||||||||||||||
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**ebiet**|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br> <br> <br> <br>|**Gesamt**<br>**ECTS**|**Wor**<br>**Sem**<br>**1.**|**kload-Ve**<br>**ester in E**<br>**2.**|**rteilung**<br>**CTS-Pu**<br>**3.**|**pro**<br>**nkten **<br>**4.**|**Art und Umfang der**<br>**Prüfung/**<br>|<br>**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+||**g**||**V**<br>**Ü**<br>**P**<br>**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|**Studienleistung**|**note**|
+|6|MApA/NASi|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**15-40**<sup>**3**</sup>|10<sup>1</sup><br>5<sup>2</sup>|5-10<sup>1</sup><br>10-<br>15<sup>2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+|**hlpflichtmodule (WP)**<br>7|MApA/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-25**<sup>**3**</sup>|0<sup>1,2</sup>|0-5<sup>1,2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+|**Wa**<br>8|Nasi/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-25**<sup>**3**</sup>|0<sup>1,2</sup>|0-5<sup>1,2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+||**Summe Wah**|**lpflichtmodule (WP)**||**40**|**10**<sup>**1**</sup><br>**5**<sup>**2**</sup>|**10**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**0**<sup>**1**</sup><br>**5**<sup>**2**</sup>|||
 
 17 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnun**|**Lehrveranstaltun**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**SWS**||||||||**Art und Umfang der**||
-||||||||||**Gesamt**|<br>**Semester in ECTS-Punkten **||||||
-||**Nr**|||||||||||||**Prüfun/**||
-||**.**|<br>**gebiet**|**g**|**g**|**V**|**Ü**|**P**|**S**|**ECTS**|**1.**<br>**S **|**2.**<br>**S **|**3.**<br>**S **|**4.**<br>**S **|**g**<br>**Studienleistung**||
-|||||||||||||||||
-|||||||||||**em.**|**em.**|**em.**|**em.**|||
-|**Freie Wahlmodule (WM)**|9||Freie Wahlmodule|vgl. § 51|||||**15**|101<br>152|||51<br>02|vgl. § 51|1|
-|||**Summe Freie Wahlmodule (WM) gemäß § 49 Abs. 3 Satz 2 Nr. 4**|||||||**15**|**101 **<br>**152 **|**01,2**|**01,2**||||
-||||||||||||||**51 **|||
-|||||||||||||||||
-||||||||||||||**02 **|||
-|||||||||||||||||
-|||||||||||||||||
-|**Masterseminar und**<br>**Masterthesis (MA)**|10a|MApA|**Master seminar MApA**|Master seminar MApA||||2|**5**|||(5)||Seminarleistung4|1|
-||10b|NASi|**Master seminar NASi**|Master seminar NASi||||2||||(5)||Seminarleistung4|1|
-||10c|Opti|**Master seminar Opti**|Master seminar Opti||||2||||(5)||Seminarleistung4|1|
-||11|MApA/<br>NASi/<br>Opti|**Masterthesis**|Master colloquium|||||**25**||||2,5|Mündliche Prüfung<br>(15 Min.) (10 %) mit<br>Masterthesis (90 %)|1|
-|||||Masterthesis|||||||||22,5|||
-|||**Summe Masterseminar und Masterthesis (MA)**|||**0**|**0**|**0**|**2**|**30**|**0**|**0**|**5**|**25**|||
-|||||||||||||||||
-|||||||||||||||||
+|**Nr**|**Spezialisier-**<br>**uns-**|**Modulbezeichnun**|**Lehrveranstaltun**|**SWS**|**Gesamt**|**Wor**<br>**Seme**|**kload-V**<br>**ster in**|**erteilung**<br>**ECTS-Pu**|**pro**<br>**nkten **|**Art und Umfang der**<br>**Prüfun/**|**Faktor**<br>**Modul-**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**.**|**g**<br>**bit**|**g**|**g**|<br> <br> <br>|**ECTS**|**1.**|**2.**|**3.**|**4.**|**g**<br>||
+||**gee**|||**V**<br>**Ü**<br>**P**<br>**S**|<br>|<br>**Sem.**|<br>**Sem.**|<br>**Sem.**|<br>**Sem.**|**Studienleistung**|**note**|
+|**Freie Wahlmodule (WM)**<br>9||Freie Wahlmodule|vgl. §|51|**15**|10<sup>1</sup><br>15<sup>2</sup>|||5<sup>1</sup><br>0<sup>2</sup>|vgl. § 51|1|
+||**Summe Fre**|**ie Wahlmodule (WM) gemäß**|**§ 49 Abs. 3 Satz 2 Nr. 4**||**15**|**10**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**0**<sup>**1,2**</sup>|**0**<sup>**1,2**</sup>|**5**<sup>**1**</sup><br>**0**<sup>**2**</sup>|||
+|<br>10a|MApA|**Master seminar MApA**|Master seminar MApA|2||||(5)||Seminarleistung<sup>4</sup>|1|
+|**ar und**<br>**(MA)**<br>10b|NASi|**Master seminar NASi**|Master seminar NASi|2|**5**|||(5)||Seminarleistung<sup>4</sup>|1|
+|**rsemin**<br>**rthesis**<br>10c|Opti|**Master seminar Opti**|Master seminar Opti|2||||(5)||Seminarleistung<sup>4</sup>|1|
+|**Maste**<br>**Maste**<br>|MApA/<br>NAi|**Mhi**|Master colloquium||**25**||||2,5|Mündliche Prüfung<br>Mi   i||
+|11|S/<br>Opti|**astertess**|Masterthesis||||||22,5|(15 n.) (10 %) mt<br>Masterthesis (90 %)|1|
+||**Summe Ma**|**sterseminar und Masterthesi**|**s (MA)**|**0**<br>**0**<br>**0**<br>**2**|**30**|**0**|**0**|**5**|**25**|||
 
 - 1 Studienbeginn im Wintersemester 
 
@@ -565,75 +498,44 @@ Näheres regelt § 49.
 
 ## **Anlage 2c: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung** MApA und Opti **–** 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**SWS**|||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-||**Nr.**||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-|||**gebiet**|||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Pflichtmodule (PM)**||MApA|**Modeling and Analysis in**<br>**Continuum Mechanics I**|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||||**10**|81|82|||Mündliche Prüfung<br>(20 Min.)|1|
-||1|||||||||||||||
-|||||Tutorials to Part I||1||||21|22|||||
-|||||||||||||||||
-|||MApA|**Modeling and Analysis in**<br>**Continuum Mechanics II**|Modeling and Analysis<br>in Continuum<br>MechanicsII|2||||**5**||41|42||Mündliche Prüfung<br>(20 Min.)|1|
-||2|||||||||||||||
-|||||Tutorials to Part II||1/2|||||11|12||||
-|||||||||||||||||
-|||MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization||||3|**5**||51|52||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
-||3|||||||||||||||
-|||||||||||||||||
-|||HPC|**Programming**<br>**Techniques for Super-**<br>**computers in CAM**|Programming<br>Techniques for Super-<br>computers|4||||**10**|52|51|||vgl. FPO INF|1|
-||4|||||||||||||||
-|||||Tutorials to Program-<br>ming Techniques for<br>Supercomputers||2||||52|51|||||
-|||||||||||||||||
-|||HPC|**Architectures of Super-**<br>**computers**|Architectures of Super-<br>computers|2||||**5**||2,52|2,51||vgl. FPO INF|1|
-||5|||||||||||||||
-|||||Tutorials to<br>Architectures of<br>Supercomputers||2|||||2,52|2,51||||
-|||||||||||||||||
-|||**Summe Pflichtmodule (PM)**|||**12**|**5,5**|**0**|**3**|**35**|**101,2**|**201 **<br>**152 **|**51 **<br>**102 **|**01,2**|||
-|||||||||||||||||
-|||||||||||||||||
+||||||||**Wo**|**rkload-V**<br>|**erteilung**<br>|**pro**||<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**|**S**<br>|**S**|**Gesamt**<br>**ECTS**|**1**|**Sem**<br>**in ECTS**<br>**2**|**ester**<br>**-Punkten**<br>**3**|<br>**4**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistun**|<br>**Faktor**<br>**Modul-**<br>**note**|
+|||||**V**<br>**Ü**|**P**<br>**S**||**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**|**g**||
+|1|MApA|**Modeling and Analysis in**<br>|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||**10**|8<sup>1</sup>|8<sup>2</sup>|||Mündliche Prüfung<br>|1|
+|||**Continuum Mechanics I**|Tutorials to Part I|1|||2<sup>1</sup>|2<sup>2</sup>|||(20 Min.)||
+|2|MApA|**Modeling and Analysis in**<br>|Modeling and Analysis<br>in Continuum<br>MechanicsII|2||**5**||4<sup>1</sup>|4<sup>2</sup>||Mündliche Prüfung<br>|1|
+|||**Continuum Mechanics II**|Tutorials to Part II|1/2||||1<sup>1</sup>|1<sup>2</sup>||(20 Min.)||
+|**module (PM)**<br>3|MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization||3|**5**||5<sup>1</sup>|5<sup>2</sup>||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
+|**Pflicht**<br>4|HPC|**Programming**<br>**Techniques for Super-**|Programming<br>Techniques for Super-<br>computers<br>|4||**10**|5<sup>2</sup>|5<sup>1</sup>|||vgl FPO INF|1|
+|||<br>**computers in CAM**|Tutorials to Program-<br>ming Techniques for<br>Supercomputers|2|||5<sup>2</sup>|5<sup>1</sup>|||.||
+|||**Architectures of Super-**|Architectures of Super-<br>computers|2||||2,5<sup>2</sup>|2,5<sup>1</sup>||||
+|5|HPC|<br>**computers**|Tutorials to<br>Architectures of<br>Supercomputers|2||**5**||2,5<sup>2</sup>|2,5<sup>1</sup>||vgl. FPO INF|1|
+||**Summe Pflic**|**htmodule (PM)**||**12**<br>**5,5**|**0**<br>**3**|**35**|**10**<sup>**1,2**</sup>|**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**5**<sup>**1**</sup><br>**10**<sup>**2**</sup>|**0**<sup>**1,2**</sup>|||
 
 19 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-||**Nr.**|||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-|||**gebiet**||||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-|||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Wahlpflichtmodule (WP)**|6|MApA/NASi|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3||vgl. § 50 Abs. 3|||||**0-253 **|01,2|0-51,2|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-||7|MApA/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3||vgl. § 50 Abs. 3|||||**15-403**|101<br>52|5-101<br>10-152|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-||8|Nasi/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3||vgl. § 50 Abs. 3|||||**0-253 **|01,2|0-51,2|0-201<br>0-152|01<br>0-52|vgl. § 50 Abs. 3|1|
-|||**Summe Wahlpflichtmodule (WP)**||||||||**40**|**101 **<br>**52 **|**101 **<br>**152 **|**201 **<br>**152 **||||
-|||||||||||||||**01 **|||
-|||||||||||||||**52 **|||
-||||||||||||||||||
-||||||||||||||||||
+||||||**Wo**|**rkload-V**<br>|**erteilung**<br>|**pro**||<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**1.**<br>**Sem.**|**Sem**<br>**in ECTS-**<br>**2.**<br>**Sem.**|**ester**<br>**Punkten**<br>**3.**<br>**Sem.**|<br>**4.**<br>**Sem.**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistung**|<br>**Faktor**<br>**Modul-**<br>**note**|
+|6|MApA/NASi|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-25**<sup>**3**</sup>|0<sup>1,2</sup>|0-5<sup>1,2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+|**ahlpflichtmodule (WP)**<br>7|MApA/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**15-40**<sup>**3**</sup>|10<sup>1</sup><br>5<sup>2</sup>|5-10<sup>1</sup><br>10-15<sup>2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+|**W**<br>8|Nasi/Opti|Wahlpflichtmodule aus<br>dem Katalog in Abhängig-<br>keit der gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-25**<sup>**3**</sup>|0<sup>1,2</sup>|0-5<sup>1,2</sup>|0-20<sup>1</sup><br>0-15<sup>2</sup>|0<sup>1</sup><br>0-5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+||**Summe Wahl**|**pflichtmodule (WP)**||**40**|**10**<sup>**1**</sup><br>**5**<sup>**2**</sup>|**10**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**0**<sup>**1**</sup><br>**5**<sup>**2**</sup>|||
 
 20 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**SWS**|||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-||**Nr.**||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-|||**gebiet**|||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Freie Wahlmodule (WM)**|9||Freie Wahlmodule|vgl. § 51|||||**15**|101<br>152|||51<br>02|vgl. § 51|1|
-|||**Summe Freie Wahlmodule (WM) gemäß §**|||||||**15**|**101 **<br>**152 **|**01,2**|**01,2**||||
-||||||||||||||**51 **|||
-|||||**49 Abs. 3 Satz 2 Nr. 4**||||||||||||
-||||||||||||||**02 **|||
-|||||||||||||||||
-|||||||||||||||||
-|**Masterseminar und**<br>**Masterthesis (MA)**|10a|MApA|**Master seminar MApA**|Master seminar MApA||||(2)|**5**|||(5)||Seminarleistung4|1|
-||10b|NASi|**Master seminar NASi**|Master seminar NASi||||(2)||||(5)||Seminarleistung4|1|
-||10c|Opti|**Master seminar Opti**|Master seminar Opti||||(2)||||(5)||Seminarleistung4|1|
-||11|MApA/<br>NASi/<br>Opti|**Masterthesis**|Master colloquium|||||**25**||||2,5|Mündliche Prüfung<br>(15 Min.) (10 %) mit<br>Masterthesis (90 %)|1|
-|||||Masterthesis|||||||||22,5|||
-|||**Summe Masterseminar und Masterthesis (MA)**|||**0**|**0**|**0**|**2**|**30**|**0**|**0**|**5**|**25**|||
-|||||||||||||||||
-|||||||||||||||||
+||**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>|**Gesamt**<br>**ECTS**|**W**<br>**1**|**orkload-Verteilung**<br>**Semester**<br>**in ECTS-Punkten**<br>**2**<br>**3**|**pro**<br> <br>**4**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistun**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||||**V**<br>**Ü**<br>**P**<br>**S**||**.**<br>**Sem.**|**.**<br>**Sem.**<br>**.**<br>**Sem.**|**.**<br>**Sem.**|**g**||
+|**Freie Wahlmodule (WM)**|9||Freie Wahlmodule|vgl. § 51|**15**|10<sup>1</sup><br>15<sup>2</sup>||5<sup>1</sup><br>0<sup>2</sup>|vgl. § 51|1|
+|||**Summe Frei**|**e Wahlmodule (WM) gemäß §**|**49 Abs. 3 Satz 2 Nr. 4**|**15**|**10**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**0**<sup>**1,2**</sup><br>**0**<sup>**1,2**</sup>|**5**<sup>**1**</sup><br>**0**<sup>**2**</sup>|||
+||10a|MApA|**Master seminar MApA**|Master seminar MApA<br>(2)|||(5)||Seminarleistung<sup>4</sup>|1|
+|**ar und**<br>**(MA)**|10b|NASi|**Master seminar NASi**|Master seminar NASi<br>(2)|**5**||(5)||Seminarleistung<sup>4</sup>|1|
+|**rsemin**<br>**rthesis**|10c|Opti|**Master seminar Opti**|Master seminar Opti<br>(2)|||(5)||Seminarleistung<sup>4</sup>|1|
+|**Maste**<br>**Maste**|11|MApA/<br>NASi/|**Masterthesis**|Master colloquium|**25**|||2,5|Mündliche Prüfung<br>(15 Min) (10 %) mit|1|
+|||<br>Opti||Masterthesis||||22,5|.<br>Masterthesis (90 %)||
+|||**Summe Mas**|**terseminar und Masterthesis**|**(MA)**<br>**0**<br>**0**<br>**0**<br>**2**|**30**|**0**|**0**<br>**5**|**25**|||
 
 - 1 Studienbeginn im Wintersemester 
 
@@ -647,75 +549,44 @@ Näheres regelt § 49.
 
 ## **Anlage 2d: Studienverlaufsplan Masterstudiengang Computational and Applied Mathematics – Studienrichtung NASi und Opti –** 
 
-|||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||**SWS**|||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-||**Nr.**||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-|||**gebiet**|||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Pflichtmodule (PM)**||MApA|**Modeling and Analysis in**<br>**Continuum Mechanics I**|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||||**10**|81|82|||Mündliche Prüfung<br>(20 Min.)|1|
-||1|||||||||||||||
-|||||Tutorials to Part I||1||||21|22|||||
-|||||||||||||||||
-|||MApA|**Modeling and Analysis in**<br>**Continuum Mechanics II**|Modeling and Analysis<br>in Continuum<br>MechanicsII|2||||**5**||41|42||Mündliche Prüfung<br>(20 Min.)|1|
-||2|||||||||||||||
-|||||Tutorials to Part II||1/2|||||11|12||||
-|||||||||||||||||
-|||MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization||||3|**5**||51|52||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit  Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
-||3|||||||||||||||
-|||||||||||||||||
-|||HPC|**Programming Techniques**<br>**for**<br>**Supercomputers in CAM**|Programming<br>Techniques for Super-<br>computers|4||||**10**|52|51|||vgl. FPO INF|1|
-||4|||||||||||||||
-|||||Tutorials to Program-<br>ming Techniques for<br>Supercomputers||2||||52|51|||||
-|||||||||||||||||
-|||HPC|**Architectures of Super-**<br>**computers**|Architectures of<br>Supercomputers|2||||**5**||2,52|2,51||vgl. FPO INF|1|
-||5|||||||||||||||
-|||||Tutorials to<br>Architectures of<br>Supercomputers||2|||||2,52|2,51||||
-|||||||||||||||||
-|||**Summe Pflichtmodule (PM)**|||**12**|**5,5**|**0**|**3**|**35**|**101,2**|**201 **<br>**152 **|**51 **<br>**102 **|**01,2**|||
-|||||||||||||||||
-|||||||||||||||||
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**<br>|**Gesamt**<br>**ECTS**|**Workload-V**<br>**Sem**<br>**in ECTS**<br>**1**<br>**2**|**erteilung**<br>**ester**<br>**-Punkten**<br>**3**|**pro**<br> <br>**4**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistun**|<br>**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||**V**|**Ü**<br>**P**|**S**|**.**<br>**Sem.**<br>**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**|**g**||
+|1|MApA|**Modeling and Analysis in**<br>|Modeling and Analysis<br>in Continuum<br>Mechanics I|4||**10**|8<sup>1</sup><br>8<sup>2</sup>|||Mündliche Prüfung<br>|1|
+|||**Continuum Mechanics I**|Tutorials to Part I||1||2<sup>1</sup><br>2<sup>2</sup>|||(20 Min.)||
+|2|MApA|**Modeling and Analysis in**<br>|Modeling and Analysis<br>in Continuum<br>MechanicsII|2||**5**|4<sup>1</sup>|4<sup>2</sup>||Mündliche Prüfung<br>|1|
+|||**Continuum Mechanics II**|Tutorials to Part II||1/2||1<sup>1</sup>|1<sup>2</sup>||(20 Min.)||
+|**module (PM)**<br>3|MApA/<br>NASi/<br>Opti|**Modeling, Simulation and**<br>**Optimization**|Practical Course:<br>Modeling, Simulation<br>and Optimization|||3<br>**5**|5<sup>1</sup>|5<sup>2</sup>||Vortrag<br>(ca. 45 Min.) (50 %)<br>mit  Abschlussbe-<br>richt (ca. 10 Seiten)<br>(50 %)|1|
+|**Pflicht**<br>4|HPC|**Programming Techniques**<br>**for**|Programming<br>Techniques for Super-<br>computers<br>|4||**10**|5<sup>2</sup><br>5<sup>1</sup>|||vgl FPO INF|1|
+|||<br>**Supercomputers in CAM**|Tutorials to Program-<br>ming Techniques for<br>Supercomputers||2||5<sup>2</sup><br>5<sup>1</sup>|||.||
+|||**Architectures of Super-**|Architectures of<br>Supercomputers|2|||2,5<sup>2</sup>|2,5<sup>1</sup>||||
+|5|HPC|<br>**computers**|Tutorials to<br>Architectures of<br>Supercomputers||2|**5**|2,5<sup>2</sup>|2,5<sup>1</sup>||vgl. FPO INF|1|
+||**Summe Pflic**|**htmodule (PM)**||**12**|**5,5**<br>**0**|**3**<br>**35**|**10**<sup>**1,2**</sup><br>**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**5**<sup>**1**</sup><br>**10**<sup>**2**</sup>|**0**<sup>**1,2**</sup>|||
 
 22 
 
-||||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-|||**Nr.**||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-||||**gebiet**|||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-|||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Wahlpflichtmodule (WP)**||6|MApA/NASi|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**0-103 **|01,2|01<br>0-102|0-101<br>02|01,2|vgl. § 50 Abs. 3|1|
-|||7|MApA/Opti|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**0-103**|01,2|01<br>0-102|0-101<br>02|01,2|vgl. § 50 Abs. 3|1|
-|||8|Nasi/Opti|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|||||**30-403 **|101<br>52|101<br>5-152|10-<br>201<br>152|01<br>52|vgl. § 50 Abs. 3|1|
-||||**Summe Wahlpflichtmodule (WP)**|||||||**40**|**101 **<br>**52 **|**101 **<br>**152 **|**201 **<br>**152 **||||
-|||||||||||||||**01 **|||
-|||||||||||||||**52 **|||
-||||||||||||||||||
-||||||||||||||||||
+||||||**Workload-Ve**<br>|**rteilung**<br>|**pro**||<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**<br>**SWS**<br>**V**<br>**Ü**<br>**P**<br>**S**|**Gesamt**<br>**ECTS**|**Sem**<br>**in ECTS-**<br>**1.**<br>**Sem.**<br>**2.**<br>**Sem.**|**ester**<br>**Punkten**<br>**3.**<br>**Sem.**|<br>**4.**<br>**Sem.**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistung**|<br>**Faktor**<br>**Modul-**<br>**note**|
+|6|MApA/NASi|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-10**<sup>**3**</sup>|0<sup>1,2</sup><br>0<sup>1</sup><br>0-10<sup>2</sup>|0-10<sup>1</sup><br>0<sup>2</sup>|0<sup>1,2</sup>|vgl. § 50 Abs. 3|1|
+|**lpflichtmodule (WP)**<br>7|MApA/Opti|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**0-10**<sup>**3**</sup>|0<sup>1,2</sup><br>0<sup>1</sup><br>0-10<sup>2</sup>|0-10<sup>1</sup><br>0<sup>2</sup>|0<sup>1,2</sup>|vgl. § 50 Abs. 3|1|
+|**Wah**||||||||||
+|8|Nasi/Opti|Wahlpflichtmodule aus dem<br>Katalog in Abhängigkeit der<br>gewählten<br>Studienrichtung gemäß<br>§ 49 Abs. 2 Satz 3|vgl. § 50 Abs. 3|**30-40**<sup>**3**</sup>|10<sup>1</sup><br>5<sup>2</sup><br>10<sup>1</sup><br>5-15<sup>2</sup>|10-<br>20<sup>1</sup><br>15<sup>2</sup>|0<sup>1</sup><br>5<sup>2</sup>|vgl. § 50 Abs. 3|1|
+||**Summe Wahl**|**pflichtmodule (WP)**||**40**|**10**<sup>**1**</sup><br>**5**<sup>**2**</sup><br>**10**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**20**<sup>**1**</sup><br>**15**<sup>**2**</sup>|**0**<sup>**1**</sup><br>**5**<sup>**2**</sup>|||
 
 23 
 
-||||**Spezialisier-**<br>**ungs-**|**Modulbezeichnung**|**Lehrveranstaltung**||||||**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**|**Workload-Verteilung pro**||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**SWS**|||**Gesamt**<br>||**Semester**|||**Art und Umfang der**||
-|||**Nr.**||||||||||**in ECTS-Punkten**|||**Prüfung/**||
-||||**gebiet**|||||||**ECTS**|**1.**|**2.**|**3.**|**4.**|<br>**Studienleistung**||
-|||||||**V**|**Ü**|**P**|**S**||**Sem.**|**Sem.**|**Sem.**|**Sem.**|||
-|**Freie Wahlmodule (WM)**||9||Freie Wahlmodule|vgl.|§ 51||||**15**|101<br>152|||51|vgl. § 51|1|
-||||**Summe Freie Wahlmodule (WM) gemäß §**|||||||**15**|**101 **<br>**152 **|**01,2**|**01,2**||||
-|||||||||||||||**51 **|||
-||||||**49 Abs. 3 Satz 2 Nr. 4**||||||||||||
-|||||||||||||||**02 **|||
-||||||||||||||||||
-||||||||||||||||||
-|Masterseminar und<br>Masterthesis (MA)||10a|MApA|Master seminar MApA|Master seminar MApA||||(2)|**5**|||(5)||Seminarleistung4|1|
-|||10b|NASi|Master seminar NASi|Master seminar NASi||||(2)||||(5)||Seminarleistung4|1|
-|||10c|Opti|Master seminar Opti|Master seminar Opti||||(2)||||(5)||Seminarleistung4|1|
-|||11|MApA/<br>NASi/<br>Opti|Masterthesis|Master colloquium|||||**25**||||2,5|Mündliche Prüfung<br>(15 Min.) (10 %) mit<br>Masterthesis (90 %)|1|
-||||||Masterthesis|||||||||22,5|||
-||||**Summe Masterseminar und Masterthesis**||**(MA)**|**0**|**0**|**0**|**2**|**30**|**0**|**0**|**5**|**25**|||
-||||||||||||||||||
-||||||||||||||||||
+|**Nr.**|**Spezialisier-**<br>**ungs-**<br>**gebiet**|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>|**Gesamt**<br>**ECTS**|**Workload-V**<br>**Sem**<br>**in ECTS-**<br>**1**<br>**2**|**erteilung**<br>**ester**<br>**Punkten**<br>**3**|**pro**<br> <br>**4**|**Art und Umfang der**<br>**Prüfung/**<br>**Studienleistun**|<br>**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||||**V**<br>**Ü**<br>**P**<br>**S**||**.**<br>**Sem.**<br>**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**|**g**||
+|**Freie Wahlmodule (WM)**<br>9||Freie Wahlmodule|vgl.|§ 51|**15**|10<sup>1</sup><br>15<sup>2</sup>||5<sup>1</sup>|vgl. § 51|1|
+||**Summe Frei**|**e Wahlmodule (WM) gemäß §**|**49 Abs. 3 Satz 2 Nr. 4**||**15**|**10**<sup>**1**</sup><br>**15**<sup>**2**</sup><br>**0**<sup>**1,2**</sup>|**0**<sup>**1,2**</sup>|**5**<sup>**1**</sup><br>**0**<sup>**2**</sup>|||
+|10a|MApA|Master seminar MApA|Master seminar MApA|(2)|||(5)||Seminarleistung<sup>4</sup>|1|
+|ar und<br>(MA)<br>10b|NASi|Master seminar NASi|Master seminar NASi|(2)|**5**||(5)||Seminarleistung<sup>4</sup>|1|
+|rsemin<br>erthesis<br>10c|Opti|Master seminar Opti|Master seminar Opti|(2)|||(5)||Seminarleistung<sup>4</sup>|1|
+|Maste<br>Mast<br>11|MApA/<br>NASi/|Masterthesis|Master colloquium||**25**|||2,5|Mündliche Prüfung<br>(15 Min) (10 %) mit|1|
+||<br>Opti||Masterthesis|||||22,5|.<br>Masterthesis (90 %)||
+||**Summe Mas**|**terseminar und Masterthesis**|**(MA)**|**0**<br>**0**<br>**0**<br>**2**|**30**|**0**<br>**0**|**5**|**25**|||
 
 - 1 Studienbeginn im Wintersemester 
 

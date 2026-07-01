@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES_MA_IIS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:08+00:00
-page_count_chars: 6638
+scraped_at: 2026-07-01T11:04:09+00:00
+page_count_chars: 6700
 ---
 
 # 5. Juni 2014
@@ -12,13 +12,13 @@ page_count_chars: 6638
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES_MA_IIS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS -** 
 
-## Vom 5. Juni 2014 
+Vom 5. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2 und 3 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) und § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIIS - vom 8. Juli 2010, zuletzt geändert durch Satzung vom 18. Februar 2014, wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 2. § 3 Abs. 2 wird wie folgt geändert: 
 
-   - a) Vor dem Wort „Das“ wird die hochgestellt Zahl „[1] “ eingefügt.[.] 
+   - a) Vor dem Wort „Das“ wird die hochgestellt Zahl „<sup>1</sup> “ eingefügt.<sup>.</sup> 
 
    - b) Satz 1 Nrn. 3 bis 5 erhalten folgende neue Fassung: 
 
@@ -50,7 +50,7 @@ Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte)
 
 1 
 
-## 4. Bereich Informatics 
+# 4. Bereich Informatics 
 
 - a) Core Courses (Kernbereich) (15 ECTS-Punkte) 
 
@@ -60,62 +60,58 @@ Modulbereich: Software Engineering I (5 ECTS-Punkte)
 
 Modulbereich: Applied Software Engineering I (5 ECTS-Punkte) 
 
-b) Electives (Wahlpflichtbereich) (15 ECTS-Punkte) 
+- b) Electives (Wahlpflichtbereich) (15 ECTS-Punkte) 
 
 Modulbereich: Data Management II (0-15 ECTS-Punkte) Modulbereich: Software Engineering II (0-15 ECTS-Punkte) Modulbereich: Applied Software Engineering II (0-15 ECTS-Punkte) Modulbereich: Extension Courses (0-15 ECTS-Punkte) Modulbereich: Study Abroad Courses (0-15 ECTS-Punkte) 
 
-## 5. Bereich Seminar 
+# 5. Bereich Seminar 
 
 Seminar (5 ECTS-Punkte)“ 
 
 - c) Nach Satz 1 werden folgender neuer Satz 2 angefügt: 
 
-„[2] Wegen des erforderlichen Kompetenzgewinns können Module bzw. Modulteile im Bereich Informatics, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums belegt wurden, im Masterstudium nicht mehr gewählt werden.“ 
+„<sup>2</sup> Wegen des erforderlichen Kompetenzgewinns können Module bzw. Modulteile im Bereich Informatics, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums belegt wurden, im Masterstudium nicht mehr gewählt werden.“ 
 
 2 
 
-## 3. Die Tabelle in der Anlage erhält folgende neue Fassung: 
+# 3. Die Tabelle in der Anlage erhält folgende neue Fassung: 
 
 „ 
 
-||||Sem. 1|Sem. 2|Sem. 3|Sem. 4||
-|---|---|---|---|---|---|---|---|
-|**Modules**||ECTS|ECTS|ECTS|ECTS|ECTS||
-|**Customized Introduction to International Information Systems**||||||||
-|Management I und Management IIoder|BWL + WI|20||||||
-||||20|||||
-|Informatics I und Informatics II|INF|20||||||
-|||||||||
-|**Foreign Language Skills Language Skills**||||||||
-|Foreign Language Skills|NN|5|5|||||
-|**International Information Systems Management(IISM)**||||||||
-|**Core  Courses(Kernbereich)1)**|**WI**|**15**||||||
-|Modulbereich: Innovation and Value Creation I|WI|5|5|||||
-|Modulbereich: Services, Processes and Intelli-<br>gence I|WI|5||||||
-|||||5||||
-|Modulbereich: IT Management I|WI|5||5||||
-|**Electives(Wahlpflichtbereich)2)**|**WI**|**15**||||||
-|Modulbereich: Innovation  and Value Creation II|WI|0-15||0-15|0-15|||
-|Modulbereich: Services, Processes and Intelli-<br>gence II|WI|0-15||||||
-|||||0-15|0-15|||
-|Modulbereich: IT Management II|WI|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**|WI|0-15|||0-15|||
-|**Informatics**||||||||
-|**Core Courses(Kernbereich)1)**|**INF**|**15**||||||
-|Modulbereich: Data Management I|INF|5||5||||
-|Modulbereich: Software EngineeringI|INF|5||5||||
-|Modulbereich: Applied Software EngineeringI|INF|5||5||||
-|**Electives(Wahlpflichtbereich)2)**|**INF**|**15**||||||
-|Modulbereich: Data Management II|INF|0-15||0-15|0-15|||
-|Modulbereich: Software EngineeringII|INF|0-15||0-15|0-15|||
-|Modulbereich: Applied Software EngineeringII|INF|0-15||0-15|0-15|||
-|Modulbereich: Extension Courses|INF|0-15||0-15|0-15|||
-|Modulbereich: StudyAbroad Courses**3)**|INF|0-15|||0-15|||
-|**Seminar**||||||||
-|Seminar|WI+INF|5|||5|||
-|**Masterarbeit**||||||||
-|Master Thesis|WI+INF|30||||30||
-||||30<br>|30<br>|30<br>|30<br>||
+||||Sem. 1|Sem. 2|Sem. 3|Sem. 4|
+|---|---|---|---|---|---|---|
+|**Modules**||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Customized Introduction to International Inform**|**ation Syste**|**ms**|||||
+|Management I und Management IIoder|BWL + WI|20|20||||
+|Informatics I und Informatics II|INF|20|||||
+|**Foreign Language Skills Language Skills**|||||||
+|Foreign Language Skills|NN|5|5||||
+|**International Information Systems Management**<br>|**(IISM)**||||||
+|**Core  Courses(Kernbereich)**<sup>**1)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation and Value Creation I|WI|5|5||||
+|Modulbereich: Services, Processes and Intelli-<br>gence I|WI|5||5|||
+|Modulbereich: IT Management I|WI|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**WI**|**15**|||||
+|Modulbereich: Innovation  and Value Creation II|WI|0-15||0-15|0-15||
+|Modulbereich: Services, Processes and Intelli-<br>gence II|WI|0-15||0-15|0-15||
+|Modulbereich: IT Management II<br>|WI|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|WI|0-15|||0-15||
+|**Informatics**<br>|||||||
+|**Core Courses(Kernbereich)**<sup>**1)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management I|INF|5||5|||
+|Modulbereich: Software EngineeringI|INF|5||5|||
+|Modulbereich: Applied Software EngineeringI<br>|INF|5||5|||
+|**Electives(Wahlpflichtbereich)**<sup>**2)**</sup>|**INF**|**15**|||||
+|Modulbereich: Data Management II|INF|0-15||0-15|0-15||
+|Modulbereich: Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Applied Software EngineeringII|INF|0-15||0-15|0-15||
+|Modulbereich: Extension Courses|INF|0-15||0-15|0-15||
+|Modulbereich: StudyAbroad Courses<sup>**3)**</sup>|INF|0-15|||0-15||
+|**Seminar**|||||||
+|Seminar|WI+INF|5|||5||
+|**Masterarbeit**|||||||
+|Master Thesis|WI+INF|30||||30|
+||||30<br>|30<br>|30<br>|30<br>|
 
 1) Innerhalb des Kernbereichs müssen pro Modulbereich verpflichtend Module im Umfang von 5 ECTS-Punkten absolviert werden. (Ggf.) Auswahl von Modulen im Wert von 5 ECTS-Punkten gemäß Modulhandbuch. Module, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums absolviert wurden, können wegen des erforderlichen Kompetenzgewinns nicht noch einmal gewählt werden. 
 
@@ -125,9 +121,9 @@ Seminar (5 ECTS-Punkte)“
 
 „ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der laufenden Nr. 1 gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2015/2016 aufnehmen werden.[3] Die Änderungen in den laufenden Nrn. 2 und 3 gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2014/2015 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der laufenden Nr. 1 gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2015/2016 aufnehmen werden.<sup>3</sup> Die Änderungen in den laufenden Nrn. 2 und 3 gelten für alle Studierenden, die ihr Studium ab dem Wintersemester 2014/2015 aufnehmen werden. 
 
 3 
 

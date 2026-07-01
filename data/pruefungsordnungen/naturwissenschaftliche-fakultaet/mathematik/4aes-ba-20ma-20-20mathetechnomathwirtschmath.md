@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "30. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES-BA%20MA%20-%20MatheTechnomathWirtschMath.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:52:55+00:00
-page_count_chars: 20839
+scraped_at: 2026-07-01T09:14:53+00:00
+page_count_chars: 21428
 ---
 
 # 30. Juli 2010
@@ -18,11 +18,11 @@ Vom 30. Juli 2010
 
 Aufgrund von Art. 13 Abs.1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für das Bachelorstudium der Mathematik, Technomathematik und Wirtschaftsmathematik sowie das Masterstudium der Mathematik und der Technomathematik an der Universität Erlangen-Nürnberg vom 7. September 2007, zuletzt geändert durch Satzung vom 4. März 2010, wird wie folgt geändert: 
 
-1. Die Überschrift erhält folgende neue Fassung: 
+# 1. Die Überschrift erhält folgende neue Fassung: 
 
 „Prüfungsordnung für das Bachelor- und Masterstudium der Mathematik, Technomathematik und Wirtschaftsmathematik an der Friedrich-AlexanderUniversität Erlangen Nürnberg“. 
 
@@ -42,11 +42,11 @@ b) In Abs. 2 wird nach den Worten und Zeichen „Vorsitzenden,“ und „Hochsch
 
 7. In § 28 Abs. 4 Satz 5 werden die Worte „Frist gilt die Bachelorprüfung als endgültig“ durch die Worte „Wiederholung oder der Wiederholungsfrist gilt die Prüfung als“ ersetzt. 
 
-## 8. Die §§ 29 bis 33 erhalten folgende Fassung: 
+# 8. Die §§ 29 bis 33 erhalten folgende Fassung: 
 
-## „ **§ 29 Qualifikation zum Masterstudium** 
+# „ **§ 29 Qualifikation zum Masterstudium** 
 
-- (1)[1] Qualifikationsvoraussetzungen zum Masterstudium sind 
+(1)<sup>1</sup> Qualifikationsvoraussetzungen zum Masterstudium sind 
 
 1. ein einschlägiges abgeschlossenes Studium und 
 
@@ -64,19 +64,19 @@ b) In Abs. 2 wird nach den Worten und Zeichen „Vorsitzenden,“ und „Hochsch
 
 4. die Diplom oder Bachelorprüfung einer deutschen Fachhochschule oder 
 
-5. einen dem Abschluss in Nr. 1 vergleichbaren in- oder ausländischen Hochschulabschluss oder gleichwertigen Abschluss.[3] Die Qualifikation nach Satz 1 Nr. 2 wird, durch einen allgemein anerkannten Sprachtest sowie durch die mündliche Prüfung im Rahmen des Qualifikationsfeststellungsverfahrens nach Anlage 1 nachgewiesen.[4] In begründeten Ausnahmefällen kann der Prüfungsausschuss den allgemein anerkannten Sprachtest erlassen. 
+5. einen dem Abschluss in Nr. 1 vergleichbaren in- oder ausländischen Hochschulabschluss oder gleichwertigen Abschluss.<sup>3</sup> Die Qualifikation nach Satz 1 Nr. 2 wird, durch einen allgemein anerkannten Sprachtest sowie durch die mündliche Prüfung im Rahmen des Qualifikationsfeststellungsverfahrens nach Anlage 1 nachgewiesen.<sup>4</sup> In begründeten Ausnahmefällen kann der Prüfungsausschuss den allgemein anerkannten Sprachtest erlassen. 
 
-(2)[1] Bewerberinnen oder Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote wenigstens 2,5 (= gut) abgeschlossen haben.[2] Sie müssen das Qualifikationsfeststellungsverfahren nach Anlage 1 erfolgreich durchlaufen haben. 
+(2)<sup>1</sup> Bewerberinnen oder Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote wenigstens 2,5 (= gut) abgeschlossen haben.<sup>2</sup> Sie müssen das Qualifikationsfeststellungsverfahren nach Anlage 1 erfolgreich durchlaufen haben. 
 
-(3)[1] Die Abschlüsse nach Abs. 1 Satz 2 Nrn. 2 bis 5 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.[2] Ist die Gleichwertigkeit nicht voll gegeben, kann die Zugangskommission des Studiengangs den Zugang unter Auflagen aussprechen, die spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
+(3)<sup>1</sup> Die Abschlüsse nach Abs. 1 Satz 2 Nrn. 2 bis 5 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.<sup>2</sup> Ist die Gleichwertigkeit nicht voll gegeben, kann die Zugangskommission des Studiengangs den Zugang unter Auflagen aussprechen, die spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
 
-(4)[1] Abweichend von Abs. 1 Satz 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.[2] Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus. 3Der Zugang zum Masterstudium erfolgt unter Vorbehalt. 
+(4)<sup>1</sup> Abweichend von Abs. 1 Satz 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag in Ausnahmefällen zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.<sup>2</sup> Der Nachweis über den bestandenen Bachelorabschluss ist bis zu einem einheitlichen, von der Zugangskommission bestimmten Zeitpunkt, spätestens innerhalb eines Jahres nach Aufnahme des Studiums, nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus. 3Der Zugang zum Masterstudium erfolgt unter Vorbehalt. 
 
-(5) § 25 gilt entsprechend. 
+# (5) § 25 gilt entsprechend. 
 
-## **§ 30 Umfang und Gliederung des Masterstudiums** 
+# **§ 30 Umfang und Gliederung des Masterstudiums** 
 
-(1)[1] Das Masterstudium der Mathematik wird in einer der folgenden Studienrichtungen durchgeführt: 
+(1)<sup>1</sup> Das Masterstudium der Mathematik wird in einer der folgenden Studienrichtungen durchgeführt: 
 
 1. Algebra und Geometrie 
 
@@ -84,17 +84,21 @@ b) In Abs. 2 wird nach den Worten und Zeichen „Vorsitzenden,“ und „Hochsch
 
 3. Modellierung, Simulation und Optimierung. 
 
-- 2Das Masterstudium der Technomathematik wird in einer der folgenden Studienrichtungen 
+2Das Masterstudium der Technomathematik wird in einer der folgenden 
+
+Studienrichtungen 
 
 1. Modellierung und Simulation 
 
 2. Optimierung 
 
-sowie in einem technischen Anwendungsfach durchgeführt. 3Das Masterstudium der Wirtschaftsmathematik wird in einer der folgenden 
+sowie in einem technischen Anwendungsfach durchgeführt. 
+
+3Das Masterstudium der Wirtschaftsmathematik wird in einer der folgenden 
 
 Studienrichtungen 1. Stochastik und Risikomanagement 
 
-## 2. Optimierung und Prozessmanagement 
+# 2. Optimierung und Prozessmanagement 
 
 durchgeführt. 
 
@@ -108,23 +112,23 @@ durchgeführt.
 
 (5) In allen drei Masterstudiengängen gehört mindestens ein Hauptseminar der gewählten Studienrichtung zu den zu bestehenden Modulen, in den Masterstudiengängen Mathematik und Technomathematik außerdem das Masterkolloquium (5 ECTS-Punkten). 
 
-(6)[1] Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl der Studienrichtung und legen in Absprache mit der zugeteilten Mentorin bzw. dem zugeteilten Mentor ein Studienkonzept vor.[2] Im Studienkonzept wird festgelegt, welche Module gemäß Abs. 2 die Studierenden erfolgreich ablegen müssen und in welchem Semester die Module abgelegt werden sollen; pro Semester sind in der Regel 30 ECTS-Punkte zu erwerben. 
+(6)<sup>1</sup> Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl der Studienrichtung und legen in Absprache mit der zugeteilten Mentorin bzw. dem zugeteilten Mentor ein Studienkonzept vor.<sup>2</sup> Im Studienkonzept wird festgelegt, welche Module gemäß Abs. 2 die Studierenden erfolgreich ablegen müssen und in welchem Semester die Module abgelegt werden sollen; pro Semester sind in der Regel 30 ECTS-Punkte zu erwerben. 
 
-3Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen in Absprache mit der Mentorin bzw. dem Mentor und mit Zustimmung des bzw. der Prüfungsausschussvorsitzenden möglich.[4] Im Masterstudiengang Mathematik soll das Studienkonzept ein außermathematisches Wahlfach beinhalten. 
+3Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen in Absprache mit der Mentorin bzw. dem Mentor und mit Zustimmung des bzw. der Prüfungsausschussvorsitzenden möglich.<sup>4</sup> Im Masterstudiengang Mathematik soll das Studienkonzept ein außermathematisches Wahlfach beinhalten. 
 
-(7)[1] Kern und Wahlmodule, die inhaltlich gleich oder eng verwandt sind zu Modulen, die bereits Bestandteil eines vorangegangenen Studiums, z.B. eines Bachelorstudiums, waren, können nicht in das Masterstudium eingebracht werden. 2Über die inhaltliche Gleichheit bzw. Verwandtschaft von Modulen entscheidet die Zugangskommission für die Masterstudiengänge der Mathematik im Benehmen mit dem Prüfungsausschuss. 
+(7)<sup>1</sup> Kern und Wahlmodule, die inhaltlich gleich oder eng verwandt sind zu Modulen, die bereits Bestandteil eines vorangegangenen Studiums, z.B. eines Bachelorstudiums, waren, können nicht in das Masterstudium eingebracht werden. 2Über die inhaltliche Gleichheit bzw. Verwandtschaft von Modulen entscheidet die Zugangskommission für die Masterstudiengänge der Mathematik im Benehmen mit dem Prüfungsausschuss. 
 
 **§ 31 Masterprüfung** 
 
-(1)[1] Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen einschließlich des Moduls Masterarbeit.[2] In den Studiengängen Mathematik und Technomathematik wird die Masterarbeit durch das Masterkolloquium ergänzt.[3] Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Masterarbeit einschließlich ggf. des Moduls Masterkolloquium bestanden sind. 
+(1)<sup>1</sup> Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Prüfungen einschließlich des Moduls Masterarbeit.<sup>2</sup> In den Studiengängen Mathematik und Technomathematik wird die Masterarbeit durch das Masterkolloquium ergänzt.<sup>3</sup> Die Masterprüfung ist bestanden, wenn sämtliche studienbegleitend zu erbringenden Modulprüfungen und das Modul Masterarbeit einschließlich ggf. des Moduls Masterkolloquium bestanden sind. 
 
-(2)[1] Prüfungen in den mathematischen Modulen finden in der Regel mündlich statt. 2Die Dauer dieser Prüfungen beträgt das Doppelte der ECTS-Punktezahl der zugeordneten Veranstaltungen in Minuten, mindestens aber 15 Minuten und höchstens 45 Minuten.[3] Abweichend davon dauert die Prüfung im Modul Masterkolloquium 30 Minuten.[ 4] Prüfungen in den außermathematischen Modulen finden nach den Prüfungsordnungen der jeweiligen Fächer statt. 
+(2)<sup>1</sup> Prüfungen in den mathematischen Modulen finden in der Regel mündlich statt. 2Die Dauer dieser Prüfungen beträgt das Doppelte der ECTS-Punktezahl der zugeordneten Veranstaltungen in Minuten, mindestens aber 15 Minuten und höchstens 45 Minuten.<sup>3</sup> Abweichend davon dauert die Prüfung im Modul Masterkolloquium 30 Minuten.<sup>4</sup> Prüfungen in den außermathematischen Modulen finden nach den Prüfungsordnungen der jeweiligen Fächer statt. 
 
 (3) Module, die bereits Gegenstand einer Bachelorprüfung waren, können nicht mehr in die Masterprüfung eingebracht werden. 
 
-## **§ 32 Voraussetzung für die Ausgabe der Masterarbeit** 
+# **§ 32 Voraussetzung für die Ausgabe der Masterarbeit** 
 
-(1)[1] Mit der Masterarbeit soll spätestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, 
+(1)<sup>1</sup> Mit der Masterarbeit soll spätestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, 
 
 1. dass die in der Studienrichtung gemäß § 30 Abs. 2 zu erwerbenden ECTS-Punkte nachgewiesen werden, 
 
@@ -132,27 +136,27 @@ durchgeführt.
 
 (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Abs. 1 eine vorgezogene Zulassung zur Masterarbeit gewähren. 
 
-## **§ 33 Masterarbeit** 
+# **§ 33 Masterarbeit** 
 
-(1)[1] Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.[2] Sie soll zeigen, dass die Studierende oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und nach wissenschaftlichen Methoden zu bearbeiten.[3] Die Masterarbeit darf nicht mit einer früher vorgelegten Diplomarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen.[4] Die Masterarbeit hat einen Umfang von 30 ECTS-Punkten. 
+(1)<sup>1</sup> Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.<sup>2</sup> Sie soll zeigen, dass die Studierende oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und nach wissenschaftlichen Methoden zu bearbeiten.<sup>3</sup> Die Masterarbeit darf nicht mit einer früher vorgelegten Diplomarbeit, Bachelor- oder Masterarbeit oder Dissertation in wesentlichen Teilen übereinstimmen.<sup>4</sup> Die Masterarbeit hat einen Umfang von 30 ECTS-Punkten. 
 
-(2)[1] Die Studierenden sorgen spätestens am Semesterende des vorletzten Semesters der Regelstudienzeit dafür, dass sie ein Thema für die Masterarbeit erhalten.[2] Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und dem Prüfungsamt mitzuteilen.[3] Gelingt es der Studierenden oder dem Studierenden trotz ernsthafter Bemühungen nicht, ein Thema zu erhalten, weist die Vorsitzende oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit einer Fachvertreterin oder einem Fachvertreter der Studierenden oder dem Studierenden auf Antrag ein Thema und eine Betreuerin oder einen Betreuer zu. 
+(2)<sup>1</sup> Die Studierenden sorgen spätestens am Semesterende des vorletzten Semesters der Regelstudienzeit dafür, dass sie ein Thema für die Masterarbeit erhalten.<sup>2</sup> Thema und Tag der Ausgabe sind von der Betreuerin oder vom Betreuer zu bestätigen und dem Prüfungsamt mitzuteilen.<sup>3</sup> Gelingt es der Studierenden oder dem Studierenden trotz ernsthafter Bemühungen nicht, ein Thema zu erhalten, weist die Vorsitzende oder der Vorsitzende des Prüfungsausschusses im Einvernehmen mit einer Fachvertreterin oder einem Fachvertreter der Studierenden oder dem Studierenden auf Antrag ein Thema und eine Betreuerin oder einen Betreuer zu. 
 
-(3)[1] Die im Department Mathematik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer sind zur Vergabe einer Masterarbeit berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln, insbesondere bei interdisziplinären Masterarbeiten in den Studiengängen Technomathematik und Wirtschaftsmathematik. 
+(3)<sup>1</sup> Die im Department Mathematik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer sind zur Vergabe einer Masterarbeit berechtigt.<sup>2</sup> Der Prüfungsausschuss kann Ausnahmen gestatten und regeln, insbesondere bei interdisziplinären Masterarbeiten in den Studiengängen Technomathematik und Wirtschaftsmathematik. 
 
-(4)[1] Die Zeit von der Themenstellung bis zur Ablieferung der Masterarbeit darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass es innerhalb dieser Frist bearbeitet werden kann.[2] Auf begründeten Antrag kann der Prüfungsausschuss die Bearbeitungsfrist ausnahmsweise um höchstens drei Monate verlängern.[3] Weist die Studierende oder der Studierende durch ärztliches Zeugnis 
+(4)<sup>1</sup> Die Zeit von der Themenstellung bis zur Ablieferung der Masterarbeit darf sechs Monate nicht überschreiten; das Thema muss so begrenzt sein, dass es innerhalb dieser Frist bearbeitet werden kann.<sup>2</sup> Auf begründeten Antrag kann der Prüfungsausschuss die Bearbeitungsfrist ausnahmsweise um höchstens drei Monate verlängern.<sup>3</sup> Weist die Studierende oder der Studierende durch ärztliches Zeugnis 
 
 nach, dass sie oder er durch Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
 
-(5)[1] Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der Vorsitzenden oder des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden.[2] Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+(5)<sup>1</sup> Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung der Vorsitzenden oder des Vorsitzenden des Prüfungsausschusses innerhalb des ersten Drittels der Bearbeitungszeit zurückgegeben werden.<sup>2</sup> Andernfalls wird die Masterarbeit bei Rückgabe des Themas mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
-(6)[1] Die Masterarbeit ist in deutscher Sprache oder mit Zustimmung der Betreuerin oder des Betreuers in englischer Sprache abzufassen.[2] Die Masterarbeit enthält am Ende eine Zusammenfassung der Ergebnisse sowie einen kurz gefassten Lebenslauf der Verfasserin oder des Verfassers.[3] Die Titelseite ist nach dem vom Prüfungsausschuss beschlossenen Muster zu gestalten.[4] Die Masterarbeit muss mit einer Erklärung der Studierenden oder des Studierenden versehen sein, dass die Arbeit selbst verfasst und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.[5] Die Masterarbeit ist in drei Exemplaren bei der Betreuerin oder dem Betreuer abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.[6] Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
+(6)<sup>1</sup> Die Masterarbeit ist in deutscher Sprache oder mit Zustimmung der Betreuerin oder des Betreuers in englischer Sprache abzufassen.<sup>2</sup> Die Masterarbeit enthält am Ende eine Zusammenfassung der Ergebnisse sowie einen kurz gefassten Lebenslauf der Verfasserin oder des Verfassers.<sup>3</sup> Die Titelseite ist nach dem vom Prüfungsausschuss beschlossenen Muster zu gestalten.<sup>4</sup> Die Masterarbeit muss mit einer Erklärung der Studierenden oder des Studierenden versehen sein, dass die Arbeit selbst verfasst und keine anderen als die darin angegebenen Quellen und Hilfsmittel benutzt wurden.<sup>5</sup> Die Masterarbeit ist in drei Exemplaren bei der Betreuerin oder dem Betreuer abzuliefern; der Abgabezeitpunkt ist schriftlich festzuhalten.<sup>6</sup> Wird die Masterarbeit nicht fristgerecht abgegeben, wird sie mit „nicht ausreichend“ (5,0) bewertet; sie gilt als abgelehnt. 
 
-(7)[1] Die Masterarbeit wird in der Regel von der Betreuerin oder dem Betreuer sowie einer weiteren prüfungsberechtigten Person als Zweitgutachter oder Zweitgutachterin beurteilt; § 27 Abs. 7 Sätze 2 bis 5 gilt entsprechend.[2] Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Masterarbeit innerhalb eines Monats begutachtet ist. 
+(7)<sup>1</sup> Die Masterarbeit wird in der Regel von der Betreuerin oder dem Betreuer sowie einer weiteren prüfungsberechtigten Person als Zweitgutachter oder Zweitgutachterin beurteilt; § 27 Abs. 7 Sätze 2 bis 5 gilt entsprechend.<sup>2</sup> Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses wirkt daraufhin, dass die Masterarbeit innerhalb eines Monats begutachtet ist. 
 
-(8)[1] Die Masterarbeit ist angenommen, wenn sie mit wenigstens „ausreichend“ beurteilt ist.[2] Sie ist abgelehnt, wenn sie mit „nicht ausreichend“ bewertet ist. 
+(8)<sup>1</sup> Die Masterarbeit ist angenommen, wenn sie mit wenigstens „ausreichend“ beurteilt ist.<sup>2</sup> Sie ist abgelehnt, wenn sie mit „nicht ausreichend“ bewertet ist. 
 
-(9)[1] Ist die Masterarbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Die Studierende oder der Studierende sorgt dafür, dass sie oder er innerhalb des nach der Bekanntgabe der Ablehnung folgenden Semesters ein neues Thema für die Wiederholung der Masterarbeit erhält; andernfalls gilt die Masterarbeit als endgültig nicht bestanden; Abs. 2 Satz 3 gilt entsprechend.[3] Für die Wiederholung der Masterarbeit gelten die Abs. 1 bis 8 entsprechend; eine Rückgabe des Themas ist ausgeschlossen.[4] Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses kann, sofern dies nach der Bewertung der Arbeit nicht ausgeschlossen ist, mit dem Einverständnis der Studierenden oder des Studierenden gestatten, eine überarbeitete Fassung der Masterarbeit innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung vorzulegen; im Falle der Umarbeitung gelten die Abs. 1 bis 8 entsprechend. 
+(9)<sup>1</sup> Ist die Masterarbeit abgelehnt oder gilt sie als abgelehnt, so kann sie einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Die Studierende oder der Studierende sorgt dafür, dass sie oder er innerhalb des nach der Bekanntgabe der Ablehnung folgenden Semesters ein neues Thema für die Wiederholung der Masterarbeit erhält; andernfalls gilt die Masterarbeit als endgültig nicht bestanden; Abs. 2 Satz 3 gilt entsprechend.<sup>3</sup> Für die Wiederholung der Masterarbeit gelten die Abs. 1 bis 8 entsprechend; eine Rückgabe des Themas ist ausgeschlossen.<sup>4</sup> Die Vorsitzende oder der Vorsitzende des Prüfungsausschusses kann, sofern dies nach der Bewertung der Arbeit nicht ausgeschlossen ist, mit dem Einverständnis der Studierenden oder des Studierenden gestatten, eine überarbeitete Fassung der Masterarbeit innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung vorzulegen; im Falle der Umarbeitung gelten die Abs. 1 bis 8 entsprechend. 
 
 (10) Im Rahmen von Doppeldiplomierungsabkommen bzw. Studiengangskooperationen können Regelungen getroffen werden, die von denen in Abs. 1 bis 9 abweichen.“ 
 
@@ -172,35 +176,33 @@ d) Abs. 6 Satz 2 erhält folgende neue Fassung:
 
 e) In Abs. 7 Satz 2 werden die Worte „die Zulassung“ durch die Worte „der Zugang“ ersetzt und die Zahl „4“ durch die Zahl „3“ ersetzt. 
 
-11. Anlage 2 wird wie folgt geändert: 
+# 11. Anlage 2 wird wie folgt geändert: 
 
-- a) In Tabelle 2 (Bachelorstudium der Mathematik, NF BWL) Zeile 42 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung[3] “ die Worte „SL: Übungsleistung“ angefügt. 
+- a) In Tabelle 2 (Bachelorstudium der Mathematik, NF BWL) Zeile 42 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung<sup>3</sup> “ die Worte „SL: Übungsleistung“ angefügt. 
 
 - b) In Tabelle 3 (Bachelorstudium der Mathematik, NF Informatik) Zeile 65 (Modul Datenbanksysteme) wird die Abkürzung „Dasy“ in Spalte 1 durch die Abkürzung „IDB“ und das Wort „Datenbanksysteme“ durch das Wort „Implementierung von Datenbanksystemen“ ersetzt. 
 
-- c) In Tabelle 7 (Bachelorstudium der Mathematik, NF VWL) Zeile 45 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung[3] “ die Worte „SL: Übungsleistung“ angefügt. 
+- c) In Tabelle 7 (Bachelorstudium der Mathematik, NF VWL) Zeile 45 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung<sup>3</sup> “ die Worte „SL: Übungsleistung“ angefügt. 
 
-- d) Tabelle 8 (Bachelorstudium der Technomathematik) wird wie folgt geändert: 
+- d) Tabelle 8 (Bachelorstudium der Technomathematik) wird wie folgt geändert: aa) In Zeile 44 (Modul Diskretion und numerische Optimierung) Spalte 2 wird das Wort „Diskretion“ durch das Wort „Diskretisierung“ ersetzt. 
 
-   - aa) In Zeile 44 (Modul Diskretion und numerische Optimierung) Spalte 2 wird das Wort „Diskretion“ durch das Wort „Diskretisierung“ ersetzt. 
+bb) In Zeile 36 und 47 (Grundmodul Techn. Wahlfach) Spalte 4 wird jeweils nach der Zahl „7,5“ die Fußnote „<sup>5</sup> “ angefügt. 
 
-bb) In Zeile 36 und 47 (Grundmodul Techn. Wahlfach) Spalte 4 wird jeweils nach der Zahl „7,5“ die Fußnote „[5] “ angefügt. 
+cc) In Zeile 59 (Aufbaumodul Techn. Wahlfach) Spalte 4 wird nach der Zahl „5“ die Fußnote „<sup>5</sup> “ angefügt. 
 
-cc) In Zeile 59 (Aufbaumodul Techn. Wahlfach) Spalte 4 wird nach der Zahl „5“ die Fußnote „[5] “ angefügt. 
-
-dd) In Zeile 61 (Aufbaumodul Techn. Wahlfach) Spalte 4 wird nach der Zahl „5“ die Fußnote „[5] “ angefügt. 
+dd) In Zeile 61 (Aufbaumodul Techn. Wahlfach) Spalte 4 wird nach der Zahl „5“ die Fußnote „<sup>5</sup> “ angefügt. 
 
 ee) Am Ende der Tabelle wird folgende Fußnote 5 angefügt: 
 
 „5) Im Technischen Wahlfach (Module GTW1, GTW2, ATW1 und ATW2) sind mindestens 22,5 ECTS-Punkte abzulegen, darunter mindestens ein Aufbaumodul im Umfang von mindestens 7,5 ECTS-Punkten; in diesem Rahmen können auch alternativ angebotene Module gewählt werden, die von der Tabelle abweichende ECTS-Punkte-Zahlen aufweisen.“ 
 
-- e) In Tabelle 9 (Bachelorstudium der Wirtschaftsmathematik) Zeile 46 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung[3] “ die Worte „SL: Übungsleistung“ angefügt. 
+- e) In Tabelle 9 (Bachelorstudium der Wirtschaftsmathematik) Zeile 46 (Modul Statistik) Spalte 6 werden nach dem Wort „Prüfung<sup>3</sup> “ die Worte „SL: Übungsleistung“ angefügt. 
 
-## 12. Anlage 3 erhält folgende Fassung: 
+# 12. Anlage 3 erhält folgende Fassung: 
 
-## „ **A) Studienverlaufsplan für das Masterstudium der Mathematik** 
+# „ **A) Studienverlaufsplan für das Masterstudium der Mathematik** 
 
-||Modul|SWS|ECTS1|Sem.1|Prüfungsart und -umfang2|
+||Modul|SWS|ECTS<sup>1</sup>|Sem.<sup>1</sup>|Prüfungsart und -umfang<sup>2</sup>|
 |---|---|---|---|---|---|
 |1|Kernmodul Studienrichtung|10|20|1 und 2|Mündl. Prüfung, 40 Min.|
 |2|Forschungsmodul Studienrichtung|10|20|2 und 3|Mündl. Prüfung, 40 Min.|
@@ -214,9 +216,9 @@ ee) Am Ende der Tabelle wird folgende Fußnote 5 angefügt:
 
 - 2) Die Prüfungen können in Teilprüfungen aufgespalten werden. 
 
-## **B) Studienverlaufsplan für das Masterstudium der Technomathematik** 
+# **B) Studienverlaufsplan für das Masterstudium der Technomathematik** 
 
-||Modul|SWS|ECTS1|Sem.1|Prüfungsart und -umfang2|
+||Modul|SWS|ECTS<sup>1</sup>|Sem.<sup>1</sup>|Prüfungsart und -umfang<sup>2</sup>|
 |---|---|---|---|---|---|
 |1|Kernmodul Studienrichtung|7,5|15|1 und 2|Mündl. Prüfung, 30 Min.|
 |2|Forschungsmodul Studienrichtung|7,5|15|2 und 3|Mündl. Prüfung, 30 Min.|
@@ -231,9 +233,9 @@ ee) Am Ende der Tabelle wird folgende Fußnote 5 angefügt:
 
 - 2) Die Prüfungen können in Teilprüfungen aufgespalten werden. 
 
-## **C) Studienverlaufsplan für das Masterstudium der Wirtschaftsmathematik** 
+# **C) Studienverlaufsplan für das Masterstudium der Wirtschaftsmathematik** 
 
-||Modul|SWS|ECTS1|Sem.1|Prüfungsart und -umfang2|
+||Modul|SWS|ECTS<sup>1</sup>|Sem.<sup>1</sup>|Prüfungsart und -umfang<sup>2</sup>|
 |---|---|---|---|---|---|
 |1|Kernmodul Studienrichtung|7,5|15|1 und 2|Mündl. Prüfung, 30 Min.|
 |2|Forschungsmodul Studienrichtung|7,5|15|2 und 3|Mündl. Prüfung, 30 Min.|
@@ -247,7 +249,7 @@ ee) Am Ende der Tabelle wird folgende Fußnote 5 angefügt:
 
 2) Die Prüfungen können in Teilprüfungen aufgespalten werden. “ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. Sie findet Anwendung auf alle Studierenden, die ihr Studium zum Beginn des Wintersemesters 2010/11 aufnehmen. 
 

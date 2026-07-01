@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juni 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-2FachBA%20Italoromanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:02:42+00:00
-page_count_chars: 6147
+scraped_at: 2026-07-01T10:22:17+00:00
+page_count_chars: 6129
 ---
 
 # 11. Juni 2010
@@ -14,11 +14,11 @@ page_count_chars: 6147
 
 **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 11. Juni 2010 
+# Vom 11. Juni 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 4. Oktober 2007, zuletzt geändert durch Satzung vom 1. September 2009, wird wie folgt geändert: 
 
@@ -32,11 +32,10 @@ Die Fachstudien- und Prüfungsordnung für das Fach Italoromanistik im Zwei-Fach
 
 c) Die Tabelle in Abs. 2 Satz 2 wird durch folgende Tabelle ersetzt: 
 
-## „ 
+# „ 
 
-||||||||
+|**Sem.**<sup>**~~1~~**</sup>|**Module**|**LV**|**SWS**|**ECTS **|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
 |---|---|---|---|---|---|---|
-|**Sem.**~~**1**~~|**Module**|**LV**|**SWS**|**ECTS **|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
 |1|**Basismodul**<br>**Italienische**<br>**Sprachpraxis 1**|Corso di italiano<br>intermedio I|6|8|K 90’|1,0|
 |||Comprensione e<br>produzione orale I|2|2|SL||
 |||||**10**|||
@@ -51,34 +50,26 @@ c) Die Tabelle in Abs. 2 Satz 2 wird durch folgende Tabelle ersetzt:
 
 erlangen.de\websource\universitaet\organisation\recht\studiensatzungen\PHIL1\Aenderungssatzunge n\4AES-2FachBA Italoromanistik.doc 
 
-||||||||
+|**Sem.**<sup>**~~1~~**</sup>|**Module**|**LV**|**SWS**|**ECTS **|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
 |---|---|---|---|---|---|---|
-|**Sem.**~~**1**~~|**Module**|**LV**|**SWS**|**ECTS **|**Leistungs-**<br>**nachweis**|**Faktor f. die**<br>**Modulnote**|
-|||||**10**|||
-|3 / 4|**ch-**<br>**wissenschaft 1**<br>**Aufbaumodul**<br>**Italienische Spra**|Proseminar|2|4|HA|0,6|
+|3 / 4|**ch-**<br>**wissenschaft 1**<br>**Aufbaumodul**<br>**Italienische Spra**|Proseminar|2|**10**<br>4|HA|0,6|
 |||Vorlesung|2|2|SL||
 |||ng<br>Übu|2|4|P 15’<br>K 90’ /<br>M|0,4|
-|||||**10**|||
-|3 / 4|**Kulturwissenschaft**<br>**1**<br>**Aufbaumodul**<br>**Italienische Literatur-**<br>**u.**|Proseminar|2|4|HA|0,6|
-|||Vorlesung|2|4|MP 15’<br>K 90’ /|0,4|
+|3 / 4|**Kulturwissenschaft**<br>**Aufbaumodul**<br>**Italienische Literatur-**<br>**u.**|Proseminar|2|**10**<br>4|HA|0,6|
+||<br>**1**<br>|Vorlesung|2|4|MP 15’<br>K 90’ /|0,4|
 |||ng<br>Übu|2|2|SL||
-|||||**10**|||
-|3 / 4|**l**<br>**Sprachpraxis 3**<br>**Aufbaumodu**<br>**Italienische**|Comprensione e<br>produzione scritta|2|3|K 90’|1,0|
+|3 / 4|**l**<br>**Sprachpraxis 3**<br>**Aufbaumodu**<br>**Italienische**|Comprensione e<br>produzione scritta|2|**10**<br>3|K 90’|1,0|
 |||Grammatica e stilistica|2|2|SL||
 |||Comprensione e<br>produzione orale II|2|2|SL||
-|||ultura e civiltà italiana I<br>Corso introduttivo di<br>c|2|3|SL||
-|||||**10**|||
-|5 / 6|**ch-**<br>**wissenschaft 2**<br>**Vertiefungsmodul**<br>**Italienische Spra**|Mittelseminar|2|6|HA|0,6|
+|||ultura e civiltà italiana I<br>Corso introduttivo di<br>c|2|3<br>|SL||
+|5 / 6|**ch-**<br>**wissenschaft 2**<br>**Vertiefungsmodul**<br>**Italienische Spra**|Mittelseminar|2|**10**<br>6|HA|0,6|
 |||sung<br>Vorle|2|4|P 15’<br>K 90’ /<br>M|0,4|
-|||||**10**|||
-|5 / 6|**odul**<br>**Kulturwissenschaft 2**<br>**Vertiefungsm**<br>**Italienische**<br>**Literatur- und**|Mittelseminar|2|6|HA|0,6|
-|||sung<br>Vorle|2|4|P 15’<br>K 90’ /<br>M|0,4|
-|||||**10**|||
-|5 / 6|**he Sprach-**<br>**praxis 4**<br>**Vertiefungsmodul**<br>**Italienisc**|Cultura e civiltà italiana II|2|5|’ /<br>HA<br>K 90|0,5|
+|5 / 6|**odul**<br>**Vertiefungsm**<br>**Italienische**<br>**Literatur- und**|Mittelseminar|2|**10**<br>6|HA|0,6|
+||**Kulturwissenschaft 2**<br>|sung<br>Vorle|2|4|P 15’<br>K 90’ /<br>M|0,4|
+|5 / 6|**he Sprach-**<br>**praxis 4**<br>**Vertiefungsmodul**<br>**Italienisc**|Cultura e civiltà italiana II|2|**10**<br>5|’ /<br>HA<br>K 90|0,5|
 |||Laboratorio di scrittura|2|3|Kurzessays|0,5|
 |||e Tedesco –<br>aliano<br>Traduzion<br>It|2|2|SL||
-|||||**10**|||
-|6<br>|**Bachelorarbeit**<br>|||**10**<br>|BA||
+|6<br>|**Bachelorarbeit**<br>|||**10**<br>**10**<br>|BA||
 
 > ~~1~~ Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
@@ -122,9 +113,9 @@ Die Worte „ein weiteres Modul“ werden durch die Worte „das Basismodul Ital
 
 3. In § 6 Abs. 1 Satz 1 wird die Zahl„90“ durch die Zahl „100“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die Satzung tritt nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die zum Wintersemester 2010/11 das Studium aufnehmen. 
+1Die Satzung tritt nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die zum Wintersemester 2010/11 das Studium aufnehmen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität ErlangenNürnberg vom 19. Mai 2010 und der Genehmigungsfeststellung des Präsidenten vom 28. Mai 2010. 
 

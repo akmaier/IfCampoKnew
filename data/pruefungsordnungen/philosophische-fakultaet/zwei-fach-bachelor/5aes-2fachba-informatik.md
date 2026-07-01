@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES_2FachBA_Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:36+00:00
-page_count_chars: 3649
+scraped_at: 2026-07-01T10:21:26+00:00
+page_count_chars: 3598
 ---
 
 # 25. Juli 2013
@@ -12,40 +12,40 @@ page_count_chars: 3649
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES_2FachBA_Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 25. Juli 2013 
+# Vom 25. Juli 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg vom 22. Juli 2008, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
-## § 4 Abs. 1 erhält folgende Fassung: 
+# § 4 Abs. 1 erhält folgende Fassung: 
 
-## „(1) Im Studium Informatik sind folgende Module erfolgreich abzulegen: 
+# „(1) Im Studium Informatik sind folgende Module erfolgreich abzulegen: 
 
-|**Seme-**<br>**ster¹**|**Modul**|**Umfang**<br>**SWS**|**Umfang**<br>**SWS**|**Umfang**<br>**SWS**|**ECTS**|**Art und Umfang der Studien-**<br>**und Prüfungsleistung**|**GOP**|
-|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**||||
-|**1**|Algorithmen und Datenstrukturen|4|2|2|10|Pfp:<br>PL: 120 Minuten Klausur und<br>SL: Hausaufgaben|*|
-||KonzeptionelleModellierung|2|2||5|PL:90Minuten Klausur|*|
-||Mathematik für Naturwissenschaftler|3|1||5|PL:  90 Minuten Klausur|*|
-|**2**|Parallele und Funktionale Programmierung|2|2||5|PL:  60 Minuten Klausur|*|
-||Grundlagen der Systemprogrammierung|2|2||5|PL:  90 Minuten Klausur|*|
-||Theoretische Informatik für<br>WirtschaftsinformatikundLehramt|2|2||5|PL:  90 Minuten Klausur|*|
-|**3**|Grundlagen der Technischen Informatik|4|2||7,5|Pfp:<br>PL: 120 Minuten Klausur und<br>SL: Kurztests, praktische<br>Übungen||
-||Grundlagen der Logik und<br>Logikprogrammierung|2|2||5|PL:  90 Minuten Klausur||
-||Mathematische Modellbildung und Statistik<br>für Naturwissenschaftler|3|1||5|Pfp:<br>PL: 50 Minuten Klausur und<br>SL: Rechnerklausur||
-|**4**|Rechnerkommunikation|2|2||5|Pfp:<br>PL: 90 Minuten Klausur und<br>SL: Hausaufgaben||
-||Vertiefung Informatik I|2+2²|||5|³||
-||Seminar|2²|||5|³||
-|**5**|Vertiefung Informatik II|2+2²|||7,5|³||
-||Implementierung von Datenbanksystemen|2|2||5|PL:  90 Minuten Klausur||
-|**6**|Bachelorarbeit||||12|||
-||Begleitseminar + ReferatBachelorarbeit|2²|||3|³||
-||**Summe:**|**62**|||**95**|||
+|**Seme-**<br>**ster¹**|**Modul**|**U**<br>|**mfang**<br>**SWS**<br>|**ECTS**|**Art und Umfang der Studien-**<br>**und Prüfungsleistung**|**GOP**|
+|---|---|---|---|---|---|---|
+|||**V**|**Ü**<br>**P**||||
+|**1**|Algorithmen und Datenstrukturen|4|2<br>2|10|Pfp:<br>PL: 120 Minuten Klausur und<br>SL: Hausaufgaben|*|
+||KonzeptionelleModellierung|2|2|5|PL:90Minuten Klausur|*|
+||Mathematik für Naturwissenschaftler|3|1|5|PL:  90 Minuten Klausur|*|
+|**2**|Parallele und Funktionale Programmierung|2|2|5|PL:  60 Minuten Klausur|*|
+||Grundlagen der Systemprogrammierung|2|2|5|PL:  90 Minuten Klausur|*|
+||Theoretische Informatik für<br>WirtschaftsinformatikundLehramt|2|2|5|PL:  90 Minuten Klausur|*|
+|**3**|Grundlagen der Technischen Informatik|4|2|7,5|Pfp:<br>PL: 120 Minuten Klausur und<br>SL: Kurztests, praktische<br>Übungen||
+||Grundlagen der Logik und<br>Logikprogrammierung|2|2|5|PL:  90 Minuten Klausur||
+||Mathematische Modellbildung und Statistik<br>für Naturwissenschaftler|3|1|5|Pfp:<br>PL: 50 Minuten Klausur und<br>SL: Rechnerklausur||
+|**4**|Rechnerkommunikation|2|2|5|Pfp:<br>PL: 90 Minuten Klausur und<br>SL: Hausaufgaben||
+||Vertiefung Informatik I||2+2²|5|³||
+||Seminar||2²|5|³||
+|**5**|Vertiefung Informatik II||2+2²|7,5|³||
+||Implementierung von Datenbanksystemen|2|2|5|PL:  90 Minuten Klausur||
+|**6**|Bachelorarbeit|||12|||
+||Begleitseminar + ReferatBachelorarbeit||2²|3|³||
+||**Summe:**||**62**|**95**|||
 
 **¹** Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
@@ -53,7 +53,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bach
 
 **Erläuterungen:** V: Vorlesung, Ü: Übung, P: Praktikum, SWS: Semesterwochenstunden, ECTS: Punkte des European Credit Transfer Systems, Pfp: Portfolioprüfung, PL: Prüfungsleistung, SL: Studienleistung, GOP: Grundlagen- und Orientierungsphase – 20 ECTS aus den mit * gekennzeichneten Modulen  „ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2013/2014 aufnehmen. 
 

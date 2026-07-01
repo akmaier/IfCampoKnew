@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.07.2010 i.d.F. 17.01.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuOPrO%20MA-InternationaleWirtschaftsinformatik-IIS-17JAN2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:39:18+00:00
-page_count_chars: 8520
+scraped_at: 2026-07-01T11:04:17+00:00
+page_count_chars: 8590
 ---
 
 # PDF vom 08.07.2010 i.d.F. 17.01.2011
@@ -44,17 +44,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten nichtkonse
 
 5. Nachweis über weitere Sprachkenntnisse, soweit vorhanden. 
 
-(3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage Nr. 5.1 MPOWIWI bewertet: 
+- (3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage Nr. 5.1 MPOWIWI bewertet: 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 55 Punkte), 
 
-1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen (max. 55 Punkte), 
-
-2. besondere fachliche Qualifikationen, Kenntnisse, Fähigkeiten (max. 10 Punkte), 
-
-3. Qualität der Arbeitsprobe (max. 20 Punkte), 
+2. besondere fachliche Qualifikationen, Kenntnisse, Fähigkeiten (max. 10 Punkte), 3. Qualität der Arbeitsprobe (max. 20 Punkte), 
 
 4. einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung (max. 15 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber zu einem Qualifikationsfeststellungsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass er/sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten versteht.[3] In dem Qualifikationsfeststellungsgespräch werden die Bewerberinnen/Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber zu einem Qualifikationsfeststellungsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass er/sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> In dem Qualifikationsfeststellungsgespräch werden die Bewerberinnen/Bewerber insbesondere auf Basis folgender Kriterien beurteilt: 
 
 1. Sichere Kenntnisse in den fachspezifischen Grundlagen, 
 
@@ -66,7 +62,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten nichtkonse
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten Semester werden interdisziplinäre Kenntnisse und Grundlagenwissen vermittelt.[2] Vorhandenes Vorwissen aus Management und Informatik wird jeweils komplementär durch Veranstaltungen des jeweils anderen Bereichs ergänzt. 3Studierende mit einem Abschluss in Wirtschaftswissenschaften erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Informatik aus dem Bereich Customized Introduction to International Information Systems.[4] Studierende mit einem technischen oder informatikbezogenen Abschluss erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Betriebswirtschaft aus dem Bereich Customized Introduction to International Information Systems. 
+(1)<sup>1</sup> Im ersten Semester werden interdisziplinäre Kenntnisse und Grundlagenwissen vermittelt.<sup>2</sup> Vorhandenes Vorwissen aus Management und Informatik wird jeweils komplementär durch Veranstaltungen des jeweils anderen Bereichs ergänzt. 3Studierende mit einem Abschluss in Wirtschaftswissenschaften erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Informatik aus dem Bereich Customized Introduction to International Information Systems.<sup>4</sup> Studierende mit einem technischen oder informatikbezogenen Abschluss erhalten im ersten Semester eine Einführung in ausgewählte Grundlagen der Betriebswirtschaft aus dem Bereich Customized Introduction to International Information Systems. 
 
 - (2) Das Masterstudium International Information Systems ist in folgende Bereiche gegliedert: 
 
@@ -110,7 +106,7 @@ Master Thesis (30 ECTS-Punkte )
 
 - (3) Die Lehrveranstaltungen finden in englischer und deutscher Sprache statt. 
 
-(4)[1] Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im Ausland verbringen.[2] Hierfür kommt ein Studiensemester an einer ausländischen Hochschule, die Masterarbeit an einer ausländischen Hochschule oder die Ausarbeitung der Masterarbeit bei einem Unternehmen im Ausland in Betracht. 
+(4)<sup>1</sup> Im Verlauf des Studiums müssen die Studierenden mindestens ein Semester im Ausland verbringen.<sup>2</sup> Hierfür kommt ein Studiensemester an einer ausländischen Hochschule, die Masterarbeit an einer ausländischen Hochschule oder die Ausarbeitung der Masterarbeit bei einem Unternehmen im Ausland in Betracht. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -120,29 +116,29 @@ Master Thesis (30 ECTS-Punkte )
 
 ## **Anlage: Übersichtstabelle Studienverlauf** 
 
-|||||**Sem. 1**|**Sem. 2**|**Sem. 3**|**Sem. 4**|
-|---|---|---|---|---|---|---|---|
-|**Modules**|||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|
-|**Customized Introduction to International Information Systems**||||||||
-|Management I und Management II|**oder**|BWL + WI|20|20||||
-|Informatics I und Informatics II||INF|20|||||
-|**Foreign Language Skills**||||||||
-|Foreign Language Skills||NN|5|5||||
-|**International Information Systems Management(IISM)**||||||||
-|IISM 1: ManagingIT‐enabled Business||WI|5|2,5|2,5|||
-|IISM 2: ManagingIT‐enabled Organizations||WI|5|2,5|2,5|||
-|IISM 3: ManagingEnterprise‐wide IT Architectures||WI|5||5|||
-|IISM 4: ManagingGlobal Projects & Information Technology||WI|5|||5||
-|IISM 5: IT‐enabled Innovation & Value Creation||WI|5|||5||
-|IISM 6: IT‐enabled Processes & Services||WI|5|||5||
-|**Informatics**||||||||
-|Database Systems1||INF|15||10|5||
-|Software Engineering2||INF|15||10|5||
-|**Seminars**||||||||
-|Seminars||WI+I|5|||5||
-|**Masterarbeit**||||||||
-|Master Thesis||WI+I|30||||30|
-|||||30|30|30|30|
+||||**Sem. 1**|**Sem. 2**|**Sem. 3**|**Sem. 4**|
+|---|---|---|---|---|---|---|
+|**Modules**||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|
+|**Customized Introduction to International Information System**|**s**||||||
+|Management I und Management II**oder**|BWL + WI|20|20||||
+|Informatics I und Informatics II|INF|20|||||
+|**Foreign Language Skills**|||||||
+|Foreign Language Skills|NN|5|5||||
+|**International Information Systems Management(IISM)**|||||||
+|IISM 1: ManagingIT‐enabled Business|WI|5|2,5|2,5|||
+|IISM 2: ManagingIT‐enabled Organizations|WI|5|2,5|2,5|||
+|IISM 3: ManagingEnterprise‐wide IT Architectures|WI|5||5|||
+|IISM 4: ManagingGlobal Projects & Information Technology|WI|5|||5||
+|IISM 5: IT‐enabled Innovation & Value Creation|WI|5|||5||
+|IISM 6: IT‐enabled Processes & Services|WI|5|||5||
+|**Informatics**|||||||
+|Database Systems<sup>1</sup>|INF|15||10|5||
+|Software Engineering<sup>2</sup>|INF|15||10|5||
+|**Seminars**|||||||
+|Seminars|WI+I|5|||5||
+|**Masterarbeit**|||||||
+|Master Thesis|WI+I|30||||30|
+||||30|30|30|30|
 
 1 Für den Bereich Database Systems müssen Module im Umfang von 15 ECTS aus der Vertiefung Datenbanksysteme im Nebenfach V und Vertiefung Datenbanksysteme im Nebenfach X (FPO Informatik der Technischen Fakultät Anlage 4) abgelegt werden 
 

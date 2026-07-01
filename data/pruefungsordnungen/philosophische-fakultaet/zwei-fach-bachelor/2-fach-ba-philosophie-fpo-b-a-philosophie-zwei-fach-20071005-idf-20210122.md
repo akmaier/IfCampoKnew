@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach BA Philosophie FPO B.A. Philosophie Zwei-Fach 20071005 i.d.F. 20210122.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Philosophie/konsolidierte_Fassungen/2-Fach_BA_Philosophie_FPO_B.A._Philosophie_Zwei-Fach_20071005_idF_20210122.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:33+00:00
-page_count_chars: 16189
+scraped_at: 2026-07-01T10:27:59+00:00
+page_count_chars: 15223
 ---
 
 # 2-Fach BA Philosophie FPO B.A. Philosophie Zwei-Fach 20071005 i.d.F. 20210122.pdf
@@ -16,7 +16,7 @@ page_count_chars: 16189
 
 **Hinweis** : Für Studierende, die ihr Studium vor Inkrafttreten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO B.A. Philosophie Zwei-Fach – Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO B.A. Philosophie Zwei-Fach – Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 11. Juli 2008 
 
@@ -36,9 +36,17 @@ geändert durch Satzungen vom 11. Juli 2008
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes ( **BayHSchG** ) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Schluss- und Übergangsvorschriften ............................................................................... 3 Anlage 1: Studienverlaufsplan Bachelor Philosophie als Erstfach ......................................... 4 Anlage 2: Studienverlaufsplan Bachelor Philosophie als Zweitfach ....................................... 6 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 2|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums ................................................................... 2|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3<br>|
+|§ 6 Schluss- und Übergangsvorschriften ............................................................................... 3|
+|Anlage 1: Studienverlaufsplan Bachelor Philosophie als Erstfach ......................................... 4|
+|Anlage 2: Studienverlaufsplan Bachelor Philosophie als Zweitfach ....................................... 6|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -50,7 +58,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Philosophie kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Philosophie im Zwei-Fach-Bachelorstudiengang erwerben die Studierenden grundlegende Fachkenntnisse der Philosophie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Philosophie im Zwei-Fach-Bachelorstudiengang erwerben die Studierenden grundlegende Fachkenntnisse der Philosophie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 (3) Im Studium der Philosophie im Zwei-Fach-Bachelorstudiengang wird eine fundierte fachwissenschaftliche Ausbildung gewährleistet und insbesondere die analytische und argumentative Kompetenz zur Bearbeitung und Lösung philosophischer und allgemeinwissenschaftlicher Probleme sowie die Fähigkeit zur kritischen Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft vermittelt. 
 
@@ -66,81 +74,77 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 4 der **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
 (1) Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach den **Anlagen 1** und **2** . 
 
-(2)[1] Falls Philosophie als Erstfach gewählt wird, sind bezogen auf das gesamte ZweiFach-Bachelorstudium für Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten nachzuweisen.[2] Für diesen Bereich werden Module zum Erwerb oder zur Vertiefung von Griechisch- oder Latein-Kenntnissen empfohlen oder Module, die von der Medizin bzw. den Natur- und Technikwissenschaften als Schlüsselqualifikation angeboten werden. 
+(2)<sup>1</sup> Falls Philosophie als Erstfach gewählt wird, sind bezogen auf das gesamte ZweiFach-Bachelorstudium für Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten nachzuweisen.<sup>2</sup> Für diesen Bereich werden Module zum Erwerb oder zur Vertiefung von Griechisch- oder Latein-Kenntnissen empfohlen oder Module, die von der Medizin bzw. den Natur- und Technikwissenschaften als Schlüsselqualifikation angeboten werden. 
 
 2 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
-1Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie bis zum Ende des zweiten Fachsemesters mindestens 20 ECTS-Punkte erfolgreich abgelegt werden.[2] Davon müssen 5 ECTS-Punkte aus dem Modul „Logische Propädeutik“ stammen. 
+1Für die Grundlagen- und Orientierungsprüfung müssen im Fach Philosophie bis zum Ende des zweiten Fachsemesters mindestens 20 ECTS-Punkte erfolgreich abgelegt werden.<sup>2</sup> Davon müssen 5 ECTS-Punkte aus dem Modul „Logische Propädeutik“ stammen. 
 
 ## **§ 6 Schluss- und Übergangsvorschriften** 
 
-## (1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+(1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die neunte Änderungssatzung tritt am 1. April 2021 in Kraft.[2] Sie gilt für alle Studierenden, die sich bezogen auf die Prüfung der geänderten Module noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+(2)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. April 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die sich bezogen auf die Prüfung der geänderten Module noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 3 
 
-**Anlage 1: Studienverlaufsplan Bachelor Philosophie als Erstfach** 
+## **<u>Anlage 1: Studienverlaufsplan Bachelor Philosophie als Erstfach</u>** 
 
-|Modulbezeichnung|Lehrveranstaltun|||||ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||g|V|Ü|P|S||1.|2.|3.|4.|5.|6.|der Prüfung||
-|**Philosophie als Erstfach**|||||||||||||||
-|Propädeutik|||||||||||||||
-|Einführungin die Philosophie|Propädeutik||||2|5|5||||||mündliche Prüfung (ca. 15 Min.)|0|
-|Logische Propädeutik|Logische Propädeutik||||2|5|5||||||Klausur(90 Min.)|1|
-|Basismodule|||||||||||||||
-|Grundkurs<br>Praktische Philosophie|Grundkurs||||2|5|5||||||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
-|Grundkurs<br>Theoretische Philosophie|Grundkurs||||2|5||5|||||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
-|Basismodul<br>Philosophie|Historisch-systematische<br>Einführung (Proseminar)||||2|10||4|||||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)2|0|
-||Textseminar (Mittelseminar)||||2|||6|||||||
-|Basismodul<br>Praktische Philosophie|Historisch-systematische<br>Einführung (Proseminar)||||2|10|||4||||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)2|1|
-||Textseminar (Mittelseminar)||||2||||6||||||
-|Basismodul<br>Theoretische Philosophie|Historische-systematische<br>Einführung (Proseminar)||||2|10||||4|||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)2|1|
-||Textseminar (Mittelseminar)||||2|||||6|||||
-|Philosophiegeschichte3|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Philosophie systematisch4|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Vertiefungsmodule|||||||||||||||
-|Vertiefungsmodul<br>Praktische Philosophie|Lektüreseminar<br>(Hauptseminar)||||2|1|||||2||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 15 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3Essays (je ca.5 S.)2|1|
-||Textseminar<br>(Hauptseminar)|||||0|||||||||
-||||||2||||||8||||
-|Vertiefungsmodul<br>Theoretische Philosophie|Lektüreseminar<br>(Hauptseminar)||||2|10|||||2||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 15 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3Essays (je ca.5 S.)2|1|
-||Textseminar<br>(Hauptseminar)||||2||||||8||||
-||Summe:|8|||28|80|15|15|15|15|20|0|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|ECTS|Workload-|Verteilu<br>ECTS-P|ng pro Semester in<br>unkten<sup>1</sup><br>Art und Umfang<br>d Püf|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.|er rung<br>4.<br>5.<br>6.|note|
+|**Philosophie als Erstfach**||||||||
+|Propädeutik||||||||
+|Einführungin die Philosophie|Propädeutik|2|5|5||mündliche Prüfung (ca. 15 Min.)|0|
+|Logische Propädeutik|Logische Propädeutik|2|5|5||Klausur(90 Min.)|1|
+|Basismodule||||||||
+|Grundkurs<br>Praktische Philosophie|Grundkurs|2|5|5||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
+|Grundkurs<br>Theoretische Philosophie|Grundkurs|2|5|5||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
+|Basismodul|Historisch-systematische<br>Einführung (Proseminar)|2|10|4||<br>Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|0|
+|Philosophie|Textseminar (Mittelseminar)|2||6||Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)<sup>2</sup>||
+|Basismodul|Historisch-systematische<br>Einführung (Proseminar)|2|10||4|<br>Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|1|
+|Praktische Philosophie|Textseminar (Mittelseminar)|2|||6|Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)<sup>2</sup>||
+|Basismodul|Historische-systematische<br>Einführung (Proseminar)|2|10|||<br>4<br>Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|1|
+|Theoretische Philosophie|Textseminar (Mittelseminar)|2||||Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)<sup>2</sup><br>6||
+|Philosohieeschichte<sup>3</sup>|Vorlesung|2|5||2,5|mündliche Prüfun (ca 15 Min)|0|
+|pg|Vorlesung|2||||g .  .<br>2,5||
+|Philosohie sstematisch<sup>4</sup>|Vorlesung|2|5||2,5|mündliche Prüfun (ca 15 Min)|0|
+|p y|Vorlesung|2||||g .  .<br>25||
+|Vertiefungsmodule||||||,||
+||Lektüreseminar|||||<br>Präsentation (ca. 20 Min.)||
+|Vertiefungsmodul|(Hauptseminar)|2||||2<br> <br>mit Hausarbeit (ca. 15 S.) oder||
+|<br>Praktische Philosophie|<br>Textseminar<br>(Hauptseminar)|2|10|||<br>Präsentation (ca. 20 Min.)<br>und 3Essays (je ca.5 S.)<sup>2</sup><br>8|1|
+|Vertiefungsmodul|<br>Lektüreseminar<br>(Hauptseminar)|2||||2<br>Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 15 S.) oder||
+|<br>Theoretische Philosophie|Textseminar<br>(Hauptseminar)|2|10|||<br>Präsentation (ca. 20 Min.)<br>und 3Essays (je ca.5 S.)<sup>2</sup><br>8|1|
+||Summe:|8<br>28|80|15<br>15|15|15<br>20<br>0||
 
 4 
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|V<br>Ü<br>P<br>S||||ECTS|1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-|**Zweitfach (Kombinationsmöglichkeitengemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||
-|Module des Zweitfachs|vgl. FPO des Zweitfachs|||||70|0-15|0-15|0-15|0-15|0-10|0-20|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|vgl.§4 Abs. 25|||||20|0-15|0-15|0-15|0-15|0-10|0-20|5|0|
-|**Bachelorarbeit im Erstfach (Philosophie)**|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit(ca. 40 S.)|2|
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>|ECTS|Wo|rkload-|Verteilu<br>ECTS-P|ng pro Semeste<br>unkten<sup>1</sup>|r in|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|**Zweitfach (Kombinationsmög **<br>|V<br>Ü<br>P<br>S<br>**lichkeitengemäß Anlage 3 ABMStPO/Phil)**<br>||1.<br>|2.<br>|3.<br>|4.<br>5.<br> <br>|6.<br>|<br>|note<br>|
+|Module des Zweitfachs|vgl. FPO des Zweitfachs|70|0-15|0-15|0-15|0-15<br>0-10|0-20|vgl. FPO des Zweitf|achs|
+|**Schlüsselqualifikationen**<br>||||||<br>||||
+|Schlüsselqualifikationsmodule|vgl.§4 Abs. 2<sup>5</sup>|20|0-15|0-15|0-15|0-15<br>0-10|0-20|5|0|
+|**Bachelorarbeit im Erstfach (P**|**hilosophie)**|||||||||
+|Bachelorarbeit||10|||||10|Bachelorarbeit(ca. 40 S.)|2|
+||Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium|180|30|30|30|30<br>30|30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
-- 2 
+- 2 Die konkrete Prüfungsform wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt und ist abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist im Modulhandbuch geregelt. 
 
 - 3 
 
 - 4 
-
-   - Die konkrete Prüfungsform wird abhängig vom didaktischen Konzept der konkreten Lehrveranstaltung von der bzw. dem Lehrenden festgelegt und ist abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierende bzw. den Studierenden; Näheres ist im Modulhandbuch geregelt. 
 
    - Es sind zwei Vorlesungen aus unterschiedlichen Epochen der Philosophiegeschichte zu wählen. 
 
@@ -150,48 +154,47 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 5 
 
-**Anlage 2: Studienverlaufsplan Bachelor Philosophie als Zweitfach** 
+**<u>Anlage 2: Studienverlaufsplan Bachelor Philosophie als Zweitfach</u>** 
 
-|Modulbezeichnung||SWS|SWS|SWS|||Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|V<br>Ü||P|S|ECTS|1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 ABMStPO/Phil)**|||||||||||||||
-|Module des Erstfachs2|vgl. FPO des Erstfachs|||||70-90|0-15|0-15|0-15|0-15|0-20|0-20|vgl. FPO des Erstfachs||
-|**Philosophie als Zweitfach**|||||||||||||||
-|Propädeutik|||||||||||||||
-|Einführungin die Philosophie|Propädeutik||||2|5|5||||||mündliche Prüfung (ca. 15 Min.)|0|
-|Logische Propädeutik|Logische Propädeutik||||2|5|5||||||Klausur(90 Min.)|1|
-|Basismodule|||||||||||||||
-|Grundkurs<br>Praktische Philosophie|Grundkurs||||2|5|5||||||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
-|Grundkurs<br>Theoretische Philosophie|Grundkurs||||2|5||5|||||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
-|Basismodul<br>Philosophie|Historisch-systematische<br>Einführung (Proseminar)||||2|10||4|||||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3Essays (je ca. 4S.)3|0|
-||Textseminar (Mittelseminar)||||2|||6|||||||
-|Basismodul<br>Praktische Philosophie|Historisch-systematische<br>Einführung (Proseminar)||||2|10|||4||||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)3|1|
-||Textseminar (Mittelseminar)||||2||||6||||||
-|Basismodul<br>Theoretische Philosophie|Historische-systematische<br>Einführung (Proseminar)||||2|10||||4|||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)3|1|
-||Textseminar (Mittelseminar)||||2|||||6|||||
-|Philosophiegeschichte4|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Philosophie systematisch5|Vorlesung|2||||5|||2,5||||mündliche Prüfung (ca. 15 Min.)|0|
-||Vorlesung|2||||||||2,5|||||
-|Vertiefungsmodule6|||||||||||||||
-|Vertiefungsmodul<br>Praktische Philosophie|Lektüreseminar<br>(Hauptseminar)||||2|1|||||2||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 15 S.) oder<br>Präsentation (ca. 20 Min.)<br>und 3 Essays(je ca. 5 S.)3|1|
-||Textseminar<br>(Hauptseminar)|||||0|||||||||
-||||||2||||||8||||
-|Vertiefungsmodul<br>TheoretischePhilosophie|Lektüreseminar<br>(Hauptseminar)||||2|10|||||2||Präsentation (ca. 20 Min.)<br>mitHausarbeit (ca. 15 S.) oder|1|
+|||SWS||Wo|rkload-Verteilun<br>|g pro Semest<br>|er in<br>Art nd Umfn|Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|<br>||ECTS|ECTS-P|unkten<sup>1</sup>|u ag<br>d Püf|Modul-|
+||V|Ü<br>P|S|1.|2.<br>3.|4.<br>5.|er rung<br>6.|note|
+|**Erstfach (Kombinationsmögli**|**chkeiten gemäß Anlage 3 ABMStPO/P**|**hil)**|||||||
+|Module des Erstfachs<sup>2</sup>|vgl. FPO des Erstfach|s||70-90<br>0-15|0-15<br>0-15|0-15<br>0-20|0-20<br>vgl. FPO des Erstfachs||
+|**Philosophie als Zweitfach**|||||||||
+|Propädeutik|||||||||
+|Einführungin die Philosophie|Propädeutik||2|5<br>5|||mündliche Prüfung (ca. 15 Min.)|0|
+|Logische Propädeutik|Logische Propädeutik||2|5<br>5|||Klausur(90 Min.)|1|
+|Basismodule|||||||||
+|Grundkurs<br>Praktische Philosophie|Grundkurs||2|5<br>5|||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
+|Grundkurs<br>Theoretische Philosophie|Grundkurs||2|5|5||Kurze mündliche Präsentation<br>und Essay (ca. 5 Min. und 5 S.)<br>sowie Übungsaufgaben|0|
+|Basismodul|Historisch-systematische<br>Einführung (Proseminar)||2|10|4||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|0|
+|Philosophie|Textseminar (Mittelseminar)||2||6||Präsentation (ca. 20 Min.)<br>und 3Essays (je ca. 4S.)<sup>3</sup>||
+|Basismodul|Historisch-systematische<br>Einführung (Proseminar)||2|10|4||Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|1|
+|Praktische Philosophie|Textseminar (Mittelseminar)||2||6||Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)<sup>3</sup>||
+|Basismodul|Historische-systematische<br>Einführung (Proseminar)||2|10||4|Präsentation (ca. 20 Min.)<br>mit Hausarbeit (ca. 12 S.) oder|1|
+|Theoretische Philosophie|Textseminar (Mittelseminar)||2|||6|Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 4 S.)<sup>3</sup>||
+|Philosohieeschichte<sup>4</sup>|Vorlesung<br>2|||5|2,5||mündliche Prüfun (ca 15 Min)|0|
+|pg|Vorlesung<br>2|||||2,5|g .  .||
+|Philhi ttih<sup>5</sup>|Vorlesung<br>2|||5|2,5||üdlih Püf  15 Mi|0|
+|osope sysemasc|Vorlesung<br>2|||||2,5|mnce rung (ca.  n.)||
+|Vertiefungsmodule<sup>6</sup>|||||||||
+||Lektüreseminar||||||Präsentation (ca 20 Min)||
+|Vertiefungsmodul|<br>(Hauptseminar)||2|10||2|.  .<br>mit Hausarbeit (ca. 15 S.) oder|1|
+|Praktische Philosophie|Textseminar<br>(Hauptseminar)||2|||8|Präsentation (ca. 20 Min.)<br>und 3 Essays(je ca. 5 S.)<sup>3</sup>||
+|Vertiefungsmodul<br>TheoretischePhilosophie|Lektüreseminar<br>(Hauptseminar)||2|10||2|Präsentation (ca. 20 Min.)<br>mitHausarbeit (ca. 15 S.) oder|1|
 
-6 
-
-|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Workload-Verteilung pro Semester in<br>ECTS-Punkten1|Art und Umfang|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|V<br>Ü<br>P<br>S||||ECTS|1.|2.|3.|4.|5.|6.|<br>der Prüfung||
-||Textseminar<br>(Hauptseminar)||||2||||||8||Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 5 S.)3||
-||Summe:|8|||28|70|15|15|15|15|10|0|||
-|**Schlüsselqualifikationen**|||||||||||||||
-|Schlüsselqualifikationsmodule|7|||||10-30|0-15|0-15|0-15|0-15|0-20|0-20|7|0|
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl. FPO des Erstfachs|||||10||||||10|vgl. FPO des Erstfachs||
-||Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium|||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|ECTS|Wor|kload-Verteilun<br>ECTS-P|g pro Semest<br>unkten<sup>1</sup>|er in<br>Art und Umfang<br>der Prüfun|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.|2.<br>3.|4.<br>5.|g<br>6.|note|
+||Textseminar<br>(Hauptseminar)|2||||8|Präsentation (ca. 20 Min.)<br>und 3 Essays (je ca. 5 S.)<sup>3</sup>||
+||Summe:|8<br>28|70|15|15<br>15|15<br>10|0||
+|**Schlüsselqualifikationen**<br>|||||<br>|<br>|<br>||
+|Schlüsselqualifikationsmodule|7||10-30|0-15|0-15<br>0-15|0-15<br>0-20|0-20<br>7|0|
+|**Bachelorarbeit im Erstfach**|||||||||
+|Bachelorarbeit|vgl. FPO des Er|stfachs|10||||10<br>vgl. FPO des Erstfach|s|
+||Summe ECTS-Punkte im Zwei-|Fach-Bachelorstudium|180|30|30<br>30|30<br>30|30||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

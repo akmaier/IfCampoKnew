@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.07.2015 i.d.F. 05.08.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/FPO_Bio+ZellMolekBio_Neu_Aug2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/
-scraped_at: 2026-05-01T07:30:31+00:00
-page_count_chars: 28888
+scraped_at: 2026-07-01T08:54:23+00:00
+page_count_chars: 28310
 ---
 
 # PDF vom 22.07.2015 i.d.F. 05.08.2016
@@ -14,59 +14,78 @@ page_count_chars: 28888
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOBio - Vom 22. Juli 2015** 
+# **Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOBio - Vom 22. Juli 2015** 
 
 Geändert durch Satzung vom 5. August 2016 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Prüfungsordnung: 
 
-## **Inhalt** 
+### **Inhalt** 
 
-I. Teil: Allgemeine Bestimmungen ........................................................................................................... 2 § 37 Geltungsbereich............................................................................................................................... 2 § 38 Bachelorstudiengang, Regelstudienzeit .......................................................................................... 2 § 39 Masterstudiengang, Regelstudienzeit, Unterrichtssprache ............................................................ 2 § 40 Zusammensetzung des Prüfungsausschusses……………………………………………………………………………..2 II. Teil: Besondere Bestimmungen........................................................................................................... 3 1. Bachelorprüfung .................................................................................................................................. 3 § 41 Gliederung des Bachelorstudiums ................................................................................................... 3 § 42 Grundlagen- und Orientierungsprüfung .......................................................................................... 3 § 43 Bachelorprüfung .............................................................................................................................. 3 § 44 Bachelorarbeit ................................................................................................................................. 4 2. Masterprüfung .................................................................................................................................... 4 § 45 Zusammensetzung der Zugangskommission zum Masterstudium……………………………………………….4 § 46 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen .............................. 5 § 47 Studienrichtung des Masterstudiums, Umfang und Gliederung ..................................................... 5 § 48 Prüfungen des Masterstudiums ...................................................................................................... 6 § 49 Masterarbeit .................................................................................................................................... 6 III. Schlussbestimmungen……………………………………………………………………………………………………………………6 § 50 Inkrafttreten .................................................................................................................................... 6 
+|I. Teil: Allgemeine Bestimmungen ........................................................................................................... 2|
+|---|
+|§ 37 Geltungsbereich............................................................................................................................... 2|
+|§ 38 Bachelorstudiengang, Regelstudienzeit .......................................................................................... 2|
+|§ 39 Masterstudiengang, Regelstudienzeit, Unterrichtssprache ............................................................ 2|
+|§ 40 Zusammensetzung des Prüfungsausschusses……………………………………………………………………………..2|
+|II. Teil: Besondere Bestimmungen........................................................................................................... 3|
+|1. Bachelorprüfung .................................................................................................................................. 3|
+|§ 41 Gliederung des Bachelorstudiums ................................................................................................... 3|
+|§ 42 Grundlagen- und Orientierungsprüfung .......................................................................................... 3|
+|§ 43 Bachelorprüfung .............................................................................................................................. 3|
+|§ 44 Bachelorarbeit ................................................................................................................................. 4|
+|2. Masterprüfung .................................................................................................................................... 4|
+|§ 45 Zusammensetzung der Zugangskommission zum Masterstudium……………………………………………….4|
+|§ 46 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen .............................. 5|
+|§ 47 Studienrichtung des Masterstudiums, Umfang und Gliederung ..................................................... 5|
+|§ 48 Prüfungen des Masterstudiums ...................................................................................................... 6|
+|§ 49 Masterarbeit .................................................................................................................................... 6|
+|III. Schlussbestimmungen……………………………………………………………………………………………………………………6|
+|§ 50 Inkrafttreten .................................................................................................................................... 6|
 
 1 
 
 Anlage 1a……………………………………………………………………………………………………………………………………………7 Anlage 1b……………………………………………………………………………………………………………………………………………9 Anlage 2a………………………………………………………………………………………………………………………………………….12 Anlage 2b……………………………………………………………………………………………………………………………..…...…….13 
 
-## **I. Teil: Allgemeine Bestimmungen** 
+### **I. Teil: Allgemeine Bestimmungen** 
 
-## **§ 37 Geltungsbereich** 
+### **§ 37 Geltungsbereich** 
 
 Die Fachprüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und den konsekutiven Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) ergänzt die Allgemeine Prüfungsordnung für den Bachelorstudiengang Biologie (B.Sc. Biologie) und Masterstudiengang Zell- und Molekularbiologie (M.Sc. ZMB) sowie für den Bachelorstudiengang Integrated Life Sciences – Biologie, Biomathematik, Biophysik (B.Sc. ILS) und Masterstudiengang Integrated Life Sciences – Biology, Biomathematics and Biophysics (M.Sc. ILS) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (ABMPOBio/NatFak) in der jeweils geltenden Fassung. 
 
-## **§ 38 Bachelorstudiengang, Regelstudienzeit** 
+### **§ 38 Bachelorstudiengang, Regelstudienzeit** 
 
-1Das Bachelorstudium der Biologie setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester zusammen.[2] Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
+1Das Bachelorstudium der Biologie setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester zusammen.<sup>2</sup> Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
 
-## **§ 39 Masterstudiengang, Regelstudienzeit, Unterrichtssprache** 
+### **§ 39 Masterstudiengang, Regelstudienzeit, Unterrichtssprache** 
 
-(1)[1] Das Masterstudium Zell- und Molekularbiologie baut konsekutiv auf dem Bachelorstudiengang Biologie auf.[2] Es umfasst Module im Umfang von 120 ECTSPunkten einschließlich der Masterarbeit verteilt auf vier Semester. 
+(1)<sup>1</sup> Das Masterstudium Zell- und Molekularbiologie baut konsekutiv auf dem Bachelorstudiengang Biologie auf.<sup>2</sup> Es umfasst Module im Umfang von 120 ECTSPunkten einschließlich der Masterarbeit verteilt auf vier Semester. 
 
-(2)[1] Die Unterrichts- und Prüfungssprache ist deutsch.[2] Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.[3] Näheres regelt das Modulhandbuch. 
+(2)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist deutsch.<sup>2</sup> Einzelne Module können in englischer Sprache abgehalten und abgeprüft werden.<sup>3</sup> Näheres regelt das Modulhandbuch. 
 
-## **§ 40 Zusammensetzung des Prüfungsausschusses** 
+### **§ 40 Zusammensetzung des Prüfungsausschusses** 
 
-1Der Prüfungsausschuss für den Bachelorstudiengang Biologie und den Masterstudiengang Zell- und Molekularbiologie besteht aus fünf Mitgliedern.[2] Die bzw. der Vorsitzende, die Stellvertreterin bzw. der Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses sind Professorinnen bzw. Professoren der Naturwissenschaftlichen Fakultät, die auf Vorschlag des Departments Biologie vom Fakultätsrat bestellt werden. 
+1Der Prüfungsausschuss für den Bachelorstudiengang Biologie und den Masterstudiengang Zell- und Molekularbiologie besteht aus fünf Mitgliedern.<sup>2</sup> Die bzw. der Vorsitzende, die Stellvertreterin bzw. der Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses sind Professorinnen bzw. Professoren der Naturwissenschaftlichen Fakultät, die auf Vorschlag des Departments Biologie vom Fakultätsrat bestellt werden. 
 
 2 
 
-## **II. Teil: Besondere Bestimmungen** 
+### **II. Teil: Besondere Bestimmungen** 
 
-## **1. Bachelorprüfung** 
+### **1. Bachelorprüfung** 
 
-## **§ 41 Gliederung des Bachelorstudiums** 
+### **§ 41 Gliederung des Bachelorstudiums** 
 
-1Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.[2] Die Prüfungsmodalitäten für die Fachmodule nach § 43 Abs. 2 sind abhängig vom jeweils gewählten Modul und werden im Modulhandbuch öffentlich bekannt gemacht. 
+1Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.<sup>2</sup> Die Prüfungsmodalitäten für die Fachmodule nach § 43 Abs. 2 sind abhängig vom jeweils gewählten Modul und werden im Modulhandbuch öffentlich bekannt gemacht. 
 
-## **§ 42 Grundlagen- und Orientierungsprüfung** 
+### **§ 42 Grundlagen- und Orientierungsprüfung** 
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 17,5 ECTS-Punkte aus den Modulen Biologie I und Ökologische und Systematische Diversität der Organismen A gemäß **Anlage 1** erworben werden. 
 
-## **§ 43 Bachelorprüfung** 
+### **§ 43 Bachelorprüfung** 
 
-(1)[1] Die Bachelorprüfung umfasst die Prüfungen in den Pflicht-, Wahlpflicht- und Fachmodulen einschließlich des Moduls Bachelorarbeit gemäß **Anlagen 1a** und **1b** . 2Die Fachmodule A und B bestehen aus zwei separaten Modulen (Teile 1 und 2) im Umfang von 10 bzw. 5 ECTS-Punkten, welche stets in Kombination miteinander belegt werden müssen.[3] In den Fachmodulen C und D ist jeweils nur Teil 2 zu belegen. 4Auch die Wahlpflichtmodule sind stets in Kombination miteinander zu belegen.5Das Modul Bachelorarbeit besteht aus einer Bachelorarbeit, die mit zwölf ECTS-Punkten veranschlagt ist, sowie einem Seminarvortrag über die Bachelorarbeit mit drei ECTSPunkten. 
+(1)<sup>1</sup> Die Bachelorprüfung umfasst die Prüfungen in den Pflicht-, Wahlpflicht- und Fachmodulen einschließlich des Moduls Bachelorarbeit gemäß **Anlagen 1a** und **1b** . 2Die Fachmodule A und B bestehen aus zwei separaten Modulen (Teile 1 und 2) im Umfang von 10 bzw. 5 ECTS-Punkten, welche stets in Kombination miteinander belegt werden müssen.<sup>3</sup> In den Fachmodulen C und D ist jeweils nur Teil 2 zu belegen. 4Auch die Wahlpflichtmodule sind stets in Kombination miteinander zu belegen.5Das Modul Bachelorarbeit besteht aus einer Bachelorarbeit, die mit zwölf ECTS-Punkten veranschlagt ist, sowie einem Seminarvortrag über die Bachelorarbeit mit drei ECTSPunkten. 
 
-(2)[1] Als Fachmodule im Sinne des Abs. 1 sind entweder vier biologische Fachmodule oder drei biologische Fachmodule in Kombination mit einem nichtbiologischen Fachmodul wählbar. 
+(2)<sup>1</sup> Als Fachmodule im Sinne des Abs. 1 sind entweder vier biologische Fachmodule oder drei biologische Fachmodule in Kombination mit einem nichtbiologischen Fachmodul wählbar. 
 
 2Als biologische Fachmodule sind wählbar: 
 
@@ -98,33 +117,33 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen mindestens 17,5 E
 
 4. Virologie. 
 
-(3)[1] Über Abweichungen und über die Zulassung anderer Fachmodule entscheidet der Prüfungsausschuss.[2] Ein Fachmodul kann nur dann zugelassen werden, wenn es eine mit dem Ziel der Ausbildung und der Prüfung zu vereinbarende sinnvolle Kombination ergibt, wenn das betroffene Fach von einer Professorin bzw. einem Pro- 
+(3)<sup>1</sup> Über Abweichungen und über die Zulassung anderer Fachmodule entscheidet der Prüfungsausschuss.<sup>2</sup> Ein Fachmodul kann nur dann zugelassen werden, wenn es eine mit dem Ziel der Ausbildung und der Prüfung zu vereinbarende sinnvolle Kombination ergibt, wenn das betroffene Fach von einer Professorin bzw. einem Pro- 
 
 3 
 
 fessor vertreten wird sowie die zuständige Fakultät mit der vorhandenen Ausstattung ein ordnungsgemäßes Studium sicherstellen kann. 
 
-## **§ 44 Bachelorarbeit** 
+### **§ 44 Bachelorarbeit** 
 
 (1) Voraussetzung für den Erhalt eines Themas für die Bachelorarbeit ist der Erwerb von mindestens 100 ECTS-Punkten. 
 
-(2)[1] Die Bachelorarbeit soll nachweisen, dass die Studierenden im Stande sind, innerhalb einer vorgegebenen Frist ein Problem aus dem Fachgebiet der Biologie selbstständig nach wissenschaftlichen Methoden zu bearbeiten und die Ergebnisse sachgerecht darzustellen.[2] Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie innerhalb von 12 Wochen abgeschlossen werden kann, wobei für die schriftliche Abfassung i.d.R. 6 Wochen vorgesehen sind. 
+(2)<sup>1</sup> Die Bachelorarbeit soll nachweisen, dass die Studierenden im Stande sind, innerhalb einer vorgegebenen Frist ein Problem aus dem Fachgebiet der Biologie selbstständig nach wissenschaftlichen Methoden zu bearbeiten und die Ergebnisse sachgerecht darzustellen.<sup>2</sup> Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie innerhalb von 12 Wochen abgeschlossen werden kann, wobei für die schriftliche Abfassung i.d.R. 6 Wochen vorgesehen sind. 
 
-(3)[1] In der Regel soll die Bachelorarbeit in einer Arbeitsgruppe im Department Biologie angefertigt werden.[2] Auf Antrag bei der bzw. dem Vorsitzenden des Prüfungsausschusses kann die Bachelorarbeit auch in anderen Arbeitsgruppen außerhalb des Departments Biologie angefertigt werden. 
+(3)<sup>1</sup> In der Regel soll die Bachelorarbeit in einer Arbeitsgruppe im Department Biologie angefertigt werden.<sup>2</sup> Auf Antrag bei der bzw. dem Vorsitzenden des Prüfungsausschusses kann die Bachelorarbeit auch in anderen Arbeitsgruppen außerhalb des Departments Biologie angefertigt werden. 
 
-(4)[1] Zur Vergabe des Themas der Bachelorarbeit sind die am Department Biologie hauptberuflich tätigen Hochschullehrerinnen bzw. Hochschullehrer sowie habilitierte Dozentinnen bzw. Dozenten (Betreuerinnen bzw. Betreuer) berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
+(4)<sup>1</sup> Zur Vergabe des Themas der Bachelorarbeit sind die am Department Biologie hauptberuflich tätigen Hochschullehrerinnen bzw. Hochschullehrer sowie habilitierte Dozentinnen bzw. Dozenten (Betreuerinnen bzw. Betreuer) berechtigt.<sup>2</sup> Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
 
-(5)[1] Die Bachelorarbeit wird in der Regel von der Betreuerin bzw. dem Betreuer und einer bzw. einem weiteren, von der bzw. dem Vorsitzenden des Prüfungsausschusses bestellten Prüfenden bewertet.[2] Mindestens eine Prüfende bzw. ein Prüfender muss dem Department Biologie angehören.[3] Wenn nur eine Prüfende bzw. ein Prüfender dem Department Biologie angehört, so soll diese bzw. dieser immer Erstkorrektorin bzw. Erstkorrektor sein.[4] Die bzw. der Vorsitzende des Prüfungsausschusses wirkt darauf hin, dass die Arbeit in der Regel innerhalb eines Monats begutachtet ist. 
+(5)<sup>1</sup> Die Bachelorarbeit wird in der Regel von der Betreuerin bzw. dem Betreuer und einer bzw. einem weiteren, von der bzw. dem Vorsitzenden des Prüfungsausschusses bestellten Prüfenden bewertet.<sup>2</sup> Mindestens eine Prüfende bzw. ein Prüfender muss dem Department Biologie angehören.<sup>3</sup> Wenn nur eine Prüfende bzw. ein Prüfender dem Department Biologie angehört, so soll diese bzw. dieser immer Erstkorrektorin bzw. Erstkorrektor sein.<sup>4</sup> Die bzw. der Vorsitzende des Prüfungsausschusses wirkt darauf hin, dass die Arbeit in der Regel innerhalb eines Monats begutachtet ist. 
 
-## **2. Masterprüfung** 
+### **2. Masterprüfung** 
 
-## **§ 45 Zusammensetzung der Zugangskommission zum Masterstudium** 
+### **§ 45 Zusammensetzung der Zugangskommission zum Masterstudium** 
 
-1Die Zugangskommission für den Masterstudiengang Zell- und Molekularbiologie besteht aus einer Professorin bzw. einem Professor als der bzw. dem Vorsitzenden und zwei weiteren Hochschullehrerinnen bzw. Hochschullehrern.[2] Die Mitglieder werden auf Vorschlag des Departments Biologie vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt. 
+1Die Zugangskommission für den Masterstudiengang Zell- und Molekularbiologie besteht aus einer Professorin bzw. einem Professor als der bzw. dem Vorsitzenden und zwei weiteren Hochschullehrerinnen bzw. Hochschullehrern.<sup>2</sup> Die Mitglieder werden auf Vorschlag des Departments Biologie vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt. 
 
-## **§ 46 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
+### **§ 46 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Nr. 1 **ABMPO Bio/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs in den Fächern Biologie oder Integrated Life Sciences.[2] Als fachverwandte Abschlüsse im Sinne des § 31 Abs. 1 Nr. 1 **ABMPOBio/NatFak** kommen insbesondere Bachelorabschlüsse in Biowissenschaften, Biochemie oder Molekularer Biologie in Betracht. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können nur auf 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 31 Abs. 1 Nr. 1 **ABMPO Bio/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs in den Fächern Biologie oder Integrated Life Sciences.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 31 Abs. 1 Nr. 1 **ABMPOBio/NatFak** kommen insbesondere Bachelorabschlüsse in Biowissenschaften, Biochemie oder Molekularer Biologie in Betracht. 3Bewerberinnen und Bewerber mit einem fachverwandten Abschluss können nur auf 
 
 4 
 
@@ -144,9 +163,9 @@ Grundlage einer bestandenen Zugangsprüfung in das Masterstudium aufgenommen wer
 
    - Studienverlauf (Gewichtung 5 %). 
 
-## **§ 47 Studienrichtung des Masterstudiums, Umfang und Gliederung** 
+### **§ 47 Studienrichtung des Masterstudiums, Umfang und Gliederung** 
 
-1Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Modulprüfungen einschließlich des Moduls Masterarbeit gemäß **Anlage 2b** .[2] Die Masterprüfung ist bestanden, wenn sämtliche der folgenden studienbegleitend zu erbringenden Modulprüfungen und Modulteilprüfungen sowie das Modul Masterarbeit im Umfang von insgesamt 120 ECTS-Punkten bestanden sind: 
+1Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Modulprüfungen einschließlich des Moduls Masterarbeit gemäß **Anlage 2b** .<sup>2</sup> Die Masterprüfung ist bestanden, wenn sämtliche der folgenden studienbegleitend zu erbringenden Modulprüfungen und Modulteilprüfungen sowie das Modul Masterarbeit im Umfang von insgesamt 120 ECTS-Punkten bestanden sind: 
 
 1. Die Module Kernmodul I und Kernmodul II; diese beiden Prüfungen werden für die 
 
@@ -164,37 +183,37 @@ Grundlage einer bestandenen Zugangsprüfung in das Masterstudium aufgenommen wer
 
 7. Die Masterarbeit. 
 
-## **§ 48 Prüfungen des Masterstudiums** 
+### **§ 48 Prüfungen des Masterstudiums** 
 
 Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen im Masterstudiengang sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 2** zu entnehmen. 
 
 5 
 
-## **§ 49 Masterarbeit** 
+### **§ 49 Masterarbeit** 
 
 (1) Voraussetzung für die Vergabe des Themas der Masterarbeit ist der Erwerb von mindestens 60 ECTS-Punkten. 
 
-(2)[1] Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.[2] Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem bzw. seinem Fach selbstständig und nach wissenschaftlichen Methoden zu bearbeiten.[3] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
+(2)<sup>1</sup> Die Masterarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt.<sup>2</sup> Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem bzw. seinem Fach selbstständig und nach wissenschaftlichen Methoden zu bearbeiten.<sup>3</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
 
-(3)[1] Die Masterarbeit muss einen internationalen Bezug aufweisen und kann forschungsbezogen entweder grundlagen- oder anwendungsorientiert ausgerichtet werden.[2] Sie ist in der Regel in deutscher oder englischer Sprache abzufassen; über Ausnahmen entscheidet der Prüfungsausschuss. 
+(3)<sup>1</sup> Die Masterarbeit muss einen internationalen Bezug aufweisen und kann forschungsbezogen entweder grundlagen- oder anwendungsorientiert ausgerichtet werden.<sup>2</sup> Sie ist in der Regel in deutscher oder englischer Sprache abzufassen; über Ausnahmen entscheidet der Prüfungsausschuss. 
 
 (4) Die Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
 (5) § 44 Abs. 4 gilt entsprechend. 
 
-(6)[1] Die Masterarbeit wird in der Regel von der Betreuerin bzw. dem Betreuer und einer bzw. einem weiteren, von der bzw. dem Vorsitzenden des Prüfungsausschusses bestellten Prüfenden bewertet.[2] Mindestens eine Prüfende bzw. ein Prüfender muss dem Department Biologie angehören.[3] Wenn nur eine Prüfende bzw. ein Prüfender dem Department Biologie angehört, so soll diese bzw. dieser immer Erstkorrektorin bzw. Erstkorrektor sein.[4] Die bzw. der Vorsitzende des Prüfungsausschusses wirkt darauf hin, dass die Arbeit in der Regel innerhalb eines Monats begutachtet ist. 
+(6)<sup>1</sup> Die Masterarbeit wird in der Regel von der Betreuerin bzw. dem Betreuer und einer bzw. einem weiteren, von der bzw. dem Vorsitzenden des Prüfungsausschusses bestellten Prüfenden bewertet.<sup>2</sup> Mindestens eine Prüfende bzw. ein Prüfender muss dem Department Biologie angehören.<sup>3</sup> Wenn nur eine Prüfende bzw. ein Prüfender dem Department Biologie angehört, so soll diese bzw. dieser immer Erstkorrektorin bzw. Erstkorrektor sein.<sup>4</sup> Die bzw. der Vorsitzende des Prüfungsausschusses wirkt darauf hin, dass die Arbeit in der Regel innerhalb eines Monats begutachtet ist. 
 
-## **III. Teil: Schlussbestimmungen** 
+### **III. Teil: Schlussbestimmungen** 
 
-## **§ 50 Inkrafttreten** 
+### **§ 50 Inkrafttreten** 
 
-1Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2015 / 2016 das Bachelorstudium Biologie bzw. das Masterstudium Zell- und Molekularbiologie aufnehmen.[3] Studierende, die bereits nach der bisher gültigen Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das Masterstudium der Zellund Molekularbiologie an der Universität Erlangen-Nürnberg vom 5. August 2008 in der Fassung vom 6. Oktober 2014 studieren, legen ihre Prüfungen nach der bisher gültigen Prüfungsordnung ab. 
+1Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2015 / 2016 das Bachelorstudium Biologie bzw. das Masterstudium Zell- und Molekularbiologie aufnehmen.<sup>3</sup> Studierende, die bereits nach der bisher gültigen Studien- und Prüfungsordnung für das Bachelorstudium der Biologie und das Masterstudium der Zellund Molekularbiologie an der Universität Erlangen-Nürnberg vom 5. August 2008 in der Fassung vom 6. Oktober 2014 studieren, legen ihre Prüfungen nach der bisher gültigen Prüfungsordnung ab. 
 
 6 
 
-## **Anlage 1: Bachelorstudiengang Biologie** 
+### **Anlage 1: Bachelorstudiengang Biologie** 
 
-## **1a: Curricular-Übersicht** 
+### **1a: Curricular-Übersicht** 
 
 |**Sem.**|**Biologie**|**Chemie**|**Wahlpflichtmodule**|**Mathe./**<br>**Englisch**|**ECTS**|
 |---|---|---|---|---|---|
@@ -202,8 +221,8 @@ Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen im Ma
 |**2**|**Bio II**<br>(12,5 ECTS)<br>**Ökologie und**<br>**Diversität B**<br>(5 ECTS)|**Organ. Chemie** **I**<br>(7,5 ECTS)|**Phys. Chemie 2**<br>oder<br>**Physik 2**<br>(5 ECTS)||**30**|
 |**3**|**Bio III**<br>(15 ECTS)|**Organ. Chemie** **II**<br>**(Seminar)**<br>(2,5 ECTS)|**Phys. Chemie 3**<br>oder<br>**Physik 3**<br>(5 ECTS)|**Mathem.**<br>**Modellbildung**<br>**und Statistik**<br>(5 ECTS)|**27,5**|
 |**4**|**BioIV**<br>(15 ECTS)<br>**Exp. u. theor.**<br>**Ansätze der**<br>**Biologie**<br>(5 ECTS)|**Organ. Chemie** **II**<br>**(Praktikum)**<br>(5 ECTS)||**Basismodul**<br>**Englisch**<br>(5 ECTS)|**30**|
-|**5**|**Fachmodul A: Teil 1 und 2**<br>(15 ECTS)<br>**Fachmodul B: Teil 1 und 2**<br>(15 ECTS)||||**30**|
-|**6**|**Fachmodul C + D: je Teil 2**<br>(jeweils 5 ECTS)<br>**Digitale Werkzeuge für Biologen**<br>(5 ECTS)<br>**Bachelorarbeit**<br>(15 ECTS)||||**30**|
+|**5**||**Fachmodul**<br>(1<br>**Fachmodul**<br>(1|**A: Teil 1 und 2**<br>5 ECTS)<br>**B: Teil 1 und 2**<br>5 ECTS)||**30**|
+|**6**||**Fachmodul**<br>(jewe<br>**Digitale Werkz**<br>(5<br>**Bache**<br>(1|**C + D: je Teil 2**<br>ils 5 ECTS)<br>**euge für Biologen**<br>ECTS)<br>**lorarbeit**<br>5 ECTS)||**30**|
 
 Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der **Anlage 1b** . 
 
@@ -217,119 +236,101 @@ In den Fachmodulen C und D sind jeweils nur die Seminare (Teil 2) zweier weitere
 
 7 
 
-## **1b: Modulliste** 
+### **1b: Modulliste** 
 
-||Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Semester i|n ECTS-Punkten|n ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|||||||||||||||
-||||||||1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Studienleistung||
-|||V|Ü|P|S||||||||||
-||||||||||||||||
-|**Biologie I:**<br>**Zellbiologische Grundlagen**|Grundlagen der Biochemie,<br>Zellbiologie, Genetik und<br>Entwicklungsbiologie|5||||12,5|7,5||||||SL: Klausur 90 Min. (unbenotet)<br>SL: Protokollheft ca. 50 Seiten<br>(unbenotet)|0|
-||<br>Übungen zur Zellbiologie||5||||5||||||||
-|**Biologie II:**<br>**Baupläne und Evolution**|Organisationsformen und<br>Evolution von Tieren und<br>Pflanzen|5||||12,5||7,5|||||PL: Klausur 90 Min.<br>SL: Protokollheft ca. 50 Seiten<br>(unbenotet)|1|
-||Übungen zur Morphologie<br>und Anatomie der Pflanzen<br>und Tiere||5|||||5|||||||
-|**Biologie III:**<br>**Biochemie und Physiologie**|Biochemie und Physiologie<br>der Organismen|5||||15|||7,5||||PL: Klausur 90 Min.<br>SL: Protokollheft ca. 20 Seiten|1|
-||Übungen zur Biochemie und<br>Physiologie der Organismen||||||||||||||
-||||5||||||7,5||||(unbenotet)||
-||||||||||||||||
-|**Biologie IV:**<br>**Molekularbiologie der Zelle**|Mikrobiologie, Genetik und<br>Molekularbiologie|5||||15||||6|||PL: Klausur 90 Min.<br>SL: Protokollheft ca. 20 Seiten<br>(unbenotet)|1|
-||Molekularbiologische<br>Übungen||5|||||||6|||||
-||Molekularbiologie und<br>Genomik|3||||||||3|||||
-|**Ökologie und Diversität A**|Einführung in die Zoologie|2||||5|2,5||||||PL: Klausur 45 Min.|1|
-||Zoologische Bestimmungs-<br>übungen||3||||2,5||||||||
-|**Ökologie und Diversität B**|Botanische Bestimmungs-<br>übungen||4|||5||4|||||PL: Klausur 45 Min.|1|
-||Zoologische Geländeübung||1|||||1|||||||
-|**Experimentelle und Theoreti-**<br>**sche Ansätze der Biologie**|Experimentelle und Theore-<br>tische Ansätze der Biologie|2||||5||||5|||PL: Klausur 45 Min.|1|
+|||SWS|Gt|Work|load-Ver|teilung pro|Semester|in ECTS-Punkten|At d Uf d Püf/|Fkt|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||esam<br>|||||<br>|r un mang er rung<br>|aor<br>|
+|||V<br>Ü<br>P<br>S|ECTS|1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem<br>6. Sem|Studienleistung|Modulnote|
+|**Biologie I:**<br>**Zellbioloische Grundlaen**|Grundlagen der Biochemie,<br>Zellbiologie, Genetik und<br>Entwicklungsbiologie|5|12,5|7,5|||||SL: Klausur 90 Min. (unbenotet)<br>SL: Protokollheft ca. 50 Seiten|0|
+|**g g**|Übungen zur Zellbiologie|5||5|||||(unbenotet)||
+|**Biologie II:**|Organisationsformen und<br>Evolution von Tieren und<br>Pflanzen<br>|5|125||7,5||||PL: Klausur 90 Min.<br>SL Ptkllhft  50 Sit|1|
+|**Baupläne und Evolution**|Übungen zur Morphologie<br>und Anatomie der Pflanzen<br>und Tiere|5|,||5||||: roooe ca.  een<br>(unbenotet)||
+|**Biologie III:**|Biochemie und Physiologie<br>der Organismen|5|15|||7,5|||PL: Klausur 90 Min.<br>SL Ptkllhft  20 Sit|1|
+|**Biochemie und Physiologie**|Übungen zur Biochemie und<br>Physiologie der Organismen|5||||7,5|||: roooe ca.  een<br>(unbenotet)||
+||Mikrobiologie, Genetik und<br>Molekularbiologie|5|||||6||||
+|**Biologie IV:**<br>**Molekularbiologie der Zelle**|Molekularbiologische<br>Übungen|5|15||||6||PL: Klausur 90 Min.<br>SL: Protokollheft ca. 20 Seiten<br>(unbenotet)|1|
+||Molekularbiologie und<br>Genomik|3|||||3||||
+|**Ökli d Diität A**|Einführung in die Zoologie|2|5|2,5|||||PL Kl 45 Mi|1|
+|**ooge un vers**|Zoologische Bestimmungs-<br>übungen|3||2,5|||||: ausur  n.||
+|**Ökoloie und Diversität B**|Botanische Bestimmungs-<br>übungen|4|5||4||||PL: Klausur 45 Min.|1|
+|**g**|Zoologische Geländeübung|1|||1||||||
+|**Experimentelle und Theoreti-**<br>**sche Ansätze der Biologie**|Experimentelle und Theore-<br>tische Ansätze der Biologie|2|5||||5||PL: Klausur 45 Min.|1|
 
 8 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||
-||||||||1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Studienleistung||
-|||V|Ü|P|S||||||||||
-||||||||||||||||
-|**Allgemeine und**<br>**Anorganische Chemie**<br>**mit Experimenten**|Allg: und Anorganische<br>Chemie mit Experimenten|4||||10|5||||||Portfolioprüfung:<br>PL: Klausur 90 Min.<br>SL: Anfertigung eines Laborjournals<br>ca. 50 Seiten und Führen eines<br>Analysehefts (unbenotet)|1|
-||Übung Allgemeine und<br>Anorganische Chemie||2||||2,5||||||||
-||Anorganisch-Chemisches<br>Praktikum für Nebenfach-<br>studierende|||8|||2,5||||||||
-|**Organische Chemie 1**|Grundlagen der<br>Organischen Chemie|3||||7,5||5|||||PL: Klausur 90 Min.|1|
-||Organisch-chemisches<br>Seminar||||2|||2,5|||||||
-|**Organische Chemie 2**|Organisch-chemisches<br>Seminar zum Praktikum||||2|7,5|||2,5||||PL: Klausur 60 Min.<br>SL: Protokollheft ca. 100 Seiten<br>(unbenotet)|1|
-||Organisch-chemisches<br>Praktikum||||||||||||||
-|||||7||||||5|||||
-||||||||||||||||
-|**Mathematische Modell-**<br>**bildung und Statistik für**<br>**Naturwissenschaftler**|Mathematik für<br>Naturwissenschaftler|3||||5|||3||||PL: Klausur 50 Min.<br>SL: Praxisprüfung am Rechner<br>50 Min. (unbenotet)|1|
-||Rechnerübung mit R||||||||||||||
-||||1||||||2||||||
-||||||||||||||||
-|**Basismodul Englisch**|Übung||4|||5||||5|||SL: Klausur 90 Min. (unbenotet)|0|
-|**Fachmodul A**<br>**(Teil 1)**|Übung mit Hauptseminar||10||3|10|||||10||gemäß<br>jeweiliger Modulbeschreibung 1)|1|
-|**Fachmodul B**<br>**(Teil 1)**|Übung mit Hauptseminar||10||3|10|||||10||gemäß jeweiliger<br>Modulbeschreibung 1)|1|
-|**Fachmodul A**<br>**(Teil 2)**|Vorlesung mit Seminar|1|||2|5|||||5||PL: Klausur 45 Min.|2|
-|**Fachmodul B**<br>**(Teil 2)**|Vorlesung mit Seminar|1|||2|5|||||5||PL: Klausur 45 Min.|2|
-|**Fachmodul C**<br>**(nur Teil 2)**|Vorlesung mit Seminar|1|||2|5|||||5||PL: Klausur 45 Min.|2|
-|**Fachmodul D**<br>**(nur Teil 2)**|Vorlesung mit Seminar|1|||2|5|||||5||PL: Klausur 45 Min.|2|
-|**Digitale Werkzeuge für**<br>**Biologen**|Übung||5|||5|||||5||SL: Absolvieren eines<br>Lernprogramms(unbenotet)|0|
+|Modulbezeichnung|Lehrveranstaltung||SWS|Gesamt<br>|Work|load-Vert|eilung pro Semester i|n ECTS-Punkten|Art und Umfang der Prüfung/<br>|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P<br>S|ECTS|1. Sem.|2. Sem.|3. Sem<br>4. Sem|5. Sem<br>6. Sem|Studienleistung|Modulnote|
+||Allg: und Anorganische<br>Chemie mit Experimenten|4|||5||||Portfolioprüfung:||
+|**Allgemeine und**<br>**Anorganische Chemie**<br>**i Ei**|Übung Allgemeine und<br>Anorganische Chemie||2|10|2,5||||PL: Klausur 90 Min.<br>SL: Anfertigung eines Laborjournals<br>Si  Fh i|1|
+|**mt xpermenten**|Anorganisch-Chemisches<br>Praktikum für Nebenfach-<br>studierende||8||2,5||||ca. 50 eten und üren enes<br>Analysehefts (unbenotet)||
+|**Oih Chi 1**|Grundlagen der<br>Organischen Chemie|3||75||5|||PL Kl 90 Mi|1|
+|**rgansce eme**|Organisch-chemisches<br>Seminar||2|,||2,5|||: ausur  n.||
+|**Oih Chi 2**|Organisch-chemisches<br>Seminar zum Praktikum||2|75|||2,5||PL: Klausur 60 Min.<br>|1|
+|**rgansce eme**|Organisch-chemisches<br>Praktikum||7|,|||5||SL: Protokollheft ca. 100 Seiten<br>(unbenotet)||
+|**Mathematische Modell-**<br>**bild d Sttitik fü**|Mathematik für<br>Naturwissenschaftler|3||5|||3||PL: Klausur 50 Min.<br>|1|
+|**ung un as r**<br>**Naturwissenschaftler**|Rechnerübung mit R||1||||2||SL: Praxisprüfung am Rechner<br>50 Min. (unbenotet)||
+|**Basismodul Englisch**|Übung||4|5|||5||SL: Klausur 90 Min. (unbenotet)|0|
+|**Fachmodul A**<br>**(Teil 1)**|Übung mit Hauptseminar||10<br>3|10||||10|gemäß<br>jeweiliger Modulbeschreibung <sup>1)</sup>|1|
+|**Fachmodul B**<br>**(Teil 1)**|Übung mit Hauptseminar||10<br>3|10||||10|gemäß jeweiliger<br>Modulbeschreibung <sup>1)</sup>|1|
+|**Fachmodul A**<br>**(Teil 2)**|Vorlesung mit Seminar|1|2|5||||5|PL: Klausur 45 Min.|2|
+|**Fachmodul B**<br>**(Teil 2)**|Vorlesung mit Seminar|1|2|5||||5|PL: Klausur 45 Min.|2|
+|**Fachmodul C**<br>**(nur Teil 2)**|Vorlesung mit Seminar|1|2|5||||5|PL: Klausur 45 Min.|2|
+|**Fachmodul D**<br>**(nur Teil 2)**|Vorlesung mit Seminar|1|2|5||||5|PL: Klausur 45 Min.|2|
+|**Digitale Werkzeuge für**<br>**Biologen**|Übung||5|5||||5|SL: Absolvieren eines<br>Lernprogramms(unbenotet)|0|
 
 9 
 
-|||SWS|SWS|SWS|SWS||Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten||Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|||||||Art und Umfang der Prüfung/<br>Stdilit|Modul-<br>|
-||||||||||||||||
-|||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|uenesung|note|
-|**Einführung in die Grund-**<br>**lagen der Physikalischen**<br>**Chemie I**|Physikalische Chemie I:<br>Thermodynamik|2||||5|4||||||PL: Klausur 45 Min.|1|
-||Übung zu Physik. Che-<br>mie I: Thermodynamik||1||||1||||||||
-|**Experimentalphysik 1**|Experimentalphysik für<br>Naturwissenschaftler 1|4||||5|4||||||PL : Klausur 90 Min.|1|
-||Übung zu Experimen-<br>talphysik für Naturwis-<br>senschaftler 1||1||||1||||||||
-|**Einführung in die Grund-**<br>**lagen der Physikalischen**<br>**Chemie II**|Physikalische Chemie II:<br>Kinetik und Aufbau der<br>Materie|2||||5||4|||||PL: Klausur 45 Min.|1|
-||Übung zu Physikalische<br>Chemie II: Kinetik und<br>Aufbau der Materie||1|||||1|||||||
-|**Experimentalphysik 2**|Experimentalphysik für<br>Naturwissenschaftler 2|4||||5||4|||||PL : Klausur 90 Min.|1|
-||Übung zu Experimen-<br>talphysik für Naturwis-<br>senschaftler 2||1|||||1|||||||
-|**Physikalisch-chemisches**<br>**Praktikum für Studierende**<br>**der Biologie**|Physikalisch-<br>chemisches<br>Praktikum für Biologen|||7||5|||5||||SL: Eingangskolloquium<br>30 Min. (Sicherheitsaspekte);<br>Kolloquium 80 Min. und Proto-<br>kollheft ca. 80 Seiten<br>(unbenotet)|0|
-|**Experimentalphysik 3**|Physikalisches<br>Praktikum für Biologen|||5||5|||5||||SL: mündliche Testate ca. 60<br>Min.<br>und Protokollheft ca. 60 Seiten<br>(unbenotet)|0|
-|**Bachelorarbeit**|Bachelor-Thesis mit<br>Kurzvortrag|||||15||||||15|PL: schriftliche Arbeit<br>ca. 7000 Worte<br>SL: Kurzvortrag ca. 20 Min.<br>(unbenotet)|1|
-||Summe SWS|45-49|62|20-22|18||||||||||
-|||Summe ECTS||||180|32,5|30|27,5|30|30|30|||
+|Modulbezeichnun|Lehrveranstaltun||S|WS|Gesamt|Work|load-Verte|ilung pro|Semester in|ECTS-Pu|nkten|Art und Umfang der Prüfung/|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|g|g|V|Ü|P<br>S|ECTS|1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Studienleistung|<br>note|
+|**Einführung in die Grund-**<br>**l d Phiklih**|Physikalische Chemie I:<br>Thermodynamik|2|||5|4||||||PL Kl 45 Mi|1|
+|**agen er ysascen**<br>**Chemie I**|Übung zu Physik. Che-<br>mie I: Thermodynamik||1|||1||||||: ausur  n.||
+||Experimentalphysik für<br>Naturwissenschaftler 1|4||||4||||||||
+|**Experimentalphysik 1**|Übung zu Experimen-<br>talphysik für Naturwis-<br>senschaftler 1||1||5|1||||||PL : Klausur 90 Min.|1|
+|**Einführung in die Grund-**<br>|Physikalische Chemie II:<br>Kinetik und Aufbau der<br>Materie|2|||||4|||||||
+|**lagen der Physikalischen**<br>**Chemie II**|Übung zu Physikalische<br>Chemie II: Kinetik und<br>Aufbau der Materie||1||5||1|||||PL: Klausur 45 Min.|1|
+||Experimentalphysik für<br>Naturwissenschaftler 2|4|||||4|||||||
+|**Experimentalphysik 2**|Übung zu Experimen-<br>talphysik für Naturwis-<br>senschaftler 2||1||5||1|||||PL : Klausur 90 Min.|1|
+|**Physikalisch-chemisches**<br>**Praktikum für Studierende**<br>**der Biologie**|Physikalisch-<br>chemisches<br>Praktikum für Biologen|||7|5|||5||||SL: Eingangskolloquium<br>30 Min. (Sicherheitsaspekte);<br>Kolloquium 80 Min. und Proto-<br>kollheft ca. 80 Seiten<br>(unbenotet)|0|
+|**Experimentalphysik 3**|Physikalisches<br>Praktikum für Biologen|||5|5|||5||||SL: mündliche Testate ca. 60<br>Min.<br>und Protokollheft ca. 60 Seiten<br>(unbenotet)|0|
+|**Bachelorarbeit**|Bachelor-Thesis mit<br>Kurzvortrag||||15||||||15|PL: schriftliche Arbeit<br>ca. 7000 Worte<br>SL: Kurzvortrag ca. 20 Min.|1|
+|||||||||||||<br>(unbenotet)||
+||Summe SWS|45-49<br>S|62<br>umme|20-22<br>18<br>ECTS|<br>180|32,5|30|27,5|30|30|30|||
 
 1) Art und Umfang der Fachmodulprüfung, die Einordnung der Leistungen als Prüfungs- und/oder Studienleistungen sowie deren Gewichtung zur Berechnung der Modulnote sind abhängig vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. Eine Prüfung der Fachmodule setzt sich in der Regel aus einer Klausur von 45 Min., einem Seminarvortrag von 20 Min. sowie einem Protokoll von ca. 40 Seiten über die Versuche des Übungsteils zusammen. 
 
 10 
 
-## **Anlage 2: Masterstudiengang Zell- und Molekularbiologie** 
+### **Anlage 2: Masterstudiengang Zell- und Molekularbiologie** 
 
-## **Anlage 2a: Curricularübersicht** 
+### **Anlage 2a: Curricularübersicht** 
 
-**==> picture [501 x 232] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Master of Science<br>Sem.  ECTS<br>Zell- und Molekularbiologie<br>Kernmodul-<br>Mastermodul  Mastermodul<br>1  vorlesung 1  UNIcert III  30<br>(7,5 ECTS) (7,5 ECTS)<br>(7,5 ECTS) oder<br>Kernmodul-  Ext. Praktikum<br>Mastermodul  Mastermodul<br>2  vorlesung 2  (15 ECTS) 30<br>(7,5 ECTS) (7,5 ECTS)<br>(7,5 ECTS)<br>Scientific<br>Vertiefungsmodul  Wahlmodul<br>3  Presentations  30<br>(20 ECTS) (5 ECTS)<br>(5 ECTS)<br>Masterarbeit<br>4  30<br>(30 ECTS)<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Master of Science<br>Sem.  ECTS<br>Zell- und Molekularbiologie<br>Kernmodul-<br>Mastermodul  Mastermodul<br>1  vorlesung 1  UNIcert III  30<br>(7,5 ECTS) (7,5 ECTS)<br>(7,5 ECTS) oder<br>Kernmodul-  Ext. Praktikum<br>Mastermodul  Mastermodul<br>2  vorlesung 2  (15 ECTS) 30<br>(7,5 ECTS) (7,5 ECTS)<br>(7,5 ECTS)<br>Scientific<br>Vertiefungsmodul  Wahlmodul<br>3  Presentations  30<br>(20 ECTS) (5 ECTS)<br>(5 ECTS)<br>Masterarbeit<br>4  30<br>(30 ECTS)<br><!-- End of picture text -->
 
 11 
 
 ## **Anlage 2b: Studienverlaufsplan Master Zell und Molekularbiologie (M. Sc.)** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>i ECTSPkt|Workload-Verteilung pro Semester<br>i ECTSPkt|Workload-Verteilung pro Semester<br>i ECTSPkt|Workload-Verteilung pro Semester<br>i ECTSPkt|Art und Umfang der Prüfung/<br>Studienleistun|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||n||-unen||||
-|||V|Ü|P|S||1 S|2 S|3 S|4 S|g||
-||||||||. em.|. em.|. em.|. em.|||
-|Kernmodul I|Zell- und Molekularbiologie I|3||||7,5|7,5||||Klausur 90 Minuten|2|
-|Kernmodul II|Zell- und Molekularbiologie II|3||||7,5||7,5|||Klausur 90 Minuten|2|
-|Mastermodul 1|||7||1|7,5|7,5||||gemäß jeweiliger Modulbeschreibung1)|1|
-|Mastermodul 2|||7||1|7,5|7,5||||gemäß jeweiliger Modulbeschreibung1)|1|
-|Mastermodul 3|||7||1|7,5||7,5|||gemäß jeweiliger Modulbeschreibung1)|1|
-|Mastermodul 4|||7||1|7,5||7,5|||gemäß jeweiliger Modulbeschreibung1)|1|
-|Vertiefungsmodul|||16||4|20|||20||Mündliche Prüfung 45 Minuten|1|
-|Wahlmodul Externes<br>Praktikum5)|||10|||15|15||||Praktikumsprotokoll ca. 10 Seiten<br>oder2)<br>Seminarvortrag ca. 20 Min.|0|
-|Englisch UNIcert ® III5)|||8|||15|15||||3)|0|
-|Nicht biologisches<br>Wahlmodul4)||||||5|||5||SL: mündlich oder schriftlich nach<br>Angebot(unbenotet)|0|
-|Wissenschaftliche<br>Schlüsselqualifikationen|||||2|5|||5||SL: schriftliches Referat ca. 4 Seiten<br>(unbenotet)<br>SL: mündliches Referat 20 Min.<br>(unbenotet)|0|
-|Masterarbeit|wissenschaftlicher Bericht|||||30||||30|PL: Schriftliche Arbeit ca. 50 Seiten<br>SL: Kurzvortrag ca. 30 Min. (unbenotet)|1|
-||Verteidigung||||||||||||
-||Summe SWS|6|52-54|0|10||||||||
-|||SummeECTS||||120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>||Gesamt<br>ECTS|Worklo|ad-Verteil<br>in ECTS|ung pro Se<br>-Punkten|mester|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P<br>S||1. Sem.|2. Sem.|3. Sem.|4. Sem.||note|
+|Kernmodul I|Zell- und Molekularbiologie I|3||7,5|7,5||||Klausur 90 Minuten|2|
+|Kernmodul II|Zell- und Molekularbiologie II|3||7,5||7,5|||Klausur 90 Minuten|2|
+|Mastermodul 1||7|1|7,5|7,5||||gemäß jeweiliger Modulbeschreibung<sup>1)</sup>|1|
+|Mastermodul 2||7|1|7,5|7,5||||gemäß jeweiliger Modulbeschreibung<sup>1)</sup>|1|
+|Mastermodul 3||7|1|7,5||7,5|||gemäß jeweiliger Modulbeschreibung<sup>1)</sup>|1|
+|Mastermodul 4||7|1|7,5||7,5|||gemäß jeweiliger Modulbeschreibung<sup>1)</sup>|1|
+|Vertiefungsmodul||16|4|20|||20||Mündliche Prüfung 45 Minuten|1|
+|Wahlmodul Externes<br>Praktikum<sup>5)</sup>||10||15|1|5|||Praktikumsprotokoll ca. 10 Seiten<br>oder<sup>2)</sup><br>Seminarvortrag ca. 20 Min.|0|
+|Englisch UNIcert ® III<sup>5)</sup>||8||15|1|5|||3)|0|
+|Nicht biologisches<br>Wahlmodul<sup>4)</sup>||||5|||5||SL: mündlich oder schriftlich nach<br>Angebot(unbenotet)|0|
+|Wissenschaftliche<br>Schlüsselqualifikationen|||2|5|||5||SL: schriftliches Referat ca. 4 Seiten<br>(unbenotet)<br>SL: mündliches Referat 20 Min.<br>(unbenotet)|0|
+|Mtbit|wissenschaftlicher Bericht|||30||||30|PL: Schriftliche Arbeit ca. 50 Seiten|1|
+|aserare|Verteidiun||||||||SL: Kurzvortrag ca. 30 Min. (unbenotet)||
+||gg<br>Summe SWS|6<br>52-54<br>SummeECTS|0<br>10<br>|120|30|30|30|30|||
 
 - ~~1)~~ Art und Umfang der Fachmodulprüfung sowie die Einordnung der Leistungen als Prüfungs- und/oder Studienleistungen (PL bzw. SL) sowie deren Gewichtung zur Berechnung der Modulnote sind abhängig vom jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. Eine Prüfung der Mastermodule setzt sich in der Regel aus einer mündlichen Prüfung im Umfang von 30 Min., einem Seminarvortrag von 20 Min. sowie einem Protokoll von ca. 30 Seiten über die Versuche des praktischen Teils zusammen. 
 

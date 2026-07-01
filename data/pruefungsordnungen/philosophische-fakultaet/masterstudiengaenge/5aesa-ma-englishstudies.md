@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. März 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AeSa_MA_EnglishStudies.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:28:07+00:00
-page_count_chars: 4307
+scraped_at: 2026-07-01T09:41:31+00:00
+page_count_chars: 4351
 ---
 
 # 7. März 2017
@@ -22,7 +22,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang English Studies
 
 Die Regelung in § 2 erhält folgende neue Fassung: 
 
-„(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Zwei-Fach-Bachelorstudiengang im Fach English und/oder American Studies.[2] Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse im Bereich der Sprach-, Literatur- und/oder Kulturwissenschaft anerkannt, soweit an einer Hochschule erworbene fachspezifische Kenntnisse in einem oder mehreren dieser Bereiche im Umfang von insgesamt mindestens 60 ECTS-Punkten und ein Schwerpunkt in den Bereichen English Studies und/oder American Studies nachgewiesen werden. 
+„(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Zwei-Fach-Bachelorstudiengang im Fach English und/oder American Studies.<sup>2</sup> Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse im Bereich der Sprach-, Literatur- und/oder Kulturwissenschaft anerkannt, soweit an einer Hochschule erworbene fachspezifische Kenntnisse in einem oder mehreren dieser Bereiche im Umfang von insgesamt mindestens 60 ECTS-Punkten und ein Schwerpunkt in den Bereichen English Studies und/oder American Studies nachgewiesen werden. 
 
 - (2) Dem Antrag auf Zulassung sind folgende weitere Unterlagen i. S. d. Abs. 2 Satz 2 Nr. 2 Anlage 1 **ABMStPO/Phil** beizufügen: 
 
@@ -34,7 +34,7 @@ Die Regelung in § 2 erhält folgende neue Fassung:
 
 1 
 
-(3)[ 1] Die Prüfung, ob ein fachverwandter bzw. nicht wesentlich unterschiedlicher Abschluss i. S. d. Abs. 1 Satz 2 vorliegt, erfolgt auf der Grundlage des Transcript of Records und der wissenschaftlichen Arbeit nach Abs. 2 Nr. 3.[2] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,30 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[3] Im Auswahlgespräch, welches in englischer Sprache geführt wird, wird die Bewerberin bzw. der Bewerber auf Basis folgender Kriterien und Gewichtung beurteilt: 
+(3)<sup>1</sup> Die Prüfung, ob ein fachverwandter bzw. nicht wesentlich unterschiedlicher Abschluss i. S. d. Abs. 1 Satz 2 vorliegt, erfolgt auf der Grundlage des Transcript of Records und der wissenschaftlichen Arbeit nach Abs. 2 Nr. 3.<sup>2</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,30 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>3</sup> Im Auswahlgespräch, welches in englischer Sprache geführt wird, wird die Bewerberin bzw. der Bewerber auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Qualität der akademischen Kenntnisse in den Bereichen der Literatur- und Kulturwissenschaft in Bezug auf Großbritannien und/oder Linguistik und angewandte Linguistik vor allem in Bezug auf die englische Sprache (30 %) 
 

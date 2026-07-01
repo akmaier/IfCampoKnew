@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Oktober 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES_LA-EvangReligionslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:39+00:00
-page_count_chars: 15775
+scraped_at: 2026-07-01T08:37:43+00:00
+page_count_chars: 15614
 ---
 
 # 1. Oktober 2015
@@ -14,11 +14,11 @@ page_count_chars: 15775
 
 **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Oktober 2015 
+# Vom 1. Oktober 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. Februar 2009, zuletzt geändert durch Satzung vom 15. September 2011, wird wie folgt geändert: 
 
@@ -34,13 +34,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Evangelische Religionslehre 
 
    - c) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-„[5] Sind beide Fremdsprachen (Latein und Griechisch) nachzuholen, kann darüber hinaus auch im „Freien Bereich“ das Wahlmodul Spracherwerb 2 im Umfang von 5 ECTS-Punkten eingebracht werden.“ 
+„<sup>5</sup> Sind beide Fremdsprachen (Latein und Griechisch) nachzuholen, kann darüber hinaus auch im „Freien Bereich“ das Wahlmodul Spracherwerb 2 im Umfang von 5 ECTS-Punkten eingebracht werden.“ 
 
 4. § 5 wird wie folgt geändert: 
 
 1 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
 aa) Die Worte „bis zum Ende des sechsten Semesters ein Modul aus dem Wahlbereich und die folgenden Pflichtmodule“ werden durch die Worte „Fachwissenschaft 1. – 6. Semester“ ersetzt. 
 
@@ -48,37 +48,36 @@ bb) Die Tabelle nach den Worten „Fachwissenschaft 1. – 6. Semester“ (neu) 
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung||SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Workload-Verteilung pro Semester in ECTS-<br>Punkten1, 2|Art und Umfang der Prüfung3|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||Punkten1, 2|||||
-|||V|Ü||P|<br>S||1.|2.|3.|4.|5.|6.||
-|**Einführung in die Theologie**|Grundkurs: Einführung in die Theologie<br>(mit einem Einführungswochenende)|(2)|(2)||||10|2||||||Bibelkundeprüfung4|
-||BibelkundeNT||2|||||4|||||||
-||BibelkundeAT||2|||||2|2||||||
-||Einführungin die exegetischen Methoden|||||2||||2/3||||Klausur oder mündliche Prüfung oder<br>Hausarbeit5|
-|**Altes Testament 1**|Geschichte Israels/Religionsgeschichte Israels|2|||||5||||2/3||||
-|**Neues Testament 1**|NT Einführung in die exeget. Methoden (mit<br>Arbeit)|||||2|5|||3||||Klausur oder mündliche Prüfung oder<br>Hausarbeit (20-30 Seiten)5|
-||Einführungins NT|2|||||||2||||||
-||Einführungindie SystematischeTheologie|(2)|(2)|||||||2||||Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-|**Systematische Theologie 1**|Proseminar Systematische Theologie|||||2|5|||3|||||
-|**Kirchengeschichte 16**|Kirchengeschichte im Überblick<br>1,2, 3,4oder5|2|||||5|2/3||||||Klausur oder mündliche Prüfung oder<br>Hausarbeit5, 6|
-||Methoden der Kirchengeschichte|||||2|||2/3||||||
-||Einführungin die Religionspädagogik I|2||||||2||||||Klausur oder mündliche Prüfung oder<br>Hausarbeit5|
-|**Religionspädagogik**|Einführungin die Religionspädagogik II|2|||||5||3||||||
-|**Altes Testament 2**|Literaturgeschichte und Theologie des AT|2|||||5|||||2||Hausarbeit|
-||Alttestamentliche Fragestellungen|||||2|||||||3||
-||Themen der neutestamentlichen Theologie|2||||||||||2||Klausur oder mündliche Prüfung oder<br>Hausarbeit(20-30 Seiten)5|
-|**Neues Testament 2**|Themen der neutestamentlichen Theologie|||||2|5||||||3||
-|**Systematische Theologie 2**|Einführungin die Dogmatik|2|||||5||||2|||Klausur oder mündliche Prüfung oder<br>Hausarbeit5|
-||Hauptseminar Dogmatik|||||2|||||||3||
-||Einführungin die Ethik|2||||||||||2||Klausur oder mündliche Prüfung oder<br>Hausarbeit5|
-|**Systematische Theologie 3**|Hauptseminar Ethik|||||2|5||||||3||
-|**Kirchengeschichte 26**|Spezialproblem/-thema der Kirchengeschichte|||||2|5|||||2/3||Klausur oder mündliche Prüfung oder<br>Hausarbeit5,6|
-||Kirchengeschichte im Überblick<br>1,2, 3,4oder5|2|||||||||2/3||||
-||Einführungin die Religionswissenschaft|2||||||||2||||Klausur oder mündliche Prüfung oder<br>Hausarbeit5|
-|**Religionswissenschaft 1**|Religionswissenschaftliche Themen|||||2|5||||3||||
-|**Schwerpunktwahlmodul 1**|||||||5|2|3||||||
-||**Summe:**|22-26|4-8|||20|70|14-<br>15|12-<br>13|12-<br>13|9-11|8-9|12||
+|||SWS||Gt|Workload-Ve|rteilung p<br>|ro Sem<br>|ester in|ECTS-||
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|<br>||esam<br>ECTS||Punkt|en<sup>1, 2</sup>|||Art und Umfang der Prüfung<sup>3</sup>|
+|||V<br>Ü<br>|P<br>S||1.<br>2.|3.|4.|5.|6.||
+||Grundkurs: Einführung in die Theologie<br>(mit einem Einführungswochenende)|(2)<br>(2)|||2|||||<sup>4</sup>|
+|**Einführung in die Theologie**|BibelkundeNT|2||10|4|||||Bibelkundeprüfung|
+||BibelkundeAT|2|||2<br>2||||||
+|**Alt Ttt 1**|Einführungin die exegetischen Methoden||2|5||2/3||||Klausur oder mündliche Prüfung oder<br>|
+|**es esamen**|Geschichte Israels/Religionsgeschichte Israels|2|||||2/3|||Hausarbeit<sup>5</sup>|
+|**Neues Testament 1**|NT Einführung in die exeget. Methoden (mit<br>Arbeit)||2|5||3||||Klausur oder mündliche Prüfung oder<br> <sup>5</sup>|
+||Einführungins NT|2|||2|||||Hausarbeit (20-30 Seiten)|
+|**Sttih Thli 1**|Einführungindie SystematischeTheologie|(2)<br>(2)||5||2||||Klausur oder mündliche Prüfung oder<br>|
+|**ysemasce eooge**|Proseminar Systematische Theologie||2|||3||||Hausarbeit<sup>3</sup>|
+|**Kirchengeschichte 1**<sup>**6**</sup>|Kirchengeschichte im Überblick<br>1,2, 3,4oder5|2||5|2/3|||||Klausur oder mündliche Prüfung oder<br><sup>5, 6</sup>|
+||Methoden der Kirchengeschichte||2||2/3|||||Hausarbeit|
+|**Rliiädik**|Einführungin die Religionspädagogik I|2||5|2|||||Klausur oder mündliche Prüfung oder<br>|
+|**egonspagog**|Einführungin die Religionspädagogik II|2|||3|||||Hausarbeit<sup>5</sup>|
+|**Altes Testament 2**|Literaturgeschichte und Theologie des AT<br>Alttestamentliche Fragestellungen|2|2|5||||2|3|Hausarbeit|
+|**N Ttt 2**|Themen der neutestamentlichen Theologie|2||5||||2||Klausur oder mündliche Prüfung oder<br>|
+|**eues esamen**|Themen der neutestamentlichen Theologie||2||||||3|Hausarbeit(20-30 Seiten)<sup>5</sup>|
+|**Sttih Thli 2**|Einführungin die Dogmatik|2||5|||2|||Klausur oder mündliche Prüfung oder<br>|
+|**ysemasce eooge**|Hauptseminar Dogmatik||2||||||3|Hausarbeit<sup>5</sup>|
+|**Sttih Thli 3**|Einführungin die Ethik|2||5||||2||Klausur oder mündliche Prüfung oder<br>|
+|**ysemasce eooge**|Hauptseminar Ethik||2||||||3|Hausarbeit<sup>5</sup>|
+||Spezialproblem/-thema der Kirchengeschichte||2|||||2/3||Kl d üdlih Püf d|
+|**Kirchengeschichte 2**<sup>**6**</sup>|Kirchengeschichte im Überblick<br>1,2, 3,4oder5|2||5|||2/3|||ausur oer mnce rung oer<br>Hausarbeit<sup>5,6</sup>|
+||Einführungin die Religionswissenschaft|2||||2||||Klausur oder mündliche Prüfung oder|
+|**Religionswissenschaft 1**|Religionswissenschaftliche Themen||2|5|||3|||<br>Hausarbeit<sup>5</sup>|
+|**Schwerpunktwahlmodul 1**||||5|2<br>3||||||
+||**Summe:**|22-26<br>4-8|20|70|14-<br>15<br>12-<br>13|12-<br>13|9-11|8-9|12||
 
 2 
 
@@ -98,75 +97,65 @@ cc) Die Worte „In den Semestern 7 – 9 drei Schwerpunktwahlmodule und die fol
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten1, 2|Workload-Verteilung pro Semester in<br>ECTS-Punkten1, 2|Workload-Verteilung pro Semester in<br>ECTS-Punkten1, 2|Art und Umfang der Prüfung3|
-|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||
-||||||||||||
-|||V|Ü|P|S||7.|8.|9.||
-|**Religionswissenschaft 2**|Grundzüge einer nichtchristli-<br>chen Religion|2||||5|2|||Klausur oder mündliche Prüfung oder Hausarbeit4|
-||Religionswissenschaftliche<br>Themen||||2|||3|||
-|**Schwerpunktübergreifendes Modul**|Vorlesungoder Seminar|(2)|||(2)|5|2/3|||Klausur oder mündliche Prüfung oder Hausarbeit4|
-||Vorlesungo. Seminar o. Übung|(2)|(2)||(2)|||2/3|||
-|**Systematische Theologie 4**|Themender Dogmatik|(2)|(2)||(2)|5||2/3||Klausur oder mündliche Prüfung oder Hausarbeit4|
-||Themender Ethik|(2)|(2)||(2)||||2/3||
-|**Schwerpunktwahlmodul 2**||||||5|5||||
-|**Schwerpunktwahlmodul 3**||||||5|||5||
-||**Summe:**<br>|2-18<br>|0-14<br>|0<br>|2-18|25|9-10|7-9|7-8||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü|P<br>S|Gesamt<br>ECTS|Workload-<br>E<br>7.|Verteilung pro Semester in<br>CTS-Punkten<sup>1, 2</sup><br>8.<br>9.|Art und Umfang der Prüfung<sup>3</sup>|
+|---|---|---|---|---|---|---|---|---|
+|**Reliionswissenschaft 2**|Grundzüge einer nichtchristli-<br>chen Religion|2|||5|2||Kl d üdlih Püf d Hbit<sup>4</sup>|
+|**g**|Religionswissenschaftliche<br>Themen|||2|||3|ausur oer mnce rung oer ausare|
+|**Schwerunktüberreifendes Modul**|Vorlesungoder Seminar<br>|(2)||(2)|5|2/3||Kl d üdlih Püf d Hbit<sup>4</sup>|
+|**pg**|Vorlesungo. Seminar o. Übung|(2)|(2)|(2)|||2/3|ausur oer mnce rung oer ausare|
+|**Sstematische Theoloie 4**|Themender Dogmatik|(2)|(2)|(2)|5||2/3|Kl d üdlih Püf d Hbit<sup>4</sup>|
+|**y g**|Themender Ethik|(2)|(2)|(2)|||2/3|ausur oer mnce rung oer ausare|
+|**Schwerpunktwahlmodul 2**|||||5|5|||
+|**Schwerpunktwahlmodul 3**|||||5||5||
+||**Summe:**<br>|2-18<br>|0-14<br>|0<br>2-18|25|9-10|7-9<br>7-8||
 
 > ~~1~~ Bei der Verteilung auf die Semester handelt es sich lediglich um eine Empfehlung. 
 
 2 Die höhere Workload ergibt sich, wenn die Prüfungsleistung in dieser Lehrveranstaltung abgelegt wird. 
 
-- 3 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 
+3 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 
 
 4 Die konkrete Prüfungsform hängt von der Wahl der Lehrveranstaltung durch die Studierenden ab. Einzelheiten sind im Modulhandbuch geregelt. “ 
 
-- dd) Das Wort und die Zeichen „Wahlbereich:[1] “ und die nachfolgende Tabelle werden durch das Wort „Schwerpunktwahlmodule:“ und folgende neue Tabelle ersetzt: 
+- dd) Das Wort und die Zeichen „Wahlbereich:<sup>1</sup> “ und die nachfolgende Tabelle werden durch das Wort „Schwerpunktwahlmodule:“ und folgende neue Tabelle ersetzt: 
 
 3 
 
 „ 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|1|2|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS|ECTS|Art und Umfang der Prüfung|
-|**Schwerpunkt-Wahlmodul Altes**<br>**Testament**|Themen des Alten Testaments|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Themen des Alten Testaments|(2)|(2)||(2)||2/3||
-|**Schwerpunkt-Wahlmodul Neues**|Themen des Neuen Testaments|(2)|(2)||(2)||2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit(20-30 Seiten)3|
-|**Testament**|Themen des Neuen Testaments|(2)|(2)||(2)|5|2/3||
-|**Schwerpunkt-Wahlmodul Biblische**<br>**Theologie**|Themen des Alten Testaments|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Themen des Neuen Testaments|(2)|(2)||(2)||2/3||
-|**Schwerpunkt-Wahlmodul Kirchen-**<br>**geschichte**|Kirchengeschichte im Überblick 1,2,3,4 oder 5|2|||||2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||**Oder**:<br>Vorlesung Spezialproblem/-thema der Kirchenge-||||||||
-||<br>schichte|2||||5|2/3||
-||Spezialproblem/-thema der Kirchengeschichte|(2)|(2)||(2)||2/3||
-|**Schwerpunkt-Wahlmodul Systemati-**<br>**sche Theologie**|Themen der Dogmatik(z.B. Anthropologie)|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Themen der Ethik(z.B. Politische Ethik)|(2)|(2)||(2)||2/3||
-|**Schwerpunkt-Wahlmodul Praktische**|Themen der Praktischen Theologie|(2)|(2)||(2)||2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-|**Theologie**|Themen der Praktischen Theologie|(1-2)|(1-2)||(1-2)|5|2/3||
-|**Schwerpunkt-Wahlmodul Religions-**<br>**und Missionswissenschaft**|Themen der Religions- und Missionswissenschaft|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Themen der Religions- und Missionswissenschaft|(2)|(2)||(2)||2/3||
-|**Wahlmodul Spracherwerb 1**|Griechisch oder Latein|(6)|(6)|||5|5|Klausur|
-||||||||||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P|S|Gesamt<br>ECTS|ECTS<sup>1</sup>|Art und Umfang der Prüfung<sup>2</sup>|
+|---|---|---|---|---|---|---|---|
+|**Schwerpunkt-Wahlmodul Altes**|Themen des Alten Testaments|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**Testament**|Themen des Alten Testaments|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Schwerpunkt-Wahlmodul Neues**|Themen des Neuen Testaments|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**Testament**|Themen des Neuen Testaments|(2)|(2)|(2)||2/3|Hausarbeit(20-30 Seiten)<sup>3</sup>|
+|**Schwerpunkt-Wahlmodul Biblische**|Themen des Alten Testaments|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**Theologie**|Themen des Neuen Testaments|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+||Kirchengeschichte im Überblick 1,2,3,4 oder 5|2||||2/3||
+|**Schwerpunkt-Wahlmodul Kirchen-**<br>**geschichte**|**Oder**:<br>Vorlesung Spezialproblem/-thema der Kirchenge-<br>schichte|2|||5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit<sup>3</sup>|
+||Spezialproblem/-thema der Kirchengeschichte|(2)|(2)|(2)||2/3||
+|**Schwerpunkt-Wahlmodul Systemati-**|Themen der Dogmatik(z.B. Anthropologie)|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**sche Theologie**|Themen der Ethik(z.B. Politische Ethik)|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Schwerpunkt-Wahlmodul Praktische**|Themen der Praktischen Theologie|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**Theologie**|Themen der Praktischen Theologie|(1-2)|(1-2)|(1-2)||2/3|Hausarbeit<sup>3</sup>|
+|**Schwerpunkt-Wahlmodul Religions-**|Themen der Religions- und Missionswissenschaft|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**und Missionswissenschaft**|Themen der Religions- und Missionswissenschaft|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Wahlmodul Spracherwerb 1**|Griechisch oder Latein|(6)|(6)||5|5|Klausur|
 
 > ~~1~~ Die höhere Workload ergibt sich, wenn die Prüfungsleistung in dieser Lehrveranstaltung abgelegt wird. 
 
-> 2 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 
+> 2 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 3 Die konkrete Prüfungsform hängt von der Wahl der Lehrveranstaltung durch die Studierenden ab. Einzelheiten sind im Modulhandbuch geregelt. “ 
 
-3 Die konkrete Prüfungsform hängt von der Wahl der Lehrveranstaltung durch die Studierenden ab. Einzelheiten sind im Modulhandbuch geregelt. “ 
+# b) Die Tabelle in Abs. 2 erhält folgende neue Fassung: 
 
-## b) Die Tabelle in Abs. 2 erhält folgende neue Fassung: 
-
-|„<br>Modulbezeichnung|Lehrveranstaltung|||||||||||||||Art und Umfang der<br>Prüfung2|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||Gesamt<br>|Workload-Verteilung pro Semester in ECTS-<br>Punkten1||||||||||
-||||||||||||||||||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|7.|8.|9.||
-|**Fachdidaktik 1**|Didaktisch-methodisches Seminar mit<br>Unterrichtsentwurf||||2|5||||3||||||Unterrichtsentwurf3|
-||Didaktisch-methodische Übung||2|||||||2|||||||
-|**Fachdidaktik 2**|Religionsdidaktik (z.B Syst.-theol. The-<br>men im RU)||||2|5||||||||3||Klausur oder mündliche<br>Prüfung oder Hausar-<br>beit4|
-||Themen und Methoden im RU||1-2||||||||||2||||
-||**Summe:**<br>|0<br>|3-4<br>|0|4|10|0|0|0|5|0|0|2|3|0||
+|„<br>Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P|S|Gesamt<br>ECTS<br> <br>1|Workload-Verteil<br>.<br>2.<br>3.<br>4|ung pro Semester<br>Punkten<sup>1</sup><br>.<br>5.<br>6.<br>7.|in ECTS<br>8.<br>|-<br>Art und Umfang der<br>Prüfung<sup>2</sup><br>9.|
+|---|---|---|---|---|---|---|---|---|
+|**Fachdidaktik 1**|Didaktisch-methodisches Seminar mit<br>Unterrichtsentwurf||2|5|3|||Unterrichtsentwurf<sup>3</sup>|
+||Didaktisch-methodische Übung|2|||2||||
+||Religionsdidaktik (z.B Syst.-theol. The-||2||||3|Klausur oder mündliche|
+|**Fachdidaktik 2**|men im RU)|||5||||Prüfung oder Hausar-<br>|
+||Themen und Methoden im RU|1-2||||2||beit<sup>4</sup>|
+||**Summe:**<br>0<br>|<br>3-4<br>0<br>|4|10<br>0|<br>0<br>0<br>5|<br>0<br>0<br>2|3|0|
 
 > ~~1~~ Bei der Verteilung auf die Semester handelt es sich lediglich um eine Empfehlung 
 
@@ -176,56 +165,47 @@ cc) Die Worte „In den Semestern 7 – 9 drei Schwerpunktwahlmodule und die fol
 
 4 
 
-## c) Die Tabelle in Abs. 3 erhält folgende neue Fassung: 
+# c) Die Tabelle in Abs. 3 erhält folgende neue Fassung: 
 
 „ 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt<br>ECTS|ECTS~~1~~|Art und Umfang der Prüfung2|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S||||
-|**Wahlmodul Fachdidaktik**|TheorienundThemender Religionsdidaktik|(2)|||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Übung/Seminar zur Religionsdidaktik||(1-2)||(1-2)||2/3||
-|**Wahlmodul Theologie und Geschich-**<br>**te des christl. Ostens**|Thema aus der Theologie und Geschichte des christl. Os-<br>tens|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Thema aus der Theologie und Geschichte des christl. Os-<br>tens|(2)|(2)||(2)||2/3||
-|**Wahlmodul Christliche Archäologie**|Thema aus derChristlichen Archäologie|(2)|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-||Thema aus der Christlichen Archäologie|(2)|(2)||(2)||2/3||
-||Thema aus derChristlichen Publizistik|(2)|(2)||(2)||2/3|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-|**Wahlmodul Christliche Publizistik**|Thema aus der Christlichen Publizistik|(2)|(2)||(2)|5|2/3||
-|**Multidiziplinäres Wahlmodul Theo-**<br>**logie**<br>|Verschiedene Lehrveranstaltungen unterschiedlicher Diszip-<br>linen der Theologie|(4)|(4)||(4)|5|5|Klausur oder mündliche Prüfung oder<br>Hausarbeit3|
-|**Wahlmodul Spracherwerb 2**~~**4**~~|Griechisch oder Latein|(6)|(6)|||5|5|Klausur|
-||||||||||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P|S|Gesamt<br>ECTS|ECTS<sup>~~1~~</sup>|Art und Umfang der Prüfung<sup>2</sup>|
+|---|---|---|---|---|---|---|---|
+|**Wahlmodul Fachdidaktik**|TheorienundThemender Religionsdidaktik<br>|(2)||(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+||Übung/Seminar zur Religionsdidaktik||(1-2)|(1-2)||2/3|Hausarbeit<sup>3</sup>|
+|**Wahlmodul Theologie und Geschich-**|Thema aus der Theologie und Geschichte des christl. Os-<br>tens|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**te des christl. Ostens**|Thema aus der Theologie und Geschichte des christl. Os-<br>tens|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Wahlmodul Christliche Archäoloie**|Thema aus derChristlichen Archäologie|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**g**|Thema aus der Christlichen Archäologie|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Wahlmodl Christliche Pblizistik**|Thema aus derChristlichen Publizistik|(2)|(2)|(2)|5|2/3|Klausur oder mündliche Prüfung oder<br>|
+|**u  u**|Thema aus der Christlichen Publizistik|(2)|(2)|(2)||2/3|Hausarbeit<sup>3</sup>|
+|**Multidiziplinäres Wahlmodul Theo-**<br>**logie**<br>|Verschiedene Lehrveranstaltungen unterschiedlicher Diszip-<br>linen der Theologie|(4)|(4)|(4)|5|5|Klausur oder mündliche Prüfung oder<br>Hausarbeit<sup>3</sup>|
+|**Wahlmodul Spracherwerb 2**<sup>**~~4~~**</sup>|Griechisch oder Latein|(6)|(6)||5|5|Klausur|
 
 > ~~1~~ Die höhere Workload ergibt sich, wenn die Prüfungsleistung in dieser Lehrveranstaltung abgelegt wird. 
 
-2 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 
-
-3 Die konkrete Prüfungsform hängt von der Wahl der Lehrveranstaltung durch die Studierenden ab. Einzelheiten sind im Modulhandbuch geregelt. 
+2 Die Dauer der Klausuren beträgt 90 bis 120 Minuten, die Dauer der mündlichen Prüfungen beträgt 15 bis 30 Minuten. Der Umfang der Hausarbeit soll 10 bis 20 Seiten betragen. 3 Die konkrete Prüfungsform hängt von der Wahl der Lehrveranstaltung durch die Studierenden ab. Einzelheiten sind im Modulhandbuch geregelt. 
 
 4 Vgl. § 3 Abs. 3 Satz 5.  “ 
 
-## d) Die Tabelle in Abs. 4 erhält folgende neue Fassung: 
+# d) Die Tabelle in Abs. 4 erhält folgende neue Fassung: 
 
 „ 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|ECTS|At d Uf d Püf|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS||r un mang er rung|
-|**Studienbegleitendes fachdidakti-**<br>**sches Praktikum**|Praktikum|||3||5|3|Unterrichtsentwurf1|
-||fachdidaktisches Begleitseminar zum Praktikum||||2||2||
-||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P|S|Gesamt<br>ECTS|ECTS|Art und Umfang der Prüfung|
+|---|---|---|---|---|---|---|
+|**Studienbegleitendes fachdidakti-**|Praktikum|3||5|3|Utihttf<sup>1</sup>|
+|**sches Praktikum**|fachdidaktisches Begleitseminar zum Praktikum||2||2|nerrcsenwur|
 
 1Der Unterrichtsentwurf soll einen Umfang von 10-15 Seiten haben. “ 
 
-## e) Die Tabelle in Abs. 5 erhält folgende neue Fassung: 
+# e) Die Tabelle in Abs. 5 erhält folgende neue Fassung: 
 
 „ 
 
-|Mdlbih|Lhtlt||SWS|SWS||Gesamt|ECTS|At d Uf d Püf|
-|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS||r un mang er rung|
-|**Modul Schriftliche Hausarbeit**|SchriftlicheHausarbeit|||||10|9|Schriftliche Hausarbeit1|
-||Kolloquium zur Besprechungder Schriftlichen Hausarbeit||||||1||
-||||||||||
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br> <br>Ü<br>P|S|Gesamt<br>ECTS|ECTS|Art und Umfang der Prüfung|
+|---|---|---|---|---|---|---|
+|**Modul Schriftliche Hausarbeit**|SchriftlicheHausarbeit<br>Kolloquium zur Besprechungder Schriftlichen Hausarbeit|||10|9<br>1|Schriftliche Hausarbeit<sup>1</sup>|
 
 1Die Schriftliche Hausarbeit soll einen Umfang von ca. 40 Seiten haben. “ 
 

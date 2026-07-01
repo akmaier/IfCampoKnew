@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/TheolAufnPO ZWP 1999-2004 ab 2006-II-(2).pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:44:16+00:00
-page_count_chars: 33808
+scraped_at: 2026-07-01T09:54:52+00:00
+page_count_chars: 33778
 ---
 
 # PDF
@@ -20,7 +20,7 @@ page_count_chars: 33808
 
 **(Aufnahmeprüfungsordnung - TheolAufnPO)** 
 
-## gültig ab 2006/II 
+# gültig ab 2006/II 
 
 (geändert durch Bek vom 25. Juli 2005, KABl S. 217) 
 
@@ -202,7 +202,7 @@ Die Prüfung besteht aus zwei Prüfungsteilen:
 
 (2) Die Bearbeitungszeit für jede Klausur beträgt vier Zeitstunden. An einem Tag wird nur eine Klausur geschrieben. In den Fächern Altes Testament und Neues Testament stehen jeweils drei Themen zur Wahl. Im Fach Dogmatik und Ethik stehen je zwei Themen aus diesen Teilgebieten zur Wahl. Im Fach Kirchen- und Dogmengeschichte stehen vier bis sechs Themen aus verschiedenen Epochen zur Wahl. Im Fach Praktische Theologie stehen drei Themen zur Wahl. 
 
-(3) Die Klausuren in den biblischen Fächern bestehen aus der Übersetzung und der wissenschaftlichen Exegese eines Textabschnittes sowie der Bearbeitung eines Themas. In den übrigen Klausuren kann die Aufgabe als Essay-Klausur oder als kombinierter Test[1] gestellt werden. 
+(3) Die Klausuren in den biblischen Fächern bestehen aus der Übersetzung und der wissenschaftlichen Exegese eines Textabschnittes sowie der Bearbeitung eines Themas. In den übrigen Klausuren kann die Aufgabe als Essay-Klausur oder als kombinierter Test<sup>1</sup> gestellt werden. 
 
 (4) Die im Anhang zu dieser Prüfungsordnung aufgeführten Hilfsmittel werden zur Verfügung gestellt. 
 
@@ -272,7 +272,9 @@ Der erste Prüfungsteil ist nicht bestanden, wenn nach dem in § 13 Abs. 3 und 4
 
 Wer den ersten Teil der Prüfung nicht bestanden hat, hat die gesamte Prüfung nicht bestanden und wird nicht zum zweiten Teil der Prüfung zugelassen. 
 
-§ 15 Festsetzung des Prüfungsergebnisses 
+§ 15 
+
+Festsetzung des Prüfungsergebnisses 
 
 (1) Die nach § 2 Abs. 2 gebildeten Gruppen aus der Prüfungskommission setzen die Einzelnoten, die Gesamtfachnoten und die Teilprüfungsnote des ersten Prüfungsteils in Schlußkonferenzen fest. 
 
@@ -298,7 +300,7 @@ schlossen wurde oder die Prüfung nach § 16 Absatz 2 Satz 2 nachträglich für 
 
 2. andere Zeiten bis zu jeweils zwei Studienhalbjahren, während derer der Prüfungsteilnehmer oder die Prüfungsteilnehmerin nachweislich 
 
-   - a) das Praxisjahr nach der Praxisjahrverordnung[2] abgeleistet hat, 
+   - a) das Praxisjahr nach der Praxisjahrverordnung<sup>2</sup> abgeleistet hat, 
 
    - b) an einer ausländischen Universität, mit einer anderen Unterrichtssprache als Deutsch, in einem Theologischen Studiengang studiert hat, 
 
@@ -309,8 +311,6 @@ schlossen wurde oder die Prüfung nach § 16 Absatz 2 Satz 2 nachträglich für 
 (4) Für jede nachzulernende Sprache kann die Semesterzahl des Absatzes 1 um ein Semester erhöht werden. Eine Sprache ist nachzulernen, wenn nicht durch das Reifezeugnis mindestens ausreichende Sprachkenntnisse nachgewiesen sind. 
 
 (5) Eine im Rahmen des Freiversuchs insgesamt bestandene Prüfung kann auf Antrag erneut bis spätestens zum zweiten auf die Zeugnisübergabe (§ 19 Abs. 4) folgenden Prüfungstermin abgelegt werden, um das Ergebnis zu verbessern. Das bessere Ergebnis zählt. 
-
-**==> picture [58 x 21] intentionally omitted <==**
 
 (1) Wird versucht, das Ergebnis der Prüfung durch Unterschleif, Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu eigenem oder fremdem Vorteil zu beeinflussen, so ist die betreffende Prüfungsleistung mit der Note „ungenügend“ zu bewerten. In schweren Fällen kann der Ausschluß von der Prüfung ausgesprochen werden; die Prüfung gilt dann als nicht bestanden; Unterschleif liegt auch vor, wenn ein nicht zugelassenes Hilfsmittel mitgeführt wird, nachdem die Prüfungsaufgabe ausgegeben worden ist, es sei denn, der Besitz beruht nachweislich weder auf Vorsatz noch auf Fahrlässigkeit. 
 
@@ -374,7 +374,9 @@ Wer den ersten Prüfungsteil nicht bestanden hat oder wessen Prüfung als nicht 
 
 ## **Rechtsbehelfe** 
 
-§ 20 Einspruch gegen Mängel im Prüfungsverfahren 
+§ 20 
+
+Einspruch gegen Mängel im Prüfungsverfahren 
 
 Mängel des Prüfungsverfahrens und Verstöße gegen die Chancengleichheit, die Kandidaten oder Kandidatinnen während der Prüfung feststellen, müssen unverzüglich 
 

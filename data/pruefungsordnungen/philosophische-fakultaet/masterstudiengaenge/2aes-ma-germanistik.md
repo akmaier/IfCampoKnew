@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. April 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Germanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:56+00:00
-page_count_chars: 2153
+scraped_at: 2026-07-01T09:42:37+00:00
+page_count_chars: 2152
 ---
 
 # 27. April 2011
@@ -12,7 +12,7 @@ page_count_chars: 2153
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES MA-Germanistik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm -** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm -** 
 
 ## Vom 27. April 2011 
 

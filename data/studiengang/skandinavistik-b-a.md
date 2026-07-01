@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:50:44+00:00
+scraped_at: 2026-07-01T08:27:50+00:00
 ---
 
 # Skandinavistik (B.A.)
@@ -34,6 +34,17 @@ scraped_at: 2026-05-01T06:50:44+00:00
 Die Texte und Themen, die während des Studiums behandelt werden, stammen hauptsächlich aus einem Zeitraum, der sich von der Reformationszeit bis in unsere Gegenwart erstreckt, denn der Schwerpunkt des Studiums an der FAU liegt auf der **Neueren Nordischen Philologie**. Die Analyse und Interpretation der Texte erfolgt unter historischen, systematischen und literaturtheoretischen Perspektiven. Dabei können kulturelle und sprachgeschichtliche Kontexte genauso eine Rolle spielen wie Aspekte der medialen Verbreitung und Vergleiche mit Literaturen anderer Länder.
 
 Ein wichtiger Pfeiler ihres Studiums wird das Erlernen von skandinavischen Sprachen darstellen. An der FAU bieten wir Schwedisch, Norwegisch, Dänisch als Erstsprache an. Isländisch können Sie in späteren Semestern belegen, wenn Sie bereits eine kontinentalskandinavische Sprache sprechen. Da alle skandinavischen Sprachen sehr eng miteinander verwandt sind, werden Sie auch die nicht belegten Sprachen schnell verstehen und lesen können.
+
+### Fachanteile des Studiengangs Skandinavistik (B.A.)
+
+* Nordische Erstsprache (21%)
+* Kulturwissenschaft (21%)
+* Literaturwissenschaft (16%)
+* Nordische Kulturgeschichte (11%)
+* Performativität (11%)
+* Narrative (11%)
+* Sprachanalyse (5%)
+* Nordische Zweitsprache (5%)
 
 ### Aufbau und Struktur
 
@@ -108,13 +119,13 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Lateinische Philologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/lateinische-philologie-ba/)
 * [Politikwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/politikwissenschaft-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -204,11 +215,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Lateinische Philologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/lateinische-philologie-ba/)
 - [Politikwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/politikwissenschaft-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

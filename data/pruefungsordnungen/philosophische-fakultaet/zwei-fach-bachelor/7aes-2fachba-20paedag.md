@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Februar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/7AES-2FachBA%20Paedag.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:10+00:00
-page_count_chars: 1881
+scraped_at: 2026-07-01T10:27:43+00:00
+page_count_chars: 1887
 ---
 
 # 24. Februar 2012
@@ -14,11 +14,11 @@ page_count_chars: 1881
 
 **Siebte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 24. Februar 2012 
+# Vom 24. Februar 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -28,11 +28,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Pädagogik im Zwei-FachBache
 
 a) Die Fußnote *) in Abs. 1 erhält folgende Fassung: 
 
-„[*)] Das Modul Päd 1 muss im ersten Fachsemester absolviert werden; die Zuordnung der anderen Module zu den Fachsemestern ist eine Empfehlung." 
+„<sup>*)</sup> Das Modul Päd 1 muss im ersten Fachsemester absolviert werden; die Zuordnung der anderen Module zu den Fachsemestern ist eine Empfehlung." 
 
 - b) In Abs. 2 werden nach der Zahl „2011“ die Worte „und das Sommersemesterangebot 2012“ angefügt sowie in der Tabelle Zeile 2 Spalten 5 bis 10 jeweils die Zahlen gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

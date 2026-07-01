@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Studium Philosophicum POM-StudPhil 20241210.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Philosophicum/konsolidierte_Fassungen/Modulstudien_Studium_Philosophicum_POM-StudPhil_20241210.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-05-01T08:39:28+00:00
-page_count_chars: 9513
+scraped_at: 2026-07-01T09:48:51+00:00
+page_count_chars: 9619
 ---
 
 # Modulstudien Studium Philosophicum POM-StudPhil 20241210.pdf
@@ -16,15 +16,25 @@ page_count_chars: 9513
 
 Aufgrund von Art. 9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 8 Satz 1 des Bayerischen Hochschulinnovationsgesetzes vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich; Ziele ..................................................................................................... 1 § 2 Studienbeginn; Regelstudienzeit, Umfang ....................................................................... 1 § 3 Qualifikationsvoraussetzungen ........................................................................................ 2 § 4 Prüfungsausschuss; Verfahrensrecht .............................................................................. 2 § 5 Zulassung zu den Prüfungen ........................................................................................... 2 § 6 Qualifikationsziele der beteiligten Studiengänge, Prüfungen ........................................... 2 § 7 Wiederholung von Prüfungen .......................................................................................... 2 § 8 Leistungsübersicht ........................................................................................................... 3 § 9 Inkrafttreten ..................................................................................................................... 3 Anlage Studienverlaufsplan „Studium Philosophicum“ ........................................................... 4 
+|§ 1 Geltungsbereich; Ziele ..................................................................................................... 1|
+|---|
+|§ 2 Studienbeginn; Regelstudienzeit, Umfang ....................................................................... 1|
+|§ 3 Qualifikationsvoraussetzungen ........................................................................................ 2|
+|§ 4 Prüfungsausschuss; Verfahrensrecht .............................................................................. 2|
+|§ 5 Zulassung zu den Prüfungen ........................................................................................... 2|
+|§ 6 Qualifikationsziele der beteiligten Studiengänge, Prüfungen ........................................... 2|
+|§ 7 Wiederholung von Prüfungen .......................................................................................... 2|
+|§ 8 Leistungsübersicht ........................................................................................................... 3|
+|§ 9 Inkrafttreten ..................................................................................................................... 3|
+|Anlage Studienverlaufsplan „Studium Philosophicum“ ........................................................... 4|
 
 ## **§ 1 Geltungsbereich; Ziele** 
 
 (1) Diese Studien- und Prüfungsordnung regelt die Ziele und Inhalte der Modulstudien „Studium Philosophicum“ an der Philosophischen Fakultät und Fachbereich Theologie der FAU gemäß Art. 77 Abs. 5 Satz 1 Nr. 1 **BayHIG** sowie die Ablegung der dazugehörigen Prüfungen. 
 
-(2)[1] Das Studium Philosophicum dient einer ersten Orientierung und der Verschaffung eines Überblicks für einen nachfolgenden erfolgreichen Einstieg in die in Abs. 3 genannten Zwei-Fach-Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie für Studienanfängerinnen und -anfänger sowie der Förderung der Durchlässigkeit zwischen den verschiedenen Disziplinen der Philosophischen Fakultät und Fachbereich Theologie.[2] Die Studierenden erwerben dabei erste grundlegende Kenntnisse im geisteswissenschaftlichen, kulturwissenschaftlichen, sprachwissenschaftlichen und/oder sozialwissenschaftlichen Bereich. 
+(2)<sup>1</sup> Das Studium Philosophicum dient einer ersten Orientierung und der Verschaffung eines Überblicks für einen nachfolgenden erfolgreichen Einstieg in die in Abs. 3 genannten Zwei-Fach-Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie für Studienanfängerinnen und -anfänger sowie der Förderung der Durchlässigkeit zwischen den verschiedenen Disziplinen der Philosophischen Fakultät und Fachbereich Theologie.<sup>2</sup> Die Studierenden erwerben dabei erste grundlegende Kenntnisse im geisteswissenschaftlichen, kulturwissenschaftlichen, sprachwissenschaftlichen und/oder sozialwissenschaftlichen Bereich. 
 
 (3) Am Studium Philosophicum können sich grundsätzlich alle Teilstudiengänge der Zwei-Fach-Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie beteiligen. 
 
@@ -34,11 +44,11 @@ Aufgrund von Art. 9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Satz
 
 1 
 
-(2)[1] Die Regelstudienzeit beträgt ein Semester; eine einmalige Rückmeldung ist möglich, ein erneutes Studium ist ausgeschlossen.[2] Im Rahmen des Studium Philosophicum können Module im Umfang von maximal 25 ECTS-Punkten absolviert werden; im Falle der Rückmeldung zu einem zweiten Semester erhöht sich der Umfang auf insgesamt maximal 50 ECTS-Punkte.[3] Der Umfang der im Rahmen des Studium Philosophicum angebotenen Module richtet sich nach der **Anlage** .[4] Pro Teilstudiengang können pro Semester maximal 10 ECTS-Punkte erworben werden. 
+(2)<sup>1</sup> Die Regelstudienzeit beträgt ein Semester; eine einmalige Rückmeldung ist möglich, ein erneutes Studium ist ausgeschlossen.<sup>2</sup> Im Rahmen des Studium Philosophicum können Module im Umfang von maximal 25 ECTS-Punkten absolviert werden; im Falle der Rückmeldung zu einem zweiten Semester erhöht sich der Umfang auf insgesamt maximal 50 ECTS-Punkte.<sup>3</sup> Der Umfang der im Rahmen des Studium Philosophicum angebotenen Module richtet sich nach der **Anlage** .<sup>4</sup> Pro Teilstudiengang können pro Semester maximal 10 ECTS-Punkte erworben werden. 
 
 ## **§ 3 Qualifikationsvoraussetzungen** 
 
-1Für den Zugang zum Studium Philosophicum gelten dieselben Voraussetzungen wie für den grundständigen Studiengang, dem das jeweilige Modul zugeordnet ist (Art. 88 Abs. 8 Satz 1 **BayHIG** ).[2] Aufgrund der Breite des Angebots ist die Gewährung des Zugangs mit einer fachgebundenen Hochschulzugangsberechtigung nicht zulässig. 3Abweichend von Satz 2 ist die Gewährung des Zugangs mit erfolgreich bestandener Feststellungsprüfung des G-Kurses des Studienkollegs zulässig.[4] Darüber hinaus bestehende Qualifikationsvoraussetzungen bleiben unberührt. 
+1Für den Zugang zum Studium Philosophicum gelten dieselben Voraussetzungen wie für den grundständigen Studiengang, dem das jeweilige Modul zugeordnet ist (Art. 88 Abs. 8 Satz 1 **BayHIG** ).<sup>2</sup> Aufgrund der Breite des Angebots ist die Gewährung des Zugangs mit einer fachgebundenen Hochschulzugangsberechtigung nicht zulässig. 3Abweichend von Satz 2 ist die Gewährung des Zugangs mit erfolgreich bestandener Feststellungsprüfung des G-Kurses des Studienkollegs zulässig.<sup>4</sup> Darüber hinaus bestehende Qualifikationsvoraussetzungen bleiben unberührt. 
 
 ## **§ 4 Prüfungsausschuss; Verfahrensrecht** 
 
@@ -48,17 +58,17 @@ Aufgrund von Art. 9 in Verbindung mit Art. 77 Abs. 5 Satz 2, Art. 80 Abs. 1 Satz
 
 ## **§ 5 Zulassung zu den Prüfungen** 
 
-1Mit der Immatrikulation in das Studium Philosophicum gelten Studierende zu den Modulprüfungen der Modulstudien als zugelassen.[2] Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits in einem Studiengang oder im Rahmen sonstiger Studien erfolgt ist. 
+1Mit der Immatrikulation in das Studium Philosophicum gelten Studierende zu den Modulprüfungen der Modulstudien als zugelassen.<sup>2</sup> Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits in einem Studiengang oder im Rahmen sonstiger Studien erfolgt ist. 
 
 ## **§ 6 Qualifikationsziele der beteiligten Studiengänge, Prüfungen** 
 
 (1) Die Qualifikationsziele der beteiligten Teilstudiengänge ergeben sich aus den jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnungen** . 
 
-(2)[1] Gegenstände sowie Art und Umfang der Prüfungen richten sich an den Qualifikationszielen der einzelnen Teilstudiengänge nach Abs. 1 aus und ergeben sich aus den jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnungen** .[2] Die wählbaren Module sowie Art und Umfang der Prüfungen werden zu Semesterbeginn in einem entsprechenden Katalog ortsüblich bekannt gegeben. 
+(2)<sup>1</sup> Gegenstände sowie Art und Umfang der Prüfungen richten sich an den Qualifikationszielen der einzelnen Teilstudiengänge nach Abs. 1 aus und ergeben sich aus den jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnungen** .<sup>2</sup> Die wählbaren Module sowie Art und Umfang der Prüfungen werden zu Semesterbeginn in einem entsprechenden Katalog ortsüblich bekannt gegeben. 
 
 ## **§ 7 Wiederholung von Prüfungen** 
 
-(1)[1] Eine im Rahmen des Studiums Philosophicum nicht bestandene Modulprüfung kann einmal wiederholt werden (Art. 84 Abs. 3 Satz 1 Nr. 11 **BayHIG** ).[2] Eine zweite Wiederholung ist ausgeschlossen. 
+(1)<sup>1</sup> Eine im Rahmen des Studiums Philosophicum nicht bestandene Modulprüfung kann einmal wiederholt werden (Art. 84 Abs. 3 Satz 1 Nr. 11 **BayHIG** ).<sup>2</sup> Eine zweite Wiederholung ist ausgeschlossen. 
 
 2 
 
@@ -70,31 +80,26 @@ Der Nachweis über die im Rahmen des Studiums Philosophicum erfolgreich abgelegt
 
 ## **§ 9 Inkrafttreten** 
 
-1Diese Studien- und Prüfungsordnung tritt am 1. April 2025 in Kraft. 2Sie gilt für alle Studierenden, die das Studium Philosophicum ab dem Sommersemester 2025 aufnehmen werden und für alle Studierenden, die zu diesem Zeitpunkt bereits in den Modulstudien „Studium Philosophicum“ an der FAU immatrikuliert sind.[3] Gleichzeitig tritt die Studien- und Prüfungsordnung für die Modulstudien „Studium Philosophicum“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/StudPhil – vom 1. Juli 2021, zuletzt geändert durch Satzung vom 30. Mai 2022, außer Kraft. 
+1Diese Studien- und Prüfungsordnung tritt am 1. April 2025 in Kraft. 2Sie gilt für alle Studierenden, die das Studium Philosophicum ab dem Sommersemester 2025 aufnehmen werden und für alle Studierenden, die zu diesem Zeitpunkt bereits in den Modulstudien „Studium Philosophicum“ an der FAU immatrikuliert sind.<sup>3</sup> Gleichzeitig tritt die Studien- und Prüfungsordnung für die Modulstudien „Studium Philosophicum“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/StudPhil – vom 1. Juli 2021, zuletzt geändert durch Satzung vom 30. Mai 2022, außer Kraft. 
 
 3 
 
 ## **Anlage** Studienverlaufsplan „Studium Philosophicum“ 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**|**SWS**|**ECTS-**<br>**Punkte**|**Art und Umfang der Prüfung1 **|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|
-|||**V**|||||||
-||||**Ü**|**P**|**S**||||
-||||||||||
-|**Es können pro Semester Module im Umfang von maximal 25 ECTS-Punkten belegt**<br>**Satz 4).**||**werden; davon pro Semester maximal 10 ECTS-Punkte pro Teilstudiengang (vgl. § 2 Abs. 2**|||||||
-||||||||||
-|Studium Philosophicum 1|vgl. FPO des entsprechenden Teilstudiengangs|||||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 2|vgl. FPO des entsprechenden Teilstudiengangs|||||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 3|vgl. FPO des entsprechenden Teilstudiengangs|||||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 4|vgl. FPO des entsprechenden Teilstudiengangs|||||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 5|vgl. FPO des entsprechenden Teilstudiengangs|||||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 6|vgl. FPO des entsprechenden Teilstudiengangs|||||**(7,5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 7|vgl. FPO des entsprechenden Teilstudiengangs|||||**(7,5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 8|vgl. FPO des entsprechenden Teilstudiengangs|||||**(10)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Studium Philosophicum 9|vgl. FPO des entsprechenden Teilstudiengangs|||||**(10)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
-|Schlüsselqualifikationsmodul|**2**|||||**(5)**|**2**|0|
-|**Summe SWS:**|||||||||
-|**Summen (SWS bzw. ECTS-Punkte):**||||||**max. 25/**<br>**Semes-**<br>**ter**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**V**|**SWS**<br>**Ü**<br>**P**<br>**S**|**ECTS-**<br>**Punkte**|**Art und Umfang der Prüfung**<sup>**1**</sup>|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|
+|**Es können pro Semester Module i**<br>**Satz 4).**|<br>**m Umfang von maximal 25 ECTS-Punkten belegt werden**|<br> <br> <br>**; davon pro Semester**|<br>**maximal 1**|**0 ECTS-Punkte pro Teilstudiengang (vgl. §**<br>|**note**<br>**2 Abs. 2**|
+|Studium Philosophicum 1|vgl. FPO des entsprechenden Teilstudiengangs||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 2|vgl. FPO des entsprechenden Teilstudiengangs||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 3|vgl. FPO des entsprechenden Teilstudiengangs||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 4|vgl. FPO des entsprechenden Teilstudiengangs||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 5|vgl. FPO des entsprechenden Teilstudiengangs||**(5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 6|vgl. FPO des entsprechenden Teilstudiengangs||**(7,5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 7|vgl. FPO des entsprechenden Teilstudiengangs||**(7,5)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 8|vgl. FPO des entsprechenden Teilstudiengangs||**(10)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Studium Philosophicum 9|vgl. FPO des entsprechenden Teilstudiengangs||**(10)**|vgl. FPO des entsprechenden Teilstudien-<br>gangs|0|
+|Schlüsselqualifikationsmodul|**2**||**(5)**|**2**|0|
+||**Summe SWS:**<br>**Summen (SWS bzw. ECTS-Punkte):**||**max. 25/**<br>**Semes-**<br>**ter**|||
 
 > **1** vgl. § 6 Abs. 2. 
 

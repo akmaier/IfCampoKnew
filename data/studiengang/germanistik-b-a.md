@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor, Studiengang mit Doppelabschluss, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:45:40+00:00
+scraped_at: 2026-07-01T08:22:18+00:00
 ---
 
 # Germanistik (B.A.)
@@ -39,7 +39,7 @@ In der **Älteren deutschen Literaturgeschichte (Mediävistik)** lernt man, mi
 
 Die **Sprachwissenschaft (Linguistik)** beschäftigt sich mit der Struktur und mit der Verwendung von Sprache. Die Sprache ist dabei Untersuchungsgegenstand als etwas Materielles, hörbar oder schriftlich fixiert, das auf seine Bestandteile, Einheiten und Funktionen hin analysiert werden kann. Die Sprache ist auch das Kommunikationsmittel, dessen sich der Mensch bedient. Unter diesem Aspekt werden im Studium etwa die Spezifik mündlicher gegenüber schriftlicher Kommunikation, sprachliche Varietäten wie Dialekte und Umgangssprachen sowie auch die historische Veränderlichkeit von Sprache zum Thema.
 
-### Bachelor of Arts (2 Fächer) Germanistik
+### Fachanteile des Studiengangs Germanistik (B.A.)
 
 * Linguistik (33%)
 * Neuere deutsche Literaturwissenschaft (22%)
@@ -89,7 +89,7 @@ Nach einem Germanistikstudium arbeitet man zum Beispiel…
 
 * [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 * [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [English and American Studies](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/english-and-american-studies-ba/)
 * [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
@@ -190,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Prof. Dr. Rivoletti](https://www.romanistik.phil.fau.de/institut/mitarbeiterinnen/rivoletti/)
 - [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 - [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [English and American Studies](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/english-and-american-studies-ba/)
 - [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
@@ -234,7 +234,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.germanistik.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [PANORAMO - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Germanistik_BA_AdobeStock.jpeg)
+- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Germanistik-BA-AdobeStock_292608623.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Zwei-Fach-Bachelor"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:15:13+00:00
+scraped_at: 2026-07-01T10:31:28+00:00
 ---
 
 # Zwei-Fach-Bachelor
@@ -39,7 +39,8 @@ Indem Sie auf einen der nachfolgenden Studiengänge klicken, erhalten Sie weiter
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [2-Fach-BA Buchwissenschaft FPO B.A. BuWi 20071005 i.d.F. 20181207.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Buchwissenschaft_FPO_B.A._BuWi_20071005_idF_20181207.pdf) | 189 KB |
+| [FPO BA BuWi 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/FPO_BA_BuWi_20260630.pdf) | 398 KB |
+| [FPO BA BuWi 20071005 i.d.F. 20181207.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/FPO_BA_BuWi_20071005_idF_20181207.pdf) | 189 KB |
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
@@ -748,7 +749,7 @@ Indem Sie auf einen der nachfolgenden Studiengänge klicken, erhalten Sie weiter
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions- und Habilitationsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (538)
+## Prüfungsordnungen-Dokumente (539)
 
 - [2-Fach-BA Archäologische Wissenschaften FPO Archäol Wiss Zwei-Fach 20240430.pdf](2-fach-ba-archaeologische-wissenschaften-fpo-archaeol-wiss-zwei-fach-20240430.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Archaeologie/konsolidierte_Fassungen/2-Fach-BA_Archaeologische_Wissenschaften_FPO_Archaeol_Wiss_Zwei-Fach_20240430.pdf>
 - [2-Fach-BA Archäologische Wissenschaften FPO Archäol Wiss Zwei-Fach 20140718 i.d.F. 20190220.pdf](2-fach-ba-archaeologische-wissenschaften-fpo-archaeol-wiss-zwei-fach-20140718-idf-20190220.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Archaeologie/konsolidierte_Fassungen/2-Fach-BA_Archaeologische_Wissenschaften_FPO_Archaeol_Wiss_Zwei-Fach_20140718_idF_20190220.pdf>
@@ -758,7 +759,8 @@ Indem Sie auf einen der nachfolgenden Studiengänge klicken, erhalten Sie weiter
 - [11. August 2015](1aes-fpo-2fba-archaeologwiss.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_FPO_2FBA_ArchaeologWiss.pdf>
 - [PDF vom 18.07.2014 i.d.F. 11.08.2015](2fachba-archaeologischewissenschaften-aug2015.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/2FachBA_ArchaeologischeWissenschaften_AUG2015.pdf>
 - [PDF vom 18.07.2014](2fachba-archaeologischewissenschaften.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/2FachBA_ArchaeologischeWissenschaften.pdf>
-- [2-Fach-BA Buchwissenschaft FPO B.A. BuWi 20071005 i.d.F. 20181207.pdf](2-fach-ba-buchwissenschaft-fpo-b-a-buwi-20071005-idf-20181207.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/2-Fach-BA_Buchwissenschaft_FPO_B.A._BuWi_20071005_idF_20181207.pdf>
+- [FPO BA BuWi 20260630.pdf](fpo-ba-buwi-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/FPO_BA_BuWi_20260630.pdf>
+- [FPO BA BuWi 20071005 i.d.F. 20181207.pdf](fpo-ba-buwi-20071005-idf-20181207.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/konsolidierte_Fassungen/FPO_BA_BuWi_20071005_idF_20181207.pdf>
 - [2-Fach-BA Buchwissenschaft FPO B.A. BuWi 20181207 ÄS.pdf](2-fach-ba-buchwissenschaft-fpo-b-a-buwi-20181207-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/Aenderungssatzungen/2-Fach-BA_Buchwissenschaft_FPO_B.A._BuWi_20181207_AeS.pdf>
 - [17. Februar 2014](aes-sammel-bas-2fach.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/AES-Sammel-BAs-2fach.pdf>
 - [PDF vom 05.10.2007 i.d.F. 17.02.2014](fachstuo-pro-buchwiss-feb2014.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Buchwiss.FEB2014.pdf>

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 07.06.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_ChemEngin-NachhaltigeChemTechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:58:31+00:00
-page_count_chars: 12714
+scraped_at: 2026-07-01T11:21:08+00:00
+page_count_chars: 12598
 ---
 
 # PDF vom 07.06.2011
@@ -14,7 +14,7 @@ page_count_chars: 12714
 
 **Der Text dieser Fachprüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemical Engineering - Nachhaltige Chemische Technologien der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE-NCT-BScMSc) Vom 7. Juni 2011** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemical Engineering - Nachhaltige Chemische Technologien der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCE-NCT-BScMSc) Vom 7. Juni 2011** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) in Verbindung mit § 57 QualV erlässt die Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
@@ -22,13 +22,13 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 34 Geltungsbereich** 
 
-1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im Masterstudiengang Chemical Engineering - Nachhaltige Chemische Technologien mit den Abschlusszielen Bachelor und Master.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
+1Die Fachprüfungsordnung regelt die Prüfung im Bachelor- und im Masterstudiengang Chemical Engineering - Nachhaltige Chemische Technologien mit den Abschlusszielen Bachelor und Master.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg in der jeweils geltenden Fassung. 
 
 ## **§ 35 Bachelorstudiengang, Regelstudienzeit, Studienbeginn** 
 
 (1) Die Regelstudienzeit im Bachelorstudiengang Nachhaltige Chemische Technologien umfasst, einschließlich der Zeit zur Erstellung der Bachelorarbeit und einer berufspraktischen Tätigkeit von sechs Wochen, sechs Semester. 
 
-(2)[1] Das Bachelorstudium Chemical Engineering - Nachhaltige Chemische Technologien beginnt jeweils zum Sommersemester 2011 sowie Sommersemester 2012. 2Ab dem Wintersemester 2013/2014 nur noch zum Wintersemester. 
+(2)<sup>1</sup> Das Bachelorstudium Chemical Engineering - Nachhaltige Chemische Technologien beginnt jeweils zum Sommersemester 2011 sowie Sommersemester 2012. 2Ab dem Wintersemester 2013/2014 nur noch zum Wintersemester. 
 
 ## **§ 36 Masterstudiengang, Regelstudienzeit, Studienbeginn** 
 
@@ -40,7 +40,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 
 
 ## **§ 37 Umfang der Grundlagen- und Orientierungsprüfung** 
 
-(1)[1] Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der Spalte 2 der **Anlage 1** ausgewiesenen Module 
+- (1)<sup>1</sup> Die Grundlagen- und Orientierungsprüfung (GOP) umfasst die in der Spalte 2 der **Anlage 1** ausgewiesenen Module 
 
 1. B1: Mathematik D1, 
 
@@ -116,7 +116,7 @@ t)  B25: Thermische Verfahrenstechnik
 
 ## **§ 39 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen im Bereich der Nachhaltigen Chemischen Technologien zu erlernen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.[5] Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTSPunkten veranschlagt. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen im Bereich der Nachhaltigen Chemischen Technologien zu erlernen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Bachelorarbeit und deren Ergebnisse sind im Rahmen eines max. 30 Minuten dauernden Referates mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach der Abgabe der Arbeit bzw. während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Die Bachelorarbeit wird mit 12, das Referat mit 3 ECTSPunkten veranschlagt. 
 
 2 
 
@@ -126,9 +126,7 @@ t)  B25: Thermische Verfahrenstechnik
 
 ## **2. Masterstudium** 
 
-**§ 40 Umfang und Gliederung der Masterprüfung** 
-
-(wird durch Änderungssatzung eingefügt) 
+**§ 40 Umfang und Gliederung der Masterprüfung** (wird durch Änderungssatzung eingefügt) 
 
 **§ 41 Zulassungsvoraussetzungen für die Masterarbeit** (wird durch Änderungssatzung eingefügt) 
 
@@ -136,48 +134,48 @@ t)  B25: Thermische Verfahrenstechnik
 
 (wird durch Änderungssatzung eingefügt) 
 
-**§ 43 Zeugnis** (wird durch Änderungssatzung eingefügt) 
+**§ 43 Zeugnis** 
+
+(wird durch Änderungssatzung eingefügt) 
 
 ## **III. Übergangs- und Schlussbestimmungen** 
 
-**§ 44 Inkrafttreten und Übergangsvorschriften** 
+## **§ 44 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Die Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Sommersemester 2011 das Studium aufnehmen. 
+(1)<sup>1</sup> Die Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie findet erstmals Anwendung auf Studierende, die ab dem Sommersemester 2011 das Studium aufnehmen. 
 
 3 
 
 **Anlage 1a:** Module des Bachelorstudiums (bei Beginn im Sommersemester) mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer (Fortsetzung auf der nächsten Seite) 
 
-|Nr.|Modul|Modul|SWS|SWS|SWS||1. Sem.|2. Sem|3. Sem|4. Sem.|5. Sem.|6. Sem.|Prüfungsdauer in min|Prüfungsdauer in min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||schriftlich|mündlich|
-|B1|Mathematik D1|GOP|4|||75|7,5||||||90||
-||Übung|||2||,|||||||*)||
-|B2|Mathematik D2|GOP|4|||7,5||7,5|||||90||
-||Übung|||2|||||||||*)||
-|B3|Mathematik D3||4|||7,5|||7,5||||90||
-||Übung|||2|||||||||*)||
-|B4|Experimentalphysik|GOP|4|1||7,5||7,5|||||120||
-|B5|Allgemeine und Anorganische<br>Chemie||4|||||5|||||180||
-||Anorganisch-chemisches Praktikum|GOP|||2|7,5||25|||||*)||
-||Vorlesungzum Praktikum||1|||||,|||||*)||
-|B6|Organische Chemie||4|1||7,5||||5|||180||
-||Organisch-chemisches Praktikum||||3|||||2,5|||*)||
-|B7|Physikalische Chemie||2|1||10|||5||||90||
-||Physikalisch-chemisches Praktikum||||6|||||5|||*)||
-|B8|Chemische Thermodynamik||2|1||5|||5||||90||
-||Werkstoffkunde||2||||2,5||||||90||
-|B9|Chemische Prozesstechnik mit<br>Einführungsprojekt||2||3|7,5|5||||||*)||
-|B10|Technisches Zeichnen|||3||7,5||2,5|||||*)||
-||Konstruktionslehre||2|1|||||5||||180||
-|B11|Computeranwendungen in der VT|GOP|3|2||7,5|7,5||||||*)||
-|B12|Statik und Festigkeitslehre||3|2||7,5|7,5||||||90||
-|B13|Grundlagen der Elektrotechnik||3|1||5|||5||||90||
-|B14|Grenzflächen in der Verfahrens-<br>technik||2|1||5|||||2,5||*)||
-||Wärme- und Stoffübertragung||2|1|||||||2,5||*)||
-|B15|Messtechnik 1 - Grundlagen der<br>Mess- und Regeltechnik||2|1||5|||||||90||
-|||||||||5|||||||
-||||||||||||||||
+|Nr|Modul||SWS<br>||1. Sem.|2. Sem|3. Sem|4. Sem.|5. Sem.|6. Sem.|Prüfungsd|auer in min|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|.|||V<br>Ü<br>P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||schriftlich|mündlich|
+|B1|Mathematik D1<br>|GOP|4|75|7,5||||||90||
+||Übung||2|,|||||||*)||
+|B2|Mathematik D2<br>|GOP|4|75||7,5|||||90||
+||Übung||2|,|||||||*)||
+|B3|Mathematik D3<br>||4|75|||7,5||||90||
+||Übung||2|,|||||||*)||
+|B4|Experimentalphysik|GOP|4<br>1|7,5||7,5|||||120||
+||Allgemeine und Anorganische<br>Chemie||4|||5|||||180||
+|B5|Anorganisch-chemisches Praktikum|GOP|2|7,5||25|||||*)||
+||Vorlesungzum Praktikum||1|||,|||||*)||
+|B6|Organische Chemie||4<br>1|75||||5|||180||
+||Organisch-chemisches Praktikum||3|,||||2,5|||*)||
+|B7|Physikalische Chemie||2<br>1|10|||5||||90||
+||Physikalisch-chemisches Praktikum||6|||||5|||*)||
+|B8|Chemische Thermodynamik||2<br>1|5|||5||||90||
+||Werkstoffkunde||2||2,5||||||90||
+|B9|Chemische Prozesstechnik mit<br>Einführungsprojekt||2<br>3|7,5|5||||||*)||
+|B10|Technisches Zeichnen||3|75||2,5|||||*)||
+||Konstruktionslehre||2<br>1|,|||5||||180||
+|B11|Computeranwendungen in der VT|GOP|3<br>2|7,5|7,5||||||*)||
+|B12|Statik und Festigkeitslehre||3<br>2|7,5|7,5||||||90||
+|B13|Grundlagen der Elektrotechnik||3<br>1|5|||5||||90||
+|B14|Grenzflächen in der Verfahrens-<br>technik||2<br>1|5|||||2,5||*)||
+||Wärme- und Stoffübertragung||2<br>1||||||2,5||*)||
+|B15|Messtechnik 1 - Grundlagen der<br>Mess- und Regeltechnik||2<br>1|5||5|||||90||
 
 *) unbenotete Studienleistung 
 
@@ -185,36 +183,32 @@ t)  B25: Thermische Verfahrenstechnik
 
 **Anlage 1a:** Module des Bachelorstudiums (bei Beginn im Sommersemester 2011 und 2012) mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer (Fortsetzung) 
 
-|Nr.|Modul|SWS|SWS|SWS||1.Sem.|2.Sem|3.Sem|4.Sem.|5.Sem.|6.Sem.|Prüfungsdauer in min|Prüfungsdauer in min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|B16|Messtechnik 2 - Messmethoden und<br>Analytik|2|1|1|10|||5||||*)||
-|||||||||||||||
-||Messtechnik 3 - Prozessautomatisie-<br>rung|2|1|||||||||||
-||||||||||5|||||
-|B17|Nachhaltige Chemische Technologien 1<br>- Rohstoffe|3|1||5||||5|||90||
-|B18|Nachhaltige Chemische Technologien 2<br>- Verfahren|3|1||5|||||5||90||
-|B19|Nachhaltige Chemische Technologien 3<br>- Katalysatoren und Funktionsmateria-<br>lien|2|1||5|||||||*)||
-||||||||||||5|||
-|||||||||||||||
-||Praktikum|||1||||||||||
-|B20|Mechanische Verfahrenstechnik|2|1||5||||||5|120||
-||Praktikum|||1||||||||*)||
-|B21|Prozessmaschinen- und Apparatetech-<br>nik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B22|Chemische Reaktionstechnik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B23|Strömungsmechanik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B24|Technische Thermodynamik|2|1||5||||||5|120||
-||Praktikum|||1||||||||*)||
-|B25|Thermische Verfahrenstechnik|2|1||5||||5|||120||
-||Praktikum|||1||||||||*)||
-|B26|Industriepraktikum||||5|||||5||*)||
-|B27|Bachelorarbeit||||15||||||12|||
-||Referat||||||||||3|||
-||Summen SWS|74|33|22||||||||||
-||Summen ECTS||||180|30|30|32,5|27,5|30|30|||
+|Nr|Modul|S|WS<br>||1.Sem.<br>|2.Sem<br>|3.Sem<br>|4.Sem.<br>|5.Sem.<br>|6.Sem.<br>|Prüfungsd<br>|auer in min<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|.||V|Ü<br>P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
+|B16|Messtechnik 2 - Messmethoden und<br>Analytik|2|1<br>1|10|||5||||*)||
+||Messtechnik 3 - Prozessautomatisie-<br>rung|2|1|||||5|||||
+|B17|Nachhaltige Chemische Technologien 1<br>- Rohstoffe|3|1|5||||5|||90||
+|B18|Nachhaltige Chemische Technologien 2<br>- Verfahren|3|1|5|||||5||90||
+|B19|Nachhaltige Chemische Technologien 3<br>- Katalysatoren und Funktionsmateria-<br>lien|2|1|5||||||5|*)||
+||Praktikum||1||||||||||
+|B20|Mechanische Verfahrenstechnik<br>|2|1<br>|5||||||5|120<br>||
+||Praktikum||1||||||||*)||
+|B21|Prozessmaschinen- und Apparatetech-<br>nik|2|1|5|||||5||120||
+||Praktikum||1||||||||*)||
+|B22|Chemische Reaktionstechnik|2|1|5|||||5||120||
+||Praktikum||1||||||||*)||
+|B23|Strömungsmechanik<br>|2|1<br>|5|||||5||120<br>||
+||Praktikum||1||||||||*)||
+|B24|Technische Thermodynamik|2|1|5||||||5|120||
+||Praktikum||1||||||||*)||
+|B25|Thermische Verfahrenstechnik|2|1|5||||5|||120||
+||Praktikum||1||||||||*)||
+|B26|Industriepraktikum|||5|||||5||*)||
+|B27|Bachelorarbeit|||15||||||12|||
+||Referat|||||||||3|||
+||Summen SWS|74|33<br>22||||||||||
+||Summen ECTS|||180|30|30|32,5|27,5|30|30|||
 
 *) unbenotete Studienleistung 
 
@@ -222,38 +216,36 @@ t)  B25: Thermische Verfahrenstechnik
 
 A **nlage 1b:** Module des Bachelorstudiums (bei Beginn im Wintersemester )mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer (Fortsetzung auf der nächsten Seite) 
 
-|Nr.|Modul|Modul|SWS|SWS|SWS||1.Sem.|2.Sem|3.Sem|4.Sem.|5.Sem.|6.Sem.|Prüfungsdauer in min|Prüfungsdauer in min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||schriftlich|mündlich|
-|B1|Mathematik D1|GOP|4|||7,5|7,5||||||90||
-||Übung|||2|||||||||*)||
-|B2|Mathematik D2|GOP|4|||7,5||7,5|||||90||
-||Übung|||2|||||||||*)||
-|B3|Mathematik D3||4|||7,5|||7,5||||90||
-||Übung|||2|||||||||*)||
-|B4|Experimentalphysik|GOP|4|1||7,5|7,5||||||120||
-|B5|Allgemeine und Anorganische<br>Chemie|GOP|4|||7,5|5||||||180||
-||Anorganisch-chemisches Praktikum||||2||2,5||||||*)||
-||Vorlesungzum Praktikum||1||||||||||*)||
-|B6|Organische Chemie||4|1||7,5|||5||||180||
-||Organisch-chemisches Praktikum||||3||||2,5||||*)||
-|B7|Physikalische Chemie||2|1||10||||5|||90||
-||Physikalisch-chemisches Praktikum||||6||||||5||*)||
-|B8|Chemische Thermodynamik||2|1||5||||5|||90||
-|B9|Werkstoffkunde||2|||75||2,5|||||90||
-||Chemische Prozesstechnik mit EFP||2||3|,||5|||||*)||
-|B10|Technisches Zeichnen|||3||7,5|||2,5||||*)||
-||Konstruktionslehre||2|1||||||5|||180||
-|B11|Computeranwendungen in der VT|GOP|3|2||7,5|7,5||||||*)||
-|B12|Statik und Festigkeitslehre||3|2||7,5||7,5|||||90||
-|B13|Grundlagen der Elektrotechnik||3|1||5||5|||||90||
-|B14|Grenzflächen in der Verfahrens-<br>technik||2|1||5||||2,5|||*)||
-||Wärme- und Stoffübertragung||2|1||||||2,5|||*)||
-|B15|Messtechnik 1 - Grundlagen der<br>Mess- und Regeltechnik||2|1||5|||||||90||
-|||||||||5|||||||
-||||||||||||||||
-|B16|Messtechnik 2 - Messmethoden und<br>Analytik||2|1|1|10|||5||||*)||
-||Messtechnik 3 - Prozessautomati-<br>sierung||2|1|||||||5||*)||
+|Nr|Modul||SWS<br>||1.Sem.|2.Sem|3.Sem|4.Sem.|5.Sem.|6.Sem.|Prüfungsd|auer in min|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|.|||V<br>Ü<br>P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS||schriftlich|mündlich|
+|B1|Mathematik D1<br>|GOP|4|75|7,5||||||90||
+||Übung||2|,|||||||*)||
+|B2|Mathematik D2<br>|GOP|4|75||7,5|||||90||
+||Übung||2|,|||||||*)||
+|B3|Mathematik D3<br>||4|75|||7,5||||90||
+||Übung||2|,|||||||*)||
+|B4|Experimentalphysik|GOP|4<br>1|7,5|7,5||||||120||
+|B5|Allgemeine und Anorganische<br>Chemie|GOP|4|75|5||||||180||
+||Anorganisch-chemisches Praktikum||2|,|25||||||*)||
+||Vorlesungzum Praktikum||1||,||||||*)||
+|B6|Organische Chemie||4<br>1|75|||5||||180||
+||Organisch-chemisches Praktikum||3|,|||2,5||||*)||
+|B7|Physikalische Chemie||2<br>1|10||||5|||90||
+||Physikalisch-chemisches Praktikum||6||||||5||*)||
+|B8|Chemische Thermodynamik||2<br>1|5||||5|||90||
+|B9|Werkstoffkunde||2|75||2,5|||||90||
+||Chemische Prozesstechnik mit EFP||2<br>3|,||5|||||*)||
+|B10|Technisches Zeichnen||3|75|||2,5||||*)||
+||Konstruktionslehre||2<br>1|,||||5|||180||
+|B11|Computeranwendungen in der VT|GOP|3<br>2|7,5|7,5||||||*)||
+|B12|Statik und Festigkeitslehre||3<br>2|7,5||7,5|||||90||
+|B13|Grundlagen der Elektrotechnik||3<br>1|5||5|||||90||
+|B14|Grenzflächen in der Verfahrens-<br>technik||2<br>1|5||||2,5|||*)||
+||Wärme- und Stoffübertragung||2<br>1|||||2,5|||*)||
+|B15|Messtechnik 1 - Grundlagen der<br>Mess- und Regeltechnik||2<br>1|5||5|||||90||
+|B1|Messtechnik 2 - Messmethoden und<br>Analytik||2<br>1<br>1|10|||5||||*)||
+|6|Messtechnik 3 - Prozessautomati-<br>sierung||2<br>1||||||5||*)||
 
 *) unbenotete Studienleistung 
 
@@ -261,32 +253,29 @@ A **nlage 1b:** Module des Bachelorstudiums (bei Beginn im Wintersemester )mit A
 
 **Anlage 1b:** Module des Bachelorstudiums (bei Beginn im Wintersemester) mit Angabe der Leistungspunkte, der Verteilung auf die Semester sowie des Prüfungsmodus und der Prüfungsdauer (Fortsetzung) 
 
-|Nr.|Modul|SWS|SWS|SWS||1. Sem.|2. Sem|3. Sem|4. Sem.|5. Sem.|6. Sem.|Prüfungsdauer in min|Prüfungsdauer in min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|schriftlich|mündlich|
-|B17|Nachhaltige Chemische Technologien 1<br>- Rohstoffe|3|1||5|||5||||90||
-|B18|Nachhaltige Chemische Technologien 2<br>- Verfahren|3|1||5||||5|||90||
-|B19|Nachhaltige Chemische Technologien 3<br>- Katalysatoren und Funktionsmateria-<br>lien|2|1||5|||||||*)||
-||||||||||||5|||
-|||||||||||||||
-||Praktikum|||1||||||||||
-|B20|Mechanische Verfahrenstechnik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B21|Prozessmaschinen- und Apparatetech-<br>nik|2|1||5||||||5|120||
-||Praktikum|||1||||||||*)||
-|B22|Chemische Reaktionstechnik|2|1||5||||||5|120||
-||Praktikum|||1||||||||*)||
-|B23|Strömungsmechanik|2|1||5||||5|||120||
-||Praktikum|||1||||||||*)||
-|B24|Technische Thermodynamik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B25|Thermische Verfahrenstechnik|2|1||5|||||5||120||
-||Praktikum|||1||||||||*)||
-|B26|Industriepraktikum||||5|||||5||*)||
-|B27|Bachelorarbeit||||15||||||12|||
-||Referat||||||||||3|||
-||Summen SWS|74|33|22||||||||||
-||Summen ECTS||||180|30|32,5|27,5|30|30|30|||
+|Nr.|Modul|S<br>V|WS<br>Ü<br>P|ECTS|1. Sem.<br>ECTS|2. Sem<br>ECTS|3. Sem<br>ECTS|4. Sem.<br>ECTS|5. Sem.<br>ECTS|6. Sem.<br>ECTS|Prüfungsd<br>schriftlich|auer in min<br>mündlich|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|B17|Nachhaltige Chemische Technologien 1<br>- Rohstoffe|3|1|5|||5||||90||
+|B18|Nachhaltige Chemische Technologien 2<br>- Verfahren|3|1|5||||5|||90||
+|B19|Nachhaltige Chemische Technologien 3<br>- Katalysatoren und Funktionsmateria-<br>lien|2|1|5||||||5|*)||
+||Praktikum||1||||||||||
+|B20|Mechanische Verfahrenstechnik|2|1|5|||||5||120||
+||Praktikum||1||||||||*)||
+|B21|Prozessmaschinen- und Apparatetech-<br>nik|2|1|5||||||5|120||
+||Praktikum||1||||||||*)||
+|B22|Chemische Reaktionstechnik|2|1|5||||||5|120||
+||Praktikum||1||||||||*)||
+|B23|Strömungsmechanik|2|1|5||||5|||120||
+||Praktikum||1||||||||*)||
+|B24|Technische Thermodynamik|2|1|5|||||5||120||
+||Praktikum||1||||||||*)||
+|B25|Thermische Verfahrenstechnik|2|1|5|||||5||120||
+||Praktikum||1||||||||*)||
+|B26|Industriepraktikum|||5|||||5||*)||
+|B27|Bachelorarbeit|||15||||||12|||
+||Referat|||||||||3|||
+||Summen SWS|74|33<br>22||||||||||
+||Summen ECTS|||180|30|32,5|27,5|30|30|30|||
 
 *) unbenotete Studienleistung 
 

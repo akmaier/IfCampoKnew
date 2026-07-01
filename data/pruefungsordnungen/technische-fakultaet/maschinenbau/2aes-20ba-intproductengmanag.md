@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AES%20BA-IntProductEngManag.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:26:05+00:00
-page_count_chars: 1898
+scraped_at: 2026-07-01T11:43:41+00:00
+page_count_chars: 1913
 ---
 
 # 5. August 2011
@@ -14,17 +14,17 @@ page_count_chars: 1898
 
 **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang International Production Engineering and Management an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIP -** 
 
-## Vom 5. August 2011 
+# Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelorstudiengang International Production Engineering and Management an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOIP - vom 14. Juli 2010, geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
 1. In § 35 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Das Bachelorstudium beginnt jeweils zum Wintersemester.[2] Abweichend von Satz 1 kann das Bachelorstudium auch zum Sommersemester 2011 begonnen werden.“ 
+„(3)<sup>1</sup> Das Bachelorstudium beginnt jeweils zum Wintersemester.<sup>2</sup> Abweichend von Satz 1 kann das Bachelorstudium auch zum Sommersemester 2011 begonnen werden.“ 
 
 2. Die Anlage 1a wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ a) In den Zeilen 15/16 (Nr. B 6), Spalte 3 wird das Wort „GOP“ ersatzlos ges
 
 c) In der Zeile 42 (GOP), Spalte 6 wird die Zahl „32,5“ durch die Zahl „30“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

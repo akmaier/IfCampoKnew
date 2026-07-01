@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Februar 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/16AES_BA-WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:20:40+00:00
-page_count_chars: 10877
+scraped_at: 2026-07-01T10:38:35+00:00
+page_count_chars: 10956
 ---
 
 # 29. Februar 2016
@@ -12,31 +12,31 @@ page_count_chars: 10877
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/16AES_BA-WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Sechzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi -** 
+# **Sechzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi -** 
 
-## **Vom 29. Februar 2016** 
+# **Vom 29. Februar 2016** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi - vom 1. August 2006, zuletzt geändert durch Satzung vom 23. Juli 2015, wird wie folgt geändert: 
 
 1. In § 1 Abs. 1 werden die Worte „an der Wirtschafts- und Sozialwissenschaftlichen Fakultät“ durch die Worte „am Fachbereich Wirtschaftswissenschaften der Rechtsund Wirtschaftswissenschaftlichen Fakultät“ ersetzt. 
 
-## 2. § 2 wird wie folgt geändert: 
+# 2. § 2 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach dem Wort „Bachelorprüfung“ die Worte „in den Studiengängen Wirtschaftswissenschaften, International Business Studies und Sozialökonomik“ eingefügt. 
 
 - b) In Abs. 2 wird nach dem Wort „Bachelorprüfung“ das Wort „in“ durch die Worte „im Studiengang“ ersetzt. 
 
-## 3. § 3 wird wie folgt geändert: 
+# 3. § 3 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „Regelstudienzeit“ ein Komma und die Worte „Unterrichts- und Prüfungssprache“ angefügt. 
 
 - b) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die Unterrichts- und Prüfungssprache in den Bachelorstudiengängen ist Deutsch.[2] Einzelne Module können in einer Fremdsprache, insbesondere in Englisch, abgehalten und abgeprüft werden; Näheres regelt das Modulhandbuch.“ 
+„(4)<sup>1</sup> Die Unterrichts- und Prüfungssprache in den Bachelorstudiengängen ist Deutsch.<sup>2</sup> Einzelne Module können in einer Fremdsprache, insbesondere in Englisch, abgehalten und abgeprüft werden; Näheres regelt das Modulhandbuch.“ 
 
 1 
 
@@ -56,13 +56,13 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 7. § 10 Abs. 2 wird wie folgt geändert: 
 
-   - a) Vor dem Wort „Ein“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+   - a) Vor dem Wort „Ein“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
    - b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine bzw. ihre Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.“ 
+„<sup>2</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine bzw. ihre Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.“ 
 
-## 8. § 11 wird wie folgt geändert: 
+# 8. § 11 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach dem Wort „Prüfungsart,“ das Wort „der“ eingefügt und nach dem Wort „Rücktritt“ ein Komma und die Worte „Folgen eines verspäteten Rücktritts“ angefügt. 
 
@@ -70,21 +70,21 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 - c) Abs. 3 wird wie folgt geändert: 
 
-aa) Vor dem Wort „Unbeschadet“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+aa) Vor dem Wort „Unbeschadet“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
 bb) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt: 
 
 2 
 
-„[2] Mit dem wirksamen Rücktritt erlischt die Anmeldung.[3] Die Folgen eines verspäteten Rücktritts richten sich nach Abs. 4.“ 
+„<sup>2</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung.<sup>3</sup> Die Folgen eines verspäteten Rücktritts richten sich nach Abs. 4.“ 
 
 9. In § 12 Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung,“ gestrichen. 
 
-## 10. § 13 wird wie folgt geändert: 
+# 10. § 13 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-aa) Vor dem Wort „Bei“ wird die hochgestellte Zahl „[1] “ gestrichen. 
+aa) Vor dem Wort „Bei“ wird die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) Satz 2 wird zu Abs. 2; Satz 3 wird gestrichen. 
 
@@ -92,7 +92,7 @@ bb) Satz 2 wird zu Abs. 2; Satz 3 wird gestrichen.
 
 „Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
-11. § 15 wird wie folgt geändert: 
+# 11. § 15 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach den Worten „derselben wiederholt“ die Worte „wird bzw.“ eingefügt. 
 
@@ -100,27 +100,27 @@ bb) Satz 2 wird zu Abs. 2; Satz 3 wird gestrichen.
 
 12. In § 17 Abs. 3 Satz 1 werden nach den Worten „die wegen“ die Worte „der Absolvierung“ eingefügt, die Worte „Wechsels in ein Auslandsstudium“ werden durch das Wort „Auslandssemesters“ ersetzt. 
 
-13. § 18 wird wie folgt geändert: 
+# 13. § 18 wird wie folgt geändert: 
 
-   - a) Abs. 2 Satz 2 wird gestrichen; die bisherigen Sätze 3 bis 7 werden zu Sätzen 2 bis 6. 
+- a) Abs. 2 Satz 2 wird gestrichen; die bisherigen Sätze 3 bis 7 werden zu Sätzen 2 bis 6. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden im Klammerzusatz nach dem Wort „Single-“ das Wort „und“ und das Zeichen „/“ eingefügt. 
+   - aa) In Satz 1 werden im Klammerzusatz nach dem Wort „Single-“ das Wort „und“ und das Zeichen „/“ eingefügt. 
 
-      - bb) Nach Satz 1 werden folgende neue Sätze 2 bis 4 eingefügt: 
+   - bb) Nach Satz 1 werden folgende neue Sätze 2 bis 4 eingefügt: 
 
 3 
 
-„[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgehalten werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgehalten werden, regelt das Modulhandbuch.<sup>3</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>4</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
 
 cc) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 5 bis 10. 
 
-      - dd) In Satz 7 (neu) werden die Worte „zuverlässige Prüfungsergebnisse ermöglichen“ durch die Worte „gemessen an den Anforderungen des Satzes 4 fehlerhaft sind“ ersetzt. 
+- dd) In Satz 7 (neu) werden die Worte „zuverlässige Prüfungsergebnisse ermöglichen“ durch die Worte „gemessen an den Anforderungen des Satzes 4 fehlerhaft sind“ ersetzt. 
 
-14. § 21 wird wie folgt geändert: 
+# 14. § 21 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden die Worte „bzw. „erfolgreich teilgenommen“ oder „nicht erfolgreich teilgenommen“ gestrichen. 
+- a) In Abs. 1 Satz 2 werden die Worte „bzw. „erfolgreich teilgenommen“ oder „nicht erfolgreich teilgenommen“ gestrichen. 
 
 b) Abs. 6 Satz 2 wird wie folgt geändert: 
 
@@ -130,23 +130,23 @@ b) Abs. 6 Satz 2 wird wie folgt geändert:
 
 - cc) Nach den Worten „Assessmentphase mit einer“ wird das Wort „weiteren“ eingefügt. 
 
-## 15. § 23 Abs. 2 wird wie folgt geändert: 
+# 15. § 23 Abs. 2 wird wie folgt geändert: 
 
-- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+# a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Einsicht wird durch die Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
+„<sup>2</sup> Die Einsicht wird durch die Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
 
-   - b) Der bisherige Satz 2 wird zu Satz 3; der bisherige Satz 3 wird gestrichen. 
+b) Der bisherige Satz 2 wird zu Satz 3; der bisherige Satz 3 wird gestrichen. 
 
 16. § 24 Abs. 2 Satz 2 wird gestrichen; die bisherigen Sätze 3 bis 6 werden zu Sätzen 2 bis 5. 
 
-## 17. § 26 Abs. 3 wird wie folgt geändert: 
+# 17. § 26 Abs. 3 wird wie folgt geändert: 
 
 - a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
 4 
 
-„[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
+„<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
 
    - b) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -154,27 +154,27 @@ b) Abs. 6 Satz 2 wird wie folgt geändert:
 
 18. § 29 Satz 3 wird gestrichen; der bisherige Satz 4 wird zu Satz 3. 
 
-## 19. § 30 wird wie folgt geändert: 
+# 19. § 30 wird wie folgt geändert: 
 
-   - a) In Abs. 5 Satz 1 werden die Worte „im Zweiten Abschnitt“ gestrichen. 
+- a) In Abs. 5 Satz 1 werden die Worte „im Zweiten Abschnitt“ gestrichen. 
 
-   - b) In Abs. 6 Satz 3 werden nach den Worten „angenommen wurde“ das Zeichen „;“ und die Worte „§ 12 bleibt unberührt“ angefügt. 
+- b) In Abs. 6 Satz 3 werden nach den Worten „angenommen wurde“ das Zeichen „;“ und die Worte „§ 12 bleibt unberührt“ angefügt. 
 
-   - c) In Abs. 7 Satz 1 werden die Zahl „4“ durch die Zahl „2“ und die Zahl „6“ durch die Zahl „5“ ersetzt. 
+- c) In Abs. 7 Satz 1 werden die Zahl „4“ durch die Zahl „2“ und die Zahl „6“ durch die Zahl „5“ ersetzt. 
 
-20. § 31 wird wie folgt geändert: 
+# 20. § 31 wird wie folgt geändert: 
 
-   - a) In Abs. 2 Satz 2 werden nach den Worten „und abgeschlossen werden“ das Zeichen „;“ und die Worte „die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet“ angefügt. 
+- a) In Abs. 2 Satz 2 werden nach den Worten „und abgeschlossen werden“ das Zeichen „;“ und die Worte „die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet“ angefügt. 
 
-   - b) In Abs. 3 werden die Worte „im Zweiten Abschnitt“ durch die Worte „in den **Anlagen** bzw. dem Modulhandbuch“ ersetzt. 
+- b) In Abs. 3 werden die Worte „im Zweiten Abschnitt“ durch die Worte „in den **Anlagen** bzw. dem Modulhandbuch“ ersetzt. 
 
-## 21. § 32 wird wie folgt geändert: 
+# 21. § 32 wird wie folgt geändert: 
 
-- a) Nach dem Wort „[1] Im“ werden die Worte „Bachelorstudiengang Wirtschaftswissenschaften mit“ eingefügt. 
+- a) Nach dem Wort „<sup>1</sup> Im“ werden die Worte „Bachelorstudiengang Wirtschaftswissenschaften mit“ eingefügt. 
 
 - b) In Satz 3 werden nach dem Wort „definiert“ die Worte „und in der jeweiligen **(Fach-)Prüfungsordnung** bzw. im Modulhandbuch geregelt“ angefügt. 
 
-## 22. Anlage 1 wird wie folgt geändert: 
+# 22. Anlage 1 wird wie folgt geändert: 
 
 - a) In der Tabelle in Anlage 1.1 werden in der ersten Zeile die Worte „gültig für Studierende mit Studienbeginn ab Wintersemester 2010/11“ gestrichen. 
 

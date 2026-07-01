@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-Allg%20BA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:30+00:00
-page_count_chars: 4490
+scraped_at: 2026-07-01T09:28:16+00:00
+page_count_chars: 4544
 ---
 
 # 1. September 2009
@@ -12,9 +12,9 @@ page_count_chars: 4490
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-Allg%20BA%20Phil.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/>
 
-## **Dritte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABStPO/Phil -** 
+# **Dritte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABStPO/Phil -** 
 
-## Vom 1. September 2009 
+# Vom 1. September 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -22,25 +22,25 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hoc
 
 > Die Allgemeine Studien- und Prüfungsordnung für die Bachelorstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg – ABStPO/Phil - vom 27. September 2007, zuletzt geändert durch Satzung vom 5. August 2008, wird wie folgt geändert: 
 
-## 1. Das Inhaltsverzeichnis wird wie folgt geändert: 
+# 1. Das Inhaltsverzeichnis wird wie folgt geändert: 
 
-## a. § 30 wird gestrichen. 
+# a. § 30 wird gestrichen. 
 
-## b. Die Paragraphen 31 bis 33 werden Paragraphen 30 bis 32. 
+# b. Die Paragraphen 31 bis 33 werden Paragraphen 30 bis 32. 
 
-## 2. In § 6 Abs. 2 werden folgende Sätze 5 bis 7 angefügt: 
+2. In § 6 Abs. 2 werden folgende Sätze 5 bis 7 angefügt: 
 
-„[5] Die Prüfungen mit Ausnahme von Hausarbeiten finden in der Regel innerhalb des achtwöchigen Prüfungszeitraums statt.[6 ] Der Prüfungszeitraum unterteilt sich in einen Abschnitt von zwei Wochen vor und zwei Wochen nach dem Vorlesungsende eines Semesters, in dem die Erstversuche abgelegt werden und in einen Abschnitt von zwei Wochen vor und zwei Wochen nach dem Vorlesungsbeginn des Folgesemesters, in dem die Wiederholungsprüfungen stattfinden.“ 
+„<sup>5</sup> Die Prüfungen mit Ausnahme von Hausarbeiten finden in der Regel innerhalb des achtwöchigen Prüfungszeitraums statt.<sup>6</sup> Der Prüfungszeitraum unterteilt sich in einen Abschnitt von zwei Wochen vor und zwei Wochen nach dem Vorlesungsende eines Semesters, in dem die Erstversuche abgelegt werden und in einen Abschnitt von zwei Wochen vor und zwei Wochen nach dem Vorlesungsbeginn des Folgesemesters, in dem die Wiederholungsprüfungen stattfinden.“ 
 
-## 3. § 26 wird wie folgt geändert: 
+3. § 26 wird wie folgt geändert: 
 
-- a. In Abs. 1 Satz 2 Nr. 5 werden nach dem Wort „Zwischenprüfung“ ein Komma und die Worte „die Magisterprüfung, die Diplomvorprüfung, die Diplomprüfung“ eingefügt. 
+   - a. In Abs. 1 Satz 2 Nr. 5 werden nach dem Wort „Zwischenprüfung“ ein Komma und die Worte „die Magisterprüfung, die Diplomvorprüfung, die Diplomprüfung“ eingefügt. 
 
-- b. In Abs. 1 Satz 2 Nr. 5 wird nach dem Wort „entspricht“ und dem Komma, das Wort „endgültig“ eingefügt. 
+   - b. In Abs. 1 Satz 2 Nr. 5 wird nach dem Wort „entspricht“ und dem Komma, das Wort „endgültig“ eingefügt. 
 
-- c. Abs. 2 Satz 4 wird wie folgt geändert: 
+   - c. Abs. 2 Satz 4 wird wie folgt geändert: 
 
-   - aa. In Nr. 1 werden die Worte „;für Lateinkenntnisse auch durch das Latinum;“ gestrichen. 
+      - aa. In Nr. 1 werden die Worte „;für Lateinkenntnisse auch durch das Latinum;“ gestrichen. 
 
 - bb. Nr. 2 erhält folgende neue Fassung: 
 
@@ -66,9 +66,9 @@ Im Satz 3 werden nach den Worten „Die Überschneidungsfreiheit kann“ die Wor
 
 - b. Es werden folgende neue Abs. 3 – 5 angefügt: 
 
-„(3)[1] Studierende, die vor dem Wintersemester 2007/08 das Studium im Diplomstudiengang Politikwissenschaften aufgenommen haben, beenden ihr Studium nach der Prüfungsordnung für den DiplomStudiengang Politikwissenschaft an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 29. Oktober 1997 (KWMBl II 1998 S. 190), zuletzt geändert durch Satzung vom 12. April 2002 (KWMBl II 2003 S. 1232).[2] Prüfungen nach dieser Prüfungsordnung werden letztmals im Sommersemester 2014 angeboten. 
+„(3)<sup>1</sup> Studierende, die vor dem Wintersemester 2007/08 das Studium im Diplomstudiengang Politikwissenschaften aufgenommen haben, beenden ihr Studium nach der Prüfungsordnung für den DiplomStudiengang Politikwissenschaft an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 29. Oktober 1997 (KWMBl II 1998 S. 190), zuletzt geändert durch Satzung vom 12. April 2002 (KWMBl II 2003 S. 1232).<sup>2</sup> Prüfungen nach dieser Prüfungsordnung werden letztmals im Sommersemester 2014 angeboten. 
 
-(4)[1] Studierende, die vor dem Wintersemester 2007/08 das Magisterstudium aufgenommen haben, beenden ihr Studium nach der Magisterprüfungsordnung vom 23. September 1982, zuletzt geändert durch Satzung vom 14. Mai 2008.[2] Prüfungen nach dieser 
+(4)<sup>1</sup> Studierende, die vor dem Wintersemester 2007/08 das Magisterstudium aufgenommen haben, beenden ihr Studium nach der Magisterprüfungsordnung vom 23. September 1982, zuletzt geändert durch Satzung vom 14. Mai 2008.<sup>2</sup> Prüfungen nach dieser 
 
 Prüfungsordnung werden letztmals im Sommersemester 2014 angeboten. 
 

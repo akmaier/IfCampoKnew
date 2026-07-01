@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "ABMPO-TF 20210304 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Allgemeine_PO_Bachelor_Master/Aenderungssatzungen/ABMPO-TF_20210304_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:53:49+00:00
-page_count_chars: 7360
+scraped_at: 2026-07-01T11:15:24+00:00
+page_count_chars: 7395
 ---
 
 # ABMPO-TF 20210304 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 7360
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Allgemeine_PO_Bachelor_Master/Aenderungssatzungen/ABMPO-TF_20210304_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## **Dreizehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak –** 
+# **Dreizehnte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak –** 
 
-## **Vom 4. März 2021** 
+# **Vom 4. März 2021** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 und 6, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – ABMPO/TechFak – vom 18. September 2007, zuletzt geändert durch Satzung vom 20. Februar 2019, wird wie folgt geändert: 
 
@@ -38,15 +38,15 @@ Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudie
 
    - d) Nach dem Wort „Maschinenbau“ und dem Komma wird das Wort „Mechatronik“ eingefügt. 
 
-5. § 6 wird wie folgt geändert: 
+# 5. § 6 wird wie folgt geändert: 
 
-## a) Abs. 2 wird wie folgt geändert: 
+# a) Abs. 2 wird wie folgt geändert: 
 
 aa) Nach Satz 3 wird folgender neuer Satz 4 eingefügt: 
 
 1 
 
-„[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
 
 bb) Die bisherigen Sätze 4 bis 9 werden zu den neuen Sätzen 5 bis 10. 
 
@@ -62,17 +62,17 @@ bb) Die bisherigen Sätze 4 bis 9 werden zu den neuen Sätzen 5 bis 10.
 
 8. In § 12 Abs. 1 Satz 1 wird nach den Worten „Prüfungsleistungen, die in“ das Wort „anderen“ eingefügt. 
 
-## 9. § 16 wird wie folgt geändert: 
+9. § 16 wird wie folgt geändert: 
 
-- a) In Abs. 6 Satz 1 wird nach den Worten „Prüfungen nach“ der Verweis „Abs. 4 Satz 1“ durch den Verweis „Abs. 5 Satz 1“ ersetzt. 
+   - a) In Abs. 6 Satz 1 wird nach den Worten „Prüfungen nach“ der Verweis „Abs. 4 Satz 1“ durch den Verweis „Abs. 5 Satz 1“ ersetzt. 
 
-- b) In Abs. 7 wird der bisher einzige Satz zu Satz 1 und es wird folgender neuer Satz 2 angefügt: 
+   - b) In Abs. 7 wird der bisher einzige Satz zu Satz 1 und es wird folgender neuer Satz 2 angefügt: 
 
-„[2] Bei Prüfungen, in denen der Anteil des Antwort-Wahl-Verfahrens nur einen untergeordneten Teil (in der Regel ca. 25 %) einnimmt, findet Absatz 6 keine Anwendung.“ 
+„<sup>2</sup> Bei Prüfungen, in denen der Anteil des Antwort-Wahl-Verfahrens nur einen untergeordneten Teil (in der Regel ca. 25 %) einnimmt, findet Absatz 6 keine Anwendung.“ 
 
 10. In § 17 Abs. 4 Satz 4 werden nach den Worten „Protokoll ist“ die Worte „bei den Prüfungsakten“ gestrichen. 
 
-## 11. § 18 Abs. 1 wird wie folgt geändert: 
+# 11. § 18 Abs. 1 wird wie folgt geändert: 
 
 - a) Satz 1 wird wie folgt geändert: 
 
@@ -96,11 +96,11 @@ bb) Nach dem Wort mit Sonderzeichen „ausgedrückt:“ wird folgende neue Zeile
 
 13. § 21 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach den Worten und dem Komma „ **Diploma Supplement,** “ die Worte mit Komma „ **Grade distribution table,** “ eingefügt. 
+- a) In der Überschrift werden nach den Worten und dem Komma „ **Diploma Supplement,** “ die Worte mit Komma „ **Grade distribution table,** “ eingefügt. 
 
-   - b) In Abs. 1 werden nach den Worten „ein Diploma Supplement“ ein Komma und die Worte „ein Grade distribution table“ eingefügt. 
+- b) In Abs. 1 werden nach den Worten „ein Diploma Supplement“ ein Komma und die Worte „ein Grade distribution table“ eingefügt. 
 
-   - c) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
+- c) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
 „(3) Die Abschlussdokumente der sonstigen Studien i. S. d. Art. 56 Abs. 6 **BayHSchG** sind in der jeweiligen **Fachprüfungsordnung** geregelt.“ 
 
@@ -108,7 +108,7 @@ bb) Nach dem Wort mit Sonderzeichen „ausgedrückt:“ wird folgende neue Zeile
 
 15. In § 27 Abs. 3 Satz 1 werden nach dem Wort „sorgen“ die Worte „rechtzeitig zur Wahrung der Fristen nach § 7, in der Regel“ eingefügt. 
 
-16. § 29 wird wie folgt geändert: 
+# 16. § 29 wird wie folgt geändert: 
 
    - a) In Abs. 1 Nr. 1 wird nach den Worten „Hochschule bzw. einen sonstigen gleichwertigen“ das Wort „und“ eingefügt. 
 
@@ -122,23 +122,23 @@ bb) Nach dem Wort mit Sonderzeichen „ausgedrückt:“ wird folgende neue Zeile
 
 - b) In Satz 3 werden nach den Worten „der mündlichen Prüfung“ die Worte „bzw. der Seminarleistung“ eingefügt. 
 
-18. § 32 Abs. 2 wird wie folgt geändert: 
+# 18. § 32 Abs. 2 wird wie folgt geändert: 
 
-- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Zur Zulassung zur Masterarbeit ist der Nachweis der Erfüllung aller ggf. erteilten Auflagen zu erbringen.“ 
+„<sup>2</sup> Zur Zulassung zur Masterarbeit ist der Nachweis der Erfüllung aller ggf. erteilten Auflagen zu erbringen.“ 
 
 b) Die bisherigen Sätze 2 bis 4 werden zu den neuen Sätzen 3 bis 5. 
 
 19. In § 34 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die dreizehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Die Änderungen, welche die Aufnahme der sonstigen Studien i. S. d. Art. 56 Abs. 6 **BayHSchG** zum Gegenstand haben, gelten für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
+„(5)<sup>1</sup> Die dreizehnte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Die Änderungen, welche die Aufnahme der sonstigen Studien i. S. d. Art. 56 Abs. 6 **BayHSchG** zum Gegenstand haben, gelten für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden.“ 
 
 20. In der **Anlage** werden in Abs. 5 Satz 2 Nr. 1 nach den Worten „oder des fachverwandten bzw. des“ die Worte „gleichwertigen und“ eingefügt. 
 
 21. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+**§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Die Änderungen, welche die Aufnahme der sonstigen Studien i. S. d. Art. 56 Abs. 6 BayHSchG zum Gegenstand haben, gelten für alle Studierenden, die das Studium ab dem Wintersemester 2021/2022 aufnehmen werden. 
 

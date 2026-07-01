@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.03.2015 i.d.F. 31.03.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Master-of-Science_Maerz2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:14:30+00:00
-page_count_chars: 13804
+scraped_at: 2026-07-01T11:34:24+00:00
+page_count_chars: 14123
 ---
 
 # PDF vom 15.03.2015 i.d.F. 31.03.2016
@@ -22,13 +22,13 @@ geändert durch Satzungen vom 30. Juli 2013
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Fachprüfungsordnung: 
 
-## **Präambel:** 
+# **Präambel:** 
 
-1Im Rahmen des Elitenetzwerks Bayern (ENB) bilden die internationalen Masterstudiengänge „Computational Mechanics“ (Technische Universität München), „Computational Science and Engineering“ (Technische Universität München) und „Computational Engineering“ (Friedrich-Alexander-Universität Erlangen-Nürnberg) die „Bavarian Graduate School of Computational Engineering“.[2] Die Bavarian Graduate School bietet gemeinsam ein Eliteprogramm auf dem Gebiet „Computational Engineering“ an, im Rahmen dessen für jeden der genannten Studiengänge ein besonderer Masterabschluss „Master of Science“ erworben werden kann.[3] Dieser Abschluss soll gemeinsam mit dem auf der Urkunde ausgewiesenen Prädikat „with honours“ über die übliche Masterqualifikation hinaus die hervorragenden Leistungen der Absolventen dokumentieren. 
+1Im Rahmen des Elitenetzwerks Bayern (ENB) bilden die internationalen Masterstudiengänge „Computational Mechanics“ (Technische Universität München), „Computational Science and Engineering“ (Technische Universität München) und „Computational Engineering“ (Friedrich-Alexander-Universität Erlangen-Nürnberg) die „Bavarian Graduate School of Computational Engineering“.<sup>2</sup> Die Bavarian Graduate School bietet gemeinsam ein Eliteprogramm auf dem Gebiet „Computational Engineering“ an, im Rahmen dessen für jeden der genannten Studiengänge ein besonderer Masterabschluss „Master of Science“ erworben werden kann.<sup>3</sup> Dieser Abschluss soll gemeinsam mit dem auf der Urkunde ausgewiesenen Prädikat „with honours“ über die übliche Masterqualifikation hinaus die hervorragenden Leistungen der Absolventen dokumentieren. 
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
-1Diese Fachprüfungsordnung ergänzt die Fachprüfungsordnung für die wissenschaftlichen zweisprachigen Bachelor- und Masterstudiengänge des Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Universität Erlangen-Nürnberg vom 13. April 2000 (KWMBl II S. 940) in der jeweils geltenden Fassung.[2] Sie regelt insbesondere 
+1Diese Fachprüfungsordnung ergänzt die Fachprüfungsordnung für die wissenschaftlichen zweisprachigen Bachelor- und Masterstudiengänge des Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Universität Erlangen-Nürnberg vom 13. April 2000 (KWMBl II S. 940) in der jeweils geltenden Fassung.<sup>2</sup> Sie regelt insbesondere 
 
 1. die Zugangsvoraussetzungen zum Masterstudium im Elitenetzwerkprogramm 
 
@@ -42,23 +42,23 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Ba
 
 1 
 
-## **§ 2 Akademischer Grad** 
+# **§ 2 Akademischer Grad** 
 
 Der akademische Grad „Master of Science“ wird an Studierende verliehen, die im Rahmen des Elitenetzwerkprogramms die Masterprüfung nach der in § 1 genannten Fachprüfungsordnung und die zusätzliche Prüfung nach dieser Prüfungsordnung mit dem Notendurchschnitt von mindestens 2,0 (gut) abgelegt haben. 
 
-## **§ 3** 
+# **§ 3** 
 
-## **ENB-Kommission Computational Engineering, Prüfungsausschüsse** 
+# **ENB-Kommission Computational Engineering, Prüfungsausschüsse** 
 
-(1)[ 1] Die ENB-Kommission Computational Engineering besteht aus zwei hauptamtlich im Bereich der Universität Erlangen-Nürnberg tätigen und vier hauptamtlich im Bereich der Technischen Universität München tätigen Professorinnen bzw. Professoren.[2] Je zwei der Mitglieder werden von den Fachbereichsräten der Fakultät für Bauingenieurwesen der Technischen Universität München, der Fakultät für Informatik der Technischen Universität München und der Technischen Fakultät der Universität Erlangen-Nürnberg bestellt.[3] Die Amtszeit beträgt zwei Jahre.[4] Die Mitglieder der Kommission wählen eine Sprecherin bzw. einen Sprecher in geheimer Wahl. 
+(1)<sup>1</sup> Die ENB-Kommission Computational Engineering besteht aus zwei hauptamtlich im Bereich der Universität Erlangen-Nürnberg tätigen und vier hauptamtlich im Bereich der Technischen Universität München tätigen Professorinnen bzw. Professoren.<sup>2</sup> Je zwei der Mitglieder werden von den Fachbereichsräten der Fakultät für Bauingenieurwesen der Technischen Universität München, der Fakultät für Informatik der Technischen Universität München und der Technischen Fakultät der Universität Erlangen-Nürnberg bestellt.<sup>3</sup> Die Amtszeit beträgt zwei Jahre.<sup>4</sup> Die Mitglieder der Kommission wählen eine Sprecherin bzw. einen Sprecher in geheimer Wahl. 
 
 (2) Der ENB-Kommission Computational Engineering obliegt die Durchführung des Eignungsfeststellungsverfahrens zum Eliteprogramm nach § 4. 
 
 (3) Der für die jeweilige Studierende bzw. den Studierenden zuständige Prüfungsausschuss ist jeweils der Prüfungsausschuss des Masterstudiengangs, in dem die bzw. der Studierende immatrikuliert ist. 
 
-## **§ 4** 
+# **§ 4** 
 
-## **Qualifikationsvoraussetzungen für das Masterstudium im Elitenetzwerk** 
+# **Qualifikationsvoraussetzungen für das Masterstudium im Elitenetzwerk** 
 
 1Die Qualifikation für das Masterstudium des Computational Engineering im Elitenetzwerk weist nach, wer 
 
@@ -68,11 +68,11 @@ Der akademische Grad „Master of Science“ wird an Studierende verliehen, die 
 
 3. die Eignungsfeststellungsprüfung nach der **Anlage** bestanden hat. 
 
-2Einschlägig im Sinne von Satz 1 Nr. 1 sind wissenschaftliche Studiengänge ingenieur- oder naturwissenschaftlicher Art, die die ENB-Kommission als dem Computational Engineering fachverwandt anerkennt.[3] Weit überdurchschnittlich im Sinne von Satz 1 Nr. 2 ist das Ergebnis der ersten berufsqualifizierenden Abschlussprüfung, wenn das Prädikat mindestens gut (2,0) lautet oder wenn nachgewiesen ist, dass das Ergebnis zu den 10 v. H. der Jahrgangsbesten gehört. 
+2Einschlägig im Sinne von Satz 1 Nr. 1 sind wissenschaftliche Studiengänge ingenieur- oder naturwissenschaftlicher Art, die die ENB-Kommission als dem Computational Engineering fachverwandt anerkennt.<sup>3</sup> Weit überdurchschnittlich im Sinne von Satz 1 Nr. 2 ist das Ergebnis der ersten berufsqualifizierenden Abschlussprüfung, wenn das Prädikat mindestens gut (2,0) lautet oder wenn nachgewiesen ist, dass das Ergebnis zu den 10 v. H. der Jahrgangsbesten gehört. 
 
-## **§ 5** 
+# **§ 5** 
 
-## **Umfang und Durchführung der zusätzlichen Prüfung, Prüfungsfristen** 
+# **Umfang und Durchführung der zusätzlichen Prüfung, Prüfungsfristen** 
 
 (1) Für den Erwerb des akademischen Grades „Masters of Science“ im Rahmen des Eliteprogramms sind neben dem Umfang der Masterprüfung, der sich jeweils aus der in § 1 genannten einschlägigen Fachprüfungsordnung ergibt, zusätzlich Studien- und Prüfungsleistungen im Umfang von wenigstens 30 ECTS-Punkten im Rahmen der zusätzlichen Prüfung zu erbringen. 
 
@@ -86,51 +86,49 @@ Der akademische Grad „Master of Science“ wird an Studierende verliehen, die 
 
 - c) 10 ECTS-Punkten an interdisziplinären, fachorientierten Lehrveranstaltungen, die nicht im Masterstudium des Computational Engineering angeboten werden **.** 
 
-(3)[1] Die Projektarbeit nach Abs. 2 Buchst. a umfasst eine Aufgabe, die in Teamarbeit und in der Regel unter Einbeziehung eines Industrieunternehmens abzuleisten ist. 2Die Projektarbeit soll im Fachgebiet Computational Engineering oder in einem verwandten Fachgebiet erstellt werden.[3] Bei der Teamarbeit muss der Beitrag der bzw. des einzelnen Studierenden deutlich erkennbar und bewertbar sein. 
+(3)<sup>1</sup> Die Projektarbeit nach Abs. 2 Buchst. a umfasst eine Aufgabe, die in Teamarbeit und in der Regel unter Einbeziehung eines Industrieunternehmens abzuleisten ist. 2Die Projektarbeit soll im Fachgebiet Computational Engineering oder in einem verwandten Fachgebiet erstellt werden.<sup>3</sup> Bei der Teamarbeit muss der Beitrag der bzw. des einzelnen Studierenden deutlich erkennbar und bewertbar sein. 
 
-(4)[1] Die nach Abs. 2 Buchst. b) wählbaren Lehrveranstaltungen sollen einen fachübergreifenden Charakter haben, zur Persönlichkeitsbildung beitragen und Schlüsselqualifikationen vermitteln.[2] Die Lehrveranstaltungen nach Abs. 2 Buchst. c) sind aus dem Angebot der beiden Partnerprogramme Computational Science and Engineering und Computational Mechanics an der Technischen Universität München zu wählen.[3] Die Liste der Lehrveranstaltungen wird durch Beschluss der ENBKommission bestimmt und durch Aushang am Schwarzen Brett bekannt gegeben. 4Die Veranstaltungen können z.B. auch in Form von Teleteaching-, Block- und Wochenendkursen oder Ferienakademien gestaltet sein. 
+(4)<sup>1</sup> Die nach Abs. 2 Buchst. b) wählbaren Lehrveranstaltungen sollen einen fachübergreifenden Charakter haben, zur Persönlichkeitsbildung beitragen und Schlüsselqualifikationen vermitteln.<sup>2</sup> Die Lehrveranstaltungen nach Abs. 2 Buchst. c) sind aus dem Angebot der beiden Partnerprogramme Computational Science and Engineering und Computational Mechanics an der Technischen Universität München zu wählen.<sup>3</sup> Die Liste der Lehrveranstaltungen wird durch Beschluss der ENBKommission bestimmt und durch Aushang am Schwarzen Brett bekannt gegeben. 4Die Veranstaltungen können z.B. auch in Form von Teleteaching-, Block- und Wochenendkursen oder Ferienakademien gestaltet sein. 
 
-(5)[1] Die Art der Prüfung (schriftlich oder mündlich) und die Dauer einer Prüfung werden spätestens eine Woche nach allgemeinem Vorlesungsbeginn von der bzw. dem für die Lehrveranstaltung verantwortlichen Hochschullehrerin bzw. Hochschullehrer ortsüblich bekannt gegeben.[2] Die Dauer einer schriftlichen Prüfung kann zwischen 60 und 120 Minuten liegen.[3] Die Dauer einer mündlichen Prüfung beträgt jeweils etwa 30 Minuten.[4] Jede Einzelprüfung bezieht sich auf Lehrveranstaltungen von zwei bis acht SWS. 
+(5)<sup>1</sup> Die Art der Prüfung (schriftlich oder mündlich) und die Dauer einer Prüfung werden spätestens eine Woche nach allgemeinem Vorlesungsbeginn von der bzw. dem für die Lehrveranstaltung verantwortlichen Hochschullehrerin bzw. Hochschullehrer ortsüblich bekannt gegeben.<sup>2</sup> Die Dauer einer schriftlichen Prüfung kann zwischen 60 und 120 Minuten liegen.<sup>3</sup> Die Dauer einer mündlichen Prüfung beträgt jeweils etwa 30 Minuten.<sup>4</sup> Jede Einzelprüfung bezieht sich auf Lehrveranstaltungen von zwei bis acht SWS. 
 
-(6)[1] Die bzw. der Studierende soll sich so rechtzeitig zu den Prüfungen der zusätzlichen Prüfung anmelden, dass sie bzw. er diese innerhalb der Regelstudienzeit des Masterstudiengangs ablegt.[2] Wer die Regelstudienzeit aus von ihr bzw. ihm zu vertretenden Gründen um mehr als ein Semester überschreitet, ist von der zusätzlichen Prüfung ausgeschlossen. 
+(6)<sup>1</sup> Die bzw. der Studierende soll sich so rechtzeitig zu den Prüfungen der zusätzlichen Prüfung anmelden, dass sie bzw. er diese innerhalb der Regelstudienzeit des Masterstudiengangs ablegt.<sup>2</sup> Wer die Regelstudienzeit aus von ihr bzw. ihm zu vertretenden Gründen um mehr als ein Semester überschreitet, ist von der zusätzlichen Prüfung ausgeschlossen. 
 
-## **§ 6** 
+# **§ 6** 
 
-## **Bewertung der zusätzlichen Prüfung, Wiederholung** 
+# **Bewertung der zusätzlichen Prüfung, Wiederholung** 
 
-(1)[ 1 ] Der Notendurchschnitt der Prüfungsleistungen nach § 5 Abs. 2 muss wenigstens gut (2,0) betragen; keine der Prüfungsleistungen darf schlechter als ausreichend (4,0) bewertet sein.[2] Die Wiederholung einer nicht wenigstens mit gut (2,0) bewerteten Prüfung ist einmal, spätestens innerhalb von sechs Monaten, zulässig. 
+(1)<sup>1</sup> Der Notendurchschnitt der Prüfungsleistungen nach § 5 Abs. 2 muss wenigstens gut (2,0) betragen; keine der Prüfungsleistungen darf schlechter als ausreichend (4,0) bewertet sein.<sup>2</sup> Die Wiederholung einer nicht wenigstens mit gut (2,0) bewerteten Prüfung ist einmal, spätestens innerhalb von sechs Monaten, zulässig. 
 
-(2)[1] Die Gesamtnote der zusätzlichen Prüfung wird als gewichtetes Notenmittel der Fachprüfungen gemäß § 5 Abs. 2 errechnet.[2] Die Notengewichte der einzelnen Prüfungsleistungen entsprechen den zugeordneten ECTS-Punkten. 
+(2)<sup>1</sup> Die Gesamtnote der zusätzlichen Prüfung wird als gewichtetes Notenmittel der Fachprüfungen gemäß § 5 Abs. 2 errechnet.<sup>2</sup> Die Notengewichte der einzelnen Prüfungsleistungen entsprechen den zugeordneten ECTS-Punkten. 
 
-## **§ 7** 
+# **§ 7 Zeugnis und Urkunde** 
 
-## **Zeugnis und Urkunde** 
-
-(1)[1] Über die im Eliteprogramm des Elitenetzwerks Bayern bestandene Masterprüfung ist ein Zeugnis auszustellen, das neben den Angaben nach § 15 Abs. 1 der in 
+(1)<sup>1</sup> Über die im Eliteprogramm des Elitenetzwerks Bayern bestandene Masterprüfung ist ein Zeugnis auszustellen, das neben den Angaben nach § 15 Abs. 1 der in 
 
 3 
 
-§ 1 genannten Fachprüfungsordnung zusätzlich die Leistungen gemäß § 5 Abs. 2 ausweist.[2] Ebenso wird das Thema und die Note der Master’s Thesis, sowie die Gesamtnote aufgeführt. 
+§ 1 genannten Fachprüfungsordnung zusätzlich die Leistungen gemäß § 5 Abs. 2 ausweist.<sup>2</sup> Ebenso wird das Thema und die Note der Master’s Thesis, sowie die Gesamtnote aufgeführt. 
 
 (2) Die Gesamtnote der im Eliteprogramm bestandenen Masterprüfung berechnet sich zu drei Vierteln aus der Gesamtnote nach § 15 Abs. 1 Satz 2 der in § 1 genannten Fachprüfungsordnung und zu einem Viertel aus der mit 30 ECTS-Punkten gewichteten zusätzlichen Prüfung nach § 5 Abs. 2. 
 
-(3)[1] Sind die Voraussetzungen nach § 2 erfüllt, wird der Mastergrad “Master of Science“ verliehen.[2] Über die Verleihung des akademischen Grades „Master of Science“ erhält die Absolventin bzw. der Absolvent eine Urkunde, die zusätzlich mit dem Prädikat „with honours“ versehen wird. 
+(3)<sup>1</sup> Sind die Voraussetzungen nach § 2 erfüllt, wird der Mastergrad “Master of Science“ verliehen.<sup>2</sup> Über die Verleihung des akademischen Grades „Master of Science“ erhält die Absolventin bzw. der Absolvent eine Urkunde, die zusätzlich mit dem Prädikat „with honours“ versehen wird. 
 
 (4) Wer die Masterprüfung bestanden und die Prüfungsleistungen gemäß § 5 Abs. 2 mit wenigstens ausreichendem Ergebnis abgelegt hat, ohne den zur Verleihung des Prädikates „with honours“ erforderlichen Notendurchschnitt von 2,0 (gut) erreicht zu haben, erhält außer dem Mastergrad nach § 2 Abs. 2 der in § 1 genannten Fachprüfungsordnung eine Bescheinigung über die im Programm des Elitenetzwerks gemäß § 5 Abs. 2 erzielten Leistungen. 
 
-## **§ 8 In-Kraft-Treten** 
+# **§ 8 In-Kraft-Treten** 
 
 Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
 4 
 
-## **ANLAGE: Eignungsfeststellungsverfahren** 
+# **ANLAGE: Eignungsfeststellungsverfahren** 
 
-## **1. Verfahren zur Feststellung der Eignung** 
+# **1. Verfahren zur Feststellung der Eignung** 
 
 Das Verfahren zur Feststellung der Eignung wird in der Regel einmal pro Semester von der ENB-Kommission Computational Engineering durchgeführt. 
 
-## **2. Zugang** 
+# **2. Zugang** 
 
 2.1 Die Anträge auf Zugang zum Feststellungsverfahren sind auf den von der ENBKommission herausgegebenen Formularen spätestens bis zum 1. September beziehungsweise 1. März an die Vorsitzende bzw. den Vorsitzenden der Zugangskommission zu stellen. 
 
@@ -146,11 +144,11 @@ Das Verfahren zur Feststellung der Eignung wird in der Regel einmal pro Semester
 
 2.3 Bewerberinnen und Bewerber, die den Bachelor- oder Diplomabschluss an der Universität Erlangen-Nürnberg erworben haben, müssen dem Antrag die Unterlagen nach Nr. 2.2.2 nicht beifügen. 
 
-## **3. Kommission zur Eignungsfeststellung** 
+# **3. Kommission zur Eignungsfeststellung** 
 
 Die Eignungsfeststellung wird von der ENB-Kommission Computational Engineering durchgeführt. 
 
-## **4. Zulassung zum Feststellungsverfahren** 
+# **4. Zulassung zum Feststellungsverfahren** 
 
 4.1 Die Zulassung zum Feststellungsverfahren setzt voraus, dass die in Nummer 2.2.2 genannten Unterlagen fristgerecht und vollständig vorliegen. 
 
@@ -158,19 +156,21 @@ Die Eignungsfeststellung wird von der ENB-Kommission Computational Engineering d
 
 4.3 Bewerberinnen und Bewerber, die keinen Zugang erhalten, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-## **5. Durchführung des Feststellungsverfahrens** 
+# **5. Durchführung des Feststellungsverfahrens** 
 
-5.1[1] Der Termin für das Eignungsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.[2] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Eignungsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 
+5.1<sup>1</sup> Der Termin für das Eignungsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.<sup>2</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Eignungsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden. 
 
-5.2[1] Das Eignungsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen.[2] Das Gespräch umfasst eine Dauer von mindestens 20 und höchstens 30 Minuten je Bewerberin bzw. Bewerber und soll zeigen, ob die Bewerberin bzw. der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.[3] Das Eignungsfeststellungsgespräch erstreckt sich auf die Eignung der Bewerberin bzw. des Bewerbers für das Eliteprogramm auf dem Gebiet Computational Engineering 
+5.2<sup>1</sup> Das Eignungsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen.<sup>2</sup> Das Gespräch umfasst eine Dauer von mindestens 20 und höchstens 30 Minuten je Bewerberin bzw. Bewerber und soll zeigen, ob die Bewerberin bzw. der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.<sup>3</sup> Das Eignungsfeststellungsgespräch erstreckt sich auf die Eignung der Bewerberin bzw. des Bewerbers für das Eliteprogramm auf dem Gebiet Computational Engineering 
 
 5 
 
-4Fachwissenschaftliche Kenntnisse, die erst in dem Masterstudiengang vermittelt werden sollen, entscheiden nicht.[5] In dem Gespräch muss die Bewerberin bzw. der Bewerber den Eindruck bestätigen, dass sie bzw. er geeignet ist, die erhöhten Anforderungen der zusätzlichen Prüfung zu erfüllen. 
+4Fachwissenschaftliche Kenntnisse, die erst in dem Masterstudiengang vermittelt werden sollen, entscheiden nicht.<sup>5</sup> In dem Gespräch muss die Bewerberin bzw. der Bewerber den Eindruck bestätigen, dass sie bzw. er geeignet ist, die erhöhten Anforderungen der zusätzlichen Prüfung zu erfüllen. 
 
-5.3[ 1] Das Eignungsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Kommission durchgeführt.[2] Die einvernehmlich zu treffende Bewertung lautet bestanden oder nicht bestanden. 
+5.3<sup>1</sup> Das Eignungsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Kommission durchgeführt.<sup>2</sup> Die einvernehmlich zu treffende Bewertung lautet bestanden oder nicht bestanden. 
 
-5.4[ 1] Das Ergebnis des Feststellungsverfahrens wird der Bewerberin bzw. dem Bewerber von der bzw. dem Vorsitzenden der ENB-Kommission schriftlich mitgeteilt. 2Ein ablehnender Bescheid ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[3] Eine Wiederholung des Feststellungsverfahrens auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist ausgeschlossen. 5.5[ 1] Über den Ablauf des Eignungsfeststellungsverfahrens ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Kommissionsmitglieder, die Namen der Bewerberinnen und Bewerber und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Niederschrift müssen die wesentlichen Gründe und die Themen des Gesprächs mit den Bewerberinnen und Bewerbern ersichtlich sein. 
+5.4<sup>1</sup> Das Ergebnis des Feststellungsverfahrens wird der Bewerberin bzw. dem Bewerber von der bzw. dem Vorsitzenden der ENB-Kommission schriftlich mitgeteilt. 2Ein ablehnender Bescheid ist zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>3</sup> Eine Wiederholung des Feststellungsverfahrens auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen ist ausgeschlossen. 
+
+5.5<sup>1</sup> Über den Ablauf des Eignungsfeststellungsverfahrens ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Kommissionsmitglieder, die Namen der Bewerberinnen und Bewerber und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.<sup>2</sup> Aus der Niederschrift müssen die wesentlichen Gründe und die Themen des Gesprächs mit den Bewerberinnen und Bewerbern ersichtlich sein. 
 
 6 
 

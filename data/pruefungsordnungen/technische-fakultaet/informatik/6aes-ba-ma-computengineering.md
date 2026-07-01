@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_BA-MA_ComputEngineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:44+00:00
-page_count_chars: 18577
+scraped_at: 2026-07-01T11:35:21+00:00
+page_count_chars: 18158
 ---
 
 # 24. Juli 2014
@@ -12,27 +12,27 @@ page_count_chars: 18577
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/6AES_BA-MA_ComputEngineering.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg – FPOCE –** 
+# **Sechste Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg – FPOCE –** 
 
 Vom 24. Juli 2014 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1 BaySchG erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – FPOCE - vom 19. September 2007, zuletzt geändert durch Satzung vom 29. Juli 2013, wird wie folgt geändert: 
 
-## 1. § 37 wird wie folgt geändert: 
+# 1. § 37 wird wie folgt geändert: 
 
    - a) Es werden Satzzahlen eingefügt; die bisher einzige Regelung wird zu Satz 1. 
 
    - b) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-      - „[2] Die Module und ihre Einordnung ergeben sich aus **Anlage 2** 
+      - „<sup>2</sup> Die Module und ihre Einordnung ergeben sich aus **Anlage 2** .“ 
 
 2. In § 38 Satz 3 werden nach dem Wort „durchgeführt“ ein Komma sowie die Worte „im Übrigen folgt die Prüfungssprache der Unterrichtssprache“. 
 
-## 3. § 42 Satz 1 wird wie folgt geändert: 
+# 3. § 42 Satz 1 wird wie folgt geändert: 
 
    - a) Nach dem Wort „Orientierungsprüfung“ werden die Worte „(GOP) gemäß § 3 Abs. 1 Satz 1 **ABMPO/TechFak** “ eingefügt. 
 
@@ -82,7 +82,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
       - (6) Nach dem Wort „Physik“ werden die Worte „der Naturwissenschaftlichen Fakultät“ eingefügt. 
 
-## bb) Satz 2 wird wie folgt geändert: 
+# bb) Satz 2 wird wie folgt geändert: 
 
    - (1) Die Worte „oder Dozent“ wird durch die Worte „bzw. einem Dozenten“ ersetzt. 
 
@@ -90,9 +90,9 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 - d) In Abs. 4 werden nach den Worten „Mathematik und Physik“ die Worte „der Naturwissenschaftlichen Fakultät“ eingefügt. 
 
-## e) Abs. 5 wird wie folgt geändert: 
+- e) Abs. 5 wird wie folgt geändert: 
 
-## aa) Satz 1 wird wie folgt geändert: 
+# aa) Satz 1 wird wie folgt geändert: 
 
    - (1) Das Wort „ECTS“ wird durch das Wort „ECTS-Punkten“ ersetzt. 
 
@@ -104,7 +104,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational 
 
 2 
 
-5. § 44 wird wie folgt geändert: 
+# 5. § 44 wird wie folgt geändert: 
 
 a) Es wird folgender neuer Abs. 1 eingefügt: 
 
@@ -112,19 +112,19 @@ a) Es wird folgender neuer Abs. 1 eingefügt:
 
 - b) Die bisherigen Abs. 1 bis 6 wird zu Abs. 2 bis 7. 
 
-## c) Abs. 2 (neu) wird wie folgt geändert: 
+- c) Abs. 2 (neu) wird wie folgt geändert: 
 
-- aa) Das Wort „Die“ zu Beginn des Satzes wird gestrichen. 
+   - aa) Das Wort „Die“ zu Beginn des Satzes wird gestrichen. 
 
-- bb) Die Worte „im Grundabschnitt“ werden durch die Worte „in der Grundlagen- und Orientierungsphase“ ersetzt. 
+   - bb) Die Worte „im Grundabschnitt“ werden durch die Worte „in der Grundlagen- und Orientierungsphase“ ersetzt. 
 
-- cc) Die Worte „zur Vertiefung“ werden durch die Worte „in der Bachelorphase“ ersetzt. 
+   - cc) Die Worte „zur Vertiefung“ werden durch die Worte „in der Bachelorphase“ ersetzt. 
 
-- dd) Nach den Worten „Rechnen II, sind“ wird das Wort „aus“ gestrichen. 
+   - dd) Nach den Worten „Rechnen II, sind“ wird das Wort „aus“ gestrichen. 
 
-- ee) Nach dem Wort „Informatikstudiums“ werden die Worte „(FPOINF) in der jeweils geltenden Fassung“ eingefügt. 
+   - ee) Nach dem Wort „Informatikstudiums“ werden die Worte „(FPOINF) in der jeweils geltenden Fassung“ eingefügt. 
 
-## d) Abs. 3 und 4 (neu) erhalten folgende neue Fassung: 
+# d) Abs. 3 und 4 (neu) erhalten folgende neue Fassung: 
 
 „(3) Art und Dauer der Prüfungen der Module im Technischen Anwendungsfach und des Abschnitts Technisches Wahlmodul, mit Ausnahme des Moduls Computational Engineering 2, sind der jeweils einschlägigen **Fachprüfungsordnung** zu entnehmen 
 
@@ -136,39 +136,41 @@ a) Es wird folgender neuer Abs. 1 eingefügt:
 
 e) Abs. 5 bis 7 (neu) werden gestrichen. 
 
-6. § 45 wird wie folgt geändert: 
+# 6. § 45 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden nach Satz 2 folgende neue Sätze 3 bis 5 angefügt: 
+a) In Abs. 1 werden nach Satz 2 folgende neue Sätze 3 bis 5 angefügt: 
 
-„[3] Die Ergebnisse der Bachelorarbeit sind in einem Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.[5] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.“ 
+„<sup>3</sup> Die Ergebnisse der Bachelorarbeit sind in einem Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.“ 
 
 - b) Abs. 3 erhält folgende neue Fassung: 
 
-„(3)[1] Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.[2] Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** .“ 
+„(3)<sup>1</sup> Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.<sup>2</sup> Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** .“ 
 
 3 
 
-7. § 46 wird wie folgt geändert: 
+# 7. § 46 wird wie folgt geändert: 
 
-   - a) Abs. 1 erhält folgende neue Fassung: 
+- a) Abs. 1 erhält folgende neue Fassung: 
 
-„(1)[1] Das Bachelorstudium ist bestanden, wenn alle Module des Studienkonzeptes im Umfang von 180 ECTS-Punkten bestanden sind.[2] Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden.“ 
+„(1)<sup>1</sup> Das Bachelorstudium ist bestanden, wenn alle Module des Studienkonzeptes im Umfang von 180 ECTS-Punkten bestanden sind.<sup>2</sup> Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden.“ 
 
-   - b) In Abs. 2 Satz 2 werden die Worte „im Grundabschnitt“ durch die Worte „der Grundlagen- und Orientierungsphase (Semester 1 bis 2)“ sowie die Worte „im Bachelorabschnitt“ durch die Worte „der Bachelorphase (Semester 3 bis 6)“ ersetzt. 
+- b) In Abs. 2 Satz 2 werden die Worte „im Grundabschnitt“ durch die Worte „der Grundlagen- und Orientierungsphase (Semester 1 bis 2)“ sowie die Worte „im Bachelorabschnitt“ durch die Worte „der Bachelorphase (Semester 3 bis 6)“ ersetzt. 
 
-8. § 48 wird wie folgt geändert: 
+# 8. § 48 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
-      - aa) Es werden Satzzahlen eingefügt. 
+aa) Es werden Satzzahlen eingefügt. 
 
-      - bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt: „[2] Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden.“ 
+- bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-## b) Abs. 2 wird wie folgt geändert: 
+   - „<sup>2</sup> Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden.“ 
+
+# b) Abs. 2 wird wie folgt geändert: 
 
    - aa) Satz 1 erhält folgende neue Fassung: 
 
-      - „[1] Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
+      - „<sup>1</sup> Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
 
       1. der Nachweis über englische Sprachkenntnisse gemäß Satz 2, 
 
@@ -194,7 +196,7 @@ e) Abs. 5 und 6 werden ersatzlos gestrichen.
 
 9. § 49 erhält folgende neue Fassung: 
 
-## **„§ 49 Umfang des Masterstudiums** 
+# **„§ 49 Umfang des Masterstudiums** 
 
 - (1) Das Masterstudium umfasst 120 ECTS-Punkte bestehend aus 
 
@@ -224,11 +226,11 @@ e) Abs. 5 und 6 werden ersatzlos gestrichen.
 
    2. Module aus Masterstudiengängen an der Technischen Fakultät mit mathematisch orientierten Inhalten, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät angeboten werden. 
 
-- (4)[1] Module aus dem Wahlpflichtbereich im Technischen Anwendungsfach sind Module aus Masterstudiengängen an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät angeboten werden.[2] Von Satz 1 ausgenommen sind Module, die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakultät oder am Department Mathematik der Naturwissenschaftlichen Fakultät angeboten werden. 
+- (4)<sup>1</sup> Module aus dem Wahlpflichtbereich im Technischen Anwendungsfach sind Module aus Masterstudiengängen an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät angeboten werden.<sup>2</sup> Von Satz 1 ausgenommen sind Module, die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakultät oder am Department Mathematik der Naturwissenschaftlichen Fakultät angeboten werden. 
 
 - (5) Bei der Wahl der Module innerhalb des Technischen Anwendungsfachs sowie der Technischen Wahlmodule ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Computational Engineering gegenüber dem vorangegangenen Bachelorstudium nachzuweisen.“ 
 
-## 10. § 50 wird wie folgt geändert: 
+# 10. § 50 wird wie folgt geändert: 
 
 - a) Abs. 1 erhält folgende neue Fassung: 
 
@@ -236,74 +238,69 @@ e) Abs. 5 und 6 werden ersatzlos gestrichen.
 
 „(1) Art und Dauer der Prüfungen des Masterstudiums sind der **Anlage 2** zu entnehmen, soweit die nachfolgenden Absätze nichts Abweichendes regeln.“ 
 
-b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
 aa) Nach den Worten „Prüfungen im“ wird das Wort „Informatik“ gestrichen. bb) Nach dem Wort „Wahlpflichtbereich“ wird das Wort „Informatik“ eingefügt. 
 
-- c) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
+   - c) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-   - „(3) Das Seminar im Masterstudium wird wie folgt geprüft: 
+      - „(3) Das Seminar im Masterstudium wird wie folgt geprüft: 
 
-   1. wenn das Seminar ursprünglich in einem anderen Masterstudiengang der Technischen Fakultät angeboten wird, richten sich Art und Dauer der Prüfung nach der einschlägigen Fachprüfungsordnung. 
+      1. wenn das Seminar ursprünglich in einem anderen Masterstudiengang der Technischen Fakultät angeboten wird, richten sich Art und Dauer der Prüfung nach der einschlägigen Fachprüfungsordnung. 
 
-   2. Wird das Seminar ursprünglich im Masterstudiengang Computational Engineering angeboten, sind zum Bestehen des Moduls „Seminar im Masterstudium“ ein Referat von mindestens 45 Minuten und eine schriftliche Ausarbeitung erforderlich.“ 
+      2. Wird das Seminar ursprünglich im Masterstudiengang Computational Engineering angeboten, sind zum Bestehen des Moduls „Seminar im Masterstudium“ ein Referat von mindestens 45 Minuten und eine schriftliche Ausarbeitung erforderlich.“ 
 
 11. In § 51 wird nach den Worten „Umfang von“ das Wort „mindestens“ eingefügt. 
 
-## 12. § 52 Abs. 1 wird nach Satz 5 folgender neuer Satz 6 angefügt: 
+12. § 52 Abs. 1 wird nach Satz 5 folgender neuer Satz 6 angefügt: 
 
-„[6] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.“ 
+„<sup>6</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.“ 
 
 13. In § 53 wird nach den Worten „alle Module des“ das Wort „jeweiligen“ eingefügt. 
 
 6 
 
-## 14. Anlage 1 erhält folgende neue Fassung: 
+# 14. Anlage 1 erhält folgende neue Fassung: 
 
-## **„Anlage 1: Studienverlaufsplan Bachelor** 
+## **<u>„Anlage 1: Studienverlaufsplan Bachelor</u>** 
 
-|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung<br>/Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||V|Ü|P|S||1|2|3|4|5|6||
-|**Informatik**|||||||||||||
-|Algorithmen und Datenstrukturen (GOP)|4|2|2||10|10||||||siehe FPOINF, Anl. 1|
-|Computational Engineering 1 (GOP)|4|2|||7,5|7,5||||||PfP: PL (K 90) + SL (ÜbL)|
-|Systemprogrammierung|2|2|2||10||5|5||||siehe FPOINF, Anl. 1|
-|Simulation und Modellierung 1|2|2|||5|||||5||siehe FPOINF, Anl. 4|
-|Simulation und wissenschaftliches Rechnen 1|2|2|2||7,5|||||7,5||PfP: PL (K 90) + SL (ÜbL)|
-|Simulation und wissenschaftliches Rechnen 2|4|2|||7,5||||||7,5|PfP: PL (K 90) + SL (ÜbL)|
-|**Mathematik**|||||||||||||
-|Mathematik für CE 11)(GOP)|4|2|||7,5|7,5||||||PfP: PL (K 90) + SL (ÜbL)|
-|Mathematik für CE 21)(GOP)|5|3|||10||10|||||PfP: PL (K 120)+ SL (ÜbL)|
-|Mathematik für CE 31)|2|2|||5|||5||||PfP: PL (K 60) + SL (ÜbL)|
-|Mathematik für CE 41)|2|2|||5||||5|||PfP: PL (K 60) + SL (ÜbL)|
-|Numerik I für Ingenieure|4|2|||5|||5||||PL (K 60)|
-|Numerik II für Ingenieure|2|2|||5||||5|||PL (K 60)|
-|**Technisches Anwendungsfach**|||||||||||||
-|Experimentalphysik für Naturwissenschaftler I<br>(GOP)|4|1|||5|5||||||PL (K 90)|
+|Modulbezeichnung||S|WS|Gesamt<br>ECTS|Wor|kload-<br>in|Verteilu<br>ECTS-|ng pr<br>Punk|o Semester<br>ten|Art und Umfang der Prüfung<br>/Stdilit|
+|---|---|---|---|---|---|---|---|---|---|---|
+||V|Ü|P|<br>S|1|2|3|4|5<br>6|uenesung|
+|**Informatik**|||||||||||
+|Algorithmen und Datenstrukturen (GOP)|4|2|2|10|10|||||siehe FPOINF, Anl. 1|
+|Computational Engineering 1 (GOP)|4|2||7,5|7,5|||||PfP: PL (K 90) + SL (ÜbL)|
+|Systemprogrammierung|2|2|2|10||5|5|||siehe FPOINF, Anl. 1|
+|Simulation und Modellierung 1|2|2||5|||||5|siehe FPOINF, Anl. 4|
+|Simulation und wissenschaftliches Rechnen 1|2|2|2|7,5|||||7,5|PfP: PL (K 90) + SL (ÜbL)|
+|Simulation und wissenschaftliches Rechnen 2|4|2||7,5|||||7,5|PfP: PL (K 90) + SL (ÜbL)|
+|**Mathematik**|||||||||||
+|Mathematik für CE 1<sup>1</sup>)(GOP)|4|2||7,5|7,5|||||PfP: PL (K 90) + SL (ÜbL)|
+|Mathematik für CE 2<sup>1</sup>)(GOP)|5|3||10||10||||PfP: PL (K 120)+ SL (ÜbL)|
+|Mathematik für CE 3<sup>1</sup>)|2|2||5|||5|||PfP: PL (K 60) + SL (ÜbL)|
+|Mathematik für CE 4<sup>1</sup>)|2|2||5||||5||PfP: PL (K 60) + SL (ÜbL)|
+|Numerik I für Ingenieure|4|2||5|||5|||PL (K 60)|
+|Numerik II für Ingenieure|2|2||5||||5||PL (K 60)|
+|**Technisches Anwendungsfach**|||||||||||
+|Experimentalphysik für Naturwissenschaftler I<br>(GOP)|4|1||5|5|||||PL (K 90)|
 
 7 
 
-|Experimentalphysik für Naturwissenschaftler II<br>(GOP)|5|1|1|||5||5|||||PL (K 90)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Computational Engineering 2 (GOP)|2|2||||5||5|||||PfP: PL (K 90) + SL (ÜbL)|
-|TAF – Module|||||||||||||PL/SL: MHB|
-||8|8||||20||||20||||
-|||||||||||||||
-|**Technische Wahlmodule**|||||||||||||PL/SL: MHB|
-||10|10||||25||||25||||
-|||||||||||||||
-|**Wahlfach Schlüsselqualifikation**||||||||||||||
-|Schlüsselqualifikation|4|||||5||5|||||SL|
-|Praktikum||||8||10||||10|||SL: PrL|
-|**Seminar Bachelor**|||||2|5||||5|||PL: SeL|
-|**Bachelorarbeit**||||||||||||||
-|Begleitseminar + Referat Bachelor||||||3|||||3|||
-|Schriftliche Bachelorarbeit||||||12|||||12|||
-|Summe SWS|70||47|14|2|||||||||
-|Summe ECTS||||||180|30|30|30|30|30|30||
+|Experimentalphysik für Naturwissenschaftler II<br>(GOP)|5|1|||5<br>5||PL (K 90)|
+|---|---|---|---|---|---|---|---|
+|Computational Engineering 2 (GOP)|2|2|||5<br>5||PfP: PL (K 90) + SL (ÜbL)|
+|TAF – Module|8|8|||20|20|PL/SL: MHB|
+|**Technische Wahlmodule**|10|10|||25|25|PL/SL: MHB|
+|**Wahlfach Schlüsselqualifikation**||||||||
+|Schlüsselqualifikation|4||||5<br>5||SL|
+|Praktikum|||8||10|10|SL: PrL|
+|**Seminar Bachelor**||||2|5|5|PL: SeL|
+|**Bachelorarbeit**||||||||
+|Begleitseminar + Referat Bachelor|||||3|3||
+|Schriftliche Bachelorarbeit|||||12|12||
+|Summe SWS<br>Summe ECTS|70|47|14|2|180<br>30<br>30|30<br>30<br>30<br>30||
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
 GOP: Grundlagen- und Orientierungsprüfung PfP: Portfolioprüfung PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet) K 60/K90/K120: Klausur mit 60, 90 bzw. 120 min Dauer ÜbL: Übungsleistung PrL: Praktikumsleistung SeL: Seminarleistung MHB: Art und Umfang der Studien-  und Prüfungsleistungen sind dem Modulhandbuch zu entnehmen 
 
@@ -313,28 +310,26 @@ GOP: Grundlagen- und Orientierungsprüfung PfP: Portfolioprüfung PL: Prüfungsl
 
 8 
 
-## 15. Anlage 2 erhält folgende neue Fassung: 
+# 15. Anlage 2 erhält folgende neue Fassung: 
 
-## „ **Anlage 2: Studienverlaufsplan Master** 
+# „ **Anlage 2: Studienverlaufsplan Master** 
 
-|Modulbezeichnung|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Art und Umfang der<br>Prüfung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1|2|3|4|/Studienleistung|
-|**Mathematik**||||||||||||
-|Funktionalanalysis für Inge-<br>nieure||2|2|||5|5||||PfP: PL (K 60) + SL<br>(ÜbL)|
-|Optimierung für Ingenieure||3|2|||7,5||7,5|||PfP: PL (K 60) + SL<br>(ÜbL)|
-|Weitere Mathematik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 7,5ECTS)1)||6|3|||≥7,5|||||PL/SL: MHB|
-|**Informatik**||||||||||||
-|Informatik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 20ECTS) 1)||12|8|4||≥20|||||PL/SL: MHB|
-|**Technisches**<br>**Anwendungsfach **||||||||||||
-|TAF-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)1)||12|8|4||≥20|||||PL/SL: MHB|
-|||||||||||||
-|Seminar|||||2|5||||||
-|Masterarbeit||||||30||||30||
-||Summe SWS|35|23|8|2|||||||
-||SummeECTS|||||120|30|30|30|30||
+|Modulbezeichnung||SW|S||Gesamt<br>ECTS|Wor<br>Seme|kload-V<br>ster in E|erteilun<br>CTS-P|g pro<br>unkten|Art und Umfang der<br>Prüfung|
+|---|---|---|---|---|---|---|---|---|---|---|
+||V|Ü|P|S||1|2|3|4|/Studienleistung|
+|**Mathematik**|||||||||||
+|Funktionalanalysis für Inge-<br>nieure|2|2|||5|5||||PfP: PL (K 60) + SL<br>(ÜbL)|
+|Optimierung für Ingenieure|3|2|||7,5||7,5|||PfP: PL (K 60) + SL<br>(ÜbL)|
+|Weitere Mathematik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 7,5ECTS)<sup>1)</sup>|6|3|||≥7,5|||||<br>PL/SL: MHB|
+|**Informatik**|||||||||||
+|Informatik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 20ECTS) <sup>1)</sup>|12|8|4||≥20|||||PL/SL: MHB|
+|**Technisches**<br>**Anwendungsfach **|||||||||||
+|TAF-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)<sup>1)</sup>|12|8|4||≥20|||||PL/SL: MHB|
+|Seminar||||2|5||||||
+|Masterarbeit|||||30||||30||
+|Summe SWS<br>SummeECTS|35|23|8|2|120|30|30|30|30||
 
-## **Erläuterungen:** 
+#### **Erläuterungen:** 
 
 GOP: Grundlagen- und Orientierungsprüfung PfP: Portfolioprüfung PL: Prüfungsleistung (benotet) 
 
@@ -350,7 +345,7 @@ K 60: Klausur mit 60 min Dauer ÜbL: Übungsleistung PrL: Praktikumsleistung SeL
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der lfd. Nr. 6 b) sowie die Regelung in § 49 Abs. 5 gelten für alle Studierenden, die die betroffenen Module noch nicht begonnen haben.[3] Die Änderungen in der lfd. Nr. 8 gelten für alle Studierenden, die das Masterstudium ab dem Sommersemester 2015 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der lfd. Nr. 6 b) sowie die Regelung in § 49 Abs. 5 gelten für alle Studierenden, die die betroffenen Module noch nicht begonnen haben.<sup>3</sup> Die Änderungen in der lfd. Nr. 8 gelten für alle Studierenden, die das Masterstudium ab dem Sommersemester 2015 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 11. Juli 2014 und der Genehmigungsfeststellung des Präsidenten vom 24. Juli 2014. 
 

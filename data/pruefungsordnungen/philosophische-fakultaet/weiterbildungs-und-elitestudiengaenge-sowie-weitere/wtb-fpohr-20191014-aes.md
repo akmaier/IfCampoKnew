@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20191014 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20191014_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:46:45+00:00
-page_count_chars: 19198
+scraped_at: 2026-07-01T09:57:38+00:00
+page_count_chars: 19698
 ---
 
 # wtb FPOHR 20191014 ÄS.pdf
@@ -12,19 +12,19 @@ page_count_chars: 19198
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20191014_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOHR –** 
+# **Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOHR –** 
 
-## **Vom 14. Oktober 2019** 
+# **Vom 14. Oktober 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPOHR – vom 18. Juli 2014, zuletzt geändert durch Satzung vom 6. Juli 2018, wird wie folgt geändert: 
 
 1. Die Regelung in § 6 erhält folgende neue Fassung: 
 
-„(1)[1] Die Qualifikation für den Weiterbildungsmasterstudiengang M.A. Human Rights wird nachgewiesen durch: 
+„(1)<sup>1</sup> Die Qualifikation für den Weiterbildungsmasterstudiengang M.A. Human Rights wird nachgewiesen durch: 
 
 1. den Abschluss eines Hochschulstudiums oder einen sonstigen gleichwertigen in- oder ausländischen Abschluss im Umfang von in der Regel 210 ECTS-Punkten, mindestens jedoch 180 ECTS-Punkten, in der Regel aus den Fachbereichen der Rechtswissenschaften, Sozialwissenschaften, Humanwissenschaften oder Geisteswissenschaften, 
 
@@ -36,7 +36,7 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
 2Für die Feststellung der Anerkennungsfähigkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG. 
 
-(2)[1] Die Zugangskommission kann den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.[2] Der Zugang zum Studiengang wird unter Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatrikulation. 
+(2)<sup>1</sup> Die Zugangskommission kann den Zugang unter der Bedingung aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind.<sup>2</sup> Der Zugang zum Studiengang wird unter Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatrikulation. 
 
 (3) Abweichend von Abs. 1 Satz 1 Nr. 3 können Bewerberinnen und Bewerber unter dem Vorbehalt zum Masterstudium zugelassen werden, dass der Nachweis über die in Abs. 1 Satz 1 Nr. 3 genannten Englischkenntnisse bis zur Immatrikulation nachgereicht wird. 
 
@@ -52,41 +52,41 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
 5. In § 29 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in **Anlage 1** für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 6 und den **Anlagen 2** und **3** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die vierte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in **Anlage 1** für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in § 6 und den **Anlagen 2** und **3** für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 2 
 
-## 6. **Anlage 1** erhält folgende neue Fassung: 
+# 6. **Anlage 1** erhält folgende neue Fassung: 
 
-## „ 
+# „ 
 
-## **Anlage 1: Studienverlaufsplan Master Human Rights** 
+**<u>Anlage 1: Studienverlaufsplan Master Human Rights</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|ECTS|1.<br>Sem|2.<br>Sem|3.<br>Sem|Art und Umfang der Prüfung/<br>Sdili|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||ECTS|ECTS|ECTS|tuenestung||
-|**HR 1:**<br>**Principles and Methodology**|Lecture Human Rights Philosophy|2||||10|5|||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit(20 S.)1|1|
-||Seminar Human Rights Methods||||1||3|||||
-||Tutorial Research and Writing Exercise||||1||2|||||
-|**HR 2:**<br>**Human Rights Politics**|Lecture Political Dynamics of Human Rights|2||||10|5|||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-||Seminar Human Rights Protection in the EU||||2||5|||||
-|**HR 3:**<br>**Human Rights Law**|Lecture Legal Protection of Human Rights|2||||10|5|||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-||Seminar Leading Cases in Human Rights Law||||2||5|||||
-|**HR 4:**<br>**Interdiscplinary approach to**<br>**non-discrimination**|Seminar||||2|5||5||Referat (20 Min.) und<br>Hausarbeit (20 S.)|1|
-|**HR 5:**<br>**Project work**|Project group||||2|5||5||Projektbericht (5-10 S.)|1|
-|**HR 6:**<br>**Specialised aspects of**<br>**human rights protection I**|Seminar||||2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-|**HR 7:**<br>**Specialised aspects of**<br>**human rights protection II**|Seminar||||2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-|**HR 8:**<br>**Specialised aspects of**<br>**human rights protection III**|Seminar||||2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-|**HR 9:**<br>**Specialised aspects of**<br>**human rights protection IV**|Seminar||||2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)1|1|
-|**HR 10:**<br>**Master’s thesis**||||||30|||30|Masterarbeit (60-80 S.)|1|
-||**Summe SWS: **|**6**|||**18**|||||||
-||**Summe ECTS-Punkte: **|||||**90**|**30**|**30**|**30**|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br> <br> <br>|ECTS|1.<br>Sem<br>|2.<br>Sem<br>|3.<br>Sem<br>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||ECTS|ECTS|ECTS||note|
+|**HR 1:**|Lecture Human Rights Philosophy|2||5|||Klausur (120 Min.) oder||
+|<br>**Principles and Methodology**|Seminar Human Rights Methods|1|10|3|||Referat (20 Min.) und<br>|1|
+||Tutorial Research and Writing Exercise|1||2|||Hausarbeit(20 S.)<sup>1</sup>||
+|**HR 2:**|Lecture Political Dynamics of Human Rights|2|10|5|||Klausur (120 Min.) oder<br>Rfrt 20 Min nd|1|
+|**Human Rights Politics**|Seminar Human Rights Protection in the EU|2||5|||eea ( .) u<br>Hausarbeit (20 S.)<sup>1</sup>||
+|**HR 3:**|Lecture Legal Protection of Human Rights|2|10|5|||Klausur (120 Min.) oder<br>Referat (20 Min) und|1|
+|**Human Rights Law**|Seminar Leading Cases in Human Rights Law|2||5|||.<br>Hausarbeit (20 S.)<sup>1</sup>||
+|**HR 4:**<br>**Interdiscplinary approach to**<br>**non-discrimination**|Seminar|2|5||5||Referat (20 Min.) und<br>Hausarbeit (20 S.)|1|
+|**HR 5:**<br>**Project work**|Project group|2|5||5||Projektbericht (5-10 S.)|1|
+|**HR 6:**<br>**Specialised aspects of**<br>**human rights protection I**|Seminar|2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)<sup>1</sup>|1|
+|**HR 7:**<br>**Specialised aspects of**<br>**human rights protection II**|Seminar|2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)<sup>1</sup>|1|
+|**HR 8:**<br>**Specialised aspects of**<br>**human rights protection III**|Seminar|2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)<sup>1</sup>|1|
+|**HR 9:**<br>**Specialised aspects of**<br>**human rights protection IV**|Seminar|2|5||5||Klausur (120 Min.) oder<br>Referat (20 Min.) und<br>Hausarbeit (20 S.)<sup>1</sup>|1|
+|**HR 10:**<br>**’**|||30|||30|Masterarbeit (60-80 S.)|1|
+|**Masters thesis**|||||||||
+||**Summe SWS: **<br>**Summe ECTS-Punkte: **|**6**<br>**18**|**90**|**30**|**30**|**30**|||
 
 > 1 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden gewählten Moduls. Für Einzelheiten siehe Modulhandbuch. 
 
 3 
 
-## Glossar Veranstaltungsformen 
+## <u>Glossar Veranstaltungsformen</u> 
 
 |Deutsch|Englisch|
 |---|---|
@@ -96,9 +96,9 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 |Projektgruppe|group project|
 |Masterarbeit|Master‘s thesis|
 
-## Glossar Prüfungsformen 
+## <u>Glossar Prüfungsformen</u> 
 
-|Deutsch|Englisch|
+|<br>Deutsch|<br>Englisch|
 |---|---|
 |Klausur|written exam|
 |Projektbericht|project report|
@@ -116,9 +116,9 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
 „ **Anlage 2: Qualifikationsfeststellungsverfahren** 
 
-(1)[1] Das Qualifikationsfeststellungsverfahren dient der Beurteilung der Qualifikation der Bewerberinnen und Bewerber für den Masterstudiengang.[2] Es soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen des Menschenrechtsschutzes besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig zu arbeiten verstehen. 
+(1)<sup>1</sup> Das Qualifikationsfeststellungsverfahren dient der Beurteilung der Qualifikation der Bewerberinnen und Bewerber für den Masterstudiengang.<sup>2</sup> Es soll zeigen, ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse in den Grundlagen des Menschenrechtsschutzes besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig zu arbeiten verstehen. 
 
-(2)[1] Das Verfahren zur Feststellung der Qualifikation wird einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt.[2] Die Anträge auf Zugang zum Qualifikationsfeststellungsverfahren sind bis zum 30. Juni eines jeden Jahres zum nachfolgenden Wintersemester am Lehrstuhl für Menschenrechte und Menschenrechtspolitik zu stellen (Ausschlussfrist).[3] Die Bewerbungsfrist nach Satz 2 kann verlängert werden. 
+(2)<sup>1</sup> Das Verfahren zur Feststellung der Qualifikation wird einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt.<sup>2</sup> Die Anträge auf Zugang zum Qualifikationsfeststellungsverfahren sind bis zum 30. Juni eines jeden Jahres zum nachfolgenden Wintersemester am Lehrstuhl für Menschenrechte und Menschenrechtspolitik zu stellen (Ausschlussfrist).<sup>3</sup> Die Bewerbungsfrist nach Satz 2 kann verlängert werden. 
 
 4Dem Antrag sind beizufügen: 
 
@@ -134,11 +134,11 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
    - c) What do you think is the biggest human rights issue in your country? Why?. 
 
-(3)[1] Die Feststellung der Qualifikation obliegt gemäß § 11 der Zugangskommission. 2Die Zugangskommission kann die Koordination und Durchführung des Verfahrens einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist. 
+(3)<sup>1</sup> Die Feststellung der Qualifikation obliegt gemäß § 11 der Zugangskommission. 2Die Zugangskommission kann die Koordination und Durchführung des Verfahrens einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist. 
 
-(4)[1] Der Zugang zum Feststellungsverfahren setzt voraus, dass die in Abs. 2 Satz 4 genannten Unterlagen fristgerecht und vollständig vorliegen.[2] Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 und 6 durchgeführt.[3] Bewerberinnen und Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
+(4)<sup>1</sup> Der Zugang zum Feststellungsverfahren setzt voraus, dass die in Abs. 2 Satz 4 genannten Unterlagen fristgerecht und vollständig vorliegen.<sup>2</sup> Mit den Bewerberinnen und Bewerbern, die die erforderlichen Voraussetzungen erfüllen, wird das Qualifikationsfeststellungsverfahren gemäß Abs. 5 und 6 durchgeführt.<sup>3</sup> Bewerberinnen und Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-(5)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens beurteilt die Zugangskommission anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin bzw. ein Bewerber die Qualifikation zum Masterstudium gemäß Abs. 1 besitzt.[2] Dazu werden die schriftlichen Unterlagen zunächst von der Zugangskommission gesichtet und in ihrer Gesamtheit selbstständig nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
+(5)<sup>1</sup> In der ersten Stufe des Qualifikationsfeststellungsverfahrens beurteilt die Zugangskommission anhand der schriftlichen Antragsunterlagen, ob eine Bewerberin bzw. ein Bewerber die Qualifikation zum Masterstudium gemäß Abs. 1 besitzt.<sup>2</sup> Dazu werden die schriftlichen Unterlagen zunächst von der Zugangskommission gesichtet und in ihrer Gesamtheit selbstständig nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
 
 5 
 
@@ -146,13 +146,13 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
 2. Umfang und Inhalt der i. S. d. § 6 Abs. 1 Satz 1 Nr. 2 einschlägigen qualifizierten berufspraktischen Erfahrung sowie im Falle des § 6 Abs. 1 Satz 1 Nr. 2 Alt. 2 Qualität der gleichwertigen Tätigkeit (insbesondere anhand von deren Dauer und Bezug zum Bereich Menschenrechtsschutz) unter Heranziehung des Essays nach Abs. 2 Satz 4 Nr. 4 (max. 50 Punkte). 
 
-3Die Zugangskommission kann insgesamt 100 Punkte vergeben. 4Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 5Bewerberinnen und Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen und Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[6] Die Punktevergabe in den einzelnen Kriterien nach Satz 2 wird anhand folgender Maßstäbe vorgenommen: 
+3Die Zugangskommission kann insgesamt 100 Punkte vergeben. 4Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 5Bewerberinnen und Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen und Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.<sup>6</sup> Die Punktevergabe in den einzelnen Kriterien nach Satz 2 wird anhand folgender Maßstäbe vorgenommen: 
 
 1. Kriterium nach Satz 2 Nr. 1: 
 
-## a) Inhaltliche Einschlägigkeit 
+# a) <u>Inhaltliche Einschlägigkeit</u> 
 
-|<br>**Übereinstimmung mit den Anforderungen nach Satz 2**|**Punkte**|
+|**Übereinstimmung mit den Anforderungen nach Satz 2**|**Punkte**|
 |---|---|
 |Studium der genannten Fachbereiche mit explizit menschenrechtlichen Inhalten|30|
 |Studium der genannten Fachbereiche mit internationaler Ausrichtung ohne<br>menschenrechtliche Inhalte|20|
@@ -160,35 +160,35 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 |fachfremdes Studium mit mind. einem menschenrechtlichen (Wahl-)Modul|10|
 |fachfremdes Studium ohne menschenrechtliche Inhalte|0|
 
-## b) Notendurchschnitt des Zeugnisses 
+# b) <u>Notendurchschnitt des Zeugnisses</u> 
 
-|**Note**|**Punkte**|
-|---|---|
-|1,0|20|
-|1,1|19|
-|1,2|18|
-|1,3|17|
-|1,4|16|
-|1,5|15|
-|1,6|14|
-|1,7|13|
-|1,8|12|
-|1,9|11|
-|2,0|10|
-|2,1|9|
-|2,2|8|
-|2,3|7|
-|2,4|6|
-|2,5|5|
-|2,6|4|
-|2,7|3|
-|2,8|2|
-|2,9|1|
-|3,0|0|
+|**Note**<br>**Punkte**|
+|---|
+|1,0<br>20|
+|1,1<br>19|
+|1,2<br>18|
+|1,3<br>17|
+|1,4<br>16|
+|1,5<br>15|
+|1,6<br>14|
+|1,7<br>13|
+|1,8<br>12|
+|1,9<br>11|
+|2,0<br>10|
+|2,1<br>9|
+|2,2<br>8|
+|2,3<br>7|
+|2,4<br>6|
+|2,5<br>5|
+|2,6<br>4|
+|2,7<br>3|
+|2,8<br>2|
+|2,9<br>1|
+|3,0<br>0|
 
 2. Kriterium nach Satz 2 Nr. 2: 
 
-- a) Umfang der i. S. d. § 6 Abs. 1 Satz 1 Nr. 2 einschlägigen qualifizierten berufspraktischen Erfahrung sowie im Falle des § 6 Abs. 1 Satz 1 Nr. 2 Alt. 2 Qualität der gleichwertigen Tätigkeit 
+- a) Umfang der i. S. d. § 6 Abs. 1 Satz 1 Nr. 2 einschlägigen qualifizierten berufspraktischen Erfahrung sowie im Falle des § 6 Abs. 1 Satz 1 Nr. 2 Alt. 2 Qualität der <u>gleichwertigen Tätigkeit</u> 
 
 |**Übereinstimmung mit den Anforderungen nach Satz 2**|**Punkte**|
 |---|---|
@@ -208,37 +208,37 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 |teilweise Menschenrechtsarbeit|10|
 |keinemenschenrechtlicheErfahrung|0|
 
-(6)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens wird die Qualifikation der übrigen Bewerberinnen und Bewerber, die im Bereich von 50 bis 69 Punkten liegen, im Rahmen eines Auswahlgesprächs beurteilt.[2] Hier können maximal 20 Punkte vergeben werden, die sich wie folgt verteilen: 
+(6)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens wird die Qualifikation der übrigen Bewerberinnen und Bewerber, die im Bereich von 50 bis 69 Punkten liegen, im Rahmen eines Auswahlgesprächs beurteilt.<sup>2</sup> Hier können maximal 20 Punkte vergeben werden, die sich wie folgt verteilen: 
 
 1. Fachkompetenz (insbesondere Qualität der grundlegenden Kenntnisse über und Verständnis für den Menschenrechtsschutz) (max. 10 Punkte), 
 
 2. Lern- oder Methodenkompetenz (insbesondere kritische Analyse- und Problemlösungsfähigkeit im Bereich des Menschenrechtsschutzes und Auffassungsfähigkeit) (max. 10 Punkte). 
 
-- 3Die Punktevergabe in den einzelnen Kriterien nach Satz 2 wird anhand folgender Maßstäbe vorgenommen: 
+- 3Die Punktevergabe in den einzelnen Kriterien nach Satz 2 wird anhand folgender Maß- <u>stäbe vorgenommen:</u> 
 
-|**Übereinstimmung mit den Anforderung nach Satz 2 Nr. 1bzw. 2**|**Punkte**|
+|**Übereinstimmung mit den Anforderung nach Satz 2 Nr. 1bzw. 2**<br>|**Punkte**|
 |---|---|
-|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 2 Nr. 1<br>bzw. 2|10|
-|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 2<br>Nr. 1 bzw. 2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht voll erfüllt<br>werden|7,5|
+|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 2 Nr. 1<br>bzw. 2<br>|10|
+|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 2<br>Nr. 1 bzw. 2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht voll erfüllt<br>werden<br>|7,5|
 |Überwiegende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 2<br>Nr. 1 bzw. 2, wobei ansonsten die Anforderungen nicht oder nicht voll erfüllt werden|5|
 |Die Anforderungen aus den Kriterien nach Satz 2 Nr. 1 bzw. 2 werden überwiegend<br>nicht erfüllt|2,5|
 |Die Anforderungen aus den Kriterien nach Satz 2 Nr. 1 bzw. 2 werden nicht oder so gut<br>wie nicht erfüllt|0|
 
-(7)[1] Findet ein Auswahlgespräch statt, wird der Termin mindestens eine Woche vorher bekannt gegeben.[2] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Auswahlgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.[3] Das Auswahlgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und dauert ca. 20 Minuten.[ 4] Das Auswahlgespräch kann bei Bewerberinnen bzw. Bewerbern, für die eine Prüfung am Studienort nur mit erheblichem Aufwand realisierbar ist, mit deren Einverständnis bildtelefonisch durchgeführt werden.[5] Es wird von mindestens einem Mitglied der Zugangskommission in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt.[6] Soweit das Auswahlgespräch von mehreren Mitgliedern der Zugangskommission geführt wird, vergibt jedes der Mitglieder auf das Ergebnis maximal 20 Punkte gemäß Abs. 6 Satz 3; die Punktzahl des Auswahlgesprächs ergibt sich gegebenenfalls aus dem arithmetischen Mittel der Einzelbewertungen, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+(7)<sup>1</sup> Findet ein Auswahlgespräch statt, wird der Termin mindestens eine Woche vorher bekannt gegeben.<sup>2</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme am Auswahlgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.<sup>3</sup> Das Auswahlgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und dauert ca. 20 Minuten.<sup>4</sup> Das Auswahlgespräch kann bei Bewerberinnen bzw. Bewerbern, für die eine Prüfung am Studienort nur mit erheblichem Aufwand realisierbar ist, mit deren Einverständnis bildtelefonisch durchgeführt werden.<sup>5</sup> Es wird von mindestens einem Mitglied der Zugangskommission in Anwesenheit einer Beisitzerin bzw. eines Beisitzers durchgeführt.<sup>6</sup> Soweit das Auswahlgespräch von mehreren Mitgliedern der Zugangskommission geführt wird, vergibt jedes der Mitglieder auf das Ergebnis maximal 20 Punkte gemäß Abs. 6 Satz 3; die Punktzahl des Auswahlgesprächs ergibt sich gegebenenfalls aus dem arithmetischen Mittel der Einzelbewertungen, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
-(8)[1] Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Abs. 5 und 6.[2] Bewerberinnen und Bewerber, die 70 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
+(8)<sup>1</sup> Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Abs. 5 und 6.<sup>2</sup> Bewerberinnen und Bewerber, die 70 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
 
-(9)[1] Das Ergebnis des Qualifikationsfeststellungsverfahrens wird den Bewerberinnen und Bewerbern schriftlich mitgeteilt.[2] Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen. 
+(9)<sup>1</sup> Das Ergebnis des Qualifikationsfeststellungsverfahrens wird den Bewerberinnen und Bewerbern schriftlich mitgeteilt.<sup>2</sup> Ein Ablehnungsbescheid ist mit Gründen und einer Rechtsbehelfsbelehrung zu versehen. 
 
 7 
 
 (10) Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
-(11)[1] Über die Art und den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Dokumentation anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Dokumentation müssen die wesentlichen Gründe für die Entscheidung ersichtlich sein. 
+(11)<sup>1</sup> Über die Art und den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Dokumentation anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.<sup>2</sup> Aus der Dokumentation müssen die wesentlichen Gründe für die Entscheidung ersichtlich sein. 
 
-(12)[1] Die Bewerberin bzw. der Bewerber kann bis zu einer Entscheidung über das Bestehen des Qualifikationsfeststellungsverfahrens von diesem ohne Angabe von Gründen zurücktreten.[2] Der Rücktritt ist schriftlich gegenüber der Zugangskommission zu erklären; die Erklärung des Rücktritts ist unwiderruflich. 
+(12)<sup>1</sup> Die Bewerberin bzw. der Bewerber kann bis zu einer Entscheidung über das Bestehen des Qualifikationsfeststellungsverfahrens von diesem ohne Angabe von Gründen zurücktreten.<sup>2</sup> Der Rücktritt ist schriftlich gegenüber der Zugangskommission zu erklären; die Erklärung des Rücktritts ist unwiderruflich. 
 
-(13)[1] Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] § 24 gilt entsprechend. 
+(13)<sup>1</sup> Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> § 24 gilt entsprechend. 
 
 (14) Bewerberinnen und Bewerber, die den Nachweis der Qualifikation für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Feststellungsverfahren beantragen. 
 
@@ -248,13 +248,13 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
    - a) In Abs. 1 Satz 2 wird nach den Worten „gemäß der **Anlage** “ die Zahl „ **3** “ durch die Zahl „ **2** “ ersetzt. 
 
-b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach den Worten „mündlichen Prüfung“ die Worte „im Umfang“ eingefügt. 
+      - aa) In Satz 1 werden nach den Worten „mündlichen Prüfung“ die Worte „im Umfang“ eingefügt. 
 
-   - bb) In Satz 6 wird nach den Worten „der **Anlage** “ die Zahl „ **3** “ durch die Zahl „ **2** “ ersetzt. 
+      - bb) In Satz 6 wird nach den Worten „der **Anlage** “ die Zahl „ **3** “ durch die Zahl „ **2** “ ersetzt. 
 
-- c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
+   - c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
 „(5) **Anlage 2** Abs. 1 und 3 sowie Abs. 7 Sätze 1 und 2 und 4 bis 6 sowie Abs. 9 bis 15 gelten entsprechend.“ 
 
@@ -264,7 +264,7 @@ b) Abs. 2 wird wie folgt geändert:
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in der lfd. Nr. 6 ( **Anlage 1** ) für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.[3] Abweichend von Sätzen 1 und 2 gelten die Änderungen in der lfd. Nr. 1 (§ 6) und den lfd. Nrn. 7 bis 9 ( **Anlagen 2** und **3** (neu)) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in der lfd. Nr. 6 ( **Anlage 1** ) für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.<sup>3</sup> Abweichend von Sätzen 1 und 2 gelten die Änderungen in der lfd. Nr. 1 (§ 6) und den lfd. Nrn. 7 bis 9 ( **Anlagen 2** und **3** (neu)) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 26. Juni 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 14. Oktober 2019. 
 

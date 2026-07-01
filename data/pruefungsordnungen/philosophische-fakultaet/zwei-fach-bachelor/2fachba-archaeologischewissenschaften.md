@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 18.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/2FachBA_ArchaeologischeWissenschaften.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:54:00+00:00
-page_count_chars: 17113
+scraped_at: 2026-07-01T10:16:03+00:00
+page_count_chars: 16631
 ---
 
 # PDF vom 18.07.2014
@@ -24,9 +24,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 **§ 2 Umfang und Ziele des Studiums** (1) Das Fach Archäologische Wissenschaften kann entweder als Erstfach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach im Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der „Ur- und Frühgeschichtlichen“, „Klassischen“ und „Christlichen Archäologie“ zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Fach Archäologische Wissenschaften erwerben die Studierenden grundlegende Fachkenntnisse der Archäologischen Wissenschaften, die sich aus den traditionellen Einzeldisziplinen der „Ur- und Frühgeschichtlichen“, „Klassischen“ und „Christlichen Archäologie“ zu einem neuen Studiengang zusammengeschlossen haben, und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Der Studiengang Archäologische Wissenschaften zielt zum einen auf eine breit angelegte fachwissenschaftliche Ausbildung, welche durch eine zusammen 40 ECTS-Punkte umfassende einführende Studienphase in den Disziplinen „Ur- und Frühgeschichte“, „Klassische Archäologie“ und „Christliche Archäologie“ gewährleistet wird, ab.[2] Zum anderen ermöglicht die zweite, 30 ECTS-Punkte umfassende, Phase das vertiefende Studium einer der drei archäologischen Disziplinen auf Basis der zuvor erworbenen Kenntnisse (qualifizierte Spezialisierung).[3] Werden bei der Wahl von Archäologischen Wissenschaften als Erstfach Basis- und Aufbaumodul 
+(3)<sup>1</sup> Der Studiengang Archäologische Wissenschaften zielt zum einen auf eine breit angelegte fachwissenschaftliche Ausbildung, welche durch eine zusammen 40 ECTS-Punkte umfassende einführende Studienphase in den Disziplinen „Ur- und Frühgeschichte“, „Klassische Archäologie“ und „Christliche Archäologie“ gewährleistet wird, ab.<sup>2</sup> Zum anderen ermöglicht die zweite, 30 ECTS-Punkte umfassende, Phase das vertiefende Studium einer der drei archäologischen Disziplinen auf Basis der zuvor erworbenen Kenntnisse (qualifizierte Spezialisierung).<sup>3</sup> Werden bei der Wahl von Archäologischen Wissenschaften als Erstfach Basis- und Aufbaumodul 
 
 sowie die Bachelorarbeit in jeweils nur einer der beteiligten Disziplinen „Ur- und Frühgeschichte“, „Klassische Archäologie“ oder „Christliche Archäologie“ absolviert, so wird auf der Bachelorurkunde der Zusatz „mit Schwerpunkt in“ unter Nennung der jeweiligen Disziplin aufgeführt. 
 
@@ -58,7 +58,7 @@ sowie die Bachelorarbeit in jeweils nur einer der beteiligten Disziplinen „Ur-
 
    - Öffentliche Vermittlung von Forschungsergebnissen in Wort, Schrift und neuen Medien, zudem im Ausstellungs- und Museumswesen. 
 
-**§ 3 Fächerkombinationen** 1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+**§ 3 Fächerkombinationen** 1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-FachBachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
 **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach **Anlage 1.** 
 
@@ -74,9 +74,7 @@ sowie die Bachelorarbeit in jeweils nur einer der beteiligten Disziplinen „Ur-
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen gem. § 30 Abs. 3 Satz 3 **ABMStPO/Phil** das Modul „Einführung in das wissenschaftliche Arbeiten und die Methoden der Archäologie“ sowie zwei der sechs anderen Einführungsmodule erfolgreich absolviert werden. 
 
-**§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
-
-Gemäß § 32 Abs. 1 Satz 4 **ABMStPO/Phil** kann das Thema für die Bachelorarbeit erst dann vergeben werden, wenn die erfolgreiche Teilnahme an wenigstens einem Hauptseminar aus einem Aufbaumodul nachgewiesen worden ist. 
+**§ 7 Besondere Bestimmungen für die Bachelorarbeit** Gemäß § 32 Abs. 1 Satz 4 **ABMStPO/Phil** kann das Thema für die Bachelorarbeit erst dann vergeben werden, wenn die erfolgreiche Teilnahme an wenigstens einem Hauptseminar aus einem Aufbaumodul nachgewiesen worden ist. 
 
 **§ 8 Schluss- und Übergangsvorschriften** Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2014 in Kraft. 
 
@@ -84,97 +82,84 @@ Gemäß § 32 Abs. 1 Satz 4 **ABMStPO/Phil** kann das Thema für die Bachelorarb
 
 ## **Anlage 1: Studienverlaufsplan Zwei-Fach-B.A. Archäologische Wissenschaften** 
 
-|Modulbezeichnung<br>|Lehrveranstaltung<br>|SWS|SWS|SWS||Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||<br>ECTS-Punkten||||||
-||||||||||||||||
-|||V<br>|Ü<br>|P|S||1.|2.|3.|4.|5.|6.|||
-|**Orientierungsmodule: Arbeitsweisen und chronologischer Überblick**~~**2)**~~|||||||||||||||
-|**Einführung in das wissen-**<br>**schaftliche Arbeiten und die**<br>**Methoden der Archäologie2) **|Proseminar: Einführung in<br>das wissenschaftliche Arbei-<br>tender Archäologie||||2|10|5||||||Portfolio:<br>Klausur (90 Minuten, 100 %) und<br>Hausaufgaben (3-5 Einzelaufgaben<br>von jeweils 1 Seite, 0 %)|1|
-||Proseminar: Einführung in die<br>Methoden der Archäologie||||2|||5|||||||
-|**Einführung in die**<br>**Ältere Urgeschichte2)**|Proseminar: Überblick über<br>die Kulturen prähistorischer<br>Jäger und Sammler||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die**<br>**Jüngere Urgeschichte2)**|Proseminar: Überblick über<br>die Kulturen sesshaft leben-<br>der prähistorischer Kulturen<br>Europas||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Einführung in die Vorgrie-**<br>**chische und griechische**<br>**Archäologie2)**|Proseminar: Einführung in die<br>vorgriechische und griechi-<br>sche Archäologie||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die Italisch-**<br>**römische Archäologie2)**|Proseminar: Einführung in die<br>italisch-römische Archäologie||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Einführung in die Christli-**<br>**che Archäologie2)**|Proseminar: Einführung in die<br>ChristlicheArchäologie||||2|5|51)||51)||||Klausur (90 Minuten)|1|
-|**Einführung in die Christli-**<br>**che Ikonographie2)**|Proseminar: Einführung in die<br>Christliche Ikonographie||||2|5||51)||51)|||Klausur (90 Minuten)|1|
-|**Basismodule: Kulturentwicklung und Kulturgeschichte3)**|||||||||||||||
-|PrähistorischeArchäologie|||||||||||||||
-|**Prähistorische Archäologie**:<br>**Ältere Urgeschichte I3)**|Vorlesung zur prähistorischen<br>KulturentwicklungEuropas|2|||||||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur prähistori-||||||||||||||
-||schen Kulturentwicklung||||2|1|||5||||||
-||Europas|||||0|||||||||
-||Übung zur prähistorischen<br>Kulturentwicklung Europas||||||||||||||
-||||1||||||2||||||
-||||||||||||||||
-|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte I3)**|Vorlesung zur prähistorischen<br>KulturentwicklungEuropas|2||||10||||3|||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur prähistori-<br>schen Kulturentwicklung<br>Europas||||2|||||5|||||
-||Übung zur prähistorischen<br>Kulturentwicklung Europas||||||||||||||
-||||1|||||||2|||||
-||||||||||||||||
+|||SWS||Gesamt|Workload-Verte<br>|ilung pro Semester in<br> <br>Art und Umfang|Faktor|
+|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||<br>ECTS|ECT|S-Punkten<br> <br>der Prüfung|Modul-|
+|**Orientierungsmodule: Arbeits**|**weisen und chronologischer Ü**<br>|V<br>Ü<br>**berblick**<sup>**~~2)~~**</sup>|P<br>S||1.<br>2.<br>3.|<br>4.<br>5.<br>6.|note|
+|**Einführung in das wissen-**<br>**schaftliche Arbeiten und die**|Proseminar: Einführung in<br>das wissenschaftliche Arbei-<br>tender Archäologie||2|10|5|Portfolio:<br>Klausur (90 Minuten, 100 %) und<br>|1|
+|**Methoden der Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die<br>Methoden der Archäologie||2||5|Hausaufgaben (3-5 Einzelaufgaben<br>von jeweils 1 Seite, 0 %)||
+|**Einführung in die**<br>**Ältere Urgeschichte**<sup>**2)**</sup>|Proseminar: Überblick über<br>die Kulturen prähistorischer<br>Jäger und Sammler||2|5|5<sup>1)</sup><br>5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**Einführung in die**<br>**Jüngere Urgeschichte**<sup>**2)**</sup>|Proseminar: Überblick über<br>die Kulturen sesshaft leben-<br>der prähistorischer Kulturen<br>Europas||2|5|5<sup>1)</sup>|5<sup>1)</sup><br>Klausur (90 Minuten)|1|
+|**Einführung in die Vorgrie-**<br>**chische und griechische**<br>**Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die<br>vorgriechische und griechi-<br>sche Archäologie||2|5|5<sup>1)</sup><br>5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**Einführung in die Italisch-**<br>**römische Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die<br>italisch-römische Archäologie||2|5|5<sup>1)</sup>|5<sup>1)</sup><br>Klausur (90 Minuten)|1|
+|**Einführung in die Christli-**<br>**che Archäologie**<sup>**2)**</sup>|Proseminar: Einführung in die<br>ChristlicheArchäologie||2|5|5<sup>1)</sup><br>5<sup>1)</sup>|Klausur (90 Minuten)|1|
+|**Einführung in die Christli-**<br> <sup>**2)**</sup>|Proseminar: Einführung in die<br>||2|5|5<sup>1)</sup>|5<sup>1)</sup><br>Klausur (90 Minuten)|1|
+|**che Ikonographie**<br>**Basismodule: Kulturentwickl**<br>PrähistorischeArchäologie|Christliche Ikonographie<br>**ung und Kulturgeschichte**<sup>**3)**</sup><br>|||||||
+||Vorlesung zur prähistorischen|||||||
+||<br>KulturentwicklungEuropas|2|||3|Portfolio:||
+|**Prähistorische Archäologie**:<br>**Ältere Urgeschichte I**<sup>**3)**</sup>|Proseminar zur prähistori-<br>schen Kulturentwicklung<br>Europas||2|10|5|Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und|1|
+||Übung zur prähistorischen<br>Kulturentwicklung Europas|1|||2|Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)||
+||Vorlesung zur prähistorischen<br>KulturentwicklungEuropas|2||||3<br>Ptfli||
+|**Prähistorische Archäologie:**<br>**Jüngere Urgeschichte I**<sup>**3)**</sup>|Proseminar zur prähistori-<br>schen Kulturentwicklung<br>Europas||2|10||oroo:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten 50 %) und<br>5|1|
+||Übung zur prähistorischen<br>Kulturentwicklung Europas|1||||,<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)<br>2||
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||<br>ECTS-Punkten||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|KlassischeArchäologie|||||||||||||||
-|**Klassische Archäologie:**<br>**Vorgriechische und grie-**<br>**chische Archäologie I3)**|Vorlesung zur antiken Kultur-<br>geschichte|2||||10|||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur antiken Kul-<br>turgeschichte||||2|||||5|||||
-||Übung zur antiken Kulturge-<br>schichte||1|||||||2|||||
-|**Klassische Archäologie:**<br>**Italisch-römische Archäo-**<br>**logie I3)**|Vorlesung zur antiken Kultur-<br>geschichte|2||||10|||3||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)|1|
-||Proseminar zur antiken Kul-<br>turgeschichte||||2|||||5|||||
-||Übung zur antiken Kulturge-<br>schichte||1|||||||2|||||
-|Christliche Archäologie|||||||||||||||
-|**Christliche Archäologie:**<br>**Kulturgeschichte I**3)<br>|Vorlesung zur Kulturgeschich-<br>te des Christentums vom 4.<br>bis ins 8. Jhd.||||||||||||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)|1|
-|||2||||||||3|||||
-||||||||||||||||
-||Proseminar zur Kulturge-<br>schichte des Christentums<br>vom 4. bis ins 8. Jhd.||||||||||||||
-||||||2||||5||||||
-|||||||10|||||||||
-||Übung zur Kulturgeschichte<br>des Christentums vom 4. bis<br>ins 8. Jhd.<br>||1||||||2||||||
-|**Aufbaumodule: Relevante Themen und Denkmäler**~~**3)**~~|||||||||||||||
-|Prähistorische Archäologie|||||||||||||||
-|**Prähistorische**<br>**Archäologie: Ältere Urge-**<br>**schichte II3)**|Vorlesung über eine themati-<br>sche Grundfrage prähistori-<br>scher Kulturentwicklung|2||||10|||||3||Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar über eine the-<br>matische Grundfrage prähis-<br>torischer Kulturentwicklung||||2||||||7||||
-|**Prähistorische**<br>**Archäologie:**<br>**Jüngere Urgeschichte II3)**|Vorlesung über eine themati-<br>sche Grundfrage prähistori-<br>scher Kulturentwicklung|2||||10||||||3|Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar über eine the-<br>matische Grundfrage prähis-<br>torischer Kulturentwicklung||||2|||||||7|||
+|Modulbezeichnung|Lehrveranstaltung|SW<br> <br>|S<br> <br>|Gesamt<br>ECTS<br>Wo<br>|rkload-Verteil<br>ECTS<br> <br>|ung pro Semes<br>-Punkten<br> <br>|ter in<br>|Art und Umfang<br>der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P<br>S|1.|2.<br>3.|4.<br>5.|6.||note|
+|KlassischeArchäologie||||||||||
+||Vorlesung zur antiken Kultur-<br>geschichte|2|||3|||Portfolio:<br>Präsentation (ca. 30 Min., 50 %)||
+|**Klassische Archäologie:**<br>**Vorgriechische und grie-**<br>**chische Archäologie I**<sup>**3)**</sup>|Proseminar zur antiken Kul-<br>turgeschichte<br>||2|10||5||<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>|1|
+||Übung zur antiken Kulturge-<br>schichte|1||||2||Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)||
+||Vorlesung zur antiken Kultur-<br>geschichte|2|||3|||Portfolio:<br>Präsentation (ca. 30 Min. 50 %)||
+|**Klassische Archäologie:**<br>**Italisch-römische Archäo-**<br>**loie I**<sup>**3)**</sup>|Proseminar zur antiken Kul-<br>turgeschichte||2|10||5||,<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und|1|
+|**g**|Übung zur antiken Kulturge-<br>hiht|1||||2||Hausaufgaben (im Umfang<br>von ca. 3 Seiten 0 %)||
+|Christliche Archäologie|scce|||||||,||
+||Vorlesung zur Kulturgeschich-|||||||||
+||te des Christentums vom 4.<br>bis ins 8. Jhd.|2||||3||Portfolio:||
+|**Christliche Archäologie:**<br>**Kulturgeschichte I**<sup>3)</sup>|Proseminar zur Kulturge-<br>schichte des Christentums<br>vom 4. bis ins 8. Jhd.||2|10|5|||<br>Präsentation (ca. 30 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 10 Textseiten, 50 %) und<br>|1|
+||Übung zur Kulturgeschichte<br>des Christentums vom 4. bis<br>|1|||2|||Hausaufgaben (im Umfang<br>von ca. 3 Seiten, 0 %)||
+|**Aufbaumodule: Relevante T**<br>Prähistorische Archäologie|ins 8. Jhd.<br>**hemen und Denkmäler**<sup>**~~3)~~**</sup>|||||||||
+|<br>**Prähistorische**<br>**Archäologie: Ältere Urge-**|Vorlesung über eine themati-<br>sche Grundfrage prähistori-<br>scher Kulturentwicklung|2||10||3||Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung|1|
+|<br>**schichte II**<sup>**3)**</sup>|Hauptseminar über eine the-<br>matische Grundfrage prähis-<br>torischer Kulturentwicklung||2|||7||<br>(ca. 20 Textseiten, 50 %)||
+|**Prähistorische**<br>**Archäologie:**|Vorlesung über eine themati-<br>sche Grundfrage prähistori-<br>scher Kulturentwicklung|2||10|||3|Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung|1|
+|<br>**Jüngere Urgeschichte II**<sup>**3)**</sup>|Hauptseminar über eine the-<br>matische Grundfrage prähis-<br>torischer Kulturentwicklung||2||||7|<br>(ca. 20 Textseiten, 50 %)||
 
 5 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang<br>der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||<br>ECTS-Punkten|||||||
-|||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.||6.|||
-|KlassischeArchäologie||||||||||||||||
-|**Klassische**<br>**Archäologie: Vorgriechi-**<br>**sche und griechische Ar-**<br>**chäologie II3)**|Vorlesung zu einem relevan-||||||||||||3|Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
-||<br>ten Thema antiker Kulturge-|2||||||||||||||
-||schichte|||||10||||||||||
-||Hauptseminar zu einem rele-<br>vanten Thema antiker Kultur-<br>geschichte||||2||||||7|||||
-|**Klassische**<br>**Archäologie:**<br>**Italisch-römische Archäo-**<br>**logie II3)**|Vorlesung zu einem relevan-||||||||||||3|Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
-||<br>ten Thema antiker Kulturge-|2||||||||||||||
-||schichte|||||10||||||||||
-||Hauptseminar zu einem rele-<br>vanten Thema antiker Kultur-<br>geschichte||||2||||||7|||||
-|ChristlicheArchäologie||||||||||||||||
-|**Christliche**<br>**Archäologie II3)**|Vorlesung zu einer relevanten<br>Denkmälergattung der Christ-<br>lichen Archäologie|2||||10|||||3|||Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar zu einer rele-<br>vanten Denkmälergattung der<br>Christlichen Archäologie||||2||||||||7|||
-|**Exkursion**||||||||||||||||
-|**Archäologische**<br>**Exkursion A4)**|Übung||2|||10|||21)|21)|21)||21)|Portfolio:<br>Teilnahme an mind. 8 zusammenhän-<br>genden Exkursionstagen, Kurzreferat<br>(ca. 30 Min., 0 %), Beitrag zum Ex-<br>kursionsführer (5 Seiten + Abbildun-<br>gen, 0 %) und Führung vor Ort (30<br>Min., 0 %)|1|
-|||||||||||||||||
-|||||||||||||||||
-||Exkursion||||||||81)|81)|81)||81)|||
-|**Archäologische**<br>**Exkursion B4)**|Exkursion|||||10|||101)|101)|10<br>1)||101)|Portfolio:<br>Teilnahme an mind. 8 zusammenhän-<br>genden Exkursionstagen, Teilnahme<br>an 4 weiteren Exkursionstagen, Beitrag<br>zum Exkursionsführer (5 Seiten + Ab-<br>bildungen, 0 %) und Führung vor Ort<br>(60 Min., 0 %)|1|
-|**Praktika**<br>||||||||||||||||
-|**Museumspraktikum**~~**5)**~~|Praktikum|||||10|10~~1)~~|10~~1)~~|10~~1)~~|10~~1)~~|10~~1)~~||10~~1)~~|Praktikum(300h)|0|
-|**Gelände- und Grabungs-**<br>**praktikum5)**|Praktikum|||||10|101)|101)|101)|101)|101)||101)|Praktikum (300h)|0|
-|**Bachelorarbeit und -prüfung**||||||||||||||||
-|**Bachelorarbeit6)**|Bachelorarbeit|||||10|||||101)||101)|Bachelorarbeit (40 Seiten, 80 %) und<br>Bachelor-Kolloquium (mündl. Prüfung,<br>mind. 30 Min., 20 %)|2|
-|Summe||4|1-3|0|20|90+10<br>bzw. 70|15|15|15|15|10-20||0-20|||
+|Modulbezeichnung|Lehrveranstaltung|SW<br> <br>|S<br> <br>|Gesamt<br>ECTS|Workload-Vertei<br>ECT<br> <br> <br>|lung pro<br>S-Punkt<br>|Semes<br>en<br>|ter in<br>|Art und Umfang<br>der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P<br>S||1.<br>2.<br>3.|4.|5.|6.||note|
+|KlassischeArchäologie|||||||||||
+|<br>**Klassische**<br>**Archäologie: Vorgriechi-**|Vorlesung zu einem relevan-<br>ten Thema antiker Kulturge-<br>schichte|2||10||||3|Präsentation (ca. 60 Min., 50 %)<br>mit schriftlicher Ausarbeitun|1|
+|**sche und griechische Ar-**<br>**chäologie II**<sup>**3)**</sup>|Hauptseminar zu einem rele-<br>vanten Thema antiker Kultur-<br>geschichte||2||||7||g<br>(ca. 20 Textseiten, 50 %)||
+|**Klassische**<br>|Vorlesung zu einem relevan-<br>ten Thema antiker Kulturge-<br>|2||||||3|Präsentation (ca. 60 Min., 50 %)||
+|**Archäologie:**|schichte||||||||<br>||
+|<br>**Italisch-römische Archäo-**|Hauptseminar zu einem rele-|||10|||||mit schriftlicher Ausarbeitung<br>|1|
+|**logie II**<sup>**3)**</sup>|<br>vanten Thema antiker Kultur-||2||||7||(ca. 20 Textseiten, 50 %)||
+|<br>|geschichte||||||||||
+|ChristlicheArchäologie|||||||||||
+|<br>**Christliche**|Vorlesung zu einer relevanten<br>Denkmälergattung der Christ-<br>lichen Archäologie|2|||||3||Präsentation (ca. 60 Min., 50 %)<br>||
+|**Archäologie II**<sup>**3)**</sup>|Hauptseminar zu einer rele-<br>vanten Denkmälergattung der||2|10||||7|mit schriftlicher Ausarbeitung<br>(ca. 20 Textseiten, 50 %)|1|
+||Christlichen Archäologie||||||||||
+|**Exkursion**|||||||||||
+|**Archäologische**<br>**Exkursion A**<sup>**4)**</sup>|Übung|2||10|2<sup>1)</sup>|2<sup>1)</sup>|2<sup>1)</sup>|2<sup>1)</sup>|Portfolio:<br>Teilnahme an mind. 8 zusammenhän-<br>genden Exkursionstagen, Kurzreferat<br>(ca. 30 Min., 0 %), Beitrag zum Ex-<br>kursionsführer (5 Seiten + Abbildun-|1|
+||Exkursion||||8<sup>1)</sup>|8<sup>1)</sup>|8<sup>1)</sup>|8<sup>1)</sup>|gen, 0 %) und Führung vor Ort (30<br>Min., 0 %)||
+|**Archäologische**<br>**Exkursion B**<sup>**4)**</sup>|Exkursion|||10|10<sup>1)</sup>|10<sup>1)</sup>|10<br>1)|10<sup>1)</sup>|Portfolio:<br>Teilnahme an mind. 8 zusammenhän-<br>genden Exkursionstagen, Teilnahme<br>an 4 weiteren Exkursionstagen, Beitrag<br>zum Exkursionsführer (5 Seiten + Ab-<br>bildungen, 0 %) und Führung vor Ort<br>|1|
+||||||||||(60 Min 0 %)||
+|**Praktika**<br>|||||||||.,||
+|**Museumspraktikum**<sup>**~~5)~~**</sup>|Praktikum|||10|10<sup>~~1)~~</sup><br>10<sup>~~1)~~</sup><br>10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup>|10<sup>~~1)~~</sup>|Praktikum(300h)|0|
+|**Gelände- und Grabungs-**<br>**ktik**<sup>**5)**</sup>|Praktikum|||10|10<sup>1)</sup><br>10<sup>1)</sup><br>10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup>|10<sup>1)</sup>|Praktikum (300h)|0|
+|**praum**<br>**Bachelorarbeit und -prüfung**|||||||||||
+||||||||||Bachelorarbeit (40 Seiten, 80 %) und||
+|**Bachelorarbeit**<sup>**6)**</sup>|Bachelorarbeit|||10|||10<sup>1)</sup>|10<sup>1)</sup>|<br>Bachelor-Kolloquium (mündl. Prüfung,|2|
+||||||||||<br>mind. 30 Min., 20 %)||
+|Su|mme|4<br>1-3|0<br>20|90+10<br>bzw. 70|15<br>15<br>15|15|10-20|0-20|||
 
 6 
 
-- 1) Die Studierenden können selbst wählen, zu welchem Zeitpunkt das Modul belegt wird. 2) In diesen Modulen kann die GOP absolviert werden. 
+- 1) Die Studierenden können selbst wählen, zu welchem Zeitpunkt das Modul belegt wird. 
+
+- 2) In diesen Modulen kann die GOP absolviert werden. 
 
 - 3) 
 
@@ -184,9 +169,7 @@ Gemäß § 32 Abs. 1 Satz 4 **ABMStPO/Phil** kann das Thema für die Bachelorarb
 
 - 5) Diese Module müssen nur belegt werden, wenn Archäologische Wissenschaften als Erstfach gewählt wird, es wird jedoch dringend empfohlen, das Gelände- und Grabungspraktikum im Zweitfach als Schlüsselqualifikation zu wählen. 
 
-- 6) 
-
-- Dieses Modul muss nur belegt werden, wenn Archäologische Wissenschaften als Erstfach gewählt wird. 
+- 6) Dieses Modul muss nur belegt werden, wenn Archäologische Wissenschaften als Erstfach gewählt wird. 
 
 7 
 

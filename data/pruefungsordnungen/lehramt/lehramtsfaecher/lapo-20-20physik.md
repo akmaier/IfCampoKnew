@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 30.03.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Physik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:15:49+00:00
-page_count_chars: 12298
+scraped_at: 2026-07-01T08:42:55+00:00
+page_count_chars: 12402
 ---
 
 # pdf vom 30.03.2009
@@ -12,7 +12,7 @@ page_count_chars: 12298
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Physik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Physik im Lehramtsstudiengang an der Friedrich-Alexander-Universität ErlangenNürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Physik im Lehramtsstudiengang an der Friedrich-Alexander-Universität ErlangenNürnberg** 
 
 ## Vom 30. März 2009 
 
@@ -56,15 +56,15 @@ ECTS-Punkte aus einem der Module _Experimentalphysik 1 LANV (EPNV-1)_ und _Exper
 
 ## **§ 4 Schriftliche Prüfung** 
 
-- (1)[1] Haben sich zu einer Klausur weniger als zwanzig Teilnehmerinnen und Teilnehmer gemeldet, so kann der Prüfungsausschuss auf Antrag der Prüfenden oder des Prüfenden festlegen, dass an diesem Prüfungstermin die Prüfung ausschließlich mündlich stattfindet.[2] Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
+- (1)<sup>1</sup> Haben sich zu einer Klausur weniger als zwanzig Teilnehmerinnen und Teilnehmer gemeldet, so kann der Prüfungsausschuss auf Antrag der Prüfenden oder des Prüfenden festlegen, dass an diesem Prüfungstermin die Prüfung ausschließlich mündlich stattfindet.<sup>2</sup> Die Entscheidung des Prüfungsausschusses soll spätestens drei Wochen nach Ablauf der Anmeldefrist bekannt geben werden. 
 
-- (2)[1] Schriftliche Prüfungen dauern mindestens 60 und höchstens 180 Minuten. 2Spätestens eine Woche vor Vorlesungsbeginn jedes Semesters werden Art und Umfang der Prüfungen in einem öffentlich zugänglichen Modulkatalog veröffentlicht. 
+- (2)<sup>1</sup> Schriftliche Prüfungen dauern mindestens 60 und höchstens 180 Minuten. 2Spätestens eine Woche vor Vorlesungsbeginn jedes Semesters werden Art und Umfang der Prüfungen in einem öffentlich zugänglichen Modulkatalog veröffentlicht. 
 
 ## **§ 5 Mündliche Prüfung, Seminarvorträge** 
 
 - (1) Mündliche Prüfungen sind Einzelprüfungen und dauern mindestens 30 und höchstens 45 Minuten. 
 
-- (2)[1] Seminarvorträge dauern ca. 30 Minuten.[2] Es können bis zu drei Vorträge pro Seminar verlangt werden, in diesem Fall werden die Einzelnoten gemittelt. 
+- (2)<sup>1</sup> Seminarvorträge dauern ca. 30 Minuten.<sup>2</sup> Es können bis zu drei Vorträge pro Seminar verlangt werden, in diesem Fall werden die Einzelnoten gemittelt. 
 
 - (3) § 4 Abs. 2 Satz 2 gilt entsprechend. 
 
@@ -72,9 +72,9 @@ ECTS-Punkte aus einem der Module _Experimentalphysik 1 LANV (EPNV-1)_ und _Exper
 
 ## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-- (1)[1] Das Studium im Fach Physik ist in einen Pflichtbereich und einen Wahlpflichtbereich aufgeteilt.[2] Im Wahlpflichtbereich erwerben die Studierenden Kenntnisse in einem physikalischen Themenkreis ihrer Wahl.[3] Wird Physik nicht in Kombination mit Mathematik studiert, können im Wahlpflichtbereich auch mathematische Grundkenntnisse erworben werden.[4] In diesem Fall können geeignete Mathematik-Module im Umfang von maximal 10 ECTS-Punkten eingebracht werden.[5] Im Bereich der Fachwissenschaft sind 95 ECTS-Punkte gemäß Abs. 2 zu erwerben. 
+- (1)<sup>1</sup> Das Studium im Fach Physik ist in einen Pflichtbereich und einen Wahlpflichtbereich aufgeteilt.<sup>2</sup> Im Wahlpflichtbereich erwerben die Studierenden Kenntnisse in einem physikalischen Themenkreis ihrer Wahl.<sup>3</sup> Wird Physik nicht in Kombination mit Mathematik studiert, können im Wahlpflichtbereich auch mathematische Grundkenntnisse erworben werden.<sup>4</sup> In diesem Fall können geeignete Mathematik-Module im Umfang von maximal 10 ECTS-Punkten eingebracht werden.<sup>5</sup> Im Bereich der Fachwissenschaft sind 95 ECTS-Punkte gemäß Abs. 2 zu erwerben. 
 
-- (2)[1] Für das Lehramt an Gymnasien werden folgende Module im Bereich Fachwissenschaft angeboten: 
+- (2)<sup>1</sup> Für das Lehramt an Gymnasien werden folgende Module im Bereich Fachwissenschaft angeboten: 
 
 |**Fach-**<br>**semester **|**Modul**|**SWS**|**ECTS**|
 |---|---|---|---|
@@ -134,9 +134,9 @@ ECTS-Punkte aus einem der Module _Experimentalphysik 1 LANV (EPNV-1)_ und _Exper
 
 3 
 
-|6|Wahlpflicht LANV (WPNV)<br>(z.B. Energietechnik)|2V+1Ü|5|
-|---|---|---|---|
-||**Summe Fachwissenschaft:**||**60**|
+|6|Wahlpflicht LANV (WPNV)<br>(z.B. Energietechnik)||2V+1Ü|5|
+|---|---|---|---|---|
+|||**Summe Fachwissenschaft:**||**60**|
 
 - (3) Im Bereich Fachdidaktik sind folgende Module abzulegen: 
 

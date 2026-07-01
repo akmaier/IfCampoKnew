@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. November 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_ArbMarktPers.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:34:11+00:00
-page_count_chars: 2147
+scraped_at: 2026-07-01T11:00:16+00:00
+page_count_chars: 2077
 ---
 
 # 4. November 2014
@@ -12,13 +12,13 @@ page_count_chars: 2147
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES_MA_ArbMarktPers.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP -** 
+# **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP -** 
 
-## Vom 4. November 2014 
+# Vom 4. November 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP - vom 17. Juli 2009, zuletzt geändert durch Satzung vom 10. Januar 2014, wird wie folgt geändert: 
 
@@ -28,18 +28,16 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt un
 
    - a) Nach Zeile 19 („Methoden der Wirtschafts- und Organisationspsychologie“) wird folgende neue Zeile 20 eingefügt: 
 
-      - „ 
+      - <u>„</u> 
 
-|<br>wird folgende neue Zeile 20 eingefügt:<br>„||||||
-|---|---|---|---|---|---|
-|Multivariate Zeitreihenanalyse|5||5|||
-||||||„|
+|Multivariate Zeitreihenanalyse|5|5|„|
+|---|---|---|---|
 
 - b) Zeile 26 neu („Multivariate Zeitreihen- und Strukturmodelle“) wird gestrichen. 
 
 - c) In Zeile 27 neu Spalte 1 werden der Doppelpunkt und die Worte „Micro and Macro Perspectives“ durch die Worte „and Macroeconomics“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2015 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

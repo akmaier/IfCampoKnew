@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Masterstudiengänge (eigenständige PO und konsekutiv)"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:21:48+00:00
+scraped_at: 2026-07-01T09:37:56+00:00
 ---
 
 # Masterstudiengänge (eigenständige PO und konsekutiv)
@@ -13,7 +13,7 @@ scraped_at: 2026-05-01T08:21:48+00:00
 
 ## Masterstudiengänge mit eigenständiger Prüfungsordnung
 
-### Human rights
+### Human Rights
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
@@ -139,6 +139,7 @@ scraped_at: 2026-05-01T08:21:48+00:00
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20260630.pdf) | 893 KB |
 | [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20241219.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20241219.pdf) | 762 KB |
 | [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20240926.pdf) | 806 KB |
 | [BSc-MSc Psychologie BMStPO-PSL 20230822.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822.pdf) | 784 KB |
@@ -147,10 +148,11 @@ scraped_at: 2026-05-01T08:21:48+00:00
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
 | [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf) | 311 KB |
+| [BSc MSc Psychologie BMStPO-PSL 20260630 ÄSa.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20260630_AeSa.pdf) | 840 KB |
+| [BSc MSc Psychologie BMStPO-PSL 20241219 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20241219_AeS.pdf) | 201 KB |
 | [BSc-MSc Psychologie BMStPO-PSL 20220328 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20220328_AeS.pdf) | 365 KB |
-| [BS MSc Psychologie BMStPO 20241219 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BS_MSc_Psychologie_BMStPO_20241219_AeS.pdf) | 201 KB |
 
-## Prüfungsordnungen-Dokumente (80)
+## Prüfungsordnungen-Dokumente (82)
 
 - [POMAHR 20260115.pdf](pomahr-20260115.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_konsekutiv/konsolidierte_Fassungen/POMAHR_20260115.pdf>
 - [POMAHR 20260115 en.pdf](pomahr-20260115-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_konsekutiv/englisch/POMAHR_20260115_en.pdf>
@@ -225,10 +227,12 @@ scraped_at: 2026-05-01T08:21:48+00:00
 - [5. März 2010](2aes-20ba-ma-20psychologie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20BA-MA%20Psychologie.pdf>
 - [15. September 2009](1aes-20ba-ma-20psychologie.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES%20BA-MA%20Psychologie.pdf>
 - [PDF vom 28.09.2007](pro-stuo-20ba-20ma-20psycho.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/Master/PrO+StuO%20BA%20MA%20Psycho.pdf>
+- [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20260630.pdf](bsc-msc-psychologie-bmstpo-psl-20230822-idf-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20260630.pdf>
 - [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20241219.pdf](bsc-msc-psychologie-bmstpo-psl-20230822-idf-20241219.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20241219.pdf>
 - [BSc-MSc Psychologie BMStPO-PSL 20230822 i.d.F. 20240926.pdf](bsc-msc-psychologie-bmstpo-psl-20230822-idf-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822_idF_20240926.pdf>
 - [BSc-MSc Psychologie BMStPO-PSL 20230822.pdf](bsc-msc-psychologie-bmstpo-psl-20230822.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20230822.pdf>
 - [BSc-MSc Psychologie BMStPO-PSL 20070928 i.d.F. 20220328.pdf](bsc-msc-psychologie-bmstpo-psl-20070928-idf-20220328.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/konsolidierte_Fassungen/BSc-MSc_Psychologie_BMStPO-PSL_20070928_idF_20220328.pdf>
 - [Satzung über die Reform der Durchführung von Wiederholungsprüfungen 20240926.pdf](satzung-ueber-die-reform-der-durchfuehrung-von-wiederholungspruefungen-20240926.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/Satzung_ueber_die_Reform_der_Durchfuehrung_von_Wiederholungspruefungen_20240926.pdf>
+- [BSc MSc Psychologie BMStPO-PSL 20260630 ÄSa.pdf](bsc-msc-psychologie-bmstpo-psl-20260630-aesa.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20260630_AeSa.pdf>
+- [BSc MSc Psychologie BMStPO-PSL 20241219 ÄS.pdf](bsc-msc-psychologie-bmstpo-psl-20241219-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc_MSc_Psychologie_BMStPO-PSL_20241219_AeS.pdf>
 - [BSc-MSc Psychologie BMStPO-PSL 20220328 ÄS.pdf](bsc-msc-psychologie-bmstpo-psl-20220328-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20220328_AeS.pdf>
-- [BS MSc Psychologie BMStPO 20241219 ÄS.pdf](bs-msc-psychologie-bmstpo-20241219-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie_klinisch/Aenderungssatzungen/BS_MSc_Psychologie_BMStPO_20241219_AeS.pdf>

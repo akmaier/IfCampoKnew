@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO ACES 20250227 SammelÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Elektromobilität-ACES/Aenderungssatzungen/FPO_ACES_20250227_SammelAeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:24:53+00:00
-page_count_chars: 8036
+scraped_at: 2026-07-01T11:42:54+00:00
+page_count_chars: 8085
 ---
 
 # FPO ACES 20250227 SammelÄS.pdf
@@ -26,11 +26,11 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang E
 
    - b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2) 1Bei der Bildung der Note der Vertiefungsbereiche wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs gemäß der **Anlage 1** auf die Gesamtnote angerechnet.[2] Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-Punkte-Umfangs der Einzelmodule gebildet. 3Sätze 1 und 2 gelten entsprechend für die Wahlmodule, Schlüsselqualifikationen und Hochschulpraktika.“ 
+„(2) 1Bei der Bildung der Note der Vertiefungsbereiche wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs gemäß der **Anlage 1** auf die Gesamtnote angerechnet.<sup>2</sup> Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-Punkte-Umfangs der Einzelmodule gebildet. 3Sätze 1 und 2 gelten entsprechend für die Wahlmodule, Schlüsselqualifikationen und Hochschulpraktika.“ 
 
-## 2. In § 56 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
+2. In § 56 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die dritte Änderungssatzung tritt am 3. März 2025 in Kraft.[2] Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
+„(5)<sup>1</sup> Die dritte Änderungssatzung tritt am 3. März 2025 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
 
 1 
 
@@ -44,7 +44,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
    - b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2) 1Bei der Bildung der Note der Vertiefungsbereiche wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs gemäß der **Anlage 1** auf die Gesamtnote angerechnet.[2] Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-Punkte-Umfangs der Einzelmodule gebildet. 3Sätze 1 und 2 gelten entsprechend für die Wahlmodule, Schlüsselqualifikationen, Hochschulpraktika.“ 
+„(2) 1Bei der Bildung der Note der Vertiefungsbereiche wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs gemäß der **Anlage 1** auf die Gesamtnote angerechnet.<sup>2</sup> Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-Punkte-Umfangs der Einzelmodule gebildet. 3Sätze 1 und 2 gelten entsprechend für die Wahlmodule, Schlüsselqualifikationen, Hochschulpraktika.“ 
 
 2. § 51 wird wie folgt geändert: 
 
@@ -52,11 +52,11 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
    - b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2)[1] Bei der Bildung der Note der Vertiefungsbereiche/Majors wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs/Majors gemäß der jeweiligen **Anlage** auf die Gesamtnote angerechnet.[2] Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-PunkteUmfangs der Einzelmodule gebildet.[3] Sätze 1 und 2 gelten entsprechend für die Wahlmodule/Elective Modules, Schlüsselqualifikationen/Key Qualifications, Hochschulpraktika/Laboratory Training und International Elective Modules.“ 
+„(2)<sup>1</sup> Bei der Bildung der Note der Vertiefungsbereiche/Majors wird pro Vertiefungsbereich eine Zwischennote gebildet und diese mit der ECTSPunkte-Summe des jeweiligen Vertiefungsbereichs/Majors gemäß der jeweiligen **Anlage** auf die Gesamtnote angerechnet.<sup>2</sup> Diese Zwischennote wird aus den Noten der Einzelmodule entsprechend des jeweiligen ECTS-PunkteUmfangs der Einzelmodule gebildet.<sup>3</sup> Sätze 1 und 2 gelten entsprechend für die Wahlmodule/Elective Modules, Schlüsselqualifikationen/Key Qualifications, Hochschulpraktika/Laboratory Training und International Elective Modules.“ 
 
 3. In § 52 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt am 3. März 2025 in Kraft.[2] Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am 3. März 2025 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
 
 2 
 
@@ -68,7 +68,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang M
 
    - a) Abs. 2 Satz 1 erhält folgende neue Fassung: 
 
-„[1] Die Vertiefungsmodule innerhalb der gewählten Vertiefungsrichtungen gemäß **Anlage 3** dienen der fachspezifischen Profilbildung, haben einen Mindestumfang gemäß **Anlage 1** , sind dem von der Studienkommission genehmigten übergreifenden Katalog der Vertiefungsmodule zu entnehmen und werden ortsüblich vor Vorlesungsbeginn im Modulhandbuch bekannt gemacht.“ 
+„<sup>1</sup> Die Vertiefungsmodule innerhalb der gewählten Vertiefungsrichtungen gemäß **Anlage 3** dienen der fachspezifischen Profilbildung, haben einen Mindestumfang gemäß **Anlage 1** , sind dem von der Studienkommission genehmigten übergreifenden Katalog der Vertiefungsmodule zu entnehmen und werden ortsüblich vor Vorlesungsbeginn im Modulhandbuch bekannt gemacht.“ 
 
    - b) In Abs. 3 wird das Wort „Wahlpflichtmodule“ durch das Wort „Vertiefungsmodule“ ersetzt. 
 
@@ -80,7 +80,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang M
 
    - b) Abs. 2 erhält folgende neue Fassung: 
 
-„(2)[1] Bei der Bildung der Modulnote der Vertiefungsbereiche wird eine Zwischennote für den jeweiligen Vertiefungsbereich gebildet, welche mit dem ECTS-Punkte-Umfang des jeweiligen Vertiefungsbereichs gemäß **Anlage 1** auf die Gesamtnote des Studiengangs angerechnet wird.[2] Diese Zwischennote wird aus den Noten der absolvierten Einzelmodule entsprechend des ECTSPunkte-Umfangs der Einzelmodule gebildet.[3] Sätze 1 und 2 gelten für die Wahlmodule und Hochschulpraktika entsprechend.“ 
+„(2)<sup>1</sup> Bei der Bildung der Modulnote der Vertiefungsbereiche wird eine Zwischennote für den jeweiligen Vertiefungsbereich gebildet, welche mit dem ECTS-Punkte-Umfang des jeweiligen Vertiefungsbereichs gemäß **Anlage 1** auf die Gesamtnote des Studiengangs angerechnet wird.<sup>2</sup> Diese Zwischennote wird aus den Noten der absolvierten Einzelmodule entsprechend des ECTSPunkte-Umfangs der Einzelmodule gebildet.<sup>3</sup> Sätze 1 und 2 gelten für die Wahlmodule und Hochschulpraktika entsprechend.“ 
 
 3. In § 48 Abs. 3 Satz 1 werden die Worte „Wahlpflicht- und“ gestrichen. 
 
@@ -90,7 +90,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang M
 
 3 
 
-„(3)[1] Die erste Änderungssatzung tritt am 3. März 2025 in Kraft.[2] Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am 3. März 2025 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ab dem Sommersemester 2025 ihr Studium im Bachelor- bzw. Masterstudiengang nach dieser Fachstudien- und Prüfungsordnung aufnehmen werden bzw. fortsetzen.“ 
 
 4 
 
@@ -98,12 +98,11 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang M
 
 ## a) Zeilen 32 und 33 erhalten folgende neue Fassung: 
 
-## „ 
+## <u>„</u> 
 
-|„|||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B 26|Vertiefungsbereich 1||2|1||1|**5**||||5|||PL|siehe § 43 Abs. 2||
-|B 27|Vertiefungsbereich 2||2|1||1|**5**||||||5|PL|siehe § 43 Abs. 2||
+|B 26|Vertiefungsbereich 1|2<br>1|1<br>**5**|5<br>PL<br>siehe § 43 Abs. 2|
+|---|---|---|---|---|
+|B 27|Vertiefungsbereich 2|2<br>1|1<br>**5**|5<br>PL<br>siehe § 43 Abs. 2|
 
 „ 
 
@@ -111,9 +110,9 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang M
 
 " 
 
-||**Summen SWS und ECTS-Punkte**|**67**|**45**|**23**|**6**|**180**|**30,0**|**30,0**|**30,0**|**30,0**|**30,0**|**30,0**|||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**141**|||||||||||||
+||**67**<br>**45**<br>**23**<br>**6**|||
+|---|---|---|---|
+|**Summen SWS und ECTS-Punkte**|**180**<br>**30,0**<br>**141**|**30,0**<br>**30,0**<br>**30,0**<br>**30,0**|**30,0**|
 
 " 
 

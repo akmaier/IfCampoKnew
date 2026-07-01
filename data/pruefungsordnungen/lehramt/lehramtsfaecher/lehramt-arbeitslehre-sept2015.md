@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 27.07.2009 i.d.F. 14.09.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/Lehramt_Arbeitslehre.Sept2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T06:59:34+00:00
-page_count_chars: 4671
+scraped_at: 2026-07-01T08:34:06+00:00
+page_count_chars: 4322
 ---
 
 # pdf vom 27.07.2009 i.d.F. 14.09.2015
@@ -30,24 +30,19 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 1 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Ge-<br>samt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|||
-|**Grundlagen der Fachdi-**<br>**daktik (GFD)**|Vorlesung|2||||5|3|||||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12S.)3|1|
-||Übung||2||||2|||||||||
-|**Grundlagen der Fach-**<br>**wissenschaft (GFW)**|Vorlesung|2||||||3||||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens, 10-12 S.)3<br>|1|
-||Übung|||||||||||||||
-||||2|||5||2||||||||
-|||||||||||||||||
-|**Medien und Methoden I**<br>**(MuM I)**|Seminar mit Medien-<br>schwerpunkt||||2|5||(2,5)|(2,5)|(2,5)|(2,5)|||Klausur (90 Min.)~~4~~oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12 S.)3|1|
-||Seminar mit Methoden-<br>schwerpunkt||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||||
-|**Medien und Methoden II**<br>**(MuM II)2**|Seminar mit Medien-<br>schwerpunkt||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||Klausur (90 Min.)4oder Referat und<br>|1|
-||methodische Begleit-<br>veranstaltung zum<br>Praktikum|||||5||||||||Hausarbeit (30-45 Min., 12-15 S.) oder<br>||
-||||||2|||(2,5)|(2,5)|(2,5)|(2,5)|||Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens, 10-12 S.)3||
-|**Arbeit und Beruf (AuB)**|Vorlesung|2||||5||(3)||(3)||||Klausur (90 Min.) oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12S.)3|1|
-||Seminar||||2|||(2)||(2)||||||
-||Summe:|6|4||8|20|5|5-15|0-5|0-10|0-5|||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P<br>S|Ge-<br>samt<br>ECTS<br>|Workload-<br>1.<br>2.|Verteilu<br>P<br>3.|ng pro<br>unkten<br>4.|Semester in ECTS-<br><sup>1</sup><br>5.<br>6.<br>7.|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+||Vorlesung|2||3||||Klausur (90 Min.) oder Referat und<br>||
+|**Grundlagen der Fachdi-**<br>**daktik (GFD)**|Übung|2|5|2||||Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12S.)<sup>3</sup>|1|
+||Vorlesung|2||3||||Klausur (90 Min.) oder Referat und||
+|**Grundlagen der Fach-**<br>**wissenschaft (GFW)**|Übung|2|5|2||||Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens, 10-12 S.)<sup>3</sup><br>|1|
+|**Medien und Methoden I**|Seminar mit Medien-<br>schwerpunkt|2|<br>5|(2,5)|(2,5)|(2,5)|(2,5)|Klausur (90 Min.)<sup>~~4~~</sup>oder Referat und<br>Hausarbeit (30-45 Min., 12-15 S.) oder|1|
+|**(MuM I)**|Seminar mit Methoden-<br>schwerpunkt|2|<br>|(2,5)|(2,5)|(2,5)|(2,5)|Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12 S.)<sup>3</sup>||
+||Seminar mit Medien-<br>schwerpunkt|2||(2,5)|(2,5)|(2,5)|(2,5)|Klausur (90 Min.)<sup>4</sup>oder Referat und<br>||
+|**Medien und Methoden II**<br>**(MuM II)**<sup>**2**</sup>|methodische Begleit-<br>veranstaltung zum<br>Praktikum|2|5<br>|(2,5)|(2,5)|(2,5)|(2,5)|Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens, 10-12 S.)<sup>3</sup>|1|
+||Vorlesung|2||(3)||(3)||Klausur (90 Min.) oder Referat und||
+|**Arbeit und Beruf (AuB)**|Seminar|2|5<br>|(2)||(2)||Hausarbeit (30-45 Min., 12-15 S.) oder<br>Portfolio (Arbeitsmappe auf Basis<br>selbstregulierten Lernens,10-12S.)<sup>3</sup>|1|
+||Summe:|6<br>4<br>8|<br>20|5<br>5-15|0-5|0-10|0-5|||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 2 
 
@@ -59,7 +54,7 @@ Abhängig von der Wahl der konkreten Lehrveranstaltung durch die Studierenden. N
 
 - 4 
 
-- Nach Wahl der Studierenden kann diese Prüfung auch in Form von zwei Teilklausuren à je 45 Minuten abgelegt werden. 
+Nach Wahl der Studierenden kann diese Prüfung auch in Form von zwei Teilklausuren à je 45 Minuten abgelegt werden. 
 
 **§ 3 In-Kraft-Treten** 
 

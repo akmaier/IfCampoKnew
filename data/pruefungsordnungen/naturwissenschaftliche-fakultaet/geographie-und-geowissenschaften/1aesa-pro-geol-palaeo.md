@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. Februar 1992"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa-PrO-Geol-Palaeo.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:39:00+00:00
-page_count_chars: 12102
+scraped_at: 2026-07-01T09:04:11+00:00
+page_count_chars: 12055
 ---
 
 # 5. Februar 1992
@@ -14,17 +14,17 @@ page_count_chars: 12102
 
 **Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 5. Februar 1992 
+# Vom 5. Februar 1992 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 des Bayerischen Hochschulgesetzes (BayHSchG) erläßt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **`§` 1** 
+# **`§` 1** 
 
 Die Diplomprüfungsordnung für Studenten der Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 13. August 1982 (KMBl II S. 741) wird wie folgt geändert: 
 
-## 1. Nach der Einleitungsformel wird eingefügt: 
+# 1. Nach der Einleitungsformel wird eingefügt: 
 
-## "Vorbemerkung zum Sprachgebrauch 
+# "Vorbemerkung zum Sprachgebrauch 
 
 Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen für weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint." 
 
@@ -112,9 +112,9 @@ vertrauensärztlichen Attestes verlangen.
 
 12. `§` 16 erhält folgende Fassung: 
 
-## **§ 16** 
+# **§ 16** 
 
-## Sonderregelung für Behinderte 
+# Sonderregelung für Behinderte 
 
 - (1) Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, daß er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgeschriebenen Form abzulegen, hat der Vorsitzende des Prüfungsausschusses dem Kandidaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen. 
 
@@ -162,7 +162,7 @@ lauten, daß die zur Bearbeitung vorgegebene Frist eingehalten werden kann. Auf 
 
 21. In `§` 31 Abs. 1 Satz 1 wird vor dem Wort "wiederholt" eingefügt "einmal". 
 
-**==> picture [16 x 10] intentionally omitted <==**
+**`§` 2** 
 
 Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

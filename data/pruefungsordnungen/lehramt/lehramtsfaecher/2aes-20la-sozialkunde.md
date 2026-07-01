@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. September 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Sozialkunde.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:16:52+00:00
-page_count_chars: 2133
+scraped_at: 2026-07-01T08:43:32+00:00
+page_count_chars: 2126
 ---
 
 # 9. September 2010
@@ -18,11 +18,11 @@ Vom 9. September 2010
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 30. März 2009, geändert durch Satzung vom 17. Dezember 2009, wird wie folgt geändert: 
 
-## 1. § 4 Abs. 1 wird wie folgt geändert: 
+# 1. § 4 Abs. 1 wird wie folgt geändert: 
 
    - a) In Spalte 4 Zeile 3 wird die Zahl „2,5“ durch die Zahl „5“ ersetzt. 
 
@@ -32,9 +32,8 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudi
 
 - „ 
 
-|8. FS|Angeleitetes Selbststudium|2|unbenotete Studienleistung|
-|---|---|---|---|
-|||||
+|8. FS  Angeleitetes Selbststudium|2|unbenotete Studienleistung<br>„|
+|---|---|---|
 
 2. § 5 Abs. 1 wird wie folgt geändert: 
 
@@ -44,7 +43,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudi
 
 „* In zwei der Module LARS II – LARS IV (nach Wahl der Studierenden) werden die beiden Klausuren auf je 45 Minuten verkürzt. Entsprechend reduzieren sich die Leistungspunkte in den gewählten Modulen auf 7,5.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Satzung tritt am Tage nach Ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die ihr Studium ab dem Wintersemester 2010/2011 aufnehmen. 
 

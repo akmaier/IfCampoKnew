@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA-KatholReligionslehre.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:50+00:00
-page_count_chars: 3958
+scraped_at: 2026-07-01T08:40:34+00:00
+page_count_chars: 3936
 ---
 
 # 15. September 2011
@@ -12,28 +12,27 @@ page_count_chars: 3958
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES_LA-KatholReligionslehre.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 15. September 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 27. Juli 2009 wird wie folgt geändert: 
 
-## § 2 Abs. 2 und 3 erhalten folgende Fassung: 
+# § 2 Abs. 2 und 3 erhalten folgende Fassung: 
 
 „(2) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS**|**Prüfungs- und Studien-**<br>**leistungen**|
 |---|---|---|---|---|
 ||**Basismodul Fachdidaktik kath.**<br>**Religionslehre**|**2**|**3**||
-|||||mündliche Prüfung o.<br>Klausuro. Hausarbeit|
-|2./4./6.|Einführung in die Theologie|2S|3||
+|2./4./6.|Einführung in die Theologie|2S|3|mündliche Prüfung o.<br>Klausuro. Hausarbeit|
 ||**Aufbaumodul Fachdidaktik kath.**<br>**Religionslehre Grundschule**|**6**|**7**||
-|1./3./5.|Einführung in die Didaktik des katholischen<br>Religionsunterrichts|2V/Ü|2|Klausur od. mündliche<br>Prüfung über beide<br>Vorlesungen|
-|2./4./6.|Religiöses Lernen|2V/Ü|2||
+|1./3./5.|Einführung in die Didaktik des katholischen<br>Religionsunterrichts|2V/Ü|2|Klausur od. mündliche<br>Prüfung über beide|
+|2./4./6.|Religiöses Lernen|2V/Ü|2|Vorlesungen|
 |2./4./6.<br>o.<br>3./5.|Religionspädagogisches Seminar|2S|3|Referat und mündliche<br>Prüfung o. Klausur o.<br>Hausarbeit|
 ||**Praxismodul Fachdidaktik katholische**<br>**Religionslehre Grundschule**|**1**|**1**||
 |3./5<br>o.<br>4./6.|Begleitseminar zum Blockpraktikum|1S/Ü|1|Unterrichtsentwurf und<br>Verlaufspläne oder<br>Referat und<br>Praktikumsbericht<br>(bestanden/nicht<br>bestanden)|
@@ -56,10 +55,9 @@ Die Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre i
 |3./5.|Religionspädagogisches Seminar|2S|4|Referat und Teilnahme im<br>anderen Seminar<br>(bestanden/nicht<br>bestanden)|
 ||**Praxismodul Fachdidaktik katholische**<br>**Religionslehre Hauptschule**|**2**|**2**||
 |5./7.|Begleitseminar zum zusätzlichen<br>studienbegleitenden Praktikum|2S|2|Unterrichtsentwurf und<br>Verlaufspläne oder Referat<br>und Praktikumsbericht<br>(bestanden/nicht<br>bestanden)|
-||**Summe**|**14**|**20**||
-|||||**„**|
+||**Summe**|**14**|**20**|**„**|
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2011 in Kraft. 
 

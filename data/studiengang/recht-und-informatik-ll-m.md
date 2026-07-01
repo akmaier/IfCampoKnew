@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:50:33+00:00
+scraped_at: 2026-07-01T08:27:35+00:00
 ---
 
 # Recht und Informatik (LL.M.)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2-Fach-BA Buchwissenschaft FPO B.A. BuWi 20181207 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/Aenderungssatzungen/2-Fach-BA_Buchwissenschaft_FPO_B.A._BuWi_20181207_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:54:04+00:00
-page_count_chars: 7828
+scraped_at: 2026-07-01T10:16:09+00:00
+page_count_chars: 7501
 ---
 
 # 2-Fach-BA Buchwissenschaft FPO B.A. BuWi 20181207 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 7828
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Buchwissenschaft/Aenderungssatzungen/2-Fach-BA_Buchwissenschaft_FPO_B.A._BuWi_20181207_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 7. Dezember 2018** 
+# **Vom 7. Dezember 2018** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -26,15 +26,15 @@ Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fac
 
 2. In § 1 werden nach den Worten „Allgemeine Studien- und Prüfungsordnung für“ das Wort „Bachelorstudiengänge“ durch die Worte „Bachelor- und Masterstudiengänge“ ersetzt sowie nach den Worten mit Zeichen „im Folgenden: **ABMStPO/ Phil** –“ die Worte „in der jeweils geltenden Fassung“ eingefügt. 
 
-## 3. § 2 wird wie folgt geändert: 
+# 3. § 2 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach den Worten „kann im“ das Wort „Bachelorstudiengang“ durch das Wort „Zwei-Fach-Bachelorstudiengang“ ersetzt und nach den Worten „entweder als“ die Worte „erstes Fach“ durch das Wort „Erstfach“ sowie nach den Worten „oder als“ die Worte „zweites Fach“ durch das Wort „Zweitfach“ ersetzt. 
 
 - b) In Abs. 2 Satz 1 werden die Worte am Satzanfang „Im Fach Buchwissenschaft erwerben die Studierenden“ durch die Worte „Die Studierenden erwerben“ sowie nach dem Wort „grundlegende“ das Wort „Fachkenntnisse der Buchwissenschaft“ durch die Worte „Kenntnisse im Bereich der Schriftmedienkommunikation“ ersetzt. 
 
-## c) Abs. 3 erhält folgende neue Fassung: 
+# c) Abs. 3 erhält folgende neue Fassung: 
 
-„(3)[1] Das Studium vermittelt sowohl wissenschaftlich-analytisch am Lehrgegenstand ausgerichtete als auch praxis- und anwendungsorientierte Kompetenzen.[2] Diese Zielstellung wird insbesondere auf die Rezeption und Nutzung, auf Kommunikation und Kommunikationssteuerung sowie auf Organisationsleistungen im Kontext von analogen und digitalen Schriftmedien bezogen.“ 
+„(3)<sup>1</sup> Das Studium vermittelt sowohl wissenschaftlich-analytisch am Lehrgegenstand ausgerichtete als auch praxis- und anwendungsorientierte Kompetenzen.<sup>2</sup> Diese Zielstellung wird insbesondere auf die Rezeption und Nutzung, auf Kommunikation und Kommunikationssteuerung sowie auf Organisationsleistungen im Kontext von analogen und digitalen Schriftmedien bezogen.“ 
 
 1 
 
@@ -42,7 +42,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fac
 
 a) Abs. 1 und 2 erhalten folgende neue Fassung: 
 
-„(1)[1] Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.[2] Er ist in drei Phasen gegliedert: 
+„(1)<sup>1</sup> Der Studiengang besteht aus Pflicht- und Wahlpflichtmodulen.<sup>2</sup> Er ist in drei Phasen gegliedert: 
 
 1. In der ersten, einjährigen Studienphase erwerben die Studierenden eine breite Basis in den Bereichen Grundlagen der Schriftmedienkommunikation, wissenschaftliche Methodologie sowie soziotechnische Systeme, indem sie einführende Veranstaltungen besuchen. 
 
@@ -52,11 +52,11 @@ a) Abs. 1 und 2 erhalten folgende neue Fassung:
 
 (2) Umfang und Gliederung des Studiums sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** .“ 
 
-- b) Abs. 3 und 4 werden gestrichen. 
+b) Abs. 3 und 4 werden gestrichen. 
 
 - c) Der bisherige Abs. 5 wird zu Abs. 3 und erhält folgende neue Fassung: 
 
-„(3)[1] Falls Buchwissenschaft als Erstfach gewählt wird, sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 30 ECTS-Punkten zu erbringen. 2Dabei ist das Modul „Schlüsselqualifikation Praktikum“ (10 ECTS-Punkte) zu absolvieren.“ 
+„(3)<sup>1</sup> Falls Buchwissenschaft als Erstfach gewählt wird, sind im Bereich Schlüsselqualifikationen Leistungen im Umfang von 30 ECTS-Punkten zu erbringen. 2Dabei ist das Modul „Schlüsselqualifikation Praktikum“ (10 ECTS-Punkte) zu absolvieren.“ 
 
 d) Abs. 6 wird gestrichen. 
 
@@ -74,38 +74,36 @@ d) Abs. 6 wird gestrichen.
 
 2 
 
-- b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
+b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die neunte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die neunte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 3 
 
-## 8. Nach § 7 wird folgende neue **Anlage** angefügt: 
+# 8. Nach § 7 wird folgende neue **Anlage** angefügt: 
 
-## **„Anlage: Studienverlaufsplan Zwei-Fach-Bachelorstudiengang Buchwissenschaft** 
+# **„Anlage: Studienverlaufsplan Zwei-Fach-Bachelorstudiengang Buchwissenschaft** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in|ECTS-Punkten1||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|Einführung|Vorlesung|2||||10|5||||||Klausur (90 Min.)|1|
-||Proseminar||||2||5||||||||
-|Medientheoretische Grundlagen|Proseminar||||2|5|5||||||Essay (5–10 S.)|0,5|
-|Methoden|Proseminar||||2|5||5|||||Exzerpt (5–10 S.)|0,5|
-|Soziotechnische Systeme|Vorlesung|2||||10||5|||||Klausur (60 Min.)|0,5|
-||Proseminar||||2|||5|||||||
-|Unternehmerische Praxis|Proseminar||||2|5|||5||||Essay (5–10 S.)|0|
-|Ri  N|Vorlesung|1||||1||||5|||Referat (ca. 20 Min., 0 %) und|2|
-|ezepton und utzung|Hauptseminar||||2|0||||5|||Hausarbeit (20–25 S.,100 %)||
-|Kommunikation und Kommunikations-<br>steuerung|Vorlesung|1||||10||||5|||Referat (ca. 20 Min., 0 %) und<br>Hausarbeit (20–25 S.,100 %)|2|
-||Hauptseminar||||2|||||5|||||
-|Oiili|Vorlesung|1||||1|||5||||Hausarbeit|2|
-|rgansatonsestungen|Hauptseminar||||2|0|||5||||(ca. 20–25 S.)||
-|Forschungsperspektiven|Hauptseminar||||2|5|||||5||Referat (ca. 20 Min.)|0|
-|Schlüsselqualifikation Praktikum2, 3|Praktikum (8 Wochen)|||||10|||||10||Praktikumsbericht<br>(ca. 5 S.)|0|
-|Bachelorarbeit3||||||10||||||10|Bachelorarbeit<br>(ca. 40 S.)|2|
-||Summe:|7|0|0|18|70 bzw.<br>80+104|1|1|1|2|1|1|||
-|||27|||||5|5|5|0|5|0|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Gesamt<br>ECTS|Workload-<br>in|Verteilung pro Semester<br>ECTS-Punkten<sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.<br>5.<br>6.||note|
+|Einführn|Vorlesung|2|10|5||Klasr (90 Min)|1|
+|ug|Proseminar|2||5||uu  .||
+|Medientheoretische Grundlagen|Proseminar|2|5|5||Essay (5–10 S.)|0,5|
+|Methoden|Proseminar|2|5|5||Exzerpt (5–10 S.)|0,5|
+|Soziotechnische Ssteme|Vorlesung|2|10|5||Klausur (60 Min)|05|
+|y|Proseminar|2||5||.|,|
+|Unternehmerische Praxis|Proseminar|2|5||5|Essay (5–10 S.)|0|
+|Rti d Nt|Vorlesung|1|10||5|Referat (ca. 20 Min., 0 %) und|2|
+|ezepon un uzung|Hauptseminar|2|||5|Hausarbeit (20–25 S.,100 %)||
+|Kommunikation und Kommunikations-|Vorlesung|1|10||5|Referat (ca. 20 Min., 0 %) und|2|
+|steuerung|Hauptseminar|2|||5|Hausarbeit (20–25 S.,100 %)||
+|Oitilit|Vorlesung|1|10||5|Hausarbeit|2|
+|rgansaonsesungen|Hauptseminar|2|||5|(ca. 20–25 S.)||
+|Forschungsperspektiven|Hauptseminar|2|5||5|Referat (ca. 20 Min.)|0|
+|Schlüsselqualifikation Praktikum<sup>2, 3</sup>|Praktikum (8 Wochen)||10||10|Praktikumsbericht<br>(ca. 5 S.)|0|
+|Bachelorarbeit<sup>3</sup>|||10||10|Bachelorarbeit<br>(ca. 40 S.)|2|
+||Summe:|7<br>0<br>0<br>18<br>27|70 bzw.<br>80+10<sup>4</sup>|15<br>15|15<br>20<br>15<br>10|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -117,7 +115,7 @@ d) Abs. 6 wird gestrichen.
 
 4 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die neunte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
 

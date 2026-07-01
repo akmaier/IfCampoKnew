@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA North American Studies FPONoAmStud 20100608 i.d.F. 20170808 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/North-American-Studies_-_Culture_and_Liturature/englisch/MA_North_American_Studies_FPONoAmStud_20100608_idF_20170808_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:55+00:00
-page_count_chars: 9479
+scraped_at: 2026-07-01T09:45:49+00:00
+page_count_chars: 8920
 ---
 
 # MA North American Studies FPONoAmStud 20100608 i.d.F. 20170808 en.pdf
@@ -24,13 +24,13 @@ Based on Section 13 (1)(2), Section 43 (5)(2), Section 61 (2)(1) of the Bavarian
 
 Section 1 Scope .................................................................................................................... 1 Section 2 Qualification for a Master's Degree, Certificates and Admission Requirements ..... 1 Section 3 Scope and Structure of the Master's Degree Programme, Examinations ............... 2 Section 4 Admission Requirements for the Master's Thesis .................................................. 2 Section 5 Legal Validity and Transitory Provisions ................................................................ 2 Appendix: Master's degree programme in North American Studies ....................................... 3 
 
-## **Section 1 Scope** 
+# **Section 1 Scope** 
 
 The degree programme and examination regulations for the research-orientated consecutive Master's degree programme in North American Studies leading to the degree “Master of Arts (M.A.)” supplement the valid version of the General Examination Regulations for the Bachelor's and Master's Degree Programmes at the Faculty of Humanities, Social Sciences, and Theology at FAU – **ABMStPO/Phil** . 
 
-## **Section 2 Qualification for a Master's Degree, Certificates and Admission Requirements** 
+# **Section 2 Qualification for a Master's Degree, Certificates and Admission Requirements** 
 
-(1)[1] A subject-specific degree is a degree in a two-subject Bachelor's degree programme in the subject American Studies.[2] Degrees shall be recognised as subjectrelated degrees within the meaning of Section 35 (1) (1) in conjunction with paragraph (2) **ABMStPO/Phil** provided the degree programme covered issues relevant to North America to a considerable extent (proven by an academic paper such as a seminar 
+(1)<sup>1</sup> A subject-specific degree is a degree in a two-subject Bachelor's degree programme in the subject American Studies.<sup>2</sup> Degrees shall be recognised as subjectrelated degrees within the meaning of Section 35 (1) (1) in conjunction with paragraph (2) **ABMStPO/Phil** provided the degree programme covered issues relevant to North America to a considerable extent (proven by an academic paper such as a seminar 
 
 1 
 
@@ -42,7 +42,7 @@ paper, assignment or thesis written in English during the degree programme leadi
 
 2. Evidence of proficiency in English at a level equivalent to at least C1 of the Common European Framework of Reference  for Languages (CEFR) or equivalent evidence according to the table of equivalence published by the Language Centre at FAU. 
 
-(3)[1] For applicants with an overall grade on their subject-specific or subject-related degree or, in the case of Section 35 (4) **ABMStPO/Phil** , an average of their achievements hitherto between 2.51 and 3.50, a selection interview shall be held; the remaining applicants shall not be admitted to the second level of the qualification assessment process and shall receive a rejection notification including reasons and information on legal remedies available.[2] The selection interview shall demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree programme.[3] In the selection interview, applicants shall be evaluated according to the following criteria in particular: 
+(3)<sup>1</sup> For applicants with an overall grade on their subject-specific or subject-related degree or, in the case of Section 35 (4) **ABMStPO/Phil** , an average of their achievements hitherto between 2.51 and 3.50, a selection interview shall be held; the remaining applicants shall not be admitted to the second level of the qualification assessment process and shall receive a rejection notification including reasons and information on legal remedies available.<sup>2</sup> The selection interview shall demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree programme.<sup>3</sup> In the selection interview, applicants shall be evaluated according to the following criteria in particular: 
 
 1. Fundamental principles of literary theory (25%); 
 
@@ -52,65 +52,57 @@ paper, assignment or thesis written in English during the degree programme leadi
 
 4. Literary history of North America (25%). 
 
-## **Section 3 Scope and Structure of the Master's Degree Programme,** 
-
-## **Examinations** 
+# **Section 3 Scope and Structure of the Master's Degree Programme, Examinations** 
 
 (1) Scope and structure of the Master's degree programme in North American Studies as well as scope, type and weighting factor of the examinations shall be set forth in the Appendix. 
 
-- (2) The teaching and examination language is English. 
+(2) The teaching and examination language is English. 
 
-## **Section 4 Admission Requirements for the Master's Thesis** 
+# **Section 4 Admission Requirements for the Master's Thesis** 
 
 In order to be admitted to the Master’s thesis module pursuant to Section 38 (2) **ABMStPO/Phil** , students shall provide evidence that they have obtained at least 60 ECTS credits and have successfully completed at least two modules from the advanced and specialisation modules pursuant to the **Appendix** . 
 
-## **Section 5 Legal Validity and Transitory Provisions** 
+# **Section 5 Legal Validity and Transitory Provisions** 
 
 These degree programme and examination regulations shall come into effect on the day after their publication. 
 
 2 
 
-## **Appendix: Master's degree programme in North American Studies** 
+# **Appendix: Master's degree programme in North American Studies** 
 
-|Module title|Module title||SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)|ECTS<br>credits|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Type and scope of the<br>examination/course achievement|Grade<br>factor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Teaching unit||hours)|||||credits1|||||
-|||||||||||||||
-||||L|T|E|C||1.|2.|3.|4.|||
-|Introductory module<br>Cultural Studies||Lecture North American<br>Cultural Studies|2||||10|5||||Oral examination (20 min.)|1|
-|||Master’s seminar North American<br>Cultural Studies||||2||5||||||
-|Introductory module<br>Literary Studies||Lecture North American Literary<br>Studies|2||||10|5||||Oral examination (20 min.)|1|
-|||Master’s seminar North American<br>Literary Studies||||2||5||||||
-|Module Academic Language Skills2||||||||||||||
-||Academic Discourse2|Academic Discourse2||(2)|||(5)|(5)|(5)|||Presentation (15–20 min.) and written task<br>(45–60 min.); each 50 % of the module grade|1|
-||Discourse Structure2|Discourse Structure2||(2)|||(5)|(5)|(5)|||Presentation (15–20 min.) and written task<br>(45–60min.); each50 % ofthemodule grade|1|
-||Translation German-<br>English2|Translation German-English2||(2)|||(5)|(5)|(5)|||Presentation (15–20 min.) and written task<br>(45–60 min.); each 50 % of the module grade|1|
-||Advanced Grammar2|Advanced Grammar2||(2)|||(5)|(5)|(5)|||Presentation (15–20 min.) and written task<br>(45–60 min.) or presentation (15–20 min.)<br>and oral examination (15–20 min.);<br>each 50 % of the module grade|1|
-|Advanced module Cultural<br>Studies4||Advanced seminar on cultural<br>studies||||2|1||7|||Written assignment (15–20 pages, 70%) and<br>handout (2–3 pages, 30 %)|1|
-|||Master’s seminar<br>Readings in Cultural Studies||||1|0||3|||||
-|||||||||||||||
-|Advanced module Literary<br>Studies||Advanced seminar on literary<br>studies||||2|10||7|||Written assignment (15–20 pages, 70 %) and<br>handout (2–3 pages, 30 %)|1|
-|||Master’s seminar<br>Readings in Literary Studies||||1|||3|||||
-|Overview module||Lecture Cultural and<br>Literary History|2||||10||7|||Oral examination (20 min., 100 %) on the<br>basis of response papers (3 papers of<br>5 pages each, 0 %)|1|
-|||Independent study||||||||||||
-||||||||||3|||||
-|||||||||||||||
-|Specialisation module<br>Cultural Studies4||Advanced seminar on cultural<br>studies||||2|10|||7||Written assignment (15–20 pages, 70 %) and<br>academic presentation (20 min. 30 %)|1|
-|||Independent study||||||||3||||
+|Module title|Teaching unit|SWS (sem<br>hours)|ester<br>|ECTS<br>credits|Distribution<br>per semest<br>cred|of workload<br>er in ECTS<br>its<sup>1</sup><br>Type and scope of the<br>examination/course achievement|Grade<br>factor|
+|---|---|---|---|---|---|---|---|
+||L|<br>T<br>|E<br>C||1.<br>2.|3.<br>4.||
+||Lecture North American<br>2||||5|||
+|Introductory module<br>|Cultural Studies<br>|||10||Oral examination (20 min)|1|
+|Cultural Studies|Master’s seminar North American<br>Cultural Studies||2||5|.||
+|Introductory module<br>|Lecture North American Literary<br>Studies<br>2|||10|5|Oral examination (20 min)|1|
+|Literary Studies|Master’s seminar North American||2||5|.||
+||Literary Studies|||||||
+|Module Academic Language|<br>Skills<sup>2</sup>|||||Ptti 1520 i d itt tk||
+|Academic Discourse<sup>2</sup>|Academic Discourse<sup>2</sup>|(2)||(5)|(5)<br>(5)|resenaon (– mn.) an wren as<br>(45–60 min.); each 50 % of the module grade|1|
+|Discourse Structure<sup>2</sup>|Discourse Structure<sup>2</sup>|(2)||(5)|(5)<br>(5)|Presentation (15–20 min.) and written task<br>(45–60min.); each50 % ofthemodule grade|1|
+|Translation German-<br>English<sup>2</sup>|Translation German-English<sup>2</sup>|(2)||(5)|(5)<br>(5)|Presentation (15–20 min.) and written task<br>(45–60 min.); each 50 % of the module grade|1|
+|Advanced Grammar<sup>2</sup>|Advanced Grammar<sup>2</sup>|(2)||(5)|(5)<br>(5)|Presentation (15–20 min.) and written task<br>(45–60 min.) or presentation (15–20 min.)<br>and oral examination (15–20 min.);<br>each 50 % of the module grade|1|
+|Advanced module Cultural|Advanced seminar on cultural<br>studies||2|10|7|Written assignment (15–20 pages, 70%) and|1|
+|Studies<sup>4</sup>|Master’s seminar<br>Readings in Cultural Studies||1||3|handout (2–3 pages, 30 %)||
+|Advanced module Literary|Advanced seminar on literary<br>studies||2|10|7|Written assignment (15–20 pages, 70 %) and|1|
+|Studies|Master’s seminar<br>Readings in Literary Studies||1||3|handout (2–3 pages, 30 %)||
+||Lecture Cultural and<br>Literar Histor<br>2||||7|Oral examination (20 min., 100 %) on the||
+|Overview module|y y|||10||basis of response papers (3 papers of|1|
+||Independent study||||3|<br>5 pages each, 0 %)||
+|Specialisation module|Advanced seminar on cultural<br>studies||2|10||7<br>Written assignment (15–20 pages, 70 %) and|1|
+|Cultural Studies<sup>4</sup>|Independent study|||||academic presentation (20 min. 30 %)<br>3||
 
 3 
 
-|Module title||SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)|SWS (semester<br>hours)|ECTS<br>credits|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Distribution of workload<br>per semester in ECTS<br>credits1|Type and scope of the<br>examination/course achievement|Grade<br>factor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Teaching unit||hours)||||||||||
-|||||||||credits1|||||
-||||||||||||||
-|||L|T|E|C||1.|2.|3.|4.|||
-|Specialisation module<br>Literary Studies|Advanced seminar on literary<br>studies||||2|10|||7||Written assignment (15–20 pages, 70 %) and<br>academic presentation (20 min. 30 %)|1|
-||Independent study||||||||3||||
-|Project module|Lecture series/conference|||||10|||10||Project assignment consisting of report and<br>academic response(15–20pages)|1|
-|Master's thesis|Master's thesis|||||30||||30|Master's thesis ( approx. 80 pages)|1|
-||Total|6|4||14|120|30|30|30|30|||
+|Module title|Teaching unit<br>SWS (semester<br>hours)<br>L<br>T<br>E<br>C|ECTS<br>credits|Distribution o<br>per semeste<br>credi<br>1.<br>2.|f work<br>r in E<br>ts<sup>1</sup><br>3.|load<br>CTS<br>Type and scope of the<br>examination/course achievement<br>4.|Grade<br>factor|
+|---|---|---|---|---|---|---|
+|Specialisation module|Advanced seminar on literary<br>studies<br>2|10||7|Written assignment (15–20 pages, 70 %) and|1|
+|Literary Studies|Independent study|||3|academic presentation (20 min. 30 %)||
+|Project module|Lecture series/conference|10||10|Project assignment consisting of report and<br>academic response(15–20pages)|1|
+|Master's thesis|Master's thesis|30|||30<br>Master's thesis ( approx. 80 pages)|1|
+||Total<br>6<br>4<br>14|120|30<br>30|30|30||
 
 1 The distribution shown is a recommendation. 
 

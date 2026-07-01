@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/2AES%20WTB-MA%20OrgPersEntwick_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:48:29+00:00
-page_count_chars: 11822
+scraped_at: 2026-07-01T09:58:57+00:00
+page_count_chars: 11691
 ---
 
 # 11. August 2010
@@ -28,7 +28,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungs-Masterstudiengan
 
    - a) Abs. 1 wird wie folgt geändert: 
 
-aa) Die hochgestellte Zahl „[1] “ wird ersatzlos gestrichen. bb) In Nr. 1 wird vor das Wort Erfolg das Wort „überdurchschnittlichem“ eingefügt und die Worte in dem Klammerzusatz „(Abschlussnote mind. 2,5)“ ersatzlos gestrichen. 
+aa) Die hochgestellte Zahl „<sup>1</sup> “ wird ersatzlos gestrichen. bb) In Nr. 1 wird vor das Wort Erfolg das Wort „überdurchschnittlichem“ eingefügt und die Worte in dem Klammerzusatz „(Abschlussnote mind. 2,5)“ ersatzlos gestrichen. 
 
 cc)In Nr. 2 wird nach dem Wort „Studiums“ die Worte „gemäß Nr. 1“ eingefügt. 
 
@@ -36,11 +36,11 @@ dd) In Nr. 3 wird das Wort „Eignungsfeststellungsverfahren“ durch das Wort �
 
 - b) Es werden folgende neue Absätze 2 und 3 eingefügt: 
 
-„(2)[1] Ein überdurchschnittlicher Studienabschluss liegt regelmäßig vor, wenn die Bewerberin oder der Bewerber nachweist, dass sie/er zu den 50 v. H. Besten ihres/seines Jahrgangs zählt oder einen Abschluss mit der Gesamtnote wenigstens "gut" (nicht schlechter als 2,50) aufweist. 2Bewerberinnen und Bewerber mit einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00, können aufgenommen werden, wenn sie erfolgreich an einem Auswahlgespräch innerhalb des Qualifikationsfeststellungsverfahrens (vgl. Anlage 1) teilgenommen haben.“ „(3)[1] Eine einschlägige qualifizierte Berufstätigkeit kann insbesondere durch Berufsfelder in den Bereichen von Organisationsund Personalentwicklung (z.B. als Personalreferenten, Führungskräften, Beratern und Projektverantwortliche) nachgewiesen werden. 2In Ausnahmefällen und auf Antrag können auch davon abweichende 
+„(2)<sup>1</sup> Ein überdurchschnittlicher Studienabschluss liegt regelmäßig vor, wenn die Bewerberin oder der Bewerber nachweist, dass sie/er zu den 50 v. H. Besten ihres/seines Jahrgangs zählt oder einen Abschluss mit der Gesamtnote wenigstens "gut" (nicht schlechter als 2,50) aufweist. 2Bewerberinnen und Bewerber mit einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00, können aufgenommen werden, wenn sie erfolgreich an einem Auswahlgespräch innerhalb des Qualifikationsfeststellungsverfahrens (vgl. Anlage 1) teilgenommen haben.“ „(3)<sup>1</sup> Eine einschlägige qualifizierte Berufstätigkeit kann insbesondere durch Berufsfelder in den Bereichen von Organisationsund Personalentwicklung (z.B. als Personalreferenten, Führungskräften, Beratern und Projektverantwortliche) nachgewiesen werden. 2In Ausnahmefällen und auf Antrag können auch davon abweichende 
 
 1 
 
-Berufsfelder zum Nachweis der erforderlichen einschlägigen Berufstätigkeit anerkannt werden. 3Orientierung hierfür ist der Kriterienkatalog für die Anerkennung berufspraktischer Kompetenzen und insbesondere der dort genannten Kompetenzfelder der Stufe 1.[4] Die Kandidaten müssen insbesondere die Strukturen, Besonderheiten und Grenzen von Problemen des Fachs im Rahmen einer ersten beobachtenden Wahrnehmung definieren und interpretieren können. 5Ferner muss dargelegt werden, dass ein breites, detailliertes und kritisches Verständnis auf dem neusten Stand des Wissens in einem oder mehreren Spezialbereichen vorliegt.“ 
+Berufsfelder zum Nachweis der erforderlichen einschlägigen Berufstätigkeit anerkannt werden. 3Orientierung hierfür ist der Kriterienkatalog für die Anerkennung berufspraktischer Kompetenzen und insbesondere der dort genannten Kompetenzfelder der Stufe 1.<sup>4</sup> Die Kandidaten müssen insbesondere die Strukturen, Besonderheiten und Grenzen von Problemen des Fachs im Rahmen einer ersten beobachtenden Wahrnehmung definieren und interpretieren können. 5Ferner muss dargelegt werden, dass ein breites, detailliertes und kritisches Verständnis auf dem neusten Stand des Wissens in einem oder mehreren Spezialbereichen vorliegt.“ 
 
    - c) Der bisherige Abs. 2 wird zu dem neuen Abs. 4. 
 
@@ -72,9 +72,9 @@ bb) In Satz 2 wird das Wort „Leistungspunkteumfang“ durch das Wort „ECTS-P
 
 2 
 
-- d) In Abs. 7 wird Satz 2 gestrichen. Die bisherigen Sätze 3 bis 6 werden zu Sätzen 2 bis 5. 
+   - d) In Abs. 7 wird Satz 2 gestrichen. Die bisherigen Sätze 3 bis 6 werden zu Sätzen 2 bis 5. 
 
-## 4. § 4 wird wie folgt geändert: 
+4. § 4 wird wie folgt geändert: 
 
 a) In Abs. 1 Satz 1 wird das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ und die Ziffer „I“ durch die Worte „und Fachbereich Theologie“ ersetzt. 
 
@@ -84,7 +84,7 @@ b) In Abs. 2 Satz 1 werden nach dem Wort „Hochschulpersonalgesetzes“ die Wor
 
 - a) Satz 2 wird ersatzlos gestrichen. 
 
-b) Der bisherige Satz 3 wird zum neuen Satz 2. 
+- b) Der bisherige Satz 3 wird zum neuen Satz 2. 
 
 c) Im neuen Satz 2 werden die Worte und Zahlen „Sätze 1 und 2 gelten“ durch die Worte und die Zahl „Satz 1 gilt“ ersetzt. 
 
@@ -104,7 +104,7 @@ bb) In Satz 4 wird das Wort „Kreditpunkten“ durch das Wort „ECTSPunkten“
 
 aa) Satz 1 erhält folgende Fassung: 
 
-„[1] Die Masterprüfung umfasst die Prüfungen in den Pflichtmodulen sowie in zwei von vier Wahlmodulen, das Modul Berufspraxis (M 6), die Projektarbeit (Module M 7.1 und M 7.2) und die Anfertigung der Masterthesis (Module M 8.1 und M 8.2) gemäß der **Anlage 2** im Umfang von insgesamt 120 ECTS-Punkten.“ 
+„<sup>1</sup> Die Masterprüfung umfasst die Prüfungen in den Pflichtmodulen sowie in zwei von vier Wahlmodulen, das Modul Berufspraxis (M 6), die Projektarbeit (Module M 7.1 und M 7.2) und die Anfertigung der Masterthesis (Module M 8.1 und M 8.2) gemäß der **Anlage 2** im Umfang von insgesamt 120 ECTS-Punkten.“ 
 
 bb) In Satz 2 werden die Worte „schriftlich oder mündlich, als Referate mit schriftlicher Ausarbeitung oder als Präsentation“ gestrichen. cc) In Satz 3 wird die Zahl „12“ durch „M 7.2“ ersetzt. 
 
@@ -114,19 +114,17 @@ bb) In Satz 2 werden die Worte „schriftlich oder mündlich, als Referate mit s
 
 8. § 18 Abs. 3 wird wie folgt geändert: 
 
-   - a) Satz 1 erhält folgende Fassung: 
+## a) Satz 1 erhält folgende Fassung: 
 
-   - „[1] Die Vergabe des Themas für die Masterthesis setzt voraus, dass die Module M 1.1, M 1.2, M 2.1, M 2.2, M 3.1, M 4.1 und M 5.1 erfolgreich abgelegt sind und im Modul M 6 mindestens 20 ECTS angerechnet sind.“ 
+„<sup>1</sup> Die Vergabe des Themas für die Masterthesis setzt voraus, dass die Module M 1.1, M 1.2, M 2.1, M 2.2, M 3.1, M 4.1 und M 5.1 erfolgreich abgelegt sind und im Modul M 6 mindestens 20 ECTS angerechnet sind.“ b) In Satz 6 wird das Wort „ein“ durch das Wort „zwei“ ersetzt. 
 
-   - b) In Satz 6 wird das Wort „ein“ durch das Wort „zwei“ ersetzt. 
-
-9. § 19 Abs. 1 wird wie folgt geändert: 
+## 9. § 19 Abs. 1 wird wie folgt geändert: 
 
 a) In Satz 1 werden die Worte „bei nicht ausreichender Beurteilung“ gestrichen. 
 
 b) Satz 2 erhält folgende Fassung: 
 
-„[2] Können sich die Betreuerin/ der Betreuer und die zweite 
+„<sup>2</sup> Können sich die Betreuerin/ der Betreuer und die zweite 
 
 prüfungsberechtigten Person nicht auf eine Note einigen, entscheidet ein dritter Gutachter/ eine dritte Gutachterin unter Berücksichtigung der Notenvorschläge über die endgültige Bewertung.“ 
 
@@ -142,68 +140,53 @@ b) Nr. 7d wird ersatzlos gestrichen.
 
 ## 11. Die Anlage 2 erhält folgende Fassung: 
 
-||||1. Sem|2. Sem|3. Sem|4. Sem|Art und Umfang der Studien-<br>und Prüfungsleistungen|
-|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|ECTS|ECTS|ECTS|ECTS|ECTS||
-|**M 1.1**<br>**Grundlagen der Organisations-**<br>**und Personalentwicklung**|Integration von Organisation<br>und Person(al)|5|1,5||||Klausur (60-120 Min.)<br>Präsentation (10-15 Min.)|
-||Strategie und Verantwortung||1,5|||||
-||Organisationsforschung||1,5|||||
-||Teambuilding||0,5|||||
-|**M 1.2**<br>**Qualifikationsplanung und**<br>**Personalentwicklung**|Innovative Arbeitsorganisation<br>und veränderte<br>Qualifikationsanforderunen|2,5|1,25||||Klausur (60-120 Min.)|
-||g|||||||
-||Konzepte der<br>Personalentwicklung||1,25|||||
-|**M 1.3**<br>**Wahlmodul Beratung***|Beratung|2,5||2,5*|||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
-|**M 2.1**<br>**Konzepte der**<br>**Organisationsentwicklung**|Einführung in Konzepte der<br>Organisationsentwicklung||2,5||||Hausarbeit (10-15 Seiten)|
-||Konzepte der<br>Organisationsentwicklung<br>(Unternehmenskultur,<br>Lernkultur)|||||||
-|||||||||
-|||5||1,25||||
-|||||||||
-||Konzepte der Organisations-<br>entwicklung in der Praxis|||1,25||||
-|**M 2.2**<br>**Umsetzung von**<br>**Organisationsentwicklungs-**<br>**prozessen**|Change Management|5|2,5||||Präsentation (10-20 Min.)<br>Übungsaufgaben<br>Präsentation (10-15 Min.)<br>Präsentation (10-15 Min.)|
-||Vielfalt managen (e-learning)||1,5|||||
-||Projektmanagement||0,5|||||
-||Moderation und Präsentation||0,5|||||
+|Modulbezeichnung|Lehrveranstaltung|ECTS|1. Sem<br>2. Sem<br>ECTS<br>ECTS|3. Sem<br>4<br>ECTS|. Sem<br>ECTS|Art und Umfang der Studien-<br>und Prüfungsleistungen|
+|---|---|---|---|---|---|---|
+||Integration von Organisation<br>und Person(al)||1,5||||
+|**M 1.1**<br>**Grundlagen der Organisations-**|Strategie und Verantwortung|5|1,5|||Klausur (60-120 Min.)|
+|<br>**und Personalentwicklung**|Organisationsforschung||1,5||||
+||Teambuilding||0,5|||Präsentation (10-15 Min.)|
+|**M 1.2**<br>**Qualifikationsplanung und**|Innovative Arbeitsorganisation<br>und veränderte<br>Qualifikationsanforderungen|2,5|1,25|||Klausur (60-120 Min.)|
+|<br>**Personalentwicklung**|Konzepte der<br>Personalentwicklung||1,25||||
+|**M 1.3**<br>**Wahlmodul Beratung***|Beratung|2,5|2,5*|||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
+||Einführung in Konzepte der<br>Organisationsentwicklung||2,5||||
+|**M 2.1**<br>**Konzepte der**<br>**Organisationsentwicklung**|Konzepte der<br>Organisationsentwicklung<br>(Unternehmenskultur,<br>Lernkultur)|5|1,25|||Hausarbeit (10-15 Seiten)|
+||Konzepte der Organisations-<br>entwicklung in der Praxis||1,25||||
+||Change Management||2,5|||Präsentation (10-20 Min.)|
+|**M 2.2**<br>**Umsetzung von**|Vielfalt managen (e-learning)|5|1,5|||Übungsaufgaben|
+|**Organisationsentwicklungs-**<br>**prozessen**|Projektmanagement||0,5|||Präsentation (10-15 Min.)<br>|
+||Moderation und Präsentation||0,5|||Präsentation (10-15 Min.)|
 
 5 
 
-|Modulbezeichnung|||1. Sem|2. Sem|3. Sem|4. Sem<br>ECTS|Art und Umfang der Studien-<br>und Prüfungsleistungen|
-|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung|ECTS||||||
-||||ECTS|ECTS|ECTS|||
-|**M 3.1**<br>**Methoden und Instrumente der**<br>**Personalentwicklung**|Kompetenzmessung|||1,5|||Klausur (60-120 Min)|
-||Instrumente der<br>Personalentwicklung|||||||
-|||5||2||||
-||Neue Lernformen im Betrieb|||1,5||||
-|**M 3.2**<br>**Personalmanagement und Arbeitsrecht**|Personalmanagement|5|||1,5||Klausur (60-120 Min)<br>Hausarbeit(10-15 Seiten)|
-||Personalmarketing||||1,5|||
-||Arbeitsrecht (teilw. e-learning)||||2|||
-|**M 4.1**<br>**Wahlmodul Management von**<br>**Organisationen***|Management von<br>Organisationen|2,5|2,5*||||Hausarbeit  (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
-|**M 4.2**<br>**Instrumente der Mitarbeiterführung**|Instrumente der<br>Mitarbeiterführung|2,5||2|||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)<br>Präsentation (10-15 Min.)|
-||Kommunikation und<br>Gesprächsführung|||0,5||||
-|**M 5.1**<br>**Betriebliches Bildungsmanagement**|Betriebliches<br>Bildungsmanagement|2,5|||||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation(10-20 Min.)|
-|||||2,5||||
-|||||||||
-|**M 5.2**<br>**Wahlmodul Weiterbildungsmanagement***|Weiterbildungsmanagement|2,5|||2,5*||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
-|**M 5.3**<br>**Wahlmodul**<br>**Ausbildungsmanagement***|Ausbildungsmanagement|2,5||||2,5*|Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
-|**M 6**<br>**Berufspraxis**|Berufspraxis|52,5|12,5|12,5|12,5|15|Mündl. Prüfung (30-45 Min.)|
-|**M 7.1**<br>**Konzept und Methoden**|Konzept und Methoden|5|||||Präsentation (10-15 Min.)|
-|||||5||||
-|||||||||
-|**M 7.2**<br>**Projektarbeit**|Projekt|7,5|||||Präsentation (30 -45 Min.)|
-|||||7,5||||
-|||||||||
-|**M 8.1**<br>**Thesismanagement**|Thesismanagement|25|||25||Präsentation (10-15 Min.)|
-|||,|||,|||
+|Modulbezeichnung|Lehrveranstaltung|ECTS|1. Sem<br>ECTS|2. Sem<br>ECTS<br>3. Sem<br>ECTS|4. Sem<br>ECTS|Art und Umfang der Studien-<br>und Prüfungsleistungen|
+|---|---|---|---|---|---|---|
+||Kompetenzmessung|||1,5|||
+|**M 3.1**<br>|Instrumente der||||||
+|**Methoden und Instrumente der**<br>**Personalentwicklung**|<br>Personalentwicklung|5||2||Klausur (60-120 Min)|
+||Neue Lernformen im Betrieb|||1,5|||
+||Personalmanagement|||1,5||Klausur (60-120 Min)|
+|**M 3.2**<br>**Personalmanagement und Arbeitsrecht**|Personalmarketing|5||1,5|||
+||Arbeitsrecht (teilw. e-learning)|||2||Hausarbeit(10-15 Seiten)|
+|**M 4.1**<br>**Wahlmodul Management von**<br>**Organisationen***|Management von<br>Organisationen|2,5|2,5*|||Hausarbeit  (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
+|**M 4.2**|Instrumente der<br>Mitarbeiterführung|25||2||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
+|**Instrumente der Mitarbeiterführung**|Kommunikation und<br>Gesprächsführung|,||0,5||<br>Präsentation (10-15 Min.)|
+|**M 5.1**<br>**Betriebliches Bildungsmanagement**|Betriebliches<br>Bildungsmanagement|2,5||2,5||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation(10-20 Min.)|
+|**M 5.2**<br>**Wahlmodul Weiterbildungsmanagement***|Weiterbildungsmanagement|2,5||2,5*||Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
+|**M 5.3**<br>**Wahlmodul**<br>**Ausbildungsmanagement***|Ausbildungsmanagement|2,5|||2,5*|Hausarbeit (10-15 Seiten)<br>oder<br>Präsentation (10-20 Min.)|
+|**M 6**<br>**Berufspraxis**|Berufspraxis|52,5|12,5|12,5<br>12,5|15|Mündl. Prüfung (30-45 Min.)|
+|**M 7.1**<br>**Konzept und Methoden**|Konzept und Methoden|5||5||Präsentation (10-15 Min.)|
+|**M 7.2**<br>**Projektarbeit**|Projekt|7,5||7,5||Präsentation (30 -45 Min.)|
+|**M 8.1**<br>**Thesismanagement**|Thesismanagement|2,5||2,5||Präsentation (10-15 Min.)|
 
 6 
 
-|**M 8.2**<br>**Masterthesis**|Masterthesis|15||||15|Masterthesis (40-60 Seiten)|
-|---|---|---|---|---|---|---|---|
-|||||||||
-||||30|30|30|30||
-|Summe ECTS:|||120|||||
+|**M 8.2**<br>**Masterthesis**<br>Masterthesis<br>15||15|Masterthesis (40-60 Seiten)|
+|---|---|---|---|
+||30<br>30<br>30|30||
+|Summe ECTS:|120|||
 
-- *Es sind zwei von insgesamt vier Wahlmodulen zu wählen. 
+*Es sind zwei von insgesamt vier Wahlmodulen zu wählen. 
 
 7 
 

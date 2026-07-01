@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. Mai 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES-BA%20MA-MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:27:34+00:00
-page_count_chars: 9384
+scraped_at: 2026-07-01T11:44:32+00:00
+page_count_chars: 9247
 ---
 
 # 6. Mai 2010
@@ -12,13 +12,13 @@ page_count_chars: 9384
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES-BA%20MA-MB.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB -** 
 
-## Vom 6. Mai 2010 
+# Vom 6. Mai 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMB - vom 24. September 2007, zuletzt geändert durch Satzung vom 4. März 2010, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
 3. § 43 erhält folgende neue Fassung: 
 
-## „ **§ 43 Qualifikation zum Masterstudium, Nachweise, Zugangsvoraussetzungen** 
+# „ **§ 43 Qualifikation zum Masterstudium, Nachweise, Zugangsvoraussetzungen** 
 
 (1) Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines dieser Prüfungsordnung gleichwertigen Bachelor- oder Diplomstudiengangs im Fach Maschinenbau. 
 
@@ -50,88 +50,88 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
 6. Die Anlagen 1a und 1b erhalten folgende neue Fassung: 
 
-## „Anlage 1a: Modulkatalog des Bachelorstudiums (Studienbeginn Wintersemester) 
+# <u>„Anlage 1a: Modulkatalog des Bachelorstudiums (Studienbeginn Wintersemester)</u> 
 
-|Spalte 1|Spalte 2||Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 4|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modul||SWS|||ECTS|ECTS<br>gesamt|1.Sem|2.Sem|3.Sem|4.Sem|5.Sem|6.Sem|Prüfungsdauer in Minuten||
-||||V|Ü|P|||WS|SS|WS|SS|WS|SS|schriftlich|mündlich|
-|||||||||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
-|B 1|Mathematik B 1<br>Übung|GOP|4|2|||7,5|7,5||||||90<br>unbenotete Studienleistung||
-|B 2|Mathematik B 2<br>Übung||4|2|||7,5||7,5|||||90<br>unbenotete Studienleistung||
-|B 3|Mathematik B 3||4|2|||7,5|||7,5||||90||
-|B 4|Statik, Elastostatik und<br>Festigkeitslehre|GOP|5|4|1||12,5|5|7,5|||||180||
-|B 5|Dynamik starrer Körper|K|3|2|1||7,5|||7,5||||90||
-|B6|Methode der Finiten Elemente|K|2|2|||5||||5|||60||
-|B 7|Technische Darstellungslehre I<br>TechnischeDarstellungslehreII||||2<br>2|2,5<br>2,5|5|2,5|2,5|||||unbenotete Studienleistung||
-|||||||||||||||unbenotete Studienleistung||
-|B 8|Maschinenelemente I<br>KonstruktionsübungI|K|4|2|2||10|||10||||90<br>unbenotete Studienleistung||
-|B 9|Maschinenelemente II<br>Konstruktionsübung II<br>Konstruktive Projektarbeit<br>(Teamwork,<br>Präsentationstechnik)|K|3|2|1<br>4||7,5||||7,5|5||120<br>unbenotete Studienleistung||
-|B 10|||||||5|||||||unbenotete Studienleistung||
-|B 11|Grundlagen der Informatik<br>Übung||3|3|||7,5||7,5|||||90<br>unbenotete Studienleistung||
-|B 12|Grundlagender Elektrotechnik||4|2|||7,5|7,5||||||120||
-|B 13|Technische Thermodynamik||4|2|||7,5||||7,5|||120||
-|B 14|Werkstoffkunde<br>Werkstoffprüfung|GOP|5|1|2||10|5|2,5<br>2,5|||||180<br>unbenotete Studienleistung||
-|B 15|Produktionstechnik IundII|K|4||||5|||2,5|2,5|||120||
-|B 16|Optik und optische Technologien|K|2||||2,5|||||2,5||60||
-|B 17|Grundlagender Messtechnik|K|2|2|||5|||||5||60||
-|B 18|Betriebliches Rechnungswesen||2||||2,5|2,5||||||unbenotete Studienleistung||
-|B 19|Wahlpflichtmodul 1||2|2|||5||||5|||sieheAnlage 3||
-|B 20|Wahlpflichtmodul 2||2|2|||5|||||5||siehe Anlage 3||
-|B 21|Wahlpflichtmodul3||4||||5|||||5||sieheAnlage 3||
-|B 22|Wahlpflichtmodul 4||4||||5||||||5|siehe Anlage 3||
-|B 23|Technische Wahlmodule<br>Nichttechnische Wahlmodule||4<br>4|||5<br>5|10|||||5<br>2,5|2,5|benotete Studienleistung||
-|||||||||||||||benotete Studienleistung||
-|B 24|Hochschulpraktika||||4||5|||2,5|2,5|||unbenotete Studienleistung||
-|B 25|Berufspraktische Tätigkeit||12 Wochen inklusive 6 Wochen<br>Vorpraktikum||||7,5||||||7,5|unbenotete Studienleistung||
-|B 26|Bachelorarbeit<br>Hauptseminar|||||12<br>3|15||||||12<br>3|Prüfungsleistung||
-|||||||||||||||||
-||Summe SWS:||75|32|19||180|30|30|30|30|30|30|SummeECTS|**180**|
-||||**126**|||||||||||||
-||GOP=Grundlagen- und<br>Orientierungsprüfung:||||||30|||||||||
-||K=Katalogvon Modulen zur Zulassungfür das Masterstudium||||||42,5|||||||||
+|Spalte 1|Spalte 2|Spalte 3<br>Spa|lte 4||Spa|lte 5|||Spalt|e 6|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Nr|Modul|SWS<br><br>ECTS|ECTS<br>|1.Sem<br>2.Sem|3.Sem|4.Sem|5.Sem|6.Sem|Prüfungsdaue|r in Minuten|
+|.||V<br>Ü<br>P<br>|gesamt|WS<br>SS|WS|SS|WS|SS|schriftlich|mündlich|
+|||||ECTS<br>ECTS|ECTS|ECTS|ECTS|ECTS|||
+|B 1|Mathematik B 1<br>Übung<br>GOP|4<br>2|7,5|7,5|||||90<br>unbenotete St|udienleistung|
+|B 2|Mathematik B 2<br>Üb|4<br>2|7,5|7,5|||||90<br>bttSt|dilit|
+||ung||||||||unenoee|enesung|
+|B 3|Mathematik B 3<br>|4<br>2|7,5||7,5||||90||
+|B 4|Statik, Elastostatik und<br>Festigkeitslehre<br>GOP|5<br>4<br>1|12,5|5<br>7,5|||||180||
+|B 5|Dynamik starrer Körper<br>K|3<br>2<br>1|7,5||7,5||||90||
+|B6|Methode der Finiten Elemente<br>K|2<br>2|5|||5|||60||
+|B 7|Technische Darstellungslehre I<br>TechnischeDarstellungslehreII|2<br>2,5<br>2<br>2,5|5|2,5<br>2,5|||||unbenotete St<br>unbenotete St|udienleistung<br>udienleistung|
+|B 8|Maschinenelemente I<br>KonstruktionsübungI<br>K|4<br>2<br>2|10||10||||90<br>unbenotete St|udienleistung|
+|B 9|Maschinenelemente II<br>Konstruktionsübung II<br>K|3<br>2<br>1|7,5|||7,5|||120<br>unbenotete St|udienleistung|
+|B 10|Konstruktive Projektarbeit<br>(Teamwork,<br>Präsentationstechnik)|4|5||||5||unbenotete St|udienleistung|
+|B 11|Grundlagen der Informatik<br>Übung|3<br>3|7,5|7,5|||||90<br>unbenotete St|udienleistung|
+|B 12|Grundlagender Elektrotechnik|4<br>2|7,5|7,5|||||120||
+|B 13|Technische Thermodynamik|4<br>2|7,5|||7,5|||120||
+|B 14|Werkstoffkunde<br>Werkstoffprüfung<br>GOP|5<br>1<br>2|10|5<br>2,5<br>2,5|||||180<br>unbenotete St|udienleistung|
+|B 15|Produktionstechnik IundII<br>K|4|5||2,5|2,5|||120||
+|B 16|Optik und optische Technologien<br>K|2|2,5||||2,5||60||
+|B 17|Grundlagender Messtechnik<br>K|2<br>2|5||||5||60||
+|B 18|Betriebliches Rechnungswesen|2|2,5|2,5|||||unbenotete St|udienleistung|
+|B 19|Wahlpflichtmodul 1|2<br>2|5|||5|||sieheAn|lage 3|
+|B 20|Wahlpflichtmodul 2|2<br>2|5||||5||siehe An|lage 3|
+|B 21|Wahlpflichtmodul3|4|5||||5||sieheAn|lage 3|
+|B 22|Wahlpflichtmodul 4|4|5|||||5|siehe An|lage 3|
+|B 23|Technische Wahlmodule|4<br>5|10||||5||benotete Stu|dienleistung|
+||Nichttechnische Wahlmodule|4<br>5|||||2,5|2,5|benotete Stu|dienleistung|
+|B 24|Hochschulpraktika|4<br>|5||2,5|2,5|||unbenotete St|udienleistung|
+|B 25|Berufspraktische Tätigkeit|12 Wochen inklusive 6 Wochen<br>Vorpraktikum|7,5|||||7,5|unbenotete St|udienleistung|
+|B 26|Bachelorarbeit<br>|12<br>|15|||||12<br>|Prüfungs|leistung|
+||Hauptseminar|3||||||3|||
+|||75<br>32<br>19|180|30<br>30|30|30|30|30|SummeECTS|**180**|
+||Summe SWS:|**126**|||||||||
+||GOP=Grundlagen- und<br>Orientierungsprüfung:||30||||||||
+||K=Katalogvon Modulen zur Zulassungfür d|as Masterstudium|42,5||||||||
 
-## Anlage 1b: Modulkatalog des Bachelorstudiums (Studienbeginn Sommersemester) 
+# Anlage 1b: Modulkatalog des Bachelorstudiums (Studienbeginn Sommersemester) 
 
-|Spalte 1|Spalte 2||Spalte 3|Spalte 3|Spalte 3|Spalte 4|Spalte 4||Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 5|Spalte 6|Spalte 6|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|N|Mdl||SWS|||ECTS|ECTS|1.Sem.|2.Sem|3.Sem|4.Sem|5.Sem|6.Sem|Prüfungsdauer in Minuten||
-|r.|ou||V|Ü|P||gesamt|SS|WS|SS|WS|SS|WS|schriftlich|mündlich|
-|||||||||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
-|B 1|Mathematik B 1 bzw. B 2 *<br>Übung||4|2|||7,5||7,5|||||90<br>unbenotete Studienleistung||
-|B 2|Mathematik B 2 bzw. B 1 *<br>Übung||4|2|||7,5|7,5||||||90<br>unbenotete Studienleistung||
-|B 3|Mathematik B 3||4|2|||7,5||||7,5|||90||
-|B 4a<br>B4B|Statik<br>Elastostatik und Festigkeitslehre|K|2<br>3|2<br>2|1|5<br>7,5|12,5|5||7,5||||180||
-|B5|Dynamikstarrer Körper|GOP|3|2|1||7,5||7,5|||||90||
-|B 6|Methode der Finiten Elemente|K|2|2|||5|||||5||60||
-|B 7|Technische Darstellungslehre I<br>Technische Darstellungslehre II|GOP|||2<br>2|2,5<br>2,5|5||2,5|2,5||||unbenotete Studienleistung||
-|||||||||||||||unbenotete Studienleistung||
-|B 8|Maschinenelemente I<br>KonstruktionsübungI|K|4|2|2||10||||10|||90<br>unbenotete Studienleistung||
-|B 9|Maschinenelemente II<br>KonstruktionsübungII|K|3|2|1||7,5|||||7,5||120<br>unbenotete Studienleistung||
-|B 10|Konstruktive Projektarbeit<br>(Teamwork,Präsentationstechnik)||||4||5||||||5|unbenotete Studienleistung||
-|B 11|Grundlagen der Informatik<br>Übung|GOP|3|3|||7,5|7,5||||||90<br>unbenotete Studienleistung||
-|B 12|Grundlagen der Elektrotechnik||4|2|||7,5||||7,5|||120||
-|B 13|TechnischeThermodynamik||4|2|||7,5|||7,5||||120||
-|B 14|Werkstoffkunde<br>Werkstoffprüfung|K|5|1|2|7,5<br>2,5|10||5|2,5<br>2,5||||180<br>unbenotete Studienleistung||
-|||||||||||||||||
-|B 15|Produktionstechnik I und II|GOP|4||||5|5||||||120||
-|B 16|Optikund optischeTechnologien|GOP|2||||2,5||2,5|||||60||
-|B 17|Grundlagen der Messtechnik|GOP|2|2|||5||5|||||60||
-|B 18|BetrieblichesRechnungswesen||2||||2,5||||2,5|||unbenotete Studienleistung||
-|B 19|Wahlpflichtmodul 1||2|2|||5|||5||||siehe Anlage 3||
-|B 20|Wahlpflichtmodul 2||2|2|||5|||||5||sieheAnlage 3||
-|B 21|Wahlpflichtmodul 3||4||||5|||||5||siehe Anlage 3||
-|B 22|Wahlpflichtmodul 4||4||||5||||||5|sieheAnlage 3||
-|B 23|Technische Wahlmodule<br>NichttechnischeWahlmodule||4<br>4|||5<br>5|10|5|||||5|benotete Studienleistung||
-|||||||||||||||benotete Studienleistung||
-|B 24|Hochschulpraktika||||4||5|||2,5|2,5|||unbenotete Studienleistung||
-|B 25|Berufspraktische Tätigkeit||12 Wochen inklusive 6<br>Wochen Vorpraktikum||||7,5|||||7,5||unbenotete Studienleistung||
-|B 26|Bachelorarbeit<br>Hauptseminar|||||12<br>3|15||||||12<br>3|Prüfungsleistung||
-|||||||||||||||||
-||||75|32|19||180|30|30|30|30|30|30|SummeECTS|**180**|
-||Summe SWS:||<br>**126**|||||||||||||
-||GOP=Grundlagen- und Orientierungsprüfung:||||||30|||||||||
-||K=Katalogvon Modulen zur Zulassungfür das Masterstudium||||||45|||||||||
+|Spalte 1|Spalte 2||Spalte 3|Sp|alte 4|||Spal|te 5|||Sp|alte 6|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||SWS||ECTS|1Sem|2Sem|3Sem|4Sem|5Sem|6Sem|Prüfunsd|uer in Minuten|
+|Nr|Modul|||ECTS||..|.|.|.|.|.|g||
+|.|||V<br>Ü<br>P||gesamt|SS|WS|SS|WS|SS|WS|schriftlich|mündlich|
+|||||||ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
+|B 1|Mathematik B 1 bzw. B 2 *<br>Übung||4<br>2||7,5||7,5|||||90<br>unbenotete|Studienleistung|
+|B 2|Mathematik B 2 bzw. B 1 *<br>Übung||4<br>2||7,5|7,5||||||90<br>unbenotete|Studienleistung|
+|B 3|Mathematik B 3||4<br>2||7,5||||7,5|||90||
+|B 4a<br>B4B|Statik<br>Elastostatik und Festigkeitslehre|K|2<br>2<br>3<br>2<br>1|5<br>7,5|12,5|5||7,5||||180||
+|B5|Dynamikstarrer Körper|GOP|3<br>2<br>1||7,5||7,5|||||90||
+|B 6|Methode der Finiten Elemente|K|2<br>2||5|||||5||60||
+|B 7|Technische Darstellungslehre I<br>Technische Darstellungslehre II|GOP|2<br>2|2,5<br>2,5|5||2,5|2,5||||unbenotete <br>unbenotete|Studienleistung<br>Studienleistung|
+|B 8|Maschinenelemente I<br>KonstruktionsübungI|K|4<br>2<br>2||10||||10|||90<br>unbenotete|Studienleistung|
+|B 9|Maschinenelemente II<br>KonstruktionsübungII<br>|K|3<br>2<br>1||7,5|||||7,5||120<br>unbenotete|Studienleistung|
+|B 10|Konstruktive Projektarbeit<br>(Teamwork,Präsentationstechnik)||4||5||||||5|unbenotete|Studienleistung|
+|B 11|Grundlagen der Informatik<br>Übung|GOP|3<br>3||7,5|7,5||||||90<br>unbenotete|Studienleistung|
+|B 12|Grundlagen der Elektrotechnik||4<br>2||7,5||||7,5|||120||
+|B 13|TechnischeThermodynamik||4<br>2||7,5|||7,5||||120||
+|B 14|Werkstoffkunde<br>|K|5<br>1<br>|7,5<br>|10||5|2,5<br>||||180<br>||
+||Werkstoffprüfung||2|2,5||||2,5||||unbenotete|Studienleistung|
+|B 15|Produktionstechnik I und II|GOP|4||5|5||||||120||
+|B 16|Optikund optischeTechnologien|GOP|2||2,5||2,5|||||60||
+|B 17|Grundlagen der Messtechnik|GOP|2<br>2||5||5|||||60||
+|B 18|BetrieblichesRechnungswesen||2||2,5||||2,5|||unbenotete|Studienleistung|
+|B 19|Wahlpflichtmodul 1||2<br>2||5|||5||||siehe|Anlage 3|
+|B 20|Wahlpflichtmodul 2||2<br>2||5|||||5||siehe|Anlage 3|
+|B 21|Wahlpflichtmodul 3||4||5|||||5||siehe|Anlage 3|
+|B 22|Wahlpflichtmodul 4||4||5||||||5|siehe|Anlage 3|
+|B 23|Technische Wahlmodule<br>||4<br>|5<br>|10||||||5|benotete S<br>|tudienleistung<br>|
+||NichttechnischeWahlmodule||4|5||5||||||benotete S|tudienleistung|
+|B 24|Hochschulpraktika||4<br>||5|||2,5|2,5|||unbenotete|Studienleistung|
+|B 25|Berufspraktische Tätigkeit||12 Wochen inklusive 6<br>Wochen Vorpraktikum||7,5|||||7,5||unbenotete|Studienleistung|
+|B 26|Bachelorarbeit<br>|||12<br>|15||||||12<br>|Prüfun|gsleistung|
+||Hauptseminar|||3|||||||3|||
+||||75<br>32<br>19||180|30|30|30|30|30|30|SummeECTS|**180**|
+|||Summe SWS:|<br>**126**|||||||||||
+||GOP=Grundlagen- und Orientierungsprüfung:||||30|||||||||
+||K=Katalogvon Modulen zur Zulassungfür das Master|studium|||45|||||||||
 
 * gemäß Beschluss Prüfungsausschuss 
 
@@ -139,7 +139,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Maschinenbau a
 
 7. In Anlage 2, Spalte 6 werden die Worte „Scheine“ und das Wort „Schein“ durch das Wort „Studienleistung“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. Die Regelungen zur Grundlagen- und Orientierungsprüfung gilt für alle Studierenden, die ihr Bachelorstudium ab dem Wintersemester 2009/2010 aufgenommen haben und die Grundlagen- und Orientierungsprüfung noch nicht endgültig nicht bestanden haben. 
 

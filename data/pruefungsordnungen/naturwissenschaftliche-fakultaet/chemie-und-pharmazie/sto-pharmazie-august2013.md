@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 31.07.2002 i.d.F. 23.08.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT2/StO_Pharmazie_August2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-05-01T07:38:26+00:00
-page_count_chars: 19018
+scraped_at: 2026-07-01T09:02:30+00:00
+page_count_chars: 19024
 ---
 
 # PDF vom 31.07.2002 i.d.F. 23.08.2013
@@ -16,7 +16,7 @@ page_count_chars: 19018
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg Vom 31. Juli 2002** (KWMBl II 2003 S. 1035) 
+# **Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg Vom 31. Juli 2002** (KWMBl II 2003 S. 1035) 
 
 geändert durch Satzungen vom 8. September 2004 
 
@@ -38,7 +38,7 @@ Die vorliegende Studienordnung beschreibt unter Berücksichtigung der Approbatio
 
 ## **§ 2 Studiendauer** 
 
-1Dieser Studienordnung liegt die in § 1 Abs. 1 Nr. 1 AAppO festgelegte Mindeststudienzeit von acht Fachsemestern zugrunde.[2] Die Regelstudienzeit beträgt vier Jahre. 
+1Dieser Studienordnung liegt die in § 1 Abs. 1 Nr. 1 AAppO festgelegte Mindeststudienzeit von acht Fachsemestern zugrunde.<sup>2</sup> Die Regelstudienzeit beträgt vier Jahre. 
 
 Das Studium kann nur zum Wintersemester aufgenommen werden. 
 
@@ -80,17 +80,17 @@ Das Studium setzt die allgemeine Hochschulreife voraus.
 
 ## **§ 6 Studieninhalte** 
 
-(1)[1] Das Grundstudium vermittelt eine breite naturwissenschaftliche Ausbildung in allgemeiner, anorganischer, organischer, physikalischer, pharmazeutischer und analytischer Chemie (insbesondere anorganischer, organischer und instrumenteller Analytik), in Biochemie, in Biologie (insbesondere systematischer und pharmazeutischer Botanik), Mathematik und Physik (insbesondere Experimentalphysik).[2] Hinzu kommen Grundlagen der Arzneiformenlehre, der medizinischen Mikrobiologie einschließlich Hygiene, die pharmazeutische und medizinische Terminologie und chemische Nomenklatur (einschließlich Nomenklatur der Arzneibücher), Grundlagen der Anatomie und Physiologie sowie eine Einführung in die Geschichte der Naturwissenschaften unter besonderer Berücksichtigung der Pharmazie. 
+(1)<sup>1</sup> Das Grundstudium vermittelt eine breite naturwissenschaftliche Ausbildung in allgemeiner, anorganischer, organischer, physikalischer, pharmazeutischer und analytischer Chemie (insbesondere anorganischer, organischer und instrumenteller Analytik), in Biochemie, in Biologie (insbesondere systematischer und pharmazeutischer Botanik), Mathematik und Physik (insbesondere Experimentalphysik).<sup>2</sup> Hinzu kommen Grundlagen der Arzneiformenlehre, der medizinischen Mikrobiologie einschließlich Hygiene, die pharmazeutische und medizinische Terminologie und chemische Nomenklatur (einschließlich Nomenklatur der Arzneibücher), Grundlagen der Anatomie und Physiologie sowie eine Einführung in die Geschichte der Naturwissenschaften unter besonderer Berücksichtigung der Pharmazie. 
 
-(2)[1] Das Hauptstudium erweitert und vertieft diese Kenntnisse auf dem Gebiet der Entwicklung, Gewinnung (incl. biotechnologischer Verfahren) und Prüfung von Arzneistoffen und Zubereitungen sowie deren biopharmazeutischem Verhalten. 2Außerdem werden Zusammenhänge zwischen chemischer Struktur und Wirkung der Arzneistoffe und Mechanismen physiologisch-chemischer Prozesse, molekulare Vorgänge sowie Wechselbeziehungen zwischen den Bestandteilen der verschiedenen Arzneizubereitungen deutlich gemacht.[3] Hinzu kommen Kenntnisse der Pathophysiologie sowie der Pharmakologie und Toxikologie.[4] Klinische Pharmazie wird ebenfalls gelehrt werden.[5] Ferner werden Grundlagen der Ernährungslehre sowie Kenntnisse in speziellen Rechtsgebieten für Apotheker vermittelt. 
+(2)<sup>1</sup> Das Hauptstudium erweitert und vertieft diese Kenntnisse auf dem Gebiet der Entwicklung, Gewinnung (incl. biotechnologischer Verfahren) und Prüfung von Arzneistoffen und Zubereitungen sowie deren biopharmazeutischem Verhalten. 2Außerdem werden Zusammenhänge zwischen chemischer Struktur und Wirkung der Arzneistoffe und Mechanismen physiologisch-chemischer Prozesse, molekulare Vorgänge sowie Wechselbeziehungen zwischen den Bestandteilen der verschiedenen Arzneizubereitungen deutlich gemacht.<sup>3</sup> Hinzu kommen Kenntnisse der Pathophysiologie sowie der Pharmakologie und Toxikologie.<sup>4</sup> Klinische Pharmazie wird ebenfalls gelehrt werden.<sup>5</sup> Ferner werden Grundlagen der Ernährungslehre sowie Kenntnisse in speziellen Rechtsgebieten für Apotheker vermittelt. 
 
 2 
 
 ## **§ 7 Studienabschnitte** 
 
-(1)[1] Das Studium gliedert sich in ein viersemestriges Grund- und in ein anschließendes viersemestriges Hauptstudium.[2] Das Grundstudium wird mit dem Ersten Prüfungsabschnitt, das Hauptstudium mit dem Zweiten Prüfungsabschnitt abgeschlossen.[3] Das Nähere über die Famulatur sowie den Dritten Prüfungsabschnitt, die außerhalb der Universitäten abzulegen sind, regeln §§ 3, 4, 6 Abs. 5 und 6, 11 und 19 AAppO. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grund- und in ein anschließendes viersemestriges Hauptstudium.<sup>2</sup> Das Grundstudium wird mit dem Ersten Prüfungsabschnitt, das Hauptstudium mit dem Zweiten Prüfungsabschnitt abgeschlossen.<sup>3</sup> Das Nähere über die Famulatur sowie den Dritten Prüfungsabschnitt, die außerhalb der Universitäten abzulegen sind, regeln §§ 3, 4, 6 Abs. 5 und 6, 11 und 19 AAppO. 
 
-(2)[1] Im Grundstudium werden im Wesentlichen die naturwissenschaftlichen Grundlagen vermittelt, während das Hauptstudium der fachspezifischen Vertiefung dient. 2Dabei finden überwiegend folgende Unterrichtsformen beziehungsweise Lehrveranstaltungsarten Anwendung: 
+(2)<sup>1</sup> Im Grundstudium werden im Wesentlichen die naturwissenschaftlichen Grundlagen vermittelt, während das Hauptstudium der fachspezifischen Vertiefung dient. 2Dabei finden überwiegend folgende Unterrichtsformen beziehungsweise Lehrveranstaltungsarten Anwendung: 
 
 1. Vorlesungen 
 
@@ -102,13 +102,12 @@ Das Studium setzt die allgemeine Hochschulreife voraus.
 
 5. Exkursionen. 
 
-(3)[1] Die Gesamtzahl der Semesterwochenstunden (SWS) aller Lehrveranstaltungen beträgt während des Grundstudiums minimal 120 SWS, während des Hauptstudiums minimal 130 SWS (1 SWS umfasst 14 Stunden).[2] Die Gesamtzahl der SWS darf während des Grundstudiums 130, im Hauptstudium 140 nicht überschreiten.[3] Die Verteilung der SWS auf die Lehrveranstaltungen in den einzelnen Studienabschnitten ergibt sich aus dem Abs. 6 sowie dem Studienplan. 
+(3)<sup>1</sup> Die Gesamtzahl der Semesterwochenstunden (SWS) aller Lehrveranstaltungen beträgt während des Grundstudiums minimal 120 SWS, während des Hauptstudiums minimal 130 SWS (1 SWS umfasst 14 Stunden).<sup>2</sup> Die Gesamtzahl der SWS darf während des Grundstudiums 130, im Hauptstudium 140 nicht überschreiten.<sup>3</sup> Die Verteilung der SWS auf die Lehrveranstaltungen in den einzelnen Studienabschnitten ergibt sich aus dem Abs. 6 sowie dem Studienplan. 
 
 ## (4) Theoretische Pflichtveranstaltungen sind 
 
-|(4) Theoretische Pflichtveranstaltungen sind||
-|---|---|
 |1. Im Grundstudium:||
+|---|---|
 |a) Chemie für Pharmazeuten|70 Stunden|
 |b) Einführung in die instrumentelle Analytik|42 Stunden|
 |c) Pharmazeutische/Medizinische Chemie|42 Stunden|
@@ -147,15 +146,19 @@ Das Studium setzt die allgemeine Hochschulreife voraus.
 
 1. Im Grundstudium: 
 
-Chemische Nomenklatur 21 Stunden 2. Im Hauptstudium: a) Klinische Pharmazie 42 Stunden b) Pharmakotherapie 56 Stunden c) Qualitätssicherung bei der Herstellung und Prüfung von Arzneimitteln 14 Stunden 
+|Chemische Nomenklatur|21 Stunden|
+|---|---|
+|2. Im Hauptstudium:||
+|a) Klinische Pharmazie|42 Stunden|
+|b) Pharmakotherapie|56 Stunden|
+|c) Qualitätssicherung bei der Herstellung und Prüfung von Arzneimitteln|14 Stunden|
 
 ## (6) Praktische Lehrveranstaltungen, für die eine regelmäßige und erfolgreiche Teilnahme bei der Meldung zur Prüfung nachzuweisen ist, sind: 
 
 1. Im Grundstudium: 
 
-|(6) Praktische Lehrveranstaltungen, für die eine regelmäßige und<br>Teilnahme bei der Meldung zur Prüfung nachzuweisen ist, sind:<br>1. Im Grundstudium:|erfolgreiche|
-|---|---|
 |a) Allgemeine und analytische Chemie der anorganischen Arznei-, Hilfs- und<br>Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden)|126 Stunden|
+|---|---|
 |b) Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbezie-<br>hung von Arzneibuch-Methoden)|98 Stunden|
 |c) Instrumentelle Analytik|182 Stunden|
 |d) Chemie der organischen Arznei-, Hilfs- und Schadstoffe|238 Stunden|
@@ -167,9 +170,7 @@ Chemische Nomenklatur 21 Stunden 2. Im Hauptstudium: a) Klinische Pharmazie 42 S
 |j) Arzneiformenlehre|84 Stunden|
 |k) Kursus der Physiologie|28 Stunden|
 |2. Im Hauptstudium:||
-|a) Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Quali-||
-|tätskontrolle und -sicherung bei Arzneistoffen) und der entsprechenden Normen|140 Stunden|
-|für Medizinprodukte||
+|a) Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Quali-<br>tätskontrolle und -sicherung bei Arzneistoffen) und der entsprechenden Normen<br>für Medizinprodukte|140 Stunden|
 |b) Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Un-<br>tersuchungen|182 Stunden|
 |c) Pharmazeutische Biologie III (Biologische und phytochemische Untersuchun-<br>gen)|98 Stunden|
 
@@ -177,13 +178,13 @@ Chemische Nomenklatur 21 Stunden 2. Im Hauptstudium: a) Klinische Pharmazie 42 S
 
 d) Biochemische Untersuchungsmethoden einschließlich klinische Chemie 56 Stunden e) Pharmazeutische Technologie unter Einschluss der Qualitätssicherung bei der 196 Stunden Herstellung und Prüfung von Arzneimitteln f) Pharmakologisch-toxikologischer Demonstrationskurs 112 Stunden g) Wahlpflichtfach 112 Stunden 
 
-(7)[1] Der Wahlpflichtbereich dient zur Vertiefung eines der pharmazeutischen Kernfächer.[2] Kurse werden angeboten in Pharmazeutischer Chemie, Pharmazeutischer Technologie, Pharmazeutische Biologie sowie in Pharmakologie und Toxikologie; darüber hinaus können Kurse im Fach Klinische Pharmazie angeboten werden.[3] Aus dem Wahlpflichtbereich ist ein Schein nachzuweisen. 
+(7)<sup>1</sup> Der Wahlpflichtbereich dient zur Vertiefung eines der pharmazeutischen Kernfächer.<sup>2</sup> Kurse werden angeboten in Pharmazeutischer Chemie, Pharmazeutischer Technologie, Pharmazeutische Biologie sowie in Pharmakologie und Toxikologie; darüber hinaus können Kurse im Fach Klinische Pharmazie angeboten werden.<sup>3</sup> Aus dem Wahlpflichtbereich ist ein Schein nachzuweisen. 
 
-(8)[1] Die Teilnahme an von der Studienordnung vorgeschriebenen praktischen Lehrveranstaltungen und Seminaren kann vom Nachweis der für diese Veranstaltungen erforderlichen Kenntnisse abhängig gemacht werden.[2] Die **Anlage** zur Studienordnung regelt, welche Voraussetzungen zum Besuch der praktischen Lehrveranstaltungen und Seminare erfüllt sein müssen. 
+(8)<sup>1</sup> Die Teilnahme an von der Studienordnung vorgeschriebenen praktischen Lehrveranstaltungen und Seminaren kann vom Nachweis der für diese Veranstaltungen erforderlichen Kenntnisse abhängig gemacht werden.<sup>2</sup> Die **Anlage** zur Studienordnung regelt, welche Voraussetzungen zum Besuch der praktischen Lehrveranstaltungen und Seminare erfüllt sein müssen. 
 
-(9)[1] Die regelmäßige und erfolgreiche Teilnahme an einer praktischen Lehrveranstaltung oder einem Seminar wird nachgewiesen durch eine Bescheinigung nach dem Muster der **Anlage 2** oder **Anlage 3** AAppO.[2] Diese werden in der Regel ohne Benotung aufgrund von Studienleistungen ausgestellt.[3] Bei Praktika bestehen die Studienleistungen aus dem erfolgreichen Abschluss eines praktischen Teils (Praktikumsaufgaben mit entsprechenden Protokollen) und eines theoretischen Teils (Kolloquien, mündliche oder schriftliche Zwischen- und Abschlussprüfungen und Referate).[ 4] Die Erteilung eines Praktikumscheines setzt voraus, dass beide Teile bis zum Ende der Praktikumzeit (oder, bei Zusammenfassung zweier Praktika zu einem Studienjahr, bis zum Ende des Studienjahres) mit Erfolg abgeschlossen worden sind.[5] Nicht bestandene Prüfungen des theoretischen Teils können während des Praktikumszeitraums einmal wiederholt werden.[6] Eine nicht bestandene Abschlussprüfung kann jedoch bis zum Beginn der Vorlesungszeit des folgenden Semesters einmal wiederholt werden.[7] Wird die Wiederholungsprüfung nicht erfolgreich abgelegt, sind die für eine erfolgreiche Teilnahme an dem betreffenden Praktikum erforderlichen Studienleistungen insgesamt nicht erbracht.[8] Bei Seminaren bestehen die Studienleistungen aus dem erfolgreichen Abschluss von Kolloquien, mündlichen oder schriftlichen Abschlussprüfungen und Referaten. 
+(9)<sup>1</sup> Die regelmäßige und erfolgreiche Teilnahme an einer praktischen Lehrveranstaltung oder einem Seminar wird nachgewiesen durch eine Bescheinigung nach dem Muster der **Anlage 2** oder **Anlage 3** AAppO.<sup>2</sup> Diese werden in der Regel ohne Benotung aufgrund von Studienleistungen ausgestellt.<sup>3</sup> Bei Praktika bestehen die Studienleistungen aus dem erfolgreichen Abschluss eines praktischen Teils (Praktikumsaufgaben mit entsprechenden Protokollen) und eines theoretischen Teils (Kolloquien, mündliche oder schriftliche Zwischen- und Abschlussprüfungen und Referate).<sup>4</sup> Die Erteilung eines Praktikumscheines setzt voraus, dass beide Teile bis zum Ende der Praktikumzeit (oder, bei Zusammenfassung zweier Praktika zu einem Studienjahr, bis zum Ende des Studienjahres) mit Erfolg abgeschlossen worden sind.<sup>5</sup> Nicht bestandene Prüfungen des theoretischen Teils können während des Praktikumszeitraums einmal wiederholt werden.<sup>6</sup> Eine nicht bestandene Abschlussprüfung kann jedoch bis zum Beginn der Vorlesungszeit des folgenden Semesters einmal wiederholt werden.<sup>7</sup> Wird die Wiederholungsprüfung nicht erfolgreich abgelegt, sind die für eine erfolgreiche Teilnahme an dem betreffenden Praktikum erforderlichen Studienleistungen insgesamt nicht erbracht.<sup>8</sup> Bei Seminaren bestehen die Studienleistungen aus dem erfolgreichen Abschluss von Kolloquien, mündlichen oder schriftlichen Abschlussprüfungen und Referaten. 
 
-(10)[1] Praktische Lehrveranstaltungen und Seminare, für die ein erforderlicher Leistungsnachweis nicht erlangt wurde, können innerhalb der für die Meldung zur jeweiligen Prüfung festgelegten Frist (§ 8) einmal wiederholt werden; diese Wiederholung soll im darauf folgenden Studienjahr erfolgen; die letzte Wiederholungsprüfung einer praktischen Lehrveranstaltung muss von einem Hochschullehrer abgenommen werden; über diese Wiederholungsprüfung führt ein vom Hochschullehrer bestellter Beisitzer, der ein im Prüfungsfach abgeschlossenes Universitätsstudium besitzen muss, ein Protokoll.[2] Bei einem Praktikum soll die Wiederholung im praktischen Teil auf jene Inhalte beschränkt werden, bei denen sich eine Vertiefung des Verständnisses als erforderlich erwiesen hat.[3] Der Umfang wird von dem das Praktikum leitenden Hochschullehrer bestimmt. 
+(10)<sup>1</sup> Praktische Lehrveranstaltungen und Seminare, für die ein erforderlicher Leistungsnachweis nicht erlangt wurde, können innerhalb der für die Meldung zur jeweiligen Prüfung festgelegten Frist (§ 8) einmal wiederholt werden; diese Wiederholung soll im darauf folgenden Studienjahr erfolgen; die letzte Wiederholungsprüfung einer praktischen Lehrveranstaltung muss von einem Hochschullehrer abgenommen werden; über diese Wiederholungsprüfung führt ein vom Hochschullehrer bestellter Beisitzer, der ein im Prüfungsfach abgeschlossenes Universitätsstudium besitzen muss, ein Protokoll.<sup>2</sup> Bei einem Praktikum soll die Wiederholung im praktischen Teil auf jene Inhalte beschränkt werden, bei denen sich eine Vertiefung des Verständnisses als erforderlich erwiesen hat.<sup>3</sup> Der Umfang wird von dem das Praktikum leitenden Hochschullehrer bestimmt. 
 
 5 
 
@@ -197,7 +198,7 @@ d) Biochemische Untersuchungsmethoden einschließlich klinische Chemie 56 Stunde
 
 ## **Studienplan** 
 
-1Die inhaltliche Ausfüllung der Studienordnung ergibt sich aus dem Studienplan, der von der Naturwissenschaftlichen Fakultät im Benehmen mit den betroffenen Fakultäten erstellt wird.[2] Der Studienplan gibt, gegliedert nach Fachsemestern, Empfehlungen für den Studienverlauf und macht für jede Lehrveranstaltung Angaben, insbesondere über den Themenkreis, Zahl der Semesterwochenstunden und die zeitliche Einordnung von Praktika in den Studienablauf. 
+1Die inhaltliche Ausfüllung der Studienordnung ergibt sich aus dem Studienplan, der von der Naturwissenschaftlichen Fakultät im Benehmen mit den betroffenen Fakultäten erstellt wird.<sup>2</sup> Der Studienplan gibt, gegliedert nach Fachsemestern, Empfehlungen für den Studienverlauf und macht für jede Lehrveranstaltung Angaben, insbesondere über den Themenkreis, Zahl der Semesterwochenstunden und die zeitliche Einordnung von Praktika in den Studienablauf. 
 
 ## **§ 10** 
 
@@ -209,7 +210,7 @@ Für die Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen
 
 ## **Studienfachberatung** 
 
-1Die Studienfachberatung wird in der Verantwortung der Professoren des Studienganges Pharmazie durchgeführt.[2] Der Student sollte eine Studienfachberatung insbesondere in folgenden Fällen in Anspruch nehmen: 
+1Die Studienfachberatung wird in der Verantwortung der Professoren des Studienganges Pharmazie durchgeführt.<sup>2</sup> Der Student sollte eine Studienfachberatung insbesondere in folgenden Fällen in Anspruch nehmen: 
 
 - nach nicht bestandenen Prüfungen 
 
@@ -227,37 +228,33 @@ Diese Studienordnung tritt am Tage nach der Bekanntmachung in Kraft.
 
 ## **Anlage** 
 
-## **zur Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg** 
+### **zur Studienordnung für den Studiengang Pharmazie der Universität Erlangen-Nürnberg** 
 
-## **Voraussetzungen zur Teilnahme an den praktischen Lehrveranstaltungen und Seminaren nach § 7 Abs. 5 u. 6** 
+### **Voraussetzungen zur Teilnahme an den praktischen Lehrveranstaltungen und Seminaren nach § 7 Abs. 5 u. 6** 
 
-## **Praktikum (P) oder Seminar (S):** 
+**Praktikum (P) oder Seminar (S):** 
 
-## **Voraussetzung:** 
+**Voraussetzung:** 
 
 (SCH = Praktikumsschein) 
 
-## Grundstudium 
+#### <u>Grundstudium</u> 
 
 Allgemeine und analytische Chemie der anorganischen Arznei-, Hilfs- und Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden) (P) 
 
-Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von ArzneibuchMethoden) (P) 
-
-Pharmazeutische Biologie I (Untersuchungen arzneistoffproduzierender Organismen) (P) 
+Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von ArzneibuchMethoden) (P) Pharmazeutische Biologie I (Untersuchungen arzneistoffproduzierender Organismen) (P) 
 
 Chemie der organischen Arznei-, Hilfs- und Schadstoffe  (P) 
 
-## Chemische Nomenklatur (S) 
+Chemische Nomenklatur (S) 
 
 Physikalische Übungen für Pharmazeuten (P) Physik.-chem. Übungen für Pharmazeuten (P) Instrumentelle Analytik (P) 
 
-Kursus der Physiologie (P) 
-
-Arzneiformenlehre I (P) Mikrobiologie (P) 
+Kursus der Physiologie (P) Arzneiformenlehre I (P) Mikrobiologie (P) 
 
 Pharmazeutische Biologie II (Pflanzliche Drogen) (P) 
 
-## keine Voraussetzungen 
+#### keine Voraussetzungen 
 
 SCH Allgemeine und analytische Chemie der anorganischen Arznei-, Hilfs- und Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden) 
 
@@ -271,9 +268,7 @@ keine Voraussetzungen
 
 SCH Quantitative Bestimmung von Arznei-, Hilfs- und Schadstoffen (unter Einbeziehung von ArzneibuchMethoden) 
 
-Aufnahmeklausur (max. 60 min) 
-
-Testat Pharmazeutische und Medizinische Terminologie 
+Aufnahmeklausur (max. 60 min) Testat Pharmazeutische und Medizinische Terminologie 
 
 SCH Zytologische und histologische Grundlagen der Biologie 
 
@@ -281,35 +276,35 @@ SCH Pharmazeutische Biologie I
 
 Bestandene Klausur Allgemeine Biologie für Pharmazeuten sowie systematische Einteilung und Physiologie der pathogenen und arzneistoffproduzierenden Organismen und Grundlagen der Anatomie und Physiologie inklusive Grundlagen der Ernährungslehre 
 
-Hauptstudium Biochemische Untersuchungsmethoden einschließlich klinische Chemie (P) 
+<u>Hauptstudium</u> Biochemische Untersuchungsmethoden einschließlich klinische Chemie (P) 
+
+Arzneistoffanalytik unter besonderer Berücksichtigung der und der entsprechenden Normen für Medizinprodukte (P) Klinische Pharmazie (S) 
+
+Pharmakotherapie (S) Pharmazeutische Technologie (P) 
+
+Qualitätssicherung bei Herstellung und Prüfung von Arzneimitteln  (S) 
+
+Pharmazeutische Biologie III (Biologische und phytochemische Untersuchungen) (P) 
+
+Pharmakol.-toxikologischer Demonstrations-Kurs (P) Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen  (P) 
+
+Wahlpflichtfach 
 
 Erster Prüfungsabschnitt nach Maßgabe des § 15 Abs. 5 AAppO*) 
-
-Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle und -sicherung bei Arzneistoffen) des § 15 Abs. 5 AAppO*) und der entsprechenden Normen für Medizinprodukte (P) Klinische Pharmazie (S) 
 
 Erster Prüfungsabschnitt nach Maßgabe 
 
 Testat Klinische Chemie und Pathobiochemie Erster Prüfungsabschnitt bestanden Aufnahmeprüfung 
 
-Pharmakotherapie (S) Pharmazeutische Technologie (P) 
-
 Erster Prüfungsabschnitt bestanden Erster Prüfungsabschnitt bestanden Aufnahmeprüfung 
-
-Qualitätssicherung bei Herstellung und Prüfung von Arzneimitteln  (S) 
 
 Testtat Biopharmazeutische Rechenübungen 
 
-Pharmazeutische Biologie III (Biologische und phytochemische Untersuchungen) (P) 
-
 SCH Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle u. -sicherung bei Arzneistoffen) u. d. entspr. Normen für Medizinprodukte 
-
-Pharmakol.-toxikologischer Demonstrations-Kurs (P) Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen  (P) 
 
 Aufnahmeprüfung 
 
 SCH Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle u. -sicherung bei Arzneistoffen) u. d. entspr. Normen für Medizinprodukte 
-
-Wahlpflichtfach 
 
 Erster Prüfungsabschnitt bestanden 
 

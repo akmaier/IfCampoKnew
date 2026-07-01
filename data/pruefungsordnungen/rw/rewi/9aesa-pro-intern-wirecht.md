@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. September 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/9AeSa-PrO-Intern-WiRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:38+00:00
-page_count_chars: 3313
+scraped_at: 2026-07-01T10:35:17+00:00
+page_count_chars: 3272
 ---
 
 # 7. September 2007
@@ -12,7 +12,7 @@ page_count_chars: 3313
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/9AeSa-PrO-Intern-WiRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Neunte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
+# **Neunte Satzung zur Änderung der Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Universität Erlangen-Nürnberg** 
 
 ## Vom 7. September 2007 
 
@@ -32,18 +32,11 @@ Die Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht
 
    - b) Buchstabe B wird wie folgt geändert: 
 
-|Buchstabe B wird wie folgt geändert:||
+|aa) Nr. 1 Buchstabe a) erhält folgende Fassung:<br>„a) Präsentations- und Moderationstechniken oder<br>Einführung in die Techniken wissenschaftlichen Arbeitens|2“|
 |---|---|
-|aa) Nr. 1 Buchstabe a) erhält folgende Fassung:||
-|„a) Präsentations- und Moderationstechniken oder||
-|Einführung in die Techniken wissenschaftlichen Arbeitens|2“|
-|bb) Nr. 2 Buchstabe d) erhält folgende Fassung:||
-|„d) Bankrecht oder Kreditsicherungsrecht|2“|
-|cc) Nr. 2 Buchstabe n) erhält folgende Fassung:||
-|„n) Europäisches Vertragsrecht oder Deutsches||
-|und Europäisches Verbraucherschutzrecht|2“|
-|dd) In Nr. 2 wird nach Buchstabe n) folgender Buchstabe angefügt:||
-|„o) Kapitalmarktrecht|2“|
+|bb) Nr. 2 Buchstabe d) erhält folgende Fassung:<br>„d) Bankrecht oder Kreditsicherungsrecht|2“|
+|cc) Nr. 2 Buchstabe n) erhält folgende Fassung:<br>„n) Europäisches Vertragsrecht oder Deutsches<br>und Europäisches Verbraucherschutzrecht|2“|
+|dd) In Nr. 2 wird nach Buchstabe n) folgender Buchstabe angefügt:<br>„o) Kapitalmarktrecht|2“|
 
 3. Die Anlage II wird wie folgt geändert: 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Medizintechnik FPOMT 20230426 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Medizintechnik/Aenderungssatzungen/BSc-MSc_Medizintechnik_FPOMT_20230426_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:21:21+00:00
-page_count_chars: 15258
+scraped_at: 2026-07-01T11:40:45+00:00
+page_count_chars: 15257
 ---
 
 # BSc-MSc Medizintechnik FPOMT 20230426 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 15258
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Medizintechnik/Aenderungssatzungen/BSc-MSc_Medizintechnik_FPOMT_20230426_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - FPOMT -** 
+# **Zwölfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - FPOMT -** 
 
-## **Vom 26. April 2023** 
+# **Vom 26. April 2023** 
 
 Aufgrund von Art. 9 Satz 1 i.V.m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2 und Art. 96 Abs. 3 Satz 1 Bayerisches Hochschulinnovationsgesetz ( **BayHIG** ) vom 5. August 2022 erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik an der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOMT - vom 15. September 2009, zuletzt geändert durch Satzung vom 13. April 2022, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Medizintechnik
 
    - a) Abs. 2 wird wie folgt geändert: 
 
-aa) In Satz 1 wird vor dem Wort „Das“ die hochgestellte Zahl „[1] “ gestrichen. 
+      - aa) In Satz 1 wird vor dem Wort „Das“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) Der bisherige Satz 2 wird gestrichen. 
 
@@ -42,9 +42,9 @@ bb) Der bisherige Satz 2 wird gestrichen.
 
 - bb) Satz 3 wird gestrichen, die bisherigen Sätze 4 bis 6 werden zu Sätzen 3 bis 5. 
 
-## 4. § 39a wird wie folgt geändert: 
+# 4. § 39a wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden nach den Worten „Sockel beider Studienrichtungen“ ein Komma und die Worte „d.h. allgemein mathematische und ingenieurwissenschaftliche 
 
@@ -64,9 +64,9 @@ b) Abs. 2 wird wie folgt geändert:
 
 bb) Satz 4 wird gestrichen, der bisherige Satz 5 wird zu Satz 4. 
 
-## 5. Die Regelung in § 42 erhält folgende neue Fassung: 
+# 5. Die Regelung in § 42 erhält folgende neue Fassung: 
 
-„(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist ein dem Studium nach dieser Prüfungsordnung gleichwertiger Bachelorabschluss im Fach Medizintechnik bzw. ein gleichwertiger und im Hinblick auf die im Abschluss vermittelten Kompetenzen zu diesem Studiengang nicht wesentlich unterschiedlicher Abschluss einer anderen in- oder ausländischen Hochschule.[2] Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere Bachelorabschlüsse in Elektrotechnik, Informatik sowie Maschinenbau anerkannt, sofern diese den Nachweis folgender Kompetenzen beinhalten: 
+„(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** ist ein dem Studium nach dieser Prüfungsordnung gleichwertiger Bachelorabschluss im Fach Medizintechnik bzw. ein gleichwertiger und im Hinblick auf die im Abschluss vermittelten Kompetenzen zu diesem Studiengang nicht wesentlich unterschiedlicher Abschluss einer anderen in- oder ausländischen Hochschule.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 29 Abs. 1 Nr. 1 **ABMPO/TechFak** werden insbesondere Bachelorabschlüsse in Elektrotechnik, Informatik sowie Maschinenbau anerkannt, sofern diese den Nachweis folgender Kompetenzen beinhalten: 
 
 2 
 
@@ -76,7 +76,7 @@ bb) Satz 4 wird gestrichen, der bisherige Satz 5 wird zu Satz 4.
 
 - Elektrotechnik: mind. 5 ECTS-Punkte, Kenntnisse analog zu denen des Moduls B 4.1 der **Anlage 1** dieser Fachprüfungsordnung. 
 
-(2)[1] Abweichend von Abs. 2 Satz 1 **Anlage ABMPO/TechFak** ist der Antrag auf Zulassung zum Wintersemester bis zum 30. Juni eines jeden Jahres zu stellen. 2Als weitere Unterlage im Sinne der **Anlage** Abs. 2 Satz 4 Nr. 3 **ABMPO/TechFak** müssen die Bewerberinnen und Bewerber folgende Unterlagen einreichen: 
+(2)<sup>1</sup> Abweichend von Abs. 2 Satz 1 **Anlage ABMPO/TechFak** ist der Antrag auf Zulassung zum Wintersemester bis zum 30. Juni eines jeden Jahres zu stellen. 2Als weitere Unterlage im Sinne der **Anlage** Abs. 2 Satz 4 Nr. 3 **ABMPO/TechFak** müssen die Bewerberinnen und Bewerber folgende Unterlagen einreichen: 
 
 1. eine Auflistung ihrer bisher erworbenen Qualifikationen in den Bereichen Mathematik, Elektrotechnik und Informatik 
 
@@ -90,27 +90,27 @@ bb) Satz 4 wird gestrichen, der bisherige Satz 5 wird zu Satz 4.
 
 - b) für die Bewerbung für die Studienrichtungen „Medizinische Bild- und Datenverarbeitung“, „Medizinelektronik“ und „Medizinische Produktionstechnik, Gerätetechnik und Prothetik“ Deutschkenntnisse auf dem Niveau C1 des GER. 
 
-4Der Nachweis nach Satz 3 lit. a) kann insbesondere durch den Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 GER mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule o- der Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) oder den Test International English Language Testing System (IELTS) auf dem Niveau B2 oder höher oder durch vergleichbare Nachweise (hierzu wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen) erbracht werden.[5] Der Nachweis nach Satz 3 lit. a) ist nicht zu erbringen, falls die Hochschulzugangsberechtigung bzw. der einschlägige erste berufsqualifizierende Abschluss in englischer Sprache erworben wurde.[6] Für die Nachweismöglichkeiten für die Kenntnisse der deutschen Sprache nach Satz 3 lit. b) wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen. 
+4Der Nachweis nach Satz 3 lit. a) kann insbesondere durch den Nachweis des schulischen Englischunterrichts bis zur Niveaustufe B2 GER mit diesbezüglicher Zertifizierung im Zeugnis bzw. einer entsprechenden Bescheinigung der Schule o- der Nachweis des erfolgreichen Test of English as a Foreign Language (TOEFL) oder den Test International English Language Testing System (IELTS) auf dem Niveau B2 oder höher oder durch vergleichbare Nachweise (hierzu wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen) erbracht werden.<sup>5</sup> Der Nachweis nach Satz 3 lit. a) ist nicht zu erbringen, falls die Hochschulzugangsberechtigung bzw. der einschlägige erste berufsqualifizierende Abschluss in englischer Sprache erworben wurde.<sup>6</sup> Für die Nachweismöglichkeiten für die Kenntnisse der deutschen Sprache nach Satz 3 lit. b) wird beispielhaft auf die Äquivalenztabelle des Sprachenzentrums der FAU verwiesen. 
 
 (3) Die Qualifikation zum Masterstudium Medizintechnik von Bewerberinnen und Bewerbern mit fachspezifischem Erstabschluss wird i. S. der **Anlage 1** Abs. 5 Satz 2 Nr. 2 **ABMPO/TechFak** festgestellt, wenn die Gesamtnote des Abschlusses bzw. der Durchschnitt der bisherigen Leistungen mindestens 2,5 beträgt oder mindestens vier der Module der Modulgruppe B5 oder B6 des Bachelorstudiengangs gemäß dieser Prüfungsordnung oder gleichwertige Module anderer Hochschulen mit dem nach ihrem ECTS-Wert gewichteten Mittelwert der Modulnoten von 3,0 oder besser abgelegt sind. 
 
 3 
 
-(4)[1] Abweichend von Abs. 5 Satz 3 ff. **Anlage ABMPO/TechFak** werden Bewerberinnen und Bewerber mit einem fachspezifischen Abschluss, denen nicht bereits nach Abs. 3 direkter Zugang zum Studiengang gewährt werden konnte sowie Bewerberinnen und 
+(4)<sup>1</sup> Abweichend von Abs. 5 Satz 3 ff. **Anlage ABMPO/TechFak** werden Bewerberinnen und Bewerber mit einem fachspezifischen Abschluss, denen nicht bereits nach Abs. 3 direkter Zugang zum Studiengang gewährt werden konnte sowie Bewerberinnen und 
 
 Bewerber mit einem fachverwandten Abschluss mit einer Gesamtnote bzw. einem Durchschnitt der bisherigen Leistungen von 2,5 oder besser zur Teilnahme an einem elektronischen Test über die Plattform StudOn-Exam nach Abs. 5 eingeladen. 2Bewerberinnen und Bewerber mit einem fachverwandten Abschluss mit einer Gesamtnote bzw. einem Durchschnitt der bisherigen Leistungen von 2,51 oder schlechter gelten als ungeeignet und erhalten einen mit einer Begründung und einer Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-(5)[1] Der Termin für den Test über die Plattform StudOn-Exam wird den dafür ausgewählten Bewerberinnen und Bewerbern mindestens eine Woche vorher über das Bewerbungsportal der FAU bekannt gegeben.[2] Der Test wird in Form einer OpenBook-Prüfung durchgeführt, dauert 60 Minuten und umfasst das Lösen von Aufgaben aus den Bereichen Mathematik und Algorithmik sowie entsprechend der gewählten Studienrichtung aus den Bereichen Medizinische Bild- und Datenverarbeitung, Medizinelektronik, Medizinische Gerätetechnik, Produktionstechnik und Prothetik sowie Medizinrobotik.[3] Näheres zum Ablauf des Tests und zu den erlaubten Hilfsmitteln wird den Studierenden bei Bekanntgabe des Termins mitgeteilt; § 27 Abs. 7 Satz 5 **ABMPO/TechFak** gilt entsprechend.[4] Der Zugang wird gewährt, wenn der Test mit dem Prädikat „gut“ i.S.d. § 18 Abs. 1 Satz 1 **ABMPO/TechFak** oder besser bestanden ist.[5] Die übrigen Bewerberinnen und Bewerber gelten als ungeeignet und werden nicht zum Masterstudiengang zugelassen; Abs. 4 Satz 2 Halbsatz 2 gilt entsprechend.“ 
+(5)<sup>1</sup> Der Termin für den Test über die Plattform StudOn-Exam wird den dafür ausgewählten Bewerberinnen und Bewerbern mindestens eine Woche vorher über das Bewerbungsportal der FAU bekannt gegeben.<sup>2</sup> Der Test wird in Form einer OpenBook-Prüfung durchgeführt, dauert 60 Minuten und umfasst das Lösen von Aufgaben aus den Bereichen Mathematik und Algorithmik sowie entsprechend der gewählten Studienrichtung aus den Bereichen Medizinische Bild- und Datenverarbeitung, Medizinelektronik, Medizinische Gerätetechnik, Produktionstechnik und Prothetik sowie Medizinrobotik.<sup>3</sup> Näheres zum Ablauf des Tests und zu den erlaubten Hilfsmitteln wird den Studierenden bei Bekanntgabe des Termins mitgeteilt; § 27 Abs. 7 Satz 5 **ABMPO/TechFak** gilt entsprechend.<sup>4</sup> Der Zugang wird gewährt, wenn der Test mit dem Prädikat „gut“ i.S.d. § 18 Abs. 1 Satz 1 **ABMPO/TechFak** oder besser bestanden ist.<sup>5</sup> Die übrigen Bewerberinnen und Bewerber gelten als ungeeignet und werden nicht zum Masterstudiengang zugelassen; Abs. 4 Satz 2 Halbsatz 2 gilt entsprechend.“ 
 
-## 6. § 44a wird wie folgt geändert: 
+# 6. § 44a wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach den Worten „medizinische Grundlagen“ die Worte „aus den Bereichen Anatomie, Physiologie und Krankheitskunde“ und nach den Worten „medizinischen Anwendungen“ der Klammerzusatz „(z.B. Computertomographie, Strahlentherapie)“ eingefügt. 
+- aa) In Satz 1 werden nach den Worten „medizinische Grundlagen“ die Worte „aus den Bereichen Anatomie, Physiologie und Krankheitskunde“ und nach den Worten „medizinischen Anwendungen“ der Klammerzusatz „(z.B. Computertomographie, Strahlentherapie)“ eingefügt. 
 
 bb) Satz 2 erhält folgende neue Fassung: 
 
-„[2] In dieser Modulgruppe sind neben Vorlesungen und Übungen auch Seminare und Praktika aus dem Angebot der Medizinischen Fakultät wählbar.“ 
+„<sup>2</sup> In dieser Modulgruppe sind neben Vorlesungen und Übungen auch Seminare und Praktika aus dem Angebot der Medizinischen Fakultät wählbar.“ 
 
 b) Abs. 2 wird wie folgt geändert: 
 
@@ -120,15 +120,15 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Als Schwerpunkte sind je nach gewählter Studienrichtung die Bereiche Elektrotechnik, Informatik, Maschinenbau oder Werkstoffwissenschaften zu vertiefen.“ 
+„<sup>2</sup> Als Schwerpunkte sind je nach gewählter Studienrichtung die Bereiche Elektrotechnik, Informatik, Maschinenbau oder Werkstoffwissenschaften zu vertiefen.“ 
 
-- c) Abs. 3 wird wie folgt geändert: 
+c) Abs. 3 wird wie folgt geändert: 
 
-   - aa) Die bisher einzige Regelung wird zu Satz 1. 
+aa) Die bisher einzige Regelung wird zu Satz 1. 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Als Schwerpunkte sind je nach gewählter Studienrichtung die Bereiche Medizinelektronik, Medizinische Bild- und Datenverarbeitung, Medizinische Gerätetechnik, Prothetik oder Medizinrobotik zu vertiefen.“ 
+„<sup>2</sup> Als Schwerpunkte sind je nach gewählter Studienrichtung die Bereiche Medizinelektronik, Medizinische Bild- und Datenverarbeitung, Medizinische Gerätetechnik, Prothetik oder Medizinrobotik zu vertiefen.“ 
 
 d) Abs. 4 wird wie folgt geändert: 
 
@@ -142,7 +142,7 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Als Schwerpunkte sind je nach gewählter Studienrichtung Spezialthemenbereiche wie z.B. Tissue Engineering, eHealth, medizintechnische Anwendungen der Photonik oder Neurotechnologie zu vertiefen.“ 
+„<sup>2</sup> Als Schwerpunkte sind je nach gewählter Studienrichtung Spezialthemenbereiche wie z.B. Tissue Engineering, eHealth, medizintechnische Anwendungen der Photonik oder Neurotechnologie zu vertiefen.“ 
 
 f) Abs. 6 wird wie folgt geändert: 
 
@@ -150,7 +150,7 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Hierbei vertiefen die Studierenden ihre Kompetenzen zur Durchführung und 
+„<sup>2</sup> Hierbei vertiefen die Studierenden ihre Kompetenzen zur Durchführung und 
 
 Dokumentation von (medizin)technischen Experimenten sowie zum Verfassen von wissenschaftlichen Berichten gemäß den Standards ihrer Fachdisziplin.“ 
 
@@ -160,9 +160,9 @@ g) In Abs. 7 wird Satz 7 gestrichen; der bisherige Satz 8 wird zu Satz 7.
 
 7. In § 46 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die zwölfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Soweit nachfolgend nichts anderes geregelt ist, gilt sie für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPOMT studieren. 3Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
+„(5)<sup>1</sup> Die zwölfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Soweit nachfolgend nichts anderes geregelt ist, gilt sie für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPOMT studieren. 3Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.“ 
 
-## 8. **Anlage 1** wird wie folgt geändert: 
+# 8. **Anlage 1** wird wie folgt geändert: 
 
 - a) In Zeile 4 (Modul B 1.2 Biomedizin und Hauptseminar Medizintechnik) wird in Spalte 6 (Art und Umfang der Prüfung) nach der Zahl und dem Wort „60 Min.“ und dem Wort „SeL“ jeweils der Klammerzusatz „(50 %)“ ein- bzw. angefügt. 
 
@@ -170,8 +170,10 @@ g) In Abs. 7 wird Satz 7 gestrichen; der bisherige Satz 8 wird zu Satz 7.
 
 „ 
 
-|**B 4.3 Statik**<br>**und**<br>**Festigkeits-**<br>**lehre (GOP)1)**||vgl.<br>FPO-<br>WING|**7,**<br>**5**||7,<br>5|||||Vgl.<br>FPO<br>WING|
-|---|---|---|---|---|---|---|---|---|---|---|
+|**B 4.3 Statik**|||||
+|---|---|---|---|---|
+|**und**|l|**7,**|7,|Vgl.|
+|**Festigkeits-**<br>**lehre (GOP)**<sup>**1)**</sup>|vg.<br>FPO-<br>WING|**5**|5|FPO<br>WING|
 
 „ 
 
@@ -193,11 +195,8 @@ g) In Abs. 7 wird Satz 7 gestrichen; der bisherige Satz 8 wird zu Satz 7.
 
 „ 
 
-|**Summe SWS und ECTS-**<br>**Punkte (mind.):**||||**5**|**18**<br>**0**|**30**|**30-**<br>**32,**<br>**5**|**27,**<br>**5-**<br>**30**|**30-**<br>**32,**<br>**5**|**30**|**30**||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**5**<br>**8**|**3**<br>**2**|**1**<br>**6**||||||||||
-||||||||||||||
-||**111**||||||||||||
+<!-- Start of picture text -->
+5 3 1 30- 27, 30-<br>Summe SWS und ECTS- 5  18<br>8  2  6  30  32, 5- 32, 30  30<br>Punkte (mind.):  0<br>111  5 30 5<br><!-- End of picture text -->
 
 „ 
 
@@ -209,9 +208,9 @@ g) In Abs. 7 wird Satz 7 gestrichen; der bisherige Satz 8 wird zu Satz 7.
 
    - c) In Zeile 10 (M9 Masterarbeit/Master’s thesis) wird in Spalte 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz „(Präsentation)“ in einer neuen Zeile der Klammerzusatz „(92% + 8%) angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Soweit nachfolgend nichts anderes geregelt ist, gilt sie für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPOMT studierenden.[3] Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Soweit nachfolgend nichts anderes geregelt ist, gilt sie für alle Studierenden, die bereits nach einer der bisher gültigen Fassungen der FPOMT studierenden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 42 für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden. 
 
 7 
 

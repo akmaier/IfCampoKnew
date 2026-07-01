@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "20. August 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AeSa-PrO-Molec-Science.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/
-scraped_at: 2026-05-01T07:37:05+00:00
-page_count_chars: 14045
+scraped_at: 2026-07-01T09:01:14+00:00
+page_count_chars: 14517
 ---
 
 # 20. August 2004
@@ -12,9 +12,9 @@ page_count_chars: 14045
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AeSa-PrO-Molec-Science.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/>
 
-## **Zweite Satzung zur Änderung der Prüfungsordnung für den Bachelorstudiengang Molecular Science an der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Prüfungsordnung für den Bachelorstudiengang Molecular Science an der Universität Erlangen-Nürnberg** 
 
-## Vom 20. August 2004 
+Vom 20. August 2004 
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 und Art. 86 a des Bayerischen Hochschulgesetzes (BayHSchG) ) sowie § 57 Abs. 1 Satz 1 der Qualifikationsverordnung (QualV) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -28,11 +28,11 @@ Die Prüfungsordnung für den Bachelorstudiengang Molecular Science an der Unive
 
 2. § 1 wird wie folgt geändert: 
 
-a) Die bisherigen Sätze 1 und 2 werden zu Abs. 1. 
+   - a) Die bisherigen Sätze 1 und 2 werden zu Abs. 1. 
 
-- b) Es wird folgender Absatz angefügt: 
+b) Es wird folgender Absatz angefügt: 
 
-"(2)[1] Die Masterprüfung stellt einen weiteren berufs- und forschungsqualifizierenden Abschluss des Studiums dar.[2] Abs. 1 Satz 2 gilt entsprechend." 
+"(2)<sup>1</sup> Die Masterprüfung stellt einen weiteren berufs- und forschungsqualifizierenden Abschluss des Studiums dar.<sup>2</sup> Abs. 1 Satz 2 gilt entsprechend." 
 
 3. § 2 erhält folgende Fassung: 
 
@@ -48,27 +48,27 @@ a) Die bisherigen Sätze 1 und 2 werden zu Abs. 1.
 
    - a) Abs. 1 Satz 1 erhält folgende Fassung: 
 
-"[1] Das Studium mit dem Abschlussziel Bachelor umfasst einen viersemestrigen Grundabschnitt sowie einen zweisemestrigen Bachelorabschnitt, in dem über das Grundstudium hinausgehende Kenntnisse für einen frühen Berufseinstieg vermittelt werden." 
+"<sup>1</sup> Das Studium mit dem Abschlussziel Bachelor umfasst einen viersemestrigen Grundabschnitt sowie einen zweisemestrigen Bachelorabschnitt, in dem über das Grundstudium hinausgehende Kenntnisse für einen frühen Berufseinstieg vermittelt werden." 
 
-b) Abs. 2 Satz 1 erhält folgende Fassung: 
+- b) Abs. 2 Satz 1 erhält folgende Fassung: 
 
 1 
 
-"[1] Die Bachelorprüfung umfasst die Erste Abschnittsprüfung, mit dem der Grundabschnitt abgeschlossen wird, und die Zweite Abschnittsprüfung mit denen das weitere Studium abgeschlossen wird." 
+"<sup>1</sup> Die Bachelorprüfung umfasst die Erste Abschnittsprüfung, mit dem der Grundabschnitt abgeschlossen wird, und die Zweite Abschnittsprüfung mit denen das weitere Studium abgeschlossen wird." 
 
 - c) In Abs. 2 Satz 2 werden die Worte "Das Grundstudium" sowie "Grundstudium" durch die Worte "Der Grundabschnitt" bzw. "Grundabschnitt" ersetzt. 
 
 d) An die Stelle von Abs. 3 treten folgende Absätze: 
 
-"(3)[1] Das Studium mit dem Abschluss zum Master setzt sich aus Lehrveranstaltungen und Studienleistungen im Umfang von 60 SWS, verteilt auf zwei Semester, und sechs Monaten zur Anfertigung der Masterthesis zusammen.[2] Die Regelstudienzeit beträgt drei Semester.[3] Hat der Student die Qualifikation zum Masterstudium außerhalb der Bundesrepublik Deutschland oder an einer Fachhochschule erworben und wird er unter Auflagen zum Masterstudium zugelassen, beträgt die Regelstudienzeit vier Semester. 
+"(3)<sup>1</sup> Das Studium mit dem Abschluss zum Master setzt sich aus Lehrveranstaltungen und Studienleistungen im Umfang von 60 SWS, verteilt auf zwei Semester, und sechs Monaten zur Anfertigung der Masterthesis zusammen.<sup>2</sup> Die Regelstudienzeit beträgt drei Semester.<sup>3</sup> Hat der Student die Qualifikation zum Masterstudium außerhalb der Bundesrepublik Deutschland oder an einer Fachhochschule erworben und wird er unter Auflagen zum Masterstudium zugelassen, beträgt die Regelstudienzeit vier Semester. 
 
-(4)[1] Studium und Prüfungen beruhen auf dem European Credit Transfer System (ECTS).[2] Pro Modul entfallen ECTS-Punkte auf Lehrveranstaltungen, an denen der Student mit Erfolg teilgenommen hat, und auf Prüfungsleistungen, die er in der Vorlesungszeit und im Anschluss daran studienbegleitend erbracht hat.[3] Die Gesamtzahl der ECTS-Punkte beträgt im Bachelorstudium 180 und im Masterstudium einschließlich der Masterthesis 90.[4] Die Aufteilung der ECTS-Punkte ergibt sich aus den **Anlagen 1** und **2** .[5] Die Ergebnisse bestandener Prüfungen werden mit Leistungspunkten, die Ergebnisse nicht bestandener erster Wiederholungsprüfungen mit Maluspunkten berechnet.[6] Eine zweite Wiederholung einer nicht bestandenen Prüfung ist zulässig, solange die Summe der Maluspunkte den für die jeweilige Prüfung festgelegten Schwellenwert nicht überschreitet.[7] Leistungsnachweise für die erfolgreiche Teilnahme an Lehrveranstaltungen können zweimal wiederholt werden." 
+(4)<sup>1</sup> Studium und Prüfungen beruhen auf dem European Credit Transfer System (ECTS).<sup>2</sup> Pro Modul entfallen ECTS-Punkte auf Lehrveranstaltungen, an denen der Student mit Erfolg teilgenommen hat, und auf Prüfungsleistungen, die er in der Vorlesungszeit und im Anschluss daran studienbegleitend erbracht hat.<sup>3</sup> Die Gesamtzahl der ECTS-Punkte beträgt im Bachelorstudium 180 und im Masterstudium einschließlich der Masterthesis 90.<sup>4</sup> Die Aufteilung der ECTS-Punkte ergibt sich aus den **Anlagen 1** und **2** .<sup>5</sup> Die Ergebnisse bestandener Prüfungen werden mit Leistungspunkten, die Ergebnisse nicht bestandener erster Wiederholungsprüfungen mit Maluspunkten berechnet.<sup>6</sup> Eine zweite Wiederholung einer nicht bestandenen Prüfung ist zulässig, solange die Summe der Maluspunkte den für die jeweilige Prüfung festgelegten Schwellenwert nicht überschreitet.<sup>7</sup> Leistungsnachweise für die erfolgreiche Teilnahme an Lehrveranstaltungen können zweimal wiederholt werden." 
 
 5. § 4 erhält folgende Fassung: 
 
 ## " **§ 4 Zulassungskommission Molecular Science** 
 
-(1)[1] Die Zulassungskommission Molecular Science besteht aus dem Vorsitzenden und zwei weiteren Professoren der Naturwissenschaftlichen Fakultät II, die vom Fachbereichsrat für die Dauer von zwei Jahren bestellt werden.[2] Wiederbestellung ist möglich. 
+(1)<sup>1</sup> Die Zulassungskommission Molecular Science besteht aus dem Vorsitzenden und zwei weiteren Professoren der Naturwissenschaftlichen Fakultät II, die vom Fachbereichsrat für die Dauer von zwei Jahren bestellt werden.<sup>2</sup> Wiederbestellung ist möglich. 
 
 (2) Der Zulassungskommission obliegt die Durchführung des Zulassungsverfahrens zum Masterstudium nach § 22." 
 
@@ -80,7 +80,9 @@ b) In Abs. 2 werden die Worte "der Anlage" durch die Worte "den Anlagen" ersetzt
 
 7. § 12 wird wie folgt geändert: 
 
-   - a) In Abs. 1 wird folgender Satz angefügt: "[4] Ist eine Prüfungsleistung von mehreren Prüfern zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten." 
+   - a) In Abs. 1 wird folgender Satz angefügt: 
+
+      - "<sup>4</sup> Ist eine Prüfungsleistung von mehreren Prüfern zu bewerten, so ergibt sich die Note aus dem Mittel der Einzelnoten." 
 
    - b) In Abs. 3 Satz 1 wird das Wort "Vorprüfung" durch das Wort "Bachelorprüfung" ersetzt. 
 
@@ -88,7 +90,7 @@ b) In Abs. 2 werden die Worte "der Anlage" durch die Worte "den Anlagen" ersetzt
 
 2 
 
-"(5)[1] Zum Bestehen der Masterprüfung ist erforderlich, dass die Note der Masterthesis und die Noten des Pflichtmoduls, des Wahlpflichtmoduls und des Wahlmoduls jeweils wenigstens "ausreichend" (4,0) lauten.[2] Abs. 4 Satz 2 gilt entsprechend." 
+"(5)<sup>1</sup> Zum Bestehen der Masterprüfung ist erforderlich, dass die Note der Masterthesis und die Noten des Pflichtmoduls, des Wahlpflichtmoduls und des Wahlmoduls jeweils wenigstens "ausreichend" (4,0) lauten.<sup>2</sup> Abs. 4 Satz 2 gilt entsprechend." 
 
 d) Der bisherige Abs. 5 wird Abs. 6. 
 
@@ -110,9 +112,9 @@ d) Der bisherige Abs. 5 wird Abs. 6.
 
 11. § 17 wird wie folgt geändert: 
 
-- a) Es wird das Wort "Vorprüfung" jeweils durch die Worte "Erste Abschnittsprüfung" ersetzt. 
+   - a) Es wird das Wort "Vorprüfung" jeweils durch die Worte "Erste Abschnittsprüfung" ersetzt. 
 
-- b) Die Abs. 4 und 5 entfallen. 
+   - b) Die Abs. 4 und 5 entfallen. 
 
 12. Die Überschrift vor § 18 "Zweiter Abschnitt: Bachelorprüfung" entfällt. 
 
@@ -126,7 +128,7 @@ d) Der bisherige Abs. 5 wird Abs. 6.
 
 14. In § 20 Abs. 2 werden nach dem Wort "Prüfungen" die Worte "des Zweiten Prüfungsabschnitts" eingefügt. 
 
-## 15. Nach § 21 wird eingefügt: 
+15. Nach § 21 wird eingefügt: 
 
 ## " **Zweiter Abschnitt: Masterprüfung** 
 
@@ -134,7 +136,7 @@ d) Der bisherige Abs. 5 wird Abs. 6.
 
 3 
 
-(1)[1] Vorraussetzung für die Zulassung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.[2] Die Qualifikation für den Masterstudiengang wird nachgewiesen durch ein Zeugnis über 
+(1)<sup>1</sup> Vorraussetzung für die Zulassung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.<sup>2</sup> Die Qualifikation für den Masterstudiengang wird nachgewiesen durch ein Zeugnis über 
 
 1. die Bachelorprüfung nach dieser Prüfungsordnung, 
 
@@ -144,9 +146,9 @@ d) Der bisherige Abs. 5 wird Abs. 6.
 
 4. einen anderen vergleichbaren Hochschulabschluss. 
 
-3Bewerber nach Satz 2 Nr. 1 müssen die Bachelorprüfung mit der Gesamtnote wenigstens "gut" oder die Eignungsfeststellungsprüfung nach der **Anlage 3** bestanden haben. 4Andere Bewerber sollen zu den 20 v. H. Besten ihres Jahrgangs zählen und den Abschluss mit einer Gesamtnote besser als 2,4 bestanden haben[5] Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen mindestens ein dem Prädikat "gut bestanden" vergleichbares Prädikat aufweisen.[6] Die Abschlüsse nach Satz 2 Nrn. 2 bis 4 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.[7] Über die Gleichwertigkeit entscheidet die Zulassungskommission.[8] Ist die Gleichwertigkeit nicht gegeben oder die Qualifikationvoraussetzung nicht ausreichend nachgewiesen, kann die Zulassungskommission eine Eignungsfeststellungsprüfung anordnen oder die Zulassung unter Auflagen aussprechen; diese müssen spätestens bei der Zulassung zur Masterthesis vorliegen. 
+3Bewerber nach Satz 2 Nr. 1 müssen die Bachelorprüfung mit der Gesamtnote wenigstens "gut" oder die Eignungsfeststellungsprüfung nach der **Anlage 3** bestanden haben. 4Andere Bewerber sollen zu den 20 v. H. Besten ihres Jahrgangs zählen und den Abschluss mit einer Gesamtnote besser als 2,4 bestanden haben<sup>5</sup> Abschlüsse, die mit einem anderen Notensystem bewertet sind, müssen mindestens ein dem Prädikat "gut bestanden" vergleichbares Prädikat aufweisen.<sup>6</sup> Die Abschlüsse nach Satz 2 Nrn. 2 bis 4 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.<sup>7</sup> Über die Gleichwertigkeit entscheidet die Zulassungskommission.<sup>8</sup> Ist die Gleichwertigkeit nicht gegeben oder die Qualifikationvoraussetzung nicht ausreichend nachgewiesen, kann die Zulassungskommission eine Eignungsfeststellungsprüfung anordnen oder die Zulassung unter Auflagen aussprechen; diese müssen spätestens bei der Zulassung zur Masterthesis vorliegen. 
 
-(2)[1] Dem Antrag auf Zulassung sind beizufügen: 
+(2)<sup>1</sup> Dem Antrag auf Zulassung sind beizufügen: 
 
 1. Das Zeugnis über den Hochschulabschluss, 
 
@@ -160,17 +162,19 @@ Der Student soll sich so rechtzeitig zu den mündlichen Prüfungen der Masterpr�
 
 ## **§ 24 Umfang und Durchführung der Masterprüfung** 
 
-(1)[ 1] Die Masterprüfung besteht aus jeweils einer etwa 45-minütigen mündlichen Prüfung in dem 
+(1)<sup>1</sup> Die Masterprüfung besteht aus jeweils einer etwa 45-minütigen mündlichen Prüfung in dem 
 
 1. Pflichtmodul 
 
 2. Wahlpflichtmodul und 
 
-3. Wahlmodul und der Anfertigung einer Masterthesis. 
+3. Wahlmodul 
 
-2Als Pflichtmodul sind wählbar Drug Discovery oder Molecular Nanoscience. 3Als Wahlpflichtmodul sind wählbar Molekülsynthesen, Physikalische Chemie, Theorie, Medizinische Chemie, Molekulare Biologie.[4] Als Wahlmodul sind wählbar ein weiteres Wahlpflichtmodul oder ein Fachgebiet im Umfang von 15 SWS, das in einem vom Prüfungsausschuss anerkannten sinnvollen Zusammenhang mit dem Pflichtmodul steht.[5] Die Prüfungen werden in englischer Sprache abgenommen. 
+und der Anfertigung einer Masterthesis. 
 
-(2)[1] Die Prüfung im Pflichtmodul findet vor einem Prüfungskollegium von drei Prüfern statt, in dem folgende Fächer vertreten sind: 
+2Als Pflichtmodul sind wählbar Drug Discovery oder Molecular Nanoscience. 3Als Wahlpflichtmodul sind wählbar Molekülsynthesen, Physikalische Chemie, Theorie, Medizinische Chemie, Molekulare Biologie.<sup>4</sup> Als Wahlmodul sind wählbar ein weiteres Wahlpflichtmodul oder ein Fachgebiet im Umfang von 15 SWS, das in einem vom Prüfungsausschuss anerkannten sinnvollen Zusammenhang mit dem Pflichtmodul steht.<sup>5</sup> Die Prüfungen werden in englischer Sprache abgenommen. 
+
+(2)<sup>1</sup> Die Prüfung im Pflichtmodul findet vor einem Prüfungskollegium von drei Prüfern statt, in dem folgende Fächer vertreten sind: 
 
 4 
 
@@ -184,7 +188,7 @@ Anorganische Chemie Organische Chemie Physikalische Chemie
 
 2Das Ergebnis der Prüfung wird von jedem Prüfer gemäß § 12 Abs. 1 bewertet. 
 
-(3)[1] Die Prüfungen im Wahlpflichtmodul und im Wahlmodul werden von einem Professor im Beisein eines Beisitzers oder von zwei Professoren abgehalten.[2] Abs. 2 Satz 2 gilt entsprechend. 
+(3)<sup>1</sup> Die Prüfungen im Wahlpflichtmodul und im Wahlmodul werden von einem Professor im Beisein eines Beisitzers oder von zwei Professoren abgehalten.<sup>2</sup> Abs. 2 Satz 2 gilt entsprechend. 
 
 (4) Für das Pflichtmodul werden 30 Punkte, für das Wahlpflichtmodul und das Wahlmodul jeweils 15 Punkte veranschlagt. 
 
@@ -192,17 +196,17 @@ Anorganische Chemie Organische Chemie Physikalische Chemie
 
 (1) Voraussetzung für die Zulassung zur Masterthesis ist, dass der Student die Prüfungen gemäß § 24 Abs. 1 Satz 1 Nrn. 1 bis 3 abgelegt hat. 
 
-(2)[1] Die Masterthesis ist unter der Betreuung eines in der Naturwissenschaftlichen Fakultät II hauptberuflich tätigen Hochschullehrers der Chemie, der das Thema vergibt, anzufertigen.[2] Die Bearbeitungszeit ist auf sechs Monate begrenzt.[3] Die Masterthesis wird mit 30 Punkten veranschlagt.[4] Im Übrigen gelten § 25 und § 26 Abs. 3 der Prüfungsordnung für den Diplomstudiengang Chemie entsprechend. 
+(2)<sup>1</sup> Die Masterthesis ist unter der Betreuung eines in der Naturwissenschaftlichen Fakultät II hauptberuflich tätigen Hochschullehrers der Chemie, der das Thema vergibt, anzufertigen.<sup>2</sup> Die Bearbeitungszeit ist auf sechs Monate begrenzt.<sup>3</sup> Die Masterthesis wird mit 30 Punkten veranschlagt.<sup>4</sup> Im Übrigen gelten § 25 und § 26 Abs. 3 der Prüfungsordnung für den Diplomstudiengang Chemie entsprechend. 
 
 ## **§ 26 Bestehen der Masterprüfung, Wiederholung** 
 
-(1)[1] Die Masterprüfung ist bestanden, wenn die Prüfungen gemäß § 24 Abs. 1 Nrn. 1 bis 3 und die Masterthesis mit mindestens "ausreichend" benotet sind.[ 2] § 17 Abs. 2 Sätze 2 bis 6 gelten entsprechend. 
+(1)<sup>1</sup> Die Masterprüfung ist bestanden, wenn die Prüfungen gemäß § 24 Abs. 1 Nrn. 1 bis 3 und die Masterthesis mit mindestens "ausreichend" benotet sind.<sup>2</sup> § 17 Abs. 2 Sätze 2 bis 6 gelten entsprechend. 
 
 (2) Eine zweite Wiederholung der Prüfungen nach § 24 Abs. 1 Nrn. 1 bis 3 ist zulässig, solange nicht der Schwellenwert von 30 Maluspunkten überschritten ist. 
 
 ## **§ 27 Zeugnis und Urkunde** 
 
-(1)[ 1] Über die bestandene Masterprüfung erhält der Absolvent ein Zeugnis und eine Urkunde.[2] In das Zeugnis werden die Prüfungsfächer (Module) mit den Noten, Titel und Note der Masterthesis sowie die Gesamtnote aufgenommen.[3] Das Zeugnis enthält darüberhinaus Angaben zur Berechnung der Gesamtnote.[4] Es wird in deutscher und englischer Sprache erstellt.[5] Urkunde und Zeugnis werden vom Vorsitzenden des Prüfungsausschusses unterschrieben und mit dem Siegel der Universität versehen; als Tag wird der Tag angegeben, an dem die letzte Prüfungsleistung erbracht wurde. 
+(1)<sup>1</sup> Über die bestandene Masterprüfung erhält der Absolvent ein Zeugnis und eine Urkunde.<sup>2</sup> In das Zeugnis werden die Prüfungsfächer (Module) mit den Noten, Titel und Note der Masterthesis sowie die Gesamtnote aufgenommen.<sup>3</sup> Das Zeugnis enthält darüberhinaus Angaben zur Berechnung der Gesamtnote.<sup>4</sup> Es wird in deutscher und englischer Sprache erstellt.<sup>5</sup> Urkunde und Zeugnis werden vom Vorsitzenden des Prüfungsausschusses unterschrieben und mit dem Siegel der Universität versehen; als Tag wird der Tag angegeben, an dem die letzte Prüfungsleistung erbracht wurde. 
 
 (2) § 21 Abs. 2 gilt entsprechend." 
 
@@ -216,15 +220,15 @@ Anorganische Chemie Organische Chemie Physikalische Chemie
 
 ## " **Anlage 3 Eignungsfeststellungsprüfung** 
 
-1.[1] Die Eignungsfeststellungsprüfung wird bei Bedarf, mindestens jedoch einmal pro Semester am Ende der Vorlesungszeit eines jeden Semesters, abgehalten.[2] Sie besteht aus einer mündlichen Prüfung von etwa 30 Minuten Dauer.[3] Die Prüfung soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.[4] Sie erstreckt sich auf die Grundkenntnisse des Fachgebiets Molecular Science. 
+1.<sup>1</sup> Die Eignungsfeststellungsprüfung wird bei Bedarf, mindestens jedoch einmal pro Semester am Ende der Vorlesungszeit eines jeden Semesters, abgehalten.<sup>2</sup> Sie besteht aus einer mündlichen Prüfung von etwa 30 Minuten Dauer.<sup>3</sup> Die Prüfung soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.<sup>4</sup> Sie erstreckt sich auf die Grundkenntnisse des Fachgebiets Molecular Science. 
 
-2.[1] Die Prüfung wird von zwei von der Zulassungskommission Molecular Science benannten Prüfern durchgeführt.[2] Der Termin der Prüfung wird den Bewerbern spätestens eine Woche vorher bekannt gegeben. 
+2.<sup>1</sup> Die Prüfung wird von zwei von der Zulassungskommission Molecular Science benannten Prüfern durchgeführt.<sup>2</sup> Der Termin der Prüfung wird den Bewerbern spätestens eine Woche vorher bekannt gegeben. 
 
 3. Die Bewertung der Prüfung lautet „bestanden“ oder „nicht bestanden“. 
 
 4. Die Prüfer können der Zulassungskommission Molecular Science empfehlen, die Zulassung mit Auflagen gemäß § 22 Abs. 1 Satz 8 zu verbinden. 
 
-5.[1] Die Eignungsfeststellungsprüfung kann innerhalb eines Jahres einmal wiederholt werden.[2] Eine zweite Wiederholung ist nicht möglich.“ 
+5.<sup>1</sup> Die Eignungsfeststellungsprüfung kann innerhalb eines Jahres einmal wiederholt werden.<sup>2</sup> Eine zweite Wiederholung ist nicht möglich.“ 
 
 ## **§ 2** 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 24.08.2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_NordPhilAUG2017..pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:13:12+00:00
-page_count_chars: 12691
+scraped_at: 2026-07-01T10:30:09+00:00
+page_count_chars: 12364
 ---
 
 # PDF vom 05.10.2007 i.d.F. 24.08.2017
@@ -24,7 +24,7 @@ geändert durch Satzungen vom 28. Februar 2008 1. September 2009 5. November 201
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
 § 1 Geltungsbereich ........................................................................................................................ 1 § 2 Umfang und Ziele des Studiums ............................................................................................... 1 § 3 Zulassungsvoraussetzungen zu den Prüfungen ....................................................................... 2 § 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ................... 2 § 5 Grundlagen- und Orientierungsprüfung..................................................................................... 3 § 6 Besondere Bestimmungen für die Bachelorarbeit ..................................................................... 3 § 7 Schlussvorschriften ................................................................................................................... 3 Anlage: Studienverlaufsplan B.A. Nordische Philologie…..………………………………………………4-5 
 
@@ -40,13 +40,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 fang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Bachelorstudium Nordische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Nordischen Philologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.[3] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[4] Er bietet eine breite wissenschaftliche Ausbildung und die Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum. 
+(2)<sup>1</sup> Im Bachelorstudium Nordische Philologie erwerben die Studierenden grundlegende Fachkenntnisse der Nordischen Philologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden. 2Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen.<sup>3</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>4</sup> Er bietet eine breite wissenschaftliche Ausbildung und die Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum. 
 
-(3)[1] Das Studium vermittelt solide sprachpraktische Kompetenzen sowie einen umfassenden Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von historisch spezifischen sprachlichen, literarischen und sonstigen kulturellen Phänomenen im nordischen Kulturraum.[2] In der Auseinandersetzung mit den nordgermanischen Sprachen und der Literatur und Kultur der Länder, in denen nordgermanische Sprachen gesprochen wurden und werden, erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.[3] Die Aneignung entsprechender Theorien und Methoden im Umgang mit nordischen Texten sowie der Erwerb kommunikativer und kultureller Kompetenzen im Studium der Nordischen Philologie befähigt die Studierenden zu einem kritischen und reflektierten Umgang mit der Kultur Nordeuropas.[4] Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Lauf der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang Nordische Philologie besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
+(3)<sup>1</sup> Das Studium vermittelt solide sprachpraktische Kompetenzen sowie einen umfassenden Einblick in die vielschichtigen Entwicklungs- und Transformationsprozesse von historisch spezifischen sprachlichen, literarischen und sonstigen kulturellen Phänomenen im nordischen Kulturraum.<sup>2</sup> In der Auseinandersetzung mit den nordgermanischen Sprachen und der Literatur und Kultur der Länder, in denen nordgermanische Sprachen gesprochen wurden und werden, erfahren die Studierenden einen kulturellen Perspektivenwechsel, der ein besseres Verständnis der eigenen sowie der fremden Kultur ermöglicht.<sup>3</sup> Die Aneignung entsprechender Theorien und Methoden im Umgang mit nordischen Texten sowie der Erwerb kommunikativer und kultureller Kompetenzen im Studium der Nordischen Philologie befähigt die Studierenden zu einem kritischen und reflektierten Umgang mit der Kultur Nordeuropas.<sup>4</sup> Vor dem Hintergrund der Tatsache, dass sich typische Laufbahnprofile für Absolventen und Absolventinnen von Bachelorstudiengängen in Deutschland im Lauf der nächsten Jahre erst allmählich herausbilden werden, legt der Bachelorstudiengang Nordische Philologie besonderen Wert darauf, den Studierenden ein hohes Maß an multifunktionaler Kompetenz sowie an Kommunikations- und Reflexionsfähigkeit zu vermitteln. 
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 **ABMStPO/Phil** Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichtsund Prüfungssprache** 
 
@@ -62,7 +62,7 @@ ECTS) erfolgreich zu belegen. Weitere 10 ECTS-Punkte können frei aus den Aufbau
 
 (4) Als Zulassungsvoraussetzung für die Aufbaumodule ist der erfolgreiche Abschluss der Basismodule „Nordistische Literaturwissenschaft 1“ und „Nordistische Literaturwissenschaft 2“ sowie „Nordische Erstsprache 1“ und „Nordische Erstsprache 2“ notwendig. 
 
-(5)[1] Wird Nordische Philologie als Erstfach studiert, müssen im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten nachgewiesen werden. 2Dabei sollen 10 ECTS-Punkte aus fachnahen Modulen erworben werden. 3Als fachnah gelten Module aus den Bereichen Rhetorik/Präsentation, Textkompetenz; Praktika bei Zeitungen, Verlagen o. ä.; Praktika in den skandinavischen Ländern oder bei skandinavischen Firmen oder Organisationen usw.; erfolgreich besuchte akademische Summer Schools, Übersetzerworkshops etc.; Erlernen weiterer Fremdsprachen bzw. Verbesserung bereits vorhandener Fremdsprachenkenntnisse. 
+(5)<sup>1</sup> Wird Nordische Philologie als Erstfach studiert, müssen im Bereich Schlüsselqualifikationen Leistungen im Umfang von 20 ECTS-Punkten nachgewiesen werden. 2Dabei sollen 10 ECTS-Punkte aus fachnahen Modulen erworben werden. 3Als fachnah gelten Module aus den Bereichen Rhetorik/Präsentation, Textkompetenz; Praktika bei Zeitungen, Verlagen o. ä.; Praktika in den skandinavischen Ländern oder bei skandinavischen Firmen oder Organisationen usw.; erfolgreich besuchte akademische Summer Schools, Übersetzerworkshops etc.; Erlernen weiterer Fremdsprachen bzw. Verbesserung bereits vorhandener Fremdsprachenkenntnisse. 
 
 (6) Umfang und Gliederung des Studiums sowie Art und Umfang der Prüfungen bestimmen sich nach der **Anlage** . 
 
@@ -72,7 +72,9 @@ ECTS) erfolgreich zu belegen. Weitere 10 ECTS-Punkte können frei aus den Aufbau
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Nordische Philologie die Basismodule „Nordistische Literaturwissenschaft 1“ (5 ECTS), „Nordistische Literaturwissenschaft 2“ (5 ECTS) und „Nordische Erstsprache 1“ (5 ECTS) sowie ein weiteres Basismodul (im Umfang von 5 ECTS) absolviert werden. 
 
-**§ 6 Besondere Bestimmungen für die Bachelorarbeit** Die Ausgabe des Themas der Bachelorarbeit kann frühestens im fünften Fachsemester und nach erfolgreichem Abschluss eines Aufbaumoduls mit Hausarbeit erfolgen. 
+## **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
+
+Die Ausgabe des Themas der Bachelorarbeit kann frühestens im fünften Fachsemester und nach erfolgreichem Abschluss eines Aufbaumoduls mit Hausarbeit erfolgen. 
 
 ## **§ 7 Schlussvorschriften** 
 
@@ -82,56 +84,54 @@ Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 ## **Anlage: Studienverlaufsplan B.A. Nordische Philologie** 
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS|Ge-<br>samt|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung||||||||||||<br>f||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|Prüung/Studienleistung||
-|**Basismodule: Es müssen alle Basismodule belegt werden (40 ECTS).**|||||||||||||||
-||||||||||||||||
-|Nordistische Literaturwissenschaft 1|Einführungsseminar 1||||2|5|5||||||Klausur (90 Min.)|1|
-|Nordistische Literaturwissenschaft 2|Einführungsseminar 2||||2|5||5|||||Hausarbeit (ca. 5-10 Seiten)|1|
-|Nordistische Literaturwissenschaft 3|Übung Kanontexte||2|||5|(5)|(5)|(5)||||Klausur (90 Min.)|1|
-|Nordische Kulturgeschichte 1|Einführungsseminar 1||||2|5|5||||||Klausur (90 Min.)|1|
-|Nordische Kulturgeschichte 2|Einführungsseminar 2||||2|5||5|||||Klausur (90 Min.)|1|
-|Nordische Erstsprache 1|Sprachkurs Erstsprache 1||4|||5|5||||||Klausur (90 Min.)|1|
-|Nordische Erstsprache 2|Sprachkurs Erstsprache 2||4|||10||5|||||4-6 Übungsaufgaben<br>(insgesamt ca.12 Seiten) oder<br>Klausur(90 Min.)4|1|
-||Seminar Sprachanalyse||||2|||5|||||||
-|**Aufbaumodule: Es kann aus den folgenden Aufbaumodulen gewählt werden, wobei ein Aufbaumodul mit Hausarbeit und die Module „Nordische Erstsprache“ 3 und 4 verpflichtend belegt werden**<br>**müssen.2**|||||||||||||||
-||||||||||||||||
-|Aufbaumodul Performativität|Seminar||||2|(10)|||5||||Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
-||Seminar/Kolleg||||2||||2,5||||||
-||Übung/Lektüre3||2||||||2,5||||||
-|Aufbaumodul Narrative|Seminar||||2|(10)||||5|||Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
-||Seminar/Kolleg||||2|||||2,5|||||
-||Übung/Lektüre3||2|||||||2,5|||||
-|Aufbaumodul Kulturwissenschaft|Seminar||||2|(10)||||5|||Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
-||Seminar/Kolleg||||2||||2,5||||||
-||Übung/Lektüre3||2|||||||2,5|||||
-|Nordische Erstsprache 3|Sprachkurs||4|||5|||5||||Klausur (90 Min.)|1|
-|Nordische Erstsprache 4|Sprachkurs||4|||5||||5|||Klausur (90 Min.)|1|
-|Sprache und Kultur|Übung Sprache und Kultur 15||2|||(5)|||2,5||||2-3 Übungsaufgaben<br>(insgesamt ca. 6 Seiten) oder<br>Klausur(60 Min.)4|1|
-||Übung Sprache und Kultur 25||2||||||(2,5)|(2,5)||||1|
+|||SWS||Ge-<br>|Wor|kload-Ver<br>|teilung pro Semester<br><sup>1</sup><br>|Faktor|
+|---|---|---|---|---|---|---|---|---|
+|||||samt||in EC|TS-Punkten<br>Art und Umfang der|<br>|
+|Modulbezeichnung|Lehrveranstaltung|||<br>ECTS|||<br>Prüfun/Studienleistun|Modul-<br>|
+||V|Ü<br>P|S||1.<br>2.|3.|gg<br>4.<br>5.<br>6.|note|
+|**Basismodule: Es müssen alle Basis**<br>|**module belegt werden (40 ECTS).**<br>||||||||
+|Nordistische Literaturwissenschaft 1|Einführungsseminar 1||2|5|5||Klausur (90 Min.)|1|
+|Nordistische Literaturwissenschaft 2|Einführungsseminar 2||2|5|5||Hausarbeit (ca. 5-10 Seiten)|1|
+|Nordistische Literaturwissenschaft 3|Übung Kanontexte|2||5|(5)<br>(5)|(5)|Klausur (90 Min.)|1|
+|Nordische Kulturgeschichte 1|Einführungsseminar 1||2|5|5||Klausur (90 Min.)|1|
+|Nordische Kulturgeschichte 2|Einführungsseminar 2||2|5|5||Klausur (90 Min.)|1|
+|Nordische Erstsprache 1|Sprachkurs Erstsprache 1|4||5|5||Klausur (90 Min.)|1|
+|Nordische Erstsrache 2|Sprachkurs Erstsprache 2|4||10|5||4-6 Übungsaufgaben<br>(insesamt ca12 Seiten) oder|1|
+|p|Seminar Sprachanalyse||2||5||g .<br>Klausur(90 Min.)<sup>4</sup>||
+|**Aufbaumodule: Es kann aus den folg**<br>**müssen**<sup>**2**</sup>|**enden Aufbaumodulen gewählt werd**|**en, wobei ein Au**|**fbaumo**|**dul mit Ha**|**usarbeit und**|**die Mod**|**ule „Nordische Erstsprache“ 3 und 4 verpflichtend belegt we**|**rden**|
+|**.**|Seminar||2|||5|||
+|Aufbaumodul Performativität|Seminar/Kolleg||2|(10)||2,5|Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
+||Übung/Lektüre<sup>3</sup>|2||||2,5|||
+||Seminar||2||||5<br>||
+|Aufbaumodul Narrative|Seminar/Kolleg||2|(10)|||Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)<br>2,5|1|
+||Übung/Lektüre<sup>3</sup>|2|||||<br>2,5||
+||Seminar||2||||5<br>||
+|Aufbaumodul Kulturwissenschaft|Seminar/Kolleg||2|(10)||2,5|Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
+||Übung/Lektüre<sup>3</sup>|2|||||2,5||
+|Nordische Erstsprache 3|Sprachkurs|4||5||5|Klausur (90 Min.)|1|
+|Nordische Erstsprache 4|Sprachkurs|4||5|||5<br>Klausur (90 Min.)|1|
+|Sprache und Kultur|Übung Sprache und Kultur 1<sup>5</sup>|2||5||2,5|2-3 Übungsaufgaben<br>it  6 Sit d|1|
+||Übung Sprache und Kultur 2<sup>5</sup>|2||()||(2,5)|(nsgesam ca.  een) oer<br>Klausur(60 Min.)<sup>4</sup><br>(2,5)|1|
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS|Ge-<br>samt|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Lehrveranstaltung||||||||||||<br>f||
-|||V|Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|Prüung/Studienleistung||
-|**Vertiefungsmodule: Es kann aus den**<br>**belegen ist.2**|**folgenden Vertiefungsmodulen**|**gewählt werden, wobei das Vertiefungsmodul „Nordistische**||||||||**Literatur- und Kulturwissenschaft“ im Erstfach verpflichtend**||||**zu**|
-||||||||||||||||
-|Nordistische Literatur- und Kulturwis-<br>senschaft|Hauptseminar||||2|10|||||7||Referat (15-20 Min.) und<br>Hausarbeit (ca. 15-20 Seiten)|1|
-||Übung||2||||||||3||||
-|Interskandinavische Studien 1|Seminar||||2|(5)|||||5||2-3 Übungsaufgaben<br>(insgesamt ca. 6 Seiten) oder<br>Klausur(90 Min.)4|1|
-|Interskandinavische Studien 2|Seminar||||2|(5)||||||5|Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
-|Nordische Zweitsprache 1|Sprachkurs||||4|(5)|||||5||Klausur (90 Min.)|1|
-|Nordische Zweitsprache 2|Sprachkurs||||4|(5)||||||5|Klausur (90 Min.)|1|
-|**Bachelorarbeit (nur im Erstfach): 10 ECTS**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Abschlussmodul Bachelorarbeit|Übung||1|||10||||||0|Bachelorarbeit (ca. 40 Seiten,<br>100%) und<br>Präsentation (ca. 20 Min., 0%)|2|
-||Bachelorarbeit||||||||||||||
-|||||||||||||10|||
-||||||||||||||||
-||Summe:<br>|0|23-25|0|18-24|70/<br>80+10|15|20|15-20|10-15|10-15|10-15|||
+Faktor Modulnote 
+
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>Ge-<br>samt<br>ECTS<br>V<br>Ü<br>P<br>S<br>1|Workload-Verteilung pro Semester<br>in ECTS-Punkten<sup>1</sup><br>.<br>2.<br>3.<br>4.<br>5.<br>6.|Art und Umfang der<br>Prüfung/Studienleistung|
+|---|---|---|---|---|
+
+|**Vertiefungsmodule: Es kann aus den**<br>**belegen ist.**<sup>**2**</sup>|**folgenden Vertiefu**<br>|V<br>**ngsmodulen gew**|<br>P<br>**ählt werden, wob**|S<br>**ei das V**<br>|**ertiefungs**|1.<br>2.<br>**modul „Nord**|3.<br>**istische**|4.<br>**Literatur-**|5.<br>**und Kult**<br>|6.<br>**urwissen**|**schaft“ im Erstfach verpflichtend**|<br>**zu**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nditih Litt d Klti|Hauptseminar|||2|||||7||Rft 1520 Mi d||
+|orssce eraur- un uurws-|||||10||||||eera (- n.) un|1|
+|senschaft|Übung||2||||||3||Hausarbeit (ca. 15-20 Seiten)||
+|Interskandinavische Studien 1|Seminar|||2|(5)||||5||2-3 Übungsaufgaben<br>(insgesamt ca. 6 Seiten) oder<br>Klausur(90 Min.)<sup>4</sup>|1|
+|Interskandinavische Studien 2|Seminar|||2|(5)|||||5|Referat (15-20 Min.) und<br>Hausarbeit (ca. 10-15 Seiten)|1|
+|Nordische Zweitsprache 1|Sprachkurs|||4|(5)||||5||Klausur (90 Min.)|1|
+|Nordische Zweitsprache 2|Sprachkurs|||4|(5)|||||5|Klausur (90 Min.)|1|
+|<br>**Bachelorarbeit (nur im Erstfach): 10**|<br>**ECTS**<br>|||||||||<br>|||
+||Übung||1|||||||0|Bachelorarbeit (ca. 40 Seiten,<br>||
+|Abschlussmodul Bachelorarbeit|||||10||||||100%) und|2|
+||Bachelorarbeit|||||||||10|Präsentation (ca. 20 Min., 0%)||
+|||Summe:<br>0<br>|23-25<br>0|18-24|70/<br>80+10|15<br>20|15-20|10-15|10-15|10-15|||
 
 > ~~1~~ Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. 
 

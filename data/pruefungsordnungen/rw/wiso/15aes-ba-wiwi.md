@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/15AES_BA-WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:20:58+00:00
-page_count_chars: 7104
+scraped_at: 2026-07-01T10:38:44+00:00
+page_count_chars: 7269
 ---
 
 # 23. Juli 2015
@@ -12,7 +12,7 @@ page_count_chars: 7104
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/15AES_BA-WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Fünfzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi - Vom 23. Juli 2015** 
+# **Fünfzehnte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BPOWiWi - Vom 23. Juli 2015** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -26,11 +26,11 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
 ## „ **Anerkennung von Studienzeiten, Modulen, Studien- und Prüfungsleistungen** 
 
-„(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+„(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 19 gebildet wurden. 2Stimmt das 
+(3)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 19 gebildet wurden. 2Stimmt das 
 
 1 
 
@@ -46,9 +46,9 @@ Nmin = unterste Bestehensnote
 
 Nd = erzielte Note 
 
-umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 4Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt. 4Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
-(4)[1] Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung. 3Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[4] Die Entscheidung ergeht schriftlich.“ 
+(4)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen. 2Bei Vorliegen der Voraussetzungen der Abs. 1 und 2 besteht ein Rechtsanspruch auf Anerkennung. 3Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.<sup>4</sup> Die Entscheidung ergeht schriftlich.“ 
 
 3. In § 15 Abs. 1 werden die Worte „oder von Amts wegen“ gestrichen. 
 
@@ -62,7 +62,7 @@ Die bisherigen Sätze 3 bis 7 werden zu Sätzen 2 bis 6.
 
    - b) Nach Satz 5 (neu) wird folgender Satz 6 eingefügt: 
 
-      - „[6] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+      - „<sup>6</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
    - c) Der bisherige Satz 6 (neu) wird zu Satz 7. 
 
@@ -70,7 +70,7 @@ Die bisherigen Sätze 3 bis 7 werden zu Sätzen 2 bis 6.
 
    - a) Nach Satz 1 wird folgender Satz 2 eingefügt: 
 
-      - „[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+      - „<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
    - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
@@ -84,7 +84,7 @@ Die bisherigen Sätze 3 bis 7 werden zu Sätzen 2 bis 6.
 
 - b) In Abs. 3 wird folgender neuer Satz 2 angefügt: 
 
-   - „[2] Anträge auf Nachteilsausgleich sind spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen.“ 
+   - „<sup>2</sup> Anträge auf Nachteilsausgleich sind spätestens vier Wochen vor der Anmeldung zur Prüfung schriftlich an den Prüfungsausschuss zu stellen.“ 
 
 Die Satznummerierung wird angepasst. 
 
@@ -102,7 +102,9 @@ Die Satznummerierung wird angepasst.
 
 aa) Die Zeile 12 (Modul Mathematik) erhält folgende neue Fassung: 
 
-„ Analysis und Lineare Algebra 5 5 Finanzmathematik 5 5 “ 
+„ Analysis und Lineare Algebra 5 <mark>5</mark> Finanzmathematik 5 5 
+
+“ 
 
 bb) In Zeile 28 (neu) (Modul Praxis der empirischen Wirtschaftspsychologie) Spalte 1 wird das Wort „Wirtschaftspsychologie“ durch das Wort „Wirtschaftsforschung“ ersetzt. 
 
@@ -110,13 +112,13 @@ bb) In Zeile 28 (neu) (Modul Praxis der empirischen Wirtschaftspsychologie) Spal
 
    - „ 
 
-Analysis und Lineare Algebra 5 5 Finanzmathematik 5 5 “ 
+Analysis und Lineare Algebra 5 <mark>5</mark> Finanzmathematik 5 <mark>5</mark> “ 
 
 11. In den Anlagen 3.1 und 3.2 wird in Zeile 18 (Modul Mathematik) Spalte 1 jeweils das Wort „Mathematik“ durch die Worte „Analysis und Lineare Algebra“ ersetzt. 
 
 12. In Anlage 4 erhält Zeile 10 (Modul Mathematik) folgende neue Fassung: 
 
-„ Analysis und Lineare Algebra 5 5 Finanzmathematik 5 5 
+„ Analysis und Lineare Algebra 5 <mark>5</mark> Finanzmathematik 5 <mark>5</mark> 
 
 “ 
 

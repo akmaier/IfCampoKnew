@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. August 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AeSa-FPO-WING.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:16+00:00
-page_count_chars: 1825
+scraped_at: 2026-07-01T11:46:28+00:00
+page_count_chars: 1834
 ---
 
 # 11. August 2004
@@ -12,7 +12,7 @@ page_count_chars: 1825
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AeSa-FPO-WING.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
 Vom 11. August 2004 
 
@@ -26,7 +26,9 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaf
 
    - a) In Abs. 3 Nr. 9 wird das Wort „Kommunikationswirtschaft“ durch die Worte „EBusiness Management“ ersetzt. 
 
-   - b) In Abs. 5 wird nach Nr. 12  folgende Nr. 13 „13. Unternehmens- und Gesellschaftsrecht“ angefügt. 
+   - b) In Abs. 5 wird nach Nr. 12  folgende Nr. 13 
+
+      - „13. Unternehmens- und Gesellschaftsrecht“ angefügt. 
 
 2. Die Anlage 1 wird beim wirtschaftswissenschaftlichen Fach Nr. 6 „Betriebliche Informationsverarbeitung“ in der zweiten Spalte bei der Teilprüfung 1 die Zahl „45“ durch die Zahl „60“ und bei der Teilprüfung 2 die Zahl „50“ durch die Zahl „45“ ersetzt. 
 

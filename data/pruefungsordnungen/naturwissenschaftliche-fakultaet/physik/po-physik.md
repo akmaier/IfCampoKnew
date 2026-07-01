@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 22.10.1981"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO_Physik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T08:00:56+00:00
-page_count_chars: 45915
+scraped_at: 2026-07-01T09:24:18+00:00
+page_count_chars: 47416
 ---
 
 # PDF vom 22.10.1981
@@ -16,11 +16,11 @@ page_count_chars: 45915
 
 ## **Hinweis:** 
 
-Diese Prüfungsordnung gilt für Studierende, die bereits im Diplomstudiengang Physik immatrikuliert sind. Für Studierende, die ab WS 2007/08 das Studium Physik auf- nehmen, gelten die Prüfungen nach der – BMPO/Physik (http://www.uni - - erlangen.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO Bachelor MA-Physik.pdf) ab. 
+Diese Prüfungsordnung gilt für Studierende, die bereits im Diplomstudiengang Physik immatrikuliert sind. Für Studierende, die ab WS 2007/08 das Studium Physik auf- nehmen, gelten die Prüfungen nach der – BMPO/Physik <u>(http://www.uni</u> - - <u>erlangen.de/universitaet/organisation/recht/studiensatzungen/NAT1/PO Bachelor MA-Physik.pdf) ab.</u> 
 
-## **- DPO -** 
+# **- DPO -** 
 
-## **Diplomprüfungsordnung für Studenten der Physik an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Oktober 1981** (KMBl II 1982 S. 157) 
+# **Diplomprüfungsordnung für Studenten der Physik an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 22. Oktober 1981** (KMBl II 1982 S. 157) 
 
 geändert durch Satzungen vom 29. August 1983 (KMBl II S. 990) 23. Juli 1987 (KWMBl II S. 226) 10. Oktober 1989 (KWMBl II S. 408) 
 
@@ -52,7 +52,7 @@ Die vorliegende Prüfungsordnung regelt Zweck, Inhalt und Verfahren der Diplompr
 
 ## **Zweck der Prüfung** 
 
-1Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums Physik.[2] Durch sie soll festgestellt werden, ob der Kandidat gründliche Kenntnisse auf dem Gebiet der Physik erworben hat und die Fähigkeit besitzt, nach wissenschaftlichen Methoden auf dem Gebiet der Physik selbständig zu arbeiten. 
+1Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums Physik.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat gründliche Kenntnisse auf dem Gebiet der Physik erworben hat und die Fähigkeit besitzt, nach wissenschaftlichen Methoden auf dem Gebiet der Physik selbständig zu arbeiten. 
 
 ## **§ 3** 
 
@@ -64,7 +64,7 @@ Aufgrund der bestandenen Diplomprüfung wird der akademische Grad "DiplomPhysike
 
 ## **Studiendauer, Gliederung des Studiums und der Prüfungen** 
 
-(1)[1] Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 160 Semesterwochenstunden, verteilt auf acht Fachsemester.[2] Die Regelstudienzeit einschließlich der Prüfungen beträgt 10 Semester. 
+(1)<sup>1</sup> Der Höchstumfang der für das planmäßige Studium erforderlichen Lehrveranstaltungen beträgt 160 Semesterwochenstunden, verteilt auf acht Fachsemester.<sup>2</sup> Die Regelstudienzeit einschließlich der Prüfungen beträgt 10 Semester. 
 
 (2) Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplomvorprüfung abschließt und ein sechssemestriges Hauptstudium, das mit der Diplomhauptprüfung abschließt. 
 
@@ -76,7 +76,7 @@ Aufgrund der bestandenen Diplomprüfung wird der akademische Grad "DiplomPhysike
 
 ## **Beschleunigtes Studium im Elitenetzwerk Bayern** 
 
-(1)[1] Daneben bietet die Universität Erlangen-Nürnberg  gemeinsam mit der Universität Regensburg im Rahmen des Elitenetzwerks Bayern ein beschleunigtes Studium des Diplomstudiengangs Physik an.[2] Das Studium setzt in der Regel nach dem Bestehen der Diplomvorprüfung des Faches Physik durch das Bestehen eines Eignungsfeststellungsverfahrens (vgl. Buchst. D der **Anlage** ) ein. 
+(1)<sup>1</sup> Daneben bietet die Universität Erlangen-Nürnberg  gemeinsam mit der Universität Regensburg im Rahmen des Elitenetzwerks Bayern ein beschleunigtes Studium des Diplomstudiengangs Physik an.<sup>2</sup> Das Studium setzt in der Regel nach dem Bestehen der Diplomvorprüfung des Faches Physik durch das Bestehen eines Eignungsfeststellungsverfahrens (vgl. Buchst. D der **Anlage** ) ein. 
 
 (2)  Zum beschleunigten Studium wird zugelassen wer 
 
@@ -94,15 +94,15 @@ Aufgrund der bestandenen Diplomprüfung wird der akademische Grad "DiplomPhysike
 
 (2) Die Diplomvorprüfung wird nach dem Grundstudium abgelegt. 
 
-(3)[1] Die Diplomhauptprüfung besteht aus den mündlichen Fachprüfungen und der Diplomarbeit.[2] Die Prüfungsleistungen werden in dieser Reihenfolge erbracht. 
+(3)<sup>1</sup> Die Diplomhauptprüfung besteht aus den mündlichen Fachprüfungen und der Diplomarbeit.<sup>2</sup> Die Prüfungsleistungen werden in dieser Reihenfolge erbracht. 
 
-(4)[1] Der Student soll sich so rechtzeitig melden, dass die Diplomvorprüfung vor dem Beginn der Lehrveranstaltung des fünften Semesters, die Diplomhauptprüfung bis zum Ende des zehnten Semesters abgelegt werden kann.[2] Sofern die für die Zulassung zur Prüfung erforderlichen fachlichen Leistungen nachgewiesen sind, kann der Student die Prüfungen auch vor diesen Terminen ablegen. 
+(4)<sup>1</sup> Der Student soll sich so rechtzeitig melden, dass die Diplomvorprüfung vor dem Beginn der Lehrveranstaltung des fünften Semesters, die Diplomhauptprüfung bis zum Ende des zehnten Semesters abgelegt werden kann.<sup>2</sup> Sofern die für die Zulassung zur Prüfung erforderlichen fachlichen Leistungen nachgewiesen sind, kann der Student die Prüfungen auch vor diesen Terminen ablegen. 
 
 (5) Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Diplomvorprüfung, dass er diese bis zum Beginn der Lehrveranstaltungen des sechsten Semesters abgelegt hat oder legt er die Prüfung zu der er sich gemeldet hat, nicht bis zum Beginn der Lehrveranstaltungen des sechsten Semesters ab, gilt diese Prüfung als erstmals abgelegt und nicht bestanden. 
 
 (6) Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur mündlichen Diplomhauptprüfung, dass er diese bis zum Ende des 11. Semesters abgelegt hat, oder legt er die Prüfung, zu der er sich gemeldet hat, nicht bis zum Ende des 11. Semesters ab, gelten die noch nicht absolvierten Fachprüfungen als erstmals abgelegt und nicht bestanden. 
 
-(7)[1] Überschreitet ein Student die Fristen des Absatz 5 und 6 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist. 2Die Frist verlängert sich um 
+(7)<sup>1</sup> Überschreitet ein Student die Fristen des Absatz 5 und 6 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist. 2Die Frist verlängert sich um 
 
 1. für die Ablegung der Wiederholungsprüfungen benötigte Semester und 
 
@@ -112,19 +112,19 @@ Aufgrund der bestandenen Diplomprüfung wird der akademische Grad "DiplomPhysike
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Organisation der Prüfungen und die durch diese Prüfungsordnung zugewiesenen Aufgaben wird für die Diplomvorprüfung und die Diplomhauptprüfung ein gemeinsamer Prüfungsausschuss gebildet.[2] Ihm gehören vier Mitglieder an; die Amtszeit der Mitglieder beträgt drei Jahre.[3] Eine unmittelbare Wiederbestellung ist möglich. 
+(1)<sup>1</sup> Für die Organisation der Prüfungen und die durch diese Prüfungsordnung zugewiesenen Aufgaben wird für die Diplomvorprüfung und die Diplomhauptprüfung ein gemeinsamer Prüfungsausschuss gebildet.<sup>2</sup> Ihm gehören vier Mitglieder an; die Amtszeit der Mitglieder beträgt drei Jahre.<sup>3</sup> Eine unmittelbare Wiederbestellung ist möglich. 
 
 (2) Der Vorsitzende, sein Stellvertreter und die zwei weiteren Mitglieder des Prüfungsausschusses werden vom Fachbereichsrat der Naturwissenschaftlichen Fakultät I (Mathematik und Physik) aus dem Kreise der Hochschullehrer der Physik bestellt. 
 
-(3)[1] Dem Prüfungsausschuss obliegt die Durchführung des Prüfungsverfahrens, insbesondere die Planung und Organisation der Prüfungen.[2] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden. 
+(3)<sup>1</sup> Dem Prüfungsausschuss obliegt die Durchführung des Prüfungsverfahrens, insbesondere die Planung und Organisation der Prüfungen.<sup>2</sup> Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden. 
 
-(4)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit 
+(4)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit 
 
 3 
 
-der Mitglieder anwesend sind.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.*)[3] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+der Mitglieder anwesend sind.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.*)<sup>3</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
 
-(5)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.[2] Vor ablehnenden Bescheiden ist dem Kandidaten Gelegenheit zur Äußerung zu geben. 
+(5)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Vor ablehnenden Bescheiden ist dem Kandidaten Gelegenheit zur Äußerung zu geben. 
 
 (6) Als Sachverständige ohne Stimmrecht können auch Nichtmitglieder des Prüfungsausschusses vom Vorsitzenden zu Sitzungen hinzugezogen werden. ----------------- 
 
@@ -134,19 +134,19 @@ der Mitglieder anwesend sind.[2] Er beschließt mit der Mehrheit der abgegebenen
 
 1Der gemeinsamen Auswahlkommission für das beschleunigte Studium gemäß § 4 a gehören an: 
 
-je drei Professoren der Physik aus der Naturwissenschaftlichen Fakultät I sowie aus der Naturwissenschaftlichen Fakultät II  der Universität Regensburg. 2Die Mitglieder werden vom Fachbereichsrat der jeweils zuständigen Fakultäten auf drei Jahre bestellt.[3] Die Wiederbestellung ist möglich.[4] Die Kommissionsmitglieder wählen aus ihrer Mitte einen Vorsitzenden und dessen Stellvertreter. 
+je drei Professoren der Physik aus der Naturwissenschaftlichen Fakultät I sowie aus der Naturwissenschaftlichen Fakultät II  der Universität Regensburg. 2Die Mitglieder werden vom Fachbereichsrat der jeweils zuständigen Fakultäten auf drei Jahre bestellt.<sup>3</sup> Die Wiederbestellung ist möglich.<sup>4</sup> Die Kommissionsmitglieder wählen aus ihrer Mitte einen Vorsitzenden und dessen Stellvertreter. 
 
 ## **§ 7 Prüfer** 
 
-(1)[1] Der Prüfungsausschuss bestellt die Prüfer.[2] Er kann die Bestellung dem Vorsitzenden übertragen.[3] Für die Bestellung hat der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung besteht nicht. 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt die Prüfer.<sup>2</sup> Er kann die Bestellung dem Vorsitzenden übertragen.<sup>3</sup> Für die Bestellung hat der Kandidat ein Vorschlagsrecht; ein Rechtsanspruch auf die Bestellung besteht nicht. 
 
-(2)[1] Zu Prüfern können hauptberuflich an der Universität Erlangen-Nürnberg tätige Hochschullehrer, im beschleunigten Studium gemäß § 4 a auch an der Universität Regensburg tätige Hochschullehrer, bestellt werden.[2] In Ausnahmefällen kann der Prüfungsausschuss auch andere nach dem Bayerischen Hochschulgesetz sowie nach der Hochschulprüferverordnung vom _2. Juli 1979 (GVBl S. 200)_ in der jeweils geltenden Fassung* zur Abnahme von Hochschulprüfungen Befugte zu Prüfern bestellen. 
+(2)<sup>1</sup> Zu Prüfern können hauptberuflich an der Universität Erlangen-Nürnberg tätige Hochschullehrer, im beschleunigten Studium gemäß § 4 a auch an der Universität Regensburg tätige Hochschullehrer, bestellt werden.<sup>2</sup> In Ausnahmefällen kann der Prüfungsausschuss auch andere nach dem Bayerischen Hochschulgesetz sowie nach der Hochschulprüferverordnung vom _2. Juli 1979 (GVBl S. 200)_ in der jeweils geltenden Fassung* zur Abnahme von Hochschulprüfungen Befugte zu Prüfern bestellen. 
 
 (3) Ein Prüfer kann jeweils nur die mündliche Prüfung in einem Fach bei einem Kandidaten durchführen. 
 
-(4)[1] Der Prüfer bestellt einen Beisitzer, der die Prüfung protokolliert.[2] Der Beisitzer muss ein abgeschlossenes Universitätsstudium im Prüfungsfach besitzen. 
+(4)<sup>1</sup> Der Prüfer bestellt einen Beisitzer, der die Prüfung protokolliert.<sup>2</sup> Der Beisitzer muss ein abgeschlossenes Universitätsstudium im Prüfungsfach besitzen. 
 
-(5)[1] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.[2] Scheidet ein prüfungsberechtigtes Mitglied aus der Universität aus, so kann der Prüfungsausschuss auf seinen Antrag hin beschließen, dass es noch eine angemessene Zeit als Prüfer tätig ist. 
+(5)<sup>1</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig.<sup>2</sup> Scheidet ein prüfungsberechtigtes Mitglied aus der Universität aus, so kann der Prüfungsausschuss auf seinen Antrag hin beschließen, dass es noch eine angemessene Zeit als Prüfer tätig ist. 
 
 - ------------------ 
 
@@ -160,23 +160,25 @@ je drei Professoren der Physik aus der Naturwissenschaftlichen Fakultät I sowie
 
 (2) Die Pflicht der Mitglieder des Prüfungsausschusses, der Prüfer, der Prüfungsbeisitzer und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG. 
 
-## **§ 9 Bekanntgabe der Prüfungstermine** 
+## **§ 9** 
+
+## **Bekanntgabe der Prüfungstermine** 
 
 (1) Die Prüfungen werden in der Regel im Anschluss an die Vorlesungszeit abgehalten. 
 
 (2) Die Prüfungstermine und die Meldefristen werden vom Vorsitzenden des Prüfungsausschusses durch Aushang mindestens zwei Monate vorher bekannt gegeben. 
 
-(3)[1] Die Termine der Prüfungen in den einzelnen Fächern sind spätestens zwei Wochen vorher bekannt zu geben.[2] Die zur Prüfung zugelassenen Kandidaten sind unter Angabe der einzelnen Prüfer und der Prüfungsräume schriftlich zu laden. 
+(3)<sup>1</sup> Die Termine der Prüfungen in den einzelnen Fächern sind spätestens zwei Wochen vorher bekannt zu geben.<sup>2</sup> Die zur Prüfung zugelassenen Kandidaten sind unter Angabe der einzelnen Prüfer und der Prüfungsräume schriftlich zu laden. 
 
 ## **§ 10** 
 
 ## **Anrechnung von Studiensemestern und Studienleistungen** 
 
-(1)[1] Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemäßes Fachstudium nachgewiesen wird; dabei erbrachte Studienleistungen werden bei Gleichwertigkeit angerechnet.[2] Studiensemester in verwandten Studiengängen und die dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit inhaltliche Gleichwertigkeit besteht. 
+(1)<sup>1</sup> Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemäßes Fachstudium nachgewiesen wird; dabei erbrachte Studienleistungen werden bei Gleichwertigkeit angerechnet.<sup>2</sup> Studiensemester in verwandten Studiengängen und die dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit inhaltliche Gleichwertigkeit besteht. 
 
-(2)[1] Studiensemester an Universitäten außerhalb des Geltungsbereichs des Grundgesetzes und die dabei erbrachten Studienleistungen sind auf Antrag anzuerkennen, soweit inhaltliche Gleichwertigkeit besteht.[2] Für die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der _Westdeutschen Rektorenkonferenz_ *) gebilligten Äquivalenzvereinbarungen maßgebend.[3] Bei Zweifeln an der Gleichwertigkeit kann die Zentralstelle für das ausländische Bildungswesen gehört werden.[4] Die Entscheidung trifft der Prüfungsausschuss. 
+(2)<sup>1</sup> Studiensemester an Universitäten außerhalb des Geltungsbereichs des Grundgesetzes und die dabei erbrachten Studienleistungen sind auf Antrag anzuerkennen, soweit inhaltliche Gleichwertigkeit besteht.<sup>2</sup> Für die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der _Westdeutschen Rektorenkonferenz_ *) gebilligten Äquivalenzvereinbarungen maßgebend.<sup>3</sup> Bei Zweifeln an der Gleichwertigkeit kann die Zentralstelle für das ausländische Bildungswesen gehört werden.<sup>4</sup> Die Entscheidung trifft der Prüfungsausschuss. 
 
-(3)[1] In staatlich anerkannten Fernstudien erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studienleistungen anerkannt sowie auf die Studienzeit angerechnet; _Art. 81 Abs. 3 Satz 5 BayHSchG_ ist zu beachten.[2] Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschlüsse der Kultusministerkonferenz und der _Westdeutschen Rektorenkonferenz_ *) zu berücksichtigen. 
+(3)<sup>1</sup> In staatlich anerkannten Fernstudien erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studienleistungen anerkannt sowie auf die Studienzeit angerechnet; _Art. 81 Abs. 3 Satz 5 BayHSchG_ ist zu beachten.<sup>2</sup> Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschlüsse der Kultusministerkonferenz und der _Westdeutschen Rektorenkonferenz_ *) zu berücksichtigen. 
 
 5 
 
@@ -190,13 +192,13 @@ je drei Professoren der Physik aus der Naturwissenschaftlichen Fakultät I sowie
 
 ## **Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß** 
 
-(1)[1] Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.[2] Der zur Prüfung zugelassene Kandidat kann die Anmeldung zur Prüfung bis zum 21. Tag vor dem Beginn der Prüfungen ohne Angabe von Gründen schriftlich durch Erklärung gegenüber dem Prüfungsamt widerrufen; § 5 Abs. 5 und 6 bleiben unberührt. 
+(1)<sup>1</sup> Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt.<sup>2</sup> Der zur Prüfung zugelassene Kandidat kann die Anmeldung zur Prüfung bis zum 21. Tag vor dem Beginn der Prüfungen ohne Angabe von Gründen schriftlich durch Erklärung gegenüber dem Prüfungsamt widerrufen; § 5 Abs. 5 und 6 bleiben unberührt. 
 
-(2)[1] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Dieser kann bei Krankheit die Vorlage eines ärztlichen Attestes verlangen.[3] Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
+(2)<sup>1</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Dieser kann bei Krankheit die Vorlage eines ärztlichen Attestes verlangen.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
 
-(3)[1] Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits abgelegten Fächern angerechnet.[2] Der Prüfungsausschuss soll nach Möglichkeit die neuen Prüfungstermine so ansetzen, dass die versäumten Prüfungsleistungen im unmittelbaren Anschluss nachgeholt werden. 
+(3)<sup>1</sup> Bei anerkanntem Rücktritt oder Versäumnis werden die Prüfungsergebnisse in den bereits abgelegten Fächern angerechnet.<sup>2</sup> Der Prüfungsausschuss soll nach Möglichkeit die neuen Prüfungstermine so ansetzen, dass die versäumten Prüfungsleistungen im unmittelbaren Anschluss nachgeholt werden. 
 
-(4)[1] Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet.[2] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall entscheidet der Prüfungsausschuss, ob die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet gilt. 
+(4)<sup>1</sup> Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet.<sup>2</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall entscheidet der Prüfungsausschuss, ob die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet gilt. 
 
 (5) Die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Prüfung ausgeschlossen wird, trifft der Prüfungsausschuss. 
 
@@ -220,33 +222,38 @@ je drei Professoren der Physik aus der Naturwissenschaftlichen Fakultät I sowie
 
 - (2) Zur mündlichen Prüfung ist ein Beisitzer zuzuziehen (vgl. § 7 Abs. 4). 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen ist: 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen ist: 
 
-Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand, Ergebnis und Bewertung der Prüfung, der Name des Prüfers, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.[2] Das Protokoll wird vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten im Einzelnen ist nicht erforderlich.[4] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand, Ergebnis und Bewertung der Prüfung, der Name des Prüfers, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten im Einzelnen ist nicht erforderlich.<sup>4</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
 - (4) Die Bewertung für die einzelnen Prüfungsleistungen wird gemäß § 14 festgesetzt. 
 
-- (5) Die Mitglieder des Prüfungsausschusses haben das Recht der Prüfung beizuwohnen. 
+(5) Die Mitglieder des Prüfungsausschusses haben das Recht der Prüfung beizuwohnen. 
 
-(6)[1] Bei den mündlichen Prüfungen werden Studenten der Physik im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen; der Vorsitzende des Prüfungsausschusses kann weitere Personen zulassen.[2] Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
+(6)<sup>1</sup> Bei den mündlichen Prüfungen werden Studenten der Physik im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen; der Vorsitzende des Prüfungsausschusses kann weitere Personen zulassen.<sup>2</sup> Auf Verlangen des Kandidaten werden Zuhörer ausgeschlossen. 
 
-- (7) Die Beratung und Bekanntgabe des Prüfungsergebnisses erfolgt unter Ausschluss der Öffentlichkeit. 
+(7) Die Beratung und Bekanntgabe des Prüfungsergebnisses erfolgt unter Ausschluss der Öffentlichkeit. 
 
-## **§ 14 Bewertung der Prüfungsleistungen** 
+## **§ 14** 
 
-- (1)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
+## **Bewertung der Prüfungsleistungen** 
 
-Note 1 = sehr gut: eine hervorragende Leistung eine Leistung, die erheblich über den durchschnittlichen Note 2 = gut: Anforderungen liegt eine Leistung, die durchschnittlichen Anforderungen Note 3 = befriedigend: entspricht eine Leistung, die trotz ihrer Mängel noch den AnfordeNote 4 = ausreichend: rungen genügt 
+(1)<sup>1</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
 
-Note 5 = nicht ausreichend:[eine Leistung, die wegen erheblicher Mängel den Anfor-] derungen nicht mehr genügt 
+|Note 1 = sehr gut:|eine hervorragende Leistung|
+|---|---|
+|Note 2 = gut:|eine Leistung, die erheblich über den durchschnittlichen<br>Anforderungen liegt|
+|Note 3 = befriedigend:|eine Leistung, die durchschnittlichen Anforderungen<br>entspricht|
+|Note 4 = ausreichend:|eine Leistung, die trotz ihrer Mängel noch den Anforde-<br>rungen genügt|
+|Note 5 = nicht ausreichend:|<sup>eine Leistung, die wegen erheblicher Mängel den Anfor-</sup><br>derungen nicht mehr genügt|
 
-2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise um 0,3 erhöht werden.[3] Die Noten 0,7 und 5,3 sind ausgeschlossen. 
+2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise um 0,3 erhöht werden.<sup>3</sup> Die Noten 0,7 und 5,3 sind ausgeschlossen. 
 
 7 
 
 (2) Die Fachnote lautet: Bei den Noten 1,0 und 1,3 = sehr gut bei den Noten 1,7 bis 2,3 = gut bei den Noten 2,7 bis 3,3 = befriedigend bei den Noten 3,7 bis 4,0 = ausreichend bei den Noten über 4,0 = nicht ausreichend 
 
-(3)[1] Die Gesamtnote berechnet sich aus dem Durchschnitt der einzelnen Prüfungsleistungen.[2] Bei der Mittelung werden zwei Stellen nach dem Komma berücksichtigt. 
+(3)<sup>1</sup> Die Gesamtnote berechnet sich aus dem Durchschnitt der einzelnen Prüfungsleistungen.<sup>2</sup> Bei der Mittelung werden zwei Stellen nach dem Komma berücksichtigt. 
 
 (4) Die Prüfungsgesamtnote lautet: Bei einem Durchschnitt bis 1,50 "sehr gut" Bei einem Durchschnitt über 1,50 bis 2,50 "gut" Bei einem Durchschnitt über 2,50 bis 3,50 "befriedigend" Bei einem Durchschnitt über 3,50 bis 4,00 "ausreichend". 
 
@@ -264,27 +271,29 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomhauptprüfung endgültig n
 
 (1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für eine Zulassung zur Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+(2)<sup>1</sup> Waren die Voraussetzungen für eine Zulassung zur Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zu einer Äußerung vor dem Prüfungsausschuss zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.[2] Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.<sup>2</sup> Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
 8 
 
-**§ 17 Einsicht in die Prüfungsakten** 
+## **§ 17** 
+
+## **Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag Einsicht in die Gutachten der Prüfer und in die Prüfungsprotokolle gewährt. 
 
-(2)[1] Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen. Art. 32 Bayer. Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 541) gilt entsprechend.[2] Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen. Art. 32 Bayer. Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 541) gilt entsprechend.<sup>2</sup> Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 18** 
 
 ## **Prüfungsvergünstigungen für Schwerbehinderte** 
 
-(1)[1] Auf die besondere Lage schwerbehinderter Prüfungskandidaten ist in angemessener Weise Rücksicht zu nehmen.[2] Insbesondere ist schwerbehinderten Prüfungskandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlängerung der Prüfungszeit zu gewähren. 
+(1)<sup>1</sup> Auf die besondere Lage schwerbehinderter Prüfungskandidaten ist in angemessener Weise Rücksicht zu nehmen.<sup>2</sup> Insbesondere ist schwerbehinderten Prüfungskandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlängerung der Prüfungszeit zu gewähren. 
 
-(2)[1] Prüfungsvergünstigungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin gewährt.[2] Der Antrag ist der Meldung zur Prüfung beizufügen. 
+(2)<sup>1</sup> Prüfungsvergünstigungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin gewährt.<sup>2</sup> Der Antrag ist der Meldung zur Prüfung beizufügen. 
 
 ## **I. Diplomvorprüfung** 
 
@@ -298,7 +307,7 @@ Durch die Diplomvorprüfung soll der Kandidat nachweisen, dass er sich die allge
 
 ## **Umfang und Art der Diplomvorprüfung** 
 
-(1)[1] Die Diplomvorprüfung erstreckt sich auf folgende Fächer: 
+(1)<sup>1</sup> Die Diplomvorprüfung erstreckt sich auf folgende Fächer: 
 
 1. Experimentalphysik 
 
@@ -308,9 +317,9 @@ Durch die Diplomvorprüfung soll der Kandidat nachweisen, dass er sich die allge
 
 4. Nebenfach 
 
-2Nebenfach ist Chemie. 3Der Prüfungsausschuss kann weitere, in einem sinnvollen Zusammenhang mit dem Studium der Physik stehenden Nebenfächer zulassen.[4] Die Prüfung baut auf den Studieninhalten des vorausgehenden Studienabschnittes auf. 
+2Nebenfach ist Chemie. 3Der Prüfungsausschuss kann weitere, in einem sinnvollen Zusammenhang mit dem Studium der Physik stehenden Nebenfächer zulassen.<sup>4</sup> Die Prüfung baut auf den Studieninhalten des vorausgehenden Studienabschnittes auf. 
 
-(2)[1] Die Diplomvorprüfung wird nur mündlich durchgeführt.[2] Die Prüfungszeit beträgt in jedem Prüfungsfach ca. 30 Minuten. 
+(2)<sup>1</sup> Die Diplomvorprüfung wird nur mündlich durchgeführt.<sup>2</sup> Die Prüfungszeit beträgt in jedem Prüfungsfach ca. 30 Minuten. 
 
 (3) Die mündlichen Prüfungen sollen innerhalb von vier Wochen abgelegt werden. 
 
@@ -320,9 +329,9 @@ Durch die Diplomvorprüfung soll der Kandidat nachweisen, dass er sich die allge
 
 ## **§ 21 Zulassung zur Diplomvorprüfung** 
 
-(1)[1] Der Antrag auf Zulassung zur Diplomvorprüfung ist schriftlich beim Prüfungsamt zu stellen und an den Vorsitzenden des Prüfungsausschusses zu richten.[2] Die Meldetermine für die Antragstellung und die Prüfungstermine, die durch den Vorsitzenden des Prüfungsausschusses amtlich bekannt gemacht. werden, sind zu beachten. 
+(1)<sup>1</sup> Der Antrag auf Zulassung zur Diplomvorprüfung ist schriftlich beim Prüfungsamt zu stellen und an den Vorsitzenden des Prüfungsausschusses zu richten.<sup>2</sup> Die Meldetermine für die Antragstellung und die Prüfungstermine, die durch den Vorsitzenden des Prüfungsausschusses amtlich bekannt gemacht. werden, sind zu beachten. 
 
-- (2)[1] Als Zulassungsvoraussetzungen sind dem Antrag beizufügen: 
+- (2)<sup>1</sup> Als Zulassungsvoraussetzungen sind dem Antrag beizufügen: 
 
 1. Lebenslauf in deutscher Sprache 
 
@@ -344,7 +353,7 @@ e) Ein Übungs- oder Praktikumschein im Nebenfach (erworben in einem Praktikum o
 
 5. Erklärungen darüber, ob der Kandidat bereits eine Diplomvorprüfung oder Diplomhauptprüfung in demselben Studiengang nicht bestanden hat oder unter Verlust des Prüfungsanspruchs exmatrikuliert worden ist. 
 
-2Der Nachweis der erfolgreichen Teilnahme an Praktika wird durch Protokolle über erfolgreich durchgeführte Versuche, an Übungen durch Lösung von Übungsaufgaben und/oder Klausuren und am Seminar durch einen erfolgreich abgehaltenen Seminarvortrag nachgewiesen; das Nähere regelt nach Maßgabe der Studienordnung der für die jeweilige Lehrveranstaltung verantwortliche Dozent.[3] Nicht erfolgreich absolvierte Lehrveranstaltungen können innerhalb der Meldefrist zur Diplomvorprüfung wiederholt werden. 
+2Der Nachweis der erfolgreichen Teilnahme an Praktika wird durch Protokolle über erfolgreich durchgeführte Versuche, an Übungen durch Lösung von Übungsaufgaben und/oder Klausuren und am Seminar durch einen erfolgreich abgehaltenen Seminarvortrag nachgewiesen; das Nähere regelt nach Maßgabe der Studienordnung der für die jeweilige Lehrveranstaltung verantwortliche Dozent.<sup>3</sup> Nicht erfolgreich absolvierte Lehrveranstaltungen können innerhalb der Meldefrist zur Diplomvorprüfung wiederholt werden. 
 
 (3) Kann ein Kandidat ohne sein Verschulden die erforderlichen Unterlagen nicht in der in Absatz 2 vorgeschriebenen Weise beibringen, so kann der Prüfungsausschuss ihm gestatten, die Nachweise auf andere Art zu führen. 
 
@@ -366,13 +375,13 @@ des Geltungsbereichs des Grundgesetzes bestanden hat, werden anerkannt, soweit G
 
 (2) Die Anerkennung einer Diplomvorprüfung kann von Bedingungen abhängig gemacht werden, wenn mangels Vergleichbarkeit einzelner Prüfungsfächer keine volle Gleichwertigkeit besteht. 
 
-(3)[1] Ein selbständiger Diplomvorprüfungsabschnitt, den ein Kandidat bestanden hat, wird entsprechend angerechnet.[2] Dies gilt nicht, wenn ein weiterer selbständiger Prüfungsabschnitt oder die ganze Prüfung nicht bestanden wurde oder nach der Prüfungsordnung der Hochschule, an der der Prüfungsabschnitt abgelegt wurde, als nicht bestanden gewertet werden musste. 
+(3)<sup>1</sup> Ein selbständiger Diplomvorprüfungsabschnitt, den ein Kandidat bestanden hat, wird entsprechend angerechnet.<sup>2</sup> Dies gilt nicht, wenn ein weiterer selbständiger Prüfungsabschnitt oder die ganze Prüfung nicht bestanden wurde oder nach der Prüfungsordnung der Hochschule, an der der Prüfungsabschnitt abgelegt wurde, als nicht bestanden gewertet werden musste. 
 
-(4)[1] Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie nach dem selben Notensystem wie in dieser Prüfungsordnung gebildet wurden.[2] Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt. 
+(4)<sup>1</sup> Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der Gesamtnotenbildung berücksichtigt, wenn sie nach dem selben Notensystem wie in dieser Prüfungsordnung gebildet wurden.<sup>2</sup> Die übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im Zeugnis vermerkt. 
 
 (5) Stimmt das Notensystem der angerechneten Noten mit dem dieser Prüfungsordnung nicht überein, wird ins Zeugnis nur ein Anerkennungsvermerk aufgenommen. 
 
-(6)[1] Die Anerkennung nach den Absätzen 1 bis 5 setzt einen schriftlichen Antrag des Bewerbers voraus, es sei denn, die Diplomvorprüfung wurde im selben Studiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes abgelegt.[2] Der Antrag ist unter Beifügung der entsprechenden Unterlagen an den Vorsitzenden des Prüfungsausschusses zu richten.[3] Der Antrag ist spätestens vier Wochen vor Beginn der Diplomvorprüfung zu stellen.[4] Die Entscheidung über den Antrag bedarf der Schriftform. 
+(6)<sup>1</sup> Die Anerkennung nach den Absätzen 1 bis 5 setzt einen schriftlichen Antrag des Bewerbers voraus, es sei denn, die Diplomvorprüfung wurde im selben Studiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes abgelegt.<sup>2</sup> Der Antrag ist unter Beifügung der entsprechenden Unterlagen an den Vorsitzenden des Prüfungsausschusses zu richten.<sup>3</sup> Der Antrag ist spätestens vier Wochen vor Beginn der Diplomvorprüfung zu stellen.<sup>4</sup> Die Entscheidung über den Antrag bedarf der Schriftform. 
 
 ## **§ 23** 
 
@@ -410,9 +419,9 @@ des Geltungsbereichs des Grundgesetzes bestanden hat, werden anerkannt, soweit G
 
 (2) Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung ist nicht zulässig. 
 
-(3)[1] Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt werden.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[3] § 5 Abs. 7 Satz 2 Nr. 2 gilt entsprechend.[4] Bei Versäumnis dieser Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, es sei denn, der Student hat die Gründe nicht zu vertreten.[5] In Zweifelsfällen entscheidet der Prüfungsausschuss. 
+(3)<sup>1</sup> Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens abgelegt werden.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>3</sup> § 5 Abs. 7 Satz 2 Nr. 2 gilt entsprechend.<sup>4</sup> Bei Versäumnis dieser Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, es sei denn, der Student hat die Gründe nicht zu vertreten.<sup>5</sup> In Zweifelsfällen entscheidet der Prüfungsausschuss. 
 
-(4)[1] Eine zweite Wiederholung ist nur möglich, wenn nicht mehr als zwei Fächer der Diplomvorprüfung mit "nicht ausreichend" bewertet wurden.[2] Abweichend von Absatz 1 sind alle Fachprüfungen mit Ausnahme einer erfolgreich abgelegten Fachprüfung im Nebenfach zu wiederholen.[3] Absatz 3 gilt entsprechend. 
+(4)<sup>1</sup> Eine zweite Wiederholung ist nur möglich, wenn nicht mehr als zwei Fächer der Diplomvorprüfung mit "nicht ausreichend" bewertet wurden.<sup>2</sup> Abweichend von Absatz 1 sind alle Fachprüfungen mit Ausnahme einer erfolgreich abgelegten Fachprüfung im Nebenfach zu wiederholen.<sup>3</sup> Absatz 3 gilt entsprechend. 
 
 (5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung. 
 
@@ -422,7 +431,7 @@ des Geltungsbereichs des Grundgesetzes bestanden hat, werden anerkannt, soweit G
 
 (1) Über die bestandene Vorprüfung ist innerhalb von vier Wochen ein Zeugnis auszustellen, das die in den Prüfungsfächern erzielten Noten und die Gesamtnote enthält. 
 
-(2)[1] Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen und mit dem Siegel der Fakultät zu versehen.[2] Als Datum ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
+(2)<sup>1</sup> Das Zeugnis ist vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen und mit dem Siegel der Fakultät zu versehen.<sup>2</sup> Als Datum ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
 
 ## **II. Diplomhauptprüfung** 
 
@@ -430,11 +439,11 @@ des Geltungsbereichs des Grundgesetzes bestanden hat, werden anerkannt, soweit G
 
 ## **Zulassungsvoraussetzungen** 
 
-(1)[1] Der Antrag auf Zulassung zur Diplomhauptprüfung ist schriftlich beim Prüfungsamt zu stellen und an den Vorsitzenden des Prüfungsausschusses zu richten.[2] Die Meldetermine für die Antragstellung und die Prüfungstermine, die durch den Vorsitzenden des Prüfungsausschusses amtlich bekannt gemacht. werden, sind zu beachten. 
+(1)<sup>1</sup> Der Antrag auf Zulassung zur Diplomhauptprüfung ist schriftlich beim Prüfungsamt zu stellen und an den Vorsitzenden des Prüfungsausschusses zu richten.<sup>2</sup> Die Meldetermine für die Antragstellung und die Prüfungstermine, die durch den Vorsitzenden des Prüfungsausschusses amtlich bekannt gemacht. werden, sind zu beachten. 
 
 12 
 
-- (2)[1] Als Zulassungsvoraussetzungen sind dem Antrag beizufügen: 
+- (2)<sup>1</sup> Als Zulassungsvoraussetzungen sind dem Antrag beizufügen: 
 
 1. Lebenslauf in deutscher Sprache 
 
@@ -456,7 +465,7 @@ d) Mindestens vier Übungsscheine in Theoretischer Physik einschließlich der be
 
 e) Ein Praktikums-, Übungs- oder Seminarschein im Nicht-Physikalischen Wahlpflichtfach. 
 
-2§ 21 Abs. 2 Satz 2 gilt entsprechend. 3Nicht erfolgreich absolvierte Lehrveranstaltungen können innerhalb der Meldefrist zur Diplomhauptprüfung wiederholt werden. 4Wer den Studienschwerpunkt Physik in der Medizin wählt, muss den Schein nach Satz 1 Nr. 5 Buchst. e) im Bereich der Medizin durch erfolgreiche Teilnahme an den Veranstaltungen Grundlagen der Anatomie und Physiologie für Nicht-Mediziner I und II nachweisen.[5] Beim beschleunigten Studium sind statt der Bescheinigungen aus Satz 1 Nr. 5 folgende benotete Nachweise beizufügen: 
+2§ 21 Abs. 2 Satz 2 gilt entsprechend. 3Nicht erfolgreich absolvierte Lehrveranstaltungen können innerhalb der Meldefrist zur Diplomhauptprüfung wiederholt werden. 4Wer den Studienschwerpunkt Physik in der Medizin wählt, muss den Schein nach Satz 1 Nr. 5 Buchst. e) im Bereich der Medizin durch erfolgreiche Teilnahme an den Veranstaltungen Grundlagen der Anatomie und Physiologie für Nicht-Mediziner I und II nachweisen.<sup>5</sup> Beim beschleunigten Studium sind statt der Bescheinigungen aus Satz 1 Nr. 5 folgende benotete Nachweise beizufügen: 
 
 a) Ein Schein zum 1. Teil des physikalischen Praktikums für Fortgeschrittene und über ein experimentelles Projekt, 
 
@@ -472,7 +481,7 @@ e) Ein Praktikums-, Übungs- oder Seminarschein im Nicht-Physikalischen Wahlpfli
 
 (4) Der Kandidat muss mindestens das letzte Semester vor der Diplomhauptprüfung an der Universität Erlangen-Nürnberg eingeschrieben gewesen sein. 
 
-(5)[1] Wer zum beschleunigtem Studium zugelassen ist, gilt zu den studienbegleitend abzulegenden Teilprüfungen in dem jeweiligen Semester als gemeldet.[2] Nimmt der Student nicht an den studienbegleitenden Teilprüfungen der Lehrveranstaltungen eines jeden Semesters teil, so gilt die jeweilige Teilprüfung als abgelegt und nicht bestanden, es sei denn, der Student hat die Gründe für sein Verhalten nicht zu vertreten.[3] Im Übrigen gilt § 5 Abs. 7 Satz 2 Nr. 2 entsprechend. 
+(5)<sup>1</sup> Wer zum beschleunigtem Studium zugelassen ist, gilt zu den studienbegleitend abzulegenden Teilprüfungen in dem jeweiligen Semester als gemeldet.<sup>2</sup> Nimmt der Student nicht an den studienbegleitenden Teilprüfungen der Lehrveranstaltungen eines jeden Semesters teil, so gilt die jeweilige Teilprüfung als abgelegt und nicht bestanden, es sei denn, der Student hat die Gründe für sein Verhalten nicht zu vertreten.<sup>3</sup> Im Übrigen gilt § 5 Abs. 7 Satz 2 Nr. 2 entsprechend. 
 
 13 
 
@@ -480,15 +489,15 @@ e) Ein Praktikums-, Übungs- oder Seminarschein im Nicht-Physikalischen Wahlpfli
 
 ## **Zulassungsverfahren** 
 
-1Über die Zulassung aufgrund der eingereichten Unterlagen entscheidet der Vorsitzende des Prüfungsausschusses, bei dessen Verhinderung sein Stellvertreter.[2] Im Übrigen gilt § 23 Abs. 2 bis 4 entsprechend. 
+1Über die Zulassung aufgrund der eingereichten Unterlagen entscheidet der Vorsitzende des Prüfungsausschusses, bei dessen Verhinderung sein Stellvertreter.<sup>2</sup> Im Übrigen gilt § 23 Abs. 2 bis 4 entsprechend. 
 
 ## **§ 29** 
 
 ## **Umfang und Art der Diplomhauptprüfung** 
 
-(1)[1] Die Diplomhauptprüfung besteht aus den mündlichen Fachprüfungen und der Anfertigung der Diplomarbeit.[2] Die mündliche Diplomhauptprüfung wird vor Beginn der Diplomarbeit abgelegt. 
+(1)<sup>1</sup> Die Diplomhauptprüfung besteht aus den mündlichen Fachprüfungen und der Anfertigung der Diplomarbeit.<sup>2</sup> Die mündliche Diplomhauptprüfung wird vor Beginn der Diplomarbeit abgelegt. 
 
-(2)[1] Die mündliche Diplomhauptprüfung erstreckt sich auf folgende Fächer: 
+(2)<sup>1</sup> Die mündliche Diplomhauptprüfung erstreckt sich auf folgende Fächer: 
 
 1. Experimentalphysik 
 
@@ -498,17 +507,17 @@ e) Ein Praktikums-, Übungs- oder Seminarschein im Nicht-Physikalischen Wahlpfli
 
 4. Nicht-Physikalisches Wahlpflichtfach. 
 
-2Die Prüfung baut auf den Studieninhalten der vorausgehenden Studienabschnitte auf.[3] Mit der Bestellung der Prüfer in den Fächern nach Satz 1 Nrn. 1 bis 3 muss gewährleistet sein, dass in der Prüfung ein breites Themenspektrum abgedeckt wird; die Prüfer sollen verschiedenen Lehrstühlen angehören.[4] Die zugelassenen Wahlpflichtfächer nach Satz 1 Nrn. 3 und 4 ergeben sich aus der **Anlage** ; bei Wahl des Studienschwerpunkts Physik in der Medizin sind die Kombinationsgebote der **Anlage** zu beachten. 
+2Die Prüfung baut auf den Studieninhalten der vorausgehenden Studienabschnitte auf.<sup>3</sup> Mit der Bestellung der Prüfer in den Fächern nach Satz 1 Nrn. 1 bis 3 muss gewährleistet sein, dass in der Prüfung ein breites Themenspektrum abgedeckt wird; die Prüfer sollen verschiedenen Lehrstühlen angehören.<sup>4</sup> Die zugelassenen Wahlpflichtfächer nach Satz 1 Nrn. 3 und 4 ergeben sich aus der **Anlage** ; bei Wahl des Studienschwerpunkts Physik in der Medizin sind die Kombinationsgebote der **Anlage** zu beachten. 
 
-(3)[1] Die mündlichen Prüfungen in den einzelnen Fächern werden als Einzelprüfungen von jeweils etwa 45 Minuten Dauer abgenommen.[2] Zur Prüfung des Physikalischen Wahlpflichtfaches kann der Prüfungsausschuss zwei Prüfer bestellen, die gemeinsam prüfen. 
+(3)<sup>1</sup> Die mündlichen Prüfungen in den einzelnen Fächern werden als Einzelprüfungen von jeweils etwa 45 Minuten Dauer abgenommen.<sup>2</sup> Zur Prüfung des Physikalischen Wahlpflichtfaches kann der Prüfungsausschuss zwei Prüfer bestellen, die gemeinsam prüfen. 
 
 (4) Die Fachprüfungen sollen in der Regel vor dem Ende des achten Fachsemesters und innerhalb einer Frist von vier Wochen abgelegt werden. 
 
 (5) Die Prüfungen im Physikalischen und Nicht-Physikalischen Wahlpflichtfach können vorgezogen werden, wenn die fachspezifischen Zulassungsvoraussetzungen erfüllt sind. 
 
-(6)[1] Beim beschleunigten Studium erfolgen die Prüfungen nach Abs. 2 Satz 1 Nrn. 1 und 2 studienbegleitend in drei Teilprüfungen von jeweils etwa 45 Minuten Dauer, die von je einem Prüfer der Experimentalphysik und der Theoretischen Physik gemeinsam abgenommen, jedoch getrennt bewertet werden.[2] Die Gesamtnote in Experimentalphysik beziehungsweise Theoretischer Physik ergibt sich als Mittelwert der Noten in den beiden Fächern aus den drei Teilprüfungen. 
+(6)<sup>1</sup> Beim beschleunigten Studium erfolgen die Prüfungen nach Abs. 2 Satz 1 Nrn. 1 und 2 studienbegleitend in drei Teilprüfungen von jeweils etwa 45 Minuten Dauer, die von je einem Prüfer der Experimentalphysik und der Theoretischen Physik gemeinsam abgenommen, jedoch getrennt bewertet werden.<sup>2</sup> Die Gesamtnote in Experimentalphysik beziehungsweise Theoretischer Physik ergibt sich als Mittelwert der Noten in den beiden Fächern aus den drei Teilprüfungen. 
 
-(7)[1] Ist der Mittelwert der Prüfungsleistungen und der Leistungsnachweise eines Semesters im beschleunigten Studiengang nicht besser als gut (1,50), so ist das Prüfungsverfahren nach den Regelungen für Studenten fortzusetzen, die nicht das beschleunigte Studium durchführen.[2] Im beschleunigten Studium erbrachte Prüfungsleistungen und Zulassungsvoraussetzungen werden angerechnet. 
+(7)<sup>1</sup> Ist der Mittelwert der Prüfungsleistungen und der Leistungsnachweise eines Semesters im beschleunigten Studiengang nicht besser als gut (1,50), so ist das Prüfungsverfahren nach den Regelungen für Studenten fortzusetzen, die nicht das beschleunigte Studium durchführen.<sup>2</sup> Im beschleunigten Studium erbrachte Prüfungsleistungen und Zulassungsvoraussetzungen werden angerechnet. 
 
 14 
 
@@ -516,25 +525,25 @@ e) Ein Praktikums-, Übungs- oder Seminarschein im Nicht-Physikalischen Wahlpfli
 
 ## **Diplomarbeit** 
 
-(1)[1] Die Diplomarbeit wird nach Bestehen der mündlichen Fachprüfungen erstellt.[2] In der Diplomarbeit soll der Kandidat zeigen, dass er in der Lage ist, eine experimentelle oder theoretische Aufgabe aus dem gewählten Fachgebiet der Physik nach bekannten Verfahren und wissenschaftlichen Gesichtspunkten zu bearbeiten.[3] Bei Wahl des Studienschwerpunkts Physik in der Medizin muss die Diplomarbeit aus dem Bereich des Physikalischen Wahlpflichtfaches Physik in der Medizin gewählt werden. 
+(1)<sup>1</sup> Die Diplomarbeit wird nach Bestehen der mündlichen Fachprüfungen erstellt.<sup>2</sup> In der Diplomarbeit soll der Kandidat zeigen, dass er in der Lage ist, eine experimentelle oder theoretische Aufgabe aus dem gewählten Fachgebiet der Physik nach bekannten Verfahren und wissenschaftlichen Gesichtspunkten zu bearbeiten.<sup>3</sup> Bei Wahl des Studienschwerpunkts Physik in der Medizin muss die Diplomarbeit aus dem Bereich des Physikalischen Wahlpflichtfaches Physik in der Medizin gewählt werden. 
 
-(2)[1] Die Diplomarbeit kann von jedem in Physik prüfungsberechtigten Hochschullehrer an der Universität Erlangen-Nürnberg ausgegeben und betreut werden.[2] Dem Kandidaten ist Gelegenheit zu geben, für das Thema Vorschläge zu machen. 3Ausnahmen bedürfen der Genehmigung durch den Prüfungsausschuss. 
+(2)<sup>1</sup> Die Diplomarbeit kann von jedem in Physik prüfungsberechtigten Hochschullehrer an der Universität Erlangen-Nürnberg ausgegeben und betreut werden.<sup>2</sup> Dem Kandidaten ist Gelegenheit zu geben, für das Thema Vorschläge zu machen. 3Ausnahmen bedürfen der Genehmigung durch den Prüfungsausschuss. 
 
-(3)[1] Die Ausgabe des vorläufigen Themas der Diplomarbeit erfolgt durch den Betreuer über den Vorsitzenden des Prüfungsausschusses.[2] Der Ausgabetag ist aktenkundig zu machen. 
+(3)<sup>1</sup> Die Ausgabe des vorläufigen Themas der Diplomarbeit erfolgt durch den Betreuer über den Vorsitzenden des Prüfungsausschusses.<sup>2</sup> Der Ausgabetag ist aktenkundig zu machen. 
 
-(4)[1] Die Anmeldung zur Diplomarbeit muss spätestens drei Monate nach dem Ende der mündlichen Diplomhauptprüfung erfolgen.[2] Ist dann innerhalb eines Monats nach zweimaliger schriftlicher Mahnung durch den Vorsitzenden des Prüfungsausschusses die Anmeldung noch nicht erfolgt, wird dem Studenten durch diesen eine Diplomarbeit zugeteilt. 
+(4)<sup>1</sup> Die Anmeldung zur Diplomarbeit muss spätestens drei Monate nach dem Ende der mündlichen Diplomhauptprüfung erfolgen.<sup>2</sup> Ist dann innerhalb eines Monats nach zweimaliger schriftlicher Mahnung durch den Vorsitzenden des Prüfungsausschusses die Anmeldung noch nicht erfolgt, wird dem Studenten durch diesen eine Diplomarbeit zugeteilt. 
 
-(5)[1] Die Bearbeitungszeit für die Diplomarbeit beträgt neun Monate; ihr geht eine Vorbereitung und Einarbeitung von drei Monaten voraus.[2] Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.[3] Das Thema kann nur einmal und mit Einwilligung des Vorsitzenden des Prüfungsausschusses und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.[4] In besonderen Ausnahmefällen, die nicht vom Kandidaten zu vertreten sind, kann der Prüfungsausschuss auf Antrag unter Anlegung eines strengen Maßstabs die Bearbeitungszeit um drei Monate verlängern.[5] Weist der Kandidat durch ärztliches Zeugnis nach, dass er infolge einer Erkrankung an der Bearbeitung gehindert ist, ruht die Bearbeitungszeit. 
+(5)<sup>1</sup> Die Bearbeitungszeit für die Diplomarbeit beträgt neun Monate; ihr geht eine Vorbereitung und Einarbeitung von drei Monaten voraus.<sup>2</sup> Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, dass die zur Bearbeitung vorgegebene Frist eingehalten werden kann.<sup>3</sup> Das Thema kann nur einmal und mit Einwilligung des Vorsitzenden des Prüfungsausschusses und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.<sup>4</sup> In besonderen Ausnahmefällen, die nicht vom Kandidaten zu vertreten sind, kann der Prüfungsausschuss auf Antrag unter Anlegung eines strengen Maßstabs die Bearbeitungszeit um drei Monate verlängern.<sup>5</sup> Weist der Kandidat durch ärztliches Zeugnis nach, dass er infolge einer Erkrankung an der Bearbeitung gehindert ist, ruht die Bearbeitungszeit. 
 
 ## **§ 31** 
 
 ## **Annahme und Bewertung der Diplomarbeit** 
 
-(1)[1] Die Diplomarbeit ist fristgemäß beim Prüfungsamt an den Vorsitzenden des Prüfungsausschusses in zwei gebundenen Exemplaren abzuliefern.[2] Der Abgabetermin ist aktenkundig zu machen.[3] Wird die Diplomarbeit nicht fristgerecht abgeliefert, wird sie mit "nicht ausreichend" bewertet. 
+(1)<sup>1</sup> Die Diplomarbeit ist fristgemäß beim Prüfungsamt an den Vorsitzenden des Prüfungsausschusses in zwei gebundenen Exemplaren abzuliefern.<sup>2</sup> Der Abgabetermin ist aktenkundig zu machen.<sup>3</sup> Wird die Diplomarbeit nicht fristgerecht abgeliefert, wird sie mit "nicht ausreichend" bewertet. 
 
 (2) Die Diplomarbeit ist mit einer Erklärung des Kandidaten zu versehen, dass er die Arbeit selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. 
 
-(3)[1] Die Diplomarbeit muss von zwei Prüfern innerhalb von vier Wochen nach der Abgabe beurteilt werden.[2] Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat.[3] Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine No- 
+(3)<sup>1</sup> Die Diplomarbeit muss von zwei Prüfern innerhalb von vier Wochen nach der Abgabe beurteilt werden.<sup>2</sup> Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat.<sup>3</sup> Bei unterschiedlicher Beurteilung sollen sich die Prüfer auf eine No- 
 
 15 
 
@@ -560,17 +569,17 @@ te einigen; gelingt dies nicht, entscheidet der Prüfungsausschuss; er kann eine
 
 (1) § 25 gilt entsprechend. 
 
-(2)[1] Ist die Diplomarbeit mit der Note "nicht ausreichend" bewertet worden, so ist dem Kandidaten auf Antrag ein neues Thema zu stellen.[2] Wird auch die zweite Diplomarbeit mit "nicht ausreichend" bewertet, so ist die Diplomhauptprüfung endgültig nicht bestanden. 
+(2)<sup>1</sup> Ist die Diplomarbeit mit der Note "nicht ausreichend" bewertet worden, so ist dem Kandidaten auf Antrag ein neues Thema zu stellen.<sup>2</sup> Wird auch die zweite Diplomarbeit mit "nicht ausreichend" bewertet, so ist die Diplomhauptprüfung endgültig nicht bestanden. 
 
 ## **§ 35** 
 
 ## **Zeugnis und Diplom** 
 
-(1)[1] Hat der Kandidat die Diplomhauptprüfung bestanden, so erhält er über die Ergebnisse ein Zeugnis und ein Diplom sowie gegebenenfalls eine Bescheinigung über den Studienschwerpunkt mit einer Aufstellung über die erfolgreich absolvierten Veranstaltungen aus diesem Bereich.[2] § 26 gilt entsprechend. 
+(1)<sup>1</sup> Hat der Kandidat die Diplomhauptprüfung bestanden, so erhält er über die Ergebnisse ein Zeugnis und ein Diplom sowie gegebenenfalls eine Bescheinigung über den Studienschwerpunkt mit einer Aufstellung über die erfolgreich absolvierten Veranstaltungen aus diesem Bereich.<sup>2</sup> § 26 gilt entsprechend. 
 
 (2) Das Zeugnis enthält die in den Einzelprüfungen erzielten Noten, die Namen der Prüfer, das Thema und die Note der Diplomarbeit sowie die Gesamtnote. 
 
-(3)[1] Gleichzeitig mit dem Zeugnis wird dem Kandidaten ein Diplom ausgehändigt.[2] In dem Diplom wird die Verleihung des akademischen Grades "Diplom-Physiker Univ." beziehungsweise "Diplom-Physikerin Univ." beurkundet.[3] Als Datum des Diploms ist der Tag anzugeben, an dem alle Prüfungsleistungen erfüllt sind.[4] Das Diplom wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet und ist mit dem Siegel der Fakultät zu versehen. 
+(3)<sup>1</sup> Gleichzeitig mit dem Zeugnis wird dem Kandidaten ein Diplom ausgehändigt.<sup>2</sup> In dem Diplom wird die Verleihung des akademischen Grades "Diplom-Physiker Univ." beziehungsweise "Diplom-Physikerin Univ." beurkundet.<sup>3</sup> Als Datum des Diploms ist der Tag anzugeben, an dem alle Prüfungsleistungen erfüllt sind.<sup>4</sup> Das Diplom wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet und ist mit dem Siegel der Fakultät zu versehen. 
 
 ## **Schlussbestimmungen** 
 
@@ -588,7 +597,7 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft *); glei
 
 ## **A Physikalisches Wahlpflichtfach** 
 
-1Der Student wählt sich Vorlesungen plus Übungen im Gesamtumfang von 10 SWS und definiert sich damit ein Prüfungsgebiet des Physikalischen Wahlpflichtfaches. 2Mindestens eine dieser Vorlesungen soll aus dem Gebiet der Theoretischen, beziehungsweise Experimentellen Physik stammen.[3] Mögliche Themenkreise sind: 
+1Der Student wählt sich Vorlesungen plus Übungen im Gesamtumfang von 10 SWS und definiert sich damit ein Prüfungsgebiet des Physikalischen Wahlpflichtfaches. 2Mindestens eine dieser Vorlesungen soll aus dem Gebiet der Theoretischen, beziehungsweise Experimentellen Physik stammen.<sup>3</sup> Mögliche Themenkreise sind: 
 
 - Atom-, Molekül- und Plasmaphysik, Optik, Quantenoptik 
 
@@ -602,7 +611,7 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft *); glei
 
 ## **B Nicht-Physikalisches Wahlpflichtfach** 
 
-> 1Im Hauptstudium wird für das Nicht-Physikalische Wahlpflichtfach die aktive Teilnahme an einer Übung, einem Praktikum oder Seminar zur Vertiefung des bereits erlernten Grundstoffes gefordert.[2] Die Möglichkeiten sind für die gewählten Fächer sehr verschieden.[3] Insgesamt wird ein Mindeststoffumfang von mindestens 8, in der Regel höchstens 12 Semesterwochenstunden Vorlesung und Übung erwartet. 4Mögliche Fächer sind: 
+> 1Im Hauptstudium wird für das Nicht-Physikalische Wahlpflichtfach die aktive Teilnahme an einer Übung, einem Praktikum oder Seminar zur Vertiefung des bereits erlernten Grundstoffes gefordert.<sup>2</sup> Die Möglichkeiten sind für die gewählten Fächer sehr verschieden.<sup>3</sup> Insgesamt wird ein Mindeststoffumfang von mindestens 8, in der Regel höchstens 12 Semesterwochenstunden Vorlesung und Übung erwartet. 4Mögliche Fächer sind: 
 
 - Astronomie 
 
@@ -632,7 +641,7 @@ Diese Prüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft *); glei
 
 17 
 
-den.[6] Entsprechendes gilt für die Kombination Kristallographie und Strukturphysik im Themenkreis Physik der Kondensierten Materie.[7] Der Prüfungsausschuss kann weitere, in sinnvollem Zusammenhang mit dem Studium der Physik stehende NichtPhysikalische Wahlpflichtfächer zulassen. 
+den.<sup>6</sup> Entsprechendes gilt für die Kombination Kristallographie und Strukturphysik im Themenkreis Physik der Kondensierten Materie.<sup>7</sup> Der Prüfungsausschuss kann weitere, in sinnvollem Zusammenhang mit dem Studium der Physik stehende NichtPhysikalische Wahlpflichtfächer zulassen. 
 
 ## **C Studienschwerpunkt Physik in der Medizin** 
 
@@ -650,25 +659,25 @@ den.[6] Entsprechendes gilt für die Kombination Kristallographie und Strukturph
 
 (1) Die Eignung eines Bewerbers für das beschleunigte Studium gemäß § 4 a wird von der gemeinsamen Auswahlkommission (§ 6a) festgestellt. 
 
-(2)[1] Anträge auf Zulassung zum Eignungsfeststellungsverfahren für das jeweils kommende Sommersemester sind jeweils bis zum 1. März eines Jahres an den Vorsitzenden der Auswahlkommission zu stellen (Ausschlussfrist).[2] Bewerbungen von außerhalb der Universitäten Erlangen-Nürnberg und Regensburg sind möglich und erwünscht. 
+(2)<sup>1</sup> Anträge auf Zulassung zum Eignungsfeststellungsverfahren für das jeweils kommende Sommersemester sind jeweils bis zum 1. März eines Jahres an den Vorsitzenden der Auswahlkommission zu stellen (Ausschlussfrist).<sup>2</sup> Bewerbungen von außerhalb der Universitäten Erlangen-Nürnberg und Regensburg sind möglich und erwünscht. 
 
-(3)[1] Dem Antrag ist beizufügen: 
+(3)<sup>1</sup> Dem Antrag ist beizufügen: 
 
 1. Nachweis der Hochschulzugangsberechtigung 
 
 2. Ein Lebenslauf und eine Darstellung des bisherigen Studienverlaufs des Bewerbers mit Hervorhebung von besonderen fachlichen Leistungen und Interessen. 2Diese Darstellung soll durch geeignete Unterlagen (Zeugnisse, benotete Scheine, Empfehlungsschreiben etc.) unterlegt werden. 
 
-(4)[1] Soweit möglich, muss bis zum Beginn des Sommersemesters des betreffenden Jahres das Vordiplomzeugnis nachgereicht werden.[2] Ist dies nicht möglich (insbesondere für auswärtige Bewerber), so ist eine Ende März angesetzte Klausur mit überdurchschnittlichem Erfolg zu bestehen. 
+(4)<sup>1</sup> Soweit möglich, muss bis zum Beginn des Sommersemesters des betreffenden Jahres das Vordiplomzeugnis nachgereicht werden.<sup>2</sup> Ist dies nicht möglich (insbesondere für auswärtige Bewerber), so ist eine Ende März angesetzte Klausur mit überdurchschnittlichem Erfolg zu bestehen. 
 
 (5) Jeder Bewerber muss an zwei Bewerbungsgesprächen mit Mitgliedern der Auswahlkommission teilnehmen. 
 
-(6)[1] Die Auswahlkommission beurteilt die vom Bewerber vorgelegten Unterlagen und erbrachten Leistungen sowie die Erkenntnisse aus den Bewerbungsgesprächen und gründet hierauf ihre Entscheidung.[2] Sie lautet ''bestanden'' oder ''nicht bestanden'' und wird dem Bewerber schriftlich mitgeteilt.[3] Die Eignung ist festgestellt, wenn die Mehrheit der Mitglieder der Auswahlkommission und alle Mitglieder, die an einem Bewerbungsgespräch mit dem Bewerber teilgenommen haben, mit ''bestanden'' stimmen. 
+(6)<sup>1</sup> Die Auswahlkommission beurteilt die vom Bewerber vorgelegten Unterlagen und erbrachten Leistungen sowie die Erkenntnisse aus den Bewerbungsgesprächen und gründet hierauf ihre Entscheidung.<sup>2</sup> Sie lautet ''bestanden'' oder ''nicht bestanden'' und wird dem Bewerber schriftlich mitgeteilt.<sup>3</sup> Die Eignung ist festgestellt, wenn die Mehrheit der Mitglieder der Auswahlkommission und alle Mitglieder, die an einem Bewerbungsgespräch mit dem Bewerber teilgenommen haben, mit ''bestanden'' stimmen. 
 
-(7)[1] Über die Entscheidung der Auswahlkommission ist ein Protokoll anzufertigen, in das aufzunehmen sind: Name des Bewerbers, Namen der anwesenden Kommissi- 
+(7)<sup>1</sup> Über die Entscheidung der Auswahlkommission ist ein Protokoll anzufertigen, in das aufzunehmen sind: Name des Bewerbers, Namen der anwesenden Kommissi- 
 
 18 
 
-onsmitglieder, Ergebnis, Ort und Datum der Entscheidung.[2] Das Protokoll wird vom Vorsitzenden und vom Stellvertreter der Auswahlkommission unterschrieben. 
+onsmitglieder, Ergebnis, Ort und Datum der Entscheidung.<sup>2</sup> Das Protokoll wird vom Vorsitzenden und vom Stellvertreter der Auswahlkommission unterschrieben. 
 
 (8) Ablehnende Entscheidungen sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. 
 

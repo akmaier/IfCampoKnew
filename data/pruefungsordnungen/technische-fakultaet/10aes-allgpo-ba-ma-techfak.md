@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AES_AllgPO_BA_MA_TechFak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:54:25+00:00
-page_count_chars: 21379
+scraped_at: 2026-07-01T11:15:45+00:00
+page_count_chars: 21462
 ---
 
 # 14. August 2015
@@ -12,7 +12,7 @@ page_count_chars: 21379
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AES_AllgPO_BA_MA_TechFak.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## **Zehnte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak – Vom 14. August 2015** 
+# **Zehnte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg – ABMPO/TechFak – Vom 14. August 2015** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
@@ -50,9 +50,9 @@ aa) Satz 1 (neu) wird wie folgt geändert:
 
 1 
 
-            - (2) Die Worte „die Zeit“ werden durch die Worte „ein Semester“ ersetzt. 
+- (2) Die Worte „die Zeit“ werden durch die Worte „ein Semester“ ersetzt. 
 
-         - bb) In Satz 3 (neu) werden nach den Worten „aus den“ die Worte „studienbegleitend abzulegenden“ eingefügt. 
+bb) In Satz 3 (neu) werden nach den Worten „aus den“ die Worte „studienbegleitend abzulegenden“ eingefügt. 
 
    - d) Die bisherigen Abs. 2 und 4 werden Abs. 4 und 5. 
 
@@ -88,9 +88,9 @@ aa) Satz 1 (neu) wird wie folgt geändert:
 
 ## b) Abs. 2 Satz 2 wird wie folgt geändert: 
 
-   - aa) In Halbsatz 1 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+aa) In Halbsatz 1 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-   - cc) In Halbsatz 2 wird das Wort „oder“ nach den Worten „von der“ wird durch das Wort „bzw.“ ersetzt. 
+cc) In Halbsatz 2 wird das Wort „oder“ nach den Worten „von der“ wird durch das Wort „bzw.“ ersetzt. 
 
 - c) In Abs. 3 Satz 2 wird das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
@@ -122,7 +122,7 @@ aa) Satz 1 wird wie folgt geändert:
 
       - cc) Nach Satz 4 wird folgender Satz 5 angefügt: 
 
-         - „[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+         - „<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
 8. § 8 wird wie folgt geändert: 
 
@@ -156,7 +156,7 @@ aa) Satz 1 wird wie folgt geändert:
 
          - (4) Das Wort „und“ wird durch das Wort „bzw.“ ersetzt. 
 
-      - cc) Nach Satz 1 (neu) wird folgender Satz 2 angefügt: „[2] Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
+      - cc) Nach Satz 1 (neu) wird folgender Satz 2 angefügt: „<sup>2</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
 
    - c) Abs. 4 wird wie folgt geändert: 
 
@@ -228,39 +228,39 @@ a) Abs. 1 wird wie folgt geändert:
 
 - bb) Nach Satz 1 wird folgender Satz 2 eingefügt: 
 
-„[2] Schriftliche Prüfungen können in Form von Klausuren – die auch im elektronischen Verfahren nach § 17a durchgeführt werden können –,Hausoder Seminararbeiten abgehalten werden.“ 
+„<sup>2</sup> Schriftliche Prüfungen können in Form von Klausuren – die auch im elektronischen Verfahren nach § 17a durchgeführt werden können –,Hausoder Seminararbeiten abgehalten werden.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4. 
 
 dd) Satz 4 (neu) erhält folgende Fassung: 
 
-„[4] Im Falle des Wechsels der Prüfungsform wegen unverhältnismäßiger Ressourcenbelastung ist der Wechsel den Studierenden spätestens zwei Wochen nach Vorlesungsbeginn durch die bzw. den Prüfenden bekannt zu machen.“ 
+„<sup>4</sup> Im Falle des Wechsels der Prüfungsform wegen unverhältnismäßiger Ressourcenbelastung ist der Wechsel den Studierenden spätestens zwei Wochen nach Vorlesungsbeginn durch die bzw. den Prüfenden bekannt zu machen.“ 
 
 ee) Nach Satz 4 wird folgender Satz 5 angefügt: 
 
-„[5] Dieser Wechsel gilt vorbehaltlich der Zustimmung des Prüfungsausschusses.“ 
+„<sup>5</sup> Dieser Wechsel gilt vorbehaltlich der Zustimmung des Prüfungsausschusses.“ 
 
 5 
 
 - b) In Abs. 2 wird vor dem Wort „ **Fachprüfungsordnung** “ das Wort „jeweilige“ eingefügt. 
 
-- c) In Abs. 3 wird nach Satz 2 folgender Satz 3 angefügt: 
+c) In Abs. 3 wird nach Satz 2 folgender Satz 3 angefügt: 
 
-„[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
-- d) Abs. 4 wird wie folgt geändert: 
+d) Abs. 4 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single- und/oder“ eingefügt. 
+- aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single- und/oder“ eingefügt. 
 
-   - bb) In Satz 7 wird die Zahl „3“ durch die Zahl „4“ ersetzt. 
+- bb) In Satz 7 wird die Zahl „3“ durch die Zahl „4“ ersetzt. 
 
-   - cc) Nach Satz 9 wird folgender Satz 10 angefügt: 
+- cc) Nach Satz 9 wird folgender Satz 10 angefügt: 
 
-      - „[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
+   - „<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
 
 e) Abs. 5 erhält folgende Fassung: 
 
-„(5)[1] Prüfungen nach Abs. 4 Satz 1 gelten als bestanden, wenn 
+„(5)<sup>1</sup> Prüfungen nach Abs. 4 Satz 1 gelten als bestanden, wenn 
 
 1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat oder 
 
@@ -290,7 +290,7 @@ aa) Satz 4 wird wie folgt geändert:
 
 bb) Nach Satz 4 wird folgender Satz 5 angefügt: 
 
-„[5] Dieser Wechsel gilt vorbehaltlich der Zustimmung des Prüfungsausschusses.“ 
+„<sup>5</sup> Dieser Wechsel gilt vorbehaltlich der Zustimmung des Prüfungsausschusses.“ 
 
    - b) Abs. 2 wird wie folgt geändert: 
 
@@ -330,7 +330,7 @@ bb) Nach Satz 4 wird folgender Satz 5 angefügt:
 
 aa) Die Sätze 1 und 2 erhalten folgende Fassung: 
 
-„[1] Gibt es in einem Modul mehr als einen benoteten Prüfungsteil bzw. eine benotete Teilprüfung (§ 6 Abs. 2 Satz 3), so gehen die Einzelnoten mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote ein, soweit die jeweilige **Fachprüfungsordnung** nichts anderes regelt.[2] Sind den Prüfungsteilen bzw. Teilprüfungen keine ECTS-Punkte zugeordnet, so gibt die bzw. der Modulverantwortliche im Modulkatalog bekannt, wie sich die Modulnote aus den Bewertungen der einzelnen Teile der Modulprüfung berechnet; Abs. 1 Satz 6 gilt entsprechend.“ 
+„<sup>1</sup> Gibt es in einem Modul mehr als einen benoteten Prüfungsteil bzw. eine benotete Teilprüfung (§ 6 Abs. 2 Satz 3), so gehen die Einzelnoten mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote ein, soweit die jeweilige **Fachprüfungsordnung** nichts anderes regelt.<sup>2</sup> Sind den Prüfungsteilen bzw. Teilprüfungen keine ECTS-Punkte zugeordnet, so gibt die bzw. der Modulverantwortliche im Modulkatalog bekannt, wie sich die Modulnote aus den Bewertungen der einzelnen Teile der Modulprüfung berechnet; Abs. 1 Satz 6 gilt entsprechend.“ 
 
 7 
 
@@ -348,7 +348,7 @@ aa) Die Sätze 1 und 2 erhalten folgende Fassung:
 
 - c) In Abs. 3 wird nach Satz 2 folgender Satz 3 angefügt: 
 
-„[3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+„<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
 16. In § 24 Abs. 1 Satz 2 Nr. 2 wird nach dem Wort „Studiengang“ der Klammerzusatz „(benannt im ortsüblich bekannt gemachten Dokument „Aufstellung von inhaltlich verwandten Studiengängen der TF“)“ eingefügt. 
 
@@ -374,7 +374,7 @@ aa) Die Sätze 1 und 2 erhalten folgende Fassung:
 
       - bb) Satz 3 erhält folgende Fassung: 
 
-„[3] Mit Zustimmung der Betreuerin bzw. des Betreuers kann der Prüfungsausschuss auf begründeten Antrag die Bearbeitungsfrist ausnahmsweise um höchstens einen Monat verlängern.“ 
+„<sup>3</sup> Mit Zustimmung der Betreuerin bzw. des Betreuers kann der Prüfungsausschuss auf begründeten Antrag die Bearbeitungsfrist ausnahmsweise um höchstens einen Monat verlängern.“ 
 
 8 
 
@@ -386,7 +386,7 @@ aa) Die Sätze 1 und 2 erhalten folgende Fassung:
 
       - bb) Nach Satz 2 wird folgender Satz 3 angefügt: 
 
-         - „[3] Satz 2 gilt entsprechend, wenn die Bachelorarbeit nicht fristgerecht abgegeben wird.“ 
+         - „<sup>3</sup> Satz 2 gilt entsprechend, wenn die Bachelorarbeit nicht fristgerecht abgegeben wird.“ 
 
    - f) In Abs. 6 Satz 1 wird nach den Worten „in der“ das Wort „jeweiligen“ eingefügt. 
 
@@ -502,7 +502,9 @@ cc) Die bisherige Nr. 4 wird Nr. 3.
 
    - cc) In Satz 4 werden die Worte „mit einem“ nach dem Wort „bzw.“ durch die Worte „einem im Hinblick auf die Qualifikation nicht wesentlich unterschiedlichen“ ersetzt. 
 
-- d) Abs. 6 erhält folgende Fassung: „§ 23 gilt entsprechend.“ 
+- d) Abs. 6 erhält folgende Fassung: 
+
+   - „§ 23 gilt entsprechend.“ 
 
 - e) Nach Abs. 7 wird folgender Abs. 8 angefügt: 
 

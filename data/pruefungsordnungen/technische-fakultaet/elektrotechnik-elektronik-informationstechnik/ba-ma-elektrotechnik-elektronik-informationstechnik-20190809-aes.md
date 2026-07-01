@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA-MA Elektrotechnik-Elektronik-Informationstechnik 20190809 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Elektrotechnik_Elektronik_und_Informationstechnik/Aenderungssatzungen/BA-MA_Elektrotechnik-Elektronik-Informationstechnik_20190809_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:49+00:00
-page_count_chars: 15740
+scraped_at: 2026-07-01T11:28:54+00:00
+page_count_chars: 15723
 ---
 
 # BA-MA Elektrotechnik-Elektronik-Informationstechnik 20190809 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 15740
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Elektrotechnik_Elektronik_und_Informationstechnik/Aenderungssatzungen/BA-MA_Elektrotechnik-Elektronik-Informationstechnik_20190809_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Vierzehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEEI –** 
+# **Vierzehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOEEI –** 
 
-## **Vom 9. August 2019** 
+# **Vom 9. August 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs.1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der FAU – FPOEEI –  vom 20. September 2007, zuletzt geändert durch Satzung vom 3. Juli 2017, wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
    - c) Abs. 2 erhält folgende neue Fassung: 
 
-      - „(2)[1] Als inhaltlich verwandte Studiengänge i. S. d. § 24 Abs. 1 Satz 2 Nr. 2 **ABMPO/TechFak** gelten die Bachelorstudiengänge: 
+      - „(2)<sup>1</sup> Als inhaltlich verwandte Studiengänge i. S. d. § 24 Abs. 1 Satz 2 Nr. 2 **ABMPO/TechFak** gelten die Bachelorstudiengänge: 
 
       1. Elektrotechnik 
 
@@ -48,19 +48,19 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
 1 
 
-   - b) Abs. 2 erhält folgende neue Fassung: 
+- b) Abs. 2 erhält folgende neue Fassung: 
 
-      - „(2)[1] Als inhaltlich verwandte Studiengänge i. S. d. § 30 Satz 3 Nr. 2 **ABMPO/TechFak** gelten die Masterstudiengänge: 
+   - „(2)<sup>1</sup> Als inhaltlich verwandte Studiengänge i. S. d. § 30 Satz 3 Nr. 2 **ABMPO/TechFak** gelten die Masterstudiengänge: 
 
-      1. Elektrotechnik 
+   1. Elektrotechnik 
 
-      2. Elektro- und Informationstechnik. 
+   2. Elektro- und Informationstechnik. 
 
-      - 2In begründeten Ausnahmefällen kann die Studienkommission Ausnahmen von der Regelung in Satz 1 treffen.“ 
+   - 2In begründeten Ausnahmefällen kann die Studienkommission Ausnahmen von der Regelung in Satz 1 treffen.“ 
 
-   - c) Abs. 3 wird gestrichen. 
+- c) Abs. 3 wird gestrichen. 
 
-4. § 38 wird wie folgt geändert: 
+# 4. § 38 wird wie folgt geändert: 
 
    - a) In Satz 3 wird nach dem Wort „Kernmodule“ das Wort „gemäß“ eingefügt. 
 
@@ -76,7 +76,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
 cc) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Art und Umfang der Lehrveranstaltungen und der Prüfungen gemäß der Sätze 1 und 2 sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.“ 
+„<sup>3</sup> Art und Umfang der Lehrveranstaltungen und der Prüfungen gemäß der Sätze 1 und 2 sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und sind der jeweils einschlägigen **(Fach-)Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen.“ 
 
 - b) Abs. 6 wird wie folgt geändert: 
 
@@ -84,7 +84,7 @@ aa) Die bisher einzige Regelung wird zu Satz 1.
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>2</sup> Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 2 
 
@@ -104,31 +104,31 @@ bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt:
 
       - bb) In Satz 2 werden nach dem Wort „Abweichende“ am Satzbeginn die Worte „Modulgrößen sowie“ eingefügt. 
 
-## 7. § 40a wird wie folgt geändert: 
+7. § 40a wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 1 werden nach den Worten und Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
+   - a) In Abs. 1 Satz 1 werden nach den Worten und Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
 
-- b) In Abs. 3 Satz 1 werden nach dem Wort „sich“ die Worte „in der Regel“ gestrichen. 
+   - b) In Abs. 3 Satz 1 werden nach dem Wort „sich“ die Worte „in der Regel“ gestrichen. 
 
-## 8. § 43 wird wie folgt geändert: 
+# 8. § 43 wird wie folgt geändert: 
 
-- a) In Abs. 1 werden nach den Worten „berufspraktische Tätigkeit“ der Klammerzusatz „(Industriepraktikum)“ und nach dem Wort „Praktikumsrichtlinien“ die Worte „des Departments EEI“ eingefügt. 
+   - a) In Abs. 1 werden nach den Worten „berufspraktische Tätigkeit“ der Klammerzusatz „(Industriepraktikum)“ und nach dem Wort „Praktikumsrichtlinien“ die Worte „des Departments EEI“ eingefügt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 2 werden nach den Worten „Abweichend von Satz 1 wird“ am Satzbeginn die Worte „für den Wahlfach- und den Vertiefungsmodulbereich“ durch die Worte „sowohl für den Wahlfach- als auch für den Kern- und den Vertiefungsmodulbereich“ ersetzt. 
+      - aa) In Satz 2 werden nach den Worten „Abweichend von Satz 1 wird“ am Satzbeginn die Worte „für den Wahlfach- und den Vertiefungsmodulbereich“ durch die Worte „sowohl für den Wahlfach- als auch für den Kern- und den Vertiefungsmodulbereich“ ersetzt. 
 
-   - bb) In Satz 4 werden die Worte „Die Zwischennote des Vertiefungsmodulbereichs“ am Satzbeginn durch die Worte „Eine für den Kern- und den Vertiefungsmodulbereich gemeinsam gebildete Zwischennote“ sowie nach den Worten „geht gewichtet mit“ die Zahl „5“ durch die Zahl „15“ ersetzt. 
+      - bb) In Satz 4 werden die Worte „Die Zwischennote des Vertiefungsmodulbereichs“ am Satzbeginn durch die Worte „Eine für den Kern- und den Vertiefungsmodulbereich gemeinsam gebildete Zwischennote“ sowie nach den Worten „geht gewichtet mit“ die Zahl „5“ durch die Zahl „15“ ersetzt. 
 
-## 9. § 44 Abs. 3 wird wie folgt geändert: 
+9. § 44 Abs. 3 wird wie folgt geändert: 
 
-- a) Nach dem Wort „ **Anlage** “ wird die Zahl „ **1** “ gestrichen. 
+   - a) Nach dem Wort „ **Anlage** “ wird die Zahl „ **1** “ gestrichen. 
 
 3 
 
 - b) Im dritten Spiegelstrich werden die Worte „steigender Studienerfolg auf Grund der“ am Satzbeginn durch die Worte „positive Prognose aufgrund steigenden Leistungen in den“ sowie nach dem Wort „qualifizierenden“ das Wort „Leistungen“ durch das Wort „Modulen“ ersetzt. 
 
-## 10. § 45 Abs. 1 Satz 1 wird wie folgt geändert: 
+# 10. § 45 Abs. 1 Satz 1 wird wie folgt geändert: 
 
 - a) In Nr. 1 werden nach dem Klammerzusatz „(30 ECTS-Punkte)“ die Worte „gemäß **Anlage 3** “ eingefügt. 
 
@@ -136,25 +136,25 @@ bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt:
 
 - c) In Nr. 4 werden nach dem Klammerzusatz „(5 ECTS-Punkte)“ die Worte „gemäß § 45b“ eingefügt. 
 
-## 11. § 45a wird wie folgt geändert: 
+# 11. § 45a wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 1 wird nach den Worten mit Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
+   - a) In Abs. 1 Satz 1 wird nach den Worten mit Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
 
-- b) In Abs. 2 Satz 2 werden nach dem Wort „sind“ die Worte mit dem Satzzeichen „in der Regel“ gestrichen. 
+   - b) In Abs. 2 Satz 2 werden nach dem Wort „sind“ die Worte mit dem Satzzeichen „in der Regel“ gestrichen. 
 
-## c) Abs. 3 wird wie folgt geändert: 
+   - c) Abs. 3 wird wie folgt geändert: 
 
-- aa)  In Satz 1 werden nach dem Wort „Vertiefungsmodule“ die Worte „im Umfang von 5 ECTS-Punkten“ eingefügt und nach den Worten „setzen sich“ die Worte „in der Regel“ gestrichen. 
+      - aa)  In Satz 1 werden nach dem Wort „Vertiefungsmodule“ die Worte „im Umfang von 5 ECTS-Punkten“ eingefügt und nach den Worten „setzen sich“ die Worte „in der Regel“ gestrichen. 
 
-- bb)  In Satz 2 werden nach dem Wort „Abweichende“ am Satzbeginn die Worte „Modulgrößen sowie“ eingefügt. 
+      - bb)  In Satz 2 werden nach dem Wort „Abweichende“ am Satzbeginn die Worte „Modulgrößen sowie“ eingefügt. 
 
-## 12. § 45b wird wie folgt geändert: 
+12. § 45b wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 1 werden nach den Worten mit Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
+   - a) In Abs. 1 Satz 1 werden nach den Worten mit Satzzeichen „liegt darin,“ das Wort „es“ und nach dem Wort „ermöglichen“ ein Komma eingefügt. 
 
-- b) In Abs. 3 Satz 1 werden nach den Worten „setzt sich“ die Worte „in der Regel“ gestrichen. 
+   - b) In Abs. 3 Satz 1 werden nach den Worten „setzt sich“ die Worte „in der Regel“ gestrichen. 
 
-## 13. § 46 Abs. 2 wird wie folgt geändert: 
+# 13. § 46 Abs. 2 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Satz 1. 
 
@@ -162,84 +162,70 @@ bb) Nach Satz 1 wird folgender neuer Satz 2 angefügt:
 
 4 
 
-„[2] Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+„<sup>2</sup> Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 14. In § 50 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die 14. Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die 14. Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 5 
 
-## 15. **Anlage 1** erhält folgende neue Fassung: 
+# 15. **Anlage 1** erhält folgende neue Fassung: 
 
-## **„Anlage 1:** Module des Bachelorstudiums (Studienbeginn Wintersemester) 
+# **„Anlage 1:** Module des Bachelorstudiums (Studienbeginn Wintersemester) 
 
-|Nr.|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Workloadverteilung**auf**die einzelnen Semester**||||||||
-||||||||||||||||
-||||||||||||||||
-||**Modul**||||||**1**|**2**|**3**|**4**|**5**|**6**|**Prüfungsart**|**Prüfungsform**|
-||||||||||||||||
-|||||**SWS**|||**WS**|**SS**|**WS**|**SS**|**WS**|**SS**|||
-||||**V**|**Ü**|**P**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|<br>**ECTS**|**ECTS**|**ECTS**|||
-|1|Mathematik für EEI 1 1)|GOP|4|2||**7,5**|7,5||||||SL, PL|ÜbL  + K, 90 min|
-|2|Mathematik für EEI 2 1)|GOP|6|2||**10**||10|||||SL, PL|ÜbL + K, 120 min|
-|3|Grundlagen der Elektrotechnik I|GOP|4|2||**7,5**|7,5||||||PL|K, 120 min|
-|4|Grundlagen der Elektrotechnik II|GOP|2|2||**5**||5|||||PL|K, 90 min|
-|5|Experimentalphysik I||3|1||**5**|5||||||PL|K, 90 min|
-|6|Experimentalphysik II||3|1||**5**||5|||||PL|K, 90 min|
-|7|**Informatik der EEI**|||||**7,5**||||||||vgl. FPOINF|
-|7a|Grundlagen der Informatik|||vgl.<br>FPOINF|||2,5||||||vgl. FPOINF||
-|7b|Grundlagen der systemnahen Programmierung in C|||||||5|||||||
-|8|Werkstoffkunde||2|||**2,5**|2,5||||||PL|K, 60 min|
-|9|Nichttechnische Wahlfächer, vgl. § 39 Abs. 5|||vgl. § 39<br>Abs. 5||**5**||5|||||vgl. § 39 Abs. 5|2)vgl. § 39 Abs. 5 und 6|
-|10|Praktikum Grundlagen der Elektro- und Schaltungstechnik||||3|**5**||5_( 1/1/3)_|||||SL|PrL|
-|11|Arbeits- und Präsentationstechnik, Simulationstools||0|0|3|**2,5**|2,5||||||SL|PrL|
-|12|Mathematik für EEI 3 1)||2|2||**5**|||5||||SL, PL|ÜbL +  K, 60 min|
-|13|Mathematik für EEI 4 1)||2|2||**5**||||5|||PL|K, 60 min|
-|14|Grundlagen der Elektrotechnik III||2|2||**5**|||5||||PL|K, 90 min|
-|**15**|**Energie- und Antriebstechnik**|||||**7,5**|||||||PL|K, 180 min oder<br>K, 90 min2)|
-|15a|Grundlagen der elektrischen Antriebstechnik||2|1|||||3,5||||||
-|15b|Grundlagen der elektrischen Energieversorgung||2|2||||||4|||||
-|16|Regelungstechnik A (Grundlagen)|FSP|2|2||**5**|||||5||PL|K, 90 min|
-|17|Halbleiterbauelemente||2|2||**5**|||5||||PL|K, 90 min|
-|18|Digitaltechnik||2|2||**5**|||5||||PL|K, 90 min|
-|19|Schaltungstechnik|FSP|2|2||**5**||||5|||PL|K, 90 min|
-|20|Signale und Systeme I||2,5|1,5||**5**|||5||||PL|K, 90 min|
-|21|Signale und Systeme II|FSP|2,5|1,5||**5**||||5|||PL|K, 90 min|
-|22|Nachrichtentechnische Systeme|FSP|5|1||**7,5**|||||7,5||PL|K, 120 min|
+|Nr.<br>**Modul**||**SWS**||**Workloadverte**<br>**1**<br>**2**<br>**WS**<br>**SS**|**ilung**auf<br>**3**<br>**WS**|**die ein**<br>**4**<br>**SS**|**zelnen Se**<br>**5**<br>**WS**|**mester**<br>**6**<br>**SS**|**Prüfungsart**|**Prüfungsform**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||**V**|**Ü**<br>**P**|**ECTS**|**ECTS**<br>**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|||
+|1 Mathematik für EEI 1 <sup>1)</sup>|GOP 4|2|**7,5**|7,5|||||SL, PL|ÜbL  + K, 90 min|
+|2 Mathematik für EEI 2 <sup>1)</sup>|GOP 6|2|**10**|10|||||SL, PL|ÜbL + K, 120 min|
+|3 Grundlagen der Elektrotechnik I|GOP 4|2|**7,5**|7,5|||||PL|K, 120 min|
+|4 Grundlagen der Elektrotechnik II|GOP 2|2|**5**|5|||||PL|K, 90 min|
+|5 Experimentalphysik I|3|1|**5**|5|||||PL|K, 90 min|
+|6 Experimentalphysik II|3|1|**5**|5|||||PL|K, 90 min|
+|7**Informatik der EEI**|||||||||||
+|7a Grundlagen der Informatik||vgl.<br>FPOINF|**7,5**|2,5|||||vgl. FPOINF|vgl. FPOINF|
+|7b Grundlagen der systemnahen Programmierung in C||||5|||||||
+|8 Werkstoffkunde|2||**2,5**|2,5|||||PL|K, 60 min|
+|9 Nichttechnische Wahlfächer, vgl. § 39 Abs. 5||vgl. § 39<br>Abs. 5|**5**|5|||||vgl. § 39 Abs. 5|<sup>2)</sup>vgl. § 39 Abs. 5 und 6|
+|10 Praktikum Grundlagen der Elektro- und Schaltungstechnik||3|**5**||5_( 1/1/3)_||||SL|PrL|
+|11 Arbeits- und Präsentationstechnik, Simulationstools|0|0<br>3|**2,5**|2,5|||||SL|PrL|
+|12 Mathematik für EEI 3 <sup>1)</sup>|2|2|**5**||5||||SL, PL|ÜbL +  K, 60 min|
+|13 Mathematik für EEI 4 <sup>1)</sup>|2|2|**5**|||5|||PL|K, 60 min|
+|14 Grundlagen der Elektrotechnik III|2|2|**5**||5||||PL|K, 90 min|
+|**15 Energie- und Antriebstechnik**|||||||||||
+|15a Grundlagen der elektrischen Antriebstechnik|2|1|**7,5**||3,5||||PL|K, 180 min oder<br>K 90 min<sup>2)</sup>|
+|15b Grundlagen der elektrischen Energieversorgung|2|2||||4||||,|
+|16 Regelungstechnik A (Grundlagen)|FSP<br>2|2|**5**||||5||PL|K, 90 min|
+|17 Halbleiterbauelemente|2|2|**5**||5||||PL|K, 90 min|
+|18 Digitaltechnik|2|2|**5**||5||||PL|K, 90 min|
+|19 Schaltungstechnik|FSP<br>2|2|**5**|||5|||PL|K, 90 min|
+|20 Signale und Systeme I|2,5|1,5|**5**||5||||PL|K, 90 min|
+|21 Signale und Systeme II|FSP 2,5|1,5|**5**|||5|||PL|K, 90 min|
+|22 Nachrichtentechnische Systeme|FSP<br>5|1|**7,5**||||7,5||PL|K, 120 min|
 
 6 
 
-|Nr.|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Workloadverteilung**auf**die einzelnen Semester**||||||||
-||||||||||||||||
-||||||||||||||||
-||**Modul**||||||**1**|**2**|**3**|**4**|**5**|**6**|**Prüfungsart**|**Prüfungsform**|
-||||||||||||||||
-||||**SWS**||||**WS**|**SS**|**WS**|**SS**|**WS**|**SS**|||
-||||**V**|**Ü**|**P**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|<br>**ECTS**|**ECTS**|**ECTS**|||
-|23|Elektromagnetische Felder I|FSP|1|1||**2,5**||||2,5|||PL|K, 60 min|
-|24|Elektromagnetische Felder II|FSP|2|2||**5**|||||5||PL|K, 90 min|
-|25|Passive Bauelemente und deren HF-Verhalten|FSP|2|2||**5**||||5|||PL|K, 90 min|
-|26|Technische Wahlfächer, vgl. § 39 Abs. 5||vgl. § 39<br>Abs. 5|||**5**||||||5|vgl. § 39 Abs. 5|vgl. § 39 Abs. 5 und 6|
-|**27**|**Kernmodulegemäß Studienrichtungskatalog, siehe Anlage 34)**|||||**10**|||||||||
-|27a|Kernmodul wählbargemäß Studienrichtungskatalog||2|2|||||||5||PL|s. Anlage 3|
-|27b|Kernmodul wählbargemäß Studienrichtungskatalog||2|2||||||||5|PL|s. Anlage 3|
-|**28**|**Vertiefungsmodulgemäß Studienrichtungskatalog, vgl.§404)**|||||**5**|||||||||
-|28a|Vertiefungsmodul wählbargemäß Studienrichtungskatalog **oder 28b**||2|2||||||||5|PL|vgl.§40 Abs. 2|
-|28b|Kernmodul wählbargemäß Studienrichtungskatalog||2|2||||||||(5)|PL|s. Anlage 3|
-|**29**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung, vgl.§40a**|||||**5**|||||||PL,<br>SL|vgl. § 40a Abs. 2;<br>SeL und<br>PrL|
-|29a|Hauptseminar wählbargemäß Studienrichtungskatalog4)||0|2|0||||||2,5||||
-|29b|Laborpraktikum wählbargemäß Studienrichtungskatalog 4)||0|0|3|||||||2,5|||
-|30|Berufspraktische Tätigkeit (Industriepraktikum)5|||||**10**||||10 (2,5/7,5)|||SL|§vgl.  36 Abs. 1 Satz 2<br>i.V. m.§43 Abs. 1|
-|31|Bachelorarbeit mit Vortrag|||||**10**||||||10|PL und SL|BA mit Vortrag|
-||||**72**|**53**|**9**||||**29,5**||||||
-|**Summe SWS  und ECTS**||||||**180**|**27,5**|**31**||<br>**32**|**32,5**|**27,5**|||
-||||**134**||||||||||||
-||||||||||||||||
+|Nr<br>||||**Worklo**<br>|**adverte**<br>|**ilung**a<br>|uf**die ein**<br>|**zelnen Se**<br>|**mester**<br>|||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|.<br>**Modul**||**SWS**||**1**<br>**WS**|**2**<br>**SS**|**3**<br>**WS**|**4**<br>**SS**|**5**<br>**WS**|**6**<br>**SS**|**Prüfungsart**|**Prüfungsform**|
+||**V**|**Ü**<br>**P**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|<br>**ECTS**|**ECTS**|**ECTS**|||
+|23 Elektromagnetische Felder I|FSP<br>1|1|**2,5**||||2,5|||PL|K, 60 min|
+|24 Elektromagnetische Felder II|FSP<br>2|2|**5**|||||5||PL|K, 90 min|
+|25 Passive Bauelemente und deren HF-Verhalten|FSP<br>2|2|**5**||||5|||PL|K, 90 min|
+|26 Technische Wahlfächer, vgl. § 39 Abs. 5||vgl. § 39<br>Abs. 5|**5**||||||5|vgl. § 39 Abs. 5|vgl. § 39 Abs. 5 und 6|
+|**27 Kernmodulegemäß Studienrichtungskatalog, siehe Anlage 3**<sup>**4)**</sup>|||**10**|||||||||
+|27a Kernmodul wählbargemäß Studienrichtungskatalog|2|2||||||5||PL|s. Anlage 3|
+|27b Kernmodul wählbargemäß Studienrichtungskatalog|2|2|||||||5|PL|s. Anlage 3|
+|**28 Vertiefungsmodulgemäß Studienrichtungskatalog, vgl.§40**<sup>**4)**</sup>|||**5**|||||||||
+|28a Vertiefungsmodul wählbargemäß Studienrichtungskatalog **oder 28b**|2|2|||||||5|PL|vgl.§40 Abs. 2|
+|28b Kernmodul wählbargemäß Studienrichtungskatalog|2|2|||||||(5)|PL|s. Anlage 3|
+|**29 Modul Hauptseminar und Laborpraktikum aus der Studienrichtung, vgl.§40a**||||||||||PL|vgl. § 40a Abs. 2;|
+|29a Hauptseminar wählbargemäß Studienrichtungskatalog<sup>4)</sup>|0|2<br>0|**5**|||||2,5||,<br>SL|SeL und|
+|29b Laborpraktikum wählbargemäß Studienrichtungskatalog <sup>4)</sup>|0|0<br>3|||||||2,5||PrL|
+|30 Berufspraktische Tätigkeit (Industriepraktikum)5|||**10**||||10 (2,|5/7,5)||SL|§vgl.  36 Abs. 1 Satz 2<br>i.V. m.§43 Abs. 1|
+|31 Bachelorarbeit mit Vortrag|||**10**||||||10|PL und SL|BA mit Vortrag|
+|**Summe SWS** **und ECTS**|**72**|**53**<br>**9**<br>**134**|**180**|**27,5**|**31**|**29,5**|**32**|**32,5**|**27,5**|||
 
 GOP = Grundlagen- und Orientierungsprüfung 
 
@@ -261,7 +247,7 @@ K: Klausur
 
 7 
 
-## 16. **Anlage 2a** wird wie folgt geändert: 
+# 16. **Anlage 2a** wird wie folgt geändert: 
 
 - a) Die Erläuterungen werden wie folgt geändert: 
 
@@ -273,9 +259,9 @@ K: Klausur
 
 - b) Fußnote 4 erhält folgende neue Fassung: 
 
-   - „[4)] vgl. § 46 Abs. 2.“ 
+   - „<sup>4)</sup> vgl. § 46 Abs. 2.“ 
 
-## 17. **Anlage 2b** wird wie folgt geändert: 
+# 17. **Anlage 2b** wird wie folgt geändert: 
 
    - a) Die Erläuterungen werden wie folgt geändert: 
 
@@ -285,7 +271,7 @@ K: Klausur
 
    - b) Fußnote 4 erhält folgende neue Fassung: 
 
-      - „[4)] vgl. § 46 Abs. 2.“ 
+      - „<sup>4)</sup> vgl. § 46 Abs. 2.“ 
 
 18. Nach **Anlage 3f** (Kernmodule der Studienrichtung „Mikroelektronik“) wird folgende neue Erläuterung angefügt: 
 

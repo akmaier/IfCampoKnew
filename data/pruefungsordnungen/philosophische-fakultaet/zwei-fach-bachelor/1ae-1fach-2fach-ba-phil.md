@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. November 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AE-1Fach_2Fach_BA-Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:15:05+00:00
-page_count_chars: 9220
+scraped_at: 2026-07-01T10:31:22+00:00
+page_count_chars: 9237
 ---
 
 # 5. November 2010
@@ -12,7 +12,7 @@ page_count_chars: 9220
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AE-1Fach_2Fach_BA-Phil.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Ein–Fach- und Zwei-Fach-Bachelorstudien- und Masterstudiengängen der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung von Fachstudien- und Prüfungsordnungen in Ein–Fach- und Zwei-Fach-Bachelorstudien- und Masterstudiengängen der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg** 
 
 ## Vom 5. November 2010 
 
@@ -26,7 +26,7 @@ Die Fachstudienund Prüfungsordnungen in den Einund Zwei-FachBachelorstudiengän
 
 2. Mit Ausnahme der FPO BA Germanistik, Orientalistik und Sozialwissenschaften sowie Archäologische Wissenschaften werden in den jeweiligen § 3 Abs. 2 bzw. in der FPO Ökonomie und Sinologie in § 3 Abs. 3 und in § 4 Abs. 2 der FPO Nordische Philologie und Pädagogik der Paragraph „28 Abs. 5“ durch den Paragraphen „30 Abs. 5“ ersetzt. 
 
-3. In § 6 der FPO BA Buchwissenschaften, Kulturgeschichte des Christentums, Linguistische Informatik, Philosophie, Soziologie, Sinologie, Theater- und Medienwissenschaften, Archäologische Wissenschaften sowie Orientalistik und Sozialwissenschaften und in § 7 der FPO Frankoromanistik, Iberoromanistik, Indogermanistik, Italoromanistik, Politikwissenschaft[1] wird der Paragraph „29 Abs. 
+3. In § 6 der FPO BA Buchwissenschaften, Kulturgeschichte des Christentums, Linguistische Informatik, Philosophie, Soziologie, Sinologie, Theater- und Medienwissenschaften, Archäologische Wissenschaften sowie Orientalistik und Sozialwissenschaften und in § 7 der FPO Frankoromanistik, Iberoromanistik, Indogermanistik, Italoromanistik, Politikwissenschaft<sup>1</sup> wird der Paragraph „29 Abs. 
 
 > 1 § 7 der geltenden Prüfungsordnung Politikwissenschaften entspricht § 8 der vorangegangenen Version, die in gleicher Weise geändert wird. 
 
@@ -34,7 +34,7 @@ Die Fachstudienund Prüfungsordnungen in den Einund Zwei-FachBachelorstudiengän
 
 4. In der FPO BA Frankoromanistik, Germanistik, Griechische Philologie, Iberoromanistik und Italoromanistik wird in § 6 jeweils der Paragraph „26 Abs. 1 Satz 2 Nr. 2“ jeweils durch den Paragraphen „28 Abs. 1 Satz 2 Nr. 2“ ersetzt. 
 
-5. In § 6 der FPO BA Kulturgeographie und Politikwissenschaft[2] wird der Paragraph „7“ jeweils durch den Paragraphen „8“ ersetzt. 
+5. In § 6 der FPO BA Kulturgeographie und Politikwissenschaft<sup>2</sup> wird der Paragraph „7“ jeweils durch den Paragraphen „8“ ersetzt. 
 
 6. In § 6 der FPO BA Lateinische Philologie wird der Paragraph „26 Abs. 2 Satz 4“ jeweils durch den Paragraphen „28 Abs. 2 Satz 4 Nr. 3“ ersetzt. 
 

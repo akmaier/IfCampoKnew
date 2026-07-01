@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Kunstgeschichte MFPOKunstGesch 20100608 i.d.F. 20200214.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Kunstgeschichte/konsolidierte_Fassungen/MA_Kunstgeschichte_MFPOKunstGesch_20100608_idF_20200214.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:31:00+00:00
-page_count_chars: 24048
+scraped_at: 2026-07-01T09:43:18+00:00
+page_count_chars: 22770
 ---
 
 # MA Kunstgeschichte MFPOKunstGesch 20100608 i.d.F. 20200214.pdf
@@ -16,7 +16,7 @@ page_count_chars: 24048
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Kunstgeschichte an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MFPOKunstGesch – Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Kunstgeschichte an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – MFPOKunstGesch – Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 
 
@@ -36,9 +36,18 @@ geändert durch Satzungen vom
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................. 2 § 3 Umfang und Gliederung des Masterstudiums, Prüfungen ................................................ 2 § 3a Studienbeginn ............................................................................................................... 3 § 4 Wahlpflichtbereich ........................................................................................................... 3 § 5 Zulassungsvoraussetzung für die Masterarbeit ................................................................ 3 § 6 Inkrafttreten und Übergangsvorschriften .......................................................................... 3 Anlage 1: Studienverlaufsplan M.A. Kunstgeschichte – Vollzeit ............................................. 4 Anlage 2: Studienverlaufsplan M.A. Kunstgeschichte – Teilzeit ............................................. 7 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................. 2|
+|§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen ................................................ 2|
+|§ 3a Studienbeginn ............................................................................................................... 3|
+|§ 4 Wahlpflichtbereich ........................................................................................................... 3|
+|§ 5 Zulassungsvoraussetzung für die Masterarbeit ................................................................ 3<br>|
+|§ 6 Inkrafttreten und Übergangsvorschriften .......................................................................... 3|
+|Anlage 1: Studienverlaufsplan M.A. Kunstgeschichte – Vollzeit ............................................. 4|
+|Anlage 2: Studienverlaufsplan M.A. Kunstgeschichte – Teilzeit ............................................. 7|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -48,11 +57,11 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 Alt. 1 **ABMStPO/Phil** ist der Abschluss in einem kunsthistorischen Studiengang.[2] Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 Alt. 2 i. V. m. Abs. 2 **ABMStPO/Phil** werden andere Abschlüsse wie z.B. in einem Lehramtsstudiengang, in Kunsterziehung, Kunstpädagogik, Freie Kunst, Theater- und Medienwissenschaften, Design oder Architektur anerkannt, soweit sie kunsthistorische Module beinhalten. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 Alt. 1 **ABMStPO/Phil** ist der Abschluss in einem kunsthistorischen Studiengang.<sup>2</sup> Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 Alt. 2 i. V. m. Abs. 2 **ABMStPO/Phil** werden andere Abschlüsse wie z.B. in einem Lehramtsstudiengang, in Kunsterziehung, Kunstpädagogik, Freie Kunst, Theater- und Medienwissenschaften, Design oder Architektur anerkannt, soweit sie kunsthistorische Module beinhalten. 
 
-(2)[1] Als weitere Unterlagen i. S. d. Abs. 2 Satz 2 Nr. 2 **Anlage 1 ABMStPO/Phil** sind mit den Bewerbungsunterlagen Nachweise über Kenntnisse in zwei modernen Fremdsprachen mit mindestens dem Niveau B1 nach dem Gemeinsamen Europäischen Referenzrahmen (GER) für Sprachen oder Nachweise einer modernen Fremdsprache (z. B.: Englisch, Französisch oder Spanisch) und gesicherte Lateinkenntnisse zu erbringen.[2] Der Nachweis der Fremdsprachenkenntnisse erfolgt durch das Abiturzeugnis oder vergleichbare Nachweise (für Lateinkenntnisse bspw. Nachweis der erfolgreichen Teilnahme an der vom Lehrstuhl für Mittel- und Neulatein der FAU angebotenen „Klausur zum Nachweis gesicherter Lateinkenntnisse gemäß **StPO Latein** “, für die weitere Fremdsprache bspw. Nachweis der erfolgreichen Teilnahme an entsprechenden Sprachkursen des Sprachenzentrums der FAU). 3Bewerberinnen und Bewerber, die diesen Nachweis vor Aufnahme des Studiums nicht erbringen können, werden unter der auflösenden Bedingung zugelassen, dass der Nachweis über die o. g. Fremdsprachenkenntnisse bis zu Beginn des dritten Fachsemesters erbracht wird. 
+(2)<sup>1</sup> Als weitere Unterlagen i. S. d. Abs. 2 Satz 2 Nr. 2 **Anlage 1 ABMStPO/Phil** sind mit den Bewerbungsunterlagen Nachweise über Kenntnisse in zwei modernen Fremdsprachen mit mindestens dem Niveau B1 nach dem Gemeinsamen Europäischen Referenzrahmen (GER) für Sprachen oder Nachweise einer modernen Fremdsprache (z. B.: Englisch, Französisch oder Spanisch) und gesicherte Lateinkenntnisse zu erbringen.<sup>2</sup> Der Nachweis der Fremdsprachenkenntnisse erfolgt durch das Abiturzeugnis oder vergleichbare Nachweise (für Lateinkenntnisse bspw. Nachweis der erfolgreichen Teilnahme an der vom Lehrstuhl für Mittel- und Neulatein der FAU angebotenen „Klausur zum Nachweis gesicherter Lateinkenntnisse gemäß **StPO Latein** “, für die weitere Fremdsprache bspw. Nachweis der erfolgreichen Teilnahme an entsprechenden Sprachkursen des Sprachenzentrums der FAU). 3Bewerberinnen und Bewerber, die diesen Nachweis vor Aufnahme des Studiums nicht erbringen können, werden unter der auflösenden Bedingung zugelassen, dass der Nachweis über die o. g. Fremdsprachenkenntnisse bis zu Beginn des dritten Fachsemesters erbracht wird. 
 
-(3)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 sowie für Bewerberinnen und Bewerber mit einer Gesamtnote des fachverwandten bzw. nicht wesentlich unterschiedlichen Abschlusses nach Abs. 1 Satz 2 mit einem Durchschnitt der bisherigen Leistungen von 1,00 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.[3] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender gleichgewichteter Kriterien beurteilt: 
+(3)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,50 sowie für Bewerberinnen und Bewerber mit einer Gesamtnote des fachverwandten bzw. nicht wesentlich unterschiedlichen Abschlusses nach Abs. 1 Satz 2 mit einem Durchschnitt der bisherigen Leistungen von 1,00 bis 3,50 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender gleichgewichteter Kriterien beurteilt: 
 
 1. Qualität der fundierten Fach- und Methodenkenntnisse der Kunstgeschichte, 
 
@@ -74,9 +83,9 @@ Das Masterstudium der Kunstgeschichte kann in Ergänzung zu § 5 Abs. 4 **ABMSt-
 
 ## **§ 4 Wahlpflichtbereich** 
 
-(1)[1] Das Qualifikationsziel des Wahlpflichtbereichs liegt darin, den Studierenden zu ermöglichen, thematische und methodische Erweiterungen und Vertiefungen fachspezifisch (Kernmodule) oder in den Modulen der anderen wählbaren Schwerpunkte (Schwerpunktmodule) oder fachübergreifend durch den Import von Modulen anderer Studiengänge der FAU oder international durch im Ausland erworbene Kompetenzen für die individuelle Profilierung zu wählen.[2] Darüber hinaus wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, die kunstwissenschaftliche Perspektive auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interkulturellen Beobachtungshorizonten gesammelt werden. 3Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
+(1)<sup>1</sup> Das Qualifikationsziel des Wahlpflichtbereichs liegt darin, den Studierenden zu ermöglichen, thematische und methodische Erweiterungen und Vertiefungen fachspezifisch (Kernmodule) oder in den Modulen der anderen wählbaren Schwerpunkte (Schwerpunktmodule) oder fachübergreifend durch den Import von Modulen anderer Studiengänge der FAU oder international durch im Ausland erworbene Kompetenzen für die individuelle Profilierung zu wählen.<sup>2</sup> Darüber hinaus wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, die kunstwissenschaftliche Perspektive auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interkulturellen Beobachtungshorizonten gesammelt werden. 3Zudem wird den Studierenden durch die Wahlfreiheit ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1.[2] Sie richten sich nach den Vorgaben des anbietenden Studiengangs und sind dem Modulhandbuch zu entnehmen.[3] Mögliche Prüfungsleistungen sind: Klausur (60-90 Min.), schriftliche Hausarbeit (15-20 S.), Referat (30-45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).[4] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1.<sup>2</sup> Sie richten sich nach den Vorgaben des anbietenden Studiengangs und sind dem Modulhandbuch zu entnehmen.<sup>3</sup> Mögliche Prüfungsleistungen sind: Klausur (60-90 Min.), schriftliche Hausarbeit (15-20 S.), Referat (30-45 Min.), Essay (5-7 S.), Protokoll (2-3 S.).<sup>4</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
 (3) Die Wahlpflichtmodule setzen sich in der Regel entweder aus einer Vorlesung (2 SWS) und einem Seminar (2 SWS) oder zwei Seminaren (zu je 2 SWS) zusammen oder bestehen aus nur einer Lehrveranstaltung (2 SWS). 
 
@@ -88,79 +97,79 @@ Voraussetzung für die Zulassung zum Modul Masterarbeit gemäß § 38 Abs. 2 **A
 
 (1) Diese Fachstudien- und Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 
-(2)[1] Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
+(2)<sup>1</sup> Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
-(3)[1] Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden. 
+(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Sommersemester 2020 aufnehmen werden. 
 
 3 
 
-**Anlage 1: Studienverlaufsplan M.A. Kunstgeschichte – Vollzeit** 
+## **<u>Anlage 1: Studienverlaufsplan M.A. Kunstgeschichte – Vollzeit</u>** 
 
-|Modulbezeichnung|Lehrver-<br>l|||||ECTS|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-||anstatung|V|Ü|P|S||1.|2.|3.|4.|||
-|Pflichtcurriculum|||||||||||||
-|Geschichte und Analyse der künstlerischen Medien I|Vorlesung|1||||5|2,5||||Klausur (60 Min.)|1|
-||Oberseminar||||1||2,5||||||
-|Geschichte und Analyse der künstlerischen Medien II|Oberseminar||||2|5|5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Quellen, Theorien und Methoden I|Vorlesung|1||||5||2,5|||Klausur (60 Min.)|1|
-||Oberseminar||||1|||2,5|||||
-|Quellen, Theorien und Methoden II|Oberseminar||||2|5||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Kunst- und Kulturwissenschaften I|Vorlesung|1||||5|2,5||||Klausur (60 Min.)|1|
-||Oberseminar||||1||2,5||||||
-|Digitale Kunstgeschichte|Oberseminar||||2|5|5||||Portfolio (ca. 15 S.)3|1|
-|Studium vor Originalen I|Oberseminar<br>mitExkursion||||2|5||5|||mdl. Vortrag (ca. 20 Min) mit Thesenpapier  (2-4 S., 50 %)<br>undAbschlussbericht (ca.5-7S., 50 %)4|1|
-|Forum Forschung|Oberseminar||||2|5|||5||Essay(ca. 7-15 S.)|0|
-|Wahlpflichtbereich (Es sind Module im Umfang von 20 ECTS-Punkten zu belegen)|||||||||||||
-|Studium vor Originalen II|Oberseminar<br>mitExkursion||||(2)|5|||||mdl. Vortrag (ca. 20 Min) mit Thesenpapier (2-4 S., 50 %)<br>undAbschlussbericht (ca.5-7S., 50 %)4|0|
-|Künstlerische Techniken|Seminar||||(4)|5|||||Bericht (ca. 5-7 S.)|0|
-|Kunsthistorische Medienkompetenz und Berufsfeld-<br>orientierung|Oberseminar||||(2)|5|||||Bericht (ca. 30 S.)5|0|
-|Geschichte und Analyse der künstlerischen Medien III|Vorlesung|(1)||||5|||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||
-|Geschichte und Analyse der künstlerischen Medien IV|Oberseminar||||(2)|5|||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
-|Quellen, Theorie und Methoden III|Vorlesung|(1)||||5|||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||
-|Quellen, Theorie und Methoden IV|Oberseminar||||(2)|5|||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
-|Kunst- und Kulturwissenschaften II|Vorlesung|(1)||||5|||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||
+||Lehrver-|S|WS||Workload<br>pro Se|-Verteilung<br>mester in||Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung||||ECTS|<br>|<br><sup>1</sup>|Art und Umfang der Prüfung|Modul-|
+||anstaltung||||ECTS-|unkten||<br>|
+|Pflichtcurriculum||V<br>Ü|P<br>S||1.<br>2.|3.<br>4.||note|
+||Vorlesung|1|||2,5||||
+|Geschichte und Analyse der künstlerischen Medien I|Oberseminar||1|5|2,5||Klausur (60 Min.)|1|
+|Geschichte und Analyse der künstlerischen Medien II|Oberseminar||2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Quellen, Theorien und Methoden I|Vorlesung<br>Oberseminar|1|1|5|2,5<br>2,5||Klausur (60 Min.)|1|
+|Quellen, Theorien und Methoden II|Oberseminar||2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+||Vorlesung|1|||2,5||||
+|Kunst- und Kulturwissenschaften I|Oberseminar||1|5|2,5||Klausur (60 Min.)|1|
+|Digitale Kunstgeschichte|Oberseminar||2|5|5||Portfolio (ca. 15 S.)<sup>3</sup>|1|
+|Studium vor Originalen I|Oberseminar<br>mitExkursion||2|5|5||mdl. Vortrag (ca. 20 Min) mit Thesenpapier  (2-4 S., 50 %)<br>undAbschlussbericht (ca.5-7S., 50 %)<sup>4</sup>|1|
+|Forum Forschung|Oberseminar||2|5||5|Essay(ca. 7-15 S.)|0|
+|Wahlpflichtbereich (Es sind Module im Umfang von 20 E|CTS-Punkten zu bel<br>|egen)|||||||
+|Studium vor Originalen II|Oberseminar<br>mitExkursion||(2)|5|||mdl. Vortrag (ca. 20 Min) mit Thesenpapier (2-4 S., 50 %)<br>undAbschlussbericht (ca.5-7S., 50 %)<sup>4</sup>|0|
+|Künstlerische Techniken|Seminar||(4)|5|||Bericht (ca. 5-7 S.)|0|
+|Kunsthistorische Medienkompetenz und Berufsfeld-<br>orientierung|Oberseminar||(2)|5|||Bericht (ca. 30 S.)<sup>5</sup>|0|
+|Geschichte und Analyse der künstlerischen Medien III|Vorlesung<br>Oberseminar|(1)|(1)|5|||Klausur (60 Min.)|0|
+|Geschichte und Analyse der künstlerischen Medien IV|Oberseminar||(2)|5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
+|Quellen Theorie und Methoden III|Vorlesung|(1)||5|||Klausur (60 Min.)|0|
+|,|Oberseminar||(1)||||||
+|Quellen, Theorie und Methoden IV|Oberseminar||(2)|5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
+|Kunst- und Kulturwissenschaften II|Vorlesung|(1)||5|||Klausur (60 Min.)|0|
+||Oberseminar||(1)||||||
 
 4 
 
-|Modulbezeichnung|Lehrver-<br>l|SWS|SWS|SWS||ECTS|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||anstatung|V|Ü|P|S||1.|2.|3.|4.|||
-|Freies Ergänzungsstudium I|vgl.§4 Abs. 3|||||5|||||vgl.§4 Abs. 2|0|
-|Freies Ergänzungsstudium II|vgl.§4 Abs. 3|||||5|||||vgl.§4 Abs. 2|0|
-|Schwerpunkt Kunst- und Kulturwissenschaften|||||||||||||
-|Innereuropäische und globale Austauschprozesse I|Oberseminar||||2|5||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation (ca. 20-30 Min., 0 %)|1|
-|Innereuropäische und globale Austauschprozesse II|Oberseminar||||2|5||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
-|Schwerpunktmodul Kunst- und Kulturwissenschaften I|Oberseminar||||2|5|||5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
-|Schwerpunktmodul Kunst- und Kulturwissenschaften II|Oberseminar||||2|5|||5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
-|Praktikum/Projekt Kunst- und Kulturwissenschaften|Praktikum oder<br>Projektmitarbeit|||||10|||10||Bericht (ca. 5-7 S.)6|0|
-|Schwerpunkt Museumsstudien|||||||||||||
-|Grundlagen der Museologie I|Oberseminar||||2|5|5||||Bericht(ca. 5-7 S.)|1|
-|Grundlagen der Museologie II|Oberseminar||||2|5|||5||Bericht (ca. 5-7 S.)|1|
-|Schwerpunktmodul Museumsstudien I|Oberseminar||||2|5|||5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Schwerpunktmodul Museumsstudien II|Oberseminar||||2|5|||5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Praktikum/Projekt Museumsstudien|Praktikum oder<br>Projektmitarbeit|||||10|||10||Bericht (ca. 5-7 S.)5|0|
-|Schwerpunkt Digitale Kunstgeschichte|||||||||||||
-|Grundlagen der Informatik|Vorlesung mit<br>Übung|3|2|||5||5|||Klausur (60 Min.)|0|
-|Schwerpunktmodul Digitale Kunstgeschichte I|Oberseminar||||2|5||(5)|(5)||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)2|1|
-|Schwerpunktmodul Digitale Kunstgeschichte II|Oberseminar||||2|5|||5||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)2|1|
-|Schwerpunktmodul Digitale Bild- und Medienwissen-<br>schaften|Oberseminar||||2|5|||5||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)2|1|
-|Praktikum/Projekt Digitale Kunstgeschichte|Praktikum oder<br>Projektmitarbeit|||||10|||10||Bericht (ca. 5-7 S.)6|0|
-|Masterarbeit|||||||||||||
-|Mastermodul|Masterarbeit|||||30||||25|Masterarbeit (ca. 80 S., 100 %) und<br>mündliche Präsentation (ca. 30 Min., 0 %)|2|
-||Oberseminar||||2|||||5|||
+||Lehrver-|SWS||Workload-Verteil<br>pro Semester i|ung<br>n||Faktor<br>|
+|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|anstaltung|V<br>Ü<br>P<br>S|ECTS|ECTS-Punkten<br>1.<br>2.<br>3.|<sup>1</sup><br>4.|Art und Umfang der Prüfung|Modul-<br>note|
+|Freies Ergänzungsstudium I|vg|l.§4 Abs. 3|5|||vgl.§4 Abs. 2|0|
+|Freies Ergänzungsstudium II|vg|l.§4 Abs. 3|5|||vgl.§4 Abs. 2|0|
+|Schwerpunkt Kunst- und Kulturwissenschaften||||||||
+|Innereuropäische und globale Austauschprozesse I|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation (ca. 20-30 Min., 0 %)|1|
+|Innereuropäische und globale Austauschprozesse II|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
+|Schwerpunktmodul Kunst- und Kulturwissenschaften I|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
+|Schwerpunktmodul Kunst- und Kulturwissenschaften II|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30 Min.,0 %)|1|
+|Praktikum/Projekt Kunst- und Kulturwissenschaften|Praktikum oder<br>Prktmitrbit||10|10||Bericht (ca. 5-7 S.)<sup>6</sup>|0|
+|Schwerpunkt Museumsstudien<br>|ojeae<br>|||||||
+|Grundlagen der Museologie I|Oberseminar|2|5|5||Bericht(ca. 5-7 S.)|1|
+|Grundlagen der Museologie II|Oberseminar|2|5|5||Bericht (ca. 5-7 S.)|1|
+|Schwerpunktmodul Museumsstudien I|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Schwerpunktmodul Museumsstudien II|Oberseminar|2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Praktikum/Projekt Museumsstudien|Praktikum oder<br>Prktmitrbit||10|10||Bericht (ca. 5-7 S.)<sup>5</sup>|0|
+||ojeae|||||||
+|Schwerpunkt Digitale Kunstgeschichte|Vl it|||||||
+|Grundlagen der Informatik|oresung m<br>Übung|3<br>2|5|5||Klausur (60 Min.)|0|
+|Schwerpunktmodul Digitale Kunstgeschichte I|Oberseminar|2|5|(5)<br>(5)||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Schwerpunktmodul Digitale Kunstgeschichte II|Oberseminar|2|5|5||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Schwerpunktmodul Digitale Bild- und Medienwissen-<br>schaften|Oberseminar|2|5|5||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Praktikum/Projekt Digitale Kunstgeschichte|Praktikum oder<br>Projektmitarbeit||10|10||Bericht (ca. 5-7 S.)<sup>6</sup>|0|
+|Masterarbeit|Mi||||2|||
+|Mastermodul|asterarbet<br>Oberseminar|2|30||5<br>5|Masterarbeit (ca. 80 S., 100 %) und<br>mündliche Präsentation (ca. 30 Min., 0 %)|2|
 
 5 
 
-|Modulbezeichnung|Lehrver-<br>l|SWS|SWS|SWS|SWS|ECTS|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||anstatung|V|Ü|P|S||1.|2.|3.|4.|||
-|Summen SWS und ECTS||3-6|0-2|0|15<br>-<br>21|120|206|257|257|30|||
-|||Ohne Wahlpflichtmodule,<br>je nach Schwerpunkt<br>30-36 SWS|||||120||||||
+Faktor Modulnote 
+
+|Modulbezeichnung|Lehrver-<br>anstaltung<br>SWS<br>|ECTS<br>Workload-Verteilung<br>pro Semester in<br>ECTS-Punkten<sup>1</sup>|Art und Umfang der Prüfung|
+|---|---|---|---|
+||V<br>Ü<br>P<br>S|1.<br>2.<br>3.<br>4.||
+||Summen SWS und ECTS<br>3-6<br>0-2<br>0<br>15<br>-<br>21<br>Ohne Wahlpflichtmodule,|120<br>20<sup>6</sup><br>25<sup>7</sup><br>25<sup>7</sup><br>30||
+||je nach Schwerpunkt<br>30-36 SWS|120||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 2 
 
@@ -190,72 +199,71 @@ Voraussetzung für die Zulassung zum Modul Masterarbeit gemäß § 38 Abs. 2 **A
 
 6 
 
-**Anlage 2: Studienverlaufsplan M.A. Kunstgeschichte – Teilzeit** 
+**<u>Anlage 2: Studienverlaufsplan M.A. Kunstgeschichte – Teilzeit</u>** 
 
-|Modulbezeichnung|Lehrveran-|SWS|SWS|SWS|SWS|||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||staltung|V|Ü|P|S|ECTS|1.|2.|<br>3.|<br>4.|5.|6.|7.|8.|Art und Umfang der Prüfung||
-|Pflichtcurriculum|||||||||||||||||
-|Geschichte und Analyse der<br>künstlerischen Medien I|Vorlesung|1||||5|2,5||||||||Klausur (60 Min.)|1|
-||Oberseminar||||1||2,5||||||||||
-|Geschichte und Analyse der<br>künstlerischen Medien II|Oberseminar||||2|5|5||||||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Quellen, Theorien und Methoden I|Vorlesung|1||||5||2,5|||||||Klausur (60 Min.)|1|
-||Oberseminar||||1|||2,5|||||||||
-|Quellen, Theorien und Methoden II|Oberseminar||||2|5||5|||||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Kunst- und Kulturwissenschaften I|Vorlesung|1||||5|||2,5||||||Klausur (60 Min.)|1|
-||Oberseminar||||1||||2,5||||||||
-|Digitale Kunstgeschichte|Oberseminar||||2|5|||5||||||Portfolio (ca. 15 S.)3|1|
-|Studium vor Originalen I|Oberseminar mit<br>Exkursion||||2|5||||5|||||mdl. Vortrag (ca. 20 Min) mit<br>Thesenpapier (2-4 S., 50 %) und<br>Abschlussbericht (ca.5-7S., 50 %)4|1|
-|Forum Forschung|Oberseminar||||2|5|||||5||||Essay (ca. 7-15 S.)|0|
-|Wahlpflichtbereich (Es sind Module im Umfang von 20 ECTS-Punkten zu belegen)|||||||||||||||||
-|Studium vor Originalen II|Oberseminar mit<br>Exkursion||||(2)|5|||||||||mdl. Vortrag (ca. 20 Min) mit<br>Thesenpapier (2-4 S., 50 %) und<br>Abschlussbericht (ca.5-7S., 50 %)4|0|
-|Künstlerische Techniken|Seminar||||(4)|5|||||||||Bericht (ca. 5-7 S.)|0|
-|Kunsthistorische Medienkompetenz<br>undBerufsfeldorientierung|Oberseminar||||(2)|5|||||||||Bericht (ca. 30 S.)5|0|
-|Geschichte und Analyse der<br>künstlerischen Medien III|Vorlesung|(1)||||5|||||||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||||||
-|Geschichte und Analyse der künst-<br>lerischen Medien IV|Oberseminar||||(2)|5|||||||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
-|Quellen, Theorie und Methoden III|Vorlesung|(1)||||5|||||||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||||||
-|Quellen, Theorie und Methode IV|Oberseminar||||(2)|5|||||||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
-|Kunst- und Kulturwissenschaften II|Vorlesung|(1)||||5|||||||||Klausur (60 Min.)|0|
-||Oberseminar||||(1)||||||||||||
-|Freies Ergänzungsstudium I|vgl. § 4 Abs. 3|||||5|||||||||vgl. § 4 Abs. 2|0|
+||Lehrveran-||SWS|||Workload-<br>|Verteilung pro Semester<br> <sup>1</sup>||Faktor|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|staltn||||ECTS|<br>in|ECTS-Punkten|Art und Umfang der Prüfung|Modul-|
+|Pflichtcurriculum|ug<br>|V<br>|Ü<br>P|S||1.<br>2.<br>3.<br>|4.<br>5.<br>6.<br>7.<br>8.||note|
+|Geschichte und Analyse der|Vorlesung|1|||5|2,5||Kl 60 Mi|1|
+|künstlerischen Medien I|Oberseminar|||1||2,5||ausur ( n.)||
+|Geschichte und Analyse der<br>künstlerischen Medien II|Oberseminar|||2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Quellen Theorien und Methoden I|Vorlesung|1|||5|2,5||Klausur (60 Min)|1|
+|,|Oberseminar|||1||2,5||.||
+|Quellen, Theorien und Methoden II|Oberseminar|||2|5|5||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Kunst- und Kulturwissenschaften I|Vorlesung|1|||5|2,5||Klausur (60 Min)|1|
+||Oberseminar|||1||2,5||.||
+|Digitale Kunstgeschichte|Oberseminar|||2|5|5||Portfolio (ca. 15 S.)<sup>3</sup>|1|
+|Studium vor Originalen I|Oberseminar mit<br>Exkursion|||2|5||5|mdl. Vortrag (ca. 20 Min) mit<br>Thesenpapier (2-4 S., 50 %) und<br>Abschlussbericht (ca.5-7S., 50 %)<sup>4</sup>|1|
+|Forum Forschung|Oberseminar|||2|5||5|Essay (ca. 7-15 S.)|0|
+|Wahlpflichtbereich (Es sind Module im|Umfang von 20 EC<br>|TS-Pun|kten zu belege|n)||||mdl. Vortrag (ca. 20 Min) mit||
+|Studium vor Originalen II|Oberseminar mit<br>Exkursion|||(2)|5|||<br>Thesenpapier (2-4 S., 50 %) und<br>Abschlussbericht (ca.5-7S., 50 %)<sup>4</sup>|0|
+|Künstlerische Techniken|Seminar|||(4)|5|||Bericht (ca. 5-7 S.)|0|
+|Kunsthistorische Medienkompetenz<br>undBerufsfeldorientierung|Oberseminar|||(2)|5|||Bericht (ca. 30 S.)<sup>5</sup>|0|
+|Geschichte und Analyse der|Vorlesung|(1)|||5|||Klausur (60 Min)|0|
+|künstlerischen Medien III|Oberseminar|||(1)||||.||
+|Geschichte und Analyse der künst-<br>lerischen Medien IV|Oberseminar|||(2)|5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
+|ll Thi  Mh III|Vorlesung|(1)||||||Kl  Mi||
+|Queen, eore und etoden|Oberseminar|||(1)|5|||ausur (60 n.)|0|
+|Quellen, Theorie und Methode IV|Oberseminar|||(2)|5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|0|
+|Kunst- und Kulturwissenschaften II|Vorlesung|(1)|||5|||Klausur (60 Min)|0|
+||Oberseminar|||(1)||||.||
+|Freies Ergänzungsstudium I|vg|l. § 4 A|bs. 3||5|||vgl. § 4 Abs. 2|0|
 
 7 
 
-|Modulbezeichnung|Lehrveran-|SWS|SWS|SWS||||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||staltung|V|Ü|P|S|ECTS|1.|2.|<br>3.|<br>4.|5.|6.|7.|8.|Art und Umfang der Prüfung||
-|Freies Ergänzungsstudium II|vgl. § 4 Abs. 3|||||5|||||||||vgl. § 4 Abs. 2|0|
-|Schwerpunkt Kunst- und Kulturwissenschaften|||||||||||||||||
-|Innereuropäische und globale<br>AustauschprozesseI|Oberseminar||||2|5||||5|||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Innereuropäische und globale<br>AustauschprozesseII|Oberseminar||||2|5||||5|||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Schwerpunktmodul Kunst- und<br>Kulturwissenschaften I|Oberseminar||||2|5|||||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Schwerpunktmodul Kunst- und<br>Kulturwissenschaften II|Oberseminar||||2|5|||||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Praktikum/Projekt Kunst- und<br>Kulturwissenschaften|Praktikum oder<br>Projektmitarbeit|||||10||||||10|||Bericht (ca. 5-7 S.)6|0|
-|Schwerpunkt Museumsstudien|||||||||||||||||
-|Grundlagen der Museologie I|Oberseminar||||2|5|||5||||||Bericht(ca. 5-7 S.)|1|
-|Grundlagen der Museologie II|Oberseminar||||2|5|||||5||||Bericht (ca. 5-7 S.)|1|
-|Schwerpunktmodul Museums-<br>studien I|Oberseminar||||2|5|||||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Schwerpunktmodul Museums-<br>studien II|Oberseminar||||2|5|||||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
-|Praktikum/Projekt Museumsstudien|Praktikum oder<br>Projektmitarbeit|||||10||||||10|||Bericht (ca. 5-7 S.)6|0|
-|Schwerpunkt Digitale Kunstgeschichte|||||||||||||||||
-|Grundlagen der Informatik|Vorlesung mit<br>Übung|3|2|||5||||5|||||Klausur (60 Min.)|0|
-|Schwerpunktmodul Digitale<br>Kunstgeschichte I|Oberseminar||||2|5||||5|||||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)2|1|
-|Schwerpunktmodul Digitale<br>Kunstgeschichte II|Oberseminar||||2|5|||||5||||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)2|1|
-|Schwerpunktmodul Digitale Bild-<br>und Medienwissenschaften|Oberseminar||||2|5|||||5||||Portfolio (ca. 15 S.)3oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)2|1|
-|Praktikum/Projekt Digitale<br>Kunstgeschichte|Praktikum oder<br>Projektmitarbeit|||||10||||||10|||Bericht (ca. 5-7 S.)6|0|
-|Masterarbeit|||||||||||||||||
-|Mastermodul|Masterarbeit|||||30|||||||10|15|Masterarbeit (ca. 80 S., 100 %) und<br>mündliche Präsentation(ca. 30 Min.,0 %)|2|
-||Oberseminar||||2||||||||5||||
-|Summen SWS und ECTS||3-6|0-2|0|15<br>-<br>21|120|107|107|107|15|15|107|15|15|||
+|Modulbezeichnung|Lehrveran-<br>staltun||SWS<br>|ECTS|Workload-V<br>in E|erteilu<br> CTS-|ng pro Seme<br>Punkten<sup>1</sup>|ster||Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||g|V|Ü<br>P|S|1.<br>2.<br>3.|4.|5.<br>6.|7.|8.||note|
+|Freies Ergänzungsstudium II|vg|l. § 4 A|bs. 3|5||||||vgl. § 4 Abs. 2|0|
+|Schwerpunkt Kunst- und Kulturwisse<br>|nschaften|||||||||||
+|Innereuropäische und globale<br>AustauschprozesseI|Oberseminar|||2<br>5||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Innereuropäische und globale<br>AustauschprozesseII|Oberseminar|||2<br>5||5||||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Schwerpunktmodul Kunst- und<br>Kulturwissenschaften I|Oberseminar|||2<br>5|||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Schwerpunktmodul Kunst- und<br>Kulturwissenschaften II|Oberseminar|||2<br>5|||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Praktikum/Projekt Kunst- und<br>Kulturwissenschaften|Praktikum oder<br>Projektmitarbeit|||10|||10|||Bericht (ca. 5-7 S.)<sup>6</sup>|0|
+|Schwerpunkt Museumsstudien||||||||||||
+|Grundlagen der Museologie I|Oberseminar|||2<br>5|5|||||Bericht(ca. 5-7 S.)|1|
+|Grundlagen der Museologie II|Oberseminar|||2<br>5|||5|||Bericht (ca. 5-7 S.)|1|
+|Schwerpunktmodul Museums-<br>studien I|Oberseminar|||2<br>5|||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Schwerpunktmodul Museums-<br>studien II|Oberseminar|||2<br>5|||5|||Schriftliche Hausarbeit (ca. 10-20 S., 100 %) mit<br>Präsentation(ca. 20-30Min., 0 %)|1|
+|Praktikum/Projekt Museumsstudien|Praktikum oder<br>|||10|||10|||Bericht (ca. 5-7 S.)<sup>6</sup>|0|
+|<br>Schwerpunkt Digitale Kunstgeschicht|Projektmitarbeit<br>e<br>Vrln mit|||||||||||
+|Grundlagen der Informatik|oesug<br>Übung|3|2|5||5||||Klausur (60 Min.)|0|
+|Schwerpunktmodul Digitale<br>Kunstgeschichte I|Oberseminar|||2<br>5||5||||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Schwerpunktmodul Digitale<br>Kunstgeschichte II|Oberseminar|||2<br>5|||5|||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Schwerpunktmodul Digitale Bild-<br>und Medienwissenschaften|Oberseminar|||2<br>5|||5|||Portfolio (ca. 15 S.)<sup>3</sup>oder<br>Schriftliche Hausarbeit (ca. 10-20 S., 100 %)<br>mitPräsentation(ca. 20-30Min., 0 %)<sup>2</sup>|1|
+|Praktikum/Projekt Digitale<br>|Praktikum oder<br>|||10|||10|||Bericht (ca. 5-7 S.)<sup>6</sup>|0|
+|Kunstgeschichte<br>Masterarbeit|Projektmitarbeit|||||||||||
+|<br>Mastermodul|Masterarbeit<br>Oberseminar|||30<br>2<br>||||10<br>5|15|Masterarbeit (ca. 80 S., 100 %) und<br>mündliche Präsentation(ca. 30 Min.,0 %)|2|
+|Summ|en SWS und ECTS|3-6|0-2<br>0|15<br>-<br>21<br>120|10<sup>7</sup><br>10<sup>7</sup><br>10<sup>7</sup>|15|15<br>10<sup>7</sup>|15|15|||
 
 8 
 
-|Modulbezeichnung|Lehrveran-|SWS|SWS|SWS|SWS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||staltung|V|Ü|P|S|ECTS|1.|2.|<br>3.|<br>4.|5.|6.|7.|8.|Art und Umfang der Prüfung||
-|||Ohne Wahlpflichtmodule,<br>je nach Schwerpunkt<br>30-36 SWS|||||120||||||||||
+|Modulbezeichnung|Lehrveran-<br>staltung<br>SWS<br>ECTS<br>V<br>Ü<br>P<br>S<br>1|Workload-Verteilung pro Semester<br>in ECTS-Punkten<sup>1</sup><br>Art und Umfang der Prüfung<br>.<br>2.<br>3.<br>4.<br>5.<br>6.<br>7.<br>8.|Faktor<br>Modul-<br>note|
+|---|---|---|---|
+||Ohne Wahlpflichtmodule,|||
+||je nach Schwerpunkt<br>30-36 SWS|120||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

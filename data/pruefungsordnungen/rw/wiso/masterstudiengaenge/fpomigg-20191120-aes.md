@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOMiGG 20191120 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Gesundheitsmanagement_und_-oekonomie/Aenderungssatzungen/FPOMiGG_20191120_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:53+00:00
-page_count_chars: 11283
+scraped_at: 2026-07-01T11:02:06+00:00
+page_count_chars: 11449
 ---
 
 # FPOMiGG 20191120 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 11283
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Gesundheitsmanagement_und_-oekonomie/Aenderungssatzungen/FPOMiGG_20191120_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMiGG –** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMiGG –** 
 
-## **Vom 20. November 2019** 
+# **Vom 20. November 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmanagement und Gesundheitsökonomie der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOMiGG – vom 15. Mai 2015, zuletzt geändert durch Satzung vom 18. August 2017, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmana
 
 2. In § 1 werden das Wort „Fachprüfungsordnung“ durch die Worte „Fachstudien- und Prüfungsordnung“ und nach den Worten „Gesundheitsökonomie“ mit dem“ das Wort „Abschluss“ durch die Worte „Abschlussziel des“ ersetzt. 
 
-## 3. Die Regelung in § 2 erhält folgende neue Fassung: 
+# 3. Die Regelung in § 2 erhält folgende neue Fassung: 
 
 „(1) Als einschlägiger Abschluss im Sinne des § 26 Abs. 1 Satz 1 Nr. 1 **MPOWISO** wird ein Abschluss in einem wirtschaftswissenschaftlichen Studiengang (insbesondere Bachelorstudiengang Wirtschaftswissenschaften an der FAU sowie vergleichbare Studiengänge anderer Hochschulen) oder einem nicht-wirtschaftswissenschaftlichen Studiengang mit fachspezifischen wirtschaftswissenschaftlichen Kenntnissen im Umfang von mindestens 50 ECTS-Punkten (exklusive Bachelorarbeit) davon mindestens 5 ECTS- Punkten aus fachspezifischen volkswirtschaftlichen Modulen sowie mindestens 10 ECTS-Punkten in der Fachgruppe Statistik anerkannt. 
 
@@ -36,7 +36,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Gesundheitsmana
 
 2. Nachweis über fachspezifische Inhalte in Gesundheitsmanagement/-ökonomie im bisherigen Studium, soweit vorhanden; der Nachweis kann z. B. durch ein Transcript of Records oder einen aktuellen Notenspiegel, aus dem die entsprechenden Module hervorgehen, geführt werden. 
 
-(3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Nr. 2.3 **Anlage MPOWISO** und Abs. 2 einzureichenden Unterlagen der Bewerberinnen und Bewerber, deren Gesamtnote des Abschlusses nach Abs. 1 nicht schlechter 
+(3)<sup>1</sup> In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Nr. 2.3 **Anlage MPOWISO** und Abs. 2 einzureichenden Unterlagen der Bewerberinnen und Bewerber, deren Gesamtnote des Abschlusses nach Abs. 1 nicht schlechter 
 
 1 
 
@@ -83,7 +83,7 @@ als 3,0 beträgt, nach folgenden Kriterien mit den nachstehenden maximal zu verg
 
 2 
 
-**Tabelle 3 Punktevergabe nach § 2 Abs. 3 Nr. 3** 
+**Tabelle** **<u>3 Punktevergabe nach § 2 Abs. 3 Nr. 3</u>** 
 
 |**Akademische**<br>**Vorbildung GM**<br>**(in ECTS-Punkten)**|**Punkte**|**Akademische**<br>**Vorbildung GM**<br>**(in ECTS-**<br>**Punkten)**|**Punkte**|
 |---|---|---|---|
@@ -95,9 +95,9 @@ als 3,0 beträgt, nach folgenden Kriterien mit den nachstehenden maximal zu verg
 |15|11|32,5|19|
 |17,5|12,5|35|20|
 
-3Praktika, die zur Anfertigung der Bachelorarbeit geleistet wurden, oder notwendig waren, um die Hochschulzugangsberechtigung zu erwerben, werden nicht als berufspraktische Erfahrung i. S. d. Abs. 2 Nr. 1 gewertet.[4] Die Gesamtpunktzahl der erreichten Punkte ergibt sich aus der Addition der in den einzelnen gewichteten Kriterien vergebenen Punkte.[5] Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[6] Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
+3Praktika, die zur Anfertigung der Bachelorarbeit geleistet wurden, oder notwendig waren, um die Hochschulzugangsberechtigung zu erwerben, werden nicht als berufspraktische Erfahrung i. S. d. Abs. 2 Nr. 1 gewertet.<sup>4</sup> Die Gesamtpunktzahl der erreichten Punkte ergibt sich aus der Addition der in den einzelnen gewichteten Kriterien vergebenen Punkte.<sup>5</sup> Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.<sup>6</sup> Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Nr. 5.2.1 und 5.2.2 **Anlage MPOWISO** zu einem Zugangsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.[3] In dem Zugangsgespräch werden bis zu 20 Punkte vergeben.[4] Das Zugangsgespräch erstreckt sich auf die im Folgenden aufgeführten Kriterien und wird mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, gemäß der Nr. 5.2.1 und 5.2.2 **Anlage MPOWISO** zu einem Zugangsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen ob die Bewerberinnen und Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> In dem Zugangsgespräch werden bis zu 20 Punkte vergeben.<sup>4</sup> Das Zugangsgespräch erstreckt sich auf die im Folgenden aufgeführten Kriterien und wird mit den nachstehenden maximal zu vergebenden Punkten bewertet: 
 
 1. Qualität der fachspezifischen Grundkenntnisse aus dem Bereich Wirtschaftswissenschaften, insbesondere Betriebswirtschaftslehre und Volkswirtschaftslehre (maximal 10 Punkte), 
 
@@ -105,23 +105,25 @@ als 3,0 beträgt, nach folgenden Kriterien mit den nachstehenden maximal zu verg
 
 5Die Punktevergabe in den einzelnen Kriterien nach Satz 4 wird anhand folgender Maßstäbe vorgenommen: 
 
-|**abelle 4 Punktevergabe nach § 2 Abs. 4Satz 4**||
+|**Tabelle 4 Punktevergabe nach § 2 Abs. 4Satz 4**<br>||
 |---|---|
-|**Übereinstimmung mit den Anforderung nach Abs. 4Satz 4 Nr. 1oder 2**|**Punkte**|
-|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach<br>Abs. 4 Satz 4 Nr. 1 oder 2|10|
-|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien<br>nach Abs. 4 Satz 4 Nr. 1 oder 2, wobei in einzelnen Punkten die Anforderun-<br>gen nicht oder nicht voll erfüllt werden|7,5|
+|**Übereinstimmung mit den Anforderung nach Abs. 4Satz 4 Nr. 1oder 2**<br>|**Punkte**|
+|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach<br>Abs. 4 Satz 4 Nr. 1 oder 2<br>|10|
+|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien<br>nach Abs. 4 Satz 4 Nr. 1 oder 2, wobei in einzelnen Punkten die Anforderun-<br>gen nicht oder nicht voll erfüllt werden<br>|7,5|
 |Überwiegende Übereinstimmung mit den Anforderungen aus den Kriterien<br>nach Abs. 4 Satz 4 Nr. 1 oder 2, wobei ansonsten die Anforderungen nicht<br>oder nicht voll erfüllt werden|5|
 |Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 Nr. 1 oder 2 werden<br>überwiegend nicht erfüllt|2,5|
 
 3 
 
-Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 Nr. 1 oder 2 werden 0 nicht oder so gut wie nicht erfüllt 
+Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 Nr. 1 oder 2 werden <u>nicht oder so gut wie nicht erfüllt</u> 
 
-6Die nach Satz 5 jeweils erreichten Punkte in den Kriterien nach Satz 4 Nr. 1 und 2 werden zu den Punkten aus der ersten Stufe des Qualifikationsfeststellungsverfahrens gemäß Abs. 3 addiert.[7] Ab einer insgesamt erreichten Punktzahl von mindestens 70 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
+0 
+
+6Die nach Satz 5 jeweils erreichten Punkte in den Kriterien nach Satz 4 Nr. 1 und 2 werden zu den Punkten aus der ersten Stufe des Qualifikationsfeststellungsverfahrens gemäß Abs. 3 addiert.<sup>7</sup> Ab einer insgesamt erreichten Punktzahl von mindestens 70 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
 
 4. In § 4 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen im Modul „The supply of medical services“ für alle Studierenden, die sich zum Zeitpunkt des Inkrafttretens dieser Änderungssatzung in Bezug auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden.“ 
+„(3)<sup>1</sup> Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen im Modul „The supply of medical services“ für alle Studierenden, die sich zum Zeitpunkt des Inkrafttretens dieser Änderungssatzung in Bezug auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden.“ 
 
 5. Die Tabelle in der Anlage wird wie folgt geändert: 
 
@@ -143,15 +145,15 @@ Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 Nr. 1 oder 2 werden 0 nic
 
 bb) In Unterzeile 2 wird vor der Zahl „51“ das Wort „mind.“ gestrichen. 
 
-- f) In den Erläuterungen unterhalb der Tabelle wird nach Erläuterung[3] folgende neue Erläuterung[4] angefügt: 
+- f) In den Erläuterungen unterhalb der Tabelle wird nach Erläuterung<sup>3</sup> folgende neue Erläuterung<sup>4</sup> angefügt: 
 
 4 
 
-„[4 ] Die Unterrichts- und Prüfungssprache in diesem Modul ist Englisch. Für das Bestehen der Prüfung sind Englischkenntnisse mindestens auf dem Niveau B2 des GER notwendig. Das Modul entspricht in seiner neuen Bezeichnung „The supply of medical services“ in Bezug auf Inhalt, fachliche Kompetenzen und Prüfungsleistung dem vorherigen Modul „Gesundheitsökonomie II“ (written examination = Klausur).“ 
+„<sup>4</sup> Die Unterrichts- und Prüfungssprache in diesem Modul ist Englisch. Für das Bestehen der Prüfung sind Englischkenntnisse mindestens auf dem Niveau B2 des GER notwendig. Das Modul entspricht in seiner neuen Bezeichnung „The supply of medical services“ in Bezug auf Inhalt, fachliche Kompetenzen und Prüfungsleistung dem vorherigen Modul „Gesundheitsökonomie II“ (written examination = Klausur).“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen im Modul „The supply of medical services“ für alle Studierenden, die sich zum Zeitpunkt des Inkrafttretens dieser Änderungssatzung in Bezug auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden. 
+1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen im Modul „The supply of medical services“ für alle Studierenden, die sich zum Zeitpunkt des Inkrafttretens dieser Änderungssatzung in Bezug auf dieses Modul noch nicht in einem laufenden Prüfungsverfahren befinden. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. Mai 2019 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 20. November 2019. 
 

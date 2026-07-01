@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Januar 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES_MA_ArbMarktPers.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:34:13+00:00
-page_count_chars: 2142
+scraped_at: 2026-07-01T11:00:18+00:00
+page_count_chars: 2138
 ---
 
 # 10. Januar 2014
@@ -12,13 +12,13 @@ page_count_chars: 2142
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES_MA_ArbMarktPers.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP -** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP -** 
 
-## Vom 10. Januar 2014 
+# Vom 10. Januar 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Arbeitsmarkt und Personal der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOAuP - vom 17. Juli 2009, zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ aa) Das Wort „sieben“ wird durch das Wort „sechs“ ersetzt.
 
 cc) Die bisherigen Nrn. 6 und 7 werden zu Nrn. 5 und 6. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Die Änderungen in der lfd. Nr. 2 gelten für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

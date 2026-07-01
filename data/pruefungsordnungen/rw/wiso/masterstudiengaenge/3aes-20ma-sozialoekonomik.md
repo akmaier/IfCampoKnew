@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-Sozialoekonomik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:42:15+00:00
-page_count_chars: 2326
+scraped_at: 2026-07-01T11:06:36+00:00
+page_count_chars: 2324
 ---
 
 # 19. Januar 2012
@@ -18,7 +18,7 @@ Vom 19. Januar 2012
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOSozialökonomik - vom 2. September 2009, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Sozialökonomik
 
    - d) Am Ende der Tabelle wird die Fußnote „*“ gestrichen. Die Fußnote „**“ wird zur Fußnote „*“ und im Fußnotentext werden nach dem Wort „Zwei“ die Worte „der drei Module“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

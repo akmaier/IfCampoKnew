@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. Januar 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-Wirtschinf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:42+00:00
-page_count_chars: 4194
+scraped_at: 2026-07-01T10:52:38+00:00
+page_count_chars: 4190
 ---
 
 # 27. Januar 1999
@@ -68,15 +68,15 @@ Die Satzung wurde am 27. Januar 1999 in der Universität Erlangen-Nürnberg nied
 
 2 
 
-## **Nr. I/1- 276-17** 
+# **Nr. I/1- 276-17** 
 
-## **Verordnung über die Bekanntmachung von Hochschulsatzungen (HSchBekV)(BayRS 2210-1-1-1-K);** hier: Bekanntgabe der Niederlegung 
+# **Verordnung über die Bekanntmachung von Hochschulsatzungen (HSchBekV)(BayRS 2210-1-1-1-K);** hier: Bekanntgabe der Niederlegung 
 
-## **Die Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg,** 
+# **Die Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg,** 
 
 beschlossen vom Senat der Universität Erlangen-Nürnberg am 16. Dezember 1998 und Genehmigung des Bayerischen Staatsministerium für Wissenschaft, Forschung und Kunst mit Schreiben vom 15. Januar 1999 Nr. X/4-5e69IX-6/193 063) und ordnungsgemäßer Ausfertigung am 27. Januar 1999, 
 
-## wird **bekanntgemacht durch Niederlegung.** 
+# wird **bekanntgemacht durch Niederlegung.** 
 
 Die o.a. Satzung ist niedergelegt im Referat I/1 der Zentralen Universitätsverwaltung, Schloßplatz 4, I. Stock, Zimmer Nr. 1.024. Eine mit Genehmigungs- und Bekanntmachungsvermerk versehene Ausfertigung der Satzung liegt bis zu ihrer Veröffentlichung im Amtsblatt Teil II des Bayerischen Staatsministeriums für Unterricht, Kultus, Wissenschaft und Kunst im Referat I/1 zur Einsicht während der Dienststunden bereit. 
 

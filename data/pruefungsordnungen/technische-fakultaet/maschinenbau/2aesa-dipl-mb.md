@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. Oktober 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-Dipl-MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:28:18+00:00
-page_count_chars: 4865
+scraped_at: 2026-07-01T11:44:58+00:00
+page_count_chars: 4818
 ---
 
 # 27. Oktober 1999
@@ -14,11 +14,9 @@ page_count_chars: 4865
 
 **Zweite Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg** 
 
-## Vom 27. Oktober 1999 
+# Vom 27. Oktober 1999 
 
 Aufgrund von Art. 6 und Art. 81 des Bayerischen Hochschulgesetzes erläßt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
-
-**==> picture [19 x 12] intentionally omitted <==**
 
 Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg vom 2. September 1997 (KWMBl II 1998 S. 699), geändert durch Satzung vom 23. September 1998 (KWMBl  II S. 1453), wird wie folgt geändert: 
 
@@ -66,7 +64,7 @@ Prof. Dr.-Ing. G. Kuhn Prorektor
 
 Die Satzung wurde am 27. Oktober 1999 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 27. Oktober 1999 durch Anschlag in der Universität Erlangen-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 27. Oktober 1999. 
 
-## _**Vorbemerkung:**_ 
+# **_<u>Vorbemerkung:</u>_** 
 
 Der Gesamtumfang des Vordiploms Maschinenbau wird von 103 SWS auf 97 SWS abgebaut. Die Lehrveranstaltungen 
 
@@ -78,17 +76,19 @@ Der Gesamtumfang des Vordiploms Maschinenbau wird von 103 SWS auf 97 SWS abgebau
 
 entfallen und die bisherigen Lehrveranstaltungen 
 
-   - 4) Mathematik für Ingenieure IV (4V+2UE) 
+- 4) Mathematik für Ingenieure IV (4V+2UE) 
 
-   - 5) Technische Thermodynamik (4V+3UE) 
+- 5) Technische Thermodynamik (4V+3UE) 
 
-- werden bei der Mathematik für Ingenieure IV auf (2V+1UE) und bei der Technischen Thermodynamik auf (4V+2UE) gekürzt. Neu hinzu kommen die Lehrveranstaltungen 
+werden bei der Mathematik für Ingenieure IV auf (2V+1UE) und bei der Technischen Thermodynamik auf (4V+2UE) gekürzt. Neu hinzu kommen die Lehrveranstaltungen 
 
-   - 6) Betriebliches Rechnungswesen I und II (2V) 7) Grundlagen der Meßtechnik (1V+1P), 
+- 6) Betriebliches Rechnungswesen I und II (2V) 
+
+- 7) Grundlagen der Meßtechnik (1V+1P), 
 
 wobei beide neu hinzukommenden Fächer durch einen Schein nachzuweisen sind. Nachdem mit der Konstruktiven Geometrie und dem Physikalischen Praktikum je ein Schein entfällt, bleibt somit die Gesamtzahl der Scheine unverändert. 
 
-## _**Begründung der einzelnen Punkte der Änderungssatzung:**_ 
+# **_<u>Begründung der einzelnen Punkte der Änderungssatzung:</u>_** 
 
 - Zu 1. Entgegen der Rahmenprüfungsordnung war bisher die Bearbeitungszeit der beiden Studienarbeiten formal in SWS umgerechnet und im Gesamtstundenumfang enthalten. 
 

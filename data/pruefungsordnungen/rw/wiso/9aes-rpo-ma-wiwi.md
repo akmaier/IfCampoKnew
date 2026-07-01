@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/9AES_RPO-MA-WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:24:27+00:00
-page_count_chars: 23874
+scraped_at: 2026-07-01T10:40:43+00:00
+page_count_chars: 23939
 ---
 
 # 25. Juli 2014
@@ -12,13 +12,13 @@ page_count_chars: 23874
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/9AES_RPO-MA-WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Neunte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI -** 
+# **Neunte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI -** 
 
-## Vom 25. Juli 2014 
+Vom 25. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) und § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach bereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI - vom 16. Juli 2009, zuletzt geändert durch Satzung vom 26. Juli 2013, wird wie folgt geändert: 
 
@@ -26,11 +26,11 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 2. § 1 Abs. 1 wird wie folgt geändert: 
 
-   - a) Vor dem Wort „Diese“ wird die hochgestellte Zahl „[1] “ eingefügt. 
+   - a) Vor dem Wort „Diese“ wird die hochgestellte Zahl „<sup>1</sup> “ eingefügt. 
 
    - b) Nach Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-      - „[2] Sie wird ergänzt durch die jeweiligen **Fachprüfungsordnungen** 
+      - „<sup>2</sup> Sie wird ergänzt durch die jeweiligen **Fachprüfungsordnungen** .“ 
 
 3. § 4 wird wie folgt geändert: 
 
@@ -50,7 +50,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
    - a) In Abs. 1 Satz 4 werden nach den Worten „es sei denn, die“ die Worte „Studierende oder“ durch das Wort „bzw.“ ersetzt. 
 
-## b) Abs. 2 erhält folgende neue Fassung: 
+# b) Abs. 2 erhält folgende neue Fassung: 
 
 „Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung.“ 
 
@@ -60,7 +60,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
    - bb)  In Satz 3 werden die Worte „Prüferin oder dem Prüfer“ durch die Worte „bzw. dem Prüfenden“ ersetzt. 
 
-## 6. § 8 wird wie folgt geändert: 
+# 6. § 8 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 3 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -86,7 +86,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 - cc) In Satz 4 werden die Worte „Rektorin oder der Rektor“ durch die Worte „Präsidentin bzw. der Präsident“ sowie die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
-## 7. § 9 wird wie folgt geändert: 
+# 7. § 9 wird wie folgt geändert: 
 
 - a) In der Überschrift werden die Worte „Prüferinnen und Prüfer“ durch das Wort „Prüfende“ ersetzt. 
 
@@ -94,7 +94,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 - c) In Abs. 2 werden die Worte „Prüferin oder des Prüfers“ durch die Worte „bzw. des Prüfenden“ ersetzt. 
 
-## d) Abs. 3 wird wie folgt geändert: 
+# d) Abs. 3 wird wie folgt geändert: 
 
       - aa)  In Satz 1 wird nach dem Wort „Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -116,21 +116,21 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 3 
 
-## 9. § 11 wird wie folgt geändert: 
+# 9. § 11 wird wie folgt geändert: 
 
-## a) Abs. 2 Satz 1 wird wie folgt geändert: 
+# a) Abs. 2 Satz 1 wird wie folgt geändert: 
 
 - aa)  Nach dem Wort „Professorin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
 - bb) Die Worte „Vorsitzenden oder“ werden durch das Wort „bzw.“ ersetzt. cc) Nach dem Wort „Hochschullehrerin“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## b) Abs. 3 wird wie folgt geändert: 
+# b) Abs. 3 wird wie folgt geändert: 
 
 - aa)  In Satz 4 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
 - bb) In Satz 5 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 10. § 12 wird wie folgt geändert: 
+# 10. § 12 wird wie folgt geändert: 
 
 - a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
 
@@ -154,7 +154,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
    - dd) Satz 4 wird gestrichen. 
 
-## e) Abs. 4 wird wie folgt geändert: 
+# e) Abs. 4 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden die Worte „oder angerechneter“ gestrichen. 
 
@@ -164,9 +164,9 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 11. In § 13 Abs. 1 Satz 2 wird nach den Worten „Person oder der“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 12. § 15 wird wie folgt geändert: 
+# 12. § 15 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
    - aa) Nach den Worten „beeinflusst haben,“ wird das Wort „ist“ durch das Wort „kann“ ersetzt. 
 
@@ -178,29 +178,29 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 - b) In Abs. 2 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ sowie die Worte „Prüferin oder dem Prüfer“ durch die Worte „bzw. dem Prüfenden“ ersetzt. 
 
-## 13. Nach § 15 wird folgender neuer § 15 a eingefügt: 
+# 13. Nach § 15 wird folgender neuer § 15 a eingefügt: 
 
-## „ **§ 15 a Anwesenheitspflicht** 
+# „ **§ 15 a Anwesenheitspflicht** 
 
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt oder, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 5 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.<sup>3</sup> Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.“ 
 
-## 14. § 16 wird wie folgt geändert: 
+# 14. § 16 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 wird der Buchstabe „S.“ durch das Wort „Satz“ ersetzt. 
 
 - b) In Abs. 2 werden das Wort „werden“ durch das Wort „wird“ ersetzt sowie die Worte „und die Anzahl der Teilleistungen“ gestrichen. 
 
-## 15. § 17 wird wie folgt geändert: 
+# 15. § 17 wird wie folgt geändert: 
 
-- a) Abs. 2 wird wie folgt geändert: 
+# a) Abs. 2 wird wie folgt geändert: 
 
    - aa) In Satz 4 werden die Worte „Prüferin oder einem Prüfer“ durch die Worte „bzw. einem Prüfenden“ ersetzt. 
 
@@ -230,7 +230,7 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 - bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 16. § 18 wird wie folgt geändert: 
+# 16. § 18 wird wie folgt geändert: 
 
 - a) Abs. 1 Satz 2 wird wie folgt geändert: 
 
@@ -242,9 +242,9 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 - b) In Abs. 2 Satz 1 werden nach den Worten „Personen setzt“ die Worte „jede bzw.“ eingefügt. 
 
-## c) Abs. 3 wird wie folgt geändert: 
+# c) Abs. 3 wird wie folgt geändert: 
 
-aa) Satz 1 wird wie folgt geändert: 
+- aa) Satz 1 wird wie folgt geändert: 
 
    - (1) Nach dem Wort „aufzunehmen“ wird das Wort „ist“ durch das Wort „sind“ ersetzt. 
 
@@ -256,23 +256,23 @@ aa) Satz 1 wird wie folgt geändert:
 
 - bb) In Satz 2 wird nach dem Wort „Beisitzerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## d) Abs. 4 wird wie folgt geändert: 
+# d) Abs. 4 wird wie folgt geändert: 
 
-      - aa) In Satz 1 wird nach den Worten „als Zuhörerinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- aa) In Satz 1 wird nach den Worten „als Zuhörerinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) In Satz 2 wird nach den Worten „werden Zuhörerinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) In Satz 2 wird nach den Worten „werden Zuhörerinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-17. § 18 a Satz 4 wird wie folgt geändert: 
+# 17. § 18 a Satz 4 wird wie folgt geändert: 
 
-   - a) Nach den Worten „auf Antrag der“ wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
+- a) Nach den Worten „auf Antrag der“ wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
 7 
 
 - b) Nach den Worten „von einer“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 18. § 19 wird wie folgt geändert: 
+# 18. § 19 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
    - aa) In Satz 1 werden die Worte „jeweiligen Prüferin oder dem jeweiligen Prüfer“ werden durch die Worte „bzw. dem jeweiligen Prüfenden“ ersetzt. 
 
@@ -284,57 +284,57 @@ aa) Satz 1 wird wie folgt geändert:
 
    - bb) Nach der Zahl „4,3“ wird das Komma durch das Wort „und“ ersetzt. cc) Nach der Zahl „4,7“ werden das Wort „und“ und die Zahl „5,0“ gestrichen. 
 
-- c) Abs. 5 wird wie folgt geändert: 
+# c) Abs. 5 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach dem Wort „errechnet;“ die Worte „wird nur eine Prüfung abgehalten, bildet sie die Modulnote.“ eingefügt; der bisherige Halbsatz 2 wird zu Satz 2. 
+- aa) In Satz 1 werden nach dem Wort „errechnet;“ die Worte „wird nur eine Prüfung abgehalten, bildet sie die Modulnote.“ eingefügt; der bisherige Halbsatz 2 wird zu Satz 2. 
 
-   - bb) In Satz 2 (neu) wird zu Beginn des Satzes das Wort „die“ durch das Wort „Die“ ersetzt. 
+- bb) In Satz 2 (neu) wird zu Beginn des Satzes das Wort „die“ durch das Wort „Die“ ersetzt. 
 
-   - cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
+- cc) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
-   - dd) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „3“ ersetzt. 
+- dd) In Satz 5 (neu) wird die Zahl „2“ durch die Zahl „3“ ersetzt. 
 
-## 19. § 20 wird wie folgt geändert: 
+# 19. § 20 wird wie folgt geändert: 
 
 - a) In Abs. 3 werden die Worte „Studierenden oder“ durch das Wort „bzw.“ ersetzt. 
 
 - b) In Abs. 4 Satz 2 werden das Wort „Satz“ und die Zahl „2“ gestrichen. 
 
-## 20. § 21 wird wie folgt geändert: 
+# 20. § 21 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
+- aa) Die Worte „Studierende oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-   - bb) Nach den Worten „Einsicht in ihre“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
+- bb) Nach den Worten „Einsicht in ihre“ wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - cc) Die Worte „Prüferinnen und Prüfer“ werden durch das Wort „Prüfenden“ ersetzt. 
+- cc) Die Worte „Prüferinnen und Prüfer“ werden durch das Wort „Prüfenden“ ersetzt. 
 
 8 
 
-## b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+      - aa) In Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - bb) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+      - bb) In Satz 3 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
 21. In § 22 Abs. 2 Satz 2 wird nach dem Wort „Absolventin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 22. § 24 wird wie folgt geändert: 
+# 22. § 24 wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
+   - a) In Abs. 1 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-- b) In Abs. 3 Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
+   - b) In Abs. 3 Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## 23. § 25 wird wie folgt geändert: 
+23. § 25 wird wie folgt geändert: 
 
-## a) Abs. 1 Satz 6 wird wie folgt geändert: 
+   - a) Abs. 1 Satz 6 wird wie folgt geändert: 
 
-   - aa) Nach den Worten „gilt die Prüfung als“ wird das Wort „endgültig“ gestrichen. 
+      - aa) Nach den Worten „gilt die Prüfung als“ wird das Wort „endgültig“ gestrichen. 
 
-   - bb) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. cc) Das Wort „Erziehungsurlaub“ wird durch das Wort „Elternzeit“ ersetzt. 
+      - bb) Die Worte „Studierenden oder“ werden durch das Wort „bzw.“ ersetzt. cc) Das Wort „Erziehungsurlaub“ wird durch das Wort „Elternzeit“ ersetzt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
 aa) Satz 3 wird wie folgt geändert: 
 
@@ -344,9 +344,9 @@ aa) Satz 3 wird wie folgt geändert:
 
 bb) In  Satz 8 werden nach den Worten „auf Antrag“ die Worte „der bzw.“ eingefügt. 
 
-cc) In Satz 9 wird nach den Worten „keinen von“ das Wort „den“ durch die Worte „der bzw. dem“ ersetzt. 
+   - cc) In Satz 9 wird nach den Worten „keinen von“ das Wort „den“ durch die Worte „der bzw. dem“ ersetzt. 
 
-## 24. § 26 wird wie folgt geändert: 
+24. § 26 wird wie folgt geändert: 
 
 9 
 
@@ -370,17 +370,17 @@ cc) In Satz 9 wird nach den Worten „keinen von“ das Wort „den“ durch die
 
 - c) In Abs. 3 wird nach dem Wort „Bewerberinnen“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-## d) Abs. 4 Satz 1 wird wie folgt geändert: 
+# d) Abs. 4 Satz 1 wird wie folgt geändert: 
 
 - aa) Das Wort „Studierende“ wird durch die Worte „Bewerberinnen bzw. Bewerber“ ersetzt. 
 
 - bb) Nach den Zahlen „162“ und „189“ wird jeweils das Wort „ECTS“ durch das Wort „ECTS-Punkte“ ersetzt. 
 
-## 25. § 29 wird wie folgt geändert: 
+# 25. § 29 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden die Worte „Studierende oder“ sowie nach den Worten „aus ihrem“ das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-## b) Abs. 2 wird wie folgt geändert: 
+# b) Abs. 2 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden die Worte „oder vom“ durch die Worte „bzw. dem“ ersetzt. 
 
@@ -404,7 +404,7 @@ cc) In Satz 9 wird nach den Worten „keinen von“ das Wort „den“ durch die
 
 - e) In Abs. 5 Satz 1 werden die Worte „Vorsitzenden oder“ durch das Wort „bzw.“ ersetzt. 
 
-## f) Abs. 6 wird wie folgt geändert: 
+# f) Abs. 6 wird wie folgt geändert: 
 
 - aa) In Satz 1 wird nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
@@ -420,13 +420,13 @@ cc) In Satz 9 wird nach den Worten „keinen von“ das Wort „den“ durch die
 
 - dd) In Satz 4 werden nach den Worten „Masterarbeit muss“ die Worte „die bzw.“ eingefügt sowie nach den Worten „die bzw. der“ (neu) die Worte „oder die“ gestrichen. 
 
-## g) Abs. 7 wird wie folgt geändert: 
+# g) Abs. 7 wird wie folgt geändert: 
 
 - aa) In Satz 1 werden nach dem Wort „Betreuerin“ das Wort „oder“ durch das Wort „bzw.“ sowie nach der Zahl „2“ die Worte „Satz 3 und 4 gilt“ durch die Worte „Sätze 4 bis 6 gelten“ ersetzt. 
 
 - bb) In Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-## h) Abs. 9 wird wie folgt geändert: 
+# h) Abs. 9 wird wie folgt geändert: 
 
 - aa) Satz 2 wird wie folgt geändert: 
 
@@ -446,19 +446,19 @@ bb) Satz 4 wird wie folgt geändert:
 
 - (3) Nach dem Wort „Masterarbeit“ werden die Worte „als Zweitversuch“ eingefügt. 
 
-## 26. § 30 wird wie folgt geändert: 
+# 26. § 30 wird wie folgt geändert: 
 
-   - a) In Satz 2 werden die Worte „Studierende oder“ sowie nach den Worten „legt sie“ das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
+- a) In Satz 2 werden die Worte „Studierende oder“ sowie nach den Worten „legt sie“ das Wort „oder“ jeweils durch das Wort „bzw.“ ersetzt. 
 
-   - b) In Satz 6 werden nach den Worten „auf Antrag“ die Worte „der bzw.“ eingefügt. 
+- b) In Satz 6 werden nach den Worten „auf Antrag“ die Worte „der bzw.“ eingefügt. 
 
-27. Die Anlage wird wie folgt geändert: 
+# 27. Die Anlage wird wie folgt geändert: 
 
-   - a) In Nr. 1 Satz 2 werden nach den Worten „ob die“ die Worte „Bewerberinnen und“ eingefügt. 
+- a) In Nr. 1 Satz 2 werden nach den Worten „ob die“ die Worte „Bewerberinnen und“ eingefügt. 
 
-   - b) In Nrn. 4.2 und 4.3 wird jeweils das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
+- b) In Nrn. 4.2 und 4.3 wird jeweils das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
-## c) Nr. 5 wird wie folgt geändert: 
+- c) Nr. 5 wird wie folgt geändert: 
 
 aa) Nr. 5.1 wird wie folgt geändert: 
 
@@ -508,15 +508,15 @@ bb) Nr. 5.2 wird wie folgt geändert:
 
    - „8. Nachteilsausgleich 
 
-      - 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
+      - 1Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
 
 - g) Die bisherige Nr. 8 wird zu Nr. 9. 
 
 - h) In Nr. 9 (neu) wird das Zeichen „/“ durch das Wort „bzw.“ ersetzt. 
 
-## 28. Das Inhaltsverzeichnis wird angepasst. 
+# 28. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2014 in Kraft. 
 

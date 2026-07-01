@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_RPO-MA-WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:24:32+00:00
-page_count_chars: 3308
+scraped_at: 2026-07-01T10:40:46+00:00
+page_count_chars: 3344
 ---
 
 # 26. Juli 2013
@@ -12,29 +12,29 @@ page_count_chars: 3308
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/8AES_RPO-MA-WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Achte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI -** 
+# **Achte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI -** 
 
 Vom 26. Juli 2013 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach bereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWIWI - vom 16. Juli 2009, zuletzt geändert durch Satzung vom 13. Februar 2013, wird wie folgt geändert: 
 
-## 1. § 10 wird wie folgt geändert: 
+# 1. § 10 wird wie folgt geändert: 
 
-- a) Abs. 3 erhält folgende neue Fassung: 
+a) Abs. 3 erhält folgende neue Fassung: 
 
 „(3) Unbeschadet der Fristen gemäß §§ 7, 25 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt von gemäß Abs. 2 Satz 1 angemeldeten schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der Prüfenden oder dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.“ 
 
-## b) Es wird folgender neuer Abs. 4 angefügt: 
+# b) Es wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die Studierende oder der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen. 5Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+„(4)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die Studierende oder der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen. 5Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
-## 2. In § 16 Abs. 1 Satz 1 wird folgender Buchstabe angefügt: 
+# 2. In § 16 Abs. 1 Satz 1 wird folgender Buchstabe angefügt: 
 
-## „o. Antwort-Wahl-Verfahren“ 
+# „o. Antwort-Wahl-Verfahren“ 
 
 3. In § 17 Abs. 4 Satz 1 Nr. 2 werden nach den Worten „beantworteten Fragen“ die Worte „bzw. der zu erzielenden Punkte“ eingefügt. 
 
@@ -46,9 +46,9 @@ Die Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fach ber
 
 b) Abs. 4 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; die weiteren Stellen entfallen ohne Rundung.“ 
+„<sup>2</sup> Bei der Ermittlung der Note werden zwei Stellen nach dem Komma berücksichtigt; die weiteren Stellen entfallen ohne Rundung.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 
 

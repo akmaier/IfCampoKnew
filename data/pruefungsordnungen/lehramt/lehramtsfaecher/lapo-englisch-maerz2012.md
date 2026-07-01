@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.02.2009 i.d.F. 26.03.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Englisch-MAERZ2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:06:01+00:00
-page_count_chars: 12402
+scraped_at: 2026-07-01T08:37:23+00:00
+page_count_chars: 12551
 ---
 
 # pdf vom 26.02.2009 i.d.F. 26.03.2012
@@ -16,23 +16,23 @@ page_count_chars: 12402
 
 **Hinweis** : Für Studierende, die Ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 26. Februar 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Englisch im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg Vom 26. Februar 2009** 
 
-geändert durch Satzungen vom 28. September 2009 
-
-17. Dezember 2009 
-
-31. März 2010 
-
-15. Oktober 2010 
-
-28. März 2011 
-
-26. März 2012 
+- geändert durch Satzungen vom 28. September 2009 17. Dezember 2009 31. März 2010 15. Oktober 2010 28. März 2011 26. März 2012 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
-**1. Allgemeines** .......................................................................................................... 1 **§ 1 Geltungsbereich** ......................................................................................... 1 **§ 2 Grundlagen- und Orientierungsprüfung** .................................................. 1 **2. Lehramt an Gymnasien** ........................................................................................ 2 **§ 3 Inhalt, Aufbau und Gliederung des Studiums** .......................................... 2 **3. Lehramt an Grund-, Haupt- und Realschulen** .................................................... 4 **§ 4 Inhalt, Aufbau und Gliederung des Studiums** .......................................... 4 **4. Schluss- und Übergangsvorschriften** ................................................................. 6 **§ 5 Berechnung der Fachnote Fachwissenschaft** ......................................... 6 **§ 6 In-Kraft-Treten** ............................................................................................ 6 
+|**1. Allgemeines**.......................................................................................................... 1|
+|---|
+|**§ 1**<br>**Geltungsbereich**......................................................................................... 1|
+|**§ 2**<br>**Grundlagen- und Orientierungsprüfung**.................................................. 1|
+|**2. Lehramt an Gymnasien**........................................................................................ 2|
+|**§ 3**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 2|
+|**3. Lehramt an Grund-, Haupt- und Realschulen**.................................................... 4|
+|**§ 4**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 4|
+|**4. Schluss- und Übergangsvorschriften**................................................................. 6|
+|**§ 5**<br>**Berechnung der Fachnote Fachwissenschaft**......................................... 6|
+|**§ 6**<br>**In-Kraft-Treten**............................................................................................ 6|
 
 ## **1. Allgemeines** 
 
@@ -46,9 +46,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **2. Lehramt an Gymnasien** 
 
-**§ 3 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Im Studium des Lehramts Englisch an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
+**§ 3 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Im Studium des Lehramts Englisch an Gymnasien sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
 
-## 1. bis 6. Semester: 
+## <u>1. bis 6. Semester:</u> 
 
 |**FS**|**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studien-**<br>**leistungen / Zulassungsvor-**<br>**aussetzungen**|
 |---|---|---|---|---|---|
@@ -61,39 +61,39 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |4.-6.|Zwischenmodul<br>L-GYM Language|Writing in Academic Contexts<br>Phonetics I: Theory<br>Phonetics II: Error Treatment<br>Conversation Practice|2<br>1<br>1<br>2|10|ZulVSS: Basismodul<br>Language<br>Portfolio (5 Seiten) (50 %)<br>Schriftliche Prüfung (25 %)<br>Audioprüfung (25 %)|
 ||Summe:|||70||
 
-## 7. – 9. Semester: 
+## <u>7. – 9. Semester:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studien-**<br>**leistungen / Zulassungsvoraus-**<br>**setzungen**|
+|||||**ECTS-**|**Prüfungs- und Studien-**|
 |---|---|---|---|---|---|
+|**FS**|**Modul**|**Veranstaltungen/Art**|**SWS**|**Punkte**|**leistungen / Zulassungsvoraus-**<br>**setzungen**|
 |7.-9.|Hauptmodul<br>L-GYM Linguistics|Mittel- oder<br>Hauptseminar<br>Examenskurs|2<br>2|10|ZulVSS: Zwischenmodul L-GYM<br>Linguistics<br>K und/oder HA (80 %)<br>Mündliche Präsentation mit schriftli-<br>cher Dokumentation(20 %)|
 |7.-9.|Hauptmodul<br>L-GYM Literature|Mittel- oder<br>Hauptseminar<br>Examenskurs|2<br>2|10|ZulVSS: Zwischenmodul L-GYM<br>Literature<br>HA (80 %)<br>Mündliche Präsentation mit schriftli-<br>cher Dokumentation(20 %)|
 
 2 
 
-2Aus den folgenden Modulen ist eines auszuwählen; die übrigen Module können im Freien Bereich gewählt werden: 
+2Aus den folgenden Modulen ist eines auszuwählen; die übrigen Module können im <u>Freien Bereich gewählt werden:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen/Art**|**SWS**<br>|**ECTS-**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS-**<br>|**Prüfungs- und Studienleistungen /**<br>|
 |---|---|---|---|---|---|
-|||||**Punkte**||
+|||||**Punkte**|**Zulassungsvoraussetzungen**|
 |7.-9.|Optionsmodul<br>L-GYM Language|Sprachpraktischer<br>Oberkurs|2|5|Regelmäßige Teilnahme<br>erfolgreicher, mindestens mit ausrei-<br>chend bewerteter Leistungsnachweis<br>(z.B. mündliche Präsentation, schrift-<br>liche Arbeit, Übersetzung)|
 |7.-9.|Optionsmodul<br>L-GYM Linguistics|Vorlesung und/oder<br>Übung Linguistik<br>(Angewandte Linguistik,<br>Altenglisch etc. für Fort-<br>geschrittene)|2|5|ZulVSS: Zwischenmodul L-GYM<br>Linguistics<br>K 45 Min.|
 |7.-9.|Optionsmodul<br>L-GYM Literature|Vorlesung und/oder<br>Übung Literaturwissen-<br>schaft|2|5|ZulVSS: Zwischenmodul L-GYM<br>Literature<br>MündlichePrüfung20-30Min.|
 
-## (2) Im Bereich der Fachdidaktik werden folgende Module angeboten: 
+## <u>(2) Im Bereich der Fachdidaktik werden folgende Module angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|||**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
-||||**SWS**|**ECTS**||
 |1.-4.|Basismodul Eng-<br>lischdidaktik|Einführung TEFL<br>Proseminar|2<br>2|5|PL TEFL: K (90 Min.)<br>SL PS: mdl. Präsentation oder HA<br>oder regelmäßige schriftliche<br>Reflexionspapiere|
 |empf.<br>ab<br>dem 7.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation oder<br>HA<br>SL EK: mdl. Präsentation oder<br>schriftlicheDokumentation|
 
-## Im Freien Bereich wird folgendes Modul angeboten: 
+## <u>Im Freien Bereich wird folgendes Modul angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|<br>**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
 |empf. ab<br>dem 7.|Optionsmodul<br>L-GYM Englisch-<br>didaktik|Hauptseminar|2|5|ZulVSS: Basismodul<br>PL HS: K oder mdl. Präsentation<br>oder HA|
 
-(3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
+(3) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum ange- <u>boten:</u> 
 
 |**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **3. Lehramt an Grund-, Haupt- und Realschulen** 
 
-**§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Im Studium des Lehramts Englisch an Grund-, Haupt- und Realschulen sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
+**§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Im Studium des Lehramts Englisch an Grund-, Haupt- und Realschulen sind im Bereich Fachwissenschaft folgende Module erfolgreich abzulegen: 
 
 |**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Elementarmodul L-UF<br>Landeskunde|Vorlesung Landeskunde:<br>USA/GB<br>Übung Landeskunde|2<br>2|8|Kombi-K 90 Min.|
 |Vertiefungsmodul<br>L-UF Language|Übersetzung E-D<br>Writing in Academic Con-<br>texts<br>Phonetics I: Theory<br>Phonetics II: Error Treatment<br>Phonetics III: Pronunciation<br>Practice|2<br>1<br>1<br>1<br>2|12|ZulVSS: Basismodul Language<br>Portfolio (5 Seiten) (50 %)<br>Schriftliche Prüfung (25 %)<br>Audioprüfung (25 %)<br>Studienleistung: Übersetzung|
 
-2Im Studium des Lehramts an Grund- und Hauptschulen ist je eines der folgenden Module abzulegen; im Studium des Lehramts an Realschulen müssen aus einem der beiden Bereiche Linguistik oder Literaturwissenschaft zwei, aus dem anderen Bereich eines der folgenden Module abgelegt werden: 
+2Im Studium des Lehramts an Grund- und Hauptschulen ist je eines der folgenden Module abzulegen; im Studium des Lehramts an Realschulen müssen aus einem der beiden Bereiche Linguistik oder Literaturwissenschaft zwei, aus dem anderen Be- <u>reich eines der folgenden Module abgelegt werden:</u> 
 
 |**Modul**|**Veranstaltungen/Art**|**SWS**|**ECTS-**<br>**Punkte**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|
@@ -128,24 +128,25 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 4 
 
-## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts an Realschulen folgende Module angeboten: 
+## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehr- <u>amts an Realschulen folgende Module angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|||**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen /**<br>|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>|
 |---|---|---|---|---|---|
-||||**SWS**|**ECTS**||
+|||**Art**|||**Zulassungsvoraussetzungen**|
 |1.-4.|Basismodul<br>Englischdidaktik|Einführung TEFL<br>Proseminar|2<br>2|5|PL TEFL: K (90 Min.)<br>SL PS: mdl. Präsentation oder HA<br>oder regelmäßige schriftliche<br>Reflexionspapiere|
 |empf.<br>ab<br>dem<br>5.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation oder<br>HA<br>SL EK: mdl. Präsentation oder schrift-<br>liche Dokumentation|
 |empf.<br>ab<br>dem<br>6.|Vertiefungsmodul<br>Englischdidaktik|Übung Fachdidaktik<br>(z. B. Classroom<br>Language, Class-<br>room Research etc.)|2|2|ZulVSS: Basismodul<br>PL: K oder mdl. Präsentation oder HA|
 
-## (3) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehramts an Grund- und Hauptschulen folgende Module angeboten: 
+## (3) Im Bereich der Fachdidaktik des Unterrichtsfachs werden im Studium des Lehr- <u>amts an Grund- und Hauptschulen folgende Module angeboten:</u> 
 
-|**FS**|**Modul**|**Veranstaltungen /**<br>**Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
+|**FS**|**Modul**|**Veranstaltungen /**<br>|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>|
 |---|---|---|---|---|---|
+|||**Art**|||**Zulassungsvoraussetzungen**|
 |1.-4.|Basismodul<br>Englischdidaktik|Einführung TEFL<br>Proseminar|2<br>2|5|PL TEFL: K (90 Min.)<br>SL PS: mdl. Präsentation oder HA<br>oder regelmäßige schriftliche<br>Reflexionspapiere|
 |empf.<br>ab<br>dem<br>5.|Aufbaumodul<br>Englischdidaktik|Mittelseminar<br>Examenskurs|2<br>1|5|ZulVSS: Basismodul;<br>PL MS: K oder mdl. Präsentation<br>oder HA<br>SL EK: mdl. Präsentation oder<br>schriftliche Dokumentation|
 |empf.<br>ab<br>dem<br>6.|Vertiefungsmodul<br>Englischdidaktik|Übung Fachdidaktik<br>(z. B. Classroom<br>Language, Class-<br>room Research etc.)|2|2|ZulVSS: Basismodul<br>PL: K oder mdl. Präsentation oder HA|
 
-## (4) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum angeboten: 
+## (4) Daneben wird das folgende studienbegleitende fachdidaktische Praktikum ange- <u>boten:</u> 
 
 |FS|**Modul**|**Veranstaltungen / Art**|**SWS**|**ECTS**|**Prüfungs- und Studienleistungen /**<br>**Zulassungsvoraussetzungen**|
 |---|---|---|---|---|---|
@@ -153,7 +154,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 5 
 
-**§ 5 Berechnung der Fachnote Fachwissenschaft** Bei der Berechnung der Fachnote der Fachwissenschaft wird das am schlechtesten bewertete fachwissenschaftliche Modul gemäß § 3 und 4 im Umfang von bis zu 10 ECTS-Punkten nicht eingerechnet. 
+## **§ 5 Berechnung der Fachnote Fachwissenschaft** 
+
+Bei der Berechnung der Fachnote der Fachwissenschaft wird das am schlechtesten bewertete fachwissenschaftliche Modul gemäß § 3 und 4 im Umfang von bis zu 10 ECTS-Punkten nicht eingerechnet. 
 
 ## **4. Schluss- und Übergangsvorschriften** 
 

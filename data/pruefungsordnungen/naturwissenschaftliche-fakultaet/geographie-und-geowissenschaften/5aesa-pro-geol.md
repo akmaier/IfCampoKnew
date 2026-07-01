@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "16. September 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/5AeSa-PrO-Geol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:38:48+00:00
-page_count_chars: 2028
+scraped_at: 2026-07-01T09:03:02+00:00
+page_count_chars: 2027
 ---
 
 # 16. September 2003
@@ -12,7 +12,7 @@ page_count_chars: 2028
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/5AeSa-PrO-Geol.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Fünfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 16. September 2003 
 

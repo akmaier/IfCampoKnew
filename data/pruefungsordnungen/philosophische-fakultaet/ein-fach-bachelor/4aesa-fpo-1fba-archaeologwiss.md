@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "6. August 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AeSa_FPO_1FBA_ArchaeologWiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:06:11+00:00
-page_count_chars: 4638
+scraped_at: 2026-07-01T09:28:45+00:00
+page_count_chars: 4639
 ---
 
 # 6. August 2015
@@ -12,9 +12,9 @@ page_count_chars: 4638
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AeSa_FPO_1FBA_ArchaeologWiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung** 
 
-## **für das Fach Archäologische Wissenschaften im Ein-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 6. August 2015** 
+# **für das Fach Archäologische Wissenschaften im Ein-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 6. August 2015** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
@@ -24,7 +24,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Archäologische Wissenschaft
 
 1. In § 1 werden das Wort „Bachelorstudiengänge“ durch die Worte „Bachelor- und Masterstudiengänge“ ersetzt sowie nach der Zahl „2007“ die Worte „in der jeweils geltenden Fassung“ eingefügt. 
 
-2. § 2 wird wie folgt geändert: 
+## 2. § 2 wird wie folgt geändert: 
 
 ## a) Abs. 2 wird wie folgt geändert: 
 

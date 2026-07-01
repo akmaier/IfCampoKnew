@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA North American Studies FPONoAmStud 20230928 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/North-American-Studies_-_Culture_and_Liturature/englisch/MA_North_American_Studies_FPONoAmStud_20230928_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:52+00:00
-page_count_chars: 11106
+scraped_at: 2026-07-01T09:45:47+00:00
+page_count_chars: 10490
 ---
 
 # MA North American Studies FPONoAmStud 20230928 en.pdf
@@ -12,11 +12,11 @@ page_count_chars: 11106
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/North-American-Studies_-_Culture_and_Liturature/englisch/MA_North_American_Studies_FPONoAmStud_20230928_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Degree Program and Examination Regulations for the Master’s degree program “North American Studies: Culture and Literature” at the Faculty of Humanities, Social Sciences, and Theology at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPONoAmStud– Dated September 28, 2023** 
+# **Degree Program and Examination Regulations for the Master’s degree program “North American Studies: Culture and Literature” at the Faculty of Humanities, Social Sciences, and Theology at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPONoAmStud– Dated September 28, 2023** 
 
 Based on Section 9 (1) in conjunction with Section 80 (1)(1), Section 84 (2)(1), Section 88 (9), Section 90 (1)(2) and Section 96 (3) Bavarian Higher Education Innovation Act dated August 5, 2022 ( **BayHIG** ), FAU enacts the following degree program and examination regulations: 
 
-## **Contents:** 
+### **Contents:** 
 
 Section 1 Scope .................................................................................................................... 1 Section 2 Qualification for a Master’s Degree, Certificates and Admission Requirements ..... 1 Section 3 Scope and Structure of the Master’s Degree Program, Examinations .................... 2 Section 4 Admission Requirements for the Master’s Thesis .................................................. 2 Section 5 Legal Validity and Transitory Provisions ................................................................ 2 Appendix Master’s degree program North American Studies ................................................. 4 
 
@@ -24,11 +24,9 @@ Section 1 Scope ................................................................
 
 The degree program and examination regulations for the research-oriented consecutive Master’s degree program in North American Studies leading to the degree Master of Arts (MA) supplement the valid version of the General Examination Regulations for the Bachelor’s and Master’s Degree Programs at the Faculty of Humanities, Social Sciences, and Theology at FAU – **ABMStPO/Phil** . 
 
-## **Section 2 Qualification for a Master’s Degree, Certificates and Admission Re-** 
+## **Section 2 Qualification for a Master’s Degree, Certificates and Admission Requirements** 
 
-## **quirements** 
-
-(1)[1] A subject-specific degree within the meaning of Section 35 (1)(1) **ABMStPO/Phil** is a two-subject Bachelor’s degree in the subject American Studies.[2] Degrees shall be recognized as subject-related degrees within the meaning of Section 35 (1)(1) in conjunction with paragraph 2 **ABMStPO/Phil** provided the degree program covered topics relevant to North America to a substantial extent (proven by an academic piece of work (seminar paper, written assignment or final thesis) written in English during the degree program that led to the candidate’s first undergraduate degree). 
+(1)<sup>1</sup> A subject-specific degree within the meaning of Section 35 (1)(1) **ABMStPO/Phil** is a two-subject Bachelor’s degree in the subject American Studies.<sup>2</sup> Degrees shall be recognized as subject-related degrees within the meaning of Section 35 (1)(1) in conjunction with paragraph 2 **ABMStPO/Phil** provided the degree program covered topics relevant to North America to a substantial extent (proven by an academic piece of work (seminar paper, written assignment or final thesis) written in English during the degree program that led to the candidate’s first undergraduate degree). 
 
 (2) The following additional documents must be included with the application as stipulated in paragraph (2)(2)(2) **Appendix 1 ABMStPO/Phil** : 
 
@@ -36,11 +34,11 @@ The degree program and examination regulations for the research-oriented consecu
 
 2. Evidence of proficiency in English at a level equivalent to at least C1 of the Common European Framework of Reference (CEFR) for languages or equivalent evidence pursuant to the table of equivalence published by the Language Centre at FAU. 
 
-(3)[2] For applicants with an overall grade in their subject-specific or subject-related degree or, in the case of Section 35 (4) **ABMStPO/Phil** , an average of their achievements to date of between 2.51 and 3.50, a selection interview shall be held; the remaining 
+(3)<sup>2</sup> For applicants with an overall grade in their subject-specific or subject-related degree or, in the case of Section 35 (4) **ABMStPO/Phil** , an average of their achievements to date of between 2.51 and 3.50, a selection interview shall be held; the remaining 
 
 1 
 
-applicants who cannot be admitted directly to the degree program shall not be admitted to the second level of the qualification assessment process and shall receive a rejection notification that sets out the reasons for the decision and information on legal remedies available.[2] The selection interview is intended to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree program. 3In the selection interview, applicants shall be evaluated in particular according to the following criteria: 
+applicants who cannot be admitted directly to the degree program shall not be admitted to the second level of the qualification assessment process and shall receive a rejection notification that sets out the reasons for the decision and information on legal remedies available.<sup>2</sup> The selection interview is intended to demonstrate that the applicant possesses the required technical and methodological expertise and can be expected to carry out independent academic work in a more research-oriented degree program. 3In the selection interview, applicants shall be evaluated in particular according to the following criteria: 
 
 1. Basic knowledge of literary studies (25%) 
 
@@ -58,11 +56,11 @@ applicants who cannot be admitted directly to the degree program shall not be ad
 
 In order to be admitted to the Master’s thesis module pursuant to Section 38 (2) **ABMStPO/Phil** , students must prove that they have acquired at least 60 ECTS credits and have successfully completed at least two of the intermediate and specialization modules pursuant to the **Appendix** . 
 
-## **Section 5 Legal Validity and Transitory Provisions** 
+**Section 5 Legal Validity and Transitory Provisions** 
 
-(1)[1] These degree program and examination regulations shall come into effect on October 1, 2023.[2] They shall apply to all students starting their degree program as of winter semester 2023/2024 and those students who at the time these regulations come into effect are already studying in accordance with the version dated August 12, 2021 of the degree program and examination regulations for the Master's degree program in North American Studies: Culture and Literature at the Faculty of Humanities, Social Sciences, and Theology at Friedrich Alexander Universität Erlangen-Nürnberg (FAU) – **FPONoAmStud** – dated June 8, 2010, last amended on August 12, 2021.[3] Sentence 2 notwithstanding, the changes to the modules “Intermediate module Cultural Studies”, “Intermediate module Literary Studies”, “Overview module”, “Specialization module Cultural Studies” and “Specialization module Literary Studies” only apply to those students who have not yet started examinations in these modules.[4] Students who are studying at the time the regulations come into place in accordance with a version of **FPONoAmStud** valid before August 12, 2021 shall complete their studies in accordance with the version that has applied to them to date. 
+(1)<sup>1</sup> These degree program and examination regulations shall come into effect on October 1, 2023.<sup>2</sup> They shall apply to all students starting their degree program as of winter semester 2023/2024 and those students who at the time these regulations come into effect are already studying in accordance with the version dated August 12, 2021 of the degree program and examination regulations for the Master's degree program in North American Studies: Culture and Literature at the Faculty of Humanities, Social Sciences, and Theology at Friedrich Alexander Universität Erlangen-Nürnberg (FAU) – **FPONoAmStud** – dated June 8, 2010, last amended on August 12, 2021.<sup>3</sup> Sentence 2 notwithstanding, the changes to the modules “Intermediate module Cultural Studies”, “Intermediate module Literary Studies”, “Overview module”, “Specialization module Cultural Studies” and “Specialization module Literary Studies” only apply to those students who have not yet started examinations in these modules.<sup>4</sup> Students who are studying at the time the regulations come into place in accordance with a version of **FPONoAmStud** valid before August 12, 2021 shall complete their studies in accordance with the version that has applied to them to date. 
 
-(2)[1] The degree program and examination regulations for the Master’s Degree Program in North American Studies: Culture and Literature at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO NoAmStud** – dated June 8, 2010, last amended on August 12, 2021, shall become invalid as of September 30, 2027.[2] Examinations according to the degree program and examination regulations **FPONaAmStud** stated in sentence 1 shall be offered for the last time in summer semester 2027.[3] From the date stated in sentence 
+(2)<sup>1</sup> The degree program and examination regulations for the Master’s Degree Program in North American Studies: Culture and Literature at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – **FPO NoAmStud** – dated June 8, 2010, last amended on August 12, 2021, shall become invalid as of September 30, 2027.<sup>2</sup> Examinations according to the degree program and examination regulations **FPONaAmStud** stated in sentence 1 shall be offered for the last time in summer semester 2027.<sup>3</sup> From the date stated in sentence 
 
 2 
 
@@ -72,44 +70,37 @@ In order to be admitted to the Master’s thesis module pursuant to Section 38 (
 
 ## **Appendix Master’s degree program North American Studies** 
 
-|**Module name**|**Module name**||**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**ECTS**<br>**credits**|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Type and scope of the examination**|**Grade**<br>**factor**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**Teaching unit**||**hours)**|||||<br>**credits1 **|||||
-|||||||||||||||
-||||L|T|P|S||1.|2.|3.|4.|||
-|Foundation module<br>Cultural Studies||Advanced seminar<br>North AmericanCulturalStudies||||2|**10**|5||||Oral examination (20 min)|1|
-|||Master’s seminar<br>North American Cultural Studies||||2||5||||||
-|Foundation module<br>Literary studies||Advanced seminar<br>North American Literary Studies||||2|**10**|5||||Oral examination (20 min)|1|
-|||Master’s seminar<br>North American Literary Studies||||2||5||||||
-|**Module Academic Language Skills2**||||||||||||||
-||Academic<br>Discourse2|see FPO EnStud|||||**(5)**|(5)|(5)|||see FPO EnStud|1|
-||Advanced Gram-<br>mar2|see FPO EnStud|||||**(5)**|(5)|(5)|||see FPO EnStud|1|
-||Discourse<br>Structure2|see FPO EnStud|||||**(5)**|(5)|(5)|||see FPO EnStud|1|
-||Translation<br>German-English2|see FPO EnStud|||||**(5)**|(5)|(5)|||see FPO EnStud|1|
-|Intermediate module<br>Cultural Studies4||Advanced seminar in<br>CulturalStudies||||2|**10**||7|||Written assignment (15-20 pages) and<br>handout (2-3 pages)<br>(70 % + 30 %)|1|
-|||Master’s seminar<br>“Readings in Cultural Studies”||||||||||||
-|||||||1|||3|||||
-|||||||||||||||
-|Intermediate module<br>Literary Studies||Advanced seminar in<br>Literary Studies||||2|**10**||7|||Written assignment (15-20 pages) and<br>handout (2-3 pages)<br>(70 % + 30 %)|1|
-|||Master’s seminar<br>“Readingsin Literary Studies”||||1|||3|||||
-|Overview module||Lecture on cultural and literary<br>history|2||||**10**||7|||Oral examination (20 min) based on response papers<br>(3 papers, each 5 pages long)<br>(100 % + 0 %)|1|
-|||Independent study|||||||3|||||
-|Specialization mod-<br>ule in Cultural Stud-<br>ies4||Advanced seminar in<br>CulturalStudies||||2|**10**|||7||Written assignment (15-20 pages) and<br>academic presentation (20 min)<br>(70 %+30 %)|1|
-|||Independent study||||||||3||||
-|Specialization mod-<br>ule<br>Literarystudies||Advanced seminar in<br>Literary Studies||||2|**10**|||7||Written assignment (15-20 pages) and<br>academic presentation (20 min)<br>(70 % + 30 %)|1|
-|||Independent study||||||||3||||
+|**Module name**|**Teaching unit**<br>**SWS (semester**<br>**hours)**<br>L<br>T<br>P<br>S|**ECTS**<br>**credits**|**Distribution**<br>**per semest**<br>**cred**<br>1.<br>2.|**of workload**<br>**er in ECTS**<br>**its**<sup>**1**</sup><br>**Type and scope of the examination**<br>3.<br>4.|**Grade**<br>**factor**|
+|---|---|---|---|---|---|
+|Foundation module|<br>Advanced seminar<br>North AmericanCulturalStudies<br>2|**10**|5|<br>Oral examination (20 min)|1|
+|Cultural Studies|Master’s seminar<br>North American Cultural Studies<br>2||5|||
+|Foundation module<br>|Advanced seminar<br>North American Literary Studies<br>2<br>’|**10**|5|Oral examination (20 min)|1|
+|Literary studies|Masters seminar<br>  <br>2||5|||
+||North American LiterarStudies<br>|||||
+|**Module Academic La**<br>|y <br>**nguage Skills**<sup>**2**</sup>|||||
+|Academic||||||
+|<br>Discourse<sup>2</sup>|see FPO EnStud|**(5)**|(5)<br>(5)|see FPO EnStud|1|
+|Advanced Gram-<br>mar<sup>2</sup>|see FPO EnStud|**(5)**|(5)<br>(5)|see FPO EnStud|1|
+|Discourse<br>Structure<sup>2</sup>|see FPO EnStud|**(5)**|(5)<br>(5)|see FPO EnStud|1|
+|Translation<br>German-English<sup>2</sup>|see FPO EnStud|**(5)**|(5)<br>(5)|see FPO EnStud|1|
+|Intermediate module|Advanced seminar in<br>CulturalStudies<br>2|**10**|7|Written assignment (15-20 pages) and<br>handout (2-3 aes)|1|
+|Cultural Studies<sup>4</sup>|Master’s seminar<br>“Readings in Cultural Studies”<br>1||3|pg<br>(70 % + 30 %)||
+|Intermediate module|Advanced seminar in<br>Literary Studies<br>2|**10**|7|Written assignment (15-20 pages) and<br>hndt 2-3|1|
+|Literary Studies|Master’s seminar<br>“Readingsin Literary Studies”<br>1||3|aou ( pages)<br>(70 % + 30 %)||
+|Overview module|Lecture on cultural and literary<br>history<br>2|**10**|7|Oral examination (20 min) based on response papers<br>(3 papers, each 5 pages long)|1|
+||Independent study||3|(100 % + 0 %)||
+|Specialization mod-<br>ule in Cultural Stud-|Advanced seminar in<br>CulturalStudies<br>2|**10**||7<br>Written assignment (15-20 pages) and<br>academic presentation (20 min)|1|
+|ies<sup>4</sup>|Independent study|||(70 %+30 %)<br>3||
+|Specialization mod-<br>ule|Advanced seminar in<br>Literary Studies<br>2|**10**||7<br>Written assignment (15-20 pages) and<br>academic presentation (20 min)|1|
+|Literarystudies|Independent study|||(70 % + 30 %)<br>3||
 
 4 
 
-|**Module name**||**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**SWS (semester**<br>**hours)**|**ECTS**<br>**credits**|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Distribution of workload**<br>**per semester in ECTS**<br>**credits1 **|**Type and scope of the examination**|**Grade**<br>**factor**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Teaching unit**|||||||<br>**credits1 **|||||
-||||||||||||||
-|||L|T|P|S||1.|2.|3.|4.|||
-|Project module|Presentation series/conference|||||**10**|||10||Project work followed by reflection report (15-20<br>pages)|1|
-|Master’s thesis|Master’s thesis|||||**30**||||30|Master’s thesis (approx. 80 pages)|1|
-|**Total SWS and ECTS credits**||**2**|**4**||**18**|**120**|**30**|**30**|**30**|**30**|||
-|||24|||||||||||
+|**Module name**|**Teaching unit**<br>**S**<br>L|**WS (semester**<br>**hours)**<br>T<br>P<br>S|**ECTS**<br>**credits**|**Distribution**<br>**per semeste**<br>**credi**<br>1.<br>2.|**of wo**<br>**r in E**<br>**ts**<sup>**1**</sup><br>3.|**rkload**<br>**CTS**<br>**Type and scope of the examination**<br>4.|**Grade**<br>**factor**|
+|---|---|---|---|---|---|---|---|
+|Project module|Presentation series/conference||**10**||10|Project work followed by reflection report (15-20<br>pages)|1|
+|Master’s thesis|Master’s thesis||**30**|||30<br>Master’s thesis (approx. 80 pages)|1|
+||**Total SWS and ECTS credits**<br>**2**|**4**<br>**18**<br>24|**120**|**30**<br>**30**|**30**|**30**||
 
 - 1 The suggested distribution is a recommendation. 
 

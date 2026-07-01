@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:43:26+00:00
+scraped_at: 2026-07-01T08:19:36+00:00
 ---
 
 # Chemistry (M.Sc.)
@@ -83,6 +83,8 @@ Voraussetzung für die Zulassung zum Masterstudiengang Chemie ist der erfolgreic
 
 Außerdem muss im qualifizierenden Bachelor-Studiengang eine Note von 2,5 oder besser nach dem deutschen Notensystem nachgewiesen werden.
 
+Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht den Unterzeichnerstaaten des Lissaboner Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (GATE-Zertifikat) und aus Pakistan ein GAT-Zertifikat erforderlich oder ein vergleichbares Ergebnis eines standardisierten Aufnahmetests für internationale Masterstudiengänge.
+
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
 [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -109,8 +111,8 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-m-sc/#examination-regulations-and-module-guide)
-* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/#chemie-und-molecular-science)
+* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-msc/#examination-regulations-and-module-guide)
+* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
 
 Weitere Informationen
 
@@ -137,8 +139,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-m-sc/#examination-regulations-and-module-guide)
-- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/#chemie-und-molecular-science)
+- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-msc/#examination-regulations-and-module-guide)
+- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
 - [Webseite des Studiengangs](https://www.chemie.nat.fau.de/studium/chem-molsc/masterstudium/)
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)

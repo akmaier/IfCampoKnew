@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.10.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PrO-Int-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:37+00:00
-page_count_chars: 52364
+scraped_at: 2026-07-01T10:56:30+00:00
+page_count_chars: 53824
 ---
 
 # PDF vom 09.10.2000
@@ -12,9 +12,9 @@ page_count_chars: 52364
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/ReWi-Urfassung/FB%20WiWi/PrO-Int-VWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 9. Oktober 2000 
+# Vom 9. Oktober 2000 
 
 Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die FriedrichAlexander-Universität Erlangen-Nürnberg folgende Prüfungsordnung: 
 
@@ -28,7 +28,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) Die vorliegende Prüfungsordnung regelt Zweck, Inhalt und Verfahren der Prüfungen im Diplomstudiengang “Internationale Volkswirtschaftslehre” an der Friedrich-Alexander-Universität Erlangen-Nürnberg. 
 
-(2)[1] Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Internationalen Volkswirtschaftslehre.[2] Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
+(2)<sup>1</sup> Die Diplomprüfung bildet den ersten berufsqualifizierenden Abschluss des Studiums der Internationalen Volkswirtschaftslehre.<sup>2</sup> Durch sie soll festgestellt werden, ob der Kandidat die für den Übergang in die Berufspraxis notwendigen gründlichen Fachkenntnisse erworben hat, die Zusammenhänge seines Faches überblickt und die Fähigkeit besitzt, nach wissenschaftlichen Grundsätzen selbständig zu arbeiten. 
 
 (3) Durch die Diplomvorprüfung soll der Kandidat nachweisen, dass er die fachlichen Voraussetzungen, insbesondere die einführenden grundlegenden Kenntnisse des Faches erworben hat, um das weitere Studium mit Erfolg fortzusetzen. 
 
@@ -38,9 +38,9 @@ Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Internat
 
 ## **§ 3 Studiendauer und Gliederung des Studiums** 
 
-(1)[1] Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und die Ablegung der Prüfungen sowie die nach § 27 Abs. 4 vorgeschriebene berufspraktische Tätigkeit von mindestens 12 Wochen beträgt neun Semester.[2] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein fünfsemestriges Hauptstudium.[3] Das Studium der Internationalen Volkswirtschaftslehre umfasst Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach freier Wahl der Studenten.[4] Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und Pflichtwahlfachbereich beträgt 160 SWS; davon entfallen 96 SWS auf das Grundstudium. 
+(1)<sup>1</sup> Die Regelstudienzeit einschließlich der Zeit für die Anfertigung der Diplomarbeit und die Ablegung der Prüfungen sowie die nach § 27 Abs. 4 vorgeschriebene berufspraktische Tätigkeit von mindestens 12 Wochen beträgt neun Semester.<sup>2</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium und ein fünfsemestriges Hauptstudium.<sup>3</sup> Das Studium der Internationalen Volkswirtschaftslehre umfasst Lehrveranstaltungen des Pflicht- und Pflichtwahlfachbereichs sowie Lehrveranstaltungen nach freier Wahl der Studenten.<sup>4</sup> Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen im Pflicht- und Pflichtwahlfachbereich beträgt 160 SWS; davon entfallen 96 SWS auf das Grundstudium. 
 
-- (2) Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomprüfung abgeschlossen. 
+(2) Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomprüfung abgeschlossen. 
 
 - (3) Im Hauptstudium ist ein einjähriger Studienaufenthalt an einer ausländischen Universität, in aller Regel an einer Partneruniversität Pflicht. 
 
@@ -48,11 +48,11 @@ Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Internat
 
 ## **§ 4 Prüfungsfristen** 
 
-(1)[1] Die Diplomvorprüfung soll bis zum Ende des vierten Semesters abgelegt werden.[2] Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig zur Diplomvorprüfung, dass er diese bis zum Ende des fünften Semesters abgelegt hat, oder legt er die Teilprüfungen, zu denen er sich gemeldet hat, nicht bis zum Ende des fünften Semesters ab, gelten die noch nicht absovierten Teilprüfungen als abgelegt und erstmalig nicht bestanden. 
+(1)<sup>1</sup> Die Diplomvorprüfung soll bis zum Ende des vierten Semesters abgelegt werden.<sup>2</sup> Meldet sich ein Student aus von ihm zu vertretenden Gründen nicht so rechtzeitig zur Diplomvorprüfung, dass er diese bis zum Ende des fünften Semesters abgelegt hat, oder legt er die Teilprüfungen, zu denen er sich gemeldet hat, nicht bis zum Ende des fünften Semesters ab, gelten die noch nicht absovierten Teilprüfungen als abgelegt und erstmalig nicht bestanden. 
 
-(2)[1] Die Diplomprüfung soll im neunten Fachsemesters abgelegt werden und spätestestens innerhalb der ersten beiden Monate des folgenden Semesters beendet werden.[2] Der Student soll sich so rechtzeitig und ordnungsgemäß zur Diplomprüfung, dass er sie mit allen Teilprüfungen und der Diplomarbeit bis zu dem in Satz 1 bestimmten Termin ablegen kann. 
+(2)<sup>1</sup> Die Diplomprüfung soll im neunten Fachsemesters abgelegt werden und spätestestens innerhalb der ersten beiden Monate des folgenden Semesters beendet werden.<sup>2</sup> Der Student soll sich so rechtzeitig und ordnungsgemäß zur Diplomprüfung, dass er sie mit allen Teilprüfungen und der Diplomarbeit bis zu dem in Satz 1 bestimmten Termin ablegen kann. 
 
-2Überschreitet der Student diese Frist aus Gründen, die er zu vertreten hat , gelten die noch nicht absovierten Teilprü-(3)[1] Die Frist für die Ablegung der Diplomprüfung kann um bis zu vier Semester überschritten werden. fungen und, sofern die Diplomarbeit  nicht eingereicht ist, auch diese als erstmalig nicht bestanden. 
+2Überschreitet der Student diese Frist aus Gründen, die er zu vertreten hat , gelten die noch nicht absovierten Teilprü-(3)<sup>1</sup> Die Frist für die Ablegung der Diplomprüfung kann um bis zu vier Semester überschritten werden. fungen und, sofern die Diplomarbeit  nicht eingereicht ist, auch diese als erstmalig nicht bestanden. 
 
 (4) Überschreitet ein Student die Fristen der Absätze 1 bis 3 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist. 
 
@@ -62,9 +62,9 @@ Aufgrund der erfolgreich abgelegten Diplomprüfung wird der Diplomgrad "Internat
 
 ## **§ 5 Prüfungsausschuss** 
 
-2Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden. (1)[1] Dem Prüfungsausschuss obliegt die Vorbereitung und Durchführung der Diplomvor- und Diplomprüfungen. 3Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studien- und Prüfungsordnungen. 
+2Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden. (1)<sup>1</sup> Dem Prüfungsausschuss obliegt die Vorbereitung und Durchführung der Diplomvor- und Diplomprüfungen. 3Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studien- und Prüfungsordnungen. 
 
-(2)[1] Die acht Mitglieder des Prüfungsausschusses sind: 
+(2)<sup>1</sup> Die acht Mitglieder des Prüfungsausschusses sind: 
 
 a) der Vorsitzende aus dem Kreis der Professoren; 
 
@@ -74,13 +74,13 @@ c) je ein Professor der Studiengänge "Betriebswirtschaftslehre, Volkswirtschaft
 
 d) 1 weiteres prüfungsberechtigtes Mitglied der Fakultät aus dem Kreis der entpflichteten Professoren und Professoren im Ruhestand. 
 
-2Professoren im Sinne der Buchstaben a und c sind die in Art. 2 Abs. 1 Nr. 1 Bayer. Hochschullehrergesetz genannten Professoren.[3] Der Vorsitzende wird vom Fachbereichsrat, die Mitglieder nach Buchst. c und d werden auf Vorschlag von Vertretern ihrer Gruppe vom Fachbereichsrat gewählt. 
+2Professoren im Sinne der Buchstaben a und c sind die in Art. 2 Abs. 1 Nr. 1 Bayer. Hochschullehrergesetz genannten Professoren.<sup>3</sup> Der Vorsitzende wird vom Fachbereichsrat, die Mitglieder nach Buchst. c und d werden auf Vorschlag von Vertretern ihrer Gruppe vom Fachbereichsrat gewählt. 
 
-(3)[1] Die Amtszeit der Mitglieder nach Absatz 2 Buchst. a, c und d beträgt zwei Jahre.[2] Eine Wiederbestellung ist möglich. 
+(3)<sup>1</sup> Die Amtszeit der Mitglieder nach Absatz 2 Buchst. a, c und d beträgt zwei Jahre.<sup>2</sup> Eine Wiederbestellung ist möglich. 
 
-(4)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder mindestens drei Tage vorher geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[ 3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[ 4] Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
+(4)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder mindestens drei Tage vorher geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. 
 
-(5)[1] Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.[4] Darüber hinaus kann der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
+(5)<sup>1</sup> Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben.<sup>4</sup> Darüber hinaus kann der Prüfungsausschuss dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
 
 **§ 6 Prüfer** 
 
@@ -112,11 +112,11 @@ c) Privatdozenten und apl. Professoren.
 
 ## **§ 9 Anrechnung von Studienzeiten und Studienleistungen** 
 
-(1)[1] Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemäßes Fachstudium nachgewiesen wird; dabei erbrachte Studienleistung werden bei Gleichwertigkeit angerechnet.[2] Auf Antrag werden Studiensemester in verwandten Studiengängen bei inhaltlicher Gleichwertigkeit und die dabei erbrachten Studienleistungen bei Gleichwertigkeit angerechnet. 
+(1)<sup>1</sup> Einschlägige Studiensemester an wissenschaftlichen Hochschulen im Geltungsbereich des Grundgesetzes sind anzurechnen, soweit ein ordnungsgemäßes Fachstudium nachgewiesen wird; dabei erbrachte Studienleistung werden bei Gleichwertigkeit angerechnet.<sup>2</sup> Auf Antrag werden Studiensemester in verwandten Studiengängen bei inhaltlicher Gleichwertigkeit und die dabei erbrachten Studienleistungen bei Gleichwertigkeit angerechnet. 
 
-(2)[1] Einschlägige Studiensemester an wissenschaftlichen Hochschulen außerhalb des Geltungsbereiches des Grundgesetzes und die dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht.[2] Für die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen maßgebend.[3] Bei Zweifel an der Gleichwertigkeit kann die Zentralstelle für das ausländische Bildungswesen gehört werden. 
+(2)<sup>1</sup> Einschlägige Studiensemester an wissenschaftlichen Hochschulen außerhalb des Geltungsbereiches des Grundgesetzes und die dabei erbrachten Studienleistungen sind auf Antrag anzurechnen, soweit Gleichwertigkeit besteht.<sup>2</sup> Für die Feststellung der Gleichwertigkeit von Studienzeiten und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen maßgebend.<sup>3</sup> Bei Zweifel an der Gleichwertigkeit kann die Zentralstelle für das ausländische Bildungswesen gehört werden. 
 
-(3)[1] In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studienleistungen sowie auf die Studienzeit angerechnet.[2] Art. 81 Abs. 3 Satz 5 BayHSchG ist zu beachten.[3] Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschlüsse der Kultusministerkonferenz und der Hochschulrektorenkonferenz zu berücksichtigen. 
+(3)<sup>1</sup> In staatlich anerkannten Fernstudien verbrachte Studienzeiten und dabei erworbene Leistungsnachweise werden, soweit sie inhaltlich gleichwertig sind, als Studienleistungen sowie auf die Studienzeit angerechnet.<sup>2</sup> Art. 81 Abs. 3 Satz 5 BayHSchG ist zu beachten.<sup>3</sup> Bei der Feststellung der inhaltlichen Gleichwertigkeit sind gemeinsame Beschlüsse der Kultusministerkonferenz und der Hochschulrektorenkonferenz zu berücksichtigen. 
 
 (4) Prüfungsleistungen, Studienleistungen und Studienzeiten aus einem Fachhochschulstudium werden auf Antrag des Studenten angerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen. 
 
@@ -124,9 +124,9 @@ c) Privatdozenten und apl. Professoren.
 
 (1) Eine Prüfungsleistung gilt als mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe von der Prüfung zurücktritt. 
 
-(2)[1] Die für das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[2] Dieser kann bei Krankheit die Vorlage eines ärztlichen Attests verlangen.[3] Erkennt der Prüfungsausschuss die Gründe an, so gilt  die Prüfung als nicht abgelegt. 
+(2)<sup>1</sup> Die für das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschussvorsitzenden unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>2</sup> Dieser kann bei Krankheit die Vorlage eines ärztlichen Attests verlangen.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so gilt  die Prüfung als nicht abgelegt. 
 
-(3)[1] Versucht der Kandidat das Ergebnis der Prüfungsleistung durch Täuschung oder Benutzung nicht zugelasse2ner Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. Dasselbe gilt, wenn der Kandidat nach Ausgabe der Prüfungsarbeiten im Besitz nicht zugelassener Hilfsmittel ist und nicht nachweist, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht.[3] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
+(3)<sup>1</sup> Versucht der Kandidat das Ergebnis der Prüfungsleistung durch Täuschung oder Benutzung nicht zugelasse2ner Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. Dasselbe gilt, wenn der Kandidat nach Ausgabe der Prüfungsarbeiten im Besitz nicht zugelassener Hilfsmittel ist und nicht nachweist, dass der Besitz weder auf Vorsatz noch auf Fahrlässigkeit beruht.<sup>3</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" (5,0) bewertet. 
 
 (4) Ist die Täuschung oder die Störung des ordnungsgemäßen Ablaufs der Prüfung nach Absatz 3 so schwerwiegend, dass der Ausschluss von der weiteren Prüfung gerechtfertigt erscheint, so beschließt der Prüfungsausschuss den Ausschluss von der weiteren Prüfung. **§ 11 Mängel im Prüfungsverfahren** 
 
@@ -142,31 +142,31 @@ c) Privatdozenten und apl. Professoren.
 
 (1) In Klausur- sowie Seminararbeiten soll der Kandidat nachweisen, dass er in begrenzter Zeit und mit begrenzten Hilfsmitteln ein Problem mit den Methoden des Faches erkennen und Wege zur Lösung finden kann. 
 
-(2)[1] Die Benotung der Klausur- sowie Seminararbeiten erfolgt in der Regel durch zwei Prüfer; einer von ihnen soll der Aufgabensteller sein.[2] Bei unterschiedlicher Beurteilung werden die Noten gemittelt. Von der Beurteilung durch einen Zweitprüfer kann nur abgesehen werden, wenn kein zweiter Prüfer zur Verfügung steht oder die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde.[3] Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist oder ob durch Benennung eines Zweitprüfers eine unzumutbare Verzögerung eintreten wird. 
+(2)<sup>1</sup> Die Benotung der Klausur- sowie Seminararbeiten erfolgt in der Regel durch zwei Prüfer; einer von ihnen soll der Aufgabensteller sein.<sup>2</sup> Bei unterschiedlicher Beurteilung werden die Noten gemittelt. Von der Beurteilung durch einen Zweitprüfer kann nur abgesehen werden, wenn kein zweiter Prüfer zur Verfügung steht oder die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde.<sup>3</sup> Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist oder ob durch Benennung eines Zweitprüfers eine unzumutbare Verzögerung eintreten wird. 
 
 ## **§ 13 Mündliche Prüfungen** 
 
 (1) Mündliche Prüfungen werden als Einzelprüfung oder in Gruppen mit höchstens vier Kandidaten durchgeführt. 
 
-(2)[1] Zur mündlichen Prüfung ist ein Beisitzer zuzuziehen.[2] Der Beisitzer muss eine Diplomprüfung oder vergleichbare Prüfungen bestanden haben und soll hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
+(2)<sup>1</sup> Zur mündlichen Prüfung ist ein Beisitzer zuzuziehen.<sup>2</sup> Der Beisitzer muss eine Diplomprüfung oder vergleichbare Prüfungen bestanden haben und soll hauptberuflicher wissenschaftlicher Mitarbeiter sein. 
 
-(3)[1] Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse.[2] Das Protokoll wird vom Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[ 4] Das Protokoll ist zu den Prüfungsunterlagen zu nehmen. 
+(3)<sup>1</sup> Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnis der Prüfung, die Namen der Prüfer, des Beisitzers und der Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird vom Prüfer oder vom Beisitzer geführt und vom Prüfer und Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist zu den Prüfungsunterlagen zu nehmen. 
 
-(4)[1] Bei mündlichen Prüfungen werden Studenten, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen.[2] Auf Verlangen eines Kandidaten werden Zuhörer ausgeschlossen. 
+(4)<sup>1</sup> Bei mündlichen Prüfungen werden Studenten, die sich der gleichen Prüfung unterziehen wollen, im Rahmen der räumlichen Möglichkeiten als Zuhörer zugelassen.<sup>2</sup> Auf Verlangen eines Kandidaten werden Zuhörer ausgeschlossen. 
 
 (5) Die Beratung und die Bekanntgabe des Prüfungsergebnisses erfolgen unter Ausschluss der Öffentlichkeit. 
 
 ## **§ 14 Bewertung der Prüfungsleistungen, Bildung der Fachnoten und der Prüfungsgesamtnote** 
 
-(1)[1] Die Fachnote in einem Prüfungsfach ist das auf eine Dezimalstelle abgeschnittene, mit Kreditpunkten gewichtete arithmetische Mittel der Teilprüfungen.[2] Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
+(1)<sup>1</sup> Die Fachnote in einem Prüfungsfach ist das auf eine Dezimalstelle abgeschnittene, mit Kreditpunkten gewichtete arithmetische Mittel der Teilprüfungen.<sup>2</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von dem jeweiligen Prüfer durch folgende Noten und Prädikate ausgedrückt: 
 
 1,0  1,3 = sehr gut =  eine hervorragende Leistung; 1,7  2,0  2,3 = gut =  eine Leistung, die erheblich über den durchschnittlichen Anforderungen liegt; 2,7  3,0  3,3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht; 3,7  4,0 = ausreichend = eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt; 4,3  4,7 5,0 = nicht ausreichend = eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr genügt. 
 
-(2)[1] Besteht eine Fachprüfung aus mehreren Teilleistungen, so errechnet sich die Fachnote aus dem gewichteten arithmetischen Mittel  der Noten der Teilleistungen.[2] Die Gewichtung nach Kreditpunkten ergibt sich für die Diplomvorprüfung aus der **Anlage II** , für die Diplomprüfung aus §31 Abs. 1.[3] Im  Zeugnis tragen die Fachnoten folgende Bezeichnungen: 
+(2)<sup>1</sup> Besteht eine Fachprüfung aus mehreren Teilleistungen, so errechnet sich die Fachnote aus dem gewichteten arithmetischen Mittel  der Noten der Teilleistungen.<sup>2</sup> Die Gewichtung nach Kreditpunkten ergibt sich für die Diplomvorprüfung aus der **Anlage II** , für die Diplomprüfung aus §31 Abs. 1.<sup>3</sup> Im  Zeugnis tragen die Fachnoten folgende Bezeichnungen: 
 
 Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5  = gut bei einem Durchschnitt von 2,6 bis 3,5  = befriedigend bei einem Durchschnitt von 3,6 bis 4,0  = ausreichend bei einem Durchschnitt über 4,0 = nicht ausreichend. 
 
-(3)[1] Bei der bestandenen Diplomvorprüfung wird eine Prüfungsgesamtnote als arithmetisches Mittel der Fachnoten aus den in §22 Abs. 1 Nrn. 4 bis 7 vorgesehenen Fächern (Grundzüge der Betriebswirtschaftslehre, Grundzüge der Volkswirtschaftslehre, die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts sowie der Grundzüge der Statistik) errechnet.[2] Bei der bestandenen Diplomprüfung wird eine Prüfungsgesamtnote als mit Kreditpunkten gewichtetes arithmetisches Mittel der nicht auf- und abgerundeten Fachnoten der nach § 31 Abs. 1 gewählten Prüfungsfächer und der gemäß § 30 Abs. 7 mit 28 Kreditpunkten gewichteten Note der Diplomarbeit errechnet (vgl. **Anlage III** ).[ 3] Die Gesamtnote einer bestandenen Diplomvorprüfung oder Diplomprüfung lautet: 
+(3)<sup>1</sup> Bei der bestandenen Diplomvorprüfung wird eine Prüfungsgesamtnote als arithmetisches Mittel der Fachnoten aus den in §22 Abs. 1 Nrn. 4 bis 7 vorgesehenen Fächern (Grundzüge der Betriebswirtschaftslehre, Grundzüge der Volkswirtschaftslehre, die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts sowie der Grundzüge der Statistik) errechnet.<sup>2</sup> Bei der bestandenen Diplomprüfung wird eine Prüfungsgesamtnote als mit Kreditpunkten gewichtetes arithmetisches Mittel der nicht auf- und abgerundeten Fachnoten der nach § 31 Abs. 1 gewählten Prüfungsfächer und der gemäß § 30 Abs. 7 mit 28 Kreditpunkten gewichteten Note der Diplomarbeit errechnet (vgl. **Anlage III** ).<sup>3</sup> Die Gesamtnote einer bestandenen Diplomvorprüfung oder Diplomprüfung lautet: 
 
 Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5  = gut bei einem Durchschnitt von 2,6 bis 3,5  = befriedigend bei einem Durchschnitt von 3,6 bis 4,0  = ausreichend. 
 
@@ -176,11 +176,11 @@ Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5
 
 (1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfungen geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+(2)<sup>1</sup> Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfungen geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äusserung zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis wird eingezogen und gegebenenfalls ein neues erteilt.[2] Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis wird eingezogen und gegebenenfalls ein neues erteilt.<sup>2</sup> Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
 (5) Die Entziehung des Diplomgrades richtet sich nach den gesetzlichen Bestimmungen. 
 
@@ -188,7 +188,7 @@ Bei einem Durchschnitt bis 1,5 = sehr gut bei einem Durchschnitt von 1,6 bis 2,5
 
 (1) Nach Abschluss des Prüfungsverfahrens wird dem Kandidaten auf Antrag Einsicht in seine schriftlichen Prüfungsarbeiten und die darauf bezogenen Gutachten der Prüfer gewährt. 
 
-(2)[1] Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) (Bay-RS 2010-1-I) gilt entsprechend.[2] Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Vorsitzenden des Prüfungsausschusses zu stellen. Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) (Bay-RS 2010-1-I) gilt entsprechend.<sup>2</sup> Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 17 Bescheinigung über eine nicht bestandene Prüfung** 
 
@@ -196,9 +196,9 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht 
 
 ## **§ 18 Prüfungsvergünstigungen für Schwerbehinderte** 
 
-2Insbesondere ist schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlängerung der (1)[1] Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise Rücksicht zu nehmen. Bearbeitungszeit für schriftliche Prüfungsteile um bis zu einem Viertel zu gewähren. 
+2Insbesondere ist schwerbehinderten Kandidaten, wenn die Art der Behinderung es rechtfertigt, eine Verlängerung der (1)<sup>1</sup> Auf die besondere Lage schwerbehinderter Kandidaten ist in angemessener Weise Rücksicht zu nehmen. Bearbeitungszeit für schriftliche Prüfungsteile um bis zu einem Viertel zu gewähren. 
 
-(2)[1] Prüfungsvergünstigungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin gewährt.[2] Der Antrag ist der Meldung zur Prüfung beizufügen. 
+(2)<sup>1</sup> Prüfungsvergünstigungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin gewährt.<sup>2</sup> Der Antrag ist der Meldung zur Prüfung beizufügen. 
 
 ## **ZWEITER TEIL: BESONDERE VORSCHRIFTEN** 
 
@@ -240,7 +240,7 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht 
 
 4. Der Bewerber unter Verlust des Prüfungsanspruchs exmatrikuliert worden ist. 
 
-(5)[1] Über die Zulassung entscheidet der Vorsitzende des Prüfungsausschusses.[2] Die Entscheidung ist dem Bewerber spätestens eine Woche vor Prüfungsbeginn schriftlich mitzuteilen. 
+(5)<sup>1</sup> Über die Zulassung entscheidet der Vorsitzende des Prüfungsausschusses.<sup>2</sup> Die Entscheidung ist dem Bewerber spätestens eine Woche vor Prüfungsbeginn schriftlich mitzuteilen. 
 
 (6) Die Zulassung zur Diplomvorprüfung in der Teilprüfung zu den Grundzügen der Betriebswirtschaftslehre II setzt das Bestehen der Diplomvorprüfung in der Teilprüfung zu den Grundzügen der Betriebswirtschaftslehre I voraus. 
 
@@ -256,7 +256,7 @@ Hat der Kandidat die Diplomvorprüfung oder die Diplomprüfung endgültig nicht 
 
 ## **Studienbegleitende Prüfung** 
 
-(1)[1] Die Prüfungen in den Fächern der Diplomvorprüfung werden studienbegleitend in Teilprüfungen abgelegt.[2] Der Umfang der Prüfungen wird mit Hilfe von Kreditpunkten und Maluspunkten bestimmt.[3] Die Zuteilung der Kredit- und Maluspunkte bestimmt sich nach der **Anlage II.** 
+(1)<sup>1</sup> Die Prüfungen in den Fächern der Diplomvorprüfung werden studienbegleitend in Teilprüfungen abgelegt.<sup>2</sup> Der Umfang der Prüfungen wird mit Hilfe von Kreditpunkten und Maluspunkten bestimmt.<sup>3</sup> Die Zuteilung der Kredit- und Maluspunkte bestimmt sich nach der **Anlage II.** 
 
 (2) Die Verteilung der Teilprüfungen auf die Semester des Grundstudiums steht dem Kandidaten im Rahmen der Studienordnung frei. 
 
@@ -316,7 +316,7 @@ b)  Statistik II
 
 - b) Wirtschaftsfremdsprache 2 
 
-(2)[1] Die Diplomvorprüfung wird schriftlich abgelegt.[2] Es werden 
+(2)<sup>1</sup> Die Diplomvorprüfung wird schriftlich abgelegt.<sup>2</sup> Es werden 
 
 in jeder der Teilprüfungen der Grundzüge des betrieblichen Rechnungswesens und der Mathematik eine Klausur im Umfang von 
 
@@ -330,13 +330,13 @@ in der Teilprüfung Grundzüge der Betriebswirtschaftslehre II eine dreistündig
 
 in jeder der Teilprüfungen der Grundzüge der Volkswirtschaftslehre jeweils eine zweistündige Klausur, in jeder der Teilprüfungen der Grundzüge der Statistik sowie des Privaten Rechts und des Öffentlichen Rechts eine zweistündige Klausur, 
 
-in jeder der Teilprüfungen der Wirtschaftsfremdsprache 1 sowie der Wirtschaftsfremdsrprache 2 eine zweistündige Klausur geschrieben.[3] In jeder der Teilprüfungen der Wirtschaftsfremsprache 1 sowie der Wirtschaftsfremdsprache 2 wird die Klausur ergänzt durch eine 15minütige mündliche Prüfung zur Feststellung des Hörverstehens und des mündlichen Ausdrucks.[4] Die zugelassenen Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekanntgegeben. 
+in jeder der Teilprüfungen der Wirtschaftsfremdsprache 1 sowie der Wirtschaftsfremdsrprache 2 eine zweistündige Klausur geschrieben.<sup>3</sup> In jeder der Teilprüfungen der Wirtschaftsfremsprache 1 sowie der Wirtschaftsfremdsprache 2 wird die Klausur ergänzt durch eine 15minütige mündliche Prüfung zur Feststellung des Hörverstehens und des mündlichen Ausdrucks.<sup>4</sup> Die zugelassenen Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekanntgegeben. 
 
 (3) Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Grundstudiums gemäß Studienordnung. 
 
 ## **§ 23 Anerkennung von Diplomvorprüfungen** 
 
-(1)[1] Diplomvorprüfungen und einzelne Diplomvorprüfungsleistungen, die der Kandidat an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes in demselben oder einem verwandten, im Grundstudium gleichen Studiengang bestanden hat, werden bei Gleichwertigkeit angerechnet, soweit sie sich auf die Fächer nach § 22 Abs. 1 beziehen.[2] Hat der Kandidat in einem anderen wirtschaftswissenschaftlichen Diplomstudiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes die Diplomprüfung erfolgreich abgelegt, wird die Diplomvorprüfung erlassen. 
+(1)<sup>1</sup> Diplomvorprüfungen und einzelne Diplomvorprüfungsleistungen, die der Kandidat an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes in demselben oder einem verwandten, im Grundstudium gleichen Studiengang bestanden hat, werden bei Gleichwertigkeit angerechnet, soweit sie sich auf die Fächer nach § 22 Abs. 1 beziehen.<sup>2</sup> Hat der Kandidat in einem anderen wirtschaftswissenschaftlichen Diplomstudiengang an einer wissenschaftlichen Hochschule im Geltungsbereich des Grundgesetzes die Diplomprüfung erfolgreich abgelegt, wird die Diplomvorprüfung erlassen. 
 
 (2) Prüfungsleistungen, die der Kandidat in anderen Studiengängen bestanden hat, können auf Antrag angerechnet werden, wenn sie den Bedingungen dieser Prüfungsordnung entsprechen und daher gleichwertig sind. 
 
@@ -344,7 +344,7 @@ in jeder der Teilprüfungen der Wirtschaftsfremdsprache 1 sowie der Wirtschaftsf
 
 (4) Eine Anrechnung nach den Absätzen 1 bis 3 kann nur erfolgen, wenn alle Teilleistungen des anrechenbaren Prüfungsfaches nachgewiesen werden. 
 
-(5)[1] Der Kandidat hat entsprechende Nachweise an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg beim Prüfungsamt vorzulegen.[2] Dies soll zu Beginn seines Studiums geschehen. 
+(5)<sup>1</sup> Der Kandidat hat entsprechende Nachweise an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg beim Prüfungsamt vorzulegen.<sup>2</sup> Dies soll zu Beginn seines Studiums geschehen. 
 
 (6) Hat der Kandidat die Abschlussprüfung im Studiengang Betriebswirtschaft an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil "sehr gut" bestanden abgelegt, so wird ihm auf Antrag die Diplomvorprüfung mit Ausnahme der Prüfung im Fach Wirtschaftsfremdsprachen mit der Maßgabe erlassen, dass er bis zum Abschluss aller Teilprüfungen den Nachweis über ausreichende Kenntnisse im Diplomvorprüfungsfach "Grundzüge der Volkswirtschaftslehre" und in den Wirtschaftsfremdsprachen erbringt. 
 
@@ -362,23 +362,23 @@ a) mindestens 34 Maluspunkte erreicht wurden, oder
 
 b) die zweite Wiederholung einer Teilprüfung nicht bestanden wurde. 
 
-(3)[1] Im Rahmen der Diplomvorprüfung sind im ersten und zweiten Fachsemester Freiversuche für insgesamt zwei Teilprüfungen in den Prüfungsfächern nach § 22 Abs. 1 möglich.[2] Freiversuche bleiben im Hinblick auf die Maluspunkte-Regelung unberücksichtigt.[3] Bei Geltendmachung eines Freiversuchs darf ein Kandidat an einer Wiederholungsprüfung nicht mehr teilnehmen, wenn die erste Durchführung der Teilprüfung bestanden wurde. 
+(3)<sup>1</sup> Im Rahmen der Diplomvorprüfung sind im ersten und zweiten Fachsemester Freiversuche für insgesamt zwei Teilprüfungen in den Prüfungsfächern nach § 22 Abs. 1 möglich.<sup>2</sup> Freiversuche bleiben im Hinblick auf die Maluspunkte-Regelung unberücksichtigt.<sup>3</sup> Bei Geltendmachung eines Freiversuchs darf ein Kandidat an einer Wiederholungsprüfung nicht mehr teilnehmen, wenn die erste Durchführung der Teilprüfung bestanden wurde. 
 
-(4)[1] Maluspunkte werden nicht auf das Hauptstudium übertragen.[2] Beim Wechsel eines Studienganges werden sie jedoch innerhalb des Grund- und Hauptstudiums weitergeführt, soweit das betreffende Fach Gegenstand des neuen Studiums ist. 
+(4)<sup>1</sup> Maluspunkte werden nicht auf das Hauptstudium übertragen.<sup>2</sup> Beim Wechsel eines Studienganges werden sie jedoch innerhalb des Grund- und Hauptstudiums weitergeführt, soweit das betreffende Fach Gegenstand des neuen Studiums ist. 
 
 (5) § 4 Abs. 1 und § 10 bleiben unberührt. 
 
 ## **§ 25 Wiederholungsprüfungen innerhalb  der Diplomvorprüfung** 
 
-(1)[1] Jede erstmals nicht bestandene Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.[2] Bei Fehlschlagen des Zweitversuchs (erste Widerholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.[3] Absatz 3 bleibt unberührt.[4] Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 34 Punkten bleibt. 
+(1)<sup>1</sup> Jede erstmals nicht bestandene Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.<sup>2</sup> Bei Fehlschlagen des Zweitversuchs (erste Widerholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.<sup>3</sup> Absatz 3 bleibt unberührt.<sup>4</sup> Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 34 Punkten bleibt. 
 
 (2) Die freiwillige Wiederholung einer bestandenen Diplomvorprüfung oder einer bestandenen Teilprüfung ist nicht zulässig. 
 
-(3)[1] Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Mitteilung über das Nichtbestehen abgelegt werden; dies gilt auch für die zweite Wiederholung.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[3] Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
+(3)<sup>1</sup> Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Mitteilung über das Nichtbestehen abgelegt werden; dies gilt auch für die zweite Wiederholung.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>3</sup> Bei Versäumnis der Frist gilt die Diplomvorprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
 
 ## **§ 26 Prüfungszeugnis** 
 
-1Über die bestandene Diplomvorprüfung wird ein Zeugnis ausgestellt, das die in den einzelnen Prüfungsfächern erzielten Noten und die Prüfungsgesamtnote enthält und vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen ist.[2] Die Noten angerechneter Fächer (vgl. § 23) werden nicht in das Zeugnis aufgenommen.[3] In diesem Fall wird ins Zeugnis nur ein Anerkennungsvermerk aufgenommen. 
+1Über die bestandene Diplomvorprüfung wird ein Zeugnis ausgestellt, das die in den einzelnen Prüfungsfächern erzielten Noten und die Prüfungsgesamtnote enthält und vom Vorsitzenden des Prüfungsausschusses zu unterzeichnen ist.<sup>2</sup> Die Noten angerechneter Fächer (vgl. § 23) werden nicht in das Zeugnis aufgenommen.<sup>3</sup> In diesem Fall wird ins Zeugnis nur ein Anerkennungsvermerk aufgenommen. 
 
 ## **Zweiter Abschnitt: Diplomprüfung** 
 
@@ -424,7 +424,7 @@ b) die zweite Wiederholung einer Teilprüfung nicht bestanden wurde.
 
 ## **§ 28 Meldung zur Diplomprüfung** 
 
-1Die Zulassung zur Diplomprüfung erfolgt vor der Meldung zur ersten Teilprüfung. 2Sie ist an das Prüfungsamt zu richten.[3] Das Prüfungsamt entscheidet über das Vorliegen der Voraussetzungen gemäß § 27.[4] Aufgrund der Zulassung zur Diplomprüfung meldet sich der Kandidat zu den einzelnen Teilprüfungen bei dem jeweiligen Fachprüfer innerhalb der von ihm durch Aushang am Schwarzen Brett des Prüfungsamtes bekanntgegebenen Meldefrist. 
+1Die Zulassung zur Diplomprüfung erfolgt vor der Meldung zur ersten Teilprüfung. 2Sie ist an das Prüfungsamt zu richten.<sup>3</sup> Das Prüfungsamt entscheidet über das Vorliegen der Voraussetzungen gemäß § 27.<sup>4</sup> Aufgrund der Zulassung zur Diplomprüfung meldet sich der Kandidat zu den einzelnen Teilprüfungen bei dem jeweiligen Fachprüfer innerhalb der von ihm durch Aushang am Schwarzen Brett des Prüfungsamtes bekanntgegebenen Meldefrist. 
 
 ## **29 Gliederung der Diplomprüfung** 
 
@@ -434,21 +434,21 @@ Die Diplomprüfung gliedert sich in die studienbegleitenden Teilprüfungen in de
 
 (1) In der Diplomarbeit soll der Kandidat zeigen, dass er sein Fach in angemessener Weise beherrscht und in der Lage ist, nach wissenschaftlichen Methoden selbständig zu arbeiten. 
 
-(2)[1] Das Thema der Diplomarbeit ist einem der Prüfungsfächer (§ 31) zu entnehmen.[2] Das Thema muss in sinnvollem Zusammenhang mit dem Studium stehen und so beschaffen sein, dass es innerhalb der in Absatz 5 Satz 1 genannten Frist bearbeitet werden kann. 
+(2)<sup>1</sup> Das Thema der Diplomarbeit ist einem der Prüfungsfächer (§ 31) zu entnehmen.<sup>2</sup> Das Thema muss in sinnvollem Zusammenhang mit dem Studium stehen und so beschaffen sein, dass es innerhalb der in Absatz 5 Satz 1 genannten Frist bearbeitet werden kann. 
 
-(3)[1] Die Vergabe des Themas erfolgt durch einen Prüfungsberechtigen, hilfsweise durch den Prüfungsausschuss, über das Prüfungsamt.[2] Der Vergabe-Tag ist aktenkundig zu machen.[3] Der Kandidat kann Vorschläge für das Thema einreichen.[4] Die Vergabe des Themas setzt die Zulassung zur Diplomprüfung gemäß § 27 Abs. 1 voraus.[5] Der Prüfungsausschuss kann mit Zustimmung des Prüfungsberechtigten, der das Thema vergeben hat, gestatten, dass die Diplomarbeit an der ausländischen Hochschule erstellt wird, an der der Kandidat sein Auslandsstudium absolviert. 
+(3)<sup>1</sup> Die Vergabe des Themas erfolgt durch einen Prüfungsberechtigen, hilfsweise durch den Prüfungsausschuss, über das Prüfungsamt.<sup>2</sup> Der Vergabe-Tag ist aktenkundig zu machen.<sup>3</sup> Der Kandidat kann Vorschläge für das Thema einreichen.<sup>4</sup> Die Vergabe des Themas setzt die Zulassung zur Diplomprüfung gemäß § 27 Abs. 1 voraus.<sup>5</sup> Der Prüfungsausschuss kann mit Zustimmung des Prüfungsberechtigten, der das Thema vergeben hat, gestatten, dass die Diplomarbeit an der ausländischen Hochschule erstellt wird, an der der Kandidat sein Auslandsstudium absolviert. 
 
 (4) Das Thema kann nur einmal und nur aus triftigen Gründen und mit Einwilligung des Vorsitzenden des Prüfungsausschusses innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden. 
 
-2Bei einer Diplomarbeit, die mit einem besonders hohen Zeitaufwand verbunden ist (z. B. Arbeit mit empirischen Er-(5)[1] Die Zeit von der Themenstellung bis zur Ablieferung der Diplomarbeit darf vier Monate nicht überschreiten. hebungen oder internationalen Recherchen), kann eine Bearbeitungszeit von sechs Monaten festgesetzt werden; dies ist bei der Vergabe des Themas aktenkundig zu machen.[3] Auf begründeten Antrag des Kandidaten kann der Vorsitzende des Prüfungsausschusses mit Zustimmung des Prüfers, der die Arbeit vergeben hat, die Bearbeitungszeit ausnahmsweise um höchstens zwei Monate verlängern.[4] Weist der Kandidat durch ärztliches Zeugnis nach, dass er wegen Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
+2Bei einer Diplomarbeit, die mit einem besonders hohen Zeitaufwand verbunden ist (z. B. Arbeit mit empirischen Er-(5)<sup>1</sup> Die Zeit von der Themenstellung bis zur Ablieferung der Diplomarbeit darf vier Monate nicht überschreiten. hebungen oder internationalen Recherchen), kann eine Bearbeitungszeit von sechs Monaten festgesetzt werden; dies ist bei der Vergabe des Themas aktenkundig zu machen.<sup>3</sup> Auf begründeten Antrag des Kandidaten kann der Vorsitzende des Prüfungsausschusses mit Zustimmung des Prüfers, der die Arbeit vergeben hat, die Bearbeitungszeit ausnahmsweise um höchstens zwei Monate verlängern.<sup>4</sup> Weist der Kandidat durch ärztliches Zeugnis nach, dass er wegen Krankheit an der Bearbeitung gehindert ist, ruht die Bearbeitungsfrist. 
 
-(6)[1] Die Diplomarbeit ist innerhalb der festgesetzten Zeit in zwei Exemplaren und in gebundener Form beim Prüfungsamt einzureichen.[2] Der Abgabezeitpunkt ist aktenkundig zu machen.[3] Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten Quellen und die schriftliche Versicherung beizufügen, dass er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat und dass die Arbeit in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen hat.[4] Alle Ausführungen der Arbeit, die wörtlich oder sinngemäß übernommen wurden, sind als solche zu bezeichnen. 
+(6)<sup>1</sup> Die Diplomarbeit ist innerhalb der festgesetzten Zeit in zwei Exemplaren und in gebundener Form beim Prüfungsamt einzureichen.<sup>2</sup> Der Abgabezeitpunkt ist aktenkundig zu machen.<sup>3</sup> Der Kandidat hat der Arbeit ein Verzeichnis der von ihm benutzten Quellen und die schriftliche Versicherung beizufügen, dass er die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt hat und dass die Arbeit in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen hat.<sup>4</sup> Alle Ausführungen der Arbeit, die wörtlich oder sinngemäß übernommen wurden, sind als solche zu bezeichnen. 
 
-(7)[1] Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde.[2] Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist, oder ob eine unzumutbare Verzögerung eintreten wird.[3] Wird die Arbeit mit der Note ‘’ausreichend’’ oder besser bewertet,  so werden dafür 28 Kreditpunkte vergeben.[4] Wird die Arbeit mit der Note "nicht ausreichend" bewertet, ist in jedem Fall ein zweiter Gutachter zur Beurteilung heranzuziehen.[5] Die Note der Diplomarbeit errechnet sich aus dem Durchschnitt der Beurteilungen der beiden Prüfer.[6] Die Note ist dem Kandidaten danach bekanntzugeben. 
+(7)<sup>1</sup> Die Arbeit muss von zwei Prüfern beurteilt werden, es sei denn, dass ein zweiter Prüfer nicht zur Verfügung steht oder die Bestellung eines zweiten Prüfers den Ablauf der Prüfung in unvertretbarer Weise verzögern würde.<sup>2</sup> Der Prüfungsausschuss stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Fachvertreter vorhanden ist, oder ob eine unzumutbare Verzögerung eintreten wird.<sup>3</sup> Wird die Arbeit mit der Note ‘’ausreichend’’ oder besser bewertet,  so werden dafür 28 Kreditpunkte vergeben.<sup>4</sup> Wird die Arbeit mit der Note "nicht ausreichend" bewertet, ist in jedem Fall ein zweiter Gutachter zur Beurteilung heranzuziehen.<sup>5</sup> Die Note der Diplomarbeit errechnet sich aus dem Durchschnitt der Beurteilungen der beiden Prüfer.<sup>6</sup> Die Note ist dem Kandidaten danach bekanntzugeben. 
 
 ## **§ 31 Umfang der studienbegleitenden Teilprüfungen** 
 
-- (1)[1] Die Diplomprüfung erstreckt sich auf folgende Fächer: 
+- (1)<sup>1</sup> Die Diplomprüfung erstreckt sich auf folgende Fächer: 
 
 - 1. Volkswirtschaftstheorie 
 
@@ -458,21 +458,23 @@ Die Diplomprüfung gliedert sich in die studienbegleitenden Teilprüfungen in de
 
 3. Internationale Spezielle Betriebswirtschaftslehre 
 
-- 4a.         Pflichthalbfach Ökonometrie I 
+4a.         Pflichthalbfach Ökonometrie I 
 
 - 4b. Pflichtwahlhalbfach  I  (volkswirtschaftlicher Schwerpunkt) 
 
-- 5a. Pflichtwahlhalbfach II (internationaler oder methodischer Schwerpunkt) 5b. Pflichtwahlhalbfach III (internationaler oder methodischer Schwerpunkt). 
+- 5a. Pflichtwahlhalbfach II (internationaler oder methodischer Schwerpunkt) 
 
-2Welche Fächer als Internationale Spezielle Betriebswirtschaftslehre und Pflichtwahlhalbfächer I, II  und  III gewählt werden können, ist der **Anlage I** zur Prüfungsordnung zu entnehmen.[3] Die Prüfungen in den Fächern der Diplomprüfung werden studienbegleitend in Teilprüfungen abgelegt.[4] Jedes Prüfungsfach umfasst wenigstens zwei Teilprüfungen. 6Mehrere Prüfungseinheiten können zu einer Teilprüfung verbunden werden.[5] Eine Teilprüfung beruht in ihrer kleinsten Prüfungseinheit auf einem Studienmodul von zwei SWS. 7In der Regel wird für eine Semesterwochenstunde im Sinne der Studienordnung ein Kreditpunkt berechnet.[8] Jede Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.[9] Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.[10] Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 29 Punkten bleibt. 
+- 5b. Pflichtwahlhalbfach III (internationaler oder methodischer Schwerpunkt). 
 
-(2)[1] Der Kandidat soll von demselben Prüfer nur in einem Prüfungsfach geprüft werden.[2] Er kann von demselben Prüfer in nicht mehr als zwei Prüfungsfächern beziehungsweise einem  Prüfungsfach und zwei Prüfungshalbfächern geprüft werden. 
+2Welche Fächer als Internationale Spezielle Betriebswirtschaftslehre und Pflichtwahlhalbfächer I, II  und  III gewählt werden können, ist der **Anlage I** zur Prüfungsordnung zu entnehmen.<sup>3</sup> Die Prüfungen in den Fächern der Diplomprüfung werden studienbegleitend in Teilprüfungen abgelegt.<sup>4</sup> Jedes Prüfungsfach umfasst wenigstens zwei Teilprüfungen. 6Mehrere Prüfungseinheiten können zu einer Teilprüfung verbunden werden.<sup>5</sup> Eine Teilprüfung beruht in ihrer kleinsten Prüfungseinheit auf einem Studienmodul von zwei SWS. 7In der Regel wird für eine Semesterwochenstunde im Sinne der Studienordnung ein Kreditpunkt berechnet.<sup>8</sup> Jede Teilprüfung kann einmal ohne Berechnung von Maluspunkten wiederholt werden.<sup>9</sup> Bei Fehlschlagen des Zweitversuchs (erste Wiederholung) werden Maluspunkte im Umfang der zugeordneten Kreditpunkte berechnet.<sup>10</sup> Eine zweite Wiederholung ist zulässig, wenn die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 29 Punkten bleibt. 
 
-(3)[1] Die Fachvertreter entscheiden innerhalb des in **Anlage III** bestimmten und erläuterten Rahmens über Zahl, Umfang und Form der Teilprüfungen.[2] Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht.[3] Pro Prüfungseinheit gemäß Absatz 1 Satz 5 werden veranschlagt für eine Klausur 60 Minuten, eine mündliche Prüfung etwa 15 Minuten und eine Seminararbeit eine Vorbereitungszeit von nicht mehr als vier Wochen.[4] Umfang und Form der Teilprüfungen werden von dem zuständigen Fachverteter spätestens zum Ende der allgemeinen Vorlesungszeit eines Semesters mit Geltung für das im Folgesemster beginnende Hauptstudium durch Aushang am Schwarzen Brett des Prüfungsamtes bekanntgegeben.[5] Die Dauer einer Klausur soll 60 Minuten nicht unterschreiten.[6] Die Fachvertreter sollen darauf achten, dass die Teilprüfungen möglichst auch integrative Gesamtbetrachtungen des Faches einbeziehen.[7] Dies muss mindestens bei einer Teilprüfung je Fach der Fall sein.[8] Die Teilprüfungen für ein Studienmodul sollen mindestens einmal innerhalb von sechs Monaten angeboten werden, auch wenn keine diesbezügliche Lehrveranstaltung durchgeführt wird **.**[9] Für jede Klausurarbeit sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die besonderen Umstände einzelner Fächer etwas anderes erfordern.[10] Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt.[11] Die dabei erlaubten Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekanntgegeben. 
+(2)<sup>1</sup> Der Kandidat soll von demselben Prüfer nur in einem Prüfungsfach geprüft werden.<sup>2</sup> Er kann von demselben Prüfer in nicht mehr als zwei Prüfungsfächern beziehungsweise einem  Prüfungsfach und zwei Prüfungshalbfächern geprüft werden. 
 
-(4)[1] Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums gemäß Studienordnung.[ 2] Die Fächer des Hauptstudiums werden jeweils nach Maßgabe der Fachvertreter in einen Kern- und Erweiterungsbereich eingeteilt, um den Studenten Vertiefungsmöglichkeiten und Möglichkeiten für die Einbeziehung von im Ausland erworbenen Teilleistungen in ihr Studium zu geben.[3] Der Erweiterungsbereich sollte zwei bis vier SWS betragen.[4] Die Maßgaben der Fachvertreter im Sinne der Absätze 3 und 4 erfolgen spätestens am Ende der Vorlesungszeit eines Semesters mit Geltung für das im Folgesemester beginnende Hauptstudium. 
+(3)<sup>1</sup> Die Fachvertreter entscheiden innerhalb des in **Anlage III** bestimmten und erläuterten Rahmens über Zahl, Umfang und Form der Teilprüfungen.<sup>2</sup> Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht.<sup>3</sup> Pro Prüfungseinheit gemäß Absatz 1 Satz 5 werden veranschlagt für eine Klausur 60 Minuten, eine mündliche Prüfung etwa 15 Minuten und eine Seminararbeit eine Vorbereitungszeit von nicht mehr als vier Wochen.<sup>4</sup> Umfang und Form der Teilprüfungen werden von dem zuständigen Fachverteter spätestens zum Ende der allgemeinen Vorlesungszeit eines Semesters mit Geltung für das im Folgesemster beginnende Hauptstudium durch Aushang am Schwarzen Brett des Prüfungsamtes bekanntgegeben.<sup>5</sup> Die Dauer einer Klausur soll 60 Minuten nicht unterschreiten.<sup>6</sup> Die Fachvertreter sollen darauf achten, dass die Teilprüfungen möglichst auch integrative Gesamtbetrachtungen des Faches einbeziehen.<sup>7</sup> Dies muss mindestens bei einer Teilprüfung je Fach der Fall sein.<sup>8</sup> Die Teilprüfungen für ein Studienmodul sollen mindestens einmal innerhalb von sechs Monaten angeboten werden, auch wenn keine diesbezügliche Lehrveranstaltung durchgeführt wird **.**<sup>9</sup> Für jede Klausurarbeit sind mindestens zwei Aufgaben zur Wahl zu stellen, soweit nicht die besonderen Umstände einzelner Fächer etwas anderes erfordern.<sup>10</sup> Die Aufgaben werden dem Kandidaten unmittelbar vor Beginn der Klausur mitgeteilt.<sup>11</sup> Die dabei erlaubten Hilfsmittel werden spätestens zwei Wochen vor Beginn der Prüfung durch Aushang bekanntgegeben. 
 
-(5)[1] Der Prüfungsausschuss erkennt Prüfungsleistungen im Umfang bis zu 28 Kreditpunkte an, die der Kandidat an einer in- oder ausländischen wissenschaftlichen Hochschule erworben hat, soweit Gleichwertigkeit festgestellt ist. 2Darüber hinaus kann der Prüfungsausschuss Prüfungsleistungen und eine Diplomarbeit anerkennen, die im Rahmen einer Hochschulpartnerschaft erbracht sind, welche die Doppeldiplomierung einschließt, sofern Gleichwertigkeit festgestellt ist; die Anrechnung ist auf Prüfungsleistungen im Umfang von insgesamt 42 Kreditpunkten begrenzt; bei Vorliegen einer Diplomarbeit erhöht sich die Obergrenze der Anrechnung auf 56 Kreditpunkte.[3] Die zur Anrechnung erforderlichen Unterlagen sind mit dem Antrag auf Anerkennung beim Prüfungsamt einzureichen. 
+(4)<sup>1</sup> Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Hauptstudiums gemäß Studienordnung.<sup>2</sup> Die Fächer des Hauptstudiums werden jeweils nach Maßgabe der Fachvertreter in einen Kern- und Erweiterungsbereich eingeteilt, um den Studenten Vertiefungsmöglichkeiten und Möglichkeiten für die Einbeziehung von im Ausland erworbenen Teilleistungen in ihr Studium zu geben.<sup>3</sup> Der Erweiterungsbereich sollte zwei bis vier SWS betragen.<sup>4</sup> Die Maßgaben der Fachvertreter im Sinne der Absätze 3 und 4 erfolgen spätestens am Ende der Vorlesungszeit eines Semesters mit Geltung für das im Folgesemester beginnende Hauptstudium. 
+
+(5)<sup>1</sup> Der Prüfungsausschuss erkennt Prüfungsleistungen im Umfang bis zu 28 Kreditpunkte an, die der Kandidat an einer in- oder ausländischen wissenschaftlichen Hochschule erworben hat, soweit Gleichwertigkeit festgestellt ist. 2Darüber hinaus kann der Prüfungsausschuss Prüfungsleistungen und eine Diplomarbeit anerkennen, die im Rahmen einer Hochschulpartnerschaft erbracht sind, welche die Doppeldiplomierung einschließt, sofern Gleichwertigkeit festgestellt ist; die Anrechnung ist auf Prüfungsleistungen im Umfang von insgesamt 42 Kreditpunkten begrenzt; bei Vorliegen einer Diplomarbeit erhöht sich die Obergrenze der Anrechnung auf 56 Kreditpunkte.<sup>3</sup> Die zur Anrechnung erforderlichen Unterlagen sind mit dem Antrag auf Anerkennung beim Prüfungsamt einzureichen. 
 
 ## **§ 32 Ergebnis der Diplomprüfung** 
 
@@ -480,19 +482,19 @@ Die Diplomprüfung gliedert sich in die studienbegleitenden Teilprüfungen in de
 
 (2) § 4 Abs. 3 und § 10 bleiben unberührt **.** 
 
-(3)[1] Ist ein Teil der Diplomprüfung nach Ausschöpfung der Wiederholungsmöglichkeiten endgültig nicht bestanden oder gilt als endgültig nicht bestanden, so ist das Prüfungsverfahren beendet.[2] Noch ausstehende Teilprüfungen oder eine in Bearbeitung befindliche Diplomarbeit können nicht mehr als Prüfungsleistung im Sinne der Prüfungsordnung erbracht werden. 
+(3)<sup>1</sup> Ist ein Teil der Diplomprüfung nach Ausschöpfung der Wiederholungsmöglichkeiten endgültig nicht bestanden oder gilt als endgültig nicht bestanden, so ist das Prüfungsverfahren beendet.<sup>2</sup> Noch ausstehende Teilprüfungen oder eine in Bearbeitung befindliche Diplomarbeit können nicht mehr als Prüfungsleistung im Sinne der Prüfungsordnung erbracht werden. 
 
 ## **§ 33 Wiederholung** 
 
-(1)[1] § 25 gilt entsprechend.[2] Eine zweite Wiederholung von Teilprüfungen ist zulässig, solange die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 29 Punkten bleibt.[3] Die freiwillige Wiederholung einer bestandenen Diplomprüfung oder einer bestandenen Teilprüfung ist nicht zulässig. 
+(1)<sup>1</sup> § 25 gilt entsprechend.<sup>2</sup> Eine zweite Wiederholung von Teilprüfungen ist zulässig, solange die Summe der Maluspunkte aller Prüfungsfächer unterhalb der Schwelle von 29 Punkten bleibt.<sup>3</sup> Die freiwillige Wiederholung einer bestandenen Diplomprüfung oder einer bestandenen Teilprüfung ist nicht zulässig. 
 
 11 
 
-(2)[1] Ist die Diplomarbeit mit „nicht ausreichend“ bewertet worden oder gilt sie als mit „nicht ausreichend“ bewertet, weil der Kandidat sie nicht fristgerecht abgegeben hat (§ 30 Abs. 5) oder gegen § 30 Abs. 6 Sätze 3 und 4 verstoßen hat, so kann sie einmal mit neuem Thema wiederholt werden.[2] Der Kandidat hat sich unverzüglich um die Ausgabe eines Themas für die neue Diplomarbeit zu bewerben; § 30 gilt entsprechend.[3] Eine zweite Wiederholung der Diplomarbeit ist ausgeschlossen. 
+(2)<sup>1</sup> Ist die Diplomarbeit mit „nicht ausreichend“ bewertet worden oder gilt sie als mit „nicht ausreichend“ bewertet, weil der Kandidat sie nicht fristgerecht abgegeben hat (§ 30 Abs. 5) oder gegen § 30 Abs. 6 Sätze 3 und 4 verstoßen hat, so kann sie einmal mit neuem Thema wiederholt werden.<sup>2</sup> Der Kandidat hat sich unverzüglich um die Ausgabe eines Themas für die neue Diplomarbeit zu bewerben; § 30 gilt entsprechend.<sup>3</sup> Eine zweite Wiederholung der Diplomarbeit ist ausgeschlossen. 
 
 ## **§ 33a Freier Prüfungsversuch** 
 
-(1)[1] Im Rahmen der Diplomprüfung sind bis zum sechsten Fachsemester Freiversuche von insgesamt zwei Teilprüfungen möglich.[2] Im siebten Fachsemester sind zwei weitere Freiversuche für Teilprüfungen möglich.[3] Bei Geltendmachung eines Freiversuchs kann ein Kandidat an einer Wiederholungsprüfung auch dann teilnehmen, wenn die erste Durchführung der Teilprüfung bestanden wurde; gewertet wird in diesem Fall das bessere Ergebnis der beiden Durchführungen der Teilprüfungen.[4] Freiversuche bleiben im Hinblick auf die Maluspunkte-Regelung unberücksichtigt.[5] Eine im Rahmen des Freiversuchs erstmals abgelegte Teilprüfung wird bei Nichtbestehen annulliert. 
+(1)<sup>1</sup> Im Rahmen der Diplomprüfung sind bis zum sechsten Fachsemester Freiversuche von insgesamt zwei Teilprüfungen möglich.<sup>2</sup> Im siebten Fachsemester sind zwei weitere Freiversuche für Teilprüfungen möglich.<sup>3</sup> Bei Geltendmachung eines Freiversuchs kann ein Kandidat an einer Wiederholungsprüfung auch dann teilnehmen, wenn die erste Durchführung der Teilprüfung bestanden wurde; gewertet wird in diesem Fall das bessere Ergebnis der beiden Durchführungen der Teilprüfungen.<sup>4</sup> Freiversuche bleiben im Hinblick auf die Maluspunkte-Regelung unberücksichtigt.<sup>5</sup> Eine im Rahmen des Freiversuchs erstmals abgelegte Teilprüfung wird bei Nichtbestehen annulliert. 
 
 (2) Anerkannte Studienzeiten werden bei Hochschul-, Studiengang- oder Fachwechsel auf das Fachstudium angerechnet; Semester, in denen der Student beurlaubt war, bleiben unberücksichtigt. 
 
@@ -514,7 +516,7 @@ Die Diplomprüfung gliedert sich in die studienbegleitenden Teilprüfungen in de
 
 (1) Über die bestandene Diplomprüfung wird ein Zeugnis und ein Diplom ausgestellt. 
 
-(2)[1] Das Zeugnis enthält die Prüfungsgesamtnote gemäß § 14 Abs. 3, die Fachnoten, das Thema und die Note der Diplomarbeit sowie auf Antrag des Absolventen die Fachstudiendauer.[2] Für die Halbfächer werden die erzielten Noten in das Diplomzeugnis eingetragen.[3] Außerdem werden die in der Diplomvorprüfung in den Fächern gemäß § 22 Abs. 1 Nrn. 6 und 7 erreichten Noten in das Zeugnis aufgenommen.[4] Sie beeinflussen die Prüfungsgesamtnote nicht.[5] Die Aufnahme entfällt, soweit das betreffende Fach zugleich Pflichtwahlfach des Kandidaten ist.[6] Die Teilleistungen sollen möglichst differenziert ausgewiesen werden.[7] Die Namen der Prüfer sind im Zeugnis auszudrucken.[8] Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet.[9] Als Datum des Zeugnisses wird der Tag angegeben, an dem die Erfüllung aller Prüfungsleistungen durch den Prüfungsausschuss festgestellt worden ist. 
+(2)<sup>1</sup> Das Zeugnis enthält die Prüfungsgesamtnote gemäß § 14 Abs. 3, die Fachnoten, das Thema und die Note der Diplomarbeit sowie auf Antrag des Absolventen die Fachstudiendauer.<sup>2</sup> Für die Halbfächer werden die erzielten Noten in das Diplomzeugnis eingetragen.<sup>3</sup> Außerdem werden die in der Diplomvorprüfung in den Fächern gemäß § 22 Abs. 1 Nrn. 6 und 7 erreichten Noten in das Zeugnis aufgenommen.<sup>4</sup> Sie beeinflussen die Prüfungsgesamtnote nicht.<sup>5</sup> Die Aufnahme entfällt, soweit das betreffende Fach zugleich Pflichtwahlfach des Kandidaten ist.<sup>6</sup> Die Teilleistungen sollen möglichst differenziert ausgewiesen werden.<sup>7</sup> Die Namen der Prüfer sind im Zeugnis auszudrucken.<sup>8</sup> Das Zeugnis wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet.<sup>9</sup> Als Datum des Zeugnisses wird der Tag angegeben, an dem die Erfüllung aller Prüfungsleistungen durch den Prüfungsausschuss festgestellt worden ist. 
 
 (3) Die Diplomurkunde wird vom Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel der Fakultät versehen. 
 
@@ -610,9 +612,7 @@ Anstelle eines dieser Halbfächer kann auf Antrag ein anderes, international ori
 
 13 
 
-**Fächer der Diplomvorprüfung** 
-
-## **Prüfungsdauer Kreditpunkte (in Minuten)** 
+## **Fächer der Diplomvorprüfung Prüfungsdauer Kreditpunkte** **<u>(in Minuten)</u>** 
 
 |1. Grundzüge des betrieblichen Rechnungswesens|||**8**|
 |---|---|---|---|
@@ -630,18 +630,18 @@ Anstelle eines dieser Halbfächer kann auf Antrag ein anderes, international ori
 |5. Grundzüge der Volkswirtschaftslehre|||15|
 |a)  Grundzüge der Volkswirtschaftslehre I|120|7.5||
 |b)  Grundzüge der Volskwirtschaftslehre II|120|7.5||
-|6. Die wirtschaftlich wesentlichen Teile des Privaten||||
+|6. Die wirtschaftlich wesentlichen Teile des Privaten<br>||||
 |Rechts und des Öffentlichen Rechts|||**18**|
-|a) Privates Recht|120|9||
+|a) Privates Recht<br>|120|9||
 |b) Öffentliches Recht|120|9||
 |7.Grundzüge der Statistik|||**12**|
 |a) Statistik I|120|6||
 |b) Statistik II|120|6||
 |8. Wirtschaftsf remdsprachen|||16|
 |a) Wirtschaftsfremdsprache I|120|||
-||+ 15 Min. mündl.|Prüfung|8|
+||+ 15 Min. mündl|. Prüfung|8|
 |b) Wirtschaftsfremdsprache II|120|||
-||+ 15 Min. mündl.|Prüfung|8|
+||+ 15 Min. mündl|. Prüfung|8|
 
 ## **Anlage III: Struktur der Diplomprüfung** 
 
@@ -653,11 +653,9 @@ Anstelle eines dieser Halbfächer kann auf Antrag ein anderes, international ori
 
 14 
 
-|2. Internationale Wirtschaftspolitik|12|12|6|6|
+|2. Internationale Wirtschaftspolitik<br>und Finanzwissenschaft|12|12|6|6|
 |---|---|---|---|---|
-|und Finanzwissenschaft|||||
-|3. Internationale Spezielle Betriebswirt-|||||
-|schaftslehre|12|12|6|6|
+|3. Internationale Spezielle Betriebswirt-<br>schaftslehre|12|12|6|6|
 |4a.  Pflichthalbfach  Ökonometrie I|6|6|3|3|
 |4b. Pflichtwahlhalbfach I|6|6|3|3|
 |5a. Pflichtwahlhalbfach II|6|6|3|3|
@@ -665,7 +663,7 @@ Anstelle eines dieser Halbfächer kann auf Antrag ein anderes, international ori
 |Summe:|60|60|30|30|
 |Diplomarbeit||28|||
 
-## _**Erläuterungen:**_ 
+## **_Erläuterungen:_** 
 
 1. Insgesamt sind 60 Kreditpunkte zu erwerben. 
 

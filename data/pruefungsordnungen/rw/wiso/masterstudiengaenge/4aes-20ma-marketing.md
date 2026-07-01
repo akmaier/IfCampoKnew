@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Februar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES%20MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:08+00:00
-page_count_chars: 3506
+scraped_at: 2026-07-01T11:05:40+00:00
+page_count_chars: 3508
 ---
 
 # 24. Februar 2012
@@ -18,7 +18,7 @@ Vom 24. Februar 2012
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Marketing der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOMarketing - vom 2. September 2009, zuletzt geändert durch Satzung vom 1. September 2011, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Anlage wird wie folgt geändert:
 
    1. Zeile 53 (B1 / Praxisseminar) wird wie folgt geändert: 
 
-      - a) In Spalte 1 werden nach dem Wort „Praxisseminar“ drei Sternchen „[***] “ angefügt. b) In Spalte 3 (ECTS / 1. Sem.) wird die Zahl „5“ in Klammern gesetzt. 
+      - a) In Spalte 1 werden nach dem Wort „Praxisseminar“ drei Sternchen „<sup>***</sup> “ angefügt. b) In Spalte 3 (ECTS / 1. Sem.) wird die Zahl „5“ in Klammern gesetzt. 
 
       - c) In Spalte 4 (ECTS / 2. Sem.) werden die Klammer und Zahl „(5)“ eingefügt. 
 
@@ -38,22 +38,18 @@ Die Anlage wird wie folgt geändert:
 
 - „ 
 
-|**Creativity and Design in Innovation Management**|**5**|||**5**||
-|---|---|---|---|---|---|
-|**Seminar zu Methoden der experimentellen Wirtschaftsforschung**|**5**|**5**||||
-|**Seminar zur Verhaltensökonomik**|**5**|**5**||||
-|4. Nach Zeile 81 (neu) (B2 / Finanzmarktkommunikation<br>Marktforschungsmanagement) werden folgende neue|und<br>Zeilen|eingefügt:||||
-|**Acvanced Marketing Management II: Advanced Topics****|**5**||**5**|||
-|**Advanced Marketing Management III: Internationales Marketing****|**5**|||5||
-
-**==> picture [27 x 4] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-     „<br>**----- End of picture text -----**<br>
+|**Creativity and Design in Innovation Management**|**5**||**5**||
+|---|---|---|---|---|
+|**Seminar zu Methoden der experimentellen Wirtschaftsforschung**|**5**|**5**|||
+|**Seminar zur Verhaltensökonomik**<br>4. Nach Zeile 81 (neu) (B2 / Finanzmarktkommunikation u<br>Marktforschungsmanagement) werden folgende neue|**5**<br>nd<br>Zeilen e|**5**<br>ingefügt:||„|
+|**Acvanced Marketing Management II: Advanced Topics****|**5**|**5**|||
+|**Advanced Marketing Management III: Internationales Marketing****|**5**||5|„|
 
 5. Zeile 98 (neu) (B2 / Praxisseminar) wird wie folgt geändert: 
 
-   - a) In Spalte 1 werden nach dem Wort „Praxisseminar“ drei Sternchen „[***] “ angefügt. b) In Spalte 3 (ECTS / 1. Sem.) wird die  Zahl „5“ in Klammern gesetzt. c) In Spalte 4 (ECTS / 2. Sem.) werden die Klammer und Zahl „(5)“ eingefügt. 
+   - a) In Spalte 1 werden nach dem Wort „Praxisseminar“ drei Sternchen „<sup>***</sup> “ angefügt. b) In Spalte 3 (ECTS / 1. Sem.) wird die  Zahl „5“ in Klammern gesetzt. 
+
+   - c) In Spalte 4 (ECTS / 2. Sem.) werden die Klammer und Zahl „(5)“ eingefügt. 
 
 6. In Zeile 108 (neu) (B2 / Corporate Governance) Spalte 3 (ECTS / 1. Sem.) wird die Zahl „5“ eingefügt sowie in Spalte 4 (ECTS / 2. Sem.) die Zahl „5“ gestrichen. 
 
@@ -61,17 +57,19 @@ Die Anlage wird wie folgt geändert:
 
 „ 
 
-**5 5** 
+**<mark>5</mark>** 
 
-**Creativity and Design in Innovation Management** 
+**5** 
 
-**Seminar zu Methoden der experimentellen Wirtschaftsforschung 5 5 Seminar zur Verhaltensökonomik 5 5** 
+**<u><mark>Creativity and Design in Innovation Management</mark></u>** 
+
+**<u><mark>Seminar zu Methoden der experimentellen Wirtschaftsforschung</mark></u> 5** **<mark>5</mark>** **<u><mark>Seminar zur Verhaltensökonomik</mark></u> 5** **<mark>5</mark>** 
 
 „ 
 
-8. Am Ende der Tabelle wird folgende Fußnotenerläuterung angefügt: „[***] Das Praxisseminar kann immer im Sommersemester oder nach Verfügbarkeit im Wintersemester belegt werden.“ 
+8. Am Ende der Tabelle wird folgende Fußnotenerläuterung angefügt: „<sup>***</sup> Das Praxisseminar kann immer im Sommersemester oder nach Verfügbarkeit im Wintersemester belegt werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. April 2012 in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "wtb FPOHR 20230323 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20230323_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:46:42+00:00
-page_count_chars: 21024
+scraped_at: 2026-07-01T09:57:37+00:00
+page_count_chars: 21314
 ---
 
 # wtb FPOHR 20230323 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 21024
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Human_Rights_wtb/Aenderungssatzungen/wtb_FPOHR_20230323_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## **Fünfte Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOHR – Vom 23. Februar 2023** 
+# **Fünfte Satzung zur Änderung der Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „Human Rights“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) – FPOHR – Vom 23. Februar 2023** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 4 und 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -26,13 +26,13 @@ Die Studien- und Prüfungsordnung für den weiterbildenden Masterstudiengang „
 
    - a) In Abs. 2 wird nach Satz 3 folgender neuer Satz 4 eingefügt; die bisherigen Sätze 4 bis 7 werden zu Sätzen 5 bis 8: 
 
-„[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
 
 - b) Abs. 3 wird wie folgt geändert: 
 
-   - aa) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
+aa) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikationsmittel erfolgen.[3] Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
+„<sup>2</sup> Sie können schriftlich, mündlich, elektronisch, über elektronische Kommunikationsmittel erfolgen.<sup>3</sup> Bei elektronischen Fernprüfungen unter Aufsicht sind die Bayerische Fernprüfungserprobungsverordnung ( **BayFEV** ) sowie die Satzung der FAU über die Durchführung elektronischer Fernprüfungen auf Grundlage der Bayerischen Fernprüfungserprobungsverordnung (BayFEV) – **EFernPO** – zu beachten.“ 
 
 bb) Die bisherige Sätze 2 und 3 werden zu Sätzen 4 und 5. 
 
@@ -50,7 +50,7 @@ bb) Die bisherige Sätze 2 und 3 werden zu Sätzen 4 und 5.
 
    - b) In Abs. 3 wird vor dem bisher einzigen Satz folgender neuer Satz 1 eingefügt; der bisher einzige Satz wird zu Satz 2: 
 
-„[1] Abweichend von Abs. 1 Satz 1 Nr. 2 kann der Prüfungsausschuss den Zugang auch vor Vollendung der mindestens einjährigen Berufspraxis gewähren, wenn die Bewerberin bzw. der Bewerber über exzellente akademische Leistungen sowie ein ausgeprägtes menschenrechtliches Profil verfügt und hierdurch zu erwarten ist, dass sie bzw. er die fehlende weitere Berufspraxis durch die bereits vorhandene exzellente Qualifikation kompensieren wird.“ 
+„<sup>1</sup> Abweichend von Abs. 1 Satz 1 Nr. 2 kann der Prüfungsausschuss den Zugang auch vor Vollendung der mindestens einjährigen Berufspraxis gewähren, wenn die Bewerberin bzw. der Bewerber über exzellente akademische Leistungen sowie ein ausgeprägtes menschenrechtliches Profil verfügt und hierdurch zu erwarten ist, dass sie bzw. er die fehlende weitere Berufspraxis durch die bereits vorhandene exzellente Qualifikation kompensieren wird.“ 
 
 4. § 8 wird wie folgt geändert: 
 
@@ -58,7 +58,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 aa) Sätze 2 und 3 erhalten folgende neue Fassung: 
 
-„[2] Der Prüfungsausschuss besteht aus einer Professorin bzw. einem Professor der Philosophischen Fakultät und Fachbereich Theologie, einer Professorin bzw. einem Professor des Fachbereichs Rechtswissenschaften sowie einer weiteren im Studiengang prüfungsberechtigten Person.[3] Die Mitglieder werden vom Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie für eine Amtszeit von drei Jahren gewählt.“ 
+„<sup>2</sup> Der Prüfungsausschuss besteht aus einer Professorin bzw. einem Professor der Philosophischen Fakultät und Fachbereich Theologie, einer Professorin bzw. einem Professor des Fachbereichs Rechtswissenschaften sowie einer weiteren im Studiengang prüfungsberechtigten Person.<sup>3</sup> Die Mitglieder werden vom Fakultätsrat der Philosophischen Fakultät und Fachbereich Theologie für eine Amtszeit von drei Jahren gewählt.“ 
 
 - bb) Sätze 4 und 5 werden gestrichen; die bisherigen Sätze 6 und 7 werden zu Sätzen 4 und 5. 
 
@@ -72,17 +72,17 @@ b) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt:
 
 5. § 9 Abs. 3 erhält folgende neue Fassung: 
 
-„(3)[1] Unbeschadet der Fristen nach §§ 7, 28 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] In Fällen krankheits- 
+„(3)<sup>1</sup> Unbeschadet der Fristen nach §§ 7, 28 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer nach Abs. 2 angemeldeten Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> In Fällen krankheits- 
 
 2 
 
-bedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der jeweilige Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[4] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[5] Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich. 6Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 13 Abs. 1.“ 
+bedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der jeweilige Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>3</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>4</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung für diesen Prüfungstermin und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.<sup>5</sup> Eine Anmeldung zur Prüfung und die Teilnahme an der Prüfung sind erst wieder in einem späteren Semester möglich. 6Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 13 Abs. 1.“ 
 
 6. § 10 wird wie folgt geändert: 
 
-a) In Abs. 1 werden nach Satz 4 folgende neue Sätze 5 und 6 angefügt: 
+   - a) In Abs. 1 werden nach Satz 4 folgende neue Sätze 5 und 6 angefügt: 
 
-„[5] Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.[6] Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus im Einvernehmen mit der jeweiligen Beschäftigungsstelle verlängern.“ 
+„<sup>5</sup> Bei befristet beschäftigten Prüfungsberechtigten gilt die Prüfungsberechtigung dagegen nur für die vertraglich vereinbarte Dauer der Beschäftigung.<sup>6</sup> Auf Antrag kann der Prüfungsausschuss die Prüfungsberechtigung darüber hinaus im Einvernehmen mit der jeweiligen Beschäftigungsstelle verlängern.“ 
 
    - b) In Abs. 3 werden die Zahlen und Worte „41 Abs. 2 **BayHSchG** “ durch die Worte „51 Abs. 2 **BayHIG** i. V. m. Art. 20, 21 **BayVwVfG** “ ersetzt. 
 
@@ -98,19 +98,19 @@ a) In Abs. 1 werden nach Satz 4 folgende neue Sätze 5 und 6 angefügt:
 
    - b) Abs. 1 und 2 erhalten folgende neue Fassung: 
 
-„(1)[1] Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.[2] Gleiches gilt für Studienund Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.[3] Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
+„(1)<sup>1</sup> Studienzeiten, Studien- und Prüfungsleistungen, die in Studiengängen oder durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines anderen Studiengangs an der FAU oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen staatlichen oder staatlich anerkannten Hochschulen erbracht worden sind, sowie aufgrund solcher Studiengänge erworbene Abschlüsse sind anzuerkennen, sofern hinsichtlich der erworbenen und der nachzuweisenden Kompetenzen keine wesentlichen Unterschiede bestehen.<sup>2</sup> Gleiches gilt für Studienund Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von Modul- und Zusatzstudien, an der Virtuellen Hochschule Bayern oder im Rahmen eines Früh- oder Jungstudiums erbracht worden sind.<sup>3</sup> Die Anerkennung dient der Fortsetzung des Studiums, der Ablegung von Prüfungen, der Aufnahme eines weiteren Studiums oder der Zulassung zur Promotion. 
 
 3 
 
-(2)[1] Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.“ 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen weiterbildender oder weiterqualifizierender Studien oder außerhalb des Hochschulbereichs erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.“ 
 
-   - c) In Abs. 3 Satz 1 werden die Worte „Module, Prüfungen und Studienleistungen“ durch die Worte „Studien- und Prüfungsleistungen“ ersetzt. 
+- c) In Abs. 3 Satz 1 werden die Worte „Module, Prüfungen und Studienleistungen“ durch die Worte „Studien- und Prüfungsleistungen“ ersetzt. 
 
-   - d) Abs. 4 wird wie folgt geändert: 
+d) Abs. 4 wird wie folgt geändert: 
 
-      - aa) Vor Satz 1 wird folgender neuer Satz 1 eingefügt; die bisherigen Sätze 1 bis 5 werden zu Sätzen 2 bis 6: 
+- aa) Vor Satz 1 wird folgender neuer Satz 1 eingefügt; die bisherigen Sätze 1 bis 5 werden zu Sätzen 2 bis 6: 
 
-         - „[1] Anerkennung und Anrechnung erfolgen auf Antrag.“ 
+# „<sup>1</sup> Anerkennung und Anrechnung erfolgen auf Antrag.“ 
 
       - bb) In Sätzen 2, 3 und 4 werden jeweils nach dem Wort „Anerkennung“ die Worte „bzw. Anrechnung“ ein- bzw. angefügt. 
 
@@ -122,44 +122,43 @@ a) In Abs. 1 werden nach Satz 4 folgende neue Sätze 5 und 6 angefügt:
 
    - c) Nach Satz 1 (neu) werden folgende neue Sätze 2 bis 4 angefügt: 
 
-„[2] Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs. 3In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.[4] Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
+„<sup>2</sup> Werden Lehrveranstaltungen im Online-Format abgehalten, erfolgt die Kontrolle der Anwesenheit durch die bzw. den Lehrenden mittels eines Namensabgleichs. 3In diesem Rahmen überprüft die bzw. der Lehrende, ob die auf der Anmeldeliste verzeichneten Namen tatsächlich den Namen entsprechen, mit denen Studierende an der Lehrveranstaltung teilnehmen.<sup>4</sup> Nehmen Studierende unter einem Pseudonym an einer Lehrveranstaltung im Online-Format teil, so haben sie der bzw. dem Lehrenden dies in anwesenheitspflichtigen Veranstaltungen mitzuteilen und ihren Klarnamen zu nennen, um den Abgleich zu ermöglichen.“ 
 
 10. In § 15 werden die Zahl und das Wort „69 **BayHSchG** “ durch die Zahl und das Wort „101 **BayHIG** “ ersetzt. 
 
-## 11. § 17 Abs. 1 wird wie folgt geändert: 
+11. § 17 Abs. 1 wird wie folgt geändert: 
 
-- a) Die bisher einzige Regelung wird zu Satz 1. 
+   - a) Die bisher einzige Regelung wird zu Satz 1. 
 
-- b) In Satz 1 (neu) wird der Klammerzusatz „(insbesondere Klausur, Haus- und Seminararbeit)“ gestrichen. 
+   - b) In Satz 1 (neu) wird der Klammerzusatz „(insbesondere Klausur, Haus- und Seminararbeit)“ gestrichen. 
 
-- c) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt: 
+   - c) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt: 
 
 4 
 
-„[2] Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als OpenBook-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.[3] Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
+„<sup>2</sup> Schriftliche Prüfungen mit Ausnahme von Klausuren können auch als OpenBook-Prüfung abgehalten werden, bei der die Studierenden unbeaufsichtigt innerhalb eines bestimmten Zeitrahmens eine oder mehrere Aufgaben unter Zuhilfenahme eines erweiterten Kreises an Hilfsmitteln bzw. sämtlicher Hilfsmittel – jedoch ohne die Hilfe dritter Personen – bearbeiten; Näheres regelt die Modulbeschreibung.<sup>3</sup> Bei Prüfungen i. S. d. Satz 2 sind die Aufgabenstellungen möglichst auf das Prüfen von höheren Kompetenzen wie Verständnis, Analysieren, Transfer und Anwendung auszurichten.“ 
 
 12. In § 18 Abs. 3 Satz 4 werden die Worte „bei den Prüfungsakten“ gestrichen. 
 
-## 13. § 19 Abs. 1 wird wie folgt geändert: 
+# 13. § 19 Abs. 1 wird wie folgt geändert: 
 
 - a) In Satz 1 wird in der Tabelle vor der Zeile beginnend mit „sehr gut“ folgende neue Zeile eingefügt: 
 
-|„<br>“||||
-|---|---|---|---|
-||**Prädikat**|**Notenstufe**|**Erläuterung**|
-|||||
+|„<br>**Prädikat**|**Notenstufe**|**Erläuterung**|
+|---|---|---|
+|“|||
 
 - b) Nach Satz 6 werden folgende neue Sätze 7 und 8 eingefügt; der bisherige Satz 7 wird zu Satz 9: 
 
-„[7] Satz 6 kann auch bei Prüfungen angewendet werden, die keine mehrteilige Prüfung im Sinne des § 5 Abs. 2 Satz 3 darstellen, jedoch gleichwohl aus mehreren Teilen bestehen (bspw. Klausur mit einer Kombination aus Antwort-Wahl-Verfahren und offenen Fragen); Näheres zur Bewertung regelt in diesem Fall die **Anlage 1** .[8] Soweit in der **Anlage 1** nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 5 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.“ 
+„<sup>7</sup> Satz 6 kann auch bei Prüfungen angewendet werden, die keine mehrteilige Prüfung im Sinne des § 5 Abs. 2 Satz 3 darstellen, jedoch gleichwohl aus mehreren Teilen bestehen (bspw. Klausur mit einer Kombination aus Antwort-Wahl-Verfahren und offenen Fragen); Näheres zur Bewertung regelt in diesem Fall die **Anlage 1** .<sup>8</sup> Soweit in der **Anlage 1** nichts anderes festgelegt ist, werden die Modulnoten aus dem Durchschnitt der einzelnen Noten der Prüfungen im Sinne von § 5 Abs. 2 Satz 3 errechnet; das Notenschema des Abs. 1 Satz 1 findet keine Anwendung.“ 
 
 14. In § 20 werden nach den Worten „Zulassung zu einer“ das Wort „Prüfung“ durch die Worte „(Teil-)Prüfung bzw. einem Prüfungsteil“ und nach den Worten „durch das Bestehen“ das Wort „Prüfung“ durch die Worte „(Teil-)Prüfung bzw. des Prüfungsteils“ ersetzt. 
 
-15. Die Regelung in § 23 erhält folgende neue Fassung: 
+# 15. Die Regelung in § 23 erhält folgende neue Fassung: 
 
-„[1] Wer die Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[2] Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
+„<sup>1</sup> Wer die Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.<sup>2</sup> Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
 
-## 16. § 27 wird wie folgt geändert: 
+# 16. § 27 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -171,17 +170,17 @@ bb) In Satz 2 (neu) wird das Wort „Sie“ durch die Worte „Die Masterarbeit�
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 eingefügt; die bisherigen Abs. 2 bis 11 werden zu Abs. 3 bis 12: 
 
-„(2)[1] Die Masterarbeit kann in zwei Varianten absolviert werden.[2] Die Masterarbeit ist in der Modulvariante A stärker forschungsorientiert ausgerichtet und wird mit mit 30 ECTS-Punkten gewertet.[3] In der Modulvariante B ist die Masterarbeit stärker anwendungsorientiert ausgerichtet und wird mit 15 ECTS-Punkten gewertet; es ist zusätzlich das Modul B2: Internship im Umfang von 15 ECTS-Punkten zu absolvieren.“ 
+„(2)<sup>1</sup> Die Masterarbeit kann in zwei Varianten absolviert werden.<sup>2</sup> Die Masterarbeit ist in der Modulvariante A stärker forschungsorientiert ausgerichtet und wird mit mit 30 ECTS-Punkten gewertet.<sup>3</sup> In der Modulvariante B ist die Masterarbeit stärker anwendungsorientiert ausgerichtet und wird mit 15 ECTS-Punkten gewertet; es ist zusätzlich das Modul B2: Internship im Umfang von 15 ECTS-Punkten zu absolvieren.“ 
 
-c) Abs. 3 (neu) wird wie folgt geändert: 
+- c) Abs. 3 (neu) wird wie folgt geändert: 
 
-- aa) In Satz 1 werden nach den Worten „Abgabe der Arbeit soll“ die Worte „in der Modulvariante A“ und nach den Worten „Modulvariante A sechs Monate“ (neu) die Worte „und in der Modulvariante B drei Monate“ sowie nach den Worten „dass es innerhalb der“ das Wort „jeweiligen“ eingefügt. 
+   - aa) In Satz 1 werden nach den Worten „Abgabe der Arbeit soll“ die Worte „in der Modulvariante A“ und nach den Worten „Modulvariante A sechs Monate“ (neu) die Worte „und in der Modulvariante B drei Monate“ sowie nach den Worten „dass es innerhalb der“ das Wort „jeweiligen“ eingefügt. 
 
-- bb) In Satz 2 werden nach den Worten „maximal zwei Monate“ die Worte „in der Modulvariante A und einen Monat in der Modulvariante B“ eingefügt. 
+   - bb) In Satz 2 werden nach den Worten „maximal zwei Monate“ die Worte „in der Modulvariante A und einen Monat in der Modulvariante B“ eingefügt. 
 
 cc) Nach Satz 3 werden folgende neue Sätze 4 bis 5 angefügt: 
 
-„[4] Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. sechs Monate) i. S. d. Satz 3, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.[5] Sätze 3 und 4 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist.“ 
+„<sup>4</sup> Ruht die Bearbeitungszeit für einen längeren Zeitraum (mind. sechs Monate) i. S. d. Satz 3, so soll der Prüfungsausschuss einen krankheitsbedingten Abbruch der Bearbeitung prüfen mit der Folge, dass die Masterarbeit nach Wegfall der Krankheit mit einem neuen Thema neu anzumelden ist.<sup>5</sup> Sätze 3 und 4 gelten entsprechend in Fällen, in denen die bzw. der Studierende aus schwerwiegenden, nicht in ihrer bzw. seiner Risikosphäre liegenden und nicht von ihr bzw. ihm zu vertretenden Gründen, an der Bearbeitung der Masterarbeit gehindert ist.“ 
 
 - d) In Abs. 6 (neu) Satz 1 werden die Worte „HR 1, HR 2 und HR 3“ durch die Worte „Human Rights Philosophy, Human Rights Politics, Human Rights Law und Human Rights Research Methods“ ersetzt. 
 
@@ -189,38 +188,37 @@ cc) Nach Satz 3 werden folgende neue Sätze 4 bis 5 angefügt:
 
 17. In § 29 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt geltenden Fassung dieser Studien- und Prüfungsordnung ab.“ 
+„(4)<sup>1</sup> Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studienund Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt geltenden Fassung dieser Studien- und Prüfungsordnung ab.“ 
 
 6 
 
-## 18. **Anlage 1** wird wie folgt geändert: 
+# 18. **Anlage 1** wird wie folgt geändert: 
 
-## a) Der Studienverlaufsplan erhält samt Erläuterung folgende neue Fassung: 
+# <u>a) Der Studienverlaufsplan erhält samt Erläuterung folgende neue Fassung:</u> 
 
-|„**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>|**SWS**<br>|**SWS**<br>|**SWS**<br>|**Ge-**<br>**samt-**|**1.**|**2.**|**3.**<br>**Sem **|**Art und Umfang der**<br>**Püf**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Sem **|**Sem **||||
-|||**V**|**Ü**|**P**|**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**rung**||
-|**Human Rights Philosophy**|Lecture Human Rights Philosophy|2||||**5**|5|||Klausur (90 Min.)|1|
-|**Human Rights Politics**|Lecture Human Rights Politics|2||||**5**|5|||Klausur (90 Min.)|1|
-|**Human Rights Law**|LectureHuman RightsLaw|2||||**5**|5|||Klausur(90Min.)|1|
-|**Human Rights Research**<br>**Methods**|Seminar Human Rights Research<br>Methods||||1|**5**|3|||Hausarbeit (5-10 S.)|0|
-||Tutorial Research and Writing Exercise||||1||2|||||
-|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights Politics||||2|**5**|5|||Referat (15-20 Min.)|0|
-|**Cases in Human Rights Law **|Seminar Cases in Human Rights Law||||2|**5**|5|||Referat (15-20 Min.)|0|
-|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar||||2|**5**||5||Hausarbeit (10-15 S.)|1|
-|**Key skills**|Key skill workshops||||2|**5**||5||Lerntagebuch (5-10 S.)|0|
-|**Specialised aspects of**<br>**human rights protection I**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection II**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection III**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Specialised aspects of**<br>**human rights protection IV**|Seminar||||2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)1|1|
-|**Aus den folgenden Modulen sind entweder das Modul Aoder die Module B1und B2 zu wählen:**||||||||||||
-|**A: Master’s thesis**|Masterthesis|||||**30**|||27,5|Masterarbeit (60-80 S.)|1|
-||Colloquium||||||||2,5|||
-|**B1: Master’s thesis**|Masterthesis|||||**15**|||15|Masterarbeit (20-40 S.)|2|
-|**B2: Internship**||||||**15**|||15|Praktikumsbericht (2-5 S.)|0|
-|**Summe SWS und ECTS-Punkte**||**6**|||**18**|**90**|**30**|**30**|**30**|||
-|||**24**||||||||||
+|||**SWS**|**Ge-**|**1.**|**2.**|**3.**|**Art und Umfan der**|**Faktor**|
+|---|---|---|---|---|---|---|---|---|
+|„**Modulbezeichnung**|**Lehrveranstaltung**||**samt-**|**Sem **|**Sem **|**Sem **|**g**<br>**Pf**|**Modul-**|
+|||**V**<br>**Ü**<br>**P**<br>**S**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**rüung**|**note**|
+|**Human Rights Philosophy**|Lecture Human Rights Philosophy|2|**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Politics**|Lecture Human Rights Politics|2|**5**|5|||Klausur (90 Min.)|1|
+|**Human Rights Law**|LectureHuman RightsLaw|2|**5**|5|||Klausur(90Min.)|1|
+|**Human Rights Research**<br>**Mthd**|Seminar Human Rights Research<br>Methods|1|**5**|3|||Hausarbeit (5-10 S.)|0|
+|**eos**|Tutorial Research and Writing Exercise|1||2|||||
+|**Actors in Human Rights**<br>**Politics**|Seminar Actors in Human Rights Politics|2|**5**|5|||Referat (15-20 Min.)|0|
+|**Cases in Human Rights Law **|Seminar Cases in Human Rights Law|2|**5**|5|||Referat (15-20 Min.)|0|
+|**Interdiscplinary approach to**<br>**non-discrimination**|Seminar|2|**5**||5||Hausarbeit (10-15 S.)|1|
+|**Key skills**|Key skill workshops|2|**5**||5||Lerntagebuch (5-10 S.)|0|
+|**Specialised aspects of**<br>**human rights protection I**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection II**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection III**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit<br>(30 % + 70 %)<sup>1</sup>|1|
+|**Specialised aspects of**<br>**human rights protection IV**|Seminar|2|**5**||5||Klausur (120 Min., 100 %)<br>oder<br>Referat und Hausarbeit|1|
+||||||||<br>(30 % + 70 %)<sup>1</sup>||
+|**Aus den folgenden Modulen si**|**nd entweder das Modul Aoder die Modul**<br>|**e B1und B2 zu wäh**|**len:**||||||
+|**A: Master’s thesis**|Masterthesis<br>Colloquium||**30**|||27,5<br>2,5|Masterarbeit (60-80 S.)|1|
+|**B1: Master’s thesis**|Masterthesis||**15**|||15|Masterarbeit (20-40 S.)|2|
+|**B2: Internship**|||**15**|||15|Praktikumsbericht (2-5 S.)|0|
+|**Summe SWS und ECTS-Punkte**||**6**<br>**18**<br>**24**|**90**|**30**|**30**|**30**|||
 
 7 
 
@@ -228,9 +226,9 @@ cc) Nach Satz 3 werden folgende neue Sätze 4 bis 5 angefügt:
 
 - b) In der dritten Tabelle (Glossar Prüfungsformen) erhält Zeile 3 (Projektbericht) folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-Lerntagebuch learning diary 
+<u>Lerntagebuch learning diary</u> 
 
 “ 
 
@@ -264,7 +262,7 @@ e) Abs. 7 wird wie folgt geändert:
 
 aa) Satz 5 erhält folgende neue Fassung: 
 
-„[5] Es wird von jeweils zwei Mitgliedern des Prüfungsausschusses durchgeführt.“ 
+„<sup>5</sup> Es wird von jeweils zwei Mitgliedern des Prüfungsausschusses durchgeführt.“ 
 
 8 
 
@@ -278,7 +276,7 @@ aa) Satz 5 erhält folgende neue Fassung:
 
 20. In **Anlage 3** Abs. 4 Satz 1 werden die Worte „Die Zugangskommission“ durch die Worte „Der Prüfungsausschuss“ ersetzt. 
 
-**§ 2** 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt geltenden Fassung dieser Studien- und Prüfungsordnung ab. 
+**§ 2** 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen des Angebots betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt geltenden Fassung dieser Studien- und Prüfungsordnung ab. 
 
 9 
 

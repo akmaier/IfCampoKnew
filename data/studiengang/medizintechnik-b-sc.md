@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "250-600"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:48:59+00:00
+scraped_at: 2026-07-01T08:25:49+00:00
 ---
 
 # Medizintechnik (B.Sc.)
@@ -37,7 +37,7 @@ Der Bachelorstudiengang Medizintechnik vermittelt in sechs Semestern breite inge
 
 Nach einem erfolgreichen Bachelorabschluss können Sie ein viersemestriges Masterstudium in Medizintechnik aufnehmen, in dem eine weitere Vertiefung Ihrer Interessensgebiete erfolgt.
 
-### Bachelor of Science Medizintechnik
+### Fachanteile des Studiengangs Medizintechnik (B.Sc.)
 
 * Mathematik (29%)
 * Studienrichtungsspezifische Kernmodule (Gerätetechnik und Prothetik oder Bildgebende Verfahren) (26%)
@@ -176,7 +176,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Medizinische Fakultät](https://med.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/04/Medizintechnik-BSc-FAU_Nat_FATHERSUN_1328.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Medizintechnik-BSc-FAU_Nat_FATHERSUN_1328.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

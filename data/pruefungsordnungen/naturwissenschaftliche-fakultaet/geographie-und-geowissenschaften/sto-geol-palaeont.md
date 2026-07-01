@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 16.06.1994"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT3/StO_Geol-Palaeont.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:39:09+00:00
-page_count_chars: 20175
+scraped_at: 2026-07-01T09:05:16+00:00
+page_count_chars: 20161
 ---
 
 # PDF vom 16.06.1994
@@ -14,7 +14,7 @@ page_count_chars: 20175
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den Diplomstudiengang Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 16. Juni 1994** 
+# **Studienordnung für den Diplomstudiengang Geologie-Paläontologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 16. Juni 1994** 
 
 Aufgrund des Art. 6 in Verbindung mit Art. 72 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg folgende Studienordnung: 
 
@@ -170,9 +170,8 @@ DPO aus einem vom Kandidaten nicht gewählten Wahlpflichtfach nach Wahl 4 SWS
 
 1. für alle Studenten verbindliche Pflichtveranstaltungen im Umfang von 50 SWS wie folgt: 
 
-|folgt:|||
-|---|---|---|
 ||Art der Lehrveranstaltung|SWS|
+|---|---|---|
 |Vorlesung Allgemeine Stratigraphie I und II|Vorlesung|3|
 |Übung Allgemeine Gefügekunde|Übung (siehe Fußnote 3)|2|
 |Übung Luftbild-Geologie (siehe Fußnote 3)|Übung (siehe Fußnote 3)|2|
@@ -189,9 +188,7 @@ DPO aus einem vom Kandidaten nicht gewählten Wahlpflichtfach nach Wahl 4 SWS
 |Mikroskopisches Praktikum II und III|Übung (siehe Fußnote 3)|6|
 |Vorlesungen nach Wahl|Vorlesung|2|
 |eine dritte Kartierungsübung (aus der Geologie oder aus der<br>Angewandten Geologie oder aus der Bodenkunde)|Übung (siehe Fußnote 3)||
-|Exkursionen im Umfang von 55 Tagen (möglichst aufgeteilt in|||
-|die Bereiche Geologie mit 34, Paläontologie mit 15 und Petro-|Exkursion (siehe Fußnote 3)||
-|logie mit 6 Geländetagen)|||
+|Exkursionen im Umfang von 55 Tagen (möglichst aufgeteilt in<br>die Bereiche Geologie mit 34, Paläontologie mit 15 und Petro-<br>logie mit 6 Geländetagen)|Exkursion (siehe Fußnote 3)||
 
 5 
 

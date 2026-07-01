@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Soziol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:14:27+00:00
-page_count_chars: 8060
+scraped_at: 2026-07-01T10:30:56+00:00
+page_count_chars: 8124
 ---
 
 # PDF vom 05.10.2007 i.d.F. 05.11.2010
@@ -14,7 +14,7 @@ page_count_chars: 8060
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Soziologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -34,11 +34,11 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 ## **§ 2 Umfang und Ziele des Studiums** 
 
-(1)[ 1] Das Fach Soziologie kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten, studiert werden. 
+(1)<sup>1</sup> Das Fach Soziologie kann im Bachelorstudiengang entweder als 1. Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als 2. Fach mit einem Umfang von 70 ECTS-Punkten, studiert werden. 
 
-(2)[1] Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Bachelorstudium erwerben die Studierenden grundlegende Fachkenntnisse der Soziologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Das Studium bereitet auf berufliche Tätigkeiten vor.[2] Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
+(3)<sup>1</sup> Das Studium bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Es bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt. 
 
 (4) Das Studium der Soziologie im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten, die die Studierenden zur Analyse der sozialen Wirklichkeit und zur Reflexion auf Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft befähigt: 
 
@@ -102,15 +102,13 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 2 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium der Soziologie als erstes Fach sind folgende Module erfolgreich abzu- <u>legen:</u> 
 
-## (1) Im Studium der Soziologie als erstes Fach sind folgende Module erfolgreich abzulegen: 
-
-|legen:||||
+|**1**|**Modul**|**ECTS/**<br>Faktor<sup>x</sup>|**Prüfungs-**<br>**leistung**|
 |---|---|---|---|
-|**1**|**Modul**|**ECTS/**<br>Faktorx|**Prüfungs-**<br>**leistung**|
 |**SozE**|**Einführung**|10||
-|1. FS<br>1. FS|V:<br>V:<br>Einführung in die Soziologie<br>Sozialstrukturanalyse<br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
+|1. FS|V:<br>Einführung in die Soziologie<br>(2 SWS)|5|***|
+|1. FS|V:<br>Sozialstrukturanalyse<br>(2 SWS)|5|***|
 |**SozTI**|**Soziologische Theorie BA-I**|10||
 |2. FS<br>3. FS|V:<br>PS:<br>Soziologische Theorien der Gegenwart<br>Soziologische Theorie<br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
 |**SozMI**|**Soziologische Methodenlehre BA-I**|5||
@@ -120,10 +118,9 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 |**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-I**<br>(Auswahl eines Moduls aus den Modulen Q1 bis Q4)*|10||
 |1. FS<br>2. FS|Proseminar<br>Proseminar<br>(2 SWS)<br>(2 SWS)|5<br>5|**<br>**|
 |**SozQ1**<br>**-**<br>**SozQ4**|**Soziologisches Qualifikationsprofil BA-II**<br>(Auswahl eines zweiten Moduls aus den Modulen Q1 bis Q4)*|10||
-|3. FS<br>4. FS|Proseminar<br>Proseminar<br>(2 SWS)<br>(2 SWS)|5<br>5|***<br>***|
-|**SozTII**<br>**oder**<br>**SozV1**<br>**-**<br>**SozV4**|**Soziologische Theorie BA-II**<br>oder|||
-||<br>**Vertiefung Qualifikationsprofil BA-V-I**|12,5||
-||<br>(Auswahl eines Moduls aus den Modulen V1 bis V4)**|||
+|3. FS|Proseminar<br>(2 SWS)|5|***|
+|4. FS|Proseminar<br> <br>(2 SWS)|5|***|
+|**SozTII**<br>**oder**<br>**SozV1**<br>**-**<br>**SozV4**|**Soziologische Theorie BA-II**<br>oder<br>**Vertiefung Qualifikationsprofil BA-V-I**<br>(Auswahl eines Moduls aus den Modulen V1 bis V4)**|12,5||
 |5. FS<br>5. FS|Proseminar<br>Hauptseminar<br>(2 SWS)<br>(2 SWS)|5<br>7,5|je Referat und<br>Hausarbeit|
 |**SozMII**<br>**oder**<br>**SozV1-**<br>**SozV4**|**Soziologische Methodenlehre BA-II**<br>oder<br>**Vertiefung Qualifikationsprofil BA-V-II**<br>(Auswahl eines zweiten Moduls aus den Modulen V1 bis V4)**|12,5||
 |6. FS<br>6. FS|Proseminar<br>Hauptseminar<br>(2 SWS)<br>(2SWS)|5<br>7,5|je Referat und<br>Hausarbeit|
@@ -131,15 +128,11 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 - x Gewichtungsfaktor für die Berechnung der Modulnote aus mehreren Prüfungen; § 19 Abs. 3 ABMStPO/Phil bleibt unberührt. 
 
-- Für die Soziologischen Qualifikationsprofile I und II stehen folgende Module zur Auswahl: 
-
-   - SozQ1: Vergleichende Gesellschaftsanalyse 
+- Für die Soziologischen Qualifikationsprofile I und II stehen folgende Module zur Auswahl: SozQ1: Vergleichende Gesellschaftsanalyse 
 
    - SozQ2: Bildung und Lebenslauf 
 
-   - SozQ3: Kultur und Kommunikation 
-
-   - SozQ4: Arbeit und Organisation 
+   - SozQ3: Kultur und Kommunikation SozQ4: Arbeit und Organisation 
 
 - ** Als Modulnote wird die bessere der beiden Noten der Teilprüfungen angerechnet. 
 
@@ -147,13 +140,13 @@ Diese Studien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfun
 
 (2) Wird Soziologie als zweites Fach gewählt, gilt Absatz 1 entsprechend mit der Maßgabe, dass das Modul „Soziologisches Qualifikationsprofil II” entfällt. 
 
-> 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
+- 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 3 
 
-(3)[1] Wird Soziologie als Erstfach gewählt, sind im Bereich Schlüsselqualifikationen Leistungen von 20 ECTS-Punkten zu erbringen.[2] Davon entfallen 10 ECTS-Punkte auf ein zweimonatiges Praktikum in einer berufsbezogenen Tätigkeit. 
+(3)<sup>1</sup> Wird Soziologie als Erstfach gewählt, sind im Bereich Schlüsselqualifikationen Leistungen von 20 ECTS-Punkten zu erbringen.<sup>2</sup> Davon entfallen 10 ECTS-Punkte auf ein zweimonatiges Praktikum in einer berufsbezogenen Tätigkeit. 
 
-(4)[1] Wird Soziologie als zweites Fach gewählt, wird im Bereich Schlüsselqualifikationen ein zweimonatiges Praktikum in einer berufsbezogenen Tätigkeit im Umfang von 10 ECTS-Punkten empfohlen.[2] Daneben wird die Auswahl von Modulen angeregt, die beruflich verwertbare Qualifikationen vermitteln bzw. eine sinnvolle Ergänzung zur Soziologie darstellen. 
+(4)<sup>1</sup> Wird Soziologie als zweites Fach gewählt, wird im Bereich Schlüsselqualifikationen ein zweimonatiges Praktikum in einer berufsbezogenen Tätigkeit im Umfang von 10 ECTS-Punkten empfohlen.<sup>2</sup> Daneben wird die Auswahl von Modulen angeregt, die beruflich verwertbare Qualifikationen vermitteln bzw. eine sinnvolle Ergänzung zur Soziologie darstellen. 
 
 ## **§ 5 Grundlagen und Orientierungsprüfung** 
 
@@ -163,9 +156,11 @@ Für die Grundlagen- und Orientierungsprüfung im Fach Soziologie müssen die Mo
 
 Die Vergabe des Themas für die Bachelor-Arbeit kann ungeachtet der Bestimmungen in § 31 ABMStPO/Phil erst erfolgen, wenn die erfolgreiche Teilnahme an mindestens einem Modul aus den Modulen SozTII, SozMII oder SozV1 bis SozV4 nachgewiesen worden ist. 
 
-**§ 7 Schluss- und Übergangsvorschriften** (1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+## **§ 7 Schluss- und Übergangsvorschriften** 
 
-(2)[1] Die 3. Änderungssatzung gilt für alle Module, die nach dem In-Kraft-Treten dieser Änderungssatzung abgelegt werden.[2] Bereits abgeschlossene Module bzw. Teilstudiengänge bleiben hiervon unberührt. 
+(1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+
+(2)<sup>1</sup> Die 3. Änderungssatzung gilt für alle Module, die nach dem In-Kraft-Treten dieser Änderungssatzung abgelegt werden.<sup>2</sup> Bereits abgeschlossene Module bzw. Teilstudiengänge bleiben hiervon unberührt. 
 
 4 
 

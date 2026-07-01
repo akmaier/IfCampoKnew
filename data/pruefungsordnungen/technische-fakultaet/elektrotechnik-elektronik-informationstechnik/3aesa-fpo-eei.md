@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Juni 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:16+00:00
-page_count_chars: 9100
+scraped_at: 2026-07-01T11:29:50+00:00
+page_count_chars: 8686
 ---
 
 # 2. Juni 2003
@@ -12,7 +12,7 @@ page_count_chars: 9100
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Universität Erlangen-Nürnberg** 
 
 ## Vom 2. Juni 2003 
 
@@ -28,7 +28,9 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
    - b) Satz 5 wird Satz 3 (neu). 
 
-   - c) Satz 6 wird Satz 4 (neu) und erhält folgende Fassung: "[4] Die Dauer der Prüfungen, die Verteilung der Prüfungsleistungen auf die Semester sowie die Zahl der Leistungs- bzw. Maluspunkte ergeben sich im Einzelnen aus der **Anlage 1** ." 
+   - c) Satz 6 wird Satz 4 (neu) und erhält folgende Fassung: 
+
+      - "<sup>4</sup> Die Dauer der Prüfungen, die Verteilung der Prüfungsleistungen auf die Semester sowie die Zahl der Leistungs- bzw. Maluspunkte ergeben sich im Einzelnen aus der **Anlage 1** ." 
 
 2. In § 8 Abs. 2 Satz 1 Nr. 2 werden der Klammerzusatz "(Grundpraxis)" und die Worte "höchstens aber 13 Wochen" gestrichen. 
 
@@ -36,13 +38,13 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
    - a) Der bisherige Wortlaut von Absatz 1 wird Satz 1 und erhält bis zum ersten Semikolon der Nr. 1 folgende Fassung: 
 
-      - "(1)[1] Voraussetzung für die Zulassung zu Prüfungen der Diplomhauptprüfung ist, dass 
+      - "(1)<sup>1</sup> Voraussetzung für die Zulassung zu Prüfungen der Diplomhauptprüfung ist, dass 
 
       1. die Diplomvorprüfung bestanden ist, mindestens aber bei der Zulassung zu den Prüfungen, die nach **Anlage 2** im fünften Fachsemester vorgesehen sind, alle bis auf zwei Prüfungen der Diplomvorprüfung mit wenigstens "ausreichend" bewertet sind; 
 
    - b) In Absatz 1 wird folgender Satz 2 angefügt: 
 
-      - "[2] Für die Zulassung zu den Prüfungen des sechsten und höheren Semesters im Sinne der **Anlage 2** ist Voraussetzung, dass der Kandidat unbeschadet der Ausgleichsmöglichkeiten nach § 8 alle Prüfungen der Diplomvorprüfung bestanden hat." 
+      - "<sup>2</sup> Für die Zulassung zu den Prüfungen des sechsten und höheren Semesters im Sinne der **Anlage 2** ist Voraussetzung, dass der Kandidat unbeschadet der Ausgleichsmöglichkeiten nach § 8 alle Prüfungen der Diplomvorprüfung bestanden hat." 
 
    - c) In Absatz 4 Nr. 2 Buchst. b werden die Worte "eines aus dem Angebot" durch die Worte "ein Hauptseminar aus dem Angebot" ersetzt. 
 
@@ -54,18 +56,20 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
 "3. Der Umfang der Teilprüfungen eines Faches ergibt sich aus **Anlage 1** beziehungsweise **Anlage 2** ." 
 
-## 6. Die **Anlagen 1** und **2** erhalten folgende Fassungen: 
+6. Die **Anlagen 1** und **2** erhalten folgende Fassungen: 
 
 ## „ **Anlage 1** (zu § 7) 
 
-|„**Anlage 1**(zu § 7)||||||||
+|**_Prüfungsfächer der_**<br>**_Diplomvorprüfung_**|**_Verte_**<br>**_d_**<br>|**_ilung d_**<br>**_ie Seme_**<br>**_Grundst_**|**_er SWS_**<br>**_ster de_**<br>**_udiums_**|**_über_**<br>**_s_**<br>|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**_Zahl_**<br>**_Leistungs-_**<br>**_punkte_**|**_der_**<br>**_Malus-_**<br> **_punkte_**|
 |---|---|---|---|---|---|---|---|
-|**_Prüfungsfächer der_**<br>**_Diplomvorprüfung_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Grundstudiums_**||||**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**_Zahl der_**<br>**_Leistungs-   Malus-_**<br>**_punktepunkte_**||
 ||1.|2.|3.|4.||||
 |1.   Mathematik mit den Teilprüfungen<br>a) Mathematik I und II<br>b) Mathematik III und IV|4+2|4+2|4+2|2+2|180<br>180|12<br>10|12<br>10|
-|2.   Grundlagen der Elektrotechnik<br>mit den Teilprüfungen<br>a) Grundlagen der Elektrotechnik I<br>b) Grundlagen der Elektrotechnik II<br>c)Grundlagen der Elektrotechnik III|4+2|2+2|2+2||120<br>90<br>90|6<br>4<br>4|6<br>4<br>4|
-|3.   Experimentalphysik<br>mit den Teilprüfungen<br>a) Experimentalphysik I<br>b)Experimentalphysik II|3+1|3+1|||90<br>90|4<br>4<br>4|4<br>4<br>4|
-|4.   Informatik mit den Teilprüfungen<br>a) Grundlagen der Informatik I<br>b)Grundlagen der Informatik II|3+3|1+1|||120<br>90|6<br>2|6<br>2|
+|2.   Grundlagen der Elektrotechnik<br>mit den Teilprüfungen<br>a) Grundlagen der Elektrotechnik I<br>b) Grundlagen der Elektrotechnik II|4+2|2+2|||120<br>90|6<br>4|6<br>4|
+|c)Grundlagen der Elektrotechnik III|||2+2||90|4|4|
+|3.   Experimentalphysik<br>mit den Teilprüfungen<br>a) Experimentalphysik I|3+1||||90|4<br>4|4<br>4|
+|b)Experimentalphysik II||3+1|||90|4|4|
+|4.   Informatik mit den Teilprüfungen<br>a) Grundlagen der Informatik I|3+3||||120|6|6|
+|b)Grundlagen der Informatik II||1+1|||90|2|2|
 |5.   Werkstoffkunde|2+0||||60|2|2|
 |6.   Technische Mechanik||3+2|||90|5|5|
 |7.   Einführungin die Konstruktionslehre||||2+1|60|3|3|
@@ -81,8 +85,9 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
 **Anlage 2** (zu § 12 Abs. 3) 
 
-|**_Diplomhauptprüfung_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**_Zahl der_**<br>**_Leistungs-  Malus-_**<br>**_punktepunkte_**|**_Zahl der_**<br>**_Leistungs-  Malus-_**<br>**_punktepunkte_**|
+|**_Diplomhauptprüfung_**|**_Vert_**<br>|**_eilung d_**<br>**_die Seme_**|**_er SWS_**<br>**_ster des_**|**_über_**<br>|**_Prüfungs-_**<br>**_dauer_**|**_Zah_**<br>**_Leistung_**|**_l der_**<br>**_s-  Malus-_**|
 |---|---|---|---|---|---|---|---|
+|||**_Hauptst_**|**_udiums_**||**_in Minuten _**|**_punkte_**|**_punkte_**|
 ||5.|6.|7.|8.||||
 |I. Pflichtfächer der Studienrichtungen||||||||
 |**A) Allgemeine Elektrotechnik**||||||||
@@ -118,7 +123,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 
 3 
 
-|**_Diplomhauptprüfung_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Verteilung der SWS über_**<br>**_die Semester des_**<br>**_Hauptstudiums_**|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**_Zahl der_**<br>**_Leistungs-   Malus-_**<br>**_punktepunkte_**|**_Zahl der_**<br>**_Leistungs-   Malus-_**<br>**_punktepunkte_**|
+|**_Diplomhauptprüfung_**|**_Vert_**<br>|**_eilung d_**<br>**_die Seme_**<br>**_Hauptst_**|**_er SWS_**<br>**_ster des_**<br>**_udiums_**|**_über_**<br>|**_Prüfungs-_**<br>**_dauer_**<br>**_in Minuten _**|**_Zah_**<br>**_Leistung_**<br>**_punkte_**|**_l der_**<br>**_s-   Malus-_**<br> **_punkte_**|
 |---|---|---|---|---|---|---|---|
 ||5.|6.|7.|8.||||
 |**D) Informationstechnik**||||||||
@@ -145,11 +150,11 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 |1. Passive Bauelemente und deren<br>HF-Verhalten|2+2||||90|4|4|
 |2. Regelungstechnik|2+2||||90|4|4|
 |3. Elektromagnetische Felder II|2+1||||90|3|3|
-|4. wahlweise entweder<br>4.1. Signalübertragung und<br>-verarbeitung oder<br>4.2 folgende Pflichtfächer:<br>4.2.1. Nachrichtenübertragung<br>4.2.2. Digitale Signalverarbeitung||||||||
-|||2+2|||90|4|4|
-|||||||||
-||4+2||||120|6|6|
-|||4+2|||120|6|6|
+|4. wahlweise entweder||||||||
+|4.1. Signalübertragung und<br>-verarbeitung oder||2+2|||90|4|4|
+|4.2 folgende Pflichtfächer:||||||||
+|4.2.1. Nachrichtenübertragung|4+2||||120|6|6|
+|4.2.2. Digitale Signalverarbeitung||4+2|||120|6|6|
 |5. weitere frei wählbare Pflichtfächer<br>entsprechend der Differenz bis zur<br>Summeje Studienrichtung||||||||
 |**Summe je Studienrichtung**||||||**35**|**35**|
 |II.  Wahlpflichtfächer der Studienrichtung||||||16|16|
@@ -157,8 +162,7 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Elektrote
 |IV. Wahllehrveranstaltungen||||||16|---|
 |V.  Studienarbeit||||||8|---|
 |VI. Diplomarbeit||||||16|---|
-|**Gesamtsumme**||||||**95**|**51**|
-||||||||"|
+|**Gesamtsumme**||||||**95**|**51**<br>"|
 
 4 
 

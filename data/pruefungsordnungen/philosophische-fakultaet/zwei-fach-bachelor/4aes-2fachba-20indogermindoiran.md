@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-2FachBA%20IndogermIndoiran.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:02+00:00
-page_count_chars: 3559
+scraped_at: 2026-07-01T10:20:56+00:00
+page_count_chars: 3474
 ---
 
 # 9. März 2011
@@ -14,19 +14,19 @@ page_count_chars: 3559
 
 **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
-## In § 4 wird nach Abs. 1 folgender neuer Abs. 2 eingefügt: 
+# In § 4 wird nach Abs. 1 folgender neuer Abs. 2 eingefügt: 
 
 „(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
 
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
+|||||**1**<br>|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|
 |---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Basismodul**<br>**Einführung i.d. historisch-**<br>**vergleichende Sprachwissenschaft**<br>**(Germanische und andere Sprachen)**|||**10**|||||||
@@ -50,25 +50,25 @@ Die Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiran
 |Mittelseminar||2|6|||||||
 |Eigenstudiums-Element zum Mittelseminar||1|1|||||||
 
-|**Aufbaumodul**<br>**Rekonstruktion der**<br>**indogermanischen Grundsprache**|||**10**|||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Übung||2|2|||||||
-|Eigenstudiums-Element zur Übung||1|1|||||||
-|Mittelseminar||2|6|||||||
-|Eigenstudiums-Element zum Mittelseminar||1|1|||||||
-|**Importmodule**|||**20**|||||||
-|**Importmodul 1**|||5|||||||
-|**Importmodul 2**|||5|||||||
-|**Importmodul 3**|||5|||||||
-|**Importmodul 4**|||5|||||||
-|**Bachelorarbeit**|||**10**|||||||
-|Bachelorarbeit|||10|||||||
+|**Aufbaumodul**<br>**Rekonstruktion der**<br>**indogermanischen Grundsprache**||**10**|
+|---|---|---|
+|Übung|2|2|
+|Eigenstudiums-Element zur Übung|1|1|
+|Mittelseminar|2|6|
+|Eigenstudiums-Element zum Mittelseminar|1|1|
+|**Importmodule**||**20**|
+|**Importmodul 1**||5|
+|**Importmodul 2**||5|
+|**Importmodul 3**||5|
+|**Importmodul 4**||5|
+|**Bachelorarbeit**||**10**|
+|Bachelorarbeit||10|
 
 Für die GOP müssen mindestens die Modulprüfungen für das Basismodul „Sanskrit“ sowie für das Modul „Einführung in die Historisch-Vergleichende Sprachwissenschaft“ erfolgreich abgelegt werden. “ 
 
 Der bisherige Abs. 2 wird zu Abs. 3. 
 
-**§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

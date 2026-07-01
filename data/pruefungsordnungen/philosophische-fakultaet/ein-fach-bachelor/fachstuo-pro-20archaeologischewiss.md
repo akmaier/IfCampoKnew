@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/1Fach-BA/FachStuO+PrO%20ArchaeologischeWiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:06:35+00:00
-page_count_chars: 12880
+scraped_at: 2026-07-01T09:28:59+00:00
+page_count_chars: 12953
 ---
 
 # PDF vom 09.10.2007
@@ -12,15 +12,17 @@ page_count_chars: 12880
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/1Fach-BA/FachStuO+PrO%20ArchaeologischeWiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Archäologische Wissenschaften im Ein-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Archäologische Wissenschaften im Ein-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 9. Oktober 2007 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Studien- und Prüfungsordnung: 
 
-**§1 Geltungsbereich** Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 (im Folgenden ABStPO/Phil) für das Fach Archäologische Wissenschaften. 
+**§1 Geltungsbereich** 
 
-## **§2 Umfang und Ziele des Studiums** 
+Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung für die Bachelorstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg vom 27. September 2007 (im Folgenden ABStPO/Phil) für das Fach Archäologische Wissenschaften. 
+
+**§2 Umfang und Ziele des Studiums** 
 
 - (1) Das Fach Archäologische Wissenschaften wird im Ein-FachBachelorstudiengang mit einem Umfang von 150 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten studiert; hinzu kommen 20 ECTS-Punkte für Module, die zusätzliche berufsfeldorientierte Schlüsselqualifikationen vermitteln. 
 
@@ -74,7 +76,7 @@ Als dritte Fremdsprache im Sinne des § 26 Abs. 2 Nr. 2 ABStPO/Phil müssen im F
 
 ## **§4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Im Studium der Archäologischen Wissenschaften sind folgende Module erfolgreich abzulegen: 
+## (1) Im Studium der Archäologischen Wissenschaften sind folgende Module <u>erfolgreich abzulegen:</u> 
 
 ||Modul|ECTS|Prüfungsleistung|
 |---|---|---|---|
@@ -95,22 +97,22 @@ Als dritte Fremdsprache im Sinne des § 26 Abs. 2 Nr. 2 ABStPO/Phil müssen im F
 |AR 05|Basismodul I A: Prähistorische Archäologie<br>1|10||
 |1.- 3.<br>FS|Vorlesung zur Kulturentwicklung<br>Alteuropas (2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
 |1. - 3.<br>FS|Proseminar zur Kulturentwicklung Europas<br>(2 SWS)|5|Referat mit<br>Hausarbeit|
-|1. - 3.<br>FS|Übung zur Kulturentwicklung Alteuropas (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
+|1. - 3.<br>FS|<br>Übung zur Kulturentwicklung Alteuropas (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 06|Basismodul I B: Klassische Archäologie 1|10||
-|1.- 3.<br>FS|Vorlesung zur antiken Kulturgeschichte (2<br>SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
+|1.- 3.<br>FS|<br>Vorlesung zur antiken Kulturgeschichte (2<br>SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
 |1.- 3.<br>FS|Proseminar zur antiken Kulturgeschichte (2<br>SWS)|5|Referat mit<br>Hausarbeit|
-|1.- 3.<br>FS|Übung zur antiken Kulturgeschichte (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
+|1.- 3.<br>FS|<br>Übung zur antiken Kulturgeschichte (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR07|Basismodul IC:ChristlicheArchäologie1|10||
 |1. - 3.<br>FS|Vorlesung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jh. (2 SWS)|3|Studienleistung<br>(Klausur)|
-|1. - 3.<br>FS|Proseminar zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jh. (2 SWS)|5|Referat mit<br>Hausarbeit|
+|1. - 3.<br>FS|Proseminar zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jh. (2 SWS)<br>|5|Referat mit<br>Hausarbeit|
 |1. - 3.<br>FS|Übung zur Kulturgeschichte des<br>Christentums vom 4. bis ins 8. Jh. (1 SWS)|2|Studienleistung<br>(Kurzreferate, kleine<br>Hausarbeiten)|
 |AR 08|Basismodul II A: Prähistorische<br>Archäologie2|10||
 |2. - 4.<br>FS|Vorlesung zu thematischen Grundfragen<br>der prähistorischen Archäologie Alteuropas<br>(2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
 |2. - 4.-<br>FS|Proseminar zu thematischen Grundfragen<br>der prähistorischen Archäologie Alteuropas<br>(2 SWS)|5|Referat mit<br>Hausarbeit|
-|2. - 4.<br>FS|Übung zu thematischen Grundfragen der<br>prähistorischen Archäologie Alteuropas (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
+|2. - 4.<br>FS|<br>Übung zu thematischen Grundfragen der<br>prähistorischen Archäologie Alteuropas (1<br>SWS)|2|Studienleistungen<br>Kurzreferate, kleine<br>Hausarbeiten|
 |AR 09|Basismodul II B: Klassische Archäologie 2|10||
 |2. - 4.<br>FS|Vorlesung zu einer Denkmälergattung der<br>Klassischen Archäologie (2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
-|2. - 4.|Proseminar zu einer Denkmälergattung der|5|Referatmit|
+|2. - 4.|Proseminar zu einer Denkmälergattung der|5|<br>Referatmit|
 
 |FS|Klassischen Archäologie (2 SWS)||Hausarbeit|
 |---|---|---|---|
@@ -118,11 +120,11 @@ Als dritte Fremdsprache im Sinne des § 26 Abs. 2 Nr. 2 ABStPO/Phil müssen im F
 |AR 10|Basismodul IIC:ChristlicheArchäologie2|10||
 |2. - 4.<br>FS|Vorlesung zur bildenden Kunst der<br>Spätantike und des frühen Christentums (2<br>SWS)|3|Studienleistung<br>(Klausur)|
 |2. - 4.<br>FS|Proseminar zur bildenden Kunst der<br>Spätantike und des frühen Christentums (2<br>SWS)|5|Referat mit<br>Hausarbeit|
-|2. - 4.<br>FS|Übung zur bildenden Kunst der Spätantike<br>und des frühen Christentums (1 SWS)|2|Studienleistungen<br>(Kurzreferate, kleine<br>Hausarbeiten)|
+|2. - 4.<br>FS|<br>Übung zur bildenden Kunst der Spätantike<br>und des frühen Christentums (1 SWS)|2|Studienleistungen<br>(Kurzreferate, kleine<br>Hausarbeiten)|
 |AR 11|Aufbaumodul I: Die Studierenden können<br>eines der drei Module 11A, 11 B, 11 C<br>wählen|10||
 |AR 11A|Aufbaumodul I A: Prähistorische<br>Archäologie 3|10||
 |4. - 6.<br>FS|Vorlesung über eine relevante Epoche<br>prähistorischer Kulturentwicklung (2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
-|4. - 6.<br>FS|Hauptseminar über eine relevante Epoche<br>prähistorischer Kulturentwicklung (2SWS)|7|Referat mit<br>Hausarbeit|
+|4. - 6.<br>FS|Hauptseminar über eine relevante Epoche<br>prähistorischer Kulturentwicklung (2SWS)|7|<br>Referat mit<br>Hausarbeit|
 |AR 11B|Aufbaumodul I B: Klassische Archäologie 3|10||
 |4. - 6.<br>FS|Vorlesung zur antiken Kulturgeschichte (2<br>SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
 |4. - 6.<br>FS|Hauptseminar über einen relevanten<br>Themenbereich antiker Kulturgeschichte (2<br>SWS)|7|Referat mit<br>Hausarbeit|
@@ -132,7 +134,7 @@ Als dritte Fremdsprache im Sinne des § 26 Abs. 2 Nr. 2 ABStPO/Phil müssen im F
 |AR 12|Aufbaumodul II: Die Studierenden können<br>eines der vier Module 12A, 12 B, 12 C, 12<br>D wählen|10||
 |AR 12A|Aufbaumodul II A: Prähistorische<br>Archäologie 4|10||
 |4. - 6.<br>FS|Vorlesung zu thematischen Grundfragen<br>der prähistorischen Archäologie Alteuropas<br>(2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
-|4. - 6.<br>FS|Hauptseminar zu thematischen<br>Grundfragen der prähistorischen<br>ArchäologieAlteuropas (2SWS)|7|Referat mit<br>Hausarbeit|
+|4. - 6.<br>FS|<br>Hauptseminar zu thematischen<br>Grundfragen der prähistorischen<br>ArchäologieAlteuropas (2SWS)|7|<br>Referat mit<br>Hausarbeit|
 |AR 12<br>B|Aufbaumodul II B: Klassische Archäologie<br>4|10||
 
 |4. - 6.<br>FS|Vorlesung zu einer repräsentativen<br>Denkmälergattung antiker Kunst (2 SWS)|3|Studienleistung<br>(Regelmäßige<br>Teilnahme)|
@@ -148,8 +150,9 @@ Als dritte Fremdsprache im Sinne des § 26 Abs. 2 Nr. 2 ABStPO/Phil müssen im F
 |AR 14<br>3. - 6.<br>FS|Gelände- und Grabungspraktikum|10|Referat mit<br>Hausarbeit|
 |AR 15<br>3. - 6.<br>FS|Exkursion mit vorbereitender Übung (2<br>SWS)|10|Referat mit<br>Hausarbeit|
 |AR 16 -<br>17<br>FS frei<br>wählbar|Module für zusätzliche berufsfeldorientierte<br>Schlüsselqualifikationen|20|Anforderungen der<br>jeweiligen Fächer|
-|AR 18<br>6. FS|Bachelorarbeit|10|Schriftliche<br>Abschlussarbeit|
-|(2) Für den Bereich der zusätzlichen berufsfeldorientierten Schlüsselqualifikationen<br>(20 ECTS-Punkte) werden Module zum Erwerb oder zur Vertiefung von Latein-<br>und Griechisch-Kenntnissen empfohlen oder Module, die von folgenden Fächern<br>angeboten<br>werden:<br>Geologie,<br>Geschichte,<br>Indogermanistik,<br>Klassische<br>Philologie, Kunstgeschichte, Mineralogie.||||
+|AR 18|Bachelorarbeit|10|Schriftliche|
+|6. FS|||Abschlussarbeit|
+|(2) Für<br>(20<br>und<br>ange<br>Philo|den Bereich der zusätzlichen berufsfeldorien<br>ECTS-Punkte) werden Module zum Erwerb o<br>Griechisch-Kenntnissen empfohlen oder Mod<br>boten<br>werden:<br>Geologie,<br>Geschichte,<br>logie, Kunstgeschichte, Mineralogie.|tierten<br>der zur<br>ule, die<br>Indoge|Schlüsselqualifikationen<br>Vertiefung von Latein-<br>von folgenden Fächern<br>rmanistik,<br>Klassische|
 
 **§5 Grundlagen- und Orientierungsprüfung** Für die Grundlagenund Orientierungsprüfung im Fach Archäologische Wissenschaften müssen die Modulprüfungen für die Orientierungsmodule AR 01 bis AR 04 (jeweils 10 ECTS-Punkte) im Gesamtumfang von 40 ECTS-Punkten nachgewiesen werden. 
 

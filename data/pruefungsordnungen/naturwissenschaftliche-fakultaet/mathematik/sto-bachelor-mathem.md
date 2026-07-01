@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 09.04.1986 i.d.F. 08.12.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/StO_Bachelor_Mathem.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:54:41+00:00
-page_count_chars: 27890
+scraped_at: 2026-07-01T09:18:01+00:00
+page_count_chars: 28441
 ---
 
 # PDF vom 09.04.1986 i.d.F. 08.12.2000
@@ -52,11 +52,11 @@ Diese Studienordnung beschreibt auf der Grundlage der Prüfungsordnung für den 
 
 ## **II. Studium mit dem Abschlussziel Diplom** 
 
-**§ 4 Ziele des Studiums** 
+## **§ 4 Ziele des Studiums** 
 
-(1)[1] Das Studium bereitet auf die Tätigkeit des Diplom-Mathematikers in anwendungs-, forschungs- und lehrbezogenen Tätigkeitsfeldern vor.[2] Das Bestehen der Diplom-Hauptprüfung stellt keine Zugangsberechtigung für ein Lehramt an Schulen dar. 
+(1)<sup>1</sup> Das Studium bereitet auf die Tätigkeit des Diplom-Mathematikers in anwendungs-, forschungs- und lehrbezogenen Tätigkeitsfeldern vor.<sup>2</sup> Das Bestehen der Diplom-Hauptprüfung stellt keine Zugangsberechtigung für ein Lehramt an Schulen dar. 
 
-(2)[1] Das Ziel der Ausbildung zum Diplom-Mathematiker ist es, den Studenten durch die Vermittlung von Kenntnissen auf den wichtigsten Teilgebieten der Mathematik mit charakteristischen Methoden mathematischen Arbeitens vertraut zu machen.[2] Durch eine umfassende mathematische Ausbildung, durch Anregung der mathematischen Phantasie, durch Schulung des Abstraktionsvermögens und des analytischen Denkens soll er die Fähigkeit erwerben, sich später in vielfältige Aufgabengebiete selbständig einzuarbeiten und die in der Berufspraxis ständig wechselnden Problemstellungen zu bewältigen.[3] Typische Tätigkeitsmerkmale eines Diplom-Mathematikers sind: 
+(2)<sup>1</sup> Das Ziel der Ausbildung zum Diplom-Mathematiker ist es, den Studenten durch die Vermittlung von Kenntnissen auf den wichtigsten Teilgebieten der Mathematik mit charakteristischen Methoden mathematischen Arbeitens vertraut zu machen.<sup>2</sup> Durch eine umfassende mathematische Ausbildung, durch Anregung der mathematischen Phantasie, durch Schulung des Abstraktionsvermögens und des analytischen Denkens soll er die Fähigkeit erwerben, sich später in vielfältige Aufgabengebiete selbständig einzuarbeiten und die in der Berufspraxis ständig wechselnden Problemstellungen zu bewältigen.<sup>3</sup> Typische Tätigkeitsmerkmale eines Diplom-Mathematikers sind: 
 
 - Analyse wissenschaftlicher, technischer, wirtschaftlicher oder organisatorischer Probleme im Hinblick auf ihre Mathematisierbarkeit; 
 
@@ -68,7 +68,7 @@ Diese Studienordnung beschreibt auf der Grundlage der Prüfungsordnung für den 
 
 - Interpretation und Rückübersetzung mathematischer Ergebnisse im Hinblick auf anwendungsbezogene Problemstellungen. 
 
-4Aufgaben dieser Art treten außer in den klassischen Anwendungsgebieten Physik und Technik zunehmend auch in anderen Bereichen wie Biologie, Informatik, Medizin, Wirtschafts- und Sozialwissenschaften auf.[5] Die Ausbildung zum DiplomMathematiker ist breit angelegt und vermeidet eine frühzeitige Spezialisierung.[6] Der Student lernt die wichtigsten Zweige der Reinen und Angewandten Mathematik (wie z.B. Numerik und Statistik) kennen und wird mit dem Einsatz von Rechenanlagen vertraut gemacht.[7] Vertiefte Kenntnisse sind in exemplarischer Weise in einem Schwerpunktgebiet zu erwerben.[8] Darüber hinaus soll (als Wahlfach) ein mögliches Anwendungsgebiet der Mathematik studiert werden. 
+4Aufgaben dieser Art treten außer in den klassischen Anwendungsgebieten Physik und Technik zunehmend auch in anderen Bereichen wie Biologie, Informatik, Medizin, Wirtschafts- und Sozialwissenschaften auf.<sup>5</sup> Die Ausbildung zum DiplomMathematiker ist breit angelegt und vermeidet eine frühzeitige Spezialisierung.<sup>6</sup> Der Student lernt die wichtigsten Zweige der Reinen und Angewandten Mathematik (wie z.B. Numerik und Statistik) kennen und wird mit dem Einsatz von Rechenanlagen vertraut gemacht.<sup>7</sup> Vertiefte Kenntnisse sind in exemplarischer Weise in einem Schwerpunktgebiet zu erwerben.<sup>8</sup> Darüber hinaus soll (als Wahlfach) ein mögliches Anwendungsgebiet der Mathematik studiert werden. 
 
 (3) Die Naturwissenschaftliche Fakultät I (Mathematik und Physik) der Universität Erlangen-Nürnberg verleiht nach bestandener Abschlussprüfung den Grad eines "Diplom-Mathematikers Univ." beziehungsweise einer "Diplom-Mathematikerin Univ." 
 
@@ -76,19 +76,19 @@ Diese Studienordnung beschreibt auf der Grundlage der Prüfungsordnung für den 
 
 ## **§ 5 Gliederung des Studiums** 
 
-(1)[1] Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplom-Vorprüfung abgeschlossen wird, und ein Hauptstudium.[2] Am Ende des Hauptstudiums steht eine Prüfungszeit, in der die Diplomarbeit angefertigt und die mündliche Diplom-Hauptprüfung abgelegt wird. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplom-Vorprüfung abgeschlossen wird, und ein Hauptstudium.<sup>2</sup> Am Ende des Hauptstudiums steht eine Prüfungszeit, in der die Diplomarbeit angefertigt und die mündliche Diplom-Hauptprüfung abgelegt wird. 
 
-(2)[1] Das Studium der Mathematik sollte auf eine nicht zu schmale Basis gestellt werden.[2] Der Student soll vom ersten Semester an Kontakt mit anderen Fächern suchen.[3] Er muss ein Wahlfach (Nebenfach) außerhalb der Mathematik studieren (§ 9 Abs. 2 Nr. 4 und § 17 Abs. 2 Nr. 4 DPO).[4] Das Wahlfach sollte zu Beginn des Grundstudiums ausgesucht werden, zugelassen sind folgende Gebiete: Physik, Biologie, Informatik, Elektrotechnik, Betriebswirtschaftslehre, Volkswirtschaftslehre.[5] Auf Antrag kann der Prüfungsausschuss auch ein anderes Gebiet als Wahlfach zulassen (§ 9 Abs. 2 Nr. 4 Satz 3 DPO).[6] Ein Wechsel des Wahlfachs ist nur unter den in § 8 Abs. 1 genannten Bedingungen möglich. 
+(2)<sup>1</sup> Das Studium der Mathematik sollte auf eine nicht zu schmale Basis gestellt werden.<sup>2</sup> Der Student soll vom ersten Semester an Kontakt mit anderen Fächern suchen.<sup>3</sup> Er muss ein Wahlfach (Nebenfach) außerhalb der Mathematik studieren (§ 9 Abs. 2 Nr. 4 und § 17 Abs. 2 Nr. 4 DPO).<sup>4</sup> Das Wahlfach sollte zu Beginn des Grundstudiums ausgesucht werden, zugelassen sind folgende Gebiete: Physik, Biologie, Informatik, Elektrotechnik, Betriebswirtschaftslehre, Volkswirtschaftslehre.<sup>5</sup> Auf Antrag kann der Prüfungsausschuss auch ein anderes Gebiet als Wahlfach zulassen (§ 9 Abs. 2 Nr. 4 Satz 3 DPO).<sup>6</sup> Ein Wechsel des Wahlfachs ist nur unter den in § 8 Abs. 1 genannten Bedingungen möglich. 
 
 ## **§ 6 Grundstudium** 
 
 ## (1) Studieninhalte im Hauptfach 
 
-1Die folgenden Veranstaltungen des Grundstudiums dienen dem Erwerb mathematischer Grundkenntnisse; auf ihnen baut das gesamte weitere Studium auf: a) Analysis I, II, III (je 4V + 2Ü)[ * 1)] : Differential- und Integralrechnung einer und mehrerer Veränderlicher; dazu gehören die Grundzüge der gewöhnlichen Differentialgleichungen und des Lebesgue-Integrals sowie die Integralsätze der Vektoranalysis. b) Lineare Algebra und Analytische Geometrie I, II (je 4 V + 2 Ü). 
+1Die folgenden Veranstaltungen des Grundstudiums dienen dem Erwerb mathematischer Grundkenntnisse; auf ihnen baut das gesamte weitere Studium auf: a) Analysis I, II, III (je 4V + 2Ü)<sup>* 1)</sup> : Differential- und Integralrechnung einer und mehrerer Veränderlicher; dazu gehören die Grundzüge der gewöhnlichen Differentialgleichungen und des Lebesgue-Integrals sowie die Integralsätze der Vektoranalysis. b) Lineare Algebra und Analytische Geometrie I, II (je 4 V + 2 Ü). 
 
 c) Elementare Stochastik (4V + 2Ü): Grundzüge der stochastischen Modellbildung und statistische Verfahren. 
 
-d) Numerische Mathematik (Teil I oder II) (4 V + 2 Ü).[* 2) ] 
+d) Numerische Mathematik (Teil I oder II) (4 V + 2 Ü).<sup>* 2)</sup> 
 
 e) Proseminar (2 SWS), in dem der Student ein begrenztes mathematisches Thema selbständig erarbeiten und vortragen soll. 
 
@@ -98,16 +98,15 @@ f) Programmieren für Mathematiker: Vorlesung (2 V + 2 Ü) im 1. oder 2. Semeste
 
 (2) Um ein ordnungsgemäßes Studium innerhalb der Regelstudienzeit absolvieren zu können, wird der folgende Plan empfohlen: 
 
-||4V + 2Ü|4V + 2Ü|2 SWS|
-|---|---|---|---|
-|1. Semester|Analysis I|Lineare Algebra und Analytische Geometrie I||
-|2. Semester|Analysis II|Lineare Algebra und Analytische Geometrie II|Proseminar|
-|3. Semester|Analysis III|Numerische Mathematik I* 3), Elementare Stochastik||
-|4. Semester|Funktionentheorie|eine weitere Vorlesung des Hauptstudiums||
+|4V + 2Ü|4V + 2Ü|2 SWS|
+|---|---|---|
+|1. Semester Analysis I|Lineare Algebra und Analytische Geometrie I||
+|2. Semester Analysis II<br>3. Semester Analysis III|Lineare Algebra und Analytische Geometrie II<br>Numerische Mathematik I<sup>* 3</sup>), Elementare Stochastik|Proseminar<br>|
+|4. Semester Funktionenthe|orie eine weitere Vorlesung des Hauptstudiums||
 
 ## (3) Studieninhalte der Wahlfächer 
 
-1Für das Studium des Wahlfaches sind im Grundstudium 12 bis 16 SWS zu veranschlagen.[2] Im Einzelnen werden folgende Empfehlungen ausgesprochen: 
+1Für das Studium des Wahlfaches sind im Grundstudium 12 bis 16 SWS zu veranschlagen.<sup>2</sup> Im Einzelnen werden folgende Empfehlungen ausgesprochen: 
 
 ## (a) Physik 
 
@@ -161,17 +160,13 @@ Für die Zulassung zur Diplom-Vorprüfung sind mindestens folgende Scheine vorzu
 
 **§ 7 Hauptstudium** 
 
-(1)[1] Ziel des Hauptstudiums ist es, im Haupt- wie im Wahlfach das Verständnis zu vertiefen und weitere Kenntnisse zu erwerben.[2] Insbesondere erfolgt die gründliche Einarbeitung in ein Spezialgebiet der Mathematik, aus dem in der Regel das Thema der Diplomarbeit hervorgeht. 
+(1)<sup>1</sup> Ziel des Hauptstudiums ist es, im Haupt- wie im Wahlfach das Verständnis zu vertiefen und weitere Kenntnisse zu erwerben.<sup>2</sup> Insbesondere erfolgt die gründliche Einarbeitung in ein Spezialgebiet der Mathematik, aus dem in der Regel das Thema der Diplomarbeit hervorgeht. 
 
-(2)[1] Die Inhalte des Hauptstudiums in der Mathematik lassen sich in folgende Hauptgebiete gliedern: 
+(2)<sup>1</sup> Die Inhalte des Hauptstudiums in der Mathematik lassen sich in folgende Hauptgebiete gliedern: 
 
-1. Algebra, Zahlentheorie 
+1. Algebra, Zahlentheorie Beispiele für Kursvorlesungen<sup>* 4)</sup> : Algebra und Zahlentheorie I, II. Beispiele für weitere Vorlesungen: Kombinatorik, Algebraische Geometrie, Gruppentheorie, Kommutative Algebra, Algebraische Zahlentheorie. 
 
-Beispiele für Kursvorlesungen[* 4)] : Algebra und Zahlentheorie I, II. Beispiele für weitere Vorlesungen: Kombinatorik, Algebraische Geometrie, Gruppentheorie, Kommutative Algebra, Algebraische Zahlentheorie. 
-
-2. Geometrie, Topologie 
-
-Beispiele für Kursvorlesungen: Differentialgeometrie, Projektive Geometrie, Topologie. 
+2. Geometrie, Topologie Beispiele für Kursvorlesungen: Differentialgeometrie, Projektive Geometrie, Topologie. 
 
 Beispiele für weitere Vorlesungen: Algebraische Geometrie, Grundlagen der Geometrie, Algebraische Topologie, Liesche Gruppen. 
 
@@ -179,30 +174,23 @@ Beispiele für weitere Vorlesungen: Algebraische Geometrie, Grundlagen der Geome
 
 Beispiele für Kursvorlesungen: Funktionentheorie, Gewöhnliche Differentialgleichungen, Approximationstheorie, Funktionalanalysis, Partielle Differentialgleichungen. Beispiele für weitere Vorlesungen: Maßtheorie, Integralgleichungen, Potentialtheorie, Variationsrechnung, Fourieranalysis, Spezielle Funktionen. 
 
-4. Angewandte Analysis, Numerische Mathematik Beispiele für Kursvorlesungen: Numerische Mathematik II[* 5)] , Integralgleichungen, Mathematische Optimierung, Numerische Behandlung partieller Differentialgleichungen. 
+4. Angewandte Analysis, Numerische Mathematik Beispiele für Kursvorlesungen: Numerische Mathematik II<sup>* 5)</sup> , Integralgleichungen, Mathematische Optimierung, Numerische Behandlung partieller Differentialgleichungen. 
 
 Beispiele für weitere Vorlesungen: Mathematische Methoden der Physik, Kontrolltheorie, Numerische lineare Algebra, Mathematische Netzwerktheorie, Splinefunktionen, Approximationstheorie, Numerische Integration, Numerische Behandlung gewöhnlicher Differentialgleichungen, Finite Elemente. 
 
 5. Stochastik 
 
-Beispiele für Kursvorlesungen: Wahrscheinlichkeitstheorie, Statistik. Beispiele für weitere Vorlesungen: Stochastische Prozesse, Ergodentheorie, Informationstheorie, stochastische Differentialgleichungen.[2] Der Student hat im Laufe seines Studiums an folgenden Lehrveranstaltungen des Hauptstudiums teilzunehmen: a) 6 Kursvorlesungen im Umfang von etwa 30 Stunden (V + Ü). 
-
-b) Spezielle Themen behandelnde Veranstaltungen im Umfang von mindestens 16 Stunden an Vorlesungen, Übungen, Seminaren oder Arbeitsgemeinschaften. c) Zwei je 2-stündige (Haupt-) Seminare. Die Seminare können auf vorangegangenen Lehrveranstaltungen aufbauen. Hier soll der Student den selbständigen Umgang mit der Fachliteratur lernen, sich in spezielle Gebiete der Mathematik einarbeiten und je ein gestelltes Thema in eigenem Entwurf vortragen. 
+Beispiele für Kursvorlesungen: Wahrscheinlichkeitstheorie, Statistik. Beispiele für weitere Vorlesungen: Stochastische Prozesse, Ergodentheorie, Informationstheorie, stochastische Differentialgleichungen.<sup>2</sup> Der Student hat im Laufe seines Studiums an folgenden Lehrveranstaltungen des Hauptstudiums teilzunehmen: a) 6 Kursvorlesungen im Umfang von etwa 30 Stunden (V + Ü). b) Spezielle Themen behandelnde Veranstaltungen im Umfang von mindestens 16 Stunden an Vorlesungen, Übungen, Seminaren oder Arbeitsgemeinschaften. c) Zwei je 2-stündige (Haupt-) Seminare. Die Seminare können auf vorangegangenen Lehrveranstaltungen aufbauen. Hier soll der Student den selbständigen Umgang mit der Fachliteratur lernen, sich in spezielle Gebiete der Mathematik einarbeiten und je ein gestelltes Thema in eigenem Entwurf vortragen. 
 
 5 
 
 (3) Für die zeitliche Organisation ab dem vierten Semester ist z.B. folgender Plan möglich: 
 
-|4.|Semester|Funktionentheorie, eine weitere Vorlesung<br>des Hauptstudiums|Vordiplomprüfungen (während oder<br>nach dem 4. Semester)|
-|---|---|---|---|
-|5.|Semester|Algebra und Zahlentheorie sowie zwei wei-<br>tere Vorlesungen des Hauptstudiums||
-|6.|Semester|Gewöhnliche Differentialgleichungen und<br>eine weitere Vorlesung des Hauptstudiums,<br>Seminar|<br>Erste Kontaktaufnahme mit einem Do-<br>zenten wegen einer Diplomarbeit|
-|7.|Semester|2 bis 3 Vorlesungen des Hauptstudiums,<br>Seminar||
-|8.|Semester|1 bis 2 Vorlesungen des Hauptstudiums|Diplomarbeit|
+Funktionentheorie, eine weitere Vorlesung Vordiplomprüfungen (während oder 4. Semester des Hauptstudiums nach dem 4. Semester) Algebra und Zahlentheorie sowie zwei wei5. Semester tere Vorlesungen des Hauptstudiums Gewöhnliche Differentialgleichungen und Erste Kontaktaufnahme mit einem Do6. Semester eine weitere Vorlesung des Hauptstudiums, zenten wegen einer Diplomarbeit Seminar 2 bis 3 Vorlesungen des Hauptstudiums, 7. Semester Seminar 8. Semester 1 bis 2 Vorlesungen des Hauptstudiums Diplomarbeit 
 
 ## (4) Studieninhalte der Wahlfächer 
 
-1Wie im Grundstudium sollen auch im Hauptstudium 12 bis 16 SWS auf das Wahlfach verwendet werden.[2] Im Einzelnen wird folgendes empfohlen: 
+1Wie im Grundstudium sollen auch im Hauptstudium 12 bis 16 SWS auf das Wahlfach verwendet werden.<sup>2</sup> Im Einzelnen wird folgendes empfohlen: 
 
 ## (a) Physik 
 
@@ -238,7 +226,7 @@ Für die Zulassung zur Diplomprüfung sind mindestens folgende Leistungsnachweis
 
 im Hauptfach zwei Seminarscheine und zwei weitere Leistungsnachweise; diese vier Leistungsnachweise müssen aus mindestens drei der in Absatz 2 genannten Hauptgebiete stammen; im Wahlfach ein Leistungsnachweis. 
 
-(6)[1] Die Diplomprüfung besteht aus der Erstellung einer Diplomarbeit und dem Ablegen von vier mündlichen Prüfungen in den Prüfungsfächern 
+(6)<sup>1</sup> Die Diplomprüfung besteht aus der Erstellung einer Diplomarbeit und dem Ablegen von vier mündlichen Prüfungen in den Prüfungsfächern 
 
 1. Reine Mathematik (eines der drei Gebiete: 
 
@@ -270,23 +258,23 @@ Das Spezialgebiet und die Prüfungsgebiete in Reiner und Angewandter Mathematik 
 
 ## **§ 8 Prüfungen** 
 
-(1)[1] Die Meldung zur Diplom-Vorprüfung ist rechtzeitig an den Vorsitzenden des Prüfungsausschusses zu richten.[2] Die hierfür bestimmten Vordrucke sind bei der Geschäftsstelle des Prüfungsausschusses erhältlich, die die Meldungen auch entgegennimmt (zzt. ist das die Geschäftsstelle des Mathematischen Instituts).[3] Der Meldung sind die geforderten Unterlagen beizufügen. 
+(1)<sup>1</sup> Die Meldung zur Diplom-Vorprüfung ist rechtzeitig an den Vorsitzenden des Prüfungsausschusses zu richten.<sup>2</sup> Die hierfür bestimmten Vordrucke sind bei der Geschäftsstelle des Prüfungsausschusses erhältlich, die die Meldungen auch entgegennimmt (zzt. ist das die Geschäftsstelle des Mathematischen Instituts).<sup>3</sup> Der Meldung sind die geforderten Unterlagen beizufügen. 
 
 7 
 
-(2)[1] Die Diplom-Vorprüfung ist generell innerhalb eines Prüfungszeitraumes abzulegen.[2] Einzelne Teilprüfungen können im Einklang mit § 9 Abs. 4 DPO vorgezogen werden. 
+(2)<sup>1</sup> Die Diplom-Vorprüfung ist generell innerhalb eines Prüfungszeitraumes abzulegen.<sup>2</sup> Einzelne Teilprüfungen können im Einklang mit § 9 Abs. 4 DPO vorgezogen werden. 
 
-(3)[1] Ist die Diplom-Vorprüfung bis zum Beginn der Lehrveranstaltungen des sechsten Fachsemesters nicht abgelegt, gilt sie als erstmals nicht bestanden (§ 14 DPO).[2] Bei einem Wechsel des Wahlfaches während des Hauptstudiums ist eine Ergänzungsprüfung zur Diplom-Vorprüfung im neuen Wahlfach abzulegen. 
+(3)<sup>1</sup> Ist die Diplom-Vorprüfung bis zum Beginn der Lehrveranstaltungen des sechsten Fachsemesters nicht abgelegt, gilt sie als erstmals nicht bestanden (§ 14 DPO).<sup>2</sup> Bei einem Wechsel des Wahlfaches während des Hauptstudiums ist eine Ergänzungsprüfung zur Diplom-Vorprüfung im neuen Wahlfach abzulegen. 
 
-(4)[1] Nach bestandener Diplom-Vorprüfung wird dem Studenten empfohlen, sich mit einem Hochschullehrer der Mathematik über seinen weiteren Studiengang zu beraten.[2] Spätestens zwei Semester nach Bestehen der Diplom-Vorprüfung soll er sich für das Spezialgebiet seines Studiums, aus dem die Diplomarbeit hervorgehen soll, entschieden haben.[3] Nach spätestens einem weiteren Semester soll der Kandidat mit konkreten Vorarbeiten für seine spätere Diplomarbeit beginnen. 
+(4)<sup>1</sup> Nach bestandener Diplom-Vorprüfung wird dem Studenten empfohlen, sich mit einem Hochschullehrer der Mathematik über seinen weiteren Studiengang zu beraten.<sup>2</sup> Spätestens zwei Semester nach Bestehen der Diplom-Vorprüfung soll er sich für das Spezialgebiet seines Studiums, aus dem die Diplomarbeit hervorgehen soll, entschieden haben.<sup>3</sup> Nach spätestens einem weiteren Semester soll der Kandidat mit konkreten Vorarbeiten für seine spätere Diplomarbeit beginnen. 
 
-(5)[1] Die Meldung zur Diplom-Hauptprüfung soll so rechtzeitig erfolgen, dass die Diplom-Hauptprüfung am Ende der Regelstudienzeit abgeschlossen ist.[2] Ist die DiplomHauptprüfung mit Ende des 13. Fachsemesters nicht abgelegt, so gilt sie als erstmals nicht bestanden (§ 23 DPO). 
+(5)<sup>1</sup> Die Meldung zur Diplom-Hauptprüfung soll so rechtzeitig erfolgen, dass die Diplom-Hauptprüfung am Ende der Regelstudienzeit abgeschlossen ist.<sup>2</sup> Ist die DiplomHauptprüfung mit Ende des 13. Fachsemesters nicht abgelegt, so gilt sie als erstmals nicht bestanden (§ 23 DPO). 
 
 (6) Die drei unter § 7 Abs. 6 Nrn. 1 bis 3 genannten mündlichen Prüfungen sind in einem Prüfungszeitraum abzulegen; die Prüfung im Wahlfach kann vorher abgelegt werden, sofern die für diese Teilprüfung relevanten Zulassungsvoraussetzungen nach § 18 Abs. 1 DPO erfüllt sind. 
 
-(7)[1] Für die Bestellung der Prüfer hat der Kandidat ein Vorschlagsrecht.[2] Ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüfer besteht nicht.[3] Im Regelfall prüft der prüfungsberechtigte Dozent, bei dem die Vorlesung gehört wurde. 
+(7)<sup>1</sup> Für die Bestellung der Prüfer hat der Kandidat ein Vorschlagsrecht.<sup>2</sup> Ein Rechtsanspruch auf die Bestellung der vorgeschlagenen Prüfer besteht nicht.<sup>3</sup> Im Regelfall prüft der prüfungsberechtigte Dozent, bei dem die Vorlesung gehört wurde. 
 
-(8)[1] Die Vergabe eines Themas für eine Diplomarbeit regelt § 19 DPO.[2] Die Zeit von der Ausgabe des Themas bis zum Einreichen der Arbeit beträgt sechs Monate. 
+(8)<sup>1</sup> Die Vergabe eines Themas für eine Diplomarbeit regelt § 19 DPO.<sup>2</sup> Die Zeit von der Ausgabe des Themas bis zum Einreichen der Arbeit beträgt sechs Monate. 
 
 ## **§ 9** 
 
@@ -310,11 +298,11 @@ Jedes Semester erscheint ein kommentiertes Vorlesungsverzeichnis, das Angaben fo
 
 ## **Studienfachberatung** 
 
-1Die Studienfachberatung wird in der Verantwortung der Hochschullehrer des Faches Mathematik durchgeführt.[2] Für Studienanfänger wird zu Semesterbeginn im Rahmen einer Grundvorlesung eine kurze Einführung in das Studium der Mathematik gege- 
+1Die Studienfachberatung wird in der Verantwortung der Hochschullehrer des Faches Mathematik durchgeführt.<sup>2</sup> Für Studienanfänger wird zu Semesterbeginn im Rahmen einer Grundvorlesung eine kurze Einführung in das Studium der Mathematik gege- 
 
 8 
 
-ben.[3] Der Student sollte eine Studienfachberatung insbesondere in folgenden Fällen in Anspruch nehmen: 
+ben.<sup>3</sup> Der Student sollte eine Studienfachberatung insbesondere in folgenden Fällen in Anspruch nehmen: 
 
 - vor der Wahl von Schwerpunkten und Studienrichtungen 
 
@@ -326,7 +314,7 @@ ben.[3] Der Student sollte eine Studienfachberatung insbesondere in folgenden F�
 
 ## **§ 11 Ziele des Studiums** 
 
-(1)[1] Das Bachelorstudium soll die Studenten auf eine spätere computergestützte berufliche Tätigkeit in z. B. folgenden Feldern vorbereiten: 
+(1)<sup>1</sup> Das Bachelorstudium soll die Studenten auf eine spätere computergestützte berufliche Tätigkeit in z. B. folgenden Feldern vorbereiten: 
 
 a) in den Forschungs- und Entwicklungsabteilungen großer Unternehmen oder der gewerblichen Wirtschaft, 
 
@@ -352,37 +340,31 @@ d) in der Entwicklung und bei der Problemlösung in mittelständischen Unternehm
 
 - aktives und passives Kritikvermögen. 
 
-(2)[1] Ausbildungsziel ist eine solide Vermittlung von Kenntnissen in den Grundlagen der Mathematik wie der Informatik.[2] Im fünften und sechsten Semester erfolgt eine Spezialisierung in einem vom Studenten gewählten Schwerpunkt, der auch auf einem sehr anwendungsbetonten Gebiet, wie z. B. Wissenschaftliches Rechnen, oder einem der Informatik nahe stehenden Gebiet liegen kann.[3] Durchgehend vom Beginn des Studiums an erfolgt eine problemorientierte Ausbildung an Computern. 
+(2)<sup>1</sup> Ausbildungsziel ist eine solide Vermittlung von Kenntnissen in den Grundlagen der Mathematik wie der Informatik.<sup>2</sup> Im fünften und sechsten Semester erfolgt eine Spezialisierung in einem vom Studenten gewählten Schwerpunkt, der auch auf einem sehr anwendungsbetonten Gebiet, wie z. B. Wissenschaftliches Rechnen, oder einem der Informatik nahe stehenden Gebiet liegen kann.<sup>3</sup> Durchgehend vom Beginn des Studiums an erfolgt eine problemorientierte Ausbildung an Computern. 
 
 ## **§ 12 Gliederung des Bachelorstudiums** 
 
-(1)[1] Das Bachelorstudium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplomvorprüfung abgeschlossen wird, und eine zweisemestrige Projektphase, innerhalb deren eine Abschlussarbeit anzufertigen und eine mündliche Prüfung abzulegen ist.[2] Im Bachelorstudium der Mathematik werden die Grundlagen in den wichtigsten Gebieten der Mathematik und der Informatik und sowie im Umgang mit Rechnern vermittelt, so dass der Student gut auf einen frühen Übergang in die Berufspraxis vorbereitet ist. 
+(1)<sup>1</sup> Das Bachelorstudium gliedert sich in ein viersemestriges Grundstudium, das mit der Diplomvorprüfung abgeschlossen wird, und eine zweisemestrige Projektphase, innerhalb deren eine Abschlussarbeit anzufertigen und eine mündliche Prüfung abzulegen ist.<sup>2</sup> Im Bachelorstudium der Mathematik werden die Grundlagen in den wichtigsten Gebieten der Mathematik und der Informatik und sowie im Umgang mit Rechnern vermittelt, so dass der Student gut auf einen frühen Übergang in die Berufspraxis vorbereitet ist. 
 
-(2)[1] Das Bachelorstudium ist in die Studiengänge der Mathematik und Informatik/Computational Engineering integriert.[2] Durch eine passende Orientierung der Projektphase im fünften und sechsten Semester kann der Absolvent der Bachelorprüfung in den Diplomstudiengang Mathematik, den Diplomstudiengang Informatik oder in den Masterstudiengang Computational Engineering problemlos überwechseln. 
+(2)<sup>1</sup> Das Bachelorstudium ist in die Studiengänge der Mathematik und Informatik/Computational Engineering integriert.<sup>2</sup> Durch eine passende Orientierung der Projektphase im fünften und sechsten Semester kann der Absolvent der Bachelorprüfung in den Diplomstudiengang Mathematik, den Diplomstudiengang Informatik oder in den Masterstudiengang Computational Engineering problemlos überwechseln. 
 
 9 
 
 ## **§ 13 Das Bachelorstudium** 
 
-(1)[1] Das Bachelorstudium besteht aus zwei Säulen: Mathematik und Informatik.[2] In der Mathematik enthält es Grundlagen in den Gebieten Differential- und Integralrechnung, Lineare Algebra und Analytische Geometrie, Numerik und Stochastik.[ 3] In der Informatik enthält es Grundlagen in den Gebieten Algorithmik und Systemprogrammierung. 
+(1)<sup>1</sup> Das Bachelorstudium besteht aus zwei Säulen: Mathematik und Informatik.<sup>2</sup> In der Mathematik enthält es Grundlagen in den Gebieten Differential- und Integralrechnung, Lineare Algebra und Analytische Geometrie, Numerik und Stochastik.<sup>3</sup> In der Informatik enthält es Grundlagen in den Gebieten Algorithmik und Systemprogrammierung. 
 
-(2)[1] Das Bachelorstudium gliedert sich in zwei Teile.[2] Der erste Teil stimmt mit dem Grundstudium des Diplomstudiengangs Mathematik, Nebenfach Informatik, überein. 3Dementsprechend stimmt der folgende Studienplan in den ersten vier Semestern im Wesentlichen mit dem des Diplomstudiengangs überein.[4] Zusätzlich kommen zum Bachelorstudium im dritten und vierten Semester die beiden Vorlesungen Systemprogrammierung I (Betriebssysteme) und Systemprogrammierung II (Datenbanken) hinzu, die aber auch im fünften und sechsten Semester gehört werden können, falls die Projektphase außerhalb der Informatik liegt.[5] Der zweite Teil besteht aus einer zweisemestrigen Projektphase, in der sich der Student mit einem Teilgebiet der Mathematik oder Informatik vertieft auseinandersetzt.[6] Sie beginnt mit zwei Vorlesungen aus dem Teilgebiet, das vertiefend bearbeitet wird, woran sich ein Seminar oder Praktikum anschließt.[7] Sie wird mit einer Abschlussarbeit und einer mündlichen Prüfung über die Projektphase beendet. 
+(2)<sup>1</sup> Das Bachelorstudium gliedert sich in zwei Teile.<sup>2</sup> Der erste Teil stimmt mit dem Grundstudium des Diplomstudiengangs Mathematik, Nebenfach Informatik, überein. 3Dementsprechend stimmt der folgende Studienplan in den ersten vier Semestern im Wesentlichen mit dem des Diplomstudiengangs überein.<sup>4</sup> Zusätzlich kommen zum Bachelorstudium im dritten und vierten Semester die beiden Vorlesungen Systemprogrammierung I (Betriebssysteme) und Systemprogrammierung II (Datenbanken) hinzu, die aber auch im fünften und sechsten Semester gehört werden können, falls die Projektphase außerhalb der Informatik liegt.<sup>5</sup> Der zweite Teil besteht aus einer zweisemestrigen Projektphase, in der sich der Student mit einem Teilgebiet der Mathematik oder Informatik vertieft auseinandersetzt.<sup>6</sup> Sie beginnt mit zwei Vorlesungen aus dem Teilgebiet, das vertiefend bearbeitet wird, woran sich ein Seminar oder Praktikum anschließt.<sup>7</sup> Sie wird mit einer Abschlussarbeit und einer mündlichen Prüfung über die Projektphase beendet. 
 
 ## (3) Folgender Studienplan wird empfohlen (alle Stundenzahlen verstehen sich in Semesterwochenstunden = SWS): 
 
-|**_Sem._**||**_Mathematik_**|**_Informatik_**|**_Summe SWS_**|
-|---|---|---|---|---|
-|1|Analysis I, Lineare Algebra und||Algorithmik I (Progr. Scheme)|12 V + 8 Ü|
-||Analytische|Geometrie I|||
-|2|Analysis II, Lineare||Algorithmik II (Progr. C)|12 V + 8 Ü **)|
-||Algebra und Analyti-||||
-||sche Geometrie II||||
-|3|Analysis III,|<br>Proseminar|Systemprogrammierung I *)|16 V + 10 Ü **)|
-||Elementare|Stochastik,|||
-||Numerik I||||
-|4|Numerik II||Systemprogrammierung II *)|7 V + 4 Ü **)|
-|5||Projektphase||14 ***)|
-|6||(2 Vorlesungen, Seminar,|Abschlussarbeit)||
+|**_Sem._**|**_Mathematik_**|**_Informatik_**|**_Summe SWS_**|
+|---|---|---|---|
+|1|Analysis I, Lineare Algebra und<br>Analytische Geometrie I|Algorithmik I (Progr. Scheme)|12 V + 8 Ü|
+|2|Analysis II, Lineare<br>Algebra und Analyti-<br>sche Geometrie II|Algorithmik II (Progr. C)|12 V + 8 Ü **)|
+|3|Analysis III,<br>Elementare Stochastik,<br>Numerik I<br>Proseminar|Systemprogrammierung I *)|16 V + 10 Ü **)|
+|4|Numerik II|Systemprogrammierung II *)|7 V + 4 Ü **)|
+|5<br>6|Projektpha<br>(2 Vorlesungen, Seminar|se<br>, Abschlussarbeit)|14 ***)|
 
 *) Diese Vorlesungen können auch im fünften und sechsten Semester gehört werden, falls die Projektphase außerhalb der Informatik liegt. 
 
@@ -390,13 +372,13 @@ d) in der Entwicklung und bei der Problemlösung in mittelständischen Unternehm
 
 ***) Die Lehrveranstaltungen der Projektphase verteilen sich auf zwei Vorlesungen mit Übungen (8 V + 4 Ü) und ein Seminar (2 SWS). 
 
-(4)[1] Die Projektphase, die im fünften Semester beginnt, wird von einem Dozenten der Mathematik oder Informatik betreut.[2] Mögliche Projekte werden im kommentierten Vorlesungsverzeichnis ausgewiesen. 
+(4)<sup>1</sup> Die Projektphase, die im fünften Semester beginnt, wird von einem Dozenten der Mathematik oder Informatik betreut.<sup>2</sup> Mögliche Projekte werden im kommentierten Vorlesungsverzeichnis ausgewiesen. 
 
 10 
 
 ## **§ 14 Bachelorprüfung** 
 
-(1)[ 1] Die Prüfungen im Bachelorstudium umfassen die Diplomvorprüfung und die Bachelorprüfung zum Abschluss der Projektphase.[2] In der Diplomvorprüfung kann als Wahlfach nur Informatik gewählt werden; im Übrigen gilt § 8 Abs. 1, Abs. 2 sowie Abs. 3 Satz 1 entsprechend. 
+(1)<sup>1</sup> Die Prüfungen im Bachelorstudium umfassen die Diplomvorprüfung und die Bachelorprüfung zum Abschluss der Projektphase.<sup>2</sup> In der Diplomvorprüfung kann als Wahlfach nur Informatik gewählt werden; im Übrigen gilt § 8 Abs. 1, Abs. 2 sowie Abs. 3 Satz 1 entsprechend. 
 
 (2) Die Bachelorprüfung zum Abschluss der Projektphase besteht aus der zweimonatigen schriftlichen Abschlussarbeit und der mündlichen Prüfung über das in der Projektphase gewählte Gebiet. 
 
@@ -406,7 +388,7 @@ d) in der Entwicklung und bei der Problemlösung in mittelständischen Unternehm
 
 ## **§ 15** 
 
-**Schlussbestimmung** Diese Studienordnung tritt am Tage nach ihrer Bekanntmachung in Kraft[*)] . 
+**Schlussbestimmung** Diese Studienordnung tritt am Tage nach ihrer Bekanntmachung in Kraft<sup>*)</sup> . 
 
 - *) Tag der ursprünglichen Bekanntmachung ist der 10. April 1986 
 

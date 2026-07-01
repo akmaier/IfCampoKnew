@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 02.09.2009 i.d.F. 23.02.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-Marketing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:41:24+00:00
-page_count_chars: 11553
+scraped_at: 2026-07-01T11:05:50+00:00
+page_count_chars: 11556
 ---
 
 # PDF vom 02.09.2009 i.d.F. 23.02.2010
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang. 2Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden insbesondere anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist insbesondere der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang. 2Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden insbesondere anerkannt: 
 
 1. Bachelorabschluss in einem sozialwissenschaftlichen Studiengang, soweit an einer Universität erworbene fachspezifische wirtschaftswissenschaftliche Kenntnisse im Umfang von 20 ECTS-Punkten nachgewiesen werden, 
 
@@ -64,17 +64,17 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 2. Besondere fachliche Qualifikationen, Kenntnisse und Fähigkeiten (max. 25 Punkte) 3. Einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung, Sprachkenntnisse, Auslandsaufenthalte (max. 20 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.[ 2] Die Begutachtung erstreckt sich auf das Exposé vor dem Hintergrund der in Abs. 3 aufgeführten Qualifikationskriterien.[ 3] Insgesamt können maximal 20 Punkte vergeben werden. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerber, die im Bereich von 69-50 Punkten liegen, auf Basis einer kritischen Begutachtung des eingereichten Exposés durch die Zulassungskommission hinsichtlich ihrer besonderen Motivation zum Masterstudium Marketing überprüft.<sup>2</sup> Die Begutachtung erstreckt sich auf das Exposé vor dem Hintergrund der in Abs. 3 aufgeführten Qualifikationskriterien.<sup>3</sup> Insgesamt können maximal 20 Punkte vergeben werden. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten und in Teilen des zweiten und dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („Principles of Marketing“ = 40 ECTS).[2] Im zweiten Semester wählen die Studierenden zwischen zwei Schwerpunkten, „Marketing Research Track“ oder „Marketing Management Track“ (50 ECTS). 3Jeder dieser beiden Schwerpunkte setzt sich aus einem obligatorischen Vertiefungsbereich („Core Courses“ = 30 ECTS) und einem Wahlpflichtbereich („Electives“ = 20 ECTS) zusammen.[4] Die **Masterarbeit Marketing** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Marketing (insgesamt 30 ECTSPunkte) zusammen.[5] Die Masterarbeit muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach dieser Fachprüfungsordnung haben.[6] Das Masterseminar Marketing wird von einem Betreuer oder mehreren Betreuern gemeinsam angeboten. 
+(1)<sup>1</sup> Im ersten und in Teilen des zweiten und dritten Semesters werden theoretische und methodische Grundkenntnisse vertiefend vermittelt („Principles of Marketing“ = 40 ECTS).<sup>2</sup> Im zweiten Semester wählen die Studierenden zwischen zwei Schwerpunkten, „Marketing Research Track“ oder „Marketing Management Track“ (50 ECTS). 3Jeder dieser beiden Schwerpunkte setzt sich aus einem obligatorischen Vertiefungsbereich („Core Courses“ = 30 ECTS) und einem Wahlpflichtbereich („Electives“ = 20 ECTS) zusammen.<sup>4</sup> Die **Masterarbeit Marketing** setzt sich aus den beiden Prüfungsleistungen Master Thesis und dem Masterseminar Marketing (insgesamt 30 ECTSPunkte) zusammen.<sup>5</sup> Die Masterarbeit muss thematischen Bezug zu einem der beiden Vertiefungsbereiche nach dieser Fachprüfungsordnung haben.<sup>6</sup> Das Masterseminar Marketing wird von einem Betreuer oder mehreren Betreuern gemeinsam angeboten. 
 
-(2)[1] Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 
+(2)<sup>1</sup> Module bzw. Modulteile, die bereits im Rahmen eines Bachelorstudiums belegt wurden, können im Masterstudium nicht mehr belegt werden. 2Gegebenenfalls wird ein Ersatzmodul angeboten. 
 
 (3) Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
-(4)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(4)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
 2 
 
@@ -86,9 +86,8 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **Anlage** Überblickstabelle Studienverlauf 
 
-|**Studienplan Master in Marketing**||||||
+|**Studienplan Master in Marketing**||**1**|**2**|**3**|**4**|
 |---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**A. Pflichtbereich(40 ECTS)**|**40**|||||
 |**Principles of Marketing I: Marketingtheorie**|**5**|**5**||||
@@ -125,70 +124,70 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 4 
 
-|**Studienplan Master in Marketing**|**Studienplan Master in Marketing**|||||
-|---|---|---|---|---|---|
-|||**1**|**2**|**3**|**4**|
-||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Interdisziplinäres Seminar **|**5**|||**5**||
-|**Ökonomische Theorie I**|**5**||**5**|||
-|**Ökonomische Theorie II**|**5**|||**5**||
-|**International Management of IS ***|**5**|||**5**||
-|**Media Systems: Structures and Processes**|**5**|||**5**||
-|**Konsumentenverhalten II**|**5**|||**5**||
-|**Konsumentenverhalten IV(Zulassungsvoraussetzung: Konsumentenverhalten I-III)**|**5**|||**5**||
-|**Statistik IV**|**5**||**5**|||
-|**Advanced Marketing Management I: Advanced Topics in Marketing und internationales Marketing**|**10**||**5**|**5**||
-|**Advanced Marketing Management II: Dienstleistungsmarketing und Kundenmanagement**|**10**|||**10**||
-|**Advanced Marketing Management III:Strategisches Marketing**|**5**||**5**|||
-|**Advanced Marketing Management IV: Business-to-Business Marketing**|**5**||**5**|||
-|**Advanced Marketing Management V: Markenmanagement**|**5**|||**5**||
-|Auslandsmodul|5|||||
-|**B2 Vertiefungsbereich Marketing Management (50 ECTS)**|**50**|||||
-|**Pflichtbereich (30 ECTS)**||||||
-|**Advanced Marketing Management I: Advanced Topics in Marketing und internationales Marketing**|**10**||**5**|**5**||
-|**Advanced Marketing Management II: Dienstleistungsmarketing und Kundenmanagement**|**10**|||**10**||
-|_Wahl von 1aus 2 Modulen_||||||
-|**Advanced Marketing Management III:Strategisches Marketing**|**5**||**5**|||
-|**Advanced Marketing Management IV: Business-to-Business Marketing**|**5**||**5**|||
-|_Weitere Pflichtfächer_||||||
-|**E-Business Intelligence and Relationships**|**5**||**5**|||
-|**_Wahlbereich (20 ECTS)_**||||||
-|**Finanzmarktkommunikation und Marktforschungsmanagement**|**5**||**2,5**|**2,5**||
-|**Advanced Marketing Management III:Strategisches Marketing****|**5**||**5**|||
-|**Advanced Marketing Management IV: Business-to-Business Marketing****|**5**||**5**|||
-|**Advanced Marketing Management V: Markenmanagement**|**5**|||**5**||
-|**International Management of IS ***|**5**|||**5**||
-|**Data Warehousing**|**5**<br>**5**||**5**|||
-|**Konsumentenverhalten I**|||**2,5 **|**2,5**||
-|**Strategic Communication**|**5**|||**5**||
-|**Media Systems: Structures and Processes**|**5**|||**5**||
-|**Statistik II***|**5**|||**5**||
-|**Statistik III**|**5**|||**5**||
+|**Studienplan Master in Marketing**|<br>|||
+|---|---|---|---|
+||**1**<br>**2**|**3**|**4**|
+||ECTS<br>ECTS<br>ECTS|ECTS|ECTS|
+|**Interdisziplinäres Seminar **|**5**|**5**||
+|**Ökonomische Theorie I**<br>|**5**<br>**5**<br>|||
+|**Ökonomische Theorie II**|**5**|**5**||
+|**International Management of IS ***|**5**|**5**||
+|**Media Systems: Structures and Processes**|**5**|**5**||
+|**Konsumentenverhalten II**|**5**|**5**||
+|**Konsumentenverhalten IV(Zulassungsvoraussetzung: Konsumentenverhalten I-III)**|**5**|**5**||
+|**Statistik IV**|**5**<br>**5**|||
+|**Advanced Marketing Management I: Advanced Topics in Marketing und internationales Marketing**|**10**<br>**5**|**5**||
+|**Advanced Marketing Management II: Dienstleistungsmarketing und Kundenmanagement**|**10**|**10**||
+|**Advanced Marketing Management III:Strategisches Marketing**|**5**<br>**5**|||
+|**Advanced Marketing Management IV: Business-to-Business Marketing**|**5**<br>**5**|||
+|**Advanced Marketing Management V: Markenmanagement**|**5**|**5**||
+|Auslandsmodul|5|||
+|**B2 Vertiefungsbereich Marketing Management (50 ECTS)**|**50**|||
+|**Pflichtbereich (30 ECTS)**||||
+|**Advanced Marketing Management I: Advanced Topics in Marketing und internationales Marketing**|**10**<br>**5**|**5**||
+|**Advanced Marketing Management II: Dienstleistungsmarketing und Kundenmanagement**|**10**|**10**||
+|_Wahl von 1aus 2 Modulen_||||
+|**Advanced Marketing Management III:Strategisches Marketing**|**5**<br>**5**|||
+|**Advanced Marketing Management IV: Business-to-Business Marketing**|**5**<br>**5**|||
+|_Weitere Pflichtfächer_||||
+|**E-Business Intelligence and Relationships**|**5**<br>**5**|||
+|**_Wahlbereich (20 ECTS)_**||||
+|**Finanzmarktkommunikation und Marktforschungsmanagement**|**5**<br>**2,5**|**2,5**||
+|**Advanced Marketing Management III:Strategisches Marketing****|**5**<br>**5**|||
+|**Advanced Marketing Management IV: Business-to-Business Marketing****|**5**<br>**5**|||
+|**Advanced Marketing Management V: Markenmanagement**|**5**|**5**||
+|**International Management of IS ***|**5**|**5**||
+|**Data Warehousing**|**5**<br>**5**|||
+|**Konsumentenverhalten I**|**5**<br>**2,5 **|**2,5**||
+|**Strategic Communication**|**5**|**5**||
+|**Media Systems: Structures and Processes**|**5**|**5**||
+|**Statistik II***|**5**|**5**||
+|**Statistik III**|**5**|**5**||
 
 5 
 
-|**Studienplan Master in Marketing**|||||||||
-|---|---|---|---|---|---|---|---|---|
-||||||**1**|**2**|**3**|**4**|
-|||||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Statistik IV**||||**5**||**5**|||
-|**Multivariate Zeitreihen-und Strukturmodelle I**||||**5**|||**5**||
-|**Auslandsmodul **||||**5**|||||
-|_Wahl von maximal 2 Modulen aus den folgenden Modulen_|||||||||
-|**Entrepreuneurship Research **||||**5**||**5**|||
-|**Business Plan Seminar **||||**5**|||**5**||
-|**Industrielles Management**||||**5**||**5**|||
-|**Beschaffungsmanagement**||||**5**|||**5**||
-|**Global Operations Strategy**||||**5**||**5**|||
-|**Corporate Governance**||||**5**||**5**|||
-|**Foundations of International Management I**||||**5**|||**5**||
-|**Foundations of International Management II**||||**5**|||**5**||
-|**Corporate Strategy**||||**5**|||**5**||
-|**C Masterarbeit (30 ECTS)**||||**30**||||**30**|
-|**Vertiefungsbereich Marketing Research **|||||||||
-||ECTS|**120**|**30**|||**30**|**30**|**30**|
-|**Vertiefungsbereich Marketing Management**||**120**|||||||
-||ECTS||**30**|||**30**|**30**|**30**|
+|**Studienplan Master in Marketing**|||||
+|---|---|---|---|---|
+|||**1**<br>**2**|**3**|**4**|
+|||ECTS<br>ECTS<br>ECTS|ECTS|ECTS|
+|**Statistik IV**||**5**<br>**5**|||
+|**Multivariate Zeitreihen-und Strukturmodelle I**||**5**|**5**||
+|**Auslandsmodul **||**5**|||
+|_Wahl von maximal 2 Modulen aus den folgenden Modulen_|||||
+|**Entrepreuneurship Research **||**5**<br>**5**|||
+|**Business Plan Seminar **||**5**|**5**||
+|**Industrielles Management**||**5**<br>**5**|||
+|**Beschaffungsmanagement**||**5**|**5**||
+|**Global Operations Strategy**||**5**<br>**5**|||
+|**Corporate Governance**||**5**<br>**5**|||
+|**Foundations of International Management I**||**5**|**5**||
+|**Foundations of International Management II**||**5**|**5**||
+|**Corporate Strategy**||**5**|**5**||
+|**C Masterarbeit (30 ECTS)**||**30**||**30**|
+|**Vertiefungsbereich Marketing Research **|||||
+||ECTS<br>**120**|**30**<br>**30**|**30**|**30**|
+|**Vertiefungsbereich Marketing Management**|||||
+||ECTS<br>**120**|**30**<br>**30**|**30**|**30**|
 
 * Wahl möglich, falls noch nicht im Pflichtbereich belegt ** Wahl möglich, falls noch nicht im Wahlpflichtbereich belegt 
 

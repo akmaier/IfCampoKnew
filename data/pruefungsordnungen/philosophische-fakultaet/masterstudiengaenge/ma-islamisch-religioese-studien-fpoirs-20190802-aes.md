@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Islamisch-Religiöse Studien FPOIRS 20190802 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Islamisch-_Religioese_Studien/Aenderungssatzungen/MA_Islamisch-Religiöse_Studien_FPOIRS_20190802_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:30:23+00:00
-page_count_chars: 5110
+scraped_at: 2026-07-01T09:42:55+00:00
+page_count_chars: 5032
 ---
 
 # MA Islamisch-Religiöse Studien FPOIRS 20190802 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 5110
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Islamisch-_Religioese_Studien/Aenderungssatzungen/MA_Islamisch-Religiöse_Studien_FPOIRS_20190802_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiendang Islamisch-Religiöse Studien an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIRS –** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiendang Islamisch-Religiöse Studien an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIRS –** 
 
-## **Vom 2. August 2019** 
+# **Vom 2. August 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs.1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiendang Islamisch-Religiöse Studien an der Philosophischen Fakultät und Fachbereich Theologie der FAU – FPOIRS – vom 15. Mai 2015 wird wie folgt geändert: 
 
@@ -38,47 +38,49 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiendang Islamisch-Relig
 
 4.  § 4 wird wie folgt geändert: 
 
-   - a) Die bisher einzige Regelung wird zu Abs. 1 
+a) Die bisher einzige Regelung wird zu Abs. 1 
 
-   - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
+- b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 1 
 
-## 5. Die **Anlage** erhält folgende neue Fassung: 
+# 5. Die **Anlage** erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|Modulbezeichnung|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro|Workload-Verteilung pro||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Lehrveranstaltung|||||Gesamt<br>|Semester in ECTS-Punkten1||||Art und Umfang der Prüfung/Studienleistung||
-||||V|Ü|P|S|ECTS|1.|2.|3.|4.|||
-|Textgrundlagen Islamisch-<br>Religiöser Forschung||Vorlesung|2||||10|4||||Klausur (90 Min.)|1|
-|||Lektüreübung||1||||2||||||
-|||Seminar||||2||4||||||
-|Ideengeschichte islamischer<br>Glaubensinhalte||Vorlesung|2||||10|5||||Referat (30 Min.)|1|
-|||Seminar||||2||5||||||
-|Forschungsmethoden und<br>Quellenanalyse||Masterseminar||||2|10|5||||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)|1|
-|||Übung||2||||5||||||
-|Glaubensinhalte des Islam aus<br>theoretisch-reflektierender<br>Perspektive||Theorieseminar||2|||10||5|||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)|1|
-|||Vertiefungsseminar||||2|||5|||||
-|Islamische Ethik im Kontext von<br>Geschichte und Gegenwart||Vorlesung|2||||10||5|||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)|1|
-|||Seminar||||2|||5|||||
-|Koran und Moderne||Vorlesung|2||||10||5|||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)<br>oder Klausur (90 Min.)2|1|
-|||Seminar||||2|||5|||||
-|Islamische Religionsphilosophie||Vorlesung|2||||10|||5||Referat (30 Min.)|1|
-|||Seminar||||2||||5||||
-|Gegenwartsfragen islamischer<br>Religionsdiskurse||Einführungsübung||2|||10|||5||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)|1|
-|||Vertiefungsseminar||||2||||5||||
-|**Orientierungsmodul: Es ist eines der beiden Module im Umfang von 10 ECTS-Punkten zu wählen.**||||||||||||||
-||Orientierungsmodul I|Praktikum3|||||(10)|||8||Referat (20 Min.) und Essay (ca. 10 Seiten)|0|
-|||Begleitseminar||||2||||2||||
-||Orientierungsmodul II|Teilnahme an 2 Tagungen|||||(10)|||8||Referat (20 Min.) und Essay (ca. 10 Seiten)|0|
-|||Begleitseminar||||2||||2||||
-|||Kolloquium||||2|||||5|Masterarbeit (80-100 Seiten)|1|
-|Masterarbeit||Masterarbeit|||||30||||25|||
-|||Summe|10|7|0|20||30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|S|WS|Gesamt<br>ECTS<br>Workload-Verteilung<br>Semester in ECTS-Pu|pro<br>nkten<sup>1</sup>|Art und Umfang der Prüfung/Studienleistung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P<br>S|<br>1.<br>2.<br>3.|4.||note|
+||Vorlesung|2||4||||
+|Textgrundlagen Islamisch-<br>Religiöser Forschung|Lektüreübung|1||10<br>2||Klausur (90 Min.)|1|
+||Seminar||2|4||||
+|Ideengeschichte islamischer|Vorlesung|2||10<br>5||Rft 30 Mi|1|
+|Glaubensinhalte|Seminar||2|<br>5||eera ( n.)||
+|Forschungsmethoden und|Masterseminar||2|10<br>5||Rft 20 Mi d Hbit  20 Sit|1|
+|Quellenanalyse|Übung|2||<br>5||eera ( n.) un ausare (ca.  een)||
+|Glaubensinhalte des Islam aus|Theorieseminar|2||5||||
+|theoretisch-reflektierender||||10||Referat (20 Min) und Hausarbeit (ca 20 Seiten)|1|
+|<br>Perspektive|Vertiefungsseminar||2|<br>5||.   .||
+|Islamische Ethik im Kontext von|Vorlesung|2||10<br>5||Rf 20 Mi d Hbi  20 Si|1|
+|Geschichte und Gegenwart|Seminar||2|<br>5||eerat ( n.) un ausaret (ca.  eten)||
+|K d Md|Vorlesung|2||10<br>5||Referat (20 Min.) und Hausarbeit (ca. 20 Seiten)|1|
+|oran un oerne|Seminar||2|<br>5||oder Klausur (90 Min.)<sup>2</sup>||
+||Vorlesung|2||<br>5||||
+|Islamische Religionsphilosophie|Seminar||2|10<br>5||Referat (30 Min.)|1|
+|Gegenwartsfragen islamischer|Einführungsübung|2||10<br>5||Rf 20 Mi d Hbi  20 Si|1|
+|Religionsdiskurse|Vertiefungsseminar||2|<br>5||eerat ( n.) un ausaret (ca.  eten)||
+|<br>**Orientierungsmodul: Es ist eine**|**s der beiden Module im Umf**|**ang von 10 E**|**CTS-Punkten**|**zu wählen.**||||
+||<sup>3</sup>|||||||
+|Oiidl I|Praktikum|||10<br>8||Rf 20 Mi d E  10 Si|0|
+|renterungsmou|Begleitseminar||2|()<br>2||eerat ( n.) un ssay (ca.  eten)||
+|Oiidl II|Teilnahme an 2 Tagungen|||10<br>8||Rf 20 Mi d E  10 Si|0|
+|renterungsmou|Begleitseminar||2|()<br>2||eerat ( n.) un ssay (ca.  eten)||
+||Kolloquium||2||5|||
+|Masterarbeit||||30||Masterarbeit (80-100 Seiten)|1|
+||Masterarbeit||||25|||
+||Summe|10<br>7|0<br>20|30<br>30<br>30|30|||
 
 - 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

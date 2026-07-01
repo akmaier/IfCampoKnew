@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. März 1992"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-FPO-E-Techn-alt.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:02+00:00
-page_count_chars: 2783
+scraped_at: 2026-07-01T11:27:31+00:00
+page_count_chars: 2782
 ---
 
 # 27. März 1992
@@ -14,7 +14,7 @@ page_count_chars: 2783
 
 **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universität Erlangen-Nürnberg** 
 
-## Vom 27. März 1992 
+# Vom 27. März 1992 
 
 Aufgrund von Art. 6 und Art. 81 des Bayerischen Hochschulgesetzes erläßt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 

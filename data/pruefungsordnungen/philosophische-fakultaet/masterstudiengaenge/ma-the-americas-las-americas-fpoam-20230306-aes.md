@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA The Americas Las Americas FPOAm 20230306 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/The_Americas_-_Las_Americas/Aenderungssatzungen/MA_The_Americas_Las_Americas_FPOAm_20230306_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:22:59+00:00
-page_count_chars: 1273
+scraped_at: 2026-07-01T09:38:08+00:00
+page_count_chars: 1269
 ---
 
 # MA The Americas Las Americas FPOAm 20230306 ÄS.pdf
@@ -12,17 +12,17 @@ page_count_chars: 1273
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/The_Americas_-_Las_Americas/Aenderungssatzungen/MA_The_Americas_Las_Americas_FPOAm_20230306_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Satzung zur Aussetzung der Immatrikulation im Masterstudiengang „The Americas/Las Américas“ an der Philosophien Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Satzung zur Aussetzung der Immatrikulation im Masterstudiengang „The Americas/Las Américas“ an der Philosophien Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 6. März 2023** 
+# **Vom 6. März 2023** 
 
 Aufgrund von Art. 9 Satz 1 und Art. 95 des Bayerischen Hochschulinnovationsgesetzes vom 5. August 2022 (BayHIG) erlässt die FAU folgende Satzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Für das Wintersemester 2023/2024 wird die Immatrikulation im Masterstudiengang „The Americas/Las Américas“ an der Philosophischen Fakultät und Fachbereich Theologie der FAU für alle Fachsemester ausgesetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. März 2023 in Kraft. 
 

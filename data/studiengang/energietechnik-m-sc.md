@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:44:40+00:00
+scraped_at: 2026-07-01T08:21:19+00:00
 ---
 
 # Energietechnik (M.Sc.)

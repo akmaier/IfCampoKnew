@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Oktober 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/7AES_BA_MA_Berufspaedagogik_LA_beruflSchulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:57:35+00:00
-page_count_chars: 43316
+scraped_at: 2026-07-01T08:32:42+00:00
+page_count_chars: 43052
 ---
 
 # 1. Oktober 2015
@@ -18,7 +18,7 @@ Vom 1. Oktober 2015
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, zuletzt geändert durch Satzung vom 9. September 2013, wird wie folgt geändert: 
 
@@ -28,9 +28,9 @@ Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Beruf
 
    - b) Abs. 2 wird wie folgt geändert: 
 
-aa) Vor den Worten „[1] Es wird“ folgender neuer Satz 1 eingefügt: 
+aa) Vor den Worten „<sup>1</sup> Es wird“ folgender neuer Satz 1 eingefügt: 
 
-„[1] Das Bachelorstudium umfasst die Module und Prüfungen der **Anlage 2a** bzw. **2b** .“ 
+„<sup>1</sup> Das Bachelorstudium umfasst die Module und Prüfungen der **Anlage 2a** bzw. **2b** .“ 
 
 bb) Die bisherigen Sätze 1 bis 4 werden zu Sätzen 2 bis 5. 
 
@@ -40,23 +40,23 @@ bb) Die bisherigen Sätze 1 bis 4 werden zu Sätzen 2 bis 5.
 
 „(3) Innerhalb des Bachelorstudiengangs kann jedes Modul wegen des erforderlichen fachspezifischen Kompetenzgewinns nur einmal gewählt werden.“ 
 
-- d) Der bisherige Abs. 3 wird zu Abs. 4. 
+d) Der bisherige Abs. 3 wird zu Abs. 4. 
 
 - e) Nach Abs. 4 (neu) wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Einzelne Lehrveranstaltungen und Prüfungen können in einer Fremdsprache abgehalten werden; Näheres regelt das Modulhandbuch.[2] Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[3] Bei mündlichen Prüfungen kann im Einvernehmen mit der bzw. dem zu Prüfenden von der Regelung des Satzes 2 abgewichen werden.“ 
+„(5)<sup>1</sup> Einzelne Lehrveranstaltungen und Prüfungen können in einer Fremdsprache abgehalten werden; Näheres regelt das Modulhandbuch.<sup>2</sup> Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>3</sup> Bei mündlichen Prüfungen kann im Einvernehmen mit der bzw. dem zu Prüfenden von der Regelung des Satzes 2 abgewichen werden.“ 
 
 1 
 
-## 2. § 4 wird wie folgt geändert: 
+2. § 4 wird wie folgt geändert: 
 
-- a) In der Überschrift werden nach dem Wort „Regelstudienzeiten“ ein Komma und das Wort „Sprache“ angefügt. 
+   - a) In der Überschrift werden nach dem Wort „Regelstudienzeiten“ ein Komma und das Wort „Sprache“ angefügt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+   - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach dem Wort „Masterstudium“ die Worte „umfasst die Module und Prüfungen der **Anlage 3** .[2] Es“ eingefügt. 
+      - aa) In Satz 1 werden nach dem Wort „Masterstudium“ die Worte „umfasst die Module und Prüfungen der **Anlage 3** .<sup>2</sup> Es“ eingefügt. 
 
-   - bb) In Satz 2 (neu) werden das Zeichen „;“ und das Wort „es“ durch das Wort „und“ ersetzt. 
+      - bb) In Satz 2 (neu) werden das Zeichen „;“ und das Wort „es“ durch das Wort „und“ ersetzt. 
 
 cc) Die bisherigen Sätze 2 bis 5 werden zu Sätzen 3 bis 6. 
 
@@ -72,7 +72,7 @@ dd) In Satz 5 (neu) wird das Wort „Sie“ durch das Wort „Diese“ ersetzt.
 
 - f) Nach Abs. 5 (neu) wird folgender neuer Abs. 6 angefügt: 
 
-„(6)[1] Einzelne Lehrveranstaltungen und Prüfungen können in einer Fremdsprache abgehalten werden; Näheres regelt das Modulhandbuch.[2] Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[3] Bei mündlichen Prüfungen kann im Einvernehmen mit der bzw. dem zu Prüfenden von der Regelung des Satzes 2 abgewichen werden.“ 
+„(6)<sup>1</sup> Einzelne Lehrveranstaltungen und Prüfungen können in einer Fremdsprache abgehalten werden; Näheres regelt das Modulhandbuch.<sup>2</sup> Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>3</sup> Bei mündlichen Prüfungen kann im Einvernehmen mit der bzw. dem zu Prüfenden von der Regelung des Satzes 2 abgewichen werden.“ 
 
 3. § 4a Abs. 2 Satz 1 wird wie folgt geändert: 
 
@@ -94,11 +94,11 @@ a) Abs. 2 wird wie folgt geändert:
 
 aa) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.“ 
+„<sup>2</sup> Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.“ 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen  (Portfolioprüfung) bzw.  aus einer Kombination aus Prüfungsund Studienleistungen (Portfolioprüfung) oder Teilleistungen bestehen.“ 
+„<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen  (Portfolioprüfung) bzw.  aus einer Kombination aus Prüfungsund Studienleistungen (Portfolioprüfung) oder Teilleistungen bestehen.“ 
 
 cc) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
@@ -110,7 +110,7 @@ b) Abs. 3 wird wie folgt geändert:
 
 cc) Nach Satz 2 werden folgende neue Sätze 3 und 4 eingefügt: 
 
-„[3] Insbesondere sind Übungsleistungen möglich, welche in der Regel wöchentliches selbstständiges Lösen von Übungsaufgaben umfassen, sowie Praktikumsleistungen, welche in der Regel das Einüben von praktischen Aufgaben, schriftliche Versuchsprotokolle und mündliche oder schriftliche Testate vorsehen.[4] Weiterhin können Seminarleistungen (in der Regel Präsentation und schriftliche Ausarbeitung) und Exkursionsleistungen (in der Regel Begutachtung oder Diskussionsbeitrag) gefordert werden.“ 
+„<sup>3</sup> Insbesondere sind Übungsleistungen möglich, welche in der Regel wöchentliches selbstständiges Lösen von Übungsaufgaben umfassen, sowie Praktikumsleistungen, welche in der Regel das Einüben von praktischen Aufgaben, schriftliche Versuchsprotokolle und mündliche oder schriftliche Testate vorsehen.<sup>4</sup> Weiterhin können Seminarleistungen (in der Regel Präsentation und schriftliche Ausarbeitung) und Exkursionsleistungen (in der Regel Begutachtung oder Diskussionsbeitrag) gefordert werden.“ 
 
 dd) Die bisherigen Sätze 3 und 4 werden zu Sätzen 5 und 6. 
 
@@ -124,23 +124,23 @@ ee) Satz 6 wird wie folgt geändert:
 
 - c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Neben den studienbegleitenden Modulprüfungen können während der Vorlesungszeit der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Hausaufgaben, Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.[3] Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
+„(5)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Vorlesungszeit der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Hausaufgaben, Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.<sup>3</sup> Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
 
 6. Nach § 5 wird folgender neuer § 6a eingefügt: 
 
 3 
 
-## **„§ 6a Anwesenheitspflicht** 
+# **„§ 6a Anwesenheitspflicht** 
 
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung  eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung  eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.[2] Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden.<sup>2</sup> Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.“ 
 
-## 7. § 7 Abs. 2 erhält folgende neue Fassung: 
+# 7. § 7 Abs. 2 erhält folgende neue Fassung: 
 
 „(2) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung sowie entsprechend den Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung.“ 
 
@@ -154,25 +154,25 @@ aa) In Satz 1 werden nach den Worten „Rücktritt von“ die Worte „gemäß A
 
 bb) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
+- „<sup>2</sup> Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.“ 
 
 cc) Satz 3 wird gestrichen. 
 
-b) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
+- b) Nach Abs. 3 wird folgender neuer Abs. 4 angefügt: 
 
-„(4)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[5] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+„(4)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende nach dem Ende des dritten Werktages vor dem Prüfungstag ohne triftige Gründe zurücktritt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>5</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
-9. § 10 wird wie folgt geändert: 
+# 9. § 10 wird wie folgt geändert: 
 
-   - a) In Abs. 1 werden das Wort „Zulassungsvoraussetzungen“ durch das Wort „Zugangsvoraussetzungen“ ersetzt, nach dem Wort „obliegt“ das Wort „der“ eingefügt und die Worte „Zugangskommissionen, die für jeden der Masterstudiengänge bestellt werden“ durch das Wort „Zugangskommission“ ersetzt. 
+- a) In Abs. 1 werden das Wort „Zulassungsvoraussetzungen“ durch das Wort „Zugangsvoraussetzungen“ ersetzt, nach dem Wort „obliegt“ das Wort „der“ eingefügt und die Worte „Zugangskommissionen, die für jeden der Masterstudiengänge bestellt werden“ durch das Wort „Zugangskommission“ ersetzt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden die Worte „Zugangskommissionen bestehen“ durch die Worte „Zugangskommission besteht“ ersetzt. 
+   - aa) In Satz 1 werden die Worte „Zugangskommissionen bestehen“ durch die Worte „Zugangskommission besteht“ ersetzt. 
 
 bb) In Satz 3 werden nach der Zahl „5“ die Worte „ **ABMPO/TechFak** “ eingefügt. 
 
-## 10. § 11 wird wie folgt geändert: 
+# 10. § 11 wird wie folgt geändert: 
 
 - a) In der Überschrift wird das Wort „Anrechnung“ durch das Wort „Anerkennung“ ersetzt. 
 
@@ -194,7 +194,7 @@ bb) In Satz 3 werden nach der Zahl „5“ die Worte „ **ABMPO/TechFak** “ e
 
    - a) Die Überschrift erhält folgende neue Fassung: 
 
-## „ **§ 12 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** “ 
+# „ **§ 12 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** “ 
 
 - b) Abs. 1 wird gestrichen. 
 
@@ -206,7 +206,7 @@ bb) In Satz 3 werden nach der Zahl „5“ die Worte „ **ABMPO/TechFak** “ e
 
 12. Nach § 12 wird folgender neuer § 12a eingefügt: 
 
-## **„§ 12a Entzug akademischer Grade** 
+# **„§ 12a Entzug akademischer Grade** 
 
 Der Entzug des Bachelor- bzw. Mastergrades richtet sich nach Art. 69 BayHSchG.“ 
 
@@ -218,7 +218,7 @@ Der Entzug des Bachelor- bzw. Mastergrades richtet sich nach Art. 69 BayHSchG.�
 
    - c) Nach den Worten „derselben wiederholt“ werden die Worte „wird bzw.“ eingefügt. 
 
-## 14. § 14 wird wie folgt geändert: 
+# 14. § 14 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -226,31 +226,31 @@ aa) Satz 2 erhält folgende neue Fassung:
 
 6 
 
-„[2] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.“ 
+„<sup>2</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss einem Wechsel der Prüfungsform zustimmen.“ 
 
 bb) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Im Falle des Wechsels der Prüfungsform wegen unverhältnismäßiger Ressourcenbelastung ist die Entscheidung des Prüfungsausschusses spätestens vier Wochen vorher bekannt zu geben.“ 
+„<sup>3</sup> Im Falle des Wechsels der Prüfungsform wegen unverhältnismäßiger Ressourcenbelastung ist die Entscheidung des Prüfungsausschusses spätestens vier Wochen vorher bekannt zu geben.“ 
 
-- b) Abs. 2 wird gestrichen; die bisherigen Abs. 3 bis 6 werden zu Abs. 2 bis 5. 
+b) Abs. 2 wird gestrichen; die bisherigen Abs. 3 bis 6 werden zu Abs. 2 bis 5. 
 
-- c) In Abs. 2 (neu) wird nach Satz 2 wird folgender neuer Satz 3 angefügt: 
+c) In Abs. 2 (neu) wird nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
-- d) Abs. 3 (neu) wird wie folgt geändert: 
+d) Abs. 3 (neu) wird wie folgt geändert: 
 
 aa) In Satz 1 werden im Klammerzusatz vor dem Wort „Multiple-ChoicePrüfungen“ die Worte „Single- und / oder“ eingefügt. 
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.“ 
 
 cc) Die bisherigen Sätze 2 bis 8 werden zu Sätzen 3 bis 9. 
 
 dd) Nach Satz 9 (neu) wird folgender neuer Satz 10 angefügt: 
 
-„[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
+„<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden.“ 
 
 e) Abs. 4 (neu) wird wie folgt geändert: 
 
@@ -280,33 +280,33 @@ bb) In Satz 2 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 - g) In Abs. 5 (neu) werden die Worte „Sätze 1 bis 9“ durch die Worte „Abs. 3 und 4“ ersetzt. 
 
-## 15. § 15 wird wie folgt geändert: 
+# 15. § 15 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] § 14 Abs. 1 Sätze 2 und 3 gelten entsprechend.“ 
+„<sup>3</sup> § 14 Abs. 1 Sätze 2 und 3 gelten entsprechend.“ 
 
 - b) Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die hochgestellte Zahl „[1] “ gestrichen sowie die Worte „der Anlage“ durch die Worte „den **Anlagen** “ ersetzt. 
+   - aa) In Satz 1 werden die hochgestellte Zahl „<sup>1</sup> “ gestrichen sowie die Worte „der Anlage“ durch die Worte „den **Anlagen** “ ersetzt. 
 
 bb) Satz 2 wird gestrichen. 
 
-- c) Abs. 3 wird wie folgt geändert: 
+c) Abs. 3 wird wie folgt geändert: 
 
-aa) Es werden vor dem Wort „In“ die hochgestellte Zahl „[1] “ sowie nach dem Wort „setzt“ die Worte „jede bzw.“ eingefügt. 
+aa) Es werden vor dem Wort „In“ die hochgestellte Zahl „<sup>1</sup> “ sowie nach dem Wort „setzt“ die Worte „jede bzw.“ eingefügt. 
 
 bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt: 
 
-„[2] Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 16 Abs. 1 Satz 6 gilt entsprechend.“ 
+„<sup>2</sup> Bei unterschiedlicher Bewertung werden die Noten gemittelt; § 16 Abs. 1 Satz 6 gilt entsprechend.“ 
 
 d) In Abs. 4 Satz 1 wird das Wort „ist“ durch das Wort „sind“ ersetzt. 
 
-## 16. Nach § 15 wird folgender neuer § 15a eingefügt: 
+# 16. Nach § 15 wird folgender neuer § 15a eingefügt: 
 
-## **„§ 15a Elektronische Prüfung** 
+# **„§ 15a Elektronische Prüfung** 
 
-1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.[3] Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[4] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[5] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
+1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.<sup>3</sup> Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.<sup>4</sup> Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>5</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
 
 17. § 16 wird wie folgt geändert: 
 
@@ -336,11 +336,11 @@ bb) Satz 2 wird wie folgt geändert:
 
    - dd) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-      - „[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 14 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
+      - „<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 14 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
 
 - c) Abs. 5 erhält folgende neue Fassung: 
 
-„(5)[1] Gibt es in einem Modul mehr als eine benotete Teilprüfung (§ 6 Abs. 2 Satz 3), so gehen die Einzelnoten mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote ein.[2] Sind den Teilprüfungen keine ECTS-Punkte zugeordnet, so gibt die bzw. der Modulverantwortliche im Modulkatalog bekannt, wie sich die Modulnote aus den Bewertungen der einzelnen Teile der Modulprüfung berechnet; Abs. 1 Satz 6 gilt entsprechend.“ 
+„(5)<sup>1</sup> Gibt es in einem Modul mehr als eine benotete Teilprüfung (§ 6 Abs. 2 Satz 3), so gehen die Einzelnoten mit dem Gewicht ihrer jeweiligen ECTS-Punkte in die Modulnote ein.<sup>2</sup> Sind den Teilprüfungen keine ECTS-Punkte zugeordnet, so gibt die bzw. der Modulverantwortliche im Modulkatalog bekannt, wie sich die Modulnote aus den Bewertungen der einzelnen Teile der Modulprüfung berechnet; Abs. 1 Satz 6 gilt entsprechend.“ 
 
 18. In § 17 Abs. 4 Satz 2 werden die Worte „und Abs. 2“ gestrichen. 
 
@@ -360,25 +360,25 @@ bb) Satz 2 wird wie folgt geändert:
 
 „(2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden.“ 
 
-c) In Abs. 3 wird nach Satz 2 wird folgender neuer Satz 3 angefügt: 
+- c) In Abs. 3 wird nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+„<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
 23. § 22 Abs. 1 Satz 2 wird wie folgt geändert: 
 
 - a) In Ziffer 1 werden nach dem Wort „Teil“ ein Komma sowie die Worte „insbesondere in **Anlage 2a** bzw. **2b** “ eingefügt und nach den Worten „erfüllt werden“ ein Komma angefügt. 
 
-- b) Ziffer 2 wird wie folgt geändert: 
+b) Ziffer 2 wird wie folgt geändert: 
 
-   - aa) Nach dem Wort „Diplomvorprüfung“ werden das Wort „oder“ gestrichen und ein Komma eingefügt. 
+- aa) Nach dem Wort „Diplomvorprüfung“ werden das Wort „oder“ gestrichen und ein Komma eingefügt. 
 
-   - bb) Nach den Worten „im gleichen“ werden die Worte „oder einem inhaltlich verwandten“ eingefügt. 
+- bb) Nach den Worten „im gleichen“ werden die Worte „oder einem inhaltlich verwandten“ eingefügt. 
 
-   - cc) Nach den Worten „inhaltlich verwandten Studiengang“ (neu) werden die Worte (benannt im ortsüblich bekannt gemachten Dokument „Aufstellung von inhaltlich verwandten Studiengängen der TF“) eingefügt. 
+- cc) Nach den Worten „inhaltlich verwandten Studiengang“ (neu) werden die Worte (benannt im ortsüblich bekannt gemachten Dokument „Aufstellung von inhaltlich verwandten Studiengängen der TF“) eingefügt. 
 
-   - dd) Nach den Worten „nicht bestanden ist“ werden ein Komma und das Wort „oder“ angefügt. 
+- dd) Nach den Worten „nicht bestanden ist“ werden ein Komma und das Wort „oder“ angefügt. 
 
-## 24. § 23 wird wie folgt geändert: 
+# 24. § 23 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden im ersten Spiegelstrich die Worte „in dem von ihnen gewählten Studiengang“ durch die Worte „im Bachelorstudiengang Berufspädagogik Technik“ ersetzt und nach den Worten „gewachsen sind“ das Wort „und“ angefügt. 
 
@@ -396,7 +396,7 @@ c) In Abs. 3 wird nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 5. Grundlagen der Informatik“ gestrichen. 
 
-## 25. § 24 wird wie folgt geändert: 
+# 25. § 24 wird wie folgt geändert: 
 
    - a) In Abs. 1 werden nach den Worten „bestanden sind“ der Doppelpunkt und die Worte 
 
@@ -492,7 +492,7 @@ bb) In Satz 3 wird die Zahl „8“ durch die Zahl „9“ ersetzt.
 
 27. § 26 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
 aa) In Satz 3 wird die Zahl „9“ durch die Zahlen und Worte „10 Satz 1“ ersetzt. 
 
@@ -500,13 +500,13 @@ aa) In Satz 3 wird die Zahl „9“ durch die Zahlen und Worte „10 Satz 1“ e
 
 cc) In Satz 8 werden nach der Zahl „7“ das Wort und die Zahl „Abs. 1“ eingefügt. 
 
-   - dd) In Satz 9 wird das Wort „Erziehungsurlaub“ durch das Wort „Elternzeit“ ersetzt. 
+- dd) In Satz 9 wird das Wort „Erziehungsurlaub“ durch das Wort „Elternzeit“ ersetzt. 
 
-- b) Abs. 2 wird wie folgt geändert: 
+b) Abs. 2 wird wie folgt geändert: 
 
 aa) Nach Satz 1 werden folgende neue Sätze 2 und 3 eingefügt: 
 
-„[2] Statt nicht bestandener Module können andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet.[3] Entsprechendes gilt für Modu- 
+„<sup>2</sup> Statt nicht bestandener Module können andere, alternativ angebotene Module absolviert werden; die Fehlversuche im vorangegangenen, alternativ angebotenen Modul werden nicht angerechnet.<sup>3</sup> Entsprechendes gilt für Modu- 
 
 12 
 
@@ -524,7 +524,9 @@ le, die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich abso
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-   - „[1] Die Qualifikation zum Masterstudium wird nachgewiesen durch 1. einen ersten berufsqualifizierenden in Bezug auf den Bachelorabschluss nach dieser Prüfungsordnung fachspezifischen oder fachverwandten Abschluss einer Hochschule bzw. einen sonstigen hinsichtlich des im Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlichen Abschluss und 
+„<sup>1</sup> Die Qualifikation zum Masterstudium wird nachgewiesen durch 
+
+   1. einen ersten berufsqualifizierenden in Bezug auf den Bachelorabschluss nach dieser Prüfungsordnung fachspezifischen oder fachverwandten Abschluss einer Hochschule bzw. einen sonstigen hinsichtlich des im Abschluss vermittelten Qualifikationsprofils nicht wesentlich unterschiedlichen Abschluss und 
 
    2. das Bestehen des Qualifikationsfeststellungsverfahrens nach der **Anlage 1.** “ 
 
@@ -542,23 +544,23 @@ cc) Satz 4 wird gestrichen.
 
 cc) Satz 3 erhält folgende neue Fassung: 
 
-„[3] Für die Feststellung der Anerkennbarkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG.“ 
+„<sup>3</sup> Für die Feststellung der Anerkennbarkeit von in- und ausländischen Abschlüssen gilt Art. 63 BayHSchG.“ 
 
-- d) Abs. 3 (neu) wird wie folgt geändert: 
+d) Abs. 3 (neu) wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden nach den Worten „Satz 1“ die Worte „Nr. 1“ eingefügt und nach den Worten „immatrikuliert sind,“ die Worte „in Ausnahmefällen“ gestrichen. 
+- aa) In Satz 1 werden nach den Worten „Satz 1“ die Worte „Nr. 1“ eingefügt und nach den Worten „immatrikuliert sind,“ die Worte „in Ausnahmefällen“ gestrichen. 
 
 13 
 
 bb) In Satz 2 wird das Wort „Studiums“ durch das Wort „Masterstudiums“ ersetzt. 
 
-- e) Abs. 4 (neu) wird gestrichen. 
+e) Abs. 4 (neu) wird gestrichen. 
 
-## 29. Nach § 27 wird folgender neuer § 27a eingefügt: 
+# 29. Nach § 27 wird folgender neuer § 27a eingefügt: 
 
-## „ **§ 27a Zulassung zu den Prüfungen** 
+# „ **§ 27a Zulassung zu den Prüfungen** 
 
-1Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.[2] Die Zulassung 
+1Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.<sup>2</sup> Die Zulassung 
 
 ist zu versagen, wenn 
 
@@ -568,21 +570,21 @@ ist zu versagen, wenn
 
 3.  die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde. 
 
-3Bestehen Wahlmöglichkeiten zwischen den für die Masterprüfung nachzuweisen- 
+- 3Bestehen Wahlmöglichkeiten zwischen den für die Masterprüfung nachzuweisen- 
 
 den Modulen, werden die Studierenden jeweils nur für ein Modul zugelassen, das sie durch Anmeldung zur Prüfung bindend wählen.“ 
 
-## 30. § 28 Abs. 2 wird wie folgt geändert: 
+# 30. § 28 Abs. 2 wird wie folgt geändert: 
 
 - a) In Satz 2 werden nach den Worten „waren, können“ die Worte „wegen des erforderlichen fachspezifischen Kompetenzgewinns“ eingefügt. 
 
-- b) In Satz 3 werden nach den Worten „Informationstechnik anbietet“ das Komma durch das Zeichen „;“ und nach den Worten „Departments Maschinenbau wählbar“ das Komma und das Wort „der“ durch einen Punkt und das Wort „[4] Der“ ersetzt. 
+- b) In Satz 3 werden nach den Worten „Informationstechnik anbietet“ das Komma durch das Zeichen „;“ und nach den Worten „Departments Maschinenbau wählbar“ das Komma und das Wort „der“ durch einen Punkt und das Wort „<sup>4</sup> Der“ ersetzt. 
 
 - c) Der bisherige Satz 4 wird zu Satz 5. 
 
 - d) In Satz 5 (neu) werden nach dem Wort „ **Fachprüfungsordnung** “ das Zeichen „;“ und die Worte „im Studiengang Berufspädagogik Technik wird nach Bestehen ein benoteter Leistungsnachweis verbucht“ gestrichen. 
 
-## 31. § 29 wird wie folgt geändert: 
+# 31. § 29 wird wie folgt geändert: 
 
 - a) Abs. 3 wird wie folgt geändert: 
 
@@ -618,17 +620,17 @@ den Modulen, werden die Studierenden jeweils nur für ein Modul zugelassen, das 
 
    - c) Abs. 5 wird wie folgt geändert: 
 
-aa) In Satz 3 wird die Zahl „2“ durch die Zahlen und das Wort „1 Nr. 1“ ersetzt. 
+      - aa) In Satz 3 wird die Zahl „2“ durch die Zahlen und das Wort „1 Nr. 1“ ersetzt. 
 
-- bb) Die Worte „der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder“ werden durch das Wort „bzw.“ ersetzt. 
+      - bb) Die Worte „der dem Abschluss nach § 27 Abs. 1 Satz 2 Nr. 1 vergleichbar ist oder“ werden durch das Wort „bzw.“ ersetzt. 
 
-- cc) Nach den Worten „von besser als 2,5 erreicht hat“ wird ein Komma eingefügt. 
+      - cc) Nach den Worten „von besser als 2,5 erreicht hat“ wird ein Komma eingefügt. 
 
-- dd) Nach den Worten „erreicht hat, oder“ (neu) werden die Worte „in den“ durch die Worte „im Bereich der“ ersetzt. 
+      - dd) Nach den Worten „erreicht hat, oder“ (neu) werden die Worte „in den“ durch die Worte „im Bereich der“ ersetzt. 
 
-- ee) Nach den Worten „aufgeführten fachwissenschaftlichen“ wird das Wort „Pflichtmodule“ durch das Wort „Pflichtmodulen“ ersetzt. 
+      - ee) Nach den Worten „aufgeführten fachwissenschaftlichen“ wird das Wort „Pflichtmodule“ durch das Wort „Pflichtmodulen“ ersetzt. 
 
-- ff) Nach den Worten „Bachelorstudiengangs Berufspädagogik Technik“ wird der Klammerzusatz „(in **Anlage 2a** bzw. **2b** mit dem Zusatz „FSP“ gekennzeichnet)“ eingefügt. 
+      - ff) Nach den Worten „Bachelorstudiengangs Berufspädagogik Technik“ wird der Klammerzusatz „(in **Anlage 2a** bzw. **2b** mit dem Zusatz „FSP“ gekennzeichnet)“ eingefügt. 
 
 15 
 
@@ -640,11 +642,11 @@ aa) In Satz 3 wird die Zahl „2“ durch die Zahlen und das Wort „1 Nr. 1“ 
 
 aa) Nach Satz 2 folgender neuer Satz 2 eingefügt: 
 
-„[2] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.“ 
+„<sup>2</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme verhindert, so kann auf begründeten Antrag ein Nachtermin bis spätestens zwei Wochen vor Vorlesungsbeginn anberaumt werden.“ 
 
 bb) Der bisherige Satz 2 wird zu Satz 3. 
 
-e) In Abs. 7 Satz 2 wird die Zahl „4“ durch die Zahl „3“ ersetzt. 
+- e) In Abs. 7 Satz 2 wird die Zahl „4“ durch die Zahl „3“ ersetzt. 
 
 - f) Nach Abs. 8 wird folgender neuer Abs. 9 eingefügt: 
 
@@ -656,59 +658,55 @@ e) In Abs. 7 Satz 2 wird die Zahl „4“ durch die Zahl „3“ ersetzt.
 
 16 
 
-## 34. Anlage 2a erhält folgende neue Fassung: 
+# 34. Anlage 2a erhält folgende neue Fassung: 
 
-|„|„||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Modul**|||||**ECTS Verteilung auf Semester**<br>**(Workload)**||||||||
-||||||||||||||
-|||||||||||||**Art und Umfang der Prüfung-**<br>**bzw. Studienleistung**|
-||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**PfP**||
-|**Nr.**|**Bezeichnung**|**GOP**|**SWS**|**ECTS**|||||||||
-||Grundlagen der Elektrotechnik, Energie und Antriebstech-<br>nik||||||||||||
-|B 1|Grundlagen der Elektrotechnik I|GOP||7,5|7,5|||||||PL (K 120)|
-|B 2|Grundlagen der Elektrotechnik II|||5||5||||||PL (K 90)|
-|B 3|Grundlagen der Elektrotechnik III|||5|||5|||||PL (K 90)|
-|B 4|Praktikum Grundlagen der Elektro und Schaltungstechnik|||5||||5<br>(1/1/3)||||SL (PrL)|
-|B5<br>B 5a<br>B 5b|Energie- und Antriebstechnik<br>Grundlagen der Elektrischen Antriebstechnik<br>Grundlagen der Elektrischen Energieversorgung|FSP||7,5||||||||PL (K180)1)|
-|||||||||7,5|||||
-||||||||||||||
-||Informatik und Mathematik||||||||||||
-|B 6|Mathematik für BPT-E 12)|GOP||7,5|7,5||||||PfP|SL (ÜbL) + PL (K 90)|
-|B 7|Mathematik für BPT-E 22)|GOP||10||10|||||PfP|SL (ÜbL) + PL (K 120)|
-|B 8|Mathematik für BPT-E 32)|||5|||5||||PfP|SL (ÜbL) + PL (K 60)|
-|B 9|Grundlagen der Informatik|||7,5|7,5||||||PfP|SL (ÜbL) + PL (K 90)|
-||Hochfrequenztechnik||||||||||||
-|B 10|Hochfrequenztechnik|||5|||||5|||PL (K 90)|
-|B 11|Passive Bauelemente und deren HF-Verhalten|FSP||5||||5||||PL (K 90)|
-||Kommunikationselektronik und Schaltungstechnik||||||||||||
-|B 12|Digitaltechnik|||5|||5|||||PL (K 90)|
-|B 13|Halbleiterbauelemente|FSP||5|||5|||||PL (K 90)|
-|B 14|Schaltungstechnik|FSP||5||||5||||PL (K 90)|
-|B 15|Kommunikationsstrukturen|FSP||5|||||5|||PL (K 90)|
+|„<br>**Modul**|||||**ECTS Vert**<br>**(Workload**<br> <br>|**eilung**<br>**)**<br>|**auf Semester**<br>**Art und Umfang der Prüfung-**<br> <br> <br> <br>|
+|---|---|---|---|---|---|---|---|
+||||||**1.**<br>**2.**|**3.**|<br>**bzw. Studienleistung**<br>**4.**<br>**5.**<br>**6.**<br>**PfP**|
+|**Nr.**|**Bezeichnung**|**GOP**|**SWS**|**ECTS**||||
+||Grundlagen der Elektrotechnik, Energie und Antriebstech-<br>nik<br>|||||||
+|B 1|Grundlagen der Elektrotechnik I|GOP||7,5|7,5||PL (K 120)|
+|B 2|Grundlagen der Elektrotechnik II|||5|5||PL (K 90)|
+|B 3|Grundlagen der Elektrotechnik III|||5||5|PL (K 90)|
+|B 4|Praktikum Grundlagen der Elektro und Schaltungstechnik|||5|||5<br>(1/1/3)<br>SL (PrL)|
+|B5<br>B 5a<br>B 5b|Energie- und Antriebstechnik<br>Grundlagen der Elektrischen Antriebstechnik<br>Grundlagen der Elektrischen Energieversorgung|FSP||7,5|||<br>PL (K180)<sup>1)</sup><br>7,5|
+||Informatik und Mathematik<br>|||||||
+|B 6|Mathematik für BPT-E 1<sup>2)</sup>|GOP||7,5|7,5||PfP<br>SL (ÜbL) + PL (K 90)|
+|B 7|Mathematik für BPT-E 2<sup>2)</sup>|GOP||10|10||PfP<br>SL (ÜbL) + PL (K 120)|
+|B 8|Mathematik für BPT-E 3<sup>2)</sup>|||5||5|PfP<br>SL (ÜbL) + PL (K 60)|
+|B 9|Grundlagen der Informatik|||7,5|7,5||PfP<br>SL (ÜbL) + PL (K 90)|
+||Hochfrequenztechnik<br>||||||<br>|
+|B 10|Hochfrequenztechnik|||5|||5<br>PL (K 90)|
+|B 11|Passive Bauelemente und deren HF-Verhalten|FSP||5|||5<br>PL (K 90)|
+||Kommunikationselektronik und Schaltungstechnik|||||||
+|B 12|Digitaltechnik|||5||5|PL (K 90)|
+|B 13|Halbleiterbauelemente|FSP||5||5|PL (K 90)|
+|B 14|Schaltungstechnik|FSP||5|||5<br>PL (K 90)|
+|B 15|Kommunikationsstrukturen|FSP||5|||5<br>PL (K 90)|
 
 17 
 
-||Systeme und Regelungen|Systeme und Regelungen|Systeme und Regelungen|Systeme und Regelungen|||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B16|Regelungstechnik A (Grundlagen)|FSP||5|||||5|||PL (K 90)|
-|B17|Einführung in die Systemtheorie|FSP||5||||5||||PL (K 90)|
-||Seminar und Laborpraktikum aus der Elektro- und Infor-<br>mationstechnik||||||||||||
-|B18|Seminar|||5||||||2,5|PfP|PL (SeL)|
-||Laborpraktikum|||||||||2,5||SL (PrL)|
-||Berufspädagogik||||||||||||
-|B19|Fachdidaktik Elektrotechnik und Informationstechnik I|||5||||||5||SL (SeL) + PL (mdl  20)|
-|B 20|Grundlagen der Berufspädagogik|GOP||5||5||||||PL (K 90)|
-|B21|Präsentations- und Moderationstechnik|||5|5|||||||PL (K 90)|
-|B22|Berufliche Weiterbildung|||5||5||||||PL (K 90)|
-|B23|Betriebspädagogisches Seminar|||5||||||5||PL (SeL)|
-|B24|Schulpraktische Studien|||5|||5|||||PL (PrL)|
-|B25|Berufspädagogische Vertiefung|FSP||10|||||5|5||PL (SeL)|
-||Zweitfach||||||||||||
-|B 26|Unterrichtsfach (Zweitfach) inkl. Fachdidaktik|||25|2,5|5|5|2,5|10|||3)|
-||Abschlussarbeit||||||||||||
-|B 27|Bachelorarbeit incl. Vortrag|||||||||10||PL (BA)|
-||Summen SWS bzw. ECTS||139 - 144|180|30|30|30|30|30|30|||
+||Systeme und Regelungen<br>||||||||
+|---|---|---|---|---|---|---|---|---|
+|B16|Regelungstechnik A (Grundlagen)|FSP||5|||5|PL (K 90)|
+|B17|Einführung in die Systemtheorie|FSP||5|||5|PL (K 90)|
+||Seminar und Laborpraktikum aus der Elektro- und Infor-<br>mationstechnik<br>|||||||<br>|
+|B18|Seminar|||5||||2,5<br>PfP<br>PL (SeL)|
+||Laborpraktikum|||||||<br>2,5<br>SL (PrL)|
+||Berufspädagogik||||||||
+|B19|Fachdidaktik Elektrotechnik und Informationstechnik I|||5||||5<br>SL (SeL) + PL (mdl  20)|
+|B 20|Grundlagen der Berufspädagogik|GOP||5|5|||PL (K 90)|
+|B21|Präsentations- und Moderationstechnik|||5|5|||PL (K 90)|
+|B22|Berufliche Weiterbildung|||5|5|||PL (K 90)|
+|B23|Betriebspädagogisches Seminar|||5||||5<br>PL (SeL)|
+|B24|Schulpraktische Studien|||5||5||PL (PrL)|
+|B25|Berufspädagogische Vertiefung|FSP||10|||5|5<br>PL (SeL)|
+||Zweitfach||||||||
+||||||<br>||<br>|3)|
+|B 26|Unterrichtsfach (Zweitfach) inkl. Fachdidaktik|||25|2,5<br>5|5|2,5<br>10||
+||<br>Abschlussarbeit||||||||
+|B 27|Bachelorarbeit incl. Vortrag|||||||10<br>PL (BA)|
+||Summen SWS bzw. ECTS||139 - 144|180|30<br>30|30|30<br>30|30|
 
 GOP=Grundlagen- und Orientierungsprüfung 
 
@@ -732,61 +730,55 @@ BA: Bachelorarbeit
 
 19 
 
-## 35. Anlage 2b erhält folgende neue Fassung: 
+# 35. Anlage 2b erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modul**|||||**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**ECTS Verteilung auf Semes-**<br>**ter**<br>**(Workload)**|**Art und Umfang der**<br>**Prüfung- bzw. Stu-**<br>**dienleistung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
-||||||||||||||
-||||||||||||||
-||||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**PfP**||
-|**Nr.**|**Bezeichnung**|**GOP**|**ECTS**|**SWS**|||||||||
-||Mechanik und Konstruktion||||||||||||
-|B 1|Statik und Festigkeitslehre|GOP|7,5|||7,5||||||PL (K 90)|
-|B 2|Dynamik starrer Körper|FSP|7,5||||7,5|||||PL (K 90)|
-|B 3|Methode der Finiten Elemente|FSP|5|||||5||||PL (K 60)|
-|B 4|Technische Darstellungslehre I||5||2,5||||||PfP|SL (PrL) Papierübung|
-||Technische Darstellungslehre II|||||2,5||||||SL (PrL) Rech-<br>nerübung|
-|B 5|Grundlagen der Produktentwicklung|FSP|10||||5||||PfP|PL (K120)|
-||Konstruktionsübung||||||5|||||SL (PrL)|
-|B 6|Konstruktive Projektarbeit (Teamwork, Präsentationstechnik)||5||||||5|||SL (PrL)|
-||Informatik und Mathematik||||||||||||
-|B 7|Mathematik für BPT-M 11)|GOP|7,5||7,5||||||PfP|SL (ÜbL) + PL (K 90)|
-|B 8|Mathematik für BPT-M 21)|GOP|7,5|||7,5|||||PfP|SL (ÜbL) + PL (K 90)|
-|B 9|Mathematik für BPT-M 31)||7,5||||7,5|||||PL (K 90)|
-|B 10|Grundlagen der Informatik||7,5|||||7,5|||PfP|SL (ÜbL) + PL (K 90)|
-||Produktion, Optik und Messtechnik||||||||||||
-|B 11|Produktionstechnik I und II|FSP|5|||||5||||PL (K 120)|
-|B 12|Optik und optische Technologien|FSP|2,5||||||2,5|||PL (K 60)|
+|**Modul**||||**EC**<br>**1.**|**TS Verteilung auf**<br>**ter**<br>**(Workload)**<br>**2.**<br>**3.**<br>**4.**|**Semes-**<br> <br>**5.**<br>**6.**<br>**PfP**|**Art und Umfang der**<br>**Prüfung- bzw. Stu-**<br>**dienleistung**|
+|---|---|---|---|---|---|---|---|
+|**Nr.**|**Bezeichnung**|**GOP**|**ECTS**|**SWS**||||
+||Mechanik und Konstruktion|||||||
+|B 1|Statik und Festigkeitslehre|GOP|7,5||7,5||PL (K 90)|
+|B 2|Dynamik starrer Körper|FSP|7,5||7,5||PL (K 90)|
+|B 3|Methode der Finiten Elemente|FSP|5||5||PL (K 60)|
+||Technische Darstellungslehre I|||2,5|||SL (PrL) Papierübung|
+|B 4|Technische Darstellungslehre II||5||2,5|PfP|SL (PrL) Rech-<br>nerübung|
+|B 5|Grundlagen der Produktentwicklung|FSP|10||5|PfP|PL (K120)|
+||Konstruktionsübung||||5||SL (PrL)|
+|B 6|Konstruktive Projektarbeit (Teamwork, Präsentationstechnik)||5|||5|SL (PrL)|
+||Informatik und Mathematik<br><sup>1</sup>|||||||
+|B 7|Mathematik für BPT-M 1)|GOP|7,5|7,5||PfP|SL (ÜbL) + PL (K 90)|
+|B 8|Mathematik für BPT-M 2<sup>1)</sup>|GOP|7,5||7,5|PfP|SL (ÜbL) + PL (K 90)|
+|B 9|Mathematik für BPT-M 3<sup>1)</sup>||7,5||7,5||PL (K 90)|
+|B 10|Grundlagen der Informatik||7,5||7,5|PfP|SL (ÜbL) + PL (K 90)|
+||Produktion, Optik und Messtechnik|||||||
+|B 11|Produktionstechnik I und II|FSP|5||5||PL (K 120)|
+|B 12|Optik und optische Technologien|FSP|2,5|||2,5|PL (K 60)|
 
 20 
 
-|B 13|Grundlagen der Messtechnik|FSP|5||||||5|||PL (K 60)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|B 14|Hochschulpraktikum||2,5||||||2,5|||SL (PrL)|
-||Elektrotechnik, Thermodynamik und Werkstoffkunde||||||||||||
-|B 15|Grundlagen der Elektrotechnik||5|||5||||||PL (K 60)|
-|B 16|Technische Thermodynamik||7,5|||||7,5||||PL (K 120)|
-|B 17|Werkstoffkunde||||||||||PfP|PL (K 120)|
-|||GOP|7,5||5||||||||
-||Werkstoffprüfung|||||2,5||||||SL (PrL)|
-||Berufspädagogik||||||||||||
-|B 18|Fachdidaktik Metalltechnik I||5|||||||5|PfP|SL (SeL) + PL (mdl<br>20)|
-|B 19|Grundlagen der Berufspädagogik|GOP|5|||5||||||PL (K 90)|
-|B 20|Präsentations- und Moderationstechnik||5||5|||||||PL (K 90)|
-|B 21|Berufliche Weiterbildung||5|||||||5||PL (K 90)|
-|B 22|Betriebspädagogisches Seminar||5|||||||5||PL (SeL)|
-|B 23|Schulpraktische Studien||5||||||5|||PL (PrL)|
-|B 24|Berufspädagogische Vertiefung|FSP|10||||||5|5||PL (SeL)|
-||Zweitfach||||||||||||
-|**B 25**|Unterrichtsfach (Zweitfach) inkl. Fachdidaktik||25||10||5|5|5|||**2)**|
-||Abschlussarbeit||||||||||||
-|B 26|Bachelorarbeit incl. Vortrag|||||||||10||PL (BA)|
-||||||||||||||
-||_Summen SWS bzw. ECTS_||_180_|139-<br>144|30|30|30|30|30|30|||
-||||||||||||||
+|B 13|Grundlagen der Messtechnik|FSP|5||||5|PL (K 60)|
+|---|---|---|---|---|---|---|---|---|
+|B 14|Hochschulpraktikum||2,5||||2,5|SL (PrL)|
+||Elektrotechnik, Thermodynamik und Werkstoffkunde<br>||||||||
+|B 15|Grundlagen der Elektrotechnik||5||5|||PL (K 60)|
+|B 16|Technische Thermodynamik||7,5|||7,5||PL (K 120)|
+|B 17|Werkstoffkunde|GOP|7,5|5|||PfP|PL (K 120)|
+||Werkstoffprüfung||||2,|5||SL (PrL)|
+||Berufspädagogik||||||||
+||||||||PfP|SL (SeL) + PL (mdl|
+|B 18|Fachdidaktik Metalltechnik I||5||||5<br>|<br>20)|
+|B 19|Grundlagen der Berufspädagogik|GOP|5||5|||PL (K 90)|
+|B 20|Präsentations- und Moderationstechnik||5|5||||PL (K 90)|
+|B 21|Berufliche Weiterbildung||5||||5|PL (K 90)|
+|B 22|Betriebspädagogisches Seminar||5||||5|PL (SeL)|
+|B 23|Schulpraktische Studien||5||||5|PL (PrL)|
+|B 24|Berufspädagogische Vertiefung|FSP|10||||5<br>5|PL (SeL)|
+||<br>Zweitfach<br>|||||||**2)**|
+|**B 25**|Unterrichtsfach (Zweitfach) inkl. Fachdidaktik||25|10||5<br>5|5||
+||<br>Abschlussarbeit<br>||||||||
+|B 26|Bachelorarbeit incl. Vortrag||||||10|PL (BA)|
+||_Summen SWS bzw. ECTS_||_180_|139-<br>144<br>30|30|<br>30<br>30|30<br>30||
 
 GOP=Grundlagen- und Orientierungsprüfung 
 
@@ -818,17 +810,17 @@ BA: Bachelorarbeit
 
 22 
 
-## 36. Anlage 3 erhält folgende neue Fassung: 
+# 36. Anlage 3 erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|**Modul**|**Modul**|**Modul**|**Modul**|**ECTS Verteilung über Se-**<br>**mester (Workload)**|**ECTS Verteilung über Se-**<br>**mester (Workload)**|**ECTS Verteilung über Se-**<br>**mester (Workload)**|**ECTS Verteilung über Se-**<br>**mester (Workload)**||**Art und Umfang**<br>**der Prüfung-**<br>**bzw. Studienle-**<br>**istung**|
+|**Modul**||||**ECTS**<br>**me**|**Verteil**<br>**ster (**|**ung üb**<br>**Workloa**|**er Se-**<br>**d)**||**Art und Umfang**<br>**der Prüfung-**<br>|
 |---|---|---|---|---|---|---|---|---|---|
-|||||||||||
-|||||**1.**|**2.**|**3.**|**4.**|**PfP**||
+|||||**1.**|**2.**|**3.**|**4.**|**PfP**|**bzw. Studienle-**<br>|
+||||||||||**istung**|
 |**Nr.**|**Bezeichnung**|**ECTS**|**SWS**|||||||
-|M 1|Wahlpflichtmodule Fachwissenschaft1)|15||||5|10||PL2)|
-|M 2|Fachdidaktik  II|5||5|||||PL3)|
+|M 1|Wahlpflichtmodule Fachwissenschaft<sup>1)</sup>|15||||5|10||PL<sup>2)</sup>|
+|M 2|Fachdidaktik  II|5||5|||||PL<sup>3)</sup>|
 |M 3|Berufspädagogische Didaktik|20||10|10||||PL(SeL)|
 |M 4|Schulpraktische Studien|5||||5||PfP|PL(SeL)+ SL(PrL)|
 |M 5|Empirische Forschung i.d. Berufspädagogik|5|||5||||PL(SeL)|
@@ -855,7 +847,7 @@ PL: Prüfungsleistung SL: Studienleistung PrL: Praktikumsleistung SeL: Seminarle
 
 37. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2015 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. Abweichend von Satz 2 gelten die Änderungen in den lfd. Nrn. 28 und 33 für alle Studierenden, die das Masterstudium ab dem Sommersemester 2016 aufnehmen werden. 
 

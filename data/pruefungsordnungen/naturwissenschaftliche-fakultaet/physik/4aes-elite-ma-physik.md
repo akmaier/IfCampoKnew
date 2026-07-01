@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_Elite-MA Physik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T07:59:50+00:00
-page_count_chars: 6436
+scraped_at: 2026-07-01T09:23:43+00:00
+page_count_chars: 6462
 ---
 
 # 8. März 2016
@@ -12,13 +12,13 @@ page_count_chars: 6436
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/4AES_Elite-MA Physik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
 
-## **Vierte Satzung zur Änderung der Prüfungsordnung für den Bachelorstudiengang Physik und den Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -** 
+# **Vierte Satzung zur Änderung der Prüfungsordnung für den Bachelorstudiengang Physik und den Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik -** 
 
-## Vom 8. März 2016 
+# Vom 8. März 2016 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den Bachelorstudiengang Physik und den Masterstudiengang Physics an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Physik - vom 7. September 2007, zuletzt geändert durch Satzung vom 17. Oktober 2014, wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ bb) In Satz 3 werden nach dem Wort „aus“ die Worte „Teilprüfungen oder“
 
 b) In Abs. 5 wird nach S. 2 folgender neuer S. 3 eingefügt: 
 
-„[3] Macht die bzw. der Studierende von der Möglichkeit nach S. 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
+„<sup>3</sup> Macht die bzw. der Studierende von der Möglichkeit nach S. 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
 
 Der bisherige S. 3 wird zu S. 4. 
 
@@ -48,17 +48,19 @@ Der bisherige S. 3 wird zu S. 4.
 
 5. § 17 Abs. 2 wird wie folgt geändert: 
 
-   - a) In S. 3 werden nach dem Wort „Regel“ die Worte „innerhalb von vier Wochen und mindestens zwei Wochen vor dem Termin der ersten Wiederholungsprüfung“ eingefügt. 
+- a) In S. 3 werden nach dem Wort „Regel“ die Worte „innerhalb von vier Wochen und mindestens zwei Wochen vor dem Termin der ersten Wiederholungsprüfung“ eingefügt. 
 
-   - b) Nach S. 5 wird folgender Satz 6 angefügt: „[6] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+- b) Nach S. 5 wird folgender Satz 6 angefügt: 
 
-   6. § 19 wird wie folgt geändert: 
+   - „<sup>6</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
-   - a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+6. § 19 wird wie folgt geändert: 
 
-      - „[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-   - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
+   - „<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+
+b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
 7. In § 20 Abs. 3 Satz 3 HS 2 wird das Wort „Note“ durch das Wort „Noten“ und das Wort „ist“ durch die Worte „und 4,3 sind“ ersetzt. 
 
@@ -68,7 +70,7 @@ Der bisherige S. 3 wird zu S. 4.
 
    - b) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-      - „[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
+      - „<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
 
    - c) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -76,7 +78,7 @@ Der bisherige S. 3 wird zu S. 4.
 
    - e) Satz 4 (neu) wird gestrichen. 
 
-## 9. § 39 wird wie folgt geändert: 
+# 9. § 39 wird wie folgt geändert: 
 
 - a) In S. 1 wird der Punkt durch ein Semikolon ersetzt sowie folgender Halbsatz 2 angefügt: 
 
@@ -90,7 +92,7 @@ Der bisherige S. 3 wird zu S. 4.
 
 11. In Anlage 3 Abs. 5 Satz 2 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz 2 angefügt: „bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gilt § 12 Abs. 3 entsprechend.“ 
 
-## 12. Anlage 6 wird wie folgt geändert: 
+# 12. Anlage 6 wird wie folgt geändert: 
 
 - a) In der Überschrift, in Abs. 1 S. 1, in Abs. 2 b) S. 4 und c) S. 6 sowie Abs. 3 und Abs. 5 S. 1 werden jeweils die Worte „Physik in der Medizin“ durch die Worte „Physics in Medicine“ ersetzt. 
 
@@ -108,9 +110,9 @@ Das Inhaltsverzeichnis wird entsprechend angepasst.
 
 - d) In Abs. 5 S. 2 werden die Worte „Physikalisches Experimentieren in der Medizin“ durch die Worte „Advanced Laboratory Course in Physics in Medicine“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von S. 1 gilt die unter § 1 Ziffer 1 vorgenommene Änderung für alle Studierenden, die das Studium ab dem Wintersemester 2016 / 2017 aufnehmen.[3] Abweichend von S. 1 gilt die unter § 1 Ziffer 10 vorgenommene Änderung für alle Studierenden, die das geänderte Modul noch nicht begonnen haben. 
+1Die Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von S. 1 gilt die unter § 1 Ziffer 1 vorgenommene Änderung für alle Studierenden, die das Studium ab dem Wintersemester 2016 / 2017 aufnehmen.<sup>3</sup> Abweichend von S. 1 gilt die unter § 1 Ziffer 10 vorgenommene Änderung für alle Studierenden, die das geänderte Modul noch nicht begonnen haben. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 25. November 2015 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.Ing. Joachim Hornegger vom 8. März 2016. 
 

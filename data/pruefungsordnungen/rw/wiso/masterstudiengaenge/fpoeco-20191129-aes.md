@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOECO 20191129 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Economics/Aenderungssatzungen/FPOECO_20191129_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:34:51+00:00
-page_count_chars: 10438
+scraped_at: 2026-07-01T11:00:46+00:00
+page_count_chars: 10617
 ---
 
 # FPOECO 20191129 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 10438
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Economics/Aenderungssatzungen/FPOECO_20191129_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO –** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO –** 
 
-## **Vom 29. November 2019** 
+# **Vom 29. November 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 43 Abs. 5, Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOECO – vom 20. Juli 2009, zuletzt geändert durch Satzung vom 10. August 2017, wird wie folgt geändert: 
 
@@ -28,7 +28,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der R
 
 3. Die Regelung in § 2 erhält folgende neue Fassung: 
 
-„(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Abschluss in einem Bachelorstudiengang im Fach Volkswirtschaftslehre bzw. Economics sowie der Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** .[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden anerkannt: 
+„(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** ist der Abschluss in einem Bachelorstudiengang im Fach Volkswirtschaftslehre bzw. Economics sowie der Bachelorabschluss Wirtschaftswissenschaften mit Schwerpunkt VWL an der FAU gemäß der **FPO BA WiWi** .<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 **MPOWISO** werden anerkannt: 
 
 1. alle anderen wirtschaftswissenschaftlichen Bachelorabschlüsse 
 
@@ -42,13 +42,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der R
 
 6. ein (Bachelor-)Abschluss in einem (wirtschafts-)rechtlichen Studiengang. 
 
-(2)[1] Als weitere Unterlage im Sinne der Nr. 2.3.3 der **Anlage** zur **MPOWISO** ist ein Nachweis über Kenntnisse der englischen Sprache mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens (GER) zu erbringen.[ 2] Der Nachweis nach Satz 1 kann insbesondere durch die Vorlage von Schulzeugnissen (Fremdsprachenerwerb über mindestens 5 Jahre bis zum Erwerb der Hochschulzugangsberechtigung, Abschlussnote oder ggf. Durchschnittsnote der letzten zwei Jahre muss mindestens der deutschen Notenstufe 4 (ausreichend) bzw. 5 Punkten entsprechen) geführt werden.[3] Der Nachweis ist nicht erforderlich, wenn die Bewerberin bzw. der 
+(2)<sup>1</sup> Als weitere Unterlage im Sinne der Nr. 2.3.3 der **Anlage** zur **MPOWISO** ist ein Nachweis über Kenntnisse der englischen Sprache mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens (GER) zu erbringen.<sup>2</sup> Der Nachweis nach Satz 1 kann insbesondere durch die Vorlage von Schulzeugnissen (Fremdsprachenerwerb über mindestens 5 Jahre bis zum Erwerb der Hochschulzugangsberechtigung, Abschlussnote oder ggf. Durchschnittsnote der letzten zwei Jahre muss mindestens der deutschen Notenstufe 4 (ausreichend) bzw. 5 Punkten entsprechen) geführt werden.<sup>3</sup> Der Nachweis ist nicht erforderlich, wenn die Bewerberin bzw. der 
 
 1 
 
 Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsberechtigung in englischer Sprache erworben hat. 
 
-(3)[1] Bewerberinnen und Bewerbern mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Economics gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,9 oder besser abgeschlossen haben.[2] Bewerberinnen und Bewerber, deren Gesamtnote des Abschlusses nach Abs. 1 eine schlechtere Note als 2,89 aufweist, gelten als ungeeignet und erhalten einen mit Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.[3] Für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 
+(3)<sup>1</sup> Bewerberinnen und Bewerbern mit hervorragenden Erstabschlüssen nach Abs. 1 Satz 1 wird gemäß Ziffer 5.1 **Anlage MPOWISO** direkter Zugang zum Masterstudiengang Economics gewährt, wenn sie den entsprechenden Studiengang mit der Note 1,9 oder besser abgeschlossen haben.<sup>2</sup> Bewerberinnen und Bewerber, deren Gesamtnote des Abschlusses nach Abs. 1 eine schlechtere Note als 2,89 aufweist, gelten als ungeeignet und erhalten einen mit Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.<sup>3</sup> Für Abschlüsse, die anderen Notensystemen entstammen, gelten § 12 Abs. 4 Sätze 1 bis 3 **MPOWISO** entsprechend. 
 
 (4) Alle Bewerberinnen und Bewerber, denen nicht bereits nach Abs. 3 der direkte Zugang zum Masterstudiengang gewährt werden kann und die einen Abschluss nach Abs. 1 mit der Note 2,89 oder besser vorweisen können, müssen folgende weitere Unterlagen im Sinne Nr. 2.3.3 der **Anlage** zur **MPOWISO** vorlegen, soweit vorhanden: 
 
@@ -56,17 +56,17 @@ Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsbe
 
 2. Nachweise über einschlägige Praktika (Anwendung wirtschaftswissenschaftlicher Konzepte in Praxis oder Forschung); der Nachweis kann z. B. durch einen Arbeitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnachweis des jeweiligen Arbeitgebers geführt werden. 
 
-(5)[1] Die Qualifikation der Bewerberinnen und Bewerber nach Abs. 4 wird auf zwei weiteren Stufen bewertet.[2] In der zweiten Stufe nach Abs. 6 können maximal 100 Punkte erreicht werden, die Bewertung der dritten Stufe lautet „geeignet“ oder „nicht geeignet“ (vgl. Abs. 7).[3] Bewerberinnen bzw. Bewerber, die in der zweiten Stufe 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung.[4] Werden in der zweiten Stufe zwischen 69 und 50 Punkte erreicht, schließt sich die dritte Stufe an.[5] Werden in der zweiten Stufe weniger als 50 Punkte erreicht, gelten Bewerberinnen und Bewerber als ungeeignet und erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
+(5)<sup>1</sup> Die Qualifikation der Bewerberinnen und Bewerber nach Abs. 4 wird auf zwei weiteren Stufen bewertet.<sup>2</sup> In der zweiten Stufe nach Abs. 6 können maximal 100 Punkte erreicht werden, die Bewertung der dritten Stufe lautet „geeignet“ oder „nicht geeignet“ (vgl. Abs. 7).<sup>3</sup> Bewerberinnen bzw. Bewerber, die in der zweiten Stufe 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung.<sup>4</sup> Werden in der zweiten Stufe zwischen 69 und 50 Punkte erreicht, schließt sich die dritte Stufe an.<sup>5</sup> Werden in der zweiten Stufe weniger als 50 Punkte erreicht, gelten Bewerberinnen und Bewerber als ungeeignet und erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
 (6) In der zweiten Stufe des Qualifikationsfeststellungsverfahrens werden die nach Nr. 2.3 **Anlage MPOWISO** und Abs. 4 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Nr. 5.2.1 **Anlage MPOWISO** bewertet: 
 
-1.[1] Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen; Bewertung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (max. 50 Punkte).[2] Die Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen wird wie folgt bewertet: 
+1.<sup>1</sup> Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen; Bewertung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (max. 50 Punkte).<sup>2</sup> Die Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen wird wie folgt bewertet: 
 
    - a) Qualität des bisherigen Hochschulabschlusses (maximal 30 Punkte): 
 
-|Abschluss-<br>note|Punkte (maximal 30 Punkte)|Punkte (maximal 30 Punkte)|
+|Abschluss-|Punkte (maxi|mal 30 Punkte)|
 |---|---|---|
-||Fachspezifisch (Gewichtung 1,0)|Fachverwandt (Gewichtung 0,8)|
+|note|Fachspezifisch (Gewichtung 1,0)|Fachverwandt (Gewichtung 0,8)|
 |1.9|30|24|
 |2|27|21.6|
 |2.1|24|19.2|
@@ -97,7 +97,7 @@ Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsbe
 |2.7|4|
 |2.8|2|
 
-2.[1] Fachspezifische Qualifikationen, Kenntnisse und Fähigkeiten; Bewertung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (max. 50 Punkte).[2] Die Punktevergabe errechnet sich hier wie folgt: 
+2.<sup>1</sup> Fachspezifische Qualifikationen, Kenntnisse und Fähigkeiten; Bewertung anhand der Abschlussdokumente des Erstabschlusses (insbesondere Transcript of Records) (max. 50 Punkte).<sup>2</sup> Die Punktevergabe errechnet sich hier wie folgt: 
 
    - a) Umfang an Kompetenzen, die im Kernbereich der VWL (siehe Nr. 1 Satz 2 Buchst. b)) erbracht worden sind (maximal 25 Punkte, Punkte in Zwischenbereichen werden linear hochgerechnet vergeben). 
 
@@ -123,7 +123,7 @@ Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsbe
 
 3 
 
-3. 1Extracurrikulare, sonstige Qualifikationen, die anhand der unter Abs. 2 und Abs. 4 genannten Nachweise beurteilt werden.[2] Es werden für: 
+3. 1Extracurrikulare, sonstige Qualifikationen, die anhand der unter Abs. 2 und Abs. 4 genannten Nachweise beurteilt werden.<sup>2</sup> Es werden für: 
 
    - a) einschlägige Auslandsaufenthalte 3 Punkte, 
 
@@ -133,11 +133,11 @@ Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsbe
 
 3Die Beurteilung der extrakurrikularen Qualifikationen entfällt, falls auf Basis der Qualität des bisherigen Studienabschlusses (Nr. 1) und der fachspezifischen Qualifikationen, Kenntnisse und Fähigkeiten (Nr. 2) zusammen weniger als 50 Punkte erzielt wurden. 
 
-(7)[1] In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.3 **Anlage MPOWISO** wird das Diskurs- und Anwendungsvermögen der Bewerberinnen und Bewerber hinsichtlich ihrer fachspezifischen Qualifikationen bewertet, die Erfolgsvoraussetzungen für das Studieren eines forschungsorientierten und auf selbstständiges wissenschaftliches Arbeiten ausgerichteten Studienganges sind.[2] Die Bewertung erfolgt durch ein Zugangsgespräch i. S. d. Nr. 5.2.2 **Anlage MPOWISO** . 3Das Gespräch umfasst eine Dauer von ca. 20 Minuten. 4Das im Gespräch gezeigte Diskurs- und Anwendungsvermögen wird gemäß der Notenskala § 19 Abs. 2 **MPOWISO** bewertet.[5] Bewerberinnen und Bewerber, die in der dritten Stufe des Qualifikationsfeststellungsverfahrens eine Bewertung mit „befriedigend“ oder besser erreichen, werden als geeignet eingestuft und zum Studiengang zugelassen.[6] Abs. 5 Satz 5 gilt entsprechend.“ 
+(7)<sup>1</sup> In der dritten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.3 **Anlage MPOWISO** wird das Diskurs- und Anwendungsvermögen der Bewerberinnen und Bewerber hinsichtlich ihrer fachspezifischen Qualifikationen bewertet, die Erfolgsvoraussetzungen für das Studieren eines forschungsorientierten und auf selbstständiges wissenschaftliches Arbeiten ausgerichteten Studienganges sind.<sup>2</sup> Die Bewertung erfolgt durch ein Zugangsgespräch i. S. d. Nr. 5.2.2 **Anlage MPOWISO** . 3Das Gespräch umfasst eine Dauer von ca. 20 Minuten. 4Das im Gespräch gezeigte Diskurs- und Anwendungsvermögen wird gemäß der Notenskala § 19 Abs. 2 **MPOWISO** bewertet.<sup>5</sup> Bewerberinnen und Bewerber, die in der dritten Stufe des Qualifikationsfeststellungsverfahrens eine Bewertung mit „befriedigend“ oder besser erreichen, werden als geeignet eingestuft und zum Studiengang zugelassen.<sup>6</sup> Abs. 5 Satz 5 gilt entsprechend.“ 
 
 4. In § 3 Abs. 3 und 4 wird jeweils die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
-## 5. § 4 wird wie folgt geändert: 
+5. § 4 wird wie folgt geändert: 
 
    - a) In Abs. 1 Satz 1 wird nach den Worten „erstens darin,“ das Wort „es“ eingefügt. 
 
@@ -145,9 +145,9 @@ Bewerber den ersten berufsqualifizierenden Abschluss oder die Hochschulzugangsbe
 
 6. In § 5 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die achte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die achte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
-7. In der Anlage wird in der Erläuterung[2)] unterhalb der Tabelle das Wort „Prüfungsordnung“ durch das Wort „ **(Fach-)Prüfungsordnung** “ ersetzt. 
+7. In der Anlage wird in der Erläuterung<sup>2)</sup> unterhalb der Tabelle das Wort „Prüfungsordnung“ durch das Wort „ **(Fach-)Prüfungsordnung** “ ersetzt. 
 
 4 
 

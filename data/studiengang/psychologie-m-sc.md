@@ -6,9 +6,9 @@ zugang: "Qualifikationsfeststellungsverfahren"
 regelstudienzeit: "4 Semester"
 unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
-studienbeginn: "Wintersemester"
+studienbeginn: "Sommersemester, Wintersemester"
 größe: "150-250"
-scraped_at: 2026-05-01T06:50:29+00:00
+scraped_at: 2026-07-01T08:27:28+00:00
 ---
 
 # Psychologie (M.Sc.)
@@ -24,7 +24,7 @@ scraped_at: 2026-05-01T06:50:29+00:00
 | Regelstudienzeit | 4 Semester |
 | Unterrichtssprache | vollständig auf Deutsch |
 | Fakultät | Philosophische Fakultät und Fachbereich Theologie |
-| Studienbeginn | Wintersemester |
+| Studienbeginn | Sommersemester, Wintersemester |
 | Größe | 150-250 |
 
 ## Worum geht es im Studiengang?
@@ -93,7 +93,7 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Bewerbungsfrist
 
 * Wintersemester: 15.07.
-* Sommersemester: nicht möglich
+* Sommersemester: 15.01.
 
 ### Sprachkenntnisse
 
@@ -105,9 +105,9 @@ einschlägiger Bachelorabschluss (oder gleichwertig) mit überdurchschnittlichem
 
 ### Details und Anmerkungen
 
-Ein Studienbeginn (1. Fachsemester) ist nur zu einem Wintersemester möglich.
+Ein Studienbeginn (1. Fachsemester) ist sowohl zu einem Sommersemester als auch zu einem Wintersemester möglich.
 
-Die Bewerbung für ein höheres Fachsemester ist zu einem Wintersemester (nur 3. Fachsemester) sowie zu einem Sommersemester (entweder 2. oder 4. Fachsemester) möglich.
+Die Bewerbung für ein höheres Fachsemester ist sowohl zu einem Wintersemester als auch zu einem Sommersemester möglich, jeweils jedoch nur für bestimmte höhere Fachsemester (WiSe 2026/27: nur 3. Fachsemester; SoSe 2027: 2. oder 4. Fachsemester).
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 

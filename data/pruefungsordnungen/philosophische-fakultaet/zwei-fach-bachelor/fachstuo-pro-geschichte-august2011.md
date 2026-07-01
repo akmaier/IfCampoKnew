@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 05.08.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Geschichte.AUGUST2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:59:06+00:00
-page_count_chars: 12482
+scraped_at: 2026-07-01T10:19:39+00:00
+page_count_chars: 12568
 ---
 
 # PDF vom 04.10.2007 i.d.F. 05.08.2011
@@ -16,7 +16,7 @@ page_count_chars: 12482
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Geschichte im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -40,13 +40,13 @@ Diese Fachprüfungs- und Studienordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Geschichte kann im Rahmen eines Zwei-Fach-Bachelorstudiengangs als erstes Fach im Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach im Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Der Studiengang bereitet auf berufliche Tätigkeiten vor.[2] Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.[3] Im Fach Geschichte erwerben die Studierenden grundlegende Fachkenntnisse der Geschichtswissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methodenkompetenz.[4] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Der Studiengang bereitet auf berufliche Tätigkeiten vor.<sup>2</sup> Er bietet eine breite wissenschaftliche Ausbildung, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellt.<sup>3</sup> Im Fach Geschichte erwerben die Studierenden grundlegende Fachkenntnisse der Geschichtswissenschaft und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methodenkompetenz.<sup>4</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Das Studium der Geschichte im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten.[2] In methodisch abgesicherter Auseinandersetzung mit historisch relevanten Quellen und mit moderner Sekundärliteratur sollen die Studenten lernen, historische Prozesse, deren Grundlagen wie auch deren Verarbeitung zu analysieren und nachzuvollziehen, und so befähigt werden, Bedin- 
+(3)<sup>1</sup> Das Studium der Geschichte im Bachelorstudiengang soll eine fundierte fachwissenschaftliche Ausbildung gewährleisten.<sup>2</sup> In methodisch abgesicherter Auseinandersetzung mit historisch relevanten Quellen und mit moderner Sekundärliteratur sollen die Studenten lernen, historische Prozesse, deren Grundlagen wie auch deren Verarbeitung zu analysieren und nachzuvollziehen, und so befähigt werden, Bedin- 
 
 1 
 
-gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständig zu erkennen und zu berücksichtigen.[3] Der Bachelorstudiengang kombiniert die Vermittlung von breitem Orientierungs- und Grundlagenwissen mit der Möglichkeit zur inhaltlichen Schwerpunktsetzung und Profilbildung in fortgeschrittenen Studienabschnitten. 
+gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständig zu erkennen und zu berücksichtigen.<sup>3</sup> Der Bachelorstudiengang kombiniert die Vermittlung von breitem Orientierungs- und Grundlagenwissen mit der Möglichkeit zur inhaltlichen Schwerpunktsetzung und Profilbildung in fortgeschrittenen Studienabschnitten. 
 
 (4) Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang im Fach Geschichte auf die Entwicklung folgender Kompetenzen: 
 
@@ -104,11 +104,10 @@ gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständ
 
 2 
 
-**§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Für ein Bachelorstudium Geschichte (Zwei-Fach-Modell) sind im ersten Fach folgende Module erfolgreich abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Für ein Bachelorstudium Geschichte (Zwei-Fach-Modell) sind im ersten Fach folgende Module erfolgreich abzulegen: 
 
-|**Module**|**ECTS/**<br>**Fkt**|**Sem. *)**|**SWS**|**Anteil**<br>**i %**|**Leistungen**|
+|**Module**|**ECTS/**<br>**Faktor**|**Sem. *)**|**SWS**|**Anteil**<br>**in %**|**Leistungen**|
 |---|---|---|---|---|---|
-||**aor**|||**n**||
 |**Basismodul I**|**10**|**1-2**|**4**|||
 |Überblicksvorlesung|5|1-2|2|30 %|Klausur(60’-90’)|
 |Proseminar|5|1-2|2|70 %|Hausarbeit|
@@ -116,7 +115,6 @@ gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständ
 |Überblicksvorlesung|5|1-2|2|30 %|Klausur(60’-90’)|
 |Proseminar|5|1-2|2|70 %|Hausarbeit|
 |**Grundlagen- und Orientie-**<br>**rungsprüfung**|**20**|**1-2**|**8**||Die Note für die Grundlagen- und<br>Orientierungsprüfung wird studien-<br>begleitend aus dem Querschnitt der<br>Leistungen in den Basismodulen I<br>und II gebildet|
-|||||||
 |**Modul Methodische Grund-**<br>**lagen**|**5**|**1-2**|**4**|||
 |Praxisübung I: Quellen<br>und Hilfswissenschaften|2,5|1-2|2|-|SL: Referat / Übungsaufgaben /<br>Klausur (unbenotet)|
 |Praxisübung II: Quellen,<br>Theorie und Methode|2,5|1-2|2|-|SL: Referat / Übungsaufgaben /<br>Klausur (unbenotet)|
@@ -134,30 +132,25 @@ gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständ
 |**Wahlpflichtmodul**|**10**|**5-6**||||
 |Epochenübergreifende<br>Lektüreübung|6|5-6|1|-|SL: Lektürebericht und Präsentati-<br>on(unbenotet)|
 |Übung Wahlpflicht|Mind. 4|5-6|mind. 2|-|SL Erfolgreiche Teilnahme (unbe-<br>notet)|
-|**Gesamtleistung im BA-**<br>**Teilbereich**<br>**Geschichte 1-6 Semester**<br>**ohne BA-Arbeit**|**70**|||||
-|||**6**|**mind. 29**|||
-|||||||
+|**Gesamtleistung im BA-**<br>**Teilbereich**<br>**Geschichte 1-6 Semester**<br>**ohne BA-Arbeit**|**70**|**6**|**mind. 29**|||
 |**Modul Bachelorarbeit**|**10**|6||100 %|BA-Prüfung gemäß den Regelun-<br>gen der Prüfungsordnung|
 
 *) Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 3 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan <u>Anwendung:</u> 
 
-|Anwendung:||||||||||
+|||||**1**|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|
 |---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|**Modul**||||**SS 11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
-||**GOP**|**SWS**|**ECTS**|||||||
-|||||||||||
+|**Modul**|**GOP**|**SWS**|**ECTS**|**SS 11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Modul I: Grundlagen und Orientierungsmodul**|||**20,0**|||||||
 |Einführungsübung Propädeutik und Hilfswissenschaften<br>(Modul Ia)|GOP|2|4,0|||||||
 |Einführungsvorlesung Alte Geschichte (Modul Ib)|GOP|2|4,0|||||||
 |Einführungsvorlesung Mittelalterliche Geschichte (Modul Ic)|GOP|2|4,0|||||||
 |EinführungsübungTheorie undMethodik(Modul Id)|GOP|2|4,0|||||||
 |Einführungsvorlesung Neuere und Neueste Geschichte<br>(Modul Ie)|GOP|2|4,0|||||||
-|**Modul II: Basismodul Alte und Mittelalterliche Ge-**<br>**schichte**|||**10,0**|||||||
+|<br>**Modul II: Basismodul Alte und Mittelalterliche Ge-**<br>**schichte**|||**10,0**|||||||
 |VorlesungAlte oder Mittelalterliche Geschichte||2|3,0|||||||
 |Proseminar Alte Geschichte||2|3,5|||||||
 |Proseminar Mittelalterliche Geschichte||2|3,5|||||||
@@ -173,7 +166,7 @@ gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständ
 |Vorlesung Neuere oder Neueste Geschichte||2|4,0|||||||
 |Hauptseminar Neuere oder Neueste Geschichte||2|6,0|||||||
 |Hauptseminar Neuere oder Neueste Geschichte||||||||||
-|**Modul VI: Wahlpflichtmodul **|||**10,0**|||||||
+|**Modul VI: Wahlpflichtmodul **<br>|||**10,0**|||||||
 |Übung aus dem Angebot des Instituts für Geschichte oder<br>Didaktik der Geschichte||2|3,0|||||||
 |Vorlesung/Exkursion aus dem Angebot des Instituts für G<br>oder Didaktik der G||1|4,0|||||||
 |Übung aus dem Angebot des Instituts für Geschichte||2|3,0|||||||
@@ -182,17 +175,17 @@ gungen und Möglichkeiten verantwortlichen Handelns in der Geschichte selbständ
 
 Zum Bestehen der GOP muss das Grundlagen- und Orientierungsmodul I erfolgreich abgelegt werden. 
 
-(3)[1] Als Basismodule I-III sind in eigenständiger Wahl insgesamt drei der nachfolgend aufgeführten Module zu absolvieren: Basismodul Alte Geschichte, Basismodul Mittelalterliche Geschichte, Basismodul Neuere Geschichte und Basismodul Neueste Geschichte.[2] Die Basismodule I-III sind in drei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig. 
+(3)<sup>1</sup> Als Basismodule I-III sind in eigenständiger Wahl insgesamt drei der nachfolgend aufgeführten Module zu absolvieren: Basismodul Alte Geschichte, Basismodul Mittelalterliche Geschichte, Basismodul Neuere Geschichte und Basismodul Neueste Geschichte.<sup>2</sup> Die Basismodule I-III sind in drei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig. 
 
 (4) Im Basismodul IV BA ist die Überblicksvorlesung in dem Lehrgebiet nach Abs. 3 Satz 1 zu absolvieren, in dem kein Basismodul absolviert wurde. 
 
-(5)[1] Als Aufbaumodule I-II sind in eigenständiger Wahl insgesamt zwei der nachfolgend aufgeführten Module zu absolvieren: Aufbaumodul Alte Geschichte, Aufbau- 
+(5)<sup>1</sup> Als Aufbaumodule I-II sind in eigenständiger Wahl insgesamt zwei der nachfolgend aufgeführten Module zu absolvieren: Aufbaumodul Alte Geschichte, Aufbau- 
 
 4 
 
-modul Mittelalterliche Geschichte, Aufbaumodul Neuere Geschichte, Aufbaumodul Neueste Geschichte, Aufbaumodul Bayerische und Fränkische Landesgeschichte sowie Aufbaumodul Osteuropäische Geschichte.[2] Die Aufbaumodule sind in zwei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig.[3] Die Lehrgebiete, in denen die Aufbaumodule belegt werden, werden auf dem Abschlusszeugnis als Studienschwerpunkte ausgewiesen. 
+modul Mittelalterliche Geschichte, Aufbaumodul Neuere Geschichte, Aufbaumodul Neueste Geschichte, Aufbaumodul Bayerische und Fränkische Landesgeschichte sowie Aufbaumodul Osteuropäische Geschichte.<sup>2</sup> Die Aufbaumodule sind in zwei verschiedenen Lehrgebieten zu belegen, die Mehrfachbelegung in einem Lehrgebiet ist nicht zulässig.<sup>3</sup> Die Lehrgebiete, in denen die Aufbaumodule belegt werden, werden auf dem Abschlusszeugnis als Studienschwerpunkte ausgewiesen. 
 
-(6)[1] Im Wahlpflichtmodul sind verpflichtend eine Übung des Typs Epochenübergreifende Lektüreübung sowie eine Übung des Typs Übung Wahlpflicht im Umfang von mind. 4 ECTS-Punkten zu belegen.[2] Die Anrechnung von Praktika ist nach vorher erfolgter Absprache mit dem Studiengangskoordinator und der Vorlage eines qualifizierten Nachweises möglich. 
+(6)<sup>1</sup> Im Wahlpflichtmodul sind verpflichtend eine Übung des Typs Epochenübergreifende Lektüreübung sowie eine Übung des Typs Übung Wahlpflicht im Umfang von mind. 4 ECTS-Punkten zu belegen.<sup>2</sup> Die Anrechnung von Praktika ist nach vorher erfolgter Absprache mit dem Studiengangskoordinator und der Vorlage eines qualifizierten Nachweises möglich. 
 
 (7) Die Bachelorarbeit ist in einem der beiden Lehrgebiete zu verfassen, in denen die Aufbaumodule absolviert werden. 
 
@@ -206,7 +199,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Geschicht
 
 ## **§ 6 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
 
-1Erforderlich sind gesicherte Kenntnisse in zwei Fremdsprachen, darunter Latein. 2Der Nachweis gesicherter Lateinkenntnisse soll schnellstmöglich erbracht werden. 3Studierende, welche zu Studienbeginn noch nicht über gesicherte Lateinkenntnisse verfügen, haben den Nachweis des bestandenen Latein I-Kurses bis zum Einsteig in die Proseminare der Alten und der Mittelalterlichen Geschichte zu erbringen.[4] Der Nachweis der gesicherten Lateinkenntnisse muss spätestens bis zum Einstieg in die Hauptseminare erbracht werden. 
+1Erforderlich sind gesicherte Kenntnisse in zwei Fremdsprachen, darunter Latein. 2Der Nachweis gesicherter Lateinkenntnisse soll schnellstmöglich erbracht werden. 3Studierende, welche zu Studienbeginn noch nicht über gesicherte Lateinkenntnisse verfügen, haben den Nachweis des bestandenen Latein I-Kurses bis zum Einsteig in die Proseminare der Alten und der Mittelalterlichen Geschichte zu erbringen.<sup>4</sup> Der Nachweis der gesicherten Lateinkenntnisse muss spätestens bis zum Einstieg in die Hauptseminare erbracht werden. 
 
 ## **§ 7 Besondere Bestimmungen für die Bachelorarbeit** 
 

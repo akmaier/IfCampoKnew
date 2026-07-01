@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "3. Juli 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/13AeSa_FPOEEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:57+00:00
-page_count_chars: 29499
+scraped_at: 2026-07-01T11:28:59+00:00
+page_count_chars: 29885
 ---
 
 # 3. Juli 2017
@@ -12,11 +12,11 @@ page_count_chars: 29499
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/13AeSa_FPOEEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** Vom 3. Juli 2017 
+# **Dreizehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** Vom 3. Juli 2017 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, zuletzt geändert durch Satzung vom 1. Dezember 2015, wird wie folgt geändert: 
 
@@ -40,7 +40,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
 „(3) Gemäß § 4 Abs. 5 **ABMPO/TechFak** können einzelne Lehrveranstaltungen und Prüfungen bzw. Module mit entsprechender Kennzeichnung im Modulhandbuch in Englisch abgehalten werden.“ 
 
-## 4. § 38 wird wie folgt geändert: 
+# 4. § 38 wird wie folgt geändert: 
 
 - a) Satz 1 wird wie folgt geändert: 
 
@@ -84,7 +84,7 @@ Technologie leistungselektronischer Bauelemente, Modellierung, Simulation und Di
 
 - cc) In Satz 4 werden nach den Worten „ECTS-Punkte sind“ die Worte „den in Satz 3 genannten Anlagen bzw. Regelungen sowie“ eingefügt. 
 
-## 5. § 39 wird wie folgt geändert: 
+# 5. § 39 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden die Zahl „9“ durch die Zahl „8“, die Zahl „11“ durch die Zahl „10“ und die Zahl „26“ durch die Zahl „25“ ersetzt. 
 
@@ -96,37 +96,37 @@ Technologie leistungselektronischer Bauelemente, Modellierung, Simulation und Di
 
 - c) In Abs. 5 Satz 2 werden nach den Worten „Hochschule Bayern mit“ die Worte „der Studienfachberaterin bzw.“ eingefügt und nach dem Wort „Studienfachberater“ das Wort „abzustimmen“ durch das Wort „vorabzustimmen“ ersetzt. 
 
-## 6. § 40 erhält folgende neue Fassung: 
+# 6. § 40 erhält folgende neue Fassung: 
 
-## „ **§ 40 Vertiefungsmodul wählbar gemäß Studienrichtungskatalog** 
+# „ **§ 40 Vertiefungsmodul wählbar gemäß Studienrichtungskatalog** 
 
-(1) 1Das Qualifikationsziel des Moduls „Vertiefungsmodul wählbar gemäß Studienrichtungskatalog“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens zu vertiefen.[2] Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden. 
+(1) 1Das Qualifikationsziel des Moduls „Vertiefungsmodul wählbar gemäß Studienrichtungskatalog“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens zu vertiefen.<sup>2</sup> Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden. 
 
 3 
 
 3Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen pro Modul sind in der Regel: Klausur (60 min, 90 min oder 120 min) oder mündliche Prüfung (30min).[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen pro Modul sind in der Regel: Klausur (60 min, 90 min oder 120 min) oder mündliche Prüfung (30min).<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Die Vertiefungsmodule setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.[2] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
+(3)<sup>1</sup> Die Vertiefungsmodule setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.<sup>2</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
 
-## 7. Nach § 40 wird folgender neuer § 40a eingefügt: 
+# 7. Nach § 40 wird folgender neuer § 40a eingefügt: 
 
-„ **§ 40a Modul Hauptseminar und Laborpraktikum aus der Studienrichtung** (1)[ 1] Das Qualifikationsziel des Moduls „Modul Hauptseminar und Laborpraktikum aus der Studienrichtung“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens thematisch zu orientieren und fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren. 2Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits, indem im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+„ **§ 40a Modul Hauptseminar und Laborpraktikum aus der Studienrichtung** (1)<sup>1</sup> Das Qualifikationsziel des Moduls „Modul Hauptseminar und Laborpraktikum aus der Studienrichtung“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens thematisch zu orientieren und fachlich relevante Informationen zu sammeln, zu bewerten und zu interpretieren. 2Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem ein Fachthema für ein Fachpublikum auf Bachelorniveau aufbereitet, dargestellt und zielgruppenadäquat präsentiert wird, und andererseits, indem im Rahmen einer Gruppe gemeinsam unter Anleitung fachnahe Anwendungen sowie Realisierungsmöglichkeiten erarbeitet und fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen. 2Prüfungen pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung.[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen. 2Prüfungen pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung.<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Laborpraktikum (3 SWS) zusammen. 2Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
+(3)<sup>1</sup> Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Laborpraktikum (3 SWS) zusammen. 2Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
 
-## 8. § 42 wird wie folgt geändert: 
+# 8. § 42 wird wie folgt geändert: 
 
 - a) In Abs. 1 wird nach Satz 3 folgender neuer Satz 4 angefügt: 
 
-„[4] Die Bachelorarbeit wird ergänzt durch einen entsprechenden Vortrag.“ 
+„<sup>4</sup> Die Bachelorarbeit wird ergänzt durch einen entsprechenden Vortrag.“ 
 
-- b) In Abs. 2 wird das Wort „Die“ durch die Worte „Das Modul“ ersetzt. 
+b) In Abs. 2 wird das Wort „Die“ durch die Worte „Das Modul“ ersetzt. 
 
-## 9. § 43 wird wie folgt geändert: 
+# 9. § 43 wird wie folgt geändert: 
 
 - a) In Abs. 1 wird nach dem Wort „einschließlich“ das Wort „der“ durch die Worte „des Moduls“ ersetzt. 
 
@@ -138,9 +138,9 @@ Technologie leistungselektronischer Bauelemente, Modellierung, Simulation und Di
 
    - bb) In Satz 2 wird das Wort „Teilprüfungen“ durch das Wort „Module“ ersetzt. 
 
-cc) In Satz 5 wird die Zahl „30“ durch die Zahl „29“ ersetzt. 
+   - cc) In Satz 5 wird die Zahl „30“ durch die Zahl „29“ ersetzt. 
 
-## 10. § 44 wird wie folgt geändert: 
+# 10. § 44 wird wie folgt geändert: 
 
 - a) In Abs. 2 werden nach den Worten „Informationstechnik Module“ die Worte „bzw. zu diesen nicht wesentlich unterschiedliche Module anderer Hochschulen“ eingefügt. 
 
@@ -154,31 +154,31 @@ cc) In Satz 5 wird die Zahl „30“ durch die Zahl „29“ ersetzt.
 
    - dd) Im dritten Spiegelstrich wird nach dem Wort „Studienverlauf“ der Klammerzusatz „(Besprechung auf Basis der Abschlussdokumente (insbes. Transcript of Records/Leistungsnachweis) des Erstabschlusses)“ eingefügt. 
 
-## 11. § 45 wird wie folgt geändert: 
+# 11. § 45 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 2 wird nach den Worten „Ausnahmefällen mit“ das Wort „vorheriger“ eingefügt. 
 
 - b) In Abs. 3 Satz 1 werden nach den Worten „fachspezifischen Kompetenzgewinns“ ein Komma und die Worte „welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt,“ eingefügt. 
 
-## 12. Nach § 45 werden folgende neue §§ 45a und 45b eingefügt: 
+# 12. Nach § 45 werden folgende neue §§ 45a und 45b eingefügt: 
 
-## „ **§ 45a Vertiefungsmodulbereich gemäß Studienrichtungskatalog** 
+# „ **§ 45a Vertiefungsmodulbereich gemäß Studienrichtungskatalog** 
 
-(1)[ 1] Das Qualifikationsziel des Modulbereiches „Vertiefungsmodulbereich gemäß Studienrichtungskatalog“ liegt darin, den Studierenden zu ermöglichen sich gezielt in ausgewählten Kompetenzen ihrer Studienrichtung gemäß § 38 erstens zu vertiefen. 2Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Das Qualifikationsziel des Modulbereiches „Vertiefungsmodulbereich gemäß Studienrichtungskatalog“ liegt darin, den Studierenden zu ermöglichen sich gezielt in ausgewählten Kompetenzen ihrer Studienrichtung gemäß § 38 erstens zu vertiefen. 2Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-- (2)[1] Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im 
+- (2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den in den jeweiligen Modulen im Umfang von 5 ECTS-Punkten, bzw. nach Wahl der Studierenden auch im 
 
 5 
 
-Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen pro Modul sind in der Regel: Klausur (60 min, 90 min oder 120 min) oder mündliche Prüfung (30min).[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
+Umfang von zweimal 2,5 ECTS-Punkten, vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen pro Modul sind in der Regel: Klausur (60 min, 90 min oder 120 min) oder mündliche Prüfung (30min).<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Die Vertiefungsmodule setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.[2] Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(3)<sup>1</sup> Die Vertiefungsmodule setzen sich in der Regel aus einer Vorlesung (2 SWS) und einer Übung (2 SWS) oder einer Vorlesung (3 SWS) und einer Übung (1 SWS) zusammen.<sup>2</sup> Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
-**§ 45b Modul Hauptseminar und Laborpraktikum aus der Studienrichtung** (1)[ 1] Das Qualifikationsziel des Moduls „Modul Hauptseminar und Laborpraktikum aus der Studienrichtung“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens thematisch zu vertiefen, insbesondere durch die Bearbeitung von komplexen Fragestellungen im Rahmen forschungsorientierter Projekte.[2] Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem selbstständig ein Fachthema aktueller Forschung wissenschaftlich aufbereitet, dargestellt, präsentiert und  in der Diskussion fachkompetent (Masterniveau) argumentativ vertreten  wird, und indem im Rahmen von Gruppenarbeiten Problemstellungen fachverwandter Anwendungen gelöst sowie Realisierungsmöglichkeiten fachspezifisch erprobt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+**§ 45b Modul Hauptseminar und Laborpraktikum aus der Studienrichtung** (1)<sup>1</sup> Das Qualifikationsziel des Moduls „Modul Hauptseminar und Laborpraktikum aus der Studienrichtung“ liegt darin, den Studierenden zu ermöglichen sich in einem Schwerpunkt ihrer Studienrichtung gemäß § 38 erstens thematisch zu vertiefen, insbesondere durch die Bearbeitung von komplexen Fragestellungen im Rahmen forschungsorientierter Projekte.<sup>2</sup> Zweitens wird damit einerseits ein die Selbst- und Sozialkompetenz förderndes Qualifikationsziel verfolgt, indem selbstständig ein Fachthema aktueller Forschung wissenschaftlich aufbereitet, dargestellt, präsentiert und  in der Diskussion fachkompetent (Masterniveau) argumentativ vertreten  wird, und indem im Rahmen von Gruppenarbeiten Problemstellungen fachverwandter Anwendungen gelöst sowie Realisierungsmöglichkeiten fachspezifisch erprobt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(2)[1] Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen. 2Prüfungen pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung.[3] Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind dem Modulhandbuch zu entnehmen. 2Prüfungen pro Modul sind eine (benotete) Seminar- und eine (unbenotete) Praktikumsleistung.<sup>3</sup> Der Katalog wird vor Semesterbeginn ortsüblich bekannt gemacht. 
 
-(3)[1] Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Laborpraktikum (3 SWS) zusammen. 2Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
+(3)<sup>1</sup> Das Modul setzt sich in der Regel aus einem Hauptseminar (2 SWS) und einem Laborpraktikum (3 SWS) zusammen. 2Abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.“ 
 
 13. § 47 wird wie folgt geändert: 
 
@@ -190,7 +190,7 @@ a) Abs. 1 wird wie folgt geändert:
 
 cc) Nach Satz 1 wird folgender neuer Satz 2 angefügt: 
 
-„[2] Es wird empfohlen, mit der Masterarbeit erst zu beginnen, wenn alle übrigen Module gemäß **Anlage 2a bzw. 2b** erfolgreich abgelegt worden sind.“ 
+„<sup>2</sup> Es wird empfohlen, mit der Masterarbeit erst zu beginnen, wenn alle übrigen Module gemäß **Anlage 2a bzw. 2b** erfolgreich abgelegt worden sind.“ 
 
 b) Abs. 2 wird gestrichen. 
 
@@ -200,79 +200,74 @@ b) Abs. 2 wird gestrichen.
 
 - a) In Abs. 1 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Die Masterarbeit wird ergänzt durch einen entsprechenden Vortrag.“ 
+„<sup>3</sup> Die Masterarbeit wird ergänzt durch einen entsprechenden Vortrag.“ 
 
-- b) In Abs. 3 wird das Wort „Die“ durch die Worte „Das Modul“ ersetzt. 
+   - b) In Abs. 3 wird das Wort „Die“ durch die Worte „Das Modul“ ersetzt. 
 
-## 15. § 50 wird wie folgt geändert: 
+15. § 50 wird wie folgt geändert: 
 
 a) Die bisher einzige Regelung wird zu Abs. 1. 
 
 - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die dreizehnte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017 / 2018 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die dreizehnte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017 / 2018 aufnehmen werden.“ 
 
 7 
 
-## 16. Anlagen 1 bis 2b erhalten folgende neue Fassung: 
+# 16. Anlagen 1 bis 2b erhalten folgende neue Fassung: 
 
-## „ **Anlage 1:** Module des Bachelorstudiums (Studienbeginn Wintersemester) 
+# <u>„</u> **Anlage 1:** Module <u>des Bachelorstudiums (Studienbeginn Wintersemester)</u> 
 
-|Nr.||||||||Workloadverteilung|Workloadverteilung|Workloadverteilung|Workloadverteilung||f|<br>ff|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||auf die einzelnen Semester|||||Prüungsart|<br>Prüungsorm|
-||Modul||||||1|2|3|4|5|6|||
-||||SWS||||WS|SS|WS|SS|WS|SS|||
-||||V|Ü|P|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|ECTS|||
-|1|Mathematik für EEI 1 1)|GOP|4|2||**7,5**|7,5||||||SL, PL|ÜbL; K, 90 min|
-|2|Mathematik für EEI 2 1)|GOP|6|2||**10**||10|||||SL, PL|ÜbL; K, 120 min|
-|3|Grundlagen der Elektrotechnik I|GOP|4|2||**7,5**|7,5||||||PL|K, 120 min|
-|4|Grundlagen der Elektrotechnik II|GOP|2|2||**5**||5|||||PL|K, 90 min|
-|5|Experimentalphysik I||3|1||**5**|5||||||PL|K, 90 min|
-|6|Experimentalphysik II||3|1||**5**||5|||||PL|K, 90 min|
-|7|**Informatik der EEI**|||||**7,5**||||||||K, 90 min|
-|7a|Grundlagen der Informatik||2|2|||5||||||PL||
-|7b|Grundlagen der systemnahen Programmierung in C||1|1||||2,5|||||||
-|8|Werkstoffkunde||2|||**2,5**|2,5||||||PL|K, 60 min|
-|9|Nichttechnische Wahlfächer||2|2||**5**||5|||||PL|2)|
-|10|Praktikum Grundlagen der Elektro- und Schaltungstechnik||||3|**5**|||5_( 1/1/3)_||||SL|PrL|
-|11|Arbeits- und Präsentationstechnik, Simulationstools||0|0|3|**2,5**|2,5||||||SL|PrL|
-|12|Mathematik für EEI 3 1)||2|2||**5**|||5||||SL, PL|ÜbL; K, 60 min|
-|13|Mathematik für EEI 4 1)||2|2||**5**||||5|||PL|K, 60 min|
-|14|Grundlagen der Elektrotechnik III||2|2||**5**|||5||||PL|K, 90 min|
-|**15**|**Energie- und Antriebstechnik**|||||**7,5**|||||||PL|K, 180 min oder K, 90 min3)|
-|15a|Grundlagen der elektrischen Antriebstechnik||2|1|||||3,5||||||
-|15b|Grundlagen der elektrischen Energieversorgung||2|2||||||4|||||
-|16|Regelungstechnik A (Grundlagen)|FSP|2|2||**5**|||||5||PL|K, 90 min|
-|17|Halbleiterbauelemente||2|2||**5**|||5||||PL|K, 90 min|
+|Nr.<br>Modul||W<br>auf die e|orkloadve<br>inzelnen|rteilung<br>Semester|Prüfungsart|Prüfungsform|
+|---|---|---|---|---|---|---|
+||SWS|1<br>2<br>WS<br>SS|3<br>WS|4<br>5<br>SS<br>WS|6<br>SS||
+||V<br>Ü<br>P<br>ECTS|ECTS<br>ECTS|ECTS|ECTS<br>ECTS|ECTS||
+|1 Mathematik für EEI 1 <sup>1)</sup>|GOP<br>4<br>2<br>**7,5**|7,5|||SL, PL|ÜbL; K, 90 min|
+|2 Mathematik für EEI 2 <sup>1)</sup>|GOP<br>6<br>2<br>**10**|10|||SL, PL|ÜbL; K, 120 min|
+|3 Grundlagen der Elektrotechnik I|GOP<br>4<br>2<br>**7,5**|7,5|||PL|K, 120 min|
+|4 Grundlagen der Elektrotechnik II|GOP<br>2<br>2<br>**5**|5|||PL|K, 90 min|
+|5 Experimentalphysik I|3<br>1<br>**5**|5|||PL|K, 90 min|
+|6 Experimentalphysik II|3<br>1<br>**5**|5|||PL|K, 90 min|
+|7**Informatik der EEI**|||||||
+|7a Grundlagen der Informatik|**7,5**<br>2<br>2|5|||PL|K, 90 min|
+|7b Grundlagen der systemnahen Programmierung in C|1<br>1|2,5|||||
+|8 Werkstoffkunde|2<br>**2,5**|2,5|||PL|K, 60 min|
+|9 Nichttechnische Wahlfächer|2<br>2<br>**5**|5|||PL|2)|
+|10 Praktikum Grundlagen der Elektro- und Schaltungstechnik|3<br>**5**||5_( 1/1/3)_||SL|PrL|
+|11 Arbeits- und Präsentationstechnik, Simulationstools|0<br>0<br>3<br>**2,5**|2,5|||SL|PrL|
+|12 Mathematik für EEI 3 <sup>1)</sup>|2<br>2<br>**5**||5||SL, PL|ÜbL; K, 60 min|
+|13 Mathematik für EEI 4 <sup>1)</sup>|2<br>2<br>**5**|||5|PL|K, 60 min|
+|14 Grundlagen der Elektrotechnik III|2<br>2<br>**5**||5||PL|K, 90 min|
+|**15 Energie- und Antriebstechnik**|||||||
+|15a Grundlagen der elektrischen Antriebstechnik|**7,5**<br>2<br>1||3,5||PL|K, 180 min oder K, 90 min<sup>3)</sup>|
+|15b Grundlagen der elektrischen Energieversorgung|2<br>2|||4|||
+|16 Regelungstechnik A (Grundlagen)|FSP<br>2<br>2<br>**5**|||5|PL|K, 90 min|
+|17 Halbleiterbauelemente|2<br>2<br>**5**||5||PL|K, 90 min|
 
 8 
 
-|18|Digitaltechnik||2|2||**5**|||5||||PL|K, 90 min|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|19|Schaltungstechnik|FSP|2|2||**5**||||5|||PL|K, 90 min|
-|20|Signale und Systeme I||2,5|1,5||**5**|||5||||PL|K, 90 min|
-|21|Signale und Systeme II|FSP|2,5|1,5||**5**||||5|||PL|K, 90 min|
-|22|Nachrichtentechnische Systeme|FSP|5|1||**7,5**|||||7,5||PL|K, 120 min|
-|23|Elektromagnetische Felder I|FSP|1|1||**2,5**||||2,5|||PL|K, 60 min|
-|24|Elektromagnetische Felder II|FSP|2|2||**5**|||||5||PL|K, 90 min|
-|25|Passive Bauelemente und deren HF-Verhalten|FSP|2|2||**5**||||5|||PL|K, 90 min|
-|26|Technische Wahlfächer||2|2||**5**||||||5|PL|2)|
-|**27**|**Kernmodule gemäß Studienrichtungskatalog, siehe Anlage 34)**|||||**10**|||||||||
-|27a|Kernmodul wählbar gemäß Studienrichtungskatalog||2|2|||||||5||PL|s. Anlage 3|
-|27b|Kernmodul wählbar gemäß Studienrichtungskatalog||2|2||||||||5|PL|s. Anlage 3|
-|**28**|**Vertiefungsmodul gemäß Studienrichtungskatalog, vgl. §404)**|||||**5**|||||||||
-|28a|Vertiefungsmodul wählbar gemäß Studienrichtungskatalog**oder 28b**||2|2||||||||5|PL|vgl. § 40 Abs. 2|
-|28b|Kernmodul wählbar gemäß Studienrichtungskatalog||2|2||||||||5|PL|s. Anlage 3|
-|**29**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung, vgl. §40a**|||||**5**|||||||PL,<br>SL|vgl. § 40a Abs. 2;<br>SeL und<br>PrL|
-|29a|Hauptseminar wählbar gemäß Studienrichtungskatalog4)||0|2|0|||||||2,5|||
-|29b|Laborpraktikum wählbar gemäß Studienrichtungskatalog4)||0|0|3|||||||2,5|||
-|30|Berufspraktische Tätigkeit (Industriepraktikum)|||||**10**||||10 (2,5/7,5)|||SL|PrL|
-|31|Bachelorarbeit mit Vortrag|||||**10**||||||10|PL und SL|BA mit Vortrag|
-||||**72**|**53**|**9**|**180**|||||||||
-|**Summe SWS  und ECTS**|||||||**30**|**28,5**|**29,5**|**32**|**30**|**30**|||
-||||**134**||||||||||||
-||||||||||||||||
+|18 Digitaltechnik|2|2|**5**||5|||PL|K, 90 min|
+|---|---|---|---|---|---|---|---|---|---|
+|19 Schaltungstechnik|FSP<br>2|2|**5**|||5||PL|K, 90 min|
+|20 Signale und Systeme I|2,5|1,5|**5**||5|||PL|K, 90 min|
+|21 Signale und Systeme II|FSP<br>2,5|1,5|**5**|||5||PL|K, 90 min|
+|22 Nachrichtentechnische Systeme|FSP<br>5|1|**7,5**|||7,5||PL|K, 120 min|
+|23 Elektromagnetische Felder I|FSP<br>1|1|**2,5**|||2,5||PL|K, 60 min|
+|24 Elektromagnetische Felder II|FSP<br>2|2|**5**|||5||PL|K, 90 min|
+|25 Passive Bauelemente und deren HF-Verhalten|FSP<br>2|2|**5**|||5||PL|K, 90 min|
+|26 Technische Wahlfächer|2|2|**5**||||5|PL|2)|
+|**27 Kernmodule gemäß Studienrichtungskatalog, siehe Anlage 3**<sup>**4)**</sup>|||**10**|||||||
+|27a Kernmodul wählbar gemäß Studienrichtungskatalog|2|2||||5||PL|s. Anlage 3|
+|27b Kernmodul wählbar gemäß Studienrichtungskatalog|2|2|||||5|PL|s. Anlage 3|
+|**28 Vertiefungsmodul gemäß Studienrichtungskatalog, vgl. §40**<sup>**4)**</sup>|||**5**|||||||
+|28a Vertiefungsmodul wählbar gemäß Studienrichtungskatalog**oder 28b**|2|2|||||5|PL|vgl. § 40 Abs. 2|
+|28b Kernmodul wählbar gemäß Studienrichtungskatalog|2|2|||||5|PL|s. Anlage 3|
+|**29 Modul Hauptseminar und Laborpraktikum aus der Studienrichtung, vgl. §40a**|||||||||vgl. § 40a Abs. 2;|
+|29a Hauptseminar wählbar gemäß Studienrichtungskatalog<sup>4)</sup>|0|2<br>0|**5**||||2,5|PL,<br>|<br>SeL und<br>|
+|29b Laborpraktikum wählbar gemäß Studienrichtungskatalog<sup>4)</sup>|0|0<br>3|||||2,5|SL|PrL|
+|30 Berufspraktische Tätigkeit (Industriepraktikum)|||**10**|||10 (2,5/7,5)||SL|PrL|
+|31 Bachelorarbeit mit Vortrag|||**10**||||10|PL und SL|BA mit Vortrag|
+|**Summe SWS** **und ECTS**|**72**|<br>**53**<br>**9**<br>**134**|**180**|**30**<br>**28,5**|**29,5**|**32**<br>**30**|**30**|||
 
 ## GOP = Grundlagen- und Orientierungsprüfung 
 
@@ -304,27 +299,24 @@ SeL: Seminarleistung, gemäß § 6 Abs. 3 ABMPO/TechFak
 
 10 
 
-## **Anlage 2a:** Module des Masterstudiums EEI/Vollzeit 
+# **Anlage 2a:** Module des Masterstudiums EEI/Vollzeit 
 
-|Nr.|Modul1)|||||||||Prüfungsart||
+|Nr.|Modul<sup>1)</sup>|||||Workl<br>|oadverteilung<br>|auf die einzelnen<br>|Semester<br>|Prüfungsart<br>|<br>Prüfungsform|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Workloadverteilung  auf die einzelnen Semester||||||
-||||||||||||Prüfungsform|
-|||SWS|||**ECTS**|1|2|3|4|PL/SL||
+||||SWS||**ECTS**|1|2|3|4|PL/SL||
 |||V|Ü|P||||||||
-|**1**|**Kernmodulbereich gemäß Studienrichtungskatalog, vgl. Anlage 3 2)**|s. Anlage 3|||**30**|15|15|||PL|s. Anlage 3|
-|**2**|**Vertiefungsmodulbereich gemäß  Studienrichtungskatalog 2)**|106)|106)||**25**|10|10|5||PL|vgl. § 45 a<br>Abs. 2|
-|**3**|**Wahlmodulbereich aus der FAU3)**|66)|66)||**15**|5||10||PL|3) 4)|
-|**4**|**Modul Hauptseminar (FAU) und Laborpraktikum (TF)**||||**5**|||||PL und<br>SL|SeL und PrL|
-|4a|Hauptseminar wählbar aus dem Angebot der FAU|0|26)|0|||2,5|||||
-|4b|Laborpraktikum wählbar aus dem Angebot der TechFak|0|0|36)|||2,5|||||
-|**5**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung**||||**5**|||||PL und<br>SL|vgl. § 45 b<br>Abs. 2<br>SeL und PrL|
-|5a|Hauptseminar wählbar gemäß Studienrichtungskatalog2)|0|2|0||||2,5||||
-|5b|Laborpraktikum wählbar gemäß Studienrichtungskatalog2)|0|0|3||||2,5||||
-|6|Forschungspraktikum**5)**|||8|**10**|||10||SL|PrL**5)**|
+|**1**|**Kernmodulbereich gemäß Studienrichtungskatalog, vgl. Anlage 3**<sup>**2)**</sup>||s. Anlage 3||**30**|15|15|||PL|s. Anlage 3|
+|**2**|**Vertiefungsmodulbereich gemäß  Studienrichtungskatalog**<sup>**2)**</sup>|10<sup>6)</sup>|10<sup>6)</sup>||**25**|10|10|5||PL|vgl. § 45 a<br>Abs. 2|
+|**3**|**Wahlmodulbereich aus der FAU**<sup>**3)**</sup>|6<sup>6)</sup>|6<sup>6)</sup>||**15**|5||10||PL|3) 4)|
+|**4**|**Modul Hauptseminar (FAU) und Laborpraktikum (TF)**|||||||||||
+|4a|Hauptseminar wählbar aus dem Angebot der FAU|0|2<sup>6)</sup>|0|**5**||2,5|||PL und<br>SL|SeL und PrL|
+|4b|Laborpraktikum wählbar aus dem Angebot der TechFak|0|0|3<sup>6)</sup>|||2,5|||||
+|**5**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung**||||||||||vgl. § 45 b|
+|5a|Hauptseminar wählbar gemäß Studienrichtungskatalog<sup>2)</sup>|0|2|0|**5**|||2,5||PL und<br>SL|Abs. 2<br>SeL und PrL|
+|5b|Laborpraktikum wählbar gemäß Studienrichtungskatalog<sup>2)</sup>|0|0|3||||2,5||||
+|6|Forschungspraktikum<sup>**5)**</sup>|||8|**10**|||10||SL|PrL<sup>**5)**</sup>|
 |**7**|**Masterarbeit mit Vortrag**||||**30**||||30|PL und SL|MA mit<br>Vortrag|
-|**Summe SWS und ECTS**||**28-34**|**26-32**|**14**||||||||
-|||**68-80**|||**120**|**30**|**30**|**30**|**30**|||
+||**Summe SWS und ECTS**|**28-34**|**26-32**<br>**68-80**|**14**|**120**|**30**|**30**|**30**|**30**|||
 
 ## PL: Prüfungsleistung 
 
@@ -348,27 +340,23 @@ SeL: Seminarleistung gemäß § 6 Abs. 3 ABMPO/TechFak MA: Masterarbeit
 
 11 
 
-## **Anlage 2b:** Module des Masterstudiums EEI/Teilzeit 
+# **Anlage 2b:** Module des Masterstudiums EEI/Teilzeit 
 
-|**N**|**Module1)**|**SWS**|**SWS**|**SWS**||||||||||**Püf**|**Prüfungsform**|
+|**Nr.**|**Module**<sup>**1)**</sup>||**SWS**||||**Work**|**loadver**|**teilung a**|**uf die ein**|**zelnen Se**|**mester**||**Prüfungsart**|**Prüfungsform**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||**Wkldil f di il S**|||||||||
-|**r.**|||||||**oroaverteung a**|||**u e e**|**zenen**|**emester**||**rungsart**||
-|||||||||||||||||
-|||**V**<br>**Ü**<br>**P**|||**ECTS**|1|2|3.|4.|5.|6.|7.|8.|PL/SL||
-|**1**|**Kernmodulbereich gemäß Studienrichtungskatalog, vgl. Anlage 3 2)**|s. Anlage 3|||**30**|15|10|5||||||PL|s. Anlage 3|
-|**2**|**Vertiefungsmodulbereich gemäß  Studienrichtungskatalog 2)**|106)|106)||**25**||5|10|10|||||PL|vgl. § 45 a Abs. 2|
-|**3**|**Wahlmodulbereich aus der FAU3)**|66)|66)||**15**||||5|10||||PL|3) 4)|
-|**4**|**Modul Hauptseminar (FAU) und Laborpraktikum (TF)**||||**5**|||||||||PL und<br>SL|SeL und PrL|
-|4a|Hauptseminar wählbar aus dem Angebot der FAU|0|26)|0||||||2,5||||||
-|4b|Laborpraktikum wählbar aus dem Angebot der TechFak|0|0|36)||||||2,5||||||
-|**5**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung**||||**5**|||||||||PL und<br>SL|vgl. § 45 b Abs. 2,<br>SeL und PrL|
-|5a|Hauptseminar wählbar gemäß Studienrichtungskatalog2)|0|2|0|||||||2,5|||||
-|5b|Laborpraktikum wählbar gemäß Studienrichtungskatalog2)|0|0|3|||||||2,5|||||
-|**6**|**Forschungspraktikum5)**|||8|**10**||||||10|||SL|PrL**5)**|
+|||**V**|**Ü**|**P**|**ECTS**|1|2|3.|4.|5.|6.|7.|8.|PL/SL||
+|**1**|**Kernmodulbereich gemäß Studienrichtungskatalog, vgl. Anlage 3**<sup>**2)**</sup>|s|. Anlage 3||**30**|15|10|5||||||PL|s. Anlage 3|
+|**2**|**Vertiefungsmodulbereich gemäß  Studienrichtungskatalog**<sup>**2)**</sup>|10<sup>6)</sup>|10<sup>6)</sup>||**25**||5|10|10|||||PL|vgl. § 45 a Abs. 2|
+|**3**|**Wahlmodulbereich aus der FAU**<sup>**3)**</sup>|6<sup>6)</sup>|6<sup>6)</sup>||**15**||||5|10||||PL|3) 4)|
+|**4**|**Modul Hauptseminar (FAU) und Laborpraktikum (TF)**|||||||||||||||
+|4a|Hauptseminar wählbar aus dem Angebot der FAU|0|2<sup>6)</sup>|0|**5**|||||2,5||||PL und<br>|SeL und PrL|
+|4b|Laborpraktikum wählbar aus dem Angebot der TechFak|0|0|3<sup>6)</sup>||||||2,5||||SL||
+|**5**|**Modul Hauptseminar und Laborpraktikum aus der Studienrichtung**|||||||||||||||
+|5a|Hauptseminar wählbar gemäß Studienrichtungskatalog<sup>2)</sup>|0|2|0|**5**||||||2,5|||PL und<br>|vgl. § 45 b Abs. 2,<br>SeL und PrL|
+|5b|Laborpraktikum wählbar gemäß Studienrichtungskatalog<sup>2)</sup>|0|0|3|||||||2,5|||SL||
+|**6**|**Forschungspraktikum**<sup>**5)**</sup>|||8|**10**||||||10|||SL|PrL<sup>**5)**</sup>|
 |**7**|**Masterarbeit mit Vortrag**||||**30**|||||||15|15|PL und SL|MA mit Vortrag|
-||**Summe SWS und ECTS**|**28-34**|**26-32**|**14**|**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
-|||**68-80**||||||||||||||
+||**Summe SWS und ECTS**|**28-34**|**26-32**<br>**68-80**|**14**|**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
 
 PL: Prüfungsleistung 
 
@@ -396,18 +384,16 @@ MA: Masterarbeit
 
 12 
 
-## 17. Nach Anlage 2b wird folgende neue Anlage 3 angefügt: 
+# 17. Nach Anlage 2b wird folgende neue Anlage 3 angefügt: 
 
-## „ 
+# „ 
 
-## **Anlage 3: Kernmodule der im Bachelor- und Masterstudium wählbaren Studienrichtungen** 
+# **Anlage 3: Kernmodule der im Bachelor- und Masterstudium wählbaren Studienrichtungen** 
 
-## **Anlage 3a: Kernmodule Studienrichtung "Allgemeine Elektrotechnik"** 
+# **Anlage** **<u>3a: Kernmodule Studienrichtung "Allgemeine Elektrotechnik"</u>** 
 
-|||||||||
+|Nr.|Bezeichnung|Umfang<br>V|/SWS<br>Ü|ECTS|WS/SS|Prüfungsart|Prüfungsform|
 |---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
 |K1|Hochfrequenztechnik|2|2|5|WS|PL|K,90|
 |K2|Photonik 1|2|2|5|WS|PL|K,90|
 |K3|Sensoren und Aktoren der Mechatronik|2|2|5|SS|PL|K,90|
@@ -415,12 +401,10 @@ MA: Masterarbeit
 |K5|Elektromagnetische Verträglichkeit|2|2|5|SS|PL|K,90|
 |K6|Analoge elektronische Systeme|3|1|5|WS|PL|K,90|
 
-## **Anlage 3b: Kernmodule Studienrichtung "Automatisierungstechnik"** 
+# **<u>Anlage 3b: Kernmodule Studienrichtung "Automatisierungstechnik"</u>** 
 
-|||||||||
+|Nr.|Bezeichnung|Umfang<br>V|/SWS<br>Ü|ECTS|WS/SS|Prüfungsart|Prüfungsform|
 |---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
 |K1|Regelungstechnik B(Zustandsraummethoden)|2|2|5|WS|PL|K,90|
 |K2|Modellbildungin der Regelungstechnik|2|2|5|WS|PL|K,90|
 |K3|Leistungselektronik|2|2|5|WS|PL|K,90|
@@ -428,29 +412,26 @@ MA: Masterarbeit
 |K5|Sensorik|2|2|5|WS|PL|K,90|
 |K6|Sensoren und Aktoren der Mechatronik|2|2|5|SS|PL|K,90|
 
-## **Anlage 3c: Kernmodule der Studienrichtung "Elektrische Energie- und Antriebstechnik"** 
+# **Anlage** **<u>3c: Kernmodule der Studienrichtung "Elektrische Energie- und Antriebstechnik"</u>** 
 
-|||||||||
-|---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
+|Nr.<br>Bezeichnung|Umfang/SWS|ECTS<br>WS/SS|Prüfungsart<br>Prüfungsform|
+|---|---|---|---|
+||V<br>Ü|||
 
 13 
 
-|K1|Leistungselektronik|2|2|5|WS|PL|K,90|
-|---|---|---|---|---|---|---|---|
-|K2|Elektrische Antriebstechnik I|2|2|5|SS|PL|K,90|
-|K3|Betriebsmittel und Komponenten elektrischer Energiesysteme|2|2|5|WS|PL|K,90|
-|K4|Elektrische Antriebstechnik II|3|1|5|WS|PL|K,90|
-|K5|Betriebsverhalten elektrischer Energiesysteme|2|2|5|SS|PL|K,90|
-|K6|Elektrische Maschinen I|2|2|5|WS|PL|K,90|
+|K1<br>Leistungselektronik|2|2|5|WS|PL|K,90|
+|---|---|---|---|---|---|---|
+|K2<br>Elektrische Antriebstechnik I|2|2|5|SS|PL|K,90|
+|K3<br>Betriebsmittel und Komponenten elektrischer Energiesysteme|2|2|5|WS|PL|K,90|
+|K4<br>Elektrische Antriebstechnik II|3|1|5|WS|PL|K,90|
+|K5<br>Betriebsverhalten elektrischer Energiesysteme|2|2|5|SS|PL|K,90|
+|K6<br>Elektrische Maschinen I|2|2|5|WS|PL|K,90|
 
-## **Anlage 3d: Kernmodule der Studienrichtung "Informationstechnik"** 
+# **<u>Anlage 3d: Kernmodule der Studienrichtung "Informationstechnik"</u>** 
 
-|||||||||
+|Nr.|Bezeichnung|Umfang/<br>V|SWS<br>Ü|ECTS|<br>WS/SS|Prüfungsart|Prüfungsform|
 |---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
 |K1|Digitale Signalverarbeitung|3|1|5|WS|PL|K,90|
 |K2|Digitale Übertragung|3|1|5|SS|PL|K,90|
 |K3|Kommunikationsnetze|2|2|5|WS|PL|K,90|
@@ -458,12 +439,10 @@ MA: Masterarbeit
 |K5|Hochfrequenztechnik|2|2|5|WS|PL|K,90|
 |K6|Kommunikationselektronik|2|2|5|SS|PL|K,90|
 
-## **Anlage 3e: Kernmodule der Studienrichtung "Leistungselektronik"** 
+# **Anlage** **<u>3e: Kernmodule der Studienrichtung "Leistungselektronik"</u>** 
 
-|||||||||
+|Nr.|Bezeichnung|Umfang<br>V|/SWS<br>Ü|ECTS|<br>WS/SS|Prüfungsart|Prüfungsform|
 |---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
 |K1|Leistungshalbleiter-Bauelemente|2|2|5|WS|PL|K,90|
 |K2|Leistungselektronik|2|2|5|WS|PL|K,90|
 |K3|Elektromagnetische Verträglichkeit|2|2|5|SS|PL|K,90|
@@ -473,12 +452,10 @@ MA: Masterarbeit
 
 14 
 
-## **Anlage 3f: Kernmodule der Studienrichtung "Mikroelektronik"** 
+# **<u>Anlage 3f: Kernmodule der Studienrichtung "Mikroelektronik"</u>** 
 
-|||||||||
+|Nr.|Bezeichnung|Umfang<br>V|/SWS<br>Ü|ECTS|<br>WS/SS|Prüfungsart|Prüfungsform|
 |---|---|---|---|---|---|---|---|
-|Nr.|Bezeichnung|Umfang/SWS||ECTS|WS/SS|Prüfungsart|Prüfungsform|
-|||V|Ü|||||
 |K1|Analoge elektronische Systeme|3|1|5|WS|PL|K,90|
 |K2|Digitale elektronische Systeme|3|1|5|SS|PL|K,90|
 |K3|Transceiver-Systementwurf|2|2|5|SS|PL|K,90|
@@ -488,7 +465,7 @@ MA: Masterarbeit
 
 „ 
 
-## 18. Das Inhaltsverzeichnis wird entsprechend angepasst. 
+# 18. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
 15 
 

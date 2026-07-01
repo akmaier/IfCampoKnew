@@ -7,7 +7,7 @@ unterrichtssprache: "Deutsch und Englisch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "> 600"
-scraped_at: 2026-05-01T06:44:42+00:00
+scraped_at: 2026-07-01T08:21:22+00:00
 ---
 
 # Englisch (Lehramt)

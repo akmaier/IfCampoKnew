@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Wirtschaftswissenschaften FPO BA WiWi 20190222 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/Aenderungssatzungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20190222_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-05-01T09:29:42+00:00
-page_count_chars: 6296
+scraped_at: 2026-07-01T10:44:36+00:00
+page_count_chars: 6224
 ---
 
 # BA Wirtschaftswissenschaften FPO BA WiWi 20190222 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 6296
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Wirtschaftswissenschaften/Aenderungssatzungen/BA_Wirtschaftswissenschaften_FPO_BA_WiWi_20190222_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Wirtschaftswissenschaften am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WiWi  – Vom 22. Februar 2019** 
+# **Erste Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Wirtschaftswissenschaften am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WiWi  – Vom 22. Februar 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstudiengang am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA WiWi – vom 10. August 2017 wird wie folgt geändert: 
 
@@ -36,11 +36,11 @@ Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstud
 
 3. In § 4 Abs. 1 Satz 1 wird nach den Worten „Das Qualifikationsziel des“ das Wort „Studienbereichs“ durch das Wort „Vertiefungsbereichs“ ersetzt und nach den Worten „liegt darin,“ das Wort „es“ eingefügt. 
 
-## 4. § 5 wird wie folgt geändert: 
+4. § 5 wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: 
+   - a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) In Satz 1 wird nach dem Wort „Studienrichtung“ das Wort „WiPäd“ eingefügt. 
+      - aa) In Satz 1 wird nach dem Wort „Studienrichtung“ das Wort „WiPäd“ eingefügt. 
 
 1 
 
@@ -48,27 +48,27 @@ Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstud
 
 - b) In Abs. 2 Satz 1 werden nach den Worten „des Zweitfaches“ die Worte „nach Abs. 1 Sätzen 2 und 3“ eingefügt. 
 
-## 5. § 6 wird wie folgt geändert: 
+# 5. § 6 wird wie folgt geändert: 
 
 - a) Die bisher einzige Regelung wird zu Abs.1. 
 
 - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die erste Änderungssatzung tritt am 1. April 2019 in Kraft.[2] Abweichend von Satz 1 gelten die Änderungen für das Modul „Jahresabschluss“ gemäß den **Anlagen 1 bis 4** und das Modul „Betriebliche Aus- und Weiterbildung“ gemäß **Anlage 4a** und **Anlage 4b** für all diejenigen Studierenden mit Schwerpunkt Wirtschafts- und Betriebspädagogik, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt am 1. April 2019 in Kraft.<sup>2</sup> Abweichend von Satz 1 gelten die Änderungen für das Modul „Jahresabschluss“ gemäß den **Anlagen 1 bis 4** und das Modul „Betriebliche Aus- und Weiterbildung“ gemäß **Anlage 4a** und **Anlage 4b** für all diejenigen Studierenden mit Schwerpunkt Wirtschafts- und Betriebspädagogik, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden.“ 
 
-## 6. Die **Anlage 1** wird wie folgt geändert: 
+# 6. Die **Anlage 1** wird wie folgt geändert: 
 
 - a) In Zeile 15 (Jahresabschluss) wird in Spalte 6 (Art und Umfang der Prüfung/ Studienleistung) im Klammerzusatz die Zahl „90“ durch die Zahl „60“ ersetzt. 
 
 - b) In den Erläuterungen unterhalb der Tabelle wird in der Fußnote 5 nach den Worten „im Rahmen von“ das Wort „zusammenhängenden“ eingefügt. 
 
-## 7. Die **Anlage 2** wird wie folgt geändert: 
+# 7. Die **Anlage 2** wird wie folgt geändert: 
 
 - a) In Zeile 15 (Jahresabschluss) wird in Spalte 6 (Art und Umfang der Prüfung/ Studienleistung) im Klammerzusatz die Zahl „90“ durch die Zahl „60“ ersetzt. 
 
 - b) In den Erläuterungen wird in der Fußnote 4 nach den Worten „im Rahmen von“ das Wort „zusammenhängenden“ eingefügt. 
 
-## 8. Die **Anlage 3** wird wie folgt geändert: 
+# 8. Die **Anlage 3** wird wie folgt geändert: 
 
    - a) In Zeile 15 (Jahresabschluss) wird in Spalte 6 (Art und Umfang der Prüfung/ Studienleistung) im Klammerzusatz die Zahl „90“ durch die Zahl „60“ ersetzt. 
 
@@ -82,13 +82,13 @@ Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstud
 
 - b) Zeile 31 (Berufliche Weiterbildung) erhält folgende neue Fassung: 
 
-|„|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Betriebliche<br>Aus- und<br>Weiterbildung|V|2||||**5**||||5|||Klausur (60 Min.)|1|
-||Ü||2||||||||||||
-|||||1|||||||||||
+|„<br>Betriebliche|V|2|||||
+|---|---|---|---|---|---|---|
+|<br>Aus- und<br>Witbild|Ü|2|**5**|5|Klausur (60 Min.)|1|
+|eerung||1|||||
 
-“ 
+<!-- Start of picture text -->
+“<br><!-- End of picture text -->
 
    - c) In Zeile 42 (Summe SWS und ECTS) wird in Spalte 3 (SWS), Unterspalte 3 (S) die Zahl „5“ durch die Zahl „6“ ersetzt. 
 
@@ -98,14 +98,12 @@ Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstud
 
    - b)  Zeile 32 (Berufliche Weiterbildung) erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-|„|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Betriebliche<br>Aus- und<br>Weiterbildung|V|2||||**5**||||5|||Klausur (60 Min.)|1|
-||Ü||2||||||||||||
-|||||1|||||||||||
-|“|||||||||||||||
+|Btiblih|V|2|||||
+|---|---|---|---|---|---|---|
+|erece<br>Aus- und<br>bld|Ü|2|**5**|5|Klausur (60 Min.)|1|
+|Weiteriung<br>“||1|||||
 
 - c) In Zeile 43 (Summe SWS und ECTS) wird in Spalte 3 (SWS), Unterspalte 3 (S) die Zahl „5“ durch die Zahl „6“ ersetzt. 
 
@@ -113,7 +111,7 @@ Die Fachprüfungsordnung für das Fach Wirtschaftswissenschaften im Bachelorstud
 
 „Näheres regelt das Modulhandbuch“. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2019 in Kraft. 2Abweichend von Satz 1 gelten die Änderungen für das Modul „Jahresabschluss“ gemäß den **Anlagen 1 bis 4** und das Modul „Betriebliche Aus- und Weiterbildung“ gemäß **Anlage 4a** und **Anlage 4b** für all diejenigen Studierenden mit Schwerpunkt Wirtschafts- und Betriebspädagogik, die sich bezogen auf das jeweilige Modul noch nicht in einem laufenden Prüfungsverfahren befinden. 
 

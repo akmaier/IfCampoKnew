@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BA Sino Zwei-Fach 20071005 i.d.F. 20190828.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Zwei-Fach/Sinologie/konsolidierte_Fassungen/FPO_BA_Sino_Zwei-Fach_20071005_idF_20190828.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:58+00:00
-page_count_chars: 21852
+scraped_at: 2026-07-01T10:29:15+00:00
+page_count_chars: 20307
 ---
 
 # FPO BA Sino Zwei-Fach 20071005 i.d.F. 20190828.pdf
@@ -32,21 +32,30 @@ geändert durch Satzungen vom 1. September 2009
 
 ## **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Ziele des Studiums ...................................................................................... 2 § 3 Fächerkombinationen ...................................................................................................... 3 § 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 3 § 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3 § 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3 § 7 Schluss- und Übergangsvorschriften ............................................................................... 4 Anlage 1: Sinologie als Erstfach ............................................................................................ 5 Anlage 2: Sinologie als Zweitfach .......................................................................................... 8 
+|§ 1 Geltungsbereich .............................................................................................................. 1|
+|---|
+|§ 2 Umfang und Ziele des Studiums ...................................................................................... 2|
+|§ 3 Fächerkombinationen ...................................................................................................... 3|
+|§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache ............ 3|
+|§ 5 Grundlagen- und Orientierungsprüfung ........................................................................... 3|
+|§ 6 Besondere Bestimmungen für die Bachelorarbeit ............................................................ 3<br>|
+|§ 7 Schluss- und Übergangsvorschriften ............................................................................... 4|
+|Anlage 1: Sinologie als Erstfach ............................................................................................ 5|
+|Anlage 2: Sinologie als Zweitfach .......................................................................................... 8|
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
 Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Prüfungsordnung für Bachelor- und Masterstudiengänge an der Philosophischen Fakultät und Fachbereich Theologie der FAU – **ABMStPO/Phil** – vom 27. September 2007 in der jeweils geltenden Fassung für das Fach Sinologie im Zwei-Fach-Bachelorstudiengang. 
 
 1 
 
-## **§ 2 Umfang und Ziele des Studiums** 
+# **§ 2 Umfang und Ziele des Studiums** 
 
 (1) Das Fach Sinologie kann im Zwei-Fach-Bachelorstudiengang entweder als Erstfach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Zwei-Fach-Bachelorstudiengang Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+(2)<sup>1</sup> Im Zwei-Fach-Bachelorstudiengang Sinologie erwerben die Studierenden grundlegende Fachkenntnisse der Sinologie und die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten, einschließlich der entsprechenden Methoden, die eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum darstellen.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
-(3)[1] Im Zwei-Fach-Bachelorstudiengang Sinologie werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.[2] Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
+(3)<sup>1</sup> Im Zwei-Fach-Bachelorstudiengang Sinologie werden eine fundierte fachwissenschaftliche Ausbildung gewährleistet und reflexive, interkulturelle, interdisziplinäre und sprachliche Fähigkeiten vermittelt.<sup>2</sup> Der Schwerpunkt liegt auf der Erforschung kultureller und politischer Beziehungen zwischen China und dem Abendland und dem Wandel konfuzianischer Traditionen von den Anfängen bis zur Gegenwart unter Einbezug chinesischsprachiger Quellen- und Forschungstexte. 
 
 (4) Zur Erreichung dieses Qualifikationsprofils zielt der Studiengang auf die Entwicklung folgender Kompetenzen: 
 
@@ -68,101 +77,89 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 2 
 
-## **§ 3 Fächerkombinationen** 
+# **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der **ABMStPO/Phil** Anwendung. 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
+# **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
 
 (1) Umfang und Gliederung des Zwei-Fach-Bachelorstudiengangs Sinologie sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach den **Anlagen** . 
 
-## (2) Schlüsselqualifikationen: 
+# (2) Schlüsselqualifikationen: 
 
-1Falls Sinologie als Erstfach studiert wird, sind im Bereich der Schlüsselqualifikationen bezogen auf das gesamte Zwei-Fach-Bachelorstudium Leistungen im Umfang von 10 ECTS-Punkten zu erbringen.[2] Dafür ist das Modul “Modernes Chinesisch: Kommunikative Kompetenz “ verpflichtend vorgesehen.[3] Die Teilnahme an der HSKPrüfung Level 2 wird empfohlen.[4] Falls Sinologie als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.[5] Der Besuch der Module „Wissenschaftliches Arbeiten“, „Modernes Chinesisch: Kommunikative Kompetenz“ und „Modernes Chinesisch: Grammatische Strukturen“ wird in diesem Fall empfohlen. 
+1Falls Sinologie als Erstfach studiert wird, sind im Bereich der Schlüsselqualifikationen bezogen auf das gesamte Zwei-Fach-Bachelorstudium Leistungen im Umfang von 10 ECTS-Punkten zu erbringen.<sup>2</sup> Dafür ist das Modul “Modernes Chinesisch: Kommunikative Kompetenz “ verpflichtend vorgesehen.<sup>3</sup> Die Teilnahme an der HSKPrüfung Level 2 wird empfohlen.<sup>4</sup> Falls Sinologie als Zweitfach studiert wird, sind der Umfang der Schlüsselqualifikationen sowie ggf. verpflichtende Vorschriften dazu vom Erstfach abhängig.<sup>5</sup> Der Besuch der Module „Wissenschaftliches Arbeiten“, „Modernes Chinesisch: Kommunikative Kompetenz“ und „Modernes Chinesisch: Grammatische Strukturen“ wird in diesem Fall empfohlen. 
 
-## (3) Chinaaufenthalt: 
+# (3) Chinaaufenthalt: 
 
-1Studierenden mit Erstfach Sinologie im Zwei-Fach-Bachelorstudiengang wird ausdrücklich empfohlen, sich im 5. Semester des Studiums für die Dauer eines Semesters zum Spracherwerb nach China an das European Centre for Chinese Studies (ECCS) zu begeben.[2] Im Falle dieses Auslandsaufenthaltes werden den Studierenden die 5 ECTS-Punkte aus dem Modul „Modernes Chinesisch 5, Variante a“ nach dem Nachweis der Leistungen aus dem Aufenthalt am ECCS anerkannt 
+1Studierenden mit Erstfach Sinologie im Zwei-Fach-Bachelorstudiengang wird ausdrücklich empfohlen, sich im 5. Semester des Studiums für die Dauer eines Semesters zum Spracherwerb nach China an das European Centre for Chinese Studies (ECCS) zu begeben.<sup>2</sup> Im Falle dieses Auslandsaufenthaltes werden den Studierenden die 5 ECTS-Punkte aus dem Modul „Modernes Chinesisch 5, Variante a“ nach dem Nachweis der Leistungen aus dem Aufenthalt am ECCS anerkannt 
 
-(4)[1] Abweichend von § 3 Abs. 4 **ABMStPO/Phil** können im Zwei-Fach-Bachelorstudiengang Sinologie einzelne Lehrveranstaltungen und Prüfungen in chinesischer oder englischer Sprache abgehalten werden; Näheres regeln die **Anlagen** und das Modulhandbuch.[2] Ergänzend wird darauf hingewiesen, dass in einzelnen Lehrveranstaltungen und Prüfungen chinesische Texte bearbeitet werden und Gegenstand von Übersetzungsleistungen sind. 
+(4)<sup>1</sup> Abweichend von § 3 Abs. 4 **ABMStPO/Phil** können im Zwei-Fach-Bachelorstudiengang Sinologie einzelne Lehrveranstaltungen und Prüfungen in chinesischer oder englischer Sprache abgehalten werden; Näheres regeln die **Anlagen** und das Modulhandbuch.<sup>2</sup> Ergänzend wird darauf hingewiesen, dass in einzelnen Lehrveranstaltungen und Prüfungen chinesische Texte bearbeitet werden und Gegenstand von Übersetzungsleistungen sind. 
 
-## **§ 5 Grundlagen- und Orientierungsprüfung** 
+# **§ 5 Grundlagen- und Orientierungsprüfung** 
 
 Im Fach Sinologie sind in der Grundlagen- und Orientierungsprüfung die Module „Modernes Chinesisch 1“, „Geschichte und Kultur Chinas“ und „Staat und Gesellschaft Chinas“ erfolgreich abzulegen. 
 
-## **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
+# **§ 6 Besondere Bestimmungen für die Bachelorarbeit** 
 
 Das Thema für die Bachelorarbeit kann abweichend von den Bestimmungen des § 32 **ABMStPO/Phil** erst dann vergeben werden, wenn die erfolgreiche Teilnahme an den Modulen „Modernes Chinesisch 2“, „Modernes Chinesisch 3“ und „Klassisches Chinesisch“ 1 und 2 sowie an wenigstens einem Hauptseminar aus den Vertiefungsmodulen „Kulturelle und politische Beziehungen zwischen China und dem Abendland“, „Staat und Gesellschaft im konfuzianischen Denken“ bzw. „Konfuzianische Traditionen im Wandel“ nachgewiesen worden ist. 
 
 3 
 
-## **§ 7 Schluss- und Übergangsvorschriften** 
+# **§ 7 Schluss- und Übergangsvorschriften** 
 
 (1) Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
-(2)[1] Die neunte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
+(2)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
 
 4 
 
-## **Anlage 1: Sinologie als Erstfach** 
+# **Anlage 1: Sinologie als Erstfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach: Sinologie**|||||||||||||||
-|Modernes Chinesisch 1|Konversationsübung: Grundkurs<br>Chinesisch Ia||6|||10|10||||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|1|
-||Übung: Grundkurs Chinesisch Ib||2||||||||||||
-|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1||||2|5|2,5||||||Klausur (90 Min.)|2|
-||Seminar: Einführung in die<br>chinesische Kulturgeschichte 2||||2||2,5||||||||
-|Modernes Chinesisch 2|Konversationsübung: Grundkurs<br>Chinesisch IIa||6|||10||10|||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|2|
-||Übung: Grundkurs Chinesisch IIb||2||||||||||||
-|Staat und Gesellschaft<br>Chinas|Seminar||||2|5||5|||||Hausarbeit (8-12 Seiten<br>= ca. 3400-5200 Worte)<br>mit Referat (10-15 Min.)|2|
-|Wissenschaftliches<br>Arbeiten|Übung: Einführung Wissenschaft-<br>liches Arbeiten||2|||5||5|||||Referat (15-20 Min.)|0|
-|Modernes Chinesisch 3|Konversationsübung: Aufbaukurs<br>Chinesisch IIIa||4|||10|||10||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(15 Min.)|1|
-||Übung: Aufbaukurs Chinesisch<br>IIIb||2||||||||||||
-|Klassisches Chinesisch 1|Übung: Klassisches Chinesisch||4|||5|||5||||Klausur (90 Min.)|2|
-|China und das Abendland|Übung: Techniken philologischen<br>Umgangs mit chinesisch-<br>sprachigen Quellen||2|||5|||2||||40 % Wissenstest<br>(10-15 Seiten)<br>und<br>60 % Wissenschaftliche|2|
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P|Gesamt<br>ECTS<br>S|Workload-Ve<br>Semester in E<br>1.<br>2.<br>3.|rteilung pro<br>CTS-Punkten<sup>1</sup><br>4.<br>5.<br>6.|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|
+|**Erstfach: Sinologie**||||||||
+|Md Chiih 1|Konversationsübung: Grundkurs<br>Chinesisch Ia|6|10|10||70 % Klausur<br>(120 Min.) und|1|
+|oernes nessc|Übung: Grundkurs Chinesisch Ib|2||||30 % mündliche Prüfung<br>(10 Min.)||
+|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1<br>Seminar: Einführung in die<br>chinesische Kulturgeschichte 2||2<br>5<br>2|2,5<br>2,5||Klausur (90 Min.)|2|
+||Konversationsübung: Grundkurs<br>Chinesisch IIa|6||||70 % Klausur<br>(120 Min.) und||
+|Modernes Chinesisch 2|Übung: Grundkurs Chinesisch IIb|2|10|10||<br>30 % mündliche Prüfung<br>(10 Min.)|2|
+|Staat und Gesellschaft<br>Chinas|Seminar||2<br>5|5||Hausarbeit (8-12 Seiten<br>= ca. 3400-5200 Worte)<br>mit Referat (10-15 Min.)|2|
+|Wissenschaftliches<br>Arbeiten|Übung: Einführung Wissenschaft-<br>liches Arbeiten|2|5|5||Referat (15-20 Min.)|0|
+|Modernes Chinesisch 3|Konversationsübung: Aufbaukurs<br>Chinesisch IIIa<br>Übung: Aufbaukurs Chinesisch<br>IIIb|4<br>2|10|10||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(15 Min.)|1|
+|Klassisches Chinesisch 1|Übung: Klassisches Chinesisch|4|5|5||Klausur (90 Min.)|2|
+|China und das Abendland|Übung: Techniken philologischen<br>Umgangs mit chinesisch-<br>sprachigen Quellen|2|5|2||40 % Wissenstest<br>(10-15 Seiten)<br>und<br>60 % Wissenschaftliche|2|
 
 5 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-||Seminar: Kulturtransfer zwischen<br>China und dem Abendland||||1|||||1|||Übersetzung<br>(10-15 Seiten)||
-||Seminar: Lektüre Kulturtransfer<br>zwischen China und dem Abend-<br>land||||1|||||2|||||
-|Klassisches Chinesisch 2|Übung: Lektüre: Klassisches<br>Chinesisch||2|||5||||5|||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2|
-|Kulturelle und politische<br>Beziehungen zwischen<br>China und dem Abend-<br>land|Hauptseminar||||2|5||||5|||Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)|2|
-|Modernes Chinesisch 4|Konversationsübung<br>Vertiefungskurs<br>Chinesisch||3|||5||||5|||Klausur (120 Min.)|1|
-|Modernes Chinesisch 5,<br>Variante a|Integrierter Aufenthalt am ECCS<br>im 5. Semester|||||(5)|||||(5)||Anerkennung von<br>Leistungen<br>aus dem Ausland|1|
-|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs<br>Chinesisch||4|||(5)|||||(5)||Klausur (120 Min.)|1|
-||||||||||||||||
-||||||||||||||||
-|Konfuzianische Traditio-<br>nen im Wandel|Hauptseminar||||2|5|||||2,5||50 % Rezension<br>(10 Seiten)<br>und<br>50 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)|2|
-||Hauptseminar||||2|||||||2,5|||
-|Modernes Chinesisch:<br>Grammatische Strukturen|Übung: Komponente »Grammati-<br>sche Grundlegung« des Chinese<br>Language Proficiency Test HSK||2<br>+<br>2|||5|||||2,5|2,5|Klausur (90 Min.)|0|
-|Staat und Gesellschaft im<br>konfuzianischen Denken|Hauptseminar||||2|5||||||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)<br>mit Referat (20-30 Min.)|2|
-|Summe SWS und ECTS-Punkte im Erstfach:|||39||16|90|15|20|17|18|10|10|||
+|Modulbezeichnung|Lehrveranstaltung|SW<br> <br>|S<br>||Gesamt<br>ECTS|Workload-Ve<br>Semester in E<br> <br> <br>|rteilu<br>CTS-<br>|ng pro<br>Punkten<sup>1</sup><br> <br>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P|S||1.<br>2.<br>3.|4.|5.<br>6.||note|
+||Seminar: Kulturtransfer zwischen<br>China und dem Abendland|||1|||1||Übersetzung<br>(10-15 Seiten)||
+||Seminar: Lektüre Kulturtransfer<br>zwischen China und dem Abend-<br>land|||1|||2||||
+|Klassisches Chinesisch 2|Übung: Lektüre: Klassisches<br>Chinesisch|2|||5||5||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2|
+|Kulturelle und politische<br>Beziehungen zwischen<br>China und dem Abend-<br>land|Hauptseminar|||2|5||5||Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)|2|
+|Modernes Chinesisch 4|Konversationsübung<br>Vertiefungskurs<br>Chinesisch|3|||5||5||Klausur (120 Min.)|1|
+|Modernes Chinesisch 5,<br>Variante a|Integrierter Aufenthalt am ECCS<br>im 5. Semester||||(5)|||(5)|Anerkennung von<br>Leistungen<br>aus dem Ausland|1|
+|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs<br>Chinesisch|4|||(5)|||(5)|Klausur (120 Min.)|1|
+|Konfuzianische Traditio-|Hauptseminar|||2|5|||2,5|50 % Rezension<br>(10 Seiten)<br>und|2|
+|nen im Wandel|Hauptseminar|||2||||2,5|50 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)||
+|Modernes Chinesisch:<br>Grammatische Strukturen|Übung: Komponente »Grammati-<br>sche Grundlegung« des Chinese<br>Language Proficiency Test HSK|2<br>+<br>2|||5|||2,5<br>2,5|Klausur (90 Min.)|0|
+|Staat und Gesellschaft im<br>konfuzianischen Denken|<br>Hauptseminar|||2|5|||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)<br>mit Referat (20-30 Min.)|2|
+|Summe|SWS und ECTS-Punkte im Erstfach:|39||16|90|15<br>20<br>17|18|10<br>10|||
 
 6 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-||||-<br>43||||||||||||
-|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
-|Module des Zweitfachs2|vgl. FPO des Zweitfachs|||||70|15|10|8|7|20|10|vgl. FPO des Zweitfachs||
-|**Schlüsselqualifikationen gem. § 4 Abs. 4**|||||||||||||||
-|Modernes Chinesisch:<br>Kommunikative Kompe-<br>tenz3|Konversationsübung: Komponen-<br>te »Kommunikative Kompetenz«<br>des Chinese Language Profi-<br>ciency Test HSK||3<br>+<br>3|||10|||5|5|||Klausur (90 Min.)|0|
-|Summe SWS und ECTS-Punkte Schlüsselqualifikationen:|||6|||10|||5|5|||||
-|**Bachelorarbeit im Erstfach (Sinologie)**|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit (ca. 40 S.)|1|
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung<br>Lehrveranstaltung|SWS<br> <br> <br> <br>|Gesamt<br>ECTS|Workload-V<br>Semester in E<br> <br> <br>|erteilu<br>CTS-<br>|ng pro<br>Punkten<sup>1</sup><br> <br>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>t|
+|---|---|---|---|---|---|---|---|
+|**Zweitfach (Kombinationsmöglichkeiten gemäß Anlage 3 der**<br> <br>|V<br>Ü<br>P<br>S<br>-<br>43<br>**ABMStPO/Phil)**<br>||1.<br>2.<br>3.<br> <br> <br>|4.|5.<br>6.<br> <br>||noe<br>|
+|Module des Zweitfachs<sup>2</sup><br>vgl. FPO des Zweitf|achs|70|15<br>10<br>8|7|20<br>10|vgl. FPO des Zweitfac|hs|
+|<br>**Schlüsselqualifikationen gem. § 4 Abs. 4**<br>Modernes Chinesisch:<br>Kommunikative Kompe-<br>tenz<sup>3</sup><br>Konversationsübung: Komponen-<br>te »Kommunikative Kompetenz«<br>des Chinese Language Profi-<br>ciency Test HSK|<br>3<br>+<br>3|10|5|5||<br>Klausur (90 Min.)|<br>0|
+|Summe SWS und ECTS-Punkte Schlüsselqualifikationen:|6|10|5|5||||
+|**Bachelorarbeit im Erstfach (Sinologie)**||||||||
+|Bachelorarbeit||10|||10|Bachelorarbeit (ca. 40 S.)|1|
+|Summe ECTS-Punkte im Zwei-F|ach-Bachelorstudium:|180|30<br>30<br>30|30|30<br>30|||
 
-- 1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
+1  Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 
 - 2  Da es sich bei der hier angegebenen Verteilung um eine Empfehlung handelt, kann das Fach auch mit Zweitfächern kombiniert werden, die eine andere Verteilung der ECTSPunkte auf die Fachsemester vorsehen. Es wird empfohlen, in diesem Fall eine Studienberatung zur Kombination der beiden Fächer in Anspruch zu nehmen. 
 
@@ -170,62 +167,53 @@ Das Thema für die Bachelorarbeit kann abweichend von den Bestimmungen des § 32
 
 7 
 
-## **Anlage 2: Sinologie als Zweitfach** 
+# **Anlage 2: Sinologie als Zweitfach** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Erstfach (Kombinationsmöglichkeiten gemäß Anlage 3 der ABMStPO/Phil)**|||||||||||||||
-|Module des Erstfachs2|vgl. FPO des Erstfachs|||||70-90|0-<br>15|0-<br>15|0-<br>15|0-<br>20|0-<br>22,5|0-<br>12,5|vgl. FPO des Erstfachs||
-|**Zweitfach: Sinologie**|||||||||||||||
-|Modernes Chinesisch 1|Konversationsübung: Grund-<br>kurs Chinesisch Ia||6|||10|10||||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|1|
-||Übung: Grundkurs Chine-<br>sisch Ib||2||||||||||||
-|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte<br>1||||2|5|2,5||||||Klausur (90 Min.)|2|
-||Seminar: Einführung in die<br>chinesische Kulturgeschichte<br>2||||2||2,5||||||||
-|Modernes Chinesisch 2|Konversationsübung: Grund-<br>kurs Chinesisch IIa||6|||10||10|||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|1|
-||Übung: Grundkurs Chine-<br>sisch IIb||2||||||||||||
-|Staat und Gesellschaft<br>Chinas|Seminar||||2|5||5|||||Hausarbeit (8-12 Seiten<br>= ca. 3400-5200 Worte)<br>mit Referat (10-15 Min.)|2|
-|Modernes Chinesisch 3|Konversationsübung: Auf-<br>baukurs Chinesisch IIIa||4|||10|||10||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(15 Min.)|1|
-||Übung: Aufbaukurs<br>Chinesisch IIIb||2||||||||||||
-|Klassisches Chinesisch 1|Übung: Klassisches<br>Chinesisch||4|||5|||5||||Klausur (90 Min.)|2|
-|Klassisches Chinesisch 2|Übung: Lektüre: Klassisches<br>Chinesisch||2|||5||||5|||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2|
+|||SWS|Gesamt|Workload-<br>|Verteil<br>|ung pro<br> <sup>1</sup>|Art und Umfang der Prüfung/|Faktor<br>|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||ECTS|Semester in|ECTS|-Punkten|<br>Studienleistung|Modul-<br>|
+|**Erstfach (Kombinationsmö**|<br>**glichkeiten gemäß Anlage 3 der A**|V<br>Ü<br>P<br>S<br>**BMStPO/Phil)**||1.<br>2.<br>3.|4.|5.<br>6.||note|
+|||||0-<br>0-<br>0-|0-|0-<br>0-|||
+|Module des Erstfachs<sup>2</sup>|vgl. FPO des Erstfa|chs|70-90|15<br><br>15<br><br>15|20|225<br><br>125|vgl. FPO des Erstfac|hs|
+|**Zweitfach: Sinologie**||||<br> <br>||,<br>,|||
+|Md Chiih 1|Konversationsübung: Grund-<br>kurs Chinesisch Ia|6|10|10|||70 % Klausur<br>(120 Min.) und|1|
+|oernes nessc|Übung: Grundkurs Chine-<br>sisch Ib|2|||||30 % mündliche Prüfung<br>(10 Min.)||
+|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte<br>1<br>Seminar: Einführung in die<br>chinesische Kulturgeschichte<br>2|2<br>2|5|2,5<br>2,5|||Klausur (90 Min.)|2|
+|Modernes Chinesisch 2|Konversationsübung: Grund-<br>kurs Chinesisch IIa<br>Übung: Grundkurs Chine-<br>sisch IIb|6<br>2|10|10|||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|1|
+|Staat und Gesellschaft<br>Chinas|Seminar|2|5|5|||Hausarbeit (8-12 Seiten<br>= ca. 3400-5200 Worte)<br>mit Referat (10-15 Min.)|2|
+|Modernes Chinesisch 3|Konversationsübung: Auf-<br>baukurs Chinesisch IIIa<br>Übung: Aufbaukurs<br>Chinesisch IIIb<br>|4<br>2|10|10|||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(15 Min.)|1|
+|Klassisches Chinesisch 1|Übung: Klassisches<br>Chinesisch|4|5|5|||Klausur (90 Min.)|2|
+|Klassisches Chinesisch 2|Übung: Lektüre: Klassisches<br>Chinesisch|2|5||5||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2|
 
 8 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||
-||||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|Modernes Chinesisch 4|Konversationsübung<br>Vertiefungskurs<br>Chinesisch||3|||5||||5|||Klausur (120 Min.)|1|
-|Modernes Chinesisch 5,<br>Variante a|Integrierter Aufenthalt am<br>ECCS im 5. Semester|||||(5)|||||(5)||Anerkennung von<br>Leistungen<br>aus dem Ausland|1|
-|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs<br>Chinesisch||4|||(5)|||||(5)||Klausur (120 Min.)|1|
-||||||||||||||||
-||||||||||||||||
-|China und das Abendland2|Übung: Techniken philologi-<br>schen Umgangs mit chine-<br>sisch-sprachigen Quellen||2|||(5)|||||2||40 % Wissenstest<br>(10-15 Seiten)<br>und<br>60 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)|2|
-||Seminar: Kulturtransfer<br>zwischen China und dem<br>Abendland||||1|||||||1|||
-||Seminar: Lektüre Kulturtrans-<br>fer zwischen China und dem<br>Abendland||||1|||||||2|||
-|Kulturelle und politische<br>Beziehungen zwischen Chi-<br>na und dem Abendland3|Hauptseminar||||2|(5)||||||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)|2|
-|Konfuzianische Traditionen<br>im Wandel3|Hauptseminar||||2|(5)|||||2,5||50 % Rezension<br>(10 Seiten)<br>und<br>50 % Wissenschaftliche<br>Übersetzung<br>(10-15 Seiten)|2|
-||Hauptseminar||||2|||||||2,5|||
-|Staat und Gesellschaft im<br>konfuzianischen Denken3|Hauptseminar||||2|(5)||||||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)<br>mit Referat (20-30 Min.)|2|
-|Summe SWS und ECTS-Punkte im Zweitfach:|||33-<br>37||16|70|15|15|15|10|7-7,5|7,5-8|||
+|Modulbezeichnung|Lehrveranstaltung|V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|Workload-<br>Semester in<br>1.<br>2.<br>3.|Verteil<br>ECTS-<br>4.|ung pro<br>Punkten<sup>1</sup><br>5.<br>6.|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|---|
+||Konversationsübung|||||||||
+|Modernes Chinesisch 4|Vertiefungskurs<br>Chinesisch||3|5||5||Klausur (120 Min.)|1|
+|Modernes Chinesisch 5,<br>Variante a|Integrierter Aufenthalt am<br>ECCS im 5. Semester|||(5)|||(5)|Anerkennung von<br>Leistungen<br>aus dem Ausland|1|
+|Modernes Chinesisch 5,<br>Variante b|Sprachpraktische Übung:<br>Vertiefungskurs<br>Chinesisch||4|(5)|||(5)|Klausur (120 Min.)|1|
+||Übung: Techniken philologi-<br>schen Umgangs mit chine-<br>sisch-sprachigen Quellen||2||||2|40 % Wissenstest<br>(10-15 Seiten)||
+|China und das Abendland<sup>2</sup>|Seminar: Kulturtransfer<br>zwischen China und dem<br>Abendland||1|(5)|||1|und<br>60 % Wissenschaftliche<br>Übersetzung<br>|2|
+||Seminar: Lektüre Kulturtrans-<br>fer zwischen China und dem<br>Abendland||1||||2|(10-15 Seiten)||
+|Kulturelle und politische<br>Beziehungen zwischen Chi-<br>na und dem Abendland<sup>3</sup>|Hauptseminar||2|(5)|||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)|<br>2|
+|Konfuzianische Traditionen<br>im Wandel<sup>3</sup>|Hauptseminar||2|(5)|||2,5|50 % Rezension<br>(10 Seiten)<br>und<br>50 % Wissenschaftliche|2|
+||Hauptseminar||2||||2,5|<br>Übersetzung<br>(10-15 Seiten)<br>||
+|Staat und Gesellschaft im<br>konfuzianischen Denken<sup>3</sup>|Hauptseminar||2<br>|(5)|||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)<br>mit Referat (20-30 Min.)|2|
+|Summe SWS|und ECTS-Punkte im Zweitfach:||33-<br>37<br>16|70|15<br>15<br>15|10|7-7,5<br>7,5-8|||
 
 9 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Schlüsselqualifikationen gem. § 4 Abs. 4**|||||||||||||||
-|Wissenschaftliches<br>Arbeiten4|Übung: Einführung Wissen-<br>schaftliches Arbeiten||2|||(5)||5|||||Referat (15-20 Min.)|0|
-|Modernes Chinesisch:<br>Kommunikative Kompetenz4|Konversationsübung: Kom-<br>ponente »Kommunikative<br>Kompetenz« des Chinese<br>Language Proficiency Test<br>HSK||3<br>+<br>3|||(10)|||5|5|||Klausur (90 Min.)|0|
-||||||||||||||||
-||||||||||||||||
-|Modernes Chinesisch:<br>Grammatische Strukturen4|Übung: Komponente<br>»Grammatische Grundle-<br>gung« des Chinese Langu-<br>age Proficiency Test HSK||2<br>+<br>2|||(5)|||||2,5|2,5|Klausur (90 Min.)|0|
-|Summe ECTS-Punkte Schlüsselqualifikationen:||||||10-30|0-<br>15|0-<br>15|0-<br>15|0-<br>20|0-<br>22,5|0-<br>12,5|||
-|**Bachelorarbeit im Erstfach**|||||||||||||||
-|Bachelorarbeit|vgl. FPO des Erstfachs|||||10||||||10|vgl. FPO des Erstfachs||
-|Summe ECTS-Punkte im Zwei-Fach-Bachelorstudium:||||||180|30|30|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br> <br> <br>|Gesamt<br>ECTS|Work<br>Semest<br> <br>|load-<br>er in<br>|Verteil<br>ECTS<br>|ung pro<br>-Punkte<br>|<br>n<sup>1</sup><br>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.|4.|5.|6.||note|
+|**Schlüsselqualifikationen ge**|**m. § 4 Abs. 4**|<br> <br> <br>||<br>|||||||
+|Wissenschaftliches<br>Arbeiten<sup>4</sup>|Übung: Einführung Wissen-<br>schaftliches Arbeiten|2|(5)|5|||||Referat (15-20 Min.)|0|
+|Modernes Chinesisch:<br>Kommunikative Kompetenz<sup>4</sup>|Konversationsübung: Kom-<br>ponente »Kommunikative<br>Kompetenz« des Chinese<br>Language Proficiency Test<br>HSK|3<br>+<br>3|(10)||5|5|||Klausur (90 Min.)|0|
+|Modernes Chinesisch:<br>Grammatische Strukturen<sup>4</sup>|Übung: Komponente<br>»Grammatische Grundle-<br>gung« des Chinese Langu-<br>age Proficiency Test HSK|2<br>+<br>2|(5)||||2,5|2,5|Klausur (90 Min.)|0|
+|**Bachelorarbeit im Erstfach**|Summe ECTS-Punkte Schl|üsselqualifikationen:|10-30|0-<br>15<br>0-<br>15|0-<br>15|0-<br>20|0-<br>22,5|0-<br>12,5|||
+|Bachelorarbeit|vgl. FPO des Erst|fachs|10|||||10|vgl. FPO des Erstfa|chs|
+|S|umme ECTS-Punkte im Zwei-Fa|ch-Bachelorstudium:|180|30<br>30|30|30|30|30|||
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. Soweit die Verteilung Bereichsangaben vorsieht, entbindet dies bei der Wahl der Workload-Verteilung über die Semester nicht von der Pflicht zur Einhaltung der Prüfungsfristen nach § 10 **ABMStPO/Phil** . 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Modulstudien Kulturraum Italien POM-KultR-Ital 20210726 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20210726_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-05-01T08:39:27+00:00
-page_count_chars: 5151
+scraped_at: 2026-07-01T09:48:50+00:00
+page_count_chars: 5155
 ---
 
 # Modulstudien Kulturraum Italien POM-KultR-Ital 20210726 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 5151
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Modulstudien_Italien/Aenderungssatzungen/Modulstudien_Kulturraum_Italien_POM-KultR-Ital_20210726_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
 
-## **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/KultR-Ital –** 
+# **Erste Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/KultR-Ital –** 
 
-## **Vom 26. Juli 2021** 
+# **Vom 26. Juli 2021** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – POM/KultR-Ital – vom 18. August 2020 wird wie folgt geändert: 
 
@@ -40,9 +40,9 @@ Die Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien �
 
 1 
 
-„(2)[1] Die erste Änderungssatzung tritt zum 1. Oktober 2021 in Kraft.[2] Sie gilt für alle Studierenden, die die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Studierende die sich bezüglich des Moduls „Aufbaumodul italienische Literatur- und Kulturwissenschaft“ noch nicht im laufenden Prüfungsverfahren (Erstversuch) befinden, belegen die Module „Aufbaumodul italienische Literatur- und Kulturwissenschaft 1“ und „Aufbaumodul italienische Literatur- und Kulturwissenschaft 2“.“ 
+„(2)<sup>1</sup> Die erste Änderungssatzung tritt zum 1. Oktober 2021 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Studierende die sich bezüglich des Moduls „Aufbaumodul italienische Literatur- und Kulturwissenschaft“ noch nicht im laufenden Prüfungsverfahren (Erstversuch) befinden, belegen die Module „Aufbaumodul italienische Literatur- und Kulturwissenschaft 1“ und „Aufbaumodul italienische Literatur- und Kulturwissenschaft 2“.“ 
 
-   - b) Der ursprüngliche Abs. 2 wird zum neuen Abs. 3. 
+b) Der ursprüngliche Abs. 2 wird zum neuen Abs. 3. 
 
    - c) Der Abs. 3 (neu) wird wie folgt geändert: 
 
@@ -54,33 +54,30 @@ Die Studien- und Prüfungsordnung für die Modulstudien „Kulturraum Italien �
 
    - a) Zeile 6 (Aufbaumodul Italienische Literatur- und Kulturwissenschaft) wird durch folgende neue Zeile 6 ersetzt: 
 
-„ 
+<u>„</u> 
 
-|„|||||||
-|---|---|---|---|---|---|---|
-|Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft1|vgl. FPO B.A. Italoromanistik|5||5|vgl. FPO B.A. Italoro-<br>manistik|0|
-|“|||||||
+|Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft1<br>“|vgl. FPO B.A. Italoromanistik|5|5<br>vgl. FPO B.A. Italoro-<br>manistik|0|
+|---|---|---|---|---|
 
 - b) Nach Zeile 6 (Aufbaumodul Italienische Literatur- und Kulturwissenschaft 1) (neu) wird folgende neue Zeile 7 eingefügt: 
 
-   - „ 
+   - <u>„</u> 
 
-|Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft2|vgl. FPO B.A. Italoromanistik|5|5||vgl. FPO B.A. Italoro-<br>manistik|0|
-|---|---|---|---|---|---|---|
-|“|||||||
+|Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft2<br>“|vgl. FPO B.A. Italoromanistik|5|5|vgl. FPO B.A. Italoro-<br>manistik|0|
+|---|---|---|---|---|---|
 
 9. Die Tabelle in der **Anlage 2** wird wie folgt geändert: 
 
    - a) Zeile 6 (Aufbaumodul Italienische Literatur- und Kulturwissenschaft) wird durch folgende neue Zeile 6 ersetzt: 
 
-|„|||||||
-|---|---|---|---|---|---|---|
-|Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft1|vgl. FPO B.A. Italoromanistik|5|5||vgl. FPO B.A. Italoro-<br>manistik|0|
-|“|||||||
+|„<br>Aufbaumodul Italieni-<br>sche Literatur- und<br>Kulturwissenschaft1|vgl. FPO B.A. Italoromanistik|5|5<br>vgl. FPO B.A. Italoro-<br>manistik|0|
+|---|---|---|---|---|
+
+“ 
 
 - b) Nach Zeile 6 (Aufbaumodul Italienische Literatur- und Kulturwissenschaft 1) (neu) wird folgende neue Zeile 7 eingefügt: 
 
-„ 
+<u>„</u> 
 
 Aufbaumodul Italienische Literatur- und vgl. FPO B.A. Italoromanistik 5 5 vgl. FPO B.A. Italoro0 manistik Kulturwissenschaft 2 
 
@@ -90,7 +87,7 @@ Aufbaumodul Italienische Literatur- und vgl. FPO B.A. Italoromanistik 5 5 vgl. F
 
 **§ 2** 
 
-> 1Diese Änderungssatzung tritt zum 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ ab dem Wintersemester 2021/2022 aufnehmen werden.[3] Studierende die sich bezüglich des Moduls „Aufbaumodul italienische Literatur- und Kulturwissenschaft“ noch nicht im laufenden Prüfungsverfahren (Erstversuch) befinden, belegen die Module „Aufbaumodul italienische Literatur- und Kulturwissenschaft 1“ und „Aufbaumodul italienische Literatur- und Kulturwissenschaft 2“. 
+> 1Diese Änderungssatzung tritt zum 1. Oktober 2021 in Kraft. 2Sie gilt für alle Studierenden, die die Modulstudien „Kulturraum Italien – Kunst, Literatur und Sprache“ ab dem Wintersemester 2021/2022 aufnehmen werden.<sup>3</sup> Studierende die sich bezüglich des Moduls „Aufbaumodul italienische Literatur- und Kulturwissenschaft“ noch nicht im laufenden Prüfungsverfahren (Erstversuch) befinden, belegen die Module „Aufbaumodul italienische Literatur- und Kulturwissenschaft 1“ und „Aufbaumodul italienische Literatur- und Kulturwissenschaft 2“. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 14. Juli 2021 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 26. Juli 2021. 
 

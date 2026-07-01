@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-PrO-Int-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:32:30+00:00
-page_count_chars: 3156
+scraped_at: 2026-07-01T10:55:59+00:00
+page_count_chars: 3048
 ---
 
 # 28. Oktober 2002
@@ -12,7 +12,7 @@ page_count_chars: 3156
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-PrO-Int-VWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Zweite Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg** 
+# **Zweite Satzung zur Änderung der Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg** 
 
 ## Vom 28. Oktober 2002 
 
@@ -24,7 +24,7 @@ Die Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftsl
 
 1. § 14 Abs. 3 Satz 1 erhält folgende Fassung: 
 
-"[1] Bei der bestandenen Diplomvorprüfung wird eine Prüfungsgesamtnote als ungewichtetes arithmetisches Mittel der Fachnoten aus den in § 22 Abs. 1 Nrn. 4 bis 8 vorgesehenen Fächern (Grundzüge der Betriebswirtschaftslehre, Grundzüge der Volkswirtschaftslehre, die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts, der Grundzüge der Statistik sowie Wirtschaftsfremdsprachen) errechnet." 
+"<sup>1</sup> Bei der bestandenen Diplomvorprüfung wird eine Prüfungsgesamtnote als ungewichtetes arithmetisches Mittel der Fachnoten aus den in § 22 Abs. 1 Nrn. 4 bis 8 vorgesehenen Fächern (Grundzüge der Betriebswirtschaftslehre, Grundzüge der Volkswirtschaftslehre, die wirtschaftlich wesentlichen Teile des Privaten Rechts und des Öffentlichen Rechts, der Grundzüge der Statistik sowie Wirtschaftsfremdsprachen) errechnet." 
 
 2. § 27 Abs. 1 Nr. 2  erhält bis zum zweiten Semikolon folgende Fassung: 
 
@@ -44,19 +44,14 @@ Die Diplomprüfungsordnung für den Studiengang Internationale Volkswirtschaftsl
 
 4. In der **Anlage II** erhält Nr. 8 folgende Fassung: 
 
-|In der**Anlage II**erhält Nr. 8 folgende Fassung:|In der**Anlage II**erhält Nr. 8 folgende Fassung:|In der**Anlage II**erhält Nr. 8 folgende Fassung:|
-|---|---|---|
-|________________________________________________________________|||
-||**Klausur-**||
-|**Fächer der Diplomvorprüfung**|**Prüfungsdauer**<br>|**Kreditpunkte**|
-||**(in Minuten)**||
-|________________________________________________________________|||
-|..................................|...............|................|
-|"8. Wirtschaftsfremdsprachen||16|
-|a) Wirtschaftsfremdsprache I|120|4|
-||+ 15 Min. mündl. Prüfung|4|
-|b) Wirtschaftsfremdsprache II|120|4|
-||+ 15 Min. mündl. Prüfung|4"|
+|____________________________<br>**Fächer der Diplomvorprüfung**<br>____________________________|_______________________<br>**Klausur-**<br>**Prüfungsdauer**<br> <br>**(in Minuten)**<br>_______________________|________<br>**Kreditp**<br>________|_____<br>**unkte**<br>_____|
+|---|---|---|---|
+|..................................|...............|.......|.........|
+|"8. Wirtschaftsfremdsprachen|||16|
+|a) Wirtschaftsfremdsprache I|120|4||
+||+ 15 Min. mündl. Prüfung|4||
+|b) Wirtschaftsfremdsprache II|120|4||
+||+ 15 Min. mündl. Prüfung|4"||
 
 **§ 2** 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Juni 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AeSa_LA Mathe.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:13:59+00:00
-page_count_chars: 12311
+scraped_at: 2026-07-01T08:41:57+00:00
+page_count_chars: 10463
 ---
 
 # 26. Juni 2017
@@ -14,11 +14,11 @@ page_count_chars: 12311
 
 **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Sciences“** 
 
-## **Vom 26. Juni 2017** 
+# **Vom 26. Juni 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) und für den Teilstudiengang Mathematik des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik – Vocational Education / Social Pedagogy and Social Sciences“ vom 11. November 2015 wird wie folgt geändert: 
 
@@ -26,86 +26,59 @@ Die Fachstudien- und Prüfungsordnung für das Fach Mathematik im Lehramtsstudie
 
 2. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a Freiwillige Zwischenprüfungen** 
+# „ **§ 3a Freiwillige Zwischenprüfungen** 
 
-1Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung o- der Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.[4] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
+1Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Übungsleistungen, Kurztests oder Hausaufgaben) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch. 3Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung o- der Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.<sup>4</sup> Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.“ 
 
 1 
 
-## 3. § 4 wird wie folgt geändert: 
+# 3. § 4 wird wie folgt geändert: 
 
-## a) Die Tabelle in Abs. 1 erhält folgende neue Fassung: 
+# a) Die Tabelle in Abs. 1 erhält folgende neue Fassung: 
 
-## „ 
+# „ 
 
-||Modulbezeichnung|||||||Gesamt|||Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|Workload-Verteilung pro Semester in<br>|||Art und Umfang der Prüfung/|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||SWS|||||||ECTS-Punkten||||||||
-|||Lehrveranstaltung||||||<br>ECTS||||||||||<br>Stdilit||
-||||||||||1.|2.|3.|4.|5.|6.|7.|8.|9.|uenesung||
-||||V|Ü|P|S|T|||||||||||||
-|**Pflichtmodule (Lehramt an Gymnasien)**|Analysis I|Vorlesung Analysis I|4||||||6|||||||||Klausur 120 Min. (unbenotet)<br>|0|
-|||Übung Analysis I||2||||10|2|||||||||und<br>Hausaufgaben (wöchentlich||
-|||Tafelübung Analysis I||2|||||2|||||||||<br>1 Übungsblatt) (unbenotet)||
-||Lineare Algebra I|Vorlesung Lineare Algebra I|4||||||6|||||||||Klausur 120 Min. (unbenotet)|0|
-|||Übun Lineare Alebra I||2|||||2|||||||||||
-|||g  g||||||10||||||||||und||
-|||||||||||||||||||||
-|||Tafelübung Lineare Algebra I||2|||||2|||||||||Hausaufgaben (wöchentlich<br>1 Übungsblatt) (unbenotet)||
-||Analysis II|Vorlesung Analysis II|4|||||||6||||||||Klausur 180 Min. (benotet;<br>|0,5|
-|||Übung Analysis II||2||||10||2||||||||100 %) und<br>Hausaufgaben (wöchentlich||
-|||Tafelübung Analysis II||2||||||2||||||||<br>1 Übungsblatt) (unbenotet)||
-||Lineare Algebra II|Vorlesung Lineare Algebra II|4|||||||6||||||||Klausur 180 Min. (benotet;<br>|0,5|
-|||Übung Lineare Algebra II||2||||10||2||||||||100 %) und<br>Hausaufgaben (wöchentlich||
-|||Tafelübung Lineare Algebra II||2||||||2||||||||<br>1 Übungsblatt) (unbenotet)||
-||Angewandte<br>Mathematik|Vorlesung|3|||||5|||(4)|(4)|(4)|(4)|(4)|(4)|(4)|Kl   Mi|(1)|
-|||||||||||||||||||ausur max. 90 n.<br>(benotet; 100 %)||
-|||Übung||1||||||||||||||||
-||||||||||||(1)|(1)|(1)|(1)|(1)|(1)|(1)|||
-||Stochastische<br>ModellbildungIa|Vorlesung Stochastische Mo-<br>dellbildung|4|||||||||||||||Kl  12 Mi|(1)|
-|||||||||5||||(6)||(6)||(6)||ausur max. 0 n.<br>(benotet; 100 %)||
-|||||||||||||||||||||
-||Stochastische Mo-<br>dellbildung Ib|Übung Stochastische Modellbil-<br>dung||2||||5||||(2)||(2)||(2)||Hf hlih|(0)|
-|||||||||||||||||||ausaugaben (wöcentc<br>1 Übungsblatt) (unbenotet)||
-|||Tafelübung Stochastische Mo-||1||||||||||||||||
-|||||||||||||2||2||2||||
-|||dellbildung||||||||||()||()||()||||
-||Algebra Ia|||||||||||||||||Kl  12 Mi|(1)|
-|||Vorlesung Algebra|4|||||5|||(6)||(6)||(6)|||ausur max. 0 n.<br>(benotet; 100 %)||
-|||||||||||||||||||||
-||Algebra Ib|Übung Algebra||2||||5|||(2)||(2)||(2)|||Hausaufgaben (wöchentlich|(0)|
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|<br>Workloa|d-Verte<br>ECT|ilung p<br>S-Pun|ro Seme<br>kten|ster in||Art und Umfang der Prüfung/<br>Studienleistun|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S<br>T||1.<br>2.<br>3.|4.|5.|6.|7.<br>8.|9.|g|note|
+||Vorlesung Analysis I|4||6||||||Klausur 120 Min. (unbenotet)<br>||
+|Analysis I|Übung Analysis I|2|10|2||||||und<br>Hausaufgaben (wöchentlich|0|
+||Tafelübung Analysis I|2||2||||||<br>1 Übungsblatt) (unbenotet)||
+||Vorlesung Lineare Algebra I|4||6||||||||
+|Lineare Algebra I|Übung Lineare Algebra I|2|10|2||||||Klausur 120 Min. (unbenotet)<br>und|0|
+|**sien)**<br>|Tafelübung Lineare Algebra I|2||2||||||Hausaufgaben (wöchentlich<br>1 Übungsblatt) (unbenotet)||
+|**na**|Vorlesung Analysis II|4||6||||||Klausur 180 Min. (benotet;<br>||
+|**Gym**<br>Analysis II|Übung Analysis II|2|10|2||||||100 %) und<br>Hausaufgaben (wöchentlich|0,5|
+|**an**|Tafelübung Analysis II|2||2||||||<br>1 Übungsblatt) (unbenotet)||
+|**mt**|Vorlesung Lineare Algebra II|4||6||||||Klausur 180 Min. (benotet;<br>||
+|**ehra**<br>Lineare Algebra II|Übung Lineare Algebra II|2|10|2||||||100 %) und<br>Hausaufgaben (wöchentlich|0,5|
+|**e (L**|Tafelübung Lineare Algebra II|2||2||||||<br>1 Übungsblatt) (unbenotet)||
+|**dul**<br>Angewandte|Vorlesung|3|5|(4)|(4)|(4)|(4)|(4)<br>(4)|(4)|Klausur max. 90 Min.|(1)|
+|**mo**<br>Mathematik|Übung|1||(1)|(1)|(1)|(1)|(1)<br>(1)|(1)|(benotet; 100 %)||
+|**flicht**<br>Stochastische<br>ModellbildungIa|Vorlesung Stochastische Mo-<br>dellbildung|4|5||(6)||(6)|(6)||Klausur max. 120 Min.<br>(benotet; 100 %)|(1)|
+|**P**<br>Stochastische Mo-|Übung Stochastische Modellbil-<br>dung|2|5||(2)||(2)|(2)||Hausaufgaben (wöchentlich|0|
+|dellbildung Ib|Tafelübung Stochastische Mo-<br>dellbildung|1|||(2)||(2)|(2)||1 Übungsblatt) (unbenotet)|()|
+|Algebra Ia|Vorlesung Algebra|4|5|(6)||(6)||(6)||Klausur max. 120 Min.<br>(benotet; 100 %)|(1)|
+|Algebra Ib|Übung Algebra|2|5|(2)||(2)||(2)||Hausaufgaben (wöchentlich|(0)|
 
 2 
 
-||Modulbezeichnung||SWS|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang der Prüfung/|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Lehrveranstaltung||||||<br>ECTS||||||||||<br>Stdilit||
-||||||||||1.|2.|3.|4.|5.|6.|7.|8.|9.|uenesung||
-||||V|Ü|P|S|T|||||||||||||
-|||Tafelübung Algebra||1|||||||(2)||(2)||(2)|||1 Übungsblatt) (unbenotet)||
-||Körpertheorie|Vorlesun Körertheorie|2|||||||||(3)||(3)||(3)||Kl   Mi|(1)|
-|||g p||||||5||||||||||ausur max. 90 n.<br>(benotet; 100 %)||
-|||Ü||||||||||||||||||
-|||bung Körpertheorie||2||||||||(2)||(2)||(2)||||
-||Analysis für<br>Lehramt Ia|Vorlesung Analysis für Lehramt||||||||||||||||Kl  12 Mi|(1)|
-||||4|||||5|||(6)||(6)||(6)|||ausur max. 0 n.<br>(benotet; 100 %)||
-|||||||||||||||||||||
-||Analysis für Lehr-<br>amt Ib|Übung Analysis für Lehramt||2||||5|||(2)||(2)||(2)|||Hf hlih|(0)|
-|||||||||||||||||||ausaugaben (wöcentc<br>1 Übunsblatt) (unbenotet)||
-|||Tafelübung Analysis für Lehramt||1||||||||||||||||
-||||||||||||(2)||(2)||(2)|||g||
-||Geometrie|Vorlesun|2||||||||(3)|(3)|(3)|(3)|(3)|(3)|(3)|Kl   Mi|(1)|
-|||g||||||5||||||||||ausur max. 90 n.<br>(benotet; 100 %)||
-|||Ü||||||||||||||||||
-|||bung||2|||||||(2)|(2)|(2)|(2)|(2)|(2)|(2)|||
-||Funktionentheorie I|Vorlesun Funktionentheorie I|2|||||||||(3)||(3)||(3)||Kl   Mi|(1)|
-|||g||||||5||||||||||ausur max. 90 n.<br>(benotet; 100 %)||
-|||Ü||||||||||||||||||
-|||bung Funktionentheorie I||2||||||||(2)||(2)||(2)||||
-||Seminar|||||||||||||||||Vortrag (90 Min.; unbenotet),<br>schriftliche Ausarbeitung<br>d Vt 510 Sit|(1)|
-|||Seminar||||2||5||||(5)|(5)|(5)|(5)|(5)|(5)|es orrags (- een;<br>benotet; 25 %) und||
-|||||||||||||||||||<br>mündliche Prüfung (15 Min.;<br>benotet; 75 %)||
-||**Summe Pflichtmodule (Lehramt an Gymnasien)**|||||||**95**||||||||||||
+|Modulbezeichnung|Lehrveranstaltung||SWS|Gesamt<br>|Workloa|d-Verte<br>ECT|ilung p<br>S-Pun|ro Seme<br>kten|ster in|Art und Umfang der Prüfung/<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||ECTS||||||Studienleistung||
+|||V<br>Ü|P<br>S<br>T|1.<br>|2.<br>3.|4.|5.|6.|7.<br>8.|<br>9.|note|
+||Tafelübung Algebra|1|||(2)||(2)||(2)|1 Übungsblatt) (unbenotet)||
+|Körertheorie|Vorlesung Körpertheorie|2||5||(3)||(3)|(3)|Klausur max. 90 Min.|(1)|
+|p|Übung Körpertheorie|2||||(2)||(2)|(2)|(benotet; 100 %)||
+|Analysis für<br>Lehramt Ia|Vorlesung Analysis für Lehramt|4||5|(6)||(6)||(6)|Klausur max. 120 Min.<br>(benotet; 100 %)|(1)|
+|Analysis für Lehr-|Übung Analysis für Lehramt|2||5|(2)||(2)||(2)|Hausaufgaben (wöchentlich|(0)|
+|amt Ib|Tafelübung Analysis für Lehramt|1|||(2)||(2)||(2)|1 Übungsblatt) (unbenotet)||
+|Gti|Vorlesung|2||5|(3)|(3)|(3)|(3)|(3)<br>(3)|(3)<br>Klausur max. 90 Min.|(1)|
+|eomere|Übung|2|||(2)|(2)|(2)|(2)|(2)<br>(2)|(benotet; 100 %)<br>(2)||
+|Fktithi I|Vorlesung Funktionentheorie I|2||5||(3)||(3)|(3)|Klausur max. 90 Min.|1|
+|unoneneore|Übung Funktionentheorie I|2||||(2)||(2)|(2)|(benotet; 100 %)|()|
+|Seminar|Seminar||2|5||(5)|(5)|(5)|(5)<br>(5)|(5)<br>Vortrag (90 Min.; unbenotet),<br>schriftliche Ausarbeitung<br>des Vortrags (5-10 Seiten;<br>benotet; 25 %) und<br>mündliche Prüfung (15 Min.;<br>benotet; 75 %)|(1)|
+|**Summe Pflichtmodu**|**le (Lehramt an Gymnasien)**|||**95**||||||||
 
 „ 
 
@@ -117,39 +90,28 @@ aa) In Unterzeile 1 (Didaktik der Mathematik) wird das Wort „Mathematik“ dur
 
 3 
 
-## 4. § 5 wird wie folgt geändert: 
+# 4. § 5 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+# a) Abs. 1 wird wie folgt geändert: 
 
-## aa) Die Tabelle in Satz 1 erhält folgende neue Fassung: 
+# aa) Die Tabelle in Satz 1 erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
-||Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Workload-Verteilung pro Semester in<br>ECTS-Punkten|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||1.|2.|3.|4.|5.|6.|7.|||
-||||V|Ü|P|S|T|||||||||||
-|**Pflichtmodule (Lehramt an Grund-, Mittel- und Realschulen)**|Elemente der Linearen Al-<br>gebra I1|Vl Elt d||||||||||||||Klausur max. 180 Min.<br>und Hausaufgaben (wöchentlich 1<br>Übungsblatt) (unbenotet)|0|
-|||oresung emene er<br>Linearen Alebra I|3||||||4|||||||||
-|||g||||||5||||||||||
-|||Übung Elemente der<br>Linearen Algebra I||||||||||||||||
-|||||1|||||1|||||||||
-|||||||||||||||||||
-||Elemente der Linearen Al-<br>gebra IIa2|Vorlesung Elemente der<br>Linearen Algebra II|4|||||5||6||||||Klausur max. 180 Min. (benotet; 100 %)|1|
-||Elemente der Linearen Al-<br>gebra IIb2|Übung Elemente der<br>Linearen Algebra II||2||||5||4||||||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-||Elemente der Analysis I2<br>|Vorlesung Elemente der<br>Analysis I|3|||||5||4||||||Klausur max. 180 Min.<br>und Hausaufgaben (wöchentlich 1<br>Übungsblatt) (unbenotet)|0|
-|||Übung Elemente der<br>Analysis I||||||||||||||||
-|||||1||||||1||||||||
-|||||||||||||||||||
-||Elemente der Analysis IIa~~1~~|Vorlesung Elemente der<br>Analysis II|4|||||5|||6|||||Klausur max. 180 Min. (benotet; 100 %)|1|
-||Elemente der Analysis IIb1|Übung Elemente der<br>Analysis II||2||||5|||4|||||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
-||Analytische Geometrie1|Vorlesung Analytische<br>Geometrie|2|||||5|||3|||||Klausur max. 180 Min. (benotet; 100 %)<br>und Hausaufgaben (wöchentlich 1<br>Übungsblatt) (unbenotet)|1|
-|||Übung Analytische<br>Geometrie||||||||||||||||
-|||||2|||||||2|||||||
-|||||||||||||||||||
-||Aufbaumodul Analysis2|Vorlesung Elemente der<br>Analysis III|3|||||5||||3||||Klausur max. 180 Min. (benotet; 100 %)|1|
-|||Übung Elemente der<br>Analysis III||1||||||||2||||||
-|||||||||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|V<br>Ü|SWS<br>P<br>S|Gesamt<br>ECTS<br>T|Workload-<br>1.<br>2.|Verteilu<br>ECTS-<br>3.|ng pro Semester in<br>Punkten<br>Art und Umfang der Prüfung/<br>Studienleistung<br>4.<br>5.<br>6.<br>7.|Faktor<br>Modul-<br>note|
+|---|---|---|---|---|---|---|---|---|
+|Elemente der Linearen Al-<br>ebra I<sup>1</sup>|Vorlesung Elemente der<br>Linearen Algebra I|3||5|4||Klausur max. 180 Min.<br>und Hausaufaben (wöchentlich 1|0|
+|**len)**<br>g|Übung Elemente der<br>Linearen Algebra I|1|||1||g<br>Übungsblatt) (unbenotet)||
+|**ealschu**<br>Elemente der Linearen Al-<br>gebra IIa<sup>2</sup>|Vorlesung Elemente der<br>Linearen Algebra II|4||5|6||Klausur max. 180 Min. (benotet; 100 %)|1|
+|**und R**<br>Elemente der Linearen Al-<br>gebra IIb<sup>2</sup>|Übung Elemente der<br>Linearen Algebra II|2||5|4||Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
+|**Mittel-**<br>Elemente der Analysis I<sup>2</sup>|Vorlesung Elemente der<br>Analysis I|3||5|4||Klausur max. 180 Min.<br>und Hausaufaben (wöchentlich 1|0|
+|**nd-,**|Übung Elemente der<br>Analysis I|1|||1||g<br>Übungsblatt) (unbenotet)||
+|**an Gru**<br>Elemente der Analysis IIa<sup>~~1~~</sup>|Vorlesung Elemente der<br>Analysis II|4||5||6|Klausur max. 180 Min. (benotet; 100 %)|1|
+|**ramt**<br>Elemente der Analysis IIb<sup>1</sup>|Übung Elemente der<br>Analysis II|2||5||4|Hausaufgaben (wöchentlich 1 Übungs-<br>blatt) (unbenotet)|0|
+|**e (Leh**<br>Analytische Geometrie<sup>1</sup>|Vorlesung Analytische<br>Geometrie|2||5||3|Klausur max. 180 Min. (benotet; 100 %)<br>und Hausaufaben (wöchentlich 1|1|
+|**odul**|Übung Analytische<br>Geometrie|2||||2|g<br>Übungsblatt) (unbenotet)||
+|**flichtm**<br>Aufbaumodul Analysis<sup>2</sup>|Vorlesung Elemente der<br>Analysis III|3||5|||3<br>Klausur max 180 Min (benotet 100 %)|1|
+|**P**|Übung Elemente der<br>Analysis III|1|||||.  . ;<br>2||
 
 „ 
 
@@ -159,7 +121,7 @@ aa) In Unterzeile 1 (Didaktik der Mathematik) wird das Wort „Mathematik“ dur
 
    - „ 
 
-Art und Umfang der Prüfung/ Studienleistung Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75 %), schriftliche Ausarbeitung des Vortrags (max. 10 Seiten; benotet; 25 %) Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75%), schriftliche Ausarbeitung des Vortrags (max. 10 Seiten; benotet; 25 %) Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75%), schriftliche Ausarbeitung des Vortrags (max. 10 Seiten; benotet; 25 %) 
+Art und Umfang der Prüfung/ Studienleistung Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75 %), schriftliche Ausarbeitung des Vortrags (max. 10 <u>Seiten; benotet; 25 %)</u> Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75%), schriftliche Ausarbeitung des Vortrags <u>(max. 10 Seiten; benotet; 25 %)</u> Klausur max. 90 Min. (benotet; 100 %) Vortrag (90 Min.; benotet; 75%), schriftliche Ausarbeitung des Vortrags (max. 10 Sei- <u>ten; benotet; 25 %)</u> 
 
    - „ 
 

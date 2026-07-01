@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 07.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Japan.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:03:13+00:00
-page_count_chars: 6031
+scraped_at: 2026-07-01T10:22:37+00:00
+page_count_chars: 5905
 ---
 
 # PDF vom 04.10.2007 i.d.F. 07.07.2014
@@ -16,7 +16,7 @@ page_count_chars: 6031
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -40,7 +40,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Japanologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Fach Japanologie erwerben die Studierenden eine hohe sprachliche und interkulturelle Kompetenz, die zu einer fundierten kulturwissenschaftlichen Beschäftigung mit dem Untersuchungsgegenstand Japan befähigen soll.[2] Die fachwissenschaftliche Ausbildung gewährleistet die Vermittlung methodischer Kompetenzen und leitet zu eigenständigem, reflektierten wissenschaftlichen Arbeiten an.[3] Inhaltliche Schwerpunkte des Bachelorstudiengangs Japanologie sind Literatur und Theater von der Frühmoderne bis zur Gegenwart sowie Filmstudien. 
+(2)<sup>1</sup> Im Fach Japanologie erwerben die Studierenden eine hohe sprachliche und interkulturelle Kompetenz, die zu einer fundierten kulturwissenschaftlichen Beschäftigung mit dem Untersuchungsgegenstand Japan befähigen soll.<sup>2</sup> Die fachwissenschaftliche Ausbildung gewährleistet die Vermittlung methodischer Kompetenzen und leitet zu eigenständigem, reflektierten wissenschaftlichen Arbeiten an.<sup>3</sup> Inhaltliche Schwerpunkte des Bachelorstudiengangs Japanologie sind Literatur und Theater von der Frühmoderne bis zur Gegenwart sowie Filmstudien. 
 
 (3) Das Studium der Japanologie gliedert sich wie folgt: 
 
@@ -54,7 +54,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
@@ -70,41 +70,34 @@ Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 2 
 
-## **Anlage: Studienverlaufsplan Bachelor Japanologie** 
+### **<u>Anlage: Studienverlaufsplan Bachelor Japanologie</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||||||||||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||Gesamt<br>|Workload-Verteilung<br>||||||||
-|||||||ECTS|pro Semester in|||ECTS-Punkten|||Art und Umfang der Prüfung/<br>Stdilit||
-|||V|||||||||||||
-||||Ü|S|P||1.|2.|3.|4.|5.|6.|uenesung||
-||||||||||||||||
-|**Japanisch 1**|Sprachkurs||8|||10|10||||||Portfolioprüfung:<br>Klausur (90‘, 80 %) und<br>Mündliche Prüfung (15‘, 20 %)|0|
-|**Japanisch 2**|Sprachkurs||8|||10||10|||||Portfolioprüfung:<br>Klausur (90‘, 80 %) und<br>Mündliche Prüfung (15‘, 20 %)|1|
-|**Grundlagen**<br>**Japanologie 1**|V/Ü Geschichte/Kultur|1|1|||5|3||||||Klausur (60‘)|1|
-||EinführungStudium||1||||2||||||||
-|**Grundlagen**<br>**Japanologie 2**|Seminar Geschichte/Kultur|||2||5||5|||||Kurzreferat (ca. 20‘)|1|
-|**Japanisch 3**|Sprachkurs||4|||10|||5||||Portfolioprüfung:<br>Klausur (90‘, 80 %) und<br>Mündliche Prüfung (15‘, 20 %)|1|
-||Sprachkurs||4|||||||5|||||
-|**Japanisch 4**|System.Grammatik||2|||5|||2,5||||Klausur (60‘)|1|
-||Lektüre Moderne Prosa||2|||||||2,5|||||
-|**Grundlagen**<br>**Japanologie 31**|Klassisches Japanisch||2|||5|||3||||Klausur (60‘)|2|
-||Arbeitsmittel||1||||||2||||||
-|**Grundlagen**<br>**Japanologie 41**|Seminar Klassische Lektüre|||2||5||||5|||Hausarbeit (ca. 5-10 S.)|2|
-|**Japanische Literatur**<br>**und Film**|V/Ü Literatur/Film|1|1|||15||||4|||Portfolioprüfung:<br>Klausur (45‘, 20 %) und<br>Rezension (ca. 20‘, 20 %) und<br>Referat undHausarbeit (ca. 15 S., 60 %)|2|
-||Aktuelle Publikationen||2|||||||5|||||
-||Hauptseminar Literatur/Film|||2|||||6||||||
-|**Japanisch 5**|Sprachkurs||4|||10|||||5||Portfolioprüfung:<br>Klausur (90‘, 40 %) und<br>Mündliche Prüfung (15‘, 20 %) und<br>Kurzreferat (ca. 20‘, 40 %)|1|
-||Zeitungslektüre||2|||||||||5|||
-|**Japanisches**<br>**Theater1**|V/Ü Theater|1|1|||10|||||4||Portfolioprüfung:<br>Klausur (45‘, 40%) und<br>Referat undHausarbeit (ca. 15 S., 60 %)|2|
-||Hauptseminar Theater|||2||||||||6|||
-|**Japanologie**<br>**1**||||||||||||1,5|Referat (ca. 30‘)<br>Bachelorarbeit (ca. 40 S.)|2|
-||Oberseminar<br>Wihftlih Päti|||1|||||||||||
-||ssenscaces rseneren|||||10|||||||||
-|**Bachelorarbeit**|Bachelorarbeit|||||||||||8,5|||
-||Summe:<br>|3<br>|43<br>|9<br>||70/100<br>|15<br>|15|18,5|21,5|9|21|||
+|||SWS|Gesamt|Workload-|Verteilun|g||Faktor|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||ECTS|pro Semester in|ECTS-P|unkten|Art und Umfang der Prüfung/<br>|<br>Modul-|
+||<br>V|<br>Ü<br>S<br>P||1.<br>2.<br>3.|4.|5.<br>6.|Studienleistung|note|
+|**Japanisch 1**|Sprachkurs|8|10|10|||Portfolioprüfung:<br>Klausur (90‘, 80 %) und<br>Mündliche Prüfung (15‘, 20 %)|0|
+|**Japanisch 2**|Sprachkurs|8|10|10|||Portfolioprüfung:<br>Klausur (90‘, 80 %) und<br>Mündliche Prüfung (15‘, 20 %)|1|
+|**Grundlagen**|V/Ü Geschichte/Kultur<br>1|1|5|3|||Klausur (60‘)|1|
+|**Japanologie 1**|EinführungStudium|1||2|||||
+|**Grundlagen**<br>**Japanologie 2**|Seminar Geschichte/Kultur|2|5|5|||Kurzreferat (ca. 20‘)|1|
+|**Japanisch 3**|Sprachkurs|4|10|5|||Portfolioprüfung:<br>Klausur (90‘, 80 %) und|1|
+||Sprachkurs|4|||5||<br>Mündliche Prüfung (15‘, 20 %)||
+|**Japanisch 4**|System.Grammatik<br>Lektüre Moderne Prosa|2<br>2|5|2,5|2,5||Klausur (60‘)|1|
+|**Grundlagen**<br>|Klassisches Japanisch|2|5|3|||Kl 60‘|2|
+|**Japanologie 3**<sup>**1**</sup>|Arbeitsmittel|1||2|||ausur ()||
+|**Grundlagen**<br>**Japanologie 4**<sup>**1**</sup>|Seminar Klassische Lektüre|2|5||5||Hausarbeit (ca. 5-10 S.)|2|
+||V/Ü Literatur/Film<br>1|1|||4||Portfolioprüfung:<br>‘||
+|**Japanische Literatur**<br>**und Film**|Aktuelle Publikationen|2|15||5||Klausur (45, 20 %) und<br>Rezension (ca. 20‘, 20 %) und|2|
+||Hauptseminar Literatur/Film|2||6|||<br>Referat undHausarbeit (ca. 15 S., 60 %)||
+|**Jih 5**|Sprachkurs|4|10|||5|Portfolioprüfung:<br>Klausur (90‘, 40 %) und|1|
+|**apansc**|Zeitungslektüre|2||||5|Mündliche Prüfung (15‘, 20 %) und<br>Kurzreferat (ca. 20‘, 40 %)||
+|**Japanisches**|V/Ü Theater<br>1|1||||4|<br>Portfolioprüfung:<br>‘||
+|<br>**Theater**<sup>**1**</sup>|Hauptseminar Theater|2|10|||6|Klausur (45, 40%) und<br>Referat undHausarbeit (ca. 15 S., 60 %)|2|
+|**Japanologie**<br><sup>**1**</sup>|Oberseminar<br>Wissenschaftliches Präsentieren|1|10|||1,5|Referat (ca. 30‘)<br>|2|
+|**Bachelorarbeit**<br>|Bachelorarbeit<br>Summe:<br>3<br>|43<br>9<br>|70/100<br>|15<br>15<br>18,5|21,5|8,5<br>9<br>21|Bachelorarbeit (ca. 40 S.)||
 
-> ~~**1**~~ Diese Module sind nur bei der Wahl von Japanologie als Erstfach zu absolvieren. 
+> **~~1~~** Diese Module sind nur bei der Wahl von Japanologie als Erstfach zu absolvieren. 
 
 3 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 28.07.2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/JUR/Ordnung-Diplom-Jurist.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:19:29+00:00
-page_count_chars: 5734
+scraped_at: 2026-07-01T10:37:45+00:00
+page_count_chars: 5791
 ---
 
 # PDF vom 28.07.2005
@@ -16,15 +16,15 @@ page_count_chars: 5734
 
 Aufgrund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 86 Abs. 1 Satz 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Satzung: 
 
-## **Vorbemerkung zum Sprachgebrauch:** 
+#### **Vorbemerkung zum Sprachgebrauch:** 
 
 Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen für weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint. 
 
-## **§ 1 Akademischer Grad** 
+#### **§ 1 Akademischer Grad** 
 
-1Die Friedrich-Alexander-Universität Erlangen-Nürnberg verleiht den akademischen Grad „Diplom-Juristin Univ.“ oder „Diplom-Jurist Univ.“ (abgekürzt: "Dipl.-Jur. Univ.") in der jeweils zutreffenden Sprachform.[2] Darüber stellt die Universität eine Urkunde aus ( **Anlage** ). 
+1Die Friedrich-Alexander-Universität Erlangen-Nürnberg verleiht den akademischen Grad „Diplom-Juristin Univ.“ oder „Diplom-Jurist Univ.“ (abgekürzt: "Dipl.-Jur. Univ.") in der jeweils zutreffenden Sprachform.<sup>2</sup> Darüber stellt die Universität eine Urkunde aus ( **Anlage** ). 
 
-## **§ 2 Berechtigte** 
+#### **§ 2 Berechtigte** 
 
 (1) Der akademische Grad gemäß § 1 wird auf Antrag verliehen. 
 
@@ -32,17 +32,17 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (3) Sofern aufgrund der Ersten Juristischen Staatsprüfung bereits ein gleicher oder vergleichbarer Titel beantragt oder erworben wurde, ist die Verleihung des akademischen Grades nach § 1 ausgeschlossen. 
 
-## **§ 3 Verfahren** 
+#### **§ 3 Verfahren** 
 
-1Der Antrag nach § 2 bedarf der Schriftform. 2Er ist unter Beifügung einer amtlich beglaubigten Fotokopie des Abschlusszeugnisses im Sinne des § 2 an den Dekan der Juristischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg zu richten.[3] Dem Antrag ist die Versicherung an Eides statt beizufügen, dass kein solcher Antrag bei einer anderen Fakultät gestellt ist.[4] Der Antrag muss innerhalb von 
+1Der Antrag nach § 2 bedarf der Schriftform. 2Er ist unter Beifügung einer amtlich beglaubigten Fotokopie des Abschlusszeugnisses im Sinne des § 2 an den Dekan der Juristischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg zu richten.<sup>3</sup> Dem Antrag ist die Versicherung an Eides statt beizufügen, dass kein solcher Antrag bei einer anderen Fakultät gestellt ist.<sup>4</sup> Der Antrag muss innerhalb von 
 
 fünf Jahren nach Bestehen der Ersten Juristischen Staatsprüfung bei der Juristischen Fakultät gestellt werden. 
 
-## **§ 4 Inkrafttreten, Übergangsregelung** 
+#### **§ 4 Inkrafttreten, Übergangsregelung** 
 
-1Diese Ordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie ist auf alle Absolventen anzuwenden, die die Erste Juristische Staatsprüfung seit dem 3. Oktober 1990 (Prüfungstermin 1990/2) bestanden haben.[3] Wer die Erste Juristische Staatsprüfung vor dem Inkrafttreten dieser Ordnung bestanden hat, muss den Antrag nach § 2 spätestens bis zum 31. Dezember 2007 bei der Juristischen Fakultät stellen. 
+1Diese Ordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie ist auf alle Absolventen anzuwenden, die die Erste Juristische Staatsprüfung seit dem 3. Oktober 1990 (Prüfungstermin 1990/2) bestanden haben.<sup>3</sup> Wer die Erste Juristische Staatsprüfung vor dem Inkrafttreten dieser Ordnung bestanden hat, muss den Antrag nach § 2 spätestens bis zum 31. Dezember 2007 bei der Juristischen Fakultät stellen. 
 
-Ausgefertigt auf Grund der Beschlüsse des Senats der Universität ErlangenNürnberg vom 15. Juni 2005 und des Leitungsgremiums vom 27. Juli 2005 gemäß Art. 23 Abs. 4 Satz 1 BayHSchG sowie des mit Schreiben des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst vom 19. Juli 2005 Nr. X/55e91a(BA)-10b/23 440[2] erteilten Einvernehmens. 
+Ausgefertigt auf Grund der Beschlüsse des Senats der Universität ErlangenNürnberg vom 15. Juni 2005 und des Leitungsgremiums vom 27. Juli 2005 gemäß Art. 23 Abs. 4 Satz 1 BayHSchG sowie des mit Schreiben des Bayerischen Staatsministeriums für Wissenschaft, Forschung und Kunst vom 19. Juli 2005 Nr. X/55e91a(BA)-10b/23 440<sup>2</sup> erteilten Einvernehmens. 
 
 Erlangen, den 28. Juli 2005 
 [Kontaktperson entfernt]
@@ -50,9 +50,9 @@ Die Satzung wurde am 28. Juli 2005 in der Universität Erlangen-Nürnberg nieder
 
 **Anlage** zu § 1 der Ordnung zur Verleihung des  akademischer Grades „Diplom-Juristin Univ.“ oder „Diplom-Jurist Univ.“ an der Friedrich-Alexander-Universität Erlangen-Nürnberg 
 
-## Friedrich-Alexander-Universität Erlangen-Nürnberg Juristische Fakultät 
+### Friedrich-Alexander-Universität Erlangen-Nürnberg Juristische Fakultät 
 
-## **Diplomurkunde** 
+# **Diplomurkunde** 
 
 Die Friedrich-Alexander-Universität Erlangen-Nürnberg verleiht mit dieser Urkunde 
 
@@ -70,7 +70,7 @@ Erlangen, den....................... (Siegel)
 
 ..................................................... Dekan 
 
-## _**Begründung:**_ 
+#### **_Begründung:_** 
 
 Diese Satzung regelt auf der Grundlage von Art. 86 Abs. 1 Satz 2 BayHSchG die Verleihung des akademischen Grades Diplom-Jurist Univ. an Absolventen des rechtswissenschaftlichen Studiums, die unmittelbar vor der Abschlussprüfung an der Universität Erlangen-Nürnberg studiert haben, und das Studium der Rechtswissenschaften mit dem Bestehen der Ersten Juristischen **Staatsprüfung** im Zeitraum im Zeitraum vom 3. Oktober 1990 - dem Tag der deutschen Wiedervereinigung - an abgeschlossen haben. Die Regelung gilt **nicht** für Absolventen, die künftig, d.h. nicht vor dem Prüfungstermin 2007/1, die Erste Juristische Prüfung ablegen. Für diesen Personenkreis ist der Erwerb des akademischen Grades durch § 2 der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung vom 14. Oktober 2004 (KWMBl II S. 2933) geregelt. 
 

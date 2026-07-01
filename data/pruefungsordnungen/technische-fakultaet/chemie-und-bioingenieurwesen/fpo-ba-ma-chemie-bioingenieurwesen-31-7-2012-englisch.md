@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF 31st of July 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/pdf-englisch/FPO-BA-MA-Chemie-Bioingenieurwesen-31-7-2012_englisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:19+00:00
-page_count_chars: 22768
+scraped_at: 2026-07-01T11:21:40+00:00
+page_count_chars: 23201
 ---
 
 # PDF 31st of July 2012
@@ -22,35 +22,35 @@ amended by statutes of 02 December 2009 06 May 2010 07 July 2010 07 June 2011 30
 
 Based on Section 13 (1)(2), Section 43 (5)(2), Section 61 (2)(1) of the Bavarian Higher Education Act (Bayerisches Hochschulgesetz, BayHSchG) in conjunction with Section 57 QualV (Qualification Regulations for Studies at Public Universities in Bavaria), the University of Erlangen-Nürnberg enacts the following examination regulations: 
 
-## **Part I: General Conditions** 
+# **Part I: General Conditions** 
 
-## **Section 35 Scope** 
+# **Section 35 Scope** 
 
 1The degree programme and examination regulations cover examinations for the Bachelor's and Master's degree programme in Chemical and Biological Engineering. 2They complement the General Examination Regulations for the Bachelor's and Master's Degree Programmes of the Faculty of Engineering at the University of ErlangenNürnberg as amended from time to time. 
 
-## **Section 36 Bachelor's Degree Programme, Standard Duration of Studies and Language** 
+# **Section 36 Bachelor's Degree Programme, Standard Duration of Studies and Language** 
 
 (1) The standard duration of studies for the Bachelor's degree Chemical and Biological Engineering shall be six semesters, including the period for the Bachelor's thesis and six weeks of industrial internship. 
 
-(2)[1] The language of instruction and examination for the Bachelor's degree programme shall generally be German.[2] Deviations from this shall be subject to the Examination Committee's approval. 
+(2)<sup>1</sup> The language of instruction and examination for the Bachelor's degree programme shall generally be German.<sup>2</sup> Deviations from this shall be subject to the Examination Committee's approval. 
 
 1 
 
-## **Section 37 Master's Degree Programme, Standard Duration of Studies and Lan-** 
+# **Section 37 Master's Degree Programme, Standard Duration of Studies and Lan-** 
 
-## **guage** 
+# **guage** 
 
 (1) The Master's degree programme in Chemical and Biological Engineering shall include a three weeks' project development course, seven weeks' industrial internship and a period for the Master's thesis. 
 
 (2) The standard duration of studies for the Master's degree programme Chemical and Biological Engineering shall be four semesters. 
 
-(3)[1] The language of instruction for the Master's degree programme shall be German and/or English.[2] The examination language for written examinations and coursework shall be German or English, and, in exceptional cases, bilingual .[3] For oral examinations, students may choose between German and English as the examination language. 
+(3)<sup>1</sup> The language of instruction for the Master's degree programme shall be German and/or English.<sup>2</sup> The examination language for written examinations and coursework shall be German or English, and, in exceptional cases, bilingual .<sup>3</sup> For oral examinations, students may choose between German and English as the examination language. 
 
-## **Part II: Special Provisions** 
+# **Part II: Special Provisions** 
 
-## **1. Bachelor's Examination** 
+# **1. Bachelor's Examination** 
 
-## **Section 38 Scope of the Preliminary Examination (Grundlagen- und Orientierungsprüfung)** 
+# **Section 38 Scope of the Preliminary Examination (Grundlagen- und Orientierungsprüfung)** 
 
 (1) The preliminary examination (Grundlagen und Orientierungsprüfung, GOP) shall consist of the modules set forth in **Appendix 1** 
 
@@ -70,7 +70,7 @@ Based on Section 13 (1)(2), Section 43 (5)(2), Section 61 (2)(1) of the Bavarian
 
 (2) The preliminary examination shall have been passed if at least 30 ECTS credits (from a total of 40 ECTS credits) have been earned from the modules listed in Paragraph 1. 
 
-## **Section 39 Scope and Structure of the Bachelor's Examination** 
+# **Section 39 Scope and Structure of the Bachelor's Examination** 
 
 (1) The Bachelor's examination shall consist of: 
 
@@ -138,19 +138,19 @@ x) B30: Elective compulsory module
 
 (4) The industrial internship (six weeks) shall fulfil the guidelines for work experience in Chemical and Biological Engineering. 
 
-## **Section 40 Bachelor's Thesis** 
+# **Section 40 Bachelor's Thesis** 
 
-(1)[1] The Bachelor's thesis enables students to learn to solve problems independently in the field of chemical and biological engineering.[2] The tasks and objectives of the thesis project shall be such that it can completed with a workload of approximately 360 hours.[3] The results of the Bachelor's thesis shall be presented in a presentation with a maximum length of 30 minutes followed by a discussion.[4] The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Bachelor's thesis or during the final stage of thesis work.[5] 12 ECTS credits shall be awarded for the Bachelor's thesis and 3 ECTS credits shall be awarded for the presentation. 
+(1)<sup>1</sup> The Bachelor's thesis enables students to learn to solve problems independently in the field of chemical and biological engineering.<sup>2</sup> The tasks and objectives of the thesis project shall be such that it can completed with a workload of approximately 360 hours.<sup>3</sup> The results of the Bachelor's thesis shall be presented in a presentation with a maximum length of 30 minutes followed by a discussion.<sup>4</sup> The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Bachelor's thesis or during the final stage of thesis work.<sup>5</sup> 12 ECTS credits shall be awarded for the Bachelor's thesis and 3 ECTS credits shall be awarded for the presentation. 
 
 (2) The subject of the Bachelor's thesis shall be allocated by a full-time university lecturer teaching Chemical and Biological Engineering at the Faculty of Engineering 
 
 (3) The Bachelor's thesis shall be written in German or English. 
 
-## **2. Master's Degree Programme** 
+# **2. Master's Degree Programme** 
 
-## **Section 41 Qualification for a Master's Degree Programme, Certificates and Admission Requirements** 
+# **Section 41 Qualification for a Master's Degree Programme, Certificates and Admission Requirements** 
 
-(1)[1] A subject-specific degree within the context of Section 29 (1)(1) ABMPO/TechFak shall be a Bachelor's degree in chemical and biological engineering that is equivalent according to these examination regulations.[2] Applicants with a subject-related degree or a non-equivalent degree shall only be admitted to the Master's degree programme after passing an oral admission examination according to Paragraph 3. 
+(1)<sup>1</sup> A subject-specific degree within the context of Section 29 (1)(1) ABMPO/TechFak shall be a Bachelor's degree in chemical and biological engineering that is equivalent according to these examination regulations.<sup>2</sup> Applicants with a subject-related degree or a non-equivalent degree shall only be admitted to the Master's degree programme after passing an oral admission examination according to Paragraph 3. 
 
 3 
 
@@ -166,9 +166,9 @@ x) B30: Elective compulsory module
 
 - prognosis based on improving performance over the course of the studies so far 
 
-## **Section 42 Master's Examination, Admission Requirements for the Master's** 
+# **Section 42 Master's Examination, Admission Requirements for the Master's** 
 
-## **Thesis** 
+# **Thesis** 
 
 - (1) In order to commence with the Master's thesis (Module **M16** in **Appendix 3** ), students shall be required to: 
 
@@ -180,19 +180,19 @@ x) B30: Elective compulsory module
 
 4. submit proof of a total of seven weeks' industrial internship recognised by the Work Placement Office (Praktikumsamt) according to the work experience guidelines (module **M15** in **Appendix 3** ) 
 
-(2)[1] The elective modules (M5 to M9) shall be chosen from the relevant module catalogue, which shall be published according to local practice at the beginning of every semester.[2] A special catalogue of elective modules shall apply to Campus Busan; it shall be announced according to local practice at the beginning of every semester. 3The remaining specialization and supplementary modules may also fulfil the function of further elective modules.[4] Other elective modules which fit into the context of the degree programme may be approved by the Examinations Committee upon the student's request. 
+(2)<sup>1</sup> The elective modules (M5 to M9) shall be chosen from the relevant module catalogue, which shall be published according to local practice at the beginning of every semester.<sup>2</sup> A special catalogue of elective modules shall apply to Campus Busan; it shall be announced according to local practice at the beginning of every semester. 3The remaining specialization and supplementary modules may also fulfil the function of further elective modules.<sup>4</sup> Other elective modules which fit into the context of the degree programme may be approved by the Examinations Committee upon the student's request. 
 
-## **Section 43 Master's Thesis** 
+# **Section 43 Master's Thesis** 
 
-(1)[1] The topic of the Master's thesis shall be allocated by a full-time university lecturer teaching Chemical and Biological Engineering at the Faculty of Engineering 2Deviations from this shall be subject to the Examination Committee's approval. 
+(1)<sup>1</sup> The topic of the Master's thesis shall be allocated by a full-time university lecturer teaching Chemical and Biological Engineering at the Faculty of Engineering 2Deviations from this shall be subject to the Examination Committee's approval. 
 
-(2)[1] The results of the Master's thesis shall be presented in a presentation with a maximum length of 30 minutes followed by a discussion.[2] The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Master's thesis or during the final stage of thesis work.[3] 27 ECTS credits shall be awarded for the thesis and 3 ECTS credits shall be awarded for the presentation. 
+(2)<sup>1</sup> The results of the Master's thesis shall be presented in a presentation with a maximum length of 30 minutes followed by a discussion.<sup>2</sup> The date of the presentation shall be determined by the supervising lecturer either after the student has submitted their Master's thesis or during the final stage of thesis work.<sup>3</sup> 27 ECTS credits shall be awarded for the thesis and 3 ECTS credits shall be awarded for the presentation. 
 
 (3) The Master's thesis shall be written in German or English. 
 
 4 
 
-## **Section 44 Degree Certificate** 
+# **Section 44 Degree Certificate** 
 
 The degree certificate shall list modules M1 to M14 and module M16 with: 
 
@@ -206,101 +206,102 @@ The degree certificate shall list modules M1 to M14 and module M16 with:
 
 and the corresponding grades. 
 
-## **III. Transitory and Final Provisions** 
+# **III. Transitory and Final Provisions** 
 
-**Section 45 Legal Validity and Transitory Provisions** (1)[1] These degree programme regulations shall come into effect on the day after their publication.[2] They shall apply to all students who enter the degree programme in the winter semester 2008/2009 or later. 
+# **Section 45 Legal Validity and Transitory Provisions** 
 
-(2)[1] All students studying a Diplom, Bachelor's or Master's degree programme in Chemical and Biological Engineering at the University of Erlangen-Nürnberg in the winter semester 2008/09 shall complete their studies under the Degree Programme and Examination Regulations for the Diplom Degree Programme Chemical and Biological Engineering (FPOCBI-Diplom) from 17 November 2004 or the Degree Programme and Examination Regulations for the Bachelor's and Master's Degree Programme Chemical and Biological Engineering (FPOCBI) from 01 February 2005. 
+(1)<sup>1</sup> These degree programme regulations shall come into effect on the day after their publication.<sup>2</sup> They shall apply to all students who enter the degree programme in the winter semester 2008/2009 or later. 
 
-(3)[1] The Preliminary (Vordiplom) and Diplom examinations for students of the Diplom degree programme shall be held for the last time in the following examination periods: 
+(2)<sup>1</sup> All students studying a Diplom, Bachelor's or Master's degree programme in Chemical and Biological Engineering at the University of Erlangen-Nürnberg in the winter semester 2008/09 shall complete their studies under the Degree Programme and Examination Regulations for the Diplom Degree Programme Chemical and Biological Engineering (FPOCBI-Diplom) from 17 November 2004 or the Degree Programme and Examination Regulations for the Bachelor's and Master's Degree Programme Chemical and Biological Engineering (FPOCBI) from 01 February 2005. 
+
+(3)<sup>1</sup> The Preliminary (Vordiplom) and Diplom examinations for students of the Diplom degree programme shall be held for the last time in the following examination periods: 
 
 1. Preliminary examination after the summer semester 2010 
 
 2. Diplom examination after the summer semester 2014 
 
-2The Bachelor's examination for the students studying under FPOCBI from 01 February 2005 shall be held for the last time at the beginning of the lecture period of the summer semester 2013.[3] The last Master's examination for the students who started the degree programme before these degree programme and examination regulations came into effect shall be held at the beginning of the lecture period of the summer semester 2011.[4] Examinations after these examination periods shall be conducted according to these degree programme and examination regulations. 
+2The Bachelor's examination for the students studying under FPOCBI from 01 February 2005 shall be held for the last time at the beginning of the lecture period of the summer semester 2013.<sup>3</sup> The last Master's examination for the students who started the degree programme before these degree programme and examination regulations came into effect shall be held at the beginning of the lecture period of the summer semester 2011.<sup>4</sup> Examinations after these examination periods shall be conducted according to these degree programme and examination regulations. 
 
 (4) At the same time as these degree programme and examination regulations come into effect, subject to the provision in Paragraph 2, the Degree Programme and Examination Regulations for the Diplom, Bachelor's and Master's Degree Programme Chemical Engineering at the Faculty of Engineering of the University of ErlangenNürnberg (FPOCIW) from 1 December 1998 (KWMBl 1999 II, p. 190), amended by statute from 13 July 1999 (KWMBl II, p. 882) and the Degree Programme and Examination Regulations for the Bachelor's and Master's Degree Programme Chemical and Biological Engineering (FPOCBl) from 1 February 2005 shall cease to be in force. 
 
 5 
 
-**Appendix 1:** Bachelor's degree programme modules with ECTS credits, semester distribution, and type and duration of the examination (continued on next page) 
+## **Appendix 1:** Bachelor's degree programme modules with ECTS credits, semester distribution, and type and duration of the examination (continued on next page) 
 
-|**No.**|**Module**|**Module**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**ECTS**<br>**credits**|**1st sem.**|**2nd sem.**|**3rd sem.**|**4th sem.**|**5th sem.**|**6th sem.**|**Examination duration**<br>**in min.**|**Examination duration**<br>**in min.**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**L**|**T**|**P**||**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**|**oral**|
-|B1|Mathematics for CBI11)|Preliminary<br>Examination<br>(GOP)|4|||7.5|7.5||||||90||
-||Tutorial|||2|||||||||*)||
-|B2|Mathematics for CBI21)|Preliminary<br>Examination<br>(GOP)|4|||7.5||7.5|||||90||
-||Tutorial|||2|||||||||*)||
-|B3|MathematicsforCBI3 1)||4|||7.5|||7.5||||90||
-||Tutorial|||2|||||||||*)||
-|B4|Computational Techniques in<br>Process Engineering1||1|1|1|7.5|2.5||||||90||
-||Computational Techniques in<br>Process Engineering1||2|1|1|||5|||||90||
-|B5|GeneralandInorganic Chemistry|Preliminary<br>Examination<br>(GOP)|4|||7.5|5||||||180||
-||Practical||||2||2.5||||||*)||
-||Practical Introduction||1||||||||||||
-|B6|Organic Chemistry||4|1||7.5|||5||||180||
-||Practical||||3||||2.5||||*)||
-|B7|Physical Chemistry||2|1||10||5|||||90||
-||Practical||||6||||2.5|2.5|||*)||
-|B8|Chemical Thermodynamics||2|1||5||||5|||90||
-|B9|Biochemistry 1||2|||5|||2.5||||60||
-||Biochemistry2||2|||||||2.5|||60||
-|B10|Microbiology||3|||2.5|||2.5||||90||
-|B11|Process Automation||2|1||2.5|||||2.5||*)||
-|B12|Materials Science||2|||2.5||2.5|||||*)||
-|B13|Biochemical Practical||||3|2.5||||2.5|||*)||
-|B14|Experimental Physics|Preliminary|4|1||7.5|7.5||||||120||
+|**No.**|**Module**||**SWS (hours**<br>**per week)**||**1**<sup>**st**</sup>**sem.**<br>|**2**<sup>**nd**</sup>**sem. 3**<sup>**rd**</sup>**sem.**<br> <br>|**4**<sup>**th**</sup>**sem.**<br>|**5**<sup>**th**</sup>**sem.**<br>|**6**<sup>**th**</sup>**sem.**<br>|**Examination duration**<br>**in min.**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||||**L**<br>**T**<br>**P**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**<br>**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**<br>**oral**|
+||Mathematics for CBI1<sup>1)</sup>|Preliminary<br>|4|||||||90|
+|B1||Examination||7.5|7.5|||||*|
+||Tutorial|(GOP)|2|||||||)|
+||Mathematics for CBI2<sup>1)</sup>|Preliminary<br>|4|||||||90|
+|B2||Examination||7.5||7.5|||||
+||Tutorial|(GOP)|2|||||||*)|
+|B3|MathematicsforCBI3 <sup>1)</sup>||4|7.5||7.5||||90|
+||Tutorial||2|||||||*)|
+|B4|Computational Techniques in<br>Process Engineering1||1<br>1<br>1|75|2.5|||||90|
+||Computational Techniques in<br>Process Engineering1||2<br>1<br>1|.||5||||90|
+||GeneralandInorganic Chemistry|Preliminary|4||5|||||180|
+|B5|Practical|Examination<br>|2|7.5|25|||||*|
+||Practical Introduction|(GOP)|1||.|||||)|
+|B6|Organic Chemistry||4<br>1|75||5||||180|
+||Practical||3|.||2.5||||*)|
+||Physical Chemistry||2<br>1|||5||||90|
+|B7|Practical||6|10||2.5|2.5|||*)|
+|B8|Chemical Thermodynamics||2<br>1|5|||5|||90|
+|B9|Biochemistry 1||2|5||2.5||||60|
+||Biochemistry2||2||||2.5|||60|
+|B10|Microbiology||3|2.5||2.5||||90|
+|B11|Process Automation||2<br>1|2.5||||2.5||*)|
+|B12|Materials Science||2|2.5||2.5||||*)|
+|B13|Biochemical Practical||3|2.5|||2.5|||*)|
+|B14|Experimental Physics|Preliminary|4<br>1|7.5|7.5|||||120|
 
 6 
 
-|**No.**|**Module**|**Module**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**ECTS**<br>**credits**|**1st sem.**|**2nd sem.**|**3rd sem.**|**4th sem.**|**5th sem.**|**6th sem.**|**Examination duration**<br>**in min.**|**Examination duration**<br>**in min.**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**L**|**T**|**P**||**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**|**oral**|
-|||Examination<br>(GOP)|||||||||||||
-|~~1)~~The equivalency of the Mathematics modules in the degree programmes of the Faculty of Engineering shall be announced according to local practice.|||||||||||||||
-|*): pass/fail coursework|||||||||||||||
-|B15|Metrology and Instrumental Analysis|Preliminary<br>Examination<br>(GOP)|2|1|2|5||5|||||*)||
-|B16|Chemical and Biological Process Tech-<br>nologywith IntroductoryProject||2||3|5||5|||||*)||
-|B17|Introduction to Thermofluid Dynamics|Preliminary<br>Examination<br>(GOP)|3|2||5|5||||||*)||
-|B18|Heat and Mass Transfer||2|1||2.5||||2.5|||*)||
-|B19|Statics and Mechanics of Materials||3|2||7.5|||7.5||||90||
-|B20|Plant Design||2|1||5||||5|||120||
-|B21|Technical Drawing|||3||2.5||2.5|||||*)||
-|B22|Interfaces in Process Engineering||2|1||2.5||||2.5|||*)||
-||Bioreaction and Bioprocess Engineering||2|1||||||||||30|
-|B23|Practical||||1|5|||||5||*)||
-||Particle Technology||2|1|||||||||120||
-|B24|Practical||||1|5|||||5||*)||
-|B25|Process Machinery and Plant Technolo-<br>gy||2|1||5||||||5|120||
-||Practical||||1||||||||*)||
-||Reaction Engineering||2|1|||||||||120||
-|B26|Practical||||1|5||||||5|*)||
-||Fluid Mechanics||2|1|||||||||120||
-|B27|Practical||||1|5||||5|||*)||
-||Technical Thermodynamics||2|1|||||||||120||
-|B28|Practical||||1|5|||||5||*)||
-||Separation Processes||2|1|||||||||120||
-|B29|Practical||||1|5|||||5||*)||
-|B30|Elective module||2|1||5||||||5|see Appen-||
+||||**SWS (hours**<br>**per week)**||**1**<sup>**st**</sup>**sem**|**2**<sup>**nd**</sup>**sem 3**<sup>**rd**</sup>**sem**|**4**<sup>**th**</sup>**sem**|**5**<sup>**th**</sup>**sem**|**6**<sup>**th**</sup>**sem**|**Examination**<br>**in mi**|**duration**<br>**n**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**No.**|**Module**||||**.**<br>|**. .**<br> <br>|**.**<br>|**.**<br>|**.**<br>||**.**|
+||||**L**<br>**T**<br>**P**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**<br>**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**|**oral**|
+|~~1)~~The eq<br>*): pass/f|uivalency of the Mathematics modules in th<br>ail coursework|Examination<br>(GOP)<br>e degree progr<br>Preliminary|ammes of the Fa|culty of En|gineering s|hall be announced acc|ording to l|ocal practic|e.|||
+|B15|Metrology and Instrumental Analysis|Examination<br>(GOP)|2<br>1<br>2|5||5||||*)||
+|B16|Chemical and Biological Process Tech-<br>nologywith IntroductoryProject||2<br>3|5||5||||*)||
+|B17|Introduction to Thermofluid Dynamics|Preliminary<br>Examination<br>(GOP)|3<br>2|5|5|||||*)||
+|B18|Heat and Mass Transfer||2<br>1|2.5|||2.5|||*)||
+|B19|Statics and Mechanics of Materials||3<br>2|7.5||7.5||||90||
+|B20|Plant Design||2<br>1|5|||5|||120||
+|B21|Technical Drawing||3|2.5||2.5||||*)||
+|B22|Interfaces in Process Engineering||2<br>1|2.5|||2.5|||*)||
+|B23|Bioreaction and Bioprocess Engineering||2<br>1|5||||5|||30|
+||Practical||1|||||||*)||
+|B24|Particle Technology||2<br>1|5||||5||120||
+||Practical||1|||||||*)||
+|B25|Process Machinery and Plant Technolo-<br>gy||2<br>1|5|||||5|120||
+||Practical||1|||||||*)||
+|B26|Reaction Engineering||2<br>1|5|||||5|120||
+||Practical||1|||||||*)||
+|B27|Fluid Mechanics<br>Practical||2<br>1<br>1|5|||5|||120<br>*)||
+|B28|Technical Thermodynamics||2<br>1|5||||5||120||
+||Practical||1|||||||*)||
+|B29|Separation Processes<br>Practical||2<br>1<br>1|5||||5||120<br>*)||
+|B30|Elective module||2<br>1|5|||||5|see Appen-||
 
 7 
 
-|**No.**|**Module**|**Module**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**SWS (hours**<br>**per week)**|**ECTS**<br>**credits**|**1st sem.**|**2nd sem.**|**3rd sem.**|**4th sem.**|**5th sem.**|**6th sem.**|**Examination duration**<br>**in min.**|**Examination duration**<br>**in min.**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**L**|**T**|**P**||**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**|**oral**|
-||||||||||||||dix 2||
-||Practical||||1||||||||*)||
-|B31|Industrial Internship (6 weeks)|||||7.5|||||7.5||||
-|B32|Bachelor's thesis|||||15||||||12|||
-||Presentation|||||||||||3|||
-||Total SWS(semester hours)||76|31|29||||||||||
-||Total ECTS credit<br>|40<br>||||180<br>|30<br>|32.5<br>|27.5<br>|30<br>|30<br>|30<br>|||
+|**No.**|**Module**||**SWS (hours**<br>**per week)**||**1**<sup>**st**</sup>**sem.**<br>|**2**<sup>**nd**</sup>**sem. 3**<sup>**rd**</sup>**sem.**<br> <br>|**4**<sup>**th**</sup>**sem.**<br>|**5**<sup>**th**</sup>**sem.**<br>|<br>**6**<sup>**th**</sup>**sem.**<br>|**Examinatio**<br>**in m**|**n duration**<br>**in.**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||**L**<br>**T**<br>**P**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**<br>**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**written**|**oral**|
+|||||||||||dix 2||
+||Practical||1|||||||*)||
+|B31|Industrial Internship (6 weeks)|||7.5||||7.5||||
+|B32|Bachelor's thesis|||15|||||12|||
+||Presentation||||||||3|||
+||Total SWS(semester hours)||76<br>31<br>29|||||||||
+||Total ECTS credit<br>|40<br>||180<br>|30<br>|32.5<br>27.5<br>|30<br>|30<br>|30<br>|||
 
-> ~~1)~~ The equivalency of the Mathematics modules in the degree programmes of the Faculty of Engineering shall be announced according to local practice. 
+> ~~1)~~ <mark>The equivalency of the Mathematics modules in the degree programmes of the Faculty of Engineering shall be announced according to local practice.</mark> 
 
-*): pass/fail coursework 
+<mark>*): pass/fail coursework</mark> 
 
 8 
 
@@ -313,11 +314,12 @@ and the corresponding grades.
 
 9 
 
-**Appendix 3:** Master's degree programme modules with ECTS credits, semester distribution and examination type. The hours per week (SWS) listed are approximate values. 
+**Appendix 3:** Master's degree programme modules with ECTS credits, semester distribution and examination type. The hours per week <u>(SWS) listed are approximate values.</u> 
 
-|**No.**|**Module**|**SWS**|**SWS**|**SWS**|**ECTS**<br>**credits**|**1**~~**st**~~**sem.**|**2**~~**nd**~~**sem.**|**3**~~**rd**~~**sem.**|**4**~~**th**~~**sem.**|**Examination dura-**<br>**tion in min.**|
+||**Module**||**SWS**|||**1**<sup>**~~st~~**</sup>**sem.**<br>|**2**<sup>**~~nd~~**</sup>**sem.**<br>|**3**<sup>**~~rd~~**</sup>**sem.**<br>|**4**<sup>**~~th~~**</sup>**sem.**<br>|**Examination dura-**<br>|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**||**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**||
+||||||**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**tion in min.**|
+|**No.**||**L**|**T**|**P**|**credits**|**credits**|**credits**|**credits**|**credits**||
 |M1|1. Specialization module|3|1||7.5|5||||120 or 30 **)|
 ||Practical|||3||2.5||||*)|
 |M2|2. Specialization module|3|1||7.5|5||||120 or 30 **)|
@@ -336,18 +338,19 @@ and the corresponding grades.
 
 10 
 
-|**No.**|**Module**|**SWS**|**SWS**|**SWS**|**ECTS**<br>**credits**|**1**~~**st**~~**sem.**|**2**~~**nd**~~**sem.**|**3**~~**rd**~~**sem.**|**4**~~**th**~~**sem.**|**Examination dura-**<br>**tion in min.**|
+||**Module**||**SWS**||**ECTS**|**1**<sup>**~~st~~**</sup>**sem.**<br>**ECTS**|**2**<sup>**~~nd~~**</sup>**sem.**<br>**ECTS**|**3**<sup>**~~rd~~**</sup>**sem.**<br>**ECTS**|**4**<sup>**~~th~~**</sup>**sem.**<br>**ECTS**|**Examination dura-**<br>|
 |---|---|---|---|---|---|---|---|---|---|---|
-|||**L**|**T**|**P**||**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**|**ECTS**<br>**credits**||
+|**No.**||**L**|**T**|**P**|<br>**credits**|<br>**credits**|<br>**credits**|<br>**credits**|<br>**credits**|**tion in min.**|
 |M10|1. Supplementary module|2|1||5|5||||***)**|
 |M11|2. Supplementary module|2|1||5||5|||*)|
 |M12|3. Supplementary module|2|1||5|||5||*)|
 |M13|4. Supplementary module|2|1||5|||5||*)|
-|M14|Project development<br>course|workload approx. 150 h|||5||5|||*)|
-|M15|Industrial Internship|7 weeks|||5|||5|||
-|M16|Master's thesis|workload approx. 900 h|||30||||27||
+|M14|Project development<br>course|workl|oad approx. 1|50 h|5||5|||*)|
+|M15|Industrial Internship||7 weeks||5|||5|||
+|M16|Master's thesis|workl|oad approx. 9|00 h|30||||27||
 ||Presentation||||||||3||
-||Total SWS (hours per<br>week)<br>Total ECTS credits|30|13|18|120|30|30|30|30||
+||Total SWS (hours per<br>week)|30|13|18|||||||
+||Total ECTS credits||||120|30|30|30|30||
 
 *) pass/fail coursework, e.g. in the form of an examination, a presentation or term paper 
 
@@ -359,22 +362,21 @@ and the corresponding grades.
 
 - 4.1 Specialization modules 
 
-## a) Specialization module requirements 
+# <u>a) Specialization module requirements</u> 
 
 1. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme 
 
-2. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme 
+<mark>2. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme</mark> 
 
-3. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme 4. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme 
+3. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme <mark>4. Specialization module on the topic of one of the modules B4 and B23 to B29 of the Bachelor's degree programme</mark> 
 
-## b) Specialization module catalogue 
+# b) Specialization module catalogue 
 
-|b)Specialization module catalogue||
-|---|---|
 |Bachelor's degree module|Master's degree specialization module|
+|---|---|
 |Computational Techniques in Process<br>Engineering1and2|Simulation of Granular and Molecular Systems|
-|Bioreaction and Bioprocess Engineering|Bioreaction and Bioprocess Engineering (Specializa-<br>tion: Animal Cell Technology)|
-||Bioreaction and Bioprocess Engineering<br>(Specialization: MarineBiotechnology)|
+||Bioreaction and Bioprocess Engineering (Specializa-<br>tion: Animal Cell Technology)|
+|Bioreaction and Bioprocess Engineering|<br>Bioreaction and Bioprocess Engineering<br>(Specialization: MarineBiotechnology)|
 ||Bioreaction and Bioprocess Engineering<br>(Specialization Microbial Process Engineering)|
 ||Biological and Environmental Process Engineering<br>(only at Campus Busan)|
 |Particle Technology|Product Engineering (Specialization)|
@@ -385,9 +387,9 @@ and the corresponding grades.
 
 12 
 
-Separation Science and Technology 
+<mark>Separation Science and Technology</mark> 
 
-Separation Science and Technology (Specialisation) 
+<mark>Separation Science and Technology</mark> <u><mark>(Specialisation)</mark></u> 
 
 4.2 Supplementary modules 
 

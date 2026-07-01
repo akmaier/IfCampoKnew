@@ -7,7 +7,8 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:50:24+00:00
+besondere_studienformen: "Zusatzstudien"
+scraped_at: 2026-07-01T08:27:24+00:00
 ---
 
 # Praxisorientiertes Basiswissen BWL (Zertifikat)
@@ -24,6 +25,7 @@ scraped_at: 2026-05-01T06:50:24+00:00
 | Fakultät | Rechts- und Wirtschaftswissenschaftliche Fakultät |
 | Studienbeginn | Wintersemester |
 | Größe | 1-50 |
+| Besondere Studienformen | Zusatzstudien |
 
 ## Worum geht es im Studiengang?
 

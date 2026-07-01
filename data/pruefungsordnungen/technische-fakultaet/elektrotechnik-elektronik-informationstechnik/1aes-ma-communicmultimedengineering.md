@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. Oktober 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AES_MA_CommunicMultimedEngineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:05:53+00:00
-page_count_chars: 1989
+scraped_at: 2026-07-01T11:27:12+00:00
+page_count_chars: 1986
 ---
 
 # 14. Oktober 2013
@@ -14,11 +14,11 @@ page_count_chars: 1989
 
 **Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang Communications and Multimedia Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOCME -** 
 
-## Vom 14. Oktober 2013 
+# Vom 14. Oktober 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedia Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität ErlangenNürnberg - FPOCME - vom 5. August 2011 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Fachprüfungsordnung für den Masterstudiengang Communications and Multimedi
 
 - c) In Zeile 20 (M14), Spalte 11 werden die Worte „PL: Nach Vorgabe des jeweiligen Fachs“ durch die Worte „benotete SL“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 08.07.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Japan.JULI2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:03:20+00:00
-page_count_chars: 5801
+scraped_at: 2026-07-01T10:22:42+00:00
+page_count_chars: 5843
 ---
 
 # PDF vom 04.10.2007 i.d.F. 08.07.2011
@@ -16,7 +16,7 @@ page_count_chars: 5801
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -36,9 +36,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Japanologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-(2)[1] Im Fach Japanologie erwerben die Studierenden eine hohe sprachliche und interkulturelle Kompetenz, die zu einer fundierten kulturwissenschaftlichen Beschäftigung mit dem Untersuchungsgegenstand Japan befähigen soll.[2] Die fachwissenschaftliche Ausbildung gewährleistet die Vermittlung methodischer Kompetenzen und leitet zu eigenständigem, reflektierten wissenschaftlichen Arbeiten an.[3] Inhaltliche Schwerpunkte des Bachelorstudiengangs Japanologie sind Literatur und Theater von der Frühmoderne bis zur Gegenwart. 
+(2)<sup>1</sup> Im Fach Japanologie erwerben die Studierenden eine hohe sprachliche und interkulturelle Kompetenz, die zu einer fundierten kulturwissenschaftlichen Beschäftigung mit dem Untersuchungsgegenstand Japan befähigen soll.<sup>2</sup> Die fachwissenschaftliche Ausbildung gewährleistet die Vermittlung methodischer Kompetenzen und leitet zu eigenständigem, reflektierten wissenschaftlichen Arbeiten an.<sup>3</sup> Inhaltliche Schwerpunkte des Bachelorstudiengangs Japanologie sind Literatur und Theater von der Frühmoderne bis zur Gegenwart. 
 
-- (3) Das Studium der Japanologie gliedert sich wie folgt: 
+(3) Das Studium der Japanologie gliedert sich wie folgt: 
 
 1. Studienphase (1./2. Sem.): Grundkurs Modernes Japanisch (Verstehen, Sprechen, Lesen, Schreiben) sowie Vermittlung von Basiswissen aus den Bereichen Landeskunde, Geschichte, Religionen und Kultur Japans. 
 
@@ -50,13 +50,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-(1) 1Mit dem Fach Japanologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer bis auf Geschichte, Indogermanistik, Ökonomie und Philosophie, kombiniert werden.[2] Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
+(1) 1Mit dem Fach Japanologie können ohne Studienberatung alle geisteswissenschaftlichen Fächer bis auf Geschichte, Indogermanistik, Ökonomie und Philosophie, kombiniert werden.<sup>2</sup> Die Kombination mit den Fächern Informatik und Öffentliches Recht ist ausgeschlossen. 
 
 (2) Im Übrigen gilt § 30 Abs. 5 der ABMStPO/Phil. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-1Für das Studium der Japanologie sind als erstes Fach die Module 1 bis einschließlich 10 (90+10 ECTS-Punkte) erfolgreich abzulegen; als zweites Fach sind die Module 1 bis einschließlich 5, 7 und 9 (70 ECTS-Punkte) erforderlich.[2] Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
+1Für das Studium der Japanologie sind als erstes Fach die Module 1 bis einschließlich 10 (90+10 ECTS-Punkte) erfolgreich abzulegen; als zweites Fach sind die Module 1 bis einschließlich 5, 7 und 9 (70 ECTS-Punkte) erforderlich.<sup>2</sup> Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungsnachweis**|**Faktor für**<br>**Modulnote**|**Faktor**<br>**Ba-Note**|
 |---|---|---|---|---|---|---|---|

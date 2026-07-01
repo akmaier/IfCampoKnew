@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "13. Juni 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_MA-MittelNeuLatein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:34:11+00:00
-page_count_chars: 2701
+scraped_at: 2026-07-01T09:45:22+00:00
+page_count_chars: 2700
 ---
 
 # 13. Juni 2014
@@ -12,13 +12,13 @@ page_count_chars: 2701
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_MA-MittelNeuLatein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOMiLatNeuLat -** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOMiLatNeuLat -** 
 
-## Vom 13. Juni 2014 
+# Vom 13. Juni 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein und Neulatein an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOMiLatNeuLat - vom 8. Juni 2010, zuletzt geändert durch Satzung vom 28. Mai 2013, wird wie folgt geändert: 
 
@@ -26,15 +26,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Mittellatein un
 
    - a) In Abs. 1 Satz 2 wird die Zahl „34“ durch die Zahl „35“ ersetzt. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+b) Abs. 3 wird wie folgt geändert: 
 
-aa)  In Satz 1 wird die Zahl „34“ durch die Zahl „35“ ersetzt. 
-
-   - bb)  In Satz 2 wird das Wort „besitzen“ durch das Wort „besitzt“ ersetzt, nach dem Wort „sie“ die Worte „oder er“ eingefügt und das Wort „verstehen“ durch das Wort „versteht“ ersetzt. 
+   - aa)  In Satz 1 wird die Zahl „34“ durch die Zahl „35“ ersetzt. bb)  In Satz 2 wird das Wort „besitzen“ durch das Wort „besitzt“ ersetzt, nach dem Wort „sie“ die Worte „oder er“ eingefügt und das Wort „verstehen“ durch das Wort „versteht“ ersetzt. 
 
    - cc)  Satz 3 erhält folgende Fassung: 
 
-      - „[3] Im Auswahlgespräch wird die Bewerberin bzw. der Bewerber auf Basis folgender Kriterien beurteilt: 
+      - „<sup>3</sup> Im Auswahlgespräch wird die Bewerberin bzw. der Bewerber auf Basis folgender Kriterien beurteilt: 
 
       1. Kenntnisse in den Bereichen Sprachgeschichte, Literaturgeschichte, Philologie und Schriftgeschichte (Paläographie), jeweils bezogen auf die lateinische Sprache, Literatur und Schrift des Mittelalters (35%), 
 

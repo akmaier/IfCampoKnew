@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.03.2009 i.d.F. 30.05.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Mathematik-MAI2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:14:30+00:00
-page_count_chars: 12628
+scraped_at: 2026-07-01T08:42:12+00:00
+page_count_chars: 12744
 ---
 
 # pdf vom 26.03.2009 i.d.F. 30.05.2011
@@ -48,76 +48,76 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 (1) Das Studium der Fachwissenschaft im Fach Mathematik im Studiengang Lehramt an Gymnasien wird durch folgende Tabellen geregelt: 
 
-## a) Zeitlich festgelegte Pflichtmodule der ersten zwei Semester: 
+## <u>a) Zeitlich festgelegte Pflichtmodule der ersten zwei Semester:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und**<br>**Prüfungsleistungen***|
 |---|---|---|---|---|
 ||**Analysis (Ana)**|**12**|**17,5**||
-|1|Analysis I|4V|5,5|SL: Übungsleistungen zu beiden Teilen,<br>mit Klausur zum ersten Teil<br>PL: eine Klausur zum Inhalt beider<br>Vorlesungen|
-|1|Übungen zur Analysis I|2Ü|3||
-|2|Analysis II|4V|6||
-|2|Übungen zur Analysis II|2Ü|3||
+|1|Analysis I|4V<br>|5,5|SL: Übungsleistungen zu beiden Teilen,|
+|1|Übungen zur Analysis I|2Ü|3|<br>mit Klausur zum ersten Teil|
+|2|Analysis II|4V|6|PL: eine Klausur zum Inhalt beider<br>|
+|2|Übungen zur Analysis II|2Ü|3|Vorlesungen|
 ||**Lineare Algebra (LA)**|**12**|**17,5**||
-|1|Lineare Algebra I|4V|5,5|SL: Übungsleistungen zu beiden Teilen,<br>mit Klausur zum ersten Teil<br>PL: eine Klausur zum Inhalt beider<br>Vorlesungen|
-|1|Übungen zur Linearen Algebra I|2Ü|3||
-|2|Lineare Algebra II|4V|6||
-|2|Übungen zur Linearen AlgebraII|2Ü|3||
-||**Orientierungsseminar (OrSe)1,2**|**4**|**5**||
+|1|Lineare Algebra I|4V<br>|5,5|SL: Übungsleistungen zu beiden Teilen,|
+|1|Übungen zur Linearen Algebra I|2Ü|3|<br>mit Klausur zum ersten Teil|
+|2|Lineare Algebra II|4V|6|PL: eine Klausur zum Inhalt beider<br>|
+|2|Übungen zur Linearen AlgebraII<br>|2Ü|3|Vorlesungen|
+||**Orientierungsseminar (OrSe)**<sup>**1,2**</sup>|**4**|**5**||
 |1|Teil 1|2|3|SL: Referat|
 |2|Teil 2|2|2||
 
-## b) Weitere Pflichtmodule: 
+<u>b) Weitere Pflichtmodule:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und**<br>**Prüfungsleistungen***|
 |---|---|---|---|---|
 ||**Mehrdimensionale Integration (MInt)**|**4**|**5**||
-|3|Vorlesung|2V|3|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|3|Übungen|2Ü|2||
+|3|Vorlesung<br>|2V<br>|3|SL: Übungsleistungen|
+|3|Übungen|2Ü|2|PL: Klausur zur Vorlesung|
 ||**Stochastische Modellbildung (StMo)**|**7**|**10**||
-|4|Vorlesung|4V|6|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|4|Übungen|3Ü|4||
+|4|Vorlesung|4V|6|SL: Übungsleistungen|
+|4|Übungen|3Ü|4|PL: Klausur zur Vorlesung|
 ||**Algebra (Alg)**|**7**|**10**||
-|5|Vorlesung|4V|6|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|5|Übungen|3Ü|4||
+|5|Vorlesung|4V|6|SL: Übungsleistungen|
+|5|Übungen|3Ü|4|PL: Klausur zur Vorlesung|
 ||**Vertiefungsmodul Körpertheorie (VKT)**|**4**|**5**||
-|6|Vorlesung|3V|4|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|6|Übungen|1Ü|1||
-||**Angewandte Mathematik(AMLA)**~~**1**~~|**6**|**10**||
-|7|Vorlesung|4V|6|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|7|Übungen<br>|2Ü|4||
-||**Geometrie (Geom)**~~**2**~~|**4**|**5**||
-|8|Vorlesung|3V|4|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|8|Übungen|1Ü|1||
+|6|Vorlesung|3V|4|SL: Übungsleistungen|
+|6|Übungen<br>|1Ü|1|PL: Klausur zur Vorlesung|
+||**Angewandte Mathematik(AMLA)**<sup>**~~1~~**</sup>|**6**|**10**||
+|7|Vorlesung<br>|4V<br>|6|SL: Übungsleistungen|
+|7|Übungen<br>|2Ü|4|PL: Klausur zur Vorlesung|
+||**Geometrie (Geom)**<sup>**~~2~~**</sup>|**4**|**5**||
+|8|Vorlesung<br>|3V|4|SL: Übungsleistungen|
+|8|Übungen|1Ü|1|PL: Klausur zur Vorlesung|
 ||**Funktionentheorie (Futh)**|**4**|**5**||
-|8|Vorlesung|2V|4|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|8|Übungen|2Ü|1||
+|8|Vorlesung|2V|4|SL: Übungsleistungen|
+|8|Übungen|2Ü|1|PL: Klausur zur Vorlesung|
 ||**Gewöhnliche Differentialgleichungen (GDgl)**|**4**|**5**||
-|9|Vorlesung|3V|4|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-|9|Übungen|1Ü|1||
+|9|Vorlesung<br>|3V<br>|4|SL: Übungsleistungen|
+|9|Übungen|1Ü|1|PL: Klausur zur Vorlesung|
 ||**ECTS-Punkte gesamt**||**95**||
 
-1) Wird das Modul Orientierungsseminar aus dem Bereich der Angewandten Mathematik gewählt, kann das Modul Angewandte Mathematik (AMLA) durch ein Modul aus der Angewandten Mathematik (AMLAk) mit 5 ECTS-Punkte und ein Modul der vertieften Mathematik (MathV) mit ebenfalls 5 ECTS-Punkte ausgetauscht werden. 
+- 1) Wird das Modul Orientierungsseminar aus dem Bereich der Angewandten Mathematik gewählt, kann das Modul Angewandte Mathematik (AMLA) durch ein Modul aus der Angewandten Mathematik (AMLAk) mit 5 ECTS-Punkte und ein Modul der vertieften Mathematik (MathV) mit ebenfalls 5 ECTS-Punkte ausgetauscht werden. 
 
-2) Wird das Modul Orientierungsseminar aus dem Bereich der Geometrie gewählt, kann das Modul Geometrie (Geom) durch ein weiteres Modul der vertieften Mathematik (MathV) ausgetauscht werden 
+- 2) Wird das Modul Orientierungsseminar aus dem Bereich der Geometrie gewählt, kann das Modul Geometrie (Geom) durch ein weiteres Modul der vertieften Mathematik (MathV) ausgetauscht werden 
 
 2 
 
-## **Weitere Erläuterungen:** 
+### **Weitere Erläuterungen:** 
 
 Dieser Vorschlag garantiert, dass in der Bachelor-Phase (1.-6. Semester) 70 ECTS-Punkte aus der Mathematik erworben werden. Das kann auch durch eine andere zeitliche Abfolge der "weiteren Pflichtmodule" erreicht werden. 
 
 * Wenn nicht anders angegeben, haben Klausuren folgende Länge: 60-90 Min. für Module mit 5 ECTS-Punkten; 120-180 Min. für Module mit 10 ECTS-Punkten. 
 
-(2) Im Bereich der Fachdidaktik sind folgende Module erfolgreich abzulegen: 
+<u>(2) Im Bereich der Fachdidaktik sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
 ||**Fachdidaktik A Mathematik (FDAG)**|**4**|**5**||
-|4 bis 6|Didaktik der Mathematik<br>Vorlesung/Übung|2V/Ü|2,5|PL: Klausuren in beiden  Vorlesungen<br>jeweils 90 Min.|
-|4 bis 6|Didaktik des Mathematikunterrichts<br>Vorlesung/Übung|2V/Ü|2,5||
+|4 bis 6|Didaktik der Mathematik<br>Vorlesung/Übung|2V/Ü|2,5|PL: Klausuren in beiden  Vorlesungen|
+|4 bis 6|Didaktik des Mathematikunterrichts<br>Vorlesung/Übung|2V/Ü|2,5|jeweils 90 Min.|
 ||**Fachdidaktik B Mathematik (FDBG)**|**4**|**5**||
-|6 bis 9|Didaktik der Geometrie<br>Vorlesung/Übung|2V/Ü|2,5|PL: Klausuren in beiden Vorlesungen<br>jeweils 90 Min.|
-|6 bis 9|Didaktik der Analysis<br>Vorlesung/Übung|2V/Ü|2,5||
+|6 bis 9|Didaktik der Geometrie<br>Vorlesung/Übung|2V/Ü|2,5|PL: Klausuren in beiden Vorlesungen|
+|6 bis 9|Didaktik der Analysis<br>Vorlesung/Übung|2V/Ü|2,5|jeweils 90 Min.|
 ||**Summe Fachdidaktik:**||**10**||
 
 ## **3. Lehramt an Grund-, Haupt- und Realschulen** 
@@ -126,23 +126,23 @@ Dieser Vorschlag garantiert, dass in der Bachelor-Phase (1.-6. Semester) 70 ECTS
 
 (1) Das Studium der Fachwissenschaft im Fach Mathematik in den Studiengängen Lehramt an Realschulen und Lehramt an Grund- und Hauptschulen wird durch die folgenden Tabellen geregelt: 
 
-## a) Pflichtmodule: 
+## <u>a) Pflichtmodule:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS**|**Studien- und Prüfungsleistungen***|
 |---|---|---|---|---|
 ||**Elemente der Linearen Algebra (ELA)**|**10**|**15**||
-|1|Elemente der Linearen AlgebraI|2V|3|SL: Übungsleistungen zu beiden<br>Teilen, mit Klausur zum ersten Teil<br>PL: eine Klausur zum Inhalt beider<br>Vorlesungen|
-|1|Übungen Linearen AlgebraI|2Ü|3||
-|2|Elemente der Linearen AlgebraII|4V|6||
-|2|Übungen Linearen AlgebraII|2Ü|3||
+|1|Elemente der Linearen AlgebraI<br>|2V<br>|3|SL: Übungsleistungen zu beiden|
+|1|Übungen Linearen AlgebraI|2Ü|3|Teilen, mit Klausur zum ersten Teil|
+|2|Elemente der Linearen AlgebraII|4V|6|PL: eine Klausur zum Inhalt beider|
+|2|Übungen Linearen AlgebraII|2Ü|3|Vorlesungen|
 ||**Elemente der Analysis (EAna)**|**11**|**15**||
-|2|Elemente der AnalysisI|3V|4|SL: Übungsleistungen zu beiden<br>Teilen, mit Klausur zum ersten Teil<br>PL: eine Klausur zum Inhalt beider<br>Vorlesungen|
-|2|Übungen AnalysisI|1Ü|2||
-|3|Elemente der AnalysisII|4V|6||
-|3|Übungen AnalysisII|2Ü|3||
+|2|Elemente der AnalysisI|3V|4|SL: Übungsleistungen zu beiden|
+|2|Übungen AnalysisI|1Ü|2|Teilen, mit Klausur zum ersten Teil|
+|3|Elemente der AnalysisII|4V|6|PL: eine Klausur zum Inhalt beider|
+|3|Übungen AnalysisII|2Ü|3|Vorlesungen|
 ||**Analytische Geometrie (AGeo)**|**3**|**5**||
 |3|Vorlesung/Übung<br>|3V/Ü|5|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
-||**Aufbaumodul Analysis** **(AmAn)**~~**1**~~|**4 (3)**|**5 (4)**||
+||**Aufbaumodul Analysis** **(AmAn)**<sup>**~~1~~**</sup>|**4 (3)**|**5 (4)**||
 |4|Elemente der Analysis III|4 (3)<br>V/Ü|5 (4)|SL: Übungsleistungen<br>PL: Klausur zur Vorlesung|
 
 1) Für Lehrämter an Grund- und Hauptschule wird das Modul um eine SWS verkürzt angeboten und hat 4 ECTS-Punkte. 
@@ -174,12 +174,13 @@ b) Weitere Module für LA Grund-, Haupt-, Realschule und berufliche Schule
 
 SL = Studienleistung; PL = Prüfungsleistung 
 
-* Wenn nicht anders angegeben, haben Klausuren folgende Länge: 60-90 Min. Für Module mit 5 ECTS-Punkten; 120-180 Min. für Module mit 10 ECTS-Punkten. 
+- Wenn nicht anders angegeben, haben Klausuren folgende Länge: 60-90 Min. Für Module mit 5 ECTS-Punkten; 120-180 Min. für Module mit 10 ECTS-Punkten. 
 
-## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Realschulen sind folgende Module erfolgreich abzulegen: 
+## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Real- <u>schulen sind folgende Module erfolgreich abzulegen:</u> 
 
-|**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
+|**Sem.**|||**ECTS-**||
 |---|---|---|---|---|
+|<br>**(empf.)**|**Modul**|**SWS**|**Punkte**|**Studien- und Prüfungsleistungen**|
 ||**Pflichtmodule**||||
 ||**Fachdidaktik A Mathematik (FDAR)**|**4**|**6**||
 |4 bis 7|Didaktik der Arithmetik und Bruchrech-<br>nung|2V/Ü|3|PL: Klausur zur Vorlesung (90 Min.)|
@@ -191,7 +192,7 @@ SL = Studienleistung; PL = Prüfungsleistung
 
 4 
 
-(3) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Hauptschulen sind folgende Module erfolgreich abzulegen: 
+(3) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an <u>Hauptschulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -199,29 +200,30 @@ SL = Studienleistung; PL = Prüfungsleistung
 |4bis7|DidaktikderGeometrie|5|6|Klausur(90Min.)|
 ||**Summe Fachdidaktik:**||**12**||
 
-## (4) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
+(4) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an <u>Grundschulen sind folgende Module erfolgreich abzulegen:</u> 
 
-|**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und**<br>**Prüfungsleistungen**|
+|**Sem.**|**Modul**|**SWS**|**ECTS-**|**Studien- und**|
 |---|---|---|---|---|
+|**(empf.)**|||**Punkte**|**Prüfungsleistungen**|
 |4 bis 7|Didaktik der Grundschulmathematik 1 -<br>Arithmetik,Algebra, Sachrechnen|5|5|Klausur (90 Min.)|
 |4 bis 7|Didaktik der Grundschulmathematik 2 -<br>Geometrie|5|5|Klausur (90 Min.)|
 |4bis7|Wahlpflichtseminar|2|2|Präsentation +erfolgreicheTeilnahme|
 ||**Summe Fachdidaktik:**||**12**||
 
-(5) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Hauptschulen sind folgende Module erfolgreich abzulegen: 
+(5) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Haupt- <u>schulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|
 |4bis7|VHB-KurseArithmetikund Geometrie<br>|online|4|Hausarbeiten + Klausur(90Min.)|
-|4bis7|Didaktikder Zahlen-und Größenbereiche~~1~~<br>|5|6|Klausur(90Min.)|
-|4bis7|DidaktikderGeometrie~~1~~|5|6|Klausur(90Min.)|
+|4bis7|Didaktikder Zahlen-und Größenbereiche<sup>~~1~~</sup><br>|5|6|Klausur(90Min.)|
+|4bis7|DidaktikderGeometrie<sup>~~1~~</sup>|5|6|Klausur(90Min.)|
 |4bis7|Wahlpflichtseminar 1|2|2|erfolgreicheTeilnahme|
 |4bis7|Wahlpflichtseminar 2|2|2|erfolgreicheTeilnahme|
 ||**Summe Fachdidaktik Fächergruppe:**<br>||**20**||
 
 > ~~1~~ Zulassungsvoraussetzung für das Modul ist die erfolgreiche Teilnahme an den VHB-Kursen 
 
-(6) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
+(6) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Grund- <u>schulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS-**<br>**Punkte**|**Studien- und Prüfungsleistungen**|
 |---|---|---|---|---|

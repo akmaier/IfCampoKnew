@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.07.2009 i.d.F. 24.05.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FachStuOPrO_MA_EconomicsMAI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:07+00:00
-page_count_chars: 8725
+scraped_at: 2026-07-01T11:00:59+00:00
+page_count_chars: 8428
 ---
 
 # PDF vom 20.07.2009 i.d.F. 24.05.2013
@@ -16,7 +16,7 @@ page_count_chars: 8725
 
 **Hinweis:** Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOECO - Vom 20. Juli 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOECO - Vom 20. Juli 2009** 
 
 geändert durch Satzungen vom 23. Februar 2010 
 
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zulassungsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang.[2] Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI ist der Abschluss in einem wirtschaftswissenschaftlichen Bachelorstudiengang.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 26 Abs. 1 Nr. 1 MPOWIWI werden anerkannt: 
 
 1. insbesondere ein Bachelorabschluss in Mathematik, 
 
@@ -64,17 +64,17 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 2. Fachspezifische Qualifikationen, Kenntnisse und Fähigkeiten (max. 50 Punkte). 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber anhand der eingereichten Unterlagen auf Basis sonstiger Qualifikation wie einschlägige Praktika, englischer Sprachkenntnisse, Auslandsaufenthalte (insgesamt maximal 10 Punkte) und einem Qualifikationsfeststellungsgespräch (maximal 10 Punkte) beurteilt.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie/er in einem stärker forschungs-orientierten Studium selbständig wissenschaftlich zu arbeiten versteht.[3] Das Qualifikationsfeststellungsgespräch erstreckt sich auf die in Abs. 3 Nr. 2 genannten Qualifikationskriterien. 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Anlage, Nr. 5.2.1 MPOWIWI werden die Bewerberinnen/Bewerber anhand der eingereichten Unterlagen auf Basis sonstiger Qualifikation wie einschlägige Praktika, englischer Sprachkenntnisse, Auslandsaufenthalte (insgesamt maximal 10 Punkte) und einem Qualifikationsfeststellungsgespräch (maximal 10 Punkte) beurteilt.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin/Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie/er in einem stärker forschungs-orientierten Studium selbständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> Das Qualifikationsfeststellungsgespräch erstreckt sich auf die in Abs. 3 Nr. 2 genannten Qualifikationskriterien. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im ersten Semester werden theoretische und methodische Grundkenntnisse vertiefend vermittelt (Pflichtbereich = 30 ECTS-Punkte).[2] Im zweiten und dritten Semester wählen die Studierenden insgesamt neun Wahlmodule (je 5 ECTS-Punkte) aus dem Wahlbereich der Volkswirtschaftslehre und zwei Module (je 5 ECTS-Punkte) aus dem Angebot der Fakultät einschließlich der Volkswirtschaftslehre.[3] Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Economics gegenüber dem vorangegangenen Bachelorstudium nachzuweisen.[4] Zudem absolvieren die Studierenden ein ökonomisches Seminar (5 ECTS-Punkte).[5] Im vierten Semester absolvieren die Studierenden das Modul Masterarbeit.[6] Es setzt sich aus den beiden Prüfungsleistungen Master Thesis (25 ECTS-Punkte) und dem Masterseminar (5 ECTS-Punkte) zusammen. 
+(1)<sup>1</sup> Im ersten Semester werden theoretische und methodische Grundkenntnisse vertiefend vermittelt (Pflichtbereich = 30 ECTS-Punkte).<sup>2</sup> Im zweiten und dritten Semester wählen die Studierenden insgesamt neun Wahlmodule (je 5 ECTS-Punkte) aus dem Wahlbereich der Volkswirtschaftslehre und zwei Module (je 5 ECTS-Punkte) aus dem Angebot der Fakultät einschließlich der Volkswirtschaftslehre.<sup>3</sup> Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Economics gegenüber dem vorangegangenen Bachelorstudium nachzuweisen.<sup>4</sup> Zudem absolvieren die Studierenden ein ökonomisches Seminar (5 ECTS-Punkte).<sup>5</sup> Im vierten Semester absolvieren die Studierenden das Modul Masterarbeit.<sup>6</sup> Es setzt sich aus den beiden Prüfungsleistungen Master Thesis (25 ECTS-Punkte) und dem Masterseminar (5 ECTS-Punkte) zusammen. 
 
 (2) Art und Umfang der Prüfungen bestimmen sich nach **den §§ 10 und 16 – 18 MPOWIWI.** 
 
-(3)[1] Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.[2] Näheres wird im Modulhandbuch geregelt. 
+(3)<sup>1</sup> Es können einzelne Lehrveranstaltungen und Prüfungen in englischer Sprache stattfinden.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
-(4)[1] Studierende können Schwerpunktbereiche studieren.[2] Schwerpunktbereich sind zusammenhängende Studiengebiete, in denen mindestens 15 ECTS zu erwerben sind.[3] Als zusammenhängende Studiengebiete gelten: 
+(4)<sup>1</sup> Studierende können Schwerpunktbereiche studieren.<sup>2</sup> Schwerpunktbereich sind zusammenhängende Studiengebiete, in denen mindestens 15 ECTS zu erwerben sind.<sup>3</sup> Als zusammenhängende Studiengebiete gelten: 
 
 1. Arbeitsmarktökonomik 
 
@@ -86,7 +86,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 2 
 
-4Im Modulhandbuch ist anzugeben, welches Modul welchem Schwerpunktbereich zugeordnet ist.[5] Die Schwerpunktbereiche werden in einer Bescheinigung aufgeführt, wenn sie studiert wurden. 
+4Im Modulhandbuch ist anzugeben, welches Modul welchem Schwerpunktbereich zugeordnet ist.<sup>5</sup> Die Schwerpunktbereiche werden in einer Bescheinigung aufgeführt, wenn sie studiert wurden. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -96,56 +96,50 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 ## **Anlage:** 
 
-|**Studienplan Economics**|**Studienplan Economics**|||||||
-|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|
-||||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**1. Semester: Pflichtbereich - 6 Pflichtmodule**||||||||
-|Fortgeschrittene Mathematik für Ökonomen<br>Macroeconomics 1<br>Makroökonomik 2<br>Mikroökonomik 1<br>Mikroökonomik 2<br>Ökonometrie1|||5<br>5<br>5<br>5<br>5<br>5|5||||
-|||||5||||
-|||||5||||
-|||||5||||
-|||||5||||
-|||||5||||
-|**2. und 3. Semester: Pflichtbereich – 1 Pflichtmodul**||||||||
-|Ökonomisches Seminar|||5||5|5||
-|**2. und 3. Semester: Wahlbereich - Wahl von 9 VWL-Modulen + 2 freien Modulen***||||||||
-|Wahlbereich VWL:  9 Module mit je 5 ECTS<br>-<br>Advanced Industrial Organization<br>-<br>Arbeitsmarktökonomie<br>-<br>Behavioral Economics<br>-<br>Empirische Arbeitsmarktforschung<br>-<br>Gesundheitsökonomik 1<br>-<br>Gesundheitsökonomik 2<br>-<br>Institutionen und Organisationen des Arbeitsmarktes<br>-<br>Labor Markets: A Macroeconomic Perspective<br>-<br>Macroeconomics 3<br>-<br>Migration, Employment and Social Policy<br>-<br>Ökonometrie 2: Statistische Grundlagen der Ökonometrie<br>-<br>Ökonometrie 3: Mikroökonometrie<br>-<br>Ökonometrie 4: Panel- und Evaluationsverfahren<br>-<br>Ökonometrie 5: Multivariate Zeitreihen- und Strukturmodelle I<br>-<br>Ökonometrie 6: Multivariate Zeitreihen- und Strukturmodelle II<br>-<br>Ökonomie der Sozialpolitik<br>-<br>Personalökonomik<br>-<br>Praktikumsmodul<br>-<br>Project Seminar: Experimental Economics<br>-<br>Public Economics 1: Taxation and Labor Supply<br>-<br>Public Economics 2: Taxation of Capital Income<br>-<br>Seminar in Behavioral Economics<br>-<br>Seminar in Methods in Experimental Economics<br>-<br>Seminar Wirtschaftspolitik und Evaluation<br>-<br>Seminar zur Gesundheitsökonomik<br>-<br>Seminar zur Wirtschaftspolitik<br>-<br>Spatial Economics<br>-<br>Wirtschaftstheoretisches Seminar<br>-<br>Auslandsmodul 1<br>-<br>Auslandsmodul 2<br>Freier Wahlbereich: 2 Modulemit je 5ECTS|||45<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>5<br>10|||||
-||||||5|||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-|||||||_5_||
-|||||||_5_||
-||||||5|||
-||||||5|||
-||||||_5_|_5_||
-|||||||_5_||
-||||||5|||
-|||||||_5_||
-|||||||5||
-|||||||_5_||
-|||||||_5_||
-|||||||_5_||
-||||||5|||
-||||||5|||
-||||||5|5||
-|||||||_5_||
-|||||||_5_||
-|||||||10||
-|**4. Semester: Masterarbeit**||||||||
-|Masterarbeit<br>Seminar zur Masterarbeit|||25<br>5||||25|
-||||||||5|
-||ECTS||120|30|30|30|30|
+|**Studie**|**nplan Economics**||||||
+|---|---|---|---|---|---|---|
+||||**1**|**2**|**3**|**4**|
+|||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**1. Seme**|**ster: Pflichtbereich - 6 Pflichtmodule**||||||
+|Fortges<br>Macroe<br>Makroö|chrittene Mathematik für Ökonomen<br>conomics 1<br>konomik 2|5<br>5<br>5|5<br>5<br>5||||
+|Mikroök|onomik 1|5|5||||
+|Mikroök|onomik 2|5|5||||
+|Ökonom|etrie1|5|5||||
+|**2. und 3**|**. Semester: Pflichtbereich – 1 Pflichtmodul**||||||
+|Ökonom|isches Seminar|5||5|5||
+|**2. und**|**3. Semester: Wahlbereich - Wahl von 9 VWL-Modulen + 2 freien Modulen***||||||
+|Wahlbe|reich VWL:  9 Module mit je 5 ECTS|45|||||
+|-<br>-|Advanced Industrial Organization<br>Arbeitsmarktökonomie|5<br>5||5|_5_||
+|-|Behavioral Economics|5||5|||
+|-<br>-|Empirische Arbeitsmarktforschung<br>Gesundheitsökonomik 1|5<br>5||5|_5_||
+|-|Gesundheitsökonomik 2|5|||_5_||
+|-<br>-|Institutionen und Organisationen des Arbeitsmarktes<br>Labor Markets: A Macroeconomic Perspective|5<br>5||5|_5_||
+|-|Macroeconomics 3|5||5|||
+|-|Migration, Employment and Social Policy|5|||_5_||
+|-|Ökonometrie 2: Statistische Grundlagen der Ökonometrie|5|||_5_||
+|-|Ökonometrie 3: Mikroökonometrie|5||5|||
+|-|Ökonometrie 4: Panel- und Evaluationsverfahren|5|||_5_||
+|-|Ökonometrie 5: Multivariate Zeitreihen- und Strukturmodelle I|5|||_5_||
+|-|Ökonometrie 6: Multivariate Zeitreihen- und Strukturmodelle II|5|||_5_||
+|-|Ökonomie der Sozialpolitik|5||5|||
+|-|Personalökonomik|5||5|||
+|-|Praktikumsmodul|5||_5_|_5_||
+|-|Project Seminar: Experimental Economics|5|||_5_||
+|-<br>-|Public Economics 1: Taxation and Labor Supply<br>Public Economics 2: Taxation of Capital Income|5<br>5||5|_5_||
+|-|Seminar in Behavioral Economics|5|||5||
+|-|Seminar in Methods in Experimental Economics|5|||_5_||
+|-|Seminar Wirtschaftspolitik und Evaluation|5|||_5_||
+|-|Seminar zur Gesundheitsökonomik|5|||_5_||
+|-|Seminar zur Wirtschaftspolitik|5||5|||
+|-|Spatial Economics|5||5|||
+|-|Wirtschaftstheoretisches Seminar|5||5|5||
+|-|Auslandsmodul 1|5|||_5_||
+|-|Auslandsmodul 2|5|||_5_||
+|Freier W|ahlbereich: 2 Modulemit je 5ECTS|10|||10||
+|**4. Seme**|**ster: Masterarbeit**||||||
+|Mastera|rbeit|25||||25|
+|Semina|r zur Masterarbeit|5||||5|
+||ECTS|120|30|30|30|30|
 
 *Es können weitere Wahlmodule zulassen werden, die dem Modulhandbuch zu entnehmen sind. 
 

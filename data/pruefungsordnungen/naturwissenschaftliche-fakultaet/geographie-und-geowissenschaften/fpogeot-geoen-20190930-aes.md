@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOGeoT-GeoEn 20190930 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20190930_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:39:26+00:00
-page_count_chars: 1748
+scraped_at: 2026-07-01T09:05:30+00:00
+page_count_chars: 1744
 ---
 
 # FPOGeoT-GeoEn 20190930 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 1748
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/GeoThermie_und_GeoEnergie/Aenderungssatzungen/FPOGeoT-GeoEn_20190930_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Erste Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOGeoT/GeoEn –** 
+# **Erste Satzung zur Änderung der Fachprüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOGeoT/GeoEn –** 
 
-## **Vom 30. September 2019** 
+# **Vom 30. September 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs.1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-**§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der FAU – FPOGeoT/GeoEn – vom 20. Juni 2017 wird wie folgt geändert: 
 
@@ -30,11 +30,11 @@ Die Fachprüfungsordnung für den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.
 
    - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-## „(2) Die erste Änderungssatzung tritt am 1. Oktober 2019 in Kraft.“ 
+„(2) Die erste Änderungssatzung tritt am 1. Oktober 2019 in Kraft.“ 
 
 3. In Anlage 3 wird das gesamte Textfeld in Zeile 16, Spalte 1 (Modulbezeichnung GTF2 Reservoirmodelle) blau hinterlegt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2019 in Kraft. 
 

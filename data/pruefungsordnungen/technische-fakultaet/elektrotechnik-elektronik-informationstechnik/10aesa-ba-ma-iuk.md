@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Dezember 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AeSa_BA-MA_IuK.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:10:00+00:00
-page_count_chars: 18992
+scraped_at: 2026-07-01T11:30:55+00:00
+page_count_chars: 18314
 ---
 
 # 1. Dezember 2015
@@ -12,11 +12,11 @@ page_count_chars: 18992
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/10AeSa_BA-MA_IuK.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** Vom 1. Dezember 2015 
+# **Zehnte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK -** Vom 1. Dezember 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- und Kommunikationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOIuK - vom 21. September 2007, zuletzt geändert durch Satzung vom 20. Februar 2015, wird wie folgt geändert: 
 
@@ -46,42 +46,35 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 1 
 
-## **„Anlage 2a: Studienverlaufsplan Master (Vollzeit)** 
+# **„Anlage 2a: Studienverlaufsplan Master (Vollzeit)** 
 
-## **Studienschwerpunkt Eingebettete Systeme** 
+# **Studienschwerpunkt Eingebettete Systeme** 
 
-|**Studienschwerpunkt Eingebettete Systeme**|**Studienschwerpunkt Eingebettete Systeme**||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Module**||**Semesteraufteilung**||||||||**Leistungsnachweis**|||
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||||
-|1|Pflichtmodule**1)**|8|10|8|10||||||||
-|1a|Eingebettete Systeme|4|5|||||||PL: K90 min|||
-|1b|Hardware-Software-Co-Design|||4|5|||||PL: K90 min|||
-|1c|Kommunikationselektronik|||4|5|||||PL: K90 min|||
-|1d|Entwurf Integrierter Schaltungen I|4|5|||||||PL: K90 min|||
-|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog **1) 2)**|4|5|4|5|8|10|||PL**3)**|||
-|3|Wahlmodule aus dem Angebot von EEI und Informatik**1)**|4|5|8|10|8|10|||PL**3) 4)**|||
-|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät**1)**|4|5|4|5|||||PL**3) 4)**|||
-|5|Wahlmodule aus dem Angebot der FAU**1)**|||||4|5|||PL**3) 4)**|||
-|6|Praktikum oder Projektarbeit|||||3|2,5|||PrL(SL)|||
-|7|Seminar|||||2|2,5|||SeL(PL)|||
-|8|Masterarbeit mit Referat||||||||30|PL|||
-|9|Forschungsprojekt**3)**||5|||||||PrL(SL)|||
-||**Summen SWS**|**20**||**24**||**25**|||||||
-||**Summen ECTS**||**30**||**30**||**30**||**30**||**120**||
+||**Module**|||**Se**|**mester**|**aufte**|**ilung**||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Name**|**1. S**|**em.**|**2. S**|**em.**|**3. S**|**em.**|**4. Sem.**||
+|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|<br>**ECTS**|**SWS**<br>**ECTS**||
+|1|Pflichtmodule<sup>**1)**</sup>|8|10|8|10|||||
+|1a|Eingebettete Systeme|4|5||||||PL: K90 min|
+|1b|Hardware-Software-Co-Design|||4|5||||PL: K90 min|
+|1c|Kommunikationselektronik|||4|5||||PL: K90 min|
+|1d|Entwurf Integrierter Schaltungen I<br>|4|5||||||PL: K90 min<br>|
+|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog <sup>**1) 2)**</sup><br>|4|5|4|5|8|10||PL<sup>**3)**</sup><br>|
+|3|Wahlmodule aus dem Angebot von EEI und Informatik<sup>**1)**</sup>|4|5|8|10|8|10||PL<sup>**3) 4)**</sup>|
+|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät<sup>**1)**</sup>|4|5|4|5||||PL<sup>**3) 4)**</sup>|
+|5|Wahlmodule aus dem Angebot der FAU<sup>**1)**</sup>|||||4|5||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit|||||3|2,5||PrL(SL)|
+|7|Seminar|||||2|2,5||SeL(PL)|
+|8|Masterarbeit mit Referat|||||||30|PL|
+|9|Forschungsprojekt<sup>**3)**</sup>||5||||||PrL(SL)|
+||**Summen SWS**|**20**||**24**||**25**||||
+||**Summen ECTS**||**30**||**30**||**30**|**30**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 
 - 2) Der Schwerpunktkatalog wird vor Semesterbeginn ortsüblich auf der IuK-Homepage bekannt gemacht. 
 
-- 3) 
-
-- 4) 
-
-- Art und Umfang der Prüfung sind abhängig von dem jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 
-
-- Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht keine Wiederholungspflicht bei Nichtbestehen. 
+- 3) Art und Umfang der Prüfung sind abhängig von dem jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 4) Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht keine Wiederholungspflicht bei Nichtbestehen. 
 
 **Erläuterungen** : SL = Studienleistung; PL = Prüfungsleistung; PrL =Praktikumsleistung; SeL= Seminarleistung; K= Klausur 
 
@@ -89,25 +82,25 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 ## **Studienschwerpunkt Kommunikationsnetze und Übertragungstechnik** 
 
-|**Module**|**Module**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|||**Leistungsnachweis**|**Leistungsnachweis**|**Leistungsnachweis**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||||
-|1|Pflichtmodule**1)**|8|10|8|10||||||||
-|1a|Kommunikationssysteme|4|5|||||||PL: K90 min|||
-|1b|Dienstgüte von Kommunikationssystemen|||4|5|||||PL: K90 min|||
-|1c|Informationstheorie|||4|5|||||PL: K90 min|||
-|1d|Fundamentals of Mobile Communications|4|5|||||||PL: K90 min|||
-|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog **1) 2)**|4|5|4|5|8|10|||PL**3)**|||
-|3|Wahlmodule aus dem Angebot von EEI und Informatik**1)**|4|5|8|10|8|10|||PL**3) 4)**|||
-|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät**1)**|4|5|4|5|||||PL**3) 4)**|||
-|5|Wahlmodule aus dem Angebot der FAU**1)**|||||4|5|||PL**3) 4)**|||
-|6|Praktikum oder Projektarbeit|||||3|2,5|||PrL(SL)|||
-|7|Seminar|||||2|2,5|||SeL(PL)|||
-|8|Masterarbeit mit Referat||||||||30|PL|||
-|9|Forschungsprojekt**3)**||5|||||||PrL(SL)|||
-||**Summen SWS**|**20**||**24**||**25**|||||||
-||**Summen ECTS**||**30**||**30**||**30**||**30**||**120**||
+||**Module**|||**Se**|**mester**|**aufte**|**ilung**||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+|**N**|**N**|**1. S**|**em.**|**2. S**|**em.**|**3. S**|**em.**|**4. Sem.**||
+|**r.**|**ame**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|<br>**ECTS**|**SWS**<br>**ECTS**||
+|1|Pflichtmodule<sup>**1)**</sup>|8|10|8|10|||||
+|1a|Kommunikationssysteme|4|5||||||PL: K90 min|
+|1b|Dienstgüte von Kommunikationssystemen|||4|5||||PL: K90 min|
+|1c|Informationstheorie|||4|5||||PL: K90 min|
+|1d|Fundamentals of Mobile Communications<br>|4|5||||||PL: K90 min<br>|
+|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog <sup>**1) 2)**</sup>|4|5|4|5|8|10||PL<sup>**3)**</sup>|
+|3|Wahlmodule aus dem Angebot von EEI und Informatik<sup>**1)**</sup>|4|5|8|10|8|10||PL<sup>**3) 4)**</sup>|
+|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät<sup>**1)**</sup>|4|5|4|5||||PL<sup>**3) 4)**</sup>|
+|5|Wahlmodule aus dem Angebot der FAU<sup>**1)**</sup>|||||4|5||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit|||||3|2,5||PrL(SL)|
+|7|Seminar|||||2|2,5||SeL(PL)|
+|8|Masterarbeit mit Referat|||||||30|PL|
+|9|Forschungsprojekt<sup>**3)**</sup>||5||||||PrL(SL)|
+||**Summen SWS**|**20**||**24**||**25**||||
+||**Summen ECTS**||**30**||**30**||**30**|**30**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 
@@ -125,73 +118,68 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 ## **Studienschwerpunkt Multimediasysteme** 
 
-|**Studienschwerpunkt Multimediasysteme**|**Studienschwerpunkt Multimediasysteme**||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Module**||**Semesteraufteilung**||||||||**Leistungsnachweis**|||
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||||
-|1|Pflichtmodule**1)**|8|10|8|10||||||||
-|1a|Image and Video Compression|||4|5|||||PL: K90 min|||
-|1b|Statistical Signal Processing|||4|5|||||PL: K90 min|||
-|1c|Kommunikationssysteme|4|5|||||||PL: K90 min|||
-|1d|Pattern Recognition|4|5|||||||PL: K90 min|||
-|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog **1) 2)**|4|5|4|5|8|10|||PL**3)**|||
-|3|Wahlmodule aus dem Angebot von EEI und Informatik**1)**|4|5|8|10|8|10|||PL**3) 4)**|||
-|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät**1)**|4|5|4|5|||||PL**3) 4)**|||
-|5|Wahlmodule aus dem Angebot der FAU**1)**|||||4|5|||PL**3) 4)**|||
-|6|Praktikum oder Projektarbeit|||||3|2,5|||PrL(SL)|||
-|7|Seminar|||||2|2,5|||SeL(PL)|||
-|8|Masterarbeit mit Referat||||||||30|PL|||
-|9|Forschungsprojekt**3)**||5|||||||PrL(SL)|||
-||**Summen SWS**|**20**||**24**||**25**|||||||
-||**Summen ECTS**||**30**||**30**||**30**||**30**||**120**||
+||**Module**|||**Se**|**mester**|**aufte**|**ilung**||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|**Name**|**1. S**|**em.**|**2. S**|**em.**|**3. S**|**em.**|**4. Sem.**||
+|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|<br>**ECTS**|**SWS**<br>**ECTS**||
+|1|Pflichtmodule<sup>**1)**</sup>|8|10|8|10|||||
+|1a|Image and Video Compression|||4|5||||PL: K90 min|
+|1b|Statistical Signal Processing|||4|5||||PL: K90 min|
+|1c|Kommunikationssysteme|4|5||||||PL: K90 min|
+|1d|Pattern Recognition|4|5||||||PL: K90 min|
+|2|Wahlpflichtmodulegemäß Schwerpunkt aus Katalog <sup>**1) 2)**</sup>|4|5|4|5|8|10||PL<sup>**3)**</sup>|
+|3|Wahlmodule aus dem Angebot von EEI und Informatik<sup>**1)**</sup>|4|5|8|10|8|10||PL<sup>**3) 4)**</sup>|
+|4|Wahlmodule aus dem Angebot der Technischen<br>Fakultät oder der Naturwissenschaftlichen Fakultät<sup>**1)**</sup>|4|5|4|5||||PL<sup>**3) 4)**</sup>|
+|5|Wahlmodule aus dem Angebot der FAU<sup>**1)**</sup>|||||4|5||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit|||||3|2,5||PrL(SL)|
+|7|Seminar|||||2|2,5||SeL(PL)|
+|8|Masterarbeit mit Referat|||||||30|PL|
+|9|Forschungsprojekt<sup>**3)**</sup>||5||||||PrL(SL)|
+||**Summen SWS**|**20**||**24**||**25**||||
+||**Summen ECTS**||**30**||**30**||**30**|**30**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 
 - 2) Der Schwerpunktkatalog wird vor Semesterbeginn ortsüblich auf der IuK-Homepage bekannt gemacht. 
 
-- 3) 
-
-   - Art und Umfang der Prüfung sind abhängig von dem jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 
-
-- 4) Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht keine Wiederholungspflicht bei Nichtbestehen. 
+- 3) Art und Umfang der Prüfung sind abhängig von dem jeweils gewählten Modul und dem Modulhandbuch zu entnehmen. 4) Siehe Modulhandbuch; abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche nicht angerechnet und es besteht keine Wiederholungspflicht bei Nichtbestehen. 
 
 **Erläuterungen** : SL = Studienleistung; PL = Prüfungsleistung; PrL =Praktikumsleistung; SeL= Seminarleistung; K= Klausur“ 
 
 4 
 
-## 4. Anlage 2b erhält folgende neue Fassung: 
+# 4. Anlage 2b erhält folgende neue Fassung: 
 
-## **„Anlage 2b: Studienverlaufsplan Master (Teilzeit)** 
+# **„Anlage 2b: Studienverlaufsplan Master (Teilzeit)** 
 
 ## **Studienschwerpunkt Eingebettete Systeme** 
 
-||**Module**|||||**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**||||||**Leistungsnachweis**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5. Sem.**||**6.**|**Sem.**|**7. Sem.**||**8. Sem.**|||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||**ECTS**||
-|1|Pflichtmodule**1)**|4|5|4|5|4|5|4|5||||||||||
-|1a|Eingebettete Systeme|4|5|||||||||||||||PL: K90 min|
-|1b|Hardware-Software-Co-Design|||4|5|||||||||||||PL: K90 min|
-|1c|Kommunikationselektronik|||||||4|5|||||||||PL: K90 min|
-|1d|Entwurf Integrierter Schaltungen I|||||4|5|||||||||||PL: K90 min|
-|2|Wahlpflichtmodule gemäß Schwerpunkt<br>aus Katalog**1) 2)**|4|5|4|5|||4|5|4|5|||||||PL**3)**|
-|3|Wahlmodule aus dem Angebot von EEI<br>und Informatik**1)**|4|5|4|5|||4|5|4|5|4|5|||||PL**3) 4)**|
-|4|Wahlmodule aus dem Angebot der<br>Technischen Fakultät oder der Natur-<br>wissenschaftlichen Fakultät**1)**|||||4|5|||4|5|||||||PL**3) 4)**|
-|**5**|Wahlmodule aus dem Angebot der FAU<br>**1)**|||||4|5|||||||||||PL**3) 4)**|
-|6|Praktikum oder Projektarbeit|||||||||||3|2,5|||||PrL (SL)|
+||**Module**||||||**S**<br>|**emes**<br>|**terauft**<br>|**eilung**<br>||||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr**|**Name**|**1. S**|**em.**|**2. S**|**em.**|**3. S**|**em.**|**4. S**|**em.**|**5. Sem.**|**6. Sem.**|**7. Sem.**|**8. Sem.**||
+|**.**||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||
+|1<br>|Pflichtmodule<sup>**1)**</sup>|4|5|4|5|4|5|4|5||||||
+|1a|Eingebettete Systeme|4|5|||||||||||PL: K90 min|
+|1b|Hardware-Software-Co-Design|||4|5|||||||||PL: K90 min|
+|1c|Kommunikationselektronik|||||||4|5|||||PL: K90 min|
+|1d|Entwurf Integrierter Schaltungen I|||||4|5|||||||PL: K90 min|
+|2 <br>|<sup>Wahlpflichtmodule gemäß Schwerpunkt</sup><br>aus Katalog<sup>**1) 2)**</sup>|4|5|4|5|||4|5|4<br>5||||PL<sup>**3)**</sup>|
+|3 <br>|<sup>Wahlmodule aus dem Angebot von EEI</sup><br>und Informatik<sup>**1)**</sup>|4|5|4|5|||4|5|4<br>5|4<br>5|||PL<sup>**3) 4)**</sup>|
+|4<br> <br> <br>|Wahlmodule aus dem Angebot der<br>Technischen Fakultät oder der Natur-<br>wissenschaftlichen Fakultät<sup>**1)**</sup>|||||4|5|||4<br>5||||PL<sup>**3) 4)**</sup>|
+|**5** <br>|<sup>Wahlmodule aus dem Angebot der FAU</sup><br>**1)**|||||4|5|||||||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit||||||||||3<br>2,5|||PrL (SL)|
 
 5 
 
-||**Module**|||||**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5.**|**Sem.**|**6.**|**Sem.**|**7.**|**Sem.**|**8. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||||||
-|7|Seminar|||||||||||2|2,5|||||SeL (PL)|||
-|8|Masterarbeit mit Referat||||||||||||||15||15|PL|||
-|9|Forschungsprojekt**3)**|||||||||||4|5|||||PrL (SL)|||
-||Summen SWS|12||12||12||12||12||13|||||||||
-||**Summen ECTS**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**120**||
+||**Module**|||**S**|**emesterauft**|**eilung**||||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**|<br>**Name**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**7. Sem.**|**8. Sem.**||
+|||**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||
+|7|Seminar||||||2<br>2,5|||SeL (PL)|
+|8|Masterarbeit mit Referat|||||||15|15|PL|
+|9|Forschungsprojekt<sup>**3)**</sup>||||||4<br>5|||PrL (SL)|
+||Summen SWS|12|12|12|12|12|13||||
+||**Summen ECTS**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 
@@ -209,32 +197,32 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 ## **Studienschwerpunkt Kommunikationsnetze und Übertragungstechnik** 
 
-|**Module**|**Module**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5. Sem.**||**6. Sem.**||**7. Sem.**||**8. Sem.**|||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||||
-|1|Pflichtmodule**1)**|4|5|4|5|4|5|4|5||||||||||
-|1a|Kommunikationssysteme|4|5|||||||||||||||PL: K90 min|
-|1b|Dienstgüte von Kommunikationssyste-<br>men|||4|5|||||||||||||PL: K90 min|
-|1c|Informationstheorie|||||||4|5|||||||||PL: K90 min|
-|1d|Fundamentals of Mobile Communica-<br>tions|||||4|5|||||||||||PL: K90 min|
-|2|Wahlpflichtmodule gemäß Schwerpunkt<br>aus Katalog**1) 2)**|4|5|4|5|||4|5|4|5|||||||PL**3)**|
-|3|Wahlmodule aus dem Angebot von EEI<br>und Informatik**1)**|4|5|4|5|||4|5|4|5|4|5|||||PL**3) 4)**|
-|4|Wahlmodule aus dem Angebot der<br>Technischen Fakultät oder der Natur-<br>wissenschaftlichen Fakultät**1)**|||||4|5|||4|5|||||||PL**3) 4)**|
-|**5**|Wahlmodule aus dem Angebot der FAU<br>**1)**|||||4|5|||||||||||PL**3) 4)**|
-|6|Praktikum oder Projektarbeit|||||||||||3|2,5|||||PrL (SL)|
-|7|Seminar|||||||||||2|2,5|||||SeL (PL)|
-|8|Masterarbeit mit Referat||||||||||||||15||15|PL|
+||**Module**||||||**S**<br>|**emest**<br>|**erauf**<br>|**te**<br>|**ilung**<br>||||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Nr**|**Name**|**1. S**|**em.**|**2. S**|**em.**|**3. S**|**em.**|**4. S**|**em.**|**5**|**. Sem.**|**6. Sem.**|**7. Sem.**|**8. Sem.**||
+|**.**||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**<br>|**ECTS**||**ECTS**|**ECTS**|**ECTS**|**ECTS**||
+|1|Pflichtmodule<sup>**1)**</sup>|4|5|4|5|4|5|4|5|||||||
+|1a|Kommunikationssysteme|4|5||||||||||||PL: K90 min|
+|1b|<sup>Dienstgüte von Kommunikationssyste-</sup><br>men|||4|5||||||||||PL: K90 min|
+|1c|Informationstheorie|||||||4|5||||||PL: K90 min|
+|1d|<sup>Fundamentals of Mobile Communica-</sup><br>tions|||||4|5||||||||PL: K90 min|
+|2|<sup>Wahlpflichtmodule gemäß Schwerpunkt</sup><br>aus Katalog<sup>**1) 2)**</sup>|4|5|4|5|||4|5|4|<br>5||||PL<sup>**3)**</sup>|
+|3|<sup>Wahlmodule aus dem Angebot von EEI</sup><br>und Informatik<sup>**1)**</sup>|4|5|4|5|||4|5|4|<br>5|4<br>5|||PL<sup>**3) 4)**</sup>|
+|4|Wahlmodule aus dem Angebot der<br>Technischen Fakultät oder der Natur-<br>wissenschaftlichen Fakultät<sup>**1)**</sup>|||||4|5|||4|<br>5||||PL<sup>**3) 4)**</sup>|
+|**5**|<sup>Wahlmodule aus dem Angebot der FAU</sup><br>**1)**|||||4|5||||||||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit|||||||||||3<br>2,5|||PrL (SL)|
+|7|Seminar|||||||||||2<br>2,5|||SeL (PL)|
+|8|Masterarbeit mit Referat||||||||||||15|15|PL|
 
 7 
 
-||**Module**|||||**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5.**|**Sem.**|**6.**|**Sem.**|**7.**|**Sem.**|**8. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||||||
-|9|Forschungsprojekt**3)**|||||||||||4|5|||||PrL (SL)|||
-||Summen SWS|12||12||12||12||12||13|||||||||
-||**Summen ECTS**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**120**||
+|**Module**|||**S**<br>|**emesterauf**<br>|**teilung**<br>||||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Nr.**<br>**Name**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**7. Sem.**|**8. Sem.**||
+||**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||
+|9 Forschungsprojekt<sup>**3)**</sup>||||||4<br>5|||PrL (SL)|
+|Summen SWS|12|12|12|12|12|13||||
+|**Summen ECTS**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 
@@ -250,33 +238,32 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informations- 
 
 ## **Studienschwerpunkt Multimediasysteme** 
 
-|**Studienschwerpunkt Multimediasysteme**|**Studienschwerpunkt Multimediasysteme**||||||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Module**||**Semesteraufteilung**|||||||||||||||||
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5. Sem.**||**6. Sem.**||**7. Sem.**||**8. Sem.**|||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||||
-|1|Pflichtmodule**1)**|4|5|4|5|4|5|4|5||||||||||
-|1a|Image and Video Compression|||||||4|5|||||||||PL: K90 min|
-|1b|Statistical Signal Processing|||4|5|||||||||||||PL: K90 min|
-|1c|Kommunikationssysteme|4|5|||||||||||||||PL: K90 min|
-|1d|Pattern Recognition**1)**|||||4|5|||||||||||PL: K90 min|
-|2|Wahlpflichtmodule gemäß Schwerpunkt aus<br>Katalog**1) 2)**|4|5|4|5|||4|5|4|5|||||||PL**3)**|
-|3|Wahlmodule aus dem Angebot von EEI und<br>Informatik**1)**|4|5|4|5|||4|5|4|5|4|5|||||PL**3) 4)**|
-|4|Wahlmodule aus dem Angebot der Techni-<br>schen Fakultät oder der Naturwissenschaftli-<br>chen Fakultät**1)**|||||4|5|||4|5|||||||PL**3) 4)**|
-|**5**|Wahlmodule aus dem Angebot der FAU**1)**|||||4|5|||||||||||PL**3) 4)**|
-|6|Praktikum oder Projektarbeit|||||||||||3|2,5|||||PrL (SL)|
-|7|Seminar|||||||||||2|2,5|||||SeL (PL)|
-|8|Masterarbeit mit Referat||||||||||||||15||15|PL|
+||**Module**|||||**Seme**|**steraufte**|**ilung**|||**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||<br>|**1.**|**Sem.**|**2.**|**Sem.**<br>**3. S**|**em.**<br>**4. S**|**em.**<br>**5**|**. Sem.**<br>**6.**|**Sem.**|**7. Sem.**|**8. Sem.**|
+|**Nr.**|<br>**Name**||<br>||<br>||<br>|||||
+|||**SWS**|<br>**ECTS**|**SWS**|<br>**ECTS SWS**|**ECTS SWS**|<br>**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**|
+|1|Pflichtmodule<sup>**1)**</sup>|4|5|4|5<br>4|5<br>4|5|||||
+|1a|Image and Video Compression|||||4|5||||PL: K90 min|
+|1b|Statistical Signal Processing|||4|5||||||PL: K90 min|
+|1c|Kommunikationssysteme|4|5||||||||PL: K90 min|
+|1d|Pattern Recognition<sup>**1)**</sup>||||4|5|||||PL: K90 min|
+|2|<sup>Wahlpflichtmodule gemäß Schwerpunkt aus</sup><br>Katalog<sup>**1) 2)**</sup>|4|5|4|5|4|5<br>4|<br>5|||PL<sup>**3)**</sup>|
+|3|<sup>Wahlmodule aus dem Angebot von EEI und</sup><br>Informatik<sup>**1)**</sup>|4|5|4|5|4|5<br>4|<br>5<br>4|5||PL<sup>**3) 4)**</sup>|
+|4|<br>Wahlmodule aus dem Angebot der Techni-<br>schen Fakultät oder der Naturwissenschaftli-<br>chen Fakultät<sup>**1)**</sup>||||4|5|4|<br>5|||PL<sup>**3) 4)**</sup>|
+|**5**|Wahlmodule aus dem Angebot der FAU<sup>**1)**</sup>||||4|5|||||PL<sup>**3) 4)**</sup>|
+|6|Praktikum oder Projektarbeit|||||||3|2,5||PrL (SL)|
+|7|Seminar|||||||2|2,5||SeL (PL)|
+|8|Masterarbeit mit Referat|||||||||15|15<br>PL|
 
 9 
 
-||**Module**|||||**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**|||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Nr.**|**Name**|**1. Sem.**||**2. Sem.**||**3. Sem.**||**4. Sem.**||**5.**|**Sem.**|**6.**|**Sem.**|**7.**|**Sem.**|**8. Sem.**|||||
-|||**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**|**SWS**|**ECTS**||**ECTS**||**ECTS**||**ECTS**||||||
-|9|Forschungsprojekt**3)**|||||||||||4|5|||||PrL (SL)|||
-||Summen SWS|12||12||12||12||12||13|||||||||
-||**Summen ECTS**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**15**||**120**||
+|**Module**<br>**Nr.**<br>**Name**|**1. Sem.**|**2. Sem.**|<br>**3. Sem.**|**Semesterau**<br>**4. Sem.**|**fteilung**<br>**5. Sem.**|**6. Sem.**|**7. Sem.**|**8. Sem.**|**Leistungsnachweis**|
+|---|---|---|---|---|---|---|---|---|---|
+||**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**SWS**<br>**ECTS**|**ECTS**|**ECTS**|**ECTS**|**ECTS**||
+|9 Forschungsprojekt<sup>**3)**</sup>||||||4<br>5|||PrL (SL)|
+|Summen SWS|12|12|12|12|12|13||||
+|**Summen ECTS**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**120**|
 
 - 1) Eine Prüfung pro Modul. Wegen des sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergebenden erforderlichen fachspezifischen Kompetenzgewinns können Module, die bereits im vorangegangenen Bachelorstudium belegt wurden, in der Regel nicht mehr in die Masterprüfung eingebracht werden. 
 

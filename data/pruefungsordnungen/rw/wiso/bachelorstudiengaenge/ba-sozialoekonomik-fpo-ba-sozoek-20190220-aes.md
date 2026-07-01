@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Sozialökonomik FPO BA SozÖk 20190220 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/Aenderungssatzungen/BA_Sozialökonomik_FPO_BA_SozÖk_20190220_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-05-01T09:27:00+00:00
-page_count_chars: 4591
+scraped_at: 2026-07-01T10:42:37+00:00
+page_count_chars: 4566
 ---
 
 # BA Sozialökonomik FPO BA SozÖk 20190220 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 4591
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/Aenderungssatzungen/BA_Sozialökonomik_FPO_BA_SozÖk_20190220_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Sozialökonomik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA SozÖk – Vom 20. Februar 2019** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Sozialökonomik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA SozÖk – Vom 20. Februar 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelorstudiengang Sozialökonomik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA SozÖk – vom 10. August 2017, geändert durch Satzung vom 1. August 2018, wird wie folgt geändert: 
 
@@ -52,36 +52,34 @@ bb) In Satz 3 wird nach den Worten „Drittens wird“ das Wort „es“ eingef�
 
 - e) Nach Abs. 8 wird folgender neuer Abs. 9 angefügt: 
 
-„(9)[1] Die Vertiefungsmodule nach den Abs. 1 bis 8 können auch zur Belegung eines Studienbereichs i. S. v. § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** verwendet werden. 2Näheres regelt das Modulhandbuch. 3Im Falle der Belegung eines Studienbereichs wird dieser im Zeugnis ausgewiesen.“ 
+„(9)<sup>1</sup> Die Vertiefungsmodule nach den Abs. 1 bis 8 können auch zur Belegung eines Studienbereichs i. S. v. § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** verwendet werden. 2Näheres regelt das Modulhandbuch. 3Im Falle der Belegung eines Studienbereichs wird dieser im Zeugnis ausgewiesen.“ 
 
 3. In § 4 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 treten die Änderungen in den Studienverlaufsplänen betreffend die Module „Empirische Methoden und Statistik“ und „Global governance“ am 1. April 2019 in Kraft und gelten für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die zweite Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 treten die Änderungen in den Studienverlaufsplänen betreffend die Module „Empirische Methoden und Statistik“ und „Global governance“ am 1. April 2019 in Kraft und gelten für alle Studierenden, die das Studium ab dem Sommersemester 2019 aufnehmen werden.“ 
 
-## 4. **Anlage 1** wird wie folgt geändert: 
+# 4. **Anlage 1** wird wie folgt geändert: 
 
 - a) In Zeile 25 (Empirische Methoden und Statistik) Spalte 14 (Art und Umfang der Prüfung/Studienleistung) werden nach den Worten und dem Klammerzusatz „Klausur (60 Min.)“ die Worte und der Klammerzusatz „und Kurztest (unbenotet)“ angefügt. 
 
 - b) Erläuterung 3 unterhalb der Tabelle erhält folgende neue Fassung: 
 
-„[3) ] vgl. § 3 Abs. 9 und § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** . Vertiefungsmodule können auch für die Belegung eines Studienbereichs verwendet werden. Näheres regelt das Modulhandbuch.“ 
+„<sup>3)</sup> vgl. § 3 Abs. 9 und § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** . Vertiefungsmodule können auch für die Belegung eines Studienbereichs verwendet werden. Näheres regelt das Modulhandbuch.“ 
 
-5. **Anlage 2** wird wie folgt geändert: 
+# 5. **Anlage 2** wird wie folgt geändert: 
 
 a) Zeile 27 (Global governance) erhält folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-|„|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Global governance|V|2||||**5**||||5|||Klausur (60 Min.)|1|
-||Ü||2||||||||||||
+|Global governance|V<br>Ü|2<br>2|**5**|5|Klausur (60 Min.)|1|
+|---|---|---|---|---|---|---|
 
 “ 
 
-b) Erläuterung 4 unterhalb der Tabelle erhält folgende neue Fassung: 
+- b) Erläuterung 4 unterhalb der Tabelle erhält folgende neue Fassung: 
 
-„[4) ] vgl. § 3 Abs. 9 und § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** . Vertiefungsmodule können auch für die Belegung eines Studienbereichs verwendet werden. Näheres regelt das Modulhandbuch.“ 
+„<sup>4)</sup> vgl. § 3 Abs. 9 und § 3 Abs. 2 Sätze 3 bis 6 **BPOWiWi** . Vertiefungsmodule können auch für die Belegung eines Studienbereichs verwendet werden. Näheres regelt das Modulhandbuch.“ 
 
 2 
 

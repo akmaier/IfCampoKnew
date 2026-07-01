@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BA Sozialökonomik FPO BA SozÖk 20220301 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/Aenderungssatzungen/BA_Sozialökonomik_FPO_BA_SozÖk_20220301_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-04-25T16:15:05+00:00
-page_count_chars: 3344
+scraped_at: 2026-07-01T10:42:34+00:00
+page_count_chars: 3396
 ---
 
 # BA Sozialökonomik FPO BA SozÖk 20220301 ÄS.pdf
@@ -14,7 +14,7 @@ page_count_chars: 3344
 
 Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Sozialökonomik am Fachbereich Wirtschafts- und Sozialwissenschaften an der Rechtsund Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BA SozÖk – 
 
-## Vom 1. März 2022 
+# Vom 1. März 2022 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -30,15 +30,15 @@ Die Fachprüfungsordnung für den Bachelorstudiengang Sozialökonomik am Fachber
 
 4. In § 4 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die vierte Änderungssatzung tritt am 1. April 2022 in Kraft.[2] Die Änderung im Modul „Einführung in das Mediensystem“ gilt für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen der FPO BA SozÖk werden letztmals im Wintersemester 2026/2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPO BA SozÖk ab.“ 
+„(5)<sup>1</sup> Die vierte Änderungssatzung tritt am 1. April 2022 in Kraft.<sup>2</sup> Die Änderung im Modul „Einführung in das Mediensystem“ gilt für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der FPO BA SozÖk werden letztmals im Wintersemester 2026/2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPO BA SozÖk ab.“ 
 
 - 1 - 
 
 5. In Anlage 1 (Studienverlaufsplan Bachelor Sozialökonomik, Schwerpunkt Verhaltenswissenschaften) werden in Zeile 28 (Einführung in das Mediensystem) Spalte 1 (Modulbezeichnung) die Worte „Einführung in das Mediensystem“ durch die Worte „Digital Technologies & Society“ ersetzt. 
 
-## § 2 
+# § 2 
 
-1Diese Änderungssatzung tritt am 1. April 2022 in Kraft. 2Die Änderung im Modul „Einführung in das Mediensystem“ gilt für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen der FPO BA SozÖk werden letztmals im Wintersemester 2026/2027 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPO BA SozÖk ab. 
+1Diese Änderungssatzung tritt am 1. April 2022 in Kraft. 2Die Änderung im Modul „Einführung in das Mediensystem“ gilt für alle Studierenden, die sich bezogen auf die Modulprüfung in diesem Modul noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der FPO BA SozÖk werden letztmals im Wintersemester 2026/2027 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der FPO BA SozÖk ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 23. Februar 2022 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 1. März 2022. 
 

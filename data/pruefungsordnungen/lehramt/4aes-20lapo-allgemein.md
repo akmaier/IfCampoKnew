@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "14. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/4AES%20LAPO-Allgemein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-05-01T06:53:51+00:00
-page_count_chars: 8754
+scraped_at: 2026-07-01T08:30:24+00:00
+page_count_chars: 8749
 ---
 
 # 14. März 2012
@@ -14,11 +14,11 @@ page_count_chars: 8754
 
 # **Vierte Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung an der Universität Erlangen-Nürnberg** 
 
-## Vom 14. März 2012 
+# Vom 14. März 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung an der Universität Erlangen-Nürnberg vom 23. Februar 2009, geändert durch Satzung vom 15. September 2011, wird wie folgt geändert: 
 
@@ -34,9 +34,9 @@ Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten 
 
    - a) Der bisherige § 24 wird zu § 24 Abs. 1. 
 
-## b) Folgender neue Abs. 2 wird angefügt: 
+# b) Folgender neue Abs. 2 wird angefügt: 
 
-- „(2) 1Wer in den Teilstudiengängen Biologie, Mathematik und Sport im Bachelorstudiengang „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services“ immatrikuliert ist, gilt als zugelassen zu den in diesem Teilstudiengang vorgesehenen Modulprüfungen, es sei denn, die Zulassung ist zu versagen.[2] Zu versagen ist die Zulassung, wenn 
+- „(2) 1Wer in den Teilstudiengängen Biologie, Mathematik und Sport im Bachelorstudiengang „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services“ immatrikuliert ist, gilt als zugelassen zu den in diesem Teilstudiengang vorgesehenen Modulprüfungen, es sei denn, die Zulassung ist zu versagen.<sup>2</sup> Zu versagen ist die Zulassung, wenn 
 
 1. Nachweise über in der Fachstudien- und Prüfungsordnung vorgeschriebene Voraussetzungen nicht vorliegen 
 
@@ -48,7 +48,7 @@ Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten 
 
 5. die Exmatrikulation unter Verlust des Prüfungsanspruchs verfügt wurde.“ 
 
-## 5. § 25 wird wie folgt geändert: 
+# 5. § 25 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden nach dem Wort „sind“ die Worte „außer in den Fällen des Abs. 6“ eingefügt. 
 
@@ -62,7 +62,7 @@ c) Der bisherige Abs. 6 wird zu Abs. 7.
 
 Das Inhaltsverzeichnis ist entsprechend anzupassen. 
 
-## 7. § 31 wird wie folgt geändert: 
+# 7. § 31 wird wie folgt geändert: 
 
 a) In Abs. 1 Satz 1 werden nach dem Wort „Lehramtsstudium“ die Worte „nach der LPO I ist“ angefügt sowie das Wort „ist“ gestrichen. 
 
@@ -72,54 +72,32 @@ b) In Abs. 2 Satz 2 werden in der Aufzählung nach den Worten „Allgemeine Päd
 
 9. Nach Anlage 5 wird folgende neue Anlage 6 angefügt: 
 
-## „ **Anlage 6: Angebote für das Lehramt bei Studienbeginn zum Sommersemester 2012** 
+# „ **Anlage 6: Angebote für das Lehramt bei Studienbeginn zum Sommersemester 2012** 
 
-||**1. Lehramt Grundschulen**||**2. Lehramt Hauptschulen**||**3. Lehramt Realschulen**||**4. Lehramt Gymnasium**|
-|---|---|---|---|---|---|---|---|
-||−Chemie<br>−Deutsch<br>−Didaktik der Grundschule<br>−Englisch∗<br>−Evang. Religionslehre<br>−Geschichte<br>−Kunst<br>−Sozialkunde<br>−Sport<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie (Zulassungszahl: 0)<br>−Darstellendes Spiel (Erw.)<br>−Geographie (Zulassungszahl: 0)<br>−Mathematik<br>−Musik<br>−Physik||−Chemie<br>−Deutsch<br>−Englisch∗<br>−Evang. Religionslehre<br>−Geschichte<br>−Kunst<br>−Sozialkunde<br>−Sport<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie (Zulassungszahl: 0)<br>−Darstellendes Spiel (Erw.)<br>−Geographie (Zulassungszahl: 0)<br>−Mathematik<br>−Musik<br>−Physik||−Deutsch, Englisch∗<br>−Deutsch, Französisch<br>−Deutsch, Geographie<br>−Deutsch, Geschichte<br>−Deutsch, Kunst<br>−Deutsch, Evang. Rel.<br>−Englisch∗, Französisch<br>−Englisch∗, Geographie<br>−Englisch∗, Geschichte<br>−Englisch∗, Informatik<br>−Englisch∗, Kunst<br>−Englisch∗, Evang. Rel.<br>−Englisch∗, Wirtschaftswiss.<br>−Französisch, Geographie<br>−Geographie, Wirtschaftswiss.<br>−Informatik, Wirtschaftswiss.<br>−Sozialkunde, Wirtschaftswiss.<br>−Philosophie/Ethik (Erw.)<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie, Chemie<br>−Chemie, Englisch<br>−Chemie, Mathematik<br>−Chemie, Physik<br>−Darstellendes Spiel (Erw.)<br>−Deutsch, Mathematik<br>−Deutsch, Musik||−Deutsch, Englisch∗<br>−Deutsch, Französisch<br>−Deutsch, Geographie<br>−Deutsch, Geschichte<br>−Deutsch, Latein<br>−Deutsch, Mathematik#<br>−Deutsch, Sozialkunde<br>−Englisch∗, Französisch<br>−Englisch∗, Geographie<br>−Englisch∗, Geschichte<br>−Englisch∗, Informatik<br>−Englisch∗, Italienisch<br>−Englisch∗, Latein<br>−Englisch∗, Mathematik#<br>−Englisch∗, Sozialkunde<br>−Englisch∗, Spanisch<br>−Englisch∗,<br>Wirtschaftswissenschaften<br>−Geographie,<br>Wirtschaftswissenschaften<br>−Französisch, Geschichte<br>−Französisch, Latein<br>−Französisch, Spanisch<br>−Griechisch, Latein<br>−Informatik, Mathematik#<br>−Informatik,<br>Wirtschaftswissenschaften<br>−Latein, Mathematik#<br>−Latein, Geschichte<br>−Mathematik, Physik<br>−Mathematik#, Wirtschaftswiss.<br>−Philosophie/Ethik (Erw.)<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik(Erw.)|
+|**1. Lehramt Grundschulen**|**2. Lehramt Hauptschulen**|**3. Lehramt Realschulen**|**4. Lehramt Gymnasium**|
+|---|---|---|---|
+|−Chemie|−Chemie|−Deutsch, Englisch∗|−Deutsch, Englisch∗|
+|−Deutsch<br>−Didaktik der Grundschule<br>−Englisch∗<br>−Evang. Religionslehre<br>−Geschichte<br>−Kunst|−Deutsch<br>−Englisch∗<br>−Evang. Religionslehre<br>−Geschichte<br>−Kunst<br>−Sozialkunde|−Deutsch, Französisch<br>−Deutsch, Geographie<br>−Deutsch, Geschichte<br>−Deutsch, Kunst<br>−Deutsch, Evang. Rel.<br>−Englisch∗, Französisch|−Deutsch, Französisch<br>−Deutsch, Geographie<br>−Deutsch, Geschichte<br>−Deutsch, Latein<br>−Deutsch, Mathematik#<br>−Deutsch, Sozialkunde|
+|−Sozialkunde<br>−Sport|−Sport<br>**reguläres SS-Angebot:**|−Englisch∗, Geographie<br>−Englisch∗, Geschichte<br>−Englisch∗, Informatik<br>−Englisch∗, Kunst|−Englisch∗, Französisch<br>−Englisch∗, Geographie<br>−Englisch∗, Geschichte<br>−Englisch∗, Informatik|
+|**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie (Zulassungszahl: 0)<br>−Darstellendes Spiel (Erw.)<br>−Geographie (Zulassungszahl: 0)<br>−Mathematik<br>−Musik<br>−Physik|−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie (Zulassungszahl: 0)<br>−Darstellendes Spiel (Erw.)<br>−Geographie (Zulassungszahl: 0)<br>−Mathematik<br>−Musik<br>−Physik|−Englisch∗, Evang. Rel.<br>−Englisch∗, Wirtschaftswiss.<br>−Französisch, Geographie<br>−Geographie, Wirtschaftswiss.<br>−Informatik, Wirtschaftswiss.<br>−Sozialkunde, Wirtschaftswiss.<br>−Philosophie/Ethik (Erw.)<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik (Erw.)<br>**Kein Angebot**<br>−Biologie, Chemie<br>−Chemie, Englisch<br>−Chemie, Mathematik<br>−Chemie, Physik<br>−Darstellendes Spiel (Erw.)<br>−Deutsch, Mathematik<br>−Deutsch, Musik|−Englisch∗, Italienisch<br>−Englisch∗, Latein<br>−Englisch∗, Mathematik#<br>−Englisch∗, Sozialkunde<br>−Englisch∗, Spanisch<br>−Englisch∗,<br>Wirtschaftswissenschaften<br>−Geographie,<br>Wirtschaftswissenschaften<br>−Französisch, Geschichte<br>−Französisch, Latein<br>−Französisch, Spanisch<br>−Griechisch, Latein<br>−Informatik, Mathematik#<br>−Informatik,<br>Wirtschaftswissenschaften<br>−Latein, Mathematik#<br>−Latein, Geschichte<br>−Mathematik, Physik<br>−Mathematik#, Wirtschaftswiss.<br>−Philosophie/Ethik (Erw.)<br>**reguläres SS-Angebot:**<br>−Didaktik des Deutschen als<br>Zweitsprache (Erw.)<br>−Medienpädagogik(Erw.)|
 
 |−|Deutsch, Physik||
 |---|---|---|
 |−|Deutsch, Sport|**Kein Angebot**|
 |−|Englisch, Mathematik|−Biologie, Chemie|
-|−|Englisch, Musik|−Biologie, Englisch|
-|−|Englisch, Physik|−Biologie, Physik|
-|−|Englisch, Sport|−Chemie, Englisch|
-|−|Informatik, Physik|−Chemie, Geographie|
+|− <br>− <br>− <br>−|Englisch, Musik<br>Englisch, Physik<br>Englisch, Sport<br>Informatik, Physik|−Biologie, Englisch<br>−Biologie, Physik<br>−Chemie, Englisch<br>−Chemie, Geographie|
 |−|Informatik, Mathematik|−Chemie, Mathematik|
 |−|Mathematik, Kunst|−Darstellendes Spiel (Erw.)|
-|−|Mathematik, Musik|−Deutsch, Evang. Religionslehre|
-|−|Mathematik, Evang. Rel.|−Deutsch, Musik|
+|− <br>−|Mathematik, Musik<br>Mathematik, Evang. Rel.|−Deutsch, Evang. Religionslehre<br>−Deutsch, Musik|
 |−|Mathematik, Physik|−Deutsch, Sport|
 |−|Mathematik, Sport|−Englisch, Evang. Religionslehre|
-|−|Mathematik, Wirtschaftswiss.|−Englisch, Musik|
-|−|Musik, Evang. Rel.|−Englisch, Physik|
-|−|Musik, Physik|−Englisch, Psychologie|
-|−|Musik, Sport|−Englisch, Russisch|
-|−|Sport, Wirtschaftswiss.|−Englisch, Sport|
-|||−Französisch, Musik|
-|||−Geographie, Physik|
-|||−Informatik, Physik|
-|||−Italienisch, Musik|
-|||−Kunst (Doppelfach)|
-|||−Latein, Evang. Religionslehre|
-|||−Latein, Musik|
-|||−Latein, Psychologie|
-|||−Latein, Sport|
-|||−Mathematik, Evang. Religionslehre|
-|||−Mathematik, Musik|
-|||−Mathematik, Psychologie|
-|||−Mathematik, Sport|
-|||−Musik (Doppelfach)|
-|||−Musik, Religionslehre|
-|||−Musik, Spanisch|
-|||−Evang. Religionslehre, Sport|
+|− <br>− <br>− <br>− <br>−|Mathematik, Wirtschaftswiss.<br>Musik, Evang. Rel.<br>Musik, Physik<br>Musik, Sport<br>Sport, Wirtschaftswiss.|−Englisch, Musik<br>−Englisch, Physik<br>−Englisch, Psychologie<br>−Englisch, Russisch<br>−Englisch, Sport<br>−Französisch, Musik<br>−Geographie, Physik<br>−Informatik, Physik<br>−Italienisch, Musik<br>−Kunst (Doppelfach)<br>−Latein, Evang. Religionslehre<br>−Latein, Musik<br>−Latein, Psychologie<br>−Latein, Sport<br>−Mathematik, Evang. Religionslehre<br>−Mathematik, Musik<br>−Mathematik, Psychologie<br>−Mathematik, Sport<br>−Musik (Doppelfach)<br>−Musik, Religionslehre<br>−Musik, Spanisch<br>−Evang. Religionslehre, Sport|
 
 - ∗ nur nach bestandenem Eignungsfeststellungsverfahren 
 
 - # eine Einschreibemöglichkeit besteht nur nach vorheriger Beratung durch das IBZ„ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

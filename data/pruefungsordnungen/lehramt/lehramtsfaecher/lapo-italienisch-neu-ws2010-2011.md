@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 25.03.2009 i.d.F. 24.09.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Italienisch-NEU-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:35+00:00
-page_count_chars: 8743
+scraped_at: 2026-07-01T08:40:23+00:00
+page_count_chars: 8569
 ---
 
 # pdf vom 25.03.2009 i.d.F. 24.09.2010
@@ -34,13 +34,13 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 **§ 2 Grundlagen- und Orientierungsprüfung** Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissenschaft im Fach Italienisch für das Lehramt an Gymnasien die Modulprüfungen in den Basismodulen Italienische Sprachpraxis 1 und Einführung in die Italoromanistik (20 ECTS) erfolgreich abgelegt werden. 
 
-**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** (1)[1] Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER A 2 
+**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** (1)<sup>1</sup> Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 100 Stunden erbringen, die in etwa dem Niveau GER A 2 
 
 1 
 
-entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
+entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
 
-(2)[1] Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.[2] Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
+(2)<sup>1</sup> Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.<sup>2</sup> Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
 
 **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die Schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
 
@@ -66,19 +66,15 @@ entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfu
 |1/2|**Basismodul**<br>**Einführung in die Italoromanistik**||**10**|**Doppelklausur**||
 ||Einführung in die italienische Sprachwissen-<br>schaft|2|4|K 90’|0,5|
 ||Einführung in die italienische Literaturwis-<br>senschaft|3|6|K 90’|0,5|
-|3/4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**||
-|||||||
-|||||||
+|3/4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur ode**<br>**che Prüfung**|**aus dem**<br>**r mündli-**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|2|SL||
 ||Übung|2|4|K 90’ /<br>MP 15’|0,4|
 
 2 
 
-|3/4|**Aufbaumodul**<br>**Italienische Literatur- und Kulturwissen-**<br>**schaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder mündli-**<br>**che Prüfung**|
+|3/4|**Aufbaumodul**<br>**Italienische Literatur- und Kulturwissen-**<br>**schaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur ode**<br>**che Prüfung**|**aus dem**<br>**r mündli-**|
 |---|---|---|---|---|---|
-|||||||
-|||||||
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 ||Übung|2|2|SL||
@@ -87,25 +83,24 @@ entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfu
 ||Grammatica e stilistica|2|2|SL||
 ||Comprensione e produzione orale II|2|2|SL||
 ||Corso introduttivo di cultura e civiltà italiana I|2|3|SL||
-|5/6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Kurzessays + Klausur oder**<br>**HA**||
+|5/6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Kurzessays + Kla**<br>**HA**|**usur oder**|
 ||Cultura e civiltà italiana II|2|5|K 90’/HA|0,5|
 ||Laboratorio di scrittura|2|3|Kurzessays|0,5|
 ||Traduzione Tedesco-Italiano|2|2|SL||
 
-FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung **Pflichtbereich für Ital** i **enisch als erstes Fach (LAG)** 
+FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung 
 
-|**FS**|**Modul**|**ECTS**||
-|---|---|---|---|
-|6|**Abschlussmodul Schriftliche Hausarbeit**|**10**||
-||SchriftlicheHausarbeit|10||
-|**Studium nach dem 6. Semester LAG**||||
+## **<u>Pflichtbereich für Ital</u>** <u>i</u> **<u>enisch als erstes Fach (LAG)</u>** 
 
-|**FS**|**Modul**|**ECTS**||||
-|---|---|---|---|---|---|
-|6|**Abschlussmodul Schriftliche Hausarbeit**|**10**||||
-||SchriftlicheHausarbeit|10||||
-|**Studium nach dem 6. Semester LAG**||||||
+|**FS**|**Modul**|**ECTS**|
+|---|---|---|
+|6|**Abschlussmodul Schriftliche Hausarbeit**|**10**|
+||SchriftlicheHausarbeit|10|
+
+## **<u>Studium nach dem 6. Semester LAG</u>** 
+
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
+|---|---|---|---|---|---|
 |7/8|**Italienische Sprachpraxis 5**||**10**|**Klausur**||
 ||Produzione testuale|2|5|K 90’|1|
 ||Traduzione Italiano-Tedesco Oberstufe|2|2|SL||
@@ -115,7 +110,7 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung
 
 ## Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert: 
 
-## **Modul A:** 
+## **<u>Modul A:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -126,7 +121,7 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung
 
 3 
 
-## **Modul B:** 
+## **<u>Modul B:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|

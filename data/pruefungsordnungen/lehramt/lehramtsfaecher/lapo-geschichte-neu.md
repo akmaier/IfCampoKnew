@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 10.03.2009 i.d.F. 31.03.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Geschichte-NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:10:02+00:00
-page_count_chars: 20542
+scraped_at: 2026-07-01T08:39:21+00:00
+page_count_chars: 20834
 ---
 
 # pdf vom 10.03.2009 i.d.F. 31.03.2010
@@ -20,20 +20,20 @@ geändert durch Satzung vom 31. März 2010
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
-|**1.**|**Allgemeines................................................................................................................1**|**Allgemeines................................................................................................................1**|
-|---|---|---|
-||**§ 1**|**Geltungsbereich**..............................................................................................1|
-||**§ 2**|**Grundlagen- und Orientierungsprüfung**........................................................1|
-||**§ 3**|**Zulassungsvoraussetzungen; Fremdsprachenkenntnisse**..........................2|
-|**2.**|**Lehramt an Gymnasien .............................................................................................2**||
-||**§ 4**|**Inhalt, Aufbau und Gliederung des Studiums**...............................................2|
-|**3.**|**Lehramt an Realschulen............................................................................................4**||
-||**§ 5**|**Inhalt, Aufbau und Gliederung des Studiums**...............................................4|
-|**4.**|**Lehramt an Grund- und Hauptschulen .................................................................6**||
-||**§ 6**|**Inhalt, Aufbau und Gliederung des Studiums**...............................................6|
-||**§ 7**|**In-Kraft-Treten**..................................................................................................8|
+|**1. Allgemeines................................................................................................................1**|
+|---|
+|**§ 1**<br>**Geltungsbereich**..............................................................................................1|
+|**§ 2**<br>**Grundlagen- und Orientierungsprüfung**........................................................1|
+|**§ 3**<br>**Zulassungsvoraussetzungen; Fremdsprachenkenntnisse**..........................2|
+|**2. Lehramt an Gymnasien .............................................................................................2**|
+|**§ 4**<br>**Inhalt, Aufbau und Gliederung des Studiums**...............................................2|
+|**3. Lehramt an Realschulen............................................................................................4**|
+|**§ 5**<br>**Inhalt, Aufbau und Gliederung des Studiums**...............................................4|
+|**4.**<br>**Lehramt an Grund- und Hauptschulen .................................................................6**|
+|**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**...............................................6|
+|**§ 7**<br>**In-Kraft-Treten**..................................................................................................8|
 
-## **1. Allgemeines** 
+### **1. Allgemeines** 
 
 **§ 1 Geltungsbereich** 
 
@@ -43,32 +43,32 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 1 
 
-**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 1Für vertieft Studierende (Lehramt Gymnasien) sind gesicherte Kenntnisse gemäß § 67 Abs. 1 Nr. 1 LPO I in zwei Fremdsprachen, darunter Latein, erforderlich.[2] Der  Nachweis von gesicherten Lateinkenntnissen soll schnellstmöglich erbracht werden.[3] Studierende, welche zu Studienbeginn noch nicht über gesicherte Lateinkenntnisse verfügen, haben den Nachweis des bestandenen Latein I-Kurses bis zum Einstieg in die Proseminare der Alten und der  Mittelalterlichen Geschichte zu erbringen.[4] Der Nachweis der gesicherten Lateinkenntnisse muss spätestens bis zum Einstieg in die Hauptseminare erbracht werden.[5] Für nicht vertieft Studierende (Lehramt Realschulen, Grund- und Hauptschulen) gelten die Regelungen gemäß § 48 Abs. 1 Nr. 1 LPO I. 
+**§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 1Für vertieft Studierende (Lehramt Gymnasien) sind gesicherte Kenntnisse gemäß § 67 Abs. 1 Nr. 1 LPO I in zwei Fremdsprachen, darunter Latein, erforderlich.<sup>2</sup> Der  Nachweis von gesicherten Lateinkenntnissen soll schnellstmöglich erbracht werden.<sup>3</sup> Studierende, welche zu Studienbeginn noch nicht über gesicherte Lateinkenntnisse verfügen, haben den Nachweis des bestandenen Latein I-Kurses bis zum Einstieg in die Proseminare der Alten und der  Mittelalterlichen Geschichte zu erbringen.<sup>4</sup> Der Nachweis der gesicherten Lateinkenntnisse muss spätestens bis zum Einstieg in die Hauptseminare erbracht werden.<sup>5</sup> Für nicht vertieft Studierende (Lehramt Realschulen, Grund- und Hauptschulen) gelten die Regelungen gemäß § 48 Abs. 1 Nr. 1 LPO I. 
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
+### **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Insgesamt müssen jeweils mindestens 11 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 14 Leistungspunkte auf das Teilgebiet Neueste Geschichte, mindestens 9 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 67, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte und Mittelalterliche (einschließlich Landesgeschichte) sowie Neuere und Neueste Geschichte (einschließlich Landesgeschichte) und mindestens 3 Leistungspunkte auf das Teilgebiet Hilfswissenschaften oder das Teilgebiet Theorie und Methode entfallen. 2Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
+(1)<sup>1</sup> Insgesamt müssen jeweils mindestens 11 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 14 Leistungspunkte auf das Teilgebiet Neueste Geschichte, mindestens 9 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 67, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte und Mittelalterliche (einschließlich Landesgeschichte) sowie Neuere und Neueste Geschichte (einschließlich Landesgeschichte) und mindestens 3 Leistungspunkte auf das Teilgebiet Hilfswissenschaften oder das Teilgebiet Theorie und Methode entfallen. 2Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
 
 (2) Lehrveranstaltungen in Landesgeschichte und osteuropäischer Geschichte gelten je nach ihrer Thematik als Lehrveranstaltungen der Alten, Mittelalterlichen, Neueren oder Neuesten Geschichte. 
 
 (3) Von den vier Schwerpunktmodulen müssen zwei nach Wahl absolviert werden, und zwar eines aus dem Bereich der Alten und der Mittelalterlichen Geschichte (LAGY VII _oder_ VIII) und ein weiteres aus dem Bereich der Neueren und der Neuesten Geschichte (LAGY IX _oder_ LAGY X). 
 
-(4)[1] Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Für die Einführungsübung Propädeutik und Hilfswissenschaften entfallen je 1 Leistungspunkt auf die Alte, Mittelalterliche, Neuere und Neueste Geschichte. 
+(4)<sup>1</sup> Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Für die Einführungsübung Propädeutik und Hilfswissenschaften entfallen je 1 Leistungspunkt auf die Alte, Mittelalterliche, Neuere und Neueste Geschichte. 
 
 2 
 
-(5) Im Fach Geschichte für das Lehramt an Gymnasien werden folgende Module angeboten: 
+(5) Im Fach Geschichte für das Lehramt an Gymnasien werden folgende Module <u>angeboten:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
-||**Grundlagen- und Orientierungsmodul (LAGY I)***|**10**|**20**||
+||**Grundlagen- und Orientierungsmodul (LAGY I)**<sup>*****</sup>|**10**|**20**||
 |1|EinführungsübungPropädeutikundHilfswissenschaften|2Ü|4|Klausur|
 |1|EinführungsvorlesungAlte Geschichte|2V|4|Klausur|
 |1|EinführungsvorlesungMittlere Geschichte|2V|4|Klausur|
-|2|EinführungsübungTheorie undMethodik|2V|4|Klausur|
-|2|EinführungsvorlesungNeuere undNeueste Geschichte|2V|4|Klausur|
+|2|EinführungsübungTheorieundMethodik|2V|4|Klausur|
+|<br>2|<br>EinführungsvorlesungNeuere undNeueste Geschichte<br>|<br>2V|<br>4|<br>Klausur|
 ||**Basismodul Alte Geschichte und Mittelalterliche**<br>**Geschichte (LAGY II)**|**6**|**10**||
 |2 - 4|Vorlesung Alte oder Mittelalterliche Geschichte|2V|3|Mündliche Prüfung<br>oder Klausur|
 |2 - 4|Proseminar Alte Geschichte|2S|3,5|Referat|
@@ -76,14 +76,14 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 ||**Basismodul Neuere und Neueste Geschichte (LAGY III)**|**6**|**10**||
 |3 - 4|Vorlesung Neuere oder Neueste Geschichte|2V|3|Mündliche Prüfung<br>oder Klausur|
 |3- 4|Proseminar Neuere Geschichte|2S|3,5|Referat|
-|3-4|Proseminar Neueste Geschichte|2S|3,5|Referat|
-||**Aufbaumodul Alte und Mittelalterliche Geschichte**~~**a**~~<br>**(LAGY IV)**|**4**|**10**||
+|3-4|Proseminar Neueste Geschichte<br>|2S|3,5|Referat|
+||**Aufbaumodul Alte und Mittelalterliche Geschichte**<sup>**~~a~~**</sup><br>**(LAGY IV)**|**4**|**10**||
 |5 - 6|Vorlesung Alte oder Mittelalterliche Geschichte|2V|4|Mündliche Prüfung<br>oder Klausur|
-|5-6|Hauptseminar Alte oder Mittelalterliche Geschichte<br>|2|6|Hausarbeit|
-||**Aufbaumodul Neuere und Neueste Geschichte**~~**b**~~<br>**(LAGY V)**|**4**|**10**||
+|5-6|Hauptseminar Alte oder Mittelalterliche Geschichte<br>|2|6|<br>Hausarbeit|
+||**Aufbaumodul Neuere und Neueste Geschichte**<sup>**~~b~~**</sup><br>**(LAGY V)**|**4**|**10**||
 |5 - 6|Vorlesung Neuere oder Neueste Geschichte|2V|4|Mündliche Prüfung<br>oder Klausur|
 |5-6|Hauptseminar Neuere oder Neueste Geschichte|2S|6|Hausarbeit|
-||**Wahlpflichtmodul (LAGY VI)**|**6**|**10**||
+||**Wahlpflichtmodul (LAGY VI)**<br>|**6**|**10**||
 |3 - 6|Übung aus dem Angebot des Instituts für Geschichte oder<br>der DidaktikderGeschichte|2Ü|3|Mündliche oder<br>schriftlicheLeistung|
 |3 - 6|Vorlesung/Exkursion aus dem Angebot des Instituts für<br>Geschichte oderder DidaktikderGeschichte|2V|4|Mündliche oder<br>schriftlicheLeistung|
 |3 - 6|Übung (Hilfswissenschaften oder Theorie/Methode) aus<br>dem Angebot desInstitutsfürGeschichte|2Ü|3|Mündliche oder<br>schriftlicheLeistung|
@@ -96,12 +96,12 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |7 -8|Hauptseminar|2|6|Hausarbeit|
 ||**Schwerpunktmodul Neuere Geschichte (LAGY IX)**|**4**|**10**||
 |7 - 8|Vorlesung|2V|4|Mündliche Prüfung<br>oder Klausur|
-|7 -8|Hauptseminar|2|6|Hausarbeit|
+|7 -8|Hauptseminar|2|6|<br>Hausarbeit|
 ||**Schwerpunktmodul Neueste Geschichte (LAGY X)**|**4**|**10**||
 |7 - 8|Vorlesung|2V|4|Mündliche Prüfung<br>oder Klausur|
 |7 -8|Hauptseminar|2|6|Hausarbeit|
 ||**Wahlpflichtmodul (LAGY XI)**||**5**||
-||(Examenskolloquium,Exkursion,Praktikum, Sprachen)||5|Leistungsnachweis|
+||<br>(Examenskolloquium,Exkursion,Praktikum, Sprachen)||5|Leistungsnachweis|
 ||**Summe Leistungspunkte 7. bis 9. Semester**||**25**||
 
 3 
@@ -114,14 +114,13 @@ a = Wird die Vorlesung aus dem Bereich der Alten Geschichte gewählt, muss das H
 
 b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neuesten Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Neuesten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neueren Geschichte belegt werden. 
 
-## (6) Im Bereich Fachdidaktik sind folgende Module abzulegen: 
+### <u>(6) Im Bereich Fachdidaktik sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
-||Basismodul Didaktik der Geschichte|4|5|Klausur 80 %<br>Kurzreferat/Thesenpapier<br>20 %|
-||Aufbaumodul Didaktik der Geschichte*|4|5|Hausarbeit|
-|*Zulassungsvorraussetzung: erfolgreiche Teilnahme am Basismodul<br>(7) Im Freien Bereich kann folgendes Modul gewählt werden:|||||
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
+||Basismodul Didaktik der Geschichte|4|5|<br>Klausur 80 %<br>Kurzreferat/Thesenpapier<br>20 %|
+|*Z|Aufbaumodul Didaktik der Geschichte*<br>ulassungsvorraussetzung: erfolgreiche Teilnahme am Basismodul|4|5|Hausarbeit|
+|(7) Im<br>**Sem.**|Freien Bereich kann folgendes Modul gewä<br>**Modul**|hlt wer<br>**SWS**|den:<br>**ECTS**|**Prüfungsleistungen**|
 ||Vertiefungsmodul Didaktik der Geschichte*|4|5|2 x Portfolio/Reflexionspapier<br>je 50 %|
 
 * Zulassungsvorraussetzung: erfolgreiche Teilnahme am Basis- und Aufbaumodul 
@@ -134,25 +133,25 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 
 * Zulassungsvorraussetzung: erfolgreiche Teilnahme am Basismodul 
 
-## **3. Lehramt an Realschulen** 
+### **3. Lehramt an Realschulen** 
 
-**§ 5 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Insgesamt müssen jeweils mindestens 7 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 11 Leistungspunkte auf das Teilgebiet Neueste Geschichte und mindestens 6 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 48, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte, Mittelalterliche, Neuere und Neueste Geschichte (einschließlich Landesgeschichte) entfallen.[2] Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
+**§ 5 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Insgesamt müssen jeweils mindestens 7 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 11 Leistungspunkte auf das Teilgebiet Neueste Geschichte und mindestens 6 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 48, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte, Mittelalterliche, Neuere und Neueste Geschichte (einschließlich Landesgeschichte) entfallen.<sup>2</sup> Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
 
 (2) Lehrveranstaltungen in Landesgeschichte und osteuropäischer Geschichte gelten je nach ihrer Thematik als Lehrveranstaltungen der Alten, Mittelalterlichen, Neueren oder Neuesten Geschichte. 
 
-(3)[1] Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Die 3 Leistungspunkte der Einführungsübung Propädeutik und Hilfswissenschaften werden nach Wahl der Studierenden zu je 1 Leistungspunkt auf 3 der 4 Teilgebiete (Alte, Mittelalterliche, Neuere, Neueste Geschichte) verteilt. 
+(3)<sup>1</sup> Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Die 3 Leistungspunkte der Einführungsübung Propädeutik und Hilfswissenschaften werden nach Wahl der Studierenden zu je 1 Leistungspunkt auf 3 der 4 Teilgebiete (Alte, Mittelalterliche, Neuere, Neueste Geschichte) verteilt. 
 
 4 
 
-(4) Im Fach Geschichte für das Lehramt an Realschulen werden folgende Module angeboten: 
+(4) Im Fach Geschichte für das Lehramt an Realschulen werden folgende Module <u>angeboten:</u> 
 
 |**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungs-**<br>**leistungen**|
 |---|---|---|---|---|
-||**Grundlagen- und Orientierungsmodul (LARS I)**~~*****~~|**8**|**15**||
+||**Grundlagen- und Orientierungsmodul (LARS I)**<sup>**~~*~~**</sup>|**8**<br>|**15**||
 |1|EinführungsübungPropädeutikundHilfswissenschaften|2Ü|3|Klausur|
-|1|EinführungsvorlesungAlte Geschichte|2V|4|Klausur|
+|1|EinführungsvorlesungAlte Geschichte<br>|2V|4|Klausur|
 |1|EinführungsvorlesungMittlere Geschichte|2V|4|Klausur|
-|2|EinführungsvorlesungNeuere undNeueste Geschichte|2V|4|Klausur|
+|2|EinführungsvorlesungNeuere undNeueste Geschichte<br>|2V|4|Klausur|
 ||**Basismodul Alte Geschichte und Mittelalterliche**<br>**Geschichte (LARS II)**|**6**|**10**||
 |2 - 4|Vorlesung Alte oder Mittelalterliche Geschichte|2V|3|Mündliche<br>Prüfung oder<br>Klausur|
 |2 - 4|Proseminar Alte Geschichte|2S|3,5|Referat|
@@ -161,10 +160,10 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 |3 - 4|Vorlesung Neuere oder Neueste Geschichte|2V|3|Mündliche<br>Prüfung oder<br>Klausur|
 |3- 4|Proseminar Neuere Geschichte|2S|3,5|Referat|
 |3-4|Proseminar Neueste Geschichte|2S|3,5|Referat|
-||**Schwerpunktmodul Alte und Mittelalterliche**<br>**Geschichtea (LARS IV)**|**4**|**10**||
+||**Schwerpunktmodul Alte und Mittelalterliche**<br>**Geschichte**<sup>**a**</sup>**(LARS IV)**|**4**|**10**||
 |5 - 6|Vorlesung Alte oder Mittelalterliche Geschichte|2V|4|Mündliche<br>Prüfung oder<br>Klausur|
 |5-6|Hauptseminar Alte oder Mittelalterliche Geschichte<br>|2|6|Hausarbeit|
-||**Schwerpunktmodul Neuere und Neueste Geschichte**~~**b**~~<br>**(LARS V)**|**4**|**10**||
+||**Schwerpunktmodul Neuere und Neueste Geschichte**<sup>**~~b~~**</sup><br>**(LARS V)**|**4**|**10**||
 |5 - 6|Vorlesung Neuere oder Neueste Geschichte|2V|4|Mündliche<br>Prüfung oder<br>Klausur|
 |5-6|Hauptseminar Neuere oder Neueste Geschichte|2|6|Hausarbeit|
 ||**Wahlpflichtmodul (LARS VI)**|**8**|**5**||
@@ -174,7 +173,7 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 
 Die Dauer der Klausuren beträgt 60 – 90 Minuten, die Dauer der mündlichen Prüfungen beträgt 10 – 30 Minuten. * = Klausuren aus dem Grundlagen- und Orientierungsmodul können ggf. zusammengefasst werden a = Wird die Vorlesung aus dem Bereich der Alten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Mittelalterlichen Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Mittelalterlichen Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Alten Geschichte belegt werden. b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neuesten Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Neuesten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neueren Geschichte belegt werden. 
 
-## (5) Im Bereich Fachdidaktik sind folgende Module abzulegen: 
+### <u>(5) Im Bereich Fachdidaktik sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -185,33 +184,34 @@ Die Dauer der Klausuren beträgt 60 – 90 Minuten, die Dauer der mündlichen Pr
 
 5 
 
-## (6) Im Freien Bereich kann folgendes Modul gewählt werden: 
+### <u>(6) Im Freien Bereich kann folgendes Modul gewählt werden:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
-||Vertiefungsmodul Didaktik der Geschichte*|4|5|2 x<br>Portfolio/Reflexionspapier<br>je 50 %|
+|||||2 x|
+||Vertiefungsmodul Didaktik der Geschichte*|4|5|Portfolio/Reflexionspapier<br>je 50 %|
 
 * Zulassungsvorraussetzung: erfolgreiche Teilnahme am Basis- und Aufbaumodul 
 
 (7) § 4 Abs. 8 gilt entsprechend. 
 
-## **4. Lehramt an Grund- und Hauptschulen** 
+### **4. Lehramt an Grund- und Hauptschulen** 
 
-## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
+### **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Insgesamt müssen jeweils mindestens 7 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 11 Leistungspunkte auf das Teilgebiet Neueste Geschichte und mindestens 6 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 48, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte, Mittelalterliche, Neuere und Neueste Geschichte (einschließlich Landesgeschichte) entfallen.[2] Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
+(1)<sup>1</sup> Insgesamt müssen jeweils mindestens 7 Leistungspunkte auf die Teilgebiete Alte Geschichte, Mittelalterliche Geschichte, Neuere Geschichte und Landesgeschichte, mindestens 11 Leistungspunkte auf das Teilgebiet Neueste Geschichte und mindestens 6 Leistungspunkte entsprechend der Schwerpunktbildung gemäß § 48, Abs. 2 Nr. 2 LPO I auf die Teilgebiete Alte, Mittelalterliche, Neuere und Neueste Geschichte (einschließlich Landesgeschichte) entfallen.<sup>2</sup> Ein Leistungsnachweis kann grundsätzlich nicht doppelt angerechnet werden. 
 
 (2) Lehrveranstaltungen in Landesgeschichte und osteuropäischer Geschichte gelten je nach ihrer Thematik als Lehrveranstaltungen der Alten, Mittelalterlichen, Neueren oder Neuesten Geschichte. 
 
-(3)[1] Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Für die Einführungsübung Propädeutik und Hilfswissenschaften entfallen je 0,5 Leistungspunkte auf die Alte, Mittelalterliche, Neuere und Neueste Geschichte. 
+(3)<sup>1</sup> Für die Einführungsvorlesung Neuere und Neueste Geschichte entfallen 2 Leistungspunkte auf die Neuere und 2 Leistungspunkte auf die Neueste Geschichte. 2Für die Einführungsübung Propädeutik und Hilfswissenschaften entfallen je 0,5 Leistungspunkte auf die Alte, Mittelalterliche, Neuere und Neueste Geschichte. 
 
 6 
 
-## (4) Im Fach Geschichte für das Lehramt an Grund- und Hauptschulen werden folgende Module angeboten: 
+### (4) Im Fach Geschichte für das Lehramt an Grund- und Hauptschulen werden folgende <u>Module angeboten:</u> 
 
 |**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungs-**<br>**leistungen**|
 |---|---|---|---|---|
-||**Grundlagen- und Orientierungsmodul (LAGS I)**~~*****~~|**6**|**10**||
+||**Grundlagen- und Orientierungsmodul (LAGS I)**<sup>**~~*~~**</sup>|**6**|**10**||
 |1|Einführungsübung Propädeutik und Hilfswissenschaften|2Ü|2|Erfolgreiche<br>Teilnahme|
 |1|Einführungsvorlesung Alte Geschichte oder Mittelalterliche<br>Geschichte|2V|4|Klausur|
 |2|Einführungsvorlesung Neuere und Neueste Geschichte|2V|4|Klausur|
@@ -223,22 +223,20 @@ Die Dauer der Klausuren beträgt 60 – 90 Minuten, die Dauer der mündlichen Pr
 |3- 4|VorlesungNeuere Geschichte|2V|3|Referat|
 |3- 4|Proseminar Neuere Geschichte|2S|3,5|Referat|
 |3-4|Proseminar Neueste Geschichte|2S|3,5|Referat|
-||**Schwerpunktmodul Alte und Mittelalterliche**<br>**Geschichtea (LAGS IV)**|**4**|**10**||
+||**Schwerpunktmodul Alte und Mittelalterliche**<br>**Geschichte**<sup>**a**</sup>**(LAGS IV)**|**4**|**10**||
 |5 - 6|Vorlesung Alte oder Mittelalterliche Geschichte|2V|4|Mündliche Prüfung<br>oder Klausur|
 |5-6|Hauptseminar Alte oder Mittelalterliche Geschichte<br>|2|6|Hausarbeit|
-||**Schwerpunktmodul Neuere und Neueste Geschichte**~~**b**~~<br>**(LAGS V)**|**4**|**10**||
+||**Schwerpunktmodul Neuere und Neueste Geschichte**<sup>**~~b~~**</sup><br>**(LAGS V)**|**4**|**10**||
 |5 - 6|Vorlesung Neuere oder Neueste Geschichte|2V|4|Mündliche Prüfung<br>oder Klausur|
 |5-6|Hauptseminar Neuere oder Neueste Geschichte|2V|6|Hausarbeit|
-||**Wahlpflichtmodul (LAGS VI)**|**4**|**4**||
+||**Wahlpflichtmodul (LAGS VI)**<br>|**4**|**4**||
 |3 - 6|Übung aus dem Angebot des Instituts für Geschichte oder<br>der DidaktikderGeschichte|2Ü|2|Erfolgreiche<br>Teilnahme|
 |3 - 6|Übung aus dem Angebot des Instituts für Geschichte|2Ü|2|Erfolgreiche<br>Teilnahme|
 ||**Summe der Leistungspunkte 1. bis 6. Semester**||**54**||
 
-Die Dauer der Klausuren beträgt 60 – 90 Minuten, die Dauer der mündlichen Prüfungen beträgt 10 – 30 Minuten. * = Klausuren aus dem Grundlagen- und Orientierungsmodul können ggf. zusammengefasst werden a = Wird die Vorlesung aus dem Bereich der Alten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Mittelalterlichen Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Mittelalterlichen Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Alten Geschichte belegt werden. 
+Die Dauer der Klausuren beträgt 60 – 90 Minuten, die Dauer der mündlichen Prüfungen beträgt 10 – 30 Minuten. * = Klausuren aus dem Grundlagen- und Orientierungsmodul können ggf. zusammengefasst werden a = Wird die Vorlesung aus dem Bereich der Alten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Mittelalterlichen Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Mittelalterlichen Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Alten Geschichte belegt werden. b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neuesten Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Neuesten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neueren Geschichte belegt werden. 
 
-b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neuesten Geschichte belegt werden. Wird die Vorlesung aus dem Bereich der Neuesten Geschichte gewählt, muss das Hauptseminar aus dem Bereich der Neueren Geschichte belegt werden. 
-
-## (5) Im Bereich Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Grundschulen sind folgende Module abzulegen: 
+### (5) Im Bereich Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an <u>Grundschulen sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -249,7 +247,7 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 
 7 
 
-- (6) Im Bereich der Didaktik der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module abzulegen: 
+- (6) Im Bereich der Didaktik der Fächergruppe im Studium des Lehramts an <u>Grundschulen sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -258,7 +256,7 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 
 * Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basismodul 
 
-- (7) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Hauptschulen sind folgende Module abzulegen: 
+- (7) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an <u>Hauptschulen sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Name des Moduls**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -267,23 +265,23 @@ b = Wird die Vorlesung aus dem Bereich der Neueren Geschichte gewählt, muss das
 
    - Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basismodul 
 
-- (8) Im Bereich der Didaktik der Fächergruppe im Studium des Lehramts an Hauptschulen sind folgende Module abzulegen: 
+- (8) Im Bereich der Didaktik der Fächergruppe im Studium des Lehramts an <u>Hauptschulen sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 ||Basismodul Didaktik der Geschichte|4|6|Klausur 80 %<br>Kurzreferat/Thesenpapier<br>20 %|
-||Aufbaumodul Didaktik der Geschichte*1|6|9|Klausur (80 %)<br>Kurzreferat/Thesenpapier<br>20 %|
-||Vertiefungsmodul Didaktik der Geschichte*2<br>|4<br>|5|2x Portfolio/<br>Reflexionspapierje 50 %|
+||Aufbaumodul Didaktik der Geschichte*<sup>1</sup>|6|9|Klausur (80 %)<br>Kurzreferat/Thesenpapier<br>20 %|
+||Vertiefungsmodul Didaktik der Geschichte*<sup>2</sup><br>|4<br>|5|2x Portfolio/<br>Reflexionspapierje 50 %|
 
-- [1] Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basismodul 
+- <sup><u>1</u></sup> Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basismodul 
 
-- [2] Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basis- und Aufbaumodul 
+- <sup>2</sup> Zulassungsvorrausetzung: erfolgreiche Teilnahme am Basis- und Aufbaumodul 
 
-## (9) § 4 Abs. 8 gilt entsprechend. 
+### (9) § 4 Abs. 8 gilt entsprechend. 
 
-## **5. Schluss- und Übergangsvorschriften** 
+### **5. Schluss- und Übergangsvorschriften** 
 
-## **§ 7 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+### **§ 7 In-Kraft-Treten** Diese Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 8 
 

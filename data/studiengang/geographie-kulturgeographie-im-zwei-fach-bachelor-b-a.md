@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät, Philosophische Fakultät und Fachb
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor"
-scraped_at: 2026-05-01T06:45:16+00:00
+scraped_at: 2026-07-01T08:21:59+00:00
 ---
 
 # Geographie: Kulturgeographie im Zwei-Fach-Bachelor (B.A.)
@@ -34,6 +34,17 @@ scraped_at: 2026-05-01T06:45:16+00:00
 Kulturgeographie kann im modularisierten Zwei-Fach-Bachelorstudiengang als erstes (85 ECTS) oder zweites Fach (70 ECTS) in Kombination mit zahlreichen anderen Fächern der Philosophischen Fakultät studiert werden. Dabei wird eine Kombination mit **Politikwissenschaft**, **Soziologie**, **Ökonomie** oder **Sprachwissenschaften** empfohlen.
 
 Im Studium beschäftigen Sie sich mit Prozessen und Zusammenhängen, die die räumliche Organisation und Repräsentation von Gesellschaften in allen Teilen der Erde betreffen. Dabei erlernen Sie zunächst Grundlagen von Gesellschafts- und Raumtheorien, von Stadt- und Regionalentwicklung, von Demographie und Migration, interkultureller Interaktion sowie regionaler und globaler Wirtschaftsprozesse. Hier steht besonders die Verbindung von natur- und sozialwissenschaftlichen Perspektiven für ein umfassendes Verständnis von Gesellschaft-Umwelt-Beziehungen im Mittelpunkt. Darüber hinaus befassen Sie sich mit der Konzeption, Durchführung und Auswertung von Befragungen, Kartierungen und der Anwendung aller weiteren sozial- und regionalwissenschaftlichen Methoden.
+
+### Fachanteile des Studiengangs Geographie: Kulturgeographie (B.A.)
+
+* Gesellschaft-/Umwelt (15%)
+* Globale Ungleichheit (15%)
+* Kulturelle und Politische Geographie (15%)
+* Stadt-und Regionalfoschung (15%)
+* Exkursion und Praxisbezug (10%)
+* Sozialwissenschaftliche Methode (10%)
+* Boden und Geomorphologie (5%)
+* Klima und Vegetation (5%)
 
 ### Aufbau und Struktur
 
@@ -65,7 +76,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 * [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 * [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
 * [Geschichte](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geschichte-ba/)
@@ -89,7 +100,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 * [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -161,7 +172,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Germanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/germanistik-ba/)
 - [Archäologische Wissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/archaeologische-wissenschaften-ba/)
 - [Buchwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/buchwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Frankoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/frankoromanistik-ba/)
 - [Geschichte](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geschichte-ba/)
@@ -184,6 +195,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)

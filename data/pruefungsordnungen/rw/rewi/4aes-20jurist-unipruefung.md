@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. August 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES%20Jurist-UniPruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:17:18+00:00
-page_count_chars: 3869
+scraped_at: 2026-07-01T10:34:44+00:00
+page_count_chars: 3868
 ---
 
 # 29. August 2012
@@ -12,7 +12,7 @@ page_count_chars: 3869
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/4AES%20Jurist-UniPruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Vierte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
+# **Vierte Satzung zur Änderung der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung** 
 
 Vom 29. August 2012 
 

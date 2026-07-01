@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "APO SprZ 20180515 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachenzentrum/Aenderungssatzungen/APO_SprZ_20180515_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:24+00:00
-page_count_chars: 3358
+scraped_at: 2026-07-01T11:12:40+00:00
+page_count_chars: 3043
 ---
 
 # APO SprZ 20180515 ÄS.pdf
@@ -12,7 +12,7 @@ page_count_chars: 3358
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Sprachpruefungen/Sprachenzentrum/Aenderungssatzungen/APO_SprZ_20180515_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/>
 
-## **Erste Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – APO/SprZ – Vom 15. Mai 2018** 
+# **Erste Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – APO/SprZ – Vom 15. Mai 2018** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -42,15 +42,13 @@ Die Allgemeine Studien- und Prüfungsordnung für das Sprachenzentrum der Friedr
 
 1 
 
-- b) Die Tabelle in Ziffer 4 wird wie folgt geändert: 
+b) Die Tabelle in Ziffer 4 wird wie folgt geändert: 
 
-|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:|aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt:||
-|---|---|---|---|---|---|---|
+aa) Nach Zeile 6 (Italienisch) wird folgende neue Zeile eingefügt: 
+
 |Japanisch|12 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
-
-bb) Nach Zeile 9 (Niederländisch) wird folgende neue Zeile eingefügt: 
-
-Norwegisch 8 SWS 4 SWS kein Angebot kein Angebot kein Angebot kein Angebot 
+|---|---|---|---|---|---|---|
+|bb<br>Norwegisch|) Nach Z<br>8 SWS|eile 9 (Niederl<br>4 SWS|ändisch) wird<br>kein Angebot|folgende neu<br>kein Angebot|e Zeile eingef<br>kein Angebot|ügt:<br>kein Angebot|
 
 - c) In Ziffer 5 werden in der Tabelle das Wort „Japanisch“ und das Wort „Norwegisch“ gestrichen. 
 

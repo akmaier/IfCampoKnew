@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "berufsbegl BA Sportwissenschaft BPOSport 20190503 ÄS zu 1ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Sportwissenschaft/Aenderungssatzungen/berufsbegl_BA_Sportwissenschaft_BPOSport_20190503_AeS_zu_1AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:11:57+00:00
-page_count_chars: 3585
+scraped_at: 2026-07-01T09:31:55+00:00
+page_count_chars: 3672
 ---
 
 # berufsbegl BA Sportwissenschaft BPOSport 20190503 ÄS zu 1ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 3585
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Bachelor/Ein-Fach/Sportwissenschaft/Aenderungssatzungen/berufsbegl_BA_Sportwissenschaft_BPOSport_20190503_AeS_zu_1AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
 
-## **Satzung zur Änderung der Ersten Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Bachelorstudiengang „Sportwissenschaft“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BPOSport –** 
+# **Satzung zur Änderung der Ersten Satzung zur Änderung der Studien- und Prüfungsordnung für den berufsbegleitenden Bachelorstudiengang „Sportwissenschaft“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BPOSport –** 
 
-## **Vom 3. Mai 2019** 
+# **Vom 3. Mai 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -30,9 +30,9 @@ Die erste Satzung zur Änderung der Studien- und Prüfungsordnung für den beruf
 
 „§ 10 Abs. 2 und 3 erhalten folgende neue Fassung: 
 
-„(2)[1] Die Studierenden melden sich zu den einzelnen Modulprüfungen entsprechend des Studienverlaufsplans in der **Anlage** nach Beginn der Vorlesungszeit an.[2] Die Anmeldetermine und Anmeldeformalitäten werden vier Wochen vorher ortsüblich bekannt gemacht. 
+„(2)<sup>1</sup> Die Studierenden melden sich zu den einzelnen Modulprüfungen entsprechend des Studienverlaufsplans in der **Anlage** nach Beginn der Vorlesungszeit an.<sup>2</sup> Die Anmeldetermine und Anmeldeformalitäten werden vier Wochen vorher ortsüblich bekannt gemacht. 
 
-(3)[1] Unbeschadet der Fristen nach §§ 8, 28 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch von gemäß Abs. 2 angemeldeten Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.[4] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.[5] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 12 Abs. 1.“ 
+(3)<sup>1</sup> Unbeschadet der Fristen nach §§ 8, 28 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch von gemäß Abs. 2 angemeldeten Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>3</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsamt unverzüglich ein vertrauensärztliches Attest vorzulegen.<sup>4</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.<sup>5</sup> Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 12 Abs. 1.“ 
 
 “ 
 
@@ -42,9 +42,9 @@ Die erste Satzung zur Änderung der Studien- und Prüfungsordnung für den beruf
 
 „Abs. 1 erhält folgende neue Fassung: 
 
-„(1)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (vgl. § 10 Abs. 3) ohne triftige Gründe zurücktritt; § 8 Abs. 3 bleibt unberührt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden; § 10 Abs. 3 Sätze 2 – 4 gelten entsprechend.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.“ “ 
+„(1)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (vgl. § 10 Abs. 3) ohne triftige Gründe zurücktritt; § 8 Abs. 3 bleibt unberührt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden; § 10 Abs. 3 Sätze 2 – 4 gelten entsprechend.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.“ “ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

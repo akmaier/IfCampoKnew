@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa_FPOManagement.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:40:15+00:00
-page_count_chars: 11557
+scraped_at: 2026-07-01T11:05:02+00:00
+page_count_chars: 11344
 ---
 
 # 18. August 2017
@@ -12,7 +12,7 @@ page_count_chars: 11557
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa_FPOManagement.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOManagement – Vom 18. August 2017** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg (FAU) – FPOManagement – Vom 18. August 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -48,7 +48,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
-   - aa) Die Absatzstruktur wird aufgehoben; vor dem Wort „[1] Im“ werden die Zeichen und die Zahl „(1)“ gestrichen. 
+   - aa) Die Absatzstruktur wird aufgehoben; vor dem Wort „<sup>1</sup> Im“ werden die Zeichen und die Zahl „(1)“ gestrichen. 
 
    - bb) In Satz 2 werden nach dem Wort „Zusammensetzung“ das Wort, das Zeichen und die Zahl „nach § 4“ angefügt. 
 
@@ -60,13 +60,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der 
 
 ## „ **§ 4 Vertiefungsbereich** 
 
-(1)[1] Das Qualifikationsziel der einzelnen Modulgruppen „Management globaler Unternehmen“, „Management industrieller Unternehmen“, „Management im Gesundheitssektor“, „Dienstleistungsmanagement“ und „Supply chain management“ des Vertiefungsbereichs liegt darin, den Studierenden zu ermöglichen, sich auf einen oder mehrere Unternehmenstypen zu spezialisieren.[2] Darüber hinaus sollen die Studierenden durch Wahl der jeweiligen Modulgruppe gezielt auf die Übernahme von Managementaufgaben in dem jeweiligen Unternehmenstyp vorbereitet werden.[3] Die gewählte Spezialisierung dient den Studierenden dazu, ihr Profil mit Blick auf ein gewünschtes zukünftiges Berufsfeld zu schärfen.[4] Neben der Möglichkeit zur Spezialisierung soll über die Modulgruppe „Interdisziplinäre Module“ im Vertiefungsbereich die Möglichkeit gegeben werden, das individuelle Profil um weitere relevante Kernkompetenzen zu ergänzen, bzw. sich grundlegend generalistischer aufzustellen. 
+(1)<sup>1</sup> Das Qualifikationsziel der einzelnen Modulgruppen „Management globaler Unternehmen“, „Management industrieller Unternehmen“, „Management im Gesundheitssektor“, „Dienstleistungsmanagement“ und „Supply chain management“ des Vertiefungsbereichs liegt darin, den Studierenden zu ermöglichen, sich auf einen oder mehrere Unternehmenstypen zu spezialisieren.<sup>2</sup> Darüber hinaus sollen die Studierenden durch Wahl der jeweiligen Modulgruppe gezielt auf die Übernahme von Managementaufgaben in dem jeweiligen Unternehmenstyp vorbereitet werden.<sup>3</sup> Die gewählte Spezialisierung dient den Studierenden dazu, ihr Profil mit Blick auf ein gewünschtes zukünftiges Berufsfeld zu schärfen.<sup>4</sup> Neben der Möglichkeit zur Spezialisierung soll über die Modulgruppe „Interdisziplinäre Module“ im Vertiefungsbereich die Möglichkeit gegeben werden, das individuelle Profil um weitere relevante Kernkompetenzen zu ergänzen, bzw. sich grundlegend generalistischer aufzustellen. 
 
 2 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (60 oder 90 Min.), schriftliche Haus- bzw. Seminararbeit, Präsentation, Fallstudie, elektronische Prüfung oder Kombinationen aus diesen.[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungsleistungen sind: Klausur (60 oder 90 Min.), schriftliche Haus- bzw. Seminararbeit, Präsentation, Fallstudie, elektronische Prüfung oder Kombinationen aus diesen.<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(3)[1] Die Wahlmodule setzen sich in der Regel entweder aus einer Vorlesung und einer Übung (1-3 SWS) oder einem Seminar (1-3 SWS) zusammen.[2] Näheres regelt das Modulhandbuch.“ 
+(3)<sup>1</sup> Die Wahlmodule setzen sich in der Regel entweder aus einer Vorlesung und einer Übung (1-3 SWS) oder einem Seminar (1-3 SWS) zusammen.<sup>2</sup> Näheres regelt das Modulhandbuch.“ 
 
 6. Der bisherige § 4 wird zu § 5 und wie folgt geändert: 
 
@@ -74,13 +74,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Management der 
 
    - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die sechste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.[3] Abweichend von Satz 2 gelten die Änderungen in § 2 und der Anlage 1 für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die sechste Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 gelten die Änderungen in § 2 und der Anlage 1 für alle Studierenden, die das Studium ab dem Sommersemester 2018 aufnehmen werden.“ 
 
-7. **Anlage 1** wird wie folgt geändert: 
+## 7. **Anlage 1** wird wie folgt geändert: 
 
-   - a) In Ziffer 1 wird nach den Worten „spezifischen Fachgebieten“ das Wort „besitzt“ durch das Wort „besitzen“ ersetzt. 
+- a) In Ziffer 1 wird nach den Worten „spezifischen Fachgebieten“ das Wort „besitzt“ durch das Wort „besitzen“ ersetzt. 
 
-   - b) Ziffer 5 wird wie folgt geändert: 
+- b) Ziffer 5 wird wie folgt geändert: 
 
 aa) Ziffer 5.1 wird wie folgt geändert: 
 
@@ -88,13 +88,13 @@ aa) Ziffer 5.1 wird wie folgt geändert:
 
 - (2) Nach Satz 4 wird folgender neuer Satz 5 eingefügt: 
 
-„[5] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; die Zugangskommission kann die Vorlage eines vertrauensärztlichen Attestes verlangen.“ 
+„<sup>5</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; die Zugangskommission kann die Vorlage eines vertrauensärztlichen Attestes verlangen.“ 
 
 - (3) Der bisherige Satz 5 wird zu Satz 6; nach Satz 6 (neu) wird folgender neuer Satz 7 angefügt: 
 
 3 
 
-„[7] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung; eine Teilnahme am Zugangstest ist frühestens zum nächsten angebotenen Termin im Rahmen des Bewerbungsverfahrens für den folgenden Aufnahmetermin möglich.“ 
+„<sup>7</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung; eine Teilnahme am Zugangstest ist frühestens zum nächsten angebotenen Termin im Rahmen des Bewerbungsverfahrens für den folgenden Aufnahmetermin möglich.“ 
 
    - bb) In Ziffer 5.3 werden nach dem Wort „kann“ die Worte „bei unveränderten Qualifikationsnachweisen im Rahmen der Bewerbung für den Zugang zum Studium“ eingefügt. 
 
@@ -108,40 +108,36 @@ aa) Ziffer 5.1 wird wie folgt geändert:
 
 ## **Anlage 2: Studienverlaufsplan Master Management** 
 
-|Mdlbih|Lhtlt|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|At d Uf d Püf/Stdilit|Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|ouezecnung|erveransaung|V|Ü|P|S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|r un mang er runguenesung|Abschlussnote|
-|**Pflichtbereich I**||||||**25**|||||||
-|**Business strategy**|Business strategy|2|1|||5|5||||Klausur (60 Minuten)|1|
-|**Produktions- und**<br>**Supply Chain Ma-**<br>**nagement**|Produktions- und<br>Supply Chain<br>Management|2|1|||5|5||||Klausur (90 Minuten)|1|
-|**Personalmanage-**<br>**ment**|Personalmanage-<br>ment|2|1|||5|5||||Klausur (60 Minuten, 80%) und Präsentation<br>(20%)|1|
-|**Finanzielle Grund-**<br>**lagen des Manage-**<br>**ments**|Finanzielle Grund-<br>lagen des Mana-<br>gements|2|1|||5|5||||Klausur (60 Minuten)|1|
-|**Technology and**<br>**innovation ma-**<br>**nagement**|Technology and<br>innovation ma-<br>nagement|2|1|||5||5|||Klausur (90 Minuten)|1|
-|**Pflichtbereich II**||||||**20**|||||||
-|**Angewandte Ma-**<br>**nagementmetho-**<br>**den**|V oder S|2|||2|5|5||||Klausur (60 Minuten) oder Klausur (60 Minuten)<br>und Fallstudie1|1|
-|**Fallstudien und**<br>**Projekte im Ma-**<br>**nagement**|S||||2|5||5|||Präsentation oder Diskussionspapier und<br>Präsentation  oder Hausarbeit und Präsentati-<br>on oder Klausur (60 Minuten) oder Projektbe-<br>richt und Präsentation1|1|
-|**Teamfähigkeit,**<br>**Präsentations- und**<br>**Verhandlungstech-**<br>**niken**|S||||2|5|||5||Präsentation oder Hausarbeit und Präsentati-<br>on oder Seminararbeit und Präsentation1|1|
-|**Fortgeschrittene**<br>**Methoden der**<br>**Managementfor-**<br>**schung**|S||||2|5|||5||Hausarbeit oder Präsentation oder Seminarar-<br>beit und Präsentation oder Hausarbeit und<br>Präsentation oder Klausur (60 Minuten) und<br>Präsentation und Seminararbeit1|1|
-|**Vertiefungsbereich**<br>**(freie Wahl von**||||||**45**||||||Vgl. Fußnote 2|
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>V<br>Ü<br>P|S|Gesamt<br>ECTS|Wor<br>1.<br>Sem.|kload-Verteilung pro Se<br>2.<br>Sem.|mester in ECTS-Punkte<br>3.<br>Sem.|n<br>4.<br>Sem.|Art und Umfang der Prüfung/Studienleistung|Faktor<br>Abschlussnote|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Pflichtbereich I**||||**25**|||||||
+|**Business strategy**|Business strategy|2<br>1||5|5||||Klausur (60 Minuten)|1|
+|**Produktions- und**<br>**Supply Chain Ma-**<br>**nagement**|Produktions- und<br>Supply Chain<br>Management|2<br>1||5|5||||Klausur (90 Minuten)|1|
+|**Personalmanage-**<br>**ment**|Personalmanage-<br>ment|2<br>1||5|5||||Klausur (60 Minuten, 80%) und Präsentation<br>(20%)|1|
+|**Finanzielle Grund-**<br>**lagen des Manage-**<br>**ments**|Finanzielle Grund-<br>lagen des Mana-<br>gements|2<br>1||5|5||||Klausur (60 Minuten)|1|
+|**Technology and**<br>**innovation ma-**<br>**nagement**|Technology and<br>innovation ma-<br>nagement|2<br>1||5||5|||Klausur (90 Minuten)|1|
+|**Pflichtbereich II**||||**20**|||||||
+|**Angewandte Ma-**<br>**nagementmetho-**<br>**den**|V oder S|2|2|5|5||||Klausur (60 Minuten) oder Klausur (60 Minuten)<br>und Fallstudie<sup>1</sup>|1|
+|**Fallstudien und**<br>**Projekte im Ma-**<br>**nagement**|S||2|5||5|||Präsentation oder Diskussionspapier und<br>Präsentation  oder Hausarbeit und Präsentati-<br>on oder Klausur (60 Minuten) oder Projektbe-<br>richt und Präsentation<sup>1</sup>|1|
+|**Teamfähigkeit,**<br>**Präsentations- und**<br>**Verhandlungstech-**<br>**niken**|S||2|5|||5||Präsentation oder Hausarbeit und Präsentati-<br>on oder Seminararbeit und Präsentation<sup>1</sup>|1|
+|**Fortgeschrittene**<br>**Methoden der**<br>**Managementfor-**<br>**schung**|S||2|5|||5||Hausarbeit oder Präsentation oder Seminarar-<br>beit und Präsentation oder Hausarbeit und<br>Präsentation oder Klausur (60 Minuten) und<br>Präsentation und Seminararbeit<sup>1</sup>|1|
+|**Vertiefungsbereich**<br>**(freie Wahl von**||||**45**||||||Vgl. Fußnote 2|
 
 5 
 
-|Mdlbihnn|Lhrrntltn|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Workload-Verteilung pro Semester in ECTS-Punkten|Art nd Umfn dr Prüfn/Stdinlitn|Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|ouezecug|eveasaug|V|Ü|P|S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|u ag e ugueesug|Abschlussnote|
-|**neun Modulen)**|||||||||||||
-|**Modulgruppe**<br>**Management**<br>**globaler Unter-**<br>**nehmen**|Gem. § 4 Abs. 3|||||0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
-|**Modulgruppe**<br>**Management**<br>**industrieller Unter-**<br>**nehmen**|Gem. § 4 Abs. 3|||||0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
-|**Modulgruppe**<br>**Management im**<br>**Gesundheitssektor**|Gem. § 4 Abs. 3|||||0-45|0-5|0-20|0-20||Gem. 4 Abs. 2||
-|**Modulgruppe**<br>**Dienstleistungsma-**<br>**nagement**|Gem. § 4 Abs. 3|||||0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
-|**Modulgruppe**<br>**Supply chain ma-**<br>**nagement**|Gem. § 4 Abs. 3|||||0-35|0-5|0-20|0-10||Gem. § 4 Abs. 2||
-|**Modulgruppe**<br>**Interdisziplinäre**<br>**Module**|Gem. § 4 Abs. 3|||||0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
-||||||||||||||
-||||||||||||||
-||||||||||||||
-|**Masterarbeit**||||||**30**||||30|Masterarbeit|1|
-|||12|5||8||30|30|30|30|||
-|Summe SWS und ECTS||Mindestens 25 SWS||||**120**|||||||
+|Modulbezeichnung|Lehrveranstaltung<br>SWS<br>|Gesamt|Wor|kload-Verteilung pro S|emester in ECTS-Pun|kten|Art und Umfang der Prüfung/Studienleistung|Faktor|
+|---|---|---|---|---|---|---|---|---|
+||<br>V<br>Ü<br>P<br>S|ECTS|1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.||Abschlussnote|
+|**neun Modulen)**|||||||||
+|**Modulgruppe**<br>**Management**<br>**globaler Unter-**<br>**nehmen**|Gem. § 4 Abs. 3|0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
+|**Modulgruppe**<br>**Management**<br>**industrieller Unter-**<br>**nehmen**|Gem. § 4 Abs. 3|0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
+|**Modulgruppe**<br>**Management im**<br>**Gesundheitssektor**|Gem. § 4 Abs. 3|0-45|0-5|0-20|0-20||Gem. 4 Abs. 2||
+|**Modulgruppe**<br>**Dienstleistungsma-**<br>**nagement**|Gem. § 4 Abs. 3|0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
+|**Modulgruppe**<br>**Supply chain ma-**<br>**nagement**|Gem. § 4 Abs. 3|0-35|0-5|0-20|0-10||Gem. § 4 Abs. 2||
+|**Modulgruppe**<br>**Interdisziplinäre**|Gem. § 4 Abs. 3|0-45|0-5|0-20|0-20||Gem. § 4 Abs. 2||
+|**Module**|||||||||
+|**Masterarbeit**||**30**||||30|Masterarbeit|1|
+|S|umme SWS und ECTS<br>12<br>5<br>8<br>Mindestens 25 SWS|**120**|30|30|30|30|||
 
 > **1** Art und Umfang der Lehrveranstaltung(en) und der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und richten sich nach dem Modulhandbuch. 
 

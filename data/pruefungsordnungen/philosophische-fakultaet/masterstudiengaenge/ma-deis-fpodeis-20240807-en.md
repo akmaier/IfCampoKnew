@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA DEIS FPODEIS 20240807 en.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/englisch/MA_DEIS_FPODEIS_20240807_en.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:25:23+00:00
-page_count_chars: 31395
+scraped_at: 2026-07-01T09:39:39+00:00
+page_count_chars: 31182
 ---
 
 # MA DEIS FPODEIS 20240807 en.pdf
@@ -12,15 +12,26 @@ page_count_chars: 31395
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/englisch/MA_DEIS_FPODEIS_20240807_en.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Degree Program and Examination Regulations for the Master’s Degree Program** 
-
-## **in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) –FPODEIS –** 
+# **Degree Program and Examination Regulations for the Master’s Degree Program in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) –FPODEIS –** 
 
 ## **dated August 7, 2024** 
 
 Based on Section 9 (1) in conjunction with Section 80 (1)(1), Section 84 (2)(1), Section 88 (9), Section 90 (1)(2) and Section 96 (3) Bavarian Higher Education Innovation Act dated August 5, 2022 ( **BayHIG** ), FAU enacts the following degree program and examination regulations: 
 
-**Contents: Section 1 Scope ................................................................................................................... 1 Section 2 Qualification for a Master’s Degree Program ................................................... 1 Section 3 Scope and Structure of the Master’s Degree Program, Examinations, Teaching and Examination Language ......................................................................... 2 Section 4 Special Provisions for the Master's Thesis ....................................................... 2 Section 5 Compulsory Elective International Specialization – International Economics 2 Section 6 Compulsory Electives – Regional Modules ...................................................... 3 Section 7 Compulsory Elective Modules ........................................................................... 4 Section 8 Elective Complementary Modules ..................................................................... 4 Section 9 Legal Validity and Transitory Provisions .......................................................... 5 Appendix 1: .......................................................................................................................... 6 Qualification assessment process for the Master’s degree program Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology at FAU................................................................................... 6 Appendix 2: Study plan for the Master’s Degree Program in Development Economics and International Studies ............................................................................................10** 
+|**Contents:**|
+|---|
+|**Section 1 Scope ................................................................................................................... 1**|
+|**Section 2 Qualification for a Master’s Degree Program ................................................... 1**|
+|**Section 3 Scope and Structure of the Master’s Degree Program, Examinations,**<br>**Teaching and Examination Language ......................................................................... 2**|
+|**Section 4 Special Provisions for the Master's Thesis ....................................................... 2**|
+|**Section 5 Compulsory Elective International Specialization – International Economics 2**|
+|**Section 6 Compulsory Electives – Regional Modules ...................................................... 3**|
+|**Section 7 Compulsory Elective Modules ........................................................................... 4**|
+|**Section 8 Elective Complementary Modules ..................................................................... 4**|
+|**Section 9 Legal Validity and Transitory Provisions .......................................................... 5**|
+|**Appendix 1: .......................................................................................................................... 6**|
+|**Qualification assessment process for the Master’s degree program Development**<br>**Economics and International Studies at the Faculty of Humanities, Social**<br>**Sciences, and Theology at FAU................................................................................... 6**|
+|**Appendix 2: Study plan for the Master’s Degree Program in Development Economics**<br>**and International Studies ............................................................................................10**|
 
 ## **Section 1 Scope** 
 
@@ -28,7 +39,7 @@ The degree program and examination regulations for the research-oriented consecu
 
 ## **Section 2 Qualification for a Master’s Degree Program** 
 
-- (1)[1] Students shall be considered to have met the qualification requirements for the Master’s degree program in Development Economics and International Studies if they: 
+- (1)<sup>1</sup> Students shall be considered to have met the qualification requirements for the Master’s degree program in Development Economics and International Studies if they: 
 
 1. Hold a university degree (State Examination, Diplom, Magister or Bachelor’s degree) or another equivalent qualification from a university in Germany or abroad in business and economics with economics accounting for at least 70 ECTS credits, including at least fundamental knowledge in the areas of microeconomics, macroeconomics and statistics/econometrics (at least 5 ECTS credits each), 
 
@@ -42,13 +53,13 @@ The degree program and examination regulations for the research-oriented consecu
 
 (2) Applicants within the meaning of paragraph 1 shall belong to the best 50% of their class or shall have completed the degree program in question with a final grade of at least 2.50 (= good). Section 16 (3) sentences 1 to 3 of **ABMStPO/Phil** shall apply accordingly for qualifications with a different grading system. 
 
-(3)[1] Notwithstanding paragraph 1(1), students enrolled in a Bachelor’s degree program may be admitted to a Master’s degree program if they have achieved at least 140 ECTS credits.[2] Students must submit confirmation from the relevant Examinations Office that they have successfully completed their Bachelor's degree before enrollment. 3Official proof of the successfully completed Bachelor’s degree (graduation documents) shall be submitted at the latest within one year of taking up the degree program; completing the Bachelor’s degree program is a prerequisite for formally starting the Master’s degree program.[4] Admission to the Master’s degree program is granted provisionally; if proof is not submitted within the deadline, the student shall be de-registered. 
+(3)<sup>1</sup> Notwithstanding paragraph 1(1), students enrolled in a Bachelor’s degree program may be admitted to a Master’s degree program if they have achieved at least 140 ECTS credits.<sup>2</sup> Students must submit confirmation from the relevant Examinations Office that they have successfully completed their Bachelor's degree before enrollment. 3Official proof of the successfully completed Bachelor’s degree (graduation documents) shall be submitted at the latest within one year of taking up the degree program; completing the Bachelor’s degree program is a prerequisite for formally starting the Master’s degree program.<sup>4</sup> Admission to the Master’s degree program is granted provisionally; if proof is not submitted within the deadline, the student shall be de-registered. 
 
 ## **Section 3 Scope and Structure of the Master’s Degree Program, Examinations, Teaching and Examination Language** 
 
 (1) Scope and structure of the Master’s degree program in Development Economics and International Studies as well as scope, type and weighting factor of the examinations shall be set forth in **Appendix 2** . 
 
-(2)[1] Notwithstanding Section 6 (5) **ABMStPO/Phil** , the teaching and examination language in the Master’s degree program in Development Economics and International Studies is English.[2] This shall not affect Section 6 (5) **ABMStPO/Phil** . 
+(2)<sup>1</sup> Notwithstanding Section 6 (5) **ABMStPO/Phil** , the teaching and examination language in the Master’s degree program in Development Economics and International Studies is English.<sup>2</sup> This shall not affect Section 6 (5) **ABMStPO/Phil** . 
 
 ## **Section 4 Special Provisions for the Master's Thesis** 
 
@@ -56,35 +67,35 @@ Notwithstanding Section 39 (5) in conjunction with Section 33 (6) **ABMStPO/Phil
 
 ## **Section 5 Compulsory Elective International Specialization – International Economics** 
 
-(1)[1] In the compulsory elective “International Economics”, students expand their knowledge of economics or business in an international context.[2] They can select modules from the Institute of Economics as well as those of the Master's degree programs at the School of Business, Economics and Society; the catalog of available modules is published in good time in accordance with local practice. 
+(1)<sup>1</sup> In the compulsory elective “International Economics”, students expand their knowledge of economics or business in an international context.<sup>2</sup> They can select modules from the Institute of Economics as well as those of the Master's degree programs at the School of Business, Economics and Society; the catalog of available modules is published in good time in accordance with local practice. 
 
-(2)[1] In the modules of the international specialization, students broaden their subjectspecific and methodological skills in development economics by examining theories and empirical concepts that illustrate economic and business realities in an international context.[2] They improve their ability to carry out independent academic work and increase their expert knowledge in a global context.[3] The content focuses on international relations in economics.[4] Depending on the specialization chosen, students expand their knowledge and skills in business administration or economics and deal with, 
+(2)<sup>1</sup> In the modules of the international specialization, students broaden their subjectspecific and methodological skills in development economics by examining theories and empirical concepts that illustrate economic and business realities in an international context.<sup>2</sup> They improve their ability to carry out independent academic work and increase their expert knowledge in a global context.<sup>3</sup> The content focuses on international relations in economics.<sup>4</sup> Depending on the specialization chosen, students expand their knowledge and skills in business administration or economics and deal with, 
 
 2 
 
-for example, international management, international political economics and interculturual relationships in the context of economics.[5] The element of choice gives students the opportunity to create their own particular profile in view of their future career.[6] The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 5 and are stated in the relevant **degree program and examination regulations** and the module handbook. 
+for example, international management, international political economics and interculturual relationships in the context of economics.<sup>5</sup> The element of choice gives students the opportunity to create their own particular profile in view of their future career.<sup>6</sup> The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 5 and are stated in the relevant **degree program and examination regulations** and the module handbook. 
 
-(3)[1] The type and scope of the examination are dependent on the skills for the chosen module according to (2).[2] Examinations in modules from the Institute of Economics shall take one of the following forms: Presentation (25-40 min.) and written assignment (approx. 15 pages) (33% and 67%).[3] Type and scope of the examinations in imported modules of the Master's degree programs of the School of Business, Economics and Society are regulated by the applicable **degree program and examination regulations** and the applicable module description.[4] The module handbook is published before the beginning of the semester in accordance with local practice. 
+(3)<sup>1</sup> The type and scope of the examination are dependent on the skills for the chosen module according to (2).<sup>2</sup> Examinations in modules from the Institute of Economics shall take one of the following forms: Presentation (25-40 min.) and written assignment (approx. 15 pages) (33% and 67%).<sup>3</sup> Type and scope of the examinations in imported modules of the Master's degree programs of the School of Business, Economics and Society are regulated by the applicable **degree program and examination regulations** and the applicable module description.<sup>4</sup> The module handbook is published before the beginning of the semester in accordance with local practice. 
 
-(4)[1] The modules of the Institute of Economics which can be chosen generally consist of a lecture and a tutorial or an advanced seminar accounting for 2 to 3 SWS and are each equivalent to 5 ECTS credits.[2] The exact constellation depends on the specific manner in which the chosen module is taught. Please refer to the module handbook for details.[3] Any exceptions to sentence 1 are detailed in the module handbook.[4] The type and scope of the lectures and seminars and the scope of the modules of the School of Business, Economics and Society can deviate from those specified in sentences 1 and 2 and are stated in the relevant **degree program and examination regulations** or module description. 
+(4)<sup>1</sup> The modules of the Institute of Economics which can be chosen generally consist of a lecture and a tutorial or an advanced seminar accounting for 2 to 3 SWS and are each equivalent to 5 ECTS credits.<sup>2</sup> The exact constellation depends on the specific manner in which the chosen module is taught. Please refer to the module handbook for details.<sup>3</sup> Any exceptions to sentence 1 are detailed in the module handbook.<sup>4</sup> The type and scope of the lectures and seminars and the scope of the modules of the School of Business, Economics and Society can deviate from those specified in sentences 1 and 2 and are stated in the relevant **degree program and examination regulations** or module description. 
 
 ## **Section 6 Compulsory Electives – Regional Modules** 
 
 (1) In the compulsory elective ‘Regional Modules’, students gain a more in-depth knowledge of economics with reference to a specific region. 
 
-(2)[1] In the regional specialization modules, students broaden their subject-specific and methodological skills in development economics by using theories and empirical concepts they have learned to analyze the economic situation and developments in a specific region.[2] They improve their ability to carry out independent academic work and increase their expert knowledge on aspects of development economics in the chosen region.[3] The content focuses on regional relations in economics.[4] Depending on the specialization chosen, students expand their knowledge and skills in business administration or economics and deal with, for example, economic developments and the conditions of society in a regional context.[5] The element of choice gives students the opportunity to create their own particular profile in view of their future career.[6] The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 5 and can be found in the module handbook. 
+(2)<sup>1</sup> In the regional specialization modules, students broaden their subject-specific and methodological skills in development economics by using theories and empirical concepts they have learned to analyze the economic situation and developments in a specific region.<sup>2</sup> They improve their ability to carry out independent academic work and increase their expert knowledge on aspects of development economics in the chosen region.<sup>3</sup> The content focuses on regional relations in economics.<sup>4</sup> Depending on the specialization chosen, students expand their knowledge and skills in business administration or economics and deal with, for example, economic developments and the conditions of society in a regional context.<sup>5</sup> The element of choice gives students the opportunity to create their own particular profile in view of their future career.<sup>6</sup> The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 5 and can be found in the module handbook. 
 
-(3)[1] The type and scope of the examination are dependent on the skills for the chosen module according to (2) and the module handbook.[2] Examinations shall take one of the following forms: Written examination (60-90 min) or presentation (25-40 min.) and written assignment (approx. 15 pages) (33% and 67%).[3] The module handbook is published before the beginning of the semester in accordance with local practice. 
+(3)<sup>1</sup> The type and scope of the examination are dependent on the skills for the chosen module according to (2) and the module handbook.<sup>2</sup> Examinations shall take one of the following forms: Written examination (60-90 min) or presentation (25-40 min.) and written assignment (approx. 15 pages) (33% and 67%).<sup>3</sup> The module handbook is published before the beginning of the semester in accordance with local practice. 
 
 3 
 
-(4)[1] The modules which can be chosen generally consist of a lecture and a tutorial or an advanced seminar accounting for 2 to 3 SWS and are each equivalent to 5 ECTS credits.[2] The exact constellation depends on the specific manner in which the chosen module is taught. Please refer to the module handbook for details.[3] Any exceptions to sentence 1 are detailed in the module handbook. 
+(4)<sup>1</sup> The modules which can be chosen generally consist of a lecture and a tutorial or an advanced seminar accounting for 2 to 3 SWS and are each equivalent to 5 ECTS credits.<sup>2</sup> The exact constellation depends on the specific manner in which the chosen module is taught. Please refer to the module handbook for details.<sup>3</sup> Any exceptions to sentence 1 are detailed in the module handbook. 
 
 ## **Section 7 Compulsory Elective Modules** 
 
-(1)[1] The compulsory elective modules offered by the Institute of Economics cover the advanced theory and practice of development economics or international studies.[2] After consulting with a study advisor, students may also choose modules from other degree programs at FAU relating to social sciences and economics as elective modules. 
+(1)<sup>1</sup> The compulsory elective modules offered by the Institute of Economics cover the advanced theory and practice of development economics or international studies.<sup>2</sup> After consulting with a study advisor, students may also choose modules from other degree programs at FAU relating to social sciences and economics as elective modules. 
 
-(2)[1] Compulsory elective modules allow students to gain a broader range of more indepth expertise in the theory and practice of development economics or international studies as well as their scientific methodology skills in particular regarding empirical applications.[2] The content focuses on various topics such as social responsibilities in the field of development economics or political theory and empirical perspectives in the context of economic issues.[3] The element of choice gives students the opportunity to create their own particular profile in view of their future career.[4] The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 3 and are stated in the relevant **degree program and examination regulations** and the module handbook. 
+(2)<sup>1</sup> Compulsory elective modules allow students to gain a broader range of more indepth expertise in the theory and practice of development economics or international studies as well as their scientific methodology skills in particular regarding empirical applications.<sup>2</sup> The content focuses on various topics such as social responsibilities in the field of development economics or political theory and empirical perspectives in the context of economic issues.<sup>3</sup> The element of choice gives students the opportunity to create their own particular profile in view of their future career.<sup>4</sup> The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 to 3 and are stated in the relevant **degree program and examination regulations** and the module handbook. 
 
 (3) Section 5 (3) shall apply accordingly. 
 
@@ -92,9 +103,9 @@ for example, international management, international political economics and int
 
 ## **Section 8 Elective Complementary Modules** 
 
-(1)[1] Within the scope of the elective complementary modules, students may choose modules offered at FAU dealing with international issues that relate to content covered in the MA program Development Economics and International Studies.[2] Modules which have not yet been taken as an international specialization, regional specialization or elective module may be submitted as an elective complementary module.[3] Students may also take language courses to improve their existing language skills.[4] Up to 10 ECTS credits may be awarded for internships in business and economics completed whilst studying the degree program. 
+(1)<sup>1</sup> Within the scope of the elective complementary modules, students may choose modules offered at FAU dealing with international issues that relate to content covered in the MA program Development Economics and International Studies.<sup>2</sup> Modules which have not yet been taken as an international specialization, regional specialization or elective module may be submitted as an elective complementary module.<sup>3</sup> Students may also take language courses to improve their existing language skills.<sup>4</sup> Up to 10 ECTS credits may be awarded for internships in business and economics completed whilst studying the degree program. 
 
-(2)[1] The objective is that students in the Master’s degree program gain a broader range of more in-depth expertise in important skills (by choosing modules such as Academic Research and Writing, Introduction to Strata, Statistics: Refresher Course) which are needed in their future careers according to their own interests (subject-specific and methodological skills in development economics and neighboring disciplines, language skills in preparation for working in the international environment, vocational experience).[2] The element of choice gives students the opportunity to create their own particular profile in view of their future career.[3] The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 and 2 and can be found in the module handbook. 
+(2)<sup>1</sup> The objective is that students in the Master’s degree program gain a broader range of more in-depth expertise in important skills (by choosing modules such as Academic Research and Writing, Introduction to Strata, Statistics: Refresher Course) which are needed in their future careers according to their own interests (subject-specific and methodological skills in development economics and neighboring disciplines, language skills in preparation for working in the international environment, vocational experience).<sup>2</sup> The element of choice gives students the opportunity to create their own particular profile in view of their future career.<sup>3</sup> The specific learning outcomes and examination subjects of the individual modules depend on the learning outcomes of the chosen modules pursuant to sentence 1 and 2 and can be found in the module handbook. 
 
 (3) The type and scope of the examination and the form of the teaching units are dependent on the skills for the chosen module and are stipulated in (5) to (7), the respective **degree program and examination regulations** and the module handbook. 
 
@@ -104,15 +115,15 @@ for example, international management, international political economics and int
 
 ## **Section 9 Legal Validity and Transitory Provisions** 
 
-(1)[1] These degree program and examination regulations shall come into effect on October 1, 2024.[2] They shall apply to all students starting their degree program as of winter semester 2024/2025 and to those students who are already studying at the time the degree program and examination regulations for the Master’s degree program in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) –FPODEIS – dated June 8, 2010 in the version dated April 8, 2020, come into effect. 3Students who, at the time these regulations come into effect, are studying in accordance with FPODEIS in a version valid before April 8, 2020, shall complete their studies in accordance with the version of FPODEIS that previously applied to them. 
+(1)<sup>1</sup> These degree program and examination regulations shall come into effect on October 1, 2024.<sup>2</sup> They shall apply to all students starting their degree program as of winter semester 2024/2025 and to those students who are already studying at the time the degree program and examination regulations for the Master’s degree program in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) –FPODEIS – dated June 8, 2010 in the version dated April 8, 2020, come into effect. 3Students who, at the time these regulations come into effect, are studying in accordance with FPODEIS in a version valid before April 8, 2020, shall complete their studies in accordance with the version of FPODEIS that previously applied to them. 
 
-(2)[1] The degree program and examination regulations for the Master’s Degree Program in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – dated June 8, 2010, last amended on July 31, 2023, shall become invalid as of September 30, 2025.[2] Examinations according to the valid degree program and examination regulations stated in sentence 1 shall be offered for the last time in summer semester 2025. 
+(2)<sup>1</sup> The degree program and examination regulations for the Master’s Degree Program in Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology of Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – dated June 8, 2010, last amended on July 31, 2023, shall become invalid as of September 30, 2025.<sup>2</sup> Examinations according to the valid degree program and examination regulations stated in sentence 1 shall be offered for the last time in summer semester 2025. 
 
 5 
 
 ## **Appendix 1: Qualification assessment process for the Master’s degree program Development Economics and International Studies at the Faculty of Humanities, Social Sciences, and Theology at FAU.** 
 
-## **1. Purpose of Assessment** 
+### **1. Purpose of Assessment** 
 
 1The purpose of the assessment is to evaluate the qualifications of applicants for the Master’s degree program on the basis of: 
 
@@ -122,7 +133,7 @@ for example, international management, international political economics and int
 
 2The aim is to determine whether applicants meet the increased requirements of the more research-oriented Master's degree program and will be able to carry out independent academic work. 
 
-## **2. Qualification Assessment Process** 
+### **2. Qualification Assessment Process** 
 
 - 2.1 The qualification assessment process will be carried out once per year before the start of the lecture period in the winter semester. 
 
@@ -140,11 +151,11 @@ for example, international management, international political economics and int
 
 - 2.3.5 If available: Proof of qualified practical experience in the field of development economics as well as a description of relevant professional experience written in English by the applicant (description of tasks and responsibilities), one page in length. 
 
-## **3. Qualification Assessment Committee** 
+### **3. Qualification Assessment Committee** 
 
 In accordance with Section 15 **ABMStPO/Phil** , qualification assessment shall be the responsibility of the Admissions Committee. 
 
-## **4. Admission to the Qualification Assessment Process** 
+### **4. Admission to the Qualification Assessment Process** 
 
 - 4.1 Admission to the qualification assessment process shall be subject to the timely and complete submission of the documents listed in (2)(3). 
 
@@ -152,9 +163,7 @@ In accordance with Section 15 **ABMStPO/Phil** , qualification assessment shall 
 
 - 4.3 Applicants who are not admitted to the program shall receive a rejection notification including reasons and information on legal remedies available. 
 
-## **5. Conducting the Qualification Assessment Process** 
-
-- 5.1 First Stage of the Qualification Assessment Process 
+**5. Conducting the Qualification Assessment Process** 5.1 First Stage of the Qualification Assessment Process 
 
 - 5.1.1 1The Admissions Committee shall determine according to the application documents whether an applicant is qualified to enter into a Master’s degree program according 
 
@@ -182,39 +191,34 @@ to No. 1. 2In the first stage of this process, the documents are viewed by the A
 |3.0|4|
 |3.1|2|
 |3.2and below|0|
-
-## 5.1.1.2 Level of subject-specific knowledge of economics (max. 30 points), 
-
-|Total (in ECTS credits)|Points|
-|---|---|
+|Level of subject-specific<br>Total (in ECTS credits)|knowledge of ec<br>Points|
 |50 and above|30|
 |40–49|25|
 |30–39|20|
 |20–29|15|
 |Less than 20|10|
 
-## 5.1.1.3 Quality of English language skills (max. 10 points) 
+### 5.1.1.2 Level of subject-specific knowledge of economics (max. 30 points), 
 
-|5.1.1.3|40–49<br>25<br>30–39<br>20<br>20–29<br>15<br>Less than 20<br>10<br>Quality of English language skills (max. 10 points)||
-|---|---|---|
-|5.1.1.4|English language proficiency using the individual sections of the language test in accord-<br>ancewithSection 2(1) (2)|Points|
-||C1 or higher in all sections of the test|5|
-||C1or lower insome sections ofthe test|0|
-||||
-||Language proficiency and communicationskills based ontheletterofapplication|Points|
-||Good to very good|5|
-||Severalerrors to average|0|
-||Level of knowledge in development economics/sustainability/business ethics, scope<br>of practical experience in development economics/development cooperation/sustain-<br>ability/business ethics and other qualifications in development economics/develop-<br>ment cooperation/sustainability/business ethics (max. 30 points).||
-||Knowledge acquired during the Bachelor's degree program in the field of development<br>economics/sustainability/business ethics|Points|
-||Proof of more than 5 ECTS credits in the field of development economics/sustainabil-<br>ity/business ethics|5|
-||Proof of more than 5 ECTS credits in the field of development economics/sustainabil-<br>ity/business ethics|10|
-||||
-||Qualified professional experience in the field of development economics/development<br>cooperation/sustainability/business ethics|Points|
-||Proof of a qualified internship for a period of up to three months in the field of econom-<br>ics/development cooperation/sustainability/business ethics|5|
-||Proof of a qualified internship for a period of more than 3 months or proof of several<br>qualified internships for a period of at least 2 months each or proof of at least one period<br>of work experience in the field of economics/development cooperation/sustainabil-<br>ity/business ethicsfora period ofatleast 3months|10|
-||Qualification for admission to the degree program based on the letter of application: Proof<br>of other qualifications in the field of development economics/development coopera-<br>tion/sustainability/business ethics (for example, working in an NGO)|Points|
-||Applicable, but only to a lesser extent|5|
-||Significant (with respect to the duration and/or function/role)|10|
+### 5.1.1.3 Quality of English language skills (max. 10 points) 
+
+|English language proficiency using the individual sections of the language test in accord-<br>ancewithSection 2(1) (2)|Points|
+|---|---|
+|C1 or higher in all sections of the test|5|
+|C1or lower insome sections ofthe test|0|
+|Language proficiency and communicationskills based ontheletterofapplication<br>|Points|
+|Good to very good|5|
+|Severalerrors to average|0|
+|5.1.1.4 Level of knowledge in development economics/sustainability/business ethi<br>of practical experience in development economics/development cooperatio<br>ability/business ethics and other qualifications in development economics<br>ment cooperation/sustainability/business ethics (max. 30 points).|cs, scope<br>n/sustain-<br>/develop-|
+|Knowledge acquired during the Bachelor's degree program in the field of development<br>economics/sustainability/business ethics|Points|
+|Proof of more than 5 ECTS credits in the field of development economics/sustainabil-<br>ity/business ethics|5|
+|Proof of more than 5 ECTS credits in the field of development economics/sustainabil-<br>ity/business ethics|10|
+|Qualified professional experience in the field of development economics/development<br>cooperation/sustainability/business ethics|Points|
+|Proof of a qualified internship for a period of up to three months in the field of econom-<br>ics/development cooperation/sustainability/business ethics|5|
+|Proof of a qualified internship for a period of more than 3 months or proof of several<br>qualified internships for a period of at least 2 months each or proof of at least one period<br>of work experience in the field of economics/development cooperation/sustainabil-<br>ity/business ethicsfora period ofatleast 3months|10|
+|Qualification for admission to the degree program based on the letter of application: Proof<br>of other qualifications in the field of development economics/development coopera-<br>tion/sustainability/business ethics (for example, working in an NGO)|Points|
+|Applicable, but only to a lesser extent|5|
+|Significant (with respect to the duration and/or function/role)|10|
 
 7 
 
@@ -236,23 +240,25 @@ to No. 1. 2In the first stage of this process, the documents are viewed by the A
 
    - 2 Points are allocated for the various aspects pursuant to sentence 1 according to the following criteria: 
 
-||<br>following criteria:||
+||Criterion|Points|
 |---|---|---|
-|5.2.4<br>5.2.5<br>5.3<br>5.4|Criterion|Points|
 ||Requirements<br>with<br>respect<br>to<br>the<br>criteria<br>pursuant<br>to<br>sentence<br>1<br>No.5.2.2.1or5.2.2.2arefullymet|10|
 ||Requirements with respect to the criteria pursuant to sentence 1 No. 5.2.2.1 or 5.2.2.2<br>are mainly met, even though the criteria are not (fully) met for individual points|7.5|
 ||As a whole, the requirements with respect to the criteria pursuant to sentence 1 No.<br>5.2.2.1 or 5.2.2.2 are met, although the criteria are not (fully) met otherwise|5|
 ||As a whole, the requirements with respect to the criteria pursuant to sentence 1 No.<br>5.2.2.1 or 5.2.2.2 are not met|2.5|
 ||The requirements with respect to the criteria pursuant to sentence 1 No. 5.2.2.1 or<br>5.2.2.2 are hardly met or not met at all|0|
-||1An applicant’s overall score shall be calculated from the sum of the scores according<br>to No. 5.1.1 and 5.2.3. 2Applicants who have scored 80 or more points are classified<br>as qualified.<br>1Applicants shall be notified of the result of the qualification assessment process in<br>writing. 2A rejection notification must include reasons and information on the legal<br>remedies available.<br>Applicants shall bear their own costs incurred as a result of taking part in the qualifi-<br>cation assessment process.<br>Confirmation of passing the qualification assessment process shall remain valid in-<br>definitely, provided the Master’s degree program has not changed significantly.||
+|5.2.4|1An applicant’s overall score shall be calculated from the sum of the score<br>to No. 5.1.1 and 5.2.3. 2Applicants who have scored 80 or more points ar<br>as qualified.|s according<br>e classified|
+|5.2.5|1Applicants shall be notified of the result of the qualification assessment<br>writing. 2A rejection notification must include reasons and information o<br>remedies available.|process in<br>n the legal|
+|5.3|Applicants shall bear their own costs incurred as a result of taking part in<br>cation assessment process.|the qualifi-|
+|5.4|Confirmation of passing the qualification assessment process shall rem<br>definitely, provided the Master’s degree program has not changed signific|ain valid in-<br>antly.|
 
 8 
 
-## **6. Record** 
+### **6. Record** 
 
-1An official record shall be produced in the first and second stages of the qualification assessment process, showing the date, duration and place of the assessment, the names of the Admissions Committee members, the names of the applicant, the decision of the committee members and the overall score.[2] The official records shall clearly indicate the topics discussed with the applicant and the essential reasons for the decision; the essential reasons and topics may be listed as bullet points. 
+1An official record shall be produced in the first and second stages of the qualification assessment process, showing the date, duration and place of the assessment, the names of the Admissions Committee members, the names of the applicant, the decision of the committee members and the overall score.<sup>2</sup> The official records shall clearly indicate the topics discussed with the applicant and the essential reasons for the decision; the essential reasons and topics may be listed as bullet points. 
 
-## **7. Repetition** 
+### **7. Repetition** 
 
 Applicants who did not qualify for admission to the Master’s degree program may apply for repetition of the qualification assessment process on the basis of the documents submitted for the first application one more time. 
 
@@ -260,56 +266,42 @@ Applicants who did not qualify for admission to the Master’s degree program ma
 
 ## **Appendix 2: Study plan for the Master’s Degree Program in Development Economics and International Studies** 
 
-|**Module name**|||||||**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Type and scope of the ex-**<br>**amination**|**Factor**<br>**Mod-**<br>**ule**<br>**grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Teaching unit**|**SWS (semester hours)**||||**ECTS**<br>|**semester in ECTS**||||||
-|||||||**credits**||**its1**|||||
-|||**L**|**T**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|||
-|Compulsory modules (40 ECTS credits)|||||||||||||
-||||||||||||||
-|**Development Economics I**|Lecture|2||||**5**|5||||Written examination (60-90<br>min)|1|
-||Tutorial/exercise||1||||||||||
-|**Development Economics II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)||(2)|**5**||5|||written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min) and<br>written assignment (15 pages)<br>(33 %+67 %)2|1|
-|**Research Methods I**|Lecture|2||||**5**|5||||Written examination (60-90<br>min)|1|
-||Tutorial/exercise||1||||||||||
-|**Research Methods II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)||(2)|**5**||5|||written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min)<br>and written assignment (15<br>pages)<br>(33 %+67 %)2|1|
-|**International Business Ethics I**|Lecture|2||||**5**||5|||Written examination (60-90<br>min)|1|
-||Tutorial/exercise||1||||||||||
-|**International Business Ethics II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)||(2)|**5**|||5||written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min) and<br>written assignment (15 pages)<br>(33 %+67 %)2|1|
-|Compulsory Elective International Specialization – International Economics pursuant to Section 5|||||||||||||
-||||||||||||||
-||||||||||||||
-|**International Economics I**|See Section 5 (4)|||||**5**|(5)|(5)|(5)||see Section 5 (3)|1|
-|**International Economics II**|See Section 5 (4)|||||**5**|(5)|(5)|(5)||see Section 5 (3)|1|
-|Compulsory Electives Regional Specialization – Regional Modules pursuant to Section 6 (10 ECTS)|||||||||||||
-||||||||||||||
-|**Regional Modules I**|See Section 6(4)|||||**5**|(5)|(5)|(5)||see Section 6(3)|1|
-|**Regional Modules II**|See Section 6(4)|||||**5**|(5)|(5)|(5)||see Section 6(3)|1|
+|||||||**Distri**|**bution**|**of workload**||**Factor**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Module name**|**Teaching unit**|**SWS**|**(semester ho**|**urs)**|**ECTS**<br>|**seme**|**p**<br>**ster in**|**er**<br>**ECTS cred-**|**Type and scope of the ex-**<br>|<br>**Mod-**<br>|
+||||||**credits**|||<sup>**1**</sup>|**amination**|**ule**|
+|Compulsory modules (40 ECTS cre|dits)|**L**|**T**<br>**P**|**S**||**1.**|**it**<br>**2.**|**s**<br>**3.**<br>**4.**||**grade**|
+|**Development Economics I**|Lecture<br>Tutorial/exercise|2|1||**5**|5|||Written examination (60-90<br>min)|1|
+|**Development Economics II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)|(2)|**5**||5||written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min) and<br>written assignment (15 pages)<br>(33 %+67 %)<sup>2</sup>|<br>1|
+|**Research Methods I**|Lecture<br>Tutorial/exercise|2|1||**5**|5|||Written examination (60-90<br>min)|1|
+|**Research Methods II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)|(2)|**5**||5||written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min)<br>and written assignment (15<br>pages)<br>(33 %+67 %)<sup>2</sup>|1|
+|**Ittil Bi Ethi I**|Lecture|2|||**5**||5||Written examination (60-90|1|
+|**nernaona usness cs**|Tutorial/exercise||1||||||min)||
+|**International Business Ethics II**|Lecture and tutorial<br>or advanced semi-<br>nar|(2)|(1)|(2)|**5**|||5|written examination (60–90<br>min, 100 %) or<br>presentation (25-40 min) and<br>written assignment (15 pages)<br>(33 %+67 %)<sup>2</sup>|<br>1|
+|Compulsory Elective International S|pecialization – Internati|onal E|conomics purs|uant to|Section 5||||||
+|**International Economics I**|See S|ection|5 (4)||**5**|(5)|(5)|(5)|see Section 5 (3)|1|
+|**International Economics II**|See S|ection|5 (4)||**5**|(5)|(5)|(5)|see Section 5 (3)|1|
+|Compulsory Electives Regional Spe|<br>cialization – Regional|<br>Module|<br>s pursuant to S|ection|6 (10 ECT|<br>S)|||||
+|**Regional Modules I**|See S|ection|6(4)||**5**|(5)|(5)|(5)|see Section 6(3)|1|
+|**Regional Modules II**|See S|ection|6(4)||**5**|(5)|(5)|(5)|see Section 6(3)|1|
 
 10 
 
-|**Module name**|||||||**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Distribution of workload**<br>**per**<br>**semester in ECTS cred-**<br>**its1**|**Type and scope of the ex-**<br>**amination**|**Factor**<br>**Mod-**<br>**ule**<br>**grade**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Teaching unit**|**SWS (semester hours)**||||**ECTS**<br>|**semester in ECTS**||||||
-|||||||**credits**||**its1**|||||
-|||**L**|**T**|**P**|**S**||**1.**|**2.**|**3.**|**4.**|||
-|Compulsory Electives –Elective Modules pursuant to Section 7 (20 ECTS)|||||||||||||
-||||||||||||||
-|**Elective Module I**|see Section 7(4)|||||**5**|(5)|(5)|(5)||see Section 7(3)|1|
-|**Elective Module II**|see Section 7(4)|||||**5**|(5)|(5)|(5)||see Section 7(3)|1|
-|**Elective Module III**|see Section 7(4)|||||**5**|(5)|(5)|(5)||see Section 7(3)|1|
-|**Elective Module IV**|see Section 7(4)|||||**5**|(5)|(5)|(5)||see Section 7(3)|1|
-|Elective Complementary Modules pursuant to Section 8 (20 ECTS)|||||||||||||
-||||||||||||||
-|**Elective Complementary Mod-**<br>**ule I**|see Section 8 (3)|||||**5**|(5)|(5)|(5)||see Section 8 (3)|0|
-|**Elective Complementary Mod-**<br>**ule II**|see Section 8 (3)|||||**5**|(5)|(5)|(5)||see Section 8 (3)|0|
-|**Elective Complementary Mod-**<br>**ule III**|see Section 8 (3)|||||**5**|(5)|(5)|(5)||see Section 8 (3)|0|
-|**Elective Complementary Mod-**<br>**ule IV**|see Section 8 (3)|||||**5**|(5)|(5)|(5)||see Section 8 (3)|0|
-|Master’s thesis|||||||||||||
-||||||||||||||
-|**Master’s thesis**|Master’s thesis|||||**30**||||30|Master's thesis(50–70pages)|1|
-|**Total SWS and ECTS credits**||**8–**<br>**16**|**4–8**|**0**|**0–8**|**120**|**30**|**30**|**30**|**30**|||
-|||**12 - 32**|||||||||||
+|**Module name**|**Teaching unit**<br>**SWS**<br>**L**|**(semester hours)**<br>**T**<br>**P**<br>**S**|**ECTS**<br>**credits**|**Distri**<br>**seme**<br>**1.**|**bution**<br>**p**<br>**ster in**<br>**it**<br>**2.**|**of workload**<br>**er**<br>**ECTS cred-**<br>**s**<sup>**1**</sup><br>**3.**<br>**4.**|**Type and scope of the ex-**<br>**amination**|**Factor**<br>**Mod-**<br>**ule**<br>**grade**|
+|---|---|---|---|---|---|---|---|---|
+|Compulsory Electives –Elective Mo|dules pursuant to Section 7 (2|0 ECTS)|||||||
+|**Elective Module I**|see Section 7|(4)|**5**|(5)|(5)|(5)|see Section 7(3)|1|
+|**Elective Module II**|see Section 7|(4)|**5**|(5)|(5)|(5)|see Section 7(3)|1|
+|**Elective Module III**|see Section 7|(4)|**5**|(5)|(5)|(5)|see Section 7(3)|1|
+|**Elective Module IV**|see Section 7|(4)|**5**|(5)|(5)|(5)|see Section 7(3)|1|
+|Elective Complementary Modules p|ursuant to Section 8 (20 ECTS|)|||||||
+|**Elective Complementary Mod-**<br>**ule I**|see Section 8|(3)|**5**|(5)|(5)|(5)|see Section 8 (3)|0|
+|**Elective Complementary Mod-**<br>**ule II**|see Section 8|(3)|**5**|(5)|(5)|(5)|see Section 8 (3)|0|
+|**Elective Complementary Mod-**<br>**ule III**|see Section 8|(3)|**5**|(5)|(5)|(5)|see Section 8 (3)|0|
+|**Elective Complementary Mod-**<br>**ule IV**|see Section 8|(3)|**5**|(5)|(5)|(5)|see Section 8 (3)|0|
+|Master’s thesis|||||||||
+|**Master’s thesis**|Master’s thesis||**30**|||30|Master's thesis(50–70pages)|1|
+|**Total S**|**WS and ECTS credits**<br>**8–**<br>**16**|**4–8**<br>**0**<br>**0–8**<br>**12 - 32**|**120**|**30**|**30**|**30**<br>**30**|||
 
 > 1 The suggested distribution is a recommendation. 
 

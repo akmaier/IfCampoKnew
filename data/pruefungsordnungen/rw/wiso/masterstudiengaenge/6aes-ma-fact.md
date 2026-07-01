@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Januar 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AES MA-FACT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:36:12+00:00
-page_count_chars: 4679
+scraped_at: 2026-07-01T11:01:40+00:00
+page_count_chars: 4634
 ---
 
 # 9. Januar 2013
@@ -14,11 +14,11 @@ page_count_chars: 4679
 
 **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. Januar 2013 
+# Vom 9. Januar 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditing, Controlling, Taxation der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 20. Juli 2009, zuletzt geändert durch Satzung vom 19. Januar 2012, wird wie folgt geändert: 
 
@@ -32,7 +32,9 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
       - „3. Besteuerung von M&A-Aktivitäten.“ 
 
-   - c) Die Fußnote „*)“ erhält folgende neue Fassung: „Studierende, die bereits vor dem Wintersemester 2012/2013 in den Masterstudiengang FACT eingeschrieben waren, legen entweder das Modul „Vertiefung Tax Management“ oder die beiden Module “Rechtsform und Besteuerung“ und „Besteuerung von M&A-Aktivitäten“ ab. 
+   - c) Die Fußnote „*)“ erhält folgende neue Fassung: 
+
+      - „Studierende, die bereits vor dem Wintersemester 2012/2013 in den Masterstudiengang FACT eingeschrieben waren, legen entweder das Modul „Vertiefung Tax Management“ oder die beiden Module “Rechtsform und Besteuerung“ und „Besteuerung von M&A-Aktivitäten“ ab. 
 
 3. § 5a wird wie folgt geändert: 
 
@@ -64,25 +66,31 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Finance, Auditi
 
 „ 
 
-|**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**|5<br>5<br>5<br>5|5<br>5|5<br>5|||
-|---|---|---|---|---|---|
+|**Modul: Controlling and Reporting**|5|5|
+|---|---|---|
+|**Modul: Controlling of Corporate Investments**|5|5|
+|**Modul: Rechtsform und Besteuerung**|5|5|
+|**Modul: Besteuerung von M&A-Aktivitäten**|5|5|
 
    - „ 
 
 - c) In Zeile 51 neu (Zwischensumme der Auswahlmöglichkeiten) Spalte 2 wird die Zahl „240“ durch die Zahl „235“, in Spalte 3 wird die Zahl „ 60“ durch die Zahl „65“, in Spalte 4 wird die Zahl „115“ durch die Zahl „110“ und in Spalte 5 die Zahl „65“ durch die Zahl „60“ ersetzt. 
 
-## 7) Die Tabelle in Anlage 3 wird wie folgt geändert: 
+# 7) Die Tabelle in Anlage 3 wird wie folgt geändert: 
 
 - a) Die Zeilen 12 (Modul: Vertiefung Controlling) und 13 (Modul: Vertiefung Tax Management) werden ersatzlos gestrichen. 
 
 - b) Die Zeile 20 neu (Modul: Unternehmensbesteuerung und EU) wird durch folgende neue Zeilen ersetzt: 
 
-„ 
+<u>„</u> 
 
-|**Modul: Controlling and Reporting**<br>**Modul: Controlling of Corporate Investments**<br>**Modul: Rechtsform und Besteuerung**<br>**Modul: Besteuerung von M&A-Aktivitäten**|5<br>5<br>5<br>5|5<br>5|5<br>5|||
-|---|---|---|---|---|---|
+|**Modul: Controlling and Reporting**|5|5|
+|---|---|---|
+|**Modul: Controlling of Corporate Investments**|5|5|
+|**Modul: Rechtsform und Besteuerung**|5|5|
+|**Modul: Besteuerung von M&A-Aktivitäten**|5|5|
 
-„ 
+   - „ 
 
 - c) In Zeile 47 neu (Zwischensumme der Auswahlmöglichkeiten) Spalte 2 wird die Zahl „240“ durch die Zahl „235“, in Spalte 3 die Zahl „115“ durch die Zahl „110“, in Spalte 4 die Zahl „60“ durch die Zahl „65“ und in Spalte 6 die Zahl „65“ durch die Zahl „60“ ersetzt 
 

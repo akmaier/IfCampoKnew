@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 09.05.2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_IndoGerm_IndoIran.MAI2016.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:00:56+00:00
-page_count_chars: 8614
+scraped_at: 2026-07-01T10:20:52+00:00
+page_count_chars: 8460
 ---
 
 # PDF vom 05.10.2007 i.d.F. 09.05.2016
@@ -42,11 +42,11 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Indogermanistik und Indoiranistik kann im Bachelorstudiengang entweder als Erstfach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als Zweitfach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.[2] Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten altindogermanischer Sprachen aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten altindogermanischen 
+(2)<sup>1</sup> Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.<sup>2</sup> Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten altindogermanischer Sprachen aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten altindogermanischen 
 
-Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik und Indoiranistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.[4] Der argumentative Umgang mit ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und zwei Kontinenten entstammen, fördert in einzigartiger Weise die Flexibilität im Sprachlichen und Kulturellen und bildet eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, z. B. in den Bereichen Verlags- und Bildungswesen. 
+Sprachen vermittelt werden.<sup>3</sup> Die Ausbildung im Rahmen der Indogermanistik und Indoiranistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.<sup>4</sup> Der argumentative Umgang mit ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und zwei Kontinenten entstammen, fördert in einzigartiger Weise die Flexibilität im Sprachlichen und Kulturellen und bildet eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, z. B. in den Bereichen Verlags- und Bildungswesen. 
 
-(3) Das Qualifikationsprofil des Studiengangs basiert auf der Entwicklung folgender Kompetenzen: 
+- (3) Das Qualifikationsprofil des Studiengangs basiert auf der Entwicklung folgender Kompetenzen: 
 
 1. Sachkompetenz: Kenntnisse der wichtigsten Themenkomplexe der Vergleichenden Sprachwissenschaft, insbesondere Phonologie, Morphologie, Wortbildung, Syntax, Semantik sowie die begleitenden kulturellen Kompetenzen von Schriftgeschichte bis Religionsgeschichte 
 
@@ -56,9 +56,7 @@ Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik und 
 
 4. Reflexionskompetenz: die Fähigkeit zum Erkennen wissenschaftlicher Probleme 
 
-5. Forschungskompetenz: die Fähigkeit, wissenschaftliche Probleme zu erkennen 
-
-   - und ggf. zu lösen 
+5. Forschungskompetenz: die Fähigkeit, wissenschaftliche Probleme zu erkennen und ggf. zu lösen 
 
 6. Kommunikations- und Präsentationskompetenz: die Möglichkeit, die eigene Meinung öffentlich zu präsentieren und zu verteidigen 
 
@@ -66,7 +64,7 @@ Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik und 
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3** der **ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums, Unterrichts- und Prüfungssprache** 
 
@@ -92,15 +90,15 @@ Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik und 
 
 9. „Italoromanistik“ 
 
-im Umfang von insgesamt 20 ECTS-Punkten wählbar.[2] Art und Umfang der Studienund Prüfungsleistung in den Importmodulen sind abhängig vom jeweils gewählten Modul und der einschlägigen (Fach-)Prüfungsordnung bzw. dem Modulhandbuch zu 
+im Umfang von insgesamt 20 ECTS-Punkten wählbar.<sup>2</sup> Art und Umfang der Studienund Prüfungsleistung in den Importmodulen sind abhängig vom jeweils gewählten Modul und der einschlägigen (Fach-)Prüfungsordnung bzw. dem Modulhandbuch zu 
 
 2 
 
-entnehmen.[3] Es sind ausschließlich Module mit sprachwissenschaftlichem Inhalt wählbar. 
+entnehmen.<sup>3</sup> Es sind ausschließlich Module mit sprachwissenschaftlichem Inhalt wählbar. 
 
-(3)[1] Falls Indogermanistik und Indoiranistik als Erstfach studiert wird, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von insgesamt 30 ECTS-Punkten zu erbringen.[2] Es werden in erster Linie Module zur Vertiefung von Griechisch- oder Lateinkenntnissen empfohlen, in zweiter Linie der Erwerb anderer früh überlieferter Sprachen wie z.B. Altenglisch, in dritter Linie auch des modernen Französisch. 
+(3)<sup>1</sup> Falls Indogermanistik und Indoiranistik als Erstfach studiert wird, sind im Bereich der Schlüsselqualifikationen Leistungen im Umfang von insgesamt 30 ECTS-Punkten zu erbringen.<sup>2</sup> Es werden in erster Linie Module zur Vertiefung von Griechisch- oder Lateinkenntnissen empfohlen, in zweiter Linie der Erwerb anderer früh überlieferter Sprachen wie z.B. Altenglisch, in dritter Linie auch des modernen Französisch. 
 
-(4)[1] Die Unterrichts- und Prüfungssprache im Fach Indogermanistik und Indoiranistik ist Deutsch.[2] Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch. 
+(4)<sup>1</sup> Die Unterrichts- und Prüfungssprache im Fach Indogermanistik und Indoiranistik ist Deutsch.<sup>2</sup> Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -118,28 +116,28 @@ Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 ## **Anlage: Studienverlaufsplan Bachelor Indogermanistik und Indoiranistik** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||in ECTS-Punkten1|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|Basismodule|||||||||||||||
-|Einführung in die Indoger-<br>manistik|Proseminar||||2|5|5||||||Klausur (90 Min.)|1|
-|Einführung in das Germani-<br>sche|Vorlesung|2||||5||5|||||Klausur (90 Min.)|1|
-|Sanskrit I|Proseminar||||2|5|5||||||Klausur (90 Min.)|1|
-|Sanskrit II|Proseminar||||2|5||5|||||Klausur (90 Min.)|1|
-|Aufbaumodule|||||||||||||||
-|Indoiranische Sprachen I|Mittelseminar||||2|5|||5||||Klausur (90 Min.)|1|
-|Indoiranische Sprachen II|Mittelseminar||||2|5||||5|||Hausarbeit<br>(ca. 20 S.)|1|
-|Weitere indogermanische<br>Sprachen I|Mittelseminar||||2|5|||5||||Klausur (90 Min.)|1|
-|Weitere indogermanische<br>Sprachen II|Mittelseminar||||2|5||||5|||Hausarbeit<br>(ca. 20 S.)|1|
-|Rekonstruktion der indoger-<br>manischen Grundsprache I|Mittelseminar||||2|5|||||5||Klausur (90 Min.)|1|
-|Rekonstruktion der indoger-<br>manischen Grundsprache II|Mittelseminar||||2|5|||||5||Hausarbeit<br>(ca. 20 S.)|1|
-|Importmodule|||||||||||||||
-|Importmodule2||||||20|||5|5|5|5|Nach Maßgabe des<br>Faches3|1|
-|Bachelorarbeit|||||||||||||||
-|Bachelorarbeit||||||10||||||10|Bachelorarbeit<br>(ca. 40 S.)|1|
-|Summe:||2|||18|80|10|10|15|15|15|15|||
-|||20|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Gesamt<br>ECTS|W<br>|orkload-<br>in<br>|Verteilu<br>ECTS-<br>|ng pro Seme<br>Punkten<sup>1</sup><br> <br>|ster<br>|Art und Umfang der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|<br>S|1.|2.|3.|4.<br>5.|6.||note|
+|Basismodule|||||||||||
+|Einführung in die Indoger-<br>manistik|Proseminar||2<br>5|5|||||Klausur (90 Min.)|1|
+|Einführung in das Germani-<br>sche|Vorlesung|2|5||5||||Klausur (90 Min.)|1|
+|Sanskrit I|Proseminar||2<br>5|5|||||Klausur (90 Min.)|1|
+|Sanskrit II|Proseminar||2<br>5||5||||Klausur (90 Min.)|1|
+|Aufbaumodule|||||||||||
+|Indoiranische Sprachen I|Mittelseminar||2<br>5|||5|||Klausur (90 Min.)|1|
+|Indoiranische Sprachen II|Mittelseminar||2<br>5||||5||Hausarbeit<br>(ca. 20 S.)|1|
+|Weitere indogermanische<br>Sprachen I|Mittelseminar||2<br>5|||5|||Klausur (90 Min.)|1|
+|Weitere indogermanische<br>Sprachen II|Mittelseminar||2<br>5||||5||Hausarbeit<br>(ca. 20 S.)|1|
+|Rekonstruktion der indoger-<br>manischen Grundsprache I|Mittelseminar||2<br>5||||5||Klausur (90 Min.)|1|
+|Rekonstruktion der indoger-<br>|Mittelseminar||2<br>5||||5||Hausarbeit<br>|1|
+|manischen Grundsprache II|||||||||(ca. 20 S.)||
+|Importmodule|||||||||||
+|Importmodule<sup>2</sup>|||20|||5|5<br>5|5|Nach Maßgabe des<br><sup>3</sup>|1|
+||||||||||Faches||
+|Bachelorarbeit|||||||||||
+|Bachelorarbeit|||10|||||10|Bachelorarbeit<br>(ca. 40 S.)|1|
+|Summe:||2<br>20|18<br>80|10|10|15|15<br>15|15|||
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

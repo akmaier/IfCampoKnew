@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Buchwissenschaft FPOBuWi 20230223 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Buchwissenschaft/Aenderungssatzungen/MA_Buchwissenschaft_FPOBuWi_20230223_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:24:55+00:00
-page_count_chars: 10975
+scraped_at: 2026-07-01T09:39:25+00:00
+page_count_chars: 10296
 ---
 
 # MA Buchwissenschaft FPOBuWi 20230223 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 10975
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Buchwissenschaft/Aenderungssatzungen/MA_Buchwissenschaft_FPOBuWi_20230223_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Buchwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO M.A. BuWi –** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Buchwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO M.A. BuWi –** 
 
-## **Vom 23. Februar 2023** 
+# **Vom 23. Februar 2023** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Buchwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg – FPO M.A. BuWi – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 11. Juni 2019 wird wie folgt geändert: 
 
@@ -30,15 +30,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Buchwissenschaf
 
 4. Die Regelung in § 2 erhält folgende neue Fassung: 
 
-„(1)[1] Als fachspezifischer Abschluss i.S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** gilt ein Bachelorabschluss in einem sozial- oder geisteswissenschaftlichen Studium mit Bezug zur Medienkommunikation, insbesondere in den Bereichen Buchwissenschaft, Medienwissenschaft und Kommunikationswissenschaft.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Bachelorabschlüsse in anderen verwandten Fachrichtungen anerkannt, die mit mindestens 40 ECTS einen Bezug zu Medien und/oder mediengestützten Kommunikationsprozessen haben. 
+„(1)<sup>1</sup> Als fachspezifischer Abschluss i.S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** gilt ein Bachelorabschluss in einem sozial- oder geisteswissenschaftlichen Studium mit Bezug zur Medienkommunikation, insbesondere in den Bereichen Buchwissenschaft, Medienwissenschaft und Kommunikationswissenschaft.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Bachelorabschlüsse in anderen verwandten Fachrichtungen anerkannt, die mit mindestens 40 ECTS einen Bezug zu Medien und/oder mediengestützten Kommunikationsprozessen haben. 
 
-(2)[1] Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie Bewerberinnen und Bewerber mit fachverwandten Abschlüssen im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** mit einer Note von 1,00 bis 3,00 müssen dem Bewerbungsantrag gemäß Abs. 2 Satz 2 Nr. 2 **Anlage 1 ABMStPO/Phil** zudem ein Bewerbungsschreiben im Umfang von 2-3 Seiten beifügen, in dem die Bewerberinnen bzw. Bewerber ihre jeweilige Qualifikation in Bezug auf das Studium darlegen.[2] Das Bewerbungsschreiben soll zeigen, inwiefern die Bewerberinnen und Bewerber die 
+(2)<sup>1</sup> Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie Bewerberinnen und Bewerber mit fachverwandten Abschlüssen im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** mit einer Note von 1,00 bis 3,00 müssen dem Bewerbungsantrag gemäß Abs. 2 Satz 2 Nr. 2 **Anlage 1 ABMStPO/Phil** zudem ein Bewerbungsschreiben im Umfang von 2-3 Seiten beifügen, in dem die Bewerberinnen bzw. Bewerber ihre jeweilige Qualifikation in Bezug auf das Studium darlegen.<sup>2</sup> Das Bewerbungsschreiben soll zeigen, inwiefern die Bewerberinnen und Bewerber die 
 
 1 
 
-nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.[3] Das Bewerbungsschreiben wird im Hinblick auf die Schlüssigkeit der Begründung für die Eignung zum Masterstudium Schriftmedienkultur und Digitale Transformation auf Basis der im Erststudium erworbenen Kompetenzen in den Bereichen Medien und/oder mediengestützte Kommunikationsprozesse (max. 10 Punkte nach **Tabelle 1** ) bewertet. 
-
-## **Tabelle 1** 
+nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Bewerbungsschreiben wird im Hinblick auf die Schlüssigkeit der Begründung für die Eignung zum Masterstudium Schriftmedienkultur und Digitale Transformation auf Basis der im Erststudium erworbenen Kompetenzen in den Bereichen Medien und/oder mediengestützte Kommunikationsprozesse (max. 10 Punkte nach **Tabelle 1** ) bewertet. 
 
 |**Tabelle 1**||
 |---|---|
@@ -48,21 +46,21 @@ nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, da
 |Ausreichend|5|
 |Ungenügend|4-0|
 
-(3)[1] Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,50 und besser wird allein aufgrund des nachgewiesenen Abschlusses Zugang zum Masterstudium gewährt.[2] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für Bewerberinnen und Bewerber mit fachverwandten Abschlüssen im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** mit einer Note von 1,00 bis 3,00 erfolgt die Qualifikationsfeststellung anhand des gemäß Abs. 2 geforderten Bewerbungsschreibens.[3] Wird das Bewerbungsschreiben mit mindestens 5 Punkten bewertet, wird der Zugang zum Studiengang gewährt.[4] Die übrigen Bewerberinnen und Bewerber werden nicht zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.“ 
+(3)<sup>1</sup> Bewerberinnen und Bewerbern mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,50 und besser wird allein aufgrund des nachgewiesenen Abschlusses Zugang zum Masterstudium gewährt.<sup>2</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses bzw. im Falle des § 34 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 sowie für Bewerberinnen und Bewerber mit fachverwandten Abschlüssen im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** mit einer Note von 1,00 bis 3,00 erfolgt die Qualifikationsfeststellung anhand des gemäß Abs. 2 geforderten Bewerbungsschreibens.<sup>3</sup> Wird das Bewerbungsschreiben mit mindestens 5 Punkten bewertet, wird der Zugang zum Studiengang gewährt.<sup>4</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zugelassen und erhalten einen mit entsprechender Begründung und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid.“ 
 
 5. In § 3 wird das Wort „Buchwissenschaft“ durch die Worte „Schriftmedienkultur und Digitale Transformation“ ersetzt. 
 
 6. § 4 wird wie folgt geändert: 
 
-- a) In Abs. 1 werden die hochgestellte Zahl „[1] “ in Satz 2 sowie Satz 2 insgesamt gestrichen. 
+- a) In Abs. 1 werden die hochgestellte Zahl „<sup>1</sup> “ in Satz 2 sowie Satz 2 insgesamt gestrichen. 
 
-b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-- aa) In Satz 1 werden nach den Worten „kennenlernen und mit“ das Wort „buchwissenschaftlichen“ gestrichen und nach den Worten „kennenlernen und mit Fragestellungen“ (neu) die Worte „der Schriftmedienkultur“ eingefügt. 
+   - aa) In Satz 1 werden nach den Worten „kennenlernen und mit“ das Wort „buchwissenschaftlichen“ gestrichen und nach den Worten „kennenlernen und mit Fragestellungen“ (neu) die Worte „der Schriftmedienkultur“ eingefügt. 
 
 bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Die spezifischen Qualifikationsziele der von den Studierenden gewählten Module ergeben sich aus den jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnungen** sowie den dazugehörigen Modulbeschreibungen.“ 
+„<sup>3</sup> Die spezifischen Qualifikationsziele der von den Studierenden gewählten Module ergeben sich aus den jeweils einschlägigen **(Fach-)Studien- und Prüfungsordnungen** sowie den dazugehörigen Modulbeschreibungen.“ 
 
 2 
 
@@ -70,38 +68,34 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 7. In § 5 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die sechste Änderungssatzung tritt zum 1. Oktober 2023 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung dieser Fachstudien- und Prüfungsordnung ab.“ 
+„(3)<sup>1</sup> Die sechste Änderungssatzung tritt zum 1. Oktober 2023 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung dieser Fachstudien- und Prüfungsordnung ab.“ 
 
 3 
 
-## 8. **Anlage 1** erhält samt Erläuterungen folgende neue Fassung: 
+# 8. **Anlage 1** erhält samt Erläuterungen folgende neue Fassung: 
 
-## „ **Anlage 1: Studienverlaufsplan Masterstudiengang Schriftmedienkultur und Digitale Transformation – Vollzeit** 
+# „ **Anlage 1: Studienverlaufsplan Masterstudiengang Schriftmedienkultur und Digitale Transformation – Vollzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**||**Ge-**<br>**samt-**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1 **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1 **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1 **|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|||
-|Grundlagen|||||||||||||
-||||||||||||||
-|**Grundlagen**|Seminar||||4|**10**|10||||Schriftliche Prüfung<br>(ca. 90 Min. bzw. ca. 5-7 S.)|1|
-|Kernmodule|||||||||||||
-||||||||||||||
-||||||||||||||
-|**Kernmodul 1:**<br>**Rahmenbedingungen**|Vorlesung|2||||**15**|5||||Referat (ca. 20 Min) und<br>Hausarbeit (ca. 15 S.)<br>(0 % + 100 %)|2|
-||Hauptseminar I||||1||5||||||
-||Hauptseminar II||||2||5||||||
-|**Kernmodul 2:**<br>**Praktiken**|Vorlesung|2||||**15**||5|||Referat (ca. 20 Min.) und<br>Hausarbeit (ca. 15 S.) (0 % + 100 %)|2|
-||Hauptseminar I||||1|||5|||||
-||Hauptseminar II||||2|||5|||||
-|Projekt|||||||||||||
-|**Projektarbeit**|Hauptseminar||||4|**20**|||20||Projektbericht(ca. 20 S.)|2|
-|Wahlpflichtbereich|||||||||||||
-|**Wahlpflichtbereich2**|gemäß§4 Abs. 4|||||**30**|5|15|10||gemäß§4 Abs. 3|0|
-|Masterarbeit|||||||||||||
-|**Masterarbeit**|Masterseminar||||2|**30**||||5|Masterarbeit (ca. 20.000-25.000 Wörter)|2|
-||Masterarbeit|||||||||25|||
-|**Summe SWS (mind.) und ECTS-Punkte**||**4**|**0**|**0**|**16**|**120**|**30**|**30**|**30**|**30**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**||**SWS**<br>|**Ge-**<br>**samt-**<br>|**Workload-Ve**<br>**Semester in EC**|**rteilung pro**<br>**TS-Punkten**<sup>**1**</sup>|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|
+|||**V**|**Ü**<br>**P**<br>**S**|**ECTS**|**1.**<br>**2.**|**3. **<br>**4.**||**note**|
+|Grundlagen|||||||||
+|**Grundlagen**|Seminar||4|**10**|10||Schriftliche Prüfung<br>(ca 90 Min bzw ca 5-7 S)|1|
+|Kernmodule|||||||.  . . ..||
+||Vorlesung|2|||5||Referat (ca. 20 Min) und||
+|**Kernmodul 1:**<br>**Rahmenbedingungen**|Hauptseminar I||1|**15**|5||<br>Hausarbeit (ca. 15 S.)<br>|2|
+||Hauptseminar II||2||5||(0 % + 100 %)||
+||Vorlesung|2|||5||||
+|**Kernmodul 2:**<br>**Praktiken**|Hauptseminar I||1|**15**|5||Referat (ca. 20 Min.) und<br>Hausarbeit (ca. 15 S.) (0 % + 100 %)|2|
+||Hauptseminar II||2||5||||
+|Projekt|||||||||
+|**Projektarbeit**|Hauptseminar||4|**20**||20|Projektbericht(ca. 20 S.)|2|
+|Wahlpflichtbereich|||||||||
+|**Wahlpflichtbereich**<sup>**2**</sup>|gemäß|§4 Abs|. 4|**30**|5<br>15|10|gemäß§4 Abs. 3|0|
+|Masterarbeit|Mti||2|||5|||
+|**Masterarbeit**|asersemnar|||**30**|||Masterarbeit (ca 20000-25000 Wörter)|2|
+||Masterarbeit|||||25|. ..||
+|**Summe SWS (m**|**ind.) und ECTS-Punkte**|**4**|**0**<br>**0**<br>**16**|**120**|**30**<br>**30**|**30**<br>**30**|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -109,34 +103,30 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 4 
 
-## 9. **Anlage 2** erhält folgende neue Fassung: 
+# 9. **Anlage 2** erhält folgende neue Fassung: 
 
-## **„Anlage 2: Studienverlaufsplan Masterstudiengang Schriftmedienkultur und Digitale Transformation – Teilzeit** 
+# **„Anlage 2: Studienverlaufsplan Masterstudiengang Schriftmedienkultur und Digitale Transformation – Teilzeit** 
 
-|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**|**SWS**|**SWS**||**Gesamt**<br>**ECTS**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten 1 **|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||**in ECTS-Punkten 1 **||||||||
-||||||||||||||||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|**5. **|**6. **|**7.**|**8. **|||
-|Grundlagen|||||||||||||||||
-|**Grundlagen**|Seminar||||4|**10**|10||||||||Schriftliche Prüfung<br>(ca.90Min.bzw.ca.5-7S.)|1|
-|Kernmodule|||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-|**Kernmodul 1:**<br>**Rahmenbedingungen**|Vorlesung|2||||**15**|||5||||||Referat (ca. 20 Min) und<br>Hausarbeit (ca. 15 S.)<br>(0 % + 100 %)|2|
-||Hauptseminar I||||1||||5||||||||
-||Hauptseminar II||||2||||5||||||||
-|**Kernmodul 2:**<br>**Praktiken**|Vorlesung|2||||**15**||||5|||||Referat (ca. 20 Min) und<br>Hausarbeit (ca. 15 S.)<br>(0 % + 100 %)|2|
-||Hauptseminar I||||1|||||5|||||||
-||Hauptseminar II||||2|||||5|||||||
-|Projekt|||||||||||||||||
-|**Projektarbeit**|Hauptseminar||||4|**20**|||||10|10|||Projektbericht(ca. 20 S.)|2|
-|Wahlpflichtbereich|||||||||||||||||
-|**Wahlpflichtbereich2 **|gemäß|§4 Abs. 4||||**30**|5|15|||5|5|||gemäß§4 Abs. 3|0|
-|Masterarbeit|||||||||||||||||
-|**Masterarbeit**|Masterseminar||||2|**30**|||||||15|15|Masterarbeit<br>(ca. 20.000-25.000 Wörter)|2|
-||Masterarbeit||||||||||||||||
-|**Summe SWS (mind.) und ECTS-Punkte**||**4**|**0**|**0**|**16**|**120**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|**15**|||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>||**Gesamt**<br>**ECTS**|**Workload-Ve**<br>**in EC**|**rteil**<br>**TS-**|**ung pro Semester**<br>**Punkten **<sup>**1**</sup>|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|||**V**<br>**Ü**<br>**P**|**S**||**1.**<br>**2.**<br>**3. **|**4.**|**5. **<br>**6. **<br>**7.**<br>**8. **||**note**|
+|Grundlagen||||||||||
+|**Grundlagen**|Seminar||4|**10**|10|||Schriftliche Prüfung<br>(ca90Minbzwca5-7S)|1|
+|Kernmodule||||||||.... .||
+||Vorlesung|2|||5|||Referat (ca. 20 Min) und||
+|**Kernmodul 1:**<br>**Rahmenbedingungen**|Hauptseminar I||1|**15**|5|||<br>Hausarbeit (ca. 15 S.)<br>|2|
+||Hauptseminar II||2||5|||(0 % + 100 %)||
+||Vorlesung|2||||5||Referat (ca. 20 Min) und||
+|**Kernmodul 2:**<br>**Praktiken**|Hauptseminar I||1|**15**||5||<br>Hausarbeit (ca. 15 S.)<br>|2|
+||Hauptseminar II||2|||5||(0 % + 100 %)||
+|Projekt<br>|<br>||<br>||||<br>|||
+|**Projektarbeit**|Hauptseminar||4|**20**|||10<br>10|Projektbericht(ca. 20 S.)|2|
+|Wahlpflichtbereich||||||||||
+|**Wahlpflichtbereich**<sup>**2**</sup>|gemäß|4 Abs. 4||**30**|5<br>15||5<br>5|gemäß§4 Abs. 3|0|
+|Masterarbeit|||||<br>||<br>|||
+|**Mtbit**|Masterseminar||2|**30**|||15<br>15|Masterarbeit|2|
+|**aserare**|Masterarbeit|||||||(ca. 20.000-25.000 Wörter)||
+|**Summe SWS**|**(mind.) und ECTS-Punkte**|**4**<br>**0**<br>**0**|**16**|**120**|**15**<br>**15**<br>**15**|**15**|**15**<br>**15**<br>**15**<br>**15**|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -146,7 +136,7 @@ bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt:
 
 **§ 2** 
 
-1Diese Änderungssatzung tritt zum 1. Oktober 2023 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung dieser Fachstudien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt zum 1. Oktober 2023 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2023/2024 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Sommersemester 2028 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Wegfall des Angebots betroffenen Studierenden ihre Prüfungen nach der dann gültigen Fassung dieser Fachstudien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der FAU vom 9. November 2022 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 23. Februar 2023. 
 

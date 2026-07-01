@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.08.2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Werkstoffwissenschaften-2004.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:35:09+00:00
-page_count_chars: 39606
+scraped_at: 2026-07-01T11:50:16+00:00
+page_count_chars: 40350
 ---
 
 # PDF vom 20.08.2004
@@ -22,9 +22,9 @@ Diese Fachprüfungsordnung gilt für Studenten, die
 
 3. **vom** WS 2004/05 ab das Masterstudium aufnehmen. 
 
-## **- FPO 2004 -** 
+# **- FPO 2004 -** 
 
-## **Fachprüfungsordnung für den Diplom-, Bachelorund Masterstudiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg (FPOWW) Vom 20. August 2004** (KWMBl II S. …) 
+# **Fachprüfungsordnung für den Diplom-, Bachelorund Masterstudiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg (FPOWW) Vom 20. August 2004** (KWMBl II S. …) 
 
 Aufgrund von Art. 6 Abs. 1 in Verbindung mit Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) und § 57 Abs. 1 der Qualifikationsverordnung (QualV) erlässt die Universität Erlangen-Nürnberg folgende Fachprüfungsordnung: 
 
@@ -34,7 +34,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **§ 1 Geltungsbereich** 
 
-(1)[1] Diese Fachprüfungsordnung regelt die Prüfungen im wissenschaftlichen Studium der Werkstoffwissenschaften.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung regelt die Prüfungen im wissenschaftlichen Studium der Werkstoffwissenschaften.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität Erlangen-Nürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
 
 (2) Im Studiengang Werkstoffwissenschaften sind neben dem Abschluss Diplom die Abschlüsse Bachelor und Master möglich. 
 
@@ -54,21 +54,21 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Umfang und Gliederung des Studiums, Regelstudienzeit** 
 
-(1)[1] Planung und Bewertung des Studienumfanges beruhen auf dem European Credit Transfer System (ECTS).[2] Auf Lehrveranstaltungsmodule, an denen der Student mit Erfolg teilgenommen hat, sowie auf Studien- und Prüfungsleistungen, die er erbracht hat, werden ECTS-Punkte vergeben.[3] Pro Semester Studienzeit werden 30 ECTS-Punkte veranschlagt. 
+(1)<sup>1</sup> Planung und Bewertung des Studienumfanges beruhen auf dem European Credit Transfer System (ECTS).<sup>2</sup> Auf Lehrveranstaltungsmodule, an denen der Student mit Erfolg teilgenommen hat, sowie auf Studien- und Prüfungsleistungen, die er erbracht hat, werden ECTS-Punkte vergeben.<sup>3</sup> Pro Semester Studienzeit werden 30 ECTS-Punkte veranschlagt. 
 
-(2)[1] Das Studium der Werkstoffwissenschaften mit dem Abschlussziel Diplom setzt sich aus Lehrveranstaltungen im Umfang von 185 SWS, verteilt auf acht Semester, und der Anfertigung einer sechswöchigen Studienarbeit zusammen.[2] Hinzu kommen zwölf Wochen für die Ableistung der in das Studium integrierten berufspraktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.[3] Die Regelstudienzeit beträgt neun Semester.[4] Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergeben sich aus den **Anlagen 1 und 3** . 
+(2)<sup>1</sup> Das Studium der Werkstoffwissenschaften mit dem Abschlussziel Diplom setzt sich aus Lehrveranstaltungen im Umfang von 185 SWS, verteilt auf acht Semester, und der Anfertigung einer sechswöchigen Studienarbeit zusammen.<sup>2</sup> Hinzu kommen zwölf Wochen für die Ableistung der in das Studium integrierten berufspraktischen Tätigkeit und sechs Monate für die Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit beträgt neun Semester.<sup>4</sup> Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergeben sich aus den **Anlagen 1 und 3** . 
 
 (3) Die Regelstudienzeit im Bachelorstudium mit anschließendem Masterstudium beträgt einschließlich der Anfertigung der Bachelorarbeit und der Masterarbeit und des Ablegens der entsprechenden Prüfungen insgesamt neun Semester. 
 
-(4)[1] Das Studium der Werkstoffwissenschaften mit dem Abschluss des Bachelor setzt sich aus Lehrveranstaltungen im Umfang von 147 SWS, verteilt auf sechs Semester, der in das Studium integrierten berufspraktischen Tätigkeit von acht Wochen und der Anfertigung einer sechswöchigen Bachelorarbeit zusammen.[2] Die Regelstudienzeit beträgt sechs Semester.[3] Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergeben sich aus den **Anlage 1 und 4** . 
+(4)<sup>1</sup> Das Studium der Werkstoffwissenschaften mit dem Abschluss des Bachelor setzt sich aus Lehrveranstaltungen im Umfang von 147 SWS, verteilt auf sechs Semester, der in das Studium integrierten berufspraktischen Tätigkeit von acht Wochen und der Anfertigung einer sechswöchigen Bachelorarbeit zusammen.<sup>2</sup> Die Regelstudienzeit beträgt sechs Semester.<sup>3</sup> Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergeben sich aus den **Anlage 1 und 4** . 
 
-(5)[1] Das Studium der Werkstoffwissenschaften mit dem Abschluss Master setzt sich aus Lehrveranstaltungen im Umfang von 38 SWS, verteilt auf zwei Semester, der in das Studium integrierten berufspraktischen Tätigkeit von zwölf Wochen (worauf eine während des Bachelorstudiums erbrachte berufspraktische Tätigkeit angerechnet wird) und sechs Monaten zur Durchführung der Masterarbeit zusammen.[2] Die Regelstudienzeit beträgt drei Semester.[3] Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergibt sich aus **Anlage 5** .[4] Hat der Kandidat die Qualifikation zum Masterstudium außerhalb der Bundesrepublik Deutschland oder an einer Fachhochschule erworben und erfolgt die Zulassung zum Masterstudium mit Auflagen, so beträgt die Regelstudienzeit vier Semester. 
+(5)<sup>1</sup> Das Studium der Werkstoffwissenschaften mit dem Abschluss Master setzt sich aus Lehrveranstaltungen im Umfang von 38 SWS, verteilt auf zwei Semester, der in das Studium integrierten berufspraktischen Tätigkeit von zwölf Wochen (worauf eine während des Bachelorstudiums erbrachte berufspraktische Tätigkeit angerechnet wird) und sechs Monaten zur Durchführung der Masterarbeit zusammen.<sup>2</sup> Die Regelstudienzeit beträgt drei Semester.<sup>3</sup> Die Aufteilung der ECTS-Punkte auf die Studienund Prüfungsleistungen ergibt sich aus **Anlage 5** .<sup>4</sup> Hat der Kandidat die Qualifikation zum Masterstudium außerhalb der Bundesrepublik Deutschland oder an einer Fachhochschule erworben und erfolgt die Zulassung zum Masterstudium mit Auflagen, so beträgt die Regelstudienzeit vier Semester. 
 
-(6)[1] Das Diplomstudium gliedert sich in ein Grundstudium und ein Hauptstudium. 2Das viersemestrige Grundstudium umfasst die naturwissenschaftlichen, ingenieurwissenschaftlichen und werkstoffwissenschaftlichen Grundlagen; es wird mit der Diplomvorprüfung abgeschlossen.[3] Das Hauptstudium ist in zwei zweisemestrige Studienabschnitte gegliedert, die mit Teil I und Teil II der Diplomhauptprüfung abgeschlossen werden.[4] Der erste Studienabschnitt und der ihn abschließende Teil I der Diplomhauptprüfung umfasst die werkstoffwissenschaftliche Vertiefung, ein technisches Schwerpunktfach und eine Einführung in die Produktions- und Betriebswirtschaftslehre, der zweite Studienabschnitt und der ihn abschließende Teil II der Diplomhauptprüfung ein werkstoffwissenschaftliches Kernfach und ein Wahlfach. 
+(6)<sup>1</sup> Das Diplomstudium gliedert sich in ein Grundstudium und ein Hauptstudium. 2Das viersemestrige Grundstudium umfasst die naturwissenschaftlichen, ingenieurwissenschaftlichen und werkstoffwissenschaftlichen Grundlagen; es wird mit der Diplomvorprüfung abgeschlossen.<sup>3</sup> Das Hauptstudium ist in zwei zweisemestrige Studienabschnitte gegliedert, die mit Teil I und Teil II der Diplomhauptprüfung abgeschlossen werden.<sup>4</sup> Der erste Studienabschnitt und der ihn abschließende Teil I der Diplomhauptprüfung umfasst die werkstoffwissenschaftliche Vertiefung, ein technisches Schwerpunktfach und eine Einführung in die Produktions- und Betriebswirtschaftslehre, der zweite Studienabschnitt und der ihn abschließende Teil II der Diplomhauptprüfung ein werkstoffwissenschaftliches Kernfach und ein Wahlfach. 
 
-(7)[1] Das Bachelorstudium umfasst ein viersemestriges Grundstudium (Grundabschnitt) und ein weiteres Studium von zwei Semestern, das die werkstoffwissenschaftliche Vertiefung sowie Produktions- und Betriebswirtschaftslehre beinhaltet (Hauptabschnitt).[2] Es wird mit der Bachelorprüfung abgeschlossen. 
+(7)<sup>1</sup> Das Bachelorstudium umfasst ein viersemestriges Grundstudium (Grundabschnitt) und ein weiteres Studium von zwei Semestern, das die werkstoffwissenschaftliche Vertiefung sowie Produktions- und Betriebswirtschaftslehre beinhaltet (Hauptabschnitt).<sup>2</sup> Es wird mit der Bachelorprüfung abgeschlossen. 
 
-(8)[1] Das Masterstudium umfasst die Lehrveranstaltungen des gewählten werkstoffwissenschaftlichen Kernfaches, die nach der Studienordnung für die Studenten des Diplomstudiums im siebenten und achten Semesters vorgesehen sind.[2] Hinzu kommt das technische Schwerpunktfach und im Falle von § 3 Abs. 5 Satz 4 weitere aufbauende Lehrveranstaltungen. 
+(8)<sup>1</sup> Das Masterstudium umfasst die Lehrveranstaltungen des gewählten werkstoffwissenschaftlichen Kernfaches, die nach der Studienordnung für die Studenten des Diplomstudiums im siebenten und achten Semesters vorgesehen sind.<sup>2</sup> Hinzu kommt das technische Schwerpunktfach und im Falle von § 3 Abs. 5 Satz 4 weitere aufbauende Lehrveranstaltungen. 
 
 (9) Im Masterstudiengang und im zweiten Studienabschnitt des Hauptstudiums nach § 3 Abs. 6 kann auch der Studienschwerpunkt "Werkstoffe in der Medizin" gewählt werden. 
 
@@ -78,9 +78,9 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 (1) Die Prüfungen des Grundabschnitts des Bachelorstudiums und die Prüfungen der Diplomvor-, der Bachelor-, Master- und der Diplomhauptprüfung sollen studienbegleitend abgelegt werden in dem auf die Vorlesungszeit des Fachsemesters folgenden Prüfungszeitraum. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktsystem erbracht.[2] Die Leistungspunkte beruhen auf dem European Credit Transfer System (ECTS).[3] Die Aufteilung der Leistungspunkte (ECTS-Punkte) auf Prüfungs- und Studienleistungen ergeben sich aus den **Anlagen 1** und **3 bis 5** .[4] Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.[5] Eine zweite Wiederholung einer Prüfung ist zulässig bis zur angegebenen Schwelle der Maluspunkte des jeweiligen Prüfungsabschnittes.[6] Eine Wiederholung ist auf nicht bestandene Fachprüfungen beschränkt. 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktsystem erbracht.<sup>2</sup> Die Leistungspunkte beruhen auf dem European Credit Transfer System (ECTS).<sup>3</sup> Die Aufteilung der Leistungspunkte (ECTS-Punkte) auf Prüfungs- und Studienleistungen ergeben sich aus den **Anlagen 1** und **3 bis 5** .<sup>4</sup> Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene Wiederholungsprüfungen entsprechende Maluspunkte vergeben.<sup>5</sup> Eine zweite Wiederholung einer Prüfung ist zulässig bis zur angegebenen Schwelle der Maluspunkte des jeweiligen Prüfungsabschnittes.<sup>6</sup> Eine Wiederholung ist auf nicht bestandene Fachprüfungen beschränkt. 
 
-(3)[1] Der zum Erwerb eines Leistungsnachweises erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.[2] Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind und zu welchem Zeitpunkt diese erbracht werden müssen.[3] Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden. 
+(3)<sup>1</sup> Der zum Erwerb eines Leistungsnachweises erforderliche Wissensstand (erfolgreiche Teilnahme an einer Lehrveranstaltung) wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen.<sup>2</sup> Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind und zu welchem Zeitpunkt diese erbracht werden müssen.<sup>3</sup> Nicht erfolgreich absolvierte Lehrveranstaltungen können zweimal wiederholt werden. 
 
 (4) Werden im Rahmen einer benoteten Studienleistung mehrere benotete Leistungsnachweise erbracht, wird die Note der Studienleistung durch mit den ECTSPunkten der jeweiligen Einzelleistung gewichtete Mittelung gebildet; dabei wird nur die erste Stelle nach dem Komma berücksichtigt, alle weiteren Stellen werden ohne Rundung gestrichen. 
 
@@ -88,9 +88,9 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Zulassungskommission Werkstoffwissenschaften** 
 
-(1)[1] Die Zulassungskommission Werkstoffwissenschaften besteht aus einem Professor als Vorsitzendem, drei hauptberuflich im Dienst der Universität ErlangenNürnberg stehenden Hochschullehrern und einem Vertreter der wissenschaftlichen 
+(1)<sup>1</sup> Die Zulassungskommission Werkstoffwissenschaften besteht aus einem Professor als Vorsitzendem, drei hauptberuflich im Dienst der Universität ErlangenNürnberg stehenden Hochschullehrern und einem Vertreter der wissenschaftlichen 
 
-Mitarbeiter, alle aus dem Institut für Werkstoffwissenschaften.[2] Der Vorsitzende und die Mitglieder werden vom Fachbereichsrat der Technischen Fakultät für die Dauer von zwei Jahren bestellt.[3] Wiederbestellung ist möglich. 
+Mitarbeiter, alle aus dem Institut für Werkstoffwissenschaften.<sup>2</sup> Der Vorsitzende und die Mitglieder werden vom Fachbereichsrat der Technischen Fakultät für die Dauer von zwei Jahren bestellt.<sup>3</sup> Wiederbestellung ist möglich. 
 
 (2) Der Zulassungskommission Werkstoffwissenschaften obliegt die Überprüfung der Qualifikations- und Zulassungsvoraussetzungen zum Masterstudium nach § 21 
 
@@ -148,9 +148,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomvorprüfung anmelden, dass er di
 
 11. Werkstoffwissenschaftliche Prüfung 1: Werkstoffe, Werkstoffstruktur und Herstellung von Werkstoffen 
 
-12. Werkstoffwissenschaftliche Prüfung 2: Mechanische Eigenschaften und Verarbeitung von Werkstoffen 
-
-13. Werkstoffwissenschaftliche Prüfung 3: Festkörperthermodynamik und Charakterisierung von Werkstoffen und 
+12. Werkstoffwissenschaftliche Prüfung 2: Mechanische Eigenschaften und Verarbeitung von Werkstoffen 13. Werkstoffwissenschaftliche Prüfung 3: Festkörperthermodynamik und Charakterisierung von Werkstoffen und 
 
 14. Werkstoffwissenschaftliche Prüfung 4: Festkörperkinetik, elektrische, magnetische und optische Werkstoffeigenschaften. 
 
@@ -182,13 +180,13 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **Anerkennung von Diplomvorprüfungen** 
 
-(1)[1] Eine Diplomvorprüfung in verwandten Studienfächern wird gemäß § 6 Abs. 1 DiplPrOTF angerechnet.[2] Von den in § 7 Abs. 1 Nr. 11 bis 14 aufgeführten Prüfungsleistungen sind mindestens zwei nachzuweisen oder spätestens bis zur Meldung zum Teil II der Diplomhauptprüfung zu erbringen. 
+(1)<sup>1</sup> Eine Diplomvorprüfung in verwandten Studienfächern wird gemäß § 6 Abs. 1 DiplPrOTF angerechnet.<sup>2</sup> Von den in § 7 Abs. 1 Nr. 11 bis 14 aufgeführten Prüfungsleistungen sind mindestens zwei nachzuweisen oder spätestens bis zur Meldung zum Teil II der Diplomhauptprüfung zu erbringen. 
 
 (2) Hat der Kandidat im Studiengang Werkstofftechnik die Abschlussprüfung an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil „sehr gut bestanden“ abgelegt, so wird ihm auf Antrag die Diplomvorprüfung erlassen; für Absolventen außerbayerischer Fachhochschulen gilt § 6 Abs. 6 Satz 1 DiplPrOTF. 
 
 ## **§ 10 Zulassung zur Diplomhauptprüfung** 
 
-(1)[1] Voraussetzung für die Zulassung zur ersten Fachprüfung von Teil I der Diplomhauptprüfung ist, dass alle Prüfungsleistungen der Diplomvorprüfung erstmals abgelegt und bis auf zwei Prüfungen mit wenigstens „ausreichend“ bewertet sind. 
+(1)<sup>1</sup> Voraussetzung für die Zulassung zur ersten Fachprüfung von Teil I der Diplomhauptprüfung ist, dass alle Prüfungsleistungen der Diplomvorprüfung erstmals abgelegt und bis auf zwei Prüfungen mit wenigstens „ausreichend“ bewertet sind. 
 
 (2) Als Zulassungsvoraussetzung zu den werkstoffwissenschaftlichen Prüfungen des Teil II der Diplomhauptprüfung muss nachgewiesen werden, dass 1. am Hauptseminar  des Kernfachs sowie 
 
@@ -206,11 +204,11 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 11 Studienarbeit** 
 
-(1)[1] Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrers der Werkstoffwissenschaften.[2] Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf einem ingenieurwissenschaftlichen Gebiet der Werkstoffwissenschaften zu erlernen.[3] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb einer Bearbeitungszeit von ca. 120 Stunden abgeschlossen werden kann.[4] Die maximale Bearbeitungsdauer darf zwölf Wochen nicht überschreiten. 
+(1)<sup>1</sup> Die Studienarbeit ist eine Arbeit unter der wissenschaftlichen Betreuung eines hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrers der Werkstoffwissenschaften.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf einem ingenieurwissenschaftlichen Gebiet der Werkstoffwissenschaften zu erlernen.<sup>3</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb einer Bearbeitungszeit von ca. 120 Stunden abgeschlossen werden kann.<sup>4</sup> Die maximale Bearbeitungsdauer darf zwölf Wochen nicht überschreiten. 
 
-(2)[1] Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; er bewertet die Studienarbeit nach der Notenskala des § 9 Abs. 1 und 2 DiplPrOTF.[2] Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden. 
+(2)<sup>1</sup> Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; er bewertet die Studienarbeit nach der Notenskala des § 9 Abs. 1 und 2 DiplPrOTF.<sup>2</sup> Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist die Studienarbeit nicht bestanden. 
 
-(3)[1] Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.[3] Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
+(3)<sup>1</sup> Eine nicht bestandene Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.<sup>3</sup> Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
 
 (4) Die Studienarbeit gilt als nicht bestanden, wenn das Thema der Arbeit verspätet oder unzulässigerweise zurückgegeben wird. 
 
@@ -234,7 +232,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 5. Produktionslehre. 
 
-(3)[1] Teil II der Diplomhauptprüfung umfasst die 
+(3)<sup>1</sup> Teil II der Diplomhauptprüfung umfasst die 
 
 1. Werkstoffwissenschaftliche Prüfung 7 (Kernfach), 
 
@@ -244,7 +242,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 2Wer das Kernfach "Werkstoffe in der Medizin" wählt, muss zusätzlich zu den Prüfungen nach Satz 1 einen benoteten Leistungsnachweis im Fach "Grundlagen der Anatomie und Physiologie für Nicht-Mediziner" erbringen. 
 
-(4)[1] Die als Kernfach, Technisches Schwerpunktfach bzw. Wahlfach wählbaren Fächer ergeben sich aus der **Anlage 2** .[2] Bei der Wahl des Studienschwerpunktes "Werkstoffe in der Medizin" sind die Kombinationsgebote der **Anlage 2a** zu beachten. 
+(4)<sup>1</sup> Die als Kernfach, Technisches Schwerpunktfach bzw. Wahlfach wählbaren Fächer ergeben sich aus der **Anlage 2** .<sup>2</sup> Bei der Wahl des Studienschwerpunktes "Werkstoffe in der Medizin" sind die Kombinationsgebote der **Anlage 2a** zu beachten. 
 
 (5) Der Umfang der Prüfungen eines Faches (Prüfungsdauer), die Prüfungsart, die Verteilung auf die Semester und die Zahl der Leistungs- und Maluspunkte für Prüfungs- und  Studienleistungen sowie Leistungsnachweise ergeben sich aus der **Anlage 3** . 
 
@@ -256,15 +254,15 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 13 Diplomarbeit** 
 
-(1)[1] Die Regelbearbeitungszeit für die Diplomarbeit beträgt sechs Monate.[2] Eine Verlängerung um bis zu drei Monate kann der Prüfungsausschuss im Einzelfall aufgrund besonderer vom Studenten nicht zu vertretender Umstände gewähren. 
+(1)<sup>1</sup> Die Regelbearbeitungszeit für die Diplomarbeit beträgt sechs Monate.<sup>2</sup> Eine Verlängerung um bis zu drei Monate kann der Prüfungsausschuss im Einzelfall aufgrund besonderer vom Studenten nicht zu vertretender Umstände gewähren. 
 
-(2)[1] Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Werkstoffwissenschaften, bei der Wahl des Studienschwerpunktes "Werkstoffe in der Medizin" aus dem Bereich des Kernfaches, behandeln.[2] Sie wird von einem hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrer der Werkstoffwissenschaften betreut.[3] Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
+(2)<sup>1</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Werkstoffwissenschaften, bei der Wahl des Studienschwerpunktes "Werkstoffe in der Medizin" aus dem Bereich des Kernfaches, behandeln.<sup>2</sup> Sie wird von einem hauptberuflich im Dienst der Universität Erlangen-Nürnberg stehenden Hochschullehrer der Werkstoffwissenschaften betreut.<sup>3</sup> Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
 
 (3) Die Diplomarbeit wird mit 30 Leistungspunkten veranschlagt. 
 
 ## **§ 14 Bewertung der Leistungen** 
 
-(1)[1] In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
+(1)<sup>1</sup> In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
 
 1. der Prüfungsfächer, 
 
@@ -278,7 +276,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 6. der Produktionslehre. 
 
-2Im Falle des Kernfaches "Werkstoffe in der Medizin" kommt ein benoteter Leistungsnachweis im Fach "Grundlagen der Anatomie und Physiologie für NichtMediziner" hinzu.[3] Die Verteilung der Leistungspunkte auf die Prüfungs- und Studienleistungen sowie Leistungsnachweise ergibt sich aus **Anlage 3.** 
+2Im Falle des Kernfaches "Werkstoffe in der Medizin" kommt ein benoteter Leistungsnachweis im Fach "Grundlagen der Anatomie und Physiologie für NichtMediziner" hinzu.<sup>3</sup> Die Verteilung der Leistungspunkte auf die Prüfungs- und Studienleistungen sowie Leistungsnachweise ergibt sich aus **Anlage 3.** 
 
 (2) Wird das Studium im Studienschwerpunkt "Werkstoffe in der Medizin" erfolgreich abgeschlossen, wird dies im Zeugnis vermerkt. 
 
@@ -286,13 +284,13 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **§ 15 Meldung zur Bachelorprüfung, Prüfungen im Grundabschnitt, Ablegung der Bachelorprüfung** 
 
-(1) Der Kandidat soll sich so rechtzeitig zu den Prüfungen anmelden, dass er 
+- (1) Der Kandidat soll sich so rechtzeitig zu den Prüfungen anmelden, dass er 
 
 1. die letzte Prüfung des Grundstudiums (Grundabschnitt) bis zum Ende des vierten Semesters abgelegt hat. 
 
 2. die letzte Prüfung des Hauptabschnitts bis zum Ende des sechsten Semesters abschließt. 
 
-(2)[1] Im Grundstudium (Grundabschnitt) sind Prüfungen in den folgenden Fächern abzulegen: 
+(2)<sup>1</sup> Im Grundstudium (Grundabschnitt) sind Prüfungen in den folgenden Fächern abzulegen: 
 
 1. Mathematik I und II 
 
@@ -336,7 +334,7 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 ## **Umfang und Durchführung der Bachelorprüfung (Hauptabschnitt)** 
 
-- (1)[1] Die Prüfung im Hauptabschnitt  besteht aus: 
+- (1)<sup>1</sup> Die Prüfung im Hauptabschnitt  besteht aus: 
 
 1. der Werkstoffwissenschaftlichen Prüfung 5, 
 
@@ -386,11 +384,9 @@ Der Kandidat soll sich so rechtzeitig zur Diplomhauptprüfung anmelden, dass er 
 
 Der Kandidat soll sich so rechtzeitig zur Masterprüfung anmelden, dass er sie bei konsekutivem Studium von Bachelor und Master (§ 3 Abs. 3) bis zum Ende des achten Semesters, im Übrigen bis zum Ende des zweiten Semesters, im Falle des § 3 Abs. 5 Satz 4 bis zum Ende des dritten Semesters abschließt. 
 
-## **§ 21** 
+## **§ 21 Qualifikation zum Masterstudium, Zulassung zur Masterprüfung** 
 
-## **Qualifikation zum Masterstudium, Zulassung zur Masterprüfung** 
-
-(1)[1] Qualifikationsvoraussetzung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium der Werkstoffwissenschaften.[2] Diese Qualifikation wird nachgewiesen durch ein Zeugnis über 
+(1)<sup>1</sup> Qualifikationsvoraussetzung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes Studium der Werkstoffwissenschaften.<sup>2</sup> Diese Qualifikation wird nachgewiesen durch ein Zeugnis über 
 
 1. die Bachelorprüfung nach dieser Prüfungsordnung der FAU 
 
@@ -400,11 +396,11 @@ Der Kandidat soll sich so rechtzeitig zur Masterprüfung anmelden, dass er sie b
 
 4. einen anderen vergleichbaren Abschluss einer anderen Hochschule. 
 
-3Bewerber nach Satz 2 Nr. 1 müssen die Bachelorprüfung mit der Gesamtnote wenigstens "gut" oder die Eignungsfeststellungsprüfung nach **Anlage 6** bestanden haben.[4] Andere Bewerber sollen nachweisen, dass sie zu den 50 v.H. Besten ihres Jahrganges zählen oder den entsprechenden Abschluss mit einer Gesamtnote bes- 
+3Bewerber nach Satz 2 Nr. 1 müssen die Bachelorprüfung mit der Gesamtnote wenigstens "gut" oder die Eignungsfeststellungsprüfung nach **Anlage 6** bestanden haben.<sup>4</sup> Andere Bewerber sollen nachweisen, dass sie zu den 50 v.H. Besten ihres Jahrganges zählen oder den entsprechenden Abschluss mit einer Gesamtnote bes- 
 
-ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Zulassung vom Ergebnis einer Eignungsfeststellungsprüfung nach der **Anlage 6** abhängig machen.[5] Abschlüsse, die nach einem anderen Notensystem bewertet wurden, müssen mindestens ein dem Prädikat "gut bestanden" vergleichbares Prädikat aufweisen. 
+ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Zulassung vom Ergebnis einer Eignungsfeststellungsprüfung nach der **Anlage 6** abhängig machen.<sup>5</sup> Abschlüsse, die nach einem anderen Notensystem bewertet wurden, müssen mindestens ein dem Prädikat "gut bestanden" vergleichbares Prädikat aufweisen. 
 
-(2)[ 1] Die Abschlüsse gemäß Abs. 1 Satz 2 Nrn. 2 bis 4 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.[2] Über die Gleichwertigkeit entscheidet die Zulassungskommission Werkstoffwissenschaften.[3] Ist eine Gleichwertigkeit der Abschlüsse nicht gegeben oder ist die Qualifikationsvoraussetzung in den Fällen nach Abs. 1 Satz 2 Nrn. 2 bis 4 nicht ausreichend nachgewiesen, so kann die Zulassungskommission Werkstoffwissenschaften eine Zulassung unter Auflagen aussprechen oder eine Eignungsfeststellungsprüfung nach **Anlage 6** anordnen. 
+(2)<sup>1</sup> Die Abschlüsse gemäß Abs. 1 Satz 2 Nrn. 2 bis 4 müssen der Bachelorprüfung nach dieser Prüfungsordnung gleichwertig sein.<sup>2</sup> Über die Gleichwertigkeit entscheidet die Zulassungskommission Werkstoffwissenschaften.<sup>3</sup> Ist eine Gleichwertigkeit der Abschlüsse nicht gegeben oder ist die Qualifikationsvoraussetzung in den Fällen nach Abs. 1 Satz 2 Nrn. 2 bis 4 nicht ausreichend nachgewiesen, so kann die Zulassungskommission Werkstoffwissenschaften eine Zulassung unter Auflagen aussprechen oder eine Eignungsfeststellungsprüfung nach **Anlage 6** anordnen. 
 
 (3) Dem Antrag auf Zulassung zur Masterprüfung ist ein Zeugnis nach Abs. 1 Satz 2 beizufügen. 
 
@@ -418,7 +414,7 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 
 ## **§ 22 Umfang und Durchführung der Masterprüfung** 
 
-(1)[1] Die Masterprüfung besteht aus 
+(1)<sup>1</sup> Die Masterprüfung besteht aus 
 
 1. der Werkstoffwissenschaftlichen Prüfung 7 (Kernfach), 
 
@@ -428,11 +424,11 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 
 2§ 12 Abs. 3 Satz 2 gilt entsprechend. 
 
-(2)[1] Die in der Prüfung nach Abs. 1 wählbaren Fächer ergeben sich aus der **Anlage** 
+(2)<sup>1</sup> Die in der Prüfung nach Abs. 1 wählbaren Fächer ergeben sich aus der **Anlage** 
 
-**2** .[2] § 12 Abs. 4 Satz 2 gilt entsprechend. 
+**2** .<sup>2</sup> § 12 Abs. 4 Satz 2 gilt entsprechend. 
 
-(3)[1] Der Umfang der Prüfungen eines Faches (Prüfungsdauer), die Prüfungsart und die Zahl der Leistungs- und Maluspunkte für Prüfungs- und Studienleistungen sowie Leistungsnachweise ergeben sich aus der **Anlage 5** . 
+(3)<sup>1</sup> Der Umfang der Prüfungen eines Faches (Prüfungsdauer), die Prüfungsart und die Zahl der Leistungs- und Maluspunkte für Prüfungs- und Studienleistungen sowie Leistungsnachweise ergeben sich aus der **Anlage 5** . 
 
 (4) Eine zweite Wiederholung einer Prüfung ist bis zur Schwelle von neun Maluspunkten bei Wahl des Kernfaches "Werkstoffe in der Medizin" und zwölf Maluspunkten bei Wahl eines anderen Kernfaches zulässig. 
 
@@ -444,7 +440,7 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 
 **§ 24 Bewertung der Leistungen der Masterprüfung** 
 
-1In die Ermittlung der Gesamtnote der Masterprüfung gehen die Noten der Prüfungsfächer, benoteten Leistungsnachweise und der Masterarbeit mit dem Gewicht ihrer Leistungspunkte ein.[2] § 14 Abs. 2 gilt entsprechend 
+1In die Ermittlung der Gesamtnote der Masterprüfung gehen die Noten der Prüfungsfächer, benoteten Leistungsnachweise und der Masterarbeit mit dem Gewicht ihrer Leistungspunkte ein.<sup>2</sup> § 14 Abs. 2 gilt entsprechend 
 
 ## **V. Schlussbestimmungen** 
 
@@ -452,7 +448,7 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 
 (1) Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
-(2)[1] Diese Fachprüfungsordnung findet Anwendung auf Studenten, die ab dem Wintersemester 2004/2005 
+(2)<sup>1</sup> Diese Fachprüfungsordnung findet Anwendung auf Studenten, die ab dem Wintersemester 2004/2005 
 
 1. das Grundstudium aufnehmen. 
 
@@ -462,17 +458,17 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 
 2Der Prüfungsausschuss kann auf Antrag zulassen, dass Studenten, die im Wintersemester 2004/2005 in das Hauptstudium Teil II nach § 3 Abs. 6 eintreten, von den Wahlmöglichkeiten entsprechend der **Anlage 2** Punkte 2 und 3 Gebrauch machen können. 
 
-(3)[1] Sie ist nicht anwendbar auf Studenten, die vor dem Wintersemester 2000/01 das Studium der Werkstoffwissenschaften aufgenommen haben.[2] Diese Studenten werden nach der Fachprüfungsordnung für den Studiengang Werkstoffwissenschaften (Studienrichtungen Allgemeine Werkstoffeigenschaften, Werkstoffkunde und Technologie der Metalle, Glas und Keramik, Korrosion und Oberflächentechnik, Polymerwerkstoffe, Werkstoffe der Elektrotechnik, Mikrocharakterisierung und Werkstoffverhalten) vom 29. September 1977 (KMBl II 1978 S. 1), zuletzt geändert durch Satzung vom 9. Oktober 1996 (KWMBl S. 1285), geprüft.[2] Studenten, die zwischen dem WS 2000/01 und dem WS 2004/05 das Studium aufgenommen haben, werden vorbehaltlich der Regelung nach Abs. 2 Satz 2 nach der Fachprüfungsordnung für den Diplom-, Bachelor- und Masterstudiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg (FPOWW) vom 13. Dezember 2000 (KWMBl II 2001 S. 919), zuletzt geändert durch Satzung vom 10. April 2003 (KWMBl II S. 159) geprüft. 
+(3)<sup>1</sup> Sie ist nicht anwendbar auf Studenten, die vor dem Wintersemester 2000/01 das Studium der Werkstoffwissenschaften aufgenommen haben.<sup>2</sup> Diese Studenten werden nach der Fachprüfungsordnung für den Studiengang Werkstoffwissenschaften (Studienrichtungen Allgemeine Werkstoffeigenschaften, Werkstoffkunde und Technologie der Metalle, Glas und Keramik, Korrosion und Oberflächentechnik, Polymerwerkstoffe, Werkstoffe der Elektrotechnik, Mikrocharakterisierung und Werkstoffverhalten) vom 29. September 1977 (KMBl II 1978 S. 1), zuletzt geändert durch Satzung vom 9. Oktober 1996 (KWMBl S. 1285), geprüft.<sup>2</sup> Studenten, die zwischen dem WS 2000/01 und dem WS 2004/05 das Studium aufgenommen haben, werden vorbehaltlich der Regelung nach Abs. 2 Satz 2 nach der Fachprüfungsordnung für den Diplom-, Bachelor- und Masterstudiengang Werkstoffwissenschaften an der Universität Erlangen-Nürnberg (FPOWW) vom 13. Dezember 2000 (KWMBl II 2001 S. 919), zuletzt geändert durch Satzung vom 10. April 2003 (KWMBl II S. 159) geprüft. 
 
 (4) Die in Abs. 3 genannten Fachprüfungsordnungen treten vorbehaltlich ihrer übergangsweisen Anwendung zugleich mit dem Inkrafttreten dieser Fachprüfungsordnung außer Kraft. 
 
-## **Anlage 1** 
+### **Anlage 1** 
 
-## **Prüfungs- und Studienleistungen, Prüfungsdauer, Verteilung auf die Semester, Zahl der Leistungs- und Maluspunkte für die Diplomvorprüfung und die Prüfungen des Grundstudiums im Bachelorstudium (Grundabschnitt)** 
+### **Prüfungs- und Studienleistungen, Prüfungsdauer, Verteilung auf die Semester, Zahl der Leistungs- und Maluspunkte für die Diplomvorprüfung und die Prüfungen des Grundstudiums im Bachelorstudium (Grundabschnitt)** 
 
-|Prüfungsfächer und Studienleistungen|Umfang in SWS<br>V+UE+P|Prüfungsdauer<br>in Minuten|Prüfungsart|Semester|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen|Umfang in SWS<br>|Prüfungsdauer<br>|Prüfungsart|Semester|ECTS-P<br>|unkte<br>|
 |---|---|---|---|---|---|---|
-||||||Leistungs-<br>punkte|Malus-<br>punkte|
+||V+UE+P|in Minuten|||Leistungs-<br>punkte|Malus-<br>punkte|
 |**I. Prüfungsfächer**|||||||
 |Mathematik I und II|8+4+0|90|schriftlich|2.|15|15|
 |Mathematik III und IV|8+2+0|90|schriftlich|4.|12,5|12,5|
@@ -487,9 +483,9 @@ ser als 2,5 bestanden haben; die Zulassungskommission kann darüber hinaus die Z
 |Werkstoffwissenschaftliche Prüfung 1: Werkstoffe, Werkstoff-<br>struktur und Herstellung von Werkstoffen|5+1+0|90|schriftlich|1.|8|8|
 |Werkstoffwissenschaftliche Prüfung 2: Mechanische Eigenschaf-<br>ten und Verarbeitung von Werkstoffen|4+0+0|90|schriftlich|2.|5|5|
 
-|Prüfungsfächer und Studienleistungen|Umfang in SWS<br>V+UE+P|Prüfungsdauer<br>in Minuten|Prüfungsart|Semester|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen|Umfang in SWS<br>VUEP|Prüfungsdauer<br>i Mi|Prüfungsart|Semester|ECTS-P<br>|unkte<br>|
 |---|---|---|---|---|---|---|
-||||||Leistungs-<br>punkte|Malus-<br>punkte|
+||++|n nuten|||Leistungs-<br>punkte|Malus-<br>punkte|
 |Werkstoffwissenschaftliche Prüfung 3: Festkörperthermodyna-<br>mik und Charakterisierung von Werkstoffen|4+1+0|90|schriftlich|3.|6,5|6,5|
 |Werkstoffwissenschaftliche Prüfung 4: Festkörperkinetik, elektri-<br>sche, magnetische und optische Werkstoffeigenschaften|4+1+0|90|schriftlich|4.|6,5|6,5|
 |_Summe I_|_59+18+0_<br>_= 77_||||_98,5_||
@@ -516,11 +512,11 @@ Allgemeine Werkstoffeigenschaften Werkstoffkunde und Technologie der Metalle Gla
 
 ## **2. Technische Schwerpunktfächer:** 
 
-1Als Technisches Schwerpunktfach ist ein durch einen Lehrstuhl an der Technischen Fakultät der Universität Erlangen-Nürnberg vertretenes Fach zu wählen.[2] Im Masterstudium mit Kernfach "Werkstoffe in der Medizin" sind auch Fächer wählbar, die an der Naturwissenschaftlichen Fakultät I (Mathematik, Physik) und der Medizinischen Fakultät der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertreten sind sowie Biomedizinische Technik (Zentralinstitut für Biomedizinische Technik).[3] Im Diplomstudiengang sind Fächer der Werkstoffwissenschaften nicht wählbar. 
+1Als Technisches Schwerpunktfach ist ein durch einen Lehrstuhl an der Technischen Fakultät der Universität Erlangen-Nürnberg vertretenes Fach zu wählen.<sup>2</sup> Im Masterstudium mit Kernfach "Werkstoffe in der Medizin" sind auch Fächer wählbar, die an der Naturwissenschaftlichen Fakultät I (Mathematik, Physik) und der Medizinischen Fakultät der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertreten sind sowie Biomedizinische Technik (Zentralinstitut für Biomedizinische Technik).<sup>3</sup> Im Diplomstudiengang sind Fächer der Werkstoffwissenschaften nicht wählbar. 
 
 ## **3. Wahlfächer:** 
 
-1Als Wahlfach ist ein in einem sinnvollen Zusammenhang mit dem Ziel des Studiums stehendes, an der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertretenes Fach zu wählen.[2] Ein derartiges Fach bedarf der Zustimmung des Prüfungsausschusses der Technischen Fakultät.[3] Nicht wählbar ist das Technische Schwerpunktfach. 
+1Als Wahlfach ist ein in einem sinnvollen Zusammenhang mit dem Ziel des Studiums stehendes, an der Universität Erlangen-Nürnberg durch einen Lehrstuhl vertretenes Fach zu wählen.<sup>2</sup> Ein derartiges Fach bedarf der Zustimmung des Prüfungsausschusses der Technischen Fakultät.<sup>3</sup> Nicht wählbar ist das Technische Schwerpunktfach. 
 
 ## **Anlage 2a** 
 
@@ -542,13 +538,13 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 
 3. Als Technisches Schwerpunktfach im Masterstudiengang ein Fach aus der Liste in Nr. 2 dieser Anlage. 
 
-## **Anlage 3** 
+### **Anlage 3** 
 
-## **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Verteilung auf die Semester, Zahl der ECTSund Maluspunkte für die Prüfungen der Diplomhauptprüfung** 
+### **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Verteilung auf die Semester, Zahl der ECTSund Maluspunkte für die Prüfungen der Diplomhauptprüfung** 
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungs-<br>art|Semester|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>|Prüfungsdauer<br>|Prüfungs-<br>|Semester|ECTS-P<br>|unkte<br>|
 |---|---|---|---|---|---|---|
-||||||Leistungs-<br>punkte|Malus-<br>punkte|
+||V+UE+P+S|in Minuten|art||Leistungs-<br>punkte|Malus-<br>punkte|
 |**I. Prüfungsfächer**|||||||
 |Werkstoffwissenschaftliche Prüfung 5:<br>Allgemeine Werkstoffeigenschaften, Werkstoffkunde und Techno-<br>logie der Metalle, Glas und Keramik, Korrosion und Oberflächen-<br>technik|12+0+0+0|180|schriftlich|6.|18|18|
 |Werkstoffwissenschaftliche Prüfung 6:<br>Polymerwerkstoffe, Werkstoffe der Elektrotechnik, Mikrocharakteri-<br>sierung und Werkstoffverhalten|9+0+0+0|150|schriftlich|6.|13,5|13,5|
@@ -561,9 +557,9 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 |Technisches Schwerpunktfach|8|**)|**)|5.+6.|12||
 |Betriebswirtschaftslehre|4|**)|**)|5.+6.|6||
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungs-<br>art|Semester|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>VUEPS|Prüfungsdauer<br>|Prüfungs-<br>|Semester|ECTS-P<br>|unkte<br>|
 |---|---|---|---|---|---|---|
-||||||Leistungs-<br>punkte|Malus-<br>punkte|
+||+++|in Minuten|art||Leistungs-<br>punkte|Malus-<br>punkte|
 |Produktionslehre|4|**)|**)|5.+6.|6||
 |Studienarbeit|||||6||
 |(Grundlagen der Anatomie und Physiologie für Nicht-Mediziner)*|(4)*|**)|**)|(7.+8.)*|(6)*||
@@ -582,13 +578,13 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 
 †): unbenoteter Leistungsnachweis gemäß § 10 Abs. 2 und 3 
 
-## **Anlage 4** 
+### **Anlage 4** 
 
-## **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Zahl der Leistungs- und Maluspunkte für die Prüfungen im Hauptabschnitt des Bachelorstudiums** 
+### **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Zahl der Leistungs- und Maluspunkte für die Prüfungen im Hauptabschnitt des Bachelorstudiums** 
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in<br>SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungs-<br>art|ECTS-Punkte|ECTS-Punkte|
+|Püffäh d Sdili Lihi|Umfang in<br>SWS|Prüfungsdauer|Prüfungs-|ECTS-P<br>|unkte<br>|
 |---|---|---|---|---|---|
-|||||Leistungs-<br>punkte|Malus-<br>punkte|
+|rungscer un tuenestungen, estungsnacwese|<br>V+UE+P+S|in Minuten|art|Leistungs-<br>punkte|Malus-<br>punkte|
 |**I. Prüfungsfächer**||||||
 |Werkstoffwissenschaftliche Prüfung 5: Allgemeine Werkstoffeigenschaften, Werk-<br>stoffkunde und Technologie der Metalle, Glas und Keramik, Korrosion und<br>Oberflächentechnik|12+0+0+0|180|schriftlich|18|18|
 |Werkstoffwissenschaftliche Prüfung 6: Polymerwerkstoffe, Werkstoffe der Elektro-<br>technik, Mikrocharakterisierung und Werkstoffverhalten|9+0+0+0|150|schriftlich|13,5|13,5|
@@ -604,23 +600,22 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 |Praktikum Werkstoffeigenschaften|0+0+4+0|**)||4||
 |Hauptseminar Werkstoffwissenschaften|0+0+0+1|**)||1,5||
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in<br>SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungs-<br>art|ECTS-Punkte|ECTS-Punkte|
-|---|---|---|---|---|---|
-|||||Leistungs-<br>punkte|Malus-<br>punkte|
-|_Summe III_|_0+0+8+1_<br>_=9 _|||_17,5_||
-|**Summe I + II + III**|**37+0+8+1**<br>**=46**|||**79**||
+|Prüfungsfächer und Studienleistungen, Leistungsnachweise||Umfang in<br>SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungs-<br>art|ECTS-P<br>Leistungs-<br>punkte|unkte<br>Malus-<br>punkte|
+|---|---|---|---|---|---|---|
+||_Summe III_|_0+0+8+1_<br>_=9 _|||_17,5_||
+|**Summe I + II + III**||**37+0+8+1**<br>**=46**|||**79**||
 
 *) nach Maßgabe § 4 Abs. 3 Satz 2 
 
 **) unbenoteter Leistungsnachweis gemäß § 19 Abs. 2 
 
-## **Anlage 5** 
+### **Anlage 5** 
 
-## **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Zahl der ECTS- und Maluspunkte für die Prüfungen der Masterprüfung** 
+### **Prüfungs- und Studienleistungen sowie benotete Leistungsnachweise, Prüfungsdauer, Prüfungsart, Zahl der ECTS- und Maluspunkte für die Prüfungen der Masterprüfung** 
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungsart|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>|Prüfungsdauer<br>|Prüfungsart|ECTS-P|unkte|
 |---|---|---|---|---|---|
-|||||Leistungspunkte|Maluspunkte|
+||V+UE+P+S|in Minuten||Leistungspunkte|Maluspunkte|
 |**I. Prüfungsfächer**||||||
 |Werkstoffwissenschaftliche Prüfung 7:<br>Kernfach: Grundlagen|6+2+0+0<br>(6+0+0+0)*|etwa 30|mündlich|12<br>(9)*|12<br>(9)*|
 |Werkstoffwissenschaftliche Prüfung 8:<br>Kernfach: Technologie und Anwendung|6+2+0+0<br>(6+0+0+0)*|etwa 30|mündlich|12<br>(9)*|12<br>(9)*|
@@ -628,16 +623,17 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 |Masterarbeit||||30||
 |_Summe I_|_22+4+0+0=26_<br>_(22+0+0+0=22)*_|||_69_<br>_(63)*_||
 
-|Prüfungsfächer und Studienleistungen, Leistungsnachweise|Umfang in SWS<br>V+UE+P+S|Prüfungsdauer<br>in Minuten|Prüfungsart|ECTS-Punkte|ECTS-Punkte|
+|Prüfungsfächer und Studienleistungen Leistungsnachweise|Umfang in SWS<br>|Prüfungsdauer<br>|Prüfungsart|ECTS-P|unkte|
 |---|---|---|---|---|---|
-|||||Leistungspunkte|Maluspunkte|
+|,||||||
+||+++|n nuten||Leistungspunkte|Maluspunkte|
 |**II. Benotete Leistungsnachweise**||||||
 |(Grundlagen der Anatomie und Physiologie für Nicht-Mediziner)*|(4)*|**)|**)|(6)*||
 |_Summe II_|_(4)*_|||_(6*)_||
 |**III. Studienleistungen**||||||
 |Praktikum Kernfach|0+0+10+0|‡**)**||10||
 |Hauptseminar Kernfach|0+0+0+2|‡**)**||3||
-|12 Wochen industriepraktische Tätigkeit†)||‡**)**||12||
+|12 Wochen industriepraktische Tätigkeit<sup>†</sup>)||‡**)**||12||
 |Exkursion||‡**)**||5||
 |_Summe III_|_0+0+10+2=12_|||_30_||
 |**Summe I + II + III**|**22+4+10+2=38**<br>**(26+0+10+2=38)***|||**99**||
@@ -654,15 +650,15 @@ Im Studienschwerpunkt "Werkstoffe in der Medizin" müssen die folgenden Fächer 
 
 ## **Eignungsfeststellungsprüfung** 
 
-a)[ 1] Die Eignungsfeststellungsprüfung wird bei Bedarf, mindestens jedoch einmal pro Semester am Ende der Vorlesungszeit, abgehalten.[2] Sie besteht aus einer mündlichen Prüfung von etwa 30 Minuten Dauer.[3] Die Prüfung soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.[4] Sie erstreckt sich auf die Grundkenntnisse des Fachgebiets Werkstoffwissenschaften. 
+a)<sup>1</sup> Die Eignungsfeststellungsprüfung wird bei Bedarf, mindestens jedoch einmal pro Semester am Ende der Vorlesungszeit, abgehalten.<sup>2</sup> Sie besteht aus einer mündlichen Prüfung von etwa 30 Minuten Dauer.<sup>3</sup> Die Prüfung soll zeigen, ob der Bewerber erwarten lässt, das Ziel des Studiengangs auf wissenschaftlicher Grundlage selbständig und verantwortungsbewusst zu erreichen.<sup>4</sup> Sie erstreckt sich auf die Grundkenntnisse des Fachgebiets Werkstoffwissenschaften. 
 
-b)[1] Die Prüfung wird von zwei von der Zulassungskommission Werkstoffwissenschaften benannten Prüfern durchgeführt.[2] Der Termin der Prüfung wird den Bewerbern spätestens eine Woche vorher bekannt gegeben. 
+b)<sup>1</sup> Die Prüfung wird von zwei von der Zulassungskommission Werkstoffwissenschaften benannten Prüfern durchgeführt.<sup>2</sup> Der Termin der Prüfung wird den Bewerbern spätestens eine Woche vorher bekannt gegeben. 
 
 c) Die Bewertung der Prüfung lautet „bestanden“ oder „nicht bestanden“. 
 
 d) Die Prüfer können der Zulassungskommission Werkstoffwissenschaften empfehlen, die Zulassung mit Auflagen gemäß § 21 Abs. 2 Satz 2 zu verbinden. 
 
-e)[1] Die Eignungsfeststellungsprüfung kann innerhalb eines Jahres einmal wiederholt werden.[2] Eine zweite Wiederholung ist nicht möglich. 
+e)<sup>1</sup> Die Eignungsfeststellungsprüfung kann innerhalb eines Jahres einmal wiederholt werden.<sup>2</sup> Eine zweite Wiederholung ist nicht möglich. 
 
 **.** 
 

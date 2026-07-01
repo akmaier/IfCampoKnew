@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. März 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LA-Latein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:56+00:00
-page_count_chars: 3995
+scraped_at: 2026-07-01T08:41:17+00:00
+page_count_chars: 4124
 ---
 
 # 26. März 2012
@@ -14,17 +14,19 @@ page_count_chars: 3995
 
 **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 26. März 2012 
+Vom 26. März 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 § 5 der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009, zuletzt geändert durch Satzung vom 21. Oktober 2010, wird wie folgt geändert: 
 
 1. Abs. 3 wird wie folgt geändert: 
 
-- a) Die Tabelle „Basismodule“ wird wie folgt geändert: aa) In Zeile 5 (Proseminar: Lateinische Literatur (Prosa) erhält Spalte 5 (Prüfungsleistung) folgende Fassung: „Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 Seiten)“ 
+- a) Die Tabelle „Basismodule“ wird wie folgt geändert: 
+
+   - aa) In Zeile 5 (Proseminar: Lateinische Literatur (Prosa) erhält Spalte 5 (Prüfungsleistung) folgende Fassung: „Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 Seiten)“ 
 
    - bb) In Zeile 16 (Exkursion mit Vorbereitungskurs) Spalte 5 (Prüfungsleistung) wird nach dem Wort „Referat“ folgender Klammerzusatz „(45 Min. bzw. 15-20 Seiten)“ angefügt. 
 
@@ -36,7 +38,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 
 
 - „ 
 
-**Prüfungsleistung Prüfungsleistung aus dem HS** Abschlussklausur (45 Min.) Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 Seiten) **Prüfungsleistung aus dem HS** Klausur (45 Min.) Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 Seiten) 
+**<u>Prüfungsleistung Prüfungsleistung aus dem HS</u>** <u>Abschlussklausur (45 Min.)</u> Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 <u>Seiten)</u> **<u>Prüfungsleistung aus dem HS</u>** <u>Klausur (45 Min.)</u> Referat (45 Min. bzw. 15-20 Seiten) und Hausarbeit (15-20 <u>Seiten)</u> 
 
 „ 
 
@@ -44,7 +46,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 
 
 „ 
 
-**Prüfungsleistung Prüfungsleistung aus Teilprüfungen** Klausur (45 Min.) Mündl. Prüfung (15 Min.) **Prüfungsleistung aus Teilprüfungen** Klausur (45 Min.) Mündl. Prüfung (15 Min.) **Prüfungsleistung aus Teilprüfungen** Hausaufgaben, Kurzreferat (15 Min. bzw. 5-7 Seiten) Mündl. Prüfung (15 Min.) **Prüfungsleistung aus Teilprüfungen** Klausur (45 Min.) Mündl. Prüfung (15 Min.) 
+**<u>Prüfungsleistung Prüfungsleistung aus Teilprüfungen</u>** <u>Klausur (45 Min.) Mündl. Prüfung (15 Min.)</u> **<u>Prüfungsleistung aus Teilprüfungen</u>** <u>Klausur (45 Min.) Mündl. Prüfung (15 Min.)</u> **<u>Prüfungsleistung aus Teilprüfungen</u>** Hausaufgaben, Kurzreferat (15 Min. <u>bzw. 5-7 Seiten) Mündl. Prüfung (15 Min.)</u> **<u>Prüfungsleistung aus Teilprüfungen</u>** <u>Klausur (45 Min.) Mündl. Prüfung (15 Min.)</u> 
 
 „ 
 
@@ -54,7 +56,7 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 
 
    - „ 
 
-**Prüfungsleistung Klausur (45 Min.)** Referat (45 Min. bzw. 15-20 Seiten) **Klausur (45 Min.)** Referat (45 Min. bzw. 15-20 Seiten) 
+**<u>Prüfungsleistung Klausur (45 Min.)</u>** Referat (45 Min. bzw. 15-20 <u>Seiten)</u> **<u>Klausur (45 Min.)</u>** Referat (45 Min. bzw. 15-20 <u>Seiten)</u> 
 
 „ 
 

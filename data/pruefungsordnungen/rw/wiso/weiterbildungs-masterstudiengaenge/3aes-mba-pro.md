@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES-MBA-PrO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:45:32+00:00
-page_count_chars: 2408
+scraped_at: 2026-07-01T11:08:58+00:00
+page_count_chars: 2405
 ---
 
 # 4. März 2010
@@ -14,11 +14,11 @@ page_count_chars: 2408
 
 **Dritte Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg** 
 
-## Vom 4. März 2010 
+# Vom 4. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Business Management an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 30. Juni 2003 (KWMBl II 2004 S. 345), geändert durch Satzung vom 2. Mai 2007, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Der bisherige Satz 3 wird zu Satz 4.
 
 4. In Anlage 2 zu § 6 Abs. 1 werden in der ersten Spalte in Zeile 3 die Worte „EBusiness Management“ durch die Worte „Management Support Systems“ und in der dritten Spalte in Zeile 1 die Worte „International Institutions“ durch die Worte „International Logistics & Operations Management“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 23.03.1987 i.d.F. 14.05.1996"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO_Elektrotechnik_ALT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:00+00:00
-page_count_chars: 17803
+scraped_at: 2026-07-01T11:27:20+00:00
+page_count_chars: 18095
 ---
 
 # PDF vom 23.03.1987 i.d.F. 14.05.1996
@@ -16,11 +16,11 @@ page_count_chars: 17803
 
 ## **Hinweis:** 
 
-Diese Fachprüfungsordnung (FPO) gilt weiterhin für Studenten, die **vor** dem WS 1999/2000 das Studium der Elektrotechnik aufgenommen haben. Studenten, die **ab** dem WS 1999/2000 das Studium der Elektrotechnik aufnehmen, werden nach der **FPO neu** (..\FPO_Elektrotechnik_NEU.pdf) geprüft. 
+Diese Fachprüfungsordnung (FPO) gilt weiterhin für Studenten, die **vor** dem WS 1999/2000 das Studium der Elektrotechnik aufgenommen haben. Studenten, die **ab** dem WS 1999/2000 das Studium der Elektrotechnik aufnehmen, werden nach der **FPO neu** <u>(..\FPO_Elektrotechnik_NEU.pdf) geprüft.</u> 
 
-## - **FPO alt -** 
+# - **FPO alt -** 
 
-## **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universität Erlangen-Nürnberg Vom 23. März 1987** (KWMBl II S. 162) 
+# **Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universität Erlangen-Nürnberg Vom 23. März 1987** (KWMBl II S. 162) 
 
 geändert durch Satzungen vom 27. April 1989 (KWMBl II S. 215) 
 
@@ -40,7 +40,7 @@ Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline 
 
 ## **Geltungsbereich (zu § 1 DiplPrOTF)** 
 
-1Diese Fachprüfungsordnung regelt die Diplomprüfung in dem wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik.[2] Sie ergänzt die "Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Universität ErlangenNürnberg" (DiplPrOTF) in der jeweils geltenden Fassung. 
+1Diese Fachprüfungsordnung regelt die Diplomprüfung in dem wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik.<sup>2</sup> Sie ergänzt die "Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Universität ErlangenNürnberg" (DiplPrOTF) in der jeweils geltenden Fassung. 
 
 1 
 
@@ -56,15 +56,13 @@ Auf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als "D
 
 ## **Gliederung des Studiums und Studiendauer (zu § 3 DiplPrOTF)** 
 
-(1)[1] Das Studium gliedert sich in ein Grundstudium und ein Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen.[3] Das Hauptstudium muss in einer der folgenden fünf Studienrichtungen durchgeführt werden: 
+(1)<sup>1</sup> Das Studium gliedert sich in ein Grundstudium und ein Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen.<sup>3</sup> Das Hauptstudium muss in einer der folgenden fünf Studienrichtungen durchgeführt werden: 
 
 I Freies Fachstudium Elektrotechnik 
 
-II Kommunikationselektrotechnik III Leistungselektrotechnik IV Signalverarbeitung und Datentechnik 
+II Kommunikationselektrotechnik III Leistungselektrotechnik IV Signalverarbeitung und Datentechnik V Mikroelektronik. 
 
-V Mikroelektronik. 
-
-(2)[1] Das Studium der Elektrotechnik setzt sich aus Lehrveranstaltungen im Höchstumfang von 190 SWS, verteilt auf acht Semester, zusammen.[2] Hinzu kommen 26 Wochen für die Ableistung der praktischen Tätigkeit (vgl. § 11 Abs. 2 Buchstabe c) und sechs Monate für die Durchführung der Diplomarbeit (vgl. § 13 Satz 1).[3] Die Regelstudienzeit einschließlich der berufspraktischen Tätigkeit und der Prüfungszeit beträgt 10 Semester. 
+(2)<sup>1</sup> Das Studium der Elektrotechnik setzt sich aus Lehrveranstaltungen im Höchstumfang von 190 SWS, verteilt auf acht Semester, zusammen.<sup>2</sup> Hinzu kommen 26 Wochen für die Ableistung der praktischen Tätigkeit (vgl. § 11 Abs. 2 Buchstabe c) und sechs Monate für die Durchführung der Diplomarbeit (vgl. § 13 Satz 1).<sup>3</sup> Die Regelstudienzeit einschließlich der berufspraktischen Tätigkeit und der Prüfungszeit beträgt 10 Semester. 
 
 ## **I. Diplomvorprüfung** 
 
@@ -74,7 +72,7 @@ V Mikroelektronik.
 
 ## **(zu § 3 Abs. 3, § 7 Abs. 1 und § 8 Abs. 4 DiplPrOTF)** 
 
-1Die aus neun Einzelfachprüfungen bestehende Diplomvorprüfung muss in mindestens zwei und kann in höchstens drei Abschnitten abgelegt werden.[2] Der erste Abschnitt soll nach dem zweiten Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des zweiten Fachsemesters folgenden Prüfungstermin liegen.[3] Der letzte Abschnitt soll nach dem vierten Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des vierten Fachsemesters folgenden Prüfungstermin liegen. 
+1Die aus neun Einzelfachprüfungen bestehende Diplomvorprüfung muss in mindestens zwei und kann in höchstens drei Abschnitten abgelegt werden.<sup>2</sup> Der erste Abschnitt soll nach dem zweiten Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des zweiten Fachsemesters folgenden Prüfungstermin liegen.<sup>3</sup> Der letzte Abschnitt soll nach dem vierten Semester, d.h. in dem unmittelbar auf die Vorlesungszeit des vierten Fachsemesters folgenden Prüfungstermin liegen. 
 
 ## **§ 4** 
 
@@ -96,7 +94,7 @@ c) den Übungen zur Vorlesung Grundlagen der Elektrotechnik I und II (ein Schein
 
 (2) Voraussetzung für die Zulassung zur Einzelfachprüfung in "Werkstoffkunde für Elektroingenieure" ist die Vorlage eines Scheines über die erfolgreiche Teilnahme an einer Klausur zur Vorlesung "Einführung in die Chemie für Elektroingenieure". 
 
-(3)[1] Voraussetzung für die Zulassung zum letzten Abschnitt der Einzelfachprüfungen ist die Vorlage von Scheinen über die erfolgreiche Teilnahme an folgenden Lehrveranstaltungen: 
+(3)<sup>1</sup> Voraussetzung für die Zulassung zum letzten Abschnitt der Einzelfachprüfungen ist die Vorlage von Scheinen über die erfolgreiche Teilnahme an folgenden Lehrveranstaltungen: 
 
 a) Grundlagenpraktikum in Elektrotechnik und Messtechnik, 
 
@@ -112,7 +110,7 @@ c) Technisches Zeichnen.
 
 ## **Umfang und Durchführung der Diplomvorprüfung (zu § 8 DiplPrOTF)** 
 
-(1)[1] In der Diplomvorprüfung sind Einzelfachprüfungen in folgenden Fächern abzulegen: 
+(1)<sup>1</sup> In der Diplomvorprüfung sind Einzelfachprüfungen in folgenden Fächern abzulegen: 
 
 1. Mathematik für Ingenieure, erste Teilprüfung 
 
@@ -138,7 +136,7 @@ c) Technisches Zeichnen.
 
 ## **§ 7 Bewertung der Leistungen der Diplomvorprüfung (zu § 9 Abs. 5 und § 12 Abs. 1 DiplPrOTF)** 
 
-1In das Diplomvorprüfungszeugnis werden die in § 6 Abs. 1 genannten Einzelfachprüfungen mit den erzielten Noten aufgenommen.[2] Für die Ermittlung der Gesamtnote werden alle Noten der in § 6 Abs. 1 genannten Einzelfachprüfungen gleich gewichtet. 
+1In das Diplomvorprüfungszeugnis werden die in § 6 Abs. 1 genannten Einzelfachprüfungen mit den erzielten Noten aufgenommen.<sup>2</sup> Für die Ermittlung der Gesamtnote werden alle Noten der in § 6 Abs. 1 genannten Einzelfachprüfungen gleich gewichtet. 
 
 3 
 
@@ -176,7 +174,7 @@ b) mindestens drei, höchstens vier Wahlpflichtlehrveranstaltungen (Vorlesungen,
 
 (2) Spätestens drei Semester nach bestandener Diplomvorprüfung ist dieses Studienkonzept mit Angabe der Fächer nach Absatz 1 Buchstaben a und b beim Prüfungsausschuss vorzulegen. 
 
-(3)[1] Das Studienkonzept und eventuelle spätere Änderungen bedürfen der Genehmigung durch den Prüfungsausschuss.[2] Das Studienkonzept wird genehmigt, wenn die formalen Kriterien nach Absatz 1 Buchstabe b erfüllt sind und die Wahlpflichtlehrveranstaltungen nach Absatz 1 Buchstabe b in einem sinnvollen Zusammenhang mit dem Studium der Fachrichtung Elektrotechnik stehen.[3] Eine Änderung des Studienkonzeptes wird nicht genehmigt, wenn sie Vertiefungsfächer nach Absatz 1 Buchstabe a betrifft, in denen bereits erstmalig eine Einzelfachprüfung abgelegt worden ist oder in denen bereits eine unwiderrufliche Meldung erfolgt ist. 
+(3)<sup>1</sup> Das Studienkonzept und eventuelle spätere Änderungen bedürfen der Genehmigung durch den Prüfungsausschuss.<sup>2</sup> Das Studienkonzept wird genehmigt, wenn die formalen Kriterien nach Absatz 1 Buchstabe b erfüllt sind und die Wahlpflichtlehrveranstaltungen nach Absatz 1 Buchstabe b in einem sinnvollen Zusammenhang mit dem Studium der Fachrichtung Elektrotechnik stehen.<sup>3</sup> Eine Änderung des Studienkonzeptes wird nicht genehmigt, wenn sie Vertiefungsfächer nach Absatz 1 Buchstabe a betrifft, in denen bereits erstmalig eine Einzelfachprüfung abgelegt worden ist oder in denen bereits eine unwiderrufliche Meldung erfolgt ist. 
 
 4 
 
@@ -184,9 +182,9 @@ b) mindestens drei, höchstens vier Wahlpflichtlehrveranstaltungen (Vorlesungen,
 
 ## **(zu § 14 DiplPrOTF)** 
 
-(1)[1] Zu den Einzelfachprüfungen gemäß § 8 Abs. 1 Buchstabe a ist zugelassen, wer die Diplomvorprüfung im wissenschaftlichen Diplomstudiengang Elektrotechnik bestanden und ein genehmigtes Studienkonzept gemäß § 10 vorgelegt hat.[2] Für das Vertiefungsfach "Anlagen und Netze" ist die Teilnahme an einer Exkursion "Anlagenund Kraftwerktechnik" erforderlich.[3] Darüber ist ein Schein bei der Zulassung zur Prüfung in diesem Fach vorzulegen.[4] Einzelfachprüfungen in den in § 8 Abs. 1 Buchstabe a genannten Kernfächern können vor Einreichen des Studienkonzeptes abgelegt werden. 
+(1)<sup>1</sup> Zu den Einzelfachprüfungen gemäß § 8 Abs. 1 Buchstabe a ist zugelassen, wer die Diplomvorprüfung im wissenschaftlichen Diplomstudiengang Elektrotechnik bestanden und ein genehmigtes Studienkonzept gemäß § 10 vorgelegt hat.<sup>2</sup> Für das Vertiefungsfach "Anlagen und Netze" ist die Teilnahme an einer Exkursion "Anlagenund Kraftwerktechnik" erforderlich.<sup>3</sup> Darüber ist ein Schein bei der Zulassung zur Prüfung in diesem Fach vorzulegen.<sup>4</sup> Einzelfachprüfungen in den in § 8 Abs. 1 Buchstabe a genannten Kernfächern können vor Einreichen des Studienkonzeptes abgelegt werden. 
 
-(2)[1] Voraussetzung für die Zulassung zur Diplomarbeit ist 
+(2)<sup>1</sup> Voraussetzung für die Zulassung zur Diplomarbeit ist 
 
 a) die Vorlage von mit mindestens ausreichend benoteten Scheinen über 
 
@@ -206,11 +204,11 @@ d) das erstmalige Ablegen der Einzelfachprüfungen.
 
 (3) Eine im wissenschaftlichen Diplomstudiengang Physik bestandene Diplomvorprüfung wird vom Prüfungsausschuss als Zulassungsvoraussetzung im Sinne von Absatz 1 anerkannt, sofern sie durch bestandene Einzelfachprüfungen in den in § 6 Abs. 1 unter Nrn. 2, 6, 7 und 9 genannten Prüfungsfächern, das sind "Grundlagen der Elektrotechnik", "Konstruktionslehre" und "Informatik für Elektroingenieure", sowie durch den Nachweis von mindestens acht Wochen Grundpraxis gemäß den Praktikantenrichtlinien und der erfolgreichen Teilnahme am Technischen Zeichnen ergänzt wird. 
 
-(4)[1] Hat der Kandidat im Studiengang Elektrotechnik die Abschlussprüfung an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil "sehr gut bestanden" (bis 1,5) abgelegt, so wird ihm auf Antrag die Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern "Mathematik für Ingenieure III und IV, zweite Teilprüfung" und "Grundlagen der Elektrotechnik, zweite Teilprüfung" nach- 
+(4)<sup>1</sup> Hat der Kandidat im Studiengang Elektrotechnik die Abschlussprüfung an einer bayerischen Fachhochschule vor in der Regel nicht mehr als zwei Jahren wenigstens mit dem Gesamturteil "sehr gut bestanden" (bis 1,5) abgelegt, so wird ihm auf Antrag die Diplomvorprüfung mit der Maßgabe erlassen, dass er mit je einem Schein ausreichende Kenntnisse in den Vorprüfungsfächern "Mathematik für Ingenieure III und IV, zweite Teilprüfung" und "Grundlagen der Elektrotechnik, zweite Teilprüfung" nach- 
 
 5 
 
-weist.[2] Die Scheine sind spätestens bei der Meldung zum letzten Abschnitt der Diplomhauptprüfung vorzulegen. 
+weist.<sup>2</sup> Die Scheine sind spätestens bei der Meldung zum letzten Abschnitt der Diplomhauptprüfung vorzulegen. 
 
 ## **§ 12 Art und Durchführung der Einzelfachprüfungen (zu § 15 und § 16 Abs. 2 und Abs. 4 DiplPrOTF)** 
 
@@ -224,7 +222,7 @@ weist.[2] Die Scheine sind spätestens bei der Meldung zum letzten Abschnitt der
 
 4. Technische Elektrodynamik I und II. 
 
-(2)[1] Ferner sind entsprechend der gewählten Studienrichtung und dem individuellen Studienkonzept Einzelfachprüfungen in vier Vertiefungsfächern mit zusammen mindestens 25 Semesterwochenstunden abzulegen.[2] Die vier Vertiefungsfächer unterteilen sich in drei Vertiefungsgrundfächer mit jeweils mindestens sechs Semesterwochenstunden und ein Vertiefungsspezialfach mit mindestens vier Semesterwochenstunden.[3] Für die fünf möglichen Studienrichtungen nach § 2 a Abs. 1 gilt: 
+(2)<sup>1</sup> Ferner sind entsprechend der gewählten Studienrichtung und dem individuellen Studienkonzept Einzelfachprüfungen in vier Vertiefungsfächern mit zusammen mindestens 25 Semesterwochenstunden abzulegen.<sup>2</sup> Die vier Vertiefungsfächer unterteilen sich in drei Vertiefungsgrundfächer mit jeweils mindestens sechs Semesterwochenstunden und ein Vertiefungsspezialfach mit mindestens vier Semesterwochenstunden.<sup>3</sup> Für die fünf möglichen Studienrichtungen nach § 2 a Abs. 1 gilt: 
 
 I Freies Fachstudium Elektrotechnik 
 
@@ -242,7 +240,7 @@ Systemtheorie für stochastische Prozesse in der Regelungs- und Nachrichtentechn
 
 V Mikroelektronik _Vertiefungsgrundfächer_ Technologie der Silicium-Halbleiterbauelemente Entwurf integrierter Schaltungen Technische Elektronik _Vertiefungsspezialfächer_ Werkstoffe und Technologie der Verbindungshalbleiter Integrierte Mikrowellenschaltungen Modellierung und Verifikation integrierter Schaltungen Halbleiter- und Bauelemente-Messtechnik. 4Bei den Studienrichtungen II bis V müssen mindestens zwei Vertiefungsgrundfächer und das Vertiefungsspezialfach der gewählten Studienrichtung angehören. 
 
-(3)[1] Die Prüfungen in den in Absatz 1 und 2 genannten Kern- und Vertiefungsgrundfächern erfolgen schriftlich.[2] Die Prüfung im Vertiefungsspezialfach erfolgt mündlich. 3Die Dauer der schriftlichen Prüfungen beträgt drei Stunden, lediglich in dem in Absatz 1 unter Nr. 1 genannten Prüfungsfach vier Stunden. 
+(3)<sup>1</sup> Die Prüfungen in den in Absatz 1 und 2 genannten Kern- und Vertiefungsgrundfächern erfolgen schriftlich.<sup>2</sup> Die Prüfung im Vertiefungsspezialfach erfolgt mündlich. 3Die Dauer der schriftlichen Prüfungen beträgt drei Stunden, lediglich in dem in Absatz 1 unter Nr. 1 genannten Prüfungsfach vier Stunden. 
 
 (4) Prüfungen in weiteren, nicht vorgeschriebenen Zusatzfächern erfolgen mündlich. 
 
@@ -250,7 +248,7 @@ V Mikroelektronik _Vertiefungsgrundfächer_ Technologie der Silicium-Halbleiterb
 
 ## **Diplomarbeit (zu § 17 DiplPrOTF)** 
 
-1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens zwei Monate genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Elektrotechnik behandeln.[4] Sie wird von einem Professor oder sonstigem hauptberuflich im Dienste der Universität stehenden Hochschullehrer der Elektrotechnik betreut.[5] Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
+1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens zwei Monate genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus dem Bereich der Elektrotechnik behandeln.<sup>4</sup> Sie wird von einem Professor oder sonstigem hauptberuflich im Dienste der Universität stehenden Hochschullehrer der Elektrotechnik betreut.<sup>5</sup> Sie soll ein Thema aus einem anderen Teilbereich als in der Studienarbeit zum Gegenstand haben. 
 
 ## **§ 14** 
 
@@ -276,13 +274,13 @@ c) werden die erzielten Noten in den Fächern der Gruppe a) und b) einfach und d
 
 7 
 
-der Diplomarbeit c) erzielte Note doppelt gewertet.[3] Bei der Bildung des Notendurchschnitts in den Studienleistungen der Gruppe d) bis f) werden die erzielten Noten in den unter e) und f) genannten Fächern einfach und die in der Studienarbeit d) erzielte Note doppelt gewertet.[4] Bei der Bildung der Gesamtnote werden der Notendurchschnitt in den Prüfungsleistungen a) bis c) mit dem Gewichtsfaktor sieben Zehntel und der Notendurchschnitt in den Studienleistungen d) bis f) mit dem Gewichtsfaktor drei Zehntel gewertet. 
+der Diplomarbeit c) erzielte Note doppelt gewertet.<sup>3</sup> Bei der Bildung des Notendurchschnitts in den Studienleistungen der Gruppe d) bis f) werden die erzielten Noten in den unter e) und f) genannten Fächern einfach und die in der Studienarbeit d) erzielte Note doppelt gewertet.<sup>4</sup> Bei der Bildung der Gesamtnote werden der Notendurchschnitt in den Prüfungsleistungen a) bis c) mit dem Gewichtsfaktor sieben Zehntel und der Notendurchschnitt in den Studienleistungen d) bis f) mit dem Gewichtsfaktor drei Zehntel gewertet. 
 
 ## **§ 15 Übergangsbestimmungen (gegenstandslos)** 
 
 ## **§ 16 Schlussbestimmungen** 
 
-## 1Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntgabe in Kraft*. 2(gegenstandslos). 
+### 1Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntgabe in Kraft*. 2(gegenstandslos). 
 
 - Tag des ursprünglichen Inkrafttretens ist der 24. März 1987. 
 

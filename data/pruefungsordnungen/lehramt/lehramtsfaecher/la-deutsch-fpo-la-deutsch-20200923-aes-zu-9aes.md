@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Deutsch FPO LA Deutsch 20200923 ÄS zu 9ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Deutsch/Aenderungssatzungen/LA_Deutsch_FPO_LA_Deutsch_20200923_AeS_zu_9AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:03:04+00:00
-page_count_chars: 3485
+scraped_at: 2026-07-01T08:35:56+00:00
+page_count_chars: 3499
 ---
 
 # LA Deutsch FPO LA Deutsch 20200923 ÄS zu 9ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 3485
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Deutsch/Aenderungssatzungen/LA_Deutsch_FPO_LA_Deutsch_20200923_AeS_zu_9AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Neunten Satzung zur Änderung der Fachstudienund Prüfungsordnung für das Fach Deutsch und Didaktik des Deutschen als Zweitsprache im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 3. Februar 2020** 
+# **Satzung zur Änderung der Neunten Satzung zur Änderung der Fachstudienund Prüfungsordnung für das Fach Deutsch und Didaktik des Deutschen als Zweitsprache im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) vom 3. Februar 2020** 
 
-## **Vom 23. September 2020** 
+# **Vom 23. September 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Satzung zur Änderung der Neunten Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Deutsch und Didaktik des Deutschen als Zweitsprache im Lehramtsstudiengang an der FAU vom 3. Februar 2020 wird wie folgt geändert: 
 
@@ -54,7 +54,7 @@ cc)  Der bisherige Satz 3 wird zu Satz 2.“
 
 - bb) Der bisherige Gliederungspunkt cc) wird zu dd) und erhält folgende neue Fassung: 
 
-   - „dd) In den auf Satz 2 (neu) folgenden Sätzen werden vor dem Wort „Zulassungsvoraussetzung“ die hochgestellten Zahlen „[3] “ und „[4] “ eingefügt.“ 
+   - „dd) In den auf Satz 2 (neu) folgenden Sätzen werden vor dem Wort „Zulassungsvoraussetzung“ die hochgestellten Zahlen „<sup>3</sup> “ und „<sup>4</sup> “ eingefügt.“ 
 
 - cc) Nach dem Gliederungspunkt dd) werden folgende neue Gliederungspunkte ee) und ff) eingefügt: 
 
@@ -64,7 +64,7 @@ cc)  Der bisherige Satz 3 wird zu Satz 2.“
 
 - dd) Der bisherige Gliederungspunkt cc) (Die Tabelle in Abs. 5 (neu) erhält nebst Erläuterungen folgende neue Fassung:) wird zu Gliederungspunkt gg). 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tag nach der Bekanntmachung in Kraft. 
 

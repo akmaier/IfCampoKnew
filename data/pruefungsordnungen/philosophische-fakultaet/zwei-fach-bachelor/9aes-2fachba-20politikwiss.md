@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-2FachBA%20Politikwiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:24+00:00
-page_count_chars: 2368
+scraped_at: 2026-07-01T10:28:41+00:00
+page_count_chars: 2392
 ---
 
 # 5. August 2011
@@ -18,7 +18,7 @@ Vom 5. August 2011
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -26,11 +26,11 @@ Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-
 
 1. Satz 2 erhält folgende Fassung: 
 
-„[2] Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen.“ 
+„<sup>2</sup> Davon entfallen 10 ECTS-Punkte verpflichtend auf berufsfeldorientierte Schlüsselqualifikationen.“ 
 
-## 2. Folgender neuer Satz 3 wird eingefügt: 
+# 2. Folgender neuer Satz 3 wird eingefügt: 
 
-„[3] Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für Hörer aller Fakultäten) erbracht werden.“ 
+„<sup>3</sup> Diese müssen durch den erfolgreichen Abschluss von „Englisch Level 1 und 2“ (Englisch für Hörer aller Fakultäten) erbracht werden.“ 
 
 Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
@@ -38,9 +38,9 @@ Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5.
 
 4. Satz 5 (neu) erhält folgende Fassung: 
 
-„[5] Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg „Englisch Level 2“ erreicht, erwirbt dort 5 ECTS-Punkte, wodurch sich die Dauer des zu absolvierenden Praktikums auf 4 Wochen (5 ECTS-Punkte) reduziert.“ 
+„<sup>5</sup> Wer in dem entsprechenden Einstufungstest des Sprachenzentrums der Universität Erlangen-Nürnberg „Englisch Level 2“ erreicht, erwirbt dort 5 ECTS-Punkte, wodurch sich die Dauer des zu absolvierenden Praktikums auf 4 Wochen (5 ECTS-Punkte) reduziert.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

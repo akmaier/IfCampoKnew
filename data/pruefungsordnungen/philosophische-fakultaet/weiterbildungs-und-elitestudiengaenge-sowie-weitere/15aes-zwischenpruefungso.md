@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Februar 1994"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES_ZwischenpruefungsO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:51:26+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:06:33+00:00
+page_count_chars: 2996
 ---
 
 # 1. Februar 1994
@@ -12,77 +12,73 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/15AES_ZwischenpruefungsO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+; 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Fiinfzehnte Satzung zur Anderung der Zwischenpriifungsordnung der Universitat Erlangen-Niirnberg 
 
-### OCR Seite 1
+Vom 1. Februar 1994 
 
-```
-Universität Erlangen-Nürnberg folgende Änderungssatzung:
-$1
-Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg (ZwPO) vom 25. Septem-
-ber 1980 (KMBi II S. 269), zuletzt geändert durch Satzung vom 14. September 1993
-(KWMBI U S. 873), wird wie folgt geändert:
-$ 60 erhält folgende Fassung:
-"8 60 Nordische Philologie
-(1) Fachliche Zulassungsvoraussetzungen
-Nachweis der erfolgreichen Teilnahme an
-1.
-einer Einführung in die Nordische Philologie oder einer Einführung in die Neuere
-deutsche Literaturwissenschaft oder einer Einführung in die Deutsche Sprachwissen-
-schaft oder einer Einführung in die Ältere deutsche Literaturwissenschaft,
-j
-2.
-einer Einführung in das Altnordische,
-3.
-zwei Sprachkursen in einer neueren nordischen Sprache mit erfolgreich abgeschlosse-
-ner Sprachprüfung bzw. dem Nachweis entsprechender Kenntnisse,
-4.
-einem Proseminar aus der Nordischen Philologie des Mittelalters oder der Nordi-
-schen Philologie der Neuzeit.
-(2) Inhaltliche Prüfungsanforderungen
-1.
-Grundkenntnisse der nordischen Sprachgeschichte,
-Literaturgeschichte und Lan-
-deskunde,
-```
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlaBt die Universitat Erlangen-Niirnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+Die Zwischenprtifungsordnung der Universitat Erlangen-Ntirnberg (ZwPO) vom 25. September 1980 (KMBI II S. 269), zuletzt geandert durch Satzung vom 14. September 1993 (KWMBL IIS. 823), wird wie folgt geandert: 
 
-```
-Die Zwischenprüfung besteht aus
-1.
-einer schriftlichen Prüfung von 3 Stunden Dauer
-a)
-Übersetzung eines mittelschweren Prosatextes einer nordischen Sprache ins
-Deutsche und
-b)
-Übersetzung eines leichten bis mittelschweren deutschen Prosatextes in eine
-nordische Sprache;
-die Wahl der nordischen Sprache ist im Zulassungsgesuch anzugeben;
-2.
-einer mündlichen Prüfung von etwa 20 Minuten Dauer vor einem Prüfer über die in
-Absatz 2 genannten Gebiete, darunter ein im Zulassungsgesuch angegebenes Spezial-
-gebiet.”
-|
-2
-$ 59 (Deutsch) in der Fassung der Vierzehnten Satzung zur Änderung der Zwischenprü-
-fungsordnung ist erstmals im Prüfungstermin am Ende des Sommersemesters 1994 anzuwen-
-den.
-83
-Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-2
-```
+## § 60 erhalt folgende Fassung: 
 
-### OCR Seite 3
+"§ 60 Nordische Philologie 
 
-```
-( Prof. Dr. G. Jasper)
-Rektor
-Die Satzung wurde am 1. Februar 1994 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 1. Februar 1994 durch Anschlag in der Universität Erlangen-
-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 1. Februar 1994.
-3
-```
+## (1) Fachliche Zulassungsvoraussetzungen 
+
+# Nachweis der erfolgreichen Teilnahme an 
+
+1. einer Einfiihrung in die Nordische Philologie oder einer Einftihrung in die Neuere deutsche Literaturwissenschaft oder einer Einfiihrung in die Deutsche Sprachwissenschaft oder einer Einfiihrung in die Altere deutsche Literaturwissenschaft, 
+
+2. einer Einfiihrung in das Altnordische, 
+
+3. zwei Sprachkursen in einer neueren nordischen Sprache mit erfolgreich abgeschlossener Sprachpriifung bzw. dem Nachweis entsprechender Kenntnisse, 
+
+4. einem Proseminar aus der Nordischen Philologie des Mittelalters oder der Nordischen Philologie der Neuzeit. 
+
+## (2) Inhaltliche Priifungsanforderungen 
+
+1. Grundkenntnisse der nordischen Sprachgeschichte, Literaturgeschichte und Landeskunde, 
+
+2. angemessene Sicherheit im miindlichen und schriftlichen Gebrauch einer nordischen Sprache, 
+
+3. Vertrautheit mit Werken der Literatur- oder Sprachwissenschaft nach Absprache mit dem Fachvertreter, 
+
+4. auf Lekttire gegriindete Grundkenntnisse des Altnordischen. 
+
+### (3) Priifungsteile 
+
+## Die Zwischenpriifung besteht aus 
+
+1. einer schriftlichen Priifung von 3 Stunden Dauer 
+
+   - a) Ubersetzung eines mittelschweren Prosatextes einer nordischen Sprache ins Deutsche und 
+
+   - b) Ubersetzung eines leichten bis mittelschweren deutschen Prosatextes in eine nordische Sprache; 
+
+die Wahl der nordischen Sprache ist im Zulassungsgesuch anzugeben; 
+
+2. einer miindlichen Priifung von etwa 20 Minuten Dauer vor einem Priifer tiber die in Absatz 2 genannten Gebiete, darunter ein im Zulassungsgesuch angegebenes Spezialgebiet.” 
+
+# 52 
+
+§ 59 (Deutsch) in der Fassung der Vierzehnten Satzung zur Anderung der Zwischenpriifungsordnung ist erstmals im Priifungstermin am Ende des Sommersemesters 1994 anzuwenden. 
+
+§3 
+
+Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
+
+2 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitit Erlangen-Niirnberg vom 24. November 1993 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 14. Januar 1994 Nr. X/4-6/185 060/93. 
+
+Erlangen, den 1. Februar 1994 
+
+( Prof. Dr. G. Jasper) Rektor 
+
+Die Satzung wurde am 1. Februar 1994 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 1. Februar 1994 durch Anschlag in der Universitit ErlangenNurnberg bekanntgegeben. Tag der Bekanntmachung ist der 1. Februar 1994. 
+
+3 
 

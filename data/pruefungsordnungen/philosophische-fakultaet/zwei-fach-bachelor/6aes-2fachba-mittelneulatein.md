@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. Mai 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA_MittelNeuLatein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:07:17+00:00
-page_count_chars: 4580
+scraped_at: 2026-07-01T10:25:32+00:00
+page_count_chars: 4425
 ---
 
 # 28. Mai 2013
@@ -12,13 +12,13 @@ page_count_chars: 4580
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA_MittelNeuLatein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mittel- und Neulatein im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Mittel- und Neulatein im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 28. Mai 2013 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Mittel- und Neulatein im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 9. März 2011, wird wie folgt geändert: 
 
@@ -30,28 +30,28 @@ a) Abs. 1 erhält folgende Fassung:
 
 1 
 
-|||SWS|SWS|SWS|SWS|Gesamt|ECTS-Punkte|ECTS-Punkte|ECTS-Punkte|pro Semester*|pro Semester*|pro Semester*|Art und Umfang der Prüfung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V|S|Ü|P|ECTS|1.|2.|3.|4.|5.|6.|/Studienleistung|
-|**Basismodul 1: Einführung in**<br>**die Sprache und Literatur des**<br>**lateinischen Europas**|Proseminar: Einführung in das<br>lateinischeEuropa||2|||10|6||||||Portfolioprüfung:<br>PL: mündliche Prüfung (15 Min,<br>50%) und Referat (15-30 Min,<br>50%) und SL: Klausur (90 Min)|
-||Übersetzungausgewählter Texte|||2||||2||||||
-||Tutorium|||2||||2||||||
-|**Bidl 2 Eifüh i**|Proseminar:Schrift undKultur||2||||6||||||Portfolioprüfung:<br>PL: Klausur (90 Min, 50%) und<br>mündliche Prüfung (15 Min, 50%)<br>und SL: Referat (15-30 Min)|
-|**assmou : nrung n**<br>**di ltiih Shift**|Übung|||2||10||2||||||
-|**e aensce cr**<br>**(Paläographie)**|Exkursion|||||||2||||||
-|**Basismodul 3A: Das**<br>**Klassische Erbe A**|Wahlpflichtmodul Klassisches Latein|||||10|||10||||nach Maßgabe des Faches|
-|_oder_||||||||||||||
-|**Basismodul 3B: Das**<br>**Klassische Erbe B**|Proseminar: Das Klassische Erbe||2|||10|||6||||Portfolioprüfung:<br>PL: Referat (15-30 Min, 50%)<br>und Klausur(90 Min,50%)|
-||Vorlesung_oder_Übung: Das Klassische<br>Erbe|(2)||(2)|||||4|||||
-|**Basismodul 4: Europäische**<br>**Mediävistik I**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer: Anglistik,<br>Germanistik, Nordistik, Romanistik|||||10||||10|||nach Maßgabe des Faches|
-|**Basismodul 5: Europäische**<br>**Mediävistik II**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer:<br>Buchwissenschaft, Geschichte,<br>Kunstgeschichte,Philosophie|||||10|||||10||nach Maßgabe des Faches|
-|**Vertiefungsmodul 1:**<br>**Mittellateinische Philologie**|Hauptseminar: Mittellateinische<br>Philologie||2|||10||||8|||Portfolioprüfung:<br>PL: Hausarbeit (mind. 12 S,<br>100%) und SL: schriftlicher<br>Kurzbericht (mind. 5 Seiten)|
-||Praktikum in einem mediävistischen<br>oder frühneuzeitlichen<br>Forschungsprojekt|||||||||2||||
-||||||2|||||||||
-|**Vertiefungsmodul 2:**<br>**Lateinische Sprache und**<br>**Literatur in Mittelalter und**<br>**Früher Neuzeit**|Hauptseminar: Lateinische Literatur in<br>Mittelalter und Früher Neuzeit||2|||10|||||8||Portfolioprüfung:<br>PL: Hausarbeit (mind. 12 S,<br>100%) und SL: Klausur (90 Min)|
-||Übersetzungs- und Kommentarübung im<br>Eigenstudium, dazu eine Lektüreübung|||2|||||||2|||
-|**Bachelorarbeit**|Bachelorarbeit|||||10|12|8|10|20|20|10|Bachelorarbeit (30-40 Seiten)|
-||Summe:|||||||||||||
+|Mdlbih|Lhtlt|SWS|Gesamt|<br>E|CTS-P|unkte pro Se|mester|*<br>Art und Umfang der Prüfung|
+|---|---|---|---|---|---|---|---|---|
+|ouezecnung|erveransaung|V<br>S<br>Ü<br>P|ECTS|1.|2.|3.<br>4.|5.|/Studienleistung<br>6.|
+|**Basismodul 1: Einführung in**<br>|Proseminar: Einführung in das<br>lateinischeEuropa|2||6||||Portfolioprüfung:<br>PL: mündliche Prüfung (15 Min|
+|**die Sprache und Literatur des**<br>**lateinischen Euroas**|Übersetzungausgewählter Texte|2|10||2|||,<br>50%) und Referat (15-30 Min,|
+|**p**|Tutorium|2|||2|||50%) und SL: Klausur (90 Min)|
+|**Basismodul 2: Einführung in**|Proseminar:Schrift undKultur<br>|2||6||||Portfolioprüfung:<br>|
+|<br>**die lateinische Schrift**|Übung|2|10||2|||PL: Klausur (90 Min, 50%) und<br>|
+|**(Paläographie)**|Exkursion||||2|||mündliche Prüfung (15 Min, 50%)<br>und SL: Referat (15-30 Min)|
+|**Basismodul 3A: Das**<br>**Klassische Erbe A**|Wahlpflichtmodul Klassisches Latein||10|||10||nach Maßgabe des Faches|
+|_oder_|||||||||
+|**Bidl 3B D**|Proseminar: Das Klassische Erbe|2||||6||Portfolioprüfung:|
+|**assmou : as**<br>**Klassische Erbe B**|Vorlesung_oder_Übung: Das Klassische<br>Erbe|(2)<br>(2)|10|||4||PL: Referat (15-30 Min, 50%)<br>und Klausur(90 Min,50%)|
+|**Basismodul 4: Europäische**<br>**Mediävistik I**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer: Anglistik,<br>Germanistik, Nordistik, Romanistik||10|||10||nach Maßgabe des Faches|
+|**Basismodul 5: Europäische**<br>**Mediävistik II**|Mediävistisches Wahlpflichtmodul aus<br>einem der folgenden Fächer:<br>Buchwissenschaft, Geschichte,<br>Kunstgeschichte,Philosophie||10||||10|nach Maßgabe des Faches|
+||Hauptseminar: Mittellateinische<br>Philoloie|2||||8||Portfolioprüfung:|
+|**Vertiefungsmodul 1:**|g<br>|||||||PL: Hausarbeit (mind. 12 S|
+|<br>**Mittellateinische Philologie**|Praktikum in einem mediävistischen<br>oder frühneuzeitlichen<br>Forschungsprojekt|2|10|||2||,<br>100%) und SL: schriftlicher<br>Kurzbericht (mind. 5 Seiten)|
+|**Vertiefungsmodul 2:**<br>**Lateinische Sprache und**|Hauptseminar: Lateinische Literatur in<br>Mittelalter und Früher Neuzeit|2|||||8|Portfolioprüfung:<br>|
+|<br>**Literatur in Mittelalter und**<br>**Früher Neuzeit**|Übersetzungs- und Kommentarübung im<br>Eigenstudium, dazu eine Lektüreübung|2|10||||2|PL: Hausarbeit (mind. 12 S,<br>100%) und SL: Klausur (90 Min)|
+|**Bachelorarbeit**|Bachelorarbeit||10|12|8|10<br>20|20|10<br>Bachelorarbeit (30-40 Seiten)|
+||Summe:||||||||
 
 * Die Angaben zur Verteilung der einzelnen Module auf die Semester stellt nur eine **Empfehlung** dar. “ 
 
@@ -61,7 +61,7 @@ a) Abs. 1 erhält folgende Fassung:
 
 2. In § 5 werden die Worte „MLat 1 und MLat 2“ durch die Worte „in den Basismodulen 1 und 2“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2013 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

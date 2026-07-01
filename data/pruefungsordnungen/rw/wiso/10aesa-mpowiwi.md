@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. August 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa_MPOWiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:24:19+00:00
-page_count_chars: 27391
+scraped_at: 2026-07-01T10:40:38+00:00
+page_count_chars: 27729
 ---
 
 # 18. August 2017
@@ -12,7 +12,7 @@ page_count_chars: 27391
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/10AeSa_MPOWiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Zehnte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWiWi - Vom 18. August 2017** 
+# **Zehnte Satzung zur Änderung der Rahmenprüfungsordnung für die konsekutiven Masterstudiengänge im Fachbereich Wirtschaftswissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - MPOWiWi - Vom 18. August 2017** 
 
 Aufgrund von Art. 13 Abs. 1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) und § 34 QualV erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -44,7 +44,7 @@ bb) Satz 2 wird gestrichen.
 
 - e) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Soweit die jeweilige **Fachprüfungsordnung** nichts anderes regelt, ist die Unterrichts- und Prüfungssprache im Masterstudium Deutsch. 2Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch. 3Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+„(5)<sup>1</sup> Soweit die jeweilige **Fachprüfungsordnung** nichts anderes regelt, ist die Unterrichts- und Prüfungssprache im Masterstudium Deutsch. 2Einzelne Lehrveranstaltungen und Prüfungen können in englischer Sprache abgehalten werden; Näheres regelt das Modulhandbuch. 3Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 5. § 6 wird wie folgt geändert: 
 
@@ -58,7 +58,7 @@ bb) Satz 2 wird gestrichen.
 
 bb) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Sie können schriftlich, mündlich, elektronisch oder in anderer Form abgehalten werden.“ 
+„<sup>2</sup> Sie können schriftlich, mündlich, elektronisch oder in anderer Form abgehalten werden.“ 
 
 cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -66,7 +66,7 @@ cc) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4.
 
 - d) Nach Abs. 3 werden folgende neue Abs. 4 und 5 angefügt: 
 
-„(4)[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Projektberichte oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.[3] Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.[4] Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
+„(4)<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z.B. Projektberichte oder Kurztests) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise regelt das Modulhandbuch.<sup>3</sup> Macht die bzw. der Studierende von der Möglichkeit nach Satz 1 Gebrauch, werden die dort erbrachten Leistungen zur Berechnung der Modulnote herangezogen.<sup>4</sup> Eine Zwischenprüfungsleistung kann die Note einer bestandenen Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern; eine Verschlechterung der Note ist ausgeschlossen. 
 
 2 
 
@@ -100,13 +100,13 @@ bb) Nach Satz 1 (neu) wird folgender neuer Satz 2 angefügt:
 
 3 
 
-„[2] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.“ 
+„<sup>2</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.“ 
 
 9. § 10 wird wie folgt geändert: 
 
 - a) In der Überschrift werden die Worte „ **der Prüfungsart,** “ gestrichen und nach dem Wort „ **Rücktritt** “ das Zeichen „ **;** “ und die Worte „ **Folgen eines verspäteten Rücktritts** “ angefügt. 
 
-- b) In Abs. 1 werden Satz 1 und in Satz 2 vor dem Wort „Die“ die hochgestellte Zahl „[2] “ gestrichen. 
+- b) In Abs. 1 werden Satz 1 und in Satz 2 vor dem Wort „Die“ die hochgestellte Zahl „<sup>2</sup> “ gestrichen. 
 
 - c) Abs. 3 wird wie folgt geändert: 
 
@@ -116,7 +116,7 @@ aa) Vor dem Wort „Unbeschadet“ wird die hochgestellte Zahl „1“ eingefüg
 
 cc) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt: 
 
-„[2] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.[3] Die Folgen eines verspäteten Rücktritts richten sich nach Abs. 4.“ 
+„<sup>2</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.<sup>3</sup> Die Folgen eines verspäteten Rücktritts richten sich nach Abs. 4.“ 
 
 ## 10. § 11 wird wie folgt geändert: 
 
@@ -126,7 +126,7 @@ cc) Nach Satz 1 (neu) werden folgende neue Sätze 2 und 3 angefügt:
 
 aa) Vor Satz 1 wird folgender neuer Satz 1 eingefügt: 
 
-„[1] Die bzw. der Vorsitzende beruft die Sitzungen der Zugangskommission ein.“ 
+„<sup>1</sup> Die bzw. der Vorsitzende beruft die Sitzungen der Zugangskommission ein.“ 
 
 bb) Die bisherigen Sätze 1 bis 4 werden zu Sätzen 2 bis 5. 
 
@@ -134,11 +134,11 @@ bb) Die bisherigen Sätze 1 bis 4 werden zu Sätzen 2 bis 5.
 
 dd) Der bisherige Satz 5 wird gestrichen. 
 
-11. § 12 wird wie folgt geändert: 
+## 11. § 12 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden die Worte „Studienzeiten, Modulen, Studien- und Prüfungsleistungen“ durch das Wort „Kompetenzen“ ersetzt. 
+- a) In der Überschrift werden die Worte „Studienzeiten, Modulen, Studien- und Prüfungsleistungen“ durch das Wort „Kompetenzen“ ersetzt. 
 
-   - b) In Abs. 1 Satz 1 werden die Worte „im selben oder in einem verwandten sowie im Grundstudium gleichen Studiengang an dieser oder einer anderen Universität 
+- b) In Abs. 1 Satz 1 werden die Worte „im selben oder in einem verwandten sowie im Grundstudium gleichen Studiengang an dieser oder einer anderen Universität 
 
 4 
 
@@ -146,9 +146,9 @@ oder gleichgestellten Hochschule“ durch die Worte „in Studiengängen an der 
 
 - c) In Abs. 2 Satz 1 werden die Worte „einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulbildung,“ gestrichen und die Worte „können anerkannt werden, wenn sie“ durch die Worte „werden anerkannt, soweit die festgestellten Kompetenzen“ ersetzt. 
 
-- d) Abs. 3 wird wie folgt geändert: 
+d) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Satz 1 werden die Worte „vor Anmeldung zur zu ersetzenden Prüfung der Vorsitzenden“ durch das Wort „der“ ersetzt. 
+- aa) In Satz 1 werden die Worte „vor Anmeldung zur zu ersetzenden Prüfung der Vorsitzenden“ durch das Wort „der“ ersetzt. 
 
 bb) Satz 2 wird wie folgt geändert: 
 
@@ -160,7 +160,7 @@ bb) Satz 2 wird wie folgt geändert:
 
 cc) Nach Satz 2 wird folgender neuer Satz 3 eingefügt: 
 
-„[3] Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
+„<sup>3</sup> Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.“ 
 
 dd) Der bisherige Satz 3 wird zu Satz 4. 
 
@@ -172,7 +172,7 @@ e) Abs. 4 wird wie folgt geändert:
 
 bb) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest.“ 
+„<sup>4</sup> Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest.“ 
 
 12. § 13 wird wie folgt geändert: 
 
@@ -184,7 +184,9 @@ a) Die Überschrift erhält folgende neue Fassung:
 
 - b) Der bisherige Abs. 1 Satz 2 wird zu Abs. 2; der bisherige Abs. 1 Satz 3 wird gestrichen. 
 
-- c) Abs. 3 erhält folgende neue Fassung: „(3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
+- c) Abs. 3 erhält folgende neue Fassung: 
+
+   - „(3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die Studierende bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
 ## 13. § 15 wird wie folgt geändert: 
 
@@ -194,7 +196,7 @@ a) Die Überschrift erhält folgende neue Fassung:
 
 ## 14. § 16 wird wie folgt geändert: 
 
-## a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) Satz 1 wird wie folgt geändert: 
 
@@ -212,11 +214,11 @@ aa) Satz 1 wird wie folgt geändert:
 
 bb) Satz 2 wird gestrichen; der bisherige Satz 3 wird zu Satz 2 und erhält folgende neue Fassung: 
 
-„[2] Die Prüfungsart und der Umfang werden   in §§ 17 bis 18b sowie der jeweiligen **Fachprüfungsordnung** geregelt.“ 
+„<sup>2</sup> Die Prüfungsart und der Umfang werden   in §§ 17 bis 18b sowie der jeweiligen **Fachprüfungsordnung** geregelt.“ 
 
 cc) Nach Satz 2 (neu) werden folgende neue Sätze 3 und 4 angefügt: 
 
-„[3] Die unter § 16 Abs. 1 Satz 1 Nrn. 1 bis 3 genannten Prüfungsarten können auch als Gruppenarbeit abgehalten werden. 4Eine entsprechende Ausweisung erfolgt im Modulhandbuch.“ 
+„<sup>3</sup> Die unter § 16 Abs. 1 Satz 1 Nrn. 1 bis 3 genannten Prüfungsarten können auch als Gruppenarbeit abgehalten werden. 4Eine entsprechende Ausweisung erfolgt im Modulhandbuch.“ 
 
 - b) In Abs. 2 werden die Worte „wird die Prüfungsart“ durch die Worte „werden Prüfungsart und –umfang“ ersetzt. 
 
@@ -232,11 +234,11 @@ cc) Nach Satz 2 (neu) werden folgende neue Sätze 3 und 4 angefügt:
 
 aa) Sätze 2 und 3 erhalten folgende neue Fassung: 
 
-„[2] Der Umfang einer benoteten Hausarbeit bzw. Seminararbeit ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.[3] In der Regel beträgt der Umfang jeweils ca. 15 Seiten.“ 
+„<sup>2</sup> Der Umfang einer benoteten Hausarbeit bzw. Seminararbeit ist abhängig vom konkret vergebenen Thema und mit der bzw. dem Modulverantwortlichen abzustimmen.<sup>3</sup> In der Regel beträgt der Umfang jeweils ca. 15 Seiten.“ 
 
 bb) Satz 6 erhält folgende Fassung: 
 
-„[6] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+„<sup>6</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 cc) Satz 7 wird gestrichen. 
 
@@ -246,7 +248,7 @@ cc) Satz 7 wird gestrichen.
 
 bb) Nach Satz 1 werden folgende neue Sätze 2 bis 4 eingefügt: 
 
-„[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgehalten werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgehalten werden, regelt das Modulhandbuch.<sup>3</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>4</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
 
 cc) Die bisherigen Sätze 2 bis 7 werden zu Sätzen 5 bis 10. 
 
@@ -274,9 +276,9 @@ bb) Satz 2 wird gestrichen.
 
 17. § 18 a wird wie folgt geändert: 
 
-   - a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
+- a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-      - „[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+„<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
    - b) Die bisherigen Sätze 2 bis 4 werden zu Sätzen 3 bis 5. 
 
@@ -284,7 +286,7 @@ bb) Satz 2 wird gestrichen.
 
 ## „ **§ 18 b Umfang der Sonderformen von Prüfungsarten** 
 
-1Der Umfang der Sonderformen von Prüfungsarten nach § 16 Abs. 1 Satz 1 Nr. 3 ist abhängig vom konkret vergebenen Thema bzw. dem konkreten didaktischen Charakter des jeweiligen Moduls und mit der bzw. dem Modulverantwortlichen abzustimmen bzw. dem Modulhandbuch zu entnehmen.[2] In der Regel beträgt der Umfang 
+1Der Umfang der Sonderformen von Prüfungsarten nach § 16 Abs. 1 Satz 1 Nr. 3 ist abhängig vom konkret vergebenen Thema bzw. dem konkreten didaktischen Charakter des jeweiligen Moduls und mit der bzw. dem Modulverantwortlichen abzustimmen bzw. dem Modulhandbuch zu entnehmen.<sup>2</sup> In der Regel beträgt der Umfang 
 
 - a) einer Projektarbeit / eines Projektberichts ca. 30 Seiten, 
 
@@ -318,7 +320,9 @@ bb) Satz 2 wird gestrichen.
 
 - p) einer Versuchspersonenstunde ca. 60 Minuten, 
 
-- q) einer Reflexion ca. 10 Minuten oder ca. 10 Seiten r) und eines Strategiekonzepts ca. 6 Seiten, soweit in der jeweiligen **Fachprüfungsordnung** bzw. dem Modulhandbuch nichts anderes bestimmt ist.“ 
+- q) einer Reflexion ca. 10 Minuten oder ca. 10 Seiten 
+
+- r) und eines Strategiekonzepts ca. 6 Seiten, soweit in der jeweiligen **Fachprüfungsordnung** bzw. dem Modulhandbuch nichts anderes bestimmt ist.“ 
 
 8 
 
@@ -352,7 +356,7 @@ bb) In Satz 4 werden die Worte „bzw. „erfolgreich teilgenommen“ gestrichen
 
 b) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
+„<sup>2</sup> Die Einsicht wird durch die bzw. den Prüfenden gewährt, soweit nicht das Prüfungsamt zuständig ist; Näheres regelt der Prüfungsausschuss.“ 
 
 c) Der bisherige Satz 2 wird zu Satz 3; der bisherige Satz 3 wird gestrichen. 
 
@@ -370,15 +374,15 @@ c) Der bisherige Satz 2 wird zu Satz 3; der bisherige Satz 3 wird gestrichen.
 
 cc) Der bisherige Satz 5 wird gestrichen; der bisherige Satz 6 wird zu Satz 4. 
 
-23. § 24 wird wie folgt geändert: 
+## 23. § 24 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 2 werden die Worte „gleichwertige Studienund Prüfungsleistungen in einer anderen Form zu erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf“ ersetzt. 
+- a) In Abs. 1 Satz 2 werden die Worte „gleichwertige Studienund Prüfungsleistungen in einer anderen Form zu erbringen“ durch die Worte „den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf“ ersetzt. 
 
-   - b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
 aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
+„<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
 
 bb) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -432,7 +436,7 @@ aa) In Satz 2 wird das Wort „wesentliche“ gestrichen.
 
 aa) Vor Satz 1 wird folgender neuer Satz 1 eingefügt: 
 
-„[1] Die Studierenden sorgen rechtzeitig zur Wahrung der Fristen nach § 7 dafür, dass sie ein Thema für die Masterarbeit erhalten.“ 
+„<sup>1</sup> Die Studierenden sorgen rechtzeitig zur Wahrung der Fristen nach § 7 dafür, dass sie ein Thema für die Masterarbeit erhalten.“ 
 
 11 
 
@@ -452,7 +456,7 @@ bb) Die bisherigen Sätze 1 und 2 werden zu Sätzen 2 und 3.
 
 cc) Nach Satz 2 werden folgende neue Sätze 3 und 4 eingefügt: 
 
-„[3] Der Umfang der Masterarbeit ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen.[4] In der Regel beträgt der Umfang ca. 60 Seiten.“ 
+„<sup>3</sup> Der Umfang der Masterarbeit ist abhängig vom konkret vergebenen Thema und mit der Betreuerin bzw. dem Betreuer abzustimmen.<sup>4</sup> In der Regel beträgt der Umfang ca. 60 Seiten.“ 
 
 dd) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 5 bis 8. 
 
@@ -464,7 +468,7 @@ dd) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 5 bis 8.
 
       - bb) In Satz 3 wird das Wort „bis“ durch die Worte „und 2 Sätze 2 und 3 sowie Abs. 3 und 4 sowie Abs. 6 Sätze 1 bis 5, 7 und 8 sowie Abs. 7 und“ ersetzt. 
 
-      - cc) In Satz 4 werden die Worte „innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung“ gestrichen und nach dem Wort „vorzulegen“ das Zeichen und das Wort „; im“ durch einen Punkt und die Worte „[5] Im Falle der Ablehnung der Masterarbeit wegen Täuschung bzw. Plagiats ist eine Umarbeitung ausgeschlossen.[6] Die Bearbeitungszeit beträgt vier Monate ab der Bekanntgabe der Gestattung der Umarbeitung.[7] Im“ ersetzt. 
+      - cc) In Satz 4 werden die Worte „innerhalb von sechs Monaten nach Bekanntgabe der Ablehnung“ gestrichen und nach dem Wort „vorzulegen“ das Zeichen und das Wort „; im“ durch einen Punkt und die Worte „<sup>5</sup> Im Falle der Ablehnung der Masterarbeit wegen Täuschung bzw. Plagiats ist eine Umarbeitung ausgeschlossen.<sup>6</sup> Die Bearbeitungszeit beträgt vier Monate ab der Bekanntgabe der Gestattung der Umarbeitung.<sup>7</sup> Im“ ersetzt. 
 
       - dd) In Satz 7 (neu) wird das Wort „bis“ durch die Worte „und 2 Sätze 2 und 3 sowie Abs. 3 und 4 Sätze 2 und 3 sowie Abs. 6 Sätze 1 bis 5, 7 und 8 sowie Abs. 7 und“ ersetzt. 
 
@@ -472,7 +476,7 @@ dd) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 5 bis 8.
 
 12 
 
-„[1] Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule), die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.[2] Besteht die bzw. der Studierende an der FAU Erlangen-Nürnberg zusätzliche Module des Studiengangs, legt sie oder er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.[3] Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.[4] Die Wahl wird damit bindend.[5] Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an.“ 
+„<sup>1</sup> Zusatzmodule sind weitere Module des Studiengangs (z. B. Wahlmodule), die im Rahmen der Prüfungsfristen nach § 7 zusätzlich zu erfolgreich absolvierten Modulen besucht werden.<sup>2</sup> Besteht die bzw. der Studierende an der FAU Erlangen-Nürnberg zusätzliche Module des Studiengangs, legt sie oder er selbst fest, welches der Module in die Abschlussnotenberechnung eingebracht werden soll.<sup>3</sup> Die getroffene Wahl ist dem Prüfungsamt bis spätestens acht Wochen vor Erteilung des Abschlusszeugnisses mitzuteilen.<sup>4</sup> Die Wahl wird damit bindend.<sup>5</sup> Wird keine Wahl getroffen, rechnet das Prüfungsamt bei Wahlmöglichkeiten das besser bewertete Modul an.“ 
 
 30. § 31 wird wie folgt geändert: 
 
@@ -480,7 +484,7 @@ dd) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 5 bis 8.
 
 - b) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die zehnte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die zehnte Änderungssatzung tritt am 1. Oktober 2017 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2017/2018 aufnehmen werden.“ 
 
 31. Die Anlage wird wie folgt geändert: 
 
@@ -520,7 +524,7 @@ dd) Die bisherigen Sätze 3 bis 6 werden zu Sätzen 5 bis 8.
 
 - e) In Ziffer 7 wird nach Satz 2 folgender neuer Satz 3 angefügt: 
 
-„[3] Der Rücktritt ist unwiderruflich; die Bewerberin bzw. der Bewerber kann erst zum nächsten Zugangstermin erneut die Teilnahme beantragen.“ 
+„<sup>3</sup> Der Rücktritt ist unwiderruflich; die Bewerberin bzw. der Bewerber kann erst zum nächsten Zugangstermin erneut die Teilnahme beantragen.“ 
 
 - f) In Ziffer 8 werden nach dem Wort „auszugleichen“ ein Komma und die Worte „wobei auf den Nachweis von Kompetenzen, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf“ angefügt. 
 

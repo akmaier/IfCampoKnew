@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-BA%20MA-EEI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:08:03+00:00
-page_count_chars: 1553
+scraped_at: 2026-07-01T11:29:41+00:00
+page_count_chars: 1549
 ---
 
 # 2. Dezember 2009
@@ -12,13 +12,13 @@ page_count_chars: 1553
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AeSa-BA%20MA-EEI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Bachelorund Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI -** 
 
-## Vom 2. Dezember 2009 
+# Vom 2. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOEEI - vom 20. September 2007, geändert durch Satzung vom 10. Juli 2008, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik
 
 2. § 40 wird ersatzlos gestrichen. Die bisherigen §§ 41 bis 50 werden zu den neuen §§ 40 bis 49. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Änderungssatzung tritt am 1. Oktober 2009 in Kraft. 
 

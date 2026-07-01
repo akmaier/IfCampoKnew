@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Kunst.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:12:24+00:00
-page_count_chars: 6006
+scraped_at: 2026-07-01T08:40:55+00:00
+page_count_chars: 6002
 ---
 
 # 28. September 2009
@@ -12,7 +12,7 @@ page_count_chars: 6006
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Kunst.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 28. September 2009 
 
@@ -26,53 +26,54 @@ Die Fachstudien- und Prüfungsordnung für das Fach Kunst im Lehramtsstudiengang
 
 a) Die Tabelle in Abs. 1 erhält folgende Fassung: 
 
-## „ 
+## <u>„</u> 
 
-|**S**<br>**e**<br>**m**|**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraus.**|**Prüfungsleistungen**|
+|**S**||||**Zl**||
 |---|---|---|---|---|---|
-|**1**|**1) Basis 1 / Gestaltungsgrundlagen I**|**5**|**5**|||
-||Zeichnung|2|2|Eignungsprüf.|Note auf die praktischen<br>Arbeiten(SL)|
-||Malerei|3|3|||
-|**1/**<br>**2**|**2) Basis 2/Gestaltungsgrundlagen II**|**10**|**10**|||
-||Dreidimensionales Gestalten|3|3|Eignungsprüf.|Note auf die praktischen<br>Arbeiten (SL)|
-||Druckgrafik|3|3|||
-||Gestaltungmitdigitalen Medien|2|2|||
+|**e**<br>**m**|**Modul**|**SWS**|**ECTS**|**uassungs-**<br>**voraus.**|**Prüfungsleistungen**|
+||**1) Basis 1 / Gestaltungsgrundlagen I**|**5**|**5**|||
+|**1**|Zeichnung|2|2|Einunsrüf|Note auf die praktischen|
+||Malerei|3|3|ggp.|Arbeiten(SL)|
+||**2) Basis 2/Gestaltungsgrundlagen II**|**10**|**10**|||
+|**1/**|Dreidimensionales Gestalten|3|3|||
+|<br>**2**|Druckgrafik|3|3|Eiüf|Note auf die praktischen|
+||Gestaltungmitdigitalen Medien|2|2|gnungspr.|Arbeiten (SL)|
 ||Szenisches Spiel|2|2|||
-|**1**|**3) Basis 3**<br>**Kunstgeschichte & Fachdidaktik 1**|**5**|**5**|||
-||Kunstgeschichte: Neuere und neueste<br>Kunstgeschichte|2|2|Eignungsprüf.|Klausur zu<br>Kunstgeschichte<br>(benotet)|
-||Kunstdidaktische Anschlussmöglichkeiten (in<br>Verbindung mit „Neuere und neueste<br>Kunstgeschichte“) **(FD)**|2|2||Referat aus<br>„Fachdidaktische<br>Anschlussmöglichkeiten<br>“,|
-||Ästhetisches Verhalten von Kindern und Jugendlichen<br>(Vorlesung)|1|1|||
-|**2**|**4) Basis 4**<br>**Kunstgeschichte & Fachdidaktik 2**|**6**|**6**|||
-||Kunstgeschichte: Frühzeit- Neuzeit|2|2|Eignungsprüf.|Klausur<br>Kunstgeschichte<br>(benotet)|
-||Einführung Kunstpädagogik|2|2|||
-||Kunstdidaktische Einblicke**(FD)**|2|2|||
-|**3**|**5) Werken**|**5**|**5**|||
-||Werken/KonstruktivesBauen – inkl. Maschinenschein|3|3|Eignungsprüf.|Note auf Werkarbeiten|
-||Didaktik des Werkens**(FD)**|2|2|||
-|**3**|**6) Medien und Design**|**4**|**4**|||
-||Mediendidaktik**(FD)**|2|2|Mdl 3|mündlichePrüfung|
+||**3) Basis 3**<br>**Kunstgeschichte & Fachdidaktik 1**|**5**|**5**|||
+|**1**|Kunstgeschichte: Neuere und neueste<br>Kunstgeschichte|2|2||Klausur zu<br>Kunstgeschichte<br>(benotet)|
+||Kunstdidaktische Anschlussmöglichkeiten (in<br>Verbindung mit „Neuere und neueste<br>Kunstgeschichte“) **(FD)**|2|2|Eignungsprüf.|Referat aus<br>„Fachdidaktische<br>Ahlölihkit|
+||Ästhetisches Verhalten von Kindern und Jugendlichen<br>(Vorlesung)|1|1||nscussmgceen<br>“,|
+||**4) Basis 4**<br>**Kunstgeschichte & Fachdidaktik 2**|**6**|**6**|||
+|**2**|Kunstgeschichte: Frühzeit- Neuzeit|2|2||Klausur|
+||Einführung Kunstpädagogik|2|2|Eignungsprüf.|<br>Kunstgeschichte|
+||Kunstdidaktische Einblicke**(FD)**|2|2||<br>(benotet)|
+||**5) Werken**|**5**|**5**|||
+|**3**|Werken/KonstruktivesBauen – inkl. Maschinenschein|3|3|||
+||Didaktik des Werkens**(FD)**|2|2|Eignungsprüf.|Note auf Werkarbeiten|
+||**6) Medien und Design**|**4**|**4**|||
+|**3**|Mediendidaktik**(FD)**|2|2|Mdl 3|mündlichePrüfung|
 ||Architektur,Design,Film,Video,Fotografie|2|2|ou )||
 
-|**3**|**7) Vertiefung I**|**5**|**5**|||
+||**7) Vertiefung I**|**5**|**5**|||
 |---|---|---|---|---|---|
-||Künstlerischen Arbeit 1|3|3|Modul 1) o. 2)|Note auf die<br>künstlerischren Arbeiten<br>und theoretische<br>Reflexion, Note<br>auf Referat|
-||Zeitgenössische Kunst|2|2|||
-|**4**|**8) Vertiefung II**|**5**|**5**|||
-||Künstlerische Arbeit 2|3|3|Modul 1) o. 2)|Note auf die<br>künstlerischen Arbeiten<br>und theoretische<br>Reflexion, Note auf<br>Werkanalyse (Referat<br>und Hausarbeit)|
-||Werkanalyse|2|2|Kunstgesch.<br>1 & 2||
-|**4/**<br>**5**|**9) Unterrichtsvorbereitung / Praktikum (FD)**|**4**|**4**|||
-||Unterrichtsvorbereitung– ÄsthetischePraxis|2|2|Modul 1) – 4)|Note auf Präsentation /<br>Referat|
-||Medien und Methoden im Unterricht|2|2|||
-|**5**|**10) Projekt**|**7**|**7**|||
-||Künstlerisches Projekt, Experiment|3|3|Module 1) – 4)<br>und Modul 7)<br>oder 8),|Dokumentation des<br>künstlerischen Projekts<br>(Note auf Mappe) und<br>theoretische<br>Reflexion,Referat|
-||Kunsttheoretische Reflexion|2|2|||
-||Besprechung, Dokumentation, Präsentation - Mappe|2|2|||
-|**2**|**11) Hochschulspezifischer Schwerpunkt I**|**5**|**5**|||
-||Exkursion/KünstlerischeArbeit vorOrt|3|3|Eignungsprüf.|Note auf Präsentation|
-||Museumspädagogik|2|2|||
-|**6**|**12) Hochschulspezifischer Schwerpunkt II**|**4**|**5**|||
-||Überblick & Ausblick Kunstpädagogik|2|2|Modul 1) - 4)<br>u. Module 7) +<br>8) und für<br>Überblick &<br>Ausblick Modul<br>9)|Referat / Hausarbeit|
-||Psychologie des künstlerischen Handelns<br>/Kunstpädagogische Forschung / Interdisziplinäres<br>Projekt|2|3|||
+||Künstlerischen Arbeit 1|3|3||Note auf die|
+|**3**|Zeitgenössische Kunst|2|2|Modul 1) o. 2)|künstlerischren Arbeiten<br>und theoretische<br>Reflexion, Note<br>auf Referat|
+||**8) Vertiefung II**|**5**|**5**|||
+||Künstlerische Arbeit 2|3|3|Modul 1) o. 2)|Note auf die<br>künstlerischen Arbeiten|
+|**4**|Werkanalyse|2|2|Kunstgesch.<br>1 & 2|und theoretische<br>Reflexion, Note auf<br>Werkanalyse (Referat<br>und Hausarbeit)|
+|**4/**|**9) Unterrichtsvorbereitung / Praktikum (FD)**<br>|**4**|**4**|||
+|**5**|Unterrichtsvorbereitung– ÄsthetischePraxis|2|2|Mdl 1  4|Note auf Präsentation /|
+||Medien und Methoden im Unterricht|2|2|ou ) – )|Referat|
+||**10) Projekt**|**7**|**7**|||
+||Künstlerisches Projekt, Experiment|3|3|Module 1) – 4)<br>|Dokumentation des<br>künstlerischen Projekts|
+|**5**|Kunsttheoretische Reflexion|2|2|und Modul 7)<br>oder 8)|<br>(Note auf Mappe) und<br>|
+||Besprechung, Dokumentation, Präsentation - Mappe|2|2|,|theoretische<br>Reflexion,Referat|
+||**11) Hochschulspezifischer Schwerpunkt I**|**5**|**5**|||
+|**2**|Exkursion/KünstlerischeArbeit vorOrt|3|3|Eiüf|Nt f Pätti|
+||Museumspädagogik|2|2|gnungspr.|oe au rsenaon|
+|**6**|**12) Hochschulspezifischer Schwerpunkt II**<br>|**4**|**5**|||
+||Überblick & Ausblick Kunstpädagogik|2|2|Modul 1) - 4)<br>||
+||Psychologie des künstlerischen Handelns<br>/Kunstpädagogische Forschung / Interdisziplinäres<br>Projekt|2|3|u. Module 7) +<br>8) und für<br>Überblick &<br>Ausblick Modul<br>9)|Referat / Hausarbeit|
 ||**Fachwissenschaft Grund- und Hauptschule:**|**53**|**54 **|||
 ||**Fachdidaktik(FD) Grund- und Hauptschule**|**12**|**12**|||
 
@@ -92,9 +93,7 @@ a) Die Tabelle in Abs. 1 erhält folgende Fassung:
 
    - bb) In Zeile 7 Spalte 2 werden die Worte „Einführung in das Werken (Maschinenschein)“ durch die Worte „Werken / Konstruktives Bauen – inkl. Maschinenschein“ ersetzt. 
 
-   - cc) In Zeile 7 Spalte 3 wird die Zahl „2“ durch die Zahl „3“ ersetzt. 
-
-   - dd) In den Zeilen 7-10 Spalte 6 werden nach den Worten „künstlerische Arbeiten“ die Worte „und theoretische Reflexion“ angefügt. 
+   - cc) In Zeile 7 Spalte 3 wird die Zahl „2“ durch die Zahl „3“ ersetzt. dd) In den Zeilen 7-10 Spalte 6 werden nach den Worten „künstlerische Arbeiten“ die Worte „und theoretische Reflexion“ angefügt. 
 
 - ee) In den Zeilen 12 und 13 Spalte 6 werden über den Worten „Mündliche / schriftliche Leistung aus „Einführung in die Fachdidaktik“ die Worte „Benotetes Protokoll oder Klausur zur Kunstgeschichte“ eingefügt. 
 

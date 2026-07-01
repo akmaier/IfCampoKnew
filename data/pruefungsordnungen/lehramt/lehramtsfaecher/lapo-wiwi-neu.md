@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 01.04.2009 i.d.F. 31.03.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-WiWi-NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:49+00:00
-page_count_chars: 7682
+scraped_at: 2026-07-01T08:44:41+00:00
+page_count_chars: 7726
 ---
 
 # pdf vom 01.04.2009 i.d.F. 31.03.2010
@@ -38,14 +38,14 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** Für das Studium der Wirtschaftswissenschaften im Lehramt an Gymnasien sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** Für das Studium der Wirtschaftswissenschaften im Lehramt an Gymnasien sind im <u>Bereich Fachwissenschaft folgende Module abzulegen:</u> 
 
-|**Fach-**<br>**sem.**|**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzung**|**Prüfungsleistung**|
+|<br>**Fach-**<br>**sem.**|<br>**Modul**|<br>**SWS**|<br>**ECTS**|<br>**Zulassungs-**<br>**voraussetzung**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-|1|Betriebswirtschaftslehre I|4|5||Klausur 90 Min.|
-||Einführung in die Volkswirt-<br>schaftslehre|3|5|Erfolgreiche Teil-<br>nahme an compu-<br>terbasierten Tests|Klausur 90 Min.|
-|2|Betriebswirtschaftslehre II|4|5||Klausur 90 Min.|
-||Mikroökonomie|3|5|Erfolgreiche Teil-<br>nahme an compu-<br>terbasierten Tests|Klausur 90 Min.|
+||Betriebswirtschaftslehre I|4|5||Klausur 90 Min.|
+|1|Einführung in die Volkswirt-<br>schaftslehre|3|5|Erfolgreiche Teil-<br>nahme an compu-<br>terbasierten Tests|Klausur 90 Min.|
+||Betriebswirtschaftslehre II|4|5||Klausur 90 Min.|
+|2|Mikroökonomie|3|5|Erfolgreiche Teil-<br>nahme an compu-<br>terbasierten Tests|Klausur 90 Min.|
 |3|Makroökonomie|3|5|Erfolgreiche Teil-<br>nahme an compu-<br>terbasierten Tests|Klausur 90 Min.|
 ||Betriebliches Rechnungswesen I|3|5||Klausur 60 Min.|
 |4|Sozialpolitik|3|5|Einführung in die<br>Volkswirtschafts-<br>lehre|Klausur 60 Min.|
@@ -54,24 +54,23 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Bereich der Fa
 |5|Volkswirtschaftliches Proseminar|2|5|Einführung in die<br>Volkswirtschafts-<br>lehre, Mikroöko-<br>nomie, Makroöko-<br>nomie|Hausarbeit (40%),<br>Vortrag (20%), Klau-<br>sur 60 Min. (40%)|
 ||Recht für Wirtschaftswissen-<br>schaftler I|3|5||Klausur 90 Min.|
 ||Betriebswirtschaftslehre III (Bilan-<br>zierung)|3|5||Klausur 60 Min.|
-|6|Recht für Wirtschaftswissen-<br>schaftler  II|3|5||Klausur 90 Min.|
-||Wirtschaftspolitik|3|5|Einführung in die<br>Volkswirtschafts-<br>lehre, Mikroöko-<br>nomie, Makroöko-<br>nomie|Klausur 60 Min.|
+||<br>Recht für Wirtschaftswissen-<br>schaftler  II|3|5||Klausur 90 Min.|
+|6|Wirtschaftspolitik|3|5|Einführung in die<br>Volkswirtschafts-<br>lehre, Mikroöko-<br>nomie, Makroöko-<br>nomie|Klausur 60 Min.|
 |7|Hauptseminar Volkswirtschafts-<br>lehre|2|5|Volkswirtschaftli-<br>ches Proseminar|Hausarbeit (40%),<br>Vortrag (20%), Klau-<br>sur 90 Min. (40%)<br>oder<br>Hausarbeit (60 %)<br>Vortrag (20%),<br>Coreferat (20%)|
 ||Hauptseminar Betriebswirtschafts-<br>lehre|2|5|Betriebswirtschafts-<br>lehre I und II|Hausarbeit (50%),<br>Vortrag (20%), Klau-<br>sur 60 Min. (30%).|
-|8|Informatik: Konzeptionelle Model-<br>lierung*|4|5||Klausur 90 Min.|
-||Recht für Wirtschaftswissen-<br>schaftler III|3|10||Klausur 60 Min. Recht<br>III und IV|
-|9|Recht für Wirtschaftswissen-<br>schaftler IV|3||||
+||Informatik: Konzeptionelle Model-<br>lierung*|4|5||<br>Klausur 90 Min.|
+|8|Recht für Wirtschaftswissen-<br>schaftler III|3|||Klausur 60 Min. Recht|
+|9|Recht für Wirtschaftswissen-<br>schaftler IV|3|10||III und IV|
 ||**Summe Fachwissenschaft:**||**95**|||
 
 *Studierende, welche Wirtschaftswissenschaften in Kombination mit Informatik studieren, belegen an Stelle der Veranstaltung „Informatik“ eine zusätzliche Wahlveranstaltung im Umfang von 5 ECTS. 
 
 2 
 
-In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen: 
+In der Fachdidaktik für das Lehramt <u>an Gymnasien sind folgende Module abzulegen:</u> 
 
-|**Fach**|||||
+|**Fach**<br>**-**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-|**-**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |**sem.**|||||
 |3|Grundlagen der Fachdidaktik Wirtschaftswis-<br>senschaften|4|5|Klausur90Min|
 |6-7|Praxisfelderder Fachdidaktikbestehend aus:|||.|
@@ -81,12 +80,12 @@ In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen
 
 ## **3. Lehramt an Realschulen** 
 
-**§ 5 Inhalt, Aufbau und Gliederung des Studiums** Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+**§ 5 Inhalt, Aufbau und Gliederung des Studiums** Für das Lehramt an Realschulen sind im Bereich Fachwissenschaft folgende Module <u>abzulegen:</u> 
 
 |**Fach-**<br>**sem.**|**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzung**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-|1|Betriebswirtschaftslehre I|4|5||Klausur 90 Min.|
-||Einführung in die Volkswirtschafts-<br>lehre|3|5|Erfolgreiche Teilnah-<br>me an computerba-<br>sierten Tests|Klausur 90 Min.|
+||Betriebswirtschaftslehre I|4|5||Klausur 90 Min.|
+|1|Einführung in die Volkswirtschafts-<br>lehre|3|5|Erfolgreiche Teilnah-<br>me an computerba-<br>sierten Tests|Klausur 90 Min.|
 |2|Betriebswirtschaftslehre II|4|5||Klausur 90 Min.|
 |3|Makroökonomie|3|5|Erfolgreiche Teilnah-<br>me an computerba-<br>sierten Tests|Klausur 90 Min.|
 ||Betriebliches Rechnungswesen I|3|5||Klausur 60 Min.|
@@ -101,7 +100,7 @@ In der Fachdidaktik für das Lehramt an Gymnasien sind folgende Module abzulegen
 
 3 
 
-In der Fachdidaktik für das Lehramt an Realschulen werden folgende Module angeboten: 
+In der Fachdidaktik für das Lehramt an Realschulen werden folgende Module ange- <u>boten:</u> 
 
 |**Fach-**<br>**sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
@@ -110,7 +109,6 @@ In der Fachdidaktik für das Lehramt an Realschulen werden folgende Module angeb
 ||Seminar Medien im Wirtschaftsunterricht|2|2,5|Klausur 90 Min. oder Referat<br>inkl. Hausarbeit|
 ||Seminar Planung, Durchführung und Re-<br>flexion imÖkonomischen Fachunterricht|2|2,5|Klausur 90 Min. oder Referat<br>inkl. Hausarbeit|
 ||**Summe Fachdidaktik:**||**12**||
-||||||
 
 ## **4. Schluss- und Übergangsvorschriften** 
 

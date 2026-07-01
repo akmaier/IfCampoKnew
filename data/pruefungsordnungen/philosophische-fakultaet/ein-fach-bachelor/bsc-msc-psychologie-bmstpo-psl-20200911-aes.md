@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Psychologie BMStPO-PSL 20200911 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20200911_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:10:01+00:00
-page_count_chars: 36181
+scraped_at: 2026-07-01T09:30:50+00:00
+page_count_chars: 33436
 ---
 
 # BSc-MSc Psychologie BMStPO-PSL 20200911 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 36181
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Psychologie/Aenderungssatzungen/BSc-MSc_Psychologie_BMStPO-PSL_20200911_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
 
-## **Siebte Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BMStPO/PSL –** 
+# **Siebte Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – BMStPO/PSL –** 
 
-## **Vom 11. September 2020** 
+# **Vom 11. September 2020** 
 
 Aufgrund von Art. 13 Abs.1 in Verbindung mit Art. 58 Abs. 1 und Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der FAU – BMStPO/PSL – vom 28. September 2007, zuletzt geändert durch Satzung vom 24. August 2017, wird wie folgt geändert: 
 
@@ -30,29 +30,29 @@ Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang P
 
    - a) In der Überschrift wird das Wort „ **Regelstudienzeiten** “ durch die Worte „ **Regelstudienzeit, Teilzeitstudium** “ ersetzt. 
 
-b) Abs. 1 wird wie folgt geändert: 
+   - b) Abs. 1 wird wie folgt geändert: 
 
-- aa) In Satz 3 wird nach dem Wort „Bachelorstudium“ das Wort „inkludiert“ durch das Wort „umfasst“ ersetzt. 
+      - aa) In Satz 3 wird nach dem Wort „Bachelorstudium“ das Wort „inkludiert“ durch das Wort „umfasst“ ersetzt. 
 
-- bb) In Satz 4 werden nach dem Verweis „ **Anlage 1** “ das Wort im Klammerumfang „(Vollzeit)“ und nach dem Verweis „ **Anlage 2** “ das Wort im Klammerumfang „(Teilzeit)“ eingefügt. 
+      - bb) In Satz 4 werden nach dem Verweis „ **Anlage 1** “ das Wort im Klammerumfang „(Vollzeit)“ und nach dem Verweis „ **Anlage 2** “ das Wort im Klammerumfang „(Teilzeit)“ eingefügt. 
 
-## 4. § 3a wird wie folgt geändert: 
+# 4. § 3a wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 wird nach den Worten „in der Form des“ das Wort „hälftigen“ eingefügt. 
 
 - b) Der bisherige Abs. 2 wird zu Abs. 2 Satz 1 und es werden folgende neue Sätze 2 bis 5 angefügt: 
 
-„[2] Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet. 3Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.[4] Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen 
+„<sup>2</sup> Die bisherigen im Teil- bzw. Vollzeitstudiengang studierten Semester werden entsprechend angerechnet. 3Im Teil- bzw. Vollzeitstudiengang begründete Prüfungsrechtsverhältnisse bleiben von dem Wechsel unberührt.<sup>4</sup> Dies gilt im Falle des Wechsels von Vollzeit auf Teilzeit insbesondere für die Pflicht zur fristgemäßen 
 
 1 
 
-Wiederholung nicht bestandener Prüfungen und die Pflicht, die Grundlagen- und Orientierungsprüfung fristgemäß abzuschließen.[5] Im Falle des Wechsels von Teilzeit auf Vollzeit sind die noch fehlenden Leistungen der Grundlagen- und Orientierungsprüfung des Vollzeitstudiums binnen eines Jahres nach dem Wechsel nachzuholen.“ 
+Wiederholung nicht bestandener Prüfungen und die Pflicht, die Grundlagen- und Orientierungsprüfung fristgemäß abzuschließen.<sup>5</sup> Im Falle des Wechsels von Teilzeit auf Vollzeit sind die noch fehlenden Leistungen der Grundlagen- und Orientierungsprüfung des Vollzeitstudiums binnen eines Jahres nach dem Wechsel nachzuholen.“ 
 
 - c) Abs. 3 wird wie folgt geändert: 
 
    - aa) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] Abweichend von Satz 1 können im Studienjahr, in dem die Bachelorarbeit abgegeben wird, maximal 45 ECTS-Punkte erworben werden.“ 
+„<sup>2</sup> Abweichend von Satz 1 können im Studienjahr, in dem die Bachelorarbeit abgegeben wird, maximal 45 ECTS-Punkte erworben werden.“ 
 
       - bb) Der bisherige Satz 2 wird zu Satz 3. 
 
@@ -66,7 +66,7 @@ Wiederholung nicht bestandener Prüfungen und die Pflicht, die Grundlagen- und O
 
    - a) In Abs. 2 wird nach Satz 3 folgender neuer Satz 4 eingefügt: 
 
-„[4] Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
+„<sup>4</sup> Leistungsnachweise in Form von mehrteiligen unbenoteten und/oder beliebig oft wiederholbaren Studienleistungen zählen nicht als mehrteilige Prüfungsereignisse im Sinne des Satz 3.“ 
 
    - b) Die bisherigen Sätze 4 bis 7 werden zu den neuen Sätzen 5 bis 8. 
 
@@ -86,17 +86,17 @@ S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines 
 
 8. In § 8 Abs. 3 Satz 1 werden nach den Worten „sämtliche Mitglieder schriftlich“ die Worte „oder elektronisch“ eingefügt. 
 
-## 9. § 9 wird wie folgt geändert: 
+# 9. § 9 wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 2 werden nach den Worten „Anmeldeformalitäten werden“ die Worte „spätestens eine Woche vorher“ durch die Worte „rechtzeitig vor dem Prüfungstermin“ ersetzt. 
 
 - b) Abs. 3 Satz 3 erhält folgende neue Fassung: 
 
-„[3] Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
+„<sup>3</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit der Erklärung des Rücktritts erlischt die Anmeldung zur Prüfung und die bzw. der Studierende ist zur Teilnahme an derselben nicht mehr berechtigt.“ 
 
 10. In § 10 Abs. 4 werden nach den Worten „bestimmt sich nach Art. 18 Abs.“ die Worte mit Zahlen „2 Sätze 2 und“ eingefügt. 
 
-## 11. § 12 wird wie folgt geändert: 
+# 11. § 12 wird wie folgt geändert: 
 
    - a) In Abs. 1 Satz 1 wird nach den Worten „Prüfungsleistungen, die in“ das Wort „anderen“ eingefügt. 
 
@@ -104,7 +104,7 @@ S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines 
 
 12. In § 16 Abs. 3 Satz 4 werden nach dem Wort „zuverlässige“ die Worte „und valide“ eingefügt. 
 
-## 13. § 17 wird wie folgt geändert: 
+# 13. § 17 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 2 werden nach den Worten „vorgeschrieben ist,“ die Worte „als Einzelprüfung“ eingefügt. 
 
@@ -116,15 +116,15 @@ S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines 
 
 - bb) In Satz 4 werden nach den Worten „Protokoll ist“ die Worte „bei den Prüfungsakten“ gestrichen. 
 
-## 14. § 19 wird wie folgt geändert: 
+# 14. § 19 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
    - aa) In Satz 1 wird in der Tabelle vor der ersten Zeile (sehr gut = (1,0 bis 1,3) eine hervorragende Leistung) folgende neue Zeile eingefügt: 
 
-   - „ **Prädikat** 
+   - <u>„</u> **Prädikat** 
 
-## **Notenstufe Beschreibung** 
+# **Notenstufe Beschreibung** 
 
    - “ 
 
@@ -158,13 +158,11 @@ c) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt:
 
 „(3) Die Gesamtnote der Bachelorprüfung, der Masterprüfung und der Module lautet: 
 
-bei einem Durchschnitt bis 1,50 = sehr gut, 
-
-bei einem Durchschnitt über 1,50 bis 2,50 = gut, bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend, bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend, über 4,0 = nicht ausreichend.“ 
+bei einem Durchschnitt bis 1,50 = sehr gut, bei einem Durchschnitt über 1,50 bis 2,50 = gut, bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend, bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend, über 4,0 = nicht ausreichend.“ 
 
 15. In § 20 Abs. 2 werden nach den Worten „Zulassung zu einer“ die Worte „Prüfung nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, und wird diese Tatsache erst nach der Aushändigung der Urkunde bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt“ durch die Worte „(Teil-)Prüfung bzw. einem Prüfungsteil nicht erfüllt, ohne dass die Täuschung vorsätzlich erfolgte, so wird dieser Mangel durch das Bestehen der (Teil-)Prüfung bzw. des Prüfungsteils geheilt“ ersetzt. 
 
-## 16. § 22 wird wie folgt geändert: 
+# 16. § 22 wird wie folgt geändert: 
 
 - a) In der Überschrift werden nach den Worten mit Komma „ **Diploma Supplement,** “ die Worte mit Komma „ **Grade Distribution Table,** “ eingefügt. 
 
@@ -172,17 +170,17 @@ bei einem Durchschnitt über 1,50 bis 2,50 = gut, bei einem Durchschnitt über 2
 
 17. Die Regelung in § 23 wird wie folgt neu gefasst: 
 
-„[1] Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.[ 2] Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
+„<sup>1</sup> Wer die Bachelor- oder Masterprüfung endgültig nicht bestanden hat, erhält einen mit Rechtsbehelfsbelehrung versehenen Bescheid, aus dem sich das endgültige Nichtbestehen der Prüfung ergibt.<sup>2</sup> Die bzw. der Studierende kann sich darüber hinaus im Prüfungsverwaltungssystem selbst eine Übersicht der in den einzelnen Modulen erzielten Noten ausdrucken.“ 
 
 18. In § 24 Abs. 1 Satz 2 werden nach den Worten „oder ständiger“ das Wort „körperlicher“ gestrichen und nach dem Wort „Behinderung“ ein Komma und die Worte „die nicht das abgeprüfte Leistungsbild betrifft,“ eingefügt. 
 
-## 19. § 27 wird wie folgt geändert: 
+# 19. § 27 wird wie folgt geändert: 
 
-a) Abs. 2 Satz 1 wird wie folgt geändert: 
+- a) Abs. 2 Satz 1 wird wie folgt geändert: 
 
-- aa) Nach den Worten „Statistik I (M2) und“ werden das Wort und der Buchstabe mit Sonderzeichen und Zahl „Feldforschung (M4)“ durch die Worte „Forschungsorientiertes Praktikum I (M18)“ ersetzt. 
+   - aa) Nach den Worten „Statistik I (M2) und“ werden das Wort und der Buchstabe mit Sonderzeichen und Zahl „Feldforschung (M4)“ durch die Worte „Forschungsorientiertes Praktikum I (M18)“ ersetzt. 
 
-- bb) Nach den Worten „einem der Module“ werden die Buchstaben, Zahlen und das Wort „M7, M10 oder M11“ durch die Buchstaben, Zahlen und das Wort „M5, M7 oder M8“ ersetzt. 
+   - bb) Nach den Worten „einem der Module“ werden die Buchstaben, Zahlen und das Wort „M7, M10 oder M11“ durch die Buchstaben, Zahlen und das Wort „M5, M7 oder M8“ ersetzt. 
 
 5 
 
@@ -194,7 +192,7 @@ a) Abs. 2 Satz 1 wird wie folgt geändert:
 
 „(6) Voraussetzung für die Absolvierung des sechswöchigen Praktikums des Moduls 20 (Berufsqualifizierende Tätigkeit I) ist der Nachweis von mindestens 60 ECTS-Punkten.“ 
 
-20. § 28 wird wie folgt geändert: 
+# 20. § 28 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -210,11 +208,11 @@ a) Abs. 1 wird wie folgt geändert:
 
 - c) In Abs. 7 Satz 1 werden nach den Worten „Die Arbeit ist“ die Worte „in zwei schriftlichen Exemplaren sowie“ gestrichen. 
 
-## 21. § 36 wird wie folgt geändert: 
+# 21. § 36 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 3 wird nach dem Wort „übereinstimmen“ das Wort im Klammerumfang „(Plagiatsschutz)“ eingefügt. 
 
-- b) In Abs. 2 Satz 1 werden nach den Worten „[1] Die Studierenden sorgen“ die Worte „rechtzeitig zur Wahrung der Fristen nach § 7, in der Regel“ eingefügt. 
+- b) In Abs. 2 Satz 1 werden nach den Worten „<sup>1</sup> Die Studierenden sorgen“ die Worte „rechtzeitig zur Wahrung der Fristen nach § 7, in der Regel“ eingefügt. 
 
 - c) In Abs. 4 Satz 1 wird nach dem Wort „Monate“ das Wort im Klammerumfang „(Regelbearbeitungszeit)“ eingefügt. 
 
@@ -226,260 +224,206 @@ a) Abs. 1 wird wie folgt geändert:
 
 22. In § 38 wird nach Abs. 4 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die siebte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[ 3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Sommersemester 2025 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(5)<sup>1</sup> Die siebte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Sommersemester 2025 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 7 
 
-## 23. **Anlage 1** erhält folgende neue Fassung: 
+# 23. **Anlage 1** erhält folgende neue Fassung: 
 
-## „ **Anlage 1: Studienverlaufsplan polyvalenter B.Sc. Psychologie (Vollzeit)** 
+# <u>„</u> **Anlage 1: Studienverlaufsplan polyvalenter B.Sc. Psychologie** **<u>(Vollzeit)</u>** 
 
-|**Modulbezeichnung**|||||||**Gesamt**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**|||||**in ECTS-Punkten **|||||||
-||**Lehrveranstaltung**||||||**ECTS**|1.<br>Sem.|2.<br>Sem.|3.<br>Sem|4.<br>Sem|5.<br>Sem|6.<br>Sem|**Art und Umfang der Prüfung**||
-|||V|Ü|P|PS|S||||||||||
-|**M1 Einführung in die**<br>**Psychologie**|Vorlesung Einführung in die Psychologie1|2|||||5|2||||||Klausur<br>(60 Minuten)|1|
-||Tutorium zu Schlüsselqualifikationen1||1|||||0,5||||||||
-||Vorlesung Einführung in die Forschungsmethoden<br>der Psychologie1|2||||||2,5||||||||
-|**M2 Statistik I**|Vorlesung Statistik I (Deskriptive Statistik<br>&Wahrscheinlichkeit1|4|||||5|4||||||Klausur<br>(120 Minuten)|1|
-||Tutorium zur Vorlesung Statistik I1||2|||||1||||||||
-|**M3 Statistik II**|Vorlesung Statistik II (Inferenzstatistik)1|4|||||5||4|||||Klausur (120 Minuten)|1|
-||Tutorium zur Vorlesung Statistik II1||2||||||1|||||||
-|**M4 Allgemeine**<br>**Psychologie I**|Vorlesung Allgemeine Psychologie I1|2|||||10|||3||||Klausur (60 Minuten)|1|
-||Seminar zur Allgemeinen Psychologie I1|||||2||||4||||||
-||Proseminar Allgemeine Psychologie I1||||2||||||3|||||
-|**M5 Allgemeine**<br>**Psychologie II**|Vorlesung Allgemeine Psychologie II1|2|||||10|3||||||Klausur (60 Minuten)|1|
-||Seminar zur Allgemeinen Psychologie II1|||||2||4||||||||
-||Proseminar Allgemeine Psychologie II1||||2||||3|||||||
-|**M6 Biologische**<br>**Psychologie**|Vorlesung Biologische Psychologie1|2|||||10|3||||||Klausur (60 Minuten)|1|
-||Hauptseminar zur Biologischen Psychologie1|||||2|||4|||||||
-||Proseminar Biologische Psychologie1||||2||||3|||||||
-|**M7 Entwicklungs-**<br>**psychologie**|Vorlesung Entwicklungspsychologie, Teil 11|2|||||10|3||||||100 % Mündliche Prüfung (20 Minuten)<br>und 0 % Referat (max. 30 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|1|
-||Vorlesung Entwicklungspsychologie, Teil 21|2|||||||3|||||||
-||Seminar Entwicklungspsychologie1|||||2|||4|||||||
-|**M8 Sozialpsychologie**|Vorlesung Sozialpsychologie, Teil 11|2|||||10|3||||||100 % Klausur (60 Minuten) und<br>0 % Referat (max. 15 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|1|
-||Seminar Sozialpsychologie1|||||2||4||||||||
-||Vorlesung Sozialpsychologie, Teil 21|2|||||||3|||||||
+|||||**Workload**<br>|**-Verteilu**<br>|**ng pr**<br>|**o Semester**<br>|||
+|---|---|---|---|---|---|---|---|---|---|
+||||**SWS**|<br>|**n ECTS-**|**Punkt**|**en **||**Faktor**|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||**Gesamt**<br> <br> <br> <br>|<br>||<br> <br>|**Art und Umfang der Prüfung**|**Modul-**|
+|||||**ECTS**<br>1<br>2|3|4|5<br>6|||
+|||V|Ü<br>P<br>PS<br>S|.<br>Sem.<br>.<br>Sem.|.<br>Sem|.<br>Sem|.<br>Sem<br>.<br>Sem||**note**|
+||Vorlesung Einführung in die Psychologie<sup>1</sup>|2||2||||||
+|**M1 Einführung in die**<br>**Psychologie**|Tutorium zu Schlüsselqualifikationen<sup>1</sup>||1|5<br>0,5||||Klausur<br>(60 Minuten)|1|
+||Vorlesung Einführung in die Forschungsmethoden<br>der Psychologie<sup>1</sup>|2||2,5||||||
+|**M2 Statistik I**|Vorlesung Statistik I (Deskriptive Statistik<br>&Wahrscheinlichkeit<sup>1</sup>|4||5<br>4||||Klausur<br>|1|
+||Tutorium zur Vorlesung Statistik I<sup>1</sup>||2|<br>1||||(120 Minuten)||
+|**M3 Statistik II**|Vorlesung Statistik II (Inferenzstatistik)<sup>1</sup>|4||5<br>4||||Klausur (120 Minuten)|1|
+||Tutorium zur Vorlesung Statistik II<sup>1</sup>||2|<br>1||||||
+||Vorlesung Allgemeine Psychologie I<sup>1</sup>|2|||3|||||
+|**M4 Allgemeine**<br>**Psychologie I**|Seminar zur Allgemeinen Psychologie I<sup>1</sup>||2|10|4|||Klausur (60 Minuten)|1|
+||Proseminar Allgemeine Psychologie I<sup>1</sup>||2|||3||||
+||Vorlesung Allgemeine Psychologie II<sup>1</sup>|2||3||||||
+|**M5 Allgemeine**<br>**Psychologie II**|Seminar zur Allgemeinen Psychologie II<sup>1</sup>||2|10<br>4||||Klausur (60 Minuten)|1|
+||Proseminar Allgemeine Psychologie II<sup>1</sup>||2|3||||||
+||Vorlesung Biologische Psychologie<sup>1</sup>|2||3||||||
+|**M6 Biologische**<br>**Psychologie**|Hauptseminar zur Biologischen Psychologie<sup>1</sup>||2|10<br>4||||Klausur (60 Minuten)|1|
+||Proseminar Biologische Psychologie<sup>1</sup>||2|3||||||
+||Vorlesung Entwicklungspsychologie, Teil 1<sup>1</sup>|2||3||||100 % Mündliche Prüfung (20 Minuten)||
+|**M7 Entwicklungs-**<br>**psychologie**|Vorlesung Entwicklungspsychologie, Teil 2<sup>1</sup>|2||10<br>3||||und 0 % Referat (max. 30 Minuten) mit<br>schriftlicher Ausarbeitung|1|
+||Seminar Entwicklungspsychologie<sup>1</sup>||2|4||||<br>(max. 15 Seiten)||
+||Vorlesung Sozialpsychologie, Teil 1<sup>1</sup>|2||3||||100 % Klausur (60 Minuten) und||
+|**M8 Sozialpsychologie**|Seminar Sozialpsychologie<sup>1</sup>||2|10<br>4||||0 % Referat (max. 15 Minuten) mit<br>schriftlicher Ausarbeitung|1|
+||Vorlesung Sozialpsychologie, Teil 2<sup>1</sup>|2||3||||(max. 15 Seiten)||
 
 8 
 
-|**Modulbezeichnung**|||||||**Gesamt**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||**SWS**|||||**in ECTS-Punkten **|||||||
-||**Lehrveranstaltung**||||||**ECTS**|1.<br>Sem.|2.<br>Sem.|3.<br>Sem|4.<br>Sem|5.<br>Sem|6.<br>Sem|**Art und Umfang der Prüfung**||
-|||V|Ü|P|PS|S||||||||||
-|**M9 Differentielle und**<br>**Persönlichkeits-**<br>**psychologie**|Vorlesung Differentielle und Persönlichkeitspsycho-<br>logie,Teil 11<br>Vorlesung Differentielle und Persönlichkeitspsycho-|2<br>|||||10|||3||||100 % Klausur (60 Minuten) und<br>0 % Referat (max. 30 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|1|
-||<br>logie,Teil 21<br>Seminar zur Persönlichkeitspsychologie1|2||||2|||||3<br>4|||||
-|**M10 Grundlagen der**<br>**psychologischen**<br>**Diagnostik**|Vorlesung Testtheorie (Test- und Messtheorie)1|2|||||15|||3||||100 % Klausur (60 Minuten),<br>0 % Individualdiagnostisches Gespräch<br>(60 Minuten) mit schriftlich ausgearbeite-<br>ter Auswertung (max. 15 Seiten) und<br>0 % Testdurchführung, -auswertung, und<br>-befundung, schriftlich ausgearbeitet<br>(max. 15 Seiten)|<br>1|
-||Vorlesung Einführung in die Diagnostik1|2|||||||||3|||||
-||Hauptseminar Exploration1|||||2||||5||||||
-||Hauptseminar Testdiagnostik1|||||2|||||4|||||
-|**M11 Grundlagen der**<br>**Medizin**|Vorlesung Grundlagen der Medizin1|2|||||5|||||3||Klausur (60 Minuten)|1|
-||VorlesungGrundlagen der Pharmakotherapie1|2|||||||||||2|||
-|**M12 Klinische**<br>**Psychologie I**|Proseminar Psychische Störungen, Teil 11||||2||10|||3||||Klausur (90 Minuten)|1|
-||Proseminar Psychische Störungen, Teil 21||||2||||||3|||||
-||Hauptseminar Psychische Störungen1|||||2||||4||||||
-|**M13 Klinische**<br>**Psychologie II**|Proseminar Verfahrenslehre1||||2||10|||||3||Klausur (90 Minuten)|1|
-||Proseminar Prävention, Rehabilitation, Berufsethik<br>undBerufsrecht1||||2||||||||3|||
-||Hauptseminar Verfahrenslehre1|||||2||||||4||||
-|**M14 Arbeits- und**<br>**Organisations-**<br>**psychologie**|Proseminar Arbeitspsychologie||||2||||||3|||100 % Klausur (90 Minuten) und<br>0 % Referat (max. 30 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|1|
-||Proseminar Organisationspsychologie||||2||10|||||3||||
-||Seminar Arbeits- und Organisationspsychologie1|||||2||||||4||||
-|**M15 Pädagogische**<br>**Psychologie I**|Vorlesung Pädagogische Psychologie1|2|||||5||||5|||Mündliche Prüfung (20 Minuten)|2|
-|**M16 Pädagogische**<br>**Psychologie II**|Seminar Pädagogische Psychologie1|||||2|5|||||5||Referat (max. 45 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|0|
-|**M17 Ergänzungsbe-**<br>**reich (wahlweise ent-**<br>**weder Modul 17a oder**<br>**Modul 17b+c)**|Wird durch die gewählten Module der<br>Ergänzungsfächer definiert||||||10|||||5|5|Wird durch die gewählten Module der<br>Ergänzungsfächer definiert|0|
-|**M18 Forschungsori-**<br>**entiertes Praktikum I**|Praktikum zur Feldforschung inkl. computer-<br>gestützte Datenanalyse1|||4|||5||5|||||Forschungsbericht (max. 20 Seiten)|0|
+||||**SWS**|**Gt**|**Workload**<br>**i**|**-Verteilu**<br>**n ECTS**|**ng pro**<br>**-Punkt**|**Semes**<br>**en **|**ter**||**Faktor**|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnun**|**Lehrveranstaltun**|||**esam**||||||**Art und Umfan der Prüfun**|**Modul-**|
+|**g**|**g**|||**ECTS**|1.<br>2.|3.|4.|5.|6.|**g  g**|**note**|
+|||V<br>|Ü<br>P<br>PS<br>S||Sem.<br>Sem.|Sem|Sem|Sem|Sem|||
+||Vorlesung Differentielle und Persönlichkeitspsycho-|2||||3||||||
+|**M9 Differentielle und**|logie,Teil 1<sup>1</sup>|||||||||100 % Klausur (60 Minuten) und<br>||
+|**Persönlichkeits-**<br>**psychologie**|Vorlesung Differentielle und Persönlichkeitspsycho-<br>logie,Teil 2<sup>1</sup>|2||10|||3|||0 % Referat (max. 30 Minuten) mit<br>schriftlicher Ausarbeitung<br>|1|
+||Seminar zur Persönlichkeitspsychologie<sup>1</sup>||2||||4|||(max. 15 Seiten)||
+||Vorlesung Testtheorie (Test- und Messtheorie)<sup>1</sup>|2||||3||||100 % Klausur (60 Minuten),<br>0 % Individualdiagnostisches Gespräch||
+|**M10 Grundlagen der**<br>|Vorlesung Einführung in die Diagnostik<sup>1</sup>|2|||||3|||<br>(60 Minuten) mit schriftlich ausgearbeite-<br>||
+|**psychologischen**<br>**Diagnostik**|Hauptseminar Exploration<sup>1</sup>||2|15||5||||ter Auswertung (max. 15 Seiten) und<br>0 % Testdurchführung, -auswertung, und<br>|<br>1|
+||Hauptseminar Testdiagnostik<sup>1</sup>||2||||4|||-befundung, schriftlich ausgearbeitet<br>(max. 15 Seiten)||
+|**M11 Grundlagen der**|Vorlesung Grundlagen der Medizin<sup>1</sup>|2||5||||3||Klausur (60 Minuten)|1|
+|**Medizin**|VorlesungGrundlagen der Pharmakotherapie<sup>1</sup>|2|||||||2|||
+||Proseminar Psychische Störungen, Teil 1<sup>1</sup>||2|||3||||||
+|**M12 Klinische**<br>**Psychologie I**|Proseminar Psychische Störungen, Teil 2<sup>1</sup>||2|10|||3|||Klausur (90 Minuten)|1|
+||Hauptseminar Psychische Störungen<sup>1</sup>||2|||4||||||
+||Proseminar Verfahrenslehre<sup>1</sup>||2|||||3||||
+|**M13 Klinische**<br>**Psychologie II**|Proseminar Prävention, Rehabilitation, Berufsethik<br>undBerufsrecht<sup>1</sup>||2|10|||||3|Klausur (90 Minuten)|1|
+||Hauptseminar Verfahrenslehre<sup>1</sup>||2|||||4||||
+|**M14 Abit d**|Proseminar Arbeitspsychologie||2||||3|||100 % Klausur (90 Minuten) und||
+|**res- un**<br>**Organisations-**|Proseminar Organisationspsychologie||2|10||||3||0 % Referat (max. 30 Minuten) mit<br>hiflih Abi|1|
+|**psychologie**|Seminar Arbeits- und Organisationspsychologie<sup>1</sup>||2|||||4||scrtcer usaretung<br>(max. 15 Seiten)||
+|**M15 Pädagogische**<br>**Psychologie I**|Vorlesung Pädagogische Psychologie<sup>1</sup>|2||5|||5|||Mündliche Prüfung (20 Minuten)|2|
+|**M16 Pädagogische**<br>**Psychologie II**|Seminar Pädagogische Psychologie<sup>1</sup>||2|5||||5||Referat (max. 45 Minuten) mit<br>schriftlicher Ausarbeitung<br>(max. 15 Seiten)|0|
+|**M17 Ergänzungsbe-**<br>**reich (wahlweise ent-**<br>**weder Modul 17a oder**<br>**Modul 17b+c)**|<br>Wird durch die gewählten Module der<br>Ergänzungsfächer definiert|||10||||5|5|Wird durch die gewählten Module der<br>Ergänzungsfächer definiert|0|
+|**M18 Forschungsori-**<br>**entiertes Praktikum I**|Praktikum zur Feldforschung inkl. computer-<br>gestützte Datenanalyse<sup>1</sup>||4|5|5|||||Forschungsbericht (max. 20 Seiten)|0|
 
 9 
 
-|**Modulbezeichnung**||**SWS**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **|**Workload-Verteilung pro Semester**<br>**in ECTS-Punkten **||**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung**||||||**ECTS**|1.<br>Sem.|2.<br>Sem.|3.<br>Sem|4.<br>Sem|5.<br>Sem|6.<br>Sem|**Art und Umfang der Prüfung**||
-|||V|Ü|P|PS<br>S|||||||||||
-|**M19 Forschungsori-**<br>**entiertes Praktikum II**|Praktikum zur Experimentalforschung inkl.<br>computergestützte Datenanalyse1|||4|||5|||5||||Forschungsbericht (max. 20 Seiten)|0|
-|**M20 Berufsqualifizie-**<br>**rende Tätigkeit I**|Versuchspersonenstunden||||||15||||||1|Schriftlicher Abschlussbericht<br>(mindestens 10 Seiten)|0|
-||Orientierungspraktikum (4 Wochen extern)1|||||||||||5,5||||
-||Berufsqualifizierende Tätigkeit I (240h – 6 Wochen)<br>in Praxisfeldernder Psychotherapie1||||||||||||8,5|||
-|**M21 Wissenschaft-**<br>**liche Praxis**|Kolloquium|||||2|10||||||0,5|Bachelorarbeit (40 Seiten)|1|
-||Bachelorarbeit||||||||||||9,5|||
-|||40|5|8|18|26|180|30|30|30|28|32,5|29,5|||
-|||Summe 97||||||Summe: 180||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>V<br>Ü<br>P<br>PS<br>S|**Gesamt**<br>**ECTS**|**Workload-**<br>**in**<br>1.<br>Sem.<br>2.<br>Sem.|**Verteil**<br>**ECTS**<br>3.<br>Sem|**ung pro**<br>**-Punkt**<br>4.<br>Sem|**Semester**<br>**en **<br>5.<br>Sem<br>6.<br>Sem|**Art und Umfang der Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+|**M19 Forschungsori-**<br>**entiertes Praktikum II**|Praktikum zur Experimentalforschung inkl.<br>computergestützte Datenanalyse<sup>1</sup>|4|5||5|||Forschungsbericht (max. 20 Seiten)|0|
+||Versuchspersonenstunden||||||1|||
+|**M20 Berufsqualifizie-**<br>**Tiki I**|Orientierungspraktikum (4 Wochen extern)<sup>1</sup>||15||||5,5|Schriftlicher Abschlussbericht<br>|0|
+|**rende ätget**|Berufsqualifizierende Tätigkeit I (240h – 6 Wochen)<br>in Praxisfeldernder Psychotherapie<sup>1</sup>||||||8,5|(mindestens 10 Seiten)||
+|**M21 Wissenschaft-**|Kolloquium|2|10||||0,5|Bachelorarbeit (40 Seiten)|1|
+|**liche Praxis**|Bachelorarbeit||||||9,5|||
+|||40<br>5<br>8<br>18<br>26|180|30<br>30|30|28|32,5<br>29,5|||
+|||Summe 97||Summe: 180||||||
 
 1 Es besteht Anwesenheitspflicht. “ 
 
 10 
 
-## 24. **Anlage 2** erhält folgende neue Fassung: 
+# 24. **Anlage 2** erhält folgende neue Fassung: 
 
-## „ **Anlage 2: Studienverlaufsplan polyvalenter B.Sc. Psychologie (Teilzeit)** 
+# <u>„</u> **Anlage 2: Studienverlaufsplan polyvalenter B.Sc. Psychologie** **<u>(Teilzeit)</u>** 
 
-|**Modulbezeichnung**||||||||||||||||||||**Art und**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||**Workload-Verteilung pro Semester in ECTS-Punkten**||||||||||||
-||**Lehrveranstaltung**|**SWS**|||||**Gesamt**<br>**ECTS**|1.|2.|3.|4.|5.|6.|7.|8.|9.|10.|11.|12.|**Umfang der**<br>||
-|||||||||Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|Sem.|**Prüfung**||
-|||V|Ü|P|PS|S||||||||||||||||
-|**M1 Einführung in die**<br>**Psychologie**|Vorlesung Einführung in die<br>Psychologie1|2|||||5|2||||||||||||Klausur<br>(60 Minuten)|1|
-||Tutorium zu Schlüsselqualifi-<br>kationen1||1|||||0,5||||||||||||||
-||Vorlesung Einführung in die<br>Forschungsmethoden der<br>Psychologie1|2||||||2,5||||||||||||||
-|**M2 Statistik I**|Vorlesung Statistik I (Deskrip-<br>tive Statistik & Wahrschein-<br>lichkeit)1|4|||||5|4||||||||||||Klausur<br>(120 Minuten)|1|
-||Tutorium zur Vorlesung<br>Statistik I1||2|||||1||||||||||||||
-|**M3 Statistik II**|Vorlesung Statistik II (Infer-<br>iik1|4|||||||4||||||||||||1|
-||enzstatst)||||||5|||||||||||||Klausur<br>120 Mit||
-||Ti  Vl|||||||||||||||||||||
-||utorum zur oresung<br>Statistik II1||2||||||1|||||||||||( nuen)||
-|||||||||||||||||||||||
-|**M4 Allgemeine**<br>**Psychologie I**|Vorlesung Allgemeine<br>PsychologieI1|2||||||||||3|||||||||1|
-||Seminar zur Allgemeinen<br>PsychologieI1|||||||||||||||||||||
-|||||||2|10|||||4||||||||Klausur<br>(60 Minuten)||
-|||||||||||||||||||||||
-||Proseminar Allgemeine<br>PsychologieI1||||2||||||||3|||||||||
-|**M5 Allgemeine**<br>**Psychologie II**|Vorlesung Allgemeine<br>PsychologieII1|2||||||||3|||||||||||1|
-||Seminar zur Allgemeinen<br>PsychologieII1|||||||||||||||||||||
-|||||||2|10|||4||||||||||Klausur<br>(60 Minten)||
-|||||||||||||||||||||u||
-||Proseminar Allgemeine<br>PsychologieII,Teil 21||||2||||||3|||||||||||
-|**M6 Biologische**<br>**Psychologie**|Vorlesung Biologische<br>Psychologie1|2||||||3|||||||||||||1|
-||Hauptseminar zur Biolo-<br>gischen Psychologie1|||||||||||||||||||||
-|||||||2|10||4|||||||||||Klausur<br>(60 Minuten)||
-|||||||||||||||||||||||
-||Proseminar Biologische<br>Psychologie1||||2||||3|||||||||||||
-|**M7 Entwicklungs-**<br>**psychologie**|Vorlesung Entwicklungs-<br>psychologie,Teil 11|2|||||10|||3||||||||||100 % Mündliche<br>Prüfung|1|
-|||||||||||||||||||||(20 Minuten) und<br>0 %Referat||
-||Vorlesung Entwicklungs-|2|||||||||3|||||||||||
+|**Mdlbih**|**Lhl**||**SWS**|**Gesamt**||**Workload-**|**Verteilu**|**ng pro S**|**emest**|**er in EC**|**TS-Punkten**||**Art und**<br>**Uf d**|**Faktor**<br>**Mdl**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**ouezecnung**|**erveranstatung**|||**ECTS**<br>1|2|3<br>4|5|6|7|8|9<br>10|11<br>12|**mang er**|**ou-**|
+|||||<br>.<br>|.<br>|.<br> <br>.<br>|.<br>|.<br>|.<br>|.<br>|.<br> <br>.<br>|.<br> <br>.<br>|<br>**Prüfung**|**note**|
+|||V<br>Ü|P<br>PS<br>S|Sem.|Sem.|Sem.<br>Sem.|Sem.|Sem.|Sem.|Sem.|Sem.<br>Sem.|Sem.<br>Sem.|||
+||Vorlesung Einführung in die<br>Psychologie<sup>1</sup>|2||2|||||||||||
+|**M1 Einführung in die**<br>**Phli**|Tutorium zu Schlüsselqualifi-<br>kationen<sup>1</sup>|1||5<br>0,5|||||||||Klausur<br>(60 Minuten)|1|
+|**sycooge**|Vorlesung Einführung in die<br>Forschungsmethoden der<br>Psychologie<sup>1</sup>|2||2,5|||||||||||
+|**M2 Statistik I**|Vorlesung Statistik I (Deskrip-<br>tive Statistik & Wahrschein-<br>lichkeit)<sup>1</sup>|4||5<br>4|||||||||Klausur<br>(120 Minuten)|1|
+||Tutorium zur Vorlesung<br>Statistik I<sup>1</sup>|2||1|||||||||||
+|**M Siik II**|Vorlesung Statistik II (Infer-<br>enzstatistik)<sup>1</sup>|4|||4||||||||Klausur||
+|**3 tatst**|Tutorium zur Vorlesung<br>Statistik II<sup>1</sup>|2||5|1||||||||(120 Minuten)|1|
+||Vorlesung Allgemeine<br>PsychologieI<sup>1</sup>|2|||||3||||||||
+|**M4 Allgemeine**<br>**Psychologie I**|Seminar zur Allgemeinen<br>PsychologieI<sup>1</sup>||2|10|||4||||||Klausur<br>(60 Minuten)|1|
+||Proseminar Allgemeine<br>PsychologieI<sup>1</sup>||2|||||3|||||||
+||Vorlesung Allgemeine<br>PsychologieII<sup>1</sup>|2||||3|||||||||
+|**M5 Allgemeine**<br>**Psychologie II**|Seminar zur Allgemeinen<br>PsychologieII<sup>1</sup>||2|10||4|||||||Klausur<br>(60 Minuten)|1|
+||Proseminar Allgemeine<br>PsychologieII,Teil 2<sup>1</sup>||2|||3|||||||||
+||Vorlesung Biologische<br>Psychologie<sup>1</sup>|2||3|||||||||||
+|**M6 Biologische**<br>**Psychologie**|Hauptseminar zur Biolo-<br>gischen Psychologie<sup>1</sup>||2|10|4||||||||Klausur<br>(60 Minuten)|1|
+||Proseminar Biologische<br>Psychologie<sup>1</sup>||2||3||||||||||
+|**M7 Entwicklungs-**<br>|Vorlesung Entwicklungs-<br>psychologie,Teil 1<sup>1</sup>|2||10||3|||||||100 % Mündliche<br>Prüfung<br>|1|
+|**psychologie**|Vorlesung Entwicklungs-|2||||3|||||||(20 Minuten) und<br>0 %Referat||
 
 11 
 
-|**Modulbezeichnung**||||||||||**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||**Art und**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung**|**SWS**|||||**Gesamt**<br>**ECTS**|1|2|3|4|5|6|7|8|9|10|11|12|<br>**Umfang der**||
-|||||||||.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|**Prüfung**||
-|||V|Ü|P|PS|S||||||||||||||||
-||psychologie, Teil 21|||||||||||||||||||(max. 30 Minuten)<br>mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)||
-|||||||||||||||||||||||
-||Seminar Entwicklungspsycho-<br>logie1|||||2|||||4|||||||||||
-|**M8 Sozialpsycho-**<br>**logie**|Vorlesung Sozialpsychologie,<br>Teil 11|||||||||||||||||||100 % Klausur<br>(60 Minuten) und<br>0 % Referat<br>(max. 15 Minuten)<br>mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)|<br>1|
-|||2|||||10|||3||||||||||||
-||Seminar Sozialpsychologie1|||||2||||4||||||||||||
-||Vorlesung Sozialpsychologie,<br>Teil 21|2|||||||||3|||||||||||
-|||||||||||||||||||||||
-|**M9 Differentielle und**<br>**Persönlichkeits-**<br>**psychologie**|Vorlesung Differentielle und<br>Persönlichkeitspsychologie,<br>Teil 11|2||||||||||3||||||||100% Klausur<br>(60 Minuten) und<br>0 % Referat|<br>1|
-||Vl Diffill d|||||||||||||||||||||
-||oresung erentee un<br>Pölihkihli|2|||||10||||||3|||||||(max. 30 Minuten)||
-||ersncetspsycooge,<br>|||||||||||||||||||mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)||
-||Teil 21|||||||||||||||||||||
-||Seminar zur Persönlichkeits-<br>psychologie1|||||2|||||||4|||||||||
-|**M10 Grundlagen der**<br>**psychologischen**<br>**Diagnostik**|Vorlesung Testtheorie (Test-<br>undMesstheorie)1|||||||||||||||||||100 % Klausur<br>(60 Minuten),<br>0 % Individual-<br>diagnostisches<br>Gespräch<br>(60 Minuten) mit<br>schriftlich aus-<br>gearbeiteter|<br>1|
-|||2||||||||||||3||||||||
-||Vorlesung Einführung in die<br>Diagnostik1|2|||||||||||||3|||||||
-||Hauptseminar Exploration1|||||2||||||||5||||||||
-|||||||||||||||||||||||
-||||||||15|||||||||||||<br>Auswertung||
-|||||||||||||||||||||(max. 15 Seiten)<br>und 0 % Test-<br>durchführung,<br>-auswertung, und<br>-befundung,<br>schriftlich ausge-<br>arbeitet<br>(max. 15 Seiten)||
-||Hauptseminar Testdiagnostik1|||||2|||||||||4|||||||
-|**M11 Grundlagen der**<br>**Medizin**|Vorlesung Grundlagen der<br>Medizin1|2||||||||||||||3|||||1|
-|||||||||||||||||||||Klausur<br>(60 Minuten)||
-||||||||5|||||||||||||||
-|||||||||||||||||||||||
-||Vorlesung Grundlagen der<br>Pharmakotherapie1|2|||||||||||2|||||||||
-|**M12 Klinische**|Proseminar Psychische||||2||10|||||||3||||||Klausur|1|
+||||**SWS**|**Gesamt**||**Workload-V**|**erteilu**|**ng pro S**|**emeste**|**r in ECT**|**S-Punkten**||**Art und**<br>|**Faktor**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||<br>**ECTS**<br>1.|2.|3.<br>4.|5.|6.|7.|8.|9.<br>10.|11.<br>12.|**Umfang der**<br>|**Modul-**<br>|
+|||V<br>|Ü<br>P<br>PS<br>S|Sem.|Sem.|Sem.<br>Sem.|Sem.|Sem.|Sem.|Sem.|Sem.<br>Sem.|Sem.<br>Sem.|**Prüfung**|**note**|
+||psychologie, Teil 2<sup>1</sup>||||||||||||(max. 30 Minuten)<br>mit schriftlicher||
+||Seminar Entwicklungspsycho-<br>logie<sup>1</sup>||2|||4|||||||Ausarbeitung<br>(max. 15 Seiten)||
+||Vorlesung Sozialpsychologie,<br>Teil 1<sup>1</sup>|2||||3|||||||100 % Klausur<br>(60 Minuten) und<br>||
+|**M8 Sozialpsycho-**<br>**loie**|Seminar Sozialpsychologie<sup>1</sup>||2|10||4|||||||0 % Referat<br>(max. 15 Minuten)|<br>1|
+|**g**|Vorlesung Sozialpsychologie,<br>Teil 2<sup>1</sup>|2||||3|||||||mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)||
+|**M9 Diffill d**|Vorlesung Differentielle und<br>Persönlichkeitspsychologie,<br>Teil 1<sup>1</sup>|2|||||3||||||100% Klausur<br>(60 Minuten) und<br>||
+|**erentee un**<br>**Persönlichkeits-**<br>**psychologie**|Vorlesung Differentielle und<br>Persönlichkeitspsychologie,<br>Teil 2<sup>1</sup>|2||10||||3|||||0 % Referat<br>(max. 30 Minuten)<br>mit schriftlicher<br>Ausarbeitung|<br>1|
+||Seminar zur Persönlichkeits-<br>psychologie<sup>1</sup>||2|||||4|||||<br>(max. 15 Seiten)||
+||Vorlesung Testtheorie (Test-<br>undMesstheorie)<sup>1</sup>|2|||||||3||||100 % Klausur<br>(60 Minuten),<br>||
+||Vorlesung Einführung in die<br>Diagnostik<sup>1</sup>|2||||||||3|||0 % Individual-<br>diagnostisches<br>h||
+||Hauptseminar Exploration<sup>1</sup>||2||||||5||||Gespräc<br>(60 Minuten) mit<br>||
+|**M10 Grundlagen der**<br>**psychologischen**<br>**Diagnostik**|Hauptseminar Testdiagnostik<sup>1</sup>||2|15||||||4|||schriftlich aus-<br>gearbeiteter<br>Auswertung<br>(max. 15 Seiten)<br>und 0 % Test-<br>durchführung,<br>-auswertung, und<br>-befundung,<br>schriftlich ausge-<br>arbeitet<br>(max. 15 Seiten)|<br>1|
+|**M11 Grundlagen der**|Vorlesung Grundlagen der<br>Medizin<sup>1</sup>|2||5|||||||3||Klausur|1|
+|**Medizin**|Vorlesung Grundlagen der<br>Pharmakotherapie<sup>1</sup>|2||||||2|||||(60 Minuten)||
+|**M12 Klinische**|Proseminar Psychische||2|10|||||3||||Klausur|1|
 
 12 
 
-|**Modulbezeichnung**||||||||||**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|||**Art und**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung**|**SWS**|||||**Gesamt**<br>**ECTS**|1|2|3|4|5|6|7|8|9|10|11|12|<br>**Umfang der**||
-|||||||||.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|**Prüfung**||
-|||V|Ü|P|PS|S||||||||||||||||
-|**Psychologie I**|Störungen, Teil 11|||||||||||||||||||(90 Minuten)||
-||Proseminar Psychische<br>Störungen,Teil 21||||2||||||||||3|||||||
-||Hauptseminar Psychische<br>Störungen1|||||2||||||||4||||||||
-|**M13 Klinische**<br>**Psychologie II**|Proseminar Verfahrenslehre1||||2||10|||||||||3|||||1|
-||Proseminar Prävention,<br>Rehabilitation, Berufsethik||||2|||||||||||||||||
-||||||||||||||||||3|||Klausur<br>||
-||undBerufsrecht1|||||||||||||||||||(90 Minuten)||
-||Hauptseminar Verfahrens-<br>lehre1|||||2|||||||||||4|||||
-|**M14 Arbeits- und**<br>**Organisations-**<br>**psychologie**|Proseminar Arbeitspsycho-<br>logie|||||||||||||||||||100 % Klausur<br>(90 Minuten) und<br>0 % Referat|<br> <br>1|
-||||||2||||||||3|||||||||
-||Proseminar Organisations-|||||||||||||||||||||
-||<br>psychologie||||2||10|||||||||3||||(max. 30 Minuten)<br>||
-|||||||||||||||||||||mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)||
-||Seminar Arbeits- und<br>Organisationspsychologie1|||||2||||||||||4||||||
-|**M15 Pädagogische**<br>**Psychologie I**|Vorlesung Pädagogische|2|||||||||||||||||||<br>2|
-||||||||5||||||||5|||||Mündliche Prüfung<br>(20 Minten)||
-||Psychologie1|||||||||||||||||||||
-|||||||||||||||||||||u||
-|**M16 Pädagogische**<br>**Psychologie II**|Seminar Pädagogische<br>Psychologie1|||||||||||||||||||Referat<br>(max. 45 Minuten)|<br>0|
-|||||||2|5|||||||||||5||<br>mit schriftlicher||
-|||||||||||||||||||||Ausarbeitung<br>(max. 15 Seiten)||
-|**M17 Ergänzungs-**<br>**bereich (wahlweise**<br>**entweder Modul 17a**<br>**oder Modul 17b+c)**|Wird durch die gewählten<br>Mdl d Eä|||||||||||||||||||Wird durch die|<br>0|
-||||||||10||||||||||5||5|gewählten Module<br>der Ergänzungs-||
-||oue er rgnzungs-<br>|||||||||||||||||||||
-||fächer definiert1|||||||||||||||||||<br>fächer definiert||
-|**M18 Forschungsorien-**<br>**tiertes Praktikum I**|<br>Praktikum zur Feldforschung<br>ikl ü||||||||||||||||||||<br>0|
-|||||4|||5||5|||||||||||Forschungsbericht<br>20 Sit||
-||n. computergesttzte<br>Dtl1|||||||||||||||||||||
-|||||||||||||||||||||(max.  een)||
-||aenanayse|||||||||||||||||||||
-|**M19 Forschungsorien-**<br>**tiertes Praktikum II**|<br>Praktikum zur Experimental-<br>fh ikl||||||||||||||||||||<br>0|
-|||||4|||5|||||5||||||||Forschungsbericht<br>20 Sit||
-||orscung n. computer-<br>tüttDtl1|||||||||||||||||||||
-|||||||||||||||||||||(max.  een)||
-||gesze aenanayse|||||||||||||||||||||
-|**M20 Berufsqualifi-**<br>**zierende Tätigkeit I**|Versuchspersonenstunden||||||15|||||||||||1||Schriftlicher<br>Abhlbih|0|
-||Orientierungspraktikum<br>(4 Wochenextern)1||||||||||||||||5,5|||||
-||Berufsqualifizierende Tätig-<br>keit I (240h – 6 Wochen) in<br>Praxisfeldernder Psycho-|||||||||||||||||8,5||scusserct<br>(20 - 30 Seiten)||
+|||**SW**|**S**|**Gesamt**|||**Workload-**|**Verteilu**|**ng pro S**|**emeste**|**r in ECT**|**S-Punkten**||**Art und**<br>|**Faktor**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnung**|**Lehrveranstaltung**|||<br>**ECTS**|1.|2.|3.<br>4.|5.|6.|7.|8.|9.<br>10.|11.<br>12.|**Umfang der**<br>|**Modul-**<br>|
+|||V<br>Ü<br>P|PS<br>S||Sem.|Sem.|Sem.<br>Sem.|Sem.|Sem.|Sem.|Sem.|Sem.<br>Sem.|Sem.<br>Sem.|**Prüfung**<br>|**note**|
+|**Psychologie I**|Störungen, Teil 1<sup>1</sup>|<br><br>||||||||||||(90 Minuten)||
+||Proseminar Psychische<br>Störungen,Teil 2<sup>1</sup>||2||||||||3|||||
+||Hauptseminar Psychische<br>Störungen<sup>1</sup>||2|||||||4||||||
+||Proseminar Verfahrenslehre<sup>1</sup>||2|||||||||3||||
+|**M13 Klinische**<br>**Psychologie II**|Proseminar Prävention,<br>Rehabilitation, Berufsethik<br>undBerufsrecht<sup>1</sup>||2|10||||||||3||Klausur<br>(90 Minuten)|1|
+||Hauptseminar Verfahrens-<br>lehre<sup>1</sup>||2|||||||||4||||
+||Proseminar Arbeitspsycho-<br>logie||2||||||3|||||100 % Klausur<br>(90 Minuten) und||
+|**M14 Arbeits- und**<br>**Organisations-**<br>|Proseminar Organisations-<br>psychologie||2|10||||||||3||0 % Referat<br>(max. 30 Minuten)<br>|<br>1|
+|**psychologie**|Seminar Arbeits- und<br>Organisationspsychologie<sup>1</sup>||2|||||||||4||mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)||
+|**M15 Pädagogische**<br>**Psychologie I**|Vorlesung Pädagogische<br>Psychologie<sup>1</sup>|2||5|||||||5|||Mündliche Prüfung<br>(20 Minuten)|<br>2|
+|**M16 Pädagogische**<br>**Psychologie II**|Seminar Pädagogische<br>Psychologie<sup>1</sup>||2|5|||||||||5|Referat<br>(max. 45 Minuten)<br>mit schriftlicher<br>Ausarbeitung<br>(max. 15 Seiten)|<br>0|
+|**M17 Ergänzungs-**<br>**bereich (wahlweise**<br>**entweder Modul 17a**<br>**oder Modul 17b+c)**|Wird durch die gewählten<br>Module der Ergänzungs-<br>fächer definiert<sup>1</sup>|||10||||||||5|5|Wird durch die<br>gewählten Module<br>der Ergänzungs-<br>fächer definiert|<br>0|
+|**M18 Forschungsorien**<br>**tiertes Praktikum I**|**-**<br>Praktikum zur Feldforschung<br>inkl. computergestützte<br>Datenanalyse<sup>1</sup>|4||5||5||||||||Forschungsbericht<br>(max. 20 Seiten)|<br>0|
+|**M19 Forschungsorien**<br>**tiertes Praktikum II**|**-**<br>Praktikum zur Experimental-<br>forschung inkl. computer-<br>gestützteDatenanalyse<sup>1</sup>|4||5||||5||||||Forschungsbericht<br>(max. 20 Seiten)|<br>0|
+||Versuchspersonenstunden||||||||||||1|||
+|**M20 Berufsqualifi-**<br>|Orientierungspraktikum<br>(4 Wochenextern)<sup>1</sup>|||15||||||||5,5||Schriftlicher<br>Abschlussbericht|0|
+|**zierende Tätigkeit I**|Berufsqualifizierende Tätig-<br>keit I (240h – 6 Wochen) in<br>Praxisfeldernder Psycho-||||||||||||8,5|<br>(20 - 30 Seiten)||
 
 13 
 
-|**Modulbezeichnung**||||||||**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und**|**Faktor**<br>**Modul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||**Lehrveranstaltung**|**SWS**|||||**Gesamt**<br>**ECTS**|1|2|3|4|5|6|7|8|9|10|11|12|<br>**Umfang der**||
-|||||||||.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|.<br>Sem.|**Prüfung**||
-|||V|Ü|P|PS|S||||||||||||||||
-||therapie1|||||||||||||||||||||
-|**M21 Wissenschaft-**<br>**liche Praxis**|Kolloquium|||||2|1|||||||||||05|||1|
-|||||||||||||||||||,||Bachelorarbeit<br>(40 Seiten)||
-||Bachelorarbeit||||||0|||||||||||||||
-||||||||||||||||||||9,5|||
-|||40|5|8|18|26|180|13|17|17|13|15|15|15|15|13|17,5|15|14,5|||
-|||Summe 97||||||Summe 180||||||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**|**SWS**<br>V<br>Ü<br>P<br>PS<br>S|**Gesamt**<br>**ECTS**|1.<br>Sem.|2.<br>Sem.|**Wor**<br>3.<br>Sem.|**kload-V**<br>4.<br>Sem.|**erteilun**<br>5.<br>Sem.|**g pro**<br>6.<br>Sem.|**Semeste**<br> <br>7.<br>Sem.|**r in ECTS-Punkten**<br>8.<br>Sem.<br>9.<br>Sem.<br>10.<br>Sem.|11.<br>Sem.<br>12.<br>Sem.|**Art und**<br>**Umfang der**<br>**Prüfung**|**Faktor**<br>**Modul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||therapie<sup>1</sup>||||||||||||||
+|**M21 Wissenschaft-**|Kolloquium|2|10|||||||||0,5|Bachelorarbeit|1|
+|**liche Praxis**|Bachelorarbeit|||||||||||9,5|(40 Seiten)||
+|||40<br>5<br>8<br>18<br>26|180|13|17|17|13|15|15|15|15<br>13<br>17,5|15<br>14,5|||
+|||Summe 97|||||||Sum|me 180|||||
 
 1 Es besteht Anwesenheitspflicht“ 
 
 25. In **Anlage 4** werden in der Tabelle 1 „ **2. Psychologie als Nebenfach (10 ECTS)** “ die Zeilen 5 „Allgemeine Psychologie I (Nebenfach)“ bis 7 „Biologische Psychologie (Nebenfach)“ wie folgt neu gefasst: 
 
-## „ 
+# <u>„</u> 
 
-|„||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Allgemeine Psychologie I (Nebenfach)|VorlesungAllgemeine Psychologie I||2||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-||Proseminar Allgemeine Psychologie I|||||2||2,5||
-|Allgemeine Psychologie II (Nebenfach)|VorlesungAllgemeine Psychologie II||2||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-||Proseminar Allgemeine Psychologie II|||||2||2,5||
-|Biologische Psychologie (Nebenfach)|VorlesungBiologische Psychologie||2||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-||Proseminar Biologische Psychologie|||||2||2,5||
+||VorlesungAllgemeine Psychologie I|2|5<br>2,5|Klausur (30-90 Min.) oder<br>üdlih Püf 20 Mi|
+|---|---|---|---|---|
+|Allgemeine Psychologie I (Nebenfach)|Proseminar Allgemeine Psychologie I|2|()<br>2,5|mnce rung ( n.)<br>(100 %)<sup>1</sup>|
+||VorlesungAllgemeine Psychologie II|2|5<br>2,5|Klausur (30-90 Min.) oder<br>üdlih Püf 20 Mi|
+|Allgemeine Psychologie II (Nebenfach)|Proseminar Allgemeine Psychologie II|2|()<br>2,5|mnce rung ( n.)<br>(100 %)<sup>1</sup>|
+||VorlesungBiologische Psychologie|2|<br>2,5|Klausur (30-90 Min.) oder<br>dlih Pf 20 Mi|
+|Biologische Psychologie (Nebenfach)|Proseminar Biologische Psychologie|2|(5)<br>2,5|münce rüung ( n.)<br>(100 %)<sup>1</sup>|
 
 “ 
 
-## 26. **Anlage 4** Tabelle 2 „ **2. Psychologie als Nebenfach für Informatik (15 ECTS)** “ wird wie folgt geändert: 
+# 26. **Anlage 4** Tabelle 2 „ **2. Psychologie als Nebenfach für Informatik (15 ECTS)** “ wird wie folgt geändert: 
 
 a) Die Zeilen 5 „Allgemeine Psychologie I (Nebenfach)“ bis 7 „Biologische Psychologie (Nebenfach)“ werden wie folgt neu gefasst: 
 
-## „ 
+# <u>„</u> 
 
-|Allgemeine Psychologie I (Nebenfach)|Vorlesung Allgemeine Psychologie I||2|||||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Proseminar Allgemeine Psychologie I||||||||2||2,5||
+|Allgemeine Psychologie I (Nebenfach)|Vorlesung Allgemeine Psychologie I<br>Proseminar Allgemeine Psychologie I|2<br>(5)<br>2|2,5<br>2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)<sup>1</sup>|
+|---|---|---|---|---|
 
 14 
 
-|Allgemeine Psychologie II (Nebenfach)|Vorlesung Allgemeine Psychologie II||2|||||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Proseminar Allgemeine Psychologie II||||||||2||2,5||
-|Biologische Psychologie (Nebenfach)|Vorlesung Biologische Psychologie||2|||||||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|
-||Proseminar Biologische Psychologie||||||||2||2,5||
+|Allgemeine Psychologie II (Nebenfach)|Vorlesung Allgemeine Psychologie II<br>Proseminar Allgemeine Psychologie II|2|2|(5)|2,5<br>2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)<sup>1</sup>|
+|---|---|---|---|---|---|---|
+|Bilih Phli Nfh|Vorlesung Biologische Psychologie|2||(5)|2,5|Klausur (30-90 Min.) oder<br>mündliche Prüfun (20 Min)|
+|oogsce sycooge (ebenac)|Proseminar Biologische Psychologie||2||2,5|g  .<br>(100 %)<sup>1</sup>|
 
 “ 
 
@@ -501,20 +445,18 @@ a) Die Zeilen 5 „Allgemeine Psychologie I (Nebenfach)“ bis 7 „Biologische 
 
 - d) Nach Zeile 13 (Klinische Psychologie II (Nebenfach)) wird folgende neue Zeile 14 eingefügt: 
 
-## „ 
+# <u>„</u> 
 
-|„||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Klinische Psychologie III (Nebenfach)|Proseminar Verfahrenslehre|||||(4)|4|Klausur (30-90 Min.) oder<br>mündliche Prüfung (20 Min.)<br>(100 %)1|1|
-|“||||||||||
+<!-- Start of picture text -->
+Klausur (30-90 Min.) oder<br>Klinische Psychologie III (Nebenfach)  Proseminar Verfahrenslehre  (4)  4  mündliche Prüfung (20 Min.)  1<br>(100 %) 1<br>“<br><!-- End of picture text -->
 
-## 27. Das Inhaltsverzeichnis wird angepasst. 
+# 27. Das Inhaltsverzeichnis wird angepasst. 
 
 15 
 
-## **§ 2** 
+# **§ 2** 
 
-1Die siebte Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[ 3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Sommersemester 2025 angeboten[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab. 
+1Die siebte Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Sommersemester 2025 angeboten<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studienund Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. Juli 2020 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 11. September 2020. 
 

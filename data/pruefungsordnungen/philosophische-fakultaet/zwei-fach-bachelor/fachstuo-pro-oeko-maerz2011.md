@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 09.03.2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Oeko.MAERZ2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:09:07+00:00
-page_count_chars: 11841
+scraped_at: 2026-07-01T10:26:48+00:00
+page_count_chars: 11861
 ---
 
 # PDF vom 05.10.2007 i.d.F. 09.03.2011
@@ -16,7 +16,7 @@ page_count_chars: 11841
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Ökonomie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -42,7 +42,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Ökonomie kann im Bachelorstudiengang als erstes Fach mit einem Umfang 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTSPunkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Ökonomie erwerben die Studierenden grundlegende Fachkenntnisse der Wirtschaftswissenschaft, einschließlich der entsprechenden Methoden.[2] Der Studiengang bereitet auf berufliche Tätigkeit in Industrie- und Dienstleistungsunternehmen, Verwaltung, Verbänden und Parteien vor.[3] Durch die Verbindung von wesentlichen Grundkenntnissen der Betriebs- und Volkswirtschaftslehre werden, in Kombination mit einem zweiten Fach, die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
+(2)<sup>1</sup> Im Fach Ökonomie erwerben die Studierenden grundlegende Fachkenntnisse der Wirtschaftswissenschaft, einschließlich der entsprechenden Methoden.<sup>2</sup> Der Studiengang bereitet auf berufliche Tätigkeit in Industrie- und Dienstleistungsunternehmen, Verwaltung, Verbänden und Parteien vor.<sup>3</sup> Durch die Verbindung von wesentlichen Grundkenntnissen der Betriebs- und Volkswirtschaftslehre werden, in Kombination mit einem zweiten Fach, die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
 
 (3) Im Studium Ökonomie im Bachelorstudiengang sollen die Grundlagen für eine fachwissenschaftliche Ausbildung gelegt werden, welche die Studierenden zur fundierten Analyse ökonomischer Sachzusammenhänge und zur kritischen Reflexion 
 
@@ -70,7 +70,7 @@ der Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft
 
 ## **§ 3 Fächerkombinationen** 
 
-(1)[1] Beim Studium des Faches Ökonomie handelt es sich um ein Fach, welches ausschließlich in Ergänzung mit anderen Studienfächern angeboten wird.[2] Das Fach Ökonomie stellt vor diesem Hintergrund kein allein stehendes und vollständiges wirtschaftswissenschaftliches Studium dar.[3] Es ergeben sich jedoch zahlreiche attraktive Studienoptionen durch eine interdisziplinäre Kombination von Ökonomie mit anderen Fächern der Philosophischen Fakultät.[4] So erlaubt eine Kombination von Ökonomie mit Soziologie und Politikwissenschaft eine breite Fundierung der Ausbildung in den modernen Sozialwissenschaften.[5] Die Verbindung von Ökonomie und Philosophie ermöglicht die Thematisierung von wirtschafts- und unternehmensethischen Fragestellungen.[6] Die Kombination von Ökonomie mit Regionalstudien ermöglicht eine tief greifende Analyse politischer, kultureller und wirtschaftlicher Besonderheiten verschiedener Regionen. 
+(1)<sup>1</sup> Beim Studium des Faches Ökonomie handelt es sich um ein Fach, welches ausschließlich in Ergänzung mit anderen Studienfächern angeboten wird.<sup>2</sup> Das Fach Ökonomie stellt vor diesem Hintergrund kein allein stehendes und vollständiges wirtschaftswissenschaftliches Studium dar.<sup>3</sup> Es ergeben sich jedoch zahlreiche attraktive Studienoptionen durch eine interdisziplinäre Kombination von Ökonomie mit anderen Fächern der Philosophischen Fakultät.<sup>4</sup> So erlaubt eine Kombination von Ökonomie mit Soziologie und Politikwissenschaft eine breite Fundierung der Ausbildung in den modernen Sozialwissenschaften.<sup>5</sup> Die Verbindung von Ökonomie und Philosophie ermöglicht die Thematisierung von wirtschafts- und unternehmensethischen Fragestellungen.<sup>6</sup> Die Kombination von Ökonomie mit Regionalstudien ermöglicht eine tief greifende Analyse politischer, kultureller und wirtschaftlicher Besonderheiten verschiedener Regionen. 
 
 (2) Hinsichtlich der Studierfähigkeit wird empfohlen, das Fach Ökonomie mit folgenden Fächern zu kombinieren: 
 
@@ -108,51 +108,50 @@ der Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft
 
 16. Mittel- und Neulatein 
 
-17. Griechische Philologie 
-
-18. Frankoromanistik 
+17. Griechische Philologie 18. Frankoromanistik 
 
 ## (3) Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium Ökonomie sind folgende Module erfolgreich abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-|**Fach-**<br>**semester1**|**Modul**|**SWS**|**Leistungs-**<br>**punkte**|**Prüfungs-**<br>**leistung**|**Zulassungs-**<br>**voraussetzung**|
+## <u>(1) Im Studium Ökonomie sind folgende Module erfolgreich abzulegen:</u> 
+
+|**Fach-**<br>**semester**<sup>**1**</sup>|**Modul**|**SWS**|**Leistungs-**<br>**punkte**|**Prüfungs-**<br>**leistung**|**Zulassungs-**<br>**voraussetzung**|
 |---|---|---|---|---|---|
-|1|Betriebswirtschaftslehre I|4|5,0|Klausur<br>90 Min.||
-||Einführung in die Volkswirtschaftslehre|3|5,0|Klausur<br>90 Min.|Erfolgreiche Teilnahme<br>an computerbasierten<br>Tests|
-|2|Betriebswirtschaftslehre II|4|5,0|Klausur<br>90 Min.||
-||Mikroökonomie|3|5,0|Klausur<br>90 Min.|Erfolgreiche Teilnahme<br>an computerbasierten<br>Tests|
+||Betriebswirtschaftslehre I|4|5,0|Klausur<br>90 Min.||
+|1|Einführung in die Volkswirtschaftslehre|3|5,0|Klausur<br>90 Min.|Erfolgreiche Teilnahme<br>an computerbasierten<br>Tests|
+||Betriebswirtschaftslehre II|4|5,0|Klausur<br>90 Min.||
+|2|Mikroökonomie|3|5,0|Klausur<br>90 Min.|Erfolgreiche Teilnahme<br>an computerbasierten<br>Tests|
 |3|Makroökonomie|3|5,0|Klausur<br>90 Min.|Erfolgreiche Teilnahme<br>an computerbasierten<br>Tests|
 ||Betriebliches Rechnungswesen I|3|5,0|Klausur<br>60 Min.||
-|4|Sozialpolitik|3|5,0|Klausur<br>60 Min.|Einführung in die<br>Volkswirtschaftslehre|
-||Betriebliches Rechungswesen II|3|5,0|Klausur<br>60 Min.||
+||Sozialpolitik|3|5,0|Klausur<br>60 Min.|Einführung in die<br>Volkswirtschaftslehre|
+|4|Betriebliches Rechungswesen II|3|5,0|Klausur<br>60 Min.||
 ||Statistik|4|5,0|Klausur<br>90 Min.||
-|5|Volkswirtschaftliches Proseminar|2|5,0|Hausarbeit<br>(40 %), Vor-<br>trag (20 %),<br>Klausur 60<br>Min.(40%)|Einführung in die<br>Volkswirtschaftslehre,<br>Mikroökonomie,<br>Makroökonomie|
-||Recht f. Wirtschaftswissenschaftler I|3|5,0|Klausur<br>90 Min.||
+||Volkswirtschaftliches Proseminar|2|5,0|Hausarbeit<br>(40 %), Vor-<br>trag (20 %),<br>Klausur 60<br>Min.(40%)|Einführung in die<br>Volkswirtschaftslehre,<br>Mikroökonomie,<br>Makroökonomie|
+|5|Recht f. Wirtschaftswissenschaftler I|3|5,0|Klausur<br>90 Min.||
 ||Wahlweise:<br>Betriebswirtschaftslehre III (Bilanzie-|3<br>3|5,0<br>5,0|Klausur<br>60 Min.<br>Klausur||
 
 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
 3 
 
-|**Fach-**<br>**semester1**|**Modul**|**SWS**|**Leistungs-**<br>**punkte**|**Prüfungs-**<br>**leistung**|**Zulassungs-**<br>**voraussetzung**|
+|**Fach-**<br>**semester**<sup>**1**</sup>|**Modul**|**SWS**|**Leistungs-**<br>**punkte**|**Prüfungs-**<br>**leistung**|**Zulassungs-**<br>**voraussetzung**|
 |---|---|---|---|---|---|
 ||rung) oder Strategisches Management|||60 Min.||
-|6|Recht f. Wirtschaftswissenschaftler II|3|5,0|Klausur<br>90 Min.||
-||Wahlweise:<br>Wirtschaftspolitik oder<br>Praxis der empirischen Wirtschafts-<br>forschung|3<br>4|5,0<br>5,0|Klausur<br>60 Min.<br>Klausur<br>90 Min.|Einführung in die<br>Volkswirtschaftslehre,<br>Mikroökonomie,<br>Makroökonomie<br>Statistik|
+||Recht f. Wirtschaftswissenschaftler II|3|5,0|Klausur<br>90 Min.||
+|6|Wahlweise:<br>Wirtschaftspolitik oder<br>Praxis der empirischen Wirtschafts-<br>forschung|3<br>4|5,0<br>5,0|Klausur<br>60 Min.<br>Klausur<br>90 Min.|Einführung in die<br>Volkswirtschaftslehre,<br>Mikroökonomie,<br>Makroökonomie<br>Statistik|
 |Sem. 1-6|Summe der Leistungspunkte im Fach<br>Ökonomie||70|||
 |Sem. 1-6|Summe der Leistungspunkte im 2. Fach||70|||
 |Sem. 1-6|Berufsorientierte Schlüsselqualifikatio-<br>nen||30|||
 ||B.A.-Arbeit||10|||
 ||Summe der Leistungspunkte<br>||180<br>|||
 
-1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
+<u>1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung.</u> 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+## (2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan An- <u>wendung:</u> 
 
-|wendung:|||||||||
+||||**1**<br>|**2**<br>|**3**<br>|**4**<br>|**5**<br>|**6**<br>|
 |---|---|---|---|---|---|---|---|---|
-||||**1**|**2**|**3**|**4**|**5**|**6**|
 |**Modul**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
 |**Betriebswirtschaftslehre I**|||||||||
 |BetriebswirtschaftslehreI,VL|4|5|||||||
@@ -184,41 +183,37 @@ der Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft
 
 4 
 
-|**Volkswirtschaftliches Proseminar**|||||||||
-|---|---|---|---|---|---|---|---|---|
-|VolkswirtschaftlichesProseminar|2|5|||||||
-|**Recht für Wirtschaftswissenschaftler I**|||||||||
-|Rechtfür Wirtschaftswissenschaftler I,VL|2|5|||||||
-|Rechtfür Wirtschaftswissenschaftler I, Ü|1||||||||
-|**Betriebswirtschaftslehre III (Bilanzierung)**|||||||||
-|BetriebswirtschaftslehreIII(Bilanzierung),VL|2|5|||||||
-|BetriebswirtschaftslehreIII(Bilanzierung), Ü|1||||||||
-|**Strategisches Management**|||||||||
-|StrategischesManagement,VL|2|5|||||||
-|StrategischesManagement, Ü|1||||||||
-|**Recht für Wirtschaftswissenschaftler II**|||||||||
-|Bürgerliches Recht für Wirtschaftswissenschaftler II,<br>VL|2|5|||||||
-|BürgerlichesRechtfür Wirtschaftswissenschaftler II, Ü|1||||||||
-|**Wirtschaftspolitik**|||||||||
-|Wirtschaftspolitik,VL|2|5|||||||
-|Wirtschaftspolitik, Ü|1||||||||
-|**Praxix der empirischen Wirtschaftsforschung**|||||||||
-|Praxixderempirischen Wirtschaftsforschung,VL|2|5|||||||
-|Praxixderempirischen Wirtschaftsforschung, Ü|1||||||||
-|**Bachelorarbeit**|||||||||
-|Bachelorarbeit||10|||||||
+|**Volkswirtschaftliches Proseminar**|||
+|---|---|---|
+|VolkswirtschaftlichesProseminar|2|5|
+|**Recht für Wirtschaftswissenschaftler I**|||
+|Rechtfür Wirtschaftswissenschaftler I,VL<br>|2|5|
+|Rechtfür Wirtschaftswissenschaftler I, Ü|1||
+|**Betriebswirtschaftslehre III (Bilanzierung)**|||
+|BetriebswirtschaftslehreIII(Bilanzierung),VL|2|5|
+|BetriebswirtschaftslehreIII(Bilanzierung), Ü|1||
+|**Strategisches Management**|||
+|StrategischesManagement,VL|2|5|
+|StrategischesManagement, Ü|1||
+|**Recht für Wirtschaftswissenschaftler II**|||
+|Bürgerliches Recht für Wirtschaftswissenschaftler II,<br>VL|2|5|
+|BürgerlichesRechtfür Wirtschaftswissenschaftler II, Ü|1||
+|**Wirtschaftspolitik**|||
+|Wirtschaftspolitik,VL|2|5|
+|Wirtschaftspolitik, Ü|1||
+|**Praxix der empirischen Wirtschaftsforschung**|||
+|Praxixderempirischen Wirtschaftsforschung,VL|2|5|
+|Praxixderempirischen Wirtschaftsforschung, Ü|1||
+|**Bachelorarbeit**|||
+|Bachelorarbeit||10|
 
 Zum Bestehen der GOP müssen Module im Umfang von 20 ECTS-Punkten erfolgreich erbracht werden. Die erworbenen ECTS-Punkte aus dem Fach Ökonomie müssen zusammen mit den entsprechenden ECTS-Punkten aus dem weiteren Fach nach dem zweiten Semester in der Summe mindestens 40 ECTSPunkte ergeben. 
 
-(3)[1] Für das Studium der Ökonomie als Erstfach müssen Schlüsselqualifikationen im Umfang von 30 ECTS-Punkten erworben werden.[2] Empfohlen werden insbesondere Module zur Sprachausbildung, EDV-Ausbildung und Praktika.[3] Durch Praktika können maximal 10 ECTS erworben werden. 
+(3)<sup>1</sup> Für das Studium der Ökonomie als Erstfach müssen Schlüsselqualifikationen im Umfang von 30 ECTS-Punkten erworben werden.<sup>2</sup> Empfohlen werden insbesondere Module zur Sprachausbildung, EDV-Ausbildung und Praktika.<sup>3</sup> Durch Praktika können maximal 10 ECTS erworben werden. 
 
-## **§ 5 Grundlagen- und Orientierungsprüfung** 
+**§ 5 Grundlagen- und Orientierungsprüfung** 1Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Ökonomie Module im Umfang von 20 ECTS-Punkten erfolgreich erbracht werden.<sup>2</sup> Die erworbenen ECTS-Punkte aus dem Fach Ökonomie müssen zusammen mit den entsprechenden ECTS-Punkten aus dem weiteren Fach nach dem zweiten Semester in der Summe mindestens 40 ECTS-Punkte ergeben. 
 
-1Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen im Fach Ökonomie Module im Umfang von 20 ECTS-Punkten erfolgreich erbracht werden.[2] Die erworbenen ECTS-Punkte aus dem Fach Ökonomie müssen zusammen mit den entsprechenden ECTS-Punkten aus dem weiteren Fach nach dem zweiten Semester in der Summe mindestens 40 ECTS-Punkte ergeben. 
-
-## **§ 6 Schluss- und Übergangsvorschriften** 
-
-Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+**§ 6 Schluss- und Übergangsvorschriften** Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 5 
 

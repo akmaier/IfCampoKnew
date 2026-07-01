@@ -1,23 +1,23 @@
 ---
 kind: "fau-pruefungsordnung-landing"
-title: "Mathematik"
+title: "Mathematik und Data Science"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:55:17+00:00
+scraped_at: 2026-07-01T09:19:46+00:00
 ---
 
-# Mathematik
+# Mathematik und Data Science
 
 **Source:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
 ## Inhalt der Landing-Seite
 
-Wichtige Informationen zu Studien- und Prüfungsordnungen des Departments Mathematik:
+Wichtige Informationen zu Studien- und Prüfungsordnungen der Lehreinheit Mathematik und Data Science:
 
 ## Hinweis
 
 Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/nat/) für die Bachelor- und Masterstudiengänge an der Naturwissenschaftlichen Fakultät und die Fachstudien- und Prüfungsordnung Ihres Studiengangs!
 
-## Fachprüfungsordnungen der Studiengänge am Department Mathematik
+## Fachprüfungsordnungen der Studiengänge in der Lehreinheit Mathematik und Data Science
 
 ### Allgemeine Prüfungsordnung Data Science, Mathematik, Technomathematik und Wirtschaftsmathematik
 
@@ -54,7 +54,7 @@ Bitte beachten: Es gelten jeweils die [Allgemeine Studien- und Prüfungsordnung]
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
-| [FPODataScience 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf) | 546 KB |
+| [FPODataScience 20260305.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20260305.pdf) | 490 KB |
 | [FPODataScience 20200820 i.d.F. 20220328.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20220328.pdf) | 1.13 MB |
 | [FPODataScience 20200820 i.d.F. 20210805.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210805.pdf) | 977 KB |
 | [FPODataScience 20200820 i.d.F. 20210311.pdf](https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/konsolidierte_Fassungen/FPODataScience_20200820_idF_20210311.pdf) | 946 KB |

@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Bachelorstudiengänge"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-05-01T09:29:56+00:00
+scraped_at: 2026-07-01T10:44:45+00:00
 ---
 
 # Bachelorstudiengänge
@@ -23,12 +23,13 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [BSc International Business Studies FPO BSc IBS 20240807 i.d.F. 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20240807_idF_20260630.pdf) | 311 KB |
 | [BSc International Business Studies FPO BSc IBS 20240807.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20240807.pdf) | 246 KB |
 | [BSc International Business Studies FPO BSc IBS 20170810 i.d.F. 20230323.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20170810_idF_20230323.pdf) | 503 KB |
 | [BSc International Business Studies FPO BSc IBS 20170810 i.d.F. 20210806.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20170810_idF_20210806.pdf) | 505 KB |
 | [BSc International Business Studies FPO BSC IBS 20170810 i.d.F. 20200902.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSC_IBS_20170810_idF_20200902.pdf) | 500 KB |
-| [BA International Business Studies FPO BA IBS 20170810 i.d.F. 20190731.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BA_International_Business_Studies_FPO_BA_IBS_20170810_idF_20190731.pdf) | 471 KB |
-| [BA International Business Studies FPO BA IBS 20170810 i.d.F. 20180730.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BA_International_Business_Studies_FPO_BA_IBS_20170810_idF_20180730.pdf) | 303 KB |
+| [BSc International Business Studies FPO BA IBS 20170810 i.d.F. 20190731.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BA_IBS_20170810_idF_20190731.pdf) | 471 KB |
+| [BSc International Business Studies FPO BA IBS 20170810 i.d.F. 20180730.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BA_IBS_20170810_idF_20180730.pdf) | 303 KB |
 
 | englisch | Dateigröße |
 | --- | --- |
@@ -39,11 +40,12 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
-| [BSc International Business Studies FPO BSc IBS 20230323 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_FPO_BSc_IBS_20230323_AeS.pdf) | 379 KB |
-| [BSc International Business Studies FPO BSc IBS 20210806 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_FPO_BSc_IBS_20210806_AeS.pdf) | 386 KB |
-| [BA International Business Studies FPO BA IBS 20200902 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20200902_AeS.pdf) | 319 KB |
-| [BA International Business Studies FPO BA IBS 20190731 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20190731_AeS.pdf) | 378 KB |
-| [BA International Business Studies FPO BA IBS 20180730 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20180730_AeS.pdf) | 212 KB |
+| [BSc International Business Studies ÄSa 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20260630.pdf) | 235 KB |
+| [BSc International Business Studies ÄSa 20230323.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20230323.pdf) | 379 KB |
+| [BSc International Business Studies ÄSa 20210806.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20210806.pdf) | 386 KB |
+| [BSc International Business Studies ÄSa 20200902.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20200902.pdf) | 319 KB |
+| [BSc International Business Studies ÄSa 20190731.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20190731.pdf) | 378 KB |
+| [BSc International Business Studies ÄSa 20180730.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20180730.pdf) | 212 KB |
 
 | **Änderungssatzung/Datum** | **Konsolidierte Fassung/Datum** | **English version as amended on** |
 | --- | --- | --- |
@@ -54,6 +56,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 
 | konsolidierte Fassungen | Dateigröße |
 | --- | --- |
+| [BSc International Economic Studies FPO BSc IES 20240807 i.d.F. 20260630.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20240807_idF_20260630.pdf) | 316 KB |
 | [BSc International Economic Studies FPO BSc IES 20240807.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20240807.pdf) | 245 KB |
 | [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20230323.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20230323.pdf) | 503 KB |
 | [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20210806.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20210806.pdf) | 503 KB |
@@ -68,6 +71,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 
 | Änderungssatzungen | Dateigröße |
 | --- | --- |
+| [BSc International Economic Studies FPO Bsc IES 20260630 ÄSa.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_Bsc_IES_20260630_AeSa.pdf) | 199 KB |
 | [BSc International Economic Studies FPO BSc IES 20230323 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_BSc_IES_20230323_AeS.pdf) | 385 KB |
 | [BSc International Economic Studies FPO BSc IES 20210806 ÄS.pdf](https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_BSc_IES_20210806_AeS.pdf) | 379 KB |
 
@@ -160,24 +164,27 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 * [Sprachprüfungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/)
 * [Promotions-und Habilitationsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/promotions-und-habilitationsordnungen/)
 
-## Prüfungsordnungen-Dokumente (71)
+## Prüfungsordnungen-Dokumente (75)
 
+- [BSc International Business Studies FPO BSc IBS 20240807 i.d.F. 20260630.pdf](bsc-international-business-studies-fpo-bsc-ibs-20240807-idf-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20240807_idF_20260630.pdf>
 - [BSc International Business Studies FPO BSc IBS 20240807.pdf](bsc-international-business-studies-fpo-bsc-ibs-20240807.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20240807.pdf>
 - [BSc International Business Studies FPO BSc IBS 20170810 i.d.F. 20230323.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20230323.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20170810_idF_20230323.pdf>
 - [BSc International Business Studies FPO BSc IBS 20170810 i.d.F. 20210806.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20210806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSc_IBS_20170810_idF_20210806.pdf>
 - [BSc International Business Studies FPO BSC IBS 20170810 i.d.F. 20200902.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20200902.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BSC_IBS_20170810_idF_20200902.pdf>
-- [BA International Business Studies FPO BA IBS 20170810 i.d.F. 20190731.pdf](ba-international-business-studies-fpo-ba-ibs-20170810-idf-20190731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BA_International_Business_Studies_FPO_BA_IBS_20170810_idF_20190731.pdf>
-- [BA International Business Studies FPO BA IBS 20170810 i.d.F. 20180730.pdf](ba-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BA_International_Business_Studies_FPO_BA_IBS_20170810_idF_20180730.pdf>
+- [BSc International Business Studies FPO BA IBS 20170810 i.d.F. 20190731.pdf](bsc-international-business-studies-fpo-ba-ibs-20170810-idf-20190731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BA_IBS_20170810_idF_20190731.pdf>
+- [BSc International Business Studies FPO BA IBS 20170810 i.d.F. 20180730.pdf](bsc-international-business-studies-fpo-ba-ibs-20170810-idf-20180730.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/konsolidierte_Fassungen/BSc_International_Business_Studies_FPO_BA_IBS_20170810_idF_20180730.pdf>
 - [FPO MSc IBS 20240807 en.pdf](fpo-msc-ibs-20240807-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/englisch/FPO_MSc_IBS_20240807_en.pdf>
 - [BSc International Business Studies FPO BSc IBS 20170810 i.d.F. 20230323 en.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20230323-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/englisch/BSc_International_Business_Studies_FPO_BSc_IBS_20170810_idF_20230323_en.pdf>
 - [BSc International Business Studies FPO BSC IBS 20170810 i.d.F. 20210806 en.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20210806-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/englisch/BSc_International_Business_Studies_FPO_BSC_IBS_20170810_idF_20210806_en.pdf>
 - [BSc International Business Studies FPO BSC IBS 20170810 i.d.F. 20200902 en.pdf](bsc-international-business-studies-fpo-bsc-ibs-20170810-idf-20200902-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/englisch/BSc_International_Business_Studies_FPO_BSC_IBS_20170810_idF_20200902_en.pdf>
-- [BSc International Business Studies FPO BSc IBS 20230323 ÄS.pdf](bsc-international-business-studies-fpo-bsc-ibs-20230323-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_FPO_BSc_IBS_20230323_AeS.pdf>
-- [BSc International Business Studies FPO BSc IBS 20210806 ÄS.pdf](bsc-international-business-studies-fpo-bsc-ibs-20210806-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_FPO_BSc_IBS_20210806_AeS.pdf>
-- [BA International Business Studies FPO BA IBS 20200902 ÄS.pdf](ba-international-business-studies-fpo-ba-ibs-20200902-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20200902_AeS.pdf>
-- [BA International Business Studies FPO BA IBS 20190731 ÄS.pdf](ba-international-business-studies-fpo-ba-ibs-20190731-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20190731_AeS.pdf>
-- [BA International Business Studies FPO BA IBS 20180730 ÄS.pdf](ba-international-business-studies-fpo-ba-ibs-20180730-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BA_International_Business_Studies_FPO_BA_IBS_20180730_AeS.pdf>
+- [BSc International Business Studies ÄSa 20260630.pdf](bsc-international-business-studies-aesa-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20260630.pdf>
+- [BSc International Business Studies ÄSa 20230323.pdf](bsc-international-business-studies-aesa-20230323.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20230323.pdf>
+- [BSc International Business Studies ÄSa 20210806.pdf](bsc-international-business-studies-aesa-20210806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20210806.pdf>
+- [BSc International Business Studies ÄSa 20200902.pdf](bsc-international-business-studies-aesa-20200902.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20200902.pdf>
+- [BSc International Business Studies ÄSa 20190731.pdf](bsc-international-business-studies-aesa-20190731.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20190731.pdf>
+- [BSc International Business Studies ÄSa 20180730.pdf](bsc-international-business-studies-aesa-20180730.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Business_Studies/Aenderungssatzungen/BSc_International_Business_Studies_AeSa_20180730.pdf>
 - [PDF vom 10.08.2017](fpo-ba-ibs-aug2017.md) — Quelle: <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/FPO_BA-IBS_AUG2017.pdf>
+- [BSc International Economic Studies FPO BSc IES 20240807 i.d.F. 20260630.pdf](bsc-international-economic-studies-fpo-bsc-ies-20240807-idf-20260630.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20240807_idF_20260630.pdf>
 - [BSc International Economic Studies FPO BSc IES 20240807.pdf](bsc-international-economic-studies-fpo-bsc-ies-20240807.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20240807.pdf>
 - [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20230323.pdf](bsc-international-economic-studies-fpo-bsc-ies-20200902-idf-20230323.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20230323.pdf>
 - [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20210806.pdf](bsc-international-economic-studies-fpo-bsc-ies-20200902-idf-20210806.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20210806.pdf>
@@ -186,6 +193,7 @@ Es gelten jeweils die [Rahmenprüfungsordnung](https://www.fau.de/universitaet/u
 - [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20230323 en.pdf](bsc-international-economic-studies-fpo-bsc-ies-20200902-idf-20230323-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/englisch/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20230323_en.pdf>
 - [BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20210806 en.pdf](bsc-international-economic-studies-fpo-bsc-ies-20200902-idf-20210806-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/englisch/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20210806_en.pdf>
 - [BSc International Economic Studies FPO BSC IES 20200902 en.pdf](bsc-international-economic-studies-fpo-bsc-ies-20200902-en.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/englisch/BSc_International_Economic_Studies_FPO_BSC_IES_20200902_en.pdf>
+- [BSc International Economic Studies FPO Bsc IES 20260630 ÄSa.pdf](bsc-international-economic-studies-fpo-bsc-ies-20260630-aesa.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_Bsc_IES_20260630_AeSa.pdf>
 - [BSc International Economic Studies FPO BSc IES 20230323 ÄS.pdf](bsc-international-economic-studies-fpo-bsc-ies-20230323-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_BSc_IES_20230323_AeS.pdf>
 - [BSc International Economic Studies FPO BSc IES 20210806 ÄS.pdf](bsc-international-economic-studies-fpo-bsc-ies-20210806-aes.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/Aenderungssatzungen/BSc_International_Economic_Studies_FPO_BSc_IES_20210806_AeS.pdf>
 - [BA Sozialökonomik FPO BA SozÖk 20240807.pdf](ba-sozialoekonomik-fpo-ba-sozoek-20240807.md) — Quelle: <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/Sozialoekonomik/konsolidierte_Fassungen/BA_Sozialökonomik_FPO_BA_SozÖk_20240807.pdf>

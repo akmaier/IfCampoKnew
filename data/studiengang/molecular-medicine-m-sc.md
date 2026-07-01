@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-05-01T06:49:12+00:00
+scraped_at: 2026-07-01T08:26:05+00:00
 ---
 
 # Molecular Medicine (M.Sc.)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Orient.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:09:48+00:00
-page_count_chars: 9339
+scraped_at: 2026-07-01T10:27:23+00:00
+page_count_chars: 9342
 ---
 
 # PDF vom 05.10.2007
@@ -12,7 +12,7 @@ page_count_chars: 9339
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FW-Urfassungen/2Fach-BA/FachStuO+PrO%20Orient.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Orientalistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 5. Oktober 2007 
 
@@ -26,7 +26,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 - (1) Das Fach Orientalistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 80 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-- (2)[1] Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.[2] Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
+- (2)<sup>1</sup> Im Fach Orientalistik erwerben die Studierenden grundlegende Fachkenntnisse der Orientalistik einschließlich der in diesem Fach praktizierten Methoden sowie die Fähigkeit zu eigenständigem wissenschaftlichen Arbeiten als Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, vor allem im Bereich von Bildung, Wissenschaft, Kultur und Kulturpolitik.<sup>2</sup> Diese Kenntnisse und Fähigkeiten werden mit dem Bachelorabschluss nachgewiesen. 
 
 - (3) Im Studium der Orientalistik wird im Bachelorstudiengang eine fundierte fachwissenschaftliche Ausbildung gewährleistet, wobei insbesondere die sprachliche und argumentative Kompetenz zur Darstellung und Lösung kulturwissenschaftlicher Fragen in Bezug auf den Nahen Osten gefördert wird. 
 
@@ -64,13 +64,9 @@ senschaftliche Erfassung der nahöstlichen Welt von Bedeutung sind. Der Begriff 
 
    1. Geschichte 
 
-   2. Germanistik 
+   2. Germanistik 3. English and American Studies 
 
-   3. English and American Studies 
-
-   4. Philosophie 
-
-   5. Ökonomie 
+   4. Philosophie 5. Ökonomie 
 
    6. Indogermanistik 
 
@@ -98,9 +94,7 @@ senschaftliche Erfassung der nahöstlichen Welt von Bedeutung sind. Der Begriff 
 
    17. Mittellatein 
 
-   18. Griechische Philologie 
-
-   19. Frankoromanistik 
+   18. Griechische Philologie 19. Frankoromanistik 
 
 - (2) Auf Antrag der Studierenden kann der Prüfungsausschuss Ausnahmen von den in Abs. 1 genannten Kombinationen vorsehen; die Studierenden tragen selbst Verantwortung für die Studierbarkeit der Kombination. 
 
@@ -108,7 +102,7 @@ senschaftliche Erfassung der nahöstlichen Welt von Bedeutung sind. Der Begriff 
 
 - (1) Das Studium besteht aus Pflicht- und Wahlpflichtmodulen. 
 
-- (2)[1] Im Studium Orientalistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+- (2)<sup>1</sup> Im Studium Orientalistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
    1. Pflichtmodule: Arabisch 1-4; Einführung in die Orientalistik; Grundlagen der islamischen Kultur; Zweite Orientalische Sprache. 
 
@@ -116,9 +110,8 @@ senschaftliche Erfassung der nahöstlichen Welt von Bedeutung sind. Der Begriff 
 
    - 2Zum Studienaufbau und den Prüfungen vergl. die folgende Tabelle: 
 
-|||||||||
-|---|---|---|---|---|---|---|---|
 |**Semester**|**Module**||**Lehrveranstaltung**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|**ECTS**<br>**insges.**|
+|---|---|---|---|---|---|---|---|
 |1.|OR I|**Arabisch I**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
 |2.|OR II|**Arabisch II**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
 |3.|OR III|**Arabisch III**|Grammatik<br>Übung|2<br>4|4<br>6|gem.<br>Klausur|10|
@@ -132,13 +125,15 @@ senschaftliche Erfassung der nahöstlichen Welt von Bedeutung sind. Der Begriff 
 
 Wpm = Wahlpflichtmodul 
 
-- (3)[1] Im Studium der Orientalistik als zweitem Fach sind folgende Module erfolgreich abzulegen: 
+- (3)<sup>1</sup> Im Studium der Orientalistik als zweitem Fach sind folgende Module erfolgreich 
 
-   1. Module I-IV (Arabisch): 40 ECTS-Punkte. 
+abzulegen: 
 
-   2. Modul V (Einführung Orientalistik): 10 ECTS-Punkte. 
+1. Module I-IV (Arabisch): 40 ECTS-Punkte. 
 
-   3. Modul VI (Islamische Kultur): 10 ECTS-Punkte. 
+2. Modul V (Einführung Orientalistik): 10 ECTS-Punkte. 
+
+3. Modul VI (Islamische Kultur): 10 ECTS-Punkte. 
 
 3 
 

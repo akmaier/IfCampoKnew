@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:45:32+00:00
+scraped_at: 2026-07-01T08:22:13+00:00
 ---
 
 # Geowissenschaften (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:45:32+00:00
 
 In Bachelorstudiengang der Geowissenschaften befasst sich mit den Zusammenhängen und Wechselwirkungen des Systems Erde und all den zugehörigen Grundlagen. Dazu gehört neben der Theorie auch eine moderne Ausbildung in Labor- und Arbeitsmethoden und eine praktische Ausbildung im Gelände. Die ersten vier Semester studieren Sie nach einem vorgegebenen Kursplan, danach können Sie je nach Interesse Ihre eigenen Schwerpunkte wählen. Besonders im Fokus stehen die Klimaforschung, nachhaltige Ressourcenforschung, alternative und erneuerbare Energien, Entwicklung und Optimierung von Materialien, und Geodynamik und Evolutionsforschung.
 
-### Fachanteile des Studiengangs Geowissenschaften, B.Sc.
+### Fachanteile des Studiengangs Geowissenschaften (B.Sc.)
 
 * Geowissenschaften (40%)
 * Methoden (25%)

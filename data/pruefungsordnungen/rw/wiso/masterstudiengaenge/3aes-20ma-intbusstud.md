@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-IntBusStud.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:38:04+00:00
-page_count_chars: 6881
+scraped_at: 2026-07-01T11:03:12+00:00
+page_count_chars: 6825
 ---
 
 # 5. August 2011
@@ -12,21 +12,21 @@ page_count_chars: 6881
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/3AES%20MA-IntBusStud.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS -** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS -** 
 
 Vom 5. August 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS - vom 24. Juli 2009, zuletzt geändert durch Satzung vom 8. März 2011, wird wie folgt geändert: 
 
-## 1. § 3 Abs. 1 wird wie folgt geändert: 
+# 1. § 3 Abs. 1 wird wie folgt geändert: 
 
 - a) Satz 1 erhält folgende neue Fassung: 
 
-- „[1] Im ersten und zweiten Semester werden grundlegende Kenntnisse im Bereich International Business Studies in folgenden sieben Pflichtbereichen vertiefend vermittelt; aus diesen sind Module im Umfang von 60 ECTS-Punkten zu wählen: 
+- „<sup>1</sup> Im ersten und zweiten Semester werden grundlegende Kenntnisse im Bereich International Business Studies in folgenden sieben Pflichtbereichen vertiefend vermittelt; aus diesen sind Module im Umfang von 60 ECTS-Punkten zu wählen: 
 
 1. Enviroment of International Business 
 
@@ -44,7 +44,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang International B
 
 b) In Satz 2 Ziff. 2 wird das Wort “Romanic“ durch das Wort „Romance“ ersetzt. 
 
-## 2. Die Anlage wird wie folgt geändert: 
+# 2. Die Anlage wird wie folgt geändert: 
 
 - a) In Zeile 3 (Modul Core Courses) Spalte 1 wird folgender Klammerzusatz angefügt: „(60 ECTS out of 70 ECTS/60 ECTS aus 70 ECTS)“ 
 
@@ -52,12 +52,10 @@ b) In Satz 2 Ziff. 2 wird das Wort “Romanic“ durch das Wort „Romance“ er
 
 - c) Die Zeile 17 (Innovation and Leadership) erhält folgende Fassung: 
 
-„ 
+<u>„</u> 
 
-|||||||
-|---|---|---|---|---|---|
-|E-BusinessProjects andInnovation|5|5||||
-|||||||
+|E-BusinessProjects andInnovation|5<br>5<br>“|
+|---|---|
 
 - d) In Zeile 18 (E-Business Strategy and Networking) Spalte 2 (ECTS) wird die Zahl “2,5” durch die Zahl “5” ersetzt. 
 
@@ -67,12 +65,10 @@ b) In Satz 2 Ziff. 2 wird das Wort “Romanic“ durch das Wort „Romance“ er
 
 f) Nach Zeile 21 (neu) (Problem Solving and Communication) werden folgende Zeilen eingefügt: 
 
-„ 
-
-|Modulbereich: International Finance and<br>Corporate Governance|10|||||
-|---|---|---|---|---|---|
-|International Finance|5|5||||
-|InternationalCorporate Governance|5||5|||
+|„<br>Modulbereich: International Finance and<br>Corporate Governance|10|||
+|---|---|---|---|
+|International Finance|5|5||
+|InternationalCorporate Governance|5||5|
 
 “ 
 
@@ -82,9 +78,9 @@ f) Nach Zeile 21 (neu) (Problem Solving and Communication) werden folgende Zeile
 
 - i) Nach Zeile 31 (neu) (Issues in International Trade) wird folgende Zeile eingefügt: 
 
-- „ 
+- <u>„</u> 
 
-Issues in Area Studies 5 5 
+Issues in Area <u>Studies 5 5</u> 
 
 „ 
 
@@ -98,11 +94,11 @@ Issues in Area Studies 5 5
 
 - „ 
 
-|Romance CountriesI|5|||5||
-|---|---|---|---|---|---|
-|Romance CountriesII|5|||5||
-|Romance CountriesIII|5|||5||
-|Romance CountriesIV|5|||5||
+|Romance CountriesI|5|5|
+|---|---|---|
+|Romance CountriesII|5|5|
+|Romance CountriesIII|5|5|
+|Romance CountriesIV|5|5|
 
 „ 
 
@@ -116,7 +112,7 @@ Issues in Area Studies 5 5
 
 - „ 
 
-Perspectives on Management in Asia 5 5 
+Perspectives <u>on Management in Asia 5 5</u> 
 
 „ 
 
@@ -132,17 +128,16 @@ Perspectives on Management in Asia 5 5
 
 - v) Nach Zeile 53 (neu) wird folgende Zeile eingefügt: 
 
-|„|||||||
-|---|---|---|---|---|---|---|
-||EuropäischeMediensysteme und ÖffentlichkeitII|5|||5||
+|„<br>EuropäischeMediensysteme und ÖffentlichkeitII|5<br>5|
+|---|---|
 
    - „ 
 
 - w) Die Zeile 57 (Grundlagen der Internationalisierung von mittleren Weltmarktführern) erhält folgende Fassung: 
 
-- „ Internationalisierung mittelständischer Unternehmungen I 5 5 
+- „ Internationalisierung mittelständischer Unternehmungen I <u>5 5</u> 
 
-   - „ 
+„ 
 
 - x) In Zeile 58 (neu) Spalte 1 werden die Worte „Erfolgsstrategien mittlerer Weltmarktführer“ durch die Worte „Internationalisierung mittelständischer Unternehmungen II“ ersetzt. 
 
@@ -158,7 +153,7 @@ Perspectives on Management in Asia 5 5
 
 cc) In Fußnote ****) wird das Wort „Fachvertreter“ durch das Wort „Studiengangskoordinator“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2011/2012 aufnehmen. 
 

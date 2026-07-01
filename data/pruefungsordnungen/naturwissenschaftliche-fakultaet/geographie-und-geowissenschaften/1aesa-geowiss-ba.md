@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. August 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/1AeSa_Geowiss_BA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:42:26+00:00
-page_count_chars: 1938
+scraped_at: 2026-07-01T09:07:14+00:00
+page_count_chars: 1936
 ---
 
 # 5. August 2008
@@ -18,7 +18,7 @@ page_count_chars: 1938
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+**§ 1** 
 
 Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Geowissenschaften an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 1. Oktober 2007 wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ Die Prüfungsordnung für die Bachelor- und Masterstudiengänge Geowissenschafte
 
    - h) Die Zeile 21 wird ersatzlos gestrichen. 
 
-## **§ 2** 
+### **§ 2** 
 
 1Diese Satzung tritt am 1. Oktober 2008 in Kraft. 2Sie gilt für alle Studierenden, die ab dem Wintersemester 2008/09 das Studium aufnehmen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MSc Advanced Optical Technologies FPO MAOT 20220726 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/Advanced_Optical_Technologies/Aenderungssatzungen/Elite-MSc_Advanced_Optical_Technologies_FPO_MAOT_20220726_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:56:51+00:00
-page_count_chars: 14009
+scraped_at: 2026-07-01T11:20:06+00:00
+page_count_chars: 13850
 ---
 
 # Elite-MSc Advanced Optical Technologies FPO MAOT 20220726 ÄS.pdf
@@ -12,25 +12,25 @@ page_count_chars: 14009
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/Advanced_Optical_Technologies/Aenderungssatzungen/Elite-MSc_Advanced_Optical_Technologies_FPO_MAOT_20220726_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Neunte Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO MAOT –** 
+# **Neunte Satzung zur Änderung der Fachprüfungsordnung für den EliteMasterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO MAOT –** 
 
-## **Vom 26. Juli 2022** 
+# **Vom 26. Juli 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der FAU vom 2. Oktober 2007, zuletzt geändert durch Satzung vom 6. August 2019, wird wie folgt geändert: 
 
-## 1. § 35 wird wie folgt geändert: 
+1. § 35 wird wie folgt geändert: 
 
-- a) In der Überschrift werden nach dem Wort „ **Studienbeginn** “ ein Komma und die Worte „ **inhaltlich verwandte Studiengänge** “ eingefügt. 
+   - a) In der Überschrift werden nach dem Wort „ **Studienbeginn** “ ein Komma und die Worte „ **inhaltlich verwandte Studiengänge** “ eingefügt. 
 
-- b) Nach Abs. 2 wird wie folgender neuer Abs. 3 angefügt: 
+   - b) Nach Abs. 2 wird wie folgender neuer Abs. 3 angefügt: 
 
 „(3) Die Regelung in § 30 Satz 3 Nr. 2 **ABMPO/TechFak** findet in Bezug auf inhaltlich verwandte Studiengänge keine Anwendung.“ 
 
-## 2. § 38 Abs. 1 wird wie folgt geändert: 
+# 2. § 38 Abs. 1 wird wie folgt geändert: 
 
 - a) In Satz 2 werden die Worte „der Sprecherin bzw. dem Sprecher des Studiengangs und“ und das Wort „sieben“ gestrichen sowie nach dem Wort „Studienschwerpunkte“ das Wort und die Zahlen „1 bis 7“ eingefügt. 
 
@@ -38,7 +38,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 - c) In Satz 4 werden nach dem Wort „Die“ die Worte „Sprecherin bzw. der Sprecher“ durch die Worte „Mitglieder der Zugangskommission bestimmen aus Ihrer Mitte eine Sprecherin bzw. einen Sprecher; diese bzw. dieser“ ersetzt. 
 
-## 3. § 39 Abs. 1 wird wie folgt geändert: 
+# 3. § 39 Abs. 1 wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach dem Wort „Studium“ die Worte „in einer gemäß“ durch die Buchstaben mit Punkten „i. S. d.“ ersetzt, nach dem Verweis „§ 29 Abs. 1 Nr. 1 **ABMPO/TechFak** “ die Worte „in einer i. S. d. Satzes 2 bzw. 3“ eingefügt sowie nach den Worten „Qualifikationsfeststellungsverfahrens gemäß **Anlage** “ die Zahl „ **2** “ durch die Zahl „ **4** “ ersetzt. 
 
@@ -48,7 +48,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 4. § 40 Abs.1 wird wie folgt neu gefasst: 
 
-„(1)[1] Das Elite-Masterstudium besteht aus 17 Modulen gemäß **Anlage 2** .[2] Die Module M4 bis M9 müssen aus zwei verschiedenen der in **Anlage 1** unter Ziffern 1 bis 7 genannten Studienschwerpunkte (Major Topics) gewählt werden.[3] Dabei müssen für beide Schwerpunkte Module im Umfang von jeweils 15 ECTS-Punkten erbracht werden.[4] Die Module M10 bis M12 können aus einem beliebigen der in **Anlage 1** genannten Studienschwerpunkte stammen.[5] Module mit höherer oder geringerer Anzahl an ECTS-Punkten können Module im Umfang von 5 ECTS-Punkten entsprechend ersetzen.[6] Die Anzahl an Prüfungen kann sich entsprechend der getroffenen Wahl erhöhen bzw. verringern.[7] Die zwei Laborpraktika der Module M13 und M14 sind in den Schwerpunktfächern gemäß Sätzen 2 und 3 zu erbringen.“ 
+„(1)<sup>1</sup> Das Elite-Masterstudium besteht aus 17 Modulen gemäß **Anlage 2** .<sup>2</sup> Die Module M4 bis M9 müssen aus zwei verschiedenen der in **Anlage 1** unter Ziffern 1 bis 7 genannten Studienschwerpunkte (Major Topics) gewählt werden.<sup>3</sup> Dabei müssen für beide Schwerpunkte Module im Umfang von jeweils 15 ECTS-Punkten erbracht werden.<sup>4</sup> Die Module M10 bis M12 können aus einem beliebigen der in **Anlage 1** genannten Studienschwerpunkte stammen.<sup>5</sup> Module mit höherer oder geringerer Anzahl an ECTS-Punkten können Module im Umfang von 5 ECTS-Punkten entsprechend ersetzen.<sup>6</sup> Die Anzahl an Prüfungen kann sich entsprechend der getroffenen Wahl erhöhen bzw. verringern.<sup>7</sup> Die zwei Laborpraktika der Module M13 und M14 sind in den Schwerpunktfächern gemäß Sätzen 2 und 3 zu erbringen.“ 
 
 5. Die Regelung in § 41 erhält folgende neue Fassung: 
 
@@ -68,13 +68,13 @@ cc) Die bisherigen Sätze 4 bis 6 werden zu den neuen Sätzen 3 bis 5.
 
 7. In § 44 Satz 1 werden nach dem Wort „Forschungspraktikum“ der Buchstaben und die Zahl im Klammerumfang „M15“ durch den Buchstaben und die Zahl im Klammerumfang „M16“ ersetzt. 
 
-## 8. § 46 Abs. 2 wird wie folgt geändert: 
+# 8. § 46 Abs. 2 wird wie folgt geändert: 
 
 - a) In Satz 1 werden nach dem Wort „Masterarbeit“ die Worte „sollte bevorzugt“ durch das Wort „soll“ ersetzt. 
 
 - b) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Bei Abweichungen hiervon ist die Zustimmung der bzw. des Studienkommissionsvorsitzenden erforderlich.“ 
+„<sup>3</sup> Bei Abweichungen hiervon ist die Zustimmung der bzw. des Studienkommissionsvorsitzenden erforderlich.“ 
 
 2 
 
@@ -94,7 +94,7 @@ cc) Die bisherigen Sätze 4 bis 6 werden zu den neuen Sätzen 3 bis 5.
 
 dd) Nach Satz 3 werden folgende neue Sätze 4 und 5 eingefügt: 
 
-> 4Abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche in den Modulen M4 bis M12 beim Wechsel in alternative Module nicht angerechnet.[5] Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
+> 4Abweichend von § 28 Abs. 2 Satz 2 **ABMPO/TechFak** werden Fehlversuche in den Modulen M4 bis M12 beim Wechsel in alternative Module nicht angerechnet.<sup>5</sup> Es besteht gemäß § 28 Abs. 1 Satz 5 **ABMPO/TechFak** bei Nichtbestehen keine Wiederholungspflicht innerhalb der gesetzten Frist.“ 
 
 ee) Der bisherige Satz 4 wird zum neuen Satz 6. 
 
@@ -102,21 +102,23 @@ ee) Der bisherige Satz 4 wird zum neuen Satz 6.
 
 - d) In Abs. 4 Satz 1 wird nach dem Verweis „Abs. 3 Satz“ die Zahl „2“ durch die Zahl „3“ ersetzt. 
 
-## 10. Nach § 48 Abs. 4 wird folgender neuer Abs. 5 angefügt: 
+10. Nach § 48 Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die neunte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab.“ 
+„(5)<sup>1</sup> Die neunte Änderungssatzung tritt am 1. Oktober 2022 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab.“ 
 
-## 11. **Anlage 1** wird wie folgt geändert: 
+# 11. **Anlage 1** wird wie folgt geändert: 
 
-## a) Abs. 1 Satz 2 wird wie folgt geändert: 
+# a) Abs. 1 Satz 2 wird wie folgt geändert: 
 
 - aa) Nach dem Verweis „§ 40 Abs. 1 Sätze 2“ wird der Verweis „bis 4 und § 41“ durch das Wort und die Zahl „und 3“ ersetzt. 
+
+3 
 
 bb) In Nr. 4 werden nach dem Wort „Communication“ die Worte „and IT“ gestrichen. 
 
 cc) Nach Nr. 7 wird folgende neue Nummer 8 angefügt: 
 
-## „8. Related Fields“. 
+# „8. Related Fields“. 
 
 - b) In Abs. 5 werden nach dem Wort „Communication“ die Worte „and IT“ gestrichen. 
 
@@ -124,7 +126,7 @@ cc) Nach Nr. 7 wird folgende neue Nummer 8 angefügt:
 
 „(8a) Das Qualifikationsziel des Schwerpunkts Related Fields liegt darin, Kompetenzen in Grundlagen aus Physik, Mathematik, Ingenieurswissenschaften oder Medizin zu erwerben, die das Verständnis der Studienschwerpunkte 1 bis 7 vertiefen.“ 
 
-## 12. **Anlage 2** wird wie folgt geändert: 
+# 12. **Anlage 2** wird wie folgt geändert: 
 
 - a) In Zeile 1 (Überschriften) werden in Spalte 7 (Art und Umfang der Prüfung/Studienleistung) der Schrägstrich und das Wort „Studienleistung“ gestrichen. 
 
@@ -150,9 +152,9 @@ cc) Nach Nr. 7 wird folgende neue Nummer 8 angefügt:
 
 Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4“ durch die Zahl „5“ ersetzt. 
 
-- e) Zeile 5 (Free Modules[1] ) wird wie folgt geändert: 
+- e) Zeile 5 (Free Modules<sup>1</sup> ) wird wie folgt geändert: 
 
-   - aa) In Spalte 1 (Free Modules[1] ) wird nach dem Wort „Modules“ die hochgestellte Zahl „[1)] “ gestrichen. 
+   - aa) In Spalte 1 (Free Modules<sup>1</sup> ) wird nach dem Wort „Modules“ die hochgestellte Zahl „<sup>1)</sup> “ gestrichen. 
 
    - bb) In Unterzeile 1 (Modulnummer 10) Spalte 3 (Modulbezeichnung) werden die Worte „Major topic 2 – Module 3“ durch die Worte „Free module 1“ ersetzt und in Spalte 7 (Art und Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4“ durch die Zahl „5“ ersetzt. 
 
@@ -160,21 +162,14 @@ Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4�
 
    - dd) In Unterzeile 3 (Modulnummer 12) Spalte 3 (Modulbezeichnung) wird nach dem Wort „Module“ die Zahl „2“ durch die Zahl „3“ ersetzt und in Spalte 7 (Art und Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4“ durch die Zahl „5“ ersetzt. 
 
-## f) Zeile 6 (Lab courses) erhält folgende neue Fassung: 
+# f) Zeile 6 (Lab courses) erhält folgende neue Fassung: 
 
-„ 
+<u>„</u> 
 
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Lab courses**|13|Lab course Major<br>Topic1|||2||2,5|2,5||||SL (Laborberichtsheft,<br>ca. 10-15 S.)|
-||14|Lab course Major<br>Topic 2|||2||2,5||2,5|||SL (Laborberichtsheft,<br>ca. 10-15 S.)|
-
-|„|||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Lab courses**|13|Lab course Major<br>Topic1|||2||2,5|2,5||||SL (Laborberichtsheft,<br>ca. 10-15 S.)|
-||14|Lab course Major<br>Topic 2|||2||2,5||2,5|||SL (Laborberichtsheft,<br>ca. 10-15 S.)|
-
-   - “ 
+|**Lab courses**|13|Lab course Major<br>Topic1|2|2,5|2,5||SL (Laborberichtsheft,<br>ca. 10-15 S.)|
+|---|---|---|---|---|---|---|---|
+||14|Lab course Major<br>Topic 2|2|2,5||2,5|SL (Laborberichtsheft,<br>ca. 10-15 S.)|
+|“||||||||
 
 - g) In Zeile 7 (Project report) Spalte 2 (Modulnummer) wird die Zahl „14“ durch die Zahl „15“ ersetzt. 
 
@@ -184,7 +179,7 @@ Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4�
 
 - j) Nach den Erläuterungen unterhalb der Tabelle wird die Fußnote 1 gestrichen. 
 
-## 13. **Anlage 3** wird wie folgt geändert: 
+# 13. **Anlage 3** wird wie folgt geändert: 
 
 - a) In Zeile 2 (Optical Metrology) werden in Spalte 2 (Modul) die Worte „Light Scattering“ durch die Worte „Modern Optics: Advanced Optics“ ersetzt. 
 
@@ -192,13 +187,13 @@ Umfang der Prüfung) (neu) nach dem Verweis § 40 Abs. 1 Satz“ die Zahl „4�
 
 5 
 
-   - c) In Zeile 6 (neu) (Optical Lithography) werden in Spalte 2 (Modul) vor den Worten „Optical Lithography) die Worte „Halbleitertechnologie IV –“ eingefügt sowie in Spalte 4 (Semester) die Buchstaben „WS“ durch die Buchstaben „SS“ ersetzt. 
+- c) In Zeile 6 (neu) (Optical Lithography) werden in Spalte 2 (Modul) vor den Worten „Optical Lithography) die Worte „Halbleitertechnologie IV –“ eingefügt sowie in Spalte 4 (Semester) die Buchstaben „WS“ durch die Buchstaben „SS“ ersetzt. 
 
-   - d) In Zeile 20 (neu) (Clinical Applications of Optical Technologies and Associated Fundamentals of Anatomy) werden in Spalte 2 (Modul) die Worte „Clinical Applications of Optical Technologies and Associated Fundamentals of Anatomy“ durch die Worte „Fundamentals in Anatomy and Physiology for Engineers“ ersetzt. 
+- d) In Zeile 20 (neu) (Clinical Applications of Optical Technologies and Associated Fundamentals of Anatomy) werden in Spalte 2 (Modul) die Worte „Clinical Applications of Optical Technologies and Associated Fundamentals of Anatomy“ durch die Worte „Fundamentals in Anatomy and Physiology for Engineers“ ersetzt. 
 
-14. **Anlage 4** wird wie folgt geändert: 
+# 14. **Anlage 4** wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) Die bisherigen Sätze 1 und 2 werden gestrichen. 
 
@@ -220,11 +215,11 @@ ff) Die bisherige Nr. 4 wird zu Nr. 3 (neu)
 
 - c) In Abs. 4 Satz 2 wird nach den Worten „Interview wird von“ das Wort „mindestens“ gestrichen. 
 
-## 15. Das Inhaltsverzeichnis wird entsprechend angepasst. 
+# 15. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2022 in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2022/2023 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen dieser Studien- und Prüfungsordnung werden letztmals im Wintersemester 2025/2026 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Studien- und Prüfungsordnung in der jeweiligen Fassung betroffenen Studierenden ihre verbleibenden Prüfungen nach der dann jeweils gültigen Fassung dieser Studien- und Prüfungsordnung ab. 
 
 6 
 

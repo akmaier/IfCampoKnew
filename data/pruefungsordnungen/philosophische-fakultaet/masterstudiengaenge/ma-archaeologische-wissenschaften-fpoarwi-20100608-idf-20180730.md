@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Archäologische Wissenschaften FPOArWi 20100608 i.d.F. 20180730.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Archaeologische_Wissenschaften/konsolidierte_Fassungen/MA_Archaeologische_Wissenschaften_FPOArWi_20100608_idF_20180730.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:24:26+00:00
-page_count_chars: 9383
+scraped_at: 2026-07-01T09:39:07+00:00
+page_count_chars: 9129
 ---
 
 # MA Archäologische Wissenschaften FPOArWi 20100608 i.d.F. 20180730.pdf
@@ -16,7 +16,7 @@ page_count_chars: 9383
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Archäologische Wissenschaften an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOArWi – Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Archäologische Wissenschaften an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOArWi – Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 5. November 2010 
 
@@ -24,7 +24,7 @@ geändert durch Satzungen vom 5. November 2010
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
 § 1 Geltungsbereich .............................................................................................................. 1 § 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ................. 1 
 
@@ -36,11 +36,11 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraus-setzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der erfolgreiche Abschluss in einem Ein- oder Zwei-Fach-Bachelorstudiengang Archäologische Wissenschaften.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 **ABMStPO/Phil** werden insbesondere andere Abschlüsse in den Fächern der Klassischen Archäologie, der christlichen Archäologie und der Ur- oder Vor- und Frühgeschichte, der Provinzialrömischen Archäologie sowie der mittelalterlichen Archäologie anerkannt, soweit in einem dieser Fächer mindestens 60 ECTSPunkte erworben wurden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der erfolgreiche Abschluss in einem Ein- oder Zwei-Fach-Bachelorstudiengang Archäologische Wissenschaften.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 **ABMStPO/Phil** werden insbesondere andere Abschlüsse in den Fächern der Klassischen Archäologie, der christlichen Archäologie und der Ur- oder Vor- und Frühgeschichte, der Provinzialrömischen Archäologie sowie der mittelalterlichen Archäologie anerkannt, soweit in einem dieser Fächer mindestens 60 ECTSPunkte erworben wurden. 
 
 1 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 4,00 findet ein Auswahlgespräch statt.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber die nötige fachliche und methodische Kenntnis besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht. 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 4,00 findet ein Auswahlgespräch statt.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber die nötige fachliche und methodische Kenntnis besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht. 
 
 3In dem Auswahlgespräch werden die Bewerberinnen und Bewerber auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
@@ -58,7 +58,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 (1) Umfang und Gliederung des Masterstudiengangs Archäologische Wissenschaften sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage** . 
 
-(2)[1] Im Rahmen des Studiums ist einer der Teilbereiche „Prähistorische Archäologie“, „Klassische Archäologie“ oder „Christliche Archäologie“ als Studienschwerpunkt zu wählen.[2] Die Wahl des Schwerpunktes erfolgt durch die Wahl der jeweiligen Module. 3Aus dem gewählten Schwerpunktbereich müssen die Module 1, 2 und 3 belegt werden.[4] In einem der beiden nicht gewählten Teilbereiche sind zwei Module, im anderen der nicht gewählten Teilbereiche ist ein Modul zu belegen. 
+(2)<sup>1</sup> Im Rahmen des Studiums ist einer der Teilbereiche „Prähistorische Archäologie“, „Klassische Archäologie“ oder „Christliche Archäologie“ als Studienschwerpunkt zu wählen.<sup>2</sup> Die Wahl des Schwerpunktes erfolgt durch die Wahl der jeweiligen Module. 3Aus dem gewählten Schwerpunktbereich müssen die Module 1, 2 und 3 belegt werden.<sup>4</sup> In einem der beiden nicht gewählten Teilbereiche sind zwei Module, im anderen der nicht gewählten Teilbereiche ist ein Modul zu belegen. 
 
 (3) Zulassungsvoraussetzung für die Prüfungen des Studienschwerpunktes „Klassische Archäologie“ ist der Nachweis von Grundkenntnissen in Latein (bspw. Nachweis der erfolgreichen Teilnahme an der Klausur zum Kurs „Latein I für Anfänger“ gemäß der Studien- und Prüfungsordnung für den Nachweis von Kenntnissen der lateinischen Sprache an der FAU – **StPOLatein** – vom 3. März 2017 in der jeweils geltenden Fassung oder vergleichbare Nachweise). 
 
@@ -66,67 +66,54 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 (1) Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
-(2)[1] Die vierte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
+(2)<sup>1</sup> Die vierte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden. 
 
 2 
 
 ## **Anlage: Studienverlaufsplan M.A. Archäologische Wissenschaften** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|||<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gesamt|||||||
-|||||||ECTS|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|1. Fachsemester|||||||||||||
-||||||||||||||
-|**Klassische Archäologie 12**|Vorlesung|2||||10|3||||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||7||||||
-|**Prähistorische Archäologie 12**|Vorlesung|2||||10|(3)||||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||(7)||||||
-|**Christliche Archäologie 12**|Vorlesung|2||||10|(3)||||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||(7)||||||
-|**Ergänzungsbereich 13**|nach Maßgabe des<br>Faches|||||10|10||||nach Maßgabe des Faches4|1|
-|2. Fachsemester|||||||||||||
-||||||||||||||
-|**Klassische Archäologie 22**|Vorlesung|2||||10||3|||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2|||7|||||
-|**Prähistorische Archäologie 22 **|Vorlesung|2||||10||(3)|||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2|||(7)|||||
-|**Christliche Archäologie 22**|Vorlesung|2||||10||(3)|||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2|||(7)|||||
-|**Ergänzungsbereich 23**|nach Maßgabe des<br>Faches|||||10||10|||nach Maßgabe des Faches4|1|
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS||Workload<br>pro Se<br>in ECTS|-Verteilung<br>mester<br>-Punkten<sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|
+|1. Fachsemester<br>**Klassische Archäologie 1**<sup>**2**</sup>|V<br>Vorlesung<br>2|Ü<br>P<br>S|10|1.<br>3|2.|3.<br>4.|Präsentation (ca. 60 Min., 50 %) mit schrift-<br>|1|
+||Hauptseminar|2||7|||licher Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Prähistorische Archäologie 1**<sup>**2**</sup>|Vorlesung<br>2||10|(3)|||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>|1|
+||Hauptseminar|2||(7)|||licher Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Christliche Archäologie 1**<sup>**2**</sup>|Vorlesung<br>2||10|(3)|||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>lih Abi  20 Ti 50 %|1|
+||Hauptseminar|2||(7)|||cer usaretung (ca.  extseten,  )||
+|**Ergänzungsbereich 1**<sup>**3**</sup>|nach Maßgabe des<br>||10|10|||nach Maßgabe des Faches<sup>4</sup>|1|
+|<br>2. Fachsemester|Faches||||||||
+|**Klassische Archäologie 2**<sup>**2**</sup>|Vorlesung<br>2||10||3||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>|1|
+||||||||licher Ausarbeitung (ca. 20 Textseiten, 50 %)||
+||Hauptseminar|2|||7||||
+|**Prähistorische Archäologie 2**<sup>**2**</sup>|Vorlesung<br>2||10||(3)||Präsentation (ca. 60 Min., 50 %) mit schrift-<br>licher Ausarbeitun (ca 20 Textseiten 50 %)|1|
+||Hauptseminar|2|||(7)||g .  ,||
+||Vorlesung<br>2||||(3)||Präsentation (ca 60 Min 50 %) mit schrift-||
+|**Christliche Archäologie 2**<sup>**2**</sup>|Hauptseminar|2|10||(7)||.  .,<br>licher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
+|**Ergänzungsbereich 2**<sup>**3**</sup>|nach Maßgabe des<br>Faches||10||10||nach Maßgabe des Faches<sup>4</sup>|1|
 
 3 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|||<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|<br>Workload-Verteilung<br>pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gesamt|||||||
-|||||||ECTS|||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|3. Fachsemester|||||||||||||
-||||||||||||||
-|**Klassische Archäologie 32**|Vorlesung|2||||10|||3||Präsentation (ca. 60 Min., 50 %) mit schriftli-<br>cher Ausarbeitung(ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||||7||||
-|**Prähistorische Archäologie 32**|Vorlesung|2||||10|||(3)||Präsentation (ca. 60 Min., 50 %) mit schriftli-<br>cher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||||(7)||||
-|**Christliche Archäologie 32**|Vorlesung|2||||10|||(3)||Präsentation (ca. 60 Min., 50 %) mit schriftli-<br>cher Ausarbeitung (ca. 20 Textseiten, 50 %)|1|
-||Hauptseminar||||2||||(7)||||
-|**Ergänzungsbereich 33 **|nach Maßgabe des<br>Faches|||||10|||10||nach Maßgabe des Faches4|1|
-|4. Fachsemester|||||||||||||
-|**Masterarbeit**|||||||||||||
-||||||||||||||
-|**Masterarbeit**|Masterarbeit|||||30||||30|Masterarbeit (ca. 60 S., 80 %) und Master-<br>Kolloquium (mündliche Prüfung, ca. 60 Min.,<br>20 %)|2|
-|Summen SWS / ECTS||12|0|0|12|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Workload-<br>pro Se<br>in ECTS-|Verteilun<br>mester<br>Punkten|g<br><sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|
+|3. Fachsemester|V|Ü<br>P<br>S|1.|2.|3.|4.|||
+|**Klassische Archäologie 3**<sup>**2**</sup>|Vorlesung<br>2||10||3||Präsentation (ca. 60 Min., 50 %) mit schriftli-<br>|1|
+||Hauptseminar|2|||7||cher Ausarbeitung(ca. 20 Textseiten, 50 %)||
+|**Prähistorische Archäologie 3**<sup>**2**</sup>|Vorlesung<br>2||10||(3)||Präsentation (ca. 60 Min., 50 %) mit schriftli-<br>|1|
+||Hauptseminar|2|||(7)||cher Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Christliche Archäoloie 3**<sup>**2**</sup>|Vorlesung<br>2||10||(3)||Präsentation (ca. 60 Min., 50 %) mit schriftli-|1|
+|**g**|Hauptseminar|2|||(7)||cher Ausarbeitung (ca. 20 Textseiten, 50 %)||
+|**Ergänzungsbereich 3**<sup>**3**</sup>|nach Maßgabe des<br>Faches||10||10||nach Maßgabe des Faches<sup>4</sup>|1|
+|4. Fachsemester<br>**Masterarbeit**|||||||||
+|**Masterarbeit**|Masterarbeit||30|||30|Masterarbeit (ca. 60 S., 80 %) und Master-<br>Kolloquium (mündliche Prüfung, ca. 60 Min.,<br>20 %)|2|
+|Summen SWS / ECTS|12|0<br>0<br>12|120<br>30|30|30|30|||
 
-> 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. 
-
-> 2 vgl. § 3 Abs. 2. 
+- 1 Bei der Verteilung auf die Semester handelt es sich um eine Empfehlung. 2 vgl. § 3 Abs. 2. 
 
 - 3 
 
-Wählbar sind, nach vorheriger Absprache mit der bzw. dem Modulverantwortlichen, alle Module aus dem Lehrangebot der FAU sowie Lehrangebote der Universität Bamberg, sofern diese im Rahmen der Lehrkooperation angeboten werden. Daneben können bis zu 10 ECTS-Punkte durch einschlägige Praktika oder archäologische Grabungen eingebracht werden. In diesem Fall sind qualifizierte Nachweise vorzulegen, in denen Art, Umfang, Inhalt und erfolgreicher Abschluss der Tätigkeiten dokumentiert sein müssen. 
+   - Wählbar sind, nach vorheriger Absprache mit der bzw. dem Modulverantwortlichen, alle Module aus dem Lehrangebot der FAU sowie Lehrangebote der Universität Bamberg, sofern diese im Rahmen der Lehrkooperation angeboten werden. Daneben können bis zu 10 ECTS-Punkte durch einschlägige Praktika oder archäologische Grabungen eingebracht werden. In diesem Fall sind qualifizierte Nachweise vorzulegen, in denen Art, Umfang, Inhalt und erfolgreicher Abschluss der Tätigkeiten dokumentiert sein müssen. 
 
-> 4 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls. Näheres regelt die jeweils einschlägige Prüfungsordnung bzw. das Modulhandbuch. 
+- 4 Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls. Näheres regelt die jeweils einschlägige Prüfungsordnung bzw. das Modulhandbuch. 
 
 4 
 

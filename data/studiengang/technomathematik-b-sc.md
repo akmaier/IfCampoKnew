@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:51:11+00:00
+scraped_at: 2026-07-01T08:28:20+00:00
 ---
 
 # Technomathematik (B.Sc.)
@@ -35,7 +35,7 @@ Einige behaupten MathematikerInnen sitzen im Elfenbeinturm. Das stimmt natürlic
 
 Mit diesem Studium qualifizierst Du Dich für Forschung, Entwicklung und Anwendung im Bereich der mathematisch orientierten Wissenschaften – von der Entwicklung neuer Algorithmen über die Implementierung am Computer bis hin zum Beweis ihrer Funktionsfähigkeit. Durch die Kombination der mathematischen Ausbildung mit Kenntnissen der Anwendungsprobleme aus den Ingenieurwissenschaften bist Du auf die Lösung aktueller Probleme bestens vorbereitet und kannst in Ingenieurteams bei der Entwicklung der Technologie von morgen mitarbeiten.
 
-### Bachelor of Science Technomathematik
+### Fachanteile des Studiengangs Technomathematik (B.Sc.)
 
 * Mathematik (60%)
 * Informatik (20%)

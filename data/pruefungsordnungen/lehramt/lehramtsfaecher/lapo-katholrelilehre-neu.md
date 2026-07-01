@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 27.07.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO_KatholReliLehre_NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:53+00:00
-page_count_chars: 4924
+scraped_at: 2026-07-01T08:40:36+00:00
+page_count_chars: 4918
 ---
 
 # pdf vom 27.07.2009
@@ -14,7 +14,7 @@ page_count_chars: 4924
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 27. Juli 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Katholische Religionslehre im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 27. Juli 2009** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
@@ -31,22 +31,22 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS**|**Studien- u. Prüfungsleis-**<br>**tungen**|
 |---|---|---|---|---|
 ||**Die Bibel aus exegetischer und didaktischer**<br>**Perspektive**|**4**|**5**||
-|1./3./5.|Grundprobleme des Alten und/oder des Neuen<br>Testaments|2V|2|Klausur in der V (30 %);<br>mündliche Prüfung o.<br>Klausur o. Hausarbeit im S<br>(70%)|
-|2./4./6.|Einführung in den exegetischen und didakti-<br>schen Umgang mit biblischen Texten|2S|3||
+|1./3./5.|Grundprobleme des Alten und/oder des Neuen<br>Testaments|2V|2|Klausur in der V (30 %);<br>mündliche Prüfung o.|
+|2./4./6.|Einführung in den exegetischen und didakti-<br>schen Umgang mit biblischen Texten|2S|3|Klausur o. Hausarbeit im S<br>(70%)|
 ||**Fachdidaktik kath. Religionslehre Grund-**<br>**schule**|**4**|**5**||
-|1./3./5.|Einführung in die Didaktik des katholischen Re-<br>ligionsunterrichts|2V|2|Klausur od. mündliche<br>Prüfung in der V (30 %),<br>mündliche Prüfung o.<br>Klausur o. Hausarbeit im S<br>(70 %)|
-|2./4./6.|Religionspädagogisches Seminar|2S|3||
+|1./3./5.|Einführung in die Didaktik des katholischen Re-<br>ligionsunterrichts|2V|2|Klausur od. mündliche<br>Prüfung in der V (30 %),|
+|2./4./6.|Religionspädagogisches Seminar|2S|3|mündliche Prüfung o.<br>Klausur o. Hausarbeit im S<br>(70 %)|
 ||**Praxismodul Fachdidaktik katholische Reli-**<br>**gionslehre Grundschule**|**1**|**1**||
 |3./5<br>o.<br>4./6.|Begleitseminar zum Blockpraktikum|1S/Ü|1|Unterrichtsentwurf und<br>Verlaufspläne oder eine<br>andere Prüfungsform (be-<br>standen/nicht bestanden)|
 ||**Summe:**|**9**|**11**||
 
-## (3) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an Hauptschulen sind folgende Module erfolgreich abzulegen: 
+## (3) Im Bereich der Fachdidaktik der Fächergruppe im Studium des Lehramts an <u>Hauptschulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Sem.**<br>**(empf.)**|**Modul**|**SWS**|**ECTS**|**Studien- u. Prüfungs-**<br>**leistungen**|
 |---|---|---|---|---|
 ||**Die Bibel aus exegetischer und didaktischer**<br>**Perspektive**|**4**|**5**||
-|1./3./5.|Grundprobleme des Alten und /oder des Neuen<br>Testaments|2V|2|Klausur in der V (30 %),<br>mündliche Prüfung o.<br>Klausur o. Hausarbeit<br>im S(70%)|
-|2./4./6.|Einführung in den exegetischen und didakti-<br>schen Umgang mit biblischen Texten|2S|3||
+|1./3./5.|Grundprobleme des Alten und /oder des Neuen<br>Testaments|2V|2|Klausur in der V (30 %),<br>mündliche Prüfung o.|
+|2./4./6.|Einführung in den exegetischen und didakti-<br>schen Umgang mit biblischen Texten|2S|3|Klausur o. Hausarbeit<br>im S(70%)|
 ||**Christlicher Glaube und die Weltreligionen**|**4**|**5**||
 |1./3./5.|Grundlagen des christlichen Glaubens|2V|2|Klausur o. mündliche<br>Prüfung in der V (30 %),|
 |2./4./6.|Begegnung mit Weltreligionen|2S|3|mündliche Prüfung o.<br>Klausur o. Hausarbeit<br>imS (70 %)|

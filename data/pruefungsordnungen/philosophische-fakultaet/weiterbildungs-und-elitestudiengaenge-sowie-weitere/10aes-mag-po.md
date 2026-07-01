@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. August 1998"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AES-Mag-PO.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:50:35+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:02:16+00:00
+page_count_chars: 2423
 ---
 
 # 18. August 1998
@@ -12,61 +12,43 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/10AES-Mag-PO.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+i 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+: 
 
-### OCR Seite 1
+# Zehnte Satzung zur Anderung der Priifungsordnung der Universitit Nurnberg fiir den Grad eines Magister Artium (Magisterpriifungsordnung — MagPO) 
 
-```
-Die Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium
-(Magisterprüfungsordnung — MagPO) vom 23. September 1982 (KMBl II S. 803), zuletzt
-geändert durch Satzung vom 14. Mai 1997 (KWMBI II S. 577), wird wie folgt geändert:
-1.
-$ 18 Abs. 1 wird wie folgt geändert:
-a)
-In Nummer 7 wird angefügt:
-g)
-„Landes- und Volkskunde“
-b)
-In Nummer 8 werden die Worte „Buch- und Bibliothekskunde“ ersetzt durch das
-Wort „Buchwissenschaft“.
-2.
-In $ 19 Abs. 1 Nr. 7 werden die Worte „Buch- und Bibliothekskunde“ ersetzt durch
-das Wort „Buchwissenschaft“, ferner werden vor dem Wort „Buchwissenschaft“ die
-Worte „Landes- und Volkskunde“ eingefügt.
-3,
-In $ 22 Abs. 5 werden nach Satz 2 folgende Sätze eingefügt:
-„in
-den
-Prüfungsfächern
-Angewandte
-Sprachwissenschaft,
-Galloromanische
-Philologie,
-Italoromanische
-Philologie,
-Iberoromanische
-Philologie,
-Englische
-|
-Philologie, Nordamerikanische Philologie und Geistesgeschichte sowie Didaktik der
--
-Englischen Sprache und Literatur kann die Arbeit mit dem Einverständnis des
-Betreuers auch ohne Antrag in der studierten Fremdsprache abgefaßt werden, mit der
-Auflage einer Zusammenfassung in deutscher Sprache von 5 bis 10 Seiten über
-Gegenstand, Methode und Ergebnisse. Im Fach Linguistische Informatik gilt dies für
-die Abfassung in Englisch.“
-Die Sätze 3 bis 7 werden Sätze 5 bis 9.
-82
-Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-```
+## der Universitit Erlangen- 
 
-### OCR Seite 2
+# Vom 18. August 1998 
 
-```
-Die Satzung wurde am 18. August 1998 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 18. August 1998 durch Anschlag in der Universität Erlangen-
-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 18. August 1998.
-```
+Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erla8t die Universitaét Erlangen-Ntirnberg folgende Anderungssatzung: 
+
+§ 1 
+
+Die Priifungsordnung der Universitat Erlangen-Niirnberg fiir den Grad eines Magister Artium (Magisterpriifungsordnung — MagPO) vom 23. September 1982 (KMBI II S. 803), zuletzt geandert durch Satzung vom 14. Mai 1997 (KWMBI II S. 577), wird wie folgt geandert: 
+
+1. § 18 Abs. 1 wird wie folgt geandert: a) In Nummer 7 wird angefiigt: g) ,,Landes- und Volkskunde“ 
+
+   - b) In Nummer 8 werden die Worte ,,Buch- und Bibliothekskunde“ ersetzt durch das Wort ,,Buchwissenschaft™. 
+
+2. In § 19 Abs. 1 Nr. 7 werden die Worte ,,Buch- und Bibliothekskunde“ ersetzt durch das Wort ,,Buchwissenschaft*, ferner werden vor dem Wort ,,Buchwissenschaft* die Worte ,,Landes- und Volkskunde“ eingefiigt. 
+
+3. In § 22 Abs. 5 werden nach Satz 2 folgende Satze eingefiigt: 
+
+   - in den Priifungsfachern Angewandte Sprachwissenschaft, Galloromanische Philologie, Italoromanische Philologie, Iberoromanische Philologie, Englische Philologie, Nordamerikanische Philologie und Geistesgeschichte sowie Didaktik der Englischen Sprache und Literatur kann die Arbeit mit dem Euinverstandnis des Betreuers auch ohne Antrag in der studierten Fremdsprache abgefaft werden, mit der Auflage einer Zusammenfassung in deutscher Sprache von 5 bis 10 Seiten tiber Gegenstand, Methode und Ergebnisse. Im Fach Linguistische Informatik gilt dies fiir die Abfassung in Englisch.“ 
+
+Die Satze 3 bis 7 werden Satze 5 bis 9. 
+
+§2 
+
+Diese Anderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nitirnberg vom 29. Juli 1998 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 10. August 1998 Nr. X/4-5e66M(9)-6/120 516. 
+
+Erlangen, den 18. August 1998 In Vertretung 
+
+Prof. Dr. B. Naumann Prorektor 
+
+Die Satzung wurde am 18. August 1998 in der Universitat Erlangen-Niimberg niedergelegt; die Niederlegung wurde am 18. August 1998 durch Anschlag in der Universitat ErlangenNiirnberg bekanntgegeben. Tag der Bekanntmachung ist der 18. August 1998. 
 

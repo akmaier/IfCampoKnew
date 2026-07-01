@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Studienordnung StudO RW 20180730 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Studienordnung/Aenderungssatzungen/Studienordnung_StudO_RW_20180730_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:36+00:00
-page_count_chars: 11690
+scraped_at: 2026-07-01T10:33:44+00:00
+page_count_chars: 11762
 ---
 
 # Studienordnung StudO RW 20180730 ÄS.pdf
@@ -12,11 +12,11 @@ page_count_chars: 11690
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Studienordnung/Aenderungssatzungen/Studienordnung_StudO_RW_20180730_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Sechste Satzung zur Änderung der Studienordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung Vom 30. Juli 2018** 
+# **Sechste Satzung zur Änderung der Studienordnung der Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung Vom 30. Juli 2018** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-AlexanderUniversität Erlangen-Nürnberg (FAU) folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung der FAU für den Studiengang Rechtswissenschaft mit dem Abschluss der Ersten Juristischen Prüfung vom 10. September 2004, zuletzt geändert durch Satzung vom 29. Juli 2013, wird wie folgt geändert: 
 
@@ -24,7 +24,7 @@ Die Studienordnung der FAU für den Studiengang Rechtswissenschaft mit dem Absch
 
 2. In der Aufzählung der Ermächtigungsgrundlagen werden die Worte und Zahlen „und Art. 72 Abs. 1 Satz 1“ durch die Worte und Zahlen „Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 sowie Art. 61 Abs. 2“ ersetzt und nach dem Zeichen und der Zahl „§ 38“ das Wort mit der Zahl „Satz 2“ eingefügt. 
 
-## 3. Die **Vorbemerkung zum Sprachgebrauch** wird gestrichen. 
+# 3. Die **Vorbemerkung zum Sprachgebrauch** wird gestrichen. 
 
 4. § 1 wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ Die Studienordnung der FAU für den Studiengang Rechtswissenschaft mit dem Absch
 
    - b) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-„[3] Sie wird ergänzt durch die Zwischenprüfungsordnung der FAU für den Studiengang Rechtswissenschaft und die Prüfungsordnung der FAU für die Juristische Universitätsprüfung in der jeweils geltenden Fassung.“ 
+„<sup>3</sup> Sie wird ergänzt durch die Zwischenprüfungsordnung der FAU für den Studiengang Rechtswissenschaft und die Prüfungsordnung der FAU für die Juristische Universitätsprüfung in der jeweils geltenden Fassung.“ 
 
 5. § 2 wird wie folgt geändert: 
 
@@ -46,7 +46,7 @@ Die Studienordnung der FAU für den Studiengang Rechtswissenschaft mit dem Absch
 
 7. § 4 erhält folgende neue Fassung: 
 
-## **„§ 4 Aufnahme des Studiums** 
+# **„§ 4 Aufnahme des Studiums** 
 
 Das Studium kann zum Winter- und zum Sommersemester aufgenommen werden.“ 
 
@@ -60,23 +60,25 @@ Das Studium kann zum Winter- und zum Sommersemester aufgenommen werden.“
 
 10. In § 7 Abs. 1 Satz 1 wird das Wort „Studenten“ durch das Wort „Studierenden“ ersetzt. 
 
-11. § 8 wird wie folgt geändert: 
+# 11. § 8 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 werden das Wort „Studenten“ durch das Wort „Studierenden“ ersetzt und nach dem Wort „Grundstudium“ der Klammerzusatz „(erstes bis viertes Fachsemester nach Studienplan gem. § 13 i. V. m. **Anlage** )“ eingefügt. 
+- a) In Abs. 1 Satz 1 werden das Wort „Studenten“ durch das Wort „Studierenden“ ersetzt und nach dem Wort „Grundstudium“ der Klammerzusatz „(erstes bis viertes Fachsemester nach Studienplan gem. § 13 i. V. m. **Anlage** )“ eingefügt. 
 
-   - b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
-      - aa) Ziffer 2 wird wie folgt geändert: 
+aa) Ziffer 2 wird wie folgt geändert: 
 
-         - (1) In Buchstabe c) wird nach dem Wort „Verwaltungsrecht“ das Wort „sowie“ durch ein Komma ersetzt. 
+- (1) In Buchstabe c) wird nach dem Wort „Verwaltungsrecht“ das Wort „sowie“ durch ein Komma ersetzt. 
 
-         - (2) In Buchstabe d) wird nach dem Wort „Europarecht I“ der Punkt durch ein Komma ersetzt. 
+- (2) In Buchstabe d) wird nach dem Wort „Europarecht I“ der Punkt durch ein Komma ersetzt. 
 
-         - (3) Nach Buchstabe d) werden folgende neue Buchstaben e) und f) angefügt: 
+- (3) Nach Buchstabe d) werden folgende neue Buchstaben e) und f) angefügt: 
 
-            - „ e) Verwaltungsprozessrecht sowie f) Bayerisches Polizei- und Sicherheitsrecht.“ 
+   - „ e) Verwaltungsprozessrecht sowie 
 
-## bb) Ziffer 3 erhält folgende neue Fassung: 
+   - f) Bayerisches Polizei- und Sicherheitsrecht.“ 
+
+# bb) Ziffer 3 erhält folgende neue Fassung: 
 
    - „3. Im Strafrecht die Veranstaltungen 
 
@@ -92,11 +94,11 @@ Das Studium kann zum Winter- und zum Sommersemester aufgenommen werden.“
 
 aa) Satz 4 erhält folgende neue Fassung: 
 
-“[4] Im Zivilrecht werden abweichend von den Sätzen 1 und 2 Abschlussklausuren in den Veranstaltungen nach Abs. 2 Nr. 1 c) und d) gestellt, die sich jeweils auch auf den Stoff der Veranstaltung nach Abs. 2 Nr. 1 b) beziehen sowie eine gemeinsame Abschlussklausur im Familienund Erbrecht.“ 
+“<sup>4</sup> Im Zivilrecht werden abweichend von den Sätzen 1 und 2 Abschlussklausuren in den Veranstaltungen nach Abs. 2 Nr. 1 c) und d) gestellt, die sich jeweils auch auf den Stoff der Veranstaltung nach Abs. 2 Nr. 1 b) beziehen sowie eine gemeinsame Abschlussklausur im Familienund Erbrecht.“ 
 
 bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt: 
 
-„[5] Abweichend von den Sätzen 1 und 2 wird im Öffentlichen Recht zusätzlich zu den jeweiligen Abschlussklausuren der Veranstaltungen nach Abs. 2 Nr. 2 a) bis d) für die Veranstaltungen Verwaltungsprozessrecht und Bayerisches Polizei- und Sicherheitsrecht nach Abs. 2 Nr. 2 e) und f) eine gemeinsame Abschlussklausur gestellt.“ 
+„<sup>5</sup> Abweichend von den Sätzen 1 und 2 wird im Öffentlichen Recht zusätzlich zu den jeweiligen Abschlussklausuren der Veranstaltungen nach Abs. 2 Nr. 2 a) bis d) für die Veranstaltungen Verwaltungsprozessrecht und Bayerisches Polizei- und Sicherheitsrecht nach Abs. 2 Nr. 2 e) und f) eine gemeinsame Abschlussklausur gestellt.“ 
 
 - d) In Abs. 4 wird nach den Worten „bewertet worden“ das Wort „sind“ durch das Wort „ist“ ersetzt. 
 
@@ -112,7 +114,7 @@ bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt:
 
    - cc) In Buchstabe c) werden nach der Paragraphenangabe „§ 8 Abs. 2 Nr. 3“ die Worte „Buchstaben a) bis c)“ gestrichen. 
 
-## b) Abs. 3 wird wie folgt geändert: 
+- b) Abs. 3 wird wie folgt geändert: 
 
    - aa) In Satz 1 werden nach den Worten „befreit werden, wenn“ die Worte „die Antragstellerin bzw.“ eingefügt. 
 
@@ -134,9 +136,9 @@ bb) Nach Satz 4 wird folgender neuer Satz 5 angefügt:
 
    - aa)  In Satz 1 wird nach dem Wort am Satzanfang „Die“ das Wort „Studenten“ durch das Wort „Studierenden“ ersetzt. 
 
-   - bb)  Satz 2 erhält folgende neue Fassung: 
+bb)  Satz 2 erhält folgende neue Fassung: 
 
-„[2] Unbeschadet der Regelung in Abs. 5 Satz 3 setzt die Zulassung zum Seminar die erfolgreiche Teilnahme am Proseminar voraus.“ 
+„<sup>2</sup> Unbeschadet der Regelung in Abs. 5 Satz 3 setzt die Zulassung zum Seminar die erfolgreiche Teilnahme am Proseminar voraus.“ 
 
 cc)  Die Sätze 3 und 4 werden gestrichen. 
 
@@ -154,11 +156,11 @@ cc)  Die Sätze 3 und 4 werden gestrichen.
 
 - f) Nach Abs. 4 (neu) werden folgende neue Abs. 5 und 6 angefügt: 
 
-„(5)[1] Die Studierenden haben ferner an einem Proseminar teilzunehmen, in dem die Erstellung wissenschaftlicher Arbeiten eingeübt wird.[2] Der Nachweis über die erfolgreiche Teilnahme setzt das Anfertigen einer Proseminararbeit, die mindestens mit der Note ausreichend (mindestens vier Punkte) bewertet worden ist, ein Referat und die regelmäßige Anwesenheit während der Proseminarveranstaltungen voraus.[3] Die bzw. der Vorsitzende des Prüfungsausschusses für die Juristische Universitätsprüfung kann von der erfolgreichen Teilnahme am Proseminar befreien, wenn eine gleichwertige Leistung vorliegt oder die bzw. der Studierende aus von ihm nicht zu vertretenden Gründen an der Teilnahme an einem Proseminar gehindert war.[4] Art. 63 BayHSchG bleibt unberührt. 
+„(5)<sup>1</sup> Die Studierenden haben ferner an einem Proseminar teilzunehmen, in dem die Erstellung wissenschaftlicher Arbeiten eingeübt wird.<sup>2</sup> Der Nachweis über die erfolgreiche Teilnahme setzt das Anfertigen einer Proseminararbeit, die mindestens mit der Note ausreichend (mindestens vier Punkte) bewertet worden ist, ein Referat und die regelmäßige Anwesenheit während der Proseminarveranstaltungen voraus.<sup>3</sup> Die bzw. der Vorsitzende des Prüfungsausschusses für die Juristische Universitätsprüfung kann von der erfolgreichen Teilnahme am Proseminar befreien, wenn eine gleichwertige Leistung vorliegt oder die bzw. der Studierende aus von ihm nicht zu vertretenden Gründen an der Teilnahme an einem Proseminar gehindert war.<sup>4</sup> Art. 63 BayHSchG bleibt unberührt. 
 
 - 4 - 
 
-(6)[1] Die Anmeldung zu einem Proseminar ist verbindlich.[2] Der Nichtantritt zum Proseminar trotz verbindlicher Anmeldung hat bei einer späteren Vergabe der Proseminarplätze im Falle der Kapazitätsüberschreitung die nachrangige Berücksichtigung der bzw. des Studierenden für das gewünschte Proseminar zur Folge.[3] Dies gilt nicht, wenn der Nichtantritt nicht zu vertreten war.[4] Der Zugang zu den weiteren im jeweiligen Semester angebotenen Proseminaren bleibt hiervon unberührt.“ 
+(6)<sup>1</sup> Die Anmeldung zu einem Proseminar ist verbindlich.<sup>2</sup> Der Nichtantritt zum Proseminar trotz verbindlicher Anmeldung hat bei einer späteren Vergabe der Proseminarplätze im Falle der Kapazitätsüberschreitung die nachrangige Berücksichtigung der bzw. des Studierenden für das gewünschte Proseminar zur Folge.<sup>3</sup> Dies gilt nicht, wenn der Nichtantritt nicht zu vertreten war.<sup>4</sup> Der Zugang zu den weiteren im jeweiligen Semester angebotenen Proseminaren bleibt hiervon unberührt.“ 
 
 14. § 11 wird wie folgt geändert: 
 
@@ -174,9 +176,9 @@ cc)  Die Sätze 3 und 4 werden gestrichen.
 
    - d) In Abs. 4 werden am Satzanfang nach dem Wort „Den“ das Wort „Studenten“ durch das Wort „Studierenden“ sowie im weiteren Verlauf des Satzes der Klammerzusatz „(z. B. UNICERT III oder IV)“ durch den Klammerzusatz „(z. B.Certificate of Legal English Basic, Intermediate, Advanced Level)“ ersetzt. 
 
-## 15. Die Überschrift in § 12 erhält folgende neue Fassung: 
+# 15. Die Überschrift in § 12 erhält folgende neue Fassung: 
 
-## „ **§ 12 Bearbeitungszeit von Haus- und Seminararbeiten** “ 
+# „ **§ 12 Bearbeitungszeit von Haus- und Seminararbeiten** “ 
 
 16. In § 13 Satz 1 wird nach den Worten „Studienplan auf“ ein Komma gesetzt sowie die Worte „der auf der Webseite des Fachbereichs zugänglich gemacht wird“ angefügt. 
 
@@ -194,7 +196,7 @@ cc)  Die Sätze 3 und 4 werden gestrichen.
 
 - 5 - 
 
-„(4)[1] Die sechste Änderungssatzung tritt am 1. Oktober 2018 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(4)<sup>1</sup> Die sechste Änderungssatzung tritt am 1. Oktober 2018 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 **§ 2** 
 

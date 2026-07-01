@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:10:53+00:00
-page_count_chars: 8218
+scraped_at: 2026-07-01T08:39:53+00:00
+page_count_chars: 6283
 ---
 
 # 28. März 2011
@@ -12,13 +12,13 @@ page_count_chars: 8218
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/2AES%20LA-Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 28. März 2011 
+# Vom 28. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 25. März 2009, geändert durch Satzung vom 31. März 2010, wird wie folgt geändert: 
 
@@ -70,7 +70,7 @@ c) Abs. 3 wird wie folgt geändert:
 
 - d) In der Tabelle von Abs. 4 wird in Spalte 6 werden die Buchstaben "bS" durch die Buchstaben "SL" ersetzt. 
 
-## 2. § 6 wird wie folgt geändert: 
+# 2. § 6 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -92,7 +92,7 @@ c) Abs. 3 wird wie folgt geändert:
 
    - ii) In Zeile 16 (sonst: Wahlpflichtmodul(e)) Spalte 6 (Studienund Prüfungsleistung) werden die Worte "PL lt. MB" eingefügt. 
 
-## b) Abs. 2 wird wie folgt geändert: 
+# b) Abs. 2 wird wie folgt geändert: 
 
 aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "bS" durch die Buchstaben "HMA" ersetzt. 
 
@@ -106,71 +106,16 @@ dd) Folgende Erläuterungen werden angefügt:
 
 2 
 
-- c) Abs. 3 wird wie folgt geändert: 
-
-   - aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt. 
-
-   - bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt. 
-
-- d) In der Tabelle von Abs. 4 werden in Spalte 6 die Buchstaben "bS" durch die Buchstaben "SL" ersetzt. 
-
-## 3. § 7 wird wie folgt geändert: 
-
-- a)  Abs. 1 wird wie folgt geändert: 
-
-   - aa) Die Spalte 6 (Prüfung) erhält folgende Fassung: "Studienund Prüfungsleistung" 
-
-   - bb) In Zeile 2 (Modul Algorithmen und Datenstrukturen) Spalte 6 (Prüfung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
-
-   - cc) In Zeile 5 (Modul Datenbanksysteme) Spalte 1 wird das Wort "Datenbanksysteme" durch die Worte "Implementierung von Datenbanksystemen" ersetzt. 
-
-   - dd) In Zeile 7 (Modul Theoretische Informatik für Lehramtsstudierende) Spalte 6 (Studien- und Prüfungsleistung) wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
-
-   - ee) In den Zeile 8 (Praktikum) und 9 (Wahlpflichtmodul) Spalte 6 (Studien- und Prüfungsleistung) werden jeweils die Buchstaben "bS" durch "PL lt. MB" ersetzt. 
-
-   - ff) Zeile 10 Spalte 1 erhält folgenden Wortlaut: 
-
-      - "Falls die gewählte Didaktik einer Fächergruppe nicht Mathematik enthält, 
-
-dann:" 
-
-gg) In Zeile 12 (sonst: Wahlpflichtmodule(e)) Spalte 6 (Studien- und Prüfungsleistung) werden die Buchstaben "PL lt. MB" eingefügt. 
-
-hh) Die Zeilen 13 bis 15 erhalten folgende Fassung: 
-
-" 
-
-|Falls die schriftliche Hausarbeit gem. § 7 (3) im||||||||
-|---|---|---|---|---|---|---|---|
-|Fach oder in der Fachdidaktik Informatik||||||||
-|angefertigt wird, dann:||||||||
-|Begleitseminar zur schriftlichen Hausarbeit|SS|2|2S|2,5|SV|6||
-|sonst: Wahlpflichtmodul(e) aus dem Fach<br>Informatik||||2,5|PL lt.<br>MB|||
-||||||||"|
-
-- b) Abs. 2 wird wie folgt geändert: 
-
-aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "bS" durch die Buchstaben "HMA" ersetzt. 
-
-bb) In Zeile 2 Spalte 6 wird nach dem Buchstaben "S" der Buchstabe "L" eingefügt. 
-
-cc) In Zeile 3 Spalte 6 werden die Buchstaben "bS" durch die Buchstaben "HA+SV" ersetzt. 
-
-dd) Folgende Erläuterungen werden angefügt: 
-
-- " **Erläuterungen:** HA: schriftliche Hausarbeit" 
-
-3 
+<!-- Start of picture text -->
+etn'Deen Senet' ' eaten leet' ' eee 'eee<br>' ' ' ' ' '<br>-~-------------------------------------------------------3----------3----i i i teei eti etfl ee<br>i ii<br>ii i i i i<br>i ii<br>'' ' ' ' t<br>i i i i i i<br><!-- End of picture text -->
 
 - c) Abs. 3 wird wie folgt geändert: 
 
-   - aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt. 
-
-   - bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt. 
+   - aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt. bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt. 
 
 - d) In der Tabelle von Abs. 4 werden in Spalte 6 die Buchstaben "bS" durch die Buchstaben "SL" ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. April 2011 in Kraft. 2Sie gilt für Studierenden, die die geänderten Module noch nicht begonnen haben. 
 
@@ -180,129 +125,5 @@ Erlangen, den 28. März 2011
 [Kontaktperson entfernt]
 Die Satzung wurde am 28. März 2011 in der Universität Erlangen-Nürnberg niedergelegt; die Niederlegung wurde am 28. März 2011 durch Anschlag in der Universität ErlangenNürnberg bekannt gegeben. Tag der Bekanntmachung ist der 28. März 2011. 
 
-4
-
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
-
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
-
-### OCR Seite 3
-
-```
-c)
-Abs. 3 wird wie folgt geändert:
-aa) In Zeile 1 der Tabelle Spalte 6 werden die Buchstaben "HA" eingefügt.
-bb) In Zeile 2 der Tabelle Spalte 6 werden die Buchstaben "SV" eingefügt.
-d)
-In der Tabelle von Abs. 4 werden
-in Spalte 6 die Buchstaben "bS" durch die
-Buchstaben "SL" ersetzt.
-3.
-8 7 wird wie folgt geändert:
-a) Abs. 1 wird wie folgt geändert:
-aa)Die
-Spalte
-6
-(Prüfung)
-erhält
-folgende
-Fassung:
-"Studien-
-und
-Prüfungsleistung"
-bb)In Zeile 2 (Modul Algorithmen und Datenstrukturen) Spalte 6 (Prüfung) wird
-nach dem Buchstaben "S" der Buchstabe "L" eingefügt.
-cc)In
-Zeile
-5
-(Modul
-Datenbanksysteme)
-Spalte
-1
-wird
-das
-Wort
-"Datenbanksysteme"
-durch
-die
-Worte
-"Implementierung
-von
-Datenbanksystemen" ersetzt.
-dd)In Zeile 7 (Modul Theoretische Informatik für Lehramtsstudierende) Spalte 6
-(Studien-
-und
-Prüfungsleistung)
-wird
-nach
-dem
-Buchstaben
-"S"
-der
-Buchstabe "L" eingefügt.
-ee)In den Zeile 8 (Praktikum) und 9 (Wahlpflichtmodul) Spalte 6 (Studien- und
-Prüfungsleistung) werden jeweils die Buchstaben
-"bS" durch "PL
-It. MB"
-ersetzt.
-ff)
-Zeile 10 Spalte 1 erhält folgenden Wortlaut:
-"Falls die gewählte Didaktik einer Fächergruppe nicht Mathematik enthält,
-dann:"
-gg)
-In
-Zeile
-12
-(sonst:
-Wahlpflichtmodule(e))
-Spalte
-6
-(Studien-
-und
-Prüfungsleistung) werden die Buchstaben "PL It. MB" eingefügt.
-hh) Die Zeilen 13 bis 15 erhalten folgende Fassung:
-Falls die schriftliche Hausarbeit gem. $ 7 (3) im
-:
-20:
-:
-:
-:
-Fach oder in der Fachdidaktik Informatik
-:
-Ze:
-:
-:
-:
-angefertigt wird, dann:uud
-unnnn bannen.
-Begleitseminar zur schriftlichen Hausarbeit ____:__SS__i 2:____28.__123.._SV
-6.
-Informatik
-'
-'
-'
-ı
-07a
-MB
-b) Abs. 2 wird wie folgt geändert:
-aa)
-In Zeile
-1
-der Tabelle Spalte 6 werden
-die Buchstaben "bS" durch die
-Buchstaben "HMA" ersetzt.
-bb)
-In
-Zeile 2 Spalte 6 wird nach dem Buchstaben
-"S" der Buchstabe
-"L"
-eingefügt.
-cc)
-In Zeile 3 Spalte 6 werden die Buchstaben "bS" durch
-die Buchstaben
-"HA+SV" ersetzt.
-dd)Folgende Erläuterungen werden angefügt:
-"Erläuterungen: HA: schriftliche Hausarbeit"
-3
-```
+4 
 

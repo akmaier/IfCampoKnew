@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 28.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-Germanistik.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:52+00:00
-page_count_chars: 13245
+scraped_at: 2026-07-01T09:42:34+00:00
+page_count_chars: 12902
 ---
 
 # PDF vom 08.06.2010 i.d.F. 28.07.2014
@@ -16,7 +16,7 @@ page_count_chars: 13245
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm - Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 5. November 2010 27. April 2011 18. Januar 2012 28. Juli 2014 
 
@@ -30,13 +30,13 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach- oder Zwei-FachBachelorstudiengang mit dem Hauptfach Germanistik sowie eines Lehramtsstudiengangs aller Schularten im Fach Deutsch.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Abschlüsse anderer Fachrichtungen zugelassen, wenn das Studium maßgeblich germanistische Schwerpunkte in allen drei Teilgebieten (Deutsche Sprachwissenschaft, Neuere Deutsche Literaturwissenschaft, Ältere Deutsche Literaturwissenschaft) zum Gegenstand hatte.[3] Als gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Ab- 
+(1)<sup>1</sup> Fachspezifischer Abschluss ist der Abschluss in einem Ein-Fach- oder Zwei-FachBachelorstudiengang mit dem Hauptfach Germanistik sowie eines Lehramtsstudiengangs aller Schularten im Fach Deutsch.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 ABMStPO/Phil werden Abschlüsse anderer Fachrichtungen zugelassen, wenn das Studium maßgeblich germanistische Schwerpunkte in allen drei Teilgebieten (Deutsche Sprachwissenschaft, Neuere Deutsche Literaturwissenschaft, Ältere Deutsche Literaturwissenschaft) zum Gegenstand hatte.<sup>3</sup> Als gleichwertige Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden Ab- 
 
 1 
 
-schlüsse anderer kultur- und geisteswissenschaftlichen Studiengänge anerkannt.[4] In Zweifelsfällen soll die Zulassungsentscheidung auf der Grundlage eines Auswahlgesprächs gefällt werden.[5] Dies gilt auch für Bewerber von anderen Universitäten mit vergleichbaren Studiengängen in Deutschland, Österreich und der Schweiz. 
+schlüsse anderer kultur- und geisteswissenschaftlichen Studiengänge anerkannt.<sup>4</sup> In Zweifelsfällen soll die Zulassungsentscheidung auf der Grundlage eines Auswahlgesprächs gefällt werden.<sup>5</sup> Dies gilt auch für Bewerber von anderen Universitäten mit vergleichbaren Studiengängen in Deutschland, Österreich und der Schweiz. 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw.im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.[2] Das gleiche gilt für Bewerberinnen und Bewerber mit einem fachverwandten Abschluss bzw. einem solchen mit ausgleichfähigen wesentlichen Unterschieden, vgl. auch **Anlage** 1 Abs. 5 Satz 4 ABMStPO/Phil.[3] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[4] Im Auswahlgespräch wird die Bewerberin oder der Bewerber auf Basis folgender Kriterien beurteilt: 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw.im Falle des § 35 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.<sup>2</sup> Das gleiche gilt für Bewerberinnen und Bewerber mit einem fachverwandten Abschluss bzw. einem solchen mit ausgleichfähigen wesentlichen Unterschieden, vgl. auch **Anlage** 1 Abs. 5 Satz 4 ABMStPO/Phil.<sup>3</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>4</sup> Im Auswahlgespräch wird die Bewerberin oder der Bewerber auf Basis folgender Kriterien beurteilt: 
 
 1. Fachterminologische Sicherheit (30 %) 
 
@@ -60,93 +60,82 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 2 
 
-## **Studienverlaufsplan M.A. Germanistik** 
+### **Studienverlaufsplan M.A. Germanistik** 
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|At d Uf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gt|||||||
-||Lehrveranstaltung|||||esam||meser n<br>||-|r un mang<br>||
-|||||||||Pnktn1|||||
-|||||||ECTS||u|e||der Prüfungs- oder Studienleistung||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Es sind alle drei Grundlagenmodule zu belegen.**|||||||||||||
-|**Grundlagen**|||||||||||||
-|**Sprachnorm und Variation**<br>**(I LING)**|Masterseminar||||2|10|7||||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)2|1|
-||Übung/Vorlesung|(2)|(2)||||3||||||
-|**Systematische Aspekte NDL**<br>**(I NDL)**|Masterseminar||||2|10|7||||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)²|1|
-||Übung/Vorlesung|(2)|(2)||||3||||||
-|**Systematische Aspekte ÄDL**<br>**(I MED)**|Masterseminar||||2|10|7||||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30 Min.)²|1|
-||Übung/Vorlesung|(2)|(2)||||3||||||
-|**Es sind Aufbaumodule im Umfang von insgesamt 30 ECTS-Punkten zu wählen.**|||||||||||||
-|**Aufbaumodule Linguistik**|||||||||||||
-|**Linguistische Methoden und**<br>**Theorien**<br>**(II LING 1)3**|Masterseminar||||2|10||5|||Portfolio:<br>Referat (ca. 20 Min.) und<br>WöchentlicheHausaufgaben|0|
-||Übung/Vorlesung|(2)|(2)|||||5|||||
-|**Historische Linguistik und**<br>**Sprachwandel**<br>**(II LING 2)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30 Min.)|1|
-||Übung/Vorlesung|(2)|(2)|||||3|||||
-|**Grammatiktheorie, Lexikon-**<br>**theorie und ihre Anwendung**<br>**(auch aus DaF-Perspektive)**<br>**(II LING 3)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30 Min.)|1|
-||Übung/Vorlesung|(2)|(1)|||||3|||||
-|**Lektüremodul LING**<br>**(II LING 4)3**||||||10||10|||schriftlicher Bericht (10 Seiten) oder<br>mündlicher Lektürebericht (30Min.)|1|
-|**Aufbaumodule Neuere deutsche Literaturwissenschaft**|||||||||||||
-|**Kulturwissenschaftl. NDL**<br>**(II NDL 1)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)|||||3|||||
-|**Komparatistische NDL**<br>**(II NDL 2)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)|||||3|||||
+||||||Workload-Verteilung pro<br>||Faktor|
+|---|---|---|---|---|---|---|---|
+||||SWS|Gesamt|Semester in ECTS-|Art und Umfan||
+|Mdlbih|Lhl||||<br>|g|Mdl|
+|ouezecnung|erveranstatung|||ECTS|Punkten<sup>1</sup>|der Prüfungs- oder Studienleistung|ou-<br>|
+|||V|Ü<br>P<br>S||1<br>2<br>3<br>4||note|
+|**Es sind alle drei Grundlagenmo**<br>**Grundlagen**|**dule zu belegen.**||<br>||.<br>.<br>.<br>.|||
+|**Sprachnorm und Variation**|Masterseminar||2|10|7|Referat und Hausarbeit (15-25 Seiten)<br>d ihftlih Pätti|1|
+|**(I LING)**|Übung/Vorlesung|(2)|(2)||3|oer wssenscace rsenaon<br>(30Min.)<sup>2</sup>||
+|**Systematische Aspekte NDL**|Masterseminar||2|10|7|Referat und Hausarbeit (15-25 Seiten)<br>d ihftlih Pätti|1|
+|**(I NDL)**|Übung/Vorlesung|(2)|(2)||3|oer wssenscace rsenaon<br>(30Min.)²||
+|**Systematische Aspekte ÄDL**|Masterseminar||2|10|7|Referat und Hausarbeit (15-25 Seiten)<br>d ihftlih Pätti|1|
+|**(I MED)**|Übung/Vorlesung|(2)|(2)||3|oer wssenscace rsenaon<br>(30 Min)²||
+|**Es sind Aufbaumodule im Umf**<br>**Aufbaumodule Linguistik**<br>|**ang von insgesamt 3**|**0 ECT**|**S-Punkten zu wählen**|**.**||.<br>||
+|**Linguistische Methoden und**<br>|Masterseminar||2||5|Portfolio:<br>||
+|**Theorien**||||10||Referat (ca 20 Min) und|0|
+|<br>**(II LING 1)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)||5|.  .<br>WöchentlicheHausaufgaben||
+|**Historische Linguistik und**<br>**Sprachwandel**|Masterseminar||2|10|7|Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation|1|
+|<br>**(II LING 2)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)||3|<br>(30 Min.)||
+|**Grammatiktheorie, Lexikon-**<br>**theorie und ihre Anwendung**<br>|Masterseminar||2|10|7|Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation|1|
+|**(auch aus DaF-Perspektive)**<br>**(II LING 3)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(1)||3|(30 Min.)||
+|**Lektüremodul LING**<br> <sup>**3**</sup>||||10|10|schriftlicher Bericht (10 Seiten) oder<br>|1|
+|**II LING 4**||||||mündlicher Lektürebericht30Min.||
+|<br>**Aufbaumodule Neuere deutsch**|**e Literaturwissensch**|**aft**||||||
+|**Kulturwissenschaftl NDL**|Masterseminar||2||7|Referat und Hausarbeit (15-25 Seiten)<br>||
+|**.**<br>**(II NDL 1)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)|10|3|oder wissenschaftliche Präsentation<br>(30Min.)|1|
+|**Komaratistische NDL**|Masterseminar||2||7|Referat und Hausarbeit (15-25 Seiten)||
+|**p**<br>**(II NDL 2)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)|10|3|oder wissenschaftliche Präsentation<br>(30Min.)|1|
 
 3 
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|At d Uf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gt|||||||
-||Lehrveranstaltung|||||esam|emeser n -<br>Punkten1||||r un mang<br>||
-||||||||||||||
-|||||||ECTS|||||der Prüfungs- oder Studienleistung||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Es sind alle drei Grundlagenmodule zu belegen.**|||||||||||||
-|**Lektüremodul NDL**<br>**(II NDL 3)3**||||||10||10|||schriftlicher Bericht (10 Seiten) oder<br>mündlicher Lektürebericht (30Min.)|1|
-|**Aufbaumodule Mediävistik**|||||||||||||
-|**Kulturwissenschaftl. ÄDL**<br>**(II MED 1)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)|||||3|||||
-|**Komparatistische ÄDL**<br>**(II MED 2)3**|Masterseminar||||2|10||7|||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)|||||3|||||
-|**Lektüremodul ÄDL**<br>**(II MED 3)3**||||||10||10|||schriftlicher Bericht (10 Seiten) oder<br>mündlicher Lektürebericht (30Min.)|1|
-|**Es ist eine der drei nachfolgenden Vertiefungen zu belegen.**|||||||||||||
-|**Vertiefungsmodule Linguistik**|||||||||||||
-|**Sprachvariation/-kontakt (III**<br>**LING 1a)4**|Masterseminar||||2|10|||7||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30 Min.)|1|
-||Übung/Vorlesung|(2)|(2)||||||3||||
-|**Lexikographie und Lexikolo-**<br>**gie**<br>**(III LING 1b)4 **|Masterseminar||||2|10|||7||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)||||||3||||
-|**Projektmodul LING**<br>**(III LING 2)**|Projektmitarbeit/<br>Praktikum|||||15|||15||schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
-|**Oberseminar LING**<br>**(III LING 3)**|Oberseminar||||2|5|||5||Präsentation und Diskussion der Mas-<br>terarbeit (45Min.)|0|
-|**Vertiefungsmodule Neuere deutsche Literaturwissenschaft**|||||||||||||
-|**Literaturgeschichte NDL**<br>**(III NDL 1)**|Masterseminar||||2|10|||7||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)||||||3||||
-|**Projektmodul NDL**<br>**(III NDL 2)**|Projektmitarbeit/<br>Praktikum|||||15|||15||Schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
-|**Oberseminar NDL**<br>**(III NDL3)**|Oberseminar||||2|5|||5||Präsentation und Diskussion der Mas-<br>terarbeit (45 Min.)|0|
-|**Vertiefungsmodule Mediävistik**|||||||||||||
+|Modulbezeichnung|Lehrveranstaltung||SWS|Gesamt<br> <br>W|orkload-V<br>Semester<br>|erteilung pro<br>in ECTS-<br><sup>1</sup>|Art und Umfang<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|
+|||||ECTS|Pun|kten|der Prüfungs- oder Studienleistung|note|
+|**Es sind alle drei Grundlagenmo**<br>|**dule zu belegen.**|V|Ü<br>P<br>S|1|.<br>2.|3.<br>4.|<br>||
+|**Lektüremodul NDL**<br>**(II NDL 3)**<sup>**3**</sup>||||10|10||schriftlicher Bericht (10 Seiten) oder<br>mündlicher Lektürebericht (30Min.)|1|
+|**Aufbaumodule Mediävistik**|||||||||
+|**Ä**|Masterseminar||2||7||Referat und Hausarbeit (15-25 Seiten)||
+|**Kulturwissenschaftl. DL**<br>**(II MED 1)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)|10|3||<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
+|**Komparatistische ÄDL**|Masterseminar||2||7||Referat und Hausarbeit (15-25 Seiten)<br>||
+|<br>**(II MED 2)**<sup>**3**</sup>|Übung/Vorlesung|(2)|(2)|10|3||oder wissenschaftliche Präsentation<br>(30Min.)|1|
+|**Lektüremodul ÄDL**<br>**(II MED 3)**<sup>**3**</sup>||||10|10||schriftlicher Bericht (10 Seiten) oder<br>mündlicher Lektürebericht(30Min)|1|
+|<br>**Es ist eine der drei nachfolgende**<br>**Vertiefungsmodule Linguistik**|**n Vertiefungen zu be**<br>|**legen.**|||||.<br>||
+|**Sprachvariation/-kontakt (III**|Masterseminar||2|||7|Referat und Hausarbeit (15-25 Seiten)<br>||
+|<br>**LING 1a)**<sup>**4**</sup>|Übung/Vorlesung|(2)|(2)|10||3|oder wissenschaftliche Präsentation<br>(30 Min.)|1|
+|**Lexikographie und Lexikolo-**<br>|Masterseminar||2|||7|Referat und Hausarbeit (15-25 Seiten)<br>||
+|**gie**<br>**(III LING 1b)**<sup>**4**</sup>|Übung/Vorlesung|(2)|(2)|10||3|oder wissenschaftliche Präsentation<br>(30Min.)|1|
+|**Projektmodul LING**<br>**(III LING 2)**|Projektmitarbeit/<br>Praktikum|||15||15|schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
+|**Oberseminar LING**<br>**(III LING 3)**|Oberseminar||2|5||5|Präsentation und Diskussion der Mas-<br>terarbeit(45Min)|0|
+|<br>**Vertiefungsmodule Neuere deu**|**tsche Literaturwisse**<br>|**nschaf**|**t**<br>||||.<br>||
+|**Literaturgeschichte NDL**<br>**(III NDL 1)**|Masterseminar<br>Übung/Vorlesung|(2)|2<br>(2)|10||7<br>3|Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
+|**Projektmodul NDL**<br>**(III NDL 2)**|Projektmitarbeit/<br>Praktikum|||15||15|Schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
+|**Oberseminar NDL**<br>**(III NDL3)**<br>**Vertiefungsmodule Mediävistik**|Oberseminar<br>||2|5||5|Präsentation und Diskussion der Mas-<br>terarbeit (45 Min.)|0|
 
 4 
 
-|Modulbezeichnung||SWS|SWS|SWS|SWS||Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|Workload-Verteilung pro<br>St i ECTS|At d Uf|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gt|||||||
-||Lehrveranstaltung|||||esam||meser n<br>||-|r un mang<br>||
-|||||||||Punkten1|||||
-|||||||ECTS|||||der Prüfungs- oder Studienleistung||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|**Es sind alle drei Grundlagenmodule zu belegen.**|||||||||||||
-|**Literaturgeschichte ÄDL**<br>**(III MED 1)**|Masterseminar||||2|10|||7||Referat und Hausarbeit (15-25 Seiten)<br>oder wissenschaftliche Präsentation<br>(30Min.)|1|
-||Übung/Vorlesung|(2)|(2)||||||3||||
-|**Projektmodul ÄDL**<br>**(III MED 2)**|Projektmitarbeit/<br>Praktikum|||||15|||15||Schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
-|**Oberseminar ÄDL**<br>**(III MED 3)**|Oberseminar||||2|5|||5||Präsentation und Diskussion der Mas-<br>terarbeit (45Min.)|0|
-|**Je nachgewähltem Vertiefungsbereich ist eines der nachfolgenden**||||**drei Module zu belegen.**|||||||||
-|**Abschlussmodule**|||||||||||||
-|**Mastermodul LING**<br>**(IV LING)**|Masterarbeit|||||30||||25|Portfolioprüfung:<br>Masterarbeit (ca. 70-90 S., 85 %) und<br>mündlichePrüfung (30Min.,15 %)|1|
-||Abschlussprüfung|||||||||5|||
-|**Mastermodul NDL**<br>**(IV NDL)**|Masterarbeit|||||30||||25|Portfolioprüfung:<br>Masterarbeit (ca. 70-90 S., 85 %) und<br>mündlichePrüfung (30Min.,15 %)|1|
-||Abschlussprüfung|||||||||5|||
-|**Mastermodul ÄDL**<br>**(IV MED)**|Masterarbeit|||||30||||25|Portfolioprüfung:<br>Masterarbeit (ca. 70-90 S., 85 %) und<br>mündlichePrüfung (30Min.,15 %)|1|
-||Abschlussprüfung|||||||||5|||
-||Summe:|0-14|0-14|0|14-16|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung||SWS|Gesamt<br> <br>W|orkload-Verteilung pro<br>Semester in ECTS-<br>Pkt<sup>1</sup>|Art und Umfang<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|
+||||||unen|er runs- oer uenesun||
+||||||||noe|
+|**Es sind alle drei Grundlagen**|**module zu belegen.**<br>|V|Ü<br>P<br>S<br>|1|.<br>2.<br>3.<br>4.<br>|<br>||
+|**Literaturgeschichte ÄDL**|Masterseminar||2||7|Referat und Hausarbeit (15-25 Seiten)<br>||
+|||||||oer wssenscace rsenaon||
+|**(III MED 1)**|Übung/Vorlesung|(2)|(2)||3|<br>(30Min.)||
+|**Projektmodul ÄDL**<br>**(III MED 2)**|Projektmitarbeit/<br>Praktikum|||15|15|Schriftlicher Bericht (15 Seiten) oder<br>mündlicher Bericht (30 Min.) oder<br>Präsentation(20Min.)|0|
+|**Oberseminar ÄDL**<br>**(III MED 3)**|Oberseminar||2|5|5|Präsentation und Diskussion der Mas-<br>terarbeit(45Min)|0|
+|<br>**Je nachgewähltem Vertiefung**<br>**Abschlussmodule**|**sbereich ist eines der n**|**achfol**|**genden drei Module zu**|**belegen.**||.<br>||
+|**Mastermodul LING**<br>|Masterarbeit|||30|25|Portfolioprüfung:<br>Masterarbeit (ca 70-90 S 85 %) und|1|
+|**(IV LING)**|Abschlussprüfung||||5|.  .,<br>mündlichePrüfung (30Min.,15 %)||
+|**Mastermodul NDL**|Masterarbeit|||30|25|Portfolioprüfung:<br>Mtrrbit  7090 S 85 % nd|1|
+|**(IV NDL)**|Abschlussprüfung||||5|aseae (ca. - .,  ) u<br>mündlichePrüfung (30Min.,15 %)||
+|**Mastermodul ÄDL**|Masterarbeit|||30|25|Portfolioprüfung:<br>Masterarbeit (ca 70-90 S 85 %) und|1|
+|**(IV MED)**|Abschlussprüfung||||5|.  .,<br>mündlichePrüfung (30Min.,15 %)||
+||Summe:|0-14|0-14<br>0<br>14-16|120<br>3|0<br>30<br>30<br>30|||
 
 - 1) Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

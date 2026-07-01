@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES-2FachBA%20Philosophie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:10:48+00:00
-page_count_chars: 3757
+scraped_at: 2026-07-01T10:28:10+00:00
+page_count_chars: 3732
 ---
 
 # 9. März 2011
@@ -14,15 +14,15 @@ page_count_chars: 3757
 
 **Fünfte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Philosophie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
-## § 4 wird wie folgt geändert: 
+# § 4 wird wie folgt geändert: 
 
 a) Nach Abs. 1 folgender neuer Abs. 2 eingefügt: 
 
@@ -30,7 +30,8 @@ a) Nach Abs. 1 folgender neuer Abs. 2 eingefügt:
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|<br>**SS**|**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br> <br>**13**|<br>**13**|
 |**Basismodul 1: Propädeutik**||||||||||
 |Propädeutik I: Arbeitsmittel und -techniken der Philosophie|GOP|3|4,0||4|||||
 |Propädeutik II: Logisch-philosophische Propädeutik|GOP|3|6,0||6|||||
@@ -56,12 +57,12 @@ a) Nach Abs. 1 folgender neuer Abs. 2 eingefügt:
 |Hauptsem.||2|8,0||||8|||
 |Kolloquium||2|2,0|||||2||
 
-|**Vertiefungsmodul 2:  (alternativ in theoret.,**<br>**prakt., Phil. o. Phil.-gesch.)**||||||||||
-|---|---|---|---|---|---|---|---|---|---|
-|Hauptsem.||2|8,0||||8|||
-|Kolloquium||2|2,0|||||2||
-|**Modul Bachelorarbeit**|||**10,0 **|||||||
-|Bachelorarbeit|||||||||10|
+|**Vertiefungsmodul 2:  (alternativ in theoret.,**<br>**prakt., Phil. o. Phil.-gesch.)**|||||
+|---|---|---|---|---|
+|Hauptsem.|2|8,0|8||
+|Kolloquium|2|2,0|2||
+|**Modul Bachelorarbeit**||**10,0 **|||
+|Bachelorarbeit||||10|
 
 Für die GOP müssen mindestens das Basismodul I (10 ECTS-Punkte) sowie eines der Basismodule IIA oder IIIA im Umfang von 10 ECTS-Punkten erfolgreich abgelegt sein. “ 
 
@@ -69,7 +70,7 @@ b) Die bisherigen Abs. 2 bis 5 werden zu Abs. 3 bis 6.
 
 c) In Abs. 5 (neu) wird „Absatz 1“ durch „Abs. 1 und 2“ ersetzt. 
 
-**§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

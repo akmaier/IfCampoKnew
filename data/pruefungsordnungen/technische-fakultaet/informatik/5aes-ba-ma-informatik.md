@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Oktober 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES BA-MA Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:24+00:00
-page_count_chars: 4939
+scraped_at: 2026-07-01T11:37:38+00:00
+page_count_chars: 4958
 ---
 
 # 8. Oktober 2012
@@ -12,13 +12,13 @@ page_count_chars: 4939
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES BA-MA Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOI -** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOI -** 
 
-## Vom 8. Oktober 2012 
+# Vom 8. Oktober 2012 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art 43 Abs. 4 und 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den  Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Universität Erlangen-Nürnberg - FPOI - vom 21. September 2007, zuletzt geändert durch Satzung vom 31. Juli 2012, wird wie folgt geändert: 
 
@@ -32,15 +32,15 @@ b) Abs. 4 wird gestrichen. Die bisherigen Abs. 5 bis 8 werden zu Abs. 4 bis 7.
 
 d) Nach Abs. 7 (neu) wird folgender neuer Abs. 8 angefügt: 
 
-„(8)[1] Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.[2] Bei Wahlmodulen können englischsprachige Module angeboten werden. 
+„(8)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.<sup>2</sup> Bei Wahlmodulen können englischsprachige Module angeboten werden. 
 
 2. § 37 wird wie folgt geändert: 
 
    - a) In der Überschrift wird nach dem Wort „Studienbeginn“ ein Komma und das Wort „Sprache“ angefügt. 
 
-   - b) Nach Abs. 6 wird folgender neuer Abs. 7 angefügt: 
+b) Nach Abs. 6 wird folgender neuer Abs. 7 angefügt: 
 
-„(7)[1] Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.[2] Bei Wahlmodulen können englischsprachige Module angeboten werden. 
+„(7)<sup>1</sup> Die Unterrichts- und Prüfungssprache ist in der Regel deutsch.<sup>2</sup> Bei Wahlmodulen können englischsprachige Module angeboten werden. 
 
 3. In § 44 wird folgender neuer Abs. 4 angefügt: 
 
@@ -62,7 +62,7 @@ d) Nach Abs. 7 (neu) wird folgender neuer Abs. 8 angefügt:
 
    - c)  In den Erläuterungen unter der Tabelle werden die Worte „b: benoteter Leistungsnachweis, b‘: benoteter Leistungsnachweis“ durch die Worte „PL: Prüfungsleistung“ ersetzt. 
 
-6. Anlage 2a wird wie folgt geändert: 
+# 6. Anlage 2a wird wie folgt geändert: 
 
    - a) In Zeile 1 Spalte 7 wird das Wort „Prüfung“ durch das Wort „Prüfungsleistung (PL)“ ersetzt. 
 
@@ -76,17 +76,17 @@ d) Nach Abs. 7 (neu) wird folgender neuer Abs. 8 angefügt:
 
 „ 
 
-8. Anlage 3 wird wie folgt geändert: 
+# 8. Anlage 3 wird wie folgt geändert: 
 
-   - a) Nach den Worten „Germanistische Linguistik“ wird ein neuer Punkt„• Japanologie“ eingefügt. 
+- a) Nach den Worten „Germanistische Linguistik“ wird ein neuer Punkt„• Japanologie“ eingefügt. 
 
-   - b) Nach dem Wort „Psychologie“ werden folgende neue Punkte eingefügt: „• Rechtswissenschaften 
+- b) Nach dem Wort „Psychologie“ werden folgende neue Punkte eingefügt: „• Rechtswissenschaften 
 
-      - Romanistik“ 
+   - Romanistik“ 
 
-   - c) Nach dem Wort „Sinologie“ wird ein neuer Punkt „• Nordische Philologie“ eingefügt. 
+- c) Nach dem Wort „Sinologie“ wird ein neuer Punkt „• Nordische Philologie“ eingefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 2Sie gilt hinsichtlich der geänderten Module für alle Studierenden, die diese noch nicht begonnen haben. 
 

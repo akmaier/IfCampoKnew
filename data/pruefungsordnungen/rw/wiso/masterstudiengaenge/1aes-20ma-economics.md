@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. Februar 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES%20MA-Economics.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:35:14+00:00
-page_count_chars: 4179
+scraped_at: 2026-07-01T11:01:04+00:00
+page_count_chars: 4080
 ---
 
 # 23. Februar 2010
@@ -18,7 +18,7 @@ Vom 23. Februar 2010
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOECO - vom 20. Juli 2009 wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der R
 
    - a) Satz 2 erhält folgende neue Fassung: 
 
-      - „[2] Im zweiten Semester wählen die Studierenden sechs der folgenden Wahlmodule (je 5 ECTS-Punkte): 
+      - „<sup>2</sup> Im zweiten Semester wählen die Studierenden sechs der folgenden Wahlmodule (je 5 ECTS-Punkte): 
 
          1. Industrieökonomik 1 
 
@@ -60,24 +60,48 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Economics der R
 
 „ 
 
-|**Studienplan DMSE **|**Studienplan DMSE **|||||
+|**Studienplan DMSE **||||||
 |---|---|---|---|---|---|
 |||**1**|**2**|**3**|**4**|
 ||ECTS|ECTS|ECTS|ECTS|ECTS|
 |**1. Semester: Pflichtbereich - 6 Pflichtmodule**||||||
-|Mikroökonomik 1<br>Mikroökonomik 2<br>Makroökonomik 1<br>Makroökonomik 2<br>Fortgeschrittene Mathematik für Ökonomen<br>Ökonometrie 1|5<br>5<br>5<br>5<br>5<br>5|5||||
-|||5||||
-|||5||||
-|||5||||
-|||5||||
-|||5||||
+|Mikroökonomik 1|5|5||||
+|Mikroökonomik 2|5|5||||
+|Makroökonomik 1|5|5||||
+|Makroökonomik 2|5|5||||
+|Fortgeschrittene Mathematik für Ökonomen|5|5||||
+|Ökonometrie 1|5|5||||
 
-**==> picture [487 x 420] intentionally omitted <==**
+|**2. Semester: Wahlbereich - Wahl von 6 Modulen**|||||
+|---|---|---|---|---|
+|Industrieökonomik 1 (Wettbewerbstheorie)<br>Ökonometrie 2 (Stichproben aus normalverteilten<br>Grundgesamtheiten)<br>|5<br>5|5<br>5|||
+|Ökonometrie 3 (Mikroökonometrie)|5|5|||
+|Personalökonomie|5|5|||
+|Ausgewählte Aspekte der Sozialpolitik<br>|5|5|||
+|Ökonomische Theorie 1 (Verhaltensökonomik)<br>Volkswirtschaftliche Grundlagen der Wirtschafts- u.<br>Sozialgeschichte|5<br>5|5<br>5|||
+|Institutionen und Organisationen des Arbeitsmarktes|5|5|||
+|Weitere Wahlmodule des 2. Semesters|||||
+|**3. Semester: Wahlbereich - Wahl von 3 VWL Modulen + 2 beliebige**|**Module + Seminar**||||
+|Wahlangebot VWL: mind. 3 Module mit 5 ECTS|15||15||
+|- Finanzwissenschaft|_5_||_5_||
+|- Ökonometrie 4 (Panel- und Evaluationsverfahren)<br>- Ökonometrie 5 (Multivariate Zeitreihen- und Strukturmodelle<br>|_5_<br>||_5_<br>||
+|1)<br>- Ökonometrie 6 (Multivariate Zeitreihen- und Strukturmodelle|_5_||_5_||
+|2)|_5_||_5_||
+|- Ökonomische Theorie 2 (Auktionen und Marktdesign)|_5_||_5_||
+|- Ausgewählte Aspekte der Ökonomik|_5_||_5_||
+|- Industrieökonomik 2 (Wettbewerbspolitik und Regulierung)|_5_||_5_||
+|- Seminar zur experimentellen Wirtschaftsforschung|_5_||_5_||
+|- Empirische Arbeitsmarkforschung|_5_||_5_||
+|- Wirtschaftstheoretisches Seminar|_5_||_5_||
+|-  Arbteitsmarktökonomie|_5_||_5_||
+|Wahlangebot Sonstige: max. 2 Module mit 5 ECTS|10||10||
+|Ökonomisches Seminar|5||5||
+|**4. Semester: Masterarbeit**|||||
+|Masterarbeit|25|||25|
+|Seminar zur Masterarbeit|5|||5|
+|ECTS|120|30<br>30|30|30<br>„|
 
-**----- Start of picture text -----**<br>
-2. Semester: Wahlbereich - Wahl von 6 Modulen<br>Industrieökonomik 1 (Wettbewerbstheorie)  5  5<br>Ökonometrie 2 (Stichproben aus normalverteilten<br>Grundgesamtheiten)  5  5<br>Ökonometrie 3 (Mikroökonometrie)  5  5<br>Personalökonomie  5  5<br>Ausgewählte Aspekte der Sozialpolitik  5  5<br>Ökonomische Theorie 1 (Verhaltensökonomik)  5  5<br>Volkswirtschaftliche Grundlagen der Wirtschafts- u.<br>Sozialgeschichte  5  5<br>Institutionen und Organisationen des Arbeitsmarktes  5  5<br>Weitere Wahlmodule des 2. Semesters<br>3. Semester: Wahlbereich - Wahl von 3 VWL Modulen + 2 beliebige Module + Seminar<br>Wahlangebot VWL: mind. 3 Module mit 5 ECTS  15  15<br> - Finanzwissenschaft   5  5<br> - Ökonometrie 4 (Panel- und Evaluationsverfahren)  5  5<br> - Ökonometrie 5 (Multivariate Zeitreihen- und Strukturmodelle<br>1)  5  5<br> - Ökonometrie 6 (Multivariate Zeitreihen- und Strukturmodelle<br>2)  5  5<br> - Ökonomische Theorie 2 (Auktionen und Marktdesign)  5  5<br> - Ausgewählte Aspekte der Ökonomik  5  5<br> - Industrieökonomik 2 (Wettbewerbspolitik und Regulierung)  5  5<br> - Seminar zur experimentellen Wirtschaftsforschung  5  5<br> - Empirische Arbeitsmarkforschung  5  5<br> - Wirtschaftstheoretisches Seminar  5  5<br>-  Arbteitsmarktökonomie  5  5<br>Wahlangebot Sonstige: max. 2 Module mit 5 ECTS  10  10<br>Ökonomisches Seminar  5 5<br>4. Semester: Masterarbeit<br>Masterarbeit  25  25<br>Seminar zur Masterarbeit  5  5<br>ECTS 120 30 30 30 30<br>„<br>**----- End of picture text -----**<br>
-
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

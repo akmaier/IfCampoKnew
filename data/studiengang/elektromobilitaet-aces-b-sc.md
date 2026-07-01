@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:44:29+00:00
+scraped_at: 2026-07-01T08:21:02+00:00
 ---
 
 # Elektromobilität-ACES (B.Sc.)
@@ -37,7 +37,7 @@ Der Umstieg auf Elektromobilität stellt damit einen äußerst wichtigen Schritt
 
 Nach aktuellen Studien werden bereits ab ca. 2025 Elektroautos in der Herstellung günstiger als Autos mit Verbrennungsantrieb sein. Deshalb sucht die Industrie Ingenieurinnen und Ingenieure mit fundierten Kenntnissen im Bereich Elektromobilität.
 
-### Bachelor of Science Elektromobilität-ACES
+### Fachanteile des Studiengangs Elektromobilität-ACES (B.Sc.)
 
 * Maschinenbau (45%)
 * Mathematik (21%)

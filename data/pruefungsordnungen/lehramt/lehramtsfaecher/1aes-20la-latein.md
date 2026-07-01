@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Latein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:13:03+00:00
-page_count_chars: 1679
+scraped_at: 2026-07-01T08:41:22+00:00
+page_count_chars: 1675
 ---
 
 # 31. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 1679
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LA-Latein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 31. März 2010 
+# Vom 31. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengang der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 26. März 2009 wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Fachstudien- und Prüfungsordnung für das Fach Latein im Lehramtsstudiengan
 
    - b) In Abs. 3 werden unter den Wörtern „Pflichtbereich für Latein als erstes Fach“ das Wort „Abschlussmodul“ und die Tabelle ersatzlos gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

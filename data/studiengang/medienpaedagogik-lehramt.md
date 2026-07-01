@@ -8,7 +8,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "50-150"
 besondere_studienformen: "Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:48:50+00:00
+scraped_at: 2026-07-01T08:25:42+00:00
 ---
 
 # Medienpädagogik (Lehramt)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 24.07.2009 i.d.F. 11.06.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/PO-MA-IntBusStud.Juni2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:37:52+00:00
-page_count_chars: 9247
+scraped_at: 2026-07-01T11:03:03+00:00
+page_count_chars: 9126
 ---
 
 # PDF vom 24.07.2009 i.d.F. 11.06.2015
@@ -16,7 +16,7 @@ page_count_chars: 9247
 
 **Hinweis:** Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS - Vom 24. Juli 2009** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang International Business Studies der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - FPOIBS - Vom 24. Juli 2009** 
 
 geändert durch Satzungen vom 23. Februar 2010 8. März 2011 
 
@@ -44,9 +44,7 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 2. Nachweis über Berufsausbildung, Berufserfahrung, Praktika und Auslandsaufenthalte, soweit jeweils vorhanden 
 
-3. Nachweis über deutsche Sprachkenntnisse, soweit vorhanden 
-
-4. Nachweis über weitere Sprachkenntnisse, soweit vorhanden 
+3. Nachweis über deutsche Sprachkenntnisse, soweit vorhanden 4. Nachweis über weitere Sprachkenntnisse, soweit vorhanden 
 
 (3) In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach der Anlage, Nr. 2.3 MPOWIWI und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit den nachstehenden maximal zu vergebenden Punkten gemäß Anlage, Nr. 5.1 MPOWIWI bewertet: 
 
@@ -56,11 +54,11 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3. Sonstige Qualifikationen, wie einschlägige Berufserfahrung, insbesondere Praktika, Berufsausbildung (max. 10 Punkte). 
 
-(4)[1] Die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, werden in der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI schriftlich zur Anfertigung eines Essays innerhalb einer bestimmten Frist (Ausschlussfrist) zu einem bekannt gegebenen Thema über eine Fragestellung aus dem Bereich der International Business Studies aufgefordert.[2] Auf Basis einer kritischen Begutachtung des Essays durch mindestens zwei Mitglieder der Zugangskommission werden die Bewerberinnen und Bewerber hinsichtlich ihrer besonderen fachlichen Qualifikation zum Masterstudium International Business Studies beurteilt.[3] Der Essay soll in englischer Sprache abgefasst werden und bei einer Bearbeitungszeit von einer Woche zwei Seiten umfassen und elektronisch bei der Zugangskommission eingereicht werden.[4] Die Begutachtung erstreckt sich auf den Essay vor dem Hintergrund der Qualität der inhaltlichen, argumentativen und strukturellen Auseinandersetzung mit dem zu bearbeitenden Thema sowie der Ausdrucksweise.[ 5] Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.[6] Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+(4)<sup>1</sup> Die Bewerberinnen und Bewerber, die im Bereich von 69-50 Punkten liegen, werden in der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß der Anlage, Nr. 5.2.1 MPOWIWI schriftlich zur Anfertigung eines Essays innerhalb einer bestimmten Frist (Ausschlussfrist) zu einem bekannt gegebenen Thema über eine Fragestellung aus dem Bereich der International Business Studies aufgefordert.<sup>2</sup> Auf Basis einer kritischen Begutachtung des Essays durch mindestens zwei Mitglieder der Zugangskommission werden die Bewerberinnen und Bewerber hinsichtlich ihrer besonderen fachlichen Qualifikation zum Masterstudium International Business Studies beurteilt.<sup>3</sup> Der Essay soll in englischer Sprache abgefasst werden und bei einer Bearbeitungszeit von einer Woche zwei Seiten umfassen und elektronisch bei der Zugangskommission eingereicht werden.<sup>4</sup> Die Begutachtung erstreckt sich auf den Essay vor dem Hintergrund der Qualität der inhaltlichen, argumentativen und strukturellen Auseinandersetzung mit dem zu bearbeitenden Thema sowie der Ausdrucksweise.<sup>5</sup> Jedes der Mitglieder vergibt auf das Ergebnis der Qualifikationsfeststellungsbegutachtung maximal 20 Punkte.<sup>6</sup> Die Punktzahl der Qualifikationsfeststellungsbegutachtung ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Im Kernbereich (Core Courses) werden grundlegende Kenntnisse im Bereich International Business Studies in folgenden neun Feldern vertiefend vermittelt; aus diesen sind Module im Umfang von 60 ECTS-Punkten zu wählen: 
+(1)<sup>1</sup> Im Kernbereich (Core Courses) werden grundlegende Kenntnisse im Bereich International Business Studies in folgenden neun Feldern vertiefend vermittelt; aus diesen sind Module im Umfang von 60 ECTS-Punkten zu wählen: 
 
 1. Environment of International Business 
 
@@ -86,13 +84,15 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 1. English Speaking Countries 
 
-2. Romance Countries 3. Asia 
+2. Romance Countries 
+
+3. Asia 
 
 4. Europe 
 
-3Die Masterarbeit International Business Studies setzt sich aus den beiden Prüfungsleistungen Masterthesis (30 ECTS-Punkte) und dem Masterseminar International Business Studies zusammen.[4] Art und Umfang der Prüfungen bestimmen sich nach den §§ 10 und 16 – 18a MPOWIWI. 
+3Die Masterarbeit International Business Studies setzt sich aus den beiden Prüfungsleistungen Masterthesis (30 ECTS-Punkte) und dem Masterseminar International Business Studies zusammen.<sup>4</sup> Art und Umfang der Prüfungen bestimmen sich nach den §§ 10 und 16 – 18a MPOWIWI. 
 
-(2)[1] Die Lehrveranstaltungen finden in der Regel in englischer Sprache statt.[2] Näheres regelt das Modulhandbuch. 
+(2)<sup>1</sup> Die Lehrveranstaltungen finden in der Regel in englischer Sprache statt.<sup>2</sup> Näheres regelt das Modulhandbuch. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -100,51 +100,46 @@ Die Fachprüfungsordnung für den forschungsorientierten konsekutiven Masterstud
 
 3 
 
-## **Anlage: Überblickstabelle Studienverlauf** 
+### **Anlage: Überblickstabelle Studienverlauf** 
 
-|**Master in International Business Studies**|**Master in International Business Studies**|**Master in International Business Studies**|||||
-|---|---|---|---|---|---|---|
-||||**1**|**2**|**3**|**4**|
-|||ECTS|ECTS|ECTS|ECTS|ECTS|
-|**Core Courses(Kernbereich) (60 out of 90 ECTS/60 aus 90 ECTS**)<br>**60**|||20|20|20||
-|Modulbereich: Environment of International Business||10|||||
-|Issues in International Political Economy<br>International and European Trade Law||5<br>5|||||
-||||||||
-|Modulbereich: Foundations of International Management||10|||||
-|Foundations of International Management I<br>Foundations of International Management II||5<br>5|||||
-||||||||
-|Modulbereich: International Strategic Management||10|||||
-|Business Strategy - Concepts and Cases<br>Advanced Methods of Management Research IV||5<br>5|||||
-||||||||
-|Modulbereich: International Functional Management||10|||||
-|International Marketing<br>Global Operations Strategy||5<br>5|||||
-||||||||
-|Modulbereich: International Information Management||10|||||
-|E-Business Projects and Innovation<br>E-Business Strategy and Networking||5<br>5|||||
-||||||||
-|Modulbereich: Soft Skills||10|||||
-|Managing Intercultural Relations<br>Advanced Intercultural Communication and Negotiation Skills||5<br>5|||||
-||||||||
-|Modulbereich: International Finance and Corporate Governance||10|||||
-|International Finance<br>International Corporate Governance||5<br>5|||||
-||||||||
-|Modulbereich: International Corporate Sustainability||10|||||
-|Business Ethics and Corporate Social Responsibility<br>Management & Organization Theories through the Lens of mission-driven organizations||5<br>5|||||
-||||||||
-|Modulbereich: International Relations||10|||||
-|The Organization of the International System<br>Power,Order and Institutions in World Politics||5<br>5|||||
-||||||||
-|**Elective Courses (Wahlbereich)**<br>Modulbereich: Area Studies (1 Area out of 4)*||30|10|10|10||
-|Modulbereich: English SpeakingCountries(English)**||30|||||
-|Modulbereich: Romance Countries(Spanish,French)**||30|||||
-|Modulbereich: Asia(English)**||30|||||
-|Modulbereich: Europe(German)**||30|||||
-|Die belegbaren Moduleinden Area Studies sindim Modulhandbuchdes Studiengangs aufgeführt|||||||
-|**Masterthesis**||30||||30|
-|Masterthesis<br>Seminar||30<br>0|||||
-||||||||
-||SWS||||||
-||ECTS|120|30|30|30|30|
+|**Master in International Business Studies**||||||
+|---|---|---|---|---|---|
+|||**1**|**2**|**3**|**4**|
+||ECTS|ECTS|ECTS|ECTS|ECTS|
+|**Core Courses(Kernbereich) (60 out of 90 ECTS/60 aus 90 ECTS**)|**60**|20|20|20||
+|Modulbereich: Environment of International Business|10|||||
+|Issues in International Political Economy<br>International and European Trade Law|5<br>5|||||
+|Modulbereich: Foundations of International Management|10|||||
+|Foundations of International Management I|5|||||
+|Foundations of International Management II|5|||||
+|Modulbereich: International Strategic Management|10|||||
+|Business Strategy - Concepts and Cases<br>Advanced Methods of Management Research IV|5<br>5|||||
+|Modulbereich: International Functional Management|10|||||
+|International Marketing<br>Global Operations Strategy|5<br>5|||||
+|Modulbereich: International Information Management|10|||||
+|E-Business Projects and Innovation<br>E-Business Strategy and Networking|5<br>5|||||
+|Modulbereich: Soft Skills|10|||||
+|Managing Intercultural Relations|5|||||
+|Advanced Intercultural Communication and Negotiation Skills|5|||||
+|Modulbereich: International Finance and Corporate Governance|10|||||
+|International Finance|5|||||
+|International Corporate Governance|5|||||
+|Modulbereich: International Corporate Sustainability|10|||||
+|Business Ethics and Corporate Social Responsibility<br>Management & Organization Theories through the Lens of mission-driven organizations|5<br>5|||||
+|Modulbereich: International Relations|10|||||
+|The Organization of the International System<br>Power,Order and Institutions in World Politics|5<br>5|||||
+|**Elective Courses (Wahlbereich)**||||||
+|Modulbereich: Area Studies (1 Area out of 4)*|30|10|10|10||
+|Modulbereich: English SpeakingCountries(English)**|30|||||
+|Modulbereich: Romance Countries(Spanish,French)**|30|||||
+|Modulbereich: Asia(English)**|30|||||
+|Modulbereich: Europe(German)**|30|||||
+|Die belegbaren Moduleinden Area Studies sindim Modulhandbuchdes Studiengangs auf|geführt|||||
+|**Masterthesis**|30||||30|
+|Masterthesis|30|||||
+|Seminar<br>|0|||||
+|SWS||||||
+|ECTS|120|30|30|30|30|
 
 - *) Zugangsvoraussetzung: Sprachkenntnisse in der jeweiligen Sprache der gewählten Area nach dem Europäischem Referenzrahmen. Sprachkurse in Höhe von 10 ECTS-Punkten in der/den Sprache(n) der gewählten Area sind verpflichtend (Niveaustufen: Englisch: mind. C1, alle anderen Sprachen: 5 ECTS mind. A2; 5 ECTS mind. B2). Die 10 ECTS-Punkte können auf max. zwei unterschiedliche Sprachen (je 5 ECTS) der Area verteilt werden. 
 

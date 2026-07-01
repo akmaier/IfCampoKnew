@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "18. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES MA-Germanistik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:29:53+00:00
-page_count_chars: 6101
+scraped_at: 2026-07-01T09:42:35+00:00
+page_count_chars: 5872
 ---
 
 # 18. Januar 2012
@@ -12,7 +12,7 @@ page_count_chars: 6101
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES MA-Germanistik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm -** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOGerm -** 
 
 ## Vom 18. Januar 2012 
 
@@ -24,49 +24,46 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Germanistik an 
 
 ## 1. § 2 Abs. 2 wird wie folgt geändert: 
 
-   - a) In Satz 2 wird nach dem Wort „sie“ das Zeichen und das Wort „/er“ eingefügt. 
+- a) In Satz 2 wird nach dem Wort „sie“ das Zeichen und das Wort „/er“ eingefügt. 
 
-   - b) In Satz 3 wird das Wort „und“ durch das Zeichen „/“ ersetzt. 
+- b) In Satz 3 wird das Wort „und“ durch das Zeichen „/“ ersetzt. 
 
-2. Die Anlage erhält folgende Fassung: 
+## 2. Die Anlage erhält folgende Fassung: 
 
-## „ **Anlage: Studienverlaufsplan Masterstudiengang Germanistik** 
+## <u>„</u> **<u>Anlage: Studienverlaufsplan Masterstudiengang Germanistik</u>** 
 
-**Zahl und Bezeichnung der Module und Studienverlauf** 
+|**Zahl und Bezeichnung der Module und Studienve**|**rlauf**||**Art und Umfang der**|
+|---|---|---|---|
+|**FS**<br>**Module**|**SWS**|**ECTS**|<br>**Studien-und Prüfungsleistungen **|
+|P M-LingN: Sprachnorm und Variation|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
+|P M-LitS: Systematische Aspekte neuerer<br>deutscher Literatur<br>1|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
+|P M-MedS: Systematische Aspekte der<br>mittelalterlichen Literatur|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
+|**Zwischensumme 1. Fachsemester**|**12**|**30**||
+|WP M-LingT: Theorien und Methoden der<br>Sprachwissenschaft<br>2<br>oder<br>3|4|10|SL: Programmieraufgaben oder<br>Arbeitsaufträge<br>oder Kurzreferat**|
+|WP M-LingVar: Sprachvariation<br>– Sprachkontakt|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-LingHist: Historische Linguistik<br>– Sprachwandel|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-LitT: Literaturtheorie|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-LitKu: Kulturwissenschaft|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-LitKo: Komparatistik|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30|
 
-|**Zahl und Bezeichnung der Module und Studienverlauf**|**Zahl und Bezeichnung der Module und Studienverlauf**|**Zahl und Bezeichnung der Module und Studienverlauf**|**Zahl und Bezeichnung der Module und Studienverlauf**||
-|---|---|---|---|---|
-|**FS**|**Module**|**SWS**|**ECTS**|**Art und Umfang der**<br>**Studien-und Prüfungsleistungen **|
-|1|P M-LingN: Sprachnorm und Variation|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
-||P M-LitS: Systematische Aspekte neuerer<br>deutscher Literatur|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
-||P M-MedS: Systematische Aspekte der<br>mittelalterlichen Literatur|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)* aus dem HS,SL zur Übung|
-|**Zwischensumme 1. Fachsemester**||**12**|**30**||
-|2<br>oder<br>3|WP M-LingT: Theorien und Methoden der<br>Sprachwissenschaft|4|10|SL: Programmieraufgaben oder<br>Arbeitsaufträge<br>oder Kurzreferat**|
-||WP M-LingVar: Sprachvariation<br>– Sprachkontakt|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-LingHist: Historische Linguistik<br>– Sprachwandel|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-LitT: Literaturtheorie|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-LitKu: Kulturwissenschaft|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-LitKo: Komparatistik|4|10|PL: Hausarbeit (15-25 Seiten) oder|
-|||||<br>wissenschaftliche Präsentation (30|
-
-|||||Min.)** im HS,SL zur Übung|
-|---|---|---|---|---|
-||WP M-MedT: Literaturtheorie|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-MedKu: Kulturwissenschaft|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-||WP M-MedKo: Komparatistik|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
-|**Zwischensumme 2. oder 3. Fachsemester (es sind**<br>**jeweils drei Wahlpflichtmodule zu wählen)**||**12**|**30**||
-|2<br>oder<br>3|WP M-GramLex: Grammatik und Lexikon|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
-||WP M-LingProjekt: Projektmodul|450 h|15|SL: Mündlicher Erfahrungsbericht ( 45<br>Min.)|
-||WP M-LitL: Literaturgeschichte|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
-||WP M-LitProjekt: Projektmodul|450 h|15|SL: Mündlicher Erfahrungsbericht (45<br>Min.)|
-||WP M-MedL: Literaturgeschichte|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
-||WP M-MedProjekt: Projektmodul|450 h|15|SL: Mündlicher Erfahrungsbericht (45<br>Min.)|
-|**Zwischensumme 2. oder 3. Fachsemester (es sind**<br>**jeweils ein Wahlpflichtmodul und ein Projektmodul zu**<br>**wählen)**||**5+**<br>**450 h**|**30**||
-|4|M-LingMA: Mastermodul<br>Deutsche Sprachwissenschaft|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
-||M-LitMA: Mastermodul<br>Neuere Deutsche Literaturwissenschaft|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
-||M-MedMA: Mastermodul<br>Ältere Deutsche Literaturwissenschaft|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
-|**Zwischensumme 4. Fachsemester**||**1**|**30**||
-|**Gesamts**<br>**umme**||**30 +**<br>**450 h**|**120**||
+||||Min.)** im HS,SL zur Übung|
+|---|---|---|---|
+|WP M-MedT: Literaturtheorie|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-MedKu: Kulturwissenschaft|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|WP M-MedKo: Komparatistik|4|10|PL: Hausarbeit (15-25 Seiten) oder<br>wissenschaftliche Präsentation (30<br>Min.)** im HS,SL zur Übung|
+|**Zwischensumme 2. oder 3. Fachsemester (es sind**<br>**jeweils drei Wahlpflichtmodule zu wählen)**|**12**|**30**||
+|WP M-GramLex: Grammatik und Lexikon|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
+|WP M-LingProjekt: Projektmodul|450 h|15|SL: Mündlicher Erfahrungsbericht ( 45<br>Min.)|
+|WP M-LitL: Literaturgeschichte<br>2<br>oder|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
+|WP M-LitProjekt: Projektmodul<br>3|450 h|15|SL: Mündlicher Erfahrungsbericht (45<br>Min.)|
+|WP M-MedL: Literaturgeschichte|5|15|PL: Hausarbeit aus einem der beiden<br>HS (15-25 Seiten), mündliches Referat<br>im anderen HS|
+|WP M-MedProjekt: Projektmodul|450 h|15|SL: Mündlicher Erfahrungsbericht (45<br>Min.)|
+|**Zwischensumme 2. oder 3. Fachsemester (es sind**<br>**jeweils ein Wahlpflichtmodul und ein Projektmodul zu**<br>**wählen)**|**5+**<br>**450 h**|**30**||
+|M-LingMA: Mastermodul<br>Deutsche Sprachwissenschaft|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
+|M-LitMA: Mastermodul<br>Neuere Deutsche Literaturwissenschaft<br>4|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
+|M-MedMA: Mastermodul<br>Ältere Deutsche Literaturwissenschaft|1|30|PL: Besuch des<br>Kolloquiums + Masterarbeit|
+|**Zwischensumme 4. Fachsemester**|**1**|**30**||
+|**Gesamts**<br>**umme**|**30 +**<br>**450 h**|**120**||
 
 *) Von den drei Pflichtmodulen M-LingN, M-LitS und M-MedS (1. FS) ist eines mit der HS-Prüfungsleistung Hausarbeit (15-25 Seiten) und zwei mit der HS-Prüfungsleistung wissenschaftliche Präsentation (30 Min.) abzuschließen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES%20BA-MA%20Psychologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/
-scraped_at: 2026-05-01T08:11:02+00:00
-page_count_chars: 5032
+scraped_at: 2026-07-01T09:31:24+00:00
+page_count_chars: 5008
 ---
 
 # 15. September 2009
@@ -12,7 +12,7 @@ page_count_chars: 5032
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES%20BA-MA%20Psychologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/ein-fach-bachelor/>
 
-## **Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelorund den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL -** 
+# **Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelorund den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL -** 
 
 Vom 15. September 2009 
 
@@ -26,8 +26,7 @@ Die Tabelle in Anlage 1 „B.Sc. Psychologie“ erhält folgende Fassung:
 
 |**Module**|**Lehrveranstaltungen**|**ECTS**|**GOP**|**Leistungs-**<br>**nachweis**|**Modul-**<br>**noten-**<br>**faktor**|**Gewich-**<br>**tung**<br>**BSc-**<br>**Note**|
 |---|---|---|---|---|---|---|
-|**M1**Einführung in<br>die Psychologie|VL Einführung in die<br>Psychologie|2,5|X|SL|||
-||Tutorium||||||
+|**M1**Einführung in<br>die Psychologie|VL Einführung in die<br>Psychologie<br>Tutorium|2,5|X|SL|||
 ||VL Einführung in die<br>Forschungsmethoden der<br>Psychologie|3,5|X|SP /MP|1,0||
 ||Sem. Computergestützte<br>Datenauswertung|4|X|SL|||
 |||10||||3,5/95,5|
@@ -40,64 +39,64 @@ Die Tabelle in Anlage 1 „B.Sc. Psychologie“ erhält folgende Fassung:
 |||5|||||
 |**M4**Forschungs-<br>praxis II|Experimentalpsychologisches<br>Praktikum oder<br>Feldforschungspraktikum|5||SL|||
 |||5|||||
-|**M5**Allgemeine<br>Psychologie I|VL Allgemeine Psychologie I-1|3|X*|SP/MP|1,0||
-||VL Allgemeine Psychologie I-2|3|X*||||
+|**M5**Allgemeine<br>|VL Allgemeine Psychologie I-1|3|X*|SP/MP|1,0||
+|Psychologie I|VL Allgemeine Psychologie I-2|3|X*||||
 ||Sem. Allgemeine Psychologie I|4|X*|SL|||
 |||10||||6/95,5|
 
-|**M6**Allgemeine<br>Psychologie II|VL Allgemeine Psychologie II-1|3|X*|SP/MP|1,0||
+|**M6**Allgemeine<br>|VL Allgemeine Psychologie II-1|3|X*|SP/MP|1,0||
 |---|---|---|---|---|---|---|
-||VL Allgemeine Psychologie II-2|3|X*||||
+|Psychologie II|VL Allgemeine Psychologie II-2|3|X*||||
 ||Sem. Allgemeine Psychologie II|4|X*|SL|||
 |||10||||6/95,5|
-|**M7**Biologische<br>Psychologie|VL Biologische Psychologie 1|2||SP/MP|1,0||
-||VL Biologische Psychologie 2|3|||||
+|**M7**Biologische<br>|VL Biologische Psychologie 1|2||SP/MP|10||
+|Psychologie|VL Biologische Psychologie 2|3|||,||
 |||5||||5/95,5|
-|**M8**Differentielle und<br>Persönlichkeits-<br>psychologie|VL Diff. u. Persönl.psychol. 1|3|X*|SP/MP|1,0||
-||VL Diff. u. Persönl.psychol. 2|3|X*||||
+|**M8**Differentielle und<br>|VL Diff. u. Persönl.psychol. 1|3|X*|SP/MP|10||
+|Persönlichkeits-<br>psychologie|VL Diff. u. Persönl.psychol. 2|3|X*||,||
 ||Sem. Diff. u. Persönl.psychol.|4|X*|SL|||
 |||10||||6/95,5|
-|**M9**Entwicklungs-<br>psychologie|VL Entwicklungspsychologie 1|3|X*|SP/MP|1,0||
-||VL Entwicklungspsychologie 2|3|X*||||
+|**M9**Entwicklungs-<br>|VL Entwicklungspsychologie 1|3|X*||||
+|psychologie|VL Entwicklungspsychologie 2|3|X*|SP/MP|1,0||
 ||Sem. Entwicklungspsychologie|4|X*|SL|||
 |||10||||6/95,5|
-|**M10**Sozial-<br>psychologie|VL Sozialpsychologie 1|3|X*|SP/MP|1,0||
-||VL Sozialpsychologie 2|3|X*||||
+|**M10**Sozial-<br>|VL Sozialpsychologie 1|3|X*|SP/MP|10||
+|psychologie|VL Sozialpsychologie 2|3|X*||,||
 ||Sem. Sozialpsychologie|4|X*|SL|||
 |||10||||6/95,5|
-|**M11**Grundlagen der<br>psychologischen<br>Diagnostik|VL Testtheorie|3||SP/MP|1,0||
-||VL Einführung in die Diagnostik|3|||||
+|**M11**Grundlagen der|VL Testtheorie|3|||||
+|psychologischen<br>Diagnostik|VL Einführung in die Diagnostik|3||SP/MP|1,0||
 ||Sem. Gesprächsführung|4||SL|||
 |||10||||6/95,5|
-|**M12**Diagnostische<br>Verfahren|Sem. Leistungstests|3,5||SL|||
-||Sem. Persönlichkeitstests|4||SL|||
+|**M12**Diagnostische<br>|Sem. Leistungstests|3,5||SL|||
+|Verfahren|Sem. Persönlichkeitstests|4||SL|||
 |||7,5|||||
-|**M13**Klinische<br>Psychologie|VL Klinische Psychologie 1|3||SP/MP|1,0||
-||VL Klinische Psychologie 2|3|||||
+|**M13**Klinische<br>|VL Klinische Psychologie 1|3||SP/MP|10||
+|Psychologie|VL Klinische Psychologie 2|3|||,||
 ||Sem. Ausgewählte<br>Störungsformen|4||SL|||
 |||10||||6/95,5|
-|**M14**Hauptformen<br>der Psycho-<br>therapie|Sem. Hauptformen der<br>Psychotherapie|4||SP /MP|1,0||
-||Sem. Vertiefung I|3||SL|||
+|**M14**Hauptformen<br>der Psycho-<br>|Sem. Hauptformen der<br>Psychotherapie|4||SP /MP|1,0||
+|therapie|Sem. Vertiefung I|3||SL|||
 ||Sem. Vertiefung II|3||SL|||
 |||10||||4/95,5|
 |**M15**Arbeits-<br>psychologie|VL Arbeitspsychologie/<br>Ergonomie|3||SP/MP|1,0||
 ||Sem. Arbeitspsychologie/<br>Ergonomie|4,5||SL|||
 |||7,5||||3/95,5|
-|**M16**Organisa-<br>tionspsychologie|VL Organisationspsychologie|3||SP/MP|1,0||
-||Sem. Organisationspsychologie|4,5||SL|||
+|**M16**Organisa-<br>|VL Organisationspsychologie|3||SP/MP|1,0||
+|tionspsychologie|Sem. Organisationspsychologie|4,5||SL|||
 |||7,5||||3/95,5|
 
-|**M17**Pädagogische<br>Psychologie|VL Pädagogische Psychologie|3||SP/MP|1,0||
-|---|---|---|---|---|---|---|
-||Sem. Pädagogische<br>Psychologie|4,5||SL|||
-|||7,5||||3/95,5|
-|**M18**Nebenfach|Vorlesungen/Seminare|10||SP/MP|1,0||
-|||10||||10/95,5|
-|**M19**Bachelor-Arbeit||12||BA|1,0||
-|||12||||12/95,5|
-|**M20**Praxismodul|Externes Praktikum|12||SL|||
-||Versuchspersonenstunden|1||SL|||
-|||13|||||
+|**M17**Pädagogische<br>|VL Pädagogische Psychologie|3|SP/MP|1,0||
+|---|---|---|---|---|---|
+|Psychologie|Sem. Pädagogische<br>Psychologie|4,5|SL|||
+|||7,5|||3/95,5|
+|**M18**Nebenfach|Vorlesungen/Seminare|10|SP/MP|1,0||
+|||10|||10/95,5|
+|**M19**Bachelor-Arbeit||12|BA|1,0||
+|||12|||12/95,5|
+|**M20**Praxismodul|Externes Praktikum|12|SL|||
+||Versuchspersonenstunden|1|SL|||
+|||13||||
 
 Anm.: SP = schriftliche Prüfung, MP = mündliche Prüfung; SL = Studienleistung, BA = Bachelorarbeit, VL = Vorlesung, Sem. = Seminar, GOP: Grundlagen- und Orientierungsphase 
 

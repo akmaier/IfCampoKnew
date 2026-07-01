@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "LA Wirtschaftswissenschaften FPO LA WiWi 20190916 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Lehramt/Wirtschaftswissenschaften/Aenderungssatzungen/LA_Wirtschaftswissenschaften_FPO_LA_WiWi_20190916_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:18:37+00:00
-page_count_chars: 12778
+scraped_at: 2026-07-01T08:44:33+00:00
+page_count_chars: 12617
 ---
 
 # LA Wirtschaftswissenschaften FPO LA WiWi 20190916 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 12778
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Lehramt/Wirtschaftswissenschaften/Aenderungssatzungen/LA_Wirtschaftswissenschaften_FPO_LA_WiWi_20190916_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## **Vom 16. September 2019** 
+# **Vom 16. September 2019** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im Lehramtsstudiengang an der FAU vom 1. April 2009, zuletzt geändert durch Satzung vom 27. Februar 2015, wird wie folgt geändert: 
 
@@ -28,21 +28,21 @@ Die Fachstudien- und Prüfungsordnung für das Fach Wirtschaftswissenschaften im
 
 3. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a Vertiefungsbereich Volkswirtschaftslehre** 
+# „ **§ 3a Vertiefungsbereich Volkswirtschaftslehre** 
 
-(1)[1] Im Vertiefungsbereich werden die in den Einführungsveranstaltungen (Einführung in die Volkswirtschaftslehre, Mikroökonomie, Makroökonomie) erworbenen fachlichen Kompetenzen vertieft.[2] Die Studierenden können dabei selbst wählen, in welchen Bereichen sie ihre Kompetenzen vertiefen wollen.[3] Die gewählten Veranstaltungen bewegen sich dabei im Kontext der genannten Einführungsveranstaltungen und der dort vermittelten inhaltlichen Kompetenzen.[4] Die konkreten Inhalte und vermittelten Kompetenzen sind den Modulbeschreibungen der einzelnen innerhalb des Vertiefungsbereichs angebotenen Module zu entnehmen. 
+(1)<sup>1</sup> Im Vertiefungsbereich werden die in den Einführungsveranstaltungen (Einführung in die Volkswirtschaftslehre, Mikroökonomie, Makroökonomie) erworbenen fachlichen Kompetenzen vertieft.<sup>2</sup> Die Studierenden können dabei selbst wählen, in welchen Bereichen sie ihre Kompetenzen vertiefen wollen.<sup>3</sup> Die gewählten Veranstaltungen bewegen sich dabei im Kontext der genannten Einführungsveranstaltungen und der dort vermittelten inhaltlichen Kompetenzen.<sup>4</sup> Die konkreten Inhalte und vermittelten Kompetenzen sind den Modulbeschreibungen der einzelnen innerhalb des Vertiefungsbereichs angebotenen Module zu entnehmen. 
 
-(2)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.[2] Bei der Prüfung handelt es sich entweder um eine Klausur im Umfang von 60 oder 90 Minuten oder einen Vortrag im Umfang von 45 bis 60 Minuten und eine Hausarbeit im Umfang von ca. 20 Seiten. 
+(2)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 1 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Bei der Prüfung handelt es sich entweder um eine Klausur im Umfang von 60 oder 90 Minuten oder einen Vortrag im Umfang von 45 bis 60 Minuten und eine Hausarbeit im Umfang von ca. 20 Seiten. 
 
-(3)[1] Die wählbaren Module umfassen in der Regel 5 ECTS-Punkte.[2] Sie setzen sich in der Regel aus einer Vorlesung im Umfang von 2 SWS mit Übung im Umfang von 1 bis 2 SWS oder einem Hauptseminar im Umfang von 2 SWS zusammen.[3] Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. 
+(3)<sup>1</sup> Die wählbaren Module umfassen in der Regel 5 ECTS-Punkte.<sup>2</sup> Sie setzen sich in der Regel aus einer Vorlesung im Umfang von 2 SWS mit Übung im Umfang von 1 bis 2 SWS oder einem Hauptseminar im Umfang von 2 SWS zusammen.<sup>3</sup> Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen. 
 
 1 
 
-(4)[1] Die wählbaren Module können im Einzelfall Teilnahmevoraussetzungen vorsehen.[2] Diese sind dem Modulhandbuch zu entnehmen.“ 
+(4)<sup>1</sup> Die wählbaren Module können im Einzelfall Teilnahmevoraussetzungen vorsehen.<sup>2</sup> Diese sind dem Modulhandbuch zu entnehmen.“ 
 
 4. Nach § 3a (neu) wird folgender neuer § 3b eingefügt: 
 
-## „ **§ 3b Kaufmännisches Praktikum** 
+# „ **§ 3b Kaufmännisches Praktikum** 
 
 (1) Für die Anmeldung zum Staatsexamen für das Lehramt an Realschulen ist gemäß § 58 Abs. 1 Nr. 2 **LPO I** ein Nachweis über die erfolgreiche Teilnahme an einem kaufmännischen Praktikum von drei Monaten Dauer vorzulegen. 
 
@@ -60,7 +60,7 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
 - (2) Zeile 11 (Modul Volkswirtschaftliches Proseminar) wird wie folgt geändert: 
 
-   - (a) In Spalte 1 (Modulbezeichnung) wird das Wort „Proseminar“ durch das Wort und die hochgestellte Zahl „Seminar[2] “ ersetzt. 
+   - (a) In Spalte 1 (Modulbezeichnung) wird das Wort „Proseminar“ durch das Wort und die hochgestellte Zahl „Seminar<sup>2</sup> “ ersetzt. 
 
    - (b) In Spalte 2 (Lehrveranstaltung) wird das Wort „Proseminar“ durch das Wort „Seminar“ ersetzt. 
 
@@ -76,7 +76,7 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
 2 
 
-   - (b) In Spalte 6 (Art und Umfang der Prüfung) werden die Worte „nach Maßgabe des Faches[3] “ jeweils durch die Worte und Zahlen „vgl. § 3a Abs. 2“ ersetzt. 
+   - (b) In Spalte 6 (Art und Umfang der Prüfung) werden die Worte „nach Maßgabe des Faches<sup>3</sup> “ jeweils durch die Worte und Zahlen „vgl. § 3a Abs. 2“ ersetzt. 
 
 - (5) Zeile 17 (Summen) wird Spalte 3 (SWS) wie folgt geändert: 
 
@@ -86,36 +86,33 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
 - (6) Die Erläuterungen unterhalb der Tabelle werden wie folgt geändert: 
 
-   - (a) Die Erläuterung[2] erhält folgende neue Fassung: 
+   - (a) Die Erläuterung<sup>2</sup> erhält folgende neue Fassung: 
 
-„[2] Die Zulassung zum Modul „Volkswirtschaftliches Seminar“ setzt den Nachweis der Module „Mikroökonomie“ und „Makroökonomie“ voraus.“ 
+„<sup>2</sup> Die Zulassung zum Modul „Volkswirtschaftliches Seminar“ setzt den Nachweis der Module „Mikroökonomie“ und „Makroökonomie“ voraus.“ 
 
-   - (b) Erläuterung[3] wird gestrichen. 
+   - (b) Erläuterung<sup>3</sup> wird gestrichen. 
 
 - cc) Nach den Erläuterungen werden vor den Worten „Fachwissenschaft 7.-9. Semester“ die Zahl „2“ und ein Punkt eingefügt. 
 
 3 
 
-## dd) Die Tabelle in Ziffer 2. (neu) erhält folgende neue Fassung: 
+# dd) Die Tabelle in Ziffer 2. (neu) erhält folgende neue Fassung: 
 
-## „ 
-
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Workload-Verteilung pro Semester in ECTS-<br>Punkten1|Art und Umfang der<br>Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||Punkten1||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|7.|8.|9.|||
-|Hauptseminar<br>Volkswirtschaftslehre2|Hauptseminar<br>Volkswirtschaftslehre||||2|5|||||||5|||Vortrag (45-60 Min.)<br>und Hausarbeit<br>(ca. 20 S.)|1|
-|Hauptseminar<br>Betriebswirtschaftslehre3|Hauptseminar<br>Betriebswirtschaftslehre||||2|5|||||||5|||Vortrag (45-60 Min.)<br>und Hausarbeit<br>(ca. 20 S.)|1|
-|Recht für<br>Wirtschaftswissen-<br>schaftler III und IV|Recht für<br>Wirtschaftswissenschaftler III|2||||10||||||||5||Klausur (60 Min.)|1|
-||Recht für<br>Wirtschaftswissenschaftler III||1|||||||||||||||
-||Recht für<br>Wirtschaftswissenschaftler IV|2|||||||||||||5|||
-||Recht für<br>Wirtschaftswissenschaftler IV||1|||||||||||||||
-|Wirtschaftsinformatik: Es ist|eines der drei Module zu wählen(5 ECTS-Punkte)|||||||||||||||||
-|Konzeptionelle<br>Modellierung|gem. FPO für das Fach Informatik im Lehramtsstudium|||||(5)||||||||5||gem. FPO für das<br>Fach Informatik im<br>Lehramtsstudium|1|
-|||||||||||||||||||
-|IT und E-Business|gem. FPO BA WiWi|||||(5)||||||||||gem. FPO BA WiWi|1|
-|Business & Information<br>Systems Engineering|gem. FPO BA WInf|||||(5)||||||||5||gem. FPO BA WInf|1|
-||Summe:|4|2|0|4|25|||||||10|10|5|||
+|„<br>Modulbezeichnung|Lehrveranstaltung||SWS<br> <br> <br>|Gesamt<br>ECTS<br>Workloa<br> <br>|d-Verteilung pro S<br>Punkten<br> <br> <br>|em<br><sup>1</sup><br>|ester in ECTS-<br>Art und Umfang der<br>Püf<br> <br> <br>|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P<br>S|<br>1.<br>2.|3.<br>4.<br>5.|6.|rung<br> <br>7.<br>8.<br>9.|note|
+|Hauptseminar<br>Volkswirtschaftslehre<sup>2</sup>|Hauptseminar<br>Volkswirtschaftslehre||2|5|||5<br>Vortrag (45-60 Min.)<br>und Hausarbeit<br>(ca. 20 S.)|1|
+|Hauptseminar<br>Betriebswirtschaftslehre<sup>3</sup>|Hauptseminar<br>Betriebswirtschaftslehre||2|5|||5<br>Vortrag (45-60 Min.)<br>und Hausarbeit<br>(ca. 20 S.)|1|
+||Recht für<br>Wirtschaftswissenschaftler III|2|||||5||
+|Recht für<br>Wihfi|Recht für<br>Wirtschaftswissenschaftler III||1|1|||<br>Kl  Mi|1|
+|rtscatswssen-<br>schaftler III und IV|Recht für<br>Wirtschaftswissenschaftler IV|2||0|||ausur (60 n.)<br>5||
+||Recht für<br>Wirtschaftswissenschaftler IV||1||||||
+|Wirtschaftsinformatik: Es ist|eines der drei Module zu wählen(5 E|CTS-P|unkte)||||||
+|Konzetionelle|||||||gem. FPO für das||
+|p<br>Modellierung|gem. FPO für das Fach Informat|ik im L|ehramtsstudium|(5)|||5<br>Fach Informatik im<br>Lehramtsstudium|1|
+|IT und E-Business|gem. FPO BA|WiWi||(5)|||gem. FPO BA WiWi|1|
+|Business & Information<br>Systems Engineering|gem. FPO BA|WInf||(5)|||5<br>gem. FPO BA WInf|1|
+||Summe:|4|2<br>0<br>4|25|||10<br>10<br>5||
 
 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -127,13 +124,13 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
 - b) Die Tabelle in Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „[5] “ durch die hochgestellte Zahl „[1] “ ersetzt. 
+   - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „<sup>5</sup> “ durch die hochgestellte Zahl „<sup>1</sup> “ ersetzt. 
 
-   - bb) In Zeile 2 (Modul Grundlagen der Fachdidaktik Wirtschaftswissenschaften (Gymnasium)“ werden in Zeile 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz „(90 Min.)“ die Worte „oder Referat und Hausarbeit (30-45 Min., 12-15 S.) oder Portfolio (Arbeitsmappe auf Basis selbstregulierten Lernens, 1020 S.)[2] “ angefügt. 
+   - bb) In Zeile 2 (Modul Grundlagen der Fachdidaktik Wirtschaftswissenschaften (Gymnasium)“ werden in Zeile 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz „(90 Min.)“ die Worte „oder Referat und Hausarbeit (30-45 Min., 12-15 S.) oder Portfolio (Arbeitsmappe auf Basis selbstregulierten Lernens, 1020 S.)<sup>2</sup> “ angefügt. 
 
    - cc) Nach Erläuterung 1 unterhalb der Tabelle wird folgende Erläuterung 2 angefügt: 
 
-„[2] Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung; Einzelheiten sind im Modulhandbuch geregelt.“ 
+„<sup>2</sup> Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung; Einzelheiten sind im Modulhandbuch geregelt.“ 
 
    - c) Abs. 3 wird gestrichen. 
 
@@ -141,13 +138,13 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
    - a) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „[6] “ durch die hochgestellte Zahl „[1] “ ersetzt. 
+      - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „<sup>6</sup> “ durch die hochgestellte Zahl „<sup>1</sup> “ ersetzt. 
 
       - bb) In Zeile 6 (Modul Makroökonomie) erhält Spalte 6 (Art und Umfang der Prüfung) folgende neue Fassung „Klausur (90 Min.)“. 
 
       - cc) Zeile 9 (Modul Volkswirtschaftliches Proseminar) wird wie folgt geändert: 
 
-         - (1) In Spalte 1 (Modulbezeichnung) wird das Wort „Proseminar“ durch das Wort und die hochgestellte Zahl „Seminar[2] “ ersetzt. 
+         - (1) In Spalte 1 (Modulbezeichnung) wird das Wort „Proseminar“ durch das Wort und die hochgestellte Zahl „Seminar<sup>2</sup> “ ersetzt. 
 
          - (2) In Spalte 2 (Lehrveranstaltung) wird das Wort „Proseminar“ durch das Wort „Seminar“ ersetzt. 
 
@@ -163,7 +160,7 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
 5 
 
-   - (2) In Spalte 6 (Art und Umfang der Prüfung) werden die Worte „nach Maßgabe des Faches[3] “ jeweils durch die Worte und Zahlen „vgl. § 3a Abs. 2“ ersetzt. 
+   - (2) In Spalte 6 (Art und Umfang der Prüfung) werden die Worte „nach Maßgabe des Faches<sup>3</sup> “ jeweils durch die Worte und Zahlen „vgl. § 3a Abs. 2“ ersetzt. 
 
 - ff) Zeile 17 (Summen) wird wie folgt geändert: 
 
@@ -175,21 +172,21 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
    - (2) In Spalte 5 (Gesamt ECTS) wird die Zahl „70“ durch die Zahl „60“ ersetzt. 
 
-- gg) Die bisherige Erläuterung[7] unterhalb der Tabelle wird zu Erläuterung[2] und erhält folgende neue Fassung: 
+- gg) Die bisherige Erläuterung<sup>7</sup> unterhalb der Tabelle wird zu Erläuterung<sup>2</sup> und erhält folgende neue Fassung: 
 
-„[2] Die Zulassung zum Modul „Volkswirtschaftliches Seminar“ setzt den Nachweis des Moduls „Makroökonomie“ voraus.“ 
+„<sup>2</sup> Die Zulassung zum Modul „Volkswirtschaftliches Seminar“ setzt den Nachweis des Moduls „Makroökonomie“ voraus.“ 
 
 - b) Die Tabelle in Abs. 2 wird wie folgt geändert: 
 
-   - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „[9] “ durch die hochgestellte Zahl „[1] “ ersetzt. 
+   - aa) In Zeile 1 Spalte 5 (Workload-Verteilung pro Semester in ECTS-Punkten) wird nach dem Wort „Punkten“ die hochgestellte Zahl „<sup>9</sup> “ durch die hochgestellte Zahl „<sup>1</sup> “ ersetzt. 
 
-   - bb) In Zeile 2 (Modul Grundlagen der Fachdidaktik Wirtschaftswissenschaften (Realschule)“ werden in Zeile 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz „(90 Min.)“ die Worte „oder Referat und Hausarbeit (30-45 Min., 12-15 S.) oder Portfolio (Arbeitsmappe auf Basis selbstregulierten Lernens, 1020 S.)[2] “ angefügt. 
+   - bb) In Zeile 2 (Modul Grundlagen der Fachdidaktik Wirtschaftswissenschaften (Realschule)“ werden in Zeile 6 (Art und Umfang der Prüfung) nach dem Klammerzusatz „(90 Min.)“ die Worte „oder Referat und Hausarbeit (30-45 Min., 12-15 S.) oder Portfolio (Arbeitsmappe auf Basis selbstregulierten Lernens, 1020 S.)<sup>2</sup> “ angefügt. 
 
    - cc) Nach Erläuterung 1 unterhalb der Tabelle wird folgende Erläuterung 2 angefügt: 
 
-„[2] Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung; Einzelheiten sind im Modulhandbuch geregelt.“ 
+„<sup>2</sup> Art und Umfang der Prüfung sind abhängig vom konkreten didaktischen Charakter der von der bzw. dem Studierenden gewählten Lehrveranstaltung; Einzelheiten sind im Modulhandbuch geregelt.“ 
 
-## c) Abs. 3 wird gestrichen. 
+# c) Abs. 3 wird gestrichen. 
 
 7. § 6 wird wie folgt geändert: 
 
@@ -197,11 +194,11 @@ bb) Die Tabelle in Ziffer 1 (neu) wird wie folgt geändert:
 
    - b) Nach Abs. 1 wird folgender neuer Abs. 2 angefügt: 
 
-„(2)[1] Die dritte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
+„(2)<sup>1</sup> Die dritte Änderungssatzung tritt am 1. Oktober 2019 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden.“ 
 
 6 
 
-## **§ 2** 
+**§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2019 in Kraft. 2Sie gilt für alle Studierenden, die das Studium zum Wintersemester 2019/2020 aufnehmen werden. 
 

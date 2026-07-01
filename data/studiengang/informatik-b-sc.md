@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "> 600"
 besondere_studienformen: "1-Fach-Bachelor, Teilzeitstudium möglich, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:46:21+00:00
+scraped_at: 2026-07-01T08:23:06+00:00
 ---
 
 # Informatik (B.Sc.)
@@ -41,7 +41,7 @@ Von technischen Fachbereichen über Betriebswirtschaft, Medizin, Biologie, Psych
 
 Helfen Sie mit, interdisziplinäre Projekte in allen gesellschaftlich relevanten Bereiche zu verbessern, um eine nachhaltigere und lebenswertere Zukunft mitzugestalten!
 
-### Bachelor of Science Informatik
+### Fachanteile des Studiengangs Informatik (B.Sc.)
 
 * Informatik
 * Mathematik

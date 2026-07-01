@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.03.1977"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_hebraeischeSprache.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:19+00:00
-page_count_chars: 9657
+scraped_at: 2026-07-01T11:14:18+00:00
+page_count_chars: 9639
 ---
 
 # PDF vom 17.03.1977
@@ -14,7 +14,7 @@ page_count_chars: 9657
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Bekanntmachung der Neufassung der Ordnung für die hebräische Sprachprüfung (Hebraicum)** 
+# **Bekanntmachung der Neufassung der Ordnung für die hebräische Sprachprüfung (Hebraicum)** 
 
 Nachstehend wird der Wortlaut der Ordnung für die hebräische Sprachprüfung des Fachbereichs Theologie bekannt gemacht. Die Neufassung ergibt sich aus den Änderungen der 1. Satzung zur Änderung der Ordnung der Theologischen Fakultät der Universität Erlangen-Nürnberg für die hebräische Sprachprüfung (Hebraicum) vom 17. März 1977. Die alte Ordnung wurde am 27. Oktober 1972 von der Theologischen Fakultät beschlossen und mit Schreiben des Bayerischen Staatsministeriums für Unterricht und Kultus vom 11. Dezember 1972 Nr. I/15-6/183 716 genehmigt. Die 1. Satzung zur Änderung der Ordnung für die Hebräische Sprachprüfung wurde vom Senat der Universität Erlangen-Nürnberg am 16. März 1977 beschlossen und trat am 17. März 1977 in Kraft. 
 
@@ -22,7 +22,7 @@ Erlangen, den 24. März 1977 Fachbereich Theologie der Universität Erlangen-Nü
 
 (Prof. Dr. Peter Poscharsky, Dekan) 
 
-## **Ordnung für die Hebräische Sprachprüfung des Fachbereichs Theologie der Universität Erlangen-Nürnberg** 
+# **Ordnung für die Hebräische Sprachprüfung des Fachbereichs Theologie der Universität Erlangen-Nürnberg** 
 
 ## **§ 1** 
 
@@ -79,8 +79,6 @@ c) die Sprachprüfung in Hebräisch oder eine gleichartige Prüfung endgültig n
 In Zweifelsfällen ist die Entscheidung der Prüfungskommission herbeizuführen. Die Ablehnung ist dem Bewerber mit Gründen versehen schriftlich mitzuteilen. 
 
 (3) Die zugelassenen Bewerber werden mindestens eine Woche vor dem Beginn der Prüfung durch das Dekanat geladen. 
-
-**§ 5 Prüfung** 
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil. 
 

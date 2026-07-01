@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-2FachBA%20Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:41+00:00
-page_count_chars: 4833
+scraped_at: 2026-07-01T10:21:29+00:00
+page_count_chars: 4862
 ---
 
 # 9. März 2011
@@ -12,23 +12,23 @@ page_count_chars: 4833
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES-2FachBA%20Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Informatik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FriedrichAlexander-Universität Erlangen-Nürnberg vom 22. Juli 2008, zuletzt geändert durch Satzung vom 11. August 2010, wird wie folgt geändert: 
 
-## 1. § 3 erhält folgende Fassung: 
+1. § 3 erhält folgende Fassung: 
 
-"[1] Mit dem Fach Informatik können ohne Studienberatung die Fächer English and American Studies sowie Germanistik kombiniert werden.[2] Die Kombination mit dem Fach Linguistische Informatik ist ausgeschlossen.[3] Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. " 
+"<sup>1</sup> Mit dem Fach Informatik können ohne Studienberatung die Fächer English and American Studies sowie Germanistik kombiniert werden.<sup>2</sup> Die Kombination mit dem Fach Linguistische Informatik ist ausgeschlossen.<sup>3</sup> Im Übrigen findet § 30 Abs. 5 der ABMStPO/Phil Anwendung. " 
 
 2. § 4 wird wie folgt geändert: 
 
-   - a) In der Tabelle von Abs. 1 Zeile 9 (Modul Grundlagen der Systemprogrammierung) erhält Spalte 3 (SWS) folgende Fassung: "2V + 1Ü 1P". 
+- a) In der Tabelle von Abs. 1 Zeile 9 (Modul Grundlagen der Systemprogrammierung) erhält Spalte 3 (SWS) folgende Fassung: "2V + 1Ü 1P". 
 
 b) Nach Abs. 1 folgender Abs. 2 eingefügt: 
 
@@ -36,7 +36,8 @@ b) Nach Abs. 1 folgender Abs. 2 eingefügt:
 
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |---|---|---|---|---|---|---|---|---|---|
-|**Modul**|**GOP**|**SWS**|**ECTS**|**SS**<br>**11**|**WS**<br>**11**|**SS**<br>**12**|**WS**<br>**12**|**SS**<br>**13**|**WS**<br>**13**|
+|||||**SS**|**WS**|**SS**|**WS**|**SS**|**WS**|
+|**Modul**|**GOP**|**SWS**|**ECTS**|<br>**11**|<br>**11**|<br>**12**|<br>**12**|<br>**13**|<br>**13**|
 |**Algorithmen und Datenstrukturen**|||**10,0**|||||||
 |Algorithmen und Datenstrukturen|GOP|4||10||||||
 |Algorithmen und Datenstrukturen|GOP|2||||||||
@@ -91,7 +92,7 @@ b) Nach Abs. 1 folgender Abs. 2 eingefügt:
 
 Für die GOP im Fach Informatik sind 20 ECTS-Punkte aus den mit „GOP“ gekennzeichneten Modulen nachzuweisen.“ 
 
-## c) Der bisherige Abs. 2 wird zu Abs. 3. 
+# c) Der bisherige Abs. 2 wird zu Abs. 3. 
 
 3. In § 5 wird jeweils nach „Abs. 1“ das Wort und die Zahl „und 2“ angefügt. 
 

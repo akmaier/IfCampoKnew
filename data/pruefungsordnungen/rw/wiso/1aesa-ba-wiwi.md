@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "26. Juni 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AeSa-BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:23:49+00:00
-page_count_chars: 45422
+scraped_at: 2026-07-01T10:40:19+00:00
+page_count_chars: 42465
 ---
 
 # 26. Juni 2007
@@ -14,7 +14,7 @@ page_count_chars: 45422
 
 **Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – BPO/WiSo** 
 
-## Vom 26. Juni 2007 
+Vom 26. Juni 2007 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -24,79 +24,71 @@ Die Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialw
 
 1. In § 3 Abs. 3 Satz 2 wird der zweite Halbsatz gestrichen. 
 
-2. § 4 wird wie folgt geändert: 
+### 2. § 4 wird wie folgt geändert: 
 
-   - a) Absatz 2 wird wie folgt geändert: 
+- a) Absatz 2 wird wie folgt geändert: aa) In Satz 1 wird die Zahl „ 81“ durch die Zahl „85“ ersetzt. bb) Die Sätze 3 und 4 erhalten folgende Fassung: 
 
-      - aa) In Satz 1 wird die Zahl „ 81“ durch die Zahl „85“ ersetzt. 
+   - „<sup>3</sup> Der Kernbereich umfasst die dem Schwerpunkt zugeordneten Pflichtmodule; in den Schwerpunkten Betriebswirtschaftslehre, Volkswirtschaftslehre und Wirtschaftsinformatik (§§ 32 Abs. 1 ff) umfasst er 20 ECTS-Punkte, die sich aus jeweils vier Pflichtmodulen im Umfang von je 5 ECTS-Punkten zusammensetzen; der Kernbereich im Schwerpunkt Wirtschafts- und Betriebspädagogik umfasst 25 ECTS-Punkte, der sich aus Pflichtmodulen im Umfang von insgesamt 20 ECTS-Punkten und einem Wahlmodul im Umfang von 5 ECTSPunkten zusammensetzt.<sup>4</sup> Alle dem jeweiligen Schwerpunkt zugeordneten Vertiefungsbereiche (§§ 32 Abs. 2 ff) umfassen 55 ECTS-Punkte, die sich in der Regel auf vier Vertiefungsblöcke von jeweils 10 ECTS-Punkten und die Bachelorarbeit (12 ECTS-Punkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte) verteilen.“ 
 
-      - bb) Die Sätze 3 und 4 erhalten folgende Fassung: 
+   - cc) In Satz 7 wird die Zahl „15“ durch die Zahl „20“ und die Zahl „12“ durch die Zahl „15“ ersetzt sowie vor dem Wort „Wahlmodulen“ die Worte „Pflichtund“ eingefügt. 
 
-      - „[3] Der Kernbereich umfasst die dem Schwerpunkt zugeordneten Pflichtmodule; in den Schwerpunkten Betriebswirtschaftslehre, Volkswirtschaftslehre und Wirtschaftsinformatik (§§ 32 Abs. 1 ff) umfasst er 20 ECTS-Punkte, die sich aus jeweils vier Pflichtmodulen im Umfang von je 5 ECTS-Punkten zusammensetzen; der Kernbereich im Schwerpunkt Wirtschafts- und Betriebspädagogik umfasst 25 ECTS-Punkte, der sich aus Pflichtmodulen im Umfang von insgesamt 20 ECTS-Punkten und einem Wahlmodul im Umfang von 5 ECTSPunkten zusammensetzt.[4] Alle dem jeweiligen Schwerpunkt zugeordneten Vertiefungsbereiche (§§ 32 Abs. 2 ff) umfassen 55 ECTS-Punkte, die sich in der Regel auf vier Vertiefungsblöcke von jeweils 10 ECTS-Punkten und die Bachelorarbeit (12 ECTS-Punkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte) verteilen.“ 
+- b) Absatz 3 wird wie folgt geändert: aa) In Satz 1 wird die Zahl „81“ durch die Zahl „85“ ersetzt. 
 
-      - cc) In Satz 7 wird die Zahl „15“ durch die Zahl „20“ und die Zahl „12“ durch die Zahl „15“ ersetzt sowie vor dem Wort „Wahlmodulen“ die Worte „Pflichtund“ eingefügt. 
+   - bb) In Satz 3 wird die Zahl „24“ durch die Zahl „20“ und die Zahl „6“ durch die Zahl „5“ ersetzt. 
 
-   - b) Absatz 3 wird wie folgt geändert: 
+   - cc) Satz 4 erhält folgende Fassung: 
 
-      - aa) In Satz 1 wird die Zahl „81“ durch die Zahl „85“ ersetzt. 
+   - „<sup>4</sup> Der dem Schwerpunkt zugeordnete Vertiefungsbereich (§ 36 Abs. 2) umfasst 55 ECTS-Punkte, die sich auf zwei Vertiefungsblöcke und zwei Auslandsblöcke von jeweils 10 ECTS-Punkten und die Bachelorarbeit (12 ECTSPunkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte) verteilen.“ 
 
-      - bb) In Satz 3 wird die Zahl „24“ durch die Zahl „20“ und die Zahl „6“ durch die Zahl „5“ ersetzt. 
+   - dd) In Satz 7 wird die Zahl „15“ durch die Zahl „20“ ersetzt und vor dem Wort „Wahlmodulen“ die Worte „Pflicht- und“ eingefügt. 
 
-cc) Satz 4 erhält folgende Fassung: 
+   - c) Absatz 4 wird wie folgt geändert: 
 
-- „[4] Der dem Schwerpunkt zugeordnete Vertiefungsbereich (§ 36 Abs. 2) umfasst 55 ECTS-Punkte, die sich auf zwei Vertiefungsblöcke und zwei Auslandsblöcke von jeweils 10 ECTS-Punkten und die Bachelorarbeit (12 ECTSPunkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte) verteilen.“ 
+      - aa) In Satz 1 wird die Zahl „89“ durch die Zahl „90“ ersetzt. 
 
-- dd) In Satz 7 wird die Zahl „15“ durch die Zahl „20“ ersetzt und vor dem Wort „Wahlmodulen“ die Worte „Pflicht- und“ eingefügt. 
+      - bb) Die Sätze 3 bis 5 erhalten folgende Fassung: 
 
-- c) Absatz 4 wird wie folgt geändert: 
+      - „<sup>3</sup> Der Kernbereich (§ 37 Abs. 1, § 38 Abs. 1) umfasst im Schwerpunkt International Pflichtmodule im Umfang von 40, im Schwerpunkt Verhaltenswissenschaftlich im Umfang von 30 ECTS-Punkten.<sup>4</sup> Der Vertiefungsbereich (§ 37 Abs. 2, § 38 Abs. 2) sieht Vertiefungsblöcke im Umfang von insgesamt 35 ECTS-Punkten im Schwerpunkt International (§ 37 Abs. 2) und 45 ECTSPunkten im Schwerpunkt Verhaltenswissenschaften (§ 38 Abs. 2) vor.<sup>5</sup> Im Vertiefungsbereich enthalten ist die Bachelorarbeit (12 ECTS-Punkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte).“ cc) In Satz 6 wird die Zahl „16“ durch die Zahl „15“ ersetzt und vor dem Wort „Wahlmodulen“ die Worte „Pflicht- und“ eingefügt. 
 
-   - aa) In Satz 1 wird die Zahl „89“ durch die Zahl „90“ ersetzt. 
-
-   - bb) Die Sätze 3 bis 5 erhalten folgende Fassung: 
-
-   - „[3] Der Kernbereich (§ 37 Abs. 1, § 38 Abs. 1) umfasst im Schwerpunkt International Pflichtmodule im Umfang von 40, im Schwerpunkt Verhaltenswissenschaftlich im Umfang von 30 ECTS-Punkten.[ 4] Der Vertiefungsbereich (§ 37 Abs. 2, § 38 Abs. 2) sieht Vertiefungsblöcke im Umfang von insgesamt 35 ECTS-Punkten im Schwerpunkt International (§ 37 Abs. 2) und 45 ECTSPunkten im Schwerpunkt Verhaltenswissenschaften (§ 38 Abs. 2) vor.[5] Im Vertiefungsbereich enthalten ist die Bachelorarbeit (12 ECTS-Punkte) zuzüglich eines Seminars zur Bachelorarbeit (3 ECTS-Punkte).“ 
-
-cc) In Satz 6 wird die Zahl „16“ durch die Zahl „15“ ersetzt und vor dem Wort „Wahlmodulen“ die Worte „Pflicht- und“ eingefügt. 
-
-3. In § 17 Abs. 1 wird nach Satz 3 folgender Satz 4 angefügt: „[4] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen bestanden sind.“ 
+3. In § 17 Abs. 1 wird nach Satz 3 folgender Satz 4 angefügt: „<sup>4</sup> Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen bestanden sind.“ 
 
 4. § 23 Abs. 1 Satz 2 wird gestrichen. Die bisherigen Sätze 3, 4 und 5 werden zu den Sätzen 2, 3 und 4. 
 
 5. § 27 Abs. 1 Satz 4 erhält folgende Fassung: 
 
-„[4] Die Wiederholungsprüfung muss zum nächsten Termin, spätestens mit Ablauf des auf das Prüfungssemester folgenden Semesters abgelegt werden.“ 
+„<sup>4</sup> Die Wiederholungsprüfung muss zum nächsten Termin, spätestens mit Ablauf des auf das Prüfungssemester folgenden Semesters abgelegt werden.“ 
 
 6. Die §§ 28 bis 39 erhalten folgende Fassung: 
 
-## „ **§ 28 Pflichtbereich im Studium der Wirtschaftswissenschaften und International Business Studies** 
+### „ **§ 28 Pflichtbereich im Studium der Wirtschaftswissenschaften und International Business Studies** 
 
 - (1) Zum Bestehen der Bachelorprüfung müssen im **Pflichtbereich** des Bachelorstudiengangs Wirtschaftswissenschaften und des Studiengangs International Business Studies einführende Module/ Assessmentphase, grundlegende betriebswirtschaftliche Module, grundlegende volkswirtschaftliche Module, Module aus den Bereichen Recht und methodische Grundlagen der Wirtschaftswissenschaften im Umfang von 85 ECTS-Punkten erfolgreich abgeschlossen sein. 
 
-## (2) Einführende Module/ Assessmentphase sind: 
+- (2) Einführende Module/ Assessmentphase sind: 
 
-1. Unternehmensplanspiel (5 ECTS-Punkte) 
+   1. Unternehmensplanspiel (5 ECTS-Punkte) 
 
-2. Unternehmen, Märkte, Volkswirtschaften (5 ECTS-Punkte) 
+   2. Unternehmen, Märkte, Volkswirtschaften (5 ECTS-Punkte) 
 
-3. Unternehmer und Unternehmen (5 ECTS-Punkte) 
+   3. Unternehmer und Unternehmen (5 ECTS-Punkte) 
 
-## (3) Methodische Grundlagen der Wirtschaftswissenschaften sind: 
+### (3) Methodische Grundlagen der Wirtschaftswissenschaften sind: 
 
-1. Buchführung (5 ECTS-Punkte) 
+   1. Buchführung (5 ECTS-Punkte) 
 
-2. IT und E-Business (7,5 ECTS-Punkte) 
+   2. IT und E-Business (7,5 ECTS-Punkte) 
 
-3. Mathematik (10 ECTS-Punkte) 
+   3. Mathematik (10 ECTS-Punkte) 
 
-4. Statistik (7,5 ECTS-Punkte) 
+   4. Statistik (7,5 ECTS-Punkte) 
 
-## (4) Grundlegende betriebswirtschaftliche Module sind: 
+- (4) Grundlegende betriebswirtschaftliche Module sind: 
 
-1. Absatz (5 ECTS-Punkte) 
+   1. Absatz (5 ECTS-Punkte) 
 
-2. Jahresabschluss (5 ECTS-Punkte) 
+   2. Jahresabschluss (5 ECTS-Punkte) 
 
-3. Produktion, Logistik, Beschaffung (5 ECTS-Punkte) 
+   3. Produktion, Logistik, Beschaffung (5 ECTS-Punkte) 
 
 - (5) Grundlegende volkswirtschaftliche Module sind: 
 
@@ -106,15 +98,15 @@ cc) In Satz 6 wird die Zahl „16“ durch die Zahl „15“ ersetzt und vor dem
 
    3. Wirtschaft und Staat (5 ECTS-Punkte) 
 
-- (6) Module aus dem Bereich Recht sind: 
+### (6) Module aus dem Bereich Recht sind: 
 
-   1. Privat- und Handelsrecht I (2,5 ECTS-Punkte) 
+1. Privat- und Handelsrecht I (2,5 ECTS-Punkte) 
 
-   2. Privat- und Handelsrecht II (2,5 ECTS-Punkte) 
+2. Privat- und Handelsrecht II (2,5 ECTS-Punkte) 
 
-   3. Öffentliches Recht – Grundlagen Staats- und Verwaltungsrecht (2,5 ECTS-Punkte) 
+3. Öffentliches Recht – Grundlagen Staats- und Verwaltungsrecht (2,5 ECTS-Punkte) 
 
-   4. Öffentliches Recht – Grundlagen Europarecht (2,5 ECTS-Punkte) 
+4. Öffentliches Recht – Grundlagen Europarecht (2,5 ECTS-Punkte) 
 
 ## **§ 29** 
 
@@ -144,9 +136,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftswissenschaften und
 
 11. Privat- und Handelsrecht I (2,5 ECTS-Punkte) 
 
-## **§ 30** 
-
-## **Pflichtbereich im Studium der Sozialökonomik** 
+## **§ 30 Pflichtbereich im Studium der Sozialökonomik** 
 
 Im **Pflichtbereich** sind Prüfungen in folgenden Modulen zu erbringen: 
 
@@ -210,11 +200,9 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
 11. Präsentations- und Moderationstechniken (2,5 ECTS-Punkte) 
 
-## **2. Prüfungsgegenstände im Kern- und Vertiefungsbereich** 
+### **2. Prüfungsgegenstände im Kern- und Vertiefungsbereich** 
 
-## **§ 32** 
-
-## **Kern- und Vertiefungsbereich im Schwerpunkt Betriebswirtschaftslehre des Studiums der Wirtschaftswissenschaften** 
+### **§ 32 Kern- und Vertiefungsbereich im Schwerpunkt Betriebswirtschaftslehre des Studiums der Wirtschaftswissenschaften** 
 
 - (1) Im Studium der Wirtschaftswissenschaften müssen im Schwerpunkt Betriebswirtschaftslehre folgende Module im Umfang von 20 ECTS-Punkten aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -232,9 +220,9 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    2. ein Vertiefungsblock (10 ECTS-Punkte) frei wählbar aus den Vertiefungen aller Institute der Fakultät 
 
-## **§ 33** 
+### **§ 33** 
 
-## **Kern- und Vertiefungsbereich im Schwerpunkt Volkswirtschaftslehre des Studiums der Wirtschaftswissenschaften** 
+### **Kern- und Vertiefungsbereich im Schwerpunkt Volkswirtschaftslehre des Studiums der Wirtschaftswissenschaften** 
 
 - (1) Im Studium der Wirtschaftswissenschaften müssen im Schwerpunkt Volkswirtschaftslehre folgende Module im Umfang von 20 ECTS-Punkten aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -252,7 +240,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    2. zwei Vertiefungsblöcke (je 10 ECTS-Punkte) frei wählbar aus den Vertiefungen aller Institute der Fakultät. 
 
-# **§ 34 Kern- und Vertiefungsbereich im Schwerpunkt Wirtschaftsinformatik des Studiums der Wirtschaftswissenschaften** 
+### **§ 34 Kern- und Vertiefungsbereich im Schwerpunkt Wirtschaftsinformatik des Studiums der Wirtschaftswissenschaften** 
 
 - (1) Im Studium der Wirtschaftswissenschaften müssen im Schwerpunkt Wirtschaftsinformatik folgende Module im Umfang von 20 ECTS-Punkten aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -282,11 +270,11 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    4. ein Vertiefungsblock frei wählbar aus den Vertiefungen aller Institute der Fakultät (10 ECTS-Punkte). 
 
-## **§ 35** 
+### **§ 35** 
 
-## **Kern- und Vertiefungsbereich im Schwerpunkt Wirtschafts- und Betriebspädagogik des Studiums der Wirtschaftswissenschaften** 
+### **Kern- und Vertiefungsbereich im Schwerpunkt Wirtschafts- und Betriebspädagogik des Studiums der Wirtschaftswissenschaften** 
 
-- (1)[1] Im Studium der Wirtschaftswissenschaften müssen im Schwerpunkt Wirtschaftsund Betriebspädagogik folgende Module aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
+- (1)<sup>1</sup> Im Studium der Wirtschaftswissenschaften müssen im Schwerpunkt Wirtschaftsund Betriebspädagogik folgende Module aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
    1. Grundlagen der Wirtschafts- und Betriebspädagogik (5 ECTS-Punkte) 
 
@@ -304,9 +292,9 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    2. zwei Vertiefungsblöcke (je 10 ECTS-Punkte) frei wählbar aus den Vertiefungen aller Institute der Fakultät. 
 
-## **§ 36** 
+### **§ 36** 
 
-## **Kern- und Vertiefungsbereich im Studium International Business Studies** 
+### **Kern- und Vertiefungsbereich im Studium International Business Studies** 
 
 - (1) Im Schwerpunkt International Studies des Studiengangs International Business Studies müssen folgende Module im Umfang von 20 ECTS-Punkten aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -324,7 +312,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    2. zwei Vertiefungsblöcke (je 10 ECTS-Punkte) Auslandsblock. 
 
-## **§ 37 Kern- und Vertiefungsbereich im Schwerpunkt International des Studiums der Sozialökonomik** 
+### **§ 37 Kern- und Vertiefungsbereich im Schwerpunkt International des Studiums der Sozialökonomik** 
 
 - (1) Im Studium Sozialökonomik müssen im Schwerpunkt International folgende Module aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -342,43 +330,47 @@ Zum Bestehen der Assessmentprüfung im Studium der Sozialökonomik sind bis zum 
 
    7. Internationale Kommunikation (5 ECTS-Punkte) 
 
-- (2) In einem **Vertiefungsbereich** sind Prüfungen in folgenden Modulen der Vertiefungsblöcke zu erbringen: 
+- (2) In einem **Vertiefungsbereich** sind Prüfungen in folgenden Modulen der Vertie- 
 
-   1. Block 1 wählbar aus den Vertiefungsblöcken Sozialwissenschaften (10 ECTS-Punkte) 
+fungsblöcke zu erbringen: 
 
-   2. Block 2 frei wählbar aus Vertiefungen aller Institute (10 ECTS-Punkte) 
+1. Block 1 wählbar aus den Vertiefungsblöcken Sozialwissenschaften (10 ECTS-Punkte) 
 
-## **§ 38** 
+2. Block 2 frei wählbar aus Vertiefungen aller Institute (10 ECTS-Punkte) 
 
-## **Kern- und Vertiefungsbereich im Schwerpunkt Verhaltenswissenschaften des Studiums der Sozialökonomik** 
+### **§ 38** 
+
+### **Kern- und Vertiefungsbereich im Schwerpunkt Verhaltenswissenschaften des Studiums der Sozialökonomik** 
 
 - (1) Im Studium Sozialökonomik müssen im Schwerpunkt Verhaltenswissenschaften folgende Module aus dem Angebot für den Kernbereich erfolgreich abgeschlossen sein: 
 
-   1. Empirische Methoden und Statistik I (5 ECTS-Punkte) 
+      1. Empirische Methoden und Statistik I (5 ECTS-Punkte) 
 
-   2. Empirische Methoden und Statistik II (5 ECTS-Punkte) 
+      2. Empirische Methoden und Statistik II (5 ECTS-Punkte) 
 
-   3. Personal und Organisation I (5 ECTS-Punkte) 
+      3. Personal und Organisation I (5 ECTS-Punkte) 
 
-   4. Personal und Organisation II (5 ECTS-Punkte) 
+      4. Personal und Organisation II (5 ECTS-Punkte) 
 
-   5. Kommunikation und Massenmedien I (5 ECTS-Punkte) 
+      5. Kommunikation und Massenmedien I (5 ECTS-Punkte) 
 
-   6. Kommunikation und Massenmedien II (5 ECTS-Punkte) 
+      6. Kommunikation und Massenmedien II (5 ECTS-Punkte) 
 
-- (2) In einem **Vertiefungsbereich** sind Prüfungen in folgenden Modulen der Vertiefungsblöcke zu erbringen. 
+- (2) In einem **Vertiefungsbereich** sind Prüfungen in folgenden Modulen der Vertie- 
 
-   1. zwei Vertiefungsblöcke (je 10 ECTS-Punkte) wählbar aus den Vertiefungsblöcken Sozialwissenschaften 
+   - fungsblöcke zu erbringen. 
 
-   2. Block 2 frei wählbar aus Vertiefungen aller Institute (10 ECTS-Punkte) 
+      1. zwei Vertiefungsblöcke (je 10 ECTS-Punkte) wählbar aus den Vertiefungsblöcken Sozialwissenschaften 
 
-## **§ 39** 
+      2. Block 2 frei wählbar aus Vertiefungen aller Institute (10 ECTS-Punkte) 
 
-## **Schlüsselqualifikationen, Doppelwahlpflichtfach** 
+### **§ 39** 
 
-- (1)[1] Im **Bereich Schlüsselqualifikationen** sind auf Praxiskompetenzen abzielende Module erfolgreich abzuschließen.[2] Die Schlüsselqualifikationen können auch integrativ in den Fachmodulen erbracht werden; der Anteil der Schlüsselqualifikationen ist im Modulhandbuch durch Angabe der auf sie entfallenden ECTS-Punkte auszuweisen. 
+### **Schlüsselqualifikationen, Doppelwahlpflichtfach** 
 
-- (2)[1] Im Studium der Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre, Volkswirtschaftslehre oder Wirtschaftsinformatik und im Studium International Business Studies entfallen auf 
+- (1)<sup>1</sup> Im **Bereich Schlüsselqualifikationen** sind auf Praxiskompetenzen abzielende Module erfolgreich abzuschließen.<sup>2</sup> Die Schlüsselqualifikationen können auch integrativ in den Fachmodulen erbracht werden; der Anteil der Schlüsselqualifikationen ist im Modulhandbuch durch Angabe der auf sie entfallenden ECTS-Punkte auszuweisen. 
+
+- (2)<sup>1</sup> Im Studium der Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre, Volkswirtschaftslehre oder Wirtschaftsinformatik und im Studium International Business Studies entfallen auf 
 
       1. Sprachen: 10 ECTS-Punkte 
 
@@ -396,7 +388,7 @@ tung I im Bereich Schlüsselqualifikationen folgende Module nachzuweisen:
 
 2. Praxis der empirischen Wirtschaftsforschung: 5 ECTS-Punkte. 
 
-3Im Schwerpunkt Wirtschafts- und Betriebspädagogik wird in der Studienrichtung II der Bereich Schlüsselqualifikationen durch Prüfungen im Doppelwahlpflichtfach im Umfang von 15 ECTS-Punkten ersetzt.[4] Als Doppelwahlpflichtfach sind wählbar: 
+3Im Schwerpunkt Wirtschafts- und Betriebspädagogik wird in der Studienrichtung II der Bereich Schlüsselqualifikationen durch Prüfungen im Doppelwahlpflichtfach im Umfang von 15 ECTS-Punkten ersetzt.<sup>4</sup> Als Doppelwahlpflichtfach sind wählbar: 
 
 1. Englisch (mit Wirtschaftssprache) und Auslandswissenschaft 
 
@@ -432,13 +424,13 @@ tung I im Bereich Schlüsselqualifikationen folgende Module nachzuweisen:
 
 7. In § 40 wird folgender Abs. 3 angefügt: 
 
-„(3)[1] Die Regelungen der ersten Änderungssatzung gelten ab deren In-KraftTreten für alle Studierenden der Bachelorstudiengänge.[2] Wer zum Zeitpunkt des In-Kraft-Tretens dieser Änderungssatzung bereits Prüfungen in den Studiengängen nach dieser Prüfungsordnung abgelegt hat und noch ausstehende Prüfungen der Assessmentphase ablegen muss, legt diese nach den Regelungen der ersten Änderungssatzung ab.[3] Die ECTS-Punkte-Gewichtung richtet sich in diesen Fällen nach der bisherigen Fassung.[4] Ergeben sich nach Ablegen der Prüfungen der Bachelorphase weniger als 180 ECTS-Punkte, werden die in Satz 3 genannten Prüfungen mit den ECTS-Punktwerten nach der ersten Änderungssatzung bewertet, soweit diese höhere ECTS-Punktzahlen ergeben.“ 
+„(3)<sup>1</sup> Die Regelungen der ersten Änderungssatzung gelten ab deren In-KraftTreten für alle Studierenden der Bachelorstudiengänge.<sup>2</sup> Wer zum Zeitpunkt des In-Kraft-Tretens dieser Änderungssatzung bereits Prüfungen in den Studiengängen nach dieser Prüfungsordnung abgelegt hat und noch ausstehende Prüfungen der Assessmentphase ablegen muss, legt diese nach den Regelungen der ersten Änderungssatzung ab.<sup>3</sup> Die ECTS-Punkte-Gewichtung richtet sich in diesen Fällen nach der bisherigen Fassung.<sup>4</sup> Ergeben sich nach Ablegen der Prüfungen der Bachelorphase weniger als 180 ECTS-Punkte, werden die in Satz 3 genannten Prüfungen mit den ECTS-Punktwerten nach der ersten Änderungssatzung bewertet, soweit diese höhere ECTS-Punktzahlen ergeben.“ 
 
 **8. Das Anlagenverzeichnis und die Anlagen 1 bis 3  erhalten folgende Fassung:** 
 
-## **Anlagen zur Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
+# **Anlagen zur Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg** 
 
-## **Anlagenverzeichnis:** 
+### **Anlagenverzeichnis:** 
 
 Anlagen 1 – 3: Übersichtstabellen 
 
@@ -468,399 +460,391 @@ Anlagen 1 – 3: Übersichtstabellen
 
 ○Anlage 5 Dauer der mündlichen Prüfungen 
 
-## **Anlagen 1 - 3: Übersichtstabellen** 
+### **Anlagen 1 - 3: Übersichtstabellen** 
 
 **Der Prüfungsausschuss kann auf Antrag weitere Module, die in sinnvollem Zusammenhang mit dem Studium stehen und durch eine Professorin oder einen Professor der Universität vertreten werden, für die Bachelorprüfung zulassen. Fächer, die nicht mehr durch eine Professorin oder einen Professor der Universität vertreten werden, sind aus der Liste der Prüfungsfächer zu streichen.** 
 
-## Anlage 1. Bachelor in Wirtschaftswissenschaften 
+### Anlage 1. Bachelor in Wirtschaftswissenschaften 
 
-## Anlage 1.1 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre 
+### Anlage 1.1 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Betriebswirtschaftslehre 
 
-|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Betriebswirtschaftslehre (BWL)**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
-|**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
-|**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
-|**Schlüsselqualifikationen**||**16**|**20**|||||||
-|Sprachen<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Praxis der emp. Wirtschaftsforschung (PC-gestützt)||8<br>2<br>2<br>4|10<br>2,5<br>2,5<br>5|||2<br>2,5|2<br>2,5|4<br>5||
-||||||||2<br>2,5|||
-||||||||2<br>2,5|||
-||||||||4<br>5|||
-|**Kernbereich des Schwerpunkts BWL**||**16**|**20**|||||||
-|Kostenrechnung und Controlling<br>Internationale Unternehmensführung<br>Investition und Finanzierung<br>Business Plan Seminar/Planspiel/Fallstudienseminar(alternativ)||4<br>4<br>4<br>4|5<br>5<br>5<br>5|||4<br>5||||
-||||||||4<br>5|||
-|||||||||4<br>5||
-||||||||||4<br>5|
-|**Vertiefungsbereich des Schwerpunkts BWL**||**34**|**55**|||||||
-|Block 1: frei wählbar aus BWL-Vertiefungen<br>Block 2: frei wählbar aus BWL-Vertiefungen<br>Block 3: frei wählbar aus BWL-Vertiefungen<br>Block 4: frei wählbar aus allen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-||||||||4<br>5|4<br>5||
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-||||||||||2<br>3|
-||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|134||24|24|24|24|24|14|
-||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**|||**Assessment**|**phase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Betriebswirtschaftslehre (BWL)**|||**1**|**2**|**3**|**4**|**5**|**6**|
+||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Übersicht / Welt des Unternehmens**|**12**|**15**|||||||
+|Unternehmensplanspiel|4|5|4<br>5||||||
+|Unternehmen, Märkte, Volkswirtschaften|4|5|4<br>5||||||
+|Unternehmer und Unternehmen|4|5|4<br>5||||||
+|**Methodische Grundlagen der WiWi**|**24**|**30**|||||||
+|Buchführung|4|5|4<br>5||||||
+|IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik|8|10|4<br>5|4<br>5|||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**BWL / Unternehmen und ihr Geschäft**|**12**|**15**|||||||
+|Absatz|4|5||4<br>5|||||
+|Jahresabschluss|4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung|4|5|||4<br>5||||
+|**VWL / Unternehmen und ihr Umfeld**|**12**|**15**|||||||
+|Makroökonomie|4|5||4<br>5|||||
+|Mikroökonomie|4|5||4<br>5|||||
+|Wirtschaft und Staat|4|5|||4<br>5||||
+|**Recht**<br>|**8**<br>|**10**<br>|||||||
+|Privat- und Handelsrecht I|2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Europarecht|2|2,5||||2<br>2,5|||
+|**Schlüsselqualifikationen**|**16**|**20**|||||||
+|Sprachen|8|10|||2<br>2,5|2<br>2,5|4<br>5||
+|Präsentationsfähigkeiten|2|2,5||||2<br>2,5|||
+|Einführung in das wissenschaftliche Arbeiten|2|2,5||||2<br>2,5|||
+|Praxis der emp. Wirtschaftsforschung (PC-gestützt)|4|5||||4<br>5|||
+|**Kernbereich des Schwerpunkts BWL**|**16**|**20**|||||||
+|Kostenrechnung und Controlling|4|5|||4<br>5||||
+|Internationale Unternehmensführung|4|5||||4<br>5|||
+|Investition und Finanzierung|4|5|||||4<br>5||
+|Business Plan Seminar/Planspiel/Fallstudienseminar(alternativ)|4|5||||||4<br>5|
+|**Vertiefungsbereich des Schwerpunkts BWL**|**34**|**55**|||||||
+|Block 1: frei wählbar aus BWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 2: frei wählbar aus BWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 3: frei wählbar aus BWL-Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Block 4: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Seminar zur Bachelorarbeit|2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|134||24|24|24|24|24|14|
+|ECTS||180|30|30|30|30|30|30|
 
-## Anlage 1.2 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Volkswirtschaftslehre 
+### Anlage 1.2 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Volkswirtschaftslehre 
 
-|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Volkswirtschaftslehre (VWL)**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
-|**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
-|**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
-|**Schlüsselqualifikationen**||**16**|**20**|||||||
-|Sprachen<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Praxis der emp. Wirtschaftsforschung (PC-gestützt)||8<br>2<br>2<br>4|10<br>2,5<br>2,5<br>5|||2<br>2,5|2<br>2,5|4<br>5||
-||||||||2<br>2,5|||
-||||||||2<br>2,5|||
-||||||||4<br>5|||
-|**Kernbereich des Schwerpunkts VWL**||**16**|**20**|||||||
-|Außenwirtschaft<br>Ökonomie des öffentlichen Sektors<br>Arbeitsmarktpolitik<br>Wettbewerbstheorie und –politik||4<br>4<br>4<br>4|5<br>5<br>5<br>5|||4<br>5||||
-||||||||4<br>5|||
-|||||||||4<br>5||
-||||||||||4<br>5|
-|**Vertiefungsbereich des Schwerpunkts VWL**||**34**|**55**|||||||
-|Block 1: frei wählbar aus VWL-Vertiefungen<br>Block 2: frei wählbar aus VWL-Vertiefungen<br>Block 3: frei wählbar aus allen Vertiefungen<br>Block 4: frei wählbar aus allen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-||||||||4<br>5|4<br>5||
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-||||||||||2<br>3|
-||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|134||24|24|24|24|24|14|
-||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**|||**Assessment**|**phase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Volkswirtschaftslehre (VWL)**|||**1**|**2**|**3**|**4**|**5**|**6**|
+||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Übersicht / Welt des Unternehmens**|**12**|**15**|||||||
+|Unternehmensplanspiel|4|5|4<br>5||||||
+|Unternehmen, Märkte, Volkswirtschaften|4|5|4<br>5||||||
+|Unternehmer und Unternehmen|4|5|4<br>5||||||
+|**Methodische Grundlagen der WiWi**|**24**|**30**|||||||
+|Buchführung|4|5|4<br>5||||||
+|IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik|8|10|4<br>5|4<br>5|||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**BWL / Unternehmen und ihr Geschäft**|**12**|**15**|||||||
+|Absatz|4|5||4<br>5|||||
+|Jahresabschluss|4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung|4|5|||4<br>5||||
+|**VWL / Unternehmen und ihr Umfeld**|**12**|**15**|||||||
+|Makroökonomie|4|5||4<br>5|||||
+|Mikroökonomie|4|5||4<br>5|||||
+|Wirtschaft und Staat|4|5|||4<br>5||||
+|**Recht**|**8**|**10**|||||||
+|Privat- und Handelsrecht I|2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|<br>Öffentliches Recht - Grundlagen Europarecht|2|2,5||||2<br>2,5|||
+|**Schlüsselqualifikationen**|**16**|**20**|||||||
+|Sprachen|8|10|||2<br>2,5|2<br>2,5|4<br>5||
+|Präsentationsfähigkeiten|2|2,5||||2<br>2,5|||
+|Einführung in das wissenschaftliche Arbeiten|2|2,5||||2<br>2,5|||
+|Praxis der emp. Wirtschaftsforschung (PC-gestützt)|4|5||||4<br>5|||
+|**Kernbereich des Schwerpunkts VWL**|**16**|**20**|||||||
+|Außenwirtschaft|4|5|||4<br>5||||
+|Ökonomie des öffentlichen Sektors|4|5||||4<br>5|||
+|Arbeitsmarktpolitik|4|5|||||4<br>5||
+|Wettbewerbstheorie und –politik|4|5||||||4<br>5|
+|**Vertiefungsbereich des Schwerpunkts VWL**|**34**|**55**|||||||
+|Block 1: frei wählbar aus VWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 2: frei wählbar aus VWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 3: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|<br>Block 4: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Seminar zur Bachelorarbeit|2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|134||24|24|24|24|24|14|
+|ECTS||180|30|30|30|30|30|30|
 
-## Anlage 1.3 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschaftsinformatik 
+### Anlage 1.3 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschaftsinformatik 
 
-|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschaftsinformatik (WI)**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
-|**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
-|**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
-|**Schlüsselqualifikationen**||**16**|**20**|||||||
-|Sprachen<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Praxis der emp. Wirtschaftsforschung (PC-gestützt)||8<br>2<br>2<br>4|10<br>2,5<br>2,5<br>5|||2<br>2,5|2<br>2,5|4<br>5||
-||||||||2<br>2,5|||
-||||||||2<br>2,5|||
-||||||||4<br>5|||
-|**Kernbereich des Schwerpunkts WI**||**16**|**20**|||||||
-|Allgemeine WI I: IT-gestützte Unternehmensführung<br>Allgemeine WI II: E-Business Management<br>Allgemeine WI III: IT-Management<br>Business Plan Seminar/Planspiel/Fallstudienseminar(alternativ)||4<br>4<br>4<br>4|5<br>5<br>5<br>5|||4<br>5||||
-||||||||4<br>5|||
-|||||||||4<br>5||
-||||||||||4<br>5|
-|**Vertiefungsbereich des Schwerpunkts WI**||**34**|**55**|||||||
-|Spezielle WI I: Technologie- und Projektmanagement<br>Spezielle WI II: Innovations- und Wertschöpfungsmanagement<br>Spezielle WI III: Prozess-, Service- und Informationsmanagement<br>Block frei wählbar aus allen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-||||||||4<br>5|4<br>5||
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-||||||||||2<br>3|
-||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|134||24|24|24|24|24|14|
-||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**||**Assessmen**|**tphase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Wirtschaftsinformatik (WI)**||**1**|**2**|**3**|**4**|**5**|**6**|
+|SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Übersicht / Welt des Unternehmens**<br>**12**|**15**|||||||
+|Unternehmensplanspiel<br>4|5|4<br>5||||||
+|Unternehmen, Märkte, Volkswirtschaften<br>4|5|4<br>5||||||
+|Unternehmer und Unternehmen<br>4|5|4<br>5||||||
+|**Methodische Grundlagen der WiWi**<br>**24**|**30**|||||||
+|Buchführung<br>4|5|4<br>5||||||
+|IT und E-Business<br>6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik<br>8|10|4<br>5|4<br>5|||||
+|Statistik<br>6|7,5|||6<br>7,5||||
+|**BWL / Unternehmen und ihr Geschäft**<br>**12**|**15**|||||||
+|Absatz<br>4|5||4<br>5|||||
+|Jahresabschluss<br>4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung<br>4|5|||4<br>5||||
+|**VWL / Unternehmen und ihr Umfeld**<br>**12**|**15**|||||||
+|Makroökonomie<br>4|5||4<br>5|||||
+|Mikroökonomie<br>4|5||4<br>5|||||
+|Wirtschaft und Staat<br>4|5|||4<br>5||||
+|**Recht**<br>**8**|**10**|||||||
+|Privat- und Handelsrecht I<br>2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II<br>2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Europarecht<br>2|2,5||||2<br>2,5|||
+|**Schlüsselqualifikationen**<br>**16**|**20**|||||||
+|Sprachen<br>8|10|||2<br>2,5|2<br>2,5|4<br>5||
+|Präsentationsfähigkeiten<br>2|2,5||||2<br>2,5|||
+|Einführung in das wissenschaftliche Arbeiten<br>2|2,5||||2<br>2,5|||
+|Praxis der emp. Wirtschaftsforschung (PC-gestützt)<br>4|5||||4<br>5|||
+|**Kernbereich des Schwerpunkts WI**<br>**16**|**20**|||||||
+|Allgemeine WI I: IT-gestützte Unternehmensführung<br>4|5|||4<br>5||||
+|Allgemeine WI II: E-Business Management<br>4|5||||4<br>5|||
+|Allgemeine WI III: IT-Management<br>4|5|||||4<br>5||
+|Business Plan Seminar/Planspiel/Fallstudienseminar(alternativ)<br>4|5||||||4<br>5|
+|**Vertiefungsbereich des Schwerpunkts WI**<br>**34**|**55**|||||||
+|Spezielle WI I: Technologie- und Projektmanagement<br>8|10||||4<br>5|4<br>5||
+|Spezielle WI II: Innovations- und Wertschöpfungsmanagement<br>8|10||||4<br>5|4<br>5||
+|<br>Spezielle WI III: Prozess-, Service- und Informationsmanagement<br>8|10|||||4<br>5|4<br>5|
+|Block frei wählbar aus allen Vertiefungen<br>8|10|||||4<br>5|4<br>5|
+|Seminar zur Bachelorarbeit<br>2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)|12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS<br>134||24|24|24|24|24|14|
+|ECTS|180|30|30|30|30|30|30|
 
-## Anlage 1.4 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik 
+### Anlage 1.4 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik 
 
-## Anlage 1.4.1. Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik, Studienrichtung I 
+### Anlage 1.4.1. Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik, Studienrichtung I 
 
-|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschafts- und Betriebspädagogik/**|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschafts- und Betriebspädagogik/**|||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|**Studienrichtung I(WIPäd I)**||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
-|**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
-|**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
-|**Schlüsselqualifikationen**||**12**|**15**|||||||
-|Sprachen<br>Praxis der emp. Wirtschaftsforschung (PC-gestützt)||8<br>4|10<br>5||||4<br>5|4<br>5||
-||||||||4<br>5|||
-|**Kernbereich des Schwerpunkts WIPäd I**||**17**|**25**|||||||
-|Grundlagen der Wirtschafts- und Betriebspädagogik<br>Präsentations- und Moderationstechniken<br>Berufliche Weiterbildung<br>Betriebspädagogisches Seminar<br>Erkundungsprojektoder<br>Schulpraktische Studien(SPS)||4<br>5<br>4<br>2<br>2|5<br>7,5<br>5<br>2,5<br>5|||4<br>5||||
-|||||||2<br>2,5|3<br>5|||
-||||||||4<br>5|||
-||||||||2<br>2,5|||
-|||||||||2<br>5||
-|**Vertiefungsbereich des Schwerpunkts WIPäd I**||**34**|**55**|||||||
-|Block 1: frei wählbar aus BWL-Vertiefungen<br>Block 2: frei wählbar aus BWL-Vertiefungen<br>Block 3: frei wählbar aus allen Vertiefungen<br>Block 4: frei wählbar aus allen Vertiefungen<br>Seminar/ Kolloquium zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-||||||||||2<br>3|
-||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|131||24|24|24|23|22|14|
-||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**|||**Assessmen**|**tphase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Wirtschafts- und Betriebspädagogik/**|||**1**|**2**|**3**|**4**|**5**|**6**|
+|**Studienrichtung I(WIPäd I)**<br>|SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Übersicht / Welt des Unternehmens**|**12**|**15**|||||||
+|Unternehmensplanspiel|4|5|4<br>5||||||
+|Unternehmen, Märkte, Volkswirtschaften|4|5|4<br>5||||||
+|Unternehmer und Unternehmen|4|5|4<br>5||||||
+|**Methodische Grundlagen der WiWi**|**24**|**30**|||||||
+|Buchführung|4|5|4<br>5||||||
+|<br>IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik|8|10|4<br>5|4<br>5|||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**BWL / Unternehmen und ihr Geschäft**|**12**|**15**|||||||
+|Absatz|4|5||4<br>5|||||
+|Jahresabschluss|4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung|4|5|||4<br>5||||
+|**VWL / Unternehmen und ihr Umfeld**|**12**|**15**|||||||
+|Makroökonomie|4|5||4<br>5|||||
+|Mikroökonomie|4|5||4<br>5|||||
+|Wirtschaft und Staat|4|5|||4<br>5||||
+|**Recht**|**8**|**10**|||||||
+|Privat- und Handelsrecht I|2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II<br>|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Europarecht|2|2,5||||2<br>2,5|||
+|**Schlüsselqualifikationen**|**12**|**15**|||||||
+|Sprachen|8|10||||4<br>5|4<br>5||
+|Praxis der emp. Wirtschaftsforschung (PC-gestützt)|4|5||||4<br>5|||
+|**Kernbereich des Schwerpunkts WIPäd I**|**17**|**25**|||||||
+|Grundlagen der Wirtschafts- und Betriebspädagogik|4|5|||4<br>5||||
+|Präsentations- und Moderationstechniken<br>Berufliche Weiterbildung|5<br>4|7,5<br>5|||2<br>2,5|3<br>5<br>4<br>5|||
+|Betriebspädagogisches Seminar|2|2,5||||2<br>2,5|||
+|Erkundungsprojektoder<br>Schulpraktische Studien(SPS)|2|5|||||2<br>5||
+|**Vertiefungsbereich des Schwerpunkts WIPäd I**|**34**|**55**|||||||
+|Block 1: frei wählbar aus BWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 2: frei wählbar aus BWL-Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Block 3: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|<br>Block 4: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Seminar/ Kolloquium zur Bachelorarbeit|2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|131||24|24|24|23|22|14|
+|ECTS||180|30|30|30|30|30|30|
 
-## Anlage 1.4.2 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik, Studienrichtung II 
+### Anlage 1.4.2 Bachelor in Wirtschaftswissenschaften mit Schwerpunkt Wirtschafts- und Betriebspädagogik, Studienrichtung II 
 
-|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschafts- und Betriebspädagogik**|**Bachelor in Wirtschaftswissenschaften**<br>**mit Schwerpunkt Wirtschafts- und Betriebspädagogik**|||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|
-|||||**1**|**2**|**3**|**4**|**5**|**6**|
-|**Studienrichtung II(WIPäd II)**||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
-|**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
-|**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
-|**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
-|**Doppelwahlpflichtfach**||**12**|**15**|||||||
-|Je nach Doppelwahlpflichtfach unterschiedlich. Die<br>Festlegungder Module erfolgt durch die beteiligten Fächer.||6<br>6|7,5<br>7,5||||6<br>7,5|||
-||||||||2<br>2,5|4<br>5||
-|**Kernbereich des Schwerpunkts WIPäd II**||**17**|**25**|||||||
-|Grundlagen der Wirtschafts- und Betriebspädagogik<br>Präsentations- und Moderationstechniken<br>Berufliche Weiterbildung<br>Betriebspädagogisches Seminar<br>Erkundungsprojektoder Schulpraktische Studien (<br>SPS)||4<br>5<br>4<br>2<br>2|5<br>7,5<br>5<br>2,5<br>5|||4<br>5||||
-|||||||2<br>2,5|3<br>5|||
-||||||||4<br>5|||
-||||||||2<br>2,5|||
-|||||||||2<br>5||
-|**Vertiefungsbereich des Schwerpunkts WIPäd II**||**34**|**55**|||||||
-|Block 1: frei wählbar aus BWL-Vertiefungen<br>Block 2: frei wählbar aus BWL-Vertiefungen<br>Block 3: frei wählbar aus allen Vertiefungen<br>Block 4: frei wählbar aus allen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-|||||||||4<br>5|4<br>5|
-||||||||||2<br>3|
-||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|131||24|24|24|23|22|14|
-||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Wirtschaftswissenschaften**|||**Assessment**|**phase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Wirtschafts- und Betriebspädagogik**|||**1**|**2**|**3**|**4**|**5**|**6**|
+|**Studienrichtung II(WIPäd II)**<br>|SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Übersicht / Welt des Unternehmens**|**12**|**15**|||||||
+|Unternehmensplanspiel|4|5|4<br>5||||||
+|<br>Unternehmen, Märkte, Volkswirtschaften|4|5|4<br>5||||||
+|Unternehmer und Unternehmen|4|5|4<br>5||||||
+|**Methodische Grundlagen der WiWi**|**24**|**30**|||||||
+|Buchführung|4|5|4<br>5||||||
+|<br>IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik|8|10|4<br>5|4<br>5|||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**BWL / Unternehmen und ihr Geschäft**|**12**|**15**|||||||
+|Absatz|4|5||4<br>5|||||
+|Jahresabschluss|4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung|4|5|||4<br>5||||
+|**VWL / Unternehmen und ihr Umfeld**|**12**|**15**|||||||
+|Makroökonomie|4|5||4<br>5|||||
+|Mikroökonomie|4|5||4<br>5|||||
+|Wirtschaft und Staat|4|5|||4<br>5||||
+|**Recht**|**8**|**10**|||||||
+|Privat- und Handelsrecht I|2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II|2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|<br>Öffentliches Recht - Grundlagen Europarecht|2|2,5||||2<br>2,5|||
+|**Doppelwahlpflichtfach**|**12**|**15**|||||||
+|Je nach Doppelwahlpflichtfach unterschiedlich. Die|6|7,5||||6<br>7,5|||
+|Festlegungder Module erfolgt durch die beteiligten Fächer.|6|7,5||||2<br>2,5|4<br>5||
+|**Kernbereich des Schwerpunkts WIPäd II**|**17**|**25**|||||||
+|Grundlagen der Wirtschafts- und Betriebspädagogik|4|5|||4<br>5||||
+|Präsentations- und Moderationstechniken|5|7,5|||2<br>2,5|3<br>5|||
+|Berufliche Weiterbildung|4|5||||4<br>5|||
+|Betriebspädagogisches Seminar|2|2,5||||2<br>2,5|||
+|Erkundungsprojektoder Schulpraktische Studien (<br>SPS)|2|5|||||2<br>5||
+|**Vertiefungsbereich des Schwerpunkts WIPäd II**|**34**|**55**|||||||
+|Block 1: frei wählbar aus BWL-Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 2: frei wählbar aus BWL-Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Block 3: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|<br>Block 4: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|<br>Seminar zur Bachelorarbeit|2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|131||24|24|24|23|22|14|
+|ECTS||180|30|30|30|30|30|30|
 
 Anlage 2 Bachelor in International Business Studies 
 
-|**Bachelor in International Business Studies(IBS)**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
+|**Bachelor in International Business Studies(IBS)**||||**Assessment**|**phase**|**Bachelorpha**|**se**|||
 |---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
 |||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
 |**Übersicht / Welt des Unternehmens**||**12**|**15**|||||||
-|Unternehmensplanspiel<br>Unternehmen, Märkte, Volkswirtschaften<br>Unternehmer und Unternehmen||4<br>4<br>4|5<br>5<br>5|4<br>5||||||
-|||||4<br>5||||||
-|||||4<br>5||||||
+|Unternehmensplanspiel||4|5|4<br>5||||||
+|Unternehmen, Märkte, Volkswirtschaften||4|5|4<br>5||||||
+|Unternehmer und Unternehmen||4|5|4<br>5||||||
 |**Methodische Grundlagen der WiWi**||**24**|**30**|||||||
-|Buchführung<br>IT und E-Business<br>Mathematik<br>Statistik||4<br>6<br>8<br>6|5<br>7,5<br>10<br>7,5|4<br>5||||||
-|||||4<br>5|2<br>2,5|||||
-|||||4<br>5|4<br>5|||||
-|||||||6<br>7,5||||
+|Buchführung||4|5|4<br>5||||||
+|IT und E-Business||6|7,5|4<br>5|2<br>2,5|||||
+|Mathematik||8|10|4<br>5|4<br>5|||||
+|Statistik||6|7,5|||6<br>7,5||||
 |**BWL / Unternehmen und ihr Geschäft**||**12**|**15**|||||||
-|Absatz<br>Jahresabschluss<br>Produktion,Logistik,Beschaffung||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
+|Absatz||4|5||4<br>5|||||
+|Jahresabschluss||4|5||4<br>5|||||
+|Produktion,Logistik,Beschaffung||4|5|||4<br>5||||
 |**VWL / Unternehmen und ihr Umfeld**||**12**|**15**|||||||
-|Makroökonomie<br>Mikroökonomie<br>Wirtschaft und Staat||4<br>4<br>4|5<br>5<br>5||4<br>5|||||
-||||||4<br>5|||||
-|||||||4<br>5||||
+|Makroökonomie||4|5||4<br>5|||||
+|Mikroökonomie||4|5||4<br>5|||||
+|Wirtschaft und Staat||4|5|||4<br>5||||
 |**Recht**||**8**|**10**|||||||
-|Privat- und Handelsrecht I<br>Privat- und Handelsrecht II<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht<br>Öffentliches Recht - Grundlagen Europarecht||2<br>2<br>2<br>2|2,5<br>2,5<br>2,5<br>2,5||2<br>2,5|||||
-|||||||2<br>2,5||||
-|||||||2<br>2,5||||
-||||||||2<br>2,5|||
+|Privat- und Handelsrecht I||2|2,5||2<br>2,5|||||
+|Privat- und Handelsrecht II||2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht||2|2,5|||2<br>2,5||||
+|Öffentliches Recht - Grundlagen Europarecht||2|2,5||||2<br>2,5|||
 |**Schlüsselqualifikationen**||**16**|**20**|||||||
-|Sprachen<br>Präsentationsfähigkeiten<br>Einführung in das wissenschaftliche Arbeiten<br>Praxis der emp. Wirtschaftsforschung (PC-gestützt)||8<br>2<br>2<br>4|10<br>2,5<br>2,5<br>5|||2<br>2,5|2<br>2,5|4<br>5||
-||||||||2<br>2,5|||
-||||||||2<br>2,5|||
-||||||||4<br>5|||
+|Sprachen||8|10|||2<br>2,5|2<br>2,5|4<br>5||
+|Präsentationsfähigkeiten||2|2,5||||2<br>2,5|||
+|Einführung in das wissenschaftliche Arbeiten||2|2,5||||2<br>2,5|||
+|Praxis der emp. Wirtschaftsforschung (PC-gestützt)||4|5||||4<br>5|||
 |**Kernbereich des Schwerpunkts IBS**||**12**|**20**|||||||
-|Außenwirtschaft<br>Internationales Recht I<br>Sprachen II für International Business Studies<br>Internationale Unternehmensführung||4<br>4<br>4<br>4|5<br>5<br>5<br>5|||4<br>5||||
-||||||||4<br>5|||
-|||||||||4<br>5||
-||||||||||4<br>5|
+|Außenwirtschaft||4|5|||4<br>5||||
+|Internationales Recht I||4|5||||4<br>5|||
+|Sprachen II für International Business Studies||4|5|||||4<br>5||
+|Internationale Unternehmensführung||4|5||||||4<br>5|
 |**Vertiefungsbereich des Schwerpunkts IBS**||**34**|**55**|||||||
-|Block 1: frei wählbar aus internationalen Vertiefungen<br>Block 2: frei wählbar aus internationalen Vertiefungen<br>Block 3: Auslandsblock<br>Block 4: Auslandsblock<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)||8<br>8<br>8<br>8<br>2|10<br>10<br>10<br>10<br>3<br>12||||4<br>5||4<br>5|
-||||||||4<br>5||4<br>5|
-|||||||||8<br>10||
-|||||||||8<br>10||
-||||||||||2<br>3|
-||||||||||12|
+|Block 1: frei wählbar aus internationalen Vertiefungen||8|10||||4<br>5||4<br>5|
+|<br>Block 2: frei wählbar aus internationalen Vertiefungen||8|10||||4<br>5||4<br>5|
+|<br>Block 3: Auslandsblock||8|10|||||8<br>10||
+|Block 4: Auslandsblock||8|10|||||8<br>10||
+|Seminar zur Bachelorarbeit||2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)|||12||||||12|
 |* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich|SWS|130||24|24|24|24|24|14|
 ||ECTS||180|30|30|30|30|30|30|
 
-## Anlage 3 Bachelor in Sozialökonomik Anlage 3.1 Bachelor in Sozialökonomik mit Schwerpunkt Verhaltenswissenschaften 
+### Anlage 3 Bachelor in Sozialökonomik Anlage 3.1 Bachelor in Sozialökonomik mit Schwerpunkt Verhaltenswissenschaften 
 
-|**Bachelor in Sozialökonomik**<br>**mit Schwerpunkt Verhaltenswissenschaften**|**Bachelor in Sozialökonomik**<br>**mit Schwerpunkt Verhaltenswissenschaften**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|---|
-||||||**1**|**2**|**3**|**4**|**5**|**6**|
-||||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Sozialökonomik / Grundzüge der Soziologie**|||**8**|**15**|||||||
-|Soziologie I<br>Soziologie II|||4<br>4|7,5<br>7,5|4<br>7,5||||||
-|||||||4<br>7,5|||||
-|**Sozialökonomik / Politik, Wirtschaft und Gesellschaft**|||**8**|**15**|||||||
-|Internationale und transnationale Beziehungen<br>Regionen im internationalen System|||4<br>4|7,5<br>7,5|4<br>7,5||||||
-|||||||4<br>7,5|||||
-|**Sozialökonomik / Angewandte Sozialpsychologie**|||**2**|**2,5**|||||||
-|Grundlagen und Anwendungsfelder der Sozialpsychologie|||2|2,5|2<br>2,5||||||
-|**Methodische Grundlagen der Sozialökonomik**|||**16**|**32,5**|||||||
-|IT und E-Business<br>Einführung in die empirische Sozialforschung I<br>Einführung in die empirische Sozialforschung II<br>Computergestützte Datenanalyse<br>Statistik|||6<br>4<br>4<br>2<br>6|7,5<br>7,5<br>7,5<br>2,5<br>7,5|4<br>5|2<br>2,5|||||
-|||||||4<br>7,5|||||
-||||||||4<br>7,5||||
-||||||||2<br>2,5||||
-||||||||6<br>7,5||||
-|**Übersicht/ Welt des Unternehmens**|||**4**|**5**|||||||
-|Unternehmen,Märkte,Volkswirtschaften|||4|5|4<br>5||||||
-|**BWL**|**oder alternativ**<br> **VWL****||**12**|**15**|||||||
-|BWL: Absatz                                             VWL: Makroökonomie<br>BWL: Investition und Finanzierung            VWL: Mikroökonomie für So<br>BWL: Produktion,Logistik,BeschaffungVWL: Wirtschaft und Staat||zialök.|4<br>4<br>4|5<br>5<br>5||||4<br>5|||
-|||||||||4<br>5|||
-||||||||||4<br>5||
-|**Recht**|||**4**|**5**|||||||
-|Öffentliches Recht - Grundlagen Europarecht<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|||2<br>2|2,5<br>2,5||2<br>2,5|||||
-||||||||2<br>2,5||||
-|**Schlüsselqualifikationen**|||**12**|**15**|||||||
-|Planspiel Sozialökonomik<br>Präsentations- und Moderationstechniken<br>Sprachen|||2<br>2<br>8|2,5<br>2,5<br>10|2<br>2,5||||||
-|||||||2<br>2,5|||||
-||||||||4<br>5|4<br>5|||
-|**Kernbereich des Schwerpunkts Verhaltenwissenschaften**|||**18**|**30**|||||||
-|Empirische Methoden und Statistik I<br>Empirische Methoden und Statistik II<br>Personal und Organisation I<br>Personal und Organisation II<br>Kommunikation und Massenmedien I<br>Kommunikation und Massenmedien II|||4<br>2<br>4<br>2<br>4<br>2|5<br>5<br>5<br>5<br>5<br>5|||4<br>5||||
-|||||||||2<br>5|||
-|||||||||4<br>5|||
-||||||||||2<br>5||
-||||||||||4<br>5||
-|||||||||||2<br>5|
-|**Vertiefungsbereich des Schwerpunkts Verhaltenwissenschaften**|||**26**|**45**|||||||
-|Block 1: frei wählbar aus sozialökonomischen Vertiefungen<br>Block 2: frei wählbar aus sozialökonomischen Vertiefungen<br>Block 3: frei wählbar aus allen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)|||8<br>8<br>8<br>2|10<br>10<br>10<br>3<br>12||||4<br>5|4<br>5||
-||||||||||4<br>5|4<br>5|
-||||||||||4<br>5|4<br>5|
-|||||||||||2<br>3|
-|||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>** Entweder alle BWL- oder alle VWL- Module||SWS|110||20|18|22|22|22|12|
-|||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Sozialökonomik**|||**Assessment**|**phase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt Verhaltenswissenschaften**|||**1**|**2**|**3**|**4**|**5**|**6**|
+||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Sozialökonomik / Grundzüge der Soziologie**|**8**|**15**|||||||
+|Soziologie I|4|7,5|4<br>7,5||||||
+|Soziologie II|4|7,5||4<br>7,5|||||
+|**Sozialökonomik / Politik, Wirtschaft und Gesellschaft**|**8**|**15**|||||||
+|Internationale und transnationale Beziehungen|4|7,5|4<br>7,5||||||
+|Regionen im internationalen System|4|7,5||4<br>7,5|||||
+|**Sozialökonomik / Angewandte Sozialpsychologie**|**2**|**2,5**|||||||
+|Grundlagen und Anwendungsfelder der Sozialpsychologie|2|2,5|2<br>2,5||||||
+|**Methodische Grundlagen der Sozialökonomik**|**16**|**32,5**|||||||
+|IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Einführung in die empirische Sozialforschung I|4|7,5||4<br>7,5|||||
+|Einführung in die empirische Sozialforschung II|4|7,5|||4<br>7,5||||
+|Computergestützte Datenanalyse|2|2,5|||2<br>2,5||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**Übersicht/ Welt des Unternehmens**<br>Unternehmen,Märkte,Volkswirtschaften|**4**<br>4|**5**<br>5|4<br>5||||||
+|**BWLoder alternativ**<br> **VWL****|**12**|**15**|||||||
+|BWL: Absatz                                             VWL: Makroökonomie|4|5||||4<br>5|||
+|BWL: Investition und Finanzierung            VWL: Mikroökonomie für Sozialök.|4|5||||4<br>5|||
+|BWL: Produktion,Logistik,BeschaffungVWL: Wirtschaft und Staat|4|5|||||4<br>5||
+|**Recht**<br>|**4**|**5**|||||||
+|Öffentliches Recht - Grundlagen Europarecht|2|2,5||2<br>2,5|||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|**Schlüsselqualifikationen**|**12**|**15**|||||||
+|Planspiel Sozialökonomik|2|2,5|2<br>2,5||||||
+|Präsentations- und Moderationstechniken|2|2,5||2<br>2,5|||||
+|Sprachen|8|10|||4<br>5|4<br>5|||
+|**Kernbereich des Schwerpunkts Verhaltenwissenschaften**|**18**|**30**|||||||
+|Empirische Methoden und Statistik I|4|5|||4<br>5||||
+|Empirische Methoden und Statistik II|2|5||||2<br>5|||
+|Personal und Organisation I|4|5||||4<br>5|||
+|Personal und Organisation II|2|5|||||2<br>5||
+|Kommunikation und Massenmedien I|4|5|||||4<br>5||
+|Kommunikation und Massenmedien II|2|5||||||2<br>5|
+|**Vertiefungsbereich des Schwerpunkts Verhaltenwissenschaften**|**26**|**45**|||||||
+|Block 1: frei wählbar aus sozialökonomischen Vertiefungen|8|10||||4<br>5|4<br>5||
+|Block 2: frei wählbar aus sozialökonomischen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Block 3: frei wählbar aus allen Vertiefungen|8|10|||||4<br>5|4<br>5|
+|Seminar zur Bachelorarbeit|2|3||||||2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|110||20|18|22|22|22|12|
+|** Entweder alle BWL- oder alle VWL- Module<br>ECTS||180|30|30|30|30|30|30|
 
-## Anlage 3.2 Bachelor in Sozialökonomik mit Schwerpunkt International 
+### Anlage 3.2 Bachelor in Sozialökonomik mit Schwerpunkt International 
 
-|**Bachelor in Sozialökonomik**<br>**mit Schwerpunkt International**|**Bachelor in Sozialökonomik**<br>**mit Schwerpunkt International**||||**Assessmentphase**|**Assessmentphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|**Bachelorphase**|
-|---|---|---|---|---|---|---|---|---|---|---|
-||||||**1**|**2**|**3**|**4**|**5**|**6**|
-||||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
-|**Sozialökonomik / Grundzüge der Soziologie**|||**8**|**15**|||||||
-|Soziologie I<br>Soziologie II|||4<br>4|7,5<br>7,5|4<br>7,5||||||
-|||||||4<br>7,5|||||
-|**Sozialökonomik / Politik, Wirtschaft und Gesellschaft**|||**8**|**15**|||||||
-|Internationale und transnationale Beziehungen<br>Regionen im internationalen System|||4<br>4|7,5<br>7,5|4<br>7,5||||||
-|||||||4<br>7,5|||||
-|**Sozialökonomik / Angewandte Sozialpsychologie**|||**2**|**2,5**|||||||
-|Grundlagen und Anwendungsfelder der Sozialpsychologie|||2|2,5|2<br>2,5||||||
-|**Methodische Grundlagen der Sozialökonomik**|||**16**|**32,5**|||||||
-|IT und E-Business<br>Einführung in die empirische Sozialforschung I<br>Einführung in die empirische Sozialforschung II<br>Computergestützte Datenanalyse<br>Statistik|||6<br>4<br>4<br>2<br>6|7,5<br>7,5<br>7,5<br>2,5<br>7,5|4<br>5|2<br>2,5|||||
-|||||||4<br>7,5|||||
-||||||||4<br>7,5||||
-||||||||2<br>2,5||||
-||||||||6<br>7,5||||
-|**Übersicht/ Welt des Unternehmens**|||**4**|**5**|||||||
-|Unternehmen,Märkte,Volkswirtschaften|||4|5|4<br>5||||||
-|**BWL**|**oder alternativ**<br>**VWL****||**12**|**15**|||||||
-|BWL: Absatz                                             VWL: Makroökonomie<br>BWL: Investition und Finanzierung            VWL: Mikroökonomie für So<br>BWL: Produktion,Logistik,BeschaffungVWL: Wirtschaft und Staat||zialök.|4<br>4<br>4|5<br>5<br>5||||4<br>5|||
-|||||||||4<br>5|||
-||||||||||4<br>5||
-|**Recht**|||**4**|**5**|||||||
-|Öffentliches Recht - Grundlagen Europarecht<br>Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|||2<br>2|2,5<br>2,5||2<br>2,5|||||
-||||||||2<br>2,5||||
-|**Schlüsselqualifikationen**|||**12**|**15**|||||||
-|Planspiel Sozialökonomik<br>Präsentations- und Moderationstechniken<br>Sprachen|||2<br>2<br>8|2,5<br>2,5<br>10|2<br>2,5||||||
-|||||||2<br>2,5|||||
-||||||||4<br>5|4<br>5|||
-|**Kernbereich des Schwerpunkts International**|||**32**|**40**|||||||
-|Sprachen II für Sozialökonomik<br>Europäisches und internationales Recht<br>Internationale Kommunikation<br>Angelsächsischer oder romanischer Schwerpunkt I<br>Angelsächsischer oder romanischer Schwerpunkt II<br>Europäisierung und Globalisierung I<br>Europäisierungund GlobalisierungII|||8<br>4<br>4<br>4<br>4<br>4<br>4|10<br>5<br>5<br>5<br>5<br>5<br>5|||4<br>5|4<br>5|||
-|||||||||4<br>5|||
-||||||||||4<br>5||
-||||||||||4<br>5||
-|||||||||||4<br>5|
-||||||||||4<br>5||
-|||||||||||4<br>5|
-|**Vertiefungsbereich des Schwerpunkts International**|||**18**|**35**|||||||
-|Block 1: frei wählbar aus sozialökonomischen Vertiefungen<br>Block 2: frei wählbar aus internationalen Vertiefungen<br>Seminar zur Bachelorarbeit<br>Bachelorarbeit(9 Wochen*)|||8<br>8<br>2|10<br>10<br>3<br>12||||4<br>5|4<br>5||
-||||||||||4<br>5|4<br>5|
-|||||||||||2<br>3|
-|||||||||||12|
-|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>** Entweder alle BWL- oder alle VWL- Module||SWS|116||20|18|22|24|24|14|
-|||ECTS||180|30|30|30|30|30|30|
+|**Bachelor in Sozialökonomik**|||**Assessment**|**phase**|**Bachelorpha**|**se**|||
+|---|---|---|---|---|---|---|---|---|
+|**mit Schwerpunkt International**|||**1**|**2**|**3**|**4**|**5**|**6**|
+||SWS|ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|SWS ECTS|
+|**Sozialökonomik / Grundzüge der Soziologie**|**8**|**15**|||||||
+|Soziologie I|4|7,5|4<br>7,5||||||
+|Soziologie II|4|7,5||4<br>7,5|||||
+|**Sozialökonomik / Politik, Wirtschaft und Gesellschaft**|**8**|**15**|||||||
+|Internationale und transnationale Beziehungen|4|7,5|4<br>7,5||||||
+|Regionen im internationalen System|4|7,5||4<br>7,5|||||
+|**Sozialökonomik / Angewandte Sozialpsychologie**|**2**|**2,5**|||||||
+|Grundlagen und Anwendungsfelder der Sozialpsychologie|2|2,5|2<br>2,5||||||
+|**Methodische Grundlagen der Sozialökonomik**|**16**|**32,5**|||||||
+|IT und E-Business|6|7,5|4<br>5|2<br>2,5|||||
+|Einführung in die empirische Sozialforschung I<br>Einführung in die empirische Sozialforschung II|4<br>4|7,5<br>7,5||4<br>7,5|4<br>7,5||||
+|Computergestützte Datenanalyse|2|2,5|||2<br>2,5||||
+|Statistik|6|7,5|||6<br>7,5||||
+|**Übersicht/ Welt des Unternehmens**<br>Unternehmen,Märkte,Volkswirtschaften|**4**<br>4|**5**<br>5|4<br>5||||||
+|**BWL oder alternativ**<br>**VWL****|**12**|**15**|||||||
+|BWL: Absatz                                             VWL: Makroökonomie|4|5||||4<br>5|||
+|BWL: Investition und Finanzierung            VWL: Mikroökonomie für Sozialök.|4|5||||4<br>5|||
+|<br>BWL: Produktion,Logistik,BeschaffungVWL: Wirtschaft und Staat|4|5|||||4<br>5||
+|**Recht**|**4**|**5**|||||||
+|Öffentliches Recht - Grundlagen Europarecht|2|2,5||2<br>2,5|||||
+|Öffentliches Recht - Grundlagen Staats- und Verwaltungsrecht|2|2,5|||2<br>2,5||||
+|**Schlüsselqualifikationen**|**12**|**15**|||||||
+|Planspiel Sozialökonomik|2|2,5|2<br>2,5||||||
+|<br>Präsentations- und Moderationstechniken|2|2,5||2<br>2,5|||||
+|Sprachen|8|10|||4<br>5|4<br>5|||
+|**Kernbereich des Schwerpunkts International**|**32**|**40**|||||||
+|Sprachen II für Sozialökonomik|8|10|||4<br>5|4<br>5|||
+|Europäisches und internationales Recht<br>Internationale Kommunikation|4<br>4|5<br>5||||4<br>5|4<br>5||
+|Angelsächsischer oder romanischer Schwerpunkt I<br>Angelsächsischer oder romanischer Schwerpunkt II<br>Europäisierung und Globalisierung I|4<br>4<br>4|5<br>5<br>5|||||4<br>5<br>4<br>5|4<br>5|
+|Europäisierungund GlobalisierungII|4|5||||||4<br>5|
+|**Vertiefungsbereich des Schwerpunkts International**|**18**|**35**|||||||
+|Block 1: frei wählbar aus sozialökonomischen Vertiefungen|8|10||||4<br>5|4<br>5||
+|<br>Block 2: frei wählbar aus internationalen Vertiefungen<br>Seminar zur Bachelorarbeit|8<br>2|10<br>3|||||4<br>5|4<br>5<br>2<br>3|
+|Bachelorarbeit(9 Wochen*)||12||||||12|
+|* Bei Kooperation mit Praxispartner Verlängerung auf bis zu 18 Wochen möglich<br>SWS|116||20|18|22|24|24|14|
+|** Entweder alle BWL- oder alle VWL- Module<br>ECTS||180|30|30|30|30|30|30|
 
-## **§ 2** 
+### **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

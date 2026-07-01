@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät, Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Elitestudiengang/-programm, Internationales Studienangebot"
-scraped_at: 2026-05-01T06:46:36+00:00
+scraped_at: 2026-07-01T08:23:23+00:00
 ---
 
 # Integrated Immunology (M.Sc.)
@@ -86,6 +86,8 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 ### Voraussetzungen für Master
 
 Einschlägiger Bachelor-Abschluss mit der Note 2,5 oder besser (oder gleichwertige internationale Note) in Biologie, Biochemie, Biowissenschaften oder einem ähnlichen Bachelor-Abschluss.
+
+Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht Unterzeichnerstaaten des Lissaboner-Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (Biomedizintechnik, Biowissenschaften oder Biotechnologie) (GATE-Zerti-fikat) und aus Pakistan ein GAT-Zertifikat erforderlich. Die Mindestpunktzahlen für GRE, GATE und GAT sind auf folgender Seite einsehbar: <https://www.iim-mune.nat.fau.de/application/>
 
 Zulassungstest: Die Bewerber werden zu einer mündlichen Prüfung eingeladen, um die Eignung des Bewerbers für den MSc Integrated Immunology zu testen. Die Dauer der Prüfung beträgt 20 Minuten. Die Themen dieser Prüfung sind Grundkenntnisse in Molekularbiologie, Zellbiologie und Genetik. Darüber hinaus werden Kenntnisse in einem spezifischen Thema der Immunologie, Virologie oder Mikrobiologie (nach Wahl des Bewerbers) geprüft. Die Prüfung wird von der Zulassungskommission des MSc-Programms durchgeführt. Der Prüfungstermin wird mindestens eine Woche im Voraus bekannt gegeben. Die Bewerber haben die anfallenden Kosten selbst zu tragen.
 

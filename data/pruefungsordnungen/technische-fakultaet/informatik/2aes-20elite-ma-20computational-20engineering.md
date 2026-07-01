@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. März 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AES_%20Elite-MA%20Computational%20Engineering.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:14:29+00:00
-page_count_chars: 8001
+scraped_at: 2026-07-01T11:34:22+00:00
+page_count_chars: 8013
 ---
 
 # 31. März 2016
@@ -12,13 +12,13 @@ page_count_chars: 8001
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/2AES_%20Elite-MA%20Computational%20Engineering.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Erwerb des akademischen Grades „Master of Science“ mit dem Zusatz „with honours“ des Bayerischen Graduiertenkollegs im Studium des Computational Engineering an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Erwerb des akademischen Grades „Master of Science“ mit dem Zusatz „with honours“ des Bayerischen Graduiertenkollegs im Studium des Computational Engineering an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## **Vom 31. März 2016** 
+# **Vom 31. März 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Erwerb des akademischen Grades „Master of Science“ mit dem Zusatz „with honours“ des Bayerischen Graduiertenkollegs im Studium des Computational Engineering an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 15. März 2005, zuletzt geändert durch Satzung vom 30. Juli 2013, wird wie folgt geändert: 
 
@@ -40,13 +40,13 @@ Die Fachprüfungsordnung für den Erwerb des akademischen Grades „Master of Sc
 
    - a) Die Überschrift erhält folgende neue Fassung: 
 
-## **„Akademischer Grad“** 
+# **„Akademischer Grad“** 
 
-   - b) Im Wortlaut von § 2 werden die Worte „mit dem Zusatz „with honours““ gestrichen und das Wort „Studenten“ durch das Wort „Studierende“ ersetzt. 
+- b) Im Wortlaut von § 2 werden die Worte „mit dem Zusatz „with honours““ gestrichen und das Wort „Studenten“ durch das Wort „Studierende“ ersetzt. 
 
-7. § 3 wird wie folgt geändert: 
+# 7. § 3 wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+- a) Abs. 1 wird wie folgt geändert: 
 
 aa) In Satz 1 werden nach den Worten „München tätigen“ die Worte „Professorinnen bzw.“ eingefügt. 
 
@@ -64,7 +64,7 @@ bb) In Satz 4 werden nach dem Wort „wählen“ die Worte „eine Sprecherin bz
 
 Die Absatznummerierung wird angepasst. 
 
-## 9. § 5 wird wie folgt geändert: 
+# 9. § 5 wird wie folgt geändert: 
 
 - a) In Abs. 1 werden die Worte „mit dem Zusatz „with honours““ durch die Worte „im Rahmen des Eliteprogramms“ und die Worte „Credits nach dem European Credit Transfer System (ECTS)“ durch die Worte „ECTS-Punkten“ ersetzt. 
 
@@ -98,7 +98,7 @@ a) In Abs. 2 wird nach dem Wort „Viertel“ das Wort „aus“ eingefügt.
 
 - b) Abs. 3 erhält folgende Fassung: 
 
-„(3)[1] Sind die Voraussetzungen nach § 2 erfüllt, wird der Mastergrad “Master of Science“ verliehen.[2] Über die Verleihung des akademischen Grades „Master of Science“ erhält die Absolventin bzw. der Absolvent eine Urkunde, die zusätzlich mit dem Prädikat „with honours“ versehen wird.“ 
+„(3)<sup>1</sup> Sind die Voraussetzungen nach § 2 erfüllt, wird der Mastergrad “Master of Science“ verliehen.<sup>2</sup> Über die Verleihung des akademischen Grades „Master of Science“ erhält die Absolventin bzw. der Absolvent eine Urkunde, die zusätzlich mit dem Prädikat „with honours“ versehen wird.“ 
 
 c) In Abs. 4 wird das Wort „Zusatzes“ durch das Wort „Prädikates“ ersetzt. 
 
@@ -122,17 +122,17 @@ ee) In Nr. 2.2.4 werden nach dem Wort „Studium“ die Worte „der Bewerberin 
 
 ff) In Nr. 2.3 werden vor dem Wort „Bewerber“ die Worte „Bewerberinnen und“ eingefügt. 
 
-## b) Nr. 4 wird wie folgt geändert: 
+- b) Nr. 4 wird wie folgt geändert: 
 
 aa) In Nr. 4.2 werden nach den Worten „Mit den“ die Worte „Bewerberinnen und“ eingefügt. 
 
 bb) In Nr. 4.3 werden vor dem Wort „Bewerber“ die Worte „Bewerberinnen und“ eingefügt und die Worte „nicht zugelassen werden“ durch die Worte „keinen Zugang erhalten“ sowie das Wort „Bescheid“ durch das Wort „Ablehnungsbescheid“ ersetzt. 
 
-- c) Nr. 5 wird wie folgt geändert: 
+# c) Nr. 5 wird wie folgt geändert: 
 
 aa) In Nr. 5.1 Satz 2 werden nach dem Wort „Ist“ die Worte „die Bewerberin bzw.“ und nach dem Wort „von“ die Worte „ihr bzw.“ eingefügt. 
 
-bb) Nr. 5.2 wird wie folgt geändert: 
+- bb) Nr. 5.2 wird wie folgt geändert: 
 
 aaa) In Satz 1 werden nach dem Wort „für“ die Worte „jede Bewerberin bzw.“ eingefügt. 
 
@@ -148,7 +148,7 @@ aaa) In Satz 1 werden nach dem Wort „wird“ die Worte „der Bewerberin bzw.�
 
 bbb) In Satz 3 werden nach dem Wort „Feststellungsverfahrens“ die Worte „auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen“ eingefügt. 
 
-ff)  Nr. 5.5 wird wie folgt geändert: 
+- ff)  Nr. 5.5 wird wie folgt geändert: 
 
 aaa) In Satz 1 werden nach den Worten „die Namen der“ die Worte „Bewerberinnen und“ eingefügt. 
 

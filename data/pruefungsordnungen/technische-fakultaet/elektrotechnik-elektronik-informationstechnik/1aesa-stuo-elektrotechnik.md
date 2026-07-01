@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "27. März 1992"
 pdf_source: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_StuO_Elektrotechnik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:06:08+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T11:28:09+00:00
+page_count_chars: 3348
 ---
 
 # 27. März 1992
@@ -12,67 +12,53 @@ page_count_chars: 0
 **PDF source:** <http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa_StuO_Elektrotechnik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Erste Satzung zur Anderung der Studienordnung fiir den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universitat Erlangen-Nirnberg 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+Vom 27. Marz 1992 
 
-### OCR Seite 1
+Auferund von Art. 6 und Art. 72 des Bayerischen Hochschulgesetzes erlaBt die Universitat Erlangen-Niirnberg folgende Anderungssatzung: 
 
-```
-Aufgrund von Art. 6 und Art. 72 des Bayerischen Hochschulgesetzes erläßt die Universität
-Erlangen-Nürnberg folgende Änderungssatzung:
-Die Studienordnung für den wissenschaftlichen Diplomstudiengang der Fachrichtung Elek-
-trotechnik an der Universität Erlangen-Nürnberg vom 19. Juni 1990 (KWMBI II S. 302) wird
-wie folgt geändert:
-1.
-Vor $ 1 wird eingefügt:
-"Vorbemerkung zum Sprachgebrauch
-Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in
-der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben
-die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und
-die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum
-Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen für
-;
-weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um
-die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personen-
-bezeichnungen sind stets beide Geschlechter gemeint."
-2.
-$2 erhält folgende Fassung:
-"Die Regelstudienzeit beträgt 10 Semester. Darin enthalten sind die praktische Ausbildung
-außerhalb der Hochschule (das sogenannte Industriepraktikum) und die Prüfungszeit."
-3.84 Abs. 2 wird wie folgt geändert:
-a) In Satz 3 entfallen die Worte "die Praktikantin /".
-b) In Satz 4 entfallen die Worte "die Studentin /".
-c) In Satz 5 entfällt das Wort "sie /".
-```
+Die Studienordnung fiir den wissenschaftlichen Diplomstudiengang der Fachrichtung Elektrotechnik an der Universitét Erlangen-Niirnberg vom 19. Juni 1990 (KWMBI II S. 302) wird wie folgt geandert: 
 
-### OCR Seite 2
+1. Vor § 1 wird eingefiigt: "Vorbemerkung zum Sprachgebrauch 
 
-```
-Das Vertiefungsgrundfach "Statistische Verfahren der Regelungs- und Nächrichtentechnik"
-wird durch "Systemtheorie für stochastische Prozesse in der Regelungs- und Nachrichten-
-technik I und II" ersetzt.
-7.
-$ 10 erhält folgende Fassung:
-"Die Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen richtet sich nach $ 6a
-DiplPrOTF und $ 11 Abs. 3 FPrOET."
-$2
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-2
-```
+<!-- Start of picture text -->
+.<br><!-- End of picture text -->
 
-### OCR Seite 3
+   - Die Bezeichnung weiblicher und mannlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die fir Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen fiir weibliche und mannliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Ubersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint.” 
 
-```
-Ta,
-.
-H
-( Prof. Dr. G. Jasper )
-Rektor
-Die Satzung wurde am 27. März 1992 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 27. März 1992 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 27. März 1902.
-7
-.?
-```
+2. §2 erhalt folgende Fassung: "Die Regelstudienzeit betragt 10 Semester. Darin enthalten sind die praktische Ausbildung auBerhalb der Hochschule (das sogenannte Industriepraktikum) und die Priifungszeit." 
+
+3. § 4 Abs. 2 wird wie folgt geandert: a) In Satz 3 entfallen die Worte "die Praktikantin /". b) In Satz 4 entfallen die Worte “die Studentin /". c) In Satz 5 entfallt das Wort "sie /". 
+
+4. §5 Abs. 4 erhalt folgende Fassung: "Aufgrund der bestandenen Diplompriifung wird der akademische Grad "Diplom-Ingenieur Univ." (abgekiirzt: "Dipl.-Ing. Univ.) verliehen. 
+
+   - Auf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als "DiplomIngenieurin Uni." (abgekiirzt: Dipl.-Ing. Univ.) verliehen." 
+
+5. § 6 Abs. 1 wird wie folgt geandert: In Satz 1 wird das Wort "etwa" durch das Wort "hdchstens" ersetzt. 
+
+6. § 8 Abs. 1 Nr. 1V wird wie folgt geandert: Das Vertiefungsgrundfach "Statistische Verfahren der Regelungs- und Nachrichtentechnik" wird durch "Systemtheorie fiir stochastische Prozesse in der Regelungs- und Nachrichtentechnik I und II" ersetzt. 
+
+. 
+
+7. § 10 erhalt folgende Fassung: "Die Anrechnung von Studienzeiten, Studien- und Priifungsleistungen richtet sich nach § 6a DipIPrOTF und § 11 Abs. 3 FPrOET." 
+
+§ 2 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+2 
+
+, 
+
+Ausgefertigt aufgrund des Beschlusses des Senuts der Universitat Erlangen-Ntrnberg vom 26. Februar 1992 und nach Durchfithrung des in Art. 72 Abs. 3 BayHSchG vorgesehenen Anzeigevertahrens des Bayerischen Staatsministeriums ftir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 12. Miirz 1992 Nr. X/4-0/37 286. 
+
+Erlangen, den 27. Marz 1992 
+
+<!-- Start of picture text -->
+aS<br>( Prof.. Dr. G. Jasperi )<br>Rektor<br><!-- End of picture text -->
+
+Die Satzung wurde am 27. Miirz 1992 in der Universitit Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 27. Marz 1992 durch Anschlag in der Universitat Erlangen-Nirnberg bekanntgegeben. Tag der Bekanntmachungy ist der 27. Marz 1992, 
+
+4 a 
 

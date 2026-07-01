@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot"
-scraped_at: 2026-05-01T06:50:05+00:00
+scraped_at: 2026-07-01T08:27:01+00:00
 ---
 
 # Physical Geography: Climate and Environmental Sciences (M.Sc.)

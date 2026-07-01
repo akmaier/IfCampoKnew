@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Mai 2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AeSa-StO-Inf.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:27+00:00
-page_count_chars: 1152
+scraped_at: 2026-07-01T11:39:22+00:00
+page_count_chars: 1151
 ---
 
 # 7. Mai 2008
@@ -12,7 +12,7 @@ page_count_chars: 1152
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AeSa-StO-Inf.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Fünfte Satzung zur Änderung der Studienordnung für den Diplomstudiengang Informatik der Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Studienordnung für den Diplomstudiengang Informatik der Universität Erlangen-Nürnberg** 
 
 Vom 7. Mai 2008 
 

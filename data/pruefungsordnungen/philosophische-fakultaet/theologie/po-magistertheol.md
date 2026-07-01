@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 13.02.1984 i.d.F. 18.03.2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/PO_MagisterTheol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:41:38+00:00
-page_count_chars: 33876
+scraped_at: 2026-07-01T09:51:35+00:00
+page_count_chars: 34872
 ---
 
 # PDF vom 13.02.1984 i.d.F. 18.03.2004
@@ -40,7 +40,7 @@ Aufgrund der bestandenen Magisterprüfung verleiht die Theologische Fakultät f�
 
 ## **Studiendauer und Studienumfang** 
 
-1Die Regelstudienzeit beträgt einschließlich der Zeit für die Magisterprüfung neun Semester.[2] Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen beträgt 168 SWS. 
+1Die Regelstudienzeit beträgt einschließlich der Zeit für die Magisterprüfung neun Semester.<sup>2</sup> Der Höchstumfang der zum planmäßigen Studium erforderlichen Lehrveranstaltungen beträgt 168 SWS. 
 
 1 
 
@@ -50,33 +50,31 @@ Aufgrund der bestandenen Magisterprüfung verleiht die Theologische Fakultät f�
 
 (2) Meldet sich ein Bewerber aus von ihm zu vertretenden Gründen nicht so rechtzeitig ordnungsgemäß zur Magisterprüfung, dass er diese bis zum Beginn der Lehrveranstaltungen des 14. Semesters abgelegt hat, oder legt er die Magisterprüfung, zu der er sich gemeldet hat, nicht bis zum Beginn der Lehrveranstaltungen des 14. Semesters ab, gilt die Magisterprüfung als erstmals abgelegt und nicht bestanden. 
 
-(3)[1] Überschreitet der Bewerber die Frist nach Absatz 2 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.[2] Die Frist verlängert sich um 
+(3)<sup>1</sup> Überschreitet der Bewerber die Frist nach Absatz 2 aus von ihm nicht zu vertretenden Gründen, gewährt der Prüfungsausschuss auf Antrag eine Nachfrist.<sup>2</sup> Die Frist verlängert sich um 
 
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und 
-
-2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung. 
+1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und 2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung. 
 
 ## **§ 5** 
 
 ## **Prüfungsausschuss** 
 
-(1)[1] Für die Organisation und Durchführung der Magisterprüfung an der Theologischen Fakultät der Universität Erlangen-Nürnberg wird ein Prüfungsausschuss eingesetzt.[2] Der Prüfungsausschuss besteht aus dem Dekan als Vorsitzendem, seinem Stellvertreter sowie weiteren fünf gewählten Mitgliedern, von denen drei Professoren sein müssen. 
+(1)<sup>1</sup> Für die Organisation und Durchführung der Magisterprüfung an der Theologischen Fakultät der Universität Erlangen-Nürnberg wird ein Prüfungsausschuss eingesetzt.<sup>2</sup> Der Prüfungsausschuss besteht aus dem Dekan als Vorsitzendem, seinem Stellvertreter sowie weiteren fünf gewählten Mitgliedern, von denen drei Professoren sein müssen. 
 
-(2)[1] Die weiteren Mitglieder des Prüfungsausschusses und der Schriftführer werden nach Vorschlag der Versammlung aller Prüfer vom Fachbereichsrat gewählt.[2] Zu Mitgliedern des Prüfungsausschusses können nur die der Theologischen Fakultät angehörenden Hochschullehrer, _die der Theologischen Fakultät als Zweitmitglieder angehörenden Hochschullehrer der Erziehungswissenschaftlichen Fakultät_ *) und die das Fach Evangelische Theologie vertretenden Hochschullehrer der Universitäten Bamberg, Bayreuth und Würzburg gewählt werden. 
+(2)<sup>1</sup> Die weiteren Mitglieder des Prüfungsausschusses und der Schriftführer werden nach Vorschlag der Versammlung aller Prüfer vom Fachbereichsrat gewählt.<sup>2</sup> Zu Mitgliedern des Prüfungsausschusses können nur die der Theologischen Fakultät angehörenden Hochschullehrer, _die der Theologischen Fakultät als Zweitmitglieder angehörenden Hochschullehrer der Erziehungswissenschaftlichen Fakultät_ *) und die das Fach Evangelische Theologie vertretenden Hochschullehrer der Universitäten Bamberg, Bayreuth und Würzburg gewählt werden. 
 
-(3)[1] Die Amtszeit der Mitglieder beträgt zwei Jahre.[2] Eine Wiederbestellung ist möglich. 
+(3)<sup>1</sup> Die Amtszeit der Mitglieder beträgt zwei Jahre.<sup>2</sup> Eine Wiederbestellung ist möglich. 
 
-(4)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.[3] Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studienund Prüfungsordnung. 
+(4)<sup>1</sup> Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.<sup>2</sup> Der Prüfungsausschuss achtet darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden.<sup>3</sup> Er berichtet regelmäßig dem Fachbereichsrat über die Entwicklung der Prüfungen und Studienzeiten und gibt ihm gegebenenfalls Anregungen zur Änderung der Studienund Prüfungsordnung. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit 
+(5)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit 
 
 2 
 
-gibt die Stimme des Dekans den Ausschlag.[5] Der Schriftführer nimmt an den Sitzungen des Prüfungsausschusses teil; er hat kein Stimmrecht. 
+gibt die Stimme des Dekans den Ausschlag.<sup>5</sup> Der Schriftführer nimmt an den Sitzungen des Prüfungsausschusses teil; er hat kein Stimmrecht. 
 
-(6)[1] Der Dekan beruft die Sitzungen des Prüfungsausschusses ein.[2] Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Dekan die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
+(6)<sup>1</sup> Der Dekan beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon hat er dem Prüfungsausschuss unverzüglich Kenntnis zu geben. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss dem Dekan die Erledigung von einzelnen Aufgaben widerruflich übertragen. 
 
-(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.[2] Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 
+(7)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Dem Kandidaten ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben. 
 
 *) _gegenstandslos nach Aufhebung von Art. 132 BayHSchG_ 
 
@@ -84,13 +82,13 @@ gibt die Stimme des Dekans den Ausschlag.[5] Der Schriftführer nimmt an den Sit
 
 ## **Prüfungskommission** 
 
-(1)[1] Der Prüfungsausschuss bestellt für jede anstehende Magisterprüfung eine Prüfungskommission und benennt Ersatzleute.[2] Der Prüfungsausschuss bestimmt den Vorsitzenden der Prüfungskommission. 
+(1)<sup>1</sup> Der Prüfungsausschuss bestellt für jede anstehende Magisterprüfung eine Prüfungskommission und benennt Ersatzleute.<sup>2</sup> Der Prüfungsausschuss bestimmt den Vorsitzenden der Prüfungskommission. 
 
-(2)[1] Die Prüfungskommission besteht aus fünf Fachprüfern, und zwar je einem Vertreter für die fünf Fächer: Altes Testament, Neues Testament, Historische Theologie, Systematische Theologie, Praktische Theologie und dem Dekan.[2] Unter diesen muss sich der Prüfer befinden, der zum ersten Gutachter bestimmt worden ist.[3] Ist das Thema der Magisterschrift einem der in der Fakultät vertretenen Spezialfächer (Bayerische Kirchengeschichte, Christliche Archäologie und Christliche Kunst, Christliche Publizistik, Christliche Sozialethik, Geschichte und Theologie des Christlichen Ostens, Kirchenmusik [Grundlagen und Geschichte], Religions- und Missionswissenschaft) entnommen, so ist zusätzlich ein Vertreter dieses Faches für die Prüfungskommission zu bestellen. 
+(2)<sup>1</sup> Die Prüfungskommission besteht aus fünf Fachprüfern, und zwar je einem Vertreter für die fünf Fächer: Altes Testament, Neues Testament, Historische Theologie, Systematische Theologie, Praktische Theologie und dem Dekan.<sup>2</sup> Unter diesen muss sich der Prüfer befinden, der zum ersten Gutachter bestimmt worden ist.<sup>3</sup> Ist das Thema der Magisterschrift einem der in der Fakultät vertretenen Spezialfächer (Bayerische Kirchengeschichte, Christliche Archäologie und Christliche Kunst, Christliche Publizistik, Christliche Sozialethik, Geschichte und Theologie des Christlichen Ostens, Kirchenmusik [Grundlagen und Geschichte], Religions- und Missionswissenschaft) entnommen, so ist zusätzlich ein Vertreter dieses Faches für die Prüfungskommission zu bestellen. 
 
-(3)[1] Zu Gutachtern und Prüfern können alle Hochschullehrer sowie die Professoren im Ruhestand bestellt werden, die der Theologischen Fakultät als Mitglied oder Zweitmitglied angehören oder gemäß Art. 80 Abs. 7 BayHSchG an Hochschulprüfungen mitwirken dürfen.[2] Mit Zustimmung des Prüfungsausschusses können auch andere fachlich zuständige Hochschullehrer und Professoren im Ruhestand zu Gutachtern und Prüfern bestellt werden. 
+(3)<sup>1</sup> Zu Gutachtern und Prüfern können alle Hochschullehrer sowie die Professoren im Ruhestand bestellt werden, die der Theologischen Fakultät als Mitglied oder Zweitmitglied angehören oder gemäß Art. 80 Abs. 7 BayHSchG an Hochschulprüfungen mitwirken dürfen.<sup>2</sup> Mit Zustimmung des Prüfungsausschusses können auch andere fachlich zuständige Hochschullehrer und Professoren im Ruhestand zu Gutachtern und Prüfern bestellt werden. 
 
-(4)[1] Die Bestellung der Prüfungskommission soll in geeigneter Form bekannt gegeben werden.[2] Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel von Prüfern ist zulässig.[3] Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+(4)<sup>1</sup> Die Bestellung der Prüfungskommission soll in geeigneter Form bekannt gegeben werden.<sup>2</sup> Ein kurzfristig vor Beginn der Prüfung aus zwingenden Gründen notwendig werdender Wechsel von Prüfern ist zulässig.<sup>3</sup> Scheidet ein prüfungsberechtigtes Hochschulmitglied aus der Hochschule aus, bleibt dessen Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten. 
 
 (5) Der Vorsitzende der Prüfungskommission trägt dafür Sorge, dass alle Entscheidungen der Prüfungskommission in einem Protokoll verzeichnet werden. 
 
@@ -118,7 +116,7 @@ gibt die Stimme des Dekans den Ausschlag.[5] Der Schriftführer nimmt an den Sit
 
 ## **Bewerbung um Zulassung** 
 
-1Der Kandidat hat schriftlich beim Dekan den Antrag auf Zulassung zur Magisterprüfung einzureichen.[2] Dem Antrag sind die in § 10 Abs. 1 und 2 genannten Nachweise und Unterlagen beizufügen. 
+1Der Kandidat hat schriftlich beim Dekan den Antrag auf Zulassung zur Magisterprüfung einzureichen.<sup>2</sup> Dem Antrag sind die in § 10 Abs. 1 und 2 genannten Nachweise und Unterlagen beizufügen. 
 
 ## **§ 10** 
 
@@ -174,7 +172,7 @@ evangelischer Theologie endgültig nicht bestanden hat oder
 
 e) der Bewerber aufgrund der gesetzlichen Bestimmungen zur Führung akademischer Grade nicht berechtigt wäre. 
 
-(5)[1] Soweit die erforderlichen Unterlagen in der vorgeschriebenen Weise erbracht worden sind, ist dem Bewerber die Entscheidung über die Zulassung unverzüglich, spätestens jedoch vier Wochen nach seiner Bewerbung schriftlich mitzuteilen.[2] Muss zur Zulassung eine Entscheidung des Prüfungsausschusses herbeigeführt werden (vgl. Absatz 3), ist die genannte Frist nicht bindend; über den Antrag ist ehestmöglich zu entscheiden. 
+(5)<sup>1</sup> Soweit die erforderlichen Unterlagen in der vorgeschriebenen Weise erbracht worden sind, ist dem Bewerber die Entscheidung über die Zulassung unverzüglich, spätestens jedoch vier Wochen nach seiner Bewerbung schriftlich mitzuteilen.<sup>2</sup> Muss zur Zulassung eine Entscheidung des Prüfungsausschusses herbeigeführt werden (vgl. Absatz 3), ist die genannte Frist nicht bindend; über den Antrag ist ehestmöglich zu entscheiden. 
 
 (6) Studiengänge mit Abschluss durch das erste theologische Examen einer Landeskirche oder mit Abschluss durch das theologische Abschlussexamen der FriedrichAlexander-Universität Erlangen-Nürnberg oder eine gleichwertige Prüfung sind im Sinne von Art. 61 Satz 1 Nr. 4 BayHSchG verwandte, im grundlegenden fachwissenschaftlichen Studium der evangelischen Theologie (Grundstudium) gleiche Studiengänge. 
 
@@ -182,13 +180,13 @@ e) der Bewerber aufgrund der gesetzlichen Bestimmungen zur Führung akademischer
 
 ## **§ 11** 
 
-**Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen** (1)[1] Studienzeiten, Studienleistungen und Prüfungsleistungen in demselben Studiengang an einer Universität oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt. 2Dasselbe gilt für Zwischenprüfungen. 
+**Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen** (1)<sup>1</sup> Studienzeiten, Studienleistungen und Prüfungsleistungen in demselben Studiengang an einer Universität oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprüfung anerkannt. 2Dasselbe gilt für Zwischenprüfungen. 
 
-(2)[1] Studienzeiten, Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.[2] Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und in den Anforderungen denjenigen des entsprechenden Studiums an der aufnehmenden Hochschule im wesentlichen entsprechen.[3] Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.[4] Bei der Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereiches des Hochschulrahmengesetzes erbracht wurden, sind die von Kultusministerkonferenz und Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften zu beachten. 
+(2)<sup>1</sup> Studienzeiten, Studienleistungen und Prüfungsleistungen in anderen Studiengängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist.<sup>2</sup> Gleichwertigkeit ist festzustellen, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Umfang und in den Anforderungen denjenigen des entsprechenden Studiums an der aufnehmenden Hochschule im wesentlichen entsprechen.<sup>3</sup> Dabei ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen.<sup>4</sup> Bei der Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die außerhalb des Geltungsbereiches des Hochschulrahmengesetzes erbracht wurden, sind die von Kultusministerkonferenz und Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften zu beachten. 
 
 (3) Für Studienzeiten, Studienleistungen und Prüfungsleistungen in staatlich anerkannten Fernstudien gelten die Absätze 1 und 2 entsprechend. 
 
-(4)[1] Bei Vorliegen der Voraussetzungen der Absätze 1 bis 3 besteht ein Rechtsanspruch auf Anerkennung.[2] Die Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die im Geltungsbereich des Hochschulrahmengesetzes erbracht wurden, erfolgt von Amts wegen.[3] Der Student hat die für die Anrechnung erforderlichen Unterlagen vorzulegen. 
+(4)<sup>1</sup> Bei Vorliegen der Voraussetzungen der Absätze 1 bis 3 besteht ein Rechtsanspruch auf Anerkennung.<sup>2</sup> Die Anerkennung von Studienzeiten, Studienleistungen und Prüfungsleistungen, die im Geltungsbereich des Hochschulrahmengesetzes erbracht wurden, erfolgt von Amts wegen.<sup>3</sup> Der Student hat die für die Anrechnung erforderlichen Unterlagen vorzulegen. 
 
 ## **§ 12 Gliederung der Magisterprüfung** 
 
@@ -216,19 +214,19 @@ Die Magisterprüfung wird in einem Abschnitt durchgeführt.
 
 2. für die Klausur in Historischer Theologie wird mindestens ein Thema aus jeder der fünf klassischen Epochen der Kirchengeschichte zur Wahl gestellt; die mündliche Prüfung beschränkt sich auf ein nicht zu eng gefasstes Schwerpunktgebiet und seine Einordnung in die Kirchengeschichte. 
 
-(4)[1] Hat der Kandidat bereits einen berufsqualifizierenden Abschluss des Studiums der Theologie mit mindestens befriedigendem Gesamtergebnis (3,50) erworben, und liegt dieser Abschluss des Studiums bei der Meldung zur Magisterprüfung nicht mehr als 10 Jahre zurück, so werden dem Kandidaten auf Antrag acht Semester seines Theologiestudiums angerechnet, sofern Gleichwertigkeit gemäß § 11 besteht. 2Gleichzeitig werden in diesem Fall die Klausuren sowie zwei der fünf mündlichen Prüfungen gemäß § 16 Abs. 2 erlassen. 
+(4)<sup>1</sup> Hat der Kandidat bereits einen berufsqualifizierenden Abschluss des Studiums der Theologie mit mindestens befriedigendem Gesamtergebnis (3,50) erworben, und liegt dieser Abschluss des Studiums bei der Meldung zur Magisterprüfung nicht mehr als 10 Jahre zurück, so werden dem Kandidaten auf Antrag acht Semester seines Theologiestudiums angerechnet, sofern Gleichwertigkeit gemäß § 11 besteht. 2Gleichzeitig werden in diesem Fall die Klausuren sowie zwei der fünf mündlichen Prüfungen gemäß § 16 Abs. 2 erlassen. 
 
 ## **§ 14 Magisterschrift** 
 
-(1)[1] Die Magisterschrift soll die Fähigkeit des Kandidaten zur selbständigen wissenschaftlichen Arbeit und zur theologischen Urteilsbildung erweisen.[2] Sie unterscheidet sich von einer Dissertation dadurch, dass sie ein engeres Gebiet behandelt und dass ein Beitrag zur Forschung in ihr nicht geleistet werden muss. 
+(1)<sup>1</sup> Die Magisterschrift soll die Fähigkeit des Kandidaten zur selbständigen wissenschaftlichen Arbeit und zur theologischen Urteilsbildung erweisen.<sup>2</sup> Sie unterscheidet sich von einer Dissertation dadurch, dass sie ein engeres Gebiet behandelt und dass ein Beitrag zur Forschung in ihr nicht geleistet werden muss. 
 
 (2) Das Thema wird nach Vorschlägen des Bewerbers von einem nach § 6 Abs. 3 Satz 1 Prüfungsberechtigten festgelegt. 
 
 (3) Die Magisterschrift muss spätestens ein halbes Jahr nach der Zulassung zur Prüfung vorgelegt werden. 
 
-(4)[1] In besonders begründeten Ausnahmefällen kann der Prüfungsausschuss auf Antrag des Bewerbers die Bearbeitungsfrist um höchstens zwei Monate verlängern. 2Eine nicht rechtzeitig eingereichte Arbeit wird mit "nicht ausreichend" bewertet. 
+(4)<sup>1</sup> In besonders begründeten Ausnahmefällen kann der Prüfungsausschuss auf Antrag des Bewerbers die Bearbeitungsfrist um höchstens zwei Monate verlängern. 2Eine nicht rechtzeitig eingereichte Arbeit wird mit "nicht ausreichend" bewertet. 
 
-(5)[1] Die Magisterschrift ist in deutscher Sprache abzufassen.[2] In begründeten Ausnahmefällen kann der Prüfungsausschuss die Abfassung in englischer oder französischer Sprache zulassen. 
+(5)<sup>1</sup> Die Magisterschrift ist in deutscher Sprache abzufassen.<sup>2</sup> In begründeten Ausnahmefällen kann der Prüfungsausschuss die Abfassung in englischer oder französischer Sprache zulassen. 
 
 (6) Sie ist in drei maschinengeschriebenen, gebundenen, paginierten Exemplaren einzureichen. 
 
@@ -236,7 +234,7 @@ Die Magisterprüfung wird in einem Abschnitt durchgeführt.
 
 b) dass er sie selbständig ohne fremde Hilfe verfasst, andere als die von ihm angegebenen Quellen und Hilfsmittel nicht benutzt und die den benutzten Werken wörtlich oder inhaltlich entnommenen Stellen einzeln nach dem Fundort gekennzeichnet hat. 
 
-(8)[1] Der Dekan als Vorsitzender des Prüfungsausschusses bestimmt zwei gemäß § 6 Abs. 3 Prüfungsberechtigte zum ersten beziehungsweise zum zweiten Gutachter. 2Diese erarbeiten in der Regel innerhalb von acht Wochen von einander getrennt je ein Gutachten und einen Benotungsvorschlag für die Magisterschrift.[3] Der erste Gutachter soll der Prüfer sein, der das Thema festgelegt hat. 
+(8)<sup>1</sup> Der Dekan als Vorsitzender des Prüfungsausschusses bestimmt zwei gemäß § 6 Abs. 3 Prüfungsberechtigte zum ersten beziehungsweise zum zweiten Gutachter. 2Diese erarbeiten in der Regel innerhalb von acht Wochen von einander getrennt je ein Gutachten und einen Benotungsvorschlag für die Magisterschrift.<sup>3</sup> Der erste Gutachter soll der Prüfer sein, der das Thema festgelegt hat. 
 
 7 
 
@@ -250,29 +248,29 @@ b) dass er sie selbständig ohne fremde Hilfe verfasst, andere als die von ihm a
 
 (1) In den Klausuren wird besonders das Grundwissen des Kandidaten in dem jeweiligen Fach geprüft. 
 
-(2)[1] Eine Klausur in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, entfällt.[2] Über die Zuordnung entscheidet der Prüfungsausschuss.[3] Die Entscheidung ist dem Kandidaten mit der Zulassung zur Prüfung (§ 10 Abs. 5) mitzuteilen. 
+(2)<sup>1</sup> Eine Klausur in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, entfällt.<sup>2</sup> Über die Zuordnung entscheidet der Prüfungsausschuss.<sup>3</sup> Die Entscheidung ist dem Kandidaten mit der Zulassung zur Prüfung (§ 10 Abs. 5) mitzuteilen. 
 
-(3)[1] Für jede Klausur steht ein Zeitraum von vier Stunden zur Verfügung. 2Elementare Hilfsmittel werden zur Verfügung gestellt. 3Die zulässigen Hilfsmittel werden rechtzeitig durch Aushang bekannt gegeben. 
+(3)<sup>1</sup> Für jede Klausur steht ein Zeitraum von vier Stunden zur Verfügung. 2Elementare Hilfsmittel werden zur Verfügung gestellt. 3Die zulässigen Hilfsmittel werden rechtzeitig durch Aushang bekannt gegeben. 
 
 (4) Es findet jeweils nur eine Klausur an einem Tag statt. 
 
-(5)[1] Jede der Klausuren wird von zwei Prüfern bewertet, in der Regel von dem jeweiligen Fachvertreter in der Prüfungskommission und einem weiteren, vom Prüfungsausschuss zu bestimmenden Prüfer.[2] Bei unterschiedlicher Beurteilung wird die Note durch Errechnung des arithmetischen Mittels festgelegt. 
+(5)<sup>1</sup> Jede der Klausuren wird von zwei Prüfern bewertet, in der Regel von dem jeweiligen Fachvertreter in der Prüfungskommission und einem weiteren, vom Prüfungsausschuss zu bestimmenden Prüfer.<sup>2</sup> Bei unterschiedlicher Beurteilung wird die Note durch Errechnung des arithmetischen Mittels festgelegt. 
 
 ## **§ 16 Mündliche Prüfungen** 
 
 (1) In den mündlichen Prüfungen sollen unter Berücksichtigung von Spezialstudiengebieten, die der Kandidat in den Zusammenhang des Faches einzuordnen weiß, methodisches Können, Urteilsfähigkeit und kritisches Verständnis des Kandidaten festgestellt werden. 
 
-(2)[1] Die mündlichen Prüfungen erfolgen in allen fünf Prüfungsfächern (vgl. § 13 Abs.1).[2] Kandidaten gemäß § 13 Abs. 4 werden nur in drei Fächern mündlich geprüft. 3Dabei müssen stets Neues Testament oder Systematische Theologie sowie das Fach, dem die Magisterschrift zugeordnet ist, geprüft werden. 
+(2)<sup>1</sup> Die mündlichen Prüfungen erfolgen in allen fünf Prüfungsfächern (vgl. § 13 Abs.1).<sup>2</sup> Kandidaten gemäß § 13 Abs. 4 werden nur in drei Fächern mündlich geprüft. 3Dabei müssen stets Neues Testament oder Systematische Theologie sowie das Fach, dem die Magisterschrift zugeordnet ist, geprüft werden. 
 
-(3)[1] Die mündliche Prüfung dauert in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, etwa 30 Minuten.[2] Ist das Thema der Magisterschrift einem Spezialfach (§ 6 Abs. 2) entnommen, so wird diese Prüfungszeit zweigeteilt: Etwa 15 Minuten prüft der zuständige Vertreter des Spezialfaches, weitere 15 Minuten der Vertreter des Faches, dem die Magisterschrift zugeordnet ist. 
+(3)<sup>1</sup> Die mündliche Prüfung dauert in dem Fach, dem das Thema der Magisterschrift zuzuordnen ist, etwa 30 Minuten.<sup>2</sup> Ist das Thema der Magisterschrift einem Spezialfach (§ 6 Abs. 2) entnommen, so wird diese Prüfungszeit zweigeteilt: Etwa 15 Minuten prüft der zuständige Vertreter des Spezialfaches, weitere 15 Minuten der Vertreter des Faches, dem die Magisterschrift zugeordnet ist. 
 
 (4) In den übrigen Fächern dauert die Prüfung je etwa 20 Minuten. 
 
-(5)[1] Die mündlichen Prüfungen erfolgen als Einzelprüfungen vor dem jeweiligen Fachprüfer beziehungsweise den beiden Prüfern gemäß Absatz 3.[2] Ein weiteres Mitglied der Prüfungskommission führt Protokoll.[3] Die Prüfungen finden unter Aufsicht des Dekans als Vorsitzendem des Prüfungsausschusses statt. 
+(5)<sup>1</sup> Die mündlichen Prüfungen erfolgen als Einzelprüfungen vor dem jeweiligen Fachprüfer beziehungsweise den beiden Prüfern gemäß Absatz 3.<sup>2</sup> Ein weiteres Mitglied der Prüfungskommission führt Protokoll.<sup>3</sup> Die Prüfungen finden unter Aufsicht des Dekans als Vorsitzendem des Prüfungsausschusses statt. 
 
 8 
 
-(6)[1] Das über jede mündliche Prüfung anzufertigende Protokoll muss enthalten: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnisse der Prüfung, die Namen des Prüfers beziehungsweise der Prüfer und des Kandidaten sowie besondere Vorkommnisse.[2] Das Protokoll wird vom Prüfer beziehungsweise von den Prüfern und dem Protokollanten unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+(6)<sup>1</sup> Das über jede mündliche Prüfung anzufertigende Protokoll muss enthalten: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstände und Ergebnisse der Prüfung, die Namen des Prüfers beziehungsweise der Prüfer und des Kandidaten sowie besondere Vorkommnisse.<sup>2</sup> Das Protokoll wird vom Prüfer beziehungsweise von den Prüfern und dem Protokollanten unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
 
 (7) Das Ergebnis jeder mündlichen Prüfung wird vom Fachprüfer beziehungsweise gemeinsam von den beiden Prüfern (vgl. Absätze 3 und 5) gemäß § 17 Abs. 2 bewertet. 
 
@@ -282,33 +280,33 @@ b) dass er sie selbständig ohne fremde Hilfe verfasst, andere als die von ihm a
 
 (10) Die Beratung und die Bekanntgabe des Prüfungsergebnisses erfolgt unter Ausschluss der Öffentlichkeit. 
 
-## **§ 17 Bewertung von Prüfungsleistungen, Bildung der Fachnote und der Prüfungsgesamtnote, Bestehen und Nichtbestehen der Prüfung** (1) Der Prüfungsbewertung dürfen nur individuelle Leistungen des Kandidaten zugrunde gelegt werden. 
+## **§ 17 Bewertung von Prüfungsleistungen, Bildung der Fachnote und der Prüfungsgesamtnote, Bestehen und Nichtbestehen der Prüfung** 
 
-(2)[1] Die Urteile über die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern durch folgende Noten und Prädikate ausgedrückt: 
+(1) Der Prüfungsbewertung dürfen nur individuelle Leistungen des Kandidaten zugrunde gelegt werden. 
 
-1 = sehr gut = eine hervorragende Leistung; 
+(2)<sup>1</sup> Die Urteile über die einzelnen Prüfungsleistungen werden von den jeweiligen Prüfern durch folgende Noten und Prädikate ausgedrückt: 
 
-= eine Leistung, die erheblich über den durchschnittlichen Anforde2 = gut rungen liegt; 3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht, = eine Leistung, die trotz ihrer Mängel noch den Anforderungen 4 = ausreichend genügt; 
+1 = sehr gut = eine hervorragende Leistung; = eine Leistung, die erheblich über den durchschnittlichen Anforde2 = gut rungen liegt; 
 
-5 = nicht ausreichend[= eine Leistung, die wegen erheblicher Mängel den Anforderungen ] nicht mehr genügt. 
+3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht, = eine Leistung, die trotz ihrer Mängel noch den Anforderungen 4 = ausreichend genügt; 5 = nicht ausreichend<sup>= eine Leistung, die wegen erheblicher Mängel den Anforderungen</sup> nicht mehr genügt. 
 
-2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise erhöht werden.[3] Die Noten 0,7 und 5,3 sind ausgeschlossen. 
+2Zur differenzierten Bewertung der Leistungen können die Notenziffern um 0,3 erniedrigt beziehungsweise erhöht werden.<sup>3</sup> Die Noten 0,7 und 5,3 sind ausgeschlossen. 
 
-(3)[1] In allen Prüfungsfächern werden Fachnoten aus dem Durchschnitt der gemäß Satz 2 gewichteten Prüfungsleistungen gebildet.[2] Dabei zählen die Noten der Klausuren doppelt und die der mündlichen Prüfungen einfach.[3] In dem Fach, dem die Magisterschrift zuzuordnen ist, und in den Fällen, in denen nur eine mündliche Prüfung abgelegt wurde, gelten die Ergebnisse der mündlichen Prüfung als Fachnoten. 
+(3)<sup>1</sup> In allen Prüfungsfächern werden Fachnoten aus dem Durchschnitt der gemäß Satz 2 gewichteten Prüfungsleistungen gebildet.<sup>2</sup> Dabei zählen die Noten der Klausuren doppelt und die der mündlichen Prüfungen einfach.<sup>3</sup> In dem Fach, dem die Magisterschrift zuzuordnen ist, und in den Fällen, in denen nur eine mündliche Prüfung abgelegt wurde, gelten die Ergebnisse der mündlichen Prüfung als Fachnoten. 
 
 9 
 
 (4) Die Fachnote lautet: Bei einem Durchschnitt bis 1,50 = sehr gut bei einem Durchschnitt über 1,50 bis 2,50 = gut bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend bei einem Durchschnitt über 4,00 = nicht ausreichend. 
 
-(5)[1] Die Prüfungsgesamtnote wird wie folgt errechnet: 
+(5)<sup>1</sup> Die Prüfungsgesamtnote wird wie folgt errechnet: 
 
-Bei einer Prüfung nach § 13 Abs. 4 zählt die Note der Magisterschrift mit dem gleichen Gewicht wie die übrigen Prüfungsleistungen zusammen.[2] Bei einer Prüfung nach § 13 Abs. 2 zählen die Magisterschrift achtfach, die Klausuren zweifach, die mündliche Prüfung im Fach der Magisterschrift zweifach und die übrigen mündlichen Prüfungen einfach. 
+Bei einer Prüfung nach § 13 Abs. 4 zählt die Note der Magisterschrift mit dem gleichen Gewicht wie die übrigen Prüfungsleistungen zusammen.<sup>2</sup> Bei einer Prüfung nach § 13 Abs. 2 zählen die Magisterschrift achtfach, die Klausuren zweifach, die mündliche Prüfung im Fach der Magisterschrift zweifach und die übrigen mündlichen Prüfungen einfach. 
 
 3Die Gesamtnote einer bestandenen Prüfung lautet: Bei einem Durchschnitt bis 1,50 = sehr gut bei einem Durchschnitt über 1,50 bis 2,50 = gut bei einem Durchschnitt über 2,50 bis 3,50 = befriedigend bei einem Durchschnitt über 3,50 bis 4,00 = ausreichend. 
 
 (6) Die Prüfung ist bestanden, wenn sämtliche Fachnoten mindestens ausreichend (bis 4,00) sind. 
 
-(7)[1] Ist die Fachnote eines Faches schlechter als ausreichend (4,00), so ist ein Ausgleich nur bei guten Leistungen (2,50 oder besser) in mindestens einem anderen Fach möglich.[2] Andernfalls gilt § 20 Abs. 1. 
+(7)<sup>1</sup> Ist die Fachnote eines Faches schlechter als ausreichend (4,00), so ist ein Ausgleich nur bei guten Leistungen (2,50 oder besser) in mindestens einem anderen Fach möglich.<sup>2</sup> Andernfalls gilt § 20 Abs. 1. 
 
 (8) Ist die Fachnote in zwei oder mehr Fächern schlechter als ausreichend (4,00), so ist ein Ausgleich nicht möglich. 
 
@@ -318,17 +316,17 @@ Bei einer Prüfung nach § 13 Abs. 4 zählt die Note der Magisterschrift mit dem
 
 (1) Eine Prüfungsleistung gilt als "nicht ausreichend" bewertet, wenn der Kandidat zu einem Prüfungstermin ohne triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige Gründe zurücktritt. 
 
-(2)[1] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Dekan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. 2Dieser kann bei Krankheit die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
+(2)<sup>1</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Dekan unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. 2Dieser kann bei Krankheit die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so setzt er einen neuen Prüfungstermin fest. 
 
-(3)[1] Bei anerkanntem Rücktritt oder Versäumnis werden die bereits vorliegenden Prüfungsergebnisse angerechnet.[2] Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
+(3)<sup>1</sup> Bei anerkanntem Rücktritt oder Versäumnis werden die bereits vorliegenden Prüfungsergebnisse angerechnet.<sup>2</sup> Der Prüfungsausschuss soll bestimmen, dass die versäumten Prüfungsleistungen - sofern die anerkannten Gründe dem nicht entgegenstehen - im unmittelbaren Anschluss an den Prüfungstermin nachgeholt werden. 
 
-(4)[1] Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet.[2] Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Auf- 
+(4)<sup>1</sup> Versucht der Kandidat das Ergebnis seiner Prüfungsleistung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet.<sup>2</sup> Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder Auf- 
 
 10 
 
 sichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend" bewertet. 
 
-(5)[1] Die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Prüfung ausgeschlossen wird, trifft der Prüfungsausschuss.[2] Bei Ausschluss von der weiteren Teilnahme gilt die Prüfung als nicht bestanden. 
+(5)<sup>1</sup> Die Entscheidung, ob der Kandidat von der weiteren Teilnahme an der Prüfung ausgeschlossen wird, trifft der Prüfungsausschuss.<sup>2</sup> Bei Ausschluss von der weiteren Teilnahme gilt die Prüfung als nicht bestanden. 
 
 (6) § 5 Abs. 7 ist zu beachten. 
 
@@ -350,9 +348,9 @@ sichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden
 
 (2) Gilt die Prüfung gemäß § 4 Abs. 2 als nicht bestanden, ist sie insgesamt zu wiederholen. 
 
-(3)[1] Wurde die gesamte Prüfung nicht bestanden, so muss sie spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens wiederholt werden.[2] Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.[3] § 4 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.[4] Bei Versäumnis der Frist gilt die Prüfung als endgültig nicht bestanden, sofern nicht dem Kandidaten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
+(3)<sup>1</sup> Wurde die gesamte Prüfung nicht bestanden, so muss sie spätestens innerhalb von sechs Monaten nach Ablauf des Prüfungsverfahrens wiederholt werden.<sup>2</sup> Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen.<sup>3</sup> § 4 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.<sup>4</sup> Bei Versäumnis der Frist gilt die Prüfung als endgültig nicht bestanden, sofern nicht dem Kandidaten vom Prüfungsausschuss wegen besonderer von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird. 
 
-(4)[1] Eine zweite Wiederholung desselben Prüfungsfaches oder der gesamten Prüfung ist nur innerhalb von sechs Monaten zulässig.[2] Voraussetzung ist dabei, dass die Magisterschrift bei der ersten Wiederholungsprüfung mit mindestens 4,00 bewertet wurde und die Fachnoten in wenigstens drei Fächern mindestens 4,00 waren. 3Die Magisterschrift wird dann für die zweite Wiederholung angerechnet. 4Absatz 3 Sätze 2 und 3 gelten entsprechend. 
+(4)<sup>1</sup> Eine zweite Wiederholung desselben Prüfungsfaches oder der gesamten Prüfung ist nur innerhalb von sechs Monaten zulässig.<sup>2</sup> Voraussetzung ist dabei, dass die Magisterschrift bei der ersten Wiederholungsprüfung mit mindestens 4,00 bewertet wurde und die Fachnoten in wenigstens drei Fächern mindestens 4,00 waren. 3Die Magisterschrift wird dann für die zweite Wiederholung angerechnet. 4Absatz 3 Sätze 2 und 3 gelten entsprechend. 
 
 (5) Bei Wiederholungsprüfungen ersetzen die Noten der Wiederholungsprüfung die Noten der vorangegangenen Prüfung. 
 
@@ -364,15 +362,15 @@ sichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden
 
 ## **Zeugnis und Urkunde** 
 
-(1)[1] Über die bestandene Prüfung ist ein Zeugnis auszustellen.[2] Hierbei soll eine Frist von vier Wochen eingehalten werden. 
+(1)<sup>1</sup> Über die bestandene Prüfung ist ein Zeugnis auszustellen.<sup>2</sup> Hierbei soll eine Frist von vier Wochen eingehalten werden. 
 
 (2) Das Zeugnis enthält die Note der Magisterschrift, die Noten der einzelnen Fächer sowie die Gesamtnote. 
 
-(3)[1] Das Zeugnis wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen.[2] Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
+(3)<sup>1</sup> Das Zeugnis wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen.<sup>2</sup> Als Datum des Zeugnisses ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
 
 (4) Aufgrund der bestandenen Prüfung wird eine Urkunde ausgestellt, durch die dem Bewerber der Grad eines Magisters der Theologie (Mag. theol.) verliehen wird. 
 
-(5)[1] Die Urkunde wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen.[2] Als Datum der Urkunde ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
+(5)<sup>1</sup> Die Urkunde wird vom Dekan unterzeichnet und mit dem Siegel der Fakultät versehen.<sup>2</sup> Als Datum der Urkunde ist der Tag anzugeben, an dem alle Prüfungsleistungen erbracht sind. 
 
 ## **§ 22** 
 
@@ -380,11 +378,11 @@ sichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden
 
 (1) Hat der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuss nachträglich die betroffenen Noten entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht bestanden erklären. 
 
-(2)[1] Waren die Voraussetzungen für die Zulassung zur Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.[2] Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
+(2)<sup>1</sup> Waren die Voraussetzungen für die Zulassung zur Prüfung nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen der Prüfung geheilt.<sup>2</sup> Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung der allgemeinen verwaltungsrechtlichen Grundsätze über die Rücknahme rechtswidriger Verwaltungsakte. 
 
 (3) Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu geben. 
 
-(4)[1] Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.[2] Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
+(4)<sup>1</sup> Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.<sup>2</sup> Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen. 
 
 ## **§ 23** 
 
@@ -394,15 +392,15 @@ sichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden
 
 12 
 
-(2)[1] Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Dekan zu stellen.[2] Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.[3] Der Dekan bestimmt Ort und Zeit der Einsichtnahme. 
+(2)<sup>1</sup> Der Antrag ist binnen einem Monat nach Aushändigung des Prüfungszeugnisses beim Dekan zu stellen.<sup>2</sup> Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayVwVfG) vom 23. Dezember 1976 (GVBl S. 544) gilt entsprechend.<sup>3</sup> Der Dekan bestimmt Ort und Zeit der Einsichtnahme. 
 
 ## **§ 24** 
 
 ## **Sonderregelung für Behinderte** 
 
-(1)[1] Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, dass er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat der Prüfungsausschuss dem Kandidaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen.[2] Der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Zeugnisses verlangen. 
+(1)<sup>1</sup> Macht der Kandidat durch ein ärztliches Zeugnis glaubhaft, dass er wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat der Prüfungsausschuss dem Kandidaten zu gestatten, gleichwertige Studien- und Prüfungsleistungen in einer anderen Form zu erbringen.<sup>2</sup> Der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Zeugnisses verlangen. 
 
-(2)[1] Entscheidungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin getroffen.[2] Der Antrag ist der Meldung zur Prüfung beizufügen. 
+(2)<sup>1</sup> Entscheidungen gemäß Absatz 1 werden nur auf schriftlichen Antrag hin getroffen.<sup>2</sup> Der Antrag ist der Meldung zur Prüfung beizufügen. 
 
 ## **§ 25** 
 
@@ -416,7 +414,7 @@ Der Entzug des Magistergrades richtet sich nach den gesetzlichen Bestimmungen ü
 
 1Für Studenten, die ihr Theologiestudium vor dem WS 1997/98 begonnen haben, gilt folgende Regelung: 
 
-Für den Besuch der Hauptseminare in den Prüfungsfächern Altes Testament, Neues Testament und Historische Theologie ist die erfolgreiche Teilnahme an entsprechenden Proseminaren Voraussetzung.[2] Statt des nach § 10 Abs. 1 Buchst. d zu führenden Nachweises über die erfolgreiche Ableistung der Zwischenprüfung sind als weitere Voraussetzung für die Zulassung zur Magisterprüfung die entsprechenden, aufgrund einer schriftlichen Proseminararbeit mit mindestens Note 4,00 (= ausreichend) benoteten Proseminarscheine aus den Prüfungsfächern Altes Testament, Neues Testament und Historische Theologie vorzulegen.[3] Kann nur ein unbenoteter oder ein nicht aufgrund einer schriftlichen Proseminararbeit benoteter Proseminarschein beigebracht werden, so muss der entsprechende Hauptseminarschein aufgrund einer schriftlichen Seminararbeit benotet sein. 
+Für den Besuch der Hauptseminare in den Prüfungsfächern Altes Testament, Neues Testament und Historische Theologie ist die erfolgreiche Teilnahme an entsprechenden Proseminaren Voraussetzung.<sup>2</sup> Statt des nach § 10 Abs. 1 Buchst. d zu führenden Nachweises über die erfolgreiche Ableistung der Zwischenprüfung sind als weitere Voraussetzung für die Zulassung zur Magisterprüfung die entsprechenden, aufgrund einer schriftlichen Proseminararbeit mit mindestens Note 4,00 (= ausreichend) benoteten Proseminarscheine aus den Prüfungsfächern Altes Testament, Neues Testament und Historische Theologie vorzulegen.<sup>3</sup> Kann nur ein unbenoteter oder ein nicht aufgrund einer schriftlichen Proseminararbeit benoteter Proseminarschein beigebracht werden, so muss der entsprechende Hauptseminarschein aufgrund einer schriftlichen Seminararbeit benotet sein. 
 
 ## **§ 27 Inkrafttreten** 
 

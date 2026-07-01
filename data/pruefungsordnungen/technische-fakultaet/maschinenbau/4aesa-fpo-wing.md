@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "5. März 2004"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AeSa-FPO-WING.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:18+00:00
-page_count_chars: 3987
+scraped_at: 2026-07-01T11:46:29+00:00
+page_count_chars: 4058
 ---
 
 # 5. März 2004
@@ -12,7 +12,7 @@ page_count_chars: 3987
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AeSa-FPO-WING.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
 ## Vom 5. März 2004 
 
@@ -34,11 +34,11 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Wirtschaf
 
 5. § 12 wird wie folgt geändert: 
 
-   - a) In Abs. 2 treten an die Stelle von Satz 2 folgende Sätze „[2] Das Thema der Studienarbeit kann vom Studenten innerhalb der ersten drei Wochen nach seiner Ausgabe einmal zurückgegeben werden.[3] Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.[4] Bei verspäteter Rückgabe des Themas bzw. einem vorzeitigen Abbruch der Studienarbeit gilt diese als nicht bestanden.“ ersetzt. 
+   - a) In Abs. 2 treten an die Stelle von Satz 2 folgende Sätze „<sup>2</sup> Das Thema der Studienarbeit kann vom Studenten innerhalb der ersten drei Wochen nach seiner Ausgabe einmal zurückgegeben werden.<sup>3</sup> Die Rückgabe muss dem betreuenden Hochschullehrer schriftlich angezeigt werden.<sup>4</sup> Bei verspäteter Rückgabe des Themas bzw. einem vorzeitigen Abbruch der Studienarbeit gilt diese als nicht bestanden.“ ersetzt. 
 
    - b) Abs. 3 wird wie folgt neu gefasst: 
 
-      - „(3)[1] Bei einer Bewertung der Arbeit mit einer Note schlechter als 4,0 oder einer vom Studenten zu vertretenden Fristüberschreitung gilt die Studienarbeit als nicht bestanden.[2] Eine mit "nicht ausreichend" bewertete Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.[3] Die Wiederholung erfolgt beim selben betreuenden Hochschullehrer mit neuem Thema.[4] Auf begründeten Antrag kann der Prüfungsausschuss die Wiederholung der Studienarbeit bei einem anderen betreuenden Hochschullehrer mit neuem Thema genehmigen.[5] Bei Wiederholung der Studienarbeit ist eine Rückgabe des Themas nicht zulässig.“ 
+      - „(3)<sup>1</sup> Bei einer Bewertung der Arbeit mit einer Note schlechter als 4,0 oder einer vom Studenten zu vertretenden Fristüberschreitung gilt die Studienarbeit als nicht bestanden.<sup>2</sup> Eine mit "nicht ausreichend" bewertete Studienarbeit kann nur einmal wiederholt werden, eine zweite Wiederholung ist ausgeschlossen.<sup>3</sup> Die Wiederholung erfolgt beim selben betreuenden Hochschullehrer mit neuem Thema.<sup>4</sup> Auf begründeten Antrag kann der Prüfungsausschuss die Wiederholung der Studienarbeit bei einem anderen betreuenden Hochschullehrer mit neuem Thema genehmigen.<sup>5</sup> Bei Wiederholung der Studienarbeit ist eine Rückgabe des Themas nicht zulässig.“ 
 
    - c) Der bisherige Abs. 4 entfällt; der bisherige Abs. 5 wird Abs. 4 (neu). 
 

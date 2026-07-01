@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA Linguistische Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:06:35+00:00
-page_count_chars: 5468
+scraped_at: 2026-07-01T10:25:04+00:00
+page_count_chars: 5251
 ---
 
 # 22. Juli 2014
@@ -12,13 +12,13 @@ page_count_chars: 5468
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/6AES_2FachBA Linguistische Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 22. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Linguistische Informatik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -46,7 +46,7 @@ bb) Nr. 1 erhält folgende Fassung:
 
 cc) Nr. 2 erhält folgende Fassung: 
 
-„2. In der Aufbauphase: Module „Vertiefungsmodul Computerlinguistik II“, „Korpuslinguistik“ und „Praktikum“.“ 
+- „2. In der Aufbauphase: Module „Vertiefungsmodul Computerlinguistik II“, „Korpuslinguistik“ und „Praktikum“.“ 
 
 1 
 
@@ -62,31 +62,29 @@ cc) Nr. 2 erhält folgende Fassung:
 
 2 
 
-## „ **Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Linguistische Informatik** 
+# „ **Anlage : Studienverlaufsplan Zwei-Fach-Bachelor Linguistische Informatik** 
 
-|||SWS|SWS|SWS|SWS|SWS|Gesamt|ECTS‐Punktepro Semester|ECTS‐Punktepro Semester|ECTS‐Punktepro Semester|ECTS‐Punktepro Semester|ECTS‐Punktepro Semester|ECTS‐Punktepro Semester||Faktor|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Modulbezeichnung|Lehrveranstaltung|V||Ü|P|S|ECTS|1.|2.|3.|4.|5.|6.|Art und Umfang der Prüfung|Modulnote|
-|Grundlagen der Computerlinguistik I|Vorlesung CL 1|2|||||7,5|2||||||Klausur (90 Min.)|1|
-||Übung CL 1|||2||||3||||||||
-||Arbeitstechniken|||2||||2,5||||||||
-|Grundlagen der Informatik<br>(Importmodul)|||||||7,5|7,5||||||Je nach Maßgabe des Faches|1|
-|Grundlagen der Computerlinguistik II|Vorlesung CL 2|2|||||5||2|||||Klausur (90 Min.)|1|
-||ÜbungCL 2|||2|||||3|||||||
-|Programmierung|Grundseminar<br>Programmierung|||||2|||5|||||Portfolio:<br>||
-||Aufbauseminar<br>Programmierung||||||10|||||||Programmieraufgaben (4 x 8h, 0%) und<br>Klausur (90 Min., 100%)|1|
-|||||||2||||5||||||
-|||||||||||||||||
-|Vertiefungsmodul Computerlinguistik<br>I|Proseminar|||||2|10|||5||||Portfolio:<br>Hausarbeit (ca. 10 Seiten, 50%) und<br>Projekt(ca. 50 Stunden,50%)|1|
-||Werkzeuge und<br>Infrastrukturen|||2||||||5||||||
-|Konzeptionelle Modellierung<br>(Importmodul)|||||||5||(5)|(5)||||Je nach Maßgabe des Faches|1|
-|Vertiefungsmodul Computerlinguistik<br>II|HS theoretisch|||||2|10||||(5)||(5)|Portfolio:<br>Hausarbeit (ca. 15 Seiten, 50%) und<br>Projekt (ca. 80 Stunden) mit Projektbericht<br>(10 Seiten,50%)|1|
-||HS praktisch|||||2||||||5||||
-|Korpuslinguistik|HS<br>Korpuslinguistik|||||2|10||||5|||Klausur (90 Min.)|1|
-||Übung Statistik|||2|||||||5|||||
-|Praktikum|||||||5|||||(5)|(5)|Präsentation (30 Min.) und<br>Praktikumsbescheinigung|1|
-|Bachelorarbeit*|Bachelorarbeit||||||10||||||10|Bachelorarbeit(25–40 Seiten)|1|
-|Summe:||4|10||0|12|80|15|10‐15|15‐20|10‐15|5‐10|10‐20|||
+|Modulbezeichnung|Lehrveranstaltung|SW<br>|S|Gesamt||ECTS‐Punkte|pro Semes|ter||Art und Umfang der Prüfung|Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü|P<br>S|ECTS|1.|2.<br>3.|4.|5.|6.||Modulnote|
+||Vorlesung CL 1|2|||2|||||||
+|Grundlagen der Computerlinguistik I|Übung CL 1|2||7,5|3|||||Klausur (90 Min.)|1|
+||Arbeitstechniken|2|||2,5|||||||
+|Grundlagen der Informatik<br>(Importmodul)||||7,5|7,5|||||Je nach Maßgabe des Faches|1|
+|Grundlagen der Computerlinguistik II|Vorlesung CL 2<br>|2||5||2||||Klausur (90 Min.)|1|
+||ÜbungCL 2|2||||3||||||
+|i|Grundseminar<br>Programmierung||2|1||5||||Portfolio:<br>ifb   h % d|1|
+|Programmerung|Aufbauseminar<br>Programmierung||2|0||5||||Programmeraugaen (4 x 8, 0) un<br>Klausur (90 Min., 100%)||
+|Vtifdl Ctliitik|Proseminar||2|||5||||Portfolio:||
+|ereungsmou ompuerngus<br>I|Werkzeuge und<br>Infrastrukturen|2||10||5||||Hausarbeit (ca. 10 Seiten, 50%) und<br>Projekt(ca. 50 Stunden,50%)|1|
+|Konzeptionelle Modellierung<br>(Importmodul)||||5||(5)<br>(5)||||Je nach Maßgabe des Faches|1|
+|Vtifdl Ctliitik|HS theoretisch||2||||(5)||(5)|Portfolio:<br>Hbit  15 Sit 50% d||
+|ereungsmou ompuerngus<br>II|HS praktisch||2|10||||5||ausare (ca.  een, ) un<br>Projekt (ca. 80 Stunden) mit Projektbericht<br>(10 Seiten,50%)|1|
+|Korpuslinguistik|HS<br>Korpuslinguistik||2|10|||5|||Klausur (90 Min.)|1|
+||Übung Statistik|2|||||5|||||
+|Praktikum||||5||||(5)|(5)|Präsentation (30 Min.) und<br>Praktikumsbescheinigung|1|
+|Bachelorarbeit*|Bachelorarbeit|||10|||||10|Bachelorarbeit(25–40 Seiten)|1|
+|Summe:||4<br>10|0<br>12|80|15|10‐15<br>15‐20|10‐15|5‐10|10‐20|||
 
 * dieses Modul ist nur bei der Wahl von Linguistischer Informatik als Erstfach zu belegen. 
 
@@ -94,7 +92,7 @@ cc) Nr. 2 erhält folgende Fassung:
 
 3 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am 1. Oktober 2014 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 

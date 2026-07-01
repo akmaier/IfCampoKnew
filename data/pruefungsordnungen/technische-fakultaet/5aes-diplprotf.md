@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. August 1990"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES_DiplPrOTF.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:34+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T11:17:16+00:00
+page_count_chars: 3948
 ---
 
 # 29. August 1990
@@ -12,80 +12,63 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES_DiplPrOTF.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+7 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# Fiinfte Satzung zur Anderung der Priifungsordnung fiir die Diplompriifung der Technischen Fakultat der Universitat Erlangen-Niirnberg 
 
-### OCR Seite 1
+## Vom 29. August 1990 
 
-```
-81 des Bayerischen Hochschulgesetzes erläßt
-die Universität Erlangen-Nürnberg folgende Anderungssatzung:
-|
-1
-Die Prüfungsordnung für die Diplomprüfung der Technischen Fakultät der Universität
-Erlangen-Nürnberg vom 16. Oktober 1972 (KMBl
-1973 S. 91), zuletzt geändert durch
-Satzung vom 25. März 1987 (KWMBI II S. 159), wird wie folgt geändert:
-1. In 82 wird folgender Satz angefügt:
-„Auf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als
-„Diplom-Ingenieurin Univ.“
-(abgekürzt:
-Dipl.-Ing.
-Univ.)
-bzw.
-als „Diplom-
-Informatikerin Univ.“ (abgekürzt: Dipl.-Inf. Univ.) verliehen.“
-2. In 84 Absatz 6 wird „Artikel 37 BayHSchG“ in „Art. 50 BayHSchG“ geändert.
-3. 86a Absatz 5 erhält folgende Fassung:
-„Prüfungsleistungen, Studienleistungen und Studienzeiten aus einem Fachhochschul-
-studium werden auf Antrag angerechnet, soweit sie den Anforderungen des weiteren
-\
-Studiums entsprechen.“
-4. In 89 wird angefügt:
-„(6) Die Note der mündlichen Prüfung ist dem Kandidat vom Prüfer spätestens am
-folgenden Werktag nach der Prüfung zu eröffnen.
-Sie muß dem Prüfungsamt
-innerhalb einer Woche nach der durchgeführten Prüfung mitgeteilt sein. Die Be-
-wertung der Klausuren muß dem Prüfungsamt spätestens 6 Wochen nach dem
-Prüfungstag zugegangen sein. Auf Antrag kann der Prüfungsausschuß Ausnah-
-men genehmigen.“
-1
-```
+dieAufgrund von Art. 6 in Verbindung mit Art.81 des Bayerischen Hochschulgesetzes erlaft Universitat Erlangen-Niirnberg folgende Anderungssatzung: 
 
-### OCR Seite 2
+# i 
 
-```
-„Die Diplomarbeit ist in deutscher Sprache abzufassen und in Maschinenschrift beim
-Vorsitzenden des Prüfungsausschusses einzureichen. Auf Antrag kann der Prüfungsaus-
-schuß in besonders begründeten Fällen die Abfassung der Diplomarbeit auch in einer
-|
-anderen Sprache der Europäischen Gemeinschaft genehmigen, wenn sichergestellt ist,
-\
-daß ein fach- und sprachkundiger Hochschullehrer gemäß Abs. 2 zur Verfügung steht,
-der die Arbeit ausgibt und beurteilt. Fehlende deutsche Sprachkenntnisse können als
-Genehmigungsgrund nicht anerkannt werden. Wird die Arbeit in einer anderen Spra-
-che der EG abgefaßt, so ist eine Kurzfassung in deutscher Sprache (max.
-4 Seiten)
-beizufügen.
-Die Diplomarbeit ist bei der Abgabe mit einer von dem Kandidaten unterschriebenen
-Erklärung zu versehen, aus der hervorgeht, daß die Arbeit ohne fremde Hilfe und ohne
-Benutzung anderer als der angegebenen Quellen angefertigt wurde und daß die Ar-
-beit in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegt
-und von dieser als Teil einer Prüfungsleistung angenommen wurde. Des weiteren muß
-diese Erklärung die Versicherung enthalten, daß alle Ausführungen, die wörtlich oder
-sinngemäß übernommen wurden, als solche gekennzeichnet sind.“
-Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-2
-```
+| 
 
-### OCR Seite 3
+Die Priifungsordnung fiir die Diplompriifung der Technischen Fakultat der Universitat Erlangen-Niirnberg vom 16. Oktober 1972 (KMBI] 1973S. 91), zuletzt geandert durch Satzung vom 25. Marz 1987 (KWMBI II S. 159), wird wie folgt geandert: 
 
-```
-|
-Die Satzung wurde am 29. August 1990 in der Universität Erlangen-Nürnberg niedergelegt; die
-Niederlegung wurde am 29. August 1990 durch Anschlag in der Universität Erlangen-Nürnberg
-bekanntgegeben. Tag der Bekanntmachung ist der 29. August 1990.
-z
-```
+## 1. In 82 wird folgender Satz angefiigt: 
+
+   - »yAuf Antrag einer Absolventin wird der akademische Grad in weiblicher Form als »Diplom-Ingenieurin Univ.“ (abgekiirzt: Dipl.-Ing. Univ.) bzw. als ,,DiplomInformatikerin Univ.“ (abgekiirzt: Dipl.-Inf. Univ.) verliehen.“ 
+
+2. In §4 Absatz 6 wird ,,Artikel 37 BayHSchG“ in ,,Art. 50 BayHSchG“ geandert. 
+
+## 3. 86a Absatz 5 erhalt folgende Fassung: 
+
+»Prifungsleistungen, Studienleistungen und Studienzeiten aus einem Fachhochschulstudium werden auf Antrag angerechnet, soweit sie den Anforderungen des weiteren Studiums entsprechen.“ 
+
+## 4. In §9 wird angefiigt: 
+
+- »(6) Die Note der miindlichen Priifung ist dem Kandidat vom Priifer spitestens am folgenden Werktag nach der Priifung zu erdffnen. Sie mu8 dem Priifungsamt innerhalb einer Woche nach der durchgefiihrten Priifung mitgeteilt sein. Die Bewertung der Klausuren mu dem Priifungsamt spitestens 6 Wochen nach dem Priifungstag zugegangen sein. Auf Antrag kann der Priifungsausschu8 Ausnahmen genehmigen.“ 
+
+1 
+
+‘ 
+
+5. In §13 wird angefiigt: 
+
+   - »(6) Die Fachpriifungsordnungen kénnen den Erla$ der Vorpriifung fiir besonders befahigte Fachhochschulabsolventen vorsehen; der Erla8 kann mit der MaBgabe verbunden werden, da8 in ein bis zu zwei fiir die wissenschaftlich-methodische Grundausbildung essentiellen Fachern je ein Schein bis zum letzten Abschnitt der Diplomhauptpriifung nachzuholen ist. Fir sonstige Fachhochschulabsolventen gilt § 6a Abs. 5.” 
+
+## 6. 817 Absatz 7 erhalt folgende Fassung: 
+
+»Die Diplomarbeit ist in deutscher Sprache abzufassen und in Maschinenschrift beim Vorsitzenden des Priifungsausschusses einzureichen. Auf Antrag kann der Priifungsausschu8 in besonders begriindeten Fallen die Abfassung der Diplomarbeit auch in einer anderen Sprache der Europaischen Gemeinschaft genehmigen, wenn sichergestellt ist, da ein fach- und sprachkundiger Hochschullehrer gema8 Abs. 2 zur Verfiigung steht, der die Arbeit ausgibt und beurteilt. Fehlende deutsche Sprachkenntnisse kénnen als Genehmigungsgrund nicht anerkannt werden. Wird die Arbeit in einer anderen Sprache der EG abgefaBt, so ist eine Kurzfassung in deutscher Sprache (max. 4 Seiten) beizufiigen. 
+
+Die Diplomarbeit ist bei der Abgabe mit einer von dem Kandidaten unterschriebenen Erklarung zu versehen, aus der hervorgeht, da die Arbeit ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt wurde und daf die Arbeit in gleicher oder ahnlicher Form noch keiner anderen Priifungsbehérde vorgelegt und von dieser als Teil einer Priifungsleistung angenommen wurde. Des weiteren mu8 diese Erklarung die Versicherung enthalten, da8 alle Ausfiihrungen, die wértlich oder sinngemaé8 tibernommen wurden, als solche gekennzeichnet sind.“ 
+
+Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
+
+2 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitét Erlangen-Nurnberg vom 30. Mai 1990 und der Genehmigung des Bayerischen Staatsministeriums fiir Wissenschaft und Kunst mit Schreiben vom 20. August 1990 Nr. C/4 - 6/32 837. 
+
+Erlangen, den 29. August 1990 
+
+(ak G. rasber ) Rektor 
+
+| 
+
+Die Satzung wurde am 29. August 1990 in der Universitat Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 29. August 1990 durch Anschlag in der Universitat Erlangen-Niirnberg bekanntgegeben. Tag der Bekanntmachung ist der 29. August 1990. 
+
+. 
+
+3 
 

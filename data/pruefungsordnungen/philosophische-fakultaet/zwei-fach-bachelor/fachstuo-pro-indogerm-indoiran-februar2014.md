@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 17.02.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_IndoGerm_IndoIran.FEBRUAR2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:01:00+00:00
-page_count_chars: 10452
+scraped_at: 2026-07-01T10:20:55+00:00
+page_count_chars: 10513
 ---
 
 # PDF vom 05.10.2007 i.d.F. 17.02.2014
@@ -16,13 +16,17 @@ page_count_chars: 10452
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Indogermanistik und Indoiranistik im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 5. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
-1. September 2009 2. März 2010 
+1. September 2009 
 
-5. November 2010 9. März 2011 
+2. März 2010 
+
+5. November 2010 
+
+9. März 2011 
 
 17. Februar 2014 
 
@@ -36,7 +40,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Indogermanistik und Indoiranistik kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.[2] Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten indogermanischer Sprachen (und im Prinzip von Sprachen überhaupt) aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten indogermanischen Sprachen vermittelt werden.[3] Die Ausbildung im Rahmen der Indogermanistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.[4] Der argumentative Umgang mit 
+(2)<sup>1</sup> Im Studium Indogermanistik und Indoiranistik erwerben die Studierenden grundlegende Fachkenntnisse der Indogermanistik und Indoiranistik, insbesondere der wichtigsten Methoden des Sprachvergleichs, sowie die Fähigkeit, mit der Fachliteratur umzugehen und selbstständig wissenschaftlich zu arbeiten.<sup>2</sup> Das Studium im Zwei-Fach-Bachelorstudiengang gewährleistet eine fundierte wissenschaftliche Ausbildung im Umgang mit Textdokumenten indogermanischer Sprachen (und im Prinzip von Sprachen überhaupt) aus fünf Jahrtausenden, anhand derer gründliche Kenntnisse der Phonologie, Morphologie, Syntax und Semantik der für den Sprachvergleich wichtigsten indogermanischen Sprachen vermittelt werden.<sup>3</sup> Die Ausbildung im Rahmen der Indogermanistik als typisch interdisziplinärem Fach erfolgt im Hinblick auf die berufliche Anwendung allgemein-linguistischer, sprachvergleichender, kulturhistorischer sowie einzelsprachlicher Kenntnisse.<sup>4</sup> Der argumentative Umgang mit 
 
 ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und zwei Kontinenten entstammen, fördert in einzigartiger Weise die Flexibilität im Sprachlichen und Kulturellen und bildet eine Grundlage für ein weit gefächertes berufliches Tätigkeitsspektrum, z. B. in den Bereichen Verlags- und Bildungswesen. 
 
@@ -62,36 +66,33 @@ ständig wechselnden sprachlichen Daten aus Texten, die fünf Jahrtausenden und 
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 2 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)[1] Im Studium Indogermanistik und Indoiranistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1)<sup>1</sup> Im Studium Indogermanistik und Indoiranistik als erstes Fach sind folgende Module erfolgreich abzulegen: 
 
-|**Sem.1**|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|
+|**Sem.**<sup>**1**</sup>|**Module**|**LV**|**SWS**|**ECTS**|**Leistungs-**<br>**nachweis**|
 |---|---|---|---|---|---|
-|1/2|Basismodul<br>Einführung in die histo-<br>risch-vergleichende<br>Sprachwissenschaft an-<br>hand des Germanischen<br>und anderer Sprachen|Proseminar: Einführung in die Indo-<br>germanistik|2|4|K 90’|
-|||Eigenstudiums-Element zum PS|1|1|K 90’|
-|||Vorlesung: Lautlehre der germani-<br>schenSprachen|2|4|K 90’|
+|1/2|Basismodul<br>Einführung in die histo-<br>|Proseminar: Einführung in die Indo-<br>germanistik|2|4|K 90’|
+||risch-vergleichende<br>Sprachwissenschaft an-|Eigenstudiums-Element zum PS|1|1|K 90’|
+||<br>hand des Germanischen<br>und anderer Sprachen|Vorlesung: Lautlehre der germani-<br>schenSprachen|2|4|K 90’|
 |||Eigenstudiums-Element zur Vorle-<br>sung|1|1||
-|||||||
-|1/2|Basismodul<br>Sanskrit|Proseminar:SanskritI|2|4|K 90’|
-|||Eigenstudiums-Elementzum PSI|1|1||
+|1/2|Basismodul|Proseminar:SanskritI|2|4|K 90’|
+||Sanskrit|Eigenstudiums-Elementzum PSI|1|1||
 |||Proseminar:SanskritII|2|4|K90’|
 |||Eigenstudiums-Element zum PS II|1|1|K 90’|
-|||||||
-|3/4<br>und 5|Aufbaumodul<br>Indoiranische Sprachen|Übung: Sprachwissenschaftliche<br>Vedalektüre|2|2|K 90’|
+|3/4<br>und 5|Aufbaumodul<br>Indoiranische Sprachen|Übung: Sprachwissenschaftliche<br>Vedalektüre|2<br>|2<br>|K 90’|
 |||Eigenstudiums-Element zur Übung|1|1||
 |||Mittelseminar:<br>Altiranische Sprachen|2|6|HA|
 |||Eigenstudiums-Elementzum MS|1|1|K90’|
-|||||||
-|3/4<br>und 5|Aufbaumodul<br>Weitere indogermanische<br>Sprachen|Übung|2|2|K 90’|
-|||Eigenstudiums-Element zur Übung|1|1||
-|||Mittelseminar|2|6|HA|
+|3/4<br>|Aufbaumodul<br>|Übung|2|2|K 90’|
+|und 5|Weitere indogermanische<br>Sh|Eigenstudiums-Element zur Übung|1|1||
+||pracen|Mittelseminar|2|6|HA|
 |||Eigenstudiums-Element zum MS|1|1|K 90’|
-|5|Aufbaumodul<br>Rekonstruktion der<br>indogermanischen<br>Grundsprache|Übung|2|2|K 90|
-|||Eigenstudiums-Element zur Übung|1|1||
-|||Mittelseminar|2|6|HA|
+|5|Aufbaumodul<br>|Übung|2|2|K 90|
+||Rekonstruktion der<br>|Eigenstudiums-Element zur Übung|1|1||
+||indogermanischen<br>Grundsprache|Mittelseminar|2|6|HA|
 |||Eigenstudiums-Element zum MS|1|1|K 90|
 ||Importmodule|||20||
 |6|Bachelorarbeit|||10|BA|
@@ -120,14 +121,13 @@ Zusätzlich zu den in der Tabelle aufgeführten Pflichtmodulen wählen die Studi
 
 7. Modul aus dem Fach „Romanistik“ bzw. „Franko-“, „Ibero-“ oder „Italoromanistik“ (z.B. zur Sprachgeschichte oder Phonologie/ Morphologie). 
 
-(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan Anwendung: 
+(2) Für das Sommersemesterangebot 2011 findet folgender Studienverlaufsplan An- <u>wendung:</u> 
 
-|wendung:||||||||||
-|---|---|---|---|---|---|---|---|---|---|
 |||||**1**|**2**|**3**|**4**|**5**|**6**|
+|---|---|---|---|---|---|---|---|---|---|
 |**Modul**|**GOP**|**SWS**|**ECTS**|**SS 11**|**WS 11**|**SS 12**|**WS 12**|**SS 13**|**WS 13**|
 |**Basismodul Einführung i.d. historisch-**<br>**vergleichende Sprachwissenschaft**<br>**(Germanische und andere Sprachen)**|||**10**|||||||
-|Einführungin die Indogermanistik|GOP|2|4|||||||
+|Einführungin die Indogermanistik|GOP|2<br>|4<br>|||||||
 |Eigenstudiums-Element zum Proseminar|GOP|1|1|||||||
 |Lautlehre dergermanischen Sprachen|GOP|2|4|||||||
 |Eigenstudiums-Element zur Vorlesung|GOP|1|1|||||||
@@ -143,10 +143,10 @@ Zusätzlich zu den in der Tabelle aufgeführten Pflichtmodulen wählen die Studi
 |Eigenstudiums-Element zum Mittelseminar||1|1|||||||
 |**Aufbaumodul weitere Indoiranische Sprachen**|||**10**|||||||
 |Übung||2|2|||||||
-|Eigenstudiums-Element zur Übung||1|1|||||||
+|Eigenstudiums-Element zur Übung||1<br>|1<br>|||||||
 |Mittelseminar||2|6|||||||
 |Eigenstudiums-Element zum Mittelseminar||1|1|||||||
-|**Aufbaumodul Rekonstruktion der indogerma-**<br>**nischen Grundsprache**|||**10**|||||||
+|**Aufbaumodul Rekonstruktion der indogerma-**<br>**nischen Grundsprache**<br>|||**10**|||||||
 |Übung||2|2|||||||
 |Eigenstudiums-Element zur Übung||1|1|||||||
 |Mittelseminar||2|6|||||||

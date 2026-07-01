@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.02.1994"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/FW-Urfassungen/Dipl-PO-Sport-1994.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:48+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:15:05+00:00
+page_count_chars: 42883
 ---
 
 # PDF vom 08.02.1994
@@ -12,1159 +12,564 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/FW-Urfassungen/Dipl-PO-Sport-1994.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+. 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+# PRUFUNGSORDNUNG DER UNIVERSITAT ERLANGEN-NURNBERG FUR DIE DIPLOMPRUFUNG IM DIPLOMSTUDIENGANG SPORTWISSENSCHAFT 
 
-### OCR Seite 1
+##### VOM 
 
-```
-PRÜFUNGSORDNUNG DER UNIVERSITÄT ERLANGEN-NÜRNBERG FÜR DIE
-DIPLOMPRUFUNG IM DIPLOMSTUDIENGANG SPORTWISSENSCHAFT
-VOM
-8.
-Februar
-1994
-Aufgrund von Art. 6 in Verbindung mit Art. 81 des Bayerischen Hochschulgesetzes
-erläßt die Universität Erlangen-Nürnberg folgende Prüfungsordnung:
-Vorbemerkung zum Sprachgebrauch
-Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline
-Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen
-ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau
-zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich
-nicht zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kenn-
-zeichnungen für weibliche und männliche Personen (z.B. Bewerberin/Bewerber) wird
-jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im
-Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint.
-Erster Teil: Allgemeine Vorschriften
-8 1
-Diplomgrad
-(1)
-Aufgrund der bestandenen Diplomprüfung verleiht die Universität den akademi-
-schen Grad eines "Diplom-Sportwissenschaftlers Univ.". Auf Antrag einer Absolventin
-wird der Diplomgrad in weiblicher Form als "Diplom-Sportwissenschaftlerin Univ."
-verliehen.
-(2)
-Auf Antrag kann die Bezeichnung des vom Kandidaten im Hauptstudium
-studierten Studienschwerpunktes "Sport im Erwachsenen- und Seniorenalter" als
-Zusatz dem Diplomgrad angefügt werden. Der Zusatz ist nicht Bestandteil des
-Diplomgrades.
-82
-Regelstudienzeit, Gliederung des Studiums
-(1)
-Die Regelstudienzeit beträgt einschließlich der Zeit für die Abschlußprüfung
-und die Anfertigung der Diplomarbeit acht Semester.
-(2)
-Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der
-Diplomvorprüfung abgeschlossen wird, und in ein viersemestriges Hauptstudium, das
-die Diplomprüfung einschließt. Grundstudium und Diplomvorprüfung werden an der
-Universität Erlangen-Nürnberg nicht angeboten; das Studium der Sportwissenschaft
-ist auf das Hauptstudium und die abschließende Diplomprüfung beschränkt.
-```
+8. Februar 1994 
 
-### OCR Seite 2
+Aufgrund von Art. 6 in Verbindung mit Art. 81 des Bayerischen Hochschuigesetzes erlaBt die Universitat Erlangen-Numberg folgende Prufungsordnung: 
 
-```
-(3)
-Der Höchstumfang der zum planmäßigen Studium im Hauptstudium erforderli-
-chen Lehrveranstaltungen beträgt bis zu 60 Semesterwochenstunden, verteilt auf drei
-Fachsemester.
-(4)
-Das Hauptstudium ist auf den Studienschwerpunkt "Sport im Erwachsenen-
-und Seniorenalter" ausgerichtet.
-(5)
-In den Studiengang (Hauptstudium) eingeordnet sind
-1.
-ein wissenschaftliches Praktikum (Projekt)
-2.
-eine
-Exkursion von maximal sieben Tagen Dauer
-3.
-ein achtwöchiges Fachpraktikum
-83
-Aufbau der Diplomprüfung, Prüfungsfristen
-(1)
-Die Diplomprüfung (siehe 8$ 19ff) besteht aus sechs Fachprüfungen und der
-;
-Diplomarbeit. Die Fachprüfungen setzen sich aus den Prüfungsteilen entsprechend $
-21 Abs. 2 zusammen.
-(2)
-Die Diplomprüfung beginnt am Ende der Vorlesungszeit des dritten Fachse-
-mesters des Hauptstudiums in der Regel mit der Ablegung der Fachprüfungen. Die
-Fachprüfungen - soweit sie nicht vorgezogen abgenommen wurden (vergl. Abs. 4) -
-erstrecken sich über einen Zeitraum von ca. vier Wochen. Daran anschließend wird
-das Thema der Diplomarbeit ausgegeben, so daß dessen Bearbeitung innerhalb der
-Regelstudienzeit abgeschlossen wird.
-(3)
-Die Diplomprüfung darf vorzeitig abgelegt werden, wenn die Zulassungsvor-
-aussetzungen erfüllt sind.
-(4)
-Die sportpraktisch-didaktische Prüfung gemäß $ 9 kann vor dem jeweiligen in
-Absatz 2 festgesetzten Prüfungszeitraum abgenommen werden, wenn die Zulas-
-sungsvoraussetzungen gemäß $ 20 Abs. 1 erfüllt sind.
-|
-(5)
- DerPrüfungsausschuß hat sicherzustellen, daß die Fachprüfungen im Zeitraum
-gemäß Absatz 2 abgelegt werden können. Der Prüfungsbeginn wird vom Vorsitzen-
-den des Prüfungsausschusses (mit Angabe der Meldefrist für die Bewerber) späte-
-stens zwei Monate vorher durch ortsüblichen Aushang bekanntgegeben.
-Daneben kann der Prüfungsausschuß gesonderte Termine zur Durchführung von
-Wiederholungsprüfungen anberaumen.
-(6)
-Die Termine der Prüfungen in den einzelnen Fächern sind spätestens zwei
-Wochen vorher durch ortsüblichen Aushang bekanntzugeben. Die zur Prüfung zu-
-gelassenen Kandidaten sind unter Hinweis auf den Aushang spätestens eine Woche
-vor dem Termin der Prüfung schriftlich zu laden.
-(7)
- Überschreitet ein Student die Frist, innerhalb der er gemäß Absatz 2 die
-Prüfung ablegen soll, um mehr als vier Semester, so gilt die Prüfung als abgelegt und
-erstmals nicht bestanden. Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder
-2
-```
+#### Vorbemerkung zum Sprachgebrauch 
 
-### OCR Seite 3
+Die Bezeichnung weiblicher und mannlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen inrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die flr Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen fur weibliche und mannliche Personen (z.B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Ubersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint. 
 
-```
-nicht mehr rechtzeitig ablegbare Prüfungsteil als abgelegt und erstmals nicht bestan-
-den. Die Überschreitungsfrist verlängert sich um die für die Wiederholung der Diplom-
-vorprüfung benötigten Semester. Nach $ 7 angerechnete Studienzeiten sind auf diese
-Frist anzurechnen.
-(8)
-Überschreitet der Student die Frist nach Absatz 2 aus Gründen, die er nicht zu
-vertreten hat, gewährt der Prüfungsausschuß auf Antrag eine Nachfrist; diese wird,
-sofern es die anerkannten Versäumnisgründe zulassen, zum nächsten regulären
-Prüfungstermin bestimmt.
-84
-Prüfungsausschuß
-(1)
-Für die Organisation und die Durchführung der Prüfungen wird ein Prüfungs-
-ausschuß gebildet. Der Prüfungsausschuß besteht aus fünf Mitgliedern, deren Amts-
-zeit zwei Jahre beträgt Eine Wiederbestellung ist möglich.
-(2)
-Der Vorsitzende, sein Stellvertreter und die weiteren Mitglieder des Prüfungs-
-ausschusses werden vom Fachbereichsrat der Erziehungswissenschaftlichen Fakultät
-bestellt. Die Professoren verfügen mindestens über die absolute Mehrheit der Stim-
-men. Zu Mitgliedern des Prüfungsauschusses können nur prüfungsberechtigte Mit-.
-glieder der Universität gewählt werden ($ 5 Abs.1).
-(3)
-..
-Der Prüfungsausschuß achtet darauf, daß die Bestimmungen dieser Prü-
-fungsordnung eingehalten werden. Mit Ausnahme der eigentlichen Prüfung und deren
-Bewertung trifft er alle anfallenden Entscheidungen. Er erläßt insbesondere die
-Prüfungsbescheide, nachdem er die Bewertung der Prüfungsleistungen auf ihre
-Rechtmäßigkeit überprüft hat. Prüfungsbescheide, durch die jemand in seinen Rech-
-ten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und
-mit einer Rechtsbehelfsbeiehrung zu versehen. Dem Kandidaten ist vor Erlaß der
-ablehnenden Entscheidung Gelegenheit zur Äußerung zu geben. Widerspruchs-
-bescheide erläßt der Rektor, in fachlichen Fragen im Einvernehmen mit dem Prü-
-fungsausschuß und nach Anhörung der zuständigen Prüfer. Art. 28 Abs. 1 Satz
-Nr.
-13 BayHSchG bleibt unberührt.
-(4)
-Der Prüfungsausschuß berichtet regelmäßig dem Fachbereichsrat über die
-Entwicklung der Prüfungen und Studienzeiten einschließlich der tatsächlichen Be-
-arbeitungszeiten für die Diplomarbeit. Er gibt ihm ggf. Anregungen zur Änderung der
-Studien- und Prüfungsordnung. Der Prüfungsausschuß legt die Verteilung der Fach-
-noten und der Gesamtnoten offen.
-(5)
-Die Mitglieder des Prüfungsausschusses haben das Recht, der Abnahme der
-Prüfungen beizuwohnen.
-(6)
-Der Prüfungsausschuß ist beschlußfähig, wenn sämtliche Mitglieder schriftlich
-unter Einhaltung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahl
-der Mitglieder anwesend ist. Er beschließt mit der Mehrheit der abgegebenen Stim-
-men in Sitzungen. Stimmenthaltung, geheime Abstimmung und Stimmrechtsüber-
-|
-tragung sind nicht zulässig. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden
-|
-1
-|
-```
+### Erster Teil: Allgemeine Vorschriften 
 
-### OCR Seite 4
+§ 1 Diplomgrad 
 
-```
-den Ausschlag.
-(7) Der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein. Er ist befugt,
-anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.
-Hiervon hat er dem Prüfungsausschuß unverzüglich Kenntnis zu geben. Darüber
-hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungs-
-ausschuß dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich
-übertragen.
-(8)
-Der Ausschluß von der Beratung und Abstimmung im Prüfungsausschuß sowie
-von einer Prüfungstätigkeit wegen persönlicher Beteiligung bestimmt sich nach Art. 50
-BayHSchG. Die Pflicht der Mitglieder des Prüfungsausschusses zur Verschwiegenheit
-bestimmt sich nach Art. 18 Abs.
-4 BayHSchG.
-85
-Prüfer und Beisitzer
-(1)
-Der Prüfungsausschuß bestellt die Prüfer und Beisitzer. Er kann die Bestellung
-|
-dem Vorsitzenden übertragen. Zu Prüfern dürfen nur Hochschullehrer sowie nach der
-Hochschulprüfverordnung (BayRS 2210-1-1-6-K) in der jeweils geltenden Fassung zur
-Abnahme von Hochschulprüfungen befugte weitere Personen bestellt werden. Zum
-Beisitzer darf nur bestellt werden, wer die entsprechende Diplomprüfung oder eine
-vergleichbare Prüfung abgelegt hat.
-(2)
-Der Kandidat kann für die Diplomarbeit und die mündlichen Prüfungen den
-Prüfer oder eine Gruppe von Prüfern vorschlagen. Der Vorschlag begründet keinen
-Anspruch auf Bestellung.
-(3)
-Die Bestellung zu Prüfern wird durch Aushang im Institut für Sportwissen-
-schaft/Sportzentrum bekanntgegeben. Ein kurzfristig vor Beginn der Prüfung aus
-zwingenden Gründen notwendig werdender Wechsel des Prüfers ist zulässig. Schei-
-det ein prüfungsberechtigtes Hochschulmitglied aus der Universität Erlangen-Nürnberg
-aus, bleibt seine Prüfungsberechtigung in der Regel bis zu einem Jahr erhalten.
-|
-(4)
-Für
-Prüfer,
-Beisitzer und sonstige
-mit Prüfungsangelegenheiten
-befaßte
-Personen gilt $ 4 Abs. 8 entsprechend.
-86
-Allgemeine Zulassungsvoraussetzungen und Zulassungsverfahren
-(1)
-Zur Diplomprüfung an der Universität Erlangen-Nürnberg kann nur zugelassen
-werden, wer
-1.
-folgende allgemeine Zulassungsvorausetzungen erfüllt:
-- .. Zeugnis der allgemeinen Hochschulreife oder eine als gleichwertig
-anerkannte Zugangsberechtigung,
--
-Nachweis über die Ausbildung in Erster Hilfe gem. $ 8b StVZO,
--
- Rettungsschwimmabzeichen in Silber,
-4
-```
+(1) Aufgrund der bestandenen Diplompriifung verleiht die Universitat den akademischen Grad eines "Diplom-Sportwissenschaftlers Univ.". Auf Antrag einer Absolventin wird der Diplomgrad in weiblicher Form als "Dipiom-Sportwissenschaftlerin Univ." verliehen. 
 
-### OCR Seite 5
+(2) Auf Antrag kann die Bezeichnung des vom Kandidaten im Hauptstudium studierten Studienschwerpunktes “Sport im Erwachsenen- und Seniorenalter" als Zusatz dem Diplomgrad angefiigt werden. Der Zusatz ist nicht Bestandteil des Diplomgrades. 
 
-```
--
-Nachweis der erfolgreich abgelegten Sporteignungsprüfung nach
-der QualV;
-2.
-die Diplomvorprüfung im Studiengang Sportwissenschaft oder eine ihr
-gleichgewertete und anerkannte sonstige Prüfung bestanden hat;
-3.
-die fachlichen Zulassungsvoraussetzungen entsprechend $ 20 erfüllt,
-die im Nachweis bestimmter Studienleistungen bestehen;
-4.-
-im Diplomstudiengang Sportwissenschaft an der Universität Erlangen-
-Nürnberg immatrikuliert ist und in diesem Studiengang in mindestens
-drei Semestern als Student eingeschrieben war, davon wenigstens zwei
-Semester an der Universität Erlangen-Nürnberg;
-..
-85
-unter Berücksichtigung der gesetzlichen Uberschreitungsfristen nach
-Art. 81 Abs. 4 Satz 3 BayHSchG noch nicht unter die Rechtsfolge des
-erstmaligen Nichtbestehens der Diplomprüfung bzw. von Teilen dersel-
-ben fällt.
-(2)
-Der Antrag auf Zulassung zur Diplomprüfung ist spätestens sechs Wochen vor
-Beginn der Prüfung schriftlich - unter Benutzung der hierfür bestimmten Vordrucke -
-beim Prüfungsamt einzureichen. Dem Antrag sind beizufügen:
-1.
-die Unterlagen nach Absatz 1
-2.
-eine Aufstellung der Fächer, auf die sich die Prüfung beziehen soll und
-2...
-die Angabe der gewünschten Prüfer, soweit dem Kandidaten ein Wahl-
-.
-Ze
-recht eingeräumt ist;
-3.
-eine Erklärung darüber, ob der Kandidat bereits eine Diplomprüfung in
-demselben Studiengang endgültig nicht bestanden hat oder ob er sich
-in einem schwebenden Prüfungsverfahren befindet oder ob er unter
-Verlust des Prüfungsanspruchs exmatrikuliert worden ist;
-4.
-ggf. ein Antrag, daß die mündliche Prüfung unter Ausschluß der Öffent-
-lichkeit stattfinden soll.
-(3)
-Der Prüfungsausschuß kann die Nachreichung von Unterlagen - insbesondere
-zu Absatz 1 Nr. 3 - gestatten, wenn ihre Vorlage in der zu setzenden Frist nicht
--
-„möglich ist und dies hinreichend glaubhaft gemacht wird. Ist ein Kandidat ohne sein
-Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen
--
-»
-Weise zu erbringen, so kann der Prüfungsausschuß gestatten, die Nachweise auf
-andere Art zu führen.
-(4)
-Soweit der Kandidat die Fachprüfung nach $ 21 Abs. 2 Nr. 6 vorzieht, braucht
-er bei der Meldung zu dieser Prüfung nur die Nachweise gemäß $ 20 Absatz 1, Nr.
--
-3 vorzulegen.
-Die Zulassung zur Diplomprüfung ist zu versagen, wenn
-1.
-der Bewerber die nach Absatz 1 vorgeschriebenen Zulassungsvoraus-
-setzungen nicht erfüllt;
-2.
-die nach Absatz 2 geforderten Unterlagen unvollständig sind;
-3.
-der Bewerber unter Verlust des Prüfungsanspruchs exmatrikuliert wor-
-den ist;
-4.
-der Bewerber die Diplomprüfung in demselben Studiengang endgültig
-nicht bestanden hat.
-5
-```
+§ 2 
 
-### OCR Seite 6
+##### Regelstudienzeit, Gliederung des Studiums 
 
-```
-(6)
-Über die Zulassung entscheidet der Prüfungsausschuß. Die Entscheidung über
-die Zulassung ist dem Bewerber spätestens vier Wochen vor Prüfungsbeginn schrift-
-lich mitzuteilen.
-(7)
-Der zur Prüfung zugelassene Kandidat kann die Anmeldung ohne Angabe von
-Gründen schriftlich bis zum 14. Tag vor dem allgemeinen Beginn der Prüfungen
-widerrufen;
-$ 3 Abs. 7 bleibt unberührt.
-87
-Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen
-(1)
- Studienzeiten, Studienleistungen und Prüfungsleistungen im Diplomstudiengang
-Sportwissenschaft' an anderen Universitäten oder einer gleichgestellten Hochschule
-im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeits-
-prüfung anerkannt.
-(2)
-Studienzeiten, Studienleistungen und Prüfungsleistungen in anderen Studien-
-gängen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist. Die Anerken-
-nung kann von Bedingungen abhängig gemacht werden, wenn zu einzeinen Prüfungs-
-fächern keine volle Gleichwertigkeit nachgewiesen ist. Gleichwertigkeit wird festge-
-stellt, wenn Studienzeiten, Studienleistungen und Prüfungsleistungen in Inhalt, Um-
-fang und Anforderungen denjenigen des Studiums im Diplomstudiengang Sportwis-
-senschaft der Universität Erlangen-Nürnberg entsprechen. Dabei wird kein schemati-
-scher Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorgenom-
-men. Für die Gleichwertigkeit von Studienzeiten, Studienleistungen und Prüfungs-
-leistungen, die außerhalb des Geltungsbereichs des Hochschulrahmengesetztes
-erbracht wurden, sind die von. der Kultusministerkonferenz und der Hochschulrekto-
-renkonterenz gebilligten Aquivalenzvereinbarungen sowie Absprachen im Rahmen
-von Hochschulpartnerschaften maßgebend. Soweit Äquivalenzvereinbarungen nicht
-vorliegen, entscheidet der Prüfungsausschuß. Im übrigen kann bei Zweifeln an der
-Gleichwertigkeit die Zentralstelle für ausländisches Bildungswesen bei der Ständigen
-Konferenz der Kultusminister der Länder gehört werden.
-(3) - Eine Anerkennung von Teilen der Diplomprüfung bzw. die Anrechnung von
-Prüfungsleistungen auf die Diplomprüfung ist zulässig, wenn die Vorschriften dieser
-Prüfungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancen-
-gleichheit nicht verletzt wird.
-(4)
-Im Zeugnis werden die Noten angerechneter Prüfungen aufgeführt und bei der
-Gesamtnotenbildung berücksichtigt, wenn sie entsprechend $ 14 gebildet wurden. Die
-übernommenen Noten werden gekennzeichnet und die Tatsache der Übernahme im
-Zeugnis vermerkt. Entspricht das Notensystem der angerechneten Prüfung $ 14 nicht,
-' Als Diplomstudiengang Sportwissenschaft gilt nur derjenige, der der "Rahmenordnung
-für die Diplomprüfung im Studiengang Sportwissenschaft - an Universitäten und gleichge-
-stellten Hochschulen -" (beschlossen von der Kultusminister- und Hochschulrektorenkon-
-ferenz im Jahr 1992) unterliegt.
-6
-```
+(1) Die Regeistudienzeit betragt einschlieBlich der Zeit fir die Abschlu8priifung und die Anfertigung der Diplomarbeit acht Semester. 
 
-### OCR Seite 7
+(2) Das Studium gliedert sich in ein viersemestriges Grundstudium, das mit der Dipiomvorpriifung abgeschlossen wird, und in ein viersemestriges Hauptstudium, das die Diplomprifung einschlieBt. Grundstudium und Diplomvorpriifung werden an der Universitat Erlangen-Nirnberg nicht angeboten; das Studium der Sportwissenschaft ist auf das Hauptstudium und die abschlieBende Diplompriiftung beschrankt. 
 
-```
-wird in dem Zeugnis nur ein Anerkennungsvermerk "bestanden" und beim Gesamt-
-urteil der Vermerk "mit Erfolg abgelegt" aufgenommen. Eine Notenwiedergabe in
-angerechneten Fächern, eine Notenumrechnung sowie eine Gesamtnotenbildung
-erfolgen nicht. In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prüfungsord-
-nung ($ 7) beigegeben.
-(5)
-Bei Vorliegen der Voraussetzungen der Absätze 1 bis 4 besteht ein Rechts-
-anspruch auf Anerkennung bzw. Anrechnung. Der Student hat die für die Anerken-
-nung beziehungsweise Anrechnung erforderlichen Unterlagen vorzulegen. Die Ent-
-scheidung über die Anerkennung trifft der Vorsitzende des Prüfungsauschusses in
-den Fällen gemäß der Absätze 2 bis 4 auf Antrag; die Entscheidung ergeht schriftlich.
-(6)
-Einschlägige berufspraktische Tätigkeiten werden anerkannt.
-88
-Arten der Prüfungsleistungen
-'
-(1)
- Prüfungsleistungen in der Diplomprüfung sind:
-1.
-die sportpraktisch-didaktische Prüfung (8 9)
-2.
-die Prüfung der Lehreignung im Sport (8 10)
-u}
-die mündlichen Prüfungen ($ 11)
-4.
-die schriftlichen Prüfungen unter Aufsicht (Klausuren) (8 12)
-> 5
-die Diplomarbeit ($ 13)
-89
-2
-Sportpraktisch-didaktische Prüfung
-(1)
-Die sportpraktisch-didaktische Prüfung besteht aus zwei Prüfungsteilen:
--
-einer praktischen und
--
-einer theoretischen Prüfung;
-1.
-die praktische Prüfung besteht aus
--
-einer Überprüfung sportbereichsspezifischer Techniken
--
-einer Überprüfung der Spielfähigkeit
-_
-2.
-die theoretische Prüfung besteht aus einer Überprüfung sportpraktisch-
-didaktischer Kenntnisse durch zwei Klausuren.
-Sie erstreckt sich auf die Prüfungsteile gemäß der Anlage 1 zu dieser Prüfungsord-
-nung.
-(2)
-Die Note der sportpraktisch-didaktischen Prüfung setzt sich aus den Einzel-
-noten der Prüfungsteile zusammen, deren Gewichtung in der Anlage 1 zu dieser
-Prüfungsordnung festgelegt ist.
-(3)
- Wertungskriterien zur Bewertung der Prüfungsteile der sportpraktisch-didakti-
-schen Prüfung werden rechtzeitig vor Prüfungsbeginn durch Aushang im Institut für
-7
-```
+(3) | Der Héchstumfang der zum planmaBigen Studium im Hauptstudium erforderlichen Lehrveranstaitungen betragt bis zu 60 Semesterwochenstunden, verteilt auf drei Fachsemester. 
 
-### OCR Seite 8
+(4) Das Hauptstudium ist auf den Studienschwerpunkt "Sport im Erwachsenenund Seniorenalter" ausgerichtet. 
 
-```
-Sportwissenschaft/Sportzentrum bekanntgegeben.
-(4)
-Jeder einzelne Prüfungsteil einer sportpraktisch-didaktischen Prüfung wird von
-zwei Prüfern bewertet.
-8 10
-Prüfung der Lehreignung im Sport
-(1)
-Die Prüfung der Lehreignung im Sport erfolgt durch eine Lehrprobe von ca. 45
-Minuten Dauer. Sie wird durch mindestens zwei Prüfer abgenommen.
-(2)
-Die Aufgabe der Lehrprobe stellen die Prüfer gemeinsam, indem sie dem
-Kandidaten das Thema, zu dem er die Lehrprobe erbringen soll, spätestens acht
-Tage vor der Prüfung mitteilen. Der geplante Ablauf der Lehrprobe wird vom Kandi-
-daten schriftlich ausgearbeitet und mindestens einen Tag vor deren Beginn an die
-Prüfer ausgehändigt.
-(3)
-Die Gewichtung der Note der Prüfung der Lehreignung ist in der Anlage 1 zu
-dieser Prüfungsordnung festgelegt.
-8 11
-Mündliche Prüfungen
-(1)
-In den mündlichen Prüfungen soll der Kandidat nachweisen, daß er die Zu-
-sammenhänge des Prüfungsgebietes erkennt und spezielle Fragestellungen in diese
-Zusammenhänge einzuordnen vermag. Durch die mündlichen Prüfungen soll ferner
-festgestellt werden, ob der Kandidat über ein breites Grundlagenwissen verfügt. Die
-Kandidaten können darüber hinaus in von ihnen benannten eingegrenzten Themen
-(Vertiefungsgebieten) geprüft werden.
-(2)
-Mündliche Prüfungen werden in der Regel vor mindestens zwei Prüfern (Kolle-
-gialprüfung) oder vor einem Prüfer in Anwesenheit eines sachkundigen Beisitzers
-abgelegt. Hierbei wird jeder Kandidat in einem Prüfungsfach grundsätzlich nur von
-einem Prüfer geprüft.
-(3)
-Über die mündliche Prüfung ist ein Protokoll anzufertigen, in das aufzunehmen
-sind: Ort und Zeit sowie Dauer der Prüfung, Gegenstand und Ergebnis der Prüfung,
-die Namen der Prüfer, des Beisitzers und des Kandidaten sowie besondere Vor-
-kommnisse. Das Protokoll wird von einem Prüfer oder vom Beisitzer geführt und von
-den Prüfern beziehungsweise vom Prüfer und von dem Beisitzer unterzeichnet. Die
-Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich. Das Protokoll ist
-mindestens zwei Jahre aufzubewahren.
-(4)
-Studenten, die sich in einem späteren Termin der gleichen Prüfung unterziehen
-wollen, können nach Maßgabe der räumlichen Verhältnisse als Zuhörer zugelassen
-8
-```
+(5) in den Studiengang (Hauptstudium) eingeordnet sind 
 
-### OCR Seite 9
+1. ein wissenschaftliches Praktikum (Projekt) 2. eine Exkursion von maximal sieben Tagen Dauer 3. ein achtwéchiges Fachpraktikum 
 
-```
-werden, es sei denn, der Kandidat widerspricht. Die Zulassung erstreckt sich nicht auf
-die Beratung und Bekanntgabe des Prüfungsergebnisses.
-8 12
-Klausuren
-(1)
-In den Klausuren soil der Kandidat nachweisen, daß er in begrenzter Zeit und
-mit begrenzten Hilfsmitteln mit den gängigen Methoden seines Faches ein Problem
-erkennen und Wege zu einer Lösung finden und angemessen sprachlich darstellen
-kann.
-(@2)
-Klausuren sind in der Regel von zwei Prüfern zu bewerten. Von der Bewertung
-durch einen Zweitprüfer kann abgesehen werden, wenn kein zweiter Prüfungsbefugter
-zur Verfügung steht oder wenn die Bestellung eines zweiten Prüfers den Ablauf der
-Prüfung in unvertretbarer Weise vorzögern würde. Soll eine Arbeit mit der Note "nicht
-ausreichend" bewertet werden, muß ein zweiter Prüfer bestellt werden. Der Prüfungs-
-ausschuß stellt zu Beginn des Prüfungstermins fest, ob ein zweiter Prüfer vorhanden
-ist, oder ob durch Benennung eines Zweitprüfers mit einer unzumutbaren Verzöge-
-rung des Prüfungsabiaufs zu rechnen ist.
-8 13
-Diplomarbeit
-(1)
-Die Diplomarbeit ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung
-abschließt. Sie soll zeigen, daß der Kandidat in der Lage ist, innerhalb einer vor-
-gegebenen Frist ein Problem aus dem Bereich der Sportwissenschaft selbständig mit
-wissenschaftlichen Methoden zu bearbeiten.
-(2)
-Die Diplomarbeit kann von jedem Hochschullehrer, der ein sportwissenschatftli-
-ches Fach an der Universität Erlangen-Nürnberg vertritt, ausgegeben und betreut
-werden. Die Vergabe der Diplomarbeit durch einen anderen Hochschullehrer bzw.
-durch eine andere prüfungsberechtigte Person (siehe $ 5 Abs. 1) bedarf der Zustim-
-mung des Prüfungsausschusses. Soll die Diplomarbeit in einer Einrichtung außerhalb
-der Universität Erlangen-Nürnberg durchgeführt werden,
-ist die Zustimmung des
-Vorsitzenden des Prüfungsausschusses nötig. Dieser hat das Einverständnis des
-Betreuers und eine Erklärung darüber einzuholen, daß eine ordnungsgemäße Betreu-
-ung der Arbeit möglich ist. Dem Kandidaten ist Gelegenheit zu geben, für das Thema
-der Diplomarbeit Vorschläge zu machen.
-(3)
-Der Kandidat hat dafür zu sorgen, daß er am Ende des dritten Semesters des
-Hauptstudiums ein Thema für die Diplomarbeit erhält. Gelingt ihm dies nicht, hat er
-beim Vorsitzenden des Prüfungsausschusses zu beantragen, daß er unverzüglich ein
-Thema für die Diplomarbeit erhält. Die Ausgabe des Themas erfolgt über den Vor-
-sitzenden des Prüfungsausschusses. Der Zeitpunkt der Ausgabe ist aktenkundig zu
-machen.
-Das
-Thema
-der
-Diplomarbeit
-soll
-aus
-einem
-Bereich
-des
-Stu-
-dienschwerpunktes entnommen werden.
-(4)
-Die Diplomarbeit kann auch in Form einer Gruppenarbeit zugelassen werden,
-9
-```
+#### §3 Aufbau der Diplomprifung, Prifungsfristen 
 
-### OCR Seite 10
+(1) Die Diplompriifung (siehe §§ 19ff) besteht aus sechs Fachprifungen und der Diplomarbeit. Die Fachprufungen setzen sich aus den Prifungsteilen entsprechend § 21 Abs. 2 zusammen. 
 
-```
-wenn der als Prüfungsleistung zu bewertende Beitrag des einzeinen Kandidaten auf
-Grund der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien,
-die eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar
-ist und die Anforderungen nach Absatz 1 erfüllt.
-(5)
-Die Bearbeitungszeit für die Diplomarbeit darf vier Monate nicht überschreiten.
-Thema und Aufgabenstellung der Diplomarbeit müssen so lauten, daß die zur Be-
-arbeitung vorgegebene Frist eingehalten werden kann. Das Thema der Diplomarbeit
-kann nur einmal und nur innerhalb der ersten zwei Monate der Bearbeitungszeit
-zurückgegeben werden. Auf begründeten Antrag des Kandidaten kann die Bearbei-
-tungszeit durch den Prüfungsauschuß ausnahmsweise um höchstens drei Monate
-verlängert werden. Weist der Kandidat durch ärztliches Zeugnis nach, daß er durch
-Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist.
-(6)
-Die Diplomarbeit ist in drei Exemplaren fristgemäß beim Prüfungsamt abzulie-
-fern. Der Abgabezeitpunkt ist aktenkundig zu machen. Die Diplomarbeit soll gebunden
-sein und eine Zusammenfassung enthalten. Bei der Abgabe der Diplomarbeit hat der
-Kandidat schriftlich zu versichern, daß er seine Arbeit - bei einer Gruppenarbeit
-|
-seinen entsrechend gekennzeichneten Anteil der Arbeit - selbständig verfaßt und
-keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. Wird die
-Diplomarbeit nicht fristgemäß abgeliefert, wird sie mit "nicht ausreichend"
-(5,0)
-bewertet.
-(7)
-Die Diplomarbeit ist von zwei Prüfern zu bewerten. Erstgutachter soll derjenige
-sein, der das Thema der Arbeit gestellt hat. Bei unterschiedlicher Beurteilung gilt als
-die Note der Diplomarbeit der Durchschnitt der Noten beider Prüfer. Hat nur ein
-Prüfer die Diplomarbeit mit "nicht ausreichend” bewertet oder weichen die Noten um
-zwei oder mehr Notenstufen voneinander ab, setzt der Prüfungsausschuß die Note
-nach Anhörung eines dritten Prüfers fest.
-814
-Bewertung der Prüfungsleistungen und Bildung der Fachnoten
-(1)
-Die Noten für die einzelnen Prüfungsleistungen werden von den jeweiligen
-Prüfern festgesetzt. Für die Bewertung der Prüfungsleistungen werden folgende Noten
-und Prädikate verwendet:
-1,0; 1,3
-=
-sehr gut
-=
-eine hervorragende Leistung;
-1,7;2,0; 2,3 =
-gut
-=
-eine Leistung, die erheblich über den
-durchschnittlichen
-Anforderungen
-liegt;
-2,7, 3,0; 3,3 =
-befriedigend
-=
-eine Leistung, die durchschnittlichen
-Anforderungen entspricht
-3,7; 4,0
-= ausreichend
-=
-eine Leistung,
-die trotz ihrer
-Mängel noch den Anforderun-
-gen genügt;
-5,0
-=
-nicht ausreichend =
-eine Leistung, die wegen erheblicher
-Mängel
-den
-Anforderungen
-nicht
-mehr genügt.
-10
-```
+(2) Die Diplomprifung beginnt am Ende der Vorlesungszeit des dritten Fachsemesters des Hauptstudiums in der Regel mit der Ablegung der Fachpriifungen. Die Fachprifungen - soweit sie nicht vorgezogen abgenommen wurden (vergl. Abs. 4) - erstrecken sich uber einen Zeitraum von ca. vier Wochen. Daran anschlieBend wird das Thema der Diplomarbeit ausgegeben, so daB dessen Bearbeitung innerhalb der Regelstudienzeit abgeschlossen wird. 
 
-### OCR Seite 11
+### (3) | Die Diplompriifung darf vorzeitig abgelegt werden, wenn die Zulassungsvoraussetzungen erfuilt sind. 
 
-```
-Wird eine Prüfungsleistung von zwei Prüfern bewertet, versuchen die Prüfer, sich auf
-eine Note zu einigen; kommt eine Einigung nicht zustande, werden die Noten ge-
-mittelt und auf die näherliegende Note gerundet; dabei wird nur die erste Stelle hinter
-dem Komma berücksichtigt, alle weiteren Stellen werden ohne Rundung gestrichen.
-Liegt der Mittelwert genau zwischen zwei Noten, wird auf die bessere Note gerundet.
-(2)
-Besteht eine Fachprüfung aus mehreren Leistungen, errechnet sich die Fach-
-note aus dem Durchschnitt der Noten der einzelnen Prüfungsleistungen. Abweichend
-von Satz 1 dieses Absatzes gehen in die Note der Fachprüfungen gem. $ 21 Abs. 2
-Nr. & die Noten der sportpraktisch-didaktischen Prüfungen dreifach, der Prüfung der
-Lehreignung im Sport einfach ein. Die Fachnote lautet
-bei einem Durchschnitt bis 1,5
-= sehr gut;
-bei einem Durchschnitt über 1,5 bis 2,5
-= gut;
-bei einem Durchschnitt über 2,5 bis 3,5
-= befriedigend;
-bei einem Durchschnitt über 3,5 bis 4,0
-= ausreichend;
-bei einem Durchschnitt über 4,0
-= nicht ausreichend.
-(3)
-Eine Fachprüfung ist bestanden, wenn die Fachnote mindestens "ausreichend"
-(4,0) ist.
-(4)
-Für die Bildung der Gesamtnote der Diplomprüfung gilt $ 22. Die Gesamtnote
-lautet entsprechend Abs. 2 Satz 3.
-(5)
- Beider Bildung der Fachnoten und der Gesamtnote wird nur die erste Dezimal-
-stelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung
-gestrichen.
-8 15
-Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß,
-Prüfungsunfähigkeit
-(1)
-Eine Prüfungsleistung gilt mit "nicht ausreichend" (5,0) bewertet, wenn der
-Kandidat, nachdem er zur Prüfung zugelassen wurde, zu einem Prüfungstermin ohne
-triftige Gründe nicht erscheint oder wenn er nach Beginn der Prüfung ohne triftige
-Gründe von der Prüfung zurücktritt.
-Dasselbe gilt, wenn eine schriftliche Prüfungsleistung nicht innerhalb der vorgege-
-benen Bearbeitungszeit erbracht wird.
-2)
-Diefür den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen
-dem Prüfungsausschuß unverzüglich schriftlich angezeigt und glaubhaft gemacht
-werden. Werden die Gründe anerkannt, so setzt der Prüfungsausschuß einen neuen
-Prüfungstermin fest; dies ist in der Regel der nächstmögliche Prüfungstermin, sofern
-|
-die anerkannten Gründe dem nicht entgegenstehen. Bei anerkanritem Rücktritt oder
-|
-Versäumnis werden die bereits vorliegenden Prüfungsergebnisse angerechnet.
-(3) Versucht der Kandidat, das Ergebnis seiner Prüfungsleistungen durch Täuschung
-oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende
-|
-Prüfungsleistung als "nicht ausreichend“ (5,0) bewertet. Ein Kandidat, der den ord-
-|
-|
-```
+(4) Die sportpraktisch-didaktische Priifung gemaB § 9 kann vor dem jeweiligen in Absatz 2 festgesetzten Prifungszeitraum abgenommen werden, wenn die Zulassungsvoraussetzungen gemaf3 § 20 Abs. 1 erfullt sind. 
 
-### OCR Seite 12
+| 
 
-```
-nungsgemäßen Ablauf der Prüfung stört, kann von dem jeweiligen Prüfer oder
-Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen wer-
-den; in diesem Fall gilt die betreffende Prüfungsleistung als mit "nicht ausreichend"
-(5,0) bewertet. In schwerwiegenden Fällen kann der Prüfungsausschuß den Kandi-
-daten von der Erbringung weiterer Prüfungsleistungen ausschließen.
-(4)
-Eine vor und während der Prüfung eingetretene Prüfungsunfähigkeit muß
-unverzüglich beim Vorsitzenden des Prüfungsausschusses geltend gemacht werden.
-In Fällen krankheitsbedingter Prüfungsunfähigkeit kann der Vorsitzende des Prüfungs-
-ausschusses die Vorlage eines vertrauensärztlichen Attestes verlangen.
-(5)
-Der Kandidat kann innerhalb von einer Woche verlangen, daß die Entschei-
-dungen nach Absatz 3 Sätze
-1 und 2 vom Prüfungsausschuß überprüft werden.
-Belastende Entscheidungen sind dem Kandidaten unverzüglich schriftlich mitzuteilen,
-zu begründen und mit einer Rechtsbeheifsbelehrung zu versehen.
-8 16
-Mängel im Prüfungsverfahren
-.
-(1)
- Erweist sich, daß das Prüfungsverfahren mit Mängeln behaftet war, die das
-Prüfungsergebnis beeinflußt haben, ist auf Antrag eines Kandidaten oder von Amts
-wegen anzuordnen, daß von einem bestimmten oder von allen Kandidaten die
-Prüfung oder einzelne Teile derselben wiederholt werden. Die Mängel müssen
-unverzüglich beim Vorsitzenden des Prüfungsausschusses oder beim Prüfer geltend
-gemacht werden.
-(2)
-Sechs Monate nach Abschluß der Prüfung dürfen von Amts wegen Anord-
-nungen nach Absatz 1 nicht mehr getroffen werden.
-8 17
-Bestehen, Nichtbestehen und Bescheinigung
-von Prüfungsleistungen
-(1)
-Die Diplomprüfung ist bestanden, wenn ihre Fachprüfungen bestanden sind
-und die Diplomarbeit mindestens mit "ausreichend" (bis 4,0) bewertet wurde.
-(2)
-Die Fachprüfung gemäß 21 Abs. 2 Nr. 6, ist bestanden, wenn sie in beiden
-Bereichen mit mindestens "ausreichend” (4,0) bewertet ist.
-(3)
-Die sportpraktisch-didaktische Prüfung gemäß $ 9 Abs. 1 ist bestanden, wenn
-alle Einzelnoten wenigstens mit "ausreichend" bewertet sind. Mit wenigstens "aus-
-reichend" bewertete Prüfungsleistungen werden auf die Wiederholung der sport-
-praktisch-didaktischen Prüfung angerechnet.
-(4)
-Hat der Kandidat eine Fachprüfung nicht bestanden oder wurde die Diplom-
-arbeit mit "nicht ausreichend" (5,0) bewertet, so erteilt der Vorsitzende des Prüfungs-
-ausschusses dem Kandidaten hierüber einen schriftlichen Bescheid mit einer Rechts-
-behelfsbelehrung, der auch darüber Auskunft gibt, ob und ggf. in welchem Umfang
-12
-```
+(5) Der Prifungsausschuf3 hat sicherzustellen, daB die Fachpriifungen im Zeitraum gemaB Absatz 2 abgelegt werden kénnen. Der Priifungsbeginn wird vom Vorsitzenden des Prifungsausschusses (mit Angabe der Meldefrist fir die Bewerber) spatestens zwei Monate vorher durch ortsiblichen Aushang bekanntgegeben. Daneben kann der Prifungsausschu8 gesonderte Termine zur Durchftihrung von Wiederholungsprifungen anberaumen. 
 
-### OCR Seite 13
+(6) Die Termine der Priifungen in den einzelnen Fachern sind spatestens zwei Wochen vorher durch ortsUblichen Aushang bekanntzugeben. Die zur Prijifung zugelassenen Kandidaten sind unter Hinweis auf den Aushang spatestens eine Woche vor dem Termin der Prifung schriftlich zu laden. 
 
-```
-und in welcher Frist die Fachprüfung wiederholt werden kann.
-i
-(5)
-Hat der Kandidat die Diplomprüfung endgültig nicht bestanden, wird ihm auf
-Antrag eine schriftliche Bescheinigung ausgestellt, aus der sich das Nichtbestehen der
-Prüfung, die in den schriftlichen Prüfungsfächern erzielten Noten und die noch
-fehlenden Prüfungsleistungen ergeben.
-8 18
-Wiederholung von Fachprüfungen und der Diplomarbeit
-(1)
-Fachprüfungen oder Teile von Fachprüfungen gemäß $ 21 Abs. 2 Nr. 6, die
-nicht bestanden sind oder als nicht bestanden gelten, können einmal wiederholt
-werden. Fehlversuche an anderen Universitäten und gleichgestellten Hochschulen
-sind anzurechnen. Die freiwillige Wiederholung bestandener Fachprüfungen, der
-Diplomarbeit oder der gesamten Diplomprüfung ist nicht zulässig.
-(2)
-Die Wiederholungsprüfung soll im Rahmen dernachfolgenden Prüfungstermine
-stattfinden; sie muß spätestens innerhalb eines Jahres nach Ablauf des Prüfungsver-
-fahrens abgelegt sein. Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht
-unterbrochen. Bei Versäumnis der Frist gilt die Diplomprüfung als endgültig nicht
-bestanden, sofern nicht dem Studenten vom Prüfungsausschuß wegen besonderer,
-von ihm nicht zu vertretender Gründe eine Nachfrist gewährt wird.
-(3).
-Ist die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der
-Spätestens vier Wochen nach der Bekanntgabe der Note der Diplomarbeit zu stellen
-ist, eine einmalige Wiederholung mit neuem Thema möglich. Bei Versäumnis der Frist
-gilt die Diplomprüfung als endgültig nicht bestanden. Im übrigen gilt $ 13 entspre-
-chend.
-(4)
-Die Notender Wiederholungsprüfung ersetzen
-die Noten der vorangegangenen
-|
-Prüfung.
-|
-```
+(7) | Uberschreitet ein Student die Frist, innerhalb der er gema®B Absatz 2 die Prifung ablegen soll, um mehr als vier Semester, so gilt die Priifung als abgelegt und erstmals nicht bestanden. Dabei gilt nur der jeweils nicht rechtzeitig abgelegte oder 
 
-### OCR Seite 14
+2 
 
-```
-Zweiter Teil: Diplomprüfung
-8 19
-Zweck und Durchführung der Diplomprüfung
-(1)
-Die Diplomprüfung bildet den berufsqualifizierenden Abschluß des Studiums im
-Diplomstudiengang Sportwissenschaft mit dem Studienschwerpunkt "Sport im Er-
-wachsenen- und Seniorenalter". Durch die Diplomprüfung soll festgestellt werden, ob
-der Kandidat die Zusammenhänge des Faches überblickt und die Fähigkeit besitzt,
-wissenschaftliche Methoden und Kenntnisse anzuwenden, und das für den Ubergang
-in die Berufspraxis notwendige gründliche Fachkönnen und Fachwissen im präventi-
-ven und rehabilitativen sowie im leistungssportlich orientierten Bereich erworben hat.
-(2))
-Die Diplomprüfung beginnt am Ende der Vorlesungszeit des dritten Fachse-
-mesters des Hauptstudiums (siehe $ 3 Abs. 2).
-(3)
-Der Kandidat gibt im Antrag auf Zulassung zur Diplomprüfung (siehe $ 6 Abs.
-2) die Fächer an, in denen er - soweit Wahlmöglichkeiten bestehen- schriftlich geprüft
-werden möchte.
-8 20
-‚Fachliche Zulassungsvoraussetzungen für die Diplomprüfung
-(1)
-Zur Diplomprüfung im Fach Sportwissenschaft kann nur zugelassen werden,
-1.
-wer erfolgreich teilgenommen hat an den Lehrveranstaltungen in den
-Fächern der Sportwissenschaft
-a)
-Sportdidaktik/Sportpädagogik
-b)
-Sportmedizin
-c)
-Sportpsychologie
-e)
-Bewegungswissenschaft
-'
-f}
- Sportsoziologie
-d)
-Trainingswissenschaft
-2.
-wer erfolgreich teilgenommen hat an den Lehrveranstaltungen, die die
-Grundlagen des Studienschwerpunkts vermitteln
-a)
-gerontologische,
-psycho-gerontologische
-und
-geriatrische
-Grundlagen
-b)
-zentrale Themen des Alterns aus der Sicht der
--
-Sportdidaktik
--
-Sportpädagogik
--
-Sportpsychologie
--
-Sportökonomie
-c)
-zentrale Themen des Alterns aus der Sicht der
-14
-```
+nicht mehr rechtzeitig ablegbare Priitungsteil als abgelegt und erstmals nicht bestanden. Die Uberschreitungstrist verlangert sich um die fur die Wiederholung der Diplomvorprifung bendtigten Semester. Nach § 7 angerechnete Studienzeiten sind auf diese Frist anzurechnen. 
 
-### OCR Seite 15
+(8) | Uberschreitet der Student die Frist nach Absatz 2 aus Grunden, die er nicht zu vertreten hat, gewahrt der PriifungsausschuB auf Antrag eine Nachfrist; diese wird, sofern es die anerkannten Versdumnisgriinde zulassen, zum nadchsten regularen Prifungstermin bestimmt. 
 
-```
--
-Bewegungswissenschaft
--
-Sportmedizin
--
-Trainingslehre
-d)
-angewandte Methodenlehre
-2.
-wer regelmäßig und erfolgreich teilgenommen hat an den
-Lehrver-
-anstaltungen in den sportpraktisch-didaktischen Fächern des Studien-
-schwerpunkts
-a)
-ausdauerbetonte Sportaktivitäten
-b)
-Bewegungskünste
-c)
-Bewegungs- und Sportspiele
-d)
-Gymnastik und Körperbildung
-e)
-musisch-tänzerische Bewegungsformen
-f)}
- Sportaktvitäten in freier Natur
-g)
-rehabilitative Interventionsmaßnahmen
-4.
-wer regelmäßig und erfolgreich teilgenommen hat
-a)
-an einer Exkursion von maximal sieben Tagen
-b)
-an einem Projekt des Erwachsenen- und Seniorensports (Wissen-
-schaftliches Praktikum)
-c)
-an einem achtwöchigen Fachpraktikum im Berufsfeld des Studien-
-schwerpunktes.
-(2)
-Die Nachweise zu den Nm. 1, 2 und 4 werden in der Regel aufgrund einer
-Klausurarbeit, eines Referats oder eines Berichts, die Nachweise zu Nr. 3 aufgrund
-einer Demonstrations- bzw. Leistungsprüfung sowie einer Überprüfung der speziellen
-Fachkenntnisse erbracht; die Form des Nachweises wird zu Beginn der Lehrveranstal-
-tung vom Lehrenden festgelegt. Der Leistungsnachweis muß mindestens mit der Note
-"ausreichend" bewertet sein. Der Versuch, die Nachweise zu erwerben, kann einmal
-wiederholt werden.
-|
-82
-Umfang und Art der Diplomprüfung
-(1)
-Die Diplomprüfung besteht aus
-1.
-der Diplomarbeit
-2.
-sechs Fachprüfungen;
-(2)
-je eine Fachprüfung findet statt in
-1.
-Sportmedizin
-.
-2.
-einem der folgenden Fächer der Sportwissenschaft, das nicht schon
-|
-Gegenstand einer Fachprüfung des Vordiploms gewesen ist, nach Wahl
-des Kandidaten
-|
-|
-```
+#### §4 Prufungsausschu8 
 
-### OCR Seite 16
+(1) Fir die Organisation und die Durchfthrung der Priifungen wird ein PrifungsausschuB gebildet. Der Prifungsausschu® besteht aus fiint Mitgliedern, deren Amtszeit zwei Jahre betragt Eine Wiederbestellung ist méglich. (2) Der Vorsitzende, sein Stelivertreter und die weiteren Mitglieder des Priifungs; ausschusses werden vom Fachbereichsrat der Erziehungswissenschaftlichen Fakultat bestellt. Die Professoren verfiigen mindestens Uber die absolute Mehrheit der Stimmen. Zu Mitgliedern des Priifungsauschusses kénnen nur prufungsberechtigte Mit-. glieder der Universitat gewahit werden (§ 5 Abs. 1). 
 
-```
--
- Bewegungswissenschaft
--
-Trainingswissenschaft
-3.
-einem der folgenden Fächer der Sportwissenschaft, das nicht schon
-Gegenstand einer Fachprüfung im Vordiplom gewesen ist, nach Wahl
-des Kandidaten
--
- Sportpsychologie
--
-Sportsoziologie
-4.
-Sportdidaktik/Sportpädagogik
-5.
-den Fächern des Studienschwerpunkts entsprechend $ 20 Abs.
-1 Nr. 2 b
--
-Sportpädagogik
--
-Sportdidaktik
--
-_ Sportpsychologie
--
-_ Sportökonomie
-und entsprechend $ 20 Abs.
-i Nr. 2c
--
-_ Bewegungswissenschaft
--
-Sportmedizin
--
- Trainingslehre
-6.
-dem sportpraktisch-didaktischen Bereich und dem berufsfeldbezogenen,
-lehrpraktischen Handeln des Stuaienschwerpunkts
-(3)
-Folgende Prüfungsleistungen sind in den Fachprüfungen zu erbringen:
-1.
-in den Fachprüfungen gem. Abs. 2 Nrn.
-1 und 4 je eine Klausur mit
--
-einer Dauer von drei Stunden
-2.
-in der Fachprüfung gemäß Abs. 2 Nr. 5
-;
-a)
-eine Klausur von drei Stunden Dauer aus dem Bereich gemäß 5
-20 Abs. 1 Nr. 2b
-b)
-eine Klausur von drei Stunden Dauer aus dem Bereich gemäß $
-20 Abs. 1 Nr. 2c
-9.
-in den Fachprüfungen gem. Abs. 2 Nr. 2 und 3 eine mündliche Prüfung
-von ca. 45 Minuten Dauer
-4.
-In der Fachprüfung gem. Abs. 2 Nr. 6
-a)
-die sportpraktisch-didaktische Prüfung gemäß $ 9
-b)
-die Prüfung der Lehreignung in Sport gemäß $ 10
-(4)
-Die Prüfungsanforderungen bestimmen sich nach den Inhalten des Haupt-
-studiums im jeweiligen Fach.
-16
-```
+(3) .. Der PrifungsausschuB achtet darauf, daB die Bestimmungen dieser Prifungsordnung eingehalten werden. Mit Ausnahme der eigentlichen Prifung und deren Bewertung trifft er alle anfallenden Entscheidungen. Er erlaBt insbesondere die Prifungsbescheide, nachdem er die Bewertung der Prufungsleistungen auf ihre RechtmaBigkeit Uberprift hat. Prifungsbescheide, durch die jemand in seinen Rechten beeintrachtigt werden kann, bedirfen der Schriftform; sie sind zu begrlinden und mit einer Rechtsbehelfsbelehrung zu versehen. Dem Kandidaten ist vor Erla@ der ablehnenden Entscheidung Gelegenheit zur AuBerung zu geben. Widerspruchsbescheide erlaBt der Rektor, in fachlichen Fragen im Einvernehmen mit dem PriifungsausschuB und nach Anhérung der zustandigen Prifer. Art. 28 Abs. 1 Satz 1 Nr. 13 BayHSchG bleibt unberthrt. 
 
-### OCR Seite 17
+(4) Der PrifungsausschuB berichtet regeimaBig dem Fachbereichsrat iiber die Entwicklung der Prifungen und Studienzeiten einschlieBlich der tatsachlichen Bearbeitungszeiten fir die Diplomarbeit. Er gibt ihm ggf. Anregungen zur Anderung der Studien- und Priifungsordnung. Der PriifungsausschuB legt die Verteilung der Fachnoten und der Gesamtnoten offen. 
 
-```
-(5)
-Die Fachprüfung nach Absatz 2 Nr. 6 kann als vorgezogene Fachprüfung
-abgelegt werden.
-822
-Bildung der Gesamtnote und Zeugnis
-(1)
-Die Prüfungsgesamtnote der Diplomprüfung errechnet sich aus dem Durch-
-schnitt der gewichteten Fachnoten und der gewichteten Note der Diplomarbeit
-1.
-zu 25 % aus der Note der Diplomarbeit
-2.
-zu 30 % aus den Noten der Fächer der Sportwissenschaft $ 21 Abs. 2
-Nrn.
-1 bis 4
-3.
-zu 20 % aus der Note der Schwerpunktbezogenen Fachprüfung gemäß
-$ 21 Abs. 2 Nrn. 5
-4.
-zu 25 % aus der Note der schwerpunktbezogenen Fachprüfung gemäß
-$ 21 Abs. 2 Nr. 6
-(2)
-Über die bestandene Diplomprüfung wird ein Zeugnis ausgestellt. Hierbei soll
-eine Frist von vier Wochen ab dern Bestehen sämtlicher Prüfungsleistungen einge-
-halten werden.
-Das Zeugnis enthält
-1.
-die Noten der Fachprüfungen
-2.
-das Thema und die Note der Diplomarbeit
-3.
-die Gesamtnote
-Es gibt ferner Auskunft über den gewählten Studienschwerpunkt und das damit
-verbundene Tätigkeitsfeld.
-(3)
-Auf Antrag des Kandidaten wird die bis zum Abschluß der Diplomprüfung
-|
-. benötigte Fachstudiendauer im Zeugnis ausgewiesen.
-|
-(4)
-Das Zeugnis trägt das Datum des Tages, an dem die letzte Prüfungsleistung
-erbracht worden ist.
-|
-Diplomurkunde
-|
-(1)
-Gleichzeitig mit dem Zeugnis wird dem Kandidaten die Diplomurkunde mit dem
-|
-Datum des Zeugnisses ausgehändigt. Darin wird die Verleihung des Diplomgrades
-beurkundet. Auf Antrag kann auf der Diplomurkunde der Zusatz gem. $ 1 Abs. 2
-|
-ausgewiesen werden.
-|
-(2)
-Die Diplomurkunde wird vom Dekan der Erziehungswissenschaftlichen Fakultät
-|
-und vom Vorsitzenden des Prüfungsausschusses unterzeichnet und mit dem Siegel
-|
-der Fakultät versehen.
-|
-|
-|
-|
-```
+(5) Die Mitglieder des Priifungsausschusses haben das Recht, der Abnahme der Prifungen beizuwohnen. 
 
-### OCR Seite 18
+(6) Der PrifungsausschuB ist beschiuBfahig, wenn samtliche Mitglieder schriftlich unter Einhaltung einer Ladungsfrist von einer Woche geladen sind und die Mehrzahi der Mitglieder anwesend ist. Er beschlieBt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.. Stimmenthaltung, geheime Abstimmung und Stimmrechtstibertragung sind nicht zulassig. Bei Stinmengleichheit gibt die Stimme des Vorsitzenden 
 
-```
-18
-```
+.| 
 
-### OCR Seite 19
+| | 
 
-```
-Dritter Teil: Schliußbestimmungen
-8.24
-Ungültigkeit der Diplomprüfung
-(1)
-Hat der Kandidat bei der Prüfung getäuscht und wird diese Tatsache erst nach
-Aushändigung des Zeugnisses bekannt, so kann der Prüfungsausschuß nachträglich
-die Noten für diejenigen Prüfungsleistungen, bei deren Erbringung der Kandidat
-getäuscht hat, entsprechend berichtigen und die Prüfung ganz oder teilweise für nicht
-bestanden erklären.
-(2)
-Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt,
-ohne daf3 der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach
-Aushändigung des Zeugnisses bekannt, so wird dieser Mangel durch das Bestehen
-der Prüfung geheilt. Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, so
-|
-entscheidet der Prüfungsausschuß.
-|
-(3)
-Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Äußerung zu
-geben.
-(4)
-Das unrichtige Prüfungszeugnis ist einzuziehen und gegebenenfalls ein neues
-zu erteilen. Mit dem unrichtigen Prüfungszeugnis ist auch die Diplomurkunde ein-
-zuziehen, wenn die Prüfung aufgrund einer Täuschung für "nicht bestanden" erklärt
-wurde. Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von fünf
-Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen.
-8 25
-Einsicht in die Prüfungsakten
-Innerhalb eines Jahres nach Abschluß des Prüfungsverfahrens wird dem Kandiaten
-auf Antrag in angemessener Frist Einsicht in seine schriftlichen Prüfungsarbeiten, die
-darauf bezogenen Gutachten der Prüfer und in die Prüfungsprotokolle gewährt.
-Der Antrag ist beim Vorsitzenden des Prüfungsausschusses zu stellen. War der
-Kandidat ohne eigenes Verschulden verhindert, die Frist einzuhalten, gilt Art. 32
-Bayerisches Verwaltungsverfahrensgesetz (BayRS 2010-1-I) entsprechend.
-Der Vorsitzende des Prüfungsausschusses bestimmt Ort und Zeit der Einsichtnahme.
-8 26
-|
-Inkrafttreten
-|
-Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-|
-|
-```
+###### den Ausschlag. 
 
-### OCR Seite 20
+(7) Der Vorsitzende beruft die Sitzungen des Priffungsausschusses ein. Er ist befugt, anstelle des Prifungsausschusses unaufschiebbare Entscheidungen allein zu treffen. Hiervon hat er dem Prifungsausschu8 unverziglich Kenntnis zu geben. Dariiber hinaus kann, soweit diese Priifungsordnung nichts anderes bestimmt, der PriifungsausschuB dem Vorsitzenden die Erledigung von einzelnen Aufgaben widerruflich ubertragen. 
 
-```
-Anlage 1
-zur Prüfungsordnung der Universität Erlangen-Nürnberg für die Diplomprüfung im
-Diplomstudiengang Sportwissenschaft
-(1)
-Anforderungen in der sportpraktisch-didaktischen Prüfung gemäß 8 9
-Abs. 1 Nr. i
-1.
-Eine Überprüfung sportbereichsspezifischer Techniken (Demonstration)
-in zwei komplexen Bewegungsfolgen aus den Bereichen "Gymnastik
-und Körperbildung" und "musisch-tänzerische Bewegungsformen"
-2.
-eine Überprüfung der Spielfähigkeit (Leistung)
-in zwei der nachfolgenden Spiele aus dem Bereich "Bewegungs- und
-Sportspiele" nach Wahl des Bewerbers
--
-a)
-Badminton
-b)
-Golf
-|
-c)
-Tennis
-d)
-Tischtennis
-e)
-Volleyball
-Es können nur solche Spiele gewählt werden, die nicht Gegenstand der Vor-
-diplom-Prüfung waren.
-(2)
-Anforderungen in der sportpraktisch-didaktischen Prüfung gemäß $ 9
-Abs. 1 Nr. 2
-eine Überprüfung von sportpraktisch-didaktischen Kenntnissen durch zwei
-Klausuren von je neunzig Minuten Dauer aus
-1)
-den sportpraktisch-didaktischen Lehrveranstaltungen entsprechend 8 20
-Abs. 1INr.3a-f
-2)
-der sportpraktisch-didaktischen Lehrveranstaltung entsprechend $ 20
-Abs.
-INr.3g
-(3)
-Gewichtung der Teilnoten gemäß $ 9 Abs. 1
-Die Note gemäß $ 9 setzt sich aus den vier gleichgewichteten Noten der
-Prüfungsteile gemäß Abs. 1 Nm. 1 und 2 zusammen.
-(4)
-Gewichtung der Prüfungsteile gemäß $ 21 Abs. 3 Nr.4
-Die Note der sportpraktisch-didaktischen Prüfung gemäß $ 9 wird doppeit, die
-Note der Prüfung der Lehreignung im Sport wird einfach gewichtet.
-20
-```
+— 
 
-### OCR Seite 21
+(8) | Der AusschiuB von der Beratung und Abstimmung im PriifungsausschuB sowie von einer Prifungstatigkeit wegen persénlicher Beteiligung bestimmt sich nach Art. 50 BayHSchG. Die Pflicht der Mitglieder des Prifungsausschusses zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 4 BayHSchG. 
 
-```
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom
-15. Dezember 1993 und der Genehmigung des Bayerischen Staatsministeriums für Unterricht,
-Kultus, Wissenschaft und Kunst mit Schreiben vom 21.1.1994 Nr. X/4-6/197 510/93.
-Erlangen, den 8. Februar 1994
-\
-( Prof. Dr. G. Jasper)
-Rektor
-Die Satzung wurde am 8. Februar 1994 in der Universität Erlangen-Nürnberg niedergelegt;
-die Niederlegung wurde am 8. Februar 1994 durch Anschlag in der Universität Erlangen-
-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 8. Februar 1994.
-|
-j
-```
+#### §5 Prater und Beisitzer 
+
+| 
+
+(1) Der PrifungsausschuB bestellt die Priifer und Beisitzer. Er kann die Besteliung dem Vorsitzenden Gbertragen. Zu Prifern diirfen nur Hochschullehrer sowie nach der Hochschulprufverordnung (BayRS 2210-1-1-6-K) in der jeweils geltenden Fassung zur Abnahme von Hochschulprifungen befugte weitere Personen bestellt werden. Zum Beisitzer darf nur bestellt werden, wer die entsprechende Diplompriifung oder eine vergleichbare Prifung abgelegt hat. 
+
+(2) Der Kandidat kann fur die Diplomarbeit und die mundlichen Prifungen den Prifer oder eine Gruppe von Prifern vorschlagen. Der Vorschlag begrundet keinen Anspruch auf Bestellung. 
+
+(3) Die Bestellung zu Priifern wird durch Aushang im Institut fir Sportwissenschaft/Sportzentrum bekanntgegeben. Ein kurzfristig vor Beginn der Priifung aus zwingenden Griinden notwendig werdender Wechsel des Priifers ist zulassig. Scheidet ein prufungsberechtigtes Hochschulmitglied aus der Universitat Erlangen-Nurnberg aus, bleibt seine Prifungsberechtigung in der Regel bis zu einem Jahr erhalten. 
+
+| 
+
+(4) Fur Prifer, Beisitzer und sonstige mit Prifungsangelegenheiten befaBte Personen gilt § 4 Abs. 8 entsprechend. 
+
+#### §6 
+
+##### Allgemeine Zulassungsvoraussetzungen und Zulassungsverfahren 
+
+(1) Zur Diplomprifung an der Universitat Erlangen-Nurnberg kann nur zugelassen werden, wer 
+
+1. folgende allgemeine Zulassungsvorausetzungen erfilit: - . Zeugnis der ailgemeinen Hochschulreife oder eine als gleichwertig anerkannte Zugangsberechtigung, 
+
+- Nachweis dber die Ausbildung in Erster Hilfe gem. § 8b StVZO, - Rettungsschwimmabzeichen in Silber, 
+
+4 
+
+a 
+
+_ 
+
+   - Nachweis der erfolgreich abgelegten Sporteignungspriifung nach der QualV; 
+
+   - 2. die Diplomvorprifung im Studiengang Sportwissenschaft oder eine ihr gleichgewertete und anerkannte sonstige Prifung bestanden hat; 
+
+   - 3. die fachlichen Zulassungsvoraussetzungen entsprechend § 20 erfiiilt, die im Nachweis bestimmter Studienleistungen bestehen; 
+
+   - 4.im Diplomstudiengang Sportwissenschaft an der Universitat ErlangenNurnberg immatrikuliert ist und in diesem Studiengang in mindestens drei Semestern als Student eingeschrieben war, davon wenigstens zwei Semester an der Universitat Erlangen-Nirnberg; 
+
+- OB, unter Berlcksichtigung der gesetzlichen Uberschreitungsfristen nach Art. 81 Abs. 4 Satz 3 BayHSchG noch nicht unter die Rechtsfoige des erstmaligen Nichtbestehens der Diplompriifung bzw. von Teilen derselben fallt. 
+
+. . 
+
+(2) Der Antrag auf Zulassung zur Diplomprifung ist spatestens sechs Wochen vor Beginn der Prifung schriftlich - unter Benutzung der hierfir bestimmten Vordrucke - beim Prifungsamt einzureichen. Dem Antrag sind beizuflgen: 
+
+1. die Unterlagen nach Absatz 1 2. eine Aufstellung der Facher, auf die sich die Prifung beziehen soll und 
+
+_ die Angabe der gewiinschten Prifer, soweit dem Kandidaten ein WahlIoe, recht eingeraumt ist; 
+
+   3. eine Erklarung darliber, ob der Kandidat bereits eine Diplomprifung in demselben Studiengang endglltig nicht bestanden hat oder ob er sich 
+
+   . in einem schwebenden Prifungsverfahren befindet oder ob er unter Verlust des Prifungsanspruchs exmatrikuliert worden ist; 
+
+   4. ggf. ein Antrag, daB die mindliche Priifung unter AusschluB der Offentlichkeit stattfinden soll. 
+
+<!-- Start of picture text -->
+.<br><!-- End of picture text -->
+
+- . 
+
+- 
+
+(3) Der PritungsausschuB kann die Nachreichung von Unterlagen - insbesondere zu Absatz 1 Nr. 3.- gestatten, wenn ihre Voriage in der zu setzenden Frist nicht . méglich ist und dies hinréichend glaubhaft gemacht wird. Ist ein Kandidat ohne sein Verschulden nicht in der Lage, die erforderlichen Unterlagen in der vorgeschriebenen - - Weise zu erbringen, so kann der PriifungsausschuB gestatten, die Nachweise auf andere Art zu fuhren. (4) Soweit der Kandidat die Fachpriifung nach § 21 Abs. 2 Nr. 6 vorzieht, braucht er bei der Meldung zu dieser Priifung nur die Nachweise gemai3 § 20 Absatz 1, Nr. 3 vorzulegen. 
+
+##### Die Zulassung zur Diplomprifung ist zu versagen, wenn 
+
+1. der Bewerber die nach Absatz 1 vorgeschriebenen Zulassungsvoraussetzungen nicht erfillt; 
+
+2. die nach Absatz 2 geforderten Unterlagen unvollstandig sind; 3. der Bewerber unter Verlust des Priifungsanspruchs exmatrikuliert worden ist; 
+
+4. der Bewerber die Diplompriifung in demselben Studiengang endgiltig nicht bestanden hat. 
+
+5 
+
+(6) Uber die Zulassung entscheidet der PrufungsausschuB. Die Entscheidung liber die Zulassung ist dem Bewerber spatestens vier Wochen vor Priifungsbeginn schriftlich mitzuteilen. 
+
+(7) Der zur Priifung zugelassene Kandidat kann die Anmeldung ohne Angabe von Grinden schriftlich bis zum 14. Tag vor dem aligemeinen Beginn der Prifungen widerrufen; § 3 Abs. 7 bleibt unberthrt. §7 Anrechnung von Studienzeiten, Studien- und Priifungsieistungen 
+
+(1) Studienzeiten, Studienleistungen und Priifungsleistungen im Diplomstudiengang Sportwissenschaft' an anderen Universitaten oder einer gleichgestellten Hochschule im Geltungsbereich des Hochschulrahmengesetzes werden ohne Gleichwertigkeitsprufung anerkannt. 
+
+(2) Studienzeiten, Studienleistungen und Priifungsleistungen in anderen Studiengangen werden anerkannt, soweit die Gleichwertigkeit festgestellt ist. Die Anerkennung kann von Bedingungen abhangig gemacht werden, wenn zu einzeinen Priifungsfachern keine volle Gleichwertigkeit nachgewiesen ist. Gleichwertigkeit wird festgestellt, wenn Studienzeiten, Studienleistungen und Prifungsieistungen in Inhalt, Umfang und Anforderungen denjenigen des Studiums im Diplomstudiengang Sportwissenschaft der Universitat Erlangen-Niimberg entsprechen. Dabei wird kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorgenommen. Fir die Gleichwertigkeit von Studienzeiten, Studienleistungen und Priifungsleistungen, die auBerhalb des Geltungsbereichs des Hochschuirahmengesetztes erbracht wurden, sind die von. der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Aquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maBgebend. Soweit Aquivalenzvereinbarungen nicht vorliegen, entscheidet der PrifungsausschuB. Im Ubrigen kann bei Zweifeln an der Gleichwertigkeit die Zentralstelle far auslandisches Bildungswesen bei der Standigen Konferenz der Kultusminister der Lander gehért werden. 
+
+(3) . Eine Anerkennung von Teilen der Diplompriifung bzw. die Anrechnung von Priifungsleistungen auf die Diplompriifung ist zulassig, wenn die Vorschriften dieser Prifungsordnung nicht umgangen werden, insbesondere der Grundsatz der Chancengleichheit nicht verletzt wird. 
+
+(4) Im Zeugnis werden die Noten angerechneter Prifungen aufgefiihrt und bei der Gesamtnotenbildung beriicksichtigt, wenn sie entsprechend § 14 gebildet wurden. Die lbernommenen Noten werden gekennzeichnet und die Tatsache der Ubernahme im Zeugnis vermerkt. Entspricht das Notensystem der angerechneten Priifung § 14 nicht, 
+
+* Als Diplomstudiengang Sportwissenschaft gilt nur derjenige, der der "Rahmenordnung fiir die Diplomprtifung im Studiengang Sportwissenschaft - an Universitaten und gleichgestellten Hochschulen -" (beschlossen von der Kultusminister- und Hochschulrektorenkonferenz im Jahr 1992) unterliegt. 
+
+6 
+
+wird in dem Zeugnis nur ein Anerkennungsvermerk "bestanden" und beim Gesamturteil der Vermerk “mit Erfolg abgelegt" aufgenommen. Eine Notenwiedergabe in angerechneten Fachern, eine Notenumrechnung sowie eine Gesamtnotenbildung erfoigen nicht. In diesem Fall wird dem Zeugnis ein Auszug aus dieser Prifungsordnung (§ 7) beigegeben. 
+
+(5) Bei Vorliegen der Voraussetzungen der Absatze 1 bis 4 besteht ein Rechtsanspruch auf Anerkennung bzw. Anrechnung. Der Student hat die fir die Anerkennung beziehungsweise Anrechnung erforderlichen Unterlagen vorzulegen. Die Entscheidung Uber die Anerkennung trifft der Vorsitzende des Prufungsauschusses in den Failen gema® der Absatze 2 bis 4 auf Antrag; die Entscheidung ergeht schrittlich. 
+
+- (6) Einschlagige berufspraktische Tatigkeiten werden anerkannt. 
+
+§ 8 Arten der Priifungsleistungen , 
+
+- (1) Priifungsleistungen in der Diplompriifung sind: 
+
+. 
+
+1. die sportpraktisch-didaktische Prifung (§ 9) 2. die Prifung der Lehreignung im Sport (§ 10) 
+
+- & die mundlichen Priifungen (§ 11) 
+
+» 4, die schriftlichen Priifungen unter Aufsicht (Klausuren) (§ 12) 
+
+~ §, die Diplomarbeit (§ 13) 
+
+##### § 9 . Sportpraktisch-didaktische Priifung 
+
+- (1) Die sportpraktisch-didaktische Priifung besteht aus zwei Priifungsteilen: - einer praktischen und - einer theoretischen Priifung; 
+
+   1. die praktische Prifung besteht aus - _ einer Uberprifung sportbereichsspezifischer Techniken - einer Uberpriifung der Spielfahigkeit 
+
+   2. die theoretische Priifung besteht aus einer Uberprtifung_ sportpraktischdidaktischer Kenntnisse durch zwei Klausuren. 
+
+Sie erstreckt sich auf die Prifungsteile gemaB der Anlage 1 zu dieser Priifungsordnung. 
+
+(2) Die Note der sportpraktisch-didaktischen Priifung setzt sich aus den Einzelnoten der Prifungsteile zusammen, deren Gewichtung in der Anlage 1 zu dieser Prufungsordnung festgelegt ist. 
+
+(3) | Wertungskriterien zur Bewertung der Prifungsteile der sportpraktisch-didaktischen Prifung werden rechtzeitig vor Priifungsbeginn durch Aushang im Institut fir 
+
+7 
+
+###### Sportwissenschaft/Sportzentrum bekanntgegeben. 
+
+(4) Jeder einzeine Prifungsteil einer sportpraktisch-didaktischen Prifung wird von zwei Prufern bewertet. 
+
+##### § 10 Priifung der Lehreignung im Sport 
+
+(1) Die Prifung der Lehreignung im Sport erfolgt durch eine Lehrprobe von ca. 45 Minuten Dauer. Sie wird durch mindestens zwei Priifer abgenommen. 
+
+(2) Die Aufgabe der Lehrprobe stellen die Prifer gemeinsam, indem sie dem Kandidaten das Thema, zu dem er die Lehrprobe erbringen soll, spatestens acht Tage vor der Prifung mitteilen. Der geplante Ablauf der Lehrprobe wird vom Kandidaten schriftlich ausgearbeitet und mindestens einen Tag vor deren Beginn an die Prifer ausgehandigt. 
+
+(3) Die Gewichtung der Note der Prifung der Lehreignung ist in der Anlage 1 zu dieser Prifungsordnung festgelegt. 
+
+###### § 11 
+
+##### Mindliche Priifungen 
+
+(1) In den mindlichen Priifungen soll der Kandidat nachweisen, daBB er die Zusammenhange des Prifungsgebietes erkennt und spezielle Fragestellungen in diese Zusammenhange einzuordnen vermag. Durch die mUundlichen Priifungen soll ferner festgestellt werden, ob der Kandidat Uber ein breites Grundlagenwissen verfigt. Die Kandidaten kénnen dartiber hinaus in von ihnen benannten eingegrenzten Themen (Vertiefungsgebieten) gepriift werden. 
+
+(2) MbUndliche Prifungen werden in der Regel vor mindestens zwei Priifern (Kollegialpruéfung) oder vor einem Priifer in Anwesenheit eines sachkundigen Beisitzers abgelegt. Hierbei wird jeder Kandidat in einem Prifungsfach grunds@tzlich nur von einem Prifer geprift. 
+
+(3) Uber die mindliche Prifung ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Dauer der Priifung, Gegenstand und Ergebnis der Priifung, die Namen der Prifer, des Beisitzers und des Kandidaten sowie besondere Vorkommnisse. Das Protokoll wird von einem Priifer oder vom Beisitzer gefiihrt und von den Prifern beziehungsweise vom Priifer und von dem Beisitzer unterzeichnet. Die Wiedergabe von Prifungsfragen und Antworten ist nicht erforderlich. Das Protokoll ist mindestens zwei Jahre aufzubewahren. 
+
+(4) Studenten, die sich in einem spateren Termin der gleichen Prifung unterziehen wollen, kK6nnen nach MaBgabe der raumlichen Verhaltnisse als Zuhérer zugelassen 
+
+8 
+
+werden, es sei denn, der Kandidat widerspricht. Die Zulassung erstreckt sich nicht auf die Beratung und Bekanntgabe des Prtifungsergebnisses. 
+
+###### § 12 Klausuren 
+
+(1) In den Klausuren soil der Kandidat nachweisen, daB er in begrenzter Zeit und mit begrenzten Hilfsmittein mit den gangigen Methoden seines Faches ein Problem erkennen und Wege zu einer Lésung finden und angemessen sprachlich darstellen kann. 
+
+(2) _ Klausuren sind in der Regel von zwei Priifern zu bewerten. Von der Bewertung durch einen Zweitprifer kann abgesehen werden, wenn kein zweiter Prifungsbefugter zur Verflgung steht oder wenn die Bestellung eines zweiten Prifers den Ablauf der Prifung in unvertretbarer Weise vorzégern wide. Soll eine Arbeit mit der Note "nicht ausreichend" bewertet werden, mu ein zweiter Priifer bestellt werden. Der PriifungsausschuB stellt zu Beginn des Priifungstermins fest, ob ein zweiter Priifer vorhanden ist, oder ob durch Benennung eines Zweitpriters mit einer unzumutbaren Verzégerung des Prifungsablaufs zu rechnen ist. 
+
+###### § 13 Diplomarbeit 
+
+(1) Die Diplomarbeit ist eine Priiftungsarbeit, die die wissenschaftliche Ausbildung abschlieBt. Sie soll zeigen, da der Kandidat in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Bereich der Sportwissenschatt selbstandig mit wissenschaftlichen Methoden zu bearbeiten. 
+
+(2) Die Diplomarbeit kann von jedem Hochschullehrer, der ein sportwissenschaftliches Fach an der Universitat Erlangen-Nurnberg vertritt, ausgegeben und betreut werden. Die Vergabe der Diplomarbeit durch einen anderen Hochschullehrer bzw. durch eine andere prifungsberechtigte Person (siehe § 5 Abs. 1) bedarf der Zustimmung des Priifungsausschusses. Soll die Diplomarbeit in einer Einrichtung auBerhalb der Universitat Erlangen-Nirnberg durchgefiihrt werden, ist die Zustimmung des Vorsitzenden des Priifungsausschusses ndtig. Dieser hat das Einverstandnis des Betreuers und eine Erklarung dartiber einzuholen, daB eine ordnungsgema®e Betreuung der Arbeit mdglich ist. Dem Kandidaten ist Gelegenheit zu geben, fir das Thema der Diplomarbeit Vorschlage zu machen. (3) Der Kandidat hat dafiir zu sorgen, daf3 er am Ende des dritten Semesters des Hauptstudiums ein Thema fur die Diplomarbeit erhait. Gelingt inm dies nicht, hat er beim Vorsitzenden des Priifungsausschusses zu beantragen, daf3 er unverziiglich ein Thema fir die Diplomarbeit erhalt. Die Ausgabe des Themas erfolgt iber den Vorsitzenden des Prifungsausschusses. Der Zeitpunkt der Ausgabe ist aktenkundig zu machen. Das Thema der Diplomarbeit soll aus einem Bereich des Studienschwerpunktes entnommen werden. 
+
+(4) Die Diplomarbeit kann auch in Form einer Gruppenarbeit zugelassen werden, 
+
+9 
+
+wenn der als Priifungsleistung zu bewertende Beitrag des einzeinen Kandidaten auf Grund der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgrenzung ermdéglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfiillt. 
+
+(5) Die Bearbeitungszeit fiir die Diplomarbeit darf vier Monate nicht tberschreiten. Thema und Aufgabenstellung der Diplomarbeit miissen so lauten, daB die zur Bearbeitung vorgegebene Frist eingehalten werden kann. Das Thema der Diplomarbeit kann nur einmal und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zuruickgegeben werden. Auf begriindeten Antrag des Kandidaten kann die Bearbeitungszeit durch den PrifungsauschuB ausnahmsweise um héchstens drei Monate verlangert werden. Weist der Kandidat durch 4rztliches Zeugnis nach, daB er durch Krankheit an der Bearbeitung gehindert war, ruht die Bearbeitungsfrist. 
+
+(6) Die Diplomarbeit ist in drei Exempiaren fristgema8 beim Prifungsamt abzuliefern. Der Abgabezeitpunkt ist aktenkundig zu machen. Die Diplomarbeit soll gebunden sein und eine Zusammenfassung enthalten. Bei der Abgabe der Diplomarbeit hat der Kandidat schriftlicn zu versichern, daB er seine Arbeit - bei einer Gruppenarbeit seinen entsrechend gekennzeichneten Anteil der Arbeit - selbstandig verfaBt und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt hat. Wird die Dipiomarbeit nicht fristgema&B abgeliefert, wird sie mit “nicht ausreichend" (5,0) bewertet. 
+
+(7) Die Dipiomarbeit ist von zwei Priifern zu bewerten. Erstgutachter soll derjenige sein, der das Thema der Arbeit gestellt hat. Bei unterschiedlicher Beurteilung gilt als die Note der Diplomarbeit der Durchschnitt der Noten beider Priifer. Hat nur ein Prifer die Diplomarbeit mit "nicht ausreichend” bewertet oder weichen die Noten um zwei oder mehr Notenstufen voneinander ab, setzt der PrifungsausschuB die Note nach Anhérung eines dritten Prifers fest. 
+
+##### § 14 Bewertung der Priifungsleistungen und Bildung der Fachnoten 
+
+(1) | Die Noten fur die einzelnen Prifungsleistungen werden von den jeweiligen Prifern festgesetzt. Fir die Bewertung der Priifungsleistungen werden folgende Noten und Pradikate verwendet: 
+
+- 1,0; 1,3 = sehr gut = eine hervorragende Leistung; 1,7; 2,0; 2,3 = gut = eine Leistung, die erheblich Uber den durchschnittlichen Anforderungen liegt; 
+
+- 2,7; 3,0; 3,3 = befriedigend = eine Leistung, die durchschnittlichen Anforderungen entspricht 
+
+- 3,7; 4,0 = ausreichend = eine Leistung, die trotz ihrer Mangel noch den Anforderungen genigt; 
+
+- 5,0 = nicht ausreichend = eine Leistung, die wegen erheblicher Mangel den Anforderungen nicht mehr gentgt. 
+
+10 
+
+; 
+
+Wird eine Prifungsleistung von zwei Priifern bewertet, versuchen die Priifer, sich auf eine Note zu einigen; kommt sine Einigung nicht zustande, werden die Noten gemittelt und auf die naherliegende Note gerundet; dabei wird nur die erste Stelle hinter dem Komma beriicksichtigt, alle weiteren Stellen werden ohne Rundung gestrichen. Liegt der Mittelwert genau zwischen zwei Noten, wird auf die bessere Note gerundet. 
+
+(2) Besteht eine Fachpriifung aus mehreren Leistungen, errechnet sich die Fachnote aus dem Durchschnitt der Noten der einzelnen Prufungsieistungen. Abweichend von Satz 1 dieses Absatzes gehen in die Note der Fachpriifungen gem. § 21 Abs. 2 Nr. 6 die Noten der sportpraktisch-didaktischen Prifungen dreifach, der Priifung der Lehreignung im Sport einfach ein. Die Fachnote lautet bei einem Durchschnitt bis 1,5 = sehr gut; bei einem Durchschnitt Uber 1,5 bis 2,5 = gut; bei einem Durchschnitt uber 2,5 bis 3,5 = befriedigend; bei einem Durchschnitt Uber 3,5 bis 4,0 = ausreichend; bei einem Durchschnitt Uber 4,0 = nicht ausreichend. 
+
+(3) Eine Fachpriifung ist bestanden, wenn die Fachnote mindestens “ausreichend" (4,0) ist. 
+
+(4) Fur die Bildung der Gesamtnote der Diplomprifung gilt § 22. Die Gesamtnote lautet entsprechend Abs. 2 Satz 3. 
+
+(5) Bei der Bildung der Fachnoten und der Gesamtnote wird nur die erste DezimalStelle hinter dem Komma beriicksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen. Versaumnis, § 15 Ricktritt, Tauschung, OrdnungsverstoRB, Prifungsunfahigkeit 
+
+(1) Eine Prifungsteistung gilt mit "nicht ausreichend" (5,0) bewertet, wenn der Kandidat, nachdem er zur Priifung zugelassen wurde, zu einem Priifungstermin ohne triftige Griinde nicht erscheint oder wenn er nach Beginn der Prifung ohne triftige Gruinde von der Priifung zuricktritt. Dasselbe gilt, wenn eine schriftliche Prufungsleistung nicht innerhalb der vorgegebenen Bearbeitungszeit erbracht wird. 
+
+(2) Die fiir den Ritcktritt oder das Versaumnis geltend gemachten Griinde miissen dem PrifungsausschuB unverziiglich schriftlich angezeigt und glaubhaft gemacht werden. Werden die Griinde anerkannt, so setzt der PrufungsausschuB einen neuen Priifungstermin fest; dies ist in der Regel der nachstmégliche Priifungstermin, sofern die anerkannten Griinde dem nicht entgegenstehen. Bei anerkannitem Rucktritt oder Versaumnis werden die bereits vorliegenden Prifungsergebnisse angerechnet. (3) Versucht der Kandidat, das Ergebnis seiner Prifungsieistungen durch Tauschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prifungsleistung als "nicht ausreichend" (5,0) bewertet. Ein Kandidat, der den ord- 
+
+| | 
+
+—_ 
+
+nungsgemaBen Ablauf der Prifung stért, kann von dem jeweiligen Prifer oder Aufsichtsfuhrenden von der Fortsetzung der Priifungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prifungsleistung als mit "nicht ausreichend" (5,0) bewertet. In schwerwiegenden Fallen kann der PriifungsausschuB den Kandidaten von der Erbringung weiterer Prifungsleistungen ausschlieBen. 
+
+(4) Eine vor und wahrend der Prifung eingetretene Priifungsuntahigkeit muB unverzuglich beim Vorsitzenden des Priifungsausschusses geltend gemacht werden. In Fallen krankheitsbedingter Prifungsunfahigkeit kann der Vorsitzende des Priifungsausschusses die Vorlage eines vertrauensarztlichen Attestes verlangen. 
+
+(5) Der Kandidat kann innerhalb von einer Woche verlangen, da8 die Entscheidungen nach Absatz 3 Satze 1 und 2 vom PriiftungsausschuB Uberpriift werden. Belastende Entscheidungen sind dem Kandidaten unverztliglich schriftlich mitzuteilen, zu begrUnden und mit einer Rechtsbehelfsbelehrung zu versehen. 
+
+§ 16 Mange! im Prifungsverfahren 
+
+(1) Erweist sich, daB das Priifungsverfahren mit Mangeln behaftet war, die das Prifungsergebnis beeinfluBt haben, ist auf Antrag eines Kandidaten oder von Amts wegen anzuordnen, daf von einem bestimmten oder von allen Kandidaten die Prifung oder einzelne Teile derselben wiederholt werden. Die M&angel missen unverztiglich beim Vorsitzenden des Prifungsausschusses oder beim Prifer geltend gemacht werden. 
+
+(2) | Sechs Monate nach AbschiuB der Prifung dirfen von Amts wegen Anordnungen nach Absatz 1 nicht mehr getroffen werden. 
+
+##### § 17 Bestehen, Nichtbestehen und Bescheinigung von Prifungsleistungen 
+
+(1) Die Diplomprifung ist bestanden, wenn ihre Fachprtifungen bestanden sind und die Diplomarbeit mindestens mit "ausreichend" (bis 4,0) bewertet wurde. 
+
+(2) Die Fachprifung gemaB 21 Abs. 2 Nr. 6, ist bestanden, wenn sie in beiden Bereichen mit mindestens “ausreichend* (4,0) bewertet ist. 
+
+(3) Die sportpraktisch-didaktische Priifung gemaB § 9 Abs. 1 ist bestanden, wenn alle Einzelnoten wenigstens mit “ausreichend" bewertet sind. Mit wenigstens “ausreichend" bewertete Priifungsleistungen werden auf die Wiederholung der sportpraktisch-didaktischen Prifung angerechnet. 
+
+(4) Hat der Kandidat eine Fachpriifung nicht bestanden oder wurde die Diplomarbeit mit "nicht ausreichend” (5,0) bewertet, so erteilt der Vorsitzende des Priifungsausschusses dem Kandidaten hieriiber einen schriftlichen Bescheid mit einer Rechtsbehelfsbelehrung, der auch dartiber Auskunft gibt, ob und ggf. in welchem Umfang 
+
+12 
+
+## und in welcher Frist die Fachprifung wiederholt werden kann. 
+
+(5) Hat der Kandidat die Diplomprtifung endgiltig nicht bestanden, wird ihm auf Antrag eine schriftliche Bescheinigung ausgestelit, aus der sich das Nichtbestehen der Prifung, die in den schriftlichen Prifungsfachern erzielten Noten und die noch fehienden Prifungsleistungen ergeben. Wiederholung § 18 von Fachpriifungen und der Diplomarbeit 
+
+(1) Fachpriifungen oder Teile von Fachprifungen gemaB § 21 Abs. 2 Nr. 6, die nicht bestanden sind oder als nicht bestanden gelten, kénnen einmal wiederholt werden. Fehiversuche an anderen Universitaten und gleichgestellten Hochschulen Sind anzurechnen. Die freiwillige Wiederholung bestandener Fachprifungen, der Diplomarbeit oder der gesamten Diplompriifung ist nicht zulassig. (2) Die Wiederholungspriifung soll im Rahmen der nachfolgenden Prifungstermine Stattfinden; sie muB spatestens innerhalb eines Jahres nach Ablauf des Priifungsverfahrens abgelegt sein. Diese Frist wird durch Beurlaubung oder Exmatrikulation nicht unterbrochen. Bei Versdumnis der Frist gilt die Diplompriifung als endgiltig nicht bestanden, sofern nicht dem Studenten vom PrifungsausschuB wegen besonderer, von ihm nicht zu vertretender Griinde eine Nachfrist gewahrt wird. (3). Ist die Diplomarbeit mit "nicht ausreichend" bewertet, so ist auf Antrag, der Spatestens vier Wochen nach der Bekanntgabe der Note der Diplomarbeit zu stellen ist, eine einmalige Wiederholung mit neuem Thema méglich. Bei Versaumnis der Frist chend.gilt die Diplompriifung als endglitig nicht bestanden. tm Ubrigen gilt § 13 entspre- 
+
+> (4) Die Noten der Wiederholungsprifung ersetzen Prifung. die Noten der vorangegangenen 
+
+. | 
+
+| 
+
+#### Zweiter Teil: Diplomprufung 
+
+##### § 19 Zweck und Durchfithrung der Diplompriifung 
+
+(1) Die Diplompriifung bildet den berufsqualifizierenden AbschiuB des Studiums im Diplomstudiengang Sportwissenschaft mit dem Studienschwerpunkt "Sport im Erwachsenen- und Seniorenalter". Durch die Diplomprtifung soll festgestellt werden, ob der Kandidat die Zusammenhange des Faches Uberblickt und die Fahigkeit besitzt, wissenschaftliche Methoden und Kenntnisse anzuwenden, und das fir den Ubergang in die Berufspraxis notwendige griindliche Fachkénnen und Fachwissen im praventiven und rehabilitativen sowie im leistungssportlich orientierten Bereich erworben hat. 
+
+(2)) Die Diplompriifung beginnt am Ende der Vorlesungszeit des dritten Fachse-. mesters des Hauptstudiums (siehe § 3 Abs. 2). 
+
+(3) Der Kandidat gibt im Antrag auf Zulassung zur Dipiompriifung (siehe § 6 Abs. 2) die Facher an, in denen er - soweit WahIméglichkeiten bestehen - schriftlich gepruft werden mochte. . 
+
+§ 20 
+
+##### -Fachliche Zulassungsvoraussetzungen fiir die Diplomprifung 
+
+- (1) | Zur Diplomprifung im Fach Sportwissenschaft kann nur zugelassen werden, 
+
+   1. wer erfolgreich teilgenommen hat an den Lehrveranstaltungen in den Fachern der Sportwissenschaft 
+
+      - a) Sportdidaktik/Sportpadagogik b} Sportmedizin c) Sportpsychologie e) Bewegungswissenschaft f) Sportsoziologie d) Trainingswissenschaft 
+
+   2. wer erfolgreich teilgenommen hat an den Lehrveranstaltungen, die die Grundlagen des Studienschwerpunkts vermittein 
+
+      - a) gerontologische, psycho-gerontologische und geriatrische Grundlagen 
+
+      - b) zentrale Themen des Alterns aus der Sicht der 
+
+- Sportdidaktik - Sportpadagogik - Sportpsychologie - Sportékonomie 
+
+c) zentrale Themen des Alterns aus der Sicht der 
+
+14 
+
+- Bewegungswissenschaft - Sportmedizin - Trainingslenre 
+
+###### d) angewandte Methodenlehre 
+
+3. wer regeimaBig und erfolgreich teilgenommen hat an den Lehrveranstaltungen in den sportpraktisch-didaktischen Fachern des Studienschwerpunkts 
+
+- a) ausdauerbetonte Sportaktivitaten 
+
+, 
+
+   - b) Bewegungsktnste c) Bewegungs- und Sportspiele 
+
+   - d) Gymnastik und Kérperbildung 
+
+   - €) musisch-tanzerische Bewegungsformen f) Sportaktvitaten in freier Natur g) rehabilitative InterventionsmaBnahmen 
+
+4. wer regelmafig und erfolgreich teilgenommen hat 
+
+   - a) an einer Exkursion von maximal sieben Tagen 
+
+   - b) an einem Projekt des Erwachsenen- und Seniorensports (Wissenschaftliches Praktikum) 
+
+   - c) aneinem achtwéchigen Fachpraktikum im Berufsfeid des Studienschwerpunktes. 
+
+(2) Die Nachweise zu den Nm. 1, 2 und 4 werden in der Regel aufgrund einer Klausurarbeit, eines Referats oder eines Berichts, die Nachweise zu Nr. 3 aufgrund einer Demonstrations- bzw. Leistungsprtifung sowie einer Uberpriifung der spezietien Fachkenntnisse erbracht; die Form des Nachweises wird zu Beginn der Lehrveranstaltung vom Lehrenden festgelegt. Der Leistungsnachweis muB mindestens mit der Note “ausreichend" bewertet sein. Der Versuch, die Nachweise zu erwerben, kann einmal wiederholt werden. 
+
+# | «§2t Umfang und Art der Diplompriifung 
+
+###### (1) Die Diptompriifung besteht aus 
+
+   1. der Diplomarbeit 2. sechs Fachpriifungen; 
+
+- (2) je eine Fachprifung findet statt in 
+
+   1. Sportmedizin 
+
+: 
+
+2. einem der folgenden Facher der Sportwissenschaft, das nicht schon Gegenstand einer Fachprifung des Vordiploms gewesen ist, nach Wah! des Kandidaten 
+
+: | | 
+
+   - | Bewegungswissenschaft 
+
+   - - Trainingswissenschaft 
+
+3. einem der folgenden Facher der Sportwissenschaft, das nicht schon Gegenstand einer Fachprufung im Vordiplom gewesen ist, nach Wahi des Kandidaten 
+
+   - Sportpsychologie 
+
+   - Sportsoziologie 
+
+4. Sportdidaktik/Sportpadagogik 
+
+5. den Fachern des Studienschwerpunkts entsprechend § 20 Abs. 1 Nr. 2 b 
+
+- Sportpadagogik - Sportdidaktik - Sportpsychologie - Sportékonomie 
+
+und entsprechend § 20 Abs. 1 Nr. 2 ¢ 
+
+      - | Bewegungswissenschaft 
+
+      - - Sportmedizin 
+
+      - Trainingslehre 
+
+   6. dem sportpraktisch-didaktischen Bereich und dem berufsfeldbezogenen, lehrpraktischen Handeln des Studienschwerpunkts 
+
+- (3) Folgende Prifungsleistungen sind in den Fachprifungen zu erbringen: 
+
+   1. in den Fachpriifungen gem. Abs. 2 Nrn. 1 und 4 je eine Klausur mit 
+
+   ; einer Dauer von drei Stunden 2. in der Fachprifung gemaf3 Abs. 2 Nr. 5 
+
+. 
+
+   - a) eine Klausur von drei Stunden Dauer aus dem Bereich gemaB § 20 Abs. 1 Nr. 2b 
+
+   - b) eine Klausur von drei Stunden Dauer aus dem Bereich gemaB § 20 Abs. 1 Nr. 2c 
+
+3. in den Fachpriifungen gem. Abs. 2 Nr. 2 und 3 eine mindliche Prifung von ca. 45 Minuten Dauer 
+
+4. In der Fachprtifung gem. Abs. 2 Nr. 6 
+
+   - a) die sportpraktisch-didaktische Prufung gemaB § 9 b) die Priifung der Lehreignung in Sport gemaB § 10 
+
+(4) Die Prifungsanforderungen bestimmen sich nach den Inhaiten des Hauptstudiums im jeweiligen Fach. 
+
+16 
+
+abgelegt(5) | Diewerden.Fachpriiftung nach Absatz 2 Nr. 6 kann als vorgezogene Fachpriifung 
+
+| | | | | 
+
+### § 22 Bildung der Gesamtnote und Zeugnis 
+
+(1) Die Prifungsgesamtnote der Diplomprtfung errechnet sich aus dem Durchschnitt der gewichteten Fachnoten und der gewichteten Note der Diplomarbeit 
+
+1. Zu 25 % aus der Note der Dipiomarbeit 2. Zu 30 % aus den Noten der Facher der Sportwissenschaft § 21 Abs. 2 Nrn. 1 bis 4 
+
+3. Zu 20 % aus der Note der schwerpunktbezogenen Fachprtifung gemaB § 21 Abs. 2 Nrn. 5 
+
+4. Zu 25 % aus der Note der schwerpunktbezogenen Fachpriifung gemaB § 21 Abs. 2 Nr. 6 
+
+(2) Uber die bestandene Diplompriifung wird ein Zeugnis ausgestelit. Hierbei soll halteneine Fristwerden. von vier Wochen ab dem Bestehen samtlicher Prifungsleistungen einge- 
+
+##### Das Zeugnis enthalt 
+
+1. die Noten der Fachprifungen 2. das Thema und die Note der Diplomarbeit 3. die Gesamtnote 
+
+Es gibt ferner Auskunft Uber den gewahiten Studienschwerpunkt und das damit verbundene TAatigkeitsfeld. . (3) Auf Antrag des Kandidaten wird die bis zum AbschluB der Diplomprtifung bendtigte Fachstudiendauer im Zeugnis ausgewiesen. erbracht(4) Dasworden Zeugnisist. tragt das Datum des Tages, an dem die letzte Prifungsieistung 
+
+# Diplomurkunde 
+
+(1) Gleichzeitig mit dem Zeugnis wird dem Kandidaten die Diplomurkunde mit dem Datum des Zeugnisses ausgehandigt. Darin wird die Verleihung des Diplomgrades beurkundet. Auf Antrag kann auf der Diplomurkunde der Zusatz gem. § 1 Abs. 2 ausgewiesen werden. (2) Die Diplomurkunde wird vom Dekan der Erziehungswissenschaftlichen Fakultat und vom Vorsitzenden des Prufungsausschusses unterzeichnet und mit dem Siegel der Fakultaét versehen. 
+
+<!-- Start of picture text -->
+i<br>|<br><!-- End of picture text -->
+
+18 
+
+| 
+
+. 
+
+## Dritter Teil: SchluBbestimmungen 
+
+##### § 24 Unguitigkeit der Diplompriifung 
+
+(1) Hat der Kandidat bei der Prufung getauscht und wird diese Tatsache erst nach Aushandigung des Zeugnisses bekannt, so kann der PrifungsausschuB nachtraglich die Noten fur diejenigen Prifungsleistungen, bei deren Erbringung der Kandidat getauscht hat, entsprechend berichtigen und die Prufung ganz oder teilweise flr nicht bestanden erklaren. 
+
+(2) | Waren die Voraussetzungen fir die Zulassung zu einer Priifung nicht erfillt, ohne daB der Kandidat hiertiber tauschen wollte, und wird diese Tatsache erst nach Aushandigung des Zeugnisses bekannt, so wird dieser Mange! durch das Bestehen der Priifung geheilt. Hat der Kandidat die Zulassung vorsatzlich zu Unrecht erwirkt, so entscheidet der PrifungsausschuB. 
+
+(3) | Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur AuBerung zu geben. 
+
+(4) Das unrichtige Prifungszeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. Mit dem unrichtigen Prifungszeugnis ist auch die Diplomurkunde einzuziehen, wenn die Priifung aufgrund einer Tauschung flr “nicht bestanden" erklart wurde. Eine Entscheidung nach Abs. 1 und Abs. 2 Satz 2 ist nach einer Frist von flint Jahren ab dem Datum des Priifungszeugnisses ausgeschlossen. 
+
+§ 25 Einsicht in die Priifungsakten 
+
+innerhalb eines Jahres nach AbschluB des Prufungsverfahrens wird dem Kandiaten auf Antrag in angemessener Frist Einsicht in seine schriftlichen Prifungsarbeiten, die darauf bezogenen Gutachten der Priifer und in die Prufungsprotokolle gewahrt. Der Antrag ist beim Vorsitzenden des Prifungsausschusses zu stellen. War der Kandidat ohne eigenes Verschulden verhindert, die Frist einzuhalten, gilt Art. 32 Bayerisches Verwaltungsverfahrensgesetz (BayRS 2010-1-l) entsprechend. Der Vorsitzende des Prtifungsausschusses bestimmt Ort und Zeit der Einsichtnahme. 
+
+§ 26 Inkrafttreten 
+
+Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
+
+. | | 
+
+| 
+
+. , 
+
+#### Anlage 1 
+
+zur Prifungsordnung der Universitat Erlangen-Nurnberg fir die Diplompriifung im Diplomstudiengang Sportwissenschaft 
+
+- (1) Anforderungen in der sportpraktisch-didaktischen Prifung gemaB § 9 Abs. 1 Nr. 1 
+
+   1. Eine Uberpriifung sportbereichsspezifischer Techniken (Demonstration) in zwei kompiexen Bewegungsfolgen. aus den Bereichen "Gymnastik und Kérperbiidung" und "musisch-tanzerische Bewegungsformen" 
+
+   2. eine Uberprifung der Spielfahigkeit (Leistung) in zwei der nachfolgenden Spiele aus dem Bereich "Bewegungs- und Sportspieie" nach Wahl des Bewerbers 
+
+      - a) Badminton b) Golf c) Tennis 
+
+         - d) Tischtennis e) Volleyball 
+
+Es kénnen nur soiche Spiele gewahit werden, die nicht Gegenstand der Vordipiom-Priifung waren. 
+
+- (2) Anforderungen in der sportpraktisch-didaktischen Prufung gemaBs § 9 Abs. 1 Nr. 2 
+
+eine Uberpriifung von sportpraktisch-didaktischen Kenntnissen durch zwei Klausuren von je neunzig Minuten Dauer aus 
+
+- 1) den sportpraktisch-didaktischen Lehrveranstaltungen entsprechend § 20 Abs..1 Nr. 3 a- f 
+
+- 2) der sportpraktisch-didaktischen Lehrveranstaltung entsprechend § 20 Abs. 1 Nr. 3g 
+
+#### (3) | Gewichtung der Teilnoten gemaB § 9 Abs. 1 
+
+Die Note gemaB § 9 setzt sich aus den vier gleichgewichteten Noten der Priifungsteile gemaB Abs. 1 Nrn. 1 und 2 zusammen. 
+
+- (4) Gewichtung der Priifungsteile gemaf § 21 Abs. 3 Nr.4 
+
+Die Note der sportpraktisch-didaktischen Prifung gemaf § 9 wird doppelt, die Note der Priifung der Lehreignung im Sport wird einfach gewichtet. 
+
+20 
+
+| i 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitit Erlangen-Niirnberg vom 15. Dezember 1993 und der Genehmigung des Bayerischen Staatsministeriums fiir Unterricht, Kultus, Wissenschaft und Kunst mit Schreiben vom 21.1.1994 Nr. X/4-6/197 510/93. 
+
+Erlangen, den 8. Februar 1994 
+
+<!-- Start of picture text -->
+( Prof.\ Dr. G. Jasper)<br>Rektor<br><!-- End of picture text -->
+
+Die Satzung wurde am 8. Februar 1994 in der Universitit Erlangen-Niirnberg niedergelegt; die Niederlegung wurde am 8. Februar 1994 durch Anschlag in der Universitit ErlangenNiirmberg bekanntgegeben. Tag der Bekanntmachung ist der 8. Februar 1994. 
 

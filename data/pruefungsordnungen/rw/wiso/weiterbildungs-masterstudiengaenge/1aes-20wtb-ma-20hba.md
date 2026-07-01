@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES%20WTB-MA%20HBA.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:48:29+00:00
-page_count_chars: 6813
+scraped_at: 2026-07-01T11:10:55+00:00
+page_count_chars: 6874
 ---
 
 # 8. Juli 2010
@@ -12,13 +12,13 @@ page_count_chars: 6813
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES%20WTB-MA%20HBA.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
 
-## **Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Master of Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Master of Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. Juli 2010 
+# Vom 8. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Master of Health Business Administration (MHBA) an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 1. Oktober 2007 wird wie folgt geändert: 
 
@@ -34,7 +34,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Maste
 
 b) Im Abs. 4 wird folgender neuer Satz 4 eingefügt: 
 
-„[4] Der Prüfungsausschuss oder diese Prüfungsordnung können der Vorsitzenden oder dem Vorsitzenden einzelne Aufgaben zur selbständigen Erledigung übertragen.“ 
+„<sup>4</sup> Der Prüfungsausschuss oder diese Prüfungsordnung können der Vorsitzenden oder dem Vorsitzenden einzelne Aufgaben zur selbständigen Erledigung übertragen.“ 
 
 5. § 6 wird wie folgt geändert: 
 
@@ -44,7 +44,7 @@ b) Im Abs. 4 wird folgender neuer Satz 4 eingefügt:
 
    - c) Nach Abs. 7 wird folgender neuer Abs. 8 eingefügt: 
 
-      - „(8)[1] Prüfungen können auch in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.[3] Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.[4] Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der betroffenen Teilnehmerin oder des betroffenen Teilnehmers von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
+      - „(8)<sup>1</sup> Prüfungen können auch in elektronischer Form abgenommen werden. 2Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen.<sup>3</sup> Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen.<sup>4</sup> Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der betroffenen Teilnehmerin oder des betroffenen Teilnehmers von einer oder einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden.“ 
 
    - d) Die bisherigen Abs. 8 und 9 werden zu Abs. 9 und 10. 
 
@@ -56,19 +56,21 @@ b) Im Abs. 4 wird folgender neuer Satz 4 eingefügt:
 
    - b) Abs. 2 erhält folgende Fassung: 
 
-      - „(2) Eine Prüfungsleistung gilt als mit „nicht ausreichend (5,0) bewertet, wenn der Rücktritt nach Beginn der Prüfung ohne triftige Gründe erfolgt oder ein Prüfungstermin versäumt wird, ohne dass die Voraussetzungen für einen Rücktritt gegeben waren.“ 
+„(2) Eine Prüfungsleistung gilt als mit „nicht ausreichend (5,0) bewertet, wenn der Rücktritt nach Beginn der Prüfung ohne triftige Gründe erfolgt oder ein Prüfungstermin versäumt wird, ohne dass die Voraussetzungen für einen Rücktritt gegeben waren.“ 
 
-- c) Abs. 6 erhält folgende Fassung: „(6) Abs. 1 bis 5 gelten für unbenotete Studienleistungen entsprechend.“ 
+   - c) Abs. 6 erhält folgende Fassung: 
 
-- 7. In § 8 Abs. 1 wird das Wort „Fernstudium“ durch das Wort „Weiterbildungsstudiengang“ ersetzt sowie nach dem Wort „Administration“ der Klammerzusatz „(MHBA)“ eingefügt. 
+      - „(6) Abs. 1 bis 5 gelten für unbenotete Studienleistungen entsprechend.“ 
+
+7. In § 8 Abs. 1 wird das Wort „Fernstudium“ durch das Wort „Weiterbildungsstudiengang“ ersetzt sowie nach dem Wort „Administration“ der Klammerzusatz „(MHBA)“ eingefügt. 
 
 8. In § 10 Abs. 1 wird das Wort „Fernstudiengang“ durch das Wort „Weiterbildungsstudiengang“ ersetzt sowie nach dem Wort „Administration“ der Klammerzusatz „(MHBA)“ eingefügt. 
 
 9. § 11 erhält folgende Fassung: 
 
-## „ **§11** 
+# „ **§11** 
 
-## **Einsendearbeiten, Online-Tests (Unbenotete Leistungsnachweise)** 
+# **Einsendearbeiten, Online-Tests (Unbenotete Leistungsnachweise)** 
 
 (1) In der Einführungsphase des ersten Semesters und den Vertiefungs-phasen des zweiten und dritten Semesters sind jeweils bis zum Ende jedes Semesters unbenotete Leistungsnachweise in allen Teilleistungen des jeweiligen Moduls (erworben durch jeweils eine erfolgreich bearbeitete Einsendearbeit oder alternativ - sofern angeboten - durch die erfolgreiche Teilnahme an netzbasierten Lehrveranstaltungen sowie durch computer-gestützte Online-Tests) zu erbringen. 
 
@@ -84,11 +86,13 @@ b) Im Abs. 4 wird folgender neuer Satz 4 eingefügt:
 
 12. § 14 wird wie folgt geändert: 
 
-   - a) Abs. 2 erhält folgende Fassung: „(2) Der Antrag kann frühestens nach Bestehen der unbenoteten Leistungsnachweise der Semester 1, 2 und 3 sowie von mindestens zwei benoteten Modulprüfungen (studienbegleitende Klausuren) gestellt werden.“ 
+   - a) Abs. 2 erhält folgende Fassung: 
+
+      - „(2) Der Antrag kann frühestens nach Bestehen der unbenoteten Leistungsnachweise der Semester 1, 2 und 3 sowie von mindestens zwei benoteten Modulprüfungen (studienbegleitende Klausuren) gestellt werden.“ 
 
    - b) In Abs. 5 Satz 4 wird vor dem Wort „Teilnehmer“ das Wort „der“ eingefügt. 
 
-   - c) Abs. 7 Satz 1 erhält folgende Fassung: „[1] Die Masterarbeit ist durch die Betreuerin oder den Betreuer zu beurteilen, die von der oder dem Prüfungsausschussvorsitzenden benannt werden.“ 
+   - c) Abs. 7 Satz 1 erhält folgende Fassung: „<sup>1</sup> Die Masterarbeit ist durch die Betreuerin oder den Betreuer zu beurteilen, die von der oder dem Prüfungsausschussvorsitzenden benannt werden.“ 
 
 13. § 15 wird wie folgt geändert: 
 
@@ -104,7 +108,7 @@ b) Im Abs. 4 wird folgender neuer Satz 4 eingefügt:
 
 a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt: 
 
-„[2] In den Semestern 1, 2 und 3 sind jeweils in einem Modul unbenotete Leistungsnachweise und in einem anderen Modul studienbegleitende Klausuren, bzw. elektronische Prüfungen zu erbringen.“ 
+„<sup>2</sup> In den Semestern 1, 2 und 3 sind jeweils in einem Modul unbenotete Leistungsnachweise und in einem anderen Modul studienbegleitende Klausuren, bzw. elektronische Prüfungen zu erbringen.“ 
 
 - b) Die bisherigen Sätze 2 und 3 werden zu Sätzen 3 und 4. 
 
@@ -112,7 +116,7 @@ a) Nach Satz 1 wird folgender neuer Satz 2 eingefügt:
 
 - „von den im 3. Semester angebotenen Module müssen zwei als Wahlpflichtmodule belegt werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. 
 

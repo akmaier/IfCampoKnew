@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 26.03.2009 i.d.F. 31.03.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Musik-NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:15:11+00:00
-page_count_chars: 8897
+scraped_at: 2026-07-01T08:42:34+00:00
+page_count_chars: 8926
 ---
 
 # pdf vom 26.03.2009 i.d.F. 31.03.2010
@@ -53,7 +53,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Audio- und Videotechnik|4|6|Modul: Praxisbezo-<br>geneMusiktheorie2|Erfolgreiche Teilnahme|
 |**Summe Fachwissenschaft:**||**60**|||
 
-## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an Realschulen sind folgende Module erfolgreich abzulegen: 
+(2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an <u>Realschulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -61,23 +61,22 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Grundlagen fachbezogenen Lehrens<br>undLernens|4|5|Eignungsprüfung|Erfolgreiche Teilnahme|
 |Fachdidaktisches Lernen, Lehren und<br>Beurteilen|5|7|Eignungsprüfung|Mündliche Prüfung|
 
-## (3) Im Freien Bereich werden folgende Module angeboten: 
+## <u>(3) Im Freien Bereich werden folgende Module angeboten:</u> 
 
-|**_Modul_**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|Prüfungsleistungen|
+|**_Modul_**<br>MusikdidaktischeBasiskompetenzen|**SWS**<br>4|**ECTS**<br>4|**Zulassungs-**<br>**voraussetzungen**<br>Eignungsprüfung|Prüfungsleistungen<br>ErfolgreicheTeilnahme|
 |---|---|---|---|---|
-|MusikdidaktischeBasiskompetenzen|4|4|Eignungsprüfung|ErfolgreicheTeilnahme|
 |Musikpraxis|4|4|Eignungsprüfung|ErfolgreicheTeilnahme|
 
 2 
 
 ## **3. Lehramt an Grund- und Hauptschulen** 
 
-## **§ 3 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Bereich der Fachwissenschaft des Fachs Musik im Studium des Lehramts an - Grund und Hauptschulen sind folgende Module erfolgreich abzulegen: 
+## **§ 3 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Bereich der Fachwissenschaft des Fachs Musik im Studium des Lehramts an - <u>Grund und Hauptschulen sind folgende Module erfolgreich abzulegen:</u> 
 
-|<br>**Modul**|<br>**SWS**|<br>**ECTS**|<br>**Zulassungs-**<br>**voraussetzungen**|<br>**Prüfungsleistungen**|
+|**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 |**_1. Künstlerisch-praktischer Bereich_**|**36**|**28**|||
-|KünstlerischePraxis1|10|6|Eignungsprüfung|ErfolgreicheTeilnahme|
+|KünstlerischePraxis1|10|6|Eignungsprüfung<br>|ErfolgreicheTeilnahme|
 |Künstlerische Praxis 2|12|8|Künstlerische<br>Praxis1|Erfolgreiche Teilnahme|
 |Künstlerische Praxis 3|9|9|Künstlerische<br>Praxis 2|- Gesang oder Instrument<br>(„Nebenfach“): Vortrag<br>von 2 Werken (Gesang:<br>+ 1 Sprechtext)<br>- erfolgreiche Teilnahme<br>an:<br>-Instrumentalspiel,<br>-Ensembleleitung,<br>-Stimmphysiologie,<br>-Schulpraktisches und<br>Akkordspie~~l:~~|
 |KünstlerischeBasiskompetenzen|5|5|Eignungsprüfung|ErfolgreicheTeilnahme|
@@ -89,7 +88,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Analyse|4|5|Musikwissenschaft2|ErfolgreicheTeilnahme|
 |**Summe Fachwissenschaft:**||**54**|||
 
-## (2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an - Grund und Hauptschulen sind folgende Module erfolgreich abzulegen: 
+(2) Im Bereich der Fachdidaktik des Unterrichtsfachs im Studium des Lehramts an - <u>Grund und Hauptschulen sind folgende Module erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -99,7 +98,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 3 
 
-## (3) Im Bereich der Fächergruppe im Studium des Lehramts an Grundschulen sind folgende Module erfolgreich abzulegen: 
+(3) Im Bereich der Fächergruppe im Studium des Lehramts an Grundschulen sind <u>folgende Module erfolgreich abzulegen:</u> 
 
 |**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -111,9 +110,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Fachbezogenes Lehren und Lernen|2|3|Keine|schriftliche Hausarbeit|
 |**Summe Fachdidaktik Fächergruppe: **||**11**|||
 
-## (4) Im Bereich der Fächergruppe im Studium des Lehramts an Hauptschulen sind folgende Module erfolgreich abzulegen: 
+## (4) Im Bereich der Fächergruppe im Studium des Lehramts an Hauptschulen sind <u>folgende Module erfolgreich abzulegen:</u> 
 
-|<br>**Modul**|<br>**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
+|**Modul**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 |**1. Künstlerisch-praktisch-**<br>**wissenschaftlicher Bereich**|**12,5**|**12**|||
 |Grundlagen u. musikalische Praxis|4,5|3,5|Keine|Schriftl. Klausur (Musik-<br>theorie( 2 h); erfolgrei-<br>che Teilnahme (Chor,<br>Gesang)|
@@ -125,7 +124,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |Fachbezogenes Lehren und Lernen|4|6|keine|schriftliche Hausarbeit|
 |**Summe Fachdidaktik Fächergruppe:**||**20**|||
 
-Im Lehramt an Grundschulen werden im Freien Bereich folgende Module angeboten: 
+<u>Im Lehramt an Grundschulen werden im Freien Bereich folgende Module angeboten:</u> 
 
 |**Moduls**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzungen**|**Prüfungsleistungen**|
 |---|---|---|---|---|

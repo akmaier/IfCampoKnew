@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA DEIS FPODEIS 20240807.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/konsolidierte_Fassungen/MA_DEIS_FPODEIS_20240807.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:25:06+00:00
-page_count_chars: 32298
+scraped_at: 2026-07-01T09:39:30+00:00
+page_count_chars: 32322
 ---
 
 # MA DEIS FPODEIS 20240807.pdf
@@ -12,13 +12,25 @@ page_count_chars: 32298
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/konsolidierte_Fassungen/MA_DEIS_FPODEIS_20240807.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – Vom 7. August 2024** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – Vom 7. August 2024** 
 
 Aufgrund von Art. 9 Satz 1 i. V. m. Art. 80 Abs. 1 Satz 1, Art. 84 Abs. 2 Satz 1, Art. 88 Abs. 9, Art. 90 Abs. 1 Satz 2, Art. 96 Abs. 3 Bayerisches Hochschulinnovationsgesetz vom 5. August 2022 ( **BayHIG** ) in der jeweils geltenden Fassung erlässt die FAU folgende Fachstudien- und Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich **.............................................................................................................. 1** § 2 Qualifikation zum Masterstudium **..................................................................................... 1** § 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache **............................................................................................................ 2** § 4 Besondere Bestimmungen für die Masterarbeit **............................................................... 2** § 5 Wahlpflichtbereich Internationale Vertiefung – International Economics **.......................... 2** § 6 Wahlpflichtbereich Regionale Vertiefung – Regional Modules **......................................... 3** § 7 Wahlpflichtbereich – Elective Modules **............................................................................. 4** § 8 Freies Ergänzungsstudium – Elective Complementary Modules **...................................... 4** § 9 Inkrafttreten und Übergangsvorschriften **.......................................................................... 5 Anlage 1: .............................................................................................................................. 6** Qualifikationsfeststellungsverfahren für den Masterstudiengang Development Economics and International Studies an der Philosophischen Fakultät und Fachbereich Theologie der FAU **.......................................................................................................................... 6 Anlage 2:** Studienverlaufsplan Masterstudiengang Development Economics and International Studies **......................................................................................................10** 
+|§ 1 Geltungsbereich**.............................................................................................................. 1**|
+|---|
+|§ 2 Qualifikation zum Masterstudium**..................................................................................... 1**|
+|§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und<br>Prüfungssprache**............................................................................................................ 2**|
+|§ 4 Besondere Bestimmungen für die Masterarbeit**............................................................... 2**|
+|§ 5 Wahlpflichtbereich Internationale Vertiefung – International Economics**.......................... 2**|
+|§ 6 Wahlpflichtbereich Regionale Vertiefung – Regional Modules**......................................... 3**|
+|§ 7 Wahlpflichtbereich – Elective Modules**............................................................................. 4**|
+|§ 8 Freies Ergänzungsstudium – Elective Complementary Modules**...................................... 4**<br>|
+|§ 9 Inkrafttreten und Übergangsvorschriften**.......................................................................... 5**|
+|**Anlage 1: .............................................................................................................................. 6**|
+|Qualifikationsfeststellungsverfahren für den Masterstudiengang Development Economics<br>and International Studies an der Philosophischen Fakultät und Fachbereich Theologie<br>der FAU**.......................................................................................................................... 6**|
+|**Anlage 2:**Studienverlaufsplan Masterstudiengang Development Economics and<br>International Studies**......................................................................................................10**|
 
 ## **§ 1 Geltungsbereich** 
 
@@ -26,7 +38,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium** 
 
-- (1)[1] Die Qualifikation zum Masterstudium Development Economics and International Studies wird nachgewiesen durch: 
+- (1)<sup>1</sup> Die Qualifikation zum Masterstudium Development Economics and International Studies wird nachgewiesen durch: 
 
 1. einen ersten berufsqualifizierenden Abschluss einer Hochschule (Staatsexamen, Diplom, Magister bzw. Bachelor) bzw. einen sonstigen gleichwertigen in- oder ausländischen Abschluss in einem wirtschaftswissenschaftlichen Fach mit einem wirtschaftswissenschaftlichen Anteil von mindestens 70 ECTS-Punkten, inklusive mindestens Grundkenntnissen in den Bereichen Mikroökonomie, Makroökonomie und Statistik/Ökonometrie (jeweils mindestens 5 ECTS-Punkte), 
 
@@ -40,61 +52,61 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 (2) Bewerberinnen oder Bewerber nach Abs. 1 sollen zu den 50 v. H. Besten ihres Jahrganges zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,50 (= gut) abgeschlossen haben; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gelten § 16 Abs. 3 Sätze 1 bis 3 **ABMStPO/Phil** entsprechend. 
 
-(3)[1] Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.[2] Bis zur Immatrikulation ist eine Bestätigung des zuständigen Prüfungsamtes einzureichen, dass der Bachelorstudiengang erfolgreich absolviert worden ist.[3] Der offizielle Nachweis über den bestandenen Bachelorabschluss (Abschlussdokumente) ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[4] Der Zugang zum Masterstudium wird unter Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatrikulation. 
+(3)<sup>1</sup> Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.<sup>2</sup> Bis zur Immatrikulation ist eine Bestätigung des zuständigen Prüfungsamtes einzureichen, dass der Bachelorstudiengang erfolgreich absolviert worden ist.<sup>3</sup> Der offizielle Nachweis über den bestandenen Bachelorabschluss (Abschlussdokumente) ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>4</sup> Der Zugang zum Masterstudium wird unter Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfolgt die Exmatrikulation. 
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen, Unterrichts- und Prüfungssprache** 
 
 (1) Umfang und Gliederung des Masterstudiengangs „Development Economics and International Studies“ sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der **Anlage 2** . 
 
-(2)[1] Abweichend von § 6 Abs. 5 **ABMStPO/Phil** ist die Unterrichts- und Prüfungssprache im Masterstudiengang Development Economics and International Studies Englisch.[2] Im Übrigen bleibt § 6 Abs. 5 **ABMStPO/Phil** unberührt. 
+(2)<sup>1</sup> Abweichend von § 6 Abs. 5 **ABMStPO/Phil** ist die Unterrichts- und Prüfungssprache im Masterstudiengang Development Economics and International Studies Englisch.<sup>2</sup> Im Übrigen bleibt § 6 Abs. 5 **ABMStPO/Phil** unberührt. 
 
 **§ 4 Besondere Bestimmungen für die Masterarbeit** Abweichend von § 39 Abs. 5 i. V. m. § 33 Abs. 6 **ABMStPO/Phil** wird die Masterarbeit verpflichtend in englischer Sprache abgefasst. 
 
 ## **§ 5 Wahlpflichtbereich Internationale Vertiefung – International Economics** 
 
-(1)[1] Im Wahlpflichtbereich „International Economics“ werden ökonomische oder betriebswirtschaftliche Kenntnisse mit Blick auf internationale Zusammenhänge vertieft. 2Wählbar sind sowohl Module des Instituts für Wirtschaftswissenschaft als auch der Masterstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften; der Katalog der wählbaren Module wird rechtzeitig ortsüblich bekannt gemacht. 
+(1)<sup>1</sup> Im Wahlpflichtbereich „International Economics“ werden ökonomische oder betriebswirtschaftliche Kenntnisse mit Blick auf internationale Zusammenhänge vertieft. 2Wählbar sind sowohl Module des Instituts für Wirtschaftswissenschaft als auch der Masterstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften; der Katalog der wählbaren Module wird rechtzeitig ortsüblich bekannt gemacht. 
 
-(2)[1] In den Modulen der Internationalen Vertiefung erweitern die Studierenden ihre fachspezifischen und methodischen Kompetenzen in der Entwicklungsökonomie, indem sie sich mit Theorien und empirischen Konzepten auseinandersetzen, die ökonomische und betriebswirtschaftliche Gegebenheiten im Kontext internationaler Zusammenhänge beleuchten.[2] Sie vertiefen die Fähigkeit, eigenständig wissenschaftlich zu arbeiten und erweitern ihre fachlichen Kenntnisse im globalen Kontext.[3] Inhaltlich ste- 
+(2)<sup>1</sup> In den Modulen der Internationalen Vertiefung erweitern die Studierenden ihre fachspezifischen und methodischen Kompetenzen in der Entwicklungsökonomie, indem sie sich mit Theorien und empirischen Konzepten auseinandersetzen, die ökonomische und betriebswirtschaftliche Gegebenheiten im Kontext internationaler Zusammenhänge beleuchten.<sup>2</sup> Sie vertiefen die Fähigkeit, eigenständig wissenschaftlich zu arbeiten und erweitern ihre fachlichen Kenntnisse im globalen Kontext.<sup>3</sup> Inhaltlich ste- 
 
 2 
 
-hen internationale Zusammenhänge im Bereich der Ökonomie im Fokus.[4] Je nach profilspezifischer Ausrichtung vertiefen die Studierenden ihre Kenntnisse und Kompetenzen im betriebswirtschaftlichen oder volkswirtschaftlichen Bereich und setzen sich dabei beispielsweise u.a. mit internationalem Management, internationaler politischer Ökonomie und interkulturellen Beziehungen im ökonomischen Kontext auseinander. 5Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[6] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweiligen Modulbeschreibung zu entnehmen. 
+hen internationale Zusammenhänge im Bereich der Ökonomie im Fokus.<sup>4</sup> Je nach profilspezifischer Ausrichtung vertiefen die Studierenden ihre Kenntnisse und Kompetenzen im betriebswirtschaftlichen oder volkswirtschaftlichen Bereich und setzen sich dabei beispielsweise u.a. mit internationalem Management, internationaler politischer Ökonomie und interkulturellen Beziehungen im ökonomischen Kontext auseinander. 5Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>6</sup> Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweiligen Modulbeschreibung zu entnehmen. 
 
-(3)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2.[2] Mögliche Prüfung in Modulen des Instituts für Wirtschaftswissenschaft ist: Referat (25-40 Min.) und Hausarbeit (ca. 15 Seiten) (33% und 67%).[3] Art und Umfang der Prüfungen in Importmodulen der Masterstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften richten sich nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung.[4] Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(3)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2.<sup>2</sup> Mögliche Prüfung in Modulen des Instituts für Wirtschaftswissenschaft ist: Referat (25-40 Min.) und Hausarbeit (ca. 15 Seiten) (33% und 67%).<sup>3</sup> Art und Umfang der Prüfungen in Importmodulen der Masterstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften richten sich nach der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung.<sup>4</sup> Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(4)[1] Die wählbaren Module des Instituts für Wirtschaftswissenschaft umfassen in der Regel eine Vorlesung und eine Übung oder ein Hauptseminar im Umfang von je 2 bis 3 SWS und haben einen Umfang von 5 ECTS-Punkten.[2] Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.[3] Von Satz 1 abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.[4] Art und Umfang der Lehrveranstaltungen und der Umfang der Module des Fachbereichs Wirtschafts- und Sozialwissenschaften können von den Angaben in Sätzen 1 und 2 abweichen und sind der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung zu entnehmen. 
+(4)<sup>1</sup> Die wählbaren Module des Instituts für Wirtschaftswissenschaft umfassen in der Regel eine Vorlesung und eine Übung oder ein Hauptseminar im Umfang von je 2 bis 3 SWS und haben einen Umfang von 5 ECTS-Punkten.<sup>2</sup> Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.<sup>3</sup> Von Satz 1 abweichende Verteilungen sind dem Modulhandbuch zu entnehmen.<sup>4</sup> Art und Umfang der Lehrveranstaltungen und der Umfang der Module des Fachbereichs Wirtschafts- und Sozialwissenschaften können von den Angaben in Sätzen 1 und 2 abweichen und sind der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweils einschlägigen Modulbeschreibung zu entnehmen. 
 
 ## **§ 6 Wahlpflichtbereich Regionale Vertiefung – Regional Modules** 
 
 (1) Im Wahlpflichtbereich Regionale Vertiefung werden ökonomische Kenntnisse mit Blick auf eine konkrete Region vertieft. 
 
-(2)[1] In den regionalen Vertiefungen erweitern die Studierenden ihre fachspezifischen und methodischen Kompetenzen in der Entwicklungsökonomie, indem sie die erlernten Theorien und empirischen Konzepte nutzen, um die ökonomischen Gegebenheiten und Entwicklungen in einer spezifischen Region zu analysieren.[2] Sie vertiefen die Fähigkeit, eigenständig wissenschaftlich zu arbeiten und erweitern ihre fachlichen Kenntnisse in Bezug auf die entwicklungsökonomischen Besonderheiten der gewählten Region.[3] Inhaltlich stehen regionale Zusammenhänge im Bereich der Ökonomie im Fokus.[4] Je nach profilspezifischer Ausrichtung vertiefen die Studierenden ihre Kenntnisse und Kompetenzen im betriebswirtschaftlichen oder volkswirtschaftlichen Bereich und setzen sich dabei beispielsweise u.a. mit ökonomischen Entwicklungen und Gesellschaftszuständen im regionalen Kontext auseinander.[5] Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[6] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten 
+(2)<sup>1</sup> In den regionalen Vertiefungen erweitern die Studierenden ihre fachspezifischen und methodischen Kompetenzen in der Entwicklungsökonomie, indem sie die erlernten Theorien und empirischen Konzepte nutzen, um die ökonomischen Gegebenheiten und Entwicklungen in einer spezifischen Region zu analysieren.<sup>2</sup> Sie vertiefen die Fähigkeit, eigenständig wissenschaftlich zu arbeiten und erweitern ihre fachlichen Kenntnisse in Bezug auf die entwicklungsökonomischen Besonderheiten der gewählten Region.<sup>3</sup> Inhaltlich stehen regionale Zusammenhänge im Bereich der Ökonomie im Fokus.<sup>4</sup> Je nach profilspezifischer Ausrichtung vertiefen die Studierenden ihre Kenntnisse und Kompetenzen im betriebswirtschaftlichen oder volkswirtschaftlichen Bereich und setzen sich dabei beispielsweise u.a. mit ökonomischen Entwicklungen und Gesellschaftszuständen im regionalen Kontext auseinander.<sup>5</sup> Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>6</sup> Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten 
 
 3 
 
 Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jeweiligen Modulbeschreibung zu entnehmen. 
 
-(3)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungen sind: Klausur (60-90 Min.) oder Referat (25-40 Min.) und Hausarbeit (ca. 15 Seiten) (33% und 67%).[3] Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(3)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 und dem Modulhandbuch zu entnehmen. 2Mögliche Prüfungen sind: Klausur (60-90 Min.) oder Referat (25-40 Min.) und Hausarbeit (ca. 15 Seiten) (33% und 67%).<sup>3</sup> Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(4)[1] Die wählbaren Module umfassen in der Regel eine Vorlesung und eine Übung oder ein Hauptseminar im Umfang von je 2 bis 3 SWS und haben einen Umfang von 5 ECTS-Punkten.[2] Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.[3] Von Satz 1 abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
+(4)<sup>1</sup> Die wählbaren Module umfassen in der Regel eine Vorlesung und eine Übung oder ein Hauptseminar im Umfang von je 2 bis 3 SWS und haben einen Umfang von 5 ECTS-Punkten.<sup>2</sup> Die genaue Zusammensetzung ist abhängig vom konkreten didaktischen Charakter des von der bzw. dem Studierenden jeweils gewählten Moduls und ist dem Modulhandbuch zu entnehmen.<sup>3</sup> Von Satz 1 abweichende Verteilungen sind dem Modulhandbuch zu entnehmen. 
 
 ## **§ 7 Wahlpflichtbereich – Elective Modules** 
 
-(1)[1] Im Wahlpflichtbereich Elective Modules werden Module aus dem Angebot des Instituts für Wirtschaftswissenschaft belegt, die besondere Themen der Theorie und Praxis der Wirtschaftsentwicklung oder internationaler Studien behandeln.[2] Nach Studienberatung können auch Module aus anderen sozial- und wirtschaftswissenschaftlichen Studiengängen der FAU als „Elective Modules“ eingebracht werden. 
+(1)<sup>1</sup> Im Wahlpflichtbereich Elective Modules werden Module aus dem Angebot des Instituts für Wirtschaftswissenschaft belegt, die besondere Themen der Theorie und Praxis der Wirtschaftsentwicklung oder internationaler Studien behandeln.<sup>2</sup> Nach Studienberatung können auch Module aus anderen sozial- und wirtschaftswissenschaftlichen Studiengängen der FAU als „Elective Modules“ eingebracht werden. 
 
-(2)[1] Im Wahlpflichtbereich Elective Modules erweitern und vertiefen die Studierenden ihr Fachwissen in Bezug auf Theorien und Praxis der Wirtschaftsentwicklung oder internationaler Studien sowie ihre wissenschaftliche Methodenkompetenz insbesondere im Hinblick auf empirische Anwendungen.[2] Inhaltlich im Fokus stehen unterschiedliche Themen, beispielsweise soziale Verantwortlichkeiten im Bereich Entwicklungsökonomie oder politische Theorie und Empirie im Kontext ökonomischer Zusammenhänge. 3Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[4] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 3 und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweiligen Modulbeschreibung zu entnehmen. 
+(2)<sup>1</sup> Im Wahlpflichtbereich Elective Modules erweitern und vertiefen die Studierenden ihr Fachwissen in Bezug auf Theorien und Praxis der Wirtschaftsentwicklung oder internationaler Studien sowie ihre wissenschaftliche Methodenkompetenz insbesondere im Hinblick auf empirische Anwendungen.<sup>2</sup> Inhaltlich im Fokus stehen unterschiedliche Themen, beispielsweise soziale Verantwortlichkeiten im Bereich Entwicklungsökonomie oder politische Theorie und Empirie im Kontext ökonomischer Zusammenhänge. 3Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>4</sup> Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 3 und der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. der jeweiligen Modulbeschreibung zu entnehmen. 
 
 ## (3) § 5 Abs. 3 gilt entsprechend. 
 
-## (4) § 5 Abs. 4 gilt entsprechend. 
+(4) § 5 Abs. 4 gilt entsprechend. 
 
 ## **§ 8 Freies Ergänzungsstudium – Elective Complementary Modules** 
 
-(1)[1] Im Rahmen des Freien Ergänzungsstudiums können Module zu internationalen Fragestellungen aus dem Angebot der FAU belegt werden, die einen Bezug zu den Themen und Fragstellungen des M.A. Development Economics and International Studies aufweisen.[2] Auch Module, die im Rahmen der Internationalen Vertiefung, der Regionalen Vertiefung und der Elective Modules noch nicht belegt wurden, können für das Freie Ergänzungsstudium eingebracht werden.[3] Ebenso können die Studierenden Sprachkurse belegen, die auf ihre bisherigen Sprachkenntnisse aufbauen.[4] Bis zu 10 ECTS-Punkte können für studienbegleitende Praktika im Bereich der Wirtschaftswissenschaften eingebracht werden. 
+(1)<sup>1</sup> Im Rahmen des Freien Ergänzungsstudiums können Module zu internationalen Fragestellungen aus dem Angebot der FAU belegt werden, die einen Bezug zu den Themen und Fragstellungen des M.A. Development Economics and International Studies aufweisen.<sup>2</sup> Auch Module, die im Rahmen der Internationalen Vertiefung, der Regionalen Vertiefung und der Elective Modules noch nicht belegt wurden, können für das Freie Ergänzungsstudium eingebracht werden.<sup>3</sup> Ebenso können die Studierenden Sprachkurse belegen, die auf ihre bisherigen Sprachkenntnisse aufbauen.<sup>4</sup> Bis zu 10 ECTS-Punkte können für studienbegleitende Praktika im Bereich der Wirtschaftswissenschaften eingebracht werden. 
 
 4 
 
-(2)[1] Ziel ist es, dass die Studierenden im Masterstudium nach eigener Interessenlage (durch die Wahl von Modulen, wie z.B. „Academic Research and Writing“, „Introduction to Stata“, „Statistics: Refresher Course“ o.ä.) wichtige berufsbezogene Kompetenzen erweitern und vertiefen (fachliche und methodische Kompetenzen in der Entwicklungsökonomie und angrenzenden Disziplinen, Sprachkenntnisse als Vorbereitung für eine Berufstätigkeit in einem internationalen Umfeld, berufspraktische Erfahrungen).[2] Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[3] Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 und 2 und der jeweiligen Modulbeschreibung zu entnehmen. 
+(2)<sup>1</sup> Ziel ist es, dass die Studierenden im Masterstudium nach eigener Interessenlage (durch die Wahl von Modulen, wie z.B. „Academic Research and Writing“, „Introduction to Stata“, „Statistics: Refresher Course“ o.ä.) wichtige berufsbezogene Kompetenzen erweitern und vertiefen (fachliche und methodische Kompetenzen in der Entwicklungsökonomie und angrenzenden Disziplinen, Sprachkenntnisse als Vorbereitung für eine Berufstätigkeit in einem internationalen Umfeld, berufspraktische Erfahrungen).<sup>2</sup> Durch die Wahlfreiheit wird den Studierenden ermöglicht, im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>3</sup> Die spezifischen Qualifikationsziele und Prüfungsgegenstände der einzelnen Module sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 und 2 und der jeweiligen Modulbeschreibung zu entnehmen. 
 
 (3) Art und Umfang der Prüfung sowie die Zusammensetzung der Lehrveranstaltungen sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen und den §§ 5 bis 7 bzw. der jeweils einschlägigen **Fachstudien- und Prüfungsordnung** bzw. dem Modulhandbuch zu entnehmen. 
 
@@ -102,15 +114,15 @@ Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jewei
 
 ## **§ 9 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – vom 8. Juni 2010 in der Fassung vom 8. April 2020 studieren.[3] Studierende, die zum Zeitpunkt des Inkrafttretens bereits nach der FPODEIS vom 8. Juni 2010 in einer vor dem 8. April 2020 geltenden Fassung studieren, beenden ihr Studium nach der bisher für sie geltenden Fassung der FPODEIS. 
+(1)<sup>1</sup> Diese Fachstudien- und Prüfungsordnung tritt am 1. Oktober 2024 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2024/2025 aufnehmen werden sowie diejenigen Studierenden, die zum Zeitpunkt des Inkrafttretens bereits nach der Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – vom 8. Juni 2010 in der Fassung vom 8. April 2020 studieren.<sup>3</sup> Studierende, die zum Zeitpunkt des Inkrafttretens bereits nach der FPODEIS vom 8. Juni 2010 in einer vor dem 8. April 2020 geltenden Fassung studieren, beenden ihr Studium nach der bisher für sie geltenden Fassung der FPODEIS. 
 
-(2)[1] Die Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 31. Juli 2023, tritt mit Wirkung zum 30. September 2025 außer Kraft.[2] Prüfungen nach der in Satz 1 genannten Fachstudien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten. 
+(2)<sup>1</sup> Die Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 31. Juli 2023, tritt mit Wirkung zum 30. September 2025 außer Kraft.<sup>2</sup> Prüfungen nach der in Satz 1 genannten Fachstudien- und Prüfungsordnung werden letztmals im Sommersemester 2025 angeboten. 
 
 5 
 
 ## **Anlage 1: Qualifikationsfeststellungsverfahren für den Masterstudiengang Development Economics and International Studies an der Philosophischen Fakultät und Fachbereich Theologie der FAU** 
 
-## **1. Zweck der Feststellung** 
+### **1. Zweck der Feststellung** 
 
 - 1Zweck der Feststellung ist, die Qualifikation der Bewerberinnen und Bewerber zum Masterstudium anhand: 
 
@@ -120,11 +132,11 @@ Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jewei
 
 2Ziel ist dabei festzustellen, ob die Bewerberinnen und Bewerber den erhöhten Anforderungen des stärker forschungsorientierten Masterstudiums genügen und in der Lage sein werden, selbstständig wissenschaftlich zu arbeiten. 
 
-## **2. Verfahren zur Feststellung der Qualifikation** 
+### **2. Verfahren zur Feststellung der Qualifikation** 
 
 - 2.1  Das Verfahren zur Feststellung der Qualifikation wird einmal pro Jahr vor Beginn der allgemeinen Vorlesungszeit zum Wintersemester durchgeführt. 
 
-- 2.2 1Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist in einem auf der Homepage des Studiengangs bekannt gegebenen Zeitraum gemäß Satz 2 über das Bewerbungsportal der FAU zu stellen.[2] Bewerbungen zum Wintersemester sind entweder in der Zeit vom 15. Februar bis zum 31. Mai eines jeden Jahres oder vom 15. April bis zum 15. Juli eines jeden Jahres möglich.[3] Die in Satz 2 genannten Start- und Endzeitpunkte für die Bewerbungsphase können auch anderweitig untereinander kombiniert werden; davon abweichende Start- und Endzeitpunkte können nicht gewählt werden. 
+- 2.2 1Der Antrag auf Zugang zum Qualifikationsfeststellungsverfahren ist in einem auf der Homepage des Studiengangs bekannt gegebenen Zeitraum gemäß Satz 2 über das Bewerbungsportal der FAU zu stellen.<sup>2</sup> Bewerbungen zum Wintersemester sind entweder in der Zeit vom 15. Februar bis zum 31. Mai eines jeden Jahres oder vom 15. April bis zum 15. Juli eines jeden Jahres möglich.<sup>3</sup> Die in Satz 2 genannten Start- und Endzeitpunkte für die Bewerbungsphase können auch anderweitig untereinander kombiniert werden; davon abweichende Start- und Endzeitpunkte können nicht gewählt werden. 
 
 - 2.3 Dem Antrag sind beizufügen: 
 
@@ -138,11 +150,11 @@ Kompetenzen im Rahmen der Qualifikationsziele nach Sätzen 1 bis 5 und der jewei
 
 - 2.3.5 sofern vorhanden: Nachweise über qualifizierte berufspraktische Erfahrungen im Bereich Entwicklungsökonomie sowie eine von der Bewerberin bzw. vom Bewerber in englischer Sprache verfasste Beschreibung der Art der berufspraktischen Erfahrung (Beschreibung der Aufgaben und Tätigkeiten) im Umfang von einer Seite. 
 
-## **3. Kommission zur Qualifikationsfeststellung** 
+### **3. Kommission zur Qualifikationsfeststellung** 
 
 Die Feststellung der Qualifikation obliegt gemäß § 15 **ABMStPO/Phil** der Zugangskommission. 
 
-## **4. Zulassung zum Qualifikationsfeststellungsverfahren** 
+### **4. Zulassung zum Qualifikationsfeststellungsverfahren** 
 
 - 4.1 Die Zulassung zum Qualifikationsfeststellungsverfahren setzt voraus, dass die in Nr. 2.3 genannten Unterlagen fristgerecht und vollständig vorliegen. 
 
@@ -150,7 +162,7 @@ Die Feststellung der Qualifikation obliegt gemäß § 15 **ABMStPO/Phil** der Zu
 
 - 4.3 Bewerberinnen bzw. Bewerber, die nicht zugelassen werden, erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid. 
 
-## **5. Durchführung des Qualifikationsfeststellungsverfahrens** 5.1 _Erste Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
+**5. Durchführung des Qualifikationsfeststellungsverfahrens** 5.1 _Erste Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
 
 6 
 
@@ -187,25 +199,22 @@ Die Feststellung der Qualifikation obliegt gemäß § 15 **ABMStPO/Phil** der Zu
 |20–29|15|
 |weniger als 20|10|
 
-## 5.1.1.3  Qualität der Englischkenntnisse (max. 10 Punkte), 
+### 5.1.1.3  Qualität der Englischkenntnisse (max. 10 Punkte), 
 
-|5.1.1.3|40–49<br>25<br>30–39<br>20<br>20–29<br>15<br>weniger als 20<br>10<br>Qualität der Englischkenntnisse (max. 10 Punkte),||
-|---|---|---|
-|5.1.1.4|Englische Sprachkenntnisse anhand der einzelnen Testabschnitte im Sprachtest nach §<br>2 Abs. 1 Satz 2|Punkte|
-||In allen Testabschnitten C1 oder besser|5|
-||In einzelnen Testabschnitten schlechter als C1|0|
-||||
-||Sprachniveau undAusdrucksfähigkeit anhand desBewerbungsschreibens|Punkte|
-||Gut bis sehr gut|5|
-||VieleMängelbis durchschnittlich|0|
-||Umfang der Kenntnisse im Bereich Entwicklungsökonomie/Nachhaltigkeit/Wirt-<br>schaftsethik, der praktischen Erfahrungen in der Entwicklungsökonomie/Entwick-<br>lungszusammenarbeit/Nachhaltigkeit/Wirtschaftsethik und sonstiger Qualifikationen<br>im Bereich der Entwicklungsökonomie/Entwicklungszusammenarbeit/Nachhaltig-<br>keit/Wirtschaftsethik (max. 30 Punkte).||
-||Im Rahmen des Bachelorstudiums erworbene Kenntnisse im Bereich Entwicklungs-öko-<br>nomie/Nachhaltigkeit/Wirtschaftsethik|Punkte|
-||Nachweis von bis zu 5 ECTS-Punkten im Bereich der Entwicklungsökonomie/Nachhal-<br>tigkeit/Wirtschaftsethik|5|
-||Nachweis von mehr als 5 ECTS-Punkten im Bereich der Entwicklungsökonomie/<br>Nachhaltigkeit/Wirtschaftsethik|10|
-||||
-||Qualifizierte<br>berufspraktische<br>Erfahrungen<br>im<br>Bereich<br>Entwicklungsökonomie/<br>Entwicklungszusammenarbeit/Nachhaltigkeit/Wirtschaftsethik|Punkte|
-||Nachweis eines qualifizierten Praktikums von einer Dauer von bis zu 3 Monaten im Be-<br>reich<br>der<br>Entwicklungsökonomie/Entwicklungszusammenarbeit/Nachhaltigkeit/Wirt-<br>schaftsethik|5|
-||Nachweis eines qualifizierten Praktikums von einer Dauer von mehr als 3 Monaten oder<br>Nachweis von mehreren qualifizierten Praktika von einer Dauer von jeweils mindestens<br>2 Monaten oder Nachweis von mindestens einer qualifizierten beruflichen Tätigkeit im|10|
+|Englische Sprachkenntnisse anhand der einzelnen Testabschnitte im Sprachtest nach §<br>2 Abs. 1 Satz 2|Punkte|
+|---|---|
+|In allen Testabschnitten C1 oder besser|5|
+|In einzelnen Testabschnitten schlechter als C1|0|
+|Sprachniveau undAusdrucksfähigkeit anhand desBewerbungsschreibens|Punkte|
+|Gut bis sehr gut|5|
+|VieleMängelbis durchschnittlich|0|
+|5.1.1.4  Umfang der Kenntnisse im Bereich Entwicklungsökonomie/Nachhalti<br>schaftsethik, der praktischen Erfahrungen in der Entwicklungsökonomie<br>lungszusammenarbeit/Nachhaltigkeit/Wirtschaftsethik und sonstiger Quali<br>im Bereich der Entwicklungsökonomie/Entwicklungszusammenarbeit/N<br>keit/Wirtschaftsethik (max. 30 Punkte).|gkeit/Wirt-<br>/Entwick-<br>fikationen<br>achhaltig-|
+|Im Rahmen des Bachelorstudiums erworbene Kenntnisse im Bereich Entwicklungs-öko-<br>nomie/Nachhaltigkeit/Wirtschaftsethik|Punkte|
+|Nachweis von bis zu 5 ECTS-Punkten im Bereich der Entwicklungsökonomie/Nachhal-<br>tigkeit/Wirtschaftsethik|5|
+|Nachweis von mehr als 5 ECTS-Punkten im Bereich der Entwicklungsökonomie/<br>Nachhaltigkeit/Wirtschaftsethik|10|
+|Qualifizierte<br>berufspraktische<br>Erfahrungen<br>im<br>Bereich<br>Entwicklungsökonomie/<br>Entwicklungszusammenarbeit/Nachhaltigkeit/Wirtschaftsethik|Punkte|
+|Nachweis eines qualifizierten Praktikums von einer Dauer von bis zu 3 Monaten im Be-<br>reich<br>der<br>Entwicklungsökonomie/Entwicklungszusammenarbeit/Nachhaltigkeit/Wirt-<br>schaftsethik|5|
+|Nachweis eines qualifizierten Praktikums von einer Dauer von mehr als 3 Monaten oder<br>Nachweis von mehreren qualifizierten Praktika von einer Dauer von jeweils mindestens<br>2 Monaten oder Nachweis von mindestens einer qualifizierten beruflichen Tätigkeit im|10|
 
 7 
 
@@ -215,15 +224,15 @@ Die Feststellung der Qualifikation obliegt gemäß § 15 **ABMStPO/Phil** der Zu
 |Vorhanden, aber geringfügig|5|
 |Signifikant (hinsichtlich der Dauer und/oder Funktion/Rolle)|10|
 
-- 5.1.2[1] Die Zugangskommission kann insgesamt 100 Punkte vergeben.[2] Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
+- 5.1.2<sup>1</sup> Die Zugangskommission kann insgesamt 100 Punkte vergeben.<sup>2</sup> Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
 
 - 5.1.3 Bewerberinnen und Bewerber, die mindestens 80 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen und Bewerber mit weniger als 65 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
 - 5.2 _Zweite Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
 
-- 5.2.1 1Die übrigen Bewerberinnen und Bewerber, die im Bereich von 79 – 65 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).[2] Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.[3] Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.[4] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin innerhalb von zwei Wochen nach dem ursprünglich angesetzten Termin des Gesprächs anberaumt werden. 
+- 5.2.1 1Die übrigen Bewerberinnen und Bewerber, die im Bereich von 79 – 65 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).<sup>2</sup> Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.<sup>3</sup> Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.<sup>4</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin innerhalb von zwei Wochen nach dem ursprünglich angesetzten Termin des Gesprächs anberaumt werden. 
 
-- 5.2.2 1Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und findet in englischer Sprache statt.[2] Das Auswahlgespräch kann mit Zustimmung der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.[3] Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.[4] Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt.[5] Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 20 Punkte.[6] Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 5 i. V. m. Ziffer 5.2.3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+- 5.2.2 1Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und findet in englischer Sprache statt.<sup>2</sup> Das Auswahlgespräch kann mit Zustimmung der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.<sup>3</sup> Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.<sup>4</sup> Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt.<sup>5</sup> Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 20 Punkte.<sup>6</sup> Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 5 i. V. m. Ziffer 5.2.3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 - 5.2.3 1Das Qualifikationsfeststellungsgespräch erstreckt sich auf folgende Kriterien: 5.2.3.1 Fähigkeit zur Analyse volkswirtschaftlicher Zusammenhänge (10 Punkte), 
 
@@ -231,29 +240,29 @@ Die Feststellung der Qualifikation obliegt gemäß § 15 **ABMStPO/Phil** der Zu
 
    - 2Die Punktevergabe in den einzelnen Kriterien nach Satz 1 wird anhand folgender Maßstäbe vorgenommen: 
 
-|Kriterium|Punkte|
+|Kriterium<br>|Punkte|
 |---|---|
-|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2|10|
-|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht<br>voll erfüllt werden|7,5|
+|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2<br>|10|
+|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht<br>voll erfüllt werden<br>|7,5|
 |Überwiegende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz<br>1 Nr. 5.2.2.1 bzw. 5.2.2.2, wobei ansonsten die Anforderungen nicht oder nicht voll<br>erfüllt werden|5|
 |Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden über-<br>wiegendnicht erfüllt|2,5|
 |Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden nicht<br>oderso gutwienicht erfüllt|0|
 
-- 5.2.4 1Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffern 5.1.1 und 5.2.3.[2] Bewerberinnen und Bewerber, die insgesamt 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
+- 5.2.4 1Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffern 5.1.1 und 5.2.3.<sup>2</sup> Bewerberinnen und Bewerber, die insgesamt 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
 
 8 
 
-- 5.2.5 1Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.[2] Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+- 5.2.5 1Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.<sup>2</sup> Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
 
 - 5.3 Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
 - 5.4 Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich der Masterstudiengang nicht wesentlich geändert hat. 
 
-## **6. Niederschrift** 
+### **6. Niederschrift** 
 
-1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Niederschrift müssen die Themen des Gesprächs mit der Bewerberin bzw. dem Bewerber und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
+1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.<sup>2</sup> Aus der Niederschrift müssen die Themen des Gesprächs mit der Bewerberin bzw. dem Bewerber und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
 
-## **7. Wiederholung** 
+### **7. Wiederholung** 
 
 Bewerberinnen bzw. Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Qualifikationsfeststellungsverfahren beantragen. 
 
@@ -261,52 +270,42 @@ Bewerberinnen bzw. Bewerber, die den Nachweis der Eignung für das Masterstudium
 
 ## **Anlage 2: Studienverlaufsplan Masterstudiengang Development Economics and International Studies** 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**SWS**||||**Ge-**<br>|||||||
-|||||||**samt**<br>**ECTS**|||||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|||
-|Pflichtbereich (40 ECTS)|||||||||||||
-||||||||||||||
-|**Development Economics I**|Vorlesung|2||||**5**|5||||Klausur (60-90 Min.)|1|
-||Übung||1||||||||||
-|**Development Economics II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)||(2)|**5**||5|||Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.) und<br>Hausarbeit (15 S.)<br>(33% + 67%)2|1|
-|**Research Methods I**|Vorlesung|2||||**5**|5||||Klausur (60-90 Min.)|1|
-||Übung||1||||||||||
-|**Research Methods II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)||(2)|**5**||5|||Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.)<br>und Hausarbeit (15 S.)<br>(33% + 67%)2|1|
-|**International Business Ethics I**|Vorlesung|2||||**5**||5|||Klausur (60-90 Min.)|1|
-||Übung||1||||||||||
-|**International Business Ethics II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)||(2)|**5**|||5||Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.) und<br>Hausarbeit (15 S.)<br>(33% + 67%)2|1|
-|Wahlpflichtbereich Internationale Vertiefung – International Economics gemäß § 5|||||||||||||
-|**International Economics I**|vgl. § 5 Abs. 4|||||**5**|(5)|(5)|(5)||vgl. § 5 Abs. 3|1|
-|**International Economics II**|vgl. § 5 Abs. 4|||||**5**|(5)|(5)|(5)||vgl. § 5 Abs. 3|1|
-|Wahlpflichtbereich Regionale Vertiefung – Regional Modules gemäß § 6 (10 ECTS)|||||||||||||
-|**Regional Module I**|vgl.§6 Abs. 4|||||**5**|(5)|(5)|(5)||vgl.§6 Abs. 3|1|
-|**Regional Module II**|vgl.§6 Abs. 4|||||**5**|(5)|(5)|(5)||vgl.§6 Abs. 3|1|
-|Wahlpflichtbereich – Elective Modules gemäß § 7 (20 ECTS)|||||||||||||
+||||||**Ge-**|**Work**<br>|**load-Ve**<br>|**rteilung pro**<br>||**Faktor**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Modulbezeichnun**|**Lehrveranstal-**||**SWS**||**samt**|**Se**|**mester**<br>|**in ECTS-**<br>|**Art und Umfan der Prüfun**|**Mo-**|
+|**g**|**tung**||||<br>||**Punk**|**ten**<sup>**1**</sup>|**g  g**|**dul-**|
+|||**V**|**Ü**<br>**P**|**S**|**ECTS**|**1.**|**2.**|**3. **<br>**4.**||**note**|
+|Pflichtbereich (40 ECTS)|||||||||||
+|**Development Economics I**|Vorlesung<br>Übung|2|1||**5**|5|||Klausur (60-90 Min.)|1|
+|**Development Economics II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)|(2)|**5**||5||Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.) und<br>Hausarbeit (15 S.)<br>(33% + 67%)<sup>2</sup>|1|
+|**Research Methods I**|Vorlesung<br>Übung|2|1||**5**|5|||Klausur (60-90 Min.)|1|
+|**Research Methods II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)|(2)|**5**||5||Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.)<br>und Hausarbeit (15 S.)<br>(33% + 67%)<sup>2</sup>|1|
+|**International Business Ethics I**|Vorlesung<br>Übung|2|1||**5**||5||Klausur (60-90 Min.)|1|
+|**International Business Ethics II**|Vorlesung und<br>Übung oder Haupt-<br>seminar|(2)|(1)|(2)|**5**|||5|Klausur (60-90 Min., 100 %)<br>oder<br>Referat (25-40 Min.) und<br>Hausarbeit (15 S.)<br>(33% + 67%)<sup>2</sup>|1|
+|Wahlpflichtbereich Internationale Ve|rtiefung – Internationa|l Econ|omics gemäß §|5|||||||
+|**International Economics I**|vgl.|§ 5 Ab|s. 4||**5**|(5)|(5)|(5)|vgl. § 5 Abs. 3|1|
+|**International Economics II**|vgl.|§ 5 Ab|s. 4||**5**|(5)|(5)|(5)|vgl. § 5 Abs. 3|1|
+|Wahlpflichtbereich Regionale Vertie|<br>fung – Regional Modu|<br>les ge|<br>mäß § 6 (10 EC|TS)|||||||
+|**Regional Module I**|vgl.|§6 Ab|s. 4||**5**|(5)|(5)|(5)|vgl.§6 Abs. 3|1|
+|**Regional Module II**|vgl.|§6 Ab|s. 4||**5**|(5)|(5)|(5)|vgl.§6 Abs. 3|1|
+|Wahlpflichtbereich – Elective Modul|es gemäß § 7 (20 ECT|S)|||||||||
 
 10 
 
-|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**||||||**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Workload-Verteilung pro**<br>**Semester in ECTS-**<br>**Punkten1**|**Art und Umfang der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**SWS**||||**Ge-**<br>|||||||
-|||||||**samt**<br>**ECTS**||**Punkten1**|||||
-|||**V**|**Ü**|**P**|**S**||**1.**|**2.**|**3. **|**4.**|||
-|**Elective Module I**|vgl.|§7 Abs. 4||||**5**|(5)|(5)|(5)||vgl.§7 Abs. 3|1|
-|**Elective Module II**|vgl.|§7 Abs. 4||||**5**|(5)|(5)|(5)||vgl.§7 Abs. 3|1|
-|**Elective Module III**|vgl.|§7 Abs. 4||||**5**|(5)|(5)|(5)||vgl.§7 Abs. 3|1|
-|**Elective Module IV**|vgl.|§7 Abs. 4||||**5**|(5)|(5)|(5)||vgl.§7 Abs. 3|1|
-|Freies Ergänzungsstudium – Elective Complementary Modules gemäß § 8 (20 ECTS)|||||||||||||
-||||||||||||||
-|**Elective Complementary Mo-**<br>**dule I**|vgl.|§ 8 Abs. 3||||**5**|(5)|(5)|(5)||vgl. § 8 Abs. 3|0|
-|**Elective Complementary Mo-**<br>**dule II**|vgl.|§ 8 Abs. 3||||**5**|(5)|(5)|(5)||vgl. § 8 Abs. 3|0|
-|**Elective Complementary Mo-**<br>**dule III**|vgl.|§ 8 Abs. 3||||**5**|(5)|(5)|(5)||vgl. § 8 Abs. 3|0|
-|**Elective Complementary Mo-**<br>**dule IV**|vgl.|§ 8 Abs. 3||||**5**|(5)|(5)|(5)||vgl. § 8 Abs. 3|0|
-|Masterarbeit|||||||||||||
-||||||||||||||
-|**Master Thesis**|Masterarbeit|||||**30**||||30|Masterarbeit(50-70 S.)|1|
-|**Summe SWS und ECTS-Punkte**||**8-**<br>**16**|**4-8**|**0**|**0-8**|**120**|**30**|**30**|**30**|**30**|||
-|||**12 - 32**|||||||||||
+|**Modulbezeichnung**|**Lehrveranstal-**<br>**tung**<br>**V**|**SWS**<br>**Ü**<br>**P**|**S**|**Ge-**<br>**samt**<br>**ECTS**|**Work**<br>**Se**<br>**1.**|**load-Ve**<br>**mester**<br>**Punk**<br>**2.**|**rteilung pro**<br>**in ECTS-**<br>**ten**<sup>**1**</sup><br>**3. **<br>**4.**|**Art und Umfang der Prüfung**|**Faktor**<br>**Mo-**<br>**dul-**<br>**note**|
+|---|---|---|---|---|---|---|---|---|---|
+|**Elective Module I**|vgl.§7 Abs|. 4||**5**|(5)|(5)|(5)|vgl.§7 Abs. 3|1|
+|**Elective Module II**|vgl.§7 Abs|. 4||**5**|(5)|(5)|(5)|vgl.§7 Abs. 3|1|
+|**Elective Module III**|vgl.§7 Abs|. 4||**5**|(5)|(5)|(5)|vgl.§7 Abs. 3|1|
+|**Elective Module IV**|vgl.§7 Abs|. 4||**5**|(5)|(5)|(5)|vgl.§7 Abs. 3|1|
+|Freies Ergänzungsstudium – Elect|ive Complementary Modules ge|mäß § 8 (20 E|CTS)|||||||
+|**Elective Complementary Mo-**<br>**dule I**|vgl. § 8 Abs|. 3||**5**|(5)|(5)|(5)|vgl. § 8 Abs. 3|0|
+|**Elective Complementary Mo-**<br>**dule II**|vgl. § 8 Abs|. 3||**5**|(5)|(5)|(5)|vgl. § 8 Abs. 3|0|
+|**Elective Complementary Mo-**<br>**dule III**|vgl. § 8 Abs|. 3||**5**|(5)|(5)|(5)|vgl. § 8 Abs. 3|0|
+|**Elective Complementary Mo-**<br>**dule IV**|vgl. § 8 Abs|. 3||**5**|(5)|(5)|(5)|vgl. § 8 Abs. 3|0|
+|Masterarbeit||||||||||
+|**Master Thesis**|Masterarbeit|||**30**|||30|Masterarbeit(50-70 S.)|1|
+|**Summe S**|**WS und ECTS-Punkte**<br>**8-**<br>**16**|**4-8**<br>**0**<br>**12 - 32**|**0-8**|**120**|**30**|**30**|**30**<br>**30**|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

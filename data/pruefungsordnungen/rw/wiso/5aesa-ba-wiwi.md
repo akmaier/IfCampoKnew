@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "28. August 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:23:37+00:00
-page_count_chars: 9954
+scraped_at: 2026-07-01T10:40:12+00:00
+page_count_chars: 9774
 ---
 
 # 28. August 2009
@@ -12,13 +12,13 @@ page_count_chars: 9954
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AeSa-BA_WiWi.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/>
 
-## **Fünfte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
 Vom 28. August 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschaftswissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 01. August 2006, zuletzt geändert durch Satzung vom 19. März 2009, wird wie folgt geändert: 
 
@@ -28,21 +28,23 @@ Die Prüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts
 
    - b) Abs. 2 Satz 1 erhält folgende Fassung: 
 
-      - „[1] Der Bachelor of Arts und der Bachelor of Science sind erste 
+      - „<sup>1</sup> Der Bachelor of Arts und der Bachelor of Science sind erste 
 
       - berufsqualifizierende Abschlüsse des wissenschaftlichen Studiums.“ 
 
 2. § 2 wird wie folgt geändert: 
 
-   - a) Es wird folgender neuer Abs. 2 eingefügt: „(2) Aufgrund der bestandenen Bachelorprüfung in Wirtschaftsinformatik wird der akademische Grad Bachelor of Science (abgekürzt: B.Sc.) verliehen.“ 
+   - a) Es wird folgender neuer Abs. 2 eingefügt: 
+
+      - „(2) Aufgrund der bestandenen Bachelorprüfung in Wirtschaftsinformatik wird der akademische Grad Bachelor of Science (abgekürzt: B.Sc.) verliehen.“ 
 
    - b) Der bisherige Absatz 2 wird zu Absatz 3. 
 
 3. In § 4 wird folgender neuer Absatz 5 angefügt: 
 
-„(5)[1] Das Studium im Studiengang **Wirtschaftsinformatik** umfasst im 
+„(5)<sup>1</sup> Das Studium im Studiengang **Wirtschaftsinformatik** umfasst im 
 
-**Pflichtbereich** (§ 32) 40 ECTS-Punkte.[2] Dieser besteht aus Pflichtmodulen.[3] Der **Kernbereich** (§ 41) umfasst 97,5 ECTS-Punkte, der sich aus jeweils drei Bereichen im Umfang von 15, 45 und 37,5 ECTS-Punkten zusammensetzt.[4] Der Vertiefungsbereich (§ 41) umfasst 30 bis 35 ECTS-Punkte, die sich auf zwei Bereiche verteilen.[5] Der Bereich Schlüsselqualifikationen (§ 42) besteht aus drei bis vier Modulen im Umfang von 7,5 bis 12,5 ECTS-Punkten.“ 
+**Pflichtbereich** (§ 32) 40 ECTS-Punkte.<sup>2</sup> Dieser besteht aus Pflichtmodulen.<sup>3</sup> Der **Kernbereich** (§ 41) umfasst 97,5 ECTS-Punkte, der sich aus jeweils drei Bereichen im Umfang von 15, 45 und 37,5 ECTS-Punkten zusammensetzt.<sup>4</sup> Der Vertiefungsbereich (§ 41) umfasst 30 bis 35 ECTS-Punkte, die sich auf zwei Bereiche verteilen.<sup>5</sup> Der Bereich Schlüsselqualifikationen (§ 42) besteht aus drei bis vier Modulen im Umfang von 7,5 bis 12,5 ECTS-Punkten.“ 
 
 4. Es werden folgende neue §§ 32 und 33 eingefügt: 
 
@@ -72,9 +74,9 @@ Im Pflichtbereich (Methodenkompetenz) sind Prüfungen in folgenden Modulen zu er
 
    - Theoretische Informatik für Wirtschaftsinformatik (5 ECTS-Punkte). 
 
-## **§ 33** 
+# **§ 33** 
 
-## **Assessmentprüfung im Studium der Wirtschaftsinformatik, Studienverlauf** 
+# **Assessmentprüfung im Studium der Wirtschaftsinformatik, Studienverlauf** 
 
 Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bis zum Ende des zweiten Semesters folgende Module erfolgreich abzulegen: 
 
@@ -102,9 +104,9 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
 6. Es wird folgender neuer § 41 eingefügt: 
 
-## „ **§ 41** 
+# „ **§ 41** 
 
-## **Kern- und Vertiefungsbereich im Studium Wirtschaftsinformatik** 
+# **Kern- und Vertiefungsbereich im Studium Wirtschaftsinformatik** 
 
 (1) Im Studiengang Wirtschaftsinformatik müssen folgende Module im Umfang von 97,5 ECTS-Punkten aus dem Kernbereich erfolgreich abgeschlossen sein: 
 
@@ -144,7 +146,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
    - Datenbanksysteme (5 ECTS-Punkte). 
 
-- (2)[1] Im Vertiefungsbereich sind Prüfungen in folgenden Modulen zu erbringen: 
+- (2)<sup>1</sup> Im Vertiefungsbereich sind Prüfungen in folgenden Modulen zu erbringen: 
 
 1. Fachliche Vertiefung (15 bis zu 35 ECTS-Punkte) 
 
@@ -160,7 +162,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
    - wahlweise Planspiel (5 ECTS-Punkte). 
 
-2Im Bereich der Fachvertiefung können nur Module gewählt werden, die nicht bereits Bestandteil des Bachelorstudiengangs Wirtschaftsinformatik sind.[3] Die wählbaren Module werden im Modulhandbuch bekannt gegeben. 
+2Im Bereich der Fachvertiefung können nur Module gewählt werden, die nicht bereits Bestandteil des Bachelorstudiengangs Wirtschaftsinformatik sind.<sup>3</sup> Die wählbaren Module werden im Modulhandbuch bekannt gegeben. 
 
 (3) Unter den wahlweise zu erbringenden Modulen kann im Vertiefungsbereich und im Bereich Schlüsselqualifikationen zwischen Modulen im Umfang von insgesamt 20 ECTS-Punkten gewählt werden.“ 
 
@@ -168,7 +170,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
 8. Im neuen § 42 („Schlüsselqualifikationen, Zweitfach“) wird folgender neuer Absatz 4 angefügt: 
 
-„(4)[1] Im Studium der Wirtschaftsinformatik sind Module im Umfang von 7,5 bzw. wahlweise 12,5 ECTS-Punkten nachzuweisen.[2] Diese entfallen auf 
+„(4)<sup>1</sup> Im Studium der Wirtschaftsinformatik sind Module im Umfang von 7,5 bzw. wahlweise 12,5 ECTS-Punkten nachzuweisen.<sup>2</sup> Diese entfallen auf 
 
 1. Seminar Wirtschaftsinformatik (2,5 ECTS-Punkte) 
 
@@ -180,62 +182,61 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
    - 3§ 41 Abs. 3 gilt entsprechend“ 
 
-## 9. Es wird folgende neue Anlage 4 eingefügt: 
+# 9. Es wird folgende neue Anlage 4 eingefügt: 
 
-## „Anlage 4 Bachelor in Wirtschaftsinformatik 
+# „Anlage 4 Bachelor in Wirtschaftsinformatik 
 
-|9. Es wird folgende neue Anlage 4 eingefügt:<br>„Anlage 4 Bachelor in Wirtschaftsinformatik||||||||
-|---|---|---|---|---|---|---|---|
-|||WS<br>SS<br>WS<br>SS<br>WS<br>SS||||||
-|||1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
-||SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|
-|**Pflichtbereich(Methodenkompetenz)**|**32**<br>**40**|||||||
-|**Mathematik**|8<br>10|||||||
-|Mathematik|8<br>10||8<br>10|||||
-|**BWL**|4<br>5|||||||
-|Buchführung|4<br>5|4<br>5||||||
-|**Wirtschaftsinformatik**|4<br>5|||||||
-|IT und E-Business für Wirtschaftsinformatik|4<br>5|4<br>5||||||
-|**Informatik**|16<br>20|||||||
-|Algorithmen und Datenstrukturen|8<br>10|8<br>10||||||
-|Grundlagen der Logik und Logikprogrammierung|4<br>5|4<br>5||||||
-|Theoretische Informatik für Wirtschaftsinformatik|4<br>5||4<br>5|||||
-|**Kernbereich(Fachkompetenz)**|**78**<br>**97,5 **|||||||
-|**BWL**|12<br>15|||||||
-|Unternehmer und Unternehmen|4<br>5|4<br>5||||||
-|Absatz|4<br>5||4<br>5|||||
-|Produktion, Logistik, Beschaffung|4<br>5|||4<br>5||||
-|**Wirtschaftsinformatik**|36<br>45|||||||
-|Allgemeine WI1: IT-gestützte Unternehmensführung|4<br>5|||4<br>5||||
-|Allgemeine WI3: IT-Management|4<br>5|||4<br>5||||
-|Allgemeine WI2: E-Business-Management|4<br>5||||4<br>5|||
-|Spezielle WI1: Technologie- und Projektmanag. im E-Business|8<br>10||||4<br>5|4<br>5||
-|Spezielle WI2: Innovations- und Wertschöpfungsmanagement|8<br>10||||4<br>5|4<br>5||
-|SpezielleWI3:Service-,Prozess-, undInformationsmanag.|8<br>10|||||4<br>5|4<br>5|
-|**Informatik**|30<br>37,5|||||||
-|Parallele und Funktionale Programmierung|4<br>5||4<br>5|||||
-|Konzeptionelle Modellierung|4<br>5||4<br>5|||||
-|Grundlagen der Technischen Informatik|6<br>7,5|||6<br>7,5||||
-|Systemprogrammierung|8<br>10|||8<br>10||||
-|Rechnerkommunikation|4<br>5||||4<br>5|||
-|Datenbanksysteme|4<br>5|||||4<br>5||
-
-|**Schlüsselqualifikationen(Sozialkompetenz)**||**8**<br>**12,5 **|||||||
+||||WS|SS|WS|SS|WS|SS|
 |---|---|---|---|---|---|---|---|---|
-|Seminar Wirtschaftsinformatik||2<br>2,5||||2<br>2,5|||
-|Präsentationsfähigkeiten||2<br>2,5||||2<br>2,5|||
-|Einführung in das wissenschaftliche Arbeiten||2<br>2,5||||2<br>2,5|||
-|Fallstudienseminar (WInf)*(0/ 5 ECTS; 5. oder 6. Semester)||2<br>5||||||2<br>5|
-|**Vertiefungsbereich**||**4**<br>**30**|||||||
-|**Fachliche Vertiefung**||2<br>15|||||||
-|Fachvertiefung* ([Telefon entfernt] ECTS; 5. oder 6. Sem.)||0<br>0|||||||
-|Bachelorarbeit||0<br>12||||||12|
-|Seminar zur Bachelorarbeit||2<br>3||||||2<br>3|
-|**Praxiskompetenz**||2<br>15|||||||
-|Praktikum Wirtschaftsinformatik * (0/ 10 ECTS; 5. oder 6. Sem.)||0<br>10|||||10||
-|Planspiel*(0/ 5 ECTS; 5. oder 6. Semester)||2<br>5||||||2<br>5|
-||SWS|122|24|24|26|22|16|10|
-||ECTS|180|30|30|32,5|27,5|30|30|
+||||1. Semester|2. Semester|3. Semester|4. Semester|5. Semester|6. Semester|
+||SWS|ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|SWS<br>ECTS|
+|**Pflichtbereich(Methodenkompetenz)**|**32**|**40**|||||||
+|**Mathematik**|8|10|||||||
+|Mathematik|8|10||8<br>10|||||
+|**BWL**|4|5|||||||
+|Buchführung|4|5|4<br>5||||||
+|**Wirtschaftsinformatik**|4|5|||||||
+|IT und E-Business für Wirtschaftsinformatik|4|5|4<br>5||||||
+|**Informatik**|16|20|||||||
+|Algorithmen und Datenstrukturen|8|10|8<br>10||||||
+|Grundlagen der Logik und Logikprogrammierung|4|5|4<br>5||||||
+|Theoretische Informatik für Wirtschaftsinformatik|4|5||4<br>5|||||
+|**Kernbereich(Fachkompetenz)**|**78**|**97,5 **|||||||
+|**BWL**|12|15|||||||
+|Unternehmer und Unternehmen|4|5|4<br>5||||||
+|Absatz|4|5||4<br>5|||||
+|Produktion, Logistik, Beschaffung|4|5|||4<br>5||||
+|**Wirtschaftsinformatik**|36|45|||||||
+|Allgemeine WI1: IT-gestützte Unternehmensführung|4|5|||4<br>5||||
+|Allgemeine WI3: IT-Management|4|5|||4<br>5||||
+|Allgemeine WI2: E-Business-Management|4|5||||4<br>5|||
+|Spezielle WI1: Technologie- und Projektmanag. im E-Business|8|10||||4<br>5|4<br>5||
+|Spezielle WI2: Innovations- und Wertschöpfungsmanagement|8|10||||4<br>5|4<br>5||
+|SpezielleWI3:Service-,Prozess-, undInformationsmanag.|8|10|||||4<br>5|4<br>5|
+|**Informatik**|30|37,5|||||||
+|Parallele und Funktionale Programmierung|4|5||4<br>5|||||
+|Konzeptionelle Modellierung|4|5||4<br>5|||||
+|Grundlagen der Technischen Informatik|6|7,5|||6<br>7,5||||
+|Systemprogrammierung|8|10|||8<br>10||||
+|Rechnerkommunikation|4|5||||4<br>5|||
+|Datenbanksysteme|4|5|||||4<br>5||
+
+|**Schlüsselqualifikationen(Sozialkompetenz)**|**8**|**12,5 **||||||
+|---|---|---|---|---|---|---|---|
+|Seminar Wirtschaftsinformatik|2|2,5|||2<br>2,5|||
+|Präsentationsfähigkeiten|2|2,5|||2<br>2,5|||
+|Einführung in das wissenschaftliche Arbeiten|2|2,5|||2<br>2,5|||
+|Fallstudienseminar (WInf)*(0/ 5 ECTS; 5. oder 6. Semester)|2|5|||||2<br>5|
+|**Vertiefungsbereich**|**4**|**30**||||||
+|**Fachliche Vertiefung**|2|15||||||
+|Fachvertiefung* ([Telefon entfernt] ECTS; 5. oder 6. Sem.)|0|0||||||
+|Bachelorarbeit|0|12|||||12|
+|Seminar zur Bachelorarbeit|2|3|||||2<br>3|
+|**Praxiskompetenz**|2|15||||||
+|Praktikum Wirtschaftsinformatik * (0/ 10 ECTS; 5. oder 6. Sem.)|0|10||||10||
+|Planspiel*(0/ 5 ECTS; 5. oder 6. Semester)|2|5|||||2<br>5|
+|SWS|122||24<br>24|26|22|16|10|
+|ECTS||180|30<br>30|32,5|27,5|30|30|
 
 „ 
 
@@ -243,7 +244,7 @@ Zum Bestehen der Assessmentprüfung im Studium der Wirtschaftsinformatik sind bi
 
 Die bisherigen Anlagen 4 und 5 werden zu Anlagen 5 und 6. 
 
-## **§ 2 In-Kraft-Treten, Außer-Kraft-Treten** 
+# **§ 2 In-Kraft-Treten, Außer-Kraft-Treten** 
 
 1Die Änderungssatzung tritt am 1. Oktober 2009 in Kraft. 2Sie tritt mit Ablauf des 1. April 2010 außer Kraft. 
 

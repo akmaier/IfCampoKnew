@@ -3,7 +3,7 @@ kind: "fau-pruefungsordnung-document"
 title: "4. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES-BAPO-Mathe-Technoma.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:53:20+00:00
+scraped_at: 2026-07-01T09:15:05+00:00
 page_count_chars: 4726
 ---
 
@@ -14,11 +14,11 @@ page_count_chars: 4726
 
 **Dritte Satzung zur Änderung der Prüfungsordnung für das Bachelorstudium der Mathematik, Technomathematik und Wirtschaftsmathematik sowie das Masterstudium der Mathematik und Technomathematik an der Universität Erlangen-Nürnberg** 
 
-## Vom 4. März 2010 
+# Vom 4. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für das Bachelorstudium der Mathematik, Technomathematik und Wirtschaftsmathematik sowie das Masterstudium der Mathematik und 
 
@@ -30,7 +30,7 @@ Technomathematik an der Universität Erlangen-Nürnberg vom 7. September 2007, z
 
 3. In der Anlage 2 wird in der Tabelle „Bachelorstudium der Mathematik, NF Astronomie“ in Zeile 19 (Experimentalphysik) Spalte 2 das Wort „LA“ ersatzlos gestrichen. 
 
-4. In der Anlage 2 wird in der Tabelle „Bachelorstudium der Mathematik, NF BWL (Betriebswirtschaftslehre)“ Zeile 16 Spalte 2 nach dem Wort „Schlüsselqualifikation“ die hochgestellte Zahl „[5] “ angefügt und unter der Tabelle in der Fußnote „6)“ die Wörter „der WiSo-Fakultät“ durch die Wörter des Fachbereichs Wirtschaftswissenschaften“ ersetzt. 
+4. In der Anlage 2 wird in der Tabelle „Bachelorstudium der Mathematik, NF BWL (Betriebswirtschaftslehre)“ Zeile 16 Spalte 2 nach dem Wort „Schlüsselqualifikation“ die hochgestellte Zahl „<sup>5</sup> “ angefügt und unter der Tabelle in der Fußnote „6)“ die Wörter „der WiSo-Fakultät“ durch die Wörter des Fachbereichs Wirtschaftswissenschaften“ ersetzt. 
 
 5. In der Anlage 2 werden unter der Tabelle „Bachelorstudium der Mathematik, NF VWL (Volkswirtschaftslehre) in der Fußnote „6)“ die Wörter „der WiSo-Fakultät“ durch die Wörter des Fachbereichs Wirtschaftswissenschaften“ ersetzt. 
 
@@ -54,19 +54,15 @@ Technomathematik an der Universität Erlangen-Nürnberg vom 7. September 2007, z
 
    - e) Nach Zeile 47 (Einführung in die Statistik mit Rechnerübungen) wird folgende neue Zeile eingefügt: 
 
-   - „ 
-
-|„|||||||
-|---|---|---|---|---|---|---|
-|f)|ProO|Projekt Optimierung|M|5|||
-||1|Seminar: Projekt zur Optimierung mit<br>Rechnerübungen||5|4|PL: Hausarbeit<br>PL: Präsentation|
-||„<br>In der neuen Zeile 64 (Zeile unter MMW) Spalte 2 werden die Wörter „der WiSo-<br>Fakultät“ durch die Wörter „des Fachbereichs Wirtschaftswissenschaften ersetzt.||||||
+|„<br>ProO|Projekt Optimierung|M<br>5||
+|---|---|---|---|
+|1<br>f) In der<br>Fakul|Seminar: Projekt zur Optimierung mit<br>Rechnerübungen<br>neuen Zeile 64 (Zeile unter MMW) S<br>tät“ durch die Wörter „des Fachbereic|5<br>palte 2 werden<br>hs Wirtschafts|4<br>PL: Hausarbeit<br>PL: Präsentation<br>„<br>die Wörter „der WiSo-<br>wissenschaften ersetzt.|
 
    - g) In der neuen Zeile 66 (Zeile unter VmWw) Spalte 2 werden die Wörter „der WiSooder der Philosophischen Fakultät“ durch die Wörter „des Fachbereichs Wirtschaftswissenschaften in Nürnberg oder des Instituts für Wirtschaftswissenschaft in Erlangen“ ersetzt. 
 
 8. In Anlage 3 werden in der Überschrift die Wörter „§§ 29a, b und 30“ durch die Wörter „§§ 30 bis 32“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. 
 

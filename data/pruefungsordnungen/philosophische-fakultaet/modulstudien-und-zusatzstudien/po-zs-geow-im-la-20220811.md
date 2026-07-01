@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PO ZS Geow im LA 20220811.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/
-scraped_at: 2026-05-01T08:39:42+00:00
-page_count_chars: 7926
+scraped_at: 2026-07-01T09:49:03+00:00
+page_count_chars: 7989
 ---
 
 # PO ZS Geow im LA 20220811.pdf
@@ -12,7 +12,7 @@ page_count_chars: 7926
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften_im_Lehramt/konsolidierte_Fassungen/PO_ZS_Geow_im_LA_20220811.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/modulstudien-und-zusatzstudien/>
 
-## **Studien- und Prüfungsordnung der Zusatzstudien „Geowissenschaften im Lehramt“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS Geow im LA – Vom 11. August 2022** 
+# **Studien- und Prüfungsordnung der Zusatzstudien „Geowissenschaften im Lehramt“ an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – PO ZS Geow im LA – Vom 11. August 2022** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 56 Abs. 6 Nr. 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 Bayerisches Hochschulgesetz ( **BayHSchG** ) erlässt die FAU folgende Studien- und Prüfungsordnung: 
 
@@ -32,11 +32,11 @@ Diese Studien- und Prüfungsordnung regelt die Ziele, Inhalte und Prüfungen der
 
 ## **§ 2 Ziele; Inhalt; Struktur** 
 
-(1)[1] Die Zusatzstudien Geowissenschaften im Lehramt richten sich an Studierende des Lehramts an Gymnasien oder Realschulen mit den Fächern Geographie, Chemie, Mathematik, Biologie oder Physik sowie des Lehramts an Mittelschulen oder Grundschulen.[2] Sie dienen in diesem Rahmen dem Erwerb zusätzlicher Qualifikationen.[3] Zusätzlich qualifizieren die Zusatzstudien für geowissenschaftliche Tätigkeiten auch außerhalb des Lehramtsbereichs. 
+(1)<sup>1</sup> Die Zusatzstudien Geowissenschaften im Lehramt richten sich an Studierende des Lehramts an Gymnasien oder Realschulen mit den Fächern Geographie, Chemie, Mathematik, Biologie oder Physik sowie des Lehramts an Mittelschulen oder Grundschulen.<sup>2</sup> Sie dienen in diesem Rahmen dem Erwerb zusätzlicher Qualifikationen.<sup>3</sup> Zusätzlich qualifizieren die Zusatzstudien für geowissenschaftliche Tätigkeiten auch außerhalb des Lehramtsbereichs. 
 
-(2)[1] Inhalt der Zusatzstudien Geowissenschaften im Lehramt sind die geowissenschaftlichen Lehrplaninhalte der Gymnasien und Realschulen mit Schwerpunkt auf der Lehrplanalternative Geologie unter Berücksichtigung der aktuellen geowissenschaftlichen Herausforderungen, z. B. Ressourcen, Klimawandel, Naturkatastrophen, Grundwasser, Energie.[2] Mit diesem Studienangebot werden die zukünftigen Lehrerinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissenschaftlichen Inhalte der bundesweiten Lehrpläne sowie die Lehrplanalternative Geologie der bayerischen Gymnasien vorbereitet.[3] Dabei liegt der Fokus auf der Verknüpfung von Theorie und Praxis für den Schulalltag. 
+(2)<sup>1</sup> Inhalt der Zusatzstudien Geowissenschaften im Lehramt sind die geowissenschaftlichen Lehrplaninhalte der Gymnasien und Realschulen mit Schwerpunkt auf der Lehrplanalternative Geologie unter Berücksichtigung der aktuellen geowissenschaftlichen Herausforderungen, z. B. Ressourcen, Klimawandel, Naturkatastrophen, Grundwasser, Energie.<sup>2</sup> Mit diesem Studienangebot werden die zukünftigen Lehrerinnen und Lehrer sowohl fachlich als auch didaktisch fundiert auf die geowissenschaftlichen Inhalte der bundesweiten Lehrpläne sowie die Lehrplanalternative Geologie der bayerischen Gymnasien vorbereitet.<sup>3</sup> Dabei liegt der Fokus auf der Verknüpfung von Theorie und Praxis für den Schulalltag. 
 
-(3)[1] Die Zusatzstudien sind so strukturiert, dass die Studierenden im ersten Semester grundlegende fachwissenschaftliche Kompetenzen in den Modulen „Das System Erde“ und „Der Mensch im geowissenschaftlichen Umfeld“ erwerben.[2] Im zweiten 
+(3)<sup>1</sup> Die Zusatzstudien sind so strukturiert, dass die Studierenden im ersten Semester grundlegende fachwissenschaftliche Kompetenzen in den Modulen „Das System Erde“ und „Der Mensch im geowissenschaftlichen Umfeld“ erwerben.<sup>2</sup> Im zweiten 
 
 1 
 
@@ -46,7 +46,7 @@ Semester erwerben die Studierenden in den Seminaren „Rohstoffe und Nachhaltigk
 
 (1) Die Aufnahme der Zusatzstudien ist zum Wintersemester oder Sommersemester zulässig. 
 
-(2)[1] Die Regelstudienzeit beträgt zwei Semester.[2] Der Umfang der im Rahmen der Zusatzstudien angebotenen Module richtet sich nach der **Anlage** . 
+(2)<sup>1</sup> Die Regelstudienzeit beträgt zwei Semester.<sup>2</sup> Der Umfang der im Rahmen der Zusatzstudien angebotenen Module richtet sich nach der **Anlage** . 
 
 ## **§ 4 Qualifikationsvoraussetzungen** 
 
@@ -60,13 +60,15 @@ Der Zugang zu den Zusatzstudien Geowissenschaften im Lehramt und die Teilnahme a
 
 ## **§ 6 Zulassung zu den Prüfungen** 
 
-1Mit der Immatrikulation in die in § 4 genannten Studiengänge gelten Studierende zu den Modulprüfungen der Zusatzstudien als zugelassen.[2] Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits anderweitig erfolgt ist. 
+1Mit der Immatrikulation in die in § 4 genannten Studiengänge gelten Studierende zu den Modulprüfungen der Zusatzstudien als zugelassen.<sup>2</sup> Die Zulassung ist zu versagen, soweit eine Zulassung zur jeweiligen Modulprüfung bereits anderweitig erfolgt ist. 
 
-**§ 7 Prüfungen** Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** 
+## **§ 7 Prüfungen** 
+
+Gegenstände sowie Art und Umfang der Prüfungen ergeben sich aus der **Anlage** . 
 
 ## **§ 8 Transcript of Records; Zertifikat** 
 
-(1)[1] Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten Modulprüfungen erfolgt über das Transcript of Records nach § 20 Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU – **LAPO** – und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/ Fachrichtung Sozialpädagogik – Vocational Education/ Social Pedagogy and Social Services“ in der jeweils geltenden Fassung.[2] Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
+(1)<sup>1</sup> Der Nachweis über die im Rahmen der Zusatzstudien erfolgreich abgelegten Modulprüfungen erfolgt über das Transcript of Records nach § 20 Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium an der FAU – **LAPO** – und für die Teilstudiengänge des an der Otto-Friedrich-Universität Bamberg verorteten Studiengangs Bachelor Ed. / Master Ed. „Berufliche Bildung/ Fachrichtung Sozialpädagogik – Vocational Education/ Social Pedagogy and Social Services“ in der jeweils geltenden Fassung.<sup>2</sup> Auf Antrag der bzw. des Studierenden beim Prüfungsamt können bis spätestens acht Wochen vor Zeugnisausstellung einzelne Zusatzmodule davon ausgenommen werden. 
 
 2 
 
@@ -80,18 +82,14 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2022 in Kraft.
 
 ## **Anlage** Studienverlaufsplan „Zusatzstudien Geowissenschaften im Lehramt“ 
 
-|||**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**1. Sem**|**2. Sem**|**Art und Umfang der  Prüfung**|
-|---|---|---|---|---|---|---|---|---|---|
-|**Modulbezeichnung**|**Lehrveranstaltung**|**V**|**Ü**|**P**|**S**|||||
-|**Das System Erde (Geo-System-Erde)**|Das System Erde||1||1|**5**|5||SeL<br>(Hausarbeit 5 Seiten)|
-|**Der Mensch im geowissenschaftlichen**<br>**Umfeld (Geo-Umfeld)**|Der Mensch im geowissenschaftlichen<br>Umfeld||1||1|**5**|5||Mündliche Prüfung (30 Minuten)|
-||Archäometrisches Seminar||2|||||||
-|**Rohstoffe und Nachhaltigkeit**<br>**(Geo-Rohstoffe**)|Seminar Rohstoffe und Nachhaltigkeit||||2|**5**||5|SeL (Präsentation in Form eines<br>Video-Tutorials 5 Minuten und<br>Bericht 5 Seiten)|
-|**Kompetenzseminar zum Klimawandel**<br>**(Geo-Klimawandel)**|Kompetenzseminar zum Klimawandel||||2|**5**||5|SeL (Projektpräsentation<br>10 Minuten)|
-|||**0**|**4**|**0**|**6**|**20**|**10**|**10**||
-|||||||||||
-|**Summe SWS und ECTS-Punkte**||**10**||||||||
-|||||||||||
+|**Modulbezeichnung**|**Lehrveranstaltung**<br>**V**|**SW**<br>**Ü**|**S**<br>**P**|**S**|**Gesamt**<br>**ECTS**|**1. Sem**|**2. Sem**|**Art und Umfang der  Prüfung**|
+|---|---|---|---|---|---|---|---|---|
+|**Das System Erde (Geo-System-Erde)**|Das System Erde|1||1|**5**|5||SeL<br>(Hausarbeit 5 Seiten)|
+|**Der Mensch im geowissenschaftlichen**<br>|Der Mensch im geowissenschaftlichen<br>Umfeld|1||1|**5**|5||Mündliche Prüfung (30 Minuten)|
+|**Umfeld (Geo-Umfeld)**|Archäometrisches Seminar|2|||||||
+|**Rohstoffe und Nachhaltigkeit**<br>**(Geo-Rohstoffe**)|Seminar Rohstoffe und Nachhaltigkeit|||2|**5**||5|SeL (Präsentation in Form eines<br>Video-Tutorials 5 Minuten und<br>Bericht 5 Seiten)|
+|**Kompetenzseminar zum Klimawandel**<br>**(Geo-Klimawandel)**|Kompetenzseminar zum Klimawandel|||2|**5**||5|SeL (Projektpräsentation<br>10 Minuten)|
+|**Summe SWS und ECTS-Punkte**|**0**|**4**<br>**10**|**0**|**6**|**20**|**10**|**10**||
 
 4 
 

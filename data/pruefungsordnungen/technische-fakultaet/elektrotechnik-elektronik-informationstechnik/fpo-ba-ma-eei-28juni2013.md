@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 20.09.2007 i.d.F. 28.06.2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_EEI-28JUNI2013.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:07:27+00:00
-page_count_chars: 23813
+scraped_at: 2026-07-01T11:29:17+00:00
+page_count_chars: 23984
 ---
 
 # PDF vom 20.09.2007 i.d.F. 28.06.2013
@@ -16,7 +16,7 @@ page_count_chars: 23813
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI - Vom 20. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Elektrotechnik, Elektronik und Informationstechnik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOEEI - Vom 20. September 2007** 
 
 geändert durch Satzungen vom 10. Juli 2008 
 
@@ -44,21 +44,21 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 36 Bachelorstudiengang, Regelstudienzeit, Studienbeginn** 
 
-(1)[1] Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik setzt sich aus Modulen verteilt auf sechs Semester zusammen.[2] Enthalten ist darin eine berufspraktische Tätigkeit von zehn Wochen im Umfang von zehn ECTSPunkten, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung der Bachelorarbeit.[3] Für das Sommersemesterangebot 2011 und 2012 findet abweichend von folgenden Bestimmungen **Anlage 2 und Anlage 3** Anwendung. 
+(1)<sup>1</sup> Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik setzt sich aus Modulen verteilt auf sechs Semester zusammen.<sup>2</sup> Enthalten ist darin eine berufspraktische Tätigkeit von zehn Wochen im Umfang von zehn ECTSPunkten, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist, und die Zeit für die Anfertigung der Bachelorarbeit.<sup>3</sup> Für das Sommersemesterangebot 2011 und 2012 findet abweichend von folgenden Bestimmungen **Anlage 2 und Anlage 3** Anwendung. 
 
 1 
 
 (2) Die Regelstudienzeit beträgt sechs Semester. 
 
-(3)[1] Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik beginnt jeweils zum Wintersemester.[2] Abweichend von Satz 1 kann das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik auch zum Sommersemester 2011 und zum Sommersemester 2012 begonnen werden. 
+(3)<sup>1</sup> Das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik beginnt jeweils zum Wintersemester.<sup>2</sup> Abweichend von Satz 1 kann das Bachelorstudium der Elektrotechnik, Elektronik und Informationstechnik auch zum Sommersemester 2011 und zum Sommersemester 2012 begonnen werden. 
 
 ## **§ 37 Masterstudiengang, Regelstudienzeit, Sprache** 
 
-(1)[1] Das Masterstudium Elektrotechnik, Elektronik und Informationstechnik baut konsekutiv auf den Bachelorstudiengang Elektrotechnik, Elektronik und Informationstechnik auf.[2] Es setzt sich aus Modulen verteilt auf drei Semester mit einem Umfang von 90 ECTS-Punkten zusammen, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist.[3] Hinzu kommen sechs Monate für die Anfertigung der Masterarbeit (30 ECTS-Punkte).[4] Im Ausland erbrachte gleichwertige Module, Prüfungen und sonstige Leistungsnachweise können auf Antrag im Umfang von bis zu 45 ECTS-Punkten anerkannt werden. 
+(1)<sup>1</sup> Das Masterstudium Elektrotechnik, Elektronik und Informationstechnik baut konsekutiv auf den Bachelorstudiengang Elektrotechnik, Elektronik und Informationstechnik auf.<sup>2</sup> Es setzt sich aus Modulen verteilt auf drei Semester mit einem Umfang von 90 ECTS-Punkten zusammen, die während des Studiums entsprechend den Praktikumsrichtlinien zu erbringen ist.<sup>3</sup> Hinzu kommen sechs Monate für die Anfertigung der Masterarbeit (30 ECTS-Punkte).<sup>4</sup> Im Ausland erbrachte gleichwertige Module, Prüfungen und sonstige Leistungsnachweise können auf Antrag im Umfang von bis zu 45 ECTS-Punkten anerkannt werden. 
 
 (2) Die Regelstudienzeit beträgt vier Semester. 
 
-(3)[1] Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.[2] Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.[3] Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden. 
+(3)<sup>1</sup> Die Unterrichtssprache im Masterstudiengang ist deutsch oder englisch und wird vor Vorlesungsbeginn ortsüblich im Modulhandbuch bekannt gemacht.<sup>2</sup> Bei schriftlichen Prüfungen folgt die Prüfungssprache der Unterrichtssprache.<sup>3</sup> Bei mündlichen Prüfungen kann von der Regelung des Satzes 2 im Einvernehmen mit dem Prüfling abgewichen werden. 
 
 ## **§ 38 Studienrichtungen** 
 
@@ -76,7 +76,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 6. Mikroelektronik. 
 
-2Zu jeder Studienrichtung wird vom Prüfungsausschuss ein Modulkatalog erstellt und durch Aushang bekannt gegeben.[3] Der Katalog enthält für jede Studienrichtung Kernmodule im Gesamtumfang von 30 ECTS-Punkten und Vertiefungsmodule im Gesamtumfang von mindestens 25 ECTS-Punkten sowie die Liste der Laborpraktika und Hauptseminare der Studienrichtung.[4] Art und Dauer der Prüfungen in den Studienrichtungsmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind dem Katalog zu entnehmen. 
+2Zu jeder Studienrichtung wird vom Prüfungsausschuss ein Modulkatalog erstellt und durch Aushang bekannt gegeben.<sup>3</sup> Der Katalog enthält für jede Studienrichtung Kernmodule im Gesamtumfang von 30 ECTS-Punkten und Vertiefungsmodule im Gesamtumfang von mindestens 25 ECTS-Punkten sowie die Liste der Laborpraktika und Hauptseminare der Studienrichtung.<sup>4</sup> Art und Dauer der Prüfungen in den Studienrichtungsmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind dem Katalog zu entnehmen. 
 
 ## **II. Teil: Besondere Bestimmungen** 
 
@@ -84,17 +84,17 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 39 Gliederung des Bachelorstudiums** 
 
-(1)[1] Es gibt Pflichtmodule, Kernmodule, Vertiefungsmodule und Wahlmodule.[2] Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen in den 
+(1)<sup>1</sup> Es gibt Pflichtmodule, Kernmodule, Vertiefungsmodule und Wahlmodule.<sup>2</sup> Die Verteilung über die Studiensemester, die Art und Dauer der Prüfungen in den 
 
 2 
 
 Pflichtmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen. 
 
-(2)[1] In **Anlage 1 Nr. 1 bis Nr. 9 und Nr. 11 bis Nr. 26** sind die Pflichtmodule, die für alle Studierenden obligatorisch sind, aufgeführt.[2] Der Umfang beträgt 130 ECTSPunkte. 
+(2)<sup>1</sup> In **Anlage 1 Nr. 1 bis Nr. 9 und Nr. 11 bis Nr. 26** sind die Pflichtmodule, die für alle Studierenden obligatorisch sind, aufgeführt.<sup>2</sup> Der Umfang beträgt 130 ECTSPunkte. 
 
-(3)[1] Im fünften und sechsten Semester sind Kernmodule (10 ECTS-Punkte) und ein Vertiefungsmodul oder ein weiteres Kernmodul (5 ECTS-Punkte) aus dem Katalog der Studienrichtung zu wählen.[ 2] Bei der Anmeldung zur ersten Prüfung in einem Modul der Studienrichtung legen die Studierenden fest, welche Studienrichtung sie wählen.[3] Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung des bzw. der Prüfungsausschussvorsitzenden möglich. 
+(3)<sup>1</sup> Im fünften und sechsten Semester sind Kernmodule (10 ECTS-Punkte) und ein Vertiefungsmodul oder ein weiteres Kernmodul (5 ECTS-Punkte) aus dem Katalog der Studienrichtung zu wählen.<sup>2</sup> Bei der Anmeldung zur ersten Prüfung in einem Modul der Studienrichtung legen die Studierenden fest, welche Studienrichtung sie wählen.<sup>3</sup> Ein Wechsel der Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung des bzw. der Prüfungsausschussvorsitzenden möglich. 
 
-(4)[1] Es sind mindestens 5 ECTS-Punkte durch technische Wahlmodule aus dem Angebot der Technischen Fakultät zu erwerben.[2] Aus dem Angebot der gesamten Universität sind nichttechnische Wahlmodule von 5 ECTS-Punkten zu erbringen, dabei sind nichttechnische Module der Technischen Fakultät und alle Module der virtuellen Hochschule Bayern mit dem Studienfachberater abzustimmen. 
+(4)<sup>1</sup> Es sind mindestens 5 ECTS-Punkte durch technische Wahlmodule aus dem Angebot der Technischen Fakultät zu erwerben.<sup>2</sup> Aus dem Angebot der gesamten Universität sind nichttechnische Wahlmodule von 5 ECTS-Punkten zu erbringen, dabei sind nichttechnische Module der Technischen Fakultät und alle Module der virtuellen Hochschule Bayern mit dem Studienfachberater abzustimmen. 
 
 ## **§ 40 Grundlagen- und Orientierungsprüfung** 
 
@@ -108,7 +108,7 @@ Pflichtmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1
 
 ## **§ 42 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Elektrotechnik, Elektronik und Informationstechnik zu erlernen.[ 2] Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Department ElektrotechnikElektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.[3] Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Elektrotechnik, Elektronik und Informationstechnik zu erlernen.<sup>2</sup> Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Department ElektrotechnikElektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt.<sup>3</sup> Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in 300 Stunden abgeschlossen werden kann. 
 
 (2) Die Bachelorarbeit wird mit 10 ECTS-Punkten bewertet. 
 
@@ -116,11 +116,11 @@ Pflichtmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1
 
 (1) Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** einschließlich eines Laborpraktikums und eines Hauptseminars aus der gewählten Studienrichtung im Umfang von je 2,5 ECTS-Punkten und der Bachelorarbeit bestanden sowie die berufspraktische Tätigkeit entsprechend den Praktikumsrichtlinien nachgewiesen und damit mindestens 180 ECTS-Punkte erworben worden sind. 
 
-(2)[1] Bei der Bildung der Gesamtnote gehen alle benoteten Module einschließlich der Bachelorarbeit mit dem Gewicht der zugeordneten ECTS-Punkten ein.[2] Für den Wahlfach- und den Studienrichtungsbereich wird jeweils eine Zwischennote gebildet, 
+(2)<sup>1</sup> Bei der Bildung der Gesamtnote gehen alle benoteten Module einschließlich der Bachelorarbeit mit dem Gewicht der zugeordneten ECTS-Punkten ein.<sup>2</sup> Für den Wahlfach- und den Studienrichtungsbereich wird jeweils eine Zwischennote gebildet, 
 
 3 
 
-in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTSPunkte eingehen.[3] Die Zwischennote der Wahlmodule geht gewichtet mit 10 ECTSPunkten in die Gesamtnote ein.[4] Die Zwischennote der Studienrichtungsmodule einschließlich des Hauptseminars geht gewichtet mit 17,5 ECTS-Punkten in die Gesamtnote ein. 
+in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTSPunkte eingehen.<sup>3</sup> Die Zwischennote der Wahlmodule geht gewichtet mit 10 ECTSPunkten in die Gesamtnote ein.<sup>4</sup> Die Zwischennote der Studienrichtungsmodule einschließlich des Hauptseminars geht gewichtet mit 17,5 ECTS-Punkten in die Gesamtnote ein. 
 
 ## **2. Masterprüfung** 
 
@@ -154,7 +154,7 @@ in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECT
 
 ## **§ 45 Umfang und Gliederung des Masterstudiums** 
 
-1Das Masterstudium besteht aus den Kernmodulen der Studienrichtung (30 ECTSPunkte), aus Vertiefungsmodulen der Studienrichtung im Umfang von 30 ECTSPunkten, aus je einem Laborpraktikum (2,5 ECTS-Punkte) und einem Hauptseminar (2,5 ECTS-Punkte) der Studienrichtung; weiterhin aus Wahlmodulen im Umfang von 15 ECTS-Punkten und einem Hauptseminar (2,5 ECTS-Punkte) aus dem Angebot der gesamten Universität sowie einem Laborpraktikum (2,5 ECTS-Punkte) aus dem Angebot der Technischen Fakultät.[2] Hinzu kommt in der Regel ein Forschungspraktikum an einem EEI-Lehrstuhl im Umfang von 5 ECTS-Punkten.[3] Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTS-Punkten zugelassen werden.[4] Bei der Anmeldung zur ersten Modulprüfung legen die Studierenden fest, welche Studienrichtung sie wählen.[5] Ein Wechsel der 
+1Das Masterstudium besteht aus den Kernmodulen der Studienrichtung (30 ECTSPunkte), aus Vertiefungsmodulen der Studienrichtung im Umfang von 30 ECTSPunkten, aus je einem Laborpraktikum (2,5 ECTS-Punkte) und einem Hauptseminar (2,5 ECTS-Punkte) der Studienrichtung; weiterhin aus Wahlmodulen im Umfang von 15 ECTS-Punkten und einem Hauptseminar (2,5 ECTS-Punkte) aus dem Angebot der gesamten Universität sowie einem Laborpraktikum (2,5 ECTS-Punkte) aus dem Angebot der Technischen Fakultät.<sup>2</sup> Hinzu kommt in der Regel ein Forschungspraktikum an einem EEI-Lehrstuhl im Umfang von 5 ECTS-Punkten.<sup>3</sup> Anstelle des Forschungspraktikums können durch den Studienkommissionsvorsitzenden auch andere unbenotete Wahlmodule aus dem Angebot der Technischen Fakultät im Umfang von 5 ECTS-Punkten zugelassen werden.<sup>4</sup> Bei der Anmeldung zur ersten Modulprüfung legen die Studierenden fest, welche Studienrichtung sie wählen.<sup>5</sup> Ein Wechsel der 
 
 4 
 
@@ -168,7 +168,7 @@ Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung des bzw. 
 
 ## **§ 47 Voraussetzung für die Ausgabe der Masterarbeit** 
 
-- (1)[1] Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, 
+- (1)<sup>1</sup> Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, 
 
 1. dass die Studien- und Prüfungsleistungen gemäß § 46 erfolgreich abgelegt sind; 
 
@@ -180,9 +180,9 @@ Studienrichtung ist nur in begründeten Ausnahmefällen mit Zustimmung des bzw. 
 
 ## **§ 48 Masterarbeit** 
 
-(1)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Elektrotechnik, Elektronik und Informationstechnik nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
+(1)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen der Elektrotechnik, Elektronik und Informationstechnik nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann. 
 
-(2)[1] Die Masterarbeit behandelt in der Regel ein wissenschaftliches Thema aus der Studienrichtung.[2] Zur Vergabe und Betreuung der Masterarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
+(2)<sup>1</sup> Die Masterarbeit behandelt in der Regel ein wissenschaftliches Thema aus der Studienrichtung.<sup>2</sup> Zur Vergabe und Betreuung der Masterarbeit sind alle am Department Elektrotechnik-Elektronik-Informationstechnik hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer berechtigt. 
 
 (3) Die Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
@@ -202,51 +202,51 @@ Das Masterstudium ist bestanden, wenn alle Module gemäß § 46 sowie die Master
 
 ## **Anlage 1: Studienbeginn Wintersemester** 
 
-|**Modul**|**Modul**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Art und Umfang der**<br>**Studien- und**<br>**Prüfungsleistung**|
-|---|---|---|---|---|---|---|---|---|
-|||**über die Semester**|||||||
-|Nr.|Bezeichnung|**1.**|**2.**|**3.**|**4.**|**5.**|**6.**||
-|1|Mathematik für EEI 1<br>1)<br>(GOP)|7,5||||||Pfp: uSL Papier- und Rechnerübungen<br>+90|
-|2|Mathematik für EEI 2<br>1)<br>(GOP)||10|||||Pfp: uSL Papier- und Rechnerübungen<br>+120|
-|3|Grundlagen der Elektrotechnik I<br>(GOP)|7,5||||||120|
-|4|Grundlagen der Elektrotechnik II<br>(GOP)||5|||||90|
-|5|Experimentalphysik I|5||||||90|
-|6|Experimentalphysik II||5|||||90|
-|7|Grundlagen der Informatik|5||||||uSL|
-|8|Grundlagen der systemnahen Programmierungin C||2,5|||||60|
-|9|Werkstoffkunde|2,5||||||60|
-|10|Nichttechnische Wahlfächer||5|||||bSL|
-|11|Praktikum Grundlagen der Elektrotechnik||2,5|||||uSL|
-|12|Praktikum Schaltungstechnik||||2,5|||uSL|
-|13|Arbeits- und Präsentationstechnik,Simulationstools|2,5||||||uSL|
-|14|Mathematik für EEI 3<br>1)|||5||||Pfp: uSL Papier- und Rechnerübungen<br>+60|
-|15|Mathematik für EEI 4<br>1)||||5|||Pfp: uSL Papier- und Rechnerübungen<br>+60|
-|16|Grundlagen der Elektrotechnik III|||5||||90|
-|17|Grundlagen der Elektrischen Antriebstechnik|||7,5||||90|
-||Grundlagen der Elektrischen Energieversorgung|||||||90|
-|18|Regelungstechnik A(Grundlagen)<br>(FSP)|||||5||90|
-|19|Halbleiterbauelemente|||5||||90|
-|20|Digitaltechnik|||5||||90|
-|21|Schaltungstechnik<br>(FSP)||||5|||90|
-|22|Signale und Systeme I|||5|5|||90|
-||Signale und Systeme II<br>(FSP)|||||||90|
-|23|Nachrichtentechnische Systeme<br>(FSP)|||||7,5||120|
-|24|Elektromagnetische Felder I<br>(FSP)||||2,5|||60|
-|25|Elektromagnetische Felder II<br>(FSP)|||||5||90|
-|26|Passive Bauelemente und deren HF-Verhalten<br>(FSP)||||5|||90|
-|27|Technische Wahlfächer|||||5||bSL,schriftl. 90/60|
-|28|_Studienrichtung:_Kernmodule<br> Vertiefungsmodul<br>Laborpraktikum<br>Hauptseminar|||||10||siehe<br>Katalog|
-||||||||5||
-||||||||2,5|uSL|
-||||||||2,5|bSL,Pfp|
-||Industriepraktikum||||||10|uSL|
-||_Bachelorarbeit incl. Vortrag_||||||10|Pfp|
-||Summe|30|28,5|28,5|30,5|32,5|30||
-||Gesamtsumme SWS                             132||Summe der Leistungspunkte|||||180|
+|**Mo**<br>Nr.|**dul**<br>Bezeichnung||**Vert**<br>**1.**|**eilun**<br>**üb**<br>**2.**|**g der L**<br>**er die**<br>**3.**|**eistu**<br>**Seme**<br>**4.**|**ngspu**<br>**ster**<br>**5.**|**nkte**<br>**6.**|**Art und Umfang der**<br>**Studien- und**<br>**Prüfungsleistung**|
+|---|---|---|---|---|---|---|---|---|---|
+|1|Mathematik für EEI 1<br>1)|(GOP)|7,5||||||Pfp: uSL Papier- und Rechnerübungen<br>+90|
+|2|Mathematik für EEI 2<br>1)|(GOP)||10|||||Pfp: uSL Papier- und Rechnerübungen<br>+120|
+|3|Grundlagen der Elektrotechnik I|(GOP)|7,5||||||120|
+|4|Grundlagen der Elektrotechnik II|(GOP)||5|||||90|
+|5|Experimentalphysik I||5||||||90|
+|6|Experimentalphysik II|||5|||||90|
+|7|Grundlagen der Informatik||5||||||uSL|
+|8|Grundlagen der systemnahen Programmierungin C|||2,5|||||60|
+|9|Werkstoffkunde||2,5||||||60|
+|10|Nichttechnische Wahlfächer|||5|||||bSL|
+|11|Praktikum Grundlagen der Elektrotechnik||||2,5||||uSL|
+|12|Praktikum Schaltungstechnik|||||2,5|||uSL|
+|13|Arbeits- und Präsentationstechnik,Simulationstools||2,5||||||uSL|
+|14|Mathematik für EEI 3<br>1)||||5||||Pfp: uSL Papier- und Rechnerübungen<br>+60|
+|15|Mathematik für EEI 4<br>1)|||||5|||Pfp: uSL Papier- und Rechnerübungen<br>+60|
+|16|Grundlagen der Elektrotechnik III||||5||||90|
+|17|<sup>Grundlagen der Elektrischen Antriebstechnik</sup>||||7|5|||90|
+||Grundlagen der Elektrischen Energieversorgung|||||,|||90|
+|18|Regelungstechnik A(Grundlagen)|(FSP)|||||5||90|
+|19|Halbleiterbauelemente||||5||||90|
+|20|Digitaltechnik||||5||||90|
+|21|Schaltungstechnik|(FSP)||||5|||90|
+||<sup>Signale und Systeme I</sup>||||||||90|
+|22|Signale und Systeme II|(FSP)|||5|5|||90|
+|23|Nachrichtentechnische Systeme|(FSP)|||||7,5||120|
+|24|Elektromagnetische Felder I|(FSP)||||2,5|||60|
+|25|Elektromagnetische Felder II|(FSP)|||||5||90|
+|26|Passive Bauelemente und deren HF-Verhalten|(FSP)||||5|||90|
+|27|Technische Wahlfächer||||||5||bSL,schriftl. 90/60|
+||_Studienrichtung:_Kernmodule||||||10||siehe|
+||<br> Vertiefungsmodul|||||||5|Katalog|
+|28|Laborpraktikum|||||||2,5|uSL|
+||<br>Hauptseminar|||||||2,5|bSL,Pfp|
+||Industriepraktikum|||||||10|uSL|
+||_Bachelorarbeit incl. Vortrag_|||||||10|Pfp|
+||Summe||30|28,5|28,5|30,5|32,5|30||
+||Gesamtsumme SWS                             132|||Sum|me der|Leist|ungspu|nkte|180|
 
 (GOP) Bestandteil der Grundanlagen- und Orientierungsprüfung 
 
-(FSP) fachwissenschaftlich, studiengangsbezogenes Pflichtmodul i.S.d. § 44 FPO EEI uSL unbenotete Studienleistung bSL benotete Studien-/Prüfungsleistung Pfp Portfolioprüfung (Ausarbeitung + Vortrag) 
+(FSP) fachwissenschaftlich, studiengangsbezogenes Pflichtmodul i.S.d. § 44 FPO EEI 
+
+uSL unbenotete Studienleistung bSL benotete Studien-/Prüfungsleistung Pfp Portfolioprüfung (Ausarbeitung + Vortrag) 
 
 1) Die Äquivalenzen der Mathematik-Module in den Studiengängen der Technischen Fakultät werden ortsüblich bekanntgemacht. 
 
@@ -254,47 +254,54 @@ Das Masterstudium ist bestanden, wenn alle Module gemäß § 46 sowie die Master
 
 ## **Anlage 2: Studienbeginn Sommersemester 2011** 
 
-|**Modul**|**Modul**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Verteilung der Leistungspunkte**<br>**über die Semester**|**Art und**<br>**Umfang**<br>**der Stu-**<br>**dien- und**<br>**Prüfungs-**<br>**leistung**|
-|---|---|---|---|---|---|---|---|---|
-|||**1.**<br>SS|**2.**<br>WS|**3.**<br>SS|**4.**<br>WS|**5.**<br>SS|**6.**<br>WS||
-|Nr.|Bezeichnung||||||||
-|1|Mathematik für EEI 1<br>1)<br>(GOP)|**7,5**||||||Pfp: uSL<br>Papier- und<br>Rechnerübungen<br>+90|
-|2|Mathematik für EEI 2<br>1)<br>(GOP)||**10**|||||Pfp: uSL<br>Papier- und<br>Rechnerübungen<br>+120|
-|3|Grundlagen der Elektrotechnik I<br>(GOP)|**7,5**||||||120|
-|4|Grundlagen der Elektrotechnik II<br>(GOP)||**5**|||||90|
-|5|Experimentalphysik I||**5**|||||90|
-|6|Experimentalphysik II|||**5**||||90|
-|7|Grundlagen der Informatik|**7,5**||||||uSL+90|
-|8|Grundlagen der systemnahen Programmierungin C|||**2,5**||||60|
-|9|Werkstoffkunde||**2,5**|||||60|
-|10|Nichttechnische Wahlfächer|**5**||||||bSL|
-|11|Praktikum Grundlagen der Elektrotechnik||**2,5**|||||uSL|
-|12|Praktikum Schaltungstechnik|||||**2,5**||uSL|
-|13|Arbeits- und Präsentationstechnik, Simulationstools|**2,5**||||||uSL|
-|14|Mathematik für EEI 3<br>1)|||**5**||||Pfp: uSL<br>Papier- und<br>Rechnerübungen<br>+60|
-|15|Mathematik für EEI 4<br>1)||||**5**|||Pfp: uSL<br>Papier- und<br>Rechnerübungen<br>+60|
-|16|Grundlagen der Elektrotechnik III|||**5**||||90|
-|17|Grundlagen der Elektrischen Antriebstechnik|||**7,5**||||90|
-||Grundlagen der Elektrischen Energieversorgung|||||||90|
-|18|Regelungstechnik A(Grundlagen)<br>(FSP)||||**5**|||90|
-|19|Halbleiterbauelemente||||**5**|||90|
-|20|Digitaltechnik||**5**|||||90|
-|21|Schaltungstechnik<br>(FSP)|||**5**||||90|
-|22|Signale und Systeme I|||**5**|**5**|||90|
-||Signale und Systeme II<br>(FSP)|||||||90|
-|23|Nachrichtentechnische Systeme<br>(FSP)||||||**5**|90|
-|24|Elektromagnetische Felder I<br>(FSP)|||||**2,5**||60|
-|25|Elektromagnetische Felder II<br>(FSP)||||||**5**|90|
-|26|Passive Bauelemente und deren HF-Verhalten<br>(FSP)||||**5**|||90|
-|27|Technische Wahlfächer|||||**5**||bSL|
-|28|_Studienrichtung:_Kernmodule<br> Vertiefungsmodul<br>Laborpraktikum<br>Hauptseminar|||||**10**||siehe<br>Katalog|
-|||||||**5**|||
-|||||||**2,5**||uSL|
-|||||||**2,5**||bSL|
-||Industriepraktikum||||||**10**|uSL|
-||_Bachelorarbeit incl. Vortrag_||||||**10**|Pfp|
-|Summe||30|30|30|30|30|30||
-|Gesamtsumme SWS                      132||Summe der Leistungspunkte**180**|||||||
+|**Mo**|**dul**||**V**|**erteilun**<br>|**g der L**<br>|**eistun**<br>|**gspunk**<br>|**te**|**d**<br>**g**<br>**u-**<br>**nd**<br>**gs-**<br>**g**|
+|---|---|---|---|---|---|---|---|---|---|
+|||||**ü**<br>|**er die**<br>|**Semes**<br>|**er**<br>||**un**<br>**fan**<br>**St**<br>**- u**<br>**un**<br>**tun**|
+||||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|**rt**<br>**m**<br>**r**<br>**n**<br>**f**<br>**is**|
+|Nr.|Bezeichnung||SS|WS|SS|WS|SS|WS|**A**<br>**U**<br>**de**<br>**die**<br>**Prü**<br>**le**<br>|
+||||||||||Pfp: uSL|
+|1|Mathematik für EEI 1<br>1)|(GOP)|**7,5**||||||Papier- und<br>Rechnerübungen|
+||||||||||+90|
+|2|Mathematik für EEI 2<br>1)|(GOP)||**10**|||||Pfp: uSL<br>Papier- und<br>Rechnerübungen|
+||||||||||<br>+120|
+|3|Grundlagen der Elektrotechnik I|(GOP)|**7,5**||||||120|
+|4|Grundlagen der Elektrotechnik II|(GOP)||**5**|||||90|
+|5|Experimentalphysik I|||**5**|||||90|
+|6|Experimentalphysik II||||**5**||||90|
+|7|Grundlagen der Informatik||**7,5**||||||uSL+90|
+|8|Grundlagen der systemnahen Programmierungin C||||**2,5**||||60|
+|9|Werkstoffkunde|||**2,5**|||||60|
+|10|Nichttechnische Wahlfächer||**5**||||||bSL|
+|11|Praktikum Grundlagen der Elektrotechnik||||**2,5**||||uSL|
+|12|Praktikum Schaltungstechnik||||||**2,5**||uSL|
+|13|Arbeits- und Präsentationstechnik, Simulationstools||**2,5**||||||uSL|
+||||||||||Pfp: uSL<br>|
+|14|Mathematik für EEI 3<br>1)||||**5**||||Papier- und<br>Rechnerübungen<br>|
+||||||||||+60|
+|15|Mathematik für EEI 4<br>1)|||||**5**|||Pfp: uSL<br>Papier- und<br>Rechnerübungen|
+||||||||||+60|
+|16|Grundlagen der Elektrotechnik III||||**5**||||90|
+|17|Grundlagen der Elektrischen Antriebstechnik||||**7**|**5**|||90|
+||Grundlagen der Elektrischen Energieversorgung|||||**,**|||90|
+|18|Regelungstechnik A(Grundlagen)|(FSP)||||**5**|||90|
+|19|Halbleiterbauelemente|||||**5**|||90|
+|20|Digitaltechnik|||**5**|||||90|
+|21|Schaltungstechnik|(FSP)|||**5**||||90|
+|22|Signale und Systeme I||||**5**|**5**|||90|
+||Signale und Systeme II|(FSP)|||||||90|
+|23|Nachrichtentechnische Systeme|(FSP)||||||**5**|90|
+|24|Elektromagnetische Felder I|(FSP)|||||**2,5**||60|
+|25|Elektromagnetische Felder II|(FSP)||||||**5**|90|
+|26|Passive Bauelemente und deren HF-Verhalten|(FSP)||||**5**|||90|
+|27|Technische Wahlfächer||||||**5**||bSL|
+||_Studienrichtung:_Kernmodule||||||**10**||siehe|
+||Vertiefungsmodul||||||**5**||Katalog|
+|28|Laborpraktikum||||||**2,5**||uSL|
+||Hauptseminar||||||**2,5**||bSL|
+||Industriepraktikum|||||||**10**|uSL|
+||_Bachelorarbeit incl. Vortrag_|||||||**10**|Pfp|
+||Summe||30|30|30|30|30|30||
+||Gesamtsumme SWS                      132||Summ|e der L|eistung|spunkt|e|**180**||
 
 (GOP) Bestandteil der Grundanlagen- und Orientierungsprüfung 
 
@@ -306,9 +313,9 @@ Das Masterstudium ist bestanden, wenn alle Module gemäß § 46 sowie die Master
 
 ## **Anlage 3: Studienbeginn Sommersemester 2012** 
 
-|**Modul**|**Modul**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|**Verteilung der Leistungspunkte**|
+|**Mo**|**dul**|**Verteilu**|**ng der**|**Leistung**|**spunkte**|||
 |---|---|---|---|---|---|---|---|
-|||**über die Semester**||||||
+|||**über di**<br>|**e Semes**<br>|**ter**<br>||||
 |||**1.**|**2.**|**3.**|**4.**|**5.**|**6.**|
 |Nr.|Bezeichnung|SS|WS|SS|WS|SS|WS|
 |1|Mathematik für EEI 1<br>1)<br>(GOP)|**7,5 **||||||
@@ -321,33 +328,33 @@ Das Masterstudium ist bestanden, wenn alle Module gemäß § 46 sowie die Master
 |8|Grundlagendersystemnahen ProgrammierunginC|||**2,5**||||
 |9|Werkstoffkunde||||**2,5 **|||
 |10|Nichttechnische Wahlfächer|**5**||||||
-|11|Praktikum Grundlagen der Elektrotechnik||**2,5 **|||||
+|11|Praktikum Grundlagen der Elektrotechnik||||**2,5 **|||
 |12|Praktikum Schaltungstechnik|||||**2,5 **||
 |13|Arbeits- und Präsentationstechnik,Simulationstools|**2,5 **||||||
 |14|Mathematik für EEI 3<br>1)||||**5**|||
 |15|Mathematik für EEI 4<br>1)|||**5**||||
 |16|Grundlagen der Elektrotechnik III|||**5**||||
-|17|Grundlagen der Elektrischen Antriebstechnik|||**7,5**||||
-||Grundlagen der Elektrischen Energieversorgung|||||||
+|17|<sup>Grundlagen der Elektrischen Antriebstechnik</sup>||||**5**|||
+||Grundlagen der Elektrischen Energieversorgung||||**,**|||
 |18|Regelungstechnik A(Grundlagen)||||**5**|||
 |19|Halbleiterbauelemente||**5**|||||
 |20|Digitaltechnik||**5**|||||
 |21|Schaltungstechnik|||**5**||||
-|22|Signale und Systeme I||||**5**|||
+|22|<sup>Signale und Systeme I</sup>||||**5**|||
 ||Signale und Systeme II|||**5**||||
 |23|Nachrichtentechnische Systeme|||||**5**||
 |24|Elektromagnetische Felder I|||||**2,5 **||
 |25|Elektromagnetische Felder II||||||**5**|
 |26|Passive Bauelemente und deren HF-Verhalten||||**5**|||
 |27|Technische Wahlfächer||||**5**|||
-|28|_Studienrichtung:      Kernmodule_<br>_Vertiefungsmodul_<br>Laborpraktikum<br>Hauptseminar|||||**10**||
-|||||||**5**||
-|||||||**2,5 **||
-||||||||**2,5 **|
+||_Studienrichtung:      Kernmodule_|||||**10**||
+|28|<br>_Vertiefungsmodul_|||||**5**||
+||Laborpraktikum|||||**2,5 **||
+||<br>Hauptseminar||||||**2,5 **|
 ||Industriepraktikum||||||**10**|
 ||_Bachelorarbeit incl. Vortrag_||||||**10**|
 ||Summe|30|30|32,5|32,5|27,5|27,5|
-|||Summe der Leistungspunkte||||||
+|||Summ|e der L|eistung|spunkt|e||
 
 (GOP)  Bestandteil der Grundlagen- und Orientierungsprüfung uSL   unbenotete Studienleistung bSL   benotete Studien-/Prüfungsleistung 
 
@@ -357,28 +364,27 @@ Das Masterstudium ist bestanden, wenn alle Module gemäß § 46 sowie die Master
 
 ## **Anlage 4: Module des Masterstudiums** 
 
-|**Nr.**||**ECTS**|**Semesteraufteilung**|**Semesteraufteilung**|**Semesteraufteilung**||**Art- und Umfang der**<br>**Studien- und**<br>**Prüfungsleistung**) **|
+|**Nr.**|**Module**|**ECTS**|**Seme**|**steraufte**|**ilung**||**Art- und Umfang der**<br>**Studien- und**<br>|
 |---|---|---|---|---|---|---|---|
-||**Module**|||||||
-|||||||||
+||||||||**Prüfungsleistung**) **|
 ||||**1.**|**2.**|**3.**|**4.**||
 |**1**|**Kernmodule gemäß**<br>**Studienrichtungskatalog**|**30**||||||
-|1a|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)||5||||schriftl. Prüfung 90 Min.|
-|1b|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)||5||||schriftl. Prüfung 90 Min|
-|1c|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)||5||||schriftl. Prüfung 90 Min|
-|1d|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)|||5|||schriftl. Prüfung 90 Min.|
-|1e|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)|||5|||schriftl. Prüfung 90 Min|
-|1f|Kernmodul wählbar gemäß<br>Studienrichtungskatalog*)|||5|||schriftl. Prüfung 90 Min|
-|**2**|**Vertiefungsmodule gemäß**<br>**Studienrichtungskatalog**|**30**||||||
-|2a|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)||5||||schriftl. Prüfung 90/60 Min.|
-|2b|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)||5||||schriftl. Prüfung 90/60 Min.|
-|2c|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)|||5|||schriftl. Prüfung 90/60 Min.|
-|2d|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)|||5|||schriftl. Prüfung 90/60 Min.|
-|2e|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)||||5||schriftl. Prüfung 90/60 Min.|
-|2f|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog*)||||5||schriftl. Prüfung 90/60 Min.|
+|1a|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>||5||||schriftl. Prüfung 90 Min.|
+|1b|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>||5||||schriftl. Prüfung 90 Min|
+|1c|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>||5||||schriftl. Prüfung 90 Min|
+|1d|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>|||5|||schriftl. Prüfung 90 Min.|
+|1e|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>|||5|||schriftl. Prüfung 90 Min|
+|1f|Kernmodul wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>|||5|||schriftl. Prüfung 90 Min|
+|**2**|**Vertiefungsmodule gemäß**<br>**Studienrichtungskatalog**<br>|**30**||||||
+|2a|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>||5||||schriftl. Prüfung 90/60 Min.|
+|2b|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>||5||||schriftl. Prüfung 90/60 Min.|
+|2c|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>|||5|||schriftl. Prüfung 90/60 Min.|
+|2d|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>|||5|||schriftl. Prüfung 90/60 Min.|
+|2e|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>||||5||schriftl. Prüfung 90/60 Min.|
+|2f|Vertiefungsmodule wählbar<br>gemäß Studienrichtungskatalog<sup>*)</sup>||||5||schriftl. Prüfung 90/60 Min.|
 |**3**|**Wahlmodule aus der FAU**|**15**|5||10||bSL,<br>schriftl. Prüfung 90/60 Min.|
-|**4**|**Modul Hauptseminar**<br>**(Bestehend aus 2 HS:**<br>1 HS wählbar gemäß<br>Studienrichtungskatalog*),<br>1 HS wählbar aus der FAU)|**5**||2,5|2,5||bSL, Pfp<br>(2 Ausarbeitungen<br>+ 2 Vorträge)|
-|**5**|**Modul Laborpraktikum**<br>**(Bestehend aus 2 Laborpraktika:**<br>1 Praktikum wählbar gemäß<br>Studienrichtungskatalog*),<br>1 Praktikum wählbar aus der TechFak)|**5**||2,5|2,5||uSL|
+|**4**|**Modul Hauptseminar**<br>**(Bestehend aus 2 HS:**<br>1 HS wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>,<br>1 HS wählbar aus der FAU)|**5**||2,5|2,5||bSL, Pfp<br>(2 Ausarbeitungen<br>+ 2 Vorträge)|
+|**5**|**Modul Laborpraktikum**<br>**(Bestehend aus 2 Laborpraktika:**<br>1 Praktikum wählbar gemäß<br>Studienrichtungskatalog<sup>*)</sup>,<br>1 Praktikum wählbar aus der TechFak)|**5**||2,5|2,5||uSL|
 |**6**|**Forschungspraktikum**|**5**|||5||uSL|
 |**7**|**Masterarbeit**|**30**||||30|Pfp (Ausarbeitung+Vortrag)|
 ||Summe ECTS|120|30|30|30|30||

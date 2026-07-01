@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:47:39+00:00
+scraped_at: 2026-07-01T08:24:27+00:00
 ---
 
 # Lateinische Philologie (B.A.)
@@ -31,13 +31,13 @@ scraped_at: 2026-05-01T06:47:39+00:00
 
 ## Worum geht es im Studiengang?
 
-Keine Frage: Unser kulturelles Erbe ist eng mit der lateinischen Sprache verbunden – der Weltsprache zur Zeit der römischen Antike, die bis heute in vielen Bereichen, nicht zuletzt in der Medizin, der Biologie, der Jurisprudenz und der Theologie eine wichtige Rolle spielt.
+Unser kulturelles Erbe ist eng mit der lateinischen Sprache verbunden – der Weltsprache zur Zeit der römischen Antike, die bis heute in vielen Bereichen, nicht zuletzt in der Medizin, der Biologie, der Jurisprudenz und der Theologie eine wichtige Rolle spielt.
 
-Wenn Sie sich intensiv mit dem lateinischsprachigen antiken Kulturraum beschäftigen möchten und in der Lage sein wollen, diese Epoche wissenschaftlich aufzuarbeiten, dann ist das Studium der Lateinischen Philologie an der FAU genau das Richtige für Sie.
+Wenn Sie sich intensiv mit der lateinischen Sprache und dem antiken römischen Kulturraum beschäftigen möchten und in der Lage sein wollen, diese Epoche wissenschaftlich aufzuarbeiten, dann ist das Studium der Lateinischen Philologie an der FAU genau das Richtige für Sie.
 
 Und sollten Sie Ihre Lateinkenntnisse später einmal im Schulunterricht vermitteln wollen, dann können Sie Latein auch für das Lehramt an Gymnasien studieren.
 
-### Bachelor of Arts (2 Fächer) Lateinische Philologie
+### Fachanteile des Studiengangs Lateinische Philologie (B.A.)
 
 * Lateinische Literatur (33%)
 * Lateinische Sprache (33%)
@@ -51,13 +51,13 @@ Der Bachelorstudiengang ist in drei, der Lehramtsstudiengang in vier Phasen gegl
 
 Lateinische Philologie studieren Sie als Erst- oder Zweitfach in Kombination mit einem weiteren Fach.
 
-Das Lehramtsstudium Latein ist in weiten Teilen mit dem Bachelorstudium Lateinische Philologie identisch. Allerdings beschäftigen Sie sich als angehende\*r Gymnasiallehrer\*in auch mit Inhalten der Fachdidaktik und Erziehungswissenschaften und ergänzen in der vierten Phase nach dem sechsten Fachsemester Spezialisierungsmodule in den Bereichen Prosa und Poesie.
+Das Lehramtsstudium Latein ist in weiten Teilen mit dem Bachelorstudium Lateinische Philologie identisch. Allerdings beschäftigen Sie sich als angehende Gymnasiallehrkraft auch mit Inhalten der Fachdidaktik und Erziehungswissenschaften und ergänzen in der vierten Phase nach dem sechsten Fachsemester Spezialisierungsmodule in den Bereichen Prosa und Poesie.
 
 ### Welche beruflichen Perspektiven stehen mir offen?
 
 Der Bachelorstudiengang Lateinische Philologie vermittelt Kompetenzen für ein breites Spektrum an Tätigkeitsfeldern, etwa im Bereich der Medien, des Journalismus, des Bibliotheks- und Verlagswesens, in der Erwachsenenbildung und in außerschulischen Formen der Fremdsprachenvermittlung und am Schnittpunkt von Wirtschaft und Kultur.
 
-Wenn Sie Latein für das Lehramt studiert und mit der ersten Staatsprüfung abgeschlossen haben, dann steht Ihnen nach einem zweijährigen Referendariat und der zweiten Staatsprüfung eine Laufbahn als Gymnasiallehrer\*in offen.
+Wenn Sie Latein für das Lehramt studiert und mit der ersten Staatsprüfung abgeschlossen haben, dann steht Ihnen nach einem zweijährigen Referendariat und der zweiten Staatsprüfung eine Laufbahn als Gymnasiallehrerin und Gymnasiallehrer offen.
 
 Eine Vertiefung Ihrer wissenschaftlichen Kompetenzen und die Erschließung weiterer Berufsfelder ist im Masterstudiengang Antike Sprachen und Kulturen möglich.
 
@@ -92,13 +92,13 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Politikwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/politikwissenschaft-ba/)
 * [Skandinavistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/skandinavistik-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -188,11 +188,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Politikwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/politikwissenschaft-ba/)
 - [Skandinavistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/skandinavistik-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
@@ -212,7 +213,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.klassische-philologie.phil.fau.de/lehrstuhl-latein/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [ilguciems - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/03/Lateinische-Philologie-BA-AdobeStock.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

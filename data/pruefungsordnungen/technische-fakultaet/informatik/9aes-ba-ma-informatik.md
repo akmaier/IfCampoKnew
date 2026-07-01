@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "11. Juni 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES_BA-MA Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:18:03+00:00
-page_count_chars: 4107
+scraped_at: 2026-07-01T11:37:26+00:00
+page_count_chars: 4106
 ---
 
 # 11. Juni 2015
@@ -12,7 +12,7 @@ page_count_chars: 4107
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/9AES_BA-MA Informatik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/>
 
-## **Neunte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOINF - Vom 11. Juni 2015** 
+# **Neunte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Informatik an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg - FPOINF - Vom 11. Juni 2015** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPO BAMA Geow 20191028.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/konsolidierte_Fassungen/FPO_BAMA_Geow_20191028.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:40:13+00:00
-page_count_chars: 41960
+scraped_at: 2026-07-01T09:06:04+00:00
+page_count_chars: 42070
 ---
 
 # FPO BAMA Geow 20191028.pdf
@@ -14,13 +14,41 @@ page_count_chars: 41960
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text** 
 
-## **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow – Vom 28. Oktober 2019** 
+# **Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow – Vom 28. Oktober 2019** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-**I. Teil: Allgemeine Bestimmungen ......................................................................................2** § 40 Geltungsbereich ............................................................................................................2 § 41 Bachelorstudiengang, Fachverwandte Abschlüsse........................................................2 § 42 Masterstudiengang, Studienbeginn, Fachverwandte Abschlüsse, Unterrichts- und Prüfungssprache ...........................................................................................................2 § 43 Zusammensetzung des Prüfungsausschusses ..............................................................2 **II. Teil: Besondere Bestimmungen ......................................................................................3** 1. Bachelorprüfung .................................................................................................................3 § 44 Gliederung des Bachelorstudiums .................................................................................3 § 45 Grundlagen- und Orientierungsprüfung .........................................................................3 § 46 Geowissenschaftliche Wahlpflichtmodule ......................................................................3 § 47 Überfachliches Wahlmodul ............................................................................................4 § 48 Bachelorarbeit ...............................................................................................................5 2. Masterprüfung ....................................................................................................................5 § 49 Zusammensetzung der Zugangskommission zum Masterstudium .................................5 § 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ...............6 § 51 Umfang und Gliederung des Masterstudiums ................................................................6 § 52 Wahlpflichtmodule der Studienrichtungen .....................................................................7 § 53 Geowissenschaftliches Wahlmodul und Schlüsselqualifikationsmodule ........................9 § 54 Masterarbeit ..................................................................................................................9 **III. Teil: Schlussbestimmungen ......................................................................................... 10** § 55 Inkrafttreten ................................................................................................................. 10 Anlage 1: Bachelorstudiengang Geowissenschaften ............................................................ 11 Anlage 1a: Curricular-Übersicht ............................................................................................ 11 Anlage 1b: Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.) .................................. 12 Anlage 2: Masterstudiengang Geowissenschaften ............................................................... 15 Anlage 2a: Curricular-Übersicht ............................................................................................ 15 Anlage 2b: Strukturplan Master Geowissenschaften (M.Sc.) ................................................ 15 Anlage 2c: Studienverlaufsplan Master Geowissenschaften (M.Sc.) .................................... 16 
+|**I. Teil: Allgemeine Bestimmungen ......................................................................................2**|
+|---|
+|§ 40 Geltungsbereich ............................................................................................................2|
+|§ 41 Bachelorstudiengang, Fachverwandte Abschlüsse........................................................2|
+|§ 42 Masterstudiengang, Studienbeginn, Fachverwandte Abschlüsse, Unterrichts- und<br>Prüfungssprache ...........................................................................................................2|
+|§ 43 Zusammensetzung des Prüfungsausschusses ..............................................................2|
+|**II. Teil: Besondere Bestimmungen ......................................................................................3**|
+|1. Bachelorprüfung .................................................................................................................3|
+|§ 44 Gliederung des Bachelorstudiums .................................................................................3|
+|§ 45 Grundlagen- und Orientierungsprüfung .........................................................................3|
+|§ 46 Geowissenschaftliche Wahlpflichtmodule ......................................................................3<br>|
+|§ 47 Überfachliches Wahlmodul ............................................................................................4|
+|§ 48 Bachelorarbeit ...............................................................................................................5|
+|2. Masterprüfung ....................................................................................................................5|
+|§ 49 Zusammensetzung der Zugangskommission zum Masterstudium .................................5|
+|§ 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ...............6|
+|§ 51 Umfang und Gliederung des Masterstudiums ................................................................6|
+|§ 52 Wahlpflichtmodule der Studienrichtungen .....................................................................7|
+|§ 53 Geowissenschaftliches Wahlmodul und Schlüsselqualifikationsmodule ........................9|
+|§ 54 Masterarbeit ..................................................................................................................9|
+|**III. Teil: Schlussbestimmungen ......................................................................................... 10**|
+|§ 55 Inkrafttreten ................................................................................................................. 10|
+|Anlage 1: Bachelorstudiengang Geowissenschaften ............................................................ 11|
+|Anlage 1a: Curricular-Übersicht ............................................................................................ 11|
+|Anlage 1b: Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.) .................................. 12|
+|Anlage 2: Masterstudiengang Geowissenschaften ............................................................... 15|
+|Anlage 2a: Curricular-Übersicht ............................................................................................ 15|
+|Anlage 2b: Strukturplan Master Geowissenschaften (M.Sc.) ................................................ 15|
+|Anlage 2c: Studienverlaufsplan Master Geowissenschaften (M.Sc.) .................................... 16|
 
 1 
 
@@ -32,23 +60,23 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 ## **§ 41 Bachelorstudiengang, Fachverwandte Abschlüsse** 
 
-(1)[1] Das Bachelorstudium Geowissenschaften setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester gemäß **Anlage 1** zusammen.[2] Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
+(1)<sup>1</sup> Das Bachelorstudium Geowissenschaften setzt sich aus Modulen im Umfang von 180 ECTS-Punkten verteilt auf sechs Semester gemäß **Anlage 1** zusammen.<sup>2</sup> Darin ist die Zeit für die Anfertigung der Bachelorarbeit enthalten. 
 
 (2) Als fachverwandte Studiengänge i. S. d. § 28 Abs. 1 Nr. 2 **ABMPO/NatFak** gelten Bachelorabschlüsse aus den Bereichen Geologie, Mineralogie und Paläontologie. 
 
 ## **§ 42 Masterstudiengang, Studienbeginn, Fachverwandte Abschlüsse, Unterrichts- und Prüfungssprache** 
 
-(1)[1] Das Masterstudium Geowissenschaften (M.Sc.) baut konsekutiv auf dem Bachelorstudiengang Geowissenschaften (B.Sc.) auf.[2] Es umfasst Module im Umfang von 120 ECTS-Punkten einschließlich der Masterarbeit verteilt auf vier Semester. 
+(1)<sup>1</sup> Das Masterstudium Geowissenschaften (M.Sc.) baut konsekutiv auf dem Bachelorstudiengang Geowissenschaften (B.Sc.) auf.<sup>2</sup> Es umfasst Module im Umfang von 120 ECTS-Punkten einschließlich der Masterarbeit verteilt auf vier Semester. 
 
 (2) Das Masterstudium kann nur im Wintersemester begonnen werden. 
 
 (3) Als fachverwandte Studiengänge i. S. d. § 35 Abs. 1 Nr. 2 **ABMPO/NatFak** gelten Masterabschlüsse in naturwissenschaftlichen oder technischen Studiengängen mit einem geowissenschaftlichen Anteil einschließlich individueller fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften im Umfang von mindestens 120 ECTS-Punkten. 
 
-(4)[1] Die Unterrichts- und Prüfungssprache im Masterstudiengang Geowissenschaften ist in den Vertiefungsrichtungen Angewandte Geologie, Angewandte Sedimentologie, Angewandte Mineralogie sowie Petrologie/Geodynamik/Georessourcen Deutsch.[2] Die Unterrichts- und Prüfungssprache in den Vertiefungsrichtungen PalaeobiologyPalaeoenvironments and Earth System Research Lab ist Englisch.[3] § 4 Abs. 4 Satz 2 **ABMPO/NatFak** gilt mit der Maßgabe, dass einzelne Module in den in Sätzen 1 und 2 genannten Studienrichtungen in der jeweils anderen Sprache abgehalten werden dürfen; im Übrigen bleibt § 4 Abs. 4 **ABMPO/NatFak** unberührt. 
+(4)<sup>1</sup> Die Unterrichts- und Prüfungssprache im Masterstudiengang Geowissenschaften ist in den Vertiefungsrichtungen Angewandte Geologie, Angewandte Sedimentologie, Angewandte Mineralogie sowie Petrologie/Geodynamik/Georessourcen Deutsch.<sup>2</sup> Die Unterrichts- und Prüfungssprache in den Vertiefungsrichtungen PalaeobiologyPalaeoenvironments and Earth System Research Lab ist Englisch.<sup>3</sup> § 4 Abs. 4 Satz 2 **ABMPO/NatFak** gilt mit der Maßgabe, dass einzelne Module in den in Sätzen 1 und 2 genannten Studienrichtungen in der jeweils anderen Sprache abgehalten werden dürfen; im Übrigen bleibt § 4 Abs. 4 **ABMPO/NatFak** unberührt. 
 
 ## **§ 43 Zusammensetzung des Prüfungsausschusses** 
 
-1Der Prüfungsausschuss für den Bachelor- und Masterstudiengang Geowissenschaften besteht aus fünf Mitgliedern.[2] Die bzw. der Vorsitzende, die Stellvertreterin bzw. der Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses sind Hochschullehrerinnen bzw. Hochschullehrer der Lehreinheit Geowissenschaften der Naturwissenschaftlichen Fakultät, die auf Vorschlag der Lehreinheit Geowissenschaften vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt werden.[3] Beratend im Prüfungsausschuss wirken die Studiendekanin bzw. der Studiendekan und die Geschäftsführung der Lehreinheit Geowissenschaften mit. 
+1Der Prüfungsausschuss für den Bachelor- und Masterstudiengang Geowissenschaften besteht aus fünf Mitgliedern.<sup>2</sup> Die bzw. der Vorsitzende, die Stellvertreterin bzw. der Stellvertreter und die weiteren Mitglieder des Prüfungsausschusses sind Hochschullehrerinnen bzw. Hochschullehrer der Lehreinheit Geowissenschaften der Naturwissenschaftlichen Fakultät, die auf Vorschlag der Lehreinheit Geowissenschaften vom Fakultätsrat der Naturwissenschaftlichen Fakultät bestellt werden.<sup>3</sup> Beratend im Prüfungsausschuss wirken die Studiendekanin bzw. der Studiendekan und die Geschäftsführung der Lehreinheit Geowissenschaften mit. 
 
 2 
 
@@ -58,13 +86,13 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 ## **§ 44 Gliederung des Bachelorstudiums** 
 
-(1)[1] Das Bachelorstudium Geowissenschaften setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und überfachlichen Wahlmodulen zusammen.[2] Die Verteilung der Module über die Studiensemester, die Art und Dauer der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen. 
+(1)<sup>1</sup> Das Bachelorstudium Geowissenschaften setzt sich aus Pflichtmodulen, Wahlpflichtmodulen und überfachlichen Wahlmodulen zusammen.<sup>2</sup> Die Verteilung der Module über die Studiensemester, die Art und Dauer der Prüfungen in den Modulen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen. 
 
 (2) Pflichtmodule sind die Module der Nrn. 1 bis 21 und 30 der **Anlage 1** . 
 
-(3)[1] Geowissenschaftliche Wahlpflichtmodule sind die Module der Nrn. 22 bis 27 der **Anlage 1** .[2] Näheres regelt § 46. 
+(3)<sup>1</sup> Geowissenschaftliche Wahlpflichtmodule sind die Module der Nrn. 22 bis 27 der **Anlage 1** .<sup>2</sup> Näheres regelt § 46. 
 
-(4)[1] Das Modul Schlüsselqualifikationen (Modul Nr. 28) kann aus dem Angebot an Schlüsselqualifikationen der FAU gewählt werden; § 47 Abs. 2 gilt entsprechend.[2] Das überfachliche Wahlmodul (Modul 29) kann aus dem Angebot der überfachlichen Wahlmodule der Lehreinheit Geowissenschaften gewählt werden; Näheres regelt § 47. 
+(4)<sup>1</sup> Das Modul Schlüsselqualifikationen (Modul Nr. 28) kann aus dem Angebot an Schlüsselqualifikationen der FAU gewählt werden; § 47 Abs. 2 gilt entsprechend.<sup>2</sup> Das überfachliche Wahlmodul (Modul 29) kann aus dem Angebot der überfachlichen Wahlmodule der Lehreinheit Geowissenschaften gewählt werden; Näheres regelt § 47. 
 
 (5) Abweichend von § 33 Abs. 1 und 2 **ABMPO/NatFak** ist die Belegung von Zusatzmodulen nach § 33 **ABMPO/NatFak** im Bachelorstudiengang Geowissenschaften nicht zulässig. 
 
@@ -84,7 +112,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 ## **§ 46 Geowissenschaftliche Wahlpflichtmodule** 
 
-(1)[1] Als geowissenschaftliche Wahlpflichtmodule im Sinne des § 44 Abs. 3 sind drei Modulpakete mit jeweils insgesamt 10 ECTS-Punkten aus den folgenden geowissenschaftlichen Wahlpflichtbereichen wählbar: 
+(1)<sup>1</sup> Als geowissenschaftliche Wahlpflichtmodule im Sinne des § 44 Abs. 3 sind drei Modulpakete mit jeweils insgesamt 10 ECTS-Punkten aus den folgenden geowissenschaftlichen Wahlpflichtbereichen wählbar: 
 
 1. Angewandte Geologie (AG) 
 
@@ -100,9 +128,9 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 3 
 
-(2)[1] Das Qualifikationsziel der zuvor genannten geowissenschaftlichen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten Kompetenzen zu vertiefen.[2] Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(2)<sup>1</sup> Das Qualifikationsziel der zuvor genannten geowissenschaftlichen Wahlpflichtmodule liegt darin, es den Studierenden zu ermöglichen, sich gezielt in ausgewählten Kompetenzen zu vertiefen.<sup>2</sup> Zweitens wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachverwandte Forschungsmethoden vermittelt und fachvertiefendes Wissen erlangt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
-(3)[1] Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der geowissenschaftlichen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen in den geowissenschaftlichen Wahlpflichtmodulen sind gemäß § 6 Abs. 3 und 4 **ABMPO/NatFak:** 
+(3)<sup>1</sup> Art und Umfang der Prüfungen sowie die Berechnung der Modulnote der geowissenschaftlichen Wahlpflichtmodule sind abhängig vom konkreten didaktischen Charakter des jeweils gewählten Moduls und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen in den geowissenschaftlichen Wahlpflichtmodulen sind gemäß § 6 Abs. 3 und 4 **ABMPO/NatFak:** 
 
 1. schriftliche Prüfung (Klausur 45-90 Min.), 
 
@@ -114,37 +142,41 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 5. elektronische Prüfung (EP, E-Klausur 30-60 Min.), 
 
-6. Übungsleistungen (ÜL, Bericht 30-45 Seiten oder Übungsaufgaben 15-30 Seiten), 7. praktische Übungsleistung (pÜL, Bericht 5-15 Seiten oder Protokollheft 15-30 Seiten), 
+6. Übungsleistungen (ÜL, Bericht 30-45 Seiten oder Übungsaufgaben 15-30 Seiten), 
+
+7. praktische Übungsleistung (pÜL, Bericht 5-15 Seiten oder Protokollheft 15-30 Seiten), 
 
 8. Seminarleistung (SeL, Vortrag 10-30 Min. oder Bericht 5-10 Seiten) oder 
 
-9. Exkursionsleistung (ExL, Bericht 5-15 Seiten oder Protokollheft 15-30 Seiten). 3In gemäß § 6 Abs. 2 Satz 3 **ABMPO/NatFak** begründeten Ausnahmefällen sind auch Kombinationen derselben möglich.[4] Insbesondere ist die Kombination einer schriftlichen oder mündlichen Prüfung mit Leistungen i. S. d. § 6 Abs. 4 **ABMPO/NatFak** möglich.[5] Näheres regelt das Modulhandbuch. 
+9. Exkursionsleistung (ExL, Bericht 5-15 Seiten oder Protokollheft 15-30 Seiten). 
 
-(4)[1] Die Module im Umfang von in der Regel 5 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (2 SWS) oder Seminaren (2 SWS) oder Tutorien (2 SWS) zusammen.[2] Abweichungen sind dem Modulhandbuch zu entnehmen. 
+> 3In gemäß § 6 Abs. 2 Satz 3 **ABMPO/NatFak** begründeten Ausnahmefällen sind auch Kombinationen derselben möglich.<sup>4</sup> Insbesondere ist die Kombination einer schriftlichen oder mündlichen Prüfung mit Leistungen i. S. d. § 6 Abs. 4 **ABMPO/NatFak** möglich.<sup>5</sup> Näheres regelt das Modulhandbuch. 
 
-(5)[1] Die Wahl der geowissenschaftlichen Wahlpflichtmodule aus den geowissenschaftlichen Wahlpflichtbereichen erfolgt durch eine verbindliche Anmeldung und Teilnahme an einer Geländeübung und der damit verbundenen automatischen Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Wahlpflichtmodule aus den zu wählenden geowissenschaftlichen Vertiefungsbereichen.[2] Ausgenommen von der Regelung in Satz 1 sind geowissenschaftliche Schwerpunktmodule ohne Geländeübung. 
+(4)<sup>1</sup> Die Module im Umfang von in der Regel 5 ECTS-Punkten setzen sich in der Regel aus Vorlesungen (2 SWS) mit Übungen (2 SWS) oder Seminaren (2 SWS) oder Tutorien (2 SWS) zusammen.<sup>2</sup> Abweichungen sind dem Modulhandbuch zu entnehmen. 
+
+(5)<sup>1</sup> Die Wahl der geowissenschaftlichen Wahlpflichtmodule aus den geowissenschaftlichen Wahlpflichtbereichen erfolgt durch eine verbindliche Anmeldung und Teilnahme an einer Geländeübung und der damit verbundenen automatischen Anmeldung zur ersten Prüfung in einem Modul aus der Gruppe der Wahlpflichtmodule aus den zu wählenden geowissenschaftlichen Vertiefungsbereichen.<sup>2</sup> Ausgenommen von der Regelung in Satz 1 sind geowissenschaftliche Schwerpunktmodule ohne Geländeübung. 
 
 ## **§ 47 Überfachliches Wahlmodul** 
 
-(1)[1] Das Qualifikationsziel der überfachlichen Wahlmodule liegt darin, es den Studierenden zu ermöglichen, sich erstens in mindestens einem Schwerpunktbereich (z.B. „Material- und Werkstoffwissenschaften, Chemie, Astronomie, Informatik, Computer in den Geowissenschaften, Geographie und Biologie“) thematisch zu vertiefen.[2] Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.[4] § 46 Abs. 1 Sätze 2 und 3 gelten entsprechend. 
+(1)<sup>1</sup> Das Qualifikationsziel der überfachlichen Wahlmodule liegt darin, es den Studierenden zu ermöglichen, sich erstens in mindestens einem Schwerpunktbereich (z.B. „Material- und Werkstoffwissenschaften, Chemie, Astronomie, Informatik, Computer in den Geowissenschaften, Geographie und Biologie“) thematisch zu vertiefen.<sup>2</sup> Zweitens wird damit ein methodologisches Qualifikationsziel verfolgt, indem interdisziplinäre Arbeitsweisen geschult, naturwissenschaftliche Perspektiven auf weitere Gegenstandsfelder ausgeweitet sowie Erfahrungen mit interdisziplinären naturwissenschaftlichen Methoden gesammelt werden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld ein besonderes Profil auszubilden.<sup>4</sup> § 46 Abs. 1 Sätze 2 und 3 gelten entsprechend. 
 
 4 
 
-(2)[1] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen der Lehreinheit Geowissenschaften gelten § 46 Abs. 3 und 4 entsprechend.[2] Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen außerhalb der Lehreinheit Geowissenschaften gilt die jeweils einschlägige **(Fach-)Prüfungsordnung** . 
+(2)<sup>1</sup> Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen der Lehreinheit Geowissenschaften gelten § 46 Abs. 3 und 4 entsprechend.<sup>2</sup> Für Art und Umfang der Lehrveranstaltungen und der Prüfung von Modulen außerhalb der Lehreinheit Geowissenschaften gilt die jeweils einschlägige **(Fach-)Prüfungsordnung** . 
 
 ## **§ 48 Bachelorarbeit** 
 
 (1) Voraussetzung für den Erhalt eines Themas für die Bachelorarbeit ist der Nachweis von mindestens 110 ECTS-Punkten. 
 
-(2)[1] Das Modul Bachelorarbeit umfasst insgesamt 15 ECTS-Punkte, wobei zwölf ECTS-Punkte auf die schriftliche Bachelorarbeit entfallen und drei ECTS-Punkte auf die Verteidigung der Bachelorarbeit im Rahmen eines Kolloquiums nach Abs. 3.[2] Das Modul Bachelorarbeit soll in seinen Anforderungen so gestaltet sein, dass es innerhalb von 8 Wochen abgeschlossen werden kann. 
+(2)<sup>1</sup> Das Modul Bachelorarbeit umfasst insgesamt 15 ECTS-Punkte, wobei zwölf ECTS-Punkte auf die schriftliche Bachelorarbeit entfallen und drei ECTS-Punkte auf die Verteidigung der Bachelorarbeit im Rahmen eines Kolloquiums nach Abs. 3.<sup>2</sup> Das Modul Bachelorarbeit soll in seinen Anforderungen so gestaltet sein, dass es innerhalb von 8 Wochen abgeschlossen werden kann. 
 
-(3)[1] Das Kolloquium zur Bachelorarbeit besteht entsprechend des konkreten didaktischen Charakters der Lehrveranstaltung im jeweiligen Semester entweder aus einem ca. 15 Minuten dauernden Referat, in dem die Bachelorarbeit und deren Ergebnisse vorgestellt werden, und einer daran anschließenden ca. 5-minütigen Diskussion oder einer ca. 15 Minuten dauernden Poster-Präsentation mit daran anschließender ca. 5- minütiger Diskussion.[2] Der Termin für das Referat bzw. die Poster-Präsentation im Rahmen eines geowissenschaftlichen Seminars wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.[3] Der Termin findet in der Regel innerhalb von zwei bis vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.[4] Die Verteidigung der Bachelorarbeit wird von der Betreuerin bzw. dem Betreuer und mindestens einer bzw. einem weiteren gemäß § 10 Abs. 1 **ABMPO/NatFak** prüfungsberechtigten Hochschullehrerin bzw. Hochschullehrer gemäß § 22 **ABMPO/NatFak** bewertet. 
+(3)<sup>1</sup> Das Kolloquium zur Bachelorarbeit besteht entsprechend des konkreten didaktischen Charakters der Lehrveranstaltung im jeweiligen Semester entweder aus einem ca. 15 Minuten dauernden Referat, in dem die Bachelorarbeit und deren Ergebnisse vorgestellt werden, und einer daran anschließenden ca. 5-minütigen Diskussion oder einer ca. 15 Minuten dauernden Poster-Präsentation mit daran anschließender ca. 5- minütiger Diskussion.<sup>2</sup> Der Termin für das Referat bzw. die Poster-Präsentation im Rahmen eines geowissenschaftlichen Seminars wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.<sup>3</sup> Der Termin findet in der Regel innerhalb von zwei bis vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.<sup>4</sup> Die Verteidigung der Bachelorarbeit wird von der Betreuerin bzw. dem Betreuer und mindestens einer bzw. einem weiteren gemäß § 10 Abs. 1 **ABMPO/NatFak** prüfungsberechtigten Hochschullehrerin bzw. Hochschullehrer gemäß § 22 **ABMPO/NatFak** bewertet. 
 
-(4)[1] Zur Vergabe des Themas der Bachelorarbeit sind Hochschullehrer und Hochschullehrerinnen der Lehreinheit Geowissenschaften berechtigt; Ausnahmen kann der Prüfungsausschuss genehmigen.[2] Abweichend von § 31 Abs. 7 Satz 1 **ABMPO/ NatFak** wird die Bachelorarbeit in der Regel nur von der Betreuerin bzw. dem Betreuer bewertet; § 17 Abs. 3 Satz 2 **ABMPO/NatFak** bleibt unberührt.[3] Bewertet im Falle von zwei Gutachten eine Prüfende bzw. einer Prüfender die Arbeit mit „nicht ausreichend“, ist die Arbeit abgelehnt.[4] Andernfalls ist die Note der Arbeit das arithmetische Mittel der Noten aller beiden Gutachten; § 22 Abs. 1 Sätze 5 und 6 **ABMPO/NatFak** finden Anwendung. 
+(4)<sup>1</sup> Zur Vergabe des Themas der Bachelorarbeit sind Hochschullehrer und Hochschullehrerinnen der Lehreinheit Geowissenschaften berechtigt; Ausnahmen kann der Prüfungsausschuss genehmigen.<sup>2</sup> Abweichend von § 31 Abs. 7 Satz 1 **ABMPO/ NatFak** wird die Bachelorarbeit in der Regel nur von der Betreuerin bzw. dem Betreuer bewertet; § 17 Abs. 3 Satz 2 **ABMPO/NatFak** bleibt unberührt.<sup>3</sup> Bewertet im Falle von zwei Gutachten eine Prüfende bzw. einer Prüfender die Arbeit mit „nicht ausreichend“, ist die Arbeit abgelehnt.<sup>4</sup> Andernfalls ist die Note der Arbeit das arithmetische Mittel der Noten aller beiden Gutachten; § 22 Abs. 1 Sätze 5 und 6 **ABMPO/NatFak** finden Anwendung. 
 
 ## **2. Masterprüfung** 
 
-**§ 49 Zusammensetzung der Zugangskommission zum Masterstudium** 
+## **§ 49 Zusammensetzung der Zugangskommission zum Masterstudium** 
 
 Die Zugangskommission für den Masterstudiengang Geowissenschaften (M.Sc.) besteht mindestens aus einer Professorin bzw. einem Professor als der bzw. dem Vorsitzenden, einer weiteren Hochschullehrerin bzw. einem weiteren Hochschullehrer und mindestens einer bzw. einem hauptberuflich im Dienst der Universität stehenden wissenschaftlichen Mitarbeiterin bzw. Mitarbeiter. 
 
@@ -152,21 +184,23 @@ Die Zugangskommission für den Masterstudiengang Geowissenschaften (M.Sc.) beste
 
 ## **§ 50 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[ 1] Fachspezifischer Abschluss im Sinne des § 34 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Geologie, Mineralogie und Paläontologie.[2] Als fachverwandter Abschluss im Sinne des § 34 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** werden insbesondere Abschlüsse in naturwissenschaftlichen oder technischen Studiengängen mit einem geowissenschaftlichen Anteil einschließlich individueller fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften im Umfang von mindestens 120 ECTS-Punkten anerkannt.[3] Der Mindestumfang der nachzuweisenden ECTS-Punkte im Falle des noch nicht abgeschlossenen Bachelorstudiums gemäß § 34 Abs. 3 **ABMPO/NatFak** beträgt 140 ECTS-Punkte. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 34 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** ist der Abschluss eines Bachelor- oder Diplomstudiengangs im Fach Geologie, Mineralogie und Paläontologie.<sup>2</sup> Als fachverwandter Abschluss im Sinne des § 34 Abs. 1 Satz 1 Nr. 1 **ABMPO/NatFak** werden insbesondere Abschlüsse in naturwissenschaftlichen oder technischen Studiengängen mit einem geowissenschaftlichen Anteil einschließlich individueller fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften im Umfang von mindestens 120 ECTS-Punkten anerkannt.<sup>3</sup> Der Mindestumfang der nachzuweisenden ECTS-Punkte im Falle des noch nicht abgeschlossenen Bachelorstudiums gemäß § 34 Abs. 3 **ABMPO/NatFak** beträgt 140 ECTS-Punkte. 
 
-(2)[1] Dem Antrag auf Zulassung zum Qualifikationsfeststellungsverfahren sind gemäß Abs. 2 Satz 2 Nr. 3 der **Anlage ABMPO/NatFak** zusätzlich folgende Unterlagen beizufügen: 
+(2)<sup>1</sup> Dem Antrag auf Zulassung zum Qualifikationsfeststellungsverfahren sind gemäß Abs. 2 Satz 2 Nr. 3 der **Anlage ABMPO/NatFak** zusätzlich folgende Unterlagen beizufügen: 
 
 1. Nachweis über Englischkenntnisse auf dem Niveau „Englisch Level B 2 (Common European Framework of Reference for Languages – CEFR) Vantage oder Upper intermediate“ und 
 
-2. eine Erklärung über die Wahl der Haupt- und Nebenstudienrichtung. 2Der Nachweis nach Satz 1 Nr. 1 ist entbehrlich, wenn die Hochschulzugangsberechtigung bzw. der erste berufsqualifizierende Abschluss in englischer Sprache erworben worden ist. 
+2. eine Erklärung über die Wahl der Haupt- und Nebenstudienrichtung. 
 
-(3)[1] Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses nach Abs. 1 Satz 1 bzw. einem Durchschnitt der bisherigen entsprechenden Leistungen zwischen 2,51 und schlechtestenfalls 3,5 werden zu einer mündlichen Zugangsprüfung eingeladen.[2] Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 3 in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. die Durchschnittsnote im Falle des Abs. 1 Satz 3 darf schlechtestenfalls 3,5 betragen.[3] Die mündliche Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** wird von zwei von der Zugangskommission bestellten Hochschullehrerinnen und Hochschullehrern des Geozentrums Nordbayern durchgeführt. 4Die Bewerberinnen bzw. Bewerber werden auf Basis ihrer fachlichen und methodischen Kenntnisse in den Grundlagen der Geowissenschaften (60 %) einschließlich individueller gewählter fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften (40 %) beurteilt. 
+- 2Der Nachweis nach Satz 1 Nr. 1 ist entbehrlich, wenn die Hochschulzugangsberechtigung bzw. der erste berufsqualifizierende Abschluss in englischer Sprache erworben worden ist. 
+
+(3)<sup>1</sup> Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses nach Abs. 1 Satz 1 bzw. einem Durchschnitt der bisherigen entsprechenden Leistungen zwischen 2,51 und schlechtestenfalls 3,5 werden zu einer mündlichen Zugangsprüfung eingeladen.<sup>2</sup> Gemäß Abs. 5 Satz 5 **Anlage ABMPO/NatFak** können Bewerberinnen und Bewerber mit einem fachverwandten Abschluss nur auf Grundlage einer bestandenen mündlichen Zugangsprüfung nach Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** i. V. m. Abs. 3 in das Masterstudium aufgenommen werden; die Note des Abschlusses nach Abs. 1 Satz 2 bzw. die Durchschnittsnote im Falle des Abs. 1 Satz 3 darf schlechtestenfalls 3,5 betragen.<sup>3</sup> Die mündliche Zugangsprüfung gemäß Abs. 5 Satz 6 ff. **Anlage ABMPO/NatFak** wird von zwei von der Zugangskommission bestellten Hochschullehrerinnen und Hochschullehrern des Geozentrums Nordbayern durchgeführt. 4Die Bewerberinnen bzw. Bewerber werden auf Basis ihrer fachlichen und methodischen Kenntnisse in den Grundlagen der Geowissenschaften (60 %) einschließlich individueller gewählter fachlicher Schwerpunktsetzungen im Fachgebiet der Geowissenschaften (40 %) beurteilt. 
 
 ## **§ 51 Umfang und Gliederung des Masterstudiums** 
 
-(1)[1] Das Masterstudium setzt sich aus Wahlpflichtmodulen der Hauptstudienrichtungen und Nebenstudienrichtungen, dem Geowissenschaftlichen Wahlmodul, den Geowissenschaftlichen Schlüsselqualifikations-Modulen und der Masterarbeit zusammen. 2Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen. 
+(1)<sup>1</sup> Das Masterstudium setzt sich aus Wahlpflichtmodulen der Hauptstudienrichtungen und Nebenstudienrichtungen, dem Geowissenschaftlichen Wahlmodul, den Geowissenschaftlichen Schlüsselqualifikations-Modulen und der Masterarbeit zusammen. 2Näheres ist den nachfolgenden Regelungen und der **Anlage 2** zu entnehmen. 
 
-- (2)[1] Der Masterstudiengang Geowissenschaften wird in folgenden Studienrichtungen 
+- (2)<sup>1</sup> Der Masterstudiengang Geowissenschaften wird in folgenden Studienrichtungen 
 
 - Angewandte Geologie (AG) 
 
@@ -180,11 +214,11 @@ Die Zugangskommission für den Masterstudiengang Geowissenschaften (M.Sc.) beste
 
 6 
 
-## • Earth Systems Research Lab (RL) 
+• Earth Systems Research Lab (RL) 
 
-durchgeführt.[2] Die Studienrichtung Earth Systems Research Lab (RL) ist nur als Nebenstudienrichtung wählbar.[3] Die Haupt- und die Nebenstudienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen.[4] Ein späterer Wechsel ist auf Antrag möglich. 
+durchgeführt.<sup>2</sup> Die Studienrichtung Earth Systems Research Lab (RL) ist nur als Nebenstudienrichtung wählbar.<sup>3</sup> Die Haupt- und die Nebenstudienrichtung wird von der Bewerberin bzw. dem Bewerber bei der Antragstellung auf Zugang zum Masterstudium vorgeschlagen.<sup>4</sup> Ein späterer Wechsel ist auf Antrag möglich. 
 
-(3)[ 1] Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Modulprüfungen einschließlich des Moduls Masterarbeit gemäß **Anlage 2** .[2] Die Masterprüfung ist bestanden, wenn sämtliche der folgenden studienbegleitend zu erbringenden Modulprüfungen und Modulteilprüfungen sowie das Modul Masterarbeit im Umfang von insgesamt 120 ECTS-Punkten bestanden sind: 
+(3)<sup>1</sup> Die Masterprüfung besteht aus den studienbegleitend zu erbringenden Modulprüfungen einschließlich des Moduls Masterarbeit gemäß **Anlage 2** .<sup>2</sup> Die Masterprüfung ist bestanden, wenn sämtliche der folgenden studienbegleitend zu erbringenden Modulprüfungen und Modulteilprüfungen sowie das Modul Masterarbeit im Umfang von insgesamt 120 ECTS-Punkten bestanden sind: 
 
 1. Module im Umfang von 45 ECTS-Punkten in der Hauptstudienrichtung, 
 
@@ -200,13 +234,13 @@ durchgeführt.[2] Die Studienrichtung Earth Systems Research Lab (RL) ist nur al
 
 ## **§ 52 Wahlpflichtmodule der Studienrichtungen** 
 
-(1)[1] Die Wahlpflichtmodule der Hauptstudienrichtungen sowie der Hauptstudienrichtungen gemäß § 50 Abs. 1 werden in semesteraktuelle Modulkatalogen geführt; § 46 Abs. 1 Sätze 2 und 3 gelten entsprechend.[2] In den Studienrichtungen werden wissenschaftliche Methodenkompetenzen zur Anwendung geowissenschaftlicher forschungsorientierter Methoden und zu Problemlösestrategien geowissenschaftlicher Fragestellungen sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.[3] Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachspezifische Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.[4] Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
+(1)<sup>1</sup> Die Wahlpflichtmodule der Hauptstudienrichtungen sowie der Hauptstudienrichtungen gemäß § 50 Abs. 1 werden in semesteraktuelle Modulkatalogen geführt; § 46 Abs. 1 Sätze 2 und 3 gelten entsprechend.<sup>2</sup> In den Studienrichtungen werden wissenschaftliche Methodenkompetenzen zur Anwendung geowissenschaftlicher forschungsorientierter Methoden und zu Problemlösestrategien geowissenschaftlicher Fragestellungen sowie die Befähigung zu einer eigenständigen wissenschaftlichen Arbeitsweise erworben.<sup>3</sup> Es wird damit ein forschungsorientiertes Qualifikationsziel verfolgt, indem fachspezifische Forschungsmethoden erworben und fachvertiefendes Wissen erlangt werden.<sup>4</sup> Es wird den Studierenden durch die Wahlfreiheit ermöglicht, ihr Profil im Hinblick auf ihr angestrebtes zukünftiges Berufsfeld zu schärfen. 
 
 (2) Die einzelnen Hauptstudienrichtungen haben die folgenden fachspezifischen Qualifikationsziele: 
 
-1.[1] In der Hauptstudienrichtung Angewandte Geologie (AG) werden erweiterte Methodenkompetenzen erworben.[2] Diese behandeln die verschiedenen Aspekte der Massenbewegungen und des Fundamentbaus und befähigen die Studierenden dazu, evidenzbasierte, qualitative und quantitative Gutachten zu Massenbewegungen und des Fundamentbaus zu erstellen.[3] Gleichermaßen werden Hydrogeologischen Grundlagen wie Traceranwendungen und Theorie behandelt, die zur professionellen Anwendung für Aquiferanalysen und Hydrochemische Analyseverfahren befähigen. 
+1.<sup>1</sup> In der Hauptstudienrichtung Angewandte Geologie (AG) werden erweiterte Methodenkompetenzen erworben.<sup>2</sup> Diese behandeln die verschiedenen Aspekte der Massenbewegungen und des Fundamentbaus und befähigen die Studierenden dazu, evidenzbasierte, qualitative und quantitative Gutachten zu Massenbewegungen und des Fundamentbaus zu erstellen.<sup>3</sup> Gleichermaßen werden Hydrogeologischen Grundlagen wie Traceranwendungen und Theorie behandelt, die zur professionellen Anwendung für Aquiferanalysen und Hydrochemische Analyseverfahren befähigen. 
 
-2.[1] In der Hauptstudienrichtung Angewandte Mineralogie (AM) werden vertiefte Methodenkompetenzen zur Analyse natürlicher und synthetischer Materialien erworben.[2] Das Zusammenspiel von Kristallstruktur, Kristallchemie und physikalischer Eigenschaften steht im Fokus der Ausbildung.[3] Themenschwerpunkte sind die bauchemischen Materialien, Biomaterialien und technische Keramiken.[4] Die erworbe- 
+2.<sup>1</sup> In der Hauptstudienrichtung Angewandte Mineralogie (AM) werden vertiefte Methodenkompetenzen zur Analyse natürlicher und synthetischer Materialien erworben.<sup>2</sup> Das Zusammenspiel von Kristallstruktur, Kristallchemie und physikalischer Eigenschaften steht im Fokus der Ausbildung.<sup>3</sup> Themenschwerpunkte sind die bauchemischen Materialien, Biomaterialien und technische Keramiken.<sup>4</sup> Die erworbe- 
 
 7 
 
@@ -222,7 +256,7 @@ nen Kompetenzen befähigen zur Entwicklung und Optimierung technischer Produkte 
 
 1. In der Nebenstudienrichtung Angewandte Geologie (AG) werden Methodenkompetenzen erworben, die verschiedene Aspekte der Massenbewegungen und des Fundamentbaus und Hydrogeologischen Grundlagen wie Traceranwendungen und Theorie behandeln, die zu Basisanwendungen für Aquiferanalysen und Hydrochemische Analyseverfahren befähigen. 
 
-2.[1] In der Nebenstudienrichtung Angewandte Mineralogie (AM) werden Methodenkompetenzen erworben, die ein erweitertes Verständnis zur mineralogischen Charakterisierung und der Verwendung von technischen und natürlichen Materialien befähigen.[2] Der Einfluss von Kristallstruktur und Kristallchemie auf die chemischen und physikalischen Eigenschaften steht im Fokus der Ausbildung. 
+2.<sup>1</sup> In der Nebenstudienrichtung Angewandte Mineralogie (AM) werden Methodenkompetenzen erworben, die ein erweitertes Verständnis zur mineralogischen Charakterisierung und der Verwendung von technischen und natürlichen Materialien befähigen.<sup>2</sup> Der Einfluss von Kristallstruktur und Kristallchemie auf die chemischen und physikalischen Eigenschaften steht im Fokus der Ausbildung. 
 
 3. In der Nebenstudienrichtung Angewandte Sedimentologie – Georessourcen (AS) werden Methodenkompetenzen zu den Themen Becken- und Bohrungsanalyse, Strukturgeologie/Tektonik, Sedimentpetrographie, Sedimentgeochemie, Geophysik, inklusive seismischer Interpretation erworben, die zu Basiserkundungen befähigen, um die Nutzung von Geo-Energieressourcen prüfen und einordnen zu können. 
 
@@ -244,13 +278,13 @@ nen Kompetenzen befähigen zur Entwicklung und Optimierung technischer Produkte 
 
 **§ 54 Masterarbeit** 
 
-(1)[1] Das Modul Masterarbeit wird mit 30 ECTS-Punkten bewertet.[2] Die Ergebnisse der schriftlichen Ausarbeitung (25 ECTS-Punkte) sind in einer mündlichen Verteidigung (5 ECTS-Punkte) vorzustellen. 
+(1)<sup>1</sup> Das Modul Masterarbeit wird mit 30 ECTS-Punkten bewertet.<sup>2</sup> Die Ergebnisse der schriftlichen Ausarbeitung (25 ECTS-Punkte) sind in einer mündlichen Verteidigung (5 ECTS-Punkte) vorzustellen. 
 
 (2) Voraussetzung der Vergabe des Themas der Masterarbeit ist der Nachweis von mindestens 50 ECTS-Punkten. 
 
-(3)[1] Die Masterarbeit soll zeigen, dass die bzw. der Studierende im Stande ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Fachgebiet des Studiengangs Geowissenschaften selbstständig nach wissenschaftlichen Methoden zu bearbeiten, die Ergebnisse fachlich und sprachlich korrekt darzustellen und in die aktuelle Fachliteratur einzuordnen.[2] Sie muss einen Bezug zu den gewählten Studienrichtungen aufweisen und forschungsorientiert ausgerichtet werden. 
+(3)<sup>1</sup> Die Masterarbeit soll zeigen, dass die bzw. der Studierende im Stande ist, innerhalb einer vorgegebenen Frist ein Problem aus dem Fachgebiet des Studiengangs Geowissenschaften selbstständig nach wissenschaftlichen Methoden zu bearbeiten, die Ergebnisse fachlich und sprachlich korrekt darzustellen und in die aktuelle Fachliteratur einzuordnen.<sup>2</sup> Sie muss einen Bezug zu den gewählten Studienrichtungen aufweisen und forschungsorientiert ausgerichtet werden. 
 
-(4)[1] Die Masterarbeit ist bei der Wahl der Hauptstudienrichtungen 
+(4)<sup>1</sup> Die Masterarbeit ist bei der Wahl der Hauptstudienrichtungen 
 
 - Angewandte Geologie (AG) 
 
@@ -268,21 +302,21 @@ in der Regel in deutscher oder englischer Sprache abzufassen.
 
 ist die Masterarbeit in der Regel in englischer Sprache abzufassen. 
 
-(5)[1] Die an der Naturwissenschaftlichen Fakultät im Studiengang Geowissenschaften hauptberuflich tätigen Hochschullehrerinnen bzw. Hochschullehrer (Betreuerinnen bzw. Betreuer) im derzeitigen GeoZentrum Nordbayern sind zur Vergabe einer Masterarbeit berechtigt.[2] Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
+(5)<sup>1</sup> Die an der Naturwissenschaftlichen Fakultät im Studiengang Geowissenschaften hauptberuflich tätigen Hochschullehrerinnen bzw. Hochschullehrer (Betreuerinnen bzw. Betreuer) im derzeitigen GeoZentrum Nordbayern sind zur Vergabe einer Masterarbeit berechtigt.<sup>2</sup> Der Prüfungsausschuss kann Ausnahmen gestatten und regeln. 
 
 (6) Abweichend von § 37 Abs. 4 Satz 2 **ABMPO/NatFak** kann der Prüfungsausschuss die Bearbeitungsfrist für die Masterarbeit ausnahmsweise um höchstens drei Monate verlängern. 
 
 9 
 
-(7)[1] Die mündliche Verteidigung der Masterarbeit besteht aus einem ca. 20-minütigen Vortrag, in dem die Masterarbeit und deren Ergebnisse im Rahmen eines öffentlichen Seminars vorgestellt werden, und einer daran anschließenden ca. 10-minütigen Diskussion.[2] Der Termin für den Vortrag wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.[3] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.[4] § 47 Abs. 3 gilt entsprechend. 
+(7)<sup>1</sup> Die mündliche Verteidigung der Masterarbeit besteht aus einem ca. 20-minütigen Vortrag, in dem die Masterarbeit und deren Ergebnisse im Rahmen eines öffentlichen Seminars vorgestellt werden, und einer daran anschließenden ca. 10-minütigen Diskussion.<sup>2</sup> Der Termin für den Vortrag wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.<sup>3</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben.<sup>4</sup> § 47 Abs. 3 gilt entsprechend. 
 
 ## **III. Teil: Schlussbestimmungen** 
 
 **§ 55 Inkrafttreten** 
 
-(1)[1] Diese Fachstudien- und Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2019/2020 das Bachelor bzw. das Masterstudium Geowissenschaften aufnehmen werden.[3] Abweichend von Satz 2 findet die Regelung in § 50 i. V. m. § 34 und **Anlage ABMPO/NatFak** erstmals Anwendung auf Bewerbungen für die Aufnahme des Masterstudiums zum Wintersemester 2020/2021; bis dahin finden die Regelungen in der Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften und den Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der FAU – **FPOGeo** – vom 2. März 2017 in Verbindung mit der Allgemeinen Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und die Masterstudiengänge Geowissenschaften (M.Sc.) und den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der FAU – **ABMPOGeo/NatFak** – vom 29. Februar 2016 in der derzeit geltenden Fassung Anwendung. 
+(1)<sup>1</sup> Diese Fachstudien- und Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2019/2020 das Bachelor bzw. das Masterstudium Geowissenschaften aufnehmen werden.<sup>3</sup> Abweichend von Satz 2 findet die Regelung in § 50 i. V. m. § 34 und **Anlage ABMPO/NatFak** erstmals Anwendung auf Bewerbungen für die Aufnahme des Masterstudiums zum Wintersemester 2020/2021; bis dahin finden die Regelungen in der Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften und den Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der FAU – **FPOGeo** – vom 2. März 2017 in Verbindung mit der Allgemeinen Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und die Masterstudiengänge Geowissenschaften (M.Sc.) und den Masterstudiengang GeoThermie/GeoEnergie (M.Sc.) an der Naturwissenschaftlichen Fakultät der FAU – **ABMPOGeo/NatFak** – vom 29. Februar 2016 in der derzeit geltenden Fassung Anwendung. 
 
-(2)[1] Studierende, die bereits nach der bisher gültigen Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften und den Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der FAU – **FPOGeo** – vom 2. März 2017 studieren, legen ihre Prüfungen nach der bisher gültigen Prüfungsordnung ab. 2Die in Satz 1 genannte Fachprüfungsordnung tritt mit Wirkung zum 30. September 2024 außer Kraft.[3] Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden für den Bachelorstudiengang letztmals im Sommersemester 2024 und für die Masterstudiengang letztmals im Wintersemester 2022/2023 angeboten. 
+(2)<sup>1</sup> Studierende, die bereits nach der bisher gültigen Fachprüfungsordnung für den Bachelorstudiengang Geowissenschaften und den Masterstudiengang Geowissenschaften an der Naturwissenschaftlichen Fakultät der FAU – **FPOGeo** – vom 2. März 2017 studieren, legen ihre Prüfungen nach der bisher gültigen Prüfungsordnung ab. 2Die in Satz 1 genannte Fachprüfungsordnung tritt mit Wirkung zum 30. September 2024 außer Kraft.<sup>3</sup> Prüfungen nach der in Satz 1 genannten Fachprüfungsordnung werden für den Bachelorstudiengang letztmals im Sommersemester 2024 und für die Masterstudiengang letztmals im Wintersemester 2022/2023 angeboten. 
 
 10 
 
@@ -290,7 +324,12 @@ ist die Masterarbeit in der Regel in englischer Sprache abzufassen.
 
 ## **Anlage 1a: Curricular-Übersicht** 
 
-**Bachelorarbeit 15 ECTS-Punkte Schlüsselqualifikations-Module 10 ECTS-Punkte Geowissenschaftlicher Wahlpflichtbereich 30 ECTS-Punkte Aufbaumodule 65 ECTS-Punkte Grundlagenmodule 60 ECTS-Punkte** 
+|**Bachelorarbeit**<br>**15 ECTS-Punkte**|
+|---|
+|**Schlüsselqualifikations-Module**<br>**10 ECTS-Punkte**|
+|**Geowissenschaftlicher Wahlpflichtbereich**<br>**30 ECTS-Punkte**|
+|**Aufbaumodule**<br>**65 ECTS-Punkte**|
+|**Grundlagenmodule**<br>**60 ECTS-Punkte**|
 
 Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in der folgenden Darstellung des (Muster-)Studienverlaufs (vgl. **Anlage 1b** ). 
 
@@ -298,79 +337,76 @@ Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in d
 
 ## **Anlage 1b: Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.)** 
 
-|||||||SWS|SWS|||Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Nr.|Modulbezeichnung|Lehrveranstaltung||||||Gesamt<br>ECTS|1 S|2 S|3 S|4 S|5 S|6 S|Art und Umfang der<br>Püf/Stdilit||
-|||||V|Ü|P|S|T||. em.|. em.|. em|. em|. em|. em|runguenesung||
-|**Grundlagenmodule**|**1**|**Grundlagen der Geo-**<br>**wissenschaften I**|System Erde I|4|||||5|5||||||PL: Klausur 60 Min.|1|
-||**2**|**Minerale und Gesteine**|Minerale und Gesteine|3|||||5|2||||||PL: Klausur 90 Min.|1|
-||||Übungen zur V Minerale und<br>Gesteine||2|||||3||||||||
-||**3**|**Mathematik**|Mathematik für Naturwissenschaftler|3|||||5|3||||||PL: Klausur 90 Min.|1|
-||||Übungen zur V Mathem. für<br>Nat.wiss.||1|||||2||||||||
-||**4**|**Biologie**|Biologie für Nebenfächler|5|||||5|5||||||PL: Klausur 90 Min.|1|
-||**5**|**Chemie**|Allgemeine und Anorganische<br>Chemie|4|||||10|4||||||PL: Klausur 45 Min. und<br>SL: pÜL|1|
-||||Anorganisch-chemisches<br>Praktikum für Nebenfächler||8||||||6|||||||
-||**6**|**Geowissenschaftliche**<br>**Arbeitsmethoden I**|Geowissenschaftliche<br>Arbeitsmethoden I||2||||5|3||||||PL: Klausur 90 Min. und<br>SL: ExL (max. 10 Seiten)|1|
-||||Geländeübung I||||3|||2||||||||
-||**7**|**Grundlagen der**<br>**Geowissenschaften II**|System Erde II|4|||||5||5|||||PL: Klausur 60 Min.|1|
-|||**Dynamik des Systems**<br>**Erde**|System Erde III|2|1||||5||5|||||PL: Klausur 60 Min.|1|
-||**8**|**Mineralogie I**|Spezielle Minerale|1|1||||5||2|||||PL: Klausur 90 Min.|1|
-||||Symmetrie und Eigenschaften der<br>Minerale|2|1||||||3|||||||
-||**9**|**Physik**|Experimentalphysik für<br>Nebenfächler|4|||||5||3|||||PL: Klausur 90 Min.|1|
-||||Übungen zur Physik für<br>LA Geographie, Geowissenschaften||2||||||2|||||||
-||**10**|**Paläobiologie I**|Allgemeine Paläontologie||||2||5||2|||||PL: Klausur 60 Min.|1|
-||||Evolution des Lebens||||2||||3|||||||
-|||**Summe Grundlagenmodule**||**32**|**18**|**0**|**7**|**0**|**60**|**30**|**30**|**0**|**0**|**0**|**0**|||
+|Nr.|Modulbezeichnung|Lehrveranstaltung||SWS<br>Gesamt<br>|Worklo<br>|ad-Vertei<br>|lung pro S<br>|emester in<br>|ECTS-P<br>|unkten<sup>1</sup><br>|Art und Umfang der<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||V|ECTS<br>Ü<br>P<br>S<br>T|1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Prüfung/Studienleistung|note|
+|**1**|**Grundlagen der Geo-**<br>**wissenschaften I**|System Erde I|4|5|5||||||PL: Klausur 60 Min.|1|
+|**2**|**Minerale und Gesteine**|Minerale und Gesteine|3|5|2||||||PL: Klausur 90 Min|1|
+|||Übungen zur V Minerale und<br>Gesteine||<br>2|3||||||.||
+|||Mathematik für Naturwissenschaftler|3||3||||||||
+|**3**|**Mathematik**|||5|||||||PL: Klausur 90 Min.|1|
+|||Übungen zur V Mathem. für<br>Nat.wiss.||1|2||||||||
+|**4**|**Biologie**|Biologie für Nebenfächler|5|5|5||||||PL: Klausur 90 Min.|1|
+|**le**<br>|**Chi**|Allgemeine und Anorganische<br>Chemie|4||4||||||PL: Klausur 45 Min. und||
+|**odu**<br>**5**|**eme**|Anorganisch-chemisches<br>Praktikum für Nebenfächler||10<br>8||6|||||SL: pÜL|1|
+|**enm**<br>**6**|**Geowissenschaftliche**|Geowissenschaftliche<br>Arbeitsmethoden I||2<br>5|3||||||PL: Klausur 90 Min. und|1|
+|**dlag**<br>|**Arbeitsmethoden I**|Geländeübung I||<br>3|2||||||SL: ExL (max. 10 Seiten)||
+|**run**<br>**7**|**Grundlagen der**<br>**Geowissenschaften II**|System Erde II|4|5||5|||||PL: Klausur 60 Min.|1|
+|**G**<br>|**Dynamik des Systems**<br>**Erde**|System Erde III|2|1<br>5||5|||||PL: Klausur 60 Min.|1|
+|||Spezielle Minerale|1|1<br>||2|||||||
+|**8**|**Mineralogie I**|Symmetrie und Eigenschaften der<br>Minerale|2|5<br>1||3|||||PL: Klausur 90 Min.|1|
+|||Experimentalphysik für<br>Nebenfächler|4|||3|||||||
+|**9**|**Physik**|Übungen zur Physik für<br>LA Geographie, Geowissenschaften||5<br>2||2|||||PL: Klausur 90 Min.|1|
+|||Allgemeine Paläontologie||2<br>||2|||||||
+|**10**|**Paläobiologie I**|Evolution des Lebens||5<br>2||3|||||PL: Klausur 60 Min.|1|
+||**Summe Grundlagenm**|**odule**|**32**|<br>**18**<br>**0**<br>**7**<br>**0**<br>**60**|**30**|**30**|**0**|**0**|**0**|**0**|||
 
 12 
 
-|||||||||||Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1||Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Nr.|Modulbezeichnung|Lehrveranstaltung|||SWS|||Gesamt<br>|||||||Art und Umfang der<br>||
-|||||V|Ü|P|S|T|ECTS|1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Prüfung/Studienleistung||
-|**Aufbaumodule**|**11**|**Paläobiologie II**|Paläobiodiversität|1|||||5|||2||||PL: Klausur 60 Min.|1|
-||||Übungen zur V Paläobiodiversität||3|||||||3||||||
-||**12**|**Physikalisches Praktikum**|Physikalisches Praktikum für<br>Geowissenschaftler|||5|||5|||5||||PL: pÜL (Protokollheft<br>15-30 Seiten)|1|
-|||**Angewandte Geologie I**|Hydrogeologie||2||2||5|||5||||PL: Klausur 60 Min.|1|
-||**13**|**Strukturgeologie und**<br>**Lagerstättenkunde**|Lagerstättenkunde|1|1||||5|||2||||PL: Klausur 60 Min.|1|
-||||Strukturgeologie|1|1|||||||3||||||
-||**14**|**Geowissenschaftliche**<br>**Arbeitsmethoden II**|Geowissenschaftliche<br>Arbeitsmethoden II||2||||5|||2||||PL: Klausur 90 Min. und<br>SL: ExL (max. 10 Seiten)|1|
-||||Geländeübung II||||2|||||3||||||
-||**15**|**Mineralogie II**|Pol Mikroskopie||2||||5|||3||||PL: Klausur 90 Min.|1|
-||||Angewandte Mineralogie|2||||||||2||||||
-||**16**|**Regionale Geologie**|Regionale Geologie||||2||||||2|||PL: Klausur 90 Min. und<br>SL: SeL (max. 10 Seiten)|1|
-||||Kartierübung||3||||5||||3|||||
-||**17**|**Sedimentologie**|System Erde IV|3|1||||5||||5|||PL: Klausur 60 Min.|1|
-|||**Geochemie**|Geochemie|2|||||5||||3|||PL: Klausur 60 Min.|1|
-||||Globale Stoffkreisläufe|1|||||||||2|||||
-||**18**|**Petrologie**|Mikroskopie der gesteins. Minerale||2||||5||||3|||PL: Klausur 90 Min.|1|
-||||Petrologische Systeme|2|||||||||2|||||
-||**19**|**Angewandte Geologie II**|Ingenieurgeologie|2|2||||5||||5|||PL: Klausur 60 Min.|1|
-||**20**|**Wissenschaftliches geow.**<br>**Arbeiten und Präsentieren**|Wissenschaftliches geow. Arbeiten<br>und Präsentieren||||4||5||||5|||PL: SeL 10-15 Min.|1|
-||**21**|**Geophysik**|Geophysik|3|||||5|||||5||PL: Klausur 60 Min.|1|
-|||**Summe Aufbaumodule**||**18**|**19**|**5**|**10**|**0**|**65**|**0**|**0**|**30**|**30**|**5**|**0**|||
+|Nr|Modulbezeichnun|Lehrveranstaltun|SWS<br>Gesamt|Workl|oad-Verteilung pro S|emester i|n ECTS-P|unkten<sup>1</sup>|Art und Umfang der|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|
+|.|g|g<br>V|ECTS<br>Ü<br>P<br>S<br>T|1. Sem.|2. Sem.<br>3. Sem|4. Sem|5. Sem|6. Sem|Prüfung/Studienleistung|note|
+|**11**|**Pläili II**|Paläobiodiversität<br>1|||2||||||
+||**aobooge**|Übungen zur V Paläobiodiversität|5<br>3||3||||PL: Klausur 60 Min.|1|
+|**12**|**Physikalisches Praktikum**|Physikalisches Praktikum für<br>Geowissenschaftler|5<br>5||5||||PL: pÜL (Protokollheft<br>15-30 Seiten)|1|
+||**Angewandte Geologie I**|Hydrogeologie|2<br>2<br>5||5||||PL: Klausur 60 Min.|1|
+|**13**|**Strukturgeologie und**|Lagerstättenkunde<br>1|1<br>5||2||||PL: Klausur 60 Min|1|
+||**Lagerstättenkunde**|Strukturgeologie<br>1|<br>1||3||||.||
+|**14**|**Geowissenschaftliche**<br>|Geowissenschaftliche<br>Arbeitsmethoden II|2<br>5||2||||PL: Klausur 90 Min. und<br>|1|
+|**ule**|**Arbeitsmethoden II**|Geländeübung II|2||3||||SL: ExL (max. 10 Seiten)||
+|**od**<br>**15**|**Mineraloie II**|Pol Mikroskopie|2<br>5||3||||PL: Klausur 90 Min|1|
+|**um**<br>|**g**|Angewandte Mineralogie<br>2|||2||||.||
+|**ba**<br>**16**|**Reionale Geoloie**|Regionale Geologie|2<br>5|||2|||PL: Klausur 90 Min. und|1|
+|**Auf**<br>|**g g**|Kartierübung|<br>3|||3|||SL: SeL (max. 10 Seiten)||
+||**Sedimentologie**|System Erde IV<br>3|1<br>5|||5|||PL: Klausur 60 Min.|1|
+|**17**||Geochemie<br>2||||3|||||
+||**Geochemie**|Globale Stoffkreisläufe<br>1|5|||2|||PL: Klausur 60 Min.|1|
+|**18**|**Pli**|Mikroskopie der gesteins. Minerale|2<br>|||3|||||
+||**etrooge**|Petrologische Systeme<br>2|5|||2|||PL: Klausur 90 Min.|1|
+|**19**|**Angewandte Geologie II**|Ingenieurgeologie<br>2|2<br>5|||5|||PL: Klausur 60 Min.|1|
+|**20**|**Wissenschaftliches geow.**<br>**Arbeiten und Präsentieren**|Wissenschaftliches geow. Arbeiten<br>und Präsentieren|4<br>5|||5|||PL: SeL 10-15 Min.|1|
+|**21**|**Geophysik**|Geophysik<br>3|5||||5||PL: Klausur 60 Min.|1|
+||**Summe Aufbaumodule**|<br>**18**|**19**<br>**5**<br>**10**<br>**0**<br>**65**|**0**|**0**<br>**30**|**30**|**5**|**0**|||
 
 13 
 
-|||||SWS|SWS|SWS|SWS|SWS|Gesamt|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Workload-Verteilung pro Semester in ECTS-Punkten1|Art und Umfang der|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Nr.|Modulbezeichnung|Lehrveranstaltung||||||<br>ECTS|||||||<br>Püf/Stdilit||
-|||||V|Ü|P|S|T||1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|runguenesung||
-|**Geowissenschaftlicher Wahlpflichtbereich**|**22**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1a1**|||||||5|||||5|||1|
-||**23**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1b1**|||||||5|||||5||||
-||**24**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1c1**|||||||5|||||5||||
-||**25**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 2a1**|||||||5||||||5||1|
-||**26**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 2b1**|||||||5||||||5|||
-||**27**|**Geowissenschaftliches**<br>**Schwerpunktmodul 2c1**|||||||5||||||5|||
-|||**SummeGeowissenschaftlicher Wahlpflichtbereich**||**31**|**10**|**5**|**6**|**0**|**30**|**0**|**0**|**0**|**0**|**15**|**15**|||
-|**SQ-Module**|**28**|**Schlüsselqualifikation**<br>**Veranstaltung aus dem**<br>**Angebot der FAU**|||||||5|||||5|||1|
-||**29**|**Überfachliches**<br>**Wahlmodul**2|||||||5|||||5|||1|
-|||**SummeSQ Module**|||||||**10**|**0**|**0**|**0**|**0**|**10**|**0**|||
-|**Bachelor-**<br>**arbeit**|**30**|**Bachelorarbeit**|Schriftliche Bachelorarbeit||||||15||||||12|Bachelorarbeit<br>(ca. 20-40 Seiten), 80 %<br>und<br>Kolloquium, (20 Min.),<br>20 %|1|
-||||Kolloquium||||||||||||3|||
-|||**SummeBachelorarbeit**|||||||**15**|**0**|**0**|**0**|**0**|**0**|**15**|||
-|||||683|28|5|9||1|29|31|30|30|30|30|||
-|||Summe SWS (mind.) undECTS-Punkte||1103|||||80|||||||||
+|Nr.|Modulbezeichnung|Lehrveranstaltung|SWS<br>Gesamt<br>|Workl<br>|oad-Verteil<br>|ung pro S<br>|emester i<br>|n ECTS-P<br>|unkten<sup>1</sup><br>|Art und Umfang der<br>|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+||||ECTS<br>V<br>Ü<br>P<br>S<br>T|1. Sem.|2. Sem.|3. Sem|4. Sem|5. Sem|6. Sem|Prüfung/Studienleistung|note|
+|**reich**<br>**22**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1a**<sup>**1**</sup>||5|||||5||||
+|**flichtbe**<br>**23**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1b**<sup>**1**</sup>||5|||||5|||1|
+|**er Wahlp**<br>**24**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 1c**<sup>**1**</sup>||5|||||5||||
+|**haftlich**<br>**25**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 2a**<sup>**1**</sup>||5||||||5|||
+|**wissensc**<br>**26**|**Geowissenschaftliches**<br>**Wahlpflichtmodul 2b**<sup>**1**</sup>||5||||||5||1|
+|**Geo**<br>**27**|**Geowissenschaftliches**<br>**Schwerpunktmodul 2c**<sup>**1**</sup>||5||||||5|||
+||**SummeGeowissenscha**|**ftlicher Wahlpflichtbereich**|**31**<br>**10**<br>**5**<br>**6**<br>**0**<br>**30**|**0**|**0**|**0**|**0**|**15**|**15**|||
+|**odule**<br>**28**|**Schlüsselqualifikation**<br>**Veranstaltung aus dem**<br>**Angebot der FAU**||5|||||5|||1|
+|**SQ-M**<br>**29**|**Überfachliches**<br>**Wahlmodul**<sup>2</sup>||5|||||5|||1|
+||**SummeSQ Module**||**10**|**0**|**0**|**0**|**0**|**10**|**0**|||
+|**elor-**<br>**eit**<br>||Schriftliche Bachelorarbeit|||||||12|Bachelorarbeit<br>(ca. 20-40 Seiten), 80 %<br>||
+|**Bach**<br>**arb**<br>**30**|**Bachelorarbeit**|Kolloquium|15||||||3|und<br>Kolloquium, (20 Min.),<br>20 %|1|
+||**SummeBachelorarbeit**||**15**|**0**|**0**|**0**|**0**|**0**|**15**|||
+||Summ|e SWS (mind.) undECTS-Punkte|68<sup>3</sup><br>28<br>5<br>9<br>180<br>110<sup>3</sup>|29|31|30|30|30|30|||
 
 1 vgl. § 46. 
 
@@ -384,12 +420,8 @@ Die genauen Regelungen zu den farblich hervorgehobenen Blöcken finden sich in d
 
 ## **Anlage 2a: Curricular-Übersicht** 
 
-||||
+|**Haupt-**<br>**studien-**<br>**richtung**<br>**45 ECTS-**<br>**Punkte**|**Masterarbeit**<br>**30 ECTS-Punkte**<br>**Nebenstudien-**<br>**richtung**<br>**30 ECTS-**<br>**Punkte**|**Geow. Wahl-**<br>**modul**<br>**5 ECTS-**<br>**Punkte und**<br>**SQ Module**<br>**10 ECTS-**<br>**Punkte**|
 |---|---|---|
-||**Masterarbeit**||
-||**30 ECTS-Punkte**||
-||||
-|**Haupt-**<br>**studien-**<br>**richtung**<br>**45 ECTS-**<br>**Punkte**|**Nebenstudien-**<br>**richtung**<br>**30 ECTS-**<br>**Punkte**|**Geow. Wahl-**<br>**modul**<br>**5 ECTS-**<br>**Punkte und**<br>**SQ Module**<br>**10 ECTS-**<br>**Punkte**|
 
 Aus folgenden Studienrichtungen können die Hauptstudienrichtung und die Nebenstudienrichtung gewählt werden: 
 
@@ -407,37 +439,30 @@ Aus folgenden Studienrichtungen können die Hauptstudienrichtung und die Nebenst
 
 ## **Anlage 2b: Strukturplan Master Geowissenschaften (M.Sc.)** 
 
-||||**_Hauptstudienrichtung_**|**_Hauptstudienrichtung_**|**_Hauptstudienrichtung_**|**_Nebenstudienrichtung_**|**_Nebenstudienrichtung_**||
+||||**_Haup_**|**_tstudienrich_**|**_tung_**|**_Nebenstudi_**|**_enrichtung_**||
 |---|---|---|---|---|---|---|---|---|
-|1. Semester|**30 ECTS**|**Vertiefungsphase**|**_H_-V1**<br>5 ECTS|**_H_-V2**<br>5 ECTS|**_H_-E1**<br>5 ECTS|**_N_-V1**<br>5 ECTS|**_N_-V2**<br>5 ECTS|**Geow.**<br>**Wahlmodul**<br>5 ECTS|
-|2. Semester|**30 ECTS**||**_H_-V3**<br>5 ECTS|**_H_-V4**<br>5 ECTS|**_H_-E2**<br>5 ECTS|**_N_-V3**<br>5 ECTS|**_N_-V4**<br>5 ECTS|**Geow.**<br>**SQ-Modul**<br>5 ECTS|
+|1. Semester|**30 ECTS**|**gsphase**|**_H_-V1**<br>5 ECTS|**_H_-V2**<br>5 ECTS|**_H_-E1**<br>5 ECTS|**_N_-V1**<br>5 ECTS|**_N_-V2**<br>5 ECTS|**Geow.**<br>**Wahlmodul**<br>5 ECTS|
+|2. Semester|**30 ECTS**|**Vertiefun**|**_H_-V3**<br>5 ECTS|**_H_-V4**<br>5 ECTS|**_H_-E2**<br>5 ECTS|**_N_-V3**<br>5 ECTS|**_N_-V4**<br>5 ECTS|**Geow.**<br>**SQ-Modul**<br>5 ECTS|
 |3. Semester|**30 ECTS**|**gsphase**|**_H_-F1**<br>5 ECTS|**_H_-F2**<br>5 ECTS|**_H_-F3**<br>5 ECTS|**_N_-F1**<br>5 ECTS|**_N_-F2**<br>5 ECTS|**Geow.**<br>**SQ-Modul**<br>5 ECTS|
-|4. Semester|**30 ECTS**|**Forschun**|**Masterarbeit****_H_ & Masterkolloquium**<br>25 ECTS & 5 ECTS||||||
+|4. Semester|**30 ECTS**|**Forschun**||**Mas**|**terarbeit****_H_ &**<br>25 ECTS|**Masterkollo**<br>& 5 ECTS|**quium**||
 
 15 
 
 ## **Anlage 2c: Studienverlaufsplan Master Geowissenschaften (M.Sc.)** 
 
-|||||||||Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester|Workload-Verteilung pro Semester||Faktor<br>Modul-<br>Note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Modulbezeichnung|Lehrveranstaltung||SWS|||Gesamt<br>ECTS||<br>in ECTS-Punkten|||Art und Umfang der<br>Püf/Stdilit||
-|||||||||||||||
-||||V|Ü|P|S||1. Sem.|2. Sem.|3. Sem.|4. Sem.|runguenesung||
-|**Hauptstudien-**<br>**richtung**|Wahlpflichtmodule aus Katalog für<br>Hauptstudienrichtung gemäß § 52<br>Abs. 1 und 2|vgl. § 52 Abs.||||||15|15|15||vgl. § 52 Abs. 4|1|
-|||||4||||||||||
-|||||||||||||||
-||**Summe Hauptstudienrichtung gemäß § 52 Abs. 1 und 2**||||||**45**|**15**|**15**|**15**|**0**|||
-|**Nebenstudien-**<br>**richtung**|Wahlpflichtmodule aus Katalog für<br>Nebenstudienrichtung gemäß § 52<br>Abs. 1 und 3|vgl. § 52 Abs.||||||10|10|10||vgl. § 52 Abs. 4|1|
-|||||4||||||||||
-|||||||||||||||
-||**Summe Nebenstudienrichtung gemäß § 52 Abs. 1 und 3**||||||**30**|**10**|**10**|**10**|**0**|||
-|**Geow. Wahlmodul**<br>**und Geow. SQ**<br>**Module**|Geowissenschaftliches Wahlmodul<br>gemäß § 53|vgl. § 53|||||5|5||||vgl. § 53|1|
-||Geowissenschaftliches SQ-Modul<br>gemäß § 53|vgl. § 53|||||10||5|5||vgl. § 53|1|
-||**Summe Geowissenschaftliches Wahlmodul und Schlüssel-**<br>**qualifikationsmodule gem. § 53**||||||**15**|**5**|**5**|**5**|**0**|||
-|**Masterarbeit**|Masterarbeit gemäß § 54|Schriftliche<br>Masterarbeit|||||30||||25|Masterarbeit (40-60 Seiten),<br>5/6 der Gesamtleistung, und<br>Vortrag mit Diskussion<br>(30 Min.), 1/6 der Gesamt-<br>leistung|1|
-|||Verteidigung der<br>Masterarbeit|||||||||5|||
-||**Summe Masterarbeitgemäß§ 54**||||||**30**|**0**|**0**|**0**|**30**|||
-||**Summen SWS und ECTS-Punkte**||||||**120**|**30**|**30**|**30**|**30**|||
+||Modulbezeichnung|Lehrveranstaltung<br>SWS<br>V<br>Ü<br>P|Gesamt<br>ECTS<br>S<br>|Workload-Vertei<br>in ECTS<br>1. Sem.<br>2. Sem.|lung pro S<br>-Punkten<br>3. Sem.|emester<br> <br>4. Sem.|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Modul-<br>Note|
+|---|---|---|---|---|---|---|---|---|
+|**tstudien-**<br>**chtung**|Wahlpflichtmodule aus Katalog für<br>Hauptstudienrichtung gemäß § 52<br>Abs. 1 und 2|vgl. § 52 Abs. 4||15<br>15|15||vgl. § 52 Abs. 4|1|
+|**Haup**<br>**ri**|**Summe Hauptstudienrichtung gem**|**äß § 52 Abs. 1 und 2**|**45**|**15**<br>**15**|**15**|**0**|||
+|**nstudien-**<br>**htung**|Wahlpflichtmodule aus Katalog für<br>Nebenstudienrichtung gemäß § 52<br>Abs. 1 und 3|vgl. § 52 Abs. 4||10<br>10|10||vgl. § 52 Abs. 4|1|
+|**Nebe**<br>**ric**|**Summe Nebenstudienrichtung gem**|**äß § 52 Abs. 1 und 3**|**30**|**10**<br>**10**|**10**|**0**|||
+|**lmodul**<br>**w. SQ**<br>**le**|Geowissenschaftliches Wahlmodul<br>gemäß § 53|vgl. § 53|5|5|||vgl. § 53|1|
+|**Geow. Wah**<br>**und Geo**<br>**Modu**|Geowissenschaftliches SQ-Modul<br>gemäß § 53|vgl. § 53|10|5|5||vgl. § 53|1|
+||**Summe Geowissenschaftliches Wa**<br>**qualifikationsmodule gem. § 53**|**hlmodul und Schlüssel-**|**15**|**5**<br>**5**|**5**|**0**|||
+|**rbeit**|Mtbit äß  54|Schriftliche<br>Masterarbeit|30|||25|Masterarbeit (40-60 Seiten),<br>5/6 der Gesamtleistung, und<br>Vt it Diki|1|
+|**astera**|aserare gem §|Verteidigung der<br>Masterarbeit||||5|orrag m susson<br>(30 Min.), 1/6 der Gesamt-<br>leistung||
+|**M**|**Summe Masterarbeitgemäß§ 54**||**30**|**0**<br>**0**|**0**|**30**|||
+||**Summe**|**n SWS und ECTS-Punkte**|**120**|**30**<br>**30**|**30**|**30**|||
 
 16 
 

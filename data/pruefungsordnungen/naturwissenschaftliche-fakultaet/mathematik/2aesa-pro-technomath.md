@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. April 2003"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/2AeSa-PrO-Technomath.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:54:53+00:00
-page_count_chars: 2376
+scraped_at: 2026-07-01T09:19:03+00:00
+page_count_chars: 2381
 ---
 
 # 24. April 2003
@@ -14,11 +14,11 @@ page_count_chars: 2376
 
 **Zweite Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Technomathematik an der Naturwissenschaftlichen Fakultät I (Mathematik und Physik) der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 24. April 2003 
+# Vom 24. April 2003 
 
 Auf Grund von Art. 6 Abs. 1 Satz 1 in Verbindung mit Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-Alexander-Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Diplomprüfungsordnung für Studenten der Technomathematik an der Naturwissenschaftlichen Fakultät I (Mathematik und Physik) der Friedrich-Alexander-Universität ErlangenNürnberg vom 22. Februar 2000 (KMBl II S. 769), geändert durch Satzung der FriedrichAlexander-Universität Erlangen-Nürnberg zur Anpassung der Prüfungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG) vom 12. April 2002 (KWMBl II S. ..........), wird wie folgt geändert: 
 
@@ -32,15 +32,15 @@ a) In Satz 2 werden nach der Zahl "4" die Worte "und Nr. 5" eingefügt.
 
 "(1) Soweit die Prüfung schriftlich ist, wird sie in Form einer oder mehrerer Klausuren im Gesamtumfang von bis zu vier Stunden Dauer abgehalten." 
 
-## 3. § 17 wird wie folgt geändert: 
+# 3. § 17 wird wie folgt geändert: 
 
 - a) In Absatz 1 wird folgender Satz angefügt: 
 
-   - "[5] Besteht eine Prüfung aus mehreren Teilen, errechnet sich die Fachnote aus dem Durchschnitt der gewichteten Noten dieser Prüfungsteile; Satz 4 Halbsätze 2 und 3 gelten entsprechend." 
+   - "<sup>5</sup> Besteht eine Prüfung aus mehreren Teilen, errechnet sich die Fachnote aus dem Durchschnitt der gewichteten Noten dieser Prüfungsteile; Satz 4 Halbsätze 2 und 3 gelten entsprechend." 
 
 - b) In Absatz 2 wird das Wort "vier" durch das Wort "fünf" ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 (1) Diese Änderungssatzung tritt am Tage ihrer Bekanntmachung in Kraft. 
 

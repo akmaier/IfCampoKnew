@@ -8,7 +8,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Orientierungs-/Modulstudien"
-scraped_at: 2026-05-01T06:47:22+00:00
+scraped_at: 2026-07-01T08:24:11+00:00
 ---
 
 # Kulturraum Italien: Kunst, Literatur und Sprache (Modulstudien)

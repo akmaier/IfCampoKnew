@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA Pädagogik FPOPäd 20100608 i.d.F. 20190520.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Paedagogik/konsolidierte_Fassungen/MA_Paedagogik_FPOPaed_20100608_idF_20190520.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:35:33+00:00
-page_count_chars: 36080
+scraped_at: 2026-07-01T09:46:12+00:00
+page_count_chars: 33005
 ---
 
 # MA Pädagogik FPOPäd 20100608 i.d.F. 20190520.pdf
@@ -16,7 +16,7 @@ page_count_chars: 36080
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOPäd – Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Pädagogik an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOPäd – Vom 8. Juni 2010** 
 
 geändert durch Satzungen vom 5. November 2010 
 
@@ -24,9 +24,29 @@ geändert durch Satzungen vom 5. November 2010
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Prüfungsordnung: 
 
-## **Inhaltsverzeichnis:** 
+### **Inhaltsverzeichnis:** 
 
-§ 1 Geltungsbereich ........................................................................................................................... 2 § 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ............................ 2 § 3 Umfang und Gliederung des Masterstudiums, Prüfungen ........................................................... 2 § 4 Freies Ergänzungsstudium ........................................................................................................... 3 § 5 Inkrafttreten und Übergangsvorschriften ...................................................................................... 3 Anlage 1: ............................................................................................................................................. 4 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Vollzeit ........... 4 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Teilzeit ........... 5 Anlage 2: ............................................................................................................................................. 6 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“ – Vollzeit ............................................................................................................................................. 6 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“ – Teilzeit ............................................................................................................................................. 7 Anlage 3: ............................................................................................................................................. 8 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Vollzeit ............ 8 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Teilzeit ............ 9 Anlage 4: ........................................................................................................................................... 10 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Vollzeit ................ 10 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Teilzeit................. 11 Anlage 5: ........................................................................................................................................... 12 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Vollzeit ...... 12 Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Teilzeit ...... 13 
+|§ 1 Geltungsbereich ........................................................................................................................... 2|
+|---|
+|§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen ............................ 2|
+|§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen ........................................................... 2|
+|§ 4 Freies Ergänzungsstudium ........................................................................................................... 3<br>|
+|§ 5 Inkrafttreten und Übergangsvorschriften ...................................................................................... 3|
+|Anlage 1: ............................................................................................................................................. 4|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Vollzeit ........... 4|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Teilzeit ........... 5|
+|Anlage 2: ............................................................................................................................................. 6<br>|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“<br>– Vollzeit ............................................................................................................................................. 6<br>|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“<br>– Teilzeit ............................................................................................................................................. 7|
+|Anlage 3: ............................................................................................................................................. 8|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Vollzeit ............ 8|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Teilzeit ............ 9|
+|Anlage 4: ........................................................................................................................................... 10|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Vollzeit ................ 10|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Teilzeit................. 11|
+|Anlage 5: ........................................................................................................................................... 12|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Vollzeit ...... 12|
+|Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Teilzeit ...... 13|
 
 1 
 
@@ -36,9 +56,9 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Ein-Fach- oder Zwei-Fach-Bachelorstudiengang der Pädagogik oder der Abschluss in einem Drei-Fach-Bachelorstudiengang mit Pädagogik als Hauptfach.[2] Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in anderen Fächern anerkannt, soweit sie einen wesentlichen Umfang erziehungswissenschaftlicher Problemstellungen (mind. 60 ECTS-Punkte) zum Inhalt haben. 
+(1)<sup>1</sup> Fachspezifischer Abschluss i. S. d. § 35 Abs. 1 Nr. 1 **ABMStPO/Phil** ist der Abschluss in einem Ein-Fach- oder Zwei-Fach-Bachelorstudiengang der Pädagogik oder der Abschluss in einem Drei-Fach-Bachelorstudiengang mit Pädagogik als Hauptfach.<sup>2</sup> Als fachverwandte bzw. nicht wesentlich unterschiedliche Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in anderen Fächern anerkannt, soweit sie einen wesentlichen Umfang erziehungswissenschaftlicher Problemstellungen (mind. 60 ECTS-Punkte) zum Inhalt haben. 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.[2] In der mündlichen Zugangsprüfung wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender Kriterien beurteilt: 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt.<sup>2</sup> In der mündlichen Zugangsprüfung wird die inhaltliche und wissenschaftliche Eignung der Bewerberinnen und Bewerber zum Masterstudium anhand folgender Kriterien beurteilt: 
 
 1.  Qualität der Kenntnisse der erziehungswissenschaftlichen Theorien, Grundbegriffe und Grundfragen insbesondere Erziehungs- und Bildungstheorie, pädagogische Lerntheorie und pädagogische Anthropologie in systematischer und historischer Hinsicht (30 %), 
 
@@ -50,7 +70,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-(1)[1] Das Studium ist in einem der folgenden fünf Schwerpunkte möglich: 
+(1)<sup>1</sup> Das Studium ist in einem der folgenden fünf Schwerpunkte möglich: 
 
 1. Allgemeine Pädagogik 
 
@@ -78,7 +98,7 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 4 Freies Ergänzungsstudium** 
 
-(1)[1] Im Rahmen des Freien Ergänzungsstudiums können Module zu Themen und Fragestellungen aus dem Angebot der FAU belegt werden, die einen Bezug zu den Inhalten des Masterstudiengangs Pädagogik aufweisen.[2] Auch Module, die im Rahmen eines anderen als des gewählten Schwerpunkts im Masterstudiengang Pädagogik angeboten werden, können für das Freie Ergänzungsstudium eingebracht werden. 
+(1)<sup>1</sup> Im Rahmen des Freien Ergänzungsstudiums können Module zu Themen und Fragestellungen aus dem Angebot der FAU belegt werden, die einen Bezug zu den Inhalten des Masterstudiengangs Pädagogik aufweisen.<sup>2</sup> Auch Module, die im Rahmen eines anderen als des gewählten Schwerpunkts im Masterstudiengang Pädagogik angeboten werden, können für das Freie Ergänzungsstudium eingebracht werden. 
 
 (2) Ziel ist es, dass die Studierenden im Masterstudium nach eigener Interessenlage ihr Studienprofil individuell erweitern und vertiefen. 
 
@@ -88,40 +108,37 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 (1) Diese Fachprüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 
-(2)[1] Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
+(2)<sup>1</sup> Die fünfte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2019/2020 aufnehmen werden. 
 
 3 
 
 ## **Anlage 1:** 
 
-## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Vollzeit** 
+|**Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Vollzeit**|
+|---|
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||V|Ü|P|S||<br>1.|<br>2.|<br>3.|<br>4.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||
-|**Wahlpflichtbereich I**2|Seminar||||2|10|5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||5||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|10||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||
-|**Wahlpflichtbereich II**2|Si||||2|||5||||1|
-||emnar|||||10|||||Wissenschaftliche Hausarbeit<br>15 S||
-||||||||||||||
-||Seminar||||2|||5|||(ca.  .)||
-|**Felderkundung**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungspraktikum|||||||5|||||
-|**Allgemeine Pädagogik III**|Theoriewerkstatt I mit<br>Begleitseminar||||||||||Klausur (90 Min.) oder wissenschaftliche<br>Hausarbeit(ca. 15 S.)3|1|
-||||||1|10|||10||||
-|**Wahlpflichtbereich III**2|Seminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||
-|**Allgemeine Pädagogik IV**|Theoriewerkstatt II mit<br>Begleitseminar||||1|10|||10||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-|**Master-Modul**|Begleitseminar||||1|30||||2,5|Mündliche Prüfung über zwei Themen<br>aus dem Masterstudium4(30 Min., 25 %)<br>und Masterarbeit (ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||5|||
-||Masterarbeit|||||||||22,5|||
-|Summe SWS und ECTS-Punkte||8|||17|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Workload-V<br>Semester in E|erteilung<br>CTS-Pu|pro<br>nkten<sup>1</sup>|Art und Umfang der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.|4.||note|
+|**Alli Pädik I**|Vorlesung|2||5|||||
+|**gemene agog**|Vorlesung|2|10|5|||Klausur (90 Min.)|1|
+|**Whlflihtbih I**<sup>2</sup>|Seminar|2|10|5|||Wissenschaftliche Hausarbeit|1|
+|**apcerec**|Seminar|2||5|||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||10|10|||vgl.§4 Abs. 3|0|
+||Vorlesung|2||5|||||
+|**Allgemeine Pädagogik II**|Vorlesung|2|10|5|||Klausur (90 Min.)|1|
+|<sup>2</sup>|Seminar|2||5|||Wissenschaftliche Hausarbeit||
+|**Wahlpflichtbereich II**|Seminar|2|10|5|||(ca. 15 S.)|1|
+|**Fldkd**|Seminar|2|10|5|||Wissenschaftliche Hausarbeit|1|
+|**eerunung**|Erkundungspraktikum|||5|||(ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt I mit<br>Begleitseminar|1|10||10||Klausur (90 Min.) oder wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>3</sup>|1|
+|<sup>2</sup>|Seminar|2|10||5||Wissenschaftliche Hausarbeit|1|
+|**Wahlpflichtbereich III**|Seminar|2|||5||(ca. 15 S.)||
+|**Allgemeine Pädagogik IV**|Theoriewerkstatt II mit<br>Begleitseminar|1|10||10||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
+||Begleitseminar|1||||2,5|Mündliche Prüfung über zwei Themen||
+|**Master-Modul**|Masterprüfung||30|||5|<br>aus dem Masterstudium<sup>4</sup>(30 Min., 25 %)|1|
+||Masterarbeit|||||22,5|und Masterarbeit (ca. 80 S., 75 %)||
+|Sum|me SWS und ECTS-Punkte|8<br>17|120|30<br>30|30|30|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -135,31 +152,28 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Allgemeine Pädagogik“ – Teilzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>In ECTS-Punkten1|Workload-Verteilung pro Semester<br>In ECTS-Punkten1|Workload-Verteilung pro Semester<br>In ECTS-Punkten1|Workload-Verteilung pro Semester<br>In ECTS-Punkten1|Workload-Verteilung pro Semester<br>In ECTS-Punkten1|Workload-Verteilung pro Semester<br>In ECTS-Punkten1||Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||||
-|||V|Ü|P|S||1.|2.|<br>3.|<br>4.|<br>5.|<br>6.|7.|8.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||||||
-|**Wahlpflichtbereich I**2|Seminar||||2|10|||5||||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|5|5|||||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||||||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||||||
-|**Wahlpflichtbereich II**2|Seminar||||2|10||||5|||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2|||||5|||||||
-|**Felderkundung**|Seminar||||2|10|||5||||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungs-<br>praktikum|||||||||5|||||||
-|**Allgemeine Pädagogik III**|||||||||||||||Klausur (90 Min.) oder<br>Wissenschaftliche Hausarbeit<br>(ca. 15 S.)3|1|
-||Theoriewerkstatt<br>||||1|10|||||10||||||
-||mit Begleitseminar||||||||||||||||
-|**Wahlpflichtbereich III**2|Seminar||||2|10|||||5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||||5||||||
-|**Allgemeine Pädagogik IV**|Theoriewerkstatt II<br>mit Begleitseminar||||1|10||||||10|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-|**Master-Modul**|Begleitseminar||||1|30|||||||2,5||Mündliche Prüfung über zwei<br>Themen aus dem Masterstudium4<br>(30 Min., 25 %) und Masterarbeit<br>(ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||||||5|||
-||Masterarbeit||||||||||||12,5|10|||
-|Summe SWS und ECTS-Punkte:||8|||17|120|15|15|15|15|20|10|15|15|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br>|Gesamt<br>ECTS|Wo|rkload-Vertei<br>In ECTS|lung pr<br>-Punkt|o Sem<br>en<sup>1</sup>|ester||Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.|5.|6.|7.|8.||note|
+|**Allgemeine Pädagogik I**|Vorlesung|2|10|5||||||Klausur (90 Min.)|1|
+||Vorlesung|2||5||||||||
+|**Wahlflichtbereich I**<sup>2</sup>|Seminar|2|10||5|||||Wissenschaftliche Hausarbeit|1|
+|**p**|Seminar|2|||5|||||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||10|5<br>5||||||vgl.§4 Abs. 3|0|
+|**Allemeine Pädaoik II**|Vorlesung|2|10|5||||||Klr 90 Min|1|
+|**g gg**|Vorlesung|2||5||||||ausu ( .)||
+|**Wahlflichtbereich II**<sup>2</sup>|Seminar|2|10||5|||||Wissenschaftliche Hausarbeit|1|
+|**p**|Seminar|2|||5|||||(ca. 15 S.)||
+||Seminar|2|||5|||||Wissenschaftliche Hausarbeit||
+|**Felderkundung**|Erkundungs-<br>praktikum||10||5|||||<br>(ca. 15 S.)|1|
+|**Allgemeine Pädagogik III**|Theoriewerkstatt<br>mit Begleitseminar|1|10|||10||||Klausur (90 Min.) oder<br>Wissenschaftliche Hausarbeit<br>(ca. 15 S.)<sup>3</sup>|1|
+|**Whlflihtbih III**<sup>2</sup>|Seminar|2|10|||5||||Wissenschaftliche Hausarbeit|1|
+|**apcerec**|Seminar|2||||5||||(ca. 15 S.)||
+|**Allgemeine Pädagogik IV**|Theoriewerkstatt II<br>mit Begleitseminar|1|10||||10|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
+||<br>Begleitseminar|1||||||2,5||<br>Mündliche Prüfung über zwei||
+|**Master-Modul**|Masterprüfung||30||||||5|Themen aus dem Masterstudium<sup>4</sup><br>|1|
+||Masterarbeit|||||||12,5|10|(30 Min., 25 %) und Masterarbeit<br>(ca. 80 S., 75 %)||
+|Summe S|WS und ECTS-Punkte:|8<br>17|120|15<br>15|15<br>15|20|10|15|15|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -177,32 +191,30 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“ – Vollzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||V|Ü|P|S||1.|<br>2.|<br>3.|4.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||
-|**Kulturpädagogische Grundlagen**<br>**und Dynamiken**|Seminar||||2|10|5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||5||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|10||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||
-|**Kulturpädagogische Institutionen**<br>**und Handlungslogiken**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2|||5|||||
-|**Felderkundung Kulturpädagogik**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungspraktikum|||||||5|||||
-|**Allgemeine Pädagogik III**|||||||||||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||10||||
-||Begleitseminar||||||||||||
-|**Kulturpädagogische Analyse und**<br>**Entwicklung**|Seminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||
-|**Feldforschung Kulturpädagogik**|Forschungsseminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Forschungsprojekt||||||||5||||
-|**Master-Modul**|Begleitseminar||||1|30||||2,5|Mündliche Prüfung über zwei<br>Themen aus dem<br>Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit (ca.80 S.,75 %)|1|
-||Masterprüfung|||||||||5|||
-||Masterarbeit|||||||||22,5|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|30|30|30|30|||
+||||SWS||Gt|Workload-Verteil<br>|ung pro S<br>|emester||Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung||||esam<br>ECTS|in ECTS-|Punkten<sup>1</sup>||Art und Umfang der Prüfung|Modul-<br>|
+|||V|Ü<br>P|S||1.<br>2.|3.|4.||note|
+|**Allgemeine Pädagogik I**|Vorlesung|2|||10|5|||Klausur (90 Min)|1|
+||Vorlesung|2||||5|||.||
+|**Kulturpädagogische Grundlagen**|Seminar|||2|10|5|||Wissenschaftliche Hausarbeit|1|
+|**und Dynamiken**|Seminar|||2||5|||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||||10|10|||vgl.§4 Abs. 3|0|
+||Vorlesung|2||||5|||||
+|**Allgemeine Pädagogik II**|Vorlesung|2|||10|5|||Klausur (90 Min.)|1|
+|**Kulturpädagogische Institutionen**|Seminar|||2|10|5|||Wissenschaftliche Hausarbeit|1|
+|**und Handlungslogiken**|Seminar|||2||5|||(ca. 15 S.)||
+|**Felderkndn Klträdaoik**|Seminar|||2|10|5|||Wissenschaftliche Hausarbeit|1|
+|**uug uupgg**|Erkundungspraktikum|||||5|||(ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar|||1|10||10||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)<sup>2</sup>|1|
+|**Kulturpädagogische Analyse und**|Seminar|||2|10||5||Wissenschaftliche Hausarbeit|1|
+|**Entwicklung**|Seminar|||2|||5||(ca. 15 S.)||
+|**Fldfh Kltädik**|Forschungsseminar|||2|10||5||Wissenschaftliche Hausarbeit|1|
+|**eorscung uurpagog**|Forschungsprojekt||||||5||(ca. 15 S.)||
+||Begleitseminar|||1||||2,5|Mündliche Prüfung über zwei||
+|**MtMdl**|Masterprüfung|||||||5|Themen aus dem<br><sup>3</sup>||
+|**aser-ou**|Masterarbeit||||30|||22,5|Masterstudium <br>(30 Min., 25 %) und<br>Masterarbeit (ca.80 S.,75 %)|1|
+|Summ|e SWS und ECTS-Punkte:|8||18|120|30<br>30|30|30|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -214,32 +226,28 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Ästhetische und kulturelle Bildung“ – Teilzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1||Art und Umfang der<br>Prüfung /Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||||
-|||V|Ü|P|S||1.|2.|<br>3.|<br>4.|<br>5.|<br>6.|7.|8.|||
-|**Alli Pädik I**|Vorlesung|2|||||5||||||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||10|5||||||||||
-|**Kulturpädagogische Grundlagen**<br>**und Dynamiken**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||5||||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|5|5|||||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||||||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||||||
-|**Kulturpädagogische Institutio-**<br>**nen und Handlungslogiken**|Seminar||||2|10||||5|||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2|||||5|||||||
-|**Felderkundung Kulturpädagogik**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Erkundungs-<br>praktikum|||||||||5|||||||
-|**Allgemeine Pädagogik III**|||||||||||||||Klausur (90 Min.) oder<br>Wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-||Theoriewerkstatt<br>||||1|10|||||10||||||
-||mit Begleitseminar||||||||||||||||
-|**Kulturpädagogische Analyse**<br>**und Entwicklung**|Seminar||||2|10|||||5||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||||5||||||
-|**Feldforschung Kulturpädagogik**|Forschungsseminar||||2|10||||||5|||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Forschungsprojekt|||||||||||5|||||
-|**Master-Modul**|Begleitseminar||||1|30|||||||2,5||Mündliche Prüfung über<br>Zwei Themen aus dem<br>Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca.80 S.,75 %)|1|
-||Masterprüfung|||||||||||||5|||
-||Masterarbeit||||||||||||12,5|10|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|15|15|15|15|20|10|15|15|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Gesamt<br>ECTS|Workload<br>in|-Verte<br>ECTS|ilung pr<br>-Punkt|o Semester<br>en<sup>1</sup>||Art und Umfang der<br>Prüfun /Studienleistun|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.<br>3.|4.|5.|6.<br>7.|8.|g g|note|
+|**Allgemeine Pädagogik I**|Vorlesung<br>Vorlesung|2<br>2|10|5<br>5|||||Klausur (90 Min.)|1|
+|**Kulturpädagogische Grundlagen**|Seminar|2|10|5|||||Wissenschaftliche|1|
+|**und Dynamiken**|Seminar|2||5|||||Hausarbeit (ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||10|5<br>5|||||vgl.§4 Abs. 3|0|
+|**Alli Pädik II**|Vorlesung|2|10|5|||||Kl 90 Mi|1|
+|**gemene agog**|Vorlesung|2||5|||||ausur ( n.)||
+|**Kulturpädagogische Institutio-**|Seminar|2|10||5||||Wissenschaftliche|1|
+|**nen und Handlungslogiken**|Seminar|2|||5||||Hausarbeit (ca. 15 S.)||
+||Seminar|2||5|||||Wissenschaftliche||
+|**Felderkundung Kulturpädagogik**|Erkundungs-<br>praktikum||10||5||||<br>Hausarbeit (ca. 15 S.)|1|
+|**Allgemeine Pädagogik III**|Theoriewerkstatt<br>mit Begleitseminar|1|10|||10|||Klausur (90 Min.) oder<br>Wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Kulturpädagogische Analyse**|Seminar|2|10|||5|||Wissenschaftliche|1|
+|**und Entwicklung**|Seminar|2||||5|||Hausarbeit (ca. 15 S.)||
+|**Feldforschun Kulturädaoik**|Forschungsseminar|2|10||||5||Wissenschaftliche|1|
+|**g pgg**|Forschungsprojekt||||||5||Hausarbeit (ca. 15 S.)||
+||Begleitseminar|1|||||2,5||Mündliche Prüfung über||
+||Masterprüfung|||||||5|Zwei Themen aus dem<br><sup>3</sup>||
+|**Master-Modul**|Masterarbeit||30||||12,5|10|Masterstudium <br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca.80 S.,75 %)|1|
+|Summe SW|S und ECTS-Punkte:|8<br>18|120|15<br>15<br>15|15|20|10<br>15|15|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -253,32 +261,29 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Vollzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||V|Ü|P|S||1.|<br>2.|<br>3.|4.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||
-|**Theoretische Grundlagen der**<br>**internationalen Bildung**|Seminar||||2|10|5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||5||||||
-|**Freie Ergänzungsstudien**|Vgl.§4 Abs. 3|||||10|10||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||
-|**Internationale Bildungsarbeit**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2|||5|||||
-|**Felderkundung Internationale**<br>**Bildung**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungspraktikum|||||||5|||||
-|**Allgemeine Pädagogik III**|||||||||||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||10||||
-||Begleitseminar||||||||||||
-|**Internationale Entwicklungs-**<br>**zusammenarbeit im Bildungs-**<br>**bereich**|Seminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||
-|**Feldforschung Internationale**<br>**Bildung**|Forschungsseminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Forschungsprojekt||||||||5||||
-|**Master-Modul**|Begleitseminar||||1|30||||2,5|Mündliche Prüfung über zwei<br>Themen aus dem Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit (ca.80 S.,75 %)|1|
-||Masterprüfung|||||||||5|||
-||Masterarbeit|||||||||22,5|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Workl|oad-Verteilu<br>in ECTS-|ng pro S<br>Punkten<sup>1</sup>|emester|Art und Umfang der Prüfung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.|2.|3.|4.||note|
+|**Allemeine Pädaoik I**|Vorlesung|2|10|5||||Kl 90 Mi|1|
+|**g gg**|Vorlesung|2||5||||ausur ( n.)||
+|**Theoretische Grundlagen der**|Seminar|2|10|5||||Wissenschaftliche Hausarbeit|1|
+|**internationalen Bildung**|Seminar|2||5||||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|Vgl.§4 Abs. 3||10|10||||vgl.§4 Abs. 3|0|
+|**Alli Pädik II**|Vorlesung|2|10||5|||Kl 90 Mi|1|
+|**gemene agog**|Vorlesung|2|||5|||ausur ( n.)||
+|**Intrntinl Bildnrbit**|Seminar|2|10||5|||Wissenschaftliche Hausarbeit|1|
+|**eaoae ugsae**|Seminar|2|||5|||(ca. 15 S.)||
+|**Felderkundung Internationale**|Seminar|2|10||5|||Wissenschaftliche Hausarbeit|1|
+|**Bildung**|Erkundungspraktikum||||5|||(ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar|1|10|||10||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)<sup>2</sup>|1|
+|**Internationale Entwicklungs-**<br>|Seminar|2||||5||Wissenschaftliche Hausarbeit||
+|**zusammenarbeit im Bildungs-**<br>**bereich**|Seminar|2|10|||5||<br>(ca. 15 S.)|1|
+|**Feldforschung Internationale**|Forschungsseminar|2||||5||Wissenschaftliche Hausarbeit||
+|**Bildung**|Forschungsprojekt||10|||5||(ca. 15 S.)|1|
+||Begleitseminar|1|||||2,5|Mündliche Prüfung über zwei||
+|**Master-Modul**|Masterprüfung||30||||5|Themen aus dem Masterstudium<sup>3</sup><br>|1|
+||Masterarbeit||||||22,5|(30 Min., 25 %) und<br>Masterarbeit (ca.80 S.,75 %)||
+|Summe|SWS und ECTS-Punkte:|8<br>18|120|30|30|30|30|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -290,32 +295,29 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Internationale Bildung“ – Teilzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1||Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|<br>3.|<br>4.|<br>5.|<br>6.|7.|8.|||
-||Vorlesung|2|||||5||||||||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-|**Allgemeine Pädagogik I**||||||10|||||||||||
-||Vorlesung|2|||||5||||||||||
-|**Theoretische Grundlagen der**<br>**internationalen Bildung**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||5||||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|5|5|||||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||||||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-||Vorlesung|2||||||5|||||||||
-|**Internationale Bildungsarbeit**|Seminar||||2|10||||5|||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2|||||5|||||||
-|**Felderkundung Internationale**<br>**Bildung**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Erkundungspraktikum|||||||||5|||||||
-|**Allgemeine Pädagogik III**|||||||||||||||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>|||||10|||||10||||||
-||Begleitseminar||||||||||||||||
-|**Internationale Entwicklungs-**<br>**zusammenarbeit im Bildungs-**<br>**bereich**|Seminar||||2|10|||||5||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||||5||||||
-|**Feldforschung Internationale**<br>**Bildung**|Forschungsseminar||||2|10||||||5|||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Forschungsprojekt|||||||||||5|||||
-|**Master-Modul**|Begleitseminar||||1|30|||||||2,5||Mündliche Prüfung über<br>zwei Themen aus dem<br>Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||||||5|||
-||Masterarbeit||||||||||||12,5|10|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|15|15|15|15|20|10|15|15|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br>|Gesamt<br>ECTS|Wor|kload-Verteilu<br>in ECTS-|ng pro<br>Punkten|Seme<br> <sup>1</sup>|ster|Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.<br>2.|3.<br>4.|5.|6.|7.<br>8.||note|
+||Vorlesung|2||5|||||Klausur (90 Min.) oder<br>||
+|**Allgemeine Pädagogik I**|Vorlesung|2|10|5|||||wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Theoretische Grundlagen der**|Seminar|2|10||5||||Wissenschaftliche|1|
+|**internationalen Bildung**|Seminar|2|||5||||Hausarbeit (ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||10|5<br>5|||||vgl.§4 Abs. 3|0|
+||Vorlesung|2||5|||||Klausur (90 Min.) oder<br>||
+|**Allgemeine Pädagogik II**|Vorlesung|2|10|5|||||wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Internationale Bildunsarbeit**|Seminar|2|10||5||||Wissenschaftliche|1|
+|**g**|Seminar|2|||5||||Hausarbeit (ca. 15 S.)||
+|**Felderkundung Internationale**|Seminar|2|10||5||||Wissenschaftliche|1|
+|**Bildung**|Erkundungspraktikum||||5||||Hausarbeit (ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar||10|||10|||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Internationale Entwicklungs-**<br>|Seminar|2||||5|||Wissenschaftliche||
+|**zusammenarbeit im Bildungs-**<br>**bereich**|Seminar|2|10|||5|||<br>Hausarbeit (ca. 15 S.)|1|
+|**Feldforschung Internationale**|Forschungsseminar|2|10||||5||Wissenschaftliche|1|
+|**Bildung**|Forschungsprojekt||||||5||Hausarbeit (ca. 15 S.)||
+||Begleitseminar|1||||||2,5|Mündliche Prüfung über<br>||
+||Masterprüfung|||||||5|zwei Themen aus dem<br><sup>3</sup>||
+|**Master-Modul**|Masterarbeit||30|||||12,5<br>10|Masterstudium<br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca. 80 S., 75 %)|1|
+|Summe|SWS und ECTS-Punkte:|8<br>18|120|15<br>15|15<br>15|20|10|15<br>15|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -329,32 +331,29 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Vollzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||V|Ü|P|S||1.|<br>2.|<br>3.|4.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||
-|**Theoretische Grundlagen der**<br>**Medienpädagogik**|Seminar||||2|10|5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||5||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|10||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||
-|**Medienpädagogische Handlungs-**<br>**felder und Methoden**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2|||5|||||
-|**Felderkundung Medienpädagogik**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungspraktikum|||||||5|||||
-|**Allgemeine Pädagogik III**|||||||||||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||10||||
-||Begleitseminar||||||||||||
-|**Kontexte medienpädagogischer**<br>**Forschung und Praxis**|Seminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||
-|**Feldforschung Medienpädagogik**|Forschungsseminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Forschungsprojekt||||||||5||||
-|**Master-Modul**|Begleitseminar||||1|30||||2,5|Mündliche Prüfung über zwei<br>Themen aus dem Masterstudium3<br>(30 Min., 25 %) und Masterarbeit<br>(ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||5|||
-||Masterarbeit|||||||||22,5|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|30|30|30|30|||
+|||SWS||Gt|Worklo|ad-Verteil<br>|ung pro S<br>|emester<br>||Faktor|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||esam<br>ECTS||in ECTS-|Punkten|<sup>1</sup>|Art und Umfang der Prüfung|Modul-|
+|||V<br>Ü<br>P|S||1.|2.|3.|4.||note|
+|**Allgemeine Pädagogik I**|Vorlesung<br>Vorlesung|2<br>2||10|5<br>5||||Klausur (90 Min.)|1|
+|**Theoretische Grundlagen der**|Seminar||2|10|5||||Wissenschaftliche Hausarbeit|1|
+|**Medienpädagogik**|Seminar||2||5||||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||10|10||||vgl.§4 Abs. 3|0|
+||Vorlesung|2||||5|||||
+|**Allgemeine Pädagogik II**|Vorlesung|2||10||5|||Klausur (90 Min.)|1|
+|**Medienpädagogische Handlungs-**|Seminar||2|10||5|||Wissenschaftliche Hausarbeit|1|
+|**felder und Methoden**|Seminar||2|||5|||(ca. 15 S.)||
+|**Fldkd Mdiädik**|Seminar||2|1||5|||Wissenschaftliche Hausarbeit|1|
+|**eerunung eenpagog**|Erkundungspraktikum|||0||5|||(ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar||1|10|||10||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)<sup>2</sup>|1|
+|**Kontexte medienpädagogischer**|Seminar||2|10|||5||Wissenschaftliche Hausarbeit|1|
+|**Forschung und Praxis**|Seminar||2||||5||(ca. 15 S.)||
+||Forschungsseminar||2||||5||Wissenschaftliche Hausarbeit||
+|**Feldforschung Medienpädagogik**|Forschungsprojekt|||10|||5||(ca. 15 S.)|1|
+||Begleitseminar||1|||||2,5|Mündliche Prüfung über zwei<br>||
+|**Master-Modul**|Masterprüfung|||30||||5|Themen aus dem Masterstudium<sup>3</sup><br>|1|
+||Masterarbeit|||||||22,5|(30 Min., 25 %) und Masterarbeit<br>(ca. 80 S., 75 %)||
+|Summe|SWS und ECTS-Punkte:|8|18|120|30|30|30|30|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -366,32 +365,29 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Medienpädagogik“ – Teilzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||||||
-|||V|Ü|P|S||1.|2.|<br>3.|<br>4.|<br>5.|<br>6.|7.|8.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||||||
-|**Theoretische Grundlagen der**<br>**Medienpädagogik**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||5||||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|5|5|||||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||||||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||||||
-|**Medienpädagogische Handlungs-**<br>**felder und Methoden**|Seminar||||2|10||||5|||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2|||||5|||||||
-|**Felderkundung Medienpädagogik**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Erkundungs-<br>praktikum|||||||||5|||||||
-|**Allgemeine Pädagogik III**|||||||||||||||Klausur (90 Min.) oder<br>Wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||||10||||||
-||Begleitseminar||||||||||||||||
-|**Kontexte medienpädagogischer**<br>**Forschung und Praxis**|Seminar||||2|10|||||5||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||||5||||||
-|**Feldforschung Medienpädagogik**|Forschungsseminar||||2|10||||||5|||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Forschungsprojekt|||||||||||5|||||
-|**Master-Modul**|Begleitseminar||||1|30|||||||2,5||Mündliche Prüfung über zwei<br>Themen aus dem Master-<br>studium3(30 Min., 25 %) und<br>Masterarbeit (ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||||||5|||
-||Masterarbeit||||||||||||12,5|10|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|15|15|15|15|20|10|15|15|||
+|Modulbezeichnung|Lehrveranstaltung|SWS<br> <br> <br>||Gesamt<br>ECTS|Wo<br> <br>|rkload-Verte<br>in ECT<br> <br>|ilung pro S<br>S-Punkten<sup>1</sup><br> <br>|emester<br>||Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>t|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|S||1.<br>2.|3.<br>4.|5.<br>6.|7.|8.||noe|
+|**Allemeine Pädaoik I**|Vorlesung|2||10|5|||||Klausur (90 Min)|1|
+|**g gg**|Vorlesung|2|||5|||||.||
+|**Theoretische Grundlagen der**|Seminar||2|10||5||||Wissenschaftliche|1|
+|**Medienpädagogik**|Seminar||2|||5||||Hausarbeit (ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||10|5<br>5|||||vgl.§4 Abs. 3|0|
+|**Alli Päik II**|Vorlesung|2|||5|||||||
+|**gemene dagog**|Vorlesung|2||10|5|||||Klausur (90 Min.)|1|
+|**Medienpädagogische Handlungs-**|Seminar||2|10||5||||Wissenschaftliche|1|
+|**felder und Methoden**|Seminar||2|||5||||Hausarbeit (ca. 15 S.)||
+||Seminar||2|||5||||Wissenschaftliche||
+|**Felderkundung Medienpädagogik**|Erkundungs-<br>praktikum|||10||5||||<br>Hausarbeit (ca. 15 S.)|1|
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar||1|10|||10|||Klausur (90 Min.) oder<br>Wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Kontexte medienpädagogischer**|Seminar||2|10|||5|||Wissenschaftliche|1|
+|**Forschung und Praxis**|Seminar||2||||5|||Hausarbeit (ca. 15 S.)||
+|**Fldfh Mdiädik**|Forschungsseminar||2|10|||5|||Wissenschaftliche|1|
+|**eorscung eenpagog**|Forschungsprojekt||||||5|||Hausarbeit (ca. 15 S.)||
+||Begleitseminar||1|||||2,5||Mündliche Prüfung über zwei||
+|**Master-Modul**|Masterprüfung|||30|||||5|Themen aus dem Master-<br><sup>3</sup>|1|
+||Masterarbeit|||||||12,5|10|studium(30 Min., 25 %) und<br>Masterarbeit (ca. 80 S., 75 %)||
+|Summe S|WS und ECTS-Punkte:|8|18|120|15<br>15|15<br>15|20<br>10|15|15|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -405,32 +401,27 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Vollzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Art und Umfang der Prüfung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-|||V|Ü|P|S||1.|<br>2.|<br>3.|4.|||
-|**Alli Pädik I**|Vorlesung|2||||1|5||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||0|5||||||
-|**Theoretische Grundlagen der**<br>**Organisationspädagogik**|Seminar||||2|10|5||||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||5||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|10||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||
-|**Organisationspädagogische**<br>**Handlungsfelder und Methoden**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2|||5|||||
-|**Felderkundung Organisations-**<br>**pädagogik**|Seminar||||2|10||5|||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Erkundungspraktikum|||||||5|||||
-|**Allgemeine Pädagogik III**|||||||||||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||10||||
-||Begleitseminar||||||||||||
-|**Kontexte organisationspädago-**<br>**gischer Forschung und Praxis**|Seminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Seminar||||2||||5||||
-|**Feldforschung Organisations-**<br>**pädagogik**|Forschungsseminar||||2|10|||5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
-||Forschungsprojekt||||||||5||||
-|**Master-Modul**|Begleitseminar||||1|30||||2,5|Mündliche Prüfung über zwei<br>Themen aus dem Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit (ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||5|||
-||Masterarbeit|||||||||22,5|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung|SWS|Gesamt<br>ECTS|Worklo|ad-Verteil<br>in ECTS-|ung pro S<br>Punkten<sup>1</sup>|emester|Art und Umfang der Prüfung|Faktor<br>Modul-|
+|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P<br>S||1.|2.|3.|4.||note|
+|**Allgemeine Pädagogik I**|Vorlesung<br>Vorlesung|2<br>2|10|5<br>5||||Klausur (90 Min.)|1|
+|**Theoretische Grundlagen der**|Seminar|2|10|5||||Wissenschaftliche Hausarbeit|1|
+|**Organisationspädagogik**|Seminar|2||5||||(ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3||10|10||||vgl.§4 Abs. 3|0|
+||Vorlesung|2|||5|||||
+|**Allgemeine Pädagogik II**|Vorlesung|2|10||5|||Klausur (90 Min.)|1|
+|**Organisationspädagogische**|Seminar|2|10||5|||Wissenschaftliche Hausarbeit|1|
+|**Handlungsfelder und Methoden**|Seminar|2|||5|||(ca. 15 S.)||
+|**Felderkundung Organisations-**|Seminar|2|10||5|||Wissenschaftliche Hausarbeit|1|
+|**pädagogik**|Erkundungspraktikum||||5|||(ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar|1|10|||10||Klausur (90 Min.) oder<br>wissenschaftliche Hausarbeit<br>(ca. 15 S.)<sup>2</sup>|1|
+|**Kontexte organisationspädago-**|Seminar|2|10|||5||Wissenschaftliche Hausarbeit|1|
+|**gischer Forschung und Praxis**|Seminar|2||||5||(ca. 15 S.)||
+|**Feldforschung Organisations-**<br>**pädagogik**|Forschungsseminar<br>Forschungsprojekt|2|10|||5<br>5||Wissenschaftliche Hausarbeit<br>(ca. 15 S.)|1|
+||Begleitseminar|1|||||2,5|Mündliche Prüfung über zwei<br>||
+|**Master-Modul**|Masterprüfung||30||||5|Themen aus dem Masterstudium<sup>3</sup><br>|1|
+||Masterarbeit||||||22,5|(30 Min., 25 %) und<br>Masterarbeit (ca. 80 S., 75 %)||
+|Summe|SWS und ECTS-Punkte:|8<br>18|120|30|30|30|30|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 
@@ -442,31 +433,29 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **Studienverlaufsplan Master Pädagogik mit Schwerpunkt „Organisationspädagogik“ – Teilzeit** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS||Gesamt<br>ECTS||Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1|Workload-Verteilung pro Semester<br>in ECTS-Punkten1||Art und Umfang der<br>Prüfung/ Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|<br>3.|<br>4.|<br>5.|<br>6.|7.|8.|||
-|**Alli Pädik I**|Vorlesung|2|||||5||||||||Klausur (90 Min.)|1|
-|**gemene agog**|Vorlesung|2||||10|5||||||||||
-|**Theoretische Grundlagen der**<br>**Organisationspädagogik**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||5||||||||
-|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||||10|5|5|||||||vgl.§4 Abs. 3|0|
-|**Allgemeine Pädagogik II**|Vorlesung|2||||10||5|||||||Klausur (90 Min.)|1|
-||Vorlesung|2||||||5|||||||||
-|**Organisationspädagogische**<br>**Handlungsfelder und Methoden**|Seminar||||2|10||||5|||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2|||||5|||||||
-|**Felderkundung Organisations-**<br>**pädagogik**|Seminar||||2|10|||5||||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Erkundungspraktikum|||||||||5|||||||
-|**Allgemeine Pädagogik III**|||||||||||||||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)2|1|
-||Theoriewerkstatt mit<br>||||1|10|||||10||||||
-||Begleitseminar||||||||||||||||
-|**Kontexte organisationspädago-**<br>**gischer Forschung und Praxis**|Seminar||||2|10|||||5||||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Seminar||||2||||||5||||||
-|**Feldforschung Organisations-**<br>**pädagogik**|Forschungsseminar||||2|10||||||5|||Wissenschaftliche<br>Hausarbeit (ca. 15 S.)|1|
-||Forschungsprojekt|||||||||||5|||||
-|**Master-Modul**|Begleitseminar||||1|30|||||||2,5||Mündliche Prüfung über<br>zwei Themen aus dem<br>Masterstudium3<br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca. 80 S., 75 %)|1|
-||Masterprüfung|||||||||||||5|||
-||Masterarbeit||||||||||||12,5|10|||
-|Summe SWS und ECTS-Punkte:||8|||18|120|15|15|15|15|20|10|15|15|||
+|Modulbezeichnung|Lehrveranstaltung||SWS|Gesamt<br>ECTS||Workload-Verte<br>in ECT|ilung p<br>S-Punk|ro Sem<br>ten<sup>1</sup>|ester||Art und Umfang der<br>Prüfun/ Studienleistun|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||V|<br>Ü<br>P<br>S||1.|2.<br>3.<br>4.|5.|6.|7.|8.|g g|note|
+|**Allgemeine Pädagogik I**|Vorlesung|2||10|5||||||Klausur (90 Min)|1|
+||Vorlesung|2|||5||||||.||
+|**Theoretische Grundlagen der**|Seminar||2|10||5|||||Wissenschaftliche|1|
+|**Organisationspädagogik**|Seminar||2|||5|||||Hausarbeit (ca. 15 S.)||
+|**Freie Ergänzungsstudien**|vgl.§4 Abs. 3|||10|5|5|||||vgl.§4 Abs. 3|0|
+|**Alli Pädik II**|Vorlesung|2||10||5|||||Kl 90 Mi|1|
+|**gemene agog**|Vorlesung|2||||5|||||ausur ( n.)||
+|**Organisationspädagogische**|Seminar||2|10||5|||||Wissenschaftliche|1|
+|**Handlungsfelder und Methoden**|Seminar||2|||5|||||Hausarbeit (ca. 15 S.)||
+|**Felderkundung Organisations-**|Seminar||2|10||5|||||Wissenschaftliche|1|
+|**pädagogik**|Erkundungspraktikum|||||5|||||Hausarbeit (ca. 15 S.)||
+|**Allgemeine Pädagogik III**|Theoriewerkstatt mit<br>Begleitseminar||1|10|||10||||Klausur (90 Min.) oder<br>wissenschaftliche<br>Hausarbeit(ca. 15 S.)<sup>2</sup>|1|
+|**Kontexte organisationspädago-**|Seminar||2|10|||5||||Wissenschaftliche|1|
+|**gischer Forschung und Praxis**|Seminar||2||||5||||Hausarbeit (ca. 15 S.)||
+|**Feldforschung Organisations-**|Forschungsseminar||2|10||||5|||Wissenschaftliche|1|
+|**pädagogik**|Forschungsprojekt|||||||5|||Hausarbeit (ca. 15 S.)||
+||Begleitseminar||1||||||2,5||Mündliche Prüfung über<br>||
+||Masterprüfung|||||||||5|zwei Themen aus dem<br>||
+|**Master-Modul**|Masterarbeit|||30|||||12,5|10|Masterstudium<sup>3</sup><br>(30 Min., 25 %) und<br>Masterarbeit<br>(ca. 80 S., 75 %)|1|
+|Summe|SWS und ECTS-Punkte:|8|<br>18|120|15|15<br>15<br>15|20|10|15|15|||
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 
 

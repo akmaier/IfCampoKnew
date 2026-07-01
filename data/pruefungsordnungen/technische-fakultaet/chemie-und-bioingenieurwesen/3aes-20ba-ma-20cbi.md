@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20BA-MA%20CBI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:29+00:00
-page_count_chars: 3342
+scraped_at: 2026-07-01T11:21:45+00:00
+page_count_chars: 3294
 ---
 
 # 7. Juli 2010
@@ -12,13 +12,13 @@ page_count_chars: 3342
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AES%20BA-MA%20CBI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBI-BScMSc)** 
+# **Dritte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBI-BScMSc)** 
 
 Vom 7. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBI-BScMSc) vom 5. Dezember 2008, zuletzt geändert durch Satzung vom 6. Mai 2010, wird wie folgt geändert: 
 
@@ -86,14 +86,12 @@ b) In Nr. 4 wird die Zahl „32“ durch die Zahl „31“ ersetzt.
 
    - a) Die Zeilen 8 und 9 erhalten folgende Fassung: 
 
-„ 
+<u>„</u> 
 
-||„|||||||||||||||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||Computeranwendungen<br>in der VT1||1|1|1|75|2,5||||||90||
-||B4|Computeranwendungen<br>in der VT2||2|1|1|,||5|||||||
-
-„ 
+||Computeranwendungen<br>in der VT1|1|1<br>1|75|2,5||90|
+|---|---|---|---|---|---|---|---|
+|B4|Computeranwendungen<br>in der VT2|2|1<br>1|,||5||
+||||||||„|
 
    - b) Die bisherigen Buchstaben und Ziffern B6 bis B32 in Spalte 1 werden zu Buchstaben und Ziffern B5 bis B31. 
 
@@ -101,7 +99,7 @@ b) In Nr. 4 wird die Zahl „32“ durch die Zahl „31“ ersetzt.
 
 2. In der Fußnote der Anlage 2 wird das Wort „Schein“ durch das Wort „Studienleistung“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am Tag nach Ihrer Bekanntmachung in Kraft. Sie gilt für alle Studierenden, die ihr Studium zum Wintersemester 2010/11 aufnehmen. 
 

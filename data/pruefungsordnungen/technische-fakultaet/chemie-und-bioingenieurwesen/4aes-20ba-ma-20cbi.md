@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juni 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES%20BA-MA%20CBI.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:59:21+00:00
-page_count_chars: 11000
+scraped_at: 2026-07-01T11:21:41+00:00
+page_count_chars: 11128
 ---
 
 # 7. Juni 2011
@@ -12,13 +12,13 @@ page_count_chars: 11000
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/4AES%20BA-MA%20CBI.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBI-BScMSc)** 
+# **Vierte Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBI-BScMSc)** 
 
-## Vom 7. Juni 2011 
+# Vom 7. Juni 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Chemie- und Bioingenieurwesen der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPOCBIBScMSc) vom 5. Dezember 2008, zuletzt geändert durch Satzung vom 7. Juli 2010, wird wie folgt geändert: 
 
@@ -112,7 +112,7 @@ l) B18”
 
 5. § 41 erhält folgende Fassung: 
 
-## „ **§ 41 Masterprüfung; Zulassungsvoraussetzungen für die Masterarbeit** 
+# „ **§ 41 Masterprüfung; Zulassungsvoraussetzungen für die Masterarbeit** 
 
    - (1) Voraussetzung für die Zulassung zur Masterarbeit (Modul **M16** der **Anlage 3** ) ist, 
 
@@ -124,9 +124,9 @@ l) B18”
 
    4. der Nachweis einer vom Praktikumsamt anerkannten, berufspraktischen Tätigkeit von insgesamt sieben Wochen entsprechend den Richtlinien für die berufspraktische Tätigkeit (Modul **M15** der **Anlage 3** ) vorgelegt wird. 
 
-   - (2)[1] Die Wahlpflichtmodule (M5 bis M9) werden aus einem Wahlpflichtmodulkatalog gewählt, welcher zu Beginn eines jeden Semesters in aktualisierter Form ortsüblich bekannt gegeben wird.[2] Am Campus Busan gilt ein gesonderter Wahlpflichtkatalog, der jeweils zu Semesterbeginn ortsüblich am Campus Busan bekannt gegeben wird. 3Weitere Wahlpflichtmodule können die verbleibenden Vertiefungs- oder Ergänzungsmodule sein.[4] Andere in einem sinnvollen  Zusammenhang mit dem Studium stehenden Wahlpflichtmodule können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden.“ 
+   - (2)<sup>1</sup> Die Wahlpflichtmodule (M5 bis M9) werden aus einem Wahlpflichtmodulkatalog gewählt, welcher zu Beginn eines jeden Semesters in aktualisierter Form ortsüblich bekannt gegeben wird.<sup>2</sup> Am Campus Busan gilt ein gesonderter Wahlpflichtkatalog, der jeweils zu Semesterbeginn ortsüblich am Campus Busan bekannt gegeben wird. 3Weitere Wahlpflichtmodule können die verbleibenden Vertiefungs- oder Ergänzungsmodule sein.<sup>4</sup> Andere in einem sinnvollen  Zusammenhang mit dem Studium stehenden Wahlpflichtmodule können auf Antrag der Studierenden vom Prüfungsausschuss genehmigt werden.“ 
 
-6. In § 42 Abs. 1 wird folgender Satz 2 angefügt: „[2] Bei Abweichungen hiervon ist die Zustimmung des Prüfungsausschusses erforderlich.“ Der bisherige Satz wird zu Satz 1. 
+6. In § 42 Abs. 1 wird folgender Satz 2 angefügt: „<sup>2</sup> Bei Abweichungen hiervon ist die Zustimmung des Prüfungsausschusses erforderlich.“ Der bisherige Satz wird zu Satz 1. 
 
 7. 
 
@@ -154,7 +154,7 @@ l) B18”
 
    - c) Nach Zeile 6 wird folgende neue Zeile 7 eingefügt: 
 
-„ Übung 2 *) 
+„ <mark>Übung 2 *)</mark> 
 
       - „ 
 
@@ -164,11 +164,9 @@ l) B18”
 
 - „ 
 
-|Physikalische Chemie||2|1||||5|||||90||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|<br>Physikalisch-chemisches<br>Praktikum||||6|10|||2,5|2,5|||||
-|||||||||||||*)||
-|||||||||||||||
+|Physikalische Chemie|2|1||5|||90|
+|---|---|---|---|---|---|---|---|
+|Physikalisch-chemisches<br>Praktikum||6|10||2,5|2,5|*)|
 
 „ 
 
@@ -176,7 +174,7 @@ l) B18”
 
 - „ 
 
-Chemische Thermodynamik 2 1 5 5 90 
+<mark>Chemische Thermodynamik 2 1 5 5 90</mark> 
 
 „ 
 
@@ -190,10 +188,10 @@ Chemische Thermodynamik 2 1 5 5 90
 
 - „ 
 
-|Wahlpflichtmodul||2|1||5||||||5|120||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Praktikum||||1||||||||*)||
-|||||||||||||||
+|Wahlpflichtmodul|2|1|5|120<br>5||
+|---|---|---|---|---|---|
+|Praktikum||1||<br>*)||
+||||||"|
 
 Die bisherigen Module B30 und B31 werden zu Modulen B31 und B32. 
 
@@ -207,35 +205,36 @@ Die bisherigen Module B30 und B31 werden zu Modulen B31 und B32.
 
 3 
 
-## a) In den Zeilen 3 bis 17 (M1 bis M9) erhalten die Spalten 11 und 12 folgende Fassung: 
+# a) In den Zeilen 3 bis 17 (M1 bis M9) erhalten die Spalten 11 und 12 folgende Fassung: 
 
-„ 120 oder 30[**)] *) 120 oder 30[**)] *) 120 oder 30[**)] *) 120 oder 30[**)] *) 120 oder 30[**)] 120 oder 30[**)] 120 oder 30[**)] 120 oder 30[**)] *) 
+<!-- Start of picture text -->
+„<br>120 oder 30  **)<br>*)<br>120 oder 30  **)<br>*)<br>120 oder 30  **)<br>*)<br>120 oder 30  **)<br>*)<br>120 oder 30  **)<br>120 oder 30  **)<br>120 oder 30  **)<br>120 oder 30  **)<br>*)<br><!-- End of picture text -->
 
 „ 
 
-- b) Nach der Fußnote „*)“ wird folgende neue Fußnote angefügt: 
+# b) Nach der Fußnote „*)“ wird folgende neue Fußnote angefügt: 
 
 „**) In der Regel mündliche Prüfungen. Bei mehr als 20 Prüfungsteilnehmern kann die Prüfung auch schriftlich mit einer Dauer von 120 Minuten erfolgen. Die Prüfungsform ist bis zum Ende der zweiten Woche der Vorlesungszeit ortsüblich bekannt zu machen und dem Prüfungsamt mitzuteilen. Diese Festlegung ist bindend.“ 
 
-## 14. Die Anlage 4 (neu) erhält folgende Fassung: 
+# 14. Die Anlage 4 (neu) erhält folgende Fassung: 
 
-## „ **Anlage 4:** Vertiefungs- und Ergänzungsmodule des Masterstudiengangs 
+# „ **Anlage 4:** Vertiefungs- und Ergänzungsmodule des Masterstudiengangs 
 
-## 4.1 Vertiefungsmodule 
+4.1 Vertiefungsmodule 
 
-a) Umfang der zu wählenden Vertiefungsmodule 
+<u>a) Umfang der zu wählenden Vertiefungsmodule</u> 
 
 1 Vertiefung eines der Module B4 und B23 bis B30 des Bachelorstudiengangs 
 
-2 Vertiefung eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs 3 Vertiefung eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs 4 Vertiefung eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs 
+<mark>2 Vertiefung eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs</mark> 3 Vertiefung eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs <mark>4 Vertiefung</mark> <u><mark>eines weiteren der Module B4 und B23 bis B30 des Bachelorstudiengangs</mark></u> 
 
-## b) Katalog der zu wählenden Vertiefungsmodule 
+# <u>b) Katalog der zu wählenden Vertiefungsmodule</u> 
 
 |Modul im Bachelorstudiengang|Vertiefung im Masterstudiengang|
 |---|---|
 |Computeranwendungen in der<br>Verfahrenstechnik 1 und 2 bzw.<br>_Informatik für Ingenieurberufe_|Numerische Verfahren für granulare und molekulare<br>Systeme|
-|Bioreaktions- und Bioverfahrenstechnik|Vertiefung zur Bioreaktions- und Bioverfahrenstechnik<br>(Tierische Zelltechnologie)|
-||Vertiefung zur Bioreaktions- und Bioverfahrenstechnik<br>(Marine Biotechnologie)|
+||Vertiefung zur Bioreaktions- und Bioverfahrenstechnik<br>(Tierische Zelltechnologie)|
+|Bioreaktions- und Bioverfahrenstechnik|Vertiefung zur Bioreaktions- und Bioverfahrenstechnik<br>(Marine Biotechnologie)|
 ||Vertiefung zur Bioreaktions- und Bioverfahrenstechnik<br>(Mikrobielle Verfahrenstechnik)|
 ||Umweltbioverfahrenstechnik(nur am Campus Busan)|
 |Mechanische Verfahrenstechnik|Mechanische Verfahrenstechnik(Vertiefung)|
@@ -246,15 +245,15 @@ a) Umfang der zu wählenden Vertiefungsmodule
 
 4 
 
-Thermische Verfahrenstechnik 
+<mark>Thermische Verfahrenstechnik Thermische Verfahrenstechnik (Vertiefung)</mark> 
 
-Thermische Verfahrenstechnik (Vertiefung) 
+4.2 Ergänzungsmodule Umweltverfahrenstechnik Konstruktionslehre für die Prozesstechnik (nur an der FAU in Erlangen) Computeranwendungen und technische Kybernetik Anlagenprojektierung (nur an der FAU in Erlangen) Fabrikationsverfahren (nur an der FAU in Erlangen) Grundlagen der Elektrotechnik (nur an der FAU in Erlangen) Managementpraxis (nur an der FAU in Erlangen) Lebensmitteltechnologie (nur am Campus Busan) Planung und Auswertung von Experimenten (nur am Campus Busan) Chemische Produktionstechnologien (nur am Campus Busan) Numerische Strömungsmechanik (nur am Campus Busan). 
 
-4.2 Ergänzungsmodule Umweltverfahrenstechnik Konstruktionslehre für die Prozesstechnik (nur an der FAU in Erlangen) Computeranwendungen und technische Kybernetik Anlagenprojektierung (nur an der FAU in Erlangen) Fabrikationsverfahren (nur an der FAU in Erlangen) Grundlagen der Elektrotechnik (nur an der FAU in Erlangen) Managementpraxis (nur an der FAU in Erlangen) Lebensmitteltechnologie (nur am Campus Busan) Planung und Auswertung von Experimenten (nur am Campus Busan) Chemische Produktionstechnologien (nur am Campus Busan) Numerische Strömungsmechanik (nur am Campus Busan). “ 
+“ 
 
-**§ 2** 
+# **§ 2** 
 
-(1)[1] Diese Satzung tritt am Tage ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die ab dem Sommersemester 2011das Studium aufnehmen. 
+(1)<sup>1</sup> Diese Satzung tritt am Tage ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die ab dem Sommersemester 2011das Studium aufnehmen. 
 
 (2) Abweichend von Abs. 1 findet der geänderte § 41 Absatz 2 ab In-Kraft-Treten dieser Änderungssatzung auf alle Studierenden Anwendung. 
 

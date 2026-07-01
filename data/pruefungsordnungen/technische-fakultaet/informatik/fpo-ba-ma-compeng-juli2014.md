@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 19.09.2007 i.d.F. 24.07.2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/FPO-BA-MA_CompEng.JULI2014.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:15:47+00:00
-page_count_chars: 26122
+scraped_at: 2026-07-01T11:35:23+00:00
+page_count_chars: 25968
 ---
 
 # PDF vom 19.09.2007 i.d.F. 24.07.2014
@@ -16,13 +16,13 @@ page_count_chars: 26122
 
 ## **Hinweis:** 
 
-Diese Fachprüfungsordnung (FPO) gilt für Studierende, die **ab** dem WS 2007/08 das Bachelor- oder Masterstudium Computational Engineering aufnehmen. Studierende, die bereits **vorher** das Masterstudium aufgenommen haben oder zum WS 2007/08 das Masterstudium aufnehmen, können sich entweder für diese FPO entscheiden oder nach der **FPO alt** (http://www.uni-erlangen.de/universitaet/organisation/recht/ studiensatzungen/TECHFAK/FPO_CompEngineering_ALT.pdf) geprüft werden. 
+Diese Fachprüfungsordnung (FPO) gilt für Studierende, die **ab** dem WS 2007/08 das Bachelor- oder Masterstudium Computational Engineering aufnehmen. Studierende, die bereits **vorher** das Masterstudium aufgenommen haben oder zum WS 2007/08 das Masterstudium aufnehmen, können sich entweder für diese FPO entscheiden oder nach der **FPO alt** <u>(http://www.uni-erlangen.de/universitaet/organisation/recht/ studiensatzungen/TECHFAK/FPO_CompEngineering_ALT.pdf) geprüft werden.</u> 
 
 Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **- FPO neu -** 
+# **- FPO neu -** 
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOCE - Vom 19. September 2007** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering (Rechnergestütztes Ingenieurwesen) an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - FPOCE - Vom 19. September 2007** 
 
 geändert durch Satzungen vom 25. Juli 2008 
 
@@ -38,7 +38,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 36 Bachelorstudiengang, Regelstudienzeit** 
 
-(1)[1] Das Studium setzt sich zusammen aus der Grundlagen- und Orientierungsphase, die aus den Modulen der ersten beiden Semester besteht, und der Bachelorphase, die aus den weiteren Modulen bis zum Ende der Regelstudienzeit gebildet wird.[2] Die Module und ihre Einordnung ergeben sich aus **Anlage 1** . 
+(1)<sup>1</sup> Das Studium setzt sich zusammen aus der Grundlagen- und Orientierungsphase, die aus den Modulen der ersten beiden Semester besteht, und der Bachelorphase, die aus den weiteren Modulen bis zum Ende der Regelstudienzeit gebildet wird.<sup>2</sup> Die Module und ihre Einordnung ergeben sich aus **Anlage 1** . 
 
 (2) Die Regelstudienzeit des Bachelorstudiengangs beträgt sechs Semester. 
 
@@ -50,11 +50,11 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 38 Zweisprachigkeit und internationale Orientierung** 
 
-1Das Studium des Computational Engineering ist zweisprachig. 2Im Bachelorstudium sind die Lehrveranstaltungen der ersten vier Semester in der Regel deutschsprachig, im fünften und sechsten Semester deutsch- oder englischsprachig, im Masterstudium (erstes bis viertes Semester) in der Regel englischsprachig.[3] Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder Deutsch durchgeführt, im Übrigen folgt die Prüfungssprache der Unterrichtssprache.[4] Die Bachelorarbeit kann in englischer Sprache verfasst werden.[5] Die Masterarbeit wird in der Regel in englischer Sprache verfasst. 6Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
+1Das Studium des Computational Engineering ist zweisprachig. 2Im Bachelorstudium sind die Lehrveranstaltungen der ersten vier Semester in der Regel deutschsprachig, im fünften und sechsten Semester deutsch- oder englischsprachig, im Masterstudium (erstes bis viertes Semester) in der Regel englischsprachig.<sup>3</sup> Mündliche Prüfungen werden nach Wahl des Kandidaten auf Englisch oder Deutsch durchgeführt, im Übrigen folgt die Prüfungssprache der Unterrichtssprache.<sup>4</sup> Die Bachelorarbeit kann in englischer Sprache verfasst werden.<sup>5</sup> Die Masterarbeit wird in der Regel in englischer Sprache verfasst. 6Zeugnisse werden in deutscher und englischer Sprache ausgestellt. 
 
 ## **§ 39 Technisches Anwendungsfach** 
 
-1Im Studium des Computational Engineering werden mehrere Technische Anwendungsfächer angeboten.[2] Für jedes Technische Anwendungsfach gibt es eine Vertreterin oder einen Vertreter.[3] Auf Vorschlag der Studienkommission CE ernennt der Prüfungsausschuss die Vertreterinnen oder Vertreter der Technischen Anwendungsfächer und entscheidet, welche Technischen Anwendungsfächer wählbar sind.[4] Die Liste der wählbaren Technischen Anwendungsfächer wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
+1Im Studium des Computational Engineering werden mehrere Technische Anwendungsfächer angeboten.<sup>2</sup> Für jedes Technische Anwendungsfach gibt es eine Vertreterin oder einen Vertreter.<sup>3</sup> Auf Vorschlag der Studienkommission CE ernennt der Prüfungsausschuss die Vertreterinnen oder Vertreter der Technischen Anwendungsfächer und entscheidet, welche Technischen Anwendungsfächer wählbar sind.<sup>4</sup> Die Liste der wählbaren Technischen Anwendungsfächer wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
 
 ## **§ 40 Studienberater** 
 
@@ -64,7 +64,7 @@ Für den Bachelor- und den Masterstudiengang Computational Engineering wird vom 
 
 ## **§ 41 Studienkonzept** 
 
-1Die Studierenden erklären im Laufe des zweiten Semesters schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs und des Wahlfachs und legen ein Studienkonzept vor.[2] Im Studienkonzept wird festgelegt, welche Module die Studierenden im Technischen Anwendungsfach, im Wahlfach, im Pflicht- und im Wahlpflichtbereich erfolgreich bestehen müssen und in welchem Semester die Module abgelegt werden sollen.[3] Für jedes Technische Anwendungsfach hält die Vertreterin oder der Vertreter des Technischen Anwendungsfachs ein Standard-Studienkonzept mit einer Arbeitslast von ca. 30 ECTS-Punkten pro Semester vor; andere Studienkonzepte müssen von der Studienberaterin oder dem Studienberater und der Vertreterin oder dem Vertreter des Technischen Anwendungsfachs schriftlich genehmigt werden.[4] Die Studierenden wählen aus dem Angebot des Technischen Anwendungsfachs, des Wahlfachs und des Wahlpflichtbereichs Module im angegebenen Umfang aus, soweit nicht bereits einzelne Module festgelegt sind (Pflichtmodule).[5] Der Wechsel eines Technischen Anwendungsfachs, Wahlfachs oder eines Wahlmoduls ist nur unter Anrechnung der bereits abgelegten Fehlversuche möglich. 
+1Die Studierenden erklären im Laufe des zweiten Semesters schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs und des Wahlfachs und legen ein Studienkonzept vor.<sup>2</sup> Im Studienkonzept wird festgelegt, welche Module die Studierenden im Technischen Anwendungsfach, im Wahlfach, im Pflicht- und im Wahlpflichtbereich erfolgreich bestehen müssen und in welchem Semester die Module abgelegt werden sollen.<sup>3</sup> Für jedes Technische Anwendungsfach hält die Vertreterin oder der Vertreter des Technischen Anwendungsfachs ein Standard-Studienkonzept mit einer Arbeitslast von ca. 30 ECTS-Punkten pro Semester vor; andere Studienkonzepte müssen von der Studienberaterin oder dem Studienberater und der Vertreterin oder dem Vertreter des Technischen Anwendungsfachs schriftlich genehmigt werden.<sup>4</sup> Die Studierenden wählen aus dem Angebot des Technischen Anwendungsfachs, des Wahlfachs und des Wahlpflichtbereichs Module im angegebenen Umfang aus, soweit nicht bereits einzelne Module festgelegt sind (Pflichtmodule).<sup>5</sup> Der Wechsel eines Technischen Anwendungsfachs, Wahlfachs oder eines Wahlmoduls ist nur unter Anrechnung der bereits abgelegten Fehlversuche möglich. 
 
 ## **§ 42 Umfang der Grundlagen- und Orientierungsprüfung** 
 
@@ -72,7 +72,9 @@ Für den Bachelor- und den Masterstudiengang Computational Engineering wird vom 
 
 2 
 
-- zweites Semester) im Umfang von mindestens 30 ECTS-Punkten bestanden sind. 2Wählbare Module aus dem ersten Studienjahr sind 
+zweites Semester) im Umfang von mindestens 30 ECTS-Punkten bestanden sind. 
+
+- 2Wählbare Module aus dem ersten Studienjahr sind 
 
 1. Algorithmen und Datenstrukturen 
 
@@ -90,15 +92,13 @@ Für den Bachelor- und den Masterstudiengang Computational Engineering wird vom 
 
 ## **§ 43 Umfang des Bachelorstudiums** 
 
-- (1) Das Bachelorstudium besteht aus 
+(1) Das Bachelorstudium besteht aus 
 
 1. den Pflicht- und Wahlmodulen im Umfang von 145 ECTS-Punkten, die dem Pflichtbereich (Informatik und Mathematik), dem Wahlpflichtbereich Technisches Anwendungsfach und den Technischen Wahlmodulen zugeordnet sind, 
 
 2. einem Wahlfach Schlüsselqualifikationen im Umfang von 15 ECTS-Punkten, bestehend aus einem Modul aus dem Bereich der Schlüsselqualifikationen (5 ECTS) und einem Praktikum (10 ECTS-Punkte), 
 
-3. dem Seminar im Bachelorstudium (5 ECTS-Punkte), sowie 
-
-4. dem Modul Bachelorarbeit im Umfang von 15 ECTS-Punkten. 
+3. dem Seminar im Bachelorstudium (5 ECTS-Punkte), sowie 4. dem Modul Bachelorarbeit im Umfang von 15 ECTS-Punkten. 
 
 - (2) Folgende ECTS-Punktzahlen müssen in den Abs. 1 Nr. 1 jeweils zugeordneten Modulen erreicht werden: 
 
@@ -110,11 +110,11 @@ Für den Bachelor- und den Masterstudiengang Computational Engineering wird vom 
 
 4. Im Technischen Wahlfach sind Technische Wahlmodule im Umfang von maximal 25 ECTS-Punkten gemäß den Modulen des Studienkonzepts abzulegen. 
 
-(3)[1] Die Module im Technischen Anwendungsfach sind Module aus Bachelorstudiengängen an der Technischen Fakultät oder dem Department Physik der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder des Departments Physik der Naturwissenschaftlichen Fakultät angeboten werden.[2] Von Satz 1 ausgenommen sind die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakulät angebotenen Module. 
+(3)<sup>1</sup> Die Module im Technischen Anwendungsfach sind Module aus Bachelorstudiengängen an der Technischen Fakultät oder dem Department Physik der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder des Departments Physik der Naturwissenschaftlichen Fakultät angeboten werden.<sup>2</sup> Von Satz 1 ausgenommen sind die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakulät angebotenen Module. 
 
 (4) Technische Wahlmodule sind Module aus Bachelorstudiengängen an der Technischen Fakultät, die von einer Dozentin oder einem Dozenten an der Technischen Fakultät oder dem Department Mathematik und Physik der Naturwissenschaftlichen Fakultät angeboten werden. 
 
-(5)[1] Das Praktikum im Umfang von 10 ECTS-Punkten besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus anderen Bachelorstudiengängen der Technischen Fakultät. 2Die Liste der wählbaren Praktikumsmodule wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
+(5)<sup>1</sup> Das Praktikum im Umfang von 10 ECTS-Punkten besteht optional aus einer berufspraktischen Tätigkeit (Industriepraktikum) von acht Wochen, die vor oder während des Studiums entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering zu erbringen ist, oder aus einem Praktikumsmodul aus einem Katalog mit wählbaren Praktika aus anderen Bachelorstudiengängen der Technischen Fakultät. 2Die Liste der wählbaren Praktikumsmodule wird spätestens eine Woche vor Vorlesungsbeginn ortsüblich bekannt gemacht. 
 
 3 
 
@@ -136,17 +136,17 @@ Für den Bachelor- und den Masterstudiengang Computational Engineering wird vom 
 
 ## **§ 45 Bachelorarbeit** 
 
-(1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Computational Engineerings zu erlernen.[2] Sie wird mit zwölf ECTS-Punkten bewertet und ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.[3] Die Ergebnisse der Bachelorarbeit sind in einem Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.[4] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.[5] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
+(1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen des Computational Engineerings zu erlernen.<sup>2</sup> Sie wird mit zwölf ECTS-Punkten bewertet und ist in ihrer Anforderung so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 360 Stunden abgeschlossen werden kann.<sup>3</sup> Die Ergebnisse der Bachelorarbeit sind in einem Referat von ca. 30 Minuten (3 ECTS-Punkte) mit anschließender Diskussion vorzustellen.<sup>4</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Bachelorarbeit festgelegt.<sup>5</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
 
 (2) Die Bachelorarbeit soll ein wissenschaftliches Thema aus dem Bereich des Computational Engineering behandeln und muss unter der Betreuung einer an der Technischen Fakultät hauptamtlich beschäftigten Lehrperson durchgeführt werden. 
 
-3)[1] Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.[2] Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
+3)<sup>1</sup> Es wird empfohlen, mit der Bachelorarbeit frühestens zu Beginn des fünften Semesters zu beginnen.<sup>2</sup> Für die Zulassungsvoraussetzungen zur Bachelorarbeit gilt § 27 Abs. 3 Satz 2 **ABMPO/TechFak** . 
 
 ## **§ 46 Bewertung der Leistungen des Bachelorstudiums** 
 
-(1)[1] Das Bachelorstudium ist bestanden, wenn alle Module des Studienkonzeptes im Umfang von 180 ECTS-Punkten bestanden sind.[2] Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden. 
+(1)<sup>1</sup> Das Bachelorstudium ist bestanden, wenn alle Module des Studienkonzeptes im Umfang von 180 ECTS-Punkten bestanden sind.<sup>2</sup> Für das im Wahlfach Schlüsselqualifikationen zu absolvierende Praktikum muss im Falle der Wahl des Industriepraktikums der Nachweis einer vom zuständigen Praktikumsamt anerkannten berufspraktischen Tätigkeit von 8 Wochen entsprechend den Praktikumsrichtlinien des Studiengangs Computational Engineering vorgelegt werden. 
 
-(2)[1] Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Schlüsselqualifikationen und Praktikum).[2] Die Modu- 
+(2)<sup>1</sup> Die Gesamtnote des Bachelorstudiums berechnet sich aus den Modulnoten ohne Wahlfach Schlüsselqualifikationen (Schlüsselqualifikationen und Praktikum).<sup>2</sup> Die Modu- 
 
 4 
 
@@ -156,13 +156,13 @@ le der Grundlagen- und Orientierungsphase (Semester 1 bis 2) werden mit 0,75 und
 
 ## **§ 47 Studienkonzept** 
 
-1Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs und legen ein Studienkonzept vor.[2] Im Studienkonzept wird festgelegt, welche Wahlmodule die Studierenden im Bereich der Mathematik, der Informatik und im Technischen Anwendungsfach erfolgreich ablegen müssen und in welchem Semester die Module abgelegt werden sollen; pro Semester sind 30 ECTS-Punkte zu erwerben.[3] Die Studierenden wählen aus dem Angebot des Technischen Anwendungsfachs, dem InformatikWahlpflichtbereich und dem Wahlpflichtbereich in der Angewandten Mathematik Module im angegebenen Umfang aus.[4] § 41 Sätze 3 und 5 gelten entsprechend. 
+1Die Studierenden erklären zu Beginn des Studiums vor Anmeldung zur ersten Prüfung schriftlich gegenüber dem Prüfungsamt ihre Wahl des Technischen Anwendungsfachs und legen ein Studienkonzept vor.<sup>2</sup> Im Studienkonzept wird festgelegt, welche Wahlmodule die Studierenden im Bereich der Mathematik, der Informatik und im Technischen Anwendungsfach erfolgreich ablegen müssen und in welchem Semester die Module abgelegt werden sollen; pro Semester sind 30 ECTS-Punkte zu erwerben.<sup>3</sup> Die Studierenden wählen aus dem Angebot des Technischen Anwendungsfachs, dem InformatikWahlpflichtbereich und dem Wahlpflichtbereich in der Angewandten Mathematik Module im angegebenen Umfang aus.<sup>4</sup> § 41 Sätze 3 und 5 gelten entsprechend. 
 
 ## **§ 48 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelorstudiengangs im Fach Computational Engineering. 2Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 29 Abs. 1 Nr. 1 ABMPO/TechFak ist der Abschluss eines Bachelorstudiengangs im Fach Computational Engineering. 2Gemäß Abs. 5 Satz 4 **Anlage 1 ABMPO/TechFak** können Bewerberinnen und Bewerber mit einem von Satz 1 abweichenden, jedoch fachverwandten Abschluss (Abschlüsse in Angewandter Mathematik, Physik, Informatik oder Ingenieurswesen) nur auf Grundlage einer bestandenen Zugangsprüfung nach Abs. 4 in das Masterstudium aufgenommen werden. 
 
-- (2)[1] Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
+- (2)<sup>1</sup> Als weitere Unterlagen i. S. d. Abs. 2 Nr. 4 **Anlage 1 ABMPO/TechFak** sind 
 
 1. der Nachweis über englische Sprachkenntnisse gemäß Satz 2, 
 
@@ -176,7 +176,7 @@ vorzulegen.
 
 (3) Die Qualifikation zum Masterstudium wird i. S. d. **Anlage 1** Abs. 5 Satz 2 Nr. 2 ABMPO/TechFak festgestellt, wenn Module des dritten bis sechsten Semesters aus den Bereichen Mathematik, Informatik, Technisches Anwendungsfach und Technische Wahlmodule mit einem Umfang von 50 ECTS-Punkten mit mindestens der Note 3,0 bestanden sind. 
 
-(4) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. **Anlage 1 ABMPO/TechFak** werden die Bewerberinnen und Bewerber auf Basis folgender Kriterien und Gewichtung beurteilt: 
+- (4) In der mündlichen Zugangsprüfung gemäß Abs. 5 Satz 3 ff. **Anlage 1 ABMPO/TechFak** werden die Bewerberinnen und Bewerber auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Qualität der Grundkenntnisse in den Bereichen Informatik und Angewandte Mathematik (50 Prozent), 
 
@@ -192,11 +192,9 @@ vorzulegen.
 
    - a) Wahlpflichtbereich Informatik, 
 
-   - b) Wahlpflichtbereich Mathematik mit den Pflichtmodulen 
+   - b) Wahlpflichtbereich Mathematik mit den Pflichtmodulen - Funktionsanalysis für Ingenieure (5 ECTS-Punkte) 
 
-      - Funktionsanalysis für Ingenieure (5 ECTS-Punkte) 
-
-      - Optimierung für Ingenieure (7,5 ECTS-Punkte) 
+   - Optimierung für Ingenieure (7,5 ECTS-Punkte) 
 
    - c) Wahlpflichtbereich des Technischen Anwendungsfachs, 
 
@@ -208,17 +206,17 @@ wobei pro Wahlpflichtbereich mindestens 20 ECTS-Punkte nachzuweisen sind,
 
 (2) Module aus dem Wahlpflichtbereich Informatik sind Module aus dem Masterstudiengang der Informatik, die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakultät angeboten werden. 
 
-(3) Module aus dem Wahlpflichtbereich der Angewandten Mathematik sind 
-
-1. Module aus dem Masterstudium der Mathematik oder Technomathematik, die von einer Dozentin bzw. einem Dozenten an einem Lehrstuhl der Angewandten Mathematik der Naturwissenschaftlichen Fakultät angeboten werden oder 
+- (3) Module aus dem Wahlpflichtbereich der Angewandten Mathematik sind 1. Module aus dem Masterstudium der Mathematik oder Technomathematik, die von einer Dozentin bzw. einem Dozenten an einem Lehrstuhl der Angewandten Mathematik der Naturwissenschaftlichen Fakultät angeboten werden oder 
 
 2. Module aus Masterstudiengängen an der Technischen Fakultät mit mathematisch orientierten Inhalten, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät angeboten werden. 
 
-(4)[1] Module aus dem Wahlpflichtbereich im Technischen Anwendungsfach sind Module aus Masterstudiengängen an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät angeboten werden.[2] Von Satz 1 ausgenommen sind Module, die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakultät oder am Department Mathematik der Naturwissenschaftlichen Fakultät angeboten werden. 
+(4)<sup>1</sup> Module aus dem Wahlpflichtbereich im Technischen Anwendungsfach sind Module aus Masterstudiengängen an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät, die von einer Dozentin bzw. einem Dozenten an der Technischen Fakultät oder der Naturwissenschaftlichen Fakultät angeboten werden.<sup>2</sup> Von Satz 1 ausgenommen sind Module, die von einer Dozentin bzw. einem Dozenten am Department Informatik der Technischen Fakultät oder am Department Mathematik der Naturwissenschaftlichen Fakultät angeboten werden. 
 
 (5) Bei der Wahl der Module innerhalb des Technischen Anwendungsfachs sowie der Technischen Wahlmodule ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Computational Engineering gegenüber dem vorangegangenen Bachelorstudium nachzuweisen. 
 
-**§ 50 Prüfungen des Masterstudiums** (1) Art und Dauer der Prüfungen des Masterstudiums sind der **Anlage 2** zu entnehmen, soweit die nachfolgenden Absätze nichts Abweichendes regeln. 
+## **§ 50 Prüfungen des Masterstudiums** 
+
+(1) Art und Dauer der Prüfungen des Masterstudiums sind der **Anlage 2** zu entnehmen, soweit die nachfolgenden Absätze nichts Abweichendes regeln. 
 
 (2) Die Art und Dauer der Prüfungen im Wahlpflichtbereich Informatik, im Wahlpflichtbereich Angewandte Mathematik und im Wahlpflichtbereich des Technischen Anwendungsfachs sind den entsprechenden Fachprüfungsordnungen zu entnehmen. 
 
@@ -236,9 +234,9 @@ Voraussetzung für die Zulassung zur Masterarbeit ist, dass Module im Umfang von
 
 ## **§ 52 Masterarbeit** 
 
-(1)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Computational Engineerings nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.[3] Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich.[ 4] Die Ergebnisse der Masterarbeit sind in einem Referat von ca. 30 Minuten mit anschließender Diskussion vorzustellen.[ 5] Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.[6] Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
+(1)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung von wissenschaftlichen Aufgabenstellungen des Computational Engineerings nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie bei einer Bearbeitungszeit von ca. 810 Stunden innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich.<sup>4</sup> Die Ergebnisse der Masterarbeit sind in einem Referat von ca. 30 Minuten mit anschließender Diskussion vorzustellen.<sup>5</sup> Der Termin für das Referat wird von der betreuenden Lehrperson entweder nach Abgabe oder während der Abschlussphase der Masterarbeit festgelegt.<sup>6</sup> Der Termin findet in der Regel innerhalb von vier Wochen nach Abgabe der Arbeit statt und wird mindestens zwei Wochen vorher bekannt gegeben. 
 
-(2)[1] Die Masterarbeit sollte bevorzugt ein wissenschaftliches Thema aus einem der Studienschwerpunkte behandeln.[2] Das Thema wird von einer oder einem im gewählten Wahlpflichtfach hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer vergeben.[3] Die Masterarbeit wird unter der Betreuung einer an der Technischen Fakultät hauptamtlich beschäftigten Lehrperson durchgeführt. 
+(2)<sup>1</sup> Die Masterarbeit sollte bevorzugt ein wissenschaftliches Thema aus einem der Studienschwerpunkte behandeln.<sup>2</sup> Das Thema wird von einer oder einem im gewählten Wahlpflichtfach hauptberuflich tätigen Hochschullehrerin oder Hochschullehrer vergeben.<sup>3</sup> Die Masterarbeit wird unter der Betreuung einer an der Technischen Fakultät hauptamtlich beschäftigten Lehrperson durchgeführt. 
 
 (3) Die Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
@@ -250,13 +248,13 @@ Das Masterstudium ist bestanden, wenn alle Module des jeweiligen Studienkonzepte
 
 ## **§ 54 Inkrafttreten und Übergangsvorschriften** 
 
-(1)[1] Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.[2] Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bacheloroder Masterstudium Computational Engineering aufnehmen. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am 1. Oktober 2007 in Kraft.<sup>2</sup> Sie findet erstmals Anwendung auf Studierende, die ab dem Wintersemester 2007/2008 das Bacheloroder Masterstudium Computational Engineering aufnehmen. 
 
-(2)[1] Alle Studierenden, die sich zum WS 2007/2008 bereits im Masterstudium des Computational Engineerings an der Universität Erlangen-Nürnberg befinden oder im Wintersemester 2007/08 das Masterstudium des Computational Engineerings an der Universität Erlangen-Nürnberg aufnehmen, haben die Wahl, ihr Studium nach dieser Fachprüfungsordnung weiterzuführen oder ihr Studium nach der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering an der Universität Erlangen-Nürnberg vom 13. April 2000 (KWMBl II S. 940), zuletzt geändert durch Satzung vom 19. Februar 2004 abzulegen.[2] Die Wahl bzw. der Wechsel der Prüfungsordnung ist spätestens zum Ende des Wintersemesters 2007/08 schriftlich im Prüfungsamt 
+(2)<sup>1</sup> Alle Studierenden, die sich zum WS 2007/2008 bereits im Masterstudium des Computational Engineerings an der Universität Erlangen-Nürnberg befinden oder im Wintersemester 2007/08 das Masterstudium des Computational Engineerings an der Universität Erlangen-Nürnberg aufnehmen, haben die Wahl, ihr Studium nach dieser Fachprüfungsordnung weiterzuführen oder ihr Studium nach der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Computational Engineering an der Universität Erlangen-Nürnberg vom 13. April 2000 (KWMBl II S. 940), zuletzt geändert durch Satzung vom 19. Februar 2004 abzulegen.<sup>2</sup> Die Wahl bzw. der Wechsel der Prüfungsordnung ist spätestens zum Ende des Wintersemesters 2007/08 schriftlich im Prüfungsamt 
 
 7 
 
-zu beantragen.[3] Die Prüfungen der Bachelorprüfung und der Masterprüfung nach Satz 
+zu beantragen.<sup>3</sup> Die Prüfungen der Bachelorprüfung und der Masterprüfung nach Satz 
 
 - 1 werden in folgenden Prüfungszeiträumen letztmals angeboten: 
 
@@ -272,51 +270,46 @@ zu beantragen.[3] Die Prüfungen der Bachelorprüfung und der Masterprüfung nac
 
 ## **Anlage 1: Studienverlaufsplan Bachelor** 
 
-|Modulbezeichnung|||||Gesamt<br>ECTS|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Workload-Verteilung pro Semester<br>in ECTS-Punkten|Art und Umfang der Prüfung<br>/Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||SWS|||||||||||
-||||||||in|ECTS-Punkten|||||
-||||||||||||||
-||V|Ü|P|S||1|2|3|4|5|6||
-|**Informatik**|||||||||||||
-|Algorithmen und Datenstrukturen (GOP)|4|2|2||10|10||||||siehe FPOINF, Anl. 1|
-|Computational Engineering 1 (GOP)|4|2|||7,5|7,5||||||PfP: PL (K 90) + SL (ÜbL)|
-|Systemprogrammierung|2|2|2||10||5|5||||siehe FPOINF, Anl. 1|
-|Simulation und Modellierung 1|2|2|||5|||||5||siehe FPOINF, Anl. 4|
-|Simulation und wissenschaftliches Rechnen 1|2|2|2||7,5|||||7,5||PfP: PL (K 90) + SL (ÜbL)|
-|Simulation und wissenschaftliches Rechnen 2|4|2|||7,5||||||7,5|PfP: PL (K 90) + SL (ÜbL)|
-|**Mathematik**|||||||||||||
-|Mathematik für CE 11)(GOP)|4|2|||7,5|7,5||||||PfP: PL (K 90) + SL (ÜbL)|
-|Mathematik für CE 21)(GOP)|5|3|||10||10|||||PfP: PL (K 120)+ SL (ÜbL)|
-|Mathematik für CE 31)|2|2|||5|||5||||PfP: PL (K 60) + SL (ÜbL)|
-|Mathematik für CE 41)|2|2|||5||||5|||PfP: PL (K 60) + SL (ÜbL)|
-|Numerik I für Ingenieure|4|2|||5|||5||||PL (K 60)|
-|Numerik II für Ingenieure|2|2|||5||||5|||PL (K 60)|
-|**Technisches Anwendungsfach**|||||||||||||
-|Experimentalphysik für Naturwissenschaftler I<br>(GOP)|4|1|||5|5||||||PL (K 90)|
-|Experimentalphysik für Naturwissenschaftler II<br>(GOP)|5|1|||5||5|||||PL (K 90)|
-|Computational Engineering 2 (GOP)|2|2|||5||5|||||PfP: PL (K 90) + SL (ÜbL)|
-|TAF – Module||||||||||||PL/SL: MHB|
-||8|8|||20||||20||||
-||||||||||||||
+|Mdlbih||S|WS|Gesamt|Wor|kload-<br>in|Verteilu<br>ECTS|ng pr<br>Pnkt|o Semester<br>n|Art und Umfang der Prüfung|
+|---|---|---|---|---|---|---|---|---|---|---|
+|ouezecnung||||||||u|e||
+|||||ECTS<br>||||||/Studienleistung|
+||V|Ü|P|S|1|2|3|4|5<br>6||
+|**Informatik**|||||||||||
+|Algorithmen und Datenstrukturen (GOP)|4|2|2|10|10|||||siehe FPOINF, Anl. 1|
+|Computational Engineering 1 (GOP)|4|2||7,5|7,5|||||PfP: PL (K 90) + SL (ÜbL)|
+|Systemprogrammierung|2|2|2|10||5|5|||siehe FPOINF, Anl. 1|
+|Simulation und Modellierung 1|2|2||5|||||5|siehe FPOINF, Anl. 4|
+|Simulation und wissenschaftliches Rechnen 1|2|2|2|7,5|||||7,5|PfP: PL (K 90) + SL (ÜbL)|
+|Simulation und wissenschaftliches Rechnen 2|4|2||7,5|||||7,5|PfP: PL (K 90) + SL (ÜbL)|
+|**Mathematik**|||||||||||
+|Mathematik für CE 1<sup>1</sup>)(GOP)|4|2||7,5|7,5|||||PfP: PL (K 90) + SL (ÜbL)|
+|Mathematik für CE 2<sup>1</sup>)(GOP)|5|3||10||10||||PfP: PL (K 120)+ SL (ÜbL)|
+|Mathematik für CE 3<sup>1</sup>)|2|2||5|||5|||PfP: PL (K 60) + SL (ÜbL)|
+|Mathematik für CE 4<sup>1</sup>)|2|2||5||||5||PfP: PL (K 60) + SL (ÜbL)|
+|Numerik I für Ingenieure|4|2||5|||5|||PL (K 60)|
+|Numerik II für Ingenieure|2|2||5||||5||PL (K 60)|
+|**Technisches Anwendungsfach**|||||||||||
+|Experimentalphysik für Naturwissenschaftler I<br>(GOP)|4|1||5|5|||||PL (K 90)|
+|Experimentalphysik für Naturwissenschaftler II<br>(GOP)|5|1||5||5||||PL (K 90)|
+|Computational Engineering 2 (GOP)|2|2||5||5||||PfP: PL (K 90) + SL (ÜbL)|
+|TAF – Module|8|8||20||||2|0|PL/SL: MHB|
 
 9 
 
-|**Technische Wahlmodule**|||||||||||||PL/SL: MHB|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||10|10||||25|||25|||||
-|||||||||||||||
-|**Wahlfach Schlüsselqualifikation**||||||||||||||
-|Schlüsselqualifikation|4|||||5||5|||||SL|
-|Praktikum||||8||10|||10||||SL: PrL|
-|**Seminar Bachelor**|||||2|5||||5|||PL: SeL|
-|**Bachelorarbeit**||||||||||||||
-|Begleitseminar + Referat Bachelor||||||3|||||3|||
-|Schriftliche Bachelorarbeit||||||12|||||12|||
-|Summe SWS|70||47|14|2|||||||||
-|SummeECTS||||||180|30|30|30|30|30|30||
+|**Technische Wahlmodule**|10<br>10||25||25|PL/SL: MHB|
+|---|---|---|---|---|---|---|
+|**Wahlfach Schlüsselqualifikation**|||||||
+|Schlüsselqualifikation|4||5|5||SL|
+|Praktikum||8|10||10|SL: PrL|
+|**Seminar Bachelor**||2|5||5|PL: SeL|
+|**Bachelorarbeit**|||||||
+|Begleitseminar + Referat Bachelor|||3||3||
+|Schriftliche Bachelorarbeit|||12||12||
+|Summe SWS|70<br>47|14<br>2|||||
+|SummeECTS|||180|30<br>30<br>30|30<br>30<br>30||
 
-## **Erläuterungen:** 
+### **Erläuterungen:** 
 
 GOP: Grundlagen- und Orientierungsprüfung PfP: Portfolioprüfung PL: Prüfungsleistung (benotet), SL: Studienleistung (unbenotet) K 60/K90/K120: Klausur mit 60, 90 bzw. 120 min Dauer ÜbL: Übungsleistung PrL: Praktikumsleistung SeL: Seminarleistung MHB: Art und Umfang der Studien- und Prüfungsleistungen sind dem Modulhandbuch zu entnehmen. 
 
@@ -326,24 +319,23 @@ GOP: Grundlagen- und Orientierungsprüfung PfP: Portfolioprüfung PL: Prüfungsl
 
 ## **Anlage 2: Studienverlaufsplan Master** 
 
-|Modulbezeichnung|Modulbezeichnung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Workload-Verteilung pro<br>Semester in ECTS-Punkten|Art und Umfang der<br>Prüfung/Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1|2|3|4||
-|**Mathematik**||||||||||||
-|Funktionalanalysis für<br>Ingenieure||2|2|||5|5||||PfP: PL (K 60) + SL (ÜbL)|
-|Optimierungfür Ingenieure||3|2|||7,5||7,5|||PfP: PL(K 60)+ SL(ÜbL)|
-|Weitere Mathematik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 7,5ECTS)1)||6|3|||≥7,5|||||PL/SL: MHB|
-|**Informatik**||||||||||||
-|Informatik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)1)||12|8|4||≥20|||||PL/SL: MHB|
-|**Technisches**<br>**Anwendungsfach**||||||||||||
-|TAF-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)1)||12|8|4||≥20|||||PL/SL: MHB|
-|||||||||||||
-|Seminar|||||2|5||||||
-|Masterarbeit||||||30||||30||
-||Summe SWS|35|23|8|2|||||||
-||Summe ECTS|||||120|30|30|30|30||
+|Modulbezeichnung||SW|S||Gesamt<br>|Wor<br>Seme|kload-V<br>ster in E|erteilun<br>CTS-P|g pro<br>unkten|Art und Umfang der<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+||V|Ü|P|S|ECTS|1|2|3|4|Prüfung/Studienleistung|
+|**Mathematik**|||||||||||
+|Funktionalanalysis für<br>Ingenieure|2|2|||5|5||||PfP: PL (K 60) + SL (ÜbL)|
+|Optimierungfür Ingenieure|3|2|||7,5||7,5|||PfP: PL(K 60)+ SL(ÜbL)|
+|Weitere Mathematik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfangmind. 7,5ECTS)<sup>1)</sup>|6|3|||≥7,5|||||PL/SL: MHB|
+|**Informatik**|||||||||||
+|Informatik-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)<sup>1)</sup>|12|8|4||≥20|||||PL/SL: MHB|
+|<br>**Technisches**<br>**Anwendungsfach**|||||||||||
+|TAF-Module:<br>werden im Studienkonzept<br>festgelegt<br>(Umfang mind. 20 ECTS)<sup>1)</sup>|12|8|4||≥20|||||PL/SL: MHB|
+|Seminar||||2|5||||||
+|Masterarbeit|||||30||||30||
+|Summe SWS|35|23|8|2|||||||
+|Summe ECTS|||||120|30|30|30|30||
 
-## **Erläuterungen:** 
+#### **Erläuterungen:** 
 
 GOP: Grundlagen- und Orientierungsprüfung 
 

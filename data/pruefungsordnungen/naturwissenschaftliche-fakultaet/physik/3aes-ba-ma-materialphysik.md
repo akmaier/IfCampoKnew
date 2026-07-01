@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Oktober 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA-MA Materialphysik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/
-scraped_at: 2026-05-01T07:57:02+00:00
-page_count_chars: 33012
+scraped_at: 2026-07-01T09:22:11+00:00
+page_count_chars: 33342
 ---
 
 # 17. Oktober 2014
@@ -12,13 +12,13 @@ page_count_chars: 33012
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/NAT1/Aenderungssatzungen/3AES_BA-MA Materialphysik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/>
 
-## **Dritte Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Materialphysik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Materialphysik -** 
+# **Dritte Satzung zur Änderung der Prüfungsordnung für den Bachelor- und Masterstudiengang Materialphysik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Materialphysik -** 
 
-Vom 17. Oktober 2014 
+# Vom 17. Oktober 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+**§ 1** 
 
 Die Prüfungsordnung für den Bachelor- und Masterstudiengang Materialphysik an der Naturwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg - BMPO/Materialphysik - vom 8. Januar 2010, zuletzt geändert durch Satzung vom 8. Oktober 2013, wird wie folgt geändert: 
 
@@ -30,9 +30,9 @@ Die Prüfungsordnung für den Bachelor- und Masterstudiengang Materialphysik an 
 
    - a) In Abs. 1 Satz 5 wird das Wort „Masterarbeit“ durch die Worte „Master´s thesis“ und das Wort „Masterkolloquium“ durch die Worte „Master´s colloquium“ ersetzt. 
 
-## b) Abs. 3 erhält folgende Fassung: 
+# b) Abs. 3 erhält folgende Fassung: 
 
-„(3)[1] Die Unterrichts- und Prüfungssprache im Masterstudiengang Materials Physics ist Englisch.[2] Prüfungen für einzelne Studierende oder Teilgruppen von Studierenden können auf deren Antrag und mit Zustimmung der bzw. des Vorsitzenden des Prüfungsausschusses in deutscher Sprache abgehalten werden.“ 
+„(3)<sup>1</sup> Die Unterrichts- und Prüfungssprache im Masterstudiengang Materials Physics ist Englisch.<sup>2</sup> Prüfungen für einzelne Studierende oder Teilgruppen von Studierenden können auf deren Antrag und mit Zustimmung der bzw. des Vorsitzenden des Prüfungsausschusses in deutscher Sprache abgehalten werden.“ 
 
 4. § 6 wird wie folgt geändert: 
 
@@ -44,7 +44,7 @@ aa) Satz 2 erhält folgende Fassung:
 
 - bb) Nach Satz 2 wird folgender Satz 3 eingefügt: 
 
-   - „[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) oder aus einer Kombination aus Prüfungsund Studienleistungen (Portfolioprüfung) bestehen.“ Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
+   - „<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Prüfungsteilen (Portfolioprüfung) oder aus einer Kombination aus Prüfungsund Studienleistungen (Portfolioprüfung) bestehen.“ Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
 - cc) In Satz 5 (neu) werden nach dem Wort „werden“ der Semikolon durch einen Punkt ersetzt sowie Halbsatz 2 gestrichen. 
 
@@ -54,7 +54,7 @@ aa) Satz 2 erhält folgende Fassung:
 
 - c) Nach Abs. 4 wird folgender neuer Abs. 5 angefügt: 
 
-„[1] Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.[2] Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch. 3Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
+„<sup>1</sup> Neben den studienbegleitenden Modulprüfungen können während der Lehrveranstaltungen freiwillige Zwischenprüfungen (z. B. Übungsleistungen oder Kurztests) als Leistungsstandmessung angeboten werden.<sup>2</sup> Näheres dazu, insbesondere Anzahl, Art und Umfang dieser Nachweise, regelt das Modulhandbuch. 3Zwischenprüfungsleistungen können die Note einer Modulprüfung oder Modulteilprüfung um maximal 0,7 Notenpunkte verbessern.“ 
 
 5. § 7 Abs. 2 erhält folgende Fassung: 
 
@@ -66,7 +66,7 @@ aa) Satz 2 erhält folgende Fassung:
 
    - a) Abs. 1 Satz 1 erhält folgende Fassung: 
 
-      - „[1] Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 2 und 3** .“ 
+      - „<sup>1</sup> Art und Umfang der Prüfungen ergeben sich aus den **Anlagen 2 und 3** .“ 
 
 b) In Abs. 3 Satz 1 wird die Zahl „28“ durch die Zahl „30“ ersetzt. 
 
@@ -86,13 +86,13 @@ b) In Abs. 3 Satz 1 wird die Zahl „28“ durch die Zahl „30“ ersetzt.
 
 2 
 
-## „ **§ 16 Anwesenheitspflicht** 
+# „ **§ 16 Anwesenheitspflicht** 
 
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen. 4Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die oder der Lehrende der oder dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der oder dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen. 4Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen und Praktika ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen und Praktika ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der oder dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der oder dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten. 3Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die oder der Studierende ihren oder seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt.“ 
 
@@ -104,23 +104,23 @@ Die bisherigen §§ 16 und 17 werden zu §§ 17 und 18. Das Inhaltsverzeichnis w
 
       - aa) In Satz 1 werden die Worte „Klausur, Haus- oder Seminararbeit“ durch die Worte „Ausprägungen siehe **Anlagen 2 und 3** “ ersetzt. bb) Sätze 2 und 3 erhalten folgende Fassung: 
 
-      - „[2] In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss auf Antrag der bzw. des Prüfenden oder der bzw. des zu Prüfenden einem Wechsel der Prüfungsform zustimmen.[ 3] Die Entscheidung des Prüfungsausschusses soll allen Beteiligten unmittelbar bekannt gegeben werden.“ 
+      - „<sup>2</sup> In Ausnahmefällen (insbesondere wegen Auslandsaufenthalten, Krankheit oder unverhältnismäßiger Ressourcenbelastung) kann der Prüfungsausschuss auf Antrag der bzw. des Prüfenden oder der bzw. des zu Prüfenden einem Wechsel der Prüfungsform zustimmen.<sup>3</sup> Die Entscheidung des Prüfungsausschusses soll allen Beteiligten unmittelbar bekannt gegeben werden.“ 
 
 3 
 
-## b) Abs. 2 wird wie folgt geändert: 
+- b) Abs. 2 wird wie folgt geändert: 
 
 aa) Satz 2 erhält folgende Fassung: 
 
-- „[2] Die Prüfungsdauer ergibt sich im Einzelnen aus den **Anlagen 2 und 3** .“ Die bisherigen Sätze 3 bis 5 werden zu Sätzen 1 bis 3. 
+„<sup>2</sup> Die Prüfungsdauer ergibt sich im Einzelnen aus den **Anlagen 2 und 3** .“ Die bisherigen Sätze 3 bis 5 werden zu Sätzen 1 bis 3. 
 
 bb)  In Satz 5 wird die Zahl „18“ durch die Zahl „20“ ersetzt. 
 
 - c) Nach Abs. 2 werden folgende Absätze 3 bis 6 angefügt: 
 
-„(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.[3] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.[4] Wenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet. 5Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen oder Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie zuverlässige Prüfungsergebnisse ermöglichen.[6] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[7] Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswirken.[8] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+„(3)<sup>1</sup> Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- oder Multiple-Choice-Prüfungen).<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt das Modulhandbuch.<sup>3</sup> Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.<sup>4</sup> Wenn die Prüfungsaufgabe Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet. 5Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen oder Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie zuverlässige Prüfungsergebnisse ermöglichen.<sup>6</sup> Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen, es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.<sup>7</sup> Die Verminderung der Zahl der Prüfungsaufgaben darf sich nicht zum Nachteil einer oder eines zu Prüfenden auswirken.<sup>8</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
 
-(4)[1] Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
+(4)<sup>1</sup> Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
 
 1. die bzw. der zu Prüfende insgesamt mindestens 50 Prozent der gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet hat oder 
 
@@ -134,11 +134,15 @@ bb)  In Satz 5 wird die Zahl „18“ durch die Zahl „20“ ersetzt.
 
 12. § 18 (neu) wird wie folgt geändert: 
 
-- a) Abs. 1 wird wie folgt geändert: aa) Satz 4 erhält folgende Fassung: 
+- a) Abs. 1 wird wie folgt geändert: 
 
-   - „[4] Die Prüfungsdauer im Einzelnen ergibt sich aus den **Anlagen 2 und 3** .“ 
+   - aa) Satz 4 erhält folgende Fassung: 
 
-   - bb) Nach Satz 4 wird folgender Satz 5 angefügt: „[5] § 17 Abs. 1 Sätze 2 und 3 gilt entsprechend.“ 
+   - „<sup>4</sup> Die Prüfungsdauer im Einzelnen ergibt sich aus den **Anlagen 2 und 3** .“ 
+
+   - bb) Nach Satz 4 wird folgender Satz 5 angefügt: 
+
+      - „<sup>5</sup> § 17 Abs. 1 Sätze 2 und 3 gilt entsprechend.“ 
 
 b) Abs. 2 wird wie folgt geändert: 
 
@@ -148,23 +152,25 @@ aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ sowie die Zahl 
 
 bb) In Satz 2 wird die Zahl „18“ durch die Zahl „20“ ersetzt. 
 
-## 13. Der bisherige § 17a wird zu § 19. 
+13. Der bisherige § 17a wird zu § 19. 
 
 Die bisherigen §§ 18 bis 36 werden zu §§ 20 bis 38. Das Inhaltsverzeichnis wird entsprechend angepasst. 
 
 14. § 20 (neu) wird wie folgt geändert: 
 
-a) In Abs. 2 Satz 3 wird die Zahl „10“ durch die Zahl „11“ ersetzt. 
+- a) In Abs. 2 Satz 3 wird die Zahl „10“ durch die Zahl „11“ ersetzt. 
 
-b) Nach Abs. 2 wird folgender Abs. 3 eingefügt: 
+- b) Nach Abs. 2 wird folgender Abs. 3 eingefügt: 
 
-„(3)[1] Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 17 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
+„(3)<sup>1</sup> Prüfungen im Antwort-Wahl-Verfahren sind wie folgt zu bewerten:<sup>2</sup> Wer die für das Bestehen der Prüfung nach § 17 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen erreicht, erhält die Note 1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
 
 2,0 ("gut"), wenn mindestens 50, aber weniger als 75 Prozent, 
 
-3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet wurden. 
+3,0 ("befriedigend"), wenn mindestens 25, aber weniger als 50 Prozent, 
 
-3Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.[5] Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
+4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet wurden. 
+
+3Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Note 0,7 ist dabei ausgeschlossen.<sup>4</sup> Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0.<sup>5</sup> Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 17 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, die Noten 4,3 und 4,7 festgesetzt werden.“ 
 
 Die bisherigen Absätze 3 bis 10 werden zu Absätzen 4 bis 11. 
 
@@ -186,7 +192,7 @@ aa) In Satz 1 werden die Worte „ **Anlage 2** “ durch die Worte „ **Anlage
 
 5 
 
-## 17. § 28 (neu) Abs. 2 Satz 2 erhält folgende Fassung: 
+17. § 28 (neu) Abs. 2 Satz 2 erhält folgende Fassung: 
 
    - „Im Ausland erworbene Kompetenzen werden gemäß § 12 anerkannt.“ 
 
@@ -214,9 +220,9 @@ aa) In Satz 1 werden die Worte „ **Anlage 2** “ durch die Worte „ **Anlage
 
 20. § 31 (neu) wird wie folgt geändert: 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+a) Abs. 1 wird wie folgt geändert: 
 
-aa) In Satz 1 wird die Zahl „145“ durch die Zahl „142,5“ ersetzt. 
+- aa) In Satz 1 wird die Zahl „145“ durch die Zahl „142,5“ ersetzt. 
 
 bb) Satz 2 wird wie folgt geändert: 
 
@@ -224,21 +230,21 @@ aaa) In Buchst. (a) wird jeweils das Wort „ _Materialphysiker_ “ durch die W
 
 bbb) Buchst. (c) erhält folgende Fassung: 
 
-      - „(c) die Module _Werkstoffe: Grundlagen (MWT-B9)_ und _Allg. und Anorganische Chemie (CHE-1)_ “ 
+   - „(c) die Module _Werkstoffe: Grundlagen (MWT-B9)_ und _Allg. und Anorganische Chemie (CHE-1)_ “ 
 
-      - ccc) In Buchst. (d) wird das Wort „ _Materialphysiker_ “ durch die Worte „ _Studierende der Materialphysik_ “ ersetzt. 
+   - ccc) In Buchst. (d) wird das Wort „ _Materialphysiker_ “ durch die Worte „ _Studierende der Materialphysik_ “ ersetzt. 
 
-   - b) Abs. 4 Satz 4 wird gestrichen. Die bisherigen Sätze 5 und 6 werden zu Sätzen 4 und 5. 
+- b) Abs. 4 Satz 4 wird gestrichen. Die bisherigen Sätze 5 und 6 werden zu Sätzen 4 und 5. 
 
-   - c) In Abs. 6 Satz 1 wird die Zahl „172.5“ durch die Zahl „170“ ersetzt. 
+- c) In Abs. 6 Satz 1 wird die Zahl „172.5“ durch die Zahl „170“ ersetzt. 
 
 21. In § 32 (neu) Satz 1 werden die Worte „Satz 2, 1 Halbsatz“ gestrichen. 
 
 22. § 33 (neu) erhält folgende Fassung: 
 
-## „ **§ 33 Qualifikation zum Masterstudium** 
+# „ **§ 33 Qualifikation zum Masterstudium** 
 
-(1)[1] Qualifikationsvoraussetzung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.[2] Diese Qualifikation wird nachgewiesen durch ein Zeugnis über 
+(1)<sup>1</sup> Qualifikationsvoraussetzung zum Masterstudium ist ein mit überdurchschnittlichem Erfolg abgeschlossenes einschlägiges Studium.<sup>2</sup> Diese Qualifikation wird nachgewiesen durch ein Zeugnis über 
 
 6 
 
@@ -248,9 +254,9 @@ bbb) Buchst. (c) erhält folgende Fassung:
 
 3. das Bestehen des Qualifikationsfeststellungsverfahrens gemäß Anlage 4. 
 
-(2)[1] Bewerberinnen bzw. Bewerber sollen zu den 50 v. H. Besten ihres Jahrgangs zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,5 (Prädikat „gut“) abgeschlossen haben. 2Abschlüsse, die nach einem anderen Notensystem bewertet wurden, sollen mindestens ein dem Prädikat „gut“ vergleichbares Prädikat aufweisen. 
+(2)<sup>1</sup> Bewerberinnen bzw. Bewerber sollen zu den 50 v. H. Besten ihres Jahrgangs zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,5 (Prädikat „gut“) abgeschlossen haben. 2Abschlüsse, die nach einem anderen Notensystem bewertet wurden, sollen mindestens ein dem Prädikat „gut“ vergleichbares Prädikat aufweisen. 
 
-(3)[1] Abschlüsse in den Bachelorstudiengängen Materialphysik oder Physik sind in der Regel als wesentlich gleich anzusehen.[2] Sind ausgleichsfähige Unterschiede gegeben, kann die Zugangskommission den Zugang unter der Auflage aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
+(3)<sup>1</sup> Abschlüsse in den Bachelorstudiengängen Materialphysik oder Physik sind in der Regel als wesentlich gleich anzusehen.<sup>2</sup> Sind ausgleichsfähige Unterschiede gegeben, kann die Zugangskommission den Zugang unter der Auflage aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des Masterstudiums nachzuweisen sind. 
 
 (4) § 26 gilt entsprechend.“ 
 
@@ -264,9 +270,7 @@ bbb) Buchst. (c) erhält folgende Fassung:
 
    - a) In Abs. 4 Satz 5 wird die Zahl „27“ durch die Zahl „29“ ersetzt. 
 
-   - b) Abs. 6 wird wie folgt geändert: aa) In Satz 1 wird das Wort „englischer“ durch das Wort „deutscher“ ersetzt. 
-
-   - bb) In Satz 6 Halbsatz 1 werden nach dem Wort „gebundenes“ die Worte „sowie ein elektronisches, maschinenlesbares“ eingefügt. 
+   - b) Abs. 6 wird wie folgt geändert: aa) In Satz 1 wird das Wort „englischer“ durch das Wort „deutscher“ ersetzt. bb) In Satz 6 Halbsatz 1 werden nach dem Wort „gebundenes“ die Worte „sowie ein elektronisches, maschinenlesbares“ eingefügt. 
 
    - c) In Abs. 7 wird die Zahl „27“ durch die Zahl „29“ ersetzt. 
 
@@ -280,7 +284,7 @@ bbb) Buchst. (c) erhält folgende Fassung:
 
    - b) Abs. 2 Satz 2 erhält folgende neue Fassung: 
 
-   - „[2] Diese Module sind: 
+   - „<sup>2</sup> Diese Module sind: 
 
    - (a) mindestens eines der Module _Theoretical physics: solid state physics_ oder _Advanced theoretical physics;_ 
 
@@ -316,30 +320,32 @@ c) In Abs. 3 Satz 1 wird die Zahl „18“ durch die Zahl „20“ ersetzt.
 
 28. Anlage 2 erhält folgende Fassung: 
 
-## **„Anlage 2:** 
+# **„Anlage 2:** 
 
-1In der Regel umfasst das Bachelorstudium der Materialphysik die in nachstehender Tabelle aufgeführten Module.[2] Davon ist eine Auswahl gemäß § 31 erfolgreich abzuschließen.[ 3] Die Module des Wahl- und Schlüsselqualifikationsbereichs können in ECTS-Punkten, Semesterwochenstunden und Zuordnungen zu den Fachsemestern von der nachfolgenden Tabelle abweichen; der Prüfungsausschuss kann zudem unbenotete Module für den Wahlbereich zulassen. 
+1In der Regel umfasst das Bachelorstudium der Materialphysik die in nachstehender Tabelle aufgeführten Module.<sup>2</sup> Davon ist eine Auswahl gemäß § 31 erfolgreich abzuschließen.<sup>3</sup> Die Module des Wahl- und Schlüsselqualifikationsbereichs können in ECTS-Punkten, Semesterwochenstunden und Zuordnungen zu den Fachsemestern von der nachfolgenden Tabelle abweichen; der Prüfungsausschuss kann zudem unbenotete Module für den Wahlbereich zulassen. 
 
-**==> picture [476 x 217] intentionally omitted <==**
+## **Bezeichnung der Module und Studienverlauf BSc Materialphysik** 
 
-**----- Start of picture text -----**<br>
-Bezeichnung der Module und Studienverlauf BSc Materialphysik<br>Modulname Bemerkung<br>1. Fachsemester<br>Experimentalphysik 1+2, Teil  Teil  2  in<br>EP-12 4V+2Ü P<br>1: Mechanik [(a)] Fachsemester 2.<br>Rechenmethoden der  Optional; Teil 2 in<br>RMP 1V+1Ü P U<br>Physik, Teil 1 [(a)] Fachsemester 2.<br>(2) (3) (4)<br>(1)<br>Kürzel ECTS<br>SWS<br>Bereich  Prüfung  Gewicht<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+Modulname Bemerkung<br>1. Fachsemester<br>Experimentalphysik 1+2, Teil  Teil  2  in<br>EP-12 4V+2Ü P<br>1: Mechanik (a) Fachsemester 2.<br>Rechenmethoden der  Optional; Teil 2 in<br>RMP 1V+1Ü P U<br>Physik, Teil 1 (a) Fachsemester 2.<br>(2) (3) (4)<br>(1)<br>Kürzel ECTS<br>SWS<br>Bereich  Prüfung  Gewicht<br><!-- End of picture text -->
 
 8 
 
-|Grundpraktikum 1, Teil 1(a)|GP-1||2P+1Ü|P|U||Teil 2 in<br>Fachsemester 2.|
+|Grundpraktikum 1, Teil 1<sup>(a)</sup>|GP-1||2P+1Ü|P|U||Teil 2 in<br>Fachsemester 2.|
 |---|---|---|---|---|---|---|---|
 |Mathematik 1 für<br>Studierende der<br>Materialphysik|MMAT-<br>B1|7,5|4V+2Ü|P|P|0|Portfolioprüfung:<br>K90 und U<br>(selbstständiges<br>Lösen von<br>Übungsaufgaben)<br>2 der Module MMAT-<br>B1, -B2, -B3<br>erforderlich|
 |Werkstoffe: Grundlagen|MWT-<br>B9|10|7V+2Ü|P|K<br>120|0|Nach Maßgabe<br>Modul B9<br>Studiengang MWT|
 |Schlüsselqualifikationen|SQ|2,5|2|S|U|||
-|||**2. Fachsemester**||||||
-|Experimentalphysik 1+2, Teil<br>2:<br>Wärmelehre<br>und<br>Elektrodynamik|EP-12|15|4V+2Ü|P|K<br>120|0|Teil 1 in<br>Fachsemester 1.|
+|Experimentalphysik 1+2, Teil||**2. F**|**achsemes**|**ter**|K|||
+|2:<br>Wärmelehre<br>und<br>Elektrodynamik|EP-12|15|4V+2Ü|P|<br>120|0|Teil 1 in<br>Fachsemester 1.|
 |Rechenmethoden der<br>Physik, Teil 2|RMP|5|1V+1Ü|P|U||Optional; Teil 1 in<br>Fachsemester 1.|
 |Grundpraktikum 1, Teil 2|GP-1|5|2P+1V|P|U||Teil 1 in<br>Fachsemester 1.|
 |Theoretische Physik 1:<br>Mechanik|TP-1|10|4V+3Ü|P|K120|0||
-|Mathematik 2 für<br>Studierende der<br>Materialphysik|MMAT-<br>B2|7,5|4V+2Ü|P|P|0|Siehe MMAT-B1|
-|||**3. Fachsemester**||||||
-|Experimentalphysik 3 für<br>Studierende der<br>Materialphysik:<br>Atom- u. Molekülphysik|EP-<br>MAT3|7,5|4V+2Ü|P|K90|1||
+|Mathematik 2 für<br>Studierende der|MMAT-<br>B2|7,5|4V+2Ü|P|P|0|Siehe MMAT-B1|
+|Materialphysik||||||||
+|||**3. F**|**achsemes**|**ter**||||
+|Experimentalphysik 3 für<br>Studierende der<br>Materialphysik:|EP-<br>MAT3|7,5|4V+2Ü|P|K90|1||
+|Atom- u. Molekülphysik||||||||
 |Grundpraktikum 2|GP-2|5|5P|P|U|||
 |Theoretische Physik 2 für<br>Studierende der<br>Materialphysik:<br>“Quantentheorie“|TP-<br>MAT2|7,5|3V+2Ü|P|K120|1||
 |Mathematik 3 für<br>Studierende der<br>Materialphysik|MMAT-<br>B3|7,5|4V+2Ü|P|P|1|Siehe MMAT-B1|
@@ -347,29 +353,30 @@ Bezeichnung der Module und Studienverlauf BSc Materialphysik<br>Modulname Bemerk
 
 9 
 
-|||**4. Fachsemester**|**4. Fachsemester**|**4. Fachsemester**||||
+|||**4. F**|**achsemest**|**er**||||
 |---|---|---|---|---|---|---|---|
-|Experimentalphysik 4 für<br>Materialphysik:<br>Festkörperphysik|EP-<br>MAT4|7,5|4V+2Ü|P|K90|1||
-|Theoretische Physik 3 für<br>Studierende der<br>Materialphysik: Statistische<br>Physik und Thermodynamik|TP-<br>MAT3|7,5|3V+2Ü|P|K120|1||
-|Physikalisches<br>Experimentieren 1:<br>Elektronikpraktikum|PE-1|10|1V+5P|P|P|1|Portfolioprüfung:<br>Präsentation einer<br>Versuchsauswertung<br>(50%) und<br>Abschlussklausur<br>(50%)|
-|Kolloquium<br>Experimentalphysik(b)|EP-<br>MAT-K|7,5|-|P|M45|1||
+|Experimentalphysik 4 für<br>||||||||
+|Materialphysik:<br>Festkörperphysik|EP-<br>MAT4|7,5|4V+2Ü|P|K90|1||
+|Theoretische Physik 3 für<br>Studierende der<br>Materialphysik: Statistische<br>Physik und Thermodynamik<br>Physikalisches<br>Experimentieren 1:<br>Elektronikpraktikum|TP-<br>MAT3<br>PE-1|7,5<br>10|3V+2Ü<br>1V+5P|P<br>P|K120<br>P|1<br>1|Portfolioprüfung:<br>Präsentation einer<br>Versuchsauswertung<br>(50%) und<br>Abschlussklausur<br>(50%)|
+|Kolloquium<br>Experimentalphysik<sup>(b)</sup>|EP-<br>MAT-K|7,5|-|P|M45|1||
 |Materialwissenschaftliches<br>Wahlfach|MW|5||W|F|1|SWS nach<br>anbietendem Fach|
-|||**5. Fachsemester**||||||
+|||**5. F**|**achsemest**|**er**||||
 |Physikalisches<br>Experimentieren 2 für<br>Studierende der<br>Materialphysik|PE-<br>MAT2|5|5P|P|P|1|Durchführung von 5<br>Versuchen. Bewertet<br>werden<br>Vorbereitung/<br>Durchführung und<br>Auswertung/Report.<br>Die Gesamtnote<br>ergibt sich aus dem<br>arithmetischen Mittel<br>der 10 Einzelnoten.|
 |Computerphysik und<br>numerische Methoden|CPNM|5|42V+3Ü|P|K90|1||
 |Physikalisches Wahlfach für<br>Studierende der<br>Materialphysik|PW-<br>MAT|5|2V+1Ü|W|F|1||
-|Materialwissenschaftliches<br>Wahlfach|MW|10||W|F|1|SWS nach<br>anbietendem Fach|
-|||**6. Fachsemester**||||||
-|Physikalisches Wahlfach für<br>Studierende der<br>Materialphysik|PW-<br>MAT|5|2V+1Ü|W|F|1||
+|Materialwissenschaftliches<br>|MW|10||W|F|1|SWS nach<br>|
+|Wahlfach|||||||anbietendem Fach|
+|||**6. F**|**achsemest**|**er**||||
+|Phsikalisches Wahlfach für||||||||
+|y<br>Studierende der<br>Materialphysik|PW-<br>MAT|5|2V+1Ü|W|F|1||
 |Physikalisches Seminar für<br>Studierende der<br>Materialphysik|PS-<br>MAT|5|2S|W|V45|1|Vortragszeit<br>einschließlich<br>Diskussion|
 |Bachelorarbeit|BA-1|10|-|P|A|2||
 |Bachelorkolloquium|BA-2|5|-|P|V30|2|In der Regel|
 
 10 
 
-öffentliche ~~[(c)]~~ Darstellung der Ergebnisse der Bachelorarbeit in einem Vortrag mit anschließender Diskussion; angegeben ist die Vortragszeit ohne Diskussion. 
-
-**==> picture [337 x 136] intentionally omitted <==**
+<!-- Start of picture text -->
+öffentliche (c)<br>Darstellung der<br>Ergebnisse der<br>Bachelorarbeit in<br>einem Vortrag mit<br>anschließender<br>Diskussion;<br>angegeben ist die<br>Vortragszeit ohne<br>Diskussion.<br><!-- End of picture text -->
 
 - (1) SWS = Semesterwochenstunden, V = Vorlesung, Ü = Übung, P = Praktikum, S = Seminar. 
 
@@ -385,45 +392,41 @@ Bezeichnung der Module und Studienverlauf BSc Materialphysik<br>Modulname Bemerk
 
 - (c)  Die Öffentlichkeit kann bei Vorliegen patentrechtlicher oder anderer Geheimhaltungsnotwendigkeiten eingeschränkt werden.“ 
 
-## 29. Anlage 3 erhält folgende Fassung: 
+# 29. Anlage 3 erhält folgende Fassung: 
 
-## **„Anlage 3:** 
+# **„Anlage 3:** 
 
-1In der Regel umfasst das Masterstudium Materials Physics die in nachstehender Tabelle aufgeführten Module.[2] Davon ist eine Auswahl gemäß § 37 erfolgreich abzuschließen.[3] **Anlage 2** Satz 3 gilt entsprechend.[4] Das Studienangebot ist so gegliedert, dass der Studienbeginn zum Sommersemester und zum Wintersemester gleichermaßen möglich ist. 
+1In der Regel umfasst das Masterstudium Materials Physics die in nachstehender Tabelle aufgeführten Module.<sup>2</sup> Davon ist eine Auswahl gemäß § 37 erfolgreich abzuschließen.<sup>3</sup> **Anlage 2** Satz 3 gilt entsprechend.<sup>4</sup> Das Studienangebot ist so gegliedert, dass der Studienbeginn zum Sommersemester und zum Wintersemester gleichermaßen möglich ist. 
 
-|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.|<br>gleichermaßen möglich ist.||
+|**Bez**|**eichnung der Mo**|**dule un**|**d Studien**<br>|**verlauf MS**<br>|**c Materia**<br>|**ls Physics**<br>||
 |---|---|---|---|---|---|---|---|
-|**Bezeichnung der Module und Studienverlauf MSc Materials Physics**||||||||
-|||||||||
-|**FS**|**Module**|**ECTS**|**SWS(1)**|**Bereich(2)**|**Prfg.(3)**|**Gewicht(4)**|**Bemerkung**|
+|**FS**|**Module**|**ECTS**|**SWS**<sup>**(1)**</sup>|**Bereich**<sup>**(2)**</sup>|**Prfg.**<sup>**(3)**</sup>|**Gewicht**<sup>**(4)**</sup>|**Bemerkung**|
 |1|TFP-MAT<br>Theoretical<br>physics:<br>solid state<br>physics|10|4V+3Ü|P|K120|1||
 ||EPM-MAT<br>Experimental<br>physics of<br>modern<br>materialsPartA|5|2V+1P|P|K60|1||
 
 11 
 
-||EPM-MAT<br>Experimental<br>physics of<br>modern<br>materials Part B|5|2V+1Ü|P|K60|1||
+||EPM-MAT<br>Experimental<br>physics of<br>modern<br>materials Part B<br>PWM-1-MAT<br>Materials<br>physics elective<br>course|5<br>5|2V+1Ü<br>2V+1Ü|P<br>W|K60<br>F|1<br>1||
 |---|---|---|---|---|---|---|---|
-||PWM-1-MAT<br>Materials<br>physics elective<br>course|5|2V+1Ü|W|F|1||
 ||WP-1-MAT<br>Advanced lab<br>courses and<br>projects 1|5|P|W|F|1||
-||NWM-1-MAT<br>Elective course<br>(chemistry or<br>materials<br>science, not<br>physics)|5|4|W|F|1|Eines der Module<br>NWM-MAT<br>erforderlich,<br>Prüfungsmodus<br>nach<br>ausgewähltem<br>Modul|
-|||||||||
-|2|TV-MAT<br>Advanced<br>theoretical<br>physics|10|4V+3Ü|P|K120|1|Eines der Module<br>TFP-1-MAT<br>oder<br>TV-MAT<br>erforderlich|
+||NWM-1-MAT<br>Elective course<br>(chemistry or<br>materials<br>science, not<br>hsics)|5|4|W|F|1|Eines der Module<br>NWM-MAT<br>erforderlich,<br>Prüfungsmodus<br>nach<br>ausgewähltem|
+||py||||||Modul|
+||TV-MAT<br>Advanced<br>theoretical<br>physics|10|4V+3Ü|P|K120|1|Eines der Module<br>TFP-1-MAT<br>oder<br>TV-MAT<br>erforderlich|
 ||EV-MAT<br>Advanced<br>course in<br>experimental<br>solid state<br>physics|10|4V+3Ü|P|K120|1||
-||PWM-2-MAT<br>(Materials)<br>Physics elective<br>course|5|2V+1Ü|W|F|1||
-||WP-2-MAT<br>Advanced lab<br>courses and<br>projects 2|5|P|W|F|1||
-||NWM-2-MAT<br>Elective course<br>(chemistry or<br>materials<br>science, not<br>physics)|5||W|F|1|Eines der Module<br>NWM-MAT<br>erforderlich,<br>Prüfungsmodus<br>nach<br>ausgewähltem<br>Modul|
-||PSM-MAT<br>Seminar in<br>materials<br>physics|5|S|W|V45|1|Vortragszeit<br>einschließlich<br>Diskussion|
-|||||||||
-|3|FO-1-MAT:<br>Specialisation<br>phase|15|5P|P|U|0||
+||<br>PWM-2-MAT<br>(Materials)<br>Physics elective<br>course|5|2V+1Ü|W|F|1||
+|2|WP-2-MAT<br>Advanced lab<br>courses and<br>projects 2|5|P|W|F|1||
+||<br>NWM-2-MAT<br>Elective course<br>(chemistry or<br>materials<br>science, not<br>physics)|5||W|F|1|Eines der Module<br>NWM-MAT<br>erforderlich,<br>Prüfungsmodus<br>nach<br>ausgewähltem<br>Modul|
+||PSM-MAT<br>Seminar in<br>materials|5|S|W|V45|1|Vortragszeit<br>einschließlich<br>|
+||<br>physics||||||Diskussion|
+||FO-1-MAT:|||||||
+|3|Specialisation<br>phase|15|5P|P|U|0||
 
 12 
 
-||FO-2-MAT:<br>Project<br>planning and<br>preparation|15|5P|P|U|0||
-|---|---|---|---|---|---|---|---|
-|||||||||
-|4|FO-3-MAT:<br>Master´s thesis|25||P|A|2|Bearbeitung<br>der<br>wissenschaftlichen<br>Aufgabenstellung<br>und<br>Anfertigung<br>der Arbeit.|
-||FO-4-MAT:<br>Master´s<br>colloquium|5||P|V45|2|Darstellung<br>der<br>Ergebnisse<br>der<br>Forschungsphase<br>in einem Vortrag<br>mit anschließender<br>Diskussion;<br>angegeben ist die<br>Vortragszeit<br>ohne<br>Diskussion.|
-|||||||||
+|FO-2-MAT:<br>Project<br>planning and<br>preparation|15|5P|P|U|0||
+|---|---|---|---|---|---|---|
+|FO-3-MAT:<br>Master´s thesis|25||P|A|2|Bearbeitung<br>der<br>wissenschaftlichen<br>Aufgabenstellung<br>und<br>Anfertigung<br>der Arbeit.|
+|4<br>FO-4-MAT:<br>Master´s<br>colloquium|5||P|V45|2|Darstellung<br>der<br>Ergebnisse<br>der<br>Forschungsphase<br>in einem Vortrag<br>mit anschließender<br>Diskussion;<br>angegeben ist die<br>Vortragszeit<br>ohne<br>Diskussion.|
 
 - (1) SWS = Semesterwochenstunden, V = Vorlesung, Ü = Übung, P = Praktikum, S = Seminar. 
 
@@ -433,7 +436,7 @@ Bezeichnung der Module und Studienverlauf BSc Materialphysik<br>Modulname Bemerk
 
 - (4) Gewichtung, mit der die Module entsprechend Anlage 1 Abs. 2 in die Masternote eingehen. Gewicht 0 bedeutet, dass das entsprechende Modul nicht zur Masternote beiträgt.“ 
 
-## 30. Anlage 4 wird wie folgt geändert: 
+# 30. Anlage 4 wird wie folgt geändert: 
 
 a) In der Überschrift wird die Zahl „31“ durch die Zahl „33“ ersetzt. 
 
@@ -451,7 +454,7 @@ cc) Die Sätze 3 bis 8 erhalten folgende neue Fassung:
 
 13 
 
-„[3] Für die Unterlagen nach Abs. 2 Satz 2 kann eine Frist zur Nachreichung festgesetzt werden.“ 
+„<sup>3</sup> Für die Unterlagen nach Abs. 2 Satz 2 kann eine Frist zur Nachreichung festgesetzt werden.“ 
 
 - c) In Abs. 4 Satz 1 werden nach dem Wort „zugelassenen“ die Worte „Bewerberinnen und“ eingefügt. 
 
@@ -465,7 +468,7 @@ cc) Satz 3 wird gestrichen.
 
 e) Abs. 6 bis 8 erhalten folgende neue Fassung: 
 
-„(6)[1] Bewerberinnen oder Bewerber, denen nicht bereits im Rahmen der Vorauswahl der Zugang zum Masterstudium gewährt werden kann und deren bisherige Leistungen im Bereich von 2,51 bis 3,00 liegen, werden zu einem Auswahlgespräch eingeladen; die übrigen Bewerberinnen und Bewerber werden nicht zum Auswahlgespräch zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid. 2Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber den Anforderungen eines stärker forschungsorientierten Masterstudiums genügt und insbesondere, ob zu erwarten ist, dass sie bzw. er in einem solchen Studium selbständig wissenschaftlich zu arbeiten versteht.[3] Das Auswahlgespräch erstreckt sich auf folgende gewichtete Kriterien: 
+„(6)<sup>1</sup> Bewerberinnen oder Bewerber, denen nicht bereits im Rahmen der Vorauswahl der Zugang zum Masterstudium gewährt werden kann und deren bisherige Leistungen im Bereich von 2,51 bis 3,00 liegen, werden zu einem Auswahlgespräch eingeladen; die übrigen Bewerberinnen und Bewerber werden nicht zum Auswahlgespräch zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid. 2Das Auswahlgespräch soll zeigen, ob die Bewerberin bzw. der Bewerber den Anforderungen eines stärker forschungsorientierten Masterstudiums genügt und insbesondere, ob zu erwarten ist, dass sie bzw. er in einem solchen Studium selbständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> Das Auswahlgespräch erstreckt sich auf folgende gewichtete Kriterien: 
 
 - Sichere Kenntnisse der Konzepte Energie, Impuls, Drehimpuls und der Erhaltungssätze physikalischer Größen sowie sichere Anwendung mathematischer Methoden zur Beschreibung physikalischer Zusammenhänge (etwa 20 %), 
 
@@ -475,7 +478,7 @@ e) Abs. 6 bis 8 erhalten folgende neue Fassung:
 
 - Fähigkeit, ein vorher vereinbartes materialphysikalisches Thema aus dem Erfahrungsbereich der Bewerberin bzw. des Bewerbers wissenschaftlich zu diskutieren (etwa 40 %). 
 
-4Das Auswahlgespräch hat eine Dauer von ca. 30 Minuten. 5Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.[6] Der Termin des Auswahlgesprächs wird der Bewerberin bzw. dem Bewerber spätestens eine Woche vorher bekannt gegeben.[7] Das Auswahlgespräch wird von mindestens zwei der im Department für Physik tätigen Professorinnen bzw. Professoren durchgeführt (Auswahlkommission), die von der Zugangskommission bestellt werden.[8] Die Bewertung des Auswahlgesprächs lautet „geeignet“ oder „nicht geeignet“. 9Ist die Bewerberin bzw. der Bewerber geeignet, entscheidet die Zugangskommission auf Vorschlag der Auswahlkommission, ob der Zugang mit Auflagen gemäß § 33 Abs. 3 Satz 3 verbunden wird.[10] Über das Auswahlgespräch ist eine Niederschrift zu fertigen. 
+4Das Auswahlgespräch hat eine Dauer von ca. 30 Minuten. 5Das Auswahlgespräch kann mit Einverständnis der Bewerberin bzw. des Bewerbers auch bildtelefonisch stattfinden.<sup>6</sup> Der Termin des Auswahlgesprächs wird der Bewerberin bzw. dem Bewerber spätestens eine Woche vorher bekannt gegeben.<sup>7</sup> Das Auswahlgespräch wird von mindestens zwei der im Department für Physik tätigen Professorinnen bzw. Professoren durchgeführt (Auswahlkommission), die von der Zugangskommission bestellt werden.<sup>8</sup> Die Bewertung des Auswahlgesprächs lautet „geeignet“ oder „nicht geeignet“. 9Ist die Bewerberin bzw. der Bewerber geeignet, entscheidet die Zugangskommission auf Vorschlag der Auswahlkommission, ob der Zugang mit Auflagen gemäß § 33 Abs. 3 Satz 3 verbunden wird.<sup>10</sup> Über das Auswahlgespräch ist eine Niederschrift zu fertigen. 
 
 (7) Wer nach dem Ergebnis des Qualifikationsfeststellungsverfahrens nicht ins Masterstudium aufgenommen ist, erhält einen mit Gründen und Rechtsbehelfsbelehrung versehenen Ablehnungsbescheid; eine erneute Teilnahme am Qualifikationsfeststellungsverfahren ist möglich. 
 
@@ -483,9 +486,9 @@ e) Abs. 6 bis 8 erhalten folgende neue Fassung:
 
 (8) Die eigenen Kosten, die den Bewerberinnen bzw. Bewerbern aufgrund der Teilnahme am Auswahlgespräch entstehen, tragen diese selbst.“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am Tag ihrer Bekanntmachung in Kraft. 2Die Änderungen unter § 1 Nrn. 1, 2, 3, 22, 24 b) aa) und 30 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Sommersemester 2015 aufnehmen.[3] Die Änderungen unter § 1 Nrn. 18 a), 20, 24 b) bb), 27, 28 und 29 gelten abweichend von Satz 1 für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
+1Diese Änderungssatzung tritt am Tag ihrer Bekanntmachung in Kraft. 2Die Änderungen unter § 1 Nrn. 1, 2, 3, 22, 24 b) aa) und 30 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Sommersemester 2015 aufnehmen.<sup>3</sup> Die Änderungen unter § 1 Nrn. 18 a), 20, 24 b) bb), 27, 28 und 29 gelten abweichend von Satz 1 für alle Studierenden, die die geänderten Module noch nicht begonnen haben. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 26. September 2014 und der Genehmigungsfeststellung des Präsidenten vom 17. Oktober 2014. 
 

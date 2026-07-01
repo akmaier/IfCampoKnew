@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "2. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa%20BA-MA%20Nanotech.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/
-scraped_at: 2026-05-01T10:37:30+00:00
-page_count_chars: 1633
+scraped_at: 2026-07-01T11:53:08+00:00
+page_count_chars: 1629
 ---
 
 # 2. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 1633
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa%20BA-MA%20Nanotech.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/werkstoffwissenschaften/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT-BScMSc)** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONT-BScMSc)** 
 
-## Vom 2. März 2010 
+# Vom 2. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologie der Technischen Fakultät an der Universität Erlangen-Nürnberg (FPONTBScMSc) vom 15. Dezember 2008 wird wie folgt geändert: 
 
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den Bachelor- und Masterstudiengang Nanotechnologi
 
 2. In der Anlage wird in der Tabelle Zeilen 6 bis 8, Spalte 2 die Abkürzung „GOP“ ersatzlos gestrichen. 
 
-## **§ 2** 
+# **§ 2** 
 
 Die Satzung tritt am 1. April 2010 in Kraft. Die Änderung gilt für alle Studierenden, die zum 1. Oktober 2009 das Modul B4: Experimentalphysik noch nicht endgültig nicht bestanden haben. 
 

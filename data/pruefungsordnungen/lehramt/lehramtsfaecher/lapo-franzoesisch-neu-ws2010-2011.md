@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 09.03.2009 i.d.F. 24.09.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Franzoesisch-NEU-WS2010-2011.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:07:55+00:00
-page_count_chars: 13793
+scraped_at: 2026-07-01T08:38:20+00:00
+page_count_chars: 12539
 ---
 
 # pdf vom 09.03.2009 i.d.F. 24.09.2010
@@ -18,7 +18,7 @@ page_count_chars: 13793
 
 Diese Prüfungsordnung gilt für alle Studierenden, die ihr Studium **ab** dem Wintersemester 2010/2011 aufnehmen werden. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Französisch im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 9. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Französisch im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 9. März 2009** 
 
 geändert durch Satzung vom 24. September 2010 
 
@@ -44,7 +44,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** (1) Bis zum Ende des zweiten Semesters müssen die Studierenden französische Sprachkenntnisse auf dem Niveau von drei aufsteigenden Schuljahren nachweisen. 
 
-(2)[1] Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.[2] Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
+(2)<sup>1</sup> Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.<sup>2</sup> Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
 
 (3) Die Nachweise nach Abs. 1 und 2 sind beim Prüfungsamt vorzulegen. 
 
@@ -56,9 +56,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 (2) Alle Basis- und Aufbaumodule sollten nach Möglichkeit in den unter (3) angegebenen Studiensemestern absolviert werden. 
 
-(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle: 
+<u>(3) Zum Studienaufbau und zu den Prüfungen vgl. die folgende Tabelle:</u> 
 
-|**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
+|**FS**|**Modul**|**SWS**|**ECTS**|<sup>**Modulabschluss-**</sup><br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
 |1|**Basismodul**<br>**Französische Sprachpraxis 1**||**10**|**Klausur**||
 ||Grammaire cours élémentaire I<br>(groupenominal)|2|4|SL||
@@ -72,17 +72,15 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |1/2|**Basismodul Einführung in die Frankoromanistik**||**10**|**Doppelklausur**||
 ||Einführung in die französische Sprachwissenschaft|2|4|K 90’|0,5|
 ||Einführung in die französische Literaturwissenschaft|3|6|K 90’|0,5|
-|3/4|**Aufbaumodul**<br>**Französische Sprachwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder münd-**<br>**liche Prüfung**||
+|3/4|**Aufbaumodul**<br>**Französische Sprachwissenschaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur oder**<br>**liche Prüfung**|**aus dem**<br>**münd-**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|2|SL||
 ||Übung|2|4|K 90’ / MP 15’|0,4|
 
 2 
 
-|3/4|**Aufbaumodul**|||**Prüfungsleistung aus dem**|**Prüfungsleistung aus dem**|
+|3/4|**Aufbaumodul**<br>**Französische Literatur- und**<br>**Kulturwissenschaft 1**||**10**|**Prüfungsleistun**<br>**PS + Klausur od**<br>**liche Prüfung**|**g aus dem**<br>**er münd-**|
 |---|---|---|---|---|---|
-||**Französische Literatur- und**||**10**|**PS + Klausur oder**|**münd-**|
-||**Kulturwissenschaft 1**|||**liche Prüfung**||
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 ||Übung|2|2|SL||
@@ -91,27 +89,24 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 ||Compréhension orale|2|2|SL||
 ||Grammaire III|2|2|SL||
 ||Traduction thème (A – F)|2|3|K 90’|1|
-|5/6|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**||**10**|**Mündliche Prüfung**||
+|5/6|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**||**10**|**Mündliche Prüf**|**ung**|
 ||Civilisation|2|5|MP 15’|1|
 ||Expression écrite II|2|3|SL||
 ||Traduction version (F – A)|2|2|SL||
 
-|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|5/6<br>**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**<br>**10**<br>**Mündliche Prüfung**<br>Civilisation<br>2<br>5<br>MP 15’<br>1<br>Expression écrite II<br>2<br>3<br>SL<br>Traduction version (F – A)<br>2<br>2<br>SL|
-|---|---|---|---|---|---|
-|FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung||||||
-|**Pflichtbereich für Französisch als erstes Fach (LAG)**||||||
-|**FS**|**Modul**|**SWS**|**ECTS**|||
-|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**|||
-||Schriftliche Hausarbeit||10|||
-|**Studium nach dem 6. Semester LAG**||||||
-|**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**|**Faktor**|
-|||||**prüfung**||
-|7/8|**Französische Sprachpraxis 5**||**10**|Klausur||
-||Expression écrite III|2|5|K 90’|1|
-||Traduction thème niveau avancé (A – F)|2|3|SL||
-||Traduction version niveau avancé (F – A)|2|2|SL||
+|Traduction version (F – A)<br>FS= Fachsemester; K = Klausur; MP = mündliche Pr<br>**Pflichtbereich für Französisch als erstes**<br> <br>|2<br>üfung; HA =<br>**Fach (LA**<br>|<br>2<br>Hausarbe<br>**G)**<br>|SL<br>it; SL = Studienleistun|g|
+|---|---|---|---|---|
+|**FS**<br>**Modul**|**SWS**|**ECTS**|||
+|6<br>**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**|||
+|Schriftliche Hausarbeit||10|||
+|**Studium nach dem 6. Semester LAG**<br> <br>|||||
+|**FS**<br>**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
+|7/8<br>**Französische Sprachpraxis 5**||**10**|Klausur||
+|Expression écrite III|2|5|K 90’|1|
+|Traduction thème niveau avancé (A – F)|2|3|SL||
+|Traduction version niveau avancé (F – A)|2|2|SL||
 
-## **Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert: Modul A:** 
+## **Wahlweise wird in der Fachwissenschaft eines dieser beiden Module studiert:** **<u>Modul A:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -122,7 +117,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 3 
 
-## **Modul B:** 
+## **<u>Modul B:</u>** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -133,17 +128,17 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung 
 
-## Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an Gymnasien folgende Module abzulegen: 
+## Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an <u>Gymnasien folgende Module abzulegen:</u> 
 
-|**FS**|**Modulbezeichnung**|**SWS**|**ECTS**|**Prüfungsleistung**|**Prüfungsleistung**|
-|---|---|---|---|---|---|
-|1-3|**Fachdidaktisches Modul 1:**<br>**Einführung in die Didaktik des Französi-**<br>**schen**||**5**|||
-||Übung: Einführung in die Fachdidaktik des<br>Französischen|2|3|K 90’|1|
-||Proseminar / Übung|2|2|SL||
-|4-7|**Fachdidaktisches Modul 2:**<br>**Didaktik des Französischen (Lehramt**<br>**Gymnasien)**||**5**|||
-||Mittelseminar: Französische Sprach-, Litera-<br>tur-und Kulturvermittlung|2|5|HA||
+|**FS**|**Modulbezeichnung**|**SWS**|**ECTS**|**Prüfungsleistung**|
+|---|---|---|---|---|
+|1-3|**Fachdidaktisches Modul 1:**<br>**Einführung in die Didaktik des Französi-**<br>**schen**||**5**||
+||Übung: Einführung in die Fachdidaktik des<br>Französischen|2|3|K 90’<br>1|
+||Proseminar / Übung|2|2|SL|
+|4-7|**Fachdidaktisches Modul 2:**<br>**Didaktik des Französischen (Lehramt**<br>**Gymnasien)**||**5**||
+||Mittelseminar: Französische Sprach-, Litera-<br>tur-und Kulturvermittlung|2|5|HA|
 
-Im **freien Bereich** können folgende Module gewählt werden: 
+<u>Im</u> **<u>freien Bereich</u>** <u>können folgende Module gewählt werden:</u> 
 
 |**FS**|**Modulbezeichnung**|**Veranstaltungsart**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
@@ -154,9 +149,7 @@ Im **freien Bereich** können folgende Module gewählt werden:
 
 ## **3. Lehramt an Realschulen** 
 
-**§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
-
-(1) Im Studium des Faches Französisch für das Lehramt an Realschulen sind folgende Module erfolgreich abzulegen: Französische Sprachpraxis 1-4; Einführung in die Frankoromanistik; Aufbaumodul Französische Sprach-, Literatur- und Kulturwissenschaft. 
+**§ 6 Inhalt, Aufbau und Gliederung des Studiums** (1) Im Studium des Faches Französisch für das Lehramt an Realschulen sind folgende Module erfolgreich abzulegen: Französische Sprachpraxis 1-4; Einführung in die Frankoromanistik; Aufbaumodul Französische Sprach-, Literatur- und Kulturwissenschaft. 
 
 4 
 
@@ -171,16 +164,14 @@ Im **freien Bereich** können folgende Module gewählt werden:
 ||Vocabulaire, idiomatique et civilisation I|2|4|K 90’|1|
 ||Communication orale|2|2|SL||
 |2|**Basismodul**<br>**Französische Sprachpraxis 2**||**10**|**Klausur**||
-||Vocabulaire, idiomatique et civilisation II|||SL||
-|||2|3|||
-|||||||
+||Vocabulaire, idiomatique et civilisation II|2|3|SL||
 ||Grammaire cours élémentaire II<br>(groupe verbal)|2|4|K 90’|1|
 ||Phonétique descriptive|1|2|SL||
 ||Phonétique pratique, orthophonie et intonation|1|1|SL||
 |1/2|**Basismodul Einführung in die Frankoroma-**<br>**nistik**||**10**|**Doppelklausur**||
 ||Einführung in die französische Sprachwissen-<br>schaft|2|4|K 90’|0,5|
 ||Einführung in die französische Literaturwissen-<br>schaft|3|6|K 90’|0,5|
-|3/4|**Aufbaumodul Französische Sprach-, Litera-**<br>**tur- und Kulturwissenschaft**||**10**|**Prüfungsleistungen aus**<br>**den PS**||
+|3/4|**Aufbaumodul Französische Sprach-, Litera-**<br>**tur- und Kulturwissenschaft**||**10**|**Prüfungsleistung**<br>**den PS**|**en aus**|
 ||Proseminar französische Literaturwissenschaft|2|4|HA|0,5|
 ||Proseminar französische Sprachwissenschaft|2|4|HA|0,5|
 ||Vorlesung französische Sprach- oder Litera-<br>turwissenschaft|2|2|SL||
@@ -192,35 +183,29 @@ Im **freien Bereich** können folgende Module gewählt werden:
 
 5 
 
-|5 / 6|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**|||**mündliche Prüfung**|**mündliche Prüfung**|
-|---|---|---|---|---|---|
-||||**10**|||
-|||||||
-||Civilisation|2|5|MP 15’|1|
-||Expression écrite II|2|3|SL||
-||Traduction version (F – A)|2|2|SL||
+|5 / 6|**Vertiefungsmodul Französische**<br>**Sprachpraxis 4**||**10**|**mündliche Prüfung**|
+|---|---|---|---|---|
+||Civilisation|2|5|MP 15’<br>1|
+||Expression écrite II|2|3|SL|
+||Traduction version (F – A)|2|2|SL|
 
 FS = Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung; 
 
-## **Pflichtbereich für Französisch als erstes Fach (LAR)** 
+## **<u>Pflichtbereich für Französisch als erstes Fach (LAR)</u>** 
 
-|FS|**Modul**|**SWS**|**ECTS**||
-|---|---|---|---|---|
-|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**||**10**||
-||Schriftliche Hausarbeit||10||
+|FS|**Modul**|**SWS**<br>**ECTS**||
+|---|---|---|---|
+|6|**Abschlussmodul**<br>**Schriftliche Hausarbeit**|**10**||
+||Schriftliche Hausarbeit|10||
+|Im B<br>Real<br>**FS**|ereich**Fachdidaktik**sind im Fach Fra<br>schulen folgende Module abzulegen:<br>**Modulbezeichnung**|nzösisch im Stu<br>**SWS**<br>**ECTS**|dium des Lehramts an<br>**Prüfungsleistung**|
+|1-3|**Fachdidaktisches Modul 1:**<br>**Einführung in die Didaktik des Französi-**<br>**schen**|**5**||
+||Übung: Einführung in die Fachdidaktik des<br>Französischen|2<br>2|K 90’|
+||Proseminar / Übung|2<br>3|SL|
+|4-6|**Fachdidaktisches Modul 2:**<br>**Didaktik des Französischen (Lehramt Re-**<br>**alschulen)**|**7**||
+||Mittelseminar: Französische Sprach-, Litera-<br>tur-und Kulturvermittlung|2<br>5|HA|
+||Angeleitete Lektüre|2|SL|
 
-Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an Realschulen folgende Module abzulegen: 
-
-|**FS**|**Modulbezeichnung**|**SWS**|**ECTS**|**Prüfungsleistung**|
-|---|---|---|---|---|
-|1-3|**Fachdidaktisches Modul 1:**<br>**Einführung in die Didaktik des Französi-**<br>**schen**||**5**||
-||Übung: Einführung in die Fachdidaktik des<br>Französischen|2|2|K 90’|
-||Proseminar / Übung|2|3|SL|
-|4-6|**Fachdidaktisches Modul 2:**<br>**Didaktik des Französischen (Lehramt Re-**<br>**alschulen)**||**7**||
-||Mittelseminar: Französische Sprach-, Litera-<br>tur-und Kulturvermittlung|2|5|HA|
-||Angeleitete Lektüre||2|SL|
-
-## Im **freien Bereich** können folgende Module gewählt werden: 
+<u>Im</u> **<u>freien Bereich</u>** <u>können folgende Module gewählt werden:</u> 
 
 |**FS**|**Modulbezeichnung**|**Veranstaltungsart**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
@@ -233,9 +218,7 @@ Im Bereich **Fachdidaktik** sind im Fach Französisch im Studium des Lehramts an
 
 ## **4. Schluss- und Übergangsvorschriften** 
 
-## **§ 7 In-Kraft-Treten** 
-
-Die Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
+**§ 7 In-Kraft-Treten** Die Prüfungsordnung tritt am 1. Oktober 2007 in Kraft. 
 
 7 
 

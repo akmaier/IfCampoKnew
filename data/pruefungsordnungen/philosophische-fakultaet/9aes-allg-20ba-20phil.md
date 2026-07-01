@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/9AES-Allg%20BA%20Phil.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/
-scraped_at: 2026-05-01T08:05:13+00:00
-page_count_chars: 1748
+scraped_at: 2026-07-01T09:28:04+00:00
+page_count_chars: 1764
 ---
 
 # 8. März 2011
@@ -14,17 +14,17 @@ page_count_chars: 1748
 
 **Neunte Satzung zur Änderung der Allgemeinen Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil -** 
 
-## Vom 8. März 2011 
+# Vom 8. März 2011 
 
 Aufgrund von Art. 13 Abs. 1, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Studien- und Prüfungsordnung für die Bachelor- und Masterstudiengänge der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - ABMStPO/Phil - vom 27. September 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
 1. In § 3 Abs. 3 werden folgende Sätze angefügt: 
 
-„[2] Abweichend von Satz 1 kann das Studium einmalig auch zum Sommersemester 2011 aufgenommen werden.[3] Näheres hierzu regeln die jeweiligen Fachstudien- und Prüfungsordnungen.“ 
+„<sup>2</sup> Abweichend von Satz 1 kann das Studium einmalig auch zum Sommersemester 2011 aufgenommen werden.<sup>3</sup> Näheres hierzu regeln die jeweiligen Fachstudien- und Prüfungsordnungen.“ 
 
 Die Satznummerierung wird angepasst. 
 

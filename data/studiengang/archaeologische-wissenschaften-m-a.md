@@ -8,7 +8,7 @@ unterrichtssprache: "vollständig auf Deutsch"
 fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
-scraped_at: 2026-05-01T06:42:36+00:00
+scraped_at: 2026-07-01T08:18:42+00:00
 ---
 
 # Archäologische Wissenschaften (M.A.)

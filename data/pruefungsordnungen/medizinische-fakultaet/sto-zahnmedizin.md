@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 12.05.1998 i.d.F. 15.11.2000"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/StO_Zahnmedizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:28:45+00:00
-page_count_chars: 21998
+scraped_at: 2026-07-01T08:52:45+00:00
+page_count_chars: 22222
 ---
 
 # PDF vom 12.05.1998 i.d.F. 15.11.2000
@@ -14,7 +14,7 @@ page_count_chars: 21998
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den Studiengang Zahnmedizin der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 12. Mai 1998** (KWMBl II S. 1290) 
+# **Studienordnung für den Studiengang Zahnmedizin der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 12. Mai 1998** (KWMBl II S. 1290) 
 
 geändert durch Satzung vom 15. November 2000 (KWMBl II 2001 S. 330) 
 
@@ -46,7 +46,7 @@ Das Studium kann zum Winter- oder Sommersemester aufgenommen werden.
 
 ## **Studiendauer, Gliederung des Studiengangs** 
 
-(1)[1] Die zahnärztliche Ausbildung umfasst 
+(1)<sup>1</sup> Die zahnärztliche Ausbildung umfasst 
 
 1. ein Studium der Zahnheilkunde von zehn Semestern an einer wissenschaftlichen Hochschule, das sich aus einem vorklinischen und einem klinischen Teil von je fünf Semestern zusammensetzt; 
 
@@ -78,7 +78,7 @@ c) die zahnärztliche Prüfung.
 
 ## **Teilnahmevoraussetzungen** 
 
-(1)[1] An den praktischen Lehrveranstaltungen des Studiums der Zahnheilkunde kann nur teilnehmen, wer 
+(1)<sup>1</sup> An den praktischen Lehrveranstaltungen des Studiums der Zahnheilkunde kann nur teilnehmen, wer 
 
 1. im Studiengang Zahnmedizin an der Friedrich-Alexander-Universität ErlangenNürnberg eingeschrieben ist, 
 
@@ -86,11 +86,11 @@ c) die zahnärztliche Prüfung.
 
 2Anforderungen, Form und Verfahren einer Eingangsprüfung werden vom Kursleiter festgelegt und spätestens zum Ende des der Lehrveranstaltung vorangehenden Semesters bekanntgegeben. 
 
-(2)[1] Voraussetzung für die Teilnahme an den praktischen Lehrveranstaltungen des vorklinischen Studienabschnittes ist ferner, dass sich der Student mindestens in ei- 
+(2)<sup>1</sup> Voraussetzung für die Teilnahme an den praktischen Lehrveranstaltungen des vorklinischen Studienabschnittes ist ferner, dass sich der Student mindestens in ei- 
 
 2 
 
-nem der Fachsemester befindet, in dem der Besuch der jeweiligen Lehrveranstaltung vorgesehen ist.[2] Abweichungen davon sind aus Gründen der Kursorganisation und der Gewährleistung eines Studienaufbaus nur in besonderen Ausnahmefällen möglich (vgl. § 7 Abs. 1 Satz 4 und § 9 Abs. 1). 
+nem der Fachsemester befindet, in dem der Besuch der jeweiligen Lehrveranstaltung vorgesehen ist.<sup>2</sup> Abweichungen davon sind aus Gründen der Kursorganisation und der Gewährleistung eines Studienaufbaus nur in besonderen Ausnahmefällen möglich (vgl. § 7 Abs. 1 Satz 4 und § 9 Abs. 1). 
 
 (3) Voraussetzung für die Teilnahme an den praktischen Lehrveranstaltungen des klinischen Studienabschnittes ist außerdem, dass der Student 
 
@@ -98,7 +98,7 @@ nem der Fachsemester befindet, in dem der Besuch der jeweiligen Lehrveranstaltun
 
 ## **§ 7 Anmelde- und Zulassungsverfahren für die Lehrveranstaltungen des vorklinischen Studienabschnittes in der ZMK-Klinik** 
 
-(1)[1] Für die praktischen Lehrveranstaltungen des vorklinischen Studienabschnittes erfolgen Anmeldung und Überprüfung der Teilnahmeberechtigung in der Vorklinik. 2Dazu benötigen Studienanfänger beziehungsweise Studenten, die die Universität gewechselt haben, folgende Unterlagen: 
+(1)<sup>1</sup> Für die praktischen Lehrveranstaltungen des vorklinischen Studienabschnittes erfolgen Anmeldung und Überprüfung der Teilnahmeberechtigung in der Vorklinik. 2Dazu benötigen Studienanfänger beziehungsweise Studenten, die die Universität gewechselt haben, folgende Unterlagen: 
 
 - ein Passbild und 
 
@@ -118,17 +118,17 @@ nem der Fachsemester befindet, in dem der Besuch der jeweiligen Lehrveranstaltun
 
 ## **Versäumnis, Rücktritt** 
 
-(1)[1] Kann ein Student aus zwingenden Gründen an einer praktischen Lehrveranstaltung, zu der er angemeldet ist, nicht teilnehmen, oder ist er nach Beginn des Kursus aus triftigen Gründen an der weiteren Teilnahme oder am Besuch von Lehrveranstaltungen über das in § 11 Abs. 2 genannte Maß hinaus verhindert, so hat er dies beim Kursleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen. 
+(1)<sup>1</sup> Kann ein Student aus zwingenden Gründen an einer praktischen Lehrveranstaltung, zu der er angemeldet ist, nicht teilnehmen, oder ist er nach Beginn des Kursus aus triftigen Gründen an der weiteren Teilnahme oder am Besuch von Lehrveranstaltungen über das in § 11 Abs. 2 genannte Maß hinaus verhindert, so hat er dies beim Kursleiter unverzüglich unter Angabe der Gründe schriftlich glaubhaft zu machen. 
 
 3 
 
-2Der Kursleiter entscheidet über die Anerkennung der Gründe, sowie bei Versäumnis, über den Umfang der nachzuholenden Leistungen.[3] Bei Anerkennung der Gründe wird der Student im nächstmöglichen Semester nach erneuter Anmeldung für die Lehrveranstaltung durch den Kursleiter oder dessen Vertreter in den Kurs eingeteilt. 4Bei Nichtanerkennung beziehungsweise unentschuldigtem Fehlen gilt der Kurs als "ohne Erfolg" besucht. 
+2Der Kursleiter entscheidet über die Anerkennung der Gründe, sowie bei Versäumnis, über den Umfang der nachzuholenden Leistungen.<sup>3</sup> Bei Anerkennung der Gründe wird der Student im nächstmöglichen Semester nach erneuter Anmeldung für die Lehrveranstaltung durch den Kursleiter oder dessen Vertreter in den Kurs eingeteilt. 4Bei Nichtanerkennung beziehungsweise unentschuldigtem Fehlen gilt der Kurs als "ohne Erfolg" besucht. 
 
-(2)[1] Versäumt ein Student unentschuldigt die erste Kursveranstaltung, so verliert er den Anspruch auf den Kursplatz.[2] Absatz 1 Sätze 1 und 2 gelten entsprechend. 
+(2)<sup>1</sup> Versäumt ein Student unentschuldigt die erste Kursveranstaltung, so verliert er den Anspruch auf den Kursplatz.<sup>2</sup> Absatz 1 Sätze 1 und 2 gelten entsprechend. 
 
 ## **§ 10 Anrechnung von Studienzeiten und Studienleistungen (Pflichtlehrveranstaltungen) sowie Prüfungsbefreiungen** 
 
-(1)[1] Im Ausland begonnene oder absolvierte Studien der Zahnmedizin und im In- o- der Ausland betriebene verwandte Studien werden, sofern sie gleichwertig sind, nach folgenden Regeln angerechnet: 
+(1)<sup>1</sup> Im Ausland begonnene oder absolvierte Studien der Zahnmedizin und im In- o- der Ausland betriebene verwandte Studien werden, sofern sie gleichwertig sind, nach folgenden Regeln angerechnet: 
 
 1. Über die Anrechnung von vorklinischen Studienleistungen (Pflichtlehrveranstaltungen) entscheidet der Vorsitzende des Ausschusses für die naturwissenschaftliche und zahnärztliche Vorprüfung. 
 
@@ -150,13 +150,13 @@ zu entscheiden, bleibt unberührt.
 
 (1) Voraussetzungen für die Ausstellung der Bescheinigungen nach **Anlagen 1 und 4** der ZAppO ist die regelmäßige und erfolgreiche Teilnahme an der betreffenden Lehrveranstaltung. 
 
-(2)[1] Die Bedingungen der regelmäßigen Teilnahme werden vom Kursleiter festgestellt und zu Beginn der Lehrveranstaltung bekanntgegeben.[2] Die Kursleiter legt fest, welche Fehlzeiten für eine regelmäßige Teilnahme nicht überschritten werden dürfen.[3] Ein Rechtsanspruch auf die Durchführung von Nachholveranstaltungen besteht nicht. 
+(2)<sup>1</sup> Die Bedingungen der regelmäßigen Teilnahme werden vom Kursleiter festgestellt und zu Beginn der Lehrveranstaltung bekanntgegeben.<sup>2</sup> Die Kursleiter legt fest, welche Fehlzeiten für eine regelmäßige Teilnahme nicht überschritten werden dürfen.<sup>3</sup> Ein Rechtsanspruch auf die Durchführung von Nachholveranstaltungen besteht nicht. 
 
-(3)[1] Die erfolgreiche Teilnahme an einer Lehrveranstaltung wird nur bescheinigt, wenn der Student in einer dem Fachgebiet der betreffenden Lehrveranstaltung angemessenen Weise nachgewiesen hat, dass er sich die erforderlichen Kenntnisse und Fertigkeiten angeeignet hat, welche in den vorbereitenden und begleitenden Lehrveranstaltungen vermittelt werden.[2] Der Nachweis kann durch schriftliche oder 
+(3)<sup>1</sup> Die erfolgreiche Teilnahme an einer Lehrveranstaltung wird nur bescheinigt, wenn der Student in einer dem Fachgebiet der betreffenden Lehrveranstaltung angemessenen Weise nachgewiesen hat, dass er sich die erforderlichen Kenntnisse und Fertigkeiten angeeignet hat, welche in den vorbereitenden und begleitenden Lehrveranstaltungen vermittelt werden.<sup>2</sup> Der Nachweis kann durch schriftliche oder 
 
 4 
 
-mündliche Prüfung beziehungsweise Testate, durch die Anfertigung praktischer Arbeiten oder, in den klinischen Kursen, auch durch die fachgerechte Behandlung von Patienten erfolgen.[3] Bei den klinischen Behandlungskursen kann vor der Übernahme der Patienten zu deren Schutz das Bestehen einer schriftlichen oder mündlichen Kurszwischenprüfung verlangt werden.[4] Über die Zulassung zur Patientenbehandlung im Kursus und Poliklinik der Zahnersatzkunde I entscheiden die an der vorgeschalteten Phantomübung und in der Klausur erbrachten Leistungen.[5] Die Bescheinigung über regelmäßige und erfolgreiche Teilnahme am ersten Behandlungskurs ist Voraussetzung für die Teilnahme am zweiten Behandlungskurs.[6] Zeigt ein Student bei der Patientenbehandlung keine oder nur unzureichende theoretische Kenntnisse und praktische Fertigkeiten, so kann der Kursleiter die weitere Patientenbehandlung untersagen beziehungsweise die Fortsetzung erst nach erneuter Übung am Phantom und theoretischer Prüfung gestatten. 
+mündliche Prüfung beziehungsweise Testate, durch die Anfertigung praktischer Arbeiten oder, in den klinischen Kursen, auch durch die fachgerechte Behandlung von Patienten erfolgen.<sup>3</sup> Bei den klinischen Behandlungskursen kann vor der Übernahme der Patienten zu deren Schutz das Bestehen einer schriftlichen oder mündlichen Kurszwischenprüfung verlangt werden.<sup>4</sup> Über die Zulassung zur Patientenbehandlung im Kursus und Poliklinik der Zahnersatzkunde I entscheiden die an der vorgeschalteten Phantomübung und in der Klausur erbrachten Leistungen.<sup>5</sup> Die Bescheinigung über regelmäßige und erfolgreiche Teilnahme am ersten Behandlungskurs ist Voraussetzung für die Teilnahme am zweiten Behandlungskurs.<sup>6</sup> Zeigt ein Student bei der Patientenbehandlung keine oder nur unzureichende theoretische Kenntnisse und praktische Fertigkeiten, so kann der Kursleiter die weitere Patientenbehandlung untersagen beziehungsweise die Fortsetzung erst nach erneuter Übung am Phantom und theoretischer Prüfung gestatten. 
 
 (4) Die Operationskurse I und II schließen die Teilnahme an zahnärztlichen Nachtund Wochenenddiensten ein; in ihnen werden die Studenten unter zahnärztlicher Anleitung eingesetzt. 
 
@@ -164,9 +164,9 @@ mündliche Prüfung beziehungsweise Testate, durch die Anfertigung praktischer A
 
 ## **Wiederholung** 
 
-(1)[1] Lehrveranstaltungen, die nicht regelmäßig besucht und Leistungskontrollen, die nicht mit Erfolg abgeleistet wurden, können, soweit die vorklinischen und klinischen Kurse gemäß § 13 betroffen sind, einmal, im Übrigen zweimal wiederholt werden.[2] In den vorklinischen und klinischen Kursen gemäß § 13 kann der Kursleiter eine zweite Wiederholung zulassen, sofern Kursplätze vorhanden sind.[3] Der Kursleiter legt den Umfang der Wiederholung fest, insbesondere ob die Lehrveranstaltung insgesamt zu wiederholen ist oder ob die Wiederholung auf die Prüfung theoretischer Kenntnisse oder im praktischen Bereich auf jene Inhalte beschränkt wird, in denen nicht ausreichende Leistungen vorlagen. Lehrveranstaltungen sind im folgenden Semester, Leistungskontrollen spätestens im folgenden Semester zu wiederholen.[4] Unterbleibt die Wiederholung im folgenden Semester aus vom Studenten zu vertretenden Gründen, so gilt die Wiederholung als erfolglos verlaufen.[5] Die Sätze 4 und 5 gelten auch für die zweite Wiederholung. 
+(1)<sup>1</sup> Lehrveranstaltungen, die nicht regelmäßig besucht und Leistungskontrollen, die nicht mit Erfolg abgeleistet wurden, können, soweit die vorklinischen und klinischen Kurse gemäß § 13 betroffen sind, einmal, im Übrigen zweimal wiederholt werden.<sup>2</sup> In den vorklinischen und klinischen Kursen gemäß § 13 kann der Kursleiter eine zweite Wiederholung zulassen, sofern Kursplätze vorhanden sind.<sup>3</sup> Der Kursleiter legt den Umfang der Wiederholung fest, insbesondere ob die Lehrveranstaltung insgesamt zu wiederholen ist oder ob die Wiederholung auf die Prüfung theoretischer Kenntnisse oder im praktischen Bereich auf jene Inhalte beschränkt wird, in denen nicht ausreichende Leistungen vorlagen. Lehrveranstaltungen sind im folgenden Semester, Leistungskontrollen spätestens im folgenden Semester zu wiederholen.<sup>4</sup> Unterbleibt die Wiederholung im folgenden Semester aus vom Studenten zu vertretenden Gründen, so gilt die Wiederholung als erfolglos verlaufen.<sup>5</sup> Die Sätze 4 und 5 gelten auch für die zweite Wiederholung. 
 
-(2)[1] Für Studenten, welche die praktische Lehrveranstaltung zwar regelmäßig, jedoch ohne die erforderlichen Leistungen zu erbringen, besucht haben, kann vom Kursleiter bis zum Beginn der Lehrveranstaltung im nächsten Semester zusätzlich ein Nachprüfungstermin für die Erfolgskontrolle angeboten werden, sofern dies organisatorisch sowie nach Art und Inhalt des nach dem Fachgebiet der betreffenden Lehrveranstaltung zu fordernden Leistungsnachweises möglich ist.[2] Derartige Nachprüfungstermine werden auf die Wiederholung der praktischen Lehrveranstaltung nach Absatz 1 nicht angerechnet. 
+(2)<sup>1</sup> Für Studenten, welche die praktische Lehrveranstaltung zwar regelmäßig, jedoch ohne die erforderlichen Leistungen zu erbringen, besucht haben, kann vom Kursleiter bis zum Beginn der Lehrveranstaltung im nächsten Semester zusätzlich ein Nachprüfungstermin für die Erfolgskontrolle angeboten werden, sofern dies organisatorisch sowie nach Art und Inhalt des nach dem Fachgebiet der betreffenden Lehrveranstaltung zu fordernden Leistungsnachweises möglich ist.<sup>2</sup> Derartige Nachprüfungstermine werden auf die Wiederholung der praktischen Lehrveranstaltung nach Absatz 1 nicht angerechnet. 
 
 ## **§ 13 Reihenfolge der Kursveranstaltungen (Parallelteilnahmen)** 
 
@@ -222,112 +222,46 @@ II. Klinik
 
 ## **Anlage** 
 
-## **zu § 6 Abs. 1 Nr. 2: Praktische Lehrveranstaltungen des Studiengangs Zahnmedizin** 
+### **zu § 6 Abs. 1 Nr. 2: Praktische Lehrveranstaltungen des Studiengangs Zahnmedizin** 
 
-## **I. Im Vorklinischen Studienabschnitt gemäß § 9 Abs. 3 Satz 3, § 19 Abs. 3 Buchst. b und § 26 Abs. 4 Buchst. b ZAppO** 
+### **I. Im Vorklinischen Studienabschnitt gemäß § 9 Abs. 3 Satz 3, § 19 Abs. 3 Buchst. b und § 26 Abs. 4 Buchst. b ZAppO** 
 
-|**_Vorgs._**|**_Bezeichnung der prak-_**|**_SWS_**||**_Fachliche Zu-_**|**_vorgeschaltete bezie-_**|
-|---|---|---|---|---|---|
-|**_Fach-_**|**_tischen_** **_Lehrveranstal-_**|||**_lassungsvor-_**|**_hungsweise begleitende_**|
-|**_sem._**|**_tung_**|||**_aussetzungen_**|**_Vorlesungen_**|
-|1.|Kursus der technischen|20||- - - - -|Vorlesung und Demonstratio-|
-||Propädeutik||||nen zum Kursus der techni-|
-||||||schen Propädeutik|
-|1.-2.|Anatomischer Demonst-||4|- - - - -|- - - - - -|
-||rationskurs|||||
-|2.|Kursus der medizinischen||2|- - - - -|Vorlesungen: Chemie I und II|
-||Terminologie (unter be-||||der Medizin und Zahnheilkun-|
-||sonderer Berücksichti-||||de|
-||gung der Zahnheilkunde)|||||
-||Chemisches Praktikum||6|- - - - - -|Erläuterungen zum chemi-|
-||für Studenten der Medizin||||schen Praktikum für Studen-|
-||und Zahnheilkunde||||ten der Medizin und Zahnheil-|
-||||||kunde|
-||Physikalisches Praktikum||4|- - - - - -|Vorlesung Experimentalphysik|
-||für Studenten der Zahn-||||für Medizin und Zahnmedizin|
-||heilkunde|||||
-|3.|Phantomkurs der Zahn-|16||Kursus der|Vorlesung und Demonstratio-|
-||ersatzkunde I|||technischen|nen zum Phantomkurs der|
-|||||Propädeutik|Zahnersatzkunde I|
-|3.-5.|Phantomkurs der Zahn-|33||Phantomkurs|Begleitende Vorlesungen und|
-||ersatzkunde II *|||der Zahnersatz-|Demonstrationen n. V.|
-|||||kunde I||
-||Makroskopisch-|10||Naturwissen-|Vorlesungen: Allgemeine Ana-|
-||anatomische Übungen für|||schaftliche Vor-|tomie, Anatomie des Nerven-|
-||Studenten der Zahnmedi-|||prüfung|systems Anatomie der Sin-|
-||zin||||nesorgane|
-||Kursus der mikroskopi-||4|Naturwissen-|Mikroskopische Anatomie und|
-||schen Anatomie und His-|||schaftliche Vor-|Histologie|
-||tologie|||prüfung||
-|4.+5.|Praktikum der Biochemie|je|4|Naturwissen-|Biochemie (Physiologische|
-||(Physiologische Chemie)|= ins-||schaftliche Vor-|Chemie) I und II|
-||für Studenten der Zahn-|ges.|8|prüfung||
-||medizin Teil I und II||||Einführung in das biochemi-|
-||||||sche (physiologisch-|
-||||||chemische) Praktikum für|
-||||||Studenten der Medizin und|
-||||||Zahnmedizin|
-||Praktikum der der Physio-|je|4|Naturwissen-|Physiologie des Menschen I|
-||logie für Studenten der|= ins-||schaftliche Vor-|und II|
-||Zahnmedizin Teil I und II|ges.|8|prüfung||
-||**Gesamtsumme:**|**115**||||
+|**_Vorgs._**<br>**_Fach-_**<br>**_sem._**|**_Bezeichnung der prak-_**<br>**_tischen_** **_Lehrveranstal-_**<br>**_tung_**|**_SWS_**|**_Fachliche Zu-_**<br>**_lassungsvor-_**<br>**_aussetzungen_**|**_vorgeschaltete bezie-_**<br>**_hungsweise begleitende_**<br>**_Vorlesungen_**|
+|---|---|---|---|---|
+|1.|Kursus der technischen<br>Propädeutik|20|- - - - -|Vorlesung und Demonstratio-<br>nen zum Kursus der techni-<br>schen Propädeutik|
+|1.-2.|Anatomischer Demonst-<br>rationskurs|4|- - - - -|- - - - - -|
+|2.|Kursus der medizinischen<br>Terminologie (unter be-<br>sonderer Berücksichti-<br>gung der Zahnheilkunde)|2|- - - - -|Vorlesungen: Chemie I und II<br>der Medizin und Zahnheilkun-<br>de|
+||Chemisches Praktikum<br>für Studenten der Medizin<br>und Zahnheilkunde|6|- - - - - -|Erläuterungen zum chemi-<br>schen Praktikum für Studen-<br>ten der Medizin und Zahnheil-<br>kunde|
+||Physikalisches Praktikum<br>für Studenten der Zahn-<br>heilkunde|4|- - - - - -|Vorlesung Experimentalphysik<br>für Medizin und Zahnmedizin|
+|3.|Phantomkurs der Zahn-<br>ersatzkunde I|16|Kursus der<br>technischen<br>Propädeutik|Vorlesung und Demonstratio-<br>nen zum Phantomkurs der<br>Zahnersatzkunde I|
+|3.-5.|Phantomkurs der Zahn-<br>ersatzkunde II *|33|Phantomkurs<br>der Zahnersatz-<br>kunde I|Begleitende Vorlesungen und<br>Demonstrationen n. V.|
+||Makroskopisch-<br>anatomische Übungen für<br>Studenten der Zahnmedi-<br>zin|10|Naturwissen-<br>schaftliche Vor-<br>prüfung|Vorlesungen: Allgemeine Ana-<br>tomie, Anatomie des Nerven-<br>systems Anatomie der Sin-<br>nesorgane|
+||Kursus der mikroskopi-<br>schen Anatomie und His-<br>tologie|4|Naturwissen-<br>schaftliche Vor-<br>prüfung|Mikroskopische Anatomie und<br>Histologie|
+|4.+5.|Praktikum der Biochemie<br>(Physiologische Chemie)<br>für Studenten der Zahn-<br>medizin Teil I und II|je 4<br>= ins-<br>ges. 8|Naturwissen-<br>schaftliche Vor-<br>prüfung|Biochemie (Physiologische<br>Chemie) I und II<br>Einführung in das biochemi-<br>sche (physiologisch-<br>chemische) Praktikum für<br>Studenten der Medizin und<br>Zahnmedizin|
+||Praktikum der der Physio-<br>logie für Studenten der<br>Zahnmedizin Teil I und II<br>**Gesamtsumme:**|je 4<br>= ins-<br>ges. 8<br>**115**|Naturwissen-<br>schaftliche Vor-<br>prüfung|Physiologie des Menschen I<br>und II|
 
 * In der vorlesungsfreien Zeit / August bis Oktober 
 
 7 
 
-**II. Im Klinischen Studienabschnitt gemäß § 36 Abs. 1 Buchst. B und C ZAppO** (Zulassungsvoraussetzung für alle Lehrveranstaltungen ist die bestandene zahnärztliche Vorprüfung) 
+## **II. Im Klinischen Studienabschnitt gemäß § 36 Abs. 1 Buchst. B und C ZAppO** (Zulassungsvoraussetzung für alle Lehrveranstaltungen ist die bestandene zahnärztliche Vorprüfung) 
 
-|**_Vorgs._**|**_Bezeichnung der_**|**_SWS_**|**_fachliche Zulas-_**|**_vorgeschaltete bezie-_**|
+|**_Vorgs._**<br>**_Fach-_**<br>**_sem._**|**_Bezeichnung der_**<br>**_praktischen_** **_Lehrver-_**<br>**_anstaltung_**|**_SWS_**|**_fachliche Zulas-_**<br>**_sungsvorausset-_**<br>**_zungen_**|**_vorgeschaltete bezie-_**<br>**_hungsweise begleitende_**<br>**_Vorlesungen_**|
 |---|---|---|---|---|
-|**_Fach-_**|**_praktischen_** **_Lehrver-_**||**_sungsvorausset-_**|**_hungsweise begleitende_**|
-|**_sem._**|**_anstaltung_**||**_zungen_**|**_Vorlesungen_**|
-|1.|Medizinische Mikrobio-|4|- - - - -|Hygiene einschließlich|
-||logie mit praktischen|||Gesundheitsfürsorge|
-||Übungen||||
-||Phantomkurs der Zahn-|18|- - - - -|Begleitende Vorlesungen|
-||erhaltungskunde (ein-|||und Demonstrationen n. V.|
-||schließlich Parodontolo-||||
-||gie)||||
-||Kursus der kieferortho-|8|- - - - -|Vorlesung: Einführung in|
-||pädischen Technik|||die Kieferorthopädie|
-|1.-2.|Pharmakologie und|2|- - - - -||
-||Toxikologie I und II für||||
-||Studenten der Zahn-||||
-||heilkunde (einschließ-||||
-||lich Rezeptierkursus)||||
-|1.-2.|Klinisch-chemische und|2|- - - - -|- - - - -|
-||physikalische Untersu-||||
-||chungsmethoden für||||
-||Studenten der Zahn-||||
-||heilkunde||||
-|1.-5.|Allgemeine Chirurgie|2|- - - - -|- - - - -|
-||und Chirurgische Poli-||||
-||klinik für Zahnmediziner||||
-||(Auskultant)||||
-|2.|Radiologischer Kursus|2|- - - - -|Röntgenvorlesung für|
-||mit besonderer Berück-|||Zahnmediziner|
-||sichtigung des Strah-||||
-||lenschutzes||||
-|2.|Kursus und Poliklinik|19|Phantomkurs der|Vorlesung zur Zahnerhal-|
-||der Zahnerhaltungs-||Zahnerhaltungskunde|tungskunde und Parodon-|
-||kunde I einschließlich|||tologie I|
-||parodontologischer||||
-||Kursus I||||
-|||||Seminar I zu Kursus und|
-|||||Poliklinik der Zahnerhal-|
-|||||tungskunde I und parodon-|
-|||||tologischer Kursus I|
-|2.|Operationskurs I (mit|7|Klinik und Poliklinik|Vorlesungen: Klinik und|
-||Extraktionskurs) teil-||der Zahn-, Mund- und|Poliklinik der Zahn-, Mund-|
-||weise in der vorle-||Kieferkrankheiten|und Kieferkrankheiten I|
-||sungsfreien Zeit||||
-|||||Radiologischer Kursus mit|
-|||||besonderer Berücksichti-|
+|1.|Medizinische Mikrobio-<br>logie mit praktischen<br>Übungen|4|- - - - -|Hygiene einschließlich<br>Gesundheitsfürsorge|
+||Phantomkurs der Zahn-<br>erhaltungskunde (ein-<br>schließlich Parodontolo-<br>gie)|18|- - - - -|Begleitende Vorlesungen<br>und Demonstrationen n. V.|
+||Kursus der kieferortho-<br>pädischen Technik|8|- - - - -|Vorlesung: Einführung in<br>die Kieferorthopädie|
+|1.-2.|Pharmakologie und<br>Toxikologie I und II für<br>Studenten der Zahn-<br>heilkunde (einschließ-<br>lich Rezeptierkursus)|2|- - - - -||
+|1.-2.|Klinisch-chemische und<br>physikalische Untersu-<br>chungsmethoden für<br>Studenten der Zahn-<br>heilkunde|2|- - - - -|- - - - -|
+|1.-5.|Allgemeine Chirurgie<br>und Chirurgische Poli-<br>klinik für Zahnmediziner<br>(Auskultant)|2|- - - - -|- - - - -|
+|2.|Radiologischer Kursus<br>mit besonderer Berück-<br>sichtigung des Strah-<br>lenschutzes|2|- - - - -|Röntgenvorlesung für<br>Zahnmediziner|
+|2.|Kursus und Poliklinik<br>der Zahnerhaltungs-<br>kunde I einschließlich<br>parodontologischer<br>Kursus I|19|Phantomkurs der<br>Zahnerhaltungskunde|Vorlesung zur Zahnerhal-<br>tungskunde und Parodon-<br>tologie I|
+|||||Seminar I zu Kursus und<br>Poliklinik der Zahnerhal-<br>tungskunde I und parodon-<br>tologischer Kursus I|
+|2.|Operationskurs I (mit<br>Extraktionskurs) teil-<br>weise in der vorle-<br>sungsfreien Zeit|7|Klinik und Poliklinik<br>der Zahn-, Mund- und<br>Kieferkrankheiten|Vorlesungen: Klinik und<br>Poliklinik der Zahn-, Mund-<br>und Kieferkrankheiten I<br>Radiologischer Kursus mit<br>besonderer Berücksichti-|
 
 8 
 
-## gung des Strahlenschutzes 
+#### gung des Strahlenschutzes 
 
 Anästhesie in der Zahnheilkunde und Extraktionen. Einführung in die Zahnheilkunde 
 
@@ -339,18 +273,6 @@ Klinik und Poliklinik, der Zahn-, Mund- und Kieferkrankheiten (einschließlich D
 
 3. Kursus und Poliklinik der Zahnersatzkunde I 
 
-6 - - - - - 
-
-- - - - - 
-
-2 - - - - - - - - - - 
-
-- 2 - - - - - Allgemeine und/oder spezielle Pathologie für Zahnmediziner, Histopathologie für Zahnmediziner 
-
-- 18 Kursus und Poliklinik Vorlesung Zahnersatzkunder Zahnerhaltungsde I (einschließlich Dekunde I monstrationen) Kolloquium zu Kursus und Poliklinik der Zahnersatzkunde I 
-
-   - Vorlesung Kieferorthopädie 
-
 Kursus der kieferorthopädischen Behandlung I 
 
 Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten (einschließlich Demonstrationen) Practicando I 
@@ -360,6 +282,17 @@ Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten (einschließlich De
 Klinik und Poliklinik der Zahn-, Mund- und Kieferkrankheiten Practicando II 
 
 Kursus und Poliklinik der Zahnersatzkunde II 
+
+6 - - - - - 
+
+- - - - - 
+
+|2<br>- - - - -<br>- - - - -|
+|---|
+
+- 2 - - - - - Allgemeine und/oder spezielle Pathologie für Zahnmediziner, Histopathologie für Zahnmediziner 
+
+- 18 Kursus und Poliklinik Vorlesung Zahnersatzkunder Zahnerhaltungsde I (einschließlich Dekunde I monstrationen) Kolloquium zu Kursus und Poliklinik der Zahnersatzkunde I Vorlesung Kieferorthopädie 
 
 - 8 Kursus der kieferorthopädischen Technik 
 
@@ -373,24 +306,12 @@ Kursus und Poliklinik der Zahnersatzkunde II
 
 9 
 
-||Kursus der kieferortho-|8|Kursus der kieferor-|Vorlesung Kieferorthopädie|
-|---|---|---|---|---|
-||pädischen Behandlung||thopädischen Be-|II|
-||II||handlung I||
-|5.|Kursus und Poliklinik|19|Kursus und Poliklinik|Vorlesung zu Zahnerhal-|
-||der Zahnerhaltungs-||der Zahnerhaltungs-|tungskunde und Parodon-|
-||kunde II einschließlich||kunde I|tologie II|
-||parodontologischer||||
-||Kursus II||||
-||||Kursus und Poliklinik|Seminar II zu Kursus und|
-||||der Zahnersatzkunde|Poliklinik der Zahnerhal-|
-||||I und II|tungskunde II und parodon-|
-|||||tologischer Kursus|
-||Klinik und Poliklinik der|6|dto. Practicando II|Zahn-, Mund- und Kiefer-|
-||Zahn-, Mund- und Kie-|||krankheiten II|
-||ferkrankheiten Practi-||||
-||cando III||||
-||**Gesamtsumme**|**169**|||
+|Kursus der kieferortho-<br>pädischen Behandlung<br>II|8<br>Kursus der kieferor-<br>thopädischen Be-<br>handlung I|Vorlesung Kieferorthopädie<br>II|
+|---|---|---|
+|5.<br>Kursus und Poliklinik<br>der Zahnerhaltungs-<br>kunde II einschließlich<br>parodontologischer<br>Kursus II|19<br>Kursus und Poliklinik<br>der Zahnerhaltungs-<br>kunde I|Vorlesung zu Zahnerhal-<br>tungskunde und Parodon-<br>tologie II|
+||Kursus und Poliklinik<br>der Zahnersatzkunde<br>I und II|Seminar II zu Kursus und<br>Poliklinik der Zahnerhal-<br>tungskunde II und parodon-<br>tologischer Kursus|
+|Klinik und Poliklinik der<br>Zahn-, Mund- und Kie-<br>ferkrankheiten Practi-<br>cando III|6<br>dto. Practicando II|Zahn-, Mund- und Kiefer-<br>krankheiten II|
+|**Gesamtsumme**|**169**||
 
 10 
 

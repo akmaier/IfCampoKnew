@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 30.04.1992 i.d.F. 07.05.2008"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/StO_Informatik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/informatik/
-scraped_at: 2026-05-01T10:19:29+00:00
-page_count_chars: 16596
+scraped_at: 2026-07-01T11:39:23+00:00
+page_count_chars: 17045
 ---
 
 # PDF vom 30.04.1992 i.d.F. 07.05.2008
@@ -14,7 +14,7 @@ page_count_chars: 16596
 
 **Der Text dieser Studienordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text.** 
 
-## **Studienordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg Vom 30. April 1992** (KWMBl II S. 387) 
+# **Studienordnung für den Studiengang Informatik der Universität Erlangen-Nürnberg Vom 30. April 1992** (KWMBl II S. 387) 
 
 geändert durch Satzung vom 
 
@@ -44,7 +44,7 @@ Diese Studienordnung beschreibt auf der Grundlage der Allgemeinen Prüfungsordnu
 
 ## **Studiendauer** 
 
-1Das Studium der Informatik setzt sich aus Pflicht- und Wahlpflicht-Lehrveranstaltungen einschließlich einer Studienarbeit im Umfang von höchstens 165 SWS, verteilt auf acht Semester, sowie weiteren Lehrveranstaltungen nach freier Wahl des Studenten zusammen.[2] Hinzu kommen die Zeit für die Hauptprüfungen am Anfang des neunten Semesters sowie sechs Monate zur Durchführung der Diplomarbeit. 3Die Regelstudienzeit einschließlich der Prüfungszeit beträgt neun Semester. 
+1Das Studium der Informatik setzt sich aus Pflicht- und Wahlpflicht-Lehrveranstaltungen einschließlich einer Studienarbeit im Umfang von höchstens 165 SWS, verteilt auf acht Semester, sowie weiteren Lehrveranstaltungen nach freier Wahl des Studenten zusammen.<sup>2</sup> Hinzu kommen die Zeit für die Hauptprüfungen am Anfang des neunten Semesters sowie sechs Monate zur Durchführung der Diplomarbeit. 3Die Regelstudienzeit einschließlich der Prüfungszeit beträgt neun Semester. 
 
 1 
 
@@ -72,7 +72,7 @@ Das Studium kann nur im Wintersemester aufgenommen werden.
 
 3. In Forschung und Lehre: Weiterentwicklung und Entwurf neuer Methoden der Informatik sowie Ausbildung. 
 
-(4)[1] Als Partner von Anwendern muss der Diplom-Informatiker dazu beitragen, Vorschläge zur Bearbeitung mit Datenverarbeitungsanlagen zu erarbeiten für Aufgaben die in der Fachsprache eines Anwendungsgebietes abgefasst sind.[2] Der Entwicklung dieser Fähigkeit dient das Studium eines Nebenfachs, das einen etwa 20%igen Anteil am Studium hat. 
+(4)<sup>1</sup> Als Partner von Anwendern muss der Diplom-Informatiker dazu beitragen, Vorschläge zur Bearbeitung mit Datenverarbeitungsanlagen zu erarbeiten für Aufgaben die in der Fachsprache eines Anwendungsgebietes abgefasst sind.<sup>2</sup> Der Entwicklung dieser Fähigkeit dient das Studium eines Nebenfachs, das einen etwa 20%igen Anteil am Studium hat. 
 
 (5) Das Studium der Informatik führt zum akademischen Grad ,,Diplom-Informatiker Univ." bzw. ,,Diplom-Informatikerin Univ." (abgekürzt ,,Dipl.-Inf.Univ."). 
 
@@ -80,11 +80,11 @@ Das Studium kann nur im Wintersemester aufgenommen werden.
 
 ## **§ 6 Gliederung des Studiums** 
 
-(1)[1] Das Studium gliedert sich in ein Grundstudium, ein Hauptstudium und die Prüfungszeit.[2] Die Studiendauer für das Grundstudium und das Hauptstudium beträgt je vier Semester.[3] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium 
+(1)<sup>1</sup> Das Studium gliedert sich in ein Grundstudium, ein Hauptstudium und die Prüfungszeit.<sup>2</sup> Die Studiendauer für das Grundstudium und das Hauptstudium beträgt je vier Semester.<sup>3</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium 
 
 2 
 
-mit der Diplomhauptprüfung abgeschlossen.[4] Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden studienbegleitend im Leistungspunktsystem erbracht. 
+mit der Diplomhauptprüfung abgeschlossen.<sup>4</sup> Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden studienbegleitend im Leistungspunktsystem erbracht. 
 
 (2) Das Grundstudium ist bestimmt durch weitgehend verbindliche Lehrveranstaltungen und Lehrstoffe, durch die eine Beherrschung der grundlegenden Fachinhalte erreicht und die Basis für das flexibel gestaltete Hauptstudium gelegt wird. 
 
@@ -92,9 +92,9 @@ mit der Diplomhauptprüfung abgeschlossen.[4] Die Prüfungen der Diplomvorprüfu
 
 (4) In unmittelbarem Anschluss an die erfolgreiche Ablegung aller Einzel-Prüfungsleistungen der Diplomhauptprüfung ist die Diplomarbeit anzufertigen (Dauer sechs Monate), die Bestandteil der Diplomhauptprüfung ist. 
 
-(5)[1] Eine wichtige Entscheidung, die in vielen Fällen bereits zu Beginn des dritten Semesters getroffen werden muss, ist die Wahl des Nebenfaches.[2] Der überwiegende Teil der Arbeitsplätze für Diplom-Informatiker liegt im Bereich des Einsatzes von Datenverarbeitungsanlagen für anwenderspezifische Aufgaben.[3] Es ist daher für Informatiker sehr wichtig, über solide Grundkenntnisse zumindest einer anderen Fachrichtung zu verfügen. 
+(5)<sup>1</sup> Eine wichtige Entscheidung, die in vielen Fällen bereits zu Beginn des dritten Semesters getroffen werden muss, ist die Wahl des Nebenfaches.<sup>2</sup> Der überwiegende Teil der Arbeitsplätze für Diplom-Informatiker liegt im Bereich des Einsatzes von Datenverarbeitungsanlagen für anwenderspezifische Aufgaben.<sup>3</sup> Es ist daher für Informatiker sehr wichtig, über solide Grundkenntnisse zumindest einer anderen Fachrichtung zu verfügen. 
 
-(6)[1] Als Nebenfächer sind wählbar: 
+(6)<sup>1</sup> Als Nebenfächer sind wählbar: 
 
 - Angewandte Statistik 
 
@@ -102,13 +102,13 @@ mit der Diplomhauptprüfung abgeschlossen.[4] Die Prüfungen der Diplomvorprüfu
 
 - Chemie- und Bioingenieurwesen - Elektrotechnik, Elektronik und Informationstechnik - Englische Linguistik - Geologie - Japanologie - Germanistische Linguistik - Kunsterziehung - Maschinenbau - Mathematik - Medizinische Informatik - Musikwissenschaft - Philosophie - Physik - Psychologie - Sinologie - Soziologie - Werkstoffwissenschaften 2Weitere Nebenfächer können nach § 1 c Abs. 3 FPrOI auf Antrag genehmigt werden. 
 
-(7)[1] Das Nebenfach wird überwiegend im Hauptstudium studiert.[2] Viele Nebenfächer sehen jedoch eine Vorbereitung durch Wahllehrveranstaltungen im Grundstudium 
+(7)<sup>1</sup> Das Nebenfach wird überwiegend im Hauptstudium studiert.<sup>2</sup> Viele Nebenfächer sehen jedoch eine Vorbereitung durch Wahllehrveranstaltungen im Grundstudium 
 
 3 
 
-aus dem Gebiet des Nebenfachs vor.[3] Sieht das Nebenfach keine Wahllehrveranstaltungen im Grundstudium vor, so sind die Wahllehrveranstaltungen aus dem Bereich der Informatik zu wählen. 
+aus dem Gebiet des Nebenfachs vor.<sup>3</sup> Sieht das Nebenfach keine Wahllehrveranstaltungen im Grundstudium vor, so sind die Wahllehrveranstaltungen aus dem Bereich der Informatik zu wählen. 
 
-(8)[1] Es kann der Studienschwerpunkt Informatik in der Medizin gewählt werden. 2Dazu muss eines der Fächer Mustererkennung, Datenbanksysteme oder Graphische Datenverarbeitung als Schwerpunktfach und das Fach Medizinische Informatik als Nebenfach gewählt werden.[3] Darüber hinaus kann der Prüfungsausschuss im Einzelfall eine Kombination der in Satz 2 genannten Nebenfächer mit einem anderen Schwerpunktfach gestatten.[4] Das im Grundstudium gewählte Wahlpflichtfach muss mit dem gewählten Nebenfach übereinstimmen. 
+(8)<sup>1</sup> Es kann der Studienschwerpunkt Informatik in der Medizin gewählt werden. 2Dazu muss eines der Fächer Mustererkennung, Datenbanksysteme oder Graphische Datenverarbeitung als Schwerpunktfach und das Fach Medizinische Informatik als Nebenfach gewählt werden.<sup>3</sup> Darüber hinaus kann der Prüfungsausschuss im Einzelfall eine Kombination der in Satz 2 genannten Nebenfächer mit einem anderen Schwerpunktfach gestatten.<sup>4</sup> Das im Grundstudium gewählte Wahlpflichtfach muss mit dem gewählten Nebenfach übereinstimmen. 
 
 ## **§ 7 Grundstudium** 
 
@@ -148,11 +148,11 @@ aus dem Gebiet des Nebenfachs vor.[3] Sieht das Nebenfach keine Wahllehrveransta
 
 ## **§ 8 Hauptstudium** 
 
-(1)[1] Aufbauend auf die durch das Grundstudium vermittelten für alle Informatiker erforderlichen Grundkenntnisse bietet das Hauptstudium weitgehend flexible Kombinationen von Fachgebieten der Informatik untereinander sowie mit verschiedenen möglichen Nebenfächern.[2] Die Lehrveranstaltungen haben einen Gesamtumfang von mindestens 51 Semesterwochenstunden.[3] Ein Schwerpunktfach sichert die erforderliche Tiefe der Ausbildung in einem Fachgebiet der Informatik. 
+(1)<sup>1</sup> Aufbauend auf die durch das Grundstudium vermittelten für alle Informatiker erforderlichen Grundkenntnisse bietet das Hauptstudium weitgehend flexible Kombinationen von Fachgebieten der Informatik untereinander sowie mit verschiedenen möglichen Nebenfächern.<sup>2</sup> Die Lehrveranstaltungen haben einen Gesamtumfang von mindestens 51 Semesterwochenstunden.<sup>3</sup> Ein Schwerpunktfach sichert die erforderliche Tiefe der Ausbildung in einem Fachgebiet der Informatik. 
 
-(2)[1] Im Hauptstudium muss jeder Student die Schwerpunkte seiner künftigen Ausbildung unter Einhaltung des durch die Prüfungsordnung vorgegebenen Rahmens selbst setzen.[2] Deshalb kann für das Hauptstudium kein für alle Informatik-Studenten einheitlicher Studienplan angegeben werden, sondern es gibt in Abhängigkeit vom gewählten Schwerpunkt- und Nebenfach eine Reihe von Studienplänen, in denen immer noch verschiedene Wahlmöglichkeiten enthalten sind. 
+(2)<sup>1</sup> Im Hauptstudium muss jeder Student die Schwerpunkte seiner künftigen Ausbildung unter Einhaltung des durch die Prüfungsordnung vorgegebenen Rahmens selbst setzen.<sup>2</sup> Deshalb kann für das Hauptstudium kein für alle Informatik-Studenten einheitlicher Studienplan angegeben werden, sondern es gibt in Abhängigkeit vom gewählten Schwerpunkt- und Nebenfach eine Reihe von Studienplänen, in denen immer noch verschiedene Wahlmöglichkeiten enthalten sind. 
 
-(3)[1] Im Hauptstudium legt der Student seine Studienrichtung durch Wahl von drei Fächern aus den nachstehend aufgeführten Teilgebieten der Informatik, davon eines als Schwerpunktfach, und einem Nebenfach fest.[2] Die Teilgebiete mit den ihnen zugehörigen Fächern sind: 
+(3)<sup>1</sup> Im Hauptstudium legt der Student seine Studienrichtung durch Wahl von drei Fächern aus den nachstehend aufgeführten Teilgebieten der Informatik, davon eines als Schwerpunktfach, und einem Nebenfach fest.<sup>2</sup> Die Teilgebiete mit den ihnen zugehörigen Fächern sind: 
 
 a) Theoretisch orientierte Fächer (Theoretische Informatik, Systemsimulation, Diskrete Simulation, Mathematik) 
 
@@ -164,7 +164,7 @@ d) Praktisch orientierte Fächer (Mustererkennung, Graphische Datenverarbeitung,
 
 3Bei der Wahl der drei Fächer ist zu beachten, dass Fächer aus mindestens zwei Teilgebieten zu wählen sind. 
 
-(4)[1] In einem der nach Absatz 3 gewählten drei Fächer (mit Ausnahme von Mathematik) ist zusätzlich ein benoteter Nachweis im Umfang von vier Semesterwochenstunden zu erbringen.[2] Dieses Fach wird dadurch zum Schwerpunktfach. 
+(4)<sup>1</sup> In einem der nach Absatz 3 gewählten drei Fächer (mit Ausnahme von Mathematik) ist zusätzlich ein benoteter Nachweis im Umfang von vier Semesterwochenstunden zu erbringen.<sup>2</sup> Dieses Fach wird dadurch zum Schwerpunktfach. 
 
 (5) Es ist ein Hauptseminar (2 SWS) zu absolvieren und eine Studienarbeit anzufertigen. 
 
@@ -186,27 +186,27 @@ d) Praktisch orientierte Fächer (Mustererkennung, Graphische Datenverarbeitung,
 
 ergeben sich aus der Fachprüfungsordnung Informatik sowie aus der DiplPrOTF in der jeweils gültigen Fassung. 
 
-(2)[1] Die Anforderungen der Diplomvorprüfung und der Diplomhauptprüfung bestimmen sich nach den Inhalten der jeweiligen Vorlesungen.[2] Die Prüfung im Wahlpflichtfach baut in der Regel auf mindestens drei SWS auf.[3] Die drei Einzelprüfungen in Informatik (§ 12 Abs. 1 Nr. 1 FPrOI) bauen auf dem Stoff von jeweils mindestens acht SWS des betreffenden Fachs auf.[4] Die Einzelprüfung im Nebenfach (§ 12 Abs. 1 Nr. 2 FPrOI) baut auf mindestens zehn SWS aus dem betreffenden Fachgebiet auf. 
+(2)<sup>1</sup> Die Anforderungen der Diplomvorprüfung und der Diplomhauptprüfung bestimmen sich nach den Inhalten der jeweiligen Vorlesungen.<sup>2</sup> Die Prüfung im Wahlpflichtfach baut in der Regel auf mindestens drei SWS auf.<sup>3</sup> Die drei Einzelprüfungen in Informatik (§ 12 Abs. 1 Nr. 1 FPrOI) bauen auf dem Stoff von jeweils mindestens acht SWS des betreffenden Fachs auf.<sup>4</sup> Die Einzelprüfung im Nebenfach (§ 12 Abs. 1 Nr. 2 FPrOI) baut auf mindestens zehn SWS aus dem betreffenden Fachgebiet auf. 
 
 (3) Die Studenten sollen sich so rechtzeitig zur Diplomvorprüfung melden, dass sie diese bis zum Beginn der Lehrveranstaltungen des fünften Semesters abschließen. 
 
-(4)[1] Die Studenten sollen sich nach einer achtsemestrigen Studiendauer so rechtzeitig zur Diplomhauptprüfung melden, dass sie die letzte Prüfung bis zum Ende des achten Semesters ablegen und im unmittelbaren Anschluss daran mit der Bearbeitung der sechsmonatigen Diplomarbeit beginnen können.[2] Die Diplomarbeit soll zeigen, dass der Kandidat in der Lage ist, eine gestellte Aufgabe der Informatik mit wissenschaftlichen Methoden zu bearbeiten (§ 17 DiplPrOTF und § 13 FPrOI). 
+(4)<sup>1</sup> Die Studenten sollen sich nach einer achtsemestrigen Studiendauer so rechtzeitig zur Diplomhauptprüfung melden, dass sie die letzte Prüfung bis zum Ende des achten Semesters ablegen und im unmittelbaren Anschluss daran mit der Bearbeitung der sechsmonatigen Diplomarbeit beginnen können.<sup>2</sup> Die Diplomarbeit soll zeigen, dass der Kandidat in der Lage ist, eine gestellte Aufgabe der Informatik mit wissenschaftlichen Methoden zu bearbeiten (§ 17 DiplPrOTF und § 13 FPrOI). 
 
-(5)[1] Bei der Meldung zur ersten Einzelprüfung ist ein Prüfungsplan vorzulegen, der die gewählte Prüfungsfachkombination, Schwerpunktfach und LeistungsnachweisVeranstaltungen enthalten muss (§ 11 FPrOI).[2] Der Prüfungsplan ist einem vom Prüfungsausschuss Beauftragten zur Genehmigung vorzulegen. 
+(5)<sup>1</sup> Bei der Meldung zur ersten Einzelprüfung ist ein Prüfungsplan vorzulegen, der die gewählte Prüfungsfachkombination, Schwerpunktfach und LeistungsnachweisVeranstaltungen enthalten muss (§ 11 FPrOI).<sup>2</sup> Der Prüfungsplan ist einem vom Prüfungsausschuss Beauftragten zur Genehmigung vorzulegen. 
 
 ## **§ 10 Studienleistungen** 
 
 (1) Studienleistungen sind die Teilnahme an Lehrveranstaltungen einschließlich Vorund Nachbereitung sowie die Anfertigung der Studienarbeit. 
 
-(2)[1] Die Fachprüfungsordnung Informatik schreibt unter den Zulassungsbedingungen zu den Prüfungen das Beibringen von Leistungsnachweisen vor.[2] Ein Leistungsnachweis ist eine schriftliche Bestätigung über die erfolgreiche Teilnahme an einer Lehrveranstaltung.[3] Diese Bestätigung (Schein) wird von dem für die betreffende Lehrveranstaltung verantwortlichen Hochschullehrer oder dem von ihm hiermit Beauftragten ausgestellt, wenn die Studenten den Studienerfolg in dieser Lehrveranstaltung in der hierfür bei Beginn der Lehrveranstaltung geregelten Form nachweisen (z.B. Klausur, Bearbeiten von Übungsaufgaben, Kolloquium etc.).[4] Anzahl und Art der beizubringenden Scheine bestimmt die Fachprüfungsordnung Informatik. 
+(2)<sup>1</sup> Die Fachprüfungsordnung Informatik schreibt unter den Zulassungsbedingungen zu den Prüfungen das Beibringen von Leistungsnachweisen vor.<sup>2</sup> Ein Leistungsnachweis ist eine schriftliche Bestätigung über die erfolgreiche Teilnahme an einer Lehrveranstaltung.<sup>3</sup> Diese Bestätigung (Schein) wird von dem für die betreffende Lehrveranstaltung verantwortlichen Hochschullehrer oder dem von ihm hiermit Beauftragten ausgestellt, wenn die Studenten den Studienerfolg in dieser Lehrveranstaltung in der hierfür bei Beginn der Lehrveranstaltung geregelten Form nachweisen (z.B. Klausur, Bearbeiten von Übungsaufgaben, Kolloquium etc.).<sup>4</sup> Anzahl und Art der beizubringenden Scheine bestimmt die Fachprüfungsordnung Informatik. 
 
-(3)[1] Die Studienarbeit stellt eine Studienleistung dar, die in den Anforderungen so gestaltet ist, dass sie eine reine Bearbeitungszeit von drei Monaten erfordert.[2] Da die Studienarbeit parallel zu anderen Lehrveranstaltungen durchgeführt werden kann, 
+(3)<sup>1</sup> Die Studienarbeit stellt eine Studienleistung dar, die in den Anforderungen so gestaltet ist, dass sie eine reine Bearbeitungszeit von drei Monaten erfordert.<sup>2</sup> Da die Studienarbeit parallel zu anderen Lehrveranstaltungen durchgeführt werden kann, 
 
 6 
 
-sind Anfangs- und Abgabetermin jeweils vom betreuenden Hochschullehrer im Einvernehmen mit dem Bearbeiter schriftlich festzulegen.[3] Die so festgesetzte Bearbeitungsdauer darf neun Monate nicht überschreiten.[4] Gibt der Bearbeiter die Studienarbeit aus von ihm zu vertretenden Gründen nicht innerhalb der vereinbarten Frist ab, so wird die Arbeit mit ,,nicht ausreichend" bewertet.[5] Die Studienarbeit ist von dem Hochschullehrer, der die Arbeit ausgegeben hat, innerhalb von drei Monaten nach der Abgabe zu bewerten (§ 11 FPrOI). 
+sind Anfangs- und Abgabetermin jeweils vom betreuenden Hochschullehrer im Einvernehmen mit dem Bearbeiter schriftlich festzulegen.<sup>3</sup> Die so festgesetzte Bearbeitungsdauer darf neun Monate nicht überschreiten.<sup>4</sup> Gibt der Bearbeiter die Studienarbeit aus von ihm zu vertretenden Gründen nicht innerhalb der vereinbarten Frist ab, so wird die Arbeit mit ,,nicht ausreichend" bewertet.<sup>5</sup> Die Studienarbeit ist von dem Hochschullehrer, der die Arbeit ausgegeben hat, innerhalb von drei Monaten nach der Abgabe zu bewerten (§ 11 FPrOI). 
 
-(4)[1] Für Studenten anderer Studiengänge, die Informatik als Nebenfach wählen, sind die Prüfungs- und Studienordnungen ihres Studienganges maßgeblich.[2] In Zweifelsfällen empfiehlt sich eine frühzeitige Rücksprache mit den entsprechenden Studienfachberatern bzw. bei den betroffenen Lehrstühlen. 
+(4)<sup>1</sup> Für Studenten anderer Studiengänge, die Informatik als Nebenfach wählen, sind die Prüfungs- und Studienordnungen ihres Studienganges maßgeblich.<sup>2</sup> In Zweifelsfällen empfiehlt sich eine frühzeitige Rücksprache mit den entsprechenden Studienfachberatern bzw. bei den betroffenen Lehrstühlen. 
 
 (5) Die Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen richtet sich nach § 6 DiplPrOTF. 
 
@@ -220,13 +220,13 @@ sind Anfangs- und Abgabetermin jeweils vom betreuenden Hochschullehrer im Einver
 
 (1) Zu Beginn des Wintersemesters wird eine Einführungsveranstaltung für Studienanfänger durchgeführt. 
 
-(2)[1] Die Studienfachberatung wird in der Verantwortung der Hochschullehrer des Fachs Informatik durchgeführt.[2] Der Studienberater erteilt Auskünfte über allgemeine Fragen des Studiums der Informatik.[3] Für spezielle Fragen eines Fachgebietes wird an den entsprechenden Lehrstühlen Auskunft gegeben.[4] Die Studienberatung sollte insbesondere bei der Wahl des Schwerpunktfaches und des Nebenfaches sowie bei der Aufstellung des Prüfungsplans in Anspruch genommen werden. 
+(2)<sup>1</sup> Die Studienfachberatung wird in der Verantwortung der Hochschullehrer des Fachs Informatik durchgeführt.<sup>2</sup> Der Studienberater erteilt Auskünfte über allgemeine Fragen des Studiums der Informatik.<sup>3</sup> Für spezielle Fragen eines Fachgebietes wird an den entsprechenden Lehrstühlen Auskunft gegeben.<sup>4</sup> Die Studienberatung sollte insbesondere bei der Wahl des Schwerpunktfaches und des Nebenfaches sowie bei der Aufstellung des Prüfungsplans in Anspruch genommen werden. 
 
 (3) Die Studienkommission berät den Fachbereichsrat in Fragen von Studienplänen, Studien- und Prüfungsordnungen und über die organisatorische und inhaltliche Abstimmung bei Lehrveranstaltungen. 
 
 ## **§ 13 Schlussbestimmungen** 
 
-(1) Diese Studienordnung tritt am Tage ihrer Bekanntmachung in Kraft.[*)] 
+(1) Diese Studienordnung tritt am Tage ihrer Bekanntmachung in Kraft.<sup>*)</sup> 
 
 (2) _gegenstandslos_ . 
 

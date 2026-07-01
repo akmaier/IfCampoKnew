@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "FPOWiMathe 20200820 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20200820_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:52:21+00:00
-page_count_chars: 4034
+scraped_at: 2026-07-01T09:14:34+00:00
+page_count_chars: 4100
 ---
 
 # FPOWiMathe 20200820 ÄS.pdf
@@ -12,9 +12,9 @@ page_count_chars: 4034
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Wirtschaftsmathematik/Aenderungssatzungen/FPOWiMathe_20200820_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiMathe –** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Wirtschaftsmathematik an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOWiMathe –** 
 
-## **Vom 20. August 2020** 
+# **Vom 20. August 2020** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -28,23 +28,23 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang W
 
 3. In § 57 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die dritte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.[2] Abweichend von Satz 1 gelten die Änderungen in den Bachelor-Modulen Stochastische Modellbildung und Introduction to Statistics and Statistical Programming für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+„(3)<sup>1</sup> Die dritte Änderungssatzung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Abweichend von Satz 1 gelten die Änderungen in den Bachelor-Modulen Stochastische Modellbildung und Introduction to Statistics and Statistical Programming für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
-## 4. **Anlage 1b** wird wie folgt geändert: 
+4. **Anlage 1b** wird wie folgt geändert: 
 
-- a) Zeile 11 (Modul 8, Stochastische Modellbildung) wird wie folgt geändert: 
+   - a) Zeile 11 (Modul 8, Stochastische Modellbildung) wird wie folgt geändert: 
 
-   - aa) In Spalte 4 (Lehrveranstaltung) Unterzeile 3 (Tafelübung Stochastische Modellbildung) wird das Wort „Tafelübung“ durch das Wort „Tutorium“ ersetzt. 
+      - aa) In Spalte 4 (Lehrveranstaltung) Unterzeile 3 (Tafelübung Stochastische Modellbildung) wird das Wort „Tafelübung“ durch das Wort „Tutorium“ ersetzt. 
 
-   - bb) In Spalte 8 (Art und Umfang der Prüfung/Studienleistung) werden nach dem Wort „Min.“ die Worte „und Übungsleistung (unbenotet)“ angefügt. 
+      - bb) In Spalte 8 (Art und Umfang der Prüfung/Studienleistung) werden nach dem Wort „Min.“ die Worte „und Übungsleistung (unbenotet)“ angefügt. 
 
 1 
 
-- b) In Zeile 12 (Modul 9, Introduction to Statistics and Statictical Programming[1, 3, 4] ) Spalte 8 (Art und Umfang der Prüfung/Studienleistung) werden nach dem Wort „Min.“ die Worte „und Übungsleistung (unbenotet)“ angefügt. 
+- b) In Zeile 12 (Modul 9, Introduction to Statistics and Statictical Programming<sup>1, 3, 4</sup> ) Spalte 8 (Art und Umfang der Prüfung/Studienleistung) werden nach dem Wort „Min.“ die Worte „und Übungsleistung (unbenotet)“ angefügt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in den Bachelor-Modulen Stochastische Modellbildung und Introduction to Statistics and Statistical Programming für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.[4] Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Diese Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in den Bachelor-Modulen Stochastische Modellbildung und Introduction to Statistics and Statistical Programming für alle Studierenden, die sich bezogen auf die Modulprüfungen in diesen Modulen noch nicht in einem laufenden Prüfungsverfahren befinden (Erstversuch).<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden bezogen auf das Bachelorstudium letztmals im Wintersemester 2024/2025 und bezogen auf das Masterstudium letztmals im Wintersemester 2023/2024 angeboten.<sup>4</sup> Ab dem in Satz 3 jeweils genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 22. Juli 2020 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Friedrich Paulsen Friedrich Paulsen vom 20. August 2020. 
 

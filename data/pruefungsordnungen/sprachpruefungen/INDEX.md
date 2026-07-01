@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Sprachprüfungen"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:52:25+00:00
+scraped_at: 2026-07-01T11:14:26+00:00
 ---
 
 # Sprachprüfungen

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "12. April 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel-AeSa_12APRIL2002.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:52:36+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:14:17+00:00
+page_count_chars: 28030
 ---
 
 # 12. April 2002
@@ -12,487 +12,451 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/Sammel-AeSa_12APRIL2002.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+Satzung der Friedrich-Alexander-Universitat Erlangen-Niirnberg zur Anpassung der Priifungsordnungen an Art. 81 Abs. 3 Satz 6 Bayerisches Hochschulgesetz (BayHSchG) 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+7 
 
-### OCR Seite 1
+é . 
 
-```
-gelische Theologie an der Universität Erlangen-Nürnberg vom 15. Januar 1998 (KWMBI ITS.
-576) wird wie folgt geändert:
-a) In$ 5 Abs. 3 wird folgender Satz angefügt:
-;
-„Die Frist verlängert sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des $
->
-6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub
-nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubs-
-verordnung.“
-b)8 16 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„85 Abs. 3 Satz 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-2.
-Die Diplomprüfungsordnung für Evangelische Theologie der Friedrich-Alexander-Universität
-Erlangen-Nürnberg vom 9. August 2000 (KWMBI II S. 1171) wird wie folgt geändert:
-a) In $ 4 Abs. 3 erhält Satz 2 folgende Fassung:
-„Die Frist verlängert sich um
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und
-2. die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des 8 6 Abs. 1 des Mutterschutz-
-gesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1
-Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubsverordnung.“
-b) 8 21 wird wie folgt geändert:
-aa) In Absatz 3 wird nach Satz 2 folgender Satz eingefügt:
-„8 4 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-cc) Absatz 4 Satz 4 erhält folgende Fassung:
-„Absatz 3 Sätze 2 bis 4 gelten entsprechend.“
-3.
-Die Ordnung
-für den Grad eines Magisters der Theologie (Mag.
-theol.) der
-Friedrich-
-Alexander-Universität Erlangen-Nürnberg vom 13. Februar 1984 (KMBI
-II S. 102), zuletzt ge-
-ändert durch Satzung vom 4. April 2000 (KWMBI II S. 658), wird wie folgt geändert:
-a)in$ 4 Abs. 3 erhält Satz 2 folgende Fassung:
-„Die Frist verlängert sich um
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und
-j
-```
+Vom 12. April 2002 
 
-### OCR Seite 2
+Aufgrund von Art. 6 in Verbindung mit Art. 81 Abs. 3 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Friedrich-Alexander-Universitat Erlangen-Nurnberg folgende Satzung: 
 
-```
-6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub
-nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubs-
-verordnung.“
-b) In$ 21 Abs. 1 Satz 4 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz
-angefügt:
-„8 3 Abs. 4 Satz 3 gilt entsprechend.“
-5.
-Die
-Zwischenprüfungsordnung
-der
-Universität
-Erlangen-Nürnberg
-für
-den
-Studiengang
-Rechtswissenschaft vom 3. Juli 2000 (KWMBI II S. 1121) wird wie folgt geändert:
-a) In8& 5 Abs. 3 wird folgender Satz angefügt:
-„Die Frist nach Absatz 2 Satz 1 verlängert sich um die Inanspruchnahme der Schutzfristen des
-8 3 Abs. 2 und des $ 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung
-von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG),
-88 12 bis 15 Urlaubsverordnung.“
-b)8 10 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 3 wird folgender Satz eingefügt:
-„85 Abs. 3 Satz 5 gilt entsprechend.“
-bb) Der bisherige Satz 4 wird Satz 5.
-{
-6.
-Die Prüfungsordnung für den Diplomstudiengang Internationales Wirtschaftsrecht an der Uni-
-versität Erlangen-Nürnberg vom 13. Februar 2001 (KWMBI
-II 2002 S. 80 ), geändert durch
-Satzung vom 26. Juni 2001 (KWMBI II 2002 S. ..), wird wie folgt geändert:
-a) In 8 4 Abs. 3 wird folgender Satz angefügt:
-„Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des
-$ 3 Abs. 2 und des
-$ 6 Abs.
-1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b)8& 22 Abs. 1 wird wie folgt geändert:
-aa) Nach Satz 4 wird folgender Satz eingefügt:
-„84 Abs. 3 Satz 5 gilt entsprechend.“
-bb) Der bisherige Satz 5 wird Satz 6.
-7.
-Die
-Diplomprüfungsordnung
-für Studenten
-der
-Molekularen
-Medizin
-an
-der
-Friedrich-
-Alexander-Universität Erlangen-Nürnberg vom 7. Februar 2001 (KWMBI
-II 2002 S. 73) wird
-wie folgt geändert:
-a) In $ 3 Abs. 6 wird folgender Satz angefügt:
-„ Die Fristen nach Absatz 5 verlängern sich um die Inanspruchnahme der Schutzfristen des 8 3
-Abs. 2 und des $ 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von
-2
-```
+§1 
 
-### OCR Seite 3
+Die nachfolgend aufgeftihrten Priifungsordnungen der Friedrich-Alexander-Universitat ErlangenNiirnberg werden zur Anpassung an Art. 81 Abs. 3 Satz 6 BayHSchG wie folgt geandert: 1. Die Zwischenprifungsordnung flr die akademische Zwischenpriifung im Studiengang Evangelische Theologie an der Universitat Erlangen-Ntrnberg vom 15. Januar 1998 (KWMBI Il S. 576) wird wie folgt geandert: 
 
-```
-nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubs-
-verordnung.“
-b)8 16 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-|
-„8 3 Abs. 3 Satz 2 gilt entsprechend.“
-bb) Die bisherigen Sätze 3 und 4 werden Sätze 4 und 5.
-9.
-Die Prüfungsordnung der Universität Erlangen-Nürnberg für den Grad eines Magister Artium
-(Magisterprüfungsordnung-MagPO) vom 23. September 1982 (KMBl
-II S. 803), zuletzt geän-
-dert durch Satzung vom 31. Januar 2001 (KWMBI 11 2002 S. 110), wird wie folgt geändert:
-a) 8 5 Abs. 3 Satz 2 erhält folgende Fassung:
-„Die Frist nach Absatz 2 verlängert sich um
-1. die nach der Zwischenprüfungsordnung für die Wiederholung benötigten Semester und
-2. die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des 8 6 Abs. 1 des Mutterschutz-
-gesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1
-Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubsverordnung.“
-b)8 26 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 5 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-10.
-Die Prüfungsordnung
-für den Diplom-Studiengang
-Politikwissenschaft an der
-Friedrich-
-Alexander-Universität Erlangen-Nürnberg vom 29. Oktober 1997 (KWMBI II 1998 S. 190), zu-
-letzt geändert durch Satzung zur Änderung von Prüfungsordnungen der Universität Erlangen-
-Nürnberg vom 26. August 1999 (KWMBi II S. 981), wird wie folgt geändert:
-a) In$& 4 Abs. 4 wird folgender Satz angefügt:
-„Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des
-8 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b) 8 23 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8.4 Abs. 4 Satz 5 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-3
-```
+- a) In § 5 Abs. 3 wird folgender Satz angeftigt: 
 
-### OCR Seite 4
+"Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Uriaubsverordnung.” 
 
-```
-12.
-Die Prüfungsordnung für das Aufbaustudium Psychogerontologie an der Universität Erlangen-
-Nürnberg vom 20. Juni 1986 (KWMBi II S. 286), zuletzt geändert durch Satzung vom 26. Mai
-2000 (KWMBI II S. 981), wird wie folgt geändert:
-a)8& 3 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„Die Frist verlängert sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2
-und des 8 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von
-Erziehungsurlaub nach
-Art. 88 Abs.
-1
-Satz
-1
-Nr. 2 Bayerisches
-Beamtengesetz
-(BayBG), 88 12 bis 15 Urlaubsverordnung.“
-bb) Die bisherigen Sätze 3 und 4 werden Sätze 4 und 5.
-b) 8 25 wird wie folgt geändert:
-aa) In Absatz 2 wird nach Satz 2 folgender Satz eingefügt:
-„8 3 Abs. 3 Satz 3 gilt entsprechend.“
-bb) Absatz 2 Satz 3 (alt) wird Satz 4.
-cc) Absatz 4 Satz 2 Halbsatz 2 erhält folgende Fassung:
-„Absatz 2 gilt entsprechend.“
-i
-13.
-Die Prüfungsordnung für den Diplom-Studiengang Mathematik und den Bachelor-Studiengang
-Mathematik mit Schwerpunkt
-Informatik an der Friedrich-Alexander-Universität
-Erlangen-
-Nürnberg vom 15. Februar 1985 (KMBI II S. 118), zuletzt geändert durch Satzung vom 6. März
-2000 (KWMBI II S. 781), wird wie folgt geändert:
-a) In 8 14 Abs. 1 wird folgender Satz angefügt:
-„ Die Frist verlängert sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des $
-6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub
-nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubs-
-verordnung.“
-b)8 15 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 14 Abs. 1 Satz 4 gilt entsprechend.“
-bb) Die bisherigen Sätze 3 und 4 werden Sätze 4 und 5.
-) 8 23 Abs. 1 Satz 2 erhält folgende Fassung:
-„814 Abs. 1 Sätze 3 und 4 gelten entsprechend.“
-4
-```
+b) § 16 Abs. 3 wird wie folgt geandert: 
 
-### OCR Seite 5
+aa) Nach Satz 2 wird folgender Satz eingefligt: § 5 Abs. 3 Satz 2 gilt entsprechend.“ 
 
-```
-15.
-Die Diplomprüfungsordnung für Studenten der Technomathematik an der Naturwissenschaftli-
-chen
-Fakultät
-I
-(Mathematik und
-Physik)
-der
-Friedrich-Alexander-Universität
-Erlangen-
-Nürnberg vom 22. Februar 2000 (KWMBi II S. 769) wird wie folgt geändert:
-A
-a) In 18 Abs. 1 wird folgender Satz angefügt:
-„Die Frist verlängert sich um die Inanspruchnahme der Schutzfristen des 8 3 Abs. 2 und des &
-6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub
-nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubs-
-verordnung.“
-b)8 19 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 18 Abs. 1 Satz 4 gilt entsprechend.“
-bb) Die bisherigen Sätze 3 und 4 werden Sätze 4 und 5.
-c) 8 27 wird wie folgt geändert.
-aa) Absatz 1 Satz 2 erhält folgende Fassung:
-„8 18 Abs. 1 Sätze 3 und 4 gelten entsprechend.“
-bb) Absatz 3 erhält folgende Fassung:
-„8 18 Abs. 1 Satz 4, Abs. 2 und 3 gelten entsprechend.“
-\
-16.
-Die Prüfungsordnung für den Dipiomstudiengang Chemie an der Universität Erlangen-
-Nürnberg vom 9. Oktober 1991 (KWMBI
-II 1992 S. 22), zuletzt geändert durch Satzung zur
-Änderung von Prüfungsordnungen der Universität Erlangen-Nürnberg vom 26. August 1999
-(KWMBI II S. 981), wird wie folgt geändert:
-a) In 8 4 Abs. 4 wird folgender Satz angefügt:
-„Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des
-8 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), S$ 12 bis 15 Ur-
-laubsverordnung.“
-b)8 20 Abs. 2 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„84 Abs. 4 Satz 5 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-17.
-Die Diplomprüfungsordnung für Studenten der Biologie an der Friedrich-Alexander-Universität
-Erlangen-Nürnberg vom 16. Januar 1991 (KWMBI
-II S. 186), zuletzt geändert durch Satzung
-vom 15. August 2001 (KWMBI II S.........), wird wie folgt geändert:
-5
-```
+bb) Der bisherige Satz 3 wird Satz 4. 
 
-### OCR Seite 6
+2. Die Diplomprtifungsordnung fiir Evangelische Theologie der Friedrich-Alexander-Universitat Erlangen-Niirnberg vom 9. August 2000 (KWMBI II S. 1171) wird wie folgt geandert: 
 
-```
-18.
-Die Diplomprüfungsordnung für Studenten der Geographie mit Schwerpunkt Physische Geo-
-graphie an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 21. August 1990
-(KWMBI
-II S. 360), geändert durch Satzung zur Änderung von Prüfungsordnungen der Uni-
-versität Erlangen-Nürnberg vom 26. August 1999 (KWMBI II S. 981), wird wie folgt geändert:
-;
-a) & 3 Abs. 8 Satz 2 erhält folgende Fassung:
-5
-„Die Fristen verlängern sich um
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und
-2. die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des $ 6 Abs. 1 des Mutterschutz-
-gesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1
-Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubsverordnung.“
-b)& 24 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„g 3 Abs. 8 Satz 2 Nr. 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-19.
-Die Diplomprüfungsordnung
-für Studenten der Geologie-Paläontologie an der Friedrich-
-Alexander-Universität Erlangen-Nürnberg vom 13. August 1982 KMBl Il S. 741), zuletzt geän-
-dert durch Satzung zur Änderung von Prüfungsordnungen der Universität Erlangen-Nürnberg
-vom 26. August 1999 (KWMBI II S. 981), wird wie folgt geändert:
-a) 8 3 Abs. 7 Satz 2 erhält folgende Fassung:
-{
-„ Die Fristen verlängern sich um
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und
-2. die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des 8 6 Abs. 1 des Mutterschutz-
-gesetzes sowie der Fristen für die Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1
-Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Urlaubsverordnung.“
-b)S 23 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„83 Abs. 7 Satz 2 Nr. 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-20.
-Die Diplomprüfungsordnung
-für Studenten
-der Mineralogie an der Friedrich-Alexander-
-Universität Erlangen Nürnberg vom 27. Juli 1982 (KMBi II S. 712), zuletzt geändert durch Sat-
-zung zur Änderung von Prüfungsordnungen der Universität Erlangen-Nürnberg vom 26. Au-
-gust 1999 (KWMBI II S. 981), wird wie folgt geändert:
-a) $ 4 Abs. 4 Satz 2 erhält folgende Fassung:
-„ Die Fristen verlängern sich um
-1. für die Ablegung von Wiederholungsprüfungen benötigte Semester und
-6
-```
+a) In § 4 Abs. 3 erhalt Satz 2 folgende Fassung: 
 
-### OCR Seite 7
+Die Frist verlangert sich um 
 
-```
-„Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des 8 3 Abs. 2 und des
-8 6 Abs.
-1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs.
-1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 8$ 12 bis 15 Ur-
-laubsverordnung.“
-f
-b)$ 25 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 4 Abs. 4 Satz 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-22.
-Die Diplomprüfungsordnung für Studenten der Volkswirtschaftsiehre an der Wirtschafts- und
-Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
-25. November 1988 (KWMBI II 1989 S. 37), zuletzt geändert durch Satzung vom 21. Dezem-
-ber 2000 (KWMBI 11 2002
-........), wird wie folgt geändert:
-a) in 8 4 Abs. 4 wird folgender Satz angefügt:
-„ Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des
-&6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b)8 25 Abs. 3 wird wie folgt geändert:
-{
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„84 Abs. 4 Satz 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-23.
-Die Diplomprüfungsordnung für Studenten der Wirtschaftspädagogik an der Wirtschafts- und
-Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
-27. Dezember 1999 (KWMBI
-I! 2000 S. 706), geändert durch Satzung vom 21. Dezember
-2000 (KWMBI II 2002 S.........), wird wie folgt geändert:
-a) In8 4 Abs. 4 wird folgender Satz angefügt:
-„ Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des 8 3 Abs. 2 und des
-8 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b) 8 25 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 4 Abs. 4 Satz 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-7
-```
+1. fir die Ablegung von Wiederholungspriifungen bendtigte Semester und 
 
-### OCR Seite 8
+2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.* 
 
-```
-23.
-Die Diplomprüfungsordnung für Studenten der Sozialwissenschaften an der Wirtschafts- und
-Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg vom
-25. November 1988 (KWMBI II 1989 S. 43), zuletzt geändert durch Satzung vom 21. Dezem-
-ber 2000 (KWMBI II 2002 S
-........), wird wie folgt geändert:
-a) In8& 4 Abs. 4 wird folgender Satz angefügt:
-„Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des 8 3 Abs. 2 und des
-& 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b) 8 25 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 4 Abs. 4 Satz 2 gilt entsprechend“
-bb) Der bisherige Satz 3 wird Satz 4.
-26.
-Prüfungsordnung für den Diplom- und Masterstudiengang Internationale Betriebswirtschafts-
-lehre (International
-Business) der Wirtschafts- und Sozialwissenschaftliichen
-Fakultät der
-Friedrich-Alexander-Universität Erlangen-Nürnberg vom 29. Januar 1998 (KWMBI
-II S. 583),
-zuletzt geändert durch Satzung vom 22. September 2000 (KWMBi
-II 2001 S. 724), wird wie
-folgt geändert:
-Ä
-a) In8 4 Abs. 4 wird folgender Satz angefügt:
-”
-„Die Fristen nach den Absätzen 1 bis 3 verlängern sich um die Inanspruchnahme der Schutz-
-fristen des $ 3 Abs. 2 und des $ 6 Abs. 1 des Mufterschutzgesetzes sowie der Fristen für die
-Gewährung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz
-(BayBG), 88 12 bis 15 Urlaubsverordnung.“
-b) 8 25 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-„8 4 Abs. 4 Satz 2 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-27.
-Die Diplomprüfungsordnung für den Studiengang Internationalen Volkswirtschaftsiehre an der
-Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlan-
-gen-Nürnberg vom 9. Oktober 2000 (KWMBI 11 2001 S. 222) wird wie folgt geändert:
-a) In$ 4 Abs. 4 wird folgender Satz angefügt:
-„ Die Fristen verlängern sich um die Inanspruchnahme der Schutzfristen des $ 3 Abs. 2 und des
-& 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen für die Gewährung von Erziehungsur-
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88 12 bis 15 Ur-
-laubsverordnung.“
-b)8 25 Abs. 3 wird wie folgt geändert:
-8
-```
+b) § 21 wird wie folgt geandert: 
 
-### OCR Seite 9
+aa) in Absatz 3 wird nach Satz 2 foigender Satz eingeftigt: § 4 Abs. 3 Satz 2 Nr. 2 gilt entsprechend." 
 
-```
-(BayBG), $$ 12 bis 15 Urlaubsverordnung.“
-bb) Der bisherige Satz 3 wird Satz 4.
-b) in 8 25 Abs. 1 werden folgende Sätze angefügt:
-f
-„Die Wiederholungsprüfung muss innerhalb von sechs Monaten nach Mitteilung über das
-\
-Nichtbestehen abgelegt werden. “Die Frist wird durch Beurlaubung der Exmatrikulation nicht
-unterbrochen. °8 4 Abs. 3 Satz 3 gilt entsprechend. © Bei Versäumnis der Frist gilt die Ab-
-schlussprüfung als endgültig nicht bestanden, sofern nicht dem Studenten vom Prüfungsaus-
-schuss wegen besonderen, von ihm nicht zu vertretender Gründe eine Nachfrist gewährt
-wird.“
-29.
-Die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der
-Technischen Fakultät der Universität Erlangen-Nürnberg (DipIPrOTF) vom 17. Oktober 1972
-(KMBI 1973 S. 91), zuletzt geändert durch Satzung vom 23. Juli 2001 (KWMBI
-II S. ........),
-wird wie folgt geändert:
-a) in 8 7 Abs. 2 wird folgender Satz angefügt:
-„Die Frist nach Satz 1 verlängert sich um die Inanspruchnahme der Schutzfristen des & 3
-Abs. 2 und des $ 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen für die Gewährung von
-Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 88
-12 bis 15 Urlaubsverordnung.“
-b)$ 11 Abs. 1 wird wie folgt geändert:
-{
-aa) Nach Satz 4 wird folgender Satz eingefügt:
-j
-„8 7 Abs. 2 Satz 3 gilt entsprechend.“
-bb) Der bisherige Satz 5 wird Satz 6.
-c) 8 14 Abs. 3 wird wie folgt geändert:
-aa) Nach Satz 3 wird folgender Satz eingefügt:
-„8 7 Abs. 2 Satz 3 gilt entsprechend.“
-bb) Der bisherige Satz 4 wird Satz 5.
-d)8$ 19 Abs. 1 Satz 3 erhält folgende Fassung:
-„8 11 Abs, 1 Sätze 3 bis 6 gelten entsprechend.“
-30.
-Die Prüfungsordnung der Universität Erlangen-Nürnberg für die Diplomprüfung im Diplomstu-
-diengang Sportwissenschaft vom 8. Februar 1994 (KWMBI
-II S. 244), zuletzt geändert durch
-Satzung vom 24. April 2001 (KWMBIILS. .......), wird wie folgt geändert:
-a) In$ 3 Abs. 8 wird folgender Satz angefügt:
-„Die Fristen nach Satz 1 verlängern sich um die Inanspruchnahme der Schutzfristen des $ 3
-Abs. 2 und des $ 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen für die Gewährung von
-9
-```
+bb) Der bisherige Satz 3 wird Satz 4. 
 
-### OCR Seite 10
+cc) Absatz 4 Satz 4 erhalt folgende Fassung: ,,Absatz 3 Satze 2 bis 4 gelten entsprechend.“ 
 
-```
-laub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), 8$ 12 bis 15 Ur-
-laubsverordnung.“
-b) 8 23 Abs. 2 wird wie folgt geändert:
-;
-aa) Nach Satz 2 wird folgender Satz eingefügt:
-\
-„8 3 Abs. 2 Satz 4 gilt entsprechend.“
-bb) Der bisherige Satz 3 wird Satz 4.
-52
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 14. No-
-vember 2001
-und der Genehmigung des Bayerischen Staatsministeriums für Wissenschaft,
-For-
-schung und Kunst mit Schreiben vom 19. März 2002 Nr. X/4-5e65b-10b/53 391/01.
-Erlangen, den 12. April 2002
+3. Die Ordnung ftir den Grad eines Magisters der Theologie (Mag. theol.) der FriedrichAlexander-Universitat Erlangen-Nurnberg vom 13, Februar 1984 (KMBI II S. 102), zuletzt geandert durch Satzung vom 4. April 2000 (KWMBI II S. 658), wird wie foigt geandert: 
+
+a) In § 4 Abs. 3 erhalt Satz 2 folgende Fassung: 
+
+Die Frist verlangert sich um 
+
+1. flr die Ablegung von Wiederholungspriifungen bendtigte Semester und 
+
+1 
+
+( 
+
+2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen ftir dle Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 7 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 20 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: » § 4 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+- 4, Die Priifungsordnung flr den Ergaénzungsstudiengang Journalistik/Evangelische Publizistik an der Theologischen Fakultat der Universitat Erlangen-Nurnberg vom 20. August 1996 (KWMBI il S. 1152) wird wie folgt geandert: 
+
+a) In § 3 Abs. 4 wird folgender Satz angeflgt: » Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen ftir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+b) In § 21 Abs. 1 Satz 4 wird der Punkt durch ein Semikolon ersetzt und folgender Halbsatz angefiit: 
+
+»§ 3 Abs. 4 Satz 3 gilt enisprechend.“ 
+
+5. Die Zwischenpriifungsordnung der Universitat Erlangen-Nirnberg flr den Studiengang Rechtswissenschaft vom 3. Juli 2000 (KWMBI IIS. 1121) wird wie folgt geandert: 
+
+a) in § 5 Abs. 3 wird folgender Satz angeftigt: » Die Frist nach Absatz 2 Satz 1 verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgeseizes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 10 Abs. 2 wird wie folgt geandert: 
+
+aa) Nach Satz 3 wird folgender Satz eingeftigt: .’§ 5 Abs. 3 Satz 5 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 4 wird Satz 5. 
+
+6. Die Priifungsordnung fiir den Diplomstudiengang Internationales Wirtschaftsrecht an der Universitat Erlangen-NUrnberg vom 13. Februar 2001 (KWMBI Il 2002 S. 80 ), geandert durch Satzung vom 26. Juni 2001 (KWMBI Il 2002 S. ..), wird wie folgt geandert: a) in § 4 Abs. 3 wird folgender Satz angeftigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urjaubsverordnung.” 
+
+b) § 22 Abs. 1 wird wie folgt geandert: 
+
+aa) Nach Satz 4 wird folgender Satz eingeftgt: »§ 4 Abs. 3 Satz 5 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 5 wird Satz 6. 
+
+7. Die Diplomprtifungsordnung flr Studenten der Molekularen Medizin an der FriedrichAlexander-Universitat Erlangen-Nuimberg vom 7. Februar 2001 (KWMBI II 2002 S. 73) wird wie folgt geandert: 
+
+a) In § 3 Abs. 6 wird folgender Satz angeftigt: » Die Fristen nach Absatz 5 verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von 
+
+2 
+
+, 
+
+. 
+
+Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 18 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: »§ 3 Abs. 6 Satz 5 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+8. Die Zwischenpriifungsordnung der Universitat Erlangen-Nurnberg (ZwPO) vom 25. September 1980 (KWMBI II S. 269), zuletzt geandert durch Satzung vom 26. November 2001 (KWMBI II 2002 S.| .......), wird wie folgt geandert: 
+
+a) In § 3 Abs. 3 wird folgender Satz angeftigt: » Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+b) § 16 Abs. 2 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: .°§ 3 Abs. 3 Satz 2 gilt entsprechend." 
+
+bb) Die bisherigen Satze 3 und 4 werden Satze 4 und 5. 
+
+9. Die Priifungsordnung der Universitat Erlangen-Nirnberg fur den Grad eines Magister Artium (Magisterpriifungsordnung-MagPO) vom 23. September 1982 (KMBI Il S. 803), zuletzt geandert durch Satzung vom 31. Januar 2001 (KWMBI II 2002 S. 110), wird wie folgt geandert: 
+
+a) § 5 Abs. 3 Satz 2 erhalt folgende Fassung: » Die Frist nach Absatz 2 verlangert sich um 1. die nach der Zwischenpriifungsordnung fiir die Wiederholung bendtigten Semester und 2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen ftir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung." 
+
+b) § 26 Abs. 2 wird wie foigt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingefuigt: .§ 5 Abs. 3 Satz 2 Nr. 2 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+10. Die Priifungsordnung fiir den Diplom-Studiengang Politikwissenschaft an der FriedrichAlexander-Universitat Erlangen-Nurnberg vom 29. Oktober 1997 (KWMBI I! 1998 S. 190), zuletzt geandert durch Satzung zur Anderung von Prifungsordnungen der Universitat ErlangenNurnberg vom 26. August 1999 (KWMBI II S. 981), wird wie folgt geandert: a) In § 4 Abs. 4 wird folgender Satz angeftigt: .°Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 23 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftit: 8 4 Abs. 4 Satz 5 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+3 
+
+7 
+
+. 
+
+11. Die Diplomprtifungsordnung fir Studenten der Psychologie an der Friedrich-Alexander Universitat Erlangen-Nurnberg vom 23. Juli 1982 (KMBI Il S. 735), zuletzt geandert durch Satzung zur Anderung von Priifungsordnungen der Universitat Erlangen-Ndrnberg vom 26. August 1999 (KWMBI II S. 981), wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Satz angeftigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 23 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: °§ 4 Abs. 4 Satz 6 gilt entsprechend." 
+
+bb) Der bisherige Satz 3 wird Saiz 4. 
+
+12. Die Priifungsordnung fiir das Aufbaustudium Psychogerontologie an der Universitat ErlangenNurnberg vom 20. Juni 1986 (KWMBI II S. 286), zuletzt geandert durch Satzung vom 26. Mai 2000 (KWMBI II S. 981), wird wie folgt geandert: 
+
+a) § 3 Abs. 3 wird wie foigt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingefiigt: Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+bb) Die bisherigen Satze 3 und 4 werden Satze 4 und 5. 
+
+b) § 25 wird wie folgt geandert: 
+
+aa) In Absatz 2 wird nach Satz 2 folgender Saiz eingeftigt: .°§ 3 Abs. 3 Satz 3 gilt entsprechend.“ 
+
+bb) Absatz 2 Satz 3 (alt) wird Satz 4. 
+
+cc) Absatz 4 Saiz 2 Halbsatz 2 erhalt folgende Fassung: 
+
+»Absatz 2 gilt entsprechend.“ 
+
+13. Die Priifungsordnung flr den Diplom-Studiengang Mathematik und den Bachelor-Studiengang Mathematik mit Schwerpunkt Informatik an der Friedrich-Alexander-Universitat ErlangenNiirnberg vom 15. Februar 1985 (KMBI Il S. 118), zuletzt geandert durch Satzung vom 6. Marz 2000 (KWMBI II S. 781), wird wie folgt geandert: 
+
+a) In § 14 Abs. 1 wird folgender Satz angeftigt: » Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fur die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengeseiz (BayBG), §§ 12 bis 15 Urlaubsverordnung.* 
+
+b) § 15 Abs. 2 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: »§ 14 Abs. 1 Satz 4 gilt entsprechend.“ 
+
+bb) Die bisherigen Sadtze 3 und 4 werden Sdatze 4 und 5. 
+
+¢) § 23 Abs. 1 Satz 2 erhalt folgende Fassung: » § 14 Abs. 1 Satze 3 und 4 gelten entsprechend.“ 
+
+4 
+
+oo 
+
+14. Die Diplomprtifungsordnung fir Studenten der Physik an der Friedrich-Alexander-Universitat ; Erlangen-Nirnberg vom 22. Oktober 1981 (KMBI Il 1982 S. 157), zuletzt geandert durch Satzung vom 22. August 2000 (KWMBI Il 2001 S. 39), wird wie folgt geandert: 
+
+# a) § 5 Abs. 7 Satz 2 erhalt folgende Fassung: 
+
+» Die Frist verlangert sich um 
+
+1. fur die Ablegung der Wiederholungspritifungen bendtigte Semester und 
+
+2. die Inanspruchnahme der Schuitzfrist des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+## b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: § 5 Abs. 7 Satz 2 Nr. 2 gilt entsprechend.“ 
+
+bb) Die bisherigen Satze 3 und 4 werden Satze 4 und 5. 
+
+15. Die Diplompriifungsordnung ftir Studenten der Technomathematik an der Naturwissenschaftlichen Fakultét | (Mathematik und Physik) der Friedrich-Alexander-Universitaét ErlangenNiirnberg vom 22. Februar 2000 (KWMBI Il S. 769) wird wie folgt geandert: 
+
+a) in 18 Abs. 1 wird folgender Satz angeftigt: » Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+b) § 19 Abs. 2 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: . § 18 Abs. 1 Satz 4 gilt entsprechend.“ 
+
+bb) Die bisherigen Satze 3 und 4 werden Satze 4 und 5. 
+
+## C) § 27 wird wie folgt geandert. 
+
+- aa) Absatz 1 Satz 2 erhalt folgende Fassung: 78 18 Abs. 1 Sdtze 3 und 4 gelten entsprechend.“ 
+
+bb) Absatz 3 erhalt folgende Fassung: »§ 18 Abs. 1 Satz 4, Abs. 2 und 3 gelten entsprechend.“ 
+
+- 
+
+16. Die Prifungsordnung fiir den Diplomstudiengang Chemie an der Universitat ErlangenNurnberg vom 9. Oktober 1991 (KWMBI Il 1992 S. 22), zuletzt geandert durch Satzung zur Anderung von Prtifungsordnungen der Universitat Erlangen-Nurnberg vom 26. August 1999 (KWMBI Il S. 981), wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Satz angeftgt: ,» Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurjaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 20 Abs. 2 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeflit: . § 4 Abs. 4 Satz 5 gilt entsprechend.“ 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+17. Die Diplompriifungsordnung ftir Studenten der Biologie an der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 16. Januar 1991 (KWMBI Il S. 186), zuletzt geandert durch Satzung vom 15. August 2001 (KWMBI Il S.........), wird wie folgt geandert: 
+
+5 
+
+:* 
+
+i 
+
+## a) § 3 wird wie folgt geandert: 
+
+: 
+
+aa) Nach Absatz 6 wird folgender Absaiz eingeflgt: (7) Die Fristen nach den Absatzen 3 und 4 verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.* 
+
+## bb) Die bisherigen Absatze 7 und 8 werden Absaize 8 und 9. 
+
+- b) § 18 Abs. 2 wird wie folgt geaéndert: 
+
+aa) Nach Satz 2 wird folgender Satz eingefiict: § 3 Abs. 7 gilt entsprechend." 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+18. Die Diplompriifungsordnung fiir Studenten der Geographie mit Schwerpunkt Physische Geographie an der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 21. August 1990 (KWMBI Il S. 360), geandert durch Satzung zur Anderung von Priifungsordnungen der Universitat Erlangen-Niirnberg vom 26. August 1999 (KWMBI II S. 981), wird wie folgt geandert: 
+
+a) § 3 Abs. 8 Satz 2 erhalt folgende Fassung: » Die Fristen veriangern sich um 
+
+1. fir die Ablegung von Wiederholungspriifungen benétigte Semester und 
+
+2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.* 
+
+## b) § 24 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingefiigt: v8 3 Abs. 8 Satz 2 Nr. 2 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+19. Die Diplompriifungsordnung ftir Studenten der Geologie-Palaontologie an der FriedrichAlexander-Universitat Erlangen-Nurnberg vom 13. August 1982 KMBI il S. 741), zuletzt geandert durch Satzung zur Anderung von Priifungsordnungen der Universitat Erlangen-Nurnberg vom 26. August 1999 (KWMBI I! S. 981), wird wie folgt geandert: 
+
+a) § 3 Abs. 7 Satz 2 erhalt folgende Fassung: 
+
+» Die Fristen verlangern sich um 
+
+1. fir die Ablegung von Wiederholungspriifungen bendtigte Semester und 
+
+2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+b) § 23 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: »§ 3 Abs. 7 Satz 2 Nr. 2 gilt entsprechend." 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+20. Die Diplomprtifungsordnung fiir Studenten der Mineralogie an der Friedrich-AlexanderUniversitat Erlangen Nirnberg vom 27. Juli 1982 (KMBI IIS. 712), zuletzt geandert durch Satzung zur Anderung von Prifungsordnungen der Universitat Erlangen-Nurnberg vom 26. August 1999 (KWMBI Il S. 981), wird wie folgt geandert: 
+
+a) § 4 Abs. 4 Satz 2 erhalt folgende Fassung: » Die Fristen verlangern sich um 1. flir die Ablegung von Wiederholungsprifungen bendtigte Semester und 
+
+6 
+
+( 
+
+é 
+
+2. die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen ftir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingefigt: 8 4 Abs. 4 Satz 2 Nr. 2 gilt entsprechend.“ 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+21. Die Diplomprtfungsordnung flr Studenten der Betriebswirtschaftslehre an der Wirtschaijtsund Sozialwissenschaftlichen Fakultaét der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 25. November 1988 (KWMBI Il 1989 S. 30), zuletzt geandert durch Satzung vom 21. Dezember 2000 (KWMBI II 2002 S ........), wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Satz angefugt: » Die Fristen verlangern sich um die inanspruchnahme der Schuizfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fiir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingefiigt: 8 4 Abs. 4 Satz 2 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+22. Die Diplomprtfungsordnung ftir Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschafilichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 25. November 1988 (KWMBI Il 1989 S. 37), zuletzt geandert durch Satzung vom 21. Dezember 2000 (KWMBI II 2002S ........), wird wie folgt geandert: 
+
+a) in § 4 Abs. 4 wird folgender Satz angefiigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schuizfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flir die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+## b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: °§ 4 Abs. 4 Satz 2 gilt entsprechend." 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+23. Die Diplompriifungsordnung fir Studenten der Wirtschaftspadagogik an der Wirischafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nirnberg vom 27. Dezember 1999 (KWMBI I] 2000 S. 706), geandert durch Satzung vom 21. Dezember 2000 (KWMBI II 2002 S.........), wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Satz angeftigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Saiz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingefiigt: »§ 4 Abs. 4 Satz 2 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+7 
+
+é~ 
+
+- 24, Die Diplompriifungsordnung fur Studenten der Wirtschaftsinformatik an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-NUrnberg vom 5. September 1991 (KWMBI Il S. 814), zuletzt geandert durch Satzung vom 21. Dezember 2000 (KWMBI II 2002 S ........), wird wie folgt geandert: 
+
+a) in § 4 Abs. 4 wird folgender Satz angeftigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftgt: 8 4 Abs. 4 Satz 2 gilt entsprechend." 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+20. Die Diplomprtifungsordnung fir Studenten der Sozialwissenschaften an der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 25. November 1988 (KWMBI Il 1989 S. 43), zuletzt geandert durch Satzung vom 21. Dezember 2000 (KWMBI Il 2002S ........), wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Satz angeftigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schuizfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.” 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: 2 § 4 Abs. 4 Satz 2 gilt entsprechend.* 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+26. Priifungsordnung flir den Diplom- und Masterstudiengang internationale Betriebswirtschaftslehre (International Business) der Wirtschafts- und Sozialwissenschaftlichen Fakultat der Friedrich-Alexander-Universitat Erlangen-Nurnberg vom 29. Januar 1998 (KWMBI II S. 583), zuletzt geandert durch Satzung vom 22. September 2000 (KWMBI If 2001 S. 724), wird wie folgt geandert: 
+
+a) in § 4 Abs. 4 wird folgender Satz angefligt: » Die Fristen nach den Abs&tzen 1 bis 3 verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen fur die Gewéahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Uriaubsverordnung.“ b) § 25 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingefiigt: »§ 4 Abs. 4 Satz 2 gilt entsprechend." 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+27. Die Diplompriifungsordnung fiir den Studiengang Internationalen Volkswirtschaftsiehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultaét der Friedrich-Alexander-Universitat Erlangen-Nuirnberg vom 9. Oktober 2000 (KWMBI 11 2001 S. 222) wird wie folgt geandert: 
+
+a) In § 4 Abs. 4 wird folgender Saiz angefiigt: » Die Fristen verlangern sich um die Inanspruchnahme der Schuizfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie der Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 25 Abs. 3 wird wie folgt geandert: 
+
+8 
+
+“ 
+
+la . 
+
+; 
+
+aa) Nach Satz 2 wird folgender Satz eingefugt: »§ 4 Abs. 4 Satz 2 gilt entsprechend.“ 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+28. Die Priifungsordnung ftir die Abschlussprtifung im Aufbaustudiengang Internationale Wirtschafts- und Entwicklungspolitik an der Universitat Erlangen-Nurnberg (Postgraduiertenstudiengang) vom 28. Mai 1998 (KWMBI II S. 957), geandert durch Satzung vom .............. (KWMBI lS. ......), wird wie folgt geandert: 
+
+## a) § 4 Abs. 3 wird wie folgt gedndert: 
+
+aa) Nach Satz 2 wird folgender Saiz eingeftigt: ,Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+## bb) Der bisherige Satz 3 wird Satz 4. 
+
+b) in § 25 Abs. 1 werden folgende Saize angefligt: » Die Wiederholungsprtifung muss innerhalb von sechs Monaten nach Mitteilung Uber das Nichtbestehen abgelegt werden. ‘Die Frist wird durch Beurlaubung der Exmatrikulation nicht unterbrochen. °§ 4 Abs. 3 Satz 3 gilt entsprechend. ® Bei Versdumnis der Frist gilt die Abschlusspriifung als endglltig nicht bestanden, sofern nicht dem Studenten vom Priifungsausschuss wegen besonderen, von ihm nicht zu vertretender Griinde eine Nachfrist gewahrt wird.“ 
+
+29. Die Allgemeine Priifungsordnung fiir die Diplom-, Bachelor- sowie Masterprifungen an der Technischen Fakultét der Universitat Erlangen-Nurnberg (DiplIPrOTF) vom 17. Oktober 1972 (KMBI 1973 S. 91), zuletzt geandert durch Satzung vom 23. Juli 2001 (KWMBI II S. ........), wird wie folgt geandert: 
+
+a) in § 7 Abs. 2 wird folgender Satz angefigt: » Die Frist nach Satz 1 verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+## b) § 11 Abs. 1 wird wie folgt geandert: 
+
+i 
+
+- aa) Nach Satz 4 wird folgender Satz eingefligt: § 7 Abs. 2 Satz 3 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 5 wird Satz 6. 
+
+c) § 14 Abs. 3 wird wie folgt geandert: 
+
+- aa) Nach Satz 3 wird folgender Satz eingeftigt: »'§ 7 Abs. 2 Satz 3 gilt entsprechend." 
+
+bb) Der bisherige Satz 4 wird Satz 5. 
+
+d) § 19 Abs. 1 Satz 3 erhalt folgende Fassung: »§ 11 Abs. 1 Satze 3 bis 6 gelten entsprechend.“ 
+
+30. Die Priifungsordnung der Universitat Erlangen-Nurnberg flr die Diplomprifung im Diplomstudiengang Sportwissenschaft vom 8. Februar 1994 (KWMBI Il S. 244), zuletzt geandert durch Satzung vom 24. April 2001 (KWMBIIIS. .......), wird wie folgt geandert: 
+
+a) In § 3 Abs. 8 wird folgender Satz angeftigt: » Die Fristen nach Satz 1 verlangern sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen flr die Gewahrung von 
+
+9 
+
+. 
+
+; 
+
+Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urlaubsverordnung.“ 
+
+b) § 18 Abs. 2 wird wie folgt geandert: 
+
+- aa) Nach Satz 2 wird folgender Satz eingeftigt: .§ 3 Abs. 8 Satz 5 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+31. Die Priifungsordnung ftir den Masterstudiengang Multimedia-Didaktik an der Universitat Erlangen-Nurnberg vom 11. Dezember 2000 (KWMBI I] 2001 S. 339), gedndert durch Satzung vom 30. Januar 2002 (KWMBI II S........), wird wie folgt geandert: 
+
+a) In § 3 Abs. 2 wird folgender Satz angefiigt: » Die Frist verlangert sich um die Inanspruchnahme der Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des Mutterschutzgesetzes sowie die Fristen flr die Gewahrung von Erziehungsurlaub nach Art. 88 Abs. 1 Satz 1 Nr. 2 Bayerisches Beamtengesetz (BayBG), §§ 12 bis 15 Urjaubsverordnung.” 
+
+b) § 23 Abs. 2 wird wie folgt geandert: 
+
+aa) Nach Satz 2 wird folgender Satz eingeftigt: § 3 Abs. 2 Satz 4 gilt entsprechend.“ 
+
+bb) Der bisherige Satz 3 wird Satz 4. 
+
+§2 
+
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-NUrnberg vom 14. November 2001 und der Genehmigung des Bayerischen Staatsministeriums flr Wissenschaft, Forschung und Kunst mit Schreiben vom 19. Marz 2002 Nr. X/4-5e65b-10b/53 391/01. 
+
+Erlangen, den 12. April 2002 
 [Kontaktperson entfernt]
-Die Satzung wurde am 12. April 2002 in der Universität Erlangen-Nürnberg niedergelegt; die Nieder-
-legung wurde am 12. April 2002 durch Anschlag in der Universität Erlangen-Nürnberg bekanntgege-
-ben. Tag der Bekanntmachung ist der 12. April 2002.
-10
-```
+Die Satzung wurde am 12. April 2002 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 12. April 2002 durch Anschlag in der Universitat Erlangen-NUrnberg bekanntgegeben. Tag der Bekanntmachung ist der 12. April 2002. 
+
+10 
 

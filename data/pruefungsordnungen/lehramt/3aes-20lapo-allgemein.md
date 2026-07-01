@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "15. September 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LAPO-Allgemein.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/
-scraped_at: 2026-05-01T06:54:02+00:00
-page_count_chars: 6309
+scraped_at: 2026-07-01T08:30:29+00:00
+page_count_chars: 6353
 ---
 
 # 15. September 2011
@@ -12,13 +12,13 @@ page_count_chars: 6309
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/3AES%20LAPO-Allgemein.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/>
 
-**Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung an der Universität Erlangen-Nürnberg - LAPO -** 
+# **Dritte Satzung zur Änderung der Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung an der Universität Erlangen-Nürnberg - LAPO -** 
 
 Vom 15. September 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 und Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten Lehramtsprüfung an der Universität Erlangen-Nürnberg - LAPO - vom 23. Februar 2009, zuletzt geändert durch Satzung vom 28. März 2011, wird wie folgt geändert: 
 
@@ -30,7 +30,7 @@ Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten 
 
       - aa) Nach Satz 5 wird folgender neuer Satz 6 eingefügt: 
 
-      - „[6] Der Fakultätsrat bestimmt darüber hinaus für jedes Department einen Prüfungsbeauftragten oder eine Prüfungsbeauftragte sowie eine Stellvertreterin oder einen Stellvertreter; Sätze 3 und 4 gelten entsprechend.“ bb) Der bisherige Satz 6 wird zu Satz 7. 
+      - „<sup>6</sup> Der Fakultätsrat bestimmt darüber hinaus für jedes Department einen Prüfungsbeauftragten oder eine Prüfungsbeauftragte sowie eine Stellvertreterin oder einen Stellvertreter; Sätze 3 und 4 gelten entsprechend.“ bb) Der bisherige Satz 6 wird zu Satz 7. 
 
       - cc) In Satz 7 (neu) werden nach dem Wort „Prüfungsausschusses“ die Worte „oder dem oder der jeweiligen Prüfungsbeauftragten“ eingefügt. 
 
@@ -44,9 +44,9 @@ Die Studien- und Prüfungsordnung für die Modulprüfungen im Rahmen der Ersten 
 
    - b) Abs. 2 erhält folgende neue Fassung: 
 
-      - „(2)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen. 2Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von 
+      - „(2)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen. 2Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von 
 
-sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 3Bei der Anrechnung ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. 4Für die Bewertung von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.[5] Soweit Äquivalenzvereinbarungen in Bezug auf ausländische Leistungsnachweise nicht vorliegen, entscheidet der Prüfungsausschuss. 6Im Übrigen kann bei Zweifeln die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden.“ 
+sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 3Bei der Anrechnung ist kein schematischer Vergleich, sondern eine Gesamtbetrachtung und Gesamtbewertung vorzunehmen. 4Für die Bewertung von Studienzeiten, Modulen, Prüfungs- und Studienleistungen an ausländischen Hochschulen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften maßgebend.<sup>5</sup> Soweit Äquivalenzvereinbarungen in Bezug auf ausländische Leistungsnachweise nicht vorliegen, entscheidet der Prüfungsausschuss. 6Im Übrigen kann bei Zweifeln die Zentralstelle für ausländisches Bildungswesen bei der Ständigen Konferenz der Kultusminister der Länder gehört werden.“ 
 
    - c) Die Abs. 3 und 4 werden ersatzlos gestrichen, die Abs. werden angepasst. 
 
@@ -58,7 +58,7 @@ sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studie
 
       - cc) Es wird folgender neuer Satz 2 angefügt: 
 
-      - „[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.“ 
+      - „<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen.“ 
 
    - e) Abs. 4 (neu) wird wie folgt geändert: 
 
@@ -68,18 +68,18 @@ sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studie
 
 3. In Anlage 2 Ziffer I erhält die Tabelle Schulpädagogik folgende Fassung: 
 
-„ 
+<u>„</u> 
 
 |**Modul Schulpädagogik**|**Verwend-**<br>**barkeit**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzung**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-|VL: Schulpädagogik|GS/RS/GY|2|3|Keine|HA (15-20 S.) od.<br>Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
-|VL oder S: Planung von Lehr-<br>Lernprozessen|GS/RS/GY|2|3|Keine||
+|VL: Schulpädagogik|GS/RS/GY|2|3|Keine|HA (15-20 S.) od.<br>|
+|VL oder S: Planung von Lehr-<br>Lernprozessen|GS/RS/GY|2|3|Keine|Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
 |S: Vertiefung schulpädagogischer<br>Fragestellungen|GS/RS/GY|2|4|Keine|HA (15-20 S.) od.<br>Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
 
 |**Modul Schulpädagogik**|**Verwend-**<br>**barkeit**|**SWS**|**ECTS**|**Zulassungs-**<br>**voraussetzung**|**Prüfungsleistung**|
 |---|---|---|---|---|---|
-|VL: Schulpädagogik|HS|2|3|Keine|HA (15-20 S.) od.<br>Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
-|VL oder S: Planung von Lehr-<br>Lernprozessen|HS|2|3|Keine||
+|VL: Schulpädagogik|HS|2|3|Keine|HA (15-20 S.) od.<br>|
+|VL oder S: Planung von Lehr-<br>Lernprozessen|HS|2|3|Keine|Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
 |S: Vertiefung schulpädagogischer<br>Fragestellungen|HS|2|2|Keine|HA (15-20 S.) od.<br>Klausur (60 min)<br>od. mündl.<br>Prüfung (30 min)|
 
 „ 

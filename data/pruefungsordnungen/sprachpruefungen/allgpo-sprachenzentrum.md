@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 19.06.2017"
 pdf_source: https://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/sonstige_satzungen/AllgPO_Sprachenzentrum.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/sprachpruefungen/
-scraped_at: 2026-05-01T09:51:29+00:00
-page_count_chars: 51637
+scraped_at: 2026-07-01T11:12:43+00:00
+page_count_chars: 50783
 ---
 
 # PDF vom 19.06.2017
@@ -14,7 +14,7 @@ page_count_chars: 51637
 
 ## **Der Text dieser Studien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Allgemeine Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - APO/SprZ - Vom 19. Juni 2017** 
+# **Allgemeine Studien- und Prüfungsordnung für das Sprachenzentrum der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) - APO/SprZ - Vom 19. Juni 2017** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) folgende Studien- und Prüfungsordnung: 
 
@@ -38,8 +38,7 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 de
 |**§ 15 Anerkennung von Kompetenzen ............................................................................................ 8**|
 |**§ 16 Nachteilsausgleich ................................................................................................................ 9**|
 |**§ 17 Mängel im Prüfungsverfahren ............................................................................................. 10**|
-|**§ 18 Folgen eines verspäteten Rücktritt,  Täuschung, Ordnungsverstoß, Ausschluss von der**|
-|**weiteren Teilnahme ................................................................................................................... 10**|
+|**§ 18 Folgen eines verspäteten Rücktritt,  Täuschung, Ordnungsverstoß, Ausschluss von der**<br>**weiteren Teilnahme ................................................................................................................... 10**|
 |**§ 19 Ungültigkeit der Prüfung ..................................................................................................... 10**|
 |**§ 20 Einsicht in die Prüfungsakten ............................................................................................... 11**|
 |**II. Besonderer Teil: Hochschulfremdsprachenzertifikat UNIcert® .................................................. 11**|
@@ -63,37 +62,37 @@ Das Sprachenzentrum ist eine zentrale Einrichtung der FAU. Es bietet eine Fremds
 
 ## **§ 1 Geltungsbereich, Hochschulfremdsprachenzertifikat UNIcert®** 
 
-(1)[1] Diese Allgemeine Studien- und Prüfungsordnung regelt das Studium und die Prüfungen am Sprachenzentrum der FAU, insbesondere auch die Fremdsprachenausbildung, die mit dem Sprachzertifikat UNIcert® abschließt.[2] Für das Studium am Sprachenzentrum der FAU gilt die **Kostenbeitragsordnung** vom 1. Oktober 2004 in der jeweils geltenden Fassung. 
+(1)<sup>1</sup> Diese Allgemeine Studien- und Prüfungsordnung regelt das Studium und die Prüfungen am Sprachenzentrum der FAU, insbesondere auch die Fremdsprachenausbildung, die mit dem Sprachzertifikat UNIcert® abschließt.<sup>2</sup> Für das Studium am Sprachenzentrum der FAU gilt die **Kostenbeitragsordnung** vom 1. Oktober 2004 in der jeweils geltenden Fassung. 
 
-(2)[1] Prüfungen, die im Auftrag oder in Zusammenarbeit mit anderen Prüfungsanbietern abgehalten werden, richten sich nach den dafür geltenden Vorschriften.[2] Für am Sprachenzentrum zu belegende Kurse oder Module, die Bestandteil des Curriculums eines Studienganges sind, gilt die diesem Studiengang zugrundeliegende Prüfungsordnung vorrangig. 
+(2)<sup>1</sup> Prüfungen, die im Auftrag oder in Zusammenarbeit mit anderen Prüfungsanbietern abgehalten werden, richten sich nach den dafür geltenden Vorschriften.<sup>2</sup> Für am Sprachenzentrum zu belegende Kurse oder Module, die Bestandteil des Curriculums eines Studienganges sind, gilt die diesem Studiengang zugrundeliegende Prüfungsordnung vorrangig. 
 
 ## **§ 2 ECTS-Punkte, Modularisierung** 
 
 (1) Die Organisation von Studium und Prüfungen beruht auf dem European Credit Transfer and Accumulation System (ECTS). 
 
-(2)[1] Die Ausbildung erfolgt in Modulen, die mit ECTS-Punkten bewertet sind.[2] Die Module schließen mit einer Modulprüfung ab.[3] Die Zusammensetzung der Module und die dazugehörigen Prüfungsformen sind in der jeweils zugrundeliegenden Prüfungsordnung bzw. der Modulbeschreibungen des Sprachenzentrums geregelt. 
+(2)<sup>1</sup> Die Ausbildung erfolgt in Modulen, die mit ECTS-Punkten bewertet sind.<sup>2</sup> Die Module schließen mit einer Modulprüfung ab.<sup>3</sup> Die Zusammensetzung der Module und die dazugehörigen Prüfungsformen sind in der jeweils zugrundeliegenden Prüfungsordnung bzw. der Modulbeschreibungen des Sprachenzentrums geregelt. 
 
-(3)[1] Die Module schließen mit einer studienbegleitenden Modulprüfung ab.[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen.[4] ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Prüfung festgestellt wird.[5] Studienbegleitende Prüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls angeboten werden. 
+(3)<sup>1</sup> Die Module schließen mit einer studienbegleitenden Modulprüfung ab.<sup>2</sup> Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder Studienleistung bestehen.<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen oder Prüfungsteilen bzw. einer Kombination aus Prüfungs- und/oder Studienleistungen bestehen.<sup>4</sup> ECTS-Punkte werden nur für die erfolgreiche Teilnahme an Modulen vergeben, die aufgrund eigenständig erbrachter, abgrenzbarer Leistungen in einer Prüfung festgestellt wird.<sup>5</sup> Studienbegleitende Prüfungen sind solche, die während der Vorlesungszeit oder im Anschluss an die letzte Lehrveranstaltung eines Moduls angeboten werden. 
 
-(4)[1] Prüfungen (Prüfungs- und Studienleistungen) messen den Erfolg der Studierenden. 2Sie können schriftlich, elektronisch, mündlich oder in anderer Form erfolgen. 3Prüfungsleistungen werden benotet. 4Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken. 
+(4)<sup>1</sup> Prüfungen (Prüfungs- und Studienleistungen) messen den Erfolg der Studierenden. 2Sie können schriftlich, elektronisch, mündlich oder in anderer Form erfolgen. 3Prüfungsleistungen werden benotet. 4Bei Studienleistungen kann sich die Bewertung auf die Feststellung des Bestehens oder Nicht-Bestehens beschränken. 
 
 ## **§ 3 Einstufungstest** 
 
-1Studierende mit Vorkenntnissen müssen zur Feststellung des jeweiligen Kenntnisstands vor Aufnahme der sprachpraktischen Ausbildung einen Einstufungstest in der jeweiligen Sprache ablegen.[2] Das Ergebnis des Einstufungstests ist verbindlich für die Kurszulassung.[3] Ausgenommen hiervon sind Nachweise gemäß § 15 bzw. Studierende, die keine Vorkenntnisse in der gewählten Sprache besitzen. 
+1Studierende mit Vorkenntnissen müssen zur Feststellung des jeweiligen Kenntnisstands vor Aufnahme der sprachpraktischen Ausbildung einen Einstufungstest in der jeweiligen Sprache ablegen.<sup>2</sup> Das Ergebnis des Einstufungstests ist verbindlich für die Kurszulassung.<sup>3</sup> Ausgenommen hiervon sind Nachweise gemäß § 15 bzw. Studierende, die keine Vorkenntnisse in der gewählten Sprache besitzen. 
 
 2 
 
 ## **§ 4 Anmeldung, Vergabe der Kursplätze** 
 
-1Das Kursangebot des Sprachenzentrums wird mit Angabe des Kursortes, der Kursdaten und der vermittelten Inhalte zu Beginn jedes Semesters ortsüblich bekannt gemacht. 2Die Anmeldung zu den Kursen ist verpflichtend und erfolgt über die entsprechenden Anmeldesysteme zu den dort angegebenen Terminen.[3] Im System wird der Teilnahmestatus bekanntgegeben.[4] Die Vergabe der Kursplätze erfolgt nach Maßgabe der zuständigen Abteilungsleitung.[5] Ein Anspruch auf Teilnahme an einem bestimmten Kurs besteht nicht.[ 6] Die Teilnehmerzahl eines Kurses soll 25 nicht überschreiten. 
+1Das Kursangebot des Sprachenzentrums wird mit Angabe des Kursortes, der Kursdaten und der vermittelten Inhalte zu Beginn jedes Semesters ortsüblich bekannt gemacht. 2Die Anmeldung zu den Kursen ist verpflichtend und erfolgt über die entsprechenden Anmeldesysteme zu den dort angegebenen Terminen.<sup>3</sup> Im System wird der Teilnahmestatus bekanntgegeben.<sup>4</sup> Die Vergabe der Kursplätze erfolgt nach Maßgabe der zuständigen Abteilungsleitung.<sup>5</sup> Ein Anspruch auf Teilnahme an einem bestimmten Kurs besteht nicht.<sup>6</sup> Die Teilnehmerzahl eines Kurses soll 25 nicht überschreiten. 
 
 ## **§ 5 Anwesenheitspflicht** 
 
-(1)[1] Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.[2] Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
+(1)<sup>1</sup> Für entsprechend in der jeweiligen Modulbeschreibung gekennzeichnete Lehrveranstaltungen, in denen das Qualifikationsziel nicht anders als über die regelmäßige Teilnahme erreicht werden kann, kann als Voraussetzung für die Zulassung zur Modulprüfung bzw. für den Erwerb der Studienleistung eine Anwesenheitspflicht vorgesehen werden.<sup>2</sup> Eine Teilnahmeverpflichtung ist dann zulässig, wenn die Anwesenheit der bzw. des Einzelnen für den fachspezifischen Kompetenzerwerb aller Teilnehmerinnen und Teilnehmer erforderlich ist, der fachspezifische Kompetenzerwerb der bzw. des Einzelnen von der Anwesenheit der anderen Teilnehmerinnen und Teilnehmer abhängt, nur durch die Anwesenheit an einem bestimmten Ort erreicht werden kann oder zur Sicherheit der Teilnehmerinnen und Teilnehmer erforderlich ist. 
 
-(2)[1] Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.[2] Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.[3] Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(2)<sup>1</sup> Die Teilnahme ist dann regelmäßig, wenn in einer Lehrveranstaltung nicht mehr als 15 v. H. der Unterrichtszeit versäumt werden.<sup>2</sup> Werden zwischen mehr als 15 v. H. bis höchstens 30 v. H. der Unterrichtszeit versäumt, kann die bzw. der Lehrende der bzw. dem Studierenden anbieten, eine zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme kompetenzorientiert ausgestaltete Ersatzleistung zu erbringen; werden in diesem Fall keine Ersatzleistungen angeboten oder angebotene Ersatzleistungen von der bzw. dem Studierenden nicht erfüllt, so ist die Teilnahme nicht regelmäßig.<sup>3</sup> Werden insgesamt mehr als 30 v. H. der Unterrichtszeit versäumt, ist die Lehrveranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
-(3)[1] Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.[3] Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.[4] Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
+(3)<sup>1</sup> Im Rahmen von Exkursionen, Praktika und Blockseminaren ist abweichend von Abs. 2 die Teilnahme nur dann regelmäßig, wenn alle Unterrichtseinheiten besucht wurden. 2Für glaubhaft gemachte, nicht von der bzw. dem Studierenden zu vertretende Fehlzeiten im Umfang von bis zu 15 v. H. der Unterrichtszeit sind der bzw. dem Studierenden zur Erfüllung des Erfordernisses der regelmäßigen Teilnahme angemessene kompetenzorientiert ausgestaltete Ersatzleistungen anzubieten.<sup>3</sup> Werden mehr als 15 v. H. der Unterrichtszeit versäumt, so ist die Veranstaltung erneut zu belegen.<sup>4</sup> Bei der Ermittlung des Umfangs der Fehlzeiten sich ergebende Nachkommastellen sind zu Gunsten der Studierenden zu runden. 
 
 (4) Die Anwesenheit wird in den jeweiligen Lehrveranstaltungen mittels einer Teilnahmeliste, in die die bzw. der Studierende ihren bzw. seinen eigenen Namen samt Unterschrift einträgt, oder auf vergleichbare Weise festgestellt. 
 
@@ -105,9 +104,9 @@ Das Sprachenzentrum ist eine zentrale Einrichtung der FAU. Es bietet eine Fremds
 
 (2) Mit der Aufnahme eines Kurses gelten die Studierenden als zur zugehörigen Prüfung angemeldet, sofern alle Voraussetzungen für die Zulassung zur Prüfung erfüllt sind. 
 
-(3)[1] Bis zum Ende des dritten Werktages vor dem Prüfungstag ist ein Rücktritt von gemäß Abs. 2 angemeldeten schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.[3] Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 18 Abs. 1. 
+(3)<sup>1</sup> Bis zum Ende des dritten Werktages vor dem Prüfungstag ist ein Rücktritt von gemäß Abs. 2 angemeldeten schriftlichen und mündlichen Prüfungen ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> Die Erklärung des Rücktritts ist unwiderruflich; mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung.<sup>3</sup> Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach § 18 Abs. 1. 
 
-(4)[1] Abweichend von Abs. 3 ist ein Rücktritt von schriftlichen und mündlichen Prüfungen nach dem Ende des dritten Werktages vor dem Prüfungstag zulässig, sofern die bzw. der Studierende die Gründe hierfür nicht zu vertreten hat.[2] Die Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. 3Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.[4] Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei dem Prüfungsausschuss geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
+(4)<sup>1</sup> Abweichend von Abs. 3 ist ein Rücktritt von schriftlichen und mündlichen Prüfungen nach dem Ende des dritten Werktages vor dem Prüfungstag zulässig, sofern die bzw. der Studierende die Gründe hierfür nicht zu vertreten hat.<sup>2</sup> Die Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. 3Werden die Gründe anerkannt, so ist die Prüfung zum nächstmöglichen Termin abzulegen; bereits vorliegende Prüfungs- oder Studienleistungen werden anerkannt.<sup>4</sup> Eine vor oder während der Prüfung eingetretene Prüfungsunfähigkeit muss unverzüglich bei dem Prüfungsausschuss geltend gemacht werden; in Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
 
 (5) Bei regelmäßiger Teilnahme in einer Lehrveranstaltung kann auf Antrag eine Teilnahmebestätigung ohne Ausweisung einer Note und der ECTS-Punkte ausgestellt werden. 
 
@@ -121,23 +120,23 @@ Das Sprachenzentrum ist eine zentrale Einrichtung der FAU. Es bietet eine Fremds
 
 3. den entsprechenden Abteilungsleitungen. 
 
-3Der Prüfungsausschuss wählt eine Stellvertreterin bzw. einen Stellvertreter für die bzw. den Vorsitzenden.[4] Die bzw. der Vorsitzende des Prüfungsausschusses kann ihr bzw. ihm oder dem Prüfungsausschuss obliegende Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen. 
+3Der Prüfungsausschuss wählt eine Stellvertreterin bzw. einen Stellvertreter für die bzw. den Vorsitzenden.<sup>4</sup> Die bzw. der Vorsitzende des Prüfungsausschusses kann ihr bzw. ihm oder dem Prüfungsausschuss obliegende Aufgaben einem Mitglied des Prüfungsausschusses zur Erledigung übertragen. 
 
 (2) Das Sprachenzentrum bestellt eine hauptamtliche Mitarbeiterin bzw. einen hauptamtlichen Mitarbeiter zu der bzw. dem UNIcert®-Beauftragten. 
 
 (3) Die Amtszeit der Mitglieder des Prüfungsausschusses beträgt drei Jahre; eine Wiederbestellung ist möglich. 
 
-(4)[1] Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.[2] Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.[3] Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt oder die Prüfungsbeauftragten delegiert sind.[4] Der Prüfungsausschuss erlässt Bescheide in Prüfungsangelegenheiten, nachdem er die Bewertung der Prüfungsleistungen und ihre Rechtmäßigkeit geprüft hat. 5Er berichtet regelmäßig dem Vorstand des Sprachenzentrums über die Entwicklung der Prüfungen und Studienzeiten.[6] Die Mitglieder des Prüfungsausschusses haben das 
+(4)<sup>1</sup> Dem Prüfungsausschuss obliegt die Durchführung der Prüfungsverfahren, insbesondere die Planung und Organisation der Prüfungen.<sup>2</sup> Er achtet darauf, dass die Bestimmungen dieser Prüfungsordnung eingehalten werden.<sup>3</sup> Er trifft, mit Ausnahme der eigentlichen Prüfung und deren Bewertung als Aufgabe der Prüfenden, alle anfallenden Entscheidungen, soweit sie nicht an das Prüfungsamt oder die Prüfungsbeauftragten delegiert sind.<sup>4</sup> Der Prüfungsausschuss erlässt Bescheide in Prüfungsangelegenheiten, nachdem er die Bewertung der Prüfungsleistungen und ihre Rechtmäßigkeit geprüft hat. 5Er berichtet regelmäßig dem Vorstand des Sprachenzentrums über die Entwicklung der Prüfungen und Studienzeiten.<sup>6</sup> Die Mitglieder des Prüfungsausschusses haben das 
 
 4 
 
-Recht auf Anwesenheit bei der Abnahme der Prüfungen.[7] Zur Ausführung seiner Aufgaben bedient sich der Prüfungsausschuss des Prüfungsamtes. 
+Recht auf Anwesenheit bei der Abnahme der Prüfungen.<sup>7</sup> Zur Ausführung seiner Aufgaben bedient sich der Prüfungsausschuss des Prüfungsamtes. 
 
-(5)[1] Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.[2] Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.[3] Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.[4] Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
+(5)<sup>1</sup> Der Prüfungsausschuss ist beschlussfähig, wenn sämtliche Mitglieder schriftlich unter Einhaltung einer mindestens einwöchigen Ladungsfrist geladen sind und die Mehrheit der Mitglieder anwesend und stimmberechtigt ist.<sup>2</sup> Er beschließt mit der Mehrheit der abgegebenen Stimmen in Sitzungen.<sup>3</sup> Stimmenthaltung, geheime Abstimmung und Stimmrechtsübertragung sind nicht zulässig.<sup>4</sup> Bei Stimmengleichheit gibt die Stimme der bzw. des Vorsitzenden den Ausschlag. 
 
-(6)[1] Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.[2] Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.[3] Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
+(6)<sup>1</sup> Die bzw. der Vorsitzende beruft die Sitzungen des Prüfungsausschusses ein.<sup>2</sup> Sie bzw. er ist befugt, anstelle des Prüfungsausschusses unaufschiebbare Entscheidungen allein zu treffen.<sup>3</sup> Hiervon ist der Prüfungsausschuss unverzüglich in Kenntnis zu setzen. 4Darüber hinaus kann, soweit diese Prüfungsordnung nichts anderes bestimmt, der Prüfungsausschuss der bzw. dem Vorsitzenden die Erledigung einzelner Aufgaben widerruflich übertragen. 
 
-(7)[1] Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.[2] Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.[3] Aufgrund eines Beschlusses des Prüfungsausschusses können Notenbescheide jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.[4] Widerspruchsbescheide erlässt die Präsidentin bzw. der Präsident, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
+(7)<sup>1</sup> Bescheide in Prüfungsangelegenheiten, durch die jemand in seinen Rechten beeinträchtigt werden kann, bedürfen der Schriftform; sie sind zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.<sup>2</sup> Der bzw. dem Studierenden ist vor ablehnenden Entscheidungen Gelegenheit zur Äußerung zu geben.<sup>3</sup> Aufgrund eines Beschlusses des Prüfungsausschusses können Notenbescheide jeder bzw. jedem Einzelnen in elektronischer Form bekannt gegeben werden.<sup>4</sup> Widerspruchsbescheide erlässt die Präsidentin bzw. der Präsident, in fachlich-prüfungsrechtlichen Fragen im Einvernehmen mit dem Prüfungsausschuss und nach Anhörung der zuständigen Prüfenden. 
 
 ## **§ 8 Prüferinnen bzw. Prüfer und Beisitzerinnen bzw. Beisitzer** 
 
@@ -153,27 +152,27 @@ Die für die Prüfung zugelassenen Hilfsmittel werden ortsüblich bekannt gemach
 
 ## **§ 10 Wiederholung** 
 
-(1)[1] Nicht bestandene Prüfungen können zwei Mal wiederholt werden; die Wiederholung ist auf die nicht bestandenen Teilprüfungen / Prüfungsteile beschränkt.[2] Die Wiederholung bestandener Prüfungen ist ausgeschlossen.[3] Die Wiederholungsprüfungen müssen zum nächstmöglichen Termin abgelegt werden. 
+(1)<sup>1</sup> Nicht bestandene Prüfungen können zwei Mal wiederholt werden; die Wiederholung ist auf die nicht bestandenen Teilprüfungen / Prüfungsteile beschränkt.<sup>2</sup> Die Wiederholung bestandener Prüfungen ist ausgeschlossen.<sup>3</sup> Die Wiederholungsprüfungen müssen zum nächstmöglichen Termin abgelegt werden. 
 
 5 
 
-(2)[1] Die Frist zur Wiederholung wird durch Exmatrikulation oder Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann der Prüfungsausschuss eine Ausnahme vorsehen.[2] Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern die bzw. der Prüfende der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt; ein Rücktritt nach § 6 Abs. 4 ist nicht zulässig. 
+(2)<sup>1</sup> Die Frist zur Wiederholung wird durch Exmatrikulation oder Beurlaubung nicht unterbrochen; erfolgt die Beurlaubung aufgrund eines Auslandssemesters, kann der Prüfungsausschuss eine Ausnahme vorsehen.<sup>2</sup> Bei Versäumung der Wiederholung oder der Wiederholungsfrist gilt die Prüfung als nicht bestanden, sofern die bzw. der Prüfende der bzw. dem Studierenden nicht wegen besonderer, nicht selbst zu vertretender Gründe eine Nachfrist gewährt; ein Rücktritt nach § 6 Abs. 4 ist nicht zulässig. 
 
 (3) Die Frist nach Abs. 1 verlängert sich um die Inanspruchnahme der Schutzfristen entsprechend den §§ 3, 4, 6 und 8 des Gesetzes zum Schutz der erwerbstätigen Mutter (Mutterschutzgesetz – MuSchG) in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318) in der jeweils geltenden Fassung, der Fristen des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz – BEEG) vom 5. Dezember 2006 (BGBl. I S. 2748) in der jeweils geltenden Fassung sowie um Zeiten für die Pflege eines nahen Angehörigen im Sinne von § 7 Abs. 3 des Gesetzes über die Pflegezeit (Pflegezeitgesetz – PflegeZG) vom 28. Mai 2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung, der pflegebedürftig im Sinne der §§ 14, 15 des Elften Buches Sozialgesetzbuch (SGB XI) vom 26. Mai 1994 (BGBl. I S. 1014, 1015) in der jeweils geltenden Fassung ist. 
 
 ## **§ 11 Schriftliche Prüfung** 
 
-(1)[1] In der schriftlichen Prüfung sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln die für das geprüfte Niveau angemessene Sprachkompetenz in den schriftlichen Fertigkeiten und gegebenenfalls angemessenen Kenntnisse über das Zielland besitzen.[2] Schriftliche Prüfungen können in Form von Klausuren – die auch im elektronischen Verfahren nach § 13 durchgeführt werden können – abgehalten werden.[3] Die Prüfungsdauer für Klausuren beträgt zwischen 60 und 90 Minuten. 
+(1)<sup>1</sup> In der schriftlichen Prüfung sollen die Studierenden nachweisen, dass sie in begrenzter Zeit und mit begrenzten Hilfsmitteln die für das geprüfte Niveau angemessene Sprachkompetenz in den schriftlichen Fertigkeiten und gegebenenfalls angemessenen Kenntnisse über das Zielland besitzen.<sup>2</sup> Schriftliche Prüfungen können in Form von Klausuren – die auch im elektronischen Verfahren nach § 13 durchgeführt werden können – abgehalten werden.<sup>3</sup> Die Prüfungsdauer für Klausuren beträgt zwischen 60 und 90 Minuten. 
 
-(2)[1] Schriftliche Prüfungen werden grundsätzlich von einer bzw. einem Prüfenden bewertet.[2] Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie von einer bzw. einem zweiten Prüfenden des Sprachbereichs zu bewerten.[3] Wird eine Sprache nur durch eine bzw. einen Prüfenden vertreten, so kann bei der Zweitkorrektur auf externe Prüfende zurückgegriffen werden.[4] Die Bewertung richtet sich nach § 14.[5] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
+(2)<sup>1</sup> Schriftliche Prüfungen werden grundsätzlich von einer bzw. einem Prüfenden bewertet.<sup>2</sup> Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie von einer bzw. einem zweiten Prüfenden des Sprachbereichs zu bewerten.<sup>3</sup> Wird eine Sprache nur durch eine bzw. einen Prüfenden vertreten, so kann bei der Zweitkorrektur auf externe Prüfende zurückgegriffen werden.<sup>4</sup> Die Bewertung richtet sich nach § 14.<sup>5</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen. 
 
-(3)[1] Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt die nach § 2 Abs. 2 Satz 3 i. V. m. § 6 Abs. 1 jeweils einschlägige Prüfungsordnung bzw. das entsprechende Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.[5] Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.[6] Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.[7] Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.[8] Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.[9] Die Verminderung der Zahl der Prüfungsauf- 
+(3)<sup>1</sup> Klausuren können vollständig oder teilweise im Antwort-Wahl-Verfahren abgenommen werden (Single- und/oder Multiple-Choice-Prüfungen).<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-Wahl-Verfahren abgenommen werden, regelt die nach § 2 Abs. 2 Satz 3 i. V. m. § 6 Abs. 1 jeweils einschlägige Prüfungsordnung bzw. das entsprechende Modulhandbuch.<sup>3</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>4</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.<sup>5</sup> Bei der Aufstellung der Prüfungsaufgaben ist festzulegen, welche Antworten als zutreffend anerkannt werden.<sup>6</sup> Falls die Frage Mehrfachantworten verbietet, sind Mehrfachantworten unzulässig und werden nicht gewertet.<sup>7</sup> Die Prüfungsaufgaben sind durch mindestens zwei Aufgabenstellerinnen bzw. Aufgabensteller vor der Feststellung des Prüfungsergebnisses darauf zu überprüfen, ob sie gemessen an den Anforderungen des Satzes 4 fehlerhaft sind.<sup>8</sup> Ergibt diese Überprüfung, dass einzelne Prüfungsaufgaben fehlerhaft sind, sind diese bei der Feststellung des Prüfungsergebnisses nicht zu berücksichtigen; es ist von der verminderten Zahl der Prüfungsaufgaben auszugehen.<sup>9</sup> Die Verminderung der Zahl der Prüfungsauf- 
 
 6 
 
-gaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10] Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
+gaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.<sup>10</sup> Über die jeweilige Aufgabe hinaus dürfen keine Minuspunkte vergeben werden. 
 
-- (4)[1] Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
+- (4)<sup>1</sup> Prüfungen nach Abs. 3 Satz 1 gelten als bestanden, wenn 
 
 1. die bzw. der zu Prüfende insgesamt mindestens 60 Prozent der gestellten Prüfungsfragen zutreffend beantwortet hat bzw. 60 Prozent der zu erzielenden Punkte erreicht hat oder 
 
@@ -181,21 +180,21 @@ gaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10]
 
 2Wird Satz 1 Nr. 2 angewendet, ist die Abteilungsleiterin bzw. der Abteilungsleiter zu unterrichten. 
 
-(5)[1] Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil.[2] Bei Prüfungen, in denen der Anteil des Antwort-Wahl-Verfahrens nur einen untergeordneten Anteil (i.d.R. ca. 25 %) einnimmt, finden Absätze 3 und 4 keine Anwendung. 
+(5)<sup>1</sup> Bei schriftlichen Prüfungen, die nur teilweise im Antwort-Wahl-Verfahren abgenommen werden, gelten die Abs. 3 und 4 nur für diesen Teil.<sup>2</sup> Bei Prüfungen, in denen der Anteil des Antwort-Wahl-Verfahrens nur einen untergeordneten Anteil (i.d.R. ca. 25 %) einnimmt, finden Absätze 3 und 4 keine Anwendung. 
 
 ## **§ 12 Mündliche Prüfung** 
 
-(1)[1] In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die für das geprüfte Niveau angemessene Sprachkompetenz in den mündlichen Fertigkeiten und gegebenenfalls angemessenen Kenntnisse über das Zielland besitzen[2] Mündliche Prüfungen, mit Ausnahme von Referaten und Präsentationen, finden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestellt wird.[3] Die Prüfungsdauer beträgt für jede bzw. jeden Studierenden zwischen 10 und 30 Minuten.[4] Prüfungen in Form von Referaten und Präsentationen werden grundsätzlich von einer bzw. einem Prüfenden bewertet. 
+(1)<sup>1</sup> In den mündlichen Prüfungen sollen die Studierenden nachweisen, dass sie die für das geprüfte Niveau angemessene Sprachkompetenz in den mündlichen Fertigkeiten und gegebenenfalls angemessenen Kenntnisse über das Zielland besitzen<sup>2</sup> Mündliche Prüfungen, mit Ausnahme von Referaten und Präsentationen, finden in Anwesenheit einer Beisitzerin bzw. eines Beisitzers statt, die bzw. der von der bzw. dem Prüfenden bestellt wird.<sup>3</sup> Die Prüfungsdauer beträgt für jede bzw. jeden Studierenden zwischen 10 und 30 Minuten.<sup>4</sup> Prüfungen in Form von Referaten und Präsentationen werden grundsätzlich von einer bzw. einem Prüfenden bewertet. 
 
-(2)[1] Über die mündliche Prüfung, mit Ausnahme von Referaten und Präsentationen, ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse. 2Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet.[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.[4] Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
+(2)<sup>1</sup> Über die mündliche Prüfung, mit Ausnahme von Referaten und Präsentationen, ist ein Protokoll anzufertigen, in das aufzunehmen sind: Ort und Zeit sowie Zeitdauer der Prüfung, Gegenstand und Ergebnis der Prüfung, die Namen der Prüfenden, der Beisitzerin bzw. des Beisitzers und der bzw. des Studierenden sowie besondere Vorkommnisse. 2Das Protokoll wird von den prüfungsberechtigten Personen und der Beisitzerin bzw. dem Beisitzer unterzeichnet.<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.<sup>4</sup> Das Protokoll ist bei den Prüfungsakten mindestens zwei Jahre aufzubewahren. 
 
 ## **§ 13 Elektronische Prüfung** 
 
-1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt die nach § 2 Satz 3 i. V. m. § 6 jeweils einschlägige Prüfungsordnung bzw. das entsprechende Modulhandbuch.[3] Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen. 4Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen. 5Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden. 
+1Prüfungen können in elektronischer Form abgenommen werden. 2Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt die nach § 2 Satz 3 i. V. m. § 6 jeweils einschlägige Prüfungsordnung bzw. das entsprechende Modulhandbuch.<sup>3</sup> Elektronische Prüfungen (E-Prüfungen) sind Prüfungsverfahren, deren Durchführung und Auswertung durch computergestützte bzw. digitale Medien erfolgen. 4Die Authentizität und die Integrität der Prüfungsergebnisse sind sicherzustellen. 5Eine automatisiert erstellte Bewertung einer Prüfungsleistung soll auf Antrag der bzw. des betroffenen Studierenden von einer bzw. einem Prüfenden, im Fall einer nicht bestandenen Prüfung von zwei Prüfenden, überprüft werden. 
 
 7 
 
-|**§ 14 Bewertung von Prüfungsleistungen**<br>(1)1Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder<br>dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:<br>**sehrgut**<br>=(1,0 oder 1,3)<br>eine hervorragende Leistung;<br>**gut**<br>= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;<br>**befriedigend**<br>= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anfor-<br>derungen entspricht;<br>**ausreichend**<br>= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;<br>**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel<br>den Anforderungen nicht mehrgenügt.<br>|**§ 14 Bewertung von Prüfungsleistungen**<br>(1)1Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder<br>dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:<br>**sehrgut**<br>=(1,0 oder 1,3)<br>eine hervorragende Leistung;<br>**gut**<br>= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;<br>**befriedigend**<br>= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anfor-<br>derungen entspricht;<br>**ausreichend**<br>= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;<br>**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel<br>den Anforderungen nicht mehrgenügt.<br>|**§ 14 Bewertung von Prüfungsleistungen**<br>(1)1Die Urteile über die einzelnen Prüfungen werden von der jeweiligen Prüferin oder<br>dem jeweiligen Prüfer durch folgende Prädikate und Notenstufen ausgedrückt:<br>**sehrgut**<br>=(1,0 oder 1,3)<br>eine hervorragende Leistung;<br>**gut**<br>= (1,7 oder 2,0 oder 2,3)<br>eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;<br>**befriedigend**<br>= (2,7 oder 3,0 oder 3,3)<br>eine Leistung, die durchschnittlichen Anfor-<br>derungen entspricht;<br>**ausreichend**<br>= (3,7 oder 4,0)<br>eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;<br>**nicht ausreichend**<br>= (4,3 oder 4,7 oder 5,0)<br>eine Leistung, die wegen erheblicher Mängel<br>den Anforderungen nicht mehrgenügt.<br>|
+|(1)<sup>1</sup>Die Urteile üb<br>dem jeweiligen Prü|**§ 14 Bewertung von**<br>er die einzelnen Prüfung<br>fer durch folgende Prädi|**Prüfungsleistungen**<br>en werden von der jeweiligen Prüferin oder<br>kate und Notenstufen ausgedrückt:|
 |---|---|---|
 |**sehrgut**|=(1,0 oder 1,3)|eine hervorragende Leistung;|
 |**gut**|= (1,7 oder 2,0 oder 2,3)|eine Leistung, die erheblich über den durch-<br>schnittlichen Anforderungen liegt;|
@@ -203,9 +202,9 @@ gaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10]
 |**ausreichend**|= (3,7 oder 4,0)|eine Leistung, die trotz ihrer Mängel noch<br>den Anforderungen entspricht;|
 |**nicht ausreichend**<br>|= (4,3 oder 4,7 oder 5,0)<br>|eine Leistung, die wegen erheblicher Mängel<br>den Anforderungen nicht mehrgenügt.<br>|
 
-> ~~2~~ Eine benotete Prüfung (§ 2 Abs. 4 Satz 3) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.[3] Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.[4] Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 2 Abs. 3 Satz 3) bestanden sind.[5] Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten; das Notenschema des Satz 1 findet keine Anwendung.[6] Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
+> ~~2~~ Eine benotete Prüfung (§ 2 Abs. 4 Satz 3) ist bestanden, wenn sie mindestens mit der Note „ausreichend“ bewertet ist.<sup>3</sup> Das Bewertungsverfahren soll in der Regel sechs Wochen nicht überschreiten.<sup>4</sup> Eine Modulprüfung ist bestanden, wenn sämtliche Teilleistungen (§ 2 Abs. 3 Satz 3) bestanden sind.<sup>5</sup> Ist eine Prüfung von mehreren Prüfenden zu bewerten oder besteht sie aus mehreren Prüfungsteilen bzw. Teilleistungen, so ergibt sich die Note aus dem gewichteten Mittel der Einzelnoten; das Notenschema des Satz 1 findet keine Anwendung.<sup>6</sup> Bei der Ermittlung der Note wird eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen entfallen ohne Rundung. 
 
-(2) 1Prüfungen im Antwort-Wahl-Verfahren (Single- und / oder Multiple-ChoicePrüfungen) sind wie folgt zu bewerten:[2] Wer die für das Bestehen der Prüfung nach § 11 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw. die Mindestzahl der zu erzielenden Punkte erreicht, erhält die Note 
+(2) 1Prüfungen im Antwort-Wahl-Verfahren (Single- und / oder Multiple-ChoicePrüfungen) sind wie folgt zu bewerten:<sup>2</sup> Wer die für das Bestehen der Prüfung nach § 11 Abs. 4 Satz 1 erforderliche Mindestzahl zutreffend beantworteter Prüfungsfragen bzw. die Mindestzahl der zu erzielenden Punkte erreicht, erhält die Note 
 
 1,0 ("sehr gut"), wenn mindestens 75 Prozent, 
 
@@ -215,17 +214,17 @@ gaben darf sich nicht zum Nachteil einer bzw. eines zu Prüfenden auswirken.[10]
 
 4,0 ("ausreichend"), wenn keine oder weniger als 25 Prozent 
 
-der darüber hinaus gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet bzw. erreicht wurden.[3] Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen.[4] Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0. 5Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 11 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 festgesetzt werden.[6] Bei Prüfungen, in denen der Anteil des AntwortWahl-Verfahrens nur einen untergeordneten Anteil (i.d.R. ca. 25 %) einnimmt, richtet sich die Bewertung nach Absatz 1. 
+der darüber hinaus gestellten Prüfungsfragen bzw. der zu erzielenden Punkte zutreffend beantwortet bzw. erreicht wurden.<sup>3</sup> Die Noten können entsprechend dem prozentualen Anteil um 0,3 erhöht oder erniedrigt werden; die Noten 0,7, 4,3 und 4,7 sind dabei ausgeschlossen.<sup>4</sup> Wer nicht die erforderliche Mindestzahl erreicht, erhält die Note 5,0. 5Abweichend von Satz 3 können in den Fällen, in denen die Prüfung gemäß § 11 Abs. 5 teilweise im Antwort-Wahl-Verfahren durchgeführt wird, neben der Note 5,0 auch die Noten 4,3 und 4,7 festgesetzt werden.<sup>6</sup> Bei Prüfungen, in denen der Anteil des AntwortWahl-Verfahrens nur einen untergeordneten Anteil (i.d.R. ca. 25 %) einnimmt, richtet sich die Bewertung nach Absatz 1. 
 
 ## **§ 15 Anerkennung von Kompetenzen** 
 
-(1)[1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an dieser Universität oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an dieser Universität oder an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung anerkannt, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
 8 
 
-(2)[1] Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder außerhalb des Hochschulbereichs erworben wurden, werden anerkannt, soweit die festgestellten Kompetenzen gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 14 gebildet wurden.[2] Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 14 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
+(3)<sup>1</sup> Die Noten anerkannter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 14 gebildet wurden.<sup>2</sup> Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU anerkannter Prüfungen mit dem Notensystem des § 14 nicht überein, werden die Noten der anderen Hochschulen in der Regel nach der Formel 
 
 x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
 
@@ -237,17 +236,17 @@ Nmin = unterste Bestehensnote
 
 Nd = erzielte Note 
 
-umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+umgerechnet.<sup>3</sup> Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.<sup>4</sup> Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
-(4)[1] Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Vorbehaltlich der Regelung in Satz 3 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung. 3Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.[4] Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.[5] Die Entscheidung ergeht schriftlich. 
+(4)<sup>1</sup> Die für die Anerkennung erforderlichen Unterlagen sind der bzw. dem Vorsitzenden des Prüfungsausschusses vorzulegen.<sup>2</sup> Vorbehaltlich der Regelung in Satz 3 besteht bei Vorliegen der Voraussetzungen der Abs. 1 und 2 ein Rechtsanspruch auf Anerkennung. 3Eine Anerkennung ist nur möglich, soweit das entsprechende Prüfungsrechtsverhältnis an der FAU noch nicht durch das Bestehen oder endgültige Nichtbestehen der Prüfung beendet ist.<sup>4</sup> Die Entscheidung trifft die bzw. der Vorsitzende des Prüfungsausschusses auf Antrag der bzw. des Studierenden nach Anhörung der bzw. des vom zuständigen Fach benannten Fachvertreterin bzw. Fachvertreters.<sup>5</sup> Die Entscheidung ergeht schriftlich. 
 
 ## **§ 16 Nachteilsausgleich** 
 
-(1)[1] Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Fähigkeiten, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf. 
+(1)<sup>1</sup> Im Prüfungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die bzw. der Vorsitzende des Prüfungsausschusses gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen, wobei auf den Nachweis von Fähigkeiten, die zum Qualifikationsziel der abzulegenden Prüfung gehören, nicht verzichtet werden darf. 
 
 (2) Entsprechende, ihrer Situation angemessene Möglichkeiten sind Schwangeren zu eröffnen, wenn die betroffenen Studierenden bei dem zuständigen Prüfungsausschuss spätestens vier Wochen vor dem Prüfungstermin eine ärztliche Bescheinigung darüber vorlegen, dass sie sich zum Prüfungstermin mindestens in der 30. Schwangerschaftswoche befinden werden. 
 
-(3)[1] Entscheidungen nach den Absätzen 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses getroffen.[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Absatz 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.[3] Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zurichten. 
+(3)<sup>1</sup> Entscheidungen nach den Absätzen 1 und 2 werden nur auf schriftlichen Antrag hin von der bzw. dem Vorsitzenden des Prüfungsausschusses getroffen.<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Absatz 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst spätestens vier Wochen vor der Prüfung an den Prüfungsausschuss zurichten. 
 
 9 
 
@@ -261,9 +260,9 @@ umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Kom
 
 ## **§ 18 Folgen eines verspäteten Rücktritts, Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
 
-(1)[1] Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (§ 6 Abs. 3) ohne triftige Gründe zurücktritt; § 6 Abs. 4 bleibt unberührt.[2] Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.[3] Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.[4] In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
+(1)<sup>1</sup> Eine Prüfungsleistung gilt als mit „nicht ausreichend“ (5,0) bewertet, wenn die bzw. der Studierende von einem Prüfungstermin nach dem Ablauf der Rücktrittsfrist (§ 6 Abs. 3) ohne triftige Gründe zurücktritt; § 6 Abs. 4 bleibt unberührt.<sup>2</sup> Die für den Rücktritt oder die Verspätung geltend gemachten Gründe nach Satz 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.<sup>3</sup> Erkennt der Prüfungsausschuss die Gründe an, so wird ein neuer Termin anberaumt.<sup>4</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden. 
 
-(2)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.[2] Als Versuch im Sinne des Satz 1 gilt bereits der Besitz nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen. 
+(2)<sup>1</sup> Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Als Versuch im Sinne des Satz 1 gilt bereits der Besitz nicht zugelassener Hilfsmittel während oder nach Ausgabe der Prüfungsunterlagen. 
 
 (3) Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der Prüfungsleistung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ (5,0) bewertet. 
 
@@ -279,19 +278,19 @@ umgerechnet.[3] Bei den so berechneten Noten wird nur eine Stelle hinter dem Kom
 
 10 
 
-(4)[1] Die unrichtige Urkunde wird eingezogen; es wird gegebenenfalls eine neue Urkunde ausgestellt.[2] Eine Entscheidung nach Absätzen 1 und 2 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunde ausgeschlossen. 
+(4)<sup>1</sup> Die unrichtige Urkunde wird eingezogen; es wird gegebenenfalls eine neue Urkunde ausgestellt.<sup>2</sup> Eine Entscheidung nach Absätzen 1 und 2 ist nach einer Frist von fünf Jahren ab dem Ausstellungsdatum der Urkunde ausgeschlossen. 
 
 ## **§ 20 Einsicht in die Prüfungsakten** 
 
 (1) Nach Abschluss des einzelnen Prüfungsverfahrens erhält die bzw. der Studierende auf Antrag Einsicht in ihre bzw. seine schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüfenden und die Prüfungsprotokolle. 
 
-(2)[1] Der Antrag ist binnen eines Monats nach Notenbekanntgabe schriftlich bei der jeweiligen Abteilungsleitung zu stellen.[2] Wer ohne eigenes Verschulden verhindert war, diese Frist einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 Bayerisches Verwaltungsverfahrensgesetz in der jeweils geltenden Fassung entsprechend beantragen.[3] Die bzw. der Prüfende bestimmt Ort und Zeit der Einsichtnahme; Näheres regelt der Prüfungsausschuss. 
+(2)<sup>1</sup> Der Antrag ist binnen eines Monats nach Notenbekanntgabe schriftlich bei der jeweiligen Abteilungsleitung zu stellen.<sup>2</sup> Wer ohne eigenes Verschulden verhindert war, diese Frist einzuhalten, kann Wiedereinsetzung in den vorigen Stand nach Art. 32 Bayerisches Verwaltungsverfahrensgesetz in der jeweils geltenden Fassung entsprechend beantragen.<sup>3</sup> Die bzw. der Prüfende bestimmt Ort und Zeit der Einsichtnahme; Näheres regelt der Prüfungsausschuss. 
 
 ## **II. Besonderer Teil: Hochschulfremdsprachenzertifikat UNIcert®** 
 
 ## **§ 21 Allgemeine und Fachbezogene Fremdsprachenausbildung** 
 
-(1) ¹Die Fremdsprachenausbildung an der FAU kann mit dem Erwerb eines institutionsübergreifenden Hochschulfremdsprachenzertifikats (UNIcert®) abgeschlossen werden, soweit nichts anderes bestimmt ist.[2] Das Angebot der Fremdsprachenausbildung ist in der **Anlage** dargestellt. 
+(1) ¹Die Fremdsprachenausbildung an der FAU kann mit dem Erwerb eines institutionsübergreifenden Hochschulfremdsprachenzertifikats (UNIcert®) abgeschlossen werden, soweit nichts anderes bestimmt ist.<sup>2</sup> Das Angebot der Fremdsprachenausbildung ist in der **Anlage** dargestellt. 
 
 (2) ¹Die Fremdsprachenausbildung gliedert sich in die aufeinander aufbauenden Stufen UNIcert® Basis, UNIcert® Stufe I, UNIcert® Stufe II und UNIcert® Stufe III; der konkrete Umfang der Ausbildung ist sprachspezifisch in der **Anlage** festgelegt. ²Wer die sprachlichen Voraussetzungen durch Teilnahme an einem Einstufungstest nachweist, kann gemäß § 24 von maximal 50 % der jeweiligen Ausbildungsstufe befreit werden. 
 
@@ -347,17 +346,17 @@ Anforderungen eines Studien- und Arbeitsaufenthaltes in einem Lande der Zielspra
 
 2. eine Erklärung darüber, dass sie oder er die jeweilige Fremdsprachenprüfung nicht schon endgültig nicht bestanden hat. 
 
-(3)[1] Die Zulassung wird von der bzw. dem Vorsitzenden des Prüfungsausschusses ausgesprochen.[2] Die Zulassung kann nur versagt werden, wenn die Nachweise gemäß Abs. 2 nicht erbracht werden können oder die Bewerberin bzw. der Bewerber die Prüfung bereits endgültig nicht bestanden hat. 
+(3)<sup>1</sup> Die Zulassung wird von der bzw. dem Vorsitzenden des Prüfungsausschusses ausgesprochen.<sup>2</sup> Die Zulassung kann nur versagt werden, wenn die Nachweise gemäß Abs. 2 nicht erbracht werden können oder die Bewerberin bzw. der Bewerber die Prüfung bereits endgültig nicht bestanden hat. 
 
-(4)[1] Die Entscheidung über die Zulassung ist unverzüglich zu treffen und der Bewerberin bzw. dem Bewerber bekannt zu geben.[2] Eine Versagung der Zulassung ist der Bewerberin bzw. dem Bewerber schriftlich unter Angabe einer Begründung und einer Rechtsbehelfsbelehrung bekannt zu geben. 
+(4)<sup>1</sup> Die Entscheidung über die Zulassung ist unverzüglich zu treffen und der Bewerberin bzw. dem Bewerber bekannt zu geben.<sup>2</sup> Eine Versagung der Zulassung ist der Bewerberin bzw. dem Bewerber schriftlich unter Angabe einer Begründung und einer Rechtsbehelfsbelehrung bekannt zu geben. 
 
 (5) Die Termine der Prüfungen und die Prüfenden gibt das Sprachenzentrum gemäß § 23 Abs. 5 rechtzeitig ortsüblich bekannt. 
 
 ## **§ 26 Prüfungsdurchführung** 
 
-(1) ¹Die Fremdsprachenprüfungen aller Stufen bestehen jeweils aus einem schriftlichen und einem mündlichen Prüfungsteil. ²Die schriftlichen Prüfungen und die mündlichen Prüfungen sind möglichst im gleichen Semester, spätestens aber innerhalb zwei Semester abzulegen.[3] § 6 gilt entsprechend. 
+(1) ¹Die Fremdsprachenprüfungen aller Stufen bestehen jeweils aus einem schriftlichen und einem mündlichen Prüfungsteil. ²Die schriftlichen Prüfungen und die mündlichen Prüfungen sind möglichst im gleichen Semester, spätestens aber innerhalb zwei Semester abzulegen.<sup>3</sup> § 6 gilt entsprechend. 
 
-(2) ¹Auf den UNIcert®-Stufen Basis und UNIcert® I entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis der/s letzten für diese Ausbildungsstufe notwendigen Kurse/s; die mündliche Prüfung besteht aus einem 10-minütigen Gespräch. 2Auf der UNIcert®-Stufe II entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des Kurses/der Kurse, der/die für die schriftlichen Fertigkeiten in dieser Ausbildungsstufe relevant ist/sind.[3] Die mündliche Prüfung besteht aus einem 15minütigen Gespräch.[4] Auf der UNIcert®-Stufe II in Englisch entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des zur Zulassung notwendigen Level 2 Kurses mit schriftlicher Komponente; die mündliche Prüfungsleistung entspricht dem Leistungsnachweis des zur Zulassung obligatorischen Level 2 Kurses mit Hörverstehen und mündlicher Prüfung. 
+(2) ¹Auf den UNIcert®-Stufen Basis und UNIcert® I entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis der/s letzten für diese Ausbildungsstufe notwendigen Kurse/s; die mündliche Prüfung besteht aus einem 10-minütigen Gespräch. 2Auf der UNIcert®-Stufe II entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des Kurses/der Kurse, der/die für die schriftlichen Fertigkeiten in dieser Ausbildungsstufe relevant ist/sind.<sup>3</sup> Die mündliche Prüfung besteht aus einem 15minütigen Gespräch.<sup>4</sup> Auf der UNIcert®-Stufe II in Englisch entspricht die schriftliche Prüfungsleistung dem Leistungsnachweis des zur Zulassung notwendigen Level 2 Kurses mit schriftlicher Komponente; die mündliche Prüfungsleistung entspricht dem Leistungsnachweis des zur Zulassung obligatorischen Level 2 Kurses mit Hörverstehen und mündlicher Prüfung. 
 
 (3) Für die Fremdsprachenprüfung UNIcert® III sind folgende Prüfungsleistungen zu erbringen: 
 
@@ -375,7 +374,7 @@ b) einem 20 minütigen Prüfungsgespräch.
 
 ## **§ 27 Prüfungsergebnisse und Zeugnisse** 
 
-(1) ¹Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet. ²Die Gesamtnote der Prüfungen UNIcert® Basis, UNIcert® I und UNIcert® II errechnet sich aus dem Durchschnitt der dreifach gewichteten Prüfungsleistung nach § 26 Abs. 2 Satz 1 Halbsatz 1 und der einfach gewichteten Prüfungsleistung nach § 26 Abs. 2 S. 1 Halbsatz 2.[3] Abweichend von Satz 2 errechnet sich die Gesamtnote UNIcert® II Englisch aus dem Durchschnitt aus mündlichem und schriftlichem Prüfungsteil.[4] Die Gesamtnote der Prüfungen UNIcert® III gemäß § 26 Abs. 3 errechnet sich aus dem Durchschnitt des schriftlichen und des mündlichen Prüfungsteils.[ 5] Bei der Berechnung der Gesamtnoten nach den Sätzen 1 bis 4 gehen die Einzelnoten ohne vorherige Rundung in die Berechnung ein.[6] Die Gesamtnote lautet: 
+(1) ¹Zur Ermittlung des Gesamtergebnisses der Prüfungen wird eine Gesamtnote gebildet. ²Die Gesamtnote der Prüfungen UNIcert® Basis, UNIcert® I und UNIcert® II errechnet sich aus dem Durchschnitt der dreifach gewichteten Prüfungsleistung nach § 26 Abs. 2 Satz 1 Halbsatz 1 und der einfach gewichteten Prüfungsleistung nach § 26 Abs. 2 S. 1 Halbsatz 2.<sup>3</sup> Abweichend von Satz 2 errechnet sich die Gesamtnote UNIcert® II Englisch aus dem Durchschnitt aus mündlichem und schriftlichem Prüfungsteil.<sup>4</sup> Die Gesamtnote der Prüfungen UNIcert® III gemäß § 26 Abs. 3 errechnet sich aus dem Durchschnitt des schriftlichen und des mündlichen Prüfungsteils.<sup>5</sup> Bei der Berechnung der Gesamtnoten nach den Sätzen 1 bis 4 gehen die Einzelnoten ohne vorherige Rundung in die Berechnung ein.<sup>6</sup> Die Gesamtnote lautet: 
 
 bei einem Durchschnitt bis 1,50 = "sehr gut" bei einem Durchschnitt über 1,50 bis 2,50 = "gut" bei einem Durchschnitt über 2,50 bis 3,50 = "befriedigend" bei einem Durchschnitt über 3,50 bis 4,00 = "ausreichend" bei einem Durchschnitt über 4,00 = "nicht ausreichend". 
 
@@ -393,7 +392,7 @@ bei einem Durchschnitt bis 1,50 = "sehr gut" bei einem Durchschnitt über 1,50 b
 
 ## **§ 28 Inkrafttreten** 
 
-(1)[1] Diese Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für Studierende, die das Studium ab dem Sommersemester 2017 aufnehmen. 
+(1)<sup>1</sup> Diese Prüfungsordnung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für Studierende, die das Studium ab dem Sommersemester 2017 aufnehmen. 
 
 (2) Gleichzeitig tritt die Prüfungsordnung der Universität Erlangen-Nürnberg für die Allgemeine und die Fachbezogene Fremdsprachenprüfung (UNIcert® Basis, UNIcert® I – III) vom 28. Juni 2013 außer Kraft. 
 
@@ -403,41 +402,41 @@ bei einem Durchschnitt bis 1,50 = "sehr gut" bei einem Durchschnitt über 1,50 b
 
 1. In den folgenden Sprachen orientiert sich die Sprachausbildung am Konzept des hochschulübergreifenden Sprachzertifikats UNIcert® Basis und UNIcert® I: Arabisch, Chinesisch, Französisch, Italienisch, Neugriechisch, Niederländisch, Polnisch, Portugiesisch, Russisch, Schwedisch, Spanisch, Tschechisch, Türkisch 
 
-2.[1] In den folgenden Sprachen orientiert sich die Sprachausbildung am Konzept des hochschulübergreifenden Sprachzertifikats UNIcert® II: Englisch, Französisch, Italienisch, Neugriechisch, Niederländisch, Portugiesisch, Russisch, Schwedisch und Spanisch. 
+2.<sup>1</sup> In den folgenden Sprachen orientiert sich die Sprachausbildung am Konzept des hochschulübergreifenden Sprachzertifikats UNIcert® II: Englisch, Französisch, Italienisch, Neugriechisch, Niederländisch, Portugiesisch, Russisch, Schwedisch und Spanisch. 
 
    - 2Eine Differenzierung der  Fremdsprachenausbildung  UNIcert® II nach fachlicher Ausrichtung erfolgt in den folgenden Sprachen: Englisch, Italienisch, Russisch und Spanisch. 
 
-3.[1] Die Fremdsprachenprüfung UNIcert® III kann derzeit in den folgenden Sprachen abgelegt werden: 
+3.<sup>1</sup> Die Fremdsprachenprüfung UNIcert® III kann derzeit in den folgenden Sprachen abgelegt werden: 
 
    - Englisch, Französisch, Italienisch, Portugiesisch, Russisch und Spanisch. 
 
    - 2Eine Differenzierung der Fremdsprachenausbildung UNIcert® III nach fachlicher Ausrichtung erfolgt in den folgenden Sprachen: Englisch, Französisch, Italienisch, Portugiesisch, Russisch und Spanisch. 
 
-4.[1] Aus der folgenden Tabelle wird das Angebot der einzelnen Sprachen und der entsprechenden Stufen und Fachrichtungen ersichtlich. 2Ein allgemeines Kursangebot von Anfängerkursen ab initio bis zum Abschluss der UNIcert® Stufe III besteht wie folgt: 
+4.<sup>1</sup> Aus der folgenden Tabelle wird das Angebot der einzelnen Sprachen und der entsprechenden Stufen und Fachrichtungen ersichtlich. 2Ein allgemeines Kursangebot von Anfängerkursen ab initio bis zum Abschluss der UNIcert® Stufe III besteht wie folgt: 
 
-||**UNIcert®**<br>**BASIS**|**UNIcert® I**|**UNIcert® II**||**UNIcert® III**|||
-|---|---|---|---|---|---|---|---|
-||||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**||**Fachbezogene**<br>**Ausrichtung**|
-|Arabisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Chinesisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Englisch|kein Angebot|kein<br>Angebot|8 SWS<br>(2 Module à 4<br>SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung<br>Technik,<br>Naturwiss.|8 SWS||8  SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Technik, Naturwissen-<br>schaft|
-|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS||8  SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Kultur u. Geisteswiss.|
-|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8  SWS<br>Fachrichtungen:<br>Recht,<br>Kultur<br>u.<br>Geisteswiss.,<br>Wirtschaft|
-|Neugriechisch|8 SWS|8 SWS|10 SWS|kein Angebot|kein Angebot||kein Angebot|
-|Niederländisch|kein Angebot|8 SWS|6 SWS|kein Angebot|kein Angebot||kein Angebot|
-|Polnisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Portugiesisch|8 SWS|4 SWS|8 SWS|8 SWS|kein Angebot||8  SWS<br>Fachrichtung: Wirtschaft|
-|Russisch|8 SWS|8 SWS|10 SWS|10 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtung: Wirtschaft|
-|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot||kein Angebot|
-|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS||8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss.,<br>Medizin, Wirtschaft|
-|Tschechisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
-|Türkisch|12 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot||kein Angebot|
+||**UNIcert®**<br>|**UNIcert® I**|**UNIcert® II**||**UNIcert® III**||
+|---|---|---|---|---|---|---|
+||**BASIS**||**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|**Allgemeine**<br>**Ausrichtung**|**Fachbezogene**<br>**Ausrichtung**|
+|Arabisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Chinesisch|12 SWS|8 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Englisch|kein Angebot|kein<br>Angebot|8 SWS<br>(2 Module à 4<br>SWS)|8 SWS<br>(2 Module à 4 SWS)<br>Fachrichtung<br>Technik,<br>Naturwiss.|8 SWS|8  SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Technik, Naturwissen-<br>schaft|
+|Französisch|8 SWS|4 SWS|8 SWS|8 SWS|8 SWS|8  SWS<br>Fachrichtungen:Wirt-<br>schaft, Recht, Medizin,<br>Kultur u. Geisteswiss.|
+|Italienisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8  SWS<br>Fachrichtungen:<br>Recht,<br>Kultur<br>u.<br>Geisteswiss.,<br>Wirtschaft|
+|Neugriechisch|8 SWS|8 SWS|10 SWS|kein Angebot|kein Angebot|kein Angebot|
+|Niederländisch|kein Angebot|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|
+|Polnisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Portugiesisch|8 SWS|4 SWS|8 SWS|8 SWS|kein Angebot|8  SWS<br>Fachrichtung: Wirtschaft|
+|Russisch|8 SWS|8 SWS|10 SWS|10 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtung: Wirtschaft|
+|Schwedisch|8 SWS|4 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|
+|Spanisch|8 SWS|4 SWS|8 SWS|8 SWS (Wirtschaft)|8 SWS|8 SWS<br>Fachrichtungen:Recht,<br>Kultur u. Geisteswiss.,<br>Medizin, Wirtschaft|
+|Tschechisch|8 SWS|6 SWS|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
+|Türkisch|12 SWS|kein<br>Angebot|kein Angebot|kein Angebot|kein Angebot|kein Angebot|
 
 15 
 
-5.[1] In den folgenden Sprachen kann die Elementare Fremdsprachenprüfung abgelegt werden.[2] Sie sind jedoch nicht UNIcert®-akkreditiert. 
+5.<sup>1</sup> In den folgenden Sprachen kann die Elementare Fremdsprachenprüfung abgelegt werden.<sup>2</sup> Sie sind jedoch nicht UNIcert®-akkreditiert. 
 
-**Sprache** Dänisch Finnisch Isländisch Japanisch Koreanisch Kroatisch Norwegisch Rumänisch Swahili 
+**<u>Sprache</u>** <u>Dänisch Finnisch Isländisch Japanisch Koreanisch Kroatisch Norwegisch Rumänisch Swahili</u> 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 24. Mai 2017 und der Genehmigungsfeststellung des Präsidenten Prof. Dr.-Ing. Joachim Hornegger vom 14. Juni 2017. 
 

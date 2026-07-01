@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Geowissenschaften FPO BAMA Geow 20200604 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/Aenderungssatzungen/BSc-MSc_Geowissenschaften_FPO_BAMA_Geow_20200604_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/
-scraped_at: 2026-05-01T07:40:28+00:00
-page_count_chars: 3727
+scraped_at: 2026-07-01T09:06:13+00:00
+page_count_chars: 3710
 ---
 
 # BSc-MSc Geowissenschaften FPO BAMA Geow 20200604 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 3727
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Geowissenschaften/Aenderungssatzungen/BSc-MSc_Geowissenschaften_FPO_BAMA_Geow_20200604_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/>
 
-## **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow –** 
+# **Erste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPO BAMA Geow –** 
 
-## **Vom 4. Juni 2020** 
+# **Vom 4. Juni 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 i. V. m. Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenschaften (B.Sc.) und den Masterstudiengang Geowissenschaften (M.Sc.) an der Naturwissenschaftlichen Fakultät der FAU – FPO BAMA Geow – vom 28. Oktober 2019 wird wie folgt geändert: 
 
@@ -32,23 +32,23 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
       - cc) Der sechste Aufzählungspunkt erhält folgende neue Fassung: 
 
-## „Climate and Earth Systems (CES)“. 
+„Climate and Earth Systems (CES)“. 
 
-   - b) In Satz 2 werden nach dem Wort „Studienrichtung“ die Worte „Climate and“ eingefügt und nach dem Wort „Systems“ die Worte mit Klammerzusatz „Research Lab (RL)“ durch den Klammerzusatz „(CES)“ ersetzt. 
+- b) In Satz 2 werden nach dem Wort „Studienrichtung“ die Worte „Climate and“ eingefügt und nach dem Wort „Systems“ die Worte mit Klammerzusatz „Research Lab (RL)“ durch den Klammerzusatz „(CES)“ ersetzt. 
 
-2. § 52 Abs. 3 wird in der Aufzählung Nr. 6 wie folgt geändert: 
+# 2. § 52 Abs. 3 wird in der Aufzählung Nr. 6 wie folgt geändert: 
 
-      - a) Nach dem Wort „Nebenstudienrichtung“ werden die Worte „Climate and“ eingefügt. 
+- a) Nach dem Wort „Nebenstudienrichtung“ werden die Worte „Climate and“ eingefügt. 
 
-      - b) Nach den Worten „Earth Systems“ werden die Worte mit Klammerzusatz „Research Lab (RL)“ durch den Klammerzusatz „(CES)“ ersetzt. 
+- b) Nach den Worten „Earth Systems“ werden die Worte mit Klammerzusatz „Research Lab (RL)“ durch den Klammerzusatz „(CES)“ ersetzt. 
 
-      - c) Nach den Worten „Methodenkompetenzen in“ werden die Worte mit Klammerzusatz „Klimaforschung (insbesondere Klimafolgenforschung),“ sowie nach den Worten „und modernen“ die Worte „Wissenschaftsmethodik und“ eingefügt. 
+- c) Nach den Worten „Methodenkompetenzen in“ werden die Worte mit Klammerzusatz „Klimaforschung (insbesondere Klimafolgenforschung),“ sowie nach den Worten „und modernen“ die Worte „Wissenschaftsmethodik und“ eingefügt. 
 
 1 
 
 3. In § 55 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
 4. Die Anlage 1b („Studienverlaufsplan Bachelor Geowissenschaften (B.Sc.)“) wird wie folgt geändert: 
 
@@ -60,7 +60,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelorstudiengang Geowissenscha
 
 5. In Anlage 2a („Curricular-Übersicht“) werden in den Erläuterungen unterhalb der Tabelle im sechsten Aufzählungspunkt am Satzanfang die Worte „Climate and“ eingefügt und nach den Worten „Earth Systems“ die Worte mit Klammerzusatz „Research Lab (RL)“ durch den Klammerzusatz (CES) ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die erste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 

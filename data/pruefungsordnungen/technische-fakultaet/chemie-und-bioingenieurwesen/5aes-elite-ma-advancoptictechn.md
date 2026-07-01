@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "8. Juli 2014"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES_Elite-MA_AdvancOpticTechn.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:57:10+00:00
-page_count_chars: 11077
+scraped_at: 2026-07-01T11:20:20+00:00
+page_count_chars: 11325
 ---
 
 # 8. Juli 2014
@@ -12,9 +12,9 @@ page_count_chars: 11077
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES_Elite-MA_AdvancOpticTechn.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fünfte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 8. Juli 2014 
+# Vom 8. Juli 2014 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -32,7 +32,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 3. In § 38 Abs. 2 wird das Wort „Zulassungsvoraussetzungen“ durch das Wort „Zugangsvoraussetzungen“ ersetzt. 
 
-4. § 39 wird wie folgt geändert: 
+# 4. § 39 wird wie folgt geändert: 
 
 a) Abs. 1 wird wie folgt geändert: 
 
@@ -40,7 +40,7 @@ aa) In Satz 1 werden die Worte „eine Zulassung durch die Zugangskommission des
 
 bb) Die Sätze 2 und 3 werden durch folgende Sätze 2 bis 4 ersetzt: 
 
-„[2] Abschlüsse in den Bachelorstudiengängen Physik, optische Technologien oder Elektrotechnik sind in der Regel als einschlägig anzusehen.[3] Gleiches gilt für Abschlüsse in Studiengängen einer technischen oder naturwissenschaftlichen Fakultät, bei denen in den Bereichen Optik oder optische Technologien Kompetenzen im Umfang von mindestens 20 ECTS-Punkten erworben wurden.[4] Die Zugangskommission kann den Zugang unter der Auflage aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis 
+„<sup>2</sup> Abschlüsse in den Bachelorstudiengängen Physik, optische Technologien oder Elektrotechnik sind in der Regel als einschlägig anzusehen.<sup>3</sup> Gleiches gilt für Abschlüsse in Studiengängen einer technischen oder naturwissenschaftlichen Fakultät, bei denen in den Bereichen Optik oder optische Technologien Kompetenzen im Umfang von mindestens 20 ECTS-Punkten erworben wurden.<sup>4</sup> Die Zugangskommission kann den Zugang unter der Auflage aussprechen, dass zusätzliche von der Zugangskommission festzulegende Leistungen im Umfang von bis 
 
 ```
 1
@@ -52,7 +52,7 @@ zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des 
 
 - c) Abs. 3 erhält folgende Fassung: 
 
-„(3)[1] Abweichend von Abs. 2 kann Studierenden, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag der Zugang zum Masterstudium gewährt werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.[2] Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[3] Der Zugang zum Masterstudium wird unter Vorbehalt gewährt.“ 
+„(3)<sup>1</sup> Abweichend von Abs. 2 kann Studierenden, die in einem Bachelorstudiengang immatrikuliert sind, auf begründeten Antrag der Zugang zum Masterstudium gewährt werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.<sup>2</sup> Der Nachweis über den bestandenen Bachelorabschluss ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen, die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>3</sup> Der Zugang zum Masterstudium wird unter Vorbehalt gewährt.“ 
 
    - d)  Abs. 5 wird gestrichen. 
 
@@ -64,7 +64,7 @@ zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des 
 
    - c) Satz 3 erhält folgende Fassung: 
 
-„[3] Dabei müssen für einen der gewählten Schwerpunkte mindestens vier, für einen weiteren mindestens drei Module gewählt werden; bis zu zwei weitere Module können durch Module aus dem Lehrangebot der Technischen, Naturwissenschaftlichen oder Medizinischen Fakultät ersetzt werden, sofern die Studienkommission eine ausreichende fachliche Passung in einen der gewählten Schwerpunkte bestätigt.“ 
+„<sup>3</sup> Dabei müssen für einen der gewählten Schwerpunkte mindestens vier, für einen weiteren mindestens drei Module gewählt werden; bis zu zwei weitere Module können durch Module aus dem Lehrangebot der Technischen, Naturwissenschaftlichen oder Medizinischen Fakultät ersetzt werden, sofern die Studienkommission eine ausreichende fachliche Passung in einen der gewählten Schwerpunkte bestätigt.“ 
 
    - d) In Satz 5 wird die Modulbezeichnung „M 2“ gestrichen und die Zahl „3“ durch die Zahl „1“ sowie die Zahl „4“ durch die Zahl „2“ ersetzt. 
 
@@ -72,7 +72,7 @@ zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des 
 
 7. § 42 Sätze 2 bis 4 erhalten folgende Fassung: 
 
-„[2] Art und Umfang der Prüfungs- und Studienleistungen ergeben sich aus dem Modulplan in **Anlage 1** .[3] § 16 Abs. 1 Satz 2 ABMPO/TechFak findet Anwendung.“ 
+„<sup>2</sup> Art und Umfang der Prüfungs- und Studienleistungen ergeben sich aus dem Modulplan in **Anlage 1** .<sup>3</sup> § 16 Abs. 1 Satz 2 ABMPO/TechFak findet Anwendung.“ 
 
 8. § 47 wird wie folgt geändert: 
 
@@ -96,27 +96,29 @@ zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des 
 3
 ```
 
-|„||||||||
+# <u>„</u> 
+
+|**Modul**|**Fach**|**Vorl. SWS**|**Ü/P SWS**|**Fachsemester**|**ECTS**|**Leistungen**<br>|**ECTS/Modul**|
 |---|---|---|---|---|---|---|---|
-|**Modul**|**Fach**|**Vorl. SWS**|**Ü/P SWS**|**Fachsemester**|**ECTS**|**Leistungen**|**ECTS/Modul**|
-|M 1|Fundamentals of Optic|8|4|1|15|PfP:<br>PL (Klausur 120 min.) und PL<br>(mündlich 30 min.)|**15**|
+|||||||PfP:||
+|M 1|Fundamentals of Optic|8|4|1|15|<br>PL (Klausur 120 min.) und PL<br>(mündlich 30 min.)<br>|**15**|
 |M 2|Basics of Laser|2|2|1|5|PfP:<br>PL (Klausur 90 min.) und SL:<br>Praktikumsleistung (Laborbe-<br>richt; 5-7 S.)|**5**|
-|M 3|Tools for Numerical Solutions|2|-|1|2,5|PfP:<br>SL (Seminarleistung: 3 Prä-<br>sentationen und Hausaufga-<br>ben)|**5**|
-||Topics of Optical Technologies<br>|2|-|1|2,5|||
-|M 4|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 5|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 6|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 7|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 8|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 9|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 10|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 11|Fach 1~~1~~<br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 12|Fach 1~~1~~|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
-|M 13|Projektpraktikum 1|-|2|2 / 3|2,5|SL (Praktikumsleistung: La-<br>borberichte)|**5**|
-||Projektpraktikum 2|-|2|2 / 3|2,5|||
-|M 14|Projektarbeit|ca. 300 h in 6 Monaten||1 / 2 / 3|10|PL (Seminarleistung: Hausar-<br>beit)|**10**|
-|M 15|Forschungspraktikum|mind. 5 Wochen||2 / 3|5|SL (Praktikumsbescheinigung)|**5**|
-|M 16|Masterarbeit mit Referat|ca. 900 h in 6 Monaten<br>+ Referat ca. 30 Min.||4|30|Masterarbeit (90 %) und<br>Referat (ca. 30 min.; 10 %)|**30**|
+|M 3|Tools for Numerical Solutions|2|-|1|2,5|PfP:<br>||
+||Topics of Optical Technologies<br>|2|-|1|2,5|SL (Seminarleistung: 3 Prä-<br>sentationen und Hausaufga-<br>ben)|**5**|
+|M 4|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 5|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 6|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 7|Fach 1<sup>~~1~~</sup>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 8|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 9|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 10|Fach 1<sup>~~1~~</sup>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 11|Fach 1<sup>~~1~~</sup><br>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 12|Fach 1<sup>~~1~~</sup>|2|2|2 / 3|5|PL (laut Modulhandbuch)|**5**|
+|M 13|Projektpraktikum 1|-|2|2 / 3|2,5|SL (Praktikumsleistung: La-|**5**|
+||Projektpraktikum 2|-|2|2 / 3|2,5|borberichte)||
+|M 14|Projektarbeit|ca. 300 h in|6 Monaten|1 / 2 / 3|10|PL (Seminarleistung: Hausar-<br>beit)|**10**|
+|M 15|Forschungspraktikum|mind. 5|Wochen|2 / 3|5|SL (Praktikumsbescheinigung)|**5**|
+|M 16|Masterarbeit mit Referat|ca. 900 h in<br>+ Referat|6 Monaten<br>ca. 30 Min.|4|30|Masterarbeit (90 %) und<br>Referat (ca. 30 min.; 10 %)|**30**|
 ||||||||**∑= 120**|
 
 **PfP =** Portfolioprüfung; SL= Studienleistung; PL= Prüfungsleistung 1Die Fächerkombination ergibt sich aus der Wahl aus den sieben Schwerpunkten gemäß § 40 S. 3; die entsprechenden Prüfungsleistungen sind im Modulhandbuch festgelegt. 
@@ -127,7 +129,7 @@ zu maximal 20 ECTS-Punkten spätestens innerhalb eines Jahres nach Aufnahme des 
 4
 ```
 
-## 10. Anlage 2 wird wie folgt geändert: 
+# 10. Anlage 2 wird wie folgt geändert: 
 
 - a) Abs. 1 wird wie folgt geändert: 
 
@@ -143,9 +145,9 @@ ddd) In Nr. 4 (neu) werden nach dem Wort „Sprachkenntnisse“ die Worte „auf
 
 „Sprachzertifikate“ ein Strichpunkt und die Worte „die Äquivalenzfeststellung folgt Empfehlungen des Sprachenzentrums der Universität Erlangen-Nürnberg“ eingefügt. 
 
-## bb) Satz 2 erhält folgende Fassung: 
+# bb) Satz 2 erhält folgende Fassung: 
 
-- „[2] Die Zugangskommission kann im Falle des S. 1 eine Frist zur Nachreichung der Unterlagen festsetzen.“ 
+- „<sup>2</sup> Die Zugangskommission kann im Falle des S. 1 eine Frist zur Nachreichung der Unterlagen festsetzen.“ 
 
 cc) Satz 3 wird gestrichen. 
 
@@ -153,7 +155,7 @@ cc) Satz 3 wird gestrichen.
 
 - c) Abs. 3 (neu) erhält folgende Fassung: 
 
-„[1] Bewerberinnen und Bewerber mit einem Abschluss im Sinne des § 39 Abs. 2 bzw. im Falle des § 39 Abs. 3 einem Durchschnitt der bisherigen Leistungen von 2,0 (= gut) oder besser oder einem Mittelwert der Modulnoten in den Bereichen „Optik und optische Technologien“ von 2,5 (= gut) oder besser werden zu einem mindestens 20minütigen Interview eingeladen, das auch bildtelefonisch durchgeführt werden kann. 2Es wird von mindestens einem Mitglied der Zugangskommission und einer Beisitzerin bzw. einem Beisitzer durchgeführt.[3] Im Interview müssen die Bewerberinnen bzw. Bewerber ihre vorliegende Qualifikation und ihre bisherigen Arbeiten in für den Studiengang relevanten Bereichen darstellen und auf Nachfragen vertreten sowie Fachfragen zu für den Elite-Studiengang relevanten Themengebieten angemessen beantworten.[4] Die Qualifikation der Bewerberinnen bzw. Bewerber für den Elite-Studiengang wird beurteilt anhand: 
+„<sup>1</sup> Bewerberinnen und Bewerber mit einem Abschluss im Sinne des § 39 Abs. 2 bzw. im Falle des § 39 Abs. 3 einem Durchschnitt der bisherigen Leistungen von 2,0 (= gut) oder besser oder einem Mittelwert der Modulnoten in den Bereichen „Optik und optische Technologien“ von 2,5 (= gut) oder besser werden zu einem mindestens 20minütigen Interview eingeladen, das auch bildtelefonisch durchgeführt werden kann. 2Es wird von mindestens einem Mitglied der Zugangskommission und einer Beisitzerin bzw. einem Beisitzer durchgeführt.<sup>3</sup> Im Interview müssen die Bewerberinnen bzw. Bewerber ihre vorliegende Qualifikation und ihre bisherigen Arbeiten in für den Studiengang relevanten Bereichen darstellen und auf Nachfragen vertreten sowie Fachfragen zu für den Elite-Studiengang relevanten Themengebieten angemessen beantworten.<sup>4</sup> Die Qualifikation der Bewerberinnen bzw. Bewerber für den Elite-Studiengang wird beurteilt anhand: 
 
 1. der physikalischen Vorkenntnisse, insbesondere in den Bereichen Elektromagnetismus und Optik (50 %), 
 
@@ -171,11 +173,11 @@ d) In Abs. 4 (neu) werden die Worte „die Zulassung“ durch die Worte „den Z
 5
 ```
 
-„(6)[1] Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.[2] Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die Vorsitzende bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
+„(6)<sup>1</sup> Im Qualifikationsfeststellungsverfahren ist auf Art und Schwere einer Behinderung Rücksicht zu nehmen.<sup>2</sup> Wer durch ein ärztliches Zeugnis glaubhaft macht, wegen länger andauernder oder ständiger körperlicher Behinderung nicht in der Lage zu sein, die Prüfung ganz oder teilweise in der vorgesehenen Form abzulegen, hat Anspruch darauf, dass die Vorsitzende bzw. der Vorsitzende der Zugangskommission gestattet, den Nachteil durch entsprechende Verlängerung der Arbeitszeit oder eine andere Gestaltung des Prüfungsverfahrens auszugleichen.“ 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 1. Oktober 2014 in Kraft. 2Die Änderungen unter den laufenden Ziffern 5, 6, 8 und 9 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Wintersemester 2014 / 2015 aufnehmen.[3] Die Änderungen unter den laufenden Ziffern 4 und 10 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Wintersemester 2015 / 2016 aufnehmen. 
+1Diese Änderungssatzung tritt am 1. Oktober 2014 in Kraft. 2Die Änderungen unter den laufenden Ziffern 5, 6, 8 und 9 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Wintersemester 2014 / 2015 aufnehmen.<sup>3</sup> Die Änderungen unter den laufenden Ziffern 4 und 10 gelten abweichend von Satz 1 für alle Studierenden, die das Studium ab dem Wintersemester 2015 / 2016 aufnehmen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 25. Juni 2014 und der Genehmigungsfeststellung des Präsidenten vom 8. Juli 2014. 
 

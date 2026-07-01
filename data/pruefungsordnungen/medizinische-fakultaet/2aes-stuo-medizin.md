@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Oktober 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/2AES StuO-Medizin.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/
-scraped_at: 2026-05-01T07:24:08+00:00
-page_count_chars: 13031
+scraped_at: 2026-07-01T08:48:22+00:00
+page_count_chars: 12004
 ---
 
 # 9. Oktober 2012
@@ -12,13 +12,13 @@ page_count_chars: 13031
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/MED/Aenderungssatzungen/2AES StuO-Medizin.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/medizinische-fakultaet/>
 
-## **Zweite Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
+# **Zweite Satzung zur Änderung der Studienordnung für das Studium der Medizin an der Universität Erlangen-Nürnberg** 
 
-## Vom 9. Oktober 2012 
+# Vom 9. Oktober 2012 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. Art. 58 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studienordnung für das Studium der Medizin an der Universität Erlangen vom 30. September 2003, zuletzt geändert durch Satzung vom 12 Juli 2006, wird wie folgt geändert: 
 
@@ -26,33 +26,33 @@ Die Studienordnung für das Studium der Medizin an der Universität Erlangen vom
 
 2. In § 4 Abs. 2 werden die Worte „Es empfiehlt sich, die ‚Famulatur nach § 7 ÄAppO unmittelbar“ durch die Worte „Die Famulaturen nach § 7 ÄAppO sind“ ersetzt. 
 
-3. § 8 wird wie folgt geändert: 
+# 3. § 8 wird wie folgt geändert: 
 
-   - a) In Abs. 1 S. 1 Nr. 1 wird der Klammerzusatz „(V*)“ durch den Klammerzusatz „(VL)“ ersetzt. 
+- a) In Abs. 1 S. 1 Nr. 1 wird der Klammerzusatz „(V*)“ durch den Klammerzusatz „(VL)“ ersetzt. 
 
-   - b) In Abs. 1 S. 1 Nr. 2 wird der Klammerzusatz „(V)“ gestrichen. 
+- b) In Abs. 1 S. 1 Nr. 2 wird der Klammerzusatz „(V)“ gestrichen. 
 
-   - c) In Abs. 1 Satz 3 werden die Worte „auf Vorschlag der Fakultätskommission für Lehre und Studierende“ gestrichen und das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
+- c) In Abs. 1 Satz 3 werden die Worte „auf Vorschlag der Fakultätskommission für Lehre und Studierende“ gestrichen und das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
 
-   - d) In Abs. 2 Satz 1 wird die Zahl „1381“ durch die Zahl „1407“ ersetzt. 
+- d) In Abs. 2 Satz 1 wird die Zahl „1381“ durch die Zahl „1407“ ersetzt. 
 
-4. § 9 wird wie folgt geändert: 
+# 4. § 9 wird wie folgt geändert: 
 
-   - a) In Abs. 3 wird der Klammerzusatz „(VL)“ gestrichen. 
+- a) In Abs. 3 wird der Klammerzusatz „(VL)“ gestrichen. 
 
-   - b) In Abs. 4 Satz 3 werden die Worte „auf Vorschlag der Fakultätskommission für Lehre und Studierende“ gestrichen und das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
+- b) In Abs. 4 Satz 3 werden die Worte „auf Vorschlag der Fakultätskommission für Lehre und Studierende“ gestrichen und das Wort „Fachbereichsrat“ durch das Wort „Fakultätsrat“ ersetzt. 
 
-   - c) In Abs. 5 Satz 1 wird die Zahl „2254“ durch die Zahl „2226“ ersetzt. 
+- c) In Abs. 5 Satz 1 wird die Zahl „2254“ durch die Zahl „2226“ ersetzt. 
 
-   - d) In Abs. 5 Satz 2 wird die Zahl „560“ durch die Zahl „518“ ersetzt. 
+- d) In Abs. 5 Satz 2 wird die Zahl „560“ durch die Zahl „518“ ersetzt. 
 
-5. § 11 wird wie folgt geändert: 
+# 5. § 11 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 wird der Klammerzusatz „(V*)“ durch den Klammerzusatz „(VL)“ ersetzt. 
+- a) In Abs. 1 Satz 1 wird der Klammerzusatz „(V*)“ durch den Klammerzusatz „(VL)“ ersetzt. 
 
-b) In Abs. 3 Satz 3 wird das Wort „ganztags“ gestrichen. 
+- b) In Abs. 3 Satz 3 wird das Wort „ganztags“ gestrichen. 
 
-## 6. § 12 wird wie folgt geändert: 
+# 6. § 12 wird wie folgt geändert: 
 
 a) In Abs. 1 Satz 2 wird die Zahl „4“ durch die Zahl „5“ ersetzt. 
 
@@ -66,9 +66,9 @@ a) In Abs. 1 Satz 2 wird die Zahl „4“ durch die Zahl „5“ ersetzt.
 
 - f) In Absatz 6 Satz 3 (neu) werden die Worte „für die als „fächerübergreifend“ gekennzeichneten Fragen und in allen Einzelfächern“ gestrichen. 
 
-g) Es werden folgende neue Absätze 7 und 8 angefügt: 
+# g) Es werden folgende neue Absätze 7 und 8 angefügt: 
 
-„(7)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.[2] Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der oder dem Aufsichtsführenden von der Fortsetzung der Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.[3] Die Sätze 1 und 2 gelten für Studienleistungen entsprechend. 
+„(7)<sup>1</sup> Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der oder dem Aufsichtsführenden von der Fortsetzung der Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.<sup>3</sup> Die Sätze 1 und 2 gelten für Studienleistungen entsprechend. 
 
 (8) Die Entscheidung über den Ausschluss von der weiteren Teilnahme an der Prüfung trifft der Prüfungsausschuss.“ 
 
@@ -80,34 +80,32 @@ g) Es werden folgende neue Absätze 7 und 8 angefügt:
 
 - c) Es wird folgende neue Zeile 6 eingefügt: 
 
-   - „ 
+   - <u>„</u> 
 
-V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie 
+V-PS4B Praktikum Neurophysiologie 4 49 <u>Ü</u> Praktikum der Physiologie 
 
 „ 
 
-- d) In Zeile 7 neu (V-PS5) wird in Spalte 1 das Wort „V-PS5“ durch das Wort „VPS5A“, in Spalte 2 nach dem Wort „Seminar“ das Wort „Vegetative“ eingefügt, in Spalte 4 die Zahl „84“ durch die Zahl „42“ und in Spalte 6 die Fußnote „[1“ ] gestrichen. 
+- d) In Zeile 7 neu (V-PS5) wird in Spalte 1 das Wort „V-PS5“ durch das Wort „VPS5A“, in Spalte 2 nach dem Wort „Seminar“ das Wort „Vegetative“ eingefügt, in Spalte 4 die Zahl „84“ durch die Zahl „42“ und in Spalte 6 die Fußnote „<sup>1“</sup> gestrichen. 
 
 - e) Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt: 
 
-|„||||||
+|„<br>V-PS5B|Seminar<br>Neurophysiologie<sup>1</sup>|2, 3<br>und4|42|S|Seminar Physiologie|
 |---|---|---|---|---|---|
-|V-PS5B|Seminar<br>Neurophysiologie1|2, 3<br>und4|42|S|Seminar Physiologie|
 
-|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|Es wird nach Zeile 7 neu folgende neue Zeilen 8 eingefügt:<br>„<br>V-PS5B<br>Seminar<br>Neurophysiologie1<br>2, 3<br>und4<br>42<br>S<br>Seminar Physiologie|
+   - „ 
+
+- f) In Zeile 11 neu (V-PS8) Spalte 4 wird die Zahl „112“ durch die Zahl „98“ ersetzt. 
+
+- g) Die Zeilen 12 bis 14 neu (V-PS9 bis V-PS11) erhalten folgende neue Fassung: 
+
+|„<br>V-PS9|Seminar Anatomie:<br>funktionelleAnatomie<sup>1</sup>|1|28|S|Seminar Anatomie|
 |---|---|---|---|---|---|
-|„<br>In Zeile 11 neu (V-PS8) Spalte 4 wird die Zahl „112“ durch die Zahl „98“ ersetzt.<br>Die Zeilen 12 bis 14 neu (V-PS9 bis V-PS11) erhalten folgende neue Fassung:<br>„||||||
-|V-PS9|Seminar Anatomie:<br>funktionelleAnatomie1|1|28|S|Seminar Anatomie|
-|V-PS11|Seminar Anatomie:<br>Neuroanatomie1|3|14|S||
-||||||„|
-
-   - f) In Zeile 11 neu (V-PS8) Spalte 4 wird die Zahl „112“ durch die Zahl „98“ ersetzt. 
-
-   - g) Die Zeilen 12 bis 14 neu (V-PS9 bis V-PS11) erhalten folgende neue Fassung: 
+|V-PS11|Seminar Anatomie:<br>Neuroanatomie<sup>1</sup>|3|14|S|„|
 
    - h) In Zeile 14 neu (V-PS12) Spalte 4 wird die Zahl „42“ durch die Zahl „49“ ersetzt. 
 
-   - i) In Zeile 16 neu (V-PS14) Spalte 6 wird die Fußnote „[1] “ gestrichen. 
+   - i) In Zeile 16 neu (V-PS14) Spalte 6 wird die Fußnote „<sup>1</sup> “ gestrichen. 
 
    - j) In Zeile 18 neu (V-PS16) Spalte 4 werden die Zahl „14“ durch die Zahl „21“ ersetzt und in Spalte 5 der Schrägstrich und der Buchstabe „S“ gestrichen. 
 
@@ -117,7 +115,7 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
    - m) Unter der Tabelle erhält die Fußnote 1 folgende neue Fassung: 
 
-      - „[1] mit klinischem Bezug“. 
+      - „<sup>1</sup> mit klinischem Bezug“. 
 
 8. In der Anlage 2 wird die Tabelle wie folgt geändert: 
 
@@ -135,7 +133,7 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
 - g) Es wird folgende neue Zeile 15 angefügt: 
 
-„ V-V14 Neuroanatomie 3 14 VL Seminar Anatomie 
+<u>„</u> V-V14 Neuroanatomie <u>3</u> 14 VL <u>Seminar Anatomie</u> 
 
 „ 
 
@@ -167,9 +165,9 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
    - m) Unter der Tabelle unter den Fußnoten werden die Worte „Q1-12“ durch die Worte „Q1-14“ ersetzt. 
 
-## 10. In der Anlage 4 wird die Tabelle wie folgt geändert: 
+10. In der Anlage 4 wird die Tabelle wie folgt geändert: 
 
-- a) In Zeile 1 Spalte 4 werden die Worte „Stunden/(akademische Stunden) oder Wochen“ durch die Worte „akademische Stunden pro Semester ersetzt. 
+   - a) In Zeile 1 Spalte 4 werden die Worte „Stunden/(akademische Stunden) oder Wochen“ durch die Worte „akademische Stunden pro Semester ersetzt. 
 
 - b) In Zeile 6 (K-PS5) Spalte 2 werden nach dem Wort „Geschichte“ die Worte „und Ethik“ eingefügt und nach dem Wort „Medizin“ das Komma und das Wort „Ethik“ gestrichen. 
 
@@ -179,11 +177,9 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
 - e) Nach Zeile 18 (K-PS19) werden folgende neue Zeilen eingefügt: 
 
-|„||||||
+|„<br>K-PS21|Palliativmedizin,**Q13**|9|14|S als<br>Block|Palliativmedizin|
 |---|---|---|---|---|---|
-|K-PS21|Palliativmedizin,**Q13**|9|14|S als<br>Block|Palliativmedizin|
-|K-PS22|Palliativmedizin,**Q14**|9|14|S als<br>Block|Palliativmedizin|
-||||||„|
+|K-PS22|Palliativmedizin,**Q14**|9|14|S als<br>Block|Palliativmedizin<br>„|
 
    - f) In Zeile 21 neu (K-PS20) Spalte 3 wird die Zahl „8“ durch die Zahl „10“ und in den Spalten 2 und 6 das Wort „Wahlfach“ durch das Wort „Wahlpflichtfach“ ersetzt. 
 
@@ -199,12 +195,10 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
    - d) Nach Zeile 4 (K-V3A) wird folgende neue Zeile eingefügt: 
 
-      - „ 
+      - <u>„</u> 
 
-|„||||||
-|---|---|---|---|---|---|
-|K-V3B|SpezielleNotfallmedizin, **Q8**|7|14|RVL|Notfallmedizin|
-||||||„|
+|K-V3B|SpezielleNotfallmedizin, **Q8**|7<br>14|RVL|Notfallmedizin<br>„|
+|---|---|---|---|---|
 
    - e) Zeile 9 neu (K-V7) wird gestrichen. 
 
@@ -220,9 +214,9 @@ V-PS4B Praktikum Neurophysiologie 4 49 Ü Praktikum der Physiologie
 
 - d) Unter der Tabelle werden die Worte „Q1-12“ durch die Worte „Q1-14“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
-1Diese Änderungssatzung tritt am 01.10.2012 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Veranstaltungen noch nicht begonnen haben.[3] Abweichend von Satz 2 können Studierende, die die Veranstaltung Seminar Anatomie/Bildgebung für Vorkliniker (V-PS10) bereits begonnen  und noch nicht abgeschlossen haben, die Veranstaltung als Wahlpflichtfach abschließen oder ein anderes Wahlpflichtfach wählen. 
+1Diese Änderungssatzung tritt am 01.10.2012 in Kraft. 2Sie gilt für alle Studierenden, die die geänderten Veranstaltungen noch nicht begonnen haben.<sup>3</sup> Abweichend von Satz 2 können Studierende, die die Veranstaltung Seminar Anatomie/Bildgebung für Vorkliniker (V-PS10) bereits begonnen  und noch nicht abgeschlossen haben, die Veranstaltung als Wahlpflichtfach abschließen oder ein anderes Wahlpflichtfach wählen. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 26. September 2012. 
 

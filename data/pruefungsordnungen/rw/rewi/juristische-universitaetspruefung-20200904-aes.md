@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Juristische Universitätsprüfung 20200904 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Juristische_Universitaetspruefung/Aenderungssatzungen/Juristische_Universitaetspruefung_20200904_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:58+00:00
-page_count_chars: 4117
+scraped_at: 2026-07-01T10:34:29+00:00
+page_count_chars: 4118
 ---
 
 # Juristische Universitätsprüfung 20200904 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 4117
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/ReWi/Juristische_Universitaetspruefung/Aenderungssatzungen/Juristische_Universitaetspruefung_20200904_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Neunte Satzung zur Änderung der Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) für die Juristische Universitätsprüfung** 
+# **Neunte Satzung zur Änderung der Prüfungsordnung der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) für die Juristische Universitätsprüfung** 
 
-## **Vom 4. September 2020** 
+# **Vom 4. September 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) sowie § 38 Satz 2 der Ausbildungs- und Prüfungsordnung für Juristen (JAPO) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung der FAU für die Juristische Universitätsprüfung vom 14. Oktober 2004, zuletzt geändert durch Satzung vom 25. August 2016, wird wie folgt geändert: 
 
@@ -36,7 +36,7 @@ Die Prüfungsordnung der FAU für die Juristische Universitätsprüfung vom 14. 
 
    - b) Nach den Ausführungen zum SCHWERPUNKTBEREICH 6: KRIMINALWISSENSCHAFTEN werden folgende neuen Ausführungen angefügt: 
 
-## „SCHWERPUNKTBEREICH 7: GRUND- UND MENSCHENRECHTE 
+      - „SCHWERPUNKTBEREICH 7: GRUND- UND MENSCHENRECHTE 
 
 ## **1. Kernbereich** 
 
@@ -82,7 +82,7 @@ Die bzw. der Studierende muss zusätzlich zu den unter 1. und 2. genannten Lehrv
 
 **4.** Die Lehrveranstaltungen des Schwerpunktbereichs können – sofern nichts anderes angegeben ist – als Vorlesungen, Übungen, Kolloquien oder Seminare angeboten und gewählt werden.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am 1. Oktober 2020 in Kraft. 
 

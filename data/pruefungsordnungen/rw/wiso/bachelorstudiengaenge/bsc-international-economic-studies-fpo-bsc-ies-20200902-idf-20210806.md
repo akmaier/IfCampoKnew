@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20210806.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Bachelor/International_Economic_Studies/konsolidierte_Fassungen/BSc_International_Economic_Studies_FPO_BSc_IES_20200902_idF_20210806.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/bachelorstudiengaenge/
-scraped_at: 2026-05-01T09:26:04+00:00
-page_count_chars: 13870
+scraped_at: 2026-07-01T10:42:05+00:00
+page_count_chars: 13355
 ---
 
 # BSc International Economic Studies FPO BSc IES 20200902 i.d.F. 20210806.pdf
@@ -24,11 +24,11 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des
 
 § 1 Geltungsbereich .............................................................................................................. 1 § 2 Umfang und Gliederung des Studiums, Prüfungen, Unterrichts- und Prüfungssprache ... 1 § 3 Übergreifender Vertiefungsbereich .................................................................................. 2 § 4 Inkrafttreten ..................................................................................................................... 3 Anlage: Studienverlaufsplan Bachelor International Economic Studies ................................. 4 
 
-## **§ 1 Geltungsbereich** 
+# **§ 1 Geltungsbereich** 
 
-1Diese Fachstudien- und Prüfungsordnung regelt das Studium und die Prüfungen im Bachelorstudiengang International Economic Studies am Fachbereich Wirtschaftsund Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU mit dem Abschlussziel des Bachelor of Science.[2] Sie ergänzt die Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – **BPOWISO** – vom 1. August 2006 in der jeweils geltenden Fassung. 
+1Diese Fachstudien- und Prüfungsordnung regelt das Studium und die Prüfungen im Bachelorstudiengang International Economic Studies am Fachbereich Wirtschaftsund Sozialwissenschaften der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU mit dem Abschlussziel des Bachelor of Science.<sup>2</sup> Sie ergänzt die Rahmenprüfungsordnung für die Bachelorstudiengänge des Fachbereichs Wirtschafts- und Sozialwissenschaften an der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – **BPOWISO** – vom 1. August 2006 in der jeweils geltenden Fassung. 
 
-## **§ 2 Umfang und Gliederung des Studiums, Prüfungen, Unterrichts- und Prüfungssprache** 
+# **§ 2 Umfang und Gliederung des Studiums, Prüfungen, Unterrichts- und Prüfungssprache** 
 
 (1) Der Bachelorstudiengang International Economic Studies an der FAU gliedert sich in die Module gemäß der **Anlage** . 
 
@@ -38,115 +38,87 @@ Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des
 
 1 
 
-## **§ 3 Übergreifender Vertiefungsbereich** 
+# **§ 3 Übergreifender Vertiefungsbereich** 
 
-(1)[1] Die verschiedenen im Rahmen des Bachelorstudiengangs International Economic Studies wählbaren Vertiefungsmodule (Electives) ermöglichen es den Studierenden, sich vertieft mit einem oder mehreren fachwissenschaftlichen Bereichen auseinanderzusetzen.[2] Dabei stehen Module aus den Themenbereichen Betriebswirtschaftslehre, Volkswirtschaftslehre, Wirtschaftsinformatik, Sozialökonomik, Interdisziplinäres sowie ein Auslandsaufenthalt zur Wahl. 
+(1)<sup>1</sup> Die verschiedenen im Rahmen des Bachelorstudiengangs International Economic Studies wählbaren Vertiefungsmodule (Electives) ermöglichen es den Studierenden, sich vertieft mit einem oder mehreren fachwissenschaftlichen Bereichen auseinanderzusetzen.<sup>2</sup> Dabei stehen Module aus den Themenbereichen Betriebswirtschaftslehre, Volkswirtschaftslehre, Wirtschaftsinformatik, Sozialökonomik, Interdisziplinäres sowie ein Auslandsaufenthalt zur Wahl. 
 
-(2)[1] Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Betriebswirtschaftslehre liegt darin, es den Studierenden zu ermöglichen, sich erstens mit planerischen, organisatorischen und rechentechnischen Entscheidungen in Betrieben vertieft auseinanderzusetzen.[2] Zweitens schafft die Wahlfreiheit im Themenbereich Betriebswirtschaftslehre vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
+(2)<sup>1</sup> Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Betriebswirtschaftslehre liegt darin, es den Studierenden zu ermöglichen, sich erstens mit planerischen, organisatorischen und rechentechnischen Entscheidungen in Betrieben vertieft auseinanderzusetzen.<sup>2</sup> Zweitens schafft die Wahlfreiheit im Themenbereich Betriebswirtschaftslehre vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
 
-(3)[1] Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Volkswirtschaftslehre liegt darin, es den Studierenden zu ermöglichen, sich erstens anhand von theoretischen und empirischen Methoden mit wirtschaftspolitischen Fragen auf der Ebene des Staates sowie mit der Analyse des optimalen Verhaltens von Individuen und Unternehmen in Märkten vertieft auseinanderzusetzen.[2] Zweitens schafft die Wahlfreiheit im Themenbereich Volkswirtschaftslehre vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
+(3)<sup>1</sup> Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Volkswirtschaftslehre liegt darin, es den Studierenden zu ermöglichen, sich erstens anhand von theoretischen und empirischen Methoden mit wirtschaftspolitischen Fragen auf der Ebene des Staates sowie mit der Analyse des optimalen Verhaltens von Individuen und Unternehmen in Märkten vertieft auseinanderzusetzen.<sup>2</sup> Zweitens schafft die Wahlfreiheit im Themenbereich Volkswirtschaftslehre vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
 
-(4)[1] Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Wirtschaftsinformatik liegt darin, es den Studierenden zu ermöglichen, sich erstens mit der Integration betrieblich relevanter Inhalte aus Betriebswirtschaftslehre und Wirtschaftsinformatik vertieft auseinanderzusetzen.[2] Zweitens schafft die Wahlfreiheit im Themenbereich Wirtschaftsinformatik vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
+(4)<sup>1</sup> Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Wirtschaftsinformatik liegt darin, es den Studierenden zu ermöglichen, sich erstens mit der Integration betrieblich relevanter Inhalte aus Betriebswirtschaftslehre und Wirtschaftsinformatik vertieft auseinanderzusetzen.<sup>2</sup> Zweitens schafft die Wahlfreiheit im Themenbereich Wirtschaftsinformatik vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
 
-(5)[1] Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Sozialökonomik liegt darin, es den Studierenden zu ermöglichen, sich erstens vertieft mit Fragestellungen aus Wirtschaft und Gesellschaft auseinanderzusetzen sowie anhand von empirischen Methoden sozioökonomische Probleme zu erkennen und strukturierte Lösungsvorschläge zu erarbeiten.[2] Zweitens schafft die Wahlfreiheit im Themenbereich Sozialökonomik vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
+(5)<sup>1</sup> Das Qualifikationsziel der Vertiefungsmodule aus dem Themenbereich Sozialökonomik liegt darin, es den Studierenden zu ermöglichen, sich erstens vertieft mit Fragestellungen aus Wirtschaft und Gesellschaft auseinanderzusetzen sowie anhand von empirischen Methoden sozioökonomische Probleme zu erkennen und strukturierte Lösungsvorschläge zu erarbeiten.<sup>2</sup> Zweitens schafft die Wahlfreiheit im Themenbereich Sozialökonomik vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
 
-(6)[1] Das Qualifikationsziel der sonstigen, interdisziplinär ausgerichteten Vertiefungsmodule liegt darin, es den Studierenden zu ermöglichen, sich erstens mit überfachlichen Inhalten und fachübergreifenden Themen vertieft auseinanderzusetzen und in- 
+(6)<sup>1</sup> Das Qualifikationsziel der sonstigen, interdisziplinär ausgerichteten Vertiefungsmodule liegt darin, es den Studierenden zu ermöglichen, sich erstens mit überfachlichen Inhalten und fachübergreifenden Themen vertieft auseinanderzusetzen und in- 
 
 2 
 
-terdisziplinäre Denkweisen zu schulen.[2] Zweitens schafft die Wahlfreiheit der interdisziplinären Vertiefungsmodule vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[3] Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
+terdisziplinäre Denkweisen zu schulen.<sup>2</sup> Zweitens schafft die Wahlfreiheit der interdisziplinären Vertiefungsmodule vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>3</sup> Drittens wird den Studierenden durch die Wahlfreiheit ermöglicht, sich im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ein besonderes Profil auszubilden. 
 
-(7)[1] Das Qualifikationsziel des Auslandsaufenthalts liegt erstens darin, den Studierenden eine Möglichkeit zu bieten, sich vertieft mit fachübergreifenden Themen und Inhalten auseinanderzusetzen, die an der Heimatuniversität nicht zu den Forschungsschwerpunkten gehören und somit nur weniger vertieft studiert werden können.[2] Zweitens erlaubt der Auslandsaufenthalt den Studierenden, internationale Erfahrungen zu sammeln und ihre interkulturellen Kompetenzen zu stärken.[3] Die Wahlfreiheit während des Auslandsaufenthalts schafft drittens vielfältige Spezialisierungsmöglichkeiten für die Studierenden.[4] Viertens können sich die Studierenden durch die große Breite an Wahlmöglichkeiten ein spezifisches Profil im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ausbilden. 
+(7)<sup>1</sup> Das Qualifikationsziel des Auslandsaufenthalts liegt erstens darin, den Studierenden eine Möglichkeit zu bieten, sich vertieft mit fachübergreifenden Themen und Inhalten auseinanderzusetzen, die an der Heimatuniversität nicht zu den Forschungsschwerpunkten gehören und somit nur weniger vertieft studiert werden können.<sup>2</sup> Zweitens erlaubt der Auslandsaufenthalt den Studierenden, internationale Erfahrungen zu sammeln und ihre interkulturellen Kompetenzen zu stärken.<sup>3</sup> Die Wahlfreiheit während des Auslandsaufenthalts schafft drittens vielfältige Spezialisierungsmöglichkeiten für die Studierenden.<sup>4</sup> Viertens können sich die Studierenden durch die große Breite an Wahlmöglichkeiten ein spezifisches Profil im Hinblick auf das zukünftige Berufsfeld (bzw. das konsekutive Studium) ausbilden. 
 
-(8)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 bis 6 und dem Modulhandbuch zu entnehmen. 2Art und Umfang der möglichen Prüfungen sind §§ 17 bis 20a **BPOWISO** zu entnehmen.[3] Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht.[4] Abweichend von Sätzen 1 bis 3 richten sich Art und Umfang der Prüfungen während des Auslandssemesters nach den jeweiligen Bestimmungen an der Partnerhochschule; im Vorfeld des Auslandsaufenthalts sind Learning Agreements abzuschließen. 
+(8)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach Abs. 2 bis 6 und dem Modulhandbuch zu entnehmen. 2Art und Umfang der möglichen Prüfungen sind §§ 17 bis 20a **BPOWISO** zu entnehmen.<sup>3</sup> Der Modulkatalog wird vor Semesterbeginn ortsüblich bekanntgemacht.<sup>4</sup> Abweichend von Sätzen 1 bis 3 richten sich Art und Umfang der Prüfungen während des Auslandssemesters nach den jeweiligen Bestimmungen an der Partnerhochschule; im Vorfeld des Auslandsaufenthalts sind Learning Agreements abzuschließen. 
 
-(9)[1] Die Vertiefungsmodule setzen sich in der Regel entweder aus einer Vorlesung (4 SWS) oder einem Seminar (4 SWS) oder einer Vorlesung und einer Übung (je 2 SWS) zusammen.[2] Näheres wird im Modulhandbuch geregelt. 
+(9)<sup>1</sup> Die Vertiefungsmodule setzen sich in der Regel entweder aus einer Vorlesung (4 SWS) oder einem Seminar (4 SWS) oder einer Vorlesung und einer Übung (je 2 SWS) zusammen.<sup>2</sup> Näheres wird im Modulhandbuch geregelt. 
 
-## **§ 4 Inkrafttreten** 
+# **§ 4 Inkrafttreten** 
 
-(1)[ 1] Diese Fachprüfungsordnung tritt am 1. Oktober 2020 in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/21 aufnehmen werden. 
+(1)<sup>1</sup> Diese Fachprüfungsordnung tritt am 1. Oktober 2020 in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/21 aufnehmen werden. 
 
 (2) Die erste Änderungssatzung tritt am 1. Oktober 2021 in Kraft. 
 
 3 
 
-## **Anlage: Studienverlaufsplan Bachelor International Economic Studies** 
+# **<u>Anlage: Studienverlaufsplan Bachelor International Economic Studies</u>** 
 
-|**Modulbezeichnung**|**Lehr-**<br>**veran-**<br>**staltung**||**SWS**|**SWS**||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang der Prüfungs-**<br>**bzw. Studienleistung1)**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|||
-|**International economics**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Microeconomics|V|2||||5|5||||||Written examination|0,5|
-||Ü||2||||||||||||
-|Macroeconomics|V|2||||5||5|||||Written examination|0,5|
-||Ü||2||||||||||||
-|International economics|V|2||||5|||5||||Written examination|1,0|
-||Ü||2||||||||||||
-|European economic integration|V|2||||5|5||||||Written examination|0,5|
-||Ü||2||||||||||||
-|Dl i|V|2|||||||||||Written examination and|1|
-|eveopment economcs|Ü||2|||5||||5|||presentation(50 % + 50 %)|,0|
-|Labor economics|V|2||||5|||5||||Written examination|1,0|
-||Ü||2||||||||||||
-|Empirical economics|S||||4|5|||5||||Written examination|1,0|
-|Analysis of macroeconomic and<br>financial market data|S||||4|5|||5||||Written examination|1,0|
-|**International business**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Fiil i|V|2||||5||5|||||Written examination|0,5|
-|nanca reportng|Ü||2||||||||||||
-|Enterprise content and|V|2||||5|||5||||Written examination|1|
-|collaboration management|Ü||2||||||||||||
-|Innovation and entrepreneurship|S||||2|5|5||||||Written examination|0,5|
-|International management|S||||2|5||5|||||Written examination|0,5|
-|**International politics, law, and society**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|European and international law|S||||3|5|5||||||Written examination|0,5|
-|International politics|V|2||||5||5|||||Written examination|0,5|
-|Global governance|V|2||||5||||5|||Written examination|1,0|
-||Ü||2||||||||||||
-|Sil li i  idd ld|V|2|||||||||||Written examination (80 %) and|10|
-|oca pocy n an nterepenent wor|Ü||1|||5||||5|||presentation(20 %)|,|
-|**Tools**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Statistics|V|2||||5|5||||||Written examination|0,5|
-||Ü||2||||||||||||
+|**Modulbezeichnung**|**Lehr-**<br>**veran-**||**SWS**|**Gesamt**<br>**ECTS-**|**Wo**|**rkload-Vert**|**eilung pro**|**Semester i**|**n ECTS-Pun**|**kten**|**Art und Umfang der Prüfungs-**<br>|**Faktor**<br>**Ab-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**staltn**|**V**|**Ü**<br>**P**|<br>**Pnkte**<br>**S**|**1 Sem**|**2 Sem**|**3 Sem**|**4 Sem**|**5 Sem**|**6 Sem**|**bzw. Studienleistung**<sup>**1)**</sup>|**schluss-**<br>|
+||**ug**||<br>|**u**<br>|**. .**|**. .**|**. .**|**. .**|**. .**|**. .**||**note**|
+|**International economics**|||||||||||||
+|Microeconomics|V<br>Ü|2|2|5|5||||||Written examination|0,5|
+|Macroeconomics|V<br>Ü|2|2|5||5|||||Written examination|0,5|
+|International economics|V<br>Ü|2|2|5|||5||||Written examination|1,0|
+|European economic integration|V<br>Ü|2|2|5|5||||||Written examination|0,5|
+|Development economics|V<br>Ü|2|2|5||||5|||Written examination and<br>presentation(50 % + 50 %)|1,0|
+|Labor economics|V<br>Ü|2|2|5|||5||||Written examination|1,0|
+|Empirical economics|S|||4<br>5|||5||||Written examination|1,0|
+|Analysis of macroeconomic and<br>|S|||4<br>5|||5||||Written examination|1,0|
+|financial market data<br>**International business**|V|2|||||||||||
+|Financial reporting|<br>Ü||2|5||5|||||Written examination|0,5|
+|Enterprise content and<br>collaboration management|V<br>Ü|2|2|5|||5||||Written examination|1|
+|Innovation and entrepreneurship|S|||2<br>5|5||||||Written examination|0,5|
+|International management|S|||2<br>5||5|||||Written examination|0,5|
+|<br>**International politics, law, and society**|||||||||||||
+|European and international law|S|||3<br>5|5||||||Written examination|0,5|
+|International politics|V|2||5||5|||||Written examination|0,5|
+|Global governance|V<br>Ü|2|2|5||||5|||Written examination|1,0|
+|Social policy in an interdependent world|V<br>|2||5||||5|||Written examination (80 %) and<br>|10|
+||Ü||1||||||||presentation(20 %)|,|
+|**Tools**|||||||||||||
+|Statistics|V<br>Ü|2|2|5|5||||||Written examination|0,5|
 
 4 
 
-|**Modulbezeichnung**|**Lehr-**<br>**veran-**<br>**staltung**||**SWS**|**SWS**||**Gesamt**<br>**ECTS-**<br>**Punkte**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Workload-Verteilung pro Semester in ECTS-Punkten**|**Art und Umfang der Prüfungs-**<br>**bzw. Studienleistung1)**|**Faktor**<br>**Ab-**<br>**schluss-**<br>**note**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||**V**|**Ü**|**P**|**S**||**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|||
-|Introduction to econometrics|V|2||||5||5|||||Written examination|0,5|
-||Ü||2||||||||||||
-|Data collection methods in the social<br>and behavioralsciences|S||||2|5||||5|||Written examination (60 %) and<br>exercise performance (40 %)|1,0|
-|**Reflection**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Seminar in international economic<br>Studies|S||||4|5|||5||||Seminar paper and<br>presentation(50 % + 50 %)|1,0|
-|Reflections in international economics|S||||2|5||||5|||Presentation|1,0|
-|**Languages**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Foreign languages 1.12)|Ü||4|||15|5||||||3)|0,5|
-|Foreign languages 1.22)|||4|||||5||||||0,5|
-|Foreign languages 22)|||4||||||||5|||1.0|
-|**Experience**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|Electives abroad4)|V|8||||20|||||20||5)|1,0|
-|**Electives**|||||||||||||||
-||||||||||||||||
-||||||||||||||||
-|5 Electives à 5 ECTS4)|S||||20|25||||5|5|15|5)|1,0|
-|Bachelor’s thesis|HS||||2|15||||||3|Bachelor’s thesis and<br>Bachelor seminar (100 % + 0 %)6)|1,0|
-||Bachelor’s<br>thesis|||||||||||12|||
-||||||||30|30|30|30|30|30|||
-|Summe SWS:|||||||Summe ECTS-Punkte: 180||||||||
+|**Modulbezeichnung**|**Lehr-**<br>**veran-**||**SWS**|**Gesamt**<br>**ECTS-**|**Wo**|**rkload-Vert**|**eilung pro**|**Semester in**|**ECTS-Pun**|**kten**|**Art und Umfang der Prüfungs-**<br> <sup>**1)**</sup>|**Faktor**<br>**Ab-**<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||**staltung**|**V**|**Ü**<br>**P**|**Punkte**<br>**S**|**1. Sem.**|**2. Sem.**|**3. Sem.**|**4. Sem.**|**5. Sem.**|**6. Sem.**|**bzw. Studienleistung**|**schluss-**<br>**note**|
+|Introduction to econometrics|V<br>Ü|2|2|5||5|||||Written examination|0,5|
+|Data collection methods in the social<br>andbehavioralsciences|S|||2<br>5||||5|||Written examination (60 %) and<br>exerciseerformance(40%)|1,0|
+|<br>**Reflection**<br>|||||||||||p  <br>||
+|Seminar in international economic<br>Studies|S|||4<br>5|||5||||Seminar paper and<br>presentation(50 % + 50 %)|1,0|
+|Reflections in international economics|S|||2<br>5||||5|||Presentation|1,0|
+|**Languages**<br>|||||||||||||
+|Foreign languages 1.1<sup>2)</sup>|||4||5|||||||0,5|
+|Foreign languages 1.2<sup>2)</sup>|Ü||4|15||5|||||3)|0,5|
+|Foreign languages 2<sup>2)</sup>|||4||||||5|||1.0|
+|<br>**Experience**|||||||||||||
+|Electives abroad<sup>4)</sup>|V|8||20|||||20||5)|1,0|
+|**Electives**|||||||||||||
+|5 Electives à 5 ECTS<sup>4)</sup>|S|||20<br>25||||5|5|15|5)|1,0|
+|Bachelor’s thesis|HS<br>Bachelor’s|||2<br>15||||||3<br>12|Bachelor’s thesis and<br>Bhl i 100 %  0 %<sup>6)</sup>|1,0|
+|Summe SWS:|thesis||||30|30<br>S|30<br>umme ECT|30<br>S-Punkte: 1|30<br>80|<br>30|aceor semnar (  +  )||
 
 - 1) Der Umfang bzw. die Dauer der Prüfung ist der **BPOWISO** zu entnehmen. 
 

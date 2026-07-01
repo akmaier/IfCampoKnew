@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MSc Internationale Wirtschaftsinformatik IIS FPOIIS 20191203 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_20191203_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/
-scraped_at: 2026-05-01T09:38:52+00:00
-page_count_chars: 12946
+scraped_at: 2026-07-01T11:03:58+00:00
+page_count_chars: 13127
 ---
 
 # MSc Internationale Wirtschaftsinformatik IIS FPOIIS 20191203 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 12946
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/RW/WiWi/Master/Internationale_Wirtschaftsinformatik_IIS/Aenderungssatzungen/MSc_Internationale_Wirtschaftsinformatik_IIS_FPOIIS_20191203_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/masterstudiengaenge/>
 
-## **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS –** 
+# **Neunte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPOIIS –** 
 
-## **Vom 3. Dezember 2019** 
+# **Vom 3. Dezember 2019** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1, Art. 43 Abs. 5 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale Wirtschaftsinformatik / International Information Systems (IIS) der Rechts- und Wirtschaftswissenschaftlichen Fakultät der FAU – FPOIIS – vom 8. Juli 2010, zuletzt geändert durch Satzung vom 15. August 2019, wird wie folgt geändert: 
 
@@ -26,7 +26,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 2. In § 1 werden nach den Worten „Rahmenprüfungsordnung für die“ die Worte „konsekutiven und nicht-konsekutiven“ gestrichen sowie nach den Worten „im Fachbereich“ das Wort „Wirtschaftswissenschaften“ durch die Worte „Wirtschafts- und Sozialwissenschaften“ und nach den Worten „Fakultät der FAU –“ die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
-## 3. Die Regelung in § 2 erhält folgende neue Fassung: 
+3. Die Regelung in § 2 erhält folgende neue Fassung: 
 
 „(1) Einschlägige Abschlüsse im Sinne des § 26 Abs. 1 Satz 1 Nr. 1 **MPOWISO** sind insbesondere Bachelorabschlüsse aus den Bereichen Wirtschaftswissenschaften, der Wirtschaftsinformatik, der Technik oder der Informatik (insbesondere Bachelorstudiengang Wirtschaftswissenschaften, Wirtschaftsinformatik, International Business Studies, Informatik und Wirtschaftsingenieurwesen an der FAU sowie vergleichbare Studiengänge anderer Hochschulen, z. B. Betriebswirtschaftslehre, Business Administration, Information Systems, oder Computer Science). 
 
@@ -46,7 +46,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
    - b) fachlich einschlägige berufspraktische Tätigkeiten, insbesondere Praktika, Berufsausbildung, Tätigkeiten als wissenschaftliche Hilfskraft oder Werkstudententätigkeiten; der Nachweis kann z. B. durch einen Arbeitsvertrag, ein Arbeits- oder Praktikumszeugnis oder sonstigen Tätigkeitsnachweis des jeweiligen Arbeitgebers erfolgen. 
 
-(3)[1] In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach Nr. 2.3 **Anlage** zur **MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit insgesamt maximal 100 zu vergebenden Punkten gemäß Nr. 5.1 **Anlage** zur **MPOWISO** wie folgt bewertet: 
+(3)<sup>1</sup> In der ersten Stufe des Qualifikationsfeststellungsverfahrens werden die nach Nr. 2.3 **Anlage** zur **MPOWISO** und Abs. 2 einzureichenden Unterlagen nach folgenden Kriterien mit insgesamt maximal 100 zu vergebenden Punkten gemäß Nr. 5.1 **Anlage** zur **MPOWISO** wie folgt bewertet: 
 
 1. Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen anhand des Notendurchschnitts (max. 50 Punkte), 
 
@@ -58,11 +58,11 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 2Für die Kriterien nach Abs. 3 werden jeweils Punkte wie folgt vergeben: 
 
-1.[1] Die Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen gemäß Satz 1 Nr. 1 fließt mit maximal 50 Punkten in die Bewertung mit ein.[2] Die Punktevergabe richtet sich nach Tabelle 1. 
+1.<sup>1</sup> Die Qualität des bisherigen Studienabschlusses bzw. der bisherigen Leistungen gemäß Satz 1 Nr. 1 fließt mit maximal 50 Punkten in die Bewertung mit ein.<sup>2</sup> Die Punktevergabe richtet sich nach Tabelle 1. 
 
-**Tabelle 1: Notenumrechnung** 
+**<u>Tabelle 1: Notenumrechnung</u>** 
 
-|**Note**|**Punkte**|**Note**|**Punkte**|
+|<br>**Note**|<br>**Punkte**|**Note**|**Punkte**|
 |---|---|---|---|
 |**1.0**|50.0|**2.1**|32.5|
 |**1.1**|49.0|**2.2**|30.0|
@@ -78,7 +78,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 2 
 
-2.[1] Die für das Studienziel relevanten Kenntnisse in Betriebswirtschaftslehre, Informatik und Wirtschaftsinformatik gemäß Satz 1 Nr. 2 fließen mit maximal 25 Punkten in die Bewertung ein, wobei maximal 
+2.<sup>1</sup> Die für das Studienziel relevanten Kenntnisse in Betriebswirtschaftslehre, Informatik und Wirtschaftsinformatik gemäß Satz 1 Nr. 2 fließen mit maximal 25 Punkten in die Bewertung ein, wobei maximal 
 
    - a) 10 Punkte für besondere Fachkenntnisse in den Grundlagen der Wirtschaftswissenschaften (jeweils 2 Punkte für Module im Umfang von min. 5 ECTS-Punkten in den Bereichen Projektmanagement, Absatz, Unternehmensführung, Buchführung und Statistik), 
 
@@ -86,13 +86,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
    - c) 5 Punkte für besondere Fachkenntnisse in den Grundlagen der Wirtschaftsinformatik (jeweils 2 Punkte für Module im Umfang von min. 5 ECTS-Punkten in den Bereichen Prozessmanagement, IT-Management und 1 Punkt für Module im Umfang von min. 5 ECTS-Punkten im Bereich Informationssysteme) vergeben werden. 
 
-3.[1] Die Qualität einer eigenständig verfassten Arbeitsprobe gemäß Satz 1 Nr. 1 fließt mit maximal 15 Punkten in die Bewertung ein.[2] Dabei werden jeweils maximal 5 Punkte für den Inhalt und die Argumentation, die Verwendung von wissenschaftlichen Quellen sowie für Struktur und Format der Arbeit vergeben. 
+3.<sup>1</sup> Die Qualität einer eigenständig verfassten Arbeitsprobe gemäß Satz 1 Nr. 1 fließt mit maximal 15 Punkten in die Bewertung ein.<sup>2</sup> Dabei werden jeweils maximal 5 Punkte für den Inhalt und die Argumentation, die Verwendung von wissenschaftlichen Quellen sowie für Struktur und Format der Arbeit vergeben. 
 
-4.[1] Einschlägige Berufserfahrung und Auslandsaufenthalte, insbesondere Praktika, Berufsausbildung oder qualifizierte Auslandsaufenthalte gemäß Satz 1 Nr. 4 fließen mit maximal 10 Punkten in die Bewertung mit ein.[2] Dabei werden pro Monat der Beschäftigung in einschlägigen Vollzeitpraktika / Berufstätigkeiten oder Auslandsaufenthalten 1,7 Punkte vergeben sowie 0,85 Punkte pro Monat der Beschäftigung in einschlägigen Nebentätigkeiten. 
+4.<sup>1</sup> Einschlägige Berufserfahrung und Auslandsaufenthalte, insbesondere Praktika, Berufsausbildung oder qualifizierte Auslandsaufenthalte gemäß Satz 1 Nr. 4 fließen mit maximal 10 Punkten in die Bewertung mit ein.<sup>2</sup> Dabei werden pro Monat der Beschäftigung in einschlägigen Vollzeitpraktika / Berufstätigkeiten oder Auslandsaufenthalten 1,7 Punkte vergeben sowie 0,85 Punkte pro Monat der Beschäftigung in einschlägigen Nebentätigkeiten. 
 
-3Die Gesamtpunktzahl der erreichten Punkte ergibt sich aus der Addition der in den einzelnen gewichteten Kriterien vergebenen Punkte.[4] Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.[5] Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
+3Die Gesamtpunktzahl der erreichten Punkte ergibt sich aus der Addition der in den einzelnen gewichteten Kriterien vergebenen Punkte.<sup>4</sup> Bewerberinnen bzw. Bewerber, die 70 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen bzw. Bewerber mit weniger als 50 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.<sup>5</sup> Bewerberinnen und Bewerber, die in der ersten Stufe zwischen 50 und 69 Punkten erreicht haben, werden zur zweiten Stufe gemäß Abs. 4 eingeladen. 
 
-(4)[1] In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber zu einem Zugangsgespräch eingeladen.[2] Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.[3] In dem Zugangsgespräch werden erneut bis zu 100 Punkten vergeben.[4] Die Bewerberinnen und Bewerber werden insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
+(4)<sup>1</sup> In der zweiten Stufe des Qualifikationsfeststellungsverfahrens gemäß Nr. 5.2 **Anlage MPOWISO** werden die Bewerberinnen und Bewerber zu einem Zugangsgespräch eingeladen.<sup>2</sup> Das Gespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.<sup>3</sup> In dem Zugangsgespräch werden erneut bis zu 100 Punkten vergeben.<sup>4</sup> Die Bewerberinnen und Bewerber werden insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Qualität der fachspezifischen Grundkenntnisse in den Bereichen Wirtschaftswissenschaften (max. 20 Punkte), Informatik (max. 20 Punkte) und Wirtschaftsinformatik (max. 20 Punkte), 
 
@@ -104,24 +104,24 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 3 
 
-|**Tabelle 2 Punktevergabe nach § 2 Abs. 4Satz 4**||
+|**Tabelle 2 Punktevergabe nach § 2 Abs. 4Satz 4**<br>||
 |---|---|
-|**Übereinstimmung mit den Anforderung nach Abs. 4Satz 4 Nr. 1, 2oder 3**|**Punkte**|
-|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Abs. 4 Satz 4|20|
-|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach<br>Abs. 4 Satz 4, wobei in einzelnen Punkten die Anforderungen nicht oder nicht voll erfüllt<br>werden|15|
+|**Übereinstimmung mit den Anforderung nach Abs. 4Satz 4 Nr. 1, 2oder 3**<br>|**Punkte**|
+|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Abs. 4 Satz 4<br>|20|
+|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach<br>Abs. 4 Satz 4, wobei in einzelnen Punkten die Anforderungen nicht oder nicht voll erfüllt<br>werden<br>|15|
 |Überwiegende Übereinstimmung mit den Anforderungen aus den Kriterien nach<br>Abs. 4 Satz 4 Nr., wobei ansonsten die Anforderungen nicht oder nicht voll erfüllt wer-<br>den|10|
 |Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 werden überwiegend nicht<br>erfüllt|5|
 |Die Anforderungen aus den Kriterien nach Abs. 4 Satz 4 werden nicht oder so gut wie<br>nicht erfüllt|0|
 
 6Ab einer erreichten Punktzahl von mindestens 70 Punkten wird der Zugang zum Studiengang gewährt; die übrigen Bewerberinnen und Bewerber erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid.“ 
 
-4. § 3 wird wie folgt geändert: 
+# 4. § 3 wird wie folgt geändert: 
 
-   - a) In der Überschrift werden nach dem Wort „ **Prüfungen** “ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache, Auslandsaufenthalt, Schwerpunktbereiche** “ angefügt. 
+- a) In der Überschrift werden nach dem Wort „ **Prüfungen** “ ein Komma und die Worte „ **Unterrichts- und Prüfungssprache, Auslandsaufenthalt, Schwerpunktbereiche** “ angefügt. 
 
-   - b) Abs. 2 Satz 2 erhält folgende neue Fassung: 
+- b) Abs. 2 Satz 2 erhält folgende neue Fassung: 
 
-„[2] Module, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums des Masterstudiengangs absolviert wurden, können wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, nicht noch einmal gewählt werden.“ 
+„<sup>2</sup> Module, die bereits im Rahmen des Bachelorstudiums oder anderer Modulbereiche des Curriculums des Masterstudiengangs absolviert wurden, können wegen des erforderlichen fachspezifischen Kompetenzgewinns, welcher sich aus der jeweiligen Modulbeschreibung im Kontext des Qualifikationsziels des Masterstudiengangs ergibt, nicht noch einmal gewählt werden.“ 
 
 - c) In Abs. 3 und 4 wird jeweils die Abkürzung „ **MPOWIWI** “ durch die Abkürzung „ **MPOWISO** “ ersetzt. 
 
@@ -133,7 +133,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
    - cc) In Satz 6 wird in beiden Klammerzusätzen jeweils das Wort „ECTS“ durch das Wort „ECTS-Punkte“ ersetzt. 
 
-## 5. § 4 wird wie folgt geändert: 
+# 5. § 4 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 wird das Wort „belegen“ durch das Wort „nachweisen“ ersetzt. 
 
@@ -149,13 +149,13 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Internationale 
 
 7. In § 7 wird nach Abs. 3 folgender neuer Abs. 5 angefügt: 
 
-„(5)[1] Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
+„(5)<sup>1</sup> Die neunte Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 2 für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.“ 
 
-8. In den Erläuterungen unterhalb der Tabelle in der **Anlage** erhält der zweite Satz der Erläuterung[1)] und[2)] jeweils folgende neue Fassung: 
+8. In den Erläuterungen unterhalb der Tabelle in der **Anlage** erhält der zweite Satz der Erläuterung<sup>1)</sup> und<sup>2)</sup> jeweils folgende neue Fassung: 
 
 „Bei der Modulwahl ist § 4 Abs. 3 Satz 3 **MPOWISO** zu beachten.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Abweichend von Satz 1 gelten die Änderungen in § 2 (lfd. Nr. 3) für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden. 
 

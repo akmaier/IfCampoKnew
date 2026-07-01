@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/Pruefungsordnung Theol. Aufnahmepruefung (1) nach EKD-Rahmenordnung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:44:14+00:00
-page_count_chars: 39810
+scraped_at: 2026-07-01T09:54:51+00:00
+page_count_chars: 39690
 ---
 
 # PDF
@@ -16,13 +16,13 @@ RS 525/2
 
 Az.: 20/1-2/0-1 
 
-## **Prüfungsordnung** 
+# **Prüfungsordnung** 
 
-## **für die Theologische Aufnahmeprüfung** 
+# **für die Theologische Aufnahmeprüfung** 
 
 Der Landeskirchenrat erlässt aufgrund des § 2 Abs. 1 Buchst. c des Kirchengesetzes über den Vorbereitungsdienst in der Evangelisch-Lutherischen Kirche in Bayern und die Rechtsverhältnisse der Vikare und Vikarinnen (Vorbereitungsdienstgesetz-VorbDG) in der Fassung der Bekanntmachung vom 2. Dezember 1994 (KABl S. 392) folgende Prüfungsordnung für die Theologische Aufnahmeprüfung (Aufnahmeprüfungsordnung - TheolAufnPO): 
 
-# **Prüfungsordnung für die Theologische Aufnahmeprüfung (Aufnahmeprüfungsordnung - TheolAufnPO)** 
+## **Prüfungsordnung für die Theologische Aufnahmeprüfung (Aufnahmeprüfungsordnung - TheolAufnPO)** 
 
 ## **I. Abschnitt** 
 
@@ -94,7 +94,7 @@ Die Zulassung zur Theologischen Aufnahmeprüfung setzt folgende Studien- und Lei
 
 - g) den Nachweis über die Anfertigung einer Predigtarbeit und eines Unterrichtsentwurfes, jeweils mit Benotung; 
 
-- h) den Nachweis (ein benoteter Schein) über die Beschäftigung mit einer lebenden nichtchristlichen Religion; eine Prüfungsleistung aus der Zwischenprüfung kann hier nicht eingebracht werden;[1] 
+- h) den Nachweis (ein benoteter Schein) über die Beschäftigung mit einer lebenden nichtchristlichen Religion; eine Prüfungsleistung aus der Zwischenprüfung kann hier nicht eingebracht werden;<sup>1</sup> 
 
 - i) die Bestätigung der Teilnahme an mindestens einem vom Prüfungsamt anerkannten theoriebegleiteten Praktikum; 
 
@@ -104,7 +104,9 @@ Die Zulassung zur Theologischen Aufnahmeprüfung setzt folgende Studien- und Lei
 
 - l) den Nachweis über die Teilnahme an einer kirchenrechtlichen Veranstaltung und an wenigstens zwei Lehrveranstaltungen, die Kenntnisse und Fähigkeiten in den Humanwissenschaften (insbesondere Psychologie, Pädagogik) vermitteln. 
 
-§ 6 Anmeldung zur Prüfung 
+§ 6 
+
+Anmeldung zur Prüfung 
 
 (1) Zusammen mit dem Anmeldeformular sind die Nachweise gemäß § 5 und folgende Unterlagen vorzulegen: 
 
@@ -141,8 +143,6 @@ Die Zulassung zur Theologischen Aufnahmeprüfung setzt folgende Studien- und Lei
 (2) In begründeten Ausnahmefällen (z.B. wenn Theologie Zweitstudium war) kann auf Antrag auf die Zulassungsvoraussetzungen des § 5 Buchst. a, d, i bis l sowie § 6 Nr. 2 Buchst. f ganz oder teilweise verzichtet werden. 
 
 (3) Das Prüfungsamt bestimmt für jeden Prüfungstermin einen Zeitraum, innerhalb dessen die Kandidaten und Kandidatinnen sich anmelden und ihre Unterlagen einreichen können. Die Meldefrist und der Meldeschluss werden spätestens sechs Monate vor Beginn der Meldefrist im Amtsblatt für die Evangelisch-Lutherische Kirche in Bayern bekannt gegeben. 
-
-**==> picture [104 x 24] intentionally omitted <==**
 
 (1) Das Prüfungsamt stellt fest, ob die Zulassungsvoraussetzungen gegeben sind, und spricht die Zulassung aus. 
 
@@ -212,7 +212,7 @@ Die Prüfung besteht aus zwei Prüfungsteilen:
 
 und Dogmengeschichte stehen vier bis sechs Themen aus verschiedenen Epochen zur Wahl. Im Fach Praktische Theologie stehen drei Themen zur Wahl. 
 
-(4) Die Klausuren in den biblischen Fächern bestehen aus der Übersetzung und der wissenschaftlichen Exegese eines Textabschnittes sowie der Bearbeitung eines Themas. In den übrigen Klausuren kann die Aufgabe als Essay-Klausur oder als kombinierter Test[2] gestellt werden. 
+(4) Die Klausuren in den biblischen Fächern bestehen aus der Übersetzung und der wissenschaftlichen Exegese eines Textabschnittes sowie der Bearbeitung eines Themas. In den übrigen Klausuren kann die Aufgabe als Essay-Klausur oder als kombinierter Test<sup>2</sup> gestellt werden. 
 
 (5) Im Anhang zu dieser Prüfungsordnung werden die zulässigen Hilfsmittel abschließend genannt. Die Kandidaten und Kandidatinnen sollen auf § 23 Abs. 2 hingewiesen werden. 
 
@@ -244,35 +244,35 @@ und Dogmengeschichte stehen vier bis sechs Themen aus verschiedenen Epochen zur 
 
 (3) Die Prüfungsleistungen werden wie folgt benotet: 
 
-|1|=|sehr gut|
-|---|---|---|
-|1,5|=|fast sehr gut|
-|2|=|gut|
-|2,5|=|fast gut|
-|3|=|befriedigend|
-|3,5|=|noch befriedigend|
-|4|=|ausreichend|
-|4,5|=|fast mangelhaft|
-|5|=|mangelhaft|
-|5,5|=|fast ungenügend|
-|6|=|ungenügend|
+|1|=    sehr gut|
+|---|---|
+|1,5|=    fast sehr gut|
+|2|=    gut|
+|2,5|=    fast gut|
+|3|=    befriedigend|
+|3,5|=    noch befriedigend|
+|4|=    ausreichend|
+|4,5|=    fast mangelhaft|
+|5|=    mangelhaft|
+|5,5|=    fast ungenügend|
+|6|=    ungenügend|
 
 (4) Im Fach Systematische Theologie wird die mündliche Note aus den Noten der Teilprüfungen Dogmatik und Ethik als Durchschnittsnote gebildet, wobei die Teilnoten gleich gewichtet werden. Wird das Fach Systematische Theologie als Schwerpunktfach gewählt, dann wird die mündliche Note so gebildet, dass die verlängerte Teilprüfung zweifach und die andere Teilprüfung einfach zählt. Im Übrigen gilt Absatz 5 entsprechend. 
 
 (5) In allen Fächern werden Fachnoten gebildet. Dabei wird in den Fächern, in denen eine Klausur geschrieben und die mündliche Prüfung abgelegt wurde, die jeweilige Fachnote als Durchschnittsnote errechnet, wobei die Klausurnote zweifach und die Note für die mündliche Prüfung einfach zählen. Im Schwerpunktfach ist die mündliche Note zugleich die Fachnote. Die Fachnote wird bis auf eine Stelle hinter dem Komma angegeben; alle weiteren Stellen werden ohne Rundung gestrichen. 
 
-|Fachnote||bis 1,2|=    sehr gut|
-|---|---|---|---|
-|Fachnote|von|1,3  –  1,7|=    fast sehr gut|
-|Fachnote|von|1,8  –  2,2|=    gut|
-|Fachnote|von|2,3  –  2,7|=    fast gut|
-|Fachnote|von|2,8  –  3,2|=    befriedigend|
-|Fachnote|von|3,3  –  3,7|=    noch befriedigend|
-|Fachnote|von|3,8  –  4,2|=    ausreichend|
-|Fachnote|von|4,3  –  4,7|=    fast mangelhaft|
-|Fachnote|von|4,8  –  5,2|=    mangelhaft|
-|Fachnote|von|5,3  –  5,7|=    fast ungenügend|
-|Fachnote||über 5,7|=    ungenügend|
+|Fachnote|bis 1,2|=    sehr gut|
+|---|---|---|
+|Fachnote|von 1,3  –  1,7|=    fast sehr gut|
+|Fachnote|von 1,8  –  2,2|=    gut|
+|Fachnote|von 2,3  –  2,7|=    fast gut|
+|Fachnote|von 2,8  –  3,2|=    befriedigend|
+|Fachnote|von 3,3  –  3,7|=    noch befriedigend|
+|Fachnote|von 3,8  –  4,2|=    ausreichend|
+|Fachnote|von 4,3  –  4,7|=    fast mangelhaft|
+|Fachnote|von 4,8  –  5,2|=    mangelhaft|
+|Fachnote|von 5,3  –  5,7|=    fast ungenügend|
+|Fachnote|über 5,7|=    ungenügend|
 
 (6) Aus den Einzelnoten wird eine Teilprüfungsnote für den ersten Teil der Prüfung als Durchschnitt errechnet, wobei jede Klausurnote zweifach, die Fachnote im Schwerpunktfach ebenfalls zweifach, die übrigen Noten der mündlichen Prüfungen je einfach zählen. Im Übrigen gilt Absatz 5 entsprechend. 
 
@@ -332,15 +332,13 @@ und Dogmengeschichte stehen vier bis sechs Themen aus verschiedenen Epochen zur 
 
 Die wissenschaftliche Hausarbeit ist bestanden, wenn die Benotung mindestens ausreichend (Note 4) erreicht. Die Note wird durch die Prüfungskommission festgesetzt. 
 
-§ 18 Gesamtprüfungsnote 
+§ 18 
 
 (1) Das Prüfungsergebnis setzt sich zusammen aus den Noten des ersten und der Note des zweiten Teils der Prüfung (wissenschaftliche Hausarbeit). 
 
 (2) Es wird eine Gesamtprüfungsnote als Durchschnittsnote gebildet. Dabei zählen die Noten der Klausuren und die mündliche Fachnote im Schwerpunktfach zweifach, die sonstigen Noten der mündlichen Prüfungen einfach und die Note der wissenschaftlichen Hausarbeit dreifach. § 13 Abs. 5 gilt entsprechend. 
 
 (3) Die Prüfungskommission setzt die Gesamtprüfungsnote in einer Schlusskonferenz fest. 
-
-**==> picture [40 x 23] intentionally omitted <==**
 
 (1) Über die bestandene Theologische Aufnahmeprüfung erhält die Kandidatin oder der Kandidat unverzüglich ein Zeugnis. 
 
@@ -378,8 +376,6 @@ fungsakten an einem der beiden Termine stellen. In begründeten Einzelfällen ka
 
 (7) Das Vorliegen schwerwiegender Gründe im Sinne der Absätze 3-5 wird vom Prüfungsamt festgestellt. 
 
-**==> picture [56 x 21] intentionally omitted <==**
-
 (1) Wer nach ununterbrochenem Studium an der dem achten Fachsemester unmittelbar folgenden Prüfung teilnimmt, kann bestandene Fachprüfungen (gemäß § 13 Abs. 5) sowie die bestandene wissenschaftliche Hausarbeit (§ 9 Buchst. b) auf Antrag erneut bis spätestens zum zweiten auf die Zeugnisübergabe (§ 19 Abs. 1) folgenden Prüfungstermin wiederholen, um das Ergebnis zu verbessern. Das bessere Ergebnis zählt. 
 
 (2) Auf die Studienzeit nach Absatz 1 Satz 1 werden folgende Beurlaubungszeiten nicht angerechnet: 
@@ -390,7 +386,7 @@ fungsakten an einem der beiden Termine stellen. In begründeten Einzelfällen ka
 
 2. andere Zeiten bis zu jeweils zwei Studienhalbjahren, während derer der Prüfungsteilnehmer oder die Prüfungsteilnehmerin nachweislich 
 
-   - a) das Praxisjahr nach der Praxisjahrverordnung[3] abgeleistet hat, 
+   - a) das Praxisjahr nach der Praxisjahrverordnung<sup>3</sup> abgeleistet hat, 
 
    - b) an einer ausländischen Universität, mit einer anderen Unterrichtssprache als Deutsch, in einem Theologischen Studiengang studiert hat, 
 

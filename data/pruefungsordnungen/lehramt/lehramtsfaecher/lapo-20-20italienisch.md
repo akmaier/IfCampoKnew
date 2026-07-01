@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 25.03.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Italienisch.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:11:41+00:00
-page_count_chars: 8049
+scraped_at: 2026-07-01T08:40:27+00:00
+page_count_chars: 8130
 ---
 
 # pdf vom 25.03.2009
@@ -12,7 +12,7 @@ page_count_chars: 8049
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Urfassung/LAPO%20-%20Italienisch.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Fachstudien- und Prüfungsordnung für das Fach Italienisch im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 ## Vom 25. März 2009 
 
@@ -30,11 +30,11 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissenschaft im Fach Italienisch für das Lehramt an Gymnasien die Modulprüfungen in den Basismodulen Italienische Sprachpraxis 1 und Einführung in die Romanistik (20 ECTS) erfolgreich abgelegt werden. 
 
-- **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
+## **§ 3 Zulassungsvoraussetzungen; Fremdsprachenkenntnisse** 
 
-- (1)[1] Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.[2] Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
+- (1)<sup>1</sup> Die Studierenden müssen den Nachweis italienischer Sprachkenntnisse mindestens im Umfang von ca. 120 Stunden erbringen, die in etwa dem Niveau GER: A 2 entsprechen.<sup>2</sup> Der Nachweis muss bis zum Ende des zweiten Semesters beim Prüfungsamt vorgelegt werden. 
 
-- (2)[1] Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.[2] Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
+- (2)<sup>1</sup> Es wird eine sehr gute Beherrschung der deutschen Standardsprache in Wort und Schrift erwartet.<sup>2</sup> Ferner wird die Kenntnis einer zweiten modernen Fremdsprache dringend empfohlen. 
 
 **§ 4 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die Schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
 
@@ -44,7 +44,7 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissen
 
 1 
 
-- (1)[1] Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind im Bereich der Fachwissenschaft folgende Module erfolgreich abzulegen: Italienische Sprachpraxis 1-5; Einführung in die Romanistik; Italienische Sprachwissenschaft 1; Italienische Literatur- und Kulturwissenschaft 1; Italienische Literaturwissenschaft für das Lehramt; Italienische Sprachwissenschaft für das Lehramt; Italienische Kulturwissenschaft für das Lehramt. 
+- (1)<sup>1</sup> Im Studium des Faches Italienisch für das Lehramt an Gymnasien sind im Bereich der Fachwissenschaft folgende Module erfolgreich abzulegen: Italienische Sprachpraxis 1-5; Einführung in die Romanistik; Italienische Sprachwissenschaft 1; Italienische Literatur- und Kulturwissenschaft 1; Italienische Literaturwissenschaft für das Lehramt; Italienische Sprachwissenschaft für das Lehramt; Italienische Kulturwissenschaft für das Lehramt. 
 
 - (2) Alle Basis- und Aufbaumodule sollten nach Möglichkeit in den unter Abs. 3 angegebenen Studiensemestern absolviert werden. 
 
@@ -52,7 +52,8 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissen
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
-|1|**Basismodul**<br>**Italienische Sprachpraxis 1**||**10**|**Klausur**||
+|1|**Basismodul**||**10**|**Klausur**||
+||**Italienische Sprachpraxis 1**|||||
 ||Corso di italiano intermedio I|6|8|K 90’|1,0|
 ||Fonetica|2|2|SL||
 |2|**Basismodul**<br>**Italienische Sprachpraxis 2**||**10**|**Klausur**||
@@ -61,40 +62,40 @@ Zum Bestehen der Grundlagen- und Orientierungsprüfung müssen in der Fachwissen
 |1 / 2|**Basismodul**<br>**Einführung in die Romanistik**||**10**|**Doppelklausur**||
 ||Einführung in die romanistische<br>Sprachwissenschaft|2|4|K 90’|0,5|
 ||Einführung in die italienische<br>Literaturwissenschaft|3|6|K 90’|0,5|
-|3 / 4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder**<br>**mündliche Prüfung**||
+|3 / 4|**Aufbaumodul**<br>**Italienische Sprachwissenschaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur ode**<br>**mündliche Prüfun**|**aus dem**<br>**r**<br>**g**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 45’ /<br>MP 10’|0,4|
 ||Proseminar/Übung|2|2|SL||
-|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- und**<br>**Kulturwissenschaft 1**||**10**|**Prüfungsleistung aus dem**<br>**PS + Klausur oder**<br>**mündliche Prüfung**||
+|3 / 4|**Aufbaumodul**<br>**Italienische Literatur- und**<br>**Kulturwissenschaft 1**||**10**|**Prüfungsleistung**<br>**PS + Klausur ode**<br>**mündliche Prüfun**|**aus dem**<br>**r**<br>**g**|
 ||Proseminar|2|4|HA|0,6|
 ||Vorlesung|2|4|K 90’ /<br>MP 15’|0,4|
 ||Proseminar/Übung|2|2|SL||
 |3 / 4|**Aufbaumodul**<br>**Italienische Sprachpraxis 3**||**10**|**Klausur**||
 ||Comprensione e produzione orale|2|2|SL||
-||Comprensione e produzione scritta|2|2|K 90’|1,0|
-||Grammatica e stilistica I|2|2|||
+||Comprensione e produzione scritta|2|2|’||
+||Grammatica e stilistica I|2|2|K 90|1,0|
 ||Cultura e civiltà italiana II|2|4|SL||
-|5 / 6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Doppelklausur bzw.**<br>**Klausur + HA**||
+|5 / 6|**Vertiefungsmodul**<br>**Italienische Sprachpraxis 4**||**10**|**Doppelklausur bz**<br>**Klausur + HA**|**w.**|
 
 2 
 
-||Cultura e civiltà italiana III|2|4|K 90’/HA|0,5|
-|---|---|---|---|---|---|
-||Laboratorio di scrittura|2|2|K 90’|0,5|
-||Traduzione Tedesco-Italiano|2|2|SL||
-||Traduzione Italiano-Tedesco I|2|2|SL||
+|Cultura e civiltà italiana III|2|4|K 90’/HA|0,5|
+|---|---|---|---|---|
+|Laboratorio di scrittura|2|2|K 90’|0,5|
+|Traduzione Tedesco-Italiano|2|2|SL||
+|Traduzione Italiano-Tedesco I|2|2|SL||
 
 FS= Fachsemester; K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; SL = Studienleistung 
 
-## **Pflichtbereich für Ital** i **enisch als erstes Fach (LAG)** 
+### **Pflichtbereich für Ital** i **enisch als erstes Fach (LAG)** 
 
-|**FS**|**Modul**|**SWS**|**ECTS**||
-|---|---|---|---|---|
-|6|**Abschlussmodul Schriftliche**<br>**Hausarbeit**|**1**|**10**||
-||Kolloquium zur Besprechung der<br>Schriftlichen Hausarbeit|1|1||
-||SchriftlicheHausarbeit||9||
+|**FS**|**Modul**|**SWS**|**ECTS**|
+|---|---|---|---|
+|6|**Abschlussmodul Schriftliche**<br>**Hausarbeit**|**1**|**10**|
+||Kolloquium zur Besprechung der<br>Schriftlichen Hausarbeit|1|1|
+||SchriftlicheHausarbeit||9|
 
-## **Studium nach dem 6. Semester LAG** 
+### **Studium nach dem 6. Semester LAG** 
 
 |**FS**|**Modul**|**SWS**|**ECTS**|**Modulabschluss-**<br>**prüfung**|**Faktor**|
 |---|---|---|---|---|---|
@@ -119,7 +120,7 @@ Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:
 
 |**FS**|**Modulbezeichnung**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-|1-3|**Fachdidaktisches Modul 1: Einführung**<br>**in die Didaktik des Italienischen**||**5**||
+|1-3|**Fachdidaktisches Modul 1: Einführung**<br>**in die Didaktik des Italienischen**<br>||**5**||
 ||Übung: Einführung in die Fachdidaktik<br>desItalienischen|2|2|K 90’|
 
 3 

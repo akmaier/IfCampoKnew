@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "31. Juli 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/5AES%20BA-MA%20Psychologie_1.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge-eigenstaendige-po-und-konsekutiv/
-scraped_at: 2026-05-01T08:19:42+00:00
-page_count_chars: 11777
+scraped_at: 2026-07-01T09:36:28+00:00
+page_count_chars: 11936
 ---
 
 # 31. Juli 2012
@@ -14,45 +14,45 @@ page_count_chars: 11777
 
 **Fünfte Satzung zur Änderung der Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMStPO/PSL -** 
 
-## Vom 31. Juli 2012 
+# Vom 31. Juli 2012 
 
 Aufgrund von Art. 13 Abs.1, Art. 43 Abs. 5 Satz 2 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungs- und Studienordnung für den Bachelor- und den Masterstudiengang Psychologie der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMStPO/PSL - vom 28. September 2007, zuletzt geändert durch Satzung vom 11. August 2010, wird wie folgt geändert: 
 
 1. In § 3 Abs. 2 wird folgender neuer Satz 2 eingefügt: 
 
-   - „[2] Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudium zwölf Semester.“ 
+   - „<sup>2</sup> Abweichend von Satz 1 beträgt die Regelstudienzeit im Teilzeitstudium zwölf Semester.“ 
 
 Der bisherige Satz 2 wird zu neuem Satz 3. 
 
 2. Nach § 3 wird folgender neuer § 3a eingefügt: 
 
-## „ **§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
+# „ **§ 3a Teilzeitstudium, Wechsel, ECTS-Punkteüberschreitungen** 
 
-(1)[1] Das Bachelorstudium kann in der Form des hälftigen Teilzeitstudiums absolviert werden. 
+(1)<sup>1</sup> Das Bachelorstudium kann in der Form des hälftigen Teilzeitstudiums absolviert werden. 
 
-(2)[1] Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist nur möglich, wenn im jeweiligen Studiengang ein freier Studienplatz verfügbar ist. 
+(2)<sup>1</sup> Ein Wechsel zwischen Vollzeit- und Teilzeitstudiengang ist nur möglich, wenn im jeweiligen Studiengang ein freier Studienplatz verfügbar ist. 
 
-(3)[1] Im Teilzeitstudium können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.[2] Eine Überschreitung dieser ECTS-Punktezahl um 5 ECTS-Punkte ist einmalig zulässig.[3] Das Studienjahr, in dem die Bachelorarbeit abgegeben wird, ist von der Regelung der Sätze 1 und 2 ausgenommen.[4] Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von den Sätzen 1 und 2 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
+(3)<sup>1</sup> Im Teilzeitstudium können pro Studienjahr maximal 35 ECTS-Punkte erworben werden.<sup>2</sup> Eine Überschreitung dieser ECTS-Punktezahl um 5 ECTS-Punkte ist einmalig zulässig.<sup>3</sup> Das Studienjahr, in dem die Bachelorarbeit abgegeben wird, ist von der Regelung der Sätze 1 und 2 ausgenommen.<sup>4</sup> Der Prüfungsausschuss kann auf begründeten schriftlichen Antrag eine Ausnahme von den Sätzen 1 und 2 genehmigen; der Antrag ist vor dem jeweiligen Prüfungsantritt zu stellen.“ 
 
 3. § 6 Abs. 2 wird wie folgt geändert: 
 
-   - a) Satz 2 erhält folgende neue Fassung: 
+a) Satz 2 erhält folgende neue Fassung: 
 
-„[2] Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder einer Studienleistung bestehen.“ 
+„<sup>2</sup> Diese Prüfung soll in der Regel aus einer Prüfungsleistung oder einer Studienleistung bestehen.“ 
 
 b) Folgender neuer Satz 3 wird eingefügt: 
 
-„[3] In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen bestehen.“ 
+„<sup>3</sup> In fachlich zu begründenden Ausnahmefällen kann diese Prüfung auch aus Teilprüfungen bestehen.“ 
 
 c) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5. 
 
 1 
 
-## 4. § 7 Abs. 1 Satz 3 wird wie folgt geändert: 
+# 4. § 7 Abs. 1 Satz 3 wird wie folgt geändert: 
 
    - a) In Nr. 2 wird das Wort „und“ gestrichen. 
 
@@ -64,21 +64,21 @@ c) Die bisherigen Sätze 3 und 4 werden zu Sätzen 4 und 5.
 
 5. § 12 erhält folgende neue Fassung: 
 
-## „ **§ 12 Anrechnung von Kompetenzen** 
+# „ **§ 12 Anrechnung von Kompetenzen** 
 
-(1)[ 1] Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Module, Studienleistungen und Prüfungsleistungen, die in Studiengängen an anderen staatlichen oder staatlich anerkannten Hochschulen in der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an einer ausländischen Hochschulen erbracht worden sind, werden bei einem Studium nach dieser Prüfungsordnung angerechnet, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für Studienzeiten, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nr. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulausbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, soweit die festgestellten Kompetenzen gleichwertig sind. 2Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
-(3)[1] Die Noten angerechneter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 19 gebildet wurden. 2Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 19 nicht überein, werden die Noten der anderen Hochschulen nach der Formel 
+(3)<sup>1</sup> Die Noten angerechneter Module, Prüfungen und Studienleistungen werden übernommen, wenn sie entsprechend § 19 gebildet wurden. 2Stimmt das Notensystem an der Universität oder an gleichgestellten Hochschulen erbrachter und von der FAU Erlangen-Nürnberg angerechneter Prüfungen mit dem Notensystem des § 19 nicht überein, werden die Noten der anderen Hochschulen nach der Formel 
 
 x = 1 + 3 (Nmax – Nd)/(Nmax - Nmin) mit 
 
 x = gesuchte Umrechnungsnote Nmax = beste erzielbare Note Nmin = unterste Bestehensnote Nd = erzielte Note umgerechnet. 
 
-3Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.[4] Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
+3Bei den so berechneten Noten wird nur eine Stelle hinter dem Komma berücksichtigt.<sup>4</sup> Ist die Umrechnung nicht möglich, so legt der Prüfungsausschuss in der Regel einen entsprechenden Schlüssel für die Notenberechnung fest. 
 
-(4)[1] Die für die Anrechnung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.[2] Bei Vorliegen der Voraussetzungen der Abs. 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung.[3] Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der oder des vom zuständigen Fach benannten Fachvertreterin oder Fachvertreters.[4] Die Anrechnung von Studienzeiten, Modulen, Studien- und Prü- 
+(4)<sup>1</sup> Die für die Anrechnung erforderlichen Unterlagen sind der Vorsitzenden oder dem Vorsitzenden des Prüfungsausschusses vorzulegen.<sup>2</sup> Bei Vorliegen der Voraussetzungen der Abs. 1 bis 2 besteht ein Rechtsanspruch auf Anrechnung.<sup>3</sup> Die Entscheidung trifft die Vorsitzende oder der Vorsitzende des Prüfungsausschusses nach Anhörung der oder des vom zuständigen Fach benannten Fachvertreterin oder Fachvertreters.<sup>4</sup> Die Anrechnung von Studienzeiten, Modulen, Studien- und Prü- 
 
 2 
 
@@ -92,7 +92,7 @@ fungsleistungen, die in der Bundesrepublik Deutschland erbracht wurden, erfolgt 
 
    - b) Es wird folgender neuer Satz 2 angefügt: 
 
-   - „[2] Abweichend von Satz 1 ist im Teilzeitstudium die Grundlagen- und Orientierungsprüfung mit dem Bestehen der in § 30 Abs. 2 beschriebenen Module im Umfang von mindestens 15 ECTS-Punkten erfolgreich abgelegt.“ 
+   - „<sup>2</sup> Abweichend von Satz 1 ist im Teilzeitstudium die Grundlagen- und Orientierungsprüfung mit dem Bestehen der in § 30 Abs. 2 beschriebenen Module im Umfang von mindestens 15 ECTS-Punkten erfolgreich abgelegt.“ 
 
 8. § 30 wird wie folgt geändert: 
 
@@ -108,11 +108,11 @@ a) Abs. 1 erhält folgende Fassung:
 
 1. **M1** Einführung in die Psychologie 10 ECTS-Punkte 
 
-2. **M2a** Statistik I 5 ECTS-Punkte“ 
+   2. **M2a** Statistik I 5 ECTS-Punkte“ 
 
-c) Der bisherige Abs. 2 wird zu neuem Abs. 3. 
+- c) Der bisherige Abs. 2 wird zu neuem Abs. 3. 
 
-## 9. § 33 wird wie folgt geändert: 
+# 9. § 33 wird wie folgt geändert: 
 
    - a) In Abs. 1 Satz 1 wird Nr. 2 gestrichen und der Satz entsprechend angepasst; in Satz 2 werden die Worte „in das Qualifikationsfeststellungsverfahren“ ersatzlos gestrichen. 
 
@@ -126,7 +126,9 @@ c) Der bisherige Abs. 2 wird zu neuem Abs. 3.
 
       - „(3) Im Masterstudiengang wählen die Studierenden: 
 
-         1. ein Grundlagenvertiefungsmodul (Wahlpflichtmodul 3 oder 4) und 2. zwei Anwendungsmodule (Wahlpflichtmodule 5 – 10) 
+         1. ein Grundlagenvertiefungsmodul (Wahlpflichtmodul 3 oder 4) und 
+
+         2. zwei Anwendungsmodule (Wahlpflichtmodule 5 – 10) 
 
 3 
 
@@ -140,7 +142,7 @@ oder einen der folgenden Schwerpunkte:
 
 - b) In Abs. 4 wird die Zahl „ **3** “ durch die Zahl „ **2** “ ersetzt. 
 
-## 12. Anlage 1 wird wie folgt geändert: 
+# 12. Anlage 1 wird wie folgt geändert: 
 
 - a) In der Bezeichnung der Spalte 4 (GOP) werden folgende Abkürzungen angefügt: „VZ = X  TZ = O“ 
 
@@ -150,11 +152,11 @@ oder einen der folgenden Schwerpunkte:
 
 „ 
 
-|**M2a**<br>Statistik I|VL Statistik I|5|X<br>O|SP/MP|0,5||
+|**M2a**|VL Statistik I|5|X|SP/MP|0,5||
 |---|---|---|---|---|---|---|
-||Tutorium I|||SL|||
-|**M2b**<br>Statistik II|VL Statistik II|5||SP/MP|0,5||
-||Tutorium II|||SL|||
+|Statistik I|Tutorium I||O|SL|||
+|**M2b**|VL Statistik II|5||SP/MP|0,5||
+|Statistik II|Tutorium II|||SL|||
 |||10||||10/137|
 
 „ 
@@ -163,9 +165,9 @@ d) Am Ende der Tabelle bei den Anmerkungen erhält die Fußnote * folgende neue 
 
 „* = mindestens eines der Module 5,6,8,9 und 10 aus dem Angebot der ersten beiden Semester im Umfang von insgesamt 10 ECTS-Punkten muss erfolgreich abgelegt werden“ und werden die Worte „VZ = Vollzeitstudium und TZ = Teilzeitstudium“ angefügt. 
 
-## 13. Anlage 2 wird ersatzlos gestrichen. Die bisherige Anlage 3 wird zur neuen Anlage 2. 
+# 13. Anlage 2 wird ersatzlos gestrichen. Die bisherige Anlage 3 wird zur neuen Anlage 2. 
 
-## 14. Die Tabelle in Anlage 2 (neu) wird wie folgt geändert: 
+# 14. Die Tabelle in Anlage 2 (neu) wird wie folgt geändert: 
 
 - a) In Zeile 9 Modul M2 (Sem. Gutachtenerstellung) Spalte 2 (Lehrveranstaltungen) wird das Wort „Sem.“ durch die Abkürzung „HS“ ersetzt. 
 
@@ -195,7 +197,7 @@ d) Am Ende der Tabelle bei den Anmerkungen erhält die Fußnote * folgende neue 
 
 15. Das Inhaltsverzeichnis wird angepasst. 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am 1. Oktober 2012 in Kraft. 2Sie gilt für alle Studierenden, welche die geänderten Module noch nicht abgelegt haben. 
 

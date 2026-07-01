@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "16. Januar 2018"
 pdf_source: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AeSa_%20Elite_FPO_MAOT.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/
-scraped_at: 2026-05-01T09:56:56+00:00
-page_count_chars: 20352
+scraped_at: 2026-07-01T11:20:10+00:00
+page_count_chars: 20447
 ---
 
 # 16. Januar 2018
@@ -12,7 +12,7 @@ page_count_chars: 20352
 **PDF source:** <http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/7AeSa_%20Elite_FPO_MAOT.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/chemie-und-bioingenieurwesen/>
 
-## **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** Vom 16. Januar 2018 
+# **Siebte Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Technologies“ an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** Vom 16. Januar 2018 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
@@ -28,13 +28,13 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
 ## „ **§ 35 ECTS-Punkte, Regelstudienzeit, Studienbeginn** “ 
 
-   - b) Die bisher einzige Regelung wird zu Abs. 1. 
+- b) Die bisher einzige Regelung wird zu Abs. 1. 
 
-   - c) In Abs. 1 (neu) werden die Worte „„Master Programme in Advanced Optical Technologies““ durch die Worte „Advanced Optical Technologies (MAOT)“ ersetzt. 
+- c) In Abs. 1 (neu) werden die Worte „„Master Programme in Advanced Optical Technologies““ durch die Worte „Advanced Optical Technologies (MAOT)“ ersetzt. 
 
-   - d) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
+- d) Nach Abs. 1 (neu) wird folgender neuer Abs. 2 angefügt: 
 
-      - „(2) Das Studium kann nur zum Wintersemester begonnen werden.“ 
+„(2) Das Studium kann nur zum Wintersemester begonnen werden.“ 
 
 3. § 37 wird wie folgt geändert: 
 
@@ -42,7 +42,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Optical Te
 
    - b) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Abweichend von § 4 Abs. 5 **ABMPO/TechFak** ist die Unterrichts- und Prüfungssprache im Elite-Masterstudiengang Advanced Optical Technologies Englisch; einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in deutscher Sprache abgehalten werden.“ 
+„<sup>1</sup> Abweichend von § 4 Abs. 5 **ABMPO/TechFak** ist die Unterrichts- und Prüfungssprache im Elite-Masterstudiengang Advanced Optical Technologies Englisch; einzelne Lehrveranstaltungen und Prüfungen im Wahl(pflicht)bereich können in deutscher Sprache abgehalten werden.“ 
 
 - c) In Satz 2 werden das Wort „Prüferin“ gestrichen und das Wort „Prüfer“ durch das Wort „Prüfenden“ ersetzt. 
 
@@ -56,7 +56,7 @@ b) Abs. 1 wird wie folgt geändert:
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Zur Überprüfung der Qualifikations- und Zugangsvoraussetzungen der Bewerberinnen und Bewerber für den Elite-Masterstudiengang nach § 39 wird gemäß § 11 **ABMPO/TechFak** eine Zugangskommission gebildet.“ 
+„<sup>1</sup> Zur Überprüfung der Qualifikations- und Zugangsvoraussetzungen der Bewerberinnen und Bewerber für den Elite-Masterstudiengang nach § 39 wird gemäß § 11 **ABMPO/TechFak** eine Zugangskommission gebildet.“ 
 
 - bb) In Satz 2 werden nach den Worten „Sprecherin“ und „Vertreterin“ jeweils das Wort „oder“ durch das Wort „bzw.“ sowie nach den Worten „Vertreter der“ das Wort „sechs“ durch das Wort „sieben“ ersetzt. 
 
@@ -64,15 +64,15 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 dd) Satz 4 erhält folgende neue Fassung: 
 
-„[4] Die Sprecherin bzw. der Sprecher muss Hochschullehrerin bzw. Hochschullehrer sein.“ 
+„<sup>4</sup> Die Sprecherin bzw. der Sprecher muss Hochschullehrerin bzw. Hochschullehrer sein.“ 
 
 ee) Sätze 5 und 6 werden gestrichen. 
 
-- c) Abs. 2 wird gestrichen. 
+c) Abs. 2 wird gestrichen. 
 
-- d) Der bisherige Abs. 3 wird zu Abs. 2 und erhält folgende neue Fassung: 
+d) Der bisherige Abs. 3 wird zu Abs. 2 und erhält folgende neue Fassung: 
 
-„(2)[1] Die Zugangskommission, ergänzt um eine Vertreterin bzw. einen Vertreter der Studierenden und die Geschäftsführerin bzw. den Geschäftsführer des Studiengangs in der Funktion der Studienberaterin bzw. des Studienberaters, übernimmt im Elite-Masterstudiengang zusätzlich die Aufgaben einer Studien-kommission.[2] Für die Vertreterin bzw. den Vertreter der Studierenden wird eine Ersatzvertretung benannt.“ 
+„(2)<sup>1</sup> Die Zugangskommission, ergänzt um eine Vertreterin bzw. einen Vertreter der Studierenden und die Geschäftsführerin bzw. den Geschäftsführer des Studiengangs in der Funktion der Studienberaterin bzw. des Studienberaters, übernimmt im Elite-Masterstudiengang zusätzlich die Aufgaben einer Studien-kommission.<sup>2</sup> Für die Vertreterin bzw. den Vertreter der Studierenden wird eine Ersatzvertretung benannt.“ 
 
 ## 5. § 39 wird wie folgt geändert: 
 
@@ -84,11 +84,11 @@ bb) Satz 4 wird gestrichen.
 
 2 
 
-- b) Abs. 2 erhält folgende neue Fassung: 
+b) Abs. 2 erhält folgende neue Fassung: 
 
-„[1] Bewerberinnen bzw. Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,00 (Prädikat „gut“) abgeschlossen haben. 2§ 12 Abs. 3 Sätze 1 bis 3 **ABMPO/TechFak** gelten entsprechend.“ 
+„<sup>1</sup> Bewerberinnen bzw. Bewerber sollen den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,00 (Prädikat „gut“) abgeschlossen haben. 2§ 12 Abs. 3 Sätze 1 bis 3 **ABMPO/TechFak** gelten entsprechend.“ 
 
-   - c) Abs. 3 und 4 werden gestrichen. 
+c) Abs. 3 und 4 werden gestrichen. 
 
 6. § 40 wird wie folgt geändert: 
 
@@ -100,7 +100,7 @@ bb) Satz 4 wird gestrichen.
 
    - d) Nach Satz 3 wird folgender neuer Satz 4 eingefügt: 
 
-„[4] Im Falle des Satz 3 Halbsatz 2 richten sich Art und Umfang der Prüfungen für die aus anderen Studiengängen importierten Module nach den jeweils einschlägigen **(Fach-)Prüfungsordnungen** .“ 
+„<sup>4</sup> Im Falle des Satz 3 Halbsatz 2 richten sich Art und Umfang der Prüfungen für die aus anderen Studiengängen importierten Module nach den jeweils einschlägigen **(Fach-)Prüfungsordnungen** .“ 
 
 - e) Die bisherigen Sätze 4 und 5 werden zu Sätzen 5 und 6. 
 
@@ -108,7 +108,7 @@ bb) Satz 4 wird gestrichen.
 
 - g) Nach Satz 6 (neu) wird folgender neuer Satz 7 angefügt: 
 
-## „[7] § 7 Abs. 3 **ABMPO/TechFak** gilt entsprechend.“ 
+## „<sup>7</sup> § 7 Abs. 3 **ABMPO/TechFak** gilt entsprechend.“ 
 
 7. § 41 wird wie folgt geändert: 
 
@@ -126,11 +126,13 @@ bb) Satz 4 wird gestrichen.
 
 3 
 
-- b) Abs. 1 wird wie folgt geändert: aa) In Satz 2 werden nach den Worten „Bearbeitung von“ das Wort „wissenschaftlichen“ und nach den Worten „wissenschaftlichen Aufgabenstellungen“ (neu) ein Komma und die Worte „wie sie in einer Masterarbeit gestellt werden,“ eingefügt. 
+- b) Abs. 1 wird wie folgt geändert: 
+
+   - aa) In Satz 2 werden nach den Worten „Bearbeitung von“ das Wort „wissenschaftlichen“ und nach den Worten „wissenschaftlichen Aufgabenstellungen“ (neu) ein Komma und die Worte „wie sie in einer Masterarbeit gestellt werden,“ eingefügt. 
 
 bb) Nach Satz 5 wird folgender neuer Satz 6 eingefügt: 
 
-„[6] Ihr Umfang soll ca. 15-25 Seiten betragen.“ 
+„<sup>6</sup> Ihr Umfang soll ca. 15-25 Seiten betragen.“ 
 
 cc) Der bisherige Satz 6 wird zu Satz 7. 
 
@@ -158,35 +160,35 @@ cc) Der bisherige Satz 6 wird zu Satz 7.
 
    - d) Abs. 2 (neu) wird wie folgt geändert: 
 
-aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „[1] “ gestrichen. 
+aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
-bb) Satz 3 gestrichen. 
+- bb) Satz 3 gestrichen. 
 
 4 
 
-e) Abs. 3 (neu) erhält folgende neue Fassung: 
+- e) Abs. 3 (neu) erhält folgende neue Fassung: 
 
-„(3)[1] Abweichend von den entsprechenden Regelungen in der **ABMPO/ TechFak** können die Prüfungen im Elite-Masterstudiengang Advanced Optical Technologies gemäß der nachfolgenden Bestimmungen wiederholt werden. 2Die Prüfungsleistungen der Module M1, M2 und M14 können zweimal wiederholt werden.[ 3] Die Prüfungsleistungen der Module M4 bis M12 und M15 können einmal wiederholt werden.[4] Die Prüfungsleistungen der Module M3 und M13 können beliebig oft wiederholt werden.“ 
+„(3)<sup>1</sup> Abweichend von den entsprechenden Regelungen in der **ABMPO/ TechFak** können die Prüfungen im Elite-Masterstudiengang Advanced Optical Technologies gemäß der nachfolgenden Bestimmungen wiederholt werden. 2Die Prüfungsleistungen der Module M1, M2 und M14 können zweimal wiederholt werden.<sup>3</sup> Die Prüfungsleistungen der Module M4 bis M12 und M15 können einmal wiederholt werden.<sup>4</sup> Die Prüfungsleistungen der Module M3 und M13 können beliebig oft wiederholt werden.“ 
 
 - f) Abs. 4 (neu) wird wie folgt geändert: 
 
 aa) Satz 1 erhält folgende neue Fassung: 
 
-„[1] Studierende, die aufgrund der Regelung in Abs. 3 Satz 2 aus dem EliteMasterstudiengang ausscheiden, erhalten Zugang zu einem Masterstudiengang der Technischen Fakultät, sofern das jeweils einschlägige Qualifikationsfeststellungsverfahren erfolgreich durchlaufen wird.“ 
+„<sup>1</sup> Studierende, die aufgrund der Regelung in Abs. 3 Satz 2 aus dem EliteMasterstudiengang ausscheiden, erhalten Zugang zu einem Masterstudiengang der Technischen Fakultät, sofern das jeweils einschlägige Qualifikationsfeststellungsverfahren erfolgreich durchlaufen wird.“ 
 
 - bb) In Satz 2 werden das Wort „Elitestudiengang“ durch das Wort „EliteMasterstudiengang“ ersetzt und nach den Worten „Studienleistungen werden in den“ die Worte „sodann studierten“ eingefügt sowie nach dem Wort „ **Fachprüfungsordnung** “ die Worte „zu vertreten“ durch das Wort „möglich“ ersetzt. 
 
 - cc) In Satz 3 werden nach den Worten „wird von der“ das Wort „Studienkommission“ durch das Wort „Zugangskommission“ und nach den Worten „Studienfächer in der“ die Worte „Studienkommission bestimmt“ durch die Worte „Zugangskommission vorgeschlagen“ ersetzt. 
 
-## 14. In § 48 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
+14. In § 48 wird nach Abs. 2 folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
+„(3)<sup>1</sup> Die siebte Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2018/2019 aufnehmen werden.“ 
 
 15. Anlage 1 erhält folgende neue Fassung: 
 
 ## „ **Anlage 1: Studienschwerpunkte (Major Topics)** 
 
-(1)[1] Das Qualifikationsziel der Studienschwerpunkte (Major Topics) liegt darin, den Studierenden durch die angebotene Auswahl an Modulen eine Vertiefung bzw. fachwissenschaftliche Spezialisierung zu ermöglichen.[2] Die Studierenden können dabei unter Beachtung der in § 40 Sätze 2 bis 4 und § 41 genannten Grundsätze aus folgenden Schwerpunkten wählen: 
+(1)<sup>1</sup> Das Qualifikationsziel der Studienschwerpunkte (Major Topics) liegt darin, den Studierenden durch die angebotene Auswahl an Modulen eine Vertiefung bzw. fachwissenschaftliche Spezialisierung zu ermöglichen.<sup>2</sup> Die Studierenden können dabei unter Beachtung der in § 40 Sätze 2 bis 4 und § 41 genannten Grundsätze aus folgenden Schwerpunkten wählen: 
 
 1. Optical Metrology 
 
@@ -204,7 +206,7 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 5 
 
-> 3Wählbare Module sind in **Anlage 3** aufgeführt; der Katalog kann erweitert werden. (2)[1] Das Qualifikationsziel des Schwerpunkts Optical Metrology liegt darin, optische Messtechniken kennenzulernen und in der Lage zu sein, diese adäquat einzusetzen. 2Dafür werden spezielle Kenntnisse über die Eigenschaften von Licht, Licht-MaterieWechselwirkung sowie gängige Sensoren und Analysemethoden erworben. 
+> 3Wählbare Module sind in **Anlage 3** aufgeführt; der Katalog kann erweitert werden. (2)<sup>1</sup> Das Qualifikationsziel des Schwerpunkts Optical Metrology liegt darin, optische Messtechniken kennenzulernen und in der Lage zu sein, diese adäquat einzusetzen. 2Dafür werden spezielle Kenntnisse über die Eigenschaften von Licht, Licht-MaterieWechselwirkung sowie gängige Sensoren und Analysemethoden erworben. 
 
 (3) Das Qualifikationsziel des Schwerpunkts Optical Material Processing liegt darin, die Bearbeitung von Materie mit Hilfe von Licht zu erlernen, insbesondere die dafür notwendigen Eigenschaften von Licht und die Licht-Materie-Wechselwirkung. 
 
@@ -218,9 +220,9 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 (8) Das Qualifikationsziel des Schwerpunkts Physics of Light liegt darin, über die Grundlagenmodule hinausgehendes Wissen in den physikalischen Grundlagen optischer Technologien (Geometrische Optik, Wellenoptik, Fourieroptik, Quantenoptik) kennenzulernen. 
 
-(9)[1] Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach den Abs. 1 bis 8 und dem Modulhandbuch zu entnehmen.[2] Mögliche Prüfungsleistungen sind: Klausur (60, 90, oder 120 Min.) oder mündliche Prüfung (ca. 30 Min.).[3] Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
+(9)<sup>1</sup> Art und Umfang der Prüfung sind abhängig von den im jeweils gewählten Modul vermittelten Kompetenzen nach den Abs. 1 bis 8 und dem Modulhandbuch zu entnehmen.<sup>2</sup> Mögliche Prüfungsleistungen sind: Klausur (60, 90, oder 120 Min.) oder mündliche Prüfung (ca. 30 Min.).<sup>3</sup> Das Modulhandbuch wird vor Semesterbeginn ortsüblich bekanntgemacht. 
 
-(10)[1] Die Module setzen sich in der Regel aus zwei Lehrveranstaltungen (Vorlesung und Übung) im Umfang von je 2 SWS zusammen.[2] Näheres wird im Modulhandbuch geregelt.“ 
+(10)<sup>1</sup> Die Module setzen sich in der Regel aus zwei Lehrveranstaltungen (Vorlesung und Übung) im Umfang von je 2 SWS zusammen.<sup>2</sup> Näheres wird im Modulhandbuch geregelt.“ 
 
 6 
 
@@ -228,27 +230,27 @@ aa) Satz 1 erhält folgende neue Fassung:
 
 ## „ **Anlage 2: Studienverlaufsplan** 
 
-|**Modulgruppe**|**Modul-**<br>**nummer**|**Modulbezeichnung**|**SWS**|**SWS**|**SWS**|**SWS**|**Gesamt**<br>**ECTS**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Workload-Verteilung pro**<br>**Semester in ECTS-Punkten**|**Art und Umfang der Prüfung/**<br>**Studienleistung**|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||**V**|**Ü**|**P**|**S**||**1.**<br>**Sem.**|**2.**<br>**Sem.**|**3.**<br>**Sem.**|**4.**<br>**Sem.**||
-|**Grundlagenfächer**|1|Fundamentals of Optics|8|4|||15|15||||PL (Klausur 120 Min.), 50 %<br>PL (mündlich 30 Min.), 50 %|
-||2|Basics of Laser|2|1|1||5|5||||PL (Klausur 90 Min.), 80 %<br>PL: PrL (Laborbericht, 5-7 S.), 20 %|
-||3|Numerical Methods and Topics<br>in Optical Technologies|4||||5|**5**||||SL (SeL)|
-||4|Major topic 1 – Module 1|2|2|||5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|**Major Topic 1**<br>**äß Al 1**|5|Majortopic1 – Module2|2|2|||5||5|||gemäßAnlage1 Abs.9 bzw.§40 Satz 4|
-|**gem nagen**<br>**und 3**|6|Major topic 1 – Module 3|2|2|||5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-||7|Majortopic1 – Module4|2|2|||5|||5||gemäßAnlage1 Abs.9 bzw.§40 Satz 4|
-|**Major Topic 2**|8|Major topic 2 – Module 1|2|2|||5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|<br>**gemäß Anlagen 1**|9|Major topic 2 – Module 2|2|2|||5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|**und 3**|10|Major topic 2 – Module 3|2|2|||5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|**F Mdl1)**|11|Free module 1|2|2|||5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|**ree oues**|12|Free module 2|2|2|||5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
-|**Lab courses**|13|Lab courses Major topics|||4||5|2,5|2,5|||SL(Laborberichtsheft,ca. 20-30 S.)|
-|**Project report**|14|Project report|||||10|||10||PL(Hausarbeit,ca. 15-25 S.)|
-|**Internship**|15|Internship|mind. 5 Wochen||||5||5|||SL(Praktikumsbericht)|
-|**Master’s Thesis**|16|Master’s Thesis|||||30||||30|Masterarbeit (90 %) und Referat<br>(ca. 30 Min., 10 %)|
-|||**S SWS d ECTS**|**32**|**27**|**5**||**120**|**27,5**|**32,5**|**30**|**30**||
-|||**umme  un**|**64**||||||||||
+|**Modulgruppe**|**Modul-**<br>**nummer**|**Modulbezeichnung**||**SWS**|**Gesamt**<br>**ECTS**|**Wo**<br>**Sem**|**rkload-V**<br>**ester in E**|**erteilung**<br>**CTS-Pu**|**pro**<br>**nkten**|**Art und Umfang der Prüfung/**<br>**Studienleistung**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||||<br> <br>||**1**|**2**|**3**|**4**||
+||||**V**|**Ü**<br>**P**<br>**S**||**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**|**.**<br>**Sem.**||
+||1|Fundamentals of Optics|8|4|15|15||||PL (Klausur 120 Min.), 50 %<br>PL (mündlich 30 Min.), 50 %|
+|**Grundlagenfächer**|2|Basics of Laser|2|1<br>1|5|5||||PL (Klausur 90 Min.), 80 %<br>PL: PrL (Laborbericht, 5-7 S.), 20 %|
+||3|Numerical Methods and Topics<br>in Optical Technologies|4||5|**5**||||SL (SeL)|
+||4|Major topic 1 – Module 1|2|2|5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+|**Major Topic 1**<br>**äß Al 1**|5|Majortopic1 – Module2|2|2|5||5|||gemäßAnlage1 Abs.9 bzw.§40 Satz 4|
+|**gem nagen**<br>**und 3**|6|Major topic 1 – Module 3|2|2|5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+||7|Majortopic1 – Module4|2|2|5|||5||gemäßAnlage1 Abs.9 bzw.§40 Satz 4|
+|**Major Topic 2**|8|Major topic 2 – Module 1|2|2|5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+|**gemäß Anlagen 1**|9|Major topic 2 – Module 2|2|2|5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+|**und 3**|10|Major topic 2 – Module 3|2|2|5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+|**Free Modules**<sup>**1)**</sup>|11|Free module 1|2|2|5||5|||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+||12|Free module 2|2|2|5|||5||gemäß Anlage 1 Abs. 9 bzw.§40 Satz 4|
+|**Lab courses**|13|Lab courses Major topics||4|5|2,5|2,5|||SL(Laborberichtsheft,ca. 20-30 S.)|
+|**Project report**|14|Project report|||10|||10||PL(Hausarbeit,ca. 15-25 S.)|
+|**Internship**|15|Internship|mind.|5 Wochen|5||5|||SL(Praktikumsbericht)|
+|**Master’s Thesis**|16|Master’s Thesis|||30||||30|Masterarbeit (90 %) und Referat<br>(ca. 30 Min., 10 %)|
+|||**Summe SWS und ECTS**|**32**<br>|**27**<br>**5**<br>**64**|**120**|**27,5**|**32,5**|**30**|**30**||
 
 SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung. SeL = Seminarleistung. 
 
@@ -262,28 +264,28 @@ SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung. SeL = Se
 
 |**Schwerpunkt/Major Topic**|**Modul**|**ECTS**|**Semester**|**Prüfungs-**<br>**form**|
 |---|---|---|---|---|
-|Optical Metrology|Light Scattering|5|SS|gemäß<br>**Anlage 1**<br>Abs. 9|
+|Optical Metrology|Light Scattering|5|SS||
 ||Dynamic Light Scattering|5|WS||
 ||Optical Technologies in Life Sciences|5|WS||
-||Product Analysis|5|WS||
+||<br>Product Analysis|5|WS||
 |Optical Material and Systems|Advanced Laser|5|SS||
 ||Optical Lithography|5|WS||
 ||Non-linear optics|5|unregelmäßig||
-|Computational Optics|Computational Optics|5|SS||
+|Computational Optics|<br>Computational Optics|5|<br>SS||
 ||Interventional Medical Image Processing|5|SS||
-||Diagnostic Medical Image Processing|5|WS||
+||<br>Diagnostic Medical Image Processing|5|WS||
 |Optical Material Processing|Laser Technology|5|WS||
-||Laser-Tissue-Interaction|5|SS||
-||Optical Lithography|5|WS||
-||Advanced Laser|5|SS||
+||Laser-Tissue-Interaction|5|SS|gemäß|
+||Optical Lithography|5|WS|<br>**Anlage 1**|
+||Advanced Laser|5|SS|Abs. 9|
 |Optics in Communication|Non-linear fibre optics|5|SS||
-||Advanced Optical Communication Systems|5|WS||
-||Non-linear Optics|5|unregelmäßig||
-|Opticsin Medicine|Laser-Tissue-Interaction|5|SS||
+||<br>Advanced Optical Communication Systems|5|WS||
+||<br>Non-linear Optics|5|unregelmäßig||
+|Opticsin Medicine|Laser-Tissue-Interaction|5|<br>SS||
 ||Photonics in Medical Engineering|5|WS||
 ||Clinical Applications of Optical Technologies<br>andAssociatedFundamentals of Anatomy|5|SS||
 ||Optical Technologies in Life Sciences|5|WS||
-|Physics of Light|Advanced Laser|5|SS||
+|Physics of Light|<br>Advanced Laser|5|SS||
 ||Non-linear optics|5|unregelmäßig||
 ||Quantum Optics|5|unregelmäßig||
 
@@ -293,9 +295,9 @@ SL = Studienleistung. PL = Prüfungsleistung. PrL = Praktikumsleistung. SeL = Se
 
 ## a) Abs. 1 wird wie folgt geändert: 
 
-aa) Vor dem Wort „[1] Für“ werden folgende neue Sätze 1 und 2 eingefügt: 
+aa) Vor dem Wort „<sup>1</sup> Für“ werden folgende neue Sätze 1 und 2 eingefügt: 
 
-„[1] Der Antrag auf Zugang wird elektronisch an die Geschäftsstelle des Studienganges übermittelt. 2Das genaue Verfahren beschreibt die Webseite des Studienganges.“ 
+„<sup>1</sup> Der Antrag auf Zugang wird elektronisch an die Geschäftsstelle des Studienganges übermittelt. 2Das genaue Verfahren beschreibt die Webseite des Studienganges.“ 
 
 bb) Der bisherige Satz 1 wird zu Satz 3. 
 
@@ -317,13 +319,13 @@ dd) Der bisherige Satz 2 wird gestrichen.
 
 - b) Abs. 2 wird wie folgt geändert: 
 
-aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „[1] “ gestrichen. 
+aa) In Satz 1 wird vor dem Wort „Die“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 bb) Satz 2 wird gestrichen. 
 
 - c) Nach Abs. 2 wird folgender neuer Abs. 3 eingefügt: 
 
-„(3)[1] Die Feststellung der Qualifikation obliegt gemäß § 11 **ABMPO/TechFak** i. V. m. § 38 der Zugangskommission des Masterstudiengangs. 2Die Zugangs-kommission kann die Koordination und Durchführung des Verfahrens einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist.“ 
+„(3)<sup>1</sup> Die Feststellung der Qualifikation obliegt gemäß § 11 **ABMPO/TechFak** i. V. m. § 38 der Zugangskommission des Masterstudiengangs. 2Die Zugangs-kommission kann die Koordination und Durchführung des Verfahrens einzelnen von ihr beauftragten Mitgliedern übertragen, soweit nichts anderes bestimmt ist.“ 
 
 - d) Der bisherige Abs. 3 wird zu Abs. 4 und wird wie folgt geändert: 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "25. April 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/8AES_BA_MA_Berufspaedagogik_LA_beruflSchulen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/
-scraped_at: 2026-05-01T06:57:19+00:00
-page_count_chars: 2236
+scraped_at: 2026-07-01T08:32:35+00:00
+page_count_chars: 2242
 ---
 
 # 25. April 2016
@@ -14,17 +14,17 @@ page_count_chars: 2236
 
 **Achte Satzung zur Änderung der Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der Friedrich-Alexander-Universität Erlangen-Nürnberg - BMPO/BP-T -** 
 
-## **Vom 25. April 2016** 
+# **Vom 25. April 2016** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Studien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Berufspädagogik Technik für das Lehramt an beruflichen Schulen der Friedrich-AlexanderUniversität Erlangen-Nürnberg - BMPO/BP-T - vom 19. Februar 2009, zuletzt geändert durch Satzung vom 1. Oktober 2015, wird wie folgt geändert: 
 
 In Anlage 1 erhält Abs. 6 S. 3 folgende Fassung: 
 
-„[3] Die mündliche Prüfung von etwa 20 Minuten Dauer erstreckt sich insbesondere auf folgende Kriterien: 
+„<sup>3</sup> Die mündliche Prüfung von etwa 20 Minuten Dauer erstreckt sich insbesondere auf folgende Kriterien: 
 
 1. sichere Kenntnisse in den fachspezifischen Grundlagen einer von der Bewerberin bzw. dem Bewerber vorab wählbaren Studienrichtung (40 Prozent) 
 
@@ -36,7 +36,7 @@ In Anlage 1 erhält Abs. 6 S. 3 folgende Fassung:
 
 3. eine positive Prognose aufgrund der gezeigten Leistungen im bisherigen Studienverlauf (15 Prozent).“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Die Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2016 / 2017 aufnehmen. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.05.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FPO_MA_Islamisch-Relig_Studien.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:30:26+00:00
-page_count_chars: 7403
+scraped_at: 2026-07-01T09:42:58+00:00
+page_count_chars: 7285
 ---
 
 # PDF vom 15.05.2015
@@ -14,7 +14,7 @@ page_count_chars: 7403
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Islamisch-Religiöse Studien an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOIRS - Vom 15. Mai 2015** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Islamisch-Religiöse Studien an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOIRS - Vom 15. Mai 2015** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5 Satz 2, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Prüfungsordnung: 
 
@@ -26,15 +26,15 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1)[1] Fachspezifischer Abschluss im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** ist der Ein-Fach- oder Zwei-Fach-Bachelorabschluss im (Teil-) Studiengang Islamisch-Religiöse Studien an der FAU.[2] Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in sozial-, geistes- und kulturwissenschaftlichen Fächern anerkannt, soweit das Studium Themen der Islamisch-Religiösen Studien mit systematischem, praktischem und textwissenschaftlichem Schwerpunkt im Umfang von mindestens 40 ECTS-Punkten zum Inhalt hat. 
+(1)<sup>1</sup> Fachspezifischer Abschluss im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** ist der Ein-Fach- oder Zwei-Fach-Bachelorabschluss im (Teil-) Studiengang Islamisch-Religiöse Studien an der FAU.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 35 Abs. 1 Nr. 1 i. V. m. Abs. 2 **ABMStPO/Phil** werden Abschlüsse in sozial-, geistes- und kulturwissenschaftlichen Fächern anerkannt, soweit das Studium Themen der Islamisch-Religiösen Studien mit systematischem, praktischem und textwissenschaftlichem Schwerpunkt im Umfang von mindestens 40 ECTS-Punkten zum Inhalt hat. 
 
-(2)[1] Gemäß Abs. 2 Satz 2 Nr. 2 Anlage 1 **ABMStPO/Phil** sind den Bewerbungsunterlagen Sprachkenntnisse in Arabisch mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens beizufügen.[2] Der Nachweis i. S. d. Satz 1 kann über den Nachweis von Arabischkursen im Umfang von mindestens 40 ECTS oder äquivalente Sprachzertifikate (z. B. UNIcert Stufe II oder höher) geführt werden. 
+(2)<sup>1</sup> Gemäß Abs. 2 Satz 2 Nr. 2 Anlage 1 **ABMStPO/Phil** sind den Bewerbungsunterlagen Sprachkenntnisse in Arabisch mindestens auf dem Niveau B2 des Gemeinsamen Europäischen Referenzrahmens beizufügen.<sup>2</sup> Der Nachweis i. S. d. Satz 1 kann über den Nachweis von Arabischkursen im Umfang von mindestens 40 ECTS oder äquivalente Sprachzertifikate (z. B. UNIcert Stufe II oder höher) geführt werden. 
 
-(3)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses i. S. d. Abs. 1 Satz 1 bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlge- 
+(3)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des fachspezifischen Abschlusses i. S. d. Abs. 1 Satz 1 bzw. im Falle des § 35 Abs. 4 **ABMStPO/Phil** einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlge- 
 
 1 
 
-spräch statt.[2] Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[3] In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
+spräch statt.<sup>2</sup> Die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>3</sup> In dem Auswahlgespräch werden die Bewerberinnen und Bewerber insbesondere auf Basis folgender Kriterien und Gewichtung beurteilt: 
 
 1. Umfang der Kenntnisse der Textgrundlagen islamisch-religiöser Forschung aus theologischer und historischer Perspektive (50 %), 
 
@@ -54,42 +54,38 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 2 
 
-## **- Anlage: Studienverlaufsplan M.A. Islamisch Religiöse Studien** 
+## **-** **<u>Anlage: Studienverlaufsplan M.A. Islamisch Religiöse Studien</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Ge-<br>samt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>note|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS||||||||||
-||||||||||||||
-|||V|Ü|P|S||1.|2.|3.|4.|||
-|Textgrundlagen Islamisch-<br>Religiöser Forschung|Vorlesung|2||||10|4||||Referat (20 min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Lektüreübung||1||||2||||||
-||Seminar||||2||4||||||
-|Ideengeschichte islamischer<br>Glaubensinhalte|Vorlesung|2||||10|5||||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Seminar||||2||5||||||
-|Forschungsmethoden und<br>Quellenanalyse|Masterseminar||||2|10|5||||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten) oder Klausur (90 Min.)2|1|
-||Übung||2||||5||||||
-|Glaubensinhalte des Islam<br>aus theoretisch-<br>reflektierender Perspektive|Theorieseminar||2|||10||5|||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Vertiefungsseminar||||2|||5|||||
-|<br>Islamische Ethik im Kontext<br>von Geschichte und Ge-<br>genwart|Vorlesung|2||||10||5|||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Seminar||||2|||5|||||
-|Koran und Moderne|Vorlesung|2||||10||5|||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten) oder Klausur (90 Min.)2|1|
-||Seminar||||2|||5|||||
-|Islamische Religions-<br>philosophie|Vorlesung|2||||10|||5||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Seminar||||2||||5||||
-|Gegenwartsfragen isla-<br>mischer Religionsdiskurse|Einführungsübung||2|||10|||5||Referat (20 Min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
-||Vertiefungsseminar||||2||||5||||
-|Orientierungsmodul||(2)|(2)|(2)|(2)|10|||10||Nach Maßgabe desgewählten Moduls3|0|
-|Masterarbeit|Kolloquium||||2|||||5|Masterarbeit (80-100 Seiten)|1|
-||Masterarbeit|||||30||||25|||
-||Summe|10-12|7-9|0-2|18-20||30|30|30|30|||
+|Modulbezeichnung|Lehrveranstaltung||SWS<br><br>||Ge-<br>samt<br>|Workload-Ve<br>Semester in E<br> <br>|rteilung<br>CTS-Pu<br>|pro<br>nkten<sup>1</sup><br>|Art und Umfang der Prüfung/<br>Studienleistung|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V|Ü<br>P|S|ECTS|1.<br>2.|3.|4.||note|
+||Vorlesung|2||||4|||||
+|Textgrundlagen Islamisch-<br>Religiöser Forschung|Lektüreübung||1||10|2|||Referat (20 min.) und Hausarbeit<br>(ca. 20 Seiten)|1|
+||Seminar|||2||4|||||
+|Ideengeschichte islamischer|Vorlesung|2|||10|5|||Referat (20 Min.) und Hausarbeit|1|
+|Glaubensinhalte|Seminar|||2||5|||(ca. 20 Seiten)||
+|Forschungsmethoden und|Masterseminar|||2|10|5|||Referat (20 Min.) und Hausarbeit<br>|1|
+|Quellenanalyse|Übung||2|||5|||(ca. 20 Seiten) oder Klausur (90 Min.)<sup>2</sup>||
+|Glaubensinhalte des Islam<br>thtih|Theorieseminar||2||10|5|||Referat (20 Min.) und Hausarbeit|1|
+|aus eoresc-<br>reflektierender Perspektive|Vertiefungsseminar|||2||5|||(ca. 20 Seiten)||
+|Islamische Ethik im Kontext<br>|Vorlesung|2||||5|||Referat (20 Min.) und Hausarbeit||
+|von Geschichte und Ge-<br>genwart|Seminar|||2|10|5|||<br>(ca. 20 Seiten)|1|
+|Koran und Moderne|Vorlesung|2|||10|5|||Referat (20 Min.) und Hausarbeit<br>|1|
+||Seminar|||2||5|||(ca. 20 Seiten) oder Klausur (90 Min.)<sup>2</sup>||
+|Islamische Religions-|Vorlesung|2|||10||5||Referat (20 Min.) und Hausarbeit|1|
+|philosophie|Seminar|||2|||5||(ca. 20 Seiten)||
+|Gegenwartsfragen isla-|Einführungsübung||2||10||5||Referat (20 Min.) und Hausarbeit|1|
+|mischer Religionsdiskurse|Vertiefungsseminar|||2|||5||(ca. 20 Seiten)||
+|Orientierungsmodul||(2)|(2)<br>(2)|(2)|10||10||Nach Maßgabe desgewählten Moduls<sup>3</sup>|0|
+|Masterarbeit|Kolloquium|||2|30|||5|Masterarbeit (80-100 Seiten)|1|
+||Masterarbeit|||||||25|||
+||Summe|10-12|7-9<br>0-2|18-20||30<br>30|30|30|||
 
 > ~~1~~ Bei der angegebenen Verteilung handelt es sich um eine Empfehlung. 2 
 
-   - Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 
+Art und Umfang der Prüfung sind abhängig von der gewählten Lehrveranstaltung und dem Modulhandbuch zu entnehmen. 3 
 
-- 3 
-
-- Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils gültigen FPO bzw. im Modulhandbuch geregelt. 
+Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils gültigen FPO bzw. im Modulhandbuch geregelt. 
 
 3 
 

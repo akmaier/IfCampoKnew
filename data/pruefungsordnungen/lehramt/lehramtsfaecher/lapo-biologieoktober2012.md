@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 09.03.2009 i.d.F. 31.10.2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-BiologieOktober2012.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:00:29+00:00
-page_count_chars: 18878
+scraped_at: 2026-07-01T08:34:37+00:00
+page_count_chars: 19096
 ---
 
 # pdf vom 09.03.2009 i.d.F. 31.10.2012
@@ -16,7 +16,7 @@ page_count_chars: 18878
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg und für den Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services“ Vom 9. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Biologie im Lehramtsstudiengang an der Friedrich-AlexanderUniversität Erlangen-Nürnberg und für den Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung Sozialpädagogik - Vocational Education / Social Pedagogy and Social Services“ Vom 9. März 2009** 
 
 geändert durch Satzungen vom 14. März 2012 31. Oktober 2012 
 
@@ -31,11 +31,9 @@ Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des B
 |**§ 4**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 3|
 |**3.** **Lehramt an Grund-, Haupt- und Realschulen**..................................................... 4|
 |**§ 5**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 4|
-|**4.** **Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg**|
-|**verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung**|
-|**Sozialpädagogik - Vocational Education / Social Pedagogy and Social**|
+|**4.** **Teilstudiengang Biologie des an der Otto-Friedrich-Universität Bamberg**<br>**verorteten Bachelorstudiengangs „Berufliche Bildung / Fachrichtung**<br>**Sozialpädagogik - Vocational Education / Social Pedagogy and Social**|
 |**Services“**............................................................................................................... 7|
-|**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 7|
+|**§ 6**<br>**Inhalt, Aufbau und Gliederung des Studiums**.......................................... 7<br>|
 |**5. Schluss- und Übergangsvorschriften**................................................................. 7|
 |**§ 7**<br>**In-Kraft-Treten**............................................................................................ 7|
 
@@ -63,41 +61,42 @@ Mit dem Fach Biologie kann von den in der LPO I vorgesehenen Fächern nur das Fa
 
 ## **2. Lehramt an Gymnasien** 
 
-## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Für das Lehramt Biologie an Gymnasien sind folgende Module abzulegen: 
+## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** <u>(1) Für das Lehramt Biologie an Gymnasien sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**Zahl der Leistungspunkte**<br>**(ECTS-Punkte)**|**Art und Umfang**<br>**der Modul-**<br>**Prüfungen**|
 |---|---|---|---|---|
-||||||
-||**Fachwissenschaftliche Module**<br>**der Bachelorphase**||||
-|**1**|**BL1: Biologie I**||12,5|Klausur bzw.<br>Teilprüfungen<br>90 Minuten1|
-||1.1 Grundlagen der Zellbiologie, Genetik und<br>Entwicklungsbiologie<br>(Vorlesung, 5 SWS)<br>|5|7,5||
+||**Fachwissenschaftliche Module**<br>**der Bachelorphase**<br>||||
+|**1**|**BL1: Biologie I**<br>||12,5||
+||1.1 Grundlagen der Zellbiologie, Genetik und<br>Entwicklungsbiologie<br>|5|7,5|Klausur bzw.<br>Teilprüfungen<br> <sup>1</sup>|
+||(Vorlesung, 5 SWS)<br>|||90 Minuten|
 ||1.2. Übungen zur Zellbiologie (5 SWS)|5|5||
-|**2**|**BL2: Biologie II**||12,5|Klausur bzw.<br>Teilprüfungen<br>90 Minuten1|
-||2.1. Organisationsformen und ökologische An-<br>passungen von Tieren und Pflanzen<br>Evolution organismischer Komplexität<br>(Vorlesung, 5 SWS)<br>|5|7,5||
+|**2**|**BL2: Biologie II**<br>||12,5||
+||2.1. Organisationsformen und ökologische An-<br>passungen von Tieren und Pflanzen<br>Evolution organismischer Komplexität<br>(Vorlesung, 5 SWS)<br>|5|7,5|Klausur bzw.<br>Teilprüfungen<br>90 Minuten<sup>1</sup>|
 ||2.2.**Übungen zur Morphologie, Biologie und**<br>**Verhalten der Tiere und Pflanzen (5 SWS)**|5|5||
-|**3**|**BL3: Biologie III**||15|Klausur bzw.<br>Teilprüfungen<br>90 Minuten1|
-||3.1. Vorlesung Physiologie und Biochemie der<br>Organismen (5 SWS)|5|10||
-||<br>3.2Übungen zur Biochemie und Physiologie der<br>Organismen (5 SWS)|5|5||
-|**4**|**BL4: Biologie IV**||15|Klausur bzw.<br>Teilprüfungen<br>90 Minuten1|
-||4.1. Vorlesung zur Molekularbiologie, Mikrobio-<br>logie und Genetik (5 SWS)|5|8||
-||4.2 Vorlesung zur Biochemie der Protein- RNA-<br>und DNA-Synthese (1,5 SWS)<br>|1,5|2||
-||4.3 Molekularbiologische Übungen (5 SWS)|5|5||
-|**1**|**BL5:Ökologische und systematische**<br>**Diversität der Organismen A**||5|Klausur bzw.<br>Teilprüfungen<br>45 Minuten1|
-||5.1. Einführung in die Zoologie<br>**Physiologie, Morphologie, Evolution,**<br>**Phylogenie, Ökologie und Biogeographie**<br>(Vorlesung, 2 SWS)|2|2||
-||5.2. Zoologische Bestimmungsübungen (3 SWS)|3|3||
-|**2**|**BL6:Ökologische und systematische**<br>**Diversität der Organismen B**||5|Klausur bzw.<br>Teilprüfungen<br>45 Minuten1|
-||6.1. Zoologische Exkursionen<br>(1 SWS)<br>|1|1||
+|**3**|**BL3: Biologie III**||15||
+||3.1. Vorlesung Physiologie und Biochemie der<br>Organismen (5 SWS)<br>|5|10|Klausur bzw.<br>Teilprüfungen<br>|
+||3.2Übungen zur Biochemie und Physiologie der<br>Organismen (5 SWS)|5|5|90 Minuten<sup>1</sup>|
+|**4**|**BL4: Biologie IV**<br>||15||
+||4.1. Vorlesung zur Molekularbiologie, Mikrobio-<br>logie und Genetik (5 SWS)|5|8|Klausur bzw.<br>Tilüf|
+||4.2 Vorlesung zur Biochemie der Protein- RNA-<br>und DNA-Synthese (1,5 SWS)|1,5|2|eprungen<br>90 Minuten<sup>1</sup>|
+||<br>4.3 Molekularbiologische Übungen (5 SWS)|5|5||
+|**1**|<br>**BL5:Ökologische und systematische**<br>**Diversität der Organismen A**||5||
+||5.1. Einführung in die Zoologie<br>**Physiologie, Morphologie, Evolution,**<br>**Phylogenie, Ökologie und Biogeographie**<br>(Vorlesung, 2 SWS)|2|2|Klausur bzw.<br>Teilprüfungen<br>45 Minuten<sup>1</sup>|
+||<br>5.2. Zoologische Bestimmungsübungen (3 SWS)<br>|3|3||
+|**2**|**BL6:Ökologische und systematische**<br>**Diversität der Organismen B**||5|Kl b|
+||6.1. Zoologische Exkursionen<br>(1 SWS)<br>|1|1|ausur zw.<br>Teilprüfungen<br>45 Minuten<sup>1</sup>|
 ||6.2.Übungen zur Systematik einheimischer<br>Pflanzen (4 SWS)|4|4||
-|**6**|**BL7: Ökologie**||5|Klausur 45 Mi-<br>nuten und Pro-<br>tokollheft als<br>unbenotete<br>Studienleistung|
-||7.1. Ökologische Übungen mit Vorlesung|3|3||
-||7.2. Ökologische Lehrwanderung|2|2||
-|**7 und 8**|**BL8: Humanbiologie**||10|Klausur bzw.<br>Teilprüfungen<br>90 Min.1|
-||8.1. Vorlesung mit Seminar Humanbiologie, (mit<br>Evolution des Menschen)|2|2||
-||**8.2. Humanbiologische und Physiologische**<br>**Übungen mit Vorlesung.**|8|8||
-|**7**|<br>**BL9: Organismische Biologie für LAG**<br>**Forschungsorientiertes Praktikum mit Semi-**<br>**naren**|15|15|Klausur bzw.<br>Teilprüfungen<br>90 Min.1|
-||9.1. Zoologischer Teil, Praktikum<br>**(inkl. Verhalten und Evolution der Tiere)**||**8,5**||
+|**6**|<br>**BL7: Ökologie**||5|Klausur 45 Mi-<br>|
+||7.1. Ökologische Übungen mit Vorlesung|3|3|nuten und Pro-<br>tokollheft als<br>|
+||7.2. Ökologische Lehrwanderung|2|2|unbenotete<br>Studienleistung|
+|**7 und 8**|**BL8: Humanbiologie**||10||
+||8.1. Vorlesung mit Seminar Humanbiologie, (mit<br>Evolution des Menschen)|2|2|Klausur bzw.<br>Teilprüfungen<br>|
+||**8.2. Humanbiologische und Physiologische**<br>**Übungen mit Vorlesung.**|8|8|90 Min.<sup>1</sup>|
+||**BL9: Organismische Biologie für LAG**||||
+|**7**|<br>**Forschungsorientiertes Praktikum mit Semi-**<br>**naren**|15|15|Klausur bzw.<br>|
+||9.1. Zoologischer Teil, Praktikum<br>**(inkl. Verhalten und Evolution der Tiere)**||**8,5**|Teilprüfungen<br>90 Min.<sup>1</sup>|
 ||9.3. Botanischer Teil, Praktikum||**6,5**||
-|**Summe**|||**95**||
+|**Summe**|||<br>**95**||
 
 1) Die Aufteilung der Modulprüfungen zur Teilprüfungen erfolgt durch den Lehrveranstalter in Absprache mit dem Prüfungsausschuss der Biologie. Die Bekanntgabe der Prüfungsmodalitäten erfolgt per Aushang. 
 
@@ -124,7 +123,6 @@ Mit dem Fach Biologie kann von den in der LPO I vorgesehenen Fächern nur das Fa
 
 |**Sem.**|**Modul/**<br>**Lehrveranstaltungen**|**SWS**|**ECTS**|**Prüfungsleistung**|
 |---|---|---|---|---|
-||||||
 |**B1**|**Biologie der Tiere**|**10**|**12,5**||
 |1. Sem|Vorlesung Einführung in die Biologie mit<br>Schwerpunkt Zoologie<br>Tutorium zu Vorlesung<br>Inhalt: Grundlagen in<br>- Struktur und Funktion der Biomoleküle<br>- Zytologie und Stoffwechsel<br>-**Baupläne und Evolution der Tiere**<br>-**Verhalten**<br>- Entwicklungsbiologie|4<br>1|6<br>1,5|Klausur 90 Minuten|
 |1. Sem|Übungen zur Zytologie und Anatomie der<br>Tiere:<br>Inhalte: Versuche zur Zellbiologie,<br>Histologie,Morphologie undAnatomie|3|3|Protokollheft als nicht benotete<br>Studienleistung|
@@ -147,24 +145,24 @@ Mit dem Fach Biologie kann von den in der LPO I vorgesehenen Fächern nur das Fa
 |5. Sem|Vorlesung: Humanbiologie (mit Evolution<br>desMenschen)|2|2|Vortrag als nicht benotete Stu-<br>dienleistung|
 |**B5**|**Ökologie**|**4**|**5**||
 |6. Sem|Vorlesung: Einführung in die<br>Ökologie|2|3|Klausur 45 Min.|
-|6. Sem|Lehrwanderung und Exkursion mit Seminar<br>zurÖkologie derOrganismen|2|2|1 Protokollheft und 1 Vortrag als<br>nicht benotete Studienleistung|
+|6. Sem|<br>Lehrwanderung und Exkursion mit Seminar<br>zurÖkologie derOrganismen|2|2|1 Protokollheft und 1 Vortrag als<br>nicht benotete Studienleistung|
 |**B6**|**Physiologie der Pflanzen**|**4**|**5**||
-|4. Sem|Vorlesung: Einführung in die Pflanzenphy-<br>siologie|1|2|Klausur 45 Min. und|
+|4. Sem|<br>Vorlesung: Einführung in die Pflanzenphy-<br>siologie|1|2|Klausur 45 Min. und|
 |5. Sem|Übungen zur Pflanzenphysiologie|3|3|Protokollheft als nicht benotete<br>Studienleistung|
 |**Summe**|**Biologie für GS/HS**||**55 ECTS**||
 
-Im Bereich der Fachwissenschaft im Lehramtsstudium für Realschulen ist darüber hinaus noch folgendes Modul nachzuweisen: 
+Im Bereich der Fachwissenschaft im Lehramtsstudium für Realschulen ist darüber <u>hinaus noch folgendes Modul nachzuweisen:</u> 
 
-|**Biologie im Überblick**|**5**|**5**|unbenotete Studienleistung:<br>Vortrag|
-|---|---|---|---|
-|Seminar zu Schwerpunktthemen der<br>Biologie insbesondere Zoologie und<br>Botanik|5|5||
-|**Biologie für RS**||**60 ECTS**||
+|**B7**|**Biologie im Überblick**|**5**|**5**||
+|---|---|---|---|---|
+|5. Sem|Seminar zu Schwerpunktthemen der<br>Biologie insbesondere Zoologie und<br>Botanik|5|5|unbenotete Studienleistung:<br>Vortrag|
+|**Summe**|**Biologie für RS**||**60 ECTS**||
 
 Dieses Modul wird den Studierenden für das Lehramt an Grund- und Hauptschulen als freiwillige Zusatzveranstaltung angeboten. 
 
 5 
 
-## (2) In der Fachdidaktik des Unterrichtsfachs für das Lehramt an Grund-, Haupt- und Realschulen sind folgende Module abzulegen: 
+## (2) In der Fachdidaktik des Unterrichtsfachs für das Lehramt an Grund-, Haupt- und <u>Realschulen sind folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzung**|**Art- und Umfang der**<br>**Prüfungs- und Studienleistungen **|
 |---|---|---|---|---|---|
@@ -172,13 +170,13 @@ Dieses Modul wird den Studierenden für das Lehramt an Grund- und Hauptschulen a
 |2, 4<br>oder 6|BIODID II:<br>Konzeption<br>und Gestal-<br>tung von<br>Biologie-<br>unterricht|5|5<br>(2 S +<br>3 Ü)|abgeschlossenes<br>Modul BIODID I|Portfolioprüfung:<br>- regelmäßige Teilnahme (aufgrund von<br>behandelten Sicherheitsaspekten)<br>- eine Sitzungsgestaltung mit Handout<br>(2-3 Seiten) (50 % der Note)<br>- eine Sitzungsgestaltung mit Konzeption<br>von Unterrichtsmaterialien (5-6) (50 % der<br>Note)|
 |ab 3|BIODID LAB:<br>Übungen im<br>Schülerlabor|2|2 Ü|abgeschlossenes<br>Modul BIODID I<br>und abgeschlosse-<br>nes oder parallel zu<br>BIODIDLAB be-<br>legtes Modul BIO-<br>DID II|Studienleistung:<br>Gestaltung und Betreuung einer Schüler-<br>experimentierstation bei regelmäßiger<br>Teilnahme (aufgrund der zu gewährlei-<br>stenden Betreuung der Schüler und zu<br>beachtender Sicherheitsaspekte)|
 
-## (3) Im freien Bereich der Fachdidaktik des Unterrichtsfachs für das Lehramt an Grund- und Realschulen werden folgende Module angeboten: 
+## (3) Im freien Bereich der Fachdidaktik des Unterrichtsfachs für das Lehramt an <u>Grund- und Realschulen werden folgende Module angeboten:</u> 
 
 |**Sem.**|**Modul**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzung**|**Art- und Umfang der**<br>**Prüfungs- und Studienleistungen **|
 |---|---|---|---|---|---|
 |1, 3<br>oder 5|GRUNDBIO|2|2 S|-|regelmäßige Teilnahme (aufgrund von<br>behandelten Sicherheitsaspekten)<br>PL: 10-12 schriftliche Kurztests (á 5-10<br>Min.)|
 
-## (4) In der Fachdidaktik der Fächergruppe für das Lehramt an Grundschulen sind folgende Module abzulegen: 
+## (4) In der Fachdidaktik der Fächergruppe für das Lehramt an Grundschulen sind fol- <u>gende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzung**|**Art- und Umfang der**<br>**Prüfungs- und Studienleistungen **|
 |---|---|---|---|---|---|
@@ -186,7 +184,7 @@ Dieses Modul wird den Studierenden für das Lehramt an Grund- und Hauptschulen a
 |1, 3<br>oder 5|BIODID I:<br>Biologie-<br>didaktische<br>Grundlagen|5|4<br>(2 VL +<br>2 S)|-|Portfolioprüfung:<br>- Klausur (90 Min.) (70 % der Note)<br>- Sitzungsgestaltung mit schriftlicher<br>Ausarbeitung  (30 % der Note)|
 |2, 4<br>oder 6|BIODID II<br>GSFG:<br>Konzeption<br>und<br>Gestal-<br>tung von Bio-<br>logieunterricht<br>GSFG|4|4<br>(2 S +<br>2 Ü)|abgeschlossenes<br>Modul<br>GRUNDBIO und<br>abgeschlossenes<br>Modul BIODID I|Portfolioprüfung:<br>- regelmäßige Teilnahme (aufgrund von<br>behandelten Sicherheitsaspekten)<br>- eine Sitzungsgestaltung mit Handout (2-3<br>Seiten) (50 % der Note)<br>- eine Sitzungsgestaltung mit Konzeption<br>von Unterrichtsmaterialien (5-6) (50 % der<br>Note)|
 
-## (5) Im freien Bereich der Fachdidaktik der Fächergruppe für das Lehramt an Grundschulen werden folgende Module angeboten: 
+## (5) Im freien Bereich der Fachdidaktik der Fächergruppe für das Lehramt an Grund- <u>schulen werden folgende Module angeboten:</u> 
 
 |**Sem.**|**Modul**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzung**|**Art- und Umfang der**<br>**Prüfungs- und Studienleistungen **|
 |---|---|---|---|---|---|
@@ -198,7 +196,7 @@ Dieses Modul wird den Studierenden für das Lehramt an Grund- und Hauptschulen a
 |---|---|---|---|---|---|
 |2, 4<br>oder 6|BASISBIO<br>Sommer|5|4<br>(2 VL +<br>2Ü)|-|regelmäßige Teilnahme (aufgrund von<br>behandelten Sicherheitsaspekten)<br>Klausur (90 Min.)|
 
-## (6) In der Fachdidaktik der Fächergruppe für das Lehramt an Hauptschulen sind folgende Module abzulegen: 
+## (6) In der Fachdidaktik der Fächergruppe für das Lehramt an Hauptschulen sind folgen- <u>de Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**ECTS**|**SWS**|**Zulassungs-**<br>**voraussetzung**|**Art- und Umfang der**<br>**Prüfungs- und Studienleistungen **|
 |---|---|---|---|---|---|

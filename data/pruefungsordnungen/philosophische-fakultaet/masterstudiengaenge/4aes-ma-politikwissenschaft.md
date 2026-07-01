@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Juli 2013"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES_MA_Politikwissenschaft.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:37:08+00:00
-page_count_chars: 8234
+scraped_at: 2026-07-01T09:47:11+00:00
+page_count_chars: 8030
 ---
 
 # 24. Juli 2013
@@ -12,7 +12,7 @@ page_count_chars: 8234
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/4AES_MA_Politikwissenschaft.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPolitik -** 
+# **Vierte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg - FPOPolitik -** 
 
 Vom 24. Juli 2013 
 
@@ -22,61 +22,60 @@ Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg – FPO Politik - vom 8. Juni 2010, zuletzt geändert durch Satzung vom 24. Februar 2012, wird wie folgt geändert: 
 
-## 1. In § 3 erhalten die Abs. 2 und 3 folgende neue Fassung: 
+1. In § 3 erhalten die Abs. 2 und 3 folgende neue Fassung: 
 
-„(2)[1] Im ersten und dritten Fachsemester werden je fünf politikwissenschaftliche Module (Modulgruppe (A) und (B)) angeboten.[2] Im zweiten Fachsemester werden zwei politikwissenschaftliche Module („Pol MES“ und „Pol PMW“) sowie die Module „Freies Ergänzungsstudium I“ und „Freies Ergänzungsstudium II“ angeboten.[3] Unter den politikwissenschaftlichen Modulen nach Satz 2 besteht die Wahlmöglichkeit zwischen den Modulen „Pol MES“ und „Pol PMW“, von denen nur ein Modul abzulegen ist.[4] Wird auch im zweiten Fachsemester ein politikwissenschaftliches Modul (Modulgruppe (A) oder (B)) angeboten und gewählt, verschiebt sich der Besuch des Moduls „Freies Ergänzungsstudium II“ in das dritte Fachsemester.[ 5] Insgesamt sind sechs politikwissenschaftliche Module aus den Modulgruppen (A) und (B) auszuwählen.[6] Im vierten Fachsemester ist eine Masterarbeit mit einem Umfang von ca. 100 Seiten vorgesehen. 
+„(2)<sup>1</sup> Im ersten und dritten Fachsemester werden je fünf politikwissenschaftliche Module (Modulgruppe (A) und (B)) angeboten.<sup>2</sup> Im zweiten Fachsemester werden zwei politikwissenschaftliche Module („Pol MES“ und „Pol PMW“) sowie die Module „Freies Ergänzungsstudium I“ und „Freies Ergänzungsstudium II“ angeboten.<sup>3</sup> Unter den politikwissenschaftlichen Modulen nach Satz 2 besteht die Wahlmöglichkeit zwischen den Modulen „Pol MES“ und „Pol PMW“, von denen nur ein Modul abzulegen ist.<sup>4</sup> Wird auch im zweiten Fachsemester ein politikwissenschaftliches Modul (Modulgruppe (A) oder (B)) angeboten und gewählt, verschiebt sich der Besuch des Moduls „Freies Ergänzungsstudium II“ in das dritte Fachsemester.<sup>5</sup> Insgesamt sind sechs politikwissenschaftliche Module aus den Modulgruppen (A) und (B) auszuwählen.<sup>6</sup> Im vierten Fachsemester ist eine Masterarbeit mit einem Umfang von ca. 100 Seiten vorgesehen. 
 
-(3)[1] Im Studienschwerpunkt Öffentliches Recht ist abweichend von Abs. 1 und 2 im zweiten Fachsemester das Modul „Öffentliches Recht I“ statt des Moduls „Freies Ergänzungsstudium II“ und im dritten Fachsemester das Modul „Öffentliches Recht II“ statt eines der politikwissenschaftlichen Module der Modulgruppe (B) abzulegen.[2] Im Modul „Öffentliches Recht II“ ist ein Seminar zu belegen.[3] Gewählt werden können alle Veranstaltungen mit öffentlich-rechtlichem Fokus des Fachbereichs Rechtswissenschaft, die in den Schwerpunktbereichen 2, 4 und 5 (vgl. Anlage zu § 1 Abs. 3 der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung) angeboten werden.[4] Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Politikwissenschaft gegenüber dem vorangegangenen Bachelorstudium nachzuweisen.[5] Die Wahl der Veranstaltung bedarf der Zustimmung der Veranstaltungsleiterinnen oder Veranstaltungsleiter.“ 
+(3)<sup>1</sup> Im Studienschwerpunkt Öffentliches Recht ist abweichend von Abs. 1 und 2 im zweiten Fachsemester das Modul „Öffentliches Recht I“ statt des Moduls „Freies Ergänzungsstudium II“ und im dritten Fachsemester das Modul „Öffentliches Recht II“ statt eines der politikwissenschaftlichen Module der Modulgruppe (B) abzulegen.<sup>2</sup> Im Modul „Öffentliches Recht II“ ist ein Seminar zu belegen.<sup>3</sup> Gewählt werden können alle Veranstaltungen mit öffentlich-rechtlichem Fokus des Fachbereichs Rechtswissenschaft, die in den Schwerpunktbereichen 2, 4 und 5 (vgl. Anlage zu § 1 Abs. 3 der Prüfungsordnung der Universität Erlangen-Nürnberg für die Juristische Universitätsprüfung) angeboten werden.<sup>4</sup> Bei der Modulwahl ist ein fachspezifischer Kompetenzgewinn im Masterstudiengang Politikwissenschaft gegenüber dem vorangegangenen Bachelorstudium nachzuweisen.<sup>5</sup> Die Wahl der Veranstaltung bedarf der Zustimmung der Veranstaltungsleiterinnen oder Veranstaltungsleiter.“ 
 
 ## 2. Die Anlage erhält folgende Fassung: 
 
 ## „ **Anlage: Studienplan M.A. Politikwissenschaft** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS||||||Art und Umfang der Prüfungs- /<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||Gesamt|1.<br>|2. Sem|3. Sem|4. Sem||
-|||||||ECTS|Sem|||||
-|||V|S|Ü|M||ECTS|ECTS|ECTS|ECTS||
-|**Pol SYS (A)*:**<br>**Analyse und Vergleich**<br>**politischer Systeme**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|5||||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90 Min),100%|
-||Masterseminar||2||||5|||||
-|**Pol IB (A)*:**<br>**Internationale Bezie-**|Vorlesung_oder_<br>Masterseminar|(2)|(2)|||10|5||||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90Min),100%|
-|**hungen **|Masterseminar||2||||5|||||
-|**Pol PPT (A)*:**<br>**Politische Philosophie,**<br>**Theorie und Ideenge-**<br>**schichte**|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)|||10|5||||Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90<br>Min), 50% und<br>mündliche Prüfung  über den Stoff des<br>Moduls (15 Min), 50%]|
-||Mentorat||||2||5|||||
-|**Pol AER (A)*:**<br>**Politik in außereuropä-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|5||||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90 Min),100%|
-|**ischen Regionen**|Masterseminar||2||||5|||||
-|**Pol MR (A)*:**<br>**Menschenrechte /**<br>**Menschenrechtspolitik**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|5||||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90Min),100%|
-||Masterseminar||2||||5|||||
-|||||||||||||
-|**Pol MES:**<br>**Methoden der empiri-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10||5|||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90Min),100%|
-|**schen Sozialforschung**|Masterseminar||2|||||5||||
-|**Pol PMW:**<br>**Politische Methoden-**<br>**lehre und Wissen-**<br>**schaftstheorie**|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)|||10||5|||Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90<br>Min.), 50% und<br>mündliche Prüfung  über den Stoff des<br>Moduls (15 Min), 50%]|
-||Methodenspezifische<br>Übung / Mentorat|||(2)|(2)|||5||||
-|**Freies Ergänzungs-**<br>**studium I**|nach Maßgabe des Fa-<br>ches|||||10||10|||nach Maßgabe des Faches|
-|**Freies Ergänzungs-**<br>**studium II**|nach Maßgabe des Fa-<br>ches|||||10||10|||nach Maßgabe des Faches|
-|_Abweichend zum Modul „Freies ErgänzungsstudiumII“ ist im Studienschwerpunkt „Öffentliches Recht“ zu wählen:_||||||||||||
+||||SWS|Gesamt|1.<br>|2. Sem<br>3. Sem|4. Sem|Art und Umfang der Prüfungs- /|
+|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||ECTS|Sem|||<br>Stdilit|
+|||V|S<br>Ü<br>M||ECTS|ECTS<br>ECTS|ECTS|uenesung|
+|**Pol SYS (A)*:**<br>**Analyse und Vergleich**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|10|5|||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|**politischer Systeme**|Masterseminar||2||5|||beider Veranstaltungen(90 Min),100%|
+|**Pol IB (A)*:**|Vorlesung_oder_|(2)|(2)||5|||Referat (30-45 Min) mit Hausarbeit (ca. 20|
+|**Internationale Bezie-**|Masterseminar|||10||||S.), 100%_oder_Klausur über den Stoff|
+|**hungen **|Masterseminar||2||5|||beider Veranstaltungen(90Min),100%|
+|**Pol PPT (A)*:**<br>**Politische Philosophie**|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)||5|||Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90<br>|
+|**,**<br>**Theorie und Ideenge-**<br>**schichte**|Mentorat||2|10|5|||Min), 50% und<br>mündliche Prüfung  über den Stoff des<br>Moduls (15 Min), 50%]|
+|**Pol AER (A)*:**|Vorlesung_oder_Master-|2|2||5|||Referat (30-45 Min) mit Hausarbeit (ca. 20|
+|**Politik in außereuropä-**|seminar|()|()|10||||S.), 100%_oder_Klausur über den Stoff|
+|**ischen Regionen**|Masterseminar||2||5|||beider Veranstaltungen(90 Min),100%|
+|**Pol MR (A)*:**<br>**Menschenrechte /**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|10|5|||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|**Menschenrechtspolitik**|Masterseminar||2||5|||beider Veranstaltungen(90Min),100%|
+|**Pol MES:**|Vorlesung_oder_Master-|||||||Referat (30-45 Min) mit Hausarbeit (ca. 20|
+|**Methoden der empiri-**|<br>seminar|(2)|(2)|10||5||<br>S.), 100%_oder_Klausur über den Stoff|
+|**schen Sozialforschung**|Masterseminar||2|||5||beider Veranstaltungen(90Min),100%|
+|**Pol PMW:**<br>**Plitih Mthd**|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)|||5||Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90|
+|**osce eoen-**<br>**lehre und Wissen-**<br>**schaftstheorie**|Methodenspezifische<br>Übung / Mentorat||(2)<br>(2)|10||5||Min.), 50% und<br>mündliche Prüfung  über den Stoff des<br>Moduls (15 Min), 50%]|
+|**Freies Ergänzungs-**<br>**studium I**|nach Maßgabe des Fa-<br>ches|||10||10||<br>nach Maßgabe des Faches|
+|**Freies Ergänzungs-**<br>|nach Maßgabe des Fa-<br>|||10||10||nach Maßgabe des Faches|
+|**studium II**|ches||||||||
+|_Abweichend zum Modul „F_|_reies ErgänzungsstudiumII“ is_|_t im S_|_tudienschwerpun_|_kt „Öffen_|_tliches R_|_echt“ zu wählen:_|||
 
-|**Öffentliches Recht I****|Vorlesung|2||||10||5|||Klausur (120 Min), 100%_oder_mündliche<br>Prüfung (20 Min), 100% über den Stoff<br>beider Vorlesungen|Klausur (120 Min), 100%_oder_mündliche<br>Prüfung (20 Min), 100% über den Stoff<br>beider Vorlesungen|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Vorlesung|2||||||5|||||
-||||||||||||||
-|**Pol SYS (B)*:**<br>**Analyse und Vergleich**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|||5||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90Min),100%||
-|**politischer Systeme**|Masterseminar||2||||||5||||
-|**Pol IB (B)*:**<br>**Internationale Bezie-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|||5||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90 Min),100%||
-|**hungen**|Masterseminar||2||||||5||||
-|**Pol PPT (B)*:**<br>**Politische Philosophie,**<br>**Theorie und Ideenge-**<br>**schichte**|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)|||10|||5||Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90<br>Min), 50% und<br>mündliche Prüfung über den Stoff des<br>Moduls (15 Min), 50%]||
-||Mentorat||||||||||||
-||||||2||||5||||
-||||||||||||||
-|**Pol AER (B)*:**<br>**Politik in außereuropä-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|||5||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90 Min),100%||
-|**ischen Regionen**|Masterseminar||2||||||5||||
-|**Pol MR (B)*:**<br>**Menschenrechte /**|Vorlesung_oder_Master-<br>seminar|(2)|(2)|||10|||5||Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff<br>beider Veranstaltungen(90Min),100%||
-|**Menschenrechtspolitik**|Masterseminar||2||||||5||||
-|**Öff  ****|Vorlesung|2|||||||5||Referat (20-25 Min) mit Hausarbeit (25-30||
-|**entliches Recht II**|Seminar||2|||10|||5||S.),100%||
-||||||||||||||
-|**Masterarbeit**||||||30||||30|Masterarbeit (ca. 100 Seiten)||
-||Summe||||||30|30|30|30|||
+||Vorlesung|2|||||5|Klausur (120 Min), 100%_oder_mündliche|
+|---|---|---|---|---|---|---|---|---|
+|**Öffentliches Recht I****|Vorlesung|2|||10||5|Prüfung (20 Min), 100% über den Stoff<br>beider Vorlesungen|
+|**Pol SYS (B)*:**<br>**Analyse und Vergleich**|Vorlesung_oder_Master-<br>seminar|(2)|(2)||10||5|Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|<br>**politischer Systeme**|Masterseminar||2||||5|<br>beider Veranstaltungen(90Min),100%|
+|**Pol IB (B)*:**<br>**Internationale Bezie-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)||10||5|Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|**hungen**|Masterseminar||2||||5|beider Veranstaltungen(90 Min),100%|
+|**Pol PPT (B)*:**<br>|Vorlesung_oder_Hauptse-<br>minar_oder_Oberseminar|(2)|(2)||||5|Portfolio [Referat (30-45 Min) mit Hausar-<br>beit (ca. 20 S.), 50%_oder_Klausur (90|
+|**Politische Philosophie,**<br>|||||10|||<br>Min), 50% und|
+|**Theorie und Ideenge-**<br>**schichte**|Mentorat|||2|||5|<br>mündliche Prüfung über den Stoff des<br>Moduls (15 Min), 50%]|
+|**Pol AER (B)*:**<br>**Politik in außereuropä-**|Vorlesung_oder_Master-<br>seminar|(2)|(2)||10||5|<br>Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|<br>**ischen Regionen**|Masterseminar||2||||5|<br>beider Veranstaltungen(90 Min),100%|
+|**Pol MR (B)*:**<br>**Menschenrechte /**|Vorlesung_oder_Master-<br>seminar|(2)|(2)||10||5|Referat (30-45 Min) mit Hausarbeit (ca. 20<br>S.), 100%_oder_Klausur über den Stoff|
+|**Menschenrechtspolitik**|Masterseminar||2||||5|beider Veranstaltungen(90Min),100%|
+|**Ö  ****|Vorlesung|2|||||5|Referat (20-25 Min) mit Hausarbeit (25-30|
+|**ffentliches Recht II**|Seminar||2||10||5|<br>S.),100%|
+|**Masterarbeit**|||||30|||30<br>Masterarbeit (ca. 100 Seiten)|
+||Summe|||||30|30<br>30|30|
 
 „ 
 

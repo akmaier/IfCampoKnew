@@ -9,7 +9,7 @@ fakultät: "Rechts- und Wirtschaftswissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:48:17+00:00
+scraped_at: 2026-07-01T08:25:08+00:00
 ---
 
 # Marketing (M.Sc.)

@@ -9,7 +9,7 @@ fakultät: "Technische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:49:28+00:00
+scraped_at: 2026-07-01T08:26:21+00:00
 ---
 
 # Nanotechnologie (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:49:28+00:00
 
 Der Studiengang Nanotechnologie bietet den Studierenden eine interdisziplinäre Ausbildung in den Grundlagen dieser neuen Wissenschaft und schwerpunktmäßig in deren technologischen Anwendungen. Beispielhaft hierfür sind Herstellungsverfahren von Nanomaterialien, Nanokompositen, Nanopartikeln oder Nanoschichten und die Bestimmung der magnetischen, elektrischen und optischen Eigenschaften – in Theorie und Praxis. Neben dem Erlernen von analytischen Methoden, zur Charakterisierung und Modellierung von Nanostrukturen sind auch neue Fertigungstechnologien (Biomimetik, Selbstorganisation) Bestandteil der Ausbildung. Durch die starke ingenieurwissenschaftliche Komponente macht diesen Studiengang deutschlandweit einzigartig.
 
-### Bachelor of Science Nanotechnologie
+### Fachanteile des Studiengangs Nanotechnologie (B.Sc.)
 
 * Werkstoffwissenschaften (47%)
 * Physik (19%)

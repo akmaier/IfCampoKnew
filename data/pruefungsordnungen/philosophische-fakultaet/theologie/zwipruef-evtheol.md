@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 15.01.1998"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/THEOL/ZwiPruef_EvTheol.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/theologie/
-scraped_at: 2026-05-01T08:44:40+00:00
-page_count_chars: 22608
+scraped_at: 2026-07-01T09:56:13+00:00
+page_count_chars: 22593
 ---
 
 # PDF vom 15.01.1998
@@ -14,7 +14,7 @@ page_count_chars: 22608
 
 **Der Text dieser Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare, im offiziellen Amtsblatt veröffentlichte Text** 
 
-## **Zwischenprüfungsordnung Prüfungsordnung für die Zwischenprüfung im Studiengang Evangelische Theologie (Zwischenprüfungsordnung - TheolZPO) Vom 15.07.1998** 
+# **Zwischenprüfungsordnung Prüfungsordnung für die Zwischenprüfung im Studiengang Evangelische Theologie (Zwischenprüfungsordnung - TheolZPO) Vom 15.07.1998** 
 
 (KABl S. 221, zuletzt geändert durch Bek vom 26. 4. 1999, KABl S. 153) 
 
@@ -146,7 +146,7 @@ Studienzeiten und Studienleistungen in demselben Studiengang an jeder anderen de
 
 (1) Es wird eine Prüfungskommission gebildet, der die Erarbeitung und die Auswahl der Themen sowie die Korrektur und die Benotung der Klausuren obliegen. Der Prüfungskommission gehören von jeder evangelischen Theologischen Fakultät und der Augustana-Hochschule je ein Vertreter oder eine Vertreterin des Faches Altes Testament, Neues Testament und Kirchengeschichte an. Die Mitglieder der Prüfungskommission werden von den evangelischen Theologischen Fakultäten und der Augustana-Hochschule ernannt und vom Prüfungsamt auf die Dauer von zwei Jahren berufen. 
 
-(2) Berufen werden können: 
+## (2) Berufen werden können: 
 
 1. Hochschullehrer und Hochschullehrerinnen der Theologie im Sinne des Bayerischen Hochschullehrergesetzes und 
 
@@ -204,19 +204,9 @@ b) sonstige akademische Lehrpersonen, die in dem Fachgebiet, auf das sich die Pr
 
 Für die Benotung der Prüfungsleistung in der Zwischenprüfung wird eine Gesamtnote errechnet. Dafür zählt jede Klausur zweifach. Die mündlichen Prüfungen zählen je einfach. 
 
-## **§ 14** 
+## **§ 14 Notenstufen** 
 
-## **Notenstufen** 
-
-Die Prüfungsleistungen werden wie folgt benotet: 
-
-1 = sehr gut, 1,5 = fast sehr gut, 2 = gut, 2,5 = fast gut, 3 = befriedigend, 3,5 = noch befriedigend, 
-
-4 = ausreichend, 
-
-4,5 = fast mangelhaft 
-
-5 = mangelhaft, 5,5 = fast ungenügend, 6 = ungenügend. 
+Die Prüfungsleistungen werden wie folgt benotet: 1 = sehr gut, 1,5 = fast sehr gut, 2 = gut, 2,5 = fast gut, 3 = befriedigend, 3,5 = noch befriedigend, 4 = ausreichend, 4,5 = fast mangelhaft 5 = mangelhaft, 5,5 = fast ungenügend, 6 = ungenügend. 
 
 ## **§ 15** 
 

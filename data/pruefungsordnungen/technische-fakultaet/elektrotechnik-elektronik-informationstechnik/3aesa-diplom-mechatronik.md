@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "4. August 2005"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-Diplom-Mechatronik.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:27+00:00
-page_count_chars: 7273
+scraped_at: 2026-07-01T11:33:28+00:00
+page_count_chars: 7286
 ---
 
 # 4. August 2005
@@ -12,7 +12,7 @@ page_count_chars: 7273
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/3AeSa-Diplom-Mechatronik.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatronik an der Universität Erlangen-Nürnberg** 
 
 ## Vom 4. August 2005 
 
@@ -50,12 +50,11 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatron
 
 ## 8. Die Anlage 1 erhält folgende Fassung: 
 
-## " **Anlage 1 (zu § 7)** 
+# " **<u>Anlage 1 (zu § 7)</u>** 
 
-|"**Anlage 1 (zu § 7)**||||||||
+|**_Prüfungsfächer der_** **_Diplomvorprü-_**<br>**_fung und Praktika_**|**_Verte_**<br>**_über_**|**_ilung_**<br>**_die Se_**|**_der SW_**<br>**_meste_**|**_S_**<br>**_r des_**|**_Prüfungs-_**<br>**_dauer in_**|**_Zahl_**<br>|**_der_**<br>|
 |---|---|---|---|---|---|---|---|
-|**_Prüfungsfächer der_** **_Diplomvorprü-_**<br>**_fung und Praktika_**|**_Verteilung der SWS_**<br>**_über die Semester des_**<br>**_Grundstudiums_**||||**_Prüfungs-_**<br>**_dauer in_**<br>**_Minuten_**|**_Zahl der_**||
-|||||||**_Leistungs-_**<br>**_punkte_**|**_Malus-_**<br>**_punkte_**|
+||**_Grun_**|**_dstudi_**|**_ums_**||**_Minuten_**|**_Leistungs-_**<br>**_punkte_**|**_Malus-_**<br>**_punkte_**|
 ||1.|2.|3.|4.||||
 |1. Grundlagen der Antriebstechnik<br>Praktikum|||2+1|2 P|60<br>--|3|3|
 |2. Grundlagen der Elektrotechnik<br>mit den Teilprüfungen<br>a) Teilprüfung 1<br>b) Teilprüfung 2<br>c) Teilprüfung 3<br>Praktikum|4+2|2+2|2+2<br>1 P||120<br>90<br>90<br>--|6<br>4<br>4|6<br>4<br>4|
@@ -77,10 +76,9 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Mechatron
 
 a) Ziffer I Nr. 4 erhält folgende Fassung: 
 
-|"||||||||
-|---|---|---|---|---|---|---|---|
-|4. Informatik|_*_|_*_|||90|4|4|
-||"|||||||
+|"<br>4. Informatik|_*_<br>_*_<br>90|4<br>4|
+|---|---|---|
+|||"|
 
 2 
 
@@ -90,10 +88,8 @@ a) Ziffer I Nr. 4 erhält folgende Fassung:
 
 " 
 
-|"||||||||
-|---|---|---|---|---|---|---|---|
-|**IV. Seminar EEI***_*_**oder****_MB_****_*_|||||-|2||
-||"|||||||
+<!-- Start of picture text -->
+IV. Seminar EEI* *  oder  MB  ** * - 2<br>   "<br><!-- End of picture text -->
 
 - d) Die Erläuterungen zu den Sternchen lauten wie folgt: 
 
@@ -105,7 +101,7 @@ a) Ziffer I Nr. 4 erhält folgende Fassung:
 
    - **** entsprechend den gewählten Fächern" 
 
-**§ 2** 
+## **§ 2** 
 
 (1) Diese Änderungssatzung tritt am Tage nach der Bekanntmachung in Kraft. 
 

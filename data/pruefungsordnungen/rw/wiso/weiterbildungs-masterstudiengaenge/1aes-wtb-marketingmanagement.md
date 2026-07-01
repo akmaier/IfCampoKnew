@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "22. Juli 2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES_WTB_MarketingManagement.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/
-scraped_at: 2026-05-01T09:49:52+00:00
-page_count_chars: 46009
+scraped_at: 2026-07-01T11:11:38+00:00
+page_count_chars: 46216
 ---
 
 # 22. Juli 2015
@@ -12,9 +12,7 @@ page_count_chars: 46009
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/1AES_WTB_MarketingManagement.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/weiterbildungs-masterstudiengaenge/>
 
-## **Erste Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marketing Management am Fachbereich Wirtschaftswissenschaften der Universität Erlangen-Nürnberg** 
-
-Vom 22. Juli 2015 
+# **Erste Satzung zur Änderung der Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marketing Management am Fachbereich Wirtschaftswissenschaften der Universität Erlangen-Nürnberg** Vom 22. Juli 2015 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -34,7 +32,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
       - aa) Es wird folgender Satz 1 eingefügt: 
 
-         - „[1] Die Unterrichts- und Prüfungssprache ist deutsch.“ 
+         - „<sup>1</sup> Die Unterrichts- und Prüfungssprache ist deutsch.“ 
 
       - bb) Der bisherige Abs. 2 wird Satz 2. 
 
@@ -42,7 +40,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
    - a) Satz 1 wird wie folgt geändert: 
 
-      - aa) Nach der hochgestellten Zahl „[1] “ werden die Worte „Die Organisation von“ eingefügt. 
+      - aa) Nach der hochgestellten Zahl „<sup>1</sup> “ werden die Worte „Die Organisation von“ eingefügt. 
 
       - bb) Das Wort "beruhen" wird durch das Wort "beruht" ersetzt. 
 
@@ -60,7 +58,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
    - b) Abs. 3 wird wie folgt geändert: 
 
-      - aa) Nach Satz 1 wird folgender Satz 2 eingefügt: „[2] Sie können schriftlich, mündlich, elektronisch oder in anderer Form erfolgen.“ 
+      - aa) Nach Satz 1 wird folgender Satz 2 eingefügt: „<sup>2</sup> Sie können schriftlich, mündlich, elektronisch oder in anderer Form erfolgen.“ 
 
       - bb) Die bisherigen Sätze 2 und 3 werden Sätze 3 und 4. 
 
@@ -124,7 +122,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
       - dd) Nach Satz 3 wird folgender Satz 4 angefügt: 
 
-         - „[4] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
+         - „<sup>4</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen.“ 
 
 8. § 8 wird wie folgt geändert: 
 
@@ -164,7 +162,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
       - aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) Satz 2 erhält folgende Fassung: „[2] Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.“ 
+      - bb) Satz 2 erhält folgende Fassung: „<sup>2</sup> Es können alle nach dem Bayerischen Hochschulgesetz und der Hochschulprüferverordnung in der jeweils geltenden Fassung zur Abnahme von Prüfungen Berechtigten bestellt werden.“ 
 
       - cc) Satz 3 wird wie folgt geändert: 
 
@@ -186,7 +184,7 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
       - bb) Das Wort „Prüfers“ wird durch das Wort „Prüfenden“ ersetzt. 
 
-   - d) Abs. 4 Satz 2 erhält folgende Fassung: „[2] Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.“ 
+   - d) Abs. 4 Satz 2 erhält folgende Fassung: „<sup>2</sup> Die Pflicht der Mitglieder des Prüfungsausschusses und sonstiger mit Prüfungsangelegenheiten befasster Personen zur Verschwiegenheit bestimmt sich nach Art. 18 Abs. 3 BayHSchG.“ 
 
 4 
 
@@ -248,9 +246,9 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
 „ **§ 12 Täuschung, Ordnungsverstoß, Ausschluss von der weiteren Teilnahme** 
 
-(1)[1] Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.[2] Dies gilt für Studienleistungen entsprechend. 
+(1)<sup>1</sup> Bei einem Täuschungsversuch oder dem Versuch, das Ergebnis einer Prüfung durch Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Dies gilt für Studienleistungen entsprechend. 
 
-(2)[1] Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der betreffenden Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.[2] Dies gilt für Studienleistungen entsprechend. 
+(2)<sup>1</sup> Wer den ordnungsgemäßen Ablauf einer Prüfung stört, kann von der jeweiligen prüfungsberechtigten Person oder der bzw. dem Aufsichtsführenden von der Fortsetzung der betreffenden Prüfung ausgeschlossen werden; in diesem Fall gilt die betreffende Prüfung als mit „nicht ausreichend“ (5,0) bewertet.<sup>2</sup> Dies gilt für Studienleistungen entsprechend. 
 
 (3) Bei wiederholten oder schwerwiegenden Verstößen im Sinne des Abs. 1 oder Abs. 2 kann der Prüfungsausschuss die bzw. den Studierenden von der weiteren Teilnahme an der Prüfung ausschließen.“ 
 
@@ -280,37 +278,37 @@ Die Prüfungsordnung für den berufsbegleitenden Weiterbildungsstudiengang Marke
 
 6 
 
-   - c) Abs. 4 wird wie folgt geändert: 
+- c) Abs. 4 wird wie folgt geändert: 
 
-      - aa) Das Wort „oder“ nach dem Wort „die“ wird durch das Wort „bzw.“ ersetzt. 
+   - aa) Das Wort „oder“ nach dem Wort „die“ wird durch das Wort „bzw.“ ersetzt. 
 
-      - bb) Das Wort „oder“ nach dem Wort „seinen“ wird durch das Wort „bzw.“ ersetzt. 
+   - bb) Das Wort „oder“ nach dem Wort „seinen“ wird durch das Wort „bzw.“ ersetzt. 
 
-15. § 16 wird wie folgt geändert: 
+## 15. § 16 wird wie folgt geändert: 
 
-   - a) Die Überschrift wird wie folgt geändert: 
+- a) Die Überschrift wird wie folgt geändert: 
 
-      - aa) Das Wort „Zeitpunkt“ wird durch die Worte „Zulassung zu den Prüfungen“ ersetzt. 
+   - aa) Das Wort „Zeitpunkt“ wird durch die Worte „Zulassung zu den Prüfungen“ ersetzt. 
 
-      - bb) Nach dem Wort „Art“ wird das Wort „, Zeitpunkt“ eingefügt. 
+   - bb) Nach dem Wort „Art“ wird das Wort „, Zeitpunkt“ eingefügt. 
 
-      - cc) Nach dem Wort „Rücktritt,“ wird das Wort „Versäumnis,“ eingefügt. 
+   - cc) Nach dem Wort „Rücktritt,“ wird das Wort „Versäumnis,“ eingefügt. 
 
-   - b) Abs. 1 wird wie folgt geändert: 
+- b) Abs. 1 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden nach dem Wort „Modulprüfungen,“ die Worte „aus denen die Masterprüfung besteht,“ eingefügt. 
+   - aa) In Satz 1 werden nach dem Wort „Modulprüfungen,“ die Worte „aus denen die Masterprüfung besteht,“ eingefügt. 
 
-      - bb) Satz 2 wird wie folgt geändert: 
+   - bb) Satz 2 wird wie folgt geändert: 
 
-         - (1) Nach dem Wort „wenn“ wird in einem neuen Absatz die Zahl „1.“ Eingefügt. 
+      - (1) Nach dem Wort „wenn“ wird in einem neuen Absatz die Zahl „1.“ Eingefügt. 
 
-         - (2) Nach dem Wort „vorgeschriebene“ werden die Worte „Voraussetzungen und“ eingefügt. 
+      - (2) Nach dem Wort „vorgeschriebene“ werden die Worte „Voraussetzungen und“ eingefügt. 
 
-         - (3) Die Worte „erbracht sind“ werden durch die Worte „erfüllt werden“ ersetzt. 
+      - (3) Die Worte „erbracht sind“ werden durch die Worte „erfüllt werden“ ersetzt. 
 
-         - (4) Nach den Worten „erfüllt werden,“ wird in einem neuen Absatz die Zahl „2.“ eingefügt. 
+      - (4) Nach den Worten „erfüllt werden,“ wird in einem neuen Absatz die Zahl „2.“ eingefügt. 
 
-         - (5) Nach den Worten „ist oder“ wird in einem neuen Absatz die Zahl „3.“ eingefügt. 
+      - (5) Nach den Worten „ist oder“ wird in einem neuen Absatz die Zahl „3.“ eingefügt. 
 
 cc)   Satz 3 wird wie folgt geändert: 
 
@@ -328,7 +326,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
    - bb) Das Wort „Prüfer“ wird durch das Wort „Prüfende“ ersetzt. 
 
-- d) Nach Abs. 3 wird folgender Abs. 4 eingefügt: „(4)[1] Unbeschadet der Fristen gemäß Abs. 6 und § 7 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer schriftlichen bzw. mündlichen Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.[2] In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.[3] Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 4Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung. 5Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 5.“ 
+- d) Nach Abs. 3 wird folgender Abs. 4 eingefügt: „(4)<sup>1</sup> Unbeschadet der Fristen gemäß Abs. 6 und § 7 ist bis zum Ende des dritten Werktages vor dem Prüfungstag ein Rücktritt vom Erstversuch einer schriftlichen bzw. mündlichen Prüfung ohne Angabe von Gründen gegenüber der bzw. dem Prüfenden zulässig; als Werktage gelten die Tage von Montag bis einschließlich Freitag.<sup>2</sup> In Fällen krankheitsbedingter Prüfungsunfähigkeit ist ein Attest vorzulegen; der Prüfungsausschuss kann die Vorlage eines vertrauensärztlichen Attestes verlangen.<sup>3</sup> Im Falle eines krankheitsbedingten Rücktritts am Tag der Prüfung nach Beginn der Prüfungszeit ist dem Prüfungsausschuss unverzüglich ein vertrauensärztliches Attest vorzulegen. 4Mit dem wirksamen Rücktritt erlischt die Anmeldung zur Prüfung. 5Die Folgen eines verspäteten oder unwirksamen Rücktritts richten sich nach Abs. 5.“ 
 
 - e) Die bisherigen Abs. 4 und 5 werden Abs. 5 und 6. 
 
@@ -346,7 +344,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
    - bb) Satz 2 erhält folgende Fassung: 
 
-      - „[2] Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe nach Satz 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.“ 
+      - „<sup>2</sup> Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe nach Satz 1 müssen der bzw. dem Vorsitzenden des Prüfungsausschusses unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.“ 
 
    - cc) Satz 3 wird wie folgt geändert: 
 
@@ -360,7 +358,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
 8 
 
-(5) Das Wort „anberaumt“ wird durch das Wort „fest“ ersetzt. 
+         - (5) Das Wort „anberaumt“ wird durch das Wort „fest“ ersetzt. 
 
       - dd) Die Sätze 4 und 5 werden gestrichen. 
 
@@ -372,7 +370,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
       - dd) Nach Satz 3 wird folgender Satz 4 eingefügt: 
 
-         - „[4] Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.“ 
+         - „<sup>4</sup> Die bzw. der Studierende gilt zur nächsten Wiederholungsprüfung als angemeldet.“ 
 
       - ee) Die bisherigen Sätze 4 bis 6 werden Sätze 5 bis 7. 
 
@@ -418,7 +416,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
    - cc) Die Sätze 3 bis 5 werden gestrichen. 
 
-- b) Nach Abs. 1 wird folgender Abs. 2 eingefügt: „(2)[1] Schriftliche Prüfungen werden in der Regel von der Erstellerin bzw. dem Ersteller der Aufgabe bewertet.[2] Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie einer bzw. einem zweiten Prüfenden zur Bewertung vorzulegen.[3] Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
+- b) Nach Abs. 1 wird folgender Abs. 2 eingefügt: „(2)<sup>1</sup> Schriftliche Prüfungen werden in der Regel von der Erstellerin bzw. dem Ersteller der Aufgabe bewertet.<sup>2</sup> Wird die schriftliche Prüfung mit „nicht ausreichend“ bewertet, so ist sie einer bzw. einem zweiten Prüfenden zur Bewertung vorzulegen.<sup>3</sup> Die Bewertung der bzw. des Prüfenden muss schriftlich dokumentiert werden und die das abschließende Votum tragenden Gründe erkennen lassen.“ 
 
 - c) Die bisherigen Abs. 2 bis 5 werden Abs. 3 bis 6. 
 
@@ -428,7 +426,7 @@ cc)   Satz 3 wird wie folgt geändert:
 
    - bb) Nach Satz 1 werden folgende Sätze 2 bis 4 eingefügt: 
 
-      - „[2] Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.[3] Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.[4] Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
+      - „<sup>2</sup> Näheres dazu, in welchen Modulen Klausuren im Antwort-WahlVerfahren abgenommen werden, regelt das Modulhandbuch.<sup>3</sup> Die bzw. der zu Prüfende hat anzugeben, welche der mit den Aufgaben vorgelegten Antworten sie bzw. er für zutreffend hält.<sup>4</sup> Die Prüfungsaufgaben müssen zuverlässige Prüfungsergebnisse ermöglichen.“ 
 
    - cc) Die bisherigen Sätze 2 bis 7 werden Sätze 5 bis 10. 
 
@@ -470,7 +468,7 @@ gg) In Satz 9 (neu) wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 ## 17. § 18 wird wie folgt geändert: 
 
-   - a) Nach Satz 1 wird folgender Satz 2 eingefügt: „[2] Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
+   - a) Nach Satz 1 wird folgender Satz 2 eingefügt: „<sup>2</sup> Näheres dazu, in welchen Modulen Prüfungen in elektronischer Form abgenommen werden, regelt das Modulhandbuch.“ 
 
    - b) Die bisherigen Sätze 2 bis 4 werden Sätze 3 bis 5. 
 
@@ -508,7 +506,9 @@ gg) In Satz 9 (neu) wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
       - (3) Das Wort „Prüfers“ wird durch das Wort „Prüfenden“ ersetzt. 
 
-      - (4) Die Worte „Beisitzerin oder“ werden durch das Wort „bzw.“ ersetzt. (5) Das Wort „Beisitzer“ wird durch das Wort „Beisitzenden“ ersetzt. 
+      - (4) Die Worte „Beisitzerin oder“ werden durch das Wort „bzw.“ ersetzt. 
+
+      - (5) Das Wort „Beisitzer“ wird durch das Wort „Beisitzenden“ ersetzt. 
 
       - (6) Das Wort „oder“ nach dem Wort „der“ wird durch das Wort „bzw.“ ersetzt. 
 
@@ -518,7 +518,7 @@ gg) In Satz 9 (neu) wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
       - (2) Das Wort „Beisitzer“ wird durch das Wort „Beisitzenden“ ersetzt. 
 
-   - cc) Nach Satz 2 wird folgender Satz 3 eingefügt: „[3] Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.“ 
+   - cc) Nach Satz 2 wird folgender Satz 3 eingefügt: „<sup>3</sup> Die Wiedergabe von Prüfungsfragen und Antworten ist nicht erforderlich.“ 
 
    - dd) Die bisherigen Sätze 3 und 4 werden Sätze 4 und 5. 
 
@@ -600,7 +600,7 @@ gg) In Satz 9 (neu) wird das Wort „oder“ durch das Wort „bzw.“ ersetzt.
 
 bei einem Durchschnitt über 1,5 bis 2,5 = gut, 
 
-- bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend, bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend“ ersetzt. 
+bei einem Durchschnitt über 2,5 bis 3,5 = befriedigend, bei einem Durchschnitt über 3,5 bis 4,0 = ausreichend“ ersetzt. 
 
 ## 20. § 21 wird wie folgt geändert: 
 
@@ -660,21 +660,21 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
       - aa) In Satz 1 wird das Wort „oder“ durch das Wort „bzw.“ ersetzt. 
 
-      - bb) Satz 2 erhält folgende Fassung: „[2] Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
+      - bb) Satz 2 erhält folgende Fassung: 
 
-      - cc) Nach Satz 2 wird folgender Satz 3 angefügt: „[3] Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
+         - „<sup>2</sup> Zum Nachweis des Vorliegens der Voraussetzungen nach Abs. 1 kann die Vorlage eines vertrauensärztlichen Attestes verlangt werden.“ 
 
-24. § 26 wird wie folgt geändert: 
+      - cc) Nach Satz 2 wird folgender Satz 3 angefügt: „<sup>3</sup> Anträge auf Nachteilsausgleich sind möglichst vier Wochen vor der Prüfung an den Prüfungsausschuss zu richten.“ 
 
-   - a) Abs. 1 wird wie folgt geändert: 
+## 24. § 26 wird wie folgt geändert: 
 
-      - aa) In Satz 1 werden die Worte „soll zeigen, dass die oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und mit wissenschaftlichen Methoden zu bearbeiten“ durch die Worte „ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt“ ersetzt. 
+- a) Abs. 1 wird wie folgt geändert: 
+
+   - aa) In Satz 1 werden die Worte „soll zeigen, dass die oder der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem oder seinem Fach selbständig und mit wissenschaftlichen Methoden zu bearbeiten“ durch die Worte „ist eine Prüfungsarbeit, die die wissenschaftliche Ausbildung abschließt“ ersetzt. 
 
 15 
 
-   - bb) Nach Satz 1 wird folgender Satz 2 eingefügt: 
-
-      - „[2] Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem bzw. seinem Fach selbstständig und nach wissenschaftlichen Methoden zu bearbeiten.“ 
+   - bb) Nach Satz 1 wird folgender Satz 2 eingefügt: „<sup>2</sup> Sie soll zeigen, dass die bzw. der Studierende in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus ihrem bzw. seinem Fach selbstständig und nach wissenschaftlichen Methoden zu bearbeiten.“ 
 
    - cc) Der bisherige Satz 2 wird Satz 3. 
 
@@ -690,7 +690,7 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
    - aa) Es wird folgender Satz 1 eingefügt: 
 
-      - „[1] Die Studierenden sorgen spätestens am Semesteranfang des letzten Semesters der Regelstudienzeit dafür, dass sie ein Thema für die Masterarbeit erhalten.“ 
+      - „<sup>1</sup> Die Studierenden sorgen spätestens am Semesteranfang des letzten Semesters der Regelstudienzeit dafür, dass sie ein Thema für die Masterarbeit erhalten.“ 
 
    - bb) Die bisherigen Sätze 1 und 2 werden Sätze 2 und 3. 
 
@@ -772,48 +772,41 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
    - (2) Die Worte „Lage der Gutachten“ werden durch die Worte „der Bewertung der Arbeit“ ersetzt. 
 
-25. Die Überschriften und Seitenzahlen des Inhaltsverzeichnisses werden angepasst. 
-
-26. Die Tabelle in Anlage 1 erhält folgende Fassung: 
+25. Die Überschriften und Seitenzahlen des Inhaltsverzeichnisses werden angepasst. 26. Die Tabelle in Anlage 1 erhält folgende Fassung: 
 
 18 
 
 ## **„Anlage 1: Studienverlaufsplan Regelstudienzeit – Modell „4 plus 1“** 
 
-|Modulbezeichnung||Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|ECTS|Workload-Verteilung pro Semester in ECTS-Punkten~~7~~|Workload-Verteilung pro Semester in ECTS-Punkten~~7~~|Workload-Verteilung pro Semester in ECTS-Punkten~~7~~|Workload-Verteilung pro Semester in ECTS-Punkten~~7~~|Workload-Verteilung pro Semester in ECTS-Punkten~~7~~|Art und Umfang der Prüfung /<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||
-||Lehrveranstaltung||||||||||||
-||||||||1. Sem|2. Sem|3. Sem|4. Sem|5. Sem||
-||||||||||||||
-|||V|Ü|P|S||ECTS|ECTS|ECTS|ECTS|ECTS||
-|**Basis-Module:**|||||||||||||
-|**Marketing- und Vertriebs-**<br>**Strategie**|Marketing- und Vertriebs-<br>Strategie|3,5||||5|5|||||Schriftliche Arbeit: 5-6 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und Präsentation<br>(ca. 10-20 Min.).3|
-|**Vertriebs- und Preis-**<br>**Management**|Vertriebs- und Preis-<br>Management|3,5||||5|5|||||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Produkt- und Innovations-**<br>**Management**|Produkt- und Innovations-<br>Management|3,5||||5|5|||||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Kommunikations-**<br>**Management**|Kommunikations-<br>Management|3,5||||5|||5|||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und  (ca. 10-20<br>Min.).3|
-|**Vertiefungs-Module2: **|||||||||||||
-|**Kundenbeziehungs-**<br>**Management und CRM**|Kundenbeziehungs-<br>Management und CRM|3,5||||5||5||||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Verkauf und Key-Account**<br>**Management**|Verkauf und Key-Account<br>Management|3,5||||5||5||||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Marketing und Vertrieb im**<br>**internationalen Kontext**|Marketing und Vertrieb<br>im internationalen Kontext|3,5||||5||||5||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Marken-Management**|Marken-Management|3,5||||5|||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3,|
-|**Managementbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Managementbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)||||5|||(5)|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
+|Mdlbih|Lhtlt|Veranst<br>(inkl An|altungsart<br>abe SWS)|ECTS|Workload|-Verteilung|pro Semeste|r in ECTS|-Punkten<sup>~~7~~</sup>|Art und Umfang der Prüfung /<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|---|---|
+|ouezecnung|erveransaung|.|||||||||
+||||||1. Sem|2. Sem|3. Sem|4. Sem|5. Sem||
+|||V<br>Ü|P<br>S||ECTS|ECTS|ECTS|ECTS|ECTS||
+|**Basis-Module:**|||||||||||
+|**Marketing- und Vertriebs-**<br>**Strategie**|Marketing- und Vertriebs-<br>Strategie|3,5||5|5|||||Schriftliche Arbeit: 5-6 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und Präsentation<br>(ca. 10-20 Min.).<sup>3</sup>|
+|**Vertriebs- und Preis-**<br>**Management**|Vertriebs- und Preis-<br>Management|3,5||5|5|||||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Produkt- und Innovations-**<br>**Management**|Produkt- und Innovations-<br>Management|3,5||5|5|||||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Kommunikations-**<br>**Management**|Kommunikations-<br>Management|3,5||5|||5|||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und  (ca. 10-20<br><sup>3</sup>|
+|||||||||||Min.).|
+|**Vertiefungs-Module**<sup>**2**</sup>**:**|||||||||||
+|**Kundenbeziehungs-**<br>**Management und CRM**|Kundenbeziehungs-<br>Management und CRM|3,5||5||5||||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Verkauf und Key-Account**<br>**Management**|Verkauf und Key-Account<br>Management|3,5||5||5||||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Marketing und Vertrieb im**<br>**internationalen Kontext**|Marketing und Vertrieb<br>im internationalen Kontext|3,5||5||||5||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Marken-Management**|Marken-Management|3,5||5|||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3,</sup>|
+|**Managementbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Managementbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)||5|||(5)|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
 
 19 
 
-|**Methodenbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Methodenbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)||||5||(5)||||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Spezialisierungs-Module1: **|||||||||||||
-|**Marketing-Seminar**|Marketing-Seminar||||3,5|5||||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Vertriebs-Seminar**|Vertriebs-Seminar||||3,5|5||||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Marktforschungs-Seminar**|Marktforschungs-Seminar||||3,5|5||||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Masterarbeit**|||||||||||20|Masterarbeit (50-80 Seiten)|
-||||||||||||||
-||||||||||||||
-|**Berufspraxis**||||||25|5|10|10|||Bericht (10-15 Seiten, pro Semester)|
-|||||x|||||||||
-||||||||||||||
-|Summe:||28|||3,5|90|15+54|10+104|10+104|10|20||
+|**Methodenbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Methodenbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)|5||(5)|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca 10-20 Min)<sup>3</sup>|
+|---|---|---|---|---|---|---|---|---|
+|**Spezialisierungs-Module**<sup>**1**</sup>**:**||||||||.  ..|
+|**Marketing-Seminar**|Marketing-Seminar||3,5<br>5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Vertriebs-Seminar**|Vertriebs-Seminar||3,5<br>5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Marktforschungs-Seminar**|Marktforschungs-Seminar||3,5<br>5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Masterarbeit**|||||||20|Masterarbeit (50-80 Seiten)|
+|**Berufspraxis**|||x<br>25|5|10|10||Bericht (10-15 Seiten, pro Semester)|
+||Summe:|28|3,5<br>90|15+5<sup>4</sup>|10+10<sup>4</sup>|10+10<sup>4</sup><br>10|20||
 
 - **1** Möglichkeit, eine von drei Spezialisierungen (Marketing/Vertrieb/Marktforschung) zu wählen. Je nach gewählter Spezialisierung ist ein Seminar auszuwählen. Das Marktforschungs-Seminar wird nur bei Zustandekommen der Spezialisierung „Marktforschung“ angeboten. 
 
@@ -827,7 +820,7 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
    - Die Dozentin bzw. der Dozent der Lehrveranstaltung trifft die Auswahl bezüglich der Art der Prüfung/Studienleistung. 
 
-- **6** Je nach Einzelfall und Art des Dokuments; in Absprache mit dem jeweiligen Dozenten. **[7]** Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
+- **6** Je nach Einzelfall und Art des Dokuments; in Absprache mit dem jeweiligen Dozenten.<sup>**7**</sup> Bei der angegebenen Verteilung handelt es sich um eine Empfehlung.“ 
 
 ## 27. Die Tabelle in Anlage 2 erhält folgende Fassung: 
 
@@ -835,42 +828,35 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
 ## **„Anlage 2: Studienverlaufsplan – Modell „3 plus 1“** 
 
-|Modulbezeichnung||Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|Veranstaltungsart<br>(inkl. Angabe SWS)|ECTS|Workload-Verteilung pro Semester in<br>ECTS-Punkten7|Workload-Verteilung pro Semester in<br>ECTS-Punkten7|Workload-Verteilung pro Semester in<br>ECTS-Punkten7|Workload-Verteilung pro Semester in<br>ECTS-Punkten7|Art und Umfang der Prüfung /<br>Studienleistung|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||||
-||Lehrveranstaltung|||||||||||
-||||||||1. Sem|2. Sem|3. Sem|4. Sem||
-|||||||||||||
-|||V|Ü|P|S||ECTS|ECTS|ECTS|ECTS||
-|**Basis-Module:**||||||||||||
-|**Marketing- und Vertriebs-**<br>**Strategie**|Marketing- und Vertriebs-<br>Strategie|3,5||||5|5||||Schriftliche Arbeit: 5-6 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Vertriebs- und Preis-**<br>**Management**|Vertriebs- und Preis-<br>Management|3,5||||5|5||||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Produkt- und Innovations-**<br>**Management**|Produkt- und Innovations-<br>Management|3,5||||5|5||||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Kommunikations-Management**|Kommunikations-Management|3,5||||5|5||||Klausur (60-90 Minuten) ODER~~5~~Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Vertiefungs-Module2: **||||||||||||
-|**Kundenbeziehungs-**<br>**Management und**<br>**CRM**|Kundenbeziehungs-<br>Management und<br>CRM|3,5||||5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und Präsentation<br>(ca. 10-20 Min.).3|
-|**Verkauf und Key-Account**<br>**Management**|Verkauf und Key-Account<br>Management|3,5||||5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Marketing und Vertrieb im**<br>**internationalen Kontext**|Marketing und Vertrieb<br>im internationalen Kontext|3,5||||5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Marken-Management**|Marken-Management|3,5||||5|||5||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
-|**Managementbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Managementbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)||||5|||(5)||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und<br>Präsentation(ca. 10-20 Min.).3|
+|Modulbezeichnun|Lehrveranstaltun|Veranstaltungsart<br>(inkl Anabe SWS)|ECTS|Workload<br>ECTS-Pu|-Verteilung<br>nkten<sup>7</sup>|pro Semest|er in|Art und Umfang der Prüfung /<br>Studienleistung|
+|---|---|---|---|---|---|---|---|---|
+|g|g|. g||1 S|2 S|3 S|4 S||
+|**Basis-Module:**||V<br>Ü<br>P<br>S||. em<br>ECTS|. em<br>ECTS|. em<br>ECTS|. em<br>ECTS||
+|**Marketing- und Vertriebs-**<br>**Strategie**|Marketing- und Vertriebs-<br>Strategie|3,5|5|5||||Schriftliche Arbeit: 5-6 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Vertriebs- und Preis-**<br>**Management**|Vertriebs- und Preis-<br>Management|3,5|5|5||||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Produkt- und Innovations-**<br>**Management**|Produkt- und Innovations-<br>Management|3,5|5|5||||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Kommunikations-Management**|Kommunikations-Management|3,5|5|5||||Klausur (60-90 Minuten) ODER<sup>~~5~~</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und|
+|||||||||Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Vertiefungs-Module**<sup>**2**</sup>**:**|||||||||
+|**Kundenbeziehungs-**<br>**Management und**<br>**CRM**|Kundenbeziehungs-<br>Management und<br>CRM|3,5|5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und Präsentation<br>(ca. 10-20 Min.).<sup>3</sup>|
+|**Verkauf und Key-Account**<br>**Management**|Verkauf und Key-Account<br>Management|3,5|5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Marketing und Vertrieb im**<br>**internationalen Kontext**|Marketing und Vertrieb<br>im internationalen Kontext|3,5|5||5|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Marken-Management**|Marken-Management|3,5|5|||5||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
+|**Managementbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Managementbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)|5|||(5)||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und<br>Präsentation(ca. 10-20 Min.).<sup>3</sup>|
 
 21 
 
-|**Methodenbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Methodenbezogene<br>Fragestellungen der<br>Marktforschung|(3,5)|||||5||(5)|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER5Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)6und Präsentation<br>(ca. 10-20 Min.).3|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|**Spezialisierungs- Module1: **|||||||||||||
-|**Marketing-Seminar**|Marketing-Seminar|||||3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Vertriebs-Seminar**|Vertriebs-Seminar|||||3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Marktforschungs-Seminar**|Marktforschungs-Seminar|||||3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.3|
-|**Masterarbeit**|||||||||||20|Masterarbeit (50-80 Seiten)|
-||||||||||||||
-||||||||||||||
-|**Berufspraxis**|||||||25|5|10|10||Bericht (10-15 Seiten, pro Semester)|
-||||||x||||||||
-||||||||||||||
-|Summe||28||||3,5|90|20+54|15+104|10+104|20||
+|**Methodenbezogene**<br>**Fragestellungen der**<br>**Marktforschung**|Methodenbezogene<br>Fragestellungen der<br>Marktforschung<br>(3,5)||5||(5)|||Schriftliche Arbeit: 10-15 Seiten und<br>Präsentation: 15-25 Min. ODER<sup>5</sup>Fallstudien-<br>Bearbeitung (ca. 8-15 Seiten)<sup>6</sup>und Präsentation<br>1020 Mi<sup>3</sup>|
+|---|---|---|---|---|---|---|---|---|
+|**Spezialisierungs- Module**<sup>**1**</sup>**:**||||||||(ca. - n.).|
+|**Marketing-Seminar**|Marketing-Seminar|3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Vertriebs-Seminar**|Vertriebs-Seminar|3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Marktforschungs-Seminar**|Marktforschungs-Seminar|3,5|5|||5||Seminararbeit (15-20 Seiten) und Präsentation:<br>15-25 Min.<sup>3</sup>|
+|**Masterarbeit**|||||||20|Masterarbeit (50-80 Seiten)|
+|**Berufspraxis**||x|25|5|10|10||Bericht (10-15 Seiten, pro Semester)|
+||Summe<br>28|3,5|90|20+5<sup>4</sup>|15+10<sup>4</sup>|10+10<sup>4</sup>|20||
 
-- ~~**1**~~ Möglichkeit, eine von drei Spezialisierungen (Marketing/Vertrieb/Marktforschung) zu wählen. Je nach gewählter Spezialisierung ist ein Seminar auszuwählen. Das Marktforschungs-Seminar wird nur bei Zustandekommen der Spezialisierung „Marktforschung“ angeboten. 
+- **~~1~~** Möglichkeit, eine von drei Spezialisierungen (Marketing/Vertrieb/Marktforschung) zu wählen. Je nach gewählter Spezialisierung ist ein Seminar auszuwählen. Das Marktforschungs-Seminar wird nur bei Zustandekommen der Spezialisierung „Marktforschung“ angeboten. 
 
 - **2** 
 
@@ -948,9 +934,7 @@ bei einem Durchschnitt über 1,5 bis 2,5 = gut,
 
    - h) In Abs. 10 Satz 2 werden die Worte „Vorsitzende oder“ durch das Wort „bzw.“ ersetzt. 
 
-   - i) Abs. 11 erhält folgende Fassung: „(11) Die Bestätigung über das bestandene 
-
-      - Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich das Qualifikationsfeststellungsverfahren des Masterstudiengangs nicht wesentlich geändert hat.“ 
+   - i) Abs. 11 erhält folgende Fassung: „(11) Die Bestätigung über das bestandene Qualifikationsfeststellungsverfahren hat unbeschränkte Gültigkeit, sofern sich das Qualifikationsfeststellungsverfahren des Masterstudiengangs nicht wesentlich geändert hat.“ 
 
 28. Die Anlage 4 wird wie folgt geändert: 
 

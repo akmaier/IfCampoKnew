@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "pdf vom 30.03.2009 i.d.F. 17.12.2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/word/LAPO-Sozialkunde-NEU.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:17:01+00:00
-page_count_chars: 17163
+scraped_at: 2026-07-01T08:43:38+00:00
+page_count_chars: 14938
 ---
 
 # pdf vom 30.03.2009 i.d.F. 17.12.2009
@@ -18,16 +18,14 @@ page_count_chars: 17163
 
 Diese Prüfungsordnung gilt für alle Studierenden, die Ihr Studium **vor** dem Wintersemester 2010/2011 aufnehmen werden. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 30. März 2009** 
+# **Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der FriedrichAlexander-Universität Erlangen-Nürnberg Vom 30. März 2009** 
 
 geändert mit Satzung vom 17. Dezember 2009 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1, Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Studien- und Prüfungsordnung: 
 
-**==> picture [455 x 164] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1. Allgemeines  .......................................................................................................... 1<br>§ 1 Geltungsbereich ......................................................................................... 1<br>§ 2 Grundlagen- und Orientierungsprüfung  .................................................. 1<br>§ 3 Besondere Bestimmungen für die Schriftliche Hausarbeit  .................... 2<br>2. Lehramt an Gymnasien ........................................................................................ 2<br>§ 4 Inhalt, Aufbau und Gliederung des Studiums .......................................... 2<br>3. Lehramt an Realschulen  ...................................................................................... 3<br>§ 5 Inhalt, Aufbau und Gliederung des Studiums .......................................... 3<br>4. Lehramt an Grund- und Hauptschulen  ............................................................... 5<br>§ 6 Inhalt, Aufbau und Gliederung des Studiums .......................................... 5<br>5. Übergangs- und Schlussvorschriften ................................................................. 6<br>§ 7 In-Kraft-Treten  ............................................................................................ 6<br>**----- End of picture text -----**<br>
+<!-- Start of picture text -->
+1. Allgemeines  .......................................................................................................... 1<br>§ 1 Geltungsbereich ......................................................................................... 1<br>§ 2 Grundlagen- und Orientierungsprüfung  .................................................. 1<br>§ 3 Besondere Bestimmungen für die Schriftliche Hausarbeit  .................... 2<br>2. Lehramt an Gymnasien ........................................................................................ 2<br>§ 4 Inhalt, Aufbau und Gliederung des Studiums .......................................... 2<br>3. Lehramt an Realschulen  ...................................................................................... 3<br>§ 5 Inhalt, Aufbau und Gliederung des Studiums .......................................... 3<br>4. Lehramt an Grund- und Hauptschulen  ............................................................... 5<br>§ 6 Inhalt, Aufbau und Gliederung des Studiums .......................................... 5<br>5. Übergangs- und Schlussvorschriften ................................................................. 6<br>§ 7 In-Kraft-Treten  ............................................................................................ 6<br><!-- End of picture text -->
 
 ## **1. Allgemeines** 
 
@@ -39,14 +37,12 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **§ 3 Besondere Bestimmungen für die Schriftliche Hausarbeit** Das Thema für die schriftliche Hausarbeit kann frühestens am Ende des fünften Semesters vergeben werden. 
 
-## **2. Lehramt an Gymnasien § 4 Inhalt, Aufbau und Gliederung des Studiums** 
-
-## (1) Für das Fach Sozialkunde für das Lehramt an Gymnasien sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+## **2. Lehramt an Gymnasien § 4 Inhalt, Aufbau und Gliederung des Studiums** (1) Für das Fach Sozialkunde für das Lehramt an Gymnasien sind im Bereich Fach- <u>wissenschaft folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 ||**Basismodul Politikwissenschaft (LAGY I)**|**4**|**5**||
-|1|EinführungindiePolitikwissenschaft|2V|2,5|Klausur(90Min.)|
+|1|<br>EinführungindiePolitikwissenschaft<br>|2V|2,5|Klausur(90Min.)|
 |1|Wissenschaftstheorie und Methodenlehre der Politik-<br>wissenschaft|2 V|2,5|Klausur (90 Min.)|
 ||**Politische Theorie & Ideengeschichte(LAGY II)**|**6**|**10**||
 |1|PolitischeTheorieI|2V|3|Klausur(90Min.)|
@@ -61,10 +57,10 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |6|Internationale Beziehungen II|2V|3|Klausur(90 Min.)|
 |6|Internationale Beziehungen|2PS|4|Referat, Hausarbeit<br>und/oder Klausur|
 ||**Basismodul Soziologie (LAGY V)**|**4**|**10**||
-|1|Einführungindie Soziologie|2V|5|Klausur(90Min.)|
+|1|<br>Einführungindie Soziologie|2V|5|Klausur(90Min.)|
 |2|Soziologische Theorien der Gegenwart|2V|5|Klausur(90 Min.)|
 ||**Aufbaumodul Soziologie (LAGY VI)**|**4**|**10**||
-|3|Sozialstruktur|2V|5|Klausur(90Min.)|
+|3|<br>Sozialstruktur|2V|5|Klausur(90Min.)|
 |4|Methoden der empirischen Sozialforschung|2V|5|Klausur(60 Min.)|
 ||**Zeitgeschichte (LAGY VII)**|**8**|**15**||
 |4|EinführungsvorlesungNeuere undNeueste Geschichte|2V|3,5|Klausur(60Min.)|
@@ -81,16 +77,16 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 2 
 
-|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|
+|(2)|Darüber hinaus wird folgendes Modul im Freien B|ereich a|ngeboten|:|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
+|**Sem**|**.**<br>**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |8|ExamenskolloquiumSoziologie|2|5|Referat|
 
-|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|
+|(3) Im|Bereich Fachdidaktik sind folgende Module er|folgreich|abzuleg|en:|
 |---|---|---|---|---|
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 ||**Grundlagen der politischen Bildung (LAGY X)**|**4**|**5**||
-|1 - 7|Grundelemente der Politikdidaktik<br>|2V|3|Klausur(60 Min.)|
+|1 - 7|Grundelemente der Politikdidaktik|2V|3|Klausur(60 Min.)|
 |1-7|Übung zur Vorlesung (optional)|-|-||
 |1-7|Politisches Lernen|2S|2|Referat|
 ||**Methodik und Wertorientierung im PU (LAGY XI)**|**4**|**5**||
@@ -99,7 +95,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |1 - 7|Wertorientierte Politische Bildung|2V|3|Klausur(60 Min.)|
 ||**Summe der Leistungspunkte Fachdidaktik**||**10**||
 
-|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(4) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
+|(4) D|arüber hinaus werden folgende Module im Freie|n Bereic|h angeb|oten:|
 |---|---|---|---|---|
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
@@ -146,12 +142,12 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 * In einem der Module LARS II – LARS IV (nach Wahl der Studierenden) werden die beiden Klausuren auf je 45 Minuten verkürzt. Entsprechend reduzieren sich die Leistungspunkte in den gewählten Modulen auf 7,5. 
 
-|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|
+|(2)|Darüber hinaus wird folgendes Modul im Freien B|ereich an|geboten|:|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
+|**Sem**|**.**<br>**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |6|Examenskolloquium Soziologie|2|5|Referat|
 
-|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|(3) Im Bereich Fachdidaktik sind folgende Module erfolgreich abzulegen:|
+|(3) Im<br>|Bereich Fachdidaktik sind folgende Module erf<br>|olgreich<br>|abzuleg<br>|en:<br>|
 |---|---|---|---|---|
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 ||**Grundlagen derpolitischen Bildung (LARS VIII)**|**4**|**5**||
@@ -165,11 +161,8 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 ||**Praxis des Politikunterrichts (LARS X)**<br>|**2**|**2**||
 |3/5|Übung zur Planung, Durchführung und Kontrolle des<br>Politikunterrichts|2Ü|2|Präsentation|
 ||**Summe der Leistungspunkte Fachdidaktik**||**12**||
-
-## (4) Darüber hinaus werden folgende Module im Freien Bereich angeboten: 
-
+|(4) D|arüber hinaus werden folgende Module im Freie|n Bereic|h angeb|oten:|
 |**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungsleistungen**|
-|---|---|---|---|---|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
 |6|**Examenskolloquium**|2|**2**|Referat|
 
@@ -179,7 +172,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 ## **§ 6 Inhalt, Aufbau und Gliederung des Studiums** 
 
-## (1) Für das Lehramt an Grund- und Hauptschulen sind im Bereich Fachwissenschaft folgende Module abzulegen: 
+## (1) Für das Lehramt an Grund- und Hauptschulen sind im Bereich Fachwissenschaft <u>folgende Module abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -188,9 +181,9 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 ||**Aufbaumodul Politikwissenschaft (LAGS+ LAHS II)**|**6**|**15**||
 |2|Politische Theorie für Studierende im Lehramtsstudien-<br>gang für Grund-und Hauptschulen|2PS|5|Referat, Hausarbeit<br>und/oder Klausur|
 |3|Politische Systeme für Studierende im Lehramtsstu-<br>diengang für Grund-und Hauptschulen|2PS|5|Referat, Hausarbeit<br>und/oder Klausur|
-|3|Internationale Beziehungen für Studierende im Lehr-<br>amtsstudiengang für Grund-und Hauptschulen|2PS|5|Referat, Hausarbeit<br>und/oder Klausur|
+|3|Internationale Beziehungen für Studierende im Lehr-<br>amtsstudiengang für Grund-und Hauptschulen<br>|2PS|5|Referat, Hausarbeit<br>und/oder Klausur|
 ||**Examenskolloquium Politikwissenschaft (LAGS +**<br>**LAHS III)**||**4**||
-|6|Examenskolloquium|2|4|Referat|
+|6|Examenskolloquium<br>|2|4|Referat|
 ||**Basismodul Soziologie (LAGS+ LAHS IV)**|**4**|**10**||
 |1|Einführung in die Soziologie|2V|5|Klausur (90 Min.)|
 |2|Soziologische Theorie|2PS|5|Referat, Hausarbeit<br>und/oder Klausur|
@@ -199,18 +192,19 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |5|HS: Sozialstruktur II|2HS|||
 ||Modulabschlussprüfung||10|Referat, Hausarbeit<br>und/oder Klausur|
 ||**Zeitgeschichte (LAGS+ LAHS VI)**||**10**||
-|4|Einführungsvorlesung Neuere und Neueste Geschichte|2V|3,5|Klausur (60 Min.)|
+|4|Einführungsvorlesung Neuere und Neueste Geschichte|2V|3,5|Klausur (60 Min.)<br>|
 |4|Vorlesung oder Übung Neueste Geschichte|2V/Ü|3|Mündliche Prüfung<br>bzw. Referat oder<br>Klausur (60 Min.)|
 |5|Proseminar Neueste Geschichte|2PS|3,5|Referat und/oder Klau-<br>sur (60 bzw. 90 Min.)|
 ||**Summe der Leistungspunkte**||**54**||
 
-(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten: 
+|(2) Darüber hinaus wird folgendes Modul im Freien Bereich angeboten:|
+|---|
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 |6|Examenskolloquium Soziologie|2|5|Referat|
 
-## (3) Im Bereich Fachdidaktik des Unterrichtsfachs sind folgende Module erfolgreich abzulegen: 
+## (3) Im Bereich Fachdidaktik des Unterrichtsfachs sind folgende Module erfolgreich <u>abzulegen:</u> 
 
 |**Sem.**|**Modul **|**SWS**|**ECTS**|**Prüfungsleistungen **|
 |---|---|---|---|---|
@@ -228,7 +222,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 
 5 
 
-(4) Im Bereich Fachdidaktik der Fächergruppe der Grundschule sind die Module gem. Abs. 3 erfolgreich abzulegen; statt des Moduls Methodik und Werteorientierung im Politikunterricht ist folgendes Modul abzulegen: 
+(4) Im Bereich Fachdidaktik der Fächergruppe der Grundschule sind die Module gem. Abs. 3 erfolgreich abzulegen; statt des Moduls Methodik und Werteorientierung <u>im Politikunterricht ist folgendes Modul abzulegen:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
@@ -236,29 +230,23 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Studien- und Prüfungsordnu
 |2/4|PU: Methodik-Methoden-Modelle|2S|2|Referat + Präsentation|
 |2/4|WertorientiertePolitischeBildung|2V|2|Teilnahme|
 |2/4|Übungzur Vorlesung (optional)|-|-||
-||**Summe der Leistungspunkte Fachdidaktik(Grundschule)**||**11**||
+||**Summe der Leistungspunkte Fachdidaktik(Grund**|**schule)**|**11**||
 
-(5) Im Bereich Fachdidaktik der Fächergruppe der Hauptschule sind die Module gem. Abs. 3 mit Ausnahme des Moduls Praxis des Politikunterrichts erfolgreich abzulegen; zusätzlich sind folgende Module zu absolvieren: 
+(5) Im Bereich Fachdidaktik der Fächergruppe der Hauptschule sind die Module gem. Abs. 3 mit Ausnahme des Moduls Praxis des Politikunterrichts erfolgreich abzulegen; <u>zusätzlich sind folgende Module zu absolvieren:</u> 
 
 |**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistungen**|
 |---|---|---|---|---|
 ||**Praxis des Politikunterrichts (LAHS)**|**5**|**5**|Erfolgreiche Teilnahme/<br>Praktikumsbericht|
-|3/5|Sachanalysen fürden PU|2S|3|Referat/Hausarbeit|
+|3/5|Sachanalysen fürden PU<br>|2S|3|Referat/Hausarbeit|
 |3/5|Übung zur Planung, Durchführung und Kontrolle des<br>Politikunterrichts|2Ü|2|Präsentation|
 ||**Praxisprobleme der Politischen Bildung (LAHS)**|**4**|**5**||
 |4/6|Probleme politischer Bildung in der Hauptschule|2S|3|Referat/ Präsentation/<br>Hausarbeit|
 |4/6|Seminar zur Politikdidaktik|2S|2|Referat/Präsentation|
-||**Summe der Leistungspunkte Fachdidaktik(Hauptschule)**||**20**||
+||**Summe der Leistungspunkte Fachdidaktik(Hauptsc**|**hule)**|**20**||
 
-|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
+|(6) D<br>|arüber hinaus werden folgende Module im Freie<br>|n Bereic<br>|h angeb<br>|oten:<br>|
 |---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
-|3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
-|6|**Examenskolloquium**|2|**2**|Referat|
-
-|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|(6) Darüber hinaus werden folgende Module im Freien Bereich angeboten:|
-|---|---|---|---|---|
-|**Sem.**|**Modul**|**SWS**|**ECTS**|**Prüfungsleistung**|
+|**Sem.**|**Modul**<br>|**SWS**|**ECTS**|**Prüfungsleistung**|
 |3/5|**Übung zum studienbegleitenden fachdidaktischen**<br>**Praktikum**|2|**2**|Praktikumsbericht|
 |6|**Examenskolloquium**|2|**2**|Referat|
 

@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Wintersemester"
 größe: "150-250"
 besondere_studienformen: "1-Fach-Bachelor"
-scraped_at: 2026-05-01T06:48:33+00:00
+scraped_at: 2026-07-01T08:25:25+00:00
 ---
 
 # Mathematik (B.Sc.)
@@ -39,7 +39,7 @@ Wenn Sie sich für ein Studium der Mathematik entscheiden, lernen Sie in den ers
 
 Nach dem Studium sind Sie schließlich in der Lage, komplexe inner- und außermathematische Fragestellungen zu strukturieren und zu lösen. Mathematiker sind sehr gefragt, so dass Sie sich mit Ihrem Bachelorabschluss entscheiden können, ob Sie sich gleich in den Arbeitsmarkt begeben oder das Studium noch in einem Masterprogramm fortsetzen, um Ihre Kenntnisse zu vertiefen.
 
-### Bachelor of Science Mathematik
+### Fachanteile des Studiengangs Mathematik (B.Sc.)
 
 * Mathematische Grundlagen (30%)
 * Angewandte Mathematik (25%)

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "19. Januar 2012"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES-ZwPO%20Rechtswiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/
-scraped_at: 2026-05-01T09:16:22+00:00
-page_count_chars: 2978
+scraped_at: 2026-07-01T10:32:52+00:00
+page_count_chars: 3009
 ---
 
 # 19. Januar 2012
@@ -12,7 +12,7 @@ page_count_chars: 2978
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/5AES-ZwPO%20Rechtswiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/rewi/>
 
-## **Fünfte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
+# **Fünfte Satzung zur Änderung der Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studiengang Rechtswissenschaft** 
 
 Vom 19. Januar 2012 
 
@@ -24,13 +24,13 @@ Die Zwischenprüfungsordnung der Universität Erlangen-Nürnberg für den Studie
 
 § 6 erhält folgende neue Fassung: 
 
-## „ **§ 6** 
+„ **§ 6** 
 
-## **Anrechnung von Studien- und Prüfungsleistungen** 
+# **Anrechnung von Studien- und Prüfungsleistungen** 
 
-(1)[1] Studienzeiten, Studien- und Prüfungsleistungen und Zwischenprüfungen, die an dieser oder einer anderen Universität oder gleichgestellten Hochschule der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, sind anlässlich der Fortsetzung des Studiums, der Ablegung von Prüfungen oder der Aufnahme eines weiteren Studiums anzurechnen, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.[2] Gleiches gilt für die Zwischenprüfung, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern unter vergleichbaren Prüfungsbedingungen erbracht worden sind. 
+(1)<sup>1</sup> Studienzeiten, Studien- und Prüfungsleistungen und Zwischenprüfungen, die an dieser oder einer anderen Universität oder gleichgestellten Hochschule der Bundesrepublik Deutschland, durch die erfolgreiche Teilnahme an einer Fernstudieneinheit im Rahmen eines Studiengangs an einer staatlichen oder staatlich anerkannten Hochschule in der Bundesrepublik Deutschland oder in Studiengängen an ausländischen Hochschulen erbracht worden sind, sind anlässlich der Fortsetzung des Studiums, der Ablegung von Prüfungen oder der Aufnahme eines weiteren Studiums anzurechnen, außer es bestehen wesentliche Unterschiede hinsichtlich der erworbenen Kompetenzen.<sup>2</sup> Gleiches gilt für die Zwischenprüfung, Studien- und Prüfungsleistungen, die an einer staatlichen oder staatlich anerkannten Hochschule in Bayern im Rahmen von sonstigen Studien nach Art. 56 Abs. 6 Nrn. 1 und 2 BayHSchG, in speziellen Studienangeboten nach Art. 47 Abs. 3 Satz 1 BayHSchG oder an der Virtuellen Hochschule Bayern unter vergleichbaren Prüfungsbedingungen erbracht worden sind. 
 
-(2)[1] Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.[2] Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
+(2)<sup>1</sup> Kompetenzen, die im Rahmen einer einschlägigen, erfolgreich abgeschlossenen Berufs- oder Schulbildung, sonstiger weiterbildender Studien nach Art. 56 Abs. 6 Nr. 3 BayHSchG oder einer berufspraktischen Tätigkeit erworben wurden, können angerechnet werden, wenn sie gleichwertig sind.<sup>2</sup> Außerhalb des Hochschulbereichs erworbene Kompetenzen dürfen höchstens die Hälfte der nachzuweisenden Kompetenzen ersetzen. 
 
 (3) Auf Antrag wird die bestandene Bachelorprüfung im Studiengang Wirtschaftsrecht der Rechts- und Wirtschaftswissenschaftlichen Fakultät an der Friedrich-AlexanderUniversität Erlangen-Nürnberg als vollständige Zwischenprüfung angerechnet.“ 
 

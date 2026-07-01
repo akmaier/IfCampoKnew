@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. Oktober 2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/2AeSa-BA_WiWi.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/
-scraped_at: 2026-05-01T09:23:43+00:00
-page_count_chars: 2102
+scraped_at: 2026-07-01T10:40:16+00:00
+page_count_chars: 2111
 ---
 
 # 9. Oktober 2007
@@ -14,11 +14,11 @@ page_count_chars: 2102
 
 **Zweite Satzung zur Änderung der Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg – BPO/WiSo** 
 
-Vom 9. Oktober 2007 
+# Vom 9. Oktober 2007 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Universität Erlangen-Nürnberg vom 1. August 2006, zuletzt geändert durch Satzung vom 26. Juni 2007, wird wie folgt geändert: 
 
@@ -28,11 +28,11 @@ Die Prüfungsordnung für die Bachelorstudiengänge der Wirtschafts- und Sozialw
 
 3. In § 11 Abs. 5 wird folgender Satz 3 angefügt: 
 
-   - „[3] Module, Studien- und Prüfungsleistungen, die im Studium der Wirtschaftswissenschaften nach dieser Prüfungsordnung anerkannt wurden oder werden, können nicht gleichzeitig für ein Studium der International Business Studies nach dieser Prüfungsordnung anerkannt werden (Ausschluss des Doppelstudiums); entsprechendes gilt im umgekehrten Fall.“ 
+   - „<sup>3</sup> Module, Studien- und Prüfungsleistungen, die im Studium der Wirtschaftswissenschaften nach dieser Prüfungsordnung anerkannt wurden oder werden, können nicht gleichzeitig für ein Studium der International Business Studies nach dieser Prüfungsordnung anerkannt werden (Ausschluss des Doppelstudiums); entsprechendes gilt im umgekehrten Fall.“ 
 
 4. In den Anlagen 3.1 und 3.2 wird in der Spalte „Methodische Grundlagen der Sozialökonomik“ die Zahl „16“ durch die Zahl „22“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "BSc-MSc Data Science FPODataScience 20210805 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210805_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/
-scraped_at: 2026-05-01T07:49:16+00:00
-page_count_chars: 6080
+scraped_at: 2026-07-01T09:12:38+00:00
+page_count_chars: 5736
 ---
 
 # BSc-MSc Data Science FPODataScience 20210805 ÄS.pdf
@@ -12,23 +12,23 @@ page_count_chars: 6080
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Nat/Data_Science/Aenderungssatzungen/BSc-MSc_Data_Science_FPODataScience_20210805_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/>
 
-## **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Data Science an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODataScience –** 
+# **Zweite Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Data Science an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODataScience –** 
 
-## **Vom 5. August 2021** 
+# **Vom 5. August 2021** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang Data Science an der Naturwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODataScience – vom 20. August 2020, geändert durch Satzung vom 11. März 2021, wird wie folgt geändert: 
 
-## 1. § 42 wird wie folgt geändert: 
+1. § 42 wird wie folgt geändert: 
 
-- a) In Abs. 3 Satz 2 werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt. 
+   - a) In Abs. 3 Satz 2 werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt. 
 
-- b) In Abs. 4 werden in Sätzen 1 und 2 jeweils nach den Worten „Departments Mathematik“ jeweils die Worte „oder des Department of Data Science“ eingefügt. 
+   - b) In Abs. 4 werden in Sätzen 1 und 2 jeweils nach den Worten „Departments Mathematik“ jeweils die Worte „oder des Department of Data Science“ eingefügt. 
 
-## 2. § 45 wird wie folgt geändert: 
+2. § 45 wird wie folgt geändert: 
 
    - a) In Abs. 2 Satz 5 werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt. 
 
@@ -40,11 +40,11 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang D
 
    - b) In Satz 2 (neu) werden nach dem Wort „Die“ das Wort „wählbaren“ und nach den Worten „Module der“ die Worte „technischen und“ eingefügt. 
 
-## 4. § 50 wird wie folgt geändert: 
+4. § 50 wird wie folgt geändert: 
 
-- a) In Abs. 1 Satz 2 Nr. 6 werden nach den Worten „Departments Mathematik“ ein Komma und die Worte „des Department of Data Science“ eingefügt. 
+   - a) In Abs. 1 Satz 2 Nr. 6 werden nach den Worten „Departments Mathematik“ ein Komma und die Worte „des Department of Data Science“ eingefügt. 
 
-- b) In Abs. 2 Satz 4 werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt. 
+   - b) In Abs. 2 Satz 4 werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt. 
 
 1 
 
@@ -58,7 +58,7 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang D
 
    - a) In Zeile 9 (Techn. und nicht-technische SQ) werden in Spalte 3 (Modulbezeichnung) die Worte „Technische und nicht-technische“ durch die Worte „Wahlpflichtmodule aus dem Katalog der technischen und nicht-technischen“ ersetzt. 
 
-   - b) In der Fußnote[5] unterhalb der Tabelle werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt 
+   - b) In der Fußnote<sup>5</sup> unterhalb der Tabelle werden nach den Worten „Departments Mathematik“ die Worte „oder des Department of Data Science“ eingefügt 
 
 8. In **Anlage 2b** wird die Tabelle wie folgt geändert: 
 
@@ -72,34 +72,22 @@ Die Fachstudien- und Prüfungsordnung für den Bachelor- und Masterstudiengang D
 
 2 
 
-## 9. Nach **Anlage 2b** wird folgende neue **Anlage 2c** angefügt: 
+# 9. Nach **Anlage 2b** wird folgende neue **Anlage 2c** angefügt: 
 
-## „ **Anlage 2c: Studienverlaufsplan Masterstudiengang Data Science, Beginn Sommersemester** 
+# „ **Anlage 2c: Studienverlaufsplan Masterstudiengang Data Science, Beginn Sommersemester** 
 
-||Nr.|Modulbezeichnung|Lehrveran-<br>staltung|SWS|SWS|SWS|SWS|**Gesamt**<br>**ECTS**|Workload-Verteilung<br>pro Semester in ECTS-<br>Punkten|Workload-Verteilung<br>pro Semester in ECTS-<br>Punkten|Workload-Verteilung<br>pro Semester in ECTS-<br>Punkten|Workload-Verteilung<br>pro Semester in ECTS-<br>Punkten|Art und Um-<br>fang der Prü-|Faktor<br>Modul-<br>Note||
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||||||||||Punkten||||||
-|||||V|Ü|P|S||1.<br>Sem.|2.|3.|4.|fung|||
-|||||||||||Sem.|Sem.|Sem.||||
-|**Kernmodule Data Science**|1|Mathematics of<br>Learning|Mathemat-<br>ical Data<br>Science|2||||**5**||3|||Mündliche<br>Prüfung<br>(15 Min.)|1||
-||||Practical<br>Mathemat-<br>ical Data<br>Science||2|||||2||||||
-||2|Deep Learning|vgl. § 43a**FPOINF**|||||**5**|5||||vgl. § 43a<br>**FPOINF**|1||
-|||||||||||||||||
-||3|Selected Topics<br>in Mathematics<br>of Learning|Mathemat-<br>ics of<br>Learning|2||||**5**||3|||Mündliche<br>Prüfung<br>(30 Min.)|1||
-||||Übung Ma-<br>thematics<br>of Learning||2|||||2||||||
-|||||||||||||||||
-|||**Summe Kernmodule Data**<br>**Si**||||||**15**|**5**|**10**|**0**|**0**||||
-|||**cences**||||||||||||||
-|**Hauptstudienrichtung**|4|Wahlpflicht-<br>module aus dem<br>||||||||||||1||
-|||Katalog der ge-<br>ählt Ht|vgl. Modulkatalog gem. § 51<br>Ab 4||||||5-<br>15|5-<br>15|5-<br>15|0|vgl. § 51<br>Ab 4|||
-|||wen aup-<br>studienrichtung<br>gemäß § 51|s.||||||||||s.|||
-|||||||||||||||||
-|||**Summe Wahlpflichtbereich**<br>**Httdiiht**||||||**30**|**5-**<br>**15**|**5-**<br>**15**|**5-**<br>**15**|**0**||||
-|||**aupsuenrcung**||||||||||||||
-|**Nebenstudien-**<br>**richtungen**|5|Wahlpflicht-<br>module aus den<br>Katalogen der<br>nicht gewählten<br>Nebenstudien-<br>richtungen<br>gemäß § 51|vgl. Modulkatalog gem. § 51<br>Abs. 4||||||5-<br>15|5-<br>15|0-<br>10|0|vgl. § 51<br>Abs. 4|1||
-|||||||||||||||||
-|||**Summe Wahlpflichtbereich**<br>**Nbtdiiht**||||||**20**|**5-**<br>**15**|**5-**<br>**15**|**0-**<br>**10**|**0**||||
-|||**eensuenrcung**||||||||||||||
+||Nr.|Modulbezeichnung|Lehrveran-<br>staltung|SWS|**Gesamt**<br>**ECTS**|Wo<br>pro<br>|rkload-<br>Semes<br>Pun<br>|Verteil<br>ter in E<br>kten<br>|ung<br>CTS-<br>|Art und Um-<br>fang der Prü-<br>|Faktor<br>Modul-<br>|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||V<br>Ü<br>P<br>S||1.<br>Sem.|2.<br>Sem.|3.<br>Sem.|4.<br>Sem.|fung|Note|
+|**ience**|1|Mathematics of<br>Learning|Mathemat-<br>ical Data<br>Science<br>Practical<br>Mathemat-<br>ical Data<br>Science|2<br>2|**5**||3<br>2|||Mündliche<br>Prüfung<br>(15 Min.)|1|
+|**ule Data Sc**|2|Deep Learning|vgl. § 4|3a**FPOINF**|**5**|5||||vgl. § 43a<br>**FPOINF**|1|
+|**Kernmod**|3|Selected Topics<br>in Mathematics|Mathemat-<br>ics of<br>Learning|2|**5**||3|||Mündliche<br>Prüfn|1|
+|||<br>of Learning|Übung Ma-<br>thematics<br>of Learning|2|||2|||ug<br>(30 Min.)||
+|||**Summe Kernmodu**<br>**Sciences**|**le Data**||**15**|**5**|**10**|**0**|**0**|||
+|**uptstudienrichtung**|4|Wahlpflicht-<br>module aus dem<br>Katalog der ge-<br>wählten Haupt-<br>studienrichtung<br>gemäß § 51|vgl. Modulka<br>A|talog gem. § 51<br>bs. 4||5-<br>15|5-<br>15|5-<br>15|0|vgl. § 51<br>Abs. 4|1|
+|**Ha**||**Summe Wahlpflic**<br>**Hauptstudienricht**|**htbereich**<br>**ung**||**30**|**5-**<br>**15**|**5-**<br>**15**|**5-**<br>**15**|**0**|||
+|**Nebenstudien-**<br>**richtungen**|5|Wahlpflicht-<br>module aus den<br>Katalogen der<br>nicht gewählten<br>Nebenstudien-<br>richtungen<br>gemäß § 51|vgl. Modulka<br>A|talog gem. § 51<br>bs. 4||5-<br>15|5-<br>15|0-<br>10|0|vgl. § 51<br>Abs. 4|1|
+|||**Summe Wahlpflic**<br>**Nebenstudienricht**|**htbereich**<br>**ung**||**20**|**5-**<br>**15**|**5-**<br>**15**|**0-**<br>**10**|**0**|||
 
 **Erläuterungen:** 
 

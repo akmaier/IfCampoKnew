@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "24. Oktober 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_Fremdsprachenpruefung.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/
-scraped_at: 2026-05-01T08:51:51+00:00
-page_count_chars: 0
+scraped_at: 2026-07-01T10:09:44+00:00
+page_count_chars: 7097
 ---
 
 # 24. Oktober 2002
@@ -12,240 +12,150 @@ page_count_chars: 0
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/1AES_Fremdsprachenpruefung.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/weiterbildungs-und-elitestudiengaenge-sowie-weitere/>
 
-## OCR-Anhang (Bild-Inhalt aus PDF-Anlagen)
+1. 
 
-_Diese Sektion wurde automatisch durch Tesseract-OCR aus den Bild-Seiten der zugehörigen PDF-Datei erzeugt — Anlagen, die im Original als Diagramm/Bild gerendert sind und daher von der regulären PDF-Text-Extraktion nicht erfasst wurden. OCR-Text kann Erkennungsfehler enthalten (Zeichen, Tabellenstruktur), liefert aber für RAG- und Heuristik-Pipelines die fehlende Modul- und Pflicht-Information._
+2. 
 
-### OCR Seite 1
+la . 
 
-```
-Die
-Prüfungsordnung
-für
-die
-Fremdsprachenprüfung
-für
-Studenten
-im
-Magisterstudiengang an der Universität Erlangen-Nürnberg vom 20. April 1989 (KWMBI
-II S. 199) wird wie folgt geändert:
-1.
-8 1 Abs. 2 erhält folgende Fassung:
-„(2) "Zweck dieser Prüfung
-ist der Nachweis fremdsprachlicher Kenntnisse und
-Fertigkeiten, die zu angemessener schriftlicher und mündlicher Kommunikation über
-allgemeine Themen und zur kommunikativen Bewältigung von Standardsituationen der
-akademischen Ausbildung sowie entsprechend qualifizierter Berufe befähigen. Das
-Niveau der Prüfung
-orientiert
-sich an der Allgemeinen
-Fremdsprachenausbildung
-Unicert© II."
-2.
-$ 4 erhält folgende Fassung:
-„Sg 4
-Zulassungsvoraussetzungen zur Fremdsprachenprüfung
-7
-Die Zulassung zur Fremdsprachenprüfung setzt voraus, dass der Bewerber
-5
-1.
-im Magisterstudiengang an der Universität Erlangen-Nürnberg immatrikuliert ist;
-2.
-die Zwischenprüfung in der Prüfungssprache erfolgreich abgelegt hat;
-3.
-die Fremdsprachenprüfung in der gewählten Fremdsprache nicht endgültig nicht
-bestanden hat. “
-3.
-8 6 erhält folgende Fassung:
-„8 6
-Prüfungsanforderungen
-(1) In der Fremdsprachenprüfung hat der Bewerber nachzuweisen, dass er über die
-notwendigen
-sprachlichen
-Fertigkeiten
-und fachlichen
-Kenntnisse
-verfügt,
-sich
-in
-allgemeinen und beruflichen Situationen mündlich und schriftlich auf hohem Niveau
-auszudrücken.
-(2)
-Die
-Prüfungsanforderungen
-der
-schriftichen
-und
-mündlichen
-Prüfungsteile
-orientieren sich am Niveau der Allgemeinen Fremdsprachenausbildung Unicert© Ill.“
-```
+3. 
 
-### OCR Seite 2
+# Satzung zur Anderung der Priifungsordnung fiir die Fremdsprachenprifung fur Studenten im Magisterstudiengang an der Universitat Erlangen-Nirnberg 
 
-```
-Folgende Aufgabentypen sind möglich:
-e
-Beurteilung inhaltlicher Umformulierungen in der Fremdsprache nach den
-Kategorien ‚richtig-falsch“;
-,
-e Beantwortung in der Fremdsprache von in der Fremdsprache gestellten
-Verständnisfragen;
-e Zusammenfassung oder thematische Bearbeitung des Textinhaltes;
-e
-Übersetzen einer Textpassage oder eines allgemeinsprachlichen Textes
-ins Deutsche (sinngemäß);
-e
-Ergänzung eines Lückentextes, in dem einige Wortformen teilweise oder
-ganz getilgt worden sind.
-b) Schreibfertigkeit
-Folgende Aufgabentypen sind möglich:
-«.
-Ergänzung
-oder
-sprachliche
-Bearbeitung
-einer
-allgemeinen
-fremdsprachlichen Textvorlage (z.B. die Abfassung eines Briefes oder eines
-Berichts);
-e
-schriftliche Interpretation oder Bearbeitung nichtschriftlicher Informationen
-(z.B. eines Bildes, einer Grafik, einer Tabelle);
-e
-Beantwortung
-stilistischer,
-lexikalischer
-oder
-syntaktischer
-Fragen
-zu
-ausgewählten Textpassagen.
-2. Der mündliche
-Prüfungsteil
-(maximal
-30
-Minuten)
-besteht aus einem
-Prüfungsgespräch, in dem zu gleichen Anteilen Hörverständnis und aktive
-Sprechfertigkeit geprüft werden. Kandidaten können u. U. gebeten werden,
-bereits 20
-Minuten
-vor Prüfungsbeginn
-anzutreten, um
-einen Text
-als
-Gesprächsvorlage vorzubereiten.
-a) Hörverstehen
-Folgende Aufgabentypen sind möglich:
-e
-Lückentext;
-e
-Fragen und Antwort zum Inhalt. Die Wahl, ob in der Zielsprache oder in der
-Muttersprache geantwortet wird,
-wird sprachenabhängig vom jeweiligen
-Prüfungsausschuss der geprüften Sprache entschieden.
-b) Sprechfertigkeit
-e
-Gespräch in der Fremdsprache über allgemeine und fachbezogene Inhalte
-e
-Fragen zu einem Text.“
-```
+### Vom 24. Oktober 2002 
 
-### OCR Seite 3
+Aufgrund von Art. 6 Abs. 1 Satz 1 und Art. 81 Abs. 1 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlasst die Universitat Erlangen-Nurnberg folgende Anderungssatzung: 
 
-```
-bei einem Durchschnitt über 1,50 bis 2,50:
-„gut“
-bei einem Durchschnitt über 2,50 bis 3,50:
-„befriedigend“
-bei einem Durchschnitt über 3,50 bis 4,00:
-„ausreichend“
-bei einem Durchschnitt über 4,00:
-„nicht ausreichend“.
-(3)
-Eine Prüfung ist bestanden, wenn der schriftliche und mündliche Prüfungsteil
-jeweils mit mindestens „ausreichend“ benotet worden sind.“
-b)
-Absatz 4 wird aufgehoben.
-6.
-S 9 erhält folgende Fassung:
-„89
-Zeugnis
-(1)
-Über eine bestandene Prüfung wird ein vom Dekan der Philosophischen Fakultät
-Il oder seinem Vertreter unterzeichnetes Zeugnis ausgestellt.
-(2)
-Das für eine bestandene Prüfung ausgestellte Fremdsprachenzeugnis enthält:
-1. Angaben
-darüber,
-dass
-der
-Bewerber
-die
-betreffende
-Fremdsprachenausbildung
-mit
-Ablegen
-der
-betreffenden
-{
-Fremdsprachenprüfung erfolgreich abgeschlossen hat;
-2. den
-Hinweis
-darauf,
-dass
-es
-sich
-bei
-der
-Fremdsprachenprüfung
-im
-Magisterstudiengang
-nicht um
-einen
-Vollstudiengang,
-sondern
-um
-eine
-studienergänzende Prüfung handelt;
-3. Angaben über die gewählte Sprache;
-4. Angaben über Art und Dauer der einzelnen Prüfungsleistungen gemäß $ 7
-Abs.2;
-5. die Noten für die einzelnen Prüfungsleistungen;
-6.
-die erzielte Gesamtnote;
-7. Angaben über die für die Bewertung geltende Notenskala gemäß 8 8 Abs. 1
-und die für die Errechnung der Gesamtnote zugrundegelegte Gewichtung
-gemäß $ 8 Abs. 2.
-(3)
-Über das Nichtbestehen
-einer Prüfung ergeht durch den Vorsitzenden des
-Prüfungsausschusses ein schriftlicher Bescheid, der die erzielten Noten angibt
-und eine Rechtsbehelfsbelehrung enthält.
-```
+§1 
 
-### OCR Seite 4
+. 
 
-```
-Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg
-vom
-10.
-Juli 2002 und der Genehmigung des Bayerischen Staatsministeriums für
-Wissenschaft, Forschung und Kunst mit Schreiben vom 17. Oktober 2002 Nr. X/4-
-5e69m-10b/38 594.
-Erlangen, den 24. Oktober 2002
-A
-777 7
-ri
-“ £
-%
-[Kontaktperson entfernt]
-Die Satzung wurde am 24. Oktober 2002
-in der Universität Erlangen-Nürnberg
-niedergelegt; die Niederlegung wurde am 24. Oktober 2002 durch Anschlag in der
-Universität Erlangen-Nürnberg bekanntgegeben. Tag der Bekanntmachung ist der 24.
-{
-Oktober 2002.
-```
+Die Prtifungsordnung ftir die Fremdsprachenprifung ftir Studenten im Magisterstudiengang an der Universitat Erlangen-Nurnberg vom 20. April 1989 (KWMBI 1 S. 199) wird wie folgt geandert: § 1 Abs. 2 erhalt folgende Fassung: (2) 'Zweck dieser Prifung ist der Nachweis fremdsprachlicher Kenntnisse und Fertigkeiten, die zu angemessener schriftlicher und miindlicher Kommunikation Uber allgemeine Themen und zur kommunikativen Bewaltigung von Standardsituationen der akademischen Ausbildung sowie entsprechend qualifizierter Berufe befahigen. “Das Niveau der Priifung orientiert sich an der Allgemeinen Fremdsprachenausbildung Unicert© Ill." 
+
+§ 4 erhalt folgende Fassung: 
+
+»§ 4 
+
+### Zulassungsvoraussetzungen zur Fremdsprachenprifung 
+
+Die Zulassung zur Fremdsprachenpriifung setzt voraus, dass der Bewerber 
+
+1. im Magisterstudiengang an der Universitat Erlangen-Nurnberg immatrikuliert ist; 2. die Zwischenpriifung in der Prifungssprache erfolgreich abgelegt hat; 
+
+3. die Fremdsprachenprifung in der gewahlten Fremdsprache nicht endgiltig nicht bestanden hat. “ 
+
+#### § 6 erhalt folgende Fassung: 
+
+»§ 6 
+
+#### Priifungsanforderungen 
+
+(1) In der Fremdsprachenprtifung hat der Bewerber nachzuweisen, dass er Uber die notwendigen sprachlichen Fertigkeiten und fachlichen Kenntnisse verftigt, sich in allgemeinen und beruflichen Situationen mUindlich und schriftlich auf hohem Niveau auszudriucken. 
+
+(2) Die Priifungsanforderungen der schriftlichen und mitndlichen Prifungsteile orientieren sich am Niveau der Allgemeinen Fremdsprachenausbildung Unicert© III.“ 
+
+4. 
+
+; 
+
+- § 7 Abs. 1 und 2 erhalten folgende Fassung: 
+
+- »(1) ‘Die Fremdsprachenpriifung besteht jeweils aus einem schriftlichen und einem miindlichen Teil. "Die schriftlichen Priifungsleistungen sind jeweils vor den miundlichen zu erbringen. 
+
+- (2) Folgende Priifungsleistungen sind zu erbringen: 1. Im schriftlichen Priifungsteil (Dauer 120 Minuten) werden Leseverstandnis und Schreibfertigkeit geprift. 
+
+#### a) Leseverstandnis 
+
+- Folgende Aufgabentypen sind médglich: 
+
+- e Beurteilung inhaltlicher Umformulierungen in der Fremdsprache nach den Kategorien ,richtig-falsch*; 
+
+- e Beantwortung in der Fremdsprache von in der Fremdsprache gestellten Verstandnisfragen; 
+
+- e Zusammenfassung oder thematische Bearbeitung des Textinhaltes; 
+
+- ¢ Ubersetzen einer Textpassage oder eines allgemeinsprachlichen Textes ins Deutsche (sinngemaf); 
+
+- e Erganzung eines Ltickentextes, in dem einige Wortformen teilweise oder ganz getilgt worden sind. 
+
+#### b) Schreibfertigkeit 
+
+- Folgende Aufgabentypen sind méglich: 
+
+- e Erganzung oder — sprachliche Bearbeitung einer —allgemeinen fremdsprachlichen Textvorlage (z.B. die Abfassung eines Briefes oder eines Berichts); 
+
+- e schriftliche Interpretation oder Bearbeitung nichtschriftlicher Informationen (z.B. eines Bildes, einer Grafik, einer Tabelle); 
+
+- e Beantwortung §stilistischer, lexikalischer oder syntaktischer Fragen zu ausgewahiten Textpassagen. 
+
+2. Der muindliche Priifungsteil (maximal 30 Minuten) besteht aus einem Prifungsgesprach, in dem zu gleichen Anteilen Hdrverstandnis und aktive Sprechfertigkeit gepriift werden. Kandidaten kénnen u. U. gebeten werden, bereits 20 Minuten vor Prifungsbeginn anzutreten, um einen Text als Gesprachsvorlage vorzubereiten. 
+
+#### a) Hérverstehen 
+
+   - Folgende Aufgabentypen sind mdglich: 
+
+- e Liuckentext; 
+
+- e Fragen und Antwort zum Inhalt. Die Wahl, ob in der Zielsprache oder in der Muttersprache geantwortet wird, wird sprachenabhangig vom jeweiligen Priifungsausschuss der gepriiften Sprache entschieden. 
+
+#### b) Sprechfertigkeit 
+
+- e Gesprach in der Fremdsprache Uber allgemeine und fachbezogene Inhalte e Fragen zu einem Text.“ 
+
+5. 
+
+6. 
+
+( 
+
+- § 8 wird wie folgt geandert: 
+
+a) Die Absatze 2 und 3 erhalten folgende Fassung: 
+
+- (2) ‘Zur Ermittlung des Gesamtergebnisses der Priifungen wird eine Gesamtnote gebildet. Die Note des schriftlichen Prifungsteils und die Note des miindlichen Prifungsteils werden gleich gewichtet. *Dabei sind zwei Stellen nach dem Komma zu berticksichtigen. “Die Gesamtnote lautet: 
+
+bei einem Durchschnitt bis 1,50: »sehr gut" bei einem Durchschnitt Uber 1,50 bis 2,50: gut“ bei einem Durchschnitt ber 2,50 bis 3,50: ,befriedigend“ bei einem Durchschnitt Uber 3,50 bis 4,00: ,,ausreichend“ bei einem Durchschnitt ber 4,00: ynicht ausreichend". 
+
+<!-- Start of picture text -->
+.<br><!-- End of picture text -->
+
+- (3) Eine Prifung ist bestanden, wenn der schriftliche und mtindliche Priifungsteil jeweils mit mindestens ,ausreichend* benotet worden sind.“ 
+
+b) Absatz 4 wird aufgehoben. 
+
+- § 9 erhalt folgende Fassung: 
+
+»§ 9 Zeugnis 
+
+- (1) Uber eine bestandene Priifung wird ein vom Dekan der Philosophischen Fakultat Il oder seinem Vertreter unterzeichnetes Zeugnis ausgestellt. 
+
+- (2) Das fiir eine bestandene Priifung ausgestellte Fremdsprachenzeugnis enthalt: 1. Angaben dariber, dass der Bewerber die betreffende Fremdsprachenausbildung mit Ablegen der betreffenden Fremdsprachenpriifung erfolgreich abgeschlossen hat; 
+
+- 2. den Hinweis darauf, dass es sich bei der Fremdsprachenprtifung im Magisterstudiengang nicht um einen Voilstudiengang, sondern um eine studienerganzende Priifung handelt; 
+
+   3. Angaben Uber die gewahlte Sprache; 
+
+   4. Angaben Uber Art und Dauer der einzelnen Priifungsleistungen gema& § 7 Abs.2; 
+
+   5. die Noten ftir die einzelnen Priifungsleistungen; 
+
+   6. die erzielte Gesamtnote; 7. Angaben Uber die fur die Bewertung geltende Notenskala gemaf& § 8 Abs. 1 und die flr die Errechnung der Gesamtnote zugrundegelegte Gewichtung gemaR § 8 Abs. 2. 
+
+- (3) Uber das Nichtbestehen einer Priifung ergeht durch den Vorsitzenden des Prufungsausschusses ein schriftlicher Bescheid, der die erzielten Noten angibt und eine Rechtsbehelfsbelehrung enthdalt. 
+
+; 
+
+   - (4) Auf Antrag wird zusatzlich eine fremdsprachliche Version des Zeugnisses ausgestellt.“ 
+
+7. In § 11 Abs. 1 werden die Worte ,eines weiteren Jahres‘ durch die Worte “von sechs Monaten* ersetzt. 
+
+## §2 
+
+Diese Anderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
+
+Ausgefertigt aufgrund des Beschlusses des Senats der Universitat Erlangen-Nirnberg vom 10. Juli 2002 und der Genehmigung des Bayerischen Staatsministeriums ftir Wissenschaft, Forschung und Kunst mit Schreiben vom 17. Oktober 2002 Nr. X/45e69m-10b/38 594. 
+
+### Erlangen, den 24. Oktober 2002 
+
+£LivMekB. £9 Bten,é“47. £1ra Prof. Dr.“ Karl-Dieter4 Griiskea Rektor Die Satzung wurde am 24. Oktober 2002 in der Universitat Erlangen-Nurnberg niedergelegt; die Niederlegung wurde am 24. Oktober 2002 durch Anschlag in der Universitat Erlangen-Nurnberg bekanntgegeben. Tag der Bekanntmachung ist der 24. Oktober 2002. 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "12. Juni 2017"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AeSa_2FBA_Sinologie.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:12:10+00:00
-page_count_chars: 10501
+scraped_at: 2026-07-01T10:29:25+00:00
+page_count_chars: 9359
 ---
 
 # 12. Juni 2017
@@ -12,17 +12,17 @@ page_count_chars: 10501
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AeSa_2FBA_Sinologie.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) (FPOSino)** 
+# **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) (FPOSino)** 
 
-## **Vom 12. Juni 2017** 
+# **Vom 12. Juni 2017** 
 
 Aufgrund von Art. 13 Abs. 1 i. V. m. Art. 58 Abs. 1 und 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Sinologie im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der FAU vom 1. September 2009, zuletzt geändert durch Satzung vom 29. Juli 2016, wird wie folgt geändert: 
 
-1. § 2 wird wie folgt geändert: 
+# 1. § 2 wird wie folgt geändert: 
 
    - a) In Abs. 1 wird das Wort „Bachelorstudiengang“ durch das Wort „Zwei-FachBachelorstudiengang“ ersetzt. 
 
@@ -52,7 +52,7 @@ bb) Nach den Worten „(mit Chinaaufenthalt) oder“ wird die Zahl „7“ gestr
 
 - dd) Die Worte „das Modul 6 oder 8“ werden durch die Worte „entweder die Module „China und das Abendland“ und „Kulturelle politische Beziehungen zwischen China und dem Abendland“ oder die Module „Staat und Gesellschaft im konfuzianischen Denken“ und „Konfuzianische Traditionen im Wandel““ ersetzt. 
 
-## c) Abs. 4 wird wie folgt geändert: 
+# c) Abs. 4 wird wie folgt geändert: 
 
    - aa) In Satz 2 werden die Worte „“Schlüsselqualifikation 2 (Sino SQ 2)““ durch das Wort und die Zahl „„Schlüsselqualifikation 3““ ersetzt. 
 
@@ -70,7 +70,7 @@ bb) Nach den Worten „(mit Chinaaufenthalt) oder“ wird die Zahl „7“ gestr
 
    - bb) Nach Satz 2 wird folgender neuer Satz 3 angefügt: 
 
-      - „[3] Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
+      - „<sup>3</sup> Im Zweifel folgt die Prüfungssprache der Unterrichtssprache.“ 
 
 2 
 
@@ -86,69 +86,53 @@ bb) Nach den Worten „(mit Chinaaufenthalt) oder“ wird die Zahl „7“ gestr
 
 3 
 
-## 5. Die Tabelle in der Anlage erhält folgende neue Fassung: 
+# 5. Die Tabelle in der Anlage erhält folgende neue Fassung: 
 
 „ 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Art und Umfang der Prü-<br>fung/<br>Studienleistung|Faktor<br>Modulnote|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-|||||||||||||||||
-|||V||||||||||||Erst-<br>fach|Zweit-<br>fach|
-||||Ü|P|S||1.|2.|3.|4.|5.|6.||||
-|||||||||||||||||
-|Modernes Chinesisch 1|Konversationsübung: Grund-<br>kurs Chinesisch Ia||6|||10|10||||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|1|1|
-||Übung: Grundkurs Chinesisch<br>Ib||2|||||||||||||
-|Geschichte und Kultur<br>Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1||||2|5|2,5||||||Klausur (90 Min.)|2|2|
-||Seminar: Einführung in die<br>chinesische Kulturgeschichte 2||||2||2,5|||||||||
-|Schlüsselqualifikation 1|Konversationsübung: Kompo-<br>nente »Kommunikative Kom-<br>petenz« des Chinese Langu-<br>age ProficiencyTest HSK||2+2|||5|2|3|||||Klausur (90 Min.)|0|0|
-|Modernes Chinesisch 2|Konversationsübung: Grund-<br>kurs Chinesisch IIa||6||||||||||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|2|1|
-||Übung: Grundkurs Chinesisch<br>IIb||2|||10||10||||||||
-|||||||||||||||||
-|||||||||||||||||
-|Das moderne China:<br>Staat und Gesellschaft|Seminar||||2|5||5|||||Hausarbeit (8-12 Seiten =<br>ca. 3400-5200 Worte) mit<br>Referat(10-15 Min.)|2|2|
-|Schlüsselqualifikation 2|Übung: Einführung Wissen-<br>schaftliches Arbeiten||2|||5||5|||||Referat (15-20 min)|0|0|
-|Modernes Chinesisch 3|Konversationsübung: Aufbau-<br>kurs Chinesisch IIIa||4|||10|||10||||70 % Klausur<br>(120 Min.) und<br>30 % Mündliche Prüfung<br>(15 Min.)|1|1|
-||Übung: Aufbaukurs Chinesisch<br>IIIb||2|||||||||||||
-|Klassisches Chinesisch<br>1|Übung: Klassisches Chine-<br>sisch||4|||5|||5||||Klausur(90 Min.)|2|2|
+|||SW|S|Gesamt|Wor<br>Semes|kload-V<br>ter in|erteilung pro<br>ECTS-Punkten<sup>3</sup>|Art und Umfang der Prü-<br>|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||ECTS||||fung/|<br>|
+|||V<br>Ü|P<br>S||1.<br>2.|3.|4.<br>5.<br>6.|Studienleistung|Erst-<br>fach<br>Zweit-<br>fach|
+||Konversationsübung: Grund-<br>kurs Chinesisch Ia|6||||||70 % Klausur<br>(120 Min.) und|<br>|
+|Modernes Chinesisch 1|Übung: Grundkurs Chinesisch<br>Ib|2||10|10|||<br>30 % mündliche Prüfung<br>(10 Min.)|1<br>1|
+|Geschichte und Kultur|Seminar: Einführung in die<br>chinesische Kulturgeschichte 1||2|5|2,5|||Klausur (90 Min)|2<br>2|
+|Chinas|Seminar: Einführung in die<br>chinesische Kulturgeschichte 2||2||2,5|||.|<br>|
+|Schlüsselqualifikation 1|Konversationsübung: Kompo-<br>nente »Kommunikative Kom-<br>petenz« des Chinese Langu-<br>age ProficiencyTest HSK|2+2||5|2<br>3|||Klausur (90 Min.)|0<br>0|
+|Modernes Chinesisch 2|Konversationsübung: Grund-<br>kurs Chinesisch IIa<br>Übung: Grundkurs Chinesisch<br>IIb|6<br>2||10|10|||70 % Klausur<br>(120 Min.) und<br>30 % mündliche Prüfung<br>(10 Min.)|2<br>1|
+|Das moderne China:<br>Staat und Gesellschaft|Seminar||2|5|5|||Hausarbeit (8-12 Seiten =<br>ca. 3400-5200 Worte) mit<br>Referat(10-15 Min.)|2<br>2|
+|Schlüsselqualifikation 2|Übung: Einführung Wissen-<br>schaftliches Arbeiten|2||5|5|||Referat (15-20 min)|0<br>0|
+||Konversationsübung: Aufbau-<br>kurs Chinesisch IIIa|4||||||70 % Klausur<br>(120 Min.) und|<br>|
+|Modernes Chinesisch 3|Übung: Aufbaukurs Chinesisch<br>IIIb|2||10||10||<br>30 % Mündliche Prüfung<br>(15 Min.)|1<br>1|
+|Klassisches Chinesisch<br>1|Übung: Klassisches Chine-<br>sisch|4||5||5||Klausur(90 Min.)|2<br>2|
 
 4 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Art und Umfang der Prü-<br>fung/<br>Studienleistung|Faktor<br>Modulnote|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-|||||||||||||||||
-|||V||||||||||||Erst-<br>fach|Zweit-<br>fach|
-||||Ü|P|S||1.|2.|3.|4.|5.|6.||||
-|||||||||||||||||
-|||||||||||||||||
-|China und das Abend-<br>land|Übung: Techniken philologi-<br>schen Umgangs mit chine-<br>sisch-sprachigen Quellen||2|||5|||2||||40 % Wissenstest (10-15<br>Seiten)<br>und<br>60 % Wissenschaftliche<br>Übersetzung (10-15 Sei-<br>ten)|2|2|
-||Seminar: Kulturtransfer zwi-<br>schen China und dem Abend-<br>land||||1|||||1||||||
-||Seminar: Lektüre Kulturtrans-<br>fer zwischen China und dem<br>Abendland||||1|||||2||||||
-|Schlüsselqualifikation 32|Übung: Komponente »Gram-<br>matische Grundlegung« des<br>Chinese Language Proficiency<br>Test HSK||(3+<br>3)|||(10)|||(5)|(5)|||Klausur (90 Min.)|0|0|
-|Klassisches Chinesisch<br>2|Übung: Lektüre: Klassisches<br>Chinesisch||2|||5||||5|||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2|2|
-|Kulturelle und politische<br>Beziehungen zwischen<br>China und dem Abend-<br>land|Hauptseminar||||2|5||||5|||Hausarbeit (12-16 Seiten)<br>= ca. 5.100-6.900 Worte)|2|2|
-|Staat und Gesellschaft<br>im konfuzianischen<br>Denken|Hauptseminar||||2|5||||||5|Hausarbeit (12-16 Seiten<br>= ca. 5.100-6.900 Worte)<br>mit Referat(20-30 Min.)|2|2|
-|Modernes Chinesisch 4,<br>Variante a|Konversationsübung Vertie-<br>fungskurs Chinesisch||(3)|||(10)||||(2)|||Anerkennung von Leis-<br>tungen<br>aus dem Ausland1|1|1|
-||Integrierter Aufenthalt am<br>ECCS im 5. Semester|||||||||||||||
-||||||||||||(8)|||||
-|||||||||||||||||
-|Modernes Chinesisch 4,|Sprachpraktische Übung: Ver-||(3+|||(10)||||(2)|(8)||Klausur(120 Min.)|1|1|
+|||SWS||Gesamt|Workload-V<br>Semester in|erteilu<br>ECTS-|ng pro<br>Punkten<sup>3</sup>|Art und Umfang der Prü-<br>|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|---|---|
+|Modulbezeichnung|Lehrveranstaltung|||ECTS||||fung/|Erst-<br>Zweit-|
+|||V<br>Ü<br>P|<br>S||1.<br>2.<br>3.|4.|5.<br>6.|Studienleistung|<br>fach<br> <br>fach|
+||Übung: Techniken philologi-<br>schen Umgangs mit chine-<br>sisch-sprachigen Quellen|2|||2|||40 % Wissenstest (10-15<br>Seiten)||
+|China und das Abend-<br>land|Seminar: Kulturtransfer zwi-<br>schen China und dem Abend-<br>land||1|5||1||<br>und<br>60 % Wissenschaftliche<br>Übersetzung (10-15 Sei-|2<br>2|
+||Seminar: Lektüre Kulturtrans-<br>fer zwischen China und dem<br>Abendland||1|||2||<br>ten)||
+|Schlüsselqualifikation 3<sup>2</sup>|Übung: Komponente »Gram-<br>matische Grundlegung« des<br>Chinese Language Proficiency<br>Test HSK|(3+<br>3)||(10)|(5)|(5)||Klausur (90 Min.)|0<br>0|
+|Klassisches Chinesisch<br>2|Übung: Lektüre: Klassisches<br>Chinesisch|2||5||5||Wissenschaftliche Über-<br>setzung (10-15 Seiten)|2<br>2|
+|Kulturelle und politische<br>Beziehungen zwischen<br>China und dem Abend-<br>land|Hauptseminar||2|5||5||Hausarbeit (12-16 Seiten)<br>= ca. 5.100-6.900 Worte)|2<br>2|
+|Staat und Gesellschaft||||||||Hausarbeit (12-16 Seiten||
+|im konfuzianischen<br>Denken|Hauptseminar||2|5|||5|= ca. 5.100-6.900 Worte)<br>mit Referat(20-30 Min.)|2<br>2|
+|Modernes Chinesisch 4,<br>Variante a|Konversationsübung Vertie-<br>fungskurs Chinesisch<br>Integrierter Aufenthalt am<br>ECCS im 5. Semester|(3)||(10)||(2)|(8)|Anerkennung von Leis-<br>tungen<br>aus dem Ausland<sup>1</sup>|1<br>1|
+|Modernes Chinesisch 4,|Sprachpraktische Übung: Ver-|(3+||(10)||(2)|(8)|Klausur(120 Min.)|1<br>1|
 
 5 
 
-|Modulbezeichnung|Lehrveranstaltung|||||Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Workload-Verteilung pro<br>Semester in ECTS-Punkten3|Art und Umfang der Prü-<br>fung/<br>Studienleistung|Faktor<br>Modulnote|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||SWS|||||||||||||
-|||||||||||||||||
-|||V||||||||||||Erst-<br>fach|Zweit-<br>fach|
-||||Ü|P|S||1.|2.|3.|4.|5.|6.||||
-|||||||||||||||||
-|Variante b|tiefungskurs Chinesisch||4)|||||||||||||
-|Konfuzianische Traditi-<br>onen im Wandel|Hauptseminar||||2|5|||||2,5||50 % Rezension (10 Sei-<br>ten)<br>und<br>50 % Wissenschaftliche<br>Übersetzung (10-15 Sei-<br>ten)|2|2|
-||Hauptseminar||||2|||||||2,5||||
-|Bachelorarbeit|Bachelorarbeit|||||10||||||10|Bachelorarbeit (ca. 40<br>Seiten)|1|1|
-||Summe SWS und ECTS:||45-<br>49||1<br>6|90+10|17|23|17|15|10,<br>5|17,5||||
+|Modulbezeichnung|Lehrveranstaltung|SWS||Gesamt<br>|Work<br>Semes|load-V<br>ter in|erteilung pro<br>ECTS-Punkten<sup>3</sup>|Art und Umfang der Prü-<br>fung/|F<br>Mo<br>|aktor<br>dulnote<br> <br>|
+|---|---|---|---|---|---|---|---|---|---|---|
+|||V<br>Ü<br>P|<br>S|ECTS|1.<br>2.|3.|4.<br>5.<br>6.|Studienleistung|Erst-<br>fach|<br>Zweit-<br>fach|
+|Variante b|tiefungskurs Chinesisch|4)|||||||||
+|Konfuzianische Traditi-|Hauptseminar||2|5|||2,5|50 % Rezension (10 Sei-<br>ten)<br>und|2|2|
+|onen im Wandel|Hauptseminar||2||||2,5|50 % Wissenschaftliche<br>Übersetzung (10-15 Sei-<br>ten)|||
+|Bachelorarbeit|Bachelorarbeit|||10|||10|Bachelorarbeit (ca. 40<br>Seiten)|1|1|
+||Summe SWS und ECTS:|45-<br>49|1<br>6|90+10|17<br>23|17|15<br>10,<br>5<br>17,5||||
 
 „ 
 

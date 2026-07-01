@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "17. Dezember 2009"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Sozialkunde-bisSS2010.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/
-scraped_at: 2026-05-01T07:16:57+00:00
-page_count_chars: 1469
+scraped_at: 2026-07-01T08:43:36+00:00
+page_count_chars: 1466
 ---
 
 # 17. Dezember 2009
@@ -12,19 +12,19 @@ page_count_chars: 1469
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/Lehramt/Aenderungssatzungen/1AES%20LAPO-Sozialkunde-bisSS2010.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/>
 
-## **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
 Vom 17. Dezember 2009 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Sozialkunde im Lehramtsstudiengang an der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 30. März 2009 wird wie folgt geändert: 
 
 In § 6 Abs. 3 werden in der Tabelle Zeile 11 Spalte 2 nach dem Wort „Übung“ die Worte „zum studienbegleitenden fachdidaktischen Praktikum“ durch die Worte „zur Planung, Durchführung und Kontrolle des Politikunterrichts“ ersetzt. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

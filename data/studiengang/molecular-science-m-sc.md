@@ -9,7 +9,7 @@ fakultät: "Naturwissenschaftliche Fakultät"
 studienbeginn: "Sommersemester, Wintersemester"
 größe: "1-50"
 besondere_studienformen: "Internationales Studienangebot, Studiengang mit Doppelabschluss"
-scraped_at: 2026-05-01T06:49:17+00:00
+scraped_at: 2026-07-01T08:26:11+00:00
 ---
 
 # Molecular Science (M.Sc.)
@@ -86,6 +86,8 @@ Für die Zulassung zum Masterstudiengang Molecular Science ist der erfolgreiche 
 
 Bachelor-Studiengänge, die für eine Zulassung in Frage kommen, haben mindestens 80 % Lehrveranstaltungen in den Kerndisziplinen der Chemie, von denen mindestens 25 % grundlegende Laborarbeiten sind, die von den Studierenden durchgeführt werden.
 
+Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht den Unterzeichnerstaaten des Lissaboner Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (GATE-Zertifikat) und aus Pakistan ein GAT-Zertifikat erforderlich oder ein vergleichbares Ergebnis eines standardisierten Aufnahmetests für internationale Masterstudiengänge.
+
 Außerdem muss im qualifizierenden Bachelor-Studiengang eine Note von 2,5 oder besser nach dem deutschen Notensystem nachgewiesen werden.
 
 ### Details und Anmerkungen
@@ -118,7 +120,7 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/molecular-science-m-sc/#examination-regulations-and-module-guide)
+* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/molecular-science-msc/#examination-regulations-and-module-guide)
 * [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/)
 
 Weitere Informationen
@@ -146,7 +148,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/molecular-science-m-sc/#examination-regulations-and-module-guide)
+- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/molecular-science-msc/#examination-regulations-and-module-guide)
 - [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/)
 - [Webseite des Studiengangs](https://www.chemie.nat.fau.de/studium/chem-molsc/masterstudium/)
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)

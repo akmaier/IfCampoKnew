@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 17.09.2001"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-Mechatronik-neu.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:33+00:00
-page_count_chars: 15695
+scraped_at: 2026-07-01T11:33:32+00:00
+page_count_chars: 15780
 ---
 
 # PDF vom 17.09.2001
@@ -18,47 +18,47 @@ Vom 17. September 2001
 
 Aufgrund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Fachprüfungsordnung: 
 
-## Vorbemerkung zum Sprachgebrauch: 
+### Vorbemerkung zum Sprachgebrauch: 
 
 Die Bezeichnung weiblicher und männlicher Personen durch die jeweils maskuline Form in der nachstehenden Satzung bringt den Auftrag der Hochschule, im Rahmen ihrer Aufgaben die verfassungsrechtlich gebotene Gleichstellung von Mann und Frau zu verwirklichen und die für Frauen bestehenden Nachteile zu beseitigen, sprachlich nicht angemessen zum Ausdruck. Auf die Verwendung von Doppelformen oder andere Kennzeichnungen für weibliche und männliche Personen (z. B. Bewerberin/Bewerber) wird jedoch verzichtet, um die Lesbarkeit und Übersichtlichkeit zu wahren. Mit allen im Text verwendeten Personenbezeichnungen sind stets beide Geschlechter gemeint. 
 
-## **§ 1 Geltungsbereich** 
+### **§ 1 Geltungsbereich** 
 
-1Diese Fachprüfungsordnung regelt die Diplomprüfung in dem wissenschaftlichen Diplomstudiengang Mechatronik.[2] Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität ErlangenNürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
+1Diese Fachprüfungsordnung regelt die Diplomprüfung in dem wissenschaftlichen Diplomstudiengang Mechatronik.<sup>2</sup> Sie ergänzt die Allgemeine Prüfungsordnung für die Diplom-, Bachelor- sowie Masterprüfungen an der Technischen Fakultät der Universität ErlangenNürnberg (DiplPrOTF) in der jeweils geltenden Fassung. 
 
-## **§ 2 Diplomgrad** 
+### **§ 2 Diplomgrad** 
 
 Aufgrund der bestandenen Diplomprüfung im wissenschaftlichen Diplomstudiengang Mechatronik wird der akademische Grad „Diplom-Ingenieur Univ.“ beziehungsweise „DiplomIngenieurin Univ.“ (beide Male abgekürzt „Dipl.-Ing. Univ.“) verliehen, an Absolventinnen auf Antrag in männlicher Form. 
 
-## **§ 3 Gliederung des Studiums und Studiendauer** 
+### **§ 3 Gliederung des Studiums und Studiendauer** 
 
-(1)[1] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
+(1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
 
-(2)[1] Das Studium setzt sich aus Lehrveranstaltungen im Umfang von 157 SWS, verteilt auf acht Semester, und eine dreimonatige Projektarbeit zusammen.[2] Hinzu kommen 26 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.[3] Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. 
+(2)<sup>1</sup> Das Studium setzt sich aus Lehrveranstaltungen im Umfang von 157 SWS, verteilt auf acht Semester, und eine dreimonatige Projektarbeit zusammen.<sup>2</sup> Hinzu kommen 26 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. 
 
 1 
 
-## **§ 4 Studienbegleitende Ablegung der Prüfungen, Leistungspunktesystem** 
+### **§ 4 Studienbegleitende Ablegung der Prüfungen, Leistungspunktesystem** 
 
 (1) Die Prüfungen der Diplomvorprüfung und der Diplomhauptprüfung werden studienbegleitend abgelegt. 
 
-(2)[1] Die Prüfungen werden nach dem Leistungspunktesystem erbracht.[2] Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen Maluspunkte vergeben.[3] Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung oder die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet. 
+(2)<sup>1</sup> Die Prüfungen werden nach dem Leistungspunktesystem erbracht.<sup>2</sup> Für bestandene Prüfungen werden Leistungspunkte, für nicht bestandene erste Wiederholungsprüfungen Maluspunkte vergeben.<sup>3</sup> Eine zweite Wiederholung einer Prüfung ist zulässig, solange die Summe der Maluspunkte den für die Diplomvorprüfung oder die Diplomhauptprüfung festgelegten Schwellenwert nicht überschreitet. 
 
-## **I. Diplomvorprüfung** 
+# **I. Diplomvorprüfung** 
 
-## **§ 5 Meldung zur Diplomvorprüfung** 
+### **§ 5 Meldung zur Diplomvorprüfung** 
 
 Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomvorprüfung melden, dass er die letzte Prüfungsleistung bis zum Vorlesungsbeginn des fünften Semesters ablegen kann. 
 
-## **§ 6 Zulassungsvoraussetzungen zur Diplomvorprüfung** 
+### **§ 6 Zulassungsvoraussetzungen zur Diplomvorprüfung** 
 
 (1) Voraussetzung für die Zulassung zur Prüfung in Mathematik I und II ist der Nachweis der erfolgreichen Teilnahme an den Übungen zur Vorlesung Mathematik I und II (ein Schein). 
 
-(2)[1] Voraussetzung für die Zulassung zur letzten Fachprüfung ist die erfolgreiche Teilnahme – nachgewiesen durch je einen Schein – an den Praktika Antriebstechnik, Mechatronik und Messtechnik.[2] Ferner ist eine berufspraktische Tätigkeit von mindestens sechs Wochen gemäß den Praktikantenrichtlinien nachzuweisen. 
+(2)<sup>1</sup> Voraussetzung für die Zulassung zur letzten Fachprüfung ist die erfolgreiche Teilnahme – nachgewiesen durch je einen Schein – an den Praktika Antriebstechnik, Mechatronik und Messtechnik.<sup>2</sup> Ferner ist eine berufspraktische Tätigkeit von mindestens sechs Wochen gemäß den Praktikantenrichtlinien nachzuweisen. 
 
-(3)[1] Der zum Erwerb eines Leistungsnachweises nach den Absätzen 1 und 2 erforderliche Wissensstand wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen. 2Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.[3] Nicht erfolgreich absolvierte Veranstaltungen können zweimal wiederholt werden. 
+(3)<sup>1</sup> Der zum Erwerb eines Leistungsnachweises nach den Absätzen 1 und 2 erforderliche Wissensstand wird durch Klausuren, Kolloquien, Referate oder Hausarbeiten nachgewiesen. 2Zu Beginn der Lehrveranstaltung gibt der verantwortliche Hochschullehrer bekannt, welche Leistungen für den Nachweis der erfolgreichen Teilnahme nötig sind.<sup>3</sup> Nicht erfolgreich absolvierte Veranstaltungen können zweimal wiederholt werden. 
 
-## **§ 7 Umfang und Durchführung der Diplomvorprüfung** 
+### **§ 7 Umfang und Durchführung der Diplomvorprüfung** 
 
 1In der Diplomvorprüfung sind schriftliche Prüfungen in folgenden Prüfungsfächern abzulegen: 
 
@@ -74,7 +74,9 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomvorprüfung me
 
 6. Mathematik 
 
-7. Mechatronische Systeme 8. Messtechnik 
+7. Mechatronische Systeme 
+
+8. Messtechnik 
 
 9. Produktionstechnik 
 
@@ -92,9 +94,9 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomvorprüfung me
 
 2Die Gliederung der Prüfungsfächer in Teilprüfungen, ihr Umfang, ihre Verteilung auf die Semester des Grundstudiums, die Prüfungsdauer sowie die Zahl der Leistungspunkte beziehungsweise Maluspunkte ergeben sich aus der **Anlage 1** . 
 
-## **§ 8 Bestehen der Diplomvorprüfung, Wiederholung von Prüfungsleistungen** 
+### **§ 8 Bestehen der Diplomvorprüfung, Wiederholung von Prüfungsleistungen** 
 
-- (1)[1] Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend“ lauten.[2 ] Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens „ausreichend“ bewertet ist.[3] Die Fachnote errechnet sich aus dem Durchschnitt der entsprechend den Leistungspunkten gemäß Anlage 1 gewichteten Noten der Teilprüfungen; dabei wird nur eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen werden ohne Rundung gestrichen. 
+- (1)<sup>1</sup> Die Diplomvorprüfung ist bestanden, wenn alle Fachnoten wenigstens „ausreichend“ lauten.<sup>2</sup> Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens „ausreichend“ bewertet ist.<sup>3</sup> Die Fachnote errechnet sich aus dem Durchschnitt der entsprechend den Leistungspunkten gemäß Anlage 1 gewichteten Noten der Teilprüfungen; dabei wird nur eine Stelle nach dem Komma berücksichtigt; alle anderen Stellen werden ohne Rundung gestrichen. 
 
 (2) In die Ermittlung der Gesamtnote der Diplomvorprüfung gehen die Fachnoten mit dem Gewicht ihrer Leistungspunkte ein. 
 
@@ -102,17 +104,17 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomvorprüfung me
 
 (4) Eine zweite Wiederholung nicht ausreichend bewerteter Prüfungsleistungen ist zulässig bis zur Schwelle von 40 Maluspunkten. 
 
-## **II. Diplomhauptprüfung** 
+# **II. Diplomhauptprüfung** 
 
-## **§ 9 Meldung zur Diplomhauptprüfung** 
+### **§ 9 Meldung zur Diplomhauptprüfung** 
 
 Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung melden, dass er die letzte Prüfungsleistung bis zum Ende des achten Semesters ablegen und im Anschluss daran die Diplomarbeit durchführen kann. 
 
-## **§ 10 Zulassungsvoraussetzungen zur Diplomhauptprüfung** 
+### **§ 10 Zulassungsvoraussetzungen zur Diplomhauptprüfung** 
 
 (1) Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung ist, dass die Diplomvorprüfung bestanden ist oder mindestens alle Prüfungsleistungen der Diplomvorprüfung erstmals abgelegt und bis auf zwei Prüfungsleistungen mit wenigstens „ausreichend“ bewertet sind. 
 
-(2)[1] Voraussetzung für die Zulassung zur Diplomarbeit ist, dass 
+- (2)<sup>1</sup> Voraussetzung für die Zulassung zur Diplomarbeit ist, dass 
 
 1. die Diplomvorprüfung bestanden ist, 
 
@@ -128,17 +130,17 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung 
 
 5. eine vom Praktikantenamt anerkannte berufspraktische Tätigkeit gemäß den Praktikantenrichtlinien von 26 Wochen nachgewiesen ist. 
 
-## **§ 11 Projektarbeit** 
+### **§ 11 Projektarbeit** 
 
-(1)[1] Die Projektarbeit ist eine Arbeit unter der gemeinsamen wissenschaftlichen Betreuung je eines Hochschullehrers des Instituts für Elektrotechnik, Elektronik und Informationstechnik sowie des Instituts für Maschinenbau und Fertigungstechnik.[ 2] Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf dem Gebiet der Mechatronik zu erlernen.[3] Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 400 Stunden in drei Monaten abgeschlossen werden kann.[4] Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
+(1)<sup>1</sup> Die Projektarbeit ist eine Arbeit unter der gemeinsamen wissenschaftlichen Betreuung je eines Hochschullehrers des Instituts für Elektrotechnik, Elektronik und Informationstechnik sowie des Instituts für Maschinenbau und Fertigungstechnik.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen auf dem Gebiet der Mechatronik zu erlernen.<sup>3</sup> Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 400 Stunden in drei Monaten abgeschlossen werden kann.<sup>4</sup> Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
 
-(2)[1] Die betreuenden Hochschullehrer setzen Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Projektarbeit vorliegen.[2] Das Thema der Projektarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben. 
+(2)<sup>1</sup> Die betreuenden Hochschullehrer setzen Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Projektarbeit vorliegen.<sup>2</sup> Das Thema der Projektarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben. 
 
 (3) Ist die Projektarbeit mit einer Note schlechter als 4,0 benotet worden, wird sie wegen einer vom Studenten zu vertretenden Fristüberschreitung verspätet abgegeben oder das Thema der Arbeit unzulässigerweise zurückgegeben, so ist sie nicht bestanden. 
 
-(4)[1] Eine nicht bestandene Projektarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Bei einer Wiederholung der Projektarbeit ist die Rückgabe ausgeschlossen. 
+(4)<sup>1</sup> Eine nicht bestandene Projektarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Bei einer Wiederholung der Projektarbeit ist die Rückgabe ausgeschlossen. 
 
-## **§ 12 Umfang und Durchführung der Diplomhauptprüfung** 
+### **§ 12 Umfang und Durchführung der Diplomhauptprüfung** 
 
 (1) Die Diplomhauptprüfung umfasst 
 
@@ -150,7 +152,7 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung 
 
 4. die Anfertigung einer Diplomarbeit. 
 
-(2)[1] Pflichtfächer sind 
+(2)<sup>1</sup> Pflichtfächer sind 
 
 1. Betriebswirtschaftslehre 
 
@@ -172,23 +174,23 @@ Der Kandidat soll sich so rechtzeitig zu den Prüfungen der Diplomhauptprüfung 
 
 4 
 
-(3)[1] Jede Vertiefungsrichtung umfasst 10 SWS.[2] Der Katalog der wählbaren Vertiefungsrichtungen, deren Einzelfächer, die Art und Dauer der Prüfung wird vom Prüfungsausschuß auf Vorschlag der Studienkommission erstellt und durch Aushang bekanntgegeben. 
+(3)<sup>1</sup> Jede Vertiefungsrichtung umfasst 10 SWS.<sup>2</sup> Der Katalog der wählbaren Vertiefungsrichtungen, deren Einzelfächer, die Art und Dauer der Prüfung wird vom Prüfungsausschuß auf Vorschlag der Studienkommission erstellt und durch Aushang bekanntgegeben. 
 
 (4) Als Wahlfächer sind Vorlesungen der Technischen Fakultät im Umfang von 6 SWS und weitere Vorlesungen der gesamten Friedrich-Alexander-Universität im Umfang von 6 SWS wählbar, die sonst nicht Gegenstand der Diplomhauptprüfung sind und in denen Prüfungen stattfinden. 
 
-(5)[1] Die Prüfungen sind in den Pflicht- und Einzelfächern der Vertiefungsrichtungen schriftlich, in den Wahlfächern schriftlich oder mündlich.[2] Die Dauer der Prüfungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus **Anlage 2** .[3] Jede Prüfung in einem Wahlfach bezieht sich auf Lehrveranstaltungen von jeweils wenigstens 2 SWS.[4] Der Umfang der Prüfung im Wahlfach ergibt sich aus der Zahl der zugrunde liegenden SWS.[5] Für eine SWS sind bei schriftlichen Prüfungen 15 min Prüfungszeit zu veranschlagen; sie umfaßt mindestens 60 min. Eine mündliche Prüfung dauert etwa 30 min.[6] Je SWS wird ein Leistungspunkt bzw. bei Nichtbestehen der ersten Wiederholungsprüfung ein Maluspunkt vergeben. 
+(5)<sup>1</sup> Die Prüfungen sind in den Pflicht- und Einzelfächern der Vertiefungsrichtungen schriftlich, in den Wahlfächern schriftlich oder mündlich.<sup>2</sup> Die Dauer der Prüfungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus **Anlage 2** .<sup>3</sup> Jede Prüfung in einem Wahlfach bezieht sich auf Lehrveranstaltungen von jeweils wenigstens 2 SWS.<sup>4</sup> Der Umfang der Prüfung im Wahlfach ergibt sich aus der Zahl der zugrunde liegenden SWS.<sup>5</sup> Für eine SWS sind bei schriftlichen Prüfungen 15 min Prüfungszeit zu veranschlagen; sie umfaßt mindestens 60 min. Eine mündliche Prüfung dauert etwa 30 min.<sup>6</sup> Je SWS wird ein Leistungspunkt bzw. bei Nichtbestehen der ersten Wiederholungsprüfung ein Maluspunkt vergeben. 
 
 (6) Eine zweite Wiederholung nicht ausreichend bewerteter Prüfungsleistungen ist zulässig bis zur Schwelle von 30 Maluspunkten im Hauptstudium. 
 
-## **§ 13 Diplomarbeit** 
+### **§ 13 Diplomarbeit** 
 
-1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus der Mechatronik behandeln. 4Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer aus dem Institut für Elektrotechnik, Elektronik und Informationstechnik oder dem Institut für Maschinenbau und Fertigungstechnik betreut. 
+1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus der Mechatronik behandeln. 4Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer aus dem Institut für Elektrotechnik, Elektronik und Informationstechnik oder dem Institut für Maschinenbau und Fertigungstechnik betreut. 
 
-## **§ 14 Bestehen der Diplomhauptprüfung** 
+### **§ 14 Bestehen der Diplomhauptprüfung** 
 
 Die Diplomhauptprüfung ist bestanden, wenn alle Einzelprüfungen der Prüfungsfächer gemäß §12 Absatz 1 Nrn. 1 bis 4 und die Diplomarbeit mit wenigstens „ausreichend“ bewertet wurden. 
 
-## **§ 15 Bewertung der Leistungen** 
+### **§ 15 Bewertung der Leistungen** 
 
 1In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
 
@@ -200,26 +202,26 @@ Die Diplomhauptprüfung ist bestanden, wenn alle Einzelprüfungen der Prüfungsf
 
 4. des Seminars 
 
-> 2Das Gewicht der Leistungspunkte ergibt sich aus der **Anlage 2** . ³In den beiden Vertiefungsrichtungen und in den Wahlfächern wird die Mittelnote aus den mit der SWS-Zahl gewichteten Prüfungsnoten ermittelt.[4] Die Einzelfächer der Vertiefungsrichtungen und die Wahlfächer werden im Zeugnis mit der Prüfungsnote aufgeführt. 
+> 2Das Gewicht der Leistungspunkte ergibt sich aus der **Anlage 2** . ³In den beiden Vertiefungsrichtungen und in den Wahlfächern wird die Mittelnote aus den mit der SWS-Zahl gewichteten Prüfungsnoten ermittelt.<sup>4</sup> Die Einzelfächer der Vertiefungsrichtungen und die Wahlfächer werden im Zeugnis mit der Prüfungsnote aufgeführt. 
 
 5 
 
-## **§ 16 Inkrafttreten** 
+### **§ 16 Inkrafttreten** 
 
 Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 
-## **Anlage 1 (zu § 7)** 
+### **Anlage 1 (zu § 7)** 
 
-|**_Prüfungsfächer der_**<br>**_Diplomvorprüfung_**|**_Verteilung der SWS über die_**<br>**_Semester des Grundstudiums_**|**_Verteilung der SWS über die_**<br>**_Semester des Grundstudiums_**|**_Verteilung der SWS über die_**<br>**_Semester des Grundstudiums_**|**_Verteilung der SWS über die_**<br>**_Semester des Grundstudiums_**|**_Prüfungs-_**<br>**_dauer in_**<br>**_Minuten_**|**_Zahl der_**<br>**_Leistungs- Malus-_**<br>**_punkte       punkte_**|**_Zahl der_**<br>**_Leistungs- Malus-_**<br>**_punkte       punkte_**|
+|**_Prüfungsfächer der_**<br>**_Diplomvorprüfung_**|**_Vertei_**<br>**_Seme_**|**_lung de_**<br>**_ster des_**|**_r SWS_**<br>**_Grundst_**|**_über die_**<br>**_udiums_**|**_Prüfungs-_**<br>**_dauer in_**<br>**_Minuten_**|**_Zah_**<br>**_Leistung_**<br>**_punkte_**|**_l der_**<br>**_s- Malus-_**<br>**_punkte_**|
 |---|---|---|---|---|---|---|---|
 ||1.|2.|3.|4.||||
 |1.   Grundlagen der Antriebstechnik<br>Praktikum|||2+1|2 P|60<br>-|3|3|
 |2.   Grundlagen der Elektrotechnik<br>mit den Teilprüfungen<br>a) Teilprüfung 1<br>b) Teilprüfung 2<br> c)Teilprüfung 3|4+2|2+2|2+2||90<br>60<br>60|6<br>4<br>4|6<br>4<br>4|
 |3.   Halbleiterbauelemente|||2+2||60|4|4|
 |4.   Einführung in die Informatik|3+3||||90|6|6|
-|5.   MaschinenelementeI|||4+2||120|6|6|
+|<br>5.   MaschinenelementeI|||4+2||120|6|6|
 |6.   Mathematik mit den Teilprüfungen<br>a) Mathematik I und II<br>b) Mathematik III|4+2|4+2|2+2||180<br>60|12<br>4|12<br>4|
-|7.   Mechatronische Systeme<br>Praktikum||2||2<br>4 P|60<br>-|4|4|
+|<br>7.   Mechatronische Systeme<br>Praktikum||2||2<br>4 P|60<br>-|4|4|
 |8.   Messtechnik<br>Praktikum||||1<br>1 P|60<br>-|1|1|
 |9.   Produktionstechnik|2|2|||120|4|4|
 |10. Schaltungstechnik||||2+2|60|4|4|
@@ -231,9 +233,9 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 6 
 
-## **Anlage 2 (zu § 12 Abs. 5, § 15 Satz 2)** 
+### **Anlage 2 (zu § 12 Abs. 5, § 15 Satz 2)** 
 
-|**_Diplomhauptprüfung_**|**_Prüfungsdauer_**<br>**_in Minuten_**|**Zahl der**<br>**_Leistungs-  Malus-_**<br>**_Punkte        punkte_**|**Zahl der**<br>**_Leistungs-  Malus-_**<br>**_Punkte        punkte_**|
+|**_Diplomhauptprüfung_**|**_Prüfungsdauer_**<br>**_in Minuten_**|**Za**<br>**_Leistun_**<br>**_Punkte_**|**hl der**<br>**_gs-  Malus-_**<br>**_punkte_**|
 |---|---|---|---|
 |**I. Pflichtfächer**||||
 |1. Betriebswirtschaftslehre|60|4|4|

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "7. Juli 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES%20Allg%20PrO%20BA%20MA%20TechFak.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/
-scraped_at: 2026-05-01T09:55:05+00:00
-page_count_chars: 2516
+scraped_at: 2026-07-01T11:16:11+00:00
+page_count_chars: 2529
 ---
 
 # 7. Juli 2010
@@ -12,13 +12,13 @@ page_count_chars: 2516
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/5AES%20Allg%20PrO%20BA%20MA%20TechFak.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/>
 
-## **Fünfte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - ABMPO/TechFak -** 
+# **Fünfte Satzung zur Änderung der Allgemeinen Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der FriedrichAlexander-Universität Erlangen-Nürnberg - ABMPO/TechFak -** 
 
-## Vom 7. Juli 2010 
+# Vom 7. Juli 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität ErlangenNürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an der Technischen Fakultät der Universität Erlangen-Nürnberg - ABMPO/TechFak - vom 18. September 2007, zuletzt geändert durch Satzung vom 6. Mai 2010, wird wie folgt geändert: 
 
@@ -32,9 +32,9 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an de
 
 4. Es wird folgender neuer § 30 eingefügt: 
 
-## „ **§ 30 Zulassung zu den Prüfungen** 
+# „ **§ 30 Zulassung zu den Prüfungen** 
 
-1Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.[2] Bestehen Wahlmöglichkeiten zwischen den für die Masterprüfung nachzuweisenden Modulen, werden die Studierenden jeweils nur für ein Modul zugelassen, das sie durch Anmeldung zur Prüfung bindend wählen.[3] Die Zulassung ist zu versagen, wenn 
+1Wer im Masterstudium immatrikuliert ist, gilt als zugelassen zur Masterprüfung und den Modulprüfungen, aus denen die Masterprüfung besteht, es sei denn, die Zulassung ist zu versagen.<sup>2</sup> Bestehen Wahlmöglichkeiten zwischen den für die Masterprüfung nachzuweisenden Modulen, werden die Studierenden jeweils nur für ein Modul zugelassen, das sie durch Anmeldung zur Prüfung bindend wählen.<sup>3</sup> Die Zulassung ist zu versagen, wenn 
 
 1. in den Fachprüfungsordnungen vorgeschriebene Voraussetzungen und Nachweise endgültig nicht oder nicht fristgemäß erfüllt werden, 
 
@@ -44,7 +44,7 @@ Die Allgemeine Prüfungsordnung für die Bachelor- und Masterstudiengänge an de
 
 5. Die bisherigen §§ 30-33 werden zu neuen §§ 31-34. 
 
-## **§ 2** 
+# **§ 2** 
 
 Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

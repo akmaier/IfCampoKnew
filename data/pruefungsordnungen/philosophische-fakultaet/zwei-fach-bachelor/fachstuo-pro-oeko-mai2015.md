@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 05.10.2007 i.d.F. 21.05.2015"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Oeko.Mai2015.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:08:54+00:00
-page_count_chars: 8753
+scraped_at: 2026-07-01T10:26:39+00:00
+page_count_chars: 8456
 ---
 
 # PDF vom 05.10.2007 i.d.F. 21.05.2015
@@ -46,7 +46,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Prüfungsordnung
 
 (1) Das Fach Ökonomie kann im Bachelorstudiengang als erstes Fach mit einem Umfang 70 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTSPunkten oder als zweites Fach mit einem Umfang von 70 ECTS-Punkten studiert werden. 
 
-(2)[1] Im Fach Ökonomie erwerben die Studierenden grundlegende Fachkenntnisse der Wirtschaftswissenschaft, einschließlich der entsprechenden Methoden.[2] Der Studiengang bereitet auf berufliche Tätigkeit in Industrie- und Dienstleistungsunternehmen, Verwaltung, Verbänden und Parteien vor.[3] Durch die Verbindung von wesentlichen Grundkenntnissen der Betriebs- und Volkswirtschaftslehre werden, in Kombination mit einem zweiten Fach, die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
+(2)<sup>1</sup> Im Fach Ökonomie erwerben die Studierenden grundlegende Fachkenntnisse der Wirtschaftswissenschaft, einschließlich der entsprechenden Methoden.<sup>2</sup> Der Studiengang bereitet auf berufliche Tätigkeit in Industrie- und Dienstleistungsunternehmen, Verwaltung, Verbänden und Parteien vor.<sup>3</sup> Durch die Verbindung von wesentlichen Grundkenntnissen der Betriebs- und Volkswirtschaftslehre werden, in Kombination mit einem zweiten Fach, die Voraussetzungen für ein weit gefächertes berufliches Tätigkeitsspektrum gelegt. 
 
 (3) Im Studium Ökonomie im Bachelorstudiengang sollen die Grundlagen für eine fachwissenschaftliche Ausbildung gelegt werden, welche die Studierenden zur fundierten Analyse ökonomischer Sachzusammenhänge und zur kritischen Reflexion 
 
@@ -74,7 +74,7 @@ der Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft
 
 ## **§ 3 Fächerkombinationen** 
 
-1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .[2] Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
+1Die Kombinationsmöglichkeiten der einzelnen Fächer im Zwei-Fach-Bachelorstudiengang richten sich nach **Anlage 3 der ABMStPO/Phil** .<sup>2</sup> Im Übrigen findet § 31 Abs. 5 der ABMStPO/Phil Anwendung. 
 
 2 
 
@@ -84,7 +84,7 @@ der Bedingungen und Möglichkeiten verantwortlichen Handelns in der Gesellschaft
 
 (2) Die Zulassung zum Modul „Volkswirtschaftliches Proseminar“ setzt die bestandenen Module „Mikroökonomie“ und Makroökonomie“ voraus. 
 
-(3)[1] Für das Studium der Ökonomie als Erstfach müssen Schlüsselqualifikationen im Umfang von 30 ECTS-Punkten erworben werden.[2] Durch Praktika können maximal 10 ECTS erworben werden. 
+(3)<sup>1</sup> Für das Studium der Ökonomie als Erstfach müssen Schlüsselqualifikationen im Umfang von 30 ECTS-Punkten erworben werden.<sup>2</sup> Durch Praktika können maximal 10 ECTS erworben werden. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 
@@ -96,26 +96,22 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 3 
 
-## **Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Ökonomie** 
+## **<u>Anlage: Studienverlaufsplan Zwei-Fach-Bachelor Ökonomie</u>** 
 
-|Modulbezeichnung|Lehrveranstaltung|SWS|SWS|SWS|SWS|Gesamt<br>ECTS|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Workload-Verteilung pro<br>Semester in ECTS-Punkten1|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Modulnote|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|||V|Ü|P|S||1.|2.|3.|4.|5.|6.|||
-|**Betriebswirtschaftslehre I**|Betriebswirtschaftslehre I|4||||5|5||||||Klausur (90 Min.)|1|
-|**Einführung in die**<br>**Volkswirtschaftslehre**|Einführung in die Volkswirt-<br>schaftslehre|2||||5|5||||||Klausur (90. Min.)|1|
-||Einführung in die Volkswirt-<br>schaftslehre||1||||||||||||
-|**Betriebswirtschaftslehre II**|Betriebswirtschaftslehre II|4||||5||5|||||Klausur (90 Min.)|1|
-|**Mikroökonomie**|Mikroökonomie|2||||5||5|||||computerbasierte Tests (4-5<br>Einheiten à 10 Fragen, 0 %)2<br>und Klausur (90. Min., 100 %)|1|
-||Mikroökonomie||1||||||||||||
-|**Makroökonomie**|Makroökonomie|2||||5|||5||||computerbasierte Tests (4-5<br>Einheiten à 10 Fragen, 0 %)2<br>undKlausur(90. Min.,100 %)|1|
-||Makroökonomie||1||||||||||||
-|**Betriebliches**<br>**Rechnungswesen I**|Betriebliches<br>Rechnungswesen I|2||||5|||5||||Klausur (60 Min.)|1|
-||Betriebliches Rechnungswesen<br>II||1||||||||||||
-|**Betriebliches**<br>**Rechnungswesen II**|Betriebliches<br>Rechnungswesen II|2||||5||||5|||Klausur (60 Min.)|1|
-||Betriebliches<br>Rechnungswesen II||1||||||||||||
-|**Statistik**|Statistik|2||||5||||5|||Klausur (90 Min.)|1|
-||Statistik||2||||||||||||
-|**Volkswirtschaftliches**<br>**Proseminar**|Proseminar||||2|5|||||5||Vortrag (45-60 Min.)<br>und Hausarbeit(15 S.)|1|
+|Modulbezeichnung|Lehrveranstaltung<br>V|SWS<br>Ü<br>P<br>S|Gesamt<br>ECTS|Worklo<br>Semester<br>1.<br>2.|ad-Verteilung pro<br>in ECTS-Punkten<sup>1</sup><br>3.<br>4.<br>5.<br>6.|Art und Umfang der<br>Prüfung/Studienleistung|Faktor<br>Modulnote|
+|---|---|---|---|---|---|---|---|
+|**Betriebswirtschaftslehre I**|Betriebswirtschaftslehre I<br>4||5|5||Klausur (90 Min.)|1|
+|**Einführung in die**<br>**Volkswirtschaftslehre**|Einführung in die Volkswirt-<br>schaftslehre<br>2<br>Einführung in die Volkswirt-<br>schaftslehre|1|5|5||Klausur (90. Min.)|1|
+|**Betriebswirtschaftslehre II**|Betriebswirtschaftslehre II<br>4||5|5||Klausur (90 Min.)|1|
+||Mikroökonomie<br>2|||||computerbasierte Tests (4-5<br>||
+|**Mikroökonomie**|Mikroökonomie|1|5|5||Einheiten à 10 Fragen, 0 %)<sup>2</sup><br>und Klausur (90. Min., 100 %)|1|
+||Makroökonomie<br>2|||||computerbasierte Tests (4-5<br>||
+|**Makroökonomie**|Makroökonomie|1|5||5|Einheiten à 10 Fragen, 0 %)<sup>2</sup><br>undKlausur(90. Min.,100 %)|1|
+|**Betriebliches**<br>**Rechnungswesen I**|Betriebliches<br>Rechnungswesen I<br>2<br>Betriebliches Rechnungswesen<br>II|1|5||5|Klausur (60 Min.)|1|
+|**Betriebliches**<br>**Rechnungswesen II**|Betriebliches<br>Rechnungswesen II<br>2<br>Betriebliches<br>Rechnungswesen II|1|5||5|Klausur (60 Min.)|1|
+|**Statistik**|Statistik<br>2||5||5|Klausur (90 Min)|1|
+||Statistik|2||||.||
+|**Volkswirtschaftliches**<br>**Proseminar**|Proseminar|2|5||5|Vortrag (45-60 Min.)<br>und Hausarbeit(15 S.)|1|
 
 > 1 Bei der angegebenen Verteilung handelt es sich um eine Empfehlung 
 
@@ -123,18 +119,18 @@ Diese Studien- und Prüfungsordnung tritt am 1. Oktober 2007 in Kraft.
 
 4 
 
-|**Recht für**<br>**Wirtschaftswissenschaftler I**|Recht für<br>Wirtschaftswissenschaftler I|2||||5|||||5||Klausur (90 Min.)|1|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||Recht für<br>Wirtschaftswissenschaftler I||1||||||||||||
-|**Recht für**<br>**Wirtschaftswissenschaftler II**|Recht für<br>Wirtschaftswissenschaftler II|2||||5||||||5|Klausur (90 Min.)|1|
-||Recht für<br>Wirtschaftswissenschaftler II||1||||||||||||
-|Vertiefungsbereich|||||||||||||||
-|**Vertiefung**<br>**Wirtschaftswissenschaften I**||||||5||||5|||nach Maßgabe des Faches3|1|
-|**Vertiefung**<br>**Wirtschaftswissenschaften II**||||||5|||||5||nach Maßgabe des Faches3|1|
-|**Vertiefung**<br>**Wirtschaftswissenschaften III**||||||5||||||5|nach Maßgabe des Faches3|1|
-|DasModul Bachelorarbeitmussnur im Erstfachbelegtwerden.|||||||||||||||
-|**Bachelorarbeit**||||||10||||||10|Bachelorarbeit (40 S.)|1|
-|Summe:||24|9||2|70|10|10|10|15|15|20|||
+|**Recht für**|Recht für<br>Wirtschaftswissenschaftler I<br>2|5<br>5<br>Klausur (90 Min)|1|
+|---|---|---|---|
+|**Wirtschaftswissenschaftler I**|Recht für<br>Wirtschaftswissenschaftler I|<br> <br>.<br>1||
+|**Recht für**|Recht für<br>Wirtschaftswissenschaftler II<br>2|5<br>5<br>Klausur (90 Min)|1|
+|**Wirtschaftswissenschaftler II**|Recht für<br>Wirtschaftswissenschaftler II|<br> <br>.<br>1||
+|Vertiefungsbereich||||
+|**Vertiefung**<br>**Wirtschaftswissenschaften I**||5<br>5<br>nach Maßgabe des Faches<sup>3</sup>|1|
+|**Vertiefung**<br>**Wirtschaftswissenschaften II**||5<br>5<br>nach Maßgabe des Faches<sup>3</sup>|1|
+|**Vertiefung**<br>**Wirtschaftswissenschaften III**||5<br>5<br>nach Maßgabe des Faches<sup>3</sup>|1|
+|DasModul Bachelorarbeitmussn|ur im Erstfachbelegtwerden.|||
+|**Bachelorarbeit**||10<br>10<br>Bachelorarbeit (40 S.)|1|
+||Summe:<br>24|9<br>2<br>70<br>10<br>10<br>10<br>15<br>15<br>20||
 
 3 Abhängig von der Wahl der einzelnen Veranstaltung durch die Studierenden; Einzelheiten sind in der jeweils gültigen FPO bzw. im Modulhandbuch geregelt. 
 

@@ -9,7 +9,7 @@ fakultät: "Philosophische Fakultät und Fachbereich Theologie"
 studienbeginn: "Wintersemester"
 größe: "50-150"
 besondere_studienformen: "2-Fach-Bachelor, Teilzeitstudium möglich"
-scraped_at: 2026-05-01T06:43:06+00:00
+scraped_at: 2026-07-01T08:19:20+00:00
 ---
 
 # Buchwissenschaft (B.A.)
@@ -35,7 +35,7 @@ Die Buchwissenschaft untersucht die kommunikativen Prozesse, die schriftbasierte
 
 Wenn Sie sich für Bücher, Zeitungen und Zeitschriften interessieren und vor allem die Prozesse kennenlernen möchten, die ihnen zugrunde liegen, dann sind Sie bei uns richtig.
 
-### Bachelor of Arts (2 Fächer) Buchwissenschaft
+### Fachanteile des Studiengangs Buchwissenschaften (B.A.)
 
 * Soziotechnische Systeme (17%)
 * Rezeption und Nutzung (17%)
@@ -125,7 +125,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
@@ -134,7 +134,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 * [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 ## Zugangsvoraussetzungen und Bewerbung
 
@@ -186,7 +186,7 @@ Organisatorisches
 Downloads
 
 * [Modulhandbuch](https://www.buchwissenschaft.phil.fau.de/studium/ba-ma-buwi/#collapse_2)
-* [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/bachelorstudiengaenge-an-der-philosophischen-fakultaet/)
+* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/)
 
 Weitere Informationen
 
@@ -221,7 +221,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Iberoromanistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/iberoromanistik-ba/)
@@ -229,6 +229,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Orientalistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/orientalistik-ba/)
 - [Pädagogik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/paedagogik-ba/)
 - [Sinologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/sinologie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/studium/bewerbung-und-zulassung/zugangsvoraussetzungen/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
@@ -242,12 +243,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
 - [Modulhandbuch](https://www.buchwissenschaft.phil.fau.de/studium/ba-ma-buwi/#collapse_2)
-- [Prüfungsordnungen](https://www.fau.de/fau/rechtsgrundlagen/pruefungsordnungen/philosophische-fakultaet-und-fachbereich-theologie/bachelorstudiengaenge-an-der-philosophischen-fakultaet/)
+- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/)
 - [Prüfungsamt Philosophische Fakultät und Fachbereich Theologie](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-phil/)
 - [Webseite des Departments/Instituts](https://www.buchwissenschaft.phil.fau.de/)
 - [Philosophische Fakultät und Fachbereich Theologie](https://www.phil.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Buchwissenschaft-BA-AdobeStock-scaled-1.jpeg)
+- [stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Buchwissenschaft-BA-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

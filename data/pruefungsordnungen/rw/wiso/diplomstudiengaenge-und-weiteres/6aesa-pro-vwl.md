@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "1. Februar 1999"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-VWL.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/
-scraped_at: 2026-05-01T09:31:13+00:00
-page_count_chars: 3180
+scraped_at: 2026-07-01T10:50:05+00:00
+page_count_chars: 3185
 ---
 
 # 1. Februar 1999
@@ -12,9 +12,9 @@ page_count_chars: 3180
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/WISO/Aenderungssatzungen/6AeSa-PrO-VWL.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/rw/wiso/diplomstudiengaenge-und-weiteres/>
 
-## **Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Sechste Satzung zur Änderung der Diplomprüfungsordnung für Studenten der Volkswirtschaftslehre an der Wirtschafts- und Sozialwissenschaftlichen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 1. Februar 1999 
+# Vom 1. Februar 1999 
 
 Auf  Grund von Art. 6 und Art. 81 Abs. 1 des Bayerischen Hochschulgesetzes erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
@@ -58,7 +58,9 @@ im Teilfach Grundzüge der Betriebswirtschaftslehre I eine einstündige Klausur,
 
 - b)  In Absatz 3 Satz 1 werden die Worte „eines Jahres“ durch die Worte „von sechs Monaten“ ersetzt. 
 
-- c)  Absatz 4 Satz 1 erhält folgende Fassung: „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
+- c)  Absatz 4 Satz 1 erhält folgende Fassung: 
+
+   - „Eine zweite Wiederholung der Diplomvorprüfung ist nur in bis zu zwei Teilfächern gemäß § 22 Abs. 1 möglich.“ 
 
 § 2 
 

@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "23. September 1998"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO-MB.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:28:19+00:00
-page_count_chars: 2537
+scraped_at: 2026-07-01T11:44:59+00:00
+page_count_chars: 2528
 ---
 
 # 23. September 1998
@@ -12,7 +12,7 @@ page_count_chars: 2537
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-FPO-MB.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinenbau an der Universität Erlangen-Nürnberg** 
 
 Vom 23. September 1998 
 
@@ -30,27 +30,25 @@ Die Fachprüfungsordnung für den wissenschaftlichen Diplomstudiengang Maschinen
 
 b) In der Fächergruppe 2 Spalte 1 wird das Wort “Regelungstechnik” durch die Wörter “Einführung in die Regelungstechnik” ersetzt und in Spalte 5 werden die Worte “Spezielle Probleme der” gestrichen. 
 
-- c) Die Fächergruppe 3 wird wie folgt geändert: 
+   - c) Die Fächergruppe 3 wird wie folgt geändert: 
 
-   - aa) Die Spalte 2 erhält folgende Fassung: 
+      - aa) Die Spalte 2 erhält folgende Fassung: 
 
-   - “Qualitätsmanagement und Meßtechnik I” 
+      - “Qualitätsmanagement und Meßtechnik I” 
 
-bb) Die Spalte 3 erhält folgende Fassung: 
+      - bb) Die Spalte 3 erhält folgende Fassung: 
 
-- “3.1 Qualitätsmanagement und Meßtechnik II 
+      - “3.1 Qualitätsmanagement und Meßtechnik II 
 
-- 3.2 Prüfsysteme für die Fertigung” 
+      - 3.2 Prüfsysteme für die Fertigung” 
 
-cc) Die Spalte 4 erhält folgende Fassung: 
+      - cc) Die Spalte 4 erhält folgende Fassung: 
 
-- “Qualitätsmanagement und Meßtechnik” 
+      - “Qualitätsmanagement und Meßtechnik” 
 
 3. Die Anlage 3 wird wie folgt geändert: 
 
 In der Fächergruppe 7 Spalte 1 wird die Passage “7.1 Regelungstechnik” durch “7.1 Einführung in die Regelungstechnik” ersetzt. 
-
-**==> picture [19 x 11] intentionally omitted <==**
 
 - (1.)   Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 
 

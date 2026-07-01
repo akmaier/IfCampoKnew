@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 08.06.2010 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuOPrO-MA-AntikeSprachenKulturen.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:24:05+00:00
-page_count_chars: 8822
+scraped_at: 2026-07-01T09:38:52+00:00
+page_count_chars: 8785
 ---
 
 # PDF vom 08.06.2010 i.d.F. 05.11.2010
@@ -14,7 +14,7 @@ page_count_chars: 8822
 
 **Der Text dieser Fachstudien- und Prüfungsordnung ist nach dem aktuellen Stand sorgfältig erstellt; gleichwohl ist ein Irrtum nicht ausgeschlossen. Verbindlich ist der amtliche, beim Prüfungsamt einsehbare Text.** 
 
-## **Fachstudien- und Prüfungsordnung für den Masterstudiengang Antike Sprachen und Kulturen an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg – FPOAnSK - Vom 8. Juni 2010** 
+# **Fachstudien- und Prüfungsordnung für den Masterstudiengang Antike Sprachen und Kulturen an der Philosophischen Fakultät und Fachbereich Theologie der Universität Erlangen-Nürnberg – FPOAnSK - Vom 8. Juni 2010** 
 
 geändert durch Satzung vom 5. November 2010 
 
@@ -28,9 +28,9 @@ Die Fachstudien- und Prüfungsordnung für den forschungsorientierten konsekutiv
 
 ## **§ 2 Qualifikation zum Masterstudium, Nachweise und Zugangsvoraussetzungen** 
 
-(1) 1Fachspezifischer Abschluss ist der Abschluss in einem Zwei-FachBachelorstudiengang in den Fächern Griechisch, Latein, Mittellatein oder Indogermanistik.[2] Als fachverwandte Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden andere Bachelorabschlüsse anerkannt, soweit das Bachelorstudium eine andere alte Sprache, insbesondere germanische Sprachen zum Gegenstand hat. 
+(1) 1Fachspezifischer Abschluss ist der Abschluss in einem Zwei-FachBachelorstudiengang in den Fächern Griechisch, Latein, Mittellatein oder Indogermanistik.<sup>2</sup> Als fachverwandte Abschlüsse im Sinne des § 34 Abs. 1 Nr. 1 i.V.m. Abs. 2 ABMStPO/Phil werden andere Bachelorabschlüsse anerkannt, soweit das Bachelorstudium eine andere alte Sprache, insbesondere germanische Sprachen zum Gegenstand hat. 
 
-(2)[1] Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.[2] Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.[3] Das Auswahlgespräch erstreckt sich insbesondere auf die Prüfung guter Kenntnisse der Sprache und Literatur von mindestens zwei der vier Fachgebiete Griechisch, Latein, Mittellatein und Indogermanistik.[4] Das 
+(2)<sup>1</sup> Für Bewerberinnen und Bewerber mit einer Gesamtnote des Abschlusses bzw. im Falle des § 34 Abs. 4 ABMStPO/Phil einem Durchschnitt der bisherigen Leistungen von 2,51 bis 3,00 findet ein Auswahlgespräch statt; die übrigen Bewerberinnen und Bewerber werden nicht zur zweiten Stufe des Qualifikationsfeststellungsverfahrens zugelassen und erhalten einen mit entsprechender Begründung versehenen Ablehnungsbescheid.<sup>2</sup> Das Auswahlgespräch soll zeigen, ob die Bewerberin und der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzen und zu erwarten ist, dass sie in einem stärker forschungsorientiertem Studium selbständig wissenschaftlich zu arbeiten verstehen.<sup>3</sup> Das Auswahlgespräch erstreckt sich insbesondere auf die Prüfung guter Kenntnisse der Sprache und Literatur von mindestens zwei der vier Fachgebiete Griechisch, Latein, Mittellatein und Indogermanistik.<sup>4</sup> Das 
 
 1 
 
@@ -38,7 +38,7 @@ Auswahlgespräch erstreckt sich auch auf die Motivation der Bewerberin/des Bewer
 
 ## **§ 3 Umfang und Gliederung des Masterstudiums, Prüfungen** 
 
-1Umfang und Gliederung des Masterstudiengangs Antike Sprachen und Kulturen sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der Anlage.[2] Der Masterstudiengang Antike Sprachen und Kulturen besteht aus jeweils zwei inhaltlich verschiedenen Schwerpunkten, die aus den vier Teilfächern „Griechisch, Indogermanistik, Latein, Mittellatein“ gewählt werden können.[3] Bei Aufnahme des Studiums müssen sich die Studierenden für zwei dieser Teilfächer entscheiden.[4] Zusätzlich hat jede(r) Studierende das gemeinschaftliche Modul Motive und Formen zu belegen.[5] Das in diesem Modul enthaltene Proseminar ist aus einem der beiden nicht gewählten und nicht während des BA-Studiums bereits studierten Teilfächer zu wählen. 
+1Umfang und Gliederung des Masterstudiengangs Antike Sprachen und Kulturen sowie Art, Umfang und Gewichtungsfaktor der Prüfungen bestimmen sich nach der Anlage.<sup>2</sup> Der Masterstudiengang Antike Sprachen und Kulturen besteht aus jeweils zwei inhaltlich verschiedenen Schwerpunkten, die aus den vier Teilfächern „Griechisch, Indogermanistik, Latein, Mittellatein“ gewählt werden können.<sup>3</sup> Bei Aufnahme des Studiums müssen sich die Studierenden für zwei dieser Teilfächer entscheiden.<sup>4</sup> Zusätzlich hat jede(r) Studierende das gemeinschaftliche Modul Motive und Formen zu belegen.<sup>5</sup> Das in diesem Modul enthaltene Proseminar ist aus einem der beiden nicht gewählten und nicht während des BA-Studiums bereits studierten Teilfächer zu wählen. 
 
 ## **§ 4 Inkrafttreten und Übergangsvorschriften** 
 
@@ -48,31 +48,25 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 ## **Anlage: Studienplan Master Antike Sprachen und Kulturen:** 
 
-## Gemeinschaftliches Modul 
+## <u>Gemeinschaftliches Modul</u> 
 
-|**Sem.**|||||**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
+|**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**LV**|**SWS**|**ECTS**||||
-|||||||||
 |1.-2. o.<br>2.-3.|Motive und<br>Formen|S Orient und Okzident<br>PS mit begleitendem<br>Eigenstudium|2<br>2|6<br>4|10|Klausur (90 Min.)|100 %|
 
-## Indogermanistik (I) 
+## <u>Indogermanistik (I)</u> 
 
-|**Sem.**|||||**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
+|**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**LV**|**SWS**|**ECTS**||||
-|||||||||
 |1.-2. o.<br>2.-3.|I 1 Fragestellun-<br>gen und Ge-<br>schichte der<br>Indogermanistik|VL Die frühe Indoger-<br>manistik<br>S Fragestellungen der<br>Indogermanistik|2<br>2|5<br>5|10|Referat (schriftl.,<br>mindest. 12 Seiten|100 %|
 |2.-3.|I 2<br>Mykenisch und<br>die griechischen<br>Dialekte|S Einführung in das<br>Mykenische u. Überblick<br>ü. d. griech. Dialekte<br>S Die Kunstsprache<br>Homers|2<br>2|5<br>5|10|Referat (schriftl.,<br>mindest. 12 Seiten)|100 %|
 |2.-3.|I 3<br>Indoiranisch u.<br>weitere indoger-<br>manische<br>Sprachen|HS Altpersisch- oder<br>Vedalektüre<br>Ü Persisch I|2<br>2|5<br>5|10|Referat (schriftl.,<br>mindest. 12 Seiten)|100%|
 |1.-2. o.<br>2.-3.|I 4<br>Importmodul aus<br>der germanisti-<br>schen Linguistik;<br>Titel und Inhalte<br>werden von der<br>Germanistik noch<br>bekanntgegeben|Importmodul|||10|||
 
-## Griechisch (G) 
+## <u>Griechisch (G)</u> 
 
-|**Sem.**|||||**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
+|**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**LV**|**SWS**|**ECTS**||||
-|||||||||
 |1.-2.|G I<br>Griechische<br>Literatur I|HS Griechische Literatur<br>VL Griechische Literatur|2<br>2|6<br>4|10|Referat (30-60 Min.)<br>o. Hausarbeit (ca. 15<br>Seiten)|100 %|
 |1.-2.|G 2<br>Griechische<br>Literatur II|HS Griechische<br>Literatur<br>VLGriechischeLiteratur|2<br>2|6<br>4|10|Referat (30-60 Min.)<br>o. Hausarbeit (ca. 15<br>Seiten)|100 %|
 |1.-2. o.<br>2.-3.|G 3<br>Nebendisziplinen|S Epigraphik<br>SPapyrologie|2<br>2|5<br>5|10|Referat (30-60 Min.)|100 %|
@@ -80,38 +74,29 @@ Diese Fachprüfungsordnung tritt am Tage nach ihrer Bekanntmachung in Kraft.
 
 3 
 
-## Latein (L) 
+## <u>Latein (L)</u> 
 
 |**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
 |1.-2. o.<br>2.-3.|L 1<br>Nebendisziplinen|UE Epigraphik<br>PS Schrift und Kultur o.<br>UE Griechische<br>Epigraphik|2<br>2|5<br>5|10|in einer zu wählen-<br>den Veranstaltung<br>Prüfungsleistung n.<br>Maßgabe d. importie-<br>renden Faches|100 %|
-|1.-3.|L 2<br>Geschichte der<br>römischen Litera-<br>tur|UE u. Selbststudiums-<br>einheit Literatur der<br>Republik<br>UE u. Selbststudiums-<br>einheit Literatur der<br>Kaiserzeit|2|5||Klausur (45 Min.) u.<br>mdl. Prüfung<br>(15 Min.) zur Selbst-<br>studiumseinheit|80 u.<br>20 %|
-||||||1|||
-||||||0|||
-||||2|5||||
-|||||||||
+|1.-3.|L 2<br>Geschichte der<br>römischen Litera-<br>tur|UE u. Selbststudiums-<br>einheit Literatur der<br>Republik<br>UE u. Selbststudiums-<br>einheit Literatur der<br>Kaiserzeit|2<br>2|5<br>5|10|Klausur (45 Min.) u.<br>mdl. Prüfung<br>(15 Min.) zur Selbst-<br>studiumseinheit|80 u.<br>20 %|
 |1.-2. o.<br>2.-3.|L 3<br>Lateinische Lite-<br>ratur I: Prosa|HS<br>VL|2<br>2|6<br>4|10|Referat m. Hausar-<br>beit  (ca. 15 Seiten)|100 %|
-|1.-2. o.<br>2.-3.|L 4<br>Lateinische Lite-<br>ratur II: Poesie|HS<br>VL|2<br>2|6<br>4|10|Referat m. Hausar-<br>beit (ca. 15 Seiten)|100 %|
+|1.-2. o.|L 4<br>Ltinih Lit|HS|2|6|10|Referat m. Hausar-|100 %|
+|2.-3.|aesce e-<br>ratur II: Poesie|VL|2|4||beit (ca. 15 Seiten)||
 
-## Mittellatein (MLat) 
+## <u>Mittellatein (MLat)</u> 
 
-|**Sem.**|||||**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
+|**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**LV**|**SWS**|**ECTS**||||
-|||||||||
 |1.-2 o.<br>2.-3.|MLat 1 Lateini-<br>sche Literatur<br>und Sprache bis<br>zum Hochmittel-<br>alter|HS Lateinische Literatur<br>und Sprache I<br>UE Übersetzung aus-<br>gewählter Texte|2<br>2|6<br>4|10|Referat; Hausarbeit<br>(mind. 12 Seiten)|100 %|
-|2.-3.|MLat 2 Lateini-<br>sche Literatur u.<br>Sprache in Mit-<br>telalter u. früher<br>Neuzeit|HS Lateinische Literatur<br>u. Sprache II<br>VL o. UE Übersetzung<br>ausgewählter Texte|2<br>2|6||f|100 %|
-||||||10|Reerat; Hausarbeit<br>id 12 Sit||
-|||||4||(mn.  een)||
+|2.-3.|MLat 2 Lateini-<br>sche Literatur u.<br>Sprache in Mit-<br>telalter u. früher<br>Neuzeit|HS Lateinische Literatur<br>u. Sprache II<br>VL o. UE Übersetzung<br>ausgewählter Texte|2<br>2|6<br>4|10|Referat; Hausarbeit<br>(mind. 12 Seiten)|100 %|
 |1.-2. o.<br>2.-3.|MLat 3<br>Mediale Aspekte<br>der Vormoderne I|S Paläographie und<br>Kodikologie I<br>Betreuter Kurs Paläo-<br>graphie online|2<br>2|6<br>4|10|Klausur (90 Min.)|100 %|
 |1.-2. o.<br>2.-3.|MLat 4<br>Mittelalterliche<br>Textualität|HS Textualität<br>VL Textualität|2<br>2|6<br>4|10|Referat; Hausarbeit<br>(mind. 12 Seiten)|100 %|
 
-## Masterarbeit 
+## <u>Masterarbeit</u> 
 
-|**Sem.**|||||**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
+|**Sem.**|**Module**|**LV**|**SWS**|**ECTS**|**Gesamt-**<br>**summe**<br>**ECTS**|**Art und Umfang der**<br>**Prüfung**|**Faktor**|
 |---|---|---|---|---|---|---|---|
-||**Module**|**LV**|**SWS**|**ECTS**||||
-|||||||||
 |4.|Masterarbeit|Masterarbeit||30|30|Masterarbeit|100%|
 
 4 

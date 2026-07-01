@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 04.10.2007 i.d.F. 05.11.2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/FachStuO_PrO_Japan.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:03:23+00:00
-page_count_chars: 6233
+scraped_at: 2026-07-01T10:22:44+00:00
+page_count_chars: 6350
 ---
 
 # PDF vom 04.10.2007 i.d.F. 05.11.2010
@@ -16,7 +16,7 @@ page_count_chars: 6233
 
 **Hinweis** : Für Studierende, die ihr Studium vor In-Kraft-Treten der letzten Änderungssatzung aufgenommen haben: Bitte beachten Sie auch die vorangegangenen Änderungssatzungen mit ihren Übergangsbestimmungen. 
 
-## **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
+# **Fachstudien- und Prüfungsordnung für das Fach Japanologie im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg Vom 4. Oktober 2007** 
 
 geändert durch Satzungen vom 
 
@@ -34,7 +34,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 (1) Das Fach Japanologie kann im Bachelorstudiengang entweder als erstes Fach mit einem Umfang von 90 ECTS-Punkten zuzüglich der Bachelorarbeit im Umfang von 10 ECTS-Punkten oder als zweites Fach mit einem Umfang von 70 ECTSPunkten studiert werden. 
 
-- (2)[1] Das Studium der Japanologie beinhaltet die Ausbildung folgender Kompetenzen: 
+- (2)<sup>1</sup> Das Studium der Japanologie beinhaltet die Ausbildung folgender Kompetenzen: 
 
 1. grundlegende Sprachkompetenz Japanisch (Verstehen, Sprechen, Lesen, Schreiben), 
 
@@ -46,7 +46,7 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 3 Fächerkombinationen** 
 
-(1)[1] Mit dem Fach Japanologie soll eines der im Folgenden genannten Fächer kombiniert werden: 
+(1)<sup>1</sup> Mit dem Fach Japanologie soll eines der im Folgenden genannten Fächer kombiniert werden: 
 
 1. Germanistik 
 
@@ -90,38 +90,29 @@ Diese Fachstudien- und Prüfungsordnung ergänzt die Allgemeine Studien- und Pr�
 
 ## **§ 4 Inhalt, Aufbau und Gliederung des Studiums** 
 
-(1)[1] Im Studium Japanologie als erstes Fach sind folgende Fachmodule erfolgreich abzulegen: Module 1 bis einschließlich 9, 102 sowie das Modul Bachelorarbeit.[2] Zum Studienaufbau und den Prüfungen vgl. die folgende Tabelle: 
+(1)<sup>1</sup> Im Studium Japanologie als erstes Fach sind folgende Fachmodule erfolgreich abzulegen: Module 1 bis einschließlich 9, 102 sowie das Modul Bachelorarbeit.<sup>2</sup> Zum <u>Studienaufbau und den Prüfungen vgl. die folgende Tabelle:</u> 
 
-|**Sem.**~~**1**~~|**Module**|**LV**|**SWS**|**ECTS**|**Leistungsnachweis**|
+|**Sem.**<sup>**~~1~~**</sup>|**Module**|**LV**|**SWS**|<br>**ECTS**|<br>**Leistungsnachweis**|
 |---|---|---|---|---|---|
-|1 / 2|**Modul 1: "Sprache I"**(Grammatik, Strukturübungen)|WiSe|3|10|3 K<br>(je 135 Min.)|
-|||SoSe|3|||
-|1 / 2|**Modul 3: "Schreiben+Lesen I"**<br>(Schriftzeichen, Lesetexte, Übersetzung)|WiSe|2|10|5-7 Tests<br>(je 15-30 Min.)|
-|||SoSe|<br>2|||
-|1 / 2|**Modul 8: "Sprachaktivierung I"**|WiSe|<br>2|5|3 MP|
-|||SoSe|<br>2|||
-|3 / 4|**Modul 2: "Sprache II"**(Grammatik, Strukturübungen)|WiSe|3|10|3 K<br>(je 135 Min.)|
-|||SoSe|3|||
+|1 / 2|**Modul 1: "Sprache I"**(Grammatik, Strukturübungen)|WiSe<br>SoSe|3<br>3|10|3 K<br>(je 135 Min.)|
+|1 / 2|**Modul 3: "Schreiben+Lesen I"**<br>(Schriftzeichen, Lesetexte, Übersetzung)|WiSe<br>SoSe|2<br> <br>2|10|5-7 Tests<br>(je 15-30 Min.)|
+|1 / 2|**Modul 8: "Sprachaktivierung I"**|WiSe<br>SoSe|<br>2<br> <br>2|5|3 MP|
+|3 / 4|**Modul 2: "Sprache II"**(Grammatik, Strukturübungen)|WiSe<br>SoSe|3<br>3|10|3 K<br>(je 135 Min.)|
 |3 / 4|**Modul 4: "Schreiben+Lesen II"**<br>(Schriftzeichen, Lesetexte, Übersetzung)|WiSe|2|10|5-7 Tests<br>(je 15-30 Min.)|
 
 1 Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
 
-|**Sem.**~~**1**~~|**Module**|**LV**|**SWS**|**ECTS**|**Leistungsnachweis**|
+|**Sem.**<sup>**~~1~~**</sup>|**Module**|**LV**|**SWS**|**ECTS**|<br>**Leistungsnachweis**|
 |---|---|---|---|---|---|
 |||SoSe|2|||
-|3 / 4|**Modul 9: "Sprachaktivierung II"**|WiSe|2|5|3 MP|
-|||SoSe|2|||
-|3 / 4|**Schlüsselqualifikation: Modul 101 "Tandem-Kurs A"**|WiSe|1|10|Präsentationen|
-|||SoSe|2|||
-|1 - 6|**Modul 5: "Kultur, Geschichte und Gesellschaft A"**<br>alternierend mit Modul 6<br>(Module 5 und 6 schließen Einführungsveranstaltungen<br>mit ein)|WiSe|4|10|SL, MP, K (90 Min.),<br>R und HA|
-|||SoSe|2|||
+|3 / 4|**Modul 9: "Sprachaktivierung II"**|WiSe<br>SoSe|2<br>2|5|3 MP|
+|3 / 4|**Schlüsselqualifikation: Modul 101 "Tandem-Kurs A"**|WiSe<br>SoSe|1<br>2|10|Präsentationen|
+|1 - 6|**Modul 5: "Kultur, Geschichte und Gesellschaft A"**<br>alternierend mit Modul 6<br>(Module 5 und 6 schließen Einführungsveranstaltungen<br>mit ein)|WiSe<br>SoSe|4<br>2|10|SL, MP, K (90 Min.),<br>R und HA|
 |1 - 6|**Modul 6: "Kultur, Geschichte und Gesellschaft B"**<br>alternierend mit Modul 5<br>(Module 5 und 6 schließen Einführungsveranstaltungen<br>mit ein)|WiSe|4|10|SL, MP, K (90Min.),<br>R und HA|
 |||SoSe|2|||
-|**Beurlaubung (Japanaufenthalt)* dringend empfohlen**||||||
-|5 / 6|**Modul 7: "Fachlektüre+Fachseminar"**<br>(im Prinzip Präsentation der in Japan erarbeiteten Ma-<br>terialien)|WiSe|4|10|K (90 Min.),<br>R und HA|
-|||SoSe|2|||
-|5 / 6|**Modul 102: "Tandem-Kurs B"**<br>(Themenbezogenes Arbeiten im deutsch-japanischen<br>Austausch)|WiSe|1|10|Präsentationen|
-|||SoSe|2|||
+|**Beurla**<br>5 / 6|**ubung (Japanaufenthalt)* dringend empfohlen**<br>**Modul 7: "Fachlektüre+Fachseminar"**|||||
+||<br>(im Prinzip Präsentation der in Japan erarbeiteten Ma-<br>terialien)|WiSe<br>SoSe|4<br>2|10|K (90 Min.),<br>R und HA|
+|5 / 6|**Modul 102: "Tandem-Kurs B"**<br>(Themenbezogenes Arbeiten im deutsch-japanischen<br>Austausch)|WiSe<br>SoSe|1<br>2|10|Präsentationen|
 |6<br>|**Bachelorarbeit**<br>|||10<br>|BA-Arbeit<br>|
 
 > ~~1~~ Bei der angegebenen Fachsemesterzahl handelt es sich lediglich um eine Empfehlung. 
@@ -130,7 +121,7 @@ K = Klausur; MP = mündliche Prüfung; HA = Hausarbeit; R = Referat; SL = Studie
 
 (2) Im Studiengang Japanologie als zweites Fach sind folgende Fachmodule erfolgreich abzulegen: Module 1 bis einschließlich 4, Modul 5 oder 6 sowie 7 bis einschließlich 9. 
 
-(3)[1] Für das Fach Japanologie als Erstfach sind Schlüsselqualifikationen im Leistungsumfang von 10 ECTS-Punkten zu erbringen.[2] Dabei wird zur Abrundung der sprachlichen Kompetenz empfohlen, das Schlüsselqualifikationsmodul 101: "Tandem-Kurs A" abzulegen.[3] Falls Japanologie als zweites Fach gewählt wurde und es die Fachprüfungsordnung des Erstfaches zulässt, wird auch das Modul 102: „Tandem-Kurs B“ empfohlen. 
+(3)<sup>1</sup> Für das Fach Japanologie als Erstfach sind Schlüsselqualifikationen im Leistungsumfang von 10 ECTS-Punkten zu erbringen.<sup>2</sup> Dabei wird zur Abrundung der sprachlichen Kompetenz empfohlen, das Schlüsselqualifikationsmodul 101: "Tandem-Kurs A" abzulegen.<sup>3</sup> Falls Japanologie als zweites Fach gewählt wurde und es die Fachprüfungsordnung des Erstfaches zulässt, wird auch das Modul 102: „Tandem-Kurs B“ empfohlen. 
 
 ## **§ 5 Grundlagen- und Orientierungsprüfung** 
 

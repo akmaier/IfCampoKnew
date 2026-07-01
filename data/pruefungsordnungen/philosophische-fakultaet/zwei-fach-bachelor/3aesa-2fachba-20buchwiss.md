@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "3. März 2010"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA%20Buchwiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T08:54:28+00:00
-page_count_chars: 2555
+scraped_at: 2026-07-01T10:16:28+00:00
+page_count_chars: 2587
 ---
 
 # 3. März 2010
@@ -12,13 +12,13 @@ page_count_chars: 2555
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AeSa-2FachBA%20Buchwiss.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## Vom 3. März 2010 
+# Vom 3. März 2010 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im ZweiFach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 1. September 2009, wird wie folgt geändert: 
 
@@ -34,13 +34,13 @@ Die Fachstudien- und Prüfungsordnung für das Fach Buchwissenschaft im ZweiFach
 
 2. In § 4 Abs. 5 werden folgende neue Sätze 1 und 2 eingefügt: 
 
-„[1] Bei der Berechnung der Modulnote für die Module 3a, 3b, 6a und 6b geht jeweils die Note der Hausarbeit mit 70%, die Note der Klausur mit 30% in die Modulnote ein.[2] Bei der Berechnung der Modulnote für das Modul 4 geht die Note der Klausur mit 75%, die Note der Vortragsreihe mit 25% in die Modulnote ein.“ 
+„<sup>1</sup> Bei der Berechnung der Modulnote für die Module 3a, 3b, 6a und 6b geht jeweils die Note der Hausarbeit mit 70%, die Note der Klausur mit 30% in die Modulnote ein.<sup>2</sup> Bei der Berechnung der Modulnote für das Modul 4 geht die Note der Klausur mit 75%, die Note der Vortragsreihe mit 25% in die Modulnote ein.“ 
 
 Der bisherige Satz wird zu Satz 3. 
 
-## **§ 2** 
+# **§ 2** 
 
-(1)[1] Die Änderungen in der laufenden Nr. 1 treten am 1. Oktober 2010 in Kraft.[2] Sie gelten für alle Studierenden, die das Studium im Zwei-Fach-Bachelorstudiengang Buchwissenschaft im Wintersemester 2010/2011 aufnehmen. 
+(1)<sup>1</sup> Die Änderungen in der laufenden Nr. 1 treten am 1. Oktober 2010 in Kraft.<sup>2</sup> Sie gelten für alle Studierenden, die das Studium im Zwei-Fach-Bachelorstudiengang Buchwissenschaft im Wintersemester 2010/2011 aufnehmen. 
 
 (2) Die Änderungen unter der laufenden Nr. 2 treten am 1. April 2010 in Kraft. 
 

@@ -9,7 +9,7 @@ fakultät: "Medizinische Fakultät"
 studienbeginn: "Wintersemester"
 größe: "1-50"
 besondere_studienformen: "1-Fach-Bachelor, Verbundstudium/Duales Studium"
-scraped_at: 2026-05-01T06:46:10+00:00
+scraped_at: 2026-07-01T08:22:53+00:00
 ---
 
 # Hebammenwissenschaft (B.Sc.)
@@ -33,7 +33,7 @@ scraped_at: 2026-05-01T06:46:10+00:00
 
 Schwangerschaft, Geburt und Wochenbett gehören zu den intensivsten Lebensphasen von Frauen. In dieser Zeit stehen ihnen und ihren Familien vom Anfang der Schwangerschaft bis zum Ende der Stillzeit Hebammen (m/w/d) zur Seite. Sie begleiten als Spezialisten (m/w/d) komplett und umfassend medizinisch und psychosozial. Als verlässliche Bündnispartner (m/w/d) der Frau unterstützen sie, dass die Frau Schwangerschaft und Geburt gestärkt erlebt und sie fördern die Einheit von Mutter und Kind. Untersuchungen zeigen, dass eine gute Hebammenbetreuung zu weniger Frühgeburten, weniger medizinischen Eingriffen während der Geburt, zu kürzeren Krankenhausaufenthalten und zu längerem und häufigerem Stillen führen kann. Hebammen unterstützen den natürlichen Verlauf von Schwangerschaft und Geburt. Ein Arzt (m/w/d) wird dann hinzugezogen, wenn etwas nicht mehr regelgerecht verläuft. Bis zu diesem Punkt ist die Hebamme (m/w/d) dazu ausgebildet, Frauen vollumfänglich medizinisch zu betreuen.
 
-### Bachelor of Science Hebammenwissenschaft
+### Fachanteile des Studiengangs Hebammenwissenschaften (B.Sc.)
 
 * Hebammentätigkeit (70%)
 * Medizin und Naturwissenschaft (18%)

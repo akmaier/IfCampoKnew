@@ -2,7 +2,7 @@
 kind: "fau-pruefungsordnung-landing"
 title: "Studien- und Prüfungsordnungen"
 source_url: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/
-scraped_at: 2026-05-01T06:51:47+00:00
+scraped_at: 2026-07-01T08:29:17+00:00
 ---
 
 # Studien- und Prüfungsordnungen
@@ -64,7 +64,7 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 * [Department Biologie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/biologie/)
 * [Department Chemie und Pharmazie](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/)
 * [Department Geographie und Geowissenschaften](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/)
-* [Department Mathematik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/)
+* [Lehreinheit Mathematik und Data Science](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/mathematik/)
 * [Department Physik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/physik/)
 * [Modulstudien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/)
 * [Spezielle weiterbildende Studien](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
@@ -90,7 +90,7 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 
 * [Erste und zweite Staatsprüfung](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/#staatspruefung)
 * [Fachstudien- und Prüfungsordnungen der Fächer (FPO)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/lehramtsfaecher/#fachstudien-und-pruefungsordnungen-der-faecher-fpo)
-* [LAPO (Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/#fachstudien-und-pruefungsordnungen-der-faecher-fpo)
+* [LAPO (Modulprüfungen im Rahmen der Ersten Lehramtsprüfung sowie den lehramtsbezogenen Masterstudiengang Gymnasium)](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/#lapo-fuer-modulpruefungen-im-rahmen-der-ersten-lehramtspruefung-sowie-den-lehramtsbezogenen-masterstudiengang-gymnasium)
 * [Bachelor- und Masterstudiengänge Berufspädagogik](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/)
 * [Zusatzfächer](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/lehramt/berufspaedagogik-und-zusatzstudien/#zusatz)
 
@@ -120,7 +120,7 @@ Hier finden Sie – nach Fakultäten gegliedert – die Studien- und Prüfungsor
 - [Biologie](naturwissenschaftliche-fakultaet/biologie/INDEX.md) — `naturwissenschaftliche-fakultaet/biologie`
 - [Chemie und Pharmazie](naturwissenschaftliche-fakultaet/chemie-und-pharmazie/INDEX.md) — `naturwissenschaftliche-fakultaet/chemie-und-pharmazie`
 - [Geographie und Geowissenschaften](naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften/INDEX.md) — `naturwissenschaftliche-fakultaet/geographie-und-geowissenschaften`
-- [Mathematik](naturwissenschaftliche-fakultaet/mathematik/INDEX.md) — `naturwissenschaftliche-fakultaet/mathematik`
+- [Mathematik und Data Science](naturwissenschaftliche-fakultaet/mathematik/INDEX.md) — `naturwissenschaftliche-fakultaet/mathematik`
 - [Modul- und Zusatzstudien](naturwissenschaftliche-fakultaet/modul-und-zusatzstudien/INDEX.md) — `naturwissenschaftliche-fakultaet/modul-und-zusatzstudien`
 - [Physik](naturwissenschaftliche-fakultaet/physik/INDEX.md) — `naturwissenschaftliche-fakultaet/physik`
 - [Philosophische Fakultät und Fachbereich Theologie](philosophische-fakultaet/INDEX.md) — `philosophische-fakultaet`

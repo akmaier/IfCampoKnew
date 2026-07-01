@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "29. Juli 2016"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_2FachBA-OeffentlichesRecht.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:08:28+00:00
-page_count_chars: 3023
+scraped_at: 2026-07-01T10:26:21+00:00
+page_count_chars: 3035
 ---
 
 # 29. Juli 2016
@@ -12,13 +12,13 @@ page_count_chars: 3023
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/3AES_2FachBA-OeffentlichesRecht.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/>
 
-## **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zweitfach im Zwei-Fach-Bachelorstudiengang mit Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
+# **Dritte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zweitfach im Zwei-Fach-Bachelorstudiengang mit Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg** 
 
-## **Vom 29. Juli 2016** 
+# **Vom 29. Juli 2016** 
 
 Auf Grund von Art. 13 Abs. 1 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Öffentliches Recht als Zweitfach im Zwei-Fach-Bachelorstudiengang mit Politikwissenschaft an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 7. November 2008, geändert durch Satzung vom 17. Februar 2014, wird wie folgt geändert: 
 
@@ -38,7 +38,7 @@ bb) Sätze 2 bis 4 werden gestrichen.
 
 - b) Nach Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Im Grundlagenmodul findet die Prüfung abhängig vom konkreten Charakter der Lehrveranstaltung als 120-minütige Abschlussklausur oder als mündliche Prüfung im Umfang von 15 Minuten pro Studierender bzw. Studierendem statt. 2Die Prüfungsform wird in der ersten Vorlesungswoche durch die Veranstaltungsleiterin bzw. den Veranstaltungsleiter festgelegt und ortsüblich bekannt gemacht.“ 
+„(3)<sup>1</sup> Im Grundlagenmodul findet die Prüfung abhängig vom konkreten Charakter der Lehrveranstaltung als 120-minütige Abschlussklausur oder als mündliche Prüfung im Umfang von 15 Minuten pro Studierender bzw. Studierendem statt. 2Die Prüfungsform wird in der ersten Vorlesungswoche durch die Veranstaltungsleiterin bzw. den Veranstaltungsleiter festgelegt und ortsüblich bekannt gemacht.“ 
 
 4. In § 6 Ziffer 2 werden nach dem Wort „Staatsorganisationsrecht“ die Worte „oder das Modul Grundrechte“ eingefügt. 
 
@@ -52,7 +52,7 @@ bb) In Unterspalte 6 (6.) Zeile 1 wird die Zahl „5“ eingefügt.
 
 - b) Zeile 11 (Summe SWS und ECTS:) erhält folgende neue Fassung: 
 
-## „ 
+# <u>„</u> 
 
 **151010 10 Summe SWS und ECTS: 33 6 70 10 10 20 15 ** **** 
 

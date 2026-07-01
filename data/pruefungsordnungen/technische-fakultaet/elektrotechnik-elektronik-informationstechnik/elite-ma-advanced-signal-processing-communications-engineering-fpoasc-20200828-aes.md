@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20200828 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Tech/ASC/Aenderungssatzungen/Elite-MA_Advanced_Signal_Processing_Communications_Engineering_FPOASC_20200828_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:04:35+00:00
-page_count_chars: 8475
+scraped_at: 2026-07-01T11:26:21+00:00
+page_count_chars: 8529
 ---
 
 # Elite-MA Advanced Signal Processing Communications Engineering FPOASC 20200828 ÄS.pdf
@@ -12,13 +12,13 @@ page_count_chars: 8475
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Tech/ASC/Aenderungssatzungen/Elite-MA_Advanced_Signal_Processing_Communications_Engineering_FPOASC_20200828_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
+# **Zweite Satzung zur Änderung der Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** 
 
-## **Vom 28. August 2020** 
+# **Vom 28. August 2020** 
 
 Aufgrund von Art. 13 Abs. 1 Satz 2, Art. 43 Abs. 5, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Processing & Communications Engineering (ASC)“ – FPOASC – an der Technischen Fakultät der FAU vom 29. Februar 2016, zuletzt geändert durch Satzung vom 22. Februar 2019, wird wie folgt geändert: 
 
@@ -40,9 +40,9 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Pro
 
 4. In § 39 Abs. 2 Satz 2 wird im Klammerzusatz die Abkürzung „SOS“ durch die Abkürzung „BOS“ ersetzt. 
 
-5. § 40 wird wie folgt geändert: 
+# 5. § 40 wird wie folgt geändert: 
 
-   - a) In Abs. 1 Satz 1 wird nach dem Wort „aus“ die Zahl „14“ durch die Zahl „13“ ersetzt. 
+- a) In Abs. 1 Satz 1 wird nach dem Wort „aus“ die Zahl „14“ durch die Zahl „13“ ersetzt. 
 
 1 
 
@@ -60,7 +60,7 @@ Die Fachprüfungsordnung für den Elite-Masterstudiengang „Advanced Signal Pro
 
    - c) Nach den Worten „Research Projects“ wird das Wort im Klammerumfang „(Major)“ eingefügt 
 
-## 7. § 43 wird wie folgt geändert: 
+# 7. § 43 wird wie folgt geändert: 
 
 - a) In Abs. 1 Satz 1 werden die Worte „Die beiden ‚Research Projects’ (M8, M9)“ durch die Worte „Das Research Project (Major) (M8) und Research Project (Minor) gemäß **Anlage 1b,** falls gewählt“ ersetzt. 
 
@@ -78,19 +78,19 @@ b) Abs. 2 Satz 2 wird wie folgt geändert:
 
 9. Nach § 47 Abs. 2 wird folgender neuer Abs. 3 angefügt: 
 
-„(3)[1] Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.[2] Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 
+„(3)<sup>1</sup> Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft.<sup>2</sup> Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 
 
 2 
 
-2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2023 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
+2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2023 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab.“ 
 
 3 
 
-## 10. Die **Anlage 1a** wird wie folgt geändert: 
+# 10. Die **Anlage 1a** wird wie folgt geändert: 
 
 - a) In Zeile 3 (Pflichtmodule) Spalte 3 (ECTS-Punkte) wird die Zahl „60“ durch die Zahl „50“ ersetzt. 
 
-- b) In Zeile 8 (Modul Nr. 5) Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) wird nach den Buchstaben und Zahlen „PL: K90 min“ die hochgestellte Zahl „[1] “ gestrichen. 
+- b) In Zeile 8 (Modul Nr. 5) Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) wird nach den Buchstaben und Zahlen „PL: K90 min“ die hochgestellte Zahl „<sup>1</sup> “ gestrichen. 
 
 - c) Zeile 12 (Modul Nr. 9) wird gestrichen. 
 
@@ -106,7 +106,7 @@ b) Abs. 2 Satz 2 wird wie folgt geändert:
 
    - aa) In Spalte 1 (Modulgruppe) werden in Unterspalte 1 (Nr.) die Zahl „13“ durch die Zahl „12“ und in Unterspalte 3 (ECTS-Punkte) die Zahl „5“ durch die Zahl „15“ ersetzt. 
 
-## bb) In Spalte 3 (Semesteraufteilung der ECTS) Unterspalte 3 (3) wird die Zahl „5“ durch die Zahl „15“ ersetzt. 
+   - bb) In Spalte 3 (Semesteraufteilung der ECTS) Unterspalte 3 (3) wird die Zahl „5“ durch die Zahl „15“ ersetzt. 
 
 - i) In der neuen Zeile 19 (bisheriges Modul Nr. 14) Spalte 1 (Modulgruppe) Unterspalte 1 (Nr.) wird die Zahl „14“ durch die Zahl „13“ ersetzt. 
 
@@ -114,24 +114,22 @@ b) Abs. 2 Satz 2 wird wie folgt geändert:
 
 4 
 
-## 11. Die **Anlage 1b** wird wie folgt geändert: 
+# 11. Die **Anlage 1b** wird wie folgt geändert: 
 
-- a) In Zeile 3 (Image and Video Compression) werden in Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) die Buchstaben und Zahlen „PL: K90 min[2] “ durch die Buchstaben „PL (vgl. FPO CME)“ ersetzt. 
+- a) In Zeile 3 (Image and Video Compression) werden in Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) die Buchstaben und Zahlen „PL: K90 min<sup>2</sup> “ durch die Buchstaben „PL (vgl. FPO CME)“ ersetzt. 
 
-- b) In Zeile 5 (Speech and Audio Signal Processing) werden in Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) die Buchstaben und Zahlen „PL: K90 min[2] “ durch die Buchstaben „PL (vgl. FPO CME)“ ersetzt. 
+- b) In Zeile 5 (Speech and Audio Signal Processing) werden in Spalte 4 (Art und Umfang der Studien- und Prüfungsleistung) die Buchstaben und Zahlen „PL: K90 min<sup>2</sup> “ durch die Buchstaben „PL (vgl. FPO CME)“ ersetzt. 
 
 - c) In der Tabelle wird unterhalb von Zeile 5 (Speech and Audio Signal Processing) folgende neue Zeile 6 angefügt: 
 
    - „ 
 
-|„|||||
-|---|---|---|---|---|
-|„|Research Project (Minor)|10||PL (M30 min) + PL (Seminarleistung gem. § 6 Abs. 3**ABMPO/TechFak**)|
-||||||
+|„<br>Research Project (Minor)|10|PL (M30 min) + PL (Seminarleistung gem. § 6 Abs. 3**ABMPO/TechFak**)|
+|---|---|---|
 
 - d) In der Fußnote 2 unterhalb der Tabelle werden die Worte „In der Regel besteht die Prüfungsleistung aus einer Klausur mit 90 Minuten Dauer.“ durch die Worte „Mögliche Prüfungsleistungen pro Modul sind: Klausur (60 Min., 90 Min. oder 120 Min.), mündliche Prüfung (30 Min.) oder PL (M30 min) + PL (Seminarleistung gem. § 6 Abs. 3 **ABMPO/TechFak** ).“ ersetzt. 
 
-## 12. Die **Anlage 2** wird wie folgt geändert: 
+# 12. Die **Anlage 2** wird wie folgt geändert: 
 
 - a) In Abs. 2 Satz 1 werden nach den Worten im Klammerumfang „(für ausländische Bewerberinnen und Bewerber)“ das Wort „und“ durch das Wort „bzw.“ ersetzt und nach dem Wort „Geschäftsstelle“ die Worte „des Studiengangs“ eingefügt. 
 
@@ -145,7 +143,7 @@ b) Abs. 2 Satz 2 wird wie folgt geändert:
 
 **§ 2** 
 
-1Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.[3] Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2023 angeboten.[4] Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
+1Die zweite Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/2021 aufnehmen werden.<sup>3</sup> Prüfungen nach den bisher gültigen Fassungen der Studien- und Prüfungsordnung werden letztmals im Sommersemester 2023 angeboten.<sup>4</sup> Ab dem in Satz 3 genannten Zeitpunkt legen die vom Auslaufen der Prüfungsordnung betroffenen Studierenden ihre Prüfungen nach der zu diesem Zeitpunkt jeweils gültigen Fassung der Studien- und Prüfungsordnung ab. 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Universität Erlangen-Nürnberg vom 29. Juli 2020 und der Genehmigungsfeststellung des Vizepräsidenten Prof. Dr. Günter Leugering vom 28. August 2020. 
 

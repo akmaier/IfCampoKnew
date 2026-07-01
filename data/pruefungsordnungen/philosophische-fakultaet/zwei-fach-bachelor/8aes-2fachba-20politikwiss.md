@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "9. März 2011"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/PHIL1/Aenderungssatzungen/8AES-2FachBA%20Politikwiss.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/zwei-fach-bachelor/
-scraped_at: 2026-05-01T09:11:28+00:00
-page_count_chars: 3130
+scraped_at: 2026-07-01T10:28:44+00:00
+page_count_chars: 3091
 ---
 
 # 9. März 2011
@@ -14,11 +14,11 @@ page_count_chars: 3130
 
 **Achte Satzung zur Änderung der Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-Fach-Bachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-AlexanderUniversität Erlangen-Nürnberg** 
 
-## Vom 9. März 2011 
+# Vom 9. März 2011 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 58 Abs. 1 und Art. 61 Abs. 2 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die Universität Erlangen-Nürnberg folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für das Fach Politikwissenschaft im Zwei-FachBachelorstudiengang an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg vom 5. Oktober 2007, zuletzt geändert durch Satzung vom 5. November 2010, wird wie folgt geändert: 
 
@@ -52,17 +52,13 @@ In § 4 wird nach Abs. 1 folgender neuer Abs. 2 eingefügt:
 |Hauptseminar I||2|8|||||||
 |Haupseminar II||2|8|||||||
 
-Mentorat (Studienarbeit) **Bachelorarbeit** Bachelorarbeit 
-
-4 10 
-
-**==> picture [41 x 45] intentionally omitted <==**
+Mentorat <u>(Studienarbeit)</u> 4 **<u>Bachelorarbeit</u>** Bachelorarbeit 10 
 
 Die GOP umfasst die Modulprüfung im Basismodul Pol 1 und einem weiteren Basismodul. “ 
 
 Der bisherige Abs. 2 wird zu Abs. 3. 
 
-**§ 2** 
+# **§ 2** 
 
 Diese Änderungssatzung tritt am Tage nach ihrer Bekanntmachung in Kraft. 
 

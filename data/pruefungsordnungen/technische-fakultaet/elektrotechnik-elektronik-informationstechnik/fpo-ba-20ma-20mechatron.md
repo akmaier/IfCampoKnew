@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "PDF vom 25.09.2007"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Mechatron.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/
-scraped_at: 2026-05-01T10:13:20+00:00
-page_count_chars: 16336
+scraped_at: 2026-07-01T11:33:23+00:00
+page_count_chars: 16483
 ---
 
 # PDF vom 25.09.2007
@@ -12,7 +12,7 @@ page_count_chars: 16336
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Urfassung-Tech%20Fak/FPO-BA%20MA%20Mechatron.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/elektrotechnik-elektronik-informationstechnik/>
 
-## **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOMECH -** 
+# **Fachprüfungsordnung für den Bachelor- und Masterstudiengang Mechatronik an der Technischen Fakultät der Friedrich-AlexanderUniversität Erlangen-Nürnberg - FPOMECH -** 
 
 ## Vom 25. September 2007 
 
@@ -36,7 +36,7 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 36 Masterstudiengang, Regelstudienzeit** 
 
-- (1) 1Das Masterstudium Mechatronik baut konsekutiv auf den Bachelorstudiengang Mechatronik auf.[2] Es setzt sich aus Modulen verteilt auf drei Semester, einer berufspraktischen Tätigkeit von acht Wochen und sechs Monaten für die Anfertigung der Masterarbeit zusammen. 
+- (1) 1Das Masterstudium Mechatronik baut konsekutiv auf den Bachelorstudiengang Mechatronik auf.<sup>2</sup> Es setzt sich aus Modulen verteilt auf drei Semester, einer berufspraktischen Tätigkeit von acht Wochen und sechs Monaten für die Anfertigung der Masterarbeit zusammen. 
 
 - (2) Die Regelstudienzeit beträgt vier Semester. 
 
@@ -50,9 +50,9 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 - (1) Das Bachelorstudium Mechatronik umfasst Pflicht-, Wahlpflicht- und Wahlmodule, sowie eine berufspraktische Tätigkeit und die Bachelorarbeit nach §35 Abs. 1. 
 
-- (2)[1] Die Verteilung der Pflichtmodule über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.[2] Der Umfang beträgt 145 ECTS-Punkte. 
+- (2)<sup>1</sup> Die Verteilung der Pflichtmodule über die Studiensemester, die Art und Dauer der Prüfungen sowie die Zahl der zu erwerbenden ECTS-Punkte sind der **Anlage 1** zu entnehmen.<sup>2</sup> Der Umfang beträgt 145 ECTS-Punkte. 
 
-- (3)[1] Aus dem Wahlpflichtmodulkatalog der Mechatronik, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird, sind zwei Module im Umfang von je 5 ECTS-Punkten zu belegen.[2] Weitere 7,5 ECTS-Punkte sind durch nichttechnische Wahlmodule aus dem Angebot der gesamten U- niversität zu erwerben.[3] Art und Dauer der Prüfungen in den Wahlpflicht- und Wahlmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte in Wahlmodulen werden von der Prüferin oder dem Prüfer vor Beginn der Veranstaltung bekannt gegeben.[ 4] Die erfolgreiche Teilnahme an einem Wahlmodul wird durch einen benoteten Schein nachgewiesen. 
+- (3)<sup>1</sup> Aus dem Wahlpflichtmodulkatalog der Mechatronik, der vom Prüfungsausschuss erstellt und durch Aushang bekannt gegeben wird, sind zwei Module im Umfang von je 5 ECTS-Punkten zu belegen.<sup>2</sup> Weitere 7,5 ECTS-Punkte sind durch nichttechnische Wahlmodule aus dem Angebot der gesamten U- niversität zu erwerben.<sup>3</sup> Art und Dauer der Prüfungen in den Wahlpflicht- und Wahlmodulen sowie die Zahl der zu erwerbenden ECTS-Punkte in Wahlmodulen werden von der Prüferin oder dem Prüfer vor Beginn der Veranstaltung bekannt gegeben.<sup>4</sup> Die erfolgreiche Teilnahme an einem Wahlmodul wird durch einen benoteten Schein nachgewiesen. 
 
 ## **§ 38 Grundlagen- und Orientierungsprüfung** 
 
@@ -74,41 +74,41 @@ Die Fachprüfungsordnung für den Bachelor- und den konsekutiven Masterstudienga
 
 ## **§ 40 Voraussetzung für die Ausgabe der Bachelorarbeit** 
 
-- (1)[1] Mit der Bachelorarbeit kann frühestens zu Beginn des sechsten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 130 ECTS-Punkte nachgewiesen werden. 
+- (1)<sup>1</sup> Mit der Bachelorarbeit kann frühestens zu Beginn des sechsten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Bachelorarbeit ist, dass mindestens 130 ECTS-Punkte nachgewiesen werden. 
 
 - (2) In besonders begründeten Fällen kann der Prüfungsausschuss abweichend von Absatz 1 eine vorgezogene Zulassung zur Bachelorarbeit gewähren. 
 
 ## **§ 41 Bachelorarbeit** 
 
-- (1)[1] Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Mechatronik zu erlernen.[ 2] Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Institute für Elektrotechnik, Elektronik und Informationstechnik, Maschinenbau und Informatik berechtigt.[3] Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in  300 Stunden abgeschlossen werden kann. 
+- (1)<sup>1</sup> Die Bachelorarbeit dient dazu, die selbständige Bearbeitung von Aufgabenstellungen der Mechatronik zu erlernen.<sup>2</sup> Zur Vergabe und Betreuung der Bachelorarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Institute für Elektrotechnik, Elektronik und Informationstechnik, Maschinenbau und Informatik berechtigt.<sup>3</sup> Die Bachelorarbeit soll in ihren Anforderungen so gestaltet sein, dass sie in  300 Stunden abgeschlossen werden kann. 
 
 - (2) Die Bachelorarbeit wird mit 10 ECTS-Punkten bewertet. 
 
-- (3)[1] In Zusammenhang mit der Bachelorarbeit ist ein Seminarvortrag abzuhalten, dessen Thema durch die betreuende Hochschullehrerin beziehungsweise den betreuenden Hochschullehrer ausgegeben wird.[2] Der Seminarvortrag wird mit einem benoteten Leistungsnachweis im Umfang von 1,5 ECTSPunkten bewertet. 
+- (3)<sup>1</sup> In Zusammenhang mit der Bachelorarbeit ist ein Seminarvortrag abzuhalten, dessen Thema durch die betreuende Hochschullehrerin beziehungsweise den betreuenden Hochschullehrer ausgegeben wird.<sup>2</sup> Der Seminarvortrag wird mit einem benoteten Leistungsnachweis im Umfang von 1,5 ECTSPunkten bewertet. 
 
 ## **§ 42 Bewertung der Leistungen des Bachelorstudiums** 
 
 - (1) Das Bachelorstudium ist bestanden, wenn alle Module gemäß **Anlage 1** bestanden und mindestens 180 ECTS-Punkte erworben worden sind. 
 
-- (2)[1] Die Gesamtnote des Bachelorstudiums wird nach § 18 Abs. 6 ermittelt.[2] Für die Wahlmodule wird eine Zwischennote gebildet, in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen. 3Die Zwischennote der Wahlmodule geht gewichtet mit 7,5 ECTS-Punkten in die Gesamtnote ein. 
+- (2)<sup>1</sup> Die Gesamtnote des Bachelorstudiums wird nach § 18 Abs. 6 ermittelt.<sup>2</sup> Für die Wahlmodule wird eine Zwischennote gebildet, in die jeweils die einzelnen Teilprüfungen mit dem Gewicht der zugeordneten ECTS-Punkte eingehen. 3Die Zwischennote der Wahlmodule geht gewichtet mit 7,5 ECTS-Punkten in die Gesamtnote ein. 
 
 ## **2. Masterprüfung** 
 
 ## **§ 43 Zulassung zum Masterstudium mit Auflagen** 
 
-1Werden die Qualifikationvoraussetzungen zum Masterstudium gemäß § 29 nicht ausreichend nachgewiesen und sind insbesondere die Abschlüsse gemäß § 29 Abs. 1 Satz 2 Nrn. 2 bis 4 APO der Bachelorprüfung nach dieser Prüfungsordnung nicht gleichwertig, so kann die Zulassungskommission Mechatronik verlangen, dass mit je einem Schein ausreichende Kenntnisse in bis zu drei von der Zulassungskommission im Einzelfall festzulegenden Modulen des Bachelorstudiums im Gesamtumfang von maximal 30 ECTS-Punkten nachgewiesen werden.[2] Je nach berufspraktischer Erfahrung des Bewerbers kann die Zulassungskommission über die im Masterstudiengang abzuleistenden acht Wochen hinaus den Nachweis von weiteren bis zu acht Wochen berufspraktischer Tätigkeit verlan- 
+1Werden die Qualifikationvoraussetzungen zum Masterstudium gemäß § 29 nicht ausreichend nachgewiesen und sind insbesondere die Abschlüsse gemäß § 29 Abs. 1 Satz 2 Nrn. 2 bis 4 APO der Bachelorprüfung nach dieser Prüfungsordnung nicht gleichwertig, so kann die Zulassungskommission Mechatronik verlangen, dass mit je einem Schein ausreichende Kenntnisse in bis zu drei von der Zulassungskommission im Einzelfall festzulegenden Modulen des Bachelorstudiums im Gesamtumfang von maximal 30 ECTS-Punkten nachgewiesen werden.<sup>2</sup> Je nach berufspraktischer Erfahrung des Bewerbers kann die Zulassungskommission über die im Masterstudiengang abzuleistenden acht Wochen hinaus den Nachweis von weiteren bis zu acht Wochen berufspraktischer Tätigkeit verlan- 
 
 3 
 
-gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des Studiums vorliegen. 
+gen.<sup>3</sup> Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des Studiums vorliegen. 
 
 ## **§ 44 Umfang und Gliederung des Masterstudiums** 
 
 - (1) Das Masterstudium beinhaltet drei Pflichtmodule im Umfang von je 5 ECTSPunkten sowie weitere Module nach Absätzen 2 bis 5 beziehungsweise **Anlage 2** . 
 
-- (2)[1] Zur fachspezifischen Profilbildung sind im Masterstudium zwei Vertiefungsrichtungen im Umfang von je mindestens 15 ECTS-Punkten zu belegen.[2] Die wählbaren Vertiefungsrichtungen sind in **Anlage 3** aufgeführt. 
+- (2)<sup>1</sup> Zur fachspezifischen Profilbildung sind im Masterstudium zwei Vertiefungsrichtungen im Umfang von je mindestens 15 ECTS-Punkten zu belegen.<sup>2</sup> Die wählbaren Vertiefungsrichtungen sind in **Anlage 3** aufgeführt. 
 
-- (3)[1] Es sind Leistungsnachweise in je einem Laborpraktikum (2,5 ECTS-Punkte) aus den Angeboten der Institute für Maschinenbau sowie Elektrotechnik, E- lektronik und Informationstechnik zu erbringen.[2] Zudem sind benotete Leistungsnachweise in je einem Hauptseminar (2,5 ECTS-Punkte) aus den Angeboten der Institute für Maschinenbau und Elektrotechnik, Elektronik und Informationstechnik zu erwerben. 
+- (3)<sup>1</sup> Es sind Leistungsnachweise in je einem Laborpraktikum (2,5 ECTS-Punkte) aus den Angeboten der Institute für Maschinenbau sowie Elektrotechnik, E- lektronik und Informationstechnik zu erbringen.<sup>2</sup> Zudem sind benotete Leistungsnachweise in je einem Hauptseminar (2,5 ECTS-Punkte) aus den Angeboten der Institute für Maschinenbau und Elektrotechnik, Elektronik und Informationstechnik zu erwerben. 
 
 - (4) Weiterhin sind 10 ECTS-Punkte aus dem Wahlmodulangebot der Technischen Fakultät (technische Wahlmodule) sowie 10 ECTS-Punkte aus dem Angebot der gesamten Universität zu erwerben (nichttechnische Wahlmodule). 
 
@@ -120,11 +120,11 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 
 - (2) Die Prüfungsart und -dauer der Modulprüfungen in den Vertiefungsrichtungen werden von den Dozentinnen und Dozenten zu Beginn der Veranstaltungen bekannt gegeben. 
 
-- (3)[3] Die erfolgreiche Teilnahme an einem technischen oder nichttechnischen Wahlmodul wird durch einen benoteten Leistungsnachweis belegt. 
+- (3)<sup>3</sup> Die erfolgreiche Teilnahme an einem technischen oder nichttechnischen Wahlmodul wird durch einen benoteten Leistungsnachweis belegt. 
 
 ## **§ 46 Voraussetzung für die Ausgabe der Masterarbeit** 
 
-- (1)[1] Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.[2] Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Studien- und Prüfungsleistungen gemäß § 44 erfolgreich abgelegt sind. 
+- (1)<sup>1</sup> Mit der Masterarbeit kann frühestens zu Beginn des vierten Semesters begonnen werden.<sup>2</sup> Voraussetzung für die Zulassung zur Masterarbeit ist, dass die Studien- und Prüfungsleistungen gemäß § 44 erfolgreich abgelegt sind. 
 
 - (2) Abweichend von Absatz 1 Nr. 1 ist eine vorzeitige Zulassung möglich, wenn erfolgreich abgelegte Module und erbrachte Studienleistungen im Umfang von mindestens 80 ECTS-Punkten aus dem Masterstudium nachgewiesen werden. 
 
@@ -134,9 +134,9 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 
 ## **§ 47 Masterarbeit** 
 
-- (1)[1] Die Masterarbeit dient dazu, die selbständige Bearbeitung wissenschaftlicher Aufgabenstellungen der Mechatronik nachzuweisen.[2] Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann.[3] Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich. 
+- (1)<sup>1</sup> Die Masterarbeit dient dazu, die selbständige Bearbeitung wissenschaftlicher Aufgabenstellungen der Mechatronik nachzuweisen.<sup>2</sup> Sie ist in ihren Anforderungen so zu stellen, dass sie innerhalb von sechs Monaten abgeschlossen werden kann.<sup>3</sup> Eine Verlängerung um zwei Monate ist nur in besonderen Ausnahmefällen möglich. 
 
-- (2)[1] Die Masterarbeit soll ein wissenschaftliches Thema aus einer oder beiden Vertiefungsrichtungen behandeln.[2] Zur Vergabe und Betreuung der Masterarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Institute für Elektrotechnik, Elektronik und Informationstechnik, Maschinenbau und Informatik berechtigt. 
+- (2)<sup>1</sup> Die Masterarbeit soll ein wissenschaftliches Thema aus einer oder beiden Vertiefungsrichtungen behandeln.<sup>2</sup> Zur Vergabe und Betreuung der Masterarbeit sind alle am Studiengang Mechatronik beteiligten hauptberuflich tätigen Hochschullehrerinnen und Hochschullehrer der Institute für Elektrotechnik, Elektronik und Informationstechnik, Maschinenbau und Informatik berechtigt. 
 
 - (3) Die Masterarbeit wird mit 30 ECTS-Punkten bewertet. 
 
@@ -144,7 +144,7 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 
 - (1) Das Masterstudium ist bestanden, wenn alle Module gemäß § 44 sowie die Masterarbeit bestanden und damit mindestens 120 ECTS-Punkte erworben worden sind. 
 
-- (2)[1] Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 3** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTSPunkte ein.[2] Für den Fall, dass die Summe der einer Vertiefungsrichtung zugeordneten Module 15 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTS-Gewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 15 ECTS-Punkten auf die Gesamtnote angerechnet. 3Gleiches gilt für den Bereich der technischen und nichttechnischen Wahlmodule mit einem Gewicht von je 10 ECTS-Punkten bei der Ermittlung der Gesamtnote. 
+- (2)<sup>1</sup> Bei der Bildung der Gesamtnote gehen alle Module nach **Anlage 3** einschließlich der Masterarbeit mit dem Gewicht der zugeordneten ECTSPunkte ein.<sup>2</sup> Für den Fall, dass die Summe der einer Vertiefungsrichtung zugeordneten Module 15 ECTS-Punkte überschreitet, wird eine Zwischennote entsprechend der ECTS-Gewichtung der Einzelmodule gebildet und diese mit einem Gewicht von 15 ECTS-Punkten auf die Gesamtnote angerechnet. 3Gleiches gilt für den Bereich der technischen und nichttechnischen Wahlmodule mit einem Gewicht von je 10 ECTS-Punkten bei der Ermittlung der Gesamtnote. 
 
 ## **III. Teil: Schlussbestimmungen** 
 
@@ -156,9 +156,10 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 
 **Anlage 1:** Studienplan des Bachelorstudiums Mechatronik an der FriedrichAlexander-Universität Erlangen-Nürnberg 
 
-|Moduldaten|Moduldaten|Umfang<br>in SWS|Umfang<br>in SWS|Umfang<br>in SWS|Verteilung der ECTS-Punkte auf<br>die Semester|Verteilung der ECTS-Punkte auf<br>die Semester|Verteilung der ECTS-Punkte auf<br>die Semester|Verteilung der ECTS-Punkte auf<br>die Semester|Verteilung der ECTS-Punkte auf<br>die Semester|Verteilung der ECTS-Punkte auf<br>die Semester|Prü-<br>fung1)|
+||Moduldaten|<br>i|Umfan<br>n SW|g<br>S|Vert|eilung<br>d|der E<br>ie Se|CTS-<br>meste|Punkt<br>r|e auf|ü-<br>g1)|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Nr.|Modulbezeichnung|V|Ü|P|1.|2.|3.|4.|5.|6.||
+||||||||||||Pr<br>un|
+|Nr.|Modulbezeichnung|V|Ü|P|1.|2.|3.|4.|5.|6.|f|
 |B1|Mathematik A 1<br>(GOP)|4|2||7,5||||||90<br>+<br>uSL|
 |B2|Mathematik A 2<br>(GOP)|5|3|||10|||||120<br>+<br>uSL|
 |B3|Mathematik A 3|2|2||||5||||60<br>+<br>uSL|
@@ -168,7 +169,9 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 |B7|PraktikumGrundlagender Elektrotechnik|||2|||2,5||||uSL|
 |B8|StatikundFestigkeitslehre<br>(GOP)|3|3|||7,5|||||90|
 |B9|Dynamikstarrer Körper|3|3||||7,5||||90|
-|B10|Grundlagen der Informatik<br>(GOP)|3|3||7,5||||||90<br>+<br>uSL|
+||||||||||||90|
+|B10|Grundlagen der Informatik<br>(GOP)|3|3||7,5||||||+<br>|
+||||||||||||uSL|
 |B11|Systemnahe Programmierung in C<br>(GOP)|2|2|||5|||||90|
 |B12|Eingebettete Systeme|2|2||||||5||90|
 |B13|Digitaltechnik<br>(GOP)|2|2||5||||||90|
@@ -181,16 +184,19 @@ gen.[3] Die Scheine müssen spätestens innerhalb eines Jahres nach Aufnahme des
 |B20|TechnischeDarstellungslehre|||4|2,5|2,5|||||uSL|
 |B21|Grundlagender Produktentwicklung|4||2||||7,5|||120|
 |B22|Grundlagen der Antriebstechnik|2|2||||5||||90|
-|B23|PraktikumGrundlagender Antriebstechnik|||2||||2,5|||uSL|
+|B23|<br>PraktikumGrundlagender Antriebstechnik|||2||||2,5|||uSL|
 |B24|Einführungindie Systemtheorie|2|2|||||5|||90|
 |B25|Regelungstechnik A(Grundlagen)|2|2||||||5||90|
 |B26|Sensorik|2|2||||||5||90|
 |B27|Wahlpflichtmodule (ausKatalog)|4|4|||||||10||
-|B28|nichttechnische Wahlmodule|6|||||||5|2,5|bSL|
+|B28|nichttechnische Wahlmodule||6||||||5|2,5|bSL|
 |B29|Seminar|1||||||||1,5|bSL|
-|B30|Berufspraktische Tätigkeit (Praktikum)|6 Wochen<br>(zzgl. 6 Wo-<br>chen Prakti-<br>kum vor Stu-<br>dienbeginn)||||||||6|uSL|
-|B31|Bachelorarbeit|10 Wochen||||||||10|bSL|
-|Summen|||||30|30|30|30|30|30||
+|||6<br>(zz|Woch<br>gl. 6|en<br>Wo-||||||||
+|B30|Berufspraktische Tätigkeit (Praktikum)|<br>ch<br>|<br>en Pra<br>|<br>kti-<br>||||||6|uSL|
+|||ku<br>|m vor<br>|Stu-<br>||||||||
+|||die|nbegi|nn)||||||||
+|B31|Bachelorarbeit|10|Woch|en||||||10|bSL|
+||||Sum|men|30|30|30|30|30|30||
 
 Erläuterungen: 
 
@@ -200,25 +206,23 @@ Erläuterungen:
 
 ## **Anlage 2:** Studienplan des Masterstudiums Mechatronik an der FriedrichAlexander-Universität Erlangen-Nürnberg 
 
-|Moduldaten|Moduldaten||||||||Prü-<br>fung1)|
-|---|---|---|---|---|---|---|---|---|---|
-|||SWS|||Verteilung der ECTS-Punkte<br>|||||
-||||||aufdie Semester|||||
-|Nr.|Modulbezeichnung|V|Ü|P|1.|2.|3.|4.||
-|M1|ElektrischeAntriebe|2|2||5||||90|
-|M2|Produktion inder Elektrotechnik|4|||2,5|2,5|||90|
-|M3|Technische Schwingungslehre|2|2|||5|||120<br>|
-|M4|Vertiefungsrichtung1|12|||5|5|5||~~2)~~<br>|
-|M5|Vertiefungsrichtung2|12|||5|5|5||~~2)~~|
-|M6|TechnischeWahlmodule|10|||5|5|2,5||bSL|
-|M7|NichttechnischeWahlmodule|10|||7,5|5|||bSL|
-|M8|2 Praktika|||4||2,5|2,5||uSL|
-|M9|2Seminare|||4|||5||bSL|
-|M10|Berufspraktische Tätigkeit|8 Wochen gemäß<br>Praktikumsrichtlinie|||||10||uSL|
-|M11|Masterarbeit|Umfang ca. 900<br>Stunden innerhalb<br>von 6 Monaten<br>Bearbeitungszeit||||||30|bSL|
-|Summen|||||30|30|30|30||
+||Moduldaten<br>|SWS<br> <br><br>|Vertei<br>|lung der<br>aufdie S<br>|ECTS-P<br>emester<br>|unkte<br> <br>|Prü-<br>fung<sup>1)</sup>|
+|---|---|---|---|---|---|---|---|
+|Nr.|Modulbezeichnung|V<br>Ü<br>P|1.|2.|3.|4.||
+|M1|ElektrischeAntriebe|2<br>2|5||||90|
+|M2|Produktion inder Elektrotechnik|4|2,5|2,5|||90|
+|M3|Technische Schwingungslehre|2<br>2||5|||120<br>|
+|M4|Vertiefungsrichtung1|12|5|5|5||~~2)~~<br>|
+|M5|Vertiefungsrichtung2|12|5|5|5||~~2)~~|
+|M6|TechnischeWahlmodule|10|5|5|2,5||bSL|
+|M7|NichttechnischeWahlmodule|10|7,5|5|||bSL|
+|M8|2 Praktika|4||2,5|2,5||uSL|
+|M9|2Seminare|4|||5||bSL|
+|M10|Berufspraktische Tätigkeit|8 Wochen gemäß<br>Praktikumsrichtlinie|||10||uSL|
+|M11|Masterarbeit|Umfang ca. 900<br>Stunden innerhalb<br>von 6 Monaten<br>Bearbeitungszeit||||30|bSL|
+|||Summen|30|30|30|30||
 
-## Erläuterungen: 
+### Erläuterungen: 
 
 1) Prüfung (Dauer in min), benoteter (bSL) oder unbenoteter Leistungsnachweis (uSL) 
 

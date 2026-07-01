@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "MA DEIS FPODEIS 20200408 ÄS.pdf"
 pdf_source: https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/Aenderungssatzungen/MA_DEIS_FPODEIS_20200408_AeS.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/
-scraped_at: 2026-05-01T08:25:36+00:00
-page_count_chars: 15567
+scraped_at: 2026-07-01T09:39:46+00:00
+page_count_chars: 15743
 ---
 
 # MA DEIS FPODEIS 20200408 ÄS.pdf
@@ -12,21 +12,21 @@ page_count_chars: 15567
 **PDF source:** <https://www.doc.zuv.fau.de//L1/PO/Phil/Master/Development_Economics_and_International_Studies/Aenderungssatzungen/MA_DEIS_FPODEIS_20200408_AeS.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/philosophische-fakultaet/masterstudiengaenge/>
 
-## **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS –** 
+# **Sechste Satzung zur Änderung der Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS –** 
 
-## **Vom 8. April 2020** 
+# **Vom 8. April 2020** 
 
 Aufgrund von Art. 13 Abs. 1 in Verbindung mit Art. 43 Abs. 5 Satz 2, Art. 58 Abs. 1 und Art. 61 Abs. 2 Satz 1 des Bayerischen Hochschulgesetzes (BayHSchG) erlässt die FAU folgende Änderungssatzung: 
 
-## **§ 1** 
+# **§ 1** 
 
 Die Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development Economics and International Studies“ an der Philosophischen Fakultät und Fachbereich Theologie der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – FPODEIS – vom 8. Juni 2010, zuletzt geändert durch Satzung vom 31. Juli 2019, wird wie folgt geändert: 
 
 1. § 2 erhält folgende neue Fassung: 
 
-## **„§ 2 Qualifikation zum Masterstudium** 
+# **„§ 2 Qualifikation zum Masterstudium** 
 
-- (1)[1] Die Qualifikation zum Masterstudium Development Economics and International Studies wird nachgewiesen durch: 
+- (1)<sup>1</sup> Die Qualifikation zum Masterstudium Development Economics and International Studies wird nachgewiesen durch: 
 
 1. einen ersten berufsqualifizierenden Abschluss einer Hochschule (Staatsexamen, Diplom, Magister bzw. Bachelor) bzw. einen sonstigen gleichwertigen in- oder ausländischen Abschluss in einem wirtschaftswissenschaftlichen Fach mit einem wirtschaftswissenschaftlichen Anteil von mindestens 70 ECTS-Punkten, inklusive mindestens Grundkenntnissen in den Bereichen Mikroökonomie, Makroökonomie und Statistik/Ökonometrie (jeweils mindestens 5 ECTS-Punkte), 
 
@@ -38,7 +38,7 @@ Die Fachstudien- und Prüfungsordnung für den Masterstudiengang „Development 
 
 (2) Bewerberinnen oder Bewerber nach Abs. 1 sollen zu den 50 v. H. Besten ihres Jahrganges zählen oder den entsprechenden Studiengang mit der Gesamtnote von mindestens 2,50 (= gut) abgeschlossen haben; bei Abschlüssen, die ein abweichendes Notensystem ausweisen, gelten § 15 Abs. 3 Sätze 1 bis 3 **ABMStPO/Phil** entsprechend. 
 
-(3)[1] Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.[2] Bis zur Immatrikulation ist eine Bestätigung des zuständigen Prüfungsamtes einzureichen, dass der Bachelorstudiengang erfolgreich absolviert worden ist.[3] Der offizielle Nachweis über den bestandenen Bachelorabschluss (Abschlussdokumente) ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.[4] Der Zugang zum Masterstudium 
+(3)<sup>1</sup> Abweichend von Abs. 1 Nr. 1 können Studierende, die in einem Bachelorstudiengang immatrikuliert sind, zum Masterstudium zugelassen werden, wenn sie mindestens 140 ECTS-Punkte erreicht haben.<sup>2</sup> Bis zur Immatrikulation ist eine Bestätigung des zuständigen Prüfungsamtes einzureichen, dass der Bachelorstudiengang erfolgreich absolviert worden ist.<sup>3</sup> Der offizielle Nachweis über den bestandenen Bachelorabschluss (Abschlussdokumente) ist spätestens innerhalb eines Jahres nach Aufnahme des Studiums nachzureichen; die förmliche Aufnahme des Masterstudiums setzt den Abschluss des Bachelorstudiums voraus.<sup>4</sup> Der Zugang zum Masterstudium 
 
 1 
 
@@ -46,7 +46,7 @@ wird unter Vorbehalt gewährt; im Falle des nicht rechtzeitigen Nachweises erfol
 
 2. In § 8 wird nach Abs. 3 folgender neuer Abs. 4 angefügt: 
 
-„(IV)[1] Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/21 aufnehmen werden.“ 
+„(IV)<sup>1</sup> Die sechste Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/21 aufnehmen werden.“ 
 
 3. Nach § 8 wird folgende neue **Anlage 1** eingefügt; die bisherige **Anlage** wird zu **Anlage 2** : 
 
@@ -125,7 +125,7 @@ Die Feststellung der Qualifikation obliegt gemäß § 14 **ABMStPO/Phil** der Zu
 
 |Umfang (in ECTS-Punkten)|Punkte|
 |---|---|
-|50 undhöher|30|
+|<br>50 undhöher|30|
 |40–49|25|
 |30–39|20|
 |20–29|15|
@@ -137,9 +137,7 @@ Die Feststellung der Qualifikation obliegt gemäß § 14 **ABMStPO/Phil** der Zu
 |---|---|
 |In allen Testabschnitten C1 oder besser|5|
 |In einzelnen Testabschnitten schlechter als C1|0|
-
 |Sprachniveau und Ausdrucksfähigkeit anhand des Bewerbungsschreibens|Punkte|
-|---|---|
 |Gut bis sehrgut|5|
 |Viele Mängel bis durchschnittlich|0|
 
@@ -162,15 +160,15 @@ schaftsethik, der praktischen Erfahrungen in der Entwicklungsökonomie/Entwicklu
 |Vorhanden, abergeringfügig|5|
 |Signifikant (hinsichtlich der Dauer und/oder Funktion/Rolle)|10|
 
-- 5.1.2[1] Die Zugangskommission kann insgesamt 100 Punkte vergeben.[2] Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
+- 5.1.2<sup>1</sup> Die Zugangskommission kann insgesamt 100 Punkte vergeben.<sup>2</sup> Die Gesamtpunktzahl ergibt sich aus der Addition der in den einzelnen Kriterien vergebenen Punkte. 
 
 - 5.1.3 Bewerberinnen und Bewerber, die mindestens 80 Punkte erreicht haben, erhalten eine Bestätigung über die bestandene Qualifikationsfeststellung, ungeeignete Bewerberinnen und Bewerber mit weniger als 65 Punkten erhalten einen mit Gründen und Rechtsbehelfsbelehrung versehenen ablehnenden Bescheid. 
 
 - 5.2 _Zweite Stufe der Durchführung des Qualifikationsfeststellungsverfahrens_ 
 
-- 5.2.1 1Die übrigen Bewerberinnen und Bewerber, die im Bereich von 79 – 65 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).[2] Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.[3] Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.[4] Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin innerhalb von zwei Wochen nach dem ursprünglich angesetzten Termin des Gesprächs anberaumt werden. 
+- 5.2.1 1Die übrigen Bewerberinnen und Bewerber, die im Bereich von 79 – 65 Punkten liegen, werden schriftlich zu einem Qualifikationsfeststellungsgespräch eingeladen (Zweite Stufe des Qualifikationsfeststellungsverfahrens).<sup>2</sup> Der Termin für das Qualifikationsfeststellungsgespräch wird mindestens eine Woche vorher bekannt gegeben.<sup>3</sup> Der festgesetzte Termin des Gesprächs ist von der Bewerberin bzw. dem Bewerber einzuhalten.<sup>4</sup> Ist die Bewerberin bzw. der Bewerber aus von ihr bzw. ihm nicht zu vertretenden Gründen an der Teilnahme an dem Qualifikationsfeststellungsgespräch verhindert, so kann auf begründeten Antrag ein Nachtermin innerhalb von zwei Wochen nach dem ursprünglich angesetzten Termin des Gesprächs anberaumt werden. 
 
-- 5.2.2 1Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und findet in englischer Sprache statt.[2] Das Auswahlgespräch kann mit Zustimmung der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.[3] Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.[4] Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt.[5] Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 20 Punkte.[6] Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 5 i. V. m. Ziffer 5.2.3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
+- 5.2.2 1Das Qualifikationsfeststellungsgespräch ist für jede Bewerberin bzw. jeden Bewerber einzeln durchzuführen und findet in englischer Sprache statt.<sup>2</sup> Das Auswahlgespräch kann mit Zustimmung der Bewerberin bzw. des Bewerbers auch bildtelefonisch durchgeführt werden.<sup>3</sup> Das Qualifikationsfeststellungsgespräch umfasst eine Dauer von ca. 20 Minuten und soll zeigen, ob die Bewerberin bzw. der Bewerber die nötigen fachlichen und methodischen Kenntnisse besitzt und zu erwarten ist, dass sie bzw. er in einem stärker forschungsorientierten Studium selbstständig wissenschaftlich zu arbeiten versteht.<sup>4</sup> Das Qualifikationsfeststellungsgespräch wird von mindestens zwei Mitgliedern der Zugangskommission durchgeführt.<sup>5</sup> Jedes der Mitglieder vergibt auf das Ergebnis des Qualifikationsfeststellungsgesprächs maximal 20 Punkte.<sup>6</sup> Die Punktzahl des Qualifikationsfeststellungsgesprächs ergibt sich aus dem arithmetischen Mittel der Einzelbewertungen nach Satz 5 i. V. m. Ziffer 5.2.3, wobei sich aus der Berechnung ergebende Nachkommastellen aufgerundet werden. 
 
 - 5.2.3 1Das Qualifikationsfeststellungsgespräch erstreckt sich auf folgende Kriterien: 5.2.3.1 Fähigkeit zur Analyse volkswirtschaftlicher Zusammenhänge (10 Punkte), 
 
@@ -178,20 +176,20 @@ schaftsethik, der praktischen Erfahrungen in der Entwicklungsökonomie/Entwicklu
 
    - 2Die Punktevergabe in den einzelnen Kriterien nach Satz 1 wird anhand folgender Maßstäbe vorgenommen: 
 
-|Kriterium|Punkte|
+|Kriterium<br>|Punkte|
 |---|---|
-|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2|10|
-|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht<br>voll erfüllt werden|7,5|
+|Beste Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2<br>|10|
+|Weitgehende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2, wobei in einzelnen Punkten die Anforderungen nicht oder nicht<br>voll erfüllt werden<br>|7,5|
 |Überwiegende Übereinstimmung mit den Anforderungen aus den Kriterien nach Satz 1<br>Nr. 5.2.2.1 bzw. 5.2.2.2, wobei ansonsten die Anforderungen nicht oder nicht voll erfüllt<br>werden|5|
 |Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden über-<br>wiegendnicht erfüllt|2,5|
 
 4 
 
-Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden nicht 0 oder so gut wie nicht erfüllt 
+Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden nicht 0 <u>oder so gut wie nicht erfüllt</u> 
 
-- 5.2.4 1Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffern 5.1.1 und 5.2.3.[2] Bewerberinnen und Bewerber, die insgesamt 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
+- 5.2.4 1Die Gesamtpunktezahl der Bewerberin bzw. des Bewerbers ergibt sich aus der Summe der Punktzahlen nach Ziffern 5.1.1 und 5.2.3.<sup>2</sup> Bewerberinnen und Bewerber, die insgesamt 80 oder mehr Punkte erreicht haben, werden als qualifiziert eingestuft. 
 
-- 5.2.5 1Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.[2] Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
+- 5.2.5 1Das Ergebnis des Qualifikationsfeststellungsverfahrens wird der Bewerberin bzw. dem Bewerber schriftlich mitgeteilt.<sup>2</sup> Ein Ablehnungsbescheid ist mit einer Begründung und einer Rechtsbehelfsbelehrung zu versehen. 
 
 - 5.3 Die Bewerberin bzw. der Bewerber trägt die eigenen Kosten des Qualifikationsfeststellungsverfahrens selbst. 
 
@@ -199,13 +197,13 @@ Die Anforderungen aus den Kriterien nach Satz 1 Nr. 5.2.2.1 bzw. 5.2.2.2 werden 
 
 ## **6. Niederschrift** 
 
-1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.[2] Aus der Niederschrift müssen die Themen des Gesprächs mit der Bewerberin bzw. dem Bewerber und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
+1Über den Ablauf des Qualifikationsfeststellungsverfahrens in der ersten und in der zweiten Stufe ist eine Niederschrift anzufertigen, aus der Tag, Dauer und Ort der Feststellung, die Namen der Zugangskommissionsmitglieder, die Namen der Bewerberin bzw. des Bewerbers und die Beurteilung der Kommissionsmitglieder sowie das Gesamtergebnis ersichtlich sein müssen.<sup>2</sup> Aus der Niederschrift müssen die Themen des Gesprächs mit der Bewerberin bzw. dem Bewerber und die wesentlichen Gründe für die Entscheidung ersichtlich sein; die wesentlichen Gründe und die Themen können stichwortartig aufgeführt werden. 
 
 ## **7. Wiederholung** 
 
 Bewerberinnen bzw. Bewerber, die den Nachweis der Eignung für das Masterstudium nicht erbracht haben, können auf Basis der bereits bei der ersten Bewerbung eingereichten Unterlagen einmal erneut die Teilnahme am Qualifikationsfeststellungsverfahren beantragen.“ 
 
-## **§ 2** 
+# **§ 2** 
 
 1Diese Änderungssatzung tritt am Tag nach ihrer Bekanntmachung in Kraft. 2Sie gilt für alle Studierenden, die das Studium ab dem Wintersemester 2020/21 aufnehmen werden. 
 

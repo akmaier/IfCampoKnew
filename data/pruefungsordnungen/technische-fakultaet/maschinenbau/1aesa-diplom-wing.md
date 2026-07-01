@@ -3,8 +3,8 @@ kind: "fau-pruefungsordnung-document"
 title: "10. Juli 2002"
 pdf_source: https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-Diplom-Wing.pdf
 parent_landing: https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/
-scraped_at: 2026-05-01T10:30:22+00:00
-page_count_chars: 14767
+scraped_at: 2026-07-01T11:46:33+00:00
+page_count_chars: 14898
 ---
 
 # 10. Juli 2002
@@ -12,7 +12,7 @@ page_count_chars: 14767
 **PDF source:** <https://zuv.fau.de/universitaet/organisation/recht/studiensatzungen/TECHFAK/Aenderungssatzungen/1AeSa-Diplom-Wing.pdf>
 **Landing page:** <https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/technische-fakultaet/maschinenbau/>
 
-## **Satzung zur Änderung der Fachprüfungsordnung für die Diplomvorprüfung im Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
+# **Satzung zur Änderung der Fachprüfungsordnung für die Diplomvorprüfung im Diplomstudiengang Wirtschaftsingenieurwesen an der Universität Erlangen-Nürnberg** 
 
 ## Vom 10. Juli 2002 
 
@@ -36,9 +36,9 @@ b) In Satz 1 des bisherigen Absatzes 1 wird das Wort „Diplomvorprüfung“ dur
 
 ## **„ § 3 Gliederung des Studiums und Studiendauer** 
 
-   - (1)[1] Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.[2] Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
+   - (1)<sup>1</sup> Das Studium gliedert sich in ein viersemestriges Grundstudium und ein anschließendes Hauptstudium.<sup>2</sup> Das Grundstudium wird mit der Diplomvorprüfung, das Hauptstudium mit der Diplomhauptprüfung abgeschlossen. 
 
-   - (2)[1] Das Studium setzt sich aus Lehrveranstaltungen im Höchstumfang von 185 Semesterwochenstunden (SWS), verteilt auf acht Semester, und einer studienbegleitend anzufertigenden Studienarbeit mit einem Arbeitsaufwand von ca. 200 Stunden zusammen.[2] Hinzu kommen 18 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.[3] Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. „ 
+   - (2)<sup>1</sup> Das Studium setzt sich aus Lehrveranstaltungen im Höchstumfang von 185 Semesterwochenstunden (SWS), verteilt auf acht Semester, und einer studienbegleitend anzufertigenden Studienarbeit mit einem Arbeitsaufwand von ca. 200 Stunden zusammen.<sup>2</sup> Hinzu kommen 18 Wochen für die Ableistung der berufspraktischen Tätigkeit und sechs Monate zur Durchführung der Diplomarbeit.<sup>3</sup> Die Regelstudienzeit einschließlich aller Studien- und Prüfungsleistungen beträgt 10 Semester. „ 
 
 4. 
 
@@ -96,7 +96,7 @@ Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung
 
    8. die Anfertigung einer Diplomarbeit gemäß §14. 
 
-- (2)[1] Ingenieurwissenschaftliche Pflichtfächer sind 
+- (2)<sup>1</sup> Ingenieurwissenschaftliche Pflichtfächer sind 
 
    1. Fertigungsautomatisierung und Produktionssystematik 
 
@@ -114,7 +114,7 @@ Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung
 
    - 2Jedes ingenieurwissenschaftliche Pflichtfach umfasst vier SWS. 
 
-- (3)[1] Wählbare Pflichtfächer der Allgemeinen Betriebswirtschaftslehre sind 
+- (3)<sup>1</sup> Wählbare Pflichtfächer der Allgemeinen Betriebswirtschaftslehre sind 
 
    1. Bilanzlehre und Kostenrechnungssysteme 
 
@@ -136,11 +136,9 @@ Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung
 
    10. Entscheidungen. 
 
-   - 2Von den drei wählbaren Pflichtfächern muss mindestens eines der Nrn. 1 und 2 gewählt werden. 
+2Von den drei wählbaren Pflichtfächern muss mindestens eines der Nrn. 1 und 2 gewählt werden. 
 
-- (4)  Wählbare Fächer für das Pflichtfach der Speziellen Betriebswirtschaftlehre sind 
-
-   1. Industriebetriebslehre 
+- (4)  Wählbare Fächer für das Pflichtfach der Speziellen Betriebswirtschaftlehre sind 1. Industriebetriebslehre 
 
    2. Logistik 
 
@@ -172,19 +170,19 @@ Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung
 
 - (6) Als Wahlfächer sind Lehrveranstaltungen der Technischen Fakultät im Umfang von vier SWS und weitere allgemeinwissenschaftliche Lehrveranstaltungen der Technischen Fakultät oder anderer Fakultäten der Friedrich-Alexander-Universität im Umfang von zwei SWS wählbar, die nicht sonst Gegenstand der Diplomhauptprüfung sind und in denen Prüfungen stattfinden. 
 
-- (7)[1] Die Prüfungen in den ingenieurwissenschaftlichen Pflichtfächern und dem Vertiefungsfach sind schriftlich, in den Wahlfächern schriftlich oder mündlich.[2] Der Umfang der Prüfungsleistungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus der **Anlage 2** .[3] Bei den Wahlfächern gibt der Fachvertreter vor Beginn der Lehrveranstaltung die Form und Umfang der Prüfung bekannt. 
+- (7)<sup>1</sup> Die Prüfungen in den ingenieurwissenschaftlichen Pflichtfächern und dem Vertiefungsfach sind schriftlich, in den Wahlfächern schriftlich oder mündlich.<sup>2</sup> Der Umfang der Prüfungsleistungen sowie die Zahl der Leistungspunkte und Maluspunkte ergeben sich aus der **Anlage 2** .<sup>3</sup> Bei den Wahlfächern gibt der Fachvertreter vor Beginn der Lehrveranstaltung die Form und Umfang der Prüfung bekannt. 
 
-- (8)[1] In den Fächern gemäß der Absätze 3 bis 5 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen sowie über die der jeweiligen Teilprüfung zugeordneten Leistungspunkte; Absatz 7 Satz 2 gilt entsprechend.[2] Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
+- (8)<sup>1</sup> In den Fächern gemäß der Absätze 3 bis 5 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen sowie über die der jeweiligen Teilprüfung zugeordneten Leistungspunkte; Absatz 7 Satz 2 gilt entsprechend.<sup>2</sup> Teilprüfungen werden als Klausuren, mündliche Prüfungen oder Seminararbeiten (z.B. in Form von Hausarbeiten, Referaten und Präsentationen) erbracht. 
 
 - (9)  Eine zweite Wiederholung nicht ausreichend bewerteter Prüfungsleistungen nach Absatz 1 ist bis zur Schwelle von 40 Maluspunkten zulässig. 
 
 ## **§ 12 Studienarbeit** 
 
-- (1)[1] Die Studienarbeit ist in einem Prüfungsfach gemäß §11 Abs. 1 Nrn. 1 bis 6 unter der wissenschaftlichen Betreuung des Hochschullehrers anzufertigen, der das entsprechende Fach vertritt.[2] Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen in einem ingenieur- oder wirtschaftswissenschaftlichen Fachgebiet zu erlernen.[3] Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 200 Stunden in drei Monaten abgeschlossen werden kann.[4] Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
+- (1)<sup>1</sup> Die Studienarbeit ist in einem Prüfungsfach gemäß §11 Abs. 1 Nrn. 1 bis 6 unter der wissenschaftlichen Betreuung des Hochschullehrers anzufertigen, der das entsprechende Fach vertritt.<sup>2</sup> Sie dient dazu, die selbständige Bearbeitung von Aufgabenstellungen in einem ingenieur- oder wirtschaftswissenschaftlichen Fachgebiet zu erlernen.<sup>3</sup> Sie soll in ihren Anforderungen so gestaltet sein, dass sie bei einer Bearbeitungszeit von etwa 200 Stunden in drei Monaten abgeschlossen werden kann.<sup>4</sup> Der Bearbeitungszeitraum darf sechs Monate nicht überschreiten. 
 
-- (2)[1] Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Studienarbeit vorliegen.[2] Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist sie nicht bestanden. 
+- (2)<sup>1</sup> Der betreuende Hochschullehrer setzt Anfangs- und Abgabetermin fest; § 9 Abs. 1 bis 3 DiplPrOTF gilt entsprechend; die Bewertung soll innerhalb von drei Monaten nach Abgabe der Studienarbeit vorliegen.<sup>2</sup> Ist die Studienarbeit mit einer Note schlechter als 4,0 benotet worden oder gilt sie wegen einer vom Studenten zu vertretenden Fristüberschreitung als mit nicht ausreichend bewertet, so ist sie nicht bestanden. 
 
-- (3)[1] Eine nicht bestandenen Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.[2] Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.[3] Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
+- (3)<sup>1</sup> Eine nicht bestandenen Studienarbeit kann einmal wiederholt werden; eine zweite Wiederholung ist ausgeschlossen.<sup>2</sup> Das Thema der Studienarbeit kann der Student einmal innerhalb der ersten drei Wochen nach seiner Ausgabe zurückgeben.<sup>3</sup> Bei einer Wiederholung der Studienarbeit ist die Rückgabe ausgeschlossen. 
 
 - (4)  Die Studienarbeit gilt als nicht bestanden, wenn die Arbeit verspätet abgegeben oder das Thema der Arbeit unzulässigerweise zurückgegeben wird. 
 
@@ -194,9 +192,7 @@ Voraussetzung für die Zulassung zur ersten Fachprüfung der Diplomhauptprüfung
 
 Voraussetzung für die Zulassung zur Diplomarbeit ist, dass 
 
-1. die Diplomvorprüfung bestanden ist, 
-
-2. alle Prüfungen der Diplomhauptprüfung gemäß § 11 Abs. 1 Nrn. 1 bis 7 erstmals abgelegt sind und bis auf eine Prüfungsleistung mit wenigstens „ausreichend“ bewertet sind, 
+1. die Diplomvorprüfung bestanden ist, 2. alle Prüfungen der Diplomhauptprüfung gemäß § 11 Abs. 1 Nrn. 1 bis 7 erstmals abgelegt sind und bis auf eine Prüfungsleistung mit wenigstens „ausreichend“ bewertet sind, 
 
 3. die erfolgreiche Teilnahme am Fertigungstechnischen Praktikum im Umfang von vier SWS durch einen unbenoteten Schein nachgewiesen ist, 
 
@@ -208,13 +204,13 @@ Voraussetzung für die Zulassung zur Diplomarbeit ist, dass
 
 ## **§ 14 Diplomarbeit** 
 
-- (1) 1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.[3] Die Diplomarbeit muss ein wissenschaftliches Thema aus einem  Fachgebiet behandeln, das einem der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 zugeordnet ist.[4] Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer betreut, der dieses Fachgebiet vertritt. 
+- (1) 1Die Dauer der Diplomarbeit beträgt sechs Monate. 2Der Prüfungsausschuss kann ausnahmsweise eine Verlängerung der Bearbeitungszeit um höchstens einen Monat genehmigen.<sup>3</sup> Die Diplomarbeit muss ein wissenschaftliches Thema aus einem  Fachgebiet behandeln, das einem der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 6 zugeordnet ist.<sup>4</sup> Sie wird von einem Professor oder sonstigen hauptberuflich im Dienst der Universität stehenden Hochschullehrer betreut, der dieses Fachgebiet vertritt. 
 
 - (2) Die Diplomarbeit wird mit zwölf Leistungspunkten veranschlagt. 
 
 ## **§ 15 Bewertung der Leistungen** 
 
-   - (1) 1Die Diplomhauptprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 7 mindestens „ausreichend“ lauten und die Diplomarbeit mit wenigstens „ausreichend“ bewertet wurde. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden betriebswirtschaftlichen Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.[3] Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß § 11 Abs. 8 gewichteten arithmetischen Mittel der Teilprüfungen. 
+   - (1) 1Die Diplomhauptprüfung ist bestanden, wenn alle Fachnoten der Prüfungsfächer gemäß § 11 Abs. 1 Nrn. 1 bis 7 mindestens „ausreichend“ lauten und die Diplomarbeit mit wenigstens „ausreichend“ bewertet wurde. ²Für eine mindestens ausreichende Fachnote in einem mehrere Teilprüfungen umfassenden betriebswirtschaftlichen Prüfungsfach ist Voraussetzung, dass jede Teilprüfung mit wenigstens "ausreichend" bewertet ist.<sup>3</sup> Die Fachnote ergibt sich aus dem entsprechend den Leistungspunkten gemäß § 11 Abs. 8 gewichteten arithmetischen Mittel der Teilprüfungen. 
 
    - (2) 1In die Ermittlung der Gesamtnote der Diplomhauptprüfung gehen mit dem Gewicht ihrer Leistungspunkte ein die Noten 
 
@@ -240,9 +236,8 @@ Voraussetzung für die Zulassung zur Diplomarbeit ist, dass
 
 „Anlage 2 (zu § 11 Abs. 7 und § 15 Abs. 2) 
 
-|„Anlage 2 (zu § 11 Abs. 7 und § 15 Abs. 2)|||
-|---|---|---|
 |Studien- und Prüfungsleistungen der Diplomhauptprüfung|**Prüfungsdauer**<br>**in**<br>**Minuten**|**Zahl der Leis-**<br>**tungs- bzw. Ma-**<br>**luspunkte**|
+|---|---|---|
 |**I.  Ingenieurwissenschaftliche Studien- und Prüfungsleistungen**|||
 |**I.1 Pflichtfächer**|||
 |Fertigungsautomatisierungund Produktionssystematik|120|4|
@@ -255,9 +250,7 @@ Voraussetzung für die Zulassung zur Diplomarbeit ist, dass
 |**I.2 Vertiefungsfach**|120|4|
 |**I.3 Wahlfächer**||6|
 |**I.4 Seminar**||2|
-||||
 |**Summe ingenieurwissenschaftlicher Studien- und Prüfungsleistungen**||**40**|
-||||
 |**II.Wirtschaftswissenschaftliche Studien- und Prüfungsleistungen**|||
 |**II.1 Pflichtfächer der Allgemeinen BWL**|||
 |Pflichtfach 1|*)|4|
@@ -269,13 +262,10 @@ Voraussetzung für die Zulassung zur Diplomarbeit ist, dass
 |Pflichtfach 2|*)|6|
 |**II.3 Wahlpflichtfach**|*)|6|
 |**II.4 Vertiefungsfach Spezielle BWL**|*)|6|
-||||
 |**Summe wirtschaftswissenschaftliche Studien- und Prüfungsleistungen**||**40**|
-||||
 |**III.  Studien- und Diplomarbeit**|||
 |Studienarbeit||6|
 |Diplomarbeit||12|
-||||
 |**Summe der Studien- und Prüfungsleistungen im Hauptdiplom**||**98**|
 
 *)  gemäß § 11 Abs. 8 entscheidet der Fachvertreter über Zahl, Umfang und Form der Teilprüfungen“ 
