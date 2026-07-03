@@ -4,28 +4,32 @@ name: Weekly Campo scrape
 # Off-peak for Campo; gives the workweek a fresh corpus by Monday morning.
 # Manual run via the Actions tab is also supported.
 #
-# Architecture (refactored 2026-05-20): 4-job pipeline.
+# Architecture (refactored 2026-05-24 for depth-9): sharded pipeline.
 #
-#   vars                      — resolves inputs once, ~1 min
-#     ├── scrape_current      — walk+fetch+sweep+walker for the current
-#     │                         period (589 by default), uploads tmp/*.json
-#     │                         as artifacts. 6 h budget.
-#     ├── scrape_prior        — same chain for the prior period (565 by
-#     │                         default). Has its own monthly cache; on
-#     │                         hit, skips the heavy walks. 6 h budget.
-#     ├── faudir              — pulls the FAUdir Professor:innen-Index,
-#     │                         uploads tmp/faudir-persons.json + the
-#     │                         data/personen/ chunk files. ~5 min.
-#     └── render_and_release  — needs all three. Downloads their
-#                               artifacts, renders markdown, runs all
-#                               analyses, commits + zips + Releases.
-#                               ~15 min.
+#   vars                       — resolves inputs once, ~5 s
+#     ├── seed_shards_current  — depth-3 walk + shard-split, ~3 min
+#     │       ↓
+#     │   walk_shards_current  — MATRIX of N shard-walkers (in parallel)
+#     │   [shard 0…N-1]          each walks its shard to depth-9, ~30-60 min
+#     │       ↓
+#     │   assemble_current     — merge → fetch → sweep → walker → upload
+#     │
+#     ├── cache_prior_check    — lookup-only cache probe (~2 s)
+#     ├── seed_shards_prior    — same shape as current (skipped on cache hit)
+#     ├── walk_shards_prior    — same shape as current (skipped on cache hit)
+#     ├── assemble_prior       — same shape; also cache-save
+#     │
+#     ├── faudir               — FAUdir Professor:innen-Index, ~5 min
+#     │
+#     └── render_and_release   — needs the two assemble_ jobs + faudir.
+#                                Renders markdown, runs analyses, commits +
+#                                zips + Releases.
 #
-# Why split? The previous monolith ran sequentially in one job and
-# routinely brushed (and twice exceeded) GitHub Actions' job timeout.
-# Splitting lets scrape_current / scrape_prior / faudir run in PARALLEL
-# (max wall-clock ≈ 3.5 h instead of 8 h), each gets its own 6 h
-# budget, and a hiccup in one scrape job doesn't lose the other two.
+# Why sharded? A single depth-9 walk of one period does not fit in
+# GitHub Actions' HARD 6 h per-job cap (see Entry 0032). Splitting the
+# depth-3 program frontier into N shards lets us walk each program
+# subtree in its own job in parallel, then merge back. Wall-clock =
+# time-of-slowest-shard + ~4 h assemble, comfortably inside the cap.
 
 on:
   schedule:
@@ -41,9 +45,13 @@ on:
         required: false
         default: "565"
       max_depth:
-        description: "Tree-walk max depth (6 = courses inside Studiengänge; 4 = only PO stubs + buckets; 0 = unlimited, hard cap 12)"
+        description: "Tree-walk max depth (9 = drills into every Wahlpflicht subtree; 6 = courses inside Studiengänge; 4 = only PO stubs; 0 = unlimited, hard cap 12)"
         required: false
-        default: "6"
+        default: "9"
+      shard_count:
+        description: "Number of parallel walk shards per period (default 8; used only for depth ≥ 5)"
+        required: false
+        default: "8"
       with_courses:
         description: "Also fetch course-detail pages (true/false)"
         required: false
@@ -66,6 +74,7 @@ jobs:
       period_id:        ${{ steps.set.outputs.period_id }}
       prior_period_id:  ${{ steps.set.outputs.prior_period_id }}
       max_depth:        ${{ steps.set.outputs.max_depth }}
+      shard_count:      ${{ steps.set.outputs.shard_count }}
       with_courses:     ${{ steps.set.outputs.with_courses }}
       iso_week:         ${{ steps.set.outputs.iso_week }}
       iso_month:        ${{ steps.set.outputs.iso_month }}
@@ -75,24 +84,19 @@ jobs:
         run: |
           echo "period_id=${{ github.event.inputs.period_id || '589' }}" >> "$GITHUB_OUTPUT"
           echo "prior_period_id=${{ github.event.inputs.prior_period_id || '565' }}" >> "$GITHUB_OUTPUT"
-          echo "max_depth=${{ github.event.inputs.max_depth || '6' }}"   >> "$GITHUB_OUTPUT"
+          echo "max_depth=${{ github.event.inputs.max_depth || '9' }}"   >> "$GITHUB_OUTPUT"
+          echo "shard_count=${{ github.event.inputs.shard_count || '8' }}" >> "$GITHUB_OUTPUT"
           echo "with_courses=${{ github.event.inputs.with_courses || 'true' }}" >> "$GITHUB_OUTPUT"
           echo "iso_week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
           echo "iso_month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
 
-  # ─── Job 2: scrape the current period (no cache; always re-fetch) ────
-  scrape_current:
+  # ─── Current period: seed shards (depth-3 walk + shard split) ────────
+  seed_shards_current:
     needs: vars
     runs-on: ubuntu-latest
-    timeout-minutes: 350   # ~6 h. **GitHub-hosted runners have a hard
-                            # 6 h per-job cap** that overrides any larger
-                            # `timeout-minutes` (run 26222834010 ran into
-                            # this — 720 was silently treated as 360).
-                            # Use a step-level `timeout-minutes` on the
-                            # slow search-walker step instead (see below)
-                            # and let it fail-soft so the *rest* of the
-                            # job (resume-fetch, artifact upload) still
-                            # runs inside the per-job budget.
+    timeout-minutes: 15
+    outputs:
+      shard_indices: ${{ steps.emit.outputs.shard_indices }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -107,16 +111,144 @@ jobs:
       - name: Install scraper dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Walk catalogue tree
+      - name: Shallow walk (depth-3) to enumerate program frontier
         run: |
           mkdir -p tmp
           python scraper/scrape.py \
             --period ${{ needs.vars.outputs.period_id }} \
-            --out tmp/${{ needs.vars.outputs.period_id }}.json \
-            --max-depth ${{ needs.vars.outputs.max_depth }} \
-            --interval 0.2 \
+            --out tmp/${{ needs.vars.outputs.period_id }}-shallow.json \
+            --max-depth 3 \
             --parallel 4 \
+            --interval 0.2 \
+            -v
+
+      - name: Split into ${{ needs.vars.outputs.shard_count }} shard checkpoints
+        run: |
+          python scraper/shard_walk.py \
+            --in tmp/${{ needs.vars.outputs.period_id }}-shallow.json \
+            --shards ${{ needs.vars.outputs.shard_count }} \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
+            --out-dir tmp/shards \
+            -v
+          ls -la tmp/shards
+
+      - name: Emit shard-indices matrix output
+        id: emit
+        run: |
+          COUNT=$(ls tmp/shards/${{ needs.vars.outputs.period_id }}-shallow-shard-*.json.checkpoint.json | wc -l | tr -d ' ')
+          INDICES=$(python -c "import json; print(json.dumps(list(range($COUNT))))")
+          echo "shard_indices=$INDICES" >> "$GITHUB_OUTPUT"
+          echo "will spawn $COUNT walk_shard jobs: $INDICES"
+
+      - name: Upload shard checkpoints
+        uses: actions/upload-artifact@v4
+        with:
+          name: shards-current-${{ needs.vars.outputs.period_id }}
+          path: tmp/shards/*
+          if-no-files-found: error
+          retention-days: 1
+
+  # ─── Current period: matrix walker (one job per shard, in parallel) ──
+  walk_shards_current:
+    needs: [vars, seed_shards_current]
+    runs-on: ubuntu-latest
+    timeout-minutes: 350  # per-shard 6h cap (GitHub-hosted hard limit)
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.seed_shards_current.outputs.shard_indices) }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download shard checkpoints
+        uses: actions/download-artifact@v4
+        with:
+          name: shards-current-${{ needs.vars.outputs.period_id }}
+          path: tmp/shards
+
+      - name: Prime resume checkpoint for shard ${{ matrix.shard }}
+        # shard_walk.py names files after the *shallow* stem; the walker
+        # picks up its checkpoint by looking for <out>.checkpoint.json next
+        # to --out. So we copy the shard's checkpoint to that location.
+        run: |
+          mkdir -p tmp
+          cp tmp/shards/${{ needs.vars.outputs.period_id }}-shallow-shard-${{ matrix.shard }}.json.checkpoint.json \
+             tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json.checkpoint.json
+
+      - name: Walk shard ${{ matrix.shard }} to depth ${{ needs.vars.outputs.max_depth }}
+        run: |
+          python scraper/scrape.py \
+            --period ${{ needs.vars.outputs.period_id }} \
+            --out tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
+            --resume \
+            --parallel 4 \
+            --interval 0.2 \
             --checkpoint-every 100 \
+            -v
+
+      - name: Upload shard-${{ matrix.shard }} subtree
+        # `if: always()` so a partial walk (step timeout) still uploads
+        # whatever was written to disk via checkpoint-every.
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: walk-shard-current-${{ needs.vars.outputs.period_id }}-${{ matrix.shard }}
+          path: tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json
+          if-no-files-found: warn
+          retention-days: 1
+
+  # ─── Current period: merge + fetch + sweep + walker + upload ─────────
+  assemble_current:
+    needs: [vars, walk_shards_current]
+    if: always() && needs.walk_shards_current.result != 'skipped'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download all walk-shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: walk-shard-current-${{ needs.vars.outputs.period_id }}-*
+          path: tmp/shards-out
+          merge-multiple: true
+
+      - name: Merge shard subtrees into one snapshot
+        run: |
+          mkdir -p tmp
+          # Fold empty-artifact edge case (all shards timed out) into a helpful error.
+          shopt -s nullglob
+          FILES=(tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "::error::no walk-shard artifacts materialised; cannot merge"
+            exit 1
+          fi
+          python scraper/merge_shards.py \
+            --in "${FILES[@]}" \
+            --out tmp/${{ needs.vars.outputs.period_id }}.json \
             -v
 
       - name: Fetch course detail pages (catalogue)
@@ -153,14 +285,14 @@ jobs:
             -v
 
       - name: Search-walker backfill (catches courses missed by catalog walk)
-        # Cap at 90 min so a slow-Campo day (run 26222834010 saw search-
-        # walker stuck at 3 h+) can't burn the whole 6 h job budget.
-        # `search_walker.py` checkpoints to disk every ~50 queries, so
-        # whatever was discovered before the cap is still usable by the
-        # resume-fetch step below.
+        # Belt-and-suspenders. At depth-9 most previously-orphaned
+        # courses (like Person A's LLM seminar) are now
+        # catalog-reachable, but the search-walker still catches deep
+        # topic-keyword hits ("Generative AI", etc). Capped at 60 min
+        # since its role has shrunk.
         if: needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
-        timeout-minutes: 90
+        timeout-minutes: 60
         run: |
           python scraper/search_walker.py \
             --period ${{ needs.vars.outputs.period_id }} \
@@ -171,10 +303,6 @@ jobs:
             -v
 
       - name: Fetch course details from search backfill
-        # parallel=4 (run 26242109232 timed out at 7400/7741 with
-        # parallel=2 — Person A's seminar was in the unfetched
-        # tail). 75 min cap leaves headroom: scrape_current ran 238 min
-        # total, well under the 350 min job budget.
         if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.period_id)) != ''
         continue-on-error: true
         timeout-minutes: 75
@@ -189,10 +317,7 @@ jobs:
             -v
 
       - name: Upload current-period artifacts
-        # `if: always()` so even a partial scrape (walker timed out,
-        # resume-fetch never reached) still uploads whatever made it to
-        # disk. Without this, a single slow step throws away ~3 h of
-        # successful catalog walk + detail fetch + sweep work.
+        # `if: always()` so a partial pipeline still uploads what made it.
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -205,12 +330,38 @@ jobs:
           if-no-files-found: warn
           retention-days: 7
 
-  # ─── Job 3: scrape the prior period (with monthly cache) ─────────────
-  scrape_prior:
+  # ─── Prior period: cache probe (fast; used to short-circuit shards) ──
+  cache_prior_check:
     needs: vars
     if: needs.vars.outputs.prior_period_id != ''
     runs-on: ubuntu-latest
-    timeout-minutes: 350   # See scrape_current — GitHub-hosted hard 6 h cap.
+    timeout-minutes: 3
+    outputs:
+      cache_hit: ${{ steps.restore.outputs.cache-hit }}
+    steps:
+      - name: Restore prior cache (lookup only)
+        id: restore
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
+          # Cache key v5 — bumped when the walk output changed shape
+          # (sharded → merged snapshot). Whenever a parser-level breaking
+          # change lands, bump the salt so the cache invalidates cleanly.
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
+          lookup-only: true
+
+  # ─── Prior period: seed shards (skipped on cache hit) ────────────────
+  seed_shards_prior:
+    needs: [vars, cache_prior_check]
+    if: needs.vars.outputs.prior_period_id != '' && needs.cache_prior_check.outputs.cache_hit != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      shard_indices: ${{ steps.emit.outputs.shard_indices }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -225,41 +376,161 @@ jobs:
       - name: Install scraper dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Restore prior-period cache (monthly key)
-        id: cache_prior
-        uses: actions/cache@v4
+      - name: Shallow walk (depth-3) — prior period
+        run: |
+          mkdir -p tmp
+          python scraper/scrape.py \
+            --period ${{ needs.vars.outputs.prior_period_id }} \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-shallow.json \
+            --max-depth 3 \
+            --parallel 4 \
+            --interval 0.2 \
+            -v
+
+      - name: Split into ${{ needs.vars.outputs.shard_count }} shard checkpoints
+        run: |
+          python scraper/shard_walk.py \
+            --in tmp/${{ needs.vars.outputs.prior_period_id }}-shallow.json \
+            --shards ${{ needs.vars.outputs.shard_count }} \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
+            --out-dir tmp/shards \
+            -v
+
+      - name: Emit shard-indices matrix output
+        id: emit
+        run: |
+          COUNT=$(ls tmp/shards/${{ needs.vars.outputs.prior_period_id }}-shallow-shard-*.json.checkpoint.json | wc -l | tr -d ' ')
+          INDICES=$(python -c "import json; print(json.dumps(list(range($COUNT))))")
+          echo "shard_indices=$INDICES" >> "$GITHUB_OUTPUT"
+
+      - name: Upload shard checkpoints
+        uses: actions/upload-artifact@v4
+        with:
+          name: shards-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: tmp/shards/*
+          if-no-files-found: error
+          retention-days: 1
+
+  # ─── Prior period: matrix walker ─────────────────────────────────────
+  walk_shards_prior:
+    needs: [vars, cache_prior_check, seed_shards_prior]
+    if: needs.vars.outputs.prior_period_id != '' && needs.cache_prior_check.outputs.cache_hit != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.seed_shards_prior.outputs.shard_indices) }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download shard checkpoints
+        uses: actions/download-artifact@v4
+        with:
+          name: shards-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: tmp/shards
+
+      - name: Prime resume checkpoint for shard ${{ matrix.shard }}
+        run: |
+          mkdir -p tmp
+          cp tmp/shards/${{ needs.vars.outputs.prior_period_id }}-shallow-shard-${{ matrix.shard }}.json.checkpoint.json \
+             tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json.checkpoint.json
+
+      - name: Walk shard ${{ matrix.shard }} to depth ${{ needs.vars.outputs.max_depth }}
+        run: |
+          python scraper/scrape.py \
+            --period ${{ needs.vars.outputs.prior_period_id }} \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json \
+            --max-depth ${{ needs.vars.outputs.max_depth }} \
+            --resume \
+            --parallel 4 \
+            --interval 0.2 \
+            --checkpoint-every 100 \
+            -v
+
+      - name: Upload shard-${{ matrix.shard }} subtree
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: walk-shard-prior-${{ needs.vars.outputs.prior_period_id }}-${{ matrix.shard }}
+          path: tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json
+          if-no-files-found: warn
+          retention-days: 1
+
+  # ─── Prior period: assemble (also handles cache-hit + cache-save) ────
+  assemble_prior:
+    needs: [vars, cache_prior_check, walk_shards_prior]
+    # Run on cache hit (skip work, just upload) OR on successful shard walk.
+    if: >-
+      needs.vars.outputs.prior_period_id != '' &&
+      always() &&
+      (needs.cache_prior_check.outputs.cache_hit == 'true'
+       || needs.walk_shards_prior.result == 'success')
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Restore prior cache (real)
+        id: restore
+        uses: actions/cache/restore@v4
         with:
           path: |
             tmp/${{ needs.vars.outputs.prior_period_id }}.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
-          # Cache key salted with "v4" — bumped 2026-05-21 when the
-          # Organisationseinheit parser was restructured to emit a
-          # structured `assigned_programs` list (Entry 0031). Without a
-          # bump, the old cached courses.json would lack the new field
-          # and the render step's cross-listing fix would have nothing
-          # to work with. Bump the salt whenever a parser-level
-          # breaking change lands so the cache invalidates cleanly.
-          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v4-${{ needs.vars.outputs.iso_month }}
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
           restore-keys: |
-            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v4-
+            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-
 
-      - name: Walk prior period catalogue
-        if: steps.cache_prior.outputs.cache-hit != 'true'
+      - name: Download prior walk-shard artifacts (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true'
+        uses: actions/download-artifact@v4
+        with:
+          pattern: walk-shard-prior-${{ needs.vars.outputs.prior_period_id }}-*
+          path: tmp/shards-out
+          merge-multiple: true
+
+      - name: Merge prior shard subtrees (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true'
         run: |
           mkdir -p tmp
-          python scraper/scrape.py \
-            --period ${{ needs.vars.outputs.prior_period_id }} \
+          shopt -s nullglob
+          FILES=(tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "::error::no prior walk-shard artifacts materialised"
+            exit 1
+          fi
+          python scraper/merge_shards.py \
+            --in "${FILES[@]}" \
             --out tmp/${{ needs.vars.outputs.prior_period_id }}.json \
-            --max-depth ${{ needs.vars.outputs.max_depth }} \
-            --interval 0.2 \
-            --parallel 4 \
-            --checkpoint-every 100 \
             -v
 
-      - name: Fetch prior-period course details
-        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
+      - name: Fetch prior-period course details (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
@@ -269,8 +540,8 @@ jobs:
             --save-every 50 \
             -v
 
-      - name: Sweep Tagesaktuelle for prior period
-        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true'
+      - name: Sweep Tagesaktuelle for prior period (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
         run: |
           python scraper/scrape_tagesaktuelle.py \
@@ -279,8 +550,8 @@ jobs:
             --interval 0.5 \
             -v
 
-      - name: Fetch additional prior-period courses from sweep
-        if: steps.cache_prior.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', needs.vars.outputs.prior_period_id)) != ''
+      - name: Fetch additional prior-period courses from sweep (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-tagesaktuelle.json', needs.vars.outputs.prior_period_id)) != ''
         run: |
           python scraper/fetch_courses.py \
             --in tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json \
@@ -291,12 +562,10 @@ jobs:
             --save-every 50 \
             -v
 
-      - name: Search-walker backfill for prior period
-        # See scrape_current — step-level cap so a slow-Campo day can't
-        # eat the per-job budget. Checkpoints to disk every ~50 queries.
-        if: needs.vars.outputs.with_courses == 'true'
+      - name: Search-walker backfill for prior period (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true'
         continue-on-error: true
-        timeout-minutes: 90
+        timeout-minutes: 60
         run: |
           python scraper/search_walker.py \
             --period ${{ needs.vars.outputs.prior_period_id }} \
@@ -306,10 +575,8 @@ jobs:
             --interval 0.5 \
             -v
 
-      - name: Fetch prior-period courses from search backfill
-        # See scrape_current — parallel=4, 75 min cap (run 26242109232
-        # timed out at parallel=2 with ~8 000 courses to fetch).
-        if: needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.prior_period_id)) != ''
+      - name: Fetch prior-period courses from search backfill (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}-search.json', needs.vars.outputs.prior_period_id)) != ''
         continue-on-error: true
         timeout-minutes: 75
         run: |
@@ -322,9 +589,18 @@ jobs:
             --save-every 50 \
             -v
 
+      - name: Save prior cache (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
+
       - name: Upload prior-period artifacts
-        # See scrape_current — `if: always()` so partial scrapes are
-        # still persisted as artifacts.
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -337,7 +613,7 @@ jobs:
           if-no-files-found: warn
           retention-days: 7
 
-  # ─── Job 4: FAUdir Professor:innen-Index (runs in parallel) ──────────
+  # ─── FAUdir Professor:innen-Index (runs in parallel) ─────────────────
   faudir:
     needs: vars
     runs-on: ubuntu-latest
@@ -374,13 +650,10 @@ jobs:
           if-no-files-found: warn
           retention-days: 7
 
-  # ─── Job 5: render markdown + analyse + commit + zip + Release ───────
+  # ─── Render markdown + analyse + commit + zip + Release ──────────────
   render_and_release:
-    needs: [vars, scrape_current, scrape_prior, faudir]
-    # Continue even if one of the upstream jobs failed (e.g. prior-period
-    # scrape hit a transient Campo issue) — the analyse adapts to whichever
-    # period artifacts are present.
-    if: always() && needs.scrape_current.result == 'success'
+    needs: [vars, assemble_current, assemble_prior, faudir]
+    if: always() && needs.assemble_current.result == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -404,7 +677,7 @@ jobs:
           path: tmp
 
       - name: Download prior-period artifacts
-        if: needs.scrape_prior.result == 'success'
+        if: needs.assemble_prior.result == 'success'
         uses: actions/download-artifact@v4
         with:
           name: scrape-prior-${{ needs.vars.outputs.prior_period_id }}
@@ -491,13 +764,9 @@ jobs:
             -v
 
       - name: Commit corpus changes
-        # Run 26270794853 produced a perfect corpus but lost it: a
-        # devlog commit landed on main during the 6 h scrape, so the
-        # job's checkout was behind and `git push` was rejected. We
-        # only touch `data/` — nothing the human pushes manually — so
-        # a `pull --rebase` is conflict-free in practice. The retry
-        # loop covers the same race repeating during the rebase
-        # (someone else pushes again while we're catching up).
+        # Retry loop for the race window: some other push may land on
+        # main while our multi-hour scrape runs. We only ever touch
+        # data/, so a `pull --rebase` is conflict-free in practice.
         id: commit
         run: |
           git config user.name "github-actions[bot]"
@@ -544,6 +813,7 @@ jobs:
 
             * periodId: ${{ needs.vars.outputs.period_id }}
             * tree max-depth: ${{ needs.vars.outputs.max_depth }}
+            * shard count: ${{ needs.vars.outputs.shard_count }}
             * with course details: ${{ needs.vars.outputs.with_courses }}
             * corpus zip: ${{ steps.zip.outputs.name }} (${{ steps.zip.outputs.size }})
 
