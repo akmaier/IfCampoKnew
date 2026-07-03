@@ -199,13 +199,20 @@ jobs:
             -v
 
       - name: Upload shard-${{ matrix.shard }} subtree
-        # `if: always()` so a partial walk (step timeout) still uploads
-        # whatever was written to disk via checkpoint-every.
+        # `if: always()` — including on job-level timeout — so a partial
+        # walk still uploads what made it to disk. Includes BOTH the
+        # final .json (present only on clean completion) AND the
+        # .checkpoint.json (written every 100 nodes). In parallel mode
+        # scrape.py does NOT convert the checkpoint to a final snapshot
+        # on SIGTERM, so a cancelled shard has only the checkpoint file.
+        # merge_shards.py accepts both shapes.
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: walk-shard-current-${{ needs.vars.outputs.period_id }}-${{ matrix.shard }}
-          path: tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json
+          path: |
+            tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json
+            tmp/${{ needs.vars.outputs.period_id }}-shard-${{ matrix.shard }}.json.checkpoint.json
           if-no-files-found: warn
           retention-days: 1
 
@@ -237,15 +244,33 @@ jobs:
           merge-multiple: true
 
       - name: Merge shard subtrees into one snapshot
+        # For each shard, prefer its final .json snapshot; fall back to
+        # its .checkpoint.json (partial walk, salvaged by merge_shards
+        # via its _load_shard_file normaliser) when the shard was
+        # cancelled by the 6h cap.
         run: |
           mkdir -p tmp
-          # Fold empty-artifact edge case (all shards timed out) into a helpful error.
           shopt -s nullglob
-          FILES=(tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json)
+          declare -a FILES=()
+          for FINAL in tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json; do
+            # Skip glob-matches that are actually the .checkpoint.json themselves
+            case "$FINAL" in *.checkpoint.json) continue ;; esac
+            FILES+=("$FINAL")
+          done
+          # Add checkpoints for shards that have no final .json.
+          for CKPT in tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json.checkpoint.json; do
+            FINAL="${CKPT%.checkpoint.json}"
+            if [ ! -f "$FINAL" ]; then
+              echo "salvaging partial checkpoint: $CKPT"
+              FILES+=("$CKPT")
+            fi
+          done
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "::error::no walk-shard artifacts materialised; cannot merge"
             exit 1
           fi
+          echo "merging ${#FILES[@]} shard input(s):"
+          printf '  %s\n' "${FILES[@]}"
           python scraper/merge_shards.py \
             --in "${FILES[@]}" \
             --out tmp/${{ needs.vars.outputs.period_id }}.json \
@@ -460,11 +485,16 @@ jobs:
             -v
 
       - name: Upload shard-${{ matrix.shard }} subtree
+        # Same as scrape_current: upload both .json AND .json.checkpoint.json
+        # so a shard cancelled by the 6h cap still contributes its partial
+        # progress to the merge step.
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: walk-shard-prior-${{ needs.vars.outputs.prior_period_id }}-${{ matrix.shard }}
-          path: tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json
+          path: |
+            tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json
+            tmp/${{ needs.vars.outputs.prior_period_id }}-shard-${{ matrix.shard }}.json.checkpoint.json
           if-no-files-found: warn
           retention-days: 1
 
@@ -515,15 +545,30 @@ jobs:
           merge-multiple: true
 
       - name: Merge prior shard subtrees (on cache miss)
+        # See assemble_current's merge step — prefer final .json, fall
+        # back to .checkpoint.json for shards cancelled by the 6h cap.
         if: steps.restore.outputs.cache-hit != 'true'
         run: |
           mkdir -p tmp
           shopt -s nullglob
-          FILES=(tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json)
+          declare -a FILES=()
+          for FINAL in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json; do
+            case "$FINAL" in *.checkpoint.json) continue ;; esac
+            FILES+=("$FINAL")
+          done
+          for CKPT in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json.checkpoint.json; do
+            FINAL="${CKPT%.checkpoint.json}"
+            if [ ! -f "$FINAL" ]; then
+              echo "salvaging partial checkpoint: $CKPT"
+              FILES+=("$CKPT")
+            fi
+          done
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "::error::no prior walk-shard artifacts materialised"
             exit 1
           fi
+          echo "merging ${#FILES[@]} shard input(s):"
+          printf '  %s\n' "${FILES[@]}"
           python scraper/merge_shards.py \
             --in "${FILES[@]}" \
             --out tmp/${{ needs.vars.outputs.prior_period_id }}.json \

@@ -217,3 +217,48 @@ def test_merge_end_to_end_via_cli(tmp_path):
 def test_merge_empty_list_raises():
     with pytest.raises(ValueError):
         merge_snapshots([])
+
+
+def test_merge_accepts_checkpoint_shape(tmp_path):
+    """A shard cancelled by the 6h GitHub Actions per-job cap only has
+    its ``.checkpoint.json`` on disk (in parallel mode scrape.py does not
+    convert the checkpoint to a final snapshot on SIGTERM). merge_shards
+    must salvage that partial progress transparently via
+    ``_load_shard_file`` — which detects the checkpoint shape (``nodes``
+    is a dict, plus a ``savedAt`` field) and normalises it before merge.
+    """
+    # A final snapshot (list-nodes) for one shard.
+    snap = _snapshot(nodes=[_node("title:1000"), _node("title:2000")])
+    # A checkpoint (dict-nodes) for another shard — the shape scrape.py
+    # writes via _save_checkpoint. Different segments so the union is
+    # observable.
+    ckpt = {
+        "version": 1,
+        "savedAt": "2026-07-03T20:50:13+00:00",
+        "periodId": 589,
+        "periodName": "Sommersemester 2026",
+        "maxDepth": 9,
+        "rootSegment": "title:1000",
+        "nodes": {
+            "title:3000": _node("title:3000", name="Deep subtree"),
+            "title:4000": _node("title:4000", name="Deeper still"),
+        },
+        "queue": [{"path": ["title:1000", "title:9999"], "depth": 2}],
+    }
+
+    snap_path = tmp_path / "shard-0.json"
+    ckpt_path = tmp_path / "shard-1.json.checkpoint.json"
+    out_path = tmp_path / "merged.json"
+    snap_path.write_text(json.dumps(snap), encoding="utf-8")
+    ckpt_path.write_text(json.dumps(ckpt), encoding="utf-8")
+
+    rc = merge_main([
+        "--in", str(snap_path), str(ckpt_path),
+        "--out", str(out_path),
+    ])
+    assert rc == 0
+    merged = json.loads(out_path.read_text(encoding="utf-8"))
+    segs = {n["segment"] for n in merged["nodes"]}
+    assert segs == {"title:1000", "title:2000", "title:3000", "title:4000"}
+    # maxDepth = max(6, 9) = 9 (final snapshot has default 6, checkpoint is 9)
+    assert merged["maxDepth"] == 9

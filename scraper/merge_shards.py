@@ -75,6 +75,42 @@ def _pick_winner(existing: dict, incoming: dict) -> dict:
 
     return existing
 
+def _load_shard_file(path: Path) -> dict:
+    """Read one shard file, accepting either the final snapshot shape or a
+    mid-walk checkpoint.
+
+    A shard that was cancelled by GitHub Actions' 6h per-job cap only ever
+    wrote its ``.checkpoint.json`` (in parallel mode the walker doesn't
+    convert the checkpoint to a final snapshot on SIGTERM). To salvage
+    that partial progress we accept the checkpoint shape verbatim and
+    normalise it to ``CatalogSnapshot.to_dict()`` shape here:
+
+    * Checkpoint ``nodes`` is a ``{segment: node-dict}`` dict; snapshots
+      use a list. We flatten to a list.
+    * Checkpoint has ``savedAt`` (the last-checkpoint timestamp); the
+      snapshot's ``scrapedAt`` field is what merge expects. We alias.
+    * Checkpoint's ``queue`` is dropped — it's meaningless once merged.
+
+    Detection: ``nodes`` is a dict (checkpoint) vs a list (snapshot).
+    """
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    nodes = raw.get("nodes")
+    if isinstance(nodes, dict):
+        log.info(
+            "%s is a mid-walk checkpoint (%d nodes) — normalising to snapshot shape",
+            path,
+            len(nodes),
+        )
+        raw = {
+            "periodId": raw.get("periodId"),
+            "periodName": raw.get("periodName", ""),
+            "scrapedAt": raw.get("savedAt") or raw.get("scrapedAt", ""),
+            "rootSegment": raw.get("rootSegment"),
+            "maxDepth": raw.get("maxDepth"),
+            "nodes": list(nodes.values()),
+        }
+    return raw
+
 def merge_snapshots(snapshots: list[dict]) -> dict:
     """Merge ``snapshots`` (all in ``CatalogSnapshot.to_dict()`` shape).
 
@@ -172,7 +208,7 @@ def main(argv: list[str] | None = None) -> int:
     snapshots: list[dict] = []
     for path in args.in_paths:
         log.info("reading %s", path)
-        snapshots.append(json.loads(path.read_text(encoding="utf-8")))
+        snapshots.append(_load_shard_file(path))
 
     try:
         merged = merge_snapshots(snapshots)
