@@ -216,12 +216,14 @@ jobs:
           if-no-files-found: warn
           retention-days: 1
 
-  # ─── Current period: merge + fetch + sweep + walker + upload ─────────
-  assemble_current:
+  # ─── Current period: merge walk shards + shard the uid list for fetch ─
+  merge_walk_current:
     needs: [vars, walk_shards_current]
     if: always() && needs.walk_shards_current.result != 'skipped'
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 30
+    outputs:
+      fetch_shard_indices: ${{ steps.emit.outputs.fetch_shard_indices }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -253,11 +255,9 @@ jobs:
           shopt -s nullglob
           declare -a FILES=()
           for FINAL in tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json; do
-            # Skip glob-matches that are actually the .checkpoint.json themselves
             case "$FINAL" in *.checkpoint.json) continue ;; esac
             FILES+=("$FINAL")
           done
-          # Add checkpoints for shards that have no final .json.
           for CKPT in tmp/shards-out/${{ needs.vars.outputs.period_id }}-shard-*.json.checkpoint.json; do
             FINAL="${CKPT%.checkpoint.json}"
             if [ ! -f "$FINAL" ]; then
@@ -276,15 +276,146 @@ jobs:
             --out tmp/${{ needs.vars.outputs.period_id }}.json \
             -v
 
-      - name: Fetch course detail pages (catalogue)
+      - name: Split unit-id list into fetch shards
         if: needs.vars.outputs.with_courses == 'true'
         run: |
-          python scraper/fetch_courses.py \
+          python scraper/shard_fetch.py \
             --in tmp/${{ needs.vars.outputs.period_id }}.json \
-            --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
-            --parallel 2 \
+            --shards ${{ needs.vars.outputs.shard_count }} \
+            --out-dir tmp/fetch-shards \
+            -v
+          ls -la tmp/fetch-shards
+
+      - name: Emit fetch-shard indices matrix output
+        id: emit
+        run: |
+          if [ "${{ needs.vars.outputs.with_courses }}" != "true" ]; then
+            echo "fetch_shard_indices=[]" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          COUNT=$(ls tmp/fetch-shards/${{ needs.vars.outputs.period_id }}-fetch-shard-*.json | wc -l | tr -d ' ')
+          INDICES=$(python -c "import json; print(json.dumps(list(range($COUNT))))")
+          echo "fetch_shard_indices=$INDICES" >> "$GITHUB_OUTPUT"
+          echo "will spawn $COUNT fetch_shard jobs: $INDICES"
+
+      - name: Upload merged tree + fetch-shard snapshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-walk-current-${{ needs.vars.outputs.period_id }}
+          path: |
+            tmp/${{ needs.vars.outputs.period_id }}.json
+            tmp/fetch-shards/*
+          if-no-files-found: warn
+          retention-days: 3
+
+  # ─── Current period: matrix fetch (one job per uid slice) ────────────
+  fetch_shards_current:
+    needs: [vars, merge_walk_current]
+    if: >-
+      always()
+      && needs.merge_walk_current.result == 'success'
+      && needs.vars.outputs.with_courses == 'true'
+      && needs.merge_walk_current.outputs.fetch_shard_indices != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.merge_walk_current.outputs.fetch_shard_indices) }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download merged tree + fetch-shard snapshots
+        uses: actions/download-artifact@v4
+        with:
+          name: merged-walk-current-${{ needs.vars.outputs.period_id }}
+          path: tmp
+
+      - name: Fetch course detail pages for shard ${{ matrix.shard }}
+        # parallel=4 doubles the throughput of the old single-node fetch
+        # (which was --parallel 2). At 8 shards × 4 workers we've split
+        # the total work by ~16× vs the pre-shard monolith.
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/fetch-shards/${{ needs.vars.outputs.period_id }}-fetch-shard-${{ matrix.shard }}.json \
+            --out tmp/${{ needs.vars.outputs.period_id }}-fetch-shard-${{ matrix.shard }}-courses.json \
+            --parallel 4 \
             --interval 0.2 \
-            --save-every 50 \
+            --save-every 100 \
+            -v
+
+      - name: Upload fetch-shard-${{ matrix.shard }} courses
+        # `if: always()` so a partial fetch (step timeout) still uploads
+        # what was written via --save-every 100.
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-shard-current-${{ needs.vars.outputs.period_id }}-${{ matrix.shard }}
+          path: tmp/${{ needs.vars.outputs.period_id }}-fetch-shard-${{ matrix.shard }}-courses.json
+          if-no-files-found: warn
+          retention-days: 3
+
+  # ─── Current period: merge courses + sweep + walker + upload ─────────
+  assemble_current:
+    needs: [vars, merge_walk_current, fetch_shards_current]
+    if: >-
+      always()
+      && needs.merge_walk_current.result == 'success'
+      && needs.fetch_shards_current.result != 'skipped'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download merged tree
+        uses: actions/download-artifact@v4
+        with:
+          name: merged-walk-current-${{ needs.vars.outputs.period_id }}
+          path: tmp
+
+      - name: Download all fetch-shard courses
+        uses: actions/download-artifact@v4
+        with:
+          pattern: fetch-shard-current-${{ needs.vars.outputs.period_id }}-*
+          path: tmp/courses-out
+          merge-multiple: true
+
+      - name: Merge fetch-shard courses into one courses.json
+        run: |
+          shopt -s nullglob
+          FILES=(tmp/courses-out/${{ needs.vars.outputs.period_id }}-fetch-shard-*-courses.json)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "::error::no fetch-shard courses materialised; cannot merge"
+            exit 1
+          fi
+          echo "merging ${#FILES[@]} fetch-shard courses.json input(s):"
+          printf '  %s\n' "${FILES[@]}"
+          python scraper/merge_courses.py \
+            --in "${FILES[@]}" \
+            --out tmp/${{ needs.vars.outputs.period_id }}-courses.json \
             -v
 
       - name: Sweep Tagesaktuelle Veranstaltungen for the semester
@@ -498,15 +629,162 @@ jobs:
           if-no-files-found: warn
           retention-days: 1
 
-  # ─── Prior period: assemble (also handles cache-hit + cache-save) ────
-  assemble_prior:
+  # ─── Prior period: merge walk shards + shard the uid list for fetch ──
+  merge_walk_prior:
     needs: [vars, cache_prior_check, walk_shards_prior]
-    # Run on cache hit (skip work, just upload) OR on successful shard walk.
     if: >-
-      needs.vars.outputs.prior_period_id != '' &&
-      always() &&
-      (needs.cache_prior_check.outputs.cache_hit == 'true'
-       || needs.walk_shards_prior.result == 'success')
+      needs.vars.outputs.prior_period_id != ''
+      && needs.cache_prior_check.outputs.cache_hit != 'true'
+      && always()
+      && needs.walk_shards_prior.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      fetch_shard_indices: ${{ steps.emit.outputs.fetch_shard_indices }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download prior walk-shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: walk-shard-prior-${{ needs.vars.outputs.prior_period_id }}-*
+          path: tmp/shards-out
+          merge-multiple: true
+
+      - name: Merge prior shard subtrees
+        # See merge_walk_current — prefer final .json, fall back to
+        # .checkpoint.json for shards cancelled by the 6h cap.
+        run: |
+          mkdir -p tmp
+          shopt -s nullglob
+          declare -a FILES=()
+          for FINAL in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json; do
+            case "$FINAL" in *.checkpoint.json) continue ;; esac
+            FILES+=("$FINAL")
+          done
+          for CKPT in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json.checkpoint.json; do
+            FINAL="${CKPT%.checkpoint.json}"
+            if [ ! -f "$FINAL" ]; then
+              echo "salvaging partial checkpoint: $CKPT"
+              FILES+=("$CKPT")
+            fi
+          done
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "::error::no prior walk-shard artifacts materialised"
+            exit 1
+          fi
+          echo "merging ${#FILES[@]} shard input(s):"
+          printf '  %s\n' "${FILES[@]}"
+          python scraper/merge_shards.py \
+            --in "${FILES[@]}" \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}.json \
+            -v
+
+      - name: Split prior-period unit-id list into fetch shards
+        if: needs.vars.outputs.with_courses == 'true'
+        run: |
+          python scraper/shard_fetch.py \
+            --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
+            --shards ${{ needs.vars.outputs.shard_count }} \
+            --out-dir tmp/fetch-shards \
+            -v
+
+      - name: Emit prior fetch-shard indices matrix output
+        id: emit
+        run: |
+          if [ "${{ needs.vars.outputs.with_courses }}" != "true" ]; then
+            echo "fetch_shard_indices=[]" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          COUNT=$(ls tmp/fetch-shards/${{ needs.vars.outputs.prior_period_id }}-fetch-shard-*.json | wc -l | tr -d ' ')
+          INDICES=$(python -c "import json; print(json.dumps(list(range($COUNT))))")
+          echo "fetch_shard_indices=$INDICES" >> "$GITHUB_OUTPUT"
+
+      - name: Upload merged prior tree + fetch-shard snapshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-walk-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: |
+            tmp/${{ needs.vars.outputs.prior_period_id }}.json
+            tmp/fetch-shards/*
+          if-no-files-found: warn
+          retention-days: 3
+
+  # ─── Prior period: matrix fetch (one job per uid slice) ──────────────
+  fetch_shards_prior:
+    needs: [vars, cache_prior_check, merge_walk_prior]
+    if: >-
+      always()
+      && needs.vars.outputs.prior_period_id != ''
+      && needs.cache_prior_check.outputs.cache_hit != 'true'
+      && needs.merge_walk_prior.result == 'success'
+      && needs.vars.outputs.with_courses == 'true'
+      && needs.merge_walk_prior.outputs.fetch_shard_indices != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJson(needs.merge_walk_prior.outputs.fetch_shard_indices) }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Download merged prior tree + fetch-shard snapshots
+        uses: actions/download-artifact@v4
+        with:
+          name: merged-walk-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: tmp
+
+      - name: Fetch prior course details for shard ${{ matrix.shard }}
+        run: |
+          python scraper/fetch_courses.py \
+            --in tmp/fetch-shards/${{ needs.vars.outputs.prior_period_id }}-fetch-shard-${{ matrix.shard }}.json \
+            --out tmp/${{ needs.vars.outputs.prior_period_id }}-fetch-shard-${{ matrix.shard }}-courses.json \
+            --parallel 4 \
+            --interval 0.2 \
+            --save-every 100 \
+            -v
+
+      - name: Upload prior fetch-shard-${{ matrix.shard }} courses
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-shard-prior-${{ needs.vars.outputs.prior_period_id }}-${{ matrix.shard }}
+          path: tmp/${{ needs.vars.outputs.prior_period_id }}-fetch-shard-${{ matrix.shard }}-courses.json
+          if-no-files-found: warn
+          retention-days: 3
+
+  # ─── Prior period: assemble (cache-hit short-circuit OR merge+finish) ─
+  assemble_prior:
+    needs: [vars, cache_prior_check, merge_walk_prior, fetch_shards_prior]
+    if: >-
+      needs.vars.outputs.prior_period_id != ''
+      && always()
+      && (needs.cache_prior_check.outputs.cache_hit == 'true'
+          || needs.fetch_shards_prior.result != 'skipped')
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
@@ -536,53 +814,35 @@ jobs:
           restore-keys: |
             campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-
 
-      - name: Download prior walk-shard artifacts (on cache miss)
+      - name: Download merged prior tree (on cache miss)
         if: steps.restore.outputs.cache-hit != 'true'
         uses: actions/download-artifact@v4
         with:
-          pattern: walk-shard-prior-${{ needs.vars.outputs.prior_period_id }}-*
-          path: tmp/shards-out
+          name: merged-walk-prior-${{ needs.vars.outputs.prior_period_id }}
+          path: tmp
+
+      - name: Download all prior fetch-shard courses (on cache miss)
+        if: steps.restore.outputs.cache-hit != 'true'
+        uses: actions/download-artifact@v4
+        with:
+          pattern: fetch-shard-prior-${{ needs.vars.outputs.prior_period_id }}-*
+          path: tmp/courses-out
           merge-multiple: true
 
-      - name: Merge prior shard subtrees (on cache miss)
-        # See assemble_current's merge step — prefer final .json, fall
-        # back to .checkpoint.json for shards cancelled by the 6h cap.
+      - name: Merge prior fetch-shard courses (on cache miss)
         if: steps.restore.outputs.cache-hit != 'true'
         run: |
-          mkdir -p tmp
           shopt -s nullglob
-          declare -a FILES=()
-          for FINAL in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json; do
-            case "$FINAL" in *.checkpoint.json) continue ;; esac
-            FILES+=("$FINAL")
-          done
-          for CKPT in tmp/shards-out/${{ needs.vars.outputs.prior_period_id }}-shard-*.json.checkpoint.json; do
-            FINAL="${CKPT%.checkpoint.json}"
-            if [ ! -f "$FINAL" ]; then
-              echo "salvaging partial checkpoint: $CKPT"
-              FILES+=("$CKPT")
-            fi
-          done
+          FILES=(tmp/courses-out/${{ needs.vars.outputs.prior_period_id }}-fetch-shard-*-courses.json)
           if [ ${#FILES[@]} -eq 0 ]; then
-            echo "::error::no prior walk-shard artifacts materialised"
+            echo "::error::no prior fetch-shard courses materialised"
             exit 1
           fi
-          echo "merging ${#FILES[@]} shard input(s):"
+          echo "merging ${#FILES[@]} prior fetch-shard courses.json input(s):"
           printf '  %s\n' "${FILES[@]}"
-          python scraper/merge_shards.py \
+          python scraper/merge_courses.py \
             --in "${FILES[@]}" \
-            --out tmp/${{ needs.vars.outputs.prior_period_id }}.json \
-            -v
-
-      - name: Fetch prior-period course details (on cache miss)
-        if: steps.restore.outputs.cache-hit != 'true' && needs.vars.outputs.with_courses == 'true' && hashFiles(format('tmp/{0}.json', needs.vars.outputs.prior_period_id)) != ''
-        run: |
-          python scraper/fetch_courses.py \
-            --in tmp/${{ needs.vars.outputs.prior_period_id }}.json \
             --out tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json \
-            --parallel 2 \
-            --interval 0.2 \
-            --save-every 50 \
             -v
 
       - name: Sweep Tagesaktuelle for prior period (on cache miss)
