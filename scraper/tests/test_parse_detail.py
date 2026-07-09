@@ -170,10 +170,16 @@ def test_org_row_classifier_program_vs_lehrstuhl():
     """The classifier separates pipe-shaped program rows from free-form
     Lehrstuhl/Institut rows, even when the Lehrstuhl name contains
     parentheses (which look like a role suffix to a naive parser).
+
+    Also covers Campo's mid-2026 faculty-prefix rename from
+    ``TechFak`` / ``PhilFak`` / ``NatFak`` / ``ReWiFak`` / … to
+    ``FAU Tech`` / ``FAU Phil`` / ``FAU Nat`` / ``FAU ReWi`` / … — a
+    quiet rename that broke every course's ``assigned_programs`` list
+    on run 28963432803 until the classifier accepted both spellings.
     """
     from parse_detail import _parse_org_row  # noqa: WPS433
 
-    # Program row
+    # Old-style program row
     r = _parse_org_row(
         "TechFak | Medizintechnik | Master of Science (Verantwortlicher)"
     )
@@ -183,19 +189,35 @@ def test_org_row_classifier_program_vs_lehrstuhl():
     assert r["degree"] == "Master of Science"
     assert r["role"] == "Verantwortlicher"
 
-    # ReWiFak — the faculty token list is a `\w+Fak` regex, not a fixed
-    # allowlist. This test pins that change in place.
+    # Old-style ReWiFak — pinned by a prior test to make sure the
+    # `\w+Fak` fallback survives.
     r = _parse_org_row("ReWiFak | Economics | Master of Science (Verantwortlicher)")
     assert r["kind"] == "program"
     assert r["faculty"] == "ReWiFak"
+
+    # New-style "FAU Tech" — Campo renamed the prefix mid-2026. Without
+    # this the classifier drops the row into "org" and every course's
+    # cross-listing map ends up empty.
+    r = _parse_org_row(
+        "FAU Tech | Medizintechnik | Master of Science (Verantwortlicher)"
+    )
+    assert r["kind"] == "program", (
+        "FAU Tech prefix regressed — assigned_programs will silently "
+        "go empty for every course. See run 28963432803."
+    )
+    assert r["faculty"] == "FAU Tech"
+    assert r["program"] == "Medizintechnik"
+
+    for prefix in ("FAU Phil", "FAU Nat", "FAU ReWi", "FAU Med", "FAU Theol"):
+        r = _parse_org_row(f"{prefix} | Some Program | Master of Science")
+        assert r["kind"] == "program", f"new-style {prefix!r} not recognised"
+        assert r["faculty"] == prefix
 
     # Lehrstuhl with parens in the name + role suffix in parens at the end
     r = _parse_org_row(
         "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)"
     )
     assert r["kind"] == "org"
-    # Role suffix is stripped from `name`, but the parenthetical
-    # disambiguator inside the Lehrstuhl name is preserved.
     assert r["name"] == "Lehrstuhl für Informatik 5 (Mustererkennung)"
     assert r["role"] == "Verantwortlicher"
 

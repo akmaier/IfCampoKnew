@@ -95,15 +95,24 @@ def _parse_basic(html: str) -> dict:
 # Campo's Organisationseinheit value is a <ul> with one <li> per row. Each
 # row is one of:
 #   * a home Lehrstuhl,      e.g.  "Lehrstuhl für Informatik 5 (Mustererkennung) (Verantwortlicher)"
-#   * a cross-listed program, e.g. "TechFak | Medizintechnik | Master of Science (Verantwortlicher)"
+#   * a cross-listed program, e.g. "FAU Tech | Medizintechnik | Master of Science (Verantwortlicher)"
 # Program rows always have a stable `Fakultät | Programm | Abschluss`
 # pipe-separated shape; the role suffix in parens is optional. Faculty
-# strings vary (TechFak / PhilFak / ReWiFak / NatFak / MedFak / TheolFak /
-# FB Pharmazie / ZUV / FAU-weit / …) — we recognise them by the trailing
-# "Fak"/"FB"/"Fachbereich" stem rather than a fixed allowlist.
-_FACULTY_TOKEN_RE = re.compile(
-    r"^(?:[A-Za-z]+Fak|FB\s|Fachbereich\s|ZUV|ZiWiS|FAU|Lehrstuhl|Institut|FB)\b",
-    re.IGNORECASE,
+# strings vary and Campo has re-styled them a few times:
+#   * old  (through mid-2026):    TechFak / PhilFak / ReWiFak / NatFak / MedFak / TheolFak
+#   * new  (2026-07+):            FAU Tech / FAU Phil / FAU ReWi / FAU Nat / FAU Med / FAU Theol
+#   * always:                     FB Pharmazie / Fachbereich Theologie / ZUV / ZiWiS
+# We accept both styles.
+_FACULTY_ROW_RE = re.compile(
+    r"""
+    ^(?:
+        FAU\s+(?:Tech|Phil|ReWi|Nat|Med|Theol|Wi)          # new-style prefix
+        | [A-Za-z]+Fak                                       # old-style ...Fak
+        | (?:FB|Fachbereich)\s+[A-Z]                         # FB Pharmazie / Fachbereich X
+        | ZUV | ZiWiS                                        # institutional stems
+    )\b
+    """,
+    re.VERBOSE,
 )
 _ROLE_PAREN_RE = re.compile(
     r"\s*\(\s*("
@@ -134,11 +143,12 @@ def _parse_org_row(text: str) -> dict:
     main = _ROLE_PAREN_RE.sub("", text).strip() if role else text
     parts = [p.strip() for p in main.split("|")]
     # A program row has exactly 3 pipe-separated parts where the first one
-    # *looks* like a faculty token (e.g. "TechFak", "ReWiFak", "FB Theologie").
-    # The faculty-token check guards against pipes inside a Lehrstuhl name
-    # that happen to produce three parts — those won't start with a faculty
-    # token and stay classified as "org".
-    if len(parts) == 3 and _FACULTY_TOKEN_RE.match(parts[0]) and "Fak" in parts[0]:
+    # *looks* like a faculty token (e.g. "TechFak" old-style, "FAU Tech"
+    # new-style, "FB Theologie", "Fachbereich Physik"). The regex above
+    # covers both spellings; without a match the row stays classified as
+    # "org" (a Lehrstuhl/Institut name that happens to contain pipes will
+    # not start with a faculty stem).
+    if len(parts) == 3 and _FACULTY_ROW_RE.match(parts[0]):
         return {
             "raw": text,
             "kind": "program",
