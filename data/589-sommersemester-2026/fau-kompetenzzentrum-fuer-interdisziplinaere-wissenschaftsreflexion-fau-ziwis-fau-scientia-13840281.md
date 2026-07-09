@@ -37,23 +37,6 @@ _Section: FAU Scientia Gaststudium_
 | Einzeltermin | Fr | 14:00–18:00 | 12.06.2026 | — |
 | Einzeltermin | Mi | 14:00–16:00 | 23.09.2026 | — |
 
-### "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten - Kurs
-
-- **Segment:** `exam:13840294` · **unitId:** `90285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840281|exam:13840294>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90285&periodId=589>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
-
 ### Interkulturelle Kompetenz: Theoretische und praktische Grundlagen - Seminar
 
 - **Segment:** `exam:13840284` · **unitId:** `91821`
@@ -91,6 +74,23 @@ _Section: FAU Scientia Gaststudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05801.02.110 ( A 401) |
+
+### Ohne Lampenfieber überzeugend und sicher auftreten - Kurs
+
+- **Segment:** `exam:13840294` · **unitId:** `90285`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13840281|exam:13840294>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90285&periodId=589>
+
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
 
 ### Stimmbildung und Sprecherziehung - Kurs
 

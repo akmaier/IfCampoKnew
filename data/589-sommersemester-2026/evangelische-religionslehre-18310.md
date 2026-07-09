@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18310"
 campo_path: "title:17593|title:17595|title:18310"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310"
-po_version_count: 12
+po_version_count: 0
 course_count: 0
 ---
 
@@ -13,68 +13,6 @@ course_count: 0
 **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310>
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
-
-## Prüfungsordnungs-Versionen (12)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15191993`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15191991|exam:15191992|exam:15191993>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192010`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192008|exam:15192009|exam:15192010>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192029`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192026|exam:15192028|exam:15192029>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192208`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192205|exam:15192207|exam:15192208>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192592`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192590|exam:15192591|exam:15192592>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192854`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192852|exam:15192853|exam:15192854>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192884`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192882|exam:15192883|exam:15192884>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15192917`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15192914|exam:15192916|exam:15192917>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15193094`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15193091|exam:15193093|exam:15193094>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15193268`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15193266|exam:15193267|exam:15193268>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15193470`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15193468|exam:15193469|exam:15193470>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15193670`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18310|exam:15193668|exam:15193669|exam:15193670>
 
 ## Lehramts-Prüfungsordnungen
 

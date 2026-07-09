@@ -27,23 +27,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
-### "Lampenfieber ade!": Überzeugend und sicher vor anderen auftreten - Kurs
-
-- **Segment:** `exam:13577680` · **unitId:** `90285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17332|title:17568|exam:13577680>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90285&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
-
 ### (Inter)nationale Mediengenres reflektieren - Kurs
 
 - **Segment:** `exam:13579901` · **unitId:** `122395`
@@ -341,6 +324,23 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 - **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
+### Ohne Lampenfieber überzeugend und sicher auftreten - Kurs
+
+- **Segment:** `exam:13577680` · **unitId:** `90285`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17332|title:17568|exam:13577680>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90285&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:15–13:45 | 14.10.2025–03.02.2026 | 54201.03.002 ( Übungsraum III/2 Studienzentrum) |
+
 ### Orientierungshäppchen für Erstsemester - Sonstige Lehrveranstaltung
 
 - **Segment:** `exam:13607579` · **unitId:** `130880`
@@ -409,6 +409,16 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:00–17:30 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
+### Software für Blinde und Sehbehinderte - Kurs
+
+- **Segment:** `exam:13579765` · **unitId:** `130403`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17332|title:17572|exam:13579765>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130403&periodId=565>
+
+- **Veranstaltungsart:** Kurs
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
 ### Stimmbildung und Sprecherziehung - Kurs
 
 - **Segment:** `exam:13577678` · **unitId:** `88194`
@@ -461,16 +471,6 @@ _Section: Allgemeiner Wahlbereich inklusive Schlüsselqualifikationen und Sprach
 | Einzeltermin | Do | 09:00–09:30 | 04.12.2025 | — |
 | Einzeltermin | Fr | 09:30–17:30 | 09.01.2026 | — |
 | Einzeltermin | Sa | 09:30–17:00 | 10.01.2026 | 05902.00.015 ( 00.15 PSG) |
-
-### Visual Basic for Applications für Blinde und Sehbehinderte - Kurs
-
-- **Segment:** `exam:13579765` · **unitId:** `130403`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16760|title:17332|title:17572|exam:13579765>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130403&periodId=565>
-
-- **Veranstaltungsart:** Kurs
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
 
 ### Wissenschaft im Mittelalter - Seminar
 

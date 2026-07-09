@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:17584"
 campo_path: "title:16758|title:16768|title:17584"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584"
-po_version_count: 1
-course_count: 0
+po_version_count: 0
+course_count: 11
 fau_studiengang:
   - title: "Zahnerhaltung (M.Sc.)"
     rel_path: "studiengang/zahnerhaltung-m-sc.md"
@@ -54,7 +54,237 @@ In den ersten vier Semestern werden die Fächer der Zahnerhaltung gelehrt: Resta
 
 Die Prüfungen werden anhand der Falldokumentationen als Falldiskussionen durchgeführt.
 
+Fallpräsentationen Montags ab 8:30 – 9:00 Uhr.
+
+Theorieunterrichts Montags ab 17.00 Uhr.
+
+Praktische Kurse in der Regel Freitags.
+
 Die Referentinnen und Referenten kommen aus der Klinik für Zahnerhaltung und Parodontologie des Universitätsklinikums Erlangen. Es werden aber auch externe, in ihrem Fachgebiet ausgewiesene Expertinnen und Experten sprechen.
+
+**INHALTE DER EINZELNEN MODULE**
+
+**Modul Restaurative Zahnerhaltung**
+
+Themen (Theorie):
+
+Allgemeinmedizinischen Aspekte bei der zahnärztlichen Behandlung und Verhalten im Notfall
+
+          Karies – Diagnostische Herausforderungen, Hilfsmittel und therapeutische        Konsequenzen
+
+          Der adhäsive Verbund und Fehlervermeidung bei der Adhäsivtechnik
+
+          R2-Technik
+
+          Die Kunst der ästhetischen Restauration
+
+          Komposite aus materialwissenschaftlicher Sicht
+
+          Biokompatibilität vs. Zytotoxizität von Dentalmaterialien
+
+          Die Versorgung nicht-kariöser Zahnhartsubstanzdefekte
+
+          Indirekte Restaurationen – Konzepte, Präparation und digitaler Workflow
+
+          Indirekte Restaurationen – Indikationsbezogene Materialauswahl
+
+          Der Zahn der Zeit: Neuanfertigung oder Reparatur?
+
+Themen (Praktischer Teil):
+
+Kompositschichttechnik
+
+Margin Elevation: R2 – Technik
+
+Digitaler Workflow bei Indirekten Restaurationen
+
+ReferentInnen:
+
+Prof. Dr. Kerstin Galler, Erlangen
+
+Prof. Dr. Matthias Pelka, Erlangen
+
+PD Dr. Michael Taschner, Erlangen
+
+PD Dr. Eva Maier, Erlangen
+
+PD Dr. Jose Zorzin, Erlangen
+
+PD Dr. Julia Lubauer, Erlangen
+
+Dr. Ella Ohlsson, Erlangen
+
+Dr. Anton Pelka, Leipzig
+
+Prof. Dr. Cornelia Frese, Heidelberg
+
+Prof. Dr. Roland Frankenberger, Marburg
+
+**Modul Endodontologie**
+
+Themen (Theorie):
+
+          Pulpabiologie und Pathologie
+
+          Diagnostik und Behandlungsplanung
+
+Übersicht über die endodontische Therapie:
+
+          Vorbereitung der endodontischen Behandlung
+
+          Vitalerhaltende Maßnahmen
+
+Endodontische Zugangskavität
+
+Wurzelkanalaufbereitung
+
+Obturation
+
+          Endodontische Sekundärbehandlung
+
+Fehlervermeidung bei der endodontischen Behandlung
+
+Dentale Traumatologie – Verletzungsarten
+
+Dentale Traumatologie – Therapie
+
+Postendodontische Versorgung
+
+Themen (Praktischer Teil)
+
+          Einweisung in des Operationsmikroskop und Endodontische Zugangskavität
+
+          Wurzelkanalaufbereitung
+
+          Obturation
+
+          Postendodontische Versorgung
+
+ReferentInnen:
+
+Prof. Dr. Kerstin Galler, Erlangen
+
+PD Dr. Christine Berthold, Erlangen und Regina, Kanada
+
+PD Dr. Eva Maier, Erlangen
+
+PD Dr. Jose Zorzin, Erlangen
+
+Dr. Bernard Bengs, Berlin
+
+Dr. Ralf Schlichting, Passau
+
+Prof. Dr. Matthias Widbiller, Regensburg
+
+Dipl. Stom. Michael Arnold, Dresden
+
+**Modul Präventive und Kinderzahnmedizin**
+
+Themen (Theorie):
+
+Prophylaxe und Prävention im Erwachsenenalter und im hohen Alter
+
+Orale Manifestationen von Erkrankungen bei Kindern und Jugendlichen
+
+Anatomie im Milch- und Wechselgebiss, Entwicklungsstörungen und Anomalien
+
+Kariesverteilung/ Epidemiologie
+
+ECC und Kariesdiagnostik, Fluoride in der Kinderzahnmedizin, Non-invasive Verfahren der Kariestherapie (SDF)
+
+FUs und IPs, Fissurenversiegelung
+
+Trockenlegung, Matrizentechnik und Füllungstherapie im Milch- und Wechselgebiss
+
+Molaren-Inzisiven-Hypomineralisation (MIH)
+
+Endodontische Maßnahmen im Milch- und Wechselgebiss
+
+Anästhesie, Sedierung und ITN in der Kinderzahnmedizin
+
+Trauma im Milch- und Wechselgebiss
+
+Psychologische Verhaltensführung, Kommunikation und Elternmanagement
+
+Themen (Praktischer Teil):
+
+Restaurationen im Milchgebiss
+
+Kommunikation und Ritualisierte Verhaltensführung, Lachgas Schnupperkurs
+
+ReferentInnen:
+
+Prof. Dr. Kerstin Galler, Erlangen
+
+Prof. Dr. Matthias Pelka, Erlangen
+
+PD Dr. Michael Taschner, Erlangen
+
+PD Dr. Eva Maier, Erlangen
+
+Prof. Dr. Cornelia Frese, Heidelberg
+
+Prof. Dr. Jan Kühnisch, München
+
+Prof. Dr. Norbert Krämer, Gießen
+
+PD Dr. Nelly Schulz-Weidner, Gießen
+
+**Modul Parodontologie**
+
+Themen (Theorie):
+
+Patientenanamnese, Patientenaufklärung, Dokumentation und rechtliche Aspekte
+
+Ätiologie und Pathogenese: Strukturbiologische Grundlagen, Biofilm und Host Response
+
+Klassifikation der Parodontitis, Diagnostik, Dokumentation und Behandlungsplanung
+
+Möglichkeiten der nicht-chirurgischen Parodontitistherapie: Antiinfektiöse Therapie, systemische und lokale Antibiose
+
+Reevaluation, Nachsorge (Unterstützende Parodontitistherapie) und Therapie spezieller Erkrankungsformen
+
+Indikationsstellung, Planung und Umsetzung parodontalchirurgischer Verfahren: resektive und regenerative Maßnahmen
+
+Plastisch-ästhetische Parodontalchirurgie (Rezessionen)
+
+Parodontitis und Allgemeingesundheit
+
+Alles vererbt? – Genetische Aspekte von Häufigem und Seltenem in der PA
+
+Schnittstelle Parodontologie und Prothetik: Implantation und Zahnersatz im PA-geschädigten Gebiss aus prothetischer Sicht
+
+Schnittstelle Parodontologie und Kieferorthopädie: Gemeinsame Behandlungsplanung bei komplexeren Fällen
+
+Themen (Praktischer Teil):
+
+Supra- und subgingivale Instrumentierung
+
+Parodontalchirurgische Übungen I (am Schweinekiefer)
+
+Resektive und regenerative Parodontalchirurgie
+
+Parodontalchirurgische Übungen II (am Schweinekiefer)
+
+Plastisch-ästhetische Parodontalchirurgie
+
+ReferentInnen:
+
+Prof. Dr. Kerstin Galler, Erlangen
+
+Prof. Dr. Matthias Pelka, Erlangen
+
+PD Dr. Julia Lubauer, Erlangen
+
+Prof. Dr. Lina Gölz, Erlangen
+
+PD Dr. Anna Seidel, Erlangen
+
+Prof. Dr. Ines Kapferer-Seebacher, Innsbruck
+
+Prof. Dr. Philipp Sahrmann, Basel
+
+Prof. Dr. Yvonne Jockel-Schneider, Würzburg
 
 ##### Studienrichtungen und Schwerpunkte
 
@@ -84,11 +314,6 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 * Master: Qualifikationsfeststellungsverfahren
 
-##### Bewerbungsfrist
-
-* Wintersemester: 29.07.
-* Sommersemester: nicht möglich
-
 ##### Sprachkenntnisse
 
 * Deutschkenntnisse für internationale Studierende: [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
@@ -101,11 +326,11 @@ Die Voraussetzung für die Zulassung zum Studiengangs sind
 2. eine mindestens einjährige qualifizierte berufspraktische Erfahrung als Zahnärztin bzw. Zahnarzt und
 3. das Bestehen des Qualifikationsfeststellungsverfahrens.
 
-sh. Studienordnung <https://www.doc.zuv.fau.de//L1/PO/Med/Zahnerhaltung/konsolidierte_Fassungen/Weiterbildungsstudiengang_Zahnerhaltung_StuPO_ZahnE_20250131.pdf>
+siehe Studienordnung
 
 ##### Details und Anmerkungen
 
-Die Zugangsvoraussetzungen <https://www.med.fau.de/studium/master-zahnerhaltung/#collapse_4> und das Bewerbungsverfahren <https://www.med.fau.de/studium/master-zahnerhaltung/#collapse_5> werden auf der [Webseite des Studiengangs](https://www.med.fau.de/studium/master-zahnerhaltung/#collapse_4) beschrieben.
+Die Zugangsvoraussetzungen und das Bewerbungsverfahren werden auf der [Webseite des Studiengangs](https://www.med.fau.de/studium/master-zahnerhaltung) beschrieben.
 
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
@@ -151,7 +376,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 #### Externe Links
 
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
-- [Webseite des Studiengangs](https://www.med.fau.de/studium/master-zahnerhaltung/#collapse_4)
+- [Webseite des Studiengangs](https://www.med.fau.de/studium/master-zahnerhaltung)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 - [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
 - [Direkt zum Bewerbungsportal](https://www.campo.fau.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?sessionlanguage=de&page=Bewerber/-innen)
@@ -175,21 +400,98 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (1)
+## Veranstaltungen (11)
 
-### 2000 Gesamtkonto
+### Endodontologie - Vorlesung mit Übung
 
-- **Campo-Segment:** `exam:13727890`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890>
-
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1)
-
-_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Parodontologie — Vorlesung mit Übung
-
-- **Segment:** `unit:135490` · **unitId:** `135490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135490&periodId=565>
+- **Segment:** `exam:15795151` · **unitId:** `135464`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727901|exam:15795151>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135464&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** jedes 4. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 17:00–18:00 | 13.10.2025–02.02.2026 | — |
+
+### 1999 Masterarbeit (M.Sc. Zahnerhaltung (berufsbegleitender Weiterbildungsstudiengang) 20252)
+
+- **Segment:** `exam:13727911` · **unitId:** `131939`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727911>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131939&periodId=565>
+
+### 26000 Restaurative Zahnerhaltung
+
+- **Segment:** `exam:13727891` · **unitId:** `131918`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727891>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131918&periodId=565>
+
+### 26005 Patientenbehandlung I
+
+- **Segment:** `exam:13727894` · **unitId:** `131921`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727894>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131921&periodId=565>
+
+### 26010 Parodontologie
+
+- **Segment:** `exam:13727896` · **unitId:** `131923`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727896>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131923&periodId=565>
+
+### 26015 Patientenbehandlung II
+
+- **Segment:** `exam:13727899` · **unitId:** `131925`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727899>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131925&periodId=565>
+
+### 26025 Patientenbehandlung III
+
+- **Segment:** `exam:13727904` · **unitId:** `131931`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727904>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131931&periodId=565>
+
+### 26030 Präventive und Kinderzahnmedizin
+
+- **Segment:** `exam:13727906` · **unitId:** `131933`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727906>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131933&periodId=565>
+
+### 26035 Patientenbehandlung IV
+
+- **Segment:** `exam:13727909` · **unitId:** `131936`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727909>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131936&periodId=565>
+
+### 60201 Endodontologie (Fallpräsentation) - Leistung
+
+- **Segment:** `exam:13727902` · **unitId:** `131928`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727901|exam:13727902>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131928&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–10:00 | — | — |
+
+### 60202 Endodontologie (Fachgespräch) - Leistung
+
+- **Segment:** `exam:13727903` · **unitId:** `131929`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16768|title:17584|exam:13727888|exam:13727889|exam:13727890|exam:13727901|exam:13727903>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131929&periodId=565>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–10:00 | — | — |

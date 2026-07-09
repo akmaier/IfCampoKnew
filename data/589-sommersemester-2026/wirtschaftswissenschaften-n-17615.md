@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17615"
 campo_path: "title:17593|title:17603|title:17615"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615"
-po_version_count: 6
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Wirtschaftswissenschaften (B.A.)"
@@ -44,7 +44,7 @@ Der Bachelorstudiengang Wirtschaftswissenschaften bereitet auf eine Karriere in 
 
 Das Bachelorstudium an der WiSo in Nürnberg zeichnet sich durch seine internationale Ausrichtung und eines der vielfältigsten Fächerangebote im deutschsprachigen Raum aus.
 
-##### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften (N)
+##### Fachanteile des Studiengangs Wirtschaftswissenschaften (B.A.)
 
 * Schwerpunkt (BWL, VWL, Winf oder WiPäd) (33%)
 * Studienrichtung (FACT-S, Nachhaltigkeit, Marketing und Customer Insights,…) (18%)
@@ -218,35 +218,3 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (6)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13905922`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13905919|exam:13905921|exam:13905922>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13964795`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13964789|exam:13964791|exam:13964795>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13973490`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13973484|exam:13973486|exam:13973490>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13982356`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13982353|exam:13982355|exam:13982356>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13991239`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:13991236|exam:13991238|exam:13991239>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:14000115`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17615|exam:14000112|exam:14000114|exam:14000115>

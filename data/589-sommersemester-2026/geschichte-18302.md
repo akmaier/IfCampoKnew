@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18302"
 campo_path: "title:17593|title:17595|title:18302"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302"
-po_version_count: 17
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Geschichte (B.A.)"
@@ -46,7 +46,7 @@ Daten, Fakten und Namen stellen in der Geschichtswissenschaft ein wichtiges Grun
 
 Während die Vorlesungen oft ein eher breites Basiswissen vermitteln, geht es in den Seminaren spezieller zu. Hier diskutieren Sie mit anderen Studierenden z.B. über das neuartige Kaisertum Karls des Großen bis zur Wiedereingliederung Westdeutschlands nach dem Zweiten Weltkrieg. Sie stellen sich die Frage nach den Ursachen und Folgen des Zerfalls der UdSSR und untersuchen, wie sich die Ideen der Reformation unter Luther durch Flugblätter und Predigten, aber auch durch Rituale und Symbole ausdrückten.
 
-##### Bachelor of Arts (2 Fächer) Geschichte
+##### Fachanteile des Studiengangs Geschichte (B.A.)
 
 * Epochenbezogenes Überblickswissen (25%)
 * Vertiefung epochenbezogenes Fachwissen und Forschungsmethodik (25%)
@@ -130,7 +130,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 
 #### Mögliche Überschneidungen im Stundenplan
 
-* [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+* [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 * [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 * [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 * [Indogermanistik und Indoiranistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/indogermanistik-und-indoiranistik-ba/)
@@ -138,7 +138,7 @@ Bei diesen Fächerkombinationen gibt es in der Regel keine terminlichen Übersch
 * [Philosophie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/philosophie-ba/)
 * [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
 
-Wenn Sie diese Fächer kombinieren, könnten sich einzelne Veranstaltungen in Ihrem Stundenplan überschneiden. Deshalb können Sie folgende Fächer nur nach einem Beratungsgespräch mit dem von Ihnen gewählten Fach kombinieren. Die Studierenden tragen selbst die Verantwortung für die Studierbarkeit der Kombination und die Einhaltung der Fristen des § 11 der ABMStPOPhil. Bei der Immatrikulation ist ein Nachweis über ein entsprechendes Beratungsgespräch mit der Zentralen Studienberatung oder mit dem Studien-Service-Center (Philosophische Fakultät und Fachbereich Theologie) vorzulegen.
+Bei der Kombination dieser Fächer sind Überschneidungen einzelner Lehrveranstaltungen im Stundenplan möglich. Daher empfiehlt sich vor Studienbeginn die Inanspruchnahme des [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie).
 
 #### Zugangsvoraussetzungen und Bewerbung
 
@@ -227,13 +227,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Skandinavistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/skandinavistik-ba/)
 - [Soziologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/soziologie-ba/)
 - [Theater- und Medienwissenschaft](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/theater-und-medienwissenschaft-ba/)
-- [Computerlinguistik (B.A.)](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-b-a-ba/)
+- [Computerlinguistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/computerlinguistik-ba/)
 - [Digitale Geistes- und Sozialwissenschaften](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/digitale-geistes-und-sozialwissenschaften-ba/)
 - [Geographie: Kulturgeographie im Zwei-Fach-Bachelor](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/geographie-kulturgeographie-im-zwei-fach-bachelor-ba/)
 - [Indogermanistik und Indoiranistik](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/indogermanistik-und-indoiranistik-ba/)
 - [Japanologie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/japanologie-ba/)
 - [Philosophie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/philosophie-ba/)
 - [Ökonomie](https://www.studiengangsverwaltung.zuv.fau.de/studiengang/oekonomie-ba/)
+- [Beratungsangebots der Zentralen Studienberatung und des Studien-Service-Centers](https://www.fau.de/studium/studienangebot/bachelor/#infos-zum-bachelorstudium-an-der-philosophischen-fakultaet-und-fachbereich-theologie)
 - [DSH 2 oder gleichwertig](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/deutschkurse-deutschkenntnisse-sprachzertifikate/)
 - [weitere Zugangsmöglichkeiten](https://www.fau.de/education/bewerbung/zugang-zum-studium/)
 - [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
@@ -405,90 +406,3 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (17)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15564307`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564305|exam:15564306|exam:15564307>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15564386`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564384|exam:15564385|exam:15564386>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15564478`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564475|exam:15564477|exam:15564478>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15564756`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15564753|exam:15564755|exam:15564756>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15565390`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565388|exam:15565389|exam:15565390>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15565778`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15565776|exam:15565777|exam:15565778>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15566294`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566292|exam:15566293|exam:15566294>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15566376`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566374|exam:15566375|exam:15566376>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15566481`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566478|exam:15566480|exam:15566481>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15566761`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15566758|exam:15566760|exam:15566761>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15567093`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567091|exam:15567092|exam:15567093>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15567382`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567380|exam:15567381|exam:15567382>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15567740`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15567735|exam:15567739|exam:15567740>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15571592`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15571586|exam:15571591|exam:15571592>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15575528`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15575523|exam:15575527|exam:15575528>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15577710`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15577704|exam:15577709|exam:15577710>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15582931`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18302|exam:15582929|exam:15582930|exam:15582931>

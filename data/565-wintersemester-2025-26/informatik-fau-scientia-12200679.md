@@ -52,7 +52,7 @@ Von technischen Fachbereichen über Betriebswirtschaft, Medizin, Biologie, Psych
 
 Helfen Sie mit, interdisziplinäre Projekte in allen gesellschaftlich relevanten Bereiche zu verbessern, um eine nachhaltigere und lebenswertere Zukunft mitzugestalten!
 
-##### Bachelor of Science Informatik
+##### Fachanteile des Studiengangs Informatik (B.Sc.)
 
 * Informatik
 * Mathematik
@@ -455,7 +455,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://cs.fau.de)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Informatik-MSc-AdobeStock-scaled-1.jpeg)
+- [Robert Kneschke - stock.adobe.co](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Informatik-MSc-AdobeStock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

@@ -159,7 +159,7 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung | — | 09:15–16:45 | 06.07.2026–10.07.2026 | — |
+| Blockveranstaltung | — | 08:30–16:45 | 06.07.2026–10.07.2026 | — |
 
 ### Übung zu Zellkulturtechnik LSE - Übung
 

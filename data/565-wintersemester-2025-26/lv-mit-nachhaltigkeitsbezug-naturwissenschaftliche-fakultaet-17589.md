@@ -18,6 +18,23 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### BL7: Ökologie der Pflanzen und Tiere - Vorlesung
 
+- **Segment:** `exam:15903149` · **unitId:** `82935`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754735|exam:15903149>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82935&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 08:15–10:00 | 16.10.2025–05.02.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
+
+### BL7: Ökologie der Pflanzen und Tiere - Vorlesung
+
 - **Segment:** `exam:15903147` · **unitId:** `82935`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754737|exam:15903147>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82935&periodId=565>
@@ -37,23 +54,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Segment:** `exam:15903145` · **unitId:** `82935`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754738|exam:15903145>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82935&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 08:15–10:00 | 16.10.2025–05.02.2026 | 13002.00.581 (00.581 Seminarraum Zellbiologie im Biologikum) |
-
-### BL7: Ökologie der Pflanzen und Tiere - Vorlesung
-
-- **Segment:** `exam:15903149` · **unitId:** `82935`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754735|exam:15903149>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82935&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -170,25 +170,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
-- **Segment:** `exam:15732900` · **unitId:** `93336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754731|exam:15732900>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93336&periodId=565>
-
-- **Veranstaltungsart:** Masterseminar
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
-
-### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
-
-- **Segment:** `exam:15732896` · **unitId:** `93336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754732|exam:15732896>
+- **Segment:** `exam:15732906` · **unitId:** `93336`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754728|exam:15732906>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93336&periodId=565>
 
 - **Veranstaltungsart:** Masterseminar
@@ -221,8 +204,25 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
 
-- **Segment:** `exam:15732906` · **unitId:** `93336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754728|exam:15732906>
+- **Segment:** `exam:15732900` · **unitId:** `93336`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754731|exam:15732900>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93336&periodId=565>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:15–17:45 | 16.10.2025–05.02.2026 | 55801.00.210 (00.210 Seminarraum) 55801.03.145 (03.145 Besprechungszimmer Geographie Tennenlohe) 05902.00.006 ( 00.6 PSG) 05902.00.005 ( 00.5 PSG) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+
+### HS-MA - Hauptseminar Master Kulturgeographie - Masterseminar
+
+- **Segment:** `exam:15732896` · **unitId:** `93336`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17589|exam:13754732|exam:15732896>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93336&periodId=565>
 
 - **Veranstaltungsart:** Masterseminar

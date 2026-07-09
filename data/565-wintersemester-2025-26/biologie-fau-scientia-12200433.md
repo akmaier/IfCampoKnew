@@ -44,7 +44,7 @@ Die Biologie ist die Naturwissenschaft, die alle Gesetzmäßigkeiten des Lebens 
 
 Wenn Sie von Fragestellungen der modernen Biologie fasziniert sind, sich in der Nebenfachausbildung auch für Chemie, Physik und Mathematik interessieren und die Fähigkeit zum selbständigen Arbeiten mitbringen, dann ist das Biologie‐Studium an der FAU genau das richtige für Sie.
 
-##### Fachanteile des Studiengangs Biologie B.Sc.
+##### Fachanteile des Studiengangs Biologie (B.Sc.)
 
 * Biologie (Grundlagen) (42%)
 * Biologie (Vertiefung/Spezialisierung) (27%)
@@ -232,7 +232,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:15–17:30 | 13.10.2025–02.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.07.)) |
+| wöchentlich | Mo | 14:15–17:30 | 13.10.2025–02.02.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### Ethik - VL: Einführung in die Ethik in theologischer Perspektive - Vorlesung
 

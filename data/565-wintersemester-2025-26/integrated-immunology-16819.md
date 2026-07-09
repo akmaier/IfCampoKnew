@@ -4,8 +4,8 @@ period_name: "Wintersemester 2025/26"
 campo_segment: "title:16819"
 campo_path: "title:16758|title:16765|title:16819"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819"
-po_version_count: 2
-course_count: 0
+po_version_count: 1
+course_count: 31
 fau_studiengang:
   - title: "Integrated Immunology (M.Sc.)"
     rel_path: "studiengang/integrated-immunology-m-sc.md"
@@ -96,6 +96,8 @@ Die folgenden Informationen richten sich an deutsche Bewerbende sowie Bildungsin
 
 Einschlägiger Bachelor-Abschluss mit der Note 2,5 oder besser (oder gleichwertige internationale Note) in Biologie, Biochemie, Biowissenschaften oder einem ähnlichen Bachelor-Abschluss.
 
+Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht Unterzeichnerstaaten des Lissaboner-Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (Biomedizintechnik, Biowissenschaften oder Biotechnologie) (GATE-Zerti-fikat) und aus Pakistan ein GAT-Zertifikat erforderlich. Die Mindestpunktzahlen für GRE, GATE und GAT sind auf folgender Seite einsehbar: <https://www.iim-mune.nat.fau.de/application/>
+
 Zulassungstest: Die Bewerber werden zu einer mündlichen Prüfung eingeladen, um die Eignung des Bewerbers für den MSc Integrated Immunology zu testen. Die Dauer der Prüfung beträgt 20 Minuten. Die Themen dieser Prüfung sind Grundkenntnisse in Molekularbiologie, Zellbiologie und Genetik. Darüber hinaus werden Kenntnisse in einem spezifischen Thema der Immunologie, Virologie oder Mikrobiologie (nach Wahl des Bewerbers) geprüft. Die Prüfung wird von der Zulassungskommission des MSc-Programms durchgeführt. Der Prüfungstermin wird mindestens eine Woche im Voraus bekannt gegeben. Die Bewerber haben die anfallenden Kosten selbst zu tragen.
 
 Die Zulassung zum Masterstudiengang erfolgt in einem zweistufigen Prüfungsverfahren:
@@ -171,97 +173,19 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (2)
+## Prüfungsordnungs-Versionen (1)
 
-### 2000 Gesamtkonto
+### 1600 Softskills
 
-- **Campo-Segment:** `exam:13465640`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640>
+- **Campo-Segment:** `exam:13465641`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13465641>
 
-### 2000 Gesamtkonto
+## Veranstaltungen (31)
 
-- **Campo-Segment:** `exam:13468540`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540>
+### Lectures in Basic Immunology - Vorlesung
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
-
-_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
-
-### Clinical Immunology - Lecture — Vorlesung
-
-- **Segment:** `unit:97441` · **unitId:** `97441`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97441&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Clinical Immunology - Tutorials — Tutorium
-
-- **Segment:** `unit:86694` · **unitId:** `86694`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86694&periodId=565>
-
-- **Veranstaltungsart:** Tutorium
-- **Turnus:** nur im Sommersemester
-
-### Fundamentals of R programming for bioinformatics — Vorlesung
-
-- **Segment:** `unit:96875` · **unitId:** `96875`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96875&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:96547` · **unitId:** `96547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.10.2025–02.02.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 14:00–16:00 | 15.10.2025–04.02.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-
-### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:83014` · **unitId:** `83014`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.10.2025–02.02.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 16:00–18:00 | 15.10.2025–04.02.2026 | 05701.00.017 ( Kl. Hörsaal) |
-
-### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
-
-- **Segment:** `unit:89729` · **unitId:** `89729`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** Unregelmäßig
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–14:15 | 18.02.2026–10.03.2026 | 05901.02.058 ( 2.058 R 2.058) |
-
-### Lectures in Basic Immunology — Vorlesung
-
-- **Segment:** `unit:94047` · **unitId:** `94047`
+- **Segment:** `exam:13469984` · **unitId:** `94047`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469982|exam:13469984>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94047&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -277,9 +201,320 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 08:15–09:00 | 16.10.2025–05.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 | wöchentlich | Fr | 08:15–09:00 | 17.10.2025–06.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
-### Lectures in Cell- and Molecular Biology — Vorlesung
+### MED 42651 - Microbiomics - Seminar
 
-- **Segment:** `unit:100224` · **unitId:** `100224`
+- **Segment:** `exam:13469981` · **unitId:** `125732`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13468541|exam:13469981>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125732&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 20.10.2025–02.02.2026 | — |
+| wöchentlich | Di | 10:30–12:00 | 21.10.2025–03.02.2026 | — |
+
+### Practical Integrated Laboratory Course - Basic Immunology (with Tutorial) - Praktikum
+
+- **Segment:** `exam:13467091` · **unitId:** `84020`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467090|exam:13467091>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84020&periodId=565>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–16:00 | 23.02.2026–20.03.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
+
+### Tutorials in Basic Immunology - Übung
+
+- **Segment:** `exam:13469985` · **unitId:** `90725`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469982|exam:13469985>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90725&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:45–15:30 | 14.10.2025–03.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
+
+### 1993 Master's thesis (M.Sc. Integrated Immunology 20182)
+
+- **Segment:** `exam:13467085` · **unitId:** `109444`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467085>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109444&periodId=565>
+
+### 1996 Practical project work (M.Sc. Integrated Immunology 20182)
+
+- **Segment:** `exam:13467079` · **unitId:** `49967`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467079>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49967&periodId=565>
+
+### 1996 Practical project work (M.Sc. Integrated Immunology 20222)
+
+- **Segment:** `exam:13470008` · **unitId:** `109626`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13470008>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109626&periodId=565>
+
+### 1997 Theoretical project work (M.Sc. Integrated Immunology 20182)
+
+- **Segment:** `exam:13467081` · **unitId:** `49968`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467081>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49968&periodId=565>
+
+### 1997 Theoretical project work (M.Sc. Integrated Immunology 20222)
+
+- **Segment:** `exam:13470010` · **unitId:** `109637`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13470010>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109637&periodId=565>
+
+### 1998 Becoming a scientist
+
+- **Segment:** `exam:13467083` · **unitId:** `49969`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467083>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49969&periodId=565>
+
+### 1998 Becoming a scientist
+
+- **Segment:** `exam:13470006` · **unitId:** `109645`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13470006>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109645&periodId=565>
+
+### 1999 Master's thesis (M.Sc. Integrated Immunology 20222)
+
+- **Segment:** `exam:13470012` · **unitId:** `109660`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13470012>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109660&periodId=565>
+
+### 47852 Basic Immunology Laboratory Course
+
+- **Segment:** `exam:15787603` · **unitId:** `135322`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:15787603>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135322&periodId=565>
+
+### 47872 Infectious Disease Immunology
+
+- **Segment:** `exam:15787723` · **unitId:** `135324`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:15787723>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135324&periodId=565>
+
+### 47880 Translational Immunology Integrated Laboratory Course
+
+- **Segment:** `exam:13467099` · **unitId:** `49976`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467099>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49976&periodId=565>
+
+### 47881 Translational Immunology Integrated Laboratory Course
+
+- **Segment:** `exam:13470003` · **unitId:** `109688`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13470003>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=109688&periodId=565>
+
+### 47882 Infectious Disease Immunology Laboratory Course
+
+- **Segment:** `exam:15788416` · **unitId:** `135348`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:15788416>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135348&periodId=565>
+
+### 78401 Basic Immunology - Leistung
+
+- **Segment:** `exam:13467089` · **unitId:** `49987`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467088|exam:13467089>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49987&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–11:30 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+
+### 78401 Basic Immunology - Leistung
+
+- **Segment:** `exam:13469983` · **unitId:** `49987`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469982|exam:13469983>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49987&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–11:30 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+
+### 78501 Praktikumsbericht zu Basic Immunology Laboratory Course - Leistung
+
+- **Segment:** `exam:13467092` · **unitId:** `49988`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467090|exam:13467092>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49988&periodId=565>
+
+- **ECTS-Punkte:** 8.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### 78501 Praktikumsbericht zu Basic Immunology Laboratory Course - Leistung
+
+- **Segment:** `exam:13469992` · **unitId:** `49988`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469991|exam:13469992>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49988&periodId=565>
+
+- **ECTS-Punkte:** 8.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### 78502 Referat zu Basic Immunology Laboratory Course - Leistung
+
+- **Segment:** `exam:13467093` · **unitId:** `49989`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467090|exam:13467093>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49989&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### 78502 Referat zu Basic Immunology Laboratory Course - Leistung
+
+- **Segment:** `exam:13469993` · **unitId:** `49989`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469991|exam:13469993>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49989&periodId=565>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### 78601 Cell- and molecular biology - Leistung
+
+- **Segment:** `exam:13467095` · **unitId:** `49990`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467094|exam:13467095>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49990&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 09:00–10:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+
+### 78601 Cell- and molecular biology - Leistung
+
+- **Segment:** `exam:13469988` · **unitId:** `49990`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469987|exam:13469988>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49990&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 09:00–10:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+
+### 78701 Translational Immunology - Leistung
+
+- **Segment:** `exam:13467098` · **unitId:** `49991`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467096|exam:13467098>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49991&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:30–10:00 | — | — |
+
+### 78701 Translational Immunology - Leistung
+
+- **Segment:** `exam:13469995` · **unitId:** `49991`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469994|exam:13469995>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49991&periodId=565>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:30–10:00 | — | — |
+
+### 78901 Clinical Immunology - Leistung
+
+- **Segment:** `exam:13467105` · **unitId:** `49992`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13465638|exam:13465639|exam:13465640|exam:13467103|exam:13467105>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49992&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 78901 Clinical Immunology - Leistung
+
+- **Segment:** `exam:13470000` · **unitId:** `49992`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469999|exam:13470000>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49992&periodId=565>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### iI-CMB - Lectures in Cell- and Molecular Biology - Vorlesung
+
+- **Segment:** `exam:13469989` · **unitId:** `100224`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469987|exam:13469989>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100224&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -295,91 +530,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 09:15–10:00 | 16.10.2025–05.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 | wöchentlich | Fr | 09:15–10:00 | 17.10.2025–06.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
 
-### MED42651 - Microbiomics — Seminar
+### iI-CMB Tut - Tutorials in Cell and Molecular Biology - Übung
 
-- **Segment:** `unit:125732` · **unitId:** `125732`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125732&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch oder Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:00–15:30 | 20.10.2025–02.02.2026 | — |
-| wöchentlich | Di | 10:30–12:00 | 21.10.2025–03.02.2026 | — |
-
-### Practical Integrated Laboratory Course - Basic Immunology (with Tutorial) — Praktikum
-
-- **Segment:** `unit:84020` · **unitId:** `84020`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84020&periodId=565>
-
-- **Veranstaltungsart:** Praktikum
-- **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–16:00 | 23.02.2026–20.03.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
-
-### Seminar Immunology
-
-- **Segment:** `unit:88177` · **unitId:** `88177`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88177&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.5
-- **Turnus:** nur im Wintersemester
-
-### Translational Immunology - Lecture — Vorlesung
-
-- **Segment:** `unit:100934` · **unitId:** `100934`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100934&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **Turnus:** nur im Sommersemester
-
-### Translational Immunology - Seminar
-
-- **Segment:** `unit:98480` · **unitId:** `98480`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98480&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Translational Immunology Integrated Laboratory Course - Seminar
-
-- **Segment:** `unit:95509` · **unitId:** `95509`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95509&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Turnus:** nur im Sommersemester
-
-### Tutorials in Basic Immunology — Übung
-
-- **Segment:** `unit:90725` · **unitId:** `90725`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90725&periodId=565>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 13:45–15:30 | 14.10.2025–03.02.2026 | 13201.02.184 (SR BTE Seminarraum im BTE-Gebäude) |
-
-### Tutorials in Cell and Molecular Biology — Übung
-
-- **Segment:** `unit:91450` · **unitId:** `91450`
+- **Segment:** `exam:13469990` · **unitId:** `91450`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:16765|title:16819|exam:13468538|exam:13468539|exam:13468540|exam:13469987|exam:13469990>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91450&periodId=565>
 
 - **Veranstaltungsart:** Übung

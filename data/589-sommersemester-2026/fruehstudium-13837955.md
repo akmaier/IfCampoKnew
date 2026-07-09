@@ -5,7 +5,7 @@ campo_segment: "exam:13837955"
 campo_path: "title:17593|title:17596|exam:13837955"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955"
 po_version_count: 0
-course_count: 113
+course_count: 114
 ---
 
 # - Frühstudium -
@@ -14,7 +14,7 @@ course_count: 113
 
 _Section: Frühstudium_  
 
-## Veranstaltungen (113)
+## Veranstaltungen (114)
 
 ### Akademischer Chor - Übung
 
@@ -531,6 +531,22 @@ _Section: Frühstudium_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 19:30–21:30 | 16.04.2026–16.07.2026 | 00901.00.031 (Orangerie - Eingang C, Musiksaal) |
+
+### Lateinisch-deutsche Übersetzungsübungen - Unterstufe  - Übung
+
+- **Segment:** `exam:17733601` · **unitId:** `127499`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17596|exam:13837955|exam:17733601>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127499&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 05901.02.058 ( 2.058 R 2.058) |
 
 ### Makroökonomie - Vorlesung
 
@@ -1631,6 +1647,7 @@ _Section: Frühstudium_
 | Einzeltermin | Di | 16:00–18:00 | 14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
 
 ### ORGWST - Organische Werkstoffe - Vorlesung mit Übung
 

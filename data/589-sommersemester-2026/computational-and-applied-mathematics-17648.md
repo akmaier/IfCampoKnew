@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17648"
 campo_path: "title:17593|title:17602|title:17648"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17648"
-po_version_count: 2
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Computational and Applied Mathematics (M.Sc.)"
@@ -181,20 +181,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.math.fau.de/)
 - [Naturwissenschaftliche Fakultät](https://www.nat.fau.de/)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [Kittiphat - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/05/computational-and-applied-mathematics-MSc.AdobeSTock-scaled-1.jpeg)
+- [Kittiphat - stock.adobe.com](https://www.fau.de/wp-content/uploads/sites/4/2026/07/computational-and-applied-mathematics-MSc.AdobeSTock-scaled-1.jpeg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (2)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:14272057`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17648|exam:14272054|exam:14272055|exam:14272057>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15873055`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17648|exam:15873052|exam:15873053|exam:15873055>

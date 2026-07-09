@@ -48,7 +48,7 @@ Im Laufe des Studiums lernst Du daher vielfältige und abwechslungsreiche Themen
 
 Mit dem Abschluss des Bachelorstudiums Maschinenbau hast Du tiefgehende Fach- und Methodenkenntnisse auf dem Gebiet des Maschinenbaus erworben. Du hast damit die Voraussetzungen, um technische Probleme selbstständig und eigenverantwortlich zu lösen und bist bereit für den Berufseinstieg.
 
-##### Bachelor of Science Maschinenbau
+##### Fachanteile des Studiengangs Maschinenbau (B.Sc.)
 
 * Maschinenbau (52%)
 * Werkstoffwissenschaften (19%)
@@ -190,7 +190,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Webseite des Departments/Instituts](https://www.department.mb.tf.fau.de/)
 - [Technische Fakultät](https://tf.fau.de)
 - [Studierendenvertretung der FAU](https://stuve.fau.de/)
-- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/05/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
+- [FAU/Father and Sun](https://www.fau.de/wp-content/uploads/sites/4/2026/07/Maschinenbau-BSc-FAU_Tech_FATHERSUN_612-scaled-1.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/apply-now.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)

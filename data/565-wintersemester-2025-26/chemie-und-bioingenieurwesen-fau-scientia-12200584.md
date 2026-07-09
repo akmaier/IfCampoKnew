@@ -51,7 +51,7 @@ Im Studium lernt man z.B.:
 * die Verbesserung industrieller Prozesse z.B. Wasserstoffspeicherung
 * thermochemische Energiespeicher wie die Adsorption an Zeolithen zur effektiveren Wärmenutzung kennen. Zeolithe sind kristalline Alumosilikate, die man von zu Hause kennt, denn sie werden zur Wasserenthärtung in Waschmitteln eingesetzt.
 
-##### Bachelor of Science Chemie- und Bioingenieurwesen
+##### Fachanteile des Studiengangs Chemie- und Bioingenieurwesen (B.Sc.)
 
 * Verfahrenstechnik und Anlagenbau (40%)
 * Mathematik (15%)

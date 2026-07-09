@@ -106,8 +106,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Praktikum zur Lebensmittelbiotechnologie - Praktikum
 
-- **Segment:** `exam:13795938` · **unitId:** `114334`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795938>
+- **Segment:** `exam:13795939` · **unitId:** `114334`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795939>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114334&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
@@ -117,8 +117,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Praktikum zur Lebensmittelbiotechnologie - Praktikum
 
-- **Segment:** `exam:13795939` · **unitId:** `114334`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795939>
+- **Segment:** `exam:13795938` · **unitId:** `114334`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795938>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114334&periodId=565>
 
 - **Veranstaltungsart:** Praktikum
@@ -304,8 +304,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### BRAU_SEM - Brauseminar - Seminar
 
-- **Segment:** `exam:13795927` · **unitId:** `93915`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795927>
+- **Segment:** `exam:13795926` · **unitId:** `93915`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795926>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93915&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -320,8 +320,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### BRAU_SEM - Brauseminar - Seminar
 
-- **Segment:** `exam:13795926` · **unitId:** `93915`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795926>
+- **Segment:** `exam:13795927` · **unitId:** `93915`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795927>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93915&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -691,8 +691,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### LMBT_UE - Übung und Tutorium zur Lebensmittelbiotechnologie - Übung
 
-- **Segment:** `exam:13795949` · **unitId:** `114333`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795949>
+- **Segment:** `exam:13795950` · **unitId:** `114333`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795950>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114333&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -707,8 +707,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### LMBT_UE - Übung und Tutorium zur Lebensmittelbiotechnologie - Übung
 
-- **Segment:** `exam:13795950` · **unitId:** `114333`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795950>
+- **Segment:** `exam:13795949` · **unitId:** `114333`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795949>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114333&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -739,8 +739,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### LMBT_V - Lebensmittelbiotechnologie - Vorlesung
 
-- **Segment:** `exam:13795932` · **unitId:** `114332`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795932>
+- **Segment:** `exam:13795930` · **unitId:** `114332`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795930>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114332&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -756,8 +756,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### LMBT_V - Lebensmittelbiotechnologie - Vorlesung
 
-- **Segment:** `exam:13795930` · **unitId:** `114332`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754741|exam:13795930>
+- **Segment:** `exam:13795932` · **unitId:** `114332`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754742|exam:13795932>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114332&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -954,8 +954,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
-- **Segment:** `exam:13796760` · **unitId:** `88011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796760>
+- **Segment:** `exam:13796762` · **unitId:** `88011`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796762>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88011&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -986,8 +986,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### NCT-1 - Nachhaltige Chemische Technologien 1 -Rohstoffe - Vorlesung
 
-- **Segment:** `exam:13796762` · **unitId:** `88011`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796762>
+- **Segment:** `exam:13796760` · **unitId:** `88011`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796760>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88011&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -1051,8 +1051,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
-- **Segment:** `exam:13796757` · **unitId:** `88681`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796757>
+- **Segment:** `exam:13796756` · **unitId:** `88681`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796756>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88681&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -1085,8 +1085,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### NCT-2 - Nachhaltige Chemische Technologien 2 -  Verfahren - Vorlesung
 
-- **Segment:** `exam:13796756` · **unitId:** `88681`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796756>
+- **Segment:** `exam:13796757` · **unitId:** `88681`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796757>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88681&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -1304,8 +1304,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
-- **Segment:** `exam:13796743` · **unitId:** `93022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796743>
+- **Segment:** `exam:13796740` · **unitId:** `93022`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796740>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93022&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -1338,8 +1338,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### SEE - Sustainability and Environmental Ethics - Seminar
 
-- **Segment:** `exam:13796740` · **unitId:** `93022`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754746|exam:13796740>
+- **Segment:** `exam:13796743` · **unitId:** `93022`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17590|exam:13754750|exam:13796743>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93022&periodId=565>
 
 - **Veranstaltungsart:** Seminar

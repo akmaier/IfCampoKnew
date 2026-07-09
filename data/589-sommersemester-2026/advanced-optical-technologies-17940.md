@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17940"
 campo_path: "title:17593|title:17601|title:17940"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17940"
-po_version_count: 3
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Advanced Optical Technologies (M.Sc.)"
@@ -165,20 +165,3 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (3)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:14894071`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17940|exam:14894069|exam:14894070|exam:14894071>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:14896115`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17940|exam:14896113|exam:14896114|exam:14896115>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:14898091`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17940|exam:14898089|exam:14898090|exam:14898091>

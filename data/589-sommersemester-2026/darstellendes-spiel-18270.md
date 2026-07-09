@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18270"
 campo_path: "title:17593|title:17595|title:18270"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270"
-po_version_count: 5
-course_count: 2
+po_version_count: 0
+course_count: 0
 ---
 
 # Darstellendes Spiel
@@ -13,70 +13,6 @@ course_count: 2
 **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270>
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
-
-## Prüfungsordnungs-Versionen (5)
-
-### Erweiterungsprüfung Grundschule Darstellendes Spiel Hauptfach PO-Version 2007
-
-- **Campo-Segment:** `exam:15530764`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15530764>
-
-### Erweiterungsprüfung Gymnasium Darstellendes Spiel Hauptfach PO-Version 2007
-
-- **Campo-Segment:** `exam:15535340`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15535340>
-
-### Erweiterungsprüfung Hauptschule Darstellendes Spiel Hauptfach PO-Version 2007
-
-- **Campo-Segment:** `exam:15532289`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15532289>
-
-### Erweiterungsprüfung Mittelschule Darstellendes Spiel Hauptfach PO-Version 2013
-
-- **Campo-Segment:** `exam:15529239`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529239>
-
-### Erweiterungsprüfung Realschule Darstellendes Spiel Hauptfach PO-Version 2007
-
-- **Campo-Segment:** `exam:15533814`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15533814>
-
-## Veranstaltungen (2)
-
-### Examenskurs Pädagogik theatral-performativer Praxis - Seminar
-
-- **Segment:** `exam:15733891` · **unitId:** `134759`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529222|exam:15733891>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134759&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Do | 16:00–18:00 | 16.04.2026–09.07.2026 | — |
-| Einzeltermin | Fr | 13:00–17:30 | 31.07.2026 | — |
-| Einzeltermin | Sa | 09:30–15:00 | 01.08.2026 | — |
-
-### Examenskurs Theatertheorie / Darstellendes Spiel - Seminar
-
-- **Segment:** `exam:15849271` · **unitId:** `135725`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18270|exam:15529222|exam:15849271>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135725&periodId=589>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Fr | 15:00–20:00 | 17.07.2026 | — |
-| Blockveranstaltung+Sa | — | 10:00–18:00 | 18.07.2026 | — |
 
 ## Lehramts-Prüfungsordnungen
 

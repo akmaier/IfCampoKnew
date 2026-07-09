@@ -44,7 +44,7 @@ Der Bachelorstudiengang Wirtschaftswissenschaften bereitet auf eine Karriere in 
 
 Das Bachelorstudium an der WiSo in Nürnberg zeichnet sich durch seine internationale Ausrichtung und eines der vielfältigsten Fächerangebote im deutschsprachigen Raum aus.
 
-##### Bachelor of Arts (1 Fach) Wirtschaftswissenschaften (N)
+##### Fachanteile des Studiengangs Wirtschaftswissenschaften (B.A.)
 
 * Schwerpunkt (BWL, VWL, Winf oder WiPäd) (33%)
 * Studienrichtung (FACT-S, Nachhaltigkeit, Marketing und Customer Insights,…) (18%)

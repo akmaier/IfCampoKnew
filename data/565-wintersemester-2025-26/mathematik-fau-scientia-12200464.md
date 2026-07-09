@@ -50,7 +50,7 @@ Wenn Sie sich für ein Studium der Mathematik entscheiden, lernen Sie in den ers
 
 Nach dem Studium sind Sie schließlich in der Lage, komplexe inner- und außermathematische Fragestellungen zu strukturieren und zu lösen. Mathematiker sind sehr gefragt, so dass Sie sich mit Ihrem Bachelorabschluss entscheiden können, ob Sie sich gleich in den Arbeitsmarkt begeben oder das Studium noch in einem Masterprogramm fortsetzen, um Ihre Kenntnisse zu vertiefen.
 
-##### Bachelor of Science Mathematik
+##### Fachanteile des Studiengangs Mathematik (B.Sc.)
 
 * Mathematische Grundlagen (30%)
 * Angewandte Mathematik (25%)

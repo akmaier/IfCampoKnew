@@ -44,7 +44,7 @@ Die Biologie ist die Naturwissenschaft, die alle Gesetzmäßigkeiten des Lebens 
 
 Wenn Sie von Fragestellungen der modernen Biologie fasziniert sind, sich in der Nebenfachausbildung auch für Chemie, Physik und Mathematik interessieren und die Fähigkeit zum selbständigen Arbeiten mitbringen, dann ist das Biologie‐Studium an der FAU genau das richtige für Sie.
 
-##### Fachanteile des Studiengangs Biologie B.Sc.
+##### Fachanteile des Studiengangs Biologie (B.Sc.)
 
 * Biologie (Grundlagen) (42%)
 * Biologie (Vertiefung/Spezialisierung) (27%)

@@ -5,7 +5,7 @@ campo_segment: "title:17586"
 campo_path: "title:16758|title:17578|title:17586"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586"
 po_version_count: 0
-course_count: 55
+course_count: 53
 ---
 
 # LV mit Nachhaltigkeitsbezug, Philosophische Fakultät und Fachbereich Theologie
@@ -14,7 +14,7 @@ course_count: 55
 
 _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_  
 
-## Veranstaltungen (55)
+## Veranstaltungen (53)
 
 ### Aktuelle erziehungswissenschaftliche Probleme und Fragestellungen (Angebot am Standort Erlangen) - Vorlesung
 
@@ -102,6 +102,40 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
+- **Segment:** `exam:15774180` · **unitId:** `130242`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754575|exam:15774180>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+
+### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
+
+- **Segment:** `exam:15774174` · **unitId:** `130242`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:15774174>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
+
+### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
+
 - **Segment:** `exam:15774188` · **unitId:** `130242`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754577|exam:15774188>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
@@ -121,23 +155,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Segment:** `exam:15774184` · **unitId:** `130242`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754581|exam:15774184>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-
-### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
-
-- **Segment:** `exam:15774160` · **unitId:** `130242`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754585|exam:15774160>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -187,25 +204,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
-- **Segment:** `exam:15774170` · **unitId:** `130242`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754588|exam:15774170>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-
-### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
-
-- **Segment:** `exam:15774154` · **unitId:** `130242`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754589|exam:15774154>
+- **Segment:** `exam:15774160` · **unitId:** `130242`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754585|exam:15774160>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -255,8 +255,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
-- **Segment:** `exam:15774180` · **unitId:** `130242`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754575|exam:15774180>
+- **Segment:** `exam:15774170` · **unitId:** `130242`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754588|exam:15774170>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -272,8 +272,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Critical approaches to international economic relations - lessons from sustainability - Vorlesung
 
-- **Segment:** `exam:15774174` · **unitId:** `130242`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:15774174>
+- **Segment:** `exam:15774154` · **unitId:** `130242`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754589|exam:15774154>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130242&periodId=565>
 
 - **Veranstaltungsart:** Vorlesung
@@ -286,40 +286,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 09:00–11:00 | 21.10.2025–03.02.2026 | 21101.05.154 (LG 5.154 (30 Plätze) Seminarraum) |
-
-### Cultural Heritage and Identity in Education - Seminar
-
-- **Segment:** `exam:13794900` · **unitId:** `103939`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754584|exam:13794900>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103939&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:00–12:00 | 13.10.2025–02.02.2026 | — |
-| wöchentlich | Fr | 13:00–17:00 | 17.10.2025–28.11.2025 | 75409.01.034 |
-
-### Cultural Heritage and Identity in Education - Seminar
-
-- **Segment:** `exam:13794901` · **unitId:** `103939`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754586|exam:13794901>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103939&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 11:00–12:00 | 13.10.2025–02.02.2026 | — |
-| wöchentlich | Fr | 13:00–17:00 | 17.10.2025–28.11.2025 | 75409.01.034 |
 
 ### Deutsch als Zweitsprache und Sprachliche Bildung - Digitalisierungsbezogene Kompetenzen - Seminar
 
@@ -486,6 +452,23 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
 
+- **Segment:** `exam:13797174` · **unitId:** `131902`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754574|exam:13797174>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131902&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
+
+### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
+
 - **Segment:** `exam:13797175` · **unitId:** `131902`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754575|exam:13797175>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131902&periodId=565>
@@ -505,23 +488,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Segment:** `exam:13797173` · **unitId:** `131902`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:13797173>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131902&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| 14-täglich | Do | 09:45–13:00 | 16.10.2025–05.02.2026 | 20301.02.039 (2.039 Biolabor (Nutzung nur durch FD und FW Biologie!)) |
-
-### Grundkonzepte Biologie für Grund- und Mittelschule Fächergruppe: Außerschulische Lernorte im Biologieunterricht - Seminar
-
-- **Segment:** `exam:13797174` · **unitId:** `131902`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754574|exam:13797174>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131902&periodId=565>
 
 - **Veranstaltungsart:** Seminar
@@ -682,26 +648,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
 
-- **Segment:** `exam:13794630` · **unitId:** `99794`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754583|exam:13794630>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99794&periodId=565>
-
-- **Veranstaltungsart:** Praxisseminar
-- **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Do | 09:30–12:00 | 16.10.2025 | — |
-| Einzeltermin | Do | 09:30–12:00 | 23.10.2025 | — |
-| wöchentlich | Do | 09:30–12:00 | 30.10.2025–11.12.2025 | — |
-| Einzeltermin | Mi | 09:30–12:00 | 10.12.2025 | — |
-
-### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
-
 - **Segment:** `exam:13794631` · **unitId:** `99794`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:13794631>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99794&periodId=565>
@@ -720,7 +666,27 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | wöchentlich | Do | 09:30–12:00 | 30.10.2025–11.12.2025 | — |
 | Einzeltermin | Mi | 09:30–12:00 | 10.12.2025 | — |
 
-### Klima - Klimawandel als Thema im Geographieunterricht GS-MS-RS-GY | (in ER,10:15h)  - Seminar
+### DIDCHEM LAG II - Übungen im Schülerlabor EAM-Lab Erlangen (DIDCHEM LAG II) - Praxisseminar
+
+- **Segment:** `exam:13794630` · **unitId:** `99794`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754583|exam:13794630>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99794&periodId=565>
+
+- **Veranstaltungsart:** Praxisseminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:30–12:00 | 16.10.2025 | — |
+| Einzeltermin | Do | 09:30–12:00 | 23.10.2025 | — |
+| wöchentlich | Do | 09:30–12:00 | 30.10.2025–11.12.2025 | — |
+| Einzeltermin | Mi | 09:30–12:00 | 10.12.2025 | — |
+
+### Klima - Klimawandel als Thema im Geographieunterricht GS-MS-RS-GY | (in ER, Do 10:15h)  - Seminar
 
 - **Segment:** `exam:13815676` · **unitId:** `84255`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:13815676>
@@ -738,8 +704,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### KOAla regulär - Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg) - Übung
 
-- **Segment:** `exam:13794628` · **unitId:** `82530`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754584|exam:13794628>
+- **Segment:** `exam:13794627` · **unitId:** `82530`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754573|exam:13794627>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82530&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -772,8 +738,8 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 ### KOAla regulär - Übungen im Schülerlabor "KOAla" (wöchentlich am Campus Nürnberg) - Übung
 
-- **Segment:** `exam:13794627` · **unitId:** `82530`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754573|exam:13794627>
+- **Segment:** `exam:13794628` · **unitId:** `82530`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754584|exam:13794628>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82530&periodId=565>
 
 - **Veranstaltungsart:** Übung
@@ -786,6 +752,17 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.10.2025–02.02.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+
+### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
+
+- **Segment:** `exam:15715539` · **unitId:** `92483`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:15715539>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 ### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
 
@@ -824,17 +801,6 @@ _Section: Lehrveranstaltungen mit Nachhaltigkeitsbezug_
 
 - **Segment:** `exam:15715537` · **unitId:** `92483`
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754588|exam:15715537>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
-
-- **Veranstaltungsart:** Seminar
-- **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
-- **Turnus:** in jedem Semester
-
-### vhb-Kurs BNE - Bildung für nachhaltige Entwicklung - theologische und spirituelle Perspektiven - Seminar
-
-- **Segment:** `exam:15715539` · **unitId:** `92483`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=565&path=title:16758|title:17578|title:17586|exam:13754576|exam:15715539>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92483&periodId=565>
 
 - **Veranstaltungsart:** Seminar

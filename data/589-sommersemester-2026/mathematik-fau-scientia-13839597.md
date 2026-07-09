@@ -50,7 +50,7 @@ Wenn Sie sich für ein Studium der Mathematik entscheiden, lernen Sie in den ers
 
 Nach dem Studium sind Sie schließlich in der Lage, komplexe inner- und außermathematische Fragestellungen zu strukturieren und zu lösen. Mathematiker sind sehr gefragt, so dass Sie sich mit Ihrem Bachelorabschluss entscheiden können, ob Sie sich gleich in den Arbeitsmarkt begeben oder das Studium noch in einem Masterprogramm fortsetzen, um Ihre Kenntnisse zu vertiefen.
 
-##### Bachelor of Science Mathematik
+##### Fachanteile des Studiengangs Mathematik (B.Sc.)
 
 * Mathematische Grundlagen (30%)
 * Angewandte Mathematik (25%)
@@ -398,7 +398,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 12801.04.363 (04.363 Seminarraum Mathematik) |
-| Einzeltermin | Mi | 16:00–18:00 | 01.07.2026 | — |
+| Einzeltermin | Mi | 16:00–18:00 | 01.07.2026 | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Einführung in die kategorielle Homotopietheorie - Vorlesung mit Übung
 

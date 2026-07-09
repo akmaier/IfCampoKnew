@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18238"
 campo_path: "title:17593|title:17595|title:18238"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18238"
-po_version_count: 3
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Standards of Decision-Making Across Cultures (M.A.)"
@@ -155,20 +155,3 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (3)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15509435`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18238|exam:15509433|exam:15509434|exam:15509435>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15510985`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18238|exam:15510983|exam:15510984|exam:15510985>
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:15512561`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18238|exam:15512559|exam:15512560|exam:15512561>

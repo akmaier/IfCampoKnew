@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17649"
 campo_path: "title:17593|title:17602|title:17649"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649"
-po_version_count: 10
-course_count: 11
+po_version_count: 14
+course_count: 72
 fau_studiengang:
   - title: "Chemistry (M.Sc.)"
     rel_path: "studiengang/chemistry-m-sc.md"
@@ -92,6 +92,8 @@ Voraussetzung für die Zulassung zum Masterstudiengang Chemie ist der erfolgreic
 
 Außerdem muss im qualifizierenden Bachelor-Studiengang eine Note von 2,5 oder besser nach dem deutschen Notensystem nachgewiesen werden.
 
+Bei Vorliegen eines Bachelorabschlusses aus Ländern, die nicht den Unterzeichnerstaaten des Lissaboner Übereinkommens angehören, ist ein gültiges Graduate Record Examination (GRE)-Zertifikat, aus Indien ein Graduate Aptitude Test in Engineering-Zertifikat (GATE-Zertifikat) und aus Pakistan ein GAT-Zertifikat erforderlich oder ein vergleichbares Ergebnis eines standardisierten Aufnahmetests für internationale Masterstudiengänge.
+
 [Bewerbungsprozess](https://www.fau.de/education/bewerbung/)
 
 [Bewerbungsprozess für Internationale](https://www.fau.de/studium/international-studierende/bewerbung-und-einschreibung-fuer-internationale/)
@@ -118,8 +120,8 @@ Organisatorisches
 
 Downloads
 
-* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-m-sc/#examination-regulations-and-module-guide)
-* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/#chemie-und-molecular-science)
+* [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-msc/#examination-regulations-and-module-guide)
+* [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
 
 Weitere Informationen
 
@@ -146,8 +148,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [Semesterbeitrag](https://www.fau.de/studium/studienorganisation/studierendenangelegenheiten/rueckmeldung-und-semesterbeitrag/)
 - [Beratungs- und Servicestellen](https://www.fau.de/studium/studienorganisation/studienberatung/beratungsangebote-im-ueberblick/)
 - [Wege ins Ausland](https://www.fau.de/studium/studienorganisation/wege-ins-ausland/)
-- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-m-sc/#examination-regulations-and-module-guide)
-- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/chemie-und-pharmazie/#chemie-und-molecular-science)
+- [Modulhandbuch](https://www.chemistry.nat.fau.eu/studying/chemistry-msc/#examination-regulations-and-module-guide)
+- [Prüfungsordnungen](https://www.fau.de/universitaet/universitaetsorganisation/rechtliche-grundlagen/pruefungsordnungen/naturwissenschaftliche-fakultaet/)
 - [Webseite des Studiengangs](https://www.chemie.nat.fau.de/studium/chem-molsc/masterstudium/)
 - [Prüfungsamt Naturwissenschaftliche Fakultät](https://www.fau.de/studium/studienorganisation/pruefungen/pruefungsamt-nat/)
 - [Webseite des Departments/Instituts](https://www.chemie.nat.fau.de/)
@@ -159,59 +161,477 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (10)
+## Prüfungsordnungs-Versionen (14)
 
-### 10000 Masterprüfung
+### 1701 Inorganic Chemistry
 
-- **Campo-Segment:** `exam:14375578`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578>
+- **Campo-Segment:** `exam:14375581`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375580|exam:14375581>
 
-### Advances in Bio-Organic and Bio-Inorganic Chemistry
+### 1701 Inorganic Chemistry
 
-- **Campo-Segment:** `title:17764`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17764>
+- **Campo-Segment:** `exam:14375614`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375614>
 
-### Advances in Energy Materials
+### 1702 Organic Chemistry
 
-- **Campo-Segment:** `title:17766`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17766>
+- **Campo-Segment:** `exam:14375588`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375580|exam:14375588>
 
-### Advances in Homogenous Catalysis
+### 1702 Organic Chemistry
 
-- **Campo-Segment:** `title:17763`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763>
+- **Campo-Segment:** `exam:14375621`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375621>
 
-### Advances in Interface Research and Catalysis
+### 1703 Physical Chemistry
 
-- **Campo-Segment:** `title:17765`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17765>
+- **Campo-Segment:** `exam:14375596`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375580|exam:14375596>
 
-### Advances in Organic Chemistry
+### 1703 Physical Chemistry
 
-- **Campo-Segment:** `title:18416`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:18416>
+- **Campo-Segment:** `exam:14375629`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375629>
 
-### Inorganic Chemistry
+### 1704 Quantum Chemistry
 
-- **Campo-Segment:** `title:17761`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17761>
+- **Campo-Segment:** `exam:14375604`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375580|exam:14375604>
 
-### Organic Chemistry
+### 1704 Quantum Chemistry
 
-- **Campo-Segment:** `title:17762`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17762>
+- **Campo-Segment:** `exam:14375637`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375637>
 
-### Physical Chemistry
+### 1711 Advances in Bio-Organic and Bio-Inorganic Chemistry
 
-- **Campo-Segment:** `title:17760`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17760>
+- **Campo-Segment:** `exam:14375646`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375646>
 
-### Quantum Chemistry
+### 1712 Advances in Homogenous Catalysis
 
-- **Campo-Segment:** `title:17759`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17759>
+- **Campo-Segment:** `exam:14375666`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375666>
 
-## Veranstaltungen (11)
+### 1713 Advances in Interface Research and Catalysis A
+
+- **Campo-Segment:** `exam:14375680`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375680>
+
+### 1714 Advances in Energy Materials
+
+- **Campo-Segment:** `exam:14375693`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375693>
+
+### 1715 Advances in Interface Research and Catalysis B
+
+- **Campo-Segment:** `exam:14375707`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375707>
+
+### 1716 Advances in Organic Chemistry
+
+- **Campo-Segment:** `exam:14375720`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375613|exam:14375720>
+
+## Veranstaltungen (72)
+
+### Heterocyclic Chemistry - Vorlesung mit Übung
+
+- **Segment:** `exam:15780520` · **unitId:** `120354`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:18416|exam:15780520>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120354&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–17.07.2026 | 13301.02.0241 (C3 - Chemikum) |
+
+### Stereoselective Synthesis - Vorlesung mit Übung
+
+- **Segment:** `exam:15780519` · **unitId:** `120352`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:18416|exam:15780519>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120352&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:00–12:00 | 17.04.2026–17.07.2026 | 13301.00.110 (00.110 - Chemikum Seminarraum Organische Chemie) |
+
+### 1801 Freie Modulwahl
+
+- **Segment:** `exam:14375747` · **unitId:** `71652`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14375747>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71652&periodId=589>
+
+### 1999 Masterarbeit (M.Sc. Chemistry 20202)
+
+- **Segment:** `exam:14377364` · **unitId:** `71649`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14377364>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71649&periodId=589>
+
+### 46511 Advanced Bio-Organic and Bio-Inorganic Chemistry
+
+- **Segment:** `exam:14377252` · **unitId:** `71686`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377252>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71686&periodId=589>
+
+### 46512 Special Aspects in Bio-Organic Chemistry
+
+- **Segment:** `exam:14377257` · **unitId:** `71687`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377257>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71687&periodId=589>
+
+### 46515 Sensory Sciences Lab
+
+- **Segment:** `exam:14377342` · **unitId:** `116855`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377342>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116855&periodId=589>
+
+### 46516 Medical Life Sciences
+
+- **Segment:** `exam:14377346` · **unitId:** `116865`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377346>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116865&periodId=589>
+
+### 46521 Organometallic Catalysis
+
+- **Segment:** `exam:14377261` · **unitId:** `71696`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377261>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71696&periodId=589>
+
+### 46522 Organocatalysis and Catalytic Reactions in Water
+
+- **Segment:** `exam:14377265` · **unitId:** `71697`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377265>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71697&periodId=589>
+
+### 46523 Small Molecule Activation
+
+- **Segment:** `exam:14377268` · **unitId:** `71698`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377268>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71698&periodId=589>
+
+### 46531 Theory of Catalytic Processes
+
+- **Segment:** `exam:14377271` · **unitId:** `71708`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377271>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71708&periodId=589>
+
+### 46532 Surface and Interface Science
+
+- **Segment:** `exam:14377274` · **unitId:** `71709`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377274>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71709&periodId=589>
+
+### 46533 Heterogeneous Catalysis and Kinetics
+
+- **Segment:** `exam:14377277` · **unitId:** `71710`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377277>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71710&periodId=589>
+
+### 46535 Neurotech: Physics and Chemistry of Neuromodulation Technologies
+
+- **Segment:** `exam:14377280` · **unitId:** `74708`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377280>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74708&periodId=589>
+
+### 46536 Lebensmittelchemie
+
+- **Segment:** `exam:14377283` · **unitId:** `74710`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377283>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74710&periodId=589>
+
+### 46537 Nanostructured Materials and Interfaces
+
+- **Segment:** `exam:14375750` · **unitId:** `78209`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14375750>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78209&periodId=589>
+
+### 46538 Digital Chemistry
+
+- **Segment:** `exam:14377349` · **unitId:** `120327`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377349>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120327&periodId=589>
+
+### 46541 Semiconductor Materials for Energy Applications
+
+- **Segment:** `exam:14377289` · **unitId:** `71718`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377289>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71718&periodId=589>
+
+### 46542 Advanced Electrochemistry
+
+- **Segment:** `exam:14377293` · **unitId:** `71719`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377293>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71719&periodId=589>
+
+### 46543 Solar Energy Conversion
+
+- **Segment:** `exam:14377296` · **unitId:** `71720`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377296>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71720&periodId=589>
+
+### 46545 Organic thin films
+
+- **Segment:** `exam:14377299` · **unitId:** `72712`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377299>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72712&periodId=589>
+
+### 46546 Symmetry and Group Theory
+
+- **Segment:** `exam:14377303` · **unitId:** `72713`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377303>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72713&periodId=589>
+
+### 46548 Economics
+
+- **Segment:** `exam:14377361` · **unitId:** `72715`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377361>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72715&periodId=589>
+
+### 46549 Biomolecules and metal ions - evolution, biological functions, and biomedicine
+
+- **Segment:** `exam:14377307` · **unitId:** `80257`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377307>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80257&periodId=589>
+
+### 46551 Forschungsmodul Inorganic Chemistry
+
+- **Segment:** `exam:14375734` · **unitId:** `71732`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375733|exam:14375734>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71732&periodId=589>
+
+### 46552 Forschungsmodul Organic Chemistry
+
+- **Segment:** `exam:14375737` · **unitId:** `71733`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375733|exam:14375737>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71733&periodId=589>
+
+### 46553 Forschungsmodul Physical Chemistry
+
+- **Segment:** `exam:14375740` · **unitId:** `71734`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375733|exam:14375740>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71734&periodId=589>
+
+### 46554 Forschungsmodul Quantum Chemistry
+
+- **Segment:** `exam:14375743` · **unitId:** `71735`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375733|exam:14375743>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71735&periodId=589>
+
+### 46556 Scientific Programming
+
+- **Segment:** `exam:14377310` · **unitId:** `75164`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377310>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75164&periodId=589>
+
+### 46557 Theory of Surface Phenomena
+
+- **Segment:** `exam:14377313` · **unitId:** `75168`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377313>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75168&periodId=589>
+
+### 46558 Modern X-ray Structure Determination
+
+- **Segment:** `exam:14377316` · **unitId:** `75171`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377316>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75171&periodId=589>
+
+### 46559 Quantum Chemistry 1
+
+- **Segment:** `exam:14377319` · **unitId:** `75458`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377319>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75458&periodId=589>
+
+### 46561 Quantum Chemistry 2
+
+- **Segment:** `exam:14377322` · **unitId:** `75459`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377322>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75459&periodId=589>
+
+### 46562 Biological and Synthetic Molecular Switches and Machines
+
+- **Segment:** `exam:14377325` · **unitId:** `75632`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377325>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75632&periodId=589>
+
+### 46563 Advanced Spectroscopic Techniques
+
+- **Segment:** `exam:14377328` · **unitId:** `75633`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377328>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75633&periodId=589>
+
+### 46564 Modern Methods in Mass Spectrometry
+
+- **Segment:** `exam:14377331` · **unitId:** `75899`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377331>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75899&periodId=589>
+
+### 46565 Self-assembly: molecular, particulate and hybrid nanostructures
+
+- **Segment:** `exam:14377334` · **unitId:** `76574`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377334>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76574&periodId=589>
+
+### 46567 HZB Photon School
+
+- **Segment:** `exam:14377338` · **unitId:** `115681`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377338>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115681&periodId=589>
+
+### 46569 Stereoselective Synthesis
+
+- **Segment:** `exam:14377352` · **unitId:** `120332`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377352>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120332&periodId=589>
+
+### 46571 Heterocyclic Chemistry
+
+- **Segment:** `exam:14377355` · **unitId:** `120334`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377355>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120334&periodId=589>
+
+### 46572 Advanced Spectroscopy in Organic Chemistry
+
+- **Segment:** `exam:14377358` · **unitId:** `120336`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17753|exam:14375577|exam:14375578|exam:14375579|exam:14375746|exam:14377358>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120336&periodId=589>
+
+### BioIOC-LAB - Bio-Organic & Bio-Inorganic LAB - Praktikum
+
+- **Segment:** `exam:14378905` · **unitId:** `91710`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17764|exam:14378905>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91710&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### CM-IC - Inorganic Chemistry - Vorlesung mit Übung
+
+- **Segment:** `exam:14378932` · **unitId:** `93106`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17761|exam:14378932>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93106&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–12:45 | 13.04.2026–13.07.2026 | 11202.00.307 (H1 Egerlandstr.3 Anorganische Chemie) |
+
+### CM-IC-LAB - Inorganic Chemistry - LAB - Praktikum
+
+- **Segment:** `exam:14378934` · **unitId:** `85860`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17761|exam:14378934>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85860&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### CM-OC-SS - Organic Chemistry - Vorlesung mit Übung
+
+- **Segment:** `exam:14378923` · **unitId:** `101543`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17762|exam:14378923>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101543&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 08:15–11:00 | 14.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
+
+### CM-PC-LAB - Physical Chemistry - Lab - Praktikum
+
+- **Segment:** `exam:14378931` · **unitId:** `86324`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17760|exam:14378931>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86324&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### CM-PC-SS - Applied Spectroscopy - Vorlesung mit Übung
+
+- **Segment:** `exam:14378930` · **unitId:** `96774`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17760|exam:14378930>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96774&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:30–16:00 | 13.04.2026–13.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
+
+### CM-QC-LAB/QuantCh-LAB/ScP - Quantum Chemistry -  Lab / Scientific Programming - Praktikum
+
+- **Segment:** `exam:14378927` · **unitId:** `89079`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17759|exam:14378927>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89079&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:15–17:00 | 16.04.2026–16.07.2026 | 53101.02.2021 (CCC 2.202a CIP-Raum 2) |
+
+### CM-QC-PR - Training in Applied Computational Chemistry - Praktikum
+
+- **Segment:** `exam:14378928` · **unitId:** `85608`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17759|exam:14378928>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85608&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### CM-QC-SS - Quantum Chemistry 2 - Vorlesung mit Übung
+
+- **Segment:** `exam:14378926` · **unitId:** `86532`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17756|title:17759|exam:14378926>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86532&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–16:45 | 14.04.2026–14.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### CM-QC-SS - Quantum Chemistry 2 - Vorlesung mit Übung
 
@@ -228,6 +648,66 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:15–16:45 | 14.04.2026–14.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
+
+### EnMAT-LAB - Energy Materials - LAB - Praktikum
+
+- **Segment:** `exam:14378921` · **unitId:** `84555`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17766|exam:14378921>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84555&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### EnMAT-SS - Semiconductor Materials for Energy Applications - Lecture - Vorlesung
+
+- **Segment:** `exam:14378919` · **unitId:** `97233`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17766|exam:14378919>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97233&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 12:15–13:45 | 24.04.2026–17.07.2026 | 11201.U1.049 (A00.14 Seminarraum) |
+
+### EnMat-SS - Semiconductor Materials for Energy Applications - Seminar - Seminar
+
+- **Segment:** `exam:14378920` · **unitId:** `95653`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17766|exam:14378920>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95653&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
+
+### HomCatal-1-SS - Organometallic Catalysis - Vorlesung mit Übung
+
+- **Segment:** `exam:14378909` · **unitId:** `89807`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763|exam:14378909>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89807&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### HomCatal-1-SS - Organometallic Catalysis - Vorlesung mit Übung
 
@@ -246,6 +726,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
+### HomCatal-Lab - Homogeneous Catalysis - Lab - Praktikum
+
+- **Segment:** `exam:14378911` · **unitId:** `83729`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763|exam:14378911>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83729&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### HomCatal-SS - Organocatalysis and Catalytic Reactions in Water - Vorlesung mit Übung
+
+- **Segment:** `exam:14378908` · **unitId:** `84427`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763|exam:14378908>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84427&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:00 | 16.04.2026–16.07.2026 | 13301.02.0241 (C3 - Chemikum) |
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
+
 ### HomCatal-SS - Organocatalysis and Catalytic Reactions in Water - Vorlesung mit Übung
 
 - **Segment:** `exam:14378892` · **unitId:** `84427`
@@ -262,6 +770,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 10:15–11:00 | 16.04.2026–16.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
+
+### HomCatal-SS - Small Molecule Activation - Vorlesung mit Übung
+
+- **Segment:** `exam:14378907` · **unitId:** `84325`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17763|exam:14378907>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84325&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:15–14:45 | 17.04.2026–17.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### HomCatal-SS - Small Molecule Activation - Vorlesung mit Übung
 
@@ -296,6 +820,34 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | nach Vereinbarung | — | — | — | — |
 
+### IntCat-LAB - Interface & Catalysis LAB - Praktikum
+
+- **Segment:** `exam:14378916` · **unitId:** `84938`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17765|exam:14378916>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84938&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### IntCat-SS - Heterogeneous Catalysis and Kinetics - Vorlesung mit Übung
+
+- **Segment:** `exam:14378915` · **unitId:** `92770`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17765|exam:14378915>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92770&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
+| wöchentlich | Fr | 10:00–12:00 | 26.06.2026–10.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
+
 ### IntCat-SS - Heterogeneous Catalysis and Kinetics - Vorlesung mit Übung
 
 - **Segment:** `exam:14378897` · **unitId:** `92770`
@@ -312,6 +864,23 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–10:00 | 17.04.2026–17.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 | wöchentlich | Fr | 10:00–12:00 | 26.06.2026–10.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
+
+### IntCat-SS - Surfaces and Interface Science - Vorlesung mit Übung
+
+- **Segment:** `exam:14378914` · **unitId:** `87199`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17649|title:17754|title:17755|title:17765|exam:14378914>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87199&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–14:00 | 17.04.2026–26.06.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
+| Einzeltermin | Mo | 10:00–17:00 | 01.06.2026 | — |
 
 ### IntCat-SS - Surfaces and Interface Science - Vorlesung mit Übung
 

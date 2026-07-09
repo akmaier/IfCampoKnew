@@ -5,7 +5,7 @@ campo_segment: "exam:13839673"
 campo_path: "title:17593|title:17599|exam:13839673"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839673"
 po_version_count: 0
-course_count: 6
+course_count: 7
 fau_studiengang:
   - title: "Physik (B.Sc.)"
     rel_path: "studiengang/physik-b-sc.md"
@@ -44,7 +44,7 @@ Die Physik ist eine der grundlegenden Naturwissenschaften, deren Erkenntnisse de
 
 Physikerinnen und Physiker beschäftigen sich auch mit fundamentalen Fragen zu Raum, Zeit und Materie, und sie erforschen den Ursprung des Universums. Was ist “Dunkle Materie”, was ist “Dunkle Energie”? Die Forscher nähern sich den Antworten auf diese Fragen durch Beobachtungen des Weltraums, komplexe Experimente und durch die Entwicklung theoretischer Modelle.
 
-##### Bachelor of Science Physik
+##### Fachanteile des Studiengangs Physik (B.Sc.)
 
 * Theoretische Physik (25%)
 * Experimentalphysik (21%)
@@ -184,7 +184,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (6)
+## Veranstaltungen (7)
 
 ### Modern Optics 2: Nonlinear Optics (exercise class) - Übung
 
@@ -291,3 +291,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Einzeltermin | Di | 16:00–18:00 | 14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.827 (HG Hörsaal Physikum) |
 | Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
+| Einzeltermin | Di | 16:00–19:00 | 14.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+
+### TP-K - Synopsis der Theoretischen Physik (Blockkurs) - Vorlesung
+
+- **Segment:** `exam:13839700` · **unitId:** `92648`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17599|exam:13839673|exam:13839700>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92648&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+

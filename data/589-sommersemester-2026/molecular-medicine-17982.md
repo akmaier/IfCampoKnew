@@ -4,7 +4,7 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17982"
 campo_path: "title:17593|title:17600|title:17982"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17982"
-po_version_count: 1
+po_version_count: 0
 course_count: 0
 fau_studiengang:
   - title: "Molecular Medicine (M.Sc.)"
@@ -175,10 +175,3 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
-
-## Prüfungsordnungs-Versionen (1)
-
-### 2000 Gesamtkonto
-
-- **Campo-Segment:** `exam:13859308`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17600|title:17982|exam:13859305|exam:13859306|exam:13859308>

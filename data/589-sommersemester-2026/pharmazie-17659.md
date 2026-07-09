@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:17659"
 campo_path: "title:17593|title:17602|title:17659"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659"
-po_version_count: 3
-course_count: 47
+po_version_count: 29
+course_count: 68
 fau_studiengang:
   - title: "Pharmazie (Staatsexamen)"
     rel_path: "studiengang/pharmazie-staatsexamen.md"
@@ -165,24 +165,154 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Prüfungsordnungs-Versionen (3)
+## Prüfungsordnungs-Versionen (29)
 
 ### 1000 Erster Abschnitt der Pharmazeutischen Prüfung
 
 - **Campo-Segment:** `exam:14196912`
 - **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14196912>
 
-### 2000 Gesamtkonto
+### 1800 Wahlpflichtfach
 
-- **Campo-Segment:** `exam:14195588`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588>
+- **Campo-Segment:** `exam:14195670`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195670>
 
-### 3000 Scheine Pharmazie
+### 68000 Physikalische Übungen für Pharmazeuten
 
-- **Campo-Segment:** `exam:14195732`
-- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732>
+- **Campo-Segment:** `exam:14195598`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195598>
 
-## Veranstaltungen (47)
+### 68010 Pharmazeutische und Medizinische Terminologie
+
+- **Campo-Segment:** `exam:14195603`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195603>
+
+### 68020 Allgemeine und analytische Chemie der anorganischen Arznei-, Hilfs- und Schadstoffe (unter Einbeziehung von Arzneibuch-Methoden)
+
+- **Campo-Segment:** `exam:14195606`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195606>
+
+### 68030 Pharmazeutische Biologie I (Untersuchungen arzneistoffproduzierender Organismen)
+
+- **Campo-Segment:** `exam:14195609`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195609>
+
+### 68040 Quantitative Bestimmung von Arznei-, Hilfs und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden)
+
+- **Campo-Segment:** `exam:14195616`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195616>
+
+### 68050 Physikalisch-chemische Übungen für Pharmazeuten
+
+- **Campo-Segment:** `exam:14195619`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195619>
+
+### 68055 Physikalisch-chemische Übungen für Pharmazeuten
+
+- **Campo-Segment:** `exam:14195623`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195623>
+
+### 68060 Arzneiformenlehre
+
+- **Campo-Segment:** `exam:14195628`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195628>
+
+### 68070 Chemie der organischen Arznei-, Hilfs- und Schadstoffe für Studierende der Pharmazie
+
+- **Campo-Segment:** `exam:14195634`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195634>
+
+### 68080 Chemische Nomenklatur (inkl. Stereochemie) für Studierende der Pharmazie
+
+- **Campo-Segment:** `exam:14195638`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195638>
+
+### 68090 Medizinische Mikrobiologie, Hygiene, Immunologie und Virologie für Studierende der Pharmazie
+
+- **Campo-Segment:** `exam:14195643`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195643>
+
+### 68105 Mathematische und statistische Methoden für Pharmazeuten
+
+- **Campo-Segment:** `exam:14195645`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195645>
+
+### 68110 Instrumentelle Analytik für Studierende der Pharmazie
+
+- **Campo-Segment:** `exam:14195649`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195649>
+
+### 68120 Kursus der Physiologie für Pharmazeuten
+
+- **Campo-Segment:** `exam:14195652`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195652>
+
+### 68130 Pharmazeutische Biologie II (Pflanzliche Drogen) und Arzneipflanzen-Exkursionen, Bestimmungsübungen
+
+- **Campo-Segment:** `exam:14195656`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195597|exam:14195656>
+
+### 68140 Pharmazeutische Biologie III (Biologische und Phytochemische Untersuchungen)
+
+- **Campo-Segment:** `exam:14195682`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195682>
+
+### 68150 Arzneistoffanalytik unter besonderer Berücksichtigung der Arzneibücher (Qualitätskontrolle und Sicherung bei Arzneistoffen) und der entsprechenden Normen für Medizinprodukte
+
+- **Campo-Segment:** `exam:14195688`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195688>
+
+### 68160 Biochemische Untersuchungsmethoden einschließlich klinische Chemie
+
+- **Campo-Segment:** `exam:14195693`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195693>
+
+### 68180 Klinische Chemie und Pathobiochemie
+
+- **Campo-Segment:** `exam:14195697`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195697>
+
+### 68190 Pharmazeutische Technologie
+
+- **Campo-Segment:** `exam:14195700`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195700>
+
+### 68200 Biopharmazie (Seminar inkl. Biopharmazeutische Rechenübungen)
+
+- **Campo-Segment:** `exam:14195704`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195704>
+
+### 68210 Pharmakologisch-toxikologischer Demonstrationskurs
+
+- **Campo-Segment:** `exam:14195707`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195707>
+
+### 68230 Qualitätssicherung bei der Herstellung und Prüfung von Arzneimitteln
+
+- **Campo-Segment:** `exam:14195711`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195711>
+
+### 68260 Pharmakotherapie
+
+- **Campo-Segment:** `exam:14195714`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195714>
+
+### 68275 Biogene Arzneimittel (Phytopharmaka, Antibiotika, gentechnisch hergestellte Arzneimittel)
+
+- **Campo-Segment:** `exam:14195718`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195718>
+
+### 68280 Klinische Pharmazie
+
+- **Campo-Segment:** `exam:14195721`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195721>
+
+### 68290 Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen
+
+- **Campo-Segment:** `exam:14195728`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195669|exam:14195728>
+
+## Veranstaltungen (68)
 
 ### AFL Tutorien - Tutorium
 
@@ -409,6 +539,291 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | wöchentlich | Fr | 12:15–14:00 | 17.04.2026–17.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 | wöchentlich | Fr | 12:15–14:00 | 17.04.2026–17.07.2026 | — |
 
+### 80009 Physikalische Übungen - Leistung
+
+- **Segment:** `exam:14195733` · **unitId:** `39175`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195733>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39175&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80309 Pharmazeutische Biologie I (Untersuchungen arzneistoffproduzierender Organismen) - Leistung
+
+- **Segment:** `exam:14195736` · **unitId:** `39254`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195736>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39254&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80409 Quantitative Bestimmung von Arznei-, Hilfs und Schadstoffen (unter Einbeziehung von Arzneibuch-Methoden) - Leistung
+
+- **Segment:** `exam:14195737` · **unitId:** `40045`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195737>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40045&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80509 Physikalisch-chemische Übungen für Pharmazeuten - Leistung
+
+- **Segment:** `exam:14195738` · **unitId:** `40046`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195738>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40046&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80559 Physikalisch-chemische Übungen für Pharmazeuten - Leistung
+
+- **Segment:** `exam:14195762` · **unitId:** `126331`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195762>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126331&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80609 Arzneiformenlehre (Praktikum) - Leistung
+
+- **Segment:** `exam:14195739` · **unitId:** `40047`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195739>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40047&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 80909 Medizinische Mikrobiologie, Hygiene, Immunologie und Virologie für Studierende der Pharmazie - Leistung
+
+- **Segment:** `exam:14195742` · **unitId:** `41826`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195742>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41826&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 81109 Instrumentelle Analytik - Leistung
+
+- **Segment:** `exam:14195743` · **unitId:** `41827`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195743>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41827&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 81209 Kursus der Physiologie für Pharmazeuten - Leistung
+
+- **Segment:** `exam:14195744` · **unitId:** `41828`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195744>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41828&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 81609 Biochemische Untersuchungsmethoden einschließlich klinische Chemie - Leistung
+
+- **Segment:** `exam:14195748` · **unitId:** `45610`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195748>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45610&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 81909 Pharmazeutische Technologie einschließlich Medizinprodukten - Leistung
+
+- **Segment:** `exam:14195749` · **unitId:** `45693`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195749>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45693&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82109 Pharmakologisch-toxikologischer Demonstrationskurs - Leistung
+
+- **Segment:** `exam:14195750` · **unitId:** `45870`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195750>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45870&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82209 Wahlpflichtfach Pharmazeutische Chemie - Leistung
+
+- **Segment:** `exam:14195751` · **unitId:** `46228`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195751>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46228&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82309 Qualitätssicherung bei der Herstellung und Prüfung von Arzneimitteln - Leistung
+
+- **Segment:** `exam:14195754` · **unitId:** `46610`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195754>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46610&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82409 Wahlpflichtfach Pharmazeutische Technologie - Leistung
+
+- **Segment:** `exam:14195755` · **unitId:** `46613`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195755>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46613&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82709 Wahlpflichtfach Klinische Pharmazie - Leistung
+
+- **Segment:** `exam:14195758` · **unitId:** `47146`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195758>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47146&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82809 Klinische Pharmazie - Leistung
+
+- **Segment:** `exam:14195759` · **unitId:** `47372`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195759>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47372&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 82909 Arzneimittelanalytik, Drug-Monitoring, toxikologische und umweltrelevante Untersuchungen - Leistung
+
+- **Segment:** `exam:14195760` · **unitId:** `47729`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195760>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47729&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 83009 Wahlpflichtfach Pharmazeutische Biologie - Leistung
+
+- **Segment:** `exam:14195761` · **unitId:** `50152`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195732|exam:14195761>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50152&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### AFL - Arzneiformenlehre (2. Stj.) - Praktikum
 
 - **Segment:** `exam:14375489` · **unitId:** `87101`
@@ -441,6 +856,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:00–09:00 | 13.04.2026–13.07.2026 | 13301.01.0331 (C2 - Chemikum) |
 | wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11907.01.030 (H19) |
+
+### BCNF2 - Einführung in die Biochemie für Naturwissenschaftler Teil2 - Vorlesung
+
+- **Segment:** `exam:14195595` · **unitId:** `84927`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195590|exam:14195591|exam:14195595>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84927&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### BCNF2 - Einführung in die Biochemie für Naturwissenschaftler Teil2 - Vorlesung
 
@@ -592,6 +1023,22 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:00–10:00 | 17.04.2026–17.07.2026 | 13301.01.0241 (C4 - Chemikum) |
+
+### MSM-ME5B-B3-S - Gefriertrocknung pharmazeutischer Produkte (4. Stj.) - Vorlesung
+
+- **Segment:** `exam:14195668` · **unitId:** `89239`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17659|exam:14195585|exam:14195586|exam:14195588|exam:14195665|exam:14195666|exam:14195668>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89239&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 13301.01.0331 (C2 - Chemikum) |
 
 ### MSM-ME5B-B3-S - Gefriertrocknung pharmazeutischer Produkte (4. Stj.) - Vorlesung
 

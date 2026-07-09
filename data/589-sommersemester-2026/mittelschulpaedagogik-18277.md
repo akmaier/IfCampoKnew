@@ -234,3 +234,4 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Einzeltermin | Fr | 14:00–18:00 | 08.05.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 | Einzeltermin | Sa | 09:00–15:00 | 09.05.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
 | Einzeltermin | Fr | 14:00–18:00 | 03.07.2026 | 75201.00.202 (St.Paul(V) 00.202 Seminarraum (20)) |
+| Einzeltermin | Fr | 14:00–18:00 | 03.07.2026 | 75202.00.513 (St.Paul 00.513 (24)) |
