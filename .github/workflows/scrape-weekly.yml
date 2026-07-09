@@ -504,10 +504,11 @@ jobs:
             tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
-          # Cache key v5 — bumped when the walk output changed shape
-          # (sharded → merged snapshot). Whenever a parser-level breaking
-          # change lands, bump the salt so the cache invalidates cleanly.
-          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
+          # Cache key v6 — bumped 2026-07-09 after parse_detail.py fixed
+          # Campo's "FAU Tech" (etc.) faculty-prefix rename. v5 caches
+          # written the night before contain buggy assigned_programs
+          # (empty list) so must not be reused.
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v6-${{ needs.vars.outputs.iso_month }}
           lookup-only: true
 
   # ─── Prior period: seed shards (skipped on cache hit) ────────────────
@@ -810,9 +811,9 @@ jobs:
             tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
-          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v6-${{ needs.vars.outputs.iso_month }}
           restore-keys: |
-            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-
+            campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v6-
 
       - name: Download merged prior tree (on cache miss)
         if: steps.restore.outputs.cache-hit != 'true'
@@ -903,7 +904,7 @@ jobs:
             tmp/${{ needs.vars.outputs.prior_period_id }}-courses.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-tagesaktuelle.json
             tmp/${{ needs.vars.outputs.prior_period_id }}-search.json
-          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v5-${{ needs.vars.outputs.iso_month }}
+          key: campo-prior-${{ needs.vars.outputs.prior_period_id }}-d${{ needs.vars.outputs.max_depth }}-v6-${{ needs.vars.outputs.iso_month }}
 
       - name: Upload prior-period artifacts
         if: always()
