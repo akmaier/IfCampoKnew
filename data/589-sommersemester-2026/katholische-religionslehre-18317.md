@@ -334,7 +334,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:30–16:30 | 07.06.2026 23:59:59 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+| Fr | Fr | 14:00–16:00 | 07.06.2026 23:59:59 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
 
 ### 96861 Aufbaumodul Fachdidaktik Katholische Religionslehre - Leistung
 
@@ -985,6 +985,18 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | 75201.01.005 (St. Paul 01.005 Roter Saal (40)) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (1)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Systematische Theologie und ihre Didaktik — Hauptseminar
+
+- **Segment:** `unit:106141` · **unitId:** `106141`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106141&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Turnus:** jedes 2. Semester
 
 ## Lehramts-Prüfungsordnungen
 

@@ -5,7 +5,7 @@ campo_segment: "title:17944"
 campo_path: "title:17593|title:17601|title:17944"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944"
 po_version_count: 0
-course_count: 92
+course_count: 0
 fau_studiengang:
   - title: "Informatik/IT-Sicherheit (B.Sc.)"
     rel_path: "studiengang/informatik-it-sicherheit-b-sc.md"
@@ -182,12 +182,67 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen (92)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 
-### MA TFV 2. FS - Modul 6: Theater und die anderen Künste - Masterseminar
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
-- **Segment:** `exam:14889285` · **unitId:** `85336`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889282|exam:14889285>
+### Klausur zum Nachweis Gesicherter Lateinkenntnisse
+
+- **Segment:** `unit:39849` · **unitId:** `39849`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39849&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+
+### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:96547` · **unitId:** `96547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96547&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:83014` · **unitId:** `83014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83014&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
+
+### Latein II für Fortgeschrittene - Intensivkurs (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
+
+- **Segment:** `unit:89729` · **unitId:** `89729`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89729&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** Unregelmäßig
+
+### MA TFV 2. FS - Modul 6: Theater und die anderen Künste — Masterseminar
+
+- **Segment:** `unit:85336` · **unitId:** `85336`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85336&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
@@ -201,564 +256,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.00.014 (ITM 204) |
 
-### 1701 Anrechnung Wahlpflichtbereich
+### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
-- **Segment:** `exam:14890911` · **unitId:** `125649`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890911>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125649&periodId=589>
-
-### 1900 Proseminar IT-Sicherheit
-
-- **Segment:** `exam:14889325` · **unitId:** `50224`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889325>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50224&periodId=589>
-
-### 1900 Proseminar IT-Sicherheit
-
-- **Segment:** `exam:14890953` · **unitId:** `125628`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890953>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125628&periodId=589>
-
-### 1910 Seminar IT-Sicherheit
-
-- **Segment:** `exam:14889327` · **unitId:** `50225`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889327>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50225&periodId=589>
-
-### 1910 Seminar IT-Sicherheit
-
-- **Segment:** `exam:14890955` · **unitId:** `125630`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890955>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125630&periodId=589>
-
-### 1950 Projekt IT-Sicherheit
-
-- **Segment:** `exam:14889329` · **unitId:** `50216`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889329>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50216&periodId=589>
-
-### 1950 Projekt IT-Sicherheit
-
-- **Segment:** `exam:14890957` · **unitId:** `125632`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890957>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125632&periodId=589>
-
-### 1999 Bachelorarbeit (B.Sc. Informatik/IT-Sicherheit 20152)
-
-- **Segment:** `exam:14889331` · **unitId:** `50222`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889331>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50222&periodId=589>
-
-### 1999 Bachelorarbeit (B.Sc. Informatik/IT-Sicherheit 20242)
-
-- **Segment:** `exam:14890959` · **unitId:** `125634`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890959>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125634&periodId=589>
-
-### 658644 Human Factors in Security and Privacy - Leistung
-
-- **Segment:** `exam:14889324` · **unitId:** `45454`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889321|exam:14889324>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45454&periodId=589>
+- **Segment:** `unit:39848` · **unitId:** `39848`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39848&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | — | — |
-
-### 658644 Human Factors in Security and Privacy - Leistung
-
-- **Segment:** `exam:14890952` · **unitId:** `45454`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890949|exam:14890952>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45454&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | — | — | — |
-
-### 92900 Einführung in die IT-Sicherheit
-
-- **Segment:** `exam:14889334` · **unitId:** `50207`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889334>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50207&periodId=589>
-
-### 92900 Einführung in die IT-Sicherheit
-
-- **Segment:** `exam:14890962` · **unitId:** `50207`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890962>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50207&periodId=589>
-
-### 92905 Grundlagen der Programmierung
-
-- **Segment:** `exam:14889336` · **unitId:** `50210`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889336>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50210&periodId=589>
-
-### 92906 Einführung in das Programmieren
-
-- **Segment:** `exam:14889338` · **unitId:** `125549`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889338>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125549&periodId=589>
-
-### 92906 Einführung in das Programmieren
-
-- **Segment:** `exam:14890964` · **unitId:** `125549`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890964>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125549&periodId=589>
-
-### 92907 Programmierkonzepte
-
-- **Segment:** `exam:14889340` · **unitId:** `125638`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889340>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125638&periodId=589>
-
-### 92907 Programmierkonzepte
-
-- **Segment:** `exam:14890972` · **unitId:** `125638`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890972>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125638&periodId=589>
-
-### 92910 Mathematik 1
-
-- **Segment:** `exam:14889342` · **unitId:** `50211`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889342>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50211&periodId=589>
-
-### 92910 Mathematik 1
-
-- **Segment:** `exam:14890966` · **unitId:** `50211`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890966>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50211&periodId=589>
-
-### 92911 Mathematik 2
-
-- **Segment:** `exam:14889344` · **unitId:** `50282`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889344>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50282&periodId=589>
-
-### 92912 Mathematik 2a
-
-- **Segment:** `exam:14889346` · **unitId:** `125542`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889346>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125542&periodId=589>
-
-### 92912 Mathematik 2a
-
-- **Segment:** `exam:14890968` · **unitId:** `125542`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890968>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125542&periodId=589>
-
-### 92913 Mathematik 2b
-
-- **Segment:** `exam:14889348` · **unitId:** `125544`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889348>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125544&periodId=589>
-
-### 92913 Mathematik 2b
-
-- **Segment:** `exam:14890970` · **unitId:** `125544`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890970>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125544&periodId=589>
-
-### 92915 Rechnerstrukturen
-
-- **Segment:** `exam:14889350` · **unitId:** `50229`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889350>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50229&periodId=589>
-
-### 92915 Rechnerstrukturen
-
-- **Segment:** `exam:14890974` · **unitId:** `50229`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890974>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50229&periodId=589>
-
-### 92920 Konzeptionelle Modellierung
-
-- **Segment:** `exam:14889352` · **unitId:** `50213`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889352>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50213&periodId=589>
-
-### 92920 Konzeptionelle Modellierung
-
-- **Segment:** `exam:14890976` · **unitId:** `50213`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890976>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50213&periodId=589>
-
-### 92925 Systemsicherheit 1
-
-- **Segment:** `exam:14889354` · **unitId:** `50231`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889354>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50231&periodId=589>
-
-### 92925 Systemsicherheit 1
-
-- **Segment:** `exam:14890978` · **unitId:** `50231`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890978>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50231&periodId=589>
-
-### 92926 Systemsicherheit 2
-
-- **Segment:** `exam:14889356` · **unitId:** `50233`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889356>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50233&periodId=589>
-
-### 92926 Systemsicherheit 2
-
-- **Segment:** `exam:14890980` · **unitId:** `50233`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890980>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50233&periodId=589>
-
-### 92931 Algorithmen und Datenstrukturen
-
-- **Segment:** `exam:14889358` · **unitId:** `54085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889358>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54085&periodId=589>
-
-### 92931 Algorithmen und Datenstrukturen
-
-- **Segment:** `exam:14890982` · **unitId:** `54085`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890982>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54085&periodId=589>
-
-### 92933 Theoretische Informatik
-
-- **Segment:** `exam:14889360` · **unitId:** `50236`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889360>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50236&periodId=589>
-
-### 92933 Theoretische Informatik
-
-- **Segment:** `exam:14890984` · **unitId:** `50236`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890984>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50236&periodId=589>
-
-### 92935 Kryptographie 1
-
-- **Segment:** `exam:14889362` · **unitId:** `50239`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889362>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50239&periodId=589>
-
-### 92935 Kryptographie 1
-
-- **Segment:** `exam:14890986` · **unitId:** `50239`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890986>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50239&periodId=589>
-
-### 92937 Kryptographie 2
-
-- **Segment:** `exam:14889364` · **unitId:** `50240`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889364>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50240&periodId=589>
-
-### 92937 Kryptographie 2
-
-- **Segment:** `exam:14890988` · **unitId:** `50240`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890988>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50240&periodId=589>
-
-### 92941 Systemnahe Programmierung
-
-- **Segment:** `exam:14889366` · **unitId:** `54087`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889366>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54087&periodId=589>
-
-### 92941 Systemnahe Programmierung
-
-- **Segment:** `exam:14890990` · **unitId:** `54087`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890990>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54087&periodId=589>
-
-### 92944 Einführung in die digitale Forensik
-
-- **Segment:** `exam:14889368` · **unitId:** `54089`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889368>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54089&periodId=589>
-
-### 92944 Einführung in die digitale Forensik
-
-- **Segment:** `exam:14890992` · **unitId:** `54089`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890992>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54089&periodId=589>
-
-### 92946 Compilerbau
-
-- **Segment:** `exam:14889370` · **unitId:** `54091`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889370>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54091&periodId=589>
-
-### 92946 Compilerbau
-
-- **Segment:** `exam:14890994` · **unitId:** `54091`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890994>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54091&periodId=589>
-
-### 92950 Netzsicherheit 1
-
-- **Segment:** `exam:14889372` · **unitId:** `50249`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889372>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50249&periodId=589>
-
-### 92950 Netzsicherheit 1
-
-- **Segment:** `exam:14890996` · **unitId:** `50249`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890996>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50249&periodId=589>
-
-### 92951 Netzsicherheit 2
-
-- **Segment:** `exam:14889374` · **unitId:** `50251`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889374>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50251&periodId=589>
-
-### 92951 Netzsicherheit 2
-
-- **Segment:** `exam:14890998` · **unitId:** `50251`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890998>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50251&periodId=589>
-
-### 92952 Netzsicherheit 3
-
-- **Segment:** `exam:14889376` · **unitId:** `50253`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889376>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50253&periodId=589>
-
-### 92952 Netzsicherheit 3
-
-- **Segment:** `exam:14891000` · **unitId:** `50253`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14891000>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50253&periodId=589>
-
-### 92956 Realisierung von Softwareprojekten
-
-- **Segment:** `exam:14889378` · **unitId:** `54093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889378>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54093&periodId=589>
-
-### 92956 Realisierung von Softwareprojekten
-
-- **Segment:** `exam:14891002` · **unitId:** `54093`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14891002>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54093&periodId=589>
-
-### 92957 Sicherheitsmanagement
-
-- **Segment:** `exam:14889380` · **unitId:** `50257`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889380>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50257&periodId=589>
-
-### 92957 Sicherheitsmanagement
-
-- **Segment:** `exam:14891004` · **unitId:** `50257`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14891004>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50257&periodId=589>
-
-### 92960 Anonymität im Netz
-
-- **Segment:** `exam:14889287` · **unitId:** `50259`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889287>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50259&periodId=589>
-
-### 92960 Anonymität im Netz
-
-- **Segment:** `exam:14890915` · **unitId:** `50259`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890915>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50259&periodId=589>
-
-### 92961 Elektronische Identitäten
-
-- **Segment:** `exam:14889289` · **unitId:** `50261`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889289>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50261&periodId=589>
-
-### 92961 Elektronische Identitäten
-
-- **Segment:** `exam:14890917` · **unitId:** `50261`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890917>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50261&periodId=589>
-
-### 92962 Ethisches Hacken
-
-- **Segment:** `exam:14889291` · **unitId:** `50264`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889291>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50264&periodId=589>
-
-### 92962 Ethisches Hacken
-
-- **Segment:** `exam:14890919` · **unitId:** `50264`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890919>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50264&periodId=589>
-
-### 92963 Incident Management
-
-- **Segment:** `exam:14889293` · **unitId:** `50265`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889293>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50265&periodId=589>
-
-### 92963 Incident Management
-
-- **Segment:** `exam:14890921` · **unitId:** `50265`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890921>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50265&periodId=589>
-
-### 92964 Internetforensik
-
-- **Segment:** `exam:14889295` · **unitId:** `50267`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889295>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50267&periodId=589>
-
-### 92964 Internetforensik
-
-- **Segment:** `exam:14890923` · **unitId:** `50267`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890923>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50267&periodId=589>
-
-### 92965 Kryptographische Protokolle
-
-- **Segment:** `exam:14889297` · **unitId:** `50270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889297>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50270&periodId=589>
-
-### 92965 Kryptographische Protokolle
-
-- **Segment:** `exam:14890925` · **unitId:** `50270`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890925>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50270&periodId=589>
-
-### 92966 Netzbasierte Angriffserkennung
-
-- **Segment:** `exam:14889299` · **unitId:** `50271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889299>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50271&periodId=589>
-
-### 92966 Netzbasierte Angriffserkennung
-
-- **Segment:** `exam:14890927` · **unitId:** `50271`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890927>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50271&periodId=589>
-
-### 92967 Sicherheit mobiler Systeme
-
-- **Segment:** `exam:14889301` · **unitId:** `50274`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889301>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50274&periodId=589>
-
-### 92967 Sicherheit mobiler Systeme
-
-- **Segment:** `exam:14890929` · **unitId:** `50274`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890929>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50274&periodId=589>
-
-### 92968 Spam
-
-- **Segment:** `exam:14889303` · **unitId:** `50275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889303>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50275&periodId=589>
-
-### 92968 Spam
-
-- **Segment:** `exam:14890931` · **unitId:** `50275`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890931>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50275&periodId=589>
-
-### 92969 Weiterführende Themen der Computerforensik
-
-- **Segment:** `exam:14889305` · **unitId:** `50277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889305>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50277&periodId=589>
-
-### 92969 Weiterführende Themen der Computerforensik
-
-- **Segment:** `exam:14890933` · **unitId:** `50277`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890933>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50277&periodId=589>
-
-### 92970 User-Centered Security
-
-- **Segment:** `exam:14889307` · **unitId:** `50279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889307>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50279&periodId=589>
-
-### 92970 User-Centered Security
-
-- **Segment:** `exam:14890935` · **unitId:** `50279`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890935>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50279&periodId=589>
-
-### 92971 Mobilfunkforensik
-
-- **Segment:** `exam:14889309` · **unitId:** `50285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889309>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50285&periodId=589>
-
-### 92971 Mobilfunkforensik
-
-- **Segment:** `exam:14890937` · **unitId:** `50285`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890937>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50285&periodId=589>
-
-### 92972 Netzwerkforensik
-
-- **Segment:** `exam:14889311` · **unitId:** `78437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889311>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78437&periodId=589>
-
-### 92972 Netzwerkforensik
-
-- **Segment:** `exam:14890939` · **unitId:** `78437`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890939>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78437&periodId=589>
-
-### 92973 Open Source Intelligence + Spionageprävention
-
-- **Segment:** `exam:14889313` · **unitId:** `78440`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889313>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78440&periodId=589>
-
-### 92973 Open Source Intelligence + Spionageprävention
-
-- **Segment:** `exam:14890941` · **unitId:** `78440`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890941>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78440&periodId=589>
-
-### 92974 Blockchain und Kryptowährungen
-
-- **Segment:** `exam:14889315` · **unitId:** `78441`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889315>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78441&periodId=589>
-
-### 92974 Blockchain und Kryptowährungen
-
-- **Segment:** `exam:14890943` · **unitId:** `78441`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890943>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78441&periodId=589>
-
-### 92975 Maschinelles Lernen und Sicherheit
-
-- **Segment:** `exam:14889317` · **unitId:** `111062`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889317>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111062&periodId=589>
-
-### 92975 Maschinelles Lernen und Sicherheit
-
-- **Segment:** `exam:14890945` · **unitId:** `111062`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890945>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111062&periodId=589>
-
-### 92976 Data Privacy
-
-- **Segment:** `exam:14889319` · **unitId:** `111064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14889276|exam:14889278|exam:14889280|exam:14889281|exam:14889319>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111064&periodId=589>
-
-### 92976 Data Privacy
-
-- **Segment:** `exam:14890947` · **unitId:** `111064`
-- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17601|title:17944|exam:14890905|exam:14890907|exam:14890909|exam:14890910|exam:14890947>
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111064&periodId=589>
+| Do | Do | 14:00–16:00 | 07.06.2026 23:59:59 | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
