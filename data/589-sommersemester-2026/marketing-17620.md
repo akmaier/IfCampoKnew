@@ -5,7 +5,7 @@ campo_segment: "title:17620"
 campo_path: "title:17593|title:17603|title:17620"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620"
 po_version_count: 0
-course_count: 0
+course_count: 85
 fau_studiengang:
   - title: "Marketing (M.Sc.)"
     rel_path: "studiengang/marketing-m-sc.md"
@@ -268,9 +268,674 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (148)
+## Veranstaltungen (85)
+
+### Business-to-business Marketing (Vorlesung) - Vorlesung
+
+- **Segment:** `exam:14013049` · **unitId:** `98682`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013048|exam:14013049>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98682&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+
+### International Marketing - Vorlesung
+
+- **Segment:** `exam:14013042` · **unitId:** `83068`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013041|exam:14013042>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83068&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+### Masterarbeit - Sonstige Lehrveranstaltung
+
+- **Segment:** `exam:14013320` · **unitId:** `107735`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013318|exam:14013320>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107735&periodId=589>
+
+- **Veranstaltungsart:** Sonstige Lehrveranstaltung
+- **ECTS-Punkte:** 30.0
+- **Turnus:** in jedem Semester
+
+### Panel- and Evaluation Methods-Tutorium - Tutorium
+
+- **Segment:** `exam:14013034` · **unitId:** `89193`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013023|exam:14013031|exam:14013034>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89193&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+### Strategisches Marketing (Master) - Seminar
+
+- **Segment:** `exam:14013045` · **unitId:** `89337`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013044|exam:14013045>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89337&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) |
+| wöchentlich | Do | 09:45–11:15 | 16.04.2026–28.05.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:45–11:15 | 06.05.2026 | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
+| Einzeltermin | Do | 11:30–13:00 | 28.05.2026 | 21101.00.142 (LG 0.142 (98 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 09:00–16:30 | 08.06.2026 | — |
+| Einzeltermin | Mo | 09:00–16:30 | 22.06.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+
+### 30401 Ökonometrie (Klausur) - Leistung
+
+- **Segment:** `exam:14013029` · **unitId:** `27649`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013023|exam:14013024|exam:14013029>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27649&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 14:30–16:30 | — | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
+
+### 30551 Panel and evaluation methods (written examination) - Leistung
+
+- **Segment:** `exam:14013036` · **unitId:** `50815`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013023|exam:14013031|exam:14013036>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50815&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
+### 40101 Marketingtheorie (Klausur) - Leistung
+
+- **Segment:** `exam:14013013` · **unitId:** `27336`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013011|exam:14013013>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27336&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:30–12:30 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+
+### 40204 Vertriebs- und Kommunikationsmanagement (Klausur) - Leistung
+
+- **Segment:** `exam:14013022` · **unitId:** `41366`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013019|exam:14013022>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=41366&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 11:00–12:00 | — | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+
+### 40211 Seminar Produkt- und Preismanagement (Klausur) - Leistung
+
+- **Segment:** `exam:14013017` · **unitId:** `33137`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013014|exam:14013017>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33137&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
+### 40212 Seminar Produkt- und Preismanagement (Versuchspersonenstunde) - Leistung
+
+- **Segment:** `exam:14013018` · **unitId:** `48596`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013014|exam:14013018>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48596&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 41621 Seminar Strategisches Marketing (Seminararbeit+Präsentation) - Leistung
+
+- **Segment:** `exam:14013046` · **unitId:** `77792`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013044|exam:14013046>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77792&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 41622 Seminar Strategisches Marketing (Strategiekonzept+Reflexion) - Leistung
+
+- **Segment:** `exam:14013047` · **unitId:** `77793`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013044|exam:14013047>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77793&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 41702 Seminar: Business-to-business marketing (Fallstudie) - Leistung
+
+- **Segment:** `exam:14013050` · **unitId:** `42276`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013048|exam:14013050>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42276&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 41703 Seminar: Business-to-business marketing (Klausur) - Leistung
+
+- **Segment:** `exam:14013051` · **unitId:** `42277`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013048|exam:14013051>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42277&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 09:45–11:15 | — | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
+
+### 44120 Pattern Analysis
+
+- **Segment:** `exam:14013129` · **unitId:** `79798`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013129>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79798&periodId=589>
+
+### 44130 Pattern Recognition
+
+- **Segment:** `exam:14013115` · **unitId:** `69896`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013115>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69896&periodId=589>
+
+### 44455 Speech and Language Processing
+
+- **Segment:** `exam:14013133` · **unitId:** `115247`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013133>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115247&periodId=589>
+
+### 47576 Enterprise Application Development und Evolutionäre Informationssysteme
+
+- **Segment:** `exam:14013140` · **unitId:** `119585`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013140>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119585&periodId=589>
+
+### 48311 International marketing - Leistung
+
+- **Segment:** `exam:14013043` · **unitId:** `77709`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013041|exam:14013043>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77709&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 12:00–12:05 | — | — |
+
+### 52130 Sustainability management and corporate functions
+
+- **Segment:** `exam:14013202` · **unitId:** `64077`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013202>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64077&periodId=589>
+
+### 52360 Datenermittlung
+
+- **Segment:** `exam:14013071` · **unitId:** `62569`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013071>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62569&periodId=589>
+
+### 52581 Praxisseminar: Entwicklung und Vermarktung innovativer Versicherungsprodukte
+
+- **Segment:** `exam:14013249` · **unitId:** `77704`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013249>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77704&periodId=589>
+
+### 53043 Ökonometrie
+
+- **Segment:** `exam:14013054` · **unitId:** `65281`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013054>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65281&periodId=589>
+
+### 53055 Panel and evaluation methods
+
+- **Segment:** `exam:14013061` · **unitId:** `67144`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013061>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67144&periodId=589>
+
+### 53107 Microeconometrics and machine learning
+
+- **Segment:** `exam:14013067` · **unitId:** `79757`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013067>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79757&periodId=589>
+
+### 53111 Datenerhebung und Datenstrukturen in der Arbeitsmarktforschung
+
+- **Segment:** `exam:14013073` · **unitId:** `113062`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013073>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113062&periodId=589>
+
+### 53165 Consumer relationship marketing
+
+- **Segment:** `exam:14013304` · **unitId:** `79864`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013304>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79864&periodId=589>
+
+### 53313 Multivariate Time Series Analysis
+
+- **Segment:** `exam:14013087` · **unitId:** `66623`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013087>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66623&periodId=589>
+
+### 53450 Technology and innovation management
+
+- **Segment:** `exam:14013216` · **unitId:** `59723`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013216>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59723&periodId=589>
+
+### 53640 Industrielles Management
+
+- **Segment:** `exam:14013172` · **unitId:** `63874`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013172>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63874&periodId=589>
+
+### 53651 Global operations strategy
+
+- **Segment:** `exam:14013175` · **unitId:** `73860`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013175>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73860&periodId=589>
+
+### 53710 Foundations of international management I
+
+- **Segment:** `exam:14013178` · **unitId:** `67658`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013178>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=67658&periodId=589>
+
+### 53720 Foundations of international management II
+
+- **Segment:** `exam:14013183` · **unitId:** `66776`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013183>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66776&periodId=589>
+
+### 53730 Corporate strategy
+
+- **Segment:** `exam:14013188` · **unitId:** `64294`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013188>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64294&periodId=589>
+
+### 54052 Principles of marketing IV
+
+- **Segment:** `exam:14013002` · **unitId:** `50781`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013001|exam:14013002>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50781&periodId=589>
+
+### 54062 Principles of marketing V
+
+- **Segment:** `exam:14013005` · **unitId:** `50782`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013001|exam:14013005>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50782&periodId=589>
+
+### 54072 Principles of marketing VI
+
+- **Segment:** `exam:14013008` · **unitId:** `50783`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013000|exam:14013001|exam:14013008>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50783&periodId=589>
+
+### 54101 Strategic communication
+
+- **Segment:** `exam:14013168` · **unitId:** `106797`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013168>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106797&periodId=589>
+
+### 54120 Interdisziplinäres Seminar
+
+- **Segment:** `exam:14013237` · **unitId:** `27003`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013237>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27003&periodId=589>
+
+### 54141 Advanced marketing management II: Advanced topics in marketing
+
+- **Segment:** `exam:14013283` · **unitId:** `32432`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013283>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=32432&periodId=589>
+
+### 54146 Advanced marketing management III: International marketing
+
+- **Segment:** `exam:14013286` · **unitId:** `77948`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013286>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77948&periodId=589>
+
+### 54162 Advanced marketing management IV
+
+- **Segment:** `exam:14013289` · **unitId:** `77791`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013289>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77791&periodId=589>
+
+### 54171 Advanced marketing management V
+
+- **Segment:** `exam:14013293` · **unitId:** `48640`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013293>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48640&periodId=589>
+
+### 55110 Konsumentenverhalten III
+
+- **Segment:** `exam:14013157` · **unitId:** `63561`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013151|exam:14013157>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63561&periodId=589>
+
+### 55120 Konsumentenverhalten IV
+
+- **Segment:** `exam:14013162` · **unitId:** `60470`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013151|exam:14013162>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=60470&periodId=589>
+
+### 55231 Design thinking und Produktdesign
+
+- **Segment:** `exam:14013212` · **unitId:** `57992`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013212>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57992&periodId=589>
+
+### 55490 Fortgeschrittene Methoden der Managementforschung VII
+
+- **Segment:** `exam:14013224` · **unitId:** `61818`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013224>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61818&periodId=589>
+
+### 55690 Auslandsmodul
+
+- **Segment:** `exam:14013270` · **unitId:** `28640`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013270>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28640&periodId=589>
+
+### 55810 Konsumentenverhalten II
+
+- **Segment:** `exam:14013152` · **unitId:** `63332`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013151|exam:14013152>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=63332&periodId=589>
+
+### 55850 Seminar zur Arbeitsmarktsoziologie
+
+- **Segment:** `exam:14013240` · **unitId:** `66795`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013240>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66795&periodId=589>
+
+### 55860 Seminar zur Wirtschaftssoziologie
+
+- **Segment:** `exam:14013245` · **unitId:** `80981`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013245>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80981&periodId=589>
+
+### 56080 Praxisseminar
+
+- **Segment:** `exam:14013252` · **unitId:** `33154`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013252>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33154&periodId=589>
+
+### 56090 Fremdsprachenmodul
+
+- **Segment:** `exam:14013256` · **unitId:** `33155`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013256>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=33155&periodId=589>
+
+### 56780 Business ethics and corporate social responsibility
+
+- **Segment:** `exam:14013199` · **unitId:** `62875`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013199>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62875&periodId=589>
+
+### 57045 Development of deep vision systems
+
+- **Segment:** `exam:14013123` · **unitId:** `77690`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013123>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77690&periodId=589>
+
+### 57053 Innovation and leadership
+
+- **Segment:** `exam:14013191` · **unitId:** `62185`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013191>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=62185&periodId=589>
+
+### 57110 Platform strategies
+
+- **Segment:** `exam:14013195` · **unitId:** `65097`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013195>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=65097&periodId=589>
+
+### 57125 Data Science: Foundations, tools and applications in Socio-economics and Marketing
+
+- **Segment:** `exam:14013308` · **unitId:** `106851`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013308>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106851&periodId=589>
+
+### 57126 Digital behavioral data
+
+- **Segment:** `exam:14013312` · **unitId:** `106858`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013312>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106858&periodId=589>
+
+### 57127 Nachhaltigkeitskommunikation
+
+- **Segment:** `exam:14013233` · **unitId:** `106864`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013233>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106864&periodId=589>
+
+### 57129 Kommunikation in der digitalen Arbeitswelt
+
+- **Segment:** `exam:14013276` · **unitId:** `124393`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013276>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124393&periodId=589>
+
+### 57150 Data science
+
+- **Segment:** `exam:14013084` · **unitId:** `50800`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013084>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50800&periodId=589>
+
+### 57176 Semiparametric methods in econometrics and applications
+
+- **Segment:** `exam:14013127` · **unitId:** `73758`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013127>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73758&periodId=589>
+
+### 57320 Foundations of linked data
+
+- **Segment:** `exam:14013094` · **unitId:** `66415`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013094>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66415&periodId=589>
+
+### 57340 Bayesian econometrics
+
+- **Segment:** `exam:14013091` · **unitId:** `58036`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013091>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=58036&periodId=589>
+
+### 57387 AI and Data in Business and Management
+
+- **Segment:** `exam:14013220` · **unitId:** `79801`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013220>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79801&periodId=589>
+
+### 57453 Branchen- und themenspezifisches Nachhaltigkeitsmanagement
+
+- **Segment:** `exam:14013208` · **unitId:** `79794`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013208>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79794&periodId=589>
+
+### 57461 Advanced Marketing Analytics
+
+- **Segment:** `exam:14013077` · **unitId:** `120246`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013077>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120246&periodId=589>
+
+### 57461 Advanced Marketing Analytics
+
+- **Segment:** `exam:14013144` · **unitId:** `120246`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013144>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120246&periodId=589>
+
+### 57462 Seminar: Web Scraping for Business and Economics
+
+- **Segment:** `exam:14013080` · **unitId:** `120249`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013053|exam:14013080>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120249&periodId=589>
+
+### 57470 Digital Marketing
+
+- **Segment:** `exam:14013315` · **unitId:** `54337`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013315>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54337&periodId=589>
+
+### 57471 Digital Marketing
+
+- **Segment:** `exam:14013300` · **unitId:** `77765`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013300>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77765&periodId=589>
+
+### 57508 Digital transformation project
+
+- **Segment:** `exam:14013228` · **unitId:** `112647`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013167|exam:14013228>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112647&periodId=589>
+
+### 58072 Advanced marketing management I: Service Marketing
+
+- **Segment:** `exam:14013038` · **unitId:** `69861`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013037|exam:14013038>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69861&periodId=589>
+
+### 58072 Advanced marketing management I: Service Marketing
+
+- **Segment:** `exam:14013280` · **unitId:** `69861`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013280>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69861&periodId=589>
+
+### 58081 Advanced marketing management VII
+
+- **Segment:** `exam:14013297` · **unitId:** `48642`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013279|exam:14013297>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48642&periodId=589>
+
+### 65718 Introduction to Machine Learning
+
+- **Segment:** `exam:14013110` · **unitId:** `76715`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013110>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76715&periodId=589>
+
+### 65985 Advanced Business Analytics Seminar
+
+- **Segment:** `exam:14013137` · **unitId:** `117066`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013137>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117066&periodId=589>
+
+### 65985 Advanced Business Analytics Seminar
+
+- **Segment:** `exam:14013273` · **unitId:** `117066`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013232|exam:14013273>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117066&periodId=589>
+
+### 901895 Deep Learning
+
+- **Segment:** `exam:14013119` · **unitId:** `69897`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013119>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=69897&periodId=589>
+
+### 93078 Einführung in Datenbanken für Wirtschaftsinformatik
+
+- **Segment:** `exam:14013147` · **unitId:** `127761`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013147>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127761&periodId=589>
+
+### 93130 Konzeptionelle Modellierung
+
+- **Segment:** `exam:14013106` · **unitId:** `66028`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013106>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66028&periodId=589>
+
+### 93401 Informatik 1 für Nebenfachstudierende - Grundmodul
+
+- **Segment:** `exam:14013098` · **unitId:** `46812`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013098>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46812&periodId=589>
+
+### 93415 Informatik 2 für Nebenfachstudierende - Aufbaumodul A
+
+- **Segment:** `exam:14013102` · **unitId:** `44939`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17603|title:17620|exam:14012994|exam:14012995|exam:14012999|exam:14013052|exam:14013083|exam:14013102>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44939&periodId=589>
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (219)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Advanced Business Analytics Seminar
+
+- **Segment:** `unit:80712` · **unitId:** `80712`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80712&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 09:30–11:00 | — | — |
 
 ### Advanced Business Analytics Seminar
 
@@ -305,6 +970,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Do | 11:30–16:30 | 25.06.2026 | 21102.00.421 (CIP-Pool 2 (RRZE-IZN)) |
 | Einzeltermin | Do | 11:30–16:30 | 25.06.2026 | 21101.00.215 (CIP-Pool 1 (RRZE-IZN)) |
 | wöchentlich | Mi | 09:45–14:45 | 01.07.2026–15.07.2026 | 21102.00.422 (CIP-Pool 2 (RRZE-IZN)) |
+
+### Advanced Marketing Analytics
+
+- **Segment:** `unit:120245` · **unitId:** `120245`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120245&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+
+### Advanced Sustainability Management and Corporate Functions — Übung
+
+- **Segment:** `unit:94663` · **unitId:** `94663`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94663&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nicht in diesem Semester
+
+### Advanced Sustainability Management and Corporate Functions — Vorlesung
+
+- **Segment:** `unit:97773` · **unitId:** `97773`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97773&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Advanced Sustainability Management and Corporate Functions — Vorlesung
 
@@ -358,6 +1054,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 09:45–11:45 | 03.07.2026 | 21102.05.430 ((16 Plätze)) |
 | Einzeltermin | Fr | 09:45–11:45 | 03.07.2026 | — |
 
+### AI and Data in Business and Management (presentation)
+
+- **Segment:** `unit:77698` · **unitId:** `77698`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77698&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### AI and Data in Business and Management (Project report)
+
+- **Segment:** `unit:77697` · **unitId:** `77697`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77697&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Arabisch: Elementarkurs II
 
 - **Segment:** `unit:37396` · **unitId:** `37396`
@@ -393,6 +1117,43 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
+
+### Aufbaukurs
+
+- **Segment:** `unit:49586` · **unitId:** `49586`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49586&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
+
+### Bayesian Econometrics (Lecture/Excercise Session) — Vorlesung mit Übung
+
+- **Segment:** `unit:96188` · **unitId:** `96188`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96188&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Bayesian econometrics (written examination)
+
+- **Segment:** `unit:51957` · **unitId:** `51957`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51957&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Branchen- und themenspezifisches Nachhaltigkeitsmanagement (mündlich)
 
@@ -461,21 +1222,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
-### Business-to-business Marketing (Vorlesung)
+### Business-to-Business Marketing (Case Study) — Seminar
 
-- **Segment:** `unit:98682` · **unitId:** `98682`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98682&periodId=589>
+- **Segment:** `unit:108795` · **unitId:** `108795`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108795&periodId=589>
 
-- **Veranstaltungsart:** Vorlesung
+- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21101.01.114 (LG H3 GfK-Hörsaal (155 Plätze) &quot;Gesellschaft für Konsumforschung&quot;) |
 
 ### Businessplanseminar (Master)
 
@@ -486,6 +1240,76 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nicht in diesem Semester
 
+### Chinesisch Elementarkurs 1
+
+- **Segment:** `unit:20804` · **unitId:** `20804`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20804&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Chinesisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### Chinesisch Elementarkurs 2
+
+- **Segment:** `unit:20805` · **unitId:** `20805`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20805&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Chinesisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:30–13:00 | — | — |
+
+### Classroom discourse
+
+- **Segment:** `unit:27587` · **unitId:** `27587`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27587&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
+
+### Consumer relationship marketing (discussion post)
+
+- **Segment:** `unit:79866` · **unitId:** `79866`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79866&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Consumer relationship marketing (presentation)
+
+- **Segment:** `unit:79865` · **unitId:** `79865`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79865&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Consumer Relationship Marketing (Seminar)
 
 - **Segment:** `unit:88476` · **unitId:** `88476`
@@ -494,6 +1318,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
+
+### Corporate strategy
+
+- **Segment:** `unit:49593` · **unitId:** `49593`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49593&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:00–12:00 | — | 21101.01.213 (LG H4 (814 Plätze) Hörsaal) |
 
 ### Corporate Strategy — Vorlesung mit Übung
 
@@ -529,6 +1367,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 21102.02.429 ((27 Plätze – nicht für studentische Veranstaltungen)) |
 
+### Data Analytics for Information Systems (written examination)
+
+- **Segment:** `unit:68884` · **unitId:** `68884`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68884&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Data Science — Seminar
 
 - **Segment:** `unit:90455` · **unitId:** `90455`
@@ -537,6 +1389,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Data science (written examination)
+
+- **Segment:** `unit:50801` · **unitId:** `50801`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50801&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 14:00–15:00 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
 
 ### Data Science: Foundations, tools and applications in Socio-economics and Marketing (written examination)
 
@@ -569,6 +1435,50 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 0.0
 - **Turnus:** nur im Wintersemester
+
+### Datenerhebung und Datenstrukturen — Masterseminar
+
+- **Segment:** `unit:86590` · **unitId:** `86590`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86590&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:45–18:15 | 13.04.2026–13.07.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
+
+### Datenerhebung und Datenstrukturen (Diskussionspapier)
+
+- **Segment:** `unit:74898` · **unitId:** `74898`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74898&periodId=589>
+
+- **ECTS-Punkte:** 1.65
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Datenerhebung und Datenstrukturen (Seminararbeit)
+
+- **Segment:** `unit:74897` · **unitId:** `74897`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74897&periodId=589>
+
+- **ECTS-Punkte:** 3.35
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Deep Learning
 
@@ -912,6 +1822,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 11:30–12:30 | — | — |
 
+### Deutsch C1: Wirtschaftsdeutsch
+
+- **Segment:** `unit:47779` · **unitId:** `47779`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47779&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 13:15–14:45 | — | — |
+
 ### Deutsch C1: Wirtschaftsdeutsch - Schwerpunkt I (Studienintegriertes Sprachmodul - FB Wiwi)
 
 - **Segment:** `unit:44623` · **unitId:** `44623`
@@ -925,6 +1849,103 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Fr | Fr | 15:00–16:00 | — | — |
+
+### Digital Behavioral Data — Seminar
+
+- **Segment:** `unit:117517` · **unitId:** `117517`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=117517&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Digital Marketing — Vorlesung
+
+- **Segment:** `unit:85562` · **unitId:** `85562`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85562&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Digital Marketing  (Klausur)
+
+- **Segment:** `unit:77766` · **unitId:** `77766`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77766&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 14:00–15:00 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+
+### Digital Marketing (Klausur)
+
+- **Segment:** `unit:54338` · **unitId:** `54338`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54338&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 14:00–15:00 | — | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+
+### Digital Transformation Project (Master) — Seminar
+
+- **Segment:** `unit:89673` · **unitId:** `89673`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89673&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–12:00 | 16.04.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 13:15–16:30 | 22.04.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 13:15–16:30 | 06.05.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 13:15–16:30 | 13.05.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mo | 09:00–11:00 | 08.06.2026 | — |
+| Einzeltermin | Mi | 13:15–16:30 | 17.06.2026 | 21101.00.222 (LG 0.222/3 (94 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 13:15–16:00 | 01.07.2026 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Mi | 13:15–16:00 | 08.07.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Mi | 13:15–16:00 | 15.07.2026 | 21101.00.141 (LG 0.141 (48 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 12:00–16:00 | 22.07.2026 | — |
+
+### Digital transformation project (Presentation or presentation paper)
+
+- **Segment:** `unit:112642` · **unitId:** `112642`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112642&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
+### Digital transformation project (Seminar paper)
+
+- **Segment:** `unit:112643` · **unitId:** `112643`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=112643&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### Dänisch: Elementarkurs IV
 
@@ -1035,6 +2056,77 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 13:15–14:45 | 20.04.2026–13.07.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
 | Einzeltermin | Mo | 13:15–14:45 | 18.05.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
 
+### English for business purposes
+
+- **Segment:** `unit:39051` · **unitId:** `39051`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39051&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### English for special purposes 1 (written examination)
+
+- **Segment:** `unit:49676` · **unitId:** `49676`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49676&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### English writing lab
+
+- **Segment:** `unit:42638` · **unitId:** `42638`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42638&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
+
+### Enterprise Application Development — Vorlesung
+
+- **Segment:** `unit:88678` · **unitId:** `88678`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88678&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11302.00.151 (00.151-113 Übungsraum) |
+
+### Enterprise Application Development und Evolutionäre Informationssysteme
+
+- **Segment:** `unit:119581` · **unitId:** `119581`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119581&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:00–09:00 | — | — |
+
 ### Evolutionäre Informationssysteme — Vorlesung
 
 - **Segment:** `unit:82681` · **unitId:** `82681`
@@ -1092,6 +2184,53 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mi | Mi | 16:30–18:00 | — | 05701.U1.008 () |
+
+### Forschungsseminar
+
+- **Segment:** `unit:84205` · **unitId:** `84205`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84205&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 21102.05.452 ((14 Plätze)) |
+| wöchentlich | Mi | 15:00–16:30 | 15.04.2026–15.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 10:00–11:15 | 29.04.2026 | 21102.05.430 ((16 Plätze)) |
+| Einzeltermin | Mi | 10:00–11:15 | 03.06.2026 | 21102.05.430 ((16 Plätze)) |
+
+### Forschungsseminar (Hausarbeit)
+
+- **Segment:** `unit:39655` · **unitId:** `39655`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39655&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Forschungsseminar (Präsentation)
+
+- **Segment:** `unit:39654` · **unitId:** `39654`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39654&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Foundations of international management I
 
@@ -1200,6 +2339,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 
+### Foundations of linked data (written examination)
+
+- **Segment:** `unit:50879` · **unitId:** `50879`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50879&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:00–09:00 | — | — |
+
 ### Francais économique C1 — Übung
 
 - **Segment:** `unit:92301` · **unitId:** `92301`
@@ -1270,6 +2423,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 13:00–14:30 | — | — |
 
+### Generative AI-Powered Stories: Data Visualization in Tableau — Praxisseminar
+
+- **Segment:** `unit:105764` · **unitId:** `105764`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105764&periodId=589>
+
+- **Veranstaltungsart:** Praxisseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Grammar & Vocabulary for Erasmus students
 
 - **Segment:** `unit:110306` · **unitId:** `110306`
@@ -1282,6 +2444,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Implementierung von Datenbanksystemen
+
+- **Segment:** `unit:21163` · **unitId:** `21163`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21163&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Industrielles Management — Vorlesung
 
@@ -1298,6 +2474,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 13:15–14:45 | 15.04.2026–15.07.2026 | 21102.01.420 (LG H5 TeamBank-Hörsaal (384 Plätze)) |
+
+### Industrielles Management (Klausur)
+
+- **Segment:** `unit:46923` · **unitId:** `46923`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46923&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 08:00–09:00 | — | — |
+
+### Informatik 1 für Nebenfachstudierende - Grundmodul
+
+- **Segment:** `unit:46813` · **unitId:** `46813`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46813&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 14:00–16:00 | — | 11501.00.156 (H16 Hörsaal 16) |
 
 ### Informatik 1 für Nebenfachstudierende - Grundmodul — Vorlesung
 
@@ -1340,29 +2544,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 11302.04.158 (04.158 Stud. Rechner-/Arbeitsraum) 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
 
-### International marketing
+### Innovation and Leadership — Vorlesung mit Übung
 
-- **Segment:** `unit:77709` · **unitId:** `77709`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77709&periodId=589>
+- **Segment:** `unit:83328` · **unitId:** `83328`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83328&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Do | Do | 12:00–12:05 | — | — |
-
-### International Marketing — Vorlesung
-
-- **Segment:** `unit:83068` · **unitId:** `83068`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83068&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
+- **Turnus:** nur im Wintersemester
 
 ### Introduction au francais économique I+II
 
@@ -1377,6 +2566,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Di | Di | 09:45–11:15 | — | — |
+
+### Introduction to Machine Learning
+
+- **Segment:** `unit:71268` · **unitId:** `71268`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71268&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
 
 ### Introduction to Machine Learning — Vorlesung mit Übung
 
@@ -1530,6 +2733,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Kundenmanagement (Customer Relationship Management) (Master) — Vorlesung mit Übung
+
+- **Segment:** `unit:85223` · **unitId:** `85223`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85223&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
 - **Segment:** `unit:96547` · **unitId:** `96547`
@@ -1572,12 +2784,73 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Marketingseminar
 
+- **Segment:** `unit:27345` · **unitId:** `27345`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27345&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marketingseminar
+
+- **Segment:** `unit:27347` · **unitId:** `27347`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27347&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marketingseminar
+
+- **Segment:** `unit:31236` · **unitId:** `31236`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31236&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marketingseminar
+
 - **Segment:** `unit:96685` · **unitId:** `96685`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96685&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Marketingseminar (Master) — Hauptseminar
+
+- **Segment:** `unit:85640` · **unitId:** `85640`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85640&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 11:00–12:00 | 15.04.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 14:00–16:00 | 16.04.2026 | 21102.00.423 ((33 Plätze – nicht für studentische Veranstaltungen)) |
+| Einzeltermin | Do | 12:00–12:45 | 18.06.2026 | 21102.05.452 ((14 Plätze)) |
+| Einzeltermin | Di | 10:00–11:30 | 07.07.2026 | 21102.05.430 ((16 Plätze)) |
 
 ### Marketingtheorie (Master) — Vorlesung
 
@@ -1587,6 +2860,62 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Marktpsychologisches Projektseminar (Hausarbeit)
+
+- **Segment:** `unit:27261` · **unitId:** `27261`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27261&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marktpsychologisches Projektseminar (Referat)
+
+- **Segment:** `unit:28253` · **unitId:** `28253`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28253&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marktpsychologisches Seminar (Hausarbeit)
+
+- **Segment:** `unit:20498` · **unitId:** `20498`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20498&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marktpsychologisches Seminar (Präsentation)
+
+- **Segment:** `unit:24147` · **unitId:** `24147`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24147&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Marktpsychologisches Theorieseminar
 
@@ -1605,6 +2934,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Fr | 15:00–16:30 | 17.04.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 | Einzeltermin | Fr | 13:00–18:00 | 22.05.2026 | 21101.05.155 (LG 5.155 (30 Plätze) Seminarraum) |
 
+### Marktpsychologisches Theorieseminar (Hausarbeit)
+
+- **Segment:** `unit:27260` · **unitId:** `27260`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27260&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Marktpsychologisches Theorieseminar (Präsentation)
+
+- **Segment:** `unit:28237` · **unitId:** `28237`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28237&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Marktpsychologisches Theorieseminar: Konsumentenverhalten
 
 - **Segment:** `unit:96114` · **unitId:** `96114`
@@ -1613,6 +2970,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Microeconometrics and  machine learning (written examination)
+
+- **Segment:** `unit:79756` · **unitId:** `79756`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79756&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 11:00–12:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
 
 ### Microeconometrics and machine learning — Vorlesung
 
@@ -1655,7 +3026,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 13:15–14:45 | 14.04.2026–14.07.2026 | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
 
 ### Multivariate time series analysis (written examination)
 
@@ -1707,6 +3085,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Blockveranstaltung+Sa | — | 09:00–17:00 | 22.05.2026–23.05.2026 | 21101.00.224 (LG 0.224 (98 Plätze) Übungsraum) 21102.00.424 (LG 0.424 (92 Plätze) Übungsraum) |
 | Einzeltermin | Fr | 11:30–13:00 | 03.07.2026 | — |
 | Einzeltermin | Fr | 11:30–13:00 | 10.07.2026 | — |
+
+### Nachhaltigkeitskommunikation (Fallstudie)
+
+- **Segment:** `unit:106860` · **unitId:** `106860`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106860&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Neugriechisch: Elementarkurs II
 
@@ -1791,27 +3183,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Fr | Fr | 12:15–13:45 | — | — |
 
-### Panel and evaluation methods (written examination)
+### Oral communication skills
 
-- **Segment:** `unit:50815` · **unitId:** `50815`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50815&periodId=589>
+- **Segment:** `unit:27585` · **unitId:** `27585`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27585&periodId=589>
 
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 11:00–12:00 | — | 21101.01.113 (LG H2 Hörsaal (155 Plätze)) |
+| — | — | — | — | — |
 
-### Panel- and Evaluation Methods-Tutorium
+### Panel- and Evaluation Methods — Vorlesung
 
-- **Segment:** `unit:89193` · **unitId:** `89193`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89193&periodId=589>
+- **Segment:** `unit:91199` · **unitId:** `91199`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91199&periodId=589>
 
-- **Veranstaltungsart:** Tutorium
-- **Unterrichtssprache:** Deutsch
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
 ### Pattern Analysis
@@ -1866,6 +3258,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 1.25
 - **Turnus:** nur im Wintersemester
+
+### Phonetik
+
+- **Segment:** `unit:34685` · **unitId:** `34685`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34685&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Platform Strategies — Vorlesung
 
@@ -1960,6 +3366,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Di | 13:15–15:30 | 19.05.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 | Einzeltermin | Do | 10:00–12:15 | 18.06.2026 | 21101.04.154 ((33 Plätze – nicht für studentische Veranstaltungen)) |
 
+### Praxisseminar: Entwicklung und Vermarktung innovativer Versicherungsprodukte (Präsentation)
+
+- **Segment:** `unit:77703` · **unitId:** `77703`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=77703&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Professionalise your English within the university framework (B2)
 
 - **Segment:** `unit:47933` · **unitId:** `47933`
@@ -1982,6 +3402,62 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Projektseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** in jedem Semester
+
+### Russisch Elementarkurs 1
+
+- **Segment:** `unit:20823` · **unitId:** `20823`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20823&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 16:45–18:15 | — | — |
+
+### Russisch Elementarkurs 2
+
+- **Segment:** `unit:20824` · **unitId:** `20824`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20824&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 16:45–18:15 | — | — |
+
+### Russisch Elementarkurs 4
+
+- **Segment:** `unit:20826` · **unitId:** `20826`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20826&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 15:00–16:30 | — | — |
+
+### Russisch online B2 Grammatik
+
+- **Segment:** `unit:51792` · **unitId:** `51792`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51792&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 15:00–16:00 | — | — |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -2011,6 +3487,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Mo | Mo | 18:00–19:30 | — | — |
 
+### Seminar Advanced topics in marketing: Consumer behavior (Klausur)
+
+- **Segment:** `unit:46427` · **unitId:** `46427`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46427&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:00–12:00 | — | 21102.01.421 (LG H6 BISSANTZ-Hörsaal (240 Plätze)) |
+
+### Seminar Kundenmanagement (Klausur)
+
+- **Segment:** `unit:27647` · **unitId:** `27647`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27647&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:30–12:30 | — | 21101.01.112 (LG H1 (446 Plätze) Hörsaal) |
+
 ### Seminar zur Arbeitsmarktsoziologie (Hausarbeit)
 
 - **Segment:** `unit:27258` · **unitId:** `27258`
@@ -2032,6 +3536,83 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **ECTS-Punkte:** 0.0
 - **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Seminar zur Wirtschaftssoziologie — Masterseminar
+
+- **Segment:** `unit:94572` · **unitId:** `94572`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94572&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–20.05.2026 | 20101.01.036 (FG 1.036 (24 Plätze) Seminarraum) |
+| wöchentlich | Mi | 09:45–11:15 | 15.04.2026–15.07.2026 | 21101.00.144 (LG 0.144 (38 Plätze) Übungsraum) |
+| Einzeltermin | Mi | 09:45–11:15 | 27.05.2026 | 21101.03.155 (LG 3.155 (24 Plätze) Seminarraum) |
+| Einzeltermin | Mi | 09:45–11:15 | 01.07.2026 | 21101.05.153 (LG 5.153 (24 Plätze) Seminarraum) |
+
+### Seminar zur Wirtschaftssoziologie (Hausarbeit)
+
+- **Segment:** `unit:27251` · **unitId:** `27251`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27251&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Seminar zur Wirtschaftssoziologie (Referat)
+
+- **Segment:** `unit:28250` · **unitId:** `28250`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28250&periodId=589>
+
+- **ECTS-Punkte:** 0.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Seminar: Web Scraping for Business and Economics
+
+- **Segment:** `unit:119260` · **unitId:** `119260`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119260&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 21101.03.153 (LG 3.152/3 (62 Plätze) Seminarraum) |
+
+### Seminar: Web Scraping for Business and Economics
+
+- **Segment:** `unit:120248` · **unitId:** `120248`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120248&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 
 #### Termine
 
@@ -2140,6 +3721,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 10:15–11:45 | — | 54606.02.002 (F 22 (IFA)) |
 
+### Speech and Language Processing
+
+- **Segment:** `unit:75252` · **unitId:** `75252`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75252&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### Speech and Language Understanding (VHB-Kurs) — Vorlesung
+
+- **Segment:** `unit:82699` · **unitId:** `82699`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82699&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
 ### Speech and Language Understanding Exercises — Übung
 
 - **Segment:** `unit:84928` · **unitId:** `84928`
@@ -2147,6 +3752,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Sommersemester
+
+### Teaching methodology (Klausur)
+
+- **Segment:** `unit:44981` · **unitId:** `44981`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44981&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Technology and innovation management (Klausur)
+
+- **Segment:** `unit:27497` · **unitId:** `27497`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27497&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 08:00–09:00 | — | — |
 
 ### Technology and Innovation Management (V) — Vorlesung
 
@@ -2194,19 +3827,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 21102.05.452 ((14 Plätze)) 21101.05.226 (LG 5.226 Experimentallabor des Lehrstuhls für Psychologie, insbes. Wirtschafts- und Sozialpsychologie (BITTE BEACHTEN: dieser Raum ist nicht zur allgemeinen Verfügung!)) |
 
-### Ökonometrie (Klausur)
+### Ökonometrie — Vorlesung
 
-- **Segment:** `unit:27649` · **unitId:** `27649`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=27649&periodId=589>
+- **Segment:** `unit:92561` · **unitId:** `92561`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92561&periodId=589>
 
+- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Fr | Fr | 14:30–16:30 | — | 21101.04.109 (4.109, nur für Lehrstuhl-interne Veranstaltungen nutzbar) |
+- **Turnus:** nur im Wintersemester
 
 ### Ökonometrie-Übung
 

@@ -166,7 +166,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (128)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (213)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -216,6 +216,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 10:15–11:45 | 21.04.2026–14.07.2026 | 11401.00.116 (H14 Bernhard-Ilschner-Hörsaal (0.61)) |
 
+### Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics) — Vorlesung
+
+- **Segment:** `unit:82498` · **unitId:** `82498`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82498&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### Advanced Course in Experimental Physics  (Lasers, Atomic Physics and Quantum Optics)(Laser exercise lab)(EV-AL) — Übung
 
 - **Segment:** `unit:84291` · **unitId:** `84291`
@@ -231,6 +240,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### Advanced experimental physics
+
+- **Segment:** `unit:42162` · **unitId:** `42162`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42162&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Advanced experimental physics: Particle and astroparticle physics — Vorlesung
 
@@ -248,6 +271,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 13003.00.877 (HC Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 | wöchentlich | Do | 12:00–14:00 | 16.04.2026–16.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+
+### Advanced experimental physics: Particle and astroparticle physics (Excercise class) — Übung
+
+- **Segment:** `unit:98293` · **unitId:** `98293`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98293&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 20.04.2026–13.07.2026 | 10402.01.121 (TL 1.140 Seminarraum im Tandemlabor (1.140)) |
 
 ### Advanced experimental physics: Solid state physics — Vorlesung
 
@@ -280,6 +318,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
+
+### Advanced Laser — Vorlesung mit Übung
+
+- **Segment:** `unit:86627` · **unitId:** `86627`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86627&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 13:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
+| Einzeltermin | Fr | 13:00–17:00 | 17.04.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 08.05.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 15.05.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 22.05.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 19.06.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 03.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
+| Einzeltermin | Fr | 13:00–17:00 | 10.07.2026 | 07205.00.030 (SR 00.030 Seminarraum EG Konrad-Zuse-Str. 3/5 - Belegung ausschließlich durch Lehrveranstaltungen) |
 
 ### Advanced nonlinear optics — Vorlesung
 
@@ -320,6 +381,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
+### Advanced Optical Spectroscopy in Solids — Vorlesung mit Übung
+
+- **Segment:** `unit:116402` · **unitId:** `116402`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116402&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Advanced Programming Techniques — Vorlesung mit Übung
 
 - **Segment:** `unit:84276` · **unitId:** `84276`
@@ -352,6 +422,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Do | Do | 09:00–09:45 | — | — |
 
+### Advanced theoretical physics
+
+- **Segment:** `unit:42164` · **unitId:** `42164`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42164&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–12:00 | — | 13003.00.836 (HF Hörsaal Physikum) |
+
+### Advanced theoretical physics: Advanced quantum mechanics — Vorlesung
+
+- **Segment:** `unit:91909` · **unitId:** `91909`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91909&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
 ### Advanced theoretical physics: Advanced quantum mechanics (Exercise class) — Übung
 
 - **Segment:** `unit:88568` · **unitId:** `88568`
@@ -359,6 +452,24 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
+
+### Advanced theoretical physics: Solid state physics — Vorlesung
+
+- **Segment:** `unit:88252` · **unitId:** `88252`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88252&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+| Einzeltermin | Fr | 10:00–12:00 | 29.05.2026 | 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### Advanced theoretical physics: Solid state physics (Exercise class) — Übung
 
@@ -375,6 +486,45 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 13:00–15:00 | 13.04.2026–13.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
 
+### Advances in Spin and Photon-Based Quantum Technologies
+
+- **Segment:** `unit:132255` · **unitId:** `132255`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132255&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Advances in Spin and Photon-Based Quantum Technologies — Seminar
+
+- **Segment:** `unit:132824` · **unitId:** `132824`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=132824&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | — |
+
+### Arduino hard- and software for lab applications and beyond — Praktikum
+
+- **Segment:** `unit:104111` · **unitId:** `104111`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104111&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### Attosecond Physics — Hauptseminar
 
 - **Segment:** `unit:122440` · **unitId:** `122440`
@@ -390,6 +540,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 10402.02.132 |
+
+### Attosekundenphysik
+
+- **Segment:** `unit:54944` · **unitId:** `54944`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54944&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Attosekundenphysik — Vorlesung
 
@@ -424,6 +588,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 11401.00.237 (0.85 Seminarraum) |
+
+### Basics of Laser — Vorlesung mit Übung
+
+- **Segment:** `unit:105940` · **unitId:** `105940`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105940&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 4.0
+- **Turnus:** nur im Wintersemester
+
+### Bild am Dienstag - Medizin in Röntgenbildern
+
+- **Segment:** `unit:44433` · **unitId:** `44433`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44433&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Bild am Dienstag - Medizin in Röntgenbildern — Vorlesung
 
@@ -488,6 +675,39 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** jedes 4. Semester
 
+### Complex Systems 2: Econo/Socio physics, continuum dynamical systems — Vorlesung mit Übung
+
+- **Segment:** `unit:93543` · **unitId:** `93543`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93543&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** jedes 4. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–19:00 | 14.04.2026–14.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+| Einzeltermin | Mi | 14:30–17:30 | 27.05.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
+
+### Complex Systems 3: Self-organization, game theory, discrete dynamical systems — Vorlesung mit Übung
+
+- **Segment:** `unit:85880` · **unitId:** `85880`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85880&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** jedes 4. Semester
+
+### Complex Systems 4: Information, neurophysics, machine learning — Vorlesung mit Übung
+
+- **Segment:** `unit:124584` · **unitId:** `124584`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=124584&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+
 ### Computational Optics CE & MAOT — Vorlesung mit Übung
 
 - **Segment:** `unit:89636` · **unitId:** `89636`
@@ -497,6 +717,50 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 7.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
+
+### Computational Photography and Capture
+
+- **Segment:** `unit:80249` · **unitId:** `80249`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=80249&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Computational Photography and Capture — Vorlesung
+
+- **Segment:** `unit:91679` · **unitId:** `91679`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91679&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 12801.01.150 (01.150-128 Seminarraum) |
+
+### Computational Visual Perception
+
+- **Segment:** `unit:76085` · **unitId:** `76085`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76085&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 13:00–14:00 | — | — |
 
 ### Computational Visual Perception — Vorlesung
 
@@ -551,6 +815,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 16:15–17:45 | 16.04.2026–16.07.2026 | 11302.00.153 (00.153-113 CIP CIP-Pool Informatik (CIP3)) |
+
+### Data Science Survival Skills
+
+- **Segment:** `unit:76877` · **unitId:** `76877`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76877&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | — | — | — |
 
 ### Data Science Survival Skills — Vorlesung mit Übung
 
@@ -618,6 +896,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 1.0
 - **Turnus:** nur im Wintersemester
 
+### Electrical energy storage systems
+
+- **Segment:** `unit:78918` · **unitId:** `78918`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78918&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
+
 ### Elektrische Energiespeichersysteme — Vorlesung
 
 - **Segment:** `unit:82445` · **unitId:** `82445`
@@ -642,6 +934,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Engineering of Solid State Lasers
+
+- **Segment:** `unit:36383` · **unitId:** `36383`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36383&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 16:15–17:45 | — | — |
 
 ### Engineering of Solid State Lasers — Vorlesung
 
@@ -676,6 +982,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
+### Exercise to Attosecond  Physics — Übung
+
+- **Segment:** `unit:134675` · **unitId:** `134675`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134675&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch oder Englisch: Die Unterrichts- und Prüfungssprache wird von der/dem Dozierenden zu Vorlesungsbeginn festgelegt
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 20.04.2026–13.07.2026 | 10402.02.132 |
+
 ### Exercises for Advanced Programming Techniques — Übung
 
 - **Segment:** `unit:88033` · **unitId:** `88033`
@@ -709,6 +1030,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Felder und Wellen in optoelektronischen Bauelementen (V-Fel-Wel)
+
+- **Segment:** `unit:110261` · **unitId:** `110261`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110261&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 10:00–11:00 | — | 07205.01.030 (01.030 Seminarraum) |
+
+### Functional Analysis for Engineers
+
+- **Segment:** `unit:25899` · **unitId:** `25899`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25899&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 11:00–12:00 | — | 11901.00.226 (H8 Hörsaal 8) |
+
 ### Functional Analysis for Engineers — Vorlesung mit Übung
 
 - **Segment:** `unit:85224` · **unitId:** `85224`
@@ -733,6 +1082,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 08:15–09:45 | 24.04.2026–17.07.2026 | 11401.00.037 (0.15 Seminarraum) 11401.00.109 (0.56 Praktikum) 11401.00.237 (0.85 Seminarraum) |
+
+### Fundamentals in Anatomy and Physiology for Engineers
+
+- **Segment:** `unit:75976` · **unitId:** `75976`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75976&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 11:00–12:00 | — | 00801.00.112 (H Anatomie I (Eingang über Universitätsstraße 19)) |
+
+### Fundamentals in Anatomy and Physiology for Engineers — Online-Kurs
+
+- **Segment:** `unit:90801` · **unitId:** `90801`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90801&periodId=589>
+
+- **Veranstaltungsart:** Online-Kurs
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+### Fundamentals of Optics — Vorlesung mit Übung
+
+- **Segment:** `unit:99515` · **unitId:** `99515`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99515&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 15.0
+- **Turnus:** nur im Wintersemester
 
 ### Glas I
 
@@ -865,6 +1246,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Introduction to Machine Learning
+
+- **Segment:** `unit:71268` · **unitId:** `71268`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71268&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
 ### Introduction to Machine Learning — Vorlesung mit Übung
 
 - **Segment:** `unit:83006` · **unitId:** `83006`
@@ -906,6 +1301,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–16:00 | 20.04.2026–20.07.2026 | 11907.01.030 (H19) 11501.01.104 (H5 Hörsaal 5) |
 
+### Introduction to medical physics in radiation therapy
+
+- **Segment:** `unit:46730` · **unitId:** `46730`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46730&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Introduction to Quantum Communication — Vorlesung mit Übung
 
 - **Segment:** `unit:119059` · **unitId:** `119059`
@@ -921,6 +1330,33 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 15:00–16:30 | 17.04.2026–17.07.2026 | 13101.01.332 (SR 01.332 Seminarraum Festkörperphysik) |
+
+### Introduction to Quantum Communication
+
+- **Segment:** `unit:120759` · **unitId:** `120759`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120759&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Klausur Computational Optics
+
+- **Segment:** `unit:25898` · **unitId:** `25898`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25898&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 08:00–09:00 | — | 12801.01.220 (H12 Emmy-Noether-Hörsaal) |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -940,6 +1376,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:102473` · **unitId:** `102473`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102473&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Lab Course "Optical Metrology" — Praktikum
+
+- **Segment:** `unit:99730` · **unitId:** `99730`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=99730&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
@@ -994,6 +1439,51 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Laser Tissue Interaction — Vorlesung
+
+- **Segment:** `unit:89555` · **unitId:** `89555`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89555&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 21.04.2026–14.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
+
+### Laser Tissue Interaction Exercises — Übung
+
+- **Segment:** `unit:95206` · **unitId:** `95206`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95206&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 07.04.2026–14.07.2026 | 07201.01.009 (AOT-Kursraum Kursraum von SAOT und MAOT) |
+
+### Laser-based Additive Manufacturing of Metals
+
+- **Segment:** `unit:134432` · **unitId:** `134432`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134432&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 10:00–11:00 | — | 11901.00.226 (H8 Hörsaal 8) |
+
 ### Laser-based Additive Manufacturing of Metals — Vorlesung
 
 - **Segment:** `unit:134556` · **unitId:** `134556`
@@ -1008,6 +1498,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:15–13:45 | 13.04.2026–13.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
+
+### Laserbasierte Prozesse in Industrie und Medizin
+
+- **Segment:** `unit:22488` · **unitId:** `22488`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22488&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | — | — | — |
 
 ### Laserbasierte Prozesse in Industrie und Medizin — Vorlesung
 
@@ -1025,6 +1529,50 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
 | wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
+
+### Lasersicherheit, Integration von Lasern in Maschinen, Steuerungs- und Automatisierungstechnik — Vorlesung
+
+- **Segment:** `unit:84009` · **unitId:** `84009`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84009&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 30.04.2026–16.07.2026 | 07205.02.030 (SR LPT 02.030 Seminarraum LS Photonische Technologien) |
+
+### Lasersystemtechnik II: Lasersicherheit, Integration von Lasern in Maschinen, Steuerungs- und Automatisierungstechnik
+
+- **Segment:** `unit:30517` · **unitId:** `30517`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30517&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | — | — | — |
+
+### Lasertechnik / Laser Technology
+
+- **Segment:** `unit:21023` · **unitId:** `21023`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21023&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | 11901.00.240 (H10 Hörsaal 10) |
 
 ### Latein I für Anfänger (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 
@@ -1110,6 +1658,50 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
 
+### Logical foundations of empirical knowledge
+
+- **Segment:** `unit:128754` · **unitId:** `128754`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128754&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Logical foundations of empirical knowledge — Seminar
+
+- **Segment:** `unit:128848` · **unitId:** `128848`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128848&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | — |
+
+### Machine Learning for Engineers I - Introduction to Methods and Tools
+
+- **Segment:** `unit:72780` · **unitId:** `72780`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=72780&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Machine Learning for Engineers I: Introduction to Methods and Tools — Vorlesung
 
 - **Segment:** `unit:84007` · **unitId:** `84007`
@@ -1119,6 +1711,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
+
+### Machine Learning for Engineers II: Advanced Methods
+
+- **Segment:** `unit:75618` · **unitId:** `75618`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75618&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Machine Learning for Engineers II: Advanced Methods — Vorlesung
 
@@ -1167,6 +1773,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 
+### Magnetic Resonance Imaging
+
+- **Segment:** `unit:49320` · **unitId:** `49320`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49320&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 13:00–15:00 | — | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
+
 ### Magnetic Resonance Imaging 1 — Vorlesung
 
 - **Segment:** `unit:88402` · **unitId:** `88402`
@@ -1175,6 +1795,46 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
+
+### Magnetic Resonance Imaging 1 - Exercise — Übung
+
+- **Segment:** `unit:87143` · **unitId:** `87143`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87143&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+### Magnetic Resonance Imaging 2 — Vorlesung
+
+- **Segment:** `unit:86875` · **unitId:** `86875`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86875&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:00–15:00 | 17.04.2026–17.07.2026 | 08801.01.020 ( Hörsaal ZMPT 01.020) |
+
+### Magnetic Resonance Imaging 2 + Übung
+
+- **Segment:** `unit:53476` · **unitId:** `53476`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53476&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 13:00–15:00 | — | 08105.00.915 (Großer Hörsaal - Hörsäle Medizin) |
 
 ### Magnetic Resonance Imaging 2 - Exercise — Übung
 
@@ -1201,6 +1861,84 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nicht in diesem Semester
 
+### Masterpraktikum Lasertechnik
+
+- **Segment:** `unit:84908` · **unitId:** `84908`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84908&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Do | 09:00–13:00 | 28.05.2026 | 07205.02.033 (CIP-Pool MB II) |
+| Einzeltermin | Do | 09:00–13:00 | 18.06.2026 | 07205.02.033 (CIP-Pool MB II) |
+| Einzeltermin | Do | 09:00–13:00 | 09.07.2026 | 07205.02.033 (CIP-Pool MB II) |
+
+### Mathematical Image Processing — Vorlesung mit Übung
+
+- **Segment:** `unit:113128` · **unitId:** `113128`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113128&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 16:00–18:00 | 14.04.2026–07.07.2026 | 12801.01.210 (H11) |
+| 14-täglich | Mi | 10:00–12:00 | 15.04.2026–08.07.2026 | 12801.01.210 (H11) |
+
+### Medical Imaging System Technology
+
+- **Segment:** `unit:45686` · **unitId:** `45686`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45686&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:00–12:30 | — | 11901.00.226 (H8 Hörsaal 8) |
+
+### Medical Imaging System Technology — Vorlesung mit Übung
+
+- **Segment:** `unit:86040` · **unitId:** `86040`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86040&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–17:45 | 16.04.2026–16.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
+
+### Medizintechnische Anwendungen der Photonik
+
+- **Segment:** `unit:34945` · **unitId:** `34945`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=34945&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Medizintechnische Anwendungen der Photonik — Vorlesung
 
 - **Segment:** `unit:85156` · **unitId:** `85156`
@@ -1216,6 +1954,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 24.04.2026–17.07.2026 | 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) |
+
+### Medizintechnische Anwendungen der Photonik Übung
+
+- **Segment:** `unit:88607` · **unitId:** `88607`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88607&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) 11501.05.222 (HF-Technik: SR 05.222 Seminarraum (alt 5.14)) 11501.06.226 (HF-Technik: BZ 06.226 Besprechungszimmer (alt 6.18)) |
+| Einzeltermin | Fr | 12:15–13:45 | 22.05.2026 | 11501.00.157 (0.157-115 CIP Pool EEI) |
 
 ### Microstructure Modeling
 
@@ -1247,6 +2001,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Do | 16:15–17:45 | 23.04.2026–16.07.2026 | 11401.02.261 |
 | Einzeltermin | Fr | 14:15–15:45 | 10.07.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
 | Einzeltermin | Do | 16:15–17:45 | 16.07.2026 | 11401.00.124 (CIP Pool WW CIP Pool Werkstoffwissenschaften) |
+
+### Modern Optics 1: Advanced Optics — Vorlesung
+
+- **Segment:** `unit:88880` · **unitId:** `88880`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88880&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Modern Optics 1: Advanced Optics (Excercise class) — Übung
 
@@ -1285,6 +2048,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 09:00–11:00 | 14.04.2026–14.07.2026 | 13101.01.779 (SR 01.779 Seminarraum des Instituts für Optik, Information und Photonik) |
 
+### Modern optics 3: Quantum optics
+
+- **Segment:** `unit:50425` · **unitId:** `50425`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=50425&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 10:00–12:00 | — | — |
+
+### Modern Optics 3: Quantum Optics — Vorlesung
+
+- **Segment:** `unit:83650` · **unitId:** `83650`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83650&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 13:00–15:00 | 17.04.2026–17.07.2026 | — |
+
 ### Next Generation Mobile Communication Systems: 5G-Advanced and 6G — Vorlesung
 
 - **Segment:** `unit:87715` · **unitId:** `87715`
@@ -1322,6 +2115,61 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113087&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Novel techniques in ultrafast spectroscopy — Seminar
+
+- **Segment:** `unit:113614` · **unitId:** `113614`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113614&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Open Quantum Systems — Vorlesung mit Übung
+
+- **Segment:** `unit:128680` · **unitId:** `128680`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128680&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |
+| wöchentlich | Mi | 14:00–17:00 | 15.04.2026–15.07.2026 | 13101.02.779 (SR 02.779 Seminarraum der Theoretischen Physik II) |
+| wöchentlich | Fr | 14:00–17:00 | 17.04.2026–17.07.2026 | 13101.01.683 (SR 01.683 Seminarraum der Theoretischen Physik I) |
+
+### Open Quantum Systems
+
+- **Segment:** `unit:128764` · **unitId:** `128764`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128764&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Optical diagnostics in energy and process engineering
+
+- **Segment:** `unit:76267` · **unitId:** `76267`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76267&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Optical Diagnostics in Energy and Process Engineering — Vorlesung
 
@@ -1432,6 +2280,36 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 08:15–09:45 | 20.04.2026–13.07.2026 | 12104.01.411 (KS II Kurssaal II) |
 
+### Photon & Neutron Scattering for Structure Determination
+
+- **Segment:** `unit:106555` · **unitId:** `106555`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106555&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Photon & Neutron Scattering for Structure Determination Exercises — Übung
+
+- **Segment:** `unit:106335` · **unitId:** `106335`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106335&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | — |
+
 ### Photonic Machine Learning — Seminar
 
 - **Segment:** `unit:117610` · **unitId:** `117610`
@@ -1440,6 +2318,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Photonics in Medical Technology Exercise — Übung
+
+- **Segment:** `unit:104679` · **unitId:** `104679`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104679&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Photovoltaic systems - Fundamentals
+
+- **Segment:** `unit:76974` · **unitId:** `76974`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76974&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 09:00–09:45 | — | — |
 
 ### Photovoltaics (PV) and PV Systems II: Light Conversion and Light Management
 
@@ -1464,6 +2365,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch oder Englisch
 - **Turnus:** in jedem Semester
+
+### Physikalisches Seminar: Nonlinear and Quantum Optics — Hauptseminar
+
+- **Segment:** `unit:92583` · **unitId:** `92583`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92583&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
+### Power electronics for decentral energy systems
+
+- **Segment:** `unit:76233` · **unitId:** `76233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=76233&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Sa | Sa | 08:00–09:30 | — | 12801.01.210 (H11) |
 
 ### Power Electronics for Decentral Energy Systems — Vorlesung
 
@@ -1510,6 +2434,41 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | — | — | — | — | — |
 
+### Produktanalyse — Vorlesung
+
+- **Segment:** `unit:88168` · **unitId:** `88168`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88168&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 4.0
+- **Turnus:** nur im Wintersemester
+
+### Quantenelektronik I - Tunnel-Bauelemente
+
+- **Segment:** `unit:127380` · **unitId:** `127380`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127380&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Quantensensorik
+
+- **Segment:** `unit:114863` · **unitId:** `114863`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=114863&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:00–09:30 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
+
 ### Quantensensorik — Vorlesung
 
 - **Segment:** `unit:118586` · **unitId:** `118586`
@@ -1526,6 +2485,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 07205.01.030 (01.030 Seminarraum) |
 
+### Quantum Communication
+
+- **Segment:** `unit:73272` · **unitId:** `73272`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73272&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Quantum Communication — Hauptseminar
 
 - **Segment:** `unit:90959` · **unitId:** `90959`
@@ -1541,6 +2514,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 17:00–18:30 | 17.04.2026–17.07.2026 | 13003.00.836 (HF Hörsaal Physikum) |
+
+### Quantum Information Processing: Implementations — Vorlesung
+
+- **Segment:** `unit:128815` · **unitId:** `128815`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=128815&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Scannen und Drucken in 3D
 
@@ -1665,6 +2645,51 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wird noch angekündigt | — | — | — | — |
 
+### Theoretical physics: Solid state physics
+
+- **Segment:** `unit:42154` · **unitId:** `42154`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42154&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–12:00 | — | 13003.00.847 (HE Hörsaal Physikum) |
+
+### Theoretische Physik 3: Quantenmechanik — Vorlesung
+
+- **Segment:** `unit:83420` · **unitId:** `83420`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83420&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+
+### Theoretische Physik: Quantenmechanik
+
+- **Segment:** `unit:25766` · **unitId:** `25766`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25766&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–12:00 | — | 13003.00.836 (HF Hörsaal Physikum) |
+
 ### Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik
 
 - **Segment:** `unit:44837` · **unitId:** `44837`
@@ -1696,6 +2721,59 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 07201.01.009 (AOT-Kursraum Kursraum von SAOT und MAOT) |
 | wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 07201.01.009 (AOT-Kursraum Kursraum von SAOT und MAOT) |
 
+### Thermophysikalische Eigenschaften von Arbeitsstoffen der Verfahrens- und Energietechnik Praktikum
+
+- **Segment:** `unit:47553` · **unitId:** `47553`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47553&periodId=589>
+
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Topics of Optical Technologies — Vorlesung
+
+- **Segment:** `unit:84385` · **unitId:** `84385`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84385&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
+### Tutorial for Mathematical Image Processing — Tutorium
+
+- **Segment:** `unit:113132` · **unitId:** `113132`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113132&periodId=589>
+
+- **Veranstaltungsart:** Tutorium
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Mi | 10:00–12:00 | 22.04.2026–15.07.2026 | 12801.01.210 (H11) |
+
+### Tutorials to Computational Photography and Capture — Übung
+
+- **Segment:** `unit:87385` · **unitId:** `87385`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87385&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:15–15:45 | 16.04.2026–16.07.2026 | 11302.01.153 (01.153-113 CIP CIP-Pool Informatik (WinCIP)) |
+
 ### Tutorials to Computational Visual Perception — Projektseminar
 
 - **Segment:** `unit:83294` · **unitId:** `83294`
@@ -1705,6 +2783,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Waveguides, optical fibres and photonic crystal fibres
+
+- **Segment:** `unit:73810` · **unitId:** `73810`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=73810&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Waveguides, optical fibres and photonic crystal fibres — Vorlesung mit Übung
 
 - **Segment:** `unit:88741` · **unitId:** `88741`
@@ -1713,6 +2805,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Written exam: Complex Systems II
+
+- **Segment:** `unit:44021` · **unitId:** `44021`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44021&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 14:00–16:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Written or oral exam: Mathematical Image Processing
+
+- **Segment:** `unit:44018` · **unitId:** `44018`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44018&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 10:15–11:45 | — | — |
 
 ### Übung Produktanalyse
 
@@ -1768,3 +2888,32 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
+
+### Übung zur Quantensensorik — Vorlesung mit Übung
+
+- **Segment:** `unit:118812` · **unitId:** `118812`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118812&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 07205.01.030 (01.030 Seminarraum) |
+
+### Übungen zu Theoretische Physik 3: Quantenmechanik
+
+- **Segment:** `unit:110493` · **unitId:** `110493`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110493&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–17:00 | 13.04.2026–13.07.2026 | 13101.02.729 (SR 02.729 Seminarraum der Theoretischen Physik III) |

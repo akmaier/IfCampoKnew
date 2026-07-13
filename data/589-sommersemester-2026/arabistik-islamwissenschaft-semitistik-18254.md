@@ -196,9 +196,32 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (16)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (30)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Arabische Schönschrift und Kalligraphie — Übung
+
+- **Segment:** `unit:97715` · **unitId:** `97715`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97715&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:15–15:45 | 17.04.2026–17.07.2026 | 05801.04.213 ( B 604) |
+
+### Arabisches Textseminar — Übungsseminar
+
+- **Segment:** `unit:107102` · **unitId:** `107102`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107102&periodId=589>
+
+- **Veranstaltungsart:** Übungsseminar
 
 ### Biblisch-koranische Diskurse — Vorlesung
 
@@ -306,10 +329,52 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
+### Lektüreübung (Quran and modernity), MA, 2.FS — Vorlesung mit Übung
+
+- **Segment:** `unit:119226` · **unitId:** `119226`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119226&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 12:00–13:00 | 02.06.2026 | 56701.03.011 |
+| wöchentlich | Di | 14:15–15:45 | 09.06.2026–30.06.2026 | 56701.03.011 |
+
 ### MA 1: Forschungsmethoden und Quellenanalyse (Übung) — Masterseminar
 
 - **Segment:** `unit:94221` · **unitId:** `94221`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94221&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
+- **Turnus:** nur im Wintersemester
+
+### MA 1: Jüdisch-Arabisch — Übung
+
+- **Segment:** `unit:95432` · **unitId:** `95432`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95432&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
+### MA 1: Koran und Kontext — Vorlesung
+
+- **Segment:** `unit:89303` · **unitId:** `89303`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89303&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Wintersemester
+
+### MA 1: Sozial- und Kulturgeschichte des Islam — Masterseminar
+
+- **Segment:** `unit:100218` · **unitId:** `100218`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100218&periodId=589>
 
 - **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Wintersemester
@@ -362,6 +427,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 05801.04.213 ( B 604) |
 
+### MA 2. FS: [Modul Semitische Sprachwissenschaft] Masterseminar
+
+- **Segment:** `unit:105360` · **unitId:** `105360`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=105360&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:15–17:45 | 14.04.2026–14.07.2026 | 05801.04.213 ( B 604) |
+
+### MA 2. FS: [Modul Semitische Sprachwissenschaft] Vorlesung
+
+- **Segment:** `unit:94539` · **unitId:** `94539`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94539&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 16:00–18:00 | 21.04.2026 | — |
+
 ### MA 3: Moderne arabische Literatur — Vorlesung
 
 - **Segment:** `unit:99989` · **unitId:** `99989`
@@ -377,6 +474,94 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111956&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
+
+### Modernes arabisches Theater — Kurs
+
+- **Segment:** `unit:90900` · **unitId:** `90900`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90900&periodId=589>
+
+- **Veranstaltungsart:** Kurs
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05801.04.213 ( B 604) |
+
+### Politische Philosophie in der islamischen Welt: Vormoderne — Seminar
+
+- **Segment:** `unit:135407` · **unitId:** `135407`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135407&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
+
+### Referat (20 Min.) und Hausarbeit (ca. 20 Seiten) oder Klausur (90 Min.) zu Klassische Arabische Literatur
+
+- **Segment:** `unit:42314` · **unitId:** `42314`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42314&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Referat (20 Min.) und Hausarbeit (ca. 20 Seiten) oder Klausur (90 Min.) zu Koran und Moderne
+
+- **Segment:** `unit:42312` · **unitId:** `42312`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42312&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Referat (20 Min.) und Hausarbeit (ca. 20 Seiten) oder Klausur (90 Min.) zu Moderne Arabische Literatur
+
+- **Segment:** `unit:42315` · **unitId:** `42315`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=42315&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Rückert-Vorlesung
+
+- **Segment:** `unit:134025` · **unitId:** `134025`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134025&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Mi | 18:00–20:00 | 20.05.2026 | 00501.01.011 ( KH 1.011 Senatssaal im Kollegienhaus) |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 

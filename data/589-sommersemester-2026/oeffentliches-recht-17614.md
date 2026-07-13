@@ -223,6 +223,12 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** jedes 2. Semester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:00–10:00 | 17.04.2026–17.07.2026 | 06102.02.281 ( JDC R 2.281 Prüfungsraum 2.281 Juridicum) |
+
 ### Polizei- und Sicherheitsrecht - Vorlesung
 
 - **Segment:** `exam:13904382` · **unitId:** `120083`
@@ -342,7 +348,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85714&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 00501.02.016 ( KH 2.016 Hörsaal Kollegienhaus) |
 
 ### PPU GR - Propädeutische Übungen Grundrechte - Propädeutische Übung
 
@@ -383,9 +397,16 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=104063&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (19)
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (20)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -550,6 +571,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Propädeutische Übung
 - **Turnus:** nur im Wintersemester
+
+### PÜ Polizei- und Sicherheitsrecht — Propädeutische Übung
+
+- **Segment:** `unit:111660` · **unitId:** `111660`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=111660&periodId=589>
+
+- **Veranstaltungsart:** Propädeutische Übung
+- **Turnus:** jedes 2. Semester
 
 ### PÜ Staatsorganisationsrecht — Propädeutische Übung
 

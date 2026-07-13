@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18279"
 campo_path: "title:17593|title:17595|title:18279"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279"
-po_version_count: 0
-course_count: 0
+po_version_count: 13
+course_count: 131
 fau_studiengang:
   - title: "English and American Studies (B.A.)"
     rel_path: "studiengang/english-and-american-studies-b-a.md"
@@ -249,7 +249,1248 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (183)
+## Prüfungsordnungs-Versionen (13)
+
+### 1710 Zwischenmodul II
+
+- **Campo-Segment:** `exam:15428630`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428629|exam:15428630>
+
+### 1710 Zwischenmodul II
+
+- **Campo-Segment:** `exam:15432091`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432090|exam:15432091>
+
+### 1720 Hauptmodul I
+
+- **Campo-Segment:** `exam:15428660`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428629|exam:15428660>
+
+### 1720 Hauptmodul I
+
+- **Campo-Segment:** `exam:15432121`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432090|exam:15432121>
+
+### 1730 Hauptmodul II
+
+- **Campo-Segment:** `exam:15428710`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428629|exam:15428710>
+
+### 1760 Hauptmodul I
+
+- **Campo-Segment:** `exam:15428742`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428741|exam:15428742>
+
+### 1760 Hauptmodul I
+
+- **Campo-Segment:** `exam:15432180`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432179|exam:15432180>
+
+### 1760 Zwischenmodul II
+
+- **Campo-Segment:** `exam:15425205`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425204|exam:15425205>
+
+### 1760 Zwischenmodul II
+
+- **Campo-Segment:** `exam:15430367`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430366|exam:15430367>
+
+### 1770 Hauptmodul A
+
+- **Campo-Segment:** `exam:15425244`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425204|exam:15425244>
+
+### 1780 Hauptmodul B
+
+- **Campo-Segment:** `exam:15425291`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425204|exam:15425291>
+
+### 1800 Hauptmodule
+
+- **Campo-Segment:** `exam:15430406`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430366|exam:15430406>
+
+### 1810 Hauptmodule Literature/Culture
+
+- **Campo-Segment:** `exam:15430489`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430488|exam:15430489>
+
+## Veranstaltungen (131)
+
+### Aufbauseminar Culture - Aufbauseminar
+
+- **Segment:** `exam:15425398` · **unitId:** `87786`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425396|exam:15425398>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87786&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+
+### Aufbauseminar Culture - Aufbauseminar
+
+- **Segment:** `exam:15430549` · **unitId:** `87786`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430547|exam:15430549>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87786&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+
+### Aufbauseminar English Linguistics II (Erlangen) - Aufbauseminar
+
+- **Segment:** `exam:15425387` · **unitId:** `96940`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425383|exam:15425387>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+
+### Aufbauseminar English Linguistics II (Erlangen) - Aufbauseminar
+
+- **Segment:** `exam:15430538` · **unitId:** `96940`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430534|exam:15430538>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+
+### Aufbauseminar Literature - Aufbauseminar
+
+- **Segment:** `exam:15425393` · **unitId:** `92490`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425391|exam:15425393>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92490&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### Aufbauseminar Literature - Aufbauseminar
+
+- **Segment:** `exam:15430544` · **unitId:** `92490`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430542|exam:15430544>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92490&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### Basisvorlesung English Linguistics II - Vorlesung
+
+- **Segment:** `exam:15718066` · **unitId:** `122585`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425383|exam:15718066>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122585&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+
+### Basisvorlesung English Linguistics II - Vorlesung
+
+- **Segment:** `exam:15718068` · **unitId:** `122585`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430534|exam:15718068>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122585&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+
+### GLC II & GLC II Plus - Übung
+
+- **Segment:** `exam:15428815` · **unitId:** `86310`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428813|exam:15428815>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86310&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+
+### GLC II & GLC II Plus - Übung
+
+- **Segment:** `exam:15432244` · **unitId:** `86310`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432242|exam:15432244>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86310&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+
+### Grundseminar Culture - Grundseminar
+
+- **Segment:** `exam:15425397` · **unitId:** `95291`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425396|exam:15425397>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95291&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
+### Grundseminar Culture - Grundseminar
+
+- **Segment:** `exam:15430548` · **unitId:** `95291`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430547|exam:15430548>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95291&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
+### Grundseminar English Linguistics I (Erlangen) - Grundseminar
+
+- **Segment:** `exam:15425384` · **unitId:** `89856`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425383|exam:15425384>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+
+### Grundseminar English Linguistics I (Erlangen) - Grundseminar
+
+- **Segment:** `exam:15430535` · **unitId:** `89856`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430534|exam:15430535>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
+
+### Grundseminar Literature (Erlangen) - Grundseminar
+
+- **Segment:** `exam:15425392` · **unitId:** `90210`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425391|exam:15425392>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+### Grundseminar Literature (Erlangen) - Grundseminar
+
+- **Segment:** `exam:15430543` · **unitId:** `90210`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430542|exam:15430543>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=589>
+
+- **Veranstaltungsart:** Grundseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Buchwissenschaft Zweitfach 2011)
+
+- **Segment:** `exam:15425412` · **unitId:** `38579`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425412>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38579&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Buchwissenschaft Zweitfach 20192)
+
+- **Segment:** `exam:15425427` · **unitId:** `110280`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425427>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110280&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch English and American Studies Erstfach 2009)
+
+- **Segment:** `exam:15425401` · **unitId:** `28187`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425401>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28187&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch English and American Studies Erstfach 20202)
+
+- **Segment:** `exam:15428822` · **unitId:** `70172`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428822>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70172&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Geschichte Zweitfach 20182)
+
+- **Segment:** `exam:15428824` · **unitId:** `118836`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428824>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118836&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Iberoromanistik Zweitfach 20142)
+
+- **Segment:** `exam:15425423` · **unitId:** `49520`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425423>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49520&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Kulturgeographie Zweitfach 2012)
+
+- **Segment:** `exam:15425417` · **unitId:** `44827`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425417>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44827&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Linguistische Informatik Erstfach 20162)
+
+- **Segment:** `exam:15425405` · **unitId:** `46274`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425405>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46274&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Linguistische Informatik Zweitfach 2009)
+
+- **Segment:** `exam:15425403` · **unitId:** `35573`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425403>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=35573&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Orientalistik Zweitfach 2007)
+
+- **Segment:** `exam:15425408` · **unitId:** `37105`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425408>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37105&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Politikwissenschaft Zweitfach 2010)
+
+- **Segment:** `exam:15425415` · **unitId:** `39119`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425415>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39119&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Politikwissenschaft Zweitfach 20162)
+
+- **Segment:** `exam:15425419` · **unitId:** `45713`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425419>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45713&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Pädagogik Zweitfach 20152)
+
+- **Segment:** `exam:15425421` · **unitId:** `48808`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425421>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=48808&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Soziologie Zweitfach 20162)
+
+- **Segment:** `exam:15425425` · **unitId:** `68864`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425425>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68864&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Theater- und Medienwissenschaft Zweitfach 2010)
+
+- **Segment:** `exam:15425410` · **unitId:** `37340`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425410>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37340&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Theater- und Medienwissenschaft Zweitfach 20172)
+
+- **Segment:** `exam:15733386` · **unitId:** `70231`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15733386>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=70231&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Theater- und Medienwissenschaft Zweitfach 20192)
+
+- **Segment:** `exam:15428826` · **unitId:** `123872`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428826>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=123872&periodId=589>
+
+### 1999 Bachelorarbeit (B.A.,2Fäch Ökonomie Zweitfach 20202)
+
+- **Segment:** `exam:15901391` · **unitId:** `120238`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15901391>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120238&periodId=589>
+
+### 69913 Integrated Academic Language Skills for BA Students II - Leistung
+
+- **Segment:** `exam:15428812` · **unitId:** `54440`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428810|exam:15428812>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54440&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 70011 Grundseminar - Leistung
+
+- **Segment:** `exam:15425381` · **unitId:** `28154`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425380|exam:15425381>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28154&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 70011 Grundseminar - Leistung
+
+- **Segment:** `exam:15430532` · **unitId:** `28154`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430531|exam:15430532>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28154&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 70012 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15425382` · **unitId:** `28155`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425380|exam:15425382>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28155&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 70012 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15430533` · **unitId:** `28155`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430531|exam:15430533>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=28155&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 70021 Basismodul I Language - Leistung
+
+- **Segment:** `exam:15428818` · **unitId:** `54414`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428813|exam:15428818>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54414&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Sa | Sa | 09:30–13:00 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### 70021 Basismodul I Language - Leistung
+
+- **Segment:** `exam:15432247` · **unitId:** `54414`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432242|exam:15432247>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54414&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Sa | Sa | 09:30–13:00 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### 70101 Grundseminar - Leistung
+
+- **Segment:** `exam:15425388` · **unitId:** `21725`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425383|exam:15425388>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21725&periodId=589>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–13:30 | — | — |
+
+### 70101 Grundseminar - Leistung
+
+- **Segment:** `exam:15430539` · **unitId:** `21725`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430534|exam:15430539>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21725&periodId=589>
+
+- **ECTS-Punkte:** 4.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–13:30 | — | — |
+
+### 70112 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15425389` · **unitId:** `38422`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425383|exam:15425389>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=589>
+
+- **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–12:00 | — | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
+### 70112 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15430540` · **unitId:** `38422`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430534|exam:15430540>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=589>
+
+- **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 10:00–12:00 | — | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
+
+### 70211 Grundseminar - Leistung
+
+- **Segment:** `exam:15425394` · **unitId:** `39819`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425391|exam:15425394>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39819&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+### 70211 Grundseminar - Leistung
+
+- **Segment:** `exam:15430545` · **unitId:** `39819`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430542|exam:15430545>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39819&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+### 70212 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15425395` · **unitId:** `39820`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425391|exam:15425395>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39820&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:00–18:00 | — | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### 70212 Aufbauseminar - Leistung
+
+- **Segment:** `exam:15430546` · **unitId:** `39820`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430542|exam:15430546>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39820&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:00–18:00 | — | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### 70302 Grundseminar mit Projektarbeit - Leistung
+
+- **Segment:** `exam:15425399` · **unitId:** `21884`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425396|exam:15425399>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21884&periodId=589>
+
+- **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### 70302 Grundseminar mit Projektarbeit - Leistung
+
+- **Segment:** `exam:15430550` · **unitId:** `21884`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430547|exam:15430550>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21884&periodId=589>
+
+- **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:00–16:00 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### 72951 Integrated Academic Language Skills for BA Students I - Leistung
+
+- **Segment:** `exam:15428821` · **unitId:** `54431`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428819|exam:15428821>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54431&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 72951 Integrated Academic Language Skills for BA Students I - Leistung
+
+- **Segment:** `exam:15432250` · **unitId:** `54431`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432248|exam:15432250>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54431&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 73872 Schlüsselqualifikationen Kunstgeschichte I
+
+- **Segment:** `exam:15423675` · **unitId:** `71467`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423675>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71467&periodId=589>
+
+### 73872 Schlüsselqualifikationen Kunstgeschichte I
+
+- **Segment:** `exam:15427100` · **unitId:** `71467`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427100>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71467&periodId=589>
+
+### 73873 Schlüsselqualifikationen Kunstgeschichte II
+
+- **Segment:** `exam:15423679` · **unitId:** `71469`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423679>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71469&periodId=589>
+
+### 73873 Schlüsselqualifikationen Kunstgeschichte II
+
+- **Segment:** `exam:15427104` · **unitId:** `71469`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427104>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71469&periodId=589>
+
+### 73874 Geschichte, Theorien und Methoden der Kunstgeschichte
+
+- **Segment:** `exam:15423684` · **unitId:** `71471`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423684>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71471&periodId=589>
+
+### 73874 Geschichte, Theorien und Methoden der Kunstgeschichte
+
+- **Segment:** `exam:15427109` · **unitId:** `71471`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427109>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71471&periodId=589>
+
+### 73875 Kunst und Museen in Franken
+
+- **Segment:** `exam:15423689` · **unitId:** `71473`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423689>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71473&periodId=589>
+
+### 73875 Kunst und Museen in Franken
+
+- **Segment:** `exam:15427114` · **unitId:** `71473`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427114>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71473&periodId=589>
+
+### 73876 Grundlagen der Graphischen Künste
+
+- **Segment:** `exam:15423693` · **unitId:** `71475`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423693>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71475&periodId=589>
+
+### 73876 Grundlagen der Graphischen Künste
+
+- **Segment:** `exam:15427118` · **unitId:** `71475`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427118>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71475&periodId=589>
+
+### 73877 Grundlagen der angewandten Künste
+
+- **Segment:** `exam:15423695` · **unitId:** `71477`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423695>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71477&periodId=589>
+
+### 73877 Grundlagen der angewandten Künste
+
+- **Segment:** `exam:15427120` · **unitId:** `71477`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427120>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71477&periodId=589>
+
+### 73878 Grundlagen der Denkmalpflege
+
+- **Segment:** `exam:15423697` · **unitId:** `71479`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423697>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71479&periodId=589>
+
+### 73878 Grundlagen der Denkmalpflege
+
+- **Segment:** `exam:15427122` · **unitId:** `71479`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427122>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71479&periodId=589>
+
+### 73879 Digitales Lernen und Lehren
+
+- **Segment:** `exam:15423699` · **unitId:** `71481`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423699>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71481&periodId=589>
+
+### 73879 Digitales Lernen und Lehren
+
+- **Segment:** `exam:15427124` · **unitId:** `71481`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427124>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71481&periodId=589>
+
+### 73881 Berufsorientierung Kunstgeschichte
+
+- **Segment:** `exam:15423701` · **unitId:** `71483`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423701>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71483&periodId=589>
+
+### 73881 Berufsorientierung Kunstgeschichte
+
+- **Segment:** `exam:15427126` · **unitId:** `71483`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427126>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71483&periodId=589>
+
+### 73882 Kunstgeschichte Italiens I
+
+- **Segment:** `exam:15423589` · **unitId:** `71485`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423589>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71485&periodId=589>
+
+### 73882 Kunstgeschichte Italiens I
+
+- **Segment:** `exam:15427014` · **unitId:** `71485`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427014>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71485&periodId=589>
+
+### 73883 Kunstgeschichte Italiens II
+
+- **Segment:** `exam:15423593` · **unitId:** `71487`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423593>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71487&periodId=589>
+
+### 73883 Kunstgeschichte Italiens II
+
+- **Segment:** `exam:15427018` · **unitId:** `71487`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427018>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71487&periodId=589>
+
+### 73884 Italienische Sprache und Kultur I
+
+- **Segment:** `exam:15423596` · **unitId:** `71489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423596>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71489&periodId=589>
+
+### 73884 Italienische Sprache und Kultur I
+
+- **Segment:** `exam:15427021` · **unitId:** `71489`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427021>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71489&periodId=589>
+
+### 73885 Italienische Sprache und Kultur II
+
+- **Segment:** `exam:15423636` · **unitId:** `71490`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423636>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71490&periodId=589>
+
+### 73885 Italienische Sprache und Kultur II
+
+- **Segment:** `exam:15427061` · **unitId:** `71490`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427061>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71490&periodId=589>
+
+### 73886 Literatur, Kunst und Kulturgeschichte Italiens
+
+- **Segment:** `exam:15423585` · **unitId:** `113117`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423584|exam:15423585>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113117&periodId=589>
+
+### 73886 Literatur, Kunst und Kulturgeschichte Italiens
+
+- **Segment:** `exam:15427010` · **unitId:** `113117`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15427009|exam:15427010>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113117&periodId=589>
+
+### 76035 Schlüsselqualifikation 1
+
+- **Segment:** `exam:15423543` · **unitId:** `47898`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423543>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47898&periodId=589>
+
+### 76035 Schlüsselqualifikation 1
+
+- **Segment:** `exam:15426968` · **unitId:** `47898`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15426968>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47898&periodId=589>
+
+### 76036 Schlüsselqualifikation 2
+
+- **Segment:** `exam:15423551` · **unitId:** `47899`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423551>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47899&periodId=589>
+
+### 76036 Schlüsselqualifikation 2
+
+- **Segment:** `exam:15426976` · **unitId:** `47899`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15426976>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47899&periodId=589>
+
+### 76038 Wissenschaftliches Arbeiten
+
+- **Segment:** `exam:15423568` · **unitId:** `53619`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423568>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53619&periodId=589>
+
+### 76038 Wissenschaftliches Arbeiten
+
+- **Segment:** `exam:15426993` · **unitId:** `53619`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15426993>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53619&periodId=589>
+
+### 76039 Modernes Chinesisch: Grammatische Strukturen
+
+- **Segment:** `exam:15423571` · **unitId:** `53623`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423571>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53623&periodId=589>
+
+### 76039 Modernes Chinesisch: Grammatische Strukturen
+
+- **Segment:** `exam:15426996` · **unitId:** `53623`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15426996>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53623&periodId=589>
+
+### 76084 Schlüsselqualifikation 3
+
+- **Segment:** `exam:15423558` · **unitId:** `47909`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423558>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47909&periodId=589>
+
+### 76084 Schlüsselqualifikation 3
+
+- **Segment:** `exam:15426983` · **unitId:** `47909`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15426983>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47909&periodId=589>
+
+### 76086 Modernes Chinesisch: Kommunikative Kompetenz
+
+- **Segment:** `exam:15423575` · **unitId:** `64215`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423575>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64215&periodId=589>
+
+### 76086 Modernes Chinesisch: Kommunikative Kompetenz
+
+- **Segment:** `exam:15427000` · **unitId:** `64215`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15427000>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=64215&periodId=589>
+
+### 76087 Modernes Chinesisch: Hören und Sprechen
+
+- **Segment:** `exam:15423579` · **unitId:** `116036`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15423541|exam:15423542|exam:15423579>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116036&periodId=589>
+
+### 76087 Modernes Chinesisch: Hören und Sprechen
+
+- **Segment:** `exam:15427004` · **unitId:** `116036`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15426966|exam:15426967|exam:15427004>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116036&periodId=589>
+
+### 76920 Hauptmodul A Literature/Culture
+
+- **Segment:** `exam:15425328` · **unitId:** `25069`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425327|exam:15425328>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25069&periodId=589>
+
+### 76961 Hauptmodul B Literature/Culture
+
+- **Segment:** `exam:15425341` · **unitId:** `39827`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425327|exam:15425341>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39827&periodId=589>
+
+### 76962 Hauptmodul II
+
+- **Segment:** `exam:15428756` · **unitId:** `54436`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428741|exam:15428756>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54436&periodId=589>
+
+### 77012 Basismodul Linguistics A
+
+- **Segment:** `exam:15428787` · **unitId:** `54416`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428786|exam:15428787>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54416&periodId=589>
+
+### 77012 Basismodul Linguistics A
+
+- **Segment:** `exam:15432219` · **unitId:** `54416`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432218|exam:15432219>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54416&periodId=589>
+
+### 77022 Basismodul Linguistics B
+
+- **Segment:** `exam:15428790` · **unitId:** `54419`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428786|exam:15428790>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54419&periodId=589>
+
+### 77022 Basismodul Linguistics B
+
+- **Segment:** `exam:15432222` · **unitId:** `54419`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432218|exam:15432222>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54419&periodId=589>
+
+### 77032 Basismodul Literature A
+
+- **Segment:** `exam:15428797` · **unitId:** `54421`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428796|exam:15428797>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54421&periodId=589>
+
+### 77032 Basismodul Literature A
+
+- **Segment:** `exam:15432229` · **unitId:** `54421`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432228|exam:15432229>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54421&periodId=589>
+
+### 77034 Basismodul Literature B
+
+- **Segment:** `exam:15428800` · **unitId:** `54423`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428796|exam:15428800>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54423&periodId=589>
+
+### 77034 Basismodul Literature B
+
+- **Segment:** `exam:15432232` · **unitId:** `54423`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432228|exam:15432232>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54423&periodId=589>
+
+### 77036 Basismodul Culture A
+
+- **Segment:** `exam:15428804` · **unitId:** `54425`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428803|exam:15428804>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54425&periodId=589>
+
+### 77036 Basismodul Culture A
+
+- **Segment:** `exam:15432236` · **unitId:** `54425`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432235|exam:15432236>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54425&periodId=589>
+
+### 77038 Basismodul Culture B
+
+- **Segment:** `exam:15428807` · **unitId:** `54427`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428803|exam:15428807>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54427&periodId=589>
+
+### 77038 Basismodul Culture B
+
+- **Segment:** `exam:15432239` · **unitId:** `54427`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432235|exam:15432239>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54427&periodId=589>
+
+### 77040 Zwischenmodul I (Thematisches Kombinationsmodul)
+
+- **Segment:** `exam:15425319` · **unitId:** `21616`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425204|exam:15425319>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21616&periodId=589>
+
+### 77040 Zwischenmodul I (Thematisches Kombinationsmodul)
+
+- **Segment:** `exam:15430480` · **unitId:** `21616`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430366|exam:15430480>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=21616&periodId=589>
+
+### 77041 Zwischenmodul I (Thematisches Kombinationsmodul)
+
+- **Segment:** `exam:15428733` · **unitId:** `54445`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428629|exam:15428733>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54445&periodId=589>
+
+### 77041 Zwischenmodul I (Thematisches Kombinationsmodul)
+
+- **Segment:** `exam:15432171` · **unitId:** `54445`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432090|exam:15432171>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54445&periodId=589>
+
+### 77080 Zwischenmodul I Culture
+
+- **Segment:** `exam:15425352` · **unitId:** `25070`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425327|exam:15425352>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25070&periodId=589>
+
+### 77080 Zwischenmodul I Culture
+
+- **Segment:** `exam:15430503` · **unitId:** `25070`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430488|exam:15430503>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25070&periodId=589>
+
+### 77081 Zwischenmodul I Culture
+
+- **Segment:** `exam:15428762` · **unitId:** `74203`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428741|exam:15428762>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74203&periodId=589>
+
+### 77081 Zwischenmodul I Culture
+
+- **Segment:** `exam:15432194` · **unitId:** `74203`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432179|exam:15432194>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74203&periodId=589>
+
+### 77091 Import-Kombi-Modul Politics and Culture
+
+- **Segment:** `exam:15425355` · **unitId:** `30611`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425327|exam:15425355>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30611&periodId=589>
+
+### 77091 Import-Kombi-Modul Politics and Culture
+
+- **Segment:** `exam:15430506` · **unitId:** `30611`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430488|exam:15430506>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=30611&periodId=589>
+
+### 77092 Import-Kombi-Modul Politics and Culture
+
+- **Segment:** `exam:15428765` · **unitId:** `54429`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428741|exam:15428765>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54429&periodId=589>
+
+### 77092 Import-Kombi-Modul Politics and Culture
+
+- **Segment:** `exam:15432197` · **unitId:** `54429`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432179|exam:15432197>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54429&periodId=589>
+
+### 77290 Zwischenmodul II Economics, Linguistics, History, Geography, Literature/Culture
+
+- **Segment:** `exam:15425373` · **unitId:** `25072`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15423530|exam:15423533|exam:15423540|exam:15425203|exam:15425327|exam:15425373>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25072&periodId=589>
+
+### 77290 Zwischenmodul II Economics, Linguistics, History, Geography, Literature/Culture
+
+- **Segment:** `exam:15430524` · **unitId:** `25072`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15430354|exam:15430357|exam:15430364|exam:15430365|exam:15430488|exam:15430524>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=25072&periodId=589>
+
+### 77291 Zwischenmodul II Economics, Linguistics, History, Geography, Literature/Culture
+
+- **Segment:** `exam:15428777` · **unitId:** `74201`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428741|exam:15428777>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74201&periodId=589>
+
+### 77291 Zwischenmodul II Economics, Linguistics, History, Geography, Literature/Culture
+
+- **Segment:** `exam:15432209` · **unitId:** `74201`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432179|exam:15432209>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=74201&periodId=589>
+
+### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+
+- **Segment:** `exam:15428816` · **unitId:** `93911`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428813|exam:15428816>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93911&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
+### SZEAGLCII - GLC  1 II  GLC II Plus - Übung
+
+- **Segment:** `exam:15432245` · **unitId:** `93911`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432242|exam:15432245>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93911&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
+### SZEAIALSI - Integrated Academic Language Skills I (BA only) - Übung
+
+- **Segment:** `exam:15428820` · **unitId:** `82566`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428819|exam:15428820>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82566&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+
+### SZEAIALSI - Integrated Academic Language Skills I (BA only) - Übung
+
+- **Segment:** `exam:15432249` · **unitId:** `82566`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15432078|exam:15432081|exam:15432088|exam:15432089|exam:15432248|exam:15432249>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82566&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+
+### SZEAIALSII - Integrated Academic Language Skills II (BA only) - Übung
+
+- **Segment:** `exam:15428811` · **unitId:** `86344`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18279|exam:15426955|exam:15426958|exam:15426965|exam:15428628|exam:15428810|exam:15428811>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86344&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+- **Turnus:** jedes 2. Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) 05801.04.112 ( A 602) |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (239)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -311,6 +1552,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | 05901.U1.056 ( U1.056 (1.046)) |
 
+### (UE) Museumsübung
+
+- **Segment:** `unit:98574` · **unitId:** `98574`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98574&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### 18th-Century Literature and Culture — Vorlesung
+
+- **Segment:** `unit:122583` · **unitId:** `122583`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122583&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** Unregelmäßig
+
+### 19th Century British Literature and Culture — Vorlesung
+
+- **Segment:** `unit:116100` · **unitId:** `116100`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116100&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
 ### 19th-Century Literature and Culture — Vorlesung
 
 - **Segment:** `unit:130600` · **unitId:** `130600`
@@ -351,6 +1617,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### A Document under Siege: The U.S. Constitution — Proseminar
+
+- **Segment:** `unit:133649` · **unitId:** `133649`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133649&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05901.01.059 ( 01.059) |
 
 ### A Survey of British Literature and Culture: The Romantic Period and the Victorian Age — Vorlesung
 
@@ -442,6 +1724,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
 
+### American Short Stories — Mittelseminar
+
+- **Segment:** `unit:115148` · **unitId:** `115148`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115148&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** Unregelmäßig
+
 ### American Studies Research Colloquium — Oberseminar
 
 - **Segment:** `unit:111382` · **unitId:** `111382`
@@ -496,6 +1786,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übungsseminar
 - **Turnus:** Unregelmäßig
 
+### Applications of Linguistics — Seminar
+
+- **Segment:** `unit:96824` · **unitId:** `96824`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96824&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Architektur und Skulptur der Parlerzeit in Süddeutschland — Aufbauseminar
 
 - **Segment:** `unit:131182` · **unitId:** `131182`
@@ -505,35 +1803,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
-### Aufbauseminar
-
-- **Segment:** `unit:38422` · **unitId:** `38422`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38422&periodId=589>
-
-- **ECTS-Punkte:** 6.0
-- **Unterrichtssprache:** Englisch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 10:00–12:00 | — | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
-
-### Aufbauseminar English Linguistics II (Erlangen)
-
-- **Segment:** `unit:96940` · **unitId:** `96940`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96940&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
-
 ### Aufbauseminar English Linguistics II (Erlangen)
 
 - **Segment:** `unit:88817` · **unitId:** `88817`
@@ -541,21 +1810,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Aufbauseminar
 - **Turnus:** nur im Wintersemester
-
-### Aufbauseminar Literature
-
-- **Segment:** `unit:92490` · **unitId:** `92490`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92490&periodId=589>
-
-- **Veranstaltungsart:** Aufbauseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
 
 ### Authors as Fans: American Prose Fiction and Its Intertexts — Hauptseminar
 
@@ -604,6 +1858,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
+### BA-5 Modernes Chinesisch: Grammatische Strukturen — Übung
+
+- **Segment:** `unit:106241` · **unitId:** `106241`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=106241&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Wintersemester
+
 ### BA-6 Grammatische Grundlegung des Chinese Language Proficiency Test HSK — Übung
 
 - **Segment:** `unit:82362` · **unitId:** `82362`
@@ -612,6 +1875,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
+
+### BA-6 Modernes Chinesisch 6 — Seminar und Übung
+
+- **Segment:** `unit:133922` · **unitId:** `133922`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133922&periodId=589>
+
+- **Veranstaltungsart:** Seminar und Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–13:45 | 13.04.2026–13.07.2026 | 08901.00.111 ( 00.111 Seminarraum 1) |
 
 ### Banned Books: Freedom and Censorship in the US — Hauptseminar
 
@@ -629,18 +1908,47 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
 | Einzeltermin | Mo | 18:00–20:00 | 27.04.2026 | — |
 
-### Basismodul I Language
+### Basismodul Culture A
 
-- **Segment:** `unit:54414` · **unitId:** `54414`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54414&periodId=589>
+- **Segment:** `unit:54426` · **unitId:** `54426`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54426&periodId=589>
 
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Sa | Sa | 09:30–13:00 | 07.06.2026 23:59:59 | 05801.U1.060 ( Audimax Auditorium Maximum) |
+| Di | Di | 14:00–16:00 | — | 00501.01.019 ( KH 1.019 Hörsaal Kollegienhaus) |
+
+### Basismodul Culture B
+
+- **Segment:** `unit:54428` · **unitId:** `54428`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54428&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–12:00 | — | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
+
+### Basismodul Linguistics A
+
+- **Segment:** `unit:54417` · **unitId:** `54417`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54417&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 10:00–13:30 | — | — |
 
 ### Basismodul Linguistics B
 
@@ -656,6 +1964,52 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Di | Di | 10:00–12:00 | — | 00501.01.016 ( KH 1.016 Hörsaal Kollegienhaus) |
 
+### Basismodul Literature A
+
+- **Segment:** `unit:54422` · **unitId:** `54422`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54422&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 14:15–15:45 | — | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+
+### Basismodul Literature B
+
+- **Segment:** `unit:54424` · **unitId:** `54424`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54424&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 16:00–18:00 | — | 00501.02.014 ( KH 2.014 Hörsaal Kollegienhaus) |
+
+### Basisseminar italienische Literaturwissenschaft (Basismodul 72624)
+
+- **Segment:** `unit:84404` · **unitId:** `84404`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84404&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:15–11:45 | 16.04.2026–16.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Fr | 15:15–16:45 | 17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+| Einzeltermin | Do | 10:15–11:45 | 23.07.2026 | 56701.02.014 ( 02.014) |
+
 ### Basisvorlesung English Linguistics II
 
 - **Segment:** `unit:90289` · **unitId:** `90289`
@@ -666,18 +2020,11 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 ### Basisvorlesung English Linguistics II
 
-- **Segment:** `unit:122585` · **unitId:** `122585`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122585&periodId=589>
+- **Segment:** `unit:130623` · **unitId:** `130623`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130623&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 18:00–19:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+- **Turnus:** Unregelmäßig
 
 ### Bauen am Bauhaus — Aufbauseminar
 
@@ -697,6 +2044,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Sommersemester
 
+### Berufsorientierung Kunstgeschichte
+
+- **Segment:** `unit:71484` · **unitId:** `71484`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71484&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
 ### Bilingual Lexicography — Hauptseminar
 
 - **Segment:** `unit:102427` · **unitId:** `102427`
@@ -712,6 +2073,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
+
+### British Drama since 1890 — Hauptseminar
+
+- **Segment:** `unit:116082` · **unitId:** `116082`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116082&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### Can He Do That? The Changing Power of the American Presidency — Proseminar
+
+- **Segment:** `unit:130601` · **unitId:** `130601`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130601&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### Chinatowns and Little Indias — Hauptseminar
 
@@ -781,6 +2156,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 08:00–10:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
+### Contemporary North American Indigenous Literary Writing — Mittelseminar
+
+- **Segment:** `unit:134528` · **unitId:** `134528`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134528&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+
 ### Controlled and Automatic Processes — Hauptseminar
 
 - **Segment:** `unit:112477` · **unitId:** `112477`
@@ -797,6 +2187,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Cranach II: Die späten Jahre der Wittenberger Bildermanufaktur — Vorlesung
+
+- **Segment:** `unit:115786` · **unitId:** `115786`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=115786&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Critical AI — Seminar
+
+- **Segment:** `unit:135903` · **unitId:** `135903`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135903&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 56901.00.028 (Übungsraum 1 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
 
 ### Cultura e civiltà I — Seminar
 
@@ -845,6 +2259,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Das gute Leben! Künste und Kulturen der ,Lebensreform' um 1900 — Aufbauseminar
+
+- **Segment:** `unit:127214` · **unitId:** `127214`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127214&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Das Verhältnis zwischen Großbritannien und Kontinentaleuropa in britischen Gemälden des 17. und 18. Jahrhunderts — Vorlesung
 
 - **Segment:** `unit:83415` · **unitId:** `83415`
@@ -871,6 +2294,30 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** in jedem Semester
 
+### Die Etablierung eines kunsthistorischen Stils: Die Donauschule — Ober- und Hauptseminar
+
+- **Segment:** `unit:126646` · **unitId:** `126646`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126646&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### Die Stationierung amerikanischer Atomwaffen in der Bundesrepublik Deutschland: Ziel und Auswirkungen — Proseminar
+
+- **Segment:** `unit:133655` · **unitId:** `133655`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133655&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 05901.01.059 ( 01.059) |
+
 ### Die Überzeugungskraft der Bilder. Kunst des 15. Jahrhunderts im Germanischen Nationalmuseum — Aufbauseminar
 
 - **Segment:** `unit:105951` · **unitId:** `105951`
@@ -878,6 +2325,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Aufbauseminar
 - **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Discourses of Value around 1800: Literature, Aesthetics, Political Economy and Politics in the Romantic Age — Hauptseminar
+
+- **Segment:** `unit:127262` · **unitId:** `127262`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127262&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
 
 ### Doing Linguistics — Hauptseminar
@@ -1027,6 +2482,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** in jedem Semester
 
+### Exploring Texts with Digital Methods — Seminar
+
+- **Segment:** `unit:135718` · **unitId:** `135718`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135718&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 56901.00.027 (Übungsraum 2 (Vorbelegungsrecht HTA Departments für WS bis 15.07.26))) |
+
 ### Female Gothic Novels — Mittelseminar
 
 - **Segment:** `unit:127284` · **unitId:** `127284`
@@ -1048,6 +2518,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:122849` · **unitId:** `122849`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122849&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Fettecke und Lumpenvenus: "Schmutzige" Materialien (in) der Kunst seit 1960 — Ober- und Hauptseminar
+
+- **Segment:** `unit:119846` · **unitId:** `119846`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119846&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
 - **ECTS-Punkte:** 5.0
@@ -1091,6 +2570,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Oberseminar
 - **Turnus:** Unregelmäßig
 
+### Forschungskolloquium — Oberseminar
+
+- **Segment:** `unit:130592` · **unitId:** `130592`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130592&periodId=589>
+
+- **Veranstaltungsart:** Oberseminar
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
+
 ### Frauen als Auftraggeberinnen in der Frühen Neuzeit: Malerei - Skulptur - Architektur — Seminar
 
 - **Segment:** `unit:133896` · **unitId:** `133896`
@@ -1116,20 +2609,12 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
-### Gender in _Iliad_ Reception and Adaptation — Mittelseminar
+### Gender and Queerness in Horror: Film and Literature — Mittelseminar
 
-- **Segment:** `unit:129035` · **unitId:** `129035`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129035&periodId=589>
+- **Segment:** `unit:134529` · **unitId:** `134529`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134529&periodId=589>
 
 - **Veranstaltungsart:** Mittelseminar
-
-### GLC  1 II  GLC II Plus — Übung
-
-- **Segment:** `unit:93911` · **unitId:** `93911`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93911&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Englisch
 - **Turnus:** Unregelmäßig
 
@@ -1137,23 +2622,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:15–15:45 | 13.04.2026–13.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
 
-### GLC II & GLC II Plus — Übung
+### Gender in _Iliad_ Reception and Adaptation — Mittelseminar
 
-- **Segment:** `unit:86310` · **unitId:** `86310`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86310&periodId=589>
+- **Segment:** `unit:129035` · **unitId:** `129035`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129035&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+
+### General Language Course II (GLC II & GLC II Plus) — Übung
+
+- **Segment:** `unit:94048` · **unitId:** `94048`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94048&periodId=589>
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Englisch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** in jedem Semester
+
+### Geschichte, Theorien und Methoden der Kunstgeschichte
+
+- **Segment:** `unit:71472` · **unitId:** `71472`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71472&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 08:15–09:45 | 17.04.2026–17.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+| Mi | Mi | — | 07.06.2026 23:59:59 | — |
 
 ### Gotische Skulptur in Frankreich — Aufbauseminar
 
@@ -1176,6 +2675,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
+
+### Grammatica e stilistica - corso superiore di perfezionamento e approfondimento
+
+- **Segment:** `unit:47903` · **unitId:** `47903`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47903&periodId=589>
+
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Italienisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 12:00–14:00 | — | — |
 
 ### Grammatica e stilistica 2 - corso superiore
 
@@ -1215,50 +2728,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 12:15–13:45 | 22.04.2026–15.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
 
-### Grundseminar Culture
+### Grundlagen der Graphischen Künste
 
-- **Segment:** `unit:95291` · **unitId:** `95291`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=95291&periodId=589>
+- **Segment:** `unit:71476` · **unitId:** `71476`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71476&periodId=589>
 
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.020 ( KH 0.020 Hörsaal Kollegienhaus) |
-
-### Grundseminar English Linguistics I (Erlangen)
-
-- **Segment:** `unit:89856` · **unitId:** `89856`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89856&periodId=589>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.01.013 ( KH 1.013 Hörsaal Kollegienhaus) |
-
-### Grundseminar Literature (Erlangen)
-
-- **Segment:** `unit:90210` · **unitId:** `90210`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90210&periodId=589>
-
-- **Veranstaltungsart:** Grundseminar
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
+| Mi | Mi | — | — | — |
 
 ### Grundseminar Literature (Nürnberg)
 
@@ -1291,6 +2773,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
 
+### Hans Baldung Grien — Ober- und Hauptseminar
+
+- **Segment:** `unit:131219` · **unitId:** `131219`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131219&periodId=589>
+
+- **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
 ### Hauptseminar "Syntagmatic Aspects of Language"
 
 - **Segment:** `unit:134518` · **unitId:** `134518`
@@ -1313,12 +2804,57 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
+### Hauptseminar Uhrig
+
+- **Segment:** `unit:119800` · **unitId:** `119800`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119800&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### History of American Documentary Film — Mittelseminar
+
+- **Segment:** `unit:134232` · **unitId:** `134232`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134232&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
+
+### Horti-cultures: Ecocritical and Postcolonial Perspectives on Gardens and Gardening — Hauptseminar
+
+- **Segment:** `unit:134240` · **unitId:** `134240`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134240&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 16:00–18:00 | 15.04.2026–15.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
+
 ### Iconic and Religious Animals: Wolves, Tigers and More — Hauptseminar
 
 - **Segment:** `unit:130604` · **unitId:** `130604`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130604&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** Unregelmäßig
+
+### Independent Study Group in English Linguistics — Übung
+
+- **Segment:** `unit:127287` · **unitId:** `127287`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127287&periodId=589>
+
+- **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
 
 ### Independent Study Group Linguistics — Seminar
@@ -1336,38 +2872,6 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 
-### Integrated Academic Language Skills I (BA only) — Übung
-
-- **Segment:** `unit:82566` · **unitId:** `82566`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82566&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 10:15–11:45 | 14.04.2026–14.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
-
-### Integrated Academic Language Skills II (BA only) — Übung
-
-- **Segment:** `unit:86344` · **unitId:** `86344`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86344&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Englisch
-- **Turnus:** jedes 2. Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 05801.U1.021 (SL 102, Bismarckstr.1 Multimedia-Sprachlabor (Belegung nur nach Rücksprache mit den Raumverantwortlichen)) 05801.04.112 ( A 602) |
-
 ### Introduction to (Diachronic) Construction Grammar — Hauptseminar
 
 - **Segment:** `unit:130621` · **unitId:** `130621`
@@ -1383,6 +2887,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
+
+### ISG zu Cultural and Literary Animal Studies — Übung
+
+- **Segment:** `unit:119815` · **unitId:** `119815`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119815&periodId=589>
+
+- **Veranstaltungsart:** Übung
 
 ### ISG zu Eco-Apocalypse, Extinction and Endings in American Literature and Culture (BAA Seminar) — Übung
 
@@ -1405,6 +2916,66 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Übung
 - **Turnus:** Unregelmäßig
+
+### ISG zum HS  "An Anatomy of Conspiracy: Intrigues, Deceptions and Manipulations in Shakespeare’s Plays and Shakespeare’s Lives" — Übung
+
+- **Segment:** `unit:134534` · **unitId:** `134534`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134534&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 18:00–18:45 | 15.04.2026–15.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
+
+### ISG zum HS  "Banned Books" — Übung
+
+- **Segment:** `unit:134533` · **unitId:** `134533`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134533&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05801.01.312 ( C 303 Seminarraum) |
+
+### ISG zum HS  "Horti-cultures: Ecocritical and Postcolonial Perspectives on Gardens and Gardening" — Übung
+
+- **Segment:** `unit:134535` · **unitId:** `134535`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134535&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 15:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.014 ( KH 1.014 Hörsaal Kollegienhaus) |
+
+### ISG zum HS  "Literature and Disability" — Übung
+
+- **Segment:** `unit:134536` · **unitId:** `134536`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134536&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### ISG zum HS American Travel Writing — Übung
 
@@ -1444,6 +3015,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–11:00 | 14.04.2026–14.07.2026 | 05801.00.317 ( C 202) 05901.02.058 ( 2.058 R 2.058) |
+
+### ISG zum HS „James Joyce’s Ulysses“ — Übung
+
+- **Segment:** `unit:135424` · **unitId:** `135424`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135424&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 09:00–10:00 | 15.04.2026–15.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
 
 ### Italienisch: Cultura e civiltà italiana III
 
@@ -1667,6 +3253,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Kunst und Museen in Franken
+
+- **Segment:** `unit:71474` · **unitId:** `71474`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71474&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
 ### Kunst und Politik — Seminar
 
 - **Segment:** `unit:131231` · **unitId:** `131231`
@@ -1675,6 +3275,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Kunstgeschichte Italiens I
+
+- **Segment:** `unit:71486` · **unitId:** `71486`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71486&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Kunstgeschichte Italiens II
+
+- **Segment:** `unit:71488` · **unitId:** `71488`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71488&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Kuratorische Praxis der zeitgenössischen Kunst — Seminar
 
@@ -1698,6 +3326,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=100521&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Künstleranekdoten seit der Antike bis heute — Vorlesung
+
+- **Segment:** `unit:122855` · **unitId:** `122855`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=122855&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -1734,6 +3371,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mi | 10:15–11:45 | 22.04.2026–15.07.2026 | 05701.00.010 ( 00.010 Übungsraum 1) |
+
+### L'italiano per il lavoro
+
+- **Segment:** `unit:40390` · **unitId:** `40390`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40390&periodId=589>
+
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Italienisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 10:00–12:00 | — | — |
 
 ### Language variation — Hauptseminar
 
@@ -1821,6 +3472,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 11:30–13:00 | 15.04.2026–15.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
+### Linguistics and Language Learning — Hauptseminar
+
+- **Segment:** `unit:127272` · **unitId:** `127272`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127272&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
+
 ### Linguistisches Mittelseminar (Erlangen)
 
 - **Segment:** `unit:111384` · **unitId:** `111384`
@@ -1835,6 +3501,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+
+### Literary and Other Discourses on Catastrophe at the Turn of the 18th Century — Mittelseminar
+
+- **Segment:** `unit:127275` · **unitId:** `127275`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127275&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Turnus:** Unregelmäßig
+
+### Literatur, Kunst und Kulturgeschichte Italiens
+
+- **Segment:** `unit:113118` · **unitId:** `113118`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=113118&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Literature and Disability — Hauptseminar
 
@@ -1860,6 +3547,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Modernes Chinesisch: Grammatische Strukturen
+
+- **Segment:** `unit:53624` · **unitId:** `53624`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53624&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 10:00–12:00 | 07.06.2026 23:59:59 | — |
+
 ### Multilingualism — Proseminar (Mittelseminar, PO 2020)
 
 - **Segment:** `unit:98389` · **unitId:** `98389`
@@ -1876,6 +3577,19 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
+
+### Mündliche Prüfung zu Modernes Chinesisch: Hören und Sprechen
+
+- **Segment:** `unit:116038` · **unitId:** `116038`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116038&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | 09:30–14:00 | 07.06.2026 23:59:59 | 08901.00.112 ( 00.112 Seminarraum 2) |
 
 ### Natur und Kunst - Kulturgeschichte und Ökologie. Ein Gang durch die Jahrhunderte in den Sammlungen des GNM — Ober- und Hauptseminar
 
@@ -1913,6 +3627,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Oberseminar
+
+- **Segment:** `unit:134519` · **unitId:** `134519`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134519&periodId=589>
+
+- **Veranstaltungsart:** Oberseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 16:00–18:00 | 14.04.2026–14.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
+
 ### Peter Paul Rubens — Aufbauseminar
 
 - **Segment:** `unit:133860` · **unitId:** `133860`
@@ -1945,6 +3674,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Mittelseminar
 - **Turnus:** Unregelmäßig
 
+### Politics & Culture: Melodrama — Mittelseminar
+
+- **Segment:** `unit:134236` · **unitId:** `134236`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134236&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:00–12:00 | 13.04.2026–13.07.2026 | 05801.00.317 ( C 202) |
+
 ### Politics by Protest -The Role of Protest Movements on American Politics from Civil Rights to No Kings. — Proseminar
 
 - **Segment:** `unit:134003` · **unitId:** `134003`
@@ -1969,6 +3713,48 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Proseminar (Culture)
+
+- **Segment:** `unit:39826` · **unitId:** `39826`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39826&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
+
+### Proseminar (Linguistics)
+
+- **Segment:** `unit:39824` · **unitId:** `39824`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39824&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
+
+### Proseminar (Literature)
+
+- **Segment:** `unit:39825` · **unitId:** `39825`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39825&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Englisch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | — | — | — |
+
 ### Proseminar italienische Literaturwissenschaft
 
 - **Segment:** `unit:82289` · **unitId:** `82289`
@@ -1983,6 +3769,37 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Fr | 12:15–13:45 | 17.04.2026–17.07.2026 | 56701.02.036 (Mo - Fr 8:00 - 20:00 Uhr Romanistik) |
+
+### Protestantischer Kirchenbau der Frühen Neuzeit — Aufbauseminar
+
+- **Segment:** `unit:126701` · **unitId:** `126701`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126701&periodId=589>
+
+- **Veranstaltungsart:** Aufbauseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Quantitative Approaches to Linguistic Data Analysis: Multidimensional Analysis as a Study of Underlying Patterns in Discourse — Seminar
+
+- **Segment:** `unit:131797` · **unitId:** `131797`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131797&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+
+### Re-Writing Enslavement: Contemporary Anglophone (Neo-) Slave Narratives — Mittelseminar
+
+- **Segment:** `unit:134234` · **unitId:** `134234`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134234&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.00.023 ( KH 0.023 Hörsaal Kollegienhaus) |
 
 ### Reading Animals — Hauptseminar
 
@@ -2005,6 +3822,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127218&periodId=589>
 
 - **Veranstaltungsart:** Ober- und Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** Unregelmäßig
+
+### Register and Variation among Digital Texts — Seminar
+
+- **Segment:** `unit:125509` · **unitId:** `125509`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125509&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
@@ -2054,6 +3880,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Schlüsselqualifikationen Kunstgeschichte II
+
+- **Segment:** `unit:71470` · **unitId:** `71470`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=71470&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)
 
@@ -2146,6 +3986,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Blockveranstaltung+Sa | — | 10:00–16:00 | 02.09.2026–09.09.2026 | — |
 
+### Syntax/Construction Grammar — Hauptseminar
+
+- **Segment:** `unit:119791` · **unitId:** `119791`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119791&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | 05801.01.310 ( C 301 Übungsraum) |
+
 ### Tecniche di lettura — Übung
 
 - **Segment:** `unit:91902` · **unitId:** `91902`
@@ -2208,6 +4063,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 05801.04.316 ( C 601 Seminarraum) |
+
+### The Founding Fathers: The Making of an American Myth — Proseminar
+
+- **Segment:** `unit:133651` · **unitId:** `133651`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133651&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 18:00–20:00 | 13.04.2026–13.07.2026 | 05901.01.059 ( 01.059) |
 
 ### Traduzione Italiano - Tedesco (Oberstufe) — Übung
 
@@ -2303,6 +4174,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** Unregelmäßig
 
+### Wissenschaftliches Arbeiten
+
+- **Segment:** `unit:53620` · **unitId:** `53620`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=53620&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Zwischen Canova und Rodin. Skulptur in Rom von 1822 bis 1871 unter der besonderen Berücksichtigung globaler Verflechtungen — Vorlesung
 
 - **Segment:** `unit:133876` · **unitId:** `133876`
@@ -2334,6 +4219,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Di | 18:00–19:30 | 14.04.2026–14.07.2026 | 00501.02.018 ( KH 2.018 Hörsaal Kollegienhaus (SR)) |
+
+### ‘Living in squares, loving in triangles’: The Literary Landscape of Bloomsbury — Mittelseminar
+
+- **Segment:** `unit:134233` · **unitId:** `134233`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134233&periodId=589>
+
+- **Veranstaltungsart:** Mittelseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.012 ( KH 1.012 Hörsaal Kollegienhaus) |
 
 ### “Global Crusoe”: The Robinsonade Across Anglophone (Media) Cultures — Hauptseminar
 

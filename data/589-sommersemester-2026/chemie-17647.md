@@ -366,7 +366,15 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 08:15–09:45 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Mi | 08:15–09:45 | 15.04.2026–15.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
 
 ### Organische Chemie I (LA OC I) - Vorlesung
 
@@ -430,7 +438,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 13.04.2026–19.06.2026 | — |
 
 ### Praktikum Qualitative Analytische Chemie/Anorganische Chemie I für Lehramt LAG und LARS [Prüfungsnr. 23731 (LAG, LARS)] - Praktikum
 
@@ -440,7 +455,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 13.04.2026–19.06.2026 | — |
 
 ### Praktikum Qualitative Analytische Chemie/Anorganische Chemie I für Lehramt LAG und LARS [Prüfungsnr. 23731 (LAG, LARS)] - Praktikum
 
@@ -450,7 +472,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 13.04.2026–19.06.2026 | — |
 
 ### Praktikum Qualitative Analytische Chemie/Anorganische Chemie I für Lehramt LAG und LARS [Prüfungsnr. 23731 (LAG, LARS)] - Praktikum
 
@@ -460,7 +489,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Blockveranstaltung | — | 09:00–17:00 | 13.04.2026–19.06.2026 | — |
 
 ### Seminar Allgemeine Chemie [Prüfungsnr. 23721(LAG)] - Seminar
 
@@ -662,7 +698,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88404&periodId=589>
 
 - **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 09:00–11:00 | 13.04.2026–13.07.2026 | 11201.U1.049 (A00.14 Seminarraum) |
 
 ### Synthese und Spektroskopie kleiner Moleküle (Lehramt an Gymnasien) - Begleitseminar
 
@@ -3018,7 +3061,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89409&periodId=589>
 
 - **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -3146,7 +3196,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LA GS/RS/MS PC Ib - V - Physikalische Chemie Ib (Kinetik, Elektrochemie und Aufbau der Materie 2) für LA Grund-, Real- u. Mittelschule - Vorlesung
 
@@ -3156,7 +3213,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LA GS/RS/MS PC Ib - V - Physikalische Chemie Ib (Kinetik, Elektrochemie und Aufbau der Materie 2) für LA Grund-, Real- u. Mittelschule - Vorlesung
 
@@ -3166,7 +3230,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LA GS/RS/MS PC Ib - V - Physikalische Chemie Ib (Kinetik, Elektrochemie und Aufbau der Materie 2) für LA Grund-, Real- u. Mittelschule - Vorlesung
 
@@ -3176,7 +3247,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LA GS/RS/MS PC Ib - V - Physikalische Chemie Ib (Kinetik, Elektrochemie und Aufbau der Materie 2) für LA Grund-, Real- u. Mittelschule - Vorlesung
 
@@ -3186,7 +3264,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LA GS/RS/MS PC Ib - V - Physikalische Chemie Ib (Kinetik, Elektrochemie und Aufbau der Materie 2) für LA Grund-, Real- u. Mittelschule - Vorlesung
 
@@ -3196,7 +3281,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 12:15–16:00 | 16.04.2026–16.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### LAG FOL - AC - Forschungsorientiertes Laborpraktikum für LAG in Anorganischer Chemie [Prüfungsnr. 24611; 24621] - Praktikum
 
@@ -3217,6 +3309,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 8.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
 
 ### LAG FOL PC - PR - Forschungsorientiertes Laborpraktikum für LAG im Bereich PC - Praktikum
@@ -3573,7 +3666,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### OC 48 - Grundlagen der organisch-chemischen Laborpraxis - Praktikum
 
@@ -3583,7 +3683,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### OC 48 - Grundlagen der organisch-chemischen Laborpraxis - Praktikum
 
@@ -3593,7 +3700,14 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| nach Vereinbarung | — | — | — | — |
 
 ### OC-LAB - Praktikum Organische Chemie - Praktikum
 
@@ -4132,7 +4246,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 10:00–12:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (44)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (58)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -4171,6 +4285,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Allgemeine und Organische Chemie
+
+- **Segment:** `unit:31501` · **unitId:** `31501`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31501&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Anorganische Chemie 4 - Chemie + Molecular Nano Science — Vorlesung mit Übung
+
+- **Segment:** `unit:93257` · **unitId:** `93257`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93257&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Anorganische Chemie 4 - Seminar (Chem + Nano)
 
 - **Segment:** `unit:84918` · **unitId:** `84918`
@@ -4178,6 +4315,38 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Ausgewählte Themen des Chemieunterrichts — Übung
+
+- **Segment:** `unit:87165` · **unitId:** `87165`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87165&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+
+### Ausgewählte Themen des Chemieunterrichts an Realschulen [DIDCHEM LARS] — Seminar
+
+- **Segment:** `unit:89399` · **unitId:** `89399`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89399&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
 ### ChemDid V: Chemiedidaktik - Prüfungsvorbereitung
 
@@ -4192,6 +4361,46 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | — | — | — | — | — |
+
+### Chemie der Metalle
+
+- **Segment:** `unit:31506` · **unitId:** `31506`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=31506&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 15:30–17:00 | — | — |
+
+### Chemische Schulexperimente für LA Grund- und Mittelschule [DIDCHEM CSE] — Praktikum
+
+- **Segment:** `unit:88860` · **unitId:** `88860`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88860&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 2.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Einzeltermin | Di | 15:45–18:00 | 14.04.2026 | 20301.02.040 (2.040 Biosammlung) |
+| Einzeltermin | Di | 15:45–18:00 | 21.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
+| Einzeltermin | Di | 15:45–18:00 | 28.07.2026 | 20301.02.031 (2.031 großer Hörsaal (110)) |
+
+### Computational Chemistry — Vorlesung mit Übung
+
+- **Segment:** `unit:87673` · **unitId:** `87673`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=87673&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung mit Übung
+- **Turnus:** nur im Sommersemester
 
 ### Datenmanagement — Seminar
 
@@ -4277,6 +4486,34 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung
 - **Turnus:** nur im Sommersemester
+
+### Klausur Organische und Bioorganische Chemie I
+
+- **Segment:** `unit:43663` · **unitId:** `43663`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43663&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Klausur zu Einführung in die Fachdidaktik Chemie (DIDCHEM LARS)
+
+- **Segment:** `unit:40283` · **unitId:** `40283`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40283&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 14:15–15:45 | 07.06.2026 23:59:59 | 20301.02.031 (2.031 großer Hörsaal (110)) |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
@@ -4373,6 +4610,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Organische Chemie II — Seminar
+
+- **Segment:** `unit:108668` · **unitId:** `108668`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108668&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** nur im Wintersemester
+
 ### Organische Reaktionsmechanismen + Stereochemie — Vorlesung
 
 - **Segment:** `unit:86432` · **unitId:** `86432`
@@ -4441,12 +4686,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Physikalische Chemie 2 - Übung
+
+- **Segment:** `unit:88050` · **unitId:** `88050`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88050&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
+
 ### Physikalische Chemie für Integrated Life Sciences — Vorlesung
 
 - **Segment:** `unit:90802` · **unitId:** `90802`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90802&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Physikalische Chemie Ia (Thermodynamik und Aufbau der Materie 1) für LA Grund-, Real- u. Mittelschule — Vorlesung
+
+- **Segment:** `unit:82336` · **unitId:** `82336`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82336&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
 ### Potenziale und Herausforderungen digitaler Medien im Chemieunterricht — Seminar
@@ -4465,6 +4727,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mi | 15:45–17:15 | 15.04.2026–15.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 | Einzeltermin | Mi | 18:00–22:00 | 20.05.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
+
+### Praktikumsleistung Organische und Bioorganische Chemie I
+
+- **Segment:** `unit:43664` · **unitId:** `43664`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43664&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Prüfungsvorbereitung Fachdidaktik Chemie (DIDCHEM PRF)
 
@@ -4517,6 +4793,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Wintersemester
+
+### Vortrag mit Handout zu Chemische Schulexperimente
+
+- **Segment:** `unit:40284` · **unitId:** `40284`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40284&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ### Übung Allgemeine und Anorganische Chemie
 

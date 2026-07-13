@@ -4,8 +4,8 @@ period_name: "Sommersemester 2026"
 campo_segment: "title:18291"
 campo_path: "title:17593|title:17595|title:18291"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291"
-po_version_count: 0
-course_count: 0
+po_version_count: 5
+course_count: 26
 fau_studiengang:
   - title: "Ethik der Textkulturen (M.A.)"
     rel_path: "studiengang/ethik-der-textkulturen-m-a.md"
@@ -214,7 +214,214 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (7)
+## Prüfungsordnungs-Versionen (5)
+
+### M 4: Theorien der Kanon- und Wertebildung
+
+- **Campo-Segment:** `title:18342`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18342>
+
+### M 6: Rhetorik öffentlichen Schreibens und Sprechens
+
+- **Campo-Segment:** `title:18341`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18341>
+
+### M1: Geschichte und Theorie der Ethik
+
+- **Campo-Segment:** `title:18340`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18340>
+
+### M2: Hermeneutik und Fremdverstehen
+
+- **Campo-Segment:** `title:18343`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18343>
+
+### M3: Narrativität und Normativität
+
+- **Campo-Segment:** `title:18339`
+- **Campo-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18339>
+
+## Veranstaltungen (26)
+
+### Übungen Themenfelder der Praktischen Theologie I - Übung
+
+- **Segment:** `exam:15687460` · **unitId:** `85679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18344|exam:15687460>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85679&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 16:00–19:00 | 21.04.2026–14.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+
+### Übungen Themenfelder der Praktischen Theologie I - Übung
+
+- **Segment:** `exam:15687457` · **unitId:** `85679`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|title:18345|exam:15687457>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85679&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Di | 16:00–19:00 | 21.04.2026–14.07.2026 | 06201.02.020 ( TSG HS B (02.020) Theologisches Seminargebäude, Kochstraße 6) |
+
+### 1999 Mastermodul (M.A. Ethik der Textkulturen 20192)
+
+- **Segment:** `exam:15308241` · **unitId:** `68795`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308241>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68795&periodId=589>
+
+### 33900 Geschichte und Theorie der Ethik I
+
+- **Segment:** `exam:15308191` · **unitId:** `68811`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308191>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68811&periodId=589>
+
+### 33905 Geschichte und Theorie der Ethik II
+
+- **Segment:** `exam:15308193` · **unitId:** `68812`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308193>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68812&periodId=589>
+
+### 33910 Hermeneutik und Fremdverstehen I
+
+- **Segment:** `exam:15308195` · **unitId:** `68813`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308195>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68813&periodId=589>
+
+### 33915 Hermeneutik und Fremdverstehen II
+
+- **Segment:** `exam:15308197` · **unitId:** `68819`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308197>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68819&periodId=589>
+
+### 33920 Narrativität und Normativität I
+
+- **Segment:** `exam:15308199` · **unitId:** `68814`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308199>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68814&periodId=589>
+
+### 33925 Narrativität und Normativität II
+
+- **Segment:** `exam:15308201` · **unitId:** `68820`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308190|exam:15308201>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68820&periodId=589>
+
+### 33930 Theorien der Kanon- und Wertebildung I
+
+- **Segment:** `exam:15308204` · **unitId:** `68815`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308204>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68815&periodId=589>
+
+### 33935 Theorien der Kanon- und Wertebildung II
+
+- **Segment:** `exam:15308206` · **unitId:** `68821`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308206>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68821&periodId=589>
+
+### 33940 Sprach-, kommunikations- und medienwissenschaftliche Aspekte der Normbildung I
+
+- **Segment:** `exam:15308208` · **unitId:** `68816`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308208>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68816&periodId=589>
+
+### 33945 Sprach-, kommunikations- und medienwissenschaftliche Aspekte der Normbildung II
+
+- **Segment:** `exam:15308210` · **unitId:** `68822`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308210>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68822&periodId=589>
+
+### 33950 Rhetorik öffentlichen Schreibens und Sprechens I
+
+- **Segment:** `exam:15308212` · **unitId:** `68817`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308212>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68817&periodId=589>
+
+### 33955 Rhetorik öffentlichen Schreibens und Sprechens II
+
+- **Segment:** `exam:15308214` · **unitId:** `68823`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308214>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68823&periodId=589>
+
+### 33960 Angewandte Ethik I
+
+- **Segment:** `exam:15308216` · **unitId:** `68818`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308216>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68818&periodId=589>
+
+### 33965 Angewandte Ethik II
+
+- **Segment:** `exam:15308218` · **unitId:** `68824`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308203|exam:15308218>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68824&periodId=589>
+
+### 33970 Workshop I
+
+- **Segment:** `exam:15308221` · **unitId:** `68828`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308220|exam:15308221>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68828&periodId=589>
+
+### 33971 Workshop II
+
+- **Segment:** `exam:15308223` · **unitId:** `68829`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308220|exam:15308223>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68829&periodId=589>
+
+### 33972 Workshop III
+
+- **Segment:** `exam:15308225` · **unitId:** `68830`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308220|exam:15308225>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68830&periodId=589>
+
+### 33975 Fachliche Profilierung I
+
+- **Segment:** `exam:15308228` · **unitId:** `68834`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308227|exam:15308228>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68834&periodId=589>
+
+### 33976 Fachliche Profilierung II
+
+- **Segment:** `exam:15308230` · **unitId:** `68835`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308227|exam:15308230>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68835&periodId=589>
+
+### 33977 Fachliche Profilierung III
+
+- **Segment:** `exam:15308232` · **unitId:** `68836`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308227|exam:15308232>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68836&periodId=589>
+
+### 33980 Interdisziplinäre Wissensverortung I
+
+- **Segment:** `exam:15308235` · **unitId:** `68840`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308234|exam:15308235>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68840&periodId=589>
+
+### 33981 Interdisziplinäre Wissensverortung II
+
+- **Segment:** `exam:15308237` · **unitId:** `68841`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308234|exam:15308237>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68841&periodId=589>
+
+### 33982 Interdisziplinäre Wissensverortung III
+
+- **Segment:** `exam:15308239` · **unitId:** `68842`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18291|exam:15308187|exam:15308188|exam:15308189|exam:15308234|exam:15308239>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=68842&periodId=589>
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (8)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -285,6 +492,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=98664&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+- **Turnus:** nur im Wintersemester
+
+### M: Sprachlos im Alter - linguistische Perspektiven auf Phänomene des Sprachverlusts im Zusammenhang mit Alzheimer und Demenz — Masterseminar
+
+- **Segment:** `unit:102817` · **unitId:** `102817`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=102817&periodId=589>
+
+- **Veranstaltungsart:** Masterseminar
 - **Turnus:** nur im Wintersemester
 
 ### Schriftliche Übersetzungsleistung Latein I für Anfänger (Zulassungsvoraussetzung zu Kurs Latein II für Fortgeschrittene)

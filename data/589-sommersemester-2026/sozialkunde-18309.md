@@ -293,7 +293,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Examenskolloquium Politikwissenschaft - Kolloquium
 
@@ -302,7 +309,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134411&periodId=589>
 
 - **Veranstaltungsart:** Kolloquium
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Fr | 14:00–15:30 | 17.04.2026–17.07.2026 | 20301.01.033 (1.033 Seminarraum (40)) |
 
 ### Grundlagen der internationalen Politik II:  Staatliche Akteure und internationale Organisationen - Vorlesung
 
@@ -541,7 +555,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=133962&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 14:15–15:45 | 14.04.2026–14.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 
 ### Polarisierung in den USA. How the Center Fell Apart - Proseminar
 
@@ -835,6 +856,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
+
 ### Sozialstruktur I (B) - Hauptseminar
 
 - **Segment:** `exam:15180437` · **unitId:** `111474`
@@ -844,6 +871,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Sommersemester
 
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
+
 ### Sozialstruktur I (B) - Hauptseminar
 
 - **Segment:** `exam:15180663` · **unitId:** `111474`
@@ -852,6 +885,12 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 15:45–17:15 | 13.04.2026–13.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
 ### Sozialstruktur I (C) - Hauptseminar
 
@@ -1036,7 +1075,14 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88877&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mi | 12:15–13:45 | 15.04.2026–15.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
 
 ### „Zeitgeschichte der Menschenrechte“  - Hauptseminar
 
@@ -1761,7 +1807,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18309|exam:15180508|exam:15180509|exam:15180510|exam:15180512|exam:15180678>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46810&periodId=589>
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (80)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (105)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -1786,6 +1832,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** nur im Wintersemester
+
+### Alles, was recht/s/ ist? Rechtes und extrem rechtes Denken als Forschungsgegenstand der Politischen Theorie und Ideengeschichte — Proseminar
+
+- **Segment:** `unit:126501` · **unitId:** `126501`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126501&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### America’s Wars — Proseminar
+
+- **Segment:** `unit:110617` · **unitId:** `110617`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110617&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### America’s Wars — Proseminar
 
@@ -1819,6 +1879,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Berlin, Brüssel …  Erlangen? Umweltpolitik im politischen Mehrebenensystem — Proseminar
+
+- **Segment:** `unit:130831` · **unitId:** `130831`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130831&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Bildung als Bedingung demokratischer Stabilität? Perspektiven aus der politischen Theorie — Hauptseminar
 
 - **Segment:** `unit:138052` · **unitId:** `138052`
@@ -1847,12 +1914,43 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
+### Can He Do That? The Changing Power of the American Presidency — Proseminar
+
+- **Segment:** `unit:130601` · **unitId:** `130601`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130601&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### China und Menschenrechte [Teilbereich Theorie] [Besonders geignet für Lehramtsstudierende] — Hauptseminar
+
+- **Segment:** `unit:97087` · **unitId:** `97087`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97087&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Critical approaches to justice, equality, and diversity — Proseminar
 
 - **Segment:** `unit:127597` · **unitId:** `127597`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=127597&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+
+### Das politische Denken von Herodot und Thukydides — Hauptseminar
+
+- **Segment:** `unit:135522` · **unitId:** `135522`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135522&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 16:15–17:45 | 13.04.2026–13.07.2026 | 05902.00.005 ( 00.5 PSG) |
 
 ### Das politische System der Bundesrepublik — Vorlesung
 
@@ -1876,6 +1974,21 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110672&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Demokratie, Diktatur, Revolution. Einführung in die quantitative vergleichende Politikwissenschaft. — Hauptseminar
+
+- **Segment:** `unit:130832` · **unitId:** `130832`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130832&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| 14-täglich | Do | 10:00–14:00 | 16.04.2026–09.07.2026 | 05801.05.310 (C 701 CIP-Raum der Philosophischen Fakultät) |
 
 ### Demokratiekrise und demokratische Resilienz — Hauptseminar
 
@@ -1902,6 +2015,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Die dokumentarische Methode in der Bildungsforschung — Hauptseminar
+
+- **Segment:** `unit:126749` · **unitId:** `126749`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126749&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
 ### Die Idee des Rechtsfriedens — Hauptseminar
 
 - **Segment:** `unit:115292` · **unitId:** `115292`
@@ -1913,6 +2033,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:110635` · **unitId:** `110635`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110635&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+
+### Die Rolle von Internationale Organisationen in der Menschenrechtspolitik — Hauptseminar
+
+- **Segment:** `unit:116168` · **unitId:** `116168`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=116168&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
 
@@ -1929,6 +2056,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126753&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Einführung in das Politische System der BRD — Proseminar
+
+- **Segment:** `unit:138196` · **unitId:** `138196`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138196&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### Einführung in das politische System der Bundesrepublik Deutschland — Proseminar
 
@@ -1959,6 +2093,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110588&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
+
+### Einführung in die Internationalen Beziehungen — Vorlesung
+
+- **Segment:** `unit:138100` · **unitId:** `138100`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=138100&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 
 ### Einführung in die Menschenrechte und die Menschenrechtspolitik — Hauptseminar
 
@@ -2070,6 +2211,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Do | 15:45–17:15 | 16.04.2026–16.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
+### Examenskurs Sozialkunde — Hauptseminar
+
+- **Segment:** `unit:82443` · **unitId:** `82443`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82443&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** in jedem Semester
+
 ### Feministische Perspektiven auf Politik: Feministisches Denken in der politischen Ideengeschichte — Proseminar
 
 - **Segment:** `unit:122311` · **unitId:** `122311`
@@ -2079,12 +2229,35 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Feministisches politisches Denken - Eine Einführung — Proseminar
+
+- **Segment:** `unit:107609` · **unitId:** `107609`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=107609&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+- **Turnus:** nur im Wintersemester
+
 ### Geschichte der Soziologie — Hauptseminar
 
 - **Segment:** `unit:130745` · **unitId:** `130745`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130745&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Global Energy Politics — Hauptseminar
+
+- **Segment:** `unit:134254` · **unitId:** `134254`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134254&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Englisch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 13:15–14:45 | 16.04.2026–16.07.2026 | 00501.00.024 (KH 0.024 Kollegienhaus - Belegung ausschließlich durch das Institut Politische Wissenschaft) |
 
 ### Grundlagen der internationalen Politik I: Geschichte und Theorien der internationalen Beziehungen — Vorlesung mit Übung
 
@@ -2118,6 +2291,52 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Wintersemester
 
+### Grundlagen der internationalen Politik II: Staatliche Akteure und Internationale Organisationen, IB 2 — Vorlesung
+
+- **Segment:** `unit:119122` · **unitId:** `119122`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119122&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+
+### Hauptseminar Internationale Beziehungen
+
+- **Segment:** `unit:45743` · **unitId:** `45743`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45743&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
+### Hauptseminar Politische Systeme
+
+- **Segment:** `unit:45741` · **unitId:** `45741`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45741&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
+### Hauptseminar Politische Theorie und Ideengeschichte
+
+- **Segment:** `unit:45744` · **unitId:** `45744`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45744&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mi | Mi | — | — | — |
+
 ### History of Science Laboratory: How to Organize an Exhibition on the History of Radiation Protection — Hauptseminar
 
 - **Segment:** `unit:112293` · **unitId:** `112293`
@@ -2125,6 +2344,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 - **Turnus:** Unregelmäßig
+
+### International Diplomacy and Negotiations — Hauptseminar
+
+- **Segment:** `unit:131385` · **unitId:** `131385`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131385&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
 
 ### Internationale Beziehungen — Proseminar
 
@@ -2292,12 +2518,43 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Hauptseminar
 
+### Politische Philosophie in der islamischen Welt: Vormoderne — Seminar
+
+- **Segment:** `unit:135407` · **unitId:** `135407`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=135407&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** Unregelmäßig
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | — |
+
+### Politische Systeme — Proseminar
+
+- **Segment:** `unit:130499` · **unitId:** `130499`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130499&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
 ### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
 
 - **Segment:** `unit:118920` · **unitId:** `118920`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=118920&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
+
+### Politische Systeme II: Einführung in die Vergleichende Politikwissenschaft — Vorlesung
+
+- **Segment:** `unit:126547` · **unitId:** `126547`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126547&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 2.5
+- **Turnus:** nur im Sommersemester
 
 ### Politische Theorie — Proseminar
 
@@ -2378,6 +2635,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
 
+### Vorlesung: Einführung in die Soziologie
+
+- **Segment:** `unit:91630` · **unitId:** `91630`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91630&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Warum bauen Autokratien Wolkenkratzer? Befunde und Ansätze der vergleichenden Autokratieforschung — Proseminar
 
 - **Segment:** `unit:122663` · **unitId:** `122663`
@@ -2414,6 +2680,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:126941` · **unitId:** `126941`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=126941&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
+
+### Zwischen rätedemokratischer Utopie und nationalistischer Erweckung. Politisches Denken in der Zwischenkriegszeit — Hauptseminar
+
+- **Segment:** `unit:134009` · **unitId:** `134009`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134009&periodId=589>
+
+- **Veranstaltungsart:** Hauptseminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 12:00–14:00 | 14.04.2026–14.07.2026 | 05902.00.014 ( 00.14 PSG) |
+
+### Ökologie, Klimawandel und Naturschutz als Themen des politischen Denkens — Proseminar
+
+- **Segment:** `unit:110592` · **unitId:** `110592`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110592&periodId=589>
 
 - **Veranstaltungsart:** Proseminar
 

@@ -188,7 +188,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (32)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (37)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -369,6 +369,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Einzeltermin | Mi | 11:30–13:00 | 15.04.2026 | 75202.00.514 (St.Paul 00.514 - (12)) |
 | wöchentlich | Mi | 11:30–13:00 | 22.04.2026–15.07.2026 | 20301.01.021 (1.021 Computerseminarraum (25)) |
 
+### EEBF Modul 9 - Projektarbeit — Übung
+
+- **Segment:** `unit:85855` · **unitId:** `85855`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85855&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Erziehungswissenschaftliche Grundlagen
+
+- **Segment:** `unit:36052` · **unitId:** `36052`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36052&periodId=589>
+
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
 ### Grammar & Vocabulary for Erasmus students
 
 - **Segment:** `unit:110306` · **unitId:** `110306`
@@ -529,6 +552,29 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 09:45–11:15 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
 
+### MA EEBF M6/MA Pädagogik MII: Lernen und mediendidaktisches Handeln in mediatisierten Kontexten — Seminar
+
+- **Segment:** `unit:92830` · **unitId:** `92830`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=92830&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Turnus:** in jedem Semester
+
+### MA EEBF M7/MA Pädagogik MVI: Medienpädagogik (Profilvertiefung)/Felderkundung Medienpädagogik — Seminar
+
+- **Segment:** `unit:91808` · **unitId:** `91808`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91808&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20301.01.010 (1.010 Seminarraum (50)) |
+
 ### MA EEBF M7/Modul 2 - Seminar Allg. Päd.: ChatGPT & Co. - KI in Studium, Schule und im Medienalltag von Kindern und Jugendlichen (Standort Nürnberg)
 
 - **Segment:** `unit:84951` · **unitId:** `84951`
@@ -556,6 +602,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:125444` · **unitId:** `125444`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=125444&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+### Masterstudiengang EE-BF Modul 6: Mentorat Qualitätsentwicklung in Schule und Unterricht (Profilgrundlagen) Anmeldung ab dem 07.10.2024 möglich — Seminar
+
+- **Segment:** `unit:84638` · **unitId:** `84638`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84638&periodId=589>
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch

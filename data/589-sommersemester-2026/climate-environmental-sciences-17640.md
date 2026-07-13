@@ -14,7 +14,7 @@ course_count: 0
 
 _Section: Studiengänge der Naturwissenschaftlichen Fakultät_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (17)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (22)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -22,6 +22,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Segment:** `unit:82612` · **unitId:** `82612`
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82612&periodId=589>
+
+- **Veranstaltungsart:** PG Masterseminar
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
+### Advanced Methods MSc: Remote Sensing: Spectroscopy and Analysis of Spectral Data — PG Masterseminar
+
+- **Segment:** `unit:84596` · **unitId:** `84596`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=84596&periodId=589>
 
 - **Veranstaltungsart:** PG Masterseminar
 - **ECTS-Punkte:** 5.0
@@ -133,6 +142,31 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Sa | Sa | 13:00–19:00 | — | 05801.U1.060 ( Audimax Auditorium Maximum) |
 
+### Großes Geländeseminar — Exkursion
+
+- **Segment:** `unit:83116` · **unitId:** `83116`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83116&periodId=589>
+
+- **Veranstaltungsart:** Exkursion
+- **ECTS-Punkte:** 6.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wird noch angekündigt | — | — | — | — |
+
+### Großes Geländeseminar — Exkursion
+
+- **Segment:** `unit:88305` · **unitId:** `88305`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88305&periodId=589>
+
+- **Veranstaltungsart:** Exkursion
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Sommersemester
+
 ### Großes Geländeseminar: Bayern - Physische Geographie und Landesgeschichte — Exkursion
 
 - **Segment:** `unit:83324` · **unitId:** `83324`
@@ -141,6 +175,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Exkursion
 - **ECTS-Punkte:** 10.0
 - **Turnus:** nur im Wintersemester
+
+### Großes Geländeseminar: Naturschutzgebiete in Bayern — Exkursion
+
+- **Segment:** `unit:82622` · **unitId:** `82622`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82622&periodId=589>
+
+- **Veranstaltungsart:** Exkursion
+- **ECTS-Punkte:** 10.0
+- **Turnus:** nur im Sommersemester
 
 ### Großes Geländeseminar: Südfrankreich — Exkursion
 
@@ -167,6 +210,20 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | Einzeltermin | Fr | 15:00–17:00 | 30.01.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 | wöchentlich | Mi | 16:15–17:45 | 15.04.2026–15.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) 55801.00.210 (00.210 Seminarraum) |
+
+### Klausur zu Ökologische und Systematische Diversität der Organismen B
+
+- **Segment:** `unit:24967` · **unitId:** `24967`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24967&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Fr | Fr | 10:00–10:45 | — | 07205.03.016 (CIP-Pool CBI) 07205.03.018 (CIP-Pool MB Konrad-Zuse-Str. 3) |
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 

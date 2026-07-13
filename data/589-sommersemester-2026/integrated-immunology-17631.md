@@ -366,7 +366,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 08:30–10:00 | — | — |
+| Di | Di | 08:30–10:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 78701 Translational Immunology - Leistung
 
@@ -381,7 +381,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Di | Di | 08:30–10:00 | — | — |
+| Di | Di | 08:30–10:00 | — | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
 
 ### 78801 Praktikumsprotokoll zu Translational Immunology Laboratory Course - Leistung
 
@@ -610,9 +610,18 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Di | 13:30–15:30 | 14.04.2026–09.06.2026 | 01501.01.043 (Konferenzraum Virologie) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (9)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (10)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Fundamentals of R programming for bioinformatics — Vorlesung
+
+- **Segment:** `unit:96875` · **unitId:** `96875`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96875&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
 
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 

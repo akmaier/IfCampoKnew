@@ -286,3 +286,30 @@ _Section: Studiengänge der Medizinischen Fakultät_
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | So | So | — | — | — |
+
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (3)
+
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+
+### Chirurgische Dammversorgung — Übung
+
+- **Segment:** `unit:134507` · **unitId:** `134507`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134507&periodId=565>
+
+- **Veranstaltungsart:** Übung
+
+### Das auffällige Neugeborene — Vorlesung
+
+- **Segment:** `unit:134500` · **unitId:** `134500`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134500&periodId=565>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Sommersemester
+
+### Notfall und Intensivpflege des Neu- und Frühgeborenen — Übung
+
+- **Segment:** `unit:134499` · **unitId:** `134499`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=134499&periodId=565>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Sommersemester

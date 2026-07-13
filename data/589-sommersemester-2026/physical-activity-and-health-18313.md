@@ -5,7 +5,7 @@ campo_segment: "title:18313"
 campo_path: "title:17593|title:17595|title:18313"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313"
 po_version_count: 0
-course_count: 0
+course_count: 17
 fau_studiengang:
   - title: "Physical Activity and Health (M.A.)"
     rel_path: "studiengang/physical-activity-and-health-m-a.md"
@@ -185,6 +185,119 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
+
+## Veranstaltungen (17)
+
+### 1995 Internship (M.A. Physical Activity and Health 20192)
+
+- **Segment:** `exam:15282377` · **unitId:** `54521`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282377>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54521&periodId=589>
+
+### 1999 Master's thesis (M.A. Physical Activity and Health 20192)
+
+- **Segment:** `exam:15282379` · **unitId:** `54524`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282379>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54524&periodId=589>
+
+### 33500 PA and public health I
+
+- **Segment:** `exam:15282388` · **unitId:** `47395`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282388>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47395&periodId=589>
+
+### 33505 PA and public health II
+
+- **Segment:** `exam:15282390` · **unitId:** `47396`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282390>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47396&periodId=589>
+
+### 33510 Public health policies
+
+- **Segment:** `exam:15282392` · **unitId:** `47397`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282392>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47397&periodId=589>
+
+### 33515 Health-enhancing exercise I
+
+- **Segment:** `exam:15282394` · **unitId:** `47398`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282394>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47398&periodId=589>
+
+### 33521 Health-enhancing exercise II
+
+- **Segment:** `exam:15282398` · **unitId:** `131306`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282398>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131306&periodId=589>
+
+### 33526 Health-enhancing exercise III
+
+- **Segment:** `exam:15282400` · **unitId:** `54514`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282400>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=54514&periodId=589>
+
+### 33530 Rehabilitation science
+
+- **Segment:** `exam:15282402` · **unitId:** `47401`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282402>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47401&periodId=589>
+
+### 33535 Basics in methodology I
+
+- **Segment:** `exam:15282404` · **unitId:** `47402`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282404>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47402&periodId=589>
+
+### 33541 Basics in methodology II
+
+- **Segment:** `exam:15282408` · **unitId:** `131308`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282408>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131308&periodId=589>
+
+### 33545 Communication and interaction
+
+- **Segment:** `exam:15282410` · **unitId:** `47404`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282410>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47404&periodId=589>
+
+### 33550 Conceptualization, implementation, evaluation I
+
+- **Segment:** `exam:15282412` · **unitId:** `47405`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282412>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47405&periodId=589>
+
+### 33565 Physical activity diagnostics
+
+- **Segment:** `exam:15282384` · **unitId:** `47408`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282384>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47408&periodId=589>
+
+### 33570 Diagnostics in rehabilitation and prevention
+
+- **Segment:** `exam:15282386` · **unitId:** `47409`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282386>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47409&periodId=589>
+
+### 33575 Conceptualization, Implementation, Evaluation II
+
+- **Segment:** `exam:15282382` · **unitId:** `110060`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282382>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=110060&periodId=589>
+
+### 35201 Health-enhancing exercise II - Leistung
+
+- **Segment:** `exam:15282397` · **unitId:** `47414`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18313|exam:15282374|exam:15282375|exam:15282376|exam:15282396|exam:15282397>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=47414&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
 
 ## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (6)
 

@@ -176,7 +176,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/student-advice-specific.jpg)
 - [FAU/Father and Sun](https://www.fau.de/wp-content/plugins/fau-studium-display/assets/img/benefits-fau.jpg)
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (20)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (26)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -188,6 +188,28 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Advanced Lectures in Molecular Medicine 1 - Part Immunology — Vorlesung
+
+- **Segment:** `unit:108956` · **unitId:** `108956`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108956&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
+### Algorithmen und Datenstrukturen
+
+- **Segment:** `unit:20851` · **unitId:** `20851`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20851&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Do | Do | 08:00–10:00 | — | 11302.04.150 |
 
 ### Algorithmen und Datenstrukturen — Vorlesung
 
@@ -214,6 +236,23 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Übung
 - **Turnus:** nur im Wintersemester
 
+### Essential Concepts in Modern Virology — Seminar
+
+- **Segment:** `unit:94024` · **unitId:** `94024`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94024&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 10:15–12:00 | 14.04.2026–09.06.2026 | 01501.01.027 (Konferenzraum Virologie) |
+| wöchentlich | Do | 14:15–16:00 | 16.04.2026–11.06.2026 | 01501.01.057 (Seminarraum Virologie) |
+
 ### Genetics and Systems Medicine - Advanced Lectures in Molecular Medicine 2 — Vorlesung
 
 - **Segment:** `unit:94083` · **unitId:** `94083`
@@ -230,6 +269,14 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | wöchentlich | Fr | 08:15–09:45 | 17.04.2026–29.05.2026 | — |
 | wöchentlich | Mi | 15:15–16:45 | 22.04.2026–27.05.2026 | — |
 
+### Immunology for Students of Molecular Medicine (Master) — Vorlesung
+
+- **Segment:** `unit:88866` · **unitId:** `88866`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=88866&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
+- **Turnus:** nur im Wintersemester
+
 ### Klausur zum Nachweis Gesicherter Lateinkenntnisse
 
 - **Segment:** `unit:39849` · **unitId:** `39849`
@@ -243,6 +290,16 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | Mo | Mo | 15:00–18:00 | 07.06.2026 23:59:59 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
+
+### Laboratory Research Module Human Genetics — Praktikum
+
+- **Segment:** `unit:85471` · **unitId:** `85471`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85471&periodId=589>
+
+- **Veranstaltungsart:** Praktikum
+- **ECTS-Punkte:** 10.0
+- **Unterrichtssprache:** Deutsch oder Englisch
+- **Turnus:** in jedem Semester
 
 ### Laboratory Research Module in Virology — Praktikum
 
@@ -331,6 +388,22 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 12:15–13:45 | 14.04.2026–14.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 | wöchentlich | Fr | 10:15–11:45 | 17.04.2026–17.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
+
+### Molecular Neuroscience — Seminar
+
+- **Segment:** `unit:86014` · **unitId:** `86014`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86014&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Sommersemester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Mo | 10:15–12:00 | 13.04.2026–13.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
+| wöchentlich | Mi | 10:15–12:00 | 15.04.2026–15.07.2026 | 06901.01.0231 (Großer Seminarraum Biochemie) |
 
 ### Molecular Neurosciences — Vorlesung
 

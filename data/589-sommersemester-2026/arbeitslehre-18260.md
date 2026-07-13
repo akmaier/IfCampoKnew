@@ -5,7 +5,7 @@ campo_segment: "title:18260"
 campo_path: "title:17593|title:17595|title:18260"
 campo_permalink: "https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260"
 po_version_count: 0
-course_count: 0
+course_count: 12
 ---
 
 # Arbeitslehre
@@ -14,13 +14,63 @@ course_count: 0
 
 _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theologie_  
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (11)
+## Veranstaltungen (12)
 
-_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
+### 79720 Grundlagen der Fachwissenschaft
 
-### Arbeit und Beruf — Seminar
+- **Segment:** `exam:15529205` · **unitId:** `24560`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529205>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24560&periodId=589>
 
-- **Segment:** `unit:101560` · **unitId:** `101560`
+### 97101 Grundlagen der Fachdidaktik - Leistung
+
+- **Segment:** `exam:15529204` · **unitId:** `24569`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529201|exam:15529204>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24569&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Di | Di | 11:30–13:00 | 07.06.2026 23:59:59 | — |
+
+### 97311 Seminar mit Medienschwerpunkt und Seminar mit Methodenschwerpunkt - Leistung
+
+- **Segment:** `exam:15529212` · **unitId:** `43547`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529209|exam:15529212>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43547&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### 97403 Vorlesung und Seminar: Arbeit und Beruf - Leistung
+
+- **Segment:** `exam:15529220` · **unitId:** `43544`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529217|exam:15529220>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43544&periodId=589>
+
+- **ECTS-Punkte:** 5.0
+- **Unterrichtssprache:** Deutsch
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| Mo | Mo | 14:00–15:30 | 07.06.2026 23:59:59 | — |
+
+### AuB - Arbeit und Beruf - Seminar
+
+- **Segment:** `exam:15529219` · **unitId:** `101560`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529217|exam:15529219>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101560&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -34,9 +84,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 14:00–15:30 | 13.04.2026–13.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
-### Arbeit und Beruf - Vorlesung
+### AuBVorl - Arbeit und Beruf - Vorlesung - Vorlesung
 
-- **Segment:** `unit:90401` · **unitId:** `90401`
+- **Segment:** `exam:15529218` · **unitId:** `90401`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529217|exam:15529218>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90401&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -50,32 +101,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Mo | 11:30–13:00 | 13.04.2026–13.07.2026 | — |
 
-### Fachwissenschaftliche Grundlagen Beruf und Wirtschaft - Vorlesung
+### GFD-Vorl - Grundlagen der Fachdidaktik Beruf und Wirtschaft - Vorlesung - Vorlesung
 
-- **Segment:** `unit:85516` · **unitId:** `85516`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85516&periodId=589>
-
-- **Veranstaltungsart:** Vorlesung
-- **ECTS-Punkte:** 5.0
-- **Turnus:** nur im Wintersemester
-
-### Grundlagen der Fachdidaktik
-
-- **Segment:** `unit:24569` · **unitId:** `24569`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=24569&periodId=589>
-
-- **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Di | Di | 11:30–13:00 | 07.06.2026 23:59:59 | — |
-
-### Grundlagen der Fachdidaktik Beruf und Wirtschaft - Vorlesung
-
-- **Segment:** `unit:97237` · **unitId:** `97237`
+- **Segment:** `exam:15529202` · **unitId:** `97237`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529201|exam:15529202>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=97237&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
@@ -88,9 +117,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.00.014 (0.014 Seminarraum (40)) |
 
-### Grundlagen der Fachdidaktik Beruf und Wirtschaft - Übung
+### GFD-Ü - Grundlagen der Fachdidaktik Beruf und Wirtschaft - Übung - Übung
 
-- **Segment:** `unit:90722` · **unitId:** `90722`
+- **Segment:** `exam:15529203` · **unitId:** `90722`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529201|exam:15529203>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90722&periodId=589>
 
 - **Veranstaltungsart:** Übung
@@ -103,17 +133,10 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20301.U1.031 (U1.031 Seminarraum (40)) |
 
-### Grundlagen der Fachwissenschaft Beruf und Wirtschaft - Übung
+### MedBuW - Medien im Unterricht Beruf und Wirtschaft - Seminar
 
-- **Segment:** `unit:90758` · **unitId:** `90758`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90758&periodId=589>
-
-- **Veranstaltungsart:** Übung
-- **Turnus:** nur im Wintersemester
-
-### Medien im Unterricht Beruf und Wirtschaft — Seminar
-
-- **Segment:** `unit:89408` · **unitId:** `89408`
+- **Segment:** `exam:15529210` · **unitId:** `89408`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529209|exam:15529210>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89408&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -127,9 +150,27 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
-### Methoden des Unterrichts Beruf und Wirtschaft — Seminar
+### MedBuW - Medien im Unterricht Beruf und Wirtschaft - Seminar
 
-- **Segment:** `unit:83678` · **unitId:** `83678`
+- **Segment:** `exam:15529214` · **unitId:** `89408`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529213|exam:15529214>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=89408&periodId=589>
+
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
+- **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
+
+#### Termine
+
+| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
+|---|---|---|---|---|
+| wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
+
+### MethBuW - Methoden des Unterrichts Beruf und Wirtschaft - Seminar
+
+- **Segment:** `exam:15529211` · **unitId:** `83678`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529209|exam:15529211>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83678&periodId=589>
 
 - **Veranstaltungsart:** Seminar
@@ -143,33 +184,43 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 |---|---|---|---|---|
 | wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
-### Seminar mit Medienschwerpunkt und Seminar mit Methodenschwerpunkt
+### MethBuW - Methoden des Unterrichts Beruf und Wirtschaft - Seminar
 
-- **Segment:** `unit:43547` · **unitId:** `43547`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43547&periodId=589>
+- **Segment:** `exam:15529215` · **unitId:** `83678`
+- **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17595|title:18260|exam:15529197|exam:15529198|exam:15529199|exam:15529200|exam:15529213|exam:15529215>
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83678&periodId=589>
 
-- **ECTS-Punkte:** 5.0
+- **Veranstaltungsart:** Seminar
+- **ECTS-Punkte:** 2.5
 - **Unterrichtssprache:** Deutsch
+- **Turnus:** in jedem Semester
 
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| wöchentlich | Di | 14:00–15:30 | 14.04.2026–14.07.2026 | 20302.01.121 (1.121 Seminarraum (40)) |
 
-### Vorlesung und Seminar: Arbeit und Beruf
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (2)
 
-- **Segment:** `unit:43544` · **unitId:** `43544`
-- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=43544&periodId=589>
+_Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
+### Fachwissenschaftliche Grundlagen Beruf und Wirtschaft - Vorlesung
+
+- **Segment:** `unit:85516` · **unitId:** `85516`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85516&periodId=589>
+
+- **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
+- **Turnus:** nur im Wintersemester
 
-#### Termine
+### Grundlagen der Fachwissenschaft Beruf und Wirtschaft - Übung
 
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Mo | Mo | 14:00–15:30 | 07.06.2026 23:59:59 | — |
+- **Segment:** `unit:90758` · **unitId:** `90758`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90758&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **Turnus:** nur im Wintersemester
 
 ## Lehramts-Prüfungsordnungen
 
