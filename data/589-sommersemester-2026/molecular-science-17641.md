@@ -553,14 +553,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129299&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 17:00–18:00 | 23.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### Übung zu Anorganische Chemie 2 (freiwilliges Angebot) - Übung
 
@@ -569,14 +562,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=129299&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 17:00–18:00 | 23.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### Übungen zur Experimentalphysik für Naturwissenschaftler II - Übung
 
@@ -1858,19 +1844,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 13:00–17:00 | 13.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
-| wöchentlich | Di | 12:00–13:00 | 14.04.2026–14.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 14:00–18:00 | 14.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 13:00–17:00 | 15.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### AC2 - Anorganische Chemie 2 - Chemie der Metalle - Vorlesung mit Übung
 
@@ -1880,19 +1854,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 13:00–17:00 | 13.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
-| wöchentlich | Di | 12:00–13:00 | 14.04.2026–14.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 14:00–18:00 | 14.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 13:00–17:00 | 15.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### AC2 - Anorganische Chemie 2 - Chemie der Metalle - Vorlesung mit Übung
 
@@ -1902,19 +1864,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 13:00–17:00 | 13.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Di | 09:15–10:00 | 14.04.2026–14.07.2026 | 13301.U1.0171 (C1 - Chemikum) |
-| wöchentlich | Di | 12:00–13:00 | 14.04.2026–14.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 14:00–18:00 | 14.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| Blockveranstaltung | — | 13:00–17:00 | 15.04.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
-| wöchentlich | Do | 10:00–12:00 | 16.04.2026–16.07.2026 | 11201.01.028 (A 1.42 Egerlandstr.1 Anorganische Chemie) |
 
 ### BCNF2 - Einführung in die Biochemie für Naturwissenschaftler Teil2 - Vorlesung
 
@@ -2024,14 +1974,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86532&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–16:45 | 14.04.2026–14.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### CM-QC-SS - Quantum Chemistry 2 - Vorlesung mit Übung
 
@@ -2040,14 +1983,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86532&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–16:45 | 14.04.2026–14.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### DD-LAB - Drug Discovery - LAB - Praktikum
 
@@ -2057,14 +1993,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Praktikum
 - **ECTS-Punkte:** 10.0
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 09:00–17:30 | 20.05.2026–21.05.2026 | — |
 
 ### DD-Med - Medicinal Chemistry - Vorlesung mit Übung
 
@@ -2073,14 +2002,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=82410&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 14:15–17:00 | 14.04.2026–14.07.2026 | 13301.01.0241 (C4 - Chemikum) |
 
 ### DD-MM-SS - Advanced Biomolecular Simulations (2V/1UE) - Vorlesung mit Übung
 
@@ -2465,14 +2387,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91441&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 14:15–16:00 | 20.04.2026–13.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
 
 ### Nano-SS - Inorganic Nanoparticles & Supraparticles - Vorlesung
 
@@ -2529,14 +2444,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=83134&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 12:00–14:00 | 13.04.2026–13.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### Nano-SS - Nanoprobes - Seminar
 
@@ -2570,7 +2478,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
 | wöchentlich | Do | 09:00–10:30 | 23.04.2026–16.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.[Telefon entfernt].01.020 ( Hörsaal ZMPT 01.020) |
-| Einzeltermin | Do | 09:00–10:30 | 23.07.2026 | — |
+| Einzeltermin | Do | 09:00–10:30 | 23.07.2026 | 08801.00.020 ( Seminarraum ZMPT 00.020) |
 
 ### OC-LAB - Praktikum Organische Chemie - Praktikum
 
@@ -2720,14 +2628,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94756&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### OC3-UE - Organische Chemie 3 - Übungen - Übung
 
@@ -2736,14 +2637,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=94756&periodId=589>
 
 - **Veranstaltungsart:** Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:00–14:00 | 28.04.2026–14.07.2026 | 13301.02.0241 (C3 - Chemikum) |
 
 ### OC3-VL - Organische Chemie 3 - Vorlesung
 
@@ -2793,7 +2687,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:15 | 27.04.2026–13.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
+| wöchentlich | Mo | 10:15–11:15 | 20.04.2026–13.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
 
 ### PC 1 - UE - Physikalische Chemie 1 - Übung - Übung
 
@@ -2809,7 +2703,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 10:15–11:15 | 27.04.2026–13.07.2026 | 11201.03.228 (P 3.88 Seminarraum der Physikalischen Chemie) |
+| wöchentlich | Mo | 10:15–11:15 | 20.04.2026–13.07.2026 | 11201.03.219 (P 3.70 Handbibliothek der Physikalischen Chemie) |
 
 ### PC 1 - V - Physikalische Chemie 1 - Vorlesung
 
@@ -3004,16 +2898,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86977&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:00–18:00 | 20.04.2026–22.06.2026 | — |
-| wöchentlich | Di | 13:00–18:00 | 21.04.2026–23.06.2026 | — |
-| wöchentlich | Mi | 13:00–18:00 | 22.04.2026–24.06.2026 | — |
 
 ### Quanti - Quantitative analytische Chemie - Praktikum - Praktikum
 
@@ -3022,16 +2907,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86977&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:00–18:00 | 20.04.2026–22.06.2026 | — |
-| wöchentlich | Di | 13:00–18:00 | 21.04.2026–23.06.2026 | — |
-| wöchentlich | Mi | 13:00–18:00 | 22.04.2026–24.06.2026 | — |
 
 ### Quanti - Quantitative analytische Chemie - Praktikum - Praktikum
 
@@ -3040,16 +2916,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=86977&periodId=589>
 
 - **Veranstaltungsart:** Praktikum
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:00–18:00 | 20.04.2026–22.06.2026 | — |
-| wöchentlich | Di | 13:00–18:00 | 21.04.2026–23.06.2026 | — |
-| wöchentlich | Mi | 13:00–18:00 | 22.04.2026–24.06.2026 | — |
 
 ### Quanti - Quantitative Analytische Chemie - Vorlesung
 
@@ -3149,8 +3016,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 15:00–16:45 | 16.04.2026–11.06.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
-| wöchentlich | Fr | 14:15–16:00 | 17.04.2026–19.06.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
+| wöchentlich | Do | 15:00–16:45 | 16.04.2026–11.06.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Fr | 14:30–16:00 | 17.04.2026–19.06.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
 
 ### ThC 1- Ü - Theoretische Chemie 1 - Übung - Übung
 
@@ -3166,8 +3033,8 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 15:00–16:45 | 16.04.2026–11.06.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
-| wöchentlich | Fr | 14:15–16:00 | 17.04.2026–19.06.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
+| wöchentlich | Do | 15:00–16:45 | 16.04.2026–11.06.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
+| wöchentlich | Fr | 14:30–16:00 | 17.04.2026–19.06.2026 | 13301.00.111 (00.111 - Chemikum Seminarraum Organische Chemie) |
 
 ### ThC 3 - Ü - Theoretische Chemie 3 - Übung
 
@@ -3183,7 +3050,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### ThC 3 - Ü - Theoretische Chemie 3 - Übung
 
@@ -3199,7 +3066,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11201.01.234 (TH1.805 Bibliothek und Seminarraum der Theoretischen Chemie) |
+| wöchentlich | Mi | 10:00–12:00 | 15.04.2026–15.07.2026 | 11201.00.11311 (0.113-12 Seminarraum 0.113-12) |
 
 ### ThC 3 -VL - Theoretische Chemie 3 - Vorlesung
 
@@ -3584,8 +3451,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

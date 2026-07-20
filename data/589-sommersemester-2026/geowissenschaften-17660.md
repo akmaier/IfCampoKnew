@@ -676,12 +676,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–13:00 | 15.04.2026–15.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
-
 ### [AS-V3] + [GT-V1] Sedimentpetrographie und Diagenese  - Hauptseminar
 
 - **Segment:** `exam:14192577` · **unitId:** `86463`
@@ -692,12 +686,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **ECTS-Punkte:** 2.5
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 11:00–13:00 | 15.04.2026–15.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
-
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Analytische Methoden  - Hauptseminar
 
 - **Segment:** `exam:14192368` · **unitId:** `86057`
@@ -706,14 +694,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 1.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:45–14:30 | 29.04.2026–15.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Analytische Methoden  - Hauptseminar
 
@@ -723,14 +704,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Hauptseminar
 - **ECTS-Punkte:** 1.5
-- **Unterrichtssprache:** Englisch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 13:45–14:30 | 29.04.2026–15.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### [AS-V3] + [GT-V1] Sedimentpetrographie-Diagenese-Petrophysik: Petrophysik und Reservoirpetrologie  - Hauptseminar
 
@@ -946,7 +920,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V3] Laboratory Methods in Paleoenvironmental research - Übung
@@ -964,7 +938,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V3] Laboratory Methods in Paleoenvironmental research - Übung
@@ -982,7 +956,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V3] Laboratory Methods in Paleoenvironmental research - Übung
@@ -1000,7 +974,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V3] Laboratory Methods in Paleoenvironmental research - Übung
@@ -1018,7 +992,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V3] Laboratory Methods in Paleoenvironmental research - Übung
@@ -1036,7 +1010,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Di | 07:30–09:30 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
+| wöchentlich | Di | 09:45–11:45 | 21.04.2026–09.06.2026 | 07402.01.206 (Lab. Pal. Laborgebäude Paläontologie) |
 | Einzeltermin | Fr | 12:00–14:00 | 03.07.2026 | — |
 
 ### [CE-V4] Climate and Earth System Data - Übung
@@ -1439,14 +1413,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:00–12:45 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
 ### [PG-V3] Petrologie II - Metamorphe Gesteine - Übung
 
@@ -1456,14 +1423,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 11:00–12:45 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
 
 ### [PG-V4] Petrologie III -  Isotopengeochemie - Übung
 
@@ -1561,15 +1521,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -1579,15 +1531,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -1597,15 +1541,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -1615,15 +1551,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -1633,15 +1561,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Dynamik des Systems Erde - System Erde III - Vorlesung mit Übung
 
@@ -1651,15 +1571,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 12:15–13:00 | 15.04.2026–15.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 14:30–16:00 | 16.04.2026–16.07.2026 | 00501.00.016 ( KH 0.016 Hörsaal Kollegienhaus) |
 
 ### Geochemie - Geochemie - Seminar und Übung
 
@@ -1961,10 +1873,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14181923|exam:14181925|exam:14181926|exam:14183496|exam:14183500>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=131986&periodId=589>
 
-- **Veranstaltungsart:** Kolloquium
-- **ECTS-Punkte:** 3.0
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Sommersemester
 
 ### Kolloquium (B.Sc. Geowissenschaften 20252) - Kolloquium
 
@@ -1992,7 +1901,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–10:30 | 17.04.2026–17.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Mineralische Rohstoffe - Seminar und Übung
 
@@ -2009,7 +1918,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–10:30 | 17.04.2026–17.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Mineralische Rohstoffe - Seminar und Übung
 
@@ -2026,7 +1935,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–10:30 | 17.04.2026–17.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Mineralische Rohstoffe - Seminar und Übung
 
@@ -2043,7 +1952,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–10:30 | 17.04.2026–17.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Mineralische Rohstoffe - Seminar und Übung
 
@@ -2060,7 +1969,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Fr | 09:00–10:30 | 17.04.2026–17.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Di | 09:00–10:30 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Oberflächennahe Geothermie - Planung, Vorgaben, Umsetzung - Seminar
 
@@ -2449,14 +2358,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 05.10.2026–10.10.2026 | — |
 
 ### Regionale Geologie - Kartierübung - Übung
 
@@ -2466,14 +2368,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 05.10.2026–10.10.2026 | — |
 
 ### Regionale Geologie - Kartierübung - Übung
 
@@ -2483,14 +2378,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 05.10.2026–10.10.2026 | — |
 
 ### Regionale Geologie - Kartierübung - Übung
 
@@ -2500,14 +2388,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 05.10.2026–10.10.2026 | — |
 
 ### Regionale Geologie - Kartierübung - Übung
 
@@ -2517,14 +2398,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Übung
 - **ECTS-Punkte:** 3.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung+Sa | — | 08:00–18:00 | 05.10.2026–10.10.2026 | — |
 
 ### Sedimentologie - System Erde IV - Vorlesung mit Übung
 
@@ -2534,15 +2408,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Sedimentologie - System Erde IV - Vorlesung mit Übung
 
@@ -2552,15 +2418,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Sedimentologie - System Erde IV - Vorlesung mit Übung
 
@@ -2570,15 +2428,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Sedimentologie - System Erde IV - Vorlesung mit Übung
 
@@ -2588,15 +2438,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Sedimentologie - System Erde IV - Vorlesung mit Übung
 
@@ -2606,15 +2448,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 08:30–10:00 | 14.04.2026–14.07.2026 | 00501.00.011 ( KH 0.011 Hörsaal Kollegienhaus) |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
 
 ### Seminar Angewandte Mineralogie  - Hauptseminar
 
@@ -2753,7 +2587,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Symmetrie-Eigenschaften-Wechselwirkungen - Übung - Übung
 
@@ -2769,7 +2603,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Symmetrie-Eigenschaften-Wechselwirkungen - Übung - Übung
 
@@ -2785,7 +2619,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Symmetrie-Eigenschaften-Wechselwirkungen - Übung - Übung
 
@@ -2801,7 +2635,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Symmetrie-Eigenschaften-Wechselwirkungen - Übung - Übung
 
@@ -2817,7 +2651,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.140 (ÜR Mineralogie Übungsraum Mineralogie) |
+| wöchentlich | Do | 10:00–11:00 | 16.04.2026–16.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### Wiss. Geowiss. Arbeiten und Präsentieren - Seminar
 
@@ -2917,19 +2751,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:00 | 16.04.2026–16.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Do | 13:30–15:30 | 16.04.2026–16.07.2026 | — |
-| wöchentlich | Do | 16:00–18:00 | 16.04.2026–16.07.2026 | — |
-| wöchentlich | Fr | 12:15–13:00 | 17.04.2026–17.07.2026 | 13003.00.886 (HA Hörsaal - Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) |
-| wöchentlich | Fr | 13:30–15:30 | 17.04.2026–17.07.2026 | — |
-| wöchentlich | Fr | 16:00–18:00 | 17.04.2026–17.07.2026 | — |
 
 ### Ökologie und Diversität B: Übungen zur Biologie und Systematik einheimischer Pflanzen - Vorlesung mit Übung
 
@@ -3014,7 +2836,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–14:45 | — | — |
+| Fr | Fr | 14:00–14:45 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### 20601 Vorlesung Allgemeine und Anorganische Chemie - Leistung
 
@@ -3029,7 +2851,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–14:45 | — | — |
+| Fr | Fr | 14:00–14:45 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### 20601 Vorlesung Allgemeine und Anorganische Chemie - Leistung
 
@@ -3044,7 +2866,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Fr | Fr | 14:00–14:45 | — | — |
+| Fr | Fr | 14:00–14:45 | — | 11901.00.227 (H9 Werner-von-Siemens - Hörsaal) |
 
 ### 20602 Anorganisch-chemisches Praktikum für Nebenfächler - Leistung
 
@@ -6248,8 +6070,6 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 - **Katalog-Permalink:** <https://www.campo.fau.de/qisserver/pages/cm/exa/coursecatalog/showCourseCatalog.xhtml?_flowId=showCourseCatalog-flow&periodId=589&path=title:17593|title:17602|title:17660|exam:14192158|exam:14192159|exam:14192161|exam:14192674|exam:14192689|exam:14192691>
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=108679&periodId=589>
 
-- **ECTS-Punkte:** 2.5
-
 #### Termine
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
@@ -6637,7 +6457,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -6653,7 +6473,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -6669,7 +6489,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -6685,7 +6505,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -6701,7 +6521,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### EPN-U - Übungen zu Experimentalphysik für Nebenfächler (LA Biologie/Chemie) - Übung
 
@@ -6717,7 +6537,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 14:00–16:00 | 13.04.2026–13.07.2026 | 13003.00.874 (HD Hörsaal Physikum) |
+| wöchentlich | Fr | 12:00–14:00 | 17.04.2026–17.07.2026 | 13003.00.882 (HB Hörsaal -Biologikum (Vorbelegungsrechte des Dept. Biologie im SoSe bis 31.01., im WiSe bis 15.08.)) 13101.00.103 (SR 00.103 Seminarraum der Angewandten Physik) |
 
 ### GIS I - (GIS I) Einführung in die Geographischen Informationssysteme für Geologen - Seminar
 
@@ -6919,14 +6739,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:45–14:15 | 14.04.2026–14.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### RegGeol - Regionale Geologie - Seminar - Seminar
 
@@ -7021,14 +6834,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Fr | 13:30–15:00 | 17.04.2026–17.07.2026 | 00301.01.124 (ÜR Geologie Übungsraum der Geologie) |
 
 ### WW3-SS-UEB-GlaFor - Glass formulation using project management - Vorlesung mit Übung
 
@@ -7061,7 +6867,7 @@ Die FAU bietet Ihnen mit über 275 Studiengängen eine inspirierende Lernumgebun
 |---|---|---|---|---|
 | wöchentlich | Fr | 13:30–15:00 | 08.05.2026–17.07.2026 | 11401.00.109 (0.56 Praktikum) 11401.00.037 (0.15 Seminarraum) 11401.00.237 (0.85 Seminarraum) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (98)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (100)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -7751,6 +7557,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **ECTS-Punkte:** 2.0
 - **Turnus:** nur im Wintersemester
 
+### Computer in den Geowissenschaften (Computers in geosciences) — Übung
+
+- **Segment:** `unit:91654` · **unitId:** `91654`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=91654&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 5.0
+- **Turnus:** nur im Wintersemester
+
 ### Einführung in die Geomikrobiologie — Seminar
 
 - **Segment:** `unit:125050` · **unitId:** `125050`
@@ -7788,7 +7603,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 24.04.2026–26.04.2026 | — |
+| Blockveranstaltung+SaundSo | — | 08:00–18:00 | 17.04.2026–19.04.2026 | — |
 
 ### Georessourcen — Seminar und Übung
 
@@ -7824,6 +7639,15 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 - **Veranstaltungsart:** Vorlesung mit Übung
 - **ECTS-Punkte:** 2.0
+- **Turnus:** nur im Wintersemester
+
+### Geowissenschaftliche Arbeitsmethoden II - Geländeübung II
+
+- **Segment:** `unit:93404` · **unitId:** `93404`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=93404&periodId=589>
+
+- **Veranstaltungsart:** Übung
+- **ECTS-Punkte:** 3.0
 - **Turnus:** nur im Wintersemester
 
 ### Grammar & Vocabulary for Erasmus students
@@ -7928,8 +7752,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

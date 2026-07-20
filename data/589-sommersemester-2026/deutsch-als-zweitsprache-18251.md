@@ -296,7 +296,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -312,7 +312,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -328,7 +328,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -344,7 +344,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Unterrichtssprache:** Deutsch
-- **Turnus:** nur im Wintersemester
+- **Turnus:** nur im Sommersemester
 
 #### Termine
 
@@ -845,16 +845,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
-
 ### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
 
 - **Segment:** `exam:14931879` · **unitId:** `111580`
@@ -864,16 +854,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
 
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
-
 ### Sprachförderung im Sommercamp - Vorbereitungsseminar - Seminar
 
 - **Segment:** `exam:14933643` · **unitId:** `111580`
@@ -882,16 +862,6 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 - **Veranstaltungsart:** Seminar
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Blockveranstaltung | — | 14:00–17:15 | 08.05.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 12.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 26.06.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 10.07.2026 | — |
-| Blockveranstaltung | — | 14:00–17:15 | 31.07.2026 | — |
 
 ### Sprachsystem und Deutsch als Zweitsprache (vhb-Tutorium) - Tutorium
 
@@ -2567,7 +2537,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93521 Grundlagenmodul I DaZ - Leistung
 
@@ -2582,7 +2552,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93521 Grundlagenmodul I DaZ - Leistung
 
@@ -2597,7 +2567,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93521 Grundlagenmodul I DaZ - Leistung
 
@@ -2612,7 +2582,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93541 Aufbaumodul DaZ - Leistung
 
@@ -2806,7 +2776,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93571 Grundlagenmodul I:  Einführung in Deutsch als Zweitsprache - Leistung
 
@@ -2820,7 +2790,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 93621 Aufbaumodul I: Perspektiven auf Deutsch als Zweitsprache - Leistung
 
@@ -3108,7 +3078,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 98211 Modulabschlussprüfung - Leistung
 
@@ -3123,7 +3093,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 98231 Grundlagenmodul DaZ, Lehramt Grundschule - Leistung
 
@@ -3137,7 +3107,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 98241 Grundlagenmodul I DaZ, Lehramt Mittelschule - Leistung
 
@@ -3151,7 +3121,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | — | 07.06.2026 23:59:59 | — |
+| Do | Do | 14:00–15:30 | 07.06.2026 23:59:59 | — |
 
 ### 98261 Aufbaumodul I DaZ, Lehramt Mittelschule - Leistung
 
@@ -3312,14 +3282,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Gegenwartssprache/DaF (in Nürnberg, nur für LA GS, MS, RS, Berufl. Schulen) - Hauptseminar
 
@@ -3344,14 +3307,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=103826&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 09:45–11:15 | 14.04.2026–14.07.2026 | 20301.U1.039 (U1.039 Seminarraum (30)) |
 
 ### Ling VM - Ling VM-Hauptseminar: Bereich Sprachwandel/Variation (in Erlangen, nur für BA, LA Gym und LA Berufliche Schulen) - Hauptseminar
 
@@ -3487,7 +3443,7 @@ _Section: Studiengänge der Philosophischen Fakultät und des Fachbereichs Theol
 |---|---|---|---|---|
 | wöchentlich | Di | 11:30–13:00 | 14.04.2026–14.07.2026 | 20301.02.047 (2.047 Seminarraum (40)) |
 
-## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (67)
+## Veranstaltungen — querverknüpft via Modul/Studiengang-Zuordnung (69)
 
 _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studiengang, sind aber in der Organisationseinheit-Liste der jeweiligen Detail-Seite diesem Studiengang zugeordnet (typisch für tief liegende Wahl- und Querschnitts-Lehrveranstaltungen)._
 
@@ -3540,14 +3496,7 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=120234&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** in jedem Semester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| Einzeltermin | Di | 17:30–19:00 | 14.04.2026 | — |
 
 ### Berlin, Brüssel …  Erlangen? Umweltpolitik im politischen Mehrebenensystem — Proseminar
 
@@ -3557,6 +3506,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungsart:** Proseminar
 - **ECTS-Punkte:** 5.0
 - **Turnus:** nur im Wintersemester
+
+### Berufsbezogene Kommunikation — Seminar
+
+- **Segment:** `unit:119467` · **unitId:** `119467`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=119467&periodId=589>
+
+- **Veranstaltungsart:** Seminar
 
 ### Chinesisch Elementarkurs 1
 
@@ -3635,6 +3591,13 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121943&periodId=589>
 
 - **Veranstaltungsart:** Hauptseminar
+
+### Einführung in die Kommunalpolitik — Proseminar
+
+- **Segment:** `unit:130829` · **unitId:** `130829`
+- **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=130829&periodId=589>
+
+- **Veranstaltungsart:** Proseminar
 
 ### Französisch Elementarkurs 1
 
@@ -3833,8 +3796,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

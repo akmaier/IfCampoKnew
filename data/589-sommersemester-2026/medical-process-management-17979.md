@@ -89,14 +89,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121279&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | — |
 
 ### Medizinisches Qualitätsmanagement - Vorlesung mit Übung
 
@@ -105,14 +98,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 - **Veranstaltungs-Permalink:** <https://www.campo.fau.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=121279&periodId=589>
 
 - **Veranstaltungsart:** Vorlesung mit Übung
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Do | 12:15–13:45 | 16.04.2026–16.07.2026 | — |
 
 ### Public Health und evidenzbasierte Medizin, Teil von Modul 2.2 Medizinmanagement II - Vorlesung
 
@@ -122,15 +108,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Public Health und evidenzbasierte Medizin, Teil von Modul 2.2 Medizinmanagement II - Vorlesung
 
@@ -140,15 +118,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 5.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mo | 13:15–14:45 | 13.04.2026–13.07.2026 | — |
-| wöchentlich | Do | 10:30–12:00 | 16.04.2026–16.07.2026 | — |
 
 ### Spezielle Aspekte des deutschen Gesundheitssystems - Seminar
 
@@ -158,14 +128,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | — |
 
 ### Spezielle Aspekte des deutschen Gesundheitssystems - Seminar
 
@@ -175,14 +138,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 - **Veranstaltungsart:** Seminar
 - **ECTS-Punkte:** 2.0
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Di | 12:30–14:00 | 14.04.2026–14.07.2026 | — |
 
 ### 1995 Praktikum 1 (M.Sc. Medical Process Management 2008) - Leistung
 
@@ -422,7 +378,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 15:00–16:30 | — | — |
+| Do | Do | 15:15–16:15 | — | — |
 
 ### 25501 Klausur zu IT-gestützte Prozesse im Gesundheitswesen - Leistung
 
@@ -437,7 +393,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Do | Do | 15:00–16:30 | — | — |
+| Do | Do | 15:15–16:15 | — | — |
 
 ### 25601 Klausur zu Management medizinischer Geschäftsprozesse - Leistung
 
@@ -572,7 +528,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Di | Di | 09:00–10:00 | — | — |
 
 ### 26011 Klausur zu IT-gestütztes Geschäftsprozessmanagement - Leistung
 
@@ -587,7 +543,7 @@ _Section: Studiengänge der Medizinischen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| Di | Di | 09:00–10:00 | — | — |
 
 ### 35211 Kostenträger I: Gesetzliche Krankenversicherung (Klausur) - Leistung
 
@@ -898,8 +854,8 @@ _Diese Veranstaltungen erscheinen im Campo-Katalog **nicht** unter diesem Studie
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| wöchentlich | Mo | 16:00–18:00 | 13.04.2026–13.07.2026 | 00501.01.020 ( KH 1.020 Hörsaal Kollegienhaus) |
-| wöchentlich | Mi | 14:00–16:00 | 15.04.2026–15.07.2026 | 00501.01.022 ( KH 1.022 Hörsaal Kollegienhaus) |
+| wöchentlich | Di | 14:00–16:00 | 14.04.2026–14.07.2026 | 05701.00.014 ( Gr. Hörsaal Bismarckstr. 1a) |
+| wöchentlich | Do | 14:00–16:00 | 16.04.2026–16.07.2026 | 00501.02.019 ( KH 2.019 Hörsaal Kollegienhaus) |
 
 ### Latein II für Fortgeschrittene (Vorbereitung auf die Prüfung der Gesicherten Lateinkenntnisse) — Übung
 

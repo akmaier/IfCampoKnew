@@ -1103,10 +1103,11 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–10:00 | 20.07.2026 | — |
 | Einzeltermin | Mo | 08:00–12:00 | 20.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 | Blockveranstaltung+Sa | — | 08:00–18:00 | 20.07.2026–25.07.2026 | — |
 | Einzeltermin | Mo | 10:00–12:30 | 20.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-| Einzeltermin | Mo | 10:00–17:00 | 20.07.2026 | 05801.02.110 ( A 401) 05801.02.111 ( PSG A 402) 05801.04.112 ( A 602) 05901.05.012 ( 05.[Telefon entfernt].05.013 ( 05.[Telefon entfernt].05.052 ( 05.052) |
+| Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
 | Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
 
 ### PR - Geländepraktikum - Praktikum
@@ -1124,10 +1125,11 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–10:00 | 20.07.2026 | — |
 | Einzeltermin | Mo | 08:00–12:00 | 20.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 | Blockveranstaltung+Sa | — | 08:00–18:00 | 20.07.2026–25.07.2026 | — |
 | Einzeltermin | Mo | 10:00–12:30 | 20.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-| Einzeltermin | Mo | 10:00–17:00 | 20.07.2026 | 05801.02.110 ( A 401) 05801.02.111 ( PSG A 402) 05801.04.112 ( A 602) 05901.05.012 ( 05.[Telefon entfernt].05.013 ( 05.[Telefon entfernt].05.052 ( 05.052) |
+| Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
 | Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
 
 ### PR - Geländepraktikum - Praktikum
@@ -1145,10 +1147,11 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
+| Einzeltermin | Mo | 08:00–10:00 | 20.07.2026 | — |
 | Einzeltermin | Mo | 08:00–12:00 | 20.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
 | Blockveranstaltung+Sa | — | 08:00–18:00 | 20.07.2026–25.07.2026 | — |
 | Einzeltermin | Mo | 10:00–12:30 | 20.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
-| Einzeltermin | Mo | 10:00–17:00 | 20.07.2026 | 05801.02.110 ( A 401) 05801.02.111 ( PSG A 402) 05801.04.112 ( A 602) 05901.05.012 ( 05.[Telefon entfernt].05.013 ( 05.[Telefon entfernt].05.052 ( 05.052) |
+| Einzeltermin | Mo | 12:30–17:00 | 20.07.2026 | 05901.01.059 ( 01.059) |
 | Einzeltermin | Do | 09:00–17:00 | 23.07.2026 | 05901.01.053 ( 01.[Telefon entfernt].01.055 ( 01.[Telefon entfernt].01.059 ( 01.059) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
@@ -1166,8 +1169,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
-| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -1184,8 +1187,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
-| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### Sem-KG - Hauptseminar Kulturgeographie - Hauptseminar
 
@@ -1202,8 +1205,8 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 | Rhythmus | Tag | Zeit | Datum von–bis | Raum |
 |---|---|---|---|---|
-| Einzeltermin | Mo | 16:00–17:00 | 13.04.2026 | — |
-| wöchentlich | Do | 14:15–17:45 | 23.04.2026–28.05.2026 | 55801.00.210 (00.210 Seminarraum) 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
+| Einzeltermin | Do | 14:15–15:15 | 05.02.2026 | 55801.00.215 (00.215 Seminarraum) |
+| wöchentlich | Mo | 14:15–15:45 | 20.04.2026–13.07.2026 | 55801.00.175 (00.175 Seminarraum 2 Seminarraum 2 Geographie Tennenlohe) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1213,15 +1216,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1231,15 +1226,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1249,15 +1236,7 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
 
 ### VL St - Vorlesung Methodologie und Statistik (Vorlesung Qualitative und quantitative Methoden) (PO2022) - Vorlesung
 
@@ -1267,12 +1246,4 @@ _Section: Studiengänge der Naturwissenschaftlichen Fakultät_
 
 - **Veranstaltungsart:** Vorlesung
 - **ECTS-Punkte:** 2.5
-- **Unterrichtssprache:** Deutsch
 - **Turnus:** nur im Sommersemester
-
-#### Termine
-
-| Rhythmus | Tag | Zeit | Datum von–bis | Raum |
-|---|---|---|---|---|
-| wöchentlich | Mi | 10:15–11:45 | 15.04.2026–15.07.2026 | 05901.00.040 ( HS C Hörsaal C - 00.040) |
-| Einzeltermin | Mi | 10:15–11:45 | 07.10.2026 | 55801.00.210 (00.210 Seminarraum) |
